@@ -1,4 +1,4 @@
-This matter is not that complicated.
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page Education Choice Oct 17, 2024 This matter is not that complicated.
 We have great public schools here in Bedford New Hampshire.
 I fully support them now as I did when I served for three years on the Bedford School Board and while my older son attended and graduated from Bedford High School.
 I recognize, however, that alternatives must and do exist for ALL Granite Staters.
@@ -18,7 +18,6 @@ I would support legislation that broadly allowed a significant percent or fixed 
 Alternatively, I would support legislation to provide a substantial tax credit to families that choose an educational alternative.
 Both alternatives provide an attractive option for families that desire an alternative and yet allow many, perhaps most, families to continue to choose more broadly attended public options.
 Let’s use common sense and offer all Granite Staters a choice.
-School Choice is a Cost Savings to the Taxpayers
-https://youtu.be/E9_xhZekyvs
-NH Education Choice is Good for All
-https://youtu.be/wmJd-TfXO-s
+School Choice is a Cost Savings to the Taxpayers https://youtu.be/E9_xhZekyvs NH Education Choice is Good for All https://youtu.be/wmJd-TfXO-s SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
+RECENT POSTS Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Apocalyptic Fantasies Harm Climate Discourse June 8, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

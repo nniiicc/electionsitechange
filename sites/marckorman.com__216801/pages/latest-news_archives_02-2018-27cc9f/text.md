@@ -1,22 +1,21 @@
-| | Author Write something about yourself.
-No need to be fancy, just an overview.
-Archives Categories |
-| | I recently joined Comcast Newsmakers to discuss some of the bills I have introduced during the current legislative session.
-You can watch the interview here. |
-| | During each legislative session, a Delegate is invited to deliver the Washington Day address on President's Day.
+Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe LATEST NEWS Newsmakers Interview 2/27/2018 I recently joined Comcast Newsmakers to discuss some of the bills I have introduced during the current legislative session.
+You can watch the interview here .
+Read More Washington Day Address 2/20/2018 During each legislative session, a Delegate is invited to deliver the Washington Day address on President's Day.
 I was honored to give the Washington Day Address this pastMonday and spoke about Washington's example to us all.
-You can hear what I said by clicking here.
-The speech starts around the 13th minute. |
-| | The full House has passed the Regional Greenhouse Gas Initiative Extension Act (HB 230), which I authored.
+You can hear what I said by clicking here .
+The speech starts around the 13th minute.
+Read More Passing a Bill 2/13/2018 The full House has passed the Regional Greenhouse Gas Initiative Extension Act (HB 230), which I authored.
 The Senate version of the bill has also passed that body.
 This is major progress for a bill this early in the legislative session.
-There is still work to do, but this is good news for legislation that will ensure Maryland remains in the Regional Greenhouse Gas Initiative, our regional cap and trade program for power plants. |
-| | Much of the work in Annapolis is done through committees.
+There is still work to do, but this is good news for legislation that will ensure Maryland remains in the Regional Greenhouse Gas Initiative, our regional cap and trade program for power plants.
+Read More Budget Hearings 2/6/2018 Much of the work in Annapolis is done through committees.
 Unlike Capitol Hill and other state legislatures, each Delegate only serves on one of six legislative committees.
 I serve on the Appropriations Committee which has jurisdiction over the budget, as well as policy affecting state personnel and higher education.
 Because we only serve one one committee, the expectation is that we attend committee hearings unless our own bill is being heard elsewhere.
 If you watch a committee hearing in Annapolis, you will notice far more members in attendance than you see at most hearings on C-SPAN.
 My committee also does a lot of work in subcommittee, as we review the budget request for each state agency.
-You can read the analyses we use for each agency by visiting this website.
-As the non-partisan Department of Legislative Services releases the analyses, they will be posted. |
-By Authority of Friends of Marc Korman; Mark Brown, Treasurer
+You can read the analyses we use for each agency by visiting this website .
+As the non-partisan Department of Legislative Services releases the analyses, they will be posted.
+Read More Author Write something about yourself.
+No need to be fancy, just an overview.
+Archives July 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 March 2025 February 2025 January 2025 December 2024 November 2024 October 2024 September 2024 August 2024 July 2024 June 2024 May 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 October 2023 September 2023 August 2023 July 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 November 2022 October 2022 September 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 December 2018 November 2018 October 2018 September 2018 August 2018 July 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 November 2017 October 2017 September 2017 August 2017 July 2017 June 2017 May 2017 April 2017 March 2017 February 2017 January 2017 December 2016 November 2016 October 2016 September 2016 August 2016 July 2016 June 2016 May 2016 April 2016 March 2016 February 2016 January 2016 December 2015 November 2015 October 2015 September 2015 August 2015 July 2015 June 2015 May 2015 April 2015 March 2015 February 2015 January 2015 December 2014 November 2014 October 2014 June 2014 May 2014 March 2014 February 2014 January 2014 September 2013 August 2013 July 2013 June 2013 May 2013 Categories All Legislative Session Update Monthly Update News Clip RSS Feed By Authority of Friends of Marc Korman; Mark Brown, Treasurer HOME ABOUT MARC ISSUES SCHOLARSHIP LATEST NEWS CONTRIBUTE CONTACT sign up to receive updates

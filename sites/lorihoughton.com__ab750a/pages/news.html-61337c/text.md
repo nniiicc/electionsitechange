@@ -1,4 +1,4 @@
-| We are heading into crossover at the State House — the mid-session deadline for bills to leave either the House or Senate.
+Home About Lori Priorities News VOTER INFORMATION Donate Community Resources 2026 Legislative Session: A Year in Review 6/8/2026 0 Comments 0 Comments Legislative Update 3/8/2026 0 Comments We are heading into crossover at the State House — the mid-session deadline for bills to leave either the House or Senate.
 The education committees have been given additional time this year because of the scope and complexity of their work.
 I was recently asked why we haven’t moved as many bills by this session as in previous years.
 I don’t track the number of bills closely enough to know whether that’s entirely true, but I do know that the issues we are working on this year are particularly challenging.
@@ -21,7 +21,7 @@ RADs will allow towns in a region to work together to ensure that we have a cons
 This ensures that property taxes are spread fairly across the state and that there are fewer swings in individual taxpayers’ bills from year to year.
 A different (and higher) property tax rate on second homes will support our public schools while reducing property taxes on homesteads, businesses, apartments, and seasonal camps.
 Tax Credits and Free Filing Assistance: Last year, lawmakers expanded Vermont's Earned Income Tax Credit and Child Tax Credit, which offers tax credits up to $400 for low-wage earners, and up to $1000/child under 7.
-Vermonters may be eligible for a credit on property taxes when filing your homestead declaration.
+Vermonters may be eligible for a credit on property taxes when filing your homestead declaration .
 Vermont has volunteer tax preparers all over the state, ready to assist.
 Go to TaxCreditsVT.org for more information about Vermont's anti-poverty tax credits and how to file for them.
 YOU’RE INVITED TO OUR COMMUNITY CONVERSATION SERIES Your Essex House delegation is excited to invite you to our community conversations, a monthly forum for updates on bills, committee work, and caucus activities.
@@ -33,7 +33,7 @@ Karen Dolan, Chittenden 22 [email protected] Rep.
 Lori Houghton, Chittenden 22, [email protected] Rep.
 Leonora Dodge, Chittenden 23, [email protected] Rep.
 Rey Garofano, Chittenden 23, [email protected] Rep.
-Alyssa Black, Chittenden 24, [email protected] By the Essex House Delegation Vermonters are right to be alarmed by rising property taxes.
+Alyssa Black, Chittenden 24, [email protected] ​ 0 Comments Education and Health Care: Vermont Must Do Both 2/4/2026 0 Comments By the Essex House Delegation Vermonters are right to be alarmed by rising property taxes.
 Families feel it.
 Municipalities feel it.
 And legislators feel it.
@@ -49,6 +49,10 @@ Local school boards do not negotiate statewide health care contracts, and neithe
 Health care costs are a major driver of education spending, and the state must take responsibility for addressing them.
 Let’s be clear: health care costs are high in Vermont because prices are high.
 The legislature has taken significant action to bring down these prices.
+Last year, we capped outpatient drug prices at 120% of the average sales price, resulting in an immediate $200 million reduction in health care spending.
+We directed the Green Mountain Care Board to set caps on hospital prices for the upcoming hospital fiscal year as a means of bringing down overall health care costs.
+We tasked the Agency of Human Services with developing a statewide strategic health care plan to ensure every Vermont community has access to essential services, while concentrating other services in the settings that can deliver them most efficiently, at the lowest cost, and with the highest quality.
+But we are not done, there is much to do, and we will spend this upcoming session ensuring that everything we do in healthcare addresses affordability first and foremost.
 At the same time, Vermont’s education system was built for a very different state than the one we live in today.
 Enrollment is declining statewide, while student needs are growing.
 Simply counting students does not tell the full story.
@@ -72,19 +76,14 @@ Implementation matters.
 The Legislature has a responsibility to ensure Act 73 is carried out with evidence, transparency, and respect for communities, and without disrupting districts that are already operating responsibly.
 Education reform should scale best practices statewide, not penalize those who adopted them early.
 We are grateful to EWSD and local school boards across the state for leading with transparency, responsibility, and courage in extraordinarily difficult circumstances.
-As legislators, our task is to match that leadership: to confront rising health care costs, modernize education governance, and protect both educational quality and affordability.
-In the coming weeks and months, your Essex House Delegation is committed to sharing the work and progress of our House Education Committee as they continue the work to determine how Act 73 should be implemented in Vermont.
+As legislators, our task is to match that leadership: to confront rising health care costs, modernize education governance, and protect both educational quality and affordability. ​ In the coming weeks and months, your Essex House Delegation is committed to sharing the work and progress of our House Education Committee as they continue the work to determine how Act 73 should be implemented in Vermont.
 We look forward to robust dialogue with our community and welcome folks reaching out at any time.
 Essex House Delegation Rep.
 Karen Dolan, Chittenden 22 - [email protected] Rep.
 Lori Houghton, Chittenden 22 - [email protected] Rep.
 Leonora Dodge, Chittenden 23 - [email protected] Rep.
 Rey Garofano, Chittenden 23 - [email protected] Rep.
-Alyssa Black, Chittenden 24 - [email protected] Last year, we capped outpatient drug prices at 120% of the average sales price, resulting in an immediate $200 million reduction in health care spending.
-We directed the Green Mountain Care Board to set caps on hospital prices for the upcoming hospital fiscal year as a means of bringing down overall health care costs.
-We tasked the Agency of Human Services with developing a statewide strategic health care plan to ensure every Vermont community has access to essential services, while concentrating other services in the settings that can deliver them most efficiently, at the lowest cost, and with the highest quality.
-But we are not done, there is much to do, and we will spend this upcoming session ensuring that everything we do in healthcare addresses affordability first and foremost.
-The 2026 Legislative Session is in full swing and it feels like we never left the building.
+Alyssa Black, Chittenden 24 - [email protected] ​ 0 Comments House Legislative Update 1/18/2026 0 Comments The 2026 Legislative Session is in full swing and it feels like we never left the building.
 Committees picked up where they left off taking testimony on the State’s most pressing issues while new proposed bills are being introduced for a few more weeks.
 Please feel free to reach out to your House Essex Representative (contact info below) anytime with questions, comments or needs for assistance.
 We are all proud to serve Essex and remain committed to bringing the voices and values of our city to the statehouse.
@@ -92,7 +91,7 @@ You can follow all of the activity of the session at this link: https://legislat
 The governor proposed in the Budget Adjustment Act to use $75 million to buy down property taxes.
 We’re waiting until later in the session to make those decisions when we have all the information on proposed school budgets and understand the pressing budget needs in housing, health care, and the impact from federal cuts on Vermonters.
 EDUCATION UPDATE Legislative Counsel and the Joint Fiscal Office, non-partisan staff for all legislators, provided a refresher of Act 73, an act relating to transforming Vermont’s education governance, quality, and finance systems.
-The presentation can be viewed here.
+The presentation can be viewed here .
 The House and Senate Education Committees picked up where they left off last year taking testimony on our education system.
 The Committees are hearing from Vermont superintendents, Vermont principals, Agency of Education, Redistricting Task Force, and Commission on the Future of Public Education.
 There is consensus to create a more affordable and equitable education system that increases opportunities for all Vermont students, the question remains how we get there.
@@ -103,8 +102,8 @@ With declining enrollment, the state can no longer afford to operate so many sma
 While consolidation will require upfront investment, time, and careful planning, failing to address scale simply shifts inequities and costs onto local communities and students.
 VSA cautions that funding reforms like a foundation formula will not succeed on their own unless structural inefficiencies are addressed.
 On Friday the Secretary of Education presented three potential redistricting maps: regions established by Vermont School Boards Association, Regional High School Districts and a hybrid of the two.
-Secretary Sanders testimony can be found here.
-If you want to dive in even further, there is information here.
+Secretary Sanders testimony can be found here .
+If you want to dive in even further, there is information here .
 The VSBA map would divide Chittenden County into two districts: Eastern Chittenden would include CVU, EWSD and Mt Mansfield.
 Western Chittenden County would include Burlington, Colchester, Milton, South Burlington, Winooski.
 The Regional High School Districts would divide Chittenden County into 3 districts and in the hybrid model Chittenden County would be three districts based on the regional high school maps.
@@ -116,15 +115,21 @@ Moving to a foundation formula will provide stability and predictability to scho
 ESSEX HOUSE DELEGATION COMMUNITY CONVERSATION SERIES Your Essex House delegation is excited to invite you to "Community Conversations," a monthly forum for updates on bills, committee work, and caucus activities.
 These events are designed to provide an open, respectful space for questions, concerns, and dialogue.
 At each gathering, we'll share an overview of our priorities for the session and answer your questions.
-Sunday, February 15th 10-11:30am at Essex Teen Center Saturday, March 14th 9-10:30am via Zoom Saturday, April 11th 9-10:30am at Essex Town Office Saturday, May 16th 11am-12:30pm at Essex Teen Center Best Rep.
-Lori Houghton Chittenden 22: City of Essex Junction Karen Dolan, [email protected], 802.233.4434 Lori Houghton, [email protected], 802.373.0599 WHAT VERMONT GAINS WITH THE PASSAGE OF H.454 1.
-A deliberate and thoughtful multi-year process with contingencies built into the process and required future legislative votes. 2.
-A more sustainable and predictable funding structure for Vermont’s education system. 3.
-A comprehensive approach for decreasing the cost curve of education spending. 4.
-Increased access to equitable educational opportunities across the state. 5.
+Sunday, February 15th 10-11:30am at Essex Teen Center Saturday, March 14th 9-10:30am via Zoom Saturday, April 11th 9-10:30am at Essex Town Office Saturday, May 16th 11am-12:30pm at Essex Teen Center ​ Best Rep.
+Lori Houghton Chittenden 22: City of Essex Junction Karen Dolan, [email protected] , 802.233.4434 Lori Houghton, [email protected] , 802.373.0599 0 Comments Why We Voted Yes On H.454 6/22/2025 0 Comments WHAT VERMONT GAINS WITH THE PASSAGE OF H.454 1.
+A deliberate and thoughtful multi-year process with contingencies built into the process and required future legislative votes.
+2.
+A more sustainable and predictable funding structure for Vermont’s education system.
+3.
+A comprehensive approach for decreasing the cost curve of education spending.
+4.
+Increased access to equitable educational opportunities across the state.
+5.
 A commitment to our public schools.
-Far fewer independent schools will qualify to be approved, including and especially those that have been able to preserve the right to discriminate with public dollars. 6.
-No longer will public dollars flow to out-of-state private schools, subsidizing elite boarding school experiences. 7.
+Far fewer independent schools will qualify to be approved, including and especially those that have been able to preserve the right to discriminate with public dollars.
+6.
+No longer will public dollars flow to out-of-state private schools, subsidizing elite boarding school experiences.
+7.
 No longer will approved independent schools be able to set their own tuitions.
 Why We Supported the Passage of H.454 This has been a challenging process and we did not come to this decision without long and thoughtful contemplation.
 We all have or had children in the EWSD school system.
@@ -164,4 +169,6 @@ By voting yes on H.454, we chose not to let that happen and instead offer a path
 We look forward to the work ahead next session and will remain vigilant in our efforts to gather feedback and understand the full impact.
 We understand that community members will have a variety of perspectives on this vote.
 We welcome the opportunity to discuss your thoughts, better understand the impact and explore the considerations that should be made for future steps in Vermont’s Education Transformation.
-Representative Alyssa Black Representative Karen Dolan Representative Lori Houghton Representative Rey Garofano Representatives Leonora Dodge |
+Representative Alyssa Black Representative Karen Dolan Representative Lori Houghton Representative Rey Garofano Representatives Leonora Dodge 0 Comments <<Previous [email protected] | 802-373-0599 paid for by lori houghton for VT house .
+40 School street . essex junction . vt .
+05452 . treasurer bridget meyer Home About Lori Priorities News VOTER INFORMATION Donate Community Resources

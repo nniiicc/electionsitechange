@@ -1,9 +1,7 @@
-Back to All Events
-Please join Gabriel and former Colorado State House District 31 Representatives Judy Solano, Joe Salazar, Said Sharbini, and Julia Marvin, as we kick-off Gabriel’s campaign for the November election.
-Previous
-Previous
-September 9
-Community Town Hall
-Next
-Next
-September 23
+0 Skip to Content Meet Gabriel 🤝 Issues ✊ Endorsements 📣 Leaders Organizations Events 🗓️ Media 📷 Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Open Menu Close Menu Meet Gabriel 🤝 Issues ✊ Endorsements 📣 Leaders Organizations Events 🗓️ Media 📷 Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Open Menu Close Menu Meet Gabriel 🤝 Issues ✊ Folder: Endorsements 📣 Back Leaders Organizations Events 🗓️ Folder: Media 📷 Back Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Back to All Events General Election Kick-Off Saturday, September 12, 2026 4:00 PM 7:00 PM Address provided upon RSVP (map) Google Calendar ICS Please join Gabriel and former Colorado State House District 31 Representatives Judy Solano, Joe Salazar, Said Sharbini, and Julia Marvin, as we kick-off Gabriel’s campaign for the November election.
+Source: https://secure.actblue.com/donate/novelectionkickoffgfc Previous Previous September 9 Community Town Hall Next Next September 23 Gabriel Cervantes x CU Dems Meet Gabriel 👋 Connect/Contact 🤝 Donate💵 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign-Up Sign up with your email address to receive campaign updates and information about events!
+Email Address Sign Up Thank you!
+Paid for by Gabriel for Colorado Gabriel Cervantes Registered Agent: Roberta Ayala 12470 York St.
+#404 Eastlake, CO 80614

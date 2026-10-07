@@ -1,17 +1,4 @@
-top of page
-Senator Kreun
-Endorsements
-- Minnesota Police and Peace Officers Association
-- International Brotherhood of Electrical Workers, Locals 110 and 292
-- International Union of Operating Engineers Local 49
-- Minnesota Pipe Trades Association
-- Northern Midwest Regional Council of Carpenters
-- Minnesota Chamber of Commerce Leadership PAC
-- MetroNorth Chamber Leadership Fund
-- National Federation of Independent Business
-- Housing First Minnesota
-- Minnesota Farm Bureau
-- Minnesotans for Health and Parental Rights
-- Minnesotans For Affordable Health Insurance
-- Minnesota Citizens Concerned for Life
-bottom of page
+top of page About Issues Endorsements Contribute Contact Media DONATE Senator Kreun Endorsements Minnesota Police and Peace Officers Association International Brotherhood of Electrical Workers, Locals 110 and 292 International Union of Operating Engineers Local 49 Minnesota Pipe Trades Association Northern Midwest Regional Council of Carpenters Minnesota Chamber of Commerce Leadership PAC MetroNorth Chamber Leadership Fund National Federation of Independent Business Housing First Minnesota Minnesota Farm Bureau Minnesotans for Health and Parental Rights​ Minnesotans For Affordable Health Insurance Minnesota Citizens Concerned for Life Prepared and paid for by Campaign Fund of Michael Kreun P.O.
+Box 490311 Blaine, MN 55449 ​ www.MichaelForMNSenate.com ​ 2026 Michael Kreun for MN Senate.
+All Rights Reserved.
+PRIVACY POLICY TERMS & CONDITIONS bottom of page

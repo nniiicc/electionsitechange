@@ -1,13 +1,8 @@
 Thank you District 34 for Turning Out!
 We won the Primary with 52.99%!!
-Signed in as:
-filler@godaddy.com
-If you sign up to receive text messages from us, we will use it to send you text message updates from the Joy Beth for State House campaign.
+Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer More Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Account My Account Sign out Sign In My Account Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 If you sign up to receive text messages from us, we will use it to send you text message updates from the Joy Beth for State House campaign.
 We may also collect, store, and use your mobile phone number to send you other text messages from the campaign.
 We will also collect and store other personally identifiable information, such as your name, address, phone number, mobile phone number, e-mail address, username, and/or similar information you may choose to provide to us.
 In addition, as noted above, we may share this information, including your mobile phone number, with our affiliates, partners, and other organizations or entities.
 However, text messaging originator opt-in data and consent will not be shared with any non-associated and/or non-related third-party individual, brand, or entity except for with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes).
-Paid for by: Friends of Joy Beth Cottle
-390 Goldstream Rd Fairbanks AK 99712
-Copyright © 2026 Friends of Joy Beth Cottle - All Rights Reserved.
-joybeth@joybethforalaska.com
+Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Paid for by: Friends of Joy Beth Cottle 390 Goldstream Rd Fairbanks AK 99712 (907)388-6280 Copyright © # Friends of Joy Beth Cottle - All Rights Reserved. joybeth@joybethforalaska.com

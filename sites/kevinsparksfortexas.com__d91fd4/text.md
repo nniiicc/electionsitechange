@@ -1,15 +1,6 @@
-“At a time when far-left activists seek to nationalize our elections, indoctrinate our kids with so-called critical race theory, and surrender our southern border to the drug cartels, the hard-working families of Senate District 31 deserve a state senator who will proudly defend our conservative values.” -Kevin Sparks
-Kevin Sparks is president of Discovery Operating, Inc, a family owned and operated oil and gas company in Midland that has created hundreds of local jobs over almost fifty years.
-Kevin and his wife Jill understand that strong communities do not exist by accident, which is why they have quietly invested in their community for over thirty years as Young Life and church leaders and board members of local nonprofits.
+Menu About Kevin Issues News Volunteer Endorsements Facebook Twitter Instagram LinkedIn Donate Creating Local Jobs, Serving Our Community Kevin Sparks for Texas Senate District 31 Stand with Kevin: Your Name* Email Address* Zip Code* Use My Name COUNT ME IN Conservative Leader “At a time when far-left activists seek to nationalize our elections, indoctrinate our kids with so-called critical race theory, and surrender our southern border to the drug cartels, the hard-working families of Senate District 31 deserve a state senator who will proudly defend our conservative values.” -Kevin Sparks Creating Local Jobs Kevin Sparks is president of Discovery Operating, Inc, a family owned and operated oil and gas company in Midland that has created hundreds of local jobs over almost fifty years.
+Family and Community Kevin and his wife Jill understand that strong communities do not exist by accident, which is why they have quietly invested in their community for over thirty years as Young Life and church leaders and board members of local nonprofits.
 The Sparks are also small group leaders to young couples rearing their own families.
 They have four adult children and are active members of Stonegate Fellowship Church where he currently serves as an elder.
-- One Accord for Kids, promoting foster care for children
-- Midland Classical Academy, Trustee
-- Young Life, Austin & Midland, Former Volunteer Leader
-- High Sky Children’s Ranch, Former Board Member
-- Texas Public Policy Foundation, Former Board Member
-- Natural Gas Producers Association, Former Board Member
-- Secure the Border
-- Defend the Second Amendment
-- Protect Life
-- Reduce Regulation and Spending
+A Community Leader One Accord for Kids, promoting foster care for children Midland Classical Academy, Trustee Young Life, Austin & Midland, Former Volunteer Leader High Sky Children’s Ranch, Former Board Member Texas Public Policy Foundation, Former Board Member Natural Gas Producers Association, Former Board Member Will Defend Our Conservative Values Secure the Border Defend the Second Amendment Protect Life Reduce Regulation and Spending Facebook Twitter Instagram LinkedIn MAKE A DONATION Tweets by kevinsparkstx Home About Kevin Issues News Volunteer Endorsements Contact Download Donation Form Here Donate By Mail Make checks payable to: Kevin Sparks Campaign 2600 Mockingbird Ln.
+Midland, TX 79705 Paid for by Kevin Sparks for Texas State Senate Copyright - Kevin Sparks for Texas State Senate - All Rights Reserved

@@ -1,27 +1,18 @@
-About Cindy
-Meet Your Next State Representative
-BIOGRAPHY
-Cindy Banyai is a Candidate for Florida State House 78, serving Fort Myers.
+top of page SUBSCRIBE HOME ABOUT CINDY NO SHIT BOLD ACTION NEWS EVENTS Menu Close DONATE About Cindy Meet Your Next State Representative BIOGRAPHY Cindy Banyai is a Candidate for Florida State House 78, serving Fort Myers.
 She is a teacher, a small business owner, and a nonprofit leader.
 Dr.
 Banyai has been a decorated professional in the field of community development for over 20 years, collaborating with nonprofits around the world on issues such as homelessness, addiction, education, conservation, and sustainable development.
 She is running for Florida House to be the servant leader Fort Myers deserves, fighting for our homes, our health, and our kids!
 Cindy Banyai believes together we can create a Fort Myers where the sun shines on everyone.
 She is running for Florida House to be the servant leader Fort Myers deserves.
-MISSION TO RUN
-I decided to run for office after working to help people in our community and seeing how rampant corruption steals opportunity from everyday people.
-I was often behind the scenes, researching and writing reports.
+MISSION TO RUN I decided to run for office after working to help people in our community and seeing how rampant corruption steals opportunity from everyday people. ​ I was often behind the scenes, researching and writing reports.
 Reports meant to help our government and programs work more efficiently and effectively.
 I would present these reports to leaders who would check the box and move on without making significant change.
-I saw friends and family fail to benefit from public dollars with little more than a shrug and a nod saying "that's just the way it is".
-I'm here to say that corruption is not "just the way it is" and I'm here to put a stop to it.
-As your State Representative, I will think together with all leaders, regardless of party, to act on the issues that most affect our lives.
+I saw friends and family fail to benefit from public dollars with little more than a shrug and a nod saying "that's just the way it is". ​ I'm here to say that corruption is not "just the way it is" and I'm here to put a stop to it. ​ As your State Representative, I will think together with all leaders, regardless of party, to act on the issues that most affect our lives.
 I will focus on policies that drive an efficient, transparent government, which creates jobs and makes housing more affordable and accessible.
-THE METHOD
-Through servant leadership and the Fair & Free Florida plan, I will bring new resolve and energy to Tallahassee.
+THE METHOD Through servant leadership and the Fair & Free Florida plan, I will bring new resolve and energy to Tallahassee.
 I will take my education, knowledge, and experience in governance and activism to put this state back on the right track for the people, not the powerful.
-More About
-Cindy Banyai, Ph.D.
+More About Cindy Banyai, Ph.D.
 Cindy Banyai the fighter goes all the way back to her childhood.
 She watched her young parents struggle and sacrifice to give her opportunities to grow and chase her education dreams.
 As an undergraduate, Cindy studied international relations and psychology at Michigan State University.
@@ -34,24 +25,27 @@ When she returned to the US, Cindy moved to Fort Myers and settled in the commun
 She grew her family --- adding three kids and pets as she built a life back in the states.
 Cindy has never strayed from being hands-on involved in the neighborhoods and with the people she cares about.
 Cindy taught courses on American Government and global issues at a local university, while also serving in leadership roles in regional non-profits.
-She has also founded her own small businesses to provide organizational and management consulting to businesses across the globe.
-Dr.
+She has also founded her own small businesses to provide organizational and management consulting to businesses across the globe. ​ Dr.
 Banyai worked to institutionalize evaluation in governments and nonprofits around the world through technical assistance for the Japan International Cooperation Agency.
 There she helped national and local government actors in Nepal, Southeast Asia, the Philippines, Greater Africa, Tunisia, and Chile.
-In recognition of her evaluation work, she received the 2018 Evaluation Advocacy and Use Practice Award from the American Evaluation Association.
-She received the Donald W.
+In recognition of her evaluation work, she received the 2018 Evaluation Advocacy and Use Practice Award from the American Evaluation Association. ​ She received the Donald W.
 Littrell New Professional Award in 2015 from the Community Development Society for her work on regional initiatives at the Southwest Florida Community Foundation and for her commitment to community-based advocacy organizations such as BikeWalkLee.
 Dr.
-Banyai was part of the BikeWalkLee Steering Committee at the time they were nominated for the News-Press 'Person of the Year' award in 2011.
-Systems change and collaboration are areas of specialty for Dr.
+Banyai was part of the BikeWalkLee Steering Committee at the time they were nominated for the News-Press 'Person of the Year' award in 2011. ​ Systems change and collaboration are areas of specialty for Dr.
 Banyai.
-She was an architect of the 300+ member FutureMakers Coalition and she has been instrumental in positive changes in outcomes and operations at numerous local nonprofits, including ushering in millions in grants and revenue.
-Dr.
-Banyai continued to serve the field of community development as the President of the Community Development Society and representative to the United Nations for International Association for Community Development, an NGO with UN consultative status.
-Dr.
+She was an architect of the 300+ member FutureMakers Coalition and she has been instrumental in positive changes in outcomes and operations at numerous local nonprofits, including ushering in millions in grants and revenue. ​ Dr.
+Banyai continued to serve the field of community development as the President of the Community Development Society and representative to the United Nations for International Association for Community Development, an NGO with UN consultative status.​ Dr.
 Banyai turned to politics in 2020 to shine a light on corruption in Southwest Florida.
 She was the two-time nominee for US House of Representatives, as well as the leader of several local clubs and caucuses.
 In 2021, she was named 'Political Educator of the Year' by Lee Pitts Live.
 Dr.
 Banyai began working with other grassroots candidates around Florida in 2023 to ensure that the people always have a seat at the table.
-She carries the theory of community development and governance with her in her consulting work and hopefully soon in Tallahassee.
+She carries the theory of community development and governance with her in her consulting work and hopefully soon in Tallahassee. ​ ​ CINDY BANYAI Subscribe to my newsletter EMAIL * SUBMIT Yes, subscribe me to your newsletter. * Help Take Back Tally FIRST NAME * LAST NAME * EMAIL * CHOOSE YOUR TOPIC Phone Bank Canvas Host a house party Online Resistance Team Share your special talents and skills (specify below) MESSAGE SUBMIT By providing your email and/or phone number you opt-in to updates from Cindy Banyai for Florida by text and/or email.
+Unsubscribe anytime.
+No mobile information will be shared by us with third parties/affiliates for marketing/promotional purposes.
+Text messaging originator opt-in data and consent will not be shared by us with any third parties.
+Message frequency varies.
+Message & Data Rates May Apply.
+Reply HELP for help.
+Reply STOP to opt out.
+HOME ABOUT CINDY NO SHIT BOLD ACTION EVENTS NEWS Menu Close VOTE@CINDYBANYAI.COM (239) 351-5574 PO BOX 62422 FORT MYERS, FL 33906 Privacy Policy | Terms & Conditions © # Southwest Strategies Paid for and approved by Cindy Banyai , Democrat for Florida House 78 HOME ABOUT CINDY NO SHIT BOLD ACTION EVENTS NEWS bottom of page

@@ -1,3 +1,3 @@
-El Distrito 20 está formado por muchas personas y vecindarios diversos.
+0 Skip to Content Home Meet Kate Volunteer Vote Español Voluntario Vota Open Menu Close Menu Home Meet Kate Volunteer Vote Español Voluntario Vota Open Menu Close Menu Home Meet Kate Volunteer Vote Folder: Español Back Voluntario Vota El Distrito 20 está formado por muchas personas y vecindarios diversos.
 Por eso es tan importante para mí que lleguemos y escuchemos a la gente en cada parte de nuestro distrito, en cada calle. Únase a nosotros mientras construimos una comunidad y esta campaña.
-Hazle saber a Kate cómo puedes ayudar
+Hazle saber a Kate cómo puedes ayudar Paid for by Kate for CT, Judith Lohman, Treasurer Approved by Kate Farrar

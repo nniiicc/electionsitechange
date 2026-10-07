@@ -1,5 +1,4 @@
-The whole concept of Racism at this point in history on planet earth is a Kafkatrap.
-(that is until Races from other planets show themselves to us).
+Skip to content Skip to sidebar Skip to footer Menu Close Home About Ask David Virtual Rally Volunteer Events Close Home About Ask David Virtual Rally Volunteer Events Youtube Instagram Get in Touch Home About Ask David Virtual Rally Volunteer Events You Are Human May 13, 2021 The whole concept of Racism at this point in history on planet earth is a Kafkatrap. (that is until Races from other planets show themselves to us).
 You Are Human.
 As a Human, you are perfectly imperfect and flawed.
 Just like every other Human.
@@ -11,13 +10,12 @@ People all over this country are accepting the possibility that there is a psych
 This then leads to the religious belief that those, or any “physical” differences between humans, could have some sort of effect on any individual’s “human value proposition” or morality.
 Every human knows in their heart that Judging people by these bigoted criteria is unintelligent and inhumane.
 Yet doing so has become main stream.
-They call it “Woke” and “Critical Race Theory.”
-The only reason any Human would seek to view individuals, or groups, of Human Beings as anything but Human Beings is for the purpose of personal gain.
+They call it “Woke” and “Critical Race Theory.” The only reason any Human would seek to view individuals, or groups, of Human Beings as anything but Human Beings is for the purpose of personal gain.
 If you have any love for your fellow Humans you must drop the whole concept of “racism” from your life.
 That is unless you believe that physical differences in Humans make a difference in their individual Human value proposition, or morality.
 Racism is an illusion created to perpetuate hate between humans for profit and political purposes.
 “Influential persons” believe they can control one of the groups and ostracize the another by sewing the seeds of hate between groups of humans in society.
-The real issue we face regarding harmony among groups of humans is adherence to the “Rule of Law.” We must recognize that there are mass violations throughout all levels and groups of society and fight to eradicate all violations.
+The real issue we face regarding harmony among groups of humans is adherence to the “Rule of Law.” We must recognize that there are mass violations throughout all levels and groups of society and fight to eradicate all violations .
 We must stop all “Human” Rights inequalities, regardless of the random physical traits of the alleged victims and perpetrators.
 Separatists create the illusion that some Humans are “different.” Then they either violate the “different” group, or give it advantage over other groups.
 The “difference” then creates a false piety (aka: virtue signal) as an excuse for the atrocities committed against the unfavored group.
@@ -27,17 +25,12 @@ They have been outlawed by numerous Constitutional Amendments and Congressional 
 Yet, for some reason the hateful separatist activities being carried out by our current theoretical presidential administration and their radical supporters are called “justice.” BY doing so they dishonor all of our ancestors and their contributions to making the USA the great nation that it is.
 In order to support the non-existent differences between Humans (and therefore their hateful acts toward a certain group), the concept of racism on planet earth was created.
 By claiming that a group of Humans is of a different “Race,” a society can easily be convinced that it is ok to mistreat said group because the group is no longer a part of the “Humane Race” (…or at least not part of the currently “chosen” race).
-When you acknowledge claims that Racism can exist on Planet Earth, you are:
-1. supporting millennia of hate created by the illusion of Racism (whether that word existed or not)
-2. supporting mass actions for, or against, any group Humans based on any random characteristic that can be applied;
-2. stating that you believe there is more than one bipedal sentient race on this planet and that you can tell the difference between them by physical characteristics;
-3. stating that you believe that human beings physical characteristics have a significant effect their personality;
-4. stating that you believe that physical differences in humans have a direct affect on a human’s morality and ability to function within society.
+When you acknowledge claims that Racism can exist on Planet Earth, you are: 1. supporting millennia of hate created by the illusion of Racism (whether that word existed or not) 2. supporting mass actions for, or against, any group Humans based on any random characteristic that can be applied; 2. stating that you believe there is more than one bipedal sentient race on this planet and that you can tell the difference between them by physical characteristics; 3. stating that you believe that human beings physical characteristics have a significant effect their personality; 4. stating that you believe that physical differences in humans have a direct affect on a human’s morality and ability to function within society.
 The current push toward hate of a single group of humans based on how the specific planetary environment of their ancestors affected their appearance is no less hateful than any other effort to do so in history.
 In today’s world, any “group” that would be a threat to society would inevitably be of mixed color and origin.
-The cycle can only be broken by breaking the cycle.
+The cycle can only be broken by breaking the cycle .
 We must all commit to the the fact that the very idea of racism is hate speech and that it does not matter who the perpetrator is (color, status, money, location, public entity, public office holder etc).
-NO excuses and NO exceptions.
+NO excuses and NO exceptions .
 Only then can we end all division and acts of hatred among Humans based on childish claims that anyone can be a better, or worse, Human because of what the planetary environment did to their ancestor’s bodies (that is not “following the science”).
 Calling people out is EXACTLY what I am talking about.
 But that can not be done selectively and no hateful acts can be trivialized.
@@ -63,5 +56,10 @@ You Are Human.
 As a Human, you, and every other Human on this planet, are perfectly imperfect and flawed.
 Not just you and not just them.
 All of US.
-#IAMHUMAN
-#HumansForHumans
+#IAMHUMAN #HumansForHumans Donate Now Search Search Recent Posts Andrea Salinas Congressional Record Willamette Week 9/29/26 2026 Fraud and Alien Crimes Democrat or Socialist (DSA) Could this be the case that takes Voter ID to the Supreme Court before 11/3/2026?
+Recent Comments No comments to show.
+David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
+Links Home About FAQs Ask David News Volunteer Events Legal Privacy Policy Terms of Services Contact +1 (503) 714-8086‬ info@RussIsForUS.com PO Box 21, Dundee, OR 97115 Socials Facebook X-twitter Youtube Instagram © # David Russ Is For US.
+Paid for by David Russ Is For US.
+Some images, audio, video, or written content may be created or enhanced using artificial intelligence (AI) tools.
+Site Managed by David Russ

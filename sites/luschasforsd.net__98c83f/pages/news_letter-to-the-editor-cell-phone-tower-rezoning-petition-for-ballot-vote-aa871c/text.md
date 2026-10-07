@@ -1,6 +1,4 @@
-This letter was printed in the Brandon Valley Journal November 11, 2025:
-Sign the petition to vote on the rezoning for the cell phone tower
-I would like to thank Mr.
+Home Meet Manuel Platform Scorecard News Endorsements Photos Contact News / Letter to the Editor: Cell Phone Tower Rezoning Petition for Ballot Vote 11 Nov Tuesday, 2:07 PM · 2025 Letter to the Editor: Cell Phone Tower Rezoning Petition for Ballot Vote This letter was printed in the Brandon Valley Journal November 11, 2025 : Sign the petition to vote on the rezoning for the cell phone tower I would like to thank Mr.
 Savage and the Brandon Valley Journal for their coverage of the City Council meetings dealing with the potential construction of a new cell phone tower within Brandon city limits.
 I was aware that the construction of the tower was discussed during the May 19, 2025 City Council meeting.
 But I rested in the belief that the issue had been resolved with the City Council voting down the proposal.
@@ -20,7 +18,7 @@ And consequently, what happened: No meaningful further studies of health effects
 Since 1996, digital communication technology has evolved tremendously (from 2G, 3G, 4G, now 5G, soon 6G) but the rules for approval have been mostly stuck in the 1990s.
 A couple of rhetorical questions: Why, do you think, the federal government felt compelled to give the telecommunication industry quasi immunity at a time when this technology was not even on many people’s radar?
 Why did the telecommunication industry install most of their 5G infrastructure while a majority of the country was under lock down in 2020?
-Forward now to the November 3, 2025, City Council meeting, where the 2nd reading of the rezoning application was to take place.
+Forward now to the November 3, 2025, City Council meeting, where the 2 nd reading of the rezoning application was to take place.
 The mayor specifically said that public comments should be held until the agenda item is up for discussion.
 This time there were at least 5 families present to voice their concerns.
 The City Council briefly heard from a member of the Planning & Zoning commission when all of a sudden there was a motion to pass, it was seconded, and voted on.
@@ -29,7 +27,8 @@ It all happened so quickly that it took the citizens in the audience a few minut
 The City Council moved on with their business as if nothing had happened when a couple of citizens made their way to the podium and asked to give input about the rezoning agenda item.
 Reluctantly, the mayor let one citizen speak for about 3 minutes before cutting her off.
 He pointed out that her comments about a cell phone tower were not matching any agenda item.
-Let that sink in for a moment, then consider these two points: #1, the concerned citizen was not allowed her 5min to speak and no City Council member spoke up to hear her out. #2, during the previous meeting on October 20, 2025 the cell tower company representatives were given more than 50min to elaborate on their project.
+Let that sink in for a moment, then consider these two points: #1, the concerned citizen was not allowed her 5min to speak and no City Council member spoke up to hear her out.
+#2, during the previous meeting on October 20, 2025 the cell tower company representatives were given more than 50min to elaborate on their project.
 There was a lively discussion between them and City Council members.
 But this time with the same item on the agenda, the City Council did not want to hear anything about a cell tower.
 The double standard exhibited by our local elected leaders is astonishing.
@@ -38,5 +37,5 @@ My take on the situation is that some members of the City Council feel a lot of 
 The good news is that the citizens of Brandon have another option to have their voices heard.
 There is a petition circulating to put the rezoning decision on the ballot for all Brandon residents to vote on.
 If you are concerned about a cell phone tower right across from two schools where more than 1,200 kids spent 7 hours of their day, please go to Laundry Evolved, 1302 E Rushmore Dr. in Brandon M, Tu, Th, F 8am-5pm, W 8am-2pm to sign the petition or send an email to manuelluschas@gmail.com to coordinate getting your signature on the petition.
-We need 400 signatures of registered Brandon residents by December 3rd, 2025.
-Manuel Luschas, Brandon SD
+We need 400 signatures of registered Brandon residents by December 3 rd , 2025.
+Manuel Luschas, Brandon SD Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

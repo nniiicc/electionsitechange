@@ -1,7 +1,11 @@
 {
  "description": "Support Brady O'Neil's campaign for Minnesota's District 52 Senate seat.",
  "final_url": "https://bradyoneil.com/",
- "paid_for_by": "paid for by Brady O&#x27;Neil for State Senate Committee 3432 Denmark Ave, PO Box 52, Eagan, MN, 55123",
+ "fingerprint": "0bc18e48be7e53ff86466cb0ed1449d6e13826e6",
+ "format": 3,
+ "paid_for_by": "paid for by Brady O'Neil for State Senate Committee 3432 Denmark Ave, PO Box 52, Eagan, MN, 55123",
  "title": "Brady O'Neil for Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "1999"
+ ]
 }

@@ -1,14 +1,58 @@
 [
-"https://ronnieoakley.us/",
-"https://ronnieoakley.us/campaign-supply-board",
-"https://ronnieoakley.us/category/campaign-news",
-"https://ronnieoakley.us/contact",
-"https://ronnieoakley.us/district-39",
-"https://ronnieoakley.us/donate",
-"https://ronnieoakley.us/get-involved",
-"https://ronnieoakley.us/issues-priorities",
-"https://ronnieoakley.us/meet-ronnie",
-"https://ronnieoakley.us/news",
-"https://ronnieoakley.us/privacy-policy",
-"https://ronnieoakley.us/why-im-running"
+{
+"text": "Campaign News",
+"href": "https://ronnieoakley.us/category/campaign-news/"
+},
+{
+"text": "Campaign Supply Board",
+"href": "https://ronnieoakley.us/campaign-supply-board/"
+},
+{
+"text": "Contact",
+"href": "https://ronnieoakley.us/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://ronnieoakley.us/donate/"
+},
+{
+"text": "District 39",
+"href": "https://ronnieoakley.us/district-39/"
+},
+{
+"text": "Get Involved",
+"href": "https://ronnieoakley.us/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://ronnieoakley.us/"
+},
+{
+"text": "Issues & Priorities",
+"href": "https://ronnieoakley.us/issues-priorities/"
+},
+{
+"text": "Meet Ronnie",
+"href": "https://ronnieoakley.us/meet-ronnie/"
+},
+{
+"text": "News",
+"href": "https://ronnieoakley.us/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ronnieoakley.us/privacy-policy/"
+},
+{
+"text": "RonnieOakley.us",
+"href": "https://ronnieoakley.us"
+},
+{
+"text": "Why I’m Running",
+"href": "https://ronnieoakley.us/why-im-running/"
+},
+{
+"text": "[image: Ronnie Oakley for District 39]",
+"href": "https://ronnieoakley.us/"
+}
 ]

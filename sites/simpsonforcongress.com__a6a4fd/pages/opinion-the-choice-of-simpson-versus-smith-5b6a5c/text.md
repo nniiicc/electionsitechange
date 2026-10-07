@@ -1,4 +1,4 @@
-This should be easy if you watch what they do and not what they say.
+Skip to content Home About Mike News Issues Endorsements Volunteer Media FIND VOTING LOCATION DONATE Opinion: The choice of Simpson versus Smith April 1, 2022 This should be easy if you watch what they do and not what they say.
 I have watched Rep.
 Simpson work his way up the committee structure in Congress to eventually become chair of House Appropriations Subcommittee on Energy and Water.
 The 2020 election flipped the majority in the House, so Simpson became ranking member of this subcommittee.
@@ -27,4 +27,6 @@ He owns a law firm specializing in personal injury lawsuits and medical debt col
 While these services are often needed in a community, overstepping the bounds of reasonable ethics is not.
 Smith’s methods were so egregious that the politically friendly Idaho Legislature passed legislation that created regulations to prevent massive overcharging on legal fees and confiscation of property.
 I think the choice is clear.
-Find original article at PostRegister.com
+Find original article at PostRegister.com « Previous: My fight in Congress to ‘Back the Blue’ Former Governor Butch Otter Endorses Mike Simpson for Congress » Sign up for Updates First Name (Required) Last Name (Required) Email (Required) Zip Code Submit Twitter Facebook YouTube Paid for by Simpson for Congress, T.
+Layne Van Orden, Treasurer privacy Policy P.O.
+Box 1541, Boise, ID 83701 Phone: 208-367-1927 Email: info@simpsonforcongress.com

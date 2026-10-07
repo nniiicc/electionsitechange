@@ -1,51 +1,210 @@
 [
-"http://montgomerycountydelegation.com/",
-"https://chaowu.org/",
-"https://chaowu.org/2016/06/hcpss-calendar-survey",
-"https://chaowu.org/2016/09/columbia-liyang-sister-city-presentation",
-"https://chaowu.org/2017/10/colors-of-the-wind-holiday-gala-of-greater-washington-dc-on-12162017",
-"https://chaowu.org/2019/03/columbia-development-tracker-2019-02",
-"https://chaowu.org/2020/02/hcea-analysis-on-county-budget-2021",
-"https://chaowu.org/2020/08/11-2020-interview-with-cooper-stepke-marriotts-ridge-high-school2019",
-"https://chaowu.org/2020/11/public-notice-howard-county-local-bills-hearing-11-17-2020",
-"https://chaowu.org/2021/02/howard-county-%e2%80%8b-demographic-land-use-trends%e2%80%8b-general-plan-update%e2%80%8b-fy-2022",
-"https://chaowu.org/2021/05/latest-apfo-chart-from-hcpss",
-"https://chaowu.org/2021/07/aapi-history-is-american-history",
-"https://chaowu.org/2023/02/03/maryland-education-founding-reform-enrollment-calculation",
-"https://chaowu.org/2026-hoco-candidates",
-"https://chaowu.org/constituent-service",
-"https://chaowu.org/delegate-office-hour",
-"https://chaowu.org/delegate-scholarship",
-"https://chaowu.org/donate",
-"https://chaowu.org/update",
-"https://chaowu.org/wu-legislative-bills",
-"https://chaowu.org/wu-legislative-bills?share=facebook",
-"https://chaowu.org/wu-legislative-bills?share=twitter",
-"https://howardcountymd.gov/sites/default/files/2023-01/HoCo16.23.pdf",
-"https://howardcountymd.gov/sites/default/files/2023-11/HoCo%206-24.pdf",
-"https://howardcountymd.gov/sites/default/files/2024-01/HoCo%2018-24.pdf",
-"https://howardcountymd.gov/sites/default/files/2024-11/Ho.Co_.%2010-25.pdf",
-"https://howardcountymd.gov/sites/default/files/2024-11/Ho.Co_.%2011-25.pdf",
-"https://howardcountymd.gov/sites/default/files/2024-11/Ho.Co_.%2015-25.pdf",
-"https://howardcountymd.gov/state-delegation",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0044?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0053?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0066?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0082?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0147?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0199?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0221?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0598?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0804?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0820?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0823?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0837?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1047?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1054?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1309?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1317?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hj0001?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Index/house",
-"https://montgomerycountydelegation.com/2025/MC12-25.html",
-"https://montgomerycountydelegation.com/2025/MC6-25.html"
+{
+"text": "2016 Consultant Study on HCPSS enrollment, capacity and redistricting",
+"href": "https://chaowu.org/2019/01/2016-consultant-study-on-hcpss-enrollment-capacity-and-redistricting/"
+},
+{
+"text": "2026 HoCo Candidates",
+"href": "https://chaowu.org/2026-hoco-candidates/"
+},
+{
+"text": "BillDrafting (howardcountymd.gov)",
+"href": "https://www.howardcountymd.gov/sites/default/files/2023-01/HoCo16.23.pdf"
+},
+{
+"text": "BillDrafting (howardcountymd.gov)",
+"href": "https://www.howardcountymd.gov/sites/default/files/2023-11/HoCo%206-24.pdf"
+},
+{
+"text": "BillDrafting (howardcountymd.gov)",
+"href": "https://www.howardcountymd.gov/sites/default/files/2024-01/HoCo%2018-24.pdf"
+},
+{
+"text": "Charter School Application (Reading Opens Doors Charter School) and Update",
+"href": "https://chaowu.org/2021/05/chart-school-application/"
+},
+{
+"text": "Constituent Service",
+"href": "https://chaowu.org/constituent-service/"
+},
+{
+"text": "Delegate Office Hour (Meet and Greet)",
+"href": "https://chaowu.org/delegate-office-hour/"
+},
+{
+"text": "Delegate Wu Five 2027 Local Bills",
+"href": "https://chaowu.org/2026/09/delegate-wu-five-2027-local-bills/"
+},
+{
+"text": "Delegate Wu Legislative Bills",
+"href": "https://chaowu.org/wu-legislative-bills/"
+},
+{
+"text": "Delegate Wu Legislative Scholarship",
+"href": "https://chaowu.org/delegate-scholarship/"
+},
+{
+"text": "Donate",
+"href": "https://chaowu.org/donate/"
+},
+{
+"text": "Dr. Chao Wu",
+"href": "https://chaowu.org/"
+},
+{
+"text": "HCC Summer language program STARTALK application starts",
+"href": "https://chaowu.org/2022/03/hcc-summer-language-program-startalk-application-starts/"
+},
+{
+"text": "Judge William Tucker",
+"href": "https://chaowu.org/2017/04/recall-judge-william-tucker/"
+},
+{
+"text": "Legislation – HB0053 (maryland.gov)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0053?ys=2024RS"
+},
+{
+"text": "Legislation – HB0082 (maryland.gov)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0082?ys=2024RS"
+},
+{
+"text": "Legislation – HB0199 (maryland.gov)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0199?ys=2024RS"
+},
+{
+"text": "Legislation – HB0221 (maryland.gov)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0221?ys=2024RS"
+},
+{
+"text": "Legislation – HB0598 (maryland.gov)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0598?ys=2023RS"
+},
+{
+"text": "Legislation – HB0804",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0804?ys=2025RS"
+},
+{
+"text": "Legislation – HB0820 (maryland.gov)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0820?ys=2024RS"
+},
+{
+"text": "Legislation – HB0823",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0823?ys=2025RS"
+},
+{
+"text": "Legislation – HB0837 (maryland.gov)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0837?ys=2024RS"
+},
+{
+"text": "Legislation – HB1047",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1047?ys=2025RS"
+},
+{
+"text": "Legislation – HB1054",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1054?ys=2025RS"
+},
+{
+"text": "Legislation – HB1309",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1309?ys=2025RS"
+},
+{
+"text": "Legislation – HB1317",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1317?ys=2025RS"
+},
+{
+"text": "MC 12-25",
+"href": "https://montgomerycountydelegation.com/2025/MC12-25.html"
+},
+{
+"text": "MC 6-25",
+"href": "https://montgomerycountydelegation.com/2025/MC6-25.html"
+},
+{
+"text": "MSP Leadership and Career Development Seminar for Students",
+"href": "https://chaowu.org/2026/06/msp-leadership-and-career-development-seminar-for-students/"
+},
+{
+"text": "Maryland Education Founding Reform-Enrollment Calculation | Dr. Chao Wu",
+"href": "https://chaowu.org/2023/02/03/maryland-education-founding-reform-enrollment-calculation/"
+},
+{
+"text": "Meet Delegate Chao Wu",
+"href": "https://chaowu.org/"
+},
+{
+"text": "Meeting minutes on HCPSS Chinese/World Language Teaching",
+"href": "https://chaowu.org/2016/09/meeting-minutes-on-hcpss-chineseworld-language-teaching/"
+},
+{
+"text": "News Update",
+"href": "https://chaowu.org/update/"
+},
+{
+"text": "PG County Public School Report: Facilities for Education",
+"href": "https://chaowu.org/2020/05/pg-county-public-school-report-facilities-for-education/"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://chaowu.org/wu-legislative-bills/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://chaowu.org/wu-legislative-bills/?share=twitter"
+},
+{
+"text": "The Flaws in the Modern Education System: How Can We Address Them? (By Pio Kim, May 2024)",
+"href": "https://chaowu.org/2024/05/the-flaws-in-the-modern-education-system-how-can-we-address-them-pio-kim/"
+},
+{
+"text": "[image]",
+"href": "https://chaowu.org/"
+},
+{
+"text": "[image]",
+"href": "https://chaowu.org/wu-legislative-bills/"
+},
+{
+"text": "http://www.montgomerycountydelegation.com/",
+"href": "http://www.montgomerycountydelegation.com/"
+},
+{
+"text": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0044?ys=2025RS",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0044?ys=2025RS"
+},
+{
+"text": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0066?ys=2025RS",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0066?ys=2025RS"
+},
+{
+"text": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0147?ys=2025RS",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0147?ys=2025RS"
+},
+{
+"text": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hj0001?ys=2025RS",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hj0001?ys=2025RS"
+},
+{
+"text": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Index/house",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Index/house"
+},
+{
+"text": "https://www.howardcountymd.gov/sites/default/files/2024-11/Ho.Co_.%2010-25.pdf",
+"href": "https://www.howardcountymd.gov/sites/default/files/2024-11/Ho.Co_.%2010-25.pdf"
+},
+{
+"text": "https://www.howardcountymd.gov/sites/default/files/2024-11/Ho.Co_.%2011-25.pdf",
+"href": "https://www.howardcountymd.gov/sites/default/files/2024-11/Ho.Co_.%2011-25.pdf"
+},
+{
+"text": "https://www.howardcountymd.gov/sites/default/files/2024-11/Ho.Co_.%2015-25.pdf",
+"href": "https://www.howardcountymd.gov/sites/default/files/2024-11/Ho.Co_.%2015-25.pdf"
+},
+{
+"text": "https://www.howardcountymd.gov/state-delegation",
+"href": "https://www.howardcountymd.gov/state-delegation"
+},
+{
+"text": "​HCPD brand NEW Youth Advisory Council is looking for members!",
+"href": "https://chaowu.org/2017/06/%e2%80%8bhcpd-brand-new-youth-advisory-council-is-looking-for-members/"
+}
 ]

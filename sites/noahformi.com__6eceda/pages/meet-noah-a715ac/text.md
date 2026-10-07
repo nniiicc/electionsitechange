@@ -1,5 +1,4 @@
-Meet Noah
-State Representative Noah Arbit was born and raised in the east-side of West Bloomfield by his parents, Dr.
+Skip to content Meet Noah Results Priorities Noah’s Plan for Mental Health Noah’s Plan for Economy & Jobs Noah’s Plan for Health & Seniors Noah’s Plan on Hate Crimes & Extremism Noah’s Plan for Democracy & Rights Noah’s Plan for Education Noah’s Plan for Environment & Water Noah’s Plan for Smart Justice Noah’s Plan for Community & Representation Contact DONATE Menu Toggle Meet Noah Results Priorities Contact DONATE Meet Noah Meet Noah State Representative Noah Arbit was born and raised in the east-side of West Bloomfield by his parents, Dr.
 Steven and Edie Arbit.
 Noah attended Bloomfield Hills Schools and Temple Israel, and graduated with a degree in comparative politics and Jewish studies.
 Guided by the Jewish call to repair the world, Noah was inspired to join the world of politics, working for numerous candidates and campaigns, including Hillary Clinton and Governor Whitmer.
@@ -15,3 +14,4 @@ Noah currently serves as Co-Chair of the Black-Jewish Unity Caucus of the Michig
 It is the greatest honor of Noah’s life to have the privilege and responsibility of waking up every morning committed to advocating for the people of West Bloomfield, Commerce, and the Lakes — the community that raised him and made him who he is.
 Our community deserves a leader who shows up, works tirelessly, and fights for us — not a political party or special interests.
 That’s exactly the kind of leader Noah has been, and always will be — for us.
+Like Noah on Facebook Follow Noah on Twitter Support Noah's Campaign Sign-Up for Noah's Newsletter Paid for by Noah Arbit for Michigan PO Box 253005 West Bloomfield, MI 48325

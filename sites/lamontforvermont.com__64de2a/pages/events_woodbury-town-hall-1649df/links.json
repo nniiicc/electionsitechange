@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Woodbury+Town+Hall&dates=20241013T221500Z%2F20241014T000000Z&location=63+Valley+Lake+Road%2C+Woodbury%2C+VT%2C+05681%2C+United+States",
-"http://maps.google.com/?q=63+Valley+Lake+Road+Woodbury%2C+VT%2C+05681+United+States",
-"https://facebook.com/lamontforvermont",
-"https://instagram.com/lamontforvermont",
-"https://lamontforvermont.com/",
-"https://lamontforvermont.com/about",
-"https://lamontforvermont.com/cart",
-"https://lamontforvermont.com/endorsements",
-"https://lamontforvermont.com/events",
-"https://lamontforvermont.com/events/tuesday-phone-banking",
-"https://lamontforvermont.com/events/weekly-canvassing-a4gne",
-"https://lamontforvermont.com/events/woodbury-town-hall?format=ical",
-"https://lamontforvermont.com/get-involved",
-"https://lamontforvermont.com/issues",
-"https://linkedin.com/in/saudia-lamont-vermont",
-"https://secure.actblue.com/donate/lamont-for-vermont-1",
-"https://sos.vermont.gov/elections/voters/registration"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=63+valley+lake+road+woodbury%2C+vt%2C+05681+united+states"
+},
+{
+"text": "0",
+"href": "https://www.lamontforvermont.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lamontforvermont.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.lamontforvermont.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.lamontforvermont.com/get-involved"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lamont-for-vermont-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lamontforvermont.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.lamontforvermont.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Woodbury+Town+Hall&dates=20241013T221500Z%2F20241014T000000Z&location=63+Valley+Lake+Road%2C+Woodbury%2C+VT%2C+05681%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.lamontforvermont.com/events/woodbury-town-hall?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.lamontforvermont.com/issues"
+},
+{
+"text": "Next Next October 15 Tuesday Phone Banking",
+"href": "https://www.lamontforvermont.com/events/tuesday-phone-banking"
+},
+{
+"text": "Previous Previous October 13 Sunday Canvassing in Woodbury",
+"href": "https://www.lamontforvermont.com/events/weekly-canvassing-a4gne"
+},
+{
+"text": "Register to vote",
+"href": "https://sos.vermont.gov/elections/voters/registration/"
+},
+{
+"text": "[image: Saudia LaMont for Vermont]",
+"href": "https://www.lamontforvermont.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lamontforvermont"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lamontforvermont/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/saudia-lamont-vermont/"
+}
 ]

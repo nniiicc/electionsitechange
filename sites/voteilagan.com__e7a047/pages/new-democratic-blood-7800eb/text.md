@@ -1,3 +1,4 @@
-When the state Legislature reconvenes in 2021, Puna will have new representation in both the Senate and House.
+Skip to content Home Meet Greggor Priorities Support Donate Home Meet Greggor Priorities Support Donate Home Meet Greggor Priorities Support Donate Kapela, Ilagan bring new blood to Democrat House races Kapela, Ilagan bring new blood to Democrat House races When the state Legislature reconvenes in 2021, Puna will have new representation in both the Senate and House.
 With most of the votes counted in the first and second printouts, state Rep.
 Joy San Buenaventura won the Democratic primary by a landslide for the District 2 Senate seat currently occupied by Island Naturals owner Russell Ruderman, who didn’t run for re-election.
+Read Article Greggor Ilagan 2020-08-23T22:01:25-10:00 Greggor Ilagan State House, District 4 (808) 557-5819 aloha@voteilagan.com Vote for Ilagan HC3 Box 14048 Keaau, HI 96749 Primary: Saturday, August 8, 2026 © Copyright | Vote for Ilagan, HC3 Box 14048, Keaau, HI 96749 Facebook Instagram Page load link Go to Top

@@ -1,5 +1,7 @@
-THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT
-Today I sat down with my friend Daniel Greer, who’s spent years living in Asia, to talk about how America looks from the outside right now.
+0 Skip to Content HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES Folder: ISSUES Back Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Podcast , • 6/14/26 THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT Today I sat down with my friend Daniel Greer, who’s spent years living in Asia, to talk about how America looks from the outside right now.
 But the conversation quickly turned into something deeper—and honestly more urgent.
 We ended up talking about FDR's Economic Bill of Rights, one of the most powerful political ideas the Democratic Party ever produced—and one it has mostly forgotten.
 FDR believed political freedom meant very little without economic freedom.
@@ -25,3 +27,8 @@ Because the cities that built America still matter.
 And they still deserve a politics that fights for them.
 This turned into one of the most thoughtful conversations we’ve had in a while.
 Give it a listen.
+Next Why Is Southern Ontario Doing Better Than Western New York?
+You Might Also Like WE ARE AT A CROSSROADS IN WESTERN NEW YORK PODCAST CLIP: THEY DIDN’T EVEN SHOW UP NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
+WHO GETS TO DECIDE WHO IS A CHRISTIAN?
+Why Is Southern Ontario Doing Better Than Western New York?
+I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: Volunteer and Sign Up for Updates!

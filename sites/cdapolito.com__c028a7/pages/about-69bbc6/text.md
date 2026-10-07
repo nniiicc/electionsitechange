@@ -1,5 +1,4 @@
-Meet Craig
-Craig has lived in Tennessee for over 45 years and has been a resident of Maury County since 1997.
+0 Skip to Content Craig D'Apolito - TN64 Home Contact Us About The Issues Open Menu Close Menu Craig D'Apolito - TN64 Home Contact Us About The Issues Open Menu Close Menu Home Contact Us About The Issues Meet Craig Craig has lived in Tennessee for over 45 years and has been a resident of Maury County since 1997.
 His mother was a nurse for over 30 years and his father was an educator, first as a teacher and then with the Tennessee Department of Education.
 Through them, Craig learned the importance of caring for others, and gained insight into both the healthcare and education systems.
 Craig's decision to run for public office grew from watching friends, neighbors, and working families struggle with rising costs, higher prescription drug prices, and a government who seemed more interested in meddling with people’s personal lives than maintaining the roads.
@@ -16,3 +15,4 @@ As an officer for three years, he learned how to manage finances, to put resourc
 Craig is the proud parent of an adult child with whom he runs the farm.
 Today, as a farmer, small business owner, and community member, he understands the opportunities and challenges facing rural Tennessee.
 Craig is running for State Representative because he believes Tennesseans deserve practical leadership, responsible government, and an advocate who understands the realities of working families, small businesses, farmers, and rural communities.
+DApolito for TN64 - Saviik Rasbury, Treasurer

@@ -1,10 +1,11 @@
-About the profile
-Voyage Jacksonville featured Suzanna Pavelle in its March 2026 profile interview, “Meet Suzanna Pavelle of Saint Augustine”.
-Read the original interview on Voyage Jacksonville
-The interview traces Pavelle’s path from anthropology and archaeology fieldwork to more than two decades of small-business leadership and community organizing in St.
+= scrolledFromTopThreshold; logoScrolled = window.pageYOffset >= logoOpacityThreshold" :class="{ 'bg-white': !isHeaderTransparent, 'bg-transparent site-header--over-hero': isHeaderTransparent && !scrolledFromTop }" class="fixed inset-x-0 top-0 z-10 px-4 site-header lg:px-8 js-header transition-colors duration-300 in-[.admin-bar]:top-[32px]" > Suzanna Pavelle for Florida House 19 Meet Suzanna Priorities Issues Affordability Public Education Smart Growth Contact Events News Donate Volunteer Menu Close Slideover Navigation Close Meet Suzanna Priorities Issues Close Issues Affordability Public Education Smart Growth Contact Events News Media Voyage Jacksonville profiles Suzanna Pavelle A March 2026 profile interview about Pavelle’s background, business experience, and community leadership.
+About the profile Voyage Jacksonville featured Suzanna Pavelle in its March 2026 profile interview, “Meet Suzanna Pavelle of Saint Augustine” .
+Read the original interview on Voyage Jacksonville The interview traces Pavelle’s path from anthropology and archaeology fieldwork to more than two decades of small-business leadership and community organizing in St.
 Johns County.
-A profile of experience and service
-Pavelle discusses building and selling a web development company, running a direct-to-consumer importing business, and the employee benefits her businesses provided, including health insurance, paid time off, paid volunteer time, and 401(k) plans.
+A profile of experience and service Pavelle discusses building and selling a web development company, running a direct-to-consumer importing business, and the employee benefits her businesses provided, including health insurance, paid time off, paid volunteer time, and 401(k) plans.
 She also describes nearly a decade serving on the Big Brothers Big Sisters board, helping launch a local Indivisible group, and her decision to run for Florida House District 19 after no one else stepped up.
-“I didn’t plan to run for office, but when no one stepped up in District 19, I couldn’t sit on the sidelines.”
-The profile also shares Pavelle’s connection to Florida’s natural environment, her love of the outdoors, and her focus on calm, steady leadership and bringing people together to get things done.
+“I didn’t plan to run for office, but when no one stepped up in District 19, I couldn’t sit on the sidelines.” The profile also shares Pavelle’s connection to Florida’s natural environment, her love of the outdoors, and her focus on calm, steady leadership and bringing people together to get things done.
+Read the full interview at Voyage Jacksonville .
+Footer Suzanna Pavelle for Florida House 19 Meet Suzanna Priorities Issues Affordability Public Education Smart Growth Contact Events News BlueSky Twitter Threads Facebook © # Suzanna Pavelle for Florida House 19 Suzanna Pavelle is running for Florida State Representative in House District 19, serving Flagler County and part of St.
+Johns County, to fight for affordability, strong public schools, and responsible growth in 2026., Inc.
+All rights reserved.

@@ -1,23 +1,10 @@
-top of page
-Rural Iowa
-Latest Rural Iowa News
-Campaign Blog: 99 Days and I need your help
-by Alexander Schmidt It's ninety nine days until the general election, and I am asking for your support to help send me to the Iowa House of Representatives.
+top of page Menu Schmidt for IA House Donate Close State Politics Religion Education Health Agriculture Economy Terms & Conditions Privacy Policy Accessibility Statement Contact Us State Politics Religion Education Health Agriculture Economy Donate Rural Iowa Latest Rural Iowa News Campaign Blog: 99 Days and I need your help by Alexander Schmidt It's ninety nine days until the general election, and I am asking for your support to help send me to the Iowa House of Representatives.
 If you live in the 60th district, (here's a handy map if you're unsure) there are three steps you can take the absolute MOST effort to support me, ranked in order of importance: Vote for me, either by casting an early/absentee ballot or on Election Day (Nov 3).
-If you're able, make a donation to my campaign so you can he
-Jul 273 min read
-Campaign Blog: Independence Day
-by Alexander Schmidt, candidate for Iowa House of Representatives District 60 It's July 5, and I hope everyone had a safe and happy Independence Day!
+If you're able, make a donation to my campaign so you can he Jul 27 3 min read Campaign Blog: Independence Day by Alexander Schmidt, candidate for Iowa House of Representatives District 60 It's July 5, and I hope everyone had a safe and happy Independence Day!
 I'm encouraged by all the patriotism that was shown, and a lot of the genuinely thoughtful conversations I have been having with voters are making me believe a large turnout is headed our way this November.
 I had a great time with the Mitchell County Dems as we marched proudly in the Osage Independence Day Parade.
-It was excelle
-Jul 56 min read
-Campaign Blog: Schmidt earns Iowa Federation of Labor endorsement
-Securing jobs for North Iowans, ensuring their right to a living wage and for a safe and equitable workplace will be my priority as your legislator.
-May 153 min read
-City of Grafton facing food insecurity after local grocery store closed over a year ago
-February 4, 2025 by Alexander Schmidt for KAAL-TV (ABC 6 News) — Since losing their local grocer, the small north Iowa town of Grafton is finding itself on the front lines in the battle against food insecurity.
+It was excelle Jul 5 6 min read Campaign Blog: Schmidt earns Iowa Federation of Labor endorsement Securing jobs for North Iowans, ensuring their right to a living wage and for a safe and equitable workplace will be my priority as your legislator.
+May 15 3 min read City of Grafton facing food insecurity after local grocery store closed over a year ago February 4, 2025 by Alexander Schmidt for KAAL-TV (ABC 6 News) — Since losing their local grocer, the small north Iowa town of Grafton is finding itself on the front lines in the battle against food insecurity.
 It is an issue being seen across the State of Iowa as according to Feeding America, around 344,000 people are facing hunger in Iowa with about 110,000 of those people being children.
 That breaks down to one in nine people and one in six children being in need of food.
-Apr 22 min read
-bottom of page
+Apr 2 2 min read © # PAID FOR BY SCHMIDT FOR IA HOUSE State Politics Religion Education Health Agriculture Economy bottom of page

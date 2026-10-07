@@ -1,32 +1,13 @@
-Carolyn Caiharr
-for Kansas
-Standing Strong for the People of Wyandotte County
-Carolyn Caiharr
-Deep Community Roots
-Unwavering Dedication to Service
-Carolyn Caiharr proudly serves the residents of Wyandotte County as state representative for Kansas House District 33.
+Skip to content Home About Home About Facebook Donate Donate Carolyn Caiharr for Kansas Standing Strong for the People of Wyandotte County Carolyn Caiharr Deep Community Roots Unwavering Dedication to Service Carolyn Caiharr proudly serves the residents of Wyandotte County as state representative for Kansas House District 33.
 Carolyn Caiharr is standing strong for property tax relief, traditional family values, and fiscal responsibility in Topeka.
 Learn more about Carolyn Caiharr’s vision for Kansas and how you can support her campaign.
-- Lifelong Wyandotte County Resident
-- Proud Graduate of Turner High School
-- State Representative
-- Mayor of Edwardsville and Former City Councilwoman
-- Wyandotte Economic Development Council Board of Directors
-- Active Volunteer: grocery distributions to those in need, church, Edwardsville Historical Society, new municipal complex planning
-- Realtor
-- Wife of KCK Police Officer and Mom of Two Sons
-As both a mayor and real-estate professional, I understand the importance of getting property taxes under control — and finding real solutions to the affordability challenges that so many in our community face.
+Lifelong Wyandotte County Resident Proud Graduate of Turner High School State Representative Mayor of Edwardsville and Former City Councilwoman Wyandotte Economic Development Council Board of Directors Active Volunteer: grocery distributions to those in need, church, Edwardsville Historical Society, new municipal complex planning Realtor Wife of KCK Police Officer and Mom of Two Sons As both a mayor and real-estate professional, I understand the importance of getting property taxes under control — and finding real solutions to the affordability challenges that so many in our community face.
 I'll work with anyone to make progress on those issues for the people of Wyandotte County.
-Together, let’s ensure that our community has good-paying jobs, safe neighborhoods, and excellent schools so our families can live the American dream.
-— Carolyn
-Carolyn’s Priorities in Topeka
-Putting People Before Politics
-Focus on Quality-of-Life Issues
-Reduce the Tax Burden on Hardworking Families
-Improve Neighborhood Safety
-Protect Healthcare Funding for Those Most in Need
-Strengthen Our Schools to Improve Results in the Classroom
-Kansas House District 33
-Interstates 70 and 435 run through the heart of our district, and the Kaw flows along our southern border.
+Together, let’s ensure that our community has good-paying jobs, safe neighborhoods, and excellent schools so our families can live the American dream. — Carolyn Carolyn’s Priorities in Topeka Putting People Before Politics Focus on Quality-of-Life Issues Reduce the Tax Burden on Hardworking Families Improve Neighborhood Safety Protect Healthcare Funding for Those Most in Need Strengthen Our Schools to Improve Results in the Classroom Kansas House District 33 Interstates 70 and 435 run through the heart of our district, and the Kaw flows along our southern border.
 In this special place, we enjoy the Kansas Speedway, Sporting KC at Sporting Park, the Legends, Azura Amphitheater, the Ag Center, and a lot of the great outdoors.
 Best of all, we have hardworking people, great churches, and wonderful families in our district, which encompasses Bonner Springs, Edwardsville, part of Turner other neighborhoods in the southwest corner of KCK, and the northernmost tip of Lake Quivira.
+Get in touch with Carolyn Caiharr carolyn@carolynforkansas.com Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * Phone Email Volunteer Help Volunteer to Help Carolyn Win!
+Get email updates Take a yard sign Deliver and place yard signs Walk with Carolyn and put flyers on doors Host a meet-and-greet with Carolyn in your neighborhood Submit Join Carolyn Caiharr's Team!
+Donate Follow me on Facebook Volunteer Facebook Paid for by Caiharr for Kansas HD 33, Samuel Voyles, Treasurer © # Carolyn Caiharr Campaign Search

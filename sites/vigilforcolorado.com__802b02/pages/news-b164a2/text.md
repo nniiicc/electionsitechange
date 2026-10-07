@@ -1,14 +1,6 @@
-Home
-About
-News
-Events
-Contact
-More
-Colorado bill aims to increase transparency for Uber, Lyft driver pay
-Events, campaign committees ramp up for special election on Karman Line annexation
-In Depth: how planning and development impact transportation
-‘A beacon of hope’: Colorado sees historic LGBTQ representation amid national attacks
-How Colorado Won Gold in Land-Use Policy Reform
-Bill to add requirements for coroner candidates clears committee
-‘Let’s work together’: State legislators speak with voters on future of El Paso County district
-‘Splitting myself in half’: Colorado's citizen-legislature clashes with financial realities
+top of page ​ Home About About Steph On The Issues Endorsements News Events Contact More Use tab to navigate through the menu items.
+Donate Volunteer In the News Colorado bill aims to increase transparency for Uber, Lyft driver pay Read More ​ Events, campaign committees ramp up for special election on Karman Line annexation Read More In Depth: how planning and development impact transportation Read More ​ ‘A beacon of hope’: Colorado sees historic LGBTQ representation amid national attacks Read More How Colorado Won Gold in Land-Use Policy Reform Read More Bill to add requirements for coroner candidates clears committee Read More ‘Let’s work together’: State legislators speak with voters on future of El Paso County district Read More ‘Splitting myself in half’: Colorado's citizen-legislature clashes with financial realities Read More Visit my LinkTree for the most current updates, including event registrations, recent news, and opportunities for engagement. ​ Tracer Committee ID: 20205038163 Get social!
+Sign up for my newsletter!
+I'd love to hear from you! ​Phone: ​719-297-3210 Email: info@stephanievigil.com ​ USPS: Committee to Elect Stephanie Vigil​​ PO Box 9524 Colorado Springs, CO 80932 Photos & Videos Me vs.
+My Opponent Paid for by the Committee to Elect Stephanie Vigil.
+Registered Agent: Stephanie Vigil. bottom of page

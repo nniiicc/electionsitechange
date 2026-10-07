@@ -1,75 +1,310 @@
 [
-"http://facebook.com/wix",
-"http://info.scvotes.sc.gov/eng/ovr/start.aspx",
-"http://scvotes.org/",
-"http://scvotes.org/absentee-voting",
-"http://twitter.com/wix",
-"https://bethbernsteinsc.com/",
-"https://bethbernsteinsc.com/about",
-"https://bethbernsteinsc.com/contact",
-"https://bethbernsteinsc.com/issues",
-"https://bethbernsteinsc.com/news",
-"https://bethbernsteinsc.com/news/archive/2017/08",
-"https://bethbernsteinsc.com/news/archive/2017/09",
-"https://bethbernsteinsc.com/news/archive/2017/11",
-"https://bethbernsteinsc.com/news/archive/2017/12",
-"https://bethbernsteinsc.com/news/archive/2018/01",
-"https://bethbernsteinsc.com/news/archive/2018/02",
-"https://bethbernsteinsc.com/news/archive/2018/03",
-"https://bethbernsteinsc.com/news/archive/2018/05",
-"https://bethbernsteinsc.com/news/archive/2018/07",
-"https://bethbernsteinsc.com/news/archive/2018/08",
-"https://bethbernsteinsc.com/news/archive/2018/09",
-"https://bethbernsteinsc.com/news/archive/2018/10",
-"https://bethbernsteinsc.com/news/archive/2018/11",
-"https://bethbernsteinsc.com/news/archive/2018/12",
-"https://bethbernsteinsc.com/news/archive/2019/01",
-"https://bethbernsteinsc.com/news/archive/2019/02",
-"https://bethbernsteinsc.com/news/archive/2019/05",
-"https://bethbernsteinsc.com/news/archive/2019/06",
-"https://bethbernsteinsc.com/news/archive/2019/08",
-"https://bethbernsteinsc.com/news/archive/2019/09",
-"https://bethbernsteinsc.com/news/archive/2019/11",
-"https://bethbernsteinsc.com/news/archive/2019/12",
-"https://bethbernsteinsc.com/news/archive/2020/01",
-"https://bethbernsteinsc.com/news/archive/2020/02",
-"https://bethbernsteinsc.com/news/archive/2020/03",
-"https://bethbernsteinsc.com/news/archive/2020/04",
-"https://bethbernsteinsc.com/news/archive/2020/05",
-"https://bethbernsteinsc.com/news/archive/2020/07",
-"https://bethbernsteinsc.com/news/archive/2020/09",
-"https://bethbernsteinsc.com/news/archive/2020/10",
-"https://bethbernsteinsc.com/news/archive/2020/11",
-"https://bethbernsteinsc.com/news/archive/2020/12",
-"https://bethbernsteinsc.com/news/archive/2021/05",
-"https://bethbernsteinsc.com/news/archive/2021/07",
-"https://bethbernsteinsc.com/news/archive/2021/11",
-"https://bethbernsteinsc.com/news/archive/2021/12",
-"https://bethbernsteinsc.com/news/archive/2022/05",
-"https://bethbernsteinsc.com/news/archive/2022/07",
-"https://bethbernsteinsc.com/news/archive/2022/09",
-"https://bethbernsteinsc.com/news/archive/2022/11",
-"https://bethbernsteinsc.com/news/archive/2023/05",
-"https://bethbernsteinsc.com/news/archive/2023/12",
-"https://bethbernsteinsc.com/news/archive/2024/07",
-"https://bethbernsteinsc.com/news/archive/2024/08",
-"https://bethbernsteinsc.com/news/archive/2024/10",
-"https://bethbernsteinsc.com/news/archive/2024/11",
-"https://bethbernsteinsc.com/news/archive/2024/12",
-"https://bethbernsteinsc.com/news/archive/2025/07",
-"https://bethbernsteinsc.com/news/archive/2026/06",
-"https://bethbernsteinsc.com/news/archive/2026/07",
-"https://bethbernsteinsc.com/single-post/2026-end-of-session-legislative-update",
-"https://bethbernsteinsc.com/single-post/back-to-school-message-honoring-our-teachers",
-"https://bethbernsteinsc.com/single-post/checking-in-recovering-from-hurricane-helene",
-"https://bethbernsteinsc.com/single-post/happy-birthday-america-plus-my-end-of-session-legislative-update",
-"https://bethbernsteinsc.com/single-post/happy-birthday-america-plus-my-end-of-session-legislative-update-1",
-"https://bethbernsteinsc.com/single-post/happy-holidays-from-my-family-to-yours",
-"https://bethbernsteinsc.com/single-post/happy-holidays-from-my-family-to-yours-1",
-"https://bethbernsteinsc.com/single-post/happy-thanksgiving-2",
-"https://bethbernsteinsc.com/single-post/memorial-day-remember-and-honor",
-"https://bethbernsteinsc.com/single-post/statement-on-the-passing-of-senator-lindsey-graham",
-"https://plus.google.com/117167403531518744294/posts",
-"https://secure.actblue.com/contribute/page/bethbernstein",
-"https://twitter.com/beth4house"
+{
+"text": ".org",
+"href": "http://scvotes.org"
+},
+{
+"text": "2026 END OF SESSION LEGISLATIVE UPDATE",
+"href": "https://www.bethbernsteinsc.com/single-post/2026-end-of-session-legislative-update"
+},
+{
+"text": "ABOUT",
+"href": "https://www.bethbernsteinsc.com/about"
+},
+{
+"text": "April 2020 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2020/04"
+},
+{
+"text": "August 2017 (2) 2 posts",
+"href": "https://www.bethbernsteinsc.com/news/archive/2017/08"
+},
+{
+"text": "August 2018 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2018/08"
+},
+{
+"text": "August 2019 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2019/08"
+},
+{
+"text": "August 2024 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2024/08"
+},
+{
+"text": "BACK TO SCHOOL MESSAGE - HONORING OUR TEACHERS",
+"href": "https://www.bethbernsteinsc.com/single-post/back-to-school-message-honoring-our-teachers"
+},
+{
+"text": "CONTACT",
+"href": "https://www.bethbernsteinsc.com/contact"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/contribute/page/bethbernstein"
+},
+{
+"text": "Checking In - Recovering from Hurricane Helene",
+"href": "https://www.bethbernsteinsc.com/single-post/checking-in-recovering-from-hurricane-helene"
+},
+{
+"text": "December 2017 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2017/12"
+},
+{
+"text": "December 2018 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2018/12"
+},
+{
+"text": "December 2019 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2019/12"
+},
+{
+"text": "December 2020 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2020/12"
+},
+{
+"text": "December 2021 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2021/12"
+},
+{
+"text": "December 2023 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2023/12"
+},
+{
+"text": "December 2024 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2024/12"
+},
+{
+"text": "February 2018 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2018/02"
+},
+{
+"text": "February 2019 (2) 2 posts",
+"href": "https://www.bethbernsteinsc.com/news/archive/2019/02"
+},
+{
+"text": "February 2020 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2020/02"
+},
+{
+"text": "Follow Us on X!",
+"href": "https://twitter.com/beth4house"
+},
+{
+"text": "HOME",
+"href": "https://www.bethbernsteinsc.com"
+},
+{
+"text": "Happy Birthday, America! Plus my End of Session Legislative Update",
+"href": "https://www.bethbernsteinsc.com/single-post/happy-birthday-america-plus-my-end-of-session-legislative-update"
+},
+{
+"text": "Happy Birthday, America! Plus my End of Session Legislative Update",
+"href": "https://www.bethbernsteinsc.com/single-post/happy-birthday-america-plus-my-end-of-session-legislative-update-1"
+},
+{
+"text": "Happy Holidays from my family to yours!",
+"href": "https://www.bethbernsteinsc.com/single-post/happy-holidays-from-my-family-to-yours"
+},
+{
+"text": "Happy Thanksgiving!",
+"href": "https://www.bethbernsteinsc.com/single-post/happy-thanksgiving-2"
+},
+{
+"text": "Happy holidays from my family to yours!",
+"href": "https://www.bethbernsteinsc.com/single-post/happy-holidays-from-my-family-to-yours-1"
+},
+{
+"text": "ISSUES",
+"href": "https://www.bethbernsteinsc.com/issues"
+},
+{
+"text": "January 2018 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2018/01"
+},
+{
+"text": "January 2019 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2019/01"
+},
+{
+"text": "January 2020 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2020/01"
+},
+{
+"text": "July 2018 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2018/07"
+},
+{
+"text": "July 2020 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2020/07"
+},
+{
+"text": "July 2021 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2021/07"
+},
+{
+"text": "July 2022 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2022/07"
+},
+{
+"text": "July 2024 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2024/07"
+},
+{
+"text": "July 2025 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2025/07"
+},
+{
+"text": "July 2026 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2026/07"
+},
+{
+"text": "June 2019 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2019/06"
+},
+{
+"text": "June 2026 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2026/06"
+},
+{
+"text": "March 2018 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2018/03"
+},
+{
+"text": "March 2020 (3) 3 posts",
+"href": "https://www.bethbernsteinsc.com/news/archive/2020/03"
+},
+{
+"text": "May 2018 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2018/05"
+},
+{
+"text": "May 2019 (3) 3 posts",
+"href": "https://www.bethbernsteinsc.com/news/archive/2019/05"
+},
+{
+"text": "May 2020 (6) 6 posts",
+"href": "https://www.bethbernsteinsc.com/news/archive/2020/05"
+},
+{
+"text": "May 2021 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2021/05"
+},
+{
+"text": "May 2022 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2022/05"
+},
+{
+"text": "May 2023 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2023/05"
+},
+{
+"text": "Memorial Day - Remember and Honor",
+"href": "https://www.bethbernsteinsc.com/single-post/memorial-day-remember-and-honor"
+},
+{
+"text": "NEWS",
+"href": "https://www.bethbernsteinsc.com/news"
+},
+{
+"text": "November 2017 (2) 2 posts",
+"href": "https://www.bethbernsteinsc.com/news/archive/2017/11"
+},
+{
+"text": "November 2018 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2018/11"
+},
+{
+"text": "November 2019 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2019/11"
+},
+{
+"text": "November 2020 (2) 2 posts",
+"href": "https://www.bethbernsteinsc.com/news/archive/2020/11"
+},
+{
+"text": "November 2021 (2) 2 posts",
+"href": "https://www.bethbernsteinsc.com/news/archive/2021/11"
+},
+{
+"text": "November 2022 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2022/11"
+},
+{
+"text": "November 2024 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2024/11"
+},
+{
+"text": "October 2018 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2018/10"
+},
+{
+"text": "October 2020 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2020/10"
+},
+{
+"text": "October 2024 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2024/10"
+},
+{
+"text": "September 2017 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2017/09"
+},
+{
+"text": "September 2018 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2018/09"
+},
+{
+"text": "September 2019 (1) 1 post",
+"href": "https://www.bethbernsteinsc.com/news/archive/2019/09"
+},
+{
+"text": "September 2020 (3) 3 posts",
+"href": "https://www.bethbernsteinsc.com/news/archive/2020/09"
+},
+{
+"text": "September 2022 (2) 2 posts",
+"href": "https://www.bethbernsteinsc.com/news/archive/2022/09"
+},
+{
+"text": "Statement on the Passing of Senator Lindsey Graham",
+"href": "https://www.bethbernsteinsc.com/single-post/statement-on-the-passing-of-senator-lindsey-graham"
+},
+{
+"text": "[image: Facebook Basic Square]",
+"href": "http://www.facebook.com/wix"
+},
+{
+"text": "[image: Google+ Basic Square]",
+"href": "https://plus.google.com/117167403531518744294/posts"
+},
+{
+"text": "[image: SC Representative Beth Bernstein]",
+"href": "https://www.bethbernsteinsc.com"
+},
+{
+"text": "[image: Twitter Basic Square]",
+"href": "http://www.twitter.com/wix"
+},
+{
+"text": "available online here",
+"href": "http://info.scvotes.sc.gov/eng/ovr/start.aspx"
+},
+{
+"text": "beth@bethbernsteinsc.com",
+"href": "mailto:beth@bethbernsteinsc.com"
+},
+{
+"text": "link",
+"href": "http://www.scvotes.org/absentee-voting"
+},
+{
+"text": "scVOTES.org",
+"href": "http://scvotes.org"
+},
+{
+"text": "scVotes",
+"href": "http://www.scvotes.org/absentee-voting"
+}
 ]

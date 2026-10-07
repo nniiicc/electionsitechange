@@ -1,71 +1,21 @@
-PRIVACY POLICY
-Last updated: April 24, 2026
-This Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of Your information when You use the Service and explains Your privacy rights and how the law protects You.
+Skip navigation menu About Issues News Endorsements Events Volunteer Resources Your Voice Socials Contact Donate About Issues News Endorsements Events Volunteer Resources Your Voice Socials Contact Donate PRIVACY POLICY Last updated: April 24, 2026 This Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of Your information when You use the Service and explains Your privacy rights and how the law protects You.
 This Website is operated by Elizabeth Lee for Congress, a federal political campaign committee.
 By using this Service, You agree to the collection and use of information in accordance with this Privacy Policy.
-Political and Campaign-Specific Disclosures
-By submitting your information through this Website, you acknowledge that:
-- Your information may be used for political purposes, including campaign communications, fundraising, volunteer engagement, and voter outreach.
-- Contributions to Elizabeth Lee for Congress are subject to the requirements of the Federal Election Commission (FEC).
-- Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation, and employer of individuals whose contributions exceed federal thresholds.
-- Contributions are not tax deductible as charitable contributions.
-- We may use your information to comply with legal reporting obligations under federal and state election laws.
-SMS / Text Messaging
-By providing your mobile phone number, you consent to receive recurring automated text messages from Elizabeth Lee for Congress regarding campaign updates, volunteer opportunities, donation requests, and important election information.
-- Message frequency varies
-- Message and data rates may apply
-- You can opt out at any time by replying STOP
-- For help, reply HELP or contact us at campaign@nurselee4az.com
-Your consent to receive text messages is not a condition of any purchase or contribution.
+Political and Campaign-Specific Disclosures By submitting your information through this Website, you acknowledge that: Your information may be used for political purposes, including campaign communications, fundraising, volunteer engagement, and voter outreach.
+Contributions to Elizabeth Lee for Congress are subject to the requirements of the Federal Election Commission (FEC).
+Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation, and employer of individuals whose contributions exceed federal thresholds.
+Contributions are not tax deductible as charitable contributions.
+We may use your information to comply with legal reporting obligations under federal and state election laws.
+SMS / Text Messaging By providing your mobile phone number, you consent to receive recurring automated text messages from Elizabeth Lee for Congress regarding campaign updates, volunteer opportunities, donation requests, and important election information.
+Message frequency varies Message and data rates may apply You can opt out at any time by replying STOP For help, reply HELP or contact us at campaign@nurselee4az.com Your consent to receive text messages is not a condition of any purchase or contribution.
 We do not sell or share your phone number with third parties for their independent marketing purposes.
-Information We Collect
-We may collect personal information including:
-- Name
-- Email address
-- Mailing address
-- Phone number
-- Employer and occupation (for legal compliance)
-- Donation history and contribution data
-- Volunteer activity and engagement data
-- Usage data and website analytics
-Use of Your Personal Data
-We may use your information to:
-- Process and report political contributions in compliance with FEC regulations
-- Communicate with you about the campaign, events, and policy positions
-- Send fundraising solicitations
-- Organize volunteer and grassroots activities
-- Conduct voter outreach and engagement
-- Analyze campaign effectiveness and improve outreach strategies
-- Ensure compliance with applicable election laws and regulations
-Sharing of Your Information
-In addition to the previously stated sharing practices, we may share your information:
-- With political committees, consultants, and vendors working on behalf of the campaign
-- With compliance vendors for FEC reporting and legal obligations
-- As required by law in public FEC disclosures
-- With digital platforms for political advertising and audience targeting
-We do not sell personal information to third-party marketers.
-Political Advertising & Digital Tracking
-We may use cookies, pixels, and similar technologies to:
-- Deliver targeted political advertisements
-- Measure campaign effectiveness
-- Build custom audiences on platforms such as social media
-These technologies may collect browsing behavior and interaction data.
-Data Security and Retention
-We implement reasonable administrative, technical, and physical safeguards to protect your information.
+Information We Collect We may collect personal information including: Name Email address Mailing address Phone number Employer and occupation (for legal compliance) Donation history and contribution data Volunteer activity and engagement data Usage data and website analytics Use of Your Personal Data We may use your information to: Process and report political contributions in compliance with FEC regulations Communicate with you about the campaign, events, and policy positions Send fundraising solicitations Organize volunteer and grassroots activities Conduct voter outreach and engagement Analyze campaign effectiveness and improve outreach strategies Ensure compliance with applicable election laws and regulations Sharing of Your Information In addition to the previously stated sharing practices, we may share your information: With political committees, consultants, and vendors working on behalf of the campaign With compliance vendors for FEC reporting and legal obligations As required by law in public FEC disclosures With digital platforms for political advertising and audience targeting We do not sell personal information to third-party marketers.
+Political Advertising & Digital Tracking We may use cookies, pixels, and similar technologies to: Deliver targeted political advertisements Measure campaign effectiveness Build custom audiences on platforms such as social media These technologies may collect browsing behavior and interaction data.
+Data Security and Retention We implement reasonable administrative, technical, and physical safeguards to protect your information.
 However, no system is completely secure.
-We retain data as necessary to:
-- Fulfill campaign purposes
-- Comply with federal and state election laws
-- Maintain required financial and donor records
-Your Rights and Choices
-You may:
-- Opt out of emails via unsubscribe links
-- Opt out of SMS by replying STOP
-- Request access to or deletion of your data where legally permissible
-Note: Certain information cannot be deleted if required for legal compliance, including FEC reporting.
-Children’s Privacy
-This campaign does not knowingly collect data from individuals under 18.
-Changes to This Policy
-We may update this Privacy Policy as required by law or campaign operations.
-Contact Us
-If you have any questions about this Privacy Policy, please email: campaign@nurselee4az.com
+We retain data as necessary to: Fulfill campaign purposes Comply with federal and state election laws Maintain required financial and donor records Your Rights and Choices You may: Opt out of emails via unsubscribe links Opt out of SMS by replying STOP Request access to or deletion of your data where legally permissible Note: Certain information cannot be deleted if required for legal compliance, including FEC reporting.
+Children’s Privacy This campaign does not knowingly collect data from individuals under 18.
+Changes to This Policy We may update this Privacy Policy as required by law or campaign operations.
+Contact Us If you have any questions about this Privacy Policy, please email: campaign@nurselee4az.com PRO- FAMILY | PRO- LIBERTY | PRO- ARIZONA Powered by RUN! website builder PAID FOR BY ELIZABETH LEE FOR CONGRESS.
+AUTHORIZED BY ELIZABETH LEE.
+You need to enable JavaScript to run this app.

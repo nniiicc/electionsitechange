@@ -1,5 +1,4 @@
-Endorsing La Shawn Ford for Congress
-When I went to Springfield 12 years ago, I got a seat right next to La Shawn, and I haven’t moved since.
+Meet Chris Priorities News Get Involved Donate Meet Chris Priorities News Get Involved Donate Illinois State Representative • Speaker of the House Endorsing La Shawn Ford for Congress When I went to Springfield #ago, I got a seat right next to La Shawn, and I haven’t moved since.
 Sitting next to La Shawn gave me a front-row seat to his tireless work for the poor, for the sick, for women, for children, for those fighting to overcome addiction, and for those yearning for justice and for opportunity.
 I’ve seen a leader who isn’t afraid to take on the challenges others say are too big, and champion the ideas others say are too ahead of their time.
 And above all, I’ve seen someone who knows their why.
@@ -12,13 +11,9 @@ This building stands for opportunity, security, and promises kept—for the olde
 But Donald Trump and Republicans in Washington are ready to shut this building down.
 Rather than doing the most basic work of running a government, they’re posting AI-generated joke videos about people losing their jobs, losing their security, and losing their lifelines—because they want everything to feel so hard that we just give up.
 La Shawn brought us here because he’s not giving up.
-La Shawn brought us here because he knows his why, and when you know your why you know that the work in Washington is about so much more than a president’s fragile ego or an out-of-touch agenda—
-it’s about people…
-…People in need…
-…People working to get ahead…
-…People who are struggling…
-…People who want to make sure their hard work pays off…
-…People like the ones La Shawn Ford fights for every day and will never stop fighting for.
+La Shawn brought us here because he knows his why, and when you know your why you know that the work in Washington is about so much more than a president’s fragile ego or an out-of-touch agenda— it’s about people… …People in need… …People working to get ahead… …People who are struggling… …People who want to make sure their hard work pays off… …People like the ones La Shawn Ford fights for every day and will never stop fighting for.
 That’s exactly why we need La Shawn Ford fighting for us in Washington.
 My motto is winners do the work, and you know no one does the work like La Shawn Ford.
 So let’s get up, let’s do the work, and let’s send La Shawn Ford to Congress!
+Casimir Stopa October 6, 2025 Facebook 0 Twitter Pinterest 0 0 Likes Previous Illinois Speaker to Host 4th Annual Blue Christmas Toy Drive and Fundraiser Dec.
+10 Casimir Stopa November 25, 2025 Next Cook County Commissioner Scott Endorses Welch for State Central Sirean Morea September 24, 2025 Meet Chris Priorities News Donate Volunteer District Map © Copyright #•Paid for by The People for Emanuel “Chris” Welch

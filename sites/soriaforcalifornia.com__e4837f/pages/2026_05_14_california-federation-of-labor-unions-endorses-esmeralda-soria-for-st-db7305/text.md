@@ -1,16 +1,14 @@
-FOR IMMEDIATE RELEASE: May 14, 2026
-Media Contact: Haley Townes
-(909) 697-5799
-California Federation of Labor Unions Endorses Esmeralda Soria for State Senate
-Unions representing more than 2.3 million workers across California back Soria’s Senate District 14 primary campaign at the statewide 2026 Pre-Primary Endorsing Convention
-FRESNO, CA — The California Federation of Labor Unions, AFL-CIO, has announced its endorsement of Assemblymember Soria’s campaign for Senate District 14.
+Meet Esmeralda Accomplishments Endorsements News Media Photos Get Involved Esmeralda Soria for State Assembly Facebook Esmeralda Soria for State Assembly Instagram Esmeralda Soria for State Assembly Twitter Esmeralda Soria for State Assembly YouTube Toggle Mobile Menu Meet Esmeralda Accomplishments Endorsements News Media Photos Get Involved Campaign News California Federation of Labor Unions Endorses Esmeralda Soria for State Senate May 14, 2026 FOR IMMEDIATE RELEASE: May 14, 2026 Media Contact : Haley Townes (909) 697-5799 [email protected] California Federation of Labor Unions Endorses Esmeralda Soria for State Senate Unions representing more than 2.3 million workers across California back Soria’s Senate District 14 primary campaign at the statewide 2026 Pre-Primary Endorsing Convention FRESNO, CA — The California Federation of Labor Unions, AFL-CIO, has announced its endorsement of Assemblymember Soria’s campaign for Senate District 14.
 “Assemblymember Soria has a legislative track record that proves she is a fearless advocate who not only understands the needs of California’s working families but actively fights for them in Sacramento,” said California Federation of Labor Unions, AFL-CIO President, Lorena Gonzalez.
 The California Federation of Labor Unions, AFL-CIO, is the largest labor federation in California, representing workers across industries including healthcare, education, agriculture, construction, and public service.
 With over 2.3 million members across more than 1,300 local unions throughout California, this endorsement signals that California’s labor movement is standing with Soria.
 “This endorsement is deeply meaningful to me,” said Soria.
 “The backbone of the Central Valley has always been its labor movement.
 From tradespeople and teachers to nurses and farmworkers, this community’s daily dedication built this Valley.
-I am committed to always showing up for them in Sacramento just as they show up for our community every day.”
-Soria’s campaign has built a powerful, diverse coalition of over 100 elected officials and leading organizations across California, all united by a shared belief that the Central Valley deserves a proven, fearless advocate in the State Senate.
-For more information and a full list of endorsements, visit www.soriaforcalifornia.com
-###
+I am committed to always showing up for them in Sacramento just as they show up for our community every day.” Soria’s campaign has built a powerful, diverse coalition of over 100 elected officials and leading organizations across California, all united by a shared belief that the Central Valley deserves a proven, fearless advocate in the State Senate.
+For more information and a full list of endorsements, visit www.soriaforcalifornia.com ### Up Next Merced County Leaders Rally Behind Assemblymember Esmeralda Soria For State Senate Get Updates Please enable JavaScript in your browser to complete this form.
+Email * ZIP Code Phone By submitting your cell phone number you are agreeing to receive periodic text messages from this organization.
+Message and data rates may apply.
+Text HELP for more information.
+Text STOP to stop receiving messages.
+Get Updates Meet Esmeralda Accomplishments Endorsements News Media Get Involved Esmeralda Soria for State Assembly Facebook Esmeralda Soria for State Assembly Instagram Esmeralda Soria for State Assembly Twitter Esmeralda Soria for State Assembly YouTube Send Checks To: PO Box 681 Fresno CA 93712 Email [email protected] Privacy Policy Accessibility Statement PAID FOR BY Soria for Senate Site made with ❤️ by Landslide Digital Jump to Content Toggle High Contrast Toggle Font Size

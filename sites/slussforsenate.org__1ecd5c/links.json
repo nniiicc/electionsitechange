@@ -1,17 +1,70 @@
 [
-"https://facebook.com/jared.sluss",
-"https://instagram.com/jaredsluss",
-"https://secure.actblue.com/donate/slussforsenate",
-"https://secure.actblue.com/donate/slussforsenate?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/slussforsenate?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/slussforsenate?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/slussforsenate?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/slussforsenate?express_lane=true&amount=50",
-"https://secure.anedot.com/sluss-for-senate/donate",
-"https://slussforsenate.org/press",
-"https://slussforsenate.org/privacy",
-"https://slussforsenate.org/terms",
-"https://slussforsenate.org/yard-sign",
-"https://threads.com/@jaredsluss",
-"https://tiktok.com/@jaredsluss"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/slussforsenate?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/slussforsenate?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/slussforsenate?express_lane=true&amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/slussforsenate?express_lane=true&amount=5"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/slussforsenate?express_lane=true&amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/slussforsenate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/slussforsenate"
+},
+{
+"text": "OtherAmount",
+"href": "https://secure.actblue.com/donate/slussforsenate"
+},
+{
+"text": "Press",
+"href": "https://www.slussforsenate.org/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.slussforsenate.org/privacy"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.slussforsenate.org/yard-sign"
+},
+{
+"text": "Terms & SMS Program",
+"href": "https://www.slussforsenate.org/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jared.sluss/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jaredsluss/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@jaredsluss"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@jaredsluss"
+},
+{
+"text": "here",
+"href": "https://secure.anedot.com/sluss-for-senate/donate"
+}
 ]

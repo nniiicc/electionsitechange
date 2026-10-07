@@ -1,27 +1,106 @@
 [
-"https://americanpeoplescompact.org/our-candidates",
-"https://bsky.app/profile/mayforpinellas.bsky.social",
-"https://directory.runforsomething.net/candidate/ad197714ba4e1d4db0923a6df97041a7/thach-may",
-"https://dos.fl.gov/elections/for-voters/voting/vote-by-mail",
-"https://emgageaction.org/endorsements",
-"https://engageyall.com/endorsed",
-"https://environmentalcaucus.com/candidaterecruitment/environmental-caucus-endorsements",
-"https://facebook.com/may4pinellas",
-"https://flnow.org/north-florida-now-pac-endorsed-candidates",
-"https://herboldmove.org/2026-endorsements",
-"https://instagram.com/mayforpinellas",
-"https://instagram.com/p/Db1Gm10xemd",
-"https://maythach.com/",
-"https://maythach.com/about",
-"https://maythach.com/contact",
-"https://maythach.com/endorsements",
-"https://maythach.com/events",
-"https://nalaf.org/2026-endorsed-candidates",
-"https://progressivefl.net/",
-"https://registertovoteflorida.gov/home",
-"https://registration.elections.myflorida.com/",
-"https://ruthslistfl.org/endorsements",
-"https://secure.actblue.com/donate/mayforpinellas",
-"https://seiufl.org/elections",
-"https://stonewallpinellas.com/2026-primary-endorsements"
+{
+"text": "Confirm your district",
+"href": "https://registration.elections.myflorida.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.maythach.com/contact"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/mayforpinellas"
+},
+{
+"text": "Endorsements",
+"href": "https://www.maythach.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.maythach.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.maythach.com/"
+},
+{
+"text": "Meet May",
+"href": "https://www.maythach.com/about"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovoteflorida.gov/home"
+},
+{
+"text": "Vote by Mail",
+"href": "https://dos.fl.gov/elections/for-voters/voting/vote-by-mail/"
+},
+{
+"text": "[image: American People's Compact logo]American People's Compact",
+"href": "https://www.americanpeoplescompact.org/our-candidates"
+},
+{
+"text": "[image: BlueSky]",
+"href": "https://bsky.app/profile/mayforpinellas.bsky.social"
+},
+{
+"text": "[image: Democratic Environmental Caucus of Florida logo]Democratic Environmental Caucus of Florida",
+"href": "https://www.environmentalcaucus.com/candidaterecruitment/environmental-caucus-endorsements/"
+},
+{
+"text": "[image: Democratic Progressive Caucus of Florida logo]Democratic Progressive Caucus of Florida",
+"href": "https://progressivefl.net/"
+},
+{
+"text": "[image: Emgage Action logo]Emgage Action",
+"href": "https://emgageaction.org/endorsements/"
+},
+{
+"text": "[image: Engage Y'all logo]Engage Y'all",
+"href": "https://engageyall.com/endorsed"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/may4pinellas"
+},
+{
+"text": "[image: Florida High School Democrats logo]Florida High School Democrats",
+"href": "https://www.instagram.com/p/Db1Gm10xemd/"
+},
+{
+"text": "[image: Florida NOW PAC logo]Florida NOW PAC",
+"href": "https://flnow.org/north-florida-now-pac-endorsed-candidates/"
+},
+{
+"text": "[image: Her Bold Move logo]Her Bold Move",
+"href": "https://www.herboldmove.org/2026-endorsements"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mayforpinellas"
+},
+{
+"text": "[image: May Thach for Florida]",
+"href": "https://www.maythach.com/"
+},
+{
+"text": "[image: New American Leaders Action Fund logo]New American Leaders Action Fund",
+"href": "https://www.nalaf.org/2026-endorsed-candidates"
+},
+{
+"text": "[image: Run For Something logo]Run For Something",
+"href": "https://directory.runforsomething.net/candidate/ad197714ba4e1d4db0923a6df97041a7/thach-may/"
+},
+{
+"text": "[image: Ruth's List logo]Ruth's List",
+"href": "https://ruthslistfl.org/endorsements"
+},
+{
+"text": "[image: SEIU Florida logo]SEIU Florida",
+"href": "https://seiufl.org/elections"
+},
+{
+"text": "[image: Stonewall Democrats of Pinellas County logo]Stonewall Democrats of Pinellas County",
+"href": "https://stonewallpinellas.com/2026-primary-endorsements/"
+}
 ]

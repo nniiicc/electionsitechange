@@ -1,7 +1,4 @@
-Statements on Proposed Quarry in SW Allen County
-5/20/2026:
-What a Quarry in Little River Valley Means for Southwest Fort Wayne
-The proposed quarry in the Little River Valley represents one of the most consequential land use decisions Fort Wayne has ever faced.
+0 Skip to Content Wesley Haffenden for Indiana Donate Quarry Statements Home About Platform Volunteer Endorsements Register to Vote Form a Union Open Menu Close Menu Wesley Haffenden for Indiana Donate Quarry Statements Home About Platform Volunteer Endorsements Register to Vote Form a Union Open Menu Close Menu Donate Quarry Statements Home About Platform Volunteer Endorsements Register to Vote Form a Union Statements on Proposed Quarry in SW Allen County 5/20/2026: What a Quarry in Little River Valley Means for Southwest Fort Wayne The proposed quarry in the Little River Valley represents one of the most consequential land use decisions Fort Wayne has ever faced.
 It will determine what kind of community we become.
 For families across this area, the question is simple and urgent: what happens when heavy industrial use is placed directly next to our neighborhoods, schools, hospitals, and the natural landscape that defines part of Allen County?
 As a licensed real estate professional with nearly a decade of experience, my partner and I have seen firsthand how changes in local conditions affect neighborhoods and property values.
@@ -27,11 +24,7 @@ It is a living environmental and residential system that supports the stability 
 Research on similar industrial uses is consistent on one central point: impacts on property values are highly localized.
 They depend on distance, intensity, and surrounding land use.
 Closer proximity generally means stronger downward pressure on value and buyer demand (Ready and Abdalla, 2005).
-In real estate terms, this typically shows up in several ways:
-- Buyers step back from affected areas
-- Homes may take longer to sell and experience price fluctuations
-- Long term confidence in neighborhoods may weaken
-That is how housing markets behave.
+In real estate terms, this typically shows up in several ways: Buyers step back from affected areas Homes may take longer to sell and experience price fluctuations Long term confidence in neighborhoods may weaken That is how housing markets behave.
 The public statements from US Aggregates and the Heritage Group suggesting that this quarry would increase nearby home values do not fully reflect how local housing markets actually function.
 Those claims rely on broad regional appreciation trends that fail to isolate the effect of placing heavy industrial operations directly next to established residential neighborhoods.
 That distinction is fundamental.
@@ -64,37 +57,28 @@ For me, the answer is clear.
 As I stated on April 5th,I stand with my neighbors in opposing the proposed quarry in the Little River Valley.
 People must come before corporate profit.
 This statement reflects my personal views as a candidate for public office and is not issued on behalf of any brokerage or affiliated organization.
-References
-Ready, R.
+References Ready, R.
 C., & Abdalla, C.
 W.
 (2005).
 The impact of open space and potential local disamenities on residential property values in Berks County, Pennsylvania.
-American Journal of Agricultural Economics
-Simons, R.
+American Journal of Agricultural Economics Simons, R.
 A., & Saginor, J.
 D.
 (2006).
 A meta-analysis of environmental externalities and residential property values.
-Journal of Real Estate Research
-Strauss, J.
+Journal of Real Estate Research Strauss, J.
 (2013).
 Does housing drive state-level job growth?
 Building permits and consumer expectations forecast economic activity.
-Journal of Urban Economics
-April 7, 2026
-Thank you Sharon Wight and Jorge Fernandez for standing in opposition with me..
-We’re calling on our peers across State Representative, State Senate, and local races… as well as our opponents, to join us.
+Journal of Urban Economics April 7, 2026 Thank you Sharon Wight and Jorge Fernandez for standing in opposition with me..
+We’re calling on our peers across State Representative, State Senate, and local races… as well as our opponents , to join us.
 And I’m challenging my opponent directly to join me in speaking out against this industrial project next to the homes and wetlands of his constituents.
-People must come before corporate profit.
--Wesley Haffenden
-April 4th, 2026
-As the Democratic candidate for State Representative (District 83), where the Little River Valley quarry is proposed, I stand with my neighbors in opposition.
+People must come before corporate profit. -Wesley Haffenden April 4th, 2026 As the Democratic candidate for State Representative (District 83), where the Little River Valley quarry is proposed, I stand with my neighbors in opposition .
 This is not about being anti-growth.
 Putting heavy industry in a floodplain, next to wetlands, and right by our neighbors homes, schools, and hospitals just does not make sense.
 Families here should not be the ones taking on the risk so someone else can cash in.
 People have every right to be concerned about their water, their air, and their health.
 We all want good jobs and a strong economy.
 But we should not have to sacrifice our neighborhoods to get there.
-Our community deserves better and people must come before corporate profit.
--Wesley Haffenden
+Our community deserves better and people must come before corporate profit. -Wesley Haffenden READ FULL PLATFORM LEARN MORE ABOUT WESLEY Candidate for Indiana State Representative, District 83 Email: wesleyhaffenden@proton.me Paid for by Wesley Haffenden for State Representative

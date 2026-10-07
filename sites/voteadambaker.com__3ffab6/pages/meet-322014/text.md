@@ -1,9 +1,7 @@
-Meet
-Adam Baker
-Adam Baker grew up in East Multnomah County where he graduated from Gresham High School and received an AA in Business Administration from Mt.
+Skip to content Home Meet Policy Endorsements Home Meet Policy Endorsements Home Meet Issues Endorse Volunteer Donate Home Meet Issues Endorse Volunteer Donate ENDORSE CONTACT / VOLUNTEER DONATE Meet Adam Baker Adam Baker grew up in East Multnomah County where he graduated from Gresham High School and received an AA in Business Administration from Mt.
 Hood Community College.
 He was soon hired full-time at the Gresham Police Department in 1998 and is now retired.
-Over the past 28 years, he has had many roles; including Public Information Officer, Hostage/Crisis Negotiator, Emergency Vehicle Operations Instructor, Field Training Officer, Chief UAS Pilot, and Detective.
+Over the past 28 years, he has had many roles; including Public Information Officer, Hostage/Crisis Negotiator, Emergency Vehicle Operations Instructor, Field Training Officer, Chief UAS Pilot, and Detective .
 Adam knew from a young age that he had a true calling to public service.
 In his time outside of work, he has consistently volunteered his evenings and weekends with civic and community organizations.
 He spent 12 years as a Cub Scout and Boy Scout.
@@ -19,3 +17,9 @@ He teaches UAS (drone) classes to people as a contract instructor for a company 
 Adam and his wife, Lauren, raised their three kids in East Multnomah and Clackamas counties.
 Their children are now adults and still reside in Oregon.
 Adam and his wife live in Oregon City with their two dogs, and spend their free time enjoying the outdoors, traveling, and cooking new things for themselves and friends and family.
+Others are joining.
+You in?
+You'll get occasional news that matters Newsletter Registration First Name Enter your email to get Adam's updates!
+I'M IN!
+If you are human, leave this field blank.
+Vote Adam Baker for Oregon City, Gladstone, Jennings Lodge and Johnson City Facebook Instagram © # /// Paid For By Adam4Oregon PAC ID #21892 \\\ All rights reserved imunify-bot-check

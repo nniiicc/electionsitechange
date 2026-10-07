@@ -1,18 +1,8 @@
-Infrastructure
-Roads and Community Improvements In order to grow our economy and create jobs, we need to invest in the basics: our infrastructure.
-Last year I
-June 30, 2022
-No Comments
-As a former probation officer for 16 years in St.
+Skip to content Home About Issues The District Committees News Volunteer Contact Home About Issues The District Committees News Volunteer Contact DONATE Day: June 30, 2022 Infrastructure Roads and Community Improvements In order to grow our economy and create jobs, we need to invest in the basics: our infrastructure.
+Last year I Read More » June 30, 2022 No Comments Public Safety As a former probation officer for 16 years in St.
 Clair County working mostly with juveniles, public safety is a lifelong pursuit.
-I’m proud to
-The last few years have shown us just how important mental health is as we all had to face the fear and isolation the pandemic
-I believe everyone should have access to affordable, high quality healthcare.
-Here in the 57th District, we have several safety net hospitals that care for
-Job creation is one of my top priorities as your state senator.
+I’m proud to Read More » June 30, 2022 No Comments Mental Health The last few years have shown us just how important mental health is as we all had to face the fear and isolation the pandemic Read More » June 30, 2022 No Comments Healthcare I believe everyone should have access to affordable, high quality healthcare.
+Here in the 57th District, we have several safety net hospitals that care for Read More » June 30, 2022 No Comments Jobs Job creation is one of my top priorities as your state senator.
 In just three years I’ve: Brought NASCAR to Madison, Illinois.
-This June we
-School Funding Our children deserve a high quality education, and my job in Springfield is to make sure our schools, students and teachers get the
-Press
-EAST ST.
-LOUIS – Burning toxic synthetic chemicals will be banned thanks to a measure sponsored by State Senator Christopher Belt that was signed into law
+This June we Read More » June 30, 2022 No Comments Education School Funding Our children deserve a high quality education, and my job in Springfield is to make sure our schools, students and teachers get the Read More » June 30, 2022 No Comments Press New Belt law bans burning toxic chemicals in Illinois EAST ST.
+LOUIS – Burning toxic synthetic chemicals will be banned thanks to a measure sponsored by State Senator Christopher Belt that was signed into law Read More » June 30, 2022 No Comments Take Action Contribute Volunteer The District Committees PAID FOR BY FRIENDS OF CHRISTOPHER BELT FOLLOW Christopher belt Facebook Twitter

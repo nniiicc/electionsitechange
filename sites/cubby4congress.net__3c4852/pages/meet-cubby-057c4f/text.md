@@ -1,4 +1,4 @@
-Kwabena “Cubby” Nkromo is a grassroots civic leader, better food policy advocate, Green Party organizer, and congressional candidate whose public life has been shaped by decades of community service, citizen-led governance, institution building, and independent political action.
+Home Meet Cubby Why I'm Running Build What Comes Next US District 10 Green Party of MI Connect More Home Meet Cubby Why I'm Running Build What Comes Next US District 10 Green Party of MI Connect Home Meet Cubby Why I'm Running Build What Comes Next US District 10 Green Party of MI Connect Meet Cubby Kwabena “Cubby” Nkromo is a grassroots civic leader, better food policy advocate, Green Party organizer, and congressional candidate whose public life has been shaped by decades of community service, citizen-led governance, institution building, and independent political action.
 Nkromo’s political formation began in his hometown, the historic Roxbury neighborhood of Boston, Massachusetts, where exposure to native Black American political thought, neighborhood activism, and community-development institutions helped shape his understanding of citizenship and power.
 His early influences included political scientist Dr.
 L.
@@ -14,5 +14,9 @@ His Farmer Citizen framework and accompanying Food Citizens Movement treats food
 Now organizing in Michigan and seeking election to Congress from Michigan’s 10th Congressional District, Nkromo views elected office as one instrument of public service rather than its source.
 His candidacy asks a larger question that has inspired him throughout his public life: How can ordinary citizens build institutions, exercise meaningful democratic power, trengthen their communities, and translate political ideas into practical action?
 His campaign for Congress is the present assignment not the beginning of the story.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Finish what has been left unfinished.
+Repair what has been neglected.
+And give people the tools and resources to build what comes next.
+Why is cubby running for congress?
+Find out more Connect With Us Paid for by the Committee to Elect Kwabena "Cubby" Nkromo 615 S.
+Saginaw St Suite 1005 Flint, Mi 48502 Powered by

@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.ryderfornewyork.com/events",
+ "fingerprint": "0df06f7c78cc7d8aa1680d7bd2f90442fedd2b59",
+ "format": 3,
  "paid_for_by": "Paid for by Ryder for New York 2026",
- "title": "Events \u2014 Ryder for New York",
- "years_mentioned": []
+ "title": "Events — Ryder for New York",
+ "years_mentioned": [
+  "2026"
+ ]
 }

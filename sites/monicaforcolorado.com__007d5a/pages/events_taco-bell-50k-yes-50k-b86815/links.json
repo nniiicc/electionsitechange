@@ -1,22 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Taco+Bell+50k+%28yes%2C+50k%29&dates=20261003T133000Z%2F20261003T220000Z",
-"http://maps.google.com/?q=Taco+Bell+%282+locations+in+District+9%29",
-"https://flickr.com/people/monicaforcolorado",
-"https://instagram.com/monicavanbuskirk",
-"https://linkedin.com/in/monicavanbuskirk",
-"https://monicaforcolorado.com/",
-"https://monicaforcolorado.com/about",
-"https://monicaforcolorado.com/cart",
-"https://monicaforcolorado.com/contact",
-"https://monicaforcolorado.com/endorsements",
-"https://monicaforcolorado.com/events",
-"https://monicaforcolorado.com/events/event-one-mcyfj-db49n-kjxft-edf7z-z6jrh-tlcnb-r3bhw-gfys4-zhh9p",
-"https://monicaforcolorado.com/events/one-colorado-prism-awards",
-"https://monicaforcolorado.com/events/taco-bell-50k-yes-50k?format=ical",
-"https://monicaforcolorado.com/hd9",
-"https://monicaforcolorado.com/issues",
-"https://monicaforcolorado.com/privacy-policy",
-"https://secure.actblue.com/donate/monicaforcolorado",
-"https://tacobell50k.com/",
-"https://youtube.com/@monicavanbuskirk"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=taco+bell+%282+locations+in+district+9%29"
+},
+{
+"text": "0",
+"href": "https://www.monicaforcolorado.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.monicaforcolorado.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.monicaforcolorado.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.monicaforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/monicaforcolorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.monicaforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.monicaforcolorado.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Taco+Bell+50k+%28yes%2C+50k%29&dates=20261003T133000Z%2F20261003T220000Z"
+},
+{
+"text": "HD9",
+"href": "https://www.monicaforcolorado.com/hd9"
+},
+{
+"text": "ICS",
+"href": "https://www.monicaforcolorado.com/events/taco-bell-50k-yes-50k?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.monicaforcolorado.com/issues"
+},
+{
+"text": "Next Next October 3 One Colorado Prism Awards",
+"href": "https://www.monicaforcolorado.com/events/one-colorado-prism-awards"
+},
+{
+"text": "Previous Previous October 1 HD9 Coffee Hour",
+"href": "https://www.monicaforcolorado.com/events/event-one-mcyfj-db49n-kjxft-edf7z-z6jrh-tlcnb-r3bhw-gfys4-zhh9p"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.monicaforcolorado.com/privacy-policy"
+},
+{
+"text": "[image: Monica for Colorado]",
+"href": "https://www.monicaforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/people/monicaforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/monicavanbuskirk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/monicavanbuskirk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@monicavanbuskirk"
+},
+{
+"text": "https://tacobell50k.com/",
+"href": "https://tacobell50k.com/"
+}
 ]

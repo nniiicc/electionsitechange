@@ -1,10 +1,4 @@
-- This event has passed.
-Otsego County Democratic Committee Picnic
-July 12 @ 12:00 pm - 3:00 pm
-Meet and chat with your favorite local elected officials and candidates:
-- Michele Frazier, State Senate District 51 Candidate
-- Janet Tweed, State Assembly District 102 Candidate
-- Jason Cianciotto, Leslie Berliant and Michele Clapperton, Otsego County Board Candidates
-- Oneonta Common Council Members
-Sing along with music by Matt Whyte & Friends!
+Skip to content Donate Now Donate Now Vicki Davis for NY Assembly 121 Platform Events Volunteer News Endorsements Map of NY121 Contact Vicki Davis for NY Assembly 121 Donate Now Donate Now Platform Events Volunteer News Endorsements Map of NY121 Contact « All Events This event has passed.
+Otsego County Democratic Committee Picnic July 12 @ 12:00 pm - 3:00 pm « Rally Around the Flag Community Celebration Broome Dems Summer Picnic » Meet and chat with your favorite local elected officials and candidates: Michele Frazier, State Senate District 51 Candidate Janet Tweed, State Assembly District 102 Candidate Jason Cianciotto, Leslie Berliant and Michele Clapperton, Otsego County Board Candidates Oneonta Common Council Members Sing along with music by Matt Whyte & Friends!
 Food provided by Brooks House of Barbecue and Gourmet Democrats!
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: July 12 Time: 12:00 pm - 3:00 pm Website: https://www.otsegodemocrats.com/ Venue Neahwa Park Oneonta , NY 13820 United States + Google Map « Rally Around the Flag Community Celebration Broome Dems Summer Picnic » Copyright © # Vicki Davis for NY Assembly District 121 Scroll to Top

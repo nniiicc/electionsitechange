@@ -1,41 +1,182 @@
 [
-"https://facebook.com/profile.php?id=100095459972924",
-"https://senatorwithrow.com/",
-"https://senatorwithrow.com/about",
-"https://senatorwithrow.com/agriculture",
-"https://senatorwithrow.com/artificial-intelligence",
-"https://senatorwithrow.com/campaign-finance",
-"https://senatorwithrow.com/china",
-"https://senatorwithrow.com/contact",
-"https://senatorwithrow.com/data-centers",
-"https://senatorwithrow.com/diplomacy",
-"https://senatorwithrow.com/direct-democracy",
-"https://senatorwithrow.com/drugs-and-crime",
-"https://senatorwithrow.com/education",
-"https://senatorwithrow.com/energy",
-"https://senatorwithrow.com/epstein",
-"https://senatorwithrow.com/equal-rights",
-"https://senatorwithrow.com/foreign-aid",
-"https://senatorwithrow.com/freedom-of-speech-net-neutrality",
-"https://senatorwithrow.com/good-governance-board",
-"https://senatorwithrow.com/gun-rights",
-"https://senatorwithrow.com/healthcare",
-"https://senatorwithrow.com/housing",
-"https://senatorwithrow.com/iran",
-"https://senatorwithrow.com/israel-and-palestine",
-"https://senatorwithrow.com/jobs",
-"https://senatorwithrow.com/military",
-"https://senatorwithrow.com/north-korea",
-"https://senatorwithrow.com/patriotism-over-partisanship",
-"https://senatorwithrow.com/platform-discussion",
-"https://senatorwithrow.com/platform-menu",
-"https://senatorwithrow.com/proportional-representation",
-"https://senatorwithrow.com/russia",
-"https://senatorwithrow.com/social-security",
-"https://senatorwithrow.com/treaties",
-"https://senatorwithrow.com/veterans",
-"https://senatorwithrow.com/voting-rights",
-"https://senatorwithrow.com/water",
-"https://twitter.com/@withrowcongress",
-"https://youtube.com/channel/UCI9cZbUreD5mohKi-FichlA"
+{
+"text": "About",
+"href": "https://www.senatorwithrow.com/about"
+},
+{
+"text": "Agriculture",
+"href": "https://www.senatorwithrow.com/agriculture"
+},
+{
+"text": "Artificial Intelligence",
+"href": "https://www.senatorwithrow.com/artificial-intelligence"
+},
+{
+"text": "Campaign Finance",
+"href": "https://www.senatorwithrow.com/campaign-finance"
+},
+{
+"text": "China",
+"href": "https://www.senatorwithrow.com/china"
+},
+{
+"text": "Contact",
+"href": "https://www.senatorwithrow.com/contact"
+},
+{
+"text": "Data Centers",
+"href": "https://www.senatorwithrow.com/data-centers"
+},
+{
+"text": "Diplomacy",
+"href": "https://www.senatorwithrow.com/diplomacy"
+},
+{
+"text": "Direct Democracy",
+"href": "https://www.senatorwithrow.com/direct-democracy"
+},
+{
+"text": "Drugs and Crime",
+"href": "https://www.senatorwithrow.com/drugs-and-crime"
+},
+{
+"text": "Education",
+"href": "https://www.senatorwithrow.com/education"
+},
+{
+"text": "Email: adamwithrowforcongress@gmail.com",
+"href": "mailto:adamwithrowforcongress@gmail.com?subject=Hark%21++You%27re+being+summoned%21"
+},
+{
+"text": "Energy",
+"href": "https://www.senatorwithrow.com/energy"
+},
+{
+"text": "Epstein",
+"href": "https://www.senatorwithrow.com/epstein"
+},
+{
+"text": "Epstein and Public Trust",
+"href": "https://www.senatorwithrow.com/epstein"
+},
+{
+"text": "Equal Rights",
+"href": "https://www.senatorwithrow.com/equal-rights"
+},
+{
+"text": "Foreign Aid",
+"href": "https://www.senatorwithrow.com/foreign-aid"
+},
+{
+"text": "Freedom of Speech",
+"href": "https://www.senatorwithrow.com/freedom-of-speech-net-neutrality"
+},
+{
+"text": "Good Governance Board",
+"href": "https://www.senatorwithrow.com/good-governance-board"
+},
+{
+"text": "Gun Rights",
+"href": "https://www.senatorwithrow.com/gun-rights"
+},
+{
+"text": "Healthcare",
+"href": "https://www.senatorwithrow.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.senatorwithrow.com"
+},
+{
+"text": "Housing",
+"href": "https://www.senatorwithrow.com/housing"
+},
+{
+"text": "Iran",
+"href": "https://www.senatorwithrow.com/iran"
+},
+{
+"text": "Israel and Palestine",
+"href": "https://www.senatorwithrow.com/israel-and-palestine"
+},
+{
+"text": "Jobs",
+"href": "https://www.senatorwithrow.com/jobs"
+},
+{
+"text": "Military",
+"href": "https://www.senatorwithrow.com/military"
+},
+{
+"text": "Net Neutrality",
+"href": "https://www.senatorwithrow.com/freedom-of-speech-net-neutrality"
+},
+{
+"text": "North Korea",
+"href": "https://www.senatorwithrow.com/north-korea"
+},
+{
+"text": "Patriotism not Partisanship",
+"href": "https://www.senatorwithrow.com/patriotism-over-partisanship"
+},
+{
+"text": "Platform",
+"href": "https://www.senatorwithrow.com/platform-menu"
+},
+{
+"text": "Platform Discussion",
+"href": "https://www.senatorwithrow.com/platform-discussion"
+},
+{
+"text": "Platform Menu",
+"href": "https://www.senatorwithrow.com/platform-menu"
+},
+{
+"text": "Proportional",
+"href": "https://www.senatorwithrow.com/proportional-representation"
+},
+{
+"text": "Representation",
+"href": "https://www.senatorwithrow.com/proportional-representation"
+},
+{
+"text": "Russia",
+"href": "https://www.senatorwithrow.com/russia"
+},
+{
+"text": "Social Security",
+"href": "https://www.senatorwithrow.com/social-security"
+},
+{
+"text": "Treaties",
+"href": "https://www.senatorwithrow.com/treaties"
+},
+{
+"text": "Veterans",
+"href": "https://www.senatorwithrow.com/veterans"
+},
+{
+"text": "Voting Rights",
+"href": "https://www.senatorwithrow.com/voting-rights"
+},
+{
+"text": "Water",
+"href": "https://www.senatorwithrow.com/water"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100095459972924"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/@withrowcongress"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/channel/UCI9cZbUreD5mohKi-FichlA"
+},
+{
+"text": "​",
+"href": "https://www.senatorwithrow.com"
+}
 ]

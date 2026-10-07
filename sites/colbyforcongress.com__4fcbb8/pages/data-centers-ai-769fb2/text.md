@@ -1,5 +1,4 @@
-Data Centers & AI
-AI is already changing our lives and our economy, and like anything else, it can be used for good or for bad.
+top of page VOTER INFO DONATE Home Meet Colby Issues Housing Economy Healthcare Corruption, Integrity, Accountability Education and Strong Schools Safe Communities Veterans Border & Immigration Foreign Policy Rights, Liberty, Freedoms Data Centers & AI Energy & Enviroment Events More Contact News More Use tab to navigate through the menu items. press to zoom press to zoom press to zoom press to zoom 1/8 Data Centers & AI AI is already changing our lives and our economy, and like anything else, it can be used for good or for bad.
 I believe technological progress should improve the lives of the American people, not leave families paying higher electric bills, communities carrying the cost of new infrastructure, and a handful of massive corporations collecting most of the benefits.
 In many cases, massive data centers are being pushed into communities without residents having much say in the process.
 These projects can have a real impact on the environment, water and electricity usage, local infrastructure, and potentially utility costs.
@@ -24,3 +23,11 @@ If AI threatens American jobs, our privacy, our security, or the well-being of o
 The companies developing this technology have a responsibility to their businesses and shareholders.
 Your representative has a responsibility to you.
 I will never confuse the two.
+Set clear, enforceable guardrails around AI.
+Give local communities a voice and a choice on new data centers.
+Support moratoriums on new data centers when necessary.
+Require transparency about the water and electricity demands of data centers.
+End taxpayer subsidies for data centers.
+Protect the American workforce from reckless AI driven displacement.
+Colby Watson for Congress 2026 Contact: info@colbyforcongress.com Paid for by Colby Watson for Congress, without a cent of corporate interest money.
+Home About Issues Events Contact Shop Privacy Policy bottom of page

@@ -1,6 +1,30 @@
 [
-"https://danbronoske.com/",
-"https://danbronoske.com/contact-3",
-"https://danbronoske.com/endorsements",
-"https://secure.anedot.com/danbronoske/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/danbronoske/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.danbronoske.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.danbronoske.com"
+},
+{
+"text": "Issues",
+"href": "https://www.danbronoske.com"
+},
+{
+"text": "Meet Dan",
+"href": "https://www.danbronoske.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.danbronoske.com/contact-3"
+},
+{
+"text": "[image: Bronoske Logo-FINAL.png]",
+"href": "https://www.danbronoske.com"
+}
 ]

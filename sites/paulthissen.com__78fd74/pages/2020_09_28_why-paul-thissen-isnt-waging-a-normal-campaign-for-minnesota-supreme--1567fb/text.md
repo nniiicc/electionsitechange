@@ -1,3 +1,1 @@
-Sep 28, 2020 | News
-Read here:
-Why Paul Thissen isn’t waging a normal campaign for Minnesota Supreme Court
+Home About Paul News Social Media Feed Social Share FAQs Join Contribute Select Page News Why Paul Thissen isn’t waging a normal campaign for Minnesota Supreme Court Sep 28, 2020 | News Read here: Why Paul Thissen isn’t waging a normal campaign for Minnesota Supreme Court Privacy Policy

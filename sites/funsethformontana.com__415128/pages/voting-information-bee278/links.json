@@ -1,12 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61578991956204",
-"https://funsethformontana.com/",
-"https://funsethformontana.com/contact",
-"https://funsethformontana.com/issues",
-"https://funsethformontana.com/messaging-terms",
-"https://funsethformontana.com/news",
-"https://funsethformontana.com/photos",
-"https://funsethformontana.com/voting-information",
-"https://prodvoterportal.mt.gov/WhereToVote.aspx",
-"https://secure.anedot.com/funseth4montana/donate"
+{
+"text": "Contact",
+"href": "https://www.funsethformontana.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/funseth4montana/donate"
+},
+{
+"text": "HD 21 - Republican",
+"href": "https://www.funsethformontana.com"
+},
+{
+"text": "Issues",
+"href": "https://www.funsethformontana.com/issues"
+},
+{
+"text": "Mobile Messaging Terms",
+"href": "https://www.funsethformontana.com/messaging-terms"
+},
+{
+"text": "Photos",
+"href": "https://www.funsethformontana.com/photos"
+},
+{
+"text": "Secretary of State webpage",
+"href": "https://prodvoterportal.mt.gov/WhereToVote.aspx"
+},
+{
+"text": "Trevor Funseth",
+"href": "https://www.funsethformontana.com"
+},
+{
+"text": "Updates",
+"href": "https://www.funsethformontana.com/news"
+},
+{
+"text": "Voting Information",
+"href": "https://www.funsethformontana.com/voting-information"
+},
+{
+"text": "[image: Facebook link]",
+"href": "https://www.facebook.com/profile.php?id=61578991956204"
+}
 ]

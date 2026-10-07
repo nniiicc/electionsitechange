@@ -1,18 +1,4 @@
-Our New Voice in the Statehouse
-Endorsed by Nathan and Gayle Manning as a common sense, responsive voice for Lorain County
-MEET CLIFF WINKEL
-Cliff Winkel is not a career politician.
+0 Skip to Content MAKE A DONATION Open Menu Close Menu MAKE A DONATION Open Menu Close Menu MAKE A DONATION Our New Voice in the Statehouse Endorsed by Nathan and Gayle Manning as a common sense, responsive voice for Lorain County MEET CLIFF WINKEL Cliff Winkel is not a career politician.
 He is a husband, a father, and a blue-collar guy who goes to work each day with a truck full of tools.
 Cliff knows the challenges of high gas and grocery prices, healthcare costs.
-As our voice in Columbus,
-Cliff will be laser focused on:
-- Making gas and groceries more affordable for everyone
-- Cutting property taxes
-- Bringing new jobs to our area
-- And making customer service his number one priority
-LORAIN COUNTY VALUES
-25+ years living, working, and raising a family in Lorain County
-BLUE COLLAR ROOTS
-Owner and operator of Wink Electricfor 25+ years
-TRUSTED BY THE PEOPLE
-2-term elected North Ridgeville City Councilman
+As our voice in Columbus, Cliff will be laser focused on: Making gas and groceries more affordable for everyone Cutting property taxes Bringing new jobs to our area And making customer service his number one priority LORAIN COUNTY VALUES 25+ years living, working, and raising a family in Lorain County BLUE COLLAR ROOTS Owner and operator of Wink Electricfor 25+ years TRUSTED BY THE PEOPLE 2-term elected North Ridgeville City Councilman SUPPORT OUR CAMPAIGN MAKE A DONATION VOLUNTEER PAID FOR BY OHROC

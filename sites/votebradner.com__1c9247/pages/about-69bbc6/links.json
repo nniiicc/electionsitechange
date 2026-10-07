@@ -1,11 +1,38 @@
 [
-"https://secure.actblue.com/donate/peopleforbradner",
-"https://votebradner.com/",
-"https://votebradner.com/about",
-"https://votebradner.com/cart",
-"https://votebradner.com/contact",
-"https://votebradner.com/door-hanger-squad",
-"https://votebradner.com/endorsements",
-"https://votebradner.com/platform",
-"https://votebradner.com/volunteer"
+{
+"text": "0",
+"href": "https://www.votebradner.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.votebradner.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votebradner.com/contact"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/peopleforbradner"
+},
+{
+"text": "Door Hanger Squad",
+"href": "https://www.votebradner.com/door-hanger-squad"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votebradner.com/endorsements"
+},
+{
+"text": "Platform",
+"href": "https://www.votebradner.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votebradner.com/volunteer"
+},
+{
+"text": "[image: Jonathan Bradner for State Representative-Ohio House District 29]",
+"href": "https://www.votebradner.com/"
+}
 ]

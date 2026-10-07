@@ -1,5 +1,4 @@
-Defense Spending is Out of Control
-This problem snowballed in the early 2000s when Congress directed the Pentagon to cut 130,000 employees whose jobs were to negotiate and oversee defense contracts.
+beachyforcongress.com Defense Spending is Out of Control This problem snowballed in the early 2000s when Congress directed the Pentagon to cut 130,000 employees whose jobs were to negotiate and oversee defense contracts.
 Apparently, it was decided that the defense contractors should be trusted to offer fair contracts to the defense department.
 Somehow that has led to a shoulder-fired stinger missile that cost $25,000 in 1991 now costing more than $400,000.
 The Pentagon recently said major contractors have “cash beyond their needs for operations or investment.” They have bilked us of billions and billions of dollars.
@@ -18,3 +17,4 @@ I would also like to point out that Trump’s Golf Outings cost more than 250 ti
 To make things even worse House and Senate appropriators have added into their two fiscal 2024 Defense spending bills a combined $25.7 billion the Pentagon did not seek for more than 1,200 research and procurement projects.
 According to Taxpayers for Common Sense the House passed an appropriations bill that would add $10.7 billion for 580 different programs while the Senate’s contains nearly $15 billion for a mostly different group of 636 weapons programs.Congressman from both sides of the aisle always do everything necessary to keep this cash cow healthy.
 They cry, China, China, China, to stoke your fears but the only real danger from China is China’s theft of America’s intellectual property and their economic war against us.
+Makoa theme by Roman Fink Powered by WordPress Twitter LinkedIn GitHub

@@ -1,6 +1,5 @@
-Continued Concerns about the VTANG Lease Extension
-I’ve already posted my full comments on why I personally opposed extending the VTANG lease without first considering the continued housing of the F35 war machines.
-You can find that full statement on my most recent blog entry.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Uncategorized / Continued Concerns about the VTANG Lease Extension October 27, 2023 I’ve already posted my full comments on why I personally opposed extending the VTANG lease without first considering the continued housing of the F35 war machines.
+You can find that full statement on my most recent blog entry .
 I’m posting today with the concerns that have persisted for me since the decision resulting from Monday’s City Council meeting.
 Those concerns now reside with the approach itself that was used to strong-arm the new policy that extends the lease until 2073.
 I remain appalled by how 8 people, under the guidance and direction of our exiting Mayor, are able to impact this community for so long without input from impacted stakeholders.
@@ -27,4 +26,4 @@ This is precisely what environmental racism looks like.
 A commitment to Restorative Justice includes the practice of a core concept called Fair Process.
 This is a proactive commitment to remaining deliberate about hearing from potentially impacted individuals and communities before creating policies that may potentially cause harm.
 Not only did this not occur at Monday’s meeting, all indications suggest that any sort of fair process was strategically disregarded by 8 individuals acting in concert with one another.
-I hope we can all keep this profound disappointment in mind as we consider the future leadership of this community.
+I hope we can all keep this profound disappointment in mind as we consider the future leadership of this community. < My Statement to the City Council Decision on Extending the Lease for the VTANG > My Statement on the November 25th Shooting of Three Palestinian Students Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

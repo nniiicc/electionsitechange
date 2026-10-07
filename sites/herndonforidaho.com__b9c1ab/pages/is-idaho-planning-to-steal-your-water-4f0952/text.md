@@ -1,6 +1,7 @@
-I have gotten many messages in recent days asking me what I think of water adjudication and whether the state is trying to steal water.
-First, here is the headline we have seen recently in North Idaho news:
-IDWR sending out 5,000 notices to water users in the Priest River area, requesting water rights claims for adjudication.
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page Is Idaho Planning to Steal Your Water?
+Nov 25, 2021 | Herndon's Editorial I have gotten many messages in recent days asking me what I think of water adjudication and whether the state is trying to steal water.
+First, here is the headline we have seen recently in North Idaho news: IDWR sending out 5,000 notices to water users in the Priest River area, requesting water rights claims for adjudication.
 So, the core question people have asked me is whether, through adjudication, the state is trying to steal the water they use, or the rights to it, and even whether the state wants to require water flow meters on domestic wells.
 I will start by saying the state is not trying to steal your water.
 And, they are not requiring flow meters on private wells.
@@ -21,9 +22,7 @@ As well, there are literally hundreds of thousand of water diversions in the sta
 Water adjudication, which has just commenced in North Idaho can be simply considered preemptive dispute resolution.
 Let’s examine our rights to water as seen in the Idaho Constitution.
 First, the Idaho Constitution is the supreme law of Idaho as it pertains to water rights, and the constitution has an entire article on water rights.
-In Article XV, we find the following:
-As to your use of water for private purposes, Section 3 states that: “The right to divert and appropriate the unappropriated waters of any natural stream to beneficial uses, shall never be denied.”
-It continues – “When the waters of any natural stream are not sufficient for the service of all those desiring the use of the same, those using the water for domestic purposes shall (subject to such limitations as may be prescribed by law) have the preference over those claiming for any other purpose; and those using the water for agricultural purposes shall have preference over those using the same for manufacturing purposes.
+In Article XV, we find the following: As to your use of water for private purposes, Section 3 states that: “The right to divert and appropriate the unappropriated waters of any natural stream to beneficial uses, shall never be denied.” It continues – “When the waters of any natural stream are not sufficient for the service of all those desiring the use of the same, those using the water for domestic purposes shall (subject to such limitations as may be prescribed by law) have the preference over those claiming for any other purpose; and those using the water for agricultural purposes shall have preference over those using the same for manufacturing purposes.
 And in any organized mining district those using the water for mining purposes or milling purposes connected with mining, shall have preference over those using the same for manufacturing or agricultural purposes”.
 We can see clearly in this text that when Idaho became a state in 1890, domestic use was the highest priority use, followed by agriculture and mining before industrial use and that our rights to use will not be denied but are subject to the limits of the availability of the natural resource.
 We can see there is a certain logic to the order of priorities – we need to drink water and bathe and clean, and then we need to grow food.
@@ -36,14 +35,10 @@ While the Idaho constitution establishes a state water agency, now known as the 
 So in the end, it is our elected representatives, subject to our votes and our recalls, that are the ultimate administrators of the state’s allocation of water.
 Beyond the Idaho constitution, there is a substantive body of statutory law.
 Most of these laws are not new, and many date back to the 1890’s, shortly after Idaho became a state in the union.
-All of the statutes are in Title 42 of Idaho Code and include gems like these:
-• Section 42-101: “Water being essential to the industrial prosperity of the state, and all agricultural development throughout the greater portion of the state depending upon its just apportionment to, and economical use by, those making a beneficial application of the same, its control shall be in the state, which, in providing for its use, shall equally guard all the various interests involved.
-All the waters of the state, when flowing in their natural channels, including the waters of all natural springs and lakes within the boundaries of the state are declared to be the property of the state, whose duty it shall be to supervise their appropriation and allotment to those diverting the same therefrom for any beneficial purpose, and the right to the use of any of the waters of the state for useful or beneficial purposes is recognized and confirmed; and the right to the use of any of the public waters which have heretofore been or may hereafter be allotted or beneficially applied, shall not be considered as being a property right in itself, but such right shall become the complement of, or one of the appurtenances of, the land or other thing to which, through necessity, said water is being applied; and the right to continue the use of any such water shall never be denied or prevented from any other cause than the failure on the part of the user thereof to pay the ordinary charges or assessments which may be made to cover the expenses for the delivery of such water”.
-• Section 42-501: “an agency of the federal government cannot obtain a stockwater right under Idaho law unless it actually owns livestock and puts the water to beneficial use.
-It is the intent of the Legislature to protect Idaho stockwater right holders from encroachment by the federal government in navigable and nonnavigable waters”.
-• Section 42-104: “APPROPRIATION MUST BE FOR BENEFICIAL PURPOSE.
-The appropriation must be for some useful or beneficial purpose, and when the appropriator or his successor in interest ceases to use it for such purpose, the right ceases”.
-• Section 42-106: “As between appropriators, the first in time is first in right”.
+All of the statutes are in Title 42 of Idaho Code and include gems like these: • Section 42-101: “Water being essential to the industrial prosperity of the state, and all agricultural development throughout the greater portion of the state depending upon its just apportionment to, and economical use by, those making a beneficial application of the same, its control shall be in the state, which, in providing for its use, shall equally guard all the various interests involved.
+All the waters of the state, when flowing in their natural channels, including the waters of all natural springs and lakes within the boundaries of the state are declared to be the property of the state, whose duty it shall be to supervise their appropriation and allotment to those diverting the same therefrom for any beneficial purpose, and the right to the use of any of the waters of the state for useful or beneficial purposes is recognized and confirmed; and the right to the use of any of the public waters which have heretofore been or may hereafter be allotted or beneficially applied, shall not be considered as being a property right in itself, but such right shall become the complement of, or one of the appurtenances of, the land or other thing to which, through necessity, said water is being applied; and the right to continue the use of any such water shall never be denied or prevented from any other cause than the failure on the part of the user thereof to pay the ordinary charges or assessments which may be made to cover the expenses for the delivery of such water”. • Section 42-501: “an agency of the federal government cannot obtain a stockwater right under Idaho law unless it actually owns livestock and puts the water to beneficial use.
+It is the intent of the Legislature to protect Idaho stockwater right holders from encroachment by the federal government in navigable and nonnavigable waters” . • Section 42-104: “APPROPRIATION MUST BE FOR BENEFICIAL PURPOSE.
+The appropriation must be for some useful or beneficial purpose, and when the appropriator or his successor in interest ceases to use it for such purpose, the right ceases”. • Section 42-106: “As between appropriators, the first in time is first in right”.
 Let’s summarize some of the basics.
 Water is a limited resource that we share with our neighbors and do not technically own as a property right per se, but it is a complement to our property.
 We can appropriate and use the water in Idaho for a multitude of beneficial uses – domestic (up to 13,000 gallons a day), stockwater ( “Stock watering use means the use of water solely for livestock or wildlife where the total diversion is not in excess of thirteen thousand (13,000) gallons per day” – stock watering is considered an agricultural use), agriculture, mining and industrial, but those appropriations are subject to limits as the water itself is limited.
@@ -57,13 +52,12 @@ Water adjudication, such as just started in Priest Lake/Priest River is basicall
 And the Idaho Department of Water Resources is the technical expert and facilitator of the process by which that will happen.
 Remember, many of the laws are not new – they were in our constitution in 1890 or added to statute in the 1890’s, so it has been a truth all along that there would be competing uses for a limited, shared resource, and there would need to be a mechanism for documenting uses and resolving disputes.
 How did water adjudication get started in Idaho?
-There are a few things to know about general water adjudication:
-1) It is not a regular occurrence.
+There are a few things to know about general water adjudication: 1) It is not a regular occurrence.
 Since 1890, this is the first time there will be a general adjudication of the entire Clark/Fork Pend Oreille basin.
 Historically, adjudication has been specific dispute resolution between very localized interests.
 In the 1980’s, a general adjudication was commenced of the Snake River Basin.
 The adjudication that is about to take place in Priest River and subsequently the rest of Bonner County and finally Boundary County, essentially started in 1983.
-The opportunity for general adjudication actually began with a federal law passed by the United States in 1952 called the McCarran Amendment.
+The opportunity for general adjudication actually began with a federal law passed by the United States in 1952 called the McCarran Amendment .
 When adjudication is complete in Boundary County, the entire state will have been adjudicated, it will have included federal and Indian land water rights in Idaho, and Idaho will be the only western state to have completed a complete adjudication of water rights in the entire state.
 This is a tremendous accomplishment and undertaking, and we will actually all be better off for it in the future.
 1983: The year this started.
@@ -97,7 +91,8 @@ In my first case, I drilled a 300′ domestic well in 2006 and filed a domestic 
 This is not usual (it is not even required for you to use the water from our domestic well), but I recommend it.
 Your well driller will not do this for you, and at the time it cost me $100 to file the right.
 IDWR is a total ally in this process and completely helped and facilitated the filing of the use.
-My second use is another groundwater source. 8 years ago, I had the idea to dig a 12′ deep hole in a wet area of my property and installed two 4′ diameter concrete casings.
+My second use is another groundwater source.
+#ago, I had the idea to dig a 12′ deep hole in a wet area of my property and installed two 4′ diameter concrete casings.
 There was a significant amount of ground water in the excavation that gets captured by the casings.
 I filed a water right on this diversion for my beneficial use of the water for irrigation and stockwater, and then developed the system.
 I installed a pump and a significant system of buried pipe and sprinklers and hydrants to both water acreage and to fill our cattle’s stock tanks.
@@ -125,5 +120,7 @@ But sharing the waters of the state is a legitimate community interest, and it i
 Thank God that we live in a state where water is bountiful, but even so it is limited, and we have a state agency that is ultimately authorized by the constitution and overseen by the legislature that is an ally in the people’s interests.
 It is important that if you are using water on your property that you make sure your use becomes part of the final decree for the adjudication of our North Idaho basins.
 Visit the Idaho Department of Water Resources website to learn more.
-Here is a link to a two page IDWR adjudication brochure.
+Here is a link to a two page IDWR adjudication brochure .
 I highly recommend you read this resource.
+Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

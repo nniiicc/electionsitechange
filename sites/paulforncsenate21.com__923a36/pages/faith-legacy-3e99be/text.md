@@ -1,9 +1,5 @@
-FAITH & LEGACY
-Faith, Family, and Service
-Your ministry role and your family's generational service define your leadership.
-Apex Church Legacy
-A church built by your great-grandfather for your great-grandmother's ministry.
-Moore County Family Line
-Three boys and two girls raised in Aberdeen — the foundation of your district connection.
-Martinsville for Jesus
-Your great-uncle's ministry movement in Martinsville, VA.
+Home About Paul Advocacies Affordable Housing Advocacy Continuum of Care Nonprofit Cumberland County Housing Justice District 21 Community Empowerment Faith‑based Outreach Fayetteville Community Leader Fayetteville PACK Activism Germany Army Deployment Homelessness Prevention Korea Army Deployment Redistricting Testimony Senior Support Services Veteran Leadership Fayetteville Youth Mentorship Programs Community Leadership Issues & Priorities Photo Gallery Contact Events Give Today Faith & Legacy FAITH & LEGACY Faith, Family, and Service Your ministry role and your family's generational service define your leadership.
+Apex Church Legacy A church built by your great-grandfather for your great-grandmother's ministry.
+Moore County Family Line Three boys and two girls raised in Aberdeen — the foundation of your district connection.
+Martinsville for Jesus Your great-uncle's ministry movement in Martinsville, VA.
+COMMUNITIES OF DISTRICT 21 → Stay Connected Contact Info Phone: 910-751-0435 Email: paulforncsenate21@gmail.com Service Areas Home About Paul Faith & Legacy Communities of District 21 Community Issues & Surveys Community Engagement Sign-Up Community Support District Map Contact © # All Rights Reserved | Paid for by Paul Taylor for NC Senate District 21 Share by:

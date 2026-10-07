@@ -1,6 +1,1 @@
-Previous
-Previous
-CCAH PAC endorses Eric Lucan for State Assembly – District 12
-Next
-Next
-Paid for by Eric Lucan for Assembly 2026 | FPPC ID# 1480086
+0 Skip to Content About Endorsements Priorities Newsroom District & Voting Media Resources Contact CONTRIBUTE Open Menu Close Menu About Endorsements Priorities Newsroom District & Voting Media Resources Contact CONTRIBUTE Open Menu Close Menu About Endorsements Priorities Newsroom District & Voting Media Resources Contact CONTRIBUTE In close race, Lucan’s experience makes him choice for Assembly Sep 5 Written By Guest User Guest User Previous Previous CCAH PAC endorses Eric Lucan for State Assembly – District 12 Next Next Marin weighs in against ICE lockup in Bay Area Contribute About Endorsements Priorities Newsroom District & Voting Media Resources Contact Paid for by Eric Lucan for Assembly 2026 | FPPC ID# 1480086

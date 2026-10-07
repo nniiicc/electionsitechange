@@ -1,7 +1,4 @@
-FOR IMMEDIATE RELEASE Jan 17, 2026
-CONTACT: Bob@CarterMT.us
-Community advocate, Bob Carter, declares his candidacy for re-election to Montana House District 96
-Missoula, MT – Bob Carter, a dedicated advocate and a fixture in the Missoula communities of Target Range and Orchard Homes, announces his candidacy for re-election in Montana House District 96.
+Skip to content Home About Principles Donate Ethics Supporters and Endorsements Press Home Press Release: Bob Carter announces his bid for a third term for the Montana House of Representatives in 2026 Posted in Uncategorized Press Release: Bob Carter announces his bid for a third term for the Montana House of Representatives in 2026 Posted by By montanarjc January 17, 2026 FOR IMMEDIATE RELEASE Jan 17, 2026 CONTACT: Bob@CarterMT.us Community advocate, Bob Carter, declares his candidacy for re-election to Montana House District 96 Missoula, MT – Bob Carter, a dedicated advocate and a fixture in the Missoula communities of Target Range and Orchard Homes, announces his candidacy for re-election in Montana House District 96.
 With deep roots as a third-generation Montanan and a 19-year resident of the Target Range neighborhood, Carter brings experience and commitment to his candidacy.
 Carter’s extensive track record includes four terms as a Target Range School Board member, more than a decade of service to the Target Range Homeowners Association, and several terms on the board of the Target Range Sewer and Water District.
 He has held the position of board member and president at the Orchard Homes Country Life Club and has contributed his time and leadership as a volunteer and board member for various non-profit and educational institutions.
@@ -11,3 +8,5 @@ As a family who loves all outdoor activities, Carter is a strong supporter of pu
 The district encompasses the Target Range School district, Fort Missoula, O’Brien Creek, Big Flat, Council Grove, Kona Ranch, parts of Mullen Road, Deep Creek, Southgate Mall, the Fairgrounds, extending past Playfair Park to Bancroft Street.
 Bob Carter’s candidacy represents a continuation of his dedication to the well-being and progress of House District 96 and the Missoula community.
 With a proven record of community service and a genuine connection to the district’s diverse communities, Carter promises to continue his contribution as a representative in the Montana House.
+Last updated on January 17, 2026 montanarjc View All Posts Post navigation Previous Post Press Release: Community Advocate, Bob Carter, Declares Candidacy for Re-Election in Montana House District 96 Re-Elect Bob Carter for Montana HD96.
+4299 Spurgin Road, Missoula MT 59804 - Montana democrat - Barbara Berens treasurer Scroll to Top

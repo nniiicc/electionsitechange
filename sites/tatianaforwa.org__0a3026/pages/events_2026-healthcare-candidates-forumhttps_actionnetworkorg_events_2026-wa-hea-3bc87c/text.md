@@ -1,6 +1,2 @@
-Paid for by Tatiana for Washington (D)
-PO Box 27113 • Seattle, WA 98165
-(206) 412-1535 • hello@tatianaforwa.org
-Next
-Next
-October 6
+0 Skip to Content About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Back to All Events 2026 Healthcare Candidates Forum Monday, October 5, 2026 7:00 PM 8:30 PM Google Calendar ICS Source: https://actionnetwork.org/events/2026-wa-healthcare-candidates-forum?source=direct_link& Next Next October 6 Canvass with Tatiana in Othello!
+Paid for by Tatiana for Washington (D) PO Box 27113 • Seattle, WA 98165 (206) 412-1535‬ • hello@tatianaforwa.org

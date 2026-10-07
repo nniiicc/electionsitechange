@@ -1,3 +1,4 @@
-Endorsed by Citizens for Traditional Values PAC
-“CTV-PAC seeks to promote candidates with traditional Judeo-Christian values in order to impact public policy at all levels of government in Michigan by helping to preserve our guiding principles of Sanctity of Life, Traditional Marriage, Proper Role of Government, and Excellence in Education.
-Rachelle Smit’s dedication to these principles is crucial to supporting strong families and promoting good government within our state.”
+Home Meet Rachelle Priorities Endorsements Press Merch Get Involved District Map Yard Signs Contact Endorsed by Citizens for Traditional Values PAC Home / Testimonials / Endorsed by Citizens for Traditional Values PAC Endorsed by Citizens for Traditional Values PAC “CTV-PAC seeks to promote candidates with traditional Judeo-Christian values in order to impact public policy at all levels of government in Michigan by helping to preserve our guiding principles of Sanctity of Life, Traditional Marriage , Proper Role of Government, and Excellence in Education .
+Rachelle Smit’s dedication to these principles is crucial to supporting strong families and promoting good government within our state.” Elect Rachelle Smit – 43rd District P.O.
+Box 124, Shelbyville, Michigan 49344 | Phone: | E-mail: rachelle@smitforstaterep.com Paid for by the Committee to Elect Rachelle Smit for State Representative Copyright © # Committee to Elect Rachelle Smit for State Representative.
+All Rights Reserved.

@@ -1,28 +1,25 @@
-Futurizing Our Infrastructure To Deliver Real Solutions for Real Problems
-Our ENEMY is corruption – driven by the interests of Power Profit Control – which is incapable of providing the modern infrastructure necessary for Real Solutions to Real Problems.
+Toggle navigation Vote Independent Home I’ll Vote For Dr.SHIVA Take Action Volunteer Free Downloads Shop Forgot About Dr.SHIVA About Issues Contact Campaign Interview SHIVA 0 items in cart Donate Dr.SHIVA’s Manifesto: The Revolution to Win YOUR FUTURE for TRUTH FREEDOM HEALTH Download PDF Futurizing Our Infrastructure To Deliver Real Solutions for Real Problems Our ENEMY is corruption – driven by the interests of Power Profit Control – which is incapable of providing the modern infrastructure necessary for Real Solutions to Real Problems.
 Only a REVOLUTIONARY MOVEMENT can destroy that enemy to WIN YOUR FUTURE for Truth Freedom Health.
 SHIVA 4 SENATE is leading that Revolutionary Movement.
 Join US!
-Shiva4Senate.Com.
-– Dr.SHIVA Ayyadurai, MIT Ph.D.
+Shiva4Senate.Com. – Dr.SHIVA Ayyadurai, MIT Ph.D.
 Infrastructure IS the Foundation for Real Solutions – Infrastructure is the basic physical and organizational structures needed for the operation of a society or enterprise.
 Today, infrastructure includes many foundational systems not only the transportation system of roads, bridges, highways but also the complex technologies that operate our electrical grids, healthcare, educational, scientific, research, networking, and digital systems necessary for our survival and advancement.
 Humankind’s great advances were always coupled with advances in our infrastructure.
 Such advances were simply not given to us but the result of We The People rising up.
 Let’s never forget it was the revolutionary movements of American workers during the late 1800’s to 1900’s that delivered us the public health infrastructures of sanitation, hygiene, electricity, food transportation, refrigeration, elimination of child labor, and nutrition.
-That infrastructure is what reduced the death rate for all infectious diseases long before the introduction of vaccines.
+That infrastructure is what reduced the death rate for all infectious diseases long before the introduction of vaccines .
 The U.S. mortality rate for measles alone was reduced by 97% before the introduction of the measles vaccine in 1963.
 2020 Dystopia: A Decaying Infrastructure Fueled by Corruption – Where are we today?
 Consider a place like Massachusetts, home to M.I.T. – the world’s #1 science and engineering institution (and where I earned 4 MIT degrees including my PhD).
 Shouldn’t MA have futuristic infrastructure given its access to world-class engineering talent?
 Unfortunately, the answer is a BIG NO.
 Massachusetts received an “F” from the American Society of Civil Engineers for its infrastructure.
-In fact, MA got a BIG FAT “F” (123/350) – making MA decaying roads, highways, mass transit, bridges, and water systems, the third worst infrastructure in America.
-One doesn’t need an MIT degree to find the answer: CORRUPTION.
-The Center for Public Integrity gave MA a “D+” for integrity (down from a “C” rating in 2012) – making MA the 11th most corrupt state in America.
+In fact, MA got a BIG FAT “F” (123/350) – making MA decaying roads, highways, mass transit, bridges, and water systems, the third worst infrastructure in America .
+One doesn’t need an MIT degree to find the answer: CORRUPTION .
+The Center for Public Integrity gave MA a “D+” for integrity (down from a “C” rating in 2012) – making MA the 11th most corrupt state in America .
 MA’s politicians: executive, legislative and judicial branches got D’s & F’s for Public Access to Information, Judicial Accountability, and Lobbying Disclosure.
-Here’s a snapshot of that report card scores in the individual areas:
-The Career Politician: #1 Enemy of the People – There’s a 1-to-1 relationship between corruption and infrastructure.
+Here’s a snapshot of that report card scores in the individual areas: The Career Politician: #1 Enemy of the People – There’s a 1-to-1 relationship between corruption and infrastructure.
 The career politician has zero interest either in destroying corruption or in investing in infrastructure.
 Corruption is their lifeblood.
 Without it they never get elected or re-elected.
@@ -31,10 +28,7 @@ Because the career politician enters politics to make their career – their mil
 This means, the day they enter office, they are running to get re-elected.
 Just look at any Congressman or Senator’s workday schedule.
 About 90% of their day is spent raising money for their re-election.
-Now, consider the U.S. budget of about $4 Trillion, and its allocation as having three (3) Buckets:
-- Equity: welfare, Medicare, food stamps – “free stuff;”
-- Security: police, military, border control, immigration;
-- Infrastructure: transportation, electrical, digital, educational, research, and healthcare systems.
+Now, consider the U.S. budget of about $4 Trillion, and its allocation as having three (3) Buckets: Equity: welfare, Medicare, food stamps – “free stuff;” Security: police, military, border control, immigration; Infrastructure: transportation, electrical, digital, educational, research, and healthcare systems.
 Which Bucket does the career politician vote ‘YEA’ on to allocate your tax dollars?
 Most of the time: Bucket #1 – free stuff (and sometimes Bucket #2).
 It’s the sure way to get re-elected – play the SHORT GAME – by giving away things.
@@ -44,7 +38,8 @@ But in authoritarian regimes like China and Singapore or even in democratic soci
 America’s infrastructure now lags in the 20th century while China’s advances rapidly into the 23rd.
 This is THE National Security issue of our time.
 How Corruption Destroys Truth Freedom Health – The system of corruption consolidates Power Profit Control for the few, and destroys Truth, Freedom Health by: 1.
-Choking Freedom of Speech, debate, and discourse to inhibit the Scientific Method – the way to uncover Truth. 2.
+Choking Freedom of Speech, debate, and discourse to inhibit the Scientific Method – the way to uncover Truth.
+2.
 Suffocating Truth by hijacking the Scientific Method with “Scientific Consensus” so the Real Problem and the Real Solution for any issue, be it “climate change,” immigration, gun violence, vaccine choice, healthcare, education, are never identified; and, 3.
 Annihilating Health of our body, our environment, and our society by using Fake News to hype a Fake Problem to impose a Fake Solution.
 Choking Freedom ensures Truth remains hidden, resulting in us never knowing the Real Problem and innovating a Real Solution for the Health our body, our environment and our society.
@@ -84,3 +79,6 @@ Massachusetts is where the American Revolution began.
 A Shiva 4 Senate victory in 2020 will herald in a much-needed New American Revolution to win YOUR FUTURE for Truth Freedom Health.
 Join Us.
 YOUR CHOICE: Freedom or Slavery!
+Post navigation Freedom Town Hall – Lessons from NJ.
+How to WIN the Movement for Truth Freedom Health.
+PAID FOR BY SHIVA 4 SENATE © #, SHIVA 4 SENATE | All Rights Reserved | Privacy Policy | Terms & Conditions | Feedback

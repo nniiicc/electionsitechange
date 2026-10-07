@@ -1,5 +1,4 @@
-Immigrant and Refugee Justice
-As Tennessee Republicans have trafficked in racist fearmongering regarding immigrant and refugee communities, Justin has been an unapologetic voice fighting for a more welcoming and inclusive state.
+Skip to content Donate Meet Justin Issues News Meet Justin Issues News Donate Immigrant and Refugee Justice As Tennessee Republicans have trafficked in racist fearmongering regarding immigrant and refugee communities, Justin has been an unapologetic voice fighting for a more welcoming and inclusive state.
 In March 2024, Justin traveled to the US-Mexican border after Governor Bill Lee sent the Tennessee National Guard to aid Governor Abbot in his unconstitutional attempt at militarizing the border.
 As part of this trip, Justin met immigrants in Reynosa, Mexico waiting to cross the border, worked alongside Team Brownsville to welcome immigrants who had just left the processing facility, and toured the Rio Grande and existing border infrastructure.
 His trip centered the humanity of those seeking to enter the United States, and the treacherous journey immigrants go through to reach our southern border.
@@ -11,4 +10,4 @@ His rapid response created a space for community healing and dialogue, and force
 Moreover, Justin has worked towards clearing obstacles to equal citizenship in Tennessee and welcoming immigrants as part of our communities because we all benefit from a more diverse district and entrepreneurial economy.
 Tennessee is home to immigrants and refugees from across the globe, and that is especially true for House District 52, the most diverse district in Tennessee.
 As a bold progressive voice in the Tennessee legislature, Justin will continue to be a fierce advocate lifting up the call: “No hate, no fear!
-Immigrants are welcome here!”
+Immigrants are welcome here!” Explore other issues Healthcare for All Environmental Justice Challenging Corporate Greed Farming is the Future Protect Kids, Not Guns Democracy Requires Disruptors Meet Justin Issues News Donate Privacy Policy Terms of Use Website designed and developed by IndieTech Solutions Paid for by Justin Jones - Treasurer Lynne Mcfarland

@@ -1,19 +1,74 @@
 [
-"https://engage.monicaforcongress.org/election-voting-info",
-"https://engage.monicaforcongress.org/election-worker-questionnaire",
-"https://facebook.com/monicaforcongress",
-"https://instagram.com/monicaforcongress",
-"https://monicaforcongress.us/",
-"https://monicaforcongress.us/about",
-"https://monicaforcongress.us/es/new-housing-law-features-five-de-la-cruz-measures-supporting-veterans-and-boosting-supply",
-"https://monicaforcongress.us/issues",
-"https://monicaforcongress.us/media-kit",
-"https://monicaforcongress.us/news-and-media",
-"https://monicaforcongress.us/privacy-policy",
-"https://monicaforcongress.us/the-district",
-"https://monicaforcongress.us/volunteer",
-"https://secure.winred.com/monica-for-congress-149b0cf8/donate",
-"https://secure.winred.com/monica-for-congress-149b0cf8/storefront",
-"https://texasborderbusiness.com/new-housing-law-features-five-de-la-cruz-measures-supporting-veterans-and-boosting-supply",
-"https://twitter.com/monica4congress"
+{
+"text": "877-469-1210",
+"href": "tel:8774691210"
+},
+{
+"text": "About",
+"href": "https://monicaforcongress.us/about/"
+},
+{
+"text": "Become an Election Worker",
+"href": "https://engage.monicaforcongress.org/election-worker-questionnaire"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/monica-for-congress-149b0cf8/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/monicaforcongress/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/monicaforcongress/"
+},
+{
+"text": "Issues",
+"href": "https://monicaforcongress.us/issues/"
+},
+{
+"text": "Media Kit",
+"href": "https://monicaforcongress.us/media-kit/"
+},
+{
+"text": "News and Media",
+"href": "https://monicaforcongress.us/news-and-media/"
+},
+{
+"text": "Polling and Election Info",
+"href": "https://engage.monicaforcongress.org/election-voting-info"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/monica-for-congress-149b0cf8/storefront/"
+},
+{
+"text": "TX-15",
+"href": "https://monicaforcongress.us/the-district/"
+},
+{
+"text": "Texas Border Business",
+"href": "https://texasborderbusiness.com/new-housing-law-features-five-de-la-cruz-measures-supporting-veterans-and-boosting-supply/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/monica4congress"
+},
+{
+"text": "Volunteer",
+"href": "https://monicaforcongress.us/volunteer/"
+},
+{
+"text": "[image: es_MX]Spanish",
+"href": "https://monicaforcongress.us/es/new-housing-law-features-five-de-la-cruz-measures-supporting-veterans-and-boosting-supply/"
+},
+{
+"text": "[image]",
+"href": "https://monicaforcongress.us"
+},
+{
+"text": "here.",
+"href": "https://monicaforcongress.us/privacy-policy/"
+}
 ]

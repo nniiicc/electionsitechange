@@ -1,83 +1,11 @@
-Investing in Community (2019-present)
-In Congress, Rashida Tlaib has secured $68 million in federal funding for community projects across her congressional district.
-These federally funded projects include:
-Detroit
-- $3,000,000 to replace dangerous lead service lines
-- $2,500,000 for Grandmont Rosedale Development Corporation for mixed-use affordable/low-income senior housing and commercial space
-- $1,500,000 for facilities and equipment for the American Indian Health Family Services of Southeastern Michigan located in Detroit
-- $1,166,279 to Alternatives for Girls to construct Dr.
-Maya Angelou Village that will create 45 units of affordable, integrated permanent supportive housing for at-risk families
-- $1,000,000 for home repairs in Detroit’s Aviation Sub and Far West neighborhoods (Cody Rouge Action Alliance)
-- $1,000,000 to restore Cooley High School through renovations, partial demolition, and new construction to create space for both indoor and outdoor sports fields
-- $600,000 to support programming for education, employment, and housing for Detroiters who have faced barriers with the legal system (Pathway to Employment)
-- $220,402 to the In Memory of Community Garden for the Warrendale Multi-Cultural Neighborhood Revitalization Project to provide workforce development, education, community engagement, and small business development
-- $2,000,000 for Urban Neighborhood Initiatives for the Southwest Detroit Creative Connections Collaborative to deploy high-speed broadband and build community spaces
-- $2,000,000 to fund the Detroit Energy Efficiency and Home Improvement Program to provide energy-efficient home repairs (Enterprise Community Partners)
-- $1,787,725 to fund the development of The Stoudamire Wellness HUB for eastside Detroit residents (Eastside Community Network)
-- $281,200 for the HUDA Clinic, a non-profit free healthcare clinic that serves the Detroit Metro area and greater southeast Michigan (health unit on Davidson Avenue)
-- $1,000,000 for the Ruth Ellis Center to provide safe, affordable, identity-affirming housing for marginalized Black and Brown Detroiters, especially LGBTQ+ youth
-- $1,000,000 for After the Storm flood recovery project for metro Detroit
-- $850,000 for renovations and improvements to the Boys & Girls Club of Southeastern Michigan Dauch Club
-- $1,386,216 for the Joe Louis Greenway West Chicago Connector
-- $500,000 for New Covenant Community Care Health Center on Joy Road
-- $741,450 for rehabilitation and upgrade of Pump Station 182 to alleviate flooding
-Dearborn
-- $1,200,000 to construct new Multipurpose Skilled Trades and Automotive Technology Laboratories at the Michael Berry Career Center and to create a nature-based learning environment for Salina students that is protected from vehicle traffic and emissions (Green Schoolyards Project)
-- $500,000 for the Dearborn Industrial Green Beltway to mitigate old industrial pollution and contain new environmental contaminants
-- $500,000 to Leaders Advancing Healthy Communities for a new Workforce Education Resource and Development Center in Dearborn
-Beverly Hills Village
-- $250,000 for park improvements at Beverly Green Park
-- $959,752 for Water Main and Lead Service Line Replacement
-Dearborn Heights
-- $500,000 for Fire Station Replacement to improve the physical condition of the fire station and the facility’s capacity to provide safe and secure work environments for firefighters
-- $206,000 for the Dearborn Heights Library for computer and electronics infrastructure replacement and student mobile library services, including a vehicle
-- $1,675,000 to address and mitigate flooding along the Ecorse Creek in Dearborn Heights
-Franklin Village
-- $250,000 to repurpose a partially abandoned utility easement to construct and install a pedestrian and bike pathway
-Garden City
-- $2,100,000 for the Garden City Community Center Rehabilitation Project to provide social service programs for seniors and youth
-- $1,092,000 to replace the Ford Road water main which is approximately 1 mile in length and runs on both sides of Ford Road between Central Street and Inkster Road in Garden City
-Inkster
-- $1,000,000 for the Replacement of the Fire Fighting Apparatus and the purchase of one new fire engine and one new ambulance
-- $2,500,000 to build a Senior Wellness Center to help our seasoned residents thrive
-- $1,000,000 for ProsperUS Micro Lending to support entrepreneurship and small business development
-- $500,000 for the design and construction of a multi-purpose outdoor community space and market pavilion (Harvest River Square)
-Lathrup Village
-- $959,752 for the Water Main Replacement Project to improve water flow and reliability throughout the city
-- $880,000 to replace a 97-year-old undersized cast-iron water main (on Eldorado), improving water quality, reliability, pressure and increasing modeled fire flows
-Livonia
-- $1,250,000 for a new Livonia Wellness Center for seniors
-- $850,000 to add a pedestrian/bike path to the Stark Road bridge over Interstate 96 and improve biking and walking paths from Stark Road south to Hines Drive
-Redford Township
-- $2,000,000 to address infrastructure challenges such aging water systems and lead service lines in Redford — including monitoring, education, and replacement of all lead service lines to ensure safe drinking water
-- $2,000,000 for the Redford Township Wellness Center
-Southfield City
-- $850,000 for the Beech Woods Park & Wellness Trail for recreational and safer transportation routes for pedestrians and cyclists
-- $850,000 to provide 230 units of supportive housing for youth aging out of foster care (Hope Apartments)
-- $250,000 for a 1-mile-long reconstruction of Mt.
-Vernon Street from Southfield Road to Greenfield Road
-Southfield Township
-- $3,150,000 to provide home repairs such as replacing roofs, installing ramps, and providing other critical home repairs to homeowners aging in place
-- $959,752 for the construction of a new water main and to facilitate lead service line removal in Beverly Hills
-Westland
-- $3,500,000 for the expansion of service-learning for Wayne-Westland Community Schools
-- $2,000,000 for the construction of a new fire station to replace fire station #4 and for the replacement of an existing fire engine
-- $850,000 for a work-based learning program in Wayne and Westland for at-risk in-school youth age 14 or older, including stipends and supportive services
-- $250,000 for The Annex at Nankin in Westland City Hall Park to create a new community space for events and public gatherings
-Wayne County
-- $4,000,000 to facilitate a Multi-City Lead Service Line Replacement Project
-—
-Projects funded in Rashida’s initial congressional district, before redistricting:
-Ecorse
-- $600,000 for Southfield Road Pedestrian Improvement Project
-Highland Park
-- $496,000 for Multi-Service Facility for Health and Human Services
-- 2,000,000 for Boys and Girls Club of Southeastern Michigan – Renovations to Fauver-Martin Club
-Melvindale
-- $2,000,000 for Kessey Fieldhouse and Rouge River Boat Launch Capital Improvements
-River Rouge
-- $869,500 for Beechwood Center Renovation
-Romulus
-- $1,000,000 for Romulus Small Business Assistance & Workforce Development Project
-Wayne
-- $550,000 for City of Wayne Goudy Park Rehabilitation
+Support Rashida Tlaib for U.S.
+Congress We need Rashida’s bold, transformative leadership in Congress.
+Can you chip in to keep her in office fighting for us? $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Close Facebook Instagram Youtube Twitter Threads Rashida Tlaib for Congress – Rooted in Community Menu Meet Rashida Rashida’s Receipts Results for District Legislation for All Priority issues Community funding Vote in MI general How to vote Endorsements Rashida’s choices Get involved Get endorsed Resources Store Donate Investing in Community (2019-present) In Congress, Rashida Tlaib has secured $68 million in federal funding for community projects across her congressional district.
+These federally funded projects include: Detroit $3,000,000 to replace dangerous lead service lines $2,500,000 for Grandmont Rosedale Development Corporation for mixed-use affordable/low-income senior housing and commercial space $1,500,000 for facilities and equipment for the American Indian Health Family Services of Southeastern Michigan located in Detroit $1,166,279 to Alternatives for Girls to construct Dr.
+Maya Angelou Village that will create 45 units of affordable, integrated permanent supportive housing for at-risk families $1,000,000 for home repairs in Detroit’s Aviation Sub and Far West neighborhoods (Cody Rouge Action Alliance) $1,000,000 to restore Cooley High School through renovations, partial demolition, and new construction to create space for both indoor and outdoor sports fields $600,000 to support programming for education, employment, and housing for Detroiters who have faced barriers with the legal system (Pathway to Employment) $220,402 to the In Memory of Community Garden for the Warrendale Multi-Cultural Neighborhood Revitalization Project to provide workforce development, education, community engagement, and small business development $2,000,000 for Urban Neighborhood Initiatives for the Southwest Detroit Creative Connections Collaborative to deploy high-speed broadband and build community spaces $2,000,000 to fund the Detroit Energy Efficiency and Home Improvement Program to provide energy-efficient home repairs (Enterprise Community Partners) $1,787,725 to fund the development of The Stoudamire Wellness HUB for eastside Detroit residents (Eastside Community Network) $281,200 for the HUDA Clinic, a non-profit free healthcare clinic that serves the Detroit Metro area and greater southeast Michigan (health unit on Davidson Avenue) $1,000,000 for the Ruth Ellis Center to provide safe, affordable, identity-affirming housing for marginalized Black and Brown Detroiters, especially LGBTQ+ youth $1,000,000 for After the Storm flood recovery project for metro Detroit $850,000 for renovations and improvements to the Boys & Girls Club of Southeastern Michigan Dauch Club $1,386,216 for the Joe Louis Greenway West Chicago Connector $500,000 for New Covenant Community Care Health Center on Joy Road $741,450 for rehabilitation and upgrade of Pump Station 182 to alleviate flooding Dearborn $1,200,000 to construct new Multipurpose Skilled Trades and Automotive Technology Laboratories at the Michael Berry Career Center and to create a nature-based learning environment for Salina students that is protected from vehicle traffic and emissions (Green Schoolyards Project) $500,000 for the Dearborn Industrial Green Beltway to mitigate old industrial pollution and contain new environmental contaminants $500,000 to Leaders Advancing Healthy Communities for a new Workforce Education Resource and Development Center in Dearborn Beverly Hills Village $250,000 for park improvements at Beverly Green Park $959,752 for Water Main and Lead Service Line Replacement Dearborn Heights $500,000 for Fire Station Replacement to improve the physical condition of the fire station and the facility’s capacity to provide safe and secure work environments for firefighters $206,000 for the Dearborn Heights Library for computer and electronics infrastructure replacement and student mobile library services, including a vehicle $1,675,000 to address and mitigate flooding along the Ecorse Creek in Dearborn Heights Franklin Village $250,000 to repurpose a partially abandoned utility easement to construct and install a pedestrian and bike pathway Garden City $2,100,000 for the Garden City Community Center Rehabilitation Project to provide social service programs for seniors and youth $1,092,000 to replace the Ford Road water main which is approximately 1 mile in length and runs on both sides of Ford Road between Central Street and Inkster Road in Garden City Inkster $1,000,000 for the Replacement of the Fire Fighting Apparatus and the purchase of one new fire engine and one new ambulance $2,500,000 to build a Senior Wellness Center to help our seasoned residents thrive $1,000,000 for ProsperUS Micro Lending to support entrepreneurship and small business development $500,000 for the design and construction of a multi-purpose outdoor community space and market pavilion (Harvest River Square) Lathrup Village $959,752 for the Water Main Replacement Project to improve water flow and reliability throughout the city $880,000 to replace a 97-year-old undersized cast-iron water main (on Eldorado), improving water quality, reliability, pressure and increasing modeled fire flows Livonia $1,250,000 for a new Livonia Wellness Center for seniors $850,000 to add a pedestrian/bike path to the Stark Road bridge over Interstate 96 and improve biking and walking paths from Stark Road south to Hines Drive Redford Township $2,000,000 to address infrastructure challenges such aging water systems and lead service lines in Redford — including monitoring, education, and replacement of all lead service lines to ensure safe drinking water $2,000,000 for the Redford Township Wellness Center Southfield City $850,000 for the Beech Woods Park & Wellness Trail for recreational and safer transportation routes for pedestrians and cyclists $850,000 to provide 230 units of supportive housing for youth aging out of foster care (Hope Apartments) $250,000 for a 1-mile-long reconstruction of Mt.
+Vernon Street from Southfield Road to Greenfield Road Southfield Township $3,150,000 to provide home repairs such as replacing roofs, installing ramps, and providing other critical home repairs to homeowners aging in place $959,752 for the construction of a new water main and to facilitate lead service line removal in Beverly Hills Westland $3,500,000 for the expansion of service-learning for Wayne-Westland Community Schools $2,000,000 for the construction of a new fire station to replace fire station #4 and for the replacement of an existing fire engine $850,000 for a work-based learning program in Wayne and Westland for at-risk in-school youth age 14 or older, including stipends and supportive services $250,000 for The Annex at Nankin in Westland City Hall Park to create a new community space for events and public gatherings Wayne County $4,000,000 to facilitate a Multi-City Lead Service Line Replacement Project — Projects funded in Rashida’s initial congressional district, before redistricting: Ecorse $600,000 for Southfield Road Pedestrian Improvement Project Highland Park $496,000 for Multi-Service Facility for Health and Human Services 2,000,000 for Boys and Girls Club of Southeastern Michigan – Renovations to Fauver-Martin Club Melvindale $2,000,000 for Kessey Fieldhouse and Rouge River Boat Launch Capital Improvements River Rouge $869,500 for Beechwood Center Renovation Romulus $1,000,000 for Romulus Small Business Assistance & Workforce Development Project Wayne $550,000 for City of Wayne Goudy Park Rehabilitation Check if you live in Rashida’s congressional district Join Our Campaign Sign up for email updates so you can stay in the loop.
+Chip In Rashida does not take any money from corporate PACs.
+Every donation makes a big difference. $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Rashida Tlaib for Congress – Rooted in Community Meet Rashida Results for District Legislation for All Rashida’s Top Priorities Vote in MI general Resources Follow Us Facebook Instagram Youtube Twitter Threads Donate by Mail Rashida Tlaib for Congress P.O.
+Box 32777 Detroit, MI 48232 Paid for by Rashida Tlaib for Congress Contact Privacy Policy Terms of Service Made with Middle Seat

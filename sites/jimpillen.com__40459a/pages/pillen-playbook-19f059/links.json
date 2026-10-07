@@ -1,13 +1,54 @@
 [
-"https://facebook.com/JimPillenforGovernor",
-"https://jimpillen.com/",
-"https://jimpillen.com/about",
-"https://jimpillen.com/get-involved",
-"https://jimpillen.com/pillen-playbook",
-"https://jimpillen.com/privacy-policy",
-"https://jimpillen.com/text-terms-and-conditions",
-"https://jimpillen.com/wp-content/uploads/2026/09/JimPillenPlaybook2026.pdf",
-"https://secure.anedot.com/jim-pillen-for-governor/donate",
-"https://twitter.com/jim_pillen",
-"https://youtube.com/channel/UCIzKXspR05a-D5QwX75C8Fw"
+{
+"text": "About",
+"href": "https://www.jimpillen.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jim-pillen-for-governor/donate"
+},
+{
+"text": "Donate today",
+"href": "https://secure.anedot.com/jim-pillen-for-governor/donate"
+},
+{
+"text": "Download Pillen Playbook 2.0 PDF",
+"href": "https://www.jimpillen.com/wp-content/uploads/2026/09/JimPillenPlaybook2026.pdf"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jimpillen.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.jimpillen.com/"
+},
+{
+"text": "Pillen Playbook 2.0",
+"href": "https://www.jimpillen.com/pillen-playbook/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jimpillen.com/privacy-policy/"
+},
+{
+"text": "SMS Terms and Conditions",
+"href": "https://www.jimpillen.com/text-terms-and-conditions/"
+},
+{
+"text": "[image]",
+"href": "https://www.jimpillen.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/jim_pillen"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JimPillenforGovernor"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCIzKXspR05a-D5QwX75C8Fw"
+}
 ]

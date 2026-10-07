@@ -1,30 +1,4 @@
+Issues About Gallery Endorsements Contact Join Donate Select Page Cecilia is working for us!
 In the midst of crises that threaten the physical and economic health of residents and businesses, Cecilia will continue to be a strong, steady, common-sense voice for the small cities and towns of District 4.
-Cecilia’s priorities include:
-Protect public health and safety
--
-Work with state and local leaders to ensure healthcare providers in our district have the scarce health care resources they need;
--
-Push for greater access to healthcare for rural communities;
--
-Lead the fight for reliable broadband service in every community;
--
-Advocate for more resources to prevent and fight wildfires, and to help those impacted by disasters;
--
-Make sure our law enforcement officers have the resources they need to protect us in our homes, schools and businesses;
--
-Push for sensible measures to curtail the epidemic of gun violence.
-Strengthen our public education system
--
-Invest in quality education and smaller class sizes
--
-Fund childcare services, for every child, starting at birth
--
-Increase career technical education and job training programs
--
-Invest in music and the arts as core components of public education
--
-Make college accessible and affordable for all
-Fight climate change and protect our farmland, air, water and open space
-- Make sure California continues to lead the country in protecting air quality and controlling emissions
-- Promote a 100% renewable energy market that uses all the diverse energy generation technologies available
-- Preserve the unique natural beauty of our District and the state
+Cecilia’s priorities include: Protect public health and safety Work with state and local leaders to ensure healthcare providers in our district have the scarce health care resources they need; Push for greater access to healthcare for rural communities; Lead the fight for reliable broadband service in every community; Advocate for more resources to prevent and fight wildfires, and to help those impacted by disasters; Make sure our law enforcement officers have the resources they need to protect us in our homes, schools and businesses; Push for sensible measures to curtail the epidemic of gun violence.
+Strengthen our public education system Invest in quality education and smaller class sizes Fund childcare services, for every child, starting at birth Increase career technical education and job training programs Invest in music and the arts as core components of public education Make college accessible and affordable for all Fight climate change and protect our farmland, air, water and open space Make sure California continues to lead the country in protecting air quality and controlling emissions Promote a 100% renewable energy market that uses all the diverse energy generation technologies available Preserve the unique natural beauty of our District and the state Facebook Paid for by Cecilia Aguiar-Curry for Assembly 2026, ID #1476841 – 1700 Tribute Road, Suite 201 – Sacramento, CA 95815 – (530) 601-9801

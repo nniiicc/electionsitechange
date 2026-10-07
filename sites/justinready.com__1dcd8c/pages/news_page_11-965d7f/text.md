@@ -1,38 +1,9 @@
-Stay Up To Date
-The Ready Report
-June 17, 2024
-Ready Report: 338 Tax/Fee Increases, Breakfast this Wednesday & More…
-I hope you and your family had a wonderful Father’s Day weekend.
-I am so thankful for the caring and godly influence my dad Joe has had and continues to have in my life and…
-June 6, 2024
-Storm Response – Virtual Disaster Center Opening on Tuesday, June 11th
-The last 48 hours have seen storms rock Central Maryland and Carroll and Frederick Counties have been hit by tornadoes and high winds and water.
-I hope you and your family are doing okay and…
-June 3, 2024
-Ready Report: Letter in Carroll County Times & Upcoming Events
-Below is an update which includes my recent OpEd in the Carroll County Times, as well as some local updates.
-May OpEd in Carroll County Times on Top Concerns from 2024 Session Earlier this month,…
-May 29, 2024
-General Assembly left unfinished business on crime, budget; lessons to be learned from college protests | READER COMMENTARIES
-At midnight on April 8th, the 2024 Maryland General Assembly Session officially came to a close.
-It’s a great honor to serve Carroll County as well as the Frederick County portion of Mount Airy in…
-May 24, 2024
-Ready Report: Memorial Day, No Property Tax Increase in Carroll & More…
-As we head into Memorial Day weekend, I want to express my heartfelt gratitude to those who made the ultimate sacrifice for the United States.
-On Memorial Day we remember and honor the brave men…
-May 13, 2024
-Ready Report: Primary Election Tomorrow, Johns Hopkins Protests & More…
-I hope all the moms out there had a fantastic Mother’s Day.
-Brooklyn, Caleb and I enjoyed honoring Ruth and my mom and mother-in-law – we all should be so thankful for the blessing of…
-May 3, 2024
-Ready Report: Early Voting Underway & Carroll County Budget Public Hearing
-Below is a bit of a lengthy weekly update which includes details on the Carroll County Commissioner’s proposed FY 2025 Budget and upcoming public hearing as well is information on early voting for the Presidential…
-May 1, 2024
-Statement on Johns Hopkins Campus Protestors
-April 19, 2024
-Ready Report: Post Session Report & More…
-Below is a quick weekly update, but in case you missed it last week, I’m including a link to a detailed, full report covering many of the issues we worked on this Session in Annapolis….
-April 12, 2024
-Ready Report: Post Session Report
-The Maryland General Assembly adjourned Sine Die at midnight on Monday, meaning the 2024 Legislative Session has now concluded.
-Below is a quick weekly update, but I’m including a link to a detailed, full report…
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report June 17, 2024 Ready Report: 338 Tax/Fee Increases, Breakfast this Wednesday & More… I hope you and your family had a wonderful Father’s Day weekend.
+I am so thankful for the caring and godly influence my dad Joe has had and continues to have in my life and… Read More > June 6, 2024 Storm Response – Virtual Disaster Center Opening on Tuesday, June 11th The last 48 hours have seen storms rock Central Maryland and Carroll and Frederick Counties have been hit by tornadoes and high winds and water.
+I hope you and your family are doing okay and… Read More > June 3, 2024 Ready Report: Letter in Carroll County Times & Upcoming Events Below is an update which includes my recent OpEd in the Carroll County Times, as well as some local updates.
+May OpEd in Carroll County Times on Top Concerns from 2024 Session Earlier this month,… Read More > May 29, 2024 General Assembly left unfinished business on crime, budget; lessons to be learned from college protests | READER COMMENTARIES At midnight on April 8th, the 2024 Maryland General Assembly Session officially came to a close.
+It’s a great honor to serve Carroll County as well as the Frederick County portion of Mount Airy in… Read More > May 24, 2024 Ready Report: Memorial Day, No Property Tax Increase in Carroll & More… As we head into Memorial Day weekend, I want to express my heartfelt gratitude to those who made the ultimate sacrifice for the United States.
+On Memorial Day we remember and honor the brave men… Read More > May 13, 2024 Ready Report: Primary Election Tomorrow, Johns Hopkins Protests & More… I hope all the moms out there had a fantastic Mother’s Day.
+Brooklyn, Caleb and I enjoyed honoring Ruth and my mom and mother-in-law – we all should be so thankful for the blessing of… Read More > May 3, 2024 Ready Report: Early Voting Underway & Carroll County Budget Public Hearing Below is a bit of a lengthy weekly update which includes details on the Carroll County Commissioner’s proposed FY 2025 Budget and upcoming public hearing as well is information on early voting for the Presidential… Read More > May 1, 2024 Statement on Johns Hopkins Campus Protestors Read More > April 19, 2024 Ready Report: Post Session Report & More… Below is a quick weekly update, but in case you missed it last week, I’m including a link to a detailed, full report covering many of the issues we worked on this Session in Annapolis….
+Read More > April 12, 2024 Ready Report: Post Session Report The Maryland General Assembly adjourned Sine Die at midnight on Monday, meaning the 2024 Legislative Session has now concluded.
+Below is a quick weekly update, but I’m including a link to a detailed, full report… Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer

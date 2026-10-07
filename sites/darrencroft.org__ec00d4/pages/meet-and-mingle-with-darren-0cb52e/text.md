@@ -1,8 +1,4 @@
-Our big meet and mingle includes face painting, treats, and kids games.
+Skip to content Menu Menu Home Top 3 About Issues Endorsements News Contact Contribute News Item Posted May 21, 2026 Meet and Mingle with Darren Our big meet and mingle includes face painting, treats, and kids games.
 Please join my family and me at Mountview Park on June 13 for some fun, or at Whitmore Library auditorium on June 6.
-Informal Discussions
-When: Saturday June 6, 2:00PM – 5:00PM
-Where: Whitmore Library Auditorium (downstairs)
-Free Face Painting, Treats, Kids Games, and Discussions
-When: Saturday June 13, 10:00AM – 12:00PM
-Where: Mountview Park, 1651 Fort Union Blvd
+Informal Discussions When: Saturday June 6, 2:00PM – 5:00PM Where: Whitmore Library Auditorium (downstairs) Free Face Painting, Treats, Kids Games, and Discussions When : Saturday June 13, 10:00AM – 12:00PM Where : Mountview Park, 1651 Fort Union Blvd Categories News Amber Shill Primary Election Guide Leave a Comment Cancel reply Comment Name Email Website Save my name, email, and website in this browser for the next time I comment.
+District 41 Map Privacy Policy/Terms & Conditions © # Darren Croft for Utah House Close Home Top 3 About Issues Endorsements News

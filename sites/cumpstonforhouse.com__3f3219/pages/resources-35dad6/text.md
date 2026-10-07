@@ -1,10 +1,3 @@
-Cumpston for House
-General Election Endorsements:
-WV AFL CIO
-Marshall Wetzel Tyler CLC
-IBEW Local 141
-West Virginia Building and Construction Trades Council
-Planned Parenthood
-Primary Election Endorsements:
-Teamsters Local 141
-IBEW Local 697
+Skip to content Cumpston for House About Cody Issues Endorsements Contact Get Involved Donate Endorsements General Election Endorsements: WV AFL CIO Marshall Wetzel Tyler CLC IBEW Local 141 West Virginia Building and Construction Trades Council Planned Parenthood Primary Election Endorsements: Teamsters Local 141 IBEW Local 697 Cumpston for House Facebook Instagram TikTok About Cody Issues Endorsements Contact Get Involved Donate Paid for by Codycumpston4wv, Treasurer Sherry Johnson Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

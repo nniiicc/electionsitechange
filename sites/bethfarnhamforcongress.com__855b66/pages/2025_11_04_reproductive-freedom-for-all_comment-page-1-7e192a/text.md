@@ -1,36 +1,44 @@
-Only when we have agency over our own bodies are we free to create the families we choose.
+Skip to content Menu Close Priorities Meet Beth Contact Beth donate Join us !
+Uncategorized · November 4, 2025 Reproductive Freedom for All Only when we have agency over our own bodies are we free to create the families we choose.
 With Reproductive Freedom, we, along with our trusted healthcare professionals, make personal medical decisions such as: abortion, birth control, disease prevention, nutrition, exercise, in vitro vertilization (IVF), and gender-affirming care and NO ONE has the right to stand in the way of them nor have access to our private medical information.
-As US Representative of Pennsylvania’s 13th Congressional District, I pledge to:
-- Enshrine into federal law Reproductive Freedom including, but not limited to: abortion, gender-affirming care, birth control, and IVF.
-- Ensure publication of the ratified 28th (Equal Rights) Amendment to the US Constitution that reads, “Equality of rights under the law shall not be denied or abridged by the United States or by any State on account of sex.”
-- Enshrine into federal law national sex education standards.
-- Require clear labeling of crisis pregnancy centers (CPC’s) that are not regulated healthcare facilities.
+As US Representative of Pennsylvania’s 13th Congressional District, I pledge to: Enshrine into federal law Reproductive Freedom including, but not limited to: abortion, gender-affirming care, birth control, and IVF.
+Ensure publication of the ratified 28th (Equal Rights) Amendment to the US Constitution that reads, “Equality of rights under the law shall not be denied or abridged by the United States or by any State on account of sex.” Enshrine into federal law national sex education standards.
+Require clear labeling of crisis pregnancy centers (CPC’s) that are not regulated healthcare facilities.
 In America, veterans, union members, and civil rights activists have fought tirelessly to ensure that citizens of the United States of America have agency over our own bodies, but currently, those assigned female at birth do not have the same bodily agency that those assigned male at birth enjoy in all 50 states.
-For example, in several states, pregnant people may not seek abortion after 6 weeks of pregnancy, which time can end before the person even discovers they’re pregnant.1
-In states where abortion access is limited, pregnant people who suffer miscarriage, which typically occurs in 1 out of 5 pregnancies (wanted or not), risk death from sepsis.
+For example, in several states, pregnant people may not seek abortion after 6 weeks of pregnancy, which time can end before the person even discovers they’re pregnant.
+1 In states where abortion access is limited, pregnant people who suffer miscarriage, which typically occurs in 1 out of 5 pregnancies (wanted or not), risk death from sepsis.
 Medical professionals who might remove the dead fetal tissue are threatened with loss of medical licenses or even criminal prosecution.
-Therefore, in those abortion-restricted states, some women suffer to the point of infertility, come close to death, and/or actually die before legislators decide whether or not their lives are worth saving.2
-With homicide and suicide as the leading causes of maternal death, it is imperative that those who have unwanted pregnancies be free to end them on their terms.3
-Additionally, a pregnant person forced to carry a fetus to term may not attend prenatal appointments, take prenatal vitamins, or seek the care that a pregnant person who desires the pregnancy would be motivated to do.
+Therefore, in those abortion-restricted states, some women suffer to the point of infertility, come close to death, and/or actually die before legislators decide whether or not their lives are worth saving.
+2 With homicide and suicide as the leading causes of maternal death, it is imperative that those who have unwanted pregnancies be free to end them on their terms.
+3 Additionally, a pregnant person forced to carry a fetus to term may not attend prenatal appointments, take prenatal vitamins, or seek the care that a pregnant person who desires the pregnancy would be motivated to do.
 They may engage in self-harm and/or harm of the fetus.
-In abortion-restricted states, infant mortality has also risen due to the rise of those born with congenital deformities.4
-It is also important to note that people most likely to seek abortion identify as mothers and live in poverty.
-In other words, they seek abortion because they cannot afford another mouth to feed.5 There are so many hungry children in the United States of America, charities like No Kid Hungry exist to try to meet the need.6
-Many people mistakenly believe that babies given up for adoption will be adopted, but the state of Pennsylvania alone has over 400 children waiting for that day to be welcomed into a family.7
-One reason a person may have an unwanted pregnancy is a lack of access to effective birth control.
-Places where there are no healthcare centers to obtain birth control are known as “contraceptive deserts.” Contraceptive deserts are mostly concentrated in states that restrict access to birth control.8
-Another reason a person may have an unwanted pregnancy is a lack of comprehensive, science-based, LGBTQ+ inclusive sexuality instruction, otherwise known as “sex ed,” taught by certified secondary education teachers.
+In abortion-restricted states, infant mortality has also risen due to the rise of those born with congenital deformities.
+4 It is also important to note that people most likely to seek abortion identify as mothers and live in poverty.
+In other words, they seek abortion because they cannot afford another mouth to feed.
+5 There are so many hungry children in the United States of America, charities like No Kid Hungry exist to try to meet the need.
+6 Many people mistakenly believe that babies given up for adoption will be adopted, but the state of Pennsylvania alone has over 400 children waiting for that day to be welcomed into a family.
+7 One reason a person may have an unwanted pregnancy is a lack of access to effective birth control.
+Places where there are no healthcare centers to obtain birth control are known as “contraceptive deserts.” Contraceptive deserts are mostly concentrated in states that restrict access to birth control.
+8 Another reason a person may have an unwanted pregnancy is a lack of comprehensive, science-based, LGBTQ+ inclusive sexuality instruction, otherwise known as “sex ed,” taught by certified secondary education teachers.
 Because the topic of sex ed is often awkward for families, it may not be addressed in the home, but qualified instructors can deliver critical information to adolescents who might engage in such behavior.
 While abstinence is important to be taught, it is equally important that students learn about effective means of birth control and disease prevention.
-Condoms are the most effective for preventing both unwanted pregnancy and sexually-transmitted infections.9
-National standards in sexuality education ensure public school students receive this important information delivered without any religious bias.10
-Unfortunately, some sexuality “instruction” is “taught” by employees of crisis pregnancy centers (CPC’s).
+Condoms are the most effective for preventing both unwanted pregnancy and sexually-transmitted infections.
+9 National standards in sexuality education ensure public school students receive this important information delivered without any religious bias.
+10 Unfortunately, some sexuality “instruction” is “taught” by employees of crisis pregnancy centers (CPC’s).
 Frequently, the “education” is not science-based, nor vetted by educators, nor delivered by certified secondary education teachers.
 Instead, school districts across the country welcome church ladies wearing medical dress-ups to deliver their faith-based programs that often provide outdated concepts such as: victim-blaming for rape, sex negativity (especially for girls), strict heteronormativity, marriage as a gatekeeper to sex, comparisons of human sexuality to drug and alcohol misuse, and misinformation about condoms, birth control, and the Human Papilloma Virus (HPV) vaccine that protects against 9 different cancers.
 The American College of Obstetricians and Gynecologists describes CPC’s as “…certain facilities that represent themselves as legitimate reproductive health care clinics providing care for pregnant people but actually aim to dissuade people from accessing certain types of reproductive health care, including abortion care and even contraceptive options.
 Staff members at these unregulated and often nonmedical facilities have no legal obligation to provide pregnant people with accurate information and are not subject to HIPAA or required by law to maintain client confidentiality.
-Many CPCs are affiliated with national organizations that provide funding, support, and training to advance a broadscale antiabortion agenda.”11
-Without regulation, CPC’s are not required to abide by standards of sanitation either.12
-It is therefore imperative that CPC’s be clearly labeled so consumers can make informed choices about the quality of information and care they are to receive.
-Lastly, Americans who seek gender-affirming care, IVF, or same-sex couple adoption should also be free to do so, but without federal regulation, these important life decisions are under attack in several states.13
-Please vote for me, Beth Farnham, to enshrine into federal law our Reproductive Freedom and create the families we choose!
+Many CPCs are affiliated with national organizations that provide funding, support, and training to advance a broadscale antiabortion agenda.” 11 Without regulation, CPC’s are not required to abide by standards of sanitation either.
+12 It is therefore imperative that CPC’s be clearly labeled so consumers can make informed choices about the quality of information and care they are to receive.
+Lastly, Americans who seek gender-affirming care, IVF, or same-sex couple adoption should also be free to do so, but without federal regulation, these important life decisions are under attack in several states.
+13 Please vote for me, Beth Farnham, to enshrine into federal law our Reproductive Freedom and create the families we choose!
+US Abortion policies map ↩︎ Abortion Ban Sepsis Maternal Mortality rate in Texas ↩︎ Homicide and Suicide as Leading Causes of Maternal Deaths in US ↩︎ Rise of Congenital Deformities and Infant Death post Abortion Ban ↩︎ Demographic Breakdown of Those Who Get Abortions ↩︎ Facts About Childhood Hunger ↩︎ Adopt PA Kids! ↩︎ Contraceptive Deserts ↩︎ Condom Effectiveness ↩︎ National Sexuality Education Standards – SIECUS ↩︎ ACOG – Crisis Pregnancy Centers as “deceptive” ↩︎ Crisis Pregnancy Centers as a Public Health Risk ↩︎ Attacks on Reproductive Healthcare ↩︎ Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Discover more from Beth Farnham for Congress Subscribe to get the latest posts sent to your email.
+Type your email… Subscribe One response to “Reproductive Freedom for All” Pro-lifers Don’t Really Care About “Life of the Mother” – Beth Farnham for Congress September 27, 2026 at 9:06 pm […] Reproductive Freedom for All […] Loading… Latest posts PA Licensed Daycares Must Accept Unvaccinated Children You can ask other parents what their vaccine philosophy is, then make decisions about who your children play with.
+You can also vote for legislators at the state and federal… District Round-up , healthcare , Our Precious Democracy , Uncategorized · October 4, 2026 Pro-lifers Don’t Really Care About “Life of the Mother” Ever since Roe v.
+Wade was overturned in 2022, many conservative states imposed very restrictive abortion bans, based on the heartbeat bill that Texas created in 2021, using vague language… District Round-up , healthcare , Our Precious Democracy , Uncategorized · September 27, 2026 The Most Terrifying Conversation I Ever Had With Voters So I asked, “What is on your heart and mind at the federal level of government?” They responded, “Nothing, really.” I got specific.
+“How are you doing with the price… District Round-up , healthcare , Our Precious Democracy , Uncategorized · September 20, 2026 Get updates Spam-free subscription, we guarantee.
+This is just a friendly ping when new content is out. ← Back Thank you for your response. ✨ Name (required) Email (required) Subscribe Submitting form Δ Menu Close Priorities Meet Beth Contact Beth donate Join us !
+Paid for by BETH FARNHAM FOR CONGRESS Designed by WordPress Discover more from Beth Farnham for Congress Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Get the latest post from Beth Farnham for Congress Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Subscribe %d

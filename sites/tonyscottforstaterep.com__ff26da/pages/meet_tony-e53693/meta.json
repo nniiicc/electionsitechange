@@ -1,7 +1,12 @@
 {
  "description": "Tony Scott, candidate for State Representative",
  "final_url": "http://www.tonyscottforstaterep.com/meet_tony",
+ "fingerprint": "8a34da3631d891d707c7c9c1dd35cdffe17ac2ab",
+ "format": 3,
  "paid_for_by": "Paid for by Tony Scott for State Rep",
  "title": "Meet Tony Scott",
- "years_mentioned": []
+ "years_mentioned": [
+  "2007",
+  "2026"
+ ]
 }

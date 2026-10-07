@@ -1,42 +1,182 @@
 [
-"http://elections.state.md.us/voting/index.html",
-"http://facebook.com/DelegateHeatherBagnall/events",
-"http://instagram.com/delegateheatherbagnall",
-"http://mdelect.net/",
-"http://msa.maryland.gov/msa/mdmanual/25ind/html/05arc.html",
-"http://msa.maryland.gov/msa/mdmanual/41electp/html/00list.html",
-"http://msa.maryland.gov/msa/mdmanual/html/mmtoc.html",
-"https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf",
-"https://elections.maryland.gov/elections/2026/general_candidates/index.html",
-"https://elections.maryland.gov/elections/2026/index.html",
-"https://elections.maryland.gov/elections/2026/primary_candidates/index.html",
-"https://elections.maryland.gov/voter_registration/application.html",
-"https://elections.maryland.gov/voting/absentee.html",
-"https://elections.maryland.gov/voting/early_voting.html",
-"https://elections.maryland.gov/voting/index.html",
-"https://facebook.com/DelegateHeatherBagnall",
-"https://facebook.com/DelegateHeatherBagnall/events",
-"https://heatherbagnall.com/",
-"https://heatherbagnall.com/about-me",
-"https://heatherbagnall.com/articles",
-"https://heatherbagnall.com/campaign-update",
-"https://heatherbagnall.com/campaign-videos",
-"https://heatherbagnall.com/contact",
-"https://heatherbagnall.com/contribute",
-"https://heatherbagnall.com/delegate-news",
-"https://heatherbagnall.com/endorsements",
-"https://heatherbagnall.com/interviews",
-"https://heatherbagnall.com/leadership",
-"https://heatherbagnall.com/maryland-state-resource-archive",
-"https://heatherbagnall.com/scholarship-2025",
-"https://heatherbagnall.com/scholarships",
-"https://heatherbagnall.com/session-recap",
-"https://heatherbagnall.com/subscribe",
-"https://heatherbagnall.com/term-conditions",
-"https://heatherbagnall.com/virtual-town-halls",
-"https://heatherbagnall.com/volunteer",
-"https://heatherbagnall.com/voter-information",
-"https://voterservices.elections.maryland.gov/PollingPlaceSearch",
-"https://voterservices.elections.maryland.gov/votersearch",
-"https://youtube.com/channel/UCKYoHAIJrljAfVlvW57rvJQ"
+{
+"text": "About Me",
+"href": "https://www.heatherbagnall.com/about-me"
+},
+{
+"text": "Articles",
+"href": "https://www.heatherbagnall.com/articles"
+},
+{
+"text": "Attend",
+"href": "http://www.facebook.com/DelegateHeatherBagnall/events/"
+},
+{
+"text": "CONTACT US",
+"href": "mailto:administrator@heatherbagnall.com?subject=A+Contact+from+HeatherBagnall.com"
+},
+{
+"text": "Campaign Update",
+"href": "https://www.heatherbagnall.com/campaign-update"
+},
+{
+"text": "Campaign Videos",
+"href": "https://www.heatherbagnall.com/campaign-videos"
+},
+{
+"text": "Contact",
+"href": "https://www.heatherbagnall.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.heatherbagnall.com/contribute"
+},
+{
+"text": "Delegate News",
+"href": "https://www.heatherbagnall.com/delegate-news"
+},
+{
+"text": "EVENTS",
+"href": "https://www.facebook.com/DelegateHeatherBagnall/events"
+},
+{
+"text": "Endorsements",
+"href": "https://www.heatherbagnall.com/endorsements"
+},
+{
+"text": "Heather@HeatherBagnall.com",
+"href": "mailto:Heather@HeatherBagnall.com"
+},
+{
+"text": "Home",
+"href": "https://www.heatherbagnall.com/"
+},
+{
+"text": "Interviews",
+"href": "https://www.heatherbagnall.com/interviews"
+},
+{
+"text": "Leadership",
+"href": "https://www.heatherbagnall.com/leadership"
+},
+{
+"text": "Maryland Board of Elections",
+"href": "http://www.elections.state.md.us/voting/index.html"
+},
+{
+"text": "Maryland Manual",
+"href": "http://msa.maryland.gov/msa/mdmanual/html/mmtoc.html"
+},
+{
+"text": "Maryland State Archives",
+"href": "http://msa.maryland.gov/msa/mdmanual/25ind/html/05arc.html"
+},
+{
+"text": "SCHOLARSHIPS",
+"href": "https://www.heatherbagnall.com/scholarship-2025"
+},
+{
+"text": "Scholarships",
+"href": "https://www.heatherbagnall.com/scholarships"
+},
+{
+"text": "Session Recap",
+"href": "https://www.heatherbagnall.com/session-recap"
+},
+{
+"text": "State Resource Archive",
+"href": "https://www.heatherbagnall.com/maryland-state-resource-archive"
+},
+{
+"text": "Subscribe",
+"href": "https://www.heatherbagnall.com/subscribe"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.heatherbagnall.com/term-conditions"
+},
+{
+"text": "Virtual Town Halls",
+"href": "https://www.heatherbagnall.com/virtual-town-halls"
+},
+{
+"text": "Volunteer",
+"href": "https://www.heatherbagnall.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.heatherbagnall.com/voter-information"
+},
+{
+"text": "[image: Heather Bagnall - Maryland State Delegate - District 33]",
+"href": "https://www.heatherbagnall.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/delegateheatherbagnall"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DelegateHeatherBagnall/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCKYoHAIJrljAfVlvW57rvJQ"
+},
+{
+"text": "[no text]",
+"href": "mailto:Heather@HeatherBagnall.com"
+},
+{
+"text": "here",
+"href": "http://msa.maryland.gov/msa/mdmanual/41electp/html/00list.html"
+},
+{
+"text": "here",
+"href": "http://msa.maryland.gov/msa/mdmanual/html/mmtoc.html"
+},
+{
+"text": "https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf",
+"href": "https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf"
+},
+{
+"text": "https://elections.maryland.gov/elections/2026/general_candidates/index.html",
+"href": "https://elections.maryland.gov/elections/2026/general_candidates/index.html"
+},
+{
+"text": "https://elections.maryland.gov/elections/2026/index.html",
+"href": "https://elections.maryland.gov/elections/2026/index.html"
+},
+{
+"text": "https://elections.maryland.gov/elections/2026/primary_candidates/index.html",
+"href": "https://elections.maryland.gov/elections/2026/primary_candidates/index.html"
+},
+{
+"text": "https://elections.maryland.gov/voter_registration/application.html",
+"href": "https://elections.maryland.gov/voter_registration/application.html"
+},
+{
+"text": "https://elections.maryland.gov/voting/absentee.html",
+"href": "https://elections.maryland.gov/voting/absentee.html"
+},
+{
+"text": "https://elections.maryland.gov/voting/early_voting.html",
+"href": "https://elections.maryland.gov/voting/early_voting.html"
+},
+{
+"text": "https://elections.maryland.gov/voting/index.html",
+"href": "https://elections.maryland.gov/voting/index.html"
+},
+{
+"text": "https://voterservices.elections.maryland.gov/PollingPlaceSearch",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "https://voterservices.elections.maryland.gov/votersearch",
+"href": "https://voterservices.elections.maryland.gov/votersearch"
+},
+{
+"text": "www.mdelect.net",
+"href": "http://www.mdelect.net/"
+}
 ]

@@ -1,10 +1,5 @@
-Back to All Events
-A strong local economy is built on accountability, smart systems, and community-led collaboration.
+0 Skip to Content About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Back Donate Back to All Events Barry County Chamber and Economic Development Alliance Forum Monday, June 15, 2026 1:30 PM 4:00 PM Hastings Performing Arts Center 520 West South Street Hastings, Michigan, 49058 United States (map) Google Calendar ICS A strong local economy is built on accountability, smart systems, and community-led collaboration.
 That is why Anthony is headed to the Barry County Chamber and Economic Development Alliance Forum on June 15th—and he wants you to join him in the room!
-Previous
-Previous
-June 13
-Marshall Pride
-Next
-Next
-June 17
+Previous Previous June 13 Marshall Pride Next Next June 17 Kalamazoo County Democratic Party Monthly Meeting Follow the Campaign BlueSky Donate by Mail P.O.
+Box 61 Battle Creek, MI 49016 info@ pennock4misenate.com This website is created. paid for, and managed by the Committee to Elect Anthony Pennock State Senator, P.O.
+Box 61, Battle Creek, MI 49016

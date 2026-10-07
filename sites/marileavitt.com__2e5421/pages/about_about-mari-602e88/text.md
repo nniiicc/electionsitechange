@@ -1,5 +1,4 @@
-Meet Mari
-Mari Leavitt is an advocate for seniors, students, working families, veterans and military families, developmental disabilities, and people experiencing homelessness working to ensure safe and healthy communities for all neighbors.
+Toggle navigation Volunteer Contribute Volunteer Home About About Us Biography Photo Gallery News Endorsements 2024 Endorsements 2022 Endorsements Get Involved Volunteer Endorse Contact Meet Mari Mari Leavitt is an advocate for seniors, students, working families, veterans and military families, developmental disabilities, and people experiencing homelessness working to ensure safe and healthy communities for all neighbors.
 She is running for re-election to ensure every family in the 28th District and across the state has economic security through living-wage jobs, healthcare that is affordable and accessible, safe housing, access to a quality public education — from early learning through postsecondary education or technical training and apprenticeship options, and thriving small businesses.
 As a legislator, Mari serves as Vice Chair of the House Housing Committee, as a member of the Postsecondary Education and Workforce Committee, and on the Capital Budget and Rules Committees.
 She serves as Co-Chair on the Joint Committee on Military and Veterans Affairs and as a member of the Joint Task Force Against Trafficking of Persons and the Juvenile Justice Partnership Council.
@@ -18,6 +17,8 @@ Mari is also active in her community and church activities.
 Mari earned her A.A.S, from Tacoma Community College, B.A and M.
 Ed from Western Washington Education, and received her Ph.D. in Community College Leadership from Oregon State University.
 Mari and her husband have several children, including two adopted from the foster care system, a cat, a dog, and a rabbit, and own a local small orthodontics practice.
-Mari on the Issues:
-Childcare: As a parent, Mari deeply understands the impact that a lack of access to quality and affordable childcare has on families across the 28th and our state.
+Mari on the Issues: Childcare: As a parent, Mari deeply understands the impact that a lack of access to quality and affordable childcare has on families across the 28 th and our state.
 She stands firm in her commitment to addressing the critical issue of childcare by working to increase affordable childcare options, prioritizing the safety and well-being of children, youth, and families.
+Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

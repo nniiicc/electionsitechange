@@ -1,5 +1,3 @@
-Back to All Events
-Register and find out more information from the Rotary Club of Indianapolis website to attend this conversation with the Indiana Secretary of State Candidates event.
-Previous
-Previous
-October 7
+0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Back to All Events Rotary Club of Indiana Conversation with Secretary of State Candidates Tuesday, October 13, 2026 11:30 AM 4:30 PM Rathskeller 401 East Michigan Street Indianapolis, Indiana, 46204 United States (map) Google Calendar ICS Register and find out more information from the Rotary Club of Indianapolis website to attend this conversation with the Indiana Secretary of State Candidates event.
+Previous Previous October 7 Indiana Debate Commission Secretary of State Debate Media & Press Inquiry Sign up for our newsletter Stay Connected!
+Paid for by Lauri for Liberty.

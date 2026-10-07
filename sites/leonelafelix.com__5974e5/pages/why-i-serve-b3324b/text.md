@@ -1,5 +1,4 @@
-Why I Serve
-The most important thing government can do is remind people that they matter.
+0 Skip to Content Home Why I Serve Values Vote District Letters Lawn Signs Donate Open Menu Close Menu Home Why I Serve Values Vote District Letters Lawn Signs Donate Open Menu Close Menu Home Why I Serve Values Vote District Letters Lawn Signs Donate Why I Serve The most important thing government can do is remind people that they matter .
 That belief has guided every decision I've made as a lawyer, an advocate, and your State Representative.
 It's why I spend as much time helping a constituent resolve a problem with a state agency as I do debating legislation at the State House.
 It's why I believe listening is just as important as leading.
@@ -18,8 +17,7 @@ When I graduated from law school, I looked into the audience and saw my mother c
 It remains one of the proudest moments of my life—not because of the diploma itself, but because of everything it represented for our family.
 Photo Credit: Ryan T.
 Conaty, Ryan T.
-Conaty Photography
-The strongest person I have ever known is my mother.
+Conaty Photography The strongest person I have ever known is my mother.
 She survived abuse, raised our family through extraordinary hardship, and refused to let those hardships define our future.
 After losing our home during one of the most difficult periods of our lives, she rebuilt everything from the ground up and eventually created a successful tailoring business through determination, skill, and relentless hard work.
 She taught me that courage isn't the absence of fear.
@@ -41,10 +39,7 @@ Later, I encouraged one student to consider running for office someday.
 She told me she wasn't a good public speaker.
 I smiled and told her, “Neither was I.
 What gave me the courage to speak wasn't confidence.
-It was loving my community more than I feared speaking in public.”
-Years ago, people believed in me before I fully believed in myself.
+It was loving my community more than I feared speaking in public.” Years ago, people believed in me before I fully believed in myself.
 Today, I try to do the same for others.
-Whether I'm helping one constituent navigate government, casting a difficult vote, or encouraging a young person to find their voice, my purpose remains the same:
-To make sure people know they matter.
-With gratitude,
-Leonela “Leo” Felix
+Whether I'm helping one constituent navigate government, casting a difficult vote, or encouraging a young person to find their voice, my purpose remains the same: To make sure people know they matter.
+With gratitude, Leonela “Leo” Felix Why I Serve Request Lawn Sign Vote District Letters Issues Volunteer Friends of Leonela Felix 195 Carter Avenue Pawtucket, RI 02861 leonela@leonelafelix.com (401) 369-5364 © Paid for by Friends of Leonela Felix

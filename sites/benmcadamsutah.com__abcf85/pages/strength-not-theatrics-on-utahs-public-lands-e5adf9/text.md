@@ -1,4 +1,4 @@
-Utah is at a crossroads.
+Skip to content Platform Recent News Endorsements Vote Yard Signs Volunteer Platform Recent News Endorsements Vote Yard Signs Volunteer Facebook X-twitter Instagram VOLUNTEER DONATE Op-ed Strength, Not Theatrics, on Utah’s Public Lands February 3, 2026 Utah is at a crossroads.
 The places that define us, the Wasatch peaks above our homes, the red rock canyons of the south, the plateaus and open spaces that shaped generations, face growing pressure.
 What we choose in the next few years will determine whether these lands are protected for our children and grandchildren or carved up, sold off, and lost.
 My vision is clear: permanent protection for the Central Wasatch by passing the Central Wasatch National Conservation and Recreation Area Act and wilderness safeguards for Southern Utah’s Red Rock country by passing the America’s Red Rock Wilderness Act.
@@ -40,3 +40,12 @@ To ensure Utah’s wild places remain open, healthy, and accessible for every ge
 These lands deserve real leadership, not theatrics, not privatization schemes, and not empty promises.
 They deserve the strength, seriousness, and results this moment demands.
 And that’s exactly what I intend to deliver.
+Get Updates Join The Team First Name Last Name Email Phone Number Zip Code Submit By providing your cell phone number, you consent to receive recurring updates from Friends of Ben McAdams, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Home Endorse Ben Platform Endorsements Yard Signs Recent News Voting Info Media Volunteer Donate Home Endorse Ben Platform Endorsements Yard Signs Recent News Voting Info Media Volunteer Donate Facebook X-twitter Instagram Contributions can be mailed to: Friends of Ben McAdams P.O.
+Box 522340 Salt Lake City, UT 84152 Campaign Office: McAdams Campaign Office c/o Utah Democratic Party 825 N, 300 W C400 Salt Lake City, UT 84103 Paid for by Friends of Ben McAdams By providing your cell phone number you consent to receive recurring updates from Friends of Ben McAdams, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply. © Copyright #.
+All Rights Reserved.
+Privacy Policy.

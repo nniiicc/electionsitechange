@@ -1,9 +1,3 @@
-The Maryland League of Conservation Voters Answers
-Metropolitan Baltimore Council AFL-CIO Unions Answers
-American Federation of Teachers – Maryland Answers
-Our Revolution Maryland (OR-MD), Baltimore City Answers
-Food & Water Action Fund Answers
-League of Women Voters Answers
-MD Association of Justice Answers
-Moms Demand Action/Everytown Answers
-Agudath Israel of Maryland Answers
+Skip to content Get Sandy's Diary in your Email Δ Legislative Session Summary Header Link Voting Rights Act | My Legislative Diary My Key Issues: Sandy's Answers to candidate questionnaires Primary Menu Why I Run About Sandy Bills I’ve Introduced 2020 Session Summary Endorsements Contact Sandy Roland Park | Wyman Park Mt.
+Washington Howard Park | Forest Park Northern Park Heights Edmondson Village My Key Issues: Sandy’s Answers The Maryland League of Conservation Voters Answers SEIU Local 500 Answers Metropolitan Baltimore Council AFL-CIO Unions Answers American Federation of Teachers – Maryland Answers Our Revolution Maryland (OR-MD), Baltimore City Answers LiUNA BWLDC MD Answers Catholic Charities Answers Housing Policy Watch Answers Progressive Maryland Answers Food & Water Action Fund Answers League of Women Voters Answers Baltimore Sun Answers MD Association of Justice Answers AFRO Answers Baltimore City NAACP Answers Moms Demand Action/Everytown Answers NRA Answers Jmore Answers MMPAC/MedChi Answers Agudath Israel of Maryland Answers Baltimore Women United in Action Answers Jewish Times Answers Are You in the 41st District? © #.
+Authority: Citizens for Sandy Rosenberg, Jean Fugett, Jr., Treasurer Contact Sandy |

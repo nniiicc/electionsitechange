@@ -1,7 +1,34 @@
 [
-"https://facebook.com/MinichforMissouri",
-"https://minichformissouri.com/",
-"https://minichformissouri.com/about",
-"https://minichformissouri.com/volunteer",
-"https://secure.actblue.com/donate/amy-minich-1"
+{
+"text": "@MinichforMissouri",
+"href": "https://www.facebook.com/MinichforMissouri"
+},
+{
+"text": "About",
+"href": "https://minichformissouri.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amy-minich-1"
+},
+{
+"text": "English",
+"href": "https://minichformissouri.com/"
+},
+{
+"text": "Home",
+"href": "https://minichformissouri.com/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://minichformissouri.com/volunteer"
+},
+{
+"text": "[image: MinichForMissouri logo]",
+"href": "https://minichformissouri.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/MinichforMissouri"
+}
 ]

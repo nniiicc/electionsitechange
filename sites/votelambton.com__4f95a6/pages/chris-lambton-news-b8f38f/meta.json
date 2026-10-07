@@ -1,7 +1,9 @@
 {
- "description": "Read campaign updates, local news, and Chris Lambton\u2019s perspective on the issues shaping Dennis, Yarmouth, Brewster, and the district.",
+ "description": "Read campaign updates, local news, and Chris Lambton’s perspective on the issues shaping Dennis, Yarmouth, Brewster, and the district.",
  "final_url": "https://www.votelambton.com/chris-lambton-news",
- "paid_for_by": null,
+ "fingerprint": "0f25cad7770b43bf014a1e12ab6c4c7e408f55d8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | Vote Chris Lambton",
  "years_mentioned": []
 }

@@ -1,12 +1,46 @@
 [
-"https://facebook.com/Martin4Michigan",
-"https://martin4michigan.com/",
-"https://martin4michigan.com/about",
-"https://martin4michigan.com/cart",
-"https://martin4michigan.com/contact",
-"https://martin4michigan.com/endorsements",
-"https://martin4michigan.com/events",
-"https://martin4michigan.com/get-involved",
-"https://martin4michigan.com/issues",
-"https://secure.winred.com/martin-4-michigan/homepage-donate"
+{
+"text": "0",
+"href": "https://www.martin4michigan.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.martin4michigan.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.martin4michigan.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/martin-4-michigan/homepage-donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.martin4michigan.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.martin4michigan.com/events"
+},
+{
+"text": "Facebook!",
+"href": "https://www.facebook.com/Martin4Michigan/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.martin4michigan.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.martin4michigan.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.martin4michigan.com/issues"
+},
+{
+"text": "[image: David Martin for Michigan]",
+"href": "https://www.martin4michigan.com/"
+}
 ]

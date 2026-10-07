@@ -1,15 +1,7 @@
-Coffee with Carrie at Vibe Coffee
-Time
-Saturday, Oct 17, 2026
-9:00 AM – 10:30 AM
-Location
-118 N Lincoln Boulevard, Hodgenville, KY, 42748
-About this event
-Grab a cup and pull up a chair!
+Meet Carrie Events Issues News Volunteer Contribute Events / Coffee with Carrie at Vibe Coffee Coffee with Carrie at Vibe Coffee Time Saturday, Oct 17, 2026 9:00 AM – 10:30 AM Location 118 N Lincoln Boulevard, Hodgenville, KY, 42748 About this event Grab a cup and pull up a chair!
 Carrie is hitting the road for a series of Coffee with Carrie stops at coffee shops across the district.
 It's a low key chance to meet her, share what's on your mind, and talk about what's happening in your community.
 No agenda, no speeches, just neighbors talking with neighbors over coffee.
 Everyone is welcome, so bring a friend and bring your questions.
-Location
-118 N Lincoln Boulevard
-Hodgenville, KY 42748
+Location 118 N Lincoln Boulevard Hodgenville, KY 42748 Get Driving Directions Add to calendar Sign up for this event First Name Last Name Email Phone Address City/Town State Alabama Alaska American Samoa Arizona Arkansas Armed Forces Americas Armed Forces Europe Armed Forces Pacific California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Marshall Islands Maryland Massachusetts Michigan Micronesia Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Palau Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virgin Islands Virginia Washington West Virginia Wisconsin Wyoming Zip RSVP Share on Facebook Share via email Copy invite link CONTRIBUTE VOLUNTEER VOTING INFO Get Updates Thank you for signing up!
+News Kentucky AFL-CIO, Teamsters Local 89, and IBEW Local 369 Endorse Carrie Gribbins Truitt for State Senate CARRIE TRUITT EARNS ENDORSEMENT OF TEAMSTERS LOCAL 89 Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Carrie Gribbins Truitt, PO Box 463, Lebanon, KY 40033 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Carrie Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,9 +1,34 @@
 [
-"http://instagram.com/",
-"http://linkedin.com/",
-"https://electjudgegobeil.com/",
-"https://electjudgegobeil.com/admissions",
-"https://facebook.com/",
-"https://twitter.com/",
-"https://youtube.com/"
+{
+"text": "APPLY NOW →",
+"href": "https://www.electjudgegobeil.com/admissions"
+},
+{
+"text": "Home",
+"href": "https://www.electjudgegobeil.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.electjudgegobeil.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "http://linkedin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/"
+}
 ]

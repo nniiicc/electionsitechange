@@ -1,12 +1,46 @@
 [
-"http://erabrokers.com/",
-"http://naiexcel.com/",
-"https://cfainstitute.org/programs/cfaprogram/Pages/index.aspx",
-"https://rneilwalter.com/",
-"https://rneilwalter.com/_blank",
-"https://rneilwalter.com/about.html",
-"https://rneilwalter.com/contact.html",
-"https://rneilwalter.com/experience.html",
-"https://rneilwalter.com/posts.html",
-"https://rneilwalter.com/vote.html"
+{
+"text": "ABOUT",
+"href": "https://www.rneilwalter.com/about.html"
+},
+{
+"text": "Click to learn more about the CFA program",
+"href": "https://www.cfainstitute.org/programs/cfaprogram/Pages/index.aspx"
+},
+{
+"text": "Contact",
+"href": "https://www.rneilwalter.com/contact.html"
+},
+{
+"text": "ERA Brokers",
+"href": "http://www.erabrokers.com"
+},
+{
+"text": "Experience",
+"href": "https://www.rneilwalter.com/experience.html"
+},
+{
+"text": "NAI Excel, NAI Vegas",
+"href": "http://www.naiexcel.com"
+},
+{
+"text": "Posts",
+"href": "https://www.rneilwalter.com/posts.html"
+},
+{
+"text": "UT 74",
+"href": "https://www.rneilwalter.com/"
+},
+{
+"text": "VOTE",
+"href": "https://www.rneilwalter.com/vote.html"
+},
+{
+"text": "Weebly",
+"href": "https://www.weebly.com/"
+},
+{
+"text": "[image: R. Neil Walter]",
+"href": "https://www.rneilwalter.com/"
+}
 ]

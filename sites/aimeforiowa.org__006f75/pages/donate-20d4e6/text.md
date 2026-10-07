@@ -1,2 +1,2 @@
-Donate Your support matters!
-Donate via ActBlue You can also mail a check to: Elect Aime Wichtendahl for Iowa House PO Box 92 Hiawatha, IA 52233-0092 Thank you! – Aime
+Skip to content About Aime Policy Endorsements Get Involved Request Yard Sign Contact Donate Today Donate Today About Aime Policy Endorsements Contact Get Involved Request Yard Sign Donate Donate Your support matters!
+Donate via ActBlue You can also mail a check to: Elect Aime Wichtendahl for Iowa House PO Box 92 Hiawatha, IA 52233-0092 Thank you! – Aime Paid for by Elect Aime Wichtendahl for lowa House Scroll to Top

@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Trivia+Fundraiser&dates=20261001T223000Z%2F20261002T013000Z&location=4+Main+Ave%2C+Downstairs%2C+Hawley%2C+PA+18428",
-"http://maps.google.com/?q=4+Main+Ave%2C+Downstairs+Hawley%2C+PA+18428",
-"https://azzolliniforpa.org/",
-"https://azzolliniforpa.org/about",
-"https://azzolliniforpa.org/campaign-platform",
-"https://azzolliniforpa.org/cart",
-"https://azzolliniforpa.org/events",
-"https://azzolliniforpa.org/events/meet-greet",
-"https://azzolliniforpa.org/events/trivia-fundraiser?format=ical",
-"https://azzolliniforpa.org/faq-1",
-"https://facebook.com/share/1DgR4Unc8b?mibextid=wwXIfr",
-"https://instagram.com/dominique_azzollini_for_pa?igsh=MWJtZDJhNHVoemRzNw%3D%3D",
-"https://secure.actblue.com/donate/azzolliniforpa",
-"https://secure.actblue.com/donate/trivia-fundraiser-oct-1st"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4+main+ave%2C+downstairs+hawley%2C+pa+18428+"
+},
+{
+"text": "0",
+"href": "https://www.azzolliniforpa.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.azzolliniforpa.org/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.azzolliniforpa.org/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/azzolliniforpa"
+},
+{
+"text": "Events",
+"href": "https://www.azzolliniforpa.org/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Trivia+Fundraiser&dates=20261001T223000Z%2F20261002T013000Z&location=4+Main+Ave%2C+Downstairs%2C+Hawley%2C+PA+18428"
+},
+{
+"text": "Home",
+"href": "https://www.azzolliniforpa.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.azzolliniforpa.org/events/trivia-fundraiser?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.azzolliniforpa.org/campaign-platform"
+},
+{
+"text": "PA 139",
+"href": "https://www.azzolliniforpa.org/faq-1"
+},
+{
+"text": "Previous Previous August 1 Meet & Greet",
+"href": "https://www.azzolliniforpa.org/events/meet-greet"
+},
+{
+"text": "[image: Dominique Azzollini For PA 139]",
+"href": "https://www.azzolliniforpa.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1DgR4Unc8b/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dominique_azzollini_for_pa?igsh=MWJtZDJhNHVoemRzNw%3D%3D"
+},
+{
+"text": "https://secure.actblue.com/donate/trivia-fundraiser-oct-1st",
+"href": "https://secure.actblue.com/donate/trivia-fundraiser-oct-1st"
+}
 ]

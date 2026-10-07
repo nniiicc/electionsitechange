@@ -1,17 +1,5 @@
-Skip to content
-Elizabeth in the News
-Leading the fight for education, worker’s rights, healthcare and more
-- Fiedler welcomes more than $100,000 in state grants to south Phila.
-- State leaders tout $175 million to fix old school buildings during visit to South Philly HS
-- Doctors in Pa. can’t perform pelvic exams without consent, new law says
-- Bill to boost solar in Pa. schools has bipartisan support
-- Solar energy grant program for Pa. school districts gets bipartisan support in state House
-- Philly leaders are demanding money to repair schools in new Pa. budget
-- Education funding taking center stage at state Capitol
-- Rep.
-Fiedler, colleagues host No More Excuses, End Toxic Schools rally
-- Local Progressive Elected Officials Respond to Chauvin Verdict
-- Investment in health, safety, and jobs focus of hearing on Pennsylvania’s toxic schools
-- South Philly elected officials call on health department for more vaccine distribution sites
-- Pa.
-Democrats take issues into own hands, hold separate budget hearings
+Skip to content Elizabeth Fiedler Representative, House District 184 Primary Menu Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Elizabeth in the News Leading the fight for education, worker’s rights, healthcare and more Fiedler welcomes more than $100,000 in state grants to south Phila.
+December 21, 2023 State leaders tout $175 million to fix old school buildings during visit to South Philly HS December 20, 2023 Doctors in Pa. can’t perform pelvic exams without consent, new law says November 24, 2023 Bill to boost solar in Pa. schools has bipartisan support August 4, 2023 Solar energy grant program for Pa. school districts gets bipartisan support in state House June 29, 2023 Philly leaders are demanding money to repair schools in new Pa. budget June 23, 2023 Education funding taking center stage at state Capitol June 18, 2021 Rep.
+Fiedler, colleagues host No More Excuses, End Toxic Schools rally June 16, 2021 Local Progressive Elected Officials Respond to Chauvin Verdict April 21, 2021 Investment in health, safety, and jobs focus of hearing on Pennsylvania’s toxic schools April 16, 2021 South Philly elected officials call on health department for more vaccine distribution sites March 2, 2021 Pa.
+Democrats take issues into own hands, hold separate budget hearings February 26, 2021 Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Connect with us Facebook Twitter Instagram YouTube Mail Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Paid for by: Friends of Elizabeth Fiedler Powered by Tech for Campaigns

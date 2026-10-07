@@ -1,31 +1,162 @@
 [
-"https://bobniemeyer.com/",
-"https://bobniemeyer.com/2019/08/19/what-i-really-think-of-excuses",
-"https://bobniemeyer.com/2019/08/21/what-i-really-think-of-our-veterans",
-"https://bobniemeyer.com/2019/08/21/what-i-really-think-of-police",
-"https://bobniemeyer.com/2019/08/21/what-i-really-think-of-the-oregonian-news-paper",
-"https://bobniemeyer.com/2019/08/21/what-i-really-think-of-the-separation-of-church-and-state",
-"https://bobniemeyer.com/2019/08/21/what-i-really-think-of-voting-by-mail",
-"https://bobniemeyer.com/2024/07/10/election-integrity",
-"https://bobniemeyer.com/2024/07/10/getting-back-on-trackof-by-and-for-the-people",
-"https://bobniemeyer.com/2024/07/10/no-toll-roads-period",
-"https://bobniemeyer.com/2024/07/10/public-safety_how-to-fund-the-police",
-"https://bobniemeyer.com/about",
-"https://bobniemeyer.com/articles",
-"https://bobniemeyer.com/articles?page=2&page=3",
-"https://bobniemeyer.com/articles?page=3",
-"https://bobniemeyer.com/articles?page=3&page=2",
-"https://bobniemeyer.com/articles?page=3&page=4",
-"https://bobniemeyer.com/articles?page=4&page=3",
-"https://bobniemeyer.com/constitution",
-"https://bobniemeyer.com/constitution/article-1-bill-of-responsibilities",
-"https://bobniemeyer.com/constitution/article-2-bill-of-rights",
-"https://bobniemeyer.com/constitution/article-3-executive-branch",
-"https://bobniemeyer.com/constitution/article-4-legislative-branch",
-"https://bobniemeyer.com/constitution/article-5-judicial-branch",
-"https://bobniemeyer.com/constitution/article-6-peoples-authority",
-"https://bobniemeyer.com/constitution/article-7-suffrage-and-election-integrity",
-"https://bobniemeyer.com/constitution/declaration-of-independence",
-"https://bobniemeyer.com/constitution/preamble",
-"https://bobniemeyer.com/volunteer"
+{
+"text": "1",
+"href": "https://bobniemeyer.com/articles/?cst=&page=3"
+},
+{
+"text": "2",
+"href": "https://bobniemeyer.com/articles/?page=2&cst=&page=3"
+},
+{
+"text": "4",
+"href": "https://bobniemeyer.com/articles/?page=4&cst=&page=3"
+},
+{
+"text": "Article 1: Bill of Responsibilities",
+"href": "https://bobniemeyer.com/constitution/article-1-bill-of-responsibilities/"
+},
+{
+"text": "Article 2: Bill of Rights",
+"href": "https://bobniemeyer.com/constitution/article-2-bill-of-rights/"
+},
+{
+"text": "Article 3: Executive Branch",
+"href": "https://bobniemeyer.com/constitution/article-3-executive-branch/"
+},
+{
+"text": "Article 4: Legislative Branch",
+"href": "https://bobniemeyer.com/constitution/article-4-legislative-branch/"
+},
+{
+"text": "Article 5: Judicial Branch",
+"href": "https://bobniemeyer.com/constitution/article-5-judicial-branch/"
+},
+{
+"text": "Article 6: People’s Authority",
+"href": "https://bobniemeyer.com/constitution/article-6-peoples-authority/"
+},
+{
+"text": "Article 7: Suffrage and Election Integrity",
+"href": "https://bobniemeyer.com/constitution/article-7-suffrage-and-election-integrity/"
+},
+{
+"text": "Articles",
+"href": "https://bobniemeyer.com/articles/"
+},
+{
+"text": "Declaration of Independence",
+"href": "https://bobniemeyer.com/constitution/declaration-of-independence/"
+},
+{
+"text": "Election Integrity",
+"href": "https://bobniemeyer.com/2024/07/10/election-integrity/"
+},
+{
+"text": "Getting Back on Track Of-By-and-For the People",
+"href": "https://bobniemeyer.com/2024/07/10/getting-back-on-trackof-by-and-for-the-people/"
+},
+{
+"text": "Next Page",
+"href": "https://bobniemeyer.com/articles/?page=3&page=4"
+},
+{
+"text": "No Toll Roads. Period!",
+"href": "https://bobniemeyer.com/2024/07/10/no-toll-roads-period/"
+},
+{
+"text": "Phoenix Project",
+"href": "https://bobniemeyer.com/constitution/"
+},
+{
+"text": "Previous Page",
+"href": "https://bobniemeyer.com/articles/?page=3&page=2"
+},
+{
+"text": "Public Safety How to fund the Police",
+"href": "https://bobniemeyer.com/2024/07/10/public-safety_how-to-fund-the-police/"
+},
+{
+"text": "Read More…",
+"href": "https://bobniemeyer.com/2019/08/19/what-i-really-think-of-excuses/"
+},
+{
+"text": "Read More…",
+"href": "https://bobniemeyer.com/2019/08/21/what-i-really-think-of-our-veterans/"
+},
+{
+"text": "Read More…",
+"href": "https://bobniemeyer.com/2019/08/21/what-i-really-think-of-police/"
+},
+{
+"text": "Read More…",
+"href": "https://bobniemeyer.com/2019/08/21/what-i-really-think-of-the-oregonian-news-paper/"
+},
+{
+"text": "Read More…",
+"href": "https://bobniemeyer.com/2019/08/21/what-i-really-think-of-the-separation-of-church-and-state/"
+},
+{
+"text": "Read More…",
+"href": "https://bobniemeyer.com/2019/08/21/what-i-really-think-of-voting-by-mail/"
+},
+{
+"text": "Read More…",
+"href": "https://bobniemeyer.com/2024/07/10/election-integrity/"
+},
+{
+"text": "Read More…",
+"href": "https://bobniemeyer.com/2024/07/10/getting-back-on-trackof-by-and-for-the-people/"
+},
+{
+"text": "Read More…",
+"href": "https://bobniemeyer.com/2024/07/10/no-toll-roads-period/"
+},
+{
+"text": "Read More…",
+"href": "https://bobniemeyer.com/2024/07/10/public-safety_how-to-fund-the-police/"
+},
+{
+"text": "The Constitution Oregon Needs",
+"href": "https://bobniemeyer.com/constitution/"
+},
+{
+"text": "The Preamble",
+"href": "https://bobniemeyer.com/constitution/preamble/"
+},
+{
+"text": "Volunteer",
+"href": "https://bobniemeyer.com/volunteer/"
+},
+{
+"text": "What I Really Think of Excuses!",
+"href": "https://bobniemeyer.com/2019/08/19/what-i-really-think-of-excuses/"
+},
+{
+"text": "What I Really Think of Our Veterans",
+"href": "https://bobniemeyer.com/2019/08/21/what-i-really-think-of-our-veterans/"
+},
+{
+"text": "What I Really Think of Police",
+"href": "https://bobniemeyer.com/2019/08/21/what-i-really-think-of-police/"
+},
+{
+"text": "What I Really Think of Voting by Mail",
+"href": "https://bobniemeyer.com/2019/08/21/what-i-really-think-of-voting-by-mail/"
+},
+{
+"text": "What I Really Think of the Oregonian News Paper",
+"href": "https://bobniemeyer.com/2019/08/21/what-i-really-think-of-the-oregonian-news-paper/"
+},
+{
+"text": "What I Really Think of the Separation of Church and State",
+"href": "https://bobniemeyer.com/2019/08/21/what-i-really-think-of-the-separation-of-church-and-state/"
+},
+{
+"text": "Who Is Bob",
+"href": "https://bobniemeyer.com/about/"
+},
+{
+"text": "[image: Bob Niemeyer]",
+"href": "https://bobniemeyer.com/"
+}
 ]

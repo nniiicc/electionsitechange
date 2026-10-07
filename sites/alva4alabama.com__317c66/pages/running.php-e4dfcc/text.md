@@ -1,9 +1,8 @@
-I'm running because Montgomery matters — and the people who call it home deserve leadership that puts the city first.
+ALVA LAMBERT for Alabama House District 74 Home Why I'm Running Issues Trail Volunteer District Donate Why I'm Running It All Begins With Public Safety I'm running because Montgomery matters — and the people who call it home deserve leadership that puts the city first.
 I chose Montgomery deliberately.
 I built my life here and invested my career here because I believe in this community and its future.
 "This isn't a stepping stone for me.
-It's home."
-After attending the University of Alabama, I could have gone anywhere.
+It's home." After attending the University of Alabama, I could have gone anywhere.
 Instead, I chose Montgomery because of its people, its history, and its potential.
 That choice shaped everything that followed.
 Today, I am an attorney in private practice, with the Police Benevolent Association as a major client.
@@ -25,3 +24,5 @@ It should be about stewardship — taking care of what we've been given and leav
 I'm running because Montgomery deserves leadership that is experienced, independent, and fully committed to the city's future.
 I'm running because I believe service is an obligation — not a career.
 And I'm running because I want Montgomery to remain a place we're proud to call home.
+PAID FOR BY THE COMMITTEE TO ELECT ALVA LAMBERT Nim Frazier, Chairman 138 Adams Avenue, Montgomery, AL 36104 © # Alva Lambert for Alabama.
+All Rights Reserved.

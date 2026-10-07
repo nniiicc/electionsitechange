@@ -1,14 +1,58 @@
 [
-"https://facebook.com/LisaMairForMA",
-"https://instagram.com/lisamairforma",
-"https://lisamairforma.com/",
-"https://lisamairforma.com/about",
-"https://lisamairforma.com/contact",
-"https://lisamairforma.com/donate",
-"https://lisamairforma.com/endorsements",
-"https://lisamairforma.com/events",
-"https://lisamairforma.com/priorities",
-"https://lisamairforma.com/voting-record",
-"https://lp.constantcontactpages.com/sv/1qbUowD/LisaMairLawnSignVolunteer",
-"https://x.com/LisaMairForMA"
+{
+"text": "About",
+"href": "https://lisamairforma.com/about"
+},
+{
+"text": "Contact",
+"href": "https://lisamairforma.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://lisamairforma.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://lisamairforma.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://lisamairforma.com/events"
+},
+{
+"text": "Home",
+"href": "https://lisamairforma.com/"
+},
+{
+"text": "Priorities",
+"href": "https://lisamairforma.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://lp.constantcontactpages.com/sv/1qbUowD/LisaMairLawnSignVolunteer"
+},
+{
+"text": "Voting Record",
+"href": "https://lisamairforma.com/voting-record"
+},
+{
+"text": "[no text]",
+"href": "https://lisamairforma.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LisaMairForMA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lisamairforma"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LisaMairForMA"
+},
+{
+"text": "hello@lisamairforma.com",
+"href": "mailto:hello@lisamairforma.com"
+}
 ]

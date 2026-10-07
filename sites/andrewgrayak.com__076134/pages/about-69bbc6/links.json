@@ -1,15 +1,58 @@
 [
-"https://andrewgrayak.com/",
-"https://andrewgrayak.com/about",
-"https://andrewgrayak.com/accomplishments",
-"https://andrewgrayak.com/get-involved",
-"https://andrewgrayak.com/in-the-news",
-"https://andrewgrayak.com/on-the-issues",
-"https://andrewgrayak.com/podcast",
-"https://facebook.com/AndrewTimothyGray",
-"https://instagram.com/andrewgrayak",
-"https://secure.actblue.com/donate/andrew-gray-for-state-house-1",
-"https://tiktok.com/@repgray?lang=en",
-"https://x.com/AndrewGrayAK",
-"https://youtube.com/@andrewtgray/videos"
+{
+"text": "About",
+"href": "https://andrewgrayak.com/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://andrewgrayak.com/accomplishments"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/andrew-gray-for-state-house-1"
+},
+{
+"text": "Get Involved",
+"href": "https://andrewgrayak.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://andrewgrayak.com/"
+},
+{
+"text": "In The News",
+"href": "https://andrewgrayak.com/in-the-news"
+},
+{
+"text": "On the Issues",
+"href": "https://andrewgrayak.com/on-the-issues"
+},
+{
+"text": "Podcast",
+"href": "https://andrewgrayak.com/podcast"
+},
+{
+"text": "[image: Andrew Gray for State House]",
+"href": "https://andrewgrayak.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AndrewTimothyGray"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andrewgrayak/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@repgray?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/AndrewGrayAK"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@andrewtgray/videos"
+}
 ]

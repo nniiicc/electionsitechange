@@ -1,42 +1,4 @@
-top of page
-Alycia Gruenhagen
-SUBSCRIBE
-DONATE
-Home
-My Views
-Donate
-Contact
-More
-Use tab to navigate through the menu items.
-CAMPAIGN NEWS
-The Latest Updates
-All Articles
-Intergenerational
-Women
-United States Boarder Security
-Boarder Security
-Deportation
-Border Security
-United States Border
-United We Stand
-Department of Justic (DOJ)
-2nd Amendment
-Lawfare
-Federal Debt
-Mining
-Agriculture
-Abortion Alternatives
-Life
-Inflation
-Foreign Aid
-Voting Integrity
-National Secutiry
-DEI (Diversity, Equity, Inclusion)
-Article V
-United States Constituiton
-Search
-Fostering a Movement to Challenge and Rethink DEI Initiatives
-Our kids deserve better!
+top of page Alycia Gruenhagen SUBSCRIBE DONATE Home My Views Donate Contact More Use tab to navigate through the menu items.
+CAMPAIGN NEWS The Latest Updates All Articles Intergenerational Women United States Boarder Security Boarder Security Deportation Border Security United States Border United We Stand Department of Justic (DOJ) 2nd Amendment Lawfare Federal Debt Mining Agriculture Abortion Alternatives Life Inflation Foreign Aid Voting Integrity National Secutiry DEI (Diversity, Equity, Inclusion) Article V United States Constituiton Search Fostering a Movement to Challenge and Rethink DEI Initiatives Our kids deserve better!
 DEI isn't just a trend—it's threatening every aspect of our society with narratives that defy logic and science.
-Aug 10, 2024
-bottom of page
+Aug 10, 2024 1 min read bottom of page

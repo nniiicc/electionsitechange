@@ -1,6 +1,4 @@
-Orange County Register
-PUBLISHED:
-Public service is supposed to be about duty, not luxury.
+About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate OCR: Kristi Noem’s $170 million jets are a symbol of her arrogance ​ ​ October 27, 2025 By Mike Levin Orange County Register PUBLISHED: October 24, 2025 at 8:00 AM PDT Public service is supposed to be about duty, not luxury.
 Yet Homeland Security Secretary Kristi Noem just signed off on the purchase of two Gulfstream G700s, luxury aircraft worth a combined $170 million.
 The Coast Guard had requested one replacement plane for an aging jet used for official travel.
 Somewhere along the way, that single, practical request turned into a pair of top-of-the-line aircraft awarded through a no-bid contract, without a clear explanation or a shred of humility.
@@ -46,4 +44,6 @@ Kristi Noem’s jets are more than a waste of money.
 They are a symbol of arrogance and entitlement, and a reminder of Washington’s culture of excess.
 So much for draining the swamp.
 Mike Levin represents California’s 49th congressional district.
-Mike Levin: Kristi Noem’s $170 million jets are a symbol of her arrogance
+Mike Levin: Kristi Noem’s $170 million jets are a symbol of her arrogance Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+About Mike Agenda Endorsements Latest News Volunteer/Yard Signs Donate Campaign Inquiries: (760) 566-6113 Email: [email protected] Mailing Address: Mike Levin for Congress PO Box 2112 Capistrano Beach, CA 92624 Campaign Media Inquiries: [email protected] Privacy Policy En Español Paid for by Mike Levin for Congress

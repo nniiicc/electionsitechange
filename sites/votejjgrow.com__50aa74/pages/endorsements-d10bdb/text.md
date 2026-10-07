@@ -1,4 +1,24 @@
-HONORABLE WILTON SIMPSON
-Commissioner of Agriculture
-“I am proud to endorse my friend JJ Grow for the Florida House because I know he will fight for the shared conservative values held by the hardworking families of Florida House District 23.
-As a businessman, JJ is personally invested in the success of his community and will work tirelessly to be their voice in Tallahassee.”
+Home About Platform ISSUES News Endorsements Volunteer Donate Menu Menu Endorsements HONORABLE WILTON SIMPSON Commissioner of Agriculture “I am proud to endorse my friend JJ Grow for the Florida House because I know he will fight for the shared conservative values held by the hardworking families of Florida House District 23.
+As a businessman, JJ is personally invested in the success of his community and will work tirelessly to be their voice in Tallahassee.” HONORABLE BLAISE INGOGLIA State Senator “Over the past year and a half, I’ve had the opportunity to get to know JJ Grow, and without a doubt, he’s shown himself to be a fighter.
+I firmly believe he’s prepared to stand up for our shared beliefs and carry our concerns all the way to Tallahassee.
+As State Representative for District 23, JJ is the conservative advocate we need to push back against extreme ideologies and ensure our voices are heard.” HONORABLE RALPH MASSULLO State Representative “I am honored to endorse my friend JJ Grow for the Florida House.
+Our country is on the precipice of change and I am confident JJ will stand up for our values and fight alongside us addressing the critical and important issues we face.
+As a conservative businessman, JJ embodies the type of cooperative leadership and transparency needed in the office to help drive this community and our state toward excellence.
+It’s a privilege to support JJ, and I urge everyone to join me in standing by his side and electing him as our next Representative to the Florida House.” HONORABLE DENNIS BAXLEY State Senate President Pro Tempore “I am proud to endorse JJ Grow for District 23 State House Representative.
+His dedication to the community, proven leadership, and background in agriculture and business make him an ideal candidate to represent you.
+Join me in supporting JJ Grow, I know he will bring a bright future for District 23.” HONORABLE BILLY WOODS Marion County Sheriff “I am pleased to support and endorse JJ Grow for the Florida House of Representatives.
+JJ is an outstanding candidate with an unwavering commitment to law enforcement.
+I know he will be a great advocate for District 23 in Tallahassee.
+Join me in supporting JJ Grow— a champion for our deputies and public safety.
+I am confident he will achieve great things for District 23.” HONORABLE GEORGE ALBRIGHT Former State Representative and Current Marion County Tax Collector “After many years of dedicated service to the people of Marion County, both as a state Representative and Tax Collector, I am confident in endorsing JJ for Florida House District 23.
+With his background as a conservative businessman, JJ has the experience and values to effectively represent our community’s interests in the capital.
+I am proud to offer JJ my unwavering support.” HONORABLE MATTHEW MCCLAIN Marion County Commissioner “I am honored to extend my full support and endorsement to JJ Grow.
+I wholeheartedly believe JJ is the ideal candidate for the Florida House of Representatives.
+He is a proven businessman and conservative leader who is dedicated to keeping our community safe and ensuring its prosperity.” HONORABLE BILL GLADSON State Attorney “I am excited to endorse JJ Grow for Florida State Representative, District 23.
+With impressive business acumen, unwavering fiscal conservatism, and a steadfast commitment to public safety, JJ Grow has the leadership skills to ensure that District 23’s needs are prioritized.
+Let’s keep Florida safe and prosperous!
+Vote JJ Grow for State House District 23.” FLORIDA CHAMBER OF COMMERCE “I am thankful to have earned the support of the Florida Chamber of Commerce.
+The endorsement is a testament to our commitment to fostering economic growth, creating job opportunities, and ensuring a thriving business environment.” – JJ Grow FLORIDA POLICE BENEVOLENT ASSOCIATION “On behalf of the Florida Police Benevolent Association, it is my great honor to officially endorse your candidacy.
+Your unwavering commitment to public safety and support for the brave men and women in law enforcement make you an exceptional candidate for this crucial role.
+We will actively encourage our members, their families, friends, and all citizens within District 23 who value public safety and respect the sacrifices of our law enforcement officers to cast their votes in support of your candidacy.” – John “Kaz” Kazanjian, FPBA President FLORIDA REALTORS® PAC “Honored to have earned the endorsement of the Florida Realtors® PAC!
+They understand that my local roots prepare me to represent our local values in Tallahassee, and I am grateful for their support.” – JJ Grow Speaker Designate Sam Garrison Citrus Sheriff David Vincent Speaker Designate Sam Garrison Chairman Mike Redondo Florida Professional Firefighters Donate Now Home About Platform News Volunteer Endorsements Political Advertisement Paid for and Approved by JJ Grow, Republican for State Representative, District 23 Link to Facebook Link to Youtube Privacy Policy Scroll to top Scroll to top

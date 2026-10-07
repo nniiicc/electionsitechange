@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Eastern+Shore+Democrats+Meeting&dates=20260924T230000Z%2F20260925T010000Z&location=1150+Fairhope+Avenue%2C+Fairhope%2C+Alabama%2C+36532%2C+United+States",
-"http://maps.google.com/?q=1150+Fairhope+Avenue+Fairhope%2C+Alabama%2C+36532+United+States",
-"https://ashleighdunhamforalabama.com/",
-"https://ashleighdunhamforalabama.com/about",
-"https://ashleighdunhamforalabama.com/cart",
-"https://ashleighdunhamforalabama.com/contact",
-"https://ashleighdunhamforalabama.com/endorsements",
-"https://ashleighdunhamforalabama.com/events",
-"https://ashleighdunhamforalabama.com/events/cocktails-by-the-pool",
-"https://ashleighdunhamforalabama.com/events/eastern-shore-democrats-meeting?format=ical",
-"https://ashleighdunhamforalabama.com/events/rally-for-alabama-doug-jones",
-"https://ashleighdunhamforalabama.com/news",
-"https://ashleighforalsupremecourt.printful.me/",
-"https://donate.campaigndeputy.com/donate/website-ashleigh-may",
-"https://facebook.com/profile.php?id=61576377703240",
-"https://instagram.com/ashleighforalabama",
-"https://tiktok.com/@ashleigh_dunham?lang=en"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1150+fairhope+avenue+fairhope%2C+alabama%2C+36532+united+states"
+},
+{
+"text": "0",
+"href": "https://www.ashleighdunhamforalabama.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ashleighdunhamforalabama.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.ashleighdunhamforalabama.com/events"
+},
+{
+"text": "Campaign Merch",
+"href": "https://ashleighforalsupremecourt.printful.me/"
+},
+{
+"text": "Contact",
+"href": "https://www.ashleighdunhamforalabama.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://donate.campaigndeputy.com/donate/website-ashleigh-may"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ashleighdunhamforalabama.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.ashleighdunhamforalabama.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61576377703240"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Eastern+Shore+Democrats+Meeting&dates=20260924T230000Z%2F20260925T010000Z&location=1150+Fairhope+Avenue%2C+Fairhope%2C+Alabama%2C+36532%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/eastern-shore-democrats-meeting?format=ical"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ashleighforalabama"
+},
+{
+"text": "News",
+"href": "https://www.ashleighdunhamforalabama.com/news"
+},
+{
+"text": "Next Next October 3 Cocktails by the Pool",
+"href": "https://www.ashleighdunhamforalabama.com/events/cocktails-by-the-pool"
+},
+{
+"text": "Previous Previous September 23 Rally for Alabama- Doug Jones",
+"href": "https://www.ashleighdunhamforalabama.com/events/rally-for-alabama-doug-jones"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@ashleigh_dunham?lang=en"
+},
+{
+"text": "[image: AshLeigh for Alabama]",
+"href": "https://www.ashleighdunhamforalabama.com/"
+},
+{
+"text": "info@ashleighforalabama.com",
+"href": "mailto:joinus@ashleighforalabama.com"
+}
 ]

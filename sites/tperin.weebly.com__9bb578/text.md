@@ -1,2 +1,4 @@
-| | Position Statement Upcoming Events |
-| Protect IPERS Support Family Farms Support Economic Development Expand Health Care Options and Research Protect Personal Freedoms Raise the Minimum Wage Fully Fund Public Schools Fight Eminent Domain for Private Businesses | |
+Perin for 51 Home News and Events Videos Donate Shop Contact Learn Donate to the Campaign Linktree!
+Lifelong Iowan Mother Grandmother Teacher Farmer Union Member Volunteer! * Indicates required field Name * First Last Email * Address * Line 1 Line 2 City State Zip Code Country Phone Number * How would you like to help? * Make phone calls Send text messages Knock on doors Request a yard sign Host a house party Sign Up To Volunteer!
+Position Statement Upcoming Events Protect IPERS Support Family Farms Support Economic Development Expand Health Care Options and Research ​ Protect Personal Freedoms ​ Raise the Minimum Wage ​ Fully Fund Public Schools ​ Fight Eminent Domain for Private Businesses Check your registration Links Below House District 51 Vote by Mail Check Voter Status Register to Vote Paid for by Perin for 51 Powered by Create your own unique website with customizable templates.
+Get Started Home News and Events Videos Donate Shop Contact Learn

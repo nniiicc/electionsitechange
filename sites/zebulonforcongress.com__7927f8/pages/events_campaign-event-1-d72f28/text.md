@@ -1,11 +1,1 @@
-Back to All Events
-Menominee County’s “Candidates and Community” Forum
-Made possibly by Menominee County Democratic Party & Menominee County Republicans
-Live Streamed at - https://www.youtube.com/@MCDPComms
-Previous
-Previous
-March 4
-Online Town Hall/Q&A
-Next
-Next
-March 10
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate Back to All Events Candidate Forum Monday, March 9, 2026 6:00 PM 8:00 PM MHS Lecture Hall 2101 18th Street Menominee, MI, 49858 United States (map) Google Calendar ICS Menominee County’s “Candidates and Community” Forum Made possibly by Menominee County Democratic Party & Menominee County Republicans Live Streamed at - https://www.youtube.com/@MCDPComms Previous Previous March 4 Online Town Hall/Q&A Next Next March 10 Candidate Forum

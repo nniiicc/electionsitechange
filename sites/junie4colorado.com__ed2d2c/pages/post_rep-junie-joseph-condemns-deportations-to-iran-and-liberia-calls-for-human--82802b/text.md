@@ -1,9 +1,7 @@
-Rep.
+top of page Home About Junie Photo & Video Gallery Stances Read More Legislation Newsroom Get Involved Your Community More Use tab to navigate through the menu items.
+DONATE All Posts Search Rep.
 Junie Joseph Condemns Deportations to Iran and Liberia, Calls for Human Rights to Remain at the Center of U.S.
-Immigration Policy
-FOR IMMEDIATE RELEASE
-August 20, 2026
-BOULDER, CO — State Representative Junie Joseph today condemned the Trump administration’s decision to deport people to Iran and to send individuals to Liberia under a new third-country deportation agreement, warning that the United States must not send people to countries where they could face serious threats to their safety, liberty and human rights.
+Immigration Policy junieforhd10 Aug 20 3 min read FOR IMMEDIATE RELEASE August 20, 2026 BOULDER, CO — State Representative Junie Joseph today condemned the Trump administration’s decision to deport people to Iran and to send individuals to Liberia under a new third-country deportation agreement, warning that the United States must not send people to countries where they could face serious threats to their safety, liberty and human rights.
 Newly released emails obtained by the National Iranian American Council and reported by the Associated Press show that U.S.
 Immigration and Customs Enforcement coordinated with Iranian officials in the deportation of more than 100 Iranian nationals in late 2025 and early 2026.
 The reporting raises particularly serious concerns because some deportees were asylum-seekers or individuals who may have faced persecution if returned to Iran.
@@ -19,13 +17,16 @@ Deporting people to countries where they may face persecution, torture, arbitrar
 It is a failure of our obligation to protect human dignity,” said Rep.
 Junie Joseph.
 “The United States has the resources and the responsibility to ensure that immigration enforcement is carried out lawfully and humanely.
-We cannot claim to stand for human rights around the world while sending vulnerable people into circumstances where those very rights may be threatened.”
-The United Nations has also previously documented serious concerns about detention conditions in Liberia, including severe overcrowding, prolonged pretrial detention and inadequate conditions.
+We cannot claim to stand for human rights around the world while sending vulnerable people into circumstances where those very rights may be threatened.” The United Nations has also previously documented serious concerns about detention conditions in Liberia, including severe overcrowding, prolonged pretrial detention and inadequate conditions.
 A UN Subcommittee on Prevention of Torture found that overcrowding and detention conditions in Liberian prisons could constitute cruel, inhuman and degrading treatment, and reported that pretrial detainees were sometimes held in the same facilities as sentenced prisoners.
 More recently, UN human rights mechanisms have continued to raise concerns in Liberia, including a 2026 communication regarding an alleged physical attack on a human rights defender.
 “Immigration enforcement cannot come at the expense of basic human rights.
 Every person facing deportation deserves due process and protection from being sent into danger.
 That principle should not change based on someone's nationality, immigration status or political circumstances,” Joseph said.
-“As a country founded in part on the promise that people fleeing persecution could find safety here, we should be doing everything possible to uphold that promise, not abandoning it.”
-Rep.
+“As a country founded in part on the promise that people fleeing persecution could find safety here, we should be doing everything possible to uphold that promise, not abandoning it.” Rep.
 Joseph called on the federal government to ensure that no person is deported to a country where they face a credible risk of persecution, torture, arbitrary detention or other serious human rights violations, and to ensure that third-country deportations are subject to meaningful due process and humanitarian protections.
+Recent Posts See All Rep.
+Junie Joseph Condemns Trump Administration Cuts to Teen Pregnancy Prevention Programs FOR IMMEDIATE RELEASE August 24, 2026 BOULDER, CO — Colorado State Representative Junie Joseph is condemning the Trump administration’s decision to terminate $68 million in federal grants for teen pre Rep.
+Junie Joseph Condemns Use of Federal Firefighting Resources to Protect Private Ranch FOR IMMEDIATE RELEASE August 18, 2026 BOULDER, Colo. — Colorado State Representative Junie Joseph condemned reports that Michael Boren, the Trump administration official who oversees the U.S.
+Forest S Rep.
+Junie Joseph Condemns Trump Administration’s Renewed Attack on Birthright Citizenship FOR IMMEDIATE RELEASE August 7, 2026 BOULDER, CO — State Representative Junie Joseph condemned President Donald Trump’s renewed efforts to restrict birthright citizenship, following the administration Junie For HD - 10 JunieForHD10@gmail.com Paid for by Friends of Junie Joseph | Registered Agent Junie Joseph 4985 Moorhead Ave Unit 3210 · Boulder, CO 80305 · USA bottom of page

@@ -1,9 +1,38 @@
 [
-"http://twitter.com/holladayforar",
-"https://alexforarkansas.com/",
-"https://alexforarkansas.com/about",
-"https://alexforarkansas.com/cart",
-"https://alexforarkansas.com/contact",
-"https://goodchange.app/f/reelectalex",
-"https://instagram.com/holladayforar"
+{
+"text": "0",
+"href": "https://www.alexforarkansas.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.alexforarkansas.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.alexforarkansas.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://goodchange.app/f/reelectalex"
+},
+{
+"text": "Home",
+"href": "https://www.alexforarkansas.com/"
+},
+{
+"text": "Learn More",
+"href": "https://www.alexforarkansas.com/about"
+},
+{
+"text": "[image: Alex Holladay for Arkansas]",
+"href": "https://www.alexforarkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/holladayforar"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/holladayforar"
+}
 ]

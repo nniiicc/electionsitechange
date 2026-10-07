@@ -1,137 +1,33 @@
-Issues
-My Priorities
-Putting Miami-Dade, Broward, Palm Beach First — Not Party Politics
-The Congressional District changed.
+Meet Michaelangelo Find Your District Issues Contribute Volunteer News Yard Signs Events Photos Contact Issues My Priorities Putting Miami-Dade, Broward, Palm Beach First — Not Party Politics The Congressional District changed.
 The system changed.
 But the people of Delray Beach, Boca Raton, Highland Beach, Deerfield Beach, Pompano Beach, Lighthouse Point, Lauderdale-by-the-Sea, Fort Lauderdale, Dania Beach, Hollywood, Hallandale Beach, Aventura, Sunny Isles Beach, North Miami Beach, North Miami, Bal Harbour, Bay Harbor Islands, Surfside, North Bay Village, Miami Beach, and the surrounding communities of Florida’s 25th Congressional District still deserve results.
 I’m running to deliver — not divide.
 And begin what I would say is the future of the Republican Party and have another perspective of young leadership in Washington D.C.
-- Lower Costs & Put Working Families First
-- Standing with Single Parents & Families
-- Create Jobs & Unleash Small Business Growth
-- Secure the Border & Protect Our Communities
-- Restore Accountability in Government
-- Make Housing & Insurance Affordable Again
-- Insurance Reform & Medical Billing Accountability
-- HOA Reform
-Lower Costs & Support Working Families
-Too many Floridians are working hard and still falling behind.
+Let’s send a loud message that will be heard from coast to shinning coast in this beautiful country we all care deeply about for not only my generation, Gen Z, but for us all and future generations. - Michaelangelo Collins Hamilton Lower Costs & Put Working Families First Standing with Single Parents & Families Create Jobs & Unleash Small Business Growth Secure the Border & Protect Our Communities Restore Accountability in Government Make Housing & Insurance Affordable Again Insurance Reform & Medical Billing Accountability HOA Reform Lower Costs & Support Working Families Too many Floridians are working hard and still falling behind.
 I know that struggle personally.
 I was raised by a single mother after losing my father at a young age.
 I’ve seen what it looks like when one parent is doing everything—paying the bills, raising a family, and trying to get ahead with limited support.
 That experience shaped how I see the economy today.
 The cost of living is out of control—groceries, rent, insurance, and gas keep going up while families are expected to just “figure it out.” That’s not sustainable.
 We need policies that actually help working people—not just talk about them.
-Michaelangelo will:
-- Fight to reduce inflation by supporting responsible federal spending and pro-growth economic policies
-- Back American energy production to bring down gas and utility costs
-- Support tax relief for working families, with additional relief for single-parent households and those under financial strain
-- Expand access to childcare support and workforce programs that help parents stay employed and advance
-- Promote policies that increase wages and economic opportunity, not just government dependency
-- Advocate for lower insurance and housing costs, which are some of the biggest financial burdens in Florida
-Read More
-Standing with Single Parents & Families
-Single parents—especially single mothers—are carrying one of the heaviest loads in this country.
-They deserve:
-- Fair opportunities
-- Real support systems
-- And policies that recognize their reality
-Michaelangelo will:
-- Support policies that make childcare more affordable and accessible
-- Expand programs that help single parents enter and stay in the workforce
-- Promote tax relief and financial support targeted to working families
-- Ensure that economic policy reflects the real challenges families face every day
-Read More
-Create Jobs & Unleash Small Business Growth
-Small businesses and entrepreneurs drive Florida’s economy.
-What Michaelangelo Will Do
-- Cut unnecessary federal regulations
-- Expand access to capital for small businesses
-- Protect independent contractors and gig workers
-- Support trade schools and workforce training
-- Promote pro-growth economic policies
-Why It Matters
-Opportunity should be available to anyone willing to work for it.
-Read More
-Secure the Border & Protect Our Communities
-A secure nation is a safe nation.
-Michaelangelo Will:
-- Strengthen border security and enforcement
-- Ensure immigration laws are followed
-- Prioritize removal of individuals who commit serious crimes
-- Support law enforcement and public safety
-Why It Matters
-Americans deserve safe communities and a system that works.
-Read More
-Restore Accountability in Government
-Government must work for the people—not against them.
-Michaelangelo will:
-- Increase transparency in spending and decision-making
-- Strengthen ethics standards for public officials
-- Hold officials accountable for misconduct
-- Reduce wasteful government spending
-Why It Matters
-Trust in government must be earned—not assumed.
-Read More
-Insurance Reform & Medical Billing Accountability
-Floridians deserve fairness, transparency, and accountability in both the insurance and healthcare systems.
+Michaelangelo will: Fight to reduce inflation by supporting responsible federal spending and pro-growth economic policies Back American energy production to bring down gas and utility costs Support tax relief for working families , with additional relief for single-parent households and those under financial strain Expand access to childcare support and workforce programs that help parents stay employed and advance Promote policies that increase wages and economic opportunity , not just government dependency Advocate for lower insurance and housing costs , which are some of the biggest financial burdens in Florida Read More Standing with Single Parents & Families Single parents—especially single mothers—are carrying one of the heaviest loads in this country.
+They deserve: Fair opportunities Real support systems And policies that recognize their reality Michaelangelo will: Support policies that make childcare more affordable and accessible Expand programs that help single parents enter and stay in the workforce Promote tax relief and financial support targeted to working families Ensure that economic policy reflects the real challenges families face every day Read More Create Jobs & Unleash Small Business Growth Small businesses and entrepreneurs drive Florida’s economy.
+What Michaelangelo Will Do Cut unnecessary federal regulations Expand access to capital for small businesses Protect independent contractors and gig workers Support trade schools and workforce training Promote pro-growth economic policies Why It Matters Opportunity should be available to anyone willing to work for it.
+Read More Secure the Border & Protect Our Communities A secure nation is a safe nation.
+Michaelangelo Will: Strengthen border security and enforcement Ensure immigration laws are followed Prioritize removal of individuals who commit serious crimes Support law enforcement and public safety Why It Matters Americans deserve safe communities and a system that works.
+Read More Restore Accountability in Government Government must work for the people—not against them.
+Michaelangelo will: Increase transparency in spending and decision-making Strengthen ethics standards for public officials Hold officials accountable for misconduct Reduce wasteful government spending Why It Matters Trust in government must be earned—not assumed.
+Read More Insurance Reform & Medical Billing Accountability Floridians deserve fairness, transparency, and accountability in both the insurance and healthcare systems.
 Too many people are being overcharged, misled, or trapped in systems that don’t work for them—whether it’s rising insurance premiums or confusing and inflated medical bills.
-Michaelangelo will:
-- Hold insurance agencies and FMOs accountable
-- Protect agents from unfair restrictions and practices
-- Increase transparency in insurance policies, pricing, and billing
-- Promote competition to help lower premiums for consumers
-Protecting Patients from Medical Overbilling
-Medical overbilling is a growing problem that is hurting working families and driving up the cost of care.
+Michaelangelo will: Hold insurance agencies and FMOs accountable Protect agents from unfair restrictions and practices Increase transparency in insurance policies, pricing, and billing Promote competition to help lower premiums for consumers Protecting Patients from Medical Overbilling Medical overbilling is a growing problem that is hurting working families and driving up the cost of care.
 Patients should never be hit with inflated or unclear charges without explanation or recourse.
-Michaelangelo will:
-- Increase oversight of fraudulent and abusive medical billing practices
-- Require clear, transparent billing so patients understand exactly what they are being charged
-- Establish strong penalties for repeated and intentional overbilling
-- Provide reasonable flexibility for providers acting in good faith
-- Hold executives accountable when there is clear and ongoing misconduct
-Accountability Measures
-- First-time or minor violations → corrective action and compliance requirements
-- Repeated violations → significant financial penalties
-- Continued intentional abuse → criminal liability for responsible executives
-Why It Matters
-Healthcare and insurance costs are already too high.
+Michaelangelo will: Increase oversight of fraudulent and abusive medical billing practices Require clear, transparent billing so patients understand exactly what they are being charged Establish strong penalties for repeated and intentional overbilling Provide reasonable flexibility for providers acting in good faith Hold executives accountable when there is clear and ongoing misconduct Accountability Measures First-time or minor violations → corrective action and compliance requirements Repeated violations → significant financial penalties Continued intentional abuse → criminal liability for responsible executives Why It Matters Healthcare and insurance costs are already too high.
 Floridians should not have to worry about being taken advantage of when they are at their most vulnerable.
-A fair system protects:
-- Patients
-- Honest providers
-- And the integrity of our healthcare system
-Read More
-Make Housing & Insurance Affordable Again
-Housing and insurance costs are crushing Florida families.
-Michaelangelo will:
-- Increase housing supply to reduce costs
-- Expand first-time homebuyer programs
-- Stabilize rental markets
-- Increase accountability in insurance markets
-- Promote competition to lower premiums
-Why It Matters
-Florida should be a place people can afford to live—not struggle to stay in Read More
-HOA Reform
-Homeowners should not feel powerless in their own communities.
+A fair system protects: Patients Honest providers And the integrity of our healthcare system Read More Make Housing & Insurance Affordable Again Housing and insurance costs are crushing Florida families.
+Michaelangelo will: Increase housing supply to reduce costs Expand first-time homebuyer programs Stabilize rental markets Increase accountability in insurance markets Promote competition to lower premiums Why It Matters Florida should be a place people can afford to live—not struggle to stay in Read More HOA Reform Homeowners should not feel powerless in their own communities.
 Too often, poorly run or corrupt HOA leadership can mismanage funds, raise fees unfairly, or leave communities in worse condition than before.
-Michaelangelo will:
-- Require full financial transparency from HOA boards
-- Increase accountability for mismanagement and abuse of power
-- Protect homeowners from unfair fees and arbitrary enforcement
-- Strengthen oversight to prevent embezzlement and financial misconduct
-- Work with state leaders to ensure HOAs cannot harm the communities they are meant to serve
-Protecting Communities from Mismanagement
-No governing body—whether local, private, or community-based—should be allowed to misuse funds or neglect the people they represent.
-Michaelangelo will:
-- Support stronger safeguards to prevent financial abuse and misuse of community funds
-- Ensure swift consequences for leaders who violate public trust
-- Promote systems that protect residents from long-term damage caused by bad leadership
-- Encourage cooperation with state authorities to strengthen oversight and enforcement
-Why It Matters
-Homeownership should come with stability—not uncertainty.
-Floridians deserve to know:
-- Their money is being handled responsibly
-- Their community is being managed fairly
-- And their voices are being heard
-Read More
+Michaelangelo will: Require full financial transparency from HOA boards Increase accountability for mismanagement and abuse of power Protect homeowners from unfair fees and arbitrary enforcement Strengthen oversight to prevent embezzlement and financial misconduct Work with state leaders to ensure HOAs cannot harm the communities they are meant to serve Protecting Communities from Mismanagement No governing body—whether local, private, or community-based—should be allowed to misuse funds or neglect the people they represent.
+Michaelangelo will: Support stronger safeguards to prevent financial abuse and misuse of community funds Ensure swift consequences for leaders who violate public trust Promote systems that protect residents from long-term damage caused by bad leadership Encourage cooperation with state authorities to strengthen oversight and enforcement Why It Matters Homeownership should come with stability—not uncertainty.
+Floridians deserve to know: Their money is being handled responsibly Their community is being managed fairly And their voices are being heard Read More Home Meet Michaelangelo Find Your District Issues Contribute Volunteer News Yard Signs Events Photos Contact Political advertisement paid for by Hamilton For Florida 2026, the authorized campaign committee of Michaelangelo Hamilton, write-in candidate for U.S.
+House of Representatives, Florida’s 25th Congressional District.
+Powered by CampaignPartner.com - Political Campaign Websites Meet Michaelangelo Find Your District Issues Contribute Volunteer News Yard Signs Events Photos Contact Close Menu

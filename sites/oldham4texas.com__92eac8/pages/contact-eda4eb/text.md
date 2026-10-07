@@ -1,3 +1,5 @@
-Contact Us Do you have something on your mind?
+0 Skip to Content Home Issues Property Tax Relief Public School Policy Data Centers Healthcare Reform Mental Health Resource Hub Fentanyl Crisis Hub Where I Stand About Contact Open Menu Close Menu Home Issues Property Tax Relief Public School Policy Data Centers Healthcare Reform Mental Health Resource Hub Fentanyl Crisis Hub Where I Stand About Contact Open Menu Close Menu Home Folder: Issues Back Property Tax Relief Public School Policy Data Centers Healthcare Reform Mental Health Resource Hub Fentanyl Crisis Hub Where I Stand About Contact Contact Us Do you have something on your mind?
 Contact us and let us know what issues are important to you.
-Share your thoughts and opinions, we want to know! oldham4texas@gmail.com 817-381-5115 Click here to contact our team
+Share your thoughts and opinions, we want to know! oldham4texas@gmail.com 817-381-5115 Click here to contact our team Paid for by the Oldham for Texas Campaign in compliance with the Texas Ethics Commission DONATE NOW: GIVE $5, $10, $25 OR MORE Contact Oldham for Texas Campaign Mike Kaftan - Treasurer oldham4texas@gmail.com Address / Phone 752 N.
+Main Street #296 Mansfield, TX 76063 817-381-5115 © # Oldham for Texas Campaign.
+All Rights Reserved Made with Squarespace

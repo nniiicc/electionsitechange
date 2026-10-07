@@ -1,26 +1,18 @@
-PRIORITY
-Housing Affordability
-Every Texan deserves the opportunity to own a home.
+0 Skip to Content Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Folder: Priorities Back Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Folder: Endorsements Back Texas Voters Public Officials Organizations Volunteer News Online Store Donate PRIORITY Housing Affordability Every Texan deserves the opportunity to own a home.
 Meanwhile, rent prices should be stable and affordable so young Texans can save and one day purchase a home of their own.
 Property taxes and insurance costs need to be reined in, ensuring that people on fixed incomes are not forced out of their homes.
-Affordable Housing for
-Every Generation
-The dream of owning a home is slipping away for too many Texans, especially our younger generations.
+Affordable Housing for Every Generation The dream of owning a home is slipping away for too many Texans, especially our younger generations.
 Home prices have shot up in many parts of Texas.
 Meanwhile, mortgage rates hit historic highs making it increasingly difficult to struggling families to afford a mortgage.
 Renters are hit even harder, as soaring tax rates on rental properties are being passed on, leaving working families struggling to find affordable options.
 Texas Comptroller Glenn Hegar recently highlighted that Texas is short over 300,000 homes – a gap that's creating massive barriers for first-time buyers and threatening our economic future.
-Vikki’s Vision:
-- The Fair Rent Incentive Act – This lowers the current 20% assessment cap for landlords who charge fair market rent or below.
-It's a win-win: property owners get lower tax bills, and renters don't spend more than 40% of their income on housing and utilities. [HB 203]
-- Automatic Homestead Exemptions – Right now, new homeowners must complete extra paperwork months after purchase to receive their homestead exemption, exposing them to potential scams.
-Vikki's bill would process this automatically at closing, using forms already signed with a notary. [HB 3108]
-- Cutting Red Tape for Affordable Development – We need to streamline local permitting processes and reduce unnecessary regulations that drive up housing costs.
+Vikki’s Vision: The Fair Rent Incentive Act – This lowers the current 20% assessment cap for landlords who charge fair market rent or below.
+It's a win-win: property owners get lower tax bills, and renters don't spend more than 40% of their income on housing and utilities. [ HB 203 ] Automatic Homestead Exemptions – Right now, new homeowners must complete extra paperwork months after purchase to receive their homestead exemption, exposing them to potential scams.
+Vikki's bill would process this automatically at closing, using forms already signed with a notary. [ HB 3108 ] Cutting Red Tape for Affordable Development – We need to streamline local permitting processes and reduce unnecessary regulations that drive up housing costs.
 By removing these barriers, we can increase housing supply and make homes more affordable for working families.
-- Expanded Texas Homes for Heroes – Our teachers, nurses, first responders, and veterans deserve affordable housing options.
-Vikki will work to increase qualification opportunities through specialized programs and financing assistance. [HB 2425]
-Send Vikki to the Lt.
-Governor’s office with an affordable housing mandate
-Together, we can create a better Texas.
+Expanded Texas Homes for Heroes – Our teachers, nurses, first responders, and veterans deserve affordable housing options.
+Vikki will work to increase qualification opportunities through specialized programs and financing assistance. [ HB 2425 ] Next Priority: Comprehensive Healthcare → Send Vikki to the Lt.
+Governor’s office with an affordable housing mandate Together, we can create a better Texas.
 Divided, we risk losing fundamental rights and further empowering a small group of people determined to control every aspect of Texan’s lives.
 Please fill out this short form to ensure you stay informed and find out how you can get involved and join us in our campaign!
+Pol. adv. paid for by the Vikki Goodwin Campaign, Allen Biehl, Treasurer Campaign Inquiries: AskMe@VikkiGoodwin.com | ‪(352) 88-VIKKI / (352) 888-4554 | 9901 Brodie Lane, Suite 160-315, Austin, TX 78748 Legislative Inquiries: Vikki.Goodwin@house.texas.gov | (512) 463-0652 | P.O Box 2910, Austin, Texas 78768 Read our privacy policy here.

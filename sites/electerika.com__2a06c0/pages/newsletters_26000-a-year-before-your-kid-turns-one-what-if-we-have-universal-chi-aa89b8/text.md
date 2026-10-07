@@ -1,7 +1,8 @@
-$26,000 a year before your kid turns one, what if we have universal childcare?
-$26,000 A Year
-Before Your Kid
-Turns One.
+Skip to main content Fighting for you.
+Join the movement.
+Donate Volunteer Democratic Primary · Sept 1, 2026 Meet Erika Platform Newsletter Donate Meet Erika Platform Newsletter Endorsements Get Involved Donate Newsletter · August 25, 2026 $26,000 a year before your kid turns one, what if we have universal childcare?
+Infant care in Massachusetts costs more than UMass tuition.
+What if we made it universal? ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ Child Care · September 1 $26,000 A Year Before Your Kid Turns One.
 In my last newsletter I wrote about how Massachusetts became the most expensive state in the country to grow old, and how Medicare for All would let our older neighbors stay in the communities they built.
 That plan cuts what we spend on health care by 23 percent, with savings that come from eliminating insurance company administration, the billing bureaucracy hospitals currently use to fight with insurers, and the monopoly prices hospital systems and drug companies charge us because they can.
 Today, I want to talk about our youngest constituents, because the affordability crisis in Massachusetts starts the moment a child is born, and just like housing, utility bills, and health care, the prohibitive cost of child care is a problem the State House can solve directly and has spent decades declining to.
@@ -43,15 +44,22 @@ I am running for State Senate to make different choices.
 The way we win universal child care is the same way we banned broker fees, made committee votes public, and stopped the utility blank check: by organizing inside and outside the building until voting with the lobbyists becomes politically impossible.
 I will keep pushing my own party to do the right thing the first time, not after it is already safe.
 The primary is September 1, and in these final weeks the most powerful thing you can do is talk to your neighbors about the Massachusetts we deserve.
-Please join my team for a canvass shift or phone bank at electerika.com/volunteer, bring a friend, and let's finish this the way we started it, together.
+Please join my team for a canvass shift or phone bank at electerika.com/volunteer , bring a friend, and let's finish this the way we started it, together.
 And most importantly, make your plan to vote.
 Early voting is underway right now until Friday 8/28 at city or town hall or you can drop off your mail in ballot.
 On Tuesday, September 1, polls are open from 7 a.m. to 8 p.m., and you can look up your polling place here: Where Do I Vote?
-In solidarity,
-Erika Uyterhoeven
-State Representative, 27th Middlesex
-Candidate, State Senate, 2nd Middlesex District
-Follow on Instagram · Follow on Bluesky
-Facebook · Instagram · Bluesky
-Paid for by Committee to Elect Erika Uyterhoeven · Somerville, MA
-Unsubscribe | Manage Preferences
+In solidarity, Erika Uyterhoeven State Representative, 27th Middlesex Candidate, State Senate, 2nd Middlesex District Follow on Instagram · Follow on Bluesky Facebook · Instagram · Bluesky Paid for by Committee to Elect Erika Uyterhoeven · Somerville, MA Unsubscribe | Manage Preferences ← All Newsletters Stay Connected Get the next one in your inbox.
+Subscribe to Erika's newsletter.
+Donate Now Volunteer Fighting for you in Somerville, Medford, Cambridge, and Winchester.
+Learn Meet Erika Platform Endorsements Newsletters Act Volunteer Donate Vote Press Endorse Erika Instagram Call or text Erika: (857) 264-1096 Email: erika@electerika.com Paid for by Committee to Elect Erika Uyterhoeven · Somerville, MA Contributions are not tax-deductible · $1,000 max per individual per calendar year · Privacy Policy × Join the movement Your rent.
+Your energy bill.
+Your kids' school.
+Know what's really happening.
+Every week I break down the contracts, the votes, and the deals that affect your life, and who is responsible.
+Two emails.
+No press releases.
+Count me in ✓ You're in.
+Welcome to the fight.
+No spam.
+Unsubscribe anytime.
+We never share your email.

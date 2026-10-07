@@ -1,6 +1,7 @@
-Ignoring the Law
-The War Powers Act is the law of the land, passed by Congress in the wake of Vietnam to ensure that it played the role laid out for it in the Constitution when it came to matters of war.
+top of page Donate Now ABOUT Issues Press Get Involved Menu Close ABOUT Issues Press Get Involved DONATE ABOUT Issues Press Get Involved Menu Close DONATE All Posts From The Blog Podcasts Press Releases Ignoring the Law Steve Woll Apr 30 1 min read The War Powers Act is the law of the land, passed by Congress in the wake of Vietnam to ensure that it played the role laid out for it in the Constitution when it came to matters of war.
 Should the Trump Administration fail to comply with the Act's requirements within the next 24 hours (the 60 day mark of the Iran conflict), it will have expanded its disregard for the rule of law into a whole new venue - one where the Founders clearly wanted Congress to have the lead.
 By all indications, Republicans in Congress have no intention of holding the Administration to the legal requirements imposed by the Act.
 By this point, the Administration failing to comply with the laws and regulations of the land is hardly noteworthy, but make no mistake, if Congress abdicates its responsibilities here, there can be no limit to how far they can sink.
 Let us hope they rise to the occasion.
+From The Blog Recent Posts See All A Chance to Recommit Meeting Hampton Roads Why I'm Stepping Forward...
+ABOUT Issues Press Get Involved ABOUT Issues Press Get Involved Menu Close DONATE ABOUT Issues Press Get Involved STAY UPDATED - SIGN UP FOR OUR OFFICIAL CAMPAIGN NEWSLETTER Email * Yes, subscribe me to your newsletter. * SUBMIT Paid for by Steve Woll For Congress USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY Terms & Conditions | Privacy Policy | Accessibility Statement ABOUT Issues Press Get Involved bottom of page

@@ -1,7 +1,12 @@
 {
  "description": "Housing",
  "final_url": "https://www.votehohenstein.com/housing",
+ "fingerprint": "2dc5f9ac9dd4be5ab3b5e7a50639306e7b94a5d2",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Joe Hohenstein PAC",
- "title": "Housing \u2014 Elect Joe Hohenstein",
- "years_mentioned": []
+ "title": "Housing — Elect Joe Hohenstein",
+ "years_mentioned": [
+  "2021",
+  "2022"
+ ]
 }

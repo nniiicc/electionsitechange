@@ -1,7 +1,7 @@
-Harris Fellows & Interns
-Hands-on public service experience for the students of District 91 — because the next generation of Memphis leaders starts here.
-Program Overview
-Created by Representative Torrey C.
+Chip in $20 today to support Rep.
+Torrey C.
+Harris’ re-election campaign → About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Early Voting Locations Sample Ballot Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Community Resources Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Early Voting Locations Sample Ballot Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Community Resources Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate Invest in the Next Generation Harris Fellows & Interns Hands-on public service experience for the students of District 91 — because the next generation of Memphis leaders starts here.
+Program Overview Created by Representative Torrey C.
 Harris, the Harris Fellows & Interns Program is a unique opportunity for high school seniors and college students in and around Tennessee House District 91 to gain hands-on experience, professional development, and an inside look at public service.
 The program is designed to empower students with a passion for social justice, community engagement, leadership, and policy to make a meaningful impact on their own community.
 Fellows primarily serve as community organizers — helping plan and manage district activities and working closely with Rep.
@@ -9,43 +9,26 @@ Harris on special projects.
 Ideal candidates are self-motivated, politically engaged fast learners who can adapt in a fast-paced environment.
 Applicants should have strong writing skills, an excitement to manage social media and create content, and the ability to interact with people in a variety of professional settings.
 Fellows are expected to attend the Representative's scheduled events and take part in the weekly planning process.
-Open Positions
-- (2) Community Engagement Fellows
-- (1) Media & Communications Fellow
-Media & Communications Fellow
-- Manage social media accounts and create content — graphics, reels, videos, and event pages
-- Write, design, and distribute the district newsletter
-- Keep the website and communication materials up to date
-- Serve as a trusted advance team member at public events — capturing photos and video and handling arrival preparations
-- Help plan, coordinate, and execute district events: community service days, town halls, festivals, and workshops
-- Coordinate logistics — inviting speakers, recruiting volunteers, booking vendors and venues, and acquiring supplies
-Community Engagement Fellow
-- Serve as a liaison between the office of Rep.
-Harris and local communities within District 91
-- Maintain positive relationships with community leaders, stakeholders, and residents
-- Accompany Rep.
-Harris at public events as a trusted advance team member
-- Organize district events — community service days, town halls, festivals, and policy workshops
-- Build and maintain updated mailing and email databases of contacts
-- Lead and develop special projects
-- Draft and mail thank-you notes, letters, and mailings
-- Conduct legislative research and draft one-pagers, policy briefs, and bill summaries
-Who Should Apply
-Students studying law, political science, history, public administration, social work, economics, sociology, journalism, and related fields are encouraged to apply — as is anyone with a genuine interest in government, politics, and public service.
+Open Positions (2) Community Engagement Fellows (1) Media & Communications Fellow Media & Communications Fellow Manage social media accounts and create content — graphics, reels, videos, and event pages Write, design, and distribute the district newsletter Keep the website and communication materials up to date Serve as a trusted advance team member at public events — capturing photos and video and handling arrival preparations Help plan, coordinate, and execute district events: community service days, town halls, festivals, and workshops Coordinate logistics — inviting speakers, recruiting volunteers, booking vendors and venues, and acquiring supplies Community Engagement Fellow Serve as a liaison between the office of Rep.
+Harris and local communities within District 91 Maintain positive relationships with community leaders, stakeholders, and residents Accompany Rep.
+Harris at public events as a trusted advance team member Organize district events — community service days, town halls, festivals, and policy workshops Build and maintain updated mailing and email databases of contacts Lead and develop special projects Draft and mail thank-you notes, letters, and mailings Conduct legislative research and draft one-pagers, policy briefs, and bill summaries Who Should Apply Students studying law, political science, history, public administration, social work, economics, sociology, journalism, and related fields are encouraged to apply — as is anyone with a genuine interest in government, politics, and public service.
 Applicants should be enrolled in an accredited 2-year or 4-year institution in or near District 91 — including LeMoyne-Owen College, the University of Memphis, Christian Brothers University, Rhodes College, and Southwest Tennessee Community College — or be a high school senior residing in the district.
-Requirements
-Fellows must have access to reliable transportation.
+Requirements Fellows must have access to reliable transportation.
 This role requires flexibility in working hours, including availability during some evenings and weekends.
 Any student applying must be willing to commit for the entire duration of the fellowship.
-Time & Term
-Fellows are appointed to serve for a four-month semester during the 2025–26 calendar year.
+Time & Term Fellows are appointed to serve for a four-month semester during the 2025–26 calendar year.
 The appointment period does not necessarily match your school's semester calendar.
-Spring Term: May 18, 2026 – August 31, 2026 · Where: Primarily remote, with occasional in-person meetings in Memphis · Time Commitment: ~10–15 hours per week
-Benefits
-- $500 stipend, paid in equal monthly installments
-- Work directly with Rep.
-Harris and gain up-close experience in public elected office
-- Serve your community at the highest levels of state public leadership
-- Attend exclusive events and meetings
-- Possibility of earning academic credit, if applicable
-- A Team Harris t-shirt
+Spring Term: May 18, 2026 – August 31, 2026 · Where: Primarily remote, with occasional in-person meetings in Memphis · Time Commitment: ~10–15 hours per week Benefits $500 stipend, paid in equal monthly installments Work directly with Rep.
+Harris and gain up-close experience in public elected office Serve your community at the highest levels of state public leadership Attend exclusive events and meetings Possibility of earning academic credit, if applicable A Team Harris t-shirt Equity Statement: Studies show that people from marginalized communities — women, LGBTQ+ people, and people of color — are less likely to apply unless they meet every qualification.
+The office of Rep.
+Torrey C.
+Harris is dedicated to building an inclusive, diverse, and accessible team.
+If you're excited about this program but your experience doesn't align with every single qualification, we still encourage you to apply.
+You may be exactly the right fellow for this role.
+At a Glance Location District 91, Memphis, TN Term 4-month semester Hours ~10–15 hrs / week Stipend $500, paid monthly Format Primarily remote How to Apply Applications are accepted on a rolling basis.
+Tell us about yourself and why you want to serve.
+Deadline: Friday, May 1, 2026 · 11:59pm Apply Here Torrey C.
+Harris Tennessee House · District 91 Let's Keep Tennessee Moving.
+Explore Why I'm Running About Torrey Endorsements Issues The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Gallery 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Take Action Vote 2026 Volunteer Request Help Donate Offices Nashville: 615-741-2239 Memphis: 901-232-9498 rep.torrey.harris@capitol.tn.gov All contact info → Donate Please Mail Check Contributions to: Committee to Elect Torrey Harris 1387 Central Avenue # 906 Memphis, Tennessee 38104 EIN #: 82-3293908 PAID FOR BY COMMITTEE TO ELECT TORREY HARRIS. © # Committee to Elect Torrey Harris.
+All rights reserved.
+Privacy Policy · SMS Opt-In Form . · Español

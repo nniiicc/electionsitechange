@@ -1,12 +1,50 @@
 [
-"https://bsky.app/profile/rehrauer.bsky.social",
-"https://facebook.com/kariformn",
-"https://flickr.com/photos/196213607@N02/sets/72177720301085010",
-"https://kariformn.com/",
-"https://kariformn.com/about-kari",
-"https://kariformn.com/endorsements",
-"https://kariformn.com/get-involved",
-"https://kariformn.com/priorities",
-"https://secure.actblue.com/donate/kari-for-minnesota-1",
-"https://techforcampaigns.org/"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/rehrauer.bsky.social"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kari-for-minnesota-1"
+},
+{
+"text": "Endorsements",
+"href": "https://kariformn.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/kariformn"
+},
+{
+"text": "Flickr",
+"href": "https://www.flickr.com/photos/196213607@N02/sets/72177720301085010/"
+},
+{
+"text": "Get Involved",
+"href": "https://kariformn.com/get-involved/"
+},
+{
+"text": "Kari For Minnesota",
+"href": "https://kariformn.com/"
+},
+{
+"text": "Meet Kari",
+"href": "https://kariformn.com/about-kari/"
+},
+{
+"text": "Priorities",
+"href": "https://kariformn.com/priorities/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "[image: Kari For Minnesota]",
+"href": "https://kariformn.com/"
+},
+{
+"text": "info@kariformn.com",
+"href": "mailto:info@kariformn.com"
+}
 ]

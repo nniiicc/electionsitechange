@@ -1,10 +1,5 @@
-Where there's a Wilz, there's a way!
-Check Out the Latest News, Weather, and Events In District 25:
-Weather: https://ottumwaradio.com/ottumwa-weather/
-Local Events Page: https://ottumwaradio.com/events/
-Local News: https://ottumwaradio.com/category/news/local-news/
-Main Page to access everything: https://ottumwaradio.com/
-Hans Wilz, a dedicated Republican from Ottumwa, IA, has proudly announced his bid for a second term in the Iowa House of Representatives in District 25.
+Meet Hans News Photos Contribute Information Social Media Where there's a Wilz, there's a way!
+Check Out the Latest News, Weather, and Events In District 25: Weather: https://ottumwaradio.com/ottumwa-weather/ Local Events Page: https: //ottumwaradio.com/events/ Local News: https://ottumwaradio.com/category/news/local-news/ Main Page to access everything: https://ottumwaradio.com/ Hans Wilz, a dedicated Republican from Ottumwa, IA, has proudly announced his bid for a second term in the Iowa House of Representatives in District 25.
 Partnered with his wife, Beth, they have been successful business owners in Southeast Iowa for over 30 years, serving the community through their family business, Edd the Florist, which has been thriving since 1956.
 The Wilz family has found fulfillment in raising their children in Southeast Iowa and has cultivated strong ties through active involvement in local schools, sports, church activities, and community groups.
 Residing in Wapello County has allowed Hans to immerse himself in various community events such as chili suppers, silent auctions, Race for the Cure, and the Duck Races.
@@ -23,3 +18,11 @@ He took what we said seriously and made time no matter what.
 I know he’ll take the same focus and care to the Iowa Capitol”.
 Hans’ youngest son Marcus had this to say “Even though he traveled a lot he was always available and somehow got back in time to coach our teams in sports.
 Dad’s energy is needed to continue moving District 25 forward”.
+Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+News Position Statement on House File 583 Approval Hans in the House - Week 7, 2024 Hans in the House - Week 6, 2024 Hans in the House - Week 5, 2024 Hans in the House - Week 4, 2024 Events Photos Contact This website is sponsored by Wilz for Iowa and is for informational purposes only.
+The content does not provide legal, financial, or professional advice.
+While we strive to provide accurate information, we make no representations or warranties of any kind, and any reliance on the information is at your own risk.
+We are not liable for any loss or damage arising from the use of this website.
+Thank you for visiting our site.
+Powered by CampaignPartner.com - Political Campaign Websites Home Meet Hans Contribute Photos Events Issues News Contact Close Menu

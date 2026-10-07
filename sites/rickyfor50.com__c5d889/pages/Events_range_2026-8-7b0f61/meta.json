@@ -1,7 +1,11 @@
 {
  "description": "Ricky Santiago Campaign Events",
  "final_url": "https://rickyfor50.com/Events?range=2026-8",
- "paid_for_by": null,
+ "fingerprint": "aa52206682276439e5c5e86a20c9bb0535b77adf",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Ricky Santiago Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

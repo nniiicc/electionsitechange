@@ -1,17 +1,70 @@
 [
-"https://coleg.maps.arcgis.com/apps/View/index.html?appid=41b742a9931a4c87a6e43b01c734c0c9",
-"https://facebook.com/McCormickForCO",
-"https://instagram.com/karenforco",
-"https://karenforco.com/",
-"https://karenforco.com/about",
-"https://karenforco.com/cart",
-"https://karenforco.com/contact",
-"https://karenforco.com/endorsements",
-"https://karenforco.com/issues",
-"https://karenforco.com/issues-1",
-"https://karenforco.com/join-us",
-"https://karenforco.com/legislation",
-"https://karenforco.com/updates",
-"https://secure.actblue.com/donate/karenmccormickwebsite",
-"https://twitter.com/McCormickForCO"
+{
+"text": "0",
+"href": "https://karenforco.com/cart"
+},
+{
+"text": "About",
+"href": "https://karenforco.com/about"
+},
+{
+"text": "Back",
+"href": "https://karenforco.com/"
+},
+{
+"text": "Contact",
+"href": "https://karenforco.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/karenmccormickwebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://karenforco.com/endorsements"
+},
+{
+"text": "Folder: Issues",
+"href": "https://karenforco.com/issues-1"
+},
+{
+"text": "Home",
+"href": "https://karenforco.com/"
+},
+{
+"text": "Issues",
+"href": "https://karenforco.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://karenforco.com/join-us"
+},
+{
+"text": "Legislation",
+"href": "https://karenforco.com/legislation"
+},
+{
+"text": "Updates",
+"href": "https://karenforco.com/updates"
+},
+{
+"text": "[image: Karen for Colorado]",
+"href": "https://karenforco.com/"
+},
+{
+"text": "[image: Longmont re-districting]",
+"href": "https://coleg.maps.arcgis.com/apps/View/index.html?appid=41b742a9931a4c87a6e43b01c734c0c9"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/McCormickForCO"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/McCormickForCO/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/karenforco/"
+}
 ]

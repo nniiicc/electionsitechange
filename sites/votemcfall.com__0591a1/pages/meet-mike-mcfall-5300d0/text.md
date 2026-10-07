@@ -1,17 +1,10 @@
-About Me
-Meet Mike McFall
-Rooted in Our Community
-A Neighbor-First Leader Delivering Real Results
-My approach to public service started at the local level, serving on the Hazel Park City Council, as well as mayor pro tem.
+Skip to content Home Meet Mike Priorities Endorsements District Media Contact Volunteer Yard Signs Home Meet Mike Priorities Endorsements District Media Contact Volunteer Yard Signs Donate Home Meet Mike Priorities Endorsements District Media Contact Volunteer Yard Signs Home Meet Mike Priorities Endorsements District Media Contact Volunteer Yard Signs Donate About Me Meet Mike McFall Rooted in Our Community A Neighbor-First Leader Delivering Real Results My approach to public service started at the local level, serving on the Hazel Park City Council, as well as mayor pro tem.
 That experience shaped how I lead today: listening to residents, solving problems, and delivering for the community.
 I know that the best solutions come from the people who live and work here, and I bring those voices with me to Lansing every day.
-Fighting for Our Shared Values
-Protecting Rights, Expanding Opportunity, and Delivering for Every Resident
-I am committed to making sure everyone in our community is treated with dignity and respect—and has a fair shot to succeed.
-I’m focused on the issues that matter most to local families:
-- Making health care and mental health care more accessible and affordable
-- Supporting workers, fair wages, and secure retirements
-- Protecting civil rights and equality for all Michiganders
-- Strengthening local governments and bringing resources back to our communities
-- Protecting clean water and building resilient infrastructure
-For me, this work is about bringing people together, delivering real progress, and making sure no one is left behind.
+Request a Yard Sign Fighting for Our Shared Values Protecting Rights, Expanding Opportunity, and Delivering for Every Resident I am committed to making sure everyone in our community is treated with dignity and respect—and has a fair shot to succeed.
+I’m focused on the issues that matter most to local families: Making health care and mental health care more accessible and affordable Supporting workers, fair wages, and secure retirements Protecting civil rights and equality for all Michiganders Strengthening local governments and bringing resources back to our communities Protecting clean water and building resilient infrastructure For me, this work is about bringing people together, delivering real progress, and making sure no one is left behind.
+Donate today to help me keep delivering real results for our community.
+Every dollar helps power the outreach and organizing it takes to win. $25 $50 $100 $250 $500 $1,225 Other $25 $50 $100 $250 $500 $1,225 Other Instagram Facebook Paid for by Friends of Mike McFall, P.O.
+Box 911, Hazel Park, MI 48030 Home Meet Mike Priorities Contact Volunteer Yard Signs Home Meet Mike Priorities Contact Volunteer Yard Signs Donate Paid for by Friends of Mike McFall, P.O.
+Box 911, Hazel Park, MI 48030 Donate to Help Re-Elect Mike McFall Chip in to Keep Mike Fighting for Our Communities Every dollar helps Mike keep delivering results—lowering costs, strengthening our communities, and standing up for what matters most.
+Make a quick contribution today and be part of Team McFall. $25 $50 $100 $250 $500 $1,225 Other

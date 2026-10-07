@@ -1,10 +1,42 @@
 [
-"https://facebook.com/profile.php?id=61555303231280",
-"https://honeywick.com/",
-"https://instagram.com/joshua4kentucky",
-"https://secure.actblue.com/donate/re-elect-watkins-for-42",
-"https://votejoshuawatkins.com/",
-"https://votejoshuawatkins.com/cdn-cgi/l/email-protection",
-"https://votejoshuawatkins.com/contact",
-"https://votejoshuawatkins.com/my-focus-for-next-term"
+{
+"text": "CONTACT",
+"href": "https://votejoshuawatkins.com/contact/"
+},
+{
+"text": "CONTACT ME",
+"href": "https://votejoshuawatkins.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/re-elect-watkins-for-42"
+},
+{
+"text": "Honeywick",
+"href": "https://honeywick.com/"
+},
+{
+"text": "MEET",
+"href": "mailto:votejoshuawatkins@gmail.com?subject=I+Would+Like+To+Meet%21"
+},
+{
+"text": "MEET JOSHUA",
+"href": "mailto:votejoshuawatkins@gmail.com?subject=I+Would+Like+To+Meet%21"
+},
+{
+"text": "MY FOCUS FOR NEXT TERM",
+"href": "https://votejoshuawatkins.com/my-focus-for-next-term/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61555303231280"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/joshua4kentucky/"
+},
+{
+"text": "[image: Vote Joshua Watkins]",
+"href": "https://votejoshuawatkins.com/"
+}
 ]

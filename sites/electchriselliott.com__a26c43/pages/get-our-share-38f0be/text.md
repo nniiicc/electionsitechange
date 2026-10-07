@@ -1,8 +1,6 @@
-Baldwin County Deserves Our Fair Share!
+Skip to content 251-990-4615 Home Meet Chris Working for You Get Our Share Contact Home Meet Chris Working for You Get Our Share Contact DONATE DONATE Home Meet Chris Working for You Get Our Share Contact Home Meet Chris Working for You Get Our Share Contact Baldwin County Deserves Our Fair Share!
 "According to local newspapers, south Alabama contributes almost 26% of the total revenue generated in Alabama and yet we get back pennies on the dollar.
-I’ve worked hard as a county commissioner to make do with what we have but now I am taking our fight to Montgomery – to get back our share."
-HISTORY
-Our rivers are full of fish, the streets are lined with oak trees, we have miles of sparkling beaches, and acres of productive farmland.
+I’ve worked hard as a county commissioner to make do with what we have but now I am taking our fight to Montgomery – to get back our share." HISTORY Our rivers are full of fish, the streets are lined with oak trees, we have miles of sparkling beaches, and acres of productive farmland.
 Our schools are some of the best in the state, unemployment is low and property values are high.
 The secret is out – Baldwin County is a great place to live.
 But just as the water is full of fish, our communities are filling up fast with new people and we are stretching the seams.
@@ -14,16 +12,13 @@ We aren’t the only ones that benefit from what Baldwin County has to offer.
 Our community plays an important, yet undervalued role in the economy of our state.
 Our contributions to the state steadily increase, which means we should see an increase in how much funding we get back from the state.
 Coastal counties are outnumbered in Montgomery, and as a result, we only get a portion of what we deserve.
-FACT:
-Baldwin County hosted close to 6 million guests in 2016, 1,600 of which stayed overnight.
+FACT: Baldwin County hosted close to 6 million guests in 2016, 1,600 of which stayed overnight.
 The taxes collected from their hotel and condo stays put about $637,500 in the state’s general fund.
 Coastal Alabama contributed 40% of the states total lodging tax, which is 4 times it’s share proportionately.
 We only saw one quarter of that 40% actually come back into Baldwin County.
-FACT:
-When Deepwater Horizon spilled 210 million gallons of oil into our local waters, it devastated our coastal communities.
+FACT: When Deepwater Horizon spilled 210 million gallons of oil into our local waters, it devastated our coastal communities.
 Rather than help us rebuild, Governor Bentley and the Alabama Legislature robbed us blind, stealing millions in BP funding meant for coastal and economic restoration so that they could use it to pay off statewide debits like the rainy-day fund and to prop up Medicaid spending.
-FACT:
-As Baldwin County grows, real estate is selling quickly, and our property values remain high.
+FACT: As Baldwin County grows, real estate is selling quickly, and our property values remain high.
 Those property taxes help fund our school system, so each time a house is built or bought in Baldwin County, our school system gets that much stronger.
 We collected roughly $140,000,000 in property taxes last year.
 That’s $10,000,000 more than we collected in 2016, and yet somehow the Baldwin County School Board was given $90,000 less in monthly allocations from the state.
@@ -42,3 +37,9 @@ Baldwin County has contributed millions of dollars to the state’s general fund
 We have created jobs throughout the state, helped bolster the public-school system, and pad the general budget.
 We have done our part.
 It’s time we send someone to Montgomery who will fight for our fair share.
+Paid for by Friends of Chris Elliott, P.O.
+Box 1026, Fairhope, AL 36533 By providing your phone number and/or email, you are consenting to receive emails, calls, and SMS/MMS messages, including autodialed and automated calls and texts, to that number from Friends of Chris Elliott.
+Message and data rates may apply.
+Message frequency may vary.
+Text STOP to opt out or HELP for help.
+You can view our Privacy Policy and Mobile Terms of Service here: https://electchriselliott.com/privacypolicy Privacy Policy | Terms & Conditions | Accessibility | © Copyright # – All rights reserved

@@ -1,23 +1,98 @@
 [
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F",
-"https://facebook.com/electjasonwoolford",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F&t=Test+Post",
-"https://jasonwoolford.com/",
-"https://jasonwoolford.com/agenda",
-"https://jasonwoolford.com/author/jwoolford",
-"https://jasonwoolford.com/category/uncategorized",
-"https://jasonwoolford.com/endorsements",
-"https://jasonwoolford.com/howell-opera-house",
-"https://jasonwoolford.com/join",
-"https://jasonwoolford.com/meet-jason",
-"https://jasonwoolford.com/press-releases",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F&title=Test+Post&summary=This+is+a+test+post.",
-"https://pinterest.com/pin/create/button?url=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F&description=This+is+a+test+post.",
-"https://reddit.com/submit?url=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F&title=Test+Post",
-"https://secure.anedot.com/49ac2066-dfd7-4153-a8da-15a58fe6fcd0/e49e363e-c512-4ab2-a730-6cdfe8afd6b0",
-"https://tumblr.com/share/link?url=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F&name=Test+Post&description=This+is+a+test+post.",
-"https://vk.com/share.php?url=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F&title=Test+Post&description=This+is+a+test+post.",
-"https://x.com/intent/post?url=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F&text=Test+Post",
-"https://xing.com/social_plugins/share/new?sc_p=xing-share&h=1&url=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F",
-"https://youtube.com/@JWMChannel"
+{
+"text": "AGENDA",
+"href": "https://jasonwoolford.com/agenda/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/49ac2066-dfd7-4153-a8da-15a58fe6fcd0/e49e363e-c512-4ab2-a730-6cdfe8afd6b0"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://jasonwoolford.com/endorsements/"
+},
+{
+"text": "Email",
+"href": "mailto:?body=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F&subject=Test+Post"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/electjasonwoolford"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F&t=Test+Post"
+},
+{
+"text": "HOME",
+"href": "https://jasonwoolford.com/"
+},
+{
+"text": "JOIN US",
+"href": "https://jasonwoolford.com/join/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F&title=Test+Post&summary=This+is+a+test+post."
+},
+{
+"text": "MEET JASON",
+"href": "https://jasonwoolford.com/meet-jason/"
+},
+{
+"text": "PRESS & EVENTS",
+"href": "https://jasonwoolford.com/press-releases/"
+},
+{
+"text": "Pinterest",
+"href": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F&description=This+is+a+test+post.&media="
+},
+{
+"text": "Previous",
+"href": "https://jasonwoolford.com/howell-opera-house/"
+},
+{
+"text": "Reddit",
+"href": "https://reddit.com/submit?url=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F&title=Test+Post"
+},
+{
+"text": "Tumblr",
+"href": "https://www.tumblr.com/share/link?url=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F&name=Test+Post&description=This+is+a+test+post."
+},
+{
+"text": "Uncategorized",
+"href": "https://jasonwoolford.com/category/uncategorized/"
+},
+{
+"text": "Vk",
+"href": "https://vk.com/share.php?url=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F&title=Test+Post&description=This+is+a+test+post."
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F"
+},
+{
+"text": "X",
+"href": "https://www.facebook.com/electjasonwoolford"
+},
+{
+"text": "X",
+"href": "https://x.com/intent/post?url=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F&text=Test+Post"
+},
+{
+"text": "Xing",
+"href": "https://www.xing.com/social_plugins/share/new?sc_p=xing-share&h=1&url=https%3A%2F%2Fjasonwoolford.com%2Ftest-post%2F"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@JWMChannel"
+},
+{
+"text": "[image: Jason Woolford Logo]",
+"href": "https://jasonwoolford.com/"
+},
+{
+"text": "jwoolford",
+"href": "https://jasonwoolford.com/author/jwoolford/"
+}
 ]

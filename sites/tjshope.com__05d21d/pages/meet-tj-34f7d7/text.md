@@ -1,4 +1,7 @@
-Meet T.J.
+0 Skip to Content Meet T.J.
+Issues Contact Media Kit DONATE Open Menu Close Menu Meet T.J.
+Issues Contact Media Kit DONATE Open Menu Close Menu Meet T.J.
+Issues Contact Media Kit DONATE Meet T.J.
 T.J.
 Shope has a broad and diverse family background, rooted in his community.
 His grandmother and grandfather, Luisa and Jesse Salazar, have been a positive influence in T.J.'s life.
@@ -15,3 +18,12 @@ He knows and understands what needs to be done to help his constituents.
 T.J. has received recognition from all types of organizations because of his work at the capitol.
 He won the "Freshman of the Year" award from the Arizona Mining Association, was recognized as one of the "Tech Ten" legislators by the Arizona Technology Council, and many other impressive accolades.
 His commitment to finding real solutions to real problems is obvious, and those who know him recognize his strong work ethic, bright mind, and dedication to the people of his community.
+State Senator T.J.
+Shope with his wife, Melissa Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join The Campaign!
+Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Paid for by Shope for Senate.
+Authorized by T.J.
+Shope.

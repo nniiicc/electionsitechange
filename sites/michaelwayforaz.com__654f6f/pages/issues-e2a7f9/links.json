@@ -1,28 +1,126 @@
 [
-"http://facebook.com/MichaelWayForArizona",
-"https://azleg.gov/legtext/57leg/1R/bills/HB2031P.pdf",
-"https://azleg.gov/legtext/57leg/1R/bills/HB2046H.htm",
-"https://azleg.gov/legtext/57leg/1R/bills/HB2058P.pdf",
-"https://azleg.gov/legtext/57leg/1R/bills/HB2099P.pdf",
-"https://azleg.gov/legtext/57leg/1R/bills/HB2205P.pdf",
-"https://azleg.gov/legtext/57leg/1R/bills/HB2632P.htm",
-"https://azleg.gov/legtext/57leg/1R/laws/0030.pdf",
-"https://azleg.gov/legtext/57leg/1R/summary/H.HB2670_021925_HOUSEENGROSSED.DOCX.htm",
-"https://azleg.gov/legtext/57leg/1r/bills/hb2012p.htm",
-"https://azleg.gov/legtext/57leg/1r/bills/hb2050p.htm",
-"https://azleg.gov/legtext/57leg/1r/bills/hb2547h.pdf",
-"https://azleg.gov/legtext/57leg/1r/bills/hb2663p.htm",
-"https://azleg.gov/legtext/57leg/1r/laws/0089.htm",
-"https://legiscan.com/AZ/text/HB2055/2025",
-"https://legiscan.com/AZ/text/HB2060/2025",
-"https://legiscan.com/AZ/text/HB2112/2025",
-"https://legiscan.com/AZ/text/HB2521/2025",
-"https://legiscan.com/AZ/text/HB2867/2025",
-"https://legiscan.com/AZ/text/HB2868/2025",
-"https://michaelwayforaz.com/",
-"https://michaelwayforaz.com/about",
-"https://michaelwayforaz.com/donate",
-"https://michaelwayforaz.com/issues",
-"https://x.com/MichaelWayAZ",
-"https://youtube.com/@MichaelWay-bf3pg"
+{
+"text": "About",
+"href": "https://www.michaelwayforaz.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://www.michaelwayforaz.com/donate/"
+},
+{
+"text": "Donate!",
+"href": "https://www.michaelwayforaz.com/donate/"
+},
+{
+"text": "HB2012 – No Mandates for Emergency Use Products",
+"href": "https://www.azleg.gov/legtext/57leg/1r/bills/hb2012p.htm"
+},
+{
+"text": "HB2031 – Agricultural Regulation Reform",
+"href": "https://www.azleg.gov/legtext/57leg/1R/bills/HB2031P.pdf"
+},
+{
+"text": "HB2046 – Verifying Arizona Votes Act",
+"href": "https://www.azleg.gov/legtext/57leg/1R/bills/HB2046H.htm"
+},
+{
+"text": "HB2050 – Signature Verification Act",
+"href": "https://www.azleg.gov/legtext/57leg/1r/bills/hb2050p.htm"
+},
+{
+"text": "HB2055 – Immunization Choice Protection Act",
+"href": "https://legiscan.com/AZ/text/HB2055/2025"
+},
+{
+"text": "HB2058 – SCHOOL IMMUNIZATION EXEMPTION ACT",
+"href": "https://www.azleg.gov/legtext/57leg/1R/bills/HB2058P.pdf"
+},
+{
+"text": "HB2060 – Sovereign Elections Defense Act",
+"href": "https://legiscan.com/AZ/text/HB2060/2025"
+},
+{
+"text": "HB2099 – Immigration Enforcement Act",
+"href": "https://www.azleg.gov/legtext/57leg/1R/bills/HB2099P.pdf"
+},
+{
+"text": "HB2112 – Online Child Protection Act",
+"href": "https://legiscan.com/AZ/text/HB2112/2025"
+},
+{
+"text": "HB2205 – Election Procedures Enhancement Act",
+"href": "https://www.azleg.gov/legtext/57leg/1R/bills/HB2205P.pdf"
+},
+{
+"text": "HB2405 – Medical Waste Reduction Act",
+"href": "https://www.azleg.gov/legtext/57leg/1R/laws/0030.pdf"
+},
+{
+"text": "HB2521 – Foreign Influence Ban",
+"href": "https://legiscan.com/AZ/text/HB2521/2025"
+},
+{
+"text": "HB2547 – No Public Funding for Abortion",
+"href": "https://www.azleg.gov/legtext/57leg/1r/bills/hb2547h.pdf"
+},
+{
+"text": "HB2632 – Regulatory Cost Management Act",
+"href": "https://www.azleg.gov/legtext/57leg/1R/bills/HB2632P.htm"
+},
+{
+"text": "HB2663 – Classroom Management & Student Readmission",
+"href": "https://www.azleg.gov/legtext/57leg/1r/bills/hb2663p.htm"
+},
+{
+"text": "HB2670 – Arizona Fetal Development Education Act",
+"href": "https://www.azleg.gov/legtext/57leg/1R/summary/H.HB2670_021925_HOUSEENGROSSED.DOCX.htm"
+},
+{
+"text": "HB2733 – Border Drone Protection",
+"href": "https://www.azleg.gov/legtext/57leg/1r/laws/0089.htm"
+},
+{
+"text": "HB2867 – Antisemitism Prohibition Act",
+"href": "https://legiscan.com/AZ/text/HB2867/2025"
+},
+{
+"text": "HB2868 – Equal Opportunity in Education Act",
+"href": "https://legiscan.com/AZ/text/HB2868/2025"
+},
+{
+"text": "Home",
+"href": "https://www.michaelwayforaz.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.michaelwayforaz.com/issues/"
+},
+{
+"text": "[image: Screen%20Shot%202025 01 29%20at%207.07.33%20PM]",
+"href": "https://www.michaelwayforaz.com/"
+},
+{
+"text": "[image: footerlogo]",
+"href": "https://www.michaelwayforaz.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/MichaelWayForArizona/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MichaelWay-bf3pg"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MichaelWayAZ"
+},
+{
+"text": "[no text]",
+"href": "mailto:team@michaelwayforaz.com"
+},
+{
+"text": "team@MichaelWayforAZ.com",
+"href": "mailto:team@MichaelWayforAZ.com"
+}
 ]

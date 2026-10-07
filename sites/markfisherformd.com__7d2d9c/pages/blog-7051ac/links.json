@@ -1,7 +1,34 @@
 [
-"https://facebook.com/wix",
-"https://markfisherformd.com/",
-"https://markfisherformd.com/blog",
-"https://wix.com/templateslp/links",
-"https://youtube.com/user/Wix"
+{
+"text": "All Posts",
+"href": "https://www.markfisherformd.com/blog"
+},
+{
+"text": "Blog",
+"href": "https://www.markfisherformd.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://www.markfisherformd.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.wix.com/templateslp/links"
+},
+{
+"text": "Home",
+"href": "https://www.markfisherformd.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: X]",
+"href": "https://www.youtube.com/user/Wix"
+},
+{
+"text": "mark4maryland@gmail.com",
+"href": "mailto:mark4maryland@gmail.com"
+}
 ]

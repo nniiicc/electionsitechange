@@ -1,13 +1,54 @@
 [
-"https://bsky.app/profile/nickfornemo.bsky.social",
-"https://facebook.com/NickForNEMO",
-"https://instagram.com/nickfornemo",
-"https://nickfornemo.org/",
-"https://nickfornemo.org/contact-nick-miller",
-"https://nickfornemo.org/meet-nick-miller",
-"https://nickfornemo.org/platform",
-"https://secure.actblue.com/donate/nick-miller-1",
-"https://tiktok.com/@nickfornemo",
-"https://truthsocial.com/@NickforNemo",
-"https://x.com/nickfornemo"
+{
+"text": "Contact",
+"href": "https://nickfornemo.org/contact-nick-miller"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/nick-miller-1"
+},
+{
+"text": "Home",
+"href": "https://nickfornemo.org/"
+},
+{
+"text": "Meet Nick",
+"href": "https://nickfornemo.org/meet-nick-miller"
+},
+{
+"text": "Platform",
+"href": "https://nickfornemo.org/platform"
+},
+{
+"text": "[image: Nick for NEMO logo]",
+"href": "https://nickfornemo.org/"
+},
+{
+"text": "[tooltip: Go to Bluesky page]",
+"href": "https://bsky.app/profile/nickfornemo.bsky.social"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/NickForNEMO"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/nickfornemo"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/nickfornemo/"
+},
+{
+"text": "[tooltip: Go to Tiktok page]",
+"href": "https://www.tiktok.com/@nickfornemo"
+},
+{
+"text": "[tooltip: Go to Truth-social page]",
+"href": "https://truthsocial.com/@NickforNemo"
+},
+{
+"text": "[tooltip: Go to Twitter page]",
+"href": "https://x.com/nickfornemo"
+}
 ]

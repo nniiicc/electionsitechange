@@ -1,12 +1,4 @@
-3/27/2025 News
-NTD Television
-Catherine Fleming Bruce 2026
-United States Senate
-To Preserve, Protect and Defend
-our Economy, our Democracy, and our Civil Rights through Power of the People
-“The People’s candidate”
-“In the South Carolina Democratic Senate primary, Catherine Fleming Bruce will advance to a June 28 runoff against an opponent to be determined, CNN projects.” ~ CNN, June 14, 2022 #Frontrunner
-I am a daughter of the late Sumter County Council Chair Louis Fleming and Mrs.
+JOIN US DONATE house About Catherine Catherine’s Platform In the News Voting Information Catherine Fleming Bruce 2026 United States Senate To Preserve, Protect and Defend our Economy, our Democracy, and our Civil Rights through Power of the People “The People’s candidate” “In the South Carolina Democratic Senate primary, Catherine Fleming Bruce will advance to a June 28 runoff against an opponent to be determined, CNN projects.” ~ CNN , June 14, 2022 #Frontrunner Meet Catherine Fleming Bruce I am a daughter of the late Sumter County Council Chair Louis Fleming and Mrs.
 Emma Fleming.
 My mission is public service.
 I have worked with partners in every county in the Palmetto State, in other states, and in other parts of the world, to support legislation that protects our rights, expands economic opportunity and defends democratic values.
@@ -36,23 +28,14 @@ I won a grant, usually reserved for faculty, supporting multicultural awareness 
 I earned my MA in Mass Communication and Information Studies at the University of South Carolina, and also pursued doctoral studies there.
 After the death of my husband, I was my child’s sole support.
 Though I have endured many hard times, I have persisted, with the example of my parents, my mother Emma, a school teacher and my late father Louis, who served in the US Army and served his community as Sumter County Council Chairman.
-I believed in 2022, and I believe today that a critical task before us is to vote to ensure that the majority of our nation’s elected leaders are committed to our Constitution, our democracy, and a future where the challenges before us are strategically and properly addressed.
+Why I'm Running in 2026 I believed in 2022, and I believe today that a critical task before us is to vote to ensure that the majority of our nation’s elected leaders are committed to our Constitution, our democracy, and a future where the challenges before us are strategically and properly addressed.
 Only in this way can our diverse populations thrive together in a just system of opportunity and common good.
-Watch the video from my 2022 launch:
-My platform is a robust pro-democracy pro-inclusion pro-economy agenda that targets the following issues:
-Early Voting for 2026 General Election starts Tuesday, October 13th
-General election: Tuesday, November 3, 2026
+Watch the video from my 2022 launch: My Platform My platform is a robust pro-democracy pro-inclusion pro-economy agenda that targets the following issues: Anti-Corruption Healthcare Voting Rights and Democracy Foreign Policy Jobs and Economic Recovery Women’s Rights Gun Reform Climate Action Legislative Redress Worker Protections Students and Seniors Criminal Justice Reform Housing Immigration Small and Rural Communities LGBTQ+ Active Duty Military and Veterans Energy Policy How to Vote in South Carolina FIND YOUR POLLING PLACE LEARN MORE Learn About Early Voting LEARN MORE ABSENTEE BALLOT INFORMATION LEARN MORE Voting FAQ When is Election Day?
+Early Voting for 2026 General Election starts Tuesday, October 13th General election: Tuesday, November 3, 2026 What’s my polling place?
 Check your polling place at IWillVote.com.
 Your polling place may have changed, even since the November election, so it’s important to double check!
-- A South Carolina Driver’s License
-- Valid U.S. passport
-- Valid South Carolina Department of Motor Vehicles (DMV) ID card, includes SC Concealed Weapons Permit
-- Valid SC Voter Registration Card with photo
-- Valid Federal Military ID, including all Department of Defense Photo IDs and Veterans Affairs Benefits Card
-Remember that your voter registration card is NOT a proper ID, and you are not required to present it to vote.
-News
-5/18/2023 News
-WATCH
-South Carolina Public Radio/Associated Press
-Charleston City Paper
-Greenwood County Democratic Party
+IWILLVOTE.COM What can I use as my photo ID?
+A South Carolina Driver’s License Valid U.S. passport Valid South Carolina Department of Motor Vehicles (DMV) ID card, includes SC Concealed Weapons Permit Valid SC Voter Registration Card with photo Valid Federal Military ID, including all Department of Defense Photo IDs and Veterans Affairs Benefits Card Remember that your voter registration card is NOT a proper ID, and you are not required to present it to vote.
+Check this link for more details Catherine in the News 04/04/2025 News Trump Endorses Lindsey Graham’s 2026 Reelection Bid 3/27/2025 News NTD Television 04/04/2025 News Local preservation leaders need support saving black history in Richland County 5/18/2023 News WATCH 08/09/2022 News SC Democrats call on their US Senate nominee to quit South Carolina Public Radio/Associated Press 06/15/2022 News Nevada, South Carolina, Maine and North Dakota primaries CNN 06/04/2022 News Some Lowcountry lawmakers, candidates commit to action on gun violence.
+Most don’t.
+Charleston City Paper 06/04/2022 News Breakfast Meeting Feb 2022: Catherine Fleming Bruce, candidate for US Senate Greenwood County Democratic Party All Press Coverage PAID FOR BY CATHERINE FLEMING BRUCE FOR UNITED STATES SENATE · PO Box 50055, Columbia, South Carolina 29250 cfb@catherineflemingbruce.com Menu

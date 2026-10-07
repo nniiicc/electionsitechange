@@ -1,12 +1,62 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScBf-8qHstI2JcESimHfHFjwshun74D32GtX34-9csoBDSY3Q/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSe-QSZzdKLul4ccbR8mEFUNEeCMFs53_y_a5VfYYhFGXfE4CA/viewform?usp=header",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fmartha-brown-19a&sa=D&sntz=1&usg=AOvVaw3bozPCmXio6mYfCyQrqHFw",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61576584371781&sa=D&sntz=1&usg=AOvVaw3WY6g6ml6cA-Mv5ILqfEvD",
-"https://marthabrown19a.com/endorsements",
-"https://marthabrown19a.com/home",
-"https://marthabrown19a.com/home/events",
-"https://marthabrown19a.com/issues",
-"https://marthabrown19a.com/meet-martha",
-"https://marthabrown19a.com/where-do-i-vote-for-martha"
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fmartha-brown-19a&sa=D&sntz=1&usg=AOvVaw3bozPCmXio6mYfCyQrqHFw"
+},
+{
+"text": "Endorsements",
+"href": "https://www.marthabrown19a.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.marthabrown19a.com/home/events"
+},
+{
+"text": "Home",
+"href": "https://www.marthabrown19a.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.marthabrown19a.com/issues"
+},
+{
+"text": "Martha Brown HD 19a",
+"href": "https://www.marthabrown19a.com/home"
+},
+{
+"text": "Meet Martha",
+"href": "https://www.marthabrown19a.com/meet-martha"
+},
+{
+"text": "Sign Up",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe-QSZzdKLul4ccbR8mEFUNEeCMFs53_y_a5VfYYhFGXfE4CA/viewform?usp=header"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScBf-8qHstI2JcESimHfHFjwshun74D32GtX34-9csoBDSY3Q/viewform?usp=header"
+},
+{
+"text": "Where Do I Vote for Martha?",
+"href": "https://www.marthabrown19a.com/where-do-i-vote-for-martha"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61576584371781&sa=D&sntz=1&usg=AOvVaw3WY6g6ml6cA-Mv5ILqfEvD"
+},
+{
+"text": "[image]",
+"href": "https://www.marthabrown19a.com/home"
+},
+{
+"text": "[image]I just gave to Martha Brown!Show your support with a contribution.",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fmartha-brown-19a&sa=D&sntz=1&usg=AOvVaw3bozPCmXio6mYfCyQrqHFw"
+},
+{
+"text": "[image]Martha Brown HD 19a",
+"href": "https://www.marthabrown19a.com/home"
+},
+{
+"text": "marthabrown19a@gmail.com",
+"href": "mailto:marthabrown19a@gmail.com"
+}
 ]

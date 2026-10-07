@@ -1,12 +1,50 @@
 [
-"https://electdavidgolden.com/",
-"https://electdavidgolden.com/about",
-"https://electdavidgolden.com/contact",
-"https://electdavidgolden.com/get-involved",
-"https://electdavidgolden.com/issues",
-"https://electdavidgolden.com/privacy",
-"https://electdavidgolden.com/terms",
-"https://facebook.com/electdavidgolden",
-"https://instagram.com/electdavidgolden",
-"https://secure.anedot.com/committee-to-elect-david-golden/donate"
+{
+"text": "About",
+"href": "https://www.electdavidgolden.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.electdavidgolden.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/committee-to-elect-david-golden/donate"
+},
+{
+"text": "Email",
+"href": "mailto:David@ElectDavidGolden.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/electdavidgolden/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electdavidgolden.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.electdavidgolden.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/electdavidgolden/"
+},
+{
+"text": "Issues",
+"href": "https://www.electdavidgolden.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electdavidgolden.com/privacy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.electdavidgolden.com/terms"
+},
+{
+"text": "[image: David Golden for State Representative]",
+"href": "https://www.electdavidgolden.com/"
+}
 ]

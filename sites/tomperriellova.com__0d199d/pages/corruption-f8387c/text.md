@@ -1,3 +1,4 @@
-Corruption is expensive.
+Skip navigation menu Home About Issues and Priorities Students Contact More Donate Ending Corruption & Getting Our Money Back Home About Issues and Priorities Students Contact More Donate Ending Corruption & Getting Our Money Back Corruption is expensive.
 When a utility monopoly writes the energy rules, when a middleman sets the price of your insulin, when a defense contractor writes its own contract, the bill lands on your power statement, your prescription, and your taxes.
 Tom is running to shut down the gravy train and get that money back to the people it was taken from.
+Why You Can Trust Tom Tom's Action Plan Privacy Policy Terms & Conditions Media Kit P.O Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.

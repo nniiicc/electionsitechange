@@ -1,8 +1,30 @@
 [
-"https://facebook.com/foxformissouri",
-"https://foxformissouri.com/",
-"https://foxformissouri.com/cart",
-"https://foxformissouri.com/contact",
-"https://foxformissouri.com/support",
-"https://secure.winred.com/committee-to-elect-phil-fox/donate-today"
+{
+"text": "0",
+"href": "https://www.foxformissouri.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.foxformissouri.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-phil-fox/donate-today"
+},
+{
+"text": "Support",
+"href": "https://www.foxformissouri.com/support"
+},
+{
+"text": "[image: Phil Fox for Missouri]",
+"href": "https://www.foxformissouri.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/foxformissouri"
+},
+{
+"text": "foxformissouri@gmail.com",
+"href": "mailto:foxformissouri@gmail.com"
+}
 ]

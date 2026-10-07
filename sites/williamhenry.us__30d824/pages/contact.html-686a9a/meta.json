@@ -1,7 +1,9 @@
 {
  "description": "Please contact William Henry. William Henry is a military veteran, political candidate, advocate, and activist in Indiana.",
  "final_url": "https://www.williamhenry.us/contact.html",
- "paid_for_by": null,
+ "fingerprint": "992361de65f2d5037f9d01b752a520ee63e287c0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact",
  "years_mentioned": []
 }

@@ -1,7 +1,11 @@
 {
  "description": "Meet Paul Kohlhoff, Republican candidate for Colorado Senate District 25: his story, his family, and why he's running.",
  "final_url": "https://paulforsd25.com/about.html",
- "paid_for_by": "Paid for by PAULFORSD25 Registered Agent: Paul Kohlhoff &copy; 2026 PAULFORSD25",
+ "fingerprint": "5ac00c7e346866d43fbe0bbe1e445d8fb79877e1",
+ "format": 3,
+ "paid_for_by": "Paid for by PAULFORSD25 Registered Agent: Paul Kohlhoff © 2026 PAULFORSD25",
  "title": "Meet Paul | Paul Kohlhoff for Colorado Senate District 25",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

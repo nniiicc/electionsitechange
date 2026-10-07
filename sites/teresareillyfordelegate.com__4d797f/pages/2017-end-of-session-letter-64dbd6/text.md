@@ -1,5 +1,4 @@
-Dear Constituent of 35 B:
-The 437th Session of the Maryland General Assembly began on Wednesday, January 11 and ended Sine Die, April 10 at midnight as prescribed by law.
+Home About Priorities Resources Scholarship Contact Us News 2017 End of Session Letter Apr 10, 2017 Teresa Reilly 0 Comments April 10, 2017 Dear Constituent of 35 B: The 437th Session of the Maryland General Assembly began on Wednesday, January 11 and ended Sine Die, April 10 at midnight as prescribed by law.
 I sponsored HB 664-State Government-Display of the POW/MIA Flag on State Building Grounds which passed both Houses of the General Assembly and is on the Governor’s desk for his signature.
 The bill requires the Secretary of General Services and the Secretary of Transportation to cause the POW/MIA flag to be flown on the grounds of all State buildings under their control whenever the U.S. flag is flown as long as it is structurally feasible.
 “POW/MIA flag” means the POW/MIA flag of the National League of Families of American Prisoners and Missing in Southeast Asia This bill would allow the State to show its support and respect for those service members who have yet to return home and remind the families that their loved ones will not be forgotten.
@@ -30,8 +29,7 @@ The Governor’s proposal was incorporated into this bill which passed the House
 I fully supported this legislation.
 I voted for the Governor’s Common Sense Spending Act of 2017 which would have ensured that future budgets prioritize key expenditures like education and health care, while giving leaders the flexibility to trim excessive cost increases that exceed revenues.
 Unfortunately, the General Assembly did not pass this initiative.
-I voted against HB 1362-Criminal Procedure-Immigration-Community Trust (otherwise known as the Sanctuary Bill) which expressed the intent of the General Assembly to maintain community trust in Maryland governmental operations and law enforcement by
-clarifying the parameters of State and local participation in federal immigration enforcement efforts.
+I voted against HB 1362-Criminal Procedure-Immigration-Community Trust (otherwise known as the Sanctuary Bill) which expressed the intent of the General Assembly to maintain community trust in Maryland governmental operations and law enforcement by clarifying the parameters of State and local participation in federal immigration enforcement efforts.
 Thanks to your grass roots efforts, this bill finally was withdrawn before the Senate vote.
 SJ 5-Attorney General-Powers-Maryland Defense Act of 2017 is a Joint Resolution of the General Assembly giving the Maryland Attorney General unprecedented power to sue the federal government.
 This legislation gives the Attorney General power to sue the federal government on any policy he disagrees with.
@@ -67,6 +65,5 @@ I enjoyed working with the Hogan Administration to bring to fruition some of the
 We hope to fulfill more of those promises to small businesses and those people who live in Maryland in the coming sessions.
 If you have any questions or concerns during the Interim, please do not hesitate to contact me at Teresa.reilly@house.state.md.us or at 410-841-3278.
 The Annapolis Office will be open on Tuesdays and Wednesdays from 9-4 if you wish to pay a visit.
-Sincerely,
-Teresa E.
-Reilly
+Sincerely, Teresa E.
+Reilly Category: News , Press Release About the Author Comments are closed. « Delegate Reilly receives 2016 Harford County Sheriff’s Salute and Silver Star 2018 End of Session Letter » Search for: Get Weekly Updates Sign up to get weekly e-newsletters about what's going on in Annapolis from Teresa during the legislative session. © Copyright # - Theme Chip Zero 1.2 by TutorialChip - Powered by WordPress 5.4.16

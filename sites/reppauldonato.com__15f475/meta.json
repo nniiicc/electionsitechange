@@ -1,9 +1,9 @@
 {
  "description": "Official site of Paul Daniel Donato, State Representative for Medford and Malden. Engage, subscribe, and get involved with Paul!",
  "final_url": "https://reppauldonato.com/",
- "paid_for_by": null,
+ "fingerprint": "13cfb61eb017f57acb4bc7cf13262949d9f02e23",
+ "format": 3,
+ "paid_for_by": "",
  "title": "State Rep Donato",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

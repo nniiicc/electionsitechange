@@ -1,6 +1,4 @@
-UNPREPARED CAIT CONLEY HIDES FROM DEBATES
-August 12, 2026
-This morning, the Lawler campaign announced four accepted debates and called on Cait Conley to stop playing chicken.
+Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate News UNPREPARED CAIT CONLEY HIDES FROM DEBATES August 12, 2026 This morning, the Lawler campaign announced four accepted debates and called on Cait Conley to stop playing chicken.
 Conley’s response?
 Refusing to debate on NBC’s Meet the Press and CNN’s State of the Union, two of the biggest stages in this race.
 Pearl River, NY — August 12, 2026… This morning, the Lawler for Congress campaign announced that Congressman Mike Lawler had accepted four televised debates and called on Democratic nominee Cait Conley to stop playing chicken and pick dates.
@@ -16,11 +14,12 @@ Mike Lawler said yes to both.
 Cait Conley said no to both.
 In late June, Conley went on Morning Joe and claimed Mike Lawler was afraid to square off with her.
 In April, she promised a primary forum at Manhattanville College that she would “Kick Lawler’s **s!” Offered the opportunity to do exactly that in front of a national audience, she ran.
-Lawler first challenged Conley to six debates on June 23, put it in writing on July 7, and publicly called on her to stop stalling on July 15.
+Lawler first challenged Conley to six debates on June 23 , put it in writing on July 7 , and publicly called on her to stop stalling on July 15 .
 Seven weeks later, the answer is in: no to the two biggest debates on the table.
 If Conley reverses course and tells NBC and CNN she will show up, the Lawler campaign will make any date work.
 She has also yet to accept News 12 on September 28 or Pix11 on October 14, and the CBS2 and Journal News debates cannot be finalized until her campaign actually engages.
 Mail ballots begin arriving in voters’ mailboxes after September 15 – thirty-four days from today.
-Lawler represents one of just a handful of Republican-held districts in the country carried by Kamala Harris in 2024 and won reelection by more than six points.
-In the latest nonpartisan Bridge Grades report card, he earned a 99.2 out of 100 for bipartisanship, the best score in New York’s congressional delegation, and in the 118th Congress he was ranked 4th-most bipartisan by the nonpartisan Lugar Center.
-###
+Lawler represents one of just a handful of Republican-held districts in the country carried by Kamala Harris in 2024 and won reelection by more than six points .
+In the latest nonpartisan Bridge Grades report card, he earned a 99.2 out of 100 for bipartisanship, the best score in New York’s congressional delegation , and in the 118th Congress he was ranked 4th-most bipartisan by the nonpartisan Lugar Center .
+### Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
+Privacy Policy | Terms & Conditions | Accessibility Statement

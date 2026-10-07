@@ -1,7 +1,11 @@
 {
  "description": "Stay informed with campaign announcements, official statements, policy updates, and press releases from Scott Petersen, candidate for Nebraska Secretary of State.",
  "final_url": "https://www.petersenfornebraska.com/press",
- "paid_for_by": "Paid for by Scott Petersen for Nebraska | 4121 S 87th Street, Omaha, NE 68127 DONATE REQUEST SIGN bottom of page",
+ "fingerprint": "dbfd03ddadaefb1c0b9b0bf759731d232dae1312",
+ "format": 3,
+ "paid_for_by": "Paid for by Scott Petersen for Nebraska",
  "title": "News | Scott Petersen for Nebraska Secretary of State",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

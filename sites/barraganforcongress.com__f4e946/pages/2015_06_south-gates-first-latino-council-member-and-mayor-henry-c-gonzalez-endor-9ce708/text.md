@@ -1,20 +1,17 @@
-FOR IMMEDIATE RELEASE
-June 18, 2015
-SAN PEDRO, CA – Today, retired South Gate mayor Henry C.
-Gonzalez endorsed Nanette Barragán for Congress in California’s 44th District.
-“‘Hammerin Hank’ championed the priorities of the Latino community in South Gate for decades,” said Barragán.
+Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Previous Next South Gate’s First Latino Council Member and Mayor Henry C.
+Gonzalez Endorses Nanette Barragán in CA-44 Primary FOR IMMEDIATE RELEASE June 18, 2015 SAN PEDRO, CA – Today, retired South Gate mayor Henry C.
+Gonzalez endorsed Nanette Barragán for Congress in California’s 44th District. “‘Hammerin Hank’ championed the priorities of the Latino community in South Gate for decades,” said Barragán.
 “He oversaw the transformation of South Gate into a safer community with real opportunity for hard working people and for families who were looking to build a home and a bright future for their children.
-His work inspires me in my bid to represent the 44th district in Congress.”
-In announcing his endorsement, Mayor Gonzalez cited Barragán’s dedication to fostering safe neighborhoods, creating economic opportunity for the families of the district, and her willingness to take on special interests.
+His work inspires me in my bid to represent the 44th district in Congress.” In announcing his endorsement, Mayor Gonzalez cited Barragán’s dedication to fostering safe neighborhoods, creating economic opportunity for the families of the district, and her willingness to take on special interests.
 “Nanette demonstrated tremendous courage and integrity when she stood up to Big Oil,” said Gonzalez.
 “That took guts.
 I see in her the same drive and passion I brought to the work I did in South Gate.
 She grew up in this district, and she has immigrant roots just like me.
 She knows how hard it is for children and families to get ahead if we aren’t giving them access to quality education and good-paying jobs.
-I know Nanette will continue the work I did in South Gate and further strengthen our community when she is elected to Congress.”
-Barragán, the daughter of immigrants from Mexico, grew up in Carson and the surrounding areas where she attended Stephen M.
+I know Nanette will continue the work I did in South Gate and further strengthen our community when she is elected to Congress.” Barragán, the daughter of immigrants from Mexico, grew up in Carson and the surrounding areas where she attended Stephen M.
 White Middle School, learned to swim at Carson Pool, and studied at the Carson Library.
 She worked her way through UCLA and law school at USC before becoming a long-time advocate for the environment and the first elected Latina member of the Hermosa Beach City Council.
 She was also a leader in the fight against Measure O, a ballot measure that would have allowed oil companies to drill for oil in the Santa Monica Bay.
-Find more information here: www.barraganforcongress.com
-###
+Find more information here: www.barraganforcongress.com ### BarraganForCongress 2015-07-02T15:48:49-07:00 June 18th, 2015 | Endorsements , Nanette Barragán news | Share This Story, Choose Your Platform!
+Facebook Twitter Linkedin Reddit Tumblr Google+ Pinterest Email Related Posts ICYMI: Our Revolution Backs Nanette Barragán for Congress ICYMI: Our Revolution Backs Nanette Barragán for Congress Daily Breeze Endorses Nanette Barragán in CA-44 Daily Breeze Endorses Nanette Barragán in CA-44 Chicano Latino Immigrant Democratic Club of Los Angeles County Endorses Nanette Barragán Chicano Latino Immigrant Democratic Club of Los Angeles County Endorses Nanette Barragán Former CA-44 Republican Candidate Christopher Castillo Endorses Nanette Barragán Former CA-44 Republican Candidate Christopher Castillo Endorses Nanette Barragán Barragán Neck and Neck With Hall in New CA-44 Poll Barragán Neck and Neck With Hall in New CA-44 Poll Like Nanette On Facebook Follow Nanette on Twitter Tweets by @MayorPTBarragan Popular Recent CLCV & LCV Action Fund Endorse Nanette Barragán for Congress December 11th, 2015 Labor Leader and Civil Rights Icon Dolores Huerta Endorses Nanette Barragán in CA-44 June 24th, 2016 Assemblymember Mike Gatto Endorses Nanette Barragán for Congress June 20th, 2016 Isadore Hall Pressures Insiders To Silence Nanette Diaz Barragán At Protest Of Trump’s Treatment Of Women & Minorities October 3rd, 2016 ICYMI: Our Revolution Backs Nanette Barragán for Congress September 29th, 2016 Daily Breeze Endorses Nanette Barragán in CA-44 September 28th, 2016 Mail: 1840 S.
+Gaffey Street, #421 San Pedro, CA 90731 Phone: 424-206-3963 or Email: info@barraganforcongress.com

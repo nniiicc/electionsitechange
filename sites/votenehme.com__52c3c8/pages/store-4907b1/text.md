@@ -1,12 +1,8 @@
-Effective January 2026, House District 15 covers parts of Taylor (south of Goddard Rd) and Westland,
-plus Belleville, Brownstown Township, Flat Rock, Gibraltar, Grosse Ile Township, Huron Township,
-Riverview, Rockwood, Romulus, Southgate, Sumpter Township, Trenton, Van Buren Township, Wayne, and Woodhaven.
-Campaign Merch
-Store
-Wear the message.
+الرئيسية تعرّف على حسن القضايا التأييدات الفعاليات Store اتصل بنا خريطة الدائرة English تبرّع × Michigan House District 15 Effective January 2026, House District 15 covers parts of Taylor (south of Goddard Rd) and Westland, plus Belleville, Brownstown Township, Flat Rock, Gibraltar, Grosse Ile Township, Huron Township, Riverview, Rockwood, Romulus, Southgate, Sumpter Township, Trenton, Van Buren Township, Wayne, and Woodhaven.
+Campaign Merch Store Wear the message.
 Every purchase supports the campaign.
 The store is being stocked.
-Check back soon, or
-get in touch to be notified when it launches.
+Check back soon, or get in touch to be notified when it launches.
+Want to Help More?
 Beyond merch, chip in directly to fund yard signs, doors knocked, and a winning ground game.
-Donate
+Donate Hassan Nehme مرشّح عن الدائرة 15 في مجلس النواب بولاية ميشيغان. جنديّ سابق في الجيش الأمريكي، وصاحب عمل صغير، وزوج وأب، يترشّح ليعيد الحسّ السليم إلى لانسينغ. روابط سريعة الرئيسية تعرّف على حسن القضايا التأييدات الفعاليات اتصل بنا التبرّع والتواصل تبرّع Facebook f اتصل بنا عام: [email protected] تطوّع: سجّل للمساعدة تموّل من قبل Hassan Nehme For State House · 26827 Sheahan, Dearborn Heights, MI 48127 © # Hassan Nehme For State House. جميع الحقوق محفوظة.

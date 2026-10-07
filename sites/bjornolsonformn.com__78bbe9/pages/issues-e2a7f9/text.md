@@ -1,5 +1,4 @@
-Issues
-These are just some of the issues I'm eager to address while in St.
+Skip to content Bjorn Olson For MN House District 22A Close Menu Home About Issues News Privacy Policy Donate Contact Bjorn About Bjorn Contact Bjorn Donate Get Involved Home News Privacy Policy Vote Bjorn Olson For MN House District 22A Home About Issues News Privacy Policy Donate Contact Bjorn Issues Home Issues Issues Issues These are just some of the issues I'm eager to address while in St.
 Paul.
 Our communities in District 22A face a variety of concerns that I am experienced with, and I am committed to representing our area's interests effectively at the capitol.
 Please feel free to Contact Me with any questions, concerns, or other issues you feel need representation in our district.
@@ -16,4 +15,5 @@ As a conservative, I know that in general, parents know what is best for their c
 Who better to influence our education system in a way that provides options to parents without hamstringing our public schools than a conservative teacher?
 Agriculture As a farmer, I, too, have felt the struggles we've all felt down here.
 I actively promote agriculture and advocate for our fellow southern Minnesota farmers and producers at the capitol.
-Too much regulation in agricul
+Too much regulation in agricul by christianbjornolson February 16, 2020 August 20, 2024 Prepared and paid for by Bjorn Olson for MN House P.O.
+Box 441, Elmore, MN 56013. | Theme: Arrival by WPoperation Search for:

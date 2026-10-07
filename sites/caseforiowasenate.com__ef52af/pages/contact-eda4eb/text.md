@@ -1,7 +1,2 @@
-Email:
-brenda@caseforiowasenate.com
-Donate by mail:
-Case for Iowa Senate
-PO Box 25
-Ottumwa, IA 52501
-FOLLOW ME ON SOCIAL MEDIA:
+top of page Home About Priorities Contact DONATE Email: brenda@caseforiowasenate.com Donate by mail: Case for Iowa Senate PO Box 25 Ottumwa, IA 52501 FOLLOW ME ON SOCIAL MEDIA: Get in touch!
+First name * Last name Email * Phone Write a message * Submit Paid for by Case for Iowa Senate Donate by mail: Case for Iowa Senate PO Box 25 Ottumwa, IA 52501 FOLLOW ME ON SOCIAL MEDIA SITE CREDIT PRIVACY POLICY © # bottom of page

@@ -1,5 +1,4 @@
-Meet Marcy
-The daughter of a Polish-American, working-class family, Marcy’s life and service mirror the bootstrap, hardworking nature of her district.
+Skip to content Meet Marcy Marcy’s Priorities Contact Get Involved Volunteer Fellowships Voter Hub Yard Sign Request Menu Meet Marcy Marcy’s Priorities Contact Get Involved Volunteer Fellowships Voter Hub Yard Sign Request Donate Meet Marcy The daughter of a Polish-American, working-class family, Marcy’s life and service mirror the bootstrap, hardworking nature of her district.
 Her family ran a small grocery and her mother also worked at Champion Spark Plug, where she helped organize the workers into an auto trade union.
 Marcy Kaptur began her public career as an urban policy adviser to President Carter.
 She and her colleagues crafted numerous bills on housing and urban development, including the Community Reinvestment Act.
@@ -20,3 +19,6 @@ Marcy has never forgotten where she came from.
 Once in Congress, she secured investments from the Environmental Protection Agency to clean up the very Champion Spark Plug site that her mother worked at years ago, helping to make it safe for new economic development and residents living around the plant.
 She continues the fight to restore neighborhoods and town squares throughout northern Ohio.
 She is a true fighter for working people.
+Donate Contribute to our campaign and help reelect Marcy to Congress.
+Contribute You can also send a check to: Kaptur for Congress P.O.
+Box 899 Toledo, OH 43697 Follow Marcy Facebook X-twitter Get in touch info@marcykaptur.com For Media Inquiries, please email: press@marcykaptur.com To reach our campaign call: ‪(419) 665-3133‬ Information Media Privacy Policy Donate Paid for by Kaptur for Congress Site by Kinetic Meet Marcy Marcy’s Priorities Contact Get Involved Menu Toggle Volunteer Fellowships Voter Hub Yard Sign Request Scroll to Top Meet Marcy Marcy’s Priorities Get Involved Lawn Signs Voter Hub Contact Meet Marcy Marcy’s Priorities Get Involved Lawn Signs Voter Hub Contact Donate

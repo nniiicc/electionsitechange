@@ -1,25 +1,16 @@
-In the News
-Bill changing Illinois rearview mirror law heads to governor’s desk
-A bill that would decriminalize hanging things from a car’s rearview mirror is headed to Gov.
+Skip to content Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Home About Alexi’s Priorities News In the News Contact Contribute In the News Bill changing Illinois rearview mirror law heads to governor’s desk May 27, 2023 A bill that would decriminalize hanging things from a car’s rearview mirror is headed to Gov.
 J.B.
 Pritzker’s desk.
-Giannoulias hires first-ever Diversity, Equity and Inclusion (DEI) Officer
-Fulfilling a campaign promise, Secretary of State Alexi Giannoulias has established the first-ever Diversity, Equity and Inclusion (DEI) Officer position in the Secretary of State’s office.
-Illinois Moves to Protect Abortion Seekers from Out-of-State Surveillance
-A bill would limit police from sharing license plate reader data, as part of the state’s effort to become an abortion sanctuary.
-How Illinois Secretary of State Alexi Giannoulias spent his first 100 days in office
-Illinois Secretary of State Alexi Giannoulias has completed his first 100 days in office, a milestone used by political leaders since President Franklin Roosevelt to gauge leadership style and progress toward fulfilling campaign promises.
-Q&A: Illinois Secretary of State Alexi Giannoulias says ‘modernization’ is key
-Illinois Secretary of State Alexi Giannoulias says his priority since taking office in January has been “modernizing” the Secretary of State’s Office.
-Legislation aims to deter book bans at public libraries by withholding grants
-Legislation aimed at discouraging public libraries from banning books has been introduced in the Democratic-controlled Illinois General Assembly amid largely partisan battles around the country over what books and school curricula are suitable for children.
-Franklin couple unknowingly buys ‘stolen’ used car.
+Read More » Giannoulias hires first-ever Diversity, Equity and Inclusion (DEI) Officer May 24, 2023 Fulfilling a campaign promise, Secretary of State Alexi Giannoulias has established the first-ever Diversity, Equity and Inclusion (DEI) Officer position in the Secretary of State’s office.
+Read More » Illinois Moves to Protect Abortion Seekers from Out-of-State Surveillance May 22, 2023 A bill would limit police from sharing license plate reader data, as part of the state’s effort to become an abortion sanctuary.
+Read More » How Illinois Secretary of State Alexi Giannoulias spent his first 100 days in office April 29, 2023 Illinois Secretary of State Alexi Giannoulias has completed his first # days in office, a milestone used by political leaders since President Franklin Roosevelt to gauge leadership style and progress toward fulfilling campaign promises.
+Read More » Q&A: Illinois Secretary of State Alexi Giannoulias says ‘modernization’ is key March 9, 2023 Illinois Secretary of State Alexi Giannoulias says his priority since taking office in January has been “modernizing” the Secretary of State’s Office.
+Read More » Legislation aims to deter book bans at public libraries by withholding grants March 8, 2023 Legislation aimed at discouraging public libraries from banning books has been introduced in the Democratic-controlled Illinois General Assembly amid largely partisan battles around the country over what books and school curricula are suitable for children.
+Read More » Franklin couple unknowingly buys ‘stolen’ used car.
 Now an Illinois agency is closing loopholes.
-‘I want to thank the WISN Investigative Team for highlighting this unique case and exposing the problems associated with it,’ the Illinois Secretary of State said in a statement.
-Secretary of State Giannoulias visits Peoria
-Illinois Secretary of State Alexi Giannoulias highlighted his plans to modernize his office in Peoria on Thursday.
-On the Record: Secretary of State Alexi Giannoulias discusses modernizing the office, Carvana settlement, transition team
-After more than two decades, Illinois has a new Secretary of State.
+February 28, 2023 ‘I want to thank the WISN Investigative Team for highlighting this unique case and exposing the problems associated with it,’ the Illinois Secretary of State said in a statement.
+Read More » Secretary of State Giannoulias visits Peoria February 23, 2023 Illinois Secretary of State Alexi Giannoulias highlighted his plans to modernize his office in Peoria on Thursday.
+Read More » On the Record: Secretary of State Alexi Giannoulias discusses modernizing the office, Carvana settlement, transition team January 31, 2023 After more than two decades, Illinois has a new Secretary of State.
 Alexi Giannoulias (D-Illinois) was sworn in earlier this month, taking charge after Jesse White retired.
-Illinois Secretary of State-elect Alexi Giannoulias brings opponent Dan Brady onto transition team
-The winner of race for Illinois Secretary of State and his opponent are setting politics aside.
+Read More » Illinois Secretary of State-elect Alexi Giannoulias brings opponent Dan Brady onto transition team December 1, 2022 The winner of race for Illinois Secretary of State and his opponent are setting politics aside.
+Read More » Page 1 Page 2 Page 3 Page 4 Page 5 Videos Press Releases Endorsements Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

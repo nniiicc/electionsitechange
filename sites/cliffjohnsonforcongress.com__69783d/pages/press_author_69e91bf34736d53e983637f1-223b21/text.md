@@ -1,12 +1,8 @@
-CLIFF JOHNSON RECOGNIZED BY END CITIZENS UNITED FOR PLEDGE TO CLEAN UP CONGRESS
-Johnson Pledges to Ban Congressional Stock Trading, Refuse Corporate PAC Money, and Crack Down on Dark Money — Campaign Funded Entirely by Grassroots Donors
-CLIFF JOHNSON REPORTS BEST FUNDRAISING WEEK OF CAMPAIGN FOLLOWING CALLAIS DECISION
-Outpouring of grassroots support signals voters are energized to fight Republican power grab over Mississippi's congressional maps
-DEMOCRAT CLIFF JOHNSON RAISES SIX FIGURES IN Q1 OF 2026
-Johnson is the first Democratic candidate in a decade to raise six figures in back-to-back quarters in the Mississippi First Congressional District.
-CLIFF JOHNSON WINS MISSISSIPPI 1ST CONGRESSIONAL DISTRICT PRIMARY
-First District Democratic Congressional Candidate Cliff Johnson, a 5th-generation Mississippian and civil rights attorney, claimed the Democratic Nomination and will go on to face Representative Trent Kelly in the General Election.
-CLIFF JOHNSON RELEASES FIRST RADIO AD, HIGHLIGHTING SUPPORT FROM CONGRESSMAN BENNIE THOMPSON AND OTHER PROMINENT DEMOCRATS
-Today, First District Democratic Congressional Candidate Cliff Johnson, a 5th-generation Mississippian and civil rights attorney, released his campaign’s first radio advertisement.
-CLIFF JOHNSON POSTS RECORD SETTING FUNDRAISING QUARTER IN MISSISSIPPI'S FIRST CONGRESSIONAL DISTRICT
-Johnson raises more in first quarter of the race than all of Trent Kelly’s previous Democratic opponents combined.
+0 Skip to Content See our Endorsements Press Contact Us Home Donate Open Menu Close Menu See our Endorsements Press Contact Us Home Donate Open Menu Close Menu See our Endorsements Press Contact Us Home Donate Lucas Taylor 5/12/26 Lucas Taylor 5/12/26 CLIFF JOHNSON RECOGNIZED BY END CITIZENS UNITED FOR PLEDGE TO CLEAN UP CONGRESS Johnson Pledges to Ban Congressional Stock Trading, Refuse Corporate PAC Money, and Crack Down on Dark Money — Campaign Funded Entirely by Grassroots Donors Read More Lucas Taylor 5/8/26 Lucas Taylor 5/8/26 CLIFF JOHNSON REPORTS BEST FUNDRAISING WEEK OF CAMPAIGN FOLLOWING CALLAIS DECISION Outpouring of grassroots support signals voters are energized to fight Republican power grab over Mississippi's congressional maps Read More Lucas Taylor 4/17/26 Lucas Taylor 4/17/26 DEMOCRAT CLIFF JOHNSON RAISES SIX FIGURES IN Q1 OF 2026 Johnson is the first Democratic candidate in a decade to raise six figures in back-to-back quarters in the Mississippi First Congressional District.
+Read More Lucas Taylor 3/10/26 Lucas Taylor 3/10/26 CLIFF JOHNSON WINS MISSISSIPPI 1ST CONGRESSIONAL DISTRICT PRIMARY First District Democratic Congressional Candidate Cliff Johnson, a 5th-generation Mississippian and civil rights attorney, claimed the Democratic Nomination and will go on to face Representative Trent Kelly in the General Election.
+Read More Lucas Taylor 1/12/26 Lucas Taylor 1/12/26 CLIFF JOHNSON RELEASES FIRST RADIO AD, HIGHLIGHTING SUPPORT FROM CONGRESSMAN BENNIE THOMPSON AND OTHER PROMINENT DEMOCRATS Today, First District Democratic Congressional Candidate Cliff Johnson, a 5th-generation Mississippian and civil rights attorney, released his campaign’s first radio advertisement.
+Read More Lucas Taylor 1/5/26 Lucas Taylor 1/5/26 CLIFF JOHNSON POSTS RECORD SETTING FUNDRAISING QUARTER IN MISSISSIPPI'S FIRST CONGRESSIONAL DISTRICT Johnson raises more in first quarter of the race than all of Trent Kelly’s previous Democratic opponents combined.
+Read More Cliff Johnson for Congress Donate by mail: P.O.
+Box 132 Taylor, MS 38673 info@cliffjohnsonforcongress.com This campaign is undertaken in Cliff Johnson’s individual capacity.
+He does not speak for the University of Mississippi or the MacArthur Justice Center, and neither of those institutions is endorsing or supporting his campaign.
+Paid for by Cliff Johnson for Congress.

@@ -1,6 +1,4 @@
-Skip navigation menu
-A Regular Iowan, Fighting for You
-I'm Kris Williams, and I'm a proud Iowan, a husband, a father, and a retail worker at Target right here in District 8.
+Skip navigation menu Home About Take Action Issues News and press Events Endorsements Donate About copy Home About Take Action Issues News and press Events Endorsements Donate About copy A Regular Iowan, Fighting for You I'm Kris Williams, and I'm a proud Iowan, a husband, a father, and a retail worker at Target right here in District 8.
 My life isn't spent in a politician's office; it's on the sales floor, talking with my coworkers and our neighbors about the things that really matter: the rising costs of groceries, the worry about making rent, and the hope that we can build a good life here in Iowa for our families.
 I'm not a career politician.
 I've never run for office before.
@@ -19,3 +17,4 @@ We're powered by people, not corporate PAC money.
 I'm not asking for your vote; I want to earn it.
 I'm asking for the chance to go to Des Moines and be a voice for the people who have been left behind.
 Our actions now will shape the world our children will inherit tomorrow.
+Volunteer Privacy Policy About Donate Contact Terms and Conditions kriswilliamsforiowa@gmail.com Powered by RUN! website builder Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app.

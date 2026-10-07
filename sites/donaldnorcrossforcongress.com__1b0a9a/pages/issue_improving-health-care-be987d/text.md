@@ -1,4 +1,4 @@
-Americans deserve quality, affordable health care, and we must confront the disease of addiction that’s plaguing our communities.
+Press enter to search Home Meet Donald Our District Issues Volunteer News Vote Donate Contact Donate Meet Donald Our District Issues Volunteer News Vote Share On The Issues Improving Health Care Americans deserve quality, affordable health care, and we must confront the disease of addiction that’s plaguing our communities.
 We must improve our nation’s health care system and first and foremost that means standing against the disgusting repeal efforts in Congress that would deny coverage to millions of people and raise costs on seniors and working families while giving tax breaks to billionaires.
 Instead, we need to work together to lower the cost of prescription drugs and ensure healthcare for all.
 I have been on the forefront of fighting to allow Medicare to negotiate prescription drug prices, limit the out-of-pocket costs to $35 a month for life saving insulin and reducing the cost of prescriptions for all families.
@@ -9,3 +9,6 @@ Our society must begin to treat the disease of addiction that is plaguing our co
 I am proud to member of the Bi- Partisan task force to fight the disease of addictions in Congress where I am focused on battling the stigma of addiction and finding solutions for this national emergency.
 I am fighting to make sure that insurance companies treat mental health the same physical health.
 Now more than ever it is critical that our families have access to mental health care.
+Next Issue Honoring Veterans & Service Members Meet Donald Our District Issues Volunteer News Vote Privacy Policy Contact us ©# Donald Norcross for Congress.
+All rights reserved.
+Paid for by Norcross for Congress Donate Join our campaign

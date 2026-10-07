@@ -1,16 +1,66 @@
 [
-"http://facebook.com/JahaHowardForGeorgia",
-"http://instagram.com/DrJahaHoward",
-"https://ajc.com/opinion/2026/06/ga-democrats-political-rally-to-resist-redistricting-turned-into-a-revival",
-"https://ajc.com/opinion/2026/08/opinion-bipartisanship-was-once-common-under-georgias-gold-dome-heres-what-changed",
-"https://ajc.com/opinion/2026/08/opinion-georgia-agriculture-connected-me-to-my-roots-fellow-state-senators",
-"https://atlantadailyworld.com/2025/12/14/utility-bills-too-high-dr-jaha-howard-vows-to-lower-them",
-"https://atlantadailyworld.com/2026/01/01/senator-jaha-howard-takes-oath-as-more-than-100-people-witness-historic-ceremony",
-"https://cbsnews.com/atlanta/news/georgia-democrats-move-to-block-ice-detention-facilities-in-south-fulton-across-state",
-"https://jahahoward.com/",
-"https://jahahoward.com/about-jaha-1",
-"https://jahahoward.com/news",
-"https://jahahoward.com/priorities-1",
-"https://jahahoward.com/updates",
-"https://secure.actblue.com/donate/jaha-howard-1"
+{
+"text": "About Jaha",
+"href": "https://www.jahahoward.com/about-jaha-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jaha-howard-1"
+},
+{
+"text": "Home",
+"href": "https://www.jahahoward.com"
+},
+{
+"text": "In the News",
+"href": "https://www.jahahoward.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.jahahoward.com/priorities-1"
+},
+{
+"text": "Updates",
+"href": "https://www.jahahoward.com/updates"
+},
+{
+"text": "[image: @DrJahaHoward]",
+"href": "http://instagram.com/DrJahaHoward"
+},
+{
+"text": "[image: @JahaHowardForGeorgia]",
+"href": "http://www.facebook.com/JahaHowardForGeorgia"
+},
+{
+"text": "[image: JH_LOGO_WHITE.webp]",
+"href": "https://www.jahahoward.com"
+},
+{
+"text": "[image]",
+"href": "https://www.jahahoward.com"
+},
+{
+"text": "[no text]",
+"href": "https://atlantadailyworld.com/2025/12/14/utility-bills-too-high-dr-jaha-howard-vows-to-lower-them/"
+},
+{
+"text": "[no text]",
+"href": "https://atlantadailyworld.com/2026/01/01/senator-jaha-howard-takes-oath-as-more-than-100-people-witness-historic-ceremony/"
+},
+{
+"text": "[no text]",
+"href": "https://www.ajc.com/opinion/2026/06/ga-democrats-political-rally-to-resist-redistricting-turned-into-a-revival/"
+},
+{
+"text": "[no text]",
+"href": "https://www.ajc.com/opinion/2026/08/opinion-bipartisanship-was-once-common-under-georgias-gold-dome-heres-what-changed/"
+},
+{
+"text": "[no text]",
+"href": "https://www.ajc.com/opinion/2026/08/opinion-georgia-agriculture-connected-me-to-my-roots-fellow-state-senators/"
+},
+{
+"text": "[no text]",
+"href": "https://www.cbsnews.com/atlanta/news/georgia-democrats-move-to-block-ice-detention-facilities-in-south-fulton-across-state/"
+}
 ]

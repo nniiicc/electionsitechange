@@ -1,37 +1,218 @@
 [
-"https://facebook.com/MikeMcKayMD",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fmikemckaymd.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://mikemckaymd.com/",
-"https://mikemckaymd.com/about",
-"https://mikemckaymd.com/articles",
-"https://mikemckaymd.com/contact",
-"https://mikemckaymd.com/event/7th-annual-mike-mckay-golf-tournament",
-"https://mikemckaymd.com/event/8th-annual-mike-mckay-golf-tournament",
-"https://mikemckaymd.com/event/cigars-steam",
-"https://mikemckaymd.com/event/district-1-night-in-annapolis",
-"https://mikemckaymd.com/event/mike-mckays-6th-annual-golf-tournament",
-"https://mikemckaymd.com/event/october-11th-event",
-"https://mikemckaymd.com/event/pre-legislative-breakfast",
-"https://mikemckaymd.com/event/pre-session-breakfast",
-"https://mikemckaymd.com/event/senator-mike-mckays-cigars-steam",
-"https://mikemckaymd.com/event/senator-mike-mckays-family-picnic",
-"https://mikemckaymd.com/event/strategic-highway-safety-plan-workshop-western-maryland",
-"https://mikemckaymd.com/event/virtual-disaster-center-information-session",
-"https://mikemckaymd.com/events",
-"https://mikemckaymd.com/events/list",
-"https://mikemckaymd.com/events/list/page/2?eventDisplay=past",
-"https://mikemckaymd.com/events/list?eventDisplay=past&ical=1",
-"https://mikemckaymd.com/events/list?eventDisplay=past&outlook-ical=1",
-"https://mikemckaymd.com/events/month",
-"https://mikemckaymd.com/events/today",
-"https://mikemckaymd.com/flood-assistance-resources",
-"https://mikemckaymd.com/mike-mckay-legislation",
-"https://mikemckaymd.com/privacy-policy-2",
-"https://mikemckaymd.com/scholarships",
-"https://mikemckaymd.com/volunteer",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fmikemckaymd.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=State+Senator+Mike+McKay+for+Maryland+District+1+Events+Archive+-+State+Senator+Mike+McKay+for+Maryland+District+1",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fmikemckaymd.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=State+Senator+Mike+McKay+for+Maryland+District+1+Events+Archive+-+State+Senator+Mike+McKay+for+Maryland+District+1",
-"https://secure.anedot.com/e373f385-3868-455f-8c59-613dda62bde1/donate",
-"https://votegtr.com/",
-"https://x.com/mikemckaymd"
+{
+"text": "#ago",
+"href": "https://mikemckaymd.com/events/list/"
+},
+{
+"text": "7th Annual Mike McKay Golf Tournament",
+"href": "https://mikemckaymd.com/event/7th-annual-mike-mckay-golf-tournament/"
+},
+{
+"text": "8th Annual Mike McKay Golf Tournament",
+"href": "https://mikemckaymd.com/event/8th-annual-mike-mckay-golf-tournament/"
+},
+{
+"text": "Contact",
+"href": "https://mikemckaymd.com/contact/"
+},
+{
+"text": "Day",
+"href": "https://mikemckaymd.com/events/today/"
+},
+{
+"text": "District 1 Night in Annapolis",
+"href": "https://mikemckaymd.com/event/district-1-night-in-annapolis/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/e373f385-3868-455f-8c59-613dda62bde1/donate"
+},
+{
+"text": "Don’t Miss Sen. Mike McKay’s Cigars & Steam Fundraiser",
+"href": "https://mikemckaymd.com/event/cigars-steam/"
+},
+{
+"text": "Events",
+"href": "https://mikemckaymd.com/events/"
+},
+{
+"text": "Events Attend an event w/ Sen. Mike McKay",
+"href": "https://mikemckaymd.com/events"
+},
+{
+"text": "Export .ics file",
+"href": "https://mikemckaymd.com/events/list/?eventDisplay=past&ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://mikemckaymd.com/events/list/?eventDisplay=past&outlook-ical=1#038;ical=1"
+},
+{
+"text": "Georges Creek Flood Response",
+"href": "https://mikemckaymd.com/flood-assistance-resources/"
+},
+{
+"text": "Georges Creek Flood Response Contact Info",
+"href": "https://mikemckaymd.com/flood-assistance-resources/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fmikemckaymd.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://mikemckaymd.com/"
+},
+{
+"text": "Join State Senator Mike McKay For A Scenic Trip Through Western Maryland",
+"href": "https://mikemckaymd.com/event/october-11th-event/"
+},
+{
+"text": "Legislation",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/"
+},
+{
+"text": "List",
+"href": "https://mikemckaymd.com/events/list/"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikemckaymd.com/about"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikemckaymd.com/about/"
+},
+{
+"text": "Mike McKay’s 6th Annual Golf Tournament",
+"href": "https://mikemckaymd.com/event/mike-mckays-6th-annual-golf-tournament/"
+},
+{
+"text": "Month",
+"href": "https://mikemckaymd.com/events/month/"
+},
+{
+"text": "News & Updates",
+"href": "https://mikemckaymd.com/articles/"
+},
+{
+"text": "Next Events",
+"href": "https://mikemckaymd.com/events/list/"
+},
+{
+"text": "Office",
+"href": "https://mikemckaymd.com/contact/"
+},
+{
+"text": "Office Contact",
+"href": "https://mikemckaymd.com/contact/"
+},
+{
+"text": "Office Contact Here's how to find us",
+"href": "https://mikemckaymd.com/contact/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fmikemckaymd.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=State+Senator+Mike+McKay+for+Maryland+District+1+Events+Archive+-+State+Senator+Mike+McKay+for+Maryland+District+1"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fmikemckaymd.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=State+Senator+Mike+McKay+for+Maryland+District+1+Events+Archive+-+State+Senator+Mike+McKay+for+Maryland+District+1"
+},
+{
+"text": "Powered by VOTEGTR",
+"href": "https://votegtr.com/"
+},
+{
+"text": "Pre-Legislative Breakfast",
+"href": "https://mikemckaymd.com/event/pre-legislative-breakfast/"
+},
+{
+"text": "Pre-Session Breakfast",
+"href": "https://mikemckaymd.com/event/pre-session-breakfast/"
+},
+{
+"text": "Previous Events",
+"href": "https://mikemckaymd.com/events/list/page/2/?eventDisplay=past"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mikemckaymd.com/privacy-policy-2/"
+},
+{
+"text": "Senate Scholarship Program",
+"href": "https://mikemckaymd.com/scholarships/"
+},
+{
+"text": "Senate Scholarship Program Information on how to apply",
+"href": "https://mikemckaymd.com/scholarships/"
+},
+{
+"text": "Senator Mike McKay’s Cigars & Steam",
+"href": "https://mikemckaymd.com/event/senator-mike-mckays-cigars-steam/"
+},
+{
+"text": "Senator Mike McKay’s Family Picnic",
+"href": "https://mikemckaymd.com/event/senator-mike-mckays-family-picnic/"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/#Sponsored_Legislation"
+},
+{
+"text": "Sponsored Legislation Bills sponsored by Sen. McKay",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/#Sponsored_Legislation"
+},
+{
+"text": "Strategic Highway Safety Plan Workshop – Western Maryland",
+"href": "https://mikemckaymd.com/event/strategic-highway-safety-plan-workshop-western-maryland/"
+},
+{
+"text": "The Latest News District 1 news & media coverage",
+"href": "https://mikemckaymd.com/articles"
+},
+{
+"text": "Virtual Disaster Center Information Session",
+"href": "https://mikemckaymd.com/event/virtual-disaster-center-information-session/"
+},
+{
+"text": "Volunteer",
+"href": "https://mikemckaymd.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://mikemckaymd.com/volunteer/"
+},
+{
+"text": "Voting Record",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/"
+},
+{
+"text": "Voting Record Every vote Sen. Mike McKay has voted on",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/"
+},
+{
+"text": "[image]",
+"href": "https://mikemckaymd.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MikeMcKayMD"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mikemckaymd"
+},
+{
+"text": "[tooltip: Next Events]",
+"href": "https://mikemckaymd.com/events/list/"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://mikemckaymd.com/events/list/page/2/?eventDisplay=past"
+},
+{
+"text": "iCalendar",
+"href": "webcal://mikemckaymd.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

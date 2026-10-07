@@ -1,12 +1,54 @@
 [
-"https://facebook.com/SenatorJohnJasinski",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.jasinskiforsenate.com%2Fjohn-jasinski-seeking-second-term-as-minnesota-state-senator-for-district-24%2F&quote=John+Jasinski+seeking+second+term+as+Minnesota+state+senator+for+District+24",
-"https://jasinskiforsenate.com/",
-"https://jasinskiforsenate.com/about-john",
-"https://jasinskiforsenate.com/issues",
-"https://jasinskiforsenate.com/news",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.jasinskiforsenate.com%2Fjohn-jasinski-seeking-second-term-as-minnesota-state-senator-for-district-24%2F",
-"https://secure.winred.com/jasinski-for-senate/donate",
-"https://twitter.com/intent/tweet?text=John+Jasinski+seeking+second+term+as+Minnesota+state+senator+for+District+24&url=https%3A%2F%2Fwww.jasinskiforsenate.com%2Fjohn-jasinski-seeking-second-term-as-minnesota-state-senator-for-district-24%2F",
-"https://twitter.com/senatorjasinski"
+{
+"text": "About John",
+"href": "https://www.jasinskiforsenate.com/about-john/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/jasinski-for-senate/donate"
+},
+{
+"text": "Home",
+"href": "https://www.jasinskiforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.jasinskiforsenate.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.jasinskiforsenate.com/news/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.jasinskiforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SenatorJohnJasinski/"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/senatorjasinski"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@jasinskiforsenate.com"
+},
+{
+"text": "[tooltip: Email this]",
+"href": "mailto:?subject=John+Jasinski+seeking+second+term+as+Minnesota+state+senator+for+District+24&body=https%3A%2F%2Fwww.jasinskiforsenate.com%2Fjohn-jasinski-seeking-second-term-as-minnesota-state-senator-for-district-24%2F"
+},
+{
+"text": "[tooltip: Share this]",
+"href": "https://twitter.com/intent/tweet?text=John+Jasinski+seeking+second+term+as+Minnesota+state+senator+for+District+24&url=https%3A%2F%2Fwww.jasinskiforsenate.com%2Fjohn-jasinski-seeking-second-term-as-minnesota-state-senator-for-district-24%2F"
+},
+{
+"text": "[tooltip: Share this]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.jasinskiforsenate.com%2Fjohn-jasinski-seeking-second-term-as-minnesota-state-senator-for-district-24%2F&quote=John+Jasinski+seeking+second+term+as+Minnesota+state+senator+for+District+24"
+},
+{
+"text": "[tooltip: Share this]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.jasinskiforsenate.com%2Fjohn-jasinski-seeking-second-term-as-minnesota-state-senator-for-district-24%2F"
+}
 ]

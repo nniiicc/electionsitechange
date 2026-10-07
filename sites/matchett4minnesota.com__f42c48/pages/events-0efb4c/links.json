@@ -1,29 +1,126 @@
 [
-"https://facebook.com/profile.php?id=61578539772678",
-"https://instagram.com/matchett4minnesota",
-"https://matchett4minnesota.com/",
-"https://matchett4minnesota.com/about",
-"https://matchett4minnesota.com/accessibility",
-"https://matchett4minnesota.com/book-online",
-"https://matchett4minnesota.com/contact",
-"https://matchett4minnesota.com/endorsements",
-"https://matchett4minnesota.com/events",
-"https://matchett4minnesota.com/events/32a-dfl-convention-2026-03-22",
-"https://matchett4minnesota.com/events/amanda-birthday-doorknock-party-2026-08-16",
-"https://matchett4minnesota.com/events/doorknock-with-avonna-starck-clean-water-action-2026-08-19",
-"https://matchett4minnesota.com/events/doorknock-with-maia-gunderson-2026-08-13",
-"https://matchett4minnesota.com/events/doorknock-with-mape-2026-08-27",
-"https://matchett4minnesota.com/events/doorknock-with-save-the-boundary-waters-action-fund-2026-08-18",
-"https://matchett4minnesota.com/events/family-affordability-summit-2026-02-21",
-"https://matchett4minnesota.com/events/more-perfect-union-fundraiser-2026-07-14",
-"https://matchett4minnesota.com/events/music-trivia-across-the-millenia-2026-07-30",
-"https://matchett4minnesota.com/events/weekend-of-action-blaine-doorknock-2026-04-10",
-"https://matchett4minnesota.com/events/weekend-of-action-blaine-doorknock-2026-04-11",
-"https://matchett4minnesota.com/events/weekend-of-action-blaine-doorknock-2026-04-12",
-"https://matchett4minnesota.com/issues",
-"https://matchett4minnesota.com/press",
-"https://matchett4minnesota.com/privacy-policy",
-"https://matchett4minnesota.com/volunteer",
-"https://secure.actblue.com/donate/amandamatchett",
-"https://tiktok.com/@matchett4minnesota"
+{
+"text": "About",
+"href": "https://matchett4minnesota.com/about/"
+},
+{
+"text": "About Amanda",
+"href": "https://matchett4minnesota.com/about/"
+},
+{
+"text": "Accessibility",
+"href": "https://matchett4minnesota.com/accessibility/"
+},
+{
+"text": "Contact form",
+"href": "https://matchett4minnesota.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amandamatchett"
+},
+{
+"text": "Endorsements",
+"href": "https://matchett4minnesota.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://matchett4minnesota.com/events/"
+},
+{
+"text": "Fri, Apr 10, 2026, 1:00 pm Weekend of Action: Blaine DFL Doorknock Aurelia Park 382 91st Ave NE, Blaine, MN 55434, In person",
+"href": "https://matchett4minnesota.com/events/weekend-of-action-blaine-doorknock-2026-04-10/"
+},
+{
+"text": "Home",
+"href": "https://matchett4minnesota.com/"
+},
+{
+"text": "Issues",
+"href": "https://matchett4minnesota.com/issues/"
+},
+{
+"text": "Meet Amanda",
+"href": "https://matchett4minnesota.com/book-online/"
+},
+{
+"text": "Press",
+"href": "https://matchett4minnesota.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://matchett4minnesota.com/privacy-policy/"
+},
+{
+"text": "Sat, Apr 11, 2026, 12:00 pm Weekend of Action: Blaine DFL Doorknock Aurelia Park 382 91st Ave NE, Blaine, MN 55434, In person",
+"href": "https://matchett4minnesota.com/events/weekend-of-action-blaine-doorknock-2026-04-11/"
+},
+{
+"text": "Sat, Feb 21, 2026, 10:00 am Family Affordability Summit: Let’s Make Minnesota Affordable for Families Centennial Library 100 Civic Heights Cir, Circle Pines, MN 55014, In person",
+"href": "https://matchett4minnesota.com/events/family-affordability-summit-2026-02-21/"
+},
+{
+"text": "Sun, Apr 12, 2026, 12:00 pm Weekend of Action: Blaine DFL Doorknock Aurelia Park 382 91st Ave NE, Blaine, MN 55434, In person",
+"href": "https://matchett4minnesota.com/events/weekend-of-action-blaine-doorknock-2026-04-12/"
+},
+{
+"text": "Sun, Aug 16, 2026, 2:00 pm Amanda Birthday Doorknock & Party! Aquatore Park 9191 Lincoln St NE, Blaine, MN 55434, In person",
+"href": "https://matchett4minnesota.com/events/amanda-birthday-doorknock-party-2026-08-16/"
+},
+{
+"text": "Sun, Mar 22, 2026, 12:00 pm 32A DFL Convention Teamsters Local 120 9422 Ulysses St NE, Blaine, MN 55434, In person",
+"href": "https://matchett4minnesota.com/events/32a-dfl-convention-2026-03-22/"
+},
+{
+"text": "Thu, Aug 13, 2026, 4:30 pm Doorknock with Maia Gunderson Tom Ryan Park 10802 Town Square Dr NE, Blaine, MN 55449, In person",
+"href": "https://matchett4minnesota.com/events/doorknock-with-maia-gunderson-2026-08-13/"
+},
+{
+"text": "Thu, Aug 27, 2026, 4:30 pm Doorknock with MAPE Tom Ryan Park 10802 Town Square Dr NE, Blaine, MN 55449, In person",
+"href": "https://matchett4minnesota.com/events/doorknock-with-mape-2026-08-27/"
+},
+{
+"text": "Thu, Jul 30, 2026, 5:00 pm Music Trivia: Across the Millenia The Curious Crow Company 9157 S Hwy Dr, Circle Pines, MN 55014, In person",
+"href": "https://matchett4minnesota.com/events/music-trivia-across-the-millenia-2026-07-30/"
+},
+{
+"text": "Tue, Aug 18, 2026, 5:30 pm Doorknock with Save the Boundary Waters Action Fund Aquatore Park 9191 Lincoln St NE, Blaine, MN 55434, In person",
+"href": "https://matchett4minnesota.com/events/doorknock-with-save-the-boundary-waters-action-fund-2026-08-18/"
+},
+{
+"text": "Tue, Jul 14, 2026, 5:00 pm More Perfect Union Fundraiser West Lake Park 11903 South Lake Boulevard Northeast, Blaine, MN 55449, In person",
+"href": "https://matchett4minnesota.com/events/more-perfect-union-fundraiser-2026-07-14/"
+},
+{
+"text": "Volunteer",
+"href": "https://matchett4minnesota.com/volunteer/"
+},
+{
+"text": "Wed, Aug 19, 2026, 4:30 pm Doorknock with Avonna Starck & Clean Water Action Tom Ryan Park 10802 Town Square Dr NE, Blaine, MN 55449, In person",
+"href": "https://matchett4minnesota.com/events/doorknock-with-avonna-starck-clean-water-action-2026-08-19/"
+},
+{
+"text": "[image] Amanda Matchett MN House 32A",
+"href": "https://matchett4minnesota.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61578539772678"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/matchett4minnesota/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@matchett4minnesota"
+},
+{
+"text": "info@matchett4minnesota.com",
+"href": "mailto:info@matchett4minnesota.com"
+},
+{
+"text": "♥ Donate",
+"href": "https://secure.actblue.com/donate/amandamatchett"
+}
 ]

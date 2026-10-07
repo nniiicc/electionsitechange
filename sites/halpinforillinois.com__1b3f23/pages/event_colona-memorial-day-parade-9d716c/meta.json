@@ -1,7 +1,9 @@
 {
  "description": "Sign up to walk with us! We will bring you a T-Shirt!",
  "final_url": "https://www.halpinforillinois.com/event/colona-memorial-day-parade/",
- "paid_for_by": null,
+ "fingerprint": "20104c3a2cb5a70bf84d38e5201af05e5c1e3a17",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Colona Memorial Day Parade - Mike Halpin for Illinois",
  "years_mentioned": [
   "2022"

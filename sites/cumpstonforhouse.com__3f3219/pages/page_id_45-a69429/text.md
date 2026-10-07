@@ -1,4 +1,4 @@
-I’m Cody Cumpston, a lifelong West Virginian, union member, and community-first neighbor running to represent District 6.
+Skip to content Cumpston for House About Cody Issues Endorsements Contact Get Involved Donate About Cody I’m Cody Cumpston, a lifelong West Virginian, union member, and community-first neighbor running to represent District 6.
 I was born and raised in Cameron, WV, and I know what it means to grow up in a small town where people look out for each other.
 More than five years ago, my family and I built our home in Moundsville, where we’ve proudly put down roots.
 I’ve been married to my wife, Erica, for 20 years, and together we’re raising two amazing daughters.
@@ -10,3 +10,6 @@ I stay involved locally as a member of the Moundsville Land Reuse Committee, the
 I’m also running for District 3 Male Representative on the Marshall County Democratic Executive Committee, continuing my commitment to grassroots leadership.
 When I’m not working or volunteering, I enjoy spending time with my family, watching movies, going to WVU basketball games, or reading a good book.
 I’m running to bring practical leadership and a strong working-class voice to District 6.
+Cumpston for House Facebook Instagram TikTok About Cody Issues Endorsements Contact Get Involved Donate Paid for by Codycumpston4wv, Treasurer Sherry Johnson Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

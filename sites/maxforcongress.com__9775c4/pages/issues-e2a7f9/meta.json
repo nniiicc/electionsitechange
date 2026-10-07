@@ -1,7 +1,9 @@
 {
  "description": "Explore key issues such as healthcare reform, immigration policy, lower taxes, school choice, and defending the U.S. Constitution.",
  "final_url": "https://maxforcongress.com/issues",
- "paid_for_by": null,
+ "fingerprint": "7902cafdf8b037e7d1a6b83f4969af23b5866ba1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Issues",
  "years_mentioned": []
 }

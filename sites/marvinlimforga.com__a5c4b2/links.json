@@ -1,25 +1,102 @@
 [
-"https://api.whatsapp.com/message/BGFUIBLOJZAJD1?autoload=1&app_absent=0",
-"https://facebook.com/MarvinLimforGA",
-"https://fvap.gov/georgia",
-"https://gwinnettcounty.com/government/departments/elections/voting/absentee",
-"https://gwinnettcounty.com/government/departments/elections/voting/advance",
-"https://instagram.com/marvinlimforga",
-"https://legis.ga.gov/find-my-legislator",
-"https://marvinlimforga.com/",
-"https://marvinlimforga.com/26voterguide",
-"https://marvinlimforga.com/about-marvin",
-"https://marvinlimforga.com/contact-us",
-"https://marvinlimforga.com/covid-19",
-"https://marvinlimforga.com/donate",
-"https://marvinlimforga.com/espanol",
-"https://marvinlimforga.com/find-resources",
-"https://marvinlimforga.com/neighborhood",
-"https://marvinlimforga.com/resources-korean",
-"https://marvinlimforga.com/resources-spanish",
-"https://marvinlimforga.com/resources-vietnamese",
-"https://marvinlimforga.com/safety",
-"https://marvinlimforga.com/vietnamese",
-"https://mvp.sos.ga.gov/",
-"https://twitter.com/MarvinLimforGA"
+{
+"text": "ABOUT MARVIN",
+"href": "https://www.marvinlimforga.com/about-marvin"
+},
+{
+"text": "BẰNG TIẾNG VIỆT",
+"href": "https://www.marvinlimforga.com/vietnamese"
+},
+{
+"text": "CONTACT US | SIGN UP FOR UPDATES",
+"href": "https://www.marvinlimforga.com/contact-us"
+},
+{
+"text": "COVID-19",
+"href": "https://www.marvinlimforga.com/covid-19"
+},
+{
+"text": "DONATE",
+"href": "https://www.marvinlimforga.com/donate"
+},
+{
+"text": "EN ESPAÑOL",
+"href": "https://www.marvinlimforga.com/espanol"
+},
+{
+"text": "FIND RESOURCES",
+"href": "https://www.marvinlimforga.com/find-resources"
+},
+{
+"text": "HOME",
+"href": "https://www.marvinlimforga.com"
+},
+{
+"text": "IN THE NEIGHBORHOOD",
+"href": "https://www.marvinlimforga.com/neighborhood"
+},
+{
+"text": "RECURSOS",
+"href": "https://www.marvinlimforga.com/resources-spanish"
+},
+{
+"text": "RESOURCES-RECURSOS-TÀI NGUYÊN-리소스 목록",
+"href": "https://www.marvinlimforga.com/find-resources"
+},
+{
+"text": "SAFETY",
+"href": "https://www.marvinlimforga.com/safety"
+},
+{
+"text": "TÀI NGUYÊN",
+"href": "https://www.marvinlimforga.com/resources-vietnamese"
+},
+{
+"text": "[image: Facebook (alt text)]",
+"href": "https://www.facebook.com/MarvinLimforGA"
+},
+{
+"text": "[image: Instagram (alt text)]",
+"href": "https://www.instagram.com/marvinlimforga"
+},
+{
+"text": "[image: Twitter (alt text)]",
+"href": "https://www.twitter.com/MarvinLimforGA"
+},
+{
+"text": "[image: Whatsapp]",
+"href": "https://api.whatsapp.com/message/BGFUIBLOJZAJD1?autoload=1&app_absent=0"
+},
+{
+"text": "https://marvinlimforga.com/26voterguide",
+"href": "https://marvinlimforga.com/26voterguide"
+},
+{
+"text": "https://www.fvap.gov/georgia",
+"href": "https://www.fvap.gov/georgia"
+},
+{
+"text": "https://www.gwinnettcounty.com/government/departments/elections/voting/absentee",
+"href": "https://www.gwinnettcounty.com/government/departments/elections/voting/absentee"
+},
+{
+"text": "https://www.gwinnettcounty.com/government/departments/elections/voting/advance",
+"href": "https://www.gwinnettcounty.com/government/departments/elections/voting/advance"
+},
+{
+"text": "https://www.legis.ga.gov/find-my-legislator",
+"href": "https://www.legis.ga.gov/find-my-legislator"
+},
+{
+"text": "https://www.mvp.sos.ga.gov",
+"href": "https://www.mvp.sos.ga.gov"
+},
+{
+"text": "request ballot ASAP via UOCAVA@sos.ga.gov",
+"href": "mailto:UOCAVA@sos.ga.gov"
+},
+{
+"text": "리소스 목록",
+"href": "https://www.marvinlimforga.com/resources-korean"
+}
 ]

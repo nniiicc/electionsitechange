@@ -1,9 +1,13 @@
 {
  "description": "Official campaign website for Molly Jenkins, candidate for Oklahoma House District 33. Volunteer, request a yard sign, or contribute online.",
  "final_url": "https://jenkinsforhouse.com/",
- "paid_for_by": null,
+ "fingerprint": "3c93d0f4d5c6260bc2d76a522fcc5a11a230abd6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Molly Jenkins for House District 33 | Conservative. Accountable. Zero Lobbyist Money.",
  "years_mentioned": [
-  "2025"
+  "2024",
+  "2025",
+  "2026"
  ]
 }

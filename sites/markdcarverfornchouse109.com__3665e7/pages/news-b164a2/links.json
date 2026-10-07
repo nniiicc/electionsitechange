@@ -1,45 +1,190 @@
 [
-"http://ncforum.org/",
-"http://ncforum.org/vouchers",
-"https://campaignpartner.com/",
-"https://content.govdelivery.com/attachments/NCSBE/2025/11/06/file_attachments/3453572/AEERegionalTourSummary_FINAL_small.pdf",
-"https://dailytarheel.com/section/north-carolina-politics",
-"https://edlawcenter.org/research/making-the-grade-2025",
-"https://ednc.org/12-15-2025-reason-report-shows-nc-drop-in-teacher-salaries-public-school-funding-growth",
-"https://ednc.org/achieving-educational-excellence-strategic-plan-for-public-schools-takes-hold-across-north-carolina",
-"https://ednc.org/as-state-board-starts-task-force-on-school-performance-grades-a-look-at-reform-efforts-up-to-now",
-"https://instagram.com/MarkDCarverforNCHouse109",
-"https://markdcarverfornchouse109.com/",
-"https://markdcarverfornchouse109.com/contact",
-"https://markdcarverfornchouse109.com/contribute",
-"https://markdcarverfornchouse109.com/events",
-"https://markdcarverfornchouse109.com/home",
-"https://markdcarverfornchouse109.com/issues",
-"https://markdcarverfornchouse109.com/meet_mark",
-"https://markdcarverfornchouse109.com/news",
-"https://markdcarverfornchouse109.com/news/december-19-policy-updates",
-"https://markdcarverfornchouse109.com/photos",
-"https://markdcarverfornchouse109.com/view-endorsements",
-"https://markdcarverfornchouse109.com/volunteer",
-"https://markdcarverfornchouse109.com/vote",
-"https://markdcarverfornchouse109.com/yard-sign",
-"https://ncbudget.org/north-carolina-is-at-the-bottom-of-the-rankings-for-funding-public-schools-it-doesnt-have-to-be-that-way",
-"https://ncforum.org/leandro",
-"https://ncforum.org/public-dollars-private-schools-evaluating-access-affordability-and-accountability-in-north-carolinas-universal-voucher-program/2025",
-"https://ncnewsline.com/",
-"https://ncnewsline.com/2025/12/15/north-carolina-supreme-court-delay-on-key-education-case-draws-criticism-from-advocates",
-"https://nilc.org/resources/plyler-v-doe-case-explainer",
-"https://psychiatryonline.org/doi/10.1176/appi.pn.2025.08.8.19",
-"https://publicedworks.org/2025/11/educators-exit-nc-for-better-pay",
-"https://usatoday.com/story/news/nation/2025/11/19/north-carolina-immigration-enforcement-trump-administration/87334104007",
-"https://wfae.org/politics",
-"https://wral.com/news/nccapitol/homeowner-tax-relief-bipartisan-committee-nc-property-tax-changes-december-2025",
-"https://wral.com/news/political",
-"https://wral.com/news/state/nccapitol",
-"https://wunc.org/2025-11-18/more-than-30-000-absences-reported-at-cms-on-monday-after-data-revision",
-"https://wunc.org/2025-12-08/education-leaders-have-long-struggled-with-ncs-school-letter-grades-that-system-could-soon-change",
-"https://wunc.org/2025-12-18/new-survey-shows-dissatisfaction-with-nc-schools-but-the-public-doesnt-blame-teachers",
-"https://wunc.org/2026-01-07/north-carolina-teachers-protest-for-better-pay-call-on-general-assembly-to-pass-a-state-budget",
-"https://wunc.org/politics",
-"https://youtube.com/@www.youtube.com/@MarkCarverDistrict109"
+{
+"text": "1",
+"href": "https://ncnewsline.com/"
+},
+{
+"text": "1",
+"href": "https://www.wral.com/news/political/"
+},
+{
+"text": "1",
+"href": "https://www.wunc.org/politics"
+},
+{
+"text": "2",
+"href": "https://www.wfae.org/politics"
+},
+{
+"text": "2",
+"href": "https://www.wral.com/news/state/nccapitol/"
+},
+{
+"text": "2",
+"href": "https://www.wunc.org/politics"
+},
+{
+"text": "3",
+"href": "https://www.dailytarheel.com/section/north-carolina-politics"
+},
+{
+"text": "According to reports, around 20 percent of CMS students did not attend school on Monday.",
+"href": "https://www.wunc.org/2025-11-18/more-than-30-000-absences-reported-at-cms-on-monday-after-data-revision"
+},
+{
+"text": "Contact",
+"href": "https://www.markdcarverfornchouse109.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.markdcarverfornchouse109.com/contribute"
+},
+{
+"text": "December 19 Policy Updates",
+"href": "https://www.markdcarverfornchouse109.com/news/december-19-policy-updates"
+},
+{
+"text": "Education Law Center’s 2025 Making the Grade",
+"href": "https://edlawcenter.org/research/making-the-grade-2025/#6a2f7ed5-976d-43a2-9eb5-f3385ebbe01e"
+},
+{
+"text": "Endorsements",
+"href": "https://www.markdcarverfornchouse109.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.markdcarverfornchouse109.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.markdcarverfornchouse109.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.markdcarverfornchouse109.com/issues"
+},
+{
+"text": "Meet Mark",
+"href": "https://www.markdcarverfornchouse109.com/meet_mark"
+},
+{
+"text": "NC Budget & Tax Center",
+"href": "https://ncbudget.org/north-carolina-is-at-the-bottom-of-the-rankings-for-funding-public-schools-it-doesnt-have-to-be-that-way/"
+},
+{
+"text": "NC Newsline",
+"href": "https://ncnewsline.com/"
+},
+{
+"text": "News",
+"href": "https://www.markdcarverfornchouse109.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.markdcarverfornchouse109.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Since 1982, all students– regardless of their immigration status– have been guaranteed the right to enroll in public schools in the United States",
+"href": "https://www.nilc.org/resources/plyler-v-doe-case-explainer/"
+},
+{
+"text": "Superintendent Mo Green’s statewide fall tour",
+"href": "https://www.ednc.org/achieving-educational-excellence-strategic-plan-for-public-schools-takes-hold-across-north-carolina/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.markdcarverfornchouse109.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.markdcarverfornchouse109.com/vote"
+},
+{
+"text": "WRAL News NC Capitol",
+"href": "https://www.wral.com/news/state/nccapitol/"
+},
+{
+"text": "WUNC Politics",
+"href": "https://www.wunc.org/politics"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.markdcarverfornchouse109.com/yard-sign"
+},
+{
+"text": "[image: Mark Carver NC House District 109]",
+"href": "https://www.markdcarverfornchouse109.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/MarkDCarverforNCHouse109"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@www.youtube.com/@MarkCarverDistrict109"
+},
+{
+"text": "addressing housing affordability",
+"href": "https://www.wral.com/news/nccapitol/homeowner-tax-relief-bipartisan-committee-nc-property-tax-changes-december-2025/"
+},
+{
+"text": "contributing to the ongoing issues of chronic absenteeism and mental health crises among students.",
+"href": "https://psychiatryonline.org/doi/10.1176/appi.pn.2025.08.8.19"
+},
+{
+"text": "demonstrated across the state",
+"href": "https://www.wunc.org/2026-01-07/north-carolina-teachers-protest-for-better-pay-call-on-general-assembly-to-pass-a-state-budget"
+},
+{
+"text": "frustration",
+"href": "https://ncnewsline.com/2025/12/15/north-carolina-supreme-court-delay-on-key-education-case-draws-criticism-from-advocates/"
+},
+{
+"text": "http://www.ncforum.org/",
+"href": "http://www.ncforum.org/"
+},
+{
+"text": "lose educators to neighboring states",
+"href": "https://publicedworks.org/2025/11/educators-exit-nc-for-better-pay/"
+},
+{
+"text": "many successes",
+"href": "https://content.govdelivery.com/attachments/NCSBE/2025/11/06/file_attachments/3453572/AEERegionalTourSummary_FINAL_small.pdf"
+},
+{
+"text": "ncforum.org/vouchers",
+"href": "http://ncforum.org/vouchers"
+},
+{
+"text": "report exploring access, affordability and accountability in relation to the Opportunity Scholarship Program (OSP)",
+"href": "https://www.ncforum.org/public-dollars-private-schools-evaluating-access-affordability-and-accountability-in-north-carolinas-universal-voucher-program/2025/"
+},
+{
+"text": "reports of severe racial profiling and aggressive tactics",
+"href": "https://www.usatoday.com/story/news/nation/2025/11/19/north-carolina-immigration-enforcement-trump-administration/87334104007/"
+},
+{
+"text": "statewide implementation in the 2027-28 school year",
+"href": "https://www.wunc.org/2025-12-08/education-leaders-have-long-struggled-with-ncs-school-letter-grades-that-system-could-soon-change"
+},
+{
+"text": "survey from Elon University",
+"href": "https://www.wunc.org/2025-12-18/new-survey-shows-dissatisfaction-with-nc-schools-but-the-public-doesnt-blame-teachers"
+},
+{
+"text": "task force",
+"href": "https://www.ednc.org/as-state-board-starts-task-force-on-school-performance-grades-a-look-at-reform-efforts-up-to-now/"
+},
+{
+"text": "teacher pay",
+"href": "https://www.ednc.org/12-15-2025-reason-report-shows-nc-drop-in-teacher-salaries-public-school-funding-growth/"
+},
+{
+"text": "the case remains one of the most consequential education policy",
+"href": "https://www.ncforum.org/leandro/"
+}
 ]

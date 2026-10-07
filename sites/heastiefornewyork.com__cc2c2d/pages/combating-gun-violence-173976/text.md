@@ -1,5 +1,9 @@
-The epidemic of gun violence has claimed countless lives and devastated communities across New York State.
+Home About Issues Criminal Justice Reform Affordable Housing Lifting Up All New Yorkers Giving Young People Opportunities to Succeed Investing in Education Protecting the Environment Combating Gun Violence Child Victims Act Ending Sexual Harassment 83rd District Accomplishments Contact DONATE Carl E.
+Heastie Home About Issues Criminal Justice Reform Affordable Housing Lifting Up All New Yorkers Giving Young People Opportunities to Succeed Investing in Education Protecting the Environment Combating Gun Violence Child Victims Act Ending Sexual Harassment 83rd District Accomplishments Contact DONATE Issues Criminal Justice Reform Affordable Housing Lifting Up All New Yorkers Giving Young People Opportunities to Succeed Investing in Education Protecting the Environment Combating Gun Violence Child Victims Act Ending Sexual Harassment The epidemic of gun violence has claimed countless lives and devastated communities across New York State.
 We can’t simply rely on thoughts and prayers to stop the bloodshed, which is why Speaker Heastie has passed commonsense gun safety reforms.
 In 2018, he negotiated and passed the Domestic Violence Escalation Prevention Act, which bars individuals convicted of domestic violence crimes from purchasing or possessing firearms.
 Earlier this year, Speaker Heastie passed a host of additional laws that establish an extreme risk protection order (ERPO) – also known as the Red Flag law – to keep guns away from people who are a threat to themselves or others; ban bump stocks and other similar devices; ensure potential gun purchasers can’t get firearms before clearing a background check; ban undetectable guns; and require safe storage of firearms if there’s a child living or present in the home.
 While these measures will go a long way toward protecting our families, Speaker Heastie is committed to finding more ways to curtail senseless gun violence.
+Back to Top Donate FRIENDS OF CARL E.
+HEASTIE P.O.
+BOX 840 BRONX, NY 10469 info@heastiefornewyork.com

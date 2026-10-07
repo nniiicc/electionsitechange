@@ -1,7 +1,12 @@
 {
  "description": "The US Forest Service today is not the Forest Service our parents and grandparents knew. Below is a Dixie National Forrest map from 1962. The text is more interesting than the map. The first...",
  "final_url": "https://www.rneilwalter.com/posts/not-your-fathers-forest-service",
- "paid_for_by": null,
+ "fingerprint": "baa41bf1c8b9ace2c56c33ffbb65523c2c044728",
+ "format": 3,
+ "paid_for_by": "",
  "title": "R Neil Walter Blog - R. Neil Walter",
- "years_mentioned": []
+ "years_mentioned": [
+  "1962",
+  "2015"
+ ]
 }

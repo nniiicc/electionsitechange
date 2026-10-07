@@ -1,4 +1,6 @@
-Multilingualism is an asset, which Rhode Island law already recognizes.
-Our schools should, too, write…
-Both a blood donor and a past donation recipient, Senator Lammis Vargas is shown recently…
-Modestly raising the state ’ s vehicle inspection fee to dedicate $10 from each inspection…
+Skip to content Skip to footer Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact donate Monthly Archives: June 2026 Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact Rhode Island’s need for bilingual teachers is urgent.
+This fund could help fix the pipeline, legislators say.
+Posted June 24, 2026 Multilingualism is an asset, which Rhode Island law already recognizes.
+Our schools should, too, write… Bills gain traction in General Assembly Posted June 19, 2026 Both a blood donor and a past donation recipient, Senator Lammis Vargas is shown recently… Dedicated funding for RIPTA is a practical path forward Posted June 3, 2026 Modestly raising the state ’ s vehicle inspection fee to dedicate $10 from each inspection… Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
+#teamlammis Facebook Instagram X-twitter Get Involved Meet Lammis Endorsements Platform Volunteer Contribute Contact Stay Tuned for Updates I have read and agree to the terms & conditions Leave this field empty if you're human: Copyright ©️ # Friends of Lammis J.
+Vargas | All Rights Reserved | Website Development & Design by J&R Marketing | Privacy Policy

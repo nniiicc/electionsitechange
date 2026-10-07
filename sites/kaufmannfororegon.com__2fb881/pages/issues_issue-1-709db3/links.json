@@ -1,15 +1,54 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com//profile.php?id=61592669317124",
-"https://instagram.com/roykaufmannforhd18",
-"https://kaufmannfororegon.com/",
-"https://kaufmannfororegon.com/about",
-"https://kaufmannfororegon.com/contact",
-"https://kaufmannfororegon.com/endorsements",
-"https://kaufmannfororegon.com/events",
-"https://kaufmannfororegon.com/issues",
-"https://kaufmannfororegon.com/news",
-"https://kaufmannfororegon.com/volunteer",
-"https://linktree.com/RoyKaufmann",
-"https://secure.anedot.com/friends-of-roy-kaufmann-for-hd18/ws-kaufmann"
+{
+"text": "About Roy",
+"href": "https://www.kaufmannfororegon.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.kaufmannfororegon.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-roy-kaufmann-for-hd18/ws-kaufmann"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kaufmannfororegon.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.kaufmannfororegon.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.kaufmannfororegon.com/"
+},
+{
+"text": "News",
+"href": "https://www.kaufmannfororegon.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.kaufmannfororegon.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kaufmannfororegon.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//profile.php?id=61592669317124"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/roykaufmannforhd18/"
+},
+{
+"text": "[no text]",
+"href": "https://linktree.com/RoyKaufmann"
+}
 ]

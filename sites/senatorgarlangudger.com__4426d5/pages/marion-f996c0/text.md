@@ -1,21 +1,5 @@
-top of page
-Marion County
-Marion County is located just east of the Mississippi line.
+top of page Home Meet Your Senator About Credentials Sponsored Bills District 4 News Cullman Marion Winston Media Funding & Improvements Contact Terms and Conditions Privacy Policy More Use tab to navigate through the menu items.
+Marion County Marion County is located just east of the Mississippi line.
 It is the second smallest of the four District four counties.
-It is the largest geographically, spanning 744 square miles, which closest in size to Cullman County.
-In senate district 4- there are Marion County Schools, as well as several private school options.
-Demographical Information:
-Population: 29,833
-Founded in: February 1818
-Size: 744 square miles
-County Seat: Hamilton
-Economic Development information
-County Leadership:
-Marion County House of Representatives Delegation:
-Rep.
-Tracy Estes (R) – 17th District
-Shared Marion County Senate Delegation:
-Senator Larry Stutts (R) - 6th District
-District 4 Municipalities:
-MARION
-bottom of page
+It is the largest geographically, spanning 744 square miles, which closest in size to Cullman County. ​ In senate district 4- there are Marion County School s , as well as several private school options. ​ Demographical Information: Population: 29,833 Founded in: February 1818 Size: 744 square miles County Seat: Hamilton ​ Economic Development information Chamber of Commerce ​ County Leadership: Marion County Commission ​ Marion County House of Representatives Delegation: Rep.
+Tracy Estes (R) – 17th District ​ Shared Marion County Senate Delegation: Senator Larry Stutts (R) - 6th District ​ District 4 Municipalities: Hackleburg Bear Creek Hamilton (partial) ​ ​ ​ MARION ADDRESS : 11 S Union St #722 Montgomery, AL 36130 MONTGOMERY : 334-261-0855 EMAIL: Garlan.Gudger@alsenate.gov © # Paid by "Gudger for Senate" 314 2nd Ave SE Cullman, AL 35055 Created by James William Web Design ​ bottom of page

@@ -1,10 +1,9 @@
-For immediate release: October 15, 2015
-(BOSTON) – On October 14th, 2015 the Commonwealth of Massachusetts approved a finalized deer management plan for the Blue Hills State Reservation.
+Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Facebook Twitter Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Blue Hills State Reservation Deer Management For immediate release: October 15, 2015 (BOSTON) – On October 14 th , 2015 the Commonwealth of Massachusetts approved a finalized deer management plan for the Blue Hills State Reservation.
 The plan allows for a controlled hunt to be carried out on November 30, 2015, December 1, 2015, December 7, 2015, and December 8, 2015.
 “I applaud the Department of Conservation and Recreation for taking action on the overpopulation of deer in the Blue Hills State Reservation,” said Representative Mark Cusack.
 “The health of the Reservation has been put at risk by the growing number of deer.
-Its expanding population has led to an over browse on the reservation’s vegetation and puts the public at a higher risk for deer-vehicle collisions as well as Lyme disease and other tick borne illnesses.”
-The final deer management plan is a culmination of three public meetings and the solicitation of public feedback.
+Its expanding population has led to an over browse on the reservation’s vegetation and puts the public at a higher risk for deer-vehicle collisions as well as Lyme disease and other tick borne illnesses.” The final deer management plan is a culmination of three public meetings and the solicitation of public feedback.
 “An expanding deer population is not only an issue in the Reservation, but also in neighborhoods throughout Braintree.
 I look forward to working with Town Officials to develop a plan to bring the deer population to a reasonable level throughout the entire town,” added Representative Cusack.
-###
+### Newsroom Press Releases Previous District FY16 Budget Next House Passes Bill to Criminalize Fentanyl Trafficking Related Posts ...
+House Passes FY22 ; Cusack Secures $62 Million in Local Aid for Braintree, Holbrook & Randolph Newsroom , Press Releases House Passes Fiscal Year 2019 Supplemental Budget; Cusack Secures $200,000 for Traffic Mitigation in Braintree Newsroom , Press Releases House and Senate Pass FY20 Budget; Cusack Secures $400,000 directed towards improvements in Braintree Newsroom , Press Releases Take Action Donate Join Mark’s Team Stay Informed Facebook Twitter 2020 - Paid for by the Committee to Elect Mark Cusack 74 Brow Avenue Braintree MA 02184

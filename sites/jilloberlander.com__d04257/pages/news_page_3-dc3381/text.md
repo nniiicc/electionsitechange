@@ -1,13 +1,11 @@
-News
-- Jill on the Lisa Wexler Show Lisa Wexler spoke with Jill about her path to public service, new legislation, fiscal discipline, and the 36th State Senate District.
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Newsletter • June 18, 2026 Congratulations, Class of 2026!
+As graduation ceremonies take place this week across Greenwich, Stamford, and New Canaan, I want to extend my heartfelt congratulations to the Class of 2026… Read more… Radio appearance • June 17, 2026 Jill on the Lisa Wexler Show Lisa Wexler spoke with Jill about her path to public service, new legislation, fiscal discipline, and the 36th State Senate District.
 Take a listen.
-- Meet Jill Oberlander, Candidate for State Senate Oberlander is not new to public service.
-For 15 years, she has been one of our most respected civic leaders, bringing intelligence, integrity, and practical…
-- Jill Oberlander Endorsed for State Senate in the 36th District “I’m here for the work” – Jill Oberlander, candidate for Connecticut State Senate, District 36, was endorsed by the Democratic Party on Monday night.
-- Jill Oberlander Nominated as the Democratic Candidate for State Senate in District 36 Oberlander, known in Greenwich from her prior service as a Greenwich Selectperson and Chair of the Board of Estimate & Taxation (BET), is running to…
-- Jill on Trevor & Friends Jill had the pleasure of appearing on Trevor Crow’s podcast Trevor & Friends in May.
-Take a listen as they discuss why Jill is running…
-- Oberlander Files Paperwork for State Senate Run Oberlander’s campaign for the State Senate seat builds on a record of local service that spans more than a decade.
-Her work in town government…
-- Greenwich Democrat Jill Oberlander Registers Candidacy for State Senate in 36th District Oberlander, an attorney with experience in the nonprofit sector, moved with her family to Greenwich 20 years ago.
-She is a graduate of Cornell University…
+Read more… Newsletter • June 4, 2026 Why I’m running for State Senate My commitment to public service was shaped by my family’s story.
+My father was a first-generation college graduate, Vietnam veteran, and Bronx OB-GYN who dedicated… Read more… In the News • June 1, 2026 Meet Jill Oberlander, Candidate for State Senate Oberlander is not new to public service.
+For 15 years, she has been one of our most respected civic leaders, bringing intelligence, integrity, and practical… Read more… Press Releases • May 29, 2026 Jill Oberlander Endorsed for State Senate in the 36th District “I’m here for the work” – Jill Oberlander, candidate for Connecticut State Senate, District 36, was endorsed by the Democratic Party on Monday night.
+Read more… In the News • May 19, 2026 Jill Oberlander Nominated as the Democratic Candidate for State Senate in District 36 Oberlander, known in Greenwich from her prior service as a Greenwich Selectperson and Chair of the Board of Estimate & Taxation (BET), is running to… Read more… Radio appearance • May 19, 2026 Jill on Trevor & Friends Jill had the pleasure of appearing on Trevor Crow’s podcast Trevor & Friends in May.
+Take a listen as they discuss why Jill is running… Read more… In the News • March 26, 2026 Oberlander Files Paperwork for State Senate Run Oberlander’s campaign for the State Senate seat builds on a record of local service that spans more than a decade.
+Her work in town government… Read more… In the News • March 8, 2026 Greenwich Democrat Jill Oberlander Registers Candidacy for State Senate in 36th District Oberlander, an attorney with experience in the nonprofit sector, moved with her family to Greenwich #ago.
+She is a graduate of Cornell University… Read more… ← Previous Page 1 2 3 CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+Approved by Jill Oberlander.

@@ -1,12 +1,4 @@
-Back to All Events
-Join us for our weekend door knocks to support David Gottfried for MN-40B!
+0 Skip to Content About Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Open Menu Close Menu About Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Open Menu Close Menu Folder: About Back Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Back to All Events Door Knocking Saturday, 7/18 Saturday, July 18, 2026 10:00 AM 1:00 PM Makwa Coffee 2805 Hamline Avenue North Roseville, Minnesota, 55113 United States (map) Google Calendar ICS Join us for our weekend door knocks to support David Gottfried for MN-40B!
 Pre-knock huddle starts at 10:00am.
 Meet at Makwa Coffee (2805 Hamline Ave N, Roseville, MN 55113), accessible by Terrace Drive during Hamline construction.
-Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29
-Previous
-Previous
-July 15
-Phone Banking Wednesday, 7/15
-Next
-Next
-July 22
+Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 Posted In: Door-knocking Tagged: Door-knocking Previous Previous July 15 Phone Banking Wednesday, 7/15 Next Next July 22 Phone Banking Wednesday, 7/22 Prepared and paid for by Neighbors for David Gottfried | 2000 County Rd B2 W #130811, Roseville, MN 55113 | ‪(612) 314-3484‬

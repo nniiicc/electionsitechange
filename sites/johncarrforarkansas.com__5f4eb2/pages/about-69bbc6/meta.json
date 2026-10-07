@@ -1,7 +1,11 @@
 {
  "description": "Learn more about John Carr, Arkansas State Representative, and his commitment to community engagement and service in Arkansas.",
  "final_url": "https://johncarrforarkansas.com/about",
- "paid_for_by": null,
+ "fingerprint": "cf615538aed3eff6e96701ad8be52447f958007f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About",
- "years_mentioned": []
+ "years_mentioned": [
+  "2003"
+ ]
 }

@@ -1,7 +1,11 @@
 {
- "description": "Explore Policy from Forrest Satterfield\u2019s campaign for Alabama House District 21, with local context for Huntsville and north Madison County.",
+ "description": "Explore Policy from Forrest Satterfield’s campaign for Alabama House District 21, with local context for Huntsville and north Madison County.",
  "final_url": "https://www.forrestforalabama.com/blog-category/policy",
+ "fingerprint": "269ecebfe692871fb38261d2401375d3937f7ab2",
+ "format": 3,
  "paid_for_by": "Paid for by Forrest Via Satterfield 740 SW Constellation Pl Dr, Apt",
  "title": "Policy | Forrest Satterfield Campaign Updates",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,19 +1,106 @@
 [
-"https://facebook.com/whiting4liberty",
-"https://instagram.com/mrswhiting10",
-"https://whiting4senate.us/",
-"https://whiting4senate.us/donate",
-"https://whiting4senate.us/portfolio-category/economy",
-"https://whiting4senate.us/portfolio-category/politic",
-"https://whiting4senate.us/portfolio-category/social",
-"https://whiting4senate.us/portfolio/daily-journal",
-"https://whiting4senate.us/portfolio/government-policy",
-"https://whiting4senate.us/portfolio/organizing-for-action",
-"https://whiting4senate.us/portfolio/smash-pop-art-storm",
-"https://whiting4senate.us/portfolio/teaching-tolerance",
-"https://whiting4senate.us/portfolio/walk-between-line",
-"https://whiting4senate.us/privacy-policy-2",
-"https://whiting4senate.us/privacy-policy-2-2",
-"https://whiting4senate.us/website-terms-and-conditions",
-"https://x.com/BemidjiReBecca"
+{
+"text": "Daily Journal",
+"href": "https://whiting4senate.us/portfolio/daily-journal/"
+},
+{
+"text": "Donate",
+"href": "https://whiting4senate.us/donate/"
+},
+{
+"text": "Economy",
+"href": "https://whiting4senate.us/portfolio-category/economy/"
+},
+{
+"text": "Home",
+"href": "https://whiting4senate.us/"
+},
+{
+"text": "Next Smash Pop Art Storm",
+"href": "https://whiting4senate.us/portfolio/smash-pop-art-storm/"
+},
+{
+"text": "Organizing for Action",
+"href": "https://whiting4senate.us/portfolio/organizing-for-action/"
+},
+{
+"text": "Politic",
+"href": "https://whiting4senate.us/portfolio-category/politic/"
+},
+{
+"text": "Previous Organizing for Action",
+"href": "https://whiting4senate.us/portfolio/organizing-for-action/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://whiting4senate.us/privacy-policy-2-2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://whiting4senate.us/privacy-policy-2/"
+},
+{
+"text": "Smash Pop Art Storm",
+"href": "https://whiting4senate.us/portfolio/smash-pop-art-storm/"
+},
+{
+"text": "Social",
+"href": "https://whiting4senate.us/portfolio-category/social/"
+},
+{
+"text": "Teaching Tolerance",
+"href": "https://whiting4senate.us/portfolio/teaching-tolerance/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://whiting4senate.us/website-terms-and-conditions/"
+},
+{
+"text": "Walk Between Line",
+"href": "https://whiting4senate.us/portfolio/walk-between-line/"
+},
+{
+"text": "[image: Footer Logo]",
+"href": "https://whiting4senate.us/"
+},
+{
+"text": "[image: Site Logo]",
+"href": "https://whiting4senate.us/"
+},
+{
+"text": "[image: donation-01-min]",
+"href": "https://whiting4senate.us/portfolio/organizing-for-action/"
+},
+{
+"text": "[image: economy-01-min]",
+"href": "https://whiting4senate.us/portfolio/daily-journal/"
+},
+{
+"text": "[image: economy-06-min]",
+"href": "https://whiting4senate.us/portfolio/walk-between-line/"
+},
+{
+"text": "[image: education-04-min]",
+"href": "https://whiting4senate.us/portfolio/teaching-tolerance/"
+},
+{
+"text": "[image]",
+"href": "https://whiting4senate.us/portfolio/smash-pop-art-storm/"
+},
+{
+"text": "[no text]",
+"href": "https://whiting4senate.us/portfolio/government-policy/#respond"
+},
+{
+"text": "[tooltip: Follow Us on Facebook]",
+"href": "https://www.facebook.com/whiting4liberty"
+},
+{
+"text": "[tooltip: Follow Us on Instagram]",
+"href": "https://www.instagram.com/mrswhiting10/"
+},
+{
+"text": "[tooltip: Follow Us on Twitter]",
+"href": "https://x.com/BemidjiReBecca"
+}
 ]

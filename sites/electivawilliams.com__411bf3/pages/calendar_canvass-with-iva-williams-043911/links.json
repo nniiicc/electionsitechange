@@ -1,20 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Iva+Williams&dates=20260815T160000Z%2F20260815T180000Z&location=2725+Grouse+Creek+Circle%2C+Sandy%2C+Utah%2C+84092%2C+United+States",
-"http://maps.google.com/?q=2725+Grouse+Creek+Circle+Sandy%2C+Utah%2C+84092+United+States",
-"https://electivawilliams.com/",
-"https://electivawilliams.com/about",
-"https://electivawilliams.com/calendar",
-"https://electivawilliams.com/calendar/13ku38olzqmcedf6nz5jjkvxq005wt",
-"https://electivawilliams.com/calendar/canvass-with-iva-williams?format=ical",
-"https://electivawilliams.com/calendar/phonebank-with-iva-williams-nxwh7",
-"https://electivawilliams.com/cart",
-"https://electivawilliams.com/contact",
-"https://electivawilliams.com/endorsements",
-"https://electivawilliams.com/get-involved",
-"https://electivawilliams.com/priorities",
-"https://electivawilliams.com/volunteer",
-"https://facebook.com/share/1BdWvkF5ug?mibextid=wwXIfr",
-"https://instagram.com/elect.iva",
-"https://mobilize.us/s/yqvdFU",
-"https://secure.actblue.com/donate/electivawilliams"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2725+grouse+creek+circle+sandy%2C+utah%2C+84092+united+states"
+},
+{
+"text": "0",
+"href": "https://www.electivawilliams.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electivawilliams.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.electivawilliams.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.electivawilliams.com/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.electivawilliams.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.electivawilliams.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/electivawilliams"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electivawilliams.com/endorsements"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.electivawilliams.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Iva+Williams&dates=20260815T160000Z%2F20260815T180000Z&location=2725+Grouse+Creek+Circle%2C+Sandy%2C+Utah%2C+84092%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/canvass-with-iva-williams?format=ical"
+},
+{
+"text": "Next Next August 18 Phonebank with Iva Williams",
+"href": "https://www.electivawilliams.com/calendar/phonebank-with-iva-williams-nxwh7"
+},
+{
+"text": "Previous Previous August 14 Cottage Meeting with Iva Williams",
+"href": "https://www.electivawilliams.com/calendar/13ku38olzqmcedf6nz5jjkvxq005wt"
+},
+{
+"text": "Priorities",
+"href": "https://www.electivawilliams.com/priorities"
+},
+{
+"text": "RSVP Here",
+"href": "https://mobilize.us/s/yqvdFU"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electivawilliams.com/volunteer"
+},
+{
+"text": "[image: Elect Iva Williams]",
+"href": "https://www.electivawilliams.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1BdWvkF5ug/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/elect.iva"
+}
 ]

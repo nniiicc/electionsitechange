@@ -1,12 +1,38 @@
 [
-"http://google.com/privacy/ads",
-"http://networkadvertising.org/choices",
-"https://davidhawkfortennessee.com/",
-"https://davidhawkfortennessee.com/cdn-cgi/l/email-protection",
-"https://davidhawkfortennessee.com/privacy-policy",
-"https://facebook.com/davidhawkforstaterep",
-"https://google.com/ads/preferences",
-"https://google.com/settings/ads/onweb",
-"https://secure.winred.com/fund-to-elect-david-hawk-daniel-hawk-treasurer/donate-today",
-"https://support.google.com/ads/answer/2662922?hl=en"
+{
+"text": "<< Back to site",
+"href": "https://www.davidhawkfortennessee.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/fund-to-elect-david-hawk-daniel-hawk-treasurer/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.davidhawkfortennessee.com/privacy-policy"
+},
+{
+"text": "[image: facebook icon]",
+"href": "https://www.facebook.com/davidhawkforstaterep/"
+},
+{
+"text": "[no text]",
+"href": "https://www.davidhawkfortennessee.com/cdn-cgi/l/email-protection#79"
+},
+{
+"text": "[no text]",
+"href": "https://www.davidhawkfortennessee.com/cdn-cgi/l/email-protection#93"
+},
+{
+"text": "[no text]",
+"href": "https://www.davidhawkfortennessee.com/cdn-cgi/l/email-protection#a9"
+},
+{
+"text": "davidhawkfortennessee.com",
+"href": "https://davidhawkfortennessee.com"
+},
+{
+"text": "https://support.google.com/ads/answer/2662922?hl=en",
+"href": "https://support.google.com/ads/answer/2662922?hl=en"
+}
 ]

@@ -1,59 +1,426 @@
 [
-"http://robynforwi.com/privacy-policy",
-"https://docs.google.com/forms/d/e/1FAIpQLSd1H_w2FKYsjAP1XuL9xOLcYHG3NYkezlqy4baUm2Mhf500pQ/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSe8NFI9T7Z31AFIVSw60_y-QEhvmSwKKacCIJRAcrghbi1A-w/viewform?usp=sharing&ouid=116694981243283644774",
-"https://facebook.com/RobynForWI",
-"https://forms.gle/wEacQ6KaG293GDP1A",
-"https://instagram.com/robynvining",
-"https://myvote.wi.gov/",
-"https://robynforwi.com/",
-"https://robynforwi.com/accessible-childcare",
-"https://robynforwi.com/affordable-healthcare",
-"https://robynforwi.com/aliza-and-nick",
-"https://robynforwi.com/andrea",
-"https://robynforwi.com/awards",
-"https://robynforwi.com/barb",
-"https://robynforwi.com/care-for-our-climate",
-"https://robynforwi.com/carie",
-"https://robynforwi.com/data-centers",
-"https://robynforwi.com/derek-2",
-"https://robynforwi.com/education-3",
-"https://robynforwi.com/endorsements",
-"https://robynforwi.com/erica",
-"https://robynforwi.com/faces-of-the-district",
-"https://robynforwi.com/faces-of-the-district/page/2",
-"https://robynforwi.com/friend-of-labor",
-"https://robynforwi.com/gallery",
-"https://robynforwi.com/garrett",
-"https://robynforwi.com/get-involved",
-"https://robynforwi.com/jillian",
-"https://robynforwi.com/joanna",
-"https://robynforwi.com/jody",
-"https://robynforwi.com/joe",
-"https://robynforwi.com/justice-for-all",
-"https://robynforwi.com/kelly",
-"https://robynforwi.com/laura",
-"https://robynforwi.com/liz-and-andrea",
-"https://robynforwi.com/meet-robyn",
-"https://robynforwi.com/meg-and-michela",
-"https://robynforwi.com/mental-healthcare",
-"https://robynforwi.com/molly",
-"https://robynforwi.com/nikki",
-"https://robynforwi.com/olivia",
-"https://robynforwi.com/our-american-dream",
-"https://robynforwi.com/press",
-"https://robynforwi.com/priorities",
-"https://robynforwi.com/reading-wins",
-"https://robynforwi.com/reproductive-rights",
-"https://robynforwi.com/sara",
-"https://robynforwi.com/sarah-2",
-"https://robynforwi.com/small-business",
-"https://robynforwi.com/trevor",
-"https://robynforwi.com/violence-prevention",
-"https://robynforwi.com/wi-state-senate-district-5-map",
-"https://robynforwi.com/working-together",
-"https://secure.actblue.com/donate/robyn-vining-1",
-"https://secure.actblue.com/donate/robynviningmerch",
-"https://tinyurl.com/RobynViningVolunteer",
-"https://youtube.com/channel/UCRiTUFx0zmV6UUxAW8dc6JA"
+{
+"text": "Affordability",
+"href": "https://www.robynforwi.com/our-american-dream/"
+},
+{
+"text": "Affordable Healthcare",
+"href": "https://www.robynforwi.com/affordable-healthcare/"
+},
+{
+"text": "Aliza and Nick",
+"href": "https://www.robynforwi.com/aliza-and-nick/"
+},
+{
+"text": "Andrea",
+"href": "https://www.robynforwi.com/andrea/"
+},
+{
+"text": "Awards",
+"href": "https://www.robynforwi.com/awards/"
+},
+{
+"text": "Barb",
+"href": "https://www.robynforwi.com/barb/"
+},
+{
+"text": "Care For Our Climate",
+"href": "https://www.robynforwi.com/care-for-our-climate/"
+},
+{
+"text": "Carie",
+"href": "https://www.robynforwi.com/carie/"
+},
+{
+"text": "Childcare",
+"href": "https://www.robynforwi.com/accessible-childcare/"
+},
+{
+"text": "Contact",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe8NFI9T7Z31AFIVSw60_y-QEhvmSwKKacCIJRAcrghbi1A-w/viewform?usp=sharing&ouid=116694981243283644774"
+},
+{
+"text": "Data Centers",
+"href": "https://www.robynforwi.com/data-centers/"
+},
+{
+"text": "Derek",
+"href": "https://www.robynforwi.com/derek-2/"
+},
+{
+"text": "District Map",
+"href": "https://www.robynforwi.com/wi-state-senate-district-5-map/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/robyn-vining-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.robynforwi.com/endorsements/"
+},
+{
+"text": "Erica",
+"href": "https://www.robynforwi.com/erica/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RobynForWI"
+},
+{
+"text": "Faces of the District",
+"href": "https://www.robynforwi.com/faces-of-the-district/"
+},
+{
+"text": "Friend of Labor",
+"href": "https://www.robynforwi.com/friend-of-labor/"
+},
+{
+"text": "Gallery",
+"href": "https://www.robynforwi.com/gallery/"
+},
+{
+"text": "Garrett",
+"href": "https://www.robynforwi.com/garrett/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.robynforwi.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.robynforwi.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/robynvining/"
+},
+{
+"text": "Jillian",
+"href": "https://www.robynforwi.com/jillian/"
+},
+{
+"text": "Joanna",
+"href": "https://www.robynforwi.com/joanna/"
+},
+{
+"text": "Jody",
+"href": "https://www.robynforwi.com/jody/"
+},
+{
+"text": "Joe",
+"href": "https://www.robynforwi.com/joe/"
+},
+{
+"text": "Justice for All",
+"href": "https://www.robynforwi.com/justice-for-all/"
+},
+{
+"text": "Kelly",
+"href": "https://www.robynforwi.com/kelly/"
+},
+{
+"text": "Knock Doors",
+"href": "https://forms.gle/wEacQ6KaG293GDP1A"
+},
+{
+"text": "Laura",
+"href": "https://www.robynforwi.com/laura/"
+},
+{
+"text": "Liz and Andrea",
+"href": "https://www.robynforwi.com/liz-and-andrea/"
+},
+{
+"text": "Meet Robyn",
+"href": "https://www.robynforwi.com/meet-robyn/"
+},
+{
+"text": "Meg and Michela",
+"href": "https://www.robynforwi.com/meg-and-michela/"
+},
+{
+"text": "Mental Healthcare",
+"href": "https://www.robynforwi.com/mental-healthcare/"
+},
+{
+"text": "Merch",
+"href": "https://secure.actblue.com/donate/robynviningmerch"
+},
+{
+"text": "Molly",
+"href": "https://www.robynforwi.com/molly/"
+},
+{
+"text": "Nikki",
+"href": "https://www.robynforwi.com/nikki/"
+},
+{
+"text": "Olivia",
+"href": "https://www.robynforwi.com/olivia/"
+},
+{
+"text": "Press",
+"href": "https://www.robynforwi.com/press/"
+},
+{
+"text": "Priorities",
+"href": "https://www.robynforwi.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "http://www.robynforwi.com/privacy-policy/"
+},
+{
+"text": "Quality Education",
+"href": "https://www.robynforwi.com/education-3/"
+},
+{
+"text": "Reading Wins",
+"href": "https://www.robynforwi.com/reading-wins/"
+},
+{
+"text": "Reproductive Freedom",
+"href": "https://www.robynforwi.com/reproductive-rights/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd1H_w2FKYsjAP1XuL9xOLcYHG3NYkezlqy4baUm2Mhf500pQ/viewform?usp=header"
+},
+{
+"text": "SD 5 Map",
+"href": "https://www.robynforwi.com/wi-state-senate-district-5-map/"
+},
+{
+"text": "Sara",
+"href": "https://www.robynforwi.com/sara/"
+},
+{
+"text": "Sarah",
+"href": "https://www.robynforwi.com/sarah-2/"
+},
+{
+"text": "Small Business Development",
+"href": "https://www.robynforwi.com/small-business/"
+},
+{
+"text": "Trevor",
+"href": "https://www.robynforwi.com/trevor/"
+},
+{
+"text": "Violence Prevention",
+"href": "https://www.robynforwi.com/violence-prevention/"
+},
+{
+"text": "Volunteer",
+"href": "https://tinyurl.com/RobynViningVolunteer"
+},
+{
+"text": "Vote",
+"href": "https://myvote.wi.gov/"
+},
+{
+"text": "Voting",
+"href": "https://myvote.wi.gov/"
+},
+{
+"text": "Working Together",
+"href": "https://www.robynforwi.com/working-together/"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UCRiTUFx0zmV6UUxAW8dc6JA"
+},
+{
+"text": "Z",
+"href": "https://myvote.wi.gov/"
+},
+{
+"text": "[image: Aliza and Nick]",
+"href": "https://www.robynforwi.com/aliza-and-nick/"
+},
+{
+"text": "[image: Andrea]",
+"href": "https://www.robynforwi.com/andrea/"
+},
+{
+"text": "[image: Barb]",
+"href": "https://www.robynforwi.com/barb/"
+},
+{
+"text": "[image: Carie]",
+"href": "https://www.robynforwi.com/carie/"
+},
+{
+"text": "[image: Derek]",
+"href": "https://www.robynforwi.com/derek-2/"
+},
+{
+"text": "[image: Erica]",
+"href": "https://www.robynforwi.com/erica/"
+},
+{
+"text": "[image: Garrett]",
+"href": "https://www.robynforwi.com/garrett/"
+},
+{
+"text": "[image: Jillian]",
+"href": "https://www.robynforwi.com/jillian/"
+},
+{
+"text": "[image: Joanna]",
+"href": "https://www.robynforwi.com/joanna/"
+},
+{
+"text": "[image: Jody]",
+"href": "https://www.robynforwi.com/jody/"
+},
+{
+"text": "[image: Joe]",
+"href": "https://www.robynforwi.com/joe/"
+},
+{
+"text": "[image: Kelly]",
+"href": "https://www.robynforwi.com/kelly/"
+},
+{
+"text": "[image: Laura]",
+"href": "https://www.robynforwi.com/laura/"
+},
+{
+"text": "[image: Liz and Andrea]",
+"href": "https://www.robynforwi.com/liz-and-andrea/"
+},
+{
+"text": "[image: Meg and Michela]",
+"href": "https://www.robynforwi.com/meg-and-michela/"
+},
+{
+"text": "[image: Molly]",
+"href": "https://www.robynforwi.com/molly/"
+},
+{
+"text": "[image: Nikki]",
+"href": "https://www.robynforwi.com/nikki/"
+},
+{
+"text": "[image: Olivia]",
+"href": "https://www.robynforwi.com/olivia/"
+},
+{
+"text": "[image: Robyn For WI]",
+"href": "https://www.robynforwi.com/"
+},
+{
+"text": "[image: Sara]",
+"href": "https://www.robynforwi.com/sara/"
+},
+{
+"text": "[image: Sarah]",
+"href": "https://www.robynforwi.com/sarah-2/"
+},
+{
+"text": "[image: Trevor]",
+"href": "https://www.robynforwi.com/trevor/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/aliza-and-nick/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/andrea/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/barb/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/carie/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/derek-2/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/erica/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/garrett/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/jillian/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/joanna/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/jody/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/joe/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/kelly/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/laura/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/liz-and-andrea/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/meg-and-michela/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/molly/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/nikki/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/olivia/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/sara/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/sarah-2/"
+},
+{
+"text": "read more",
+"href": "https://www.robynforwi.com/trevor/"
+},
+{
+"text": "« Older Entries",
+"href": "https://www.robynforwi.com/faces-of-the-district/page/2/?et_blog="
+},
+{
+"text": "",
+"href": "https://www.robynforwi.com/wi-state-senate-district-5-map/"
+},
+{
+"text": "",
+"href": "https://tinyurl.com/RobynViningVolunteer"
+},
+{
+"text": "",
+"href": "https://secure.actblue.com/donate/robyn-vining-1"
+}
 ]

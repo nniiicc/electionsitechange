@@ -1,7 +1,34 @@
 [
-"http://datemamedia.com/",
-"https://kenborton.com/",
-"https://kenborton.com/donation-form",
-"https://kenborton.com/events",
-"https://secure.winred.com/committee-to-elect-ken-borton-ab576e43/donate-today"
+{
+"text": "ABOUT KEN",
+"href": "https://www.kenborton.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.kenborton.com"
+},
+{
+"text": "DONATE",
+"href": "https://www.kenborton.com/donation-form"
+},
+{
+"text": "Datema Media",
+"href": "http://datemamedia.com"
+},
+{
+"text": "Donate Now!",
+"href": "https://secure.winred.com/committee-to-elect-ken-borton-ab576e43/donate-today"
+},
+{
+"text": "EDUCATION & ENDORSEMENTS",
+"href": "https://www.kenborton.com"
+},
+{
+"text": "EVENING RECEPTION",
+"href": "https://www.kenborton.com/events"
+},
+{
+"text": "HOME",
+"href": "https://www.kenborton.com"
+}
 ]

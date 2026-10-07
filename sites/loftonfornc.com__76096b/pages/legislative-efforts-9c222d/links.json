@@ -1,14 +1,58 @@
 [
-"https://facebook.com/LoftonforNC",
-"https://google.com/url?q=https%3A%2F%2Fwww.ncleg.gov%2FMembers%2FIntroducedBills%2FH%2F751%2F2021%2Ftrue&sa=D&ust=1661995117680369&usg=AOvVaw3RS7Xz_Z3k5qJTpwDUOziU",
-"https://loftonfornc.com/",
-"https://loftonfornc.com/covid-19-resources",
-"https://loftonfornc.com/endorsement-videos",
-"https://loftonfornc.com/endorsements",
-"https://loftonfornc.com/issues",
-"https://loftonfornc.com/legislative-efforts",
-"https://loftonfornc.com/meet-brandon",
-"https://loftonfornc.com/volunteer",
-"https://secure.actblue.com/donate/loftonfornchouse",
-"https://twitter.com/LoftonforNC"
+{
+"text": "CONTRIBUTE NOW",
+"href": "https://secure.actblue.com/donate/loftonfornchouse"
+},
+{
+"text": "COVID-19 Resources",
+"href": "https://www.loftonfornc.com/covid-19-resources"
+},
+{
+"text": "Endorsement Videos",
+"href": "https://www.loftonfornc.com/endorsement-videos"
+},
+{
+"text": "Endorsements",
+"href": "https://www.loftonfornc.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.loftonfornc.com/issues"
+},
+{
+"text": "Legislative Efforts",
+"href": "https://www.loftonfornc.com/legislative-efforts"
+},
+{
+"text": "Meet Brandon",
+"href": "https://www.loftonfornc.com/meet-brandon"
+},
+{
+"text": "Volunteer",
+"href": "https://www.loftonfornc.com/volunteer"
+},
+{
+"text": "Welcome",
+"href": "https://www.loftonfornc.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/LoftonforNC/"
+},
+{
+"text": "[image: LOFTON for House_Logo (1).jpg]",
+"href": "https://www.loftonfornc.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/LoftonforNC"
+},
+{
+"text": "complete list of bills",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.ncleg.gov%2FMembers%2FIntroducedBills%2FH%2F751%2F2021%2Ftrue&sa=D&ust=1661995117680369&usg=AOvVaw3RS7Xz_Z3k5qJTpwDUOziU"
+},
+{
+"text": "info@loftonfornc.com",
+"href": "mailto:info@loftonfornc.com"
+}
 ]

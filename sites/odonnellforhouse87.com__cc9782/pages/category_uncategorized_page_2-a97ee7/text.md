@@ -1,9 +1,8 @@
-by amandac | Sep 4, 2024 | Uncategorized
-A rural Keosauqua resident will be on the November 5 ballot for District 87 of the Iowa House of Representatives.
+HOME MEET TOM ISSUES NEWS EVENTS CONTACT DONATE THE MOST GOOD FOR THE MOST PEOPLE AT THE LEAST COST Rural Keosauqua resident Thomas O’Donnell seeks Iowa House 87 seat by amandac | Sep 4, 2024 | Uncategorized A rural Keosauqua resident will be on the November 5 ballot for District 87 of the Iowa House of Representatives.
 Democratic delegates from Henry, Jefferson and Van Buren counties held a special convention via videoconference on August 20 to nominate Thomas O’Donnell....
-by amandac | Aug 28, 2024 | Uncategorized
-A southeast Iowa man announced his plans to run for a seat in the Iowa House of Representatives in November.
+O’Donnell Announces Candidacy for Iowa House by amandac | Aug 28, 2024 | Uncategorized A southeast Iowa man announced his plans to run for a seat in the Iowa House of Representatives in November.
 Thomas O’Donnell, 65, was nominated by Democratic delegates from Henry, Jefferson, and Van Buren Counties via a special convention on a teleconference call...
-by amandac | May 3, 2024 | Uncategorized
-The 90th Iowa General Assembly has adjourned, and the Republicans who control the government are congratulating themselves on a fat surplus and planning to spend it via accelerated tax cuts that will mostly benefit the wealthy.
+Iowa keeps money in the bank as the state crumbles by amandac | May 3, 2024 | Uncategorized The 90th Iowa General Assembly has adjourned, and the Republicans who control the government are congratulating themselves on a fat surplus and planning to spend it via accelerated tax cuts that will mostly benefit the wealthy.
 The Iowa Capital Dispatch reported that...
+Next Entries » Contact Tom! info@odonnellforhouse87.com 641-630-3757 PAID FOR BY TOM O’DONNELL FOR HD87 26849 South St.
+Keosauqua, IA 52565 PRIVACY POLICY

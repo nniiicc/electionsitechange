@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+with+Peter+Welch&dates=20221017T163000Z%2F20221017T173000Z&location=53+Lower+Main+Street%2C+Morristown%2C+VT%2C+05661%2C+United+States",
-"http://maps.google.com/?q=53+Lower+Main+Street+Morristown%2C+VT%2C+05661+United+States",
-"https://facebook.com/lamontforvermont",
-"https://instagram.com/lamontforvermont",
-"https://lamontforvermont.com/",
-"https://lamontforvermont.com/about",
-"https://lamontforvermont.com/cart",
-"https://lamontforvermont.com/endorsements",
-"https://lamontforvermont.com/events",
-"https://lamontforvermont.com/events/group-canvassing-day",
-"https://lamontforvermont.com/events/meet-and-greet-with-peter-welch?format=ical",
-"https://lamontforvermont.com/events/stowe-reporter-news-and-citizen-debate",
-"https://lamontforvermont.com/get-involved",
-"https://lamontforvermont.com/issues",
-"https://linkedin.com/in/saudia-lamont-vermont",
-"https://secure.actblue.com/donate/lamont-for-vermont-1",
-"https://sos.vermont.gov/elections/voters/registration"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=53+lower+main+street+morristown%2C+vt%2C+05661+united+states"
+},
+{
+"text": "0",
+"href": "https://www.lamontforvermont.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lamontforvermont.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.lamontforvermont.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.lamontforvermont.com/get-involved"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lamont-for-vermont-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lamontforvermont.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.lamontforvermont.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+with+Peter+Welch&dates=20221017T163000Z%2F20221017T173000Z&location=53+Lower+Main+Street%2C+Morristown%2C+VT%2C+05661%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.lamontforvermont.com/events/meet-and-greet-with-peter-welch?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.lamontforvermont.com/issues"
+},
+{
+"text": "Next Next October 23 Group Canvassing Day",
+"href": "https://www.lamontforvermont.com/events/group-canvassing-day"
+},
+{
+"text": "Previous Previous October 13 Stowe Reporter & News and Citizen Debate",
+"href": "https://www.lamontforvermont.com/events/stowe-reporter-news-and-citizen-debate"
+},
+{
+"text": "Register to vote",
+"href": "https://sos.vermont.gov/elections/voters/registration/"
+},
+{
+"text": "[image: Saudia LaMont for Vermont]",
+"href": "https://www.lamontforvermont.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lamontforvermont"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lamontforvermont/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/saudia-lamont-vermont/"
+}
 ]

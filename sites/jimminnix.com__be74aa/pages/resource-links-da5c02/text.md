@@ -1,12 +1,5 @@
-Current Topics of Interest:
-Covid-19
-Medicare/Medicaid
-Education
-Budget
-State Information:
-Legislative Resources:
-- Kansas Legislature
-- How a Bill Becomes Law
-- Listen in Live to the Kansas House
-(available during Session)
-Paid for by Minnix for Kansas House|Perry Nowak, Treasurer
+↓ Home Mobile Menu ↓ Skip to primary content Skip to secondary content Home About Jim News Jim in the News Jim’s Newsletters Legislature Jim in the Legislature Legislative Highlights Policy Resources Resource Links House District 118 Contact Donate Jim Minnix for Kansas House Kansas House District 118 Resource Links Current Topics of Interest: Covid-19 KDHE Coronavirus (COVID-19) Response Medicare/Medicaid KanCare: Reinventing Medicare for Kansas Medicaid Primer Education School Finance Overview KLRD Education Publications Budget Kansas Fiscal Facts 2022 2022-2023 Appropriations Report State Information: State of Kansas Website Listing of State Agencies and Resources Legislative Resources: Kansas Legislature How a Bill Becomes Law Listen in Live to the Kansas House (available during Session) Kansas Online Services: Kansas Unclaimed Property Current Kansas Road Conditions Sex Offender Search Telemarketing No-Call List Kansas Charity Check Elected Officials: Kansas Governor’s Office U.S.
+Senator Jerry Moran U.S.
+Senator Roger Marshall U.S.
+Congressman Tracey Mann Jim’s Mailing List Subscribe to Jim’s mailing list .
+Minnix for Kansas House Kansas Legislature About the Legislature The Kansas House Find Your Legislator Kansas Legislative Guide Contact Jim 8101 W Road 40 Scott City, Kansas 67871 Phone: 620-874-4498 jimminnix@icloud.com Paid for by Minnix for Kansas House | Perry Nowak, Treasurer ↑

@@ -1,5 +1,5 @@
-Dear Friend,
-I'm Mark McLean, and I'm running for re-election as your State Representative in Hillsborough District 15.
+DONATE Home About Mark's Message Contact Us Donate!
+Dear Friend, ​​I'm Mark McLean, and I'm running for re-election as your State Representative in Hillsborough District 15.
 During my five terms in the New Hampshire House I have consistently fought to maintain openness in government, and support policies that allow the businesses and citizens of this state to thrive.
 I have always believed that New Hampshire's citizen-based legislature is one of our greatest strengths.
 While it's true that the government plays a vital role in the society we all enjoy, it is incumbent on all of us to insure that it understands that role and does not exceed it.
@@ -17,6 +17,6 @@ The majority of the last 30 years of my life have been spent working hard in the
 I know that for New Hampshire to continue to succeed it must go forward with a clear and confident plan that allows us to be able to compete with the best that's out there.
 I believe we're doing just that.
 I want to return to Concord to continue to be your voice for restraint.
-I want to preserve personal freedoms, and help create an environment that will provide the potential for all the citizens of this state to succeed.
-Warmest Regards,
-Mark
+I want to preserve personal freedoms, and help create an environment that will provide the potential for all the citizens of this state to succeed. ​ Warmest Regards, Mark Copyright © Paid for by Mark McLean For State Representative.
+All Rights Reserved.
+Home About Mark's Message Contact Us View on Mobile

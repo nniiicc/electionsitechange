@@ -1,4 +1,4 @@
-Honestly, if anyone else is up for it, if you know what's up, I say go for it.
+home plan non-Profit Initiatives about why the 7th? why me? contact blog Store volunteer donate home plan non-Profit Initiatives about why the 7th? why me? contact blog Store volunteer donate Honestly, if anyone else is up for it, if you know what's up, I say go for it.
 I will help you as much as I can.
 I say give them a run for all their money.
 At least pump it back into our local economy.
@@ -45,8 +45,7 @@ Do you even have a choice?
 Or did money win them.
 In the past nearly 30 years, with your current representative, with all that they have accomplished, how much has YOUR life changed?
 And how many times did they sell out, living large, using their position to live a life of luxury on the taxpayer dime, while leaving the most vulnerable behind and cheating everyone else of true change?
-Google their name and "scandal" or "corruption."
-Is that just the way it is?
+Google their name and "scandal" or "corruption." Is that just the way it is?
 All I see is the same person different suit.
 Is that the change you are excited about?
 What are the differences between them?
@@ -55,7 +54,7 @@ Will some things ever change?
 Have we all turned belly up and accepted this as our fate?
 Tossing you a bone, a crumb, here and there.
 And then taking most of it back ten years later.
-The beautiful thing about a district like ours is that doing for those with the least, will benefit everyone in our district.
+The beautifu l thing about a district like ours is that doing for those with the least, will benefit everyone in our district.
 All I see commuting around the 7th is potential for growth and so much opportunity.
 Most of all, we need more voices coming from real people facing real problems.
 I have a lot of the same ideas, but it is a matter of principle.

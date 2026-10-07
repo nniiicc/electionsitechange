@@ -1,5 +1,4 @@
-STANDING WITH WORKERS
-Workers deserve fair wages and the freedom to organize.
+Meet Andrea Issues Get Involved Events Voter Information Media and Contact Shop Donate Meet Andrea Issues Get Involved Events Voter Information Media and Contact Shop Donate Your Page Header Title Join Now STANDING WITH WORKERS Workers deserve fair wages and the freedom to organize.
 Over the last year, I’ve visited Massachusetts workers on the picket line.
 Many have shared with me why they made the tough decision to go out on strike.
 Some described poor working conditions, no sick pay, and having to use vacation days if they needed a day off to get well.
@@ -8,3 +7,4 @@ These are workers, our neighbors, the backbone of our Commonwealth, who have wor
 As Governor, I will raise the minimum wage, ban captive-audience union-busting, require labor peace agreements for state contractors, and support worker organizing.
 I will drive down the cost of housing, childcare, and utilities, and fight to create public banking to help working families become homeowners.
 Read more Issues.
+English Español (Spanish) français (French) Haitian Creole Português (Portuguese) Tiếng Việt (Vietnamese) Made in Solidarity Tech

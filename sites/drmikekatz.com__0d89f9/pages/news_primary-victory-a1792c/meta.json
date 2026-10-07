@@ -1,7 +1,11 @@
 {
  "description": "Republican candidate for U.S. Senate, Delaware 2026",
  "final_url": "https://drmikekatz.com/news/primary-victory",
+ "fingerprint": "e2d1729fc454654f8860573c090874ec47186a16",
+ "format": 3,
  "paid_for_by": "Paid for by Dr",
- "title": "Dr. Mike Katz Wins Republican Primary for U.S. Senate \u2014 Katz for Delaware",
- "years_mentioned": []
+ "title": "Dr. Mike Katz Wins Republican Primary for U.S. Senate — Katz for Delaware",
+ "years_mentioned": [
+  "2026"
+ ]
 }

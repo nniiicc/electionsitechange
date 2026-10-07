@@ -1,11 +1,42 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://instagram.com/madisonformaine",
-"https://madisonformaine.com/",
-"https://madisonformaine.com/about",
-"https://madisonformaine.com/cart",
-"https://madisonformaine.com/donate",
-"https://madisonformaine.com/platform",
-"https://madisonformaine.com/talk",
-"https://madisonformaine.com/volunteer"
+{
+"text": "0",
+"href": "https://www.madisonformaine.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.madisonformaine.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.madisonformaine.com/donate"
+},
+{
+"text": "Donate $5",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.madisonformaine.com/platform"
+},
+{
+"text": "SIGNS",
+"href": "https://www.madisonformaine.com/"
+},
+{
+"text": "TALK of the TOWN",
+"href": "https://www.madisonformaine.com/talk"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.madisonformaine.com/volunteer"
+},
+{
+"text": "[image: Madison for Maine]",
+"href": "https://www.madisonformaine.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/madisonformaine/"
+}
 ]

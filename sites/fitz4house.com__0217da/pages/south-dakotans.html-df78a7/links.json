@@ -1,17 +1,70 @@
 [
-"https://fitz4house.com/",
-"https://fitz4house.com/about-mary.html",
-"https://fitz4house.com/donate-to-the-campaign.html",
-"https://fitz4house.com/donate-to-the-campaign1.html",
-"https://fitz4house.com/donate-to-the-campaign2.html",
-"https://fitz4house.com/donate-to-the-campaign3.html",
-"https://fitz4house.com/endorsements.html",
-"https://fitz4house.com/on-the-issues.html",
-"https://fitz4house.com/privacy-policy.html",
-"https://fitz4house.com/south-dakotans.html",
-"https://fitz4house.com/uploads/1/3/2/7/132730303/c_orig.jpg",
-"https://fitz4house.com/uploads/1/3/2/7/132730303/fl_orig.jpg",
-"https://fitz4house.com/uploads/1/3/2/7/132730303/img-0166_orig.jpg",
-"https://fitz4house.com/uploads/1/3/2/7/132730303/img-0198_orig.jpg",
-"https://fitz4house.com/uploads/1/3/2/7/132730303/web-2_orig.jpg"
+{
+"text": "About Mary",
+"href": "https://www.fitz4house.com/about-mary.html"
+},
+{
+"text": "Donate to the Campaign",
+"href": "https://www.fitz4house.com/donate-to-the-campaign.html"
+},
+{
+"text": "Donate to the Campaign",
+"href": "https://www.fitz4house.com/donate-to-the-campaign1.html"
+},
+{
+"text": "Donate to the Campaign",
+"href": "https://www.fitz4house.com/donate-to-the-campaign2.html"
+},
+{
+"text": "Donate to the Campaign",
+"href": "https://www.fitz4house.com/donate-to-the-campaign3.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fitz4house.com/endorsements.html"
+},
+{
+"text": "HOME",
+"href": "https://www.fitz4house.com/"
+},
+{
+"text": "On the Issues",
+"href": "https://www.fitz4house.com/on-the-issues.html"
+},
+{
+"text": "PRIVACY POLICY​​",
+"href": "https://www.fitz4house.com/privacy-policy.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.fitz4house.com/privacy-policy.html"
+},
+{
+"text": "South Dakotans",
+"href": "https://www.fitz4house.com/south-dakotans.html"
+},
+{
+"text": "[image: MY SITE]",
+"href": "https://www.fitz4house.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.fitz4house.com/uploads/1/3/2/7/132730303/c_orig.jpg"
+},
+{
+"text": "[image]",
+"href": "https://www.fitz4house.com/uploads/1/3/2/7/132730303/fl_orig.jpg"
+},
+{
+"text": "[image]",
+"href": "https://www.fitz4house.com/uploads/1/3/2/7/132730303/img-0166_orig.jpg"
+},
+{
+"text": "[image]",
+"href": "https://www.fitz4house.com/uploads/1/3/2/7/132730303/img-0198_orig.jpg"
+},
+{
+"text": "[image]",
+"href": "https://www.fitz4house.com/uploads/1/3/2/7/132730303/web-2_orig.jpg"
+}
 ]

@@ -1,5 +1,4 @@
-MEET KELVIN
-Kelvin J.
+0 Skip to Content About Volunteer Donate Open Menu Close Menu About Volunteer Donate Open Menu Close Menu About Volunteer Donate MEET KELVIN Kelvin J.
 Lawrence was elected to the Alabama House of Representatives on November 4, 2014.
 Kelvin represents House District 69, and serves on three committees.
 He is a lifelong resident of Hayneville, AL, His education includes Saint Jude Educational Institute and Alabama State University.
@@ -16,3 +15,4 @@ Moriah Baptist Church #2.
 His service to his church includes: Deacon Board Ministry, Youth Mass, Sanctuary, and Male Chorus member, and a Youth Advisor.
 His involvement extends even further as he is also a member of the Lowndes County Chapter of the New South Coalition, Alabama Democratic Party, Prince Hall Masonry, Alabama State University Alumni Association.
 He has many accolades to include the 2012 Entrepreneurship award and many other community leadership awards.
+Paid for by the Kelvin Lawrence Campaign P.O Box 1010, Hayneville, AL 36040 Donate

@@ -1,10 +1,4 @@
-Meet Justin Ready
-Husband & Father
-State Senator
-Energetic Leader
-Conservative Champion
-Senator Justin Ready represents District 5 in the Maryland State Senate
-Justin believes that bringing down the cost of living, supporting and promoting strong families, and respecting our Constitutional rights must be top priorities for our state.
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Meet Justin Ready Husband & Father State Senator Energetic Leader Conservative Champion Senator Justin Ready represents District 5 in the Maryland State Senate Justin believes that bringing down the cost of living, supporting and promoting strong families, and respecting our Constitutional rights must be top priorities for our state.
 Senator Justin Ready represents District 5 (Carroll & Frederick Counties) in the Maryland State Senate.
 Justin currently serves on the Senate Finance Committee and, starting in October 2021 has served as the Senate Minority (Republican) Whip.
 Justin was elected by District 5 voters to his first full-term in 2018 after being appointed to the Senate during the previous term.
@@ -18,3 +12,4 @@ In his current “day job” (Maryland state legislators are part-time) Justin w
 In the State Senate, Justin has focused intently on making Maryland more friendly for families, retirees, job creators, and our farmers.
 In Annapolis, he’s stood up for real, conservative reform and change in state government.
 Justin believes that bringing down the cost of living, supporting and promoting strong families, and respecting our Constitutional rights must be top priorities for our state.
+Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer

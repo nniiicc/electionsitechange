@@ -1,15 +1,1 @@
-Home
-Meet Marisa
-Issues
-Events
-Endorsements
-News
-Voting Info
-Volunteer
-Donate
-Donate
-Follow us
-Menu
-Terms of Service
-Terms of Service
-Text
+Home Meet Marisa Issues Events Endorsements News Voting Info Volunteer Donate Follow us Donate Follow us Menu Terms of Service Terms of Service Text Contact Marisa marisa.jackson.wv@gmail.com Home Meet Marisa Issues Events Endorsements News Voting Info Volunteer Donate Follow us Accessibility Statement Terms of Service Contact Paid for by the campaign- Marisa for WV PO Box 102 St Albans, WV 25177 Marisa for WV © #

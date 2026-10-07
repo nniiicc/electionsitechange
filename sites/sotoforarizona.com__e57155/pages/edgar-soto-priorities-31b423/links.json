@@ -1,10 +1,34 @@
 [
-"https://facebook.com/Sotoforarizona",
-"https://instagram.com/sotoforarizona",
-"https://secure.actblue.com/donate/edgar-soto-1",
-"https://sotoforarizona.com/",
-"https://sotoforarizona.com/about-edgar",
-"https://sotoforarizona.com/cart",
-"https://sotoforarizona.com/edgar-soto-contact",
-"https://sotoforarizona.com/edgar-soto-priorities"
+{
+"text": "0",
+"href": "https://www.sotoforarizona.com/cart"
+},
+{
+"text": "About Edgar",
+"href": "https://www.sotoforarizona.com/about-edgar"
+},
+{
+"text": "Contact",
+"href": "https://www.sotoforarizona.com/edgar-soto-contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/edgar-soto-1"
+},
+{
+"text": "Priorities",
+"href": "https://www.sotoforarizona.com/edgar-soto-priorities"
+},
+{
+"text": "[image: Edgar Soto For Arizona]",
+"href": "https://www.sotoforarizona.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Sotoforarizona"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sotoforarizona/"
+}
 ]

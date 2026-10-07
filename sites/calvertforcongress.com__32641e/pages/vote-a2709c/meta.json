@@ -1,7 +1,9 @@
 {
  "description": "Find essential voting information, including ballot drop-off locations, vote centers, and how to track your ballot.",
  "final_url": "https://calvertforcongress.com/vote",
- "paid_for_by": "Paid for by the Calvert for Congress Committee FEC ID: C00257337 Copyright \u00a9 2022 Calvert For Congress - All Rights Reserved",
+ "fingerprint": "3e99d92476d2a0feeb1e652873151e65fce11984",
+ "format": 3,
+ "paid_for_by": "Paid for by the Calvert for Congress Committee FEC ID: C00257337 Copyright © # Calvert For Congress - All Rights Reserved",
  "title": "VOTE",
  "years_mentioned": []
 }

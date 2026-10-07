@@ -1,10 +1,15 @@
 {
  "description": "",
  "final_url": "https://www.glenngruenhagen.com/",
- "paid_for_by": null,
+ "fingerprint": "a4eaf76b669e3cf516cf2c73362b4042a3d218e3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Glenn Gruenhagen",
  "years_mentioned": [
+  "1984",
+  "2006",
+  "2009",
   "2010",
-  "2022"
+  "2026"
  ]
 }

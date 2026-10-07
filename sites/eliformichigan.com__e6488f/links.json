@@ -1,24 +1,118 @@
 [
-"https://bsky.app/profile/esavit.bsky.social",
-"https://eliformichigan.com/",
-"https://eliformichigan.com/about",
-"https://eliformichigan.com/cart",
-"https://eliformichigan.com/endorsements",
-"https://eliformichigan.com/get-involved",
-"https://eliformichigan.com/issues",
-"https://eliformichigan.com/media",
-"https://eliformichigan.com/pledge",
-"https://eliformichigan.com/privacy-policy",
-"https://eliformichigan.com/take-action",
-"https://facebook.com/eliformi",
-"https://instagram.com/esavit",
-"https://iwillvote.com/",
-"https://secure.actblue.com/donate/eliformichigan",
-"https://secure.actblue.com/donate/eliformichigan?amount=10",
-"https://secure.actblue.com/donate/eliformichigan?amount=100",
-"https://secure.actblue.com/donate/eliformichigan?amount=1000",
-"https://secure.actblue.com/donate/eliformichigan?amount=250",
-"https://secure.actblue.com/donate/eliformichigan?amount=500",
-"https://store.eliformichigan.com/",
-"https://tiktok.com/@esavit"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/eliformichigan?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/eliformichigan?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/eliformichigan?amount=1000"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/eliformichigan?amount=250"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/eliformichigan?amount=500"
+},
+{
+"text": "0",
+"href": "https://www.eliformichigan.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.eliformichigan.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.eliformichigan.com/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.eliformichigan.com/get-involved"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/eliformichigan"
+},
+{
+"text": "Endorsements",
+"href": "https://www.eliformichigan.com/endorsements"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://www.eliformichigan.com/take-action"
+},
+{
+"text": "Get Involved",
+"href": "https://www.eliformichigan.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.eliformichigan.com/issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.eliformichigan.com/issues"
+},
+{
+"text": "Learn more",
+"href": "https://www.eliformichigan.com/about"
+},
+{
+"text": "Media",
+"href": "https://www.eliformichigan.com/media"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/eliformichigan"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.eliformichigan.com/privacy-policy"
+},
+{
+"text": "Pledge to Vote",
+"href": "https://www.eliformichigan.com/pledge"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.iwillvote.com"
+},
+{
+"text": "Register to vote",
+"href": "https://iwillvote.com/"
+},
+{
+"text": "Store",
+"href": "https://store.eliformichigan.com"
+},
+{
+"text": "[image: Eli Savit for Attorney General]",
+"href": "https://www.eliformichigan.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/esavit.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/eliformi"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/esavit/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@esavit"
+},
+{
+"text": "info@eliformichigan.com",
+"href": "mailto:info@eliformichigan.com"
+}
 ]

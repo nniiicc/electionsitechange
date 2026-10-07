@@ -1,37 +1,210 @@
 [
-"http://store.marypeltola.com/themes/fish-family-freedom",
-"http://store.marypeltola.com/themes/forget-me-nots",
-"http://store.marypeltola.com/themes/freedom-for-alaska",
-"https://act.marypeltola.com/signup/mary-alaska-volunteer",
-"https://bsky.app/profile/marypeltola.com",
-"https://facebook.com/marypeltola",
-"https://instagram.com/marypeltola",
-"https://marypeltola.com/",
-"https://marypeltola.com/affordability",
-"https://marypeltola.com/call-for-artists",
-"https://marypeltola.com/cdn-cgi/l/email-protection",
-"https://marypeltola.com/contact",
-"https://marypeltola.com/energy",
-"https://marypeltola.com/fish",
-"https://marypeltola.com/fixing-system",
-"https://marypeltola.com/get-involved",
-"https://marypeltola.com/in-the-news",
-"https://marypeltola.com/jobs",
-"https://marypeltola.com/press",
-"https://marypeltola.com/privacy-policy",
-"https://marypeltola.com/request-a-yard-sign",
-"https://marypeltola.com/splash",
-"https://marypeltola.com/story",
-"https://marypeltola.com/veterans",
-"https://mobilize.us/alaskafirst",
-"https://salmonrun.marypeltola.com/",
-"https://secure.actblue.com/donate/mp-web",
-"https://secure.actblue.com/donate/mp-web?amount=100%3Frefcode%3Dfight",
-"https://secure.actblue.com/donate/mp-web?amount=25%3Frefcode%3Dfight",
-"https://secure.actblue.com/donate/mp-web?amount=5%3Frefcode%3Dfight",
-"https://secure.actblue.com/donate/mp-web?amount=50%3Frefcode%3Dfight",
-"https://store.marypeltola.com/",
-"https://threads.com/@marypeltola",
-"https://tiktok.com/@mary_peltola",
-"https://x.com/MaryPeltola"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/mp-web?amount=100%3Frefcode%3Dfight"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/mp-web?amount=25%3Frefcode%3Dfight"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/mp-web?amount=5%3Frefcode%3Dfight"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/mp-web?amount=50%3Frefcode%3Dfight"
+},
+{
+"text": "Affordability",
+"href": "https://marypeltola.com/affordability/"
+},
+{
+"text": "CALL FOR ARTISTS",
+"href": "https://marypeltola.com/call-for-artists/"
+},
+{
+"text": "CONTACT",
+"href": "https://marypeltola.com/contact/"
+},
+{
+"text": "CUSTOM AMOUNT",
+"href": "https://secure.actblue.com/donate/mp-web"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mp-web"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mp-web"
+},
+{
+"text": "Energy",
+"href": "https://marypeltola.com/energy/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/alaskafirst/"
+},
+{
+"text": "FIGHTING FOR AK FISHERIES",
+"href": "https://marypeltola.com/fish/"
+},
+{
+"text": "FISH, FAMILY, FREEDOM CREWNECK",
+"href": "http://store.marypeltola.com/themes/fish-family-freedom/"
+},
+{
+"text": "FORGET-ME-NOT MUG",
+"href": "http://store.marypeltola.com/themes/forget-me-nots/"
+},
+{
+"text": "FREEDOM FOR ALASKA HAT",
+"href": "http://store.marypeltola.com/themes/freedom-for-alaska/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/marypeltola"
+},
+{
+"text": "Fish",
+"href": "https://marypeltola.com/fish/"
+},
+{
+"text": "Fixing the Rigged System",
+"href": "https://marypeltola.com/fixing-system/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://marypeltola.com/#involved"
+},
+{
+"text": "Get Involved",
+"href": "https://marypeltola.com/get-involved/"
+},
+{
+"text": "In the News",
+"href": "https://marypeltola.com/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/marypeltola/"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://marypeltola.com/#involved"
+},
+{
+"text": "Jobs",
+"href": "https://marypeltola.com/jobs/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://marypeltola.com/call-for-artists/"
+},
+{
+"text": "MAKE A DONATION",
+"href": "https://secure.actblue.com/donate/mp-web"
+},
+{
+"text": "Making energy more affordable",
+"href": "https://marypeltola.com/energy/"
+},
+{
+"text": "My Story",
+"href": "https://marypeltola.com/story/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://marypeltola.com/privacy-policy/"
+},
+{
+"text": "Press",
+"href": "https://marypeltola.com/in-the-news/"
+},
+{
+"text": "Press",
+"href": "https://marypeltola.com/press/"
+},
+{
+"text": "Press Releases",
+"href": "https://marypeltola.com/press/"
+},
+{
+"text": "READ MORE OF MY STORY",
+"href": "https://marypeltola.com/story"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://marypeltola.com/request-a-yard-sign/"
+},
+{
+"text": "SALMON RUN",
+"href": "https://salmonrun.marypeltola.com/"
+},
+{
+"text": "STORE",
+"href": "https://store.marypeltola.com/"
+},
+{
+"text": "Shop NOW",
+"href": "https://store.marypeltola.com/"
+},
+{
+"text": "Terms & Privacy Policy",
+"href": "https://marypeltola.com/privacy-policy/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@marypeltola"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@mary_peltola"
+},
+{
+"text": "Veterans & Servicemembers",
+"href": "https://marypeltola.com/veterans/"
+},
+{
+"text": "Volunteer",
+"href": "https://act.marypeltola.com/signup/mary-alaska-volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/MaryPeltola"
+},
+{
+"text": "[email protected]",
+"href": "https://marypeltola.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "http://store.marypeltola.com/themes/fish-family-freedom/"
+},
+{
+"text": "[image]",
+"href": "http://store.marypeltola.com/themes/forget-me-nots/"
+},
+{
+"text": "[image]",
+"href": "http://store.marypeltola.com/themes/freedom-for-alaska/"
+},
+{
+"text": "[image]",
+"href": "https://marypeltola.com"
+},
+{
+"text": "[image]",
+"href": "https://marypeltola.com/"
+},
+{
+"text": "[image]",
+"href": "https://marypeltola.com/splash/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/marypeltola.com"
+}
 ]

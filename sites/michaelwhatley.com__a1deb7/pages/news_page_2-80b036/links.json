@@ -1,28 +1,194 @@
 [
-"https://facebook.com/whatleyfornc",
-"https://instagram.com/whatleyfornc",
-"https://michaelwhatley.com/",
-"https://michaelwhatley.com/about",
-"https://michaelwhatley.com/icymi-gov-coopers-green-energy-new-deal-obsession-once-again-takes-money-from-nc-taxpayers-as-billion-dollar-electric-vehicle-deal-crumbles",
-"https://michaelwhatley.com/icymi-roy-cooper-has-spent-more-than-270000-on-private-security-as-criminals-he-released-roam-the-streets",
-"https://michaelwhatley.com/issues",
-"https://michaelwhatley.com/media-tool-kit",
-"https://michaelwhatley.com/michael-whatley-and-law-enforcement-officials-call-out-governor-coopers-extensive-soft-on-crime-record-in-alamance-county",
-"https://michaelwhatley.com/michael-whatley-and-law-enforcement-officials-call-out-roy-coopers-soft-on-crime-record-in-craven-county",
-"https://michaelwhatley.com/michael-whatley-hosts-governor-cooper-made-stuff-cost-more-press-conference-in-gastonia",
-"https://michaelwhatley.com/michael-whatley-hosts-restoring-law-and-order-press-conference-in-johnston-county",
-"https://michaelwhatley.com/michael-whatley-state-leaders-and-law-enforcement-officials-call-out-roy-coopers-soft-on-crime-record-in-cabarrus-county",
-"https://michaelwhatley.com/mobile-terms",
-"https://michaelwhatley.com/news",
-"https://michaelwhatley.com/news/page/3",
-"https://michaelwhatley.com/news/page/4",
-"https://michaelwhatley.com/north-carolina-fraternal-order-of-police-endorses-michael-whatley-for-us-senate",
-"https://michaelwhatley.com/privacy-policy",
-"https://michaelwhatley.com/roy-coopers-legacy-coopers-soft-on-crime-policies-costing-nc-economic-growth-opportunities",
-"https://michaelwhatley.com/terms-and-conditions",
-"https://michaelwhatley.com/volunteer",
-"https://michaelwhatley.com/whatley-launches-seven-figure-statewide-digital-ad-campaign",
-"https://secure.winred.com/whatley-for-senate/donate",
-"https://secure.winred.com/whatley-for-senate/storefront",
-"https://x.com/WhatleyNC"
+{
+"text": "About",
+"href": "https://michaelwhatley.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/whatley-for-senate/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/whatleyfornc"
+},
+{
+"text": "Home",
+"href": "https://michaelwhatley.com/"
+},
+{
+"text": "ICYMI – Gov. Cooper’s Green-Energy-New-Deal Obsession Once Again Takes Money from NC Taxpayers as Billion-Dollar Electric Vehicle Deal Crumbles",
+"href": "https://michaelwhatley.com/icymi-gov-coopers-green-energy-new-deal-obsession-once-again-takes-money-from-nc-taxpayers-as-billion-dollar-electric-vehicle-deal-crumbles/"
+},
+{
+"text": "ICYMI- Roy Cooper has Spent More than $270,000 On Private Security As Criminals He Released Roam the Streets",
+"href": "https://michaelwhatley.com/icymi-roy-cooper-has-spent-more-than-270000-on-private-security-as-criminals-he-released-roam-the-streets/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/whatleyfornc/"
+},
+{
+"text": "Issues",
+"href": "https://michaelwhatley.com/issues/"
+},
+{
+"text": "Media Tool Kit",
+"href": "https://michaelwhatley.com/media-tool-kit/"
+},
+{
+"text": "Michael Whatley Hosts Governor Cooper Made Stuff Cost More Press Conference in Gastonia",
+"href": "https://michaelwhatley.com/michael-whatley-hosts-governor-cooper-made-stuff-cost-more-press-conference-in-gastonia/"
+},
+{
+"text": "Michael Whatley Hosts Restoring Law and Order Press Conference in Johnston County",
+"href": "https://michaelwhatley.com/michael-whatley-hosts-restoring-law-and-order-press-conference-in-johnston-county/"
+},
+{
+"text": "Michael Whatley and Law Enforcement Officials Call Out Governor Cooper’s Extensive Soft-on-Crime Record in Alamance County",
+"href": "https://michaelwhatley.com/michael-whatley-and-law-enforcement-officials-call-out-governor-coopers-extensive-soft-on-crime-record-in-alamance-county/"
+},
+{
+"text": "Michael Whatley and Law Enforcement Officials Call Out Roy Cooper’s Soft on Crime Record in Craven County",
+"href": "https://michaelwhatley.com/michael-whatley-and-law-enforcement-officials-call-out-roy-coopers-soft-on-crime-record-in-craven-county/"
+},
+{
+"text": "Michael Whatley, State Leaders, and Law Enforcement Officials Call Out Roy Cooper’s Soft on Crime Record in Cabarrus County",
+"href": "https://michaelwhatley.com/michael-whatley-state-leaders-and-law-enforcement-officials-call-out-roy-coopers-soft-on-crime-record-in-cabarrus-county/"
+},
+{
+"text": "Mobile Terms",
+"href": "https://michaelwhatley.com/mobile-terms/"
+},
+{
+"text": "News",
+"href": "https://michaelwhatley.com/news/"
+},
+{
+"text": "North Carolina Fraternal Order of Police Endorses Michael Whatley for US Senate",
+"href": "https://michaelwhatley.com/north-carolina-fraternal-order-of-police-endorses-michael-whatley-for-us-senate/"
+},
+{
+"text": "Page1",
+"href": "https://michaelwhatley.com/news/"
+},
+{
+"text": "Page3",
+"href": "https://michaelwhatley.com/news/page/3/"
+},
+{
+"text": "Page4",
+"href": "https://michaelwhatley.com/news/page/4/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://michaelwhatley.com/privacy-policy/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/icymi-gov-coopers-green-energy-new-deal-obsession-once-again-takes-money-from-nc-taxpayers-as-billion-dollar-electric-vehicle-deal-crumbles/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/icymi-roy-cooper-has-spent-more-than-270000-on-private-security-as-criminals-he-released-roam-the-streets/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/michael-whatley-and-law-enforcement-officials-call-out-governor-coopers-extensive-soft-on-crime-record-in-alamance-county/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/michael-whatley-and-law-enforcement-officials-call-out-roy-coopers-soft-on-crime-record-in-craven-county/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/michael-whatley-hosts-governor-cooper-made-stuff-cost-more-press-conference-in-gastonia/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/michael-whatley-hosts-restoring-law-and-order-press-conference-in-johnston-county/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/michael-whatley-state-leaders-and-law-enforcement-officials-call-out-roy-coopers-soft-on-crime-record-in-cabarrus-county/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/north-carolina-fraternal-order-of-police-endorses-michael-whatley-for-us-senate/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/roy-coopers-legacy-coopers-soft-on-crime-policies-costing-nc-economic-growth-opportunities/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/whatley-launches-seven-figure-statewide-digital-ad-campaign/"
+},
+{
+"text": "Roy Cooper’s Legacy? Cooper’s Soft-on-Crime Policies Costing NC Economic Growth Opportunities",
+"href": "https://michaelwhatley.com/roy-coopers-legacy-coopers-soft-on-crime-policies-costing-nc-economic-growth-opportunities/"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/whatley-for-senate/storefront/"
+},
+{
+"text": "Terms of Use",
+"href": "https://michaelwhatley.com/terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://michaelwhatley.com/volunteer/"
+},
+{
+"text": "Whatley Launches Seven Figure Statewide Digital Ad Campaign",
+"href": "https://michaelwhatley.com/whatley-launches-seven-figure-statewide-digital-ad-campaign/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/WhatleyNC"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/icymi-gov-coopers-green-energy-new-deal-obsession-once-again-takes-money-from-nc-taxpayers-as-billion-dollar-electric-vehicle-deal-crumbles/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/icymi-roy-cooper-has-spent-more-than-270000-on-private-security-as-criminals-he-released-roam-the-streets/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/michael-whatley-and-law-enforcement-officials-call-out-governor-coopers-extensive-soft-on-crime-record-in-alamance-county/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/michael-whatley-and-law-enforcement-officials-call-out-roy-coopers-soft-on-crime-record-in-craven-county/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/michael-whatley-hosts-governor-cooper-made-stuff-cost-more-press-conference-in-gastonia/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/michael-whatley-hosts-restoring-law-and-order-press-conference-in-johnston-county/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/michael-whatley-state-leaders-and-law-enforcement-officials-call-out-roy-coopers-soft-on-crime-record-in-cabarrus-county/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/north-carolina-fraternal-order-of-police-endorses-michael-whatley-for-us-senate/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/roy-coopers-legacy-coopers-soft-on-crime-policies-costing-nc-economic-growth-opportunities/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/whatley-launches-seven-figure-statewide-digital-ad-campaign/"
+}
 ]

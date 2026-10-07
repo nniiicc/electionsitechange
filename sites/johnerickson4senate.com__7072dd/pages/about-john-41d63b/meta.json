@@ -1,11 +1,14 @@
 {
  "description": "",
  "final_url": "https://www.johnerickson4senate.com/about-john",
- "paid_for_by": "Paid for by John Erickson for State Senate 2026, FPPC ID#1479089 312 Clay Street #300, Oakland CA 94607 Privacy Policy | SMS Terms &amp; Conditions",
- "title": "About \u2014 John Erickson for State Senate",
+ "fingerprint": "ff6fcb560872c9d7bb6c15f557e87c70420f9588",
+ "format": 3,
+ "paid_for_by": "Paid for by John Erickson for State Senate 2026, FPPC ID#1479089 312 Clay Street #300, Oakland CA 94607 Privacy Policy",
+ "title": "About — John Erickson for State Senate",
  "years_mentioned": [
   "2016",
   "2017",
-  "2020"
+  "2020",
+  "2026"
  ]
 }

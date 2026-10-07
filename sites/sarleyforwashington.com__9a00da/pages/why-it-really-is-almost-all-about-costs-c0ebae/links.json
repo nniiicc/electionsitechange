@@ -1,34 +1,146 @@
 [
-"http://herdingcatscampaigns.com/",
-"http://sarleyforwashington.com/",
-"https://facebook.com/sarleyforwashington",
-"https://instagram.com/sarleyforwashington",
-"https://mrsc.org/stay-informed/mrsc-insight/august-2024/six-housing-and-planning-bills-that-help-washington-communities-confront-the-housing-crisis",
-"https://nber.org/papers/w32878",
-"https://sarleyforwashington.com/",
-"https://sarleyforwashington.com/2025/12",
-"https://sarleyforwashington.com/2026/01",
-"https://sarleyforwashington.com/2026/02",
-"https://sarleyforwashington.com/2026/03",
-"https://sarleyforwashington.com/2026/04",
-"https://sarleyforwashington.com/2026/05",
-"https://sarleyforwashington.com/2026/06",
-"https://sarleyforwashington.com/2026/09",
-"https://sarleyforwashington.com/about",
-"https://sarleyforwashington.com/category/uncategorized",
-"https://sarleyforwashington.com/contact",
-"https://sarleyforwashington.com/contactus",
-"https://sarleyforwashington.com/each-generations-duty-to-the-next",
-"https://sarleyforwashington.com/endorsements-updated",
-"https://sarleyforwashington.com/news",
-"https://sarleyforwashington.com/priorities",
-"https://sarleyforwashington.com/privacy-policy",
-"https://sarleyforwashington.com/washington-must-prepare-for-budget-volatility",
-"https://sarleyforwashington.com/what-modern-youth-sports-can-tell-us-about-america",
-"https://sarleyforwashington.com/why-it-really-is-almost-all-about-costs",
-"https://sciotoanalysis.com/news/2025/6/4/could-higher-minimum-wages-increase-employment",
-"https://seattletimes.com/life/food-drink/2-downtown-seattle-restaurants-cafe-hitchcock-and-oyster-cellar-close",
-"https://secure.anedot.com/sarleyforwa/donate",
-"https://sightline.org/release/wa-leaders-just-passed-these-major-housing-bills",
-"https://wcrer.be.uw.edu/wp-content/uploads/sites/60/2024/10/State-of-Washingtons-Housing-Report-2024.pdf"
+{
+"text": "About",
+"href": "https://sarleyforwashington.com/about/"
+},
+{
+"text": "April 2026",
+"href": "https://sarleyforwashington.com/2026/04/"
+},
+{
+"text": "Contact",
+"href": "https://sarleyforwashington.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://sarleyforwashington.com/contact/"
+},
+{
+"text": "Contact",
+"href": "https://sarleyforwashington.com/contactus"
+},
+{
+"text": "December 2025",
+"href": "https://sarleyforwashington.com/2025/12/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/sarleyforwa/donate"
+},
+{
+"text": "Each Generation’s Duty to the Next",
+"href": "https://sarleyforwashington.com/each-generations-duty-to-the-next/"
+},
+{
+"text": "Endorsements (Updated)",
+"href": "https://sarleyforwashington.com/endorsements-updated/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sarleyforwashington"
+},
+{
+"text": "February 2026",
+"href": "https://sarleyforwashington.com/2026/02/"
+},
+{
+"text": "Herding Cats 🐈‍⬛",
+"href": "http://herdingcatscampaigns.com"
+},
+{
+"text": "Home",
+"href": "http://www.sarleyforwashington.com"
+},
+{
+"text": "Home",
+"href": "https://sarleyforwashington.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/sarleyforwashington"
+},
+{
+"text": "January 2026",
+"href": "https://sarleyforwashington.com/2026/01/"
+},
+{
+"text": "June 2026",
+"href": "https://sarleyforwashington.com/2026/06/"
+},
+{
+"text": "March 2026",
+"href": "https://sarleyforwashington.com/2026/03/"
+},
+{
+"text": "May 2026",
+"href": "https://sarleyforwashington.com/2026/05/"
+},
+{
+"text": "News",
+"href": "https://sarleyforwashington.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://sarleyforwashington.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://sarleyforwashington.com/privacy-policy/"
+},
+{
+"text": "Seattle Times story",
+"href": "https://www.seattletimes.com/life/food-drink/2-downtown-seattle-restaurants-cafe-hitchcock-and-oyster-cellar-close/"
+},
+{
+"text": "September 2026",
+"href": "https://sarleyforwashington.com/2026/09/"
+},
+{
+"text": "Uncategorized",
+"href": "https://sarleyforwashington.com/category/uncategorized/"
+},
+{
+"text": "Volunteer",
+"href": "https://sarleyforwashington.com/contact/"
+},
+{
+"text": "Washington Must Prepare for Budget Volatility",
+"href": "https://sarleyforwashington.com/washington-must-prepare-for-budget-volatility/"
+},
+{
+"text": "What Modern Youth Sports Can Tell Us About America",
+"href": "https://sarleyforwashington.com/what-modern-youth-sports-can-tell-us-about-america/"
+},
+{
+"text": "Why It Really Is (Almost) All About Costs",
+"href": "https://sarleyforwashington.com/why-it-really-is-almost-all-about-costs/"
+},
+{
+"text": "[image: Elect Derek Sarley for State Representative]",
+"href": "https://sarleyforwashington.com/"
+},
+{
+"text": "big steps",
+"href": "https://www.sightline.org/release/wa-leaders-just-passed-these-major-housing-bills/"
+},
+{
+"text": "can actually increase employment",
+"href": "https://www.sciotoanalysis.com/news/2025/6/4/could-higher-minimum-wages-increase-employment"
+},
+{
+"text": "few years",
+"href": "https://mrsc.org/stay-informed/mrsc-insight/august-2024/six-housing-and-planning-bills-that-help-washington-communities-confront-the-housing-crisis"
+},
+{
+"text": "more than a million units of new housing",
+"href": "https://wcrer.be.uw.edu/wp-content/uploads/sites/60/2024/10/State-of-Washingtons-Housing-Report-2024.pdf"
+},
+{
+"text": "recent, large meta-analysis",
+"href": "https://www.nber.org/papers/w32878"
+},
+{
+"text": "sarleyforwashington@gmail.com",
+"href": "mailto:sarleyforwashington@gmail.com"
+}
 ]

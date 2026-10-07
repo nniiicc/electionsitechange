@@ -1,4 +1,4 @@
-Matt Woods is a lifelong resident of Senate District 5.
+Skip to content Matt Woods About Matt Issues Defend Law Enforcement Jobs and Economy Protect our Constitutional Rights Preserve Family Values Contact Donate About Matt Matt Woods is a lifelong resident of Senate District 5.
 He grew up in South Walker County and graduated from Oakman High School in 2000.
 Matt was a multi-sport athlete, team captain, and class president.
 He continued his education at Bevill State Community College serving as an ambassador at the Sumiton Campus.
@@ -30,3 +30,5 @@ Matt voted for the largest tax cut in Alabama history by reducing the state groc
 He co-sponsored the elimination of the state income tax on overtime pay and voted to cap annual property tax increases.
 In 2024, he carried “The Parents Right to Know” bill that created transparency in K-12 education curriculum by requiring schools to make classroom materials available to parents and guardians.
 Matt also passed a law to require Alabama colleges to report funding from foreign countries of concern, such as China.
+Share Contact Privacy Policy Donate Paid for by Matt Woods for Alabama P.O.
+Box 1627 Jasper, AL 35502 Powered By Push Digital Matt Woods © #

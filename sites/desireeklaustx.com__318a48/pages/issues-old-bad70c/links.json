@@ -1,18 +1,70 @@
 [
-"https://campaignpartner.com/",
-"https://desireeklaustx.com/",
-"https://desireeklaustx.com/events",
-"https://desireeklaustx.com/healthcare",
-"https://desireeklaustx.com/home",
-"https://desireeklaustx.com/issues",
-"https://desireeklaustx.com/issues-old",
-"https://desireeklaustx.com/jobs-economy",
-"https://desireeklaustx.com/meet-desiree",
-"https://desireeklaustx.com/schools-tx",
-"https://facebook.com/desireeklausfortexas",
-"https://instagram.com/desireeklaus4texas",
-"https://threads.com/@desireeklaus4texas",
-"https://tiktok.com/@desireeklausfortexas",
-"https://wrm.capitol.texas.gov/fyiwebdocs/PDF/house/dist128/m1.pdf",
-"https://x.com/desireeklaustx"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Events",
+"href": "https://www.desireeklaustx.com/events"
+},
+{
+"text": "Get Involved",
+"href": "mailto:info@desireeklaustx.com?subject=I+want+to+help%21"
+},
+{
+"text": "HD-128",
+"href": "https://www.desireeklaustx.com/issues-old"
+},
+{
+"text": "Healthcare",
+"href": "https://www.desireeklaustx.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.desireeklaustx.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.desireeklaustx.com/issues"
+},
+{
+"text": "Jobs",
+"href": "https://www.desireeklaustx.com/jobs-economy"
+},
+{
+"text": "Meet Desiree",
+"href": "https://www.desireeklaustx.com/meet-desiree"
+},
+{
+"text": "Schools",
+"href": "https://www.desireeklaustx.com/schools-tx"
+},
+{
+"text": "[image]",
+"href": "https://www.desireeklaustx.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/desireeklausfortexas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/desireeklaus4texas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@desireeklaus4texas"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@desireeklausfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/desireeklaustx"
+},
+{
+"text": "click here to open the official HD-128 map.",
+"href": "https://wrm.capitol.texas.gov/fyiwebdocs/PDF/house/dist128/m1.pdf"
+}
 ]

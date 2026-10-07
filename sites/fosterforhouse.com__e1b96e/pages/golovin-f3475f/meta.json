@@ -1,9 +1,9 @@
 {
  "description": "Explore Golovin with Neal Foster for State House - Photo gallery and updates on District 39.",
  "final_url": "https://fosterforhouse.com/golovin",
- "paid_for_by": null,
+ "fingerprint": "fa49fe1e0126720264a83b5e17f3157ef5d9c120",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Golovin",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

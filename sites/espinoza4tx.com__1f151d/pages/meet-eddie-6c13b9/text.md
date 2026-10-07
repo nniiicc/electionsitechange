@@ -1,5 +1,4 @@
-Dear voters,
-I’d like to introduce myself, if you don’t know me already.
+Skip to content Meet Eddie Priorities Get Involved Donate Dear voters, I’d like to introduce myself, if you don’t know me already.
 I’m Eddie Espinoza, the Green Party candidate for Congress in TX-34.
 The teachings of Jesus are very important to me.
 Love God above all things, and love thy neighbor as thyself.
@@ -46,8 +45,7 @@ I drove my team’s Bradley fighting vehicle into the fight.
 The US military brought overwhelming force, a wall of destruction.
 After six days of ground combat operations, the Iraqi Army was defeated.
 When it was announced the ground operations were over, that was definitely one of the happiest days of my life.
-Soon after I had an honorable discharge and got the GI Bill, and ended up studying Political Science at UTPA (now known as UTRGV.)
-Once I got into college I understood better what had actually happened during the war I’d fought in.
+Soon after I had an honorable discharge and got the GI Bill, and ended up studying Political Science at UTPA (now known as UTRGV.) Once I got into college I understood better what had actually happened during the war I’d fought in.
 It was an entrapment-type deal.
 Saddam had a relationship with the US and got permission to take Kuwait and the oil fields, the US led him to believe it was ok, then they flipped on him.
 The US government wanted access to the oil fields in Southern Iraq, and the Saudis got nervous with Saddam Hussain right next to them in Kuwait.
@@ -77,5 +75,8 @@ It takes a neighborhood to raise a child – my whole life I’ve had community 
 That’s part of why I’m running for office, to pay it forward.
 God bless Texas.
 I hope I can earn your vote.
-Sincerely,
-Eddie Espinoza
+Sincerely, Eddie Espinoza Follow Eddie on all his social media!
+Twitter Instagram Facebook TikTok Threads Reach out to Eddie Espinoza! ← Back Thank you for your message Thank you for your message, Eddie will reach out soon!
+Name (required) Email (required) Message Contact Δ Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website Espinoza For Congress Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

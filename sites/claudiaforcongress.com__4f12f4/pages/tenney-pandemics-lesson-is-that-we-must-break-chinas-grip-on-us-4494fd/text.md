@@ -1,4 +1,4 @@
-The coronavirus exposed many flaws in our level of preparedness for dealing with pandemics, but one of the most glaring holes it brought to light is America’s over-reliance on China for producing prescription drugs.
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Previous page Tenney: Pandemic’s lesson is that we must break China’s grip on US Share March 24 2020 The coronavirus exposed many flaws in our level of preparedness for dealing with pandemics, but one of the most glaring holes it brought to light is America’s over-reliance on China for producing prescription drugs.
 For the sake of our economy and more importantly our health and security, it’s time we brought that home.
 China is a real and present danger to America and Americans.
 Just as we try to stem the economic slide as personal lives and business come to a halt, the U.S.
@@ -16,8 +16,7 @@ But China now undercuts our business’s prices and steals American workers’ j
 But there’s a more immediate threat to America – and it’s a matter of life and death.
 China makes 90% of all antibiotics, vitamin C, ibuprofen, and over 70% of acetaminophen (Tylenol) available in the U.S.
 They also make many of the ingredients and do so in unsafe and unmonitored labs and factories.
-In the midst of this crisis, Communist China’s government-run media threatened to choke off the supplies of these drugs to throw us into “the mighty sea of coronavirus.”
-Sen.
+In the midst of this crisis, Communist China’s government-run media threatened to choke off the supplies of these drugs to throw us into “the mighty sea of coronavirus.” Sen.
 Tom Cotton of Arkansas, a decorated Iraq war veteran, is advancing a bill to end China’s leverage over the American people and our economy over these vital medicines.
 It encourages American drug makers to manufacture here at home and blocks Chinese-made drugs and ingredients.
 This industry is too important to leave in the hands of the brutal and dangerous regime in Beijing.
@@ -26,3 +25,5 @@ The only American mine shut down in 2002, was re-opened briefly, and later sold 
 President Donald Trump imposed tariffs on the predatory Chinese for their unfair trade practices, and China once again threatened to cut off our rare earth supply.
 When we come out of this crisis, we must move quickly to restore our industrial base, bring supply chains of national interest back to America, and punish Chinese theft and aggression.
 Breaking China’s grip on our country is essential for our economic survival, military strength, and American’s very health.
+Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

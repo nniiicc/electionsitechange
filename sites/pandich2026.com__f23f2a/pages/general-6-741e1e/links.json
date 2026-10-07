@@ -1,7 +1,26 @@
 [
-"https://pandich2026.com/",
-"https://pandich2026.com/about",
-"https://pandich2026.com/general-6",
-"https://pandich2026.com/issues",
-"https://secure.actblue.com/donate/elizabeth-pandich-hd86"
+{
+"text": "About",
+"href": "https://www.pandich2026.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/elizabeth-pandich-hd86"
+},
+{
+"text": "Elizabeth@pandich2026.com",
+"href": "mailto:Elizabeth@pandich2026.com"
+},
+{
+"text": "Home",
+"href": "https://www.pandich2026.com"
+},
+{
+"text": "Issues",
+"href": "https://www.pandich2026.com/issues"
+},
+{
+"text": "Vote Ready",
+"href": "https://www.pandich2026.com/general-6"
+}
 ]

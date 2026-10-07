@@ -1,4 +1,4 @@
-Virginia’s Priorities
+0 Skip to Content 11 Ideas Priorities Meet Virginia Endorsements Press Get Involved English Donate Open Menu Close Menu English Donate 11 Ideas Priorities Meet Virginia Endorsements Press Get Involved Open Menu Close Menu 11 Ideas Priorities Meet Virginia Endorsements Press Get Involved English Back Donate Virginia’s Priorities Housing Healthcare Cost of Living Education I.C.E.
 As a life-long Oregonian and mom raising two teenagers, I know the struggles families are facing right now.
 People want our leaders to be honest, transparent and down to earth.
 They want leaders who not only understand the strain we’re all under, but someone who has ideas about how to create a better future for our communities.
@@ -6,9 +6,8 @@ They want someone who respects their hard work and who will work just as hard, i
 When I’m in the community talking to residents I hear the common refrain about housing that’s out of reach for most and the high cost of living.
 I hear about their fears of losing our basic safety nets, things like food stamps, healthcare and education and they want elected officials who will fight to protect them.
 I’m running because I believe my experiences and perspective will be valuable in creating a future where all Oregonians can thrive.
-I’m dedicated to bringing down costs for hardworking families and individuals, fighting for our social safety net and creating a better Oregon for future generations.
-Housing
-We need to build the kinds of homes our communities are missing most — starter homes for first-time buyers, affordable cottage clusters that fit within existing neighborhoods, and a wider range of accessible, stable housing options for people at different stages of life.
+I’m dedicated to bringing down costs for hardworking families and individuals, fighting for our social safety net and creating a better Oregon for future generations .
+Housing We need to build the kinds of homes our communities are missing most — starter homes for first-time buyers, affordable cottage clusters that fit within existing neighborhoods, and a wider range of accessible, stable housing options for people at different stages of life.
 This includes housing for our veterans and seniors as well as the next generation of homeowners.
 Millennials and Gen Z have grown up in a world where the ability to purchase a home is completely out of reach.
 We need to create pathways to ensure our young people can build generational wealth.
@@ -21,8 +20,7 @@ I am not willing to settle for our neighbors living on the streets and entire ge
 As your next Senator I will help craft and sign onto policies that will update our zoning laws, simplify permitting, and support builders who prioritize affordability and the importance of investing in union labor.
 I know that Oregon thrives when people can put down roots.
 We can create pathways to homeownership that are realistic again if we commit to building smart, attainable housing…we can restore that possibility.
-Healthcare
-Access to healthcare, including mental health care, is not a privilege — it’s a basic human right.
+Healthcare Access to healthcare, including mental health care, is not a privilege — it’s a basic human right.
 That’s why I support healthcare for all, and why protecting the Oregon Health Plan is absolutely essential.
 Right now, Republicans are pushing policies that would cut or restrict the Oregon Health Plan — the same program that covers half of Oregon’s children and a third of our adults.
 We cannot allow that.
@@ -31,8 +29,7 @@ Their families put hospital bills and even insulin on credit cards, always one c
 The Oregon Health Plan changed that reality for thousands of families.
 It’s one of the strongest tools we have to keep Oregonians healthy, stable, and able to thrive.
 I’m committed to building a future where every Oregonian can get the care they need without the fear of going broke.
-Cost of Living
-Right now, Oregonians are feeling crushed by the cost of everyday essentials — utilities, rent, food, and childcare.
+Cost of Living Right now, Oregonians are feeling crushed by the cost of everyday essentials — utilities, rent, food, and childcare.
 These aren’t luxuries.
 They’re the basics every family depends on.
 We need our leaders to take immediate steps to bring these costs down.
@@ -42,8 +39,7 @@ It means supporting local food producers and improving access to affordable groc
 And we must expand childcare availability so parents aren’t forced to choose between work and their children’s care.
 Making life affordable is essential to Oregon’s future.
 I’m committed to solutions that lower costs, reduce stress, and create stability for our communities.
-Education
-Our classrooms are overcrowded, our teachers are stretched thin, and too many students aren’t getting the support they need academically or emotionally.
+Education Our classrooms are overcrowded, our teachers are stretched thin, and too many students aren’t getting the support they need academically or emotionally.
 We can and must do better.
 Education is a public promise and the pathway to success in life.
 We must invest in our teachers so we keep great educators.
@@ -66,3 +62,6 @@ That means holding agencies accountable when they abuse their power.
 It means doing everything within our authority to protect Oregonians, like advancing legislation that bans masks for federal ICE agents acting in civilian spaces.
 But this isn’t just about votes in the Capitol.
 It’s about showing up in person and on purpose, standing with community members, listening to immigrant-led organizations, and using my platform to pass real protections for all of us.
+In addition to these priorities, Virginia has 11 Ideas for Senate District 11 … Learn about the 11 ideas Civic Resources Community Resources Shop the Store Donate ©# Virginia Stapleton.
+Paid for by Elect Virginia Stapleton PAC #20287.
+Privacy Policy .

@@ -1,7 +1,9 @@
 {
  "description": "Sample Issue",
  "final_url": "https://www.elizabethforus.com/issues/sample_issue",
- "paid_for_by": null,
+ "fingerprint": "2c77622bed98e6c58a100d943344cdfbfac3eb24",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Abolish Ice",
  "years_mentioned": []
 }

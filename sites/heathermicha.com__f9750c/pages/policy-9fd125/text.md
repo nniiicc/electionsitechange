@@ -1,6 +1,2 @@
-Heather Micha for NYS Assembly
-168 Helen St., Binghamton, NY 13905
-Please consider making a contribution to Heather Micha's campaign for New York State Assembly.
-Click "Contribute" below or write a check made out to
-'Heather Micha for Assembly' to 168 Helen St., Binghamton, NY 13905
-Share by:
+www.heathermicha.com/policy Home Policy Community Involvement Contribute Volunteer United in Diversity Contribute Heather Micha for NYS Assembly 168 Helen St., Binghamton, NY 13905 Home Community Involvement Contribute Volunteer United in Diversity Policy Spiritual Health RESEARCH Spiritual Health and Wellbeing Act POLICY New York State High-Risk Start-Up Angel Investor Tax Credit Program – Policy Outline Spiritual Health RESEARCH Spiritual Health and Wellbeing Act POLICY New York State High-Risk Start-Up Angel Investor Tax Credit Program – Policy Outline New York State High-Risk Start-Up Angel Investor Tax Credit Program – Policy Outline Property Tax Cap for Longstanding Small Farmers in New York State Property Tax Cap for Longstanding Small Farmers in New York State Property Tax Cap for Longstanding Small Farmers in New York State CONTRIBUTE TO HEATHER MICHA'S CAMPAIGN Please consider making a contribution to Heather Micha's campaign for New York State Assembly.
+Click "Contribute" below or write a check made out to 'Heather Micha for Assembly' to 168 Helen St., Binghamton, NY 13905 CLICK HERE TO CONTRIBUTE Contribute: Heather Micha for Assembly 168 Helen St., Binghamton, NY 13905 Email: info@heathermicha.com © # Paid for by Heather Micha for Assembly Share by:

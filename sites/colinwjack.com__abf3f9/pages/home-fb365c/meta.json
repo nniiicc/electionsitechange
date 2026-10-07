@@ -1,7 +1,9 @@
 {
  "description": "Work completed",
  "final_url": "https://www.colinwjack.com/home",
- "paid_for_by": null,
+ "fingerprint": "b0d2bacc68f2ffde8bc334b3181e26ae1352623f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Colin W. Jack",
  "years_mentioned": [
   "2023",

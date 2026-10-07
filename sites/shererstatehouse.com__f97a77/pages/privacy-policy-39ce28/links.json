@@ -1,6 +1,18 @@
 [
-"https://facebook.com/ShererforStateHouse",
-"https://secure.winred.com/sherer-for-state-house/donate-today",
-"https://shererstatehouse.com/",
-"https://shererstatehouse.com/privacy-policy"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/sherer-for-state-house/donate-today"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/ShererforStateHouse"
+},
+{
+"text": "Privacy Policy",
+"href": "https://shererstatehouse.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://shererstatehouse.com"
+}
 ]

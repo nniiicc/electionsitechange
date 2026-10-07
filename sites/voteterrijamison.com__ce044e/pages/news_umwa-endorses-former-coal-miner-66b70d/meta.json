@@ -1,7 +1,11 @@
 {
  "description": "The Ohio State Council of Coal Miners Political Action committee voted unanimously to endorse Terri Jamison for Associate Justice on the Ohio Supreme Court....",
  "final_url": "https://www.voteterrijamison.com/news/umwa-endorses-former-coal-miner",
- "paid_for_by": null,
+ "fingerprint": "ad9bcd90a6884681ae82ea4a227e13e7c59bbf91",
+ "format": 3,
+ "paid_for_by": "",
  "title": "UMWA Endorses Former Coal Miner",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022"
+ ]
 }

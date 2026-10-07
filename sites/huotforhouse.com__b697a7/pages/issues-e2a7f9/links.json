@@ -1,24 +1,98 @@
 [
-"https://facebook.com/HuotforHouse",
-"https://house.leg.state.mn.us/members/profile/15527",
-"https://huotforhouse.com/",
-"https://huotforhouse.com/contact",
-"https://huotforhouse.com/delivering",
-"https://huotforhouse.com/endorsements",
-"https://huotforhouse.com/events",
-"https://huotforhouse.com/gallery",
-"https://huotforhouse.com/issues",
-"https://huotforhouse.com/issues/affordable-economy",
-"https://huotforhouse.com/issues/education",
-"https://huotforhouse.com/issues/environment",
-"https://huotforhouse.com/issues/healthcare",
-"https://huotforhouse.com/issues/public-safety",
-"https://huotforhouse.com/issues/safeguarding-minnesotans-money",
-"https://huotforhouse.com/issues/veterans",
-"https://huotforhouse.com/legislative",
-"https://huotforhouse.com/news",
-"https://huotforhouse.com/volunteer",
-"https://huotforhouse.com/why-i-serve",
-"https://instagram.com/john_huot_4_mn",
-"https://secure.actblue.com/donate/huot-for-house-2"
+{
+"text": "Contact",
+"href": "https://www.huotforhouse.com/contact/"
+},
+{
+"text": "Delivering for our Community",
+"href": "https://www.huotforhouse.com/delivering/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/huot-for-house-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.huotforhouse.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.huotforhouse.com/events/"
+},
+{
+"text": "Gallery",
+"href": "https://www.huotforhouse.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://www.huotforhouse.com/"
+},
+{
+"text": "Huot for House",
+"href": "https://www.huotforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.huotforhouse.com/issues/"
+},
+{
+"text": "Legislative Profile",
+"href": "https://www.huotforhouse.com/legislative/"
+},
+{
+"text": "News",
+"href": "https://www.huotforhouse.com/news/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.huotforhouse.com/volunteer/"
+},
+{
+"text": "Why I Serve",
+"href": "https://www.huotforhouse.com/why-i-serve/"
+},
+{
+"text": "[image: An Affordable Economy]An Affordable EconomyLowering the cost of living through affordable childcare, housing, and energy for all Minnesotans.",
+"href": "https://www.huotforhouse.com/issues/affordable-economy/"
+},
+{
+"text": "[image: Education]EducationI will always protect, fund, and strengthen Minnesota's public schools for every child and family.",
+"href": "https://www.huotforhouse.com/issues/education/"
+},
+{
+"text": "[image: Environment & Resources]Environment & ResourcesWe must protect Minnesota's clean water, natural resources, and work toward a clean energy future for all.",
+"href": "https://www.huotforhouse.com/issues/environment/"
+},
+{
+"text": "[image: Healthcare]HealthcareHealthcare is a human right and decisions should be made between individuals and their providers.",
+"href": "https://www.huotforhouse.com/issues/healthcare/"
+},
+{
+"text": "[image: Public Services & Safety]Public Services & SafetyI have supported our first responders by increasing training, equipment, funding, and staffing while building safer communities for all.",
+"href": "https://www.huotforhouse.com/issues/public-safety/"
+},
+{
+"text": "[image: Safeguarding Minnesotans' Money]Safeguarding Minnesotans' MoneyI have worked to prevent fraud, strengthen oversight, and ensure every public dollar serves the people of Minnesota.",
+"href": "https://www.huotforhouse.com/issues/safeguarding-minnesotans-money/"
+},
+{
+"text": "[image: Veterans]VeteransI will always honor and support our veterans, active-duty military, and their families with comprehensive services.",
+"href": "https://www.huotforhouse.com/issues/veterans/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HuotforHouse/"
+},
+{
+"text": "[no text]",
+"href": "https://www.house.leg.state.mn.us/members/profile/15527"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/john_huot_4_mn"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@huotforhouse.com"
+}
 ]

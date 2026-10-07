@@ -1,14 +1,54 @@
 [
-"https://facebook.com/pages/Friends-of-Mark-Fisher/119788114703058",
-"https://linkedin.com/pub/mark-fisher/37/755/283",
-"https://markfisherfordelegate.com/",
-"https://markfisherfordelegate.com/about",
-"https://markfisherfordelegate.com/category/news",
-"https://markfisherfordelegate.com/donate",
-"https://markfisherfordelegate.com/every-generation",
-"https://markfisherfordelegate.com/issues",
-"https://markfisherfordelegate.com/privacy-policy",
-"https://markfisherfordelegate.com/terms-of-service",
-"https://twitter.com/fisher4maryland",
-"https://youtube.com/user/fisherfordelegate"
+{
+"text": "Donate",
+"href": "https://markfisherfordelegate.com/donate/"
+},
+{
+"text": "Every Generation",
+"href": "https://markfisherfordelegate.com/every-generation/"
+},
+{
+"text": "Issues",
+"href": "https://markfisherfordelegate.com/issues/"
+},
+{
+"text": "Meet Mark",
+"href": "https://markfisherfordelegate.com/about/"
+},
+{
+"text": "News",
+"href": "https://markfisherfordelegate.com/category/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://markfisherfordelegate.com/privacy-policy/"
+},
+{
+"text": "Terms",
+"href": "https://markfisherfordelegate.com/terms-of-service/"
+},
+{
+"text": "Terms of Service",
+"href": "https://markfisherfordelegate.com/terms-of-service/"
+},
+{
+"text": "[image]",
+"href": "https://markfisherfordelegate.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/fisher4maryland"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/pages/Friends-of-Mark-Fisher/119788114703058"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/pub/mark-fisher/37/755/283"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/user/fisherfordelegate"
+}
 ]

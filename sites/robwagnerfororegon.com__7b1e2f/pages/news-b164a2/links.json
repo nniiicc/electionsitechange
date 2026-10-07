@@ -1,23 +1,134 @@
 [
-"https://bizjournals.com/portland/news/2026/06/24/chamber-wilson-vega-pederson-lieber.html",
-"https://heyvictor.com/",
-"https://katu.com/news/politics/oregon-lawmakers-end-2026-legislative-session-by-highlighting-bipartisan-victories",
-"https://kdrv.com/news/regional/new-bill-allows-nasal-spray-epinephrine-in-oregon-schools/article_153566e7-63d6-4f3f-9a35-3793c9017183.html",
-"https://koin.com/nwpolitics/oregon-senate-leaders-gear-up-for-packed-legislative-short-session",
-"https://kptv.com/2025/12/18/oregon-leaders-hear-pleas-over-immigration-enforcement-food-insecurity-packed-town-hall",
-"https://lakeoswegoreview.com/2025/11/24/oregon-senate-president-lake-oswego-resident-running-for-reelection",
-"https://lakeoswegoreview.com/2026/01/30/my-view-legislature-will-do-good-things-for-oregon-this-session",
-"https://lakeoswegoreview.com/2026/06/22/commentary-these-are-my-wishes-for-americas-250th-birthday",
-"https://opb.org/article/2026/03/04/oregon-senate-advances-365-million-moda-center-revamp",
-"https://opb.org/article/2026/03/17/oregon-senate-trail-blazers-moda-center",
-"https://robwagnerfororegon.com/",
-"https://robwagnerfororegon.com/about",
-"https://robwagnerfororegon.com/accessibility-statement",
-"https://robwagnerfororegon.com/endorsements",
-"https://robwagnerfororegon.com/news",
-"https://robwagnerfororegon.com/priorities",
-"https://robwagnerfororegon.com/privacy-policy",
-"https://secure.actblue.com/donate/webnew",
-"https://statesmanjournal.com/picture-gallery/news/2026/01/14/new-press-offices-at-oregon-state-capitol-dedicated-to-peter-wong/88188645007",
-"https://timesjournal1886.com/story/2026/08/27/news/eastern-oregon-housing-tour-kicks-off-in-arlington/2140.html"
+{
+"text": "About",
+"href": "https://www.robwagnerfororegon.com/about/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.robwagnerfororegon.com/accessibility-statement/"
+},
+{
+"text": "Commentary: These are my wishes for America’s 250th birthday",
+"href": "https://lakeoswegoreview.com/2026/06/22/commentary-these-are-my-wishes-for-americas-250th-birthday/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/webnew?amount="
+},
+{
+"text": "Eastern Oregon Housing Tour kicks off in Arlington",
+"href": "https://www.timesjournal1886.com/story/2026/08/27/news/eastern-oregon-housing-tour-kicks-off-in-arlington/2140.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.robwagnerfororegon.com/endorsements/"
+},
+{
+"text": "New bill allows nasal spray epinephrine in Oregon schools",
+"href": "https://www.kdrv.com/news/regional/new-bill-allows-nasal-spray-epinephrine-in-oregon-schools/article_153566e7-63d6-4f3f-9a35-3793c9017183.html"
+},
+{
+"text": "New press offices at the Oregon State Capitol dedicated to reporter",
+"href": "https://www.statesmanjournal.com/picture-gallery/news/2026/01/14/new-press-offices-at-oregon-state-capitol-dedicated-to-peter-wong/88188645007/"
+},
+{
+"text": "News",
+"href": "https://www.robwagnerfororegon.com/news/"
+},
+{
+"text": "OPINION: Legislature will do good things for Oregon this session",
+"href": "https://lakeoswegoreview.com/2026/01/30/my-view-legislature-will-do-good-things-for-oregon-this-session/"
+},
+{
+"text": "Officials make case for $600M in public funds for Moda Center renovations",
+"href": "https://www.bizjournals.com/portland/news/2026/06/24/chamber-wilson-vega-pederson-lieber.html"
+},
+{
+"text": "Oregon Senate OKs $365 million for Moda Center revamp",
+"href": "https://www.opb.org/article/2026/03/04/oregon-senate-advances-365-million-moda-center-revamp/"
+},
+{
+"text": "Oregon Senate President and Trail Blazers’ executive defend public financing deal to help renovate Moda Center",
+"href": "https://www.opb.org/article/2026/03/17/oregon-senate-trail-blazers-moda-center/"
+},
+{
+"text": "Oregon Senate leaders gear up for packed legislative short session",
+"href": "https://www.koin.com/nwpolitics/oregon-senate-leaders-gear-up-for-packed-legislative-short-session/"
+},
+{
+"text": "Oregon lawmakers end 2026 legislative session by highlighting bipartisan victories",
+"href": "https://katu.com/news/politics/oregon-lawmakers-end-2026-legislative-session-by-highlighting-bipartisan-victories"
+},
+{
+"text": "Oregon leaders hear pleas over immigration enforcement, food insecurity at packed town hall",
+"href": "https://www.kptv.com/2025/12/18/oregon-leaders-hear-pleas-over-immigration-enforcement-food-insecurity-packed-town-hall/"
+},
+{
+"text": "Oregon senate president, Lake Oswego resident running for reelection",
+"href": "https://lakeoswegoreview.com/2025/11/24/oregon-senate-president-lake-oswego-resident-running-for-reelection/"
+},
+{
+"text": "Priorities",
+"href": "https://www.robwagnerfororegon.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.robwagnerfororegon.com/privacy-policy/"
+},
+{
+"text": "Read news article →",
+"href": "https://katu.com/news/politics/oregon-lawmakers-end-2026-legislative-session-by-highlighting-bipartisan-victories"
+},
+{
+"text": "Read news article →",
+"href": "https://lakeoswegoreview.com/2025/11/24/oregon-senate-president-lake-oswego-resident-running-for-reelection/"
+},
+{
+"text": "Read news article →",
+"href": "https://lakeoswegoreview.com/2026/01/30/my-view-legislature-will-do-good-things-for-oregon-this-session/"
+},
+{
+"text": "Read news article →",
+"href": "https://lakeoswegoreview.com/2026/06/22/commentary-these-are-my-wishes-for-americas-250th-birthday/"
+},
+{
+"text": "Read news article →",
+"href": "https://www.bizjournals.com/portland/news/2026/06/24/chamber-wilson-vega-pederson-lieber.html"
+},
+{
+"text": "Read news article →",
+"href": "https://www.kdrv.com/news/regional/new-bill-allows-nasal-spray-epinephrine-in-oregon-schools/article_153566e7-63d6-4f3f-9a35-3793c9017183.html"
+},
+{
+"text": "Read news article →",
+"href": "https://www.koin.com/nwpolitics/oregon-senate-leaders-gear-up-for-packed-legislative-short-session/"
+},
+{
+"text": "Read news article →",
+"href": "https://www.kptv.com/2025/12/18/oregon-leaders-hear-pleas-over-immigration-enforcement-food-insecurity-packed-town-hall/"
+},
+{
+"text": "Read news article →",
+"href": "https://www.opb.org/article/2026/03/04/oregon-senate-advances-365-million-moda-center-revamp/"
+},
+{
+"text": "Read news article →",
+"href": "https://www.opb.org/article/2026/03/17/oregon-senate-trail-blazers-moda-center/"
+},
+{
+"text": "Read news article →",
+"href": "https://www.statesmanjournal.com/picture-gallery/news/2026/01/14/new-press-offices-at-oregon-state-capitol-dedicated-to-peter-wong/88188645007/"
+},
+{
+"text": "Read news article →",
+"href": "https://www.timesjournal1886.com/story/2026/08/27/news/eastern-oregon-housing-tour-kicks-off-in-arlington/2140.html"
+},
+{
+"text": "[image] [image]",
+"href": "https://www.robwagnerfororegon.com/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+}
 ]

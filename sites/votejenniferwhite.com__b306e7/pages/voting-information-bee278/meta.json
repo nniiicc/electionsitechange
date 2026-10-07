@@ -1,7 +1,9 @@
 {
  "description": "Discover essential voting information, including registration, Maryland elections, and voter resources to participate in democracy.",
  "final_url": "https://votejenniferwhite.com/voting-information",
- "paid_for_by": null,
+ "fingerprint": "7ed3f492a0eda0f91b3ba024fe50a54ced6d3595",
+ "format": 3,
+ "paid_for_by": "",
  "title": "VOTING INFORMATION",
  "years_mentioned": [
   "2026"

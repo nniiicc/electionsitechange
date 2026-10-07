@@ -1,6 +1,3 @@
-Claudia Tenney Wishes President & First Lady a Speedy Recovery
-Tenney sends “healing prayers” for the President and First Lady
-NY22 — Today, Claudia Tenney reacted to the news of President and First Lady Melanie Trump’s positive COVID tests with well-wishes and hope for a speedy recovery.
-Claudia Tenney said:
-“I wish the President and First Lady a speedy recovery and I am sending healing prayers their way.”
-Tenney also tweeted her sentiments:
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Previous page Claudia Tenney Reacts to President & First Lady COVID Diagnosis Share October 2 2020 Claudia Tenney Wishes President & First Lady a Speedy Recovery Tenney sends “healing prayers” for the President and First Lady NY22 — Today, Claudia Tenney reacted to the news of President and First Lady Melanie Trump’s positive COVID tests with well-wishes and hope for a speedy recovery.
+Claudia Tenney said: “I wish the President and First Lady a speedy recovery and I am sending healing prayers their way.” Tenney also tweeted her sentiments : Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

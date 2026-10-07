@@ -1,9 +1,34 @@
 [
-"https://facebook.com/javiervaldezforstatesenate",
-"https://javiervaldez.com/",
-"https://javiervaldez.com/about-javier",
-"https://javiervaldez.com/contact",
-"https://javiervaldez.com/endorsements",
-"https://javiervaldez.com/join-us",
-"https://secure.actblue.com/donate/jv2026web"
+{
+"text": "About Javier",
+"href": "https://www.javiervaldez.com/about-javier/"
+},
+{
+"text": "Contact",
+"href": "https://www.javiervaldez.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jv2026web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.javiervaldez.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.javiervaldez.com/"
+},
+{
+"text": "Join us!",
+"href": "https://www.javiervaldez.com/join-us/"
+},
+{
+"text": "[image: Javier Valdez]",
+"href": "https://www.javiervaldez.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/javiervaldezforstatesenate"
+}
 ]

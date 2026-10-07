@@ -1,8 +1,5 @@
-Op-Ed: Inherited Hatred and How to Stop It
-When an identity is shunned for being weird, different, strange, or unusual, people are given the moral authority to exclude them.
-Op-Ed: Do Better Chris Sununu
-We have to call on our senators and our governor to not let hate find a safe haven in New Hampshire, for all of our sakes.
-Op-Ed: Stop pretending Trans Persecution is Helping Kids
-These anti-trans bills aren’t meant to help kids, they’re preventing kids who need the care from getting it.
-Op-Ed: I’m not your political weapon
-These politicians don’t see me for who I am, they see me as a tool to scare parents into thinking that their kids might become transgender just from learning about it in school.
+0 Skip to Content About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Donate Alice Wade 4/2/24 Alice Wade 4/2/24 Op-Ed: Inherited Hatred and How to Stop It When an identity is shunned for being weird, different, strange, or unusual, people are given the moral authority to exclude them.
+Read More Alice Wade 3/21/24 Alice Wade 3/21/24 Op-Ed: Do Better Chris Sununu We have to call on our senators and our governor to not let hate find a safe haven in New Hampshire, for all of our sakes.
+Read More Alice Wade 2/2/24 Alice Wade 2/2/24 Op-Ed: Stop pretending Trans Persecution is Helping Kids These anti-trans bills aren’t meant to help kids, they’re preventing kids who need the care from getting it.
+Read More Alice Wade 12/30/23 Alice Wade 12/30/23 Op-Ed: I’m not your political weapon These politicians don’t see me for who I am, they see me as a tool to scare parents into thinking that their kids might become transgender just from learning about it in school.
+Read More Newer Posts Paid for by Alice for New Hampshire 133 Washington St, PO Box #457 Dover, New Hampshire 03821 CONTACT Alice.Wade@gc.nh.gov

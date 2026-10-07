@@ -1,9 +1,34 @@
 [
-"https://electawessman.com/",
-"https://electawessman.com/contribute",
-"https://electawessman.com/principles-and-policy",
-"https://electionscience.org/education/approval-voting",
-"https://equal.vote/problem",
-"https://generatepress.com/",
-"https://starvoting.org/star"
+{
+"text": "Approval",
+"href": "https://electionscience.org/education/approval-voting"
+},
+{
+"text": "Contribute",
+"href": "https://electawessman.com/contribute/"
+},
+{
+"text": "GeneratePress",
+"href": "https://generatepress.com"
+},
+{
+"text": "Principles and Policy",
+"href": "https://electawessman.com/principles-and-policy/"
+},
+{
+"text": "STAR",
+"href": "https://www.starvoting.org/star"
+},
+{
+"text": "Vote for Alan",
+"href": "https://electawessman.com/"
+},
+{
+"text": "[image: Alan Wessman – Utah House 64]",
+"href": "https://electawessman.com/"
+},
+{
+"text": "problems",
+"href": "https://www.equal.vote/problem"
+}
 ]

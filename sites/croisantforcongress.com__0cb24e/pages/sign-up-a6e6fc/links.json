@@ -1,10 +1,38 @@
 [
-"https://croisantforcongress.com/",
-"https://croisantforcongress.com/events",
-"https://croisantforcongress.com/issues",
-"https://croisantforcongress.com/privacy",
-"https://croisantforcongress.com/sign-up",
-"https://croisantforcongress.com/terms",
-"https://secure.actblue.com/donate/jcmerch",
-"https://secure.actblue.com/donate/john-croisant-1"
+{
+"text": "ABOUT",
+"href": "https://www.croisantforcongress.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/john-croisant-1"
+},
+{
+"text": "EVENTS",
+"href": "https://www.croisantforcongress.com/events"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.croisantforcongress.com/sign-up"
+},
+{
+"text": "HOME",
+"href": "https://www.croisantforcongress.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.croisantforcongress.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.croisantforcongress.com/privacy"
+},
+{
+"text": "STORE",
+"href": "https://secure.actblue.com/donate/jcmerch"
+},
+{
+"text": "Terms",
+"href": "https://www.croisantforcongress.com/terms"
+}
 ]

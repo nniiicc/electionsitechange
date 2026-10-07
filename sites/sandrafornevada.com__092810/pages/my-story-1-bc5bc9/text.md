@@ -1,4 +1,4 @@
-Sandra Jauregui is a first-generation American and the proud daughter of Mexican immigrants who built their small business, bought a home, and created opportunity for their family through hard work and perseverance.
+Home My Story Issues Contribute Media Privacy policy More Home My Story Issues Contribute Media Privacy policy Home My Story Issues Contribute Media Privacy policy Contribute to our team > My Story Sandra Jauregui is a first-generation American and the proud daughter of Mexican immigrants who built their small business, bought a home, and created opportunity for their family through hard work and perseverance.
 They taught her the values of integrity, resilience, and standing up for others.
 While attending UNLV, Sandra began her career working in nonprofit and state housing relief programs, including with the Nevada Attorney General’s housing program and the Financial Guidance Center.
 During the Great Recession, she saw firsthand how deeply families were hurting and made it her mission to help Nevadans stay in their homes.
@@ -14,7 +14,5 @@ A survivor of the 1 October mass shooting, Sandra turned personal tragedy into p
 She led the fight to ban bump stocks, enact red flag laws, and strengthen tools for law enforcement to prevent gun violence and address domestic terrorism, always working to keep Nevada communities safe.
 Sandra has never been afraid to take on powerful interests and deliver results for working families.
 Now, she is running for Lieutenant Governor to bring that same bold leadership to create jobs, expand affordable housing, strengthen our economy, and keep Nevada safe.
-Campaign Committee to Elect Sandra Jauregui
-7582 Las Vegas BLVD S, #118, Las Vegas, NV 89123
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Contribute Campaign Committee to Elect Sandra Jauregui 7582 Las Vegas BLVD S, #118, Las Vegas, NV 89123 (702) 623-0926 Copyright © # Sandra Jauregui for Lieutenant Governor - All Rights Reserved.
+Powered by

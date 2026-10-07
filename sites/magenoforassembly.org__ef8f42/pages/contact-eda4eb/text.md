@@ -1,33 +1,16 @@
-Contribute
-About
-Issues
-News
-District
-Endosrsements
-Gallery
-Events
-Volunteer
-Contribute
-Search for articles
-Contact Victoria
-Use this form to send a message.
+ Contribute About Issues News District Endosrsements Gallery Events Volunteer  Contribute  Search for articles  Contact Victoria Use this form to send a message.
 You can also write or call!
-PO Box 27227 San Diego, CA 92198
-(619) 786-8019
-Who is this to?
-General Inquiry
-Press Inquiry
-Carl DeMaio
-Jordan Gurnett
-Dylan Martin
-Brett Wilkins
-Full Name
-Email Address
-Phone
-Subject
-Leave us a message
-Thank you
-Thanks for reaching out.
-We will get back to you soon
-Oops!
+PO Box 27227 San Diego, CA 92198  (619) 786-8019 Who is this to?
+General Inquiry Press Inquiry Carl DeMaio Jordan Gurnett Dylan Martin Brett Wilkins Full Name Email Address Phone Subject Leave us a message  Thank you Thanks for reaching out.
+We will get back to you soon Oops!
 Something went wrong while submitting the form.
+Join the Fight $5,900 $1,000 $500 $250 $100 $50 $25 Other Join Victoria Mageno in the Fight for California!
+Receive text message updates?
+Texts may be sent using automatic telephone dialing system.
+Reply/consent not required for any purchase.
+Periodic messages.
+Reply STOP to cancel, Reply HELP for help.
+Message & Data rates may apply.
+No mobile information will be shared by us with third parties/affiliates for marketing/promotional purposes.
+Text messaging originator opt-in data and consent will not be shared by us with any third parties.  Thanks for joining our newsletter Oops!
+Something went wrong while submitting the form.     About About Victoria Privacy Policy The Latest News Get Involved Volunteer Contribute Contact Carl DeMaio for State Assembly PO Box 27227 San Diego, CA 92198 (619) 786-8019 Ad paid for by Mageno for State Assembly 2026

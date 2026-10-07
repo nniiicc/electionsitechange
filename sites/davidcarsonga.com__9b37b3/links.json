@@ -1,5 +1,14 @@
 [
-"https://davidcarsonga.com/cdn-cgi/l/email-protection",
-"https://facebook.com/profile.php?id=61586899907618",
-"https://x.com/DavidCarson130"
+{
+"text": "Email",
+"href": "mailto:david.carson.ao@gmail.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61586899907618"
+},
+{
+"text": "X",
+"href": "https://x.com/DavidCarson130"
+}
 ]

@@ -1,10 +1,10 @@
-Paid for by the Committee to Elect LaKesha Womack.
+0 Skip to Content Meet the Candidate News and Resources Ways to Give Issues Calendar Shop Contact DONATE Open Menu Close Menu Open Menu Close Menu Meet the Candidate News and Resources Ways to Give Issues Calendar Shop Contact DONATE Meet the Candidate News and Resources Ways to Give Issues Calendar Shop Contact DONATE Back to All Events Burke County Democrats Monthly Meeting Tuesday, February 3, 2026 6:30 PM 8:30 PM Google Calendar ICS Posted In: Burke County Previous Previous February 2 Democrats of Davidson Candidate’s Forum Next Next February 4 Gaston Business Association Primary Candidate Forum Paid for by the Committee to Elect LaKesha Womack.
 All Rights Reserved.
 Privacy Policy.
-Previous
-Previous
-February 2
-Democrats of Davidson Candidate’s Forum
-Next
-Next
-February 4
+Donate Today!
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay Up to Date with the Campaign Sign up with your email address to receive news and updates from the Campaign to Elect LaKesha Womack to North Carolina’s 14th Congressional District.
+First Name Last Name Email Address Join Us We respect your privacy.
+Thank you!
+We look forward to hearing from you and meeting you on the campaign trail.

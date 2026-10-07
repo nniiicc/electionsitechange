@@ -1,18 +1,98 @@
 [
-"https://facebook.com/beckykrollformissouri",
-"https://forms.gle/s6ivSvkUFWHumaw56",
-"https://instagram.com/beckykrollformissouri",
-"https://secure.actblue.com/donate/becky-kroll-1",
-"https://upballot.com/",
-"https://upballot.com/Becky-Kroll",
-"https://upballot.com/Becky-Kroll/about",
-"https://upballot.com/Becky-Kroll/events",
-"https://upballot.com/Becky-Kroll/get-involved",
-"https://upballot.com/Becky-Kroll/issues",
-"https://upballot.com/Becky-Kroll/news",
-"https://upballot.com/Becky-Kroll/news/labor-day",
-"https://upballot.com/Becky-Kroll/news/rural-spaces-arent-wasted-space",
-"https://upballot.com/Becky-Kroll/news/when-strong-people-are-struggling",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Becky",
+"href": "https://www.upballot.com/Becky-Kroll/about/"
+},
+{
+"text": "Attend an Event",
+"href": "https://www.upballot.com/Becky-Kroll/events/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/becky-kroll-1"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/Becky-Kroll/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/Becky-Kroll/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/Becky-Kroll"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/Becky-Kroll/issues/"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/becky-kroll-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "See All Updates",
+"href": "https://www.upballot.com/Becky-Kroll/news/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "Updates",
+"href": "https://www.upballot.com/Becky-Kroll/news/"
+},
+{
+"text": "Volunteer Now",
+"href": "https://forms.gle/s6ivSvkUFWHumaw56"
+},
+{
+"text": "[image: Becky Kroll Logo]",
+"href": "https://www.upballot.com/Becky-Kroll/"
+},
+{
+"text": "[image] August 22 When Strong People Are Struggling Read More",
+"href": "https://www.upballot.com/Becky-Kroll/news/when-strong-people-are-struggling"
+},
+{
+"text": "[image] August 4 Rural Spaces Aren't Wasted Space Read More",
+"href": "https://www.upballot.com/Becky-Kroll/news/rural-spaces-arent-wasted-space"
+},
+{
+"text": "[image] September 7 Labor Day Read More",
+"href": "https://www.upballot.com/Becky-Kroll/news/labor-day"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/beckykrollformissouri"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/beckykrollformissouri"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/beckykrollformissouri"
+},
+{
+"text": "[tooltip: View Instagram Link]",
+"href": "https://www.instagram.com/beckykrollformissouri"
+},
+{
+"text": "becky@beckykrollformissouri.com",
+"href": "mailto:becky@beckykrollformissouri.com"
+},
+{
+"text": "tel:573-690-3431",
+"href": "tel:573-690-3431"
+}
 ]

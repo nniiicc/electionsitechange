@@ -1,7 +1,22 @@
 [
-"https://friendsofron.com/",
-"https://friendsofron.com/cart",
-"https://friendsofron.com/donate",
-"https://friendsofron.com/volunteer",
-"https://secure.actblue.com/donate/dr_ron-26"
+{
+"text": "0",
+"href": "https://www.friendsofron.com/cart"
+},
+{
+"text": "Become a Volunteer",
+"href": "https://www.friendsofron.com/volunteer"
+},
+{
+"text": "Donate to Friends of Ron",
+"href": "https://www.friendsofron.com/donate"
+},
+{
+"text": "[image: A promotional political campaign poster featuring a man smiling in front of a farm and school. The poster advocates for Ron Itnyre running for state senate, promoting smart taxes, strong schools, and protecting farms. It includes images of a barn, silo, tractors, a school building, and a calculator, with text indicating it is paid for by friends of Ron Itnyre.]",
+"href": "https://secure.actblue.com/donate/dr_ron-26"
+},
+{
+"text": "[image: Friends of Ron]",
+"href": "https://www.friendsofron.com/"
+}
 ]

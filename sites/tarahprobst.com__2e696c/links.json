@@ -1,12 +1,46 @@
 [
-"https://facebook.com/FriendsOfTarahProbst",
-"https://instagram.com/friendsoftarahprobst",
-"https://pahouse.com/Probst",
-"https://secure.actblue.com/donate/friends-of-tarah-probst",
-"https://tarahprobst.com/",
-"https://tarahprobst.com/cart",
-"https://tarahprobst.com/contact",
-"https://tarahprobst.com/endorsements",
-"https://tarahprobst.com/meet-tarah",
-"https://x.com/TarahProbst"
+{
+"text": "0",
+"href": "https://www.tarahprobst.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.tarahprobst.com/meet-tarah"
+},
+{
+"text": "Contact",
+"href": "https://www.tarahprobst.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/friends-of-tarah-probst"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tarahprobst.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.tarahprobst.com/"
+},
+{
+"text": "PAHouse.com/Probst/",
+"href": "https://pahouse.com/Probst/"
+},
+{
+"text": "[image: Friends of Tarah Probst]",
+"href": "https://www.tarahprobst.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/FriendsOfTarahProbst"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/friendsoftarahprobst/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/TarahProbst"
+}
 ]

@@ -1,21 +1,102 @@
 [
-"https://danbarriosforcongress.com/",
-"https://danbarriosforcongress.com/about",
-"https://danbarriosforcongress.com/contact",
-"https://danbarriosforcongress.com/contactdan",
-"https://danbarriosforcongress.com/district32map",
-"https://danbarriosforcongress.com/issues",
-"https://facebook.com/DanBarriosForCongress",
-"https://instagram.com/danbarriosforcongress",
-"https://mobilize.us/danbarriosforcongress",
-"https://secure.actblue.com/donate/danforcongresswebsite",
-"https://secure.actblue.com/donate/danforcongresswebsite?amount=100.00",
-"https://secure.actblue.com/donate/danforcongresswebsite?amount=1000.00",
-"https://secure.actblue.com/donate/danforcongresswebsite?amount=20",
-"https://secure.actblue.com/donate/danforcongresswebsite?amount=250.00",
-"https://secure.actblue.com/donate/danforcongresswebsite?amount=3500.00",
-"https://secure.actblue.com/donate/danforcongresswebsite?amount=50.00",
-"https://secure.actblue.com/donate/danforcongresswebsite?amount=500.00",
-"https://store.danbarriosforcongress.com/",
-"https://x.com/barriosforus"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/danforcongresswebsite?amount=100.00"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/danforcongresswebsite?amount=1000.00"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/danforcongresswebsite?amount=20"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/danforcongresswebsite?amount=250.00"
+},
+{
+"text": "$3500",
+"href": "https://secure.actblue.com/donate/danforcongresswebsite?amount=3500.00"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/danforcongresswebsite?amount=50.00"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/danforcongresswebsite?amount=500.00"
+},
+{
+"text": "About Dan",
+"href": "https://www.danbarriosforcongress.com/about"
+},
+{
+"text": "Contact Dan",
+"href": "https://www.danbarriosforcongress.com/contactdan"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/danforcongresswebsite"
+},
+{
+"text": "District 32 Map",
+"href": "https://www.danbarriosforcongress.com/district32map"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/danbarriosforcongress/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.danbarriosforcongress.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.danbarriosforcongress.com"
+},
+{
+"text": "Issues",
+"href": "https://www.danbarriosforcongress.com/issues"
+},
+{
+"text": "Meet Dan",
+"href": "https://www.danbarriosforcongress.com/about"
+},
+{
+"text": "On the Issues",
+"href": "https://www.danbarriosforcongress.com/issues"
+},
+{
+"text": "PAID FOR BY DAN BARRIOS FOR CONGRESS",
+"href": "https://www.danbarriosforcongress.com"
+},
+{
+"text": "STORE",
+"href": "https://store.danbarriosforcongress.com/"
+},
+{
+"text": "[image: Dan Barrios for Congress]",
+"href": "https://www.danbarriosforcongress.com"
+},
+{
+"text": "[image: DanClearBack.png]",
+"href": "https://www.danbarriosforcongress.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DanBarriosForCongress"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/danbarriosforcongress"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/barriosforus"
+},
+{
+"text": "info@danbarriosforcongress.com",
+"href": "mailto:info@danbarriosforcongress.com"
+}
 ]

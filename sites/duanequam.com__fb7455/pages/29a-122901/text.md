@@ -1,1 +1,2 @@
-Minnesota House district 24A includes all of Dodge county and the southwestern corner of Olmsted county.
+Welcome District 24A News Events Issues Contact Media Pictures Radio Ads Volunteer Donate Duane Quam for Minnesota House District 24A Minnesota House district 24A includes all of Dodge county and the southwestern corner of Olmsted county.
+Search for: Recent Posts Legislative Update: July 17, 2026 July 12, 2026 News July 3, 2026 July 2, 2026 News June 12,2026 June 12, 2026 © #-# prepared and paid for by the Quam for House Committee

@@ -1,38 +1,150 @@
 [
-"https://bsky.app/profile/votedinanina.bsky.social",
-"https://docs.google.com/forms/d/e/1FAIpQLSfNY31gRbEzROAruDAwPEfQkRDLw_1O2VQchznyX3LqYY4qhg/viewform",
-"https://facebook.com/votedinanina",
-"https://instagram.com/votedinanina",
-"https://secure.actblue.com/donate/dinanina",
-"https://secure.actblue.com/donate/dinanina?amount=100",
-"https://secure.actblue.com/donate/dinanina?amount=1000",
-"https://secure.actblue.com/donate/dinanina?amount=25",
-"https://secure.actblue.com/donate/dinanina?amount=250",
-"https://secure.actblue.com/donate/dinanina?amount=50",
-"https://secure.actblue.com/donate/dinanina?amount=500",
-"https://secure.actblue.com/donate/dinanina?amount=76",
-"https://votedinanina.com/",
-"https://votedinanina.com/about",
-"https://votedinanina.com/affordability",
-"https://votedinanina.com/bodily-autonomy",
-"https://votedinanina.com/cart",
-"https://votedinanina.com/cdn-cgi/l/email-protection",
-"https://votedinanina.com/child-care",
-"https://votedinanina.com/criminal-justice",
-"https://votedinanina.com/democracy",
-"https://votedinanina.com/education",
-"https://votedinanina.com/endorsements",
-"https://votedinanina.com/environment",
-"https://votedinanina.com/food-justice",
-"https://votedinanina.com/gun-violence",
-"https://votedinanina.com/healthcare",
-"https://votedinanina.com/housing",
-"https://votedinanina.com/immigrant-rights",
-"https://votedinanina.com/labor",
-"https://votedinanina.com/lgbtq-rights",
-"https://votedinanina.com/mutualaid",
-"https://votedinanina.com/policy",
-"https://votedinanina.com/seniors",
-"https://votedinanina.com/small-businesses",
-"https://votedinanina.com/volunteer"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/dinanina?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/dinanina?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/dinanina?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/dinanina?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/dinanina?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/dinanina?amount=500"
+},
+{
+"text": "$76",
+"href": "https://secure.actblue.com/donate/dinanina?amount=76"
+},
+{
+"text": "0",
+"href": "https://www.votedinanina.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.votedinanina.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dinanina"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votedinanina.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.votedinanina.com/"
+},
+{
+"text": "Mutual Aid",
+"href": "https://www.votedinanina.com/mutualaid"
+},
+{
+"text": "Policy",
+"href": "https://www.votedinanina.com/policy"
+},
+{
+"text": "Read More",
+"href": "https://www.votedinanina.com/affordability"
+},
+{
+"text": "Read More",
+"href": "https://www.votedinanina.com/bodily-autonomy"
+},
+{
+"text": "Read More",
+"href": "https://www.votedinanina.com/child-care"
+},
+{
+"text": "Read More",
+"href": "https://www.votedinanina.com/criminal-justice"
+},
+{
+"text": "Read More",
+"href": "https://www.votedinanina.com/democracy"
+},
+{
+"text": "Read More",
+"href": "https://www.votedinanina.com/education"
+},
+{
+"text": "Read More",
+"href": "https://www.votedinanina.com/environment"
+},
+{
+"text": "Read More",
+"href": "https://www.votedinanina.com/food-justice"
+},
+{
+"text": "Read More",
+"href": "https://www.votedinanina.com/gun-violence"
+},
+{
+"text": "Read More",
+"href": "https://www.votedinanina.com/healthcare"
+},
+{
+"text": "Read More",
+"href": "https://www.votedinanina.com/housing"
+},
+{
+"text": "Read More",
+"href": "https://www.votedinanina.com/immigrant-rights"
+},
+{
+"text": "Read More",
+"href": "https://www.votedinanina.com/labor"
+},
+{
+"text": "Read More",
+"href": "https://www.votedinanina.com/lgbtq-rights"
+},
+{
+"text": "Read More",
+"href": "https://www.votedinanina.com/seniors"
+},
+{
+"text": "Read More",
+"href": "https://www.votedinanina.com/small-businesses"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votedinanina.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfNY31gRbEzROAruDAwPEfQkRDLw_1O2VQchznyX3LqYY4qhg/viewform"
+},
+{
+"text": "[email protected]",
+"href": "mailto:dina@votedinanina.com"
+},
+{
+"text": "[image: Vote Dina Nina]",
+"href": "https://www.votedinanina.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/votedinanina.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votedinanina"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votedinanina/"
+}
 ]

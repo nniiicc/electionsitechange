@@ -1,43 +1,190 @@
 [
-"https://bsky.app/profile/ginafortexas.bsky.social",
-"https://facebook.com/ginafortexas",
-"https://ginafortexas.com/",
-"https://ginafortexas.com/2026/09/abbott-continues-hiding-from-his-record-and-texas-voters-too-scared-to-debate-gina-hinojosa",
-"https://ginafortexas.com/2026/09/hinojosa-on-ms-now-republicans-in-texas-have-no-game",
-"https://ginafortexas.com/2026/09/icymi-gina-hinojosas-hometown-tour-in-the-rio-grande-valley",
-"https://ginafortexas.com/2026/09/statement-gina-hinojosa-on-abbotts-property-tax-lies",
-"https://ginafortexas.com/2026/09/statement-gina-hinojosa-on-the-25th-anniversary-of-the-september-11th-attacks",
-"https://ginafortexas.com/2026/09/statement-hinojosa-calls-on-abbott-to-waive-tax-on-diesel-in-the-face-of-skyrocketing-prices",
-"https://ginafortexas.com/2026/09/statement-hinojosa-on-abbotts-ercot-ceos-salary-doubling-while-texans-suffer-skyrocketing-electricity-bills",
-"https://ginafortexas.com/2026/09/taking-the-lead-new-public-poll-shows-hinojosa-beating-abbott-by-4-surging-with-key-demos",
-"https://ginafortexas.com/2026/09/upcoming-hinojosa-spanish-town-hall-with-carlos-eduardo-espina",
-"https://ginafortexas.com/2026/09/video-gina-hinojosa-visits-big-bend-to-connect-with-texans-about-protecting-public-lands-border-security",
-"https://ginafortexas.com/about",
-"https://ginafortexas.com/cdn-cgi/l/email-protection",
-"https://ginafortexas.com/contact",
-"https://ginafortexas.com/endorsements",
-"https://ginafortexas.com/jobs",
-"https://ginafortexas.com/news",
-"https://ginafortexas.com/news/page/16",
-"https://ginafortexas.com/news/page/2",
-"https://ginafortexas.com/news/page/4",
-"https://ginafortexas.com/news/page/5",
-"https://ginafortexas.com/priorities",
-"https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone",
-"https://ginafortexas.com/priority/save-texas-public-schools",
-"https://ginafortexas.com/privacy-policy",
-"https://ginafortexas.com/volunteer",
-"https://instagram.com/ginafortexas",
-"https://middleseat.co/",
-"https://mobilize.us/ginahinojosafortexasgovernor",
-"https://secure.actblue.com/donate/web_ms_gh",
-"https://secure.actblue.com/donate/web_ms_gh?amount=10",
-"https://secure.actblue.com/donate/web_ms_gh?amount=100",
-"https://secure.actblue.com/donate/web_ms_gh?amount=25",
-"https://secure.actblue.com/donate/web_ms_gh?amount=250",
-"https://secure.actblue.com/donate/web_ms_gh?amount=500",
-"https://store.ginafortexas.com/",
-"https://tiktok.com/@ginafortexas",
-"https://x.com/GinaHinojosaTX",
-"https://youtube.com/@GinaHinojosaTX"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=250"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=500"
+},
+{
+"text": "1",
+"href": "https://ginafortexas.com/news/"
+},
+{
+"text": "16",
+"href": "https://ginafortexas.com/news/page/16/"
+},
+{
+"text": "2",
+"href": "https://ginafortexas.com/news/page/2/"
+},
+{
+"text": "4",
+"href": "https://ginafortexas.com/news/page/4/"
+},
+{
+"text": "5",
+"href": "https://ginafortexas.com/news/page/5/"
+},
+{
+"text": "Abbott Continues Hiding From His Record and Texas Voters, Too Scared to Debate Gina Hinojosa Press Release September 15, 2026 AUSTIN, TX – 10 days before the proposed Nexstar/KXAN News gubernatorial debate and one month before the proposed NBCUniversal/Hearst gubernatorial debate, Democratic nominee for Texas Governor Gina Hinojosa released the following statement today. “Greg Abbott won’t …",
+"href": "https://ginafortexas.com/2026/09/abbott-continues-hiding-from-his-record-and-texas-voters-too-scared-to-debate-gina-hinojosa/"
+},
+{
+"text": "Bsky",
+"href": "https://bsky.app/profile/ginafortexas.bsky.social"
+},
+{
+"text": "Contact",
+"href": "https://ginafortexas.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/web_ms_gh"
+},
+{
+"text": "Endorsements",
+"href": "https://ginafortexas.com/endorsements/"
+},
+{
+"text": "Español",
+"href": "https://ginafortexas.com/es/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/ginahinojosafortexasgovernor/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ginafortexas/"
+},
+{
+"text": "Gina Hinojosa for Texas Governor [image: Gina Hinojosa for Texas Governor]",
+"href": "https://ginafortexas.com"
+},
+{
+"text": "Hinojosa on MS NOW: “Republicans in Texas Have No Game” Press Release September 14, 2026 Austin, TX – This weekend, Gina Hinojosa joined The Weekend and The Assignment on MS NOW to discuss the race for Texas governor heating up – with new polling showing the race tied at 47-47 – …",
+"href": "https://ginafortexas.com/2026/09/hinojosa-on-ms-now-republicans-in-texas-have-no-game/"
+},
+{
+"text": "Home",
+"href": "https://ginafortexas.com/"
+},
+{
+"text": "ICYMI: Gina Hinojosa’s Hometown Tour in the Rio Grande Valley Press Release September 16, 2026 Brownsville, TX – This week, Democratic Nominee for Texas Governor Gina Hinojosa returned home to the Rio Grande Valley for a campaign swing focused on supporting border communities grappling with rising costs. The trip came on …",
+"href": "https://ginafortexas.com/2026/09/icymi-gina-hinojosas-hometown-tour-in-the-rio-grande-valley/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ginafortexas"
+},
+{
+"text": "Jobs",
+"href": "https://ginafortexas.com/jobs/"
+},
+{
+"text": "Meet Gina",
+"href": "https://ginafortexas.com/about/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Money in Your Pocket",
+"href": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/"
+},
+{
+"text": "News",
+"href": "https://ginafortexas.com/news/"
+},
+{
+"text": "Next »",
+"href": "https://ginafortexas.com/news/page/4/"
+},
+{
+"text": "Other amount",
+"href": "https://secure.actblue.com/donate/web_ms_gh"
+},
+{
+"text": "Priorities",
+"href": "https://ginafortexas.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ginafortexas.com/privacy-policy/"
+},
+{
+"text": "RELEASE: Hinojosa Raises Over $1 Million in 36 Hours after New Poll Shows Her Leading Texas Governor’s Race Press Release September 18, 2026 Austin, TX – # hours after a ReconMR/Siena poll showed Democratic nominee for Texas Governor Gina Hinojosa winning the Texas Governor’s race at 49-#%, Hinojosa raised more than a million dollars. “The momentum behind this campaign …",
+"href": "https://ginafortexas.com/2026/09/release-hinojosa-raises-over-1-million-in-36-hours-after-new-poll-shows-her-leading-texas-governors-race/"
+},
+{
+"text": "STATEMENT: Gina Hinojosa on Abbott’s Property Tax Lies Press Release September 14, 2026 AUSTIN, TX – Today, Democratic nominee for Texas Governor Gina Hinojosa released the following statement in response to Greg Abbott’s hypocrisy and lies about property taxes. Since Abbott has been in office, Texans’ property taxes have …",
+"href": "https://ginafortexas.com/2026/09/statement-gina-hinojosa-on-abbotts-property-tax-lies/"
+},
+{
+"text": "STATEMENT: Hinojosa Calls on Abbott to Waive Tax on Diesel in the Face of Skyrocketing Prices Press Release September 18, 2026 Austin, TX – With diesel hitting record highs in Texas, in many places jumping to $6, Democratic nominee for Texas Governor Gina Hinojosa released the following statement reiterating her call on Greg Abbott to use his …",
+"href": "https://ginafortexas.com/2026/09/statement-hinojosa-calls-on-abbott-to-waive-tax-on-diesel-in-the-face-of-skyrocketing-prices/"
+},
+{
+"text": "STATEMENT: Hinojosa on Abbott’s ERCOT CEO’s Salary Doubling While Texans Suffer Skyrocketing Electricity Bills Press Release September 18, 2026 Austin, TX – Today, Democratic nominee for Texas Governor Gina Hinojosa released the following statement after the Electric Reliability Council of Texas (ERCOT) board voted to give themselves a 30% raise and double their CEO’s salary: …",
+"href": "https://ginafortexas.com/2026/09/statement-hinojosa-on-abbotts-ercot-ceos-salary-doubling-while-texans-suffer-skyrocketing-electricity-bills/"
+},
+{
+"text": "Save Texas Public Schools",
+"href": "https://ginafortexas.com/priority/save-texas-public-schools/"
+},
+{
+"text": "Store",
+"href": "https://store.ginafortexas.com/"
+},
+{
+"text": "TAKING THE LEAD: New Public Poll Shows Hinojosa Beating Abbott By 4, Surging with Key Demos Press Release September 17, 2026 Hinojosa leads by four points, marking the first time Abbott has fallen behind in an election year despite spending $39 million. AUSTIN, TX – A new ReconMR/Siena poll shows Gina Hinojosa winning the Texas Governor’s race …",
+"href": "https://ginafortexas.com/2026/09/taking-the-lead-new-public-poll-shows-hinojosa-beating-abbott-by-4-surging-with-key-demos/"
+},
+{
+"text": "TEXAS TOSS UP: Real Clear Politics Shifts Governor’s Race to “Toss Up” as Hinojosa’s Momentum Surges Press Release September 20, 2026 Austin, TX – Following new polling from ReconMR/Siena showing Gina Hinojosa leading the Texas Governor’s race by 4 points, Real Clear Politics moved the race for Texas Governor to a “Toss Up.” “This is a watershed …",
+"href": "https://ginafortexas.com/2026/09/texas-toss-up-real-clear-politics-shifts-governors-race-to-toss-up-as-hinojosas-momentum-surges/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@ginafortexas"
+},
+{
+"text": "UPCOMING: Hinojosa Spanish Town Hall with Carlos Eduardo Espina Press Release September 17, 2026 Houston, TX – Today, Democratic Nominee for Texas Governor Gina Hinojosa announced that she will participate in a Spanish town hall in Houston. The town hall, moderated by Carlos Eduardo Espina, will allow Hinojosa to speak …",
+"href": "https://ginafortexas.com/2026/09/upcoming-hinojosa-spanish-town-hall-with-carlos-eduardo-espina/"
+},
+{
+"text": "Volunteer",
+"href": "https://ginafortexas.com/volunteer/"
+},
+{
+"text": "X",
+"href": "https://x.com/GinaHinojosaTX"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@GinaHinojosaTX"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@ginafortexas.com"
+},
+{
+"text": "« Previous",
+"href": "https://ginafortexas.com/news/page/2/"
+}
 ]

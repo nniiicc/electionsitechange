@@ -1,21 +1,102 @@
 [
-"https://bsky.app/profile/dixonformd.bsky.social",
-"https://dixonformd.com/",
-"https://dixonformd.com/accessibility-statement",
-"https://dixonformd.com/authority",
-"https://dixonformd.com/endorsements",
-"https://dixonformd.com/meet-spencer",
-"https://dixonformd.com/vision",
-"https://dixonformd.com/volunteer",
-"https://dixonformd.com/voting-info",
-"https://facebook.com/DixonforMD",
-"https://heyvictor.com/",
-"https://instagram.com/dixonformd",
-"https://secure.actblue.com/donate/dixonformd",
-"https://secure.actblue.com/donate/dixonformd?amount=150",
-"https://secure.actblue.com/donate/dixonformd?amount=25",
-"https://secure.actblue.com/donate/dixonformd?amount=250",
-"https://secure.actblue.com/donate/dixonformd?amount=5",
-"https://secure.actblue.com/donate/dixonformd?amount=50",
-"https://x.com/dixonformd"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/dixonformd?amount=150"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/dixonformd?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/dixonformd?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/dixonformd?amount=5"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/dixonformd?amount=50"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.dixonformd.com/accessibility-statement/"
+},
+{
+"text": "Authority",
+"href": "https://www.dixonformd.com/authority/"
+},
+{
+"text": "Contact",
+"href": "mailto:info@spencerformd.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dixonformd"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dixonformd?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://www.dixonformd.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.dixonformd.com/"
+},
+{
+"text": "Meet Spencer",
+"href": "https://www.dixonformd.com/meet-spencer/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/dixonformd?amount="
+},
+{
+"text": "See All Endorsements",
+"href": "https://www.dixonformd.com/endorsements/"
+},
+{
+"text": "See My Platform",
+"href": "https://www.dixonformd.com/vision/"
+},
+{
+"text": "Vision",
+"href": "https://www.dixonformd.com/vision/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dixonformd.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.dixonformd.com/voting-info/"
+},
+{
+"text": "[image: Spencer Dixon Democrat for Delegat logo] [image: Dixon for Maryland]",
+"href": "https://www.dixonformd.com/"
+},
+{
+"text": "[tooltip: Bluesky]",
+"href": "https://bsky.app/profile/dixonformd.bsky.social"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/DixonforMD/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/dixonformd"
+},
+{
+"text": "[tooltip: X/Twitter]",
+"href": "https://x.com/dixonformd"
+}
 ]

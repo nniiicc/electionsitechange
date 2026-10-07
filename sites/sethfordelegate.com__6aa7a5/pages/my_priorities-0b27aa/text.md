@@ -1,11 +1,5 @@
-My Priorities
-- Eliminate the State Tax on Retirement Income
-- Lower taxes and regulations on our local businesses
-- Support legislation that holds criminals accountable for their actions
-- Stop the politicization of our classrooms and support legislation for our schools to keep Blue Ribbon standards
-- Ensure Resource Officers remain in our schools
-- Sponsor legislation to create a Grants Advisor position within the Department of Health to maximize the funding of opioid prevention and recovery services.
-- Sponsor legislation to make the one-time $500 tax deduction for the purchase of long-term care insurance to an annual $500 deduction.
-- Develop and support fair policies for Chesapeake Bay cleanup
-- Protect law abiding citizens' rights to keep and bear arms
-- Protect the rural nature and beauty of South County
+Home About Seth On the Issues My Priorities News Events Photo Gallery Contact Endorsements Volunteer Voter Information Contribute My Priorities Eliminate the State Tax on Retirement Income Lower taxes and regulations on our local businesses Support legislation that holds criminals accountable for their actions Stop the politicization of our classrooms and support legislation for our schools to keep Blue Ribbon standards Ensure Resource Officers remain in our schools Sponsor legislation to create a Grants Advisor position within the Department of Health to maximize the funding of opioid prevention and recovery services.
+Sponsor legislation to make the one-time $500 tax deduction for the purchase of long-term care insurance to an annual $500 deduction.
+Develop and support fair policies for Chesapeake Bay cleanup Protect law abiding citizens' rights to keep and bear arms Protect the rural nature and beauty of South County 12th Annual Crab Shrimp & Oyster Feast!
+I want a yard sign!
+Home About Seth On the Issues My Priorities Endorsements Contact Events Copyright @ Seth for Delegate Citizens to Elect Seth Howard Authority: James Appel, Treasurer Powered by CampaignPartner.com - Political Campaign Websites Home About Seth On the Issues My Priorities Endorsements Events Contact Volunteer Close Menu

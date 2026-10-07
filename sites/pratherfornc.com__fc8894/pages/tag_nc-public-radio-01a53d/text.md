@@ -1,4 +1,3 @@
-A long-awaited budget bill passes and casinos strike out
-A high-drama week at the North Carolina legislature brought quick action on an overdue state budget, following a decision by Republican leaders to drop a proposal to add four new casinos in rural counties.
+Skip to content Home About Issues Endorsements News Volunteer Donate EN ES Home About Issues Endorsements News Volunteer Donate EN ES Menu Tag NC Public Radio News A long-awaited budget bill passes and casinos strike out A high-drama week at the North Carolina legislature brought quick action on an overdue state budget, following a decision by Republican leaders to drop a proposal to add four new casinos in rural counties.
 Rep.
-Lindsey Prather, D-Buncombe, shares her…
+Lindsey Prather, D-Buncombe, shares her… elijah September 22, 2023 PO Box 1961, Enka, NC 28728 team@pratherfornc.com Paid for by Prather for NC | Privacy Policy | Website design by Express Lane Strategies .

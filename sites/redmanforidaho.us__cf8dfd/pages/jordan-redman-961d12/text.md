@@ -1,4 +1,4 @@
-My name is Jordan Redman.
+0 Skip to Content Home Jordan Redman News Endorsements Campaign Legislative Newsletters Legislative Newsletters Newsletter Sign Up Contact Newsletter Sign Up Open Menu Close Menu Home Jordan Redman News Endorsements Campaign Legislative Newsletters Legislative Newsletters Newsletter Sign Up Contact Newsletter Sign Up Open Menu Close Menu Home Jordan Redman News Endorsements Campaign Folder: Legislative Newsletters Back Legislative Newsletters Newsletter Sign Up Contact Newsletter Sign Up My name is Jordan Redman.
 I was born in Coeur d’Alene, ID and have lived in North Idaho my entire life.
 I am an Entrepreneur.
 I have been married to my wife, Amy, for 20 years and we have six children- ages 13, 11, 9, 7, 4 and 2 years old.
@@ -18,3 +18,5 @@ Now we are stepping out in boldness, under the direction of the Lord, to serve o
 FAITH.
 FAMILY.
 FREEDOM.
+PAID FOR BY THE CAMPAIGN OF JORDAN REDMAN.
+TREASURER JORDAN REDMAN Jordan@redmanforidaho.us (208).252.5070

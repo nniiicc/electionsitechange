@@ -1,20 +1,90 @@
 [
-"https://facebook.com/voteleahtemple",
-"https://instagram.com/voteleahtemple",
-"https://leahtemple.com/",
-"https://leahtemple.com/about",
-"https://leahtemple.com/accessibility-statement",
-"https://leahtemple.com/contact",
-"https://leahtemple.com/copy-of-terms-conditions",
-"https://leahtemple.com/events",
-"https://leahtemple.com/issues",
-"https://leahtemple.com/terms-and-conditions",
-"https://leahtemple.com/volunteer",
-"https://leahtemple.com/yard-signs",
-"https://mnvotes.sos.mn.gov/VoterRegistration/index",
-"https://mnvotes.sos.mn.gov/voterstatuscheck/index",
-"https://secure.actblue.com/donate/leahtemple",
-"https://sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail",
-"https://sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-in-person",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.leahtemple.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.leahtemple.com/accessibility-statement"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://mnvotes.sos.mn.gov/voterstatuscheck/index"
+},
+{
+"text": "Contact",
+"href": "https://www.leahtemple.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/leahtemple"
+},
+{
+"text": "Early voting locations",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-in-person/"
+},
+{
+"text": "Events",
+"href": "https://www.leahtemple.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.leahtemple.com/volunteer"
+},
+{
+"text": "Issues",
+"href": "https://www.leahtemple.com/issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.leahtemple.com/about"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.leahtemple.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.leahtemple.com/copy-of-terms-conditions"
+},
+{
+"text": "Register to vote",
+"href": "https://mnvotes.sos.mn.gov/VoterRegistration/index"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.leahtemple.com/terms-and-conditions"
+},
+{
+"text": "Top Priorities",
+"href": "https://www.leahtemple.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.leahtemple.com/volunteer"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com/"
+},
+{
+"text": "Yard Signs!",
+"href": "https://www.leahtemple.com/yard-signs"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/voteleahtemple"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/voteleahtemple"
+},
+{
+"text": "[image: LT_SD30_WebsiteLogo(NOfooter).png]",
+"href": "https://www.leahtemple.com"
+}
 ]

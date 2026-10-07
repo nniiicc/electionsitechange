@@ -1,11 +1,8 @@
-Get Involved
-Help Tim run a strong, positive campaign focused on the issues that really matter to District 3.
+Meet Tim Priorities News Get Involved Vote Contact DONATE Get Involved Help Tim run a strong, positive campaign focused on the issues that really matter to District 3.
 Volunteer and support Tim today!
-DONATE
-Mail a Check
-Make check payable to Tim Mihalick for ND and mail to:
-Tim Mihalick for ND
-PO Box 1967
-Minot, ND 58701
-Donate Online
-Click here to donate online.
+Contact Information Full Name (Required) First Last Email (Required) Phone (Required) Address City State / Province Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific State ZIP Code How I'd Like to Help: Volunteer Host a Fundraiser Walk in Parades Get Email/Text Updates Knock on Doors Make Phone Calls Display a Yard Sign Other Select All Other: Submit DONATE  Mail a Check Make check payable to Tim Mihalick for ND and mail to: Tim Mihalick for ND PO Box 1967 Minot, ND 58701  Donate Online Click here to donate online.
+SUPPORT TIM IN HIS CAMPAIGN DONATE TODAY $25 $500 $50 $750 $100 $1,000 $200 Other STAY UP TO DATE Follow Tim on the Campaign Trail  Follow Tim on the Campaign Trail  Tim Mihalick for ND PO Box 1967 Minot, ND 58701 Contact Tim Name (Required) First Last Email (Required) Phone Comments (Required) Please let us know what's on your mind.
+Have a question for us?
+Ask away.
+Submit PAID FOR BY TIM MIHALICK FOR ND, BROCK DESLAURIERS, TREASURER

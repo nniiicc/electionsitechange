@@ -1,9 +1,34 @@
 [
-"https://facebook.com/LesleyForCU",
-"https://lesleyforco.com/",
-"https://lesleyforco.com/about",
-"https://lesleyforco.com/cart",
-"https://linkedin.com/in/lesley-smith-colorado",
-"https://secure.actblue.com/donate/lesley-for-colorado-1",
-"https://twitter.com/LesleyForCU"
+{
+"text": "0",
+"href": "https://www.lesleyforco.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lesleyforco.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lesley-for-colorado-1"
+},
+{
+"text": "[image: Lesley for Colorado]",
+"href": "https://www.lesleyforco.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/LesleyForCU"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LesleyForCU"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/lesley-smith-colorado/"
+},
+{
+"text": "lesley@lesleyforco.com",
+"href": "mailto:lesley@lesleyforco.com"
+}
 ]

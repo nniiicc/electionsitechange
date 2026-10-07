@@ -1,11 +1,10 @@
-STATEMENT
-Jewish Members of Congress Condemn Antisemitic Attacks in Florida Republican Primary
-Congressman Brad Schneider joined fellow members of Congress in issuing the following statement condemning the antisemitic attacks made by Republican congressional candidate Daniel Bilzerian:
-“We are Democratic Members of Congress and proud Jewish Americans.
+Skip navigation menu Meet Brad Volunteer Events Endorsements Internship News Contact Donate Meet Brad Volunteer Events Endorsements Internship News Contact Donate STATEMENT SCHNEIDER CONDEMNS HASAN PIKER’S CALL TO VIOLENCE AGAINST AMERICAN JEWS STATEMENT Jewish Members of Congress Condemn Antisemitic Attacks in Florida Republican Primary PRESS RELEASE GIFFORDS Endorses Rep.
+Brad Schneider for Reelection PRESS RELEASE Schneider Statement on the Indictment of Six Broadview Protestors PRESS RELEASE Schneider Campaign Donates to Food Banks Before SNAP Funds Lapse PRESS RELEASE 100+ Current and Former Elected Officials Endorse Rep.
+Brad Schneider Aug 17 2026 STATEMENT Jewish Members of Congress Condemn Antisemitic Attacks in Florida Republican Primary Congressman Brad Schneider joined fellow members of Congress in issuing the following statement condemning the antisemitic attacks made by Republican congressional candidate Daniel Bilzerian: “We are Democratic Members of Congress and proud Jewish Americans.
 We don’t agree with Randy Fine on much, if anything, and have condemned his racist, Islamophobic statements.
 “But the grotesque, antisemitic campaign video posted by Republican Daniel Bilzerian has no place in America.
 We unequivocally condemn Bilzerian and his hateful antisemitic attacks.
 We urge all social media platforms to remove this post and Bilzerian’s previous antisemitic posts.
-We call on the National Republican Congressional Committee and all Republicans to condemn and disassociate themselves from Bilzerian and those promoting his hate.”
-Signed by Reps.
+We call on the National Republican Congressional Committee and all Republicans to condemn and disassociate themselves from Bilzerian and those promoting his hate.” Signed by Reps.
 Jake Auchincloss (MA), Suzanne Bonamici (OR), Steve Cohen (TN), Lois Frankel (FL), Laura Friedman (CA), Dan Goldman (NY), Josh Gottheimer (NJ), Greg Landsman (OH), Mike Levin (CA), Seth Magaziner (RI), Jamie Raskin (MD), Brad Schneider (IL), Kim Schrier (WA), Brad Sherman (CA), Eugene Vindman (VA), and Debbie Wasserman Schultz (FL).
+Brad Schneider for Congress PO Box 1318, Deerfield, IL 60015 P: (847) 748-3788 C: (847) 964-3365 Powered by RUN! website builder Paid for by Schneider for Congress You need to enable JavaScript to run this app.

@@ -1,19 +1,14 @@
-Accessibility
-General
-Laura Murvartian for State Senate strives to ensure that its services are accessible to people with disabilities.
+0 Skip to Content Meet Laura Priorities Endorsements Community Volunteer/Events Press Contact Donate Open Menu Close Menu Meet Laura Priorities Endorsements Community Volunteer/Events Press Contact Donate Open Menu Close Menu Meet Laura Priorities Endorsements Community Volunteer/Events Press Contact Donate Accessibility General Laura Murvartian for State Senate strives to ensure that its services are accessible to people with disabilities.
 We have invested resources to help ensure that our website is made easier to use and more accessible for people with disabilities, with the strong belief that website accessibility efforts assist all users and that every person has the right to live with dignity, equality, comfort and independence.
-Accessibility on This Web Site
-Laura Murvartian for State Senate makes available the UserWay's Web Accessibility Widget is powered by a dedicated accessibility server.
+Accessibility on This Web Site Laura Murvartian for State Senate makes available the UserWay's Web Accessibility Widget is powered by a dedicated accessibility server.
 The software allows laura-murvartian.com to improve its compliance with the Web Content Accessibility Guidelines (WCAG 2.1).
-Enabling the Accessibility Menu
-This web site’s accessibility menu can be enabled by clicking the accessibility menu icon that appears on the corner of the page.
+Enabling the Accessibility Menu This web site’s accessibility menu can be enabled by clicking the accessibility menu icon that appears on the corner of the page.
 After triggering the accessibility menu, please wait a moment for the accessibility menu to load in its entirety.
-Disclaimer
-Laura Murvartian for State Senate continues its efforts to constantly improve the accessibility of its site and services in the belief that it is our collective moral obligation to allow seamless, accessible and unhindered use also for those of us with disabilities.
+Disclaimer Laura Murvartian for State Senate continues its efforts to constantly improve the accessibility of its site and services in the belief that it is our collective moral obligation to allow seamless, accessible and unhindered use also for those of us with disabilities.
 In an ongoing effort to continually improve and remediate accessibility issues, we also regularly scan this web site with UserWay's Accessibility Scanner to identify and fix every possible accessibility barrier on our site.
 Despite our efforts to make all pages and content on laura-murvartian.com fully accessible, some content may not have yet been fully adapted to the strictest accessibility standards.
 This may be a result of not having found or identified the most appropriate technological solution.
-Here For You
-If you are experiencing difficulty with any content on laura-murvartian.com or require assistance with any part of our site, please contact us during normal business hours as detailed below and we will be happy to assist.
-Contact Us
-If you wish to report an accessibility issue, have any questions or need assistance, please contact us via our contact page.
+Here For You If you are experiencing difficulty with any content on laura-murvartian.com or require assistance with any part of our site, please contact us during normal business hours as detailed below and we will be happy to assist.
+Contact Us If you wish to report an accessibility issue, have any questions or need assistance, please contact us via our contact page .
+Meet Laura Priorities Contact Privacy Policy Terms of Use Accessibility Paid for by Murvartian For Georgia, Inc.
+3000 Old Alabama Rd, Suite 119 – 238 Alpharetta, GA 30022

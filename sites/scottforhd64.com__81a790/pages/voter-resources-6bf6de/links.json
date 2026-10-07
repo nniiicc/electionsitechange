@@ -1,16 +1,90 @@
 [
-"https://apps.weld.gov/clerkrecorder/elections/maps",
-"https://ballottrax.coloradosos.gov/voter",
-"https://facebook.com/profile.php?id=61587269878803",
-"https://larimer.gov/clerk/elections/where-to-vote",
-"https://scottforhd64.com/",
-"https://scottforhd64.com/about-hd64",
-"https://scottforhd64.com/about-scott",
-"https://scottforhd64.com/voter-resources",
-"https://scottforhd64.com/where-scott-stands",
-"https://scottforhd64.com/yard-sign",
-"https://secure.anedot.com/scott-for-hd64/donate",
-"https://sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml",
-"https://sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml",
-"https://x.com/scottslaugh"
+{
+"text": "About HD64",
+"href": "https://scottforhd64.com/about-hd64/"
+},
+{
+"text": "About Scott",
+"href": "https://scottforhd64.com/about-scott/"
+},
+{
+"text": "Check Your Voter Registration",
+"href": "https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/scott-for-hd64/donate"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://scottforhd64.com/yard-sign/"
+},
+{
+"text": "Home",
+"href": "https://scottforhd64.com/"
+},
+{
+"text": "Larimer",
+"href": "https://www.larimer.gov/clerk/elections/where-to-vote"
+},
+{
+"text": "Larimer County Voter Locations",
+"href": "https://www.larimer.gov/clerk/elections/where-to-vote"
+},
+{
+"text": "Meet Scott",
+"href": "https://scottforhd64.com/about-scott/"
+},
+{
+"text": "On The Issues",
+"href": "https://scottforhd64.com/where-scott-stands/"
+},
+{
+"text": "Register to Vote in Colorado",
+"href": "https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+},
+{
+"text": "Track Your Ballot via Ballotrax",
+"href": "https://ballottrax.coloradosos.gov/voter/"
+},
+{
+"text": "Voter Resources",
+"href": "https://scottforhd64.com/voter-resources/"
+},
+{
+"text": "Weld",
+"href": "https://apps.weld.gov/clerkrecorder/elections/maps/"
+},
+{
+"text": "Weld County Voter Locations",
+"href": "https://apps.weld.gov/clerkrecorder/elections/maps/"
+},
+{
+"text": "[image: Scott Slaugh for Colorado State House District 64]",
+"href": "https://scottforhd64.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587269878803"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/scottslaugh"
+},
+{
+"text": "check that your voter registration",
+"href": "https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml"
+},
+{
+"text": "here",
+"href": "https://scottforhd64.com/about-hd64/"
+},
+{
+"text": "register to vote",
+"href": "https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+},
+{
+"text": "sign up for Ballotrax",
+"href": "https://ballottrax.coloradosos.gov/voter/"
+}
 ]

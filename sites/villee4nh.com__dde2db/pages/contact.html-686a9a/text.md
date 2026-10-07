@@ -1,6 +1,1 @@
-Contact
-Here's how to reach me:
-Stephen Villee
-494 Winnacunnet Rd
-Hampton, NH 03842
-Email: stephen@villee4nh.com
+Home Issues Issues 20,000 Activists Article 83 Drugs End of Life Grandfathering LPNH Tweets Pandemic Response Secession Veto List Libertarianism Lose the Hate Lose the Fear Contact Donate Contact Here's how to reach me: Stephen Villee 494 Winnacunnet Rd Hampton, NH 03842 Email: stephen@villee4nh.com

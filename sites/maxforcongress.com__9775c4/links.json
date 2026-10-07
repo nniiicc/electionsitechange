@@ -1,15 +1,62 @@
 [
-"https://facebook.com/profile.php?id=61591802939592",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/max.ganorkar",
-"https://maxforcongress.com/about",
-"https://maxforcongress.com/donate",
-"https://maxforcongress.com/go-ask-an-indian",
-"https://maxforcongress.com/home",
-"https://maxforcongress.com/issues",
-"https://maxforcongress.com/videos",
-"https://ncsbe.gov/voting/upcoming-election",
-"https://tiktok.com/@maxforcongress",
-"https://x.com/GanorkarMax",
-"https://youtube.com/@MaxforCongressNC-04"
+{
+"text": "About",
+"href": "https://maxforcongress.com/about"
+},
+{
+"text": "Constitutionalist for Congress NC-04Constitutionalist for Congress NC-04Constitutionalist for Congress NC-04Constitutionalist for Congress NC-04",
+"href": "https://maxforcongress.com/home"
+},
+{
+"text": "Donate",
+"href": "https://maxforcongress.com/donate"
+},
+{
+"text": "Go Ask An Indian",
+"href": "https://maxforcongress.com/go-ask-an-indian"
+},
+{
+"text": "Home",
+"href": "https://maxforcongress.com/home"
+},
+{
+"text": "Issues",
+"href": "https://maxforcongress.com/issues"
+},
+{
+"text": "Upcoming Election | NCSBE",
+"href": "https://www.ncsbe.gov/voting/upcoming-election"
+},
+{
+"text": "Videos",
+"href": "https://maxforcongress.com/videos"
+},
+{
+"text": "[image]",
+"href": "https://www.ncsbe.gov/voting/upcoming-election"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61591802939592"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/max.ganorkar"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@maxforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/GanorkarMax"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MaxforCongressNC-04"
+}
 ]

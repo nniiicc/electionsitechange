@@ -1,11 +1,5 @@
-Back to All Events
-The Rock County Democratic Party is opening an office in Beloit.
+0 Skip to Content Home About Issues Events Endorsements Donate Open Menu Close Menu Open Menu Close Menu Home About Issues Events Endorsements Donate Home About Issues Events Endorsements Donate Back to All Events Beloit Office Opening Friday, September 23, 2022 4:00 PM 6:00 PM Rock County Democratic Party Office 1757 Prairie Avenue Beloit, WI, 53511 United States (map) Google Calendar ICS The Rock County Democratic Party is opening an office in Beloit.
 Come join us this Friday for our official office opening, and hear from candidates Clinton Anderson running for the 45th Assembly District, Brienne Brown running for the 31st Assembly District, Curt Fell running for Rock County Sheriff, Steve Doelder running for the 11th Senate District, Mark Spreitzer running for the 15th Senate District, Ann Roe running for the 1st Congressional District, and Aaron Richardson running for Wisconsin State Treasurer.
 RSVP here.
-Previous
-Previous
-September 18
-Come Knock on Doors in Beloit
-Next
-Next
-September 24
+Previous Previous September 18 Come Knock on Doors in Beloit Next Next September 24 Come Knock Doors in Evansville Email: admin@clintonforassembly.com Phone: +1 (608) 302-7913 Donate Paid for by Friends of Clinton Anderson 2282 Bootmaker Dr.
+Beloit, WI 53511

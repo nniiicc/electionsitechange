@@ -1,47 +1,198 @@
 [
-"https://americanpeoplescompact.org/",
-"https://ashleybellforcongress.com/",
-"https://ashleybellforcongress.com/about-copy",
-"https://ashleybellforcongress.com/contact",
-"https://ashleybellforcongress.com/events",
-"https://ashleybellforcongress.com/freeagents",
-"https://ashleybellforcongress.com/fundraising",
-"https://ashleybellforcongress.com/issues",
-"https://ashleybellforcongress.com/volunteer",
-"https://ashleybellforcongress.com/yard-sign-request",
-"https://ashleybellforcongress.substack.com/",
-"https://bsky.app/profile/ashleybellpac.bsky.social",
-"https://cairaction.org/",
-"https://clayton4nc.com/",
-"https://comediancliffcash.com/",
-"https://couragefordemocracy.com/candidates",
-"https://dcstatehoodpac.com/",
-"https://designedtorun.com/",
-"https://docs.google.com/document/d/14Fc0EDWSyWyo0BA2nahvlv-GQoXBj8U_MppS41cGKGg/edit?usp=sharing",
-"https://docs.google.com/document/d/1mgvVZ0aEttUcztc6sQGg_ny1rFmqnFjT_VGeWcLhqGs/edit?usp=sharing",
-"https://equalityncpac.org/",
-"https://era-nc.org/",
-"https://facebook.com/profile.php?id=61575088094417",
-"https://gotv.vote/",
-"https://govtrack.us/congress/members/NC/10",
-"https://instagram.com/ashleybellforcongress",
-"https://jenwilesnchouse.com/",
-"https://liznemeth.com/",
-"https://mentalhealthnow.us/",
-"https://momsdemandaction.org/",
-"https://newtownactionalliance.org/",
-"https://nwpc.org/",
-"https://pcncdp.org/",
-"https://redwine.blue/",
-"https://scotthuffman.com/",
-"https://secure.numero.ai/signup/Ashley-Bell-for-Congress-Opt-In-Page",
-"https://socialworkers.org/advocacy/political-action-for-candidate-election-pace",
-"https://substack.com/@michaelfanone",
-"https://take-bac-congress.us/",
-"https://threads.net/@ashleybellforcongress",
-"https://tiktok.com/@ashleync10",
-"https://trackaipac.com/",
-"https://vt.ncsbe.gov/RegLkup",
-"https://wayfinderhomesphotography.com/",
-"https://youtube.com/@AshleyBellForCongress"
+{
+"text": "About",
+"href": "https://www.ashleybellforcongress.com/about-copy"
+},
+{
+"text": "Alan Petrozelle",
+"href": "https://wayfinderhomesphotography.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.ashleybellforcongress.com/contact"
+},
+{
+"text": "DONATE!",
+"href": "https://www.ashleybellforcongress.com/fundraising"
+},
+{
+"text": "Do so here.",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Donate",
+"href": "https://www.ashleybellforcongress.com/fundraising"
+},
+{
+"text": "Events",
+"href": "https://www.ashleybellforcongress.com/events"
+},
+{
+"text": "FreeAgents",
+"href": "https://www.ashleybellforcongress.com/freeagents"
+},
+{
+"text": "Get Our Emails",
+"href": "https://secure.numero.ai/signup/Ashley-Bell-for-Congress-Opt-In-Page"
+},
+{
+"text": "Issues",
+"href": "https://www.ashleybellforcongress.com/issues"
+},
+{
+"text": "Liz Nemeth",
+"href": "https://liznemeth.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://docs.google.com/document/d/14Fc0EDWSyWyo0BA2nahvlv-GQoXBj8U_MppS41cGKGg/edit?usp=sharing"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://docs.google.com/document/d/1mgvVZ0aEttUcztc6sQGg_ny1rFmqnFjT_VGeWcLhqGs/edit?usp=sharing"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.ashleybellforcongress.com/volunteer"
+},
+{
+"text": "VOLUNTEER!",
+"href": "https://www.ashleybellforcongress.com/volunteer"
+},
+{
+"text": "View More",
+"href": "https://www.ashleybellforcongress.com/issues"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://www.ashleybellforcongress.com/yard-sign-request"
+},
+{
+"text": "[image: American People's Compact]American People's CompactGrassroots organization",
+"href": "https://www.americanpeoplescompact.org/"
+},
+{
+"text": "[image: Ashley Bell for Congress]",
+"href": "https://www.ashleybellforcongress.com/"
+},
+{
+"text": "[image: CAIR Action]CAIR Action",
+"href": "https://cairaction.org/"
+},
+{
+"text": "[image: Cliff Cash]Cliff CashComedian",
+"href": "https://www.comediancliffcash.com/"
+},
+{
+"text": "[image: Courage For Democracy]Courage For DemocracyCourage candidate supporting impeachment",
+"href": "https://couragefordemocracy.com/candidates/"
+},
+{
+"text": "[image: DC Statehood]DC StatehoodGrassroots Organization",
+"href": "https://www.dcstatehoodpac.com/"
+},
+{
+"text": "[image: David Clayton]David Claytonformer NC-5 US House candidate",
+"href": "https://www.clayton4nc.com/"
+},
+{
+"text": "[image: ERA-NC]ERA-NCequal rights amendment supporter",
+"href": "https://www.era-nc.org/"
+},
+{
+"text": "[image: Equality NC]Equality NCADVOCACY ORGANIZATION",
+"href": "https://equalityncpac.org/"
+},
+{
+"text": "[image: Get Out The Vote]Get Out The Vote Advocacy organization",
+"href": "https://gotv.vote/"
+},
+{
+"text": "[image: Jen Wiles]Jen WilesNC House 75 Candidate",
+"href": "https://www.jenwilesnchouse.com/"
+},
+{
+"text": "[image: Mental Health Now]Mental Health NowPowered by inseparable action",
+"href": "https://mentalhealthnow.us/"
+},
+{
+"text": "[image: Michael Fanone]Michael FanoneFormer DC police officer, author, activist",
+"href": "https://substack.com/@michaelfanone"
+},
+{
+"text": "[image: Moms Demand Action]Moms Demand ActionAnti-Gun violence org",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image: NASW-PACE]NASW-PACENational assoc of social workers-political action for candidate election",
+"href": "https://www.socialworkers.org/advocacy/political-action-for-candidate-election-pace"
+},
+{
+"text": "[image: NCDP Progressive Caucus]NCDP Progressive Caucus",
+"href": "https://www.pcncdp.org/"
+},
+{
+"text": "[image: National Women's Political Caucus]National Women's Political CaucusSupporting Women for political office",
+"href": "https://nwpc.org/"
+},
+{
+"text": "[image: Newtown Action Alliance]Newtown Action Allianceanti-gun violence grassroots org",
+"href": "https://www.newtownactionalliance.org/"
+},
+{
+"text": "[image: Red, Wine, & Blue]Red, Wine, & BluePolitical influencers",
+"href": "https://redwine.blue/"
+},
+{
+"text": "[image: Scott Huffman]Scott HuffmanNC House 76 Candidate",
+"href": "https://www.scotthuffman.com/"
+},
+{
+"text": "[image: Take BAC Congress]Take BAC CongressGrassroots organization",
+"href": "https://www.take-bac-congress.us/"
+},
+{
+"text": "[image: Track AIPAC]Track AIPACGrassroots Organization",
+"href": "https://www.trackaipac.com/"
+},
+{
+"text": "[no text]",
+"href": "https://ashleybellforcongress.substack.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ashleybellpac.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61575088094417"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ashleybellforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@ashleybellforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@ashleync10"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AshleyBellForCongress"
+},
+{
+"text": "info@ashleybellforcongress.com",
+"href": "mailto:info@ashleybellforcongress.com"
+},
+{
+"text": "you can find out here",
+"href": "https://www.govtrack.us/congress/members/NC/10"
+}
 ]

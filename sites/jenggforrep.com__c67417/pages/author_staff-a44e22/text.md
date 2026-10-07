@@ -1,9 +1,9 @@
-Since 2019, Democrat Jennifer Gong-Gershowitz has represented this north suburban district, centered in Glenview and including parts of Wilmette, Evanston, Skokie and Northbrook.
+P.O.
+Box 3042 Glenview, Illinois 60025 Email: Jen@JenGGforRep.com Home About Jen Issues News Take Action Donate Volunteer Yard Sign Contact Author Archives: staff Home staff Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz staff October 25, 2024 Since 2019, Democrat Jennifer Gong-Gershowitz has represented this north suburban district, centered in Glenview and including parts of Wilmette, Evanston, Skokie and Northbrook.
 Gong-Gershowitz, 55, is among the leaders in Springfield on sane gun control legislation, including the state’s ban on assault-style weapons and a 2023 law that allows for lawsuits against gunmakers by victims of gun violence.
-She is a thoughtful Democratic voice
-During the COVID-19 pandemic, as America was seeing a rise in anti-Asian violence, Democratic incumbent Jennifer Gong-Gershowitz of Glenview stewarded legislation that made Illinois the first state to require Asian American history to be taught in public schools.
+She is a thoughtful Democratic voice Read More Editorial: For Illinois House: Jennifer Gong-Gershowitz staff November 1, 2022 During the COVID-19 pandemic, as America was seeing a rise in anti-Asian violence, Democratic incumbent Jennifer Gong-Gershowitz of Glenview stewarded legislation that made Illinois the first state to require Asian American history to be taught in public schools.
 “Empathy comes from understanding,” Gong-Gershowitz told us.
 Her grandparents emigrated from China in the 1920s and feared deportation under the Chinese Exclusion Acts.
-“A lack of
-Speaker Emanuel “Chris” Welch and President Don Harmon invite you to support Asian American Legislative members and candidates on Thursday August 25th from 5:30pm to 7:30pm at New Furama Restaurant, 2828 S Wentworth Ave, Chicago.
-Theresa Mah, 24th House District Friends of Theresa Mah 3500 N Lakewood Avenue #3 – S Chicago, IL 60657-1488 contribute online www.theresamah.com Azam Nizamuddin, 48th House District Friends of
+“A lack of Read More Please Support Asian American Candidates on August 25th staff August 8, 2022 Speaker Emanuel “Chris” Welch and President Don Harmon invite you to support Asian American Legislative members and candidates on Thursday August 25th from 5:30pm to 7:30pm at New Furama Restaurant, 2828 S Wentworth Ave, Chicago.
+Theresa Mah, 24th House District Friends of Theresa Mah 3500 N Lakewood Avenue #3 – S Chicago, IL 60657-1488 contribute online www.theresamah.com Azam Nizamuddin, 48th House District Friends of Read More 1 2 … 9 Latest News Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Socials Recent Posts Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Contact Info Jen@JenGGforRep.com P.O.
+Box 3042 Glenview, Illinois 60025 Take Action Donate Volunteer Yard Sign 2022 Paid for by Friends for Jennifer All rights reserved.

@@ -1,31 +1,16 @@
-FOCUSED ON YOU FIGHTING FOR OUR FUTURE
-VISION
-&
-PRIORITIES
-01
-AFFORDABILITY
-Families are doing everything they can to stay afloat, but the cost of living keeps getting higher.
+top of page Subscribe to our newsletter First name * Last name * Phone * Email * Address Subscribe me to your newsletter.
+SUBSCRIBE NOW FOCUSED ON YOU FIGHTING FOR OUR FUTURE FOCUSED ON YOU FIGHTING FOR OUR FUTURE FOCUSED ON YOU FIGHTING FOR OUR FUTURE FOCUSED ON YOU FIGHTING FOR OUR FUTURE VISION & PRIORITIES 01 AFFORDABILITY Families are doing everything they can to stay afloat, but the cost of living keeps getting higher.
 We all are seeing the higher costs.
 No one should have to live in constant stress wondering how they are going to pay for gas, groceries, housing, insurance, or healthcare.
-I want to focus on practical solutions that provide real relief to families and help ease the burdens they are carrying every day.
-02
-EDUCATION
-I believe every child deserves access to a quality education and every parent deserves confidence that their child has the support and opportunities they need to succeed.
+I want to focus on practical solutions that provide real relief to families and help ease the burdens they are carrying every day. ​ 02 EDUCATION I believe every child deserves access to a quality education and every parent deserves confidence that their child has the support and opportunities they need to succeed.
 Florida ranks last in teacher pay and we struggle with schools funding the basics for students to receive a quality education.
 I want to make sure our students are prepared for a 21st century workforce.
-Strong schools strengthen families and entire communities.
-03
-SAFER COMMUNITIES
-Everyone deserves to feel safe in their homes, schools, and neighborhoods.
+Strong schools strengthen families and entire communities. ​ 03 SAFER COMMUNITIES Everyone deserves to feel safe in their homes, schools, and neighborhoods.
 Creating safer communities takes partnership, prevention, education and investing in people.
-When communities feel supported and connected, we create stronger and safer environments for everyone.
-03
-HEALTHCARE
-No one should have to delay care because they are worried about costs from premiums to co-pays to prescription medication.
+When communities feel supported and connected, we create stronger and safer environments for everyone. ​ 03 HEALTHCARE No one should have to delay care because they are worried about costs from premiums to co-pays to prescription medication.
 Healthcare is personal, and too many people are struggling to access the care they need.
 I want to help build healthier communities where families can feel supported and cared for.
-MEET JENNIFER
-Mother.
+MEET JENNIFER Mother.
 Advocate.
 Leader.
 Jennifer Massey is a mother, advocate and leader.
@@ -35,10 +20,9 @@ Her work is driven by her genuine care for people and a desire to see every neig
 Whether she is focused on youth and education or organizing local safety initiatives, Jennifer remains deeply involved and engaged.
 She believes that leadership requires a heart for the people, and she brings that authentic connection to everything she does.
 Jennifer knows that effective representation starts with being focused on you and listening to the needs of every neighbor and putting the community's interests first.
-Why I am Running
-I am running for Florida House District 84 because I genuinely care about people, their families, and their quality of life.
-I’ve listened to parents, seniors, working families, and young people who are carrying heavy burdens of rising costs, concerns about healthcare, education, and safety and many feel like no one is truly listening.
-I’m running because I believe leadership should be compassionate, accessible, and focused on developing real solutions that bring relief to families and help people move forward with hope and stability.
-This campaign is about people first:
-Focused on You.
-Fighting for Our Future.
+Why I am Running I am running for Florida House District 84 because I genuinely care about people, their families, and their quality of life.
+I’ve listened to parents, seniors, working families, and young people who are carrying heavy burdens of rising costs, concerns about healthcare, education, and safety and many feel like no one is truly listening. ​ I’m running because I believe leadership should be compassionate, accessible, and focused on developing real solutions that bring relief to families and help people move forward with hope and stability. ​ This campaign is about people first: Focused on You.
+Fighting for Our Future. ​ WE'RE GRATEFUL FOR YOUR SUPPORT!
+Contribution limit: a person or entity can contribute a maximum of $1,000 per primary election and $1,000 per general election to a candidate for the Florida State House. ​ Checks can be mailed to: PO BOX 880982, Port St Lucie, FL.
+34988 $25 $50 $100 $250 DONATE SIGN UP FOR VOTE BY MAIL REGISTER TO VOTE Contact the campaign if you would like a yard sign or t-shirt.
+CLICK HERE TODAY HOME EVENTS Menu Close DONATE T-Shirts and Yard Signs VOLUNTEER ABOUT INSTAGRAM FACEBOOK TIKTOK PO BOX 880982 Port St Lucie, FL.34988 ​ ​ PRIVACY POLICY PAID FOR BY JENNIFER MASSEYFOR FLORIDA, DEMOCRAT, FOR HOUSE DISTRICT 84 HOME EVENTS ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

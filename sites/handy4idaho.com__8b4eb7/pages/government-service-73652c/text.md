@@ -1,11 +1,7 @@
-Government Representation & Service
-See why former city councilmen and business owner Derlin Taylor supports my election.
+Chandy@house.idaho.gov House of Representative Clay Handy Legislation Report 2024 Idaho Elections (Cassia, Minidoka, Oneida) Endorsements Contact Us Select Page Government Service Apr 23, 2024 | Endorsements , Government Service Government Representation & Service See why former city councilmen and business owner Derlin Taylor supports my election.
 Thank you Derlin!
-Posted by Vote for Clay Handy on Thursday, May 5, 2022
-Don Handy knows Clay Handy, his son, will do a great job in the House and is proud of him for desiring to join Don's...
-Posted by Vote for Clay Handy on Saturday, May 14, 2022
-Governement Service
-“Hello friends, my name is Derlin Taylor.
+Posted by Vote for Clay Handy on Thursday, May 5, 2022 Don Handy knows Clay Handy, his son, will do a great job in the House and is proud of him for desiring to join Don's...
+Posted by Vote for Clay Handy on Saturday, May 14, 2022 Governement Service “Hello friends, my name is Derlin Taylor.
 I’m a lifelong resident of Burley, Idaho.
 I live in Idaho, raise my family in Idaho, and built my business in Idaho.
 Idaho was built and developed on the backs of hard-working people whose only desire was to build a society where future generations could prosper, live in peace, and raise our families.
@@ -24,4 +20,5 @@ He fears no man or woman, and cannot be intimidated by professional politicians 
 I have full confidence in Clay.
 He will represent the citizens of district 27 by upholding and defending our traditions and our way of life, and at the same time he will direct the state towards the future and navigate the inevitable changes that will continue to attract new business and keep Idaho one of the most attractive states for the positive.
 I enthusiastically support, and will vote for Clay Handy for Idaho house of representatives.
-For the sake of our traditions, and intelligent growth for the state of Idaho, join me in voting for Clay Handy.”
+For the sake of our traditions, and intelligent growth for the state of Idaho, join me in voting for Clay Handy. ” Derlin Taylor - Previous City Councilman & Business Owner Facebook X Instagram RSS Paid for by Vote for Clay Handy!
+Idaho Political Advertising by Handy Optimal

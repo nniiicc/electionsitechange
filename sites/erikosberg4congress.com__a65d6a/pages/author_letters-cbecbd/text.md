@@ -1,7 +1,8 @@
-- Mounting Costs for Rural Landowners | Chris Atkinson, Melrose - The cost to mow grass and maintain a farm continues to rise.
-Our place in central Minnesota is about seven…
-- It’s time for a change: We have done better and we can do better – Nikki LaSota, Glenwood - I am beyond tired of the state of our country.
-Of leaders that want to “fix” what isn’t broken (the…
-- Who Is Speaking for Us in Washington? – Diane Schiller Anderson, Wadena - I agree with recent editorial that it was good to see Rep Fischbach at the Todd Wadena Electric Co-op candidate…
-Author archive for Letters From Neighbors
-Erik Osberg for Congress > Articles by: Letters From Neighbors
+Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Store Updates Get Involved 38 Door Club 38 Phones Club Donate Menu Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Updates Get Involved Donate Author archive for Letters From Neighbors Erik Osberg for Congress > Articles by: Letters From Neighbors Letters from Neighbors Mounting Costs for Rural Landowners | Chris Atkinson, Melrose October 2, 2026 - by Letters From Neighbors The cost to mow grass and maintain a farm continues to rise.
+Our place in central Minnesota is about seven… Read more 1 Letters From Neighbors Letters from Neighbors It’s time for a change: We have done better and we can do better – Nikki LaSota, Glenwood September 24, 2026 - by Letters From Neighbors I am beyond tired of the state of our country.
+Of leaders that want to “fix” what isn’t broken (the… Read more 0 Letters From Neighbors Letters from Neighbors Who Is Speaking for Us in Washington? – Diane Schiller Anderson, Wadena September 24, 2026 - by Letters From Neighbors I agree with recent editorial that it was good to see Rep Fischbach at the Todd Wadena Electric Co-op candidate… Read more 0 Letters From Neighbors Home | Meet Erik | Priorities | Events | Voting | Updates | Store | Donate | Join The Team info@erikosberg4congress.com PAID FOR BY ERIK OSBERG FOR CONGRESS PO Box 550, Wadena, MN 56482 ©# Erik Osberg For Congress · Built by Cora+Krist .
+Accessibility Privacy Policy & Terms of Use Media Toolkit Volunteer Hub

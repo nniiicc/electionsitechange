@@ -1,5 +1,4 @@
-A humane criminal justice system
-Our criminal justice system has its roots in the slave trade which has resulted in it being an inhumane and racist system today.
+Vote Meet Marcela Issues Endorsements Donate Vote Meet Marcela Issues Endorsements NY Assembly District 51 Donate A humane criminal justice system Our criminal justice system has its roots in the slave trade which has resulted in it being an inhumane and racist system today.
 Despite making up 20% of the NY population, black and latino people making up nearly 80% of the people currently in jail.
 Black, brown, poor and trans people are often harassed by police because of the color of their skin, social status or gender.
 A large portion of incarcerated people have not even had the opportunity to defend themselves in court, 77% of people in NYC jails have not been sentenced.
@@ -21,3 +20,7 @@ No New Jails- Our prison system does not rehabilitate people.
 It is inhumane and harmful to all those who enter it and inherently favors rich and white people.
 I support closing Rikers and instead of building new jails, we should invest in communities and restorative justice, not prisons.
 We also must ensure that those who do enter jail are treated humanely that's why we must reduce the torturous use of solitary confinement (A2500/S1623), eliminate cash bail (S2101A) which forces poor people to sit in jail awaiting trial, enact elder parole (S2144), and restore rights to people convicted of felonies (S6821).
+Brooklyn, NY MARCELAFORNY@GMAIL.COM Hours Join our campaign Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+First Name Last Name Email Address Sign Up Thank you!
+PAID FOR BY MARCELA FOR NY info@marcelaforny.org Get Involved Vote for Marcela Donate Volunteer

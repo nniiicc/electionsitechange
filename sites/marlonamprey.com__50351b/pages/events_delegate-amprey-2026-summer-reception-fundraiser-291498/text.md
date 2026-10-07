@@ -1,12 +1,5 @@
-Back to All Events
-The primary election is only a few weeks away, and my re-election campaign is going strong!
-To ensure my campaign has the resources we need in the final stretch, I’m holding a fundraiser at Seppia (901 W 36th St, Baltimore, MD 21211), and you’re invited!
+0 Skip to Content Home About Meet Marlon Meet the Team 2026 End of Session Letter Legislative Matters Policy Goals Legislative Accomplishments Resources Community Funding Scholarships Energy and Utility Assistance Food Assistance Legal Assistance Senior and Older Adult Assistance Events Blog Videos In the News Newsletter Social Media Policy Contact Us Volunteer Volunteer Sign-Up Sign Request Donate Voting Information Open Menu Close Menu Home About Meet Marlon Meet the Team 2026 End of Session Letter Legislative Matters Policy Goals Legislative Accomplishments Resources Community Funding Scholarships Energy and Utility Assistance Food Assistance Legal Assistance Senior and Older Adult Assistance Events Blog Videos In the News Newsletter Social Media Policy Contact Us Volunteer Volunteer Sign-Up Sign Request Donate Voting Information Open Menu Close Menu Home Folder: About Back Meet Marlon Meet the Team 2026 End of Session Letter Folder: Legislative Matters Back Policy Goals Legislative Accomplishments Folder: Resources Back Community Funding Scholarships Energy and Utility Assistance Food Assistance Legal Assistance Senior and Older Adult Assistance Events Folder: Blog Back Videos In the News Newsletter Social Media Policy Contact Us Folder: Volunteer Back Volunteer Sign-Up Sign Request Donate Voting Information Back to All Events Delegate Amprey's 2026 Summer Reception Fundraiser Wednesday, May 27, 2026 5:30 PM 7:00 PM Seppia 901 West 36th Street Baltimore, MD, 21211 United States (map) Google Calendar ICS The primary election is only a few weeks away, and my re-election campaign is going strong!
+To ensure my campaign has the resources we need in the final stretch, I’m holding a fundraiser at Seppia (901 W 36th St, Baltimore, MD 21211) , and you’re invited!
 It’s a great new spot in Hampden, featuring my special guests, Maryland House Speaker Joseline Peña-Melnyk and Senator Antonio Hayes!
 To RSVP, please visit secure.actblue.com/donate/amprey-may27 or click the button below.
-Previous
-Previous
-October 4
-Day of Action
-Next
-Next
-June 8
+RSVP HERE Previous Previous October 4 Day of Action Next Next June 8 District 40's 2026 Scholarship Award Ceremony Authority: Citizens for Marlon Amprey, Treasurer, Ryan Galloway.

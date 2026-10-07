@@ -1,5 +1,4 @@
-Meet Nikki
-Senator Nikki Merritt, a dedicated Democrat, representing the vibrant 9th District encompassing segments of Gwinnett County with shared values of those she represents, assumed office in the State Senate in 2020, after flipping the seat from a Republican incumbent.
+top of page MEET NIKKI VOTER GUIDE CONNECT◢ VOLUNTEER PRIORITIES DONATE Meet Nikki Senator Nikki Merritt , a dedicated Democrat, representing the vibrant 9th District encompassing segments of Gwinnett County with shared values of those she represents, assumed office in the State Senate in 2020, after flipping the seat from a Republican incumbent.
 With 23 years of dedicated service in the telecommunications sector, Senator Merritt ardently supported her local labor union, CWA 3204, where she learned the importance of advocating for workers for higher wages, benefits, and fair conditions in the workplace.
 Understanding that by standing in solidarity and speaking up, she realized that more could be accomplished collectively than alone.
 Currently, she brings her wealth of experience to various Senate Committees, including Health and Human Services, Government Oversight, Insurance and Labor, Natural Resources and the Environment, and Urban Affairs.
@@ -7,9 +6,9 @@ Additionally, she holds pivotal roles as Former Chair of the Gwinnett County Sen
 From her formative years, Senator Merritt's parents imbued in her a profound commitment to social justice, having lived through the era of racial segregation and actively participated in the civil rights movement.
 This upbringing ignited Senator Merritt's relentless drive to foster fairness and equity within Georgia.
 Senator Nikki Merritt is deeply engaged in her community, lending her support to various initiatives to engage voters.
-Furthermore, Senator Merritt's affiliations include her longstanding membership with CWA Local 3204, her role as a lifetime council member, advisory board member for Gwinnett Reentry Alliance, and participation in Leadership Gwinnett, Class of 2024.
-Senator Merritt was raised in Austell, GA, where she proudly graduated from Pebble brook High School before pursuing higher education at the University of Georgia and Georgia State University.
+Furthermore, Senator Merritt's affiliations include her longstanding membership with CWA Local 3204, her role as a lifetime council member, advisory board member for Gwinnett Reentry Alliance, and participation in Leadership Gwinnett, Class of 2024. ​ Senator Merritt was raised in Austell, GA, where she proudly graduated from Pebble brook High School before pursuing higher education at the University of Georgia and Georgia State University.
 With a residency spanning over 22 years in Gwinnett County, she currently resides in Grayson with her husband and two cherished dogs.
 Her children, now young adults, are shining examples of the quality education provided by Gwinnett County public schools, as they embark on their own higher education journeys within Georgia's universities.
 Senator Nikki Merritt remains steadfast in her commitment to championing fairness and equity for all citizens of Georgia.
 She stands as a beacon of hope, tirelessly fighting to ensure that every voice is heard and every individual receives a fair opportunity to thrive.
+Paid for by The People for Nikki Merritt Support Nikki Merritt for Georgia Senate District 9 ​ The People for Nikki Merritt 1911 Grayson Hwy - Suite 8367 Grayson, GA 30017 404-369-3682 ​ Powered by CCS: Marketing & Technology Privacy Policy MEET NIKKI VOTER GUIDE CONNECT VOLUNTEER PRIORITIES DONATE Go bottom of page

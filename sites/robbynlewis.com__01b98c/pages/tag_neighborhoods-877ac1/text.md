@@ -1,3 +1,3 @@
-Robbyn’s Report – End of Summer 30 August 2024 Dear Neighbors, I hope you have had a great summer!
+Skip to content RobbynLewis.com About Open menu Priorities Robbyn’s Story Services Open menu Request Help About District 46 Initiatives Open menu Livable Streets Coalition Zero Waste Task Force Press Donate Tag: Neighborhoods Robbyns Report – End of Summer 2024 Robbyn’s Report – End of Summer 30 August 2024 Dear Neighbors, I hope you have had a great summer!
 I have been so busy all around the district with my Team 46 colleagues and staff – so much news to share!
-Team 46 at the July 4th Parade in Federal Hill L to R:… Continue reading Robbyns Report – End of Summer 2024
+Team 46 at the July 4th Parade in Federal Hill L to R:… Continue reading Robbyns Report – End of Summer 2024 Published September 13, 2024 Categorized as News Tagged 2024 , Livable Streets , Neighborhoods , Scholarship , Transit @robbynlewis46th @robbynlewis46th info@robbynlewis.com 410.929.0555 Privacy Policy Authority: Friends of Robbyn Lewis, Tracey Lynn Lewis, Treasurer

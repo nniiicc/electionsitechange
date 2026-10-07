@@ -1,4 +1,4 @@
-Victoria Mageno is a servant leader committed to bringing common-sense solutions and positive change to California’s 50th Assembly District.
+ Contribute About Issues News District Endosrsements Gallery Events Volunteer  Contribute  Search for articles  About Victoria Mageno Victoria Mageno is a servant leader committed to bringing common-sense solutions and positive change to California’s 50th Assembly District.
 A proud Mexican American, she has dedicated her life to strengthening families, improving education, and serving her community with honesty, integrity, and accountability.
 Inspired by her mother, a retired elementary school teacher of 26 years, Victoria developed a deep appreciation for the challenges facing students, educators, and parents.
 In 2020, she was elected to the Cucamonga School District Board of Trustees, where she currently serves as Vice President.
@@ -14,7 +14,24 @@ Her family achieved homeownership through Habitat for Humanity, an opportunity t
 She supports lowering taxes, opposing wasteful spending, protecting Proposition 13, and holding government accountable for fraud, waste, and abuse.
 Victoria is running for State Assembly to make California more affordable, address homelessness, support small businesses, protect election integrity, and restore trust in government.
 Guided by her conservative values and faith, she will bring proven leadership, fiscal responsibility, and a service-first approach to Sacramento.
-Thanks for reaching out.
-We will get back to you soon
-Oops!
+Contact Victoria Use this form to send a message.
+PO Box 27227 San Diego, CA 92198  (619) 786-8019 First Name Last Name Email Mobile Zip Code What's Your Message?
+Receive text message updates? * Select one...
+Yes No Texts may be sent using automatic telephone dialing system.
+Reply/consent not required for any purchase.
+Periodic messages.
+Reply STOP to cancel, Reply HELP for help.
+Message & Data rates may apply.
+Ad paid for by Victoria Mageno for State Assembly  Thank you Thanks for reaching out.
+We will get back to you soon Oops!
 Something went wrong while submitting the form.
+Join the Fight $5,900 $1,000 $500 $250 $100 $50 $25 Other Join Victoria Mageno in the Fight for California!
+Receive text message updates?
+Texts may be sent using automatic telephone dialing system.
+Reply/consent not required for any purchase.
+Periodic messages.
+Reply STOP to cancel, Reply HELP for help.
+Message & Data rates may apply.
+No mobile information will be shared by us with third parties/affiliates for marketing/promotional purposes.
+Text messaging originator opt-in data and consent will not be shared by us with any third parties.  Thanks for joining our newsletter Oops!
+Something went wrong while submitting the form.     About About Victoria Privacy Policy The Latest News Get Involved Volunteer Contribute Contact Carl DeMaio for State Assembly PO Box 27227 San Diego, CA 92198 (619) 786-8019 Ad paid for by Mageno for State Assembly 2026

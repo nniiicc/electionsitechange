@@ -1,13 +1,5 @@
-With a long record of service to our community and years of experience, I am proud to be endorsed by the following individuals and organizations.
-Skip to content
-With a long record of service to our community and years of experience, I am proud to be endorsed by the following individuals and organizations.
-Governor Tim Walz &
-Lt.
+Skip to content Ned Carroll for House Primary Menu Home Meet Ned Priorities Endorsements Get Involved Donate With a long record of service to our community and years of experience, I am proud to be endorsed by the following individuals and organizations.
+Governor Tim Walz & Lt.
 Gov.
-Peggy Flannagan
-Representative Ginny Klevorn
-Representative Kristen Bahner
-Representative Mike Frieberg
-Senator Ann Johnson Stewart
-Senator Ann Rest
-Proudly Supported by
+Peggy Flannagan Representative Ginny Klevorn Representative Kristen Bahner Representative Mike Frieberg Senator Ann Johnson Stewart Senator Ann Rest Proudly Supported by Protect Minnesota Advocacy Fund Care for MN Planned Parenthood ProChoice Minnesota MEDPAC Minnesota Nurses Association Conservation Minnesota Voter Center Sierra Club Service Employees International Union (SEIU) AFSCME Council #5 IUOE Local 49 IBEW Local 292 MN Pipe Trades North Central States Regional Council of Carpenters Plymouth Council Member Jim Willis Plymouth Council Member Jim Davis Former Plymouth Mayor Joy Tierney Former Plymouth Mayor and current Metropolitan Councilmember Judy Johnson Hennepin County Commissioner Kevin Anderson State Senator Bonnie Westlin Sign Up for the Ned for MN Newsletter First Name (required) Last Name (required) Email Address: (required) Leave this field empty if you're human: Contact Info: Carroll for MN House Committee P.O.
+Box 46234 Plymouth, MN 55446 Email Ned: nedjcarroll@gmail.com Start a Conversation with me on Facebook, Twitter or Instagram Home Meet Ned Priorities Endorsements Get Involved Donate Paid for by Carroll for MN House Committee Powered by Tech for Campaigns

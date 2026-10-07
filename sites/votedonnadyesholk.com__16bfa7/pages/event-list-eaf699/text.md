@@ -1,9 +1,1 @@
-top of page
-Upcoming Events
-- Vote-toberfestSat, Oct 24Hyde Park
-- LocktoberfestSat, Oct 03Canal Street, Lockport
-- Town Hall on Utility BillsTue, Sep 29Kenan Center
-- Lockport Meet the CandidatesSat, Sep 26Canal Street, Downtown Lockport
-- Wilson Meet the CandidatesWed, Sep 23Wilson House Restaurant and Inn
-- Lockport Homecoming ParadeSat, Sep 19Downtown Lockport
-bottom of page
+top of page Vote Donna Dye Sholk New York State Assembly About Priorities Get Involved Vote Contact Events Blog DONATE SUBSCRIBE Upcoming Events Vote-toberfest Sat, Oct 24 Hyde Park More info Learn more Locktoberfest Sat, Oct 03 Canal Street, Lockport More info Learn more Town Hall on Utility Bills Tue, Sep 29 Kenan Center More info Learn more Lockport Meet the Candidates Sat, Sep 26 Canal Street, Downtown Lockport More info Learn more Wilson Meet the Candidates Wed, Sep 23 Wilson House Restaurant and Inn More info Learn more Lockport Homecoming Parade Sat, Sep 19 Downtown Lockport More info Learn more SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Vote Donna Dye Sholk New York State Assembly Paid for by Friends of Donna Dye Sholk. © # Privacy Policy Mobile Terms bottom of page

@@ -1,13 +1,3 @@
-NEW
-ARE YOU IN THE
-DISTRICT 7?
-Click on the 🔍 icon in the tool below to find your Congressional District:
-Congressional 7th District
-The new CA7 includes the communities of:
-- Sacramento
-- Elk Grove
-- South Sacramento
-- Lodi
-- Placerville
-- Galt
-- El Dorado
+0 Skip to Content About Mai Mai's Story Endorsements District 7 Fact Check Platform Vote Get Involved 8/27 - CA7 Debate Volunteer Host A House Party Field Activations Get A Yard Sign Job Opportunities DONATE Open Menu Close Menu About Mai Mai's Story Endorsements District 7 Fact Check Platform Vote Get Involved 8/27 - CA7 Debate Volunteer Host A House Party Field Activations Get A Yard Sign Job Opportunities DONATE Open Menu Close Menu Folder: About Mai Back Mai's Story Endorsements District 7 Fact Check Platform Vote Folder: Get Involved Back 8/27 - CA7 Debate Volunteer Host A House Party Field Activations Get A Yard Sign Job Opportunities DONATE NEW ARE YOU IN THE DISTRICT 7?
+Click on the 🔍 icon in the tool below to find your Congressional District: Congressional 7th District The new CA7 includes the communities of: Sacramento Elk Grove South Sacramento Lodi Placerville Galt El Dorado CONTACT MEDIA FEC C00918037 - 1700 Tribute Rd.
+Suite 201, Sacramento, CA 95815

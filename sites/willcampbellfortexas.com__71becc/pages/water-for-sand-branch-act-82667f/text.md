@@ -1,354 +1,51 @@
-Sand Branch and Seagoville Water, Wastewater & Utility Infrastructure Act
-Water Code §15.1025 · Chapter 15, Subchapter C
-Creates a dedicated, grant-only Texas Water Development Board program to fund permanent water,
-wastewater, flood-control, and electric utility infrastructure for the Sand Branch community in
-Dallas County, and to fund the modernization of Seagoville's water and wastewater systems —
-including connecting currently unconnected Seagoville residents to city water and sewer —
-with no bonds and no debt placed on residents.
-By: ____________________
-H.B.
-No. ______
-A BILL TO BE ENTITLED AN ACT
-relating to financial assistance for water, wastewater, flood-control, and
-electric utility infrastructure for the Sand Branch community in Dallas County and for related
-water and wastewater infrastructure improvements in the City of Seagoville necessary to serve
-Sand Branch and Seagoville residents; making an appropriation.
-BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
-SECTION 1.
-Amends Water Code, Chapter 15
-Subchapter C, Chapter 15, Water Code, is amended by adding Section 15.1025 to read as
-follows:
-Sec. 15.1025.
-FINANCIAL ASSISTANCE FOR SAND BRANCH AND SEAGOVILLE WATER, WASTEWATER, FLOOD-CONTROL, AND UTILITY INFRASTRUCTURE.
-(a) In this section:
-(1) "Sand Branch community" means the unincorporated
-community commonly known as Sand Branch in Dallas County, Texas.
-(2) "Seagoville" means the City of Seagoville, Texas, a
-home-rule municipality located in Dallas County.
-(3) "Certificated electric utility" means an electric
-utility holding a certificate of convenience and necessity from the Public Utility Commission of Texas
-to serve the area in which the Sand Branch community is located.
-(4) "Special Flood Hazard Area" has the meaning assigned
-by 44 C.F.R.
+0 Skip to Content About Will Solutions Relief for Sand Branch and Seagoville End Property Taxes TPTRP Constitutional Amendment Breakdown Holding AI Companies Accountable Restricting ALPR Cameras Protecting First Responders Securing Texas Elections and Closed Primaries Protecting Truth and Identity Prohibiting the Kill Switch in Texas Solving For Energy, Water, and Data Centers.
+TPTRP Freeing Business - Reducing Taxes Ending Birth Tourism Protecting Heirs Rights Enforcing Parental Rights and Local Accountability Female First Responder Cancer Protections Ending Corruption in Guardianship Cases Proposed Laws AI Accountability Act TPTRP Constitutional Amendment TPTRP The Sales and Use Tax Act TPTRP Tax Abolition and Conformity Act TPTRP Remote Seller and Foreign Entity Act TPTRP The TLES Act TPTRP Bond Management Act TPTRP The Fund System Act TPTRP Transition Board Act Water for Sand Branch Act The Protecting Truth and Identity Act Texas Data Center Transparency and Standards Act Texas Distributed Power Generation Act Texas Energy and Intelligence Infrastructure Security Board Act Prohibiting The Kill Switch in Texas Birth Tourism Criminalization Act Protecting Heirs' Rights Family First Guardianship Accountability Protecting First Responders Texas Election Integrity and Party Association Act HJR For Electing SOS Enforcing Parental Rights and Child Protections Protecting Texans From Surveillance Female First Responder Cancer Coverage Releases Volunteer Data CONTRIBUTE Open Menu Close Menu About Will Solutions Relief for Sand Branch and Seagoville End Property Taxes TPTRP Constitutional Amendment Breakdown Holding AI Companies Accountable Restricting ALPR Cameras Protecting First Responders Securing Texas Elections and Closed Primaries Protecting Truth and Identity Prohibiting the Kill Switch in Texas Solving For Energy, Water, and Data Centers.
+TPTRP Freeing Business - Reducing Taxes Ending Birth Tourism Protecting Heirs Rights Enforcing Parental Rights and Local Accountability Female First Responder Cancer Protections Ending Corruption in Guardianship Cases Proposed Laws AI Accountability Act TPTRP Constitutional Amendment TPTRP The Sales and Use Tax Act TPTRP Tax Abolition and Conformity Act TPTRP Remote Seller and Foreign Entity Act TPTRP The TLES Act TPTRP Bond Management Act TPTRP The Fund System Act TPTRP Transition Board Act Water for Sand Branch Act The Protecting Truth and Identity Act Texas Data Center Transparency and Standards Act Texas Distributed Power Generation Act Texas Energy and Intelligence Infrastructure Security Board Act Prohibiting The Kill Switch in Texas Birth Tourism Criminalization Act Protecting Heirs' Rights Family First Guardianship Accountability Protecting First Responders Texas Election Integrity and Party Association Act HJR For Electing SOS Enforcing Parental Rights and Child Protections Protecting Texans From Surveillance Female First Responder Cancer Coverage Releases Volunteer Data CONTRIBUTE Open Menu Close Menu About Will Folder: Solutions Back Relief for Sand Branch and Seagoville End Property Taxes TPTRP Constitutional Amendment Breakdown Holding AI Companies Accountable Restricting ALPR Cameras Protecting First Responders Securing Texas Elections and Closed Primaries Protecting Truth and Identity Prohibiting the Kill Switch in Texas Solving For Energy, Water, and Data Centers.
+TPTRP Freeing Business - Reducing Taxes Ending Birth Tourism Protecting Heirs Rights Enforcing Parental Rights and Local Accountability Female First Responder Cancer Protections Ending Corruption in Guardianship Cases Folder: Proposed Laws Back AI Accountability Act TPTRP Constitutional Amendment TPTRP The Sales and Use Tax Act TPTRP Tax Abolition and Conformity Act TPTRP Remote Seller and Foreign Entity Act TPTRP The TLES Act TPTRP Bond Management Act TPTRP The Fund System Act TPTRP Transition Board Act Water for Sand Branch Act The Protecting Truth and Identity Act Texas Data Center Transparency and Standards Act Texas Distributed Power Generation Act Texas Energy and Intelligence Infrastructure Security Board Act Prohibiting The Kill Switch in Texas Birth Tourism Criminalization Act Protecting Heirs' Rights Family First Guardianship Accountability Protecting First Responders Texas Election Integrity and Party Association Act HJR For Electing SOS Enforcing Parental Rights and Child Protections Protecting Texans From Surveillance Female First Responder Cancer Coverage Releases Volunteer Data CONTRIBUTE Sand Branch and Seagoville Water, Wastewater & Utility Infrastructure Act Water Code §15.1025 · Chapter 15, Subchapter C Creates a dedicated, grant-only Texas Water Development Board program to fund permanent water, wastewater, flood-control, and electric utility infrastructure for the Sand Branch community in Dallas County, and to fund the modernization of Seagoville's water and wastewater systems — including connecting currently unconnected Seagoville residents to city water and sewer — with no bonds and no debt placed on residents.
+Draft — Pre-Filing Draft 90th Legislature · Regular Session, 2027 Rep.
+Will Campbell — HD 109 🖶 Print / Save PDF Table of Contents Sec.
+1 Amends Water Code, Ch.
+15 Sec.
+15.1025 New Grant Program (a) Definitions (b) Grant Program Established (c) Eligible Recipients (d) Eligible Uses of Funds (e) Prioritization for Flood-Control Work (f) Board Priorities (g) Flood Map Sequencing / CCN Timing (h) Seagoville Host-System Benefit Rule (i) Special District Evaluation (j) Annexation Not Required (k) Seagoville Eligible Uses (l) Seagoville Funding Independence (m) Assistance is Supplemental (n) Board Rulemaking (o) TWDB Existing-Funding Commitment (p) Property Tax Protection for Sand Branch (q) Special District Does Not Delay Funding Sec.
+2 Appropriations ($29.5M + $12M) (b) Grant Program Established (c) Eligible Recipients Sec.
+3 Reporting Requirement (b) Grant Program Established Sec.
+4 Effective Date By: ____________________ H.B.
+No. ______ A BILL TO BE ENTITLED AN ACT relating to financial assistance for water, wastewater, flood-control, and electric utility infrastructure for the Sand Branch community in Dallas County and for related water and wastewater infrastructure improvements in the City of Seagoville necessary to serve Sand Branch and Seagoville residents; making an appropriation.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1.
+Amends Water Code, Chapter 15 Subchapter C, Chapter 15, Water Code, is amended by adding Section 15.1025 to read as follows: Sec.
+15.1025.
+FINANCIAL ASSISTANCE FOR SAND BRANCH AND SEAGOVILLE WATER, WASTEWATER, FLOOD-CONTROL, AND UTILITY INFRASTRUCTURE. (a) In this section: (1) "Sand Branch community" means the unincorporated community commonly known as Sand Branch in Dallas County, Texas.
+(2) "Seagoville" means the City of Seagoville, Texas, a home-rule municipality located in Dallas County.
+(3) "Certificated electric utility" means an electric utility holding a certificate of convenience and necessity from the Public Utility Commission of Texas to serve the area in which the Sand Branch community is located.
+(4) "Special Flood Hazard Area" has the meaning assigned by 44 C.F.R.
 Section 59.1 or its successor regulation.
-(5) "Map revision determination" means a written
-determination by the Federal Emergency Management Agency, issued in response to an application under
-Subsection (d)(9)(A), stating whether the Sand Branch community or a specified portion of it qualifies
-for removal from a Special Flood Hazard Area under a Letter of Map Amendment or a survey-based Letter of
-Map Revision without new flood-control construction.
-(6) "Existing levee structure" means an embankment, berm,
-or other flood-control structure already constructed in or around the Sand Branch community as of the
-effective date of this section.
-(7) "Special district" means a conservation and
-reclamation district, municipal utility district, water control and improvement district, special
-utility district, fresh water supply district, or other special-purpose district authorized by general
-law to provide water, wastewater, drainage, flood-control, or related utility service in the area of the
-Sand Branch community.
-(b) The board shall establish and
-administer a program to provide financial assistance in the form of grants for:
-(1) projects that provide potable water service,
-wastewater collection service, wastewater treatment service, flood-control infrastructure, electric
-utility infrastructure, or related utility infrastructure for the Sand Branch community; and
-(2) projects described by Subsection (k) that extend,
-upgrade, or modernize Seagoville's water and wastewater infrastructure, including infrastructure
-necessary to connect currently unconnected Seagoville residents and businesses to the city's water and
-wastewater systems and infrastructure necessary to facilitate service to the Sand Branch community.
-(c) A grant under this section may
-be awarded to:
-(1) the Sand Branch Water Supply Corporation;
-(2) a nonprofit water supply or sewer service corporation
-created and operating under Chapter 67 that is designated to serve the Sand Branch community;
-(3) a political subdivision that enters into an agreement
-to provide or facilitate water, wastewater, flood-control, or electric utility service to the Sand
-Branch community, including Seagoville;
-(4) Seagoville, for costs described by Subsection (k);
-(5) a certificated electric utility, for costs described
-by Subsection (d)(11);
-(6) a special district created to serve or proposed to
-serve the Sand Branch community, for costs described by Subsection (d)(13); or
-(7) a combination of eligible entities described by this
-subsection acting jointly under an interlocal contract, utility service agreement, memorandum of
-understanding, or other agreement acceptable to the board.
-(d) Financial assistance under this
-section for the Sand Branch community may be used for:
-(1) planning, engineering, and design;
-(2) land or easement acquisition;
-(3) permitting, environmental review, and review and
-approval of public drinking water and wastewater systems by the Texas Commission on Environmental
-Quality;
-(4) water wells, water purchase arrangements, pump
-stations, storage, treatment, water distribution lines, meters, and appurtenances;
-(5) wastewater collection lines, force mains, lift
-stations, treatment connections, and appurtenances;
-(6) connection of the Sand Branch community to an
-existing regional or municipal water or wastewater utility system, including a system operated by
-Seagoville;
-(7) household connection charges, utility hookup costs,
-and other costs necessary to initiate service to occupied residences;
-(8) affordability measures approved by the board that are
-necessary to ensure residents of the Sand Branch community can obtain and maintain utility service;
-(9) flood hazard determination and flood-control work,
-consisting of:
-(A) engineering and land surveying studies, elevation
-certificates, structural condition assessments, and other costs necessary to apply for a map revision
-determination from the Federal Emergency Management Agency, which application shall be pursued before
-any funds are committed under Subparagraph (B) or (C);
-(B) if an existing levee structure is present and a
-licensed professional engineer determines that the existing levee structure meets or can reasonably be
-brought into compliance with the applicable federal or state levee certification standards, including
-the standards administered by the Federal Emergency Management Agency under 44 C.F.R.
-Part 65, the costs
-of engineering analysis, repair, upgrade, and certification of that existing levee structure, and the
-costs of a subsequent Letter of Map Revision application based on that certified structure; or
-(C) if the map revision determination states that the Sand
-Branch community or a portion of it does not qualify for removal from a Special Flood Hazard Area
-without new construction, and if no existing levee structure is present or a licensed professional
-engineer determines that an existing levee structure cannot reasonably be brought into compliance with
-applicable certification standards, the costs of new levee, drainage, fill, or structure elevation
-infrastructure, and the costs of a subsequent Letter of Map Revision application based on that
-construction, limited in either case to the area found ineligible under Subparagraph (A);
-(10) costs of applying for, obtaining, or amending a
-certificate of convenience and necessity from the Public Utility Commission of Texas for water or sewer
-service to the Sand Branch community;
-(11) electric utility line extension, transformers,
-metering, and connection costs necessary to provide electric service to the Sand Branch community, to be
-paid to or coordinated with the certificated electric utility serving the area;
-(12) the costs of extending, upgrading, or improving an
-existing municipal or regional water, wastewater, or electric utility system, including Seagoville's
-system, to the extent necessary to provide or facilitate service to the Sand Branch community, including
-improvements that also enhance the host system's existing capacity, pressure, fire flow, reliability,
-resilience, or regulatory compliance; and
-(13) if the board determines that creation or conversion
-of a special district is a reasonable and beneficial service-delivery option for the Sand Branch
-community, reasonable and necessary costs of evaluating, organizing, petitioning for, converting to, or
-confirming that special district, including legal, engineering, election, notice, application, and other
-formation-related costs, provided that no funds under this paragraph may be used to capitalize routine
-district operations unrelated to the delivery of utility service.
-(e) Prioritization required for
-flood-control work.
-In administering Subsection (d)(9), the board shall require that any existing levee
-structure be evaluated for certification feasibility before authorizing funds for new flood-control
-construction under Subsection (d)(9)(C).
-Funds may not be awarded for new levee, drainage, fill, or
-structure elevation infrastructure under Subsection (d)(9)(C) unless the board has received a written
-determination from a licensed professional engineer that no existing levee structure is present or that
-an existing levee structure cannot reasonably be certified.
-(f) In awarding grants under this
-section, the board shall prioritize a project that:
-(1) provides a permanent regional solution;
-(2) uses existing nearby utility infrastructure when
-practicable, including certification and use of an existing levee structure under Subsection (d)(9)(B)
-when feasible;
-(3) coordinates with Dallas County, the Texas Commission
-on Environmental Quality, the Public Utility Commission of Texas, the Federal Emergency Management
-Agency, and any municipality or utility whose system will receive or provide service;
-(4) minimizes displacement of existing residents; and
-(5) maximizes the use of other available state and
-federal financial assistance, including financial assistance administered by the board, the Texas
-Department of Agriculture, the United States Department of Agriculture, and the United States
-Environmental Protection Agency, and, for the Sand Branch community specifically, evaluates and pursues
-eligibility for the enhanced grant percentage available for an economically distressed area under the
-board's Economically Distressed Areas Program so that funding under that program may be stacked with a
-grant under this section before drawing on the appropriation under Section 2(a) of the Act enacting this
-section.
-(g) The board may not award a grant
-for costs described by Subsection (d)(9)(C) until the board has received a map revision determination
-applicable to the affected area and the engineering determination required by Subsection (e).
-The board
-shall coordinate with the Dallas County floodplain administrator and, as necessary, the Federal
-Emergency Management Agency regarding the timing and sequencing of the map revision determination, any
-levee certification or flood-control construction, and the treatment of a structure in the Sand Branch
-community as a permitted rebuild, replacement, or improvement following removal of the structure's
-location from a Special Flood Hazard Area.
-(h) The board may award a grant
-under this section for costs described by Subsection (d)(12) notwithstanding that the improved
-infrastructure also serves residents outside the Sand Branch community, provided that the board finds
-that a primary purpose of the grant is to provide first-time or improved water, wastewater, or electric
-utility service to the Sand Branch community or to create the system capacity necessary to make that
-service possible.
-(i) Before awarding grant funds for
-costs described by Subsection (d)(13), the board shall evaluate whether direct service by an existing
-municipality, utility, or nonprofit water supply or sewer service corporation is more practicable and
-cost-effective than creation or conversion of a special district.
-The board may fund special-district
-formation or conversion activities only if the board determines that:
-(1) the special district option is legally available;
-(2) the special district option is reasonably likely to
-result in an accountable entity capable of owning, financing, constructing, operating, or contracting
-for the required infrastructure; and
-(3) the special district option would materially improve
-the likelihood of timely service to the Sand Branch community.
-(j) Nothing in this section requires
-or conditions financial assistance under this section on the annexation of the Sand Branch community, in
-whole or in part, by Seagoville or any other municipality.
-If the Sand Branch community or a portion of
-it is annexed by Seagoville after the effective date of this section, financial assistance under this
-section remains available for the annexed area on the same basis as before annexation.
-(k) Financial assistance under this
-section for Seagoville may be used for:
-(1) planning, engineering, and design for water
-distribution or wastewater collection system improvements;
-(2) extension of water distribution lines and wastewater
-collection lines to currently unconnected residential and commercial parcels within Seagoville's city
-limits;
-(3) identification of water service line composition and
-replacement of lead or otherwise noncompliant service lines, including costs associated with completing
-or acting on Seagoville's federally required service line inventory;
-(4) wastewater lift station, force main, and collection
-line capacity improvements, including improvements necessary to support connection of the Sand Branch
-community to Seagoville's wastewater system;
-(5) household connection charges and utility hookup costs
-necessary to initiate service to occupied residences or businesses within Seagoville that are not
-connected to the city's water or wastewater system as of the effective date of this section;
-(6) permitting, environmental review, and review and
-approval of public drinking water and wastewater system improvements by the Texas Commission on
-Environmental Quality; and
-(7) coordination and matching funds necessary for
-Seagoville to apply for or receive financial assistance from the Texas Water Development Board's Water
-Supply and Infrastructure Grants program during the commitment window described by Subsection (o), or
-from any successor water supply and infrastructure grant program the board may administer in a future
-biennium, the Clean Water State Revolving Fund, the Drinking Water State Revolving Fund, the Texas
-Community Development Block Grant program, or the United States Department of Agriculture Rural
-Development water and waste disposal loan and grant program; provided that Seagoville's eligibility for
-the Rural Water Assistance Fund or any other program limited to a rural political subdivision, as that
-term is defined by Section 15.001, shall be determined by the board under the applicable population and
-service-area criteria of that definition, and nothing in this subsection deems Seagoville eligible for
-such a program if it does not independently qualify.
-(l) Financial assistance awarded to
-Seagoville under Subsection (k) is not contingent on, and may be awarded independently of, any financial
-assistance awarded for the Sand Branch community under this section.
-(m) Financial assistance under this
-section is in addition to any other financial assistance otherwise authorized by this chapter.
-(n) The board shall adopt rules
-necessary to implement this section.
-(o) COMMITMENT OF EXISTING
-PRIORITIZED FUNDING; STATE BACKSTOP.
-(1) Not later than March 1, 2027, the board shall
-determine the amount of funding currently appropriated to the board and already identified, ranked, or
-prioritized for a water or wastewater project serving the Sand Branch community, including but not
-limited to any amount identified for the Sand Branch Development Water Supply Corporation project on the
-board's Clean Water State Revolving Fund Intended Use Plan project priority list or on any Water Supply
-and Infrastructure Grants commitment list, and shall take formal board action to commit that funding to
-the project scope described by this section.
-(2) The board shall complete all actions necessary to
-close, obligate, or contractually commit the funding described by Subdivision (1) not later than August
-31, 2027, to ensure that funding is secured before the expiration of the board's authority to commit
-money appropriated under House Bill 500, Acts of the 89th Legislature, Regular Session, 2025, or under
-any other appropriation subject to a similar biennial expiration.
-(3) The appropriation under Section 2(a) of the Act
-enacting this section is available to supplement, and is not reduced by, any amount committed under this
-subsection; provided, however, that the board shall first apply funding committed under this subsection
-toward eligible project costs before drawing on the appropriation under Section 2(a) of the Act enacting
-this section, so that the Section 2(a) appropriation functions as a backstop for costs not covered by
-previously committed funding.
-(p) PROPERTY TAX PROTECTION FOR SAND
-BRANCH.
-(1) The legislature finds that residents of the Sand
-Branch community who construct new or replacement housing following removal of floodplain-based
-construction restrictions may experience a significant one-time increase in appraised property value
-that is not limited by the appraisal increase limitation under Section 23.23, Tax Code, because that
-limitation does not apply to the value of new improvements.
-(2) The board shall encourage and provide technical and
-coordination assistance to Dallas County and any municipality with jurisdiction over the Sand Branch
-community to designate a reinvestment zone under Chapter 312, Tax Code, covering the Sand Branch
-community and to enter into tax abatement agreements under that chapter providing for the maximum
-abatement period allowed by law, currently ten years, for new or improved residential structures
-constructed by existing Sand Branch residents following removal of floodplain-based construction
-restrictions.
-(3) The board may condition or prioritize financial
-assistance under this section on documented progress by Dallas County or the applicable municipality
-toward designation of a reinvestment zone and adoption of abatement agreements described by Subdivision
-(2), but may not delay or withhold water, wastewater, flood-control, or electric utility infrastructure
-funding under this section solely because a reinvestment zone or abatement agreement has not yet been
-adopted.
-(q) SPECIAL DISTRICT CONSIDERATION
-DOES NOT DELAY OR CONDITION CORE INFRASTRUCTURE FUNDING.
-The evaluation, pursuit, formation, conversion,
-delay, or abandonment of a special district under Subsection (d)(13) or (i) does not affect, delay, or
-serve as a condition precedent to the availability, award, or disbursement of financial assistance under
-Subsections (d)(1) through (d)(12) for the Sand Branch community or of financial assistance under
-Subsection (k) for Seagoville.
-The board shall proceed with providing potable water, wastewater, and, to
-the extent provided by Subsection (d)(11), electric utility service to the Sand Branch community, and
-with providing financial assistance to Seagoville under Subsection (k), regardless of whether a special
-district is ever formed, is still under evaluation, or is rejected as an option.
-A recipient's status or
-proposed status as a nonprofit water supply or sewer service corporation, political subdivision, or
-special district under Subsection (c) is not, by itself, grounds to delay or withhold financial
-assistance otherwise available under this section.
-The special district option under Subsection (d)(13)
-is available solely as an additional, optional tool for consideration in connection with the long-term
-governance and management of completed infrastructure, and not as a prerequisite, gating mechanism, or
-condition for the delivery of water, wastewater, or electric utility service funded under this section.
+(5) "Map revision determination" means a written determination by the Federal Emergency Management Agency, issued in response to an application under Subsection (d)(9)(A), stating whether the Sand Branch community or a specified portion of it qualifies for removal from a Special Flood Hazard Area under a Letter of Map Amendment or a survey-based Letter of Map Revision without new flood-control construction.
+(6) "Existing levee structure" means an embankment, berm, or other flood-control structure already constructed in or around the Sand Branch community as of the effective date of this section.
+(7) "Special district" means a conservation and reclamation district, municipal utility district, water control and improvement district, special utility district, fresh water supply district, or other special-purpose district authorized by general law to provide water, wastewater, drainage, flood-control, or related utility service in the area of the Sand Branch community. (b) The board shall establish and administer a program to provide financial assistance in the form of grants for: (1) projects that provide potable water service, wastewater collection service, wastewater treatment service, flood-control infrastructure, electric utility infrastructure, or related utility infrastructure for the Sand Branch community; and (2) projects described by Subsection (k) that extend, upgrade, or modernize Seagoville's water and wastewater infrastructure, including infrastructure necessary to connect currently unconnected Seagoville residents and businesses to the city's water and wastewater systems and infrastructure necessary to facilitate service to the Sand Branch community. (c) A grant under this section may be awarded to: (1) the Sand Branch Water Supply Corporation; (2) a nonprofit water supply or sewer service corporation created and operating under Chapter 67 that is designated to serve the Sand Branch community; (3) a political subdivision that enters into an agreement to provide or facilitate water, wastewater, flood-control, or electric utility service to the Sand Branch community, including Seagoville; (4) Seagoville, for costs described by Subsection (k); (5) a certificated electric utility, for costs described by Subsection (d)(11); (6) a special district created to serve or proposed to serve the Sand Branch community, for costs described by Subsection (d)(13); or (7) a combination of eligible entities described by this subsection acting jointly under an interlocal contract, utility service agreement, memorandum of understanding, or other agreement acceptable to the board. (d) Financial assistance under this section for the Sand Branch community may be used for: (1) planning, engineering, and design; (2) land or easement acquisition; (3) permitting, environmental review, and review and approval of public drinking water and wastewater systems by the Texas Commission on Environmental Quality; (4) water wells, water purchase arrangements, pump stations, storage, treatment, water distribution lines, meters, and appurtenances; (5) wastewater collection lines, force mains, lift stations, treatment connections, and appurtenances; (6) connection of the Sand Branch community to an existing regional or municipal water or wastewater utility system, including a system operated by Seagoville; (7) household connection charges, utility hookup costs, and other costs necessary to initiate service to occupied residences; (8) affordability measures approved by the board that are necessary to ensure residents of the Sand Branch community can obtain and maintain utility service; (9) flood hazard determination and flood-control work, consisting of: (A) engineering and land surveying studies, elevation certificates, structural condition assessments, and other costs necessary to apply for a map revision determination from the Federal Emergency Management Agency, which application shall be pursued before any funds are committed under Subparagraph (B) or (C); (B) if an existing levee structure is present and a licensed professional engineer determines that the existing levee structure meets or can reasonably be brought into compliance with the applicable federal or state levee certification standards, including the standards administered by the Federal Emergency Management Agency under 44 C.F.R.
+Part 65, the costs of engineering analysis, repair, upgrade, and certification of that existing levee structure, and the costs of a subsequent Letter of Map Revision application based on that certified structure; or (C) if the map revision determination states that the Sand Branch community or a portion of it does not qualify for removal from a Special Flood Hazard Area without new construction, and if no existing levee structure is present or a licensed professional engineer determines that an existing levee structure cannot reasonably be brought into compliance with applicable certification standards, the costs of new levee, drainage, fill, or structure elevation infrastructure, and the costs of a subsequent Letter of Map Revision application based on that construction, limited in either case to the area found ineligible under Subparagraph (A); (10) costs of applying for, obtaining, or amending a certificate of convenience and necessity from the Public Utility Commission of Texas for water or sewer service to the Sand Branch community; (11) electric utility line extension, transformers, metering, and connection costs necessary to provide electric service to the Sand Branch community, to be paid to or coordinated with the certificated electric utility serving the area; (12) the costs of extending, upgrading, or improving an existing municipal or regional water, wastewater, or electric utility system, including Seagoville's system, to the extent necessary to provide or facilitate service to the Sand Branch community, including improvements that also enhance the host system's existing capacity, pressure, fire flow, reliability, resilience, or regulatory compliance; and (13) if the board determines that creation or conversion of a special district is a reasonable and beneficial service-delivery option for the Sand Branch community, reasonable and necessary costs of evaluating, organizing, petitioning for, converting to, or confirming that special district, including legal, engineering, election, notice, application, and other formation-related costs, provided that no funds under this paragraph may be used to capitalize routine district operations unrelated to the delivery of utility service. (e) Prioritization required for flood-control work.
+In administering Subsection (d)(9), the board shall require that any existing levee structure be evaluated for certification feasibility before authorizing funds for new flood-control construction under Subsection (d)(9)(C).
+Funds may not be awarded for new levee, drainage, fill, or structure elevation infrastructure under Subsection (d)(9)(C) unless the board has received a written determination from a licensed professional engineer that no existing levee structure is present or that an existing levee structure cannot reasonably be certified. (f) In awarding grants under this section, the board shall prioritize a project that: (1) provides a permanent regional solution; (2) uses existing nearby utility infrastructure when practicable, including certification and use of an existing levee structure under Subsection (d)(9)(B) when feasible; (3) coordinates with Dallas County, the Texas Commission on Environmental Quality, the Public Utility Commission of Texas, the Federal Emergency Management Agency, and any municipality or utility whose system will receive or provide service; (4) minimizes displacement of existing residents; and (5) maximizes the use of other available state and federal financial assistance, including financial assistance administered by the board, the Texas Department of Agriculture, the United States Department of Agriculture, and the United States Environmental Protection Agency, and, for the Sand Branch community specifically, evaluates and pursues eligibility for the enhanced grant percentage available for an economically distressed area under the board's Economically Distressed Areas Program so that funding under that program may be stacked with a grant under this section before drawing on the appropriation under Section 2(a) of the Act enacting this section. (g) The board may not award a grant for costs described by Subsection (d)(9)(C) until the board has received a map revision determination applicable to the affected area and the engineering determination required by Subsection (e).
+The board shall coordinate with the Dallas County floodplain administrator and, as necessary, the Federal Emergency Management Agency regarding the timing and sequencing of the map revision determination, any levee certification or flood-control construction, and the treatment of a structure in the Sand Branch community as a permitted rebuild, replacement, or improvement following removal of the structure's location from a Special Flood Hazard Area. (h) The board may award a grant under this section for costs described by Subsection (d)(12) notwithstanding that the improved infrastructure also serves residents outside the Sand Branch community, provided that the board finds that a primary purpose of the grant is to provide first-time or improved water, wastewater, or electric utility service to the Sand Branch community or to create the system capacity necessary to make that service possible. (i) Before awarding grant funds for costs described by Subsection (d)(13), the board shall evaluate whether direct service by an existing municipality, utility, or nonprofit water supply or sewer service corporation is more practicable and cost-effective than creation or conversion of a special district.
+The board may fund special-district formation or conversion activities only if the board determines that: (1) the special district option is legally available; (2) the special district option is reasonably likely to result in an accountable entity capable of owning, financing, constructing, operating, or contracting for the required infrastructure; and (3) the special district option would materially improve the likelihood of timely service to the Sand Branch community. (j) Nothing in this section requires or conditions financial assistance under this section on the annexation of the Sand Branch community, in whole or in part, by Seagoville or any other municipality.
+If the Sand Branch community or a portion of it is annexed by Seagoville after the effective date of this section, financial assistance under this section remains available for the annexed area on the same basis as before annexation. (k) Financial assistance under this section for Seagoville may be used for: (1) planning, engineering, and design for water distribution or wastewater collection system improvements; (2) extension of water distribution lines and wastewater collection lines to currently unconnected residential and commercial parcels within Seagoville's city limits; (3) identification of water service line composition and replacement of lead or otherwise noncompliant service lines, including costs associated with completing or acting on Seagoville's federally required service line inventory; (4) wastewater lift station, force main, and collection line capacity improvements, including improvements necessary to support connection of the Sand Branch community to Seagoville's wastewater system; (5) household connection charges and utility hookup costs necessary to initiate service to occupied residences or businesses within Seagoville that are not connected to the city's water or wastewater system as of the effective date of this section; (6) permitting, environmental review, and review and approval of public drinking water and wastewater system improvements by the Texas Commission on Environmental Quality; and (7) coordination and matching funds necessary for Seagoville to apply for or receive financial assistance from the Texas Water Development Board's Water Supply and Infrastructure Grants program during the commitment window described by Subsection (o), or from any successor water supply and infrastructure grant program the board may administer in a future biennium, the Clean Water State Revolving Fund, the Drinking Water State Revolving Fund, the Texas Community Development Block Grant program, or the United States Department of Agriculture Rural Development water and waste disposal loan and grant program; provided that Seagoville's eligibility for the Rural Water Assistance Fund or any other program limited to a rural political subdivision, as that term is defined by Section 15.001, shall be determined by the board under the applicable population and service-area criteria of that definition, and nothing in this subsection deems Seagoville eligible for such a program if it does not independently qualify. (l) Financial assistance awarded to Seagoville under Subsection (k) is not contingent on, and may be awarded independently of, any financial assistance awarded for the Sand Branch community under this section. (m) Financial assistance under this section is in addition to any other financial assistance otherwise authorized by this chapter. (n) The board shall adopt rules necessary to implement this section. (o) COMMITMENT OF EXISTING PRIORITIZED FUNDING; STATE BACKSTOP.
+(1) Not later than March 1, 2027, the board shall determine the amount of funding currently appropriated to the board and already identified, ranked, or prioritized for a water or wastewater project serving the Sand Branch community, including but not limited to any amount identified for the Sand Branch Development Water Supply Corporation project on the board's Clean Water State Revolving Fund Intended Use Plan project priority list or on any Water Supply and Infrastructure Grants commitment list, and shall take formal board action to commit that funding to the project scope described by this section.
+(2) The board shall complete all actions necessary to close, obligate, or contractually commit the funding described by Subdivision (1) not later than August 31, 2027, to ensure that funding is secured before the expiration of the board's authority to commit money appropriated under House Bill 500, Acts of the 89th Legislature, Regular Session, 2025, or under any other appropriation subject to a similar biennial expiration.
+(3) The appropriation under Section 2(a) of the Act enacting this section is available to supplement, and is not reduced by, any amount committed under this subsection; provided, however, that the board shall first apply funding committed under this subsection toward eligible project costs before drawing on the appropriation under Section 2(a) of the Act enacting this section, so that the Section 2(a) appropriation functions as a backstop for costs not covered by previously committed funding. (p) PROPERTY TAX PROTECTION FOR SAND BRANCH.
+(1) The legislature finds that residents of the Sand Branch community who construct new or replacement housing following removal of floodplain-based construction restrictions may experience a significant one-time increase in appraised property value that is not limited by the appraisal increase limitation under Section 23.23, Tax Code, because that limitation does not apply to the value of new improvements.
+(2) The board shall encourage and provide technical and coordination assistance to Dallas County and any municipality with jurisdiction over the Sand Branch community to designate a reinvestment zone under Chapter 312, Tax Code, covering the Sand Branch community and to enter into tax abatement agreements under that chapter providing for the maximum abatement period allowed by law, currently ten years, for new or improved residential structures constructed by existing Sand Branch residents following removal of floodplain-based construction restrictions.
+(3) The board may condition or prioritize financial assistance under this section on documented progress by Dallas County or the applicable municipality toward designation of a reinvestment zone and adoption of abatement agreements described by Subdivision (2), but may not delay or withhold water, wastewater, flood-control, or electric utility infrastructure funding under this section solely because a reinvestment zone or abatement agreement has not yet been adopted. (q) SPECIAL DISTRICT CONSIDERATION DOES NOT DELAY OR CONDITION CORE INFRASTRUCTURE FUNDING.
+The evaluation, pursuit, formation, conversion, delay, or abandonment of a special district under Subsection (d)(13) or (i) does not affect, delay, or serve as a condition precedent to the availability, award, or disbursement of financial assistance under Subsections (d)(1) through (d)(12) for the Sand Branch community or of financial assistance under Subsection (k) for Seagoville.
+The board shall proceed with providing potable water, wastewater, and, to the extent provided by Subsection (d)(11), electric utility service to the Sand Branch community, and with providing financial assistance to Seagoville under Subsection (k), regardless of whether a special district is ever formed, is still under evaluation, or is rejected as an option.
+A recipient's status or proposed status as a nonprofit water supply or sewer service corporation, political subdivision, or special district under Subsection (c) is not, by itself, grounds to delay or withhold financial assistance otherwise available under this section.
+The special district option under Subsection (d)(13) is available solely as an additional, optional tool for consideration in connection with the long-term governance and management of completed infrastructure, and not as a prerequisite, gating mechanism, or condition for the delivery of water, wastewater, or electric utility service funded under this section.
 SECTION 2.
-Appropriation
-(a) The amount of $29,500,000 is
-appropriated to the Texas Water Development Board for the state fiscal biennium ending August 31, 2029,
-as a supplemental backstop to the funding committed under Section 15.1025(o), Water Code, as added by
-this Act, for the purpose of providing grants for the Sand Branch community under Section 15.1025, Water
-Code, as added by this Act, to the extent that previously appropriated or prioritized funding committed
-under Section 15.1025(o), and any funding secured under Subsection (f)'s Economically Distressed Areas
-Program stacking directive, is insufficient to complete the project scope described by this section.
-This amount reflects the community's previously identified funding range, escalated for anticipated
-construction-cost inflation between the date of the underlying cost estimates and the anticipated start
-of construction in late 2027 or early 2028, as described in Subsection (c).
-(b) The amount of $12,000,000 is
-appropriated to the Texas Water Development Board for the state fiscal biennium ending August 31, 2029,
-for the purpose of providing grants to Seagoville under Subsection (k) of Section 15.1025, Water Code,
-as added by this Act.
-This amount reflects the city's previously identified capital-cost baseline,
-escalated for anticipated construction-cost inflation between the date of the underlying cost estimates
-and the anticipated start of construction in late 2027 or early 2028, as described in Subsection (c).
-(c) The appropriations in Subsections (a)
-and (b) incorporate a construction-cost inflation adjustment applied to the most recent publicly
-available cost baselines for the Sand Branch community and Seagoville, respectively, to reflect
-anticipated costs at the time construction is expected to begin in late 2027 or early 2028.
-The board
-shall review bid-ready engineering estimates developed under Section 15.1025(d)(1) and (k)(1), Water
-Code, as added by this Act, and shall request supplemental appropriations if those estimates exceed the
-amounts appropriated by this section.
+Appropriation (a) The amount of $29,500,000 is appropriated to the Texas Water Development Board for the state fiscal biennium ending August 31, 2029, as a supplemental backstop to the funding committed under Section 15.1025(o), Water Code, as added by this Act, for the purpose of providing grants for the Sand Branch community under Section 15.1025, Water Code, as added by this Act, to the extent that previously appropriated or prioritized funding committed under Section 15.1025(o), and any funding secured under Subsection (f)'s Economically Distressed Areas Program stacking directive, is insufficient to complete the project scope described by this section.
+This amount reflects the community's previously identified funding range, escalated for anticipated construction-cost inflation between the date of the underlying cost estimates and the anticipated start of construction in late 2027 or early 2028, as described in Subsection (c). (b) The amount of $12,000,000 is appropriated to the Texas Water Development Board for the state fiscal biennium ending August 31, 2029, for the purpose of providing grants to Seagoville under Subsection (k) of Section 15.1025, Water Code, as added by this Act.
+This amount reflects the city's previously identified capital-cost baseline, escalated for anticipated construction-cost inflation between the date of the underlying cost estimates and the anticipated start of construction in late 2027 or early 2028, as described in Subsection (c). (c) The appropriations in Subsections (a) and (b) incorporate a construction-cost inflation adjustment applied to the most recent publicly available cost baselines for the Sand Branch community and Seagoville, respectively, to reflect anticipated costs at the time construction is expected to begin in late 2027 or early 2028.
+The board shall review bid-ready engineering estimates developed under Section 15.1025(d)(1) and (k)(1), Water Code, as added by this Act, and shall request supplemental appropriations if those estimates exceed the amounts appropriated by this section.
 SECTION 3.
-Reporting Requirement
-(a) Not later than September 1, 2027, and
-thereafter not later than December 1 of each year beginning in 2028 and ending in 2031, the Texas Water
-Development Board shall submit a report to the governor, the lieutenant governor, and the speaker of the
-house of representatives regarding:
-(1) the status of each project funded under Section
-15.1025, Water Code;
-(2) the amount of money awarded and expended, itemized by
-water, wastewater, flood hazard determination, levee certification, new flood-control construction,
-electric utility infrastructure, Seagoville system improvements, and special-district evaluation or
-formation categories;
-(3) the number of residential and business connections
-completed in the Sand Branch community and in Seagoville, reported separately;
-(4) the status of any map revision determination request,
-any levee certification or flood-control construction, and any application for a certificate of
-convenience and necessity affecting the Sand Branch community;
-(5) the status of Seagoville's service line inventory and
-any lead service line identification or replacement funded under this section;
-(6) whether the board evaluated the creation or
-conversion of a special district to serve the Sand Branch community, the outcome of that evaluation, and
-the status of any resulting petition, application, election, or organizational action;
-(7) whether the Sand Branch community or a portion of it
-has been annexed by Seagoville, and the status of any resulting utility extension project;
-(8) the amount of previously appropriated or prioritized
-funding committed under Section 15.1025(o), Water Code, as added by this Act, the amount of any funding
-secured under Subsection (f)'s Economically Distressed Areas Program stacking directive, the amount of
-the Section 2(a) appropriation applied or anticipated to be needed as a backstop under that subsection,
-and any funding shortfall requiring further legislative action;
-(9) the status of any reinvestment zone designation or
-tax abatement agreement described by Section 15.1025(p), Water Code, as added by this Act, and any
-additional statutory changes needed to protect Sand Branch residents from disproportionate appraisal
-increases following construction of new or replacement housing; and
-(10) any additional statutory changes needed to complete
-utility service to the Sand Branch community or to Seagoville.
-(b) The initial report required by
-Subsection (a) not later than September 1, 2027, need address only the matters described by Subdivisions
-(a)(8) and (a)(9); the board shall address all matters described by Subsection (a) in each subsequent
-annual report.
+Reporting Requirement (a) Not later than September 1, 2027, and thereafter not later than December 1 of each year beginning in 2028 and ending in 2031, the Texas Water Development Board shall submit a report to the governor, the lieutenant governor, and the speaker of the house of representatives regarding: (1) the status of each project funded under Section 15.1025, Water Code; (2) the amount of money awarded and expended, itemized by water, wastewater, flood hazard determination, levee certification, new flood-control construction, electric utility infrastructure, Seagoville system improvements, and special-district evaluation or formation categories; (3) the number of residential and business connections completed in the Sand Branch community and in Seagoville, reported separately; (4) the status of any map revision determination request, any levee certification or flood-control construction, and any application for a certificate of convenience and necessity affecting the Sand Branch community; (5) the status of Seagoville's service line inventory and any lead service line identification or replacement funded under this section; (6) whether the board evaluated the creation or conversion of a special district to serve the Sand Branch community, the outcome of that evaluation, and the status of any resulting petition, application, election, or organizational action; (7) whether the Sand Branch community or a portion of it has been annexed by Seagoville, and the status of any resulting utility extension project; (8) the amount of previously appropriated or prioritized funding committed under Section 15.1025(o), Water Code, as added by this Act, the amount of any funding secured under Subsection (f)'s Economically Distressed Areas Program stacking directive, the amount of the Section 2(a) appropriation applied or anticipated to be needed as a backstop under that subsection, and any funding shortfall requiring further legislative action; (9) the status of any reinvestment zone designation or tax abatement agreement described by Section 15.1025(p), Water Code, as added by this Act, and any additional statutory changes needed to protect Sand Branch residents from disproportionate appraisal increases following construction of new or replacement housing; and (10) any additional statutory changes needed to complete utility service to the Sand Branch community or to Seagoville. (b) The initial report required by Subsection (a) not later than September 1, 2027, need address only the matters described by Subdivisions (a)(8) and (a)(9); the board shall address all matters described by Subsection (a) in each subsequent annual report.
 SECTION 4.
-Effective Date
-This Act takes effect immediately if it receives a vote of two-thirds of all the
-members elected to each house, as provided by Section 39, Article III, Texas Constitution.
-If this Act
-does not receive the vote necessary for immediate effect, this Act takes effect September 1, 2027.
+Effective Date This Act takes effect immediately if it receives a vote of two-thirds of all the members elected to each house, as provided by Section 39, Article III, Texas Constitution.
+If this Act does not receive the vote necessary for immediate effect, this Act takes effect September 1, 2027.
+South Grand Prairie Cedar Hill East De Soto Lancaster North Glenn Heights Texas House of Representatives District 109 Hutchins Wilmer Seagoville Combine North Ferris South Dallas CONTRIBUTE Official campaign website Cedar Hill, TX 75104 817-313-2927 communication@willcampbellfortexas.com Made with Squarespace Will Campbell for Texas

@@ -1,11 +1,17 @@
-| WHAT VERMONT GAINS WITH THE PASSAGE OF H.454 1.
-A deliberate and thoughtful multi-year process with contingencies built into the process and required future legislative votes. 2.
-A more sustainable and predictable funding structure for Vermont’s education system. 3.
-A comprehensive approach for decreasing the cost curve of education spending. 4.
-Increased access to equitable educational opportunities across the state. 5.
+Home About Lori Priorities News VOTER INFORMATION Donate Community Resources Why We Voted Yes On H.454 6/22/2025 0 Comments WHAT VERMONT GAINS WITH THE PASSAGE OF H.454 1.
+A deliberate and thoughtful multi-year process with contingencies built into the process and required future legislative votes.
+2.
+A more sustainable and predictable funding structure for Vermont’s education system.
+3.
+A comprehensive approach for decreasing the cost curve of education spending.
+4.
+Increased access to equitable educational opportunities across the state.
+5.
 A commitment to our public schools.
-Far fewer independent schools will qualify to be approved, including and especially those that have been able to preserve the right to discriminate with public dollars. 6.
-No longer will public dollars flow to out-of-state private schools, subsidizing elite boarding school experiences. 7.
+Far fewer independent schools will qualify to be approved, including and especially those that have been able to preserve the right to discriminate with public dollars.
+6.
+No longer will public dollars flow to out-of-state private schools, subsidizing elite boarding school experiences.
+7.
 No longer will approved independent schools be able to set their own tuitions.
 Why We Supported the Passage of H.454 This has been a challenging process and we did not come to this decision without long and thoughtful contemplation.
 We all have or had children in the EWSD school system.
@@ -45,4 +51,6 @@ By voting yes on H.454, we chose not to let that happen and instead offer a path
 We look forward to the work ahead next session and will remain vigilant in our efforts to gather feedback and understand the full impact.
 We understand that community members will have a variety of perspectives on this vote.
 We welcome the opportunity to discuss your thoughts, better understand the impact and explore the considerations that should be made for future steps in Vermont’s Education Transformation.
-Representative Alyssa Black Representative Karen Dolan Representative Lori Houghton Representative Rey Garofano Representatives Leonora Dodge |
+Representative Alyssa Black Representative Karen Dolan Representative Lori Houghton Representative Rey Garofano Representatives Leonora Dodge 0 Comments Leave a Reply. [email protected] | 802-373-0599 paid for by lori houghton for VT house .
+40 School street . essex junction . vt .
+05452 . treasurer bridget meyer Home About Lori Priorities News VOTER INFORMATION Donate Community Resources

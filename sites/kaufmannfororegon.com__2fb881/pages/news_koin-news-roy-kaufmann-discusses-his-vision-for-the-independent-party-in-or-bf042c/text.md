@@ -1,4 +1,4 @@
-NEWS COVERAGE
-KOIN NEWS: Roy Kaufmann discusses his vision for the Independent Party in Oregon
-On August 2, 2026, Ken Boddie, host of KOIN News' Eye on Northwest Politics, invited Roy to share his vision for the Independent Party of Oregon.
+Skip navigation menu Home About Roy Priorities News Endorsements Events Volunteer Contact Donate Home About Roy Priorities News Endorsements Events Volunteer Contact Donate PRESS RELEASE Economics 101: Tariffs are a tax on everything we buy for our families and businesses.
+PRESS RELEASE Independent Candidate Roy Kaufmann Wins Democratic Write-in Vote for HD18 PRESS RELEASE Working Families Party of Oregon Endorses Roy Kaufmann for HD18 NEWS COVERAGE KOIN NEWS: Roy Kaufmann discusses his vision for the Independent Party in Oregon NEWS ARTICLE Our Town: Kaufmann Takes on Staehely in November Aug 2 2026 NEWS COVERAGE KOIN NEWS: Roy Kaufmann discusses his vision for the Independent Party in Oregon On August 2, 2026, Ken Boddie, host of KOIN News' Eye on Northwest Politics, invited Roy to share his vision for the Independent Party of Oregon.
 Watch his commentary here.
+Powered by RUN! website builder You need to enable JavaScript to run this app.

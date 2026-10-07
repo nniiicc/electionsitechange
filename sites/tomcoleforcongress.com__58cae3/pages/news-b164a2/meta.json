@@ -1,9 +1,13 @@
 {
  "description": "Catch up on all of the latest news from U.S. Congressman, Tom Cole. Every day, Tom fights for the people of Oklahoma, championing small businesses.",
  "final_url": "https://tomcoleforcongress.com/news/",
- "paid_for_by": "Paid for by Cole for Congress Powered By Push Digital &copy; 2026",
+ "fingerprint": "aa9dcc8cbdc7b4ae153b729b931f16ddfce9fb5e",
+ "format": 3,
+ "paid_for_by": "Paid for by Cole for Congress Powered By Push Digital © #",
  "title": "News - Tom Cole",
  "years_mentioned": [
-  "2024"
+  "2024",
+  "2025",
+  "2026"
  ]
 }

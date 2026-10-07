@@ -1,11 +1,3 @@
-Skip to content Skip to footer
-document.cookie = 'nitroCachedPage=' + (!window.NITROPACK_STATE ?
-'0' : '1') + '; path=/; SameSite=Lax';
-if (!window.NITROPACK_STATE || window.NITROPACK_STATE != 'FRESH') {
-var proxyPurgeOnly = 0;
-if (typeof navigator.sendBeacon !== 'undefined') {
-var nitroData = new FormData(); nitroData.append('nitroBeaconUrl', 'aHR0cHM6Ly9sYW1taXN2YXJnYXMuY29tL3RlYW0vcmktbGFib3JlcnMtZGlzdHJpY3QtY291bmNpbC8='); nitroData.append('nitroBeaconCookies', 'W10='); nitroData.append('nitroBeaconHash', '763f0033de4e57fd01094e5e07cd90ec6b6e878ec951434028545f21c4393f13732856bf8119077e9ffb5b5babb511a8ce493cf215522f67b259f3ef4fc4528f'); nitroData.append('proxyPurgeOnly', ''); nitroData.append('layout', 'cpt_team'); navigator.sendBeacon(location.href, nitroData);
-} else {
-var xhr = new XMLHttpRequest(); xhr.open('POST', location.href, true); xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded'); xhr.send('nitroBeaconUrl=aHR0cHM6Ly9sYW1taXN2YXJnYXMuY29tL3RlYW0vcmktbGFib3JlcnMtZGlzdHJpY3QtY291bmNpbC8=&nitroBeaconCookies=W10=&nitroBeaconHash=763f0033de4e57fd01094e5e07cd90ec6b6e878ec951434028545f21c4393f13732856bf8119077e9ffb5b5babb511a8ce493cf215522f67b259f3ef4fc4528f&proxyPurgeOnly=&layout=cpt_team');
-}
-}
+Skip to content Skip to footer Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact donate Posted August 26, 2024 RI Laborers’ District Council Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
+#teamlammis Facebook Instagram X-twitter Get Involved Meet Lammis Endorsements Platform Volunteer Contribute Contact Stay Tuned for Updates I have read and agree to the terms & conditions Leave this field empty if you're human: Copyright ©️ # Friends of Lammis J.
+Vargas | All Rights Reserved | Website Development & Design by J&R Marketing | Privacy Policy

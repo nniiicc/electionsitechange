@@ -1,5 +1,4 @@
-Taxes
-I get it.
+0 Skip to Content Home Get Involved Areas of Focus Media Recommendations Press Español/Français/Swahili Endorsements DONATE Open Menu Close Menu Open Menu Close Menu Home Get Involved Areas of Focus Media Recommendations Press Español/Français/Swahili Endorsements DONATE Home Get Involved Areas of Focus Media Recommendations Press Español/Français/Swahili Endorsements DONATE Taxes Jan 8 Written By Elinor Levin I get it.
 For most people, paying income taxes is the most obvious and frustrating interaction with the government of each year.
 It’s opaque, expensive, and disconnected from any benefit.
 You know what the benefits are?
@@ -13,6 +12,5 @@ Sales taxes are regressive, putting the most strain on those with the least fina
 Increasing property taxes will simply hurt retired Iowans living on fixed incomes and young Iowans looking to move into home ownership.
 Income taxes are the best way to raise the funds a government requires to do its work, and the best way to pool the resources of the people for the good of all people.
 Yes, the income tax system needs to be simplified, clarified, and made more progressive.
-But it must not be eliminated.
-- https://www.thegazette.com/news/eliminating-state-income-tax-iowa-gov-says-all-ideas-are-on-the-table/
-- https://tax.iowa.gov/sites/default/files/2021-01/IDR%20Annual%20Report%20FY2020.pdf
+But it must not be eliminated. https://www.thegazette.com/news/eliminating-state-income-tax-iowa-gov-says-all-ideas-are-on-the-table/ https://tax.iowa.gov/sites/default/files/2021-01/IDR%20Annual%20Report%20FY2020.pdf Elinor Levin Previous Previous Arts in Iowa Next Next Healthcare Paid for by Citizens for Elinor A.
+Levin

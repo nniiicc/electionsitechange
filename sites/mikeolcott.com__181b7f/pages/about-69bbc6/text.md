@@ -1,14 +1,8 @@
-Learn More About Mike
-Learn More About Mike
-Born and Raised in North Texas
-“As a 5th generation Texan, born and raised in North Texas, I grew up with conservative values.
+Home October 19 Event About Issues 2026 Endorsements 2026 Endorsements 2024 Endorsements 2022 Testimonials 2022 Endorsements Vote Donate Contact Select Page Learn More About Mike Learn More About Mike Donate Born and Raised in North Texas “As a 5th generation Texan, born and raised in North Texas, I grew up with conservative values.
 As a Christian, I understand the importance of salt and light.
 As a research scientist, I was trained to always search for the truth.
 As the leader of the Parker County Conservatives, I espoused the importance of holding our elected officials accountable.
-As your next State Representative, I will fight for the conservative values of our District and never cower to the Austin establishment.”
-~ Mike Olcott
-About Mike
-Mike Olcott is a Christian, a conservative and a Republican running for State Representative.
+As your next State Representative, I will fight for the conservative values of our District and never cower to the Austin establishment.” ~ Mike Olcott About Mike Mike Olcott is a Christian, a conservative and a Republican running for State Representative.
 A fifth generation Texan, he was born and raised in Fort Worth, Texas.
 In high school he excelled in Track and Field and learned to hunt on the 4 Stars Ranch in Parker County.
 He earned a B.S. in Biology from Rhodes College in Memphis, TN and planned to become a physician like his father.
@@ -28,3 +22,4 @@ Mike and his wife Marika live in the country outside of Aledo and are members of
 Mike met Marika at Stockholm University where she pursued a Ph.D. in Molecular Biology.
 Marika’s doctoral and postdoctoral research in the fields of immunology and virology has been published in peer-reviewed scientific journals.
 In their spare time Mike and Marika love traveling and spending time with friends.
+Donate Pol. ad. paid for by Mike Olcott Campaign | PO Box 247, Aledo, TX 76008 | Ed Huddleston, Treasurer Follow Follow

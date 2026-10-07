@@ -1,8 +1,54 @@
 [
-"https://allenreavis.com/",
-"https://allenreavis.com/cart",
-"https://allenreavis.com/donate",
-"https://allenreavis.com/meet-allen",
-"https://allenreavis.com/volunteer",
-"https://facebook.com/ReavisforStateRep"
+{
+"text": "0",
+"href": "https://allenreavis.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://allenreavis.com/donate"
+},
+{
+"text": "Home",
+"href": "https://allenreavis.com/"
+},
+{
+"text": "Learn how you can help out",
+"href": "https://allenreavis.com/volunteer"
+},
+{
+"text": "Learn more about Allen Reavis",
+"href": "https://allenreavis.com/meet-allen"
+},
+{
+"text": "Meet Allen",
+"href": "https://allenreavis.com/meet-allen"
+},
+{
+"text": "Please consider donating to Allen’s campaign",
+"href": "https://allenreavis.com/donate"
+},
+{
+"text": "Volunteer",
+"href": "https://allenreavis.com/volunteer"
+},
+{
+"text": "[image: Reavis for Kansas State House]",
+"href": "https://allenreavis.com/"
+},
+{
+"text": "[image]",
+"href": "https://allenreavis.com/donate"
+},
+{
+"text": "[image]",
+"href": "https://allenreavis.com/meet-allen"
+},
+{
+"text": "[image]",
+"href": "https://allenreavis.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ReavisforStateRep"
+}
 ]

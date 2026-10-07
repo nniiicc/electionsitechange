@@ -1,12 +1,1 @@
-The Issues
-Moving Wisconsin Forward
-The Issues
-- Promoting strong family values
-- Prioritizing Education
-- Attracting Jobs to Our Area
-- Protecting property rights
-- prioritizing Community Safety
-- Stopping illegal Immigration
-- Budgeting for Tomorrow
-- Protecting Our Sporting Heritage
-- Responsible use of tax dollars
+campaign@DukeforWisconsin.com Facebook Facebook Home Biography District 75 Endorsements News The Issues Donate Contact Select Page The Issues Moving Wisconsin Forward The Issues Promoting strong family values Prioritizing Education Attracting Jobs to Our Area Protecting property rights prioritizing Community Safety Stopping illegal Immigration Budgeting for Tomorrow Protecting Our Sporting Heritage Responsible use of tax dollars Facebook Copyright © #-# KAM Paid for by Duke for Wisconsin

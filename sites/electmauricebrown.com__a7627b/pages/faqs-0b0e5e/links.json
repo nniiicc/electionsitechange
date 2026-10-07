@@ -1,34 +1,154 @@
 [
-"https://bsky.app/profile/mobreezy213.bsky.social",
-"https://electmauricebrown.com/",
-"https://electmauricebrown.com/about",
-"https://electmauricebrown.com/blog",
-"https://electmauricebrown.com/cart",
-"https://electmauricebrown.com/donate",
-"https://electmauricebrown.com/endorsements",
-"https://electmauricebrown.com/faqs",
-"https://electmauricebrown.com/funfaqs",
-"https://electmauricebrown.com/get-involved",
-"https://electmauricebrown.com/local-voices-supporting-maurice-brown",
-"https://electmauricebrown.com/press-clips",
-"https://electmauricebrown.com/priorities",
-"https://electmauricebrown.com/vote",
-"https://facebook.com/centralnewyorkworkingfamilies",
-"https://facebook.com/electmauricebrown",
-"https://gobrockport.com/news/2011/9/21/FB_0921111103.aspx",
-"https://instagram.com/electmauricebrown",
-"https://investinourny.org/about",
-"https://nara.getarchive.net/media/sgt-maurice-brown-team-leader-3rd-platoon-423rd-051e9c",
-"https://nypan.org/",
-"https://ocdemocrats.com/",
-"https://ongov.net/legislature",
-"https://onvote.net/",
-"https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/466384294_10225660576558006_7892877487124722066_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=b895b5&_nc_ohc=D0f3sF-frtcQ7kNvwG1OjIM&_nc_oc=AdklRFBjxfEmFLddJGiLTTwwWBMaRVMJXwAcotoNkAS5T3Ma0PioJPDuynEyv_RuTdQ&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=W1WAyxPoxACsOEy7W_owyA&_nc_ss=8&oh=00_Afz7w1a-jMdWsSl7AWr9Zn5GFmqKcxYGxdiZrKuzeKqi4w&oe=69B2A9D8",
-"https://secure.actblue.com/donate/mbforsyracuse",
-"https://secure.actblue.com/donate/mbinthegeneral",
-"https://syracuse.com/news/2017/02/crowds_gather_at_the_original_funk_n_waffles_to_celebrate_its_last_day_on_marsha.html",
-"https://syracuse.com/news/2025/02/do-syracuses-democratic-party-leaders-have-a-race-and-gender-blindspot.html",
-"https://syracuselandbank.org/about",
-"https://syracusenewtimes.com/42442-2",
-"https://syracuseurbanism.org/moving-people-transportation-coalition"
+{
+"text": "(www.onvote.net)",
+"href": "https://www.onvote.net"
+},
+{
+"text": "0",
+"href": "https://www.electmauricebrown.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electmauricebrown.com/about"
+},
+{
+"text": "About Mo",
+"href": "https://www.electmauricebrown.com/about"
+},
+{
+"text": "CNY Playhouse",
+"href": "https://syracusenewtimes.com/42442-2/"
+},
+{
+"text": "Campaign Blog",
+"href": "https://www.electmauricebrown.com/blog"
+},
+{
+"text": "Central New York Working Families Party",
+"href": "https://www.facebook.com/centralnewyorkworkingfamilies/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mbinthegeneral"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/mbforsyracuse"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electmauricebrown.com/endorsements"
+},
+{
+"text": "FAQs",
+"href": "https://www.electmauricebrown.com/faqs"
+},
+{
+"text": "Fun FAQs",
+"href": "https://www.electmauricebrown.com/funfaqs"
+},
+{
+"text": "Funk n Waffles on Marshall Street",
+"href": "https://www.syracuse.com/news/2017/02/crowds_gather_at_the_original_funk_n_waffles_to_celebrate_its_last_day_on_marsha.html"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electmauricebrown.com/get-involved"
+},
+{
+"text": "Greater Syracuse Land Bank",
+"href": "https://syracuselandbank.org/about/#who-we-are"
+},
+{
+"text": "Home",
+"href": "https://www.electmauricebrown.com/"
+},
+{
+"text": "Invest in Our NY",
+"href": "https://www.investinourny.org/about"
+},
+{
+"text": "Learn More about our campaign here!",
+"href": "https://www.electmauricebrown.com/about"
+},
+{
+"text": "Local Voices",
+"href": "https://www.electmauricebrown.com/local-voices-supporting-maurice-brown"
+},
+{
+"text": "Moving People’s Transportation Coalition",
+"href": "https://syracuseurbanism.org/moving-people-transportation-coalition/"
+},
+{
+"text": "New York Progressive Action Network",
+"href": "https://nypan.org/"
+},
+{
+"text": "Onondaga County Democratic Committee",
+"href": "https://www.ocdemocrats.com/"
+},
+{
+"text": "Onondaga County Legislature",
+"href": "https://ongov.net/legislature"
+},
+{
+"text": "Press Clips",
+"href": "https://www.electmauricebrown.com/press-clips"
+},
+{
+"text": "Priorities",
+"href": "https://www.electmauricebrown.com/priorities"
+},
+{
+"text": "Voter Info",
+"href": "https://www.electmauricebrown.com/vote"
+},
+{
+"text": "[image: Elect Maurice Brown]",
+"href": "https://www.electmauricebrown.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/mobreezy213.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electmauricebrown"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electmauricebrown"
+},
+{
+"text": "[no text]",
+"href": "mailto:Maurice@ElectMauriceBrown.com"
+},
+{
+"text": "donate",
+"href": "https://www.electmauricebrown.com/donate"
+},
+{
+"text": "her and the rest of his family in 2017 at the Onondaga Community College Graduation",
+"href": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/466384294_10225660576558006_7892877487124722066_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=b895b5&_nc_ohc=D0f3sF-frtcQ7kNvwG1OjIM&_nc_oc=AdklRFBjxfEmFLddJGiLTTwwWBMaRVMJXwAcotoNkAS5T3Ma0PioJPDuynEyv_RuTdQ&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=W1WAyxPoxACsOEy7W_owyA&_nc_ss=8&oh=00_Afz7w1a-jMdWsSl7AWr9Zn5GFmqKcxYGxdiZrKuzeKqi4w&oe=69B2A9D8"
+},
+{
+"text": "letter calling for more fairness on the committee",
+"href": "https://www.syracuse.com/news/2025/02/do-syracuses-democratic-party-leaders-have-a-race-and-gender-blindspot.html"
+},
+{
+"text": "recognized for his football ability",
+"href": "https://gobrockport.com/news/2011/9/21/FB_0921111103.aspx?path="
+},
+{
+"text": "two tours of duty to Naval Station Guantanamo, in Cuba",
+"href": "https://nara.getarchive.net/media/sgt-maurice-brown-team-leader-3rd-platoon-423rd-051e9c"
+},
+{
+"text": "volunteer",
+"href": "https://www.electmauricebrown.com/get-involved"
+},
+{
+"text": "www.investinourny.org",
+"href": "https://www.investinourny.org/about"
+}
 ]

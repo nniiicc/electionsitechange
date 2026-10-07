@@ -1,27 +1,15 @@
-Carrie Syczylo For House District 60
-A voice for Hoosiers demanding transparency, accountability, and people over profit.
-Serving Morgan, Johnson and Monroe Counties
-What Carrie Stands For
-We are seeing an atrocity of profit and power placed over people in government at the local, state, and federal levels - a trend that is harmful to the very purpose of government and to the rights of our citizens.
+0 Skip to Content Meet Carrie Issues & Priorities Podcast Videos Support Team of Volunteers Get Involved Events Merchandise Contact DONATE Open Menu Close Menu Meet Carrie Issues & Priorities Podcast Videos Support Team of Volunteers Get Involved Events Merchandise Contact DONATE Open Menu Close Menu Meet Carrie Issues & Priorities Podcast Videos Folder: Support Back Team of Volunteers Get Involved Events Merchandise Contact DONATE Carrie Syczylo For House District 60 A voice for Hoosiers demanding transparency, accountability, and people over profit.
+Serving Morgan, Johnson and Monroe Counties Donate What Carrie Stands For We are seeing an atrocity of profit and power placed over people in government at the local, state, and federal levels - a trend that is harmful to the very purpose of government and to the rights of our citizens.
 The purpose of our government is clear: to form a more perfect union, establish justice, ensure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty for its citizens and future generations.
 I will be a voice for all Hoosiers, demanding accountability, transparency, and truth at every level of government.
-Putting Principles Into Action
-People Over Profit
-Standing against policies that place corporate interests ahead of Hoosier families, rural communities, and local resources.
-Transparency & Accountability
-Ending secret agreements and restoring open, honest government that answers to the people it serves.
-Protecting Rural Communities
-Safeguarding healthcare access, environmental resources, and local decision-making to preserve Indiana’s way of life.
-“After watching rural communities labeled as “sacrifice zones,” where decisions were made behind closed doors and profit was placed over people, I knew change had to begin with us.
-My voice will be your voice — carrying the concerns of our communities to the Statehouse and fighting to protect our shared future.”
-- Carrie Syczylo
-Fighting for Our Communities
-Carrie Syczylo is a business owner, mother, and community advocate who understands the challenges Hoosier families face because she lives them every day.
-Her priorities are rooted in real experiences — supporting rural communities, protecting local voices, and ensuring families have access to the resources they need to thrive.
-Key Issues
-Local Control & Government Transparency
-Restoring accountability and ensuring decisions are made openly, with communities — not behind closed doors.
-Rural Healthcare Access
-Supporting affordable, accessible healthcare so rural families can receive quality care close to home.
-Food Security in Rural Indiana
-Strengthening local systems to ensure families and communities have reliable access to affordable food.
+Putting Principles Into Action People Over Profit Standing against policies that place corporate interests ahead of Hoosier families, rural communities, and local resources.
+Transparency & Accountability Ending secret agreements and restoring open, honest government that answers to the people it serves.
+Protecting Rural Communities Safeguarding healthcare access, environmental resources, and local decision-making to preserve Indiana’s way of life.
+View full platform “After watching rural communities labeled as “sacrifice zones,” where decisions were made behind closed doors and profit was placed over people, I knew change had to begin with us.
+My voice will be your voice — carrying the concerns of our communities to the Statehouse and fighting to protect our shared future .” - Carrie Syczylo Fighting for Our Communities Carrie Syczylo is a business owner, mother, and community advocate who understands the challenges Hoosier families face because she lives them every day.
+Her priorities are rooted in real experiences — supporting rural communities, protecting local voices, and ensuring families have access to the resources they need to thrive .
+Key Issues Local Control & Government Transparency Restoring accountability and ensuring decisions are made openly, with communities — not behind closed doors.
+Rural Healthcare Access Supporting affordable, accessible healthcare so rural families can receive quality care close to home.
+Food Security in Rural Indiana Strengthening local systems to ensure families and communities have reliable access to affordable food.
+Meet Carrie Together, We Can Bring Accountability Back to Government get involved donate contact Keep up with campaign events Quick Links Meet Carrie Get Involved Issues & Priorities Purchase Supporting Merchandise Contact Email: carriecareshd60@yahoo.com Register to vote ©# Carrie Syczylo All rights reserved.
+Privacy Policy Terms & Conditions Site Design by Kimmy

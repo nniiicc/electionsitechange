@@ -1,7 +1,5 @@
-The Truth about “Tort Reform”
-One of the most troubling pieces of legislation this session is SB 68, colloquially known as Governor Kemp’s “Tort Reform” bill.
-A more accurate name for SB 68 might be “Limiting Victim’s Right to Her Day in Court.”
-Esteemed House legislators, Rep.
+0 Skip to Content Home News Awards and Achievements SD 36 Map About Nan Contact CONTRIBUTE Open Menu Close Menu Home News Awards and Achievements SD 36 Map About Nan Contact CONTRIBUTE Open Menu Close Menu Home News Awards and Achievements SD 36 Map About Nan Contact CONTRIBUTE The Truth about “Tort Reform” Mar 12 Written By Nan Orrock One of the most troubling pieces of legislation this session is SB 68, colloquially known as Governor Kemp’s “Tort Reform” bill.
+A more accurate name for SB 68 might be “Limiting Victim’s Right to Her Day in Court.” Esteemed House legislators, Rep.
 Tanya Miller and Rep.
 Stacey Evans, have written Gov.
 Kemp to express their views on the profoundly troubled downside of SB 68.
@@ -18,3 +16,6 @@ At best, SB 68 is fatally flawed legislation, and its proposed effects should wo
 Ordinary Georgians are disadvantaged as their access to their day in court is greatly limited.
 Insurance companies are the only ones who will stand to gain from this bill’s passage.
 Representatives Tanya Miller and Stacey Evans also wrote a letter addressing Governor Kemp.
+Nan Orrock Previous Previous Celebrating Atlanta’s 58th Mayor Next Next Kellogg’s Worker’s Strike: No Concessions, Only Gains Capitol Office State Capitol Suite 420-B Atlanta, GA 30334 Phone: (404) 463-8054 Nan for Senate 2022 16 Lenox Pointe NE Atlanta, GA 30324 District Information 1070 Delaware Avenue SE Atlanta, GA 30316 Approved and Paid for by Nan for Senate.
+16 Lenox Pointe NE Atlanta, GA 30324.
+No government funds were used.

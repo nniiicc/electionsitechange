@@ -1,5 +1,7 @@
-Education
-I am a product of Hamilton County Schools as are my children.
-My wife is a public school teacher, and almost every night we have a conversation about how we can help improve public school education.
-My wife and I know that the greatest schools are the schools where parents are engaged and involved in their child’s success.
+Skip to content Home About Issues Volunteer News Home About Issues Volunteer News DONATE Home About Issues Volunteer News Home About Issues Volunteer News DONATE Home About Issues Volunteer News Home About Issues Volunteer News DONATE DONATE Issues The Facts On Greg Taxes Public Safety Education School Safety Immigration Education I am a product of Hamilton County Schools as are my children.
+My wife is a public school teacher , and almost every night we have a conversation about how we can help improve public school education.
+My wife and I know that the greatest schools are the schools where parents are engaged and involved in their child’s success .
 This past year, I supported and voted for legislation that brought the largest salary increase for teachers in our state’s history, directly impacting 7,588 teachers and raising the minimum salary from $28,000 to $50,000 by school year 2026-2027 — which will move Tennessee into the Top 10 states with the highest paid teachers.
+Join Team Greg Martin Volunteer Join Team Greg Martin Volunteer The Facts on Greg Taxes Public Safety School Safety Immigration Education Home About Issues Volunteer News Home About Issues Volunteer News Home About Issues Volunteer News Home About Issues Volunteer News Contact: info@ElectGregMartin.com (423) 596-7338 © Copyright # Committee to Elect Greg Martin.
+All rights reserved.
+The Committee to Elect Greg Martin | Fred Decosimo, Treasurer Facebook Instagram X-twitter Youtube Home About Issues Volunteer News Home About Issues Volunteer News DONATE Facebook Instagram X-twitter Youtube Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

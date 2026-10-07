@@ -1,2 +1,1 @@
-Andrea Zupancich for MN Senate District 3
-Donate
+Andrea Zupancich for MN Senate District 3 Donate

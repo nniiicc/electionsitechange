@@ -1,6 +1,4 @@
-PRIORITIES • Fight Corruption • Policy to
-End Big Pharma Price Gouging
-Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Fight Corruption • Policy to End Big Pharma Price Gouging Why I believe this — and how I’ll fight for it.
 I learned what a broken drug market does to a family by watching it nearly destroy mine.
 When I was a junior in college, my father — an immigrant and a disabled veteran — almost died.
 A priest read him his last rites.
@@ -35,8 +33,7 @@ Every other wealthy nation refuses to let its people be gouged for the medicine 
 Get the money out of the way, and we can do the same.
 No family should ever again have to cut a pill in half, or wait until they’re 20 to meet their own father.
 That future is a choice we’re one honest Congress away from making.
-Here’s what I’ll do — and why
-Let Medicare — and all of us — negotiate as one.
+Here’s what I’ll do — and why Let Medicare — and all of us — negotiate as one.
 Every other wealthy country negotiates drug prices as a single big buyer and pays a fraction of what we do.
 There’s no reason America, the biggest customer on earth, should pay the most.
 I’d expand Medicare’s power to negotiate the price of every drug, not just a handful, and tie what we pay to what other wealthy nations pay.
@@ -45,7 +42,7 @@ Make generic drugs free — and still reward real breakthroughs.
 Generics are old, proven, and cost pennies to make.
 No American should pay out of pocket for them, so I’d make them free — and as the nation’s largest buyer, we’d push the cost of producing them down even further.
 Brand-new and experimental drugs can still command a price; that’s how we fund the next cure.
-But the everyday medicine that keeps millions alive shouldn’t cost a dime, and it doesn’t have to.
+But the everyday medicine that keeps millions alive shouldn’t cost a dime , and it doesn’t have to.
 End the patent games that keep prices high.
 Drug companies game the patent system to block cheaper competitors for decades — “evergreening” a drug with tiny tweaks to stretch a monopoly out forever.
 I’d close those loopholes so that the moment a drug’s fair patent ends, real competition and real price drops can finally begin.
@@ -58,16 +55,13 @@ Bring the medicine — and the jobs — home.
 Too much of America’s drug and medical manufacturing has moved overseas, leaving us dependent on foreign supply chains for medicine our lives depend on.
 That’s a national-security risk and a jobs loss in one.
 I’d bring pharmaceutical and medical manufacturing back home — stable, good-paying jobs that can’t be automated away, and a supply chain we actually control.
-What this means for Our District
-Our own congressman has taken more than $400,000 from the drug industry over his career — the same industry gouging your family at the counter and paying almost nothing in taxes for the privilege.
+What this means for Our District Our own congressman has taken more than $400,000 from the drug industry over his career — the same industry gouging your family at the counter and paying almost nothing in taxes for the privilege.
 That’s the loop up close: they fund the politician, the politician protects the prices.
 I won’t take a dime of it.
 When your medicine costs this much, you deserve a representative the drug companies didn’t pay for.
-The bottom line
-No family should go into debt — or go without — to afford the medicine that keeps them alive.
+The bottom line No family should go into debt — or go without — to afford the medicine that keeps them alive.
 We can reward the people who cure diseases and still refuse to let anyone be priced out of staying healthy; every other wealthy country already does.
-Picture an America where a diagnosis isn’t a financial death sentence, where your parents can afford the medicine that keeps them here, where the miracles of modern medicine actually reach the people they were made for.
+Picture an America where a diagnosis isn’t a financial death sentence , where your parents can afford the medicine that keeps them here, where the miracles of modern medicine actually reach the people they were made for.
 Every bit of that is overdue, and it’s within reach.
-SOURCES
-- U.S. drug prices vs. other wealthy countries (~2.8× overall; ~4× for brand-name drugs): HHS/ASPE–RAND — International Prescription Drug Price Comparisons (2022 data) · RAND research summary
-- Contributions to Thompson from drug-industry PACs: FEC — Mike Thompson for Congress, Committee C00326363
+All Policies Next Policy Return to Top SOURCES U.S. drug prices vs. other wealthy countries (~2.8× overall; ~4× for brand-name drugs): HHS/ASPE–RAND — International Prescription Drug Price Comparisons (2022 data) · RAND research summary Contributions to Thompson from drug-industry PACs: FEC — Mike Thompson for Congress, Committee C00326363 Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+No corporate PAC or special interest money accepted.

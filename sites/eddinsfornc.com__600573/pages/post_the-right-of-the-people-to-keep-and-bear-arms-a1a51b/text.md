@@ -1,7 +1,5 @@
-The Right of the People to Keep and Bear Arms
-"The Constitution shall never be construed to prevent the people of the United States who are peaceable citizens from keeping their own arms."
-—Samuel Adams
-Hello, my fellow citizens of the 94th district.
+top of page HOME MEET BLAIR ISSUES NEWS GET INVOLVED More Use tab to navigate through the menu items.
+DONATE The Right of the People to Keep and Bear Arms Blair Eddins Jan 10, 2024 3 min read "The Constitution shall never be construed to prevent the people of the United States who are peaceable citizens from keeping their own arms." —Samuel Adams Hello, my fellow citizens of the 94th district.
 I hope this message finds you well and that you all had a great holiday season with friends and family.
 Today, I want to discuss a constitutional right important to us all—the right to keep and bear arms.
 In addition to the Second Amendment to the U.S.
@@ -34,6 +32,5 @@ However, I can't do it alone.
 I need your support, your voice, and your vote.
 Let's come together, united in our mission to safeguard our cherished right to keep and bear arms, not only for ourselves but also for our children and future generations.
 Together, we can ensure that our right to keep and bear arms remains an enduring and unassailable part of our American identity.
-Sincerely,
-Blair Eddins
-To donate to Eddins for NC, go to https://www.eddinsfornc.com
+Sincerely, Blair Eddins To donate to Eddins for NC, go to https://www.eddinsfornc.com Donate Now Recent Posts See All Blair Eddins Files for Re‑Election to Represent North Carolina House District 94 Blair Eddins to be Sworn In as NC State Representative Eddins Picked by District Republicans to Replace Elmore Paid for by Eddins for NC P.O.
+Box 1133 Wilkesboro, NC 28697 HOME MEET BLAIR ISSUES NEWS GET INVOLVED More Use tab to navigate through the menu items. bottom of page

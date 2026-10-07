@@ -1,8 +1,26 @@
 [
-"http://williamgannon.net/contact",
-"https://williamgannon.net/donate.html",
-"https://williamgannon.net/gannon-for-senate.html",
-"https://williamgannon.net/issues.html",
-"https://williamgannon.net/join-the-team.html",
-"https://williamgannon.net/meet-bill.html"
+{
+"text": "Contact Us",
+"href": "http://www.williamgannon.net/contact"
+},
+{
+"text": "Donate",
+"href": "https://williamgannon.net/donate.html"
+},
+{
+"text": "Issues & Record",
+"href": "https://williamgannon.net/issues.html"
+},
+{
+"text": "Join The Team",
+"href": "https://williamgannon.net/join-the-team.html"
+},
+{
+"text": "Meet Bill",
+"href": "https://williamgannon.net/meet-bill.html"
+},
+{
+"text": "Vote for Bill",
+"href": "https://williamgannon.net/gannon-for-senate.html"
+}
 ]

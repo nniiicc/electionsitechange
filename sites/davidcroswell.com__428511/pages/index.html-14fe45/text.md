@@ -1,10 +1,10 @@
-Lower daily costs.
-Reduce the cost of living by cutting wasteful spending, lowering unnecessary burdens on small businesses, and pursuing targeted tax relief on basic necessities.
-Diamond Head to Hawaiʻi Kai
+David A.
+Croswell State Senate District 9 Diamond Head to Hawaiʻi Kai Meet David Priorities Podcasts Donate Volunteer Contact Diamond Head to Hawaiʻi Kai David A.
+Croswell for State Senate.
 Anchored in faith, family, and freedom.
 Focused on affordability, accountability, and a stronger future for Hawaiʻi families.
 Bringing a practical, accountable, and fresh voice to Senate District 9 — one rooted in faith, family, small business experience, and a desire to make Hawaiʻi a place where local families can thrive again.
-Why I’m running
+Donate Volunteer Listen to podcasts Read the plan Watch a short message from David Why I’m running Hawaiʻi should be a place where local families can stay.
 I’m a husband, father of three, and small business owner here in Hawaiʻi.
 My family is one of the main reasons I’m running.
 I want my children — and all our children — to have a real future here, a future rooted in purpose and opportunity.
@@ -16,24 +16,18 @@ They understood the importance of representation, debate, checks and balances, a
 For me, that means defending First Amendment freedoms, even when speech or beliefs are unpopular or uncomfortable; respecting the Second Amendment rights of law-abiding citizens to protect themselves and their families; strengthening families; limiting government overreach; and preserving the constitutional republic our Founders established.
 Ultimately, I am not asking people to vote based on a party label.
 I am asking them to look at the issues, look at the results, and decide whether Hawaiʻi needs a different voice at the Capitol.
-At a glance
-Before diving into the platform, here is the foundation: lower costs, stronger accountability, and policies that help local families build a future here in Hawaiʻi.
-Read the detailed priorities
+At a glance Campaign Focus Before diving into the platform, here is the foundation: lower costs, stronger accountability, and policies that help local families build a future here in Hawaiʻi.
+Read the detailed priorities Affordability Lower daily costs.
+Reduce the cost of living by cutting wasteful spending, lowering unnecessary burdens on small businesses, and pursuing targeted tax relief on basic necessities.
+Accountability No fiscal note, no vote.
 Require greater transparency, stronger oversight, and clearer fiscal responsibility from our government.
 Taxpayers should know what major legislation costs, who pays for it, and how results will be measured.
+Faith, Family & Freedom Keep local families rooted here.
 Protect constitutional rights, respect parents, and support policies that create safer neighborhoods, stronger schools, and more opportunities for families to stay and thrive in Hawaiʻi.
-The choice
+The choice Accountability at the Capitol.
 After years of one-party control, Hawaiʻi is still too expensive, housing is still out of reach, families are still leaving, and government still passes major bills without clear cost estimates.
-More of the same
-A better direction
-Bigger budgets without clear results
-Fiscal notes and measurable outcomes
-Housing promises without enough homes
-Faster permitting and real accountability
-More taxes and fees
-Targeted relief on necessities
-One-party rubber stamps
-Balance, oversight, and transparency
-Contact
+More of the same A better direction Bigger budgets without clear results Fiscal notes and measurable outcomes Housing promises without enough homes Faster permitting and real accountability More taxes and fees Targeted relief on necessities One-party rubber stamps Balance, oversight, and transparency Contact Have a question or want to help?
 Send a note to the campaign and we’ll follow up.
-To contribute, use the secure Anedot donation link.
+To contribute, use the secure Anedot donation link .
+Name Email Phone optional Message Website Send message © # Friends of David Croswell Paid for by Friends of David Croswell | 4819 Kilauea Ave.
+#7, Honolulu, HI 96816 Hawaii Campaign Policy Compliant

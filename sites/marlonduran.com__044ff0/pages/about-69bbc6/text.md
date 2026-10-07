@@ -1,5 +1,5 @@
-Marlón’s Story
-Like many in the Valley I was born in Mexico.
+Skip to content Marlon’s Story Video Issues Anti-AIPAC Donate!
+Marlón’s Story Like many in the Valley I was born in Mexico.
 My mom has Mexican heritage but was a natural-born US citizen.
 She left America as a teenager, to live with her abuela back in Zacatecas.
 My father was a legal US resident.
@@ -31,5 +31,8 @@ I’ve organized with the Dreamers, the UTRGV Minority Affairs Council, repro ri
 I was a leader with Occupy Wall St / Occupy McAllen at Archer Park.
 This year I’ve organized several anti-ICE protests.
 I’ve also worked as a paid translator at community meetings and political events, helping our people gain a voice.
-Now, I am running for Congress to be a voice for the people of my district.
-¡Cuellar, escucha, estamos en la lucha!
+Now, I am running for Congress to be a voice for the people of my district. ¡Cuellar, escucha, estamos en la lucha!
+Reach out to the Campaign! ← Back Thank you for your response. ✨ Name (required) Email (required) Message Contact us Δ Follow Marlón on social media: Instagram Facebook TikTok X Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website Marlon Duran For Congress!
+Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

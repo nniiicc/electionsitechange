@@ -1,12 +1,46 @@
 [
-"https://electlorilove.com/",
-"https://electlorilove.com/About-me",
-"https://electlorilove.com/Contact-Me",
-"https://electlorilove.com/Contribute",
-"https://electlorilove.com/Election-Information",
-"https://electlorilove.com/Events",
-"https://healthinsurance.org/medicaid/tennessee",
-"https://newschannel9.com/news/local/rural-hospital-closures-across-tennessee-leave-a-generation-in-need-of-care",
-"https://secure.actblue.com/donate/elect-lori-love-2024",
-"https://tennesseestands.org/commentary/a-republican-created-medical-monopoly-in-east-tennessee"
+{
+"text": "About me",
+"href": "https://electlorilove.com/About-me/"
+},
+{
+"text": "Contact me",
+"href": "https://electlorilove.com/Contact-Me/"
+},
+{
+"text": "Contribute",
+"href": "https://electlorilove.com/Contribute/"
+},
+{
+"text": "ElectLoriLove@gmail.com",
+"href": "mailto:info@site.info"
+},
+{
+"text": "Election Information",
+"href": "https://electlorilove.com/Election-Information/"
+},
+{
+"text": "Events",
+"href": "https://electlorilove.com/Events/"
+},
+{
+"text": "Home",
+"href": "https://electlorilove.com/"
+},
+{
+"text": "Rural hospital closures across Tennessee leave a generation in need of care",
+"href": "https://newschannel9.com/news/local/rural-hospital-closures-across-tennessee-leave-a-generation-in-need-of-care"
+},
+{
+"text": "The number of additional Tennessee residents who could be covered if the state accepted expansion is 339,000.",
+"href": "https://www.healthinsurance.org/medicaid/tennessee/#:~:text=Tennessee%20has%20not%20expanded%20Medicaid%20under%20the%20ACA%2C,by%20more%20than%20300%2C000%20over%20the%20coming%20year."
+},
+{
+"text": "We have a Republican-created medical monopoly in East Tennessee",
+"href": "https://tennesseestands.org/commentary/a-republican-created-medical-monopoly-in-east-tennessee/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/elect-lori-love-2024"
+}
 ]

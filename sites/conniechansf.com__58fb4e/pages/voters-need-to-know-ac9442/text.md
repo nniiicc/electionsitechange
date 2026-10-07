@@ -1,6 +1,4 @@
-What Voters need to know
-Updated 10/3/26
-Voters in CA-11, particularly Democratic and Decline to State women, Latino, and API voters district wide, need to read, see and see-on-the-go that Scott Wiener is bankrolled by Big Tech and AI corporations.
+Skip navigation menu Meet Connie Working People's Plan Get Involved Endorsements News Media Merch Store 關於陳詩敏 Español Donate Meet Connie Working People's Plan Get Involved Endorsements News Media Merch Store 關於陳詩敏 Español Donate What Voters need to know Updated 10/3/26 Voters in CA-11, particularly Democratic and Decline to State women, Latino, and API voters district wide, need to read, see and see-on-the-go that Scott Wiener is bankrolled by Big Tech and AI corporations.
 More than $500,000 in AI industry money is supporting his campaign, and he let AI corporations weaken his AI laws.
 He supports massive data centers and attacked Connie Chan with a chatbot.
 We can't trust a politician bankrolled by AI to write the rules.
@@ -10,3 +8,5 @@ She supports smart rules that center workers and families, not the wishes of AI 
 She says we need to build housing, not data centers, backing a national moratorium on the data centers that are jacking up our utility bills and hurting our environment.
 Democratic voters in Supervisorial Districts 5 and 9 need to read and see that Scott Wiener met with the right-wing Israeli President while that nation was invading Gaza, opposed San Francisco's 2024 ceasefire resolution, and only condemned the genocide in Gaza after he was booed at a congressional forum.
 Scott Wiener failed the test of moral leadership.
+Privacy Policy campaign@conniechansf.com Connie Chan for Congress Office: 3043 24th St, San Francisco, CA 94110 Mailing: 912 Cole St #368, San Francisco, CA 94117 Privacy Policy & Terms of Service Connie Chan for Congress will not take money from corporate PACs, AIPAC or its lobbyists and representatives, the NRA or lobbyists and executives from pharma, PG&E, fossil fuel or tobacco companies.
+Paid for by Connie Chan for Congress You need to enable JavaScript to run this app.

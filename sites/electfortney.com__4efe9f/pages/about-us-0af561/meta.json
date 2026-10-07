@@ -1,9 +1,13 @@
 {
  "description": "Jeff Fortney",
  "final_url": "https://electfortney.com/about-us/",
- "paid_for_by": "Paid for by &quot;ELECTFORTNEY Authorized by Jeff Fortney",
+ "fingerprint": "ee6bebe6bd165b5867b51e8bdb6107a67b1dd8f1",
+ "format": 3,
+ "paid_for_by": "Paid for by \"ELECTFORTNEY Authorized by Jeff Fortney",
  "title": "About Me | Jeff Fortney",
  "years_mentioned": [
+  "1999",
+  "2004",
   "2020",
   "2024"
  ]

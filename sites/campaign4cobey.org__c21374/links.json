@@ -1,5 +1,22 @@
 [
-"https://campaign4cobey.org/?privacy=true",
-"https://campaign4cobey.org/?sms-terms=true",
-"https://goodparty.org/"
+{
+"text": "(541) 698-1139",
+"href": "tel:+15416981139"
+},
+{
+"text": "GoodParty.org",
+"href": "https://goodparty.org"
+},
+{
+"text": "Privacy Policy",
+"href": "https://campaign4cobey.org/?privacy=true"
+},
+{
+"text": "SMS Terms",
+"href": "https://campaign4cobey.org/?sms-terms=true"
+},
+{
+"text": "gieslercobey@gmail.com",
+"href": "mailto:gieslercobey@gmail.com"
+}
 ]

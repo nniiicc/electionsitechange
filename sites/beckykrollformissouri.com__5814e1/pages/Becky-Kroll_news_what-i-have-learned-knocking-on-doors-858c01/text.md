@@ -1,4 +1,4 @@
-When I decided to run for office, I knew House District 59 was considered a very Republican district.
+About Becky Issues Get Involved Events Updates Donate Now Home About Becky Issues Get Involved Events Updates Donate Now August 1, 2026 What I have learned Knocking on Doors When I decided to run for office, I knew House District 59 was considered a very Republican district.
 I also knew that if I wanted to represent this district, I couldn't just look at election results and assume I knew what the people who live here think.
 So I started knocking on doors.
 And I have learned a lot.
@@ -28,5 +28,5 @@ Sometimes someone makes me think about an issue differently.
 And sometimes we start a conversation believing we're miles apart only to discover we're a lot closer than either of us expected.
 There are thousands more doors to knock before November, and I intend to keep showing up.
 Because you can't represent people you never bother to meet.
-And if there is one thing knocking on doors has taught me, it's this:
-House District 59 is a lot more complicated, a lot less divided, and a lot more hopeful than a red or blue map could ever show you.
+And if there is one thing knocking on doors has taught me, it's this: House District 59 is a lot more complicated, a lot less divided, and a lot more hopeful than a red or blue map could ever show you.
+Support Becky Kroll’s Campaign for Missouri Donate Now Becky Kroll For Missouri 1603 Kroll Road, Lohman, Mo 65053 tel:573-690-3431 | becky@beckykrollformissouri.com Melba Price, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

@@ -1,2 +1,3 @@
-Jessi Cowart Announces Candidacy for Texas House of Representatives
-Offers Fiscal Sense and Human Compassion for House District 15 Oak Ridge North, TX – Jessi Cowart, currently serving as Vice Chair of the Libertarian Party of Texas, recently announced […]
+Skip to content Home About Issues Events Media Contact Home About Issues Events Media Contact Donate Now Day: November 8, 2025 Jessi Cowart Announces Candidacy for Texas House of Representatives Offers Fiscal Sense and Human Compassion for House District 15 Oak Ridge North, TX – Jessi Cowart, currently serving as Vice Chair of the Libertarian Party of Texas, recently announced […] Jessi Cowart, Vice Chair of the Libertarian Party of Texas, is a lifelong Montgomery County resident running for House District 15.
+She stands for fiscal sense, human compassion, and individual liberty.
+Explore Home About Us Issues Events Media Contact Contact Info info@cowartfortexas.com Facebook-f Instagram X-twitter © # All rights reserved.

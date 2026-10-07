@@ -1,23 +1,134 @@
 [
-"https://facebook.com/BobPetersonOH",
-"https://peterson.revv.co/support",
-"https://petersonforohio.com/",
-"https://petersonforohio.com/about",
-"https://petersonforohio.com/connect",
-"https://petersonforohio.com/issues",
-"https://petersonforohio.com/news",
-"https://petersonforohio.com/news/2018/6/1/news-title-1",
-"https://petersonforohio.com/news/2018/6/1/news-title-2",
-"https://petersonforohio.com/news/2018/8/9/celebrating-patriotism-for-our-great-nation-on-independence-day",
-"https://petersonforohio.com/news/2018/8/9/gahs-student-attends-arc-program",
-"https://petersonforohio.com/news/2018/8/9/new-efforts-to-keep-our-students-safe",
-"https://petersonforohio.com/news/2018/8/9/ohio-state-fair-photo-highlights",
-"https://petersonforohio.com/news/2018/8/9/peterson-applauds-workers-compensation-rebates-to-local-job-creators",
-"https://petersonforohio.com/news/2018/8/9/peterson-promotes-savings-on-back-to-school-shopping-expenses",
-"https://petersonforohio.com/news/2018/8/9/peterson-urges-congress-to-boost-economic-development-in-appalachian-regions-of-ohio",
-"https://petersonforohio.com/news/2018/8/9/peterson-votes-to-cut-burdensome-regulations-by-30-percent-over-three-years",
-"https://petersonforohio.com/news/2018/8/9/seyfang-honored-for-state-discus-title",
-"https://petersonforohio.com/news?author=60033bf63e592d07ac316bab",
-"https://petersonforohio.com/search",
-"https://petersonforohio.com/terms-policies"
+{
+"text": "About",
+"href": "https://www.petersonforohio.com/about"
+},
+{
+"text": "Celebrating Patriotism for Our Great Nation On Independence Day",
+"href": "https://www.petersonforohio.com/news/2018/8/9/celebrating-patriotism-for-our-great-nation-on-independence-day"
+},
+{
+"text": "Connect",
+"href": "https://www.petersonforohio.com/connect"
+},
+{
+"text": "Donate",
+"href": "https://peterson.revv.co/support"
+},
+{
+"text": "GAHS student attends ARC program",
+"href": "https://www.petersonforohio.com/news/2018/8/9/gahs-student-attends-arc-program"
+},
+{
+"text": "Guest User",
+"href": "https://www.petersonforohio.com/news?author=60033bf63e592d07ac316bab"
+},
+{
+"text": "Home",
+"href": "https://www.petersonforohio.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.petersonforohio.com/issues"
+},
+{
+"text": "New Efforts to Keep Our Students Safe",
+"href": "https://www.petersonforohio.com/news/2018/8/9/new-efforts-to-keep-our-students-safe"
+},
+{
+"text": "News",
+"href": "https://www.petersonforohio.com/news"
+},
+{
+"text": "Ohio State Fair photo highlights",
+"href": "https://www.petersonforohio.com/news/2018/8/9/ohio-state-fair-photo-highlights"
+},
+{
+"text": "Peterson Announces 2019 Ohio History Fund Grant Opportunity",
+"href": "https://www.petersonforohio.com/news/2018/6/1/news-title-1"
+},
+{
+"text": "Peterson Applauds Workers' Compensation Rebates to Local Job Creators",
+"href": "https://www.petersonforohio.com/news/2018/8/9/peterson-applauds-workers-compensation-rebates-to-local-job-creators"
+},
+{
+"text": "Peterson Urges Congress to Boost Economic Development in Appalachian Regions of Ohio",
+"href": "https://www.petersonforohio.com/news/2018/8/9/peterson-urges-congress-to-boost-economic-development-in-appalachian-regions-of-ohio"
+},
+{
+"text": "Peterson Votes to Cut Burdensome Regulations by 30 Percent Over Three Years",
+"href": "https://www.petersonforohio.com/news/2018/8/9/peterson-votes-to-cut-burdensome-regulations-by-30-percent-over-three-years"
+},
+{
+"text": "Peterson promotes savings on back-to-school shopping expenses",
+"href": "https://www.petersonforohio.com/news/2018/8/9/peterson-promotes-savings-on-back-to-school-shopping-expenses"
+},
+{
+"text": "Privacy",
+"href": "https://www.petersonforohio.com/terms-policies"
+},
+{
+"text": "Republican Party Family Picnic Aug. 12 at VFW",
+"href": "https://www.petersonforohio.com/news/2018/6/1/news-title-2"
+},
+{
+"text": "Seyfang honored for state discus title",
+"href": "https://www.petersonforohio.com/news/2018/8/9/seyfang-honored-for-state-discus-title"
+},
+{
+"text": "[image: Bob Peterson]",
+"href": "https://www.petersonforohio.com/"
+},
+{
+"text": "[image: Celebrating Patriotism for Our Great Nation On Independence Day]",
+"href": "https://www.petersonforohio.com/news/2018/8/9/celebrating-patriotism-for-our-great-nation-on-independence-day"
+},
+{
+"text": "[image: GAHS student attends ARC program]",
+"href": "https://www.petersonforohio.com/news/2018/8/9/gahs-student-attends-arc-program"
+},
+{
+"text": "[image: New Efforts to Keep Our Students Safe]",
+"href": "https://www.petersonforohio.com/news/2018/8/9/new-efforts-to-keep-our-students-safe"
+},
+{
+"text": "[image: Ohio State Fair photo highlights]",
+"href": "https://www.petersonforohio.com/news/2018/8/9/ohio-state-fair-photo-highlights"
+},
+{
+"text": "[image: Peterson Announces 2019 Ohio History Fund Grant Opportunity]",
+"href": "https://www.petersonforohio.com/news/2018/6/1/news-title-1"
+},
+{
+"text": "[image: Peterson Applauds Workers' Compensation Rebates to Local Job Creators]",
+"href": "https://www.petersonforohio.com/news/2018/8/9/peterson-applauds-workers-compensation-rebates-to-local-job-creators"
+},
+{
+"text": "[image: Peterson Urges Congress to Boost Economic Development in Appalachian Regions of Ohio]",
+"href": "https://www.petersonforohio.com/news/2018/8/9/peterson-urges-congress-to-boost-economic-development-in-appalachian-regions-of-ohio"
+},
+{
+"text": "[image: Peterson Votes to Cut Burdensome Regulations by 30 Percent Over Three Years]",
+"href": "https://www.petersonforohio.com/news/2018/8/9/peterson-votes-to-cut-burdensome-regulations-by-30-percent-over-three-years"
+},
+{
+"text": "[image: Peterson promotes savings on back-to-school shopping expenses]",
+"href": "https://www.petersonforohio.com/news/2018/8/9/peterson-promotes-savings-on-back-to-school-shopping-expenses"
+},
+{
+"text": "[image: Republican Party Family Picnic Aug. 12 at VFW]",
+"href": "https://www.petersonforohio.com/news/2018/6/1/news-title-2"
+},
+{
+"text": "[image: Seyfang honored for state discus title]",
+"href": "https://www.petersonforohio.com/news/2018/8/9/seyfang-honored-for-state-discus-title"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BobPetersonOH"
+},
+{
+"text": "[no text]",
+"href": "https://www.petersonforohio.com/search"
+}
 ]

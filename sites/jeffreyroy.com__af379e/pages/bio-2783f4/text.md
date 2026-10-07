@@ -1,24 +1,14 @@
-State Representative Jeffrey N.
+Skip to content Home Bio Contact Endorsements/Testimonials In the news Nuclear power a clean energy option?
+Newsletter Opioid Coalition Photos/Video Priorities Economy and Jobs Education Civility in Government Strategic planning Speeches A farm story – Six Pillars 2006 Adaptation to Life – Bates College Class Speech (1983) Americans look out for one another – graduation 2010 Arts Advocacy Day in Franklin Creativity, civility and responsibility – graduation 2011 Floor remarks on Healthcare reform Franklin Memorial Day Ceremony – 2014 Genocide Education Act – 2021 HMMS All In Reading and Veteran’s Day Event – 2014 Horace Mann dedication remarks Library dedications Maiden speech on H1566 – online legal notices Manufacturing Roundtable at Worcester Regional Chamber of Commerce Medway High Civics Day Remarks Next-generation roadmap for Massachusetts climate policy Offshore wind and clean energy act Pay it forward – Six Pillar Induction Remarks on Step therapy and patient safety Tear down some more walls – Graduation 2008 The Pluto Class – Graduation 2007 What are you doing for justice? – Six Pillars 2010 State House Tours Blog posts Donate Bio State Representative Jeffrey N.
 Roy was first elected to the Massachusetts House of Representatives for the 10th Norfolk District in 2012 and represents the residents of Franklin and Medway.
 He was promoted to Second Division Chair in February 2025.
 As Second Division Chair, Representative Roy is responsible for reviewing the House schedule and informing representatives in his division of important matters.
 He also acts as a liaison between the members of his division and the House Speaker.
 From 2021 to 2025, he served as Chairperson of the Joint Committee on Telecommunications, Utilities & Energy and was responsible for three major pieces of climate and energy legilsation.
 He previously served as Chair of the Joint Committee on Higher Education and as Acting Chair of the Joint Committee on Health Care Finance.
-He is the House-Chair of the Manufacturing Caucus, which promotes and encourages “Making It” in Massachusetts.
+He is the House-Chair of the Manufacturing Caucus, which promotes and encourages “Making It” in Massachusetts .
 Since 2013 Jeff has been part of a legislative team that has addressed the issues of education, economic development, the coronavirus pandemic, health care, substance use disorder, criminal justice, civil rights and social equity, gun safety, energy, and the environment.
-In addition, he led efforts to:
-- Draft and pass an act promoting a clean energy grid, advancing equity and protecting ratepayers ;
-- Draft and pass an act to prevent online abuse and exploitation;
-- Draft and pass an act driving clean energy and offshore wind bill in 2022;
-- Draft and pass an act concerning step therapy and patient safety;
-- Draft and pass the Genocide Education Act;
-- Finalize an act creating a next-generation roadmap for Massachusetts climate policy in 2021;
-- Draft and pass an act relative to sexual violence on higher education campuses;
-- Draft and pass legislation increasing transparency and financial reporting requirements for higher education institutions;
-- Draft and pass legislation that increased transparency and civic engagement by creating a searchable online database of legal notices;
-- Pass legislation lowering thresholds on specialty license plates, making them available to smaller charities and causes; and
-- Pass legislation to create a Regional Dispatch Center for Franklin, Norfolk, Wrentham, and Plainville.
+In addition, he led efforts to: Draft and pass an act promoting a clean energy grid, advancing equity and protecting ratepayers ; Draft and pass an act to prevent online abuse and exploitation ; Draft and pass an act driving clean energy and offshore wind bill in 2022; Draft and pass an act concerning step therapy and patient safety ; Draft and pass the Genocide Education Act ; Finalize an act creating a next-generation roadmap for Massachusetts climate policy in 2021; Draft and pass an act relative to sexual violence on higher education campuses ; Draft and pass legislation increasing transparency and financial reporting requirements for higher education institutions ; Draft and pass legislation that increased transparency and civic engagement by creating a searchable online database of legal notices ; Pass legislation lowering thresholds on specialty license plates, making them available to smaller charities and causes; and Pass legislation to create a Regional Dispatch Center for Franklin, Norfolk, Wrentham, and Plainville .
 In 2011, he was elected to the Town Council in the Franklin, Massachusetts.
 In January 2012, he was selected to chair the town’s Master Plan Committee.
 Prior to that, he served on the School Committee, and served as its Chairperson for 9 of his 10 years of service with that board.
@@ -32,16 +22,27 @@ He received his undergraduate degree from Bates College in Lewiston, Maine in 19
 In addition, he received engineering training at Worcester Polytechnic Institute from 1979 to 1981 and one year of legal training at DePaul University in Chicago, Illinois.
 He participated in a judicial clerkship in 1985-86 with the Honorable Francis J.
 Larkin on the Appellate Division of the District Court, Western Division.
-He is 21-year rider in the annual Pan Mass Challenge event which raises money for the Jimmy Fund.
-He is also a guitar player and member of the band Ben Gardner’s Boat.
-His original music is available online and you will find it by clicking here.
+He is 21-year rider in the annual Pan Mass Challenge event which raises money for the Jimmy Fund .
+He is also a guitar player and member of the band Ben Gardner’s Boat .
+His original music is available online and you will find it by clicking here .
 Weekly, Jeff joins Peter Fasciano, Dr.
 Michael Walker Jones, and other guests in a round-table discussion on current events and American politics, called A More Perfect Union.
-You can listen to the podcasts at https://www.audible.com/pd/Podcast/B08K56HXDX.
+You can listen to the podcasts at https://www.audible.com/pd/Podcast/B08K56HXDX .
 He was honored to be chosen as the 2019 Legislator of the Year award by the Massachusetts Academy of Trial Attorneys.
-He is a member of the American Association for Justice (AAJ) and the Massachusetts Bar Association.
-He also serves on the Board of Incorporators for the Hockomock Area YMCA and the Milford Regional Medical Center.
+He is a member of the American Association for Justice (AAJ) and the Massachusetts Bar Association .
+He also serves on the Board of Incorporators for the Hockomock Area YMCA and the Milford Regional Medical Center .
 Other memberships include the College Club and Alumni-in-Admissions for Bates College.
 His honors and awards include the St.
 Thomas More Society of Worcester Scholarship and the American Jurisprudence Award for Constitutional Law.
-You can view his State House page by clicking here.
+You can view his State House page by clicking here .
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Like Loading...
+2 Responses to Bio Mike M says: November 7, 2011 at 9:03 am Great site Jeff.
+Best of luck tomorrow at the polls !!
+Reply Chris M says: November 9, 2011 at 12:17 am Congratulations!
+Reply Leave a comment Cancel reply Δ Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
+Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?
+Log in now. jeffreyroy.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

@@ -1,24 +1,7 @@
-Join Kim Berfields’s campaign for house of representatives and join our growing team of supporters across District 58!
+Meet Kim Issues Accomplishments Join Kim’s Krewe Endorsements Precincts Meet Kim Issues Accomplishments Join Kim’s Krewe Endorsements Precincts A Proven Record Join Kim Berfields’s campaign for house of representatives and join our growing team of supporters across District 58!
 Fill out your information below, and we’ll be in touch shortly.
-10 out of 70 results
-- 2024
-- Regular Session
-- Co-Sponsor
-- Passed
-- 2024
-- Regular Session
-- Co-Sponsor
-- Companion Bill passed, refer to CS/SB 1746
-- 2024
-- Regular Session
-- Co-Sponsor
-- Companion Bill passed, refer to CS/CS/SB 1758
-- 2024
-- Regular Session
-- Co-Sponsor
-- Companion Bill passed, refer to SB 832
-- 2024
-- Regular Session
-- Co-Sponsor
-- Companion Bill passed, refer to CS/CS/SB 770
-There are no results matching your search Reset filters?
+Search Bills Filter results {{ activeFilterCount }} Clear Search Reset Session 2023 2024 Session Type Regular Session Special Session Sponsor Co-Sponsor First name Sponsor Status Adopted by Publication|Companion Passed|Passed Companion Passed Died Passed Reset 10 out of 70 results Sickle Cell Disease 2024 Regular Session Co-Sponsor Passed Public Employees 2024 Regular Session Co-Sponsor Companion Bill passed, refer to CS/SB 1746 Digital Voyeurism 2024 Regular Session Co-Sponsor Passed Veterans 2024 Regular Session Co-Sponsor Passed Individuals with Disabilities 2024 Regular Session Co-Sponsor Companion Bill passed, refer to CS/CS/SB 1758 Tuskegee Airmen Commemoration Day 2024 Regular Session Co-Sponsor Passed Employment of Individuals with Disabilities 2024 Regular Session Co-Sponsor Companion Bill passed, refer to SB 832 Clerks of Court 2024 Regular Session Co-Sponsor Passed My Safe Florida Condominium Pilot Program 2024 Regular Session Co-Sponsor Passed Improvements to Real Property 2024 Regular Session Co-Sponsor Companion Bill passed, refer to CS/CS/SB 770 There are no results matching your search Reset filters?
+Previous Next Kimberly Berfield for State House 2519 North McMullen Booth Road Suite 510 Clearwater, FL 33761 Menu Menu Meet Kim The Issues Accomplishments Endorsements Precincts Meet Kim The Issues Accomplishments Endorsements Precincts Ways to Support Menu Join Kim’s Krewe Endorse Kim Join Kim’s Krewe Endorse Kim Contributions are not deductible as charitable contributions for federal income tax purposes.
+The maximum contribution is $1,000 per individual or business, per election.
+Paid by Kimberly "Kim" Berfield, Republican, for State Representative District 58.
+Copyright © # – # Kimberly “Kim” Berfield – All Rights Reserved.

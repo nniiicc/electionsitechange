@@ -1,151 +1,846 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=August+1+Doorknock&dates=20260801T160000Z%2F20260801T183000Z&location=955+County+Road+I%2C+Shoreview%2C+Minnesota%2C+55126%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Day+of+Action+for+Jim+DeMay+-+10%2F17&dates=20261017T143000Z%2F20261018T043000Z&location=1310+County+Highway+96%2C+White+Bear+Lake%2C+Minnesota%2C+55110%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Doorknock+Kickoff&dates=20260606T200000Z%2F20260606T223000Z&location=4580+Victoria+Street+North%2C+Shoreview%2C+MN%2C+55126%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Doorknock+for+Rep.+Rehauer+in+Coon+Rapids+with+House+Candidates+Kyrstin+Schuette+%26amp%3B+Aisha+Elmquist%21&dates=20261015T220000Z%2F20261016T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Doorknock+for+Rep.+Rehrauer+-+9%2F13&dates=20260913T160000Z%2F20260913T180000Z&location=Coon+Rapids%2C+MN",
-"http://google.com/calendar/event?action=TEMPLATE&text=General+Election&dates=20261103T130000Z%2F20261104T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=July+12+Doorknock&dates=20260712T190000Z%2F20260712T213000Z&location=Mounds+View%2C+Mn",
-"http://google.com/calendar/event?action=TEMPLATE&text=July+15+Phonebank&dates=20260715T230000Z%2F20260716T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=July+26+Doorknock+with+Rep.+Esther+Agbaje&dates=20260726T173000Z%2F20260726T200000Z&location=1726+Lake+Johanna+Blvd%2C+Arden+Hills%2C+Mn+",
-"http://google.com/calendar/event?action=TEMPLATE&text=June+20+Doorknock&dates=20260620T153000Z%2F20260620T180000Z&location=2200+Sunnyside+Terrace%2C+New+Brighton%2C+Minnesota%2C+55112%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=June+25+Phonebank&dates=20260625T230000Z%2F20260626T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=June+4+Phonebank&dates=20260604T230000Z%2F20260605T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Mounds+View+Day+in+the+Park+Parade&dates=20260821T220000Z%2F20260822T013000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Mounds+View+Doorknock+-+10%2F13&dates=20261013T223000Z%2F20261014T003000Z&location=Mounds+View%2C+Minnesota",
-"http://google.com/calendar/event?action=TEMPLATE&text=Mounds+View+Doorknock+-+9%2F27&dates=20260927T170000Z%2F20260927T200000Z&location=5214+Long+Lake+Rd%2C+Mounds+View%2C+Minnesota+55112",
-"http://google.com/calendar/event?action=TEMPLATE&text=Mounds+View+Doorknock+-+9%2F29&dates=20260929T223000Z%2F20260930T003000Z&location=Mounds+View%2C+Minnesota",
-"http://google.com/calendar/event?action=TEMPLATE&text=National+Night+to+Unite&dates=20260804T223000Z%2F20260805T013000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=New+Brighton+Doorknock+with+State+Auditor+Candidate+Zack+Filipovich+-+10%2F4&dates=20261004T170000Z%2F20261004T200000Z&location=2200+Sunnyside+Terrace%2C+New+Brighton%2C+Minnesota%2C+55112%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=New+Brighton+Stockyard+Days+Parade&dates=20260808T140000Z%2F20260808T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebank&dates=20260520T230000Z%2F20260521T013000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+Day+Phonebank&dates=20260811T170000Z%2F20260811T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+Election+Day&dates=20260811T120000Z%2F20260812T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+GOTV+Doorknock&dates=20260809T170000Z%2F20260809T200000Z&location=2335+Knoll+Dr%2C+Mounds+View%2C+MN+55112",
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+GOTV+Phonebank&dates=20260810T230000Z%2F20260811T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=SD+40+Day+of+Action+-+10%2F8&dates=20261008T223000Z%2F20261009T003000Z&location=400+10th+Street+Northwest%2C+New+Brighton%2C+Minnesota%2C+55112%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=SD+40+Day+of+Action+Knock&dates=20260910T220000Z%2F20260911T003000Z&location=400+10th+Street+Northwest%2C+New+Brighton%2C+Minnesota%2C+55112%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Shoreview+Doorknock+-+10%2F11&dates=20261011T150000Z%2F20261011T170000Z&location=Shoreview%2C+MN",
-"http://google.com/calendar/event?action=TEMPLATE&text=Shoreview+Doorknock+-+9%2F20&dates=20260920T200000Z%2F20260920T220000Z&location=+5623+Snelling+Ave%2C+Shoreview%2C+Minnesota+55126",
-"http://google.com/calendar/event?action=TEMPLATE&text=Slice+of+Shoreview+Parade&dates=20260725T140000Z%2F20260725T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Volunteer+Training&dates=20260518T230000Z%2F20260519T003000Z&location=4560+Victoria+Street+North%2C+Shoreview%2C+MN%2C+55126%2C+United+States",
-"http://maps.google.com/?q=+5623+Snelling+Ave+Shoreview%2C+Minnesota+55126",
-"http://maps.google.com/?q=+Coon+Rapids%2C+MN",
-"http://maps.google.com/?q=+Mounds+View%2C+Minnesota",
-"http://maps.google.com/?q=+Mounds+View%2C+Mn",
-"http://maps.google.com/?q=+Shoreview%2C+MN",
-"http://maps.google.com/?q=1310+County+Highway+96+White+Bear+Lake%2C+Minnesota%2C+55110+United+States",
-"http://maps.google.com/?q=1726+Lake+Johanna+Blvd+Arden+Hills%2C+Mn",
-"http://maps.google.com/?q=2200+Sunnyside+Terrace+New+Brighton%2C+Minnesota%2C+55112+United+States",
-"http://maps.google.com/?q=2335+Knoll+Dr+Mounds+View%2C+MN+55112",
-"http://maps.google.com/?q=400+10th+Street+Northwest+New+Brighton%2C+Minnesota%2C+55112+United+States",
-"http://maps.google.com/?q=4560+Victoria+Street+North+Shoreview%2C+MN%2C+55126+United+States",
-"http://maps.google.com/?q=4580+Victoria+Street+North+Shoreview%2C+MN%2C+55126+United+States",
-"http://maps.google.com/?q=5214+Long+Lake+Rd+Mounds+View%2C+Minnesota+55112",
-"http://maps.google.com/?q=955+County+Road+I+Shoreview%2C+Minnesota%2C+55126+United+States",
-"http://maps.google.com/?q=Virtual",
-"http://maps.google.com/?q=Your+Polling+Place%21",
-"https://docs.google.com/forms/d/e/1FAIpQLScFlrmdhR0xE1XMmXCYo02AoZmnSAQERZV3llv2RBYcLPBspA/viewform?usp=publish-editor",
-"https://docs.google.com/forms/d/e/1FAIpQLScSAgRkHJ-iX4-29Pm5_YciXsceCHxjmiam3vd9zZBG7e3kJw/viewform?usp=dialog",
-"https://docs.google.com/forms/d/e/1FAIpQLScjRFzwk4oRvKTPzpM3Za4ngNG_b8H6Kx3cuqlaIYbegb7uSw/viewform?usp=publish-editor",
-"https://docs.google.com/forms/d/e/1FAIpQLSd6s9RNxnUY6ngJPo4r1qNETY4mr99EG-PYctRR9FviMtsJmQ/viewform?usp=publish-editor",
-"https://docs.google.com/forms/d/e/1FAIpQLSdFmrUdj9WNTCi1f6J7sjLFJrtnZ07xG0V7anxueHFjbJc_jg/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSdaOJpQaNxkkKcRIKl_e-6jz-1-Vh4OuDv6gxEZ8rXKlntySA/viewform?usp=publish-editor",
-"https://docs.google.com/forms/d/e/1FAIpQLSdquqcGqkKLdQR0a3Y1Cx4xm8MSk9RcjHioiTVjeUhEJFolFA/viewform?usp=dialog",
-"https://docs.google.com/forms/d/e/1FAIpQLSdyUWK3w0K990MxtnWfizj2nQQn8ovWILM04dH_Sv4N-WMEKw/viewform?usp=publish-editor",
-"https://docs.google.com/forms/d/e/1FAIpQLSe24XMQ1DotZeIYPmg3hWatsqmENjr6Z0mIRPQRz3D6A6divw/viewform?usp=dialog",
-"https://docs.google.com/forms/d/e/1FAIpQLSeDMeSk9JM3GIlLHa7K-3_w2v8wE0R6oFLAqGwr6SjOAKMKPw/viewform?usp=publish-editor",
-"https://docs.google.com/forms/d/e/1FAIpQLSePCuVBPaiX3acZA774pbY18SQxc7PEQW-wdPmogymPZqLHkA/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSezXt3zWFv-Dt5R00INNYxDJuBAyfrIh_uGyBsz_QxX82LZ5Q/viewform?usp=publish-editor",
-"https://docs.google.com/forms/d/e/1FAIpQLSf4VlyulWL6W7h7kG0gJuVgJG8j_m8v6TJlOy5fmp3eAyFjRA/viewform?usp=header",
-"https://facebook.com/profile.php?id=61582579073857",
-"https://forms.gle/3LGdDdWyz1sSn8h59",
-"https://forms.gle/4P2g2Adn9dHzWXhu7",
-"https://forms.gle/9d9PtBv4A1QG9qBGA",
-"https://forms.gle/NJuWdoPBN2kP6KuZ8",
-"https://forms.gle/PogyvFTCuLaHoKWt6",
-"https://forms.gle/bHY8DxcZmZpVN3P17",
-"https://forms.gle/dJvxL6WeFw5TVFYCA",
-"https://forms.gle/kp1rJkV1EUyhhYPAA",
-"https://forms.gle/uLZDPiVPy6ffpBM46",
-"https://mobilize.us/dfl/event/1048327?referring_vol=13830183&share_context=dashboard-event-details&sharer_role=2",
-"https://mobilize.us/dfl/event/1051782",
-"https://pollfinder.sos.mn.gov/",
-"https://secure.actblue.com/donate/aisha-elmquist-1",
-"https://secure.ngpvan.com/2rcGGM7MwkCdcnKyTgV9OA2",
-"https://secure.ngpvan.com/DoOYM3MyRU6GHwn9REpkCw2",
-"https://voteelmquist.com/",
-"https://voteelmquist.com/cart",
-"https://voteelmquist.com/contact",
-"https://voteelmquist.com/endorsements",
-"https://voteelmquist.com/events",
-"https://voteelmquist.com/events/10-4-doorknock",
-"https://voteelmquist.com/events/10-4-doorknock?format=ical",
-"https://voteelmquist.com/events/2026-mounds-view-day-in-the-park-parade",
-"https://voteelmquist.com/events/2026-mounds-view-day-in-the-park-parade?format=ical",
-"https://voteelmquist.com/events/2026-national-night-out",
-"https://voteelmquist.com/events/2026-national-night-out?format=ical",
-"https://voteelmquist.com/events/2026-new-brighton-stockyard-days-parade",
-"https://voteelmquist.com/events/2026-new-brighton-stockyard-days-parade?format=ical",
-"https://voteelmquist.com/events/2026-primary-election-day",
-"https://voteelmquist.com/events/2026-primary-election-day?format=ical",
-"https://voteelmquist.com/events/2026-slice-of-shoreview-parade",
-"https://voteelmquist.com/events/2026-slice-of-shoreview-parade?format=ical",
-"https://voteelmquist.com/events/2026primary-gotv-doorknock",
-"https://voteelmquist.com/events/2026primary-gotv-doorknock?format=ical",
-"https://voteelmquist.com/events/9-10-26-sd-40-day-of-action-knock",
-"https://voteelmquist.com/events/9-10-26-sd-40-day-of-action-knock?format=ical",
-"https://voteelmquist.com/events/9-20-2026-doorknock",
-"https://voteelmquist.com/events/9-20-2026-doorknock?format=ical",
-"https://voteelmquist.com/events/9-27-2026doorknock",
-"https://voteelmquist.com/events/9-27-2026doorknock?format=ical",
-"https://voteelmquist.com/events/aug-1-2026-doorknock",
-"https://voteelmquist.com/events/aug-1-2026-doorknock?format=ical",
-"https://voteelmquist.com/events/day-of-action-for-jim-demay",
-"https://voteelmquist.com/events/day-of-action-for-jim-demay?format=ical",
-"https://voteelmquist.com/events/doorknock-for-rep-rehauer",
-"https://voteelmquist.com/events/doorknock-for-rep-rehauer?format=ical",
-"https://voteelmquist.com/events/doorknock-ltx96-tdbxx-gt75c",
-"https://voteelmquist.com/events/doorknock-ltx96-tdbxx-gt75c?format=ical",
-"https://voteelmquist.com/events/general-election",
-"https://voteelmquist.com/events/general-election?format=ical",
-"https://voteelmquist.com/events/july-12-2026-doorknock",
-"https://voteelmquist.com/events/july-12-2026-doorknock?format=ical",
-"https://voteelmquist.com/events/july-15-2026-phonebank",
-"https://voteelmquist.com/events/july-15-2026-phonebank?format=ical",
-"https://voteelmquist.com/events/july-26-2026-doorknock",
-"https://voteelmquist.com/events/july-26-2026-doorknock?format=ical",
-"https://voteelmquist.com/events/june-20-2026-doorknock",
-"https://voteelmquist.com/events/june-20-2026-doorknock?format=ical",
-"https://voteelmquist.com/events/june-25-2026-phonebank",
-"https://voteelmquist.com/events/june-25-2026-phonebank?format=ical",
-"https://voteelmquist.com/events/june-4-2026-phonebank",
-"https://voteelmquist.com/events/june-4-2026-phonebank?format=ical",
-"https://voteelmquist.com/events/june-6-2026-doorknock-kickoff",
-"https://voteelmquist.com/events/june-6-2026-doorknock-kickoff?format=ical",
-"https://voteelmquist.com/events/may-18-2026-volunteer-training",
-"https://voteelmquist.com/events/may-18-2026-volunteer-training?format=ical",
-"https://voteelmquist.com/events/may-20-2026-phonebank",
-"https://voteelmquist.com/events/may-20-2026-phonebank?format=ical",
-"https://voteelmquist.com/events/mounds-view-doorknock-1013",
-"https://voteelmquist.com/events/mounds-view-doorknock-1013?format=ical",
-"https://voteelmquist.com/events/mounds-view-doorknock-929",
-"https://voteelmquist.com/events/mounds-view-doorknock-929?format=ical",
-"https://voteelmquist.com/events/primary-day-phonebank",
-"https://voteelmquist.com/events/primary-day-phonebank?format=ical",
-"https://voteelmquist.com/events/primary-gotv-phonebank",
-"https://voteelmquist.com/events/primary-gotv-phonebank?format=ical",
-"https://voteelmquist.com/events/sd-40-day-of-action",
-"https://voteelmquist.com/events/sd-40-day-of-action?format=ical",
-"https://voteelmquist.com/events/shoreview-doorknock-1011",
-"https://voteelmquist.com/events/shoreview-doorknock-1011?format=ical",
-"https://voteelmquist.com/events?category=Community+Event",
-"https://voteelmquist.com/events?category=Talk+to+Voters",
-"https://voteelmquist.com/meet",
-"https://voteelmquist.com/priorities",
-"https://voteelmquist.com/resources",
-"https://voteelmquist.com/take-action",
-"https://voteelmquist.com/volunteer",
-"https://voteelmquist.com/volunteer-1",
-"https://voteelmquist.com/voting-info"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+5623+snelling+ave+shoreview%2C+minnesota+55126+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+coon+rapids%2C+mn+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+mounds+view%2C+minnesota+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+mounds+view%2C+mn+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+shoreview%2C+minnesota+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1310+county+highway+96+white+bear+lake%2C+minnesota%2C+55110+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1726+lake+johanna+blvd+arden+hills%2C+mn++"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2200+sunnyside+terrace+new+brighton%2C+minnesota%2C+55112+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2335+knoll+dr+mounds+view%2C+mn+55112+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=400+10th+street+northwest+new+brighton%2C+minnesota%2C+55112+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4560+victoria+street+north+shoreview%2C+mn%2C+55126+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4580+victoria+street+north+shoreview%2C+mn%2C+55126+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5214+long+lake+rd+mounds+view%2C+minnesota+55112+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=955+county+road+i+shoreview%2C+minnesota%2C+55126+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=virtual"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=your+polling+place%21"
+},
+{
+"text": "0",
+"href": "https://www.voteelmquist.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.voteelmquist.com/meet"
+},
+{
+"text": "August 1 Doorknock",
+"href": "https://www.voteelmquist.com/events/aug-1-2026-doorknock"
+},
+{
+"text": "Back",
+"href": "https://www.voteelmquist.com/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/aisha-elmquist-1"
+},
+{
+"text": "Community Event",
+"href": "https://www.voteelmquist.com/events?category=Community+Event"
+},
+{
+"text": "Contact",
+"href": "https://www.voteelmquist.com/contact"
+},
+{
+"text": "Day of Action for Jim DeMay, House Candidate, District 36A - 10/17",
+"href": "https://www.voteelmquist.com/events/day-of-action-for-jim-demay"
+},
+{
+"text": "Doorknock Kickoff",
+"href": "https://www.voteelmquist.com/events/june-6-2026-doorknock-kickoff"
+},
+{
+"text": "Doorknock for Rep. Kari Rehrauer in Coon Rapids with House Candidates Kyrstin Schuette & Aisha Elmquist!",
+"href": "https://www.voteelmquist.com/events/doorknock-for-rep-rehauer"
+},
+{
+"text": "Doorknock for Rep. Rehrauer - 9/13",
+"href": "https://www.voteelmquist.com/events/doorknock-ltx96-tdbxx-gt75c"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteelmquist.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.voteelmquist.com/events"
+},
+{
+"text": "Find your polling place.",
+"href": "https://pollfinder.sos.mn.gov/"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://www.voteelmquist.com/take-action"
+},
+{
+"text": "General Election",
+"href": "https://www.voteelmquist.com/events/general-election"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=August+1+Doorknock&dates=20260801T160000Z%2F20260801T183000Z&location=955+County+Road+I%2C+Shoreview%2C+Minnesota%2C+55126%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Day+of+Action+for+Jim+DeMay%2C+House+Candidate%2C+District+36A+-+10%2F17&dates=20261017T143000Z%2F20261018T043000Z&location=1310+County+Highway+96%2C+White+Bear+Lake%2C+Minnesota%2C+55110%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Doorknock+Kickoff&dates=20260606T200000Z%2F20260606T223000Z&location=4580+Victoria+Street+North%2C+Shoreview%2C+MN%2C+55126%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Doorknock+for+Rep.+Kari+Rehrauer+in+Coon+Rapids+with+House+Candidates+Kyrstin+Schuette+%26amp%3B+Aisha+Elmquist%21&dates=20261015T220000Z%2F20261016T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Doorknock+for+Rep.+Rehrauer+-+9%2F13&dates=20260913T160000Z%2F20260913T180000Z&location=Coon+Rapids%2C+MN"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=General+Election&dates=20261103T130000Z%2F20261104T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=July+12+Doorknock&dates=20260712T190000Z%2F20260712T213000Z&location=Mounds+View%2C+Mn"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=July+15+Phonebank&dates=20260715T230000Z%2F20260716T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=July+26+Doorknock+with+Rep.+Esther+Agbaje&dates=20260726T173000Z%2F20260726T200000Z&location=1726+Lake+Johanna+Blvd%2C+Arden+Hills%2C+Mn+"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=June+20+Doorknock&dates=20260620T153000Z%2F20260620T180000Z&location=2200+Sunnyside+Terrace%2C+New+Brighton%2C+Minnesota%2C+55112%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=June+25+Phonebank&dates=20260625T230000Z%2F20260626T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=June+4+Phonebank&dates=20260604T230000Z%2F20260605T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Mounds+View+Day+in+the+Park+Parade&dates=20260821T220000Z%2F20260822T013000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Mounds+View+Doorknock+-+9%2F27&dates=20260927T170000Z%2F20260927T200000Z&location=5214+Long+Lake+Rd%2C+Mounds+View%2C+Minnesota+55112"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Mounds+View+Doorknock+-+9%2F29&dates=20260929T223000Z%2F20260930T003000Z&location=Mounds+View%2C+Minnesota"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Mounds+View+Doorknock+with+Aisha+Elmquist+-+10%2F11&dates=20261011T150000Z%2F20261011T170000Z&location=Mounds+View%2C+Minnesota"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=National+Night+to+Unite&dates=20260804T223000Z%2F20260805T013000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=New+Brighton+Doorknock+with+State+Auditor+Candidate+Zack+Filipovich+-+10%2F4&dates=20261004T170000Z%2F20261004T200000Z&location=2200+Sunnyside+Terrace%2C+New+Brighton%2C+Minnesota%2C+55112%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=New+Brighton+Stockyard+Days+Parade&dates=20260808T140000Z%2F20260808T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebank&dates=20260520T230000Z%2F20260521T013000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+Day+Phonebank&dates=20260811T170000Z%2F20260811T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+Election+Day&dates=20260811T120000Z%2F20260812T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+GOTV+Doorknock&dates=20260809T170000Z%2F20260809T200000Z&location=2335+Knoll+Dr%2C+Mounds+View%2C+MN+55112"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+GOTV+Phonebank&dates=20260810T230000Z%2F20260811T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=SD+40+Day+of+Action+Knock&dates=20260910T220000Z%2F20260911T003000Z&location=400+10th+Street+Northwest%2C+New+Brighton%2C+Minnesota%2C+55112%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=SD+40+Day+of+Action+with+Congresswoman+Betty+McCollum+-+10%2F8&dates=20261008T213000Z%2F20261009T003000Z&location=400+10th+Street+Northwest%2C+New+Brighton%2C+Minnesota%2C+55112%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Shoreview+Doorknock+-+9%2F20&dates=20260920T200000Z%2F20260920T220000Z&location=+5623+Snelling+Ave%2C+Shoreview%2C+Minnesota+55126"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Shoreview+Doorknock+with+Attorney+General+Keith+Ellison+-+10%2F13&dates=20261013T223000Z%2F20261014T003000Z&location=Shoreview%2C+Minnesota"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Slice+of+Shoreview+Parade&dates=20260725T140000Z%2F20260725T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Volunteer+Training&dates=20260518T230000Z%2F20260519T003000Z&location=4560+Victoria+Street+North%2C+Shoreview%2C+MN%2C+55126%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.voteelmquist.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/10-4-doorknock?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/2026-mounds-view-day-in-the-park-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/2026-national-night-out?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/2026-new-brighton-stockyard-days-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/2026-primary-election-day?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/2026-slice-of-shoreview-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/2026primary-gotv-doorknock?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/9-10-26-sd-40-day-of-action-knock?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/9-20-2026-doorknock?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/9-27-2026doorknock?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/aug-1-2026-doorknock?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/day-of-action-for-jim-demay?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/doorknock-for-rep-rehauer?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/doorknock-ltx96-tdbxx-gt75c?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/general-election?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/july-12-2026-doorknock?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/july-15-2026-phonebank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/july-26-2026-doorknock?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/june-20-2026-doorknock?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/june-25-2026-phonebank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/june-4-2026-phonebank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/june-6-2026-doorknock-kickoff?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/may-18-2026-volunteer-training?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/may-20-2026-phonebank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/mounds-view-doorknock-929?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/moundsview-doorknock-1011?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/primary-day-phonebank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/primary-gotv-phonebank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/sd-40-day-of-action?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/shoreview-doorknock-1013?format=ical"
+},
+{
+"text": "Immigration and Community Resources",
+"href": "https://www.voteelmquist.com/resources"
+},
+{
+"text": "July 12 Doorknock",
+"href": "https://www.voteelmquist.com/events/july-12-2026-doorknock"
+},
+{
+"text": "July 15 Phonebank",
+"href": "https://www.voteelmquist.com/events/july-15-2026-phonebank"
+},
+{
+"text": "July 26 Doorknock with Rep. Esther Agbaje",
+"href": "https://www.voteelmquist.com/events/july-26-2026-doorknock"
+},
+{
+"text": "June 20 Doorknock",
+"href": "https://www.voteelmquist.com/events/june-20-2026-doorknock"
+},
+{
+"text": "June 25 Phonebank",
+"href": "https://www.voteelmquist.com/events/june-25-2026-phonebank"
+},
+{
+"text": "June 4 Phonebank",
+"href": "https://www.voteelmquist.com/events/june-4-2026-phonebank"
+},
+{
+"text": "Mounds View Day in the Park Parade",
+"href": "https://www.voteelmquist.com/events/2026-mounds-view-day-in-the-park-parade"
+},
+{
+"text": "Mounds View Doorknock - 9/27",
+"href": "https://www.voteelmquist.com/events/9-27-2026doorknock"
+},
+{
+"text": "Mounds View Doorknock - 9/29",
+"href": "https://www.voteelmquist.com/events/mounds-view-doorknock-929"
+},
+{
+"text": "Mounds View Doorknock with Aisha Elmquist - 10/11",
+"href": "https://www.voteelmquist.com/events/moundsview-doorknock-1011"
+},
+{
+"text": "National Night to Unite",
+"href": "https://www.voteelmquist.com/events/2026-national-night-out"
+},
+{
+"text": "New Brighton Doorknock with State Auditor Candidate Zack Filipovich - 10/4",
+"href": "https://www.voteelmquist.com/events/10-4-doorknock"
+},
+{
+"text": "New Brighton Stockyard Days Parade",
+"href": "https://www.voteelmquist.com/events/2026-new-brighton-stockyard-days-parade"
+},
+{
+"text": "Phonebank",
+"href": "https://www.voteelmquist.com/events/may-20-2026-phonebank"
+},
+{
+"text": "Primary Day Phonebank",
+"href": "https://www.voteelmquist.com/events/primary-day-phonebank"
+},
+{
+"text": "Primary Election Day",
+"href": "https://www.voteelmquist.com/events/2026-primary-election-day"
+},
+{
+"text": "Primary GOTV Doorknock",
+"href": "https://www.voteelmquist.com/events/2026primary-gotv-doorknock"
+},
+{
+"text": "Primary GOTV Phonebank",
+"href": "https://www.voteelmquist.com/events/primary-gotv-phonebank"
+},
+{
+"text": "Priorities",
+"href": "https://www.voteelmquist.com/priorities"
+},
+{
+"text": "RSVP Here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScSAgRkHJ-iX4-29Pm5_YciXsceCHxjmiam3vd9zZBG7e3kJw/viewform?usp=dialog"
+},
+{
+"text": "RSVP Here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd6s9RNxnUY6ngJPo4r1qNETY4mr99EG-PYctRR9FviMtsJmQ/viewform?usp=publish-editor"
+},
+{
+"text": "RSVP Here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdFmrUdj9WNTCi1f6J7sjLFJrtnZ07xG0V7anxueHFjbJc_jg/viewform?usp=header"
+},
+{
+"text": "RSVP Here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdquqcGqkKLdQR0a3Y1Cx4xm8MSk9RcjHioiTVjeUhEJFolFA/viewform?usp=dialog"
+},
+{
+"text": "RSVP Here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe24XMQ1DotZeIYPmg3hWatsqmENjr6Z0mIRPQRz3D6A6divw/viewform?usp=dialog"
+},
+{
+"text": "RSVP Here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSePCuVBPaiX3acZA774pbY18SQxc7PEQW-wdPmogymPZqLHkA/viewform?usp=header"
+},
+{
+"text": "RSVP Here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf4VlyulWL6W7h7kG0gJuVgJG8j_m8v6TJlOy5fmp3eAyFjRA/viewform?usp=header"
+},
+{
+"text": "RSVP Here",
+"href": "https://forms.gle/3LGdDdWyz1sSn8h59"
+},
+{
+"text": "RSVP Here",
+"href": "https://forms.gle/4P2g2Adn9dHzWXhu7"
+},
+{
+"text": "RSVP Here",
+"href": "https://forms.gle/9d9PtBv4A1QG9qBGA"
+},
+{
+"text": "RSVP Here",
+"href": "https://forms.gle/NJuWdoPBN2kP6KuZ8"
+},
+{
+"text": "RSVP Here",
+"href": "https://forms.gle/PogyvFTCuLaHoKWt6"
+},
+{
+"text": "RSVP Here",
+"href": "https://forms.gle/bHY8DxcZmZpVN3P17"
+},
+{
+"text": "RSVP Here",
+"href": "https://forms.gle/dJvxL6WeFw5TVFYCA"
+},
+{
+"text": "RSVP Here",
+"href": "https://forms.gle/uLZDPiVPy6ffpBM46"
+},
+{
+"text": "RSVP Here.",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSezXt3zWFv-Dt5R00INNYxDJuBAyfrIh_uGyBsz_QxX82LZ5Q/viewform?usp=publish-editor"
+},
+{
+"text": "RSVP here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdaOJpQaNxkkKcRIKl_e-6jz-1-Vh4OuDv6gxEZ8rXKlntySA/viewform?usp=publish-editor"
+},
+{
+"text": "RSVP here",
+"href": "https://www.mobilize.us/dfl/event/1048327/?referring_vol=13830183&share_context=dashboard-event-details&sharer_role=2"
+},
+{
+"text": "RSVP here",
+"href": "https://www.mobilize.us/dfl/event/1051782"
+},
+{
+"text": "RSVP here.",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScFlrmdhR0xE1XMmXCYo02AoZmnSAQERZV3llv2RBYcLPBspA/viewform?usp=publish-editor"
+},
+{
+"text": "RSVP here.",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScjRFzwk4oRvKTPzpM3Za4ngNG_b8H6Kx3cuqlaIYbegb7uSw/viewform?usp=publish-editor"
+},
+{
+"text": "RSVP here.",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdyUWK3w0K990MxtnWfizj2nQQn8ovWILM04dH_Sv4N-WMEKw/viewform?usp=publish-editor"
+},
+{
+"text": "RSVP here.",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeDMeSk9JM3GIlLHa7K-3_w2v8wE0R6oFLAqGwr6SjOAKMKPw/viewform?usp=publish-editor"
+},
+{
+"text": "RSVP here.",
+"href": "https://secure.ngpvan.com/DoOYM3MyRU6GHwn9REpkCw2"
+},
+{
+"text": "RSVP here.",
+"href": "https://www.mobilize.us/keithellison/event/1056575/"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://www.voteelmquist.com/volunteer-1"
+},
+{
+"text": "SD 40 Day of Action Knock",
+"href": "https://www.voteelmquist.com/events/9-10-26-sd-40-day-of-action-knock"
+},
+{
+"text": "SD 40 Day of Action with Congresswoman Betty McCollum - 10/8",
+"href": "https://www.voteelmquist.com/events/sd-40-day-of-action"
+},
+{
+"text": "Shoreview Doorknock - 9/20",
+"href": "https://www.voteelmquist.com/events/9-20-2026-doorknock"
+},
+{
+"text": "Shoreview Doorknock with Attorney General Keith Ellison - 10/13",
+"href": "https://www.voteelmquist.com/events/shoreview-doorknock-1013"
+},
+{
+"text": "Slice of Shoreview Parade",
+"href": "https://www.voteelmquist.com/events/2026-slice-of-shoreview-parade"
+},
+{
+"text": "Talk to Voters",
+"href": "https://www.voteelmquist.com/events?category=Talk+to+Voters"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/10-4-doorknock"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/2026-mounds-view-day-in-the-park-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/2026-national-night-out"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/2026-new-brighton-stockyard-days-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/2026-primary-election-day"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/2026-slice-of-shoreview-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/2026primary-gotv-doorknock"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/9-10-26-sd-40-day-of-action-knock"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/9-20-2026-doorknock"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/9-27-2026doorknock"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/aug-1-2026-doorknock"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/day-of-action-for-jim-demay"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/doorknock-for-rep-rehauer"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/doorknock-ltx96-tdbxx-gt75c"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/general-election"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/july-12-2026-doorknock"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/july-15-2026-phonebank"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/july-26-2026-doorknock"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/june-20-2026-doorknock"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/june-25-2026-phonebank"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/june-4-2026-phonebank"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/june-6-2026-doorknock-kickoff"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/may-18-2026-volunteer-training"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/may-20-2026-phonebank"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/mounds-view-doorknock-929"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/moundsview-doorknock-1011"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/primary-day-phonebank"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/primary-gotv-phonebank"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/sd-40-day-of-action"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/shoreview-doorknock-1013"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteelmquist.com/volunteer"
+},
+{
+"text": "Volunteer Training",
+"href": "https://www.voteelmquist.com/events/may-18-2026-volunteer-training"
+},
+{
+"text": "Voting Info",
+"href": "https://www.voteelmquist.com/voting-info"
+},
+{
+"text": "[image: Elmquist for House]",
+"href": "https://www.voteelmquist.com/"
+},
+{
+"text": "[image: July 26 Doorknock with Rep. Esther Agbaje]",
+"href": "https://www.voteelmquist.com/events/july-26-2026-doorknock"
+},
+{
+"text": "[image: Shoreview Doorknock with Attorney General Keith Ellison - 10/13]",
+"href": "https://www.voteelmquist.com/events/shoreview-doorknock-1013"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582579073857"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/10-4-doorknock"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/2026-mounds-view-day-in-the-park-parade"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/2026-national-night-out"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/2026-new-brighton-stockyard-days-parade"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/2026-primary-election-day"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/2026-slice-of-shoreview-parade"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/2026primary-gotv-doorknock"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/9-10-26-sd-40-day-of-action-knock"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/9-20-2026-doorknock"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/9-27-2026doorknock"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/aug-1-2026-doorknock"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/day-of-action-for-jim-demay"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/doorknock-for-rep-rehauer"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/doorknock-ltx96-tdbxx-gt75c"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/general-election"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/july-12-2026-doorknock"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/july-15-2026-phonebank"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/june-20-2026-doorknock"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/june-25-2026-phonebank"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/june-4-2026-phonebank"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/june-6-2026-doorknock-kickoff"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/may-18-2026-volunteer-training"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/may-20-2026-phonebank"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/mounds-view-doorknock-929"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/moundsview-doorknock-1011"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/primary-day-phonebank"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/primary-gotv-phonebank"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/sd-40-day-of-action"
+},
+{
+"text": "https://secure.ngpvan.com/2rcGGM7MwkCdcnKyTgV9OA2",
+"href": "https://secure.ngpvan.com/2rcGGM7MwkCdcnKyTgV9OA2"
+}
 ]

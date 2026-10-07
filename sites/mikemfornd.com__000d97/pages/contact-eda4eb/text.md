@@ -1,4 +1,5 @@
-Please enable JavaScript in your browser to complete this form.
+Skip to content Mike Motschenbacher for ND House of Represenatatives Paid for by Motschenbacher for District 47 Toggle menu visibility.
+Home About Mike Platform News Contact Donate Request Lawn Signs Please enable JavaScript in your browser to complete this form.
 Name * First Last Email * Comment or Message * Would you like to keep updated on the campaign?
 Yes, sign me up for the mailing list!
-Submit
+Submit Special Thanks Toggle menu visibility. facebook Mike Motschenbacher for ND House of Represenatatives Paid for by Motschenbacher for District 47

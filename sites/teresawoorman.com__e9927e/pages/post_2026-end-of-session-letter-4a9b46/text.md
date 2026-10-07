@@ -1,5 +1,5 @@
-2026 End of Session Letter
-| April 23, 2026 Dear Neighbor and Friend, I’m incredibly grateful to have completed my second legislative session serving you as your Delegate for District 16.
+top of page Home Legislation Contribute Scholarships Video Newsletter Endorsements Media Get involved!
+Contact All Posts Search 2026 End of Session Letter Teresa Woorman May 6 6 min read April 23, 2026 Dear Neighbor and Friend, I’m incredibly grateful to have completed my second legislative session serving you as your Delegate for District 16.
 This session was an exciting one in Annapolis!
 We welcomed a new Speaker of the House, Joseline Peña-Melnyk—someone who has been not just a leader in the House of Delegates, but a former employer, committee chair, and mentor to me personally.
 Watching the outstanding person I’ve known take the gavel and lead the House was incredibly meaningful, and it set the tone for a session focused on getting real results for Marylanders.
@@ -26,11 +26,9 @@ Serving District 16 is the honor of my life.
 And as I head back home from Annapolis, I’m more energized than ever to keep doing this work, with you and for you.
 Below is more information on my legislation, along with other bills the House passed this session, and information on the budget we passed.
 If my office can be helpful in any way, or if there’s something you’d like to share about issues that matter to you, you can always reach me at Teresa.Woorman@house.maryland.gov or 410-841-3454.
-Sincerely, |
-| Delegate Teresa S.
-Woorman, District 16 |
-| MY LEGISLATION |
-| During this session, I was the primary sponsor of seven bills: HB965: Office of Health Care Quality Stakeholder Advisory Council: Would create a permanent advisory council to give frontline workers, residents, advocates, and other stakeholders a formal voice in how Maryland oversees health care facilities.
+Sincerely, Delegate Teresa S.
+Woorman, District 16 Follow me on social media!
+X: @Teresa_ Woorman Facebook: @TeresaSWoorman Instagram: @Teresa_Woorman Sign up for Delegate Teresa Woorman's mailing list MY LEGISLATION During this session, I was the primary sponsor of seven bills: HB965 : Office of Health Care Quality Stakeholder Advisory Council: Would create a permanent advisory council to give frontline workers, residents, advocates, and other stakeholders a formal voice in how Maryland oversees health care facilities.
 Establishes a council that meets virtually twice a year to review OHCQ data, provide feedback, and elevate concerns to the Secretary of Health when oversight issues arise.
 HB962: Local Public Campaign Financing – County Boards of Education: Would allow counties to include elected school board races in their local public campaign financing systems.
 Updates election law to give counties the option to extend existing public financing programs to school board candidates, increasing accessibility and reducing the influence of big money in education governance.
@@ -50,9 +48,8 @@ This bill was heard in the Ways and Means Committee in the House and the Educati
 HB1530: Higher Education - Undocumented Students - Out-of-State Tuition Exemption Eligibility.
 This bill decreases from 3 years to 2 years the number of years for which an individual or the individual's parent or guardian must file taxes before the academic year for eligibility to receive an out-of-state tuition exemption at a public institution of higher education.
 This bill was heard in the Appropriations Committee in the House and the Education, Energy and the Environment Committee in the Senate.
-By Sine Die, HB963 and HB1530 crossed the finish line and passed both chambers and are awaiting the Governor’s signature! |
-BUDGET
-Maryland’s FY27 budget is a data-driven, fiscally balanced response to major federal disruptions that have displaced workers, reduced funding, and created economic uncertainty.
+By Sine Die, HB963 and HB1530 crossed the finish line and passed both chambers and are awaiting the Governor’s signature!
+BUDGET Maryland’s FY27 budget is a data-driven, fiscally balanced response to major federal disruptions that have displaced workers, reduced funding, and created economic uncertainty.
 Without raising taxes, the State closes gaps through disciplined cost containment while making targeted investments across core priorities.
 The budget includes $463 million for pedestrian safety and a historic $500 million for bike and pedestrian connectivity, alongside full funding for Baltimore Light Rail modernization, expanded bus service, and accelerated reconstruction of the Francis Scott Key Bridge.
 It also invests $42 million to protect the Chesapeake Bay Bridge and $9.5 million for flood mitigation amid delayed federal support.
@@ -64,3 +61,4 @@ Healthcare and social services remain central, with $14 billion for Medicaid and
 The budget also ensures sustainability by reducing proposed cuts to this program from $150 million to $127 million, including a $23.1 million restoration, the largest of any program.
 Public safety investments restore $47.1 million for police aid and fund violence reduction grants, while additional resources support youth drug treatment and victim services.
 Altogether, this budget reflects a careful balance, grounded in real numbers, between fiscal responsibility and meaningful investment in Maryland’s people, infrastructure, and long-term economic stability.
+Recent Posts See All Important Community Notice: PFAS Contamination Advisory in Montgomery County Crossover Update: My Bills Head to the Senate Two Weeks In: An Annapolis Update | Redistricting and the Budget Contact: teresa@teresawoorman.com By Authority: Teresa Woorman for Maryland; Matthew Woorman, Treasurer bottom of page

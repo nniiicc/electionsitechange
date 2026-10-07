@@ -1,9 +1,10 @@
-(Pomona, CA) – Michelle Rodriguez’s campaign announced today that the California Professional Firefighters have endorsed her candidacy for the 53rd Assembly District.
+Skip to content Toll-free: 800-2345-6789 Login | Register Twitter Facebook-f Youtube Linkedin Home Meet Michelle Priorities Safe Neighborhoods Cleaner Air and Water Healthcare for All Jobs and the Economy Women’s Equality Homelessness Schools and Higher Education News Join Team Michelle!
+Supporters Gallery DONATE Author: admin Home | admin Uncategorized CALIFORNIA PROFESSIONAL FIREFIGHTERS ENDORSE MICHELLE RODRIGUEZ FOR ASSEMBLY DISTRICT 53 admin May 31, 2024 (Pomona, CA) – Michelle Rodriguez’s campaign announced today that the California Professional Firefighters have endorsed her candidacy for the 53rd Assembly District.
 The 53rd District includes the cities of Pomona, Chino, Ontario, Upland, and Montclair.
-View press release
-(Ontario, CA) – Today, Michelle Rodriguez proudly announces an endorsement of her campaign for the 53rd Assembly District from the Ontario Professional Firefighters Local 1430.
+View press release Read More Uncategorized MICHELLE RODRIGUEZ EARNS ENDORSEMENT FROM ONTARIO PROFESSIONAL FIREFIGHTERS IN AD53 admin May 31, 2024 (Ontario, CA) – Today, Michelle Rodriguez proudly announces an endorsement of her campaign for the 53rd Assembly District from the Ontario Professional Firefighters Local 1430.
 A life-long advocate for public safety and first responders, mother of a firefighter, and California...
-(Pomona, CA) - Today, Michelle Rodriguez, a life-long advocate for public safety and stronger community-police relationships, is proud to announce an endorsement from the Riverside Sheriffs' Association in her bid for the 53rd Assembly District.
+Read More Uncategorized RIVERSIDE SHERIFFS’ ASSOCIATION ENDORSE MICHELLE RODRIGUEZ FOR ASSEMBLY DISTRICT 53 admin February 6, 2024 (Pomona, CA) - Today, Michelle Rodriguez, a life-long advocate for public safety and stronger community-police relationships, is proud to announce an endorsement from the Riverside Sheriffs' Association in her bid for the 53rd Assembly District.
 The Riverside Sheriffs' Association represents...
-(Pomona, CA) The National Association of Government Employees (SEIU Local 5000) has announced their endorsement of Michelle Rodriguez for California’s 53rd Assembly District.
+Read More Uncategorized MICHELLE RODRIGUEZ RECEIVES ENDORSEMENT FROM NAGE-SEIU LOCAL 5000 FIRST RESPONDERS AND PUBLIC SERVANTS admin December 6, 2023 (Pomona, CA) The National Association of Government Employees (SEIU Local 5000) has announced their endorsement of Michelle Rodriguez for California’s 53rd Assembly District.
 This endorsement recognizes to her commitment to the welfare of first responders and public servants in the...
+Read More Posts navigation 1 2 … 4 Contact Michelle info@michelleforassembly.com 2063 Rancho Valley Dr., Ste 320, #154, Pomona, CA, 91766 Join the Movement Join Team Michelle Endorse Michelle Donate • Paid for by Michelle Rodriguez for Assembly 2026 • FPPC ID 1477034 • 2063 Rancho Valley Dr., Ste 320, #154, Pomona, California, 91766 Twitter Facebook-f

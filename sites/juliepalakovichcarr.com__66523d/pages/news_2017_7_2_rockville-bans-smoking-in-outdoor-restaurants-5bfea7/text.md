@@ -1,4 +1,6 @@
-Legislation to ban smoking in outdoor dining areas in Rockville was passed the City Council.
+Home Need Help?
+About Julie Legislation Accomplishments Endorsements News Contact Contribute Home Need Help?
+About Julie Legislation Accomplishments Endorsements News Contact Contribute Julie Palakovich Carr May 23, 2017 News Rockville Bans Smoking in Outdoor Restaurants Julie Palakovich Carr May 23, 2017 News Legislation to ban smoking in outdoor dining areas in Rockville was passed the City Council.
 The bill was sponsored by Julie Palakovich Carr.
 Rockville became the second city in Maryland to pass such legislation and is the first jurisdiction in the DC-metropolitan area to ban smoking in outdoor seating areas at restaurants.
-"I think this is an important step for public health in Rockville," said Palakovich Carr.
+"I think this is an important step for public health in Rockville," said Palakovich Carr. https://www.washingtonpost.com/local/maryland-news/rockville-council-votes-to-make-outdoor-dining-and-drinking-smoke-free/2017/05/22/c04bb0be-3f07-11e7-8c25-44d09ff5a4a8_story.html?utm_term=.938c1665638d Newer Post Rockville Directs Its Police Officers to Steer Clear of Immigration Enforcement Older Post Mayor and Council Host Town Hall on Diversity Back to Top Authorized by Friends of Julie Palakovich Carr, Treasurer Yamil Hernandez Contact Julie at Julie@JuliePalakovichCarr.com

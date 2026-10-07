@@ -1,39 +1,234 @@
 [
-"http://facebook.com/laurenboebert",
-"http://twitter.com/laurenboebert",
-"https://instagram.com/laurenboebert",
-"https://laurenforcolorado.com/",
-"https://laurenforcolorado.com/about",
-"https://laurenforcolorado.com/accomplishments",
-"https://laurenforcolorado.com/contact",
-"https://laurenforcolorado.com/donate",
-"https://laurenforcolorado.com/download/lauren_boebert_contract.pdf",
-"https://laurenforcolorado.com/endorsements",
-"https://laurenforcolorado.com/get-involved",
-"https://laurenforcolorado.com/media",
-"https://laurenforcolorado.com/news",
-"https://laurenforcolorado.com/news/congresswoman-lauren-boebert-r-co-3-was-in-the-san-luis-valley-and-met-with-farmers-academics-and-policymakers-on-aug.-8.",
-"https://laurenforcolorado.com/news/congresswoman-lauren-boebert-took-a-page-out-of-another-former-presidents-book-by-holding-her-own-fireside-chat-with-mesa-county-commissioner-janet-rowland.",
-"https://laurenforcolorado.com/news/congresswoman-listens-to-commissioners-priorities-touts-accomplishments",
-"https://laurenforcolorado.com/news/durango-herald-lte-proud-of-boeberts-work-for-military",
-"https://laurenforcolorado.com/news/important-updates-from-team-boebert-august-19-2023",
-"https://laurenforcolorado.com/news/important-updates-from-team-boebert-august-2023",
-"https://laurenforcolorado.com/news/kjct-lauren-boebert-awards-congressional-recognition-to-business-incubator-center",
-"https://laurenforcolorado.com/news/letter-to-the-editor-i-am-proud-to-have-representative-boebert-as-my-cd-3-representative.",
-"https://laurenforcolorado.com/news/montrose-press-im-excited-to-be-home-congresswoman-lauren-boebert-discusses-national-local-issues",
-"https://laurenforcolorado.com/news/montrose-press-op-ed-dont-go-underestimating-lauren-boebert",
-"https://laurenforcolorado.com/news/page/2",
-"https://laurenforcolorado.com/news/page/20",
-"https://laurenforcolorado.com/news/page/3",
-"https://laurenforcolorado.com/news/page/4",
-"https://laurenforcolorado.com/news/page/5",
-"https://laurenforcolorado.com/news/page/6",
-"https://laurenforcolorado.com/news/page/7",
-"https://laurenforcolorado.com/news/page/8",
-"https://laurenforcolorado.com/news/page/9",
-"https://laurenforcolorado.com/pages/privacy",
-"https://laurenforcolorado.com/vote",
-"https://secure.winred.com/lauren-boebert-for-congress/storefront",
-"https://txtterms.co/80306",
-"https://youtube.com/@laurenforfreedom3084"
+{
+"text": "1",
+"href": "https://laurenforcolorado.com/news/"
+},
+{
+"text": "2",
+"href": "https://laurenforcolorado.com/news/page/2/"
+},
+{
+"text": "20",
+"href": "https://laurenforcolorado.com/news/page/20/"
+},
+{
+"text": "3",
+"href": "https://laurenforcolorado.com/news/page/3/"
+},
+{
+"text": "4",
+"href": "https://laurenforcolorado.com/news/page/4/"
+},
+{
+"text": "5",
+"href": "https://laurenforcolorado.com/news/page/5/"
+},
+{
+"text": "6",
+"href": "https://laurenforcolorado.com/news/page/6/"
+},
+{
+"text": "7",
+"href": "https://laurenforcolorado.com/news/page/7/"
+},
+{
+"text": "8",
+"href": "https://laurenforcolorado.com/news/page/8/"
+},
+{
+"text": "9",
+"href": "https://laurenforcolorado.com/news/page/9/"
+},
+{
+"text": "About",
+"href": "https://laurenforcolorado.com/about/"
+},
+{
+"text": "About Lauren",
+"href": "https://laurenforcolorado.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://laurenforcolorado.com/accomplishments/"
+},
+{
+"text": "Contact",
+"href": "https://laurenforcolorado.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://laurenforcolorado.com/donate"
+},
+{
+"text": "Durango Herald LTE: Proud of Boebert’s work for military",
+"href": "https://laurenforcolorado.com/news/durango-herald-lte-proud-of-boeberts-work-for-military/"
+},
+{
+"text": "Endorsements",
+"href": "https://laurenforcolorado.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/laurenboebert"
+},
+{
+"text": "Get Involved",
+"href": "https://laurenforcolorado.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/laurenboebert/"
+},
+{
+"text": "KJCT Grand Junction: Representative Lauren Boebert Hosts Fireside Chat in Fruita",
+"href": "https://laurenforcolorado.com/news/congresswoman-lauren-boebert-took-a-page-out-of-another-former-presidents-book-by-holding-her-own-fireside-chat-with-mesa-county-commissioner-janet-rowland./"
+},
+{
+"text": "KJCT: Lauren Boebert awards congressional recognition to Business Incubator Center",
+"href": "https://laurenforcolorado.com/news/kjct-lauren-boebert-awards-congressional-recognition-to-business-incubator-center/"
+},
+{
+"text": "Letter to the Editor: Boebert: The Best Candidate",
+"href": "https://laurenforcolorado.com/news/letter-to-the-editor-i-am-proud-to-have-representative-boebert-as-my-cd-3-representative./"
+},
+{
+"text": "Media",
+"href": "https://laurenforcolorado.com/media/"
+},
+{
+"text": "Menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "Montrose Press: “I’m excited to be home\" Congresswoman Lauren Boebert discusses national, local issues",
+"href": "https://laurenforcolorado.com/news/montrose-press-im-excited-to-be-home-congresswoman-lauren-boebert-discusses-national-local-issues/"
+},
+{
+"text": "NEXT PAGE",
+"href": "https://laurenforcolorado.com/news/page/6/"
+},
+{
+"text": "News",
+"href": "https://laurenforcolorado.com/news/"
+},
+{
+"text": "Newsletter: Important Updates from Team Boebert",
+"href": "https://laurenforcolorado.com/news/important-updates-from-team-boebert-august-19-2023/"
+},
+{
+"text": "Newsletter: Important Updates from Team Boebert",
+"href": "https://laurenforcolorado.com/news/important-updates-from-team-boebert-august-2023/"
+},
+{
+"text": "Op-Ed: Don't Go Underestimating Lauren Boebert",
+"href": "https://laurenforcolorado.com/news/montrose-press-op-ed-dont-go-underestimating-lauren-boebert/"
+},
+{
+"text": "PREV. PAGE",
+"href": "https://laurenforcolorado.com/news/page/4/"
+},
+{
+"text": "Pledge",
+"href": "https://laurenforcolorado.com/download/lauren_boebert_contract.pdf"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/congresswoman-lauren-boebert-r-co-3-was-in-the-san-luis-valley-and-met-with-farmers-academics-and-policymakers-on-aug.-8./"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/congresswoman-lauren-boebert-took-a-page-out-of-another-former-presidents-book-by-holding-her-own-fireside-chat-with-mesa-county-commissioner-janet-rowland./"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/congresswoman-listens-to-commissioners-priorities-touts-accomplishments/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/durango-herald-lte-proud-of-boeberts-work-for-military/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/important-updates-from-team-boebert-august-19-2023/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/important-updates-from-team-boebert-august-2023/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/kjct-lauren-boebert-awards-congressional-recognition-to-business-incubator-center/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/letter-to-the-editor-i-am-proud-to-have-representative-boebert-as-my-cd-3-representative./"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/montrose-press-im-excited-to-be-home-congresswoman-lauren-boebert-discusses-national-local-issues/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/montrose-press-op-ed-dont-go-underestimating-lauren-boebert/"
+},
+{
+"text": "SMS Terms & Conditions",
+"href": "https://txtterms.co/80306"
+},
+{
+"text": "The Durango Herald: Rep. Lauren Boebert Visits La Plata County",
+"href": "https://laurenforcolorado.com/news/congresswoman-listens-to-commissioners-priorities-touts-accomplishments/"
+},
+{
+"text": "Twitter",
+"href": "http://twitter.com/laurenboebert"
+},
+{
+"text": "Valley Courier: Representative Boebert Tours The San Luis Valley",
+"href": "https://laurenforcolorado.com/news/congresswoman-lauren-boebert-r-co-3-was-in-the-san-luis-valley-and-met-with-farmers-academics-and-policymakers-on-aug.-8./"
+},
+{
+"text": "Vote",
+"href": "https://laurenforcolorado.com/vote"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@laurenforfreedom3084"
+},
+{
+"text": "[image: Lauren Boebert Logo]",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "[image: Text JOIN to 80306]",
+"href": "sms:+80306"
+},
+{
+"text": "[no text]",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "javascript:;"
+},
+{
+"text": "info@laurenforcolorado.com",
+"href": "mailto:info@laurenforcolorado.com"
+},
+{
+"text": "privacy policy",
+"href": "https://laurenforcolorado.com/pages/privacy"
+},
+{
+"text": "store",
+"href": "https://secure.winred.com/lauren-boebert-for-congress/storefront/"
+},
+{
+"text": "terms",
+"href": "https://txtterms.co/80306"
+}
 ]

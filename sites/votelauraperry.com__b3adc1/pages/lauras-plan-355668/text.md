@@ -1,58 +1,34 @@
-Laura's Plan
-Laura Perry is running to make Michigan a more affordable, and therefore prosperous, state full of great jobs, great schools, and strong and safe communities.
-While most politicians can only speak vaguely about their ideas, Laura Perry has developed a detailed and bold plan to put Michigan back on the right track.
-Affordability and Affordable Housing
-Laura Perry's plan will stop large private equity firms and corporations from buying up single-family homes in Michigan neighborhoods.
-Her plan would help make homes more affordable, keep more homes available to families, and increase opportunities for first-time home buyers.
-Laura Perry is running to make Michigan more affordable.
-She will fight to lower taxes, rein in government spending, and reverse the failed policies that have made housing, groceries, gas, and everyday necessities more expensive for hard-working families.
-Her plan would stop corporations from using AI to gouge families by using their personal data to charge higher prices when buying goods and services.
-Laura Perry’s plan would prohibit this so-called surveillance pricing, increase transparency, and make sure everyone is treated fairly when shopping.
-Affordable Access to Quality Health Care
-Laura Perry's plan would lower healthcare costs by cracking down on inflated hospital bills.
+top of page Laura Perry FOR STATE REPRESENTATIVE Home Laura's Plan About Endorsements Request Yard Sign Volunteer Contact District Map Donate More Use tab to navigate through the menu items.
+Donate Laura's Plan Laura Perry is running to make Michigan a more affordable, and therefore prosperous, state full of great jobs, great schools, and strong and safe communities. ​ While most politicians can only speak vaguely about their ideas, Laura Perry has developed a detailed and bold plan to put Michigan back on the right track.
+Affordability and Affordable Housing Laura Perry's plan will stop large private equity firms and corporations from buying up single-family homes in Michigan neighborhoods.
+Her plan would help make homes more affordable, keep more homes available to families, and increase opportunities for first-time home buyers. ​ Laura Perry is running to make Michigan more affordable.
+She will fight to lower taxes, rein in government spending, and reverse the failed policies that have made housing, groceries, gas, and everyday necessities more expensive for hard-working families. ​ Her plan would stop corporations from using AI to gouge families by using their personal data to charge higher prices when buying goods and services.
+Laura Perry’s plan would prohibit this so-called surveillance pricing, increase transparency, and make sure everyone is treated fairly when shopping. ​ Affordable Access to Quality Health Care Laura Perry's plan would lower healthcare costs by cracking down on inflated hospital bills.
 A new Hospital Cost Review Board would force hospitals to lower costs, break up healthcare monopolies, and stop large hospitals from requiring doctors to sign non-compete agreements that limit access to care just to increase revenue.
-Perry’s new price transparency requirements would also stop hospitals from hitting families with surprise medical bills on their way out the door.
-Families who experience medical emergencies are often hit with surprise costs in the thousands of dollars.
+Perry’s new price transparency requirements would also stop hospitals from hitting families with surprise medical bills on their way out the door. ​ Families who experience medical emergencies are often hit with surprise costs in the thousands of dollars.
 When they struggle to pay immediately, hospitals send debt collectors to put liens on their homes, garnish wages, foreclose on their homes, and take other actions that can negatively impact their credit scores.
 Laura Perry's plan would prohibit those predatory practices and require hospitals to offer realistic payment plans and more forgiving timelines in order to give families relief from those aggressive tactics.
-Local Control and Reliable, Affordable Energy
-Laura Perry will fight to take power away from unelected and unaccountable Lansing bureaucrats and restore local control over energy development.
-She believes communities should have the final say on projects that impact their farmland, property values, quality of life, and local character, not state government acting on behalf of special interests.
-Laura Perry's plan would require utility companies to roll back electric rates by $1 billion, completely wiping out the last three years of rate increases passed onto Michigan families.
-Perry’s plan will lower monthly bills, freeze rates going forward and save families an average of $250 every year.
-Michigan residents have serious, well-founded concerns about data centers, including preserving farmland, energy and water usage, strain on local infrastructure, noise levels, and other environmental consequences.
-Many are also alarmed that large corporations are bullying local governments into accepting these massive operations against the will of their own zoning boards.
-Laura Perry will defend the rights of local communities to decide what is best for them, and supports a one-year moratorium on additional data center permits until policymakers have had time to study and analyze the long-term consequences of this industry that has very suddenly, very rapidly expanded into our communities.
-Restoring Excellence in Education
-Laura Perry's plan would better prepare students for life after graduation by teaching them real life skills through expanding career and technical education, skilled trades programs, apprenticeships, and financial literacy instruction.
-Laura Perry's plan would include introducing career and technical education (CTE) programming as early as middle school so kids that don't choose to go to college can track in the Skilled Trades in high school.
-Having the ability to come out of high school with a well paying job.
-Laura Perry supports increasing investment in early childhood education and programs that help students learn to read.
-She calls for strengthening Michigan’s reading standards, guaranteeing every child is proficient in reading by fourth grade, expanding evidence-based phonics, and providing additional support to help students build strong reading skills at an earlier age.
-Supporting Young Women and Girls
-As a girls’ soccer coach and mother of four, Laura Perry understands the importance of protecting opportunities for young women.
-She will stand up for fairness in athletics, oppose biological males in girls’ sports and locker rooms, and fight to ensure female athletes can compete on a level playing field.
-Separation based on biological sex would also extend to our jails, prisons, and womens shelters where females are most vulnerable.
-Public Safety
-As a mother of four, Laura Perry knows that nothing is more important than the safety of our families and communities.
+Local Control and Reliable, Affordable Energy Laura Perry will fight to take power away from unelected and unaccountable Lansing bureaucrats and restore local control over energy development.
+She believes communities should have the final say on projects that impact their farmland, property values, quality of life, and local character, not state government acting on behalf of special interests. ​ Laura Perry's plan would require utility companies to roll back electric rates by $1 billion, completely wiping out the last three years of rate increases passed onto Michigan families.
+Perry’s plan will lower monthly bills, freeze rates going forward and save families an average of $250 every year. ​ Michigan residents have serious, well-founded concerns about data centers, including preserving farmland, energy and water usage, strain on local infrastructure, noise levels, and other environmental consequences.
+Many are also alarmed that large corporations are bullying local governments into accepting these massive operations against the will of their own zoning boards. ​ Laura Perry will defend the rights of local communities to decide what is best for them, and supports a one-year moratorium on additional data center permits until policymakers have had time to study and analyze the long-term consequences of this industry that has very suddenly, very rapidly expanded into our communities. ​ Restoring Excellence in Education Laura Perry's plan would better prepare students for life after graduation by teaching them real life skills through expanding career and technical education, skilled trades programs, apprenticeships, and financial literacy instruction. ​ Laura Perry's plan would include introducing career and technical education (CTE) programming as early as middle school so kids that don't choose to go to college can track in the Skilled Trades in high school.
+Having the ability to come out of high school with a well paying job. ​ Laura Perry supports increasing investment in early childhood education and programs that help students learn to read.
+She calls for strengthening Michigan’s reading standards, guaranteeing every child is proficient in reading by fourth grade, expanding evidence-based phonics, and providing additional support to help students build strong reading skills at an earlier age. ​ ​ Supporting Young Women and Girls As a girls’ soccer coach and mother of four, Laura Perry understands the importance of protecting opportunities for young women.
+She will stand up for fairness in athletics, oppose biological males in girls’ sports and locker rooms, and fight to ensure female athletes can compete on a level playing field. ​ ​ Separation based on biological sex would also extend to our jails, prisons, and womens shelters where females are most vulnerable.
+Public Safety As a mother of four, Laura Perry knows that nothing is more important than the safety of our families and communities.
 That’s why she is proud to be endorsed by the Police Officers Association of Michigan and will be a strong advocate for law enforcement, public safety, and policies that keep criminals off our streets.
 Perry will always back the blue.
-Fully fund local and state police, invest in officer recruitment, and give first responders the support to keep our neighborhoods safe.
-Laura Perry supports restoring hundreds of millions of dollars for school safety programs and school resource officers and a package of reforms that make schools safer.
+Fully fund local and state police, invest in officer recruitment, and give first responders the support to keep our neighborhoods safe. ​ Laura Perry supports restoring hundreds of millions of dollars for school safety programs and school resource officers and a package of reforms that make schools safer.
 The plan provides resources for security upgrades, emergency preparedness, mental health support, and coordination between schools and local law enforcement to help protect students and staff.
-Revitalize Our Infrastructure
-Despite long-standing promises, Michigan's roads are still in disrepair under the Whitmer administration.
+Revitalize Our Infrastructure Despite long-standing promises, Michigan's roads are still in disrepair under the Whitmer administration.
 Laura Perry's plan would put an additional $3.1 billion annually into repairing roads and bridges without raising taxes, by ending corporate welfare subsidies and ensuring that all taxes paid at the gas pump go directly to Michigan roads.
-Laura would reduce the constant need for special assessments and millages by prioritizing critical infrastructure, particularly for the rural communities that depend on it.
-As the wife of a union journeyman lineman, Laura Perry understands that reliable infrastructure also includes reliable, affordable energy.
+Laura would reduce the constant need for special assessments and millages by prioritizing critical infrastructure, particularly for the rural communities that depend on it. ​ As the wife of a union journeyman lineman, Laura Perry understands that reliable infrastructure also includes reliable, affordable energy.
 Laura is committed to holding utility companies responsible for maintaining reliable distribution networks.
-Protect Our Environment
-As the Great Lakes State we have an incredible responsibility housing 21% of the Earth's fresh water.
+Protect Our Environment As the Great Lakes State we have an incredible responsibility housing 21% of the Earth's fresh water.
 As a mom, we must be concerned about what is coming into our community and what it could mean for their health, water, property values, and the future we are leaving for our children.
-They deserve clear answers and protections they can trust.
-Michigan has very low hazardous waste tipping (dumping) fees; incentivizing other states to bring their toxic and atomic waste to Michigan.
+They deserve clear answers and protections they can trust. ​ Michigan has very low hazardous waste tipping (dumping) fees; incentivizing other states to bring their toxic and atomic waste to Michigan.
 I support higher hazardous-waste disposal fees.
-The money going back to the community should be dedicated to stronger inspections, independent environmental monitoring, emergency preparedness, and protecting the communities that bear the impact.
-A higher fee cannot become a permission slip to bring in more dangerous waste.
+The money going back to the community should be dedicated to stronger inspections, independent environmental monitoring, emergency preparedness, and protecting the communities that bear the impact. ​ A higher fee cannot become a permission slip to bring in more dangerous waste.
 We also need stronger enforcement and guidelines as to what we can accept, timely public notice about incoming waste, and accurate monitoring results residents can easily access.
 My priority is protecting the people who live here.
+Home Laura's Plan Endorsements About Volunteer Contact Donate Privacy Policy Laura Perry - FOR STATE REPRESENTATIVE - © # by Friends of Laura Perry Paid for by Friends of Laura Perry PO Box 148, Dundee, MI 48131 Laura@VoteLauraPerry.com bottom of page

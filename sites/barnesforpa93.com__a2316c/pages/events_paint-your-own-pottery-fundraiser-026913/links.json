@@ -1,15 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Paint+Your+Own+Pottery+Fundraiser&dates=20260927T220000Z%2F20260928T010000Z",
-"http://maps.google.com/?q=Private+Location",
-"https://barnesforpa93.com/",
-"https://barnesforpa93.com/blog",
-"https://barnesforpa93.com/cart",
-"https://barnesforpa93.com/events",
-"https://barnesforpa93.com/events/celebrate-the-slate",
-"https://barnesforpa93.com/events/dallastown-halloween-parade",
-"https://barnesforpa93.com/events/paint-your-own-pottery-fundraiser?format=ical",
-"https://facebook.com/people/Missy-Barnes-for-PA-93/61578485223105",
-"https://instagram.com/missybarnesforpa93",
-"https://secure.actblue.com/donate/missy-barnes-1",
-"https://squarespace.com/"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=private+location"
+},
+{
+"text": "0",
+"href": "https://barnesforpa93.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://barnesforpa93.com/events"
+},
+{
+"text": "BarnesForPA93@gmail.com",
+"href": "mailto:BarnesForPA93@gmail.com"
+},
+{
+"text": "Blog",
+"href": "https://barnesforpa93.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/missy-barnes-1"
+},
+{
+"text": "Events",
+"href": "https://barnesforpa93.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Paint+Your+Own+Pottery+Fundraiser&dates=20260927T220000Z%2F20260928T010000Z"
+},
+{
+"text": "ICS",
+"href": "https://barnesforpa93.com/events/paint-your-own-pottery-fundraiser?format=ical"
+},
+{
+"text": "Next Next October 15 Dallastown Halloween Parade",
+"href": "https://barnesforpa93.com/events/dallastown-halloween-parade"
+},
+{
+"text": "Previous Previous September 25 Celebrate the Slate!",
+"href": "https://barnesforpa93.com/events/celebrate-the-slate"
+},
+{
+"text": "Priorities & Values",
+"href": "https://barnesforpa93.com/#priorities"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: Forward Together]",
+"href": "https://barnesforpa93.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Missy-Barnes-for-PA-93/61578485223105/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/missybarnesforpa93/"
+}
 ]

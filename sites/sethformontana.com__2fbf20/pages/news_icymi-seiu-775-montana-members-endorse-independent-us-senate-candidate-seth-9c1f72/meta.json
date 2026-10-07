@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.sethformontana.com/news/icymi-seiu-775-montana-members-endorse-independent-us-senate-candidate-seth-bodnar",
- "paid_for_by": "Paid for by Seth Bodnar for Montana",
+ "fingerprint": "b08d2fabfaae9445ea777da5992fabef44ef827e",
+ "format": 3,
+ "paid_for_by": "Paid for by Seth Bodnar for Montana You need to enable JavaScript to run this app",
  "title": "ICYMI: SEIU 775 Montana Members Endorse Independent U.S. Senate Candidate Seth Bodnar",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

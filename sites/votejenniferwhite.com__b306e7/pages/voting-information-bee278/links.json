@@ -1,18 +1,74 @@
 [
-"https://elections.maryland.gov/about/county_boards.html",
-"https://elections.maryland.gov/get_involved/election_judges.html",
-"https://elections.maryland.gov/voting/documents/Mail-in%20Ballot%20Application_English.pdf",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://secure.actblue.com/donate/friends-of-jennifer-white-2",
-"https://votejenniferwhite.com/",
-"https://votejenniferwhite.com/bio-1",
-"https://votejenniferwhite.com/delegate-scholarship",
-"https://votejenniferwhite.com/join-the-team-1",
-"https://votejenniferwhite.com/priorities",
-"https://votejenniferwhite.com/sponsored-legislation-2",
-"https://votejenniferwhite.com/voting-information",
-"https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1",
-"https://voterservices.elections.maryland.gov/PollingPlaceSearch",
-"https://voterservices.elections.maryland.gov/VoterSearch",
-"https://voterservices.elections.maryland.gov/onlinemailinrequest/InstructionsStep1"
+{
+"text": "BIO",
+"href": "https://votejenniferwhite.com/bio-1"
+},
+{
+"text": "DELEGATE SCHOLARSHIP",
+"href": "https://votejenniferwhite.com/delegate-scholarship"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-jennifer-white-2"
+},
+{
+"text": "Home",
+"href": "https://votejenniferwhite.com/"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://votejenniferwhite.com/join-the-team-1"
+},
+{
+"text": "PRIORITIES",
+"href": "https://votejenniferwhite.com/priorities"
+},
+{
+"text": "SPONSORED LEGISLATION",
+"href": "https://votejenniferwhite.com/sponsored-legislation-2"
+},
+{
+"text": "VOTING INFORMATION",
+"href": "https://votejenniferwhite.com/voting-information"
+},
+{
+"text": "[image: Vote for Jennifer White]",
+"href": "https://votejenniferwhite.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "friendsofjenniferwhite@gmail.com",
+"href": "mailto:friendsofjenniferwhite@gmail.com"
+},
+{
+"text": "here",
+"href": "https://elections.maryland.gov/voting/documents/Mail-in%20Ballot%20Application_English.pdf"
+},
+{
+"text": "here",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+},
+{
+"text": "here",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "here",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "here",
+"href": "https://voterservices.elections.maryland.gov/onlinemailinrequest/InstructionsStep1"
+},
+{
+"text": "link",
+"href": "https://elections.maryland.gov/get_involved/election_judges.html"
+},
+{
+"text": "local board of election",
+"href": "https://elections.maryland.gov/about/county_boards.html"
+}
 ]

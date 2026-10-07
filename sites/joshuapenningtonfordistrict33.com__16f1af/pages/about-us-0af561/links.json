@@ -1,16 +1,58 @@
 [
-"https://delawarestonewall.com/",
-"https://elections.delaware.gov/maps",
-"https://facebook.com/people/Joshua-Pennington-for-District-33/61576524597456",
-"https://facebook.com/profile.php?id=61585566670909",
-"https://ivote.de.gov/VoterView/registrant/newregistrant",
-"https://joshuapenningtonfordistrict33.com/",
-"https://joshuapenningtonfordistrict33.com/about-joshua",
-"https://joshuapenningtonfordistrict33.com/about-us",
-"https://joshuapenningtonfordistrict33.com/accessibility-statement",
-"https://joshuapenningtonfordistrict33.com/contact",
-"https://joshuapenningtonfordistrict33.com/privacy-policy",
-"https://secure.actblue.com/donate/joshua-pennington-1",
-"https://sites.google.com/pridedeldems.org/pridecaucusdeldems/home",
-"https://wix.com/"
+{
+"text": "About Joshua",
+"href": "https://www.joshuapenningtonfordistrict33.com/about-joshua"
+},
+{
+"text": "About the Campaign",
+"href": "https://www.joshuapenningtonfordistrict33.com"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.joshuapenningtonfordistrict33.com/accessibility-statement"
+},
+{
+"text": "Contact and Donate",
+"href": "https://www.joshuapenningtonfordistrict33.com/contact"
+},
+{
+"text": "Donate using Act Blue",
+"href": "https://secure.actblue.com/donate/joshua-pennington-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.joshuapenningtonfordistrict33.com/about-us"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.joshuapenningtonfordistrict33.com/privacy-policy"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: 605608602_122101004691185555_6512684674852575386_n.jpg]",
+"href": "https://www.facebook.com/profile.php?id=61585566670909"
+},
+{
+"text": "[image: 762415896_122119846316884153_4822017114704102781_n.jpg]",
+"href": "https://sites.google.com/pridedeldems.org/pridecaucusdeldems/home"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/people/Joshua-Pennington-for-District-33/61576524597456/"
+},
+{
+"text": "[image: images.jpg]",
+"href": "https://delawarestonewall.com/"
+},
+{
+"text": "here",
+"href": "https://elections.delaware.gov/maps/"
+},
+{
+"text": "here",
+"href": "https://ivote.de.gov/VoterView/registrant/newregistrant"
+}
 ]

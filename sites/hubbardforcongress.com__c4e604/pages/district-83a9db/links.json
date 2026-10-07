@@ -1,21 +1,98 @@
 [
-"https://bsky.app/profile/chuck.hubbardforcongress.com",
-"https://facebook.com/ChuckHubbardNC",
-"https://hubbardforcongress.com/",
-"https://hubbardforcongress.com/about",
-"https://hubbardforcongress.com/district",
-"https://hubbardforcongress.com/donate",
-"https://hubbardforcongress.com/platform",
-"https://hubbardforcongress.com/privacy-policy",
-"https://hubbardforcongress.com/terms-of-use",
-"https://hubbardforcongress.com/virginia-foxx",
-"https://hubbardforcongress.com/volunteer",
-"https://instagram.com/ChuckHubbardNC",
-"https://ncsbe.gov/voting/vote-mail/military-and-overseas-voting",
-"https://ncsbe.gov/voting/voter-id",
-"https://threads.net/@chuckhubbardnc",
-"https://tiktok.com/@chuckhubbardnc",
-"https://twitter.com/ChuckHubbardNC",
-"https://vt.ncsbe.gov/RegLkup",
-"https://xpslane.com/"
+{
+"text": "About",
+"href": "https://hubbardforcongress.com/about"
+},
+{
+"text": "CHIP IN",
+"href": "https://hubbardforcongress.com/donate"
+},
+{
+"text": "Check Your Voter Registration",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Chuck Hubbard",
+"href": "https://hubbardforcongress.com/about"
+},
+{
+"text": "Donate",
+"href": "https://hubbardforcongress.com/donate"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Home",
+"href": "https://hubbardforcongress.com/"
+},
+{
+"text": "Learn About Voter ID Requirements",
+"href": "https://www.ncsbe.gov/voting/voter-id#required"
+},
+{
+"text": "Platform",
+"href": "https://hubbardforcongress.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://hubbardforcongress.com/privacy-policy"
+},
+{
+"text": "Terms of Use",
+"href": "https://hubbardforcongress.com/terms-of-use"
+},
+{
+"text": "The 5th District",
+"href": "https://hubbardforcongress.com/district"
+},
+{
+"text": "Virginia Foxx",
+"href": "https://hubbardforcongress.com/virginia-foxx"
+},
+{
+"text": "Volunteer",
+"href": "https://hubbardforcongress.com/volunteer"
+},
+{
+"text": "[image: Chuck Hubbard for Congress]",
+"href": "https://hubbardforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://hubbardforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/chuck.hubbardforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ChuckHubbardNC"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ChuckHubbardNC"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ChuckHubbardNC"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@chuckhubbardnc"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@chuckhubbardnc"
+},
+{
+"text": "chuck@hubbardforcongress.com",
+"href": "mailto:chuck@hubbardforcongress.com"
+},
+{
+"text": "military and overseas citizen voters",
+"href": "https://www.ncsbe.gov/voting/vote-mail/military-and-overseas-voting"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Senator Lanza is endorsed by....",
  "final_url": "https://www.senatorandrewlanza.com/endorsements",
- "paid_for_by": null,
+ "fingerprint": "4869967275fd778749c18635499fe3d260a2c25a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements | Andrew Lanza",
  "years_mentioned": []
 }

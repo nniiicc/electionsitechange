@@ -1,20 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Coordinated+Campaign+Phone+Bank&dates=20260908T223000Z%2F20260909T013000Z&location=Golden+Valley",
-"http://maps.google.com/?q=+Golden+Valley",
-"https://facebook.com/kyrstinforminnesota",
-"https://instagram.com/kyrstinforminnesota",
-"https://kyrstinforminnesota.com/",
-"https://kyrstinforminnesota.com/cart",
-"https://kyrstinforminnesota.com/endorsements",
-"https://kyrstinforminnesota.com/events",
-"https://kyrstinforminnesota.com/events/knock9-6",
-"https://kyrstinforminnesota.com/events/knock9-6-gtcsd-76c9h-8p3cp",
-"https://kyrstinforminnesota.com/events/knock9-6-gtcsd-76c9h-8p3cp-ayes2?format=ical",
-"https://kyrstinforminnesota.com/get-involved",
-"https://kyrstinforminnesota.com/meet-kyrstin",
-"https://kyrstinforminnesota.com/news",
-"https://kyrstinforminnesota.com/priorities",
-"https://kyrstinforminnesota.com/vote",
-"https://mobilize.us/dflcc/event/1010255",
-"https://secure.actblue.com/donate/kyrstin-schuette-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+golden+valley+"
+},
+{
+"text": "0",
+"href": "https://kyrstinforminnesota.com/cart"
+},
+{
+"text": "About",
+"href": "https://kyrstinforminnesota.com/meet-kyrstin"
+},
+{
+"text": "Back to All Events",
+"href": "https://kyrstinforminnesota.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kyrstin-schuette-1"
+},
+{
+"text": "Endorsements",
+"href": "https://kyrstinforminnesota.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://kyrstinforminnesota.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://kyrstinforminnesota.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coordinated+Campaign+Phone+Bank&dates=20260908T223000Z%2F20260909T013000Z&location=Golden+Valley"
+},
+{
+"text": "ICS",
+"href": "https://kyrstinforminnesota.com/events/knock9-6-gtcsd-76c9h-8p3cp-ayes2?format=ical"
+},
+{
+"text": "News & Forums",
+"href": "https://kyrstinforminnesota.com/news"
+},
+{
+"text": "Next Next September 10 Coordinated Campaign Door Knock",
+"href": "https://kyrstinforminnesota.com/events/knock9-6-gtcsd-76c9h-8p3cp"
+},
+{
+"text": "Previous Previous September 5 Coordinated Campaign Door Knock",
+"href": "https://kyrstinforminnesota.com/events/knock9-6"
+},
+{
+"text": "Priorities",
+"href": "https://kyrstinforminnesota.com/priorities"
+},
+{
+"text": "Vote",
+"href": "https://kyrstinforminnesota.com/vote"
+},
+{
+"text": "[image: Kyrstin for Minnesota]",
+"href": "https://kyrstinforminnesota.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kyrstinforminnesota"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kyrstinforminnesota/"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@Kyrstinforminnesota.com"
+},
+{
+"text": "https://www.mobilize.us/dflcc/event/1010255/",
+"href": "https://www.mobilize.us/dflcc/event/1010255/"
+}
 ]

@@ -1,21 +1,7 @@
-$30.80
-This 10oz rocks glass brings quiet character to every evening pour.
+Justin Griffis State Representative · MI 47 Home About Platform District Events Volunteer Vote Store Contact Donate ← Back to Store Justin Griffis Rocks Glass $30.80 This 10oz rocks glass brings quiet character to every evening pour.
 Its clean cylindrical shape and substantial base feel grounded in your hand, while the wraparound print catches light and adds a personalized touch to the clear tempered glass.
 When the day slows, this glass highlights the color of a rye, bourbon, or craft soda and keeps conversation focused on the small moments — a laugh shared, a toast remembered, a story retold.
 Dishwasher-safe cleaning is not recommended; a gentle hand wash preserves the vibrant print and crisp clarity.
 Made in the USA, BPA-free, and thoughtfully finished with a discreet barcode under the base.
-Product features
-- 10oz (0.3L) clear tempered glass
-- Vibrant wraparound print with bright, crisp colors
-- Sturdy base and modern cylindrical silhouette
-- BPA-free; made in the USA
-- Hand wash only; barcode sticker under base
-Care instructions
-- Hand wash only
-Product features
-- 10oz (0.3L) clear tempered glass
-- Sturdy base and modern cylindrical silhouette
-- BPA-free; made in the USA
-- Hand wash only; barcode sticker under base
-Care instructions
-- Hand wash only
+Product features - 10oz (0.3L) clear tempered glass - Vibrant wraparound print with bright, crisp colors - Sturdy base and modern cylindrical silhouette - BPA-free; made in the USA - Hand wash only; barcode sticker under base Care instructions - Hand wash only Option * 10oz — $30.80 Quantity Add to Cart Justin Griffis Common-sense Republican running for Michigan State Representative in the 47th District. f X IG Campaign About Justin Platform The 47th District Events Get Involved Donate Volunteer Voter Info Contact Contact General: [email protected] Press: [email protected] Paid for by Justin Griffis for State Representative · 9175 Dogwood Ln, Dexter, MI 48130 © # Justin Griffis for State Representative.
+All rights reserved.

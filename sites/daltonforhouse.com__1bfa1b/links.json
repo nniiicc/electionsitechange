@@ -1,21 +1,82 @@
 [
-"https://daltonforhouse.com/",
-"https://daltonforhouse.com/about",
-"https://daltonforhouse.com/issues",
-"https://daltonforhouse.com/news",
-"https://designedtorun.com/",
-"https://facebook.com/daltonforhouse",
-"https://instagram.com/daltonforhouse",
-"https://koco.com/article/which-oklahoma-republicans-signed-letter-ryan-walters-investigation/61890178",
-"https://kosu.org/women-sue-oklahoma-abortion-ban",
-"https://publicradiotulsa.org/local-regional/2020-12-23/oklahoma-house-senate-republicans-urge-congressional-delegation-to-challenge-election-result",
-"https://secure.actblue.com/donate/daltongau",
-"https://secure.actblue.com/donate/daltongau?amount=10",
-"https://secure.actblue.com/donate/daltongau?amount=100",
-"https://secure.actblue.com/donate/daltongau?amount=25",
-"https://secure.actblue.com/donate/daltongau?amount=50",
-"https://secure.actblue.com/donate/daltongau?amount=83",
-"https://secure.actblue.com/donate/daltonshop",
-"https://thelostogle.com/2020/10/30/pro-life-oklahoma-house-candidate-paid-for-womans-abortion",
-"https://tiktok.com/@daltonforhouse"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/daltongau?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/daltongau?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/daltongau?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/daltongau?amount=50"
+},
+{
+"text": "$83",
+"href": "https://secure.actblue.com/donate/daltongau?amount=83"
+},
+{
+"text": "After paying for his girlfriend's abortion",
+"href": "https://thelostogle.com/2020/10/30/pro-life-oklahoma-house-candidate-paid-for-womans-abortion"
+},
+{
+"text": "HQ@DaltonForHouse.com",
+"href": "mailto:HQ@DaltonForHouse.com"
+},
+{
+"text": "Merch",
+"href": "https://secure.actblue.com/donate/daltonshop"
+},
+{
+"text": "News",
+"href": "https://www.daltonforhouse.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/daltongau"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.daltonforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/daltonforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/daltonforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@daltonforhouse"
+},
+{
+"text": "denied care",
+"href": "https://www.kosu.org/women-sue-oklahoma-abortion-ban"
+},
+{
+"text": "learn more",
+"href": "https://www.daltonforhouse.com/issues"
+},
+{
+"text": "more about me",
+"href": "https://www.daltonforhouse.com/about"
+},
+{
+"text": "refusing to sign a letter",
+"href": "https://www.koco.com/article/which-oklahoma-republicans-signed-letter-ryan-walters-investigation/61890178"
+},
+{
+"text": "signed a letter",
+"href": "https://www.publicradiotulsa.org/local-regional/2020-12-23/oklahoma-house-senate-republicans-urge-congressional-delegation-to-challenge-election-result"
+}
 ]

@@ -1,5 +1,7 @@
-Taxes
-I’m proud that since 2012 Republicans have cut your taxes by $2.5 billion and eliminated many revenue streams.
+Skip to content Home About Issues Volunteer News Home About Issues Volunteer News DONATE Home About Issues Volunteer News Home About Issues Volunteer News DONATE Home About Issues Volunteer News Home About Issues Volunteer News DONATE DONATE Issues The Facts On Greg Taxes Public Safety Education School Safety Immigration Taxes I’m proud that since 2012 Republicans have cut your taxes by $2.5 billion and eliminated many revenue streams.
 I am not for creating new revenue streams.
 In fact, I’ll be voting for the Constitutional Amendment that prohibits the state from collecting property taxes for state government.
-I will always fight for limited government and low taxes.
+I will always fight for limited government and low taxes .
+Join Team Greg Martin Volunteer Join Team Greg Martin Volunteer The Facts on Greg Taxes Public Safety School Safety Immigration Education Home About Issues Volunteer News Home About Issues Volunteer News Home About Issues Volunteer News Home About Issues Volunteer News Contact: info@ElectGregMartin.com (423) 596-7338 © Copyright # Committee to Elect Greg Martin.
+All rights reserved.
+The Committee to Elect Greg Martin | Fred Decosimo, Treasurer Facebook Instagram X-twitter Youtube Home About Issues Volunteer News Home About Issues Volunteer News DONATE Facebook Instagram X-twitter Youtube Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

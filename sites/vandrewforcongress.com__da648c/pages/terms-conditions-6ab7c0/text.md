@@ -1,26 +1,22 @@
-Terms & Conditions
-Van Drew for Congress
-Mobile Messaging Terms & Conditions
-Van Drew for Congress (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
-If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
+TEXT JVD TO 71858 Wins for South Jersey Awards & Endorsements Latest News Events Support Jeff Boots on the Ground Store Donate Terms & Conditions Van Drew for Congress Mobile Messaging Terms & Conditions Van Drew for Congress (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “ STOP ” to any mobile message from Us in order to opt out of the Program.
 User Opt-In: The Program allows users to receive Short Messaging Service (“SMS”)/Multimedia Messaging Service (“MMS”) mobile messages by users affirmatively opting into the Program.
 Regardless of the opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
 By participating in the Program, you agree to receive calls and text messages from Van Drew for Congress, whether live and/or containing prerecorded or artificial voice, including calls and text messages made using an automatic telephone dialing system.
 Program Description: Without limiting the scope of the Program, users that opt into the Program can expect to receive messages concerning updates and information from Us.
 Cost and Frequency: Message and data rates may apply.
 The Program involves recurring mobile messages, and additional mobile messages may be sent based on your interaction with Us.
-Contact Information: For support text “HELP” to 71858, or to any of Our mobile messages, or email [email protected].
-User Opt-Out and Additional Commands: To opt out (discontinue participation in Program), reply “STOP” to 71858, or to any of Our mobile messages from your mobile device.
+Contact Information: For support text “ HELP ” to 71858, or to any of Our mobile messages, or email [email protected] .
+User Opt-Out and Additional Commands: To opt out (discontinue participation in Program), reply “ STOP ” to 71858, or to any of Our mobile messages from your mobile device.
 This is the easiest and preferred method to opt out of the Program.
 You may receive an additional mobile message confirming your decision to opt out.
 You may also opt out by texting “Stop2End” or “Stop!”, to 71858 or to any of Our mobile messages you receive, or by contacting Us via the means provided above and clearly communicating your intent to unsubscribe from the Program.
-For additional support, text “HELP” to 71858 to get help.
+For additional support, text “ HELP ” to 71858 to get help.
 MMS Disclosure: The Program will send SMS Mobile Terminated Messages (“MTs”) if your mobile device does not support MMS messaging.
 No Warranty: We will not be liable for any delays or failures in the receipt of any mobile messages connected with this Program.
 Delivery of mobile messages is subject to effective transmission from your wireless service provider/network operator, and is outside of Our control.
 Privacy Policy: We respect your privacy.
-By opting into the Program or otherwise sharing your personal information with Us in connection with the Program, you consent to the collection, use, disclosure and sharing of your information as further outlined in Our Privacy Policy, available at https://vandrewforcongress.com/privacy-policy/
-Dispute Resolution: In the event that there is a dispute, claim or controversy between you and Us, or between you and any third-party service provider acting on Our behalf to transmit the mobile messages within the scope of the Program, arising out of or relating to federal or state statutory claims, common law claims, these Terms, Our Privacy Policy, or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, such dispute, claim or controversy will be determined by arbitration in Cape May Court House, NJ before one arbitrator.
+By opting into the Program or otherwise sharing your personal information with Us in connection with the Program, you consent to the collection, use, disclosure and sharing of your information as further outlined in Our Privacy Policy, available at https://vandrewforcongress.com/privacy-policy/ Dispute Resolution : In the event that there is a dispute, claim or controversy between you and Us, or between you and any third-party service provider acting on Our behalf to transmit the mobile messages within the scope of the Program, arising out of or relating to federal or state statutory claims, common law claims, these Terms, Our Privacy Policy, or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, such dispute, claim or controversy will be determined by arbitration in Cape May Court House, NJ before one arbitrator.
 The arbitration will be administered by JAMS.
 For claims greater than $250,000, the JAMS Comprehensive Arbitration Rules and Procedures in effect at the time the arbitration is commenced will apply.
 For claims less than or equal to $250,000, the JAMS Streamlined Arbitration Rules in effect at the time the arbitration is commenced will apply.
@@ -48,4 +44,9 @@ We reserves the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
-Paid for by Van Drew for Congress
+Paid for by Van Drew for Congress Paid for by Van Drew for Congress Privacy Policy Terms & Conditions By checking this box to opt-in you are agreeing to receive recurring text messages from the Van Drew for Congress campaign.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+SMS opt in will not be sold, rented, or shared.
+Reply STOP to cancel.
+Reply HELP for help. https://vandrewforcongress.com/privacy-policy.

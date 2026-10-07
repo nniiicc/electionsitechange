@@ -1,11 +1,4 @@
-- REAL tax relief for working families and seniors
-- Supporting our law enforcement and keep our neighborhoods safe
-- Balanced budgets to protect our children’s future
-- Creating local jobs and smart economic development
-- Reform to end Illinois’ culture of corruption
-- Stopping Mike Madigan from taking over our communities
-About Brad:
-Representative Bradley A.
+Home About Brad Photo Galleries Calendar Get Involved Legislation 20th District About Brad Stephens As your State Representative, Brad is focused on: REAL tax relief for working families and seniors Supporting our law enforcement and keep our neighborhoods safe Balanced budgets to protect our children’s future Creating local jobs and smart economic development Reform to end Illinois’ culture of corruption Stopping Mike Madigan from taking over our communities About Brad: Representative Bradley A.
 Stephens was sworn in on June 29, 2019.
 Stephens concurrently serves as the CEO of one of the most successful municipalities in the nation, Rosemont, Illinois.
 Prior to becoming mayor, Brad Stephens served the Village of Rosemont as a member of its Board of Trustees.
@@ -16,8 +9,9 @@ As Mayor, Stephens has initiated and supervised a number of successful projects 
 Representative Stephens is a generous supporter of a number of charitable organizations, such as Rosemont Helping Hand (which benefits needy families in Rosemont), veterans’ organizations and children’s medical research groups.
 He received “The Hope Award” for his work on behalf of Bear Necessities Pediatric Cancer Foundation.
 Representative Stephens is married (wife Suzi), and has 5 children.
-Lifelong resident and supporter of the 20th District, Representative Bradley A.
+SIGN UP FOR UPDATES HP Name SIGN ME UP!
+GET INVOLVED SHARE YOUR CONCERNS IF YOU COULD WRITE A LAW ABOUT BRAD STEPHENS Lifelong resident and supporter of the 20th District, Representative Bradley A.
 Stephens was sworn in on June 29, 2019.
 Stephens concurrently serves as the CEO of one of the most successful municipalities in the nation, Rosemont, Illinois.
 Prior to becoming mayor, Brad Stephens served the Village of Rosemont as a member of its Board of Trustees for 18 years.
-PAID FOR BY BRAD STEPHENS FOR STATE REPRESENTATIVE
+LEARN MORE PAID FOR BY BRAD STEPHENS FOR STATE REPRESENTATIVE X

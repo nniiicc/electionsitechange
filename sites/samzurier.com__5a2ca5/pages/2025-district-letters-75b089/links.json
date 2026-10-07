@@ -1,52 +1,206 @@
 [
-"http://webserver.rilegislature.gov/BillText/BillText25/SenateText25/S0316.pdf",
-"https://samzurier.com/",
-"https://samzurier.com/2024-senate-district-letters",
-"https://samzurier.com/2025-district-letters",
-"https://samzurier.com/2025-legislation",
-"https://samzurier.com/2026-district-letters",
-"https://samzurier.com/about-sam-zurier",
-"https://samzurier.com/april-20-2025-letter",
-"https://samzurier.com/april-27-2025-letter",
-"https://samzurier.com/april-7-2025-letter",
-"https://samzurier.com/august-3-2025-district-letter",
-"https://samzurier.com/august-31-2025-district-letter",
-"https://samzurier.com/december-14-2025-district-letter",
-"https://samzurier.com/december-7-2025-district-letter",
-"https://samzurier.com/donate",
-"https://samzurier.com/february-16-2025-district-letter",
-"https://samzurier.com/february-2-2025-district-letter",
-"https://samzurier.com/february-23-2025-district-letter",
-"https://samzurier.com/february-9-2025-district-letter",
-"https://samzurier.com/fy-2026-budget-documents",
-"https://samzurier.com/january-19-2025-district-letter",
-"https://samzurier.com/january-26-2025-district-letter",
-"https://samzurier.com/janujary-12-2025-district-letter",
-"https://samzurier.com/join-my-email-list",
-"https://samzurier.com/june-1-2025-district-letter",
-"https://samzurier.com/june-15-2025-district-letter",
-"https://samzurier.com/june-24-2025-district-letter",
-"https://samzurier.com/june-8-2025-district-letter",
-"https://samzurier.com/march-16-2025-letter",
-"https://samzurier.com/march-2-2025-letter",
-"https://samzurier.com/march-23-2025-letter",
-"https://samzurier.com/march-30-2025-letter",
-"https://samzurier.com/march-9-2025-letter",
-"https://samzurier.com/may-11-2025-letter",
-"https://samzurier.com/may-18-2025-letter",
-"https://samzurier.com/may-25-2025-district-letter",
-"https://samzurier.com/may-4-2025-letter",
-"https://samzurier.com/my-work-2",
-"https://samzurier.com/november-16-2025-letter",
-"https://samzurier.com/november-2-2025-district-letter",
-"https://samzurier.com/november-23-2025-district-letter",
-"https://samzurier.com/november-30-2025-district-letter",
-"https://samzurier.com/public-service-record",
-"https://samzurier.com/senate-district-letters",
-"https://samzurier.com/september-14-2025-district-letter",
-"https://samzurier.com/september-21-2025-district-letter",
-"https://samzurier.com/september-28-2025-district-letter",
-"https://samzurier.com/state-issues",
-"https://samzurier.com/state-legislation",
-"https://samzurier.com/wp-content/uploads/Housing-2030-2-1.pdf"
+{
+"text": "2022-23 District Letters",
+"href": "https://samzurier.com/senate-district-letters/"
+},
+{
+"text": "2024 District Letters",
+"href": "https://samzurier.com/2024-senate-district-letters/"
+},
+{
+"text": "2025 District Letters",
+"href": "https://samzurier.com/2025-district-letters/"
+},
+{
+"text": "2026 District Letters",
+"href": "https://samzurier.com/2026-district-letters/"
+},
+{
+"text": "316",
+"href": "http://webserver.rilegislature.gov/BillText/BillText25/SenateText25/S0316.pdf"
+},
+{
+"text": "April 20 letter",
+"href": "https://samzurier.com/april-20-2025-letter/"
+},
+{
+"text": "April 27 letter",
+"href": "https://samzurier.com/april-27-2025-letter/"
+},
+{
+"text": "April 6 letter",
+"href": "https://samzurier.com/april-7-2025-letter/"
+},
+{
+"text": "August 3 letter",
+"href": "https://samzurier.com/august-3-2025-district-letter/"
+},
+{
+"text": "August 31 letter",
+"href": "https://samzurier.com/august-31-2025-district-letter/"
+},
+{
+"text": "Bio",
+"href": "https://samzurier.com/about-sam-zurier/"
+},
+{
+"text": "Budget Documents Page",
+"href": "https://samzurier.com/fy-2026-budget-documents/"
+},
+{
+"text": "DONATE",
+"href": "https://samzurier.com/donate/"
+},
+{
+"text": "December 14 letter",
+"href": "https://samzurier.com/december-14-2025-district-letter/"
+},
+{
+"text": "December 7 letter",
+"href": "https://samzurier.com/december-7-2025-district-letter/"
+},
+{
+"text": "February 16 letter",
+"href": "https://samzurier.com/february-16-2025-district-letter/"
+},
+{
+"text": "February 2 letter",
+"href": "https://samzurier.com/february-2-2025-district-letter/"
+},
+{
+"text": "February 23 letter",
+"href": "https://samzurier.com/february-23-2025-district-letter/"
+},
+{
+"text": "February 9 letter",
+"href": "https://samzurier.com/february-9-2025-district-letter/"
+},
+{
+"text": "Home",
+"href": "https://samzurier.com/"
+},
+{
+"text": "Housing 2030",
+"href": "https://samzurier.com/wp-content/uploads/Housing-2030-2-1.pdf"
+},
+{
+"text": "January 12 letter",
+"href": "https://samzurier.com/janujary-12-2025-district-letter/"
+},
+{
+"text": "January 19 letter",
+"href": "https://samzurier.com/january-19-2025-district-letter/"
+},
+{
+"text": "January 26 letter",
+"href": "https://samzurier.com/january-26-2025-district-letter/"
+},
+{
+"text": "Join My Email List",
+"href": "https://samzurier.com/join-my-email-list/"
+},
+{
+"text": "June 1, 2025 letter",
+"href": "https://samzurier.com/june-1-2025-district-letter/"
+},
+{
+"text": "June 15, 2025 letter",
+"href": "https://samzurier.com/june-15-2025-district-letter/"
+},
+{
+"text": "June 24 letter",
+"href": "https://samzurier.com/june-24-2025-district-letter/"
+},
+{
+"text": "June 8, 2025",
+"href": "https://samzurier.com/june-8-2025-district-letter/"
+},
+{
+"text": "March 16 letter",
+"href": "https://samzurier.com/march-16-2025-letter/"
+},
+{
+"text": "March 2 letter",
+"href": "https://samzurier.com/march-2-2025-letter/"
+},
+{
+"text": "March 23 letter",
+"href": "https://samzurier.com/march-23-2025-letter/"
+},
+{
+"text": "March 30 letter",
+"href": "https://samzurier.com/march-30-2025-letter/"
+},
+{
+"text": "March 9 letter",
+"href": "https://samzurier.com/march-9-2025-letter/"
+},
+{
+"text": "May 11 letter",
+"href": "https://samzurier.com/may-11-2025-letter/"
+},
+{
+"text": "May 18 letter",
+"href": "https://samzurier.com/may-18-2025-letter/"
+},
+{
+"text": "May 25, 2025",
+"href": "https://samzurier.com/may-25-2025-district-letter/"
+},
+{
+"text": "May 4 letter",
+"href": "https://samzurier.com/may-4-2025-letter/"
+},
+{
+"text": "November 16 letter",
+"href": "https://samzurier.com/november-16-2025-letter/"
+},
+{
+"text": "November 2 letter",
+"href": "https://samzurier.com/november-2-2025-district-letter/"
+},
+{
+"text": "November 23 letter",
+"href": "https://samzurier.com/november-23-2025-district-letter/"
+},
+{
+"text": "November 30 letter",
+"href": "https://samzurier.com/november-30-2025-district-letter/"
+},
+{
+"text": "Projects",
+"href": "https://samzurier.com/my-work-2/"
+},
+{
+"text": "Public Service Record",
+"href": "https://samzurier.com/public-service-record/"
+},
+{
+"text": "September 14 letter",
+"href": "https://samzurier.com/september-14-2025-district-letter/"
+},
+{
+"text": "September 21 letter",
+"href": "https://samzurier.com/september-21-2025-district-letter/"
+},
+{
+"text": "September 28",
+"href": "https://samzurier.com/september-28-2025-district-letter/"
+},
+{
+"text": "State Issues",
+"href": "https://samzurier.com/state-issues/"
+},
+{
+"text": "State Legislation",
+"href": "https://samzurier.com/state-legislation/"
+},
+{
+"text": "[image: Sam Zurier New Site]",
+"href": "https://samzurier.com/"
+},
+{
+"text": "clicking here",
+"href": "https://samzurier.com/2025-legislation/"
+}
 ]

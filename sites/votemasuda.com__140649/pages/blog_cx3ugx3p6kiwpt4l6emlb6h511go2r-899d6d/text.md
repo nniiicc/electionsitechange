@@ -1,6 +1,6 @@
-Fire Prevention Pays.
+0 Skip to Content Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home Folder: About Back About CA5 Folder: Español Back Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Fire Prevention Pays.
 It's Time We Act Like It.
-Unless you live in Amador or Calaveras Counties, you've probably never heard about the 2025 Tiger Fire.
+Sep 10 Written By Wyatt Nordvik Unless you live in Amador or Calaveras Counties, you've probably never heard about the 2025 Tiger Fire.
 Last summer, that fire started downslope above Pioneer and ran uphill fast through heavy brush, with the community of Buckhorn right in its path.
 Then it reached a fuel break, and it did what everyone hopes a wildfire will do.
 The flames dropped out of the treetops and stayed on the ground, where crews and aircraft could reach them.
@@ -40,3 +40,6 @@ For wildfires, the best outcome is the one you never hear about.
 Another fire that never becomes a name you remember.
 Prevention pays.
 It's time we act like it.
+Wyatt Nordvik Previous Previous Your Budget Isn't Broken.
+Washington's Choices Are.
+Next Next Teacher Supply Drive Delivers Truckload of Classroom Supplies to 21 Teachers Across Stanislaus County Navigation Media Issues Volunteer California District 05 Endorsements Blog Contact Us Proudly paid for by Masuda for Congress‍ Committee ID #C00905133 Privacy Policy and Terms & Conditions

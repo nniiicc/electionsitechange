@@ -1,15 +1,70 @@
 [
-"https://facebook.com/wix",
-"https://hugleyforgeorgia.com/",
-"https://hugleyforgeorgia.com/about",
-"https://hugleyforgeorgia.com/accessibility-statement",
-"https://hugleyforgeorgia.com/contact",
-"https://hugleyforgeorgia.com/events-1",
-"https://hugleyforgeorgia.com/get-involved",
-"https://hugleyforgeorgia.com/news",
-"https://hugleyforgeorgia.com/privacy-policy",
-"https://hugleyforgeorgia.com/terms-and-conditions",
-"https://instagram.com/wix",
-"https://secure.actblue.com/donate/carolynhugley",
-"https://twitter.com/wix"
+{
+"text": "About Me",
+"href": "https://www.hugleyforgeorgia.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.hugleyforgeorgia.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.hugleyforgeorgia.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/carolynhugley"
+},
+{
+"text": "Events",
+"href": "https://www.hugleyforgeorgia.com/events-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.hugleyforgeorgia.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.hugleyforgeorgia.com"
+},
+{
+"text": "Home",
+"href": "https://www.hugleyforgeorgia.com/about"
+},
+{
+"text": "News",
+"href": "https://www.hugleyforgeorgia.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.hugleyforgeorgia.com/privacy-policy"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.hugleyforgeorgia.com"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.hugleyforgeorgia.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: X]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "[image]",
+"href": "https://www.hugleyforgeorgia.com"
+},
+{
+"text": "info@HugleyforGeorgia.com",
+"href": "mailto:info@HugleyforGeorgia.com"
+}
 ]

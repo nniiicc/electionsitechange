@@ -1,49 +1,290 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Kickoff%21&dates=20250625T013000Z%2F20250625T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+Kickoff%21&dates=20250608T190000Z%2F20250608T210000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Fall+Doorbelling+Kickoff&dates=20250913T170000Z%2F20250913T193000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Fall+Doorbelling+Schedule&dates=20250917T000000Z%2F20251102T190000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Final+Get+Out+The+Vote+Phone+Bank&dates=20251104T010000Z%2F20251104T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Get+Out+The+Vote+Doorbelling+w%2F+Washington+State+Labor+Council+and+WA+State+Democrats%21&dates=20251101T180000Z%2F20251101T203000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Get+Out+The+Vote+Doorbelling+with+Pro-Choice+WA&dates=20251102T190000Z%2F20251102T210000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Get+Out+The+Vote+Phone+Banking&dates=20251012T200000Z%2F20251102T210000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Get+out+the+vote+Doorbelling+Kickoff&dates=20251018T170000Z%2F20251018T193000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=June+Canvass+Schedule&dates=20250612T000000Z%2F20250628T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Summer+Canvass+Calendar&dates=20250703T000000Z%2F20250806T030000Z",
-"https://debkforsenate.com/",
-"https://debkforsenate.com/cart",
-"https://debkforsenate.com/endorsements",
-"https://debkforsenate.com/events",
-"https://debkforsenate.com/events/111-get-out-the-vote-doorbelling-w-washington-state-labor-council-and-wa-state-democrats",
-"https://debkforsenate.com/events/111-get-out-the-vote-doorbelling-w-washington-state-labor-council-and-wa-state-democrats?format=ical",
-"https://debkforsenate.com/events/campaign-kickoff",
-"https://debkforsenate.com/events/campaign-kickoff?format=ical",
-"https://debkforsenate.com/events/canvass-kickoff",
-"https://debkforsenate.com/events/canvass-kickoff?format=ical",
-"https://debkforsenate.com/events/final-get-out-the-vote-phone-bank",
-"https://debkforsenate.com/events/final-get-out-the-vote-phone-bank?format=ical",
-"https://debkforsenate.com/events/get-out-the-vote-doorbelling-with-pro-choice-wa",
-"https://debkforsenate.com/events/get-out-the-vote-doorbelling-with-pro-choice-wa?format=ical",
-"https://debkforsenate.com/events/get-out-the-vote-phone-banking",
-"https://debkforsenate.com/events/get-out-the-vote-phone-banking?format=ical",
-"https://debkforsenate.com/events/gotv-doorbelling-kickoff",
-"https://debkforsenate.com/events/gotv-doorbelling-kickoff?format=ical",
-"https://debkforsenate.com/events/june-canvass-schedule",
-"https://debkforsenate.com/events/june-canvass-schedule?format=ical",
-"https://debkforsenate.com/events/s2p1rmc62a6uyc2is9cu0s0zd603r2",
-"https://debkforsenate.com/events/s2p1rmc62a6uyc2is9cu0s0zd603r2?format=ical",
-"https://debkforsenate.com/events/summer-canvass-calendar",
-"https://debkforsenate.com/events/summer-canvass-calendar?format=ical",
-"https://debkforsenate.com/events/tz4vg5vz1juqq496sr5m8zo8jndxt3",
-"https://debkforsenate.com/events/tz4vg5vz1juqq496sr5m8zo8jndxt3?format=ical",
-"https://debkforsenate.com/issues",
-"https://debkforsenate.com/news",
-"https://docs.google.com/forms/d/e/1FAIpQLSdMQD4c3hpK1yqA69Rl63G3nvMWiiNvk2IHvPX8EXCzumiDPQ/viewform",
-"https://facebook.com/profile.php?id=61575289710681",
-"https://flickr.com/photos/203048066@N04",
-"https://forms.gle/xzortGKB7kkXnJ2H8",
-"https://instagram.com/debkforsenate",
-"https://secure.actblue.com/donate/debk",
-"https://secure.actblue.com/donate/debk_gigharborkickoff",
-"https://secure.ngpvan.com/yAKbUs3-KEO9cqDZWxm0CA2"
+{
+"text": "0",
+"href": "https://www.debkforsenate.com/cart"
+},
+{
+"text": "Campaign Kickoff!",
+"href": "https://www.debkforsenate.com/events/campaign-kickoff"
+},
+{
+"text": "Canvass Kickoff!",
+"href": "https://www.debkforsenate.com/events/canvass-kickoff"
+},
+{
+"text": "Click Here",
+"href": "https://secure.actblue.com/donate/debk_gigharborkickoff"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/debk"
+},
+{
+"text": "Endorse Deb",
+"href": "https://secure.ngpvan.com/yAKbUs3-KEO9cqDZWxm0CA2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.debkforsenate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.debkforsenate.com/events"
+},
+{
+"text": "Fall Doorbelling Kickoff",
+"href": "https://www.debkforsenate.com/events/tz4vg5vz1juqq496sr5m8zo8jndxt3"
+},
+{
+"text": "Fall Doorbelling Schedule",
+"href": "https://www.debkforsenate.com/events/s2p1rmc62a6uyc2is9cu0s0zd603r2"
+},
+{
+"text": "Final Get Out The Vote Phone Bank",
+"href": "https://www.debkforsenate.com/events/final-get-out-the-vote-phone-bank"
+},
+{
+"text": "Get Involved",
+"href": "https://forms.gle/xzortGKB7kkXnJ2H8"
+},
+{
+"text": "Get Out The Vote Doorbelling w/ Washington State Labor Council and WA State Democrats!",
+"href": "https://www.debkforsenate.com/events/111-get-out-the-vote-doorbelling-w-washington-state-labor-council-and-wa-state-democrats"
+},
+{
+"text": "Get Out The Vote Doorbelling with Pro-Choice WA",
+"href": "https://www.debkforsenate.com/events/get-out-the-vote-doorbelling-with-pro-choice-wa"
+},
+{
+"text": "Get Out The Vote Phone Banking",
+"href": "https://www.debkforsenate.com/events/get-out-the-vote-phone-banking"
+},
+{
+"text": "Get out the vote Doorbelling Kickoff",
+"href": "https://www.debkforsenate.com/events/gotv-doorbelling-kickoff"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Kickoff%21&dates=20250625T013000Z%2F20250625T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+Kickoff%21&dates=20250608T190000Z%2F20250608T210000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fall+Doorbelling+Kickoff&dates=20250913T170000Z%2F20250913T193000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fall+Doorbelling+Schedule&dates=20250917T000000Z%2F20251102T190000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Final+Get+Out+The+Vote+Phone+Bank&dates=20251104T010000Z%2F20251104T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Get+Out+The+Vote+Doorbelling+w%2F+Washington+State+Labor+Council+and+WA+State+Democrats%21&dates=20251101T180000Z%2F20251101T203000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Get+Out+The+Vote+Doorbelling+with+Pro-Choice+WA&dates=20251102T190000Z%2F20251102T210000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Get+Out+The+Vote+Phone+Banking&dates=20251012T200000Z%2F20251102T210000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Get+out+the+vote+Doorbelling+Kickoff&dates=20251018T170000Z%2F20251018T193000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=June+Canvass+Schedule&dates=20250612T000000Z%2F20250628T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Summer+Canvass+Calendar&dates=20250703T000000Z%2F20250806T030000Z"
+},
+{
+"text": "Home",
+"href": "https://www.debkforsenate.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.debkforsenate.com/events/111-get-out-the-vote-doorbelling-w-washington-state-labor-council-and-wa-state-democrats?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.debkforsenate.com/events/campaign-kickoff?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.debkforsenate.com/events/canvass-kickoff?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.debkforsenate.com/events/final-get-out-the-vote-phone-bank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.debkforsenate.com/events/get-out-the-vote-doorbelling-with-pro-choice-wa?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.debkforsenate.com/events/get-out-the-vote-phone-banking?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.debkforsenate.com/events/gotv-doorbelling-kickoff?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.debkforsenate.com/events/june-canvass-schedule?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.debkforsenate.com/events/s2p1rmc62a6uyc2is9cu0s0zd603r2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.debkforsenate.com/events/summer-canvass-calendar?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.debkforsenate.com/events/tz4vg5vz1juqq496sr5m8zo8jndxt3?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.debkforsenate.com/issues"
+},
+{
+"text": "June Canvass Schedule",
+"href": "https://www.debkforsenate.com/events/june-canvass-schedule"
+},
+{
+"text": "News",
+"href": "https://www.debkforsenate.com/news"
+},
+{
+"text": "RSVP",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdMQD4c3hpK1yqA69Rl63G3nvMWiiNvk2IHvPX8EXCzumiDPQ/viewform"
+},
+{
+"text": "Summer Canvass Calendar",
+"href": "https://www.debkforsenate.com/events/summer-canvass-calendar"
+},
+{
+"text": "View Event →",
+"href": "https://www.debkforsenate.com/events/111-get-out-the-vote-doorbelling-w-washington-state-labor-council-and-wa-state-democrats"
+},
+{
+"text": "View Event →",
+"href": "https://www.debkforsenate.com/events/campaign-kickoff"
+},
+{
+"text": "View Event →",
+"href": "https://www.debkforsenate.com/events/canvass-kickoff"
+},
+{
+"text": "View Event →",
+"href": "https://www.debkforsenate.com/events/final-get-out-the-vote-phone-bank"
+},
+{
+"text": "View Event →",
+"href": "https://www.debkforsenate.com/events/get-out-the-vote-doorbelling-with-pro-choice-wa"
+},
+{
+"text": "View Event →",
+"href": "https://www.debkforsenate.com/events/get-out-the-vote-phone-banking"
+},
+{
+"text": "View Event →",
+"href": "https://www.debkforsenate.com/events/gotv-doorbelling-kickoff"
+},
+{
+"text": "View Event →",
+"href": "https://www.debkforsenate.com/events/june-canvass-schedule"
+},
+{
+"text": "View Event →",
+"href": "https://www.debkforsenate.com/events/s2p1rmc62a6uyc2is9cu0s0zd603r2"
+},
+{
+"text": "View Event →",
+"href": "https://www.debkforsenate.com/events/summer-canvass-calendar"
+},
+{
+"text": "View Event →",
+"href": "https://www.debkforsenate.com/events/tz4vg5vz1juqq496sr5m8zo8jndxt3"
+},
+{
+"text": "[image: Campaign Kickoff!]",
+"href": "https://www.debkforsenate.com/events/campaign-kickoff"
+},
+{
+"text": "[image: Canvass Kickoff!]",
+"href": "https://www.debkforsenate.com/events/canvass-kickoff"
+},
+{
+"text": "[image: Deb Krishnadasan, Democrat for State Senate]",
+"href": "https://www.debkforsenate.com/"
+},
+{
+"text": "[image: Fall Doorbelling Kickoff]",
+"href": "https://www.debkforsenate.com/events/tz4vg5vz1juqq496sr5m8zo8jndxt3"
+},
+{
+"text": "[image: Fall Doorbelling Schedule]",
+"href": "https://www.debkforsenate.com/events/s2p1rmc62a6uyc2is9cu0s0zd603r2"
+},
+{
+"text": "[image: Get Out The Vote Doorbelling with Pro-Choice WA]",
+"href": "https://www.debkforsenate.com/events/get-out-the-vote-doorbelling-with-pro-choice-wa"
+},
+{
+"text": "[image: Get out the vote Doorbelling Kickoff]",
+"href": "https://www.debkforsenate.com/events/gotv-doorbelling-kickoff"
+},
+{
+"text": "[image: June Canvass Schedule]",
+"href": "https://www.debkforsenate.com/events/june-canvass-schedule"
+},
+{
+"text": "[no text]",
+"href": "https://www.debkforsenate.com/events/111-get-out-the-vote-doorbelling-w-washington-state-labor-council-and-wa-state-democrats"
+},
+{
+"text": "[no text]",
+"href": "https://www.debkforsenate.com/events/final-get-out-the-vote-phone-bank"
+},
+{
+"text": "[no text]",
+"href": "https://www.debkforsenate.com/events/get-out-the-vote-phone-banking"
+},
+{
+"text": "[no text]",
+"href": "https://www.debkforsenate.com/events/summer-canvass-calendar"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575289710681"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/203048066@N04/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/debkforsenate/"
+},
+{
+"text": "tessa@bluewavepolitics.com",
+"href": "mailto:tessa@bluewavepolitics.com"
+},
+{
+"text": "zach@debkforsenate.com",
+"href": "mailto:zach@debkforsenate.com"
+}
 ]

@@ -1,9 +1,30 @@
 [
-"https://angihanzlik.com/",
-"https://angihanzlik.com/about",
-"https://angihanzlik.com/home",
-"https://angihanzlik.com/volunteer",
-"https://cart/",
-"https://facebook.com/profile.php?id=61587015423811",
-"https://secure.winred.com/friends-of-angi-hanzlik/donate-today"
+{
+"text": "About",
+"href": "https://angihanzlik.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-angi-hanzlik/donate-today"
+},
+{
+"text": "Home",
+"href": "https://angihanzlik.com/home"
+},
+{
+"text": "Volunteer",
+"href": "https://angihanzlik.com/volunteer"
+},
+{
+"text": "[image: Angi Hanzlik for District 26b House of Representatives]",
+"href": "https://angihanzlik.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587015423811"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+}
 ]

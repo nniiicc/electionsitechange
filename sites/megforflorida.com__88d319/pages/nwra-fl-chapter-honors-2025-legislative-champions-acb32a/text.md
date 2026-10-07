@@ -1,3 +1,4 @@
+Skip to main content Home Platform News & Events Endorsements Press Releases Image and Video Gallery Join Meg Donate NWRA FL Chapter Honors 2025 Legislative Champions Spread the word!
 The National Waste & Recycling Association (NWRA) Florida Chapter recently announced its 2025 Legislative Champions during the organization’s annual Legislative Fly-In.
 Legislative Champion awards were presented to individuals promoting legislation in support of the waste and recycling industry during Florida’s 2025 legislative session.
 Local award winners included State Rep.
@@ -9,5 +10,8 @@ The legislation directs the FDEP to conduct a study and create a plan on how to 
 NWRA FL Chapter supports new, realistic recycling goals that are environmentally and economically sustainable.
 Weinberger (R-District 94) received an award for her leadership on legislation related to incinerator siting.
 In the final week of session, she stood firm in rejecting late-filed amendments that had not been heard in committee and would have negatively impacted the solid waste and recycling industry.
-Source & Full Article: The Town-Crier Newspaper
-Author: Town-Crier Editor
+Source & Full Article: The Town-Crier Newspaper Author: Town-Crier Editor ← Meg Weinberger Joins Trump for Unveiling of President Donald J.
+Trump Boulevard Charlie Kirk Day of Remembrance bills advance in Senate, House →  Meg for Florida RSS Feed Contribute Today Join Meg's Team!
+Copyright ©# Meg Weinberger | Paid by Meg Weinberger, Republican, for State House, District 94. | Contributions are not tax deductible for federal income tax purposes.
+The Maximum contribution allowed by Florida Law is $1,000.00 per individual or business.
+Privacy Policy | Messaging Terms, Conditions & Policies Terms | Site by KO.

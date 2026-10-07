@@ -1,4 +1,4 @@
-On the evening of July 16, 2026, the President of the United States addressed foreign power influence in our state election systems.
+Skip to content Home About Blog Books Contact Home About Blog Books Contact Foreign Power in US Elections / Blog Post / By Billy Ray Wilson On the evening of July 16, 2026, the President of the United States addressed foreign power influence in our state election systems.
 However, as usual, he misstated the reality of foreign involvement regarding, for example, the Commonwealth of Kentucky’s national elections.
 In the last national election, the Laurel County polling site where I voted was secure and protected against fraud.
 Nevertheless, I was deeply disturbed by the dominance of the Republican Party, as voters returned candidates to national office who, in my opinion, have become pawns and lackeys to the President, allowing him to act without restraint.
@@ -33,5 +33,6 @@ I am 82, turning 83 soon, and I do not like the direction of our future.
 However, I want my place of birth, my country, and my home to remain a United States defined by honor, integrity, and the enforcement of human rights—qualities sadly lacking under current political leadership.
 Thank you.
 With respect, I remain.
-BILLY RAY WILSON
-DEFENDER OF THE US CONSTITUTION
+BILLY RAY WILSON DEFENDER OF THE US CONSTITUTION ← Previous Post Next Post → Home About Blog Books Contact Copyright © # Billy Ray Wilson.
+All Rights Reserved.
+Scroll to Top

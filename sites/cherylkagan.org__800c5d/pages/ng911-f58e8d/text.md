@@ -1,4 +1,5 @@
-NG911
-Inspired by the death of Rockville activist and District 17 resident Carl Henn when 9-1-1 failed, Sen.
+Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up Contribute NG911 Inspired by the death of Rockville activist and District 17 resident Carl Henn when 9-1-1 failed, Sen.
 Kagan has chaired the Next Generation 9-1-1 (NG911) Commission since 2018.
 As a result of the Commission's efforts, Maryland is a national leader as we transition to NG911.
+Home NG911 2022 NG911 Commission Final Meeting Read More 2021 NG911 Commission Report Read More 2020 NG911 Commission Report Read More 2019 NG911 Commission Report Read More 2018 NG911 Commission Report Read More Home About Services & Resources Updates Email Sign Up By Authority: Citizens Helping Elect Cheryl Kagan (C.H.E.C.K.) Michael Frazier, Chair; Neil Burka, Treasurer. ©# Sen.
+Cheryl Kagan Search Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up (410) 841-3134 Cheryl.Kagan@senate.state.md.us

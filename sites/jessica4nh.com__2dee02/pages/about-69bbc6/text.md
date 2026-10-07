@@ -1,4 +1,4 @@
-Rep.
+0 Skip to Content About Jessica Plan Your Vote DONATE Open Menu Close Menu Open Menu Close Menu About Jessica Plan Your Vote DONATE About Jessica Plan Your Vote DONATE Rep.
 Jessica Grill is currently serving as a Democratic State Representative for Manchester’s Ward 12 (Hillsborough 18).
 A Bedford, New Hampshire native, Jessica graduated from Bedford public schools before moving to Boston to attend Northeastern University.
 Jess spent the next several years between Boston and New York City as she launched her career in advertising.
@@ -15,3 +15,4 @@ She is a member of the Granite Bridge Legislative Alliance and chairman of the u
 Jess often leverages her social media marketing background and short-lived improv education to share her legislative experiences with humor and honesty.
 In her non-political life, Jess works for an ad agency and manages paid media campaigns for personal care, retail, travel, food, and education brands.
 When she’s not working, at the State House, or talking with voters across the district, she enjoys skiing, visiting New Hampshire’s lakes, and discovering new live music and comedy acts.
+Paid for by Jessica Michelle Grill jessica4nh@gmail.com (603) 566-6132

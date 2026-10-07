@@ -1,4 +1,3 @@
-Lucy is running to make our communities safer, and to be a strong voice for Georgian families in Congress.
-Chip in today!
-Paid for by Friends of Lucy McBath 885 Woodstock Rd.
+About Lucy Issues Get Involved Store Press Menu About Lucy Issues Get Involved Store Press Facebook Twitter Instagram Donate About Lucy Issues Get Involved Store Press Menu About Lucy Issues Get Involved Store Press News Coverage MSNBC: Anchors Discuss Lucy's Story Play Video Fox 5: Cathy Woolard on GA Gang Discussing Lucy's Story Play Video CNN: Lucy McBath talking about her story w/ Dana Bash Play Video CNN: Lucy McBath talking about her story w/ Don Lemon Play Video Support Lucy's Campaign Lucy is running to make our communities safer, and to be a strong voice for Georgian families in Congress.
+Chip in today! $5 $10 $25 $50 $100 $250 Other Amount Privacy Policy News Coverage Photos and Videos Press Inquiries Menu Privacy Policy News Coverage Photos and Videos Press Inquiries Facebook Twitter Instagram Paid for by Friends of Lucy McBath 885 Woodstock Rd.
 Ste 430-528 Roswell, GA 30075

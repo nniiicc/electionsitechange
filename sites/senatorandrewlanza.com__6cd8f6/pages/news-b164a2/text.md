@@ -1,21 +1,10 @@
-top of page
-CAMPAIGN NEWS
-The Latest Updates
-Search
-Changes to home care eligibility puts disabled New Yorkers in jeopardy of losing vital services, adv
-Sen.
+top of page About News Request a Lawn Sign Endorsements Get Involved Contact More Use tab to navigate through the menu items.
+DONATE SUBSCRIBE CAMPAIGN NEWS The Latest Updates All Articles Search Changes to home care eligibility puts disabled New Yorkers in jeopardy of losing vital services, adv Sen.
 Andrew Lanza, whose district encompasses the South Shore, called the changes a great disappointment and said the state of New York...
-Mar 15, 20221 min read
-NYC politicians to mayor: Hire 6,000 more NYPD cops in next 5 years
-In order to have a vigorous police force for a city our size, we need to accelerate future [NYPD] classes,” the group wrote in their...
-Mar 14, 20221 min read
-Republican leaders, angry Staten Islanders rally to end school mask mandates
-“As a husband and a father, I feel your pain.
+Mar 15, 2022 1 min read NYC politicians to mayor: Hire 6,000 more NYPD cops in next 5 years In order to have a vigorous police force for a city our size, we need to accelerate future [NYPD] classes,” the group wrote in their...
+Mar 14, 2022 1 min read Republican leaders, angry Staten Islanders rally to end school mask mandates “As a husband and a father, I feel your pain.
 I feel the frustration.
 I see what is wrong in the state of New York,” said state Sen....
-Mar 14, 20221 min read
-As Hochul walks back mother-daughter apartment plan, Staten Islanders continue push against housing
-Staten Islanders know how badly things can go when big government bureaucrats start meddling in local land use laws.
+Mar 14, 2022 1 min read As Hochul walks back mother-daughter apartment plan, Staten Islanders continue push against housing Staten Islanders know how badly things can go when big government bureaucrats start meddling in local land use laws.
 After decades of...
-Mar 14, 20221 min read
-bottom of page
+Mar 14, 2022 1 min read Home About Me News Get Involved Contact © # Andrew Lanza for Staten Island Andrew Lanza for Staten Island PO Box 352 Staten Island, NY 10308 718-902-5711 info@andrewlanza.com bottom of page

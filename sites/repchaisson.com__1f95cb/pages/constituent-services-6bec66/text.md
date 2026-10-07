@@ -1,5 +1,4 @@
-Constituent Services
-Official Office
-Submit a Constituent Service Request
-Please fill out the form with as much detail as possible
-Security Notice: Please do NOT include sensitive personal information such as Social Security numbers, financial account information, or medical records in this form.
+Sign up for The Chaisson Chronicle — The Latest from Rep.
+Michael Chaisson → Open main menu Home About Constituent Services Get Involved Donate Donate Now Constituent Services Official Office 24 Beacon St., Room 540 Boston, MA 02133 (617) 722-2090 Michael.Chaisson@mahouse.gov Submit a Constituent Service Request Please fill out the form with as much detail as possible Security Notice: Please do NOT include sensitive personal information such as Social Security numbers, financial account information, or medical records in this form.
+First Name * Last Name * Email * Phone Number * Address * City * Zip / Postal Code * Describe the Issue * Submit Home About Constituent Services Get Involved Donate Facebook Instagram Email Paid for by the Chaisson Committee Privacy Policy Terms & Conditions © 2026 Chaisson Committee.
+All rights reserved.

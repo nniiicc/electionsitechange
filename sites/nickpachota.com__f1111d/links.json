@@ -1,5 +1,14 @@
 [
-"https://nickpachota.com/privacy-policy",
-"https://nickpachota.com/terms-conditions",
-"https://secure.anedot.com/nick-pachota/donate"
+{
+"text": "DONATE TODAY",
+"href": "https://secure.anedot.com/nick-pachota/donate"
+},
+{
+"text": "privacy policy",
+"href": "https://nickpachota.com/privacy-policy/"
+},
+{
+"text": "terms",
+"href": "https://nickpachota.com/terms-conditions/"
+}
 ]

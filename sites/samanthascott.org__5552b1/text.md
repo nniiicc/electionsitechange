@@ -1,5 +1,4 @@
-STAY UPDATED
-Samantha Scott is a principled conservative, a lifelong Sumter County resident, and a proven leader who gets things done.
+Home About Samantha News Contact Home About Samantha News Contact Contribute Conservative Leadership Rooted in Faith, Family, and Freedom STAY UPDATED Email GET INVOLVED Conservative Leadership Rooted in Faith, Family, and Freedom STAY UPDATED Email GET INVOLVED Samantha Scott is a principled conservative, a lifelong Sumter County resident, and a proven leader who gets things done.
 The daughter of a U.S.
 Navy veteran and the proud mother of a first responder, Samantha’s commitment to service runs deep – rooted in faith, family, and love of country.
 She now serves the people of Sumter and Hernando counties as their State Representative in the Florida House, bringing hometown values and a tireless work ethic to Tallahassee.
@@ -18,4 +17,4 @@ She understands the unique needs of both rural and growing communities across Di
 Samantha and her husband Shawn live in Bushnell.
 They are blessed with five children and two grandchildren.
 Samantha brings her energy, experience, and conservative principles to Tallahassee every day—fighting for local families, defending constitutional freedoms, and ensuring the values of District 52 are represented in the Florida House.
-Paid by Samantha Scott, Republican, for State Representative
+Election Day: Tuesday, November 3rd Contact Samantha First Name Last Name Email Phone Message Send Message Paid by Samantha Scott, Republican, for State Representative

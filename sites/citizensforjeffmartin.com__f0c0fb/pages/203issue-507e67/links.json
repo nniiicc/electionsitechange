@@ -1,15 +1,58 @@
 [
-"http://facebook.com/citizensforjeffmartin",
-"http://instagram.com/citizensforjeffmartin",
-"http://youtube.com/@citizensforjeffmartin",
-"https://citizensforjeffmartin.com/",
-"https://citizensforjeffmartin.com/calendar",
-"https://citizensforjeffmartin.com/cart",
-"https://citizensforjeffmartin.com/donate",
-"https://citizensforjeffmartin.com/editorialstyling",
-"https://citizensforjeffmartin.com/getinvolved",
-"https://citizensforjeffmartin.com/meet",
-"https://citizensforjeffmartin.com/selectworks",
-"https://citizensforjeffmartin.com/sqspmagazine",
-"https://citizensforjeffmartin.com/streetstyle"
+{
+"text": "0",
+"href": "https://www.citizensforjeffmartin.com/cart"
+},
+{
+"text": "Calendar",
+"href": "https://www.citizensforjeffmartin.com/calendar"
+},
+{
+"text": "Donate",
+"href": "https://www.citizensforjeffmartin.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.citizensforjeffmartin.com/getinvolved"
+},
+{
+"text": "Home",
+"href": "https://www.citizensforjeffmartin.com/"
+},
+{
+"text": "Meet Jeff",
+"href": "https://www.citizensforjeffmartin.com/meet"
+},
+{
+"text": "Select Works",
+"href": "https://www.citizensforjeffmartin.com/selectworks"
+},
+{
+"text": "[image: Jeff Martin for Missouri House District 30]",
+"href": "https://www.citizensforjeffmartin.com/"
+},
+{
+"text": "[image: woman in a grey suit walking away in front of a concrete building]",
+"href": "https://www.citizensforjeffmartin.com/streetstyle"
+},
+{
+"text": "[image: woman outside waving her beige linen jacket]",
+"href": "https://www.citizensforjeffmartin.com/sqspmagazine"
+},
+{
+"text": "[image: woman slouching on a stool in a long belted khaki jacket]",
+"href": "https://www.citizensforjeffmartin.com/editorialstyling"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/citizensforjeffmartin"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/citizensforjeffmartin"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/@citizensforjeffmartin"
+}
 ]

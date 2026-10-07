@@ -1,9 +1,12 @@
 {
  "description": "Elaine Padgett for Georgia House District 25 Priorities",
  "final_url": "https://elaineforgeorgia.com/priorities",
- "paid_for_by": null,
+ "fingerprint": "d4df6a944eb64883c35da3256557ec64c7d9ac8e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Priorities",
  "years_mentioned": [
-  "2026"
+  "2026",
+  "2030"
  ]
 }

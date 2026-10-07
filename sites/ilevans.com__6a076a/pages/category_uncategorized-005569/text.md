@@ -1,4 +1,3 @@
-Illinois House Leader Selected as NCSL Vice President
-In Indianapolis at their national conference on Wednesday, August 16 the National Conference of State Legislatures (NCSL) selected Illinois State Representative Marcus C.
-Evans, Jr. as their next Vice President,…
-Read More
+Skip to content Home Meet Marcus Latest News Take Action Donate Get a Yard Sign Volunteer Contact Home Meet Marcus Latest News Take Action Donate Get a Yard Sign Volunteer Contact Category: Uncategorized Marcus Evans for State Rep - Uncategorized September 16, 2023 By staff (0) Comment Illinois House Leader Selected as NCSL ﻿Vice President In Indianapolis at their national conference on Wednesday, August 16 the National Conference of State Legislatures (NCSL) selected Illinois State Representative Marcus C.
+Evans, Jr. as their next Vice President,… Read More Contact Us PO Box 1043 Chicago, IL 60690 773.800.9216 marcus@ilevans.com Take Action Donate Get a Yard Sign Volunteer Latest News Thank You District 33! © # Citizens for Marcus C.
+Evans, Jr.

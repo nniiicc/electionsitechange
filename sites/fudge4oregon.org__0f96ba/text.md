@@ -1,7 +1,10 @@
-Join Our Campaign
-Sign up to receive the latest news and updates.
-Andrew Fudge for Oregon House District 20
-Accountability.
+Meet Andrew Issues News Contribute Volunteer Join Our Campaign Sign up to receive the latest news and updates.
+First name Email Zip/Postal Phone Message By providing your phone number you consent to receive messages.
+Message frequency varies.
+Message and data rates may apply.
+Text STOP to opt out.
+Thank you for signing up!
+Andrew Fudge for Oregon House District 20 Accountability.
 Opportunity.
 Results.
 It’s time for a change in Salem.
@@ -11,5 +14,4 @@ A lifelong Oregonian, CPA, and experienced state government budget manager, Andr
 After eight years working inside state government, Andrew believes it’s time to bring a results-focused approach to Salem.
 In 2026, voters in HD 20 have a choice: continue the status quo or elect a new voice committed to real change.
 Vote Andrew Fudge for Oregon House District 20.
-November 3, 2026 at 8:00 PM
-Powered by CampaignPartner.com - Political Campaign Websites
+Make a Donation $4,060 of $10,000 $ # $ # $ # $ # Other General Election Day Polls Close: November 3, 2026 at 8:00 PM Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information District Info (HD 20) Close Menu

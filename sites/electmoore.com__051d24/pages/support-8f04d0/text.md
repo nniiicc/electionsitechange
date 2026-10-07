@@ -1,26 +1,10 @@
-Trusted Utah Leaders Stand with Blake Moore
-“Moore has quickly become a trusted member of Congress because he’s a man of substance and stability.
+0 Skip to Content Home Meet Blake Fighting for Utah Families Results Support Contact Donate Open Menu Close Menu Open Menu Close Menu Home Meet Blake Fighting for Utah Families Results Support Contact Donate Home Meet Blake Fighting for Utah Families Results Support Contact Donate Trusted Utah Leaders Stand with Blake Moore “Moore has quickly become a trusted member of Congress because he’s a man of substance and stability.
 His earnestness, work ethic and integrity are beyond reproach.
-He is an effective conservative leader for northern Utah, and he has my full support.”
-Stuart Adams, Utah Senate President
-“Blake is a man of experience, vision and enthusiasm, but most importantly he shares our values and conservative opinions on government.”
-Alan & Jeanne Hall, State and Community Leaders
-“Having watched Blake from his younger years in Ogden to his service to our country to his leadership in Utah’s business community, I know he has what it takes to be productive in Congress and will make Utah proud.”
-Spencer P.
-Eccles, Community Leader
-“I Support Blake Moore because of his character.
-Every aspect of his background, personally and professionally is what we need in Congress.”
-Spencer Nelson, Men’s Basketball at Utah State University
-“Blake Moore has shown that he prioritizes the safety of Utahns through his support for law enforcement and first responders.
-He has earned my respect and has shown honor, dignity and leadership.”
-Sheriff Ryan Arbon, Weber County Sheriff
-“Blake Moore brings the strength that Utah needs in Congress.
-He has an unwavering commitment to providing innovative solutions to problems, based upon constitutional principles.”
-Jerry Stevenson, Utah State Senator
-“Blake Moore has proven himself to be an accessible and responsive congressman who truly cares about northern Utah.
-His genuine interest in the welfare of our community, especially Hill Air Force Base, has won my respect and my support.”
-Clint Morris, Layton City Council
-“I’ve been so impressed with Representative Moore.
+He is an effective conservative leader for northern Utah, and he has my full support.” Stuart Adams, Utah Senate President “Blake is a man of experience, vision and enthusiasm, but most importantly he shares our values and conservative opinions on government.” Alan & Jeanne Hall, State and Community Leaders “Having watched Blake from his younger years in Ogden to his service to our country to his leadership in Utah’s business community, I know he has what it takes to be productive in Congress and will make Utah proud.” Spencer P.
+Eccles, Community Leader “I Support Blake Moore because of his character.
+Every aspect of his background, personally and professionally is what we need in Congress.” Spencer Nelson, Men’s Basketball at Utah State University “Blake Moore has shown that he prioritizes the safety of Utahns through his support for law enforcement and first responders.
+He has earned my respect and has shown honor, dignity and leadership.” Sheriff Ryan Arbon, Weber County Sheriff “Blake Moore brings the strength that Utah needs in Congress.
+He has an unwavering commitment to providing innovative solutions to problems, based upon constitutional principles.” Jerry Stevenson, Utah State Senator “Blake Moore has proven himself to be an accessible and responsive congressman who truly cares about northern Utah.
+His genuine interest in the welfare of our community, especially Hill Air Force Base, has won my respect and my support.” Clint Morris, Layton City Council “I’ve been so impressed with Representative Moore.
 Not only is he working incredibly hard, but he’s shown he has the ability to get things done.
-He’s also proven his ability to lead, as we’ve seen evidenced by his colleagues asking him to serve in leadership opportunities.”
-David Zook, Former Cache County Executive
+He’s also proven his ability to lead, as we’ve seen evidenced by his colleagues asking him to serve in leadership opportunities.” David Zook, Former Cache County Executive The Conservative Movement Stands with Blake Moore Hear From Blake’s Supporters Contact the Campaign: (801) 900-3213‬ Terms and Conditions | Privacy Policy Paid for by Blake Moore for Congress All Rights Reserved

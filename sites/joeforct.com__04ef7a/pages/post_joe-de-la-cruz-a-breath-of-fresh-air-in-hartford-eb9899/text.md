@@ -1,10 +1,8 @@
-Joe de la Cruz, a 'breath of fresh air' in Hartford
-Updated: Apr 24
-By Kimberly Drelich
-Groton — When state Rep.
+top of page ABOUT PRIORITIES PRESS Menu Close All Posts Joe de la Cruz, a 'breath of fresh air' in Hartford Alisha Rayner Dec 14, 2024 9 min read Updated: Apr 24 State Rep.
+Joe de la Cruz, D-Groton, speaks during a legislative town hall event Monday, April 18, 2022, at the Groton Senior Center.
+(Sarah Gordon/The Day) By Kimberly Drelich Groton — When state Rep.
 Joe de la Cruz, D-Groton, looks back on his six years as a legislator in Hartford, he hopes he inspired people to put themselves in others' shoes.
-“If I have a superpower, it’s learned from my grandmother and my mother and my huge family, and it’s empathy," he said, "and to really try to understand where someone else is coming from to understand how to fix a problem.”
-De la Cruz, 51, a union sheet metal worker and the vice president of Hillery Co., a metal fabricator in Groton, rose through the ranks of local politics, serving six years on the Groton Representative Town Meeting and three years on the Town Council, before being elected in 2016 to his first term as state representative for the 41st District covering parts of New London and Groton.
+“If I have a superpower, it’s learned from my grandmother and my mother and my huge family, and it’s empathy," he said, "and to really try to understand where someone else is coming from to understand how to fix a problem.” De la Cruz, 51, a union sheet metal worker and the vice president of Hillery Co., a metal fabricator in Groton, rose through the ranks of local politics, serving six years on the Groton Representative Town Meeting and three years on the Town Council, before being elected in 2016 to his first term as state representative for the 41st District covering parts of New London and Groton.
 He was motivated by the opioid crisis to run for state office.
 De la Cruz and his wife, Tammy, are among the co-founders of the nonprofit organization Community Speaks Out that helps families and individuals struggling with opioid addiction find treatment and recover, after their son Joey Gingerella faced addiction struggles.
 Gingerella, who spoke about his story and was in recovery, was fatally shot in December 2016 when he went to help a woman being assaulted.
@@ -13,11 +11,9 @@ He said his proudest accomplishments in the General Assembly include helping pas
 De la Cruz had announced at the start of the session that he would not run for reelection.
 While he has worked long hours his whole life and juggled his business responsibilities with a full schedule in the legislature, he said it's "all hands on deck" now with a jump in business at Hillery Co., and he has to be there at the mom-and-pop business.
 "The $35,000 we make for this illustrious job is truly not enough to live on or retire on," he said during his speech on his work as a representative in Hartford.
-"I want to remind you of all the voices that never made it here that would sound like my voice ... because of the limitations we have.”
-De la Cruz, who has said he is fighting for the next generation and so his 3-year-old grandson can have the same opportunities he did, said he feels like he could offer a lot more in Hartford, but, after considering different options to try to make it work, he ultimately thinks he is making the right decision.
+"I want to remind you of all the voices that never made it here that would sound like my voice ... because of the limitations we have.” De la Cruz, who has said he is fighting for the next generation and so his 3-year-old grandson can have the same opportunities he did, said he feels like he could offer a lot more in Hartford, but, after considering different options to try to make it work, he ultimately thinks he is making the right decision.
 He supports raising salaries for legislators to bring in more people, from school teachers to construction workers, whose voices are needed in the legislature but who simply can’t afford it.
-A ringside view of the American worker
-De la Cruz said he always reminds himself of where he came from, which he said makes him a better legislator and a better person.
+A ringside view of the American worker De la Cruz said he always reminds himself of where he came from, which he said makes him a better legislator and a better person.
 He grew up in public housing in New London and graduated from New London High School before starting a career as a sheet metal worker.
 In the 1990s, he worked on the duct work for the Legislative Office Building in Hartford.
 As de la Cruz spoke on April 21 on the House floor in the Connecticut State Capitol in support of the State Employees Bargaining Agent Coalition agreement with the state, which ultimately passed, he said he’s had a ringside view of what’s happened to the American worker.
@@ -34,21 +30,16 @@ But a friend of his, who worked in a different field and whose child also needed
 De la Cruz said for a lot of people in this country and state, things aren’t working out.
 He mentioned a 22-year-old local police officer who wishes he was born a few years earlier so he could have a pension.
 “When I’m speaking about Connecticut and how we’re going to make it better, better can’t mean that we’re ripping down the people that are doing all the work for us,” de la Cruz said.
-“Better can’t mean that our future generations can’t retire.”
-As he walked around the Capitol and the Legislative Office Building with a reporter after the speech, people, from lobbyists to staff to legislators, enthusiastically greeted him and complimented him on his speech, with state Rep.
-Anne Hughes, D-Easton, calling him a "rock star."
-“It was awesome,” said state Rep.
+“Better can’t mean that our future generations can’t retire.” As he walked around the Capitol and the Legislative Office Building with a reporter after the speech, people, from lobbyists to staff to legislators, enthusiastically greeted him and complimented him on his speech, with state Rep.
+Anne Hughes, D-Easton, calling him a "rock star." “It was awesome,” said state Rep.
 Larry B.
 Butler, D-Waterbury.
 “You shared so much that was so relevant to why people should vote for this.
-I’m proud of you.”
-In the halls of Hartford, de la Cruz smiles and jokes at times with colleagues to share a moment of levity, but also takes time to listen to serious issues and offer his support to proposed bills.
+I’m proud of you.” In the halls of Hartford, de la Cruz smiles and jokes at times with colleagues to share a moment of levity, but also takes time to listen to serious issues and offer his support to proposed bills.
 House Speaker Matthew Ritter said de la Cruz brings life experience on labor issues and manufacturing and construction to the legislature, and that diversity of perspective is really important.
 Ritter said everybody smiles when they see de la Cruz, and he’s probably one of the most popular members of the chamber and well-liked by all sides.
 “He’s a breath of fresh air,” Ritter said.
-“He’s about as honest as they come, and we’re going to miss him.”
-Continuing his work
-At a recent town hall-style meeting at the Thrive55+ Active Living Center in Groton with state Reps.
+“He’s about as honest as they come, and we’re going to miss him.” Continuing his work At a recent town hall-style meeting at the Thrive55+ Active Living Center in Groton with state Reps.
 Christine Conley, D-Groton, and Anthony Nolan, D-New London, and a small group of residents, de la Cruz reflected that this will be the last year the 41st District will include parts of Groton and New London.
 Next year, it will include parts of Groton and Stonington, and he’s not running again for the seat.
 But he said he’s not here to talk about that: he’s here to talk about his work on the Veterans Affairs, Aging and Housing committees.
@@ -58,8 +49,7 @@ He also encouraged people who know a veteran in need to reach out.
 He then answered residents' questions, from his thoughts on tolls to how to best keep up to date on legislative votes.
 De la Cruz told The Day that as he leaves the legislature, he hopes to leave the impression to look at things from other people's points of view.
 For example, rather than increasing penalties for crime, he thinks it's important to get to the root issue and try to solve problems early on in a person's life.
-Speaking from a place of truth
-Cheryl Biekert, vice president of Community Speaks Out, said de la Cruz speaks from a place of truth and a place of passion, whether he’s on the floor in session or facilitating a Community Speaks Out family support group meeting.
+Speaking from a place of truth Cheryl Biekert, vice president of Community Speaks Out, said de la Cruz speaks from a place of truth and a place of passion, whether he’s on the floor in session or facilitating a Community Speaks Out family support group meeting.
 “He just represents everyday people and the struggles and triumphs that we each have in our daily lives,” she said.
 Linda Labbe, another Community Speaks Out board member and co-founder, said de la Cruz has spread awareness about the reality of how many people are affected by the opioid crisis.
 “He’s just a down-to-earth person, and he just gets things across to people and makes them see things in a different way,” she said.
@@ -68,7 +58,7 @@ His wife, Tammy, said people rely on him for his honesty in the room on how thei
 "He wants to support and encourage and be that lifeline to people in that support group," she said.
 De la Cruz said when he first found out his son was addicted and started learning about how deep addiction was in the community, he was horrified to see conditions at some of the sober homes, without the opioid overdose-reversal medication Narcan or things such as fire extinguishers and proper lighting.
 In addition to de la Cruz's work in Hartford on sober homes, Community Speaks Out became a certifying body for such facilities to ensure they were meeting basic standards.
-At a recent event, Community Speaks Out received a $10,000 check from Holmgren Subaru.
+At a recent event, Community Speaks Out received a $# check from Holmgren Subaru.
 De la Cruz reflected for a moment on how the donation will help cover sober living expenses for many people or costs of youth group meetings.
 As one of the faces and voices of Community Speaks Out, de la Cruz has raised awareness about the opioid crisis in Hartford, Tammy de la Cruz said.
 While a bill he proposed to label opioid prescriptions as addictive on a 1 through 10 rating system did not pass, it still raised awareness, she said.
@@ -87,5 +77,7 @@ De la Cruz’s hobbies include bowling and he hosts a TV show, called “Born Po
 He is interested in getting involved with coaching youth baseball again.
 He also will focus on Community Speaks Out — “That’s something that will never leave me,” de la Cruz said.
 The organization is a part of him and his wife and keeps them close to their son as they help other people through him.
-De la Cruz said people come up to them and say they’re still sober because of the night at Fitch High School that Joey Gingerella told his story.
-The original article can be found at: https://theday.com/news/493303/joe-de-la-cruz-a-breath-of-fresh-air-in-hartford/#
+De la Cruz said people come up to them and say they’re still sober because of the night at Fitch High School that Joey Gingerella told his story. k.drelich@theday.com The original article can be found at: https://theday.com/news/493303/joe-de-la-cruz-a-breath-of-fresh-air-in-hartford/# Recent Posts See All Can Dems oust Somers and claim another Senate seat?
+Game on: Sen.
+Heather Somers, with Trump around her neck, will have the race of her life in Connecticut's 18th District Joe de la Cruz announces state senate campaign for 18th District A CCESSIBILITY STATEMENT PRIVACY POLICY TERMS & CONDITIONS ABOUT PRIORITIES PRESS Menu Close X INSTAGRAM FACEBOOK © # Paid for by Joe for CT, Approved by Joe de la Cruz.
+ABOUT PRIORITIES PRESS ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

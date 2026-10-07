@@ -1,12 +1,10 @@
-November 2023 Update
-Sunday, December 3, 2023
-Greetings Neighbors and Friends, I hope you had a wonderful Thanksgiving, shared with family, friends or both.
+Meet Kathy Important Issues Media News Videos Weekly Updates 2023 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9 Week 10 Week 11 Week 12 Week 13 Week 14 Week 15 Week 16 Week 17 Week 18 Week 19 Week 20 Week 21 Week 22 July 2023 August 2023 September 2023 October 2023 November 2023 December 2023 2024 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 8 Week 9 Week 10 Week 11 Week 12 Week 14 Week 16 Week 17 Final Week Update First Summer Update June Primary Runoff Announcement End of Session Wrap-Up July Summary Update Fall Update Pre-Election Update End of November Update 2025 End of Year Update End of January Update for the 126th Session February 9th Update February 16th Update February 23rd Update March 2nd Update March 9th Update March 16th Update March 23rd Update March 30th Update April 6th Update April 13th Update April 27th Update May 4th Update May 11th Update June 8th Update Summer Update Fall 2025 Update 2025 Year-End Update 2026 Session 126 - Second Year Week 1 Update January 25th Update February 1st Update March 9th Update March 15th Update March 22nd Update March 29th Update April 6th Update April 19th Update April 26th Update May 3rd Weekly Update May 12th Update May 24th Update June 28th Update August 16th Update Donate DONATE Meet Kathy Important Issues Media News Videos Weekly Updates 2023 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9 Week 10 Week 11 Week 12 Week 13 Week 14 Week 15 Week 16 Week 17 Week 18 Week 19 Week 20 Week 21 Week 22 July 2023 August 2023 September 2023 October 2023 November 2023 December 2023 2024 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 8 Week 9 Week 10 Week 11 Week 12 Week 14 Week 16 Week 17 Final Week Update First Summer Update June Primary Runoff Announcement End of Session Wrap-Up July Summary Update Fall Update Pre-Election Update End of November Update 2025 End of Year Update End of January Update for the 126th Session February 9th Update February 16th Update February 23rd Update March 2nd Update March 9th Update March 16th Update March 23rd Update March 30th Update April 6th Update April 13th Update April 27th Update May 4th Update May 11th Update June 8th Update Summer Update Fall 2025 Update 2025 Year-End Update 2026 Session 126 - Second Year Week 1 Update January 25th Update February 1st Update March 9th Update March 15th Update March 22nd Update March 29th Update April 6th Update April 19th Update April 26th Update May 3rd Weekly Update May 12th Update May 24th Update June 28th Update August 16th Update Donate November 2023 Update Sunday, December 3, 2023 Greetings Neighbors and Friends, I hope you had a wonderful Thanksgiving, shared with family, friends or both.
 Ours was very quiet as our extended family welcomed two brand-new babies which kept their immediate families and grandparents close to their homes.
 We all had much for which to be thankful, even if it meant we couldn't bring our traditional crowd of 22+ together this year.
 Now here we are already in early December, preparing for Christmas, New Years, Hanukkah, or whichever holidays your family's culture and traditions celebrate.
 From a legislative perspective, this has been a busier than expected time as we prepared for pre-filing dates for new bills in both November and December.
 Also, many of us serve on committees that met multiple times over the last month or two, warming us up for the Session ahead which begins on Tuesday, January 9th.
-November 16th Pre-Filed Bills, with More to Come on December 14th:On the initial pre-filing date of the second year of the 125th Session of the SC State House, we had 103 bills introduced.
+November 16th Pre-Filed Bills, with More to Come on December 14th: On the initial pre-filing date of the second year of the 125th Session of the SC State House, we had 103 bills introduced.
 All were given a number starting at H.4533 and ending at H.4635, and all were assigned to committees.
 Who knows how many we will see for December 14th, but remember, the 700+ that were pre-filed last year, plus all the ones filed during the Session year, are still pending for this year unless they already passed the House and Senate.
 Wow, that’s a lot of legislation!!
@@ -15,7 +13,7 @@ It is entitled, “Protecting Our Citizens Against the Effects of EMP.” If you
 By receiving the pre-filed summary sheets in advance, it provides us as legislators the opportunity to familiarize ourselves with the bills, and consider co-sponsoring any that we strongly support.
 The pre-filed bills run the gamut from one that specifies income tax deductions for surviving spouses of fallen first responders as well as property tax exemptions, to one that specifies that all public school restrooms and changing facilities must provide separate facilities for males and females, to one that requires protections for children from unfiltered devices such as smartphones and tablets.
 We still have a lot of work to do on some of the important bills from the 2023 Session, so it will definitely be a busy year!
-Children and Adults on the Autism Spectrum:This past month, with the help of my good friend Councilman Carl Ritchie, we met with Layla Luna, a wonderful mother who founded the organization, “Just Bee,” which strives to advocate for and provide solutions for children and adults affected by autism.
+Children and Adults on the Autism Spectrum: This past month, with the help of my good friend Councilman Carl Ritchie, we met with Layla Luna, a wonderful mother who founded the organization, “Just Bee,” which strives to advocate for and provide solutions for children and adults affected by autism.
 Layla’s son is a 15-year-old who is very bright, but non-verbal.
 She showed me some of his writing, and it was quite impressive.
 Yet, like many individuals affected by this condition, he is very sensitive to stimuli such that loud noises, bright lights, and lots of commotion can cause a very adverse reaction.
@@ -29,7 +27,7 @@ This makes it nearly impossible for the parent or driver to respond as desired t
 Rep.
 Mark Smith also met separately with Mrs.
 Luna, and we plan to co-sponsor this bill, hopefully in time for the December 14th pre-filing, but if not, certainly early in January.
-Ad Hoc High School Athletics Committee:As you may recall from an earlier newsletter, I was appointed by Speaker Smith to this committee to study how to better achieve “competitive balance” within schools’ athletic teams throughout our state.
+Ad Hoc High School Athletics Committee: As you may recall from an earlier newsletter, I was appointed by Speaker Smith to this committee to study how to better achieve “competitive balance” within schools’ athletic teams throughout our state.
 The biggest issue has been that smaller schools, especially in rural or lower population areas often have trouble competing with schools that may be in the same division due to their size, but are able to attract students from all over.
 The primary concern is with charter schools, which are public schools but are able to bring in students from distances beyond their county or regular hometown districts.
 I attended our fourth meeting on this topic in Columbia this past Thursday.
@@ -41,7 +39,7 @@ In this proposal, the league would be replaced with a new organization under the
 We have not had time to review this yet as it was a big reveal on Thursday afternoon.
 My inclination is never to expand the role of government, which it appears this would do, but I will have to study it and listen to explanations from those who believe this direction may solve some of the existing problems.
 We would have to be sure it doesn’t create a number of new ones.
-Elections Do Indeed Have Consequences:In the last newsletter, I referenced the importance of getting out to vote for the municipal election.
+Elections Do Indeed Have Consequences: In the last newsletter, I referenced the importance of getting out to vote for the municipal election.
 Unfortunately, the overall percentage of voting in Mount Pleasant was low, and it was especially low in the end of town north of the IOP Connector.
 Neither of the candidates running for office from our end of town were elected, and I believe the low voter turnout was a big part of the problem.
 We will see what the future holds in terms of issues affecting District 80 and further north into District 112.
@@ -50,7 +48,7 @@ Meanwhile, Charleston has a new mayor, the first Republican elected since Recons
 Congratulations to Mayor-Elect William Cogswell!
 His emphasis on problem-solving for Charleston’s biggest issues, combined with a focus on enforcing the Rule of Law resonated with many voters.
 Here in Mount Pleasant, we look forward to working together with our sister city for the betterment of all our citizens.
-Around the District and Mount Pleasant:It was my honor to participate in several very special events over the last month.
+Around the District and Mount Pleasant: It was my honor to participate in several very special events over the last month.
 On Veteran's Day, I attended a workshop to honor and uplift our veterans through art.
 Mary Whyte, the incredibly talented local artist who created the body of work entitled, "We the People,"* held a Master Class aboard the USS Yorktown for veterans to become immersed in the expression of art.
 Sponsored by The Patriot Art Foundation, she and fellow artist Stan Miller did a demonstration of painting a veteran volunteer (who just happened to be Chauncey Clark, Chairman of the USS Yorktown Foundation), describing their methods as they went along.
@@ -79,7 +77,9 @@ If you have an IRA and are at least 73 years of age, please keep in mind that yo
 As always, please let me know any thoughts, questions or other input that you have.
 We truly appreciate when you share this newsletter with others and let friends and neighbors know to sign up here so they can receive it as well.
 From our family to yours, we hope you have a wonderful holiday season!
-Warmest Regards,
-Kathy
-Representative Kathy Landing
-South Carolina State House District 80
+Warmest Regards, Kathy Representative Kathy Landing South Carolina State House District 80 Sign Up Now to Stay Connected Stay Connected Last Name Email Address Phone Number Address Zip Code Thank you for signing up.
+We will continue to stay connected and share with you the latest from our campaign.
+Oops, there was an error sending your message.
+Please try again later.
+Copyright, # Kathy Landing kl@kathylanding.com 2114 Sewee Indian Ct., Mt.
+Pleasant, SC 29466 Paid for and approved by Representative Kathy Landing ﻿ for SC State House District 80 Privacy Policy Share by:

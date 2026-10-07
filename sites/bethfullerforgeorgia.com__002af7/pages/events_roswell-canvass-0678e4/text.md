@@ -1,9 +1,3 @@
-Back to All Events
-Join the Coordinated Campaign to canvass in Roswell!
-Previous
-Previous
-August 2
-Georgia Majority Canvass
-Next
-Next
-August 8
+0 Skip to Content Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Back to All Events Roswell Canvass Wednesday, August 5, 2026 6:00 PM 8:00 PM Google Calendar ICS Join the Coordinated Campaign to canvass in Roswell!
+Source: https://www.mobilize.us/democraticpartyofgeorgia26/event/999483/ Previous Previous August 2 Georgia Majority Canvass Next Next August 8 North Sandy Springs Canvass info@bethfullerforgeorgia.com Paid for by Beth Fuller for Georgia, Inc | P.O.
+Box 566273, Atlanta, GA 31156

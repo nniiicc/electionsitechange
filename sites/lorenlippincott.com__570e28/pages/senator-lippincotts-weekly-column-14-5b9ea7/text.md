@@ -1,6 +1,4 @@
-The Law of Unintended Consequences
-By Senator Loren Lippincott
-Here in Nebraska, we’ve always believed in taking a careful, commonsense approach.
+Home About District 34 Issues News Get Involved Donate Donate Home About District 34 Issues News Get Involved News December 3, 2025 Senator Lippincott's Weekly Column The Law of Unintended Consequences By Senator Loren Lippincott Here in Nebraska, we’ve always believed in taking a careful, commonsense approach.
 Whether it’s raising a crop, running a business, or passing a law, we know that even small decisions can have big consequences.
 Right now, our state is facing some real challenges, like the cost of housing, lack of childcare, and a workforce stretched too thin.
 None of these problems have quick fixes, but we’ve made progress by doing what Nebraskans do best: rolling up our sleeves and working together to find practical, local solutions that work for our communities.
@@ -33,5 +31,6 @@ When we’re talking about something as important as owning a home, those “sma
 That’s why policymakers, whether in Lincoln or in Washington, should move carefully and always keep their eye on how real people will be affected.
 Nebraska has always done well by sticking to what works: common sense and trust in our local communities.
 If we keep that mindset, we’ll keep our state strong – one thoughtful step at a time.
-Paid for by Nebraskans for Loren Lippincott, 2611 Highway 14, Central City, NE 68826.
+Donate Paid for by Nebraskans for Loren Lippincott, 2611 Highway 14, Central City, NE 68826.
 All rights reserved.
+Share

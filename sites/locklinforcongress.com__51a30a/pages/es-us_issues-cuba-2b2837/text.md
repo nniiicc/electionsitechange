@@ -1,4 +1,7 @@
-En el Distrito 26 de Florida, Cuba no es un tema lejano.
+    ENGLISH CONOCE A NICOLE arrow_drop_down NUESTRA MISIÓN BIOGRAFÍA TEMAS arrow_drop_down CORRUPCIÓN SENIORS HEALTHCARE MI OPONENTE COSTO DE VIDA INMIGRACIÓN IRÁN CUBA PALESTINA EPSTEIN ENDOSOS DONAR ¡INVOLÚCRATE! arrow_drop_down APÓYANOS TIENDA ¡SÚMATE!
+REGISTRY     0 Your Cart $ 0.00 USD : Remove Subtotal Pay with browser.
+Continue to Checkout No items found.
+Product is not available in this quantity.  La gente PRIMERO En el Distrito 26 de Florida, Cuba no es un tema lejano.
 Es una parte fundamental de nuestra comunidad.
 Es nuestra familia, nuestros amigos y nuestros seres queridos.
 Es la razón por la que tantas personas aquí entienden lo que significa dejarlo todo atrás y, aun así, seguir luchando por el país que aman.
@@ -30,19 +33,16 @@ Está afectando a nuestra comunidad todos los días, y estas familias merecen l�
 Durante años, políticos como Ron DeSantis y Mario Díaz-Balart han construido toda su identidad política hablando de Cuba.
 Décadas repitiendo el mismo enfoque.
 Pero los discursos fuertes no son una estrategia.
-Repetir las mismas políticas sin obtener resultados no es liderazgo.
-¿Qué resultados han entregado realmente?
+Repetir las mismas políticas sin obtener resultados no es liderazgo. ¿Qué resultados han entregado realmente?
 Si de verdad queremos apoyar al pueblo cubano, necesitamos políticas que realmente lo ayuden.
 Estar del lado del pueblo significa rechazar las falsas alternativas.
-Podemos reconocer dos verdades al mismo tiempo:
-1 El gobierno cubano debe rendir cuentas por la represión, la corrupción y las violaciones de los derechos humanos.
+Podemos reconocer dos verdades al mismo tiempo: 1 El gobierno cubano debe rendir cuentas por la represión, la corrupción y las violaciones de los derechos humanos.
 2.
 Las políticas estadounidenses que aumentan el sufrimiento humano sin lograr cambios deben ser reevaluadas.
 Existe un enfoque más inteligente, más efectivo y, francamente, bastante obvio: sancionar al régimen, no castigar al pueblo.
 Debemos concentrar las sanciones en los funcionarios responsables de la corrupción y de las violaciones de los derechos humanos, en lugar de imponer restricciones generales que afectan a toda la población.
 Debemos ejercer presión donde realmente importa, pero permitir un mayor acceso a alimentos, medicinas, ayuda humanitaria e infraestructura civil, especialmente al sistema energético.
-Si soy elegida:
-Implementaré sanciones específicas contra funcionarios corruptos, en lugar de imponer sufrimiento generalizado a la población.
+Si soy elegida: Implementaré sanciones específicas contra funcionarios corruptos, en lugar de imponer sufrimiento generalizado a la población.
 Trabajaré con nuestros aliados internacionales para estabilizar el acceso al combustible y a los servicios esenciales, para que las familias cubanas no sigan viviendo a oscuras, literalmente.
 Ampliaré el acceso humanitario a alimentos, medicinas y asistencia energética.
 Trabajaré para ampliar el acceso a internet y a herramientas de comunicación, para que los cubanos puedan conectarse, organizarse y defender su propio futuro.
@@ -54,3 +54,5 @@ Son seres humanos que merecen libertad, dignidad y oportunidades.
 Y no deberían tener que enfrentar esta lucha solos.
 El Distrito 26 de Florida necesita una representante que realmente se preocupe por las personas, no por la politiquería.
 Les pido la oportunidad de lograr resultados reales para el pueblo cubano.
+Solicita la participación de la demócrata Nicole Locklin en un evento: Si desea que Nicole Locklin asista a su reunión o a cualquier otro tipo de evento, por favor envíe su solicitud por correo electrónico a: info@locklinforcongress.com Nicole Locklin para el Congreso de los Estados Unidos | 650 NE 32nd Street Miami, FL 33137 1808 N.
+University Dr, Pembroke Pines, FL 33024 (786) 626-0772 La presencia de personas en fotos o videos en nuestro sitio web no implica un respaldo a Nicole Locklin por parte de esas personas ni de ninguna organización con la que puedan estar afiliadas, a menos que se indique lo contrario. ‍     Política de Privacidad

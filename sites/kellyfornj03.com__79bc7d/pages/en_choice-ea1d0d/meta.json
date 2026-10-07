@@ -1,7 +1,11 @@
 {
- "description": "Campaign series presenting candidates\u2019 words in context and where Ryan Michael Kelly stands.",
+ "description": "Campaign series presenting candidates’ words in context and where Ryan Michael Kelly stands.",
  "final_url": "https://www.kellyfornj03.com/en/choice",
+ "fingerprint": "866fd2a14c0c89fc88f71abe86f901bc10f2b54e",
+ "format": 3,
  "paid_for_by": "Paid for by Ryan Michael Kelly for Congress",
  "title": "The Choice in NJ-03 | Ryan Michael Kelly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

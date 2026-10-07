@@ -1,12 +1,46 @@
 [
-"http://elections.jeffersoncountyclerk.org/inhouse_absentee",
-"https://govote.ky.gov/",
-"https://impact-ky.com/",
-"https://jeffersoncountyclerk.org/WhereDoIVote",
-"https://rachelroarx.com/",
-"https://rachelroarx.com/endorsements",
-"https://rachelroarx.com/issues",
-"https://rachelroarx.com/vote",
-"https://secure.actblue.com/entity/fundraisers/131816",
-"https://vrsws.sos.ky.gov/ovrweb"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/entity/fundraisers/131816"
+},
+{
+"text": "Early Voting",
+"href": "http://elections.jeffersoncountyclerk.org/inhouse_absentee/"
+},
+{
+"text": "Endorsements",
+"href": "https://rachelroarx.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://rachelroarx.com/"
+},
+{
+"text": "Impact Kentucky",
+"href": "https://impact-ky.com/"
+},
+{
+"text": "Issues",
+"href": "https://rachelroarx.com/issues"
+},
+{
+"text": "Register To Vote",
+"href": "https://vrsws.sos.ky.gov/ovrweb/"
+},
+{
+"text": "Voting Information",
+"href": "https://rachelroarx.com/vote"
+},
+{
+"text": "Where To Vote",
+"href": "https://www.jeffersoncountyclerk.org/WhereDoIVote/"
+},
+{
+"text": "[image] [image]",
+"href": "https://rachelroarx.com/"
+},
+{
+"text": "govote.ky.gov",
+"href": "https://govote.ky.gov"
+}
 ]

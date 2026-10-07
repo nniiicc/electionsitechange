@@ -1,13 +1,24 @@
-Photo gallery
-On the trail and at the Capitol.
+Skip to main content Meet Pamela Record Issues Endorsements News How to Vote More LD4 District Map In the Media Photo Gallery Press Kit Contact Volunteer Donate Photo gallery On the trail and at the Capitol.
 Bill signings, town halls, endorsements, and the neighbors of LD4 — a look at the work behind the record.
-38 photos
-Browse the campaign album.
+38 photos Browse the campaign album.
 Tap any photo to open it larger.
 Use the arrows, your keyboard, or a swipe to move between photos.
-Keep exploring
-Come be in the next photo.
+Open larger photo: Pamela Carter speaking at a podium in front of a branded step-and-repeat backdrop Open larger photo: Pamela Carter with fellow legislators at Arizona House new member orientation Open larger photo: Pamela Carter on stage at a "Chase the Vote" grassroots event Open larger photo: Pamela Carter addressing a room with a handheld microphone Open larger photo: Supporters holding signs on the steps of the Lincoln Memorial in Washington, D.C.
+Open larger photo: Pamela Carter with a supporter inside a capitol atrium Open larger photo: Pamela Carter speaking at an outdoor awards ceremony honoring women leaders Open larger photo: Pamela Carter with President Donald Trump at a Turning Point Action event Open larger photo: Pamela Carter with Vice President JD Vance at a campaign field office Open larger photo: Pamela Carter with two colleagues in an Arizona legislative committee room Open larger photo: Pamela Carter with supporters at a packed campaign gathering Open larger photo: Pamela Carter standing with two officials in front of the Arizona and United States flags Open larger photo: Pamela Carter at the Cade's Day Race to Stop Suicide community event Open larger photo: Pamela Carter with attendees at an outdoor community fundraiser Open larger photo: Pamela Carter with friends and supporters at a shaded outdoor event Open larger photo: Pamela Carter presenting a framed legislative proclamation Open larger photo: Pamela Carter at a classic car showroom visit Open larger photo: Pamela Carter marching with advocates outside the Arizona State Capitol Open larger photo: Pamela Carter with a supporter at an outdoor campaign booth Open larger photo: Pamela Carter with a young constituent Open larger photo: Pamela Carter with colleagues presenting a certificate at the Capitol Open larger photo: Pamela Carter presenting a signed proclamation to a community leader Open larger photo: Pamela Carter with a supporter in front of a Pamela Carter campaign banner Open larger photo: Pamela Carter with a law enforcement officer at a Republican women's event Open larger photo: Pamela Carter canvassing door to door with campaign literature Open larger photo: The Arizona House voting board showing HB 2665, Cade's Law, passing third reading Open larger photo: Volunteers holding campaign signs along a neighborhood street Open larger photo: Pamela Carter with volunteers at an outdoor campaign table Open larger photo: Pamela Carter with two young supporters at a conservative conference Open larger photo: Pamela Carter in front of a Turning Point Action backdrop Open larger photo: Pamela Carter with a supporter at an outdoor community gathering Open larger photo: Pamela Carter with two supporters at an indoor campaign event Open larger photo: Volunteers holding Pamela Carter yard signs outdoors Open larger photo: A family picking up a Pamela Carter for State House yard sign Open larger photo: Pamela Carter with a supporter at a vintage-themed venue Open larger photo: Pamela Carter with supporters at a western-themed community event Open larger photo: A Pamela Carter for State House yard sign at a campaign booth Open larger photo: Pamela Carter holding a campaign yard sign at an outdoor event Keep exploring Come be in the next photo.
 Join a volunteer shift, request a yard sign, or read the first-term record behind these moments.
-Election Day · November 3, 2026
-Help keep Pamela standing up for Arizona.
+Volunteer with Pamela Read her story Election Day · November 3, 2026 Help keep Pamela standing up for Arizona.
 Every dollar and every volunteer hour goes straight into doors knocked, signs planted, and mail delivered across LD4.
+Donate now Volunteer Pamela Carter Faith.
+Family.
+Standing up for Arizona.
+Get campaign updates, event invitations, and ways to help re-elect Representative Pamela Carter in Legislative District 4.
+Follow the campaign Email address Sign up By signing up you agree to receive campaign emails from Pamela Carter's campaign.
+Unsubscribe any time.
+We never sell your information.
+Campaign Meet Pamela Why Pamela Legislative Record Issues Endorsements District & Voting How to Vote Photo Gallery Newsroom News In the Media Press Kit Contact Get Involved Donate Volunteer Request a Yard Sign Site Map Paid for by Pamela4AZ.
+Authorized by Pamela Carter.
+Pamela4AZ is the authorized campaign committee of Pamela Carter, candidate for the Arizona House of Representatives in Legislative District 4.
+Contributions are not tax-deductible as charitable contributions.
+This is not an official Arizona state government website. © 2026 Pamela4AZ.
+All rights reserved.
+Privacy Policy Terms Disclaimers pamela@pamelacarter.com Donate Volunteer Donate Volunteer

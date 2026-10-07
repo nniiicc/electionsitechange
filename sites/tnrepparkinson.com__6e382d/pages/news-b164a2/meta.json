@@ -1,13 +1,16 @@
 {
  "description": "Being a rep from Memphis requires strong, decisive leadership. This is what you get from Representative Antonio Parkinson.",
  "final_url": "https://tnrepparkinson.com/news",
- "paid_for_by": null,
+ "fingerprint": "9ee60ff749ce0f7f1c25542e6d836dbb7f2d9c21",
+ "format": 3,
+ "paid_for_by": "sponsored by State Representative Antonio Parkinson, seeks to end this practice",
  "title": "News",
  "years_mentioned": [
   "2019",
   "2022",
   "2023",
   "2025",
-  "2026"
+  "2026",
+  "2041"
  ]
 }

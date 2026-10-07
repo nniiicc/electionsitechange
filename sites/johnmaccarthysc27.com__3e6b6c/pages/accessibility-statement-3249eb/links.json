@@ -1,11 +1,50 @@
 [
-"https://facebook.com/profile.php?id=61558322968015&sk=followers",
-"https://heyvictor.com/",
-"https://johnmaccarthysc27.com/",
-"https://johnmaccarthysc27.com/accessibility-statement",
-"https://johnmaccarthysc27.com/issues",
-"https://johnmaccarthysc27.com/some-not-so-fun-facts",
-"https://johnmaccarthysc27.com/terms-of-service",
-"https://johnmaccarthysc27.com/why-john",
-"https://secure.actblue.com/donate/john-maccarthy-for-sc-house-27-2026"
+{
+"text": "Accessibility Statement",
+"href": "https://www.johnmaccarthysc27.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:#https://mail.google.com/mail/u/2/#inbox"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/john-maccarthy-for-sc-house-27-2026"
+},
+{
+"text": "Home",
+"href": "https://www.johnmaccarthysc27.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.johnmaccarthysc27.com/issues/"
+},
+{
+"text": "Some Challenges and Not So Fun Facts",
+"href": "https://www.johnmaccarthysc27.com/some-not-so-fun-facts/"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.johnmaccarthysc27.com/terms-of-service/"
+},
+{
+"text": "Why John",
+"href": "https://www.johnmaccarthysc27.com/why-john/"
+},
+{
+"text": "[image] [image]",
+"href": "https://www.johnmaccarthysc27.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61558322968015&sk=followers"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "https://www.johnmaccarthysc27.com",
+"href": "https://www.johnmaccarthysc27.com"
+}
 ]

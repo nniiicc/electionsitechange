@@ -1,33 +1,142 @@
 [
-"https://apnews.com/article/arrests-seattle-police-washington-police-reform-80aa71864b1bce2da19d7fbcbddb74ee",
-"https://app.leg.wa.gov/billsummary?BillNumber=1054&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=1064&Year=2019&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=1310&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=1735&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=2037&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=5051&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=5066&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=5259&Initiative=false&Year=2021",
-"https://crosscut.com/news/2020/11/seattle-seeks-states-help-reduce-power-police-unions",
-"https://facebook.com/GoodmanCampaign",
-"https://kiro7.com/news/local/state-lawmakers-prepare-address-police-reform/WDCWGN3HCZGJ5GQLYOR4Q3H4GY",
-"https://mynorthwest.com/2193868/state-level-police-reform-goodman",
-"https://mynorthwest.com/2232379/state-senate-committee-police-reforms",
-"https://nwprogressive.org/weblog/2020/11/house-public-safety-committee-reviews-ideas-for-police-reform-ahead-of-2021-session.html",
-"https://rogergoodman.org/",
-"https://rogergoodman.org/about-roger",
-"https://rogergoodman.org/add-me-to-the-mailing-list",
-"https://rogergoodman.org/awards",
-"https://rogergoodman.org/call-to-action-police-reform-and-racial-justice",
-"https://rogergoodman.org/call-to-action-police-reform-and-racial-justice/2",
-"https://rogergoodman.org/contact2",
-"https://rogergoodman.org/endorse-roger",
-"https://rogergoodman.org/endorsements",
-"https://rogergoodman.org/gallery",
-"https://rogergoodman.org/legislation-2",
-"https://rogergoodman.org/new-media",
-"https://rogergoodman.org/volunteer",
-"https://ruckelshauscenter.wsu.edu/meetings-and-materials-criminal-sentencing-task-force",
-"https://secure.actblue.com/donate/friends-of-roger-goodman-1",
-"https://tvw.org/watch?clientID=9375922947&eventID=2020111017"
+{
+"text": "Awards",
+"href": "https://www.rogergoodman.org/awards/"
+},
+{
+"text": "Contact",
+"href": "https://www.rogergoodman.org/contact2/"
+},
+{
+"text": "Contact Roger",
+"href": "https://www.rogergoodman.org/contact2/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-roger-goodman-1"
+},
+{
+"text": "Endorse Roger",
+"href": "https://www.rogergoodman.org/endorse-roger/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rogergoodman.org/endorsements/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/GoodmanCampaign/"
+},
+{
+"text": "Home",
+"href": "https://www.rogergoodman.org/"
+},
+{
+"text": "House Public Safety Committee reviews ideas for police reform",
+"href": "https://www.nwprogressive.org/weblog/2020/11/house-public-safety-committee-reviews-ideas-for-police-reform-ahead-of-2021-session.html"
+},
+{
+"text": "Justice Reform",
+"href": "https://www.rogergoodman.org/call-to-action-police-reform-and-racial-justice/"
+},
+{
+"text": "Lawmakers, activists set ambitious agenda for police reform",
+"href": "https://apnews.com/article/arrests-seattle-police-washington-police-reform-80aa71864b1bce2da19d7fbcbddb74ee"
+},
+{
+"text": "Legislative Accomplishments",
+"href": "https://www.rogergoodman.org/legislation-2/"
+},
+{
+"text": "Mailing List",
+"href": "https://www.rogergoodman.org/add-me-to-the-mailing-list/"
+},
+{
+"text": "Media",
+"href": "https://www.rogergoodman.org/new-media/"
+},
+{
+"text": "Meet Roger",
+"href": "https://www.rogergoodman.org/about-roger/"
+},
+{
+"text": "News",
+"href": "https://www.rogergoodman.org/new-media/"
+},
+{
+"text": "Page1",
+"href": "https://www.rogergoodman.org/call-to-action-police-reform-and-racial-justice/"
+},
+{
+"text": "Page2",
+"href": "https://www.rogergoodman.org/call-to-action-police-reform-and-racial-justice/2/"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.rogergoodman.org/gallery/"
+},
+{
+"text": "Police reform efforts at state level focus on accountability, transparency",
+"href": "https://mynorthwest.com/2193868/state-level-police-reform-goodman/"
+},
+{
+"text": "Rep. Goodman Conducts Public Safety Committee Hearing",
+"href": "https://www.tvw.org/watch/?clientID=9375922947&eventID=2020111017"
+},
+{
+"text": "Seattle seeks state’s help to reduce power of police unions",
+"href": "https://crosscut.com/news/2020/11/seattle-seeks-states-help-reduce-power-police-unions"
+},
+{
+"text": "State lawmakers prepare to address police reform",
+"href": "https://www.kiro7.com/news/local/state-lawmakers-prepare-address-police-reform/WDCWGN3HCZGJ5GQLYOR4Q3H4GY/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.rogergoodman.org/volunteer/"
+},
+{
+"text": "Washington State Criminal Sentencing Task Force",
+"href": "https://ruckelshauscenter.wsu.edu/meetings-and-materials-criminal-sentencing-task-force/"
+},
+{
+"text": "Washington state Senate committee to tackle police reforms",
+"href": "https://mynorthwest.com/2232379/state-senate-committee-police-reforms/"
+},
+{
+"text": "[image: cropped-SignLogo.png]",
+"href": "https://www.rogergoodman.org"
+},
+{
+"text": "addressing questionable police tactics",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1054&Initiative=false&Year=2021"
+},
+{
+"text": "imposed new duties on police",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5066&Initiative=false&Year=2021"
+},
+{
+"text": "measures",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1064&Year=2019&Initiative=false"
+},
+{
+"text": "prevent criminal suspects from fleeing a crime scene.",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2037&Initiative=false&Year=2021"
+},
+{
+"text": "respond effectively to mental health crisis calls",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1735&Initiative=false&Year=2021"
+},
+{
+"text": "state’s ability to sanction and decertify police",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5051&Initiative=false&Year=2021"
+},
+{
+"text": "transparency measures",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5259&Initiative=false&Year=2021"
+},
+{
+"text": "uniform standard limiting police use of force",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1310&Initiative=false&Year=2021"
+}
 ]

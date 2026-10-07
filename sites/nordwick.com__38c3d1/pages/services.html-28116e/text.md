@@ -1,4 +1,4 @@
-Affordable, reliable power and water are necessities, not luxuries.
+SUZZANN NORDWICK Montana First HOME PRIORTIES ABOUT CONTACT DONATE INFORMATION Why I’m Running for PSC by Suzzann Nordwick Affordable, reliable power and water are necessities, not luxuries.
 I’m Suzzann Nordwick running to be your District 3 Public Service Commissioner.
 As an engineer, I spent years analyzing and determining feasibilities.
 As a Montanan like you, I’m concerned about heating our homes and keeping local businesses running.
@@ -25,3 +25,4 @@ I’m an experienced and knowledgeable common-sense problem solver.
 Please Put me to work for you!
 For Montana Public Service Commission District 3, Vote SUZZANN NORDWICK.
 Thank you.
+01 Service 1 02 Service 2 03 Service 3 04 Service 4 05 Service 5 06 Service 6 DONATE NORDWICK FOR MONTANA PO BOX 721 BUTTE MT 59703 REPUBLICAN

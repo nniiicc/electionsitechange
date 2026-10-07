@@ -1,7 +1,9 @@
 {
  "description": "Sign up for raw and unfiltered political commentary from Lauren!",
  "final_url": "https://www.electarikan.com/newsletter.html",
- "paid_for_by": null,
+ "fingerprint": "1f9b9302b15371d4bee369ccdf2605916d945a23",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Newsletter",
  "years_mentioned": []
 }

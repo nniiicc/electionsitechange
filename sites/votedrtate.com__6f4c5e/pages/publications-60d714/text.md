@@ -1,13 +1,3 @@
-Embedded Files
-Publications
-Children’s Books:
-Poetry Book:
-Medical Research:
-Insulin glargine: Is it a viable option for managing diabetes in pregnancy
-American Journal of
-Obstetrics & Gynecology
-Tiffanie Tate-Moore, Kelly Bennett,
-Cornelia Graves, Steven Gabbe, et al.
-Vol. 193, Issue 6, Supplement, Page S83
-Page updated
-Report abuse
+Search this site Embedded Files Skip to main content Skip to navigation Home Home About Issues Events Publications Endorsements Media Media Stock The Politicians Creed Contact Donate Translate Home Home About Issues Events Publications Endorsements Media Media Stock The Politicians Creed Contact Donate Translate More Home About Issues Events Publications Endorsements Media Media Stock The Politicians Creed Contact Donate Translate DONATE Publications Children’s Books: Poetry Book: Medical Research: Insulin glargine: Is it a viable option for managing diabetes in pregnancy American Journal of Obstetrics & Gynecology Tiffanie Tate-Moore, Kelly Bennett, Cornelia Graves, Steven Gabbe, et al.
+Vol.
+193, Issue 6, Supplement, Page S83 © # Dr Tiffanie Tate For State Senate. | Paid For by Tate For Senate 2026 Committee Report abuse Page details Page updated Report abuse

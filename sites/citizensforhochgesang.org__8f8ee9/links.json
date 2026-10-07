@@ -1,46 +1,254 @@
 [
-"https://cdn.sanity.io/files/n2oyijjv/production/75a8e012f5ca5cba05ccea0a7c3a829c4b7efa5e.pdf",
-"https://citizensforhochgesang.org/",
-"https://citizensforhochgesang.org/cdn-cgi/l/email-protection",
-"https://citizensforhochgesang.org/district",
-"https://citizensforhochgesang.org/district/crawford-county",
-"https://citizensforhochgesang.org/district/dubois-county",
-"https://citizensforhochgesang.org/district/gibson-county",
-"https://citizensforhochgesang.org/district/perry-county",
-"https://citizensforhochgesang.org/district/pike-county",
-"https://citizensforhochgesang.org/district/spencer-county",
-"https://citizensforhochgesang.org/events",
-"https://citizensforhochgesang.org/events/details",
-"https://citizensforhochgesang.org/facts",
-"https://citizensforhochgesang.org/media",
-"https://citizensforhochgesang.org/news",
-"https://citizensforhochgesang.org/news/ferdinand-democratic-headquarters-sep-2026",
-"https://citizensforhochgesang.org/news/indiana-coal-ash-permit-proposal-sep-2026",
-"https://citizensforhochgesang.org/news/petersburg-prides-creek-housing-sep-2026",
-"https://citizensforhochgesang.org/news/why-im-running-for-state-senate",
-"https://citizensforhochgesang.org/news?place=Crawford+County",
-"https://citizensforhochgesang.org/news?place=Dubois+County",
-"https://citizensforhochgesang.org/news?place=Gibson+County",
-"https://citizensforhochgesang.org/news?place=Perry+County",
-"https://citizensforhochgesang.org/news?place=Pike+County",
-"https://citizensforhochgesang.org/news?place=Spencer+County",
-"https://citizensforhochgesang.org/platform",
-"https://citizensforhochgesang.org/platform/accountability",
-"https://citizensforhochgesang.org/platform/data-centers",
-"https://citizensforhochgesang.org/platform/housing",
-"https://citizensforhochgesang.org/platform/infrastructure",
-"https://citizensforhochgesang.org/platform/jobs",
-"https://citizensforhochgesang.org/platform/property-taxes",
-"https://citizensforhochgesang.org/store",
-"https://citizensforhochgesang.org/store?item=campaign-sticker",
-"https://citizensforhochgesang.org/store?item=campaign-t-shirt",
-"https://citizensforhochgesang.org/store?item=yard-sign-stop-mid-states-corridor",
-"https://citizensforhochgesang.org/support",
-"https://facebook.com/bradhochgesangforindianastatesenate",
-"https://facebook.com/reel/889384317422333",
-"https://facebook.com/reel/932383615929225",
-"https://indianavoters.in.gov/",
-"https://instagram.com/bradhochgesang.official",
-"https://transparencyusa.org/in/committee/citizens-for-hochgesang-8230",
-"https://youtube.com/@CitizensforHochgesang"
+{
+"text": "About & Priorities",
+"href": "https://citizensforhochgesang.org/platform"
+},
+{
+"text": "Accountability: Your Community, Your Say",
+"href": "https://citizensforhochgesang.org/platform/accountability"
+},
+{
+"text": "All events →",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "Browse all campaign gear",
+"href": "https://citizensforhochgesang.org/store"
+},
+{
+"text": "Browse media",
+"href": "https://citizensforhochgesang.org/media"
+},
+{
+"text": "Campaign storeComplete collectionThere is more in the store.Browse every shirt, sign, banner, button, and upcoming local design.Browse everything",
+"href": "https://citizensforhochgesang.org/store"
+},
+{
+"text": "Check Registration",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "Crawford",
+"href": "https://citizensforhochgesang.org/news?place=Crawford+County"
+},
+{
+"text": "Crawford CountyEnglish · Marengo · Milltown · Leavenworth · Alton · Taswell · Eckerty",
+"href": "https://citizensforhochgesang.org/district/crawford-county"
+},
+{
+"text": "Data centers: pay your own way or build somewhere else",
+"href": "https://citizensforhochgesang.org/platform/data-centers"
+},
+{
+"text": "Dubois",
+"href": "https://citizensforhochgesang.org/news?place=Dubois+County"
+},
+{
+"text": "Dubois CountyJasper · Huntingburg · Ferdinand · Holland · Ireland · Birdseye · St. Anthony",
+"href": "https://citizensforhochgesang.org/district/dubois-county"
+},
+{
+"text": "Event archive",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "Events",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "EventsAll events",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "Explore the full district page →",
+"href": "https://citizensforhochgesang.org/district"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bradhochgesangforindianastatesenate"
+},
+{
+"text": "Gibson",
+"href": "https://citizensforhochgesang.org/news?place=Gibson+County"
+},
+{
+"text": "Gibson CountyPrinceton · Fort Branch · Haubstadt · Owensville · Oakland City · Francisco · Hazleton · Patoka",
+"href": "https://citizensforhochgesang.org/district/gibson-county"
+},
+{
+"text": "Housing families can afford",
+"href": "https://citizensforhochgesang.org/platform/housing"
+},
+{
+"text": "Infrastructure: fix the roads we already drive",
+"href": "https://citizensforhochgesang.org/platform/infrastructure"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bradhochgesang.official"
+},
+{
+"text": "Jobs & small business: keeping young people here",
+"href": "https://citizensforhochgesang.org/platform/jobs"
+},
+{
+"text": "Media & Press",
+"href": "https://citizensforhochgesang.org/media"
+},
+{
+"text": "MediaMedia & videos",
+"href": "https://citizensforhochgesang.org/media"
+},
+{
+"text": "News",
+"href": "https://citizensforhochgesang.org/news"
+},
+{
+"text": "NewsAll news",
+"href": "https://citizensforhochgesang.org/news"
+},
+{
+"text": "Our District",
+"href": "https://citizensforhochgesang.org/district"
+},
+{
+"text": "Perry",
+"href": "https://citizensforhochgesang.org/news?place=Perry+County"
+},
+{
+"text": "Perry CountyTell City · Cannelton · Troy · Leopold · Bristow · Derby",
+"href": "https://citizensforhochgesang.org/district/perry-county"
+},
+{
+"text": "Pike",
+"href": "https://citizensforhochgesang.org/news?place=Pike+County"
+},
+{
+"text": "Pike CountyPetersburg · Winslow · Otwell · Spurgeon · Stendal · Velpen",
+"href": "https://citizensforhochgesang.org/district/pike-county"
+},
+{
+"text": "Property taxes: relief without gutting schools & EMS",
+"href": "https://citizensforhochgesang.org/platform/property-taxes"
+},
+{
+"text": "Public Policy Polling memo",
+"href": "https://cdn.sanity.io/files/n2oyijjv/production/75a8e012f5ca5cba05ccea0a7c3a829c4b7efa5e.pdf"
+},
+{
+"text": "Read more",
+"href": "https://citizensforhochgesang.org/platform/accountability"
+},
+{
+"text": "Read more",
+"href": "https://citizensforhochgesang.org/platform/data-centers"
+},
+{
+"text": "Read more",
+"href": "https://citizensforhochgesang.org/platform/housing"
+},
+{
+"text": "Read more",
+"href": "https://citizensforhochgesang.org/platform/infrastructure"
+},
+{
+"text": "Read more",
+"href": "https://citizensforhochgesang.org/platform/jobs"
+},
+{
+"text": "Read more",
+"href": "https://citizensforhochgesang.org/platform/property-taxes"
+},
+{
+"text": "Read post",
+"href": "https://citizensforhochgesang.org/news/ferdinand-democratic-headquarters-sep-2026"
+},
+{
+"text": "Read post",
+"href": "https://citizensforhochgesang.org/news/indiana-coal-ash-permit-proposal-sep-2026"
+},
+{
+"text": "Read post",
+"href": "https://citizensforhochgesang.org/news/petersburg-prides-creek-housing-sep-2026"
+},
+{
+"text": "Read the full story",
+"href": "https://citizensforhochgesang.org/news/why-im-running-for-state-senate"
+},
+{
+"text": "Shirts & Signs",
+"href": "https://citizensforhochgesang.org/store"
+},
+{
+"text": "Spencer",
+"href": "https://citizensforhochgesang.org/news?place=Spencer+County"
+},
+{
+"text": "Spencer CountyRockport · Santa Claus · Dale · Chrisney · Grandview · Gentryville · St. Meinrad",
+"href": "https://citizensforhochgesang.org/district/spencer-county"
+},
+{
+"text": "Support",
+"href": "https://citizensforhochgesang.org/support"
+},
+{
+"text": "The Record",
+"href": "https://citizensforhochgesang.org/facts"
+},
+{
+"text": "View every contribution and expense",
+"href": "https://www.transparencyusa.org/in/committee/citizens-for-hochgesang-8230"
+},
+{
+"text": "Watch",
+"href": "https://www.facebook.com/reel/932383615929225"
+},
+{
+"text": "Watch the calculation",
+"href": "https://www.facebook.com/reel/889384317422333"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@CitizensforHochgesang"
+},
+{
+"text": "[email protected]",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "[image: Brad Hochgesang for State Senate campaign logo]Brad Hochgesangfor State Senate",
+"href": "https://citizensforhochgesang.org/"
+},
+{
+"text": "[image: Campaign Sticker, front view]Available nowShare itCampaign Sticker2-inch circular vinyl stickerSee it in the store",
+"href": "https://citizensforhochgesang.org/store?item=campaign-sticker"
+},
+{
+"text": "[image: Campaign T-Shirt, front view]Available nowWear itCampaign T-ShirtUnisex cotton, District 48 on the backSee it in the store",
+"href": "https://citizensforhochgesang.org/store?item=campaign-t-shirt"
+},
+{
+"text": "[image: Watch: Making the Case to the Dubois County Council thumbnail]",
+"href": "https://www.facebook.com/reel/932383615929225"
+},
+{
+"text": "[image: Yard Sign — Stop the Mid-States Corridor, front view]Available nowShow itYard Sign — Stop the Mid-States Corridor2 formats available in the campaign storeSee it in the store",
+"href": "https://citizensforhochgesang.org/store?item=yard-sign-stop-mid-states-corridor"
+},
+{
+"text": "[image]",
+"href": "https://citizensforhochgesang.org/news/ferdinand-democratic-headquarters-sep-2026"
+},
+{
+"text": "📍Bottomland Forest Ecology Hike near WinslowOct 3, 2026, 10:00 AMPatoka River National Wildlife Refuge property east of Winslow, IN (38.391798, -87.174402)View event →",
+"href": "https://citizensforhochgesang.org/events/details#patoka-bottomland-forest-hike-oct-2026"
+},
+{
+"text": "📍EPA public hearing: Indiana coal-ash permit proposalNov 12, 2026, 2:00 PMOnline and Indiana Government Center South, Wabash Hall Rooms 4–5, 302 W Washington St, Indianapolis, INView event →",
+"href": "https://citizensforhochgesang.org/events/details#epa-indiana-coal-ash-hearing-nov-2026"
+}
 ]

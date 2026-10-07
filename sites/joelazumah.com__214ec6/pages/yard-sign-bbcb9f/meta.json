@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.joelazumah.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "9214e496c0929efcd0b524ddb7bd39f1f030d816",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

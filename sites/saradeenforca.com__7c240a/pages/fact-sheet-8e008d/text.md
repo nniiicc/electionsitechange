@@ -1,19 +1,5 @@
-Sara Deen — Fact Sheet
-Quick, verified facts about Sara Deen's campaign for California State Assembly, District 66.
-Quick Facts
-- Candidate: Sara Deen
-- Office sought: California State Assembly, District 66
-- Current position: President, Palos Verdes Peninsula Unified School District Board of Education
-- Profession: Small business owner (Torrance, CA), Family dentist
-- Education: B.A., UC Berkeley; Doctor of Dental Surgery (DDS), UC San Francisco
-- Residence: Rancho Palos Verdes, California
-- Family: Married to Omer Deen, a practicing physician; two children
-- District 66 covers: Lomita, El Segundo, Rancho Palos Verdes, Redondo Beach, Rolling Hills Estates, Manhattan Beach, Hermosa Beach, Torrance, Rolling Hills, Palos Verdes Estates, and portions of Gardena and the City of Los Angeles
-- Election: General election is November 3, 2026
-- General election opponent: Paul Seo, Mayor Pro Tem of Rancho Palos Verdes and California Deputy Attorney General
-- Campaign website: saradeenforca.com
-- Donate: secure.actblue.com/donate/sara-deen
-Who is Sara Deen?
+Meet Sara About Sara Why I’m Running Endorsements Get Involved Vote Voting Information District 66 Media Contact Donate Sara Deen — Fact Sheet Quick, verified facts about Sara Deen's campaign for California State Assembly, District 66.
+Quick Facts Candidate: Sara Deen Office sought: California State Assembly, District 66 Current position: President, Palos Verdes Peninsula Unified School District Board of Education Profession: Small business owner (Torrance, CA), Family dentist Education: B.A., UC Berkeley; Doctor of Dental Surgery (DDS), UC San Francisco Residence: Rancho Palos Verdes, California Family: Married to Omer Deen, a practicing physician; two children District 66 covers: Lomita, El Segundo, Rancho Palos Verdes, Redondo Beach, Rolling Hills Estates, Manhattan Beach, Hermosa Beach, Torrance, Rolling Hills, Palos Verdes Estates, and portions of Gardena and the City of Los Angeles Election: General election is November 3, 2026 General election opponent: Paul Seo, Mayor Pro Tem of Rancho Palos Verdes and California Deputy Attorney General Campaign website: saradeenforca.com Donate: secure.actblue.com/donate/sara-deen Who is Sara Deen?
 Sara Deen is the President of the Palos Verdes School Board, owner of a small urgent care in Torrance, a family dentist, and serves the entire South Bay as a Board Member of the Southern California Regional Occupational Center (SoCal ROC) who is running for California State Assembly in District 66.
 What district is Sara Deen running to represent?
 Sara Deen is running for California's 66th Assembly District, which includes Lomita, El Segundo, Rancho Palos Verdes, Redondo Beach, Rolling Hills Estates, Manhattan Beach, Hermosa Beach, Torrance, Rolling Hills, and Palos Verdes Estates, along with parts of Gardena and the City of Los Angeles.
@@ -51,5 +37,7 @@ Before running for State Assembly, she was elected to the Palos Verdes Peninsula
 When is the election for California Assembly District 66?
 The general election for California's 66th Assembly District is on November 3, 2026.
 How can someone contact or support Sara Deen's campaign?
-Voters can learn more, volunteer, or donate to Sara Deen's campaign at saradeenforca.com.
-Contributions can be made directly at secure.actblue.com/donate/sara-deen.
+Voters can learn more, volunteer, or donate to Sara Deen's campaign at saradeenforca.com .
+Contributions can be made directly at secure.actblue.com/donate/sara-deen .
+Sign Up Success!
+First Name Last Name Email Sign Up Follow Follow Follow Links Voting Information Fact Sheet Donate $25 $50 $100 OTHER Paid for by Sara Deen for Assembly 2026, FPPC ID# 1478003

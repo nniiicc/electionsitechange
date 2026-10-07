@@ -1,10 +1,38 @@
 [
-"https://facebook.com/vote4soto",
-"https://instagram.com/vote4sylviasoto",
-"https://secure.winred.com/sylvia-soto-for-texas/donate-today",
-"https://sylviasoto.com/",
-"https://sylviasoto.com/donate-1",
-"https://sylviasoto.com/gallery",
-"https://sylviasoto.com/meet-me",
-"https://sylviasoto.com/volunteer"
+{
+"text": "Donate",
+"href": "https://sylviasoto.com/donate-1"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/sylvia-soto-for-texas/donate-today"
+},
+{
+"text": "Gallery",
+"href": "https://sylviasoto.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://sylviasoto.com/"
+},
+{
+"text": "Meet Me",
+"href": "https://sylviasoto.com/meet-me"
+},
+{
+"text": "Volunteer",
+"href": "https://sylviasoto.com/volunteer"
+},
+{
+"text": "[image: Sylvia Soto for Texas]",
+"href": "https://sylviasoto.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/vote4soto/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vote4sylviasoto/"
+}
 ]

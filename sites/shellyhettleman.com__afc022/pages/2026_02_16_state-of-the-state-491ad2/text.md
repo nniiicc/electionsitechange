@@ -1,5 +1,4 @@
-Dear Friends,
-Last week, we had the opportunity to participate in a joint session of the General Assembly for the Governor’s State of the State address, during which he outlined his legislative agenda.
+Support Shelly About Shelly Issues Better Public Education Public Safety & Criminal Justice Health & Wellness Jobs, Housing & Economic Development Our Debt to Seniors Protecting the Environment & Our Democracy Resources & Scholarships Events Latest News Shelly in the News Updates from Shelly Stay in Touch Select Page State of the State Feb 16, 2026 Dear Friends, Last week, we had the opportunity to participate in a joint session of the General Assembly for the Governor’s State of the State address, during which he outlined his legislative agenda.
 He emphasized the need for legislative solutions to address the affordability challenges facing Marylanders as they struggle to pay for food, housing, and health care, and he expressed his frustration with the current state of redistricting.
 As you may be aware, the Governor and the House have supported a redistricting plan in direct response to the President’s decision to encourage Republican-led states to pursue mid-cycle redistricting in an effort to forestall expected Democratic gains in the midterm elections.
 For a variety of reasons—including the unique aspects of Maryland’s redistricting history, constitutional requirements, and timing—the Senate President has been clear in his opposition to a mid-cycle effort to redraw congressional maps.
@@ -13,6 +12,6 @@ These are just a few examples of how we serve our community.
 If we can be of assistance to you, please do not hesitate to reach out.
 And be sure to follow us on social media for regular and timely updates on our legislative agenda.
 Shelly L.
-Hettleman
-Senator, District 11
-Check out the full newsletter here.
+Hettleman Senator, District 11 Check out the full newsletter here .
+Search for: Recent Posts Maryland prisons rank among nation’s worst for killings APG Federal Credit Union Hosts Ribbon-Cutting Ceremony for Third Baltimore County Branch Wrapping it Up Legislature Passes Bill for Jewish & Muslim Heritage Months Maryland climate-aligned transportation bill gains momentum in Senate Recent Comments Facebook Twitter © # Shelly Hettleman.
+Web Design by Web Interactive Technologies Paid by Friends of Shelly Hettleman, Caren Lichter, Treasurer.

@@ -1,6 +1,4 @@
-Josh Wheeler
-House District 35B
-I was born and raised in Ammon, Idaho.
+Skip to main content Wheeler For Idaho Menu Why I Am Running About Josh Blog Contact Campaign Voting Record Donate Volunteer Search the site Expand Search Josh Wheeler House District 35B I was born and raised in Ammon, Idaho.
 I had the joy to graduate from Hillcrest High School, where I met and dated my wife, Laramie Linning.
 After high school, I served in Brazil for two years as a missionary and then I fulfilled my dream of marrying my high school sweetheart.
 Laramie and I left our hometowns to study first in Provo, where I studied and completed a degree in construction management.
@@ -24,3 +22,4 @@ I have treasured my experience on the city council thus far.
 However, recently I felt once again that I needed to run for State Representative at this time and work to give the best control and representation to the local communities.
 Our communities are stronger, more efficient and simply better when local governments make decisions for the very communities in which they live.
 Idaho values work best locally.
+Home About Josh Wheeler for Idaho Ben Spencer - Treasurer (208) 360-3926 © # Home About Josh Contact Campaign Back to top

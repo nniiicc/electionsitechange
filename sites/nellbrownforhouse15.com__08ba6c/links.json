@@ -1,11 +1,42 @@
 [
-"http://cash.app/$nellbrownforhouse",
-"https://facebook.com/NellBrownforAlabama",
-"https://instagram.com/nellbrownfordistrict15",
-"https://nellbrownforhouse15.com/",
-"https://nellbrownforhouse15.com/about-nell",
-"https://nellbrownforhouse15.com/contact",
-"https://nellbrownforhouse15.com/people-first",
-"https://secure.actblue.com/donate/nellbrownforhouse15",
-"https://tiktok.com/@nell.brown.for.di?_t=ZP-8yH93rMMPE7&_r=1"
+{
+"text": "About Nell",
+"href": "https://nellbrownforhouse15.com/about-nell"
+},
+{
+"text": "Cash App",
+"href": "http://www.cash.app/%24nellbrownforhouse"
+},
+{
+"text": "Contact",
+"href": "https://nellbrownforhouse15.com/contact"
+},
+{
+"text": "Home",
+"href": "https://nellbrownforhouse15.com/"
+},
+{
+"text": "Nell Brown for House 15Nell Brown for House 15Nell Brown for House 15Nell Brown for House 15",
+"href": "https://nellbrownforhouse15.com/"
+},
+{
+"text": "People First",
+"href": "https://nellbrownforhouse15.com/people-first"
+},
+{
+"text": "Stand with Nell Donate Today!",
+"href": "https://secure.actblue.com/donate/nellbrownforhouse15"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NellBrownforAlabama"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nellbrownfordistrict15"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@nell.brown.for.di?_t=ZP-8yH93rMMPE7&_r=1"
+}
 ]

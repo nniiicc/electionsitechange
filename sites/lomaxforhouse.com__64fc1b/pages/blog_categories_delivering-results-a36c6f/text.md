@@ -1,17 +1,1 @@
-top of page
-Menu
-Close
-ABOUT
-ENDORSEMENTS
-CONTACT
-NEWS
-PRIVACY POLICY
-FOLLOW JAMES ON FACEBOOK
-CONTRIBUTE
-All Posts
-Delivering Results
-NEWS
-ENDORSEMENTS
-Alabama House approves bill increasing penalties for making terrorist threats
-Feb 5
-bottom of page
+top of page Menu Close ABOUT ENDORSEMENTS CONTACT NEWS PRIVACY POLICY FOLLOW JAMES ON FACEBOOK CONTRIBUTE All Posts Delivering Results NEWS ENDORSEMENTS Alabama House approves bill increasing penalties for making terrorist threats Feb 5 ABOUT ENDORSEMENTS CONTACT NEWS PRIVACY POLICY PAID FOR BY FRIENDS OF JAMES LOMAX PO BOX 4046 HUNTSVILLE, AL 35815 bottom of page

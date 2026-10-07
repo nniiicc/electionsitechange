@@ -1,13 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=North+Royalton+%22Flip+the+South%22+Canvass+Launch&dates=20261018T170000Z%2F20261018T190000Z&location=14130+Pine+Forest+Drive%2C+North+Royalton%2C+Ohio%2C+44133%2C+United+States",
-"http://maps.google.com/?q=14130+Pine+Forest+Drive+North+Royalton%2C+Ohio%2C+44133+United+States",
-"https://coyforohio.com/",
-"https://coyforohio.com/cart",
-"https://coyforohio.com/contact",
-"https://coyforohio.com/events",
-"https://coyforohio.com/events/berea-canvass-with-megan-coy",
-"https://coyforohio.com/events/north-royalton-flip-the-south-canvass-launch?format=ical",
-"https://coyforohio.com/events/strongsville-flip-the-south-canvass-launch",
-"https://coyforohio.com/support",
-"https://mobilize.us/brianpoindexter/event/1041708"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=14130+pine+forest+drive+north+royalton%2C+ohio%2C+44133+united+states"
+},
+{
+"text": "0",
+"href": "https://www.coyforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.coyforohio.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.coyforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=North+Royalton+%22Flip+the+South%22+Canvass+Launch&dates=20261018T170000Z%2F20261018T190000Z&location=14130+Pine+Forest+Drive%2C+North+Royalton%2C+Ohio%2C+44133%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.coyforohio.com/events/north-royalton-flip-the-south-canvass-launch?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.coyforohio.com/#issues"
+},
+{
+"text": "Meet Megan",
+"href": "https://www.coyforohio.com/#meetmegan"
+},
+{
+"text": "Next Next October 18 Strongsville \"Flip the South\" Canvass Launch",
+"href": "https://www.coyforohio.com/events/strongsville-flip-the-south-canvass-launch"
+},
+{
+"text": "Previous Previous October 17 Berea Canvass with Megan Coy and Courtney Scheff",
+"href": "https://www.coyforohio.com/events/berea-canvass-with-megan-coy"
+},
+{
+"text": "Sign up here!",
+"href": "https://www.mobilize.us/brianpoindexter/event/1041708/"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.coyforohio.com/support"
+},
+{
+"text": "[image: Megan Coy]",
+"href": "https://www.coyforohio.com/"
+},
+{
+"text": "press@poindexterforcongress.com",
+"href": "mailto:press@poindexterforcongress.com"
+}
 ]

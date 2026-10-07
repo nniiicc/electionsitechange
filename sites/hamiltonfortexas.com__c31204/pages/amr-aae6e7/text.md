@@ -1,18 +1,27 @@
-Research Paper Interview: Future of Third Parties and Electoral Success
-Miles R Andres, April 19, 2024
-My name is Miles Andres and I am a current Master's student at the University of Texas at Austin researching the future of independent and third-party candidates in Texas.
+☰ MENU Home Meet Darren Not Politics as Usual Candidacy Is Different District 57 Map Defining Libertarians FAQ Endorsements Platform Self-Ownership Second Amendment and Gun Control Public Education K-12 Healthcare vs Health Care Abortion Immigration LGBTQ Issues The Unsheltered Vice and Morality Laws Veterans Issues Autism Advocacy Opinions Quadrennial Circus Modern Medieval Mayhem Describing the Autistic Experience Authoritarianism Crime Spree Police State Government Control Not TV Reruns questionnaires Alliance Defending Freedom Andres Masters Research Association of Texas Professional Educators Denton Record-Chronicle HOA Reform Coalition iVoter Guide National Alliance on Mental Illness (NAMI) VoteSmart Political Courage Test GenZ for Change News The Porcupine's Quill - 06-Sep The Porcupine's Quill - 13-Sep The Porcupine's Quill - 30-Aug Video Links Contact Libertarian Party Research Paper Interview: Future of Third Parties and Electoral Success Miles R Andres, April 19, 2024 My name is Miles Andres and I am a current Master's student at the University of Texas at Austin researching the future of independent and third-party candidates in Texas.
 I am reaching out to invite you to participate in an interview as part of my research process.
 A non-major party candidate has not been elected to any office in Texas since 1883.
 But today, more Texans are identifying as Independent than at any time in history.
 The findings from this research aim to contribute to a better understanding of the benefits and challenges associated with third-party candidacy.
 I believe that your perspective as a candidate would enrich the depth and breadth of this research significantly.
 Your participation would be greatly appreciated, and I am confident that your insights will add valuable insights to the study.
-Below are the questions for the interview:
-1.
+Below are the questions for the interview: 1.
 George Washington warned against political parties in his farewell address yet since 1797 we have had a total of five political parties ever elected to the presidency and the last non-major party to win an election was Millard Fillmore in 1850.
 Do you believe the two-party system is broken?
 If so, how can it be dismantled to improve opportunities for non-major candidates?
-2.
+Let me start out by answering this question by stepping out on a tangent.
+We are often told that "these things work a certain, specific way".
+Under most circumstances, that concept is usually an acceptable premise, but when any of us actually start going beyond the premise, we find that there are any number of variations that will also work and that the original premise is not as strict as we have been initially led to believe.
+I don't believe that the two-party system is broken; it's just exclusive.
+I also believe that the two-party system works exactly the way that it was designed to work: give voters an illusion of choice that allows them to feel comfortable, that lets them believe that they have a voice in the direction of their government.
+It's only when some of us dig beyond the original premise that we discover the illusion, and that the "control" that most people believe that they have over government is simply misdirection by a highly skilled magician.
+The Old Parties (as we Libertarians refer to the collective Democratic and Republican Parties) have consistently taken steps to not only exclude alternative party and independent candidates from being allowed on ballots, but during campaigns, also point to various metrics (e.g., campaign donation volumes, advertising, media coverage, etc.) in an attempt to invalidate (or ridicule) any candidate who is not a Democrat or Republican.
+And they usually get away with it because many American voters have been conditioned to see anything outside of established norms as inherently suspect and not to be taken seriously.
+As for any attempt to dismantle the two-party system, it seems to me that both parties are already imploding and may last a few more political cycles before their self-destruction is complete.
+My best suggestion (and one that I am personally invested in for my own campaign) is to appeal to those people who have become disenfranchised with the two-party system.
+I use the platforms that are available to let them know that there are (or might be) candidates running for offices who actually do share their values and beliefs.
+The disenfranchised voter represents, by a wide margin, the largest potential voting bloc and if they are given a candidate who believes in them, maybe, just maybe they will step into a voting booth to cast their vote for a candidate that they themselves can believe in.
+Maybe that view is naive, but the cynicism that has infected American politics for the past half-century has not (in my opinion) produced anything that ALL Americans can point to and say, "we did that." 2.
 The 2016 presidential election saw the highest percentage of votes for non-major party candidates since Ross Perot's 8.4% in 1996.
 The last non-major party candidate to exceed 20% of the vote count was Theodore Roosevelt in 1912 running as a member of the Progressive Party.
 Do you see a day when a third-party or independent candidate could run for President of the United States and win?
@@ -50,8 +59,7 @@ We are also taught that 'when (not "if") we succeed, understand that others may 
 My current campaign is focused on the use of social media to reach my target audience; in this case, disenfranchised Old Party voters.
 Some of my companion candidates are following other paths.
 Collectively, we are trying every path that we can conceive and, at some point, ONE of us will succeed in being elected to their seat, and thus give the rest of us a likely path to follow.
-As Frost so eloquently stated, "And that has made all the difference."
-5.
+As Frost so eloquently stated, "And that has made all the difference." 5.
 In your opinion, what steps could be taken to level the playing field for third-party candidates and enhance political pluralism in the electoral system?
 In construction, there are two predominant methods to creating a level space on uneven ground.
 The first is to measure the highest point and fill in the area surrounding that highest point until the ground becomes level.
@@ -71,3 +79,4 @@ My suggestion: just as alternative party and independent candidates are required
 In addition to "leveling the playing field", this would also require at least some accountability toward where these funds are being spent.
 This limitation cap should also apply to political action committees (PACs) and political parties.
 Please feel free to respond to as many or as few questions as you would like as well as add any information you would be willing to share.
+Best, Miles Andres Voter Information Endorsements Events Contact Privacy Policy Committee to Elect Darren Hamilton Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darren Not Politics as Usual Candidacy Is Different District 57 Map Defining Libertarians FAQ Endorsements Platform Self-Ownership Second Amendment and Gun Control Public Education K-12 Healthcare vs Health Care Abortion Immigration LGBTQ Issues The Unsheltered Vice and Morality Laws Veterans Issues Autism Advocacy Opinions Quadrennial Circus Modern Medieval Mayhem Describing the Autistic Experience Authoritarianism Crime Spree Police State Government Control Not TV Reruns questionnaires Alliance Defending Freedom Andres Masters Research Association of Texas Professional Educators Denton Record-Chronicle HOA Reform Coalition iVoter Guide National Alliance on Mental Illness (NAMI) VoteSmart Political Courage Test GenZ for Change News The Porcupine's Quill - 06-Sep The Porcupine's Quill - 13-Sep The Porcupine's Quill - 30-Aug Video Links Contact Libertarian Party Close Menu

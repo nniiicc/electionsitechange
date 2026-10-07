@@ -1,15 +1,54 @@
 [
-"http://elections.il.gov/",
-"https://dupagecounty.gov/elected_officials/election_and_voter_information/voting_information/registration/register_to_vote.php",
-"https://dupagecounty.gov/elected_officials/election_and_voter_information/voting_information/voter_lookup_tool.php",
-"https://facebook.com/profile.php?id=61553956357147",
-"https://instagram.com/martiforil45",
-"https://martiforil45.com/",
-"https://martiforil45.com/about-marti",
-"https://martiforil45.com/contact-8",
-"https://martiforil45.com/error404",
-"https://martiforil45.com/join-us",
-"https://martiforil45.com/my-priorities",
-"https://martiforil45.com/vote",
-"https://secure.actblue.com/donate/friends-of-marti-deuter-1"
+{
+"text": "About Marti",
+"href": "https://www.martiforil45.com/about-marti"
+},
+{
+"text": "Check Your Voter Registration",
+"href": "https://www.dupagecounty.gov/elected_officials/election_and_voter_information/voting_information/voter_lookup_tool.php#collapse14872b0"
+},
+{
+"text": "Contact",
+"href": "https://www.martiforil45.com/contact-8"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-marti-deuter-1"
+},
+{
+"text": "Home",
+"href": "https://www.martiforil45.com"
+},
+{
+"text": "Join Us",
+"href": "https://www.martiforil45.com/join-us"
+},
+{
+"text": "My Priorities",
+"href": "https://www.martiforil45.com/my-priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.martiforil45.com/error404"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.dupagecounty.gov/elected_officials/election_and_voter_information/voting_information/registration/register_to_vote.php"
+},
+{
+"text": "Vote",
+"href": "https://www.martiforil45.com/vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61553956357147"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/martiforil45/"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov"
+}
 ]

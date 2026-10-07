@@ -1,9 +1,3 @@
-Welcome
-Meet Brandon
-COVID-19 Resources
-Issues
-Endorsements
-Legislative Efforts
-Volunteer
-More
-Endorsement Videos
+top of page Welcome Meet Brandon COVID-19 Resources Issues Endorsements Endorsement Videos Legislative Efforts Volunteer More Use tab to navigate through the menu items.
+CONTRIBUTE NOW Play Video Share Whole Channel This Video Facebook Twitter Pinterest Tumblr Copy Link Link Copied Search videos Search video...
+Now Playing 01:00 Play Video Richard Vinroot Endorsement Now Playing 00:34 Play Video Liz Winer Endorsement Now Playing 00:50 Play Video Rob Harrington Endorsement Now Playing 00:45 Play Video Jon Buchan Endorsement Endorsement Videos CONTRIBUTE NOW PO Box 30037 | Charlotte, NC 28230 | info@loftonfornc.com Paid for by Lofton for North Carolina bottom of page

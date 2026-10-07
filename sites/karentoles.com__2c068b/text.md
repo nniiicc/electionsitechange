@@ -1,6 +1,4 @@
-Passionate Leader • Proven Experience • Positive REsults
-Meet Karen
-Delegate Karen R.
+0 Skip to Content Donate Open Menu Close Menu Donate Open Menu Close Menu Donate Passionate Leader • Proven Experience • Positive REsults Meet Karen Delegate Karen R.
 Toles is currently serving in her second term as a member of the House of Delegates and is running for re-election.
 Karen Toles is a member of the powerful Appropriations Committee, and a member of the Education and Economic Development and Racing Subcommittees.
 As a member of Appropriations, Delegate Toles is in the room where it happens- helping to shape decisions on on how to allocate funding for a $7.1 billion State budget.
@@ -23,6 +21,5 @@ Karen is a member of Alpha Kappa Alpha Sorority, Incorporated, The Links, Incorp
 Delegate Toles is a Marylander through and through who fights for YOU!
 “As your delegate, I’m fighting to lower the high cost of groceries and utilities for working families.
 As a member of the appropriations committee, I support funding our public schools so all Maryland kids have an opportunity to thrive.
-And I’ll always fight to keep our communities safe and to give us the quality of life our families and our communities deserve.”
-— Delegate Karen Toles, District 25
-Delegate Karen Toles is proudly endorsed by:
+And I’ll always fight to keep our communities safe and to give us the quality of life our families and our communities deserve .” — Delegate Karen Toles, District 25 Donate Now Delegate Karen Toles is proudly endorsed by: By the Authority of: Friends of Karen R.
+Toles, Rochelle Andrews, Treasurer Built by Blue Nation Strategies

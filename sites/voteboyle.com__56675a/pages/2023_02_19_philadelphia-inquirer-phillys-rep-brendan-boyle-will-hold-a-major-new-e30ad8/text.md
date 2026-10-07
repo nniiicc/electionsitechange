@@ -1,4 +1,7 @@
-Boyle, 45, would be the party’s top voice on the House committee that sets the framework for federal spending and tax levels and has often been a platform for bigger leadership roles.
+Skip to content Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Brendan F.
+Boyle | U.S.
+Congress Representing Pennsylvania's 2nd District Facebook Twitter YouTube Instagram Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Philadelphia Inquirer: Philly’s Rep.
+Brendan Boyle will hold a major new post in the new Congress February 19, 2023 February 19, 2024 Boyle, 45, would be the party’s top voice on the House committee that sets the framework for federal spending and tax levels and has often been a platform for bigger leadership roles.
 U.S.
 Rep.
 Brendan Boyle will become the top Democrat on the House Budget Committee, a position that gives the Philadelphian a key perch on one of Congress’ most influential panels.
@@ -13,13 +16,13 @@ With Democrats in the minority, Boyle’s role will mostly center on arguing aga
 But as the ranking member, Boyle would potentially be in line to become chairman if or when Democrats regain control of the House.
 He said his first priority will be pushing back against any Republican attempts to use the need to increase the federal debt ceiling as leverage for cuts to Social Security or Medicare, as some GOP leaders have suggested, if the issue isn’t resolved before the end of the year.
 “I absolutely refuse to entertain any of that,” Boyle said in an interview Tuesday.
-“I really do believe that the argument over raising the debt ceiling and protecting Social Security and Medicare is going to be the front and center argument over the course of 2023.”
-Boyle also pointed to how Ryan and other budget committee chairs used the post to shape the wider debate over federal spending and priorities.
+“I really do believe that the argument over raising the debt ceiling and protecting Social Security and Medicare is going to be the front and center argument over the course of 2023.” Boyle also pointed to how Ryan and other budget committee chairs used the post to shape the wider debate over federal spending and priorities.
 He said he hopes to encourage a restoration of the 2021 child tax credit that drastically cut poverty but expired after one year, and to provide more economic opportunities to people who do not attend college.
 Gray was also in his 40s when he became the top Democrat on the committee, Boyle noted.
 “As someone who represents part of the area that Bill Gray used to represent, to be mentioned even in the same sentence as him is a true honor,” Boyle said.
 He said he received encouragement to seek the position from both the incoming House Minority Leader Hakeem Jeffries (D., N.Y.) and the outgoing budget chairman, Rep.
 John Yarmuth (D., Ky.), who is retiring.
 “Congressman Brendan Boyle is a remarkable legislator who has fought hard for lower costs and better-paying jobs throughout his tenure in Congress,” said a statement from Jeffries provided by Boyle’s office.
-“I congratulate Brendan on his election as he leads the effort to defend our priorities on the House Budget Committee, including the protection of Social Security and Medicare from attacks by the Extreme MAGA Republicans.”
-To read the full article, click here.
+“I congratulate Brendan on his election as he leads the effort to defend our priorities on the House Budget Committee, including the protection of Social Security and Medicare from attacks by the Extreme MAGA Republicans.” To read the full article, click here .
+Rep.
+Boyle Endorsed by Congressional Black Caucus PAC The Hill: Brendan Boyle’s plan to end debt ceiling games once and for all Search Search Keep Up with Brendan First Name Last Name Email Back to Top Facebook Twitter YouTube Instagram Paid for by Citizens for Boyle Powered by Fluida & WordPress.

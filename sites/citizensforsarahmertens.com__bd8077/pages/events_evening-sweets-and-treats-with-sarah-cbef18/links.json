@@ -1,22 +1,90 @@
 [
-"http://elections.il.gov/",
-"http://google.com/calendar/event?action=TEMPLATE&text=Evening+Sweets+and+Treats+with+Sarah%21&dates=20260311T220000Z%2F20260312T000000Z&location=Lake+in+the+Hills%2C+IL",
-"http://maps.google.com/?q=+Lake+in+the+Hills%2C+IL",
-"https://bsky.app/profile/sarahmertensforil.bsky.social",
-"https://citizensforsarahmertens.com/",
-"https://citizensforsarahmertens.com/about-6-1",
-"https://citizensforsarahmertens.com/cart",
-"https://citizensforsarahmertens.com/endorsements",
-"https://citizensforsarahmertens.com/events",
-"https://citizensforsarahmertens.com/events/evening-sweets-and-treats-with-sarah?format=ical",
-"https://citizensforsarahmertens.com/events/live-on-twitch-with-sarah-mertens-1",
-"https://citizensforsarahmertens.com/events/meet-and-greet-with-sarah-mertens-in-hampshire",
-"https://citizensforsarahmertens.com/get-involved",
-"https://citizensforsarahmertens.com/issues",
-"https://facebook.com/profile.php?id=61583609271188&sk=about",
-"https://instagram.com/Sarah.Mertens.for.IL.Senate",
-"https://secure.actblue.com/donate/sarah-mertens-1",
-"https://secure.actblue.com/donate/sweetsandtreats",
-"https://tiktok.com/@citizens.for.sarah",
-"https://twitch.tv/sarahmertens4il"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+lake+in+the+hills%2C+il+"
+},
+{
+"text": "0",
+"href": "https://www.citizensforsarahmertens.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.citizensforsarahmertens.com/about-6-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.citizensforsarahmertens.com/events"
+},
+{
+"text": "Donate - ActBlue",
+"href": "https://secure.actblue.com/donate/sarah-mertens-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.citizensforsarahmertens.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.citizensforsarahmertens.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.citizensforsarahmertens.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Evening+Sweets+and+Treats+with+Sarah%21&dates=20260311T220000Z%2F20260312T000000Z&location=Lake+in+the+Hills%2C+IL"
+},
+{
+"text": "Home",
+"href": "https://www.citizensforsarahmertens.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.citizensforsarahmertens.com/events/evening-sweets-and-treats-with-sarah?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.citizensforsarahmertens.com/issues"
+},
+{
+"text": "Next Next March 12 Meet and Greet with Sarah Mertens in Hampshire",
+"href": "https://www.citizensforsarahmertens.com/events/meet-and-greet-with-sarah-mertens-in-hampshire"
+},
+{
+"text": "Previous Previous March 10 Live on Twitch with Sarah Mertens",
+"href": "https://www.citizensforsarahmertens.com/events/live-on-twitch-with-sarah-mertens-1"
+},
+{
+"text": "[image: Citizens for Sarah Mertens]",
+"href": "https://www.citizensforsarahmertens.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sarahmertensforil.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583609271188&sk=about"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Sarah.Mertens.for.IL.Senate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@citizens.for.sarah"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitch.tv/sarahmertens4il"
+},
+{
+"text": "https://secure.actblue.com/donate/sweetsandtreats",
+"href": "https://secure.actblue.com/donate/sweetsandtreats"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov/"
+}
 ]

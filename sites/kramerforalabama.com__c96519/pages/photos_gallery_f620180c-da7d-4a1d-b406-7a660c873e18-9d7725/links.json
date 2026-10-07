@@ -1,17 +1,62 @@
 [
-"https://campaignpartner.com/",
-"https://i.campaignpartner.net/images/cdn_queue/151890/16fd7bf709b14544aa462555ff23c2da.jpeg",
-"https://i.campaignpartner.net/images/cdn_queue/151890/3b725ae09fb64aee8694b976e62f9f4c.jpeg",
-"https://i.campaignpartner.net/images/cdn_queue/151890/5a7cf02a55264dffb00f627055e7e7aa.jpeg",
-"https://kramerforalabama.com/",
-"https://kramerforalabama.com/contact",
-"https://kramerforalabama.com/contribute",
-"https://kramerforalabama.com/events",
-"https://kramerforalabama.com/home",
-"https://kramerforalabama.com/issues",
-"https://kramerforalabama.com/meet_katie",
-"https://kramerforalabama.com/photos",
-"https://kramerforalabama.com/volunteer",
-"https://kramerforalabama.com/vote",
-"https://kramerforalabama.com/yard-sign"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://kramerforalabama.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://kramerforalabama.com/contribute"
+},
+{
+"text": "Events",
+"href": "https://kramerforalabama.com/events"
+},
+{
+"text": "Home",
+"href": "https://kramerforalabama.com/home"
+},
+{
+"text": "Issues",
+"href": "https://kramerforalabama.com/issues"
+},
+{
+"text": "Meet Katie",
+"href": "https://kramerforalabama.com/meet_katie"
+},
+{
+"text": "Photos",
+"href": "https://kramerforalabama.com/photos"
+},
+{
+"text": "Volunteer",
+"href": "https://kramerforalabama.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://kramerforalabama.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://kramerforalabama.com/yard-sign"
+},
+{
+"text": "[image: Katie Kramer for Alabama State Senate District 8]",
+"href": "https://kramerforalabama.com/"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/151890/16fd7bf709b14544aa462555ff23c2da.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/151890/3b725ae09fb64aee8694b976e62f9f4c.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/151890/5a7cf02a55264dffb00f627055e7e7aa.jpeg"
+}
 ]

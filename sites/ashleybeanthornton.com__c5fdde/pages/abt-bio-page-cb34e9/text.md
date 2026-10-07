@@ -1,4 +1,4 @@
-Who is Ashley Bean Thornton?
+Skip to content Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Ashley Bean Thornton for Texas House District 56 ABT Bio Page Who is Ashley Bean Thornton?
 Teacher.
 Worker.
 Community Connector.
@@ -18,8 +18,7 @@ We can take a trip every now and then.
 We are living our American Dream.
 I am running for office because I believe we are all better off when that kind of good, secure life is within reach for more people.
 I believe great public schools, economic policies that support working families, and a commitment to working together make that more likely.
-Life and Career
-My dad was in the heavy construction business — roads and bridges, that kind of thing.
+Life and Career My dad was in the heavy construction business — roads and bridges, that kind of thing.
 My mom was a high school English teacher and librarian.
 We moved around a lot when I was little before finally settling in Baytown, Texas.
 My next stop was Baylor, where I met my husband, Craig.
@@ -29,15 +28,14 @@ Eventually, I took my teaching skills into the business world and became a corpo
 I helped develop computer-based training for companies such as Shell Oil and Delta Airlines.
 Along the way, I learned about all kinds of work — refinery safety, running a convenience store, customer service, leadership, and continuous process improvement.
 I learned that no matter the industry, helping people learn, grow, and work together matters.
-About 30 years ago, good friends and a church we loved brought us back to Waco.
+About #ago, good friends and a church we loved brought us back to Waco.
 We love it here.
 I worked at Baylor for 20 years doing training, strategic planning, and organizational development.
 After Baylor, I circled back to public education and worked for Transformation Waco helping start the afterschool program at J.H.
 Hines Elementary.
 I retired in 2023 around the same time my husband retired after a career as a high school math teacher.
 Across education, business, and community work, I have spent my career helping people solve problems, improve systems, and build stronger organizations.
-Community Involvement
-One of my great joys since moving to Waco has been getting involved in the community.
+Community Involvement One of my great joys since moving to Waco has been getting involved in the community.
 Over the years, I have served on the board of the Economic Opportunities Advancement Corporation (EOAC) and on the Waco Transit Advisory Board.
 I helped facilitate Leadership Plenty and a Leader’s Circle for the Waco Foundation.
 I also served as chair of the Poverty Solutions Steering Committee for the City of Waco.
@@ -53,3 +51,4 @@ In 2025, we hosted more than 20 non-partisan community conversations about issue
 I love serving this community.
 As someone who moved around a lot when I was younger, I treasure having a hometown.
 I am excited about the opportunity to serve our community in a new way — as your representative in the Texas House.
+Join the Campaign Donate Join the Newsletter Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Facebook Instagram Info@AshleyBeanThornton.com Political Advertising Paid for ABT for TEX 4300 W Waco Drive Suite 2B Box 193 • Waco, Texas 76710 © #-# Thornton for Texas Campaign Terms of Service | Privacy Policy | Disclaimer | Website by Digital Media Butterfly

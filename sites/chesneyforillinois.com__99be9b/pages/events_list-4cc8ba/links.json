@@ -1,25 +1,110 @@
 [
-"https://chesneyforillinois.com/",
-"https://chesneyforillinois.com/about_andrew",
-"https://chesneyforillinois.com/andrew-chesney-for-illinois-state-senator-of-the-45th-district-2",
-"https://chesneyforillinois.com/donate-andrew-chesney-for-illinois-state-senator-of-the-45th-district",
-"https://chesneyforillinois.com/endorsements-andrew-chesney-for-illinois-state-senator-of-the-45th-district",
-"https://chesneyforillinois.com/event/red-white-brews-with-senator-andrew-chesney",
-"https://chesneyforillinois.com/events",
-"https://chesneyforillinois.com/events/list",
-"https://chesneyforillinois.com/events/list?eventDisplay=past",
-"https://chesneyforillinois.com/events/list?ical=1",
-"https://chesneyforillinois.com/events/list?outlook-ical=1",
-"https://chesneyforillinois.com/events/month",
-"https://chesneyforillinois.com/events/today",
-"https://chesneyforillinois.com/issues",
-"https://chesneyforillinois.com/press-releases",
-"https://chesneyforillinois.com/volunteer-for-the-chesney-fo-illinois-campaign",
-"https://facebook.com/chesneyforillinois",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fchesneyforillinois.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/aschesney",
-"https://linkedin.com/in/andrew-chesney-785328185",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fchesneyforillinois.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Chesney+for+Illinois+Events+Archive+-+Chesney+for+Illinois",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fchesneyforillinois.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Chesney+for+Illinois+Events+Archive+-+Chesney+for+Illinois",
-"https://twitter.com/AndrewChesneyIL"
+{
+"text": "#ago",
+"href": "https://chesneyforillinois.com/events/list/"
+},
+{
+"text": "About Andrew",
+"href": "https://chesneyforillinois.com/about_andrew/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://chesneyforillinois.com/donate-andrew-chesney-for-illinois-state-senator-of-the-45th-district/"
+},
+{
+"text": "Day",
+"href": "https://chesneyforillinois.com/events/today/"
+},
+{
+"text": "District",
+"href": "https://chesneyforillinois.com/andrew-chesney-for-illinois-state-senator-of-the-45th-district-2/"
+},
+{
+"text": "Endorsements",
+"href": "https://chesneyforillinois.com/endorsements-andrew-chesney-for-illinois-state-senator-of-the-45th-district/"
+},
+{
+"text": "Events",
+"href": "https://chesneyforillinois.com/events"
+},
+{
+"text": "Export .ics file",
+"href": "https://chesneyforillinois.com/events/list/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://chesneyforillinois.com/events/list/?outlook-ical=1"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fchesneyforillinois.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Issues",
+"href": "https://chesneyforillinois.com/issues/"
+},
+{
+"text": "List",
+"href": "https://chesneyforillinois.com/events/list/"
+},
+{
+"text": "Month",
+"href": "https://chesneyforillinois.com/events/month/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fchesneyforillinois.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Chesney+for+Illinois+Events+Archive+-+Chesney+for+Illinois"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fchesneyforillinois.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Chesney+for+Illinois+Events+Archive+-+Chesney+for+Illinois"
+},
+{
+"text": "Press Releases",
+"href": "https://chesneyforillinois.com/press-releases/"
+},
+{
+"text": "Previous Events",
+"href": "https://chesneyforillinois.com/events/list/?eventDisplay=past"
+},
+{
+"text": "Red, White & Brews with Senator Andrew Chesney",
+"href": "https://chesneyforillinois.com/event/red-white-brews-with-senator-andrew-chesney/"
+},
+{
+"text": "Volunteer",
+"href": "https://chesneyforillinois.com/volunteer-for-the-chesney-fo-illinois-campaign/"
+},
+{
+"text": "[image]",
+"href": "https://chesneyforillinois.com"
+},
+{
+"text": "[image]",
+"href": "https://chesneyforillinois.com/"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://chesneyforillinois.com/events/list/?eventDisplay=past"
+},
+{
+"text": "iCalendar",
+"href": "webcal://chesneyforillinois.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+},
+{
+"text": "",
+"href": "https://facebook.com/chesneyforillinois"
+},
+{
+"text": "",
+"href": "https://www.instagram.com/aschesney"
+},
+{
+"text": "",
+"href": "https://www.linkedin.com/in/andrew-chesney-785328185"
+},
+{
+"text": "",
+"href": "https://twitter.com/AndrewChesneyIL"
+}
 ]

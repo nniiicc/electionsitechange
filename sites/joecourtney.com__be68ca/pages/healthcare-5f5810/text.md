@@ -1,7 +1,6 @@
-Every American deserves access to quality, timely, and affordable health care.
+Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact HEALTHCARE Ensuring Access to Quality and Affordable Health Care Every American deserves access to quality, timely, and affordable health care.
 That’s why Joe is fighting to lower costs, improve the quality of care, and support our health care workforce.
-Learn more about Joe’s work:
-Lowering premiums through the American Rescue Plan.
+Learn more about Joe’s work: Lowering premiums through the American Rescue Plan.
 One of the most important elements of the American Rescue Plan was lowering health care costs for Americans who purchase their insurance through AccessHealthCT.
 The American Rescue Plan lowered families’ health care premiums by thousands of dollars a year, putting millions of dollars back in Connecticut families’ pockets.
 Tackling prescription drug pricing.
@@ -19,3 +18,4 @@ Ensuring seniors get the Medicare coverage they deserve.
 Joe is fighting to ensure that seniors who need rehab care in a nursing home aren’t forced to pay thousands of dollars out of pocket for treatment that Medicare should provide.
 Repealed the so-called “Cadillac Tax.” When the ACA passed, it included a misguided tax on employer-provided health insurance, which would have raised costs for workers and their families.
 Joe led the charge to repeal this tax, working with a diverse coalition of labor advocates, employers, health care experts, and members from both parties, saving working families from huge increases in their health care costs.
+Courtney for Congress PO Box 1372 Vernon CT 06066 PH: (860) 885-4052 Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Paid for and Authorized by Joe Courtney for Congress

@@ -1,44 +1,186 @@
 [
-"https://bsky.app/profile/goftcer.bsky.social",
-"https://facebook.com/profile.php?id=61575900556515",
-"https://gabrielforcolorado.com/",
-"https://gabrielforcolorado.com/cart",
-"https://gabrielforcolorado.com/contact-connect",
-"https://gabrielforcolorado.com/endorsements-leaders",
-"https://gabrielforcolorado.com/event-media",
-"https://gabrielforcolorado.com/events",
-"https://gabrielforcolorado.com/issues",
-"https://gabrielforcolorado.com/media",
-"https://gabrielforcolorado.com/meet-gabriel",
-"https://gabrielforcolorado.com/new-dropdown",
-"https://gabrielforcolorado.com/organizations",
-"https://gabrielforcolorado.com/organizations/careforco",
-"https://gabrielforcolorado.com/organizations/cbtu",
-"https://gabrielforcolorado.com/organizations/cbwpa",
-"https://gabrielforcolorado.com/organizations/cea",
-"https://gabrielforcolorado.com/organizations/cfi",
-"https://gabrielforcolorado.com/organizations/circ",
-"https://gabrielforcolorado.com/organizations/cobalt-advocates",
-"https://gabrielforcolorado.com/organizations/coco",
-"https://gabrielforcolorado.com/organizations/color-af",
-"https://gabrielforcolorado.com/organizations/colorado-ceasefire-pac",
-"https://gabrielforcolorado.com/organizations/colorado-intertribal-policy-alliance",
-"https://gabrielforcolorado.com/organizations/colorado-muslim-vote",
-"https://gabrielforcolorado.com/organizations/cwa",
-"https://gabrielforcolorado.com/organizations/new-american-leaders-action-fund",
-"https://gabrielforcolorado.com/organizations/onecolorado",
-"https://gabrielforcolorado.com/organizations/ppv",
-"https://gabrielforcolorado.com/organizations/proanimal-colorado",
-"https://gabrielforcolorado.com/organizations/pvn",
-"https://gabrielforcolorado.com/organizations/securepera",
-"https://gabrielforcolorado.com/organizations/teamsters455",
-"https://gabrielforcolorado.com/organizations/ufcw-local-7",
-"https://gabrielforcolorado.com/organizations/wfp",
-"https://gabrielforcolorado.com/organizations/yellowscene-magazine",
-"https://gabrielforcolorado.com/our-team",
-"https://gabrielforcolorado.com/press-releases",
-"https://instagram.com/goft_cer?igsh=MWljbzIwNG1mZ2I1NQ%3D%3D",
-"https://secure.actblue.com/donate/gc4co",
-"https://threads.net/@goft_cer",
-"https://x.com/goft_cer?t=LrR0b0KFxmbo50SOcBXxXA&s=09"
+{
+"text": "0",
+"href": "https://www.gabrielforcolorado.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.gabrielforcolorado.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/gc4co"
+},
+{
+"text": "Donate💵",
+"href": "https://secure.actblue.com/donate/gc4co"
+},
+{
+"text": "Event Media",
+"href": "https://www.gabrielforcolorado.com/event-media"
+},
+{
+"text": "Events 🗓️",
+"href": "https://www.gabrielforcolorado.com/events"
+},
+{
+"text": "Folder: Endorsements 📣",
+"href": "https://www.gabrielforcolorado.com/new-dropdown"
+},
+{
+"text": "Folder: Media 📷",
+"href": "https://www.gabrielforcolorado.com/media"
+},
+{
+"text": "Issues ✊",
+"href": "https://www.gabrielforcolorado.com/issues"
+},
+{
+"text": "Join us 🫂 | Reach out 📞",
+"href": "https://www.gabrielforcolorado.com/contact-connect"
+},
+{
+"text": "Leaders",
+"href": "https://www.gabrielforcolorado.com/endorsements-leaders"
+},
+{
+"text": "Meet Gabriel 🤝",
+"href": "https://www.gabrielforcolorado.com/meet-gabriel"
+},
+{
+"text": "Organizations",
+"href": "https://www.gabrielforcolorado.com/organizations"
+},
+{
+"text": "Our Team",
+"href": "https://www.gabrielforcolorado.com/our-team"
+},
+{
+"text": "Press Releases",
+"href": "https://www.gabrielforcolorado.com/press-releases"
+},
+{
+"text": "[image: CBTU] CBTU",
+"href": "https://www.gabrielforcolorado.com/organizations/cbtu"
+},
+{
+"text": "[image: CBWPA] CBWPA",
+"href": "https://www.gabrielforcolorado.com/organizations/cbwpa"
+},
+{
+"text": "[image: CFI Action Fund] CFI Action Fund",
+"href": "https://www.gabrielforcolorado.com/organizations/cfi"
+},
+{
+"text": "[image: CIRC Action Fund] CIRC Action Fund",
+"href": "https://www.gabrielforcolorado.com/organizations/circ"
+},
+{
+"text": "[image: COLOR Action-Fund] COLOR Action-Fund",
+"href": "https://www.gabrielforcolorado.com/organizations/color-af"
+},
+{
+"text": "[image: CWA] CWA",
+"href": "https://www.gabrielforcolorado.com/organizations/cwa"
+},
+{
+"text": "[image: Care for CO] Care for CO",
+"href": "https://www.gabrielforcolorado.com/organizations/careforco"
+},
+{
+"text": "[image: Cobalt Advocates] Cobalt Advocates",
+"href": "https://www.gabrielforcolorado.com/organizations/cobalt-advocates"
+},
+{
+"text": "[image: Colorado Ceasefire PAC] Colorado Ceasefire PAC",
+"href": "https://www.gabrielforcolorado.com/organizations/colorado-ceasefire-pac"
+},
+{
+"text": "[image: Colorado Education Association] Colorado Education Association",
+"href": "https://www.gabrielforcolorado.com/organizations/cea"
+},
+{
+"text": "[image: Colorado Intertribal Policy Alliance] Colorado Intertribal Policy Alliance",
+"href": "https://www.gabrielforcolorado.com/organizations/colorado-intertribal-policy-alliance"
+},
+{
+"text": "[image: Colorado Muslim Vote] Colorado Muslim Vote",
+"href": "https://www.gabrielforcolorado.com/organizations/colorado-muslim-vote"
+},
+{
+"text": "[image: Colorado Working Families Party] Colorado Working Families Party",
+"href": "https://www.gabrielforcolorado.com/organizations/wfp"
+},
+{
+"text": "[image: Conservation Colorado] Conservation Colorado",
+"href": "https://www.gabrielforcolorado.com/organizations/coco"
+},
+{
+"text": "[image: NASW, Colorado Chapter PACE] NASW, Colorado Chapter PACE",
+"href": "https://www.gabrielforcolorado.com/organizations/nasw-pace"
+},
+{
+"text": "[image: New American Leaders Action Fund] New American Leaders Action Fund",
+"href": "https://www.gabrielforcolorado.com/organizations/new-american-leaders-action-fund"
+},
+{
+"text": "[image: One Colorado] One Colorado",
+"href": "https://www.gabrielforcolorado.com/organizations/onecolorado"
+},
+{
+"text": "[image: Planned Parenthood Votes Colorado] Planned Parenthood Votes Colorado",
+"href": "https://www.gabrielforcolorado.com/organizations/ppv"
+},
+{
+"text": "[image: Pro-Animal Colorado] Pro-Animal Colorado",
+"href": "https://www.gabrielforcolorado.com/organizations/proanimal-colorado"
+},
+{
+"text": "[image: Progressive Voters Network] Progressive Voters Network",
+"href": "https://www.gabrielforcolorado.com/organizations/pvn"
+},
+{
+"text": "[image: Secure PERA] Secure PERA",
+"href": "https://www.gabrielforcolorado.com/organizations/securepera"
+},
+{
+"text": "[image: Teamsters Local 455] Teamsters Local 455",
+"href": "https://www.gabrielforcolorado.com/organizations/teamsters455"
+},
+{
+"text": "[image: The American People's Compact] The American People's Compact",
+"href": "https://www.gabrielforcolorado.com/organizations/apc"
+},
+{
+"text": "[image: UFCW Local 7] UFCW Local 7",
+"href": "https://www.gabrielforcolorado.com/organizations/ufcw-local-7"
+},
+{
+"text": "[image: YellowScene Magazine] YellowScene Magazine",
+"href": "https://www.gabrielforcolorado.com/organizations/yellowscene-magazine"
+},
+{
+"text": "[image: gabrielforcolorado]",
+"href": "https://www.gabrielforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/goftcer.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575900556515"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/goft_cer?igsh=MWljbzIwNG1mZ2I1NQ%3D%3D"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@goft_cer"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/goft_cer?t=LrR0b0KFxmbo50SOcBXxXA&s=09"
+}
 ]

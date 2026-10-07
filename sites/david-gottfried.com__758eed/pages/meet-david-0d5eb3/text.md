@@ -1,5 +1,4 @@
-Meet David
-I am a union member, a community organizer, and a Minnesota State Representative.
+0 Skip to Content About Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Open Menu Close Menu About Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Open Menu Close Menu Folder: About Back Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Meet David I am a union member, a community organizer, and a Minnesota State Representative.
 Minnesotans believe that hard work should leave to a good life.
 Record prices and record profits point to one thing: billionaires and powerful people rigged the system and pitted us against each other while they robbed us blind.
 We have been tricked into thinking those that believe, pray, or live differently than us are to blame for our hardships.
@@ -13,6 +12,5 @@ For too long, we have let injustice thrive for the sake of our comfort and, in d
 Together, we will unrig the broken system, hold fraudsters accountable, and restore the promise stolen from us: that hard work will be rewarded with a fulfilling life.
 It will be a long, hard battle.
 But I’m honored to fight it alongside you.
-In solidarity,
-Rep.
-David Gottfried
+In solidarity, Rep.
+David Gottfried Prepared and paid for by Neighbors for David Gottfried | 2000 County Rd B2 W #130811, Roseville, MN 55113 | ‪(612) 314-3484‬

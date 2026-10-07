@@ -1,8 +1,7 @@
-Terms of Service
-Mobile Messaging Program Consent
-Third-Party Services.
+Home About Platform Accomplishments Media Radio Scripts Endorsements Volunteer Donate Terms of Service Mobile Messaging Program Consent Third-Party Services.
 Text opt-in consent data will not be sold or shared with third parties for promotional or marketing purposes.
 Except as otherwise stated in this Privacy Policy, we don’t sell, trade, rent, or otherwise share for marketing purposes your Personal Information with third parties without your consent.
 Our website may contain links to third-party websites or services.
 We are not responsible for the privacy practices or content of such third parties.
 We encourage you to review the privacy policies of those third parties when accessing their websites or services.
+SMS Opt-in Privacy Policy Terms of Service Follow Follow Prepared and Paid for by Dornink for Minnesota State Senate Committee, District 23 , PO Box 111 Albert Lea, MN 56007

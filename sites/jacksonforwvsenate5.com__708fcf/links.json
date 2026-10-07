@@ -1,13 +1,90 @@
 [
-"http://facebook.com/",
-"http://instagram.com/",
-"http://linkedin.com/",
-"http://tiktok.com/",
-"http://x.com/",
-"http://youtube.com/",
-"https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace",
-"https://jacksonforwvsenate5.com/",
-"https://jacksonforwvsenate5.com/event-list",
-"https://secure.actblue.com/donate/duron-jackson-1",
-"https://sos.wv.gov/elections/Pages/AbsenteeVotingInformation.aspx"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/duron-jackson-1"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/duron-jackson-1"
+},
+{
+"text": "$26",
+"href": "https://secure.actblue.com/donate/duron-jackson-1"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/duron-jackson-1"
+},
+{
+"text": "Am I Registered?",
+"href": "https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/duron-jackson-1"
+},
+{
+"text": "DONATE TODAY!",
+"href": "https://secure.actblue.com/donate/duron-jackson-1"
+},
+{
+"text": "Events",
+"href": "https://www.jacksonforwvsenate5.com/event-list"
+},
+{
+"text": "Find My Polling Place",
+"href": "https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace"
+},
+{
+"text": "Home",
+"href": "https://www.jacksonforwvsenate5.com"
+},
+{
+"text": "NOT REGISTERED? CHECK YOUR VOTER STATUS • GENERAL ELECTION 2026",
+"href": "https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/duron-jackson-1"
+},
+{
+"text": "Request a Ballot",
+"href": "https://sos.wv.gov/elections/Pages/AbsenteeVotingInformation.aspx"
+},
+{
+"text": "SUPPORT OUR CAMPAIGN",
+"href": "https://secure.actblue.com/donate/duron-jackson-1"
+},
+{
+"text": "[image: DuRon-Jackson-for-WV-Senate-District-5-logo]",
+"href": "https://www.jacksonforwvsenate5.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/duron-jackson-1"
+}
 ]

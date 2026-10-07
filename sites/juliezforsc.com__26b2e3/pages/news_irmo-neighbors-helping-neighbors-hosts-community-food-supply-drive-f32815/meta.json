@@ -1,7 +1,9 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.juliezforsc.com/news/irmo-neighbors-helping-neighbors-hosts-community-food-supply-drive",
- "paid_for_by": "Paid for by the Julie Z for SC campaign",
+ "fingerprint": "8a68635700442b5051a8ce955079b99bf55c613f",
+ "format": 3,
+ "paid_for_by": "Paid for by the Julie Z for SC campaign You need to enable JavaScript to run this app",
  "title": "Irmo Neighbors Helping Neighbors Hosts Community Food & Supply Drive",
  "years_mentioned": [
   "2026"

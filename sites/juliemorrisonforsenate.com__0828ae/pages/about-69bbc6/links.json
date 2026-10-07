@@ -1,12 +1,50 @@
 [
-"https://facebook.com/JulieForSenate",
-"https://juliemorrisonforsenate.com/",
-"https://juliemorrisonforsenate.com/about",
-"https://juliemorrisonforsenate.com/contact",
-"https://juliemorrisonforsenate.com/endorsements",
-"https://juliemorrisonforsenate.com/issues",
-"https://juliemorrisonforsenate.com/news",
-"https://juliemorrisonforsenate.com/privacy-policy",
-"https://juliemorrisonforsenate.com/voter-resources",
-"https://secure.actblue.com/donate/julie-morrison-for-state-senate-1"
+{
+"text": "About",
+"href": "https://juliemorrisonforsenate.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://juliemorrisonforsenate.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/julie-morrison-for-state-senate-1"
+},
+{
+"text": "Endorsements",
+"href": "https://juliemorrisonforsenate.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JulieForSenate"
+},
+{
+"text": "Home",
+"href": "https://juliemorrisonforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://juliemorrisonforsenate.com/issues/"
+},
+{
+"text": "News",
+"href": "https://juliemorrisonforsenate.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://juliemorrisonforsenate.com/privacy-policy/"
+},
+{
+"text": "Send a Message",
+"href": "https://juliemorrisonforsenate.com/contact/"
+},
+{
+"text": "Voter Resources",
+"href": "https://juliemorrisonforsenate.com/voter-resources/"
+},
+{
+"text": "[image]",
+"href": "https://juliemorrisonforsenate.com"
+}
 ]

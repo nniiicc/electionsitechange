@@ -1,12 +1,6 @@
-Jeff Wadlin Announces Campaign Launch to Represent Arkansas in the U.S.
-Senate
-Jeff Wadlin Announces Arkansas Campaign Launch
-Annette Magnus-Marquart
-Annette Magnus-Marquart
-Jeff Wadlin
-Jeff Wadlin
-Media Availability
-Peter Brown
-Peter Brown
-Launching the Campaign
-It All Begins Here
+0 Skip to Content About Issues In the News Volunteer Events Shop Merch Contact DONATE Open Menu Close Menu About Issues In the News Volunteer Events Shop Merch Contact DONATE Open Menu Close Menu About Issues In the News Volunteer Events Shop Merch Contact DONATE Annette Magnus-Marquart 8/24/26 Annette Magnus-Marquart 8/24/26 Jeff Wadlin Continues Statewide "New Revolution Tour" Across Southeast Arkansas; Details ForWeek 4 Schedule Read More Annette Magnus-Marquart 8/20/26 Annette Magnus-Marquart 8/20/26 CANDIDATE JEFF WADLIN INCLUDED IN UPCOMING U.S.
+SENATE DEBATES Read More Annette Magnus-Marquart 8/17/26 Annette Magnus-Marquart 8/17/26 NEW REVOLUTION TOUR: U.S.
+Senate Candidate Jeff Wadlin Heads into Week 3 of Statewide Campaign Tour Read More Annette Magnus-Marquart 8/11/26 Annette Magnus-Marquart 8/11/26 Libertarian U.S.
+Senate Candidate Jeff Wadlin Continues Statewide Tour Stops August 11–16 Read More Annette Magnus-Marquart 8/4/26 Annette Magnus-Marquart 8/4/26 Jeff Wadlin Kicks Off Statewide Campaign Tour Across Arkansas Read More Jeff Wadlin 7/13/26 Jeff Wadlin 7/13/26 Arkansas US Senate Candidate Jeff Wadlin Launches Introductory Campaign Ad: “Arkansas Versus D.C.” Read More Jeff Wadlin 6/18/26 Jeff Wadlin 6/18/26 Jeff Wadlin to Attend Eureka Springs Chamber Event Tonight, Announces Press Availability During Summer Outreach Events Media Availability Read More Jeff Wadlin 5/19/26 Jeff Wadlin 5/19/26 Jeff Wadlin Announces Campaign Launch to Represent Arkansas in the U.S.
+Senate Jeff Wadlin Announces Arkansas Campaign Launch Read More Peter Brown 4/30/26 Peter Brown 4/30/26 Libertarian Senate Candidate Jeff Wadlin Announces Statewide Tour Launching the Campaign Read More Peter Brown 2/18/26 Peter Brown 2/18/26 Libertarian Party Nominates Jeff Wadlin for Arkansas U.S.
+Senate It All Begins Here Read More Jeff Wadlin for Arkansas ALL RIGHTS RESERVED PAID FOR AND AUTHORIZED BY WADLIN FOR SENATE 2026 Privacy Policy Terms of Service Wadlin for US Senate Bentonville, AR 72712 479.370.5710 info@jeffwadlin.com

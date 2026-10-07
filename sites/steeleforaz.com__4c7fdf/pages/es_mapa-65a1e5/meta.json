@@ -1,7 +1,9 @@
 {
- "description": "Consulta el mapa del Distrito Legislativo 24 de Arizona y los l\u00edmites del distrito de la candidatura de Frank Steele.",
+ "description": "Consulta el mapa del Distrito Legislativo 24 de Arizona y los límites del distrito de la candidatura de Frank Steele.",
  "final_url": "https://steeleforaz.com/es/mapa/",
- "paid_for_by": null,
+ "fingerprint": "ef9d12af505065714100414dd5adbbe325d4fb72",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mapa de LD24, Arizona | Frank Steele",
  "years_mentioned": []
 }

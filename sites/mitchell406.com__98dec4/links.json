@@ -1,14 +1,58 @@
 [
-"https://facebook.com/SlingshotCreativeGroup",
-"https://instagram.com/margaret_mitchell406",
-"https://linkedin.com/in/margaretcmitchell",
-"https://mitchell406.com/",
-"https://mitchell406.com/about",
-"https://mitchell406.com/contact",
-"https://mitchell406.com/events",
-"https://mitchell406.com/gallery",
-"https://mitchell406.com/voting-information-for-cascade-county",
-"https://mitchell406.printify.me/",
-"https://mol.vtc.mybluehost.me/contact",
-"https://secure.actblue.com/donate/mitchell406"
+{
+"text": "About",
+"href": "https://mitchell406.com/about/"
+},
+{
+"text": "CONTRIBUTE NOW!",
+"href": "https://secure.actblue.com/donate/mitchell406"
+},
+{
+"text": "CONTRIBUTE!",
+"href": "https://secure.actblue.com/donate/mitchell406"
+},
+{
+"text": "Contact",
+"href": "https://mitchell406.com/contact/"
+},
+{
+"text": "DONATE NOW!",
+"href": "https://secure.actblue.com/donate/mitchell406"
+},
+{
+"text": "Events",
+"href": "https://mitchell406.com/events/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://mol.vtc.mybluehost.me/contact/#Involved"
+},
+{
+"text": "Gallery",
+"href": "https://mitchell406.com/gallery/"
+},
+{
+"text": "SWAG!",
+"href": "https://mitchell406.printify.me/"
+},
+{
+"text": "Slingshot Creative Group",
+"href": "https://www.facebook.com/SlingshotCreativeGroup"
+},
+{
+"text": "Voting Info",
+"href": "https://mitchell406.com/voting-information-for-cascade-county/"
+},
+{
+"text": "[image] [image] [image]",
+"href": "https://mitchell406.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/margaret_mitchell406/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/margaretcmitchell/"
+}
 ]

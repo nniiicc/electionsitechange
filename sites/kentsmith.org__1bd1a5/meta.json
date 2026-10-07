@@ -1,7 +1,12 @@
 {
  "description": "Kent Smith is running for Ohio State Senate.",
  "final_url": "https://www.kentsmith.org/",
+ "fingerprint": "1597e61bcf509e8f1a91b2bdc96da39c67ad1b9b",
+ "format": 3,
  "paid_for_by": "PAID FOR BY KENT SMITH COMMITTEE SendKentBackToColumbus@gmail",
  "title": "Kent Smith | Ohio State Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2026"
+ ]
 }

@@ -1,8 +1,34 @@
 [
-"https://donniefornc.com/",
-"https://donniefornc.com/?page_id=5",
-"https://donniefornc.com/?page_id=6",
-"https://donniefornc.com/meet-donnie",
-"https://donniefornc.com/sitemap.xml",
-"https://secure.anedot.com/f8a7ac3e-24e0-4861-a5ae-92d1ac78cd2c/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/f8a7ac3e-24e0-4861-a5ae-92d1ac78cd2c/donate"
+},
+{
+"text": "Donnie Loftis for NC House",
+"href": "https://donniefornc.com/"
+},
+{
+"text": "Home",
+"href": "https://donniefornc.com/"
+},
+{
+"text": "Issues",
+"href": "https://donniefornc.com/?page_id=6"
+},
+{
+"text": "Meet Donnie",
+"href": "https://donniefornc.com/?page_id=5"
+},
+{
+"text": "Meet Donnie",
+"href": "https://donniefornc.com/meet-donnie"
+},
+{
+"text": "[image: Donnie Loftis for NC House]",
+"href": "https://donniefornc.com/"
+},
+{
+"text": "sitemap",
+"href": "https://donniefornc.com/sitemap.xml"
+}
 ]

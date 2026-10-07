@@ -1,23 +1,25 @@
-By LANCE REYNOLDS | lreynolds@bostonherald.com
-PUBLISHED: March 5, 2026 at 7:16 PM EST | UPDATED: March 6, 2026 at 10:28 AM EST
-Massachusetts Democrat Stephen Lynch wants no part of ICE at the World Cup, saying local and state law enforcement agencies are ready to secure the world’s largest sporting event themselves.
-“Given that the Trump Administration has still not agreed to commonsense reforms to maximize community safety,” the South Boston Congressman stated in a social media post on Thursday, “it is clear that ICE should not serve as a ‘key part’ of security for the 2026 World Cup in Boston.”
-Lynch is pointing to how Minnesota Gov.
+Meet Stephen Our Priorities News & Updates Join the Team Donate Select Page ICE at the World Cup?
+Massachusetts congressman seeks advice from Minnesota Gov.
+Walz Mar 5, 2026 | 8th Congressional District , News & Updates By LANCE REYNOLDS | lreynolds@bostonherald.com PUBLISHED: March 5, 2026 at 7:16 PM EST | UPDATED: March 6, 2026 at 10:28 AM EST Massachusetts Democrat Stephen Lynch wants no part of ICE at the World Cup, saying local and state law enforcement agencies are ready to secure the world’s largest sporting event themselves.
+“Given that the Trump Administration has still not agreed to commonsense reforms to maximize community safety,” the South Boston Congressman stated in a social media post on Thursday, “it is clear that ICE should not serve as a ‘key part’ of security for the 2026 World Cup in Boston.” Lynch is pointing to how Minnesota Gov.
 Tim Walz has “agreed” that Massachusetts and Boston should take the “lead” in preparing safety and security measures for the World Cup, slated to be held at Gillette Stadium in Foxboro, roughly 30 miles south of the city.
 During a Congressional hearing on Minnesota fraud, Lynch asked Walz to share insight into what the Bay State should expect from ICE during the World Cup frenzy.
 Minnesota has dominated ICE-related headlines over the past few months during a high-profile crackdown on illegal immigration that targeted sanctuary city policies, in response to fraud allegations involving Somali residents.
 “What ICE did disrupted everything that we were doing,” Walz told Lynch.
-“And it forced our law enforcement agencies, who have worked hard to gain the public trust, to have the public believe in them.”
-“So my advice to you, and especially when the world’s coming to see this,” the governor added, “let Boston’s finest lead.
-Let the people of Massachusetts lead. … The world should be looking forward to coming.”
-This comes as the town of Foxboro remains at a standstill over security funding with Boston World Cup organizers, despite assurances from the Boston 2026 host committee that it will cover all upfront costs.
+“And it forced our law enforcement agencies, who have worked hard to gain the public trust, to have the public believe in them.” “So my advice to you, and especially when the world’s coming to see this,” the governor added, “let Boston’s finest lead.
+Let the people of Massachusetts lead. … The world should be looking forward to coming.” This comes as the town of Foxboro remains at a standstill over security funding with Boston World Cup organizers, despite assurances from the Boston 2026 host committee that it will cover all upfront costs.
 Boston 2026 sent a letter to the Foxboro Select Board on Thursday, referencing a funding commitment from Gillette Stadium.
 Significantly, Todd Lyons has said that ICE plans to have a presence at the World Cup this summer.
 But the agency’s acting director has made it clear that ICE’s Homeland Security Investigations arm will be deployed, not Enforcement and Removal Operations.
 HSI oversees all criminal investigations related to human trafficking and is present at events, like the Olympics and the Super Bowl.
 “ICE, specifically Homeland Security Investigations, is a key part of the overall security apparatus for the World Cup,” Lyons said last month.
-“We’re dedicated to securing that operation, and we’re dedicated to the security of all of our participants as well as our visitors.”
-But Lynch remains focused on the enforcement and removal operations component of ICE, highlighting how the Bay State is set to host Morocco, Ghana, Bolivia, Iraq, Scotland, France, England and Suriname during the global tournament.
+“We’re dedicated to securing that operation, and we’re dedicated to the security of all of our participants as well as our visitors.” But Lynch remains focused on the enforcement and removal operations component of ICE, highlighting how the Bay State is set to host Morocco, Ghana, Bolivia, Iraq, Scotland, France, England and Suriname during the global tournament.
 Gillette, set to be rebranded as Boston Stadium, is slated to host five group stage matches and two knockout games between June 13 and July 9.
 The World Cup is considered a SEAR 1 event, the highest risk level for public gatherings in the country.
-“With our City expected to welcome more than 3 million international visitors,” the congressman added in a social media post on Thursday, “our professional state and local law enforcement agencies are well-equipped and trained to lead the way on security for this historic event.”
+“With our City expected to welcome more than 3 million international visitors,” the congressman added in a social media post on Thursday, “our professional state and local law enforcement agencies are well-equipped and trained to lead the way on security for this historic event.” ICE at the World Cup?
+Massachusetts congressman seeks advice from Minnesota Gov.
+Walz Share this: Share on Facebook (Opens in new window) Facebook Share on X (Opens in new window) X Search for: Recent Posts Rep.
+Lynch Concerns: Medicaid Cuts, Strain On Hospitals ‘Let’s protect folks’: Rep.
+Lynch urges Congress to invalidate Trump’s mail-in ballot order Congressman Lynch questions U.S. gains in Iran conflict ICE at the World Cup?
+Massachusetts congressman seeks advice from Minnesota Gov.
+Walz Legislators Advocate for State Takeover of Norwood Hospital and Potential Reopening as a Not-For-Profit Hospital Recent Comments Archives June 2026 May 2026 April 2026 March 2026 February 2026 December 2025 October 2025 September 2025 June 2025 May 2025 February 2025 August 2024 May 2024 February 2024 January 2024 December 2023 November 2023 September 2023 March 2023 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 October 2019 September 2019 August 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 September 2018 April 2018 Categories 8th Congressional District Advancing Equality Affordable Healthcare Combatting Addiction Common Sense Gun Laws COVID-19 Essential Infrastructure Financial Security Investing in Education Jobs & Economic Opportunity National Security News & Updates Protecting Our Environment Protecting the Post Office Supporting Our Seniors Uncategorized Veterans Meta Log in Entries feed Comments feed WordPress.org Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow

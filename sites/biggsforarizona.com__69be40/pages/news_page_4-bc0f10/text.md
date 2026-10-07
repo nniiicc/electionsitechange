@@ -1,39 +1,18 @@
-In the NEws
-Andy Biggs and Sine Kerr Headline Campaign Rally in Goodyear Tonight
-July 31, 2026 - Press Release
-Lt.
+Skip to main content Skip to footer Opens in a new tab Donate → Home Meet Andy Meet Sine Endorsements News Action Center Issues Media Kit Donate Online Donate By Mail Store Donate Donate By Mail Store In the NEws Filter - Checkbox Press Release News Media Andy Biggs and Sine Kerr To Headline Campaign Rally in Tucson on Friday August 5, 2026 - Press Release Biggs returns to hometown for 1st General Election rally in Pima County GILBERT, AZ—The Biggs for Arizona campaign is hosting...
+Read More → Former Arizona Governor Doug Ducey Endorses Andy Biggs for Governor August 4, 2026 - News Successful two-term governor calls on all Arizonans to unite behind Biggs and the Republican ticket GILBERT, AZ— Former Arizona Governor...
+Read More → Media Roundup: Sine Kerr is a “Home Run” Lt.
+Gov. pick for Andy Biggs August 3, 2026 - Press Release Biggs and Kerr hit the ground running with media appearances and a major rally in Goodyear to launch their ticket...
+Read More → Andy Biggs and Sine Kerr Headline Campaign Rally in Goodyear Tonight July 31, 2026 - Press Release Lt.
 Governor nominee takes the stage for the first time in former State Senate district GILBERT, AZ—The Biggs for Arizona...
-Read More →
-Andy Biggs Selects Sine Kerr as GOP Nominee for Lt.
-Governor
-July 31, 2026 - Press Release
-Buckeye dairy farmer of over 40 years and former Senate Majority Whip brings legislative experience and rural perspective to ticket...
-Read More →
-Biggs for Arizona Releases New Ad: “Her Donors”
-July 28, 2026 - News
-New :30 ad will be streamed directly to Arizona voters, highlights Katie Hobbs’ taxpayer-funded raise to six-figure political donors GILBERT,...
-Read More →
-ICYMI: Biggs for Arizona Hosting Rally in Goodyear on Friday, July 31st
-July 27, 2026 - Press Release
-West Valley turnout will be critical as Biggs faces Katie Hobbs, who remains under criminal investigation for an alleged pay-to-play...
-Read More →
-Biggs for Arizona Hosting Rally in Goodyear on Friday, July 31st
-July 26, 2026 - Press Release
-West Valley turnout will be critical as Biggs faces Katie Hobbs, who remains under criminal investigation for an alleged pay-to-play...
-Read More →
-Andy Biggs Endorsed by Former Arizona Governor Jan Brewer
-July 23, 2026 - Media
-Biggs continues to solidify support after historic primary victory, picks up nod from well-respected former Governor GILBERT, AZ—Andy Biggs, the...
-Read More →
-ICYMI: Andy Biggs Wins the Arizona Republican Gubernatorial Nomination
-July 22, 2026 - Press Release
-Biggs advances to the General Election to face Katie Hobbs, the only Governor in America currently under criminal investigation GILBERT,...
-Read More →
-Biggs for Arizona Campaign Releases Election Day Memo
-July 21, 2026 - Press Release
-GILBERT, AZ—The Biggs for Arizona campaign released an Election Day Memo to provide supporters and interested parties with context for...
-Read More →
-Biggs for Arizona Hosting Election Night Watch Party in Scottsdale
-July 20, 2026 - Press Release
-Supporters of the campaign are encouraged to join and watch results come in from across Arizona GILBERT, AZ—The Biggs for...
-Read More →
+Read More → Andy Biggs Selects Sine Kerr as GOP Nominee for Lt.
+Governor July 31, 2026 - Press Release Buckeye dairy farmer of over 40 years and former Senate Majority Whip brings legislative experience and rural perspective to ticket...
+Read More → Biggs for Arizona Releases New Ad: “Her Donors” July 28, 2026 - News New :30 ad will be streamed directly to Arizona voters, highlights Katie Hobbs’ taxpayer-funded raise to six-figure political donors GILBERT,...
+Read More → ICYMI: Biggs for Arizona Hosting Rally in Goodyear on Friday, July 31st July 27, 2026 - Press Release West Valley turnout will be critical as Biggs faces Katie Hobbs, who remains under criminal investigation for an alleged pay-to-play...
+Read More → Biggs for Arizona Hosting Rally in Goodyear on Friday, July 31st July 26, 2026 - Press Release West Valley turnout will be critical as Biggs faces Katie Hobbs, who remains under criminal investigation for an alleged pay-to-play...
+Read More → Andy Biggs Endorsed by Former Arizona Governor Jan Brewer July 23, 2026 - Media Biggs continues to solidify support after historic primary victory, picks up nod from well-respected former Governor GILBERT, AZ—Andy Biggs, the...
+Read More → ← 1 2 3 4 5 6 … 15 → Support Andy Biggs Contribute to a better future for Arizona $5 $15 $25 $50 $100 Other Home Meet Andy Meet Sine Endorsements News Action Center Issues Media Kit Donate Online Donate By Mail Store Paid for & authorized by Biggs for Arizona By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy Terms & Conditions

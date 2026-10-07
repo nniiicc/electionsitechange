@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://patdixon.org/about-greg-abbott/",
- "paid_for_by": null,
+ "fingerprint": "092aff749997836dff9e766729081366c1f60e89",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Greg Abbott",
- "years_mentioned": []
+ "years_mentioned": [
+  "2015",
+  "2026"
+ ]
 }

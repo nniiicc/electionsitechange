@@ -1,10 +1,42 @@
 [
-"https://electmikeyin.com/contact.html",
-"https://electmikeyin.com/index.html",
-"https://electmikeyin.com/issues.html",
-"https://electmikeyin.com/voter-info.html",
-"https://facebook.com/mikeyinhd16",
-"https://instagram.com/mikeyinforwy",
-"https://secure.actblue.com/donate/mikeyin",
-"https://twitter.com/itsmikeyin"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mikeyin"
+},
+{
+"text": "Mike Yin for HD-16",
+"href": "https://electmikeyin.com/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/itsmikeyin"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mikeyinhd16"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mikeyinforwy/"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/itsmikeyin"
+},
+{
+"text": " Contact",
+"href": "https://electmikeyin.com/contact.html"
+},
+{
+"text": " Voter Info",
+"href": "https://electmikeyin.com/voter-info.html"
+},
+{
+"text": " Endorsements",
+"href": "https://electmikeyin.com/index.html#2026-endorsements"
+},
+{
+"text": " Issues",
+"href": "https://electmikeyin.com/issues.html"
+}
 ]

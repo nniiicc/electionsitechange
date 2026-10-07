@@ -1,10 +1,50 @@
 [
-"https://facebook.com/abbottforflorida",
-"https://instagram.com/shaneabbottfl?hl=en",
-"https://leg.colorado.gov/bills/sb21-190",
-"https://oag.ca.gov/privacy/ccpa",
-"https://secure.winred.com/shane-abbott-campaign/support-shane",
-"https://voteshaneabbott.com/",
-"https://voteshaneabbott.com/meet-shane",
-"https://x.com/ShaneAbbottFL"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/shane-abbott-campaign/support-shane"
+},
+{
+"text": "Home",
+"href": "https://www.voteshaneabbott.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteshaneabbott.com/#issues"
+},
+{
+"text": "Meet Shane",
+"href": "https://www.voteshaneabbott.com/meet-shane"
+},
+{
+"text": "News",
+"href": "https://www.voteshaneabbott.com/#news"
+},
+{
+"text": "[image: Shane Abbott for State Representative]",
+"href": "https://www.voteshaneabbott.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/abbottforflorida"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/shaneabbottfl/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ShaneAbbottFL"
+},
+{
+"text": "https://leg.colorado.gov/bills/sb21-190",
+"href": "https://leg.colorado.gov/bills/sb21-190"
+},
+{
+"text": "https://oag.ca.gov/privacy/ccpa",
+"href": "https://oag.ca.gov/privacy/ccpa"
+},
+{
+"text": "info@voteshaneabbott.com",
+"href": "mailto:info@voteshaneabbott.com"
+}
 ]

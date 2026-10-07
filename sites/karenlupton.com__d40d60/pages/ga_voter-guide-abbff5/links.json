@@ -1,19 +1,86 @@
 [
-"http://bentoncreative.com/",
-"https://dekalbcountyga.gov/voter-registration-elections/absentee-information",
-"https://dekalbcountyga.gov/voter-registration-elections/early-voting",
-"https://facebook.com/Karen4GA",
-"https://instagram.com/karen4ga",
-"https://karenlupton.com/ga",
-"https://karenlupton.com/ga/about-karen",
-"https://karenlupton.com/ga/community-resources",
-"https://karenlupton.com/ga/events",
-"https://karenlupton.com/ga/past-newsletters",
-"https://karenlupton.com/ga/priorities-2",
-"https://karenlupton.com/ga/voter-guide",
-"https://mvp.sos.ga.gov/s",
-"https://secure.ngpvan.com/J4r495Ws_EW23NxvcptFUg2",
-"https://secure.ngpvan.com/UPagwWY9_Ue0-qe1OBd2eQ2",
-"https://securemyabsenteeballot.sos.ga.gov/s",
-"https://vote411.org/georgia"
+{
+"text": "1-888-730-5816",
+"href": "tel:1-888-730-5816"
+},
+{
+"text": "411.org/Georgia",
+"href": "https://www.vote411.org/georgia"
+},
+{
+"text": "About Karen",
+"href": "https://karenlupton.com/ga/about-karen/"
+},
+{
+"text": "Benton Creative.",
+"href": "http://bentoncreative.com"
+},
+{
+"text": "Community Resources",
+"href": "https://karenlupton.com/ga/community-resources/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.ngpvan.com/J4r495Ws_EW23NxvcptFUg2"
+},
+{
+"text": "Events",
+"href": "https://karenlupton.com/ga/events/"
+},
+{
+"text": "FIND A DROP BOX",
+"href": "https://www.dekalbcountyga.gov/voter-registration-elections/absentee-information"
+},
+{
+"text": "FIND LOCATIONS",
+"href": "https://www.dekalbcountyga.gov/voter-registration-elections/early-voting"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Karen4GA/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/karen4ga/"
+},
+{
+"text": "Join Team Karen",
+"href": "https://secure.ngpvan.com/UPagwWY9_Ue0-qe1OBd2eQ2"
+},
+{
+"text": "Mail",
+"href": "mailto:karen@karenlupton.com"
+},
+{
+"text": "POLLING LOCATION",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Past Newsletters",
+"href": "https://karenlupton.com/ga/past-newsletters/"
+},
+{
+"text": "Priorities",
+"href": "https://karenlupton.com/ga/priorities-2/"
+},
+{
+"text": "REGISTER",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "REQUEST BALLOT",
+"href": "https://securemyabsenteeballot.sos.ga.gov/s/"
+},
+{
+"text": "Voter Guide",
+"href": "https://karenlupton.com/ga/voter-guide/"
+},
+{
+"text": "[image: Representative Karen Lupton]",
+"href": "https://karenlupton.com/ga/"
+},
+{
+"text": "karen@karenlupton.com",
+"href": "mailto:karen@karenlupton.com"
+}
 ]

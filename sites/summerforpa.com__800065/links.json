@@ -1,26 +1,138 @@
 [
-"https://act.summerforpa.com/",
-"https://facebook.com/SummerForPA",
-"https://instagram.com/summerleeforpa",
-"https://mobilize.us/summerleeforcongress",
-"https://secure.actblue.com/donate/sl-website",
-"https://secure.actblue.com/donate/sl-website?amount=100",
-"https://secure.actblue.com/donate/sl-website?amount=25",
-"https://secure.actblue.com/donate/sl-website?amount=250",
-"https://secure.actblue.com/donate/sl-website?amount=5",
-"https://secure.actblue.com/donate/sl-website?amount=50",
-"https://summerforpa.com/",
-"https://summerforpa.com/about",
-"https://summerforpa.com/contact",
-"https://summerforpa.com/endorsements",
-"https://summerforpa.com/home",
-"https://summerforpa.com/home/\u201chttps:/userway.org\u201d",
-"https://summerforpa.com/issues",
-"https://summerforpa.com/media-center",
-"https://summerforpa.com/news",
-"https://summerforpa.com/privacy-policy",
-"https://summerforpa.com/summer-district-lookup",
-"https://summerforpa.com/vote",
-"https://summerforpa.myshopify.com/",
-"https://twitter.com/SummerForPA"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/sl-website?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/sl-website?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/sl-website?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/sl-website?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/sl-website?amount=50"
+},
+{
+"text": "About",
+"href": "https://summerforpa.com/about/"
+},
+{
+"text": "Click here",
+"href": "https://act.summerforpa.com"
+},
+{
+"text": "Click here",
+"href": "https://act.summerforpa.com/"
+},
+{
+"text": "Contact",
+"href": "https://summerforpa.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/sl-website"
+},
+{
+"text": "District",
+"href": "https://summerforpa.com/summer-district-lookup/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sl-website"
+},
+{
+"text": "Economic Justice & Union Jobs It’s time we center working people in our economic&nbsppolicies. Learn More",
+"href": "https://summerforpa.com/issues/#qodef-tab-b7a422d"
+},
+{
+"text": "Endorsements",
+"href": "https://summerforpa.com/endorsements/"
+},
+{
+"text": "Environmental Justice In Congress I will fight for a Green New Deal to transition to a 100% clean and renewable energy&nbspeconomy. Learn More",
+"href": "https://summerforpa.com/issues/#qodef-tab-bb401a7"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SummerForPA"
+},
+{
+"text": "Home",
+"href": "https://summerforpa.com/home/"
+},
+{
+"text": "House oversight subcommittee passes Congresswoman Summer Lee's motion to subpoena the Department of justice for the full, unredacted release of the Epstein files.",
+"href": "https://summerforpa.com/news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/summerleeforpa/"
+},
+{
+"text": "Issues",
+"href": "https://summerforpa.com/issues/"
+},
+{
+"text": "Justice Reform It’s time for a shift from investing in ineffective, punitive systems to investing in our&nbspfuture. Learn More",
+"href": "https://summerforpa.com/issues/#qodef-tab-c2a5c67"
+},
+{
+"text": "Media Center",
+"href": "https://summerforpa.com/media-center/"
+},
+{
+"text": "News",
+"href": "https://summerforpa.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/sl-website"
+},
+{
+"text": "Privacy Policy",
+"href": "https://summerforpa.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://summerforpa.com/"
+},
+{
+"text": "Store",
+"href": "https://summerforpa.myshopify.com/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/SummerForPA"
+},
+{
+"text": "View All Issues",
+"href": "https://summerforpa.com/issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/summerleeforcongress/"
+},
+{
+"text": "Voter Info",
+"href": "https://summerforpa.com/vote/"
+},
+{
+"text": "[image: Summer Lee For Congress]",
+"href": "https://summerforpa.com/home"
+},
+{
+"text": "privacy policy here",
+"href": "https://summerforpa.com/privacy-policy/"
+},
+{
+"text": "website accessibility",
+"href": "https://summerforpa.com/home/%E2%80%9Chttps:/userway.org%E2%80%9D"
+}
 ]

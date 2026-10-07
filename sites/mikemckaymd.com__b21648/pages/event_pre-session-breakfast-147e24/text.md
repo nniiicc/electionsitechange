@@ -1,12 +1,9 @@
-- This event has passed.
-Pre-Session Breakfast
-January 9, 2024 @ 8:30 am - 9:30 am
-Join Senator Mike McKay, member of
-the Judicial Proceedings Committee,
-and members of the Maryland Senate
-Republican Caucus for the annual
-Pre-Session Breakfast
-Tuesday, January 9th
-8:30 – 9:30am
-Harry Browne’s
-66 State Circle | Annapolis, MD
+Meet Mike District 1 Sponsored Legislation Bills sponsored by Sen.
+McKay Voting Record Every vote Sen.
+Mike McKay has voted on Senate Scholarship Program Information on how to apply Office Contact Here's how to find us News & Events Georges Creek Flood Response Contact Info The Latest News District 1 news & media coverage Events Attend an event w/ Sen.
+Mike McKay Volunteer Meet Mike Georges Creek Flood Response Sponsored Legislation Voting Record Senate Scholarship Program Office Contact News & Updates Events Volunteer Donate « All Events This event has passed.
+Pre-Session Breakfast January 9, 2024 @ 8:30 am - 9:30 am « Join State Senator Mike McKay For A Scenic Trip Through Western Maryland Mike McKay’s 6th Annual Golf Tournament » Join Senator Mike McKay, member of the Judicial Proceedings Committee, and members of the Maryland Senate Republican Caucus for the annual Pre-Session Breakfast Tuesday, January 9th 8:30 – 9:30am Harry Browne’s 66 State Circle | Annapolis, MD Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: January 9, 2024 Time: 8:30 am - 9:30 am Venue Harry Browne’s Restaurant 66 State Circle Annapolis , MD 21401 United States + Google Map « Join State Senator Mike McKay For A Scenic Trip Through Western Maryland Mike McKay’s 6th Annual Golf Tournament » Menu Home Legislation Meet Mike Privacy Policy Links Volunteer Events Office Contact Get in touch Citizens to Elect Mike McKay 407 Washington Street Cumberland, Maryland 21502 *By providing your phone number, you are consenting to receive calls and text messages, including autodialed and automated calls and texts, to that number from Mike McKay for State Senate.
+Message and data rates may apply.
+Text “STOP” to opt-out.
+Terms & conditions/privacy policy apply.
+Authority: Citizens to Elect Mike McKay, Jeremy Bender, Treasurer Powered by VOTEGTR

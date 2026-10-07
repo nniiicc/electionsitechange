@@ -1,17 +1,78 @@
 [
-"http://secretjustice.com/",
-"https://facebook.com/george.mcdermott.98",
-"https://georgemcdermott.com/",
-"https://georgemcdermott.com/campaign",
-"https://georgemcdermott.com/courts",
-"https://georgemcdermott.com/docs",
-"https://georgemcdermott.com/duty",
-"https://georgemcdermott.com/links",
-"https://georgemcdermott.com/principles",
-"https://georgemcdermott.com/victims",
-"https://georgemcdermott.com/volunteer",
-"https://gpo.gov/",
-"https://x.com/GeorgeMcDermot3",
-"https://youtube.com/@George4Justice",
-"https://zoinks.graphics/"
+{
+"text": "Campaign",
+"href": "https://georgemcdermott.com/campaign/"
+},
+{
+"text": "Courts",
+"href": "https://georgemcdermott.com/courts/"
+},
+{
+"text": "Docs",
+"href": "https://georgemcdermott.com/docs/"
+},
+{
+"text": "Duty",
+"href": "https://georgemcdermott.com/duty/"
+},
+{
+"text": "George McDermott",
+"href": "https://georgemcdermott.com/"
+},
+{
+"text": "GeorgeMcDermott2018@gmail.com",
+"href": "mailto:GeorgeMcDermott2018@gmail.com"
+},
+{
+"text": "Links",
+"href": "https://georgemcdermott.com/links/"
+},
+{
+"text": "Mission",
+"href": "https://georgemcdermott.com/"
+},
+{
+"text": "Principles",
+"href": "https://georgemcdermott.com/principles/"
+},
+{
+"text": "SecretJustice.com",
+"href": "http://secretjustice.com"
+},
+{
+"text": "Victims",
+"href": "https://georgemcdermott.com/victims/"
+},
+{
+"text": "Volunteer",
+"href": "https://georgemcdermott.com/volunteer/"
+},
+{
+"text": "Zoinks! Graphics",
+"href": "https://zoinks.graphics"
+},
+{
+"text": "[image: facebook]",
+"href": "https://www.facebook.com/george.mcdermott.98"
+},
+{
+"text": "[image: twitter/x]",
+"href": "https://x.com/GeorgeMcDermot3"
+},
+{
+"text": "[image: youtube]",
+"href": "https://www.youtube.com/@George4Justice"
+},
+{
+"text": "http://secretjustice.com",
+"href": "http://secretjustice.com"
+},
+{
+"text": "https://www.gpo.gov",
+"href": "https://www.gpo.gov"
+},
+{
+"text": "redmaryland@gmail.com",
+"href": "mailto:redmaryland@gmail.com"
+}
 ]

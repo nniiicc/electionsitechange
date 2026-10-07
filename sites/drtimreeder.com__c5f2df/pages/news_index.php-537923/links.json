@@ -1,19 +1,126 @@
 [
-"https://drtimreeder.com/",
-"https://drtimreeder.com/about-me",
-"https://drtimreeder.com/accomplishments",
-"https://drtimreeder.com/contact",
-"https://drtimreeder.com/index.php",
-"https://drtimreeder.com/news",
-"https://drtimreeder.com/news/community-events",
-"https://drtimreeder.com/news/constituent-activities",
-"https://drtimreeder.com/news/legislation",
-"https://drtimreeder.com/news/newsletters",
-"https://drtimreeder.com/news/press-releases",
-"https://drtimreeder.com/news/speaking-engagements",
-"https://drtimreeder.com/zudesa.com",
-"https://facebook.com/RepTimReeder",
-"https://instagram.com/drtimreeder",
-"https://secure.anedot.com/c0d2f87f-a599-44e0-861a-eab3102f8e98/donate",
-"https://x.com/timreedernc"
+{
+"text": "About Me",
+"href": "https://drtimreeder.com/about-me"
+},
+{
+"text": "Accomplishments",
+"href": "https://drtimreeder.com/accomplishments"
+},
+{
+"text": "Community Events",
+"href": "https://drtimreeder.com/news/community-events"
+},
+{
+"text": "Constituent Activities",
+"href": "https://drtimreeder.com/news/constituent-activities"
+},
+{
+"text": "Contact",
+"href": "https://drtimreeder.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/c0d2f87f-a599-44e0-861a-eab3102f8e98/donate"
+},
+{
+"text": "Home",
+"href": "https://drtimreeder.com"
+},
+{
+"text": "Home",
+"href": "https://drtimreeder.com/index.php"
+},
+{
+"text": "Legislation",
+"href": "https://drtimreeder.com/news/legislation"
+},
+{
+"text": "News",
+"href": "https://drtimreeder.com/news"
+},
+{
+"text": "Newsletters",
+"href": "https://drtimreeder.com/news/newsletters"
+},
+{
+"text": "Press Releases & Announcements",
+"href": "https://drtimreeder.com/news/press-releases"
+},
+{
+"text": "Read more",
+"href": "https://drtimreeder.com/news/community-events"
+},
+{
+"text": "Read more",
+"href": "https://drtimreeder.com/news/constituent-activities"
+},
+{
+"text": "Read more",
+"href": "https://drtimreeder.com/news/legislation"
+},
+{
+"text": "Read more",
+"href": "https://drtimreeder.com/news/newsletters"
+},
+{
+"text": "Read more",
+"href": "https://drtimreeder.com/news/press-releases"
+},
+{
+"text": "Read more",
+"href": "https://drtimreeder.com/news/speaking-engagements"
+},
+{
+"text": "Speaking Engagements",
+"href": "https://drtimreeder.com/news/speaking-engagements"
+},
+{
+"text": "Zudesa Corporation",
+"href": "https://drtimreeder.com/zudesa.com"
+},
+{
+"text": "[image: Community Events]",
+"href": "https://drtimreeder.com/news/community-events"
+},
+{
+"text": "[image: Constituent Activities]",
+"href": "https://drtimreeder.com/news/constituent-activities"
+},
+{
+"text": "[image: Elect Dr. Tim Reeder]",
+"href": "https://drtimreeder.com/"
+},
+{
+"text": "[image: Legislation]",
+"href": "https://drtimreeder.com/news/legislation"
+},
+{
+"text": "[image: Newsletters]",
+"href": "https://drtimreeder.com/news/newsletters"
+},
+{
+"text": "[image: Press Releases & Announcements]",
+"href": "https://drtimreeder.com/news/press-releases"
+},
+{
+"text": "[image: Speaking Engagements]",
+"href": "https://drtimreeder.com/news/speaking-engagements"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/drtimreeder"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepTimReeder"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/timreedernc"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(null)"
+}
 ]

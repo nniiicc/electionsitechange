@@ -1,9 +1,5 @@
-Farm Bureau Acceptance Speech for Legislator of the Year 2024
-Rep.
-Mary Dye:
-Delivered at the Wenatchee Convention Center for the Washington State Farm Bureau Annual Convention
-November 20, 2024
-”This is truly a great honor.
+0 Skip to Content Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Farm Bureau Acceptance Speech for Legislator of the Year 2024 Dec 22 Written By Jim Hedemark Rep.
+Mary Dye: Delivered at the Wenatchee Convention Center for the Washington State Farm Bureau Annual Convention November 20, 2024 ”This is truly a great honor.
 I jotted a few of my thoughts to tell you how much it means to me to be recognized by Farm Bureau, by my kindred fellow lovers of the land, stewards that share the common bond with place, rooted to history, keepers of the secrets, held in the soul of the land, and the weathered hands that work it.
 To be recognized in this industry, by my fellow sojourners, those who love and live the land, following her leading to truths revealed through perpetual surprises, the land whose fickle seasons meld and hone our characters into to forged steel.
 This year is particularly fascinating, as are so many others.
@@ -46,5 +42,5 @@ It is the generational memory of farmers exploring the mysteries the soil reveal
 Never forget who you are and the stories that made you.
 And go tell it well to Olympia and the nation.
 Thank you again for this great honor.
-Representative,
-Mary Dye, WA 9
+Representative, Mary Dye, WA 9 Jim Hedemark Previous Previous What Just Happened: A Report from Rep.
+Mary Dye on the End of the 2025 Legislature Next Next Washington State Representative Mary Dye (R-Pomeroy) received the Distinguished Leader Award Committee to Elect Mary Dye Republican for Washington State Representative District 9, Position 1 PO Box 336 Pomeroy, WA 99347 electmarydye@gmail.com Meet Mary Priorities District News Gallery

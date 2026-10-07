@@ -1,12 +1,58 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61589740105534",
-"https://remmertforkansas.com/",
-"https://remmertforkansas.com/about",
-"https://remmertforkansas.com/contact",
-"https://remmertforkansas.com/district-13",
-"https://remmertforkansas.com/events-2",
-"https://remmertforkansas.com/issues",
-"https://remmertforkansas.com/volunteer",
-"https://secure.actblue.com/donate/mark-remmert-1"
+{
+"text": "About",
+"href": "https://www.remmertforkansas.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.remmertforkansas.com/contact"
+},
+{
+"text": "District 13",
+"href": "https://www.remmertforkansas.com/district-13"
+},
+{
+"text": "District 13 Map Page",
+"href": "https://www.remmertforkansas.com/district-13"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mark-remmert-1"
+},
+{
+"text": "Events",
+"href": "https://www.remmertforkansas.com/events-2"
+},
+{
+"text": "Issues",
+"href": "https://www.remmertforkansas.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Support Mark",
+"href": "https://secure.actblue.com/donate/mark-remmert-1"
+},
+{
+"text": "Volunteer",
+"href": "https://www.remmertforkansas.com/volunteer"
+},
+{
+"text": "Volunteer Page.",
+"href": "https://www.remmertforkansas.com/volunteer"
+},
+{
+"text": "[image: Remmert For Kansas]",
+"href": "https://www.remmertforkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61589740105534"
+},
+{
+"text": "remmertforkansas@gmail.com",
+"href": "mailto:remmertforkansas@gmail.com"
+}
 ]

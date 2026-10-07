@@ -1,20 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+for+Beth+Fuller+%26+Adam+Cleveland+with+Indivisible+North+Metro+Atlanta&dates=20260829T160000Z%2F20260829T190000Z&location=925+Riverside+Road%2C+Roswell%2C+Georgia%2C+30075%2C+United+States",
-"http://maps.google.com/?q=925+Riverside+Road+Roswell%2C+Georgia%2C+30075+United+States",
-"https://bethfullerforgeorgia.com/",
-"https://bethfullerforgeorgia.com/articles",
-"https://bethfullerforgeorgia.com/cart",
-"https://bethfullerforgeorgia.com/endorsements",
-"https://bethfullerforgeorgia.com/events",
-"https://bethfullerforgeorgia.com/events/canvass-for-beth-fuller-adam-cleveland-with-indivisible-north-metro-atlanta?format=ical",
-"https://bethfullerforgeorgia.com/events/knock-doors-with-north-fulton-dems",
-"https://bethfullerforgeorgia.com/events/rq15dxhi2ngiekc4i3ow0mmkn2mup8",
-"https://bethfullerforgeorgia.com/events?tag=Canvassing",
-"https://bethfullerforgeorgia.com/get-involved",
-"https://bethfullerforgeorgia.com/meet-beth",
-"https://bethfullerforgeorgia.com/policy-priorities",
-"https://facebook.com/profile.php?id=61584803198605",
-"https://instagram.com/bethfuller4ga",
-"https://mobilize.us/bethfullerforgeorgia/event/1011240",
-"https://secure.actblue.com/donate/elizabeth-fuller-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=925+riverside+road+roswell%2C+georgia%2C+30075+united+states"
+},
+{
+"text": "0",
+"href": "https://www.bethfullerforgeorgia.com/cart"
+},
+{
+"text": "Articles",
+"href": "https://www.bethfullerforgeorgia.com/articles"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Canvassing",
+"href": "https://www.bethfullerforgeorgia.com/events?tag=Canvassing"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/elizabeth-fuller-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bethfullerforgeorgia.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bethfullerforgeorgia.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+for+Beth+Fuller+%26+Adam+Cleveland+with+Indivisible+North+Metro+Atlanta&dates=20260829T160000Z%2F20260829T190000Z&location=925+Riverside+Road%2C+Roswell%2C+Georgia%2C+30075%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-for-beth-fuller-adam-cleveland-with-indivisible-north-metro-atlanta?format=ical"
+},
+{
+"text": "Meet Beth",
+"href": "https://www.bethfullerforgeorgia.com/meet-beth"
+},
+{
+"text": "Next Next August 30 North Fulton Unity Fundraiser",
+"href": "https://www.bethfullerforgeorgia.com/events/rq15dxhi2ngiekc4i3ow0mmkn2mup8"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.bethfullerforgeorgia.com/policy-priorities"
+},
+{
+"text": "Previous Previous August 29 Knock Doors with North Fulton Dems",
+"href": "https://www.bethfullerforgeorgia.com/events/knock-doors-with-north-fulton-dems"
+},
+{
+"text": "[image: Beth Fuller for Georgia | District 53 State House]",
+"href": "https://www.bethfullerforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584803198605"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bethfuller4ga/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@bethfullerforgeorgia.com"
+},
+{
+"text": "https://www.mobilize.us/bethfullerforgeorgia/event/1011240/",
+"href": "https://www.mobilize.us/bethfullerforgeorgia/event/1011240/"
+}
 ]

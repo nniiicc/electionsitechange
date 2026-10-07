@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://www.tomhendrickson.org/news",
- "paid_for_by": null,
+ "fingerprint": "82bcdb34317a6d2466a7a07a78909c2ff2b0721e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": [
   "2021",

@@ -1,7 +1,5 @@
-My Story
-Who I am, where I came from, what my background is at the legislature, my expertise, etc.
-Childhood and a Name
-Nicholeen [nick-o-leen] is an unusual name.
+Skip to main content Skip to footer Opens in a new tab Issues My Pledge My Story About Support Contact Issues My Pledge My Story About Support Contact My Story Who I am, where I came from, what my background is at the legislature, my expertise, etc.
+Childhood and a Name Nicholeen [nick-o-leen] is an unusual name.
 But, the uniqueness somehow fits.
 My parents, Nicholas and Janeen, mixed their names together, in true Utah style, to create Nicholeen, which means victory and God is gracious.
 It’s amazing what a name does for a person.
@@ -20,8 +18,7 @@ My parents set an example of lifelong learning and grit as we survived and thriv
 One of the odd jobs that Dad did was to regularly serve in the Utah National Guard after his regular military service came to an end.
 My dad deeply loves his country and liberty and raised his family with a love of sacrifice for truth, country and principle.
 His example of sacrifice and willing service in his military and guard assignments as well as church service assignments instilled the virtues, service and sacrifice, into my heart.
-Education and Family
-As a child I wanted to try every sport or creative project.
+Education and Family As a child I wanted to try every sport or creative project.
 This led me to pursue music, dance, drama, arts, and various sports in my youth.
 I attended Snow College on a dance scholarship, but my real heart was for my studies in special education.
 After my time at Snow College I married Spencer Peck, the sixth of seven children, of Salt Lake City, Utah.
@@ -43,8 +40,7 @@ My natural children and foster children all had different needs in education so 
 Some children attended public school and others were homeschooled all the way until college.
 In the homeschooling world I was invited to speak at education conferences and to lead and teach groups of children and youth seeking a leadership style of education.
 Currently, three of my four natural children have graduated with university degrees and started their families, and our youngest son, when he returns from his church mission, will go back into doing his university studies.
-Impact and the Legislature
-In 2009, someone referred the BBC in England to our family to be on a television program called The World’s Strictest Parents.
+Impact and the Legislature In 2009, someone referred the BBC in England to our family to be on a television program called The World’s Strictest Parents.
 On this program two troubled teens from the UK came to stay in our home for eight days and experienced mighty changes of heart.
 By the end of the program the youth were crying and asking not to leave our home.
 The Tooele episode of this program became “the most watched episode ever on the BBC” according to the producers, and launched our family down a road we hadn’t planned to take.
@@ -82,43 +78,28 @@ And, every bill ends up leading to follow up bills because tweaks and adjustment
 And, sometimes a good bill takes a turn for the worse during the bill process and might need more work to fix those problems later.
 The “work” I’m speaking of is conversations and research.
 Lots of conversations and research!
-Oh, and calmness and patience…
-Speaking and training groups about family issues and how to keep children safe has been a big part of my recent years.
+Oh, and calmness and patience… Speaking and training groups about family issues and how to keep children safe has been a big part of my recent years.
 Every year, new presentations happen at the United Nations in an effort to bring a counter voice to what is usually advocated for there.
 The United Nations often crosses over the line of sovereignty and needs to be kept ‘in check.’ Additionally, some of the world’s largest education and family conferences have me come speak about education, parenting, calmness, self-government, and child safety.
-Other accomplishments:
-- President for the Empowered Families Coalition
-- Member of the Utah PTA Safety Commission
-- Parent review committee for the state school tests
-- Parent sex ed review committee for Tooele School District
-- Nomination for Utah Young Mother of the Year
-- National Title IX groups
-- Who’s Who in America honors and publications
-- National Protect Child Health Coalition
-- Various boards and advisory boards for colleges and organizations
-- Created programs for multiple facilities doing recovery and treatment for children rescued fromsexual trafficking.
-Contact me:
-[email protected]
-801-554-4434
-Get involved:
-The greatest change happens at the grassroots level.
+Other accomplishments: President for the Empowered Families Coalition Member of the Utah PTA Safety Commission Parent review committee for the state school tests Parent sex ed review committee for Tooele School District Nomination for Utah Young Mother of the Year National Title IX groups Who’s Who in America honors and publications National Protect Child Health Coalition Various boards and advisory boards for colleges and organizations Created programs for multiple facilities doing recovery and treatment for children rescued fromsexual trafficking.
+Contact me: [email protected] 801-554-4434 Get involved: The greatest change happens at the grassroots level.
 That’s why strengthening families has always been my top priority in life.
 There is nothing more grassroots than family.
 So, this campaign is going to be pretty grassroots too.
 Would you like to get involved?
 Here are some easy ways to help.
-Post a sign in your yard,
-Give a suggestion about where to post a sign,
-Host a cottage meeting,
-Help at a campaign event,
-Talk to your friends.
-Contact for signs, meetings or events:
-[email protected]
-801-554-4434
-Quick Bio
-Nicholeen is a worldwide phenomenon and leader.
+Post a sign in your yard, Give a suggestion about where to post a sign, Host a cottage meeting, Help at a campaign event, Talk to your friends.
+Contact for signs, meetings or events: [email protected] 801-554-4434 Quick Bio Nicholeen is a worldwide phenomenon and leader.
 She is best known for her work in mentoring families in their relationships, behaviors, and adult skill development through Teaching Self-Government, for internationally standing up for faith, family, and sovereignty as the President of the Worldwide Organization for Women, and for her work at the Utah State Capitol in fighting for Utah values and protecting Utah’s children.
 She is a sought-after public speaker and published author, whose books have been translated into Spanish, Chinese, and Japanese, and has taught audiences throughout North America, Europe, Asia, and Africa.
 Despite her global impact Nicholeen, considers her family, her faith and her community as her top priorities and greatest treasures.
 She is married, has 4 children, 3 grandchildren, and many foster children that she and her husband, Spencer, have raised.
 The Pecks have lived in Tooele County for 27 years.
+Issues My Pledge My Story About Support Contact Issues My Pledge My Story About Support Contact Paid for by the peck4utah campaign.
+Donate for a Better Utah Donation Progress Item * $ $# $# $# $# $# $#,# Custom Amount I would like to make a recurring donation Bill my every Week Month Year Email Address * Address 1 * Address 2 City * State * Zip Code * Phone Number Submit Please Wait… Let's Connect on the Issues Survey First Last Email Want to receive updates from me?
+Yes, please send me updates!
+Rank these issues based on how important they are to you.
+1 2 3 4 5 6 7 8 9 Water State taxes and spending Curriculum and sensitive materials in schools Constitutional Rights Parental rights Housing availability Protecting women's spaces DEI (Diversity, Equity, and Inclusion) overreach into society Air quality Anything else you want to tell me?
+Want to receive updates from me?
+Yes, please send me updates!
+Submit

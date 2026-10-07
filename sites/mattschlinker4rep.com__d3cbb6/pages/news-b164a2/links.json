@@ -1,21 +1,106 @@
 [
-"https://facebook.com/profile.php?id=61563492839457",
-"https://gongwer.com/news?article_ID=651330101",
-"https://heyvictor.com/",
-"https://instagram.com/mattschlinkermi?igsh=ZDNlZDc0MzIxNw%3D%3D",
-"https://mattschlinker4rep.com/",
-"https://mattschlinker4rep.com/accessibility-statement",
-"https://mattschlinker4rep.com/endorsements",
-"https://mattschlinker4rep.com/events",
-"https://mattschlinker4rep.com/meet-candidate",
-"https://mattschlinker4rep.com/news",
-"https://mattschlinker4rep.com/priorities",
-"https://mattschlinker4rep.com/terms-of-service",
-"https://mattschlinker4rep.com/volunteer",
-"https://mattschlinker4rep.com/voter-101",
-"https://mlive.com/news/flint/2026/04/heres-who-filed-to-represent-genesee-county-in-michigans-house-and-senate.html",
-"https://mlive.com/news/flint/2026/08/genesee-county-voters-narrow-fields-in-state-senate-house-races.html",
-"https://mlive.com/politics/2024/09/schlinker-steps-in-to-take-on-martin-in-race-for-68th-district-state-house.html",
-"https://secure.actblue.com/donate/schlinkerweb",
-"https://thecitizenonline.com/articles/news/august-4-2026-voters-guide"
+{
+"text": "Accessibility Statement",
+"href": "https://mattschlinker4rep.com/accessibility-statement/"
+},
+{
+"text": "August 4th Voters Guide",
+"href": "https://thecitizenonline.com/articles/news/august-4-2026-voters-guide/"
+},
+{
+"text": "Contact",
+"href": "mailto:"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/schlinkerweb?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://mattschlinker4rep.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://mattschlinker4rep.com/events/"
+},
+{
+"text": "Genesee County voters narrow fields in state senate, house races",
+"href": "https://www.mlive.com/news/flint/2026/08/genesee-county-voters-narrow-fields-in-state-senate-house-races.html"
+},
+{
+"text": "Here’s who filed to represent Genesee County in Michigan’s House and Senate",
+"href": "https://www.mlive.com/news/flint/2026/04/heres-who-filed-to-represent-genesee-county-in-michigans-house-and-senate.html"
+},
+{
+"text": "Home",
+"href": "https://mattschlinker4rep.com/"
+},
+{
+"text": "In the News",
+"href": "https://mattschlinker4rep.com/news/"
+},
+{
+"text": "Meet Matt",
+"href": "https://mattschlinker4rep.com/meet-candidate/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://mattschlinker4rep.com/priorities/"
+},
+{
+"text": "Read news article →",
+"href": "https://thecitizenonline.com/articles/news/august-4-2026-voters-guide/"
+},
+{
+"text": "Read news article →",
+"href": "https://www.gongwer.com/news/?article_ID=651330101"
+},
+{
+"text": "Read news article →",
+"href": "https://www.mlive.com/news/flint/2026/04/heres-who-filed-to-represent-genesee-county-in-michigans-house-and-senate.html"
+},
+{
+"text": "Read news article →",
+"href": "https://www.mlive.com/news/flint/2026/08/genesee-county-voters-narrow-fields-in-state-senate-house-races.html"
+},
+{
+"text": "Read news article →",
+"href": "https://www.mlive.com/politics/2024/09/schlinker-steps-in-to-take-on-martin-in-race-for-68th-district-state-house.html"
+},
+{
+"text": "Schlinker steps in to take on Martin in race for 68th District State House",
+"href": "https://www.mlive.com/politics/2024/09/schlinker-steps-in-to-take-on-martin-in-race-for-68th-district-state-house.html"
+},
+{
+"text": "Terms of Service",
+"href": "https://mattschlinker4rep.com/terms-of-service/"
+},
+{
+"text": "The Top 10 House seats most likely to flip: Things have changed",
+"href": "https://www.gongwer.com/news/?article_ID=651330101"
+},
+{
+"text": "VOTER 101",
+"href": "https://mattschlinker4rep.com/voter-101/"
+},
+{
+"text": "Volunteer",
+"href": "https://mattschlinker4rep.com/volunteer/"
+},
+{
+"text": "[image] [image]",
+"href": "https://mattschlinker4rep.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61563492839457"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/mattschlinkermi?igsh=ZDNlZDc0MzIxNw%3D%3D"
+}
 ]

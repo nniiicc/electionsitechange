@@ -1,14 +1,50 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/lateefah.simon",
-"https://instagram.com/lateefahforcongress?igshid=NTc4MTIwNjQ2YQ%3D%3D",
-"https://lateefahsimon.com/",
-"https://lateefahsimon.com/about",
-"https://lateefahsimon.com/contact",
-"https://lateefahsimon.com/news",
-"https://lateefahsimon.com/priorities",
-"https://lateefahsimon.com/volunteer",
-"https://oneswitchboard.com/privacy-policy/lateefah-for-congress",
-"https://secure.actblue.com/donate/ls-website",
-"https://twitter.com/lateefahsimon"
+{
+"text": "CONTACT",
+"href": "https://www.lateefahsimon.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ls-website"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.lateefahsimon.com/volunteer"
+},
+{
+"text": "MEET LATEEFAH",
+"href": "https://www.lateefahsimon.com/about"
+},
+{
+"text": "NEWS",
+"href": "https://www.lateefahsimon.com/news"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.lateefahsimon.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://oneswitchboard.com/privacy-policy/lateefah-for-congress"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Lateefah Simon for Congress]",
+"href": "https://www.lateefahsimon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/lateefahsimon"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lateefah.simon"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lateefahforcongress/?igshid=NTc4MTIwNjQ2YQ%3D%3D"
+}
 ]

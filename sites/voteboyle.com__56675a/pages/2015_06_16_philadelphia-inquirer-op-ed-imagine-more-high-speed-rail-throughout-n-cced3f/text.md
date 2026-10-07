@@ -1,5 +1,7 @@
-Imagine departing from Philadelphia and arriving in New York City in 32 minutes, or Washington in less than an hour.
-Imagine being able to speed at nearly 220 m.p.h. past the ever-worsening traffic gridlock of the five major metropolitan cities along the East Coast.
+Skip to content Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Brendan F.
+Boyle | U.S.
+Congress Representing Pennsylvania's 2nd District Facebook Twitter YouTube Instagram Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Philadelphia Inquirer Op-Ed: Imagine More High-Speed Rail Throughout Northeast June 16, 2015 January 18, 2017 Imagine departing from Philadelphia and arriving in New York City in # minutes, or Washington in less than an hour.
+Imagine being able to speed at nearly # m.p.h. past the ever-worsening traffic gridlock of the five major metropolitan cities along the East Coast.
 Now imagine such opportunities throughout the entire Northeast Corridor, which generates 20 percent of the nation’s gross domestic product and supports a population of 50 million Americans packed into an area covering roughly 2 percent of the country.
 Sound like the stuff of science fiction?
 Actually, it is one of the proposals being considered by the Federal Railroad Administration (FRA) as part of the Northeast Corridor Future project.
@@ -18,3 +20,4 @@ With its prominent role and central location in the Northeast Corridor, Pennsylv
 We should not tolerate irresponsible actions like the $260 million cut to Amtrak’s funding that was approved by a House committee mere hours after the derailment.
 We should choose a future in which we go beyond minimal safety precautions and boldly invest in a rail system fit for the 21st century.
 Congressman Brendan Boyle represents Pennsylvania’s 13th Congressional District, including portions of Philadelphia and Montgomery County.
+Philly.com: Congressmen Press Navy on Willow Grove, Warminster Water Danger Search Search Keep Up with Brendan First Name Last Name Email Back to Top Facebook Twitter YouTube Instagram Paid for by Citizens for Boyle Powered by Fluida & WordPress.

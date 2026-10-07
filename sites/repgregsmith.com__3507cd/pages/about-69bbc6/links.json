@@ -1,10 +1,34 @@
 [
-"https://repgregsmith.com/",
-"https://repgregsmith.com/about",
-"https://repgregsmith.com/endorsements",
-"https://repgregsmith.com/issues",
-"https://repgregsmith.com/join",
-"https://repgregsmith.com/news",
-"https://repgregsmith.com/photos-video",
-"https://secure.anedot.com/committee-to-re-elect-greg-smith/committee-to-re-elect-greg-smith"
+{
+"text": "About",
+"href": "https://repgregsmith.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/committee-to-re-elect-greg-smith/committee-to-re-elect-greg-smith"
+},
+{
+"text": "Issues",
+"href": "https://repgregsmith.com/issues/"
+},
+{
+"text": "Join",
+"href": "https://repgregsmith.com/join/"
+},
+{
+"text": "News",
+"href": "https://repgregsmith.com/news/"
+},
+{
+"text": "Photos/Video",
+"href": "https://repgregsmith.com/photos-video/"
+},
+{
+"text": "Previous Endorsements",
+"href": "https://repgregsmith.com/endorsements/"
+},
+{
+"text": "[image: Greg Smith]",
+"href": "https://repgregsmith.com/"
+}
 ]

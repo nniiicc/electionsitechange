@@ -1,117 +1,37 @@
-District 157
-Opportunity Board
-You shouldn’t have to leave Southeast Georgia to build a good life.
+Skip to Content 💼 New District 157 Community Opportunity Board is live.
+30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
+New HD-157 Opportunity Board is Live!
+Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Thank you!
+Your position has been submitted for verification and will be published to the board within 24 hours.
+HD-157 Economic & Workforce Initiative District 157 Opportunity Board You shouldn’t have to leave Southeast Georgia to build a good life.
 Connecting local workers and graduates directly with high-wage careers across Appling, Evans, Jeff Davis, and Tattnall counties.
-Understanding Our Rural Labor Market & Opportunity Ladders
-District 157 maintains low unemployment (3.2%–4.4%), yet our median household incomes remain 30% to 45% below Georgia's statewide average.
+Explore Open Positions (31) Post a Free Listing (For Employers) 31 Active Local Openings 4 Counties Appling • Evans • Jeff Davis • Tattnall 100% Free Zero Fees for Small Businesses 30-Day Fresh Active & Verified Postings Only District 157 Economic & Workforce Intelligence Understanding Our Rural Labor Market & Opportunity Ladders District 157 maintains low unemployment (3.2%–4.4%), yet our median household incomes remain 30% to 45% below Georgia's statewide average.
 The path forward isn’t just finding any job—it’s connecting our workers to high-wage technical careers anchored right here in Appling, Evans, Jeff Davis, and Tattnall counties.
-District 157 Wage Horizon
-Benchmark comparison of local specialized careers vs the District-wide median baseline ($18.31/hr).
-Nuclear Energy & Health Physics
-Southern Nuclear (Plant Hatch)
-Advanced Industrial Automation & PLC
-Interfor Sawmills & Trane Technologies
-Registered Nursing & Critical Care
-Appling Healthcare & Evans Memorial
-Commercial CDL-A Regional Logistics
-Dot Foods Regional Hub & Satilla REMC
-State Corrections & Law Enforcement
-Georgia Dept of Corrections (Rogers & Smith)
-District 157 All-Occupations Median Baseline
-District Average (All Industries Combined)
-District 157 County Profiles & Anchor Employers
-All four counties qualify as Georgia Tier 1 economic development communities, offering state income tax credits of up to $3,500 per job created for as few as 2 jobs.
-Appling County
-County Seat: Baxley, GA
-- • Edwin I.
-Hatch Nuclear Plant
-- • Interfor Lumber Modernization
-- • Appling Healthcare System
-"Clean base-load energy capital, major timber processing hub, >50% county tax base anchored by Hatch."
-Evans County
-County Seat: Claxton, GA
-- • Claxton Poultry Farms
-- • Evans Memorial Hospital
-- • Georgia DOC Correctional Centers
-"Protein processing powerhouse (1,800+ local food supply chain jobs), independent critical-access hospital."
-Jeff Davis County
-County Seat: Hazlehurst, GA
-- • Jeff Davis Municipal Utilities
-- • Timber & Wood Products
-- • Action Pact Regional Services
-"Forestry corridor, rail-connected manufacturing capacity, critical need for workforce technical upskilling."
-Tattnall County
-County Seat: Reidsville & Glennville, GA
-- • Rogers State Prison Complex
-- • Bland Farms & G&R Farms
-- • Canoochee EMC & Rotary Corp
-"Epicenter of world-famous $150M+ Vidalia Onion agribusiness, major state institutional employer base."
-State-Funded Rural Career Ladders
-Under the Georgia HOPE Career Grant, tuition is 100% free for Georgia residents enrolling in high-demand strategic workforce programs at Coastal Pines Technical College and Southeastern Technical College.
-Commercial Truck Driving (CDL-A)
-Tuition Free
-Coastal Pines (Baxley) & Southeastern Tech (Vidalia)
-Industrial Systems & Electrical Technology
-Tuition Free
-Coastal Pines Tech (Baxley & Hazlehurst Campuses)
-Practical Nursing (LPN) & Allied Health
-Tuition Free
-Southeastern Tech & Coastal Pines Tech
-Welding & Precision Metal Fabrication
-Tuition Free
-Coastal Pines Tech & Southeastern Tech
-Need Help Navigating Financial Aid or Local Training?
+Wage Benchmarks & Mobility 4-County Economic Engines Tuition-Free Career Pathways District 157 Wage Horizon Benchmark comparison of local specialized careers vs the District-wide median baseline ($18.31/hr).
+Hourly Wage Annual Salary Skilled Trades & Energy Nuclear Energy & Health Physics Southern Nuclear (Plant Hatch) $46.15/hr $96,000/yr +152% vs Baseline AS in Radiation Protection / Nuclear Tech (Coastal Pines / STC) GDOL OEWS Data Manufacturing & Processing Advanced Industrial Automation & PLC Interfor Sawmills & Trane Technologies $38.00/hr $79,000/yr +108% vs Baseline Industrial Systems Technology Diploma (Tuition-Free via HOPE Grant) GDOL OEWS Data Healthcare & Social Services Registered Nursing & Critical Care Appling Healthcare & Evans Memorial $34.50/hr $71,760/yr +88% vs Baseline ASN / BSN Nursing Degree (Local Rural Hospital Loan Forgiveness) GDOL OEWS Data Transportation & Logistics Commercial CDL-A Regional Logistics Dot Foods Regional Hub & Satilla REMC $28.50/hr $59,280/yr +56% vs Baseline 5-Week CDL Certificate (100% Covered by HOPE Career Grant) GDOL OEWS Data Education & Public Service State Corrections & Law Enforcement Georgia Dept of Corrections (Rogers & Smith) $24.22/hr $50,386/yr +32% vs Baseline State POST Academy (Paid Training + State Defined Pension) GDOL OEWS Data Baseline Benchmark District 157 All-Occupations Median Baseline District Average (All Industries Combined) $18.31/hr $38,085/yr Regional Baseline Regional Median Baseline (GDOL OEWS Rural Southeast Georgia) GDOL OEWS Data The Upward Mobility Takeaway: Transitioning from entry-level positions to specialized technical certifications (such as Plant Hatch Nuclear technicians or certified Industrial Millwrights) increases annual household earning potential by $40,000 to $90,000+ per year, reinvesting vital wealth right back into District 157 main streets.
+District 157 County Profiles & Anchor Employers All four counties qualify as Georgia Tier 1 economic development communities, offering state income tax credits of up to $3,500 per job created for as few as 2 jobs.
+Appling County County Seat: Baxley, GA Tier 1 Certified Median Income $46,651 Poverty Rate 22.5% Unemployment 3.4% Key Economic Anchors: • Edwin I.
+Hatch Nuclear Plant • Interfor Lumber Modernization • Appling Healthcare System "Clean base-load energy capital, major timber processing hub, >50% county tax base anchored by Hatch." View All Appling County Jobs Evans County County Seat: Claxton, GA Tier 1 Certified Median Income $53,908 Poverty Rate 14.7% Unemployment 3.2% Key Economic Anchors: • Claxton Poultry Farms • Evans Memorial Hospital • Georgia DOC Correctional Centers "Protein processing powerhouse (1,800+ local food supply chain jobs), independent critical-access hospital." View All Evans County Jobs Jeff Davis County County Seat: Hazlehurst, GA Tier 1 Certified Median Income $40,000 Poverty Rate 22.3% Unemployment 4.4% Key Economic Anchors: • Jeff Davis Municipal Utilities • Timber & Wood Products • Action Pact Regional Services "Forestry corridor, rail-connected manufacturing capacity, critical need for workforce technical upskilling." View All Jeff Davis County Jobs Tattnall County County Seat: Reidsville & Glennville, GA Tier 1 Certified Median Income $51,868 Poverty Rate 13.6% Unemployment 3.6% Key Economic Anchors: • Rogers State Prison Complex • Bland Farms & G&R Farms • Canoochee EMC & Rotary Corp "Epicenter of world-famous $150M+ Vidalia Onion agribusiness, major state institutional employer base." View All Tattnall County Jobs State-Funded Rural Career Ladders Under the Georgia HOPE Career Grant, tuition is #% free for Georgia residents enrolling in high-demand strategic workforce programs at Coastal Pines Technical College and Southeastern Technical College.
+Commercial Truck Driving (CDL-A) Tuition Free Coastal Pines (Baxley) & Southeastern Tech (Vidalia) Tuition Assistance: 100% Free Tuition via HOPE Career Grant Program Duration: 5 to 8 Weeks Target Starting Wage: $55,000 – $83,000/yr Explore Technical Program Details Industrial Systems & Electrical Technology Tuition Free Coastal Pines Tech (Baxley & Hazlehurst Campuses) Tuition Assistance: 100% Free Tuition via HOPE Career Grant Program Duration: 1 to 2 Years (Diploma/AAS) Target Starting Wage: $58,000 – $79,000/yr Explore Technical Program Details Practical Nursing (LPN) & Allied Health Tuition Free Southeastern Tech & Coastal Pines Tech Tuition Assistance: 100% Free Tuition via HOPE Career Grant Program Duration: 12 to 18 Months Target Starting Wage: $48,000 – $65,000/yr Explore Technical Program Details Welding & Precision Metal Fabrication Tuition Free Coastal Pines Tech & Southeastern Tech Tuition Assistance: 100% Free Tuition via HOPE Career Grant Program Duration: 6 to 12 Months (Cert / Diploma) Target Starting Wage: $45,000 – $68,000/yr Explore Technical Program Details Need Help Navigating Financial Aid or Local Training?
 The Georgia Department of Labor career centers in Hazlehurst and Vidalia provide direct assistance with WIOA grants, resume screening, and local technical college registration.
-Recommended Opportunities
-31
-Assistant Transportation Manager
-Child Enrichment Center Worker
-Cyber & Information Technology Instructor
-Electronics Technology Instructor
-Correctional Officer 1
-General Trades Tech 1
-Head Start Teacher Assistant
-Senior Care Unit Mental Health Technician / CNA
-Groundman / Floating Lineman Apprentice
-CDL-A Truck Driver - Regional & OTR
-Paraprofessional
-Substitute Teacher (ESS Education)
-CSM Correctional Officer 1
-Food Service Specialist 1
-General Trades Tech 2
-Assistant Store Manager
-Electrical PLC & Controls Supervisor
-Industrial Millwright - Night Shift
-Substitute Custodian
-Sales Team Member and Deli Associate
-CDL Driver Apprentice
-Nuclear Technician - Plant Hatch
-Radiation Protection Technician (RP Tech) - Plant Hatch
-Secretary - Central Office
-Environmental Health and Safety (EHS) Technician
-Quality Assurance & Food Safety Technician
-Registered Nurse (RN) – Med/Surg & Emergency
-Commercial Truck Driving (CDL) Adjunct Instructor
-Water & Wastewater Utility Specialist
-No Matching Positions Found
-We could not find any verified district listings matching your selected filters.
+Georgia DOL Portal All Industry Sectors Agriculture & Forestry Manufacturing & Processing Healthcare & Social Services Skilled Trades & Energy Education & Public Service Transportation & Logistics Retail & Small Business Reset Local Small Business Promise Hiring in District 157?
+Avoid corporate hiring paywalls and fees.
+Connect directly with hometown applicants for free.
+Post a Free Listing Filters Clear all Saved Jobs Only 0 District 157 County Appling County 9 Evans County 7 Jeff Davis County 3 Tattnall County 5 District-Wide 7 Working Schedule Full-Time Part-Time Apprenticeship Seasonal Will Train Minimum Compensation Floor All Wages $20+/hr ($41,600+/yr) $25+/hr ($52,000+/yr) $35+/hr ($72,800+/yr) Recommended Opportunities 31 Sort by: Recently Added County (A to Z) Highest Pay Lowest Pay Employer (A to Z) Sep 30, 2026 Logistics Save Dot Foods · #ago Assistant Transportation Manager Full-Time District-Wide Fleet Management Driver Recruiting & Retention $64,294 – $96,440/yr plus bonus opportunity Vidalia, GA Apply now Sep 30, 2026 Manufacturing Save Interfor · #ago Sawmill Production Team Full-Time Appling County Sawmill/Lumber Operations Forklift Operation $18.95 – $28.38/hr Baxley, GA Apply now Sep 30, 2026 Healthcare Save Southeastern Technical College · #ago Child Enrichment Center Worker Full-Time District-Wide Early Childhood Care Classroom Supervision $11.00 – $14.00/hr Swainsboro, GA Apply now Sep 30, 2026 Public Service Save Southeastern Technical College · #ago Cyber & Information Technology Instructor Full-Time District-Wide Cybersecurity Instruction Network Academy / Cisco Curriculum $65,000 – $75,000/yr Swainsboro, GA Apply now Sep 30, 2026 Public Service Save Southeastern Technical College · #ago Electronics Technology Instructor Full-Time District-Wide Electronics/Electrical Theory Instructional Design $55,000 – $78,000/yr Vidalia, GA Apply now Sep 30, 2026 Public Service Save Georgia Department of Corrections · #ago Correctional Officer 1 Full-Time Evans County Custody & Security Offender Supervision $45,806.00 – $53,347.82/yr Claxton, GA Apply now Sep 30, 2026 Energy & Trades Save Georgia Department of Corrections · #ago General Trades Tech 1 Full-Time Tattnall County Building Repairs & Maintenance HVAC / Plumbing / Carpentry $37,696.12 – $43,475.18/yr Glennville, GA Apply now Sep 21, 2026 Healthcare Save Action Pact Inc. · #ago Head Start Teacher Assistant Full-Time Jeff Davis County Early Childhood Education Trauma-Informed Care $10.52 – $16.59/hr Hazlehurst, GA Apply now Sep 21, 2026 Healthcare Save Appling Healthcare · #ago Senior Care Unit Mental Health Technician / CNA Full-Time Appling County Vital Sign Monitoring Crisis Prevention Intervention (CPI) $12.26 – $16.50/hr ($25,500 – $34,320/yr) Baxley, GA Apply now Sep 21, 2026 Healthcare Save Appling Healthcare · #ago Accountant Full-Time Appling County Healthcare Finance Regulatory Compliance $45,000 – $59,000/yr Baxley, GA Apply now Sep 21, 2026 Energy & Trades Save Canoochee EMC · #ago Groundman / Floating Lineman Apprentice Apprenticeship Tattnall County High Voltage Safety Utility Pole Maintenance $53,500 – $76,500/yr Reidsville, GA Apply now Sep 21, 2026 Logistics Save Dot Foods · #ago CDL-A Truck Driver - Regional & OTR Full-Time District-Wide Class A Commercial Driver's License (CDL-A) Cold Chain / Refrigerated Freight $1,600 – $2,250/wk ($83,200 – $117,000/yr) Vidalia, GA Apply now Sep 21, 2026 Public Service Save Evans County Schools · #ago Paraprofessional Full-Time Evans County Special Education Support Student Behavior Management $14.00 – $18.00/hr (Dependent on Certification) Claxton, GA Apply now Sep 21, 2026 Public Service Save Evans County Schools · #ago Substitute Teacher (ESS Education) Part-Time Evans County Classroom Management Curriculum Implementation $12.50 – $15.00/hr Claxton, GA Apply now Sep 21, 2026 Public Service Save Georgia Department of Corrections · #ago CSM Correctional Officer 1 Full-Time Tattnall County Georgia P.O.S.T.
+Certification Crisis Management $50,386 – $58,119/yr Glennville, GA Apply now Sep 21, 2026 Public Service Save Georgia Department of Corrections · #ago Food Service Specialist 1 Full-Time Evans County Bulk Food Preparation Inventory Management $34,930 – $43,475/yr Claxton, GA Apply now Sep 21, 2026 Energy & Trades Save Georgia Department of Corrections · #ago General Trades Tech 2 Full-Time Tattnall County Preventative Maintenance HVAC Repair $40,737/yr Glennville, GA Apply now Sep 21, 2026 Local Business Save Hibbett Retail, Inc. · #ago Assistant Store Manager Full-Time Appling County Retail Management Inventory Control $12.63 – $15.00/hr Baxley, GA Apply now Sep 21, 2026 Manufacturing Save Interfor · #ago Electrical PLC & Controls Supervisor Full-Time Appling County Programmable Logic Controllers (PLC) Industrial Electrical Maintenance $27.40 – $43.75/hr ($57,000 – $91,000/yr) Baxley, GA Apply now Sep 21, 2026 Manufacturing Save Interfor · #ago Industrial Millwright - Night Shift Full-Time Appling County Hydraulics & Pneumatics Welding (MIG/Stick) $28.36 – $39.55/hr ($59,000 – $82,264/yr) Baxley, GA Apply now Sep 21, 2026 Public Service Save Jeff Davis County Schools · #ago Substitute Custodian Part-Time Jeff Davis County Facility Maintenance Sanitation Standards $10.50 – $14.00/hr Hazlehurst, GA Apply now Sep 21, 2026 Local Business Save Jet Food Stores · #ago Sales Team Member and Deli Associate Part-Time Evans County Customer Service Point of Sale (POS) Systems $10.00 – $14.00/hr Claxton, GA Apply now Sep 21, 2026 Logistics Save Satilla REMC / Coastal Pines Technical College · #ago CDL Driver Apprentice Apprenticeship Appling County Heavy Equipment Operation CDL Training $19.47/hr Alma, GA Apply now Sep 21, 2026 Energy & Trades Save Southern Nuclear · #ago Nuclear Technician - Plant Hatch Full-Time Appling County Systems Diagnostics Plant Maintenance $28.30 – $38.33/hr ($58,800 – $79,700/yr) Baxley, GA Apply now Sep 21, 2026 Energy & Trades Save Southern Nuclear · #ago Radiation Protection Technician (RP Tech) - Plant Hatch Full-Time Appling County Health Physics Radiation Survey Instrumentation $46.15/hr ($96,000/yr) Baxley, GA Apply now Sep 21, 2026 Public Service Save Tattnall County Schools · #ago Secretary - Central Office Part-Time Tattnall County Clerical Administration Confidentiality / FERPA $14.00 – $18.00/hr Reidsville, GA Apply now Sep 21, 2026 Manufacturing Save Trane Technologies · #ago Environmental Health and Safety (EHS) Technician Full-Time District-Wide OSHA Compliance Hazardous Materials Handling $22.00 – $28.00/hr ($45,760 – $58,240/yr) Vidalia, GA Apply now Sep 16, 2026 Manufacturing Save Claxton Poultry Farms · #ago Quality Assurance & Food Safety Technician Full-Time Evans County HACCP Certification (Will Train) USDA Compliance Auditing $21.00 – $26.50/hr Claxton, GA Apply now Sep 14, 2026 Healthcare Save Evans Memorial Hospital · #ago Registered Nurse (RN) – Med/Surg & Emergency Full-Time Evans County GA RN License BLS / ACLS Certification $32.00 – $44.00/hr + $10,000 Sign-On Bonus Claxton, GA Apply now Sep 10, 2026 Public Service Save Southeastern Technical College · #ago Commercial Truck Driving (CDL) Adjunct Instructor Part-Time District-Wide Class A CDL License (Valid 3+ Yrs) Clean MVR $30.00 – $38.00/hr Vidalia / Glennville, GA Apply now Sep 9, 2026 Energy & Trades Save City of Hazlehurst Public Works · #ago Water & Wastewater Utility Specialist Full-Time Jeff Davis County GA Class III Water/Wastewater Operator (Will Train) Heavy Equipment / Backhoe Operation $20.00 – $27.00/hr ($41,600 – $56,160/yr) Hazlehurst, GA Apply now No Matching Positions Found We could not find any verified district listings matching your selected filters.
 Try broadening your county, wage, or schedule selections.
-Need Reliable Local Talent in District 157?
+Clear All Filters For Local Employers & Small Businesses Need Reliable Local Talent in District 157?
 Corporate hiring platforms charge steep fees or bury hometown businesses beneath national algorithms.
 As part of our commitment to local economic development, employers across Appling, Evans, Jeff Davis, and Tattnall can post open positions here 100% free of charge.
-Education & Career Partners
-Building local careers requires strong technical training, apprenticeships, and direct employer partnerships.
-Explore our regional workforce resources below:
-Southeastern Technical College
-Campuses in Vidalia and Glennville offering high-demand career certificates, HOPE Career Grants (tuition-free programs), and apprenticeship tracks in nuclear tech, welding, nursing, and commercial trucking.
-Visit Southeastern Tech
-WorkSource Heart of Georgia
-Federal WIOA workforce programs providing career counseling, on-the-job training wage subsidies for employers, and funding for credentials across Appling, Evans, Jeff Davis, and Tattnall counties.
-Explore WIOA Programs
-Georgia Dept. of Labor (Vidalia)
-Regional career center (206 Queen St, Vidalia) providing workforce services, veteran employment assistance, and state job registration for District 157 residents.
-Georgia DOL Portal
-Public Service Clearinghouse & Privacy Guarantee (O.C.G.A. § 21-5-33)
-Non-Endorsement Policy: The District 157 Opportunity Board is provided solely as a free constituent service by the Micah King for State House campaign to connect local workers with employment opportunities.
+Post a Position Takes less than 2 minutes • 100% Free Regional Workforce Ecosystem Education & Career Partners Building local careers requires strong technical training, apprenticeships, and direct employer partnerships.
+Explore our regional workforce resources below: Southeastern Technical College Campuses in Vidalia and Glennville offering high-demand career certificates, HOPE Career Grants (tuition-free programs), and apprenticeship tracks in nuclear tech, welding, nursing, and commercial trucking.
+Visit Southeastern Tech WorkSource Heart of Georgia Federal WIOA workforce programs providing career counseling, on-the-job training wage subsidies for employers, and funding for credentials across Appling, Evans, Jeff Davis, and Tattnall counties.
+Explore WIOA Programs Georgia Dept. of Labor (Vidalia) Regional career center (206 Queen St, Vidalia) providing workforce services, veteran employment assistance, and state job registration for District 157 residents.
+Georgia DOL Portal Public Service Clearinghouse & Privacy Guarantee (O.C.G.A. § 21-5-33) Non-Endorsement Policy: The District 157 Opportunity Board is provided solely as a free constituent service by the Micah King for State House campaign to connect local workers with employment opportunities.
 Inclusion of an employer or job opening does not constitute an endorsement by the campaign, nor does employer participation constitute an endorsement of Micah King.
 Data Privacy Firewall: Contact information provided by employers or applicants through this platform is used solely for workforce matching and is never added to political fundraising lists, phone banks, or voter targeting databases.
+115 W.
+Barnard St, Glennville, GA 30427 (470) 632 - 5651 Text Us info@votega157.com Paid for by the Committee to Elect Micah King © # Micah King for GA State House.
+All rights reserved.
+Opportunity Board | Get Involved | Contact Us | Privacy Policy | Terms of Service | Sitemap Digital Capital deployed by ♿️ Mercury Media Partners Help Micah protect District 157.
+Every dollar helps us reach one more neighbor. $25 $50 $100 $250 Fund the Fight Accessibility Options High Contrast Enhance text & color readability Highlight Links Underline all clickable links Pause Motion Stop all moving animations Reset All Settings Digital Stewardship ♿️ by Mercury Media Partners

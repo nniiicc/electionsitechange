@@ -1,25 +1,122 @@
 [
-"https://census.gov/mycd?st=17&cd=13",
-"https://elections.il.gov/InformationForVoters.aspx?MID=I0cuvBFuZRw%3D",
-"https://facebook.com/profile.php?id=61573386374455",
-"https://instagram.com/wilsonforcongress",
-"https://ova.elections.il.gov/RegistrationClosed.aspx",
-"https://ova.elections.il.gov/registrationlookup.aspx",
-"https://secure.anedot.com/wilson-for-congress/donate?exitIntent=true",
-"https://secure.winred.com/wilson-for-congress/donate",
-"https://secure.winred.com/wilson-for-congress/donate?amount=10",
-"https://secure.winred.com/wilson-for-congress/donate?amount=100",
-"https://secure.winred.com/wilson-for-congress/donate?amount=25",
-"https://secure.winred.com/wilson-for-congress/donate?amount=250",
-"https://secure.winred.com/wilson-for-congress/donate?amount=50",
-"https://wilsonforcongress.com/",
-"https://wilsonforcongress.com/about",
-"https://wilsonforcongress.com/about-il13",
-"https://wilsonforcongress.com/contact",
-"https://wilsonforcongress.com/event-list",
-"https://wilsonforcongress.com/issues",
-"https://wilsonforcongress.com/news",
-"https://wilsonforcongress.com/privacy-policy",
-"https://wilsonforcongress.com/tandc",
-"https://x.com/WilsonforIL13"
+{
+"text": "$10",
+"href": "https://secure.winred.com/wilson-for-congress/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/wilson-for-congress/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/wilson-for-congress/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/wilson-for-congress/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/wilson-for-congress/donate?amount=50"
+},
+{
+"text": "CONTACT",
+"href": "https://www.wilsonforcongress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/wilson-for-congress/donate"
+},
+{
+"text": "DONATE NOW TO HELP ELECT JEFF WILSON",
+"href": "https://secure.winred.com/wilson-for-congress/donate"
+},
+{
+"text": "DONATE ON ANEDOT",
+"href": "https://secure.anedot.com/wilson-for-congress/donate?exitIntent=true"
+},
+{
+"text": "DONATE ON WINRED",
+"href": "https://secure.winred.com/wilson-for-congress/donate"
+},
+{
+"text": "District Data Tool",
+"href": "https://www.census.gov/mycd/?st=17&cd=13"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.wilsonforcongress.com/about-il13"
+},
+{
+"text": "EVENTS",
+"href": "https://www.wilsonforcongress.com/event-list"
+},
+{
+"text": "HOME",
+"href": "https://www.wilsonforcongress.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.wilsonforcongress.com/issues"
+},
+{
+"text": "Important Voter Information",
+"href": "https://www.elections.il.gov/InformationForVoters.aspx?MID=I0cuvBFuZRw%3D"
+},
+{
+"text": "JOIN",
+"href": "https://www.wilsonforcongress.com"
+},
+{
+"text": "JOIN TEAM WILSON",
+"href": "https://www.wilsonforcongress.com"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.wilsonforcongress.com/issues"
+},
+{
+"text": "MEET JEFF",
+"href": "https://www.wilsonforcongress.com/about"
+},
+{
+"text": "NEWS",
+"href": "https://www.wilsonforcongress.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.wilsonforcongress.com/privacy-policy"
+},
+{
+"text": "READ MORE",
+"href": "https://www.wilsonforcongress.com/about"
+},
+{
+"text": "Register to Vote",
+"href": "https://ova.elections.il.gov/RegistrationClosed.aspx"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.wilsonforcongress.com/tandc"
+},
+{
+"text": "Terms & Conditions.",
+"href": "https://www.wilsonforcongress.com/tandc"
+},
+{
+"text": "Voter Registration Look Up",
+"href": "https://ova.elections.il.gov/registrationlookup.aspx"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61573386374455"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wilsonforcongress"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/WilsonforIL13"
+}
 ]

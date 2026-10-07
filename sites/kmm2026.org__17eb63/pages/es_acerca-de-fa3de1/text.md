@@ -1,4 +1,4 @@
-Me presento a las elecciones de 2026 como candidato del Partido Verde para Vicegobernador de Texas.
+A Texan in the 21st Century { Kevin McCormick for Lieutenent Governor; this website is political advertising } Principal Campaña 2026 Problemas - 2026 Acerca de Está aquí: Inicio Acerca de Acerca de Detalles Me presento a las elecciones de 2026 como candidato del Partido Verde para Vicegobernador de Texas.
 Recibí mi título de Doctor en Jurisprudencia en el Centro de Derecho de la Universidad de Houston en 1986.
 Más recientemente, fui profesor de matemáticas de secundaria en la Escuela Secundaria Jefferson en San Antonio.
 Dejé ese puesto para mudarme al área de Lindale, en el este de Texas, donde mi esposa y yo vivimos actualmente.
@@ -18,14 +18,14 @@ No debería sorprender que pocas personas comprendan con precisión el sistema m
 El flujo de información controlado por los medios deja este tema completamente sin mencionar y lo trata como un asunto económico cuando, de hecho, es una elección política.
 La elección es si vivimos bajo el Sistema de la Reserva Federal, sirviendo al beneficio privado y a una realeza corporativa, o un Sistema de Dinero Público, sirviendo al interés público y a una sociedad ilustrada.
 Baste decir que no podemos tener una democracia genuina a menos que el sistema monetario esté bajo control público democrático.
-Acacia farnesiana, más conocida como el árbol de huisache, es un pequeño árbol espinoso que probablemente es nativo de las regiones más áridas de América Central y el suroeste de los Estados Unidos.
+Acacia farnesiana , más conocida como el árbol de huisache, es un pequeño árbol espinoso que probablemente es nativo de las regiones más áridas de América Central y el suroeste de los Estados Unidos.
 Tiende a brotar en múltiples troncos delgados que tienen espinas bastante largas y afiladas.
 Toma más forma de árbol a medida que madura y puede ser podado para obtener una forma atractiva.
 Tiene flores de color amarillo naranja en la primavera y produce vainas de semillas, como es característico de la familia de las leguminosas.
-Obtenga más información en el Centro de Flores Silvestres Lady Bird Johnson, donde se le conoce como vachellia farnesiana.
+Obtenga más información en el Centro de Flores Silvestres Lady Bird Johnson , donde se le conoce como vachellia farnesiana .
 Elegí esta mascota porque siento que es representativa del futuro probable para un tejano en el siglo XXI.
-Consideré seriamente elegir el árbol de mezquite dulce, ya que se considera más atractivo y útil, pero el nombre científico, prosopis glandulosa, simplemente no funciona como título de un sitio web.
-Ahora que vivo en el este de Texas, la idea del pino de hoja corta, pinus echinata, se ha vuelto más atractiva.
+Consideré seriamente elegir el árbol de mezquite dulce , ya que se considera más atractivo y útil, pero el nombre científico, prosopis glandulosa , simplemente no funciona como título de un sitio web.
+Ahora que vivo en el este de Texas, la idea del pino de hoja corta , pinus echinata , se ha vuelto más atractiva.
 Texas se está convirtiendo cada vez más en una colonia de estacionamientos de Wall Street.
 Tengo una fascinación morbosa con los métodos y memes de esta progresión, y un fuerte deseo de encontrar otro camino.
 La clase dominante señala con orgullo los enormes monumentos de las autopistas y las anchas franjas de hormigón, mientras oculta los costes y finge estar desconcertada por el aumento de los impuestos.
@@ -34,7 +34,7 @@ El control de los combustibles fósiles y del cártel bancario es fuerte, pero s
 Quizás haya un atasco de tráfico enormemente grande que finalmente nos haga darnos cuenta de que podríamos hacerlo mejor.
 También estoy muy interesado en las prácticas agrícolas de Texas.
 El sector agrícola es un importante consumidor de productos químicos que han encontrado su camino hacia todo lo que tocamos, comemos o bebemos.
-A medida que avanza el calentamiento global, el sector agrícola en Texas enfrenta mayores dificultades.
+A medida que avanza el calentamiento global, el sector agrícola en Texas enfrenta mayores dificultades .
 No estoy seguro de cuándo ocurrió la última buena cosecha.
 Parece que o está demasiado inundado, o demasiado seco, o hace demasiado calor para las condiciones óptimas de productos modificados genéticamente y rociados con químicos.
 He descubierto que la información no está disponible en su mayor parte, lo que ha dificultado la exploración de este tema tan importante.
@@ -42,5 +42,12 @@ Se nos dice que el coste de la adaptación climática es demasiado alto, pero ¿
 La proclamación de desastre por sequía ha sido renovada por cuarto año consecutivo.
 El incendio Smokehouse Creek de 2024 fue el más grande registrado en la historia de Texas.
 Y luego está la recuperación aún en curso del huracán Harvey (archivo PDF de 15,8 MB). ¿Se recuperará alguna vez Houston, o simplemente habrá zonas de sacrificio no mencionadas?
-Si desea ser voluntario para ayudar en mi campaña, póngase en contacto a través del Formulario de contacto.
-Saludos
+Si desea ser voluntario para ayudar en mi campaña, póngase en contacto a través del Formulario de contacto .
+Saludos Apoya la Campaña Dona ahora Mi Tarjetas Contacto Texas Tribune RSS Independent news.
+Trusted by Texans.
+Texas comptroller investigating spending in Austin ISD, other districts Texas governor 2026: Who is running and what to know U.S.
+Right to Know RSS Pursuing truth and transparency for public health FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Hormone-disrupting chemical mixtures linked to excess childhood weight FOI documents on origins of Covid-19, gain-of-function research and biolabs Green Social Thought RSS Produce less.
+Distribute it fairly.
+Create a greener world for all.
+U.S.
+Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade Reflections on academic tenure prompted by events at The New School Reporting Texas RSS News and features from UT-Austin's School of Journalism Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica EnvironmentAmerica -- Texas RSS RELEASE: Gas power plant proposals surging, new interactive map shows Data center moratorium now Texas Farm Bureau RSS Trump signs order that expands access to tax-exempt diesel Students discuss ag issues during 2026 SOFA Challenge Farmers call for federal diesel price relief

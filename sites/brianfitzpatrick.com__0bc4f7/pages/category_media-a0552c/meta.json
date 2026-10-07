@@ -1,9 +1,12 @@
 {
  "description": "Latest News Read our latest press releases and news stories",
  "final_url": "https://www.brianfitzpatrick.com/category/media/",
+ "fingerprint": "998582eddf5144f72f460e912b0492aede0369da",
+ "format": 3,
  "paid_for_by": "Paid for by Brian Fitzpatrick for All of Us Privacy Policy Terms and Conditions PO Box 939 Langhorne, PA 19047 info@brianfitzpatrick",
  "title": "Media - Brian Fitzpatrick For Congress",
  "years_mentioned": [
+  "2020",
   "2026"
  ]
 }

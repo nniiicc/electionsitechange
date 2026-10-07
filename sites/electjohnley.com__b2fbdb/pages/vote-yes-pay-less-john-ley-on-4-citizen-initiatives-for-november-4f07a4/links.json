@@ -1,38 +1,178 @@
 [
-"http://electjohnley.com/",
-"https://electjohnley.com/",
-"https://electjohnley.com/about-me",
-"https://electjohnley.com/author/john-ley",
-"https://electjohnley.com/category/60-seconds-with-john-ley",
-"https://electjohnley.com/category/campaign",
-"https://electjohnley.com/category/issues",
-"https://electjohnley.com/category/solutions",
-"https://electjohnley.com/elected-officials-should-protect-southwest-washington-taxpayers",
-"https://electjohnley.com/john-ley-urges-rtc-board-to-rescind-approval-of-ibrs-2-billion-light-rail-plan",
-"https://electjohnley.com/news",
-"https://electjohnley.com/tag/affordable-energy",
-"https://electjohnley.com/tag/conservative-leadership",
-"https://electjohnley.com/tag/diesel-fuel-tax",
-"https://electjohnley.com/tag/electjohnley-com",
-"https://electjohnley.com/tag/energy-policy",
-"https://electjohnley.com/tag/fiscal-responsibility",
-"https://electjohnley.com/tag/gas-prices",
-"https://electjohnley.com/tag/income-tax-repeal",
-"https://electjohnley.com/tag/john-ley-campaign",
-"https://electjohnley.com/tag/long-term-care-plan",
-"https://electjohnley.com/tag/lower-taxes",
-"https://electjohnley.com/tag/natural-gas-access",
-"https://electjohnley.com/tag/november-2024-election",
-"https://electjohnley.com/tag/personal-freedom",
-"https://electjohnley.com/tag/tax-relief",
-"https://electjohnley.com/tag/voter-initiatives",
-"https://electjohnley.com/tag/washington-state-election",
-"https://facebook.com/ElectJohnLey",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectjohnley.com%2Fvote-yes-pay-less-john-ley-on-4-citizen-initiatives-for-november%2F",
-"https://instagram.com/electjohnley",
-"https://linkedin.com/shareArticle?url=https%3A%2F%2Felectjohnley.com%2Fvote-yes-pay-less-john-ley-on-4-citizen-initiatives-for-november%2F",
-"https://secure.anedot.com/friends-to-elect-john-ley/donate",
-"https://twitter.com/LeyElect",
-"https://twitter.com/intent/tweet?text=https%3A%2F%2Felectjohnley.com%2Fvote-yes-pay-less-john-ley-on-4-citizen-initiatives-for-november%2F",
-"https://youtube.com/channel/UCwT7tSqPd386hR6PDfzpc5Q"
+{
+"text": "60 Seconds With John Ley",
+"href": "https://electjohnley.com/category/60-seconds-with-john-ley/"
+},
+{
+"text": "About Me",
+"href": "https://electjohnley.com/about-me/"
+},
+{
+"text": "Campaign",
+"href": "https://electjohnley.com/category/campaign/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-to-elect-john-ley/donate"
+},
+{
+"text": "ElectJohnLey.com",
+"href": "https://electjohnley.com/tag/electjohnley-com/"
+},
+{
+"text": "Home",
+"href": "https://electjohnley.com/"
+},
+{
+"text": "Issues",
+"href": "https://electjohnley.com/category/issues/"
+},
+{
+"text": "John Ley campaign",
+"href": "https://electjohnley.com/tag/john-ley-campaign/"
+},
+{
+"text": "Latest News",
+"href": "https://electjohnley.com/news/"
+},
+{
+"text": "November 2024 election",
+"href": "https://electjohnley.com/tag/november-2024-election/"
+},
+{
+"text": "Solutions",
+"href": "https://electjohnley.com/category/solutions/"
+},
+{
+"text": "Washington State election",
+"href": "https://electjohnley.com/tag/washington-state-election/"
+},
+{
+"text": "[image: Elect John Ley][image: Elect John Ley]",
+"href": "https://electjohnley.com/"
+},
+{
+"text": "[image: https://electjohnley.com/wp-content/uploads/2022/05/JLlogo_white-1.png]",
+"href": "https://electjohnley.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/LeyElect"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectJohnLey"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electjohnley/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCwT7tSqPd386hR6PDfzpc5Q"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectjohnley.com%2Fvote-yes-pay-less-john-ley-on-4-citizen-initiatives-for-november%2F"
+},
+{
+"text": "[tooltip: Share on Linkedin]",
+"href": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Felectjohnley.com%2Fvote-yes-pay-less-john-ley-on-4-citizen-initiatives-for-november%2F"
+},
+{
+"text": "[tooltip: Share on Twitter]",
+"href": "https://twitter.com/intent/tweet?text=https%3A%2F%2Felectjohnley.com%2Fvote-yes-pay-less-john-ley-on-4-citizen-initiatives-for-november%2F"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://twitter.com/LeyElect"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/ElectJohnLey"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/electjohnley/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.youtube.com/channel/UCwT7tSqPd386hR6PDfzpc5Q"
+},
+{
+"text": "[tooltip: ]",
+"href": "mailto:electjohnley@gmail.com"
+},
+{
+"text": "affordable energy",
+"href": "https://electjohnley.com/tag/affordable-energy/"
+},
+{
+"text": "by John Ley",
+"href": "http://electjohnley.com"
+},
+{
+"text": "by John Ley",
+"href": "https://electjohnley.com/author/john-ley/"
+},
+{
+"text": "conservative leadership",
+"href": "https://electjohnley.com/tag/conservative-leadership/"
+},
+{
+"text": "diesel fuel tax",
+"href": "https://electjohnley.com/tag/diesel-fuel-tax/"
+},
+{
+"text": "electjohnley@gmail.com",
+"href": "mailto:electjohnley@gmail.com"
+},
+{
+"text": "energy policy",
+"href": "https://electjohnley.com/tag/energy-policy/"
+},
+{
+"text": "fiscal responsibility",
+"href": "https://electjohnley.com/tag/fiscal-responsibility/"
+},
+{
+"text": "gas prices",
+"href": "https://electjohnley.com/tag/gas-prices/"
+},
+{
+"text": "income tax repeal",
+"href": "https://electjohnley.com/tag/income-tax-repeal/"
+},
+{
+"text": "long-term care plan",
+"href": "https://electjohnley.com/tag/long-term-care-plan/"
+},
+{
+"text": "lower taxes",
+"href": "https://electjohnley.com/tag/lower-taxes/"
+},
+{
+"text": "natural gas access",
+"href": "https://electjohnley.com/tag/natural-gas-access/"
+},
+{
+"text": "next Elected officials should protect Southwest Washington taxpayers",
+"href": "https://electjohnley.com/elected-officials-should-protect-southwest-washington-taxpayers/"
+},
+{
+"text": "personal freedom",
+"href": "https://electjohnley.com/tag/personal-freedom/"
+},
+{
+"text": "previous John Ley Urges RTC Board to Rescind Approval of IBR’s $2 Billion Light Rail Plan",
+"href": "https://electjohnley.com/john-ley-urges-rtc-board-to-rescind-approval-of-ibrs-2-billion-light-rail-plan/"
+},
+{
+"text": "tax relief",
+"href": "https://electjohnley.com/tag/tax-relief/"
+},
+{
+"text": "voter initiatives",
+"href": "https://electjohnley.com/tag/voter-initiatives/"
+}
 ]

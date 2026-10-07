@@ -1,40 +1,15 @@
-Putting Students & Parents First
-As an educator, Patsy Carvalho has firsthand experience with the challenges facing today’s classrooms.
+top of page HOME ABOUT PLATFORM VOLUNTEER CONTACT Putting Students & Parents First As an educator, Patsy Carvalho has firsthand experience with the challenges facing today’s classrooms.
 She has seen where the system falls short—students lacking support, teachers stretched thin, and families too often excluded from important decisions.
-Her focus:
-- Increasing accountability and transparency in schools
-- Supporting teachers with meaningful, practical resources
-- Prioritizing student achievement over bureaucracy
-- Strengthening parental involvement and local decision-making
-Strengthening the Economy & Supporting Working Families
-Patsy Carvalho understands that families across Nevada are feeling the strain of rising costs—from groceries to gas to housing.
+Her focus: Increasing accountability and transparency in schools Supporting teachers with meaningful, practical resources Prioritizing student achievement over bureaucracy Strengthening parental involvement and local decision-making Strengthening the Economy & Supporting Working Families ​Patsy Carvalho understands that families across Nevada are feeling the strain of rising costs—from groceries to gas to housing.
 She is committed to advancing policies that support working families and create real economic opportunity.
-Her focus:
-- Supporting policies that strengthen working families
-- Reducing unnecessary financial burdens and government waste
-- Promoting responsible, transparent budgeting
-- Encouraging economic growth and opportunity
-Promoting Public Safety & Addressing Homelessness
-The growing homelessness crisis continues to impact communities across Nevada.
+Her focus: Supporting policies that strengthen working families Reducing unnecessary financial burdens and government waste Promoting responsible, transparent budgeting Encouraging economic growth and opportunity ​Promoting Public Safety & Addressing Homelessness The growing homelessness crisis continues to impact communities across Nevada.
 Patsy Carvalho believes solutions must be both compassionate and effective, while ensuring neighborhoods remain safe and stable.
-Her focus:
-- Ensuring accountability in how public resources are used
-- Implementing long-term, results-driven solutions
-- Supporting programs that promote stability and self-sufficiency
-- Maintaining safe, clean communities for families and businesses
-Expanding Access to Affordable Healthcare
-Patsy Carvalho believes that access to quality, affordable healthcare should not be out of reach for families.
+Her focus: Ensuring accountability in how public resources are used Implementing long-term, results-driven solutions Supporting programs that promote stability and self-sufficiency Maintaining safe, clean communities for families and businesses Expanding Access to Affordable Healthcare ​Patsy Carvalho believes that access to quality, affordable healthcare should not be out of reach for families.
 She supports practical solutions that reduce barriers and improve access to care.
-Her focus:
-- Improving access to affordable healthcare
-- Supporting community-based healthcare solutions
-- Reducing unnecessary barriers and red tape
-- Protecting families and seniors who rely on consistent care
-Higher Education Accountability
-Patsy Carvalho believes that higher education institutions must operate with transparency, fairness, and accountability.
+Her focus: Improving access to affordable healthcare Supporting community-based healthcare solutions Reducing unnecessary barriers and red tape Protecting families and seniors who rely on consistent care Higher Education Accountability ​ Patsy Carvalho believes that higher education institutions must operate with transparency, fairness, and accountability.
 Students and staff deserve systems that promote opportunity and trust.
-Her focus:
-- Increasing transparency in leadership and decision-making
-- Ensuring equal opportunity for students and staff
-- Addressing systemic challenges that limit fairness
-- Strengthening trust between institutions and the community
+Her focus: Increasing transparency in leadership and decision-making Ensuring equal opportunity for students and staff Addressing systemic challenges that limit fairness Strengthening trust between institutions and the community ABOUT Patsy Carvalho is a proud Nevada native, educator, and leader who works closely with students and families every day, giving her firsthand insight into the challenges facing her community and where systems need improvement.
+Through her work in education and service in her church, she is committed to strengthening families, improving schools, and addressing key issues like the cost of living, homelessness, and access to quality healthcare.
+MORE INFO HOME ABOUT PLATFORM VOLUNTEER CONTACT CONTACT Patsy Carvalho 702.502.1275 ​ Carvalho4Nevada@gmail.com ​ VOLUNTEER Copyright © #.
+All Rights Reserved.
+Paid for by Friends for Patsy Carvalho bottom of page

@@ -1,5 +1,4 @@
-Equality, Safety, and Respect for Every Arizonan
-As Governor, I will govern for every Arizonan.
+0 Skip to Content Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Teri's Plans & Policies Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today DONATE HERE Open Menu Close Menu Open Menu Close Menu DONATE HERE Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Teri's Plans & Policies Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Folder: Teri's Plans & Policies Back Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Folder: Community Connection Back Advocacy Community Engagements Shop Products Folder: Other Topics Back Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact Folder: About Teri Ann Back About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today DONATE HERE Equality, Safety, and Respect for Every Arizonan As Governor, I will govern for every Arizonan.
 I believe that every person deserves dignity, respect, equal treatment under the law, and protection from discrimination, harassment, and violence.
 My administration will work to ensure that all people—regardless of their background, beliefs, race, religion, sex, sexual orientation, or gender identity—are treated fairly and have the opportunity to succeed.
 I also believe that public policy should seek practical solutions that protect the rights, safety, and concerns of all groups.
@@ -16,18 +15,15 @@ As Governor, I will focus on policies that unite our communities, protect indivi
 We do not have to choose between fairness and compassion.
 We can have both.
 My administration will work every day to build an Arizona where every resident is valued, protected, and given the opportunity to succeed.
-Democracy Works Best When the People Decide
-Teri Ann Hourihan for AZ Governor.
+Democracy Works Best When the People Decide Teri Ann Hourihan for AZ Governor.
 A lawsuit has been filed seeking to remove several Arizona legislative referrals from the November ballot.
 According to the article, advocacy groups argue the measures violate Arizona’s constitutional requirements because they combine multiple issues into single ballot questions and use titles they believe are misleading.
 Republican lawmakers disagree and intend to defend the referrals in court.
-(AZ Mirror￼) My view is that, whenever possible, voters—not courts or special interest groups—should have the opportunity to decide important public policy questions at the ballot box.
+(AZ Mirror⁠￼) My view is that, whenever possible, voters—not courts or special interest groups—should have the opportunity to decide important public policy questions at the ballot box.
 If a measure is legally valid, the people should be trusted to vote for or against it themselves.
 I also believe equality should mean equal treatment for everyone.
 Protecting one group should not come at the expense of another.
-Equal rights should apply equally to all people, including heterosexual individuals, just as they apply to LGBTQ+ indivi
-Faith, Freedom & Religious Liberty
-I am a Christian, and my faith is an important part of who I am and how I strive to live and lead.
+Equal rights should apply equally to all people, including heterosexual individuals, just as they apply to LGBTQ+ indivi Faith, Freedom & Religious Liberty I am a Christian, and my faith is an important part of who I am and how I strive to live and lead.
 But as Governor of Arizona, my responsibility will be to serve every Arizonan—regardless of their faith, denomination, beliefs, or decision not to practice a religion at all.
 Freedom of religion means more than protecting the beliefs we personally share.
 It means protecting the constitutional right of every person to worship, believe, pray, and express their faith according to their own conscience—or to choose not to participate in religion.
@@ -36,3 +32,4 @@ I will defend the freedom of Christians to openly practice their faith while equ
 My faith guides me.
 The Constitution guides my responsibility as Governor.
 Freedom belongs to everyone.
+Teri Ann Hourihan for Arizona Governor Email Teri@teriann4azgov.org Phone/Text 520-633-1234

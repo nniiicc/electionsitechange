@@ -1,11 +1,42 @@
 [
-"http://wix.com/",
-"https://facebook.com/thomaskutzpa",
-"https://instagram.com/thomaskutzpa",
-"https://secure.winred.com/thomaskutz/donate",
-"https://thomaskutz.com/",
-"https://thomaskutz.com/join",
-"https://thomaskutz.com/news",
-"https://thomaskutz.com/thomas",
-"https://twitter.com/thkutz"
+{
+"text": "CONNECT@THOMASKUTZ.COM",
+"href": "mailto:CONNECT@THOMASKUTZ.COM"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/thomaskutz/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.thomaskutz.com"
+},
+{
+"text": "JOIN",
+"href": "https://www.thomaskutz.com/join"
+},
+{
+"text": "NEWS",
+"href": "https://www.thomaskutz.com/news"
+},
+{
+"text": "THOMAS",
+"href": "https://www.thomaskutz.com/thomas"
+},
+{
+"text": "[image: Black Instagram Icon]",
+"href": "https://instagram.com/thomaskutzpa"
+},
+{
+"text": "[image: X]",
+"href": "https://twitter.com/thkutz"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/thomaskutzpa"
+},
+{
+"text": "[no text]",
+"href": "http://wix.com"
+}
 ]

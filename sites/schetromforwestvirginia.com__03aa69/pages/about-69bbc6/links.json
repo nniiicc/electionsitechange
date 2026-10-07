@@ -1,8 +1,38 @@
 [
-"http:///",
-"https://schetromforwestvirginia.com/",
-"https://schetromforwestvirginia.com/about",
-"https://schetromforwestvirginia.com/contact",
-"https://schetromforwestvirginia.com/our-news",
-"https://secure.winred.com/steven-schetrom-for-wv-house-of-delegates/donate-today"
+{
+"text": "ABOUT US",
+"href": "https://www.schetromforwestvirginia.com/about"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.schetromforwestvirginia.com/contact"
+},
+{
+"text": "DONATIONS ACCEPTED!",
+"href": "http://"
+},
+{
+"text": "DONATIONS ACCEPTED!",
+"href": "https://secure.winred.com/steven-schetrom-for-wv-house-of-delegates/donate-today"
+},
+{
+"text": "HOME",
+"href": "https://www.schetromforwestvirginia.com/"
+},
+{
+"text": "OUR NEWS",
+"href": "https://www.schetromforwestvirginia.com/our-news"
+},
+{
+"text": "WATCH VIDEO",
+"href": "http://"
+},
+{
+"text": "[image]",
+"href": "https://www.schetromforwestvirginia.com/"
+},
+{
+"text": "[no text]",
+"href": "mailto:steven@schetromforwestvirginia.com"
+}
 ]

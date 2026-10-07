@@ -1,12 +1,46 @@
 [
-"https://biancavirnig.com/",
-"https://biancavirnig.com/accessibility",
-"https://biancavirnig.com/contact-8",
-"https://biancavirnig.com/copy-of-how-to-vote",
-"https://biancavirnig.com/endorsements",
-"https://biancavirnig.com/get-involved",
-"https://biancavirnig.com/privacy-policy",
-"https://facebook.com/profile.php?id=61550611067374",
-"https://instagram.com/biancavirnig",
-"https://secure.actblue.com/donate/2024virnigbasicform"
+{
+"text": "Accessibility Statement",
+"href": "https://www.biancavirnig.com/accessibility"
+},
+{
+"text": "Contact",
+"href": "https://www.biancavirnig.com/contact-8"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/2024virnigbasicform"
+},
+{
+"text": "Endorsements",
+"href": "https://www.biancavirnig.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.biancavirnig.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.biancavirnig.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.biancavirnig.com/privacy-policy"
+},
+{
+"text": "Vote",
+"href": "https://www.biancavirnig.com/copy-of-how-to-vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61550611067374"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/biancavirnig/"
+},
+{
+"text": "biancaforhouse@gmail.com",
+"href": "mailto:biancaforhouse@gmail.com"
+}
 ]

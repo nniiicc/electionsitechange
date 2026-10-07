@@ -1,26 +1,122 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=The+Hope+Event&dates=20250816T230000Z%2F20250817T020000Z",
-"https://arthodgesforsenate.com/",
-"https://arthodgesforsenate.com/250club",
-"https://arthodgesforsenate.com/about-art",
-"https://arthodgesforsenate.com/candidate-comparison",
-"https://arthodgesforsenate.com/cart",
-"https://arthodgesforsenate.com/contact",
-"https://arthodgesforsenate.com/district-map",
-"https://arthodgesforsenate.com/endorsements",
-"https://arthodgesforsenate.com/events",
-"https://arthodgesforsenate.com/events/0qc3x2ysfyzbu5j58b5nm4ck75cvt1",
-"https://arthodgesforsenate.com/events/event-one-26tme?format=ical",
-"https://arthodgesforsenate.com/events/national-apostolic-christian-leadership-conference",
-"https://arthodgesforsenate.com/gallery",
-"https://arthodgesforsenate.com/media",
-"https://arthodgesforsenate.com/meet-art",
-"https://arthodgesforsenate.com/news",
-"https://arthodgesforsenate.com/priorities",
-"https://arthodgesforsenate.com/privacy-policy",
-"https://facebook.com/ArtHodgesForSenate",
-"https://instagram.com/arthodgesforsenate",
-"https://secure.anedot.com/art-hodges-for-senate-2026/arthodges",
-"https://tiktok.com/@arthodgesforsenate",
-"https://x.com/arthodgesforsenate"
+{
+"text": "0",
+"href": "https://www.arthodgesforsenate.com/cart"
+},
+{
+"text": "250 Club",
+"href": "https://www.arthodgesforsenate.com/250club"
+},
+{
+"text": "About Art",
+"href": "https://www.arthodgesforsenate.com/about-art"
+},
+{
+"text": "Back",
+"href": "https://www.arthodgesforsenate.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.arthodgesforsenate.com/events"
+},
+{
+"text": "CALIFORNIA ISSUES",
+"href": "https://www.arthodgesforsenate.com/priorities"
+},
+{
+"text": "CONNECT WITH US",
+"href": "https://www.arthodgesforsenate.com/contact"
+},
+{
+"text": "Candidate Comparison",
+"href": "https://www.arthodgesforsenate.com/candidate-comparison"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/art-hodges-for-senate-2026/arthodges"
+},
+{
+"text": "District Map",
+"href": "https://www.arthodgesforsenate.com/district-map"
+},
+{
+"text": "Endorsements",
+"href": "https://www.arthodgesforsenate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.arthodgesforsenate.com/events"
+},
+{
+"text": "Folder: Media",
+"href": "https://www.arthodgesforsenate.com/media"
+},
+{
+"text": "Folder: Meet Art",
+"href": "https://www.arthodgesforsenate.com/meet-art"
+},
+{
+"text": "Get Involved",
+"href": "https://www.arthodgesforsenate.com/contact"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=The+Hope+Event&dates=20250816T230000Z%2F20250817T020000Z"
+},
+{
+"text": "Home",
+"href": "https://www.arthodgesforsenate.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.arthodgesforsenate.com/events/event-one-26tme?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.arthodgesforsenate.com/priorities"
+},
+{
+"text": "News",
+"href": "https://www.arthodgesforsenate.com/news"
+},
+{
+"text": "Next Next September 24 National Apostolic Christian Leadership Conference",
+"href": "https://www.arthodgesforsenate.com/events/national-apostolic-christian-leadership-conference"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.arthodgesforsenate.com/gallery"
+},
+{
+"text": "Previous Previous July 25",
+"href": "https://www.arthodgesforsenate.com/events/0qc3x2ysfyzbu5j58b5nm4ck75cvt1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.arthodgesforsenate.com/privacy-policy"
+},
+{
+"text": "[image: ArtHodgesForSenate]",
+"href": "https://www.arthodgesforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ArtHodgesForSenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/arthodgesforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@arthodgesforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/arthodgesforsenate"
+},
+{
+"text": "info@arthodgesforsenate.com",
+"href": "mailto:info@arthodgesforsenate.com"
+}
 ]

@@ -1,31 +1,41 @@
-My main focus has always been to improve the quality of life of District 80 residents.
+About Media PRESS RELEASES NEWS ARTICLES MEMOS Reconnecting California Cleaner Communities Donate Opportunities Through Community Investment My main focus has always been to improve the quality of life of District 80 residents.
 Growing up in Barrio Logan, one of our County's most marginalized communities, I witnessed firsthand the lack of resources and infrastructure available compared to other parts of the County.
 This motivated me to explore different areas as a young adult and brought to light the inequitable distribution of resources within communities based on the economic status of their residents.
 Improving community infrastructure, such as parks, playgrounds, street lights, and public transportation, has been a priority in my work.
 However, the work is far from complete.
-It is imperative that we continue pushing for adequate funding and support in Sacramento to ensure all communities in District 8 have the necessary resources to thrive.
-David believes in the transformative power of libraries as gateways to knowledge and success.
-He successfully fought for a new library in Eastlake, Chula Vista, marking the city's first addition to its library system in three decades.
-Additionally, during his City Council term, David spearheaded the construction of a library in San Ysidro.
-These efforts demonstrate his commitment to expanding access to educational resources and empowering communities with opportunities for growth and achievement.
-Our region is growing quickly, and more than 50,000 drivers use the 125-South Bay Expressway every year.
+It is imperative that we continue pushing for adequate funding and support in Sacramento to ensure all communities in District 8 have the necessary resources to thrive. so far we have worked on : Building San Ysidro’s first library since 1924 and Chula Vista’s first library since 1995.
+Voted for $20 million to fast track the toll removal on the 125-South Bay Expressway Funded Infrastructure Projects for the betterment of South Bay Built Ocean View Hills first park MILESTONES OF OUR FIGHT Investments In Our Community: Library & School of Nursing A new public library is coming to Chula Vista.
+Thirty million dollars in state funding, brought home through my work in Sacramento.
+The building will also be home to San Diego State University’s School of Nursing, starting Fall 2026.
+It is no secret that our population is aging.
+14 years from now, it is projected that nearly 1 in 4 Californians will be over 65.
+Now we will be training the next generation of healthcare workers to meet that demand right here in South County! $7.8 Million for New Parks Across the 80th District Every child in our district deserves a safe place to play.
+As Assemblymember, David secured $3.5 million in the 2023 state budget for the installation of the Memorial Park Sports Field Lighting Project, a much-needed improvement for the community of Barrio Logan.
+This project will not only light up the park but also provide a safe space for families and kids to enjoy recreational activities.
+In January we announced $4.3 million to start construction of Grove Neighborhood Park in Otay Mesa-Nestor.
+Both projects are moving forward and will deliver green space and recreation to our neighborhoods.
+Memorial Lights Field As Assemblymember, David secured $3.5 million in the 2023 state budget for the installation of the Memorial Park Sports Field Lighting Project, a much-needed improvement for the community of Barrio Logan.
+This project will not only light up the park but also provide a safe space for families and kids to enjoy recreational activities.
+Faster Commutes and Improved Trade Our region is growing quickly, and more than 50,000 drivers use the 125-South Bay Expressway every year.
 In 2022, David voted for $20 million to fast track the toll removal on the 125-South Bay Expressway to allow more people to access a faster commute.
 The new Otay Mesa 2 Port of Entry has completed its groundbreaking and David was happy to support legislation that authorizes local agencies to build and operate the border infrastructure.
 This project will provide a significant economic development opportunity and reduce border wait times at the existing Ports of Entry in San Ysidro and Otay Mesa.
-Throughout David's time on the City Council for District 8, his commitment to creating opportunities has driven remarkable accomplishments in major construction projects including the San Ysidro Library, Cesar Solis Park, Dennery Ranch Park, and the crucial road and sidewalk infrastructure leading to San Ysidro High School.
+Reconnecting Communities David has been at the forefront of initiatives aimed at reconnecting communities in California that have long been fragmented by freeway constructions.
+Efforts including holding community meetings and advocating for equitable infrastructure solutions have not only sought to rectify the historic injustices inflicted on marginalized neighborhoods but also to foster a renewed sense of unity.
+First Library Built in Chula Vista Since 1995 David believes in the transformative power of libraries as gateways to knowledge and success.
+He successfully fought for a new library in Eastlake, Chula Vista, marking the city's first addition to its library system in three decades.
+Additionally, during his City Council term, David spearheaded the construction of a library in San Ysidro.
+These efforts demonstrate his commitment to expanding access to educational resources and empowering communities with opportunities for growth and achievement.
+Infrastructure Projects For South Bay Throughout David's time on the City Council for District 8, his commitment to creating opportunities has driven remarkable accomplishments in major construction projects including the San Ysidro Library, Cesar Solis Park, Dennery Ranch Park, and the crucial road and sidewalk infrastructure leading to San Ysidro High School.
 The completion of the sidewalk and road to San Ysidro High School means that students no longer have to navigate a dirt path along a winding road.
 Instead, they can now walk safely to school, opening doors to a more accessible and secure education.
 The completion of the 10-year undergrounding project in Sherman Heights has provided residents with renewed streets that enhance safety and connectivity.
 By championing these initiatives, David has created tangible opportunities that empower individuals and communities, ensuring a brighter and more prosperous future for all.
-David has been at the forefront of initiatives aimed at reconnecting communities in California that have long been fragmented by freeway constructions.
-Efforts including holding community meetings and advocating for equitable infrastructure solutions have not only sought to rectify the historic injustices inflicted on marginalized neighborhoods but also to foster a renewed sense of unity.
-As Assemblymember, David secured $3.5 million in the 2023 state budget for the installation of the Memorial Park Sports Field Lighting Project, a much-needed improvement for the community of Barrio Logan.
-This project will not only light up the park but also provide a safe space for families and kids to enjoy recreational activities.
-With David's steadfast dedication and unwavering support the residents of Ocean View Hills now have their very own community park, Cesar Solis Park, where they can engage in sports, unwind, and enjoy picnics.
+Ocean View Hills First Park With David's steadfast dedication and unwavering support the residents of Ocean View Hills now have their very own community park, Cesar Solis Park, where they can engage in sports, unwind, and enjoy picnics.
 This remarkable accomplishment signifies a significant step forward in providing opportunities for recreation and community bonding.
 Furthermore, David's dedication and efforts have also yielded progress in other nearby parks, including Dennery Ranch Park, Southwest Park in Nestor, and Beyer Park in San Ysidro, all currently in construction.
 Through his tireless work, David is creating spaces that enhance the quality of life and foster a sense of unity within the community.
-Barrio Logan has been a vibrant art community for decades, with Chicano Park as its crown jewel.
+Barrio Logan Redevelopment Barrio Logan has been a vibrant art community for decades, with Chicano Park as its crown jewel.
 This area has undergone significant revitalization in recent years.
 However, for decades, the community has been without a dedicated planning group, unlike other neighborhoods in San Diego.
 This absence meant that the outdated Barrio Logan community plan lacked proper zoning regulations, resulting in homes being built in close proximity to industrial facilities.
@@ -33,15 +43,49 @@ Recognizing the urgent need for change, David took action in 2014 by establishin
 Serving as the official advisory body for the city, this milestone gave Barrio Logan residents a long-overdue voice in shaping new developments and addressing community concerns.
 With the establishment of the Planning Group, Barrio Logan can now actively participate in decisions that impact their lives, ensuring that future developments align with their vision for a vibrant, sustainable, and inclusive neighborhood.
 Through his unwavering dedication, David has empowered Barrio Logan to seize new opportunities and transform into a thriving community where residents' voices are heard and their aspirations are realized.
-In 2001, during David’s time in council, the Otay Mesa Community Plan was approved.
+Otay Mesa Community Plan In 2001, during David’s time in council, the Otay Mesa Community Plan was approved.
 This visionary plan not only recognized the significant land use changes that had transpired over the past three decades but also created a thriving hub for middle-class job opportunities in the region.
 The plan strategically addressed the impact of substantial land use changes, both at the local and regional levels, which had arisen over the course of 30 years.
 Notably, it tackled the challenge of lost designated industrial and residential land, resulting from the adoption of the Multiple Species Conservation Program (MSCP) in 1997.
 The Otay Mesa Community Plan has not only safeguarded the region's ecological treasures but also has paved the way for the creation of a robust job center, fostering economic growth and prosperity for the community.
 Through his active involvement in this transformative process, David played a key role in unlocking new opportunities and building a more vibrant and sustainable future for the entire region.
-NEWSLETTER
-Sign up to stay up to date on legislation news, events, volunteer opportunity, and town halls.
-Thank you!
+Read David's legislative updates about community investment MILESTONES OF OUR FIGHT First Library Built in Chula Vista Since 1995 David believes in the transformative power of libraries as gateways to knowledge and success.
+He successfully fought for a new library in Eastlake, Chula Vista, marking the city's first addition to its library system in three decades.
+Additionally, during his City Council term, David spearheaded the construction of a library in San Ysidro.
+These efforts demonstrate his commitment to expanding access to educational resources and empowering communities with opportunities for growth and achievement.
+Faster Commutes and Improved Trade Our region is growing quickly, and more than 50,000 drivers use the 125-South Bay Expressway every year.
+In 2022, David voted for $20 million to fast track the toll removal on the 125-South Bay Expressway to allow more people to access a faster commute.
+The new Otay Mesa 2 Port of Entry has completed its groundbreaking and David was happy to support legislation that authorizes local agencies to build and operate the border infrastructure.
+This project will provide a significant economic development opportunity and reduce border wait times at the existing Ports of Entry in San Ysidro and Otay Mesa.
+Infrastructure Projects For South Bay Throughout David's time on the City Council for District 8, his commitment to creating opportunities has driven remarkable accomplishments in major construction projects including the San Ysidro Library, Cesar Solis Park, Dennery Ranch Park, and the crucial road and sidewalk infrastructure leading to San Ysidro High School.
+The completion of the sidewalk and road to San Ysidro High School means that students no longer have to navigate a dirt path along a winding road.
+Instead, they can now walk safely to school, opening doors to a more accessible and secure education.
+The completion of the 10-year undergrounding project in Sherman Heights has provided residents with renewed streets that enhance safety and connectivity.
+By championing these initiatives, David has created tangible opportunities that empower individuals and communities, ensuring a brighter and more prosperous future for all.
+Reconnecting Communities David has been at the forefront of initiatives aimed at reconnecting communities in California that have long been fragmented by freeway constructions.
+Efforts including holding community meetings and advocating for equitable infrastructure solutions have not only sought to rectify the historic injustices inflicted on marginalized neighborhoods but also to foster a renewed sense of unity.
+Memorial Lights Field As Assemblymember, David secured $3.5 million in the 2023 state budget for the installation of the Memorial Park Sports Field Lighting Project, a much-needed improvement for the community of Barrio Logan.
+This project will not only light up the park but also provide a safe space for families and kids to enjoy recreational activities.
+Ocean View Hills First Park With David's steadfast dedication and unwavering support the residents of Ocean View Hills now have their very own community park, Cesar Solis Park, where they can engage in sports, unwind, and enjoy picnics.
+This remarkable accomplishment signifies a significant step forward in providing opportunities for recreation and community bonding.
+Furthermore, David's dedication and efforts have also yielded progress in other nearby parks, including Dennery Ranch Park, Southwest Park in Nestor, and Beyer Park in San Ysidro, all currently in construction.
+Through his tireless work, David is creating spaces that enhance the quality of life and foster a sense of unity within the community.
+Barrio Logan Redevelopment Barrio Logan has been a vibrant art community for decades, with Chicano Park as its crown jewel.
+This area has undergone significant revitalization in recent years.
+However, for decades, the community has been without a dedicated planning group, unlike other neighborhoods in San Diego.
+This absence meant that the outdated Barrio Logan community plan lacked proper zoning regulations, resulting in homes being built in close proximity to industrial facilities.
+Recognizing the urgent need for change, David took action in 2014 by establishing the Barrio Logan Planning Group, filling a crucial gap in community representation.
+Serving as the official advisory body for the city, this milestone gave Barrio Logan residents a long-overdue voice in shaping new developments and addressing community concerns.
+With the establishment of the Planning Group, Barrio Logan can now actively participate in decisions that impact their lives, ensuring that future developments align with their vision for a vibrant, sustainable, and inclusive neighborhood.
+Through his unwavering dedication, David has empowered Barrio Logan to seize new opportunities and transform into a thriving community where residents' voices are heard and their aspirations are realized.
+Otay Mesa Community Plan In 2001, during David’s time in council, the Otay Mesa Community Plan was approved.
+This visionary plan not only recognized the significant land use changes that had transpired over the past three decades but also created a thriving hub for middle-class job opportunities in the region.
+The plan strategically addressed the impact of substantial land use changes, both at the local and regional levels, which had arisen over the course of 30 years.
+Notably, it tackled the challenge of lost designated industrial and residential land, resulting from the adoption of the Multiple Species Conservation Program (MSCP) in 1997.
+The Otay Mesa Community Plan has not only safeguarded the region's ecological treasures but also has paved the way for the creation of a robust job center, fostering economic growth and prosperity for the community.
+Through his active involvement in this transformative process, David played a key role in unlocking new opportunities and building a more vibrant and sustainable future for the entire region.
+Read David's legislative updates about community investment more opportunities Through Education Through Cleaner Communities Through Community Investment Through Arts and Culture Through Housing Accessibility NEWSLETTER SIGN UP TO STAY UPDATED Sign up to stay up to date on legislation news, events, volunteer opportunity, and town halls.
+FIRST NAME LAST NAME ZIP CODE EMAIL ADDRESS PHONE Thank you!
 Your submission has been received!
 Oops!
 Something went wrong while submitting the form.
@@ -50,4 +94,4 @@ Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.
 Reply HELP for help.
-Privacy Policy&Terms
+Privacy Policy & Terms For meeting requests and legislative questions, call: (619) 498-8580 For all press inquires: Jeremy Addis-Mills (760) 880-4397 or Jeremy@digitalimpactand.com ‍ For campaign questions: (619) 870-8385 Press Releases Memos News Articles Privacy Statement Paid for David Alvarez for State Assembly 2022 FPPC ID: 1443355 Design & Hosting by Digital Impact &

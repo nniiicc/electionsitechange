@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://rickyfor50.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "6af311552cbd735ea650da10b6f6f89d3b8d6df2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

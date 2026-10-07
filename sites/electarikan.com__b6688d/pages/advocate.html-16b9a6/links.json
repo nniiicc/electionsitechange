@@ -1,9 +1,34 @@
 [
-"https://electarikan.com/",
-"https://electarikan.com/advocate.html",
-"https://electarikan.com/contact.html",
-"https://electarikan.com/donate.html",
-"https://electarikan.com/in-the-news.html",
-"https://electarikan.com/issues.html",
-"https://electarikan.com/newsletter.html"
+{
+"text": "Advocacy",
+"href": "https://www.electarikan.com/advocate.html"
+},
+{
+"text": "Contact",
+"href": "https://www.electarikan.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://www.electarikan.com/donate.html"
+},
+{
+"text": "Home",
+"href": "https://www.electarikan.com/"
+},
+{
+"text": "In the News",
+"href": "https://www.electarikan.com/in-the-news.html"
+},
+{
+"text": "Issues",
+"href": "https://www.electarikan.com/issues.html"
+},
+{
+"text": "Newsletter",
+"href": "https://www.electarikan.com/newsletter.html"
+},
+{
+"text": "[image: Arikan for Delegate]",
+"href": "https://www.electarikan.com/"
+}
 ]

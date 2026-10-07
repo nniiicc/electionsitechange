@@ -1,163 +1,654 @@
 [
-"https://facebook.com/rick.jasperse",
-"https://instagram.com/rick.jasperse",
-"https://rickjasperse.org/",
-"https://rickjasperse.org/article.php?news=1",
-"https://rickjasperse.org/article.php?news=10",
-"https://rickjasperse.org/article.php?news=100",
-"https://rickjasperse.org/article.php?news=101",
-"https://rickjasperse.org/article.php?news=102",
-"https://rickjasperse.org/article.php?news=103",
-"https://rickjasperse.org/article.php?news=104",
-"https://rickjasperse.org/article.php?news=105",
-"https://rickjasperse.org/article.php?news=108",
-"https://rickjasperse.org/article.php?news=109",
-"https://rickjasperse.org/article.php?news=11",
-"https://rickjasperse.org/article.php?news=110",
-"https://rickjasperse.org/article.php?news=111",
-"https://rickjasperse.org/article.php?news=112",
-"https://rickjasperse.org/article.php?news=113",
-"https://rickjasperse.org/article.php?news=114",
-"https://rickjasperse.org/article.php?news=115",
-"https://rickjasperse.org/article.php?news=116",
-"https://rickjasperse.org/article.php?news=117",
-"https://rickjasperse.org/article.php?news=118",
-"https://rickjasperse.org/article.php?news=119",
-"https://rickjasperse.org/article.php?news=12",
-"https://rickjasperse.org/article.php?news=120",
-"https://rickjasperse.org/article.php?news=121",
-"https://rickjasperse.org/article.php?news=122",
-"https://rickjasperse.org/article.php?news=123",
-"https://rickjasperse.org/article.php?news=124",
-"https://rickjasperse.org/article.php?news=125",
-"https://rickjasperse.org/article.php?news=126",
-"https://rickjasperse.org/article.php?news=127",
-"https://rickjasperse.org/article.php?news=128",
-"https://rickjasperse.org/article.php?news=129",
-"https://rickjasperse.org/article.php?news=13",
-"https://rickjasperse.org/article.php?news=130",
-"https://rickjasperse.org/article.php?news=131",
-"https://rickjasperse.org/article.php?news=132",
-"https://rickjasperse.org/article.php?news=133",
-"https://rickjasperse.org/article.php?news=134",
-"https://rickjasperse.org/article.php?news=135",
-"https://rickjasperse.org/article.php?news=136",
-"https://rickjasperse.org/article.php?news=137",
-"https://rickjasperse.org/article.php?news=138",
-"https://rickjasperse.org/article.php?news=139",
-"https://rickjasperse.org/article.php?news=14",
-"https://rickjasperse.org/article.php?news=140",
-"https://rickjasperse.org/article.php?news=141",
-"https://rickjasperse.org/article.php?news=142",
-"https://rickjasperse.org/article.php?news=143",
-"https://rickjasperse.org/article.php?news=144",
-"https://rickjasperse.org/article.php?news=145",
-"https://rickjasperse.org/article.php?news=146",
-"https://rickjasperse.org/article.php?news=147",
-"https://rickjasperse.org/article.php?news=148",
-"https://rickjasperse.org/article.php?news=149",
-"https://rickjasperse.org/article.php?news=15",
-"https://rickjasperse.org/article.php?news=150",
-"https://rickjasperse.org/article.php?news=151",
-"https://rickjasperse.org/article.php?news=152",
-"https://rickjasperse.org/article.php?news=17",
-"https://rickjasperse.org/article.php?news=18",
-"https://rickjasperse.org/article.php?news=19",
-"https://rickjasperse.org/article.php?news=2",
-"https://rickjasperse.org/article.php?news=20",
-"https://rickjasperse.org/article.php?news=21",
-"https://rickjasperse.org/article.php?news=22",
-"https://rickjasperse.org/article.php?news=23",
-"https://rickjasperse.org/article.php?news=24",
-"https://rickjasperse.org/article.php?news=25",
-"https://rickjasperse.org/article.php?news=26",
-"https://rickjasperse.org/article.php?news=27",
-"https://rickjasperse.org/article.php?news=28",
-"https://rickjasperse.org/article.php?news=29",
-"https://rickjasperse.org/article.php?news=3",
-"https://rickjasperse.org/article.php?news=30",
-"https://rickjasperse.org/article.php?news=31",
-"https://rickjasperse.org/article.php?news=32",
-"https://rickjasperse.org/article.php?news=33",
-"https://rickjasperse.org/article.php?news=34",
-"https://rickjasperse.org/article.php?news=35",
-"https://rickjasperse.org/article.php?news=36",
-"https://rickjasperse.org/article.php?news=37",
-"https://rickjasperse.org/article.php?news=38",
-"https://rickjasperse.org/article.php?news=39",
-"https://rickjasperse.org/article.php?news=4",
-"https://rickjasperse.org/article.php?news=40",
-"https://rickjasperse.org/article.php?news=41",
-"https://rickjasperse.org/article.php?news=42",
-"https://rickjasperse.org/article.php?news=43",
-"https://rickjasperse.org/article.php?news=44",
-"https://rickjasperse.org/article.php?news=45",
-"https://rickjasperse.org/article.php?news=46",
-"https://rickjasperse.org/article.php?news=47",
-"https://rickjasperse.org/article.php?news=48",
-"https://rickjasperse.org/article.php?news=49",
-"https://rickjasperse.org/article.php?news=5",
-"https://rickjasperse.org/article.php?news=50",
-"https://rickjasperse.org/article.php?news=51",
-"https://rickjasperse.org/article.php?news=52",
-"https://rickjasperse.org/article.php?news=53",
-"https://rickjasperse.org/article.php?news=54",
-"https://rickjasperse.org/article.php?news=55",
-"https://rickjasperse.org/article.php?news=56",
-"https://rickjasperse.org/article.php?news=57",
-"https://rickjasperse.org/article.php?news=58",
-"https://rickjasperse.org/article.php?news=59",
-"https://rickjasperse.org/article.php?news=6",
-"https://rickjasperse.org/article.php?news=60",
-"https://rickjasperse.org/article.php?news=61",
-"https://rickjasperse.org/article.php?news=62",
-"https://rickjasperse.org/article.php?news=63",
-"https://rickjasperse.org/article.php?news=64",
-"https://rickjasperse.org/article.php?news=65",
-"https://rickjasperse.org/article.php?news=66",
-"https://rickjasperse.org/article.php?news=67",
-"https://rickjasperse.org/article.php?news=69",
-"https://rickjasperse.org/article.php?news=7",
-"https://rickjasperse.org/article.php?news=70",
-"https://rickjasperse.org/article.php?news=71",
-"https://rickjasperse.org/article.php?news=72",
-"https://rickjasperse.org/article.php?news=73",
-"https://rickjasperse.org/article.php?news=74",
-"https://rickjasperse.org/article.php?news=75",
-"https://rickjasperse.org/article.php?news=76",
-"https://rickjasperse.org/article.php?news=77",
-"https://rickjasperse.org/article.php?news=78",
-"https://rickjasperse.org/article.php?news=79",
-"https://rickjasperse.org/article.php?news=8",
-"https://rickjasperse.org/article.php?news=80",
-"https://rickjasperse.org/article.php?news=81",
-"https://rickjasperse.org/article.php?news=82",
-"https://rickjasperse.org/article.php?news=83",
-"https://rickjasperse.org/article.php?news=84",
-"https://rickjasperse.org/article.php?news=85",
-"https://rickjasperse.org/article.php?news=86",
-"https://rickjasperse.org/article.php?news=87",
-"https://rickjasperse.org/article.php?news=88",
-"https://rickjasperse.org/article.php?news=89",
-"https://rickjasperse.org/article.php?news=9",
-"https://rickjasperse.org/article.php?news=90",
-"https://rickjasperse.org/article.php?news=91",
-"https://rickjasperse.org/article.php?news=92",
-"https://rickjasperse.org/article.php?news=93",
-"https://rickjasperse.org/article.php?news=94",
-"https://rickjasperse.org/article.php?news=95",
-"https://rickjasperse.org/article.php?news=96",
-"https://rickjasperse.org/article.php?news=97",
-"https://rickjasperse.org/article.php?news=98",
-"https://rickjasperse.org/article.php?news=99",
-"https://rickjasperse.org/contactrick.htm",
-"https://rickjasperse.org/issues.htm",
-"https://rickjasperse.org/links.htm",
-"https://rickjasperse.org/meetrick.htm",
-"https://rickjasperse.org/needhelp.htm",
-"https://rickjasperse.org/news.htm",
-"https://rickjasperse.org/privacy.html",
-"https://rickjasperse.org/support.htm",
-"https://twitter.com/rickjasperse",
-"https://youtube.com/user/rickjasperse"
+{
+"text": "'Crossover Day'",
+"href": "https://www.rickjasperse.org/article.php?news=4"
+},
+{
+"text": "'The Big Five'",
+"href": "https://www.rickjasperse.org/article.php?news=5"
+},
+{
+"text": "2023 LEGISLATIVE SESSION BEGINS",
+"href": "https://www.rickjasperse.org/article.php?news=121"
+},
+{
+"text": "2025 Legislative Session is Underway",
+"href": "https://www.rickjasperse.org/article.php?news=137"
+},
+{
+"text": "2026 Legislative Session Begins",
+"href": "https://www.rickjasperse.org/article.php?news=144"
+},
+{
+"text": "40-DAY SESSION UNDERWAY",
+"href": "https://www.rickjasperse.org/article.php?news=145"
+},
+{
+"text": "ASK RICK",
+"href": "https://www.rickjasperse.org/contactrick.htm"
+},
+{
+"text": "BUDGET HEARINGS",
+"href": "https://www.rickjasperse.org/article.php?news=123"
+},
+{
+"text": "BUSIEST TIME OF THE YEAR",
+"href": "https://www.rickjasperse.org/article.php?news=132"
+},
+{
+"text": "Bill Signing by Governor Kemp is Underway",
+"href": "https://www.rickjasperse.org/article.php?news=152"
+},
+{
+"text": "CONSTITUTIONAL CARRY BILL SB 319",
+"href": "https://www.rickjasperse.org/article.php?news=125"
+},
+{
+"text": "CROSSOVER DAY",
+"href": "https://www.rickjasperse.org/article.php?news=150"
+},
+{
+"text": "CROSSOVER DAY IS PAST US",
+"href": "https://www.rickjasperse.org/article.php?news=134"
+},
+{
+"text": "Crossover Week",
+"href": "https://www.rickjasperse.org/article.php?news=141"
+},
+{
+"text": "Email Rick",
+"href": "mailto:rick@rickjasperse.org"
+},
+{
+"text": "Fifth Week of Session",
+"href": "https://www.rickjasperse.org/article.php?news=148"
+},
+{
+"text": "First Week of the 2012 Legislative Session",
+"href": "https://www.rickjasperse.org/article.php?news=8"
+},
+{
+"text": "GEORGIA ASSEMBLY STARTS MONDAY",
+"href": "https://www.rickjasperse.org/article.php?news=129"
+},
+{
+"text": "GEORGIA Nov 5th- Election Ballot Questions",
+"href": "https://www.rickjasperse.org/article.php?news=136"
+},
+{
+"text": "HALFWAY THROUGH THE SESSION",
+"href": "https://www.rickjasperse.org/article.php?news=100"
+},
+{
+"text": "HOPE IS HERE TO STAY",
+"href": "https://www.rickjasperse.org/article.php?news=3"
+},
+{
+"text": "Helping Your Pocketbook!",
+"href": "https://www.rickjasperse.org/article.php?news=151"
+},
+{
+"text": "How Is the State of Georgia Doing Financially?",
+"href": "https://www.rickjasperse.org/article.php?news=93"
+},
+{
+"text": "ISSUES",
+"href": "https://www.rickjasperse.org/issues.htm"
+},
+{
+"text": "LAST FULL WEEK OF LEGISLATIVE SESSION",
+"href": "https://www.rickjasperse.org/article.php?news=126"
+},
+{
+"text": "LAST WEEK OF SESSION",
+"href": "https://www.rickjasperse.org/article.php?news=142"
+},
+{
+"text": "LINKS",
+"href": "https://www.rickjasperse.org/links.htm"
+},
+{
+"text": "MEET RICK",
+"href": "https://www.rickjasperse.org/meetrick.htm"
+},
+{
+"text": "MR. LOUIS GRAZIANO HONORED",
+"href": "https://www.rickjasperse.org/article.php?news=124"
+},
+{
+"text": "NEED HELP",
+"href": "https://www.rickjasperse.org/needhelp.htm"
+},
+{
+"text": "NEW LAWS GOING INTO EFFECT ON JULY 1",
+"href": "https://www.rickjasperse.org/article.php?news=143"
+},
+{
+"text": "NEWS",
+"href": "https://www.rickjasperse.org/news.htm"
+},
+{
+"text": "New State School Board Member Appointed",
+"href": "https://www.rickjasperse.org/article.php?news=77"
+},
+{
+"text": "Notes from the Capitol With Representative Rick Jasperse",
+"href": "https://www.rickjasperse.org/article.php?news=28"
+},
+{
+"text": "Notes from the Capitol With Representative Rick Jasperse",
+"href": "https://www.rickjasperse.org/article.php?news=29"
+},
+{
+"text": "Notes from the Capitol by State Representative Rick Jasperse",
+"href": "https://www.rickjasperse.org/article.php?news=27"
+},
+{
+"text": "Our work at the Georgia Legislature has really sped up.",
+"href": "https://www.rickjasperse.org/article.php?news=2"
+},
+{
+"text": "PAGE FOR A DAY",
+"href": "https://www.rickjasperse.org/article.php?news=127"
+},
+{
+"text": "Page for a Day",
+"href": "https://www.rickjasperse.org/article.php?news=84"
+},
+{
+"text": "Privacy Statement",
+"href": "https://www.rickjasperse.org/privacy.html"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=101"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=102"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=103"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=104"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=105"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=108"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=109"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=110"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=111"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=112"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=113"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=114"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=115"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=116"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=117"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=118"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=119"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=120"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=17"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=18"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=19"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=20"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=21"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=22"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=23"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=24"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=25"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=33"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=34"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=35"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=36"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=37"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=38"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=39"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=40"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=41"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=42"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=43"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=44"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=45"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=47"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=48"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=49"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=50"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=51"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=55"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=58"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=59"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=60"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=61"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=62"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=63"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=64"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=74"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=76"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=78"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=79"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=80"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=81"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=82"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=83"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=85"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=86"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=87"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=88"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=89"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=90"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=91"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=94"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=95"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=96"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=97"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=98"
+},
+{
+"text": "REPORT FROM THE CAPITOL",
+"href": "https://www.rickjasperse.org/article.php?news=99"
+},
+{
+"text": "REPORT FROM THE CAPITOL - PAGE DAY",
+"href": "https://www.rickjasperse.org/article.php?news=26"
+},
+{
+"text": "Rep. Jasperse Introduces Legislation to Establish House Study Committee on School Security",
+"href": "https://www.rickjasperse.org/article.php?news=57"
+},
+{
+"text": "Rep. Rick Jasperse Named Chairman of House Education Committee",
+"href": "https://www.rickjasperse.org/article.php?news=69"
+},
+{
+"text": "Report from the Capitol",
+"href": "https://www.rickjasperse.org/article.php?news=10"
+},
+{
+"text": "Report from the Capitol",
+"href": "https://www.rickjasperse.org/article.php?news=11"
+},
+{
+"text": "Report from the Capitol",
+"href": "https://www.rickjasperse.org/article.php?news=12"
+},
+{
+"text": "Report from the Capitol",
+"href": "https://www.rickjasperse.org/article.php?news=13"
+},
+{
+"text": "Report from the Capitol",
+"href": "https://www.rickjasperse.org/article.php?news=14"
+},
+{
+"text": "Report from the Capitol",
+"href": "https://www.rickjasperse.org/article.php?news=6"
+},
+{
+"text": "Report from the Capitol",
+"href": "https://www.rickjasperse.org/article.php?news=7"
+},
+{
+"text": "Report from the Capitol",
+"href": "https://www.rickjasperse.org/article.php?news=70"
+},
+{
+"text": "Report from the Capitol",
+"href": "https://www.rickjasperse.org/article.php?news=71"
+},
+{
+"text": "Report from the Capitol",
+"href": "https://www.rickjasperse.org/article.php?news=72"
+},
+{
+"text": "Report from the Capitol",
+"href": "https://www.rickjasperse.org/article.php?news=73"
+},
+{
+"text": "Report from the Capitol",
+"href": "https://www.rickjasperse.org/article.php?news=9"
+},
+{
+"text": "Report from the Capitol With Representative Rick Jasperse",
+"href": "https://www.rickjasperse.org/article.php?news=32"
+},
+{
+"text": "Report from the Capitol with Representative Rick Jasperse",
+"href": "https://www.rickjasperse.org/article.php?news=31"
+},
+{
+"text": "Report from the Capitol | Week One",
+"href": "https://www.rickjasperse.org/article.php?news=67"
+},
+{
+"text": "Representative Jasperse on Signage of Bill to Give Georgia Students Fewer Milestones Tests",
+"href": "https://www.rickjasperse.org/article.php?news=92"
+},
+{
+"text": "SPECIAL LEGISLATIVE SESSION",
+"href": "https://www.rickjasperse.org/article.php?news=130"
+},
+{
+"text": "STATE REPRESENTATIVE RICK JASPERSE SEEKS RE-ELECTION",
+"href": "https://www.rickjasperse.org/article.php?news=75"
+},
+{
+"text": "SUPPORT RICK",
+"href": "https://www.rickjasperse.org/support.htm"
+},
+{
+"text": "Seeking Re-election to the Georgia House of Representatives District 11",
+"href": "https://www.rickjasperse.org/article.php?news=30"
+},
+{
+"text": "Seventh Week of 2026 Legislative Session",
+"href": "https://www.rickjasperse.org/article.php?news=149"
+},
+{
+"text": "Signing of the Laken Riley Act",
+"href": "https://www.rickjasperse.org/article.php?news=138"
+},
+{
+"text": "State Representative Rick Jasperse Seeks Re-election to the Georgia General Assembly",
+"href": "https://www.rickjasperse.org/article.php?news=15"
+},
+{
+"text": "THE 2024 LEGISLATIVE SESSION IS UNDERWAY",
+"href": "https://www.rickjasperse.org/article.php?news=128"
+},
+{
+"text": "THE BILL PROCESS",
+"href": "https://www.rickjasperse.org/article.php?news=122"
+},
+{
+"text": "The Amended Budget for 2026",
+"href": "https://www.rickjasperse.org/article.php?news=147"
+},
+{
+"text": "The Elimination of Homestead Property Taxes",
+"href": "https://www.rickjasperse.org/article.php?news=146"
+},
+{
+"text": "UNDER THE GOLD DOME",
+"href": "https://www.rickjasperse.org/article.php?news=46"
+},
+{
+"text": "UNDER THE GOLD DOME",
+"href": "https://www.rickjasperse.org/article.php?news=52"
+},
+{
+"text": "UNDER THE GOLD DOME",
+"href": "https://www.rickjasperse.org/article.php?news=53"
+},
+{
+"text": "UNDER THE GOLD DOME",
+"href": "https://www.rickjasperse.org/article.php?news=54"
+},
+{
+"text": "UNDER THE GOLD DOME",
+"href": "https://www.rickjasperse.org/article.php?news=56"
+},
+{
+"text": "VOTING ANALYSIS FOR AMENDMENTS",
+"href": "https://www.rickjasperse.org/article.php?news=65"
+},
+{
+"text": "VOTING ANALYSIS FOR AMENDMENTS 3 and 4",
+"href": "https://www.rickjasperse.org/article.php?news=66"
+},
+{
+"text": "WEEK 10",
+"href": "https://www.rickjasperse.org/article.php?news=135"
+},
+{
+"text": "WEEK 7",
+"href": "https://www.rickjasperse.org/article.php?news=140"
+},
+{
+"text": "WEEK FIVE IN THE BOOKS",
+"href": "https://www.rickjasperse.org/article.php?news=131"
+},
+{
+"text": "WEEK SEVEN",
+"href": "https://www.rickjasperse.org/article.php?news=133"
+},
+{
+"text": "Watch Georgia General Essembly OnLine",
+"href": "https://www.rickjasperse.org/article.php?news=139"
+},
+{
+"text": "What a first week for me in the legislature!",
+"href": "https://www.rickjasperse.org/article.php?news=1"
+},
+{
+"text": "[image: Follow Rick Jasperse on Facebook]",
+"href": "https://www.facebook.com/rick.jasperse/"
+},
+{
+"text": "[image: Follow Rick Jasperse on Instagram]",
+"href": "https://www.instagram.com/rick.jasperse/"
+},
+{
+"text": "[image: Follow Rick Jasperse on Twitter]",
+"href": "https://twitter.com/rickjasperse"
+},
+{
+"text": "[image: Follow Rick Jasperses on YouTube]",
+"href": "https://www.youtube.com/user/rickjasperse"
+},
+{
+"text": "[image: Republican Party Elephant Logo]",
+"href": "https://www.rickjasperse.org"
+},
+{
+"text": "[image: Rick Jasperse State Representative District 11 Georgia]",
+"href": "https://www.rickjasperse.org"
+}
 ]

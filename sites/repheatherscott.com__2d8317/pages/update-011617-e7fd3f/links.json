@@ -1,31 +1,122 @@
 [
-"http://growingfreedomidaho.com/",
-"http://repheatherscott.com/feed",
-"http://repheatherscott.designbyparrish.com/wp-content/uploads/2017/04/gfi_header.jpg",
-"http://repheatherscott.designbyparrish.com/wp-content/uploads/2017/07/barbara_morgan.jpg",
-"https://facebook.com/RepHeatherScott",
-"https://growingfreedomidaho.com/all-bills",
-"https://idahocps.org/",
-"https://repheatherscott.com/",
-"https://repheatherscott.com/abortion",
-"https://repheatherscott.com/archive",
-"https://repheatherscott.com/author/repheatherscott",
-"https://repheatherscott.com/category/archive",
-"https://repheatherscott.com/category/updates",
-"https://repheatherscott.com/cleaning-up",
-"https://repheatherscott.com/contact",
-"https://repheatherscott.com/covid",
-"https://repheatherscott.com/gender",
-"https://repheatherscott.com/government-101",
-"https://repheatherscott.com/happy-independence-day",
-"https://repheatherscott.com/levy-bond-voting-this-tuesday",
-"https://repheatherscott.com/maps",
-"https://repheatherscott.com/merry-christmas-happy-new-year",
-"https://repheatherscott.com/photos",
-"https://repheatherscott.com/rules-regulations",
-"https://repheatherscott.com/smelter",
-"https://repheatherscott.com/summer-activities-idaho-freedom-caucus",
-"https://repheatherscott.com/tag/barbara-morgan",
-"https://repheatherscott.com/update-011617",
-"https://twitter.com/HeatherScottID"
+{
+"text": "Abortion",
+"href": "https://repheatherscott.com/abortion/"
+},
+{
+"text": "Archive",
+"href": "https://repheatherscott.com/category/archive/"
+},
+{
+"text": "Archived Updates",
+"href": "https://repheatherscott.com/archive/"
+},
+{
+"text": "BILLS ⇨",
+"href": "https://growingfreedomidaho.com/all-bills/"
+},
+{
+"text": "Barbara Morgan",
+"href": "https://repheatherscott.com/tag/barbara-morgan/"
+},
+{
+"text": "COVID",
+"href": "https://repheatherscott.com/covid/"
+},
+{
+"text": "CPS ⇨",
+"href": "https://idahocps.org/"
+},
+{
+"text": "Contact",
+"href": "https://repheatherscott.com/contact/"
+},
+{
+"text": "Facebook[image]",
+"href": "https://www.facebook.com/RepHeatherScott/"
+},
+{
+"text": "Gender / Birth Certificates",
+"href": "https://repheatherscott.com/gender/"
+},
+{
+"text": "Gov 101",
+"href": "https://repheatherscott.com/government-101/"
+},
+{
+"text": "Happy Independence Day!",
+"href": "https://repheatherscott.com/happy-independence-day/"
+},
+{
+"text": "Home",
+"href": "https://repheatherscott.com/"
+},
+{
+"text": "January 16, 2017August 28, 2026",
+"href": "https://repheatherscott.com/update-011617/"
+},
+{
+"text": "Maps",
+"href": "https://repheatherscott.com/maps/"
+},
+{
+"text": "Merry Christmas! Happy New Year!",
+"href": "https://repheatherscott.com/merry-christmas-happy-new-year/"
+},
+{
+"text": "News & Updates",
+"href": "https://repheatherscott.com/category/updates/"
+},
+{
+"text": "Next Next post: Levy & Bond Voting this Tuesday",
+"href": "https://repheatherscott.com/levy-bond-voting-this-tuesday/"
+},
+{
+"text": "Photos",
+"href": "https://repheatherscott.com/photos/"
+},
+{
+"text": "Previous Previous post: Cleaning Up Idaho’s Laws",
+"href": "https://repheatherscott.com/cleaning-up/"
+},
+{
+"text": "RSS[image]",
+"href": "http://repheatherscott.com/feed"
+},
+{
+"text": "Rep. Heather Scott",
+"href": "https://repheatherscott.com/"
+},
+{
+"text": "Rep. Heather Scott",
+"href": "https://repheatherscott.com/author/repheatherscott/"
+},
+{
+"text": "Rules & Regulations",
+"href": "https://repheatherscott.com/rules-regulations/"
+},
+{
+"text": "Silicon Smelter",
+"href": "https://repheatherscott.com/smelter/"
+},
+{
+"text": "Summer Activities – Idaho Freedom Caucus",
+"href": "https://repheatherscott.com/summer-activities-idaho-freedom-caucus/"
+},
+{
+"text": "Twitter[image]",
+"href": "https://twitter.com/HeatherScottID"
+},
+{
+"text": "[image]",
+"href": "http://repheatherscott.designbyparrish.com/wp-content/uploads/2017/04/gfi_header.jpg"
+},
+{
+"text": "[image]",
+"href": "http://repheatherscott.designbyparrish.com/wp-content/uploads/2017/07/barbara_morgan.jpg"
+},
+{
+"text": "www.GrowingFreedomIdaho.com",
+"href": "http://growingfreedomidaho.com/"
+}
 ]

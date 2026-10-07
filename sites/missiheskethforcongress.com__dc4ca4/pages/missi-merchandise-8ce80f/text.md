@@ -1,15 +1,6 @@
-Send your order to isaac@missiformo.com and payment type.
-If you use ActBlue, just let us know.
-Donate via Act Blue
-- One size $20*
-- Made partially from recycled water bottles
-- T-Shirts * (Eggshell Color)
-- Sizes S-M-L-XL $20
-- Sizes 2X-3X-4X $22
-- Sweatshirts * (Grey Color)
-- Sizes S-M-L-XL $25
-- Sizes 2X-3X-4X $28
-- Hoodie Sweatshirts * (Grey Color)
-- Sizes S-M-L-XL $30
-- Sizes 2X-3X-4X $35
-*$5 Additional if shipping is required
+About Top 5 Issues Endorsements Events Volunteer Donate Merch About Top 5 Issues Endorsements Events Volunteer Donate Merch Order Merch Fill out this form and add up the cost, when you submit the order you will be directed to a page to donate the equivalent online.
+Alternatively, mail checks to: Missi Hesketh for Congress P.O.
+Box 651 Forsyth, MO 65653 First Name Email Phone Number Shipping $10 Street Address Apartment/Suite # City State Postal Code Shirts $20 i.e.
+1x XL, 1x L Stickers/Buttons $2 i.e.
+1x Missi for MO sticker, 1x Blue Missi Btn, 1x Yellow Missi button Leave this field blank May we follow up with you regarding this campaign and our other efforts via text?
+Yes No Submit Order English Español (Spanish) Hawaiian Reo Māori (Maori) Samoan Made in Solidarity Tech

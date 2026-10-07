@@ -1,32 +1,150 @@
 [
-"https://bsky.app/profile/dittmerforcongress.bsky.social",
-"https://dittmerforcongress.com/",
-"https://dittmerforcongress.com/cart",
-"https://dittmerforcongress.com/contact",
-"https://dittmerforcongress.com/meet-mallory",
-"https://dittmerforcongress.com/priorities",
-"https://dittmerforcongress.com/priorities/agriculture",
-"https://dittmerforcongress.com/priorities/economy",
-"https://dittmerforcongress.com/priorities/education",
-"https://dittmerforcongress.com/priorities/elections",
-"https://dittmerforcongress.com/priorities/health-care",
-"https://dittmerforcongress.com/priorities/immigration",
-"https://dittmerforcongress.com/priorities/national-security",
-"https://dittmerforcongress.com/priorities/safety",
-"https://dittmerforcongress.com/privacy-policy",
-"https://dittmerforcongress.com/shop",
-"https://dittmerforcongress.com/team-dittmer-1",
-"https://dittmerforcongress.com/volunteer",
-"https://facebook.com/dittmerforcongress",
-"https://goteamdittmer.com/",
-"https://instagram.com/dittmerforcongress",
-"https://mbkbrands.com/",
-"https://secure.numero.ai/contribute/Let-s-Make-a-Difference-Together?amount=10",
-"https://secure.numero.ai/contribute/Let-s-Make-a-Difference-Together?amount=100",
-"https://secure.numero.ai/contribute/Let-s-Make-a-Difference-Together?amount=30",
-"https://secure.numero.ai/contribute/Let-s-Make-a-Difference-Together?amount=50",
-"https://secure.numero.ai/contribute/Let-s-Make-a-Difference-Together?amount=500",
-"https://secure.numero.ai/contribute/Let-s-Make-a-Difference-Together?amount=other",
-"https://tinyurl.com/mallorydittmerforcongress",
-"https://x.com/dittmerforsc"
+{
+"text": "$10",
+"href": "https://secure.numero.ai/contribute/Let-s-Make-a-Difference-Together?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.numero.ai/contribute/Let-s-Make-a-Difference-Together?amount=100"
+},
+{
+"text": "$30",
+"href": "https://secure.numero.ai/contribute/Let-s-Make-a-Difference-Together?amount=30"
+},
+{
+"text": "$50",
+"href": "https://secure.numero.ai/contribute/Let-s-Make-a-Difference-Together?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.numero.ai/contribute/Let-s-Make-a-Difference-Together?amount=500"
+},
+{
+"text": "0",
+"href": "https://www.dittmerforcongress.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.dittmerforcongress.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.dittmerforcongress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://tinyurl.com/mallorydittmerforcongress"
+},
+{
+"text": "Folder: About",
+"href": "https://www.dittmerforcongress.com/about-1"
+},
+{
+"text": "Folder: Volunteer",
+"href": "https://www.dittmerforcongress.com/team-dittmer-1"
+},
+{
+"text": "How to Vote!",
+"href": "https://www.dittmerforcongress.com/how-to-vote"
+},
+{
+"text": "JOIN US",
+"href": "https://www.dittmerforcongress.com/volunteer"
+},
+{
+"text": "Join Our Team",
+"href": "https://www.dittmerforcongress.com/volunteer"
+},
+{
+"text": "Join Team Dittmer",
+"href": "https://www.dittmerforcongress.com/volunteer"
+},
+{
+"text": "Meet Mallory",
+"href": "https://www.dittmerforcongress.com/meet-mallory"
+},
+{
+"text": "Merch & Signs",
+"href": "https://www.dittmerforcongress.com/shop"
+},
+{
+"text": "OTHER",
+"href": "https://secure.numero.ai/contribute/Let-s-Make-a-Difference-Together?amount=other"
+},
+{
+"text": "Priorities",
+"href": "https://www.dittmerforcongress.com/priorities"
+},
+{
+"text": "Privacy & Accessibility",
+"href": "https://www.dittmerforcongress.com/privacy-policy"
+},
+{
+"text": "Sign Up to Help",
+"href": "https://goteamdittmer.com"
+},
+{
+"text": "[image: Agriculture: Food Security is National Security]",
+"href": "https://www.dittmerforcongress.com/priorities/agriculture"
+},
+{
+"text": "[image: Economy: Afford to Live, Plan & Dream]",
+"href": "https://www.dittmerforcongress.com/priorities/economy"
+},
+{
+"text": "[image: Education: Strong Schools Free from Politics]",
+"href": "https://www.dittmerforcongress.com/priorities/education"
+},
+{
+"text": "[image: Elections: Ending Corruption in Campaigns & Elections]",
+"href": "https://www.dittmerforcongress.com/priorities/elections"
+},
+{
+"text": "[image: Health Care: Quality Healthcare Every American Can Afford]",
+"href": "https://www.dittmerforcongress.com/priorities/health-care"
+},
+{
+"text": "[image: Immigration: Order at the Border & Fairness in the System]",
+"href": "https://www.dittmerforcongress.com/priorities/immigration"
+},
+{
+"text": "[image: Mallory Dittmer for Congress SC District 5]",
+"href": "https://www.dittmerforcongress.com/"
+},
+{
+"text": "[image: National Security: Reclaiming Our Place as the Leader of the Free World]",
+"href": "https://www.dittmerforcongress.com/priorities/national-security"
+},
+{
+"text": "[image: Safety: Keeping Our Kids Safe is Non-Negotiable]",
+"href": "https://www.dittmerforcongress.com/priorities/safety"
+},
+{
+"text": "[no text]",
+"href": "http://tiktok.com/@dittmerforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/dittmerforcongress.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/dittmerforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dittmerforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@dittmerforcongress"
+},
+{
+"text": "mbk brands",
+"href": "https://mbkbrands.com"
+},
+{
+"text": "my platform",
+"href": "https://www.dittmerforcongress.com/priorities"
+}
 ]

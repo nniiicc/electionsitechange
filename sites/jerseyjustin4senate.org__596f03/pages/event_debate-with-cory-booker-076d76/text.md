@@ -1,4 +1,7 @@
-Debate with Cory Booker
-October 8 @ 6:30 pm - 9:30 pm
-Tune in for my debate with Cory Booker – Rider University, Thursday, October 8th; 6:30pm.
+Icon-email Instagram Icon-youtube-v Icon-facebook Issue energy Issue China Issue immigration Issue drugs Events Issue energy Issue China Issue immigration Issue drugs Events VIDEO ISSUES Issue energy Issue China Issue immigration Issue drugs Events Issue energy Issue China Issue immigration Issue drugs Events VIDEO ISSUES Icon-email Instagram Icon-youtube-v Icon-facebook « All Events Debate with Cory Booker October 8 @ 6:30 pm - 9:30 pm « Sayreville Town Hall Town Hall Ocean County » Tune in for my debate with Cory Booker – Rider University, Thursday, October 8th; 6:30pm.
 Republican Candidate for NJ’s US Senate Seat 2026 | Navy Veteran | Attorney | Author | Pro 2A | Pro Parental Rights | Pro Life | Pro America | Help me defeat Cory Booker and give NJ the representation it deserves!
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 8 Time: 6:30 pm - 9:30 pm Venue 2083 Lawrenceville Rd, Lawrenceville, NJ 08648, United States. « Sayreville Town Hall Town Hall Ocean County » MAKE A CONTRIBUTION TODAY Contributions by check are made out to: The Committee to Elect Justin Murphy 20 WORRELL ROAD, TABERNACLE, NEW JERSEY 08088 Donate CONTACT 609 969 0959 jerseyjustin4senate@gmail.com Instagram Icon-youtube-v Icon-facebook INFO Paid for by The Committee to Elect Justin Murphy Cynthia Gallenthin – Treasurer 20 WORRELL ROAD TABERNACLE, NJ 08088 ABOUT Video Issues Events Donations CONTACT 609 969 0959 jerseyjustin4senate@gmail.com Instagram Icon-youtube-v Icon-facebook INFO Paid for by The Committee to Elect Justin Murphy Cynthia Gallenthin – Treasurer 20 WORRELL ROAD TABERNACLE, NJ 08088 ABOUT Video Issues Events Donations © Jersey Justin for Senate.
+All Rights Reserved.
+Web: IGV Web Design © Jersey Justin for Senate.
+All Rights Reserved.
+Web: IGV Web Design privacy policy

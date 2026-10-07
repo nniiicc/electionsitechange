@@ -1,4 +1,4 @@
-Joe Timmons grew up in a working-class household where hard work, integrity, and service to others were everyday values.
+top of page DONATE Meet Joe Priorities Endorsements Latest News Events Menu Close DONATE Joe Timmons grew up in a working-class household where hard work, integrity, and service to others were everyday values.
 His father was a union pipefitter and, when Joe was young, his parents started a small mechanical contracting company that remains a successful business today.
 Watching his parents build a company and create good-paying jobs showed Joe what it means to invest in a community and create opportunities for working families.
 Those values guided Joe into a career in public service.
@@ -13,24 +13,17 @@ Joe is running for re-election because he believes there is still more work to d
 Too many families are struggling with the cost of housing, childcare, healthcare, and everyday expenses.
 Joe is committed to building on the progress that he has made and continuing to deliver practical solutions that make Whatcom County a place where people can afford to live, work, and raise a family.
 Joe lives in Bellingham with his wife Heather, and son Malcolm.
-MEET JOE
-LET'S GO!
-SIGN UP TO JOIN THE TEAM
-By providing your cell phone number you consent to receive recurring updates from Vote Joe Timmons, including by automated text message.
+MEET JOE LET'S GO!
+SIGN UP TO JOIN THE TEAM EMAIL CELL PHONE SIGN UP FIRST NAME By providing your cell phone number you consent to receive recurring updates from Vote Joe Timmons, including by automated text message.
 Txt HELP for help, STOP to end.
 Msg & Data rates may apply.
-Privacy Policy.
+Privacy Policy .
 Joe Timmons is a proud husband and father, State Representative, and advocate for working families who has dedicated his career to delivering real results for Whatcom County.
 Now, he's running for re-election to serve as State Representative in Washington's 42nd Legislative District in the November 2026 election.
-Support his campaign by making a contribution or signing up to volunteer.
-CONTRIBUTIONS CAN BE MAILED TO:
-Vote Joe Timmons
-PO Box 1995 Bellingham, WA 98227
-PAID FOR BY VOTE JOE TIMMONS (D)
-PO Box 1995 Bellingham, WA 98227
-By providing your cell phone number you consent to receive recurring updates from Vote Joe Timmons, including by automated text message.
+Support his campaign by making a contribution or signing up to volunteer .
+Like Like CONTRIBUTIONS CAN BE MAILED TO: Vote Joe Timmons PO Box 1995 Bellingham, WA 98227 Contact Joe Media Gallery Code of Conduct Privacy Policy Volunteer Menu Close PAID FOR BY VOTE JOE TIMMONS (D) PO Box 1995 Bellingham, WA 98227 By providing your cell phone number you consent to receive recurring updates from Vote Joe Timmons, including by automated text message.
 Txt HELP for help, STOP to end.
 Msg & Data rates may apply.
-Privacy Policy.
-@ COPYRIGHT 2026 VOTE JOE TIMMONS.
+Privacy Policy . @ COPYRIGHT # VOTE JOE TIMMONS.
 ALL RIGHTS RESERVED.
+Meet Joe Priorities Endorsements Latest News Events bottom of page

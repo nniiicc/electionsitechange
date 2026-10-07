@@ -1,6 +1,5 @@
-She Gets Important Stuff Done Fast!
-Passionate Advocate & Servant Leader
-Abigail Salisbury is the incumbent State Representative for District 34.
+About Issues Endorsements Donate Via ActBlue Volunteer Blog & News Contact Us About Home About About Issues Endorsements Donate Via ActBlue Volunteer Blog & News Contact Us She Gets Important Stuff Done Fast!
+Passionate Advocate & Servant Leader Abigail Salisbury is the incumbent State Representative for District 34.
 She was elected in the February 2023 special election.
 She previously served on Swissvale Borough Council for five years, where she focused on improving police hiring practices, governmental transparency, environmental initiatives, and activities for children.
 Abigail is also a small business owner.
@@ -14,3 +13,15 @@ She hopes to continue building on these successes in 2024 and beyond.
 Salisbury’s State House Committee assignments are Appropriations, Liquor, Environmental Resources & Energy, Commerce, and Local Government.
 She is the first Jewish person to serve in District 34 and is the only Jewish woman in the PA House.
 She is also the first openly-identifying non-neurotypical person to serve the district and the first openly-identifying LGBTQIA person to serve the district.
+Testimonials What People Say About Me “I trust Abigail to protect my right to decide when, and if, I want to have children.
+She has my vote to return to the Pennsylvania State House of Representatives.” Emily G.-H.
+Swissvale “Abigail helped me get my restaurant off the ground.
+She’ll always make sure small businesses have the resources we need to thrive.” Gaurav N.
+Owner, Bombay to Burgh An Opportunity to Do Something Take Action Become a Volunteer Get Involved We are looking for committed and motivated volunteers to help us at different levels and for various challenges.
+Learn More Host a Get-together Boost Our Efforts Help us get out to the communities in our district, hear voters' interests and issues, and raise awareness of our campaign.
+Learn More Make a Donation Support the Campaign Please consider making a donation to support Abigail's re-election.
+We need her in our State House representing our 34th District.
+Learn More About Endorsements Donate Volunteer Contact Facebook X formerly Twitter People for Abigail Salisbury © #.
+All Rights Reserved.
+Paid for by People for Abigail Salisbury.
+Go to mobile version

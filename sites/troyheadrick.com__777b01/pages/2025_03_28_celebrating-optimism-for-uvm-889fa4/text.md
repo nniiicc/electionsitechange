@@ -1,5 +1,4 @@
-Celebrating Optimism for UVM
-After more than a year of frustration and discouragement for staff at the University of Vermont, we’ve recently found reasons for genuine optimism.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Legislative Updates / Celebrating Optimism for UVM March 28, 2025 After more than a year of frustration and discouragement for staff at the University of Vermont, we’ve recently found reasons for genuine optimism.
 First, UVM Staff United has announced a tentative agreement on a new contract, following 13 challenging months of negotiation, a formal impasse, and intervention from a neutral fact-finder.
 This breakthrough couldn’t come soon enough, as morale and retention have suffered considerably amid prolonged uncertainty.
 Compounding this good news is the announcement of UVM’s next president, Dr.
@@ -18,4 +17,4 @@ I had the good fortune to briefly meet Dr.
 Tromp when she visited the State House and our brief exchange left me hopeful.
 I shared with her the honest truth: that as a longtime staff member and neighbor who deeply values this university, feeling even this slight glimmer of optimism is profoundly meaningful.
 My sincere hope is that we collectively offer her a genuine opportunity to lead by embracing this fresh start with grace, openness, and renewed enthusiasm.
-Today, optimism may have returned to UVM and that is something worth celebrating.
+Today, optimism may have returned to UVM and that is something worth celebrating. < The Power Crazed, Veto-Slinging Governor Strikes Again > Vermont’s Contract with ICE: When Collaboration Is Met With Executive Obstruction Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

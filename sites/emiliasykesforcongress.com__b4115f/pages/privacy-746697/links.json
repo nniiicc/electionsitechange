@@ -1,14 +1,58 @@
 [
-"http://fec.gov/",
-"https://aboutads.info/choices",
-"https://adobe.com/products/flashplayer/security",
-"https://emiliasykesforcongress.com/",
-"https://emiliasykesforcongress.com/about",
-"https://emiliasykesforcongress.com/issues",
-"https://emiliasykesforcongress.com/media",
-"https://emiliasykesforcongress.com/privacy",
-"https://facebook.com/EmiliaSykes",
-"https://instagram.com/emilia_sykes",
-"https://networkadvertising.org/managing/opt_out.asp",
-"https://twitter.com/EmiliaSykesOH"
+{
+"text": "ABOUT",
+"href": "https://www.emiliasykesforcongress.com/about"
+},
+{
+"text": "FEC website",
+"href": "http://www.fec.gov/"
+},
+{
+"text": "HOME",
+"href": "https://www.emiliasykesforcongress.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.emiliasykesforcongress.com/issues"
+},
+{
+"text": "MEDIA",
+"href": "https://www.emiliasykesforcongress.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.emiliasykesforcongress.com/privacy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/EmiliaSykes/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/emilia_sykes"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/EmiliaSykesOH"
+},
+{
+"text": "[image]",
+"href": "https://www.emiliasykesforcongress.com"
+},
+{
+"text": "info@emiliasykesforcongress.com",
+"href": "mailto:info@emiliasykesforcongress.com"
+},
+{
+"text": "maddie@emiliasykesforcongress.com",
+"href": "mailto:maddie@emiliasykesforcongress.com"
+},
+{
+"text": "www.aboutads.info/choices",
+"href": "https://www.aboutads.info/choices"
+},
+{
+"text": "www.networkadvertising.org/managing/opt_out.asp",
+"href": "https://www.networkadvertising.org/managing/opt_out.asp"
+}
 ]

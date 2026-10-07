@@ -1,6 +1,26 @@
 [
-"https://maxwellforhouse.com/",
-"https://maxwellforhouse.com/my-story",
-"https://maxwellforhouse.com/our-fight",
-"https://secure.anedot.com/maxwell-for-montana/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/maxwell-for-montana/donate"
+},
+{
+"text": "Home",
+"href": "https://maxwellforhouse.com/"
+},
+{
+"text": "My Story",
+"href": "https://maxwellforhouse.com/my-story/"
+},
+{
+"text": "Our Fight",
+"href": "https://maxwellforhouse.com/our-fight/"
+},
+{
+"text": "See Our Fight",
+"href": "https://maxwellforhouse.com/our-fight/"
+},
+{
+"text": "[image: Maxwell] House District 47",
+"href": "https://maxwellforhouse.com/"
+}
 ]

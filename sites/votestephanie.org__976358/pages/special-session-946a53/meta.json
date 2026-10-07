@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://votestephanie.org/special-session/",
- "paid_for_by": null,
+ "fingerprint": "4c66746e1d73f5cc793686fa8831dc2430bb895c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Special Session | Stephanie Gricius",
  "years_mentioned": [
-  "2023"
+  "2023",
+  "2026"
  ]
 }

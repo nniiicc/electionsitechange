@@ -1,4 +1,6 @@
-Congressman Brendan Boyle, D-13, of Philadelphia, announced Thursday he has reintroduced a bill that would set a national drinking water standard for perfluorinated compounds for the first time.
+Skip to content Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Brendan F.
+Boyle | U.S.
+Congress Representing Pennsylvania's 2nd District Facebook Twitter YouTube Instagram Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Congressman Brendan Boyle’s bill would set national PFC standard June 29, 2017 February 1, 2018 Congressman Brendan Boyle, D-13, of Philadelphia, announced Thursday he has reintroduced a bill that would set a national drinking water standard for perfluorinated compounds for the first time.
 There are hundreds of chemicals in the perfluorinated compound family, although PFOS and PFOA are the most well-known.
 The chemicals have been found in the drinking water of as many as 15 million Americans, including at nationally high amounts in the drinking water of some Bucks and Montgomery County communities.
 Presently, the Safe Drinking Water Act requires the EPA to conduct nationwide testing for “no more than 30” unregulated contaminants every five years under a program called the Unregulated Contaminant Monitoring Rule.
@@ -8,7 +10,8 @@ In the absence of a standard, the EPA has created an unenforceable “health adv
 Boyle said in a press release Thursday that it wasn’t enough.
 “Every day we continue to learn more about the scope and seriousness of perfluorinated compounds across the country.
 It’s past time we address these contaminants with the seriousness they merit,” Boyle said.
-Boyle’s bill, H.R. 3106, is brief, stipulating that the EPA publish a standard within two years of the bill’s passage.
+Boyle’s bill, H.R.
+3106, is brief, stipulating that the EPA publish a standard within two years of the bill’s passage.
 It calls for a standard for perfluorinated compounds, “including” PFOA and PFOS.
 It is co-sponsored by local congressmen Brian Fitzpatrick, R-8, of Middletown, and Patrick Meehan, R-7, of Upper Darby, as well as Reps.
 Frank Pallone, D-N.J., and Paul Tonko, D-N.Y.
@@ -16,5 +19,6 @@ The bill is part of a larger package of bills, spearheaded by Pallone, that woul
 “All Americans deserve to have confidence in the safety of their drinking water, no matter what state they live in or what activities have taken place in their communities,” Boyle added.
 However, the bills likely face a perilous path.
 Boyle and Pallone introduced similar bills last year, which ultimately did not pass.
-While Boyle’s bill this year already has some bipartisan support, Pallone’s H.R. 1068 presently has none.
-To read the original article click here
+While Boyle’s bill this year already has some bipartisan support, Pallone’s H.R.
+1068 presently has none.
+To read the original article click here The Hill Op-Ed: Trump’s Dangerous Gamble on State Department Funding Huffington Post: Citizenship Empowerment Search Search Keep Up with Brendan First Name Last Name Email Back to Top Facebook Twitter YouTube Instagram Paid for by Citizens for Boyle Powered by Fluida & WordPress.

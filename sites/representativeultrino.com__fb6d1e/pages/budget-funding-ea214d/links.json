@@ -1,20 +1,82 @@
 [
-"https://facebook.com/ultrinoforrep",
-"https://instagram.com/repultrino?hl=en",
-"https://representativeultrino.com/",
-"https://representativeultrino.com/annual-state-budget",
-"https://representativeultrino.com/arpa",
-"https://representativeultrino.com/budget-funding",
-"https://representativeultrino.com/city-budget",
-"https://representativeultrino.com/communityresources",
-"https://representativeultrino.com/contact-steve",
-"https://representativeultrino.com/copy-of-key-legislation",
-"https://representativeultrino.com/issues",
-"https://representativeultrino.com/meet-steve",
-"https://representativeultrino.com/meet-the-team",
-"https://representativeultrino.com/news",
-"https://representativeultrino.com/policy",
-"https://representativeultrino.com/state-grants",
-"https://twitter.com/repultrino?lang=en",
-"https://youtube.com/channel/UCtkdBI2g5TE98AlrTZHXVLQ"
+{
+"text": "ARPA",
+"href": "https://www.representativeultrino.com/arpa"
+},
+{
+"text": "Contact Steve",
+"href": "https://www.representativeultrino.com/contact-steve"
+},
+{
+"text": "Funding",
+"href": "https://www.representativeultrino.com/budget-funding"
+},
+{
+"text": "Home",
+"href": "https://www.representativeultrino.com"
+},
+{
+"text": "Issues",
+"href": "https://www.representativeultrino.com/issues"
+},
+{
+"text": "Legislative Wins",
+"href": "https://www.representativeultrino.com/copy-of-key-legislation"
+},
+{
+"text": "Meet Steve",
+"href": "https://www.representativeultrino.com/meet-steve"
+},
+{
+"text": "Meet the Team",
+"href": "https://www.representativeultrino.com/meet-the-team"
+},
+{
+"text": "Newsroom",
+"href": "https://www.representativeultrino.com/news"
+},
+{
+"text": "Policy",
+"href": "https://www.representativeultrino.com/policy"
+},
+{
+"text": "Resources",
+"href": "https://www.representativeultrino.com/communityresources"
+},
+{
+"text": "State Budget",
+"href": "https://www.representativeultrino.com/annual-state-budget"
+},
+{
+"text": "State Grants",
+"href": "https://www.representativeultrino.com/state-grants"
+},
+{
+"text": "Steven.Ultrino@MAhouse.gov",
+"href": "mailto:Steven.Ultrino@MAhouse.gov"
+},
+{
+"text": "Working with Malden",
+"href": "https://www.representativeultrino.com/city-budget"
+},
+{
+"text": "[image: Black Facebook Icon]",
+"href": "https://www.facebook.com/ultrinoforrep/"
+},
+{
+"text": "[image: Black Instagram Icon]",
+"href": "https://www.instagram.com/repultrino/?hl=en"
+},
+{
+"text": "[image: Black Twitter Icon]",
+"href": "https://twitter.com/repultrino?lang=en"
+},
+{
+"text": "[image: State house - bulfinch.png]",
+"href": "https://www.representativeultrino.com/state-grants"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/channel/UCtkdBI2g5TE98AlrTZHXVLQ"
+}
 ]

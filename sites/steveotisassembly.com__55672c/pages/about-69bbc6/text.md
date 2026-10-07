@@ -1,5 +1,4 @@
-About Steve Otis
-Assemblyman Steve Otis serves Sound Shore communities of Westchester County by using his work on local, county, state and federal issues and long-time leadership in the environmental community to win results and move issues of importance statewide and to the 91st Assembly District.
+Home News About Steve Priorities Endorsements Voter Info Volunteer Contribute Contact About Steve Otis Clic aquí para español Assemblyman Steve Otis serves Sound Shore communities of Westchester County by using his work on local, county, state and federal issues and long-time leadership in the environmental community to win results and move issues of importance statewide and to the 91 st Assembly District.
 Steve helped initiate the Water Infrastructure Improvement Act of 2015, the state grant program to assist municipalities in financing needed clean water projects.
 Since the creation of WIIA, the program has provided over $2.5 billion in water grants to over 1000 projects statewide: creating jobs, making environmental projects possible and making these projects more affordable for local taxpayers.
 Westchester communities have secured over $124 million in grants for 49 projects.
@@ -36,8 +35,7 @@ During Covid-19 the Assemblyman and his staff have worked to assist individuals,
 In March 2016, the Assemblyman received Audubon New York’s William Hoyt Environmental Excellence Award.
 In 2018 Assemblyman Otis received the Nelson A.
 Rockefeller Award from the New York Water Environment Association for his work on water quality funding.
-In 2017 the Westchester/Putnam Central Labor Body AFL-CIO honored the Assemblyman for “his ongoing dedication to the labor movement and the working men and women in New York State.”
-Before joining the Assembly, Otis served as Mayor of the City of Rye for 12 years from 1998 to 2009.
+In 2017 the Westchester/Putnam Central Labor Body AFL-CIO honored the Assemblyman for “his ongoing dedication to the labor movement and the working men and women in New York State.” Before joining the Assembly, Otis served as Mayor of the City of Rye for 12 years from 1998 to 2009.
 He is the longest-serving Mayor in the city’s history and is also a former president of the Westchester Municipal Officials Association, on whose executive committee he served from 2002 to 2012.
 In state government, Assemblyman Otis served as long-time Counsel and Chief of Staff to Senator Suzi Oppenheimer until his election to the Assembly.
 Before joining Senator Oppenheimer in 1985, Otis served as Senate Fellow and Legislative Director to State Senator Jeremy S.
@@ -55,3 +53,4 @@ He served as a member of the Assembly Work Group on Legislative Process, Operati
 The 91st Assembly District in Westchester County includes the communities along the Long Island Sound: Larchmont, Mamaroneck, New Rochelle, Port Chester, Rye and Rye Brook.
 The Assemblyman is a graduate of Hobart & William Smith Colleges and holds a master’s degree in public administration from NYU and a law degree from Hofstra University School of Law.
 Steve and his wife Martha, an executive in the book publishing business, reside in the City of Rye.
+Make a Contribution Contact Us Follow Friends of Steve Otis Paid for by Friends of Steve Otis | 57 High Point Circle, Rye Brook, NY 10573

@@ -1,14 +1,66 @@
 [
-"https://alexcookeforcongress.com/",
-"https://alexcookeforcongress.com/connect",
-"https://alexcookeforcongress.com/district-21",
-"https://alexcookeforcongress.com/get-involved",
-"https://alexcookeforcongress.com/issues",
-"https://alexcookeforcongress.com/meet-alex",
-"https://alexcookeforcongress.com/privacy",
-"https://alexcookeforcongress.com/terms",
-"https://alexcookeforcongress.com/vote",
-"https://registertovoteflorida.gov/",
-"https://registration.elections.myflorida.com/CheckVoterStatus",
-"https://secure.anedot.com/alex-cooke-for-congress/donate"
+{
+"text": "561-320-1698",
+"href": "tel:561-320-1698"
+},
+{
+"text": "Alex@alexcookeforcongress.com",
+"href": "mailto:Alex@alexcookeforcongress.com"
+},
+{
+"text": "Check Your StatusConfirm you’re registered and your address is current.Check status →",
+"href": "https://registration.elections.myflorida.com/CheckVoterStatus"
+},
+{
+"text": "Contact",
+"href": "https://alexcookeforcongress.com/connect"
+},
+{
+"text": "District 21",
+"href": "https://alexcookeforcongress.com/district-21"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/alex-cooke-for-congress/donate"
+},
+{
+"text": "Find Polling PlaceLocate your assigned precinct on Election Day.Look up →",
+"href": "https://registration.elections.myflorida.com/CheckVoterStatus"
+},
+{
+"text": "Get Involved",
+"href": "https://alexcookeforcongress.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://alexcookeforcongress.com/issues"
+},
+{
+"text": "Meet Alex",
+"href": "https://alexcookeforcongress.com/meet-alex"
+},
+{
+"text": "Privacy Policy",
+"href": "https://alexcookeforcongress.com/privacy"
+},
+{
+"text": "Register to VoteFlorida’s official online voter registration.Start now →",
+"href": "https://registertovoteflorida.gov/"
+},
+{
+"text": "Terms of Service",
+"href": "https://alexcookeforcongress.com/terms"
+},
+{
+"text": "Vote",
+"href": "https://alexcookeforcongress.com/vote"
+},
+{
+"text": "[image: Alex Cooke for Congress]",
+"href": "https://alexcookeforcongress.com/"
+},
+{
+"text": "alexcookeforcongress.com",
+"href": "https://alexcookeforcongress.com"
+}
 ]

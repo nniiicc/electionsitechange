@@ -1,12 +1,66 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScG2b_3EIKiRxBi_0-nU9sAS86Kz1wK3Cwx9Gz7G7uTikhvWw/viewform",
-"https://facebook.com/GerryPollet",
-"https://gerrypollet.com/",
-"https://gerrypollet.com/about",
-"https://gerrypollet.com/endorsements",
-"https://gerrypollet.com/issues",
-"https://gerrypollet.com/media",
-"https://gerrypollet.com/news-1",
-"https://instagram.com/electpollet",
-"https://secure.actblue.com/donate/gerry-pollet-2"
+{
+"text": "About Gerry",
+"href": "https://www.gerrypollet.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/gerry-pollet-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gerrypollet.com/endorsements"
+},
+{
+"text": "Get Involved >",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScG2b_3EIKiRxBi_0-nU9sAS86Kz1wK3Cwx9Gz7G7uTikhvWw/viewform"
+},
+{
+"text": "Give Now >",
+"href": "https://secure.actblue.com/donate/gerry-pollet-2"
+},
+{
+"text": "Issues",
+"href": "https://www.gerrypollet.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.gerrypollet.com/about"
+},
+{
+"text": "Many More >",
+"href": "https://www.gerrypollet.com/endorsements"
+},
+{
+"text": "Media",
+"href": "https://www.gerrypollet.com/media"
+},
+{
+"text": "News",
+"href": "https://www.gerrypollet.com/news-1"
+},
+{
+"text": "Read More",
+"href": "https://www.gerrypollet.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScG2b_3EIKiRxBi_0-nU9sAS86Kz1wK3Cwx9Gz7G7uTikhvWw/viewform"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/GerryPollet"
+},
+{
+"text": "[image: GerryPollet-Logo2.png]",
+"href": "https://www.gerrypollet.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electpollet/"
+},
+{
+"text": "info@gerrypollet.com",
+"href": "mailto:info@gerrypollet.com"
+}
 ]

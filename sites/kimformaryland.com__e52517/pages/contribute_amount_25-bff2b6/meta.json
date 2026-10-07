@@ -1,7 +1,9 @@
 {
  "description": "Contribute to the campaign",
  "final_url": "https://kimformaryland.com/contribute?amount=25",
- "paid_for_by": null,
+ "fingerprint": "77bdb617ac5c8e260d828705654166070046dd81",
+ "format": 3,
+ "paid_for_by": "Authorized by Friends for Kimberly Simmons Robinson - Arthur Simmons - Treasurer Complete your $ 25 contribution: Select Your Information Choose an amount: $10 $15 $25 $50 $",
  "title": "Contribute",
  "years_mentioned": []
 }

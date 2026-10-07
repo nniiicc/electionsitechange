@@ -1,7 +1,12 @@
 {
  "description": "Latest press releases and news from Massachusetts State Representative John Gaskey. Updates on property rights legislation, veteran support, and issues affecting Carver, Middleborough, and Wareham.",
  "final_url": "https://www.johngaskey.com/press",
- "paid_for_by": "Paid for by the Committee to Elect John Gaskey Privacy Policy | Website proudly built in Massachusetts by Hockomock Digital",
+ "fingerprint": "196dee330f6d722f67ac3aed90a6e6a8e2fcc226",
+ "format": 3,
+ "paid_for_by": "Paid for by the Committee to Elect John Gaskey Privacy Policy",
  "title": "Press Releases & News - Rep. John Gaskey, 2nd Plymouth District | John Gaskey - State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

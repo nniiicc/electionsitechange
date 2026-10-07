@@ -1,6 +1,5 @@
-About Jeff...
-Some Background info
-I moved to Arizona from the Chicago suburbs with my wife Mary and son Justin in 1999.
+Home About Me Endorsements Things to do Ways To Help Media Contact Me About Jeff...
+Some Background info I moved to Arizona from the Chicago suburbs with my wife Mary and son Justin in 1999.
 I was drawn to the Phoenix area by the glorious natural beauty and abundant sunshine.
 When I have time, I am an avid hiker and bicyclist.
 I also enjoy reading and all types of music.
@@ -14,8 +13,7 @@ I also proudly support candidates and causes that care about human dignity and r
 This includes causes that promote clean and fair elections, expanding voting rights, protecting people’s basic rights, and making sure Arizonans have access to food, shelter and healthcare.
 I have knocked on tens of thousands of doors for my school board races, and other candidates and causes.
 I always work to listen and to understand the issues that are concerning to my neighbors and to find common ground.
-WHy I'm Running
-Senator John Kavanagh has not only been an ardent supporter of private schools, a rubber stamp for extremist policies at the state and federal level, and a very strong proponent of the fraudulent Empowerment Scholarship Accounts, but he is also an Epstein apologist who said on the radio he didn’t think it was a big deal.
+WHy I'm Running Senator John Kavanagh has not only been an ardent supporter of private schools, a rubber stamp for extremist policies at the state and federal level, and a very strong proponent of the fraudulent Empowerment Scholarship Accounts, but he is also an Epstein apologist who said on the radio he didn’t think it was a big deal.
 Contrary to his own Christian values, year after year, he supports the persecution of a class of people for the way they live their lives.
 Session after session, he brings up bathroom and pronoun bills, wrapped in disingenuous moral and religious indignation.
 Because many of my current students are LGBTQ+, these attacks struck me very deeply.
@@ -35,13 +33,7 @@ But it's an American district first and foremost.
 Kavanagh doesn’t get to hide behind a red wall.
 He needs to answer to all his constituents, regardless of party.
 So I’m getting out there to bring the fight to him.
-As your State Senator
-Over the next year, I will be talking to Independents and Republicans to find out where their “Line in the Sand” is.
+As your State Senator Over the next year, I will be talking to Independents and Republicans to find out where their “Line in the Sand” is.
 I’ll be asking if we can count on them to support the candidate who gives a damn about accountability, the rule of law, human rights, the candidate who is fighting to make sure that everyone’s constitutional rights are protected.
 If we can persuade some of those people on the fence to vote our way, we have a shot.
-Then, when I take office, these are the top four areas I will be addressing to help every Arizonan thrive:
-● Public Education - funding properly/treating teachers like the respected professions they are.
-● Protecting people’s rights - our 1st amendment rights, everyone’s civil rights, voting rights, bodily rights... rights that have never been as in jeopardy as they are today
-● Affordability - I will prioritize lowering everyday costs and holding decision-makers accountable for policies that hurt Arizona families.
-● Supporting an agenda to protect and expand child care, protect healthcare - especially for our children - and those directly affected by federal cuts, eliminating medical debt, protecting our access to COVID vaccines, and making sure we keep vaccine requirements
-Paid for by "ELECTFORTNEY Authorized by Jeff Fortney
+Then, when I take office, these are the top four areas I will be addressing to help every Arizonan thrive: ● Public Education - funding properly/treating teachers like the respected professions they are. ● Protecting people’s rights - our 1st amendment rights, everyone’s civil rights, voting rights, bodily rights... rights that have never been as in jeopardy as they are today ● Affordability - I will prioritize lowering everyday costs and holding decision-makers accountable for policies that hurt Arizona families. ● Supporting an agenda to protect and expand child care, protect healthcare - especially for our children - and those directly affected by federal cuts, eliminating medical debt, protecting our access to COVID vaccines, and making sure we keep vaccine requirements Paid for by "ELECTFORTNEY Authorized by Jeff Fortney

@@ -1,7 +1,6 @@
-Contact
-Questions or comments?
+Home About Matt News On the Issues Endorsements Contact Contact Questions or comments?
 Let us know!
 Matt would love to hear from you!
 If you'd like a yard sign or campaign material...contact us!
-Paid for by Matt Lockett for State Representative
-Powered by CampaignPartner.com - Political Websites
+First Name Last Name Email Phone Address Address 2 City/Town State Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip I would like to volunteer I would like to canvass Get updates and news via email Subject: Message: Submit Polls Open In: November 3, 2026 at 6:00 AM VOLUNTEER DONATE DISTRICT 39 MAP Get Updates Thank you for signing up!
+Paid for by Matt Lockett for State Representative Powered by CampaignPartner.com - Political Websites Home About Matt News On the Issues Endorsements Contact Close Menu

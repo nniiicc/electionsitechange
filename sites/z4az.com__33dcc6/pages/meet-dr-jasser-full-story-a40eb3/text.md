@@ -1,14 +1,13 @@
-MEET DR.
-ZUHDI JASSER
-FULL STORY
-My parents
-My story begins before me, as all our stories do.
+DONATE 0 Skip to Content Meet Dr.
+Jasser My Plan Connect Endorsements Events Donate Open Menu Close Menu Donate Meet Dr.
+Jasser My Plan Connect Endorsements Events Open Menu Close Menu Meet Dr.
+Jasser My Plan Connect Endorsements Events Donate MEET DR.
+ZUHDI JASSER FULL STORY My parents My story begins before me, as all our stories do.
 My courageous parents escaped the country of their birth in 1966 and sought refuge in the United States after multiple military coups ended in the fascist Ba’ath (National Socialist Party) regime taking over Syria in 1963.
-I was taught from a young age that in America we could live and practice our faith more freely than anywhere else in the world.
+I was taught from a young age that in America we could live and practice our faith more freely than anywh ere else in the world.
 America gave my parents opportunities Syria never had.
 They were endlessly grateful for this country and instilled deep patriotism in me from my earliest memories in Wisconsin.
-The early years
-I was born in Ohio, but grew up in Wisconsin near Neenah and Appleton.
+The early years I was born in Ohio, but grew up in Wisconsin near Neenah and Appleton.
 In school, I was the only kid with a name and background like mine.
 I stood out.
 But I found my place and didn’t let it hold me back.
@@ -23,8 +22,7 @@ In High School, I began writing a column called “On The Right Track,” where 
 This would be my first foray into adding my voice to national conversations.
 It was also the first time I began to actively use my voice to disrupt the status quo in what was my small world at the time and speak truth into a void.
 I couldn’t have foreseen then how I would have to use my voice in the future.
-College and Medical School
-My father was a doctor and that career path immediately appealed to me.
+College and Medical School My father was a doctor and that career path immediately appealed to me.
 I had considered law, but I wanted to help people in a positive environment.
 Medicine seemed a much straighter and less antagonistic path to that goal.
 Ironically, most of my life’s work would put me squarely in the path of antagonism and deep battles over politics and religion.
@@ -45,8 +43,7 @@ I’ve never regretted that decision.
 My summers belonged to the military, where I participated in basic training and active duty training and research.
 I was first commissioned as an Ensign in the U.S.
 Navy in August 1988, and I graduated in May 1992 with a Doctor of Medicine with Honors in Research and President of the Alpha Omega Alpha Honor Society.
-Naval Service
-After graduation from medical school, I was selected to do my internship in Internal Medicine at the National Naval Medical Center in Bethesda, Maryland (now Walter Reed) from June 1992 to June 1993.
+Naval Service After graduation from medical school, I was selected to do my internship in Internal Medicine at the National Naval Medical Center in Bethesda, Maryland (now Walter Reed) from June 1992 to June 1993.
 After that, I jumped at the chance to see real action and operational duty on a military ship.
 I didn’t want to be confined to an office or clinic somewhere on land!
 I was thrilled to be selected as General Medical Officer and Medical Department Head aboard the USS El Paso (LKA 117), where I served from July 1993 to May 1994.
@@ -71,8 +68,7 @@ This was my first brush with terrorism.
 Just over three years later, the Twin Towers would fall and terrorism would become a household fear.
 After 11 years of service, I was honorably discharged from the U.S.
 Navy in May 1999.
-Making Arizona Home and Caring for Patients
-With military service behind me, I turned the page to my next chapter.
+Making Arizona Home and Caring for Patients With military service behind me, I turned the page to my next chapter.
 In June 1999, Gada and I settled our new home in Arizona.
 Choosing Arizona as our home made sense for personal reasons.
 My parents had moved to Arizona from Wisconsin several years prior and my father started practicing medicine here and my mother worked as a pharmacist.
@@ -94,8 +90,7 @@ I’m the former President of the Arizona Medical Association serving from 2006-
 In that role, I have long advocated for the preservation of the choice of private practice in medicine as one of five delegates to the American Medical Association.
 I became the founder and now a past-chair of the Private Practice Physicians’ Section at the AMA House of Delegates.
 In this role, I worked hard to bring often ignored voices to the forefront of the House of Medicine and challenge prevailing establishment opinions.
-National Security Work
-I love my country, and I love my faith.
+National Security Work I love my country, and I love my faith.
 During my life, both have been under attack from within.
 I came onto the national and international stage unexpectedly after 9/11 when I stood up as the lone voice calling for reform and eradication of radical islamist ideology to come from within Islam.
 But I had recognized and started confronting the poisonous theocratic ideology growing within Islam back in my college days.
@@ -112,8 +107,18 @@ Congress on the conditions for religious freedom in nations abroad.
 A part of my legacy I’m particularly proud of is co-founding the Muslim Reform Movement in 2015, a coalition of pro-liberty anti-Islamist Muslim reform-minded organizations based in the United States, Canada and Europe.
 I’ve written books, and been published in journals and as a columnist in the Wall Street Journal, National Review, Dallas Morning News, and the Arizona Republic to name a few.
 I’ve also been a frequent guest on multiple national news outlets including Fox News Channel, CNN, MSNBC, SkyNews, CBS, Al Jazeera, and BBC, speaking out against radical Islamist ideology and theocracy, and defending America.
-Family
-But my greatest joy in life has and will always be my wife Gada of over 25 years, and my three intelligent and beautiful children, Zachariah (22), Zaina (20), and Zaid (16) all born and raised in Arizona.
+Family But my greatest joy in life has and will always be my wife Gada of over 25 years, and my three intelligent and beautiful children, Zachariah (22), Zaina (20), and Zaid (16) all born and raised in Arizona.
 Just as my story didn’t begin with me, it won’t end with me either.
 They will carry the torch.
-I hope to leave my children and yours a country that more closely resembles the beacon of hope and opportunity where my parents sought refuge almost 60 years ago.
+I hope to leave my children and yours a country that more closely resembles the beacon of hope and opportunity where my parents sought refuge almost #ago.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Sign up today for the latest updates from Dr.
+Jasser.
+First Name Last Name Email Address Sign Up Thank you!
+Paid for by Friends of Dr.
+Jasser.
+Zuhdi Jasser is a retired lieutenant commander of the U.S.
+Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense. © Copyright #.
+All rights reserved.

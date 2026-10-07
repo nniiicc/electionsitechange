@@ -1,15 +1,11 @@
-ROCHESTER TEACHER’S ASSOCIATION ENDORSES
-JOE MORELLE FOR CONGRESS
-May 17, 2018 | Press Release
-Rochester, NY – Today, the Rochester Teacher’s Association (RTA) endorsed Joe Morelle’s candidacy for Congress in the 25th District.
+top of page ABOUT JOE FIGHTING FOR US ANTI-CORRUPTION AND DEMOCRACY REFORM PROTECTING AGING AMERICANS FIXING HEALTH CARE WOMEN'S RIGHTS COMMON SENSE GUN REFORM COMBATING THE CLIMATE CRISIS COMBATING OPIOID ADDICTION HONORING OUR VETERANS LGBTQ+ RIGHTS IMPROVING K-12 EDUCATION EXPANDING ACCESS TO HIGHER EDUCATION UPLIFTING FAMILIES TAKE ACTION JOIN THE TEAM INTERNSHIPS EARLY VOTING GUIDE PRIVACY POLICY VOTE BY MAIL CONTACT MORE Use tab to navigate through the menu items.
+DONATE ROCHESTER TEACHER’S ASSOCIATION ENDORSES JOE MORELLE FOR CONGRESS May 17, 2018 | Press Release Rochester, NY – Today, the Rochester Teacher’s Association (RTA) endorsed Joe Morelle’s candidacy for Congress in the 25th District.
 An affiliate of the American Federation of teachers, RTA has approximately 4,000 members in the Rochester region.
 “Joe Morelle is the right candidate to carry on Louise Slaughter’s proud legacy of standing up for Rochester’s schools and educators and fighting to ensure our children receive the quality education they deserve,” said Adam Urbanski, President, Rochester Teacher’s Association.
 “Joe has a long history of supporting public education and we need his leadership in Washington now more than ever.
-For the sake of our children’s future, it is critical that we come together to ensure Joe Morelle is our next Congressman.”
-“Quality public education is the foundation of a strong community,” said Morelle.
+For the sake of our children’s future, it is critical that we come together to ensure Joe Morelle is our next Congressman.” “Quality public education is the foundation of a strong community,” said Morelle.
 “As the husband of a retired teacher, I have been lucky to see firsthand the profound impact a teacher can have on a child’s life.
 That is why I know it is so important to fight for continued investment in our teachers, our schools, and our education system so that every student has the opportunity to succeed.
-I am proud to have the support of the RTA and I will fight every single day in Washington on their behalf.”
-Morelle, who currently serves as a state Assemblymember representing the towns of Brighton, Irondequoit and parts of the city of Rochester, has spent a lifetime in public service working to advance the best interests of his community.
+I am proud to have the support of the RTA and I will fight every single day in Washington on their behalf.” Morelle, who currently serves as a state Assemblymember representing the towns of Brighton, Irondequoit and parts of the city of Rochester, has spent a lifetime in public service working to advance the best interests of his community.
 In the Assembly, Morelle has successfully fought for historic increases in school aid, worked to expand pre-kindergarten and full-day kindergarten programs, secured new after-school slots in high-need districts, increased access to early college programs, and voted to enact the Excelsior Scholarship to make higher education more affordable for working families.
-Morelle has also received the endorsement of the New York State United Teachers (NYSUT) and American Federation of Teachers.
+Morelle has also received the endorsement of the New York State United Teachers (NYSUT) and American Federation of Teachers. ​ Join LEARN / GET INVOLVED About Joe News Volunteer Early Voting Donate Media Privacy Policy FIGHTING FOR US Protecting Aging Americans Fixing Health Care Women's Rights Common Sense Gun Reform Protecting Our Environment Honoring Our Veterans Anti-Corruption and Democracy Reform LGBTQ+ Rights Improving K-12 Education Expanding Access to Higher Education Uplifting Families Combating Opioid Addiction SOCIAL Facebook Twitter Instagram PAID FOR BY JOE MORELLE FOR CONGRESS bottom of page

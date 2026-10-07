@@ -1,13 +1,50 @@
 [
-"http://facebook.com/forwardwithforeman",
-"http://instagram.com/forwardwithforeman",
-"http://tiktok.com/@forwardwithforeman",
-"http://twitter.com/fwdwithforeman",
-"https://forwardwithforeman.com/",
-"https://forwardwithforeman.com/about",
-"https://forwardwithforeman.com/cart",
-"https://forwardwithforeman.com/endorsements-1",
-"https://forwardwithforeman.com/issues",
-"https://forwardwithforeman.com/join-our-campaign",
-"https://secure.actblue.com/donate/morganforeman"
+{
+"text": "0",
+"href": "https://www.forwardwithforeman.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.forwardwithforeman.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/morganforeman"
+},
+{
+"text": "Endorsements",
+"href": "https://www.forwardwithforeman.com/endorsements-1"
+},
+{
+"text": "Home",
+"href": "https://www.forwardwithforeman.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.forwardwithforeman.com/issues"
+},
+{
+"text": "Join Our Campaign!",
+"href": "https://www.forwardwithforeman.com/join-our-campaign"
+},
+{
+"text": "[image: Forward with Foreman]",
+"href": "https://www.forwardwithforeman.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/forwardwithforeman"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/forwardwithforeman"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/fwdwithforeman"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com/@forwardwithforeman"
+}
 ]

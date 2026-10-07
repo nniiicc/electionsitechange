@@ -1,37 +1,4 @@
-Priorities for California
-FAITH FAMILY FREEDOM FUTURE
-- AFFORDABILITY
-- BORDER SOLUTIONS
-- COMMON SENSE
-AFFORDABILITY
-HOUSING
-- Sky-High Rent
-- Home Ownership Out-of-Reach
-- Families Priced Out
-GAS & UTILITIES
-- Highest Gas Prices
-- Soaring Electricity Bills
-- Costly Commutes
-COST OF LIVING
-- Highest Taxes
-- Groceries Up
-- Insurance Spikes
-BORDER SOLUTIONS
-POLLUTION
-- Tijuana River Valley Sewage
-- E.
-Coli Concentrations
-- Industrial Run-Off & Trash
-COMMON SENSE
-GIRL’S SAFE SPACES
-- Boys Allowed in Girl’s Sports
-- Unfair Competition
-- Locker Room Privacy Issue
-PARENTAL RIGHTS
-- Public School Curriculum
-- Health Care Decisions
-- Religious Freedom & Moral Beliefs
-FRAUD & WASTE
-- Massive Fraud Allegations
-- Misappropriated Tax Dollars
-- Government Overreach
+0 Skip to Content Home Meet Art About Art Candidate Comparison Photo Gallery 250 Club Media News Events Issues Endorsements District Map Get Involved English DONATE Open Menu Close Menu Home Meet Art About Art Candidate Comparison Photo Gallery 250 Club Media News Events Issues Endorsements District Map Get Involved English DONATE Open Menu Close Menu Home Folder: Meet Art Back About Art Candidate Comparison Photo Gallery 250 Club Folder: Media Back News Events Issues Endorsements District Map Get Involved English Back DONATE Priorities for California FAITH FAMILY FREEDOM FUTURE AFFORDABILITY BORDER SOLUTIONS COMMON SENSE AFFORDABILITY HOUSING Sky-High Rent Home Ownership Out-of-Reach Families Priced Out GAS & UTILITIES Highest Gas Prices Soaring Electricity Bills Costly Commutes COST OF LIVING Highest Taxes Groceries Up Insurance Spikes BORDER SOLUTIONS POLLUTION Tijuana River Valley Sewage E.
+Coli Concentrations Industrial Run-Off & Trash COMMON SENSE GIRL’S SAFE SPACES Boys Allowed in Girl’s Sports Unfair Competition Locker Room Privacy Issue PARENTAL RIGHTS Public School Curriculum Health Care Decisions Religious Freedom & Moral Beliefs FRAUD & WASTE Massive Fraud Allegations Misappropriated Tax Dollars Government Overreach “Art Hodges is a Voice of Reason needed in the California Senate” GET INVOLVED JOIN OUR TEAM JOIN US NOW - GO HERE!
+Contact Us: info@arthodgesforsenate.com DONATE CALIFORNIA ISSUES Privacy Policy Follow Us on Social Media CONNECT WITH US Paid for by Art Hodges for Senate 2026 FPPC ID: 1482587 Copyright © #.
+All Rights Reserved

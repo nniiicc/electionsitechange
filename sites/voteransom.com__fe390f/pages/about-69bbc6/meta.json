@@ -1,13 +1,18 @@
 {
  "description": "",
  "final_url": "https://voteransom.com/about",
+ "fingerprint": "189b6dd69f07f87940d8aec8a05211a31733b9e6",
+ "format": 3,
  "paid_for_by": "Paid for by Ransom for Assembly 2026 FPPC ID #1477142 Please mail checks to: Political Reporting Plus c/o Ransom for Assembly, One W",
- "title": "About \u2014 Rhodesia Ransom for State Assembly",
+ "title": "About — Rhodesia Ransom for State Assembly",
  "years_mentioned": [
+  "2007",
+  "2009",
   "2011",
   "2012",
   "2015",
   "2016",
-  "2021"
+  "2021",
+  "2026"
  ]
 }

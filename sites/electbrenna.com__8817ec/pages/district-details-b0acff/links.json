@@ -1,15 +1,66 @@
 [
-"http://instagram.com/electbrenna",
-"https://electbrenna.com/",
-"https://electbrenna.com/about",
-"https://electbrenna.com/cart",
-"https://electbrenna.com/district-details",
-"https://electbrenna.com/platform",
-"https://electbrenna.com/support",
-"https://electbrenna.com/volunteer",
-"https://facebook.com/ElectBrenna",
-"https://iga.in.gov/information/find-legislators",
-"https://in.gov/sos/elections",
-"https://indianavoters.in.gov/",
-"https://secure.actblue.com/donate/brenna-geswein-1"
+{
+"text": "0",
+"href": "https://www.electbrenna.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electbrenna.com/about"
+},
+{
+"text": "Check Registration",
+"href": "https://indianavoters.in.gov"
+},
+{
+"text": "Check Your District",
+"href": "https://iga.in.gov/information/find-legislators"
+},
+{
+"text": "District 13",
+"href": "https://www.electbrenna.com/district-details"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/brenna-geswein-1"
+},
+{
+"text": "Go to Indiana Elections →",
+"href": "https://www.in.gov/sos/elections/"
+},
+{
+"text": "Go to Indiana Voter Portal →",
+"href": "https://indianavoters.in.gov"
+},
+{
+"text": "Home",
+"href": "https://www.electbrenna.com/"
+},
+{
+"text": "Platform",
+"href": "https://www.electbrenna.com/platform"
+},
+{
+"text": "Support",
+"href": "https://www.electbrenna.com/support"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electbrenna.com/volunteer"
+},
+{
+"text": "Voting Information",
+"href": "https://www.in.gov/sos/elections/"
+},
+{
+"text": "[image: Brenna Geswein for Indiana House District 13]",
+"href": "https://www.electbrenna.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/electbrenna"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectBrenna"
+}
 ]

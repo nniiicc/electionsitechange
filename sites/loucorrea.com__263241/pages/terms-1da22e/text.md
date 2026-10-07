@@ -1,8 +1,4 @@
-Terms of Use
-LOU CORREA FOR CONGRESS
-TERMS AND CONDITIONS OF USE
-Date of Last Revision: JUNE 23, 2016
-PLEASE READ THESE TERMS OF USE CAREFULLY.
+Home Meet Lou Support Lou Contact Press Package Donate Home Meet Lou Support Lou Contact Press Package Donate Terms of Use LOU CORREA FOR CONGRESS TERMS AND CONDITIONS OF USE Date of Last Revision: JUNE 23, 2016 PLEASE READ THESE TERMS OF USE CAREFULLY.
 BY ACCESSING OR USING THIS WEB SITE, MOBILE SITE OR MOBILE APPLICATION, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE.
 IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THIS WEB SITE, MOBILE SITE OR MOBILE APPLICATION.
 This website, mobile site or mobile application is operated by Lou Correa For Congress and/or its affiliated organizations (“LCFC,” “we,” or us”).
@@ -11,7 +7,7 @@ These Terms do not alter in any way the terms or conditions of any other agreeme
 We reserve the right to change or modify any of the terms and conditions contained in the Terms or any policy or guideline of the Sites, at any time and in our sole discretion.
 Any changes or modification will be effective immediately upon posting of the revisions on the Sites, and you waive any right you may have to receive specific notice of such changes or modifications.
 Your continued use of these Sites following the posting of changes or modifications will confirm your acceptance of such changes or modifications.
-All questions or comments about the sites or site content should be directed here.
+All questions or comments about the sites or site content should be directed here .
 1.
 Privacy Policy.
 Please refer to our Privacy Policy for information on how we collect, use and disclose personally identifiable information from our users.
@@ -22,35 +18,24 @@ These communications may include notices about your account (e.g., payment autho
 You agree that any notices, agreements, disclosures or other communications that we send to you electronically will satisfy any legal communication requirements, including, but not limited to, that such communications be in writing.
 You should maintain copies of electronic communications from us by printing a paper copy or saving an electronic copy.
 3.
-Mobile Communications.
-a.
+Mobile Communications. a.
 If you request to receive updates or other information by mobile phone or text message (the "SMS Service"), you consent to receiving text messages from us and our otherwise communicating with you via your mobile device.
 We do not charge for this SMS Service.
 However, your carrier's standard messaging, data and other rates and fees still apply to any messages you send, our confirmations and all subsequent SMS correspondence and/or transmissions.
 You should check with your carrier to find out what plans are available and how much they cost.
 All charges are billed by and payable to your mobile service provider.
-At any time, you may text STOP to cancel or HELP for customer support information.
-b.
+At any time, you may text STOP to cancel or HELP for customer support information. b.
 We will not be liable for any delays in the receipt of any SMS messages as delivery is subject to effective transmission from your mobile service operator.
-SMS MESSAGE SERVICES ARE PROVIDED ON AN "AS IS" BASIS, AND WE MAKE NO WARRANTY, EXPRESS OR IMPLIED, AND ALL WARRANTIES, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR PARTICULAR PURPOSE, ARE HEREBY EXPRESSLY DISCLAIMED.
-c.
+SMS MESSAGE SERVICES ARE PROVIDED ON AN "AS IS" BASIS, AND WE MAKE NO WARRANTY, EXPRESS OR IMPLIED, AND ALL WARRANTIES, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR PARTICULAR PURPOSE, ARE HEREBY EXPRESSLY DISCLAIMED. c.
 Data obtained from you in connection with this SMS Service may include your cell phone number, your carrier's name, and the date, time and content of your messages, as well as other information that you provide.
-We may use this information to contact you and to provide the services you request from us and as otherwise provided in our Privacy Policy.
-d.
-By requesting or otherwise using the SMS Service, you acknowledge and agree that we will have the right to change and/or terminate the SMS Service at any time, with or without cause and/or advance notice.
-e.
+We may use this information to contact you and to provide the services you request from us and as otherwise provided in our Privacy Policy. d.
+By requesting or otherwise using the SMS Service, you acknowledge and agree that we will have the right to change and/or terminate the SMS Service at any time, with or without cause and/or advance notice. e.
 All content provided in connection with the SMS Service is appropriate for ages 13 and older (T13+).
 4.
 Copyright and Limited License.
 Unless otherwise indicated in the Sites, the Sites and all content and other materials on the Sites, including, without limitation, LCFC's logo, and all designs, text, graphics, pictures, information, data, software, tools, widgets, sound files, other files and the selection and arrangement thereof (collectively, the "Site Materials") are the proprietary property of LCFC or its licensors or users and are protected by U.S. and international copyright laws.
 You are granted a limited, non-sublicensable license to access and use the Sites and the Site Materials for your informational, non-commercial and personal use only.
-Such license is subject to these Terms and does not include:
-(a) any resale or commercial use of the Sites or the Site Materials therein;
-(b) the reproduction, distribution, public performance or public display of any Site Materials, except as expressly permitted on the Site;
-(c) modifying or otherwise making any derivative uses of the Sites and the Site Materials, or any portion thereof;
-(d) use of any data mining, robots or similar data gathering or extraction methods;
-(e) downloading (other than the page caching) of any portion of the Sites, the Site Materials or any information contained therein, except as expressly permitted on the Sites; or
-(f) any use of the Sites or the Site Materials other than for its intended purpose.
+Such license is subject to these Terms and does not include: (a) any resale or commercial use of the Sites or the Site Materials therein; (b) the reproduction, distribution, public performance or public display of any Site Materials, except as expressly permitted on the Site; (c) modifying or otherwise making any derivative uses of the Sites and the Site Materials, or any portion thereof; (d) use of any data mining, robots or similar data gathering or extraction methods; (e) downloading (other than the page caching) of any portion of the Sites, the Site Materials or any information contained therein, except as expressly permitted on the Sites; or (f) any use of the Sites or the Site Materials other than for its intended purpose.
 Any use of the Sites or the Site Materials other than as specifically authorized herein, without the prior written permission of LCFC, is strictly prohibited and will terminate the license granted herein.
 Such unauthorized use may also violate applicable laws including without limitation copyright and trademark laws and applicable communications regulations and statutes.
 Unless explicitly stated herein, nothing in these Terms shall be construed as conferring any license to intellectual property rights, whether by estoppel, implication or otherwise.
@@ -61,7 +46,7 @@ In accordance with the Digital Millennium Copyright Act ("DMCA") and other appli
 LCFC may also at its sole discretion limit access to the Sites and/or terminate the accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
 6.
 Copyright Complaints.
-If you believe that anything on the Sites infringes upon any copyright which you own or control you may file a notification of such infringement with our agent form.
+If you believe that anything on the Sites infringes upon any copyright which you own or control you may file a notification of such infringement with our agent form .
 7.
 Trademarks.
 All logos and slogans contained in the Sites are trademarks of LCFC, its suppliers or licensors, or other third parties and may not be copied, imitated or used, in whole or in part, without the prior written permission of LCFC or the applicable trademark holder.
@@ -96,24 +81,15 @@ LCFC shall own exclusive rights, including all intellectual property rights, and
 User Content and Interactive Areas.
 The Sites may include interactive areas or services ("Interactive Areas"), such as a blog, in which you or other users may create, post, share or store content, messages, materials, data, information, text, graphics, audio, video, or other items or materials on the Sites ("User Content").
 You are solely responsible for your use of such Interactive Areas and use them at your own risk.
-By using any Interactive Areas, you agree not to post, upload to, transmit, distribute, store, create, or otherwise publish through the Sites any of the following:
-a.
-User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent, deceptive or misleading;
-b.
-User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law.
-c.
-User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party.
-d.
-User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity;
-e.
-Unsolicited promotions, political campaigning, advertising, or solicitations;
-f.
-Private information of any third party, including, without limitation, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers;
-g.
-Viruses, corrupted data or other harmful, disruptive or destructive files; and
-h.
-User Content which violates the terms of any LCFC guidelines, policies or rules posted on the Site or otherwise provided to you; and
-i.
+By using any Interactive Areas, you agree not to post, upload to, transmit, distribute, store, create, or otherwise publish through the Sites any of the following: a.
+User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent, deceptive or misleading; b.
+User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law. c.
+User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party. d.
+User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity; e.
+Unsolicited promotions, political campaigning, advertising, or solicitations; f.
+Private information of any third party, including, without limitation, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers; g.
+Viruses, corrupted data or other harmful, disruptive or destructive files; and h.
+User Content which violates the terms of any LCFC guidelines, policies or rules posted on the Site or otherwise provided to you; and i.
 User Content that, in the sole judgment of LCFC, is objectionable or which restricts or inhibits any other person from using or enjoying the Interactive Areas or the Sites, or which may expose LCFC or its users to any harm or liability of any type.
 LCFC takes no responsibility and assumes no liability for any User Content posted, stored or uploaded by you or any third party, or for any loss or damage thereto, nor is LCFC liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter.
 Your use of Interactive Areas is at your own risk.
@@ -149,4 +125,8 @@ Severability.
 If any provision of these Terms shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions.
 19.
 Questions & Contact Information.
-For Questions or comments about the Sites click HERE.
+For Questions or comments about the Sites click HERE .
+Donate Today Back to Top Meet Lou Support Lou Congressman Lou in the News Photos Register to Vote Press Endorsements Donate News P.O.
+Box 1107, Anaheim, CA 92815-1107 info@LouCorrea.com Paid for by Lou Correa for Congress FEC Campaign ID No.
+C00578302 ©Lou Correa For Congress # | Privacy Policy | Terms of Use | Contact Site Administrator P.O.
+Box 1107 Anaheim, CA 92815-1107

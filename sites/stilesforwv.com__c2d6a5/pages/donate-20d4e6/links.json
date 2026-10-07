@@ -1,7 +1,22 @@
 [
-"https://secure.actblue.com/donate/deborah-stiles-1",
-"https://stilesforwv.com/",
-"https://stilesforwv.com/campaign-information",
-"https://stilesforwv.com/donate",
-"https://stilesforwv.com/have-your-say"
+{
+"text": "Campaign Platform",
+"href": "https://www.stilesforwv.com/campaign-information/"
+},
+{
+"text": "Donate",
+"href": "https://www.stilesforwv.com/donate/"
+},
+{
+"text": "Donate with Act Blue",
+"href": "https://secure.actblue.com/donate/deborah-stiles-1"
+},
+{
+"text": "Have your say!",
+"href": "https://www.stilesforwv.com/have-your-say/"
+},
+{
+"text": "Stiles for WV",
+"href": "https://www.stilesforwv.com"
+}
 ]

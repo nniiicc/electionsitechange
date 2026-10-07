@@ -1,21 +1,9 @@
-Growing The Agriculture Industry
-Agriculture is the heart of Illinois’ economy with 70,000 farms that cover 27 million acres.
+Skip to main content Skip to footer Join the team to re-elect JB Meet JB Accomplishments Meet Christian News & Updates Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Growing The Agriculture Industry Agriculture is the heart of Illinois’ economy with 70,000 farms that cover more than 26 million acres.
 From day one, JB has been committed to growing the industry and helping rural families thrive.
-International Trade
-Secured over $4 billion in commitments from overseas purchasers of Illinois corn and soybeans
-Ag Education
-Expanded funding for vocational agriculture programs to train the farmers of tomorrow
-New Farmers
-Made FFA membership dues free for every student and increased investment in Illinois’ 4H programs
-Tax Relief
-Supported the sales tax exemption for agricultural equipment and ensured it remained in Illinois tax code
-Rural Mental Health
-Expanded the Farm Family Resource Initiative to address the mental health needs of farming communities in all 102 counties
-Share with Your Network
-Join #TeamJB
-Sign up to join the team today and receive updates from the campaign, learn about volunteer opportunities, and more.
+International Trade Secured over $4 billion in commitments from overseas purchasers of Illinois corn and soybeans in wake of the Trump administration’s trade war Ag Education Expanded funding for vocational agriculture programs to train the farmers of tomorrow New Farmers Made FFA membership dues free for every student and increased investment in Illinois’ 4H programs Tax Relief Supported the sales tax exemption for agricultural equipment and ensured it remained in Illinois tax code Rural Mental Health Expanded the Farm Family Resource Initiative to address the mental health needs of farming communities in all 102 counties Endorsements The Illinois AFL-CIO, Mid-America Carpenters Regional Council, and IUOE Local 150 have endorsed JB Pritzker for re-election in 2026.
+Share with Your Network Download Graphic Improving Public Safety Strengthening Rural & Downstate Communities Join #TeamJB Sign up to join the team today and receive updates from the campaign, learn about volunteer opportunities, and more.
 By submitting your mobile phone number you are agreeing to receive periodic text messages from this organization.
 Message and data rates may apply.
 Text HELP for more information.
 Text STOP to stop receiving messages.
-Privacy Policy and Terms & Conditions
+Privacy Policy and Terms & Conditions Meet JB Pritzker Accomplishments Meet Christian News & Updates Sign Up Contact Privacy Policy Terms & Conditions Paid for by JB for Governor español 中文 Polski español 中文 Polski

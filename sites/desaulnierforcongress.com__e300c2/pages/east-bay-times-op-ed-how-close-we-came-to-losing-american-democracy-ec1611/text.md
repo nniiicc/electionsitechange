@@ -1,6 +1,5 @@
-By Congressman Mark DeSaulnier
-I had a ringside seat for the insurrection last week.
-To keep me safe during House business because of my recent health battle, I was in a room right across from the House Floor waiting for votes.
+Skip to content Home Meet Mark Endorsements Issues Get Involved Civic Engagement Facebook Twitter Instagram Phone Email Main Menu East Bay Times Op-Ed: How close we came to losing American democracy In The News / February 12, 2021 April 29, 2021 By Congressman Mark DeSaulnier I had a ringside seat for the insurrection last week.
+To keep me safe during House business because of my recent health battle , I was in a room right across from the House Floor waiting for votes.
 It had a wonderful view of the National Mall all the way down to the Washington Monument.
 A little after noon, my staff and I began to see the crowd coming towards us.
 At first it appeared they were simply staging a protest and marching to the Capitol, but by 1 p.m. it was clear this was no normal protest.
@@ -29,6 +28,11 @@ If Congress doesn’t address the issues of economic inequality and racism, I fe
 We can’t let that happen.
 I am not naïve about the motives of the president or his followers.
 Donald Trump is guilty of sedition and his mob tried to overthrow the will of the American people.
-On Jan. 6, we came very close to losing American democracy.
+On Jan.
+6, we came very close to losing American democracy.
 We can’t let this go.
 If we do, I believe there is a distinct possibility my children and yours will no longer live in the country our Founders envisioned.
+View the opinion editorial.
+Post navigation ← Previous Post Next Post → Newsroom: In The News Message from Congressman DeSaulnier: Press Release Recent News: The countdown to my Shadelands fundraiser is on!
+August 15, 2024 Filed my papers to continue representing CA-10 in Congress!
+August 13, 2024 Copyright © # Mark DeSaulnier For Congress Home Meet Mark Endorsements Issues Get Involved Civic Engagement

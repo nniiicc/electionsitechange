@@ -1,8 +1,5 @@
-ABOUT ME
-Hello, I'm Delegate
-Cheryl Pasteur
-MY JOURNEY
-I am an educator …always and forever.
+top of page Maryland General Assembly Subscribe to My Newsletter Donate Home About Issues News Events Resources and Scholarships Endorsements Get Involved More Use tab to navigate through the menu items.
+ABOUT ME Hello, I'm Delegate Cheryl Pasteur MY JOURNEY I am an educator …always and forever.
 For most of my adult life, I have taught… first, in Baltimore City and, later, in Baltimore County Schools.
 In 1983, as much as I enjoyed teaching and working with children, I decided I wanted to explore another interest of mine, law enforcement.
 To this end, I served as an FBI agent for several years.
@@ -18,12 +15,11 @@ Running for the delegate seat was a natural move for me when the State Legislatu
 After winning the election, I was sworn into the Maryland House of Delegates on January 11, 2023.
 I currently serve on the Ways & Means Committee, which gives me an opportunity to use my education and law enforcement backgrounds.
 Working for the people in 11A and all those in the County and State has been a re-vitalizing experience.
-MY VISION
-It is my goal is to create a more equitable and just society, where every person has the opportunity to reach their full potential.
+MY VISION It is my goal is to create a more equitable and just society, where every person has the opportunity to reach their full potential.
 I believe that education is the key to unlocking this potential, and I am committed to ensuring that every person has access to quality education and the resources they need to succeed.
 With a focus on empowerment and community building, I am dedicated to creating a brighter future for all Marylanders.
-MY MISSION
-Empowering Communities
-My mission is to build stronger, more resilient communities, where everyone has the opportunity to thrive.
+MY MISSION Empowering Communities My mission is to build stronger, more resilient communities, where everyone has the opportunity to thrive.
 Through education, empowerment, and collaboration, I am committed to creating a more just and equitable society, where everyone is valued and respected.
 With a focus on community building, I believe that we can create real, lasting change in Baltimore County and the State of Maryland.
+By Authority: Friends for Cheryl Pasteur, Deborah M.
+Moore, Treasurer Mail cherylpasteurfor11a@gmail.com bottom of page

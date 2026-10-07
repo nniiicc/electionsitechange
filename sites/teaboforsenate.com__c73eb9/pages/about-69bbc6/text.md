@@ -1,5 +1,4 @@
-About Shannon
-Born and raised in Central Massachusetts, Shannon has lived the struggles of the working people in Massachusetts.
+0 Skip to Content Home About District Map Priorities Gallery Calendar Contact DONATE Open Menu Close Menu Home About District Map Priorities Gallery Calendar Contact DONATE Open Menu Close Menu Home About District Map Priorities Gallery Calendar Contact DONATE About Shannon Born and raised in Central Massachusetts, Shannon has lived the struggles of the working people in Massachusetts.
 Shannon grew up in Northborough and graduated from Algonquin Regional High School.
 She went on to attend Worcester State University, where she received her bachelor’s degree in criminal justice.
 Shannon has professional experience in customer service, veterinary hospital work, and human services.
@@ -10,3 +9,4 @@ Shannon will bring fresh ideas, enthusiasm, and advocacy for communities that ha
 She doesn’t have the baggage of previously formed political ties that would make a Senator beholden to those in power.
 She will be a servant of the people of the Worcester & Hampshire district.
 She will stand in her beliefs, her passion and empathy for her constituents!
+Shannon Teabo for State Senate Paid for and authorized by Teabo Committee Contact PO Box 262 West Brookfield, MA 01585 info@teaboforsenate.com Made with Squarespace

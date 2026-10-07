@@ -1,16 +1,94 @@
 [
-"https://facebook.com/vote4perry",
-"https://instagram.com/wix",
-"https://secure.winred.com/vote-for-perry/donate",
-"https://vote4perry.com/",
-"https://vote4perry.com/about",
-"https://vote4perry.com/accessibility-statement",
-"https://vote4perry.com/contact",
-"https://vote4perry.com/district-map",
-"https://vote4perry.com/news",
-"https://vote4perry.com/post/how-to-make-your-voice-heard-in-elections",
-"https://vote4perry.com/post/understanding-election-politics-key-insights-for-voters",
-"https://vote4perry.com/privacy-policy",
-"https://vote4perry.com/sign",
-"https://vote4perry.com/terms-and-conditions"
+{
+"text": "About",
+"href": "https://www.vote4perry.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.vote4perry.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.vote4perry.com/accessibility-statement"
+},
+{
+"text": "All Posts",
+"href": "https://www.vote4perry.com/news"
+},
+{
+"text": "Campaign Announcement",
+"href": "https://www.vote4perry.com/post/how-to-make-your-voice-heard-in-elections"
+},
+{
+"text": "Contact",
+"href": "https://www.vote4perry.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/vote-for-perry/donate"
+},
+{
+"text": "District Map",
+"href": "https://www.vote4perry.com/district-map"
+},
+{
+"text": "Events",
+"href": "https://www.vote4perry.com/district-map"
+},
+{
+"text": "Gallery",
+"href": "https://www.vote4perry.com/terms-and-conditions"
+},
+{
+"text": "Get Involved",
+"href": "https://www.vote4perry.com"
+},
+{
+"text": "Home",
+"href": "https://www.vote4perry.com"
+},
+{
+"text": "Home",
+"href": "https://www.vote4perry.com/news"
+},
+{
+"text": "News",
+"href": "https://www.vote4perry.com/news"
+},
+{
+"text": "Perry Keenan",
+"href": "https://www.vote4perry.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.vote4perry.com/privacy-policy"
+},
+{
+"text": "Request a Sign",
+"href": "https://www.vote4perry.com/sign"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.vote4perry.com/contact"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.vote4perry.com/privacy-policy"
+},
+{
+"text": "Understanding Election Politics: Key Insights for Voters",
+"href": "https://www.vote4perry.com/post/understanding-election-politics-key-insights-for-voters"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/vote4perry"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "vote4perrytn@gmail.com",
+"href": "mailto:vote4perrytn@gmail.com"
+}
 ]

@@ -1,11 +1,50 @@
 [
-"https://samsonforgeorgia.com/",
-"https://samsonforgeorgia.com/about",
-"https://samsonforgeorgia.com/contact-us",
-"https://samsonforgeorgia.com/events",
-"https://samsonforgeorgia.com/get-involved",
-"https://samsonforgeorgia.com/platform",
-"https://samsonforgeorgia.com/pledge",
-"https://secure.actblue.com/donate/samson58",
-"https://solidarity.tech/"
+{
+"text": "ABOUT",
+"href": "https://www.samsonforgeorgia.com/about"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.samsonforgeorgia.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/samson58"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://samsonforgeorgia.com#section_17967"
+},
+{
+"text": "MEET AN ORGANIZER",
+"href": "https://www.samsonforgeorgia.com/get-involved"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.samsonforgeorgia.com/platform"
+},
+{
+"text": "PLEDGE TO SUPPORT",
+"href": "https://www.samsonforgeorgia.com/pledge"
+},
+{
+"text": "Solidarity Tech",
+"href": "https://www.solidarity.tech"
+},
+{
+"text": "UPCOMING EVENTS",
+"href": "https://www.samsonforgeorgia.com/events"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.samsonforgeorgia.com/events"
+},
+{
+"text": "[image]",
+"href": "https://www.samsonforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.solidarity.tech"
+}
 ]

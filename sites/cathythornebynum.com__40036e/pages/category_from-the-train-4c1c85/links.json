@@ -1,13 +1,54 @@
 [
-"http://cathythornebynum.com/category/from-the-train",
-"http://cathythornebynum.com/contact-me",
-"http://cathythornebynum.com/meet-kathy",
-"https://cathythornebynum.com/",
-"https://cathythornebynum.com/2026/03/19/hello-world",
-"https://cathythornebynum.com/author/kenrobol",
-"https://cathythornebynum.com/how-you-can-help",
-"https://cathythornebynum.com/meet-cathy",
-"https://cathythornebynum.com/my-vision",
-"https://cookieadmin.net/",
-"https://secure.anedot.com/committee-to-elect-cathy-thorne-bynum/donate"
+{
+"text": "About",
+"href": "http://cathythornebynum.com/meet-kathy/"
+},
+{
+"text": "Cathy’s Team",
+"href": "https://cathythornebynum.com/author/kenrobol/"
+},
+{
+"text": "Contact",
+"href": "http://cathythornebynum.com/contact-me"
+},
+{
+"text": "Contact",
+"href": "http://cathythornebynum.com/contact-me/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/committee-to-elect-cathy-thorne-bynum/donate"
+},
+{
+"text": "From the Trail",
+"href": "http://cathythornebynum.com/category/from-the-train/"
+},
+{
+"text": "How you can help",
+"href": "https://cathythornebynum.com/how-you-can-help/"
+},
+{
+"text": "March 19, 2026",
+"href": "https://cathythornebynum.com/2026/03/19/hello-world/"
+},
+{
+"text": "Meet Cathy",
+"href": "https://cathythornebynum.com/meet-cathy/"
+},
+{
+"text": "My Vision",
+"href": "https://cathythornebynum.com/my-vision/"
+},
+{
+"text": "Powered by",
+"href": "https://cookieadmin.net/"
+},
+{
+"text": "Welcome from the trail",
+"href": "https://cathythornebynum.com/2026/03/19/hello-world/"
+},
+{
+"text": "[image: Cathy Thorne Bynum]",
+"href": "https://cathythornebynum.com/"
+}
 ]

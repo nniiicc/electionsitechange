@@ -1,28 +1,106 @@
 [
-"https://amandaforalabama.com/",
-"https://amandaforalabama.com/about",
-"https://amandaforalabama.com/cart",
-"https://amandaforalabama.com/endorsements",
-"https://amandaforalabama.com/events",
-"https://amandaforalabama.com/policy",
-"https://amandaforalabama.com/press",
-"https://amandaforalabama.com/shop",
-"https://amandaforalabama.com/volunteer",
-"https://couragefordemocracy.com/",
-"https://facebook.com/AmandaforAlabama",
-"https://forthefuturepac.com/",
-"https://gunsensevoter.org/candidates?usState=AL&useMyLocation=true",
-"https://instagram.com/amandaforalabama",
-"https://instagram.com/p/DVURMlzEWhZ",
-"https://patientsoverprofits.org/",
-"https://secure.actblue.com/donate/amandaforalabama",
-"https://secure.actblue.com/donate/amandaforalabama?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/amandaforalabama?amount=125&express_lane=true",
-"https://secure.actblue.com/donate/amandaforalabama?amount=150&express_lane=true",
-"https://secure.actblue.com/donate/amandaforalabama?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/amandaforalabama?amount=50&express_lane=true",
-"https://secure.actblue.com/donate/amandaforalabama?amount=75&express_lane=true",
-"https://take-bac-congress.us/team",
-"https://theadc.org/",
-"https://tiktok.com/@apusczek26"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/amandaforalabama?amount=100&express_lane=true"
+},
+{
+"text": "$125",
+"href": "https://secure.actblue.com/donate/amandaforalabama?amount=125&express_lane=true"
+},
+{
+"text": "$150",
+"href": "https://secure.actblue.com/donate/amandaforalabama?amount=150&express_lane=true"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/amandaforalabama?amount=25&express_lane=true"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/amandaforalabama?amount=50&express_lane=true"
+},
+{
+"text": "$75",
+"href": "https://secure.actblue.com/donate/amandaforalabama?amount=75&express_lane=true"
+},
+{
+"text": "0",
+"href": "https://www.amandaforalabama.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amandaforalabama"
+},
+{
+"text": "Endorsements",
+"href": "https://www.amandaforalabama.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.amandaforalabama.com/events"
+},
+{
+"text": "Meet Amanda",
+"href": "https://www.amandaforalabama.com/about"
+},
+{
+"text": "Policy Plans",
+"href": "https://www.amandaforalabama.com/policy"
+},
+{
+"text": "Press",
+"href": "https://www.amandaforalabama.com/press"
+},
+{
+"text": "Shop",
+"href": "https://www.amandaforalabama.com/shop"
+},
+{
+"text": "Volunteer",
+"href": "https://www.amandaforalabama.com/volunteer"
+},
+{
+"text": "[image: Amanda Pusczek for Alabama CD-4]",
+"href": "https://www.amandaforalabama.com/"
+},
+{
+"text": "[image]",
+"href": "https://couragefordemocracy.com/"
+},
+{
+"text": "[image]",
+"href": "https://gunsensevoter.org/candidates/?usState=AL&useMyLocation=true"
+},
+{
+"text": "[image]",
+"href": "https://patientsoverprofits.org/"
+},
+{
+"text": "[image]",
+"href": "https://theadc.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.forthefuturepac.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/p/DVURMlzEWhZ/"
+},
+{
+"text": "[image]",
+"href": "https://www.take-bac-congress.us/team"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@apusczek26"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AmandaforAlabama/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/amandaforalabama/"
+}
 ]

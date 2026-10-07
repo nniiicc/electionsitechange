@@ -1,6 +1,30 @@
 [
-"https://facebook.com/wicklundforassembly",
-"https://myvote.wi.gov/",
-"https://wicklundforassembly.com/donate",
-"https://wicklundforassembly.com/privacy"
+{
+"text": "Check My Registration",
+"href": "https://myvote.wi.gov"
+},
+{
+"text": "Chip In",
+"href": "https://wicklundforassembly.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://wicklundforassembly.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://wicklundforassembly.com/donate"
+},
+{
+"text": "Follow the campaign on Facebook",
+"href": "https://www.facebook.com/wicklundforassembly"
+},
+{
+"text": "Privacy Policy",
+"href": "https://wicklundforassembly.com/privacy"
+},
+{
+"text": "info@wicklundforassembly.com",
+"href": "mailto:info@wicklundforassembly.com"
+}
 ]

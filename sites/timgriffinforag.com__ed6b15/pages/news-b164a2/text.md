@@ -1,33 +1,19 @@
-AG-elect Griffin Announces Senior Staff and Restructuring
-Griffin: Staff will serve with ‘excellence’ and the ‘highest level of professionalism’ for Arkansans LITTLE ROCK – Lt.
-Governor and Attorney General-elect Tim Griffin today
-Bewley to Join AG-Elect Griffin’s Staff As Chief of Investigations
-Griffin: Bewley ‘brings professionalism and a wealth of law enforcement experience’ LITTLE ROCK – Lt.
-Governor and Attorney General-Elect Tim Griffin today released the following
-A Plan For A Safer Arkansas
-The issue of crime has been in the news a lot lately and weighs heavily on the minds of Arkansans for good reason.
-A study this
-Griffin Wins GOP Nomination for Attorney General
-Says, He is ‘grateful’ and ‘humbled’…’The voters made their voice loud and clear’ LITTLE ROCK – Lt.
-Governor Tim Griffin released the following statement after
-Griffin Endorses Pay Increase for Arkansas State Police
-Says, ‘It’s not enough to just say we ‘Back the Blue’… ‘I am proud to lend my support’ LITTLE ROCK – On Friday, Lt.
-Governor
-Griffin Continues Historically Strong Fundraising Haul in Race for Attorney General
-Campaign’s ‘outpouring of support… smashes all previous records for an Attorney General race in Arkansas’ LITTLE ROCK – Lt.
-Governor Tim Griffin announced today that
-Griffin Surpasses $2 Million Raised for Attorney General
-Maintaining massive cash on hand total, Griffin says he is ‘humbled by the strong support we’re receiving from every corner of Arkansas’ LITTLE ROCK – Lt.
-Former Florida AG Pam Bondi Endorses Tim Griffin for Attorney General
-Says, Griffin’s ‘prosecutorial and military experience will be a tremendous asset to the State of Arkansas’ LITTLE ROCK – Lt.
-Governor Tim Griffin announced today
-South Dakota Governor Kristi Noem Endorses Tim Griffin for Attorney General
-Says, Griffin ‘is a strong defender of law and order and will make a fantastic Attorney General’ LITTLE ROCK – Lt.
-Governor Tim Griffin announced
-Indiana Attorney General Todd Rokita Endorses Tim Griffin for Attorney General
-Says, Griffin will ‘support the Constitution, back our men and women in law enforcement and keep the Biden-Harris administration from overrunning our liberties’ LITTLE ROCK
-Louisiana Attorney General Jeff Landry Endorses Tim Griffin for Attorney General
-Says, Griffin is a ‘steadfast conservative’ and ‘I look forward to working with Tim’ LITTLE ROCK – Lt.
-Governor Tim Griffin announced today the endorsement of
-Griffin Announces Campaign for Attorney General
-Says ‘We need an Attorney General who will back law enforcement, stand for law and order by cracking down on crime and corruption, and fight
+Skip to primary navigation Skip to main content Skip to primary sidebar Skip to footer Home Meet Tim Join our Team Donate Contact Campaign News Search Campaign News AG-elect Griffin Announces Senior Staff and Restructuring December 9, 2022 Griffin: Staff will serve with ‘excellence’ and the ‘highest level of professionalism’ for Arkansans LITTLE ROCK – Lt.
+Governor and Attorney General-elect Tim Griffin today Read More » Bewley to Join AG-Elect Griffin’s Staff As Chief of Investigations December 1, 2022 Griffin: Bewley ‘brings professionalism and a wealth of law enforcement experience’ LITTLE ROCK – Lt.
+Governor and Attorney General-Elect Tim Griffin today released the following Read More » A Plan For A Safer Arkansas October 24, 2022 The issue of crime has been in the news a lot lately and weighs heavily on the minds of Arkansans for good reason.
+A study this Read More » Griffin Wins GOP Nomination for Attorney General May 25, 2022 Says, He is ‘grateful’ and ‘humbled’…’The voters made their voice loud and clear’ LITTLE ROCK – Lt.
+Governor Tim Griffin released the following statement after Read More » Griffin Endorses Pay Increase for Arkansas State Police January 21, 2022 Says, ‘It’s not enough to just say we ‘Back the Blue’… ‘I am proud to lend my support’ LITTLE ROCK – On Friday, Lt.
+Governor Read More » Griffin Continues Historically Strong Fundraising Haul in Race for Attorney General January 14, 2022 Campaign’s ‘outpouring of support… smashes all previous records for an Attorney General race in Arkansas’ LITTLE ROCK – Lt.
+Governor Tim Griffin announced today that Read More » Griffin Surpasses $# Million Raised for Attorney General July 15, 2021 Maintaining massive cash on hand total, Griffin says he is ‘humbled by the strong support we’re receiving from every corner of Arkansas’ LITTLE ROCK – Lt.
+Read More » Former Florida AG Pam Bondi Endorses Tim Griffin for Attorney General February 15, 2021 Says, Griffin’s ‘prosecutorial and military experience will be a tremendous asset to the State of Arkansas’ LITTLE ROCK – Lt.
+Governor Tim Griffin announced today Read More » South Dakota Governor Kristi Noem Endorses Tim Griffin for Attorney General February 12, 2021 Says, Griffin ‘is a strong defender of law and order and will make a fantastic Attorney General’ LITTLE ROCK – Lt.
+Governor Tim Griffin announced Read More » Indiana Attorney General Todd Rokita Endorses Tim Griffin for Attorney General February 11, 2021 Says, Griffin will ‘support the Constitution, back our men and women in law enforcement and keep the Biden-Harris administration from overrunning our liberties’ LITTLE ROCK Read More » Louisiana Attorney General Jeff Landry Endorses Tim Griffin for Attorney General February 9, 2021 Says, Griffin is a ‘steadfast conservative’ and ‘I look forward to working with Tim’ LITTLE ROCK – Lt.
+Governor Tim Griffin announced today the endorsement of Read More » Griffin Announces Campaign for Attorney General February 8, 2021 Says ‘We need an Attorney General who will back law enforcement, stand for law and order by cracking down on crime and corruption, and fight Read More » Primary Sidebar Used for the like, share, comment, and reaction icons This message is only visible to admins.
+Problem displaying Facebook posts.
+Error: Server configuration issue Campaign News AG-elect Griffin Announces Senior Staff and Restructuring December 9, 2022 Bewley to Join AG-Elect Griffin’s Staff As Chief of Investigations December 1, 2022 A Plan For A Safer Arkansas October 24, 2022 Twitter feed is not available at the moment.
+Footer Attorney General Griffin is currently an officer in the Arkansas Army National Guard and holds the rank of colonel.
+He served as an officer in the U.S.
+Army Reserve Judge Advocate General’s (JAG) Corps for more than 28 years.
+In 2005, he was mobilized to active duty as an Army prosecutor at Fort Campbell, Kentucky, and served with the 101st Airborne Division (Air Assault) in Mosul, Iraq.
+Use of Attorney General Griffin’s military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Paid for by Tim Griffin for Attorney General | Privacy Policy

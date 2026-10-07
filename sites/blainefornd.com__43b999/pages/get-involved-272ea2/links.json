@@ -1,16 +1,58 @@
 [
-"https://aquamarine-clam-963221.hostingersite.com/home",
-"https://blainefornd.com/about",
-"https://blainefornd.com/get-involved",
-"https://blainefornd.com/news",
-"https://blainefornd.com/vote",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=100",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=1000",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=200",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=25",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=50",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=500",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=750",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=other"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=100"
+},
+{
+"text": "$200",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=200"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=500"
+},
+{
+"text": "$750",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=750"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://blainefornd.com/get-involved/"
+},
+{
+"text": "Meet Blaine",
+"href": "https://blainefornd.com/about/"
+},
+{
+"text": "News",
+"href": "https://blainefornd.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=other"
+},
+{
+"text": "Priorities",
+"href": "https://aquamarine-clam-963221.hostingersite.com/home/#priorities"
+},
+{
+"text": "Vote",
+"href": "https://blainefornd.com/vote/"
+}
 ]

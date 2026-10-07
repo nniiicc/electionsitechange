@@ -1,6 +1,4 @@
-Husband, Father,
-Hoosier Conservative Leader
-Kyle Pierce was elected in 2022 to represent House District 36 in the Indiana General Assembly, where he has built a record as a pragmatic conservative focused on delivering results for Hoosiers.
+0 Skip to Content Home About Kyle's Record Get Involved Donate Open Menu Close Menu Home About Kyle's Record Get Involved Donate Open Menu Close Menu Home About Kyle's Record Get Involved Donate Husband, Father, Hoosier Conservative Leader Kyle Pierce was elected in 2022 to represent House District 36 in the Indiana General Assembly, where he has built a record as a pragmatic conservative focused on delivering results for Hoosiers.
 At the Indiana Statehouse, he has focused on creating higher-paying jobs, protecting individual liberties, empowering parents and families, expanding educational opportunity, increasing government transparency, and making state government more efficient and accountable.
 Born and raised in Central Indiana, Pierce comes from a proud manufacturing and military family.
 The grandson of two lifelong General Motors employees, he was raised with an appreciation for hard work, personal responsibility, and the opportunities created by a strong Indiana economy.
@@ -31,3 +29,4 @@ Pierce graduated from Ball State University and earned his law degree from India
 McKinney School of Law.
 In addition to serving in the Indiana House of Representatives, he works in the nonprofit sector.
 Kyle and his wife live in Anderson with their two children.
+Paid for by Pierce for Indiana • Copyright © #-#

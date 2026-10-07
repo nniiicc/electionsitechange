@@ -1,7 +1,11 @@
 {
  "description": "Events Home|No breadcrumbs",
  "final_url": "https://callison2026.com/events-page/",
+ "fingerprint": "2d018d8214aa65ac6552f23e4cabe97044d17bac",
+ "format": 3,
  "paid_for_by": "Paid for by Callison for Assembly 2026, FPPC ID #1483879",
  "title": "Events Page - Jenny Leilani Callison",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

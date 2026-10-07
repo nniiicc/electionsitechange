@@ -1,7 +1,9 @@
 {
  "description": "Donate",
  "final_url": "https://www.aydenscott4congress.com/Donate/",
- "paid_for_by": null,
+ "fingerprint": "813fc930b617c985a8097a4a1e731d5682b06215",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
  "years_mentioned": []
 }

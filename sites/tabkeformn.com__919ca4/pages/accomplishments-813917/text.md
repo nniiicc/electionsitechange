@@ -1,20 +1,5 @@
-getting work done for you
-meaningful impact
-I’m committed to getting things done for Shakopeans.
+0 Skip to Content Vote Act Donate Volunteer Yard Signs Issues About Meet Brad Endorsements Accomplishments In the News Media Room Connect Survey CHIP IN NOW Open Menu Close Menu Vote Act Donate Volunteer Yard Signs Issues About Meet Brad Endorsements Accomplishments In the News Media Room Connect Survey CHIP IN NOW Open Menu Close Menu Vote Folder: Act Back Donate Volunteer Yard Signs Issues Folder: About Back Meet Brad Endorsements Accomplishments In the News Media Room Connect Survey CHIP IN NOW getting work done for you meaningful impact I’m committed to getting things done for Shakopeans.
 That’s why I’ve held dozens of town halls; created senior, youth, and small business advisory groups, and negotiated and authored impactful bills that were ultimately signed into law.
-Legislation that:
-- Improves mass transit, child passenger protections, road safety, DVS wait times, consumer protections, and transportation to and from the State Fair (HF3436)
-- Requires the use of plain language in written driver's examinations and the driver's manual (HR3071)
-- Keeps county sheriffs, police officers, and Shakopee prison corrections officers safer by allowing them to use body scanners when bringing in offenders (HF0733)
-- Allows Canterbury Park to continue operations in the event of a MN government shutdown (HF0633)
-- Reimburses local school districts for bussing pregnant and parenting teens to their best education opportunities (HF681)
-- Allows the use of leashed dogs by hunters to track big game—particularly helpful in recovering lost game and for hunters with color blindness (HF680)
-- Requires vehicles to slow down and move over when passing garbage trucks, utility workers, or any vehicle with flashing lights (HF1188)
-- Reimburses local police departments for the purchase of bullet-proof vests and other safety equipment (HF1490)
-- Secures $250,000 in funding for MVTA’s Route 495 bus route (HF1555)
-- Offers technical fixes and updates for the Minnesota Racing Commission and Canterbury Park (HF2018)
-- Modifies trucking industry operating standards (HF3240)
-- Allows 16-year-olds to safely operate rides at ValleyFair (HF3720)
-- Amends and reduces motor vehicle registration taxes to meet new MNLars programming (HF3547)
-- Allows Canterbury Park to better function during a pandemic (HF4597)
-- Allows the extension of driver’s licenses past their expiration date during the pandemic
+Legislation that: Improves mass transit, child passenger protections, road safety, DVS wait times, consumer protections, and transportation to and from the State Fair (HF3436) Requires the use of plain language in written driver's examinations and the driver's manual (HR3071) Keeps county sheriffs, police officers, and Shakopee prison corrections officers safer by allowing them to use body scanners when bringing in offenders (HF0733) Allows Canterbury Park to continue operations in the event of a MN government shutdown (HF0633) Reimburses local school districts for bussing pregnant and parenting teens to their best education opportunities (HF681) Allows the use of leashed dogs by hunters to track big game—particularly helpful in recovering lost game and for hunters with color blindness (HF680) Requires vehicles to slow down and move over when passing garbage trucks, utility workers, or any vehicle with flashing lights (HF1188) Reimburses local police departments for the purchase of bullet-proof vests and other safety equipment (HF1490) Secures $250,000 in funding for MVTA’s Route 495 bus route (HF1555) Offers technical fixes and updates for the Minnesota Racing Commission and Canterbury Park (HF2018) Modifies trucking industry operating standards (HF3240) Allows 16-year-olds to safely operate rides at ValleyFair (HF3720) Amends and reduces motor vehicle registration taxes to meet new MNLars programming (HF3547) Allows Canterbury Park to better function during a pandemic (HF4597) Allows the extension of driver’s licenses past their expiration date during the pandemic Campaign Office 285 1st Ave.
+E.
+Shakopee, MN 55379 quick links Volunteer Donate Yard Signs Vote About Issues Contact tabkebrad@gmail.com (952) 225-3124 Prepared and paid for by the Tabke (Brad) for MN committee, 1584 Harvest Ln Shakopee, MN 55379

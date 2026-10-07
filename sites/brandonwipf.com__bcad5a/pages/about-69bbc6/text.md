@@ -1,5 +1,4 @@
-Meet Brandon Wipf
-Brandon Wipf is a third-generation farmer, engineer, and nationally respected agricultural leader from rural Huron and Doland, South Dakota.
+0 Skip to Content Home About Issues Take Action Press DONATE Open Menu Close Menu Home About Issues Take Action Press DONATE Open Menu Close Menu Home About Issues Take Action Press DONATE Meet Brandon Wipf Brandon Wipf is a third-generation farmer, engineer, and nationally respected agricultural leader from rural Huron and Doland, South Dakota.
 A graduate of James Valley Christian School and Dordt College with a degree in electrical engineering, Wipf began his career at Daktronics before returning home during the 2009 harvest—an experience that reaffirmed his commitment to carrying on his family’s farming legacy.
 Today, Wipf farms alongside his parents on their diversified operation south of Doland, where they raise soybeans, corn, wheat, alfalfa, and grass hay.
 Under Brandon’s leadership, the operation has expanded its focus on conservation acres, forage production, and advanced precision agriculture practices.
@@ -16,3 +15,5 @@ Brandon lives in rural Huron with his wife, Mandy—an engineer with the U.S.
 Department of Energy and a former U.S.
 Air Force officer—and their dog, Sarge.
 Together, they remain committed to serving their community, advancing American agriculture, and strengthening rural South Dakota's future.
+DONATE PRIVACY POLICY PAID FOR BY WIPF FOR THE SENATE 40396 S.
+SHORE RD, HURON, SD 57350

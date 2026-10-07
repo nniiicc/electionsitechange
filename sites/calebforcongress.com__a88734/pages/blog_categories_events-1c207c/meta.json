@@ -1,7 +1,9 @@
 {
  "description": "Recaps from town halls, cook-offs, and community events.",
  "final_url": "https://www.calebforcongress.com/blog/categories/events",
- "paid_for_by": null,
+ "fingerprint": "3402e831ed29cefe7a289b485f8c0abe9f3b4f4e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events",
  "years_mentioned": []
 }

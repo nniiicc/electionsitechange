@@ -1,3 +1,7 @@
+0 Skip to Content Steph Terrio for Oregon House - District 26 Policy Why So Serious Donate Volunteer Contact About Open Menu Close Menu Steph Terrio for Oregon House - District 26 Policy Why So Serious Donate Volunteer Contact About Open Menu Close Menu Policy Why So Serious Donate Volunteer Contact About Volunteering shouldn’t be scary.
+It can be whatever works for you to keep the mission going!
+Phone banking, canvassing neighborhoods, putting up yard signs, talking to neighbors, or folding flyers.
+Plus being part of an awesome team that supports American’s freedoms, rights, and quality of life we are constitutionally granted.
 Americans share a more connected and rich tapestry than our government represents.
 We are better together.
 Who doesn’t have an uncle that loves Yellowstone National Park, or a mom who reminisces playing outside?
@@ -25,3 +29,4 @@ Willing to ask questions of those who disagree instead of attacking them.
 Ones who reject foreign money and insider trading.
 Representatives that have the future in mind for us, our children, and our parents.
 Ones that work for us.
+There is a spirit that unites all Americans far more than our politics divide us Paid for by Terrio for US PAC ID 25090 Privacy Notice

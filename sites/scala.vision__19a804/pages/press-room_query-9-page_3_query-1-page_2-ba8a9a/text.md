@@ -1,18 +1,3 @@
-Mike Scala in His Own Words
-- 03.12 2026 Debates Are Central to Democracy
-- 02.26 2026 We Must Continue Opposing the NESE Pipeline
-- 02.5 2026 Fix Tier 6
-News & Media Coverage
-- December 12, 2025
-- December 4, 2025
-- November 21, 2025
-- October 10, 2025
-- October 9, 2025
-- October 3, 2025
-- May 10, 2024
-- January 19, 2024
-- September 7, 2023
-- December 30, 2022
-- November 26, 2022
-- October 14, 2022
-- October 13, 2022
+Facebook Instagram Twitter Queens, NY Home Meet Mike Issues Press Room Contribute Skip to content Press Room Mike Scala in His Own Words 03.12 2026 Debates Are Central to Democracy 02.26 2026 We Must Continue Opposing the NESE Pipeline 02.5 2026 Fix Tier 6 Previous Page Next Page News & Media Coverage December 12, 2025 Scala Makes His Case December 4, 2025 Scala, Osina enter the race for AD 23 November 28, 2025 Pesach Osina, Mike Scala Emerge As Democratic Frontrunners To Replace Assemblywoman Pheffer Amato November 21, 2025 “It’s Time To Move On” October 10, 2025 Mike Scala Elected Chairman of Queens Defenders Board of Directors October 9, 2025 Scala named chair of Queens Defenders October 3, 2025 Scala’s Rap May 10, 2024 Letters 5-10-24 April 26, 2024 Dayton Beach Park To Hold Election For New Board of Directors January 19, 2024 HPD Settles Case With Dayton Beach Park September 7, 2023 QueensLink Transit Supporters Press Case at City Hall December 30, 2022 Dayton Beach Park Residents Are Still Waiting For Board Elections November 26, 2022 What Does Queens Need More, a New Park or a New Train Line?
+October 14, 2022 Fighting For QueensLink October 13, 2022 QueensLink Advocates Rally for the Rail Line Previous Page 1 2 3 4 5 … 17 Next Page Search for: New York State Assembly District 23 includes all or parts of Arverne, Bayswater, Belle Harbor, Breezy Point, Broad Channel, Edgemere, Far Rockaway, Hamilton Beach, Howard Beach, Lindenwood, Ozone Park, Neponsit, Rockaway Beach, Rockaway Park and Roxbury in Queens.
+Paid for by Scala for New York

@@ -1,7 +1,2 @@
-Moanalua Gardens Community Association Meeting
-Time
-Tuesday, Sep 1, 2026
-7:00 PM – 8:00 PM
-Map
-Moanalua Middle cafeteria
-http://www.mymgca.com/
+Home About Donna Events News Community Bulletin Photo Gallery Events / Moanalua Gardens Community Association Meeting Moanalua Gardens Community Association Meeting Time Tuesday, Sep 1, 2026 7:00 PM – 8:00 PM Location Moanalua Middle cafeteria Map http://www.mymgca.com/ Map Moanalua Middle cafeteria http://www.mymgca.com/ Directions → Add to calendar Get Updates Thank you for signing up!
+CONTRIBUTE VOLUNTEER REGISTER TO VOTE News Legislators Push for Improved Dementia Care Training at Annual Advocacy Day Senator Donna Mercado Kim Produces Bipartisan Report of Higher Education Senator Kim Awarded 2024 Dean McManus Spirit of NFWL Award Senator Kim runs for re-election Where to Get Your COVID-19 Vaccination Now Paid for by Friends of Donna Mercado Kim Powered by CampaignPartner.com - Political Websites Home About Donna Events News Community Bulletin Photo Gallery Close Menu

@@ -1,7 +1,9 @@
 {
  "description": "Support the Matthew Jackson campaign by donating, volunteering, or connecting with us for updates and events.",
  "final_url": "https://votematthewjackson.com/contact",
- "paid_for_by": null,
+ "fingerprint": "74d748d0ee78c958a0f1ba8662679f2c8f529a26",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Matthew Jackson Campaign | Contact Us",
  "years_mentioned": []
 }

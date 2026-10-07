@@ -1,5 +1,5 @@
-Mid way through session!
-It is hard to believe that this week we hit the half way mark for the 2022 Legislative Session.
+Home Take Action Contribute Volunteer Contact Articles SD Property Tax Reform Legislative Background About Trish Blog Bio On the Issues Privacy Policy Get in touch 555-555-5555 mymail@mailservice.com Mid way through session!
+Trish Ladner • February 9, 2022 It is hard to believe that this week we hit the half way mark for the 2022 Legislative Session.
 This year we have over 500 bills that the committees will be reviewing and voting on.
 If they make it through committee, it is then presented to the House body for a vote.
 I am currently serving on the House Commerce & Energy and the AG and Natural Resources Committees.
@@ -28,4 +28,4 @@ Just to remind you, the bill passed in Ag and Natural Resource committee with 10
 I am sure I will have a lot more news to share with you about HB 1039 next week.
 Until then, thank you for your emails, phone calls and support.
 You voice really does matter!
-Trish Ladner, Representative District 30
+Trish Ladner, Representative District 30 < Older Post Newer Post > Privacy Policy Paid for by Trish For South Dakota Share by:

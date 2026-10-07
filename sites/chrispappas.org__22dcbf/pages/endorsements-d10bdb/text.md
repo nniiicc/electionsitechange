@@ -1,46 +1,15 @@
-Endorsements
-From local labor unions to reproductive rights leaders, Chris Pappas is proud to have the support of organizations and leaders across New Hampshire and the country in his campaign for U.S.
+Donate to Chris Pappas for U.S.
+Senate Trump-endorsed John Sununu is our official opponent in this race, and right-wing forces are pouring in millions to buy this seat for him.
+Rush a donation to keep NH blue and help Democrats win back the Senate. $# $# $# $# $# Other amount Close Facebook X Bsky Instagram TikTok Threads Substack YouTube Chris Pappas for Senate Menu Home Meet Chris Priorities Anti-Corruption Agenda Tax Cuts and Lower Costs Blueprint Endorsements News Take Action Store Donate Endorsements From local labor unions to reproductive rights leaders, Chris Pappas is proud to have the support of organizations and leaders across New Hampshire and the country in his campaign for U.S.
 Senate.
--
-End Citizens United
--
-Planned Parenthood Action Fund
--
-Reproductive Freedom for All
--
-League of Conservation Voters Action Fund
--
-Teamsters Local 633
--
-International Brotherhood of Electrical Workers
-Locals 104, 490, 2071, 1837, and 2320
--
-New Hampshire Building and Construction Trades Council
--
-International Union of Painters and Allied Trades DC 35
--
-North Atlantic States Regional Council of Carpenters
--
-Moms Demand Action – Gun Sense Candidate
--
-NEA NH
--
-AFT-NH
--
-Professional Fire Fighters
--
-SEIU Local 1984
--
-Sierra Club
--
-AFL-CIO
-- Heat & Frost Insulators Local 6
-- Brady PAC
-- Natural Resources Defense Council Action Fund
-- Foreign Policy for America
-- Democrats Work for America
-- Human Rights Campaign PAC
-- The American Federation of Government Employees
-- LGBTQ+ Victory Fund
-- Equality PAC
-- The Next 50
+End Citizens United Planned Parenthood Action Fund Reproductive Freedom for All League of Conservation Voters Action Fund Teamsters Local 633 International Brotherhood of Electrical Workers Locals 104, 490, 2071, 1837, and 2320 New Hampshire Building and Construction Trades Council International Union of Painters and Allied Trades DC 35 North Atlantic States Regional Council of Carpenters Moms Demand Action – Gun Sense Candidate NEA NH AFT-NH Professional Fire Fighters SEIU Local 1984 Sierra Club AFL-CIO Heat & Frost Insulators Local 6 Brady PAC Natural Resources Defense Council Action Fund Foreign Policy for America Democrats Work for America Human Rights Campaign PAC The American Federation of Government Employees LGBTQ+ Victory Fund Equality PAC The Next 50 Join Team Pappas Sign up here to learn more about Chris, our campaign, and how you can get involved.
+First name Email address * Zip code * Mobile number By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Chris Pappas for Senate.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Text START to opt in.
+Text HELP for help.
+Terms of Service and Privacy Policy apply.
+Join Our Team Contribute Today New Hampshire is key to winning back the Senate majority, and your support will make a huge impact in this battleground race. $10 $25 $100 $250 $500 Other amount Chris Pappas for Senate Home Meet Chris Priorities Anti-Corruption Agenda Tax Cuts and Lower Costs Blueprint Endorsements News Take Action Store Donate Follow Us: Facebook X Bsky Instagram TikTok Threads Substack YouTube Donate By Mail Chris Pappas for Senate PO Box 313 Manchester, NH 03105 Paid for by Chris Pappas for Senate Contact Privacy Policy Made with Middle Seat The path to a Democratic Senate majority runs through NH!
+Chris Pappas is in a dead-heat with his GOP opponent, and New Hampshire is shaping up to be one of the most expensive and competitive races in the country.
+Rush a donation to Chris’s campaign today: $10 $25 $100 $250 $500 Other amount Continue to site Close

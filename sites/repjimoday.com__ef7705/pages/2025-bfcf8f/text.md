@@ -1,18 +1,2 @@
-top of page
-Jim O Day
-State Representative for the 14th Worcester district of Massachusetts
-Veterans Inc event
-Mixter Field ribbon cutting
-Bill signing for An Act relative to recovery coaches
-Speaking at a briefing for An Act relative to end of life options
-Notifying Governor Healey the House has begun the 194th Legislative Session
-Arbor Day, Worcester
-Worcester Cares About Recovery Walk
-Special Olympics Advocacy Day
-Meeting with Brandeis Students about Raise the Age
-Keolis Commuter Services Awards Ceremony
-Speaking on An Act relative to wheelchair repair requirements and consumer protection bill at the Independent Living Education Lobby Day
-Awarding Chartwells at the Genesis Club and the Massachusetts Clubhouse Coalition at their Employer Celebration
-Denim Day to show our support for domestic violence and sexual assault survivors
-Testifying before the Health Care Financing Committee on An Act relative to strengthening mental health centers
-bottom of page
+top of page Jim O Day State Representative for the 14th Worcester district of Massachusetts HOME MEET JIM THE DISTRICT ISSUES & POLICIES LEGISLATION ADVOCACY GALLERY 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2015-2016 2013-2014 2011-2012 2009-2010 NEWSROOM VIDEOS NEWS PRESS RELEASES CONTACT CONSTITUENT SERVICES MEET THE STAFF CONTACT US STAY CONNECTED More Use tab to navigate through the menu items.
+Veterans Inc event Mixter Field ribbon cutting Bill signing for An Act relative to recovery coaches Speaking at a briefing for An Act relative to end of life options Notifying Governor Healey the House has begun the 194th Legislative Session Arbor Day, Worcester Worcester Cares About Recovery Walk Special Olympics Advocacy Day Meeting with Brandeis Students about Raise the Age Keolis Commuter Services Awards Ceremony Speaking on An Act relative to wheelchair repair requirements and consumer protection bill at the Independent Living Education Lobby Day Awarding Chartwells at the Genesis Club and the Massachusetts Clubhouse Coalition at their Employer Celebration Denim Day to show our support for domestic violence and sexual assault survivors Testifying before the Health Care Financing Committee on An Act relative to strengthening mental health centers bottom of page

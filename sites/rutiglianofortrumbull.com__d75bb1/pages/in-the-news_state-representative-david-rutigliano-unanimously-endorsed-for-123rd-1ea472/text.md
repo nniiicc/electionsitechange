@@ -1,4 +1,4 @@
-| Trumbull, CT - State Representative David Rutigliano was unanimously endorsed to represent the 123rd district of Trumbull in Connecticut’s House of Representatives.
+David Rutigliano Issues In The News Donate Contact Rep Rutigliano Facebook Donate to Campaign Campaign Video State Representative David Rutigliano Unanimously Endorsed for 123rd District 5/28/2020 0 Comments Trumbull, CT - State Representative David Rutigliano was unanimously endorsed to represent the 123rd district of Trumbull in Connecticut’s House of Representatives.
 “These are very challenging times,” said Rep.
 Rutigliano.
 “We have adapted with a compassionate and understanding of the complexities brought by the coronavirus, as we have witnessed its widespread negative impact.
@@ -15,7 +15,7 @@ He also passed legislation to increase the penalties for those who sell opioids 
 I know he has our best interest at heart and I am confident he is the right leader to help lead us through this pandemic,” said Alison Squiccimarro, a Tashua Parent.
 "I can’t think of anyone better suited to guide us through this economic crisis, David will ensure small business and job creators are represented as we rebuild and reopen," said Dave Pia, owner Associated Appliance.
 It is essential that we work together to find our best way forward.
-These are some of the key priorities I plan to focus on for my campaign and in my next term as your state representative: As we begin this campaign, here is my commitment to you: “I will continue to listen; to create common sense policy; and work together to keep our community safe and healthy as we reopen and repair our economy.” Continue to evaluate and address the historic health challenges that have impacted all of us.
+These are some of the key priorities I plan to focus on for my campaign and in my next term as your state representative: Continue to evaluate and address the historic health challenges that have impacted all of us.
 We must remain vigilant against coronavirus infection, and make decisions based on facts.
 We need to take care of our most vulnerable, while addressing the potential looming mental health crisis.
 Ensure state funds addresses our dynamic education needs as we respond to the impact of school shutdowns on our students.
@@ -23,4 +23,7 @@ Thoughtfully reopen state and local economies, with an emphasis on recovery for 
 Set our state on a path of sustained fiscal success, and re-evaluate state budget priorities given the historic impact of coronavirus.
 Over the last months, State Representative Rutigliano has launched resources for families and the community as we confront the global pandemic.
 These include multiple interviews with health experts regarding how to deal with the challenges of coronavirus.
-Please visit www.facebook.com/reprutigliano/ to view the resource videos. | |
+Please visit www.facebook.com/reprutigliano/ to view the resource videos.
+As we begin this campaign, here is my commitment to you: “I will continue to listen; to create common sense policy; and work together to keep our community safe and healthy as we reopen and repair our economy.” 0 Comments Your comment will be posted after it is approved.
+Leave a Reply.
+Archives October 2026 September 2026 June 2026 May 2026 May 2025 August 2024 September 2020 May 2020 February 2020 June 2018 May 2018 April 2018 Categories All RSS Feed David Rutigliano Issues In The News Donate Contact Rep Rutigliano Facebook Donate to Campaign Campaign Video

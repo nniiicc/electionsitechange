@@ -1,7 +1,9 @@
 {
  "description": "Subscribe for Jim Boyd's active newsletter with current events and weekly session updates.",
  "final_url": "https://www.boydforflorida.com/subscribe",
- "paid_for_by": null,
+ "fingerprint": "e4bef054099ceaf9f081497c969c7410f2d399b3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "SUBSCRIBE | Jim Boyd",
  "years_mentioned": []
 }

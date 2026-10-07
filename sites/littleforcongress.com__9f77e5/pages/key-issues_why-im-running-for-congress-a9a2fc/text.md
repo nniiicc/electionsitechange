@@ -1,5 +1,5 @@
-Fighting for the Future
-I’m running to fight for my home.
+Skip to main content Skip to header right navigation Skip to site footer The ONLY CD2 candidate endorsed by the Minnesota DFL – Democratic Party Matt Little for Congress District 2 Minnesota Search...
+Search site Submit search Menu Meet Matt Endorsements Key Issues About District 2 Get Involved For Media Yard Sign Donate Why I’m Running For Congress Fighting for the Future I’m running to fight for my home.
 I’m fighting for every underdog who works hard but still can’t get ahead, and for families who can’t afford groceries, child care, health care, or assisted living.
 I grew up in Minnesota’s Second Congressional District (MN CD2) in my folks’ home in Lakeville, went to high school in Rosemount, and I now live in New Market Township.
 I understand what people in this area need.
@@ -22,3 +22,6 @@ People don’t expect much from Congress anymore.
 That’s about to change.
 I’m willing to fight.
 Are you willing to join me?
+Join me!
+More Key Issues Fighting for Fair Student Loans I’m running to fix our broken student loan system, fighting for fairness, accountability, and real … Fighting for Safe Neighborhoods I’m supporting the brave individuals who keep our neighborhoods safe while ensuring they have the … Fighting for Rural America I’m standing up for family farmers who feed our nation but are too often undercut by policies that … Join Matt’s campaign today.
+Donate Facebook Instagram X TikTok Bluesky Paid for by Matt Little for Congress Copyright © # | Privacy Policy | Contact Us Matt Little for Congress – PO Box 397 – Lakeville, MN 55044

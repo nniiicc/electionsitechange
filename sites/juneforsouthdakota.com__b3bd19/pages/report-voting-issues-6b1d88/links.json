@@ -1,16 +1,74 @@
 [
-"http://aclusd.org/get-help",
-"https://aclusd.org/press-releases/aclu-files-public-records-request-regarding-management-of-sioux-falls-municipal-runoff-election",
-"https://facebook.com/ACLUSD",
-"https://facebook.com/JuneForSD",
-"https://heyvictor.com/",
-"https://instagram.com/juneforsd",
-"https://juneforsd.com/",
-"https://juneforsd.com/accessibility-statement",
-"https://juneforsd.com/get-involved",
-"https://juneforsd.com/issues",
-"https://juneforsd.com/meet-june",
-"https://juneforsd.com/plan-your-vote",
-"https://juneforsd.com/report-voting-issues",
-"https://secure.actblue.com/donate/june4sd"
+{
+"text": "(605) 367-4220",
+"href": "tel:16053674220"
+},
+{
+"text": "(605) 773-3537",
+"href": "tel:16057733537"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://juneforsd.com/accessibility-statement/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/june4sd?amount="
+},
+{
+"text": "Facebook page",
+"href": "https://www.facebook.com/ACLUSD"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://juneforsd.com/get-involved/"
+},
+{
+"text": "Get Help page",
+"href": "http://aclusd.org/get-help"
+},
+{
+"text": "HOME",
+"href": "https://juneforsd.com/"
+},
+{
+"text": "MEET JUNE",
+"href": "https://juneforsd.com/meet-june/"
+},
+{
+"text": "PLAN YOUR VOTE",
+"href": "https://juneforsd.com/plan-your-vote/"
+},
+{
+"text": "PROTECT YOUR VOTE",
+"href": "https://juneforsd.com/report-voting-issues/"
+},
+{
+"text": "Press Release",
+"href": "https://www.aclusd.org/press-releases/aclu-files-public-records-request-regarding-management-of-sioux-falls-municipal-runoff-election/"
+},
+{
+"text": "THE ISSUES",
+"href": "https://juneforsd.com/issues/"
+},
+{
+"text": "[image] [image]",
+"href": "https://juneforsd.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/JuneForSD"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/juneforsd/"
+},
+{
+"text": "landerson@minnehahacounty.gov",
+"href": "mailto:landerson@minnehahacounty.gov"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Have a bagel, a cup of coffee, and early vote, just down the street!",
  "final_url": "https://paulaforassembly100.com/events/bagels-and-ballots",
+ "fingerprint": "c27b121b44d38386913466563a7e6f5b76724718",
+ "format": 3,
  "paid_for_by": "Paid for by Paula for Assembly",
  "title": "Bagels and Ballots | Paula for Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

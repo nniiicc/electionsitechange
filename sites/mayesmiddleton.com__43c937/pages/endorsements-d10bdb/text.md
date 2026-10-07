@@ -1,293 +1,61 @@
-Conservative Leaders
-April Aguirre
-Ben Armenta
-Dr.
-Robin Armstrong
-RNC Committeeman
-Brian Babin
-U.S.
-Congressman
-Mona Bailey
-Rick Barnes
-Tarrant County Tax Assessor-Collector
-David Barton
-John Berry
-Cindi Castilla
-Texas Eagle Forum President
-Wayne Christian
-Texas Railroad Commissioner
-Chad Cohen
-Dallas Young Republicans Chairman
-Doc Collins
-Van Zandt County
-Genevieve Collins
-Mel Cooper
-Bastrop County Conservatives
-David Covey
-Pastor Mark Lee Dickson
-Shannon Dubberly
-Keller City Councilman
-Chris Fails
-Jennifer Fleck
-Travis County Republican Chairman
-Fred Flickinger
-Houston City Councilmember
-Louie Gohmert
-Former U.S.
-Congressman
-Mark Goloby
-Erik Gomez
-City of Sabinal Mayor - Youngest Republican Mayor in Texas
-Lance Gooden
-U.S.
-Congressman
-Michael Grabowski
-Humble ISD Board of Trustees
-Rick Green
-Kent Grusendorf
-Brent Hagenbuch
-Texas State Senator
-Brandon Hall
-State Board of Education
-Dr.
-Mark Hanson
-Former President Arlington Republican Club
-Russell Hayter
-Former Hays County Republican Chairman
-Gay Herrin
-Project Destiny
-Chris Hill
-Collin County Judge
-Adam Hinojosa
-Texas State Senator
-Kaleb Holmes
-Texas High School Republicans
-Dr.
-Steve Hotze
-Mary Nan Huffman
-Houston City Councilmember
-Pastor Troy Jackson
-Reagan Keith
-Aaron Kinsey
-Texas State Board of Education Chairman
-Jamie Story Kohlmann
-Matt Krause
-Tarrant County Commissioner
-Rhonda Lacy
-Dean Lane
-Dennis London
-Vidal Martinez
-Jack McCarty
-Mayor of North Richland Hills
-Craig McCown
-Cut and Shoot Police Chief
-Thomas McNutt
-Alexandra del Moral Mealer
-Rev.
+Menu Home About Priorities Endorsements News Join Our Team Donate Endorsements Mayes Middleton has overwhelming support from top conservative organizations and individuals across Texas because they know he is the proven fighter who leads and wins.
+Join Our Team Organizations Conservative Leaders State Republican Executive Committee State Representatives Business Leaders Testimonials Conservative Leaders April Aguirre Ben Armenta Dr.
+Robin Armstrong RNC Committeeman Brian Babin U.S.
+Congressman Mona Bailey Rick Barnes Tarrant County Tax Assessor-Collector David Barton John Berry Cindi Castilla Texas Eagle Forum President Wayne Christian Texas Railroad Commissioner Chad Cohen Dallas Young Republicans Chairman Doc Collins Van Zandt County Genevieve Collins Mel Cooper Bastrop County Conservatives David Covey Pastor Mark Lee Dickson Shannon Dubberly Keller City Councilman Chris Fails Jennifer Fleck Travis County Republican Chairman Fred Flickinger Houston City Councilmember Louie Gohmert Former U.S.
+Congressman Mark Goloby Erik Gomez City of Sabinal Mayor - Youngest Republican Mayor in Texas Lance Gooden U.S.
+Congressman Michael Grabowski Humble ISD Board of Trustees Rick Green Kent Grusendorf Brent Hagenbuch Texas State Senator Brandon Hall State Board of Education Dr.
+Mark Hanson Former President Arlington Republican Club Russell Hayter Former Hays County Republican Chairman Gay Herrin Project Destiny Chris Hill Collin County Judge Adam Hinojosa Texas State Senator Kaleb Holmes Texas High School Republicans Dr.
+Steve Hotze Mary Nan Huffman Houston City Councilmember Pastor Troy Jackson Reagan Keith Aaron Kinsey Texas State Board of Education Chairman Jamie Story Kohlmann Matt Krause Tarrant County Commissioner Rhonda Lacy Dean Lane Dennis London Vidal Martinez Jack McCarty Mayor of North Richland Hills Craig McCown Cut and Shoot Police Chief Thomas McNutt Alexandra del Moral Mealer Rev.
 Ramiro A.
-Peña
-Founder and Pastor of Christ the King Baptist Church
-Julie Pickren
-Texas State Board of Education
-Mona Puente
-Vince Puente
-Mike Pusley
-Nueces County Commissioner, Precinct 1
-Kevin Roberts
-Jonathan Saenz
-Texas Values President
-Matt Schaefer
-Former State Representative
-Connie Scott
-Nueces County Judge
-Ryan Sitton
-Former Texas Railroad Commissioner
-Chris Spencer
-Conservative Leader
-Keith Stretcher
-Fred Tate
-Gavriel Toso
-Randy Weber
-U.S.
-Congressman
-Kenny Webster
-Radio Host
-Marc Whyte
-San Antonio Councilmember
-Tom Wilder
-Tarrant County District Clerk
-Shelby Williams
-Former Collin County Republican Chairman
-Jim Wright
-Texas Railroad Commissioner Chairman
-Andrew Yeager
-Carroll ISD Board Vice President
-Bill Zedler
-Former State Representative
-State Republican Executive Committee
-Royce Albrecht
-SREC, Senate District 27
-Christin Bentley
-SREC, Senate District 1
-Bruce Bishop
-SREC, Senate District 2
-Scott Bowen
-SREC, Senate District 6
-Chuck Burnett
-SREC, Senate District 20
-Tisha Crow
-SREC, Senate District 31
-Gaylyn DeVine
-SREC, Senate District 11
-Brenda K.
-Estis
-SREC, Senate District 15
-Steve Evans
-SREC, Senate District 28
-Jerry Fisher
-SREC, Senate District 2
-Deborah Kelting Fite
-SREC, Senate District 7
-Ralph Fite
-SREC, Senate District 7
-Susan Fountain
-SREC, Senate District 16
-Rolando Garcia
-SREC, Senate District 15
-Dale Gibble
-SREC, Senate District 13
-Paul Hale
-SREC, Senate District 1
-Brandon Hodges
-SREC, Senate District 31
-Dale Inman
-SREC, Senate District 4
-Jon Ker
-SREC, Senate District 22
-Roman Klein
-SREC, Senate District 17
-Melissa Knerr
-SREC, Senate District 20
-Jeneria Lewis
-SREC, Senate District 27
-Dawn McDonald
-SREC, Senate District 6
-Ken Moore
-SREC, Senate District 11
-Milinda Morris
-SREC, Senate District 13
-Matthew Patrick
-SREC, Senate District 16
-Kelly Perry
-SREC, Senate District 19
-Jim Pikl
-SREC, Senate District 8
-Randy Purham
-SREC, Senate District 21
-Jeremy Story
-SREC, Senate District 5
-Adolpho Telles
-SREC, Senate District 29
-Rhonda Ward
-SREC, Senate District 3
-Walter West
-SREC, Senate District 19
-Gwen Withrow
-SREC, Senate District 4
-Ed Zenner
-SREC, Senate District 23
-State Representatives
-Daniel Alders
-State Representative
-Brad Buckley
-State Representative
-Ben Bumgarner
-State Representative
-Briscoe Cain
-State Representative
-Charles Cunningham
-State Representative
-Pat Curry
-State Representative
-Mark Dorazio
-State Representative
-James Frank
-State Representative
-Gary Gates
-State Representative
-Stan Gerdes
-State Representative
-Ryan Guillen
-State Representative
-Cody Harris
-State Representative
-Brian Harrison
-State Representative
-Richard Hayes
-State Representative
-Cole Hefner
-State Representative
-Hillary Hickland
-State Representative
-Janis Holt
-State Representative
-Lacey Hull
-State Representative
-Carrie Isaac
-State Representative
-Helen Kerwin
-State Representative
-Stan Kitzman
-State Representative
-Brooks Landgraf
-State Representative
-Janie Lopez
-State Representative
-JM Lozano
-State Representative
-John Lujan
-State Representative
-John McQueeney
-State Representative
-Will Metcalf
-State Representative
-Morgan Meyer
-State Representative
-Brent Money
-State Representative
-Matt Morgan
-State Representative
-Tom Oliverson
-State Representative
-Jared Patterson
-State Representative
-Dennis Paul
-State Representative
-Keresa Richardson
-State Representative
-Mike Schofield
-State Representative
-Alan Schoolcraft
-State Representative
-Matt Shaheen
-State Representative
-Joanne Shofner
-State Representative
-David Spiller
-State Representative
-Valoree Swanson
-State Representative
-Carl Tepper
-State Representative
-Steve Toth
-State Representative
-Ellen Troxclair
-State Representative
-Cody Vasut
-State Representative
-Denise Villalobos
-State Representative
-Trey Wharton
-State Representative
-Terri Leo Wilson
-State Representative
+Peña Founder and Pastor of Christ the King Baptist Church Julie Pickren Texas State Board of Education Mona Puente Vince Puente Mike Pusley Nueces County Commissioner, Precinct 1 Kevin Roberts Jonathan Saenz Texas Values President Matt Schaefer Former State Representative Connie Scott Nueces County Judge Ryan Sitton Former Texas Railroad Commissioner Chris Spencer Conservative Leader Keith Stretcher Fred Tate Gavriel Toso Randy Weber U.S.
+Congressman Kenny Webster Radio Host Marc Whyte San Antonio Councilmember Tom Wilder Tarrant County District Clerk Shelby Williams Former Collin County Republican Chairman Jim Wright Texas Railroad Commissioner Chairman Andrew Yeager Carroll ISD Board Vice President Bill Zedler Former State Representative State Republican Executive Committee Royce Albrecht SREC, Senate District 27 Christin Bentley SREC, Senate District 1 Bruce Bishop SREC, Senate District 2 Scott Bowen SREC, Senate District 6 Chuck Burnett SREC, Senate District 20 Tisha Crow SREC, Senate District 31 Gaylyn DeVine SREC, Senate District 11 Brenda K.
+Estis SREC, Senate District 15 Steve Evans SREC, Senate District 28 Jerry Fisher SREC, Senate District 2 Deborah Kelting Fite SREC, Senate District 7 Ralph Fite SREC, Senate District 7 Susan Fountain SREC, Senate District 16 Rolando Garcia SREC, Senate District 15 Dale Gibble SREC, Senate District 13 Paul Hale SREC, Senate District 1 Brandon Hodges SREC, Senate District 31 Dale Inman SREC, Senate District 4 Jon Ker SREC, Senate District 22 Roman Klein SREC, Senate District 17 Melissa Knerr SREC, Senate District 20 Jeneria Lewis SREC, Senate District 27 Dawn McDonald SREC, Senate District 6 Ken Moore SREC, Senate District 11 Milinda Morris SREC, Senate District 13 Matthew Patrick SREC, Senate District 16 Kelly Perry SREC, Senate District 19 Jim Pikl SREC, Senate District 8 Randy Purham SREC, Senate District 21 Jeremy Story SREC, Senate District 5 Adolpho Telles SREC, Senate District 29 Rhonda Ward SREC, Senate District 3 Walter West SREC, Senate District 19 Gwen Withrow SREC, Senate District 4 Ed Zenner SREC, Senate District 23 State Representatives Daniel Alders State Representative Brad Buckley State Representative Ben Bumgarner State Representative Angie Chen Button State Representative Briscoe Cain State Representative Charles Cunningham State Representative Pat Curry State Representative Mark Dorazio State Representative James Frank State Representative Gary Gates State Representative Stan Gerdes State Representative Ryan Guillen State Representative Cody Harris State Representative Brian Harrison State Representative Richard Hayes State Representative Cole Hefner State Representative Hillary Hickland State Representative Janis Holt State Representative Lacey Hull State Representative Carrie Isaac State Representative Helen Kerwin State Representative Stan Kitzman State Representative Brooks Landgraf State Representative Janie Lopez State Representative JM Lozano State Representative John Lujan State Representative John McQueeney State Representative Will Metcalf State Representative Morgan Meyer State Representative Brent Money State Representative Matt Morgan State Representative Tom Oliverson State Representative Jared Patterson State Representative Dennis Paul State Representative Keresa Richardson State Representative Mike Schofield State Representative Alan Schoolcraft State Representative Matt Shaheen State Representative Joanne Shofner State Representative David Spiller State Representative Valoree Swanson State Representative Carl Tepper State Representative Steve Toth State Representative Ellen Troxclair State Representative Cody Vasut State Representative Denise Villalobos State Representative Trey Wharton State Representative Terri Leo Wilson State Representative Business Leaders Clay Allison Newt Barineau Shelley Barineau Don Bennett Monty Bennett Travis Boeker John Braniff Bob and Nancy Bruce J.P.
+Bryan Marcella Burke Betty Cardenas Joy and Will Crenshaw Larry Del Papa Bobby Dillard Roger Elswick Abraham Enriquez Jarrod Foerster Rex Gore Mike and Rhonda Graff Emerson Hankamer Kurt Hanson Will Harte Brafield Heiser Fred Heldenfels Stacy Hock Jim Holcomb Howard Holsenbeck Woody Hunt JJ Isbell David Kinder Reid Kruger Dr.
+Jim Leininger Joe Lonsdale John McGill Colleen and Ryan McKnight Jonathan Newton Steve Oden George Pond Joe Popolo Leslie Robnett Matthew Rotan Bob Rowling Jim Russ Rodney Sims Greg Stirman Trey Strake Aaron Strassner Todd Sullivan Kristin Tipps Ned Torian Jay Zeidman Testimonials “I’m proud to endorse my good friend Mayes Middleton for Texas Attorney General.
+When Mayes came into the House with me in 2019, he jumped right into the fire as he took on the Austin Swamp as he began the battle against taxpayer funded lobbyists.
+He’s a proven, rock-solid conservative who fights to take on the cartels and secure the border, defends Texas families and stands strong for President Trump and the America First agenda — as Attorney General, Mayes will never waver in the fight against radical, woke policies.
+I know Mayes Middleton and I know he’ll fight to keep Texas, Texas!” Steve Toth State Representative “I’m proud to endorse Mayes Middleton for Texas Attorney General.
+We authored and passed the Save Women’s Sports Act and he’s been a champion for the Texas Women’s Privacy Act, which stops the woke left’s radical gender ideology from compromising women’s safety in private spaces.
+He will fight for Texas and to keep our children and families safe.” Valoree Swanson State Representative “It is my pleasure to endorse you, Mayes!
+Texas has been well served by your strong conservative record in the legislature.
+I am confident our state will benefit greatly with you as Attorney General.” Hillary Hickland State Representative “Mayes Middleton has been one of the most reliable allies of the conservative grassroots in Texas.
+He’s never hesitated to step up early and do whatever it takes to help conservatives win.
+He was there for me and many others from the start and never wavered.
+I’m confident that he will be an exceptional Texas Attorney General.” Richard Hayes State Representative “MFAA is proud to endorse Mayes Middleton for Texas Attorney General!
+Mom TESTED.
+Mom APPROVED!” “Senator Middleton has consistently demonstrated his dedication to the principles that define our great state.
+His leadership in the Texas Legislature reflects a deep commitment to safeguarding our communities, defending parental rights, and ensuring the integrity of our legal system.
+We are proud to endorse him.” Brady Gray Texas Family PAC, President “Mayes is a conservative fighter who understands the values that are vitally important to our constitutional republic as well as the necessity of the rule of law.
+As our next Attorney General I know that he will stand up for Texas as our state’s top law enforcement officer.
+I am grateful he is willing to take on this crucial role.” Daniel Alders State Representative “Mayes is the proven conservative fighter we need for Texas Attorney General.
+He’s led some of the toughest fights in the legislature including banning taxpayer funded lobbying.
+We’ve worked together for years on this and several other conservative, pro-taxpayer priorities.
+I’m proud to endorse him.” Chris Hill Collin County Judge “I am excited to support you for Attorney General.
+Having served with you in the House, I know no one is better prepared to fight for Texas values.” Mike Schofield State Representative “I’m proud to endorse Senator Mayes Middleton for Texas Attorney General.
+He’s a fearless conservative who’s fought for President Trump’s America First agenda, taken on the radical left, and won.
+From the House to the Senate, he’s defended liberty, crushed woke nonsense, and stood strong for Texas values.
+Conservatives across Texas—get behind Mayes!” Brandon Hodges State Republican Executive Committee “Mayes Middleton is a proven conservative who stands strong for Texas energy, Texas values, and Texas families.
+He understands what it takes to keep our state secure and prosperous, and I’m confident he’ll fight back against harmful mandates and Green New Deal-style policies that threaten our energy production.
+I’m proud to support him for Texas Attorney General.” Jim Wright Chairman, Texas Railroad Commission “I am honored to endorse conservative champion Mayes Middleton for Attorney General.” Matt Morgan State Representative “Excited to support my good friend Mayes Middleton for Texas AG!
+He has been a fighter for conservative principles during his time in the House and Senate.
+Many of the conservative victories we’ve had in the last several sessions are a result of Mayes’ work.
+He will continue to be a fighter for Texans as the AG!” Matt Krause Tarrant County Commissioner “Mayes is a principled conservative champion of Texas values.
+Our state could not ask for a better person to ensure that the Texas miracle remains a reality for generations to come.” Aaron Kinsey Chairman of State Board of Education “Mayes has been an unwavering champion in his service to Texas.
+I encourage others who value Faith, Family, & Freedom to stand with Mayes.” Julie Pickren State Board of Education “The strong character and bold spirit of Mayes Middleton are exactly what we need in our Texas Attorney General.
+I am honored to support Mayes!” Matt Schaefer Former State Representative “I’ve known Mayes Middleton and his family for decades and he is the bold conservative fighter we need as our next Texas Attorney General!” Brian Babin U.S.
+Congressman “Mayes Middleton is not only a friend, he is also an undisputed fighter for conservative values and good government.” Alexandra del Moral Mealer “East Texans for Liberty has worked with Mayes Middleton for years to advance our core mission of constitutional conservatism.
+Mayes has always been a tireless conservative fighter and we are proud to endorse him for Texas Attorney General.” “Mayes Middleton came out large and in charge.
+He has an actual track record… He’s also not easily purchased by select Billionaires.
+Mayes Middleton will bring competency and class back to the Texas OAG along with actual success and more than just campaign opportunities.
+I’ve had the pleasure of seeing Mayes engage in areas Republicans don’t win in and move the needle.
+Mayes is Statewide and Loved and Respected by more than we’ll ever know!
+Mayes will be the biggest proponent for Texas and you’ll see through the transparency he brings back.” Walter West State Republican Executive Committee Join Our Team Sign Up For Updates First Name* Cell Phone Email Address* Zip Code* By providing my mobile number, I consent to receive informational text messages from the Mayes Middleton campaign.
+Message frequency may vary.
+Msg and Data rates may apply.
+Donations may be solicited.
+Text STOP to opt-out.
+Text HELP for help.
+For additional information, please see our Terms and Conditions and Privacy Policy .
+Sign Me Up!
+Donate To Mail A Check: Mayes Middleton Campaign PO Box 1526 Galveston, TX 77553 Facebook Twitter Instagram © Copyright Mayes Middleton For Texas Attorney General - All Rights Reserved - Privacy Policy | Terms and Conditions Pol.
+Adv. paid for by Mayes Middleton Campaign

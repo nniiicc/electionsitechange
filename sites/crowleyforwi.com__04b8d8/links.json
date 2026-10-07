@@ -1,23 +1,102 @@
 [
-"https://bsky.app/profile/davidcrowley4wi.bsky.social",
-"https://crowleyforwi.com/",
-"https://crowleyforwi.com/Record",
-"https://crowleyforwi.com/davids-story",
-"https://crowleyforwi.com/endorsements",
-"https://crowleyforwi.com/plan-v1",
-"https://crowleyforwi.com/privacy",
-"https://designedtorun.com/",
-"https://drive.google.com/drive/folders/1Z41i_SW2PnYc02Yb-HCAsBPXsQ3XkroH?usp=sharing",
-"https://facebook.com/CrowleyForWi",
-"https://flickr.com/photos/davidcrowleymke",
-"https://instagram.com/crowleyforwi",
-"https://secure.actblue.com/donate/dc-web",
-"https://secure.actblue.com/donate/dc-web?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/dc-web?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/dc-web?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/dc-web?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/dc-web?express_lane=true&amount=500",
-"https://secure.actblue.com/donate/dc-web?express_lane_other=true",
-"https://store.crowleyforwi.com/",
-"https://x.com/DavidCCrowley"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/dc-web?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/dc-web?express_lane=true&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/dc-web?express_lane=true&amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/dc-web?express_lane=true&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/dc-web?express_lane=true&amount=500"
+},
+{
+"text": "Donate now »",
+"href": "https://secure.actblue.com/donate/dc-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.crowleyforwi.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.crowleyforwi.com/events"
+},
+{
+"text": "Flickr",
+"href": "https://www.flickr.com/photos/davidcrowleymke/"
+},
+{
+"text": "Google Drive",
+"href": "https://drive.google.com/drive/folders/1Z41i_SW2PnYc02Yb-HCAsBPXsQ3XkroH?usp=sharing"
+},
+{
+"text": "Learn More",
+"href": "https://www.crowleyforwi.com/davids-story"
+},
+{
+"text": "Learn More",
+"href": "https://www.crowleyforwi.com/plan-v1"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/dc-web?express_lane_other=true"
+},
+{
+"text": "Privacy",
+"href": "https://www.crowleyforwi.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.crowleyforwi.com/privacy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Store",
+"href": "https://store.crowleyforwi.com/"
+},
+{
+"text": "View Endorsements",
+"href": "https://www.crowleyforwi.com/endorsements"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.crowleyforwi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/davidcrowley4wi.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/CrowleyForWi"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/crowleyforwi"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DavidCCrowley"
+},
+{
+"text": "info@crowleyforwi.com",
+"href": "mailto:info@crowleyforwi.com"
+},
+{
+"text": "www.crowleyforwi.com/privacy",
+"href": "https://www.crowleyforwi.com/privacy"
+}
 ]

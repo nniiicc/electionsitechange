@@ -1,6 +1,6 @@
-Rep.
-Tom Dent
-Tom Dent has been a Columbia Basin resident for most of his life.
+Tom Dent - State Representative, Washington Representing voters from Grant, Kittitas, Adams, and Douglas Counties.
+Home Bio District Map Community Endorsements Projects Legislative Achievements 2014-2026 Buffalo Soldiers Crop Life America Gallery Contact Us Short Bio Rep.
+Tom Dent Tom Dent has been a Columbia Basin resident for most of his life.
 He became a professional pilot in 1976, and soon after founded Tom Dent Aviation, which offered aerial application, pilot service and flight instruction for area agriculture and industry.
 Tom lives on the Flying T Ranch, located 7 miles NE of Moses Lake, raising bison, and producing hay.
 Sworn into office in 2015, Tom represents the 13th District, which includes Kittitas County, most of Grant County and a small portion of Adams and Douglas Counties.
@@ -10,3 +10,4 @@ Tom is also the Chair for the Aviation caucus, Chair of the Water caucus and Co-
 His legislative priorities include wildfire prevention through improving forest health, and increasing our initial attack resources for fire suppression, Agriculture issues including promoting increased trade, protecting pesticide use and water resource management, and as a career aviation professional the protection and expansion of our aviation infrastructure and increased aviation workforce training.
 Tom cares deeply about providing a safe and positive environment for young people that allows them to grow up and have the same opportunities available to prior generations to become successful.
 Finally, Tom is a passionate advocate for mental health reforms that improve the lives of the mentally ill and assist families in helping their loved ones.
+Search This Site Search for: Translate This Site English English Japanese Portuguese Russian Spanish Ukrainian Tom Dent on Facebook Visit Tom Dent on Facebook Pages Awards & Recognitions Bio Buffalo Soldiers Campaign Donations Community Endorsements Contact Us Crop Life America District Map Gallery Home Keeping in Touch and Working Hard Legislative Achievements 2014-2026 Oganizational Endorsements Other Committees Parade Schedule 2026 Re-Elect Press Release Short Bio Sponsored – House Joint Memorials Sponsored – Resolutions Standing Committees Statutory Committees Tom Dent - State Representative © #

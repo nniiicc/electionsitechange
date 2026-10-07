@@ -1,13 +1,16 @@
-Hot on the heels of numerous 2025 economic triumphs — including the celebration of 13 straight years of Governor’s Cup wins as the top-performing state for job-creating business relocations and expansions — Texas continues to dominate as the economic engine of...
-1.
+Text JOIN to 55233 for alerts from Team Abbott Bio Issues News Abbott Endorsements Blog Get Involved Endorse Greg Abbott Download the App Contribute Store Abbott Endorsements Select Page Texas is America’s Undisputed Jobs Leader Hot on the heels of numerous 2025 economic triumphs — including the celebration of 13 straight years of Governor’s Cup wins as the top-performing state for job-creating business relocations and expansions — Texas continues to dominate as the economic engine of...
+Five Things Governor Abbott Has Done to Make Texas More Affordable 1.
 Property Tax Reforms Since 2015, Governor Abbott has signed sweeping property tax reforms.
+He delivered the largest property tax cut in Texas history — $18 billion — and raised the school-district homestead exemption for all Texans – from $100,000 to $140,000.
 He...
-Since his 2025 State of the State address, in which he made career training an emergency item, Governor Abbott has provided life-changing grants and opportunities for those who want to go from high school into a lucrative, fulfilling career.
+Governor Abbott Provides Top-Tier Career Training in Texas Since his 2025 State of the State address, in which he made career training an emergency item, Governor Abbott has provided life-changing grants and opportunities for those who want to go from high school into a lucrative, fulfilling career.
 Governor Abbott’s promise...
-Governor Abbott took major action in 2025 to secure the southern border — giving Texans the freedom to live secure and prosperous lives. 1.
+Four Big Wins for Texas Border Security in 2025 Governor Abbott took major action in 2025 to secure the southern border — giving Texans the freedom to live secure and prosperous lives.
+1.
 Operation Lone Star’s Ongoing Success As of May 2025, Operation Lone Star has led to over 533,400 illegal immigrant...
-Polar icebreaker vessels built by Texans on the Texas Gulf Coast will be deployed to defend American sovereignty in the fastest-growing strategic theater on earth: the Arctic circle.
+The Future of America’s International Maritime Dominance Begins in Texas Polar icebreaker vessels built by Texans on the Texas Gulf Coast will be deployed to defend American sovereignty in the fastest-growing strategic theater on earth: the Arctic circle.
 “A Texan shipbuilder is truly a force to be reckoned with.” That was Inocea Group’s...
-Miranda Lopez had a heart for family, the poor, and the homeless.
+DA Garza Gives Easy Pleas to Career Criminals Miranda Lopez had a heart for family, the poor, and the homeless.
 At H-E-B, where she worked, she noticed when elderly shoppers couldn’t afford their groceries, and she stepped in to pay their bills with her own money.
-She was reprimanded, but it did not stop...
+She was reprimanded, but it did not stop... « Older Entries Next Entries » Facebook X Instagram Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+All rights reserved.

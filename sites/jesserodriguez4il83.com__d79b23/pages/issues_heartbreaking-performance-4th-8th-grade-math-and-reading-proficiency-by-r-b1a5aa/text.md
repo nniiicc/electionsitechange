@@ -1,6 +1,3 @@
-Home ❭ Issues ❭ Heartbreaking Performance- 4th & 8th Grade Math and Reading Proficiency by Race and One Teacher's Anguish
-Heartbreaking Performance- 4th & 8th Grade Math and Reading Proficiency by Race and One Teacher's Anguish
-"Doing the same thing over and over again and expecting different results is the definition of insanity".
-- Albert Einstein
-It's time for parent's choice in education to bring accountability and improved results for all students.
+Meet Jesse Issues News Volunteer Contribute Home ❭ Issues ❭ Heartbreaking Performance- 4th & 8th Grade Math and Reading Proficiency by Race and One Teacher's Anguish Heartbreaking Performance- 4th & 8th Grade Math and Reading Proficiency by Race and One Teacher's Anguish "Doing the same thing over and over again and expecting different results is the definition of insanity". - Albert Einstein It's time for parent's choice in education to bring accountability and improved results for all students.
 Graphs and stats tell a story, but this teacher's frustration and anguish bring it to life.
+High School English Teacher Brought to Tears as He Reveals Some Seniors in His Class Cannot Write a SINGLE SENTENCE (Video) * The Gateway Pundit * by Margaret Flavin « Previous: Ethics Reform Next: 🚨 Breaking: The Hidden Cost of the Tollway Hike » Voter Information Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,61 +1,40 @@
-The Vision:
-The Mission:
-The Plan:
+Skip to main content Skip to footer Opens in a new tab Home Meet Vivek Meet Rob The Plan In The News Endorsements Press Releases Latest News Action Center Get Involved Events Team Store War Room Donate Donate Using Crypto Donate The Vision: Revive the American Dream in Ohio The Mission: Make Ohio the Most Affordable, Opportunity-Rich State in America The Plan: Put More Money in Your Pocket and Give Your Kids a World-Class Education Ohio has always been a state of pioneers.
+As America’s first frontier and the engine of the Industrial Revolution, we were once the most prosperous state in the nation.
 And Vivek believes we can lead again—if we work together and reclaim the spirit that made Ohio great.
 To secure our future, we must start with a simple commitment: put more money in your pocket and give your kids a world class education.
 That means bringing down costs, cutting red tape, reducing government waste, and expanding our energy supply.
 It means lowering taxes and fueling economic growth so families can buy homes, start businesses, and build their futures right here in our state – all while improving education for our kids.
-Vivek’s plan to make Ohio the greatest state in the country is built on these core pillars:
-Put More Money in Your Pocket
-Lower Taxes, Lower Energy Bills, Greater Opportunity
-Vivek wants Ohio to be the most affordable state in America where families get ahead, not fall behind.
-As Governor, Vivek will:
-Lower Taxes So Families Can Build Their Future in Our State
-- Slash property taxes immediately to protect families, seniors, and homeowners from being priced out of their communities.
-- Phase out the state income tax—starting with eliminating capital gains taxes—so every Ohioan keeps more of what they earn.
-- See Vivek’s plan for historic property tax rollbacks
-- See Vivek’s plan for gas tax relief
-Reduce Electric Bills To Advance Energy Independence
-- Expand natural gas and deploy innovative energy technologies to strengthen Ohio’s energy supply and reduce electric bills for every family.
-- Streamline energy project permits and remove unnecessary regulations so projects get built on time and on budget.
-Create an Economy Built on Opportunity
-- Cut government bloat so our government lives within its means—not yours.
-- Slash red tape that drives up costs and stalls business growth.
-- Attract the industries of the future with low-cost, dependable energy.
-- Create more paths to homeownership and entrepreneurship by lowering the cost of living and reducing barriers to growth.
+Vivek’s plan to make Ohio the greatest state in the country is built on these core pillars: Put More Money in Your Pocket Lower Taxes, Lower Energy Bills, Greater Opportunity Vivek wants Ohio to be the most affordable state in America where families get ahead, not fall behind.
+As Governor, Vivek will: Lower Taxes So Families Can Build Their Future in Our State Slash property taxes immediately to protect families, seniors, and homeowners from being priced out of their communities.
+Phase out the state income tax—starting with eliminating capital gains taxes—so every Ohioan keeps more of what they earn.
+See Vivek’s plan for historic property tax rollbacks See Vivek’s plan for gas tax relief Reduce Electric Bills To Advance Energy Independence Expand natural gas and deploy innovative energy technologies to strengthen Ohio’s energy supply and reduce electric bills for every family.
+Streamline energy project permits and remove unnecessary regulations so projects get built on time and on budget.
+Create an Economy Built on Opportunity Cut government bloat so our government lives within its means—not yours.
+Slash red tape that drives up costs and stalls business growth.
+Attract the industries of the future with low-cost, dependable energy.
+Create more paths to homeownership and entrepreneurship by lowering the cost of living and reducing barriers to growth.
 Under Vivek’s plan, Ohio will reward work, investment, and innovation, empowering families to thrive, businesses grow, and our state to become the best place in the world to build a life.
-Educational Achievement
-World Class Education For Your Kids
-Vivek wants Ohio to be the top state in the nation for children to receive a world-class education that prepares them for real life.
-As Governor, Vivek will:
-- Raise academic standards with a focus on 3rd-grade literacy, 8th-grade numeracy, and 12th-grade civics.
-- Empower parents with transparency and meaningful choices over where and how their children learn.
-- Pay our best teachers more by rewarding excellence and attracting top talent into the profession.
-- Promote healthy meals and daily physical education so kids can learn with strong minds and strong bodies.
-- Expand career-technical education and apprenticeships to create real pathways to good-paying jobs.
+Educational Achievement World Class Education For Your Kids Vivek wants Ohio to be the top state in the nation for children to receive a world-class education that prepares them for real life.
+As Governor, Vivek will: Raise academic standards with a focus on 3rd-grade literacy, 8th-grade numeracy, and 12th-grade civics.
+Empower parents with transparency and meaningful choices over where and how their children learn.
+Pay our best teachers more by rewarding excellence and attracting top talent into the profession.
+Promote healthy meals and daily physical education so kids can learn with strong minds and strong bodies.
+Expand career-technical education and apprenticeships to create real pathways to good-paying jobs.
 Vivek’s plan ensures every young Ohioan will have the tools they need to thrive in an increasingly competitive economy.
-Crush Crime
-Protect Our Neighborhoods & Revive Our Cities
-Ohio is a state of great cities: Cincinnati, Columbus, Cleveland, Dayton, Toledo, Akron, Youngstown, and more.
+Crush Crime Protect Our Neighborhoods & Revive Our Cities Ohio is a state of great cities: Cincinnati, Columbus, Cleveland, Dayton, Toledo, Akron, Youngstown, and more.
 It’s time for us to restore law and order in our cities so that Ohioans feel safe in our cities.
-As Governor, Vivek will:
-- Enforce stricter bail and sentencing for repeat violent offenders.
-- Back the blue by empowering local police and sheriffs to arrest violent criminals quickly and decisively.
-- Address severe psychiatric illness so officers can focus on fighting crime.
-- Strengthen public safety across the state so families feel secure in their neighborhoods.
+As Governor, Vivek will: Enforce stricter bail and sentencing for repeat violent offenders.
+Back the blue by empowering local police and sheriffs to arrest violent criminals quickly and decisively.
+Address severe psychiatric illness so officers can focus on fighting crime.
+Strengthen public safety across the state so families feel secure in their neighborhoods.
 Vivek’s plan will push every Ohio city and town to be a place where families feel safe and where businesses want to invest and grow.
-One Ohio
-Unity Over Division
-As Governor, Vivek will bring people together around shared values, not partisan divides.
+One Ohio Unity Over Division As Governor, Vivek will bring people together around shared values, not partisan divides.
 He will restore a political culture where we can respectfully disagree, while still seeing each other as neighbors, friends, and fellow citizens.
 To Vivek, this isn’t about right vs. left.
 It’s about up vs. down.
 It’s about common sense.
 And he’s fighting to lift all Ohioans.
-Ohioans-First Data Center Pledge
-Free Electricity, Lower Property Taxes & Protecting Our Environment
-A Message from Vivek
-A top concern I hear from Ohioans across our state – second only to property taxes – is the accelerating pace of data center expansion.
+Ohioans-First Data Center Pledge Free Electricity, Lower Property Taxes & Protecting Our Environment A Message from Vivek A top concern I hear from Ohioans across our state – second only to property taxes – is the accelerating pace of data center expansion.
 Key citizen concerns about data centers include rising electric bills, noise, pollution, and the absence of clearly defined economic benefits for Ohio families.
 The data center industry has badly failed to earn the trust of millions of everyday Ohioans who are struggling with electric bills and property taxes, wondering why large corporations receive property tax abatements while ordinary homeowners don’t receive the same.
 There are hundreds of data centers already across our state, and the pace of construction is accelerating.
@@ -102,3 +81,25 @@ In sum, my administration will eliminate electricity costs and reduce property t
 No data center will be built in Ohio without actualizing these commitments.
 I look forward to signing legislation in early 2027 to turn this vision into reality.
 The op-ed above ran in The Columbus Dispatch on Thursday, August 6.
+Get Involved Would you like to get involved with the campaign?
+Volunteer First Name Last Name Email Phone/Mobile County Zip Code I want to help out by: Making Calls for Vivek Knocking Doors for Vivek Hosting an Event for Vivek Request Yard Sign Street Address Address Line 1 City Zip Address Line 2 State By checking this box, you are opting in to receive alerts, updates, and news messages via SMS from Vivek Ramaswamy and Rob McColley for Ohio.
+Donations will be solicited.
+Additional text and data rates may apply.
+Text STOP to opt-out.
+Text HELP for assistance.
+Message Frequency may vary/month.
+For more information, please visit our Terms of Use HERE and Privacy Policy HERE .
+Sign Up Home Meet Vivek Meet Rob The Plan Endorsements Press Releases Latest News Get Involved Events War Room Team Store Media Kit Donate Donate Using Crypto Contact Us By providing your phone number, you are consenting to receive calls and recurring SMS/MMS messages, including auto dialed and automated calls and texts, to that number from Vivek Ramaswamy and Rob McColley for Ohio.
+Reply HELP for help, STOP to end.
+Msg & data rates may apply.
+Terms and conditions/ privacy policy apply.
+Contributions to Vivek Ramaswamy and Rob McColley for Ohio are not deductible for federal income tax purposes.
+Corporate contributions are prohibited.
+Partnerships, LLCs, and other unincorporated entities may contribute, but must include the name of one or more owners to whom to attribute the contribution and in what proportion.
+Ohio law requires that all contributors must provide their name and address regardless of the amount of the contribution.
+We also collect contributors’ employer and occupation information to report as required.
+State employees are prohibited from donating and should disregard any contribution request.
+All donations are final unless prohibited by relevant law.
+By contributing, you are affirming that you are a United States citizen, that the funds are in your name, and are not provided by any other person or entity.
+Press Inquiries Privacy Policy Terms & Conditions 471 E Broad St Ste 1510 Columbus, OH 43215 Paid for by Vivek Ramaswamy and Rob McColley for Ohio How would you like to donate?
+Crypto Credit Card

@@ -1,17 +1,78 @@
 [
-"https://facebook.com/",
-"https://instagram.com/",
-"https://pinterest.com/",
-"https://russellholmes.com/",
-"https://russellholmes.com/2023/11/17",
-"https://russellholmes.com/author/rholmes",
-"https://russellholmes.com/category/news",
-"https://russellholmes.com/donations/donation-form",
-"https://russellholmes.com/meet-russell",
-"https://russellholmes.com/participate",
-"https://russellholmes.com/partnership",
-"https://russellholmes.com/priorities",
-"https://russellholmes.com/privacy",
-"https://russellholmes.com/trinitys-project-at-150-centre-st-wins-bpda-board-support",
-"https://twitter.com/"
+{
+"text": "Contact@RussellHolmes.com",
+"href": "mailto:contact@russellholmes.com"
+},
+{
+"text": "Contribute Now",
+"href": "https://russellholmes.com/donations/donation-form/"
+},
+{
+"text": "Meet Russell",
+"href": "https://russellholmes.com/meet-russell/"
+},
+{
+"text": "News",
+"href": "https://russellholmes.com/category/news/"
+},
+{
+"text": "November 17, 2023November 17, 2023",
+"href": "https://russellholmes.com/2023/11/17/"
+},
+{
+"text": "Participate",
+"href": "https://russellholmes.com/participate/"
+},
+{
+"text": "Partnership",
+"href": "https://russellholmes.com/partnership/"
+},
+{
+"text": "Priorities",
+"href": "https://russellholmes.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://russellholmes.com/privacy/"
+},
+{
+"text": "Read MoreRead More",
+"href": "https://russellholmes.com/trinitys-project-at-150-centre-st-wins-bpda-board-support/"
+},
+{
+"text": "Russell E. HolmesRussell E. Holmes",
+"href": "https://russellholmes.com/author/rholmes/"
+},
+{
+"text": "Trinity’s project at 150 Centre St. wins BPDA board supportTrinity’s project at 150 Centre St. wins BPDA board support",
+"href": "https://russellholmes.com/trinitys-project-at-150-centre-st-wins-bpda-board-support/"
+},
+{
+"text": "Welcome",
+"href": "https://russellholmes.com/"
+},
+{
+"text": "[image: Vote Russell Holmes]",
+"href": "https://russellholmes.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com"
+},
+{
+"text": "[no text]",
+"href": "https://pinterest.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0)"
+}
 ]

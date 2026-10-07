@@ -1,84 +1,21 @@
-Kentucky Primary Election Important Dates
-Register to vote!
+Skip to content Search Zorn for State Representative District 36 Home About News Voting Volunteer Contact Us Shop CONTRIBUTE You are here: Home / Voting 2026 Primary Voting 2026 Primary Kentucky Primary Election Important Dates Register to vote!
 The last day to register to vote for the General Elections is October 5, 2026, at 4:00 p.m.
 Click here to register to vote!
-Absentee Voting
-The Absentee Ballot Portal opens 9/19/2026 and closes 10/20/2026 at 11:59 P.M.
-If you are going to be out of town during EARLY VOTING days (October 29th, 30th, and 31st) as well as ELECTION DAY on November 3rd, you may be eligible to vote by requesting an ABSENTEE BALLOT!
-Please Note: To qualify to vote absentee by mail or in the six-day absentee in-person window, one or more of the following must apply:
-- A member of the Armed Forces and their dependents or voters residing overseas
-- A student who temporarily resides outside the county of his or her residence
-- A voter who is incarcerated in jail but has not been convicted
-- A voter who is changing or has changed his or her place of residence to a different state while the registration books are closed in the new state of residence before an election of electors for President and Vice President of the United States, in which case the voter shall be permitted to cast a mail-in absentee ballot for electors for President and Vice President of the United States only
-- A voter who temporarily resides outside the state, but is still eligible to vote in this state
-- Prevented from voting in- person at the polls on election day and from casting an excused or no -excuse in-person absentee ballot on all days in-person absentee voting is conducted because he or she will be absent from the county of his or her residence all hours and all days excused or no excuse in- person absentee voting is conducted
-- A participant in the Secretary of State’s crime victim address confidentiality protection program
-- A voter who is not able to appear at the polls on election day or the days in-person absentee voting is conducted on the account of age, disability, or illness, and who has not been declared mentally disabled by a court of competent jurisdiction.
-Excused, In-person Absentee Voting: October 21st-23rd and October 26th-28th (Same rules apply to mail-in Excused, In-person Absentee Voting (see above)
-In-Person No Excuse Absentee Voting: October 29th – October 31st
-Time: 8:00 am-6:00 pm
-NOTE: A ballot drop box will be available during these dates and times.
+Absentee Voting The Absentee Ballot Portal opens 9/19/2026 and closes 10/20/2026 at 11:59 P.M.
+If you are going to be out of town during EARLY VOTING days (October 29th, 30th, and 31st) as well as ELECTION DAY on November 3rd , you may be eligible to vote by requesting an ABSENTEE BALLOT !
+Please Note: To qualify to vote absentee by mail or in the six-day absentee in-person window, one or more of the following must apply: A member of the Armed Forces and their dependents or voters residing overseas A student who temporarily resides outside the county of his or her residence A voter who is incarcerated in jail but has not been convicted A voter who is changing or has changed his or her place of residence to a different state while the registration books are closed in the new state of residence before an election of electors for President and Vice President of the United States, in which case the voter shall be permitted to cast a mail-in absentee ballot for electors for President and Vice President of the United States only A voter who temporarily resides outside the state, but is still eligible to vote in this state Prevented from voting in- person at the polls on election day and from casting an excused or no -excuse in-person absentee ballot on all days in-person absentee voting is conducted because he or she will be absent from the county of his or her residence all hours and all days excused or no excuse in- person absentee voting is conducted A participant in the Secretary of State’s crime victim address confidentiality protection program A voter who is not able to appear at the polls on election day or the days in-person absentee voting is conducted on the account of age, disability, or illness, and who has not been declared mentally disabled by a court of competent jurisdiction.
+Excused, In-person Absentee Voting : October 21st-23rd and October 26th-28th (Same rules apply to mail-in Excused, In-person Absentee Voting (see above) In-Person No Excuse Absentee Voting : October 29th – October 31st Time: 8:00 am-6:00 pm NOTE: A ballot drop box will be available during these dates and times.
 Click here to download all Primary Election ballot drop box locations.
-For more information, visit the Jefferson County Clerk’s Election Center or the Kentucky Board of Elections Voter Information Portal.
-Primary Election Locations
-- Americana World Community Center
-4801 Southside Drive, 40214
-- The Arterburn
-310 Ten Pin Ln., 40207
-- Berrytown Recreation Center
-1300 Heafer Rd., 40223
-- Bowman Field — Administration Building
-2815 Taylorsville Rd., 40205
-- Cyril Allgeier Community Center
-4101 Cadillac Ct., 40213
-- Epiphany United Methodist Church
-7032 Southside Dr., 40214
-- Goodwill Opportunity Campus – Broadway
-2820 W.
-Broadway, 40211
-- Goodwill Opportunity Campus – Preston
-6201 Preston Hwy., 40219
-- The Heritage — Shively Park
-1901 Park Rd., 40216
-- Immanuel United Church of Christ
-2300 Taylorsville Rd., 40205
-- The Jeffersonian
-10617 Taylorsville Rd., 40299
-- Jefferson County Clerk’s Office – Downtown Branch
-200 S.
+For more information, visit the Jefferson County Clerk’s Election Center or the Kentucky Board of Elections Voter Information Portal .
+Primary Election Locations Americana World Community Center 4801 Southside Drive, 40214 The Arterburn 310 Ten Pin Ln., 40207 Berrytown Recreation Center 1300 Heafer Rd., 40223 Bowman Field — Administration Building 2815 Taylorsville Rd., 40205 Cyril Allgeier Community Center 4101 Cadillac Ct., 40213 Epiphany United Methodist Church 7032 Southside Dr., 40214 Goodwill Opportunity Campus – Broadway 2820 W.
+Broadway, 40211 Goodwill Opportunity Campus – Preston 6201 Preston Hwy., 40219 The Heritage — Shively Park 1901 Park Rd., 40216 Immanuel United Church of Christ 2300 Taylorsville Rd., 40205 The Jeffersonian 10617 Taylorsville Rd., 40299 Jefferson County Clerk’s Office – Downtown Branch 200 S.
 Fifth St.
-Suite 228 First Trust Centre, 40202
-- Jefferson County Clerk’s Office – East Branch
-12312 – A Shelbyville Rd., 40243
-- Jefferson County Clerk’s Office – Fairdale Branch
-10616 W.
-Manslick Rd., 40118
-- Jefferson County Clerk’s Office – West Branch
-French Plaza — 228 Amy Ave., 40212
-- Kentucky Center for African American Heritage
-1701 W.
-Muhammad Ali Blvd., 40203
-- Lyndon Elks Lodge #2052
-904 Ormsby Ln.,40242
-- New Zion Baptist Church
-1501 Louis Coleman Jr.
-Dr., 40211
-- Old Forester’s Paristown Hall
-724 Brent St., 40204
-- St.
-Andrew United Church of Christ
-2608 Browns Ln., 40220
-- Sts.
-Simon and Jude Catholic Church
-4335 Hazelwood Dr., 40215
-- Sun Valley Community Center
-6505 Bethany Ln., 40272
-- Teamster’s Local Union #783
-7711 Beulah Church Rd., 40228
-- Triple Crown Pavilion
-1780 Plantside Dr., 40299
-- U of L Shelby Campus – Founders Union Bldg.
-Rm. 218
-450 N.Whittington Pkwy., 40222
-Election Day Voting
-General Election dates: November 3, 2026
+Suite 228 First Trust Centre, 40202 Jefferson County Clerk’s Office – East Branch 12312 – A Shelbyville Rd., 40243 Jefferson County Clerk’s Office – Fairdale Branch 10616 W.
+Manslick Rd., 40118 Jefferson County Clerk’s Office – West Branch French Plaza — 228 Amy Ave., 40212 Kentucky Center for African American Heritage 1701 W.
+Muhammad Ali Blvd., 40203 Lyndon Elks Lodge #2052 904 Ormsby Ln.,40242 New Zion Baptist Church 1501 Louis Coleman Jr.
+Dr., 40211 Old Forester’s Paristown Hall 724 Brent St., 40204 St.
+Andrew United Church of Christ 2608 Browns Ln., 40220 Sts.
+Simon and Jude Catholic Church 4335 Hazelwood Dr., 40215 Sun Valley Community Center 6505 Bethany Ln., 40272 Teamster’s Local Union #783 7711 Beulah Church Rd., 40228 Triple Crown Pavilion 1780 Plantside Dr., 40299 U of L Shelby Campus – Founders Union Bldg.
+Rm.
+218 450 N.Whittington Pkwy., 40222 Election Day Voting General Election dates: November 3, 2026 Get involved in Woody’s Campaign today!
+CONTRIBUTE | Volunteer | Facebook | Instagram | Threads Copyright © # · Paid for by Zorn for State Representative

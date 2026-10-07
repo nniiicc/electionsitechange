@@ -1,9 +1,50 @@
 [
-"https://facebook.com/mikehammillforpa",
-"https://instagram.com/mikehammillforpa",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx",
-"https://pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx",
-"https://secure.psqimpact.com/donate/friends-of-mike-hammill/mike-hammill-for-pa",
-"https://x.com/HammillforPA33"
+{
+"text": "Check Status Now",
+"href": "https://www.pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx"
+},
+{
+"text": "Contribute Today",
+"href": "https://secure.psqimpact.com/donate/friends-of-mike-hammill/mike-hammill-for-pa"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.psqimpact.com/donate/friends-of-mike-hammill/mike-hammill-for-pa"
+},
+{
+"text": "Email",
+"href": "mailto:info@mikehammillforpa.com"
+},
+{
+"text": "Email the Campaign",
+"href": "mailto:info@mikehammillforpa.com"
+},
+{
+"text": "Find My Polling Place",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "Sign Up to Volunteer",
+"href": "mailto:info@mikehammillforpa.com?subject=Volunteer"
+},
+{
+"text": "Update / Register",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "Volunteer",
+"href": "mailto:info@mikehammillforpa.com?subject=Volunteer"
+},
+{
+"text": "[image]",
+"href": "https://facebook.com/mikehammillforpa"
+},
+{
+"text": "[image]",
+"href": "https://instagram.com/mikehammillforpa"
+},
+{
+"text": "[image]",
+"href": "https://x.com/HammillforPA33"
+}
 ]

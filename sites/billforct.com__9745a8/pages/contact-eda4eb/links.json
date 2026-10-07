@@ -1,7 +1,26 @@
 [
-"http://instagram.com/billforct",
-"https://billforct.com/",
-"https://billforct.com/about",
-"https://billforct.com/contact",
-"https://facebook.com/share/17B1F4WycN?mibextid=wwXIfr"
+{
+"text": "About",
+"href": "https://www.billforct.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.billforct.com/contact/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/share/17B1F4WycN/?mibextid=wwXIfr"
+},
+{
+"text": "Home",
+"href": "https://www.billforct.com/"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/billforct"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.billforct.com"
+}
 ]

@@ -1,23 +1,102 @@
 [
-"https://actionnetwork.org/forms/cleaverwebsignup",
-"https://cleaver4congress.com/",
-"https://cleaver4congress.com/about",
-"https://cleaver4congress.com/accessibility",
-"https://cleaver4congress.com/cart",
-"https://cleaver4congress.com/contact",
-"https://cleaver4congress.com/gallery-1",
-"https://cleaver4congress.com/in-the-news",
-"https://cleaver4congress.com/issues",
-"https://cleaver4congress.com/privacy-policy",
-"https://cleaver4congress.com/updates",
-"https://cleaver4congress.com/vote",
-"https://facebook.com/share/17FtYGvCao?mibextid=wwXIfr",
-"https://forms.gle/C7mA24BZgcCifGHi9",
-"https://instagram.com/cleaverforcongress",
-"https://secure.actblue.com/donate/cleaver-congress",
-"https://secure.actblue.com/donate/cleaver-congress?amount=100",
-"https://secure.actblue.com/donate/cleaver-congress?amount=25",
-"https://secure.actblue.com/donate/cleaver-congress?amount=250",
-"https://secure.actblue.com/donate/cleaver-congress?amount=50",
-"https://secure.actblue.com/donate/cleaver-congress?amount=500"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cleaver-congress?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cleaver-congress?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cleaver-congress?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cleaver-congress?amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cleaver-congress?amount=500"
+},
+{
+"text": "0",
+"href": "https://www.cleaver4congress.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.cleaver4congress.com/about"
+},
+{
+"text": "Accessibility",
+"href": "https://www.cleaver4congress.com/accessibility"
+},
+{
+"text": "Contact",
+"href": "https://www.cleaver4congress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cleaver-congress"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/cleaver-congress"
+},
+{
+"text": "Gallery",
+"href": "https://www.cleaver4congress.com/gallery-1"
+},
+{
+"text": "Home",
+"href": "https://www.cleaver4congress.com/"
+},
+{
+"text": "In the News",
+"href": "https://www.cleaver4congress.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://www.cleaver4congress.com/issues"
+},
+{
+"text": "Other Amount…",
+"href": "https://secure.actblue.com/donate/cleaver-congress"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cleaver4congress.com/privacy-policy"
+},
+{
+"text": "Stay Informed",
+"href": "https://actionnetwork.org/forms/cleaverwebsignup"
+},
+{
+"text": "Updates",
+"href": "https://www.cleaver4congress.com/updates"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/C7mA24BZgcCifGHi9"
+},
+{
+"text": "Vote",
+"href": "https://www.cleaver4congress.com/vote"
+},
+{
+"text": "[image: Cleaver for Congress]",
+"href": "https://www.cleaver4congress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/17FtYGvCao/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cleaverforcongress/"
+},
+{
+"text": "info@cleaver4congress.com",
+"href": "mailto:info@cleaver4congress.com"
+}
 ]

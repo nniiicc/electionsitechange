@@ -1,14 +1,70 @@
 [
-"https://facebook.com/votedillontravis",
-"https://oklahoma.gov/elections/faqs.html",
-"https://oklahoma.gov/elections/voter-registration/voter-registration-changes.html",
-"https://oklahoma.gov/elections/voters/early-voting.html",
-"https://okvoterportal.okelections.gov/",
-"https://secure.anedot.com/dillon-travis-for-state-house/f87ae913-1761-412c-a5b0-96553dd210a6",
-"https://votedillontravis.com/",
-"https://votedillontravis.com/contact",
-"https://votedillontravis.com/media",
-"https://votedillontravis.com/privacy-policy",
-"https://votedillontravis.com/terms-and-conditions",
-"https://votedillontravis.com/vote"
+{
+"text": "CONTACT",
+"href": "https://votedillontravis.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/dillon-travis-for-state-house/f87ae913-1761-412c-a5b0-96553dd210a6"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votedillontravis"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://votedillontravis.com/#get-involved"
+},
+{
+"text": "HOME",
+"href": "https://votedillontravis.com/"
+},
+{
+"text": "Here’s how.",
+"href": "https://oklahoma.gov/elections/voter-registration/voter-registration-changes.html"
+},
+{
+"text": "ISSUES",
+"href": "https://votedillontravis.com/#issues"
+},
+{
+"text": "Learn more.",
+"href": "https://oklahoma.gov/elections/voters/early-voting.html"
+},
+{
+"text": "MEDIA",
+"href": "https://votedillontravis.com/media/"
+},
+{
+"text": "MEET DILLON",
+"href": "https://votedillontravis.com/#meet"
+},
+{
+"text": "OK Voter Portal",
+"href": "https://okvoterportal.okelections.gov/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://votedillontravis.com/privacy-policy/"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://votedillontravis.com/terms-and-conditions/"
+},
+{
+"text": "Update Voter Registration",
+"href": "https://oklahoma.gov/elections/voter-registration/voter-registration-changes.html"
+},
+{
+"text": "VOTE",
+"href": "https://votedillontravis.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://votedillontravis.com"
+},
+{
+"text": "here.",
+"href": "https://oklahoma.gov/elections/faqs.html"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Contribute to the campaign",
  "final_url": "https://www.southjerseygrit.com/contribute?amount=500",
- "paid_for_by": null,
+ "fingerprint": "1e34334bd6a733f2e46cb585d94c32f2b737c267",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contribute",
  "years_mentioned": []
 }

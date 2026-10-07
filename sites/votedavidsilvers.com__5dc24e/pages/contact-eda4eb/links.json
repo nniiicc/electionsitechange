@@ -1,11 +1,42 @@
 [
-"https://secure.anedot.com/davidsilversforstatesenate/donate",
-"https://votedavidsilvers.com/",
-"https://votedavidsilvers.com/awards",
-"https://votedavidsilvers.com/contact",
-"https://votedavidsilvers.com/endorsements",
-"https://votedavidsilvers.com/join",
-"https://votedavidsilvers.com/meet-david",
-"https://votedavidsilvers.com/news",
-"https://votedavidsilvers.com/results"
+{
+"text": "Awards",
+"href": "https://www.votedavidsilvers.com/awards/"
+},
+{
+"text": "Contact",
+"href": "https://www.votedavidsilvers.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/davidsilversforstatesenate/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votedavidsilvers.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.votedavidsilvers.com/"
+},
+{
+"text": "Join",
+"href": "https://www.votedavidsilvers.com/join/"
+},
+{
+"text": "Meet David",
+"href": "https://www.votedavidsilvers.com/meet-david/"
+},
+{
+"text": "News",
+"href": "https://www.votedavidsilvers.com/news/"
+},
+{
+"text": "Results",
+"href": "https://www.votedavidsilvers.com/results/"
+},
+{
+"text": "[image: David Silvers for the Florida Senate]",
+"href": "https://www.votedavidsilvers.com/"
+}
 ]

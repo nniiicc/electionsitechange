@@ -1,7 +1,9 @@
 {
  "description": "Support Jessica Drew Day&#39;s campaign by donating today for a better Rhode Island! Your contributions make a difference.",
  "final_url": "https://jessicadrewday.com/donate",
- "paid_for_by": null,
+ "fingerprint": "59bfb5e7ec827c0f906b3c265be7b80e6d6431cc",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
  "years_mentioned": []
 }

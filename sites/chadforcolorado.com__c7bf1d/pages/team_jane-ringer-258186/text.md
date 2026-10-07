@@ -1,8 +1,4 @@
-top of page
-Jane Ringer
-Treasurer
-Jane Ringer has served the Democratic Party in numerous positions including County Party Treasurer for Arapahoe County.
+top of page Meet Chad Team Endorsements Priorities Creating Leaders PAC Newsletters Subscribe District 37 Contact Get Involved Events Donate < Back Jane Ringer Treasurer Jane Ringer has served the Democratic Party in numerous positions including County Party Treasurer for Arapahoe County.
 She was one of the first people that Rep.
 Clifford enlisted when he started a campaign for office, she is trusted with managing all of the finances and reporting for the campaign (and she's known from time to time to give her opinion on political matters as a trusted advisor).
-She can be reached at jane@chadforcolorado.com
-bottom of page
+She can be reached at jane@chadforcolorado.com jane@chadforcolorado.com C H A D C L I F F O R D - State Representative- C H A D C L I F F O R D - State Representative- © # Paid for by Chad for Colorado, Registered Agent Chad Clifford bottom of page

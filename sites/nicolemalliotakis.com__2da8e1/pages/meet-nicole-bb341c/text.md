@@ -1,4 +1,5 @@
-Nicole Malliotakis was elected to the United States House of Representatives in November 2020, defeating an incumbent Democrat by more than 18,000 votes.
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE A No-Nonsense Leader.
+Meet Nicole Donate Now Nicole Malliotakis was elected to the United States House of Representatives in November 2020, defeating an incumbent Democrat by more than 18,000 votes.
 She currently serves as Assistant Whip for the House Republican Conference and on the House Ways and Means Committee.
 She also serves on the subcommittees on Tax and Oversight.
 Congresswoman Malliotakis is a member of the Congressional Joint Economic Committee.
@@ -15,12 +16,12 @@ In the State Assembly, Nicole was the leading voice against corrupt former Assem
 She created more transparency in state government by opening committee meetings to public scrutiny through streaming on the internet and making votes taken in committee part of the public record.
 Nicole also successfully sued the Port Authority of New York and New Jersey to expose records that should have been public and she was the leading proponent of property tax reform in New York City.
 Recovery from Hurricane Sandy was a hallmark of her tenure as a member of the State Assembly, as her district, which encompassed the eastern shore of Staten Island, was among the hardest hit by the October 2012 storm.
-In addition, Nicole successfully fought to restore and expand transit service in her district, improve programs for senior citizens, and reform education in our state.
+In addition, Nicole successfully fought to restore and expand transit service in her district, improve programs for senior citizens , and reform education in our state.
 She worked to improve New York’s economic climate and reduce the tax burden on small businesses and residents.
 She is also a passionate advocate for animal rights and the strengthening of animal cruelty laws.
 Congresswoman Malliotakis is the daughter of immigrants, her father from Greece and her mother a Cuban exile of the Castro dictatorship.
 She is currently the only Republican member of Congress representing New York City and the only Hispanic Republican elected official citywide.
 New York’s 11th Congressional District spans the boroughs of Brooklyn and Staten Island.
-During her time in the Assembly, Assemblywoman Malliotakis was named one of 2012’s “40 Under 40 Latino Rising Stars” by the Hispanic Coalition of New York, as well as a member of Greek America’s “Forty Under 40” Class of 2012 for which she was recognized at their annual National Innovation Convention.
+GET INVOLVED DONATE NOW During her time in the Assembly, Assemblywoman Malliotakis was named one of 2012’s “40 Under 40 Latino Rising Stars” by the Hispanic Coalition of New York, as well as a member of Greek America’s “Forty Under 40” Class of 2012 for which she was recognized at their annual National Innovation Convention.
 In 2013, she was named one of the American Conservative Union’s “Top 10 Under 40” and addressed the 2013 Conservative Political Action Conference (CPAC), for which MSNBC identified her as a “young conservative to watch.” As a state legislator, she also served as a board member of the World Hellenic Inter-Parliamentary Association and as state director of the National Foundation for Women Legislators.
-Congresswoman Malliotakis frequently appears on numerous news programs on network and cable television including Fox News, Fox Business Network, PBS, CNBC and Bloomberg.
+Congresswoman Malliotakis frequently appears on numerous news programs on network and cable television including Fox News, Fox Business Network, PBS, CNBC and Bloomberg. get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

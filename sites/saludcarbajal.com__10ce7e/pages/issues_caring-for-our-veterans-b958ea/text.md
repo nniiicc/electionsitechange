@@ -1,5 +1,4 @@
-Caring For Our Veterans
-I joined the Marine Corps Reserves to give back to our country.
+Skip to primary navigation Skip to content × Close Meet Salud En Español Get Involved Join the Team Endorsements Contact × Close Meet Salud En Español Get Involved Join the Team Endorsements Contact x x search x MENU Contribute Facebook icon Twitter icon Flickr icon Home Issues Caring For Our Veterans I joined the Marine Corps Reserves to give back to our country.
 Today, our veterans and their families face more challenges than ever before after returning home from service.
 As a veteran who serves on the House Armed Services Committee, I work every day in Congress to tackle these challenges and ensure veterans receive the support they deserve.
 We must step up for veterans the way they stepped up for us.
@@ -11,3 +10,7 @@ Deployed veterans have a 41% higher suicide risk compared to the general populat
 We have to implement more programs to ensure that veterans living with depression, post-traumatic stress disorder (PTSD) and other trauma can get the care they need.
 There are nearly 40,000 veterans living in the 24th District with almost 4,000 more serving on active military duty.
 Whether its reducing VA wait times, increasing accountability and transparency, improving care or helping returning troops transition back into the civilian world, I will honor their service by taking action to improve the lives of veterans on the Central Coast and across our nation.
+Need more information?
+Give us a Call!
+Our phone number is (805) 845-9745 Contribute Meet Salud En Español Issues Get Involved Contact Privacy Policy Salud Carbajal for Congress P.O.
+Box 1290 Santa Barbara, CA, 93102 (805) 845-9745 Facebook icon Twitter icon Flickr icon Paid for by Salud Carbajal for Congress

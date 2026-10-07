@@ -1,15 +1,3 @@
-BREWS & VIEWS PODCAST | ShannonLundgren
-top of page
-HOME
-PLATFORM
-LEGISLATION
-AWARDS
-GET INVOLVED
-BREWS & VIEWS PODCAST
-NEWS
-EVENTS
-More...
+top of page HOME PLATFORM LEGISLATION AWARDS GET INVOLVED BREWS & VIEWS PODCAST NEWS EVENTS More...
 Use tab to navigate through the menu items.
-DONATE
-Follow Here
-bottom of page
+DONATE Follow Here JOIN THE CONVERSATION Paid for by the Lundgren for House Committee bottom of page

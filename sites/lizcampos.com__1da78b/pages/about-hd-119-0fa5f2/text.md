@@ -1,99 +1,50 @@
-ABOUT OUR DISTRICT
-TX HD 119
-WHAT WE'VE DONE FOR YOU
-In my first term representing Texas House District 119, I was selected as "Freshman of the Year" by the Texas House Legislative Study Group.
+top of page SUBSCRIBE Home About Issues Endorsements Accomplishments About HD 119 Liz In The Community In The News CONTRIBUTE ABOUT OUR DISTRICT TX HD 119 WHAT WE'VE DONE FOR YOU In my first term representing Texas House District 119, I was selected as "Freshman of the Year" by the Texas House Legislative Study Group.
 This session, my team and I worked to improve the Department of Family and Protective Services by advocating for stronger resources and more efficient support systems to protect vulnerable children and families.
-I am also proud to serve as the Vice Chair of the House Public Health Committee, and serve as a member of the Human Services and Redistricting Committees.
-I was also proud to have led mental health initiatives, especially for firefighters and peace officers, recognizing the unique challenges these first responders face and the critical need for specialized mental health care.
-Also during this session, I was proud to have authored legislation to increase accessibility to physician assistance care, expanding healthcare options for communities across Texas.
-I also made efforts in the Capitol to provide more comprehensive support for individuals with intellectual and developmental disabilities, ensuring they receive the services and opportunities they need to thrive.
-Recognizing the importance of quality care for seniors, I push for improved staffing standards at facilities that care for individuals with Alzheimer's disease or related disorders, ensuring that these vulnerable populations receive the attention and care they deserve.
-In addition to advancing legislation, I also worked to strengthen the Department of Family and Protective Services, expand Medicaid, fully fund public schools, and finance local infrastructure projects that generate jobs, create opportunity, and reduce poverty in our community.
-"Housing First" is also an initiative I am proud of, that aimed to create transitional housing programs, housing mobility investments, and the creation of an affordable housing trust fund in Bexar County to provide assistance for the unhoused population.
-I am proud to be the first woman elected to represent Texas House District 119.
+I am also proud to serve as the Vice Chair of the House Public Health Committee, and serve as a member of the Human Services and Redistricting Committees. ​ I was also proud to have led mental health initiatives, especially for firefighters and peace officers, recognizing the unique challenges these first responders face and the critical need for specialized mental health care. ​ Also during this session, I was proud to have authored legislation to increase accessibility to physician assistance care, expanding healthcare options for communities across Texas.
+I also made efforts in the Capitol to provide more comprehensive support for individuals with intellectual and developmental disabilities, ensuring they receive the services and opportunities they need to thrive. ​ Recognizing the importance of quality care for seniors, I push for improved staffing standards at facilities that care for individuals with Alzheimer's disease or related disorders, ensuring that these vulnerable populations receive the attention and care they deserve. ​ In addition to advancing legislation, I also worked to strengthen the Department of Family and Protective Services, expand Medicaid, fully fund public schools, and finance local infrastructure projects that generate jobs, create opportunity, and reduce poverty in our community. ​ "Housing First" is also an initiative I am proud of, that aimed to create transitional housing programs, housing mobility investments, and the creation of an affordable housing trust fund in Bexar County to provide assistance for the unhoused population. ​ I am proud to be the first woman elected to represent Texas House District 119.
 I have over thirty years of experience as a legal administrator at major law firms in San Antonio and Bexar County and previously served in the Texas Legislature as a House Constituent Coordinator, Senate District Director, and Senate Chief of Staff.
-LEGISLATIVE OVERVIEW
-PROPERTY TAXES
-The Texas Legislature approved $10 Billion in property tax relief for homeowners, seniors, and small businesses.
-I am proud to have co-sponsored two of the three major property tax relief bills that passed this session, Senate Bill 4 and Senate Bill 23.
-Senate Bill 4 provides property tax relief to homeowners by increasing the school districts’ residence homestead exemption from $100,000 to $140,000.
+HD119 MAP TX House Reps Maps HD119 SCHOOL DISTRICTS IMPORTANT PHONE NUMBERS HD119 CITIES HD119 ZIP CODES I authored 43 bills during the 89th Legislative Session and supported 48 additional bills by signing on as a co-author, co-sponsor, or joint author.
+READ MORE LEGISLATIVE OVERVIEW PROPERTY TAXES The Texas Legislature approved $10 Billion in property tax relief for homeowners, seniors, and small businesses.
+I am proud to have co-sponsored two of the three major property tax relief bills that passed this session, Senate Bill 4 and Senate Bill 23. ​ Senate Bill 4 provides property tax relief to homeowners by increasing the school districts’ residence homestead exemption from $100,000 to $140,000.
 This legislation also adjusts the property tax freeze for Texans who are over 65 or disabled to ensure these groups also benefit from the increased exemption.
 The state would provide $2.7 billion to offset the revenue loss to school districts from the increased exemption.
-For this legislation to take effect, Texans must vote to approve Proposition 13 (Constitutional amendment SJR 2) in the 2025 November Constitutional Election.
-Senate Bill 23 increases the additional homestead exemption for Texas homeowners who are 65 years of age or older or disabled.
+For this legislation to take effect, Texans must vote to approve Proposition 13 (Constitutional amendment SJR 2) in the 2025 November Constitutional Election. ​ Senate Bill 23 increases the additional homestead exemption for Texas homeowners who are 65 years of age or older or disabled.
 In Texas, homeowners who are 65 years of age or older or disabled receive a homestead exemption of $10,000 from school district taxes on top of the mandatory residential homestead.
 SB 23 would raise this additional exemption from $10,000 to $60,000.
 The State would provide $1.2 billion to offset the revenue loss to school districts from the increased exemption.
-For this legislation to take effect, Texans must approve Proposition 11 (Constitutional amendment SJR 85).
-House Bill 9 raises the Business Personal Property (BPP) tax exemption from $2,500 to $125,000 for all taxing units and standardizes it as a flat exemption so all businesses can benefit equally.
+For this legislation to take effect, Texans must approve Proposition 11 (Constitutional amendment SJR 85). ​ House Bill 9 raises the Business Personal Property (BPP) tax exemption from $2,500 to $125,000 for all taxing units and standardizes it as a flat exemption so all businesses can benefit equally.
 The State would provide $566.3 million to make school districts whole for lost revenue.
-For this legislation to take effect, Texans must approve Proposition 9 (Constitutional amendment
-HJR 1).
+For this legislation to take effect, Texans must approve Proposition 9 (Constitutional amendment HJR 1).
 Texas House Speaker Dustin Burrows appointed me Vice Chair of the Public Health Committee.
 On this committee, my goals are to increase access to affordable, high-quality healthcare that allows us to get preventive care and treatments, avoid medical debt, and live healthy lives.
-Health care related legislation that I sponsored include Senate Bill 31 “The Live of the Mother Act”, Senate Bill 5 “The Dementia Prevention and Research Institute of Texas”, and House Bill 1593 “Suicide Prevention and Peer Support for Firefighters”.
-The Texas Life of the Mother Act clarifies abortion exceptions and reinforces a physician's ability to make medical decisions based on their professional judgment to protect the health or life of a pregnant patient.
+Health care related legislation that I sponsored include Senate Bill 31 “The Live of the Mother Act”, Senate Bill 5 “The Dementia Prevention and Research Institute of Texas”, and House Bill 1593 “Suicide Prevention and Peer Support for Firefighters”. ​ The Texas Life of the Mother Act clarifies abortion exceptions and reinforces a physician's ability to make medical decisions based on their professional judgment to protect the health or life of a pregnant patient.
 By shifting the burden of proof from the physician to the state, the bill aims to reduce the fear of prosecution that has discouraged physicians from providing medically appropriate care under current abortion laws as well.
-It also affirms longstanding judicial precedent that protects pregnant individuals from prosecution.
-The Dementia Prevention and Research Institute of Texas is a new state-run medical research institute funded with $3 billion from general revenue plus up to $300 million annually to support research on preventing and treating Dementia, Alzheimer’s disease, Parkinson’s disease, and other neurodegenerative diseases.
+It also affirms longstanding judicial precedent that protects pregnant individuals from prosecution. ​ The Dementia Prevention and Research Institute of Texas is a new state-run medical research institute funded with $3 billion from general revenue plus up to $300 million annually to support research on preventing and treating Dementia, Alzheimer’s disease, Parkinson’s disease, and other neurodegenerative diseases.
 For this legislation to take effect, Texans must approve Proposition 14 (Constitutional amendment SJR 3) in the November Constitutional Election.
-LEGISLATIVE OVERVIEW
-HEALTH CARE
-LEGISLATIVE OVERVIEW
-PUBLIC EDUCATION
-Texas public schools once again found themselves at the center of political struggle.
-Modest increases to funding and efforts to improve early literacy and special education were overshadowed by the passage of a statewide private school voucher program and a series of ideological mandates.
-House Bill 2 represented the Legislature’s main effort to address funding shortfalls, teacher pay, and special education.
+LEGISLATIVE OVERVIEW HEALTH CARE LEGISLATIVE OVERVIEW PUBLIC EDUCATION Texas public schools once again found themselves at the center of political struggle.
+Modest increases to funding and efforts to improve early literacy and special education were overshadowed by the passage of a statewide private school voucher program and a series of ideological mandates. ​ House Bill 2 represented the Legislature’s main effort to address funding shortfalls, teacher pay, and special education.
 The bill guarantees across-the-board teacher pay raises, directing $4.2 billion to school districts for a new teacher retention allotment.
 An additional $500 million was set aside for pay raises for non-administrative staff, including new teachers, counselors, librarians, nurses, aides, custodians, bus drivers, and food service workers.
-The bill also provided $1.3 billion in fixed-cost funding to help districts with rising employee benefit costs and other operational needs.
-In a major reform, HB 2 overhauled special education funding by replacing the outdated placement-based model with an intensity-based model that better aligns funding with student needs.
+The bill also provided $1.3 billion in fixed-cost funding to help districts with rising employee benefit costs and other operational needs. ​ In a major reform, HB 2 overhauled special education funding by replacing the outdated placement-based model with an intensity-based model that better aligns funding with student needs.
 The bill also cracked down on uncertified teachers, mandating certification requirements for teachers in Districts of Innovation and offering incentives to help uncertified teachers get licensed.
 As a senior member of the Texas Delivery of Government Efficiency Committee and co-author of House Bill 150, I collaborated with my colleagues to create the Texas Cyber Command, the largest state-based cybersecurity department in America.
 The command will be headquartered in San Antonio, and UTSA will play an important role in its advancement.
 Funded through a historic $135 million investment, the Texas Cyber Command will be an economic boom to San Antonio and strengthen UTSA’s reputation as a national leader in cybersecurity.
-LEGISLATIVE OVERVIEW
-TEXAS CYBER COMMAND
-IN SAN ANTONIO
-LEGISLATIVE OVERVIEW
-House Bill 1 - General Appropriations Act - Budget Amendment
-My contribution to HB1, the state's biennial budget, was made through a significant amendment.
+LEGISLATIVE OVERVIEW TEXAS CYBER COMMAND IN SAN ANTONIO LEGISLATIVE OVERVIEW House Bill 1 - General Appropriations Act - Budget Amendment My contribution to HB1, the state's biennial budget, was made through a significant amendment.
 The amendment boosts funding for specific universities and expands the eligibility of a tuition scholarship program.
 This program caters to prospective teachers seeking certification in bilingual/ESL or Spanish language education.
 Texas has grappled with a shortage of bilingual educators for more than three decades.
 As the population of bilingual students grows, the state must equip teachers with the necessary skills to cater to their needs.
 By implementing this amendment, Texas takes a crucial step toward addressing the persistent and escalating demand for bilingual educators.
-LEGISLATION
-LEGISLATION
-HB 5 / HJR 3 / SB 5 / SJR 3: Establishes the Dementia Prevention and Research Institute of Texas.
-HB 8: Creates a formula for public junior colleges funding across the state.
-HB 9: Creates a Broadband Infrastructure Fund to increase internet connectivity across Texas.
-HB12: Extends Medicaid coverage for postpartum women from 6 to 12 months.
-HB 20: Applied Science Pathway Program allows students to graduate with high school
-diploma and a certification in a high-wage, high-growth trade.
-HB 25: Allows the Health and Human Services Commission to create a prescription drug importation program from Canada to lower drug costs for Texans.
-HB 44 / SB 31: Life of the Mother Act saves lives by clarifying exceptions to abortion laws.
-HB 150: Creates the Texas Cyber Command in San Antonio with $150 Million Investment.
-HB 567: Bans discrimination based on hairstyles associated with race - The CROWN Act.
-HB 568: Required peace officers to undergo training for interactiving with people with dementia.
-HB 1534 / HB 3582 / SB 1141: Department of Family and Protective Services reforms to protect children.
-HB 1593 / HB 3420: Mental health policies and services for peace officers and fire fighters.
-HB 1731 / HB 1747 / HB 3588: Relating to patients' rights, consumer protection, and public health care services.
-HB 1738: LGBTQ Pro-Equality Legislation that repeals outdated discriminatory statutes.
-HB 2194: Established a "Made in Texas" labeling program for Texas products.
-HB 2324 / HB 2376 / HB 3325: Nursing Home and Assisted Living Safety Measures to protect Senior Citizens.
-HB 2516: Allows Texans younger than 65 to purchase Medicare supplement benefit plans.
-HJR 119 / HB 2032: Property Tax Relief for Disabled Veterans and surviving spouses on fixed incomes.
-HB 3260: Strengthens Apprenticeship Programs Grant Program by making it more accessible.
-HB 4759: Ramon Najera Act, dangerous dog reform; Aims to protect the identity of people reporting dangerous dogs allowing anonymous reports to reduce intimidation risk.
-Although Governor Greg Abbott vetoed the bill, it earned widespread local support and has been reintroduced.
-SB 490: Requires health care providers to give patients an itemized bill of medical service upon request.
-SB 1325: Standardizes and improves the process for victims of family violence to receive assistance and know legal rights.
-SB 1985: Reestablishes the Texas Bicentennial Commission to plan the 200th Anniversary of Texas' Independence.
-SCR 31: Establishes Koreatown on Royal Lane between Harry Hines Boulevard and Luna Road.
+LEGISLATION LEGISLATION HB 5 / HJR 3 / SB 5 / SJR 3: Establishes the Dementia Prevention and Research Institute of Texas. ​ ​ HB 8: Creates a formula for public junior colleges funding across the state. ​ HB 9: Creates a Broadband Infrastructure Fund to increase internet connectivity across Texas.
+HB12: Extends Medicaid coverage for postpartum women from 6 to 12 months. ​ HB 20: Applied Science Pathway Program allows students to graduate with high school diploma and a certification in a high-wage, high-growth trade.
+HB 25: Allows the Health and Human Services Commission to create a prescription drug importation program from Canada to lower drug costs for Texans. ​ HB 44 / SB 31: Life of the Mother Act saves lives by clarifying exceptions to abortion laws. ​ HB 150: Creates the Texas Cyber Command in San Antonio with $150 Million Investment. ​ HB 567: Bans discrimination based on hairstyles associated with race - The CROWN Act. ​ HB 568: Required peace officers to undergo training for interactiving with people with dementia. ​ HB 1534 / HB 3582 / SB 1141: Department of Family and Protective Services reforms to protect children. ​ HB 1593 / HB 3420: Mental health policies and services for peace officers and fire fighters. ​ HB 1731 / HB 1747 / HB 3588: Relating to patients' rights, consumer protection, and public health care services. ​ HB 1738: LGBTQ Pro-Equality Legislation that repeals outdated discriminatory statutes. ​ HB 2194: Established a "Made in Texas" labeling program for Texas products. ​ HB 2324 / HB 2376 / HB 3325: Nursing Home and Assisted Living Safety Measures to protect Senior Citizens. ​ HB 2516: Allows Texans younger than 65 to purchase Medicare supplement benefit plans. ​ HJR 119 / HB 2032: Property Tax Relief for Disabled Veterans and surviving spouses on fixed incomes. ​ HB 3260: Strengthens Apprenticeship Programs Grant Program by making it more accessible. ​ ​ HB 4759: Ramon Najera Act, dangerous dog reform; Aims to protect the identity of people reporting dangerous dogs allowing anonymous reports to reduce intimidation risk.
+Although Governor Greg Abbott vetoed the bill, it earned widespread local support and has been reintroduced. ​ SB 490: Requires health care providers to give patients an itemized bill of medical service upon request. ​ SB 1325: Standardizes and improves the process for victims of family violence to receive assistance and know legal rights. ​ SB 1985: Reestablishes the Texas Bicentennial Commission to plan the 200th Anniversary of Texas' Independence. ​ SCR 31: Establishes Koreatown on Royal Lane between Harry Hines Boulevard and Luna Road.
 Protective orders are a key tool to protect victims of family violence, dating violence, stalking, and sexuala assault.
 Unfortunately, in TExas, to obtain a protective order specifically for family violence, the victim had to prove that violence had occurred, and will likely occur again.
 Texas was one of only a few sates who had this higher standard.
 This made it more difficult than obtaining a protective oder for stalking, sexual assault, and other related offenses.
 HB 1432 eliminated this provision, making it easier for victims of famil violence to receive the protection they need.
 OUr thanks to Senator John Whitmire for sponsiring this bill through the Senate.
+LEGISLATIVE OVERVIEW Protecting Victims of Family Violence Be the first to know Subscribe to our newsletter to receive news and updates.
+SUBSCRIBE CONTRIBUTE TO LIZ liz@lizcampos.com © # Elizabeth "Liz" Campos campaign, Pol. ad paid by Elizabeth "Liz Campos campaign, Joe Campos treasurer Website design & maintenance by Emyan Strategies Privacy Policy bottom of page

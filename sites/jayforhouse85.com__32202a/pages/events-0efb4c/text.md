@@ -1,10 +1,3 @@
-Events
-More events coming soon!
-No events in this range
-Try a different date range, or check back soon for new events.
-Jay Kilmartin for State House
-803.873.8967
-Jay@JayforHouse85.com
-803.873.8967
-Jay@JayforHouse85.com
-Powered by CampaignPartner.com - Political Campaign Websites
+Meet Jay Jay's Journal On the Issues News Endorsements Make Endorsement Volunteer Contact Donate Events More events coming soon!
+#ago This Week This Month ‹ Previous Wed Oct 7 2026 - Thu Oct 7 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+Home News Contact Donate Privacy Policy Terms & Conditions Jay Kilmartin for State House 803.873.8967 Jay@JayforHouse85.com Powered by CampaignPartner.com - Political Campaign Websites Home Meet Jay News On the Issues Donate Contact Volunteer Events Close Menu

@@ -1,5 +1,3 @@
-Recent Posts
-- Texas Business Court Update: Governor Abbott Appoints Inaugural Appellate and Trial Court Judges
-- Abbott Appoints Three Judges, including April Farris, to New Fifteenth Court of Appeals With Jurisdiction Over Suits Involving State
-- For the First Time, Texas Court Hears Oral Arguments
-- Abbott appoints first judges to new appeals court for cases involving state government, businesses
+Hit enter to search or ESC to close Home Meet Justice Farris Judicial Philosophy Stay Updated DONATE Category News Featured News Abbott Appoints Three Judges, including April Farris, to New Fifteenth Court of Appeals With Jurisdiction Over Suits Involving State Search Recent Posts Texas Business Court Update: Governor Abbott Appoints Inaugural Appellate and Trial Court Judges Abbott Appoints Three Judges, including April Farris, to New Fifteenth Court of Appeals With Jurisdiction Over Suits Involving State For the First Time, Texas Court Hears Oral Arguments Abbott appoints first judges to new appeals court for cases involving state government, businesses Recent Comments For a downloadable high-resolution image, click here .
+Political ad paid for by the Justice April Farris Campaign.
+Contact: JusticeAprilFarris@gmail.com Home Meet Justice Farris Judicial Philosophy Stay Updated DONATE

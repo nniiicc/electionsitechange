@@ -1,18 +1,5 @@
-Quality of Place - Education - Meaningful Work
-I am proud to be a member of the Arkansas State Senate and represent District 27.
+Boyd for Arkansas Home Contact Find your District Quality of Place - Education - Meaningful Work I am proud to be a member of the Arkansas State Senate and represent District 27.
 After serving in the Arkansas House of Representatives for four terms, it is exciting to continue the hard work of moving Fort Smith and Western Arkansas forward!
 Being a legislator is not a license for mediocrity; it means rolling up your sleeves, working hard and making things work for your neighbors.
 Fort Smith's future is about meaningful work for people, quality of place for families and education that inspires students to make a difference.
-Each of these concepts is intertwined and absolutely crucial to our growth.
-- Pharmacist / Small-Business Owner
-- 25+ Years Experience in Healthcare
-- Vice Chairperson - Senate Transportation, Technology & Legislative Affairs
-- Arkansas Legislative Council
-- Senate Children & Youth Committee
-- Senate Insurance & Commerce Committee
-- Joint Budget Committee
-- Joint Performance Review
-- Senate Public Health, Welfare & Labor Committee
-- Fort Smith Morning Exchange Club
-- Arkansas Pharmacists Association
-- National Community Pharmacists Association
+Each of these concepts is intertwined and absolutely crucial to our growth. ​ Pharmacist / Small-Business Owner 25+ Years Experience in Healthcare Vice Chairperson - Senate Transportation, Technology & Legislative Affairs Arkansas Legislative Council Senate Children & Youth Committee Senate Insurance & Commerce Committee Joint Budget Committee Joint Performance Review Senate Public Health, Welfare & Labor Committee Fort Smith Morning Exchange Club Arkansas Pharmacists Association National Community Pharmacists Association

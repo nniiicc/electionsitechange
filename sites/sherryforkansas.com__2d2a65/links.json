@@ -1,17 +1,66 @@
 [
-"https://drive.google.com/drive/folders/1jH5BMjv0Sq4Qm8ity_eDsNNbhl0cGori",
-"https://facebook.com/profile.php?id=61559941034532",
-"https://jocoelection.org/",
-"https://jocoelection.org/voting-election-info/advance-voting",
-"https://kdor.ks.gov/apps/voterreg",
-"https://kgi.contentdm.oclc.org/digital/collection/p16884coll8/id/2759",
-"https://myvoteinfo.voteks.org/VoterView",
-"https://secure.actblue.com/donate/sherryforkansas2026",
-"https://sherryforkansas.com/",
-"https://sherryforkansas.com/about-sherry",
-"https://sherryforkansas.com/cart",
-"https://sherryforkansas.com/endorsements",
-"https://sherryforkansas.com/get-involved",
-"https://sherryforkansas.com/issues",
-"https://voter.jocoelection.org/"
+{
+"text": "0",
+"href": "https://www.sherryforkansas.com/cart"
+},
+{
+"text": "About Sherry",
+"href": "https://www.sherryforkansas.com/about-sherry"
+},
+{
+"text": "Apply for a mail ballot",
+"href": "https://voter.jocoelection.org/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/sherryforkansas2026"
+},
+{
+"text": "Check your registration status",
+"href": "https://myvoteinfo.voteks.org/VoterView"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sherryforkansas.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sherryforkansas.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.sherryforkansas.com/issues"
+},
+{
+"text": "JoCoElection.org",
+"href": "https://jocoelection.org/"
+},
+{
+"text": "Look up advance voting information",
+"href": "https://www.jocoelection.org/voting-election-info/advance-voting"
+},
+{
+"text": "Media Assets",
+"href": "https://drive.google.com/drive/folders/1jH5BMjv0Sq4Qm8ity_eDsNNbhl0cGori"
+},
+{
+"text": "Register to vote",
+"href": "https://www.kdor.ks.gov/apps/voterreg/"
+},
+{
+"text": "View your sample ballot",
+"href": "https://myvoteinfo.voteks.org/VoterView"
+},
+{
+"text": "[image: Sherry Giebler for Kansas House 14]",
+"href": "https://www.sherryforkansas.com/"
+},
+{
+"text": "[image]",
+"href": "https://kgi.contentdm.oclc.org/digital/collection/p16884coll8/id/2759"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61559941034532"
+}
 ]

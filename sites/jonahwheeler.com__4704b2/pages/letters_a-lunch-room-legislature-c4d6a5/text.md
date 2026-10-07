@@ -1,5 +1,6 @@
-April 2026
-“Mr Speaker I rise on a point of personal privilege.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all A Lunch Room Legislature A Lunch Room Legislature A Lunch Room Legislature Apr 30, 2026 Apr 30, 2026 April 2026 10:53 7 April - By Jonah O.
+10:53 7 April - By Jonah O.
+0:00 / 1:34 “Mr Speaker I rise on a point of personal privilege.
 My character has been publicly impuned - by a disciplinary letter from the Speaker that makes me the first ever, representative to be barred from this chamber on non session days, by resulting press accounts that bears little resemblance to what actually occurred, and by a sustained effort to characterize principled advocacy as instability.
 I rise today to correct the record.
 In order to do that I must give the true accounting of events.
@@ -56,7 +57,8 @@ The thousand survivors a year in New Hampshire, who leave hospitals without ever
 May we all learn to, like our constituents, take far more offense with bad faith governance than with colorful language.
 Whatever comes next I will be here doing the work my Constituents elected me to do.
 That decision is there’s alone and belongs to no one in this room.
-The only question is what this body chooses to stand for, because I am not going anywhere.”
+The only question is what this body chooses to stand for, because I am not going anywhere.” 09:39 7 April - By Jonah O.
+09:39 7 April - By Jonah O.
 Despite there being plenty of clerical work to be done, we are not afforded the privilege of our own workspaces in the House of Representatives.
 Therefore, the anteroom of the House chamber is used by members such as Representative Read to do work when needed.
 My first encounters with Representative Ellen Read came as a result of us being two of the few members in the legislature who actually spend time in the building doing that work.
@@ -74,6 +76,8 @@ It isn’t the text of the legislation that’s debated behind closed doors, but
 It is a place where the unorthodox, the misunderstood, and marginalized are thrown to the blades of the rumor mill.
 Where the most despicable version of the schoolyard game, telephone, is played with the lives of those unwilling to bow to the system.
 I began this month’s letter with the words of Representative Read’s point of personal privilege given to the House at 1532 hours on 23 April, 2026, because they, with such rhythm and clarity, encapsulate that which ails the House of Representatives and the New Hampshire General Court at large.
+13:59 10 April - By Jonah O.
+13:59 10 April - By Jonah O.
 April also marks the annual month where the New Hampshire YMCA hosts it’s Youth and Government program at the State House.
 This is a program where students in participating high schools across the State, write legislation in the fall, run for the House, Senate, Governor, or the executive council.
 Some may also choose to be a lawyer, or serve as Supreme Court justice.
@@ -104,8 +108,9 @@ The Senate, after a close and contentious debate, overturned the Governor’s ve
 The Senators all coalesced around Liam at the end of the session to give their congratulations, and he was clearly on cloud nine.
 When the Governor came to give his address at the end of the program, he too congratulated Liam, and praised the legislature for its diligent work; even if it resulted in his being overturned.
 He aptly spoke to the fact that ultimately this is what the program is about, learning the legislative process through direct participation.
-They stand not simply as an example of the best of this program, but of what the legislature could look like when members truly care about their responsibilities
-If the High Schoolers of Youth and Government, and even the 4th Graders brought to tour the State House understand putting your responsibility before your personality; then the legislature is capable of understanding it too.
+They stand not simply as an example of the best of this program, but of what the legislature could look like when members truly care about their responsibilities If the High Schoolers of Youth and Government, and even the 4th Graders brought to tour the State House understand putting your responsibility before your personality; then the legislature is capable of understanding it too.
+14 April 16:42 - By Jonah O.
+14 April 16:42 - By Jonah O.
 House Bill 1633 is but one of many examples, however serves as one of the most egregious recent examples we have.
 Again, this is a bill which quite simply mandates sexual assault survivors seeking care be fully informed of their legal rights under the existing state law, dubbed the sexual assault survivors’ bill of rights.
 The House has passed this legislation unanimously through the Criminal Justice and Public Safety committee, and through the House Finance committee with all but one voting for it.
@@ -136,4 +141,6 @@ There has been much chaos in the history of this young civilization.
 We can not let the chaos of today be our death knell.
 I remain blindly confident that it won’t be, and that this is all still growing pains.
 346 years of history, but compared to the civilizations of the world, we are still teenagers in our lunch room legislature.
-Back to all
+24 April 11:28 - By Jonah O.
+24 April 11:28 - By Jonah O. ‹ Citizen, or Subject? ‹ Citizen, or Subject? ‹ Citizen, or Subject?
+Malicious Laughter & Willful Incompetence › Malicious Laughter & Willful Incompetence › Malicious Laughter & Willful Incompetence › Back to all

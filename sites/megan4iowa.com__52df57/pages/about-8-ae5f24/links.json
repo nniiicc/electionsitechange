@@ -1,16 +1,82 @@
 [
-"https://facebook.com/Megan4Iowa",
-"https://instagram.com/yourlocaliddoc",
-"https://linkedin.com/in/megan-l-srinivas",
-"https://megan4iowa.com/",
-"https://megan4iowa.com/about",
-"https://megan4iowa.com/about-8",
-"https://megan4iowa.com/contact",
-"https://megan4iowa.com/copy-of-issues",
-"https://megan4iowa.com/media",
-"https://megan4iowa.com/megan-events",
-"https://megan4iowa.com/volunteer",
-"https://secure.actblue.com/donate/meganslaunch",
-"https://twitter.com/YourlocalIDdoc",
-"https://twitter.com/yourlocaliddoc"
+{
+"text": "About",
+"href": "https://www.megan4iowa.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.megan4iowa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.megan4iowa.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/meganslaunch"
+},
+{
+"text": "Events",
+"href": "https://www.megan4iowa.com/megan-events"
+},
+{
+"text": "Home",
+"href": "https://www.megan4iowa.com"
+},
+{
+"text": "Legislative Appointments",
+"href": "https://www.megan4iowa.com/about-8"
+},
+{
+"text": "Media",
+"href": "https://www.megan4iowa.com/media"
+},
+{
+"text": "Sign Up",
+"href": "https://www.megan4iowa.com/volunteer"
+},
+{
+"text": "Videos",
+"href": "https://www.megan4iowa.com/copy-of-issues"
+},
+{
+"text": "View Committee Updates",
+"href": "https://www.megan4iowa.com/about-8#minutes"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Megan4Iowa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/yourlocaliddoc"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/yourlocaliddoc/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/megan-l-srinivas"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/megan-l-srinivas/"
+},
+{
+"text": "[image: Megan logo.png]",
+"href": "https://www.megan4iowa.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/YourlocalIDdoc"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/yourlocaliddoc"
+},
+{
+"text": "staff@megan4iowa.com",
+"href": "mailto:info@mysite.com"
+}
 ]

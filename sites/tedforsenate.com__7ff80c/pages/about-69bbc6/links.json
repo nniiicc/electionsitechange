@@ -1,6 +1,22 @@
 [
-"https://facebook.com/tedalexandernc",
-"https://secure.anedot.com/friends-of-ted-alexander/donate",
-"https://tedforsenate.com/",
-"https://tedforsenate.com/about"
+{
+"text": "About",
+"href": "https://tedforsenate.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-ted-alexander/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/tedalexandernc/"
+},
+{
+"text": "Home",
+"href": "https://tedforsenate.com/"
+},
+{
+"text": "[image: Ted Alexander - NC Senator]",
+"href": "https://tedforsenate.com"
+}
 ]

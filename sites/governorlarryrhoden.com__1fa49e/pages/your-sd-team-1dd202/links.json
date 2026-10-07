@@ -1,18 +1,74 @@
 [
-"https://facebook.com/RhodenforGov",
-"https://governorlarryrhoden.com/",
-"https://governorlarryrhoden.com/about",
-"https://governorlarryrhoden.com/accomplishments",
-"https://governorlarryrhoden.com/contact",
-"https://governorlarryrhoden.com/news",
-"https://governorlarryrhoden.com/privacy-policy",
-"https://governorlarryrhoden.com/your-sd-team",
-"https://secure.winred.com/larry-rhoden-for-governor/donate-today",
-"https://source.unsplash.com/GwVVChhzxRI",
-"https://source.unsplash.com/cssvEZacHvQ",
-"https://source.unsplash.com/eOpewngf68w",
-"https://source.unsplash.com/lpjb_UMOyx8",
-"https://source.unsplash.com/o0tHbSY-zEc",
-"https://source.unsplash.com/z3TPjzhL7Vs",
-"https://x.com/larryrhodensd"
+{
+"text": "About Larry",
+"href": "https://governorlarryrhoden.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://governorlarryrhoden.com/accomplishments"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.winred.com/larry-rhoden-for-governor/donate-today"
+},
+{
+"text": "Contact",
+"href": "https://governorlarryrhoden.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/larry-rhoden-for-governor/donate-today"
+},
+{
+"text": "Home",
+"href": "https://governorlarryrhoden.com/"
+},
+{
+"text": "News",
+"href": "https://governorlarryrhoden.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://governorlarryrhoden.com/privacy-policy/"
+},
+{
+"text": "Your SD Team",
+"href": "https://governorlarryrhoden.com/your-sd-team"
+},
+{
+"text": "[image]",
+"href": "https://governorlarryrhoden.com/"
+},
+{
+"text": "[image]",
+"href": "https://source.unsplash.com/GwVVChhzxRI"
+},
+{
+"text": "[image]",
+"href": "https://source.unsplash.com/o0tHbSY-zEc"
+},
+{
+"text": "[image] Bridge over a green waterfall",
+"href": "https://source.unsplash.com/cssvEZacHvQ"
+},
+{
+"text": "[image] Lake Louise landscape",
+"href": "https://source.unsplash.com/lpjb_UMOyx8"
+},
+{
+"text": "[image] Sunset over a beautiful, historic victorian town in the heart of England",
+"href": "https://source.unsplash.com/z3TPjzhL7Vs"
+},
+{
+"text": "[image] Whangarei Falls footbridge",
+"href": "https://source.unsplash.com/eOpewngf68w"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RhodenforGov"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/larryrhodensd"
+}
 ]

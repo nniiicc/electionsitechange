@@ -1,6 +1,6 @@
-1/18/2022
-State Rep.
+Skip to content Elizabeth Fiedler Representative, House District 184 Primary Menu Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Fiedler partners in food drive for South Philly families Posted on January 18, 2022 March 11, 2022 by Anthony Amaker 1/18/2022 State Rep.
 Elizabeth Fiedler recently partnered with local groups to provide food to senior citizens and families across her district, which includes parts of South Philadelphia.
 Dozens of holiday hams and groceries were provided to seniors from the South Philadelphia Older Adult Center, and to children and their families from the Discovery Place Pre-School, in partnership with IBEW Local 98 and Acme.
 “This tradition of holiday giving is particularly meaningful as we end such a difficult year, full of hardship and loss, and continue to struggle through challenging times,” Fiedler said.
-Read more here: https://southphillyreview.com/2022/01/18/briefs-january-18th-2022/
+Read more here: https://southphillyreview.com/2022/01/18/briefs-january-18th-2022/ Posted in Uncategorized Post navigation Education funding taking center stage at state Capitol PA State Rep Elizabeth Fiedler endorsed by Planned Parenthood and EMILY’s List Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Connect with us Facebook Twitter Instagram YouTube Mail Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Paid for by: Friends of Elizabeth Fiedler Powered by Tech for Campaigns

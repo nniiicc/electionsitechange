@@ -1,7 +1,11 @@
 {
  "description": "Edith Ajello is Providence's East Side State Representative, fighting for civil rights, LGBTQ+ protections, housing, and healthcare. Learn how Edie is making Rhode Island more just.",
  "final_url": "https://www.ajelloforri.com/",
- "paid_for_by": null,
+ "fingerprint": "b825ac35b266486163ebbe12d30938d4e038cf1e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Home | Edith Ajello for RI",
- "years_mentioned": []
+ "years_mentioned": [
+  "1998"
+ ]
 }

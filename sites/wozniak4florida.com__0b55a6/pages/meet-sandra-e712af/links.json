@@ -1,13 +1,50 @@
 [
-"http://facebook.com/wozniak4florida",
-"http://instagram.com/wozniak4florida",
-"http://twitter.com/wozniak4florida",
-"http://youtube.com/user/wozniak4florida",
-"https://tiktok.com/@wozniak4florida",
-"https://wozniak4florida.com/",
-"https://wozniak4florida.com/donation",
-"https://wozniak4florida.com/endorsements",
-"https://wozniak4florida.com/get-involved",
-"https://wozniak4florida.com/meet-sandra",
-"https://wozniak4florida.com/platform"
+{
+"text": "DONATE",
+"href": "https://www.wozniak4florida.com/donation"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.wozniak4florida.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.wozniak4florida.com/get-involved"
+},
+{
+"text": "Gabe Wozniak Florida First!",
+"href": "https://www.wozniak4florida.com"
+},
+{
+"text": "HOME",
+"href": "https://www.wozniak4florida.com"
+},
+{
+"text": "MEET GABE",
+"href": "https://www.wozniak4florida.com/meet-sandra"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.wozniak4florida.com/platform"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@wozniak4florida"
+},
+{
+"text": "[image]",
+"href": "http://instagram.com/wozniak4florida"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/wozniak4florida"
+},
+{
+"text": "[image]",
+"href": "http://www.twitter.com/wozniak4florida"
+},
+{
+"text": "[image]",
+"href": "http://youtube.com/user/wozniak4florida"
+}
 ]

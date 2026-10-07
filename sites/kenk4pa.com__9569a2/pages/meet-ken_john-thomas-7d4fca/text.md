@@ -1,4 +1,4 @@
-John Thomas was born in the Maple City of Meyersdale, Pennsylvania, in Somerset County.
+Home Events Press Releases Issues Education Taxes Elections Abortion Crime Gun Control Drugs Welfare LGBT Environment Constitution Shutdowns Flock Cameras Data Centers Responses to Facebook Questions Volunteer Donate Campaign Songs Socials   Select Page Personal Professional Political John Thomas was born in the Maple City of Meyersdale, Pennsylvania, in Somerset County.
 He met his wife, Sara, while attending Indiana University of Pennsylvania in the Christmas Tree Capital: Indiana, Pennsylvania.
 Today, they call the Greatest City in the World—Kittanning, Pennsylvania—home.
 Now, some people might disagree with that title.
@@ -16,3 +16,4 @@ Seeing education from so many different perspectives reinforced his long-held be
 Families deserve meaningful educational choices, and students thrive when parents have the freedom to choose what works best for them.
 In 2024, John was the Libertarian candidate for the United States Senate, finishing third behind Dave McCormick and Bob Casey.
 While he did not win the election, he considers every opportunity to engage Pennsylvanians in thoughtful conversation about the future of the Commonwealth to be a victory in its own right.
+Home Events Press Releases Issues Volunteer Donate Campaign Songs Socials Facebook X RSS Designed by Elegant Themes | Powered by WordPress

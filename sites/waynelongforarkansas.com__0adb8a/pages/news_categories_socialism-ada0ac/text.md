@@ -1,24 +1,2 @@
-top of page
-HOME
-MEET WAYNE
-DISTRICT MAP
-ON THE ISSUES
-LEGISLATIVE RECORD
-DONATE
-ON THE ISSUES
-All Posts
-The Unborn
-Our Gun Rights
-The Free Market
-Limited Government
-Education
-Immigration
-Critical Race Theory
-Taxes
-Press Releases
-Welfare/Socialism
-LGBT
-Justice
-Welfare
-Welfare/Socialism
-bottom of page
+top of page HOME MEET WAYNE DISTRICT MAP ON THE ISSUES LEGISLATIVE RECORD DONATE ON THE ISSUES All Posts The Unborn Our Gun Rights The Free Market Limited Government Education Immigration Critical Race Theory Taxes Press Releases Welfare/Socialism LGBT Justice Welfare Welfare/Socialism DONATE TODAY $25 $50 $100 $250 DONATE CELL # 501-530-1434​ P.O.
+BOX 555, BRADFORD, AR 72020 WAYNELONGFORSTATEREP@GMAIL.COM PAID FOR BY WAYNE LONG FOR STATE REP. © # Wayne Long for State Rep. | Privacy Policy bottom of page

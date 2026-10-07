@@ -1,7 +1,12 @@
 {
  "description": "WMUR-TV did this piece on James Spillane's new group, NH Veteran Sportman Foundation, which helps pay for hunting and fishing licenses for our Veterans. Watch the video on WMUR-TV's website: Local group buys fishing, hunting",
  "final_url": "https://jamesspillane.org/js/2016/03/30/spillane-founds-group-to-help-vets-hunt/",
- "paid_for_by": null,
+ "fingerprint": "3c298f29e98bcc282c701571bb1df48423c197a4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Spillane Founds Group to Help Vets Hunt | James Spillane for NH State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2016",
+  "2026"
+ ]
 }

@@ -1,9 +1,34 @@
 [
-"https://facebook.com/",
-"https://gpgb.website/privacy-policy",
-"https://john4nh.net/",
-"https://john4nh.net/cdn-cgi/l/email-protection",
-"https://john4nh.net/contact",
-"https://x.com/",
-"https://youtube.com/"
+{
+"text": "Contact",
+"href": "https://john4nh.net/contact/"
+},
+{
+"text": "Home",
+"href": "https://john4nh.net/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://gpgb.website/privacy-policy/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:johnwsuiter@outlook.com"
+},
+{
+"text": "[image: John Suiter for State Representative]",
+"href": "https://john4nh.net/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://x.com"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com"
+}
 ]

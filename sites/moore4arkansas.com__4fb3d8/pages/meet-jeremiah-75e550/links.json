@@ -1,6 +1,18 @@
 [
-"https://moore4arkansas.com/",
-"https://moore4arkansas.com/get-in-touch",
-"https://moore4arkansas.com/meet-jeremiah",
-"https://secure.winred.com/moore-for-arkansas/donate-today"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/moore-for-arkansas/donate-today"
+},
+{
+"text": "GET IN TOUCH",
+"href": "https://www.moore4arkansas.com/get-in-touch"
+},
+{
+"text": "HOME",
+"href": "https://www.moore4arkansas.com"
+},
+{
+"text": "MEET JEREMIAH",
+"href": "https://www.moore4arkansas.com/meet-jeremiah"
+}
 ]

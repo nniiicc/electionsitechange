@@ -1,9 +1,3 @@
-top of page
-PROTECTING YOU.
+top of page Home Legislative & Committee Impact Election Info Join the Team Donate PROTECTING YOU.
 State Representative Denise Crosswhite Hader has worked tirelessly at the State Capitol to prevent government infringement into your daily life and to safeguard your liberties.
-- Protected Our Second Amendment Rights
-- Advocated Against Invasive Public Health Measures
-- Voted Against Biden’s Inflationary ARPA Funding
-- Championed Liberty
-- Impactful Vice Chairman of Administrative Rules Committee
-bottom of page
+Protected Our Second Amendment Rights Advocated Against Invasive Public Health Measures Voted Against Biden’s Inflationary ARPA Funding Championed Liberty Impactful Vice Chairman of Administrative Rules Committee READ MORE ABOUT DENISE'S LEGISLATIVE RECORD DONATE TO THE CAMPAIGN ELECTION INFORMATION JOIN THE TEAM PRIVACY POLICY Authorized & Paid for by Friends of Denise CH 2026 bottom of page

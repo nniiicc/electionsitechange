@@ -1,4 +1,4 @@
-If Missouri lawmakers are willing to pass legislation giving billionaires massive tax breaks through capital gains loopholes and incentive packages for professional sports teams, then we can certainly pass a law that supports the people who actually keep our state running.
+Skip to content Marty Joe Murray, Jr Home Biography Legislation Capitol Corner Jobs Press Vimeo Missouri Dem Party Contact Donate Here Opinion Editorials Capitol Corner: Pre-Filed Bills 2026 December 8, 2025 13–20 minutes If Missouri lawmakers are willing to pass legislation giving billionaires massive tax breaks through capital gains loopholes and incentive packages for professional sports teams, then we can certainly pass a law that supports the people who actually keep our state running.
 The Missouri Worker Dues Tax Fairness Act does just that.
 It recognizes that everyday Missourians: teachers, nurses, laborers, public employees, tradespeople, etc.
 They all deserve the same level of consideration and respect that wealthy elites receive as a matter of routine.
@@ -76,13 +76,12 @@ In an era when many laws favor special interests and political insiders, Respect
 The Missouri Social Media Safety for Minors Act responds to a growing and urgent crisis facing our children: the unchecked influence of social media platforms designed to maximize engagement at the expense of young people’s mental health, safety, and development.
 As research highlighted in The Anxious Generation and echoed by parents, educators, and pediatric experts shows, early and unregulated exposure to social media is linked to rising rates of anxiety, depression, sleep disruption, and online exploitation among youth.
 This legislation recognizes that children deserve protections in digital spaces just as they do in the physical world — and that parents deserve meaningful tools to guide and safeguard their children’s online lives.
-What the bill does:
-The Missouri Social Media Safety for Minors Act establishes clear, age-appropriate guardrails for social media use.
+What the bill does: The Missouri Social Media Safety for Minors Act establishes clear, age-appropriate guardrails for social media use.
 It prohibits children under fourteen from creating social media accounts and requires verified parental consent for minors ages fourteen and fifteen.
 Platforms must implement secure, privacy-protective age-verification systems, give parents the ability to monitor activity, limit adult messaging, and request account deletion, and ban addictive design features and targeted advertising aimed at minors.
 Companies that violate these protections are subject to enforcement by the attorney general and civil penalties, ensuring accountability for platforms that put profit ahead of children’s wellbeing.
 Every day, families across Missouri unknowingly come into contact with per- and polyfluoroalkyl substances (PFAS) — a class of “forever chemicals” linked to serious health and environmental harm when they’re intentionally added to everyday products like cookware, carpets, cleaning supplies, cosmetics, and children’s items.
-HB 2400, also known as the Missouri PFAS Consumer Protection Act, takes decisive action to protect public health and the environment by requiring manufacturers to disclose when products contain intentionally added PFAS and by phasing out the sale of many PFAS-containing products unless the chemical use is truly unavoidable.
+HB 2400, also known as the Missouri PFAS Consumer Protection Act , takes decisive action to protect public health and the environment by requiring manufacturers to disclose when products contain intentionally added PFAS and by phasing out the sale of many PFAS-containing products unless the chemical use is truly unavoidable.
 Under the bill, manufacturers must submit detailed information about PFAS in their products to the Department of Natural Resources before selling them in Missouri, and beginning in 2027 certain products with intentionally added PFAS — including cleaning products, cookware, textiles, cosmetics, juvenile products, and more — cannot be sold in the state.
 These steps help reduce toxic exposures, strengthen consumer transparency, and spur innovation toward safer alternatives.
 By placing accountability on producers and elevating public awareness of PFAS in common goods, this legislation prioritizes the health of children, households, and our natural resources for generations to come.
@@ -105,7 +104,7 @@ Some from low-income, rural, and marginalized backgrounds have faced costly, rig
 This legislation creates a clear, affordable apprenticeship pathway that allows students to learn directly from licensed barbers while gaining real-world experience in barbershops across the state.
 By expanding access and reducing unnecessary hurdles, the Pathway to Barber Apprenticeships Act supports small businesses, grows the workforce, and preserves a craft that has long been a cultural anchor in Black communities and beyond.
 It’s an investment in opportunity, entrepreneurship, and the next generation of Missouri barbers.
-Quinton’s Law / Hayes ACT: Students are facing rising academic pressure, higher stress, and growing mental-health needs.Our schools must adapt.
+Quinton’s Law / Hayes ACT : Students are facing rising academic pressure, higher stress, and growing mental-health needs.Our schools must adapt.
 Middle schoolers, in particular, sit at the critical intersection of adolescence and increasing school demands, yet Missouri provides no statewide guarantee that they receive the structured movement, rest, or reset time proven to improve focus, behavior, and overall well-being.
 Quinton’s Law changes that by requiring daily recess and brain breaks for grades 6–8 and allowing elementary schools to continue doing what is developmentally essential: giving kids time to breathe, move, reset, and learn more effectively.
 Quinton’s Law requires all Missouri public schools serving grades K–8 to provide students regular recess (for K–8, adapted appropriately for older grades) and at least two daily “brain breaks,” beginning in the 2027–2028 school year.
@@ -122,3 +121,8 @@ Missouri Social Media Safety for Minors ACT: Social media can connect; it can al
 The explosion of screen-based childhood has contributed to an unprecedented mental-health crisis among youth, with rising rates of depression, anxiety, self-harm, and disrupted development tied to social media overuse, social comparison, and sleep disturbance.
 The Missouri Social Media Safety for Minors Act would put common-sense protections around minors’ use of online platforms: establishing age-appropriate guardrails, requiring transparent safety standards, limiting design features that exploit young users’ vulnerabilities, and giving parents and the state tools to safeguard children’s digital well being.
 By prioritizing the mental health and development of children over the profits of technology companies, this bill affirms that Missouri values real-world connection, healthy growth, and safe childhoods; not endless scrolling, algorithmic addiction, and premature exposure.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Website Biography Opinion Editorials Endorsements Facebook Twitter LinkedIn Instagram YouTube Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website Reblog Subscribe Subscribed Marty Joe Murray, Jr Join 840 other subscribers Sign me up Have a WordPress.com account?
+Log in now.
+Marty Joe Murray, Jr Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

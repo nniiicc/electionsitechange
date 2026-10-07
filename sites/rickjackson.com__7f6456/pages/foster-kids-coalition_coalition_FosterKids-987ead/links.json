@@ -1,17 +1,66 @@
 [
-"http://facebook.com/RickJacksonGA",
-"http://instagram.com/rickjacksonga",
-"https://rickjackson.com/",
-"https://rickjackson.com/about",
-"https://rickjackson.com/action-plan",
-"https://rickjackson.com/coalitions",
-"https://rickjackson.com/contact",
-"https://rickjackson.com/press",
-"https://rickjackson.com/privacy-policy",
-"https://rickjackson.com/terms-and-conditions",
-"https://rickjackson.com/volunteer",
-"https://secure.psqimpact.com/donate/jackson-for-governor/donate",
-"https://tiktok.com/@rickjacksonga",
-"https://x.com/RickJacksonGA",
-"https://youtube.com/@RickJacksonGA"
+{
+"text": "About Rick",
+"href": "https://rickjackson.com/about/"
+},
+{
+"text": "Action Plan",
+"href": "https://rickjackson.com/action-plan/"
+},
+{
+"text": "Coalitions",
+"href": "https://rickjackson.com/coalitions/"
+},
+{
+"text": "Contact",
+"href": "https://rickjackson.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.psqimpact.com/donate/jackson-for-governor/donate"
+},
+{
+"text": "Follow",
+"href": "http://facebook.com/RickJacksonGA"
+},
+{
+"text": "Follow",
+"href": "http://instagram.com/rickjacksonga"
+},
+{
+"text": "Follow",
+"href": "https://www.tiktok.com/@rickjacksonga"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@RickJacksonGA"
+},
+{
+"text": "Follow",
+"href": "https://x.com/RickJacksonGA"
+},
+{
+"text": "Home",
+"href": "https://rickjackson.com/"
+},
+{
+"text": "Press",
+"href": "https://rickjackson.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rickjackson.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://rickjackson.com/terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://rickjackson.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://rickjackson.com/"
+}
 ]

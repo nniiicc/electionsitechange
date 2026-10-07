@@ -1,32 +1,142 @@
 [
-"http://aiso.net/",
-"http://baltimoregreencurrency.org/",
-"http://baltimoregreencurrency.org/about-local-currency",
-"http://geo.coop/",
-"http://mycreditunion.gov/about-credit-unions/Pages/How-is-a-Credit-Union-Different-than-a-Bank.aspx",
-"http://nancywallace.us/",
-"http://nancywallace.us/about/community%e2%80%90based-economics-and-economic-justice/green-party",
-"http://nancywallace.us/about/community-peacestopping-police-violence",
-"http://nancywallace.us/climate-change",
-"http://nancywallace.us/community%e2%80%90based-economics-and-economic-justice",
-"http://nancywallace.us/contact",
-"http://nancywallace.us/donate",
-"http://nancywallace.us/endorsements",
-"http://nancywallace.us/federal-tax-reform",
-"http://nancywallace.us/foreign-policy",
-"http://nancywallace.us/health-care-for-all",
-"http://nancywallace.us/immigration-reform",
-"http://nancywallace.us/issues",
-"http://nancywallace.us/list",
-"http://nancywallace.us/meet-nancy",
-"http://nancywallace.us/privacy",
-"http://nancywallace.us/vote-for-nancy",
-"http://nancywallace.us/women-and-girls-survival",
-"http://nceo.org/",
-"http://neweconomy.net/",
-"http://publicbankinginstitute.org/",
-"http://selfsufficiencystandard.org/index.html",
-"http://steadystate.org/",
-"https://marylandorganic.org/csa",
-"https://sec.gov/News/PressRelease/Detail/PressRelease/1370539817895"
+{
+"text": "AISO",
+"href": "http://www.aiso.net/"
+},
+{
+"text": "Climate Change",
+"href": "http://www.nancywallace.us/climate-change/"
+},
+{
+"text": "Community Based Economics and Economic Justice",
+"href": "http://www.nancywallace.us/community%e2%80%90based-economics-and-economic-justice/"
+},
+{
+"text": "Community Peace/Stopping Police Violence",
+"href": "http://www.nancywallace.us/about/community-peacestopping-police-violence/"
+},
+{
+"text": "Contact",
+"href": "http://www.nancywallace.us/contact/"
+},
+{
+"text": "Donate",
+"href": "http://www.nancywallace.us/donate/"
+},
+{
+"text": "Endorsements",
+"href": "http://www.nancywallace.us/endorsements/"
+},
+{
+"text": "Federal Tax Reform",
+"href": "http://www.nancywallace.us/federal-tax-reform"
+},
+{
+"text": "Foreign Policy",
+"href": "http://www.nancywallace.us/foreign-policy"
+},
+{
+"text": "Grassroots Economic Organizing",
+"href": "http://geo.coop/"
+},
+{
+"text": "Green Party",
+"href": "http://www.nancywallace.us/about/community%e2%80%90based-economics-and-economic-justice/green-party"
+},
+{
+"text": "Health Care for All",
+"href": "http://www.nancywallace.us/health-care-for-all/"
+},
+{
+"text": "Home",
+"href": "http://www.nancywallace.us"
+},
+{
+"text": "Immigration Reform",
+"href": "http://www.nancywallace.us/immigration-reform"
+},
+{
+"text": "Issues",
+"href": "http://www.nancywallace.us/issues/"
+},
+{
+"text": "Join",
+"href": "http://www.nancywallace.us/vote-for-nancy/"
+},
+{
+"text": "Maryland Organic Food and Farming Association",
+"href": "https://marylandorganic.org/csa/"
+},
+{
+"text": "Meet Nancy",
+"href": "http://www.nancywallace.us/meet-nancy/"
+},
+{
+"text": "National Center for Employee Ownership",
+"href": "http://www.nceo.org/"
+},
+{
+"text": "Police",
+"href": "http://www.nancywallace.us/about/community-peacestopping-police-violence/"
+},
+{
+"text": "Privacy",
+"href": "http://www.nancywallace.us/privacy"
+},
+{
+"text": "Public Banking Institute",
+"href": "http://www.publicbankinginstitute.org/"
+},
+{
+"text": "Teammedia",
+"href": "mailto:jmole@teammedia.com"
+},
+{
+"text": "TimeBanks",
+"href": "http://geo.coop/"
+},
+{
+"text": "Women and Girls’ Survival",
+"href": "http://www.nancywallace.us/women-and-girls-survival/"
+},
+{
+"text": "[image]",
+"href": "http://nancywallace.us"
+},
+{
+"text": "http://baltimoregreencurrency.org",
+"href": "http://baltimoregreencurrency.org"
+},
+{
+"text": "http://neweconomy.net/",
+"href": "http://neweconomy.net/"
+},
+{
+"text": "http://steadystate.org/",
+"href": "http://steadystate.org/"
+},
+{
+"text": "http://www.publicbankinginstitute.org/",
+"href": "http://www.publicbankinginstitute.org/"
+},
+{
+"text": "http://www.selfsufficiencystandard.org/index.html",
+"href": "http://www.selfsufficiencystandard.org/index.html"
+},
+{
+"text": "https://www.sec.gov/News/PressRelease/Detail/PressRelease/1370539817895",
+"href": "https://www.sec.gov/News/PressRelease/Detail/PressRelease/1370539817895"
+},
+{
+"text": "learn more",
+"href": "http://www.mycreditunion.gov/about-credit-unions/Pages/How-is-a-Credit-Union-Different-than-a-Bank.aspx"
+},
+{
+"text": "local currencies",
+"href": "http://baltimoregreencurrency.org/about-local-currency"
+},
+{
+"text": "🍁",
+"href": "http://www.nancywallace.us/list"
+}
 ]

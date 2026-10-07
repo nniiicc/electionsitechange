@@ -1,13 +1,58 @@
 [
-"https://secure.actblue.com/donate/shannon-teabo-1",
-"https://squarespace.com/",
-"https://teaboforsenate.com/",
-"https://teaboforsenate.com/about",
-"https://teaboforsenate.com/calendar",
-"https://teaboforsenate.com/cart",
-"https://teaboforsenate.com/contact",
-"https://teaboforsenate.com/district-map",
-"https://teaboforsenate.com/gallery",
-"https://teaboforsenate.com/priorities",
-"https://worcesterma.gov/elections/document-center/wp_all.pdf"
+{
+"text": "0",
+"href": "https://www.teaboforsenate.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.teaboforsenate.com/about"
+},
+{
+"text": "Calendar",
+"href": "https://www.teaboforsenate.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.teaboforsenate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/shannon-teabo-1"
+},
+{
+"text": "District Map",
+"href": "https://www.teaboforsenate.com/district-map"
+},
+{
+"text": "Gallery",
+"href": "https://www.teaboforsenate.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.teaboforsenate.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.teaboforsenate.com/priorities"
+},
+{
+"text": "See entire Worcester map",
+"href": "https://www.worcesterma.gov/elections/document-center/wp_all.pdf"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: Shannon Teabo for State Senate]",
+"href": "https://www.teaboforsenate.com/"
+},
+{
+"text": "[image: click to enlarge]",
+"href": "https://www.worcesterma.gov/elections/document-center/wp_all.pdf"
+},
+{
+"text": "info@teaboforsenate.com",
+"href": "mailto:info@teaboforsenate.com"
+}
 ]

@@ -1,14 +1,54 @@
 [
-"https://alaskansforkyholland.com/",
-"https://alaskansforkyholland.com/about",
-"https://alaskansforkyholland.com/cart",
-"https://alaskansforkyholland.com/district",
-"https://alaskansforkyholland.com/get-involved",
-"https://alaskansforkyholland.com/media",
-"https://alaskansforkyholland.com/priorities",
-"https://facebook.com/KyHollandforAlaska",
-"https://instagram.com/kyhollandhd9",
-"https://linkedin.com/in/kyholland",
-"https://secure.anedot.com/alaskans-for-ky-holland/donate",
-"https://x.com/KyHollandAK"
+{
+"text": "0",
+"href": "https://www.alaskansforkyholland.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.alaskansforkyholland.com/about"
+},
+{
+"text": "Get Involved",
+"href": "https://www.alaskansforkyholland.com/get-involved"
+},
+{
+"text": "Media",
+"href": "https://www.alaskansforkyholland.com/media"
+},
+{
+"text": "Our District",
+"href": "https://www.alaskansforkyholland.com/district"
+},
+{
+"text": "Priorities",
+"href": "https://www.alaskansforkyholland.com/priorities"
+},
+{
+"text": "Support the campaign",
+"href": "https://secure.anedot.com/alaskans-for-ky-holland/donate"
+},
+{
+"text": "[image: Alaskans For Ky Holland]",
+"href": "https://www.alaskansforkyholland.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KyHollandforAlaska"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kyhollandhd9/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/kyholland"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/KyHollandAK"
+},
+{
+"text": "ky@alaskansforkyholland.com",
+"href": "mailto:ky@alaskansforkyholland.com?subject=Website+Enquiry"
+}
 ]

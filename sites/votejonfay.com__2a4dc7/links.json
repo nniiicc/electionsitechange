@@ -1,6 +1,42 @@
 [
-"https://secure.anedot.com/jon-fay-campaign/donate",
-"https://twitter.com/",
-"https://votejonfay.com/",
-"https://votejonfay.com/privacy-policy"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/jon-fay-campaign/donate"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/jon-fay-campaign/donate"
+},
+{
+"text": "$20",
+"href": "https://secure.anedot.com/jon-fay-campaign/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/jon-fay-campaign/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jon-fay-campaign/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votejonfay.com"
+},
+{
+"text": "Link to X",
+"href": "https://twitter.com/#/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejonfay.com/privacy-policy/"
+},
+{
+"text": "[image: Jon Fay]",
+"href": "https://www.votejonfay.com/"
+},
+{
+"text": "x",
+"href": "javascript:void(0);"
+}
 ]

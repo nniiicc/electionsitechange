@@ -1,19 +1,5 @@
-Grant County Public Utility District
-- Hydrologist
-- Energy Market Analyst
-- Statistician
-- Reliability and Compliance
-Rocket Research Company
-- Senior Principle Reliability, Safety, and Maintainability Engineer
-- Program Manager
-Washington State House of Representatives
-- 13th District State Representative, Pos. 2
-Quincy School Board
-- Past President & Vice-President
-- Legislative representative
-Washington State School Directors Association
-- Vice-President
-My name is Alex Ybarra, and I am seeking re-election as one of your 13th District state Representatives.
+Home About Me Contact Contribute Blog More Home About Me Contact Contribute Blog Home About Me Contact Contribute Blog Fighting for you in Olympia Fighting for you in Olympia Fighting for you in Olympia Fighting for you in Olympia Professional Experience Professional Experience Professional Experience Grant County Public Utility District Hydrologist Energy Market Analyst Statistician Reliability and Compliance Rocket Research Company Senior Principle Reliability, Safety, and Maintainability Engineer Program Manager Public Service Professional Experience Professional Experience Washington State House of Representatives 13th District State Representative, Pos.
+2 Quincy School Board Past President & Vice-President Legislative representative Washington State School Directors Association Vice-President About Me My name is Alex Ybarra, and I am seeking re-election as one of your 13th District state Representatives.
 A life-long resident of Quincy, my family has deep roots in the community.
 I’m a strong conservative, representing Eastern Washington values.
 A graduate of Central Washington University, I hold a Bachelor of Science degree in Mathematics and a Master of Business Administration.
@@ -35,3 +21,6 @@ I will continue to fight for your rights and limited government that puts the in
 Our state has a spending problem.
 Despite more money going to Olympia every year, we never get relief.
 I will fight to stop out of control spending and push for tax relief.
+Copyright © # | Paid for by: Friends of Alex Ybarra (R) | P.O.
+Box 175, Quincy, WA 98848 | All Rights Reserved.
+Powered by About Me Contact Contribute

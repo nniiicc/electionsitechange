@@ -1,7 +1,11 @@
 {
  "description": "Campaign website for Paul Jefferson, running for Montana House District 26.",
  "final_url": "https://jeffersonforhd26.com/",
- "paid_for_by": null,
+ "fingerprint": "1c98346fff07d063699e764d6a77185cea8d688b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Paul Jefferson for Montana House District 26",
- "years_mentioned": []
+ "years_mentioned": [
+  "1955"
+ ]
 }

@@ -1,25 +1,110 @@
 [
-"http://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmegforflorida.com%2Fels-for-autism-moves-closer-to-inclusive-recreation-center-in-south-fl%2F&title=Els+for+Autism+Moves+Closer+to+Inclusive+Recreation+Center+in+South+FL",
-"http://twitter.com/intent/tweet?text=Els+for+Autism+Moves+Closer+to+Inclusive+Recreation+Center+in+South+FL&url=https%3A%2F%2Fmegforflorida.com%2Fels-for-autism-moves-closer-to-inclusive-recreation-center-in-south-fl%2F",
-"https://danspapers.com/2025/09/els-for-autism-recreation-center",
-"https://danspapers.com/author/oliverp",
-"https://elsforautism.org/wp-content/uploads/2025/08/Rec-Complex-Naming-Opportunities-2025-5.pdf",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmegforflorida.com%2Fels-for-autism-moves-closer-to-inclusive-recreation-center-in-south-fl%2F",
-"https://gab.com/compose?url=https%3A%2F%2Fmegforflorida.com%2Fels-for-autism-moves-closer-to-inclusive-recreation-center-in-south-fl%2F&text=Els+for+Autism+Moves+Closer+to+Inclusive+Recreation+Center+in+South+FL",
-"https://gettr.com/share?text=Els+for+Autism+Moves+Closer+to+Inclusive+Recreation+Center+in+South+FL&url=https%3A%2F%2Fmegforflorida.com%2Fels-for-autism-moves-closer-to-inclusive-recreation-center-in-south-fl%2F",
-"https://megforflorida.com/",
-"https://megforflorida.com/campaign-news",
-"https://megforflorida.com/els-for-autism-moves-closer-to-inclusive-recreation-center-in-south-fl",
-"https://megforflorida.com/els-for-autism-moves-closer-to-inclusive-recreation-center-in-south-fl/6822858@kevinoneill.us?subject=Sent+from+MegforFlorida+Website",
-"https://megforflorida.com/endorsements",
-"https://megforflorida.com/florida-billboard-highlights-president-donald-j-trump-boulevard",
-"https://megforflorida.com/house-passes-bill-changing-gulf-of-mexico-to-gulf-of-america",
-"https://megforflorida.com/image-gallery",
-"https://megforflorida.com/join",
-"https://megforflorida.com/press-releases",
-"https://megforflorida.com/privacy-policy",
-"https://megforflorida.com/terms",
-"https://secure.anedot.com/megan-weinberger-campaign/donate",
-"https://truthsocial.com/share?url=https%3A%2F%2Fmegforflorida.com%2Fels-for-autism-moves-closer-to-inclusive-recreation-center-in-south-fl%2F",
-"https://wordpress.org/plugins/gdpr-cookie-compliance"
+{
+"text": "Contribute Today",
+"href": "https://secure.anedot.com/megan-weinberger-campaign/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/megan-weinberger-campaign/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://megforflorida.com/endorsements/"
+},
+{
+"text": "Florida Billboard Highlights 'President Donald J. Trump Boulevard' →",
+"href": "https://megforflorida.com/florida-billboard-highlights-president-donald-j-trump-boulevard/"
+},
+{
+"text": "Home",
+"href": "https://megforflorida.com/"
+},
+{
+"text": "Image and Video Gallery",
+"href": "https://megforflorida.com/image-gallery/"
+},
+{
+"text": "Join Meg",
+"href": "https://megforflorida.com/join/"
+},
+{
+"text": "Join Meg's Team!",
+"href": "https://megforflorida.com/join/"
+},
+{
+"text": "Messaging Terms, Conditions & Policies Terms",
+"href": "https://megforflorida.com/terms/"
+},
+{
+"text": "Naming Opportunities",
+"href": "https://www.elsforautism.org/wp-content/uploads/2025/08/Rec-Complex-Naming-Opportunities-2025-5.pdf"
+},
+{
+"text": "News & Events",
+"href": "https://megforflorida.com/campaign-news/"
+},
+{
+"text": "Oliver Peterson",
+"href": "https://www.danspapers.com/author/oliverp/"
+},
+{
+"text": "Platform",
+"href": "https://megforflorida.com#meg-platform"
+},
+{
+"text": "Press Releases",
+"href": "https://megforflorida.com/press-releases/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://megforflorida.com/privacy-policy"
+},
+{
+"text": "Site by KO.",
+"href": "https://megforflorida.com/els-for-autism-moves-closer-to-inclusive-recreation-center-in-south-fl/6822858@kevinoneill.us?subject=Sent+from+MegforFlorida+Website"
+},
+{
+"text": "[image]",
+"href": "https://megforflorida.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmegforflorida.com%2Fels-for-autism-moves-closer-to-inclusive-recreation-center-in-south-fl%2F"
+},
+{
+"text": "[tooltip: Gab]",
+"href": "https://gab.com/compose?url=https%3A%2F%2Fmegforflorida.com%2Fels-for-autism-moves-closer-to-inclusive-recreation-center-in-south-fl%2F&text=Els+for+Autism+Moves+Closer+to+Inclusive+Recreation+Center+in+South+FL"
+},
+{
+"text": "[tooltip: Gettr]",
+"href": "https://gettr.com/share?text=Els+for+Autism+Moves+Closer+to+Inclusive+Recreation+Center+in+South+FL&url=https%3A%2F%2Fmegforflorida.com%2Fels-for-autism-moves-closer-to-inclusive-recreation-center-in-south-fl%2F"
+},
+{
+"text": "[tooltip: Linkedin]",
+"href": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmegforflorida.com%2Fels-for-autism-moves-closer-to-inclusive-recreation-center-in-south-fl%2F&title=Els+for+Autism+Moves+Closer+to+Inclusive+Recreation+Center+in+South+FL"
+},
+{
+"text": "[tooltip: More]",
+"href": "https://megforflorida.com/els-for-autism-moves-closer-to-inclusive-recreation-center-in-south-fl/"
+},
+{
+"text": "[tooltip: Truth Social]",
+"href": "https://truthsocial.com/share?url=https%3A%2F%2Fmegforflorida.com%2Fels-for-autism-moves-closer-to-inclusive-recreation-center-in-south-fl%2F"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "http://twitter.com/intent/tweet?text=Els+for+Autism+Moves+Closer+to+Inclusive+Recreation+Center+in+South+FL&url=https%3A%2F%2Fmegforflorida.com%2Fels-for-autism-moves-closer-to-inclusive-recreation-center-in-south-fl%2F"
+},
+{
+"text": "development@elsforautism.org",
+"href": "mailto:development@elsforautism.org"
+},
+{
+"text": "https://www.danspapers.com/2025/09/els-for-autism-recreation-center/",
+"href": "https://www.danspapers.com/2025/09/els-for-autism-recreation-center/"
+},
+{
+"text": "← House Passes Bill Changing 'Gulf of Mexico' to 'Gulf of America'",
+"href": "https://megforflorida.com/house-passes-bill-changing-gulf-of-mexico-to-gulf-of-america/"
+}
 ]

@@ -1,10 +1,11 @@
-MetroNews
-Delegate Jason Barrett is announcing his bid for a state Senate seat, the latest of several delegates to do so and probably not the last.
+Skip to content Jason Barrett About District 16 Issues News Media Contact Donate Metro News – Delegate Barrett is the Latest to Announce He’ll Run for State Senate MetroNews Delegate Jason Barrett is announcing his bid for a state Senate seat, the latest of several delegates to do so and probably not the last.
 Barrett, R-Berkeley, announced today he’ll run to represent the 16th Senate District, which covers all of Jefferson and part of Berkeley counties.
 It’s a seat long held by Democrat John Unger, who resigned to become a county magistrate this year.
 Senator Patricia Rucker, R-Jefferson, is the other current representative of the district.
 “I think it really comes down to, that I’ll be able to help the people of this community, of the Eastern Panhandle, in a bigger way,” Barrett said this week in a telephone interview.
 “We have very unique challenges here in the Eastern Panhandle.
 Obviously we’ve seen a lot of population growth, which is clearly a good thing — but there are challenges that come with that as well.
-So I look forward to being able to serve in a greater capacity as state senator.”
-Read the full article from MetroNews
+So I look forward to being able to serve in a greater capacity as state senator.” Read the full article from MetroNews Share Post navigation The Journal: Needing a Champion – Children’s Home Society of West Virginia Recognizes Del.
+Barrett’s Advocacy for Children Three locals honored with Governor’s Arts Award, Legislative Leadership awards Categories News Recent Posts 77 percent of West Virginia nursing home residents rely on Medicaid, nursing home operator may need to shut down facility if cuts are done Senate finance chair questions WV Supreme Court’s unspent funds; court says it needs more money New Accessible Playground Gets Matching Funds From LEDA Grants and W Randy Smith Family Fund Winchester Avenue Elementary’s new outdoor classroom creates more opportunities for students PEIA director Brian Cunningham has left; financial challenges remain ahead Latest News 77 percent of West Virginia nursing home residents rely on Medicaid, nursing home operator may need to shut down facility if cuts are done Senate finance chair questions WV Supreme Court’s unspent funds; court says it needs more money New Accessible Playground Gets Matching Funds From LEDA Grants and W Randy Smith Family Fund Winchester Avenue Elementary’s new outdoor classroom creates more opportunities for students PEIA director Brian Cunningham has left; financial challenges remain ahead Berkeley County’s Sen.
+Barrett to chair West Virginia Senate finance committee Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date!
+Contact News Privacy Policy Donate Paid for by Friends of Jason Barrett Powered By Push Digital Jason Barrett © #

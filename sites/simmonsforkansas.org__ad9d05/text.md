@@ -1,19 +1,8 @@
-top of page
-Alexis Simmons is a passionate advocate for transparency, integrity, and accountability in government.
+top of page Contribute Home Meet Alexis Endorsements Vote Contact Contribute Contribute Vote Alexis Simmons is a passionate advocate for transparency, integrity, and accountability in government.
 She serves on the House Elections, Welfare Reform, and Water committees.
 Alexis is the top ranking Democrat on Legislative Modernization.
-A PROVEN LEADER
-FOR TOPEKA
-Expand
-Medicaid
-Create New
-Affordable Housing
-Fund
-Public Education
-ALEXIS' LEGISLATIVE PRIORITIES
-FOR TOPEKA
-After attending college at Washburn and graduate school in Washington, DC, Alexis returned to Topeka to continue serving the community she loves.
-With over a decade of working in government and politics, Alexis is uniquely qualified to get things done for Topeka in the Kansas Legislature.
-READY TO LEAD FROM
-THE FIRST DAY ON THE JOB
-bottom of page
+GET INVOLVED IN THE CAMPAIGN First name * Last Name * Email * Yes, you may contact me.
+Get Involved A PROVEN LEADER FOR TOPEKA Expand Medicaid Create New Affordable Housing Fund Public Education ALEXIS' LEGISLATIVE PRIORITIES FOR TOPEKA After attending college at Washburn and graduate school in Washington, DC, Alexis returned to Topeka to continue serving the community she loves. ​ With over a decade of working in government and politics, Alexis is uniquely qualified to get things done for Topeka in the Kansas Legislature.
+READY TO LEAD FROM THE FIRST DAY ON THE JOB Meet Alexis CONTACT THE CAMPAIGN First Name * Last Name * Email * Phone * Message * Submit PAID FOR BY THE ALEXIS SIMMONS CAMPAIGN COMMITTEE, INC.
+ETHEL EDWARDS, TREASURER ​ Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Home Meet Alexis Endorsements Vote Contact Contribute bottom of page

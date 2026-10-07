@@ -1,13 +1,3 @@
-top of page
-Home
-About
-Join
-Events
-More...
+top of page Home About Join Events More...
 Use tab to navigate through the menu items.
-DONATE
-Home
-About
-Join
-Events
-bottom of page
+DONATE Paid for by the Committee to Elect Vernetta Alston ​ Durham Democratic Representative ​ Post Office Box 379, Durham NC 27702 DONATE Privacy Policy & Terms of Service Home About Join Events bottom of page

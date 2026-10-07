@@ -1,11 +1,42 @@
 [
-"https://facebook.com/stevenwalker27",
-"https://instagram.com/stevenwalkerar/profilecard?igsh=MXc5eGI4bDFrNXByYQ%3D%3D",
-"https://politics.raisethemoney.com/en/swalker",
-"https://walkerforarkansas.com/",
-"https://walkerforarkansas.com/about-me",
-"https://walkerforarkansas.com/articles/website-update",
-"https://walkerforarkansas.com/campaign",
-"https://walkerforarkansas.com/news",
-"https://x.com/StevenWalkerAR"
+{
+"text": "About",
+"href": "https://www.walkerforarkansas.com/about-me"
+},
+{
+"text": "Campaign",
+"href": "https://www.walkerforarkansas.com/campaign"
+},
+{
+"text": "Donate",
+"href": "https://politics.raisethemoney.com/en/swalker"
+},
+{
+"text": "Home",
+"href": "https://www.walkerforarkansas.com/"
+},
+{
+"text": "Latest News",
+"href": "https://www.walkerforarkansas.com/news"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforarkansas.com/articles/website-update"
+},
+{
+"text": "[image]",
+"href": "https://www.walkerforarkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/stevenwalker27"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/stevenwalkerar/profilecard/?igsh=MXc5eGI4bDFrNXByYQ%3D%3D"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/StevenWalkerAR"
+}
 ]

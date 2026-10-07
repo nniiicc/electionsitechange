@@ -1,4 +1,5 @@
-Healthcare
-When I am elected, I will push for North Carolina to expand Medicaid by accepting the federal money which has already been set aside for our state.
+Home About Allison About Allison Legislative History Why I'm Running News Issues Issues Index A Fair Economy for All Education Social Justice & Equality Gun Safety Our Environment Health Care Voter Resources Are you in NC House District 11 Registering to Vote Take Action Take Action Volunteer Newsletter Merch DONATE Home About Allison About Allison Legislative History Why I'm Running News Issues Issues Index A Fair Economy for All Education Social Justice & Equality Gun Safety Our Environment Health Care Voter Resources Are you in NC House District 11 Registering to Vote Take Action Take Action Volunteer Newsletter Merch DONATE Issues Issues Index A Fair Economy for All Education Social Justice & Equality Gun Safety Our Environment Health Care Healthcare When I am elected, I will push for North Carolina to expand Medicaid by accepting the federal money which has already been set aside for our state.
 I also believe that Planned Parenthood should be fully funded to provide for the low-income and marginalized women of our state.
 Too many individuals and families are at risk without this funding, and I will work to correct that, as well as work for more affordable healthcare across the state.
+Back to Top Paid for by Allison for House P.O.
+Box 37213 Raleigh, NC 27627

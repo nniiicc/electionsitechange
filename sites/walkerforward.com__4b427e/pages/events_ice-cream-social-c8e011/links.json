@@ -1,21 +1,90 @@
 [
-"http://facebook.com/brianwalkerforward",
-"http://google.com/calendar/event?action=TEMPLATE&text=Ice+Cream+Social&dates=20260601T223000Z%2F20260602T000000Z&location=1721+River+Ave%2C+Anoka%2C+MN+55303%2C+USA",
-"http://instagram.com/walker.forward",
-"http://maps.google.com/?q=1721+River+Ave+Anoka%2C+MN+55303+USA",
-"https://mobilize.us/dfl/event/959240",
-"https://walkerforward.com/",
-"https://walkerforward.com/cart",
-"https://walkerforward.com/contact",
-"https://walkerforward.com/donate",
-"https://walkerforward.com/events",
-"https://walkerforward.com/events/anoka-pride",
-"https://walkerforward.com/events/ice-cream-social?format=ical",
-"https://walkerforward.com/events/meet-and-greet-may-27",
-"https://walkerforward.com/faq",
-"https://walkerforward.com/news",
-"https://walkerforward.com/privacy-policy",
-"https://walkerforward.com/store",
-"https://walkerforward.com/volunteer",
-"https://walkerforward.com/yard-sign"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1721+river+ave+anoka%2C+mn+55303+usa"
+},
+{
+"text": "0",
+"href": "https://www.walkerforward.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.walkerforward.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.walkerforward.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.walkerforward.com/faq"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ice+Cream+Social&dates=20260601T223000Z%2F20260602T000000Z&location=1721+River+Ave%2C+Anoka%2C+MN+55303%2C+USA"
+},
+{
+"text": "ICS",
+"href": "https://www.walkerforward.com/events/ice-cream-social?format=ical"
+},
+{
+"text": "News",
+"href": "https://www.walkerforward.com/news"
+},
+{
+"text": "Next Next June 6 Anoka Pride",
+"href": "https://www.walkerforward.com/events/anoka-pride"
+},
+{
+"text": "Previous Previous May 27 Candidate Meet-and-Greet",
+"href": "https://www.walkerforward.com/events/meet-and-greet-may-27"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.walkerforward.com/privacy-policy"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/dfl/event/959240/"
+},
+{
+"text": "Store",
+"href": "https://www.walkerforward.com/store"
+},
+{
+"text": "Volunteer",
+"href": "https://www.walkerforward.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.walkerforward.com/yard-sign"
+},
+{
+"text": "[image: Walker Forward]",
+"href": "https://www.walkerforward.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/brianwalkerforward"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/walker.forward"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@walkerforward.com"
+},
+{
+"text": "campaign@walkerforward.com",
+"href": "mailto:campaign@walkerforward.com"
+}
 ]

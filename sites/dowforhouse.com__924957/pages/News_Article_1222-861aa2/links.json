@@ -1,17 +1,70 @@
 [
-"https://dowforhouse.com/",
-"https://dowforhouse.com/Home/About",
-"https://dowforhouse.com/Home/Contact",
-"https://dowforhouse.com/Home/Values",
-"https://dowforhouse.com/News",
-"https://dowforhouse.com/News/Article/blog-post.html",
-"https://dowforhouse.com/News/Article/demo-seo.html",
-"https://dowforhouse.com/News/Article/index.html",
-"https://dowforhouse.com/News/InTheNews",
-"https://dowforhouse.com/News/Veterans",
-"https://dowforhouse.com/Resources/ParentalNotification",
-"https://dowforhouse.com/about-rebecca",
-"https://facebook.com/dowfornm",
-"https://gpkmedia.com/news/forget-me-not-veteran-s-park-receives-2000-from-rotary-club-of-t-or-c/article_40448d32-12d6-11ef-a5b7-df555568bd12.html",
-"https://secure.winred.com/committee-to-elect-rebecca-dow/give-now"
+{
+"text": "ABOUT REBECCA",
+"href": "https://www.dowforhouse.com/Home/About"
+},
+{
+"text": "CONTACT REBECCA",
+"href": "https://www.dowforhouse.com/Home/Contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/committee-to-elect-rebecca-dow/give-now"
+},
+{
+"text": "Home",
+"href": "https://www.dowforhouse.com/"
+},
+{
+"text": "Home",
+"href": "https://www.dowforhouse.com/about-rebecca"
+},
+{
+"text": "IN THE NEWS",
+"href": "https://www.dowforhouse.com/News/InTheNews"
+},
+{
+"text": "News",
+"href": "https://www.dowforhouse.com/News"
+},
+{
+"text": "PARENTAL NOTIFICATION FORM",
+"href": "https://www.dowforhouse.com/Resources/ParentalNotification"
+},
+{
+"text": "REBECCA'S VALUES",
+"href": "https://www.dowforhouse.com/Home/Values"
+},
+{
+"text": "Sierra County Sentinel",
+"href": "https://www.gpkmedia.com/news/forget-me-not-veteran-s-park-receives-2000-from-rotary-club-of-t-or-c/article_40448d32-12d6-11ef-a5b7-df555568bd12.html"
+},
+{
+"text": "VETERANS",
+"href": "https://www.dowforhouse.com/News/Veterans"
+},
+{
+"text": "[image: Dow for House]",
+"href": "https://www.dowforhouse.com/News/Article/demo-seo.html"
+},
+{
+"text": "[image: Dow for House]",
+"href": "https://www.dowforhouse.com/News/Article/index.html"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/dowfornm"
+},
+{
+"text": "medarisdaun@yahoo.com",
+"href": "mailto:medarisdaun@yahoo.com"
+},
+{
+"text": "rebecca@dowforhouse.com",
+"href": "mailto:rebecca@dowforhouse.com"
+},
+{
+"text": "‘Forget Me Not Veteran’s Park’ Receives $2000 From Rotary Club of T-or-C",
+"href": "https://www.dowforhouse.com/News/Article/blog-post.html"
+}
 ]

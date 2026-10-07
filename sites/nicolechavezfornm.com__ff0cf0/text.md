@@ -1,16 +1,21 @@
-Mother.
+Skip to main content General Election Day · November 3, 2026 · NM House District 31 · Northeast Heights, Albuquerque Meet Nicole Priorities Endorsements Legislation Contact Volunteer Donate Close Home Meet Nicole Priorities Endorsements Legislation Contact Volunteer Donate Today Re-Elect State Rep.Nicole Chavez Mother.
 Business Leader.
 Fighter.
 Two years standing up for the Northeast Heights.
 A practical problem solving Legislative voice for safer streets, stronger schools, and a New Mexico that works for every family.
-MOTHER .
-BUSINESS
-LEADER.
+Donate Today → Volunteer 200 YR NM Family Roots D31 NE Heights ABQ '24→'26 First Term Served State Rep.
+Nicole Chavez MOTHER .
+BUSINESS LEADER.
 FIGHTER.
-JOIN US
-ON THE TRAIL
-Proud New Mexican with family roots dating back over 200 years
-Nicole’s family roots in New Mexico run back 200 years.
+Two years standing up for the Northeast Heights.
+A practical problem solving Legislative voice for safer streets, stronger schools, and a New Mexico that works for every family.
+Donate Today Volunteer JOIN THE CAMPAIGN JOIN US ON THE TRAIL Sign up for campaign updates, events, votes, campaign updates, and how you can help.
+No spam.
+Unsubscribe anytime.
+First Name * Last Name * Email * Phone Number Name I agree to receive emails, calls and text messages from Nicole Chavez for New Mexico.
+Message and data rates may apply.
+Reply STOP to unsubscribe at any time.
+Count Me In With Kennedy & family Meet Nicole Proud New Mexican with family roots dating back over 200 years Nicole’s family roots in New Mexico run back 200 years.
 She built her career, raised her kids, and rooted her public service right here in District 31.
 Nicole has worked as a leader in Healthcare Administration for over 26 years.
 She is former PTA President of Jackson Middle School, Nicole spent years inside the system she now works to improve.
@@ -24,41 +29,32 @@ By building bipartisan relationships, listening to constituents, and advocating 
 Nicole understands that meaningful progress takes persistence.
 She remains committed to advancing safer communities, stronger schools, expanded economic opportunity, and greater access to quality healthcare for New Mexico families.
 Now, Nicole is seeking re-election to continue delivering results and provide the Northeast Heights with the responsive, effective leadership it deserves.
-What's next.
-Public
-Safety
-Tougher penalties for repeat offenders.
+1st Hispanic & Woman to represent House District 31 '15 Co-founded the victims' advocacy group that changed NM law '24 Elected to represent NM House District 31 in Santa Fe Priorities What's next.
+01 Public Safety Tougher penalties for repeat offenders.
 Real accountability for violent juveniles.
 An end to the catch-and-release policies that have left Albuquerque families exposed.
-Affordability, Economy,
-& Jobs
-Cut the red tape strangling small business.
+02 Affordability, Economy, & Jobs Cut the red tape strangling small business.
 Fix the conditions driving employers out.
 Keep our graduates in New Mexico instead of watching them leave the state.
-Healthcare
-Access
-Lower malpractice premiums so doctors can afford to practice in New Mexico.
+03 Healthcare Access Lower malpractice premiums so doctors can afford to practice in New Mexico.
 Raise Medicaid reimbursements.
 Stop the exodus of providers to neighboring states.
-Education
-& School Choice
-Trust our teachers.
+04 Education & School Choice Trust our teachers.
 Give parents a real say in their kids' classrooms.
 Let families choose the right school for their child, not be locked in by their ZIP code.
-Backed by the
-people who do the work.
+Endorsements Backed by the people who do the work.
 Officers, legislators, community leaders, and neighbors across District 31 back Nicole because she shows up, she listens, and she gets things done.
-KEEP THE
-MOMENTUM GOING
-Two lines.
+Endorsement Bill Rehm Former NM House District 31 Rep.
+Endorsement Walt Benson Bernalillo County Commissioner Endorsement Gordon Eden For Albuquerque Police Chief Endorsement Nate Gentry Former House Republican Leader Endorsement Julie Benner Wife of Fallen Rio Rancho PD Officer Endorsement Veronica Garcia Mother of Lilly Garcia $25 $50 $100 $200 $250 OTHER DONATE TODAY KEEP THE MOMENTUM GOING Nicole has spent her first term delivering results.
+Your contribution helps continue that work and keeps a practical voice fighting for Northeast Heights families.
+LEGISLATIVE RECORD BILLS I'VE CARRIED.
+A look at the legislation I've sponsored and fought for in Santa Fe, what made it into law, what moved forward, and what I'll bring back next session.
+Signed Into Law Passed the House Did Not Advance 2025 2026 HB 73 CHILDHOOD SEXUAL ABUSE STATUTE OF LIMITATIONS 2025 Regular Session Signed Into Law HB 82 PHYSICAL THERAPY LICENSURE COMPACT 2025 Regular Session Passed The House HB 86 HUMAN TRAFFICKING CHANGES 2025 Regular Session Held In Committee HB 96 PERA MEMBER TEMPORARY PAYMENT 2025 Regular Session Held In Committee HB 101 FIREARM AT POLLING PLACE FOR LAW ENFORCEMENT 2025 Regular Session Signed Into Law HB 102 VIOLENT FELONIES FOR MERITORIOUS DEDUCTION 2025 Regular Session Signed Into Law HB 103 BATTERY ON PEACE OFFICER PENALTY 2025 Regular Session Passed The House HB 104 CRIMES AGAINST PEACE OFFICER DEFINITIONS 2025 Regular Session Passed The House HB 107 PENALTY FOR DRUG TRAFFICKING & DEATH 2025 Regular Session Held In Committee HB 133 CYFD IDENTIFICATION FOR CERTAIN CHILDREN 2025 Regular Session Did Not Advance HB 134 DELINQUENCY ACT CHANGES 2025 Regular Session Held In Committee HB 136 FENTANYL EXPOSURE AS CHILD ABUSE 2025 Regular Session Held In Committee HB 163 ADDITIONS TO "DELINQUENT ACT" 2025 Regular Session Held In Committee HB 165 DENIAL OF BAIL HEARINGS & PRESUMPTIONS 2025 Regular Session Did Not Advance HB 166 FELON IN POSSESSION OF FIREARMS PENALTIES 2025 Regular Session Did Not Advance HB 231 ADDITIONAL CRIMES FOR REPARATIONS 2025 Regular Session Did Not Advance HB 235 FIREARMS & CERTAIN PERSONS 2025 Regular Session Did Not Advance HB 278 VOLUNTARY MANSLAUGHTER EXCLUSIONS 2025 Regular Session Did Not Advance HB 279 ACTUARIAL REVIEW OF CERTAIN LEGISLATION 2025 Regular Session Did Not Advance HB 280 ADDITIONAL VIOLENT FELONIES 2025 Regular Session Did Not Advance HB 341 CYFD FOSTER PARENT ID CARDS 2025 Regular Session Held In Committee HB 344 HEALTHCARE EQUIPMENT GROSS RECEIPTS 2025 Regular Session Did Not Advance HB 345 FOSTER CARE BEHAVIORAL HEALTH ASSESSMENT 2025 Regular Session Held In Committee HB 408 CYFD COMMUNITY-BASED FOSTER CARE STUDIES 2025 Regular Session Did Not Advance HB 432 EXCESSIVELY ABSENT STUDENTS & PENALTIES 2025 Regular Session Did Not Advance HB 445 VICTIMS OF CRIME ACT CHANGES 2025 Regular Session Did Not Advance HJR 22 DENIAL OF BAIL, CA 2025 Regular Session Did Not Advance HB 73 2025 Regular Session CHILDHOOD SEXUAL ABUSE STATUTE OF LIMITATIONS Signed Into Law HB 82 2025 Regular Session PHYSICAL THERAPY LICENSURE COMPACT Passed The House HB 86 2025 Regular Session HUMAN TRAFFICKING CHANGES Held In Committee HB 96 2025 Regular Session PERA MEMBER TEMPORARY PAYMENT Held In Committee HB 101 2025 Regular Session FIREARM AT POLLING PLACE FOR LAW ENFORCEMENT Signed Into Law HB 102 2025 Regular Session VIOLENT FELONIES FOR MERITORIOUS DEDUCTION Signed Into Law HB 103 2025 Regular Session BATTERY ON PEACE OFFICER PENALTY Passed The House HB 104 2025 Regular Session CRIMES AGAINST PEACE OFFICER DEFINITIONS Passed The House HB 107 2025 Regular Session PENALTY FOR DRUG TRAFFICKING & DEATH Held In Committee HB 133 2025 Regular Session CYFD IDENTIFICATION FOR CERTAIN CHILDREN Did Not Advance HB 134 2025 Regular Session DELINQUENCY ACT CHANGES Held In Committee HB 136 2025 Regular Session FENTANYL EXPOSURE AS CHILD ABUSE Held In Committee HB 163 2025 Regular Session ADDITIONS TO "DELINQUENT ACT" Held In Committee HB 165 2025 Regular Session DENIAL OF BAIL HEARINGS & PRESUMPTIONS Did Not Advance HB 166 2025 Regular Session FELON IN POSSESSION OF FIREARMS PENALTIES Did Not Advance HB 231 2025 Regular Session ADDITIONAL CRIMES FOR REPARATIONS Did Not Advance HB 235 2025 Regular Session FIREARMS & CERTAIN PERSONS Did Not Advance HB 278 2025 Regular Session VOLUNTARY MANSLAUGHTER EXCLUSIONS Did Not Advance HB 279 2025 Regular Session ACTUARIAL REVIEW OF CERTAIN LEGISLATION Did Not Advance HB 280 2025 Regular Session ADDITIONAL VIOLENT FELONIES Did Not Advance HB 341 2025 Regular Session CYFD FOSTER PARENT ID CARDS Held In Committee HB 344 2025 Regular Session HEALTHCARE EQUIPMENT GROSS RECEIPTS Did Not Advance HB 345 2025 Regular Session FOSTER CARE BEHAVIORAL HEALTH ASSESSMENT Held In Committee HB 408 2025 Regular Session CYFD COMMUNITY-BASED FOSTER CARE STUDIES Did Not Advance HB 432 2025 Regular Session EXCESSIVELY ABSENT STUDENTS & PENALTIES Did Not Advance HB 445 2025 Regular Session VICTIMS OF CRIME ACT CHANGES Did Not Advance HJR 22 2025 Regular Session DENIAL OF BAIL, CA Did Not Advance HB 25 JUVENILE FIREARM USE AND BACKGROUND CHECKS 2026 Regular Session Did Not Advance HB 32 COUNSELING LICENSURE COMPACT 2026 Regular Session Passed The House HB 33 PSYCHOLOGY INTERJURISDICTIONAL COMPACT 2026 Regular Session Passed The House HB 40 TEMPORARY ERB MEMBER PAYMENT 2026 Regular Session Held In Committee HB 43 DISABILITY & SURVIVOR PENSIONS CHANGES 2026 Regular Session Signed Into Law HB 44 DENTAL & DENTAL HYGIENIST COMPACT 2026 Regular Session Did Not Advance HB 45 PHYSICIAN ASSISTANT LICENSURE COMPACT 2026 Regular Session Did Not Advance HB 60 REVISE CERTAIN CRIMINAL OFFENSE DEFINITIONS 2026 Regular Session Passed The House HB 61 AGGRAVATED BATTERY ON POLICE OFFICER 2026 Regular Session Signed Into Law HB 73 SENTENCE DEFERMENT FOR REPEAT OFFENDER 2026 Regular Session Held In Committee HB 74 HABITUAL OFFENDER STATUTE OF LIMITATIONS 2026 Regular Session Held In Committee HB 75 ALTERATION OF SENTENCE BASED ON CIRCUMSTANCES 2026 Regular Session Held In Committee HB 78 SEALED JUVENILE RECORD REFERENCES 2026 Regular Session Did Not Advance HB 92 SENIOR INCOME TAX DEDUCTION 2026 Regular Session Held In Committee HB 107 MEDICAL MALPRACTICE CLAIM CHANGES 2026 Regular Session Did Not Advance HB 132 POLICE OFFICER WORKERS COMP CONDITIONS 2026 Regular Session Passed The House HB 143 HEALTH CARE CHANGES 2026 Regular Session Did Not Advance HB 146 FELON IN POSSESSION OF FIREARM PENALTY 2026 Regular Session Did Not Advance HB 163 DENIAL OF BAIL FOR CERTAIN OFFENSES 2026 Regular Session Did Not Advance HB 179 SEALED JUVENILE RECORD & PRETRIAL DETENTION 2026 Regular Session Did Not Advance HB 206 CRIME VICTIM REPARATION ADDITIONAL CRIMES 2026 Regular Session Passed The House HB 259 ACTUARIAL REVIEW OF HEALTH LEGISLATION 2026 Regular Session Held In Committee HB 273 WOMEN'S SAFETY & PROTECTION ACT 2026 Regular Session Did Not Advance HB 277 SCOPE OF PRACTICE ADVISORY COMMITTEE 2026 Regular Session Did Not Advance HB 292 NM PRISON RAPE ELIMINATION ACT 2026 Regular Session Held In Committee HB 334 COMPETENCY OF CHILDREN 2026 Regular Session Did Not Advance HJR 2 DENIAL OF BAIL, CA 2026 Regular Session Held In Committee HB 25 2026 Regular Session JUVENILE FIREARM USE AND BACKGROUND CHECKS Did Not Advance HB 32 2026 Regular Session COUNSELING LICENSURE COMPACT Passed The House HB 33 2026 Regular Session PSYCHOLOGY INTERJURISDICTIONAL COMPACT Passed The House HB 40 2026 Regular Session TEMPORARY ERB MEMBER PAYMENT Held In Committee HB 43 2026 Regular Session DISABILITY & SURVIVOR PENSIONS CHANGES Signed Into Law HB 44 2026 Regular Session DENTAL & DENTAL HYGIENIST COMPACT Did Not Advance HB 45 2026 Regular Session PHYSICIAN ASSISTANT LICENSURE COMPACT Did Not Advance HB 60 2026 Regular Session REVISE CERTAIN CRIMINAL OFFENSE DEFINITIONS Passed The House HB 61 2026 Regular Session AGGRAVATED BATTERY ON POLICE OFFICER Signed Into Law HB 73 2026 Regular Session SENTENCE DEFERMENT FOR REPEAT OFFENDER Held In Committee HB 74 2026 Regular Session HABITUAL OFFENDER STATUTE OF LIMITATIONS Held In Committee HB 75 2026 Regular Session ALTERATION OF SENTENCE BASED ON CIRCUMSTANCES Held In Committee HB 78 2026 Regular Session SEALED JUVENILE RECORD REFERENCES Did Not Advance HB 92 2026 Regular Session SENIOR INCOME TAX DEDUCTION Held In Committee HB 107 2026 Regular Session MEDICAL MALPRACTICE CLAIM CHANGES Did Not Advance HB 132 2026 Regular Session POLICE OFFICER WORKERS COMP CONDITIONS Passed The House HB 143 2026 Regular Session HEALTH CARE CHANGES Did Not Advance HB 146 2026 Regular Session FELON IN POSSESSION OF FIREARM PENALTY Did Not Advance HB 163 2026 Regular Session DENIAL OF BAIL FOR CERTAIN OFFENSES Did Not Advance HB 179 2026 Regular Session SEALED JUVENILE RECORD & PRETRIAL DETENTION Did Not Advance HB 206 2026 Regular Session CRIME VICTIM REPARATION ADDITIONAL CRIMES Passed The House HB 259 2026 Regular Session ACTUARIAL REVIEW OF HEALTH LEGISLATION Held In Committee HB 273 2026 Regular Session WOMEN'S SAFETY & PROTECTION ACT Did Not Advance HB 277 2026 Regular Session SCOPE OF PRACTICE ADVISORY COMMITTEE Did Not Advance HB 292 2026 Regular Session NM PRISON RAPE ELIMINATION ACT Held In Committee HB 334 2026 Regular Session COMPETENCY OF CHILDREN Did Not Advance HJR 2 2026 Regular Session DENIAL OF BAIL, CA Held In Committee Get In Touch Two lines.
 Two purposes.
 Campaign questions, donations and volunteering go to the campaign team.
 Constituent services and official legislative business go to the state office.
-Campaign HQ
-Donations, yard signs, volunteer hours, events.
+Campaign Campaign HQ Donations, yard signs, volunteer hours, events.
 The campaign team handles everything election-related.
-Albuquerque, NM 87113-1923
-Official State Office
-Constituent services, casework, and official business.
+Email nicolechaveznm@gmail.com Phone 505-235-7836 Campaign Mail 8100 Wyoming Blvd, Suite M4 Box 139 Albuquerque, NM 87113-1923 Legislative Official State Office Constituent services, casework, and official business.
 The legislative office handles official state government issues, not the campaign.
-Albuquerque, NM 87113
+Email HD31.DLA@nmlegis.gov Phone (505) 946-5631 Mailing address 8100 Wyoming Blvd, Suite M4 Box 139 Albuquerque, NM 87113 Vote Nov 3, 2026 Paid for by Nicole Chavez for New Mexico · NM House District 31 · Albuquerque, NM

@@ -1,4 +1,4 @@
-Over the last two articles, we looked at the good and the bad from the 85th Texas Legislative Session; first, how legislators from all sides came together to build a budget agreement, and then how a fight over differing political agendas brought the session to a stand-still that necessitated a special session this July.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements July 4, 2017 Jeff Frazier Sit-Rep #11 - The Ugly - The Culture of Fear and Lack of Communication July 4, 2017 Jeff Frazier Over the last two articles, we looked at the good and the bad from the 85th Texas Legislative Session; first, how legislators from all sides came together to build a budget agreement, and then how a fight over differing political agendas brought the session to a stand-still that necessitated a special session this July.
 Now that I’ve given you the good and the bad, it’s time to face the ugly truths that set the stage for both.
 We have come to a place in our politics where persuasion isn’t even considered anymore, where cooperation is a dirty word, and where defeat of the opposition is the only option considered.
 One of the advantages of being a “freshman” legislator is that it enabled me to be just that, a fresh-man, one coming into this system from the outside, viewing it with fresh eyes, unaffected by its culture and history.
@@ -31,3 +31,15 @@ We must treat one another as Tejas.
 Even if we agree on little, we must desire to persuade, discuss, and understand.
 Only when we admit the ugly truth of our current politics and try to communicate can we begin to grow in a better direction.
 This solution will require structural changes to our system; changes like campaign finance reform and term limits, which I will touch on in future articles.
+July 4, 2017 Jeff Frazier Jeff Frazier Sit-Rep #12 - The Vote Not Taken Sit-Rep #10 - The Bad - Texas Medical Board Sunset Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

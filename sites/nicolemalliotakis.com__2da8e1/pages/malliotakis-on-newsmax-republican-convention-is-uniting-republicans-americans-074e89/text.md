@@ -1,5 +1,3 @@
-Rep.
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Nicole Malliotakis Malliotakis on Newsmax: Republican Convention is uniting Republicans & Americans by Team Nicole on Jul 18, 2024 Rep.
 Nicole Malliotakis appeared on Newsmax to discuss the 2024 Republican National Convention.
-STAND WITH NICOLE
-by Team Nicole on
-Jul 18, 2024
+Watch share NEXT ARTICLE Malliotakis: President Trump Is Uniting Americans Across the Political Spectrum PREVIOUS ARTICLE Malliotakis and Bellotti: When It Comes To Gov’t Animal Abuse, Fauci Was Just The Tip Of The Iceberg STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

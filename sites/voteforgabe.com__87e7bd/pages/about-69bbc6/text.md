@@ -1,4 +1,4 @@
-Gabe Okoye has lived in Lawrenceville since 1992, raising his children, who graduated from Gwinnett County Public Schools alongside his wife Agnes.
+Home Meet Gabe Issues Endorsements Take Action Contact Us Donate Meet Gabe contribute Gabe Okoye has lived in Lawrenceville since 1992 , raising his children, who graduated from Gwinnett County Public Schools alongside his wife Agnes .
 A lifelong Democrat and former Chairman of the Gwinnett County Democratic Party, Gabe was integral towards bringing new diverse, and progressive elected leadership to Gwinnett County and protecting our voting rights.
 Now Gabe is ready to roll up his sleeves and get to work solving the problems facing our community and our state.
 A professional engineer, Gabe believes that every problem can be solved, and we need a thoughtful, collaborative approach to tackle the challenges we face.
@@ -6,3 +6,6 @@ Gabe immigrated from Nigeria to pursue the American dream, and through hard work
 He has served our diverse community on the Gwinnett County Planning Commission, and as past Chairman of Nigerians in Diaspora Organization in the Americas.
 Gabe has made public service an important part of his career, Now he’s running for Georgia State House in the new State House District 102, which covers the city of Lawrenceville, to ensure this district has strong progressive leadership that is focused on helping all of our families thrive and achieve the American dream in Gwinnett, and throughout the entire state.
 Gabe looks forward to the opportunity to connect with you and share more about his qualifications and policy priorities as a State Representative.
+Join Team Gabe Keep up with the Gabe Okoye campaign for State House by subscribing to our newsletter Success!
+First Name Last Name Email Subscribe Home Meet Gabe Issues Endorsements Take Action Contact Us Donate Paid for by Vote for Gabe | 121 East Crogan St.
+Suite 1715, Lawrenceville GA 30046 ©# - Site design by IKJ Web Follow

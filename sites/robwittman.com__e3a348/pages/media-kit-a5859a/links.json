@@ -1,23 +1,90 @@
 [
-"https://facebook.com/RobertJWittman",
-"https://robwittman.com/",
-"https://robwittman.com/about",
-"https://robwittman.com/contact",
-"https://robwittman.com/endorsements",
-"https://robwittman.com/get-involved",
-"https://robwittman.com/get-the-facts",
-"https://robwittman.com/issues",
-"https://robwittman.com/media-kit",
-"https://robwittman.com/site-map",
-"https://robwittman.com/voting",
-"https://robwittman.com/wp-content/uploads/2026/08/Archive.zip",
-"https://secure.winred.com/rob-wittman/donate",
-"https://secure.winred.com/rob-wittman/donate?amount=100",
-"https://secure.winred.com/rob-wittman/donate?amount=250",
-"https://secure.winred.com/rob-wittman/donate?amount=50",
-"https://secure.winred.com/rob-wittman/donate?amount=500",
-"https://secure.winred.com/rob-wittman/storefront",
-"https://secure.winred.com/wittman-victory-committee/donate",
-"https://twitter.com/reelectwittman",
-"https://youtube.com/channel/UCTgPbi41IMkbTnnXm9FDCHg"
+{
+"text": "$100",
+"href": "https://secure.winred.com/rob-wittman/donate?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/rob-wittman/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/rob-wittman/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/rob-wittman/donate?amount=500"
+},
+{
+"text": "About",
+"href": "https://robwittman.com/about/"
+},
+{
+"text": "Contact us today!",
+"href": "https://robwittman.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/wittman-victory-committee/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://robwittman.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://robwittman.com/get-involved/"
+},
+{
+"text": "Get The Facts",
+"href": "https://robwittman.com/get-the-facts/"
+},
+{
+"text": "Issues",
+"href": "https://robwittman.com/issues/"
+},
+{
+"text": "Media Kit",
+"href": "https://robwittman.com/media-kit/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/rob-wittman/donate"
+},
+{
+"text": "ROB WITTMAN MEDIA DOWNLOAD⬇",
+"href": "https://robwittman.com/wp-content/uploads/2026/08/Archive.zip"
+},
+{
+"text": "Site Map",
+"href": "https://robwittman.com/site-map/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/rob-wittman/storefront/"
+},
+{
+"text": "Voting",
+"href": "https://robwittman.com/voting/"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/reelectwittman"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RobertJWittman/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCTgPbi41IMkbTnnXm9FDCHg"
+},
+{
+"text": "campaign@robwittman.com",
+"href": "mailto:campaign@robwittman.com"
+}
 ]

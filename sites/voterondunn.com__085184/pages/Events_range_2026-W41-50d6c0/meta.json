@@ -1,7 +1,11 @@
 {
  "description": "Ron Dunn Campaign Events",
  "final_url": "https://www.voterondunn.com/Events?range=2026-W41",
- "paid_for_by": null,
+ "fingerprint": "aa65aa38189b1a327b05457ca31aebf7931cb744",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Ron Dunn Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

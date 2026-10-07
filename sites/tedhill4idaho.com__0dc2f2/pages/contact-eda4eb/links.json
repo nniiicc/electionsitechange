@@ -1,20 +1,70 @@
 [
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ApplicationInstructions.aspx",
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/BeginAbsenteeRequest.aspx",
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ViewPollingLocation.aspx",
-"https://facebook.com/TedHill4Idaho",
-"https://instagram.com/ted_hill_for_idaho",
-"https://secure.anedot.com/ted-hill-4-idaho-edd4035f-5778-4306-b940-4d59c45d0d18/donate?exitIntent=true",
-"https://sos.idaho.gov/elections-division/calendars",
-"https://tedhill4idaho.com/",
-"https://tedhill4idaho.com/contact",
-"https://tedhill4idaho.com/cookie-policy",
-"https://tedhill4idaho.com/disclaimer",
-"https://tedhill4idaho.com/eula",
-"https://tedhill4idaho.com/issues",
-"https://tedhill4idaho.com/privacy-policy-2",
-"https://tedhill4idaho.com/terms-conditions",
-"https://wordpress.org/plugins/gdpr-cookie-compliance",
-"https://x.com/TedHill4Idaho",
-"https://youtube.com/@EdwardHillForIdaho/videos"
+{
+"text": "Contact",
+"href": "https://tedhill4idaho.com/contact/"
+},
+{
+"text": "Disclaimer",
+"href": "https://tedhill4idaho.com/disclaimer/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ted-hill-4-idaho-edd4035f-5778-4306-b940-4d59c45d0d18/donate?exitIntent=true"
+},
+{
+"text": "EULA",
+"href": "https://tedhill4idaho.com/eula/"
+},
+{
+"text": "Important Dates",
+"href": "https://sos.idaho.gov/elections-division/calendars/"
+},
+{
+"text": "Issues",
+"href": "https://tedhill4idaho.com/issues/"
+},
+{
+"text": "Meet Ted Hill",
+"href": "https://tedhill4idaho.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tedhill4idaho.com/privacy-policy-2/"
+},
+{
+"text": "Register to Vote",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ApplicationInstructions.aspx"
+},
+{
+"text": "Request Absentee Ballot",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/BeginAbsenteeRequest.aspx"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://tedhill4idaho.com/terms-conditions/"
+},
+{
+"text": "Voter Locations",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ViewPollingLocation.aspx"
+},
+{
+"text": "[image: Ted Hill 4 Idaho]",
+"href": "https://tedhill4idaho.com"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/TedHill4Idaho"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/ted_hill_for_idaho/"
+},
+{
+"text": "twitter",
+"href": "https://x.com/TedHill4Idaho"
+},
+{
+"text": "youtube",
+"href": "https://www.youtube.com/@EdwardHillForIdaho/videos"
+}
 ]

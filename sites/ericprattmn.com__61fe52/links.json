@@ -1,14 +1,118 @@
 [
-"https://ericprattmn.com/",
-"https://ericprattmn.com/calendar",
-"https://facebook.com/EricPrattMN",
-"https://instagram.com/ericprattmn",
-"https://linkedin.com/in/ericprattmn",
-"https://secure.winred.com/eric-pratt-for-minnesota-committee/donate-today",
-"https://secure.winred.com/eric-pratt-for-minnesota-committee/storefront",
-"https://secure.winred.com/pratt-victory-fund/donate-hd",
-"https://secure.winred.com/pratt-victory-fund/donate-today",
-"https://tiktok.com/@ericprattmn",
-"https://x.com/EricPrattMN",
-"https://youtube.com/@EricPrattMN/shorts"
+{
+"text": "$#",
+"href": "https://secure.winred.com/pratt-victory-fund/donate-hd"
+},
+{
+"text": "$#",
+"href": "https://secure.winred.com/pratt-victory-fund/donate-today"
+},
+{
+"text": "$#,#",
+"href": "https://secure.winred.com/pratt-victory-fund/donate-hd"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/pratt-victory-fund/donate-hd"
+},
+{
+"text": "$3500",
+"href": "https://secure.winred.com/pratt-victory-fund/donate-hd"
+},
+{
+"text": "ABOUT",
+"href": "https://www.ericprattmn.com"
+},
+{
+"text": "CALENDAR",
+"href": "https://www.ericprattmn.com/calendar"
+},
+{
+"text": "CONTACT",
+"href": "https://www.ericprattmn.com"
+},
+{
+"text": "Contact Us",
+"href": "https://www.ericprattmn.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/pratt-victory-fund/donate-today"
+},
+{
+"text": "HOME",
+"href": "https://www.ericprattmn.com"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/eric-pratt-for-minnesota-committee/donate-today"
+},
+{
+"text": "PRATT MERCH",
+"href": "https://secure.winred.com/eric-pratt-for-minnesota-committee/storefront/"
+},
+{
+"text": "PRATT PLAYBOOK",
+"href": "https://www.ericprattmn.com"
+},
+{
+"text": "Pratt's Playbook",
+"href": "https://www.ericprattmn.com"
+},
+{
+"text": "SHOP PRATT MERCH",
+"href": "https://secure.winred.com/eric-pratt-for-minnesota-committee/storefront/"
+},
+{
+"text": "To reach our Press Team, please email: Comms@ericprattmn.com﻿",
+"href": "mailto:comms@ericprattmn.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.ericprattmn.com"
+},
+{
+"text": "[image: Back to Top]",
+"href": "https://www.ericprattmn.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/EricPrattMN"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/EricPrattMN/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/ericprattmn/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/ericprattmn/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@ericprattmn"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/EricPrattMN"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/EricPrattMN"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@EricPrattMN/shorts"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericprattmn.com"
+},
+{
+"text": "info@ericprattmn.com",
+"href": "mailto:info@ericprattmn.com"
+}
 ]

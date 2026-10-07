@@ -1,14 +1,21 @@
-Fighting for a Pennsylvania that works for all of us.
+0 Skip to Content Meet Brad District 41 Issues Endorsements Press Volunteer Donate Open Menu Close Menu Meet Brad District 41 Issues Endorsements Press Volunteer Donate Open Menu Close Menu Meet Brad District 41 Issues Endorsements Press Volunteer Donate Fighting for a Pennsylvania that works for all of us.
 Why I’m running.
 I’m committed to advocating for people-focused solutions to address our state's longstanding issues.
 The status quo has let us down for over a decade, and it's time for leaders who are willing to confront inequalities in education, housing, and healthcare in Pennsylvania.
-Chip in & help us send Brad to the State House.
-If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Brad’s Priorities for Lancaster County.
-- Public Education Fair funding for our public schools & lower property taxes for homeowners.
-- Affordable Housing Quality housing that Lancaster County families can actually afford.
-- Health Care Single-payer healthcare for PA and lower insurance & prescription costs.
-Selected Endorsements.
-Press & Media.
-HD-41 includes Columbia Borough, Mountville Borough, East Hempfield Township, West Hempfield Township, and Manor Township in Lancaster County, Pennsylvania.
+Meet Brad Chip in & help us send Brad to the State House.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $10 $25 $50 $100 $250 Other Amount Or make it monthly ➔ Brad’s Priorities for Lancaster County.
+Public Education Fair funding for our public schools & lower property taxes for homeowners.
+Read more Affordable Housing Quality housing that Lancaster County families can actually afford.
+Read more Health Care Single-payer healthcare for PA and lower insurance & prescription costs.
+Read more Selected Endorsements.
+Governor Josh Shapiro Governor of Pennsylvania Sen.
+Bernie Sanders U.S.
+Senator Speaker Joanna McClinton PA Speaker of the House Rep.
+Izzy Smith-Wade-El PA House of Representatives HD-49 Rep.
+Malcolm Kenyatta PA House of Representatives HD-181 and Vice Chair of the DNC Rep.
+Nikki Rivera PA House of Representatives HD-96 Sen.
+James Malone PA Senate SD-36 Alice Yoder Lancaster County Commissioner Bob Johnson East Hempfield Supervisor Carly Abbott East Hempfield Township Supervisor Charles Leader Columbia School Board President Darren Landis East Hempfield Township Supervisor Erin Small Hempfield School Board Director Ethan Byers Columbia Borough Councilperson Jeanne Cooper Columbia Borough Councilperson Judy Brady Hempfield School Board Director Kait Linton Hempfield School Board Director Kaleb Best Hempfield School Board Director Megan Eshleman Hempfield School Board Director Mekkai Williams Hempfield School Board Director Mike Sturla Former State Representative HD-96 Theresa Baker Mountville Borough Council Association of Pennsylvania State College & University Faculties Endorsed Candidate API PA Endorsed Candidate Central Pennsylvania Building & Construction Trades Endorsed Candidate Columbia Democratic Committee Endorsed Candidate Eastern Atlantic States Regional Council of Carpenters Endorsed Candidate Hempfield Area Democratic Committee Endorsed Candidate IBEW Local 743 International Brotherhood of Electrical Workers Lancaster County Democratic Committee Endorsed Candidate Penn Manor Democrats Endorsed Candidate Pennsylvania ALF-CIO Endorsed Candidate Pennsylvania Professional Fire Fighters Association Endorsed Candidate Pennsylvania State Education Association - Political Action Committee for Education Endorsed Candidate Planned Parenthood PA PAC Endorsed Candidate Run for Something Endorsed Candidate SEIU Pennsylvania State Council Endorsed Candidate United Food and Commercial Workers Union Local 1776 Endorsed Candidate Working Families Party PA Endorsed Candidate United Auto Workers Region 9 Endorsed Candidate View all Endorsements Press & Media.
+Featured September 22, 2026 In the News Brad Chambers, Tom Jones lead in latest polling of Lancaster County's most competitive races this fall September 22, 2026 In the News Read more → September 22, 2026 In the News September 17, 2026 In the News Chambers and Miller are nearly even in Pennsylvania’s 41st House District September 17, 2026 In the News Read more → September 17, 2026 In the News September 4, 2026 In the News West Hempfield Township officials approve data center regulations, address QVC question September 4, 2026 In the News Read more → September 4, 2026 In the News September 3, 2026 In the News Most Lancaster County Republican candidates decline nonpartisan forum invitations September 3, 2026 In the News Read more → September 3, 2026 In the News August 13, 2026 In the News Pennsylvania House Democrats Accelerate Field Push for November August 13, 2026 In the News Read more → August 13, 2026 In the News June 22, 2026 In the News Lancaster County Democrats attract national donors in competitive Pa.
+House, Senate district races June 22, 2026 In the News Read more → June 22, 2026 In the News View fullsize HD-41 includes Columbia Borough, Mountville Borough, East Hempfield Township, West Hempfield Township, and Manor Township in Lancaster County, Pennsylvania.
 Find out if you live in HD-41 here!
+HOME VOLUNTEER PRESS Contact DONATE STATE / OF / THE / RACE PAID FOR BY BRAD FOR PA PO BOX 471 • EAST PETERSBURG, PA 17520 © BRAD FOR PA / PRIVACY POLICY

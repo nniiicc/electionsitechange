@@ -1,21 +1,158 @@
 [
-"https://facebook.com/ryanformaryland",
-"https://instagram.com/ryanformaryland",
-"https://linkedin.com/in/ryan-nawrocki-b4b614114",
-"https://ryannawrocki.com/",
-"https://ryannawrocki.com/admin",
-"https://ryannawrocki.com/contact",
-"https://ryannawrocki.com/events",
-"https://ryannawrocki.com/issues",
-"https://ryannawrocki.com/issues/bcps-inspector-general-oversight",
-"https://ryannawrocki.com/issues/inspector-general-reform",
-"https://ryannawrocki.com/issues/middle-river-fire-station",
-"https://ryannawrocki.com/meet-ryan",
-"https://ryannawrocki.com/priorities",
-"https://ryannawrocki.com/privacy-policy",
-"https://ryannawrocki.com/record",
-"https://ryannawrocki.com/terms",
-"https://secure.anedot.com/nawrocki/donate",
-"https://twitter.com/ryanformaryland",
-"https://youtube.com/channel/UCkZrn8AT1kHP4uS7uH2bhXg"
+{
+"text": "443-814-9640",
+"href": "tel:443-814-9640"
+},
+{
+"text": "About",
+"href": "https://www.ryannawrocki.com/meet-ryan"
+},
+{
+"text": "Admin",
+"href": "https://www.ryannawrocki.com/admin"
+},
+{
+"text": "All Updates",
+"href": "https://www.ryannawrocki.com/issues"
+},
+{
+"text": "Contact",
+"href": "https://www.ryannawrocki.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/nawrocki/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/nawrocki/donate"
+},
+{
+"text": "Events",
+"href": "https://www.ryannawrocki.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ryanformaryland"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ryannawrocki.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.ryannawrocki.com/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/ryanformaryland"
+},
+{
+"text": "Learn More",
+"href": "https://www.ryannawrocki.com/meet-ryan"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/ryan-nawrocki-b4b614114/"
+},
+{
+"text": "Meet Ryan",
+"href": "https://www.ryannawrocki.com/meet-ryan"
+},
+{
+"text": "News",
+"href": "https://www.ryannawrocki.com/issues"
+},
+{
+"text": "Priorities",
+"href": "https://www.ryannawrocki.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ryannawrocki.com/privacy-policy"
+},
+{
+"text": "See All Priorities",
+"href": "https://www.ryannawrocki.com/priorities"
+},
+{
+"text": "See the Record",
+"href": "https://www.ryannawrocki.com/record"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.ryannawrocki.com/terms"
+},
+{
+"text": "Updates",
+"href": "https://www.ryannawrocki.com/issues"
+},
+{
+"text": "X",
+"href": "https://twitter.com/ryanformaryland"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UCkZrn8AT1kHP4uS7uH2bhXg"
+},
+{
+"text": "[image: A Baltimore County public school classroom]Government AccountabilityPut Baltimore County's schools under the watchdog's eye.A $2.49 billion school budget deserves real, independent oversight. Our bipartisan bill lets the County's Inspector General follow those dollars to the classroom.Read more",
+"href": "https://www.ryannawrocki.com/issues/bcps-inspector-general-oversight"
+},
+{
+"text": "[image: A volunteer fire engine in its station bay]Public Safety & Local WinsA new home for Middle River's volunteer firefighters.$9 million in federal funding will replace the aging Middle River Volunteer Fire & Rescue station with the modern facility our first responders have earned.Read more",
+"href": "https://www.ryannawrocki.com/issues/middle-river-fire-station"
+},
+{
+"text": "[image: Ryan Nawrocki — State Delegate]",
+"href": "https://www.ryannawrocki.com/"
+},
+{
+"text": "[image: The Maryland State House in Annapolis]Government AccountabilityA statewide watchdog for Maryland taxpayers.My bill creates an independent, statewide Office of the Inspector General — with real subpoena power to root out waste, fraud, and abuse of your tax dollars.Read more",
+"href": "https://www.ryannawrocki.com/issues/inspector-general-reform"
+},
+{
+"text": "[image]01Lowering the cost of living.Families across District 7A are stretched thin by rising prices, taxes, and fees.Read more",
+"href": "https://www.ryannawrocki.com/priorities#lowering-the-cost-of-living"
+},
+{
+"text": "[image]02Affordable & reliable energy.Marylanders shouldn't have to choose between paying the BGE bill and putting food on the table.Read more",
+"href": "https://www.ryannawrocki.com/priorities#affordable-reliable-energy"
+},
+{
+"text": "[image]03Safe streets & strong public safety.Public safety is the foundation of everything else.Read more",
+"href": "https://www.ryannawrocki.com/priorities#safe-streets-public-safety"
+},
+{
+"text": "[image]04Strong schools & opportunity for students.Every child in District 7A deserves a school that prepares them for life — whether that's a four-year college, a trade, a career, or the military.Read more",
+"href": "https://www.ryannawrocki.com/priorities#strong-schools-opportunity"
+},
+{
+"text": "[image]05Standing with first responders & volunteer fire/EMS.Ryan is committed to making sure that every firefighter, EMS personnel, and law enforcement officer has the funding, recruitment support, and recognition they've earned..Read more",
+"href": "https://www.ryannawrocki.com/priorities#first-responders-volunteer-fire-ems"
+},
+{
+"text": "[image]06Growing the local economy.As a small business owner, Ryan knows firsthand the importance of an effective local economy.Read more",
+"href": "https://www.ryannawrocki.com/priorities#growing-the-local-economy"
+},
+{
+"text": "[image]07Accountable, transparent government.Government works for the people — not the other way around.Read more",
+"href": "https://www.ryannawrocki.com/priorities#accountable-transparent-government"
+},
+{
+"text": "[image]08Election integrity.Every Marylander deserves an election system they can trust.Read more",
+"href": "https://www.ryannawrocki.com/priorities#election-integrity"
+},
+{
+"text": "[image]09Championing Maryland's agriculture.Ryan fights to protect farmers under Maryland's burdensome regulatory environment.Read more",
+"href": "https://www.ryannawrocki.com/priorities#championing-marylands-agriculture"
+},
+{
+"text": "[image]10Opposing overdevelopment.Baltimore County is known for its wide variety of rural, suburban, and urban communities.Read more",
+"href": "https://www.ryannawrocki.com/priorities#protecting-from-overdevelopment"
+},
+{
+"text": "ryan@ryannawrocki.com",
+"href": "mailto:ryan@ryannawrocki.com"
+}
 ]

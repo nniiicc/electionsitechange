@@ -1,29 +1,158 @@
 [
-"https://apps.arizona.vote/electioninfo/Election/69",
-"https://azsos.gov/",
-"https://ballotpedia.org/",
-"https://dashboard.twitch.tv/u/votedorland/home",
-"https://facebook.com/profile.php?id=61591242647248",
-"https://fec.gov/help-candidates-and-committees/registering-candidate/house-senate-president-candidate-registration",
-"https://instagram.com/votedorland",
-"https://vote411.org/",
-"https://votetucson.org/",
-"https://votetucson.org/about",
-"https://votetucson.org/contact",
-"https://votetucson.org/dont-take-my-word-for-it",
-"https://votetucson.org/faq",
-"https://votetucson.org/help-wanted",
-"https://votetucson.org/our-ai-policy",
-"https://votetucson.org/press",
-"https://votetucson.org/privacy-policy",
-"https://votetucson.org/spend-your-money",
-"https://votetucson.org/the-ledger",
-"https://votetucson.org/the-platform",
-"https://votetucson.org/the-platform/affordability",
-"https://votetucson.org/the-platform/ai-epidemic",
-"https://votetucson.org/the-platform/anti-corruption",
-"https://votetucson.org/the-platform/one-country",
-"https://votetucson.org/why-you-might-pick-me",
-"https://votetucson.org/write_me_in",
-"https://youtube.com/@VoteDorland"
+{
+"text": "AZ Secretary of State",
+"href": "https://azsos.gov"
+},
+{
+"text": "About",
+"href": "https://www.votetucson.org/about/"
+},
+{
+"text": "Ballotpedia Sample Ballot",
+"href": "https://www.ballotpedia.org"
+},
+{
+"text": "Better things to do with your money!",
+"href": "https://www.votetucson.org/spend-your-money/"
+},
+{
+"text": "Caring",
+"href": "https://www.votetucson.org/the-platform/affordability/"
+},
+{
+"text": "Connect With Us",
+"href": "https://www.votetucson.org/contact/"
+},
+{
+"text": "Contact",
+"href": "https://www.votetucson.org/contact/"
+},
+{
+"text": "Critical Thinking/Common Sense",
+"href": "https://www.votetucson.org/the-platform/ai-epidemic/"
+},
+{
+"text": "Don't Make Things Worse",
+"href": "https://www.votetucson.org/the-platform/one-country/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61591242647248"
+},
+{
+"text": "Federal Election Commission: House, Senate, President Candidate Registration",
+"href": "https://fec.gov/help-candidates-and-committees/registering-candidate/house-senate-president-candidate-registration/"
+},
+{
+"text": "Frequently Asked Questions",
+"href": "https://www.votetucson.org/faq/"
+},
+{
+"text": "Help Wanted",
+"href": "https://www.votetucson.org/help-wanted/"
+},
+{
+"text": "Help Wanted (Yes, Really) →",
+"href": "https://www.votetucson.org/help-wanted/"
+},
+{
+"text": "Home",
+"href": "https://www.votetucson.org/"
+},
+{
+"text": "Honesty (Even When It Costs Me)",
+"href": "https://www.votetucson.org/the-platform/anti-corruption/"
+},
+{
+"text": "How To Write Me In",
+"href": "https://www.votetucson.org/write_me_in/"
+},
+{
+"text": "How to Write Me In →",
+"href": "https://www.votetucson.org/write_me_in/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/votedorland/"
+},
+{
+"text": "I’m on it",
+"href": "https://apps.arizona.vote/electioninfo/Election/69"
+},
+{
+"text": "No Party. On Purpose!",
+"href": "https://votetucson.org"
+},
+{
+"text": "Our AI Policy",
+"href": "https://www.votetucson.org/our-ai-policy/"
+},
+{
+"text": "Press Release",
+"href": "https://www.votetucson.org/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votetucson.org/privacy-policy/"
+},
+{
+"text": "Read the full AI plank →",
+"href": "https://www.votetucson.org/the-platform/ai-epidemic/"
+},
+{
+"text": "Read the whole messy résumé →",
+"href": "https://www.votetucson.org/why-you-might-pick-me/"
+},
+{
+"text": "The Ledger",
+"href": "https://www.votetucson.org/the-ledger/"
+},
+{
+"text": "The Platform",
+"href": "https://www.votetucson.org/the-platform/"
+},
+{
+"text": "Twitch",
+"href": "https://dashboard.twitch.tv/u/votedorland/home"
+},
+{
+"text": "Vote411 (League of Women Voters)",
+"href": "https://www.vote411.org"
+},
+{
+"text": "Want to Contribute?",
+"href": "https://www.votetucson.org/spend-your-money/"
+},
+{
+"text": "Why Me?",
+"href": "https://www.votetucson.org/why-you-might-pick-me/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@VoteDorland"
+},
+{
+"text": "[image: A cluster of large pale-yellow flowers in bloom on a low desert cactus]",
+"href": "https://www.votetucson.org/the-platform/affordability/"
+},
+{
+"text": "[image: A great horned owl perched on a power line above desert trees at dusk]",
+"href": "https://www.votetucson.org/the-platform/ai-epidemic/"
+},
+{
+"text": "[image: The South Main Market in Tucson, a small adobe corner store with a hand-painted sign reading Groceries above a rusted metal awning]",
+"href": "https://www.votetucson.org/the-platform/one-country/"
+},
+{
+"text": "[image: Vote Dorland campaign logo. A cartoon penguin wearing an Arizona state flag on its chest, standing in front of the United States Capitol dome and a saguaro cactus, against a United States flag background]",
+"href": "https://www.votetucson.org"
+},
+{
+"text": "[image: statue of a coyote howling]",
+"href": "https://www.votetucson.org/the-platform/anti-corruption/"
+},
+{
+"text": "see the actual state documents",
+"href": "https://www.votetucson.org/dont-take-my-word-for-it/"
+}
 ]

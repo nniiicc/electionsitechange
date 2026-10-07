@@ -1,6 +1,5 @@
-Peter K.
-Elverum, candidate for Montana House District 82
-My name is Pete Elverum, an attorney and Army veteran, and I am proud to be running as a Democrat for House District 82 in Helena and the East Helena Valley.
+Pete Elverum for Montana HD 82 Home About Issues Contact DONATE About Pete Peter K.
+Elverum, candidate for Montana House District 82 My name is Pete Elverum, an attorney and Army veteran, and I am proud to be running as a Democrat for House District 82 in Helena and the East Helena Valley.
 I believe voters deserve leaders who understand the challenges they face and who are committed to fighting for them.
 My parents were schoolteachers who instilled in me the value of hard work and serving a purpose greater than myself.
 Those values continue to guide my life.
@@ -30,3 +29,9 @@ We are thankful each day to call this community home.
 I have dedicated my life to serving our nation, this community and fighting for what I believe in.
 I look forward to continuing that fight by representing HD 82 in the Montana Legislature.
 I would be grateful for your support.
+Pete Elverum for Montana HD 82 Ryan Cooney – Treasurer Paid for by Pete Elverum for HD 82 – Democrat P.O.
+Box 2033 Helena, MT 59624 PeteForMontana@gmail.com (406) 570-3755 Pete Elverum is a Major in the Army National Guard.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Designed with WordPress Home About Issues Contact Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

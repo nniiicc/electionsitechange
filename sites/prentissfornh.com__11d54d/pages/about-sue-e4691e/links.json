@@ -1,21 +1,90 @@
 [
-"https://aanp.org/advocacy/new-hampshire",
-"https://ambulance.org/2024/03/15/2024-vanguard-award-winners-announced",
-"https://facebook.com/SuePrentissforNH",
-"https://instagram.com/sueprentissfornh",
-"https://prentissfornh.com/",
-"https://prentissfornh.com/2022-priorities",
-"https://prentissfornh.com/about-sue",
-"https://prentissfornh.com/about-sue/video-meet-sue",
-"https://prentissfornh.com/contact",
-"https://prentissfornh.com/district-5",
-"https://prentissfornh.com/endorsements-2024",
-"https://prentissfornh.com/groups",
-"https://prentissfornh.com/members",
-"https://prentissfornh.com/news",
-"https://prentissfornh.com/news/letters-editor",
-"https://prentissfornh.com/news/newsletters",
-"https://prentissfornh.com/sue-in-the-news-2026",
-"https://secure.actblue.com/donate/friends-of-sue-prentiss-for-nh-senate-1",
-"https://x.com/PrentissSuzanne"
+{
+"text": "ABOUT",
+"href": "https://www.prentissfornh.com/about-sue"
+},
+{
+"text": "CONTACT",
+"href": "https://www.prentissfornh.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-sue-prentiss-for-nh-senate-1"
+},
+{
+"text": "District 5",
+"href": "https://www.prentissfornh.com/district-5"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.prentissfornh.com/endorsements-2024"
+},
+{
+"text": "Groups",
+"href": "https://www.prentissfornh.com/groups"
+},
+{
+"text": "Letters to the Editor",
+"href": "https://www.prentissfornh.com/news/letters-editor"
+},
+{
+"text": "Members",
+"href": "https://www.prentissfornh.com/members"
+},
+{
+"text": "NEWS",
+"href": "https://www.prentissfornh.com/news"
+},
+{
+"text": "New Futures Legislator of the Year",
+"href": "https://ambulance.org/2024/03/15/2024-vanguard-award-winners-announced/"
+},
+{
+"text": "Newsletters",
+"href": "https://www.prentissfornh.com/news/newsletters"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.prentissfornh.com/2022-priorities"
+},
+{
+"text": "Peter Hoe Burling Legislative Achievement Award",
+"href": "https://ambulance.org/2024/03/15/2024-vanguard-award-winners-announced/"
+},
+{
+"text": "Saint Michael's College Alumna of the Year",
+"href": "https://ambulance.org/2024/03/15/2024-vanguard-award-winners-announced/"
+},
+{
+"text": "Sue in the News",
+"href": "https://www.prentissfornh.com/sue-in-the-news-2026"
+},
+{
+"text": "The Advocate State Award for Excellence",
+"href": "https://www.aanp.org/advocacy/new-hampshire"
+},
+{
+"text": "Vanguard Award",
+"href": "https://ambulance.org/2024/03/15/2024-vanguard-award-winners-announced/"
+},
+{
+"text": "Video: Meet Sue",
+"href": "https://www.prentissfornh.com/about-sue/video-meet-sue"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SuePrentissforNH"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/sueprentissfornh/"
+},
+{
+"text": "[image: Sue Prentiss for State Senate logo]",
+"href": "https://www.prentissfornh.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/PrentissSuzanne"
+}
 ]

@@ -1,4 +1,6 @@
-Our children are our future, and as Chairman of the Education & Workforce Subcommittee on Early Childhood, Elementary & Secondary Education, I will continue to fight for school choice in Congress as a means to expand education freedom and opportunity for every student.
+Skip to content Facebook-f Twitter Youtube Meet Aaron The New 4th District Donate News & Updates Meet Aaron The New 4th District Donate News & Updates REP.
+AARON BEAN: My School Choice Bill Will Empower Children And Families January 24, 2024 Daily Caller Our children are our future, and as Chairman of the Education & Workforce Subcommittee on Early Childhood, Elementary & Secondary Education, I will continue to fight for school choice in Congress as a means to expand education freedom and opportunity for every student.
 This is why I am a co-sponsor of the Educational Choice for Children Act (ECCA), a legislative initiative that will help parents of up to two million students across the country access a school or education service that best meets their child’s needs.
 The ECCA stands as a symbol of hope for many families, who would receive scholarships through private donations that could be used for tuition, tutoring, technology or special needs services.
 These scholarships have the power to bridge the gap and level the playing field for students who otherwise would be left behind.
+Read More Share This Facebook-f Twitter Youtube Paid for by Aaron Bean for Congress Media Inquiries: Sarah Bascom | Kelsey Deasy Copyright # Aaron Bean for Congress

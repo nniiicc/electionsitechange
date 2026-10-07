@@ -1,9 +1,9 @@
 {
  "description": "Explore volunteer opportunities with Crowe For Georgia. Get involved in campaign support and make a difference in your community!",
  "final_url": "https://croweforgeorgia.com/volunteer",
- "paid_for_by": "Paid for by Crowe For Georgia (678) 614-1940 Copyright \u00a9 2019 Crowe For Georgia - All Rights Reserved",
+ "fingerprint": "9b8e9e119612f3df99ac2851b55cb959148c7b9d",
+ "format": 3,
+ "paid_for_by": "Paid for by Crowe For Georgia (678) 614-1940 Copyright © # Crowe For Georgia - All Rights Reserved",
  "title": "Volunteer",
- "years_mentioned": [
-  "2019"
- ]
+ "years_mentioned": []
 }

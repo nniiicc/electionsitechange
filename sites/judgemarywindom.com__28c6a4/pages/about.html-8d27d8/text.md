@@ -1,4 +1,4 @@
-Mary B.
+Home About Contact In the News Photos from the Campaign Trail Donate × Home About Contact In the News Photos from the Campaign Trail Donate Mary B.
 Windom was elected to the Alabama Court of Criminal Appeals in 2008, became the Court's Presiding Judge in 2012, and was re-elected to the Court in 2014.
 Judge Windom was born in Mobile and was raised in Bay Minette in a family dedicated to public service.
 Her late mother, Ina Becker, was the former Tax Assessor of Baldwin County.
@@ -26,3 +26,4 @@ They have two sons, Robert and Thomas.
 Both are attorneys: Robert is legal counsel at Apple, Inc., in Los Angeles, and Thomas is an Assistant United States Attorney in Maryland.
 They have three granddaughters and one grandson.
 The Windoms are members of the Church of Christ.
+Donate Court of Criminal Appeals PD BY THE COMMITTEE TO RE-ELECT MARY WINDOM, PO BOX 3831, MONTGOMERY, AL 36109

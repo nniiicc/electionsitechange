@@ -1,20 +1,17 @@
-As hate incidents against Asian Americans continue to rise nationwide, Representative Jennifer Gong-Gershowitz of Illinois said that a new bill, which would be the first in the nation to require Asian American history to be taught in public schools, will help to address “harmful stereotypes” and “defeat ignorance.”
-“As a student of the Illinois public schools, I knew nothing about the Chinese Exclusion Acts or my own family’s history until I was in law school,” Gong-Gerhowitz, who co-sponsored the bill, told CBSN anchor Elaine Quijano on Thursday.
-“This bill is seeking to change that to ensure that Asian American stories are included in the classroom so that what fills that gap are not harmful stereotypes.”
-The legislation, called the Teaching Equitable Asian-American History Act (TEAACH), would require a course focusing on the Asian American experience, both nationally and particularly in the Midwest, to be taught in public schools starting in the 2022-2023 school year.
+P.O.
+Box 3042 Glenview, Illinois 60025 Email: Jen@JenGGforRep.com Home About Jen Issues News Take Action Donate Volunteer Yard Sign Contact Illinois lawmaker looking to “defeat ignorance” with the nation’s first mandate on AAPI history in schools Home Illinois lawmaker looking to “defeat ignorance” with the nation’s first mandate on AAPI history in schools Illinois lawmaker looking to “defeat ignorance” with the nation’s first mandate on AAPI history in schools staff June 3, 2021 As hate incidents against Asian Americans continue to rise nationwide, Representative Jennifer Gong-Gershowitz of Illinois said that a new bill, which would be the first in the nation to require Asian American history to be taught in public schools, will help to address “harmful stereotypes” and “defeat ignorance.” “As a student of the Illinois public schools, I knew nothing about the Chinese Exclusion Acts or my own family’s history until I was in law school,” Gong-Gerhowitz, who co-sponsored the bill, told CBSN anchor Elaine Quijano on Thursday.
+“This bill is seeking to change that to ensure that Asian American stories are included in the classroom so that what fills that gap are not harmful stereotypes.” The legislation, called the Teaching Equitable Asian-American History Act (TEAACH), would require a course focusing on the Asian American experience, both nationally and particularly in the Midwest, to be taught in public schools starting in the 2022-2023 school year.
 The bill comes as legislators throughout the country debate the presence of racial courses being taught in schools.
 Nearly a dozen states have introduced legal restrictions for educators that would prevent critical race theory from being taught in schools, citing that discrimination and division are taught in such courses.
-But Gong-Gershowitz — who is a third-generation Chinese American — said that teaching Asian American history in schools is necessary for a “better understanding of who we are because we cannot do better unless we know better.”
-“Asian American history is American history,” the legislator said.
+But Gong-Gershowitz — who is a third-generation Chinese American — said that teaching Asian American history in schools is necessary for a “better understanding of who we are because we cannot do better unless we know better.” “Asian American history is American history,” the legislator said.
 “We are not asking to include something that isn’t already included in history.
 We already teach history and social studies in our classrooms.
-This is about painting a complete picture about those who have contributed to what we all know as American history.”
-She said that despite these debates, her bill has largely been well-received in her state.
+This is about painting a complete picture about those who have contributed to what we all know as American history.” She said that despite these debates, her bill has largely been well-received in her state.
 “I was incredibly proud to have received broad bi-partisan support for this bill, which I think says a lot about the way Illinois has looked at what it means to be inclusive in curriculum,” Gong-Gershowitz said.
-“This was not a partisan issue in Illinois.”
-And as the country saw increased acts of violence against Asians this year, she emphasized the need for such a bill.
+“This was not a partisan issue in Illinois.” And as the country saw increased acts of violence against Asians this year, she emphasized the need for such a bill.
 The Center for the Study of Hate and Extremism found anti-Asian hate crimes rose 149% in 2019 to 2020.
 “We felt it was incredibly important to highlight not only the contributions and achievements of Asian Americans, but also to have a larger conversation and reckoning on what is also part of the Asian American experience,” she said.
 The bill is likely to be signed by Illinois Governor J.B.
 Pritzker after unanimously passing last week in the Illinois Senate and earlier in the state House.
-Source: https://www.cbsnews.com/news/jennifer-gong-gershowitz-aapi-history-teaching/
+Source: https://www.cbsnews.com/news/jennifer-gong-gershowitz-aapi-history-teaching/ Latest News Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Socials Recent Posts Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Contact Info Jen@JenGGforRep.com P.O.
+Box 3042 Glenview, Illinois 60025 Take Action Donate Volunteer Yard Sign 2022 Paid for by Friends for Jennifer All rights reserved.

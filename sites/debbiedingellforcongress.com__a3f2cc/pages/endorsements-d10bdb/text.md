@@ -1,10 +1,1 @@
-Skip to content
-Endorse Debbie
-I am honored to work alongside the following organizations and leaders, and I am grateful for their support
-2026 Endorsements
-2024 Endorsements
-Endorse Debbie Dingell For Congress
-Stand with Debbie
-Go to Top
-View this profile on Instagram
-Debbie Dingell (@debbiedingell) • Instagram photos and videos
+Skip to content Debbie Dingell for Congress Working, Listening, and Delivering Meet Debbie Issues Endorsements The District Get Involved 2026 Request A Yard Sign Volunteer Store Facebook page opens in new window X page opens in new window DONATE Meet Debbie Issues Endorsements The District Get Involved 2026 Request A Yard Sign Volunteer Store Endorse Debbie I am honored to work alongside the following organizations and leaders, and I am grateful for their support 2026 Endorsements 2024 Endorsements Endorse Debbie Dingell For Congress Name * First Last Email * Phone * Position/Title Organization/Company Endorsement Satement Stand with Debbie CLICK HERE TO JOIN THE TEAM View this profile on Instagram Debbie Dingell (@ debbiedingell ) • Instagram photos and videos Debbie Dingell Tweets by DebDingell $10 $25 $50 $100 DONATE Meet Debbie Issues Endorsements The District Get Involved reach us at info@debbiedingellforcongress.com Paid for by Debbie Dingell for Congress Go to Top Join the Team! ×

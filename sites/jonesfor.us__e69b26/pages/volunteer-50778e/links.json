@@ -1,14 +1,54 @@
 [
-"https://facebook.com/Todd-Jones-for-State-House-894459757341546?fref=ts",
-"https://irp.cdn-website.com/d0057bf8/files/uploaded/HD-251.pdf",
-"https://jonesfor.us/",
-"https://jonesfor.us/about",
-"https://jonesfor.us/blog",
-"https://jonesfor.us/contact",
-"https://jonesfor.us/donate",
-"https://jonesfor.us/issues",
-"https://jonesfor.us/volunteer",
-"https://legis.ga.gov/find-my-legislator",
-"https://mvp.sos.ga.gov/MVP/mvp.do",
-"https://registertovote.sos.ga.gov/GAOLVR/welcome.do"
+{
+"text": "ABOUT",
+"href": "https://jonesfor.us/about"
+},
+{
+"text": "CONTACT",
+"href": "https://jonesfor.us/contact"
+},
+{
+"text": "DONATE",
+"href": "https://jonesfor.us/donate"
+},
+{
+"text": "DOWNLOAD A DISTRICT MAP",
+"href": "https://irp.cdn-website.com/d0057bf8/files/uploaded/HD-251.pdf"
+},
+{
+"text": "HERE",
+"href": "https://www.legis.ga.gov/find-my-legislator"
+},
+{
+"text": "HERE.",
+"href": "https://registertovote.sos.ga.gov/GAOLVR/welcome.do#no-back-button"
+},
+{
+"text": "HERE.",
+"href": "https://www.mvp.sos.ga.gov/MVP/mvp.do"
+},
+{
+"text": "HOME",
+"href": "https://jonesfor.us/"
+},
+{
+"text": "ISSUES",
+"href": "https://jonesfor.us/issues"
+},
+{
+"text": "NEWS",
+"href": "https://jonesfor.us/blog"
+},
+{
+"text": "THE DISTRICT",
+"href": "https://jonesfor.us/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://jonesfor.us/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Todd-Jones-for-State-House-894459757341546/?fref=ts"
+}
 ]

@@ -1,6 +1,5 @@
-Meet Ron
-Our Kansas Champion
-Congressman Ron Estes is a fifth-generation Kansan representing the state’s Fourth District in the U.S.
+Our Kansas Champion.
+Meet Ron Issues News Contact Volunteer Contribute Meet Ron Issues News Contact Volunteer Meet Ron Our Kansas Champion Congressman Ron Estes is a fifth-generation Kansan representing the state’s Fourth District in the U.S.
 House of Representatives.
 A champion for tax reform, free and fair trade, retirement security and lowering the price of health care, he serves on the influential House Committee on Ways and Means.
 Since being elected to Congress, Ron has proven to be a national leader.
@@ -20,3 +19,6 @@ Expanding upon his special election victory to replace former Rep.
 Mike Pompeo, Ron was the only Congressional candidate in Kansas who carried every county in his district on his way to a decisive re-election in 2018.
 As a member of the National Republican Congressional Committee Executive Board, Ron has remained a proven conservative champion who has also helped elect other Republicans up and down the ballot.
 Ron, his wife Susan, and their three children live in Wichita where he returns home each week.
+Meet Ron Issues News Contact Volunteer View the Media Gallery Subscribe to our newsletter Email Thank you for contacting us.We will get back to you as soon as possible.
+Oops, there was an error sending your message.Please try again later.
+Paid for by Ron Estes for Congress

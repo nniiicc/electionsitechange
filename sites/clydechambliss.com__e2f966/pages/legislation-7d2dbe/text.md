@@ -1,87 +1,47 @@
-Bills that were carried by Senator Chambliss in the Alabama Senate, passed both the Senate and House, and signed into law.
-2023 Legislative Session (1st year of third quadrennium)
-Vote Counting Machines – prohibits a vote counting machine from being connected to the internet or cellular infrastructure (Act 2023-320)
-Paper Ballots – requires all elections to utilize paper ballots so that an audit trail is always part of the process (Act 2023-131)
-Protection-from-abuse – those seeking protection from abuse by the courts will not have to pay any fees (Act 2023-321)
-National Guard - tuition reimbursed adjusted to not penalize top academic students (Act 2023-528)
-ALEA retirement – consolidates seven retirement categories and provides for competitive retirement benefits for State Troopers (Act 2023-73)
-National Guard - clarify that Guardsmen death benefit extends to spouse if killed while on active state duty (Act 2023-350)
-Shoplifting - creates a new section in the code that provides for prosecution and penalties for retail theft and organized retail theft.
-(Act 2023-531)
-Joint Transportation Committee - provides for the election and rotation of the Chair and Vice-Chair, and provides for accountability reporting from ALDOT (Act 2023-534)
-Design Professional Liability - a design professional that does not carry professional liability insurance must disclose this in writing to the client before entering into a contract.
-(Act 2023-477)
-Dam Safety - provides for voluntary participation in a dam safety program for counties, cities, towns, and private entities (Act 2023-414)
-Qualification Based Selection (QBS) - Selection of a design professional shall be based on qualifications first, and then a fee negotiated.
-(Act 2023-547)
-Mandatory Insurance Law - eliminates the state requirement for a vehicle to be registered and have an active tag if it is inoperable or in storage (Act 2023-479)
-Parole/Probation (Starnes) allows a probation specialist to investigate and report findings to probation court (Act 2023-364)
-Re-write Alabama Adoption Law (Shavers) a total rewrite of the Alabama Adoption Code by the Alabama Law Institute (Act 2023-92)
-Redevelopment Districts (Lawrence) provides for those that own property in a district to also be seated on the district board (Act 2023-310)
-License Plate for Operation Inherent Resolve (Starnes) provides for the creation of a license plate honoring those that served our country in this action (Act 2023-516)
-Historical Tax Credit (Clarke) extend the program, provide for partial elimination of the backlog, add criteria for the selection process (Act 2023-522)
-2022 Legislative Session (4th year of second quadrennium
-License Plates - county licensing official allowed to contract with a third party with county commission approval, materials provided for print-on-demand validation decals (Act 2022-356)
-Federal Aid Highway Finance Authority - date for payment of principal and interest, further provided (Act 2022-122)
-DOC and Paroles - Study Commission on Interagency Cooperation and Collaboration on the Rehabilitation and Reintegration of Formerly Incarcerated Individuals, to extend dissolution date of the commission and provide for expenses (Act 2022-409)
-Community development districts - entertainment districts, establishment authorized under certain conditions (Act 2022-50)
-Prattville and Elmore County - taxation, distribution of certain sales and use tax proceeds revised, Elmore County Commission to remit certain lodging tax proceeds to the City of Prattville (Act 2022-49)
-Autauga County Education - school district ad valorem tax in Central and Daniel Pratt school zones, use for public school purposes in the district, Constitutional Amendment (Act 2022-287)
-2021 Legislative Session (3rd year of second quadrennium)
-Obligation Transparency – requires that any obligation of future appropriates over $10,000,000 go through the Joint Legislative Oversight Committee (Act No. 2021-536)
-Environmental Protection – allows cities to enter into an agreement with residents that are financially unable to repair sewer laterals that are contributing to raw sewage overflows into yards, ditches, stream, creeks, and rivers (Act No. 2021-347)
-Prisoner Rehabilitation – requires the Department of Corrections and Pardons and Paroles to integrate their efforts for rehabilitation and reintegration and establishes an accountability group to review and make recommendations.
-(Act No. 2021-478)
-Prisoner Education – allows for consideration for parole up to 12 months early if inmate completes coursework at Ingram State Technical College AND passes the national certification test.
-Examples include HVAC, welding, plumbing, carpentry, and more.
-(Act No. 2021-477)
-Design Professionals – provides for design professionals to be fully responsible for their actions/inactions and project owners to be fully responsible for their actions/inactions.
-(Act No. 2021-318)
-Left Lane Driving – requires the Department of Transportation to post signs on interstate highways advising that it is unlawful to drive in the left lane unless you are passing.
-(Act No. 2021-520)
-Social Workers Licensure Board – corrects issues brought forward by the Examiners of Public accounts and through the Alabama Joint Sunset Committee of which Senator Chambliss Chaired
-Prison Oversight – requires that the Department of Corrections to make quarterly reports to the Joint Legislative Prison Oversight Committee and to further provide for regular meetings (Act No. 2021-480)
-2020 Legislative Session (2nd year of second quadrennium)*
-*Covid-19 Shortened Session
-General Fund Budget Reserve Fund - creates a reserve fund for the General Fund and requires that 20% of the end of year balance be transferred to the fund; sets protections for withdrawal.
-(Act No. 2020-115)
-Prohibit Occupational Taxes - Prohibits a municipality from imposing an occupational tax not already in effect by February 1, 2020, unless authorized by local legislation.
-(Act No. 2020-14)
-2019 Legislative Session (1st year of second quadrennium)
-Abortion ban - makes an abortion procedure a felony for a physician unless the abortion is necessary to prevent serious health risks to the mother (HB314 Collins) (Act No. 2019-189)
-Rebuild Alabama Plan - levies additional excise tax on gasoline and diesel fuel to provide greater resources for state, county, municipal, and Alabama State Port Authority transportation infrastructure funds (HB2 Poole) (Act No. 2019-1)
-Permanent Joint Transportation Committee - re-organizes and strengthens the Committee to increase accountability for ALDOT operations.
-(SB35) (HB1 Poole) (Act No. 2019-2)
-Jessi’s Law - parental rights automatically terminated for those convicted of rape/incest (SB34) (HB48 Dismukes) (Act No. 2019-512)
-Joel’s Law - expands notification system for escaped convicts (SB92) (Act No. 2019-485)
-Voyeurism (Up-skirting) - criminalizes the act of recording images or videos of private body parts of another person without that person’s consent (SB26) (Act No. 2019-481)
-Left Lane Driving Bill (Anti-Road Rage Act) - requires motor vehicle operators to drive in the right lane unless passing another vehicle (HB212 Pettus) (Act No. 2019-515)
-Provisional teaching certificates - extends the length of time for which an emergency certificate is valid from one year to two years (SB304) (HB506 Estes) (Act No. 2019-364)
-Governor’s Mansion Authority - composition of Authority membership; creates an executive committee appointed by the Governor and provides further for expenditures from the Fund (SB317) (Act No. 2019-503)
-Mandatory liability insurance - reduces look-back period to two registration periods, eliminates four-month suspension when fines are paid and insurance is in hand, allows voluntary surrender of vehicle registration/license plate (SB157) (HB302 Rowe) (Act.
-No 2019-446)
-Municipal election registration - requires voters to register for municipal elections in the same time frame as registering for county and state elections (HB16) (Act No.2019-358)
-Landscape architecture - increases maximum fine from $250 to $2500 for violations against a licensee and increases license application fee (HB241 Lipscomb) (Act No. 2019-186)
-2018 Legislative Session (4th year of first quadrennium)
-Juvenile sex offenders - notifications provided to schools of low-risk sex offenders expanded (SB26) (Act No. 2018-528)
-Drivers licenses - restricted driver’s license based on hardship (SB55) (Act No. 2018-289)
-Cost of living for state employees increase (SB185) (Act No. 2018-352)
-Licensing of professional engineers and land surveyors (SB316) (Act No. 2018-550)
-Court reporters - salaries tied to pay scale of AL personnel Dept, cost-of-living and merit raises (HB106 Lee) (SB186 Chambliss) (Act No. 2018-148)
-2017 Legislative Session (3rd year of first quadrennium)
-Board of Nursing Sunset Law (HB105 Martin) (Act No. 2017-46)
-Motor vehicle loan authorization and regulations (HB420 Martin) (Act No. 2017-392)
-Federal fund use for farm to school products (HB53 Beech) (Act No. 2017-421)
-Restrictions on license issuance to persons under 18 (HB29 Holmes M) (SB23 Chambliss) (Act No. 2017-358)
-Dept. of Revenue to pursue options to reduce ID theft (HB87 McMillan) (Act No. 2017-227)
-Establishment of the Wholesale to Retail Accountability Program (HB75 Johnson) (SB104 Chambliss) (Act No. 2017-294)
-2016 Legislative Session (2nd year of first quadrennium)
-Aggravated child abuse penalties for a child under age of six (SB23) (Act No. 2016-43)
-Exposure of controlled substances to children by the mother (SB372) (Act No. 2016-399)
-LEO authorized to issue traffic citations at the scene of a crash for traffic offenses (HB1 Pettus) (Act No. 2016-292)
-Road hazard definition - (SB74) (HB7) (Act No. 2016-101)
-Sewage collection regulations regarding plumbing inspections (SB290) (HB285 Weaver) (Act No. 2016-305)
-2015 Legislative Session (1st year of first quadrennium)
-County commission contracts with municipalities (SB96) (Act No. 2015-53)
-Formula alterations for unemployment compensation - (SB46) (HB19 Williams) (Act No. 2015-157)
-Qualification revisions for certified public accountants - (SB118) (Act No. 2015-163)
+Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Bills that were carried by Senator Chambliss in the Alabama Senate, passed both the Senate and House, and signed into law.
+2023 Legislative Session (1st year of third quadrennium) Vote Counting Machines – prohibits a vote counting machine from being connected to the internet or cellular infrastructure ( Act 2023-320 ) Paper Ballots – requires all elections to utilize paper ballots so that an audit trail is always part of the process ( Act 2023-131 ) Protection-from-abuse – those seeking protection from abuse by the courts will not have to pay any fees ( Act 2023-321 ) National Guard - tuition reimbursed adjusted to not penalize top academic students ( Act 2023-528 ) ALEA retirement – consolidates seven retirement categories and provides for competitive retirement benefits for State Troopers ( Act 2023-73 ) National Guard - clarify that Guardsmen death benefit extends to spouse if killed while on active state duty ( Act 2023-350 ) Shoplifting - creates a new section in the code that provides for prosecution and penalties for retail theft and organized retail theft. ( Act 2023-531 ) Joint Transportation Committee - provides for the election and rotation of the Chair and Vice-Chair, and provides for accountability reporting from ALDOT ( Act 2023-534 ) Design Professional Liability - a design professional that does not carry professional liability insurance must disclose this in writing to the client before entering into a contract. ( Act 2023-477 ) Dam Safety - provides for voluntary participation in a dam safety program for counties, cities, towns, and private entities ( Act 2023-414 ) Qualification Based Selection (QBS) - Selection of a design professional shall be based on qualifications first, and then a fee negotiated. ( Act 2023-547 ) Mandatory Insurance Law - eliminates the state requirement for a vehicle to be registered and have an active tag if it is inoperable or in storage ( Act 2023-479 ) Parole/Probation (Starnes) allows a probation specialist to investigate and report findings to probation court ( Act 2023-364 ) Re-write Alabama Adoption Law (Shavers) a total rewrite of the Alabama Adoption Code by the Alabama Law Institute ( Act 2023-92 ) Redevelopment Districts (Lawrence) provides for those that own property in a district to also be seated on the district board ( Act 2023-310 ) License Plate for Operation Inherent Resolve (Starnes) provides for the creation of a license plate honoring those that served our country in this action ( Act 2023-516 ) Historical Tax Credit (Clarke) extend the program, provide for partial elimination of the backlog, add criteria for the selection process ( Act 2023-522 ) 2022 Legislative Session (4th year of second quadrennium License Plates - county licensing official allowed to contract with a third party with county commission approval, materials provided for print-on-demand validation decals ( Act 2022-356 ) Federal Aid Highway Finance Authority - date for payment of principal and interest, further provided ( Act 2022-122 ) DOC and Paroles - Study Commission on Interagency Cooperation and Collaboration on the Rehabilitation and Reintegration of Formerly Incarcerated Individuals, to extend dissolution date of the commission and provide for expenses ( Act 2022-409 ) Community development districts - entertainment districts, establishment authorized under certain conditions ( Act 2022-50 ) Prattville and Elmore County - taxation, distribution of certain sales and use tax proceeds revised, Elmore County Commission to remit certain lodging tax proceeds to the City of Prattville ( Act 2022-49 ) Autauga County Education - school district ad valorem tax in Central and Daniel Pratt school zones, use for public school purposes in the district, Constitutional Amendment ( Act 2022-287 ) 2021 Legislative Session (3rd year of second quadrennium) Obligation Transparency – requires that any obligation of future appropriates over $10,000,000 go through the Joint Legislative Oversight Committee ( Act No.
+2021-536 ) Environmental Protection – allows cities to enter into an agreement with residents that are financially unable to repair sewer laterals that are contributing to raw sewage overflows into yards, ditches, stream, creeks, and rivers ( Act No.
+2021-347 ) Prisoner Rehabilitation – requires the Department of Corrections and Pardons and Paroles to integrate their efforts for rehabilitation and reintegration and establishes an accountability group to review and make recommendations. ( Act No.
+2021-478 ) Prisoner Education – allows for consideration for parole up to 12 months early if inmate completes coursework at Ingram State Technical College AND passes the national certification test.
+Examples include HVAC, welding, plumbing, carpentry, and more. ( Act No.
+2021-477 ) Design Professionals – provides for design professionals to be fully responsible for their actions/inactions and project owners to be fully responsible for their actions/inactions. ( Act No.
+2021-318 ) Left Lane Driving – requires the Department of Transportation to post signs on interstate highways advising that it is unlawful to drive in the left lane unless you are passing. ( Act No.
+2021-520 ) Social Workers Licensure Board – corrects issues brought forward by the Examiners of Public accounts and through the Alabama Joint Sunset Committee of which Senator Chambliss Chaired ( Act No.
+2021-315 ) Prison Oversight – requires that the Department of Corrections to make quarterly reports to the Joint Legislative Prison Oversight Committee and to further provide for regular meetings ( Act No.
+2021-480 ) 2020 Legislative Session (2nd year of second quadrennium)* * Covid-19 Shortened Session General Fund Budget Reserve Fund - creates a reserve fund for the General Fund and requires that 20% of the end of year balance be transferred to the fund; sets protections for withdrawal.
+(Act No.
+2020-115) Prohibit Occupational Taxes - Prohibits a municipality from imposing an occupational tax not already in effect by February 1, 2020, unless authorized by local legislation. ( Act No.
+2020-14 ) 2019 Legislative Session (1st year of second quadrennium) Abortion ban - makes an abortion procedure a felony for a physician unless the abortion is necessary to prevent serious health risks to the mother (HB314 Collins) (Act No.
+2019-189) Rebuild Alabama Plan - levies additional excise tax on gasoline and diesel fuel to provide greater resources for state, county, municipal, and Alabama State Port Authority transportation infrastructure funds (HB2 Poole) (Act No.
+2019-1) Permanent Joint Transportation Committee - re-organizes and strengthens the Committee to increase accountability for ALDOT operations.
+(SB35) (HB1 Poole) (Act No.
+2019-2) Jessi’s Law - parental rights automatically terminated for those convicted of rape/incest (SB34) (HB48 Dismukes) (Act No.
+2019-512) Joel’s Law - expands notification system for escaped convicts (SB92) (Act No.
+2019-485) Voyeurism (Up-skirting) - criminalizes the act of recording images or videos of private body parts of another person without that person’s consent (SB26) (Act No.
+2019-481) Left Lane Driving Bill (Anti-Road Rage Act) - requires motor vehicle operators to drive in the right lane unless passing another vehicle (HB212 Pettus) (Act No.
+2019-515) Provisional teaching certificates - extends the length of time for which an emergency certificate is valid from one year to two years (SB304) (HB506 Estes) (Act No.
+2019-364) Governor’s Mansion Authority - composition of Authority membership; creates an executive committee appointed by the Governor and provides further for expenditures from the Fund (SB317) (Act No.
+2019-503) Mandatory liability insurance - reduces look-back period to two registration periods, eliminates four-month suspension when fines are paid and insurance is in hand, allows voluntary surrender of vehicle registration/license plate (SB157) (HB302 Rowe) (Act.
+No 2019-446) Municipal election registration - requires voters to register for municipal elections in the same time frame as registering for county and state elections (HB16) (Act No.2019-358) Landscape architecture - increases maximum fine from $250 to $2500 for violations against a licensee and increases license application fee (HB241 Lipscomb) (Act No.
+2019-186) 2018 Legislative Session (4th year of first quadrennium) Juvenile sex offenders - notifications provided to schools of low-risk sex offenders expanded (SB26) (Act No.
+2018-528) Drivers licenses - restricted driver’s license based on hardship (SB55) (Act No.
+2018-289) Cost of living for state employees increase (SB185) (Act No.
+2018-352) Licensing of professional engineers and land surveyors (SB316) (Act No.
+2018-550) Court reporters - salaries tied to pay scale of AL personnel Dept, cost-of-living and merit raises (HB106 Lee) (SB186 Chambliss) (Act No.
+2018-148) 2017 Legislative Session (3rd year of first quadrennium) Board of Nursing Sunset Law (HB105 Martin) (Act No.
+2017-46) Motor vehicle loan authorization and regulations (HB420 Martin) (Act No.
+2017-392) Federal fund use for farm to school products (HB53 Beech) (Act No.
+2017-421) Restrictions on license issuance to persons under 18 (HB29 Holmes M) (SB23 Chambliss) (Act No.
+2017-358) Dept. of Revenue to pursue options to reduce ID theft (HB87 McMillan) (Act No.
+2017-227) Establishment of the Wholesale to Retail Accountability Program (HB75 Johnson) (SB104 Chambliss) (Act No.
+2017-294) 2016 Legislative Session (2nd year of first quadrennium) Aggravated child abuse penalties for a child under age of six (SB23) (Act No.
+2016-43) Exposure of controlled substances to children by the mother (SB372) (Act No.
+2016-399) LEO authorized to issue traffic citations at the scene of a crash for traffic offenses (HB1 Pettus) (Act No.
+2016-292) Road hazard definition - (SB74) (HB7) (Act No.
+2016-101) Sewage collection regulations regarding plumbing inspections (SB290) (HB285 Weaver) (Act No.
+2016-305) 2015 Legislative Session (1st year of first quadrennium) County commission contracts with municipalities (SB96) (Act No.
+2015-53) Formula alterations for unemployment compensation - (SB46) (HB19 Williams) (Act No.
+2015-157) Qualification revisions for certified public accountants - (SB118) (Act No.
+2015-163) Get Updates Thank you for signing up!
+Paid for By Clyde Chambliss Jr.
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

@@ -1,16 +1,78 @@
 [
-"http://instagram.com/",
-"http://linkedin.com/",
-"https://electjudgegobeil.com/",
-"https://electjudgegobeil.com/admissions",
-"https://electjudgegobeil.com/media-inquiries",
-"https://facebook.com/",
-"https://secure.anedot.com/georgiansforjudgegobeil/2025contributions",
-"https://secure.anedot.com/georgiansforjudgegobeil/2025contributions?amount=1000",
-"https://secure.anedot.com/georgiansforjudgegobeil/2025contributions?amount=2500",
-"https://secure.anedot.com/georgiansforjudgegobeil/2025contributions?amount=500",
-"https://secure.anedot.com/georgiansforjudgegobeil/2025contributions?amount=5000",
-"https://secure.anedot.com/georgiansforjudgegobeil/2025contributions?amount=8400",
-"https://twitter.com/",
-"https://youtube.com/"
+{
+"text": "$1000",
+"href": "https://secure.anedot.com/georgiansforjudgegobeil/2025contributions?amount=1000"
+},
+{
+"text": "$2500",
+"href": "https://secure.anedot.com/georgiansforjudgegobeil/2025contributions?amount=2500"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/georgiansforjudgegobeil/2025contributions?amount=500"
+},
+{
+"text": "$5000",
+"href": "https://secure.anedot.com/georgiansforjudgegobeil/2025contributions?amount=5000"
+},
+{
+"text": "$8400",
+"href": "https://secure.anedot.com/georgiansforjudgegobeil/2025contributions?amount=8400"
+},
+{
+"text": "APPLY NOW →",
+"href": "https://www.electjudgegobeil.com/admissions"
+},
+{
+"text": "DONATE! →",
+"href": "https://secure.anedot.com/georgiansforjudgegobeil/2025contributions"
+},
+{
+"text": "DONATE!→",
+"href": "https://secure.anedot.com/georgiansforjudgegobeil/2025contributions"
+},
+{
+"text": "Home",
+"href": "https://www.electjudgegobeil.com/"
+},
+{
+"text": "Media Inquiries",
+"href": "https://www.electjudgegobeil.com/media-inquiries"
+},
+{
+"text": "OTHER →",
+"href": "https://secure.anedot.com/georgiansforjudgegobeil/2025contributions"
+},
+{
+"text": "STAY UPDATED! →",
+"href": "https://www.electjudgegobeil.com/#SignUpForm"
+},
+{
+"text": "STAY UPDATED!→",
+"href": "https://www.electjudgegobeil.com/#SignupIpad"
+},
+{
+"text": "[image]",
+"href": "https://www.electjudgegobeil.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "http://linkedin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/"
+}
 ]

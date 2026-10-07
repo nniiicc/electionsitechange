@@ -1,18 +1,7 @@
-Endorsements
-Wyoming Education Association
-PACE
-(For the Primary Election)
-"We endorse candidates who will protect safe and quality professional working conditions for all education employees, support due process rights for all education employees, continue support for the constitutional mandate for equitable and adequate funding, and support adequate funding for K-12 and community colleges."
-WEA PACE website
-"I believe wholeheartedly that our public schools are the foundations of strong communities and strong futures.
+top of page Erickson for House District 37 Home About Why I am Running Endorsements Blog JOIN THE MOVEMENT More Use tab to navigate through the menu items.
+Donate Endorsements Wyoming Education Association PACE (For the Primary Election) "We endorse candidates who will protect safe and quality professional working conditions for all education employees, support due process rights for all education employees, continue support for the constitutional mandate for equitable and adequate funding, and support adequate funding for K-12 and community colleges." ​ WEA PACE website ​ "I believe wholeheartedly that our public schools are the foundations of strong communities and strong futures.
 Our children deserve a vibrant and well-rounded education.
-Our educators deserve respect, support, and the resources they need to help every student reach their potential."
-Betsy Erickson 7/6/2026
-Tori Feronti,
-Founder of StillGood
-Community Advocate &
-Mutual Aid Organizer
-Over the years, I've learned that the best measure of a leader isn't what they say when they're asking for your vote.
+Our educators deserve respect, support, and the resources they need to help every student reach their potential." ​ Betsy Erickson 7/6/2026 Tori Feronti, Founder of StillGood Community Advocate & Mutual Aid Organizer Over the years, I've learned that the best measure of a leader isn't what they say when they're asking for your vote.
 It's who they are long before there is a campaign, a title, or anything to gain.
 Character is revealed in the work people do when nobody's watching, and that is where I've come to know Betsy.
 I've had the privilege of working alongside her in our community, and I've watched her show up again and again.
@@ -30,3 +19,4 @@ In a time when trust in government feels harder to come by, I believe that kind 
 I believe Betsy will bring honesty, thoughtfulness, courage, and a genuine heart for service to the Wyoming Legislature.
 More importantly, I believe she will remember why she went there in the first place: to serve the people who sent her.
 I am honored to stand behind Betsy Erickson and give her my wholehearted endorsement.
+Erickson for House District 37 ericksonforhd37@yahoo.com PO Box 452 Casper Wy 82602 Wyoming, USA Paid for by Erickson for HD 37 bottom of page

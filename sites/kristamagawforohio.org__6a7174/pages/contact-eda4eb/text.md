@@ -1,14 +1,3 @@
-Krista Magaw
-Home
-About
-Issues
-News
-Volunteer
-Events
-Contact
-More
-FOR OHIO HOUSE DISTRICT 71
-Get in Touch Krista Magaw
-For press and general inquiries, feel free to reach out to us:
-Krista Magaw for Ohio PO box 652 Yellow Springs, Ohio 45387
-Thank You for Reaching Out!
+top of page DONATE GET INVOLVED Krista Magaw Home About Issues News Volunteer Events Contact More Use tab to navigate through the menu items.
+Krista Magaw FOR OHIO HOUSE DISTRICT 71 CONTACT Get in Touch Krista Magaw For press and general inquiries, feel free to reach out to us: Krista Magaw for Ohio PO box 652 Yellow Springs, Ohio 45387 CONTACT FORM SEND MESSAGE Thank You for Reaching Out!
+Home About Me Get Involved Contact Krista Magaw - FOR DISTRICT 71 - Terms & Conditions Privacy Policy Accessibility Statement © # by Krista Magaw For Ohio ​ Krista Magaw for Ohio PO Box 652 Yellow Springs, Oh 45387 bottom of page

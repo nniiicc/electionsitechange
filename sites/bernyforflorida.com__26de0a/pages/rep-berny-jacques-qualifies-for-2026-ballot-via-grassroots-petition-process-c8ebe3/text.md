@@ -1,4 +1,5 @@
-SEMINOLE, Fla. — Florida Republican Rep.
+Home Meet Berny In the News Donate Home Meet Berny In the News Donate Rep.
+Berny Jacques qualifies for 2026 ballot via grassroots petition process March 16, 2026 | by Michelle Vecerina on Florida Voice SEMINOLE, Fla. — Florida Republican Rep.
 Berny Jacques has qualified for the 2026 ballot by using the state’s petition process, avoiding the usual filing fees.
 This marks the third consecutive election—and the fourth time in his political career—that Jacques has secured a ballot position through voter signatures rather than a qualifying fee.
 In Florida, legislative candidates can qualify by paying a fee or by collecting a specific number of verified signatures from registered voters within their district.
@@ -11,4 +12,5 @@ During his tenure, he has established himself as a prominent conservative voice 
 While achieving ballot status is a key procedural victory, Jacques signaled that his campaign would maintain its pace ahead of the August primary and November general election.
 “The job however is not finished,” Jacques said.
 “The door-to-door will continue until we achieve victory!
-Onward!”
+Onward!” Berny is Ready to Keep Florida Free Subscribe Donate Paid by Berny Jacques, Republican, for State Representative District 59.
+PO Box 2453, Largo, FL 33779

@@ -1,9 +1,7 @@
-Together, We Can Build a Better Future!
+0 Skip to Content Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise Folder: What I'll Fight For Back Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Folder: Get Involved Back Events Join Team Slipy Contact Donate Back to All Events Itasca Pride Sunday, June 22, 2025 1:00 PM 5:00 PM Old Central School Grand Rapids, Minnesota USA (map) Google Calendar ICS Previous Previous June 21 Fifty Lakes Days Donate Today Together, We Can Build a Better Future!
 Have a question, idea, or concern?
 I want to hear from you!
 Your input is vital in shaping the future of our community.
 Whether it’s a suggestion, a concern, or a topic you're passionate about, together we can make a real difference.
 Reach out today and be part of the change we need to see!
-Website Designed by
-Local Artist, Heidi Jeub, From Do-Somthing-Creative
-Prepared and Paid for by Slipy4Senate Campaign Committee PO Box 254 Brainerd, MN 56401
+Website Designed by Local Artist, Heidi Jeub , From Do-Somthing-Creative Prepared and Paid for by Slipy4Senate Campaign Committee PO Box 254 Brainerd, MN 56401

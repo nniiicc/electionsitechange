@@ -1,5 +1,26 @@
 [
-"https://samanthascott.org/",
-"https://samanthascott.org/news",
-"https://secure.anedot.com/samantha-scott-campaign/donate"
+{
+"text": "About Samantha",
+"href": "https://samanthascott.org/#about"
+},
+{
+"text": "Contact",
+"href": "https://samanthascott.org/#contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/samantha-scott-campaign/donate"
+},
+{
+"text": "Home",
+"href": "https://samanthascott.org/"
+},
+{
+"text": "News",
+"href": "https://samanthascott.org/news/"
+},
+{
+"text": "[image]",
+"href": "https://samanthascott.org"
+}
 ]

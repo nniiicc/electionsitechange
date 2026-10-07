@@ -1,10 +1,38 @@
 [
-"https://dmv.gbh.mybluehost.me/",
-"https://dmv.gbh.mybluehost.me/about",
-"https://dmv.gbh.mybluehost.me/donate",
-"https://dmv.gbh.mybluehost.me/home",
-"https://dmv.gbh.mybluehost.me/issues",
-"https://dmv.gbh.mybluehost.me/solutions",
-"https://instagram.com/",
-"https://twitter.com/"
+{
+"text": "About",
+"href": "https://dmv.gbh.mybluehost.me/about/"
+},
+{
+"text": "Donate",
+"href": "https://dmv.gbh.mybluehost.me/donate/"
+},
+{
+"text": "Home",
+"href": "https://dmv.gbh.mybluehost.me/home/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com"
+},
+{
+"text": "Issues",
+"href": "https://dmv.gbh.mybluehost.me/issues/"
+},
+{
+"text": "Jennifer Cassidy for State Representative HD32",
+"href": "https://dmv.gbh.mybluehost.me"
+},
+{
+"text": "Solutions",
+"href": "https://dmv.gbh.mybluehost.me/solutions/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com"
+},
+{
+"text": "[image: Jennifer Cassidy for State Representative HD32]",
+"href": "https://dmv.gbh.mybluehost.me/"
+}
 ]

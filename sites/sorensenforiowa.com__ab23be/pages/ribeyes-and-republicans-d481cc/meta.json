@@ -1,10 +1,11 @@
 {
  "description": "Ribeyes & Republicans is an annual event featuring a steak dinner and Republican speakers, raising money for the Sorensen for Iowa campaign.",
  "final_url": "https://sorensenforiowa.com/ribeyes-and-republicans",
- "paid_for_by": null,
+ "fingerprint": "f307c681a8f02840bd8332fcc3935a3a9a96f03e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Ribeyes and Republicans",
  "years_mentioned": [
-  "2025",
-  "2026"
+  "2025"
  ]
 }

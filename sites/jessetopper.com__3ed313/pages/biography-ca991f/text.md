@@ -1,4 +1,4 @@
-A lifelong resident of our community, Jesse Topper shares our values.
+Friends of Jesse Topper Friends of Jesse Topper Friends of Jesse Topper Friends of Jesse Topper Friends of Jesse Topper Friends of Jesse Topper Friends of Jesse Topper Friends of Jesse Topper Home Biography The Issues Donate / Contact More Home Biography The Issues Donate / Contact Home Biography The Issues Donate / Contact Biography A lifelong resident of our community, Jesse Topper shares our values.
 As our State Representative, he will never forget his top priority is to represent the hard working, conservative values of the citizens in the 78th State House District that includes portions of Bedford and Fulton counties.
 The son of a schoolteacher, Jesse has always been active in our community.
 During his formative years he participated in 4-H and was a member of the Boy Scouts earning the highest rank of Eagle Scout.
@@ -10,3 +10,5 @@ He served on the Commonwealth's Board of Nursing and the Bedford Area School Dis
 An accomplished musician, Jesse has performed throughout the Tri-State area and can be seen umpiring High School baseball games and refereeing High School basketball.
 He is also an assistant Football Coach for the Bedford Bison team.
 He resides in Bedford and has two sons.
+Copyright © # Friends of Jesse Topper - All Rights Reserved.
+Paid for by Friends of Jesse Topper Powered by

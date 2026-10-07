@@ -1,5 +1,4 @@
-Who we are
-Stay informed with the latest developments in political campaigns and elections.
+0 Skip to Content Home Issues Property Tax Relief Public School Policy Data Centers Healthcare Reform Mental Health Resource Hub Fentanyl Crisis Hub Where I Stand About Contact Open Menu Close Menu Home Issues Property Tax Relief Public School Policy Data Centers Healthcare Reform Mental Health Resource Hub Fentanyl Crisis Hub Where I Stand About Contact Open Menu Close Menu Home Folder: Issues Back Property Tax Relief Public School Policy Data Centers Healthcare Reform Mental Health Resource Hub Fentanyl Crisis Hub Where I Stand About Contact Who we are Stay informed with the latest developments in political campaigns and elections.
 Much of the news presented in mainstream media is censored or biased to the point of opinions rather than factual news.
 Our insights and in-depth analysis help to keep you ahead of the curve in the ever-evolving political landscape.
 I’m Chris Oldham!
@@ -15,3 +14,6 @@ Working with students from various denominations taught me that we achieve more 
 I spent my professional career at Verizon, serving 30 years in roles ranging from Purchasing to Systems Management.
 Whether I was supervising teams, managing budgets, or implementing complex technical systems, my focus was always on efficiency and accountability.
 I retired in 2024, and now I am ready to apply those decades of business experience to work for you.
+Paid for by the Oldham for Texas Campaign in compliance with the Texas Ethics Commission DONATE NOW: GIVE $5, $10, $25 OR MORE Contact Oldham for Texas Campaign Mike Kaftan - Treasurer oldham4texas@gmail.com Address / Phone 752 N.
+Main Street #296 Mansfield, TX 76063 817-381-5115 © # Oldham for Texas Campaign.
+All Rights Reserved Made with Squarespace

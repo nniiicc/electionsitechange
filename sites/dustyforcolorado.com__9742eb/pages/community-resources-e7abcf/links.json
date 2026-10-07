@@ -1,21 +1,86 @@
 [
-"https://breakthesilenceinc.org/",
-"https://devastatedco.com/",
-"https://dustyforcolorado.com/",
-"https://dustyforcolorado.com/about",
-"https://dustyforcolorado.com/awards---support",
-"https://dustyforcolorado.com/community-resources",
-"https://dustyforcolorado.com/contact",
-"https://dustyforcolorado.com/donate",
-"https://dustyforcolorado.com/news",
-"https://dustyforcolorado.com/privacy-policy",
-"https://dustyforcolorado.com/terms-of-service",
-"https://facebook.com/people/Representative-Dusty-A-Johnson/61568883715846",
-"https://fosterlovecommunityclosetsupports.org/",
-"https://makementalhealthmatter.org/",
-"https://ncretac.org/",
-"https://necovsap.org/",
-"https://return2rural.org/",
-"https://rmpfc.org/",
-"https://youtube.com/watch?v=b75IPokq28E"
+{
+"text": "About",
+"href": "https://www.dustyforcolorado.com/about"
+},
+{
+"text": "Awards & Support",
+"href": "https://www.dustyforcolorado.com/awards---support"
+},
+{
+"text": "Community Resources",
+"href": "https://www.dustyforcolorado.com/community-resources"
+},
+{
+"text": "Contact",
+"href": "https://www.dustyforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.dustyforcolorado.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.dustyforcolorado.com/"
+},
+{
+"text": "Legacy - Mental Health in Colorado's Modern Day Agriculture (youtube.com)",
+"href": "https://www.youtube.com/watch?v=b75IPokq28E"
+},
+{
+"text": "News",
+"href": "https://www.dustyforcolorado.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.dustyforcolorado.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.dustyforcolorado.com/terms-of-service"
+},
+{
+"text": "[image: The logo for dusty johnson house district 63 is blue and red.]",
+"href": "https://www.dustyforcolorado.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.dustyforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Representative-Dusty-A-Johnson/61568883715846/"
+},
+{
+"text": "https://fosterlovecommunityclosetsupports.org/",
+"href": "https://fosterlovecommunityclosetsupports.org/"
+},
+{
+"text": "https://ncretac.org/",
+"href": "https://ncretac.org/"
+},
+{
+"text": "https://necovsap.org/",
+"href": "https://necovsap.org/"
+},
+{
+"text": "https://www.breakthesilenceinc.org/",
+"href": "https://www.breakthesilenceinc.org/"
+},
+{
+"text": "https://www.devastatedco.com/",
+"href": "https://www.devastatedco.com/"
+},
+{
+"text": "https://www.makementalhealthmatter.org/",
+"href": "https://www.makementalhealthmatter.org/"
+},
+{
+"text": "https://www.return2rural.org/",
+"href": "https://www.return2rural.org/"
+},
+{
+"text": "https://www.rmpfc.org/",
+"href": "https://www.rmpfc.org/"
+}
 ]

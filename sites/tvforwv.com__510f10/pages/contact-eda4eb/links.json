@@ -1,12 +1,50 @@
 [
-"https://facebook.com/share/1BD7daYQoX?mibextid=wwXIfr",
-"https://instagram.com/tvforwv",
-"https://tiktok.com/@tvforwv?_t=ZT-8z2itLPgmWk&_r=1",
-"https://tvforwv.com/",
-"https://tvforwv.com/about",
-"https://tvforwv.com/cart",
-"https://tvforwv.com/contact",
-"https://tvforwv.com/donate",
-"https://tvforwv.com/issues",
-"https://tvforwv.com/privacy-policy-1"
+{
+"text": "0",
+"href": "https://tvforwv.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://tvforwv.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://tvforwv.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://tvforwv.com/donate"
+},
+{
+"text": "ISSUES",
+"href": "https://tvforwv.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tvforwv.com/privacy-policy-1"
+},
+{
+"text": "TVforWV@gmail.com",
+"href": "mailto:tvforwv@gmail.com?subject=Talk+to+Tony"
+},
+{
+"text": "[image: TV for WV]",
+"href": "https://tvforwv.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1BD7daYQoX/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tvforwv/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@tvforwv?_t=ZT-8z2itLPgmWk&_r=1"
+},
+{
+"text": "[no text]",
+"href": "mailto:tvforwv@gmail.com"
+}
 ]

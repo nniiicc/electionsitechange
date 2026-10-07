@@ -1,6 +1,34 @@
 [
-"https://alaniformt.com/debates",
-"https://alaniformt.com/get-involved",
-"https://alaniformt.com/{{ e.gcal }}",
-"https://alaniformt.com/{{ e.info }}"
+{
+"text": "+ Add to calendar",
+"href": "https://alaniformt.com/%7B%7B%20e.gcal%20%7D%7D"
+},
+{
+"text": "2026 Montana Senate debate schedule and how to watch",
+"href": "https://alaniformt.com/debates"
+},
+{
+"text": "Event info →",
+"href": "https://alaniformt.com/%7B%7B%20e.info%20%7D%7D"
+},
+{
+"text": "Get Involved",
+"href": "https://alaniformt.com/get-involved"
+},
+{
+"text": "Get involved →",
+"href": "https://alaniformt.com/get-involved#intake"
+},
+{
+"text": "Host an event",
+"href": "https://alaniformt.com/get-involved#intake"
+},
+{
+"text": "Volunteer with the campaign",
+"href": "https://alaniformt.com/get-involved"
+},
+{
+"text": "debate and candidate-forum schedule",
+"href": "https://alaniformt.com/debates"
+}
 ]

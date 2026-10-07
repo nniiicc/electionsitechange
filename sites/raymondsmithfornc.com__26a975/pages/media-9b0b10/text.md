@@ -1,8 +1,4 @@
-PAID FOR BY RAYMOND SMITH FOR NORTH CAROLINA
-Raymond Smith for North Carolina
-PO Box 10772
-Goldsboro, NC 27532
-Dr.
+Skip to content Home About Endorsements Platform Volunteer Donate Home About Endorsements Platform Volunteer Donate Menu Media PAID FOR BY RAYMOND SMITH FOR NORTH CAROLINA Raymond Smith for North Carolina PO Box 10772 Goldsboro, NC 27532 Dr.
 Raymond Smith is a former member of the United States Army and United States Army Reserve.
 Use of his military rank, job titles and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
-Copyright © 2025–2026 Raymond Smith for North Carolina · Privacy Policy · Media · Website proudly designed by Express Lane Strategies with real human labor & creativity, not artificial intelligence.
+Copyright © #–# Raymond Smith for North Carolina · Privacy Policy · Media · Website proudly designed by Express Lane Strategies with real human labor & creativity, not artificial intelligence.

@@ -1,5 +1,4 @@
-Meet Tina
-Tina Orwall is a dedicated Washingtonian who has made a lifelong commitment to serving her community.
+Meet Tina News Accomplishments Volunteer Donate Meet Tina News Accomplishments Volunteer Donate Meet Tina Tina Orwall is a dedicated Washingtonian who has made a lifelong commitment to serving her community.
 From her early years growing up in Oak Harbor and Seattle, to now representing South King County in the Legislature, Tina’s connection to our state runs deep.
 Throughout her career, Tina has carried a people-first attitude, advocating for the issues that matter most to Washingtonians.
 Tina graduated from the University of Washington with a degree in psychology and later earned a master’s in Social Work Administration.
@@ -15,3 +14,4 @@ A wife and mother of two, Tina lives with her family in Des Moines, Washington.
 She has been an active member of the PTSA and a strong advocate for school levies, demonstrating her commitment to her children’s education.
 Her daughter is now pursuing a master’s degree in special education at the University of Washington, and her son is training as a commercial electrician.
 Tina’s dedication to her family reflects her deep belief in the importance of strong communities.
+Paid for by People for Tina Orwall 17837 1st Ave S #299 Normandy Park, WA 98148

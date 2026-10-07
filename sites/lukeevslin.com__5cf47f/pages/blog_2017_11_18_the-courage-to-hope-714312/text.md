@@ -1,5 +1,4 @@
-A Leap of Hope
-This is a leap that I never expected to take.
+Home About Luke Blog Issues Contribute Home About Luke Blog Issues Contribute Luke Evslin for Hawai'i State House A Leap of Hope This is a leap that I never expected to take.
 I have never been elected to public office, I'm not any good at asking people to donate money, and I don't have all of the answers.
 But, I believe in you.
 I believe in the power of democracy and the potential of our communities.
@@ -54,3 +53,4 @@ I am running for office because I know that when we come together to talk about 
 That we are all part of the same community.
 I am running for office because I have hope.
 As I take this leap of hope, I hope that you will leap with me.
+Luke Evslin February 8, 2018 3 Comments Facebook 0 Twitter LinkedIn 0 Reddit Tumblr Pinterest 0 0 Likes Previous The Politics of Connection Luke Evslin June 17, 2018 Instagram Twitter Facebook Friends of Luke Evslin PO Box 662074 Lihuʻe, HI 96766 Luke@LukeEvslin.com

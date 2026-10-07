@@ -1,5 +1,4 @@
-The Closing Argument
-Well, my friends, tomorrow is the day.
+0 Skip to Content Straight from Mitch Media DONATE NOW Open Menu Close Menu Straight from Mitch Media DONATE NOW Open Menu Close Menu Straight from Mitch Media DONATE NOW The Closing Argument Jun 14 Written By Mitch Well, my friends, tomorrow is the day.
 The day thousands of Oklahomans choose their democratic nominee.
 June 16 also marks 10 months since we kicked off this campaign.
 We’ve been organizing since August and have visited voters in 11 counties, from Oklahoma City to Norman to Chickasha, Lawton, Pauls Valley, Ada, Sulphur, Ardmore, and Marietta.
@@ -37,3 +36,7 @@ Polls are open tomorrow from 7 AM - 7 PM.
 Don’t miss your chance to make your voice heard in this primary election.
 Vote YES on State Question 832.
 Vote Mitchell Jacob for United States Congress.
+Mitch Father, husband, U.S.
+Army veteran, OU Law graduate, and 4th-generation Oklahoman—committed to a better Oklahoma and upholding the Constitution. http://www.mitchelljacob.com Previous Previous America’s Semiquincentennial: the Story We Are Still Writing Next Next What Makes Me Qualified Paid for by Mitchell Jacob for Congress Headquarters: 300 West Gray Street Norman, OK 73069 Tuesday - Friday 10:00 am - 2:00 pm Mailing: P.O.
+Box 1141 Newcastle, OK.
+73065-1141 (405) 407-6975 info@mitchelljacob.com Order Merchandise | Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy

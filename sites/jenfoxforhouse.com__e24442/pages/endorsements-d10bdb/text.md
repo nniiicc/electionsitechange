@@ -1,68 +1,7 @@
-Endorsed by 50 organizations
-Unions, farm groups, conservation groups, health care advocates and community organizations have endorsed Jen Fox for House District 41B.
-Education Minnesota
-Housing First PAC
-Minnesota Farm Bureau
-Minnesota Farmers Union
-Minnesota Professional Fire Fighters
-Labor
-AFSCME Council 5
-LiUNA Minnesota and North Dakota
-Minnesota Professional Fire Fighters
-Teamsters Joint Council 32
-Education Minnesota
-Minnesota AFL-CIO
-Northern Midwest Regional Council of Carpenters
-IBEW Local 110 (St.
-Paul)
-Minnesota Association of Professional Employees
-Saint Paul Regional Labor Federation
-IUOE Local 49
-Minnesota Pipe Trades
-SEIU Minnesota State Council
-Farms, water and environment
-Clean Water Action Minnesota
-Friends of the Boundary Waters Action Network
-Minnesota Farmers Union
-Climate Cabinet
-Humane World Action Fund
-Save the Boundary Waters
-Conservation Minnesota
-Jane Fonda Climate PAC
-Sierra Club North Star Chapter
-DFL Environmental Caucus
-Minnesota Farm Bureau
-Health care and families
-Committee to Protect Health Care
-Minnesota Families for Public Schools
-Duluth Tenants
-National Association of Social Workers
-Gender Justice Action PAC
-Planned Parenthood
-Housing First PAC
-Pro-Choice Minnesota
-Equality and community
-DFL Senior Caucus
-Stonewall DFL
-DFL Veterans and Military Families Caucus
-TakeAction Minnesota
-OutFront Minnesota Action
-TCUP (Twin Cities United Performers)
-St.
-Croix Valley Indivisible
-Democracy and voting
-Democracy Defenders
-FairVote Minnesota
-National Democratic Redistricting Committee
-Women in office and party
-EMILYs List
-Progressive Turnout Project
-Greater Than PAC
-Run for Something
-Her Bold Move
-The Next 50
-Minnesota DFL
-WomenWinning
-Recognitions
-These are recognitions, not endorsements.
-Moms Demand Action Gun Sense Candidate
+top of page Meet Jen Issues Endorsements Events Get Involved Vote Gallery More Use tab to navigate through the menu items.
+DONATE Endorsed by 50 organizations Unions, farm groups, conservation groups, health care advocates and community organizations have endorsed Jen Fox for House District 41B.
+Education Minnesota Housing First PAC Minnesota Farm Bureau Minnesota Farmers Union Minnesota Professional Fire Fighters Labor AFSCME Council 5 LiUNA Minnesota and North Dakota Minnesota Professional Fire Fighters Teamsters Joint Council 32 Education Minnesota Minnesota AFL-CIO Northern Midwest Regional Council of Carpenters IBEW Local 110 (St.
+Paul) Minnesota Association of Professional Employees Saint Paul Regional Labor Federation IUOE Local 49 Minnesota Pipe Trades SEIU Minnesota State Council Farms, water and environment Clean Water Action Minnesota Friends of the Boundary Waters Action Network Minnesota Farmers Union Climate Cabinet Humane World Action Fund Save the Boundary Waters Conservation Minnesota Jane Fonda Climate PAC Sierra Club North Star Chapter DFL Environmental Caucus Minnesota Farm Bureau Health care and families Committee to Protect Health Care Minnesota Families for Public Schools Duluth Tenants National Association of Social Workers Gender Justice Action PAC Planned Parenthood Housing First PAC Pro-Choice Minnesota Equality and community DFL Senior Caucus Stonewall DFL DFL Veterans and Military Families Caucus TakeAction Minnesota OutFront Minnesota Action TCUP (Twin Cities United Performers) St.
+Croix Valley Indivisible Democracy and voting Democracy Defenders FairVote Minnesota National Democratic Redistricting Committee Women in office and party EMILYs List Progressive Turnout Project Greater Than PAC Run for Something Her Bold Move The Next 50 Minnesota DFL WomenWinning Recognitions These are recognitions, not endorsements.
+Moms Demand Action Gun Sense Candidate Volunteer Donate GET INVOLVED Your support changes the game!
+DONATE YARD SIGNS VOLUNTEER SUBSCRIBE Home About Me Events Donate Newsletter Gallery Prepared and paid for by the Jen Fox for House Committee PO Box 492, Hastings MN 55033 PO Box 492 Hastings, MN 55033 jenfoxforhouse@gmail.com bottom of page

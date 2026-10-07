@@ -1,38 +1,150 @@
 [
-"https://capitolnewsillinois.com/news/pritzker-touts-illinois-economic-development-at-data-center-groundbreaking",
-"https://cleangridalliance.org/_uploads/_media_uploads/_source/UPDATED_Illinois_Solar_and_Agriculture_Sheet_10.3.25.pdf",
-"https://dnr.illinois.gov/inpc/area.area2lakelyonsprairieandmarsh.html",
-"https://dnr.illinois.gov/inpc/area.area2laketowerlakesfen.html",
-"https://dnr.illinois.gov/inpc/area.area2mchenrycottoncreekmarsh.html",
-"https://eolianenergy.com/",
-"https://eolianenergy.com/press/padua-complex-providing-needed-capacity-at-critical-location",
-"https://foxriverecosystem.org/fox/map",
-"https://global-infra.com/",
-"https://global-infra.com/news/ai-infrastructure-partnership-aip-mgx-and-blackrocks-global-infrastructure-partners-gip-to-acquire-all-equity-in-aligned-data-centers",
-"https://ilga.gov/Legislation/BillStatus?DocNum=25&GAID=18&DocTypeID=SB&LegId=157124&SessionID=114",
-"https://ilikereick.com/about",
-"https://ilikereick.com/contact",
-"https://ilikereick.com/contribute",
-"https://ilikereick.com/get-involved",
-"https://ilikereick.com/home",
-"https://ilikereick.com/in-the-land-of-unlearned-lessons-will-an-ai-bubble-burst",
-"https://ilikereick.com/legislation",
-"https://ilikereick.com/privacy-policy",
-"https://ilikereick.com/steves-blog",
-"https://ilikereick.com/tag/battery-storage",
-"https://ilikereick.com/tag/state-government",
-"https://ilikereick.com/the-battery-farm-proposal-on-behan-road-its-really-about-data-centers",
-"https://ilikereick.com/videos",
-"https://investopedia.com/terms/d/dutch_tulip_bulb_market_bubble.asp",
-"https://mccdistrict.org/visit___explore/places_to_go/find_a_site/fel-pro_rrr.php",
-"https://mccdistrict.org/visit___explore/places_to_go/find_a_site/silver_creek.php",
-"https://merriam-webster.com/dictionary/eolian",
-"https://nfpa.org/codes-and-standards/nfpa-855-standard-development/855",
-"https://openlands.org/places/fox-river-forest-preserve",
-"https://repstevenreick.com/2026/01/26/s-b-25-clean-and-reliable-grid-affordability-act-affordable-hardly",
-"https://repstevenreick.com/2026/01/28/clean-and-reliable-grid-affordability-act-part-2-the-brave-new-world-of-batteries",
-"https://storagewiki.epri.com/index.php/BESS_Failure_Incident_Database",
-"https://theconversation.com/when-the-worlds-largest-battery-power-plant-caught-fire-toxic-metals-rained-down-wetlands-captured-the-fallout-268848",
-"https://turnkeydigital.com/",
-"https://youtu.be/Jyz8PTWReWo"
+{
+"text": "$463 million",
+"href": "https://www.eolianenergy.com/press/padua-complex-providing-needed-capacity-at-critical-location"
+},
+{
+"text": "AI bubble is going to burst",
+"href": "https://ilikereick.com/in-the-land-of-unlearned-lessons-will-an-ai-bubble-burst/"
+},
+{
+"text": "About Steve",
+"href": "https://ilikereick.com/about/"
+},
+{
+"text": "Aeolus",
+"href": "https://www.merriam-webster.com/dictionary/eolian"
+},
+{
+"text": "Back to Steve's Blog",
+"href": "https://ilikereick.com/steves-blog"
+},
+{
+"text": "Battery Storage",
+"href": "https://ilikereick.com/tag/battery-storage/"
+},
+{
+"text": "BlackRock’s Global Infrastructure Partners",
+"href": "https://www.global-infra.com/"
+},
+{
+"text": "Cancel Reply",
+"href": "https://ilikereick.com/the-battery-farm-proposal-on-behan-road-its-really-about-data-centers/#respond"
+},
+{
+"text": "Clean Grid Alliance",
+"href": "https://cleangridalliance.org/_uploads/_media_uploads/_source/UPDATED_Illinois_Solar_and_Agriculture_Sheet_10.3.25.pdf"
+},
+{
+"text": "Contact",
+"href": "https://ilikereick.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://ilikereick.com/contribute"
+},
+{
+"text": "Cotton Creek Nature Preserve",
+"href": "https://dnr.illinois.gov/inpc/area.area2mchenrycottoncreekmarsh.html"
+},
+{
+"text": "Eolian Energy",
+"href": "https://www.eolianenergy.com/"
+},
+{
+"text": "Fel-Pro RRR Conservation Area",
+"href": "https://mccdistrict.org/visit___explore/places_to_go/find_a_site/fel-pro_rrr.php"
+},
+{
+"text": "Fox River",
+"href": "https://foxriverecosystem.org/fox/map"
+},
+{
+"text": "Fox River Forest Preserve",
+"href": "https://openlands.org/places/fox-river-forest-preserve/"
+},
+{
+"text": "Legislation",
+"href": "https://ilikereick.com/legislation/"
+},
+{
+"text": "Lyons Prairie and Marsh Conservation Area",
+"href": "https://dnr.illinois.gov/inpc/area.area2lakelyonsprairieandmarsh.html"
+},
+{
+"text": "NFPA 855",
+"href": "https://www.nfpa.org/codes-and-standards/nfpa-855-standard-development/855"
+},
+{
+"text": "Other ways to help",
+"href": "https://ilikereick.com/get-involved"
+},
+{
+"text": "Part One",
+"href": "https://repstevenreick.com/2026/01/26/s-b-25-clean-and-reliable-grid-affordability-act-affordable-hardly/"
+},
+{
+"text": "Part Two",
+"href": "https://repstevenreick.com/2026/01/28/clean-and-reliable-grid-affordability-act-part-2-the-brave-new-world-of-batteries/"
+},
+{
+"text": "Powers That Be",
+"href": "https://capitolnewsillinois.com/news/pritzker-touts-illinois-economic-development-at-data-center-groundbreaking/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ilikereick.com/privacy-policy/"
+},
+{
+"text": "S.B. 25",
+"href": "https://ilga.gov/Legislation/BillStatus?DocNum=25&GAID=18&DocTypeID=SB&LegId=157124&SessionID=114"
+},
+{
+"text": "Silver Creek Conservation Area",
+"href": "https://mccdistrict.org/visit___explore/places_to_go/find_a_site/silver_creek.php"
+},
+{
+"text": "State Government",
+"href": "https://ilikereick.com/tag/state-government/"
+},
+{
+"text": "Steve’s Blog",
+"href": "https://ilikereick.com/steves-blog/"
+},
+{
+"text": "Tower Lakes Fen Nature Preserve",
+"href": "https://dnr.illinois.gov/inpc/area.area2laketowerlakesfen.html"
+},
+{
+"text": "Tulip Mania of 1634",
+"href": "https://www.investopedia.com/terms/d/dutch_tulip_bulb_market_bubble.asp#:~:text=Tulipmania%20is%20the%20story%20of,their%20prices%20to%20unprecedented%20highs."
+},
+{
+"text": "TurnKey Digital.",
+"href": "https://turnkeydigital.com"
+},
+{
+"text": "Videos",
+"href": "https://ilikereick.com/videos/"
+},
+{
+"text": "[image: steve reick]",
+"href": "https://ilikereick.com/home"
+},
+{
+"text": "aren’t all that rare",
+"href": "https://storagewiki.epri.com/index.php/BESS_Failure_Incident_Database"
+},
+{
+"text": "fallout from lithium-ion fires",
+"href": "https://theconversation.com/when-the-worlds-largest-battery-power-plant-caught-fire-toxic-metals-rained-down-wetlands-captured-the-fallout-268848"
+},
+{
+"text": "up to its neck in data center development",
+"href": "https://www.global-infra.com/news/ai-infrastructure-partnership-aip-mgx-and-blackrocks-global-infrastructure-partners-gip-to-acquire-all-equity-in-aligned-data-centers/"
+},
+{
+"text": "“Thank you sir, may I have another?”",
+"href": "https://youtu.be/Jyz8PTWReWo"
+}
 ]

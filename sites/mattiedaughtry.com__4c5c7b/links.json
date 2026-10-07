@@ -1,15 +1,74 @@
 [
-"https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/index.pl",
-"https://facebook.com/mattieformaine",
-"https://linkedin.com/in/matthea-daughtry-094a8851",
-"https://mattiedaughtry.com/",
-"https://mattiedaughtry.com/announcement",
-"https://mattiedaughtry.com/cart",
-"https://mattiedaughtry.com/contact",
-"https://mattiedaughtry.com/endorsements",
-"https://mattiedaughtry.com/volunteer",
-"https://secure.actblue.com/donate/reelectmattie",
-"https://twitter.com/mattieformaine",
-"https://youtube.com/channel/UCz1w8IzNMXf4fMrZklc-yCg",
-"https://youtube.com/watch?v=vEBNX3QDkPU"
+{
+"text": "(207) 370-9871",
+"href": "tel:(207)%20370-9871"
+},
+{
+"text": "0",
+"href": "https://www.mattiedaughtry.com/cart"
+},
+{
+"text": "Announcement",
+"href": "https://www.mattiedaughtry.com/announcement"
+},
+{
+"text": "Announcements",
+"href": "https://www.mattiedaughtry.com/announcement"
+},
+{
+"text": "Contact",
+"href": "https://www.mattiedaughtry.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/reelectmattie"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mattiedaughtry.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.mattiedaughtry.com/"
+},
+{
+"text": "Mattie Daughtry",
+"href": "https://www.mattiedaughtry.com/"
+},
+{
+"text": "Request a Ballot",
+"href": "https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/index.pl"
+},
+{
+"text": "See All Endorsements",
+"href": "https://www.mattiedaughtry.com/endorsements"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mattiedaughtry.com/volunteer"
+},
+{
+"text": "Watch The Video",
+"href": "https://www.youtube.com/watch?v=vEBNX3QDkPU"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/mattieformaine"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mattieformaine"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/matthea-daughtry-094a8851/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCz1w8IzNMXf4fMrZklc-yCg"
+},
+{
+"text": "mattieforsenate@gmail.com",
+"href": "mailto:mattieforsenate@gmail.com"
+}
 ]

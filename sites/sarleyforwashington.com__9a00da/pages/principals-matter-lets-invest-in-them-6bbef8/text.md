@@ -1,5 +1,4 @@
-Principals Matter, Let’s Invest In Them
-When I was first on the school board in Walla Walla, I didn’t understand just how important principals were for the success of our schools.
+Skip to content Home About Priorities News Contact Volunteer Donate February 26, 2026 Principals Matter, Let’s Invest In Them When I was first on the school board in Walla Walla, I didn’t understand just how important principals were for the success of our schools.
 I had gone to school.
 I was the parent of a child in school.
 I understood that there were lots of things that principals did every day in our schools.
@@ -12,13 +11,11 @@ Principals were the skipped-over middle of all that.
 But since those early days, I’ve seen how some buildings move forward and others don’t.
 I’ve seen the difference a great principal can make.
 I’ve also seen the downsides that come from frequent building leadership turnover.
-This point came up to me again while reading this story in Chalkbeat about a new study of high-performing teachers who received bonuses for moving to higher-need schools:
-But in fact, in their new schools, these great teachers transformed into merely pretty good teachers.
+This point came up to me again while reading this story in Chalkbeat about a new study of high-performing teachers who received bonuses for moving to higher-need schools: But in fact, in their new schools, these great teachers transformed into merely pretty good teachers.
 This reflects a profound and sometimes underappreciated fact about teacher performance: It’s not just about the inherent skills of an individual.
 It’s also about the school environment.
 Teacher effectiveness is dynamic,” says Matthew Kraft, a Brown University professor and coauthor of the new paper.
-“Teaching is a team sport.”
-There’s a glass-half-empty reading of the results, which is that this is yet another promising education intervention that didn’t work as well once it was removed from its original context.
+“Teaching is a team sport.” There’s a glass-half-empty reading of the results, which is that this is yet another promising education intervention that didn’t work as well once it was removed from its original context.
 I would argue for a much more positive framing, which is that if school-level factors can have this big an impact on teacher effectiveness, imagine how much progress we could make if the conversation focused not on “fixing” teachers but rather fixing the conditions within which they worked.
 Which brings us right back to principals.
 Education policymaking at the state level in Washington has been extremely well-intentioned the last few years.
@@ -30,3 +27,4 @@ This is about elevating principals’ role within our education system and truly
 Students come to our classrooms with very different levels of preparation for school.
 Once they arrive, I really believe the most important predictor of their success is the quality of the teacher at the front of their classroom.
 But the most important factor in the success of that teacher just may be the principal in their buildings.
+Uncategorized Archive September 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 Recent Posts Endorsements (Updated) Washington Must Prepare for Budget Volatility Why It Really Is (Almost) All About Costs What Modern Youth Sports Can Tell Us About America Each Generation’s Duty to the Next Home About Priorities News Contact Donate Privacy Policy News Contact Donate Get in Touch: sarleyforwashington@gmail.com Facebook Instagram Paid for by Derek Sarley for State Representative | PO Box 292 Walla Walla, WA 99362 Powered by Herding Cats 🐈‍⬛

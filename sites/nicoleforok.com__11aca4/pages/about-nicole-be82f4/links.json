@@ -1,10 +1,42 @@
 [
-"http://nicoleforok.com/",
-"http://nicoleforok.com/about-nicole",
-"http://nicoleforok.com/contact",
-"http://nicoleforok.com/get-involved",
-"http://nicoleforok.com/issues",
-"http://nicoleforok.com/yard-sign",
-"https://facebook.com/Nicole-Miller-for-OK-317447075396044",
-"https://secure.anedot.com/nicole-miller/donate"
+{
+"text": "About Nicole",
+"href": "http://nicoleforok.com/about-nicole/"
+},
+{
+"text": "Contact",
+"href": "http://nicoleforok.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/nicole-miller/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Nicole-Miller-for-OK-317447075396044/"
+},
+{
+"text": "Get Involved",
+"href": "http://nicoleforok.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "http://nicoleforok.com/"
+},
+{
+"text": "Issues",
+"href": "http://nicoleforok.com/issues/"
+},
+{
+"text": "VoteNicoleMiller@gmail.com",
+"href": "mailto:VoteNicoleMiller@gmail.com"
+},
+{
+"text": "Yard Sign",
+"href": "http://nicoleforok.com/yard-sign/"
+},
+{
+"text": "[image: Nicole Miller]",
+"href": "http://nicoleforok.com/"
+}
 ]

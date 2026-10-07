@@ -1,12 +1,42 @@
 [
-"http://facebook.com/electtravisnelson",
-"https://andiepetkus.com/",
-"https://cesystems.tech/campaign/friendsoftravisnelson",
-"https://nelsonfororegon.com/",
-"https://nelsonfororegon.com/about",
-"https://nelsonfororegon.com/accomplishments",
-"https://nelsonfororegon.com/cart",
-"https://nelsonfororegon.com/contact",
-"https://nelsonfororegon.com/endorsements",
-"https://nelsonfororegon.com/priorities"
+{
+"text": "0",
+"href": "https://www.nelsonfororegon.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.nelsonfororegon.com/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.nelsonfororegon.com/accomplishments"
+},
+{
+"text": "Andie Petkus Photography",
+"href": "https://www.andiepetkus.com"
+},
+{
+"text": "Contact",
+"href": "https://www.nelsonfororegon.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.cesystems.tech/campaign/friendsoftravisnelson"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nelsonfororegon.com/endorsements"
+},
+{
+"text": "Priorities",
+"href": "https://www.nelsonfororegon.com/priorities"
+},
+{
+"text": "[image: Travis Nelson For State Representative ]",
+"href": "https://www.nelsonfororegon.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/electtravisnelson"
+}
 ]

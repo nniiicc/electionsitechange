@@ -1,10 +1,14 @@
 {
  "description": "John Gannon is member of the Idaho Legislature representing District 17",
  "final_url": "https://johngannon.org/",
- "paid_for_by": "Paid for by Gannon for Rep Dawn King Treasurer &copy; 2026 Gannon State Rep",
+ "fingerprint": "a42021019d5cbd598e0500f70b1deb4d94c1682f",
+ "format": 3,
+ "paid_for_by": "Paid for by Gannon for Rep Dawn King Treasurer © # Gannon State Rep",
  "title": "Gannon State Rep. District 17A | John Gannon is member of the Idaho Legislature representing District 17",
  "years_mentioned": [
+  "2015",
   "2019",
-  "2021"
+  "2021",
+  "2026"
  ]
 }

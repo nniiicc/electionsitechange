@@ -1,6 +1,4 @@
-An Update From Under the Gold Dome: Week Five
-Friday, February 10, 2023
-Things have really begun to ramp up under the Gold Dome as we close out week five of the 2023 Legislative Session.
+Senator John Albers Bio Resources News Contact Campaign Donate << Back An Update From Under the Gold Dome: Week Five Friday, February 10, 2023 Things have really begun to ramp up under the Gold Dome as we close out week five of the 2023 Legislative Session.
 A number of bills were passed out of the Senate and Senate Appropriations Subcommittees met to closely analyze each section of House Bill 18, the Amended FY 2023 Budget.
 On Tuesday, the Senate Appropriations Subcommittee on Criminal Justice and Public Safety met to hold an in-depth discussion of House Bill 18.
 This year, I have the immense pleasure of chairing such an important subcommittee.
@@ -27,8 +25,7 @@ Crossover Day is just around the corner.
 I look forward to continuing to provide you with updates as we progress.
 As always, do not hesitate to reach out to my office if you have any questions or concerns about legislation.
 I am here to serve you.
-# # # #
-Sen.
+# # # # Sen.
 John Albers serves as Chairman of the Senate Committee on Public Safety.
-He represents the 56th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
-He may be reached at his office at 404.463.8055 or by email at [email protected]
+He represents the 56 th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
+He may be reached at his office at 404.463.8055 or by email at [email protected] Senator John Albers GA DISTRICT 56 Privacy Policy

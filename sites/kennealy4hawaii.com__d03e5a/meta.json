@@ -1,7 +1,11 @@
 {
  "description": "Official campaign website for Jonathan Kennealy for Hawaii State House District 2",
  "final_url": "https://www.kennealy4hawaii.com/",
- "paid_for_by": null,
+ "fingerprint": "9b81cdfe07dda2a993ded9613a2dc3a230b42c13",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Kennealy 4 Hawaii",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

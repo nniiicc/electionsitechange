@@ -1,6 +1,26 @@
 [
-"https://facebook.com/votejohnnorris",
-"https://hockomock.org/",
-"https://secure.winred.com/norris-committee/donate",
-"https://votejohnnorris.com/"
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/norris-committee/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/norris-committee/donate"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/votejohnnorris"
+},
+{
+"text": "Hockomock Digital",
+"href": "https://hockomock.org"
+},
+{
+"text": "[image: John Norris for State Representative]",
+"href": "https://www.votejohnnorris.com/"
+},
+{
+"text": "johnenorris@gmail.com",
+"href": "mailto:johnenorris@gmail.com"
+}
 ]

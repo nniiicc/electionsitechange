@@ -1,15 +1,66 @@
 [
-"https://bear-paw.org/",
-"https://bobcote.org/",
-"https://bobcote.org/about",
-"https://bobcote.org/contact",
-"https://bobcote.org/issues",
-"https://designedtorun.com/",
-"https://fitnh.org/",
-"https://forestsociety.org/",
-"https://nhfoodbank.org/",
-"https://nhpr.org/",
-"https://nwsnh.org/",
-"https://rpi.edu/",
-"https://secure.actblue.com/donate/bob-cote-1"
+{
+"text": "Click here",
+"href": "https://www.bobcote.org/about#block-3288c272-7bb7-4c8e-a4f4-7910008eae97"
+},
+{
+"text": "Contact",
+"href": "https://www.bobcote.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bob-cote-1"
+},
+{
+"text": "Home",
+"href": "https://www.bobcote.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.bobcote.org/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Bear-Paw Regional Greenways logo]",
+"href": "https://www.bear-paw.org/"
+},
+{
+"text": "[image: Bob Cote for State Rep logo]",
+"href": "https://www.bobcote.org/"
+},
+{
+"text": "[image: Families in Transition Logo]",
+"href": "https://www.fitnh.org/"
+},
+{
+"text": "[image: NH Food Bank logo]",
+"href": "https://nhfoodbank.org/"
+},
+{
+"text": "[image: NHPR Logo]",
+"href": "https://www.nhpr.org/"
+},
+{
+"text": "[image: NeighborWorks Southern New Hampshire logo]",
+"href": "https://nwsnh.org/"
+},
+{
+"text": "[image: Rensselaer Polytechnic Institute Seal]",
+"href": "https://www.rpi.edu/"
+},
+{
+"text": "[image: Society for the Protection of NH Forests logo]",
+"href": "https://www.forestsociety.org/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.bobcote.org/"
+},
+{
+"text": "bob@bobcote.org",
+"href": "mailto:bob@bobcote.org"
+}
 ]

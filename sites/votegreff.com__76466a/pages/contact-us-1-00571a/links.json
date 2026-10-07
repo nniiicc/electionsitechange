@@ -1,12 +1,58 @@
 [
-"https://facebook.com/VoteGreff",
-"https://olvr.ohiosos.gov/",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/friends-of-joel-a-greff/donate-today",
-"https://secure.winred.com/friends-of-joel-a-greff/help-us-help-ohio",
-"https://votegreff.com/",
-"https://votegreff.com/about",
-"https://votegreff.com/contact-us-1",
-"https://x.com/VoteGreff"
+{
+"text": "(614) 299-6223",
+"href": "tel:6142996223"
+},
+{
+"text": "About",
+"href": "https://votegreff.com/about"
+},
+{
+"text": "Contact Joel",
+"href": "https://votegreff.com/contact-us-1"
+},
+{
+"text": "Contact Us",
+"href": "https://votegreff.com/contact-us-1"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/friends-of-joel-a-greff/donate-today"
+},
+{
+"text": "Home",
+"href": "https://votegreff.com/"
+},
+{
+"text": "Please Give Today — We Can't Do It Without Your Support!",
+"href": "https://secure.winred.com/friends-of-joel-a-greff/help-us-help-ohio"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Register to Vote",
+"href": "https://olvr.ohiosos.gov/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://votegreff.com/contact-us-1#11912295-8387-4d20-bb93-87db03ee81bc"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteGreff"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/VoteGreff"
+},
+{
+"text": "info@votegreff.com",
+"href": "mailto:info@votegreff.com"
+}
 ]

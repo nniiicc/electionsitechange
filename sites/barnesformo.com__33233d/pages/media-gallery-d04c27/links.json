@@ -1,8 +1,46 @@
 [
-"https://barnesformo.com/",
-"https://barnesformo.com/about",
-"https://barnesformo.com/media-gallery",
-"https://facebook.com/SherekaBarnesforMO",
-"https://instagram.com/barnesformo",
-"https://secure.actblue.com/donate/shereka-barnes-1"
+{
+"text": "About",
+"href": "https://www.barnesformo.com/about"
+},
+{
+"text": "Contact us",
+"href": "https://www.barnesformo.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shereka-barnes-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.barnesformo.com/#Endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.barnesformo.com/"
+},
+{
+"text": "Media",
+"href": "https://www.barnesformo.com/media-gallery"
+},
+{
+"text": "Priorities",
+"href": "https://www.barnesformo.com/#Priorities"
+},
+{
+"text": "Voting Info",
+"href": "https://www.barnesformo.com/#VotingInfo"
+},
+{
+"text": "[image]",
+"href": "https://www.barnesformo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/SherekaBarnesforMO/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/barnesformo/"
+}
 ]

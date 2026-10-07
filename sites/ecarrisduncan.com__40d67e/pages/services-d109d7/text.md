@@ -1,15 +1,6 @@
-How Can I Help You
-As your representative, I would love to help you connect with the amazing resources we have in our state.
+0 Skip to Content Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home Folder: About Me Back My Story Core Issues Events Thoughts + Updates Services How Can I Help You As your representative, I would love to help you connect with the amazing resources we have in our state.
 If you don’t see something here that you would like to, please contact us at the button below.
-- The Towns of Wilmington, Whitingham, and Halifax have many local groups that support individuals, groups, and businesses in our area
-- Town of Wilmington
-- Town of Whitingham
-- Town of Halifax
-- We have many public and private organizations that work to support Vermonters.
-- Vermont General Assembly
-- Joint Fiscal Office
-- Department of Public Service
-- Many service offered nation wide can be utilized by those in Vermont
-- National Center for Interstate Compacts
-- Justice Center CSG
-- Center For American Progress
+Local Resources The Towns of Wilmington, Whitingham, and Halifax have many local groups that support individuals, groups, and businesses in our area Town of Wilmington https://wilmingtonvermont.us/ Town of Whitingham https://whitinghamvt.org/ Town of Halifax https://halifaxvt.com/town-clerk/ State Resources We have many public and private organizations that work to support Vermonters.
+Vermont General Assembly https://legislature.vermont.gov/ Joint Fiscal Office https://ljfo.vermont.gov/ Department of Public Service https://publicservice.vermont.gov/ National Resources Many service offered nation wide can be utilized by those in Vermont National Center for Interstate Compacts https://compacts.csg.org/ Justice Center CSG https://csgjusticecenter.org/ Center For American Progress https://www.americanprogress.org/ Work With Us Donate Wilmington.
+Whitingham.
+Halifax

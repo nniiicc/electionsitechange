@@ -1,9 +1,30 @@
 [
-"https://eldaforaz.com/",
-"https://eldaforaz.com/about",
-"https://eldaforaz.com/admin",
-"https://eldaforaz.com/contact",
-"https://eldaforaz.com/donate",
-"https://eldaforaz.com/issues",
-"https://eldaforaz.com/volunteer"
+{
+"text": "About",
+"href": "https://eldaforaz.com/about"
+},
+{
+"text": "Admin",
+"href": "https://eldaforaz.com/admin"
+},
+{
+"text": "Contact",
+"href": "https://eldaforaz.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://eldaforaz.com/donate"
+},
+{
+"text": "Home",
+"href": "https://eldaforaz.com/"
+},
+{
+"text": "Issues",
+"href": "https://eldaforaz.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://eldaforaz.com/volunteer"
+}
 ]

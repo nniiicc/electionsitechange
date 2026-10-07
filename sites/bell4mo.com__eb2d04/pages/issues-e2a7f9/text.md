@@ -1,6 +1,7 @@
+Skip to main content Chip In Today Donate about issues endorsements volunteer events vote Donate Issues On the Issues Wesley Bell stands for bold, progressive change that puts people first.
+Here’s where he stands on the issues that matter most to Missouri families.
 Delivering for St.
-Louis
-Progressives should actually make progress.
+Louis Progressives should actually make progress.
 It's not enough to talk about solutions, you must find a way to deliver them.
 St.
 Louis is a sleeping giant primed to grow and expand.
@@ -31,8 +32,7 @@ Supporting St.
 Louis After the 2025 Tornadoes.
 When devastating tornadoes destroyed over 5,000 structures in our community, Wesley pressed for a federal disaster declaration and fought to make sure families got the housing assistance, health care, and rebuilding support they urgently needed.
 While there’s more work to do, these resources are already helping our region recover stronger and faster.
-Affordability & Cost of Living
-People in Missouri’s First District are working harder than ever and still falling behind.
+Affordability & Cost of Living People in Missouri’s First District are working harder than ever and still falling behind.
 If you work hard and play by the rules, you should be able to afford a decent life.
 In Congress, he's fighting every day to make that a reality for families in St.
 Louis.
@@ -54,8 +54,7 @@ Everyone who works hard should have access to an education without being saddled
 The rising cost of college and vocational training is putting opportunity out of reach for too many families, and the Trump administration is making it worse.
 Wesley supports expanding access to affordable higher education, including four-year universities, community colleges, and trade programs, and will keep fighting to make sure cost is never a barrier to opportunity for St.
 Louisans.
-Standing Up to Trump
-Government should work for everyone, not just those at the top.
+Standing Up to Trump Government should work for everyone, not just those at the top.
 But Donald Trump and MAGA Republicans are slashing health care and food assistance programs, and giving even more tax breaks to billionaires and big corporations.
 Trump used ICE as his own unaccountable paramilitary to terrorize immigrants and separate families.
 And when Congress passed bipartisan legislation to release files exposing Jeffrey Epstein's criminal network, this administration fought transparency every step of the way.
@@ -85,8 +84,7 @@ Protecting Voting Rights and Democracy.
 Every eligible American should have the right to vote and have their voice heard.
 But since Day One, Trump and his allies have been illegally gerrymandering districts, rolling back voter protections, and assaulting our very system of democracy.
 Wesley strongly supports making the John Lewis Voting Rights Act into law in order to fully fight back against voter suppression, protect the rights of all voters, and ensure fair and equitable access to the ballot box.
-As John Lewis once said: “Some of us gave a little blood for the right to participate in the democratic process.”
-Releasing the Epstein Files.
+As John Lewis once said: “Some of us gave a little blood for the right to participate in the democratic process.” Releasing the Epstein Files.
 The American people deserve to know the truth about who was connected to Jeffrey Epstein's crimes.
 When Congress passed bipartisan legislation requiring the full release of the Epstein files, the Trump administration dragged its feet and fought transparency at every turn.
 Wesley signed the discharge petition that forced the vote, helped get the law passed, and has continued demanding the administration fully comply with what the law requires.
@@ -95,8 +93,7 @@ America is strongest when we lead with diplomacy, stand by our allies, and show 
 But Trump has spent his time in office doing the opposite: insulting and threatening our closest allies like Canada and Denmark, gutting foreign aid that was saving lives and preventing diseases, and stumbling into conflicts that the American people never asked for and don't want.
 Wesley believes war should always be a last resort, not a first option.
 He will fight to restore America's credibility on the world stage, strengthen our alliances and expand trade, while keeping our country safe and our partners close.
-Building a Brighter and Safer, and Healthier Future
-Making real progress means building a St.
+Building a Brighter and Safer, and Healthier Future Making real progress means building a St.
 Louis where everyone, regardless of who they are or where they come from, can live with dignity, safety, and opportunity.
 These are the fights that define what kind of community we want to be.
 Protecting Abortion Rights.
@@ -128,4 +125,4 @@ Delivering Environmental Justice.
 Climate change is a crisis, and here in Missouri, the effects are already making an impact on our way of life and the safety of our most vulnerable communities, from extreme weather events to deteriorating air and water quality.
 Wesley believes that confronting the climate crisis and growing our economy are not in conflict.
 The transition to clean energy should create good-paying union jobs right here in the First District.
-He has fought to protect clean air and water standards, hold polluters accountable, and ensure that the federal government lives up to its obligations to communities like those along Coldwater Creek and the Westlake Landfill that have suffered from decades of environmental neglect and contamination.
+He has fought to protect clean air and water standards, hold polluters accountable, and ensure that the federal government lives up to its obligations to communities like those along Coldwater Creek and the Westlake Landfill that have suffered from decades of environmental neglect and contamination. home about issues endorsements volunteer events vote Donate PO Box 190669 St Louis, MO 63119 info@bell4mo.com privacy policy terms race update Paid for by Bell for Missouri

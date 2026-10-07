@@ -1,9 +1,12 @@
 {
  "description": "Official campaign site for Demond Meeks, your advocate for change in the 137th District. Join us for a better future.",
  "final_url": "https://votedemondmeeks.com/",
- "paid_for_by": null,
+ "fingerprint": "2c6346d30e657b31eb3e16edb827fbabe86a9c18",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Demond Meeks for NY Assembly - Home",
  "years_mentioned": [
-  "2020"
+  "2020",
+  "2026"
  ]
 }

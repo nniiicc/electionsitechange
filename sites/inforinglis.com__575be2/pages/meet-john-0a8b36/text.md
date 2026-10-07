@@ -1,6 +1,5 @@
-MEET JOHN INGLIS
-Public School Teacher, Counselor, Union Member, and Community Leader
-The son of a Navy Veteran father, and a loving mother, John Inglis is a lifetime resident of the Borough of West Mifflin.
+top of page HOME MEET JOHN PRIORITIES DONATE VOLUNTEER CONTACT More Use tab to navigate through the menu items.
+MEET JOHN INGLIS Public School Teacher, Counselor, Union Member, and Community Leader The son of a Navy Veteran father, and a loving mother, John Inglis is a lifetime resident of the Borough of West Mifflin.
 He graduated from West Mifflin Area High School and earned a Bachelor’s degree in Secondary Education at Duquesne University and a Master’s degree in School Counseling from Westminster College.
 For many years, John taught Civics classes and Psychology classes to high school students before transitioning to the school counselor position at West Mifflin Area High School.
 His years in the classroom have shown him that education is the foundation on which all other opportunities are built.
@@ -14,7 +13,6 @@ John is most proud of his advocacy for our first responders.
 The police, fire departments, and EMS services that keep our community safe are indispensable.
 His work on Council has also included a position on the South Hill Area Council of Government (SHACOG) where John developed relationships with numerous officials from other local governments.
 Before his time in government, John mentored many of our local youth through 17 years with the human resources team at Kennywood - providing them with a solid foundation as they began their own professional journeys.
-All of these experiences help him represent us in Harrisburg.
-During his first term in the House, John assisted over 7,000 individuals through his constituent service office, delivered over $350,000 in direct savings for taxpayers, advanced multiple pieces of legislation through the state House, and returned millions in funding from Harrisburg back to our community.
+All of these experiences help him represent us in Harrisburg. ​ ​ During his first term in the House, John assisted over 7,000 individuals through his constituent service office, delivered over $350,000 in direct savings for taxpayers, advanced multiple pieces of legislation through the state House, and returned millions in funding from Harrisburg back to our community.
 The best part of the 38th district is its people.
-Driven by a passion for helping others, John is running for reelection as our state representative so that our district, our county, and our commonwealth have opportunities worthy of the great people who call them home.
+Driven by a passion for helping others, John is running for reelection as our state representative so that our district, our county, and our commonwealth have opportunities worthy of the great people who call them home. © #-# by In for Inglis 2645 Glenny Lane West Mifflin PA 15122 Paid for by In for Inglis bottom of page

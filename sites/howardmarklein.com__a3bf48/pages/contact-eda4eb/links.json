@@ -1,9 +1,46 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSc-T8YcKYM3Jm9ky6k2YA37-gQdBZNk7SoFLuBWm8LT_poVfQ/viewform",
-"https://howardmarklein.com/contact",
-"https://howardmarklein.com/donate",
-"https://howardmarklein.com/e-update-sign-up",
-"https://howardmarklein.com/home",
-"https://howardmarklein.com/meet-howard",
-"https://howardmarklein.com/my-priorities"
+{
+"text": "Contact",
+"href": "https://www.howardmarklein.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.howardmarklein.com/donate"
+},
+{
+"text": "E-Update Sign-up",
+"href": "https://www.howardmarklein.com/e-update-sign-up"
+},
+{
+"text": "Home",
+"href": "https://www.howardmarklein.com/home"
+},
+{
+"text": "Meet Howard",
+"href": "https://www.howardmarklein.com/meet-howard"
+},
+{
+"text": "My Priorities",
+"href": "https://www.howardmarklein.com/my-priorities"
+},
+{
+"text": "Vote Howard Marklein for State Senate",
+"href": "https://www.howardmarklein.com/home"
+},
+{
+"text": "[image]",
+"href": "https://www.howardmarklein.com/home"
+},
+{
+"text": "[image]Vote Howard Marklein for State Senate",
+"href": "https://www.howardmarklein.com/home"
+},
+{
+"text": "[tooltip: Open Google Forms, Untitled form in new window]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSc-T8YcKYM3Jm9ky6k2YA37-gQdBZNk7SoFLuBWm8LT_poVfQ/viewform"
+},
+{
+"text": "taxpayersformarklein@gmail.com",
+"href": "mailto:taxpayersformarklein@gmail.com"
+}
 ]

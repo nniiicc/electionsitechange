@@ -1,15 +1,90 @@
 [
-"http://zack.mn/issues",
-"http://zack.mn/issues.html",
-"https://docs.google.com/forms/d/e/1FAIpQLSfXx_tIkdKfO2rKlTZlCFpJRyXCDlw6GHsN7eGAGhUx3rSLfw/viewform?usp=sharing&ouid=103417230101763464122",
-"https://forms.gle/N8v8gQxyyYqbDVFw9",
-"https://secure.actblue.com/contribute/page/zack",
-"https://zack.mn/",
-"https://zack.mn/about-zack.html",
-"https://zack.mn/endorsements.html",
-"https://zack.mn/events.html",
-"https://zack.mn/issues.html",
-"https://zack.mn/join-us.html",
-"https://zack.mn/privacy.html",
-"https://zack.mn/zackgetsthejobdone.html"
+{
+"text": "About Zack",
+"href": "https://www.zack.mn/about-zack.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/zack"
+},
+{
+"text": "Economy",
+"href": "http://www.zack.mn/issues#economy"
+},
+{
+"text": "Education",
+"href": "http://www.zack.mn/issues#education"
+},
+{
+"text": "Endorsements",
+"href": "https://www.zack.mn/endorsements.html"
+},
+{
+"text": "Environment",
+"href": "http://www.zack.mn/issues#environment"
+},
+{
+"text": "Events",
+"href": "https://www.zack.mn/events.html"
+},
+{
+"text": "Gun Violence",
+"href": "http://www.zack.mn/issues#gun_violence"
+},
+{
+"text": "Health Care",
+"href": "http://www.zack.mn/issues#health_care"
+},
+{
+"text": "Home",
+"href": "https://www.zack.mn/"
+},
+{
+"text": "Issues",
+"href": "https://www.zack.mn/issues.html"
+},
+{
+"text": "Lawn signs",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfXx_tIkdKfO2rKlTZlCFpJRyXCDlw6GHsN7eGAGhUx3rSLfw/viewform?usp=sharing&ouid=103417230101763464122"
+},
+{
+"text": "Lawn signs",
+"href": "https://forms.gle/N8v8gQxyyYqbDVFw9"
+},
+{
+"text": "Legislation",
+"href": "https://www.zack.mn/zackgetsthejobdone.html"
+},
+{
+"text": "Privacy Policy​",
+"href": "https://www.zack.mn/privacy.html"
+},
+{
+"text": "Public Safety",
+"href": "http://www.zack.mn/issues#public_safety"
+},
+{
+"text": "Responsible Budgeting",
+"href": "http://www.zack.mn/issues.html#taxes_spending"
+},
+{
+"text": "Seniors",
+"href": "http://www.zack.mn/issues.html#retirement_security"
+},
+{
+"text": "Support Zack",
+"href": "https://secure.actblue.com/contribute/page/zack"
+},
+{
+"text": "Volunteer",
+"href": "https://www.zack.mn/join-us.html"
+},
+{
+"text": "Women's Rights",
+"href": "http://www.zack.mn/issues#womens_rights"
+},
+{
+"text": "[image: Zack Stephenson]",
+"href": "https://www.zack.mn/"
+}
 ]

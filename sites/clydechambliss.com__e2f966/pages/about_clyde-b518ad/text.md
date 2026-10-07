@@ -1,5 +1,4 @@
-About Clyde
-After completing a degree in Civil Engineering from the University of Alabama in 1992, Clyde has resided, worked, and raised a family in Alabama Senate District 30.
+Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact About Clyde After completing a degree in Civil Engineering from the University of Alabama in 1992, Clyde has resided, worked, and raised a family in Alabama Senate District 30.
 In 1996, Clyde was elected to his first of three terms on the Autauga County Commission.
 He served as the body’s chairman from 2000-2008.
 During his tenure on the Commission, Clyde worked to forge a spirit of cooperation between city and county governments.
@@ -24,3 +23,6 @@ He has made numerous trips to Nicaragua to assist Evangelism Missions, Inc. and 
 Clyde was elected to the Alabama State Senate in November of 2014 and currently serves on the following committees: Governmental Affairs; Fiscal Responsibility and Economic Development; Finance and Taxation General Fund; and is Chair of Local Legislation.
 Additionally, Senator Chambliss is Senate Majority Floor Leader.
 Alabama Senate District 30 includes all or parts of Autauga, Chilton, Coosa, Elmore, and Tallapoosa Counties.
+Get Updates Thank you for signing up!
+Paid for By Clyde Chambliss Jr.
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

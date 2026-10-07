@@ -1,9 +1,7 @@
-MEET JIM
-Jim Avery is a three-time combat veteran.
+0 Skip to Content Home Meet Jim Platform Open Menu Close Menu Home Meet Jim Platform Open Menu Close Menu Home Meet Jim Platform MEET JIM Jim Avery is a three-time combat veteran.
 He served in the U.S.
 Marine Corps from 1991 to 1995 in “Operation Restore Hope,” Somalia.
-Following the events of September 11, 2001, he joined the Missouri Army National Guard, deploying in 2003 with the A Company’s 1140th Engineer Battalion in “Operation Iraqi Freedom.” In 2009, Jim answered the call once again and deployed to Afghanistan with the 203rd Engineer Battalion in “Operation Enduring Freedom.”
-During his combat tours in Iraq and Afghanistan, Jim served in units specializing in IED destruction missions.
+Following the events of September 11, 2001, he joined the Missouri Army National Guard, deploying in 2003 with the A Company’s 1140th Engineer Battalion in “Operation Iraqi Freedom.” In 2009, Jim answered the call once again and deployed to Afghanistan with the 203rd Engineer Battalion in “Operation Enduring Freedom.” During his combat tours in Iraq and Afghanistan, Jim served in units specializing in IED destruction missions.
 Jim received the Army Commendation Medal for his exceptional efforts in finding and destroying IEDs.
 After completing his tour in Iraq, he attended Officer Candidate School and was commissioned as a Second Lieutenant.
 While serving our country, Jim also served three terms in the Missouri House of Representatives.

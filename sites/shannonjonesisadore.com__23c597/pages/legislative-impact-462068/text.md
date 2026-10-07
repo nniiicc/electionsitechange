@@ -1,41 +1,20 @@
-Priorities
-Every promise made was a promise kept — Delivering what matters - REAL RESULTS for OUR COMMUNITY.
-James Beard Public Market - Portland, Oregon
-Priorities and Chief Sponsor
-● HB 3377 - $10 million in state lottery bonds to support the construction of the James Beard Public Market in downtown Portland.
-● HB 5006 - $2 million through legislative funding to help advance the Hoyt Arboretum’s Education Center expansion as part of broader budget and appropriations efforts.
-● SB 1501 - $365 million subsidy to help renovate the Moda Center, using tax revenues tied to arena activities and related economic development efforts.
-● $1.4 million for Our Home – Supporting 23 units of co-housing in St.
-John’s, helping provide safe and stable housing for Portland residents.
-● SB 1110 - $11.5 million for Williams & Russell CDC – Investing in housing and community development projects that strengthen neighborhoods and provide opportunities for residents.
-● SB 5506 - $4 million for NAYA – Supporting programs and services that uplift Native communities in Portland.
-● HB 4100 - Affecting the CEI Hub in Portland.
+0 Skip to Content Home Meet Isadore Legislative Impact Media DONATE Open Menu Close Menu Home Meet Isadore Legislative Impact Media DONATE Open Menu Close Menu Home Meet Isadore Legislative Impact Media DONATE Priorities Every promise made was a promise kept — Delivering what matters - REAL RESULTS for OUR COMMUNITY.
+View fullsize James Beard Public Market - Portland, Oregon Priorities and Chief Sponsor ● HB 3377 - $10 million in state lottery bonds to support the construction of the James Beard Public Market in downtown Portland. ● HB 5006 - $2 million through legislative funding to help advance the Hoyt Arboretum’s Education Center expansion as part of broader budget and appropriations efforts. ● SB 1501 - $365 million subsidy to help renovate the Moda Center, using tax revenues tied to arena activities and related economic development efforts. ● $1.4 million for Our Home – Supporting 23 units of co-housing in St.
+John’s, helping provide safe and stable housing for Portland residents. ● SB 1110 - $11.5 million for Williams & Russell CDC – Investing in housing and community development projects that strengthen neighborhoods and provide opportunities for residents. ● SB 5506 - $4 million for NAYA – Supporting programs and services that uplift Native communities in Portland. ● HB 4100 - Affecting the CEI Hub in Portland.
 Requires owners or operators of bulk oil or liquid fuels terminals to obtain a certificate of financial responsibility from the Oregon Department of Environmental Quality—ensuring they can cover the costs of cleanup and damages from spills—and directs the Environmental Quality Commission to set related rules.
 Rep.
 Isadore continues to provide engaged and effective leadership our state needs by providing many important wins current generations and future ones will benefits from; staying committed to increasing safety for our neighborhoods, communities, and systems.
-She also serves in the following ways:
-- Rep.
+She also serves in the following ways: Rep.
 Isadore is the Vice Chair of Economic Development, Small Business and Trade Committee and is committed to supporting all efforts to revitalizing downtown Portland, supporting small businesses throughout Oregon, while enhancing Oregon's business trade.
-- Rep Isadore also continues to serve on the Ways and Means Subcommittee for Public Safety.
-- Rep Isadore serves on the Behavioral Health Committee.
+Rep Isadore also continues to serve on the Ways and Means Subcommittee for Public Safety.
+Rep Isadore serves on the Behavioral Health Committee .
 Committed to improving Behavioral Health services and increasing access.
-Co-Sponsor
-● HB 2024 - Advances healthcare workforce retention by directing strategies to support recruitment, retention, and stability of healthcare workers across Oregon.
-● HB 4092 – Establishes safety standards for child safety systems to better protect children and families.
-● HB 4152 – Allows deployed service members to marry remotely, ensuring legal protections during service.
-● HB 4132 – Improves access to services and protections for veterans.
-● HB 4089 – Strengthens consumer protections related to contractor fraud and theft of services.
-● HB 4111 – Implements administrative updates supporting public safety and government operations.
-● HB 4138 – Establishes licensing for mobile pharmacies, increasing access to medications in underserved areas.
-● HB 2239 - Directs the Oregon Health Authority to establish minimum quality and performance standards for certifying recovery residences that provide housing supports to individuals with substance use disorders through contracts with state or local behavioral health entities.
-● HB 4083 - Cut red tape for behavioral health workers by streamlining credentialing, reducing administrative burdens, and expanding access to clinical supervision.
-● HB 2678 - Support for housing insecure, older Oregonians through workforce
-supports and improved inter-agency coordination.
-● HB 4142 – Updates medical marijuana regulations to improve oversight and patient access.
-● SB 1595 – Enhances transparency and training requirements for professional licensing boards, strengthening healthcare accountability.
-● HB 4144 – Establishes a battery recycling program and creating infrastructure.
-● HR 3 – Recognizes and honors Black drag history and cultural contributions in Oregon.
-● SB 450 - Designates November 14 of each year as Ruby Bridges Walk to School Day.
-● SB 1596 – Expands instructional time by allowing play-based learning, supporting early childhood education and school readiness.
-● SB 1212- Directs school districts to adopt a policy that prohibits the use of student personal electronic devices.
-CEI (Critical Energy Infrastructure)
+Co-Sponsor ● HB 2024 - Advances healthcare workforce retention by directing strategies to support recruitment, retention, and stability of healthcare workers across Oregon. ● HB 4092 – Establishes safety standards for child safety systems to better protect children and families. ● HB 4152 – Allows deployed service members to marry remotely, ensuring legal protections during service. ● HB 4132 – Improves access to services and protections for veterans. ● HB 4089 – Strengthens consumer protections related to contractor fraud and theft of services. ● HB 4111 – Implements administrative updates supporting public safety and government operations. ● HB 4138 – Establishes licensing for mobile pharmacies, increasing access to medications in underserved areas. ● HB 2239 - Directs the Oregon Health Authority to establish minimum quality and performance standards for certifying recovery residences that provide housing supports to individuals with substance use disorders through contracts with state or local behavioral health entities. ● HB 4083 - Cut red tape for behavioral health workers by streamlining credentialing, reducing administrative burdens, and expanding access to clinical supervision. ● HB 2678 - Support for housing insecure, older Oregonians through workforce supports and improved inter-agency coordination. ● HB 4142 – Updates medical marijuana regulations to improve oversight and patient access. ● SB 1595 – Enhances transparency and training requirements for professional licensing boards, strengthening healthcare accountability. ● HB 4144 – Establishes a battery recycling program and creating infrastructure. ● HR 3 – Recognizes and honors Black drag history and cultural contributions in Oregon. ● SB 450 - Designates November 14 of each year as Ruby Bridges Walk to School Day. ● SB 1596 – Expands instructional time by allowing play-based learning, supporting early childhood education and school readiness. ● SB 1212- Directs school districts to adopt a policy that prohibits the use of student personal electronic devices.
+CEI (Critical Energy Infrastructure) Subscribe for Updates Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you for your submission.
+We will update you soon!
+If you believe in Portland, join us in supporting Rep.
+Isadore Senator Lisa Reynolds Representative Mari Watanabe Representative Travis Nelson Representative Dacia Grayber Representative Thuy Tran .
+Portland Metro Chamber ‍ ‍ For State Representative of House District 33 Privacy Policy Contact Us: info@shannonjonesisadore.com Paid for by Team Shannon Jones Isadore PAC ID 23464

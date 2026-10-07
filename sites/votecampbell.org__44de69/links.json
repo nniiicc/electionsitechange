@@ -1,19 +1,78 @@
 [
-"http://<a href=\"https://www.signupgenius.com/index.cfm?go=c.SignUpSearch&eid=00C2CBDDF8C4FE&cs=09C3BADD8FBF8B117B0764035BB3&sortby=l.title%22+target%3D%22_blank%22%3E%3Cimg+src%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fimages%2Fsign-up-now1.gif%22+width%3D%22150%22+height%3D%2290%22+border%3D%220%22+alt%3D%22Sign+Up%21%22%3E%3C%2Fa%3E",
-"https://facebook.com/campbellh26",
-"https://indianavoters.in.gov/",
-"https://twitter.com/campbell4h26",
-"https://votecampbell.org/",
-"https://votecampbell.org/about-me",
-"https://votecampbell.org/contact",
-"https://votecampbell.org/donate",
-"https://votecampbell.org/gallery",
-"https://votecampbell.org/issues",
-"https://votecampbell.org/news-from-the-state-house",
-"https://votecampbell.org/volunteer",
-"https://votecampbell.org/wp-content/uploads/2022/01/DSC_4288-scaled.jpg",
-"https://votecampbell.org/wp-content/uploads/2024/07/Copy-of-Endorse-Campbell-Instagram-Post.png",
-"https://votecampbell.org/wp-content/uploads/2024/07/For-Your-Endorseent-Twitter-Post.png",
-"https://votecampbell.org/wp-content/uploads/2024/07/UAW-thanks-you-Twitter-Post.png",
-"https://wordpress.org/"
+{
+"text": "About",
+"href": "https://votecampbell.org/about-me/"
+},
+{
+"text": "Chris Campbell",
+"href": "https://votecampbell.org/"
+},
+{
+"text": "Contact",
+"href": "https://votecampbell.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://votecampbell.org/donate/"
+},
+{
+"text": "Gallery",
+"href": "https://votecampbell.org/gallery/"
+},
+{
+"text": "Home",
+"href": "https://votecampbell.org/"
+},
+{
+"text": "Issues",
+"href": "https://votecampbell.org/issues/"
+},
+{
+"text": "News from the State House",
+"href": "https://votecampbell.org/news-from-the-state-house/"
+},
+{
+"text": "Proudly powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "Register to Vote!",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Volunteer",
+"href": "https://votecampbell.org/volunteer/"
+},
+{
+"text": "Volunteer for 2024 Re-election campaign",
+"href": "http://<a%20href=%22https://www.signupgenius.com/index.cfm?go=c.SignUpSearch&eid=00C2CBDDF8C4FE&cs=09C3BADD8FBF8B117B0764035BB3&sortby=l.title%22+target%3D%22_blank%22%3E%3Cimg+src%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fimages%2Fsign-up-now1.gif%22+width%3D%22150%22+height%3D%2290%22+border%3D%220%22+alt%3D%22Sign+Up%21%22%3E%3C%2Fa%3E"
+},
+{
+"text": "[image: Chris and her Family]",
+"href": "https://votecampbell.org/wp-content/uploads/2022/01/DSC_4288-scaled.jpg"
+},
+{
+"text": "[image: Follow Chris on Facebook]",
+"href": "https://www.facebook.com/campbellh26"
+},
+{
+"text": "[image: Twitter page]",
+"href": "https://twitter.com/campbell4h26"
+},
+{
+"text": "[image]",
+"href": "https://votecampbell.org/"
+},
+{
+"text": "[image]",
+"href": "https://votecampbell.org/wp-content/uploads/2024/07/Copy-of-Endorse-Campbell-Instagram-Post.png"
+},
+{
+"text": "[image]",
+"href": "https://votecampbell.org/wp-content/uploads/2024/07/For-Your-Endorseent-Twitter-Post.png"
+},
+{
+"text": "[image]",
+"href": "https://votecampbell.org/wp-content/uploads/2024/07/UAW-thanks-you-Twitter-Post.png"
+}
 ]

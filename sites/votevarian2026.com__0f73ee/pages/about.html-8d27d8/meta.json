@@ -1,9 +1,14 @@
 {
  "description": "about",
  "final_url": "https://votevarian2026.com/about.html",
- "paid_for_by": null,
+ "fingerprint": "1f8cd68879a09765442ae7dcbb4cd7ee615eeea4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About | VoteVarian2026",
  "years_mentioned": [
-  "2026"
+  "1985",
+  "2026",
+  "2032",
+  "2035"
  ]
 }

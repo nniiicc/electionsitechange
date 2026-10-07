@@ -1,19 +1,74 @@
 [
-"http://facebook.com/sharer.php?u=https%3A%2F%2Fwww.repgillen.com%2FNews%2F37466%2FPress-Releases%2FGillen-Backs-First-Responders--Calls-for-Fiscal-Responsibility",
-"http://twitter.com/share?text=Gillen+Backs+First+Responders%2C+Calls+for+Fiscal+Responsibility+&url=https%3A%2F%2Fwww.repgillen.com%2FNews%2F37466%2FPress-Releases%2FGillen-Backs-First-Responders--Calls-for-Fiscal-Responsibility",
-"https://facebook.com/RepGillen",
-"https://pahousegop.com/TermsOfUse",
-"https://penndot.gov/_layouts/pa.penndot.formsandpubs/formsandpubs.aspx",
-"https://repgillen.com/",
-"https://repgillen.com/Email-Signup",
-"https://repgillen.com/NewsGroup/Press-Releases",
-"https://repgillen.com/PAGovLinks",
-"https://repgillen.com/about",
-"https://repgillen.com/citizenaccess",
-"https://repgillen.com/contact",
-"https://repgillen.com/districtmap",
-"https://repgillen.com/events",
-"https://repgillen.com/livestreams",
-"https://repgillen.com/video/latestvideo",
-"https://revenue.pa.gov/Pages/default.aspx"
+{
+"text": "Bio",
+"href": "https://www.repgillen.com/about"
+},
+{
+"text": "Citizens Access Portal",
+"href": "https://www.repgillen.com/citizenaccess"
+},
+{
+"text": "Contact",
+"href": "https://www.repgillen.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://www.repgillen.com/districtmap"
+},
+{
+"text": "Events",
+"href": "https://www.repgillen.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.repgillen.com/"
+},
+{
+"text": "Latest News",
+"href": "https://www.repgillen.com/NewsGroup/Press-Releases"
+},
+{
+"text": "Livestreams",
+"href": "https://www.repgillen.com/livestreams"
+},
+{
+"text": "PA State Rep. Mark GillenServing PA's 128th Legislative District",
+"href": "https://www.repgillen.com/"
+},
+{
+"text": "PennDOT Forms",
+"href": "https://www.penndot.gov/_layouts/pa.penndot.formsandpubs/formsandpubs.aspx"
+},
+{
+"text": "Property Tax/Rent Rebate",
+"href": "https://www.revenue.pa.gov/Pages/default.aspx"
+},
+{
+"text": "State Government Links",
+"href": "https://www.repgillen.com/PAGovLinks"
+},
+{
+"text": "Subscribe",
+"href": "https://www.repgillen.com/Email-Signup"
+},
+{
+"text": "Terms of use",
+"href": "https://www.pahousegop.com/TermsOfUse"
+},
+{
+"text": "Video",
+"href": "https://www.repgillen.com/video/latestvideo"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.repgillen.com%2FNews%2F37466%2FPress-Releases%2FGillen-Backs-First-Responders--Calls-for-Fiscal-Responsibility"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/RepGillen/"
+},
+{
+"text": "[tooltip: X]",
+"href": "http://twitter.com/share?text=Gillen+Backs+First+Responders%2C+Calls+for+Fiscal+Responsibility+&url=https%3A%2F%2Fwww.repgillen.com%2FNews%2F37466%2FPress-Releases%2FGillen-Backs-First-Responders--Calls-for-Fiscal-Responsibility"
+}
 ]

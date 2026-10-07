@@ -1,37 +1,146 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/datacenter/the-fix.html",
-"https://andycantwin.com/district31.html",
-"https://andycantwin.com/education.html",
-"https://andycantwin.com/index.html",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/tax.html",
-"https://andycantwin.com/volunteer.html",
-"https://andycantwin.com/workshop",
-"https://canons.sog.unc.edu/2025/03/potential-changes-to-north-carolinas-property-tax-relief-programs",
-"https://carolinapublicpress.org/68847/redistricting-reform-nc",
-"https://cbs17.com/news/north-carolina-news/a-huge-grain-of-salt-why-do-so-many-companies-receiving-incentives-from-nc-fail-to-meet-job-jobs",
-"https://commerce.nc.gov/documents/clawback-report-north-carolina-incentives-clawback-report",
-"https://commoncause.org/north-carolina/work/demand-fair-maps-in-north-carolina",
-"https://ednc.org/06-06-2025-state-board-unveils-opportunity-scholarship-pipeline-data",
-"https://facebook.com/andycantwin",
-"https://games.andycantwin.com/earnyourseat",
-"https://games.andycantwin.com/teacherrun",
-"https://governor.nc.gov/news/press-releases/2025/04/09/nc-medicaid-expansion-reaches-650000-north-carolinians-enrolled-fewer-18-months-after-launch",
-"https://instagram.com/andycantwin",
-"https://itep.org/property-tax-affordability-circuit-breaker-credits",
-"https://legiscan.com/NC/bill/S744/2025",
-"https://ncahec.net/about-nc-ahec/literature/the-state-of-the-physician-workforce-in-north-carolina",
-"https://ncbudget.org/citfactsheet",
-"https://ncbudget.org/senate-bill-641-reenact-child-tax-credit",
-"https://ncjustice.org/ncjc-urges-gov-stein-to-veto-sb-266",
-"https://ncleg.gov/BillLookup/2023/S642",
-"https://ncleg.gov/Sessions/2025/Bills/Senate/PDF/S698v0.pdf",
-"https://ncnewsline.com/2025/07/01/ncsu-analysts-duke-energy-bill-lifting-carbon-reduction-goal-will-cost-households-billions",
-"https://ncnewsline.com/2025/08/13/north-carolina-cut-medicaid-rebase-by-3-percent-all-providers-october-sangvai",
-"https://secure.actblue.com/donate/andybowline",
-"https://wfdd.org/health-safety/2025-09-02/dentists-fear-medicaid-reimbursement-cuts-would-reduce-access-to-care-in-north-carolina",
-"https://wral.com/story/nc-house-passes-bill-to-expand-private-school-vouchers-by-400-million-eligibility-to-all-family-incomes/20865782",
-"https://wunc.org/education/2025-04-29/teacher-pay-ranking-drops",
-"https://wunc.org/politics/2026-02-18/nc-legislature-limits-local-property-taxes"
+{
+"text": "$$$ Deep dive Data Centers: Cool. What Do We Get? →",
+"href": "https://andycantwin.com/datacenter/the-fix.html"
+},
+{
+"text": "$0 Deep dive Fix Our Schools →",
+"href": "https://andycantwin.com/education.html"
+},
+{
+"text": "$0 Deep dive The Make Taxes Suck Less Plan →",
+"href": "https://andycantwin.com/tax.html"
+},
+{
+"text": "04",
+"href": "https://andycantwin.com/index.html"
+},
+{
+"text": "05 Next up Your District →",
+"href": "https://andycantwin.com/district31.html"
+},
+{
+"text": "Bored?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "CBS 17: 60% of NC incentive grants canceled",
+"href": "https://www.cbs17.com/news/north-carolina-news/a-huge-grain-of-salt-why-do-so-many-companies-receiving-incentives-from-nc-fail-to-meet-job-jobs/"
+},
+{
+"text": "Common Cause NC: Fair Maps Act (HB 20)",
+"href": "https://www.commoncause.org/north-carolina/work/demand-fair-maps-in-north-carolina/"
+},
+{
+"text": "Democracy NC poll, Oct 2025 (84% oppose gerrymandering)",
+"href": "https://carolinapublicpress.org/68847/redistricting-reform-nc/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "EdNC: 92% of voucher recipients were already in private school",
+"href": "https://www.ednc.org/06-06-2025-state-board-unveils-opportunity-scholarship-pipeline-data/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Gov. office: 650K enrolled in Medicaid expansion",
+"href": "https://governor.nc.gov/news/press-releases/2025/04/09/nc-medicaid-expansion-reaches-650000-north-carolinians-enrolled-fewer-18-months-after-launch"
+},
+{
+"text": "ITEP: 13 states have no-age-limit circuit breakers",
+"href": "https://itep.org/property-tax-affordability-circuit-breaker-credits/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "NC AHEC: Physician shortage projections",
+"href": "https://www.ncahec.net/about-nc-ahec/literature/the-state-of-the-physician-workforce-in-north-carolina/"
+},
+{
+"text": "NC Budget & Tax Center: Corporate tax phaseout facts",
+"href": "https://ncbudget.org/citfactsheet/"
+},
+{
+"text": "NC Budget & Tax Center: SB 641 child tax credit",
+"href": "https://ncbudget.org/senate-bill-641-reenact-child-tax-credit/"
+},
+{
+"text": "NC Commerce: Incentives clawback report",
+"href": "https://www.commerce.nc.gov/documents/clawback-report-north-carolina-incentives-clawback-report"
+},
+{
+"text": "NC Justice Center on SB 266",
+"href": "https://www.ncjustice.org/ncjc-urges-gov-stein-to-veto-sb-266/"
+},
+{
+"text": "NC Newsline: Legislature cut Medicaid by #M",
+"href": "https://ncnewsline.com/2025/08/13/north-carolina-cut-medicaid-rebase-by-3-percent-all-providers-october-sangvai/"
+},
+{
+"text": "NC State analysis: SB 266 could cost ratepayers $23B",
+"href": "https://ncnewsline.com/2025/07/01/ncsu-analysts-duke-energy-bill-lifting-carbon-reduction-goal-will-cost-households-billions/"
+},
+{
+"text": "SB 642 (2023-24) prior attempt, never heard",
+"href": "https://www.ncleg.gov/BillLookup/2023/S642"
+},
+{
+"text": "SB 698 (2025) Senate redistricting bill",
+"href": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S698v0.pdf"
+},
+{
+"text": "SB 744 (2025) Voucher School Accountability Act",
+"href": "https://legiscan.com/NC/bill/S744/2025"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "Tinkering",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "UNC SOG: SB 349 circuit breaker changes",
+"href": "https://canons.sog.unc.edu/2025/03/potential-changes-to-north-carolinas-property-tax-relief-programs/"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "WFDD: Dentists turning away Medicaid patients",
+"href": "https://www.wfdd.org/health-safety/2025-09-02/dentists-fear-medicaid-reimbursement-cuts-would-reduce-access-to-care-in-north-carolina"
+},
+{
+"text": "WRAL: Leandro plan requires $4.5B+ by 2028",
+"href": "https://www.wral.com/story/nc-house-passes-bill-to-expand-private-school-vouchers-by-400-million-eligibility-to-all-family-incomes/20865782/"
+},
+{
+"text": "WUNC: Legislature looking at property tax limits",
+"href": "https://www.wunc.org/politics/2026-02-18/nc-legislature-limits-local-property-taxes"
+},
+{
+"text": "WUNC: NC teacher pay ranking (43rd)",
+"href": "https://www.wunc.org/education/2025-04-29/teacher-pay-ranking-drops"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "🍎 Play the game Teacher Run →",
+"href": "https://games.andycantwin.com/teacherrun"
+},
+{
+"text": "🪑 Play the game Earn Your Seat →",
+"href": "https://games.andycantwin.com/earnyourseat"
+}
 ]

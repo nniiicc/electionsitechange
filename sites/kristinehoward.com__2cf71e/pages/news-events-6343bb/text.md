@@ -1,59 +1,29 @@
-News & Events
-As part of Kristine’s 2018 campaign promise to treat her state representative position as a service to her community and create more transparency, this blog serves as a forum for consistent and straight forward updates from the house floor.
-News & Events
-As part of Kristine’s 2018 campaign promise to treat her state representative position as a service to her community and create more transparency, this blog serves as a forum for consistent and straight forward updates from the house floor.
-News & Events
-As part of Kristine’s 2018 campaign promise to treat her state representative position as a service to her community and create more transparency, this blog serves as a forum for consistent and straight forward updates from the house floor.
-Don’t fix what’s not broke!
-Greetings, In a guest opinion editorial appearing April 5, 2023 in the on-line news site City & State, Nathan Benefield, Senior Vice President of a rightwing corporate think tank, accused Democrats in the Pennsylvania House of Representatives of tanking a...
-A dangerous tune!
-Greetings Marty, Republicans in the Pennsylvania Senate are singing a dangerous tune.
+Meet Kristine Endorsements News & Events Get Involved Select Page News & Events As part of Kristine’s 2018 campaign promise to treat her state representative position as a service to her community and create more transparency, this blog serves as a forum for consistent and straight forward updates from the house floor.
+News & Events As part of Kristine’s 2018 campaign promise to treat her state representative position as a service to her community and create more transparency, this blog serves as a forum for consistent and straight forward updates from the house floor.
+News & Events As part of Kristine’s 2018 campaign promise to treat her state representative position as a service to her community and create more transparency, this blog serves as a forum for consistent and straight forward updates from the house floor.
+Don’t fix what’s not broke! by Kristine Howard | Apr 28, 2023 | News Greetings, In a guest opinion editorial appearing April 5, 2023 in the on-line news site City & State, Nathan Benefield, Senior Vice President of a rightwing corporate think tank, accused Democrats in the Pennsylvania House of Representatives of tanking a... read more A dangerous tune! by Kristine Howard | Apr 16, 2023 | News Greetings Marty, Republicans in the Pennsylvania Senate are singing a dangerous tune.
 It is an old song and not limited to Pennsylvania GOPers.
 Republicans in Washington, Harrisburg and state capitols across the country are all part of the deregulation chorus.
-What is...
-You are the first to know…
-Greetings, Last week, I filed nominating petitions to run for judge of the Chester County Court of Common Pleas.
+What is... read more You are the first to know… by Kristine Howard | Mar 17, 2023 | News Greetings, Last week, I filed nominating petitions to run for judge of the Chester County Court of Common Pleas.
 It was not an easy decision because I truly love my job as State Representative.
-However, my work in the legislature combined with my legal education and...
-When will the empty chair be at our table?
-Photo credit: John Pavolitz This is a difficult message to write on this most special and uniquely American holiday.
+However, my work in the legislature combined with my legal education and... read more When will the empty chair be at our table? by KHoward | Nov 30, 2022 | News Photo credit: John Pavolitz This is a difficult message to write on this most special and uniquely American holiday.
 Make no mistake, I will be breaking bread with my family and giving thanks for the blessings life has given.
-However, there is a cloud in my...
-Christian Nationalists and the Golden Rule
-Photo credit – Medium The Christian Nationalist movement is the newest phenomenon shaping the Republican Party.
-Case in point, Pennsylvania’s Republican candidate for Governor, Doug Mastriano is, for all intents and purposes, the poster hero for this emerging...
-Labor Day is Dignity Day for workers
-Photo credit: Sealer Sales, Inc.
+However, there is a cloud in my... read more Christian Nationalists and the Golden Rule by KHoward | Oct 24, 2022 | News Photo credit – Medium The Christian Nationalist movement is the newest phenomenon shaping the Republican Party.
+Case in point, Pennsylvania’s Republican candidate for Governor, Doug Mastriano is, for all intents and purposes, the poster hero for this emerging... read more Labor Day is Dignity Day for workers by Dan Fox | Sep 6, 2022 | News Photo credit: Sealer Sales, Inc.
 Four years ago, when I was a candidate for State Representative, I shared this reflection about Labor Day and the dignity of work on my campaign website.
 I think it is worthy of repeating.
-Thank you for reading: I am a union...
-Pennsylvania’s back to school gun failure
-Photo credit: Kingdetector This week marked the beginning of school for more than a million Pennsylvania school children.
-Many kids returning to school were walking through metal detectors, some wearing bullet-proof back packs and too many leaving...
-Don’t fix what’s not broke!
-Greetings, In a guest opinion editorial appearing April 5, 2023 in the on-line news site City & State, Nathan Benefield, Senior Vice President of a rightwing corporate think tank, accused Democrats in the Pennsylvania House of Representatives of tanking a...
-It’s Child Abuse Prevention Month – again.
-Has anything changed since last year?
-Greetings Marty, A few years ago, before being elected to the Pennsylvania House of Representatives, I was employed by Chester County Department of Children Youth and Families as an investigator of child abuse and neglect.
-When people would hear what I did the...
-A dangerous tune!
-Greetings Marty, Republicans in the Pennsylvania Senate are singing a dangerous tune.
+Thank you for reading: I am a union... read more Pennsylvania’s back to school gun failure by KHoward | Aug 31, 2022 | News Photo credit: Kingdetector This week marked the beginning of school for more than a million Pennsylvania school children.
+Many kids returning to school were walking through metal detectors, some wearing bullet-proof back packs and too many leaving... read more Don’t fix what’s not broke! by Kristine Howard | Apr 28, 2023 | News Greetings, In a guest opinion editorial appearing April 5, 2023 in the on-line news site City & State, Nathan Benefield, Senior Vice President of a rightwing corporate think tank, accused Democrats in the Pennsylvania House of Representatives of tanking a... read more It’s Child Abuse Prevention Month – again.
+Has anything changed since last year? by Kristine Howard | Apr 28, 2023 | News Greetings Marty, A few years ago, before being elected to the Pennsylvania House of Representatives, I was employed by Chester County Department of Children Youth and Families as an investigator of child abuse and neglect.
+When people would hear what I did the... read more A dangerous tune! by Kristine Howard | Apr 16, 2023 | News Greetings Marty, Republicans in the Pennsylvania Senate are singing a dangerous tune.
 It is an old song and not limited to Pennsylvania GOPers.
 Republicans in Washington, Harrisburg and state capitols across the country are all part of the deregulation chorus.
-What is...
-You are the first to know…
-Greetings, Last week, I filed nominating petitions to run for judge of the Chester County Court of Common Pleas.
+What is... read more You are the first to know… by Kristine Howard | Mar 17, 2023 | News Greetings, Last week, I filed nominating petitions to run for judge of the Chester County Court of Common Pleas.
 It was not an easy decision because I truly love my job as State Representative.
-However, my work in the legislature combined with my legal education and...
-When will the empty chair be at our table?
-Photo credit: John Pavolitz This is a difficult message to write on this most special and uniquely American holiday.
+However, my work in the legislature combined with my legal education and... read more When will the empty chair be at our table? by KHoward | Nov 30, 2022 | News Photo credit: John Pavolitz This is a difficult message to write on this most special and uniquely American holiday.
 Make no mistake, I will be breaking bread with my family and giving thanks for the blessings life has given.
-However, there is a cloud in my...
-Christian Nationalists and the Golden Rule
-Photo credit – Medium The Christian Nationalist movement is the newest phenomenon shaping the Republican Party.
-Case in point, Pennsylvania’s Republican candidate for Governor, Doug Mastriano is, for all intents and purposes, the poster hero for this emerging...
-Labor Day is Dignity Day for workers
-Photo credit: Sealer Sales, Inc.
+However, there is a cloud in my... read more Christian Nationalists and the Golden Rule by KHoward | Oct 24, 2022 | News Photo credit – Medium The Christian Nationalist movement is the newest phenomenon shaping the Republican Party.
+Case in point, Pennsylvania’s Republican candidate for Governor, Doug Mastriano is, for all intents and purposes, the poster hero for this emerging... read more Labor Day is Dignity Day for workers by Dan Fox | Sep 6, 2022 | News Photo credit: Sealer Sales, Inc.
 Four years ago, when I was a candidate for State Representative, I shared this reflection about Labor Day and the dignity of work on my campaign website.
 I think it is worthy of repeating.
-Thank you for reading: I am a union...
+Thank you for reading: I am a union... read more DONATE HOME MEET KRISTINE OUR PRIORITIES ENDORSEMENTS GET INVOLVED LATEST NEWS Landmark Reform for Victims of Child Sex Abuse Back in Session Frackers Must Be Taxed VIDEO – Kristine Speaks to the House Floor DONATE HOME MEET KRISTINE OUR PRIORITIES ENDORSEMENTS GET INVOLVED LATEST NEWS Landmark Reform for Victims of Child Sex Abuse Back in Session Frackers Must Be Taxed VIDEO – Kristine Speaks to the House Floor Facebook Twitter Instagram ©# Paid for and authorized by Committee to Elect Kristine.

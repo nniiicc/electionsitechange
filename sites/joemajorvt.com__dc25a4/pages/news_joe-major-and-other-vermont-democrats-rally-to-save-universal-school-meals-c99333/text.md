@@ -1,9 +1,5 @@
-Feb 2025: Joe Major And Other Vermont Democrats Rally to Save Universal School Meals
-From Seven Days 21-Feb-2025:
-“Gov.
-Phil Scott’s plan to eliminate an $18.5 million program that provides free meals would hurt kids and have little impact on tax rates, [Democrats] say.”
-“Democrats have yet to fully explain what programs they would cut or revenue they would raise to keep property tax rates from rising again next year.
-They argue, however, that kids learn better if they’re not hungry and that the program eliminates the stigma created by the old system, when kids who got free meals stood out as poor.
-[Joe] Major, the senator from Windsor, drove that point home with a poignant story of a meal program manager who tearfully testified that under the old system, she once couldn’t provide a hot meal to a 6-year-old child because her family’s bill was too high.
-Because of this, the manager was only allowed to give the child a different meal, Major said.”
-From https://www.sevendaysvt.com/news/vermont-democrats-rally-to-save-universal-school-meals-42929053/
+0 Skip to Content Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Open Menu Close Menu Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Open Menu Close Menu Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Feb 2025: Joe Major And Other Vermont Democrats Rally to Save Universal School Meals May 25 Written By Joe Major From Seven Days 21-Feb-2025: “Gov.
+Phil Scott’s plan to eliminate an $18.5 million program that provides free meals would hurt kids and have little impact on tax rates, [Democrats] say.” “Democrats have yet to fully explain what programs they would cut or revenue they would raise to keep property tax rates from rising again next year.
+They argue, however, that kids learn better if they’re not hungry and that the program eliminates the stigma created by the old system, when kids who got free meals stood out as poor. [Joe] Major, the senator from Windsor, drove that point home with a poignant story of a meal program manager who tearfully testified that under the old system, she once couldn’t provide a hot meal to a 6-year-old child because her family’s bill was too high.
+Because of this, the manager was only allowed to give the child a different meal, Major said.” From https://www.sevendaysvt.com/news/vermont-democrats-rally-to-save-universal-school-meals-42929053/ Joe Major Next Next May 2025: Joe Major Speaks Out In Favor of Tax Exemptions for Veterans Benefits Joe Major for Windsor County Senate Donate Today!
+Actblue.com

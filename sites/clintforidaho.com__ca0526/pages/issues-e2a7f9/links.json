@@ -1,12 +1,58 @@
 [
-"https://clintforidaho.com/",
-"https://clintforidaho.com/about",
-"https://clintforidaho.com/author/clint",
-"https://clintforidaho.com/contact",
-"https://clintforidaho.com/donate",
-"https://clintforidaho.com/issues",
-"https://clintforidaho.com/media",
-"https://facebook.com/clintforidaho",
-"https://heritage.org/education/commentary/here-are-10-reasons-school-choice-winning",
-"https://twitter.com/clintforidaho"
+{
+"text": "About",
+"href": "https://clintforidaho.com/about/"
+},
+{
+"text": "Clint Hostetler",
+"href": "https://clintforidaho.com/author/clint/"
+},
+{
+"text": "Contact",
+"href": "https://clintforidaho.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://clintforidaho.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://clintforidaho.com/donate/"
+},
+{
+"text": "Donate to the Cause",
+"href": "https://clintforidaho.com/donate"
+},
+{
+"text": "Home",
+"href": "https://clintforidaho.com/"
+},
+{
+"text": "Issues",
+"href": "https://clintforidaho.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://clintforidaho.com/media/"
+},
+{
+"text": "[image: Clint Hostetler for Idaho Logo]",
+"href": "https://clintforidaho.com/"
+},
+{
+"text": "[image]",
+"href": "https://clintforidaho.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/clintforidaho"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://twitter.com/clintforidaho"
+},
+{
+"text": "https://www.heritage.org/education/commentary/here-are-10-reasons-school-choice-winning",
+"href": "https://www.heritage.org/education/commentary/here-are-10-reasons-school-choice-winning"
+}
 ]

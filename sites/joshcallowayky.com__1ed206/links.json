@@ -1,18 +1,70 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=61555428035596",
-"https://joshcallowayky.com/",
-"https://joshcallowayky.com/contact",
-"https://joshcallowayky.com/contribute",
-"https://joshcallowayky.com/contribute?amount=10",
-"https://joshcallowayky.com/contribute?amount=100",
-"https://joshcallowayky.com/contribute?amount=1000",
-"https://joshcallowayky.com/contribute?amount=25",
-"https://joshcallowayky.com/contribute?amount=250",
-"https://joshcallowayky.com/contribute?amount=50",
-"https://joshcallowayky.com/contribute?amount=500",
-"https://joshcallowayky.com/home",
-"https://joshcallowayky.com/meet_josh",
-"https://joshcallowayky.com/volunteer",
-"https://twitter.com/callowayforky?s=21"
+{
+"text": "$#",
+"href": "https://joshcallowayky.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://joshcallowayky.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://joshcallowayky.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://joshcallowayky.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://joshcallowayky.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://joshcallowayky.com/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://joshcallowayky.com/contribute?amount=1000"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://joshcallowayky.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://joshcallowayky.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://joshcallowayky.com/home"
+},
+{
+"text": "Meet Josh",
+"href": "https://joshcallowayky.com/meet_josh"
+},
+{
+"text": "Other",
+"href": "https://joshcallowayky.com/contribute"
+},
+{
+"text": "Volunteer",
+"href": "https://joshcallowayky.com/volunteer"
+},
+{
+"text": "[image: Josh Calloway]",
+"href": "https://joshcallowayky.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/callowayforky?s=21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61555428035596"
+}
 ]

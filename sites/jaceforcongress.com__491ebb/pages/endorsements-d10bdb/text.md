@@ -1,75 +1,15 @@
-Speaker of the House
-Governor
-Majority Leader of the U.S.
-House of Representatives
-House Majority Whip
-U.S.
-Representative, TX-3
-U.S.
-Representative, TX-5
-U.S.
-Representative SC-5
-U.S.
-Representative, TX-26
-U.S.
-Representative, TX-36
-U.S.
-Representative, CA-48
-U.S.
-Representative, FL-17
-U.S.
-Representative, OH-4
-U.S.
-Representative, WA-5
-U.S.
-Representative, WV-2
-U.S.
-Representative, PA-10
-U.S.
-Representative, TN-2
-Representative
-State Representative, HD-33
-Former State Rep, Tarrant County Commissioner
-Former State Rep, America's Constitutional Coach, Founder of Patriot Academy, Co-host of The WallBuilders Show
-Mayor, City of Fate
-District Attorney, Wood County
-Councilmember, Place 12 Dallas City Council
-Councilmember, Place 2, McLendon-Chisholm
-Upshur County Commissioner, Precinct 2
-Councilmember, Place 5 Fate City Council
-Rockwall City Councilwoman
-Councilmember, Place 4 Fate City Council
-7/7 Board Members Recommended
-Parliamentarian, Collin County GOP
-Chairman, Tarrant County GOP
-Committeewoman, SREC-SD1
-Committeewoman, SREC SD-2
-Committeewoman, SREC SD-9
-Committeewoman, SREC-SD11
-Committeeman (Fmr.), SREC SD-12
-Committeewoman, SREC SD-12
-Committeeman, SREC-SD15
-Committeewoman, SREC SD-16
-Committeeman, SREC-SD30
-Committeewoman, SREC-SD30
-Former Congressional Candidate, TX-32
-Host, Sara Gonzales Unfiltered
-Precinct Chair, Dallas County Precinct 1752
-President, Hunt Young Republicans
-Outreach Pastor, Steady Purpose Church
-President, Rockwall County Young Republicans
-President, Dallas Young Republicans
-President, Texas Gun Rights
-Grassroots Activist
-President, True Texas Project
-CEO, Patriot Mobile
-Precinct Chair, Rains County Precinct 306
-COO, Patriot Mobile
-Executive Director, Grassroots America We The People
-Chief Executive Officer, True Texas Project
-2nd Amendment Activist
-Founder, Sanctuary Cities for the Unborn Initiative; Director, Right to Life Across Texas
-Precinct Chair, Rockwall Precinct 4C
-Precinct Chair, Rockwall Precinct 1E
-President, America Principles Project PAC
-Precinct Chair, Rockwall Precinct 1C
+Endorsed by President Trump Home About Priorities Get Involved News Endorsements Donate Endorsements Key Endorsements President Donald Trump Elected Leaders Mike Johnson Speaker of the House Greg Abbott Governor Steve Scalise Majority Leader of the U.S.
+House of Representatives Tom Emmer House Majority Whip Keith Self U.S.
+Representative, TX-3 Lance Gooden U.S.
+Representative, TX-5 Ralph Norman U.S.
+Representative SC-5 Brandon Gill U.S.
+Representative, TX-26 Brian Babin U.S.
+Representative, TX-36 Darrell Issa U.S.
+Representative, CA-48 Greg Steube U.S.
+Representative, FL-17 Jim Jordan U.S.
+Representative, OH-4 Michael Baumgartner U.S.
+Representative, WA-5 Riley Moore U.S.
+Representative, WV-2 Scott Perry U.S.
+Representative, PA-10 Tim Burchett U.S.
+Representative, TN-2 Brent Money Representative Brian Harrison Representative Daniel Alders Representative David Spiller Representative Katrina Pierson State Representative, HD-33 Matt Krause Former State Rep, Tarrant County Commissioner Richard Hayes Representative Rick Green Former State Rep, America's Constitutional Coach, Founder of Patriot Academy, Co-host of The WallBuilders Show Wes Virdell Representative Andrew Greenberg Mayor, City of Fate Angela Albers District Attorney, Wood County Cara Mendelsohn Councilmember, Place 12 Dallas City Council Dennis London Councilmember, Place 2, McLendon-Chisholm Dustin Nicholson Upshur County Commissioner, Precinct 2 Mark Hatley Councilmember, Place 5 Fate City Council Melba Jeffus Rockwall City Councilwoman Rick Maneval Councilmember, Place 4 Fate City Council Organizations Texas Gun Rights PAC Texas Right to Life Turning Point Action America First Insight American Principles PAC Apartment Association of Greater Dallas (AAGD) Bull Moose Project Cherokee Rose Republican Women Collin County Republican Assembly (Recommends) Conservative Republicans of Texas Dallas County Young Republicans Freedom Caucus Fund Grassroots America We The People Gun Owners of America House Conservatives Fund Hunt County Young Republicans National Federation of Independent Business Protecting Texas Children Rockwall Young Republicans Sanctuary Cities for the Unborn Initiative Susan B.
+Anthony Pro-Life America Texans for Strong Borders Texans for Vaccine Choice Texas Eagle Forum Texas Family Action, a Friends of SAFA PAC Texas Family Project Texas Home School Coalition True Texas Project 7/7 Board Members Recommended Veteran Action Veterans for America First Wood County Republican Women Young Republicans of Texas Party Leaders Rohit Joy Parliamentarian, Collin County GOP Tim Davis Chairman, Tarrant County GOP Christin Bentley Committeewoman, SREC-SD1 Jerry Fisher Committeewoman, SREC SD-2 Anne Gebhart Committeewoman, SREC SD-9 Gaylyn Devine Committeewoman, SREC-SD11 David Wylie Committeeman (Fmr.), SREC SD-12 Lisa Hendrickson Committeewoman, SREC SD-12 Rolando Garcia Committeeman, SREC-SD15 Susan Fountain Committeewoman, SREC SD-16 Patrick Wamhoff Committeeman, SREC-SD30 Rachel Horton Committeewoman, SREC-SD30 Grassroots Monty Montanez Former Congressional Candidate, TX-32 Sara Gonzales Host, Sara Gonzales Unfiltered Abteen Vaziri Former Congressional Candidate, TX-32 Aimee Carrasco Former Congressional Candidate, TX-32 Barbara Stauffer Precinct Chair, Dallas County Precinct 1752 Benjamin Davis President, Hunt Young Republicans Brandon Jenkins Outreach Pastor, Steady Purpose Church Brett Bushnell President, Rockwall County Young Republicans Chad Cohen President, Dallas Young Republicans Chris McNutt President, Texas Gun Rights Darrell Day Former Congressional Candidate, TX-32 Frances White Grassroots Activist Fran Rhodes President, True Texas Project Glenn Story CEO, Patriot Mobile Gordon Heslop Former Congressional Candidate, TX-32 Harlan Bearden Precinct Chair, Rains County Precinct 306 James Ussery Former Congressional Candidate, TX-32 Jenny Story COO, Patriot Mobile JoAnn Fleming Executive Director, Grassroots America We The People John White Grassroots Activist Julie McCarty Chief Executive Officer, True Texas Project Kyle Rittenhouse 2nd Amendment Activist Mark Lee Dickson Founder, Sanctuary Cities for the Unborn Initiative; Director, Right to Life Across Texas Melinda McCarthy Precinct Chair, Rockwall Precinct 4C Misty Gajewski Grassroots Activist Patti Muggeo Precinct Chair, Rockwall Precinct 1E Paul Bondar Former Congressional Candidate, TX-32 Randy Long Grassroots Activist Shari London Grassroots Activist Terry Shilling President, America Principles Project PAC Terry Spiers Precinct Chair, Rockwall Precinct 1C Support Jace Help fight for President Trump's America First Agenda $5 $25 $50 $100 $150 Other Home About Priorities Get Involved News Endorsements Media Kit Donate Paid for by Jace Yarbrough for Congress PO BOX 1102, Rockwall TX 75087 Privacy Policy

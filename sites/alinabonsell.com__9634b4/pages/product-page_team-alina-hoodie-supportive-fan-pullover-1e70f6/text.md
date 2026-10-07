@@ -1,19 +1,6 @@
-Team Alina Hoodie — Supportive Fan Pullover
-$43.16Price
-A cozy, roomy hoodie that feels like a private cheer squad.
+top of page HOME MEET ALINA 8-POINT PLAN EVENTS NEWS CONTACT MERCH FOLLOW US GET INVOLVED DONATE Team Alina Hoodie — Supportive Fan Pullover $43.16 Price Size * S M L XL 2XL Color * White Quantity * Add to Cart Buy Now A cozy, roomy hoodie that feels like a private cheer squad.
 Soft medium-heavy fleece wraps you in warmth while the clean, scripted “Team Alina” design sits proudly on the chest—subtle, confident, and personal.
 Toss it on for early morning practices, long car rides to events, or late-night study sessions; the kangaroo pocket holds hands or small essentials, and the color-matched drawcord and double-lined hood keep the look tidy and durable.
 Breathable cotton-poly blend keeps it soft against the skin and resilient wash after wash.
 Wear it to show quiet support, to celebrate someone you care about, or to stay comfortable while you work toward a goal together.
-Product features
-- 50/50 cotton–poly medium-heavy fleece (8.0 oz/yd²) for soft warmth and durability
-- Tubular knit without side seams for a smooth, waste-reducing finish
-- Double-lined hood with color-matched drawcord and tear-away label
-- Kangaroo pouch pocket for hand warmth and small storage
-- DTF/DTG print and optional embroidery placements (chest, wrists) for long-lasting, crisp graphics
-Care instructions
-- Tumble dry: medium
-- Iron, steam or dry: low heat
-- Do not dryclean
-- Machine wash: cold (max 30C or 90F)
-- Non-chlorine: bleach as needed
+Product features - 50/50 cotton–poly medium-heavy fleece (8.0 oz/yd²) for soft warmth and durability - Tubular knit without side seams for a smooth, waste-reducing finish - Double-lined hood with color-matched drawcord and tear-away label - Kangaroo pouch pocket for hand warmth and small storage - DTF/DTG print and optional embroidery placements (chest, wrists) for long-lasting, crisp graphics Care instructions - Tumble dry: medium - Iron, steam or dry: low heat - Do not dryclean - Machine wash: cold (max 30C or 90F) - Non-chlorine: bleach as needed CONTACT info@alinabonsell.com 917-819-2636 PAID FOR BY ALINA FOR NY 2026 FIGHT FOR NY DONATE FOLLOW US bottom of page

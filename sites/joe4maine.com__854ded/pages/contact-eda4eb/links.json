@@ -1,11 +1,42 @@
 [
-"https://campaign.lizzotte.com/",
-"https://joe4maine.com/",
-"https://joe4maine.com/about",
-"https://joe4maine.com/contact",
-"https://joe4maine.com/donate",
-"https://joe4maine.com/endorsements",
-"https://joe4maine.com/issues",
-"https://joe4maine.com/news",
-"https://joe4maine.com/volunteer"
+{
+"text": "About",
+"href": "https://www.joe4maine.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.joe4maine.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.joe4maine.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.joe4maine.com/endorsements"
+},
+{
+"text": "Get your campaign website live in 24 hours",
+"href": "https://campaign.lizzotte.com"
+},
+{
+"text": "Issues",
+"href": "https://www.joe4maine.com/issues"
+},
+{
+"text": "Joseph McLaughlin for Maine House District 40 Representative",
+"href": "https://www.joe4maine.com/"
+},
+{
+"text": "News",
+"href": "https://www.joe4maine.com/news"
+},
+{
+"text": "Volunteer",
+"href": "https://www.joe4maine.com/volunteer"
+},
+{
+"text": "info@joemclaughlin4maine.com",
+"href": "mailto:info@joemclaughlin4maine.com"
+}
 ]

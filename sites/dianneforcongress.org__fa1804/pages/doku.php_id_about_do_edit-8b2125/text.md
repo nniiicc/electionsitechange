@@ -1,5 +1,10 @@
-about
-This page is read only.
+skip to content Dianne Blais for Congress!
+User Tools Register Log In Site Tools Search Tools Show page Old revisions Backlinks Recent Changes Media Manager Sitemap Register Log In > Recent Changes Media Manager Sitemap Trace: • start • about • volunteer_-_let_s_work_for_a_greenus • what_i_stand_for_-_a_greenus about This page is read only.
 You can view the source, but not change it.
 Ask your administrator if you think this is wrong.
-about.txt · Last modified: by dianne
+Dianne Blais had numerous jobs in Washington, DC and Virginia before becoming an active volunteer while raising 4 children and hosting over 100 foster children.
+She has been active in numerous organizations including the League of Women Voters although now she is mostly involved in peace organizations – she is horrified by U.S. policy with other countries – our bombs, sanctions and interference in other countries' governments. [[https://uspeacememorial.org|The US Peace Memorial Foundation]] lists many of the peace activists and peace organizations she admires.
+For about ten years, she has been most involved with: [[https://wilpfus.org|Women's International League for Peace and Freedom]] [[https://en.wikipedia.org/wiki/Jane_Addams|Jane Addams]] founded WILPF in 1915 - Dianne is convener of the Jane Addams branch of WILPF US.
+Dianne supports and would appreciate if you'd sign the petitions at [[https://worldbeyondwar.org/individual|World Beyond War]] and [[https://www.change.org/p/project-enduring-peace-petition?utm_medium=custom_url&utm_source=share_petition&recruited_by_id=fd56d920-551b-11ef-96ef-6f872fdf363e|Project Enduring Peace]] (PEP).
+She shares her vision for the world with [[https://www.foundingmothers.world/|Founding Mothers Movement]] for peace and gender equity.
+Ralph Nader and Jill Stein are models she tries to emulate. [[dianneforcongress@gmail.com]] about.txt · Last modified: 2026/09/21 09:34 by dianne Page Tools Show page Old revisions Backlinks Back to top Except where otherwise noted, content on this wiki is licensed under the following license: CC Attribution-Share Alike 4.0 International

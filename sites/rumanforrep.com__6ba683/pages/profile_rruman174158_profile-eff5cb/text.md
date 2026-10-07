@@ -1,23 +1,5 @@
-top of page
-Ronald Ruman
-Admin
-Followers
-Following
-Follow
-Profile
-Join date: Jan 26, 2026
-Posts (3)
-Oct 5, 2026 ∙ 1 min
-Ron Ruman on The Gary Sutton Show SportsRadio 98.9 FM & 1350 WOYK in York County, Pennsylvania
-Listen to Ron Ruman's interview on The Gary Sutton Show, taped September 29th 2026.
-Sep 24, 2026 ∙ 0 min
-Video: Meet Ron Ruman
-Sep 18, 2026 ∙ 1 min
-Ron Ruman's Statement on Data Centers
-Data centers must play by OUR rules, not theirs.
+top of page DONATE Home About Issues Get Involved Video & Media Contact Ronald Ruman Ronald Ruman Admin 0 Followers 0 Following Follow More actions Profile Profile Join date: Jan 26, 2026 Posts (3) Oct 5, 2026 ∙ 1 min Ron Ruman on The Gary Sutton Show SportsRadio 98.9 FM & 1350 WOYK in York County, Pennsylvania Listen to Ron Ruman's interview on The Gary Sutton Show, taped September 29th 2026.
+4 0 Sep 24, 2026 ∙ 0 min Video: Meet Ron Ruman 4 0 Sep 18, 2026 ∙ 1 min Ron Ruman's Statement on Data Centers Data centers must play by OUR rules, not theirs.
 Data centers must: pay for the electricity they use, and not push these costs onto residents and businesses strictly abide by water use guidelines so as not to threaten the community’s water supply be transparent with local residents and officials hire local residents whenever possible strictly abide by local noise and lighting ordinances I support repealing the sales tax exemption for data centers to buy equipment.
 The richest companies in...
-Ron Ruman
-- FOR PENNSYLVANIA REPRESENTATIVE -
-Paid for by RumanforRep
-bottom of page
+13 0 Ron Ruman - FOR PENNSYLVANIA REPRESENTATIVE - © # RumanforRep Paid for by RumanforRep info@rumanforrep.com bottom of page

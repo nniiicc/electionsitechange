@@ -1,7 +1,11 @@
 {
- "description": "Conoce el programa Clean Elections de Arizona y la participaci\u00f3n de Frank Steele en el financiamiento p\u00fablico de campa\u00f1as.",
+ "description": "Conoce el programa Clean Elections de Arizona y la participación de Frank Steele en el financiamiento público de campañas.",
  "final_url": "https://steeleforaz.com/es/elecciones-limpias/",
- "paid_for_by": null,
+ "fingerprint": "90e7708cfa18b77e8143a41bf66afe2e3a0c0339",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Clean Elections de Arizona | Frank Steele",
- "years_mentioned": []
+ "years_mentioned": [
+  "1998"
+ ]
 }

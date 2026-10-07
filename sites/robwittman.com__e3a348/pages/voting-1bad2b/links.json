@@ -1,25 +1,114 @@
 [
-"https://app.enhancedvoting.com/login/Voter/Account/Login2?returnUrl=%2Flogin%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcore.voter.frontend%26scope%3Dopenid%2520profile%2520offline_access%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fapp.enhancedvoting.com%252Fvoter%252Fapi%252Fauth%252Fcallback%26acr_values%3Dusertype%253AVoter%2520voterLoginMode%253Alight%2520shortName%253Avirginia%26code_challenge%3D5LpAJuksIs_7tXyG8B9iLy8zFZCASsR9YxMaHDOwmQs%26code_challenge_method%3DS256",
-"https://facebook.com/RobertJWittman",
-"https://robwittman.com/",
-"https://robwittman.com/about",
-"https://robwittman.com/contact",
-"https://robwittman.com/endorsements",
-"https://robwittman.com/get-involved",
-"https://robwittman.com/get-the-facts",
-"https://robwittman.com/issues",
-"https://robwittman.com/media-kit",
-"https://robwittman.com/site-map",
-"https://robwittman.com/voting",
-"https://secure.winred.com/rob-wittman/donate",
-"https://secure.winred.com/rob-wittman/donate?amount=100",
-"https://secure.winred.com/rob-wittman/donate?amount=250",
-"https://secure.winred.com/rob-wittman/donate?amount=50",
-"https://secure.winred.com/rob-wittman/donate?amount=500",
-"https://secure.winred.com/rob-wittman/storefront",
-"https://secure.winred.com/wittman-victory-committee/donate",
-"https://twitter.com/reelectwittman",
-"https://vote.elections.virginia.gov/VoterInformation/Lookup/absentee",
-"https://vote.elections.virginia.gov/VoterInformation/PublicContactLookup",
-"https://youtube.com/channel/UCTgPbi41IMkbTnnXm9FDCHg"
+{
+"text": "$100",
+"href": "https://secure.winred.com/rob-wittman/donate?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/rob-wittman/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/rob-wittman/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/rob-wittman/donate?amount=500"
+},
+{
+"text": "About",
+"href": "https://robwittman.com/about/"
+},
+{
+"text": "Contact us today!",
+"href": "https://robwittman.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/wittman-victory-committee/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://robwittman.com/endorsements/"
+},
+{
+"text": "General Registrar's Office",
+"href": "https://vote.elections.virginia.gov/VoterInformation/PublicContactLookup"
+},
+{
+"text": "Get Involved",
+"href": "https://robwittman.com/get-involved/"
+},
+{
+"text": "Get The Facts",
+"href": "https://robwittman.com/get-the-facts/"
+},
+{
+"text": "HERE",
+"href": "https://app.enhancedvoting.com/login/Voter/Account/Login2?returnUrl=%2Flogin%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcore.voter.frontend%26scope%3Dopenid%2520profile%2520offline_access%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fapp.enhancedvoting.com%252Fvoter%252Fapi%252Fauth%252Fcallback%26acr_values%3Dusertype%253AVoter%2520voterLoginMode%253Alight%2520shortName%253Avirginia%26code_challenge%3D5LpAJuksIs_7tXyG8B9iLy8zFZCASsR9YxMaHDOwmQs%26code_challenge_method%3DS256"
+},
+{
+"text": "HERE",
+"href": "https://vote.elections.virginia.gov/VoterInformation/Lookup/absentee"
+},
+{
+"text": "HERE",
+"href": "https://vote.elections.virginia.gov/VoterInformation/PublicContactLookup"
+},
+{
+"text": "Issues",
+"href": "https://robwittman.com/issues/"
+},
+{
+"text": "Media Kit",
+"href": "https://robwittman.com/media-kit/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/rob-wittman/donate"
+},
+{
+"text": "Request Ballot",
+"href": "https://vote.elections.virginia.gov/VoterInformation/Lookup/absentee"
+},
+{
+"text": "Site Map",
+"href": "https://robwittman.com/site-map/"
+},
+{
+"text": "State Portal",
+"href": "https://app.enhancedvoting.com/login/Voter/Account/Login2?returnUrl=%2Flogin%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcore.voter.frontend%26scope%3Dopenid%2520profile%2520offline_access%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fapp.enhancedvoting.com%252Fvoter%252Fapi%252Fauth%252Fcallback%26acr_values%3Dusertype%253AVoter%2520voterLoginMode%253Alight%2520shortName%253Avirginia%26code_challenge%3D5LpAJuksIs_7tXyG8B9iLy8zFZCASsR9YxMaHDOwmQs%26code_challenge_method%3DS256"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/rob-wittman/storefront/"
+},
+{
+"text": "VA Dept. of Elections",
+"href": "https://vote.elections.virginia.gov/VoterInformation/Lookup/absentee"
+},
+{
+"text": "Voting",
+"href": "https://robwittman.com/voting/"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/reelectwittman"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RobertJWittman/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCTgPbi41IMkbTnnXm9FDCHg"
+},
+{
+"text": "campaign@robwittman.com",
+"href": "mailto:campaign@robwittman.com"
+}
 ]

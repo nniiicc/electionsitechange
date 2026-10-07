@@ -1,8 +1,34 @@
 [
-"https://aaronforrep.com/",
-"https://aaronforrep.com/about",
-"https://aaronforrep.com/contact-aaron",
-"https://aaronforrep.com/issues",
-"https://aaronforrep.com/news",
-"https://secure.actblue.com/donate/aaron-michlewitz"
+{
+"text": "About",
+"href": "https://aaronforrep.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://aaronforrep.com/contact-aaron/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/aaron-michlewitz"
+},
+{
+"text": "Issues",
+"href": "https://aaronforrep.com/issues/"
+},
+{
+"text": "News",
+"href": "https://aaronforrep.com/news/"
+},
+{
+"text": "[image: Representative Aaron Michlewitz]",
+"href": "https://aaronforrep.com/"
+},
+{
+"text": "aaron.michlewitz@mahouse.gov",
+"href": "mailto:aaron.michlewitz@mahouse.gov"
+},
+{
+"text": "contact@aaronforrep.com",
+"href": "mailto:contact@aaronforrep.com"
+}
 ]

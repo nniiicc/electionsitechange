@@ -1,2 +1,2 @@
-Contact Join the team Name Email Message Send Contact Doug Mail Address P.O.
-Box 83720 Boise, ID 83720-0081 Email ricksford34@gmail.com Phone Number (208) 557-9665 Facebook-f Instagram
+Skip to content 818-758-4076 office@legit.com 3146 Koontz Lane, California Search Close Home About Issues News Legislation Contact Menu Home About Issues News Legislation Contact Contribute Contact Join the team Name Email Message Send Contact Doug Mail Address​ P.O.
+Box 83720 Boise, ID 83720-0081 Email ricksford34@gmail.com Phone Number (208) 557-9665 Facebook-f Instagram Contact Info Rexburg, Idaho 83440 ricksford34@gmail.com (208) 557-9665 Home About Issues News Legislation Contact Menu Home About Issues News Legislation Contact Copyright © # Doug Ricks | All rights reserved | Website created by Nathan Ricks

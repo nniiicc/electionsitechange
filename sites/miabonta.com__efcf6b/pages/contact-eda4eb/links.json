@@ -1,13 +1,54 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/miabonta",
-"https://flickr.com/photos/193053950@N06/with/51337720024",
-"https://instagram.com/mia.bonta",
-"https://linkedin.com/in/mialisabonta",
-"https://miabonta.com/",
-"https://miabonta.com/about",
-"https://miabonta.com/issues",
-"https://miabonta.com/news",
-"https://secure.actblue.com/donate/miabonta2026",
-"https://twitter.com/MiaBonta"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/miabonta2026"
+},
+{
+"text": "Gallery",
+"href": "https://www.flickr.com/photos/193053950@N06/with/51337720024"
+},
+{
+"text": "Issues",
+"href": "https://www.miabonta.com/issues"
+},
+{
+"text": "Meet Mia",
+"href": "https://www.miabonta.com/about"
+},
+{
+"text": "News",
+"href": "https://www.miabonta.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "TeamMia@miabonta.com",
+"href": "mailto:teammia@miabonta.com"
+},
+{
+"text": "[image: Mia Bonta for Assembly]",
+"href": "https://www.miabonta.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MiaBonta"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/miabonta"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mia.bonta"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/mialisabonta"
+},
+{
+"text": "teammia@MiaBonta.com",
+"href": "mailto:teamMia@MiaBonta.com"
+}
 ]

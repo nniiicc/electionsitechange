@@ -1,11 +1,5 @@
-news & press
-Latest From The Campaign Trail
-See the latest headlines, campaign updates and growing momentum behind Jessica Dixon Heitman.
-News Article
-Competitive race for suburban seat in Illinois House
-"The 97th district is one of the few competitive seats left in the Illinois House, after Democrats drew new legislative boundaries back in 2021.
-It covers some of Chicago’s southwest suburbs, including Plainfield."
-NEWS ARTICLE
-Democrats pick Jessica Dixon Heitman, late US senator’s granddaughter, to replace ex-state Rep.
-Harry Benton
-“As I take on this new duty, I’m going to do everything I can to make sure our district builds the reputation it deserves, as a place that values community, ethics, stability, fiscal responsibility and justice,” Heitman said.
+Skip navigation menu About Issues Contact News Homepage Donate About Issues Contact News Homepage Donate news & press Latest From The Campaign Trail See the latest headlines, campaign updates and growing momentum behind Jessica Dixon Heitman.
+News Article Competitive race for suburban seat in Illinois House "The 97th district is one of the few competitive seats left in the Illinois House, after Democrats drew new legislative boundaries back in 2021.
+It covers some of Chicago’s southwest suburbs, including Plainfield." Read more Aug 27 2026 NEWS ARTICLE Democrats pick Jessica Dixon Heitman, late US senator’s granddaughter, to replace ex-state Rep.
+Harry Benton “As I take on this new duty, I’m going to do everything I can to make sure our district builds the reputation it deserves, as a place that values community, ethics, stability, fiscal responsibility and justice,” Heitman said.
+Read more Jul 20 2026 Terms and Conditions Electjessicadixonheitman@gmail.com PO Box 1469, Plainfield, IL 60585 Powered by RUN! website builder Paid for by Citizens to Elect Jessica Dixon Heitman You need to enable JavaScript to run this app.

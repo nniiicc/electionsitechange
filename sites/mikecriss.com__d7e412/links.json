@@ -1,9 +1,54 @@
 [
-"https://facebook.com/crissforsenate",
-"https://forms.gle/1Hsma5pBBp6r7vw9A",
-"https://mikecriss.com/",
-"https://mikecriss.com/about-mike-criss",
-"https://mikecriss.com/privacy",
-"https://mikecriss.com/terms",
-"https://secure.anedot.com/criss/donate"
+{
+"text": "About Mike",
+"href": "https://www.mikecriss.com"
+},
+{
+"text": "Contact",
+"href": "https://www.mikecriss.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/criss/donate"
+},
+{
+"text": "GET IN TOUCH",
+"href": "https://www.mikecriss.com"
+},
+{
+"text": "Home",
+"href": "https://www.mikecriss.com"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.mikecriss.com/about-mike-criss"
+},
+{
+"text": "Lawn Sign",
+"href": "https://forms.gle/1Hsma5pBBp6r7vw9A"
+},
+{
+"text": "MIKE CRISS",
+"href": "https://www.mikecriss.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mikecriss.com/privacy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.mikecriss.com/terms"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.mikecriss.com/terms"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/crissforsenate"
+},
+{
+"text": "info@mikecriss.com",
+"href": "mailto:info@mikecriss.com"
+}
 ]

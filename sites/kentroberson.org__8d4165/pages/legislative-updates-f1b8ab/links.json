@@ -1,12 +1,46 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://img1.wsimg.com/blobby/go/313095cc-202f-404b-baee-189835a0dd10/2026%20End%20of%20Session%20Letter.pdf",
-"https://kentroberson.org/about-kent",
-"https://kentroberson.org/contact-us",
-"https://kentroberson.org/donate",
-"https://kentroberson.org/legislative-updates",
-"https://kentroberson.org/privacy",
-"https://kentroberson.org/scholarships",
-"https://kentroberson.org/upcoming-events-1",
-"https://kentroberson.org/welcome"
+{
+"text": "About Kent",
+"href": "https://kentroberson.org/about-kent"
+},
+{
+"text": "Contact Us",
+"href": "https://kentroberson.org/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://kentroberson.org/donate"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/313095cc-202f-404b-baee-189835a0dd10/2026%20End%20of%20Session%20Letter.pdf"
+},
+{
+"text": "Legislative Updates",
+"href": "https://kentroberson.org/legislative-updates"
+},
+{
+"text": "Privacy",
+"href": "https://kentroberson.org/privacy"
+},
+{
+"text": "Scholarships",
+"href": "https://kentroberson.org/scholarships"
+},
+{
+"text": "Upcoming Events",
+"href": "https://kentroberson.org/upcoming-events-1"
+},
+{
+"text": "Welcome",
+"href": "https://kentroberson.org/welcome"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/313095cc-202f-404b-baee-189835a0dd10/2026%20End%20of%20Session%20Letter.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

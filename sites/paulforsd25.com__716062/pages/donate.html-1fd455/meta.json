@@ -1,7 +1,11 @@
 {
  "description": "Contribute to Paul Kohlhoff's campaign for Colorado Senate District 25. Every dollar stays in the district. No dark money.",
  "final_url": "https://paulforsd25.com/donate.html",
- "paid_for_by": "Paid for by PAULFORSD25 Registered Agent: Paul Kohlhoff &copy; 2026 PAULFORSD25",
+ "fingerprint": "1ef917ec7a7d5a3df67c1326c0fdce6c7a060f21",
+ "format": 3,
+ "paid_for_by": "Paid for by PAULFORSD25 Registered Agent: Paul Kohlhoff © 2026 PAULFORSD25",
  "title": "Contribute | Paul Kohlhoff for Colorado Senate District 25",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

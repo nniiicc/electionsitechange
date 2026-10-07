@@ -1,123 +1,48 @@
-The following legislation was sponsored or co-sponsored by Representative Day.
+About News Issues Legislation Contact Get Involved Contribute Menu The following legislation was sponsored or co-sponsored by Representative Day.
 Legislation marked with an asterisk denotes that Representative Day is the primary sponsor.
-CIVIL RIGHTS AND CIVIL LIBERTIES
-*HD1693 An Act to protect the privacy of 911 callers:
-911 calls are the most traumatic moments of an individual’s life.
+CIVIL RIGHTS AND CIVIL LIBERTIES *HD1693 An Act to protect the privacy of 911 callers : 911 calls are the most traumatic moments of an individual’s life.
 Recordings of those calls shouldn’t be fodder for sensationalist journalism.
-This bill would create a presumption of privacy of those recordings while still providing a public transcript of the calls and a process for releasing the recordings when the public interest outweighs individual privacy concerns.
-*HD1720 An Act relative to political contributions:
-Would set state contribution limits to independent expenditure PACs (these new political entities are also known as “Super PAC’s”) by aligning them with existing limits of $5,000 per calendar year to “traditional” PAC’s.
-*HD1696 An Act prohibiting the participation of healthcare professionals in the torture and abuse of prisoners:
-Would require healthcare professionals licensed by the Commonwealth to adhere to the legal, moral and professional standards of their industry and requires these professionals to report suspected acts of torture and abusive treatment to an appropriate government agency or licensing authority.
-*HD1726 An Act to update expungement
-This bill builds on the 2018 criminal justice reform law and adds section 100c sealing in chapter 276 of Massachusetts General Law as sections that can be expunged.
-*H3274 An Act relative to access to justice
-This bill takes a different approach from the politically freighted Safe Communities Act — by focusing in on access to the courts and due process as key protections.
+This bill would create a presumption of privacy of those recordings while still providing a public transcript of the calls and a process for releasing the recordings when the public interest outweighs individual privacy concerns. *HD1720 An Act relative to political contributions: Would set state contribution limits to independent expenditure PACs (these new political entities are also known as “Super PAC’s”) by aligning them with existing limits of $5,000 per calendar year to “traditional” PAC’s. *HD1696 An Act prohibiting the participation of healthcare professionals in the torture and abuse of prisoners: Would require healthcare professionals licensed by the Commonwealth to adhere to the legal, moral and professional standards of their industry and requires these professionals to report suspected acts of torture and abusive treatment to an appropriate government agency or licensing authority. *HD1726 An Act to update expungement This bill builds on the 2018 criminal justice reform law and adds section 100c sealing in chapter 276 of Massachusetts General Law as sections that can be expunged. *H3274 An Act relative to access to justice This bill takes a different approach from the politically freighted Safe Communities Act — by focusing in on access to the courts and due process as key protections.
 It clarifies that court personnel may, upon request, provide federal agencies or ICE agents only with publicly available information about matters before the court, and may not otherwise notify them of the presence of individuals attending proceedings in Massachusetts courthouses, unless required by law.
 It also protects the rights of victims and witnesses of crime, and the integrity of the judicial process, by ensuring that prosecutors and court personnel do not seek information about their immigration status.
 It ensures that people held in state or county facilities be informed of their rights to not speak to ICE agents who wish to question them, or to obtain legal counsel before doing so.
-Lastly, it ensures that people held in state or county facilities on behalf of ICE be transported to state court hearings when necessary to adjudicate matters before the Massachusetts judiciary, in order to make sure people can take care of outstanding legal matters and preserve the smooth functioning of the judiciary.
-*HD1780 An Act relative to clarity and consistency for the Justice Reinvestment Oversight Board
-This bill builds on and modifies data collection requirements in the 2018 Criminal Justice reform law.
+Lastly, it ensures that people held in state or county facilities on behalf of ICE be transported to state court hearings when necessary to adjudicate matters before the Massachusetts judiciary, in order to make sure people can take care of outstanding legal matters and preserve the smooth functioning of the judiciary. *HD1780 An Act relative to clarity and consistency for the Justice Reinvestment Oversight Board This bill builds on and modifies data collection requirements in the 2018 Criminal Justice reform law.
 It harmonizes language in two places in statute, the authorizing language for the new Justice Reinvestment Oversight Board (JROB) and the language outlining the responsibilities of the Secretary of Public Safety regarding data collection and reporting.
-It also includes the DAs in the list of entities required to collect and report data.
-*H3277 An Act to Secure Civil Rights through the Courts of the Commonwealth
-The Massachusetts Civil Rights Act, which is the state analog to 42 USC 1983, requires a showing that isn’t required under section 1983 — namely that the claimed deprivation of rights be accompanied by “threats, intimidation or coercion.” As a result, plaintiffs deprived of rights by state actors almost always take their MA civil rights claims to federal court instead.
+It also includes the DAs in the list of entities required to collect and report data. *H3277 An Act to Secure Civil Rights through the Courts of the Commonwealth The Massachusetts Civil Rights Act, which is the state analog to 42 USC 1983, requires a showing that isn’t required under section 1983 — namely that the claimed deprivation of rights be accompanied by “threats, intimidation or coercion.” As a result, plaintiffs deprived of rights by state actors almost always take their MA civil rights claims to federal court instead.
 Unfortunately, federal courts are expected to be packed with Trump appointees, and are going to become increasingly hostile to civil rights.
 Perversely, without a strong state civil rights law, Massachusetts residents may be less able to vindicate their rights than people in other jurisdictions.
-This bill would create a new avenue for MA residents to pursue civil rights claims against government actors.
-*H100 An Act to promote employment for people with disabilities
-This bill would promote employment for people with disabilities thereby encouraging these assisted persons to achieve maximum personal independence through useful and productive employment.
+This bill would create a new avenue for MA residents to pursue civil rights claims against government actors. *H100 An Act to promote employment for people with disabilities This bill would promote employment for people with disabilities thereby encouraging these assisted persons to achieve maximum personal independence through useful and productive employment.
 The bill expands and creates a constant market for services that persons with disabilities can fill and subsequently minimizes their dependence on state-funded aid.
-By enhancing their dignity and ability to self-support, the legislation creates a new working capacity for persons with disabilities in the state.
-*H2041 An Act concerning the Massachusetts probation service
-In order to promote uniformity, Probation proposes amending all relevant current statutes to reflect a single name, i.e. the Massachusetts Probation Service.
-*H3278 An Act to improve probation violation proceedings
-The HOPE/MORR recidivism reduction project for moderate and high‐risk offenders is ongoing in several District Courts, and in Essex Superior and District Courts in Salem, as well as Superior Courts in Worcester and Lowell.
+By enhancing their dignity and ability to self-support, the legislation creates a new working capacity for persons with disabilities in the state. *H2041 An Act concerning the Massachusetts probation service In order to promote uniformity, Probation proposes amending all relevant current statutes to reflect a single name, i.e. the Massachusetts Probation Service. * H3278 An Act to improve probation violation proceedings The HOPE/MORR recidivism reduction project for moderate and high‐risk offenders is ongoing in several District Courts, and in Essex Superior and District Courts in Salem, as well as Superior Courts in Worcester and Lowell.
 The HOPE/MORR Program (Honest Opportunity Probation with Enforcement/Massachusetts Offender Recidivism Reduction) identifies probationers at high risk of violating the conditions of their community supervision and aims to deter them from using drugs and committing crime by imposing a swift, certain and measured sanction for any violation of probationary terms.
-This bill seeks to codify this process.
-*H3279 An Act relative to the punishment of organized retail crimes
-With the current language we are forced to indict retail crime cases as felonies.
-This bill allows the court to have an alternative misdemeanor option.
-*H3281 An Act concerning the arrest without a warrant of persons on probation and temporary custody
-This bill seeks to amend G.L. c. 279, § 3 to clarify who may issue a probation warrant.
+This bill seeks to codify this process. *H3279 An Act relative to the punishment of organized retail crimes With the current language we are forced to indict retail crime cases as felonies.
+This bill allows the court to have an alternative misdemeanor option. *H3281 An Act concerning the arrest without a warrant of persons on probation and temporary custody This bill seeks to amend G.L. c.
+279, § 3 to clarify who may issue a probation warrant.
 Specifically, for the purposes of the section, we propose that a probation officer includes a regional probation supervisor, a statewide probation supervisor, the Director of the ELMO Center, the Deputy Commissioner of Field Services, and any other personnel whom the Commissioner directs.
 Clarifying that managers can issue probation warrants promotes timely responses violations, especially outside court hours.
 Further, Probation seeks to remove the temporary nature of probation warrants.
 This would ensure that warrants issued by Probation after court hours could be entered in the warrant management system for widespread distribution.
-CONSUMER PROTECTIONS
-*H948 An Act relative to automobile insurance premiums:
-Massachusetts has one of the highest rates of car insurance premium increases after a first time at-fault accident.
+CONSUMER PROTECTIONS *H948 An Act relative to automobile insurance premiums: Massachusetts has one of the highest rates of car insurance premium increases after a first time at-fault accident.
 The national average for how much a car insurance premium rates rises after the first claim is 41%.
 Massachusetts is currently one of the highest in the country with a 76% premium jump, and Maryland is the lowest with only a 22% jump.
 This bill would bring Massachusetts in line with other states by limiting a premium adjustment to no more than 35% of the existing premium for a first-time accident.
-The bill would also adjust the number of years the premium increase for a first-time accident is in effect, reducing the penalty from five years to three years.
-*H223 An Act relative to the security of personal financial information
-Aims to impose stronger data security standards – modeled on the Gramm-Leach-Bliley (GLBA) data security requirements that banks and other financial firms must adhere to – onto non-financial entities that use or store sensitive personal financial information.
-The legislation also deletes the language in Massachusetts law, (Chapter 93 H) that currently prohibits a bank from informing its customers of the nature of the breach who caused the breach or the number of residents affected – an area of confusion for consumers following a breach.
-*H950 An Act Relative to Notices by Insurance Companies
-The bill will allow for consumers to choose if they want to receive notifications of cancellation or non-renewal electronically from their insurance companies.
-It will modernize the insurance laws to recognize that many consumers prefer to have communications and important notices sent to them exclusively by electronic means.
-*H2835 An Act Requiring Disclosure to Consumers Regarding Home Heating Oil Insurance
-This bill requires home heating oil companies to provide their customers with an annual notification that insurance is available to cover oil spills.
-Many consumers do not realize that they are covered for oil spills and this bill makes sure that everyone is notified.
-*H224 An Act to enhance, update and protect the 2013 Motor Vehicle Right to Repair Law and Consumer Rights
-The bill will ensure vehicle owners and lessees control the telematic data (mechanical and personal) and ensure independent repairers have access to telematic mechanical data to repair the motor vehicle.
-*H2219 An Act relative to protecting local retirees
-This bill makes appropriations for the fiscal year 2020 for the maintenance of the departments, boards, commissions, institutions and certain activities of the Commonwealth, for interest, sinking fund and serial bond requirements and for certain permanent improvements.
-*H748 An Act Authorizing the Massachusetts Water Resources Authority to release easements upon certain real property in the Town of Stoneham
-Releases three easements of land from the MWRA to Stoneham for further development.
-COMBATING DRUG DEPENDENCY
-*HD1697 An Act increasing certain civil penalties for unlawful possession of marijuana:
-Would increase the fines commensurate with how much marijuana product or plants an individual is unlawfully growing or in possession of as a way to discourage trafficking and the continuation of the black market industry.
-EDUCATION
-*H425 An Act relative to early literacy education
-This bill directs resources to teach literacy to students before they fall too far behind.
+The bill would also adjust the number of years the premium increase for a first-time accident is in effect, reducing the penalty from five years to three years. *H223 An Act relative to the security of personal financial information Aims to impose stronger data security standards – modeled on the Gramm-Leach-Bliley (GLBA) data security requirements that banks and other financial firms must adhere to – onto non-financial entities that use or store sensitive personal financial information.
+The legislation also deletes the language in Massachusetts law, (Chapter 93 H) that currently prohibits a bank from informing its customers of the nature of the breach who caused the breach or the number of residents affected – an area of confusion for consumers following a breach. *H950 An Act Relative to Notices by Insurance Companies The bill will allow for consumers to choose if they want to receive notifications of cancellation or non-renewal electronically from their insurance companies.
+It will modernize the insurance laws to recognize that many consumers prefer to have communications and important notices sent to them exclusively by electronic means. *H2835 An Act Requiring Disclosure to Consumers Regarding Home Heating Oil Insurance This bill requires home heating oil companies to provide their customers with an annual notification that insurance is available to cover oil spills.
+Many consumers do not realize that they are covered for oil spills and this bill makes sure that everyone is notified. *H224 An Act to enhance, update and protect the 2013 Motor Vehicle Right to Repair Law and Consumer Rights The bill will ensure vehicle owners and lessees control the telematic data (mechanical and personal) and ensure independent repairers have access to telematic mechanical data to repair the motor vehicle. *H2219 An Act relative to protecting local retirees This bill makes appropriations for the fiscal year 2020 for the maintenance of the departments, boards, commissions, institutions and certain activities of the Commonwealth, for interest, sinking fund and serial bond requirements and for certain permanent improvements. *H748 An Act Authorizing the Massachusetts Water Resources Authority to release easements upon certain real property in the Town of Stoneham Releases three easements of land from the MWRA to Stoneham for further development.
+COMBATING DRUG DEPENDENCY *HD1697 An Act increasing certain civil penalties for unlawful possession of marijuana: Would increase the fines commensurate with how much marijuana product or plants an individual is unlawfully growing or in possession of as a way to discourage trafficking and the continuation of the black market industry.
+EDUCATION *H425 An Act relative to early literacy education This bill directs resources to teach literacy to students before they fall too far behind.
 The bill enables DESE to establish new early literacy grant programs to improve literacy rates among Massachusetts students in grades K-5, with a focus on high needs districts.
 It also includes funding that allows the Department of Early Education and Care to promote early literacy for ages 0-5 through a grant program.
-ENVIRONMENTAL ISSUES
-*H747 An Act to increase access to recycling:
-Would close a loophole by requiring all municipalities and commercial solid waste haulers who provide trash removal services to also offer comparable access to recycling services.
-*H2833 An Act relative to the Energy Facilities Siting Board:
-Requires the EFSB to consider a new power line proposal’s impact on the environment and public health, and seeks to ensure minimum impact on the overall wellbeing of residents abutting the project before prioritizing the “lowest possible cost” of the proposal when considering whether or not to grant a license.
-*H2834 An Act relative to reasonable municipal expenses:
-This allows cities and towns to seek reimbursement of legal fees from utilities incurred as a result of that municipality’s involvement in the siting process.
-*H2991 An Act limiting autonomous driving capabilities to zero emission and electric vehicles
-This bill makes any future autonomous vehicle must be a Zero-emission and electric car.
-*H750 An Act to save recycling costs in the Commonwealth
-This bill creates a Sustainable Packaging Advisory Board to manage the recycling of municipalities and provide incentives to them to create a zero waste plan and be reimbursed for a certain percentage of all municipals recycling.
-JOBS & THE ECONOMY
-*HD5054 An Act relative to restaurant delivery commissions during the COVID-19 Pandemic
-The bill would cap the imposition of commissions third-party delivery companies are allowed to charge non-chain restaurants during the state of emergency at ten percent.
+ENVIRONMENTAL ISSUES *H747 An Act to increase access to recycling: Would close a loophole by requiring all municipalities and commercial solid waste haulers who provide trash removal services to also offer comparable access to recycling services. *H2833 An Act relative to the Energy Facilities Siting Board: Requires the EFSB to consider a new power line proposal’s impact on the environment and public health, and seeks to ensure minimum impact on the overall wellbeing of residents abutting the project before prioritizing the “lowest possible cost” of the proposal when considering whether or not to grant a license. *H2834 An Act relative to reasonable municipal expenses: This allows cities and towns to seek reimbursement of legal fees from utilities incurred as a result of that municipality’s involvement in the siting process. *H2991 An Act limiting autonomous driving capabilities to zero emission and electric vehicles This bill makes any future autonomous vehicle must be a Zero-emission and electric car. *H750 An Act to save recycling costs in the Commonwealth This bill creates a Sustainable Packaging Advisory Board to manage the recycling of municipalities and provide incentives to them to create a zero waste plan and be reimbursed for a certain percentage of all municipals recycling.
+JOBS & THE ECONOMY *HD5054 An Act relative to restaurant delivery commissions during the COVID-19 Pandemic The bill would cap the imposition of commissions third-party delivery companies are allowed to charge non-chain restaurants during the state of emergency at ten percent.
 While some delivery services have waived fees on the customer side of the transaction, they often charge participating restaurants up to 30 percent in commission fees.
 These fees cut into a significant portion of the restaurant’s overall revenue, which has already been drastically reduced during the current state of emergency.
-The cap would apply only to restaurants with five or fewer locations in an attempt to respond to heightened challenges these small businesses now face as a result of the prohibitions against dining-in service.
-*HD 5163 An Act relative to the protection of essential businesses
-The bill makes sure that essential businesses would be immune from suit and civil liability for any damages alleged to have been sustained as a result of alleged exposure to the 2019 coronavirus on the premises of the essential business or due to the operations the essential business; provided, however, that the essential business is providing its services in good faith.
-SENIOR ISSUES
-*H2219 An Act relative to protecting local retirees
-This bill would lock in existing health care premium percentages paid by municipal retirees at the current rate, allowing cities and towns to increase premium percentages on future retirees only.
-HEALTH & PUBLIC SAFETY
-*H1145 An Act relative to the treatment of epilepsy and seizure disorders
-Currently, patients with seizure disorders are required to “fail first” on three different medications before insurance companies will cover the treatment protocol prescribed by the treating physicians.
-This bill would reduce the requirement to one “fail first” trial, which will improve the quality of life for those with epilepsy and other seizure disorders.
-*H3493 An Act prohibiting the participation of healthcare professionals in the torture and abuse of prisoners
-This bill would require healthcare professionals licensed by the Commonwealth to adhere to the legal, moral and professional standards of their industry and to report suspected acts of torture and abusive treatment to an appropriate government agency or licensing authority.
-*H 949 An Act relative to Non-Medical Switching
-This bill would restrict the abilities of insurance companies to force patients to switch medications for non-medical reasons.
-*H1707 An Act to Promote High Value and Evidence-based Behavioral health Care
-This requires the HPC to conduct a study on the variation of the practice of behavioral health providers and to make recommendations for improving quality and outcomes for patients.
-*HD1779 An Act to expand access to mental health services
-This bill (language forthcoming) would add as a condition of licensure a requirement that psychiatrists providing mental health treatment in MA accept a certain percentage of MassHealth patients for treatment.
-*H1146 An Act regarding shared responsibility for funding of healthcare oversight agencies
-This changes the responsibility for funding of health care oversight agencies and creates a maximum expense payment.
-*H3280 An Act to Enhance Driver Impairment Prevention:
-With this bill, a defendant during incarceration undergoes an assessment that uses a standardized evidence-based instrument performed by a provider or other licensed or certified substance use disorder professional to determine whether he or she has a diagnosis for alcohol dependence and would likely benefit from a United States Food and Drug Administration approved medication-assisted treatment that is indicated for the treatment of alcohol dependence.
-*H2993 An Act to increase safety on public ways:
-This requires the impoundment (for at least 12 hours) of a vehicle operated by an individual who is resuscitated during an overdose.
+The cap would apply only to restaurants with five or fewer locations in an attempt to respond to heightened challenges these small businesses now face as a result of the prohibitions against dining-in service. *HD 5163 An Act relative to the protection of essential businesses The bill makes sure that essential businesses would be immune from suit and civil liability for any damages alleged to have been sustained as a result of alleged exposure to the 2019 coronavirus on the premises of the essential business or due to the operations the essential business; provided, however, that the essential business is providing its services in good faith.
+SENIOR ISSUES *H2219 An Act relative to protecting local retirees This bill would lock in existing health care premium percentages paid by municipal retirees at the current rate, allowing cities and towns to increase premium percentages on future retirees only.
+HEALTH & PUBLIC SAFETY *H1145 An Act relative to the treatment of epilepsy and seizure disorders Currently, patients with seizure disorders are required to “fail first” on three different medications before insurance companies will cover the treatment protocol prescribed by the treating physicians.
+This bill would reduce the requirement to one “fail first” trial, which will improve the quality of life for those with epilepsy and other seizure disorders. *H3493 An Act prohibiting the participation of healthcare professionals in the torture and abuse of prisoners This bill would require healthcare professionals licensed by the Commonwealth to adhere to the legal, moral and professional standards of their industry and to report suspected acts of torture and abusive treatment to an appropriate government agency or licensing authority. *H 949 An Act relative to Non-Medical Switching This bill would restrict the abilities of insurance companies to force patients to switch medications for non-medical reasons. *H1707 An Act to Promote High Value and Evidence-based Behavioral health Care This requires the HPC to conduct a study on the variation of the practice of behavioral health providers and to make recommendations for improving quality and outcomes for patients. *HD1779 An Act to expand access to mental health services This bill (language forthcoming) would add as a condition of licensure a requirement that psychiatrists providing mental health treatment in MA accept a certain percentage of MassHealth patients for treatment. *H1146 An Act regarding shared responsibility for funding of healthcare oversight agencies This changes the responsibility for funding of health care oversight agencies and creates a maximum expense payment. *H3280 An Act to Enhance Driver Impairment Prevention: With this bill, a defendant during incarceration undergoes an assessment that uses a standardized evidence-based instrument performed by a provider or other licensed or certified substance use disorder professional to determine whether he or she has a diagnosis for alcohol dependence and would likely benefit from a United States Food and Drug Administration approved medication-assisted treatment that is indicated for the treatment of alcohol dependence. *H2993 An Act to increase safety on public ways: This requires the impoundment (for at least 12 hours) of a vehicle operated by an individual who is resuscitated during an overdose.
 This bill tracks the existing impoundment law for OUI cases.
-VETERANS
-*H1261 An Act relative to low-income housing eligibility for disabled veterans
-This bill exempts veterans’ disability payments from being counted toward their eligibility for low income housing.
-*H3201 An Act honoring as veterans certain persons who served in the National Guard and Reserves
-This is a non-monetary bill that would allow Reservists and members of the National Guard who are honorably discharged following at least 20 years of service to receive the designation of “veteran” and will bring Massachusetts in line with federal law.
+VETERANS *H1261 An Act relative to low-income housing eligibility for disabled veterans This bill exempts veterans’ disability payments from being counted toward their eligibility for low income housing. *H3201 An Act honoring as veterans certain persons who served in the National Guard and Reserves This is a non-monetary bill that would allow Reservists and members of the National Guard who are honorably discharged following at least 20 years of service to receive the designation of “veteran” and will bring Massachusetts in line with federal law.
+Paid for by the Committee to Elect Michael Day John C.
+Henaghan, Treasurer Scroll to top

@@ -1,3 +1,4 @@
+Meet Doug Priorities #WithSmith Volunteer RSVP Donate Meet Doug Priorities #WithSmith Volunteer RSVP Donate It's Great to Meet You I'm Doug Smith, it's an honor to represent you in state government.
 Assemblyman Doug Smith was elected to represent the people of the 5th District in the New York State Assembly on April 24, 2018.
 His district spans the townships of Brookhaven and Islip in Suffolk County.
 Doug Smith is dedicated to public service and fighting for Long Island.
@@ -11,3 +12,25 @@ He worked his way through college at Cooky’s Deli in Bohemia.
 He spent nights teaching adult education courses, and on the weekends helped educate homeless and underprivileged youth in the Sachem School District before fulfilling his dream of becoming a high school math teacher.
 Doug and his wife, Elizabeth, reside in Holbrook where they are raising their daughter, Sophie.
 They attend Westminster United Presbyterian Church in West Islip.
+"I do solemnly swear that I will support the Constitution of the United States, and the Constitution of the State of New York, and that I will faithfully discharge the duties of the office of Member of the Assembly according to the best of my ability, so help me God." - Assemblyman Doug Smith taking office on April 30, 2018 Your Priorities are My Priorities As your representative, I'm committed to an agenda that puts your family first.
+Public Safety I have a record of supporting law enforcement & opposing Albany’s Pro-Criminal Agenda.
+Cost of Living I’m a tax fighter that has fought to reduce government spending and the cost of living.
+Strong Education I’m working to expand educational opportunities for our kids and keep them safe in their schools.
+Restoring Integrity Help me restore honesty and integrity to our state government.
+New Yorkers deserve better!
+Infrastructure From repaving the LIE to upgrading the LIRR, I’m working to deliver resources for our district.
+Small Business Working with our Chambers of Commerce, I’m fighting for our small business community.
+Our Environment Long Island is our home, I’ve supported laws to preserve and protect our environment.
+Protecting Workers We’re a working community, I support labor and have fought for high paying jobs and benefits.
+Chip in and show your support!
+My campaign is powered by small dollar donations - even $# helps!
+DONATE TODAY The Rescue Mission to Save New York Continues!
+In 2022, 48% of New Yorkers & 60% of Long Islanders voted for a new direction.
+They're #WithSmith Thank you for your support in my 2018, 2020, and 2022 Re-Election Campaigns!
+Political Parties New York State Republican Party New York State Conservative Party New York State Independence Party Suffolk County Republican Committee Suffolk County Conservative Party Brookhaven Town Republican Committee Islip Town Republican Committee Brookhaven Town Conservative Party Islip Town Conservative Party Law Enforcement Suffolk County Police Benevolent Association Suffolk County Correction Officers Association Suffolk County Deputy Sheriffs PBA Suffolk County Superior Officers Association Suffolk County Detectives Association Suffolk County Detective Investigators Association Suffolk County Probation Officers Association Suffolk County Court Employee Association Suffolk County Police Conference Nassau County Police Benevolent Association Nassau County Superior Officers Association Nassau County Detectives Association New York State Troopers PBA Police Conference of New York Organizations The National Federation of Independent Business (NFIB) Organized Labor New York State AFL-CIO New York State United Teachers (NYSUT) Long Island Federation of Labor Building & Construction Trades Council of Nassau & Suffolk CSEA New York New York State PEF (Public Employees Federation) Laborers Internation Union North America (LiUNA) United Brotherhood of Carpenters and Joiners of America North Atlantic States Regional Council of Carpenters Suffolk County AME Laborers Local 66 Plumbers Local 200 CWA (Communication Workers of America) CWA Local 1109 IBEW (Int’l Brotherhood of Electrical Workers) IBEW Local 1049 IBEW Local 25 International Union of Operating Engineers (IUOE) IUOE Local 891 IUOE Local 138 NYSUT Suffolk Region Sachem Central Teachers Association Middle Country Teachers Association Patchogue-Medford Congress of Teachers Sheet Metal, Air, Rail Transportation (SMART) Local 28 United University Professions (UUP) Newspapers Newsday Editorial Board – 2018, 2020, 2022, 2024 The Islip Messenger The Brookhaven Messenger The Smithtown Messenger The Brookhaven Review The Ronkonkoma Review Assemblyman Doug Smith was re-elected with over 67% of the vote in 2022!
+Assemblyman Doug Smith stands with Suffolk County Deputy Sheriffs PBA President John Becker & Suffolk County Correction Officers Association President Lou Viscusi.
+Stay & Fight: Long Island is worth it!
+Long Island is our home.
+Don't become a statistic.
+Join the fight to save our state!
+Get Involved Your Name* Your Email* Mobile Phone* Zip Code* Get Involved (please select at least one): Display a Lawn Sign Knock on Doors Make Phone Calls Write Letters to the Editor Host a Fundraiser Parades & Events Other Δ Stay Connected Facebook Instagram Follow on Instagram #ago 14 6 #ago 13 0 #ago 7 0 #ago 21 0 #ago 5 0 #ago 17 2 Meet Doug Priorities #WithSmith Volunteer RSVP Donate

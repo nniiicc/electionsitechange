@@ -1,100 +1,402 @@
 [
-"http://gnat.tv/",
-"http://yahoo.com/news/videos/former-vt-gov-kunin-endorses-160547324.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJnVaWOrgAfQi6Pl508K1m-NLhFYsk-I_u4q-MBeJOdJwLv15Uqwru4LpQ5F2O5rKqmJuSz3iLoUqj6NyMg-T5tzgYf2SIYOQ4D6DriccOEkmNlI6IGv_Pz-dh5g1fh1bjRjNSO8vpe6AURv4yq_Y8pYr9gjIXaT0SN3dDm4ScTh",
-"https://addisonindependent.com/2026/06/18/molly-gray-understands-her-constituents",
-"https://addisonindependent.com/2026/06/18/opinion-molly-gray-understands-vermonts-education-issues",
-"https://addisonindependent.com/2026/07/02/opinion-as-lt-gov-molly-gray-would-fight-ice",
-"https://addisonindependent.com/2026/07/16/senator-hardy-says-molly-gray-has-the-skills-and-a-proven-record",
-"https://addisonindependent.com/2026/07/23/molly-gray-candidate-for-lieutenant-governor-is-an-avid-defender-of-vermonters-rights",
-"https://benningtonbanner.com/opinion/letters/letter-to-the-editor-ann-graham-in-support-of-molly-gray/article_917ebd88-4083-45aa-b756-0a3bc240c605.html",
-"https://benningtonbanner.com/opinion/letters/letter-to-the-editor-bob-stannard-in-support-of-molly-gray/article_4785a0ad-e829-4266-8803-7fe6be0942bc.html",
-"https://benningtonbanner.com/opinion/letters/letter-to-the-editor-brian-campion-in-support-of-molly-gray/article_3e658d09-ae56-4ac3-a206-962f9e860e71.html",
-"https://benningtonbanner.com/opinion/letters/letter-to-the-editor-howard-dean-in-support-of-molly-gray/article_40dffdc2-abdc-47b3-9d90-7c427f083e41.html",
-"https://benningtonbanner.com/opinion/letters/letter-to-the-editor-judy-murphy-in-support-of-molly-gray/article_eb5e22bf-8ba2-43fb-b262-a8ed531d8a3f.html",
-"https://benningtonbanner.com/opinion/letters/letter-to-the-editor-robert-campbell-in-support-of-molly-gray/article_c22e7141-fe11-473e-b010-a9dbf6a3b68f.html",
-"https://burlingtonfreepress.com/story/news/local/vermont/2026/01/06/former-vt-lieutenant-governor-molly-gray-running-again-election-trump-impacts-john-rodgers/88033264007?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z111204p000650c000650e004200v111204&gca-ft=103&gca-ds=sophi",
-"https://commonsnews.org/issue/851/851VT_prepares_for_ICE",
-"https://commonsnews.org/issue/868/868molly_gray_in_Bratt",
-"https://facebook.com/mollyforvermont",
-"https://gnat-tv.org/the-news-project-in-studio-a-conversation-with-molly-gray-2026",
-"https://instagram.com/mollyforvermont",
-"https://manchesterjournal.com/local-news/gray-kicks-off-local-campaign-for-lt-gov/article_b72b35d2-2190-4833-945c-098491bdf6cb.html",
-"https://miltonindependent.com/news/government/no-more-ceremonial-positions-gray-wants-back-in-as-lt-gov/article_fb5c551d-bda2-5b84-9961-be9039cd9f3d.html",
-"https://mollyforvt.com/",
-"https://mollyforvt.com/cart",
-"https://mollyforvt.com/contact",
-"https://mollyforvt.com/group-events",
-"https://mollyforvt.com/meet-molly",
-"https://mollyforvt.com/press",
-"https://mollyforvt.com/priorities",
-"https://mollyforvt.com/s/Molly-Gray_An-Open-Letter-To-Vermont-Indivisible.pdf",
-"https://mollyforvt.com/supporters",
-"https://mollyforvt.com/volunteer",
-"https://mountaintimes.info/2026/06/24/building-the-housing-vermont-needs",
-"https://mountaintimes.info/2026/08/05/endorsing-molly-gray-for-lt-governor",
-"https://mychamplainvalley.com/news/meet-the-democratic-candidates-for-vermonts-lt-governor",
-"https://mynbc5.com/article/democratic-candidates-for-lieutenant-governor-meet-with-voters-in-rutland/71009140",
-"https://mynbc5.com/article/democratic-candidates-push-for-vt-lt-gov-nomination-one-month-before-primary/71922609",
-"https://mynbc5.com/article/molly-gray-vermont-lieutenant-governor/69915946",
-"https://open.spotify.com/episode/5HeuaflpCVEDnbIhzwdJFo",
-"https://podcasts.apple.com/cy/podcast/molly-gray/id1463676492?i=1000761107963",
-"https://podcasts.apple.com/us/podcast/molly-gray-feels-liberated/id1674893973?i=1000745643059",
-"https://podcasts.apple.com/us/podcast/molly-gray-wants-her-old-job-back/id1708273447?i=1000771869275",
-"https://reformer.com/local-news/lieutenant-governor-candidates-discuss-economic-issues-in-southern-vermont/article_30ca759f-eafc-4672-bbf7-48d12ac4ac8f.html",
-"https://reformer.com/local-news/lt-gov-candidate-molly-gray-revisits-her-roots-in-brattleboro/article_dfff965f-7785-4e1e-be21-845348c7cf89.html",
-"https://reformer.com/news/state/democrat-lieutenant-governor-candidates-hold-forum/article_d904cdd0-8765-408a-ae86-2bddf9843c64.html",
-"https://reformer.com/opinion/columnists/commentary-molly-gray-building-the-housing-vermont-needs/article_98a49fe7-4544-4bd3-b315-6d4ac94a50b8.html",
-"https://reformer.com/opinion/columnists/commentary-molly-gray-it-s-time-to-invest-in-vermont/article_55abf29c-bd20-4d37-a43c-3212291c2533.html",
-"https://reformer.com/opinion/letter-to-the-editor-molly-gray-for-lieutenant-governor/article_374c15e5-e675-452e-a8ea-37dcf3f6ae6f.html",
-"https://reformer.com/opinion/letter-to-the-editor-molly-gray-for-lieutenant-governor/article_96ef8c3d-637c-4dc4-bd27-2f58673ea3eb.html",
-"https://reformer.com/opinion/letter-to-the-editor-richards-for-governor-gray-for-lieutenant-governor/article_d4c29ec9-b9e0-470c-bdfd-ccde745b5244.html",
-"https://rutlandherald.com/opinion/letters/endorsing-gray/article_877c0503-5edd-573b-8481-02905e284820.html",
-"https://samessenger.com/opinion/editorials/molly-gray-uniquely-qualified-to-be-vt-s-lt-gov/article_7976d43a-2ae1-4a56-9189-2fb691bffdd0.html",
-"https://samessenger.com/opinion/letters_to_editor/letter-to-the-editor-why-i-support-molly-gray-for-lt-gov/article_6dd89f3a-b18a-4d91-9404-6bfcc077a51f.html",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=25",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=250",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=500",
-"https://sevendaysvt.com/guides/primaryvoterguide/qa-democratic-candidates-for-lieutenant-governor",
-"https://sevendaysvt.com/news/election-2026/democrat-molly-gray-bests-two-opponents-in-primary-for-lieutenant-governor",
-"https://sevendaysvt.com/news/election-2026/is-rural-vermont-rising-or-falling-short",
-"https://thevpo.org/2026/02/10/so-molly-gray-is-the-outsider",
-"https://thevpo.org/2026/07/02/hey-weve-got-a-new-poll-and-phil-scott-is-vulnerable",
-"https://timesargus.com/opinion/letters/endorsing-gray/article_fabdb096-bb34-5ab5-8511-8fc4ac7c0f59.html",
-"https://valleyreporter.com/index.php/news/letters/21419-return-gray-to-office",
-"https://vcv.podbean.com/e/26electionpreview",
-"https://vermontbiz.com/people/january/gray-announces-key-hires-lieutenant-governor-campaign",
-"https://vermontpublic.org/local-news/2026-07-29/former-lieutenant-governor-wants-job-back-can-other-candidates-break-through",
-"https://vermontpublic.org/local-news/2026-08-11/molly-gray-wins-democratic-primary-lieutenant-governor",
-"https://vermontpublic.org/local-news/2026-09-28/poll-shows-molly-gray-poised-unseat-lt-gov-john-rodgers",
-"https://vermontpublic.org/local-news/2026-09-28/vermont-general-election-poll-results-2026",
-"https://vermontpublic.org/show/vermont-edition/2026-07-21/vermont-2026-democratic-primary-debate-lieutenant-governor",
-"https://vnews.com/2026/06/07/letter-molly-gray-the-fighter-we-need",
-"https://vtcng.com/otherpapersbvt/opinion/letters_to_the_editor/molly-gray-an-accomplished-woman-of-character/article_59a1baca-112c-40b5-8b9d-a8ea0dccfc32.html",
-"https://vtcng.com/shelburnenews/opinion/letters_to_the_editor/molly-gray-is-ready-to-work/article_57a52002-69d1-4406-8f7d-acd2ef9fd7d1.html",
-"https://vtcng.com/shelburnenews/opinion/letters_to_the_editor/supporting-molly-gray-for-lieutenant-governor/article_509a5ede-bf96-430d-a7e9-b83ef3df69c0.html",
-"https://vtcng.com/state_and_world/state_news/a-new-molly-gray-back-on-the-ballot/article_004d3f11-432c-4845-8956-61628bbb57ff.html",
-"https://vtcng.com/thecitizenvt/opinion/letters_to_the_editor/molly-gray-will-fight-for-communities-needs/article_a1610ffc-ac59-4e3e-8c80-84953b7fb710.html",
-"https://vtdigger.org/2026/01/05/molly-gray-is-running-for-vermont-lieutenant-governor-again",
-"https://vtdigger.org/2026/07/02/candidates-for-vermont-governor-and-lieutenant-governor-report-large-fundraising-hauls",
-"https://vtdigger.org/2026/07/20/in-vermonts-democratic-primary-for-lieutenant-governor-leading-candidates-past-work-takes-center-stage",
-"https://wamc.org/news/2026-01-06/molly-gray-discusses-why-she-is-again-running-for-vermont-lieutenant-governor-three-years-after-she-left-the-position",
-"https://wamc.org/news/2026-02-19/democratic-candidates-for-vermont-lieutenant-governor-attend-a-meet-the-candidates-forum?_amp=true",
-"https://wamc.org/news/2026-04-22/a-look-at-vermont-democratic-lieutenant-governor-primary-candidates",
-"https://waterburyroundabout.org/opinion-archive/letter-molly-gray-for-lieutenant-governor",
-"https://waterburyroundabout.org/opinion-archive/letter-molly-gray-is-a-progressive-leader",
-"https://waterburyroundabout.org/opinion-archive/molly-gray-vermonters-deserve-universal-primary-care",
-"https://wcax.com/2026/01/05/molly-gray-launches-campaign-reclaim-vt-lieutenant-governor-seat",
-"https://wcax.com/2026/06/09/802-news-molly-gray-wants-her-old-job-back",
-"https://wcax.com/2026/07/01/this-could-be-year-democrats-unseat-gov-scott-pollster-says",
-"https://wcax.com/2026/07/14/campaign-countdown-vermont-democrats-lieutenant-governor",
-"https://wcax.com/2026/07/16/democratic-candidates-debate-vermont-housing-crisis-public-forum",
-"https://wcax.com/2026/08/12/gray-takes-democratic-primary-lieutenant-governor",
-"https://wcax.com/2026/09/24/poll-shows-molly-gray-leading-lt-gov-race-balint-with-commanding-lead-house-race",
-"https://wcax.com/video/2026/07/29/wcax-debate-vt-democratic-candidates-lieutenant-governor",
-"https://wcax.com/video/2026/08/12/molly-gray-tells-supporters-why-she-ran-vt-lieutenant-governor-again",
-"https://wcax.com/video/2026/09/16/campaign-countdown-candidates-vermont-lieutenant-governor",
-"https://x.com/mollyforvermont"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=500"
+},
+{
+"text": "0",
+"href": "https://www.mollyforvt.com/cart"
+},
+{
+"text": "802 News: Molly Gray wants her old job back",
+"href": "https://www.wcax.com/2026/06/09/802-news-molly-gray-wants-her-old-job-back/"
+},
+{
+"text": "A New Molly Gray Is Back On The Ballot",
+"href": "https://www.vtcng.com/state_and_world/state_news/a-new-molly-gray-back-on-the-ballot/article_004d3f11-432c-4845-8956-61628bbb57ff.html"
+},
+{
+"text": "A former lieutenant governor wants the job back. Can the other candidates break through?",
+"href": "https://www.vermontpublic.org/local-news/2026-07-29/former-lieutenant-governor-wants-job-back-can-other-candidates-break-through"
+},
+{
+"text": "A look at Vermont Democratic Lieutenant Governor primary candidates",
+"href": "https://www.wamc.org/news/2026-04-22/a-look-at-vermont-democratic-lieutenant-governor-primary-candidates"
+},
+{
+"text": "CONTACT",
+"href": "https://www.mollyforvt.com/contact"
+},
+{
+"text": "Campaign Countdown: The candidates for Vermont lieutenant governor",
+"href": "https://www.wcax.com/video/2026/09/16/campaign-countdown-candidates-vermont-lieutenant-governor/"
+},
+{
+"text": "Campaign Countdown: Vermont Democrats for lieutenant governor",
+"href": "https://www.wcax.com/2026/07/14/campaign-countdown-vermont-democrats-lieutenant-governor/"
+},
+{
+"text": "Candidates for Vermont governor and lieutenant governor report large fundraising hauls",
+"href": "https://vtdigger.org/2026/07/02/candidates-for-vermont-governor-and-lieutenant-governor-report-large-fundraising-hauls/"
+},
+{
+"text": "Commentary | Molly Gray: Building the housing Vermont needs",
+"href": "https://www.reformer.com/opinion/columnists/commentary-molly-gray-building-the-housing-vermont-needs/article_98a49fe7-4544-4bd3-b315-6d4ac94a50b8.html"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "Democrat Molly Gray Bests Two Opponents in Primary for Lieutenant Governor",
+"href": "https://www.sevendaysvt.com/news/election-2026/democrat-molly-gray-bests-two-opponents-in-primary-for-lieutenant-governor/"
+},
+{
+"text": "Democrat lieutenant governor candidates hold forum",
+"href": "https://www.reformer.com/news/state/democrat-lieutenant-governor-candidates-hold-forum/article_d904cdd0-8765-408a-ae86-2bddf9843c64.html"
+},
+{
+"text": "Democratic Vermont lieutenant governor candidates take questions in Middlebury",
+"href": "https://www.wamc.org/news/2026-02-19/democratic-candidates-for-vermont-lieutenant-governor-attend-a-meet-the-candidates-forum?_amp=true"
+},
+{
+"text": "Democratic candidates debate Vermont housing crisis at public forum",
+"href": "https://www.wcax.com/2026/07/16/democratic-candidates-debate-vermont-housing-crisis-public-forum/"
+},
+{
+"text": "Democratic candidates for Lieutenant Governor meet with voters in Rutland",
+"href": "https://www.mynbc5.com/article/democratic-candidates-for-lieutenant-governor-meet-with-voters-in-rutland/71009140"
+},
+{
+"text": "Democratic candidates for Vermont Lt. Gov push for nomination one month before primary",
+"href": "https://www.mynbc5.com/article/democratic-candidates-push-for-vt-lt-gov-nomination-one-month-before-primary/71922609"
+},
+{
+"text": "EVENTS",
+"href": "https://www.mollyforvt.com/group-events"
+},
+{
+"text": "Endorsing Molly Gray for Lt. Governor",
+"href": "https://mountaintimes.info/2026/08/05/endorsing-molly-gray-for-lt-governor/"
+},
+{
+"text": "Former Lt. Gov. Molly Gray wants her old job back. Here's why",
+"href": "https://www.burlingtonfreepress.com/story/news/local/vermont/2026/01/06/former-vt-lieutenant-governor-molly-gray-running-again-election-trump-impacts-john-rodgers/88033264007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z111204p000650c000650e004200v111204&gca-ft=103&gca-ds=sophi"
+},
+{
+"text": "Former VT Gov. Kunin endorses Gray in Lt. Gov.'s race",
+"href": "http://yahoo.com/news/videos/former-vt-gov-kunin-endorses-160547324.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJnVaWOrgAfQi6Pl508K1m-NLhFYsk-I_u4q-MBeJOdJwLv15Uqwru4LpQ5F2O5rKqmJuSz3iLoUqj6NyMg-T5tzgYf2SIYOQ4D6DriccOEkmNlI6IGv_Pz-dh5g1fh1bjRjNSO8vpe6AURv4yq_Y8pYr9gjIXaT0SN3dDm4ScTh"
+},
+{
+"text": "Getting ready for the worst",
+"href": "https://www.commonsnews.org/issue/851/851VT_prepares_for_ICE"
+},
+{
+"text": "Gray announces key hires for lieutenant governor campaign",
+"href": "https://vermontbiz.com/people/january/gray-announces-key-hires-lieutenant-governor-campaign"
+},
+{
+"text": "Gray kicks off local campaign for Lt. Gov.",
+"href": "https://www.manchesterjournal.com/local-news/gray-kicks-off-local-campaign-for-lt-gov/article_b72b35d2-2190-4833-945c-098491bdf6cb.html"
+},
+{
+"text": "Gray makes case in Brattleboro for her lieutenant governor bid",
+"href": "https://www.commonsnews.org/issue/868/868molly_gray_in_Bratt"
+},
+{
+"text": "Gray takes Democratic primary for Vt. lieutenant governor",
+"href": "https://www.wcax.com/2026/08/12/gray-takes-democratic-primary-lieutenant-governor/"
+},
+{
+"text": "Gray: Building the housing Vermont needs",
+"href": "https://mountaintimes.info/2026/06/24/building-the-housing-vermont-needs/"
+},
+{
+"text": "Hey, We’ve Got a New Poll and… Phil Scott is Vulnerable??",
+"href": "https://thevpo.org/2026/07/02/hey-weve-got-a-new-poll-and-phil-scott-is-vulnerable/"
+},
+{
+"text": "Howard Dean: Molly Gray for lieutenant governor",
+"href": "https://www.benningtonbanner.com/opinion/letters/letter-to-the-editor-howard-dean-in-support-of-molly-gray/article_40dffdc2-abdc-47b3-9d90-7c427f083e41.html"
+},
+{
+"text": "In Vermont’s Democratic primary for lieutenant governor, leading candidates’ past work takes center stage",
+"href": "https://vtdigger.org/2026/07/20/in-vermonts-democratic-primary-for-lieutenant-governor-leading-candidates-past-work-takes-center-stage/"
+},
+{
+"text": "Is Rural Vermont Rising or Falling Short?",
+"href": "https://www.sevendaysvt.com/news/election-2026/is-rural-vermont-rising-or-falling-short/"
+},
+{
+"text": "Letter to the Editor: As Lt. Gov., Molly Gray would fight ICE",
+"href": "https://www.addisonindependent.com/2026/07/02/opinion-as-lt-gov-molly-gray-would-fight-ice/"
+},
+{
+"text": "Letter to the Editor: Bob Stannard, In Support of Molly Gray",
+"href": "https://www.benningtonbanner.com/opinion/letters/letter-to-the-editor-bob-stannard-in-support-of-molly-gray/article_4785a0ad-e829-4266-8803-7fe6be0942bc.html"
+},
+{
+"text": "Letter to the Editor: Brian Campion | In support of Molly Gray",
+"href": "https://www.benningtonbanner.com/opinion/letters/letter-to-the-editor-brian-campion-in-support-of-molly-gray/article_3e658d09-ae56-4ac3-a206-962f9e860e71.html"
+},
+{
+"text": "Letter to the Editor: Endorsing Gray",
+"href": "https://www.rutlandherald.com/opinion/letters/endorsing-gray/article_877c0503-5edd-573b-8481-02905e284820.html"
+},
+{
+"text": "Letter to the Editor: Endorsing Gray",
+"href": "https://www.timesargus.com/opinion/letters/endorsing-gray/article_fabdb096-bb34-5ab5-8511-8fc4ac7c0f59.html"
+},
+{
+"text": "Letter to the Editor: In Support of Molly Gray",
+"href": "https://www.benningtonbanner.com/opinion/letters/letter-to-the-editor-ann-graham-in-support-of-molly-gray/article_917ebd88-4083-45aa-b756-0a3bc240c605.html"
+},
+{
+"text": "Letter to the Editor: In Support of Molly Gray",
+"href": "https://www.benningtonbanner.com/opinion/letters/letter-to-the-editor-judy-murphy-in-support-of-molly-gray/article_eb5e22bf-8ba2-43fb-b262-a8ed531d8a3f.html"
+},
+{
+"text": "Letter to the Editor: In Support of Molly Gray",
+"href": "https://www.benningtonbanner.com/opinion/letters/letter-to-the-editor-robert-campbell-in-support-of-molly-gray/article_c22e7141-fe11-473e-b010-a9dbf6a3b68f.html"
+},
+{
+"text": "Letter to the Editor: Molly Gray for lieutenant governor",
+"href": "https://www.reformer.com/opinion/letter-to-the-editor-molly-gray-for-lieutenant-governor/article_374c15e5-e675-452e-a8ea-37dcf3f6ae6f.html"
+},
+{
+"text": "Letter to the Editor: Molly Gray for lieutenant governor",
+"href": "https://www.reformer.com/opinion/letter-to-the-editor-molly-gray-for-lieutenant-governor/article_96ef8c3d-637c-4dc4-bd27-2f58673ea3eb.html"
+},
+{
+"text": "Letter to the Editor: Molly Gray for lieutenant governor",
+"href": "https://www.waterburyroundabout.org/opinion-archive/letter-molly-gray-for-lieutenant-governor"
+},
+{
+"text": "Letter to the Editor: Molly Gray is a progressive leader",
+"href": "https://www.waterburyroundabout.org/opinion-archive/letter-molly-gray-is-a-progressive-leader"
+},
+{
+"text": "Letter to the Editor: Molly Gray is an accomplished woman of character",
+"href": "https://www.vtcng.com/otherpapersbvt/opinion/letters_to_the_editor/molly-gray-an-accomplished-woman-of-character/article_59a1baca-112c-40b5-8b9d-a8ea0dccfc32.html"
+},
+{
+"text": "Letter to the Editor: Molly Gray is ready to work",
+"href": "https://www.vtcng.com/shelburnenews/opinion/letters_to_the_editor/molly-gray-is-ready-to-work/article_57a52002-69d1-4406-8f7d-acd2ef9fd7d1.html"
+},
+{
+"text": "Letter to the Editor: Molly Gray understands Vermont’s education issues",
+"href": "https://www.addisonindependent.com/2026/06/18/opinion-molly-gray-understands-vermonts-education-issues/"
+},
+{
+"text": "Letter to the Editor: Molly Gray understands her constituents",
+"href": "https://www.addisonindependent.com/2026/06/18/molly-gray-understands-her-constituents/"
+},
+{
+"text": "Letter to the Editor: Molly Gray will fight for communities’ needs",
+"href": "https://www.vtcng.com/thecitizenvt/opinion/letters_to_the_editor/molly-gray-will-fight-for-communities-needs/article_a1610ffc-ac59-4e3e-8c80-84953b7fb710.html"
+},
+{
+"text": "Letter to the Editor: Molly Gray, The Fighter We Need",
+"href": "https://vnews.com/2026/06/07/letter-molly-gray-the-fighter-we-need/"
+},
+{
+"text": "Letter to the Editor: Return Gray to Office",
+"href": "https://www.valleyreporter.com/index.php/news/letters/21419-return-gray-to-office"
+},
+{
+"text": "Letter to the Editor: Richards for governor, Gray for lieutenant governor",
+"href": "https://www.reformer.com/opinion/letter-to-the-editor-richards-for-governor-gray-for-lieutenant-governor/article_d4c29ec9-b9e0-470c-bdfd-ccde745b5244.html"
+},
+{
+"text": "Letter to the Editor: Senator Hardy says Molly Gray has the skills and a proven record",
+"href": "https://www.addisonindependent.com/2026/07/16/senator-hardy-says-molly-gray-has-the-skills-and-a-proven-record/"
+},
+{
+"text": "Letter to the Editor: Supporting Molly Gray for Lieutenant Governor",
+"href": "https://www.vtcng.com/shelburnenews/opinion/letters_to_the_editor/supporting-molly-gray-for-lieutenant-governor/article_509a5ede-bf96-430d-a7e9-b83ef3df69c0.html"
+},
+{
+"text": "Letter to the Editor: Why I support Molly Gray For Lt. Gov.",
+"href": "https://www.samessenger.com/opinion/letters_to_editor/letter-to-the-editor-why-i-support-molly-gray-for-lt-gov/article_6dd89f3a-b18a-4d91-9404-6bfcc077a51f.html"
+},
+{
+"text": "Lieutenant governor candidates discuss economic issues in Southern Vermont",
+"href": "https://www.reformer.com/local-news/lieutenant-governor-candidates-discuss-economic-issues-in-southern-vermont/article_30ca759f-eafc-4672-bbf7-48d12ac4ac8f.html"
+},
+{
+"text": "Lt. Gov. candidate Molly Gray revisits her roots in Brattleboro",
+"href": "https://www.reformer.com/local-news/lt-gov-candidate-molly-gray-revisits-her-roots-in-brattleboro/article_dfff965f-7785-4e1e-be21-845348c7cf89.html"
+},
+{
+"text": "MEET MOLLY",
+"href": "https://www.mollyforvt.com/meet-molly"
+},
+{
+"text": "Meet the Democratic candidates for Vermont’s Lt. Governor",
+"href": "https://www.mychamplainvalley.com/news/meet-the-democratic-candidates-for-vermonts-lt-governor/"
+},
+{
+"text": "Molly Gray Feels Liberated",
+"href": "https://podcasts.apple.com/us/podcast/molly-gray-feels-liberated/id1674893973?i=1000745643059"
+},
+{
+"text": "Molly Gray Wants Her Old Job Back",
+"href": "https://podcasts.apple.com/us/podcast/molly-gray-wants-her-old-job-back/id1708273447?i=1000771869275"
+},
+{
+"text": "Molly Gray announces run for Vermont lieutenant governor",
+"href": "https://www.mynbc5.com/article/molly-gray-vermont-lieutenant-governor/69915946"
+},
+{
+"text": "Molly Gray discusses why she is again running for Vermont lieutenant governor",
+"href": "https://www.wamc.org/news/2026-01-06/molly-gray-discusses-why-she-is-again-running-for-vermont-lieutenant-governor-three-years-after-she-left-the-position"
+},
+{
+"text": "Molly Gray is running for Vermont lieutenant governor — again",
+"href": "https://vtdigger.org/2026/01/05/molly-gray-is-running-for-vermont-lieutenant-governor-again/"
+},
+{
+"text": "Molly Gray launches campaign to reclaim Vt. lieutenant governor seat",
+"href": "https://www.wcax.com/2026/01/05/molly-gray-launches-campaign-reclaim-vt-lieutenant-governor-seat/"
+},
+{
+"text": "Molly Gray tells supporters why she ran for Vt. lieutenant governor again",
+"href": "https://www.wcax.com/video/2026/08/12/molly-gray-tells-supporters-why-she-ran-vt-lieutenant-governor-again/"
+},
+{
+"text": "Molly Gray uniquely qualified to be Vt.’s Lt. Gov.",
+"href": "https://www.samessenger.com/opinion/editorials/molly-gray-uniquely-qualified-to-be-vt-s-lt-gov/article_7976d43a-2ae1-4a56-9189-2fb691bffdd0.html"
+},
+{
+"text": "Molly Gray wins Democratic primary for lieutenant governor",
+"href": "https://www.vermontpublic.org/local-news/2026-08-11/molly-gray-wins-democratic-primary-lieutenant-governor"
+},
+{
+"text": "Molly Gray, candidate for lieutenant governor, is an avid defender of Vermonters’ rights",
+"href": "https://www.addisonindependent.com/2026/07/23/molly-gray-candidate-for-lieutenant-governor-is-an-avid-defender-of-vermonters-rights/"
+},
+{
+"text": "Molly Gray: An Open Letter to Vermont’s Indivisible Groups",
+"href": "https://www.mollyforvt.com/s/Molly-Gray_An-Open-Letter-To-Vermont-Indivisible.pdf"
+},
+{
+"text": "Molly Gray: It’s Time to Invest in Vermont",
+"href": "https://www.reformer.com/opinion/columnists/commentary-molly-gray-it-s-time-to-invest-in-vermont/article_55abf29c-bd20-4d37-a43c-3212291c2533.html"
+},
+{
+"text": "Molly Gray: The Morning Drive",
+"href": "https://podcasts.apple.com/cy/podcast/molly-gray/id1463676492?i=1000761107963"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "PRESS",
+"href": "https://www.mollyforvt.com/press"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.mollyforvt.com/priorities"
+},
+{
+"text": "Poll shows Molly Gray leading Lt. Gov. John Rodgers",
+"href": "https://www.vermontpublic.org/local-news/2026-09-28/poll-shows-molly-gray-poised-unseat-lt-gov-john-rodgers"
+},
+{
+"text": "Poll shows Molly Gray leading Lt. Gov. race, Balint with commanding lead in House race",
+"href": "https://www.wcax.com/2026/09/24/poll-shows-molly-gray-leading-lt-gov-race-balint-with-commanding-lead-house-race/"
+},
+{
+"text": "Previewing the 2026 Election After One Year of Trump",
+"href": "https://vcv.podbean.com/e/26electionpreview/"
+},
+{
+"text": "Q&A: 2026 Democratic Candidates for Lieutenant Governor",
+"href": "https://www.sevendaysvt.com/guides/primaryvoterguide/qa-democratic-candidates-for-lieutenant-governor/"
+},
+{
+"text": "SUPPORTERS",
+"href": "https://www.mollyforvt.com/supporters"
+},
+{
+"text": "So… Molly Gray Is the… Outsider?",
+"href": "https://thevpo.org/2026/02/10/so-molly-gray-is-the-outsider/"
+},
+{
+"text": "The 2026 Democratic Candidates for Lieutenant Governor",
+"href": "https://open.spotify.com/episode/5HeuaflpCVEDnbIhzwdJFo"
+},
+{
+"text": "The News Project: In Studio – A Conversation With Molly Gray",
+"href": "https://gnat-tv.org/the-news-project-in-studio-a-conversation-with-molly-gray-2026/"
+},
+{
+"text": "This could be the year Democrats unseat Gov. Scott, pollster says",
+"href": "https://www.wcax.com/2026/07/01/this-could-be-year-democrats-unseat-gov-scott-pollster-says/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.mollyforvt.com/volunteer"
+},
+{
+"text": "Vermont Public 2026 Poll: Full results",
+"href": "https://www.vermontpublic.org/local-news/2026-09-28/vermont-general-election-poll-results-2026"
+},
+{
+"text": "Vermont Public’s 2026 Democratic primary debate for lieutenant governor",
+"href": "https://www.vermontpublic.org/show/vermont-edition/2026-07-21/vermont-2026-democratic-primary-debate-lieutenant-governor"
+},
+{
+"text": "Vermonters Deserve Universal Primary Care - Molly Gray",
+"href": "https://www.waterburyroundabout.org/opinion-archive/molly-gray-vermonters-deserve-universal-primary-care"
+},
+{
+"text": "WCAX Debate: Vt. Democratic Candidates for lieutenant governor",
+"href": "https://www.wcax.com/video/2026/07/29/wcax-debate-vt-democratic-candidates-lieutenant-governor/"
+},
+{
+"text": "[image: Molly Gray for Vermont]",
+"href": "https://www.mollyforvt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mollyforvermont"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mollyforvermont/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mollyforvermont"
+},
+{
+"text": "gnat.tv",
+"href": "http://gnat.tv"
+},
+{
+"text": "info@mollyforvt.com",
+"href": "mailto:info@mollyforvt.com"
+},
+{
+"text": "‘No more ceremonial positions;’ Gray wants back in as Lt. Gov.",
+"href": "https://www.miltonindependent.com/news/government/no-more-ceremonial-positions-gray-wants-back-in-as-lt-gov/article_fb5c551d-bda2-5b84-9961-be9039cd9f3d.html"
+}
 ]

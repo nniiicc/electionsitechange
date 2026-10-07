@@ -1,9 +1,34 @@
 [
-"https://facebook.com/Tiffany-Esposito-for-Florida-111616554794678",
-"https://tiffanyforfl.com/",
-"https://tiffanyforfl.com/contact",
-"https://tiffanyforfl.com/contribute",
-"https://tiffanyforfl.com/issues",
-"https://tiffanyforfl.com/meet-tiffany",
-"https://tiffanyforfl.com/volunteer"
+{
+"text": "Contact",
+"href": "https://tiffanyforfl.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://tiffanyforfl.com/contribute/"
+},
+{
+"text": "Home",
+"href": "https://tiffanyforfl.com/"
+},
+{
+"text": "Issues",
+"href": "https://tiffanyforfl.com/issues/"
+},
+{
+"text": "Meet Tiffany",
+"href": "https://tiffanyforfl.com/meet-tiffany/"
+},
+{
+"text": "Volunteer",
+"href": "https://tiffanyforfl.com/volunteer/"
+},
+{
+"text": "[image: Tiffany Esposito for Florida House]",
+"href": "https://tiffanyforfl.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Tiffany-Esposito-for-Florida-111616554794678"
+}
 ]

@@ -1,7 +1,13 @@
 {
  "description": "",
  "final_url": "https://roccoforstatesenate.com/news/",
- "paid_for_by": "Paid for by Rocco for State Senate, PO Box 270172, Saint Paul, MN 55127-0172 &copy; 2026 Rocco for State Senate",
+ "fingerprint": "96cbd11eb3c2d53eb64254c3b8cac8839c1c77c7",
+ "format": 3,
+ "paid_for_by": "Paid for by Rocco for State Senate, PO Box 270172, Saint Paul, MN 55127-0172 © # Rocco for State Senate",
  "title": "News - Rocco for State Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "1983",
+  "2020",
+  "2026"
+ ]
 }

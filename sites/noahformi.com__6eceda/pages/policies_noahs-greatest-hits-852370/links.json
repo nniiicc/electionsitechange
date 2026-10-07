@@ -1,51 +1,222 @@
 [
-"https://facebook.com/noaharbit",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnoahformi.com%2Fpolicies%2Fnoahs-greatest-hits%2F",
-"https://instagram.com/narbit",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4001",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4006",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4138",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4142",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4476",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4482",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4483",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4484https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2023-HB-4484",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4485",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4486",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4487",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4616",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4617",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4945",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5025&QueryID=160530019",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5145&QueryID=160529851",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0004",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0027&QueryID=160529130",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0079",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0080",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0081",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0082",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0271",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0273",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0471",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0502",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0519",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0528",
-"https://noahformi.com/",
-"https://noahformi.com/contact",
-"https://noahformi.com/meet-noah",
-"https://noahformi.com/policies",
-"https://noahformi.com/policies/community-representation",
-"https://noahformi.com/policies/democracy-rights",
-"https://noahformi.com/policies/economy-jobs-innovation",
-"https://noahformi.com/policies/education",
-"https://noahformi.com/policies/environment-water",
-"https://noahformi.com/policies/hate-crimes-extremism",
-"https://noahformi.com/policies/health-families-seniors",
-"https://noahformi.com/policies/mental-health",
-"https://noahformi.com/policies/noahs-greatest-hits",
-"https://noahformi.com/policies/smart-equal-justice-for-all",
-"https://noahformi.com/sign-up",
-"https://secure.actblue.com/donate/njawebsite",
-"https://twitter.com/intent/tweet?text=NOAH%E2%80%99S+GREATEST+HITS&url=https%3A%2F%2Fnoahformi.com%2Fpolicies%2Fnoahs-greatest-hits%2F",
-"https://twitter.com/noaharbit"
+{
+"text": "27",
+"href": "https://www.legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0027&QueryID=160529130"
+},
+{
+"text": "271",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0271"
+},
+{
+"text": "273",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0273"
+},
+{
+"text": "4",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0004"
+},
+{
+"text": "4001",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4001"
+},
+{
+"text": "4138",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4138"
+},
+{
+"text": "4142",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4142"
+},
+{
+"text": "4476",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4476"
+},
+{
+"text": "4482",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4482"
+},
+{
+"text": "4483",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4483"
+},
+{
+"text": "4484",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4484https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2023-HB-4484"
+},
+{
+"text": "4485",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4485"
+},
+{
+"text": "4486",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4486"
+},
+{
+"text": "4487",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4487"
+},
+{
+"text": "4616",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4616"
+},
+{
+"text": "4617",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4617"
+},
+{
+"text": "471",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0471"
+},
+{
+"text": "4945",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4945"
+},
+{
+"text": "502",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0502"
+},
+{
+"text": "5025",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5025&QueryID=160530019"
+},
+{
+"text": "5145",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5145&QueryID=160529851"
+},
+{
+"text": "519",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0519"
+},
+{
+"text": "528",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0528"
+},
+{
+"text": "80",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0080"
+},
+{
+"text": "81",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0081"
+},
+{
+"text": "82",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0082"
+},
+{
+"text": "Contact",
+"href": "https://noahformi.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/njawebsite"
+},
+{
+"text": "Follow Noah on Twitter",
+"href": "https://twitter.com/noaharbit"
+},
+{
+"text": "HB 4006",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4006#:~:text=House%20Bill%204006%20of%202023,11%20of%202023)%20%2D%20Michigan%20Legislature"
+},
+{
+"text": "Join our campaign",
+"href": "https://noahformi.com/sign-up/"
+},
+{
+"text": "Like Noah on Facebook",
+"href": "https://www.facebook.com/noaharbit"
+},
+{
+"text": "Meet Noah",
+"href": "https://noahformi.com/meet-noah/"
+},
+{
+"text": "Noah’s Plan for Community & Representation",
+"href": "https://noahformi.com/policies/community-representation/"
+},
+{
+"text": "Noah’s Plan for Democracy & Rights",
+"href": "https://noahformi.com/policies/democracy-rights/"
+},
+{
+"text": "Noah’s Plan for Economy & Jobs",
+"href": "https://noahformi.com/policies/economy-jobs-innovation/"
+},
+{
+"text": "Noah’s Plan for Education",
+"href": "https://noahformi.com/policies/education/"
+},
+{
+"text": "Noah’s Plan for Environment & Water",
+"href": "https://noahformi.com/policies/environment-water/"
+},
+{
+"text": "Noah’s Plan for Health & Seniors",
+"href": "https://noahformi.com/policies/health-families-seniors/"
+},
+{
+"text": "Noah’s Plan for Mental Health",
+"href": "https://noahformi.com/policies/mental-health/"
+},
+{
+"text": "Noah’s Plan for Smart Justice",
+"href": "https://noahformi.com/policies/smart-equal-justice-for-all/"
+},
+{
+"text": "Noah’s Plan on Hate Crimes & Extremism",
+"href": "https://noahformi.com/policies/hate-crimes-extremism/"
+},
+{
+"text": "Priorities",
+"href": "https://noahformi.com/policies/"
+},
+{
+"text": "Results",
+"href": "https://noahformi.com/policies/noahs-greatest-hits/"
+},
+{
+"text": "SBs 79",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0079"
+},
+{
+"text": "Sign-Up for Noah's Newsletter",
+"href": "https://noahformi.com/sign-up/"
+},
+{
+"text": "Support Noah's Campaign",
+"href": "https://secure.actblue.com/donate/njawebsite"
+},
+{
+"text": "[image: Noah Arbit for State Representative]",
+"href": "https://noahformi.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/noaharbit"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/noaharbit"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/narbit/"
+},
+{
+"text": "[tooltip: Email]",
+"href": "https://noahformi.com/policies/noahs-greatest-hits/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnoahformi.com%2Fpolicies%2Fnoahs-greatest-hits%2F"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/intent/tweet?text=NOAH%E2%80%99S+GREATEST+HITS&url=https%3A%2F%2Fnoahformi.com%2Fpolicies%2Fnoahs-greatest-hits%2F"
+},
+{
+"text": "make a donation",
+"href": "https://secure.actblue.com/donate/njawebsite"
+}
 ]

@@ -1,9 +1,34 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSf1zGVC4emvjYKqx5GMBYI4W6RLCkwyIoOJ5Cnd45RYk2RB6g/viewform",
-"https://facebook.com/freseforcongress",
-"https://freseforcongress.com/cdn-cgi/l/email-protection",
-"https://instagram.com/freseforcongress",
-"https://reddit.com/user/FreseForCongress",
-"https://secure.winred.com/frese-for-congress/donate-today",
-"https://x.com/VoteFrese"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/frese-for-congress/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/freseforcongress"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/freseforcongress"
+},
+{
+"text": "Join the Digital Volunteers",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf1zGVC4emvjYKqx5GMBYI4W6RLCkwyIoOJ5Cnd45RYk2RB6g/viewform"
+},
+{
+"text": "Reddit",
+"href": "https://www.reddit.com/user/FreseForCongress"
+},
+{
+"text": "Volunteer from your phone",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf1zGVC4emvjYKqx5GMBYI4W6RLCkwyIoOJ5Cnd45RYk2RB6g/viewform"
+},
+{
+"text": "X",
+"href": "https://x.com/VoteFrese"
+},
+{
+"text": "[email protected]",
+"href": "https://freseforcongress.com/cdn-cgi/l/email-protection"
+}
 ]

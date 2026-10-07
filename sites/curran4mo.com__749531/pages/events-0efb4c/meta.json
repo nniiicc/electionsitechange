@@ -1,7 +1,11 @@
 {
  "description": "Campaign Headquarters Every Wednesday 12:00-8:00pm starting September 2 Located at Veterans of Foreign Wars Sam Appleby, Jr. Memorial Post 7826 104 S 1st St. Ozark, MO 65721",
  "final_url": "https://www.curran4mo.com/events",
- "paid_for_by": null,
+ "fingerprint": "019b371bf981462535f0b3b0dba394d0c8ad20e7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Curran4Missouri - Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "1953"
+ ]
 }

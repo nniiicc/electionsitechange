@@ -1,15 +1,74 @@
 [
-"https://dss.sd.gov/findyourlocaloffice/listings.aspx",
-"https://experience.arcgis.com/experience/f8c4832760c74cc1a91f193c107c2f4b",
-"https://pennco.org/services/auditor/elections/voter_registration.php",
-"https://share.google/0JXZnjI5PbpWwhiPB",
-"https://share.google/5JwRYz3PkColhK0Ld",
-"https://share.google/aqt5CJiFxIIxayA4V",
-"https://share.google/hd43mm598hMGzoMAQ",
-"https://share.google/ioJN48W89f3JMHrei",
-"https://share.google/ySFj4WSALmLxENZp3",
-"https://taffyhoward.com/",
-"https://taffyhoward.com/donate",
-"https://taffyhoward.com/privacy-policy",
-"https://taffyhoward.com/voter-information"
+{
+"text": "605-394-2153",
+"href": "tel:605-394-2153"
+},
+{
+"text": "CONNECT NOW",
+"href": "https://www.taffyhoward.com/#contact"
+},
+{
+"text": "GET DIRECTIONS",
+"href": "https://share.google/0JXZnjI5PbpWwhiPB"
+},
+{
+"text": "GET DIRECTIONS",
+"href": "https://share.google/5JwRYz3PkColhK0Ld"
+},
+{
+"text": "GET DIRECTIONS",
+"href": "https://share.google/aqt5CJiFxIIxayA4V"
+},
+{
+"text": "GET DIRECTIONS",
+"href": "https://share.google/hd43mm598hMGzoMAQ"
+},
+{
+"text": "GET DIRECTIONS",
+"href": "https://share.google/ioJN48W89f3JMHrei"
+},
+{
+"text": "GET DIRECTIONS",
+"href": "https://share.google/ySFj4WSALmLxENZp3"
+},
+{
+"text": "GET MAIL-IN VOTER FORM",
+"href": "https://www.pennco.org/services/auditor/elections/voter_registration.php"
+},
+{
+"text": "LATEST UPDATES",
+"href": "https://www.taffyhoward.com/#news"
+},
+{
+"text": "MEET TAFFY",
+"href": "https://www.taffyhoward.com/#meet"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.taffyhoward.com/privacy-policy/"
+},
+{
+"text": "SUPPORT US",
+"href": "https://www.taffyhoward.com/donate/"
+},
+{
+"text": "VISION & VALUES",
+"href": "https://www.taffyhoward.com/#plat"
+},
+{
+"text": "VOTER INFO",
+"href": "https://www.taffyhoward.com/voter-information/"
+},
+{
+"text": "directions",
+"href": "https://share.google/aqt5CJiFxIIxayA4V"
+},
+{
+"text": "find offices",
+"href": "https://dss.sd.gov/findyourlocaloffice/listings.aspx"
+},
+{
+"text": "see map",
+"href": "https://experience.arcgis.com/experience/f8c4832760c74cc1a91f193c107c2f4b"
+}
 ]

@@ -1,6 +1,17 @@
-[vc_row][vc_column][vc_column_text]
-Today on my birthday, I continue to fight for Texas students in releasing the below op-ed.
+Skip to content Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media Menu Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media Facebook Instagram Twitter DONATE Facebook Instagram Twitter Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media Menu Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media DONATE VOLUNTEER On My Birthday, I Continue to Fight for Texas Children and Families Share on facebook Share on twitter Share on reddit A VPN is an essential component of IT security, whether you’re just starting a business or are already up and running.
+Most business interactions and transactions happen online and VPN [vc_row][vc_column][vc_column_text] Today on my birthday, I continue to fight for Texas students in releasing the below op-ed.
 Earlier this month, I joined with my colleagues, Rep.
 Gina Hinojosa and Representative Ana-Maria Ramos in writing this op-ed, asking Governor Greg Abbott to reconsider his decision to require STAAR tests during the 2020-2021 school year and to instead redirect those funds to make investments in educational opportunities for our students.
-We must ensure that no student is at risk of falling behind during this pandemic.[/vc_column_text][vc_row_inner][vc_column_inner width=”1/2″][vc_single_image image=”1761″ img_size=”medium” alignment=”center”][/vc_column_inner][vc_column_inner width=”1/2″][vc_single_image image=”1762″ img_size=”medium” alignment=”center”][/vc_column_inner][/vc_row_inner][vc_column_text]
-[/vc_column_text][vc_btn title=”Make A Donation!” style=”flat” shape=”square” color=”white” align=”center” css_animation=”fadeIn” link=”url:https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fbowers2020%3Famount%3D20.20%26recurring%3D1%20_blank|title:Make%20a%20Donation|target:%20_blank|”][vc_column_text][/vc_column_text][/vc_column][/vc_row]
+We must ensure that no student is at risk of falling behind during this pandemic.[/vc_column_text][vc_row_inner][vc_column_inner width=”1/2″][vc_single_image image=”1761″ img_size=”medium” alignment=”center”][/vc_column_inner][vc_column_inner width=”1/2″][vc_single_image image=”1762″ img_size=”medium” alignment=”center”][/vc_column_inner][/vc_row_inner][vc_column_text] Will you join me in this fight for Texas students and families?
+Make a donation today!
+No donation is too great nor too small.
+Every dollar counts and every dime matters! [/vc_column_text][vc_btn title=”Make A Donation!” style=”flat” shape=”square” color=”white” align=”center” css_animation=”fadeIn” link=”url:https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fbowers2020%3Famount%3D20.20%26recurring%3D1%20_blank|title:Make%20a%20Donation|target:%20_blank|”][vc_column_text][/vc_column_text][/vc_column][/vc_row] About Rhetta Representative Bowers was elected to serve House District 113 in the Texas House of Representatives on November 8, 2018.
+She made history elected as the first African American to represent this district.
+House District 113 includes all or parts of Rowlett, Garland, Mesquite, Sunnyvale, Seagoville, Combine, Balch Springs, and Dallas.
+Facebook-f Instagram Twitter Recent Posts Garland Lawmaker Takes on Issue of Hair Discrimination, Re-Files CROWN Act Read More » At Paul Quinn College in Dallas, Beto O’Rourke promises not to take Black voters for granted – DMN Read More » Redistricting Read More » Search Help us deliver on our promises for the people of District 113 Donate Join Our Campaign There are amazing opportunities to help your community when you join the Rhetta A.
+Bowers for HD113 team.
+Help your community.
+Join Our Campaign There are amazing opportunities to help your community when you join the Rhetta A.
+Bowers for HD113 team.
+Help your community.
+Email Join Now Email Join Now ISSUES VOTE ABOUT Facebook Instagram Twitter Copyright ©# | Political advertising paid for by the Rhetta Andrews Bowers Campaign Go to Top

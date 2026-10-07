@@ -1,87 +1,17 @@
-MEET
-ASSEMBLYMAN
-MICHAEL NOVAKHOV
-Michael has proudly served his community as Assemblymember for the 45th District since 2023.
+top of page ABOUT PLATFORM EVENTS GET INVOLVED More Use tab to navigate through the menu items.
+DONATE MEET ASSEMBLYMAN MICHAEL NOVAKHOV Michael has proudly served his community as Assemblymember for the 45th District since 2023.
 Since taking office he has fought for our community, put forward and co-sponsored over 200 pieces of legislation that will significantly improve our quality of life, and has ensured that nearly half a million dollars in State and grant funding has flowed directly into our community to support the organizations dedicated to helping keep our community great.
 Since 2003, Michael has worked within the media business, in New York.
 In 2019, nearly 20 years after he began his career, his dream came true when Michael cofounded and opened Freedom FM.
 In the three years of broadcasting from New York's Freedom Tower, Freedom FM (freedom squared), headed by Michael, has become the most listened to, loved, and influential Russian-language radio station across, both, New York and America.
 Michael lives in Manhattan Beach and has a deep connection to his community.
 He is, wholeheartedly, devoted to our city and district.
-Standing on his strong civic position, desire for change, and the support of his base of radio listeners and associates, Michael stepped up to run for the New York State Assembly in 2022 to not just inspire reform but to make real, productive changes for the community he has proudly called home for more than 20 years.
+Standing on his strong civic position, desire for change, and the support of his base of radio listeners and associates, Michael stepped up to run for the New York State Assembly in 2022 to not just inspire reform but to make real, productive change s for the community he has proudly called home for more than 20 years.
 Our community believed in Michael and his vision and elected him to serve in the New York State Assembly - successfully defeating an over 20 year incumbent.
 But our work is far from over.
 New York still faces high crime, rising inflation, and the highest cost of housing in the nation.
 Now more than ever we need Michael in Albany to fight for our community and ensure we always have a seat at the table.
-PROUDLY ENDORSED BY
-KINGS COUNTY
-REPUBLICAN PARTY
-BROOKLYN
-CONSERVATIVE PARTY
-NYPD
-10-13 ASSOCIATION
-ORTHODOX JEWISH CHAMBER OF COMMERCE
-FIRE MARSHALS
-BENEVOLENT ASSOCIATION
-CORRECTION OFFICERS
-BENEVOLENT ASSOCIATION
-AMERICAN FORUM
-FOR ISRAEL
-THE JEWISH VOICE
-HEART & VALOR
-FOUNDATION
-BUSINESS COUNCIL OF NEW YORK STATE
-PUBLIC EMPLOYEES
-FEDERATION
-JEWISH VOTE GOP
-NY ASSEMBLYMAN
-MIKE REILLY
-NY ASSEMBLYMAN
-SAM PIROZZOLO
-NY ASSEMBLYMAN
-MICHAEL TANNOUSIS
-POLICE CONFERENCE
-OF NEW YORK (PCNY)
-CURTIS SLIWA
-CONGRESSWOMAN
-NICOLE MALLIOTAKIS
-GOVERNOR
-GEORGE PATAKI
-NY ASSEMBLYMAN
-ALEC BROOK-KRASNY
-REPUBLICAN CHAIRMAN
-ED COX
-BROOKLYN TEA PARTY
-CONSERVATIVE CHAIRMAN
-GERAD KASSAR
-NEW YORK REPUBLICAN
-ASSEMBLY CAMPAIGN COMMITTEE
-NEW YORK STATE
-YOUNG REPUBLICANS
-PLACE NYC
-HIGER EDUCATION
-FOUNDATION
-COMMUNITY LEADER
-VITO LABELLA
-ARTS & CULTURE
-POLITICAL ORG.
-AMERICA FIRST VETERANS & FIRST RESPONDERS ALLIANCE
-NYPD
-RETIRED SUPERIOR
-OFFICERS ASSOCIATION
-NYC COUNCILMAN
-ARI KAGAN
-NEW YORK POST
-NY ASSEMBLY LEADER
-WILLIAM BARCLAY
-NY STATE SENATOR
-MARTY GOLDEN
-BROOKLYN YOUNG
-REPUBLICAN SOCIETY
-COMMUNITY LEADER
-YING TAN
-DESIGNATED CANDIDATE
-BUSINESS AMBASSADOR
-MENTAL HEALTH NOW
-NATIONAL SMALL BUSINESS ASSOCIATION
-PREFERRED CANDIDATE
+MICHAEL'S VISION > About PROUDLY ENDORSED BY KINGS COUNTY REPUBLICAN PARTY BROOKLYN CONSERVATIVE PARTY NYPD 10-13 ASSOCIATION ORTHODOX JEWISH CHAMBER OF COMMERCE FIRE MARSHALS BENEVOLENT ASSOCIATION CORRECTION OFFICERS BENEVOLENT ASSOCIATION AMERICAN FORUM FOR ISRAEL THE JEWISH VOICE HEART & VALOR FOUNDATION BUSINESS COUNCIL OF NEW YORK STATE PUBLIC EMPLOYEES FEDERATION JEWISH VOTE GOP NY ASSEMBLYMAN MIKE REILLY NY ASSEMBLYMAN SAM PIROZZOLO NY ASSEMBLYMAN MICHAEL TANNOUSIS POLICE CONFERENCE OF NEW YORK (PCNY) CURTIS SLIWA CONGRESSWOMAN NICOLE MALLIOTAKIS GOVERNOR GEORGE PATAKI NY ASSEMBLYMAN ALEC BROOK-KRASNY REPUBLICAN CHAIRMAN ED COX BROOKLYN TEA PARTY CONSERVATIVE CHAIRMAN GERAD KASSAR NEW YORK REPUBLICAN ASSEMBLY CAMPAIGN COMMITTEE NEW YORK STATE YOUNG REPUBLICANS PLACE NYC HIGER EDUCATION FOUNDATION COMMUNITY LEADER VITO LABELLA ARTS & CULTURE POLITICAL ORG.
+AMERICA FIRST VETERANS & FIRST RESPONDERS ALLIANCE NYPD RETIRED SUPERIOR OFFICERS ASSOCIATION NYC COUNCILMAN ARI KAGAN NEW YORK POST NY ASSEMBLY LEADER WILLIAM BARCLAY NY STATE SENATOR MARTY GOLDEN BROOKLYN YOUNG REPUBLICAN SOCIETY COMMUNITY LEADER YING TAN DESIGNATED CANDIDATE BUSINESS AMBASSADOR MENTAL HEALTH NOW NATIONAL SMALL BUSINESS ASSOCIATION PREFERRED CANDIDATE HERUT NEW YORK CITY JOIN OUR MOVEMENT THE SUCCESS OF OUR CAMPAIGN RELIES ON THE SUPPORT OF PASSIONATE PEOPLE, JUST LIKE YOU.
+First Name Last Name Email Phone Zip Code Submit Thanks for submitting!
+JOIN US CONTACT US PAID FOR BY MICHAEL FOR RE-ELECTION 2026 © COPYRIGHT # MICHAEL FOR RE-ELECTION 2026 - ALL RIGHTS RESERVED DESIGN BY PREMIER STRATEGIES, INC. bottom of page

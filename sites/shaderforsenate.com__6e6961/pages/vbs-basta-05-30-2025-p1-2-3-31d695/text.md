@@ -1,6 +1,2 @@
-Los Angeles wants to cut the costal cleanup team
-RHONDA SHADER ENDORSED BY GOP UNION CAUCUS Endorsement Highlights Shader’s Commitment to Working Families
-A Conversation with Past Mayor and Past Chamber Chair Rhonda Shader 2026 Senate Candidate
-Rhonda Shader, SD-34 candidate, 2026 primary election questionnaire
-Leadership That Delivers: From City Hall to Real Impact Guest: Rhonda Shader
-Rhonda Shader Interview
+Skip to content Home Meet Rhonda Issues Endorsements News Gallery Contact DONATE × Home Meet Rhonda Issues Endorsements News Gallery Contact DONATE VBS Basta 05 30 2025 (P1, 2, & 3) !Basta!
+TV | May 30, 2025 Climate: Business Owners: Homelessness Share on Facebook 𝕏 Share on X Share on Email DONATE Quickly & Securely Online JOIN RHONDA Endorse | Volunteer | Yard Sign LATEST NEWS Los Angeles wants to cut the costal cleanup team RHONDA SHADER ENDORSED BY GOP UNION CAUCUS Endorsement Highlights Shader’s Commitment to Working Families A Conversation with Past Mayor and Past Chamber Chair Rhonda Shader 2026 Senate Candidate Rhonda Shader, SD-34 candidate, 2026 primary election questionnaire Leadership That Delivers: From City Hall to Real Impact Guest: Rhonda Shader Rhonda Shader Interview All News Paid for by Rhonda Shader for Senate 2026 - Campaign ID # 1460521 Privacy Policy | Terms of Use Scroll To Top

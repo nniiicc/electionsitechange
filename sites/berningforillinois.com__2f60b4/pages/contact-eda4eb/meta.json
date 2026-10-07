@@ -1,9 +1,9 @@
 {
  "description": "Contact Joe Berning for inquiries about the Illinois Senate campaign, volunteering, or donations. Connect via phone or email for support.",
  "final_url": "https://berningforillinois.com/contact",
- "paid_for_by": null,
+ "fingerprint": "0cea21a5d5471276a0520d4fe2bbbca685325971",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

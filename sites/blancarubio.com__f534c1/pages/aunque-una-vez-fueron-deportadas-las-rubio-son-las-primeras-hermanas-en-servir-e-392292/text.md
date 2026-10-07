@@ -1,9 +1,8 @@
-SACRAMENTO — Fue un día de puertas abiertas en la escuela primaria Heron, y dentro de un auditorio bullicioso, los alumnos de quinto grado crearon un museo de cera en el que representaron a “estadounidenses famosos”, disfrazados de íconos pop, estrellas del deporte y leyendas de sus libros de historia.
+Skip to content Ξ Home Meet Blanca Issues Public Safety & Criminal Justice Housing & Homelessness Education & Youth Domestic Violence Healthcare Aging Consumer Protections Water Climate Change Animal Protection Women’s Issues Our District Media News Photos Awards Events Contact Donate Search for: Assemblywoman Blanca Rubio In The News Jan 06, 2020 Aunque una vez fueron deportadas, las Rubio son las primeras hermanas en servir en la Legislatura de California SACRAMENTO — Fue un día de puertas abiertas en la escuela primaria Heron, y dentro de un auditorio bullicioso, los alumnos de quinto grado crearon un museo de cera en el que representaron a “estadounidenses famosos”, disfrazados de íconos pop, estrellas del deporte y leyendas de sus libros de historia.
 Junto con un Barack Obama en miniatura que intentó no moverse mientras estaba parado detrás de un atril presidencial improvisado, había un Abraham Lincoln con sombrero de copa (y Vans a cuadros), un fornido Albert Einstein y al menos dos francotiradores al estilo Annie Oakleys.
 No muy lejos de una túnica con Sandra Day O’Connor estaba una niña de 11 años con cabello largo y castaño, pantalones negros y una chaqueta.
 Al igual que los demás, ella se paró en una silla y permaneció inmóvil hasta que presionaron una copia impresa de un botón rojo a sus pies.
-Entonces ella habló:
-“Hola, soy Blanca Rubio.
+Entonces ella habló: “Hola, soy Blanca Rubio.
 La razón por la que soy una estadounidense famosa es porque soy asambleista, pero no sólo eso, sino también porque recientemente mi hermana, Susan Rubio, fue elegida para el Senado estatal.
 Ahora somos las primeras hermanas en ser elegidas en el Capitolio estatal”.
 La oradora era Nadia Rubio, y estaba representando a su madre.
@@ -12,11 +11,8 @@ Animadas y enérgicas, tienden a agitar las manos cuando hablan, un hábito que 
 En conversación, las Rubio sugieren que son copias al carbón la una de la otra.
 Pero aquellos que trabajan cerca de ellas ven una diferencia en los estilos: Blanca, de 50 años, extrovertida y contundente, es más rápida para atraer a su círculo de amigos en los eventos.
 Susan, un año más joven, es un poco más reservada y siempre meticulosamente organizada.
-Nadia, mientras estaba en el museo de cera y en clase durante la primavera pasada, contó el sorprendente trayecto de las hermanas:
-“Tuvimos la suerte de tener a mamá y papá.
-Reconocimos en ese entonces que éramos privilegiados en ese aspecto”.
-— Susan Rubio
-“Cuando tenía 6 años, me deportaron.
+Nadia, mientras estaba en el museo de cera y en clase durante la primavera pasada, contó el sorprendente trayecto de las hermanas: “Tuvimos la suerte de tener a mamá y papá.
+Reconocimos en ese entonces que éramos privilegiados en ese aspecto”. — Susan Rubio “Cuando tenía 6 años, me deportaron.
 Recuerdo que hombres uniformados se acercaban a mis padres y tenían terror en la cara”.
 Blanca y Susan nacieron en Ciudad Juárez, la ciudad mexicana frente a El Paso y luego hogar de muchos braceros que obtuvieron permisos temporales para trabajar en Estados Unidos.
 Su padre era bracero, y cuando el programa terminó en 1964, Sabino Rubio continuó cruzando legalmente a Estados Unidos, pero ya no estaba autorizado para trabajar.
@@ -25,3 +21,6 @@ Más tarde se mudó con su esposa y en ese entonces, sus cuatro hijos, a Winnie,
 Blanca, en ese tiempo tenía 6 años, y Susan, 4, eran güeritas, de piel clara con cabello rubio, y las únicas hispanohablantes en sus clases.
 “La maestra realmente no sabía qué hacer conmigo”, recordó Blanca.
 “Ella me ponía en una esquina y me daba páginas para colorear”.
+Search Search Recent Updates Early Child Mental Health Services Deliver Critical Help Assemblywoman Blanca Rubio: Her Drive to Help Children is Fueled by her Family’s Struggles and Sacrifices Solving California’s housing crisis demands action.
+These steps will help Aunque una vez fueron deportadas, las Rubio son las primeras hermanas en servir en la Legislatura de California Once deported, the Rubios are the first sisters to serve in the California Legislature Post navigation Previous: Once deported, the Rubios are the first sisters to serve in the California Legislature Next: Solving California’s housing crisis demands action.
+These steps will help Home Meet Blanca Media Photos Contact Volunteer Donate Working for you Paid for by Blanca Rubio for Assembly 2024 • FPPC ID #1456604 Site by BSC

@@ -1,16 +1,66 @@
 [
-"https://facebook.com/TeamFarry",
-"https://frankfarry.com/",
-"https://frankfarry.com/about",
-"https://frankfarry.com/issues",
-"https://frankfarry.com/privacy",
-"https://frankfarry.com/signup/datacenters",
-"https://frankfarry.com/terms",
-"https://frankfarry.com/volunteer",
-"https://secure.anedot.com/frankfarry/donate",
-"https://secure.anedot.com/frankfarry/donate?amount=100",
-"https://secure.anedot.com/frankfarry/donate?amount=25",
-"https://secure.anedot.com/frankfarry/donate?amount=250",
-"https://secure.anedot.com/frankfarry/donate?amount=50",
-"https://secure.anedot.com/frankfarry/donate?amount=500"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/frankfarry/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/frankfarry/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/frankfarry/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/frankfarry/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/frankfarry/donate?amount=500"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/frankfarry/donate"
+},
+{
+"text": "Home",
+"href": "https://www.frankfarry.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.frankfarry.com/issues/"
+},
+{
+"text": "Meet Frank",
+"href": "https://www.frankfarry.com/about/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/frankfarry/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.frankfarry.com/privacy/"
+},
+{
+"text": "Sign Petition",
+"href": "https://www.frankfarry.com/signup/datacenters/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.frankfarry.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.frankfarry.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/TeamFarry"
+},
+{
+"text": "[image]",
+"href": "https://www.frankfarry.com/"
+}
 ]

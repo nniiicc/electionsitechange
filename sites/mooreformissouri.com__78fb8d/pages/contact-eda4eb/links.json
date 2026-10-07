@@ -1,14 +1,54 @@
 [
-"https://facebook.com/mooreformissouri",
-"https://instagram.com/mooreformissouri?igsh=MXJyMHE3Z2wzeXF5Nw%3D%3D",
-"https://mooreformissouri.com/",
-"https://mooreformissouri.com/about",
-"https://mooreformissouri.com/contact",
-"https://mooreformissouri.com/endorsements",
-"https://mooreformissouri.com/events",
-"https://mooreformissouri.com/getinvolved",
-"https://mooreformissouri.com/ourdistrict",
-"https://mooreformissouri.com/policyandissues",
-"https://secure.actblue.com/donate/mooreformissouri",
-"https://threads.com/@kennedymoore4missouri"
+{
+"text": "About Kennedy",
+"href": "https://www.mooreformissouri.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.mooreformissouri.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mooreformissouri"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mooreformissouri.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mooreformissouri.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mooreformissouri.com/getinvolved"
+},
+{
+"text": "Home",
+"href": "https://www.mooreformissouri.com"
+},
+{
+"text": "MooreForMissouri@gmail.com",
+"href": "mailto:MooreForMissouri@gmail.com"
+},
+{
+"text": "Our District",
+"href": "https://www.mooreformissouri.com/ourdistrict"
+},
+{
+"text": "Policy & Issues",
+"href": "https://www.mooreformissouri.com/policyandissues"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/mooreformissouri"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mooreformissouri?igsh=MXJyMHE3Z2wzeXF5Nw%3D%3D"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@kennedymoore4missouri"
+}
 ]

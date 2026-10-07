@@ -1,12 +1,54 @@
 [
-"https://popularfx.com/",
-"https://twitter.com/VoteFontana?ref_src=twsrc%5Etfw",
-"https://votefontana.com/",
-"https://votefontana.com/2025-endorsements",
-"https://votefontana.com/about",
-"https://votefontana.com/donate",
-"https://votefontana.com/events",
-"https://votefontana.com/issues",
-"https://votefontana.com/news",
-"https://wordpress.org/"
+{
+"text": "About",
+"href": "https://votefontana.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://votefontana.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://votefontana.com/2025-endorsements/"
+},
+{
+"text": "Home",
+"href": "https://votefontana.com/"
+},
+{
+"text": "Issues",
+"href": "https://votefontana.com/issues/"
+},
+{
+"text": "News",
+"href": "https://votefontana.com/news/"
+},
+{
+"text": "PopularFX Theme",
+"href": "https://popularfx.com"
+},
+{
+"text": "Proudly powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "Tweets by VoteFontana",
+"href": "https://twitter.com/VoteFontana?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Upcoming Events",
+"href": "https://votefontana.com/events/"
+},
+{
+"text": "Wayne Fontana",
+"href": "https://votefontana.com/"
+},
+{
+"text": "[image: Wayne Fontana]",
+"href": "https://votefontana.com/"
+},
+{
+"text": "waynefontana50@gmail.com",
+"href": "mailto:waynefontana50@gmail.com"
+}
 ]

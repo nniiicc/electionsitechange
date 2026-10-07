@@ -1,12 +1,54 @@
 [
-"https://aflcio.org/formaunion",
-"https://indianavoters.in.gov/",
-"https://secure.actblue.com/donate/wesley-haffenden",
-"https://wesleyhaffenden.com/",
-"https://wesleyhaffenden.com/about",
-"https://wesleyhaffenden.com/cart",
-"https://wesleyhaffenden.com/endorsements",
-"https://wesleyhaffenden.com/platform",
-"https://wesleyhaffenden.com/quarry-statements",
-"https://wesleyhaffenden.com/volunteer"
+{
+"text": "0",
+"href": "https://www.wesleyhaffenden.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.wesleyhaffenden.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/wesley-haffenden"
+},
+{
+"text": "Endorsements",
+"href": "https://www.wesleyhaffenden.com/endorsements"
+},
+{
+"text": "Form a Union",
+"href": "https://aflcio.org/formaunion"
+},
+{
+"text": "Home",
+"href": "https://www.wesleyhaffenden.com/"
+},
+{
+"text": "LEARN MORE ABOUT WESLEY",
+"href": "https://www.wesleyhaffenden.com/about"
+},
+{
+"text": "Platform",
+"href": "https://www.wesleyhaffenden.com/platform"
+},
+{
+"text": "Quarry Statements",
+"href": "https://www.wesleyhaffenden.com/quarry-statements"
+},
+{
+"text": "READ FULL PLATFORM",
+"href": "https://www.wesleyhaffenden.com/platform"
+},
+{
+"text": "Register to Vote",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.wesleyhaffenden.com/volunteer"
+},
+{
+"text": "Wesley Haffenden for Indiana",
+"href": "https://www.wesleyhaffenden.com/"
+}
 ]

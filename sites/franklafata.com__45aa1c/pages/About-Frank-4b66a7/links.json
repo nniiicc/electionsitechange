@@ -1,6 +1,18 @@
 [
-"https://franklafata.com/",
-"https://franklafata.com/About-Frank/About-Frank",
-"https://franklafata.com/About-Frank/The-Issues",
-"https://secure.actblue.com/donate/committee-to-elect-frank-j--lafata-1"
+{
+"text": "About Frank",
+"href": "https://www.franklafata.com/About-Frank/About-Frank/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/committee-to-elect-frank-j--lafata-1"
+},
+{
+"text": "Home",
+"href": "https://www.franklafata.com/"
+},
+{
+"text": "The Issues",
+"href": "https://www.franklafata.com/About-Frank/The-Issues/"
+}
 ]

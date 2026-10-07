@@ -1,20 +1,90 @@
 [
-"https://dupagecounty.gov/Election/Docs/Election_Information/2022/Primary/66415",
-"https://dupagecounty.gov/Election/VoteByMail",
-"https://friendsofbarbarahernandez.com/calendar",
-"https://friendsofbarbarahernandez.com/endorsements",
-"https://friendsofbarbarahernandez.com/home",
-"https://friendsofbarbarahernandez.com/issues",
-"https://friendsofbarbarahernandez.com/meet-barbara",
-"https://friendsofbarbarahernandez.com/request-a-sign",
-"https://friendsofbarbarahernandez.com/team",
-"https://google.com/maps/d/u/1/viewer?mid=106DgXdNQHfQPJgmsV7ZYRT4dN3P-8tGf&ll=41.797635801078144%2C-88.297689&z=12",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Ffriends-of-barbara-hernandez-1&sa=D&sntz=1&usg=AOvVaw2Wc6S6AksPVa2WLykF2mGs",
-"https://google.com/url?q=https%3A%2F%2Ftwitter.com%2Fbarbara_isabel&sa=D&sntz=1&usg=AOvVaw0POzcmMHvWNSAOdYhzYcjx",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2FBarbara4StateRep&sa=D&sntz=1&usg=AOvVaw33d9TQjJ1JS_1DOmElFq0b",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fbarbara_i_hernandez%2F&sa=D&sntz=1&usg=AOvVaw0PZdcdV5Mx6G-PKliTy_te",
-"https://kaneapplications.countyofkane.org/ElectionWebsite/en-us/VoteByMail/Application?id=23",
-"https://kanecountyclerk.org/Elections/Documents/EARLY%20VOTING%20POSTER%20-%20NOVEMBER%202022.pdf",
-"https://ova.elections.il.gov/",
-"https://spanish-ova.elections.il.gov/"
+{
+"text": "Barbara For State Representative",
+"href": "https://www.friendsofbarbarahernandez.com/home"
+},
+{
+"text": "Calendar",
+"href": "https://www.friendsofbarbarahernandez.com/calendar"
+},
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Ffriends-of-barbara-hernandez-1&sa=D&sntz=1&usg=AOvVaw2Wc6S6AksPVa2WLykF2mGs"
+},
+{
+"text": "DuPage",
+"href": "https://www.dupagecounty.gov/Election/Docs/Election_Information/2022/Primary/66415/"
+},
+{
+"text": "DuPage",
+"href": "https://www.dupagecounty.gov/Election/VoteByMail/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.friendsofbarbarahernandez.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.friendsofbarbarahernandez.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.friendsofbarbarahernandez.com/issues"
+},
+{
+"text": "Kane",
+"href": "https://kaneapplications.countyofkane.org/ElectionWebsite/en-us/VoteByMail/Application?id=23"
+},
+{
+"text": "Kane",
+"href": "https://www.kanecountyclerk.org/Elections/Documents/EARLY%20VOTING%20POSTER%20-%20NOVEMBER%202022.pdf"
+},
+{
+"text": "Meet Barbara",
+"href": "https://www.friendsofbarbarahernandez.com/meet-barbara"
+},
+{
+"text": "Request a sign",
+"href": "https://www.friendsofbarbarahernandez.com/request-a-sign"
+},
+{
+"text": "Team",
+"href": "https://www.friendsofbarbarahernandez.com/team"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2FBarbara4StateRep&sa=D&sntz=1&usg=AOvVaw33d9TQjJ1JS_1DOmElFq0b"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fbarbara_i_hernandez%2F&sa=D&sntz=1&usg=AOvVaw0PZdcdV5Mx6G-PKliTy_te"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2Fbarbara_isabel&sa=D&sntz=1&usg=AOvVaw0POzcmMHvWNSAOdYhzYcjx"
+},
+{
+"text": "[image]",
+"href": "https://www.friendsofbarbarahernandez.com/home"
+},
+{
+"text": "[image]Barbara For State Representative",
+"href": "https://www.friendsofbarbarahernandez.com/home"
+},
+{
+"text": "aqui",
+"href": "https://spanish-ova.elections.il.gov"
+},
+{
+"text": "aquí",
+"href": "https://www.google.com/maps/d/u/1/viewer?mid=106DgXdNQHfQPJgmsV7ZYRT4dN3P-8tGf&ll=41.797635801078144%2C-88.297689&z=12"
+},
+{
+"text": "here",
+"href": "https://ova.elections.il.gov"
+},
+{
+"text": "here",
+"href": "https://www.google.com/maps/d/u/1/viewer?mid=106DgXdNQHfQPJgmsV7ZYRT4dN3P-8tGf&ll=41.797635801078144%2C-88.297689&z=12"
+}
 ]

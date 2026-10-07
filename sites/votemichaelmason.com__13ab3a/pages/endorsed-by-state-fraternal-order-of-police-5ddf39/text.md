@@ -1,6 +1,4 @@
-Keeping Greenwich Safe Means Putting Accountability Back at the Center
-Michael Mason
-I am honored to have been endorsed for State Representative by the Connecticut State Fraternal Order of Police, and I thank the organization and its members for their confidence and support.
+Skip to content Home News & Updates Contact Us Endorsed by State Fraternal Order of Police ! / 151 / By Mike Keeping Greenwich Safe Means Putting Accountability Back at the Center Michael Mason I am honored to have been endorsed for State Representative by the Connecticut State Fraternal Order of Police , and I thank the organization and its members for their confidence and support.
 In its endorsement letter, the Connecticut State FOP cited my commitment to “public safety, the law enforcement community, and the citizens of Connecticut,” and my willingness to engage on issues affecting officers and their families.
 Those are commitments I intend to carry with me to Hartford.
 Greenwich is fortunate to be one of Connecticut’s safest communities.
@@ -24,8 +22,7 @@ The men and women who serve in law enforcement understand the challenges of recr
 Their endorsement recognizes my willingness to listen to those concerns and work on practical solutions.
 But an endorsement is not a substitute for a plan.
 As State Representative, I will support policies that strengthen local departments, improve coordination among jurisdictions, target organized and repeat offenders, and ensure victims are not forgotten.
-My guiding principle is simple:
-The law should work for the people who obey it.
+My guiding principle is simple: The law should work for the people who obey it.
 That does not mean abandoning reform.
 It means judging reforms on whether they actually make communities safer.
 Greenwich residents should not have to choose between compassion and public safety.
@@ -34,4 +31,5 @@ I am grateful to the Connecticut State Fraternal Order of Police for its endorse
 Public safety is not a slogan.
 It is a responsibility.
 And government should never lose sight of that.
-Mike Mason
+Mike Mason ← Previous Post Next Post → Home News & Updates Contact Us Home News & Updates Contact Us Paid for by Elect Michael Mason 2026 Nicole Wittenberg, Treasurer.
+Approved by Michael Mason

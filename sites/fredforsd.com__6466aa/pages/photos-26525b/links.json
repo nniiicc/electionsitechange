@@ -1,35 +1,134 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/fred.deutsch.2",
-"https://fredforsd.com/",
-"https://fredforsd.com/contact",
-"https://fredforsd.com/contribute",
-"https://fredforsd.com/home",
-"https://fredforsd.com/issues",
-"https://fredforsd.com/meet_frederick",
-"https://fredforsd.com/photos",
-"https://fredforsd.com/promises-made-kept",
-"https://fredforsd.com/volunteer",
-"https://fredforsd.com/vote",
-"https://i.campaignpartner.net/images/cdn_queue/144630/26e313eb64004d3f96b1e06f7e93c16d.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/293c88ddbbbc4bde94f501d9e7f6d8ff.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/5d0df81836994137899fdbcedb0b7d27.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/6d409c2eb7784feea8f581f1575efe1b.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/7383cc6eab394890ab54d3626ce32014.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/7ba26228acb54fdea378ac302775b78e.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/809fe8fc4f81482b844666d6f1a20231.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/9bd2e4a2865741c4bc8bd1f55f203eac.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/b80c08fa13d24447b746ea2548b2d079.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/bda6d5e089724147ba49730dc319cd2e.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/c16223afa7ad4b1ba61cca841a81841d.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/d1a935dd682b429fb2d9a32fa6da9c83.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/d1fb4d7de9d84a2fbafef29091b9fb58.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/d4ccb504886c4d5499fee9d5c20881f9.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/eae0dfa603264a69b549004cd2938e99.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/f19afe3c918e48ba8d82b3278a515584.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/f1e786b04cf54fd29a1bb50284bc2329.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/144630/f7f8ca2d1cfe47178893d1aca264dbf3.jpg",
-"https://instagram.com/freddeutsch",
-"https://x.com/FredDeutsch",
-"https://youtube.com/channel/UCYheXO7vZHpTouJYI99UB8A"
+{
+"text": "Contact",
+"href": "https://www.fredforsd.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.fredforsd.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://www.fredforsd.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.fredforsd.com/issues"
+},
+{
+"text": "Meet Fred",
+"href": "https://www.fredforsd.com/meet_frederick"
+},
+{
+"text": "Photos",
+"href": "https://www.fredforsd.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Promises Kept",
+"href": "https://www.fredforsd.com/promises-made-kept"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fredforsd.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.fredforsd.com/vote"
+},
+{
+"text": "[image: Celebrating the opening of the new Lake Norden public safety building.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/eae0dfa603264a69b549004cd2938e99.jpg"
+},
+{
+"text": "[image: Fred Deutsch South Dakota House]",
+"href": "https://www.fredforsd.com/"
+},
+{
+"text": "[image: Governor signing legislation I co-authored with the Attorney General to protect South Dakota's children.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/d4ccb504886c4d5499fee9d5c20881f9.jpg"
+},
+{
+"text": "[image: Having fun with the South Dakota Pork Producers.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/bda6d5e089724147ba49730dc319cd2e.jpg"
+},
+{
+"text": "[image: Hearing directly from constituents about rising property taxes and the cost of living.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/f7f8ca2d1cfe47178893d1aca264dbf3.jpg"
+},
+{
+"text": "[image: I was humbled when the governor called me from the back of the room to stand beside her as she spoke to legislators and guests about my courage in championing legislation.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/293c88ddbbbc4bde94f501d9e7f6d8ff.jpg"
+},
+{
+"text": "[image: Leaders who stood up for common sense and fairness in South Dakota sports. I’m toward the back, on the left.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/c16223afa7ad4b1ba61cca841a81841d.jpg"
+},
+{
+"text": "[image: Meeting with farm group to discuss challenges.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/f19afe3c918e48ba8d82b3278a515584.jpg"
+},
+{
+"text": "[image: Meeting with farmers about protecting land and property rights]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/9bd2e4a2865741c4bc8bd1f55f203eac.jpg"
+},
+{
+"text": "[image: One of my proudest moments as your legislator is to stand on the House Floor and speak to colleagues about supporting legislation vital to District 4.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/d1a935dd682b429fb2d9a32fa6da9c83.jpg"
+},
+{
+"text": "[image: Proud to stand with law enforcement, including the Attorney General and Minnehaha County Sheriff in support of the folks who risk their lives to keep our communities safe.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/b80c08fa13d24447b746ea2548b2d079.jpg"
+},
+{
+"text": "[image: Sharing a few words after the governor signed my landmark anti-discrimination bill into law]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/5d0df81836994137899fdbcedb0b7d27.jpg"
+},
+{
+"text": "[image: Sharing pro-life conversations and resources with students at the University of South Dakota.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/7ba26228acb54fdea378ac302775b78e.jpg"
+},
+{
+"text": "[image: Signing ceremony for anti-discrimination legislation I introduced.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/7383cc6eab394890ab54d3626ce32014.jpg"
+},
+{
+"text": "[image: Touring the 911 Emergency Call Center that serves all of District 4. I introduced legislation to fund emergency services.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/26e313eb64004d3f96b1e06f7e93c16d.jpg"
+},
+{
+"text": "[image: Walking in Farley Fest celebration in support of Milbank Right to Life.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/809fe8fc4f81482b844666d6f1a20231.jpg"
+},
+{
+"text": "[image: With Kathleen at the State Fair Right to Life booth, talking with South Dakotans about defending life and supporting families.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/6d409c2eb7784feea8f581f1575efe1b.jpg"
+},
+{
+"text": "[image: With Norman Woods, President of Family Heritage Alliance (now Family Voice), speaking about legislation to defend life, family, and freedom.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/d1fb4d7de9d84a2fbafef29091b9fb58.jpg"
+},
+{
+"text": "[image: With the next generation of pro-life South Dakotans — grateful for their courage and heart.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/144630/f1e786b04cf54fd29a1bb50284bc2329.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/fred.deutsch.2"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/freddeutsch/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCYheXO7vZHpTouJYI99UB8A"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/FredDeutsch"
+}
 ]

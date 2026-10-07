@@ -1,4 +1,4 @@
-Source: Axios.com
-North Carolina’s state Senate passed SB 743, which would exempt the UNC Health Care system from federal and state antitrust laws.
+Home Meet Dan Blue Issues News and Events Volunteer Donate Select Page Senate Bill 743 would take UNC hospitals out of antitrust laws May 4, 2023 | Bills , News , Sourced Source: Axios.com North Carolina’s state Senate passed SB 743 , which would exempt the UNC Health Care system from federal and state antitrust laws.
 The bill could increase health care consolidation in the state by making it easier for the University of North Carolina-affiliated hospital system to acquire other health care organizations.
-“I just have some concerns because the antitrust laws of the last 20 years have basically kept some systems from getting together and basically monopolizing the health care industry in given areas,” Senate Minority Leader Dan Blue (D) said, as reported by NC Health News.
+“I just have some concerns because the antitrust laws of the last 20 years have basically kept some systems from getting together and basically monopolizing the health care industry in given areas,” Senate Minority Leader Dan Blue (D) said, as reported by NC Health News .
+Read Article Paid for by Citizens for Dan Blue Post Office Box 287, Raleigh NC 27602 Follow Follow Follow

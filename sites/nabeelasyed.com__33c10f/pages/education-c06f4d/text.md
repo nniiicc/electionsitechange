@@ -1,28 +1,9 @@
-Education
-Every student deserves access to high-quality public education–from early childhood through college or career training.
+0 Skip to Content Home About Nabeela Issues Economy & Tax Reform Healthcare Public Safety Education Equal Rights Choice Environment Big Tech Request a Yard Sign 26th District Election Info Volunteer Events DONATE Open Menu Close Menu Open Menu Close Menu DONATE Home About Nabeela Issues Economy & Tax Reform Healthcare Public Safety Education Equal Rights Choice Environment Big Tech Request a Yard Sign 26th District Election Info Volunteer Events Home About Nabeela Folder: Issues Back Economy & Tax Reform Healthcare Public Safety Education Equal Rights Choice Environment Big Tech Request a Yard Sign 26th District Election Info Volunteer Events DONATE Education Every student deserves access to high-quality public education–from early childhood through college or career training.
 As a proud graduate of Illinois public schools, Nabeela understands the power of a strong academic and extracurricular foundation.
 She’s working to ensure every student has the support, resources and opportunities needed to thrive.
-Nabeela has been leading efforts to:
-- Prioritize students’ mental health by increasing funding for in-school counselors
-- Expand MAP Grants to make college education more accessible and affordable
-- Increase affordability for in-state college tuition to keep students learning and working in Illinois
-- Keep students safe from bullying and sexual harassment through stronger state-level protections
-- Bridge the digital divide by advocating for statewide broadband funding
-- Grow student loan forgiveness progress for high-demand professions like teaching and nursing
-Legislative wins:
-- Fully funded Smart Start Illinois and expanding access to preschool throughout the state
-- Secured $350 million in new state funding to strengthen K-12 public schools
-- Delivered millions in strategic and smart state investments for school facility improvements
-Technology in Education
-As technology and AI rapidly reshape how students learn, Representative Syed understands the need to proactively ensure that this innovation enhances public education without replacing the human connection that great teaching requires.
+Nabeela has been leading efforts to: Prioritize students’ mental health by increasing funding for in-school counselors Expand MAP Grants to make college education more accessible and affordable Increase affordability for in-state college tuition to keep students learning and working in Illinois Keep students safe from bullying and sexual harassment through stronger state-level protections Bridge the digital divide by advocating for statewide broadband funding Grow student loan forgiveness progress for high-demand professions like teaching and nursing Legislative wins: Fully funded Smart Start Illinois and expanding access to preschool throughout the state Secured $350 million in new state funding to strengthen K-12 public schools Delivered millions in strategic and smart state investments for school facility improvements Technology in Education As technology and AI rapidly reshape how students learn, Representative Syed understands the need to proactively ensure that this innovation enhances public education without replacing the human connection that great teaching requires.
 She recognizes that tools like AI can expand learning opportunities, but they must be implemented thoughtfully and responsibly.
-Representative Syed is committed to:
-- Ensuring students learn in safe, well-regulated digital environments
-- Protecting teachers’ jobs and their well-earned professional judgement
-- Preventing the use of AI as a shortcut in important roles like teaching or counseling
-- Encouraging responsible innovation that closes equity gaps
-Legislative wins:
-- Protected K-12 students in the age of AI by requiring the State Board of education to develop clear guidelines for how AI is used in schools, while also ensuring students, parents and educators understand both the risks and benefits
-- Prohibited community colleges from replacing professors with AI, reaffirming that real instructors, not algorithms, must lead in classrooms
-- Prevented the use of AI as standalone therapists in expanded Pre-K and early childhood education programs
-Representative Syed is committed to building a future where every student has access to quality, affordable education–and where technology serves as a tool to great teaching and learning.
+Representative Syed is committed to: Ensuring students learn in safe, well-regulated digital environments Protecting teachers’ jobs and their well-earned professional judgement Preventing the use of AI as a shortcut in important roles like teaching or counseling Encouraging responsible innovation that closes equity gaps Legislative wins: Protected K-12 students in the age of AI by requiring the State Board of education to develop clear guidelines for how AI is used in schools, while also ensuring students, parents and educators understand both the risks and benefits Prohibited community colleges from replacing professors with AI, reaffirming that real instructors, not algorithms, must lead in classrooms Prevented the use of AI as standalone therapists in expanded Pre-K and early childhood education programs Representative Syed is committed to building a future where every student has access to quality, affordable education–and where technology serves as a tool to great teaching and learning.
+More Issues Economy Environment Public Safety Equal Rights Healthcare Choice SHARE YOUR CONCERNS NABEELA SYED FOR STATE SENATE (847) 496-3028 nabeela@nabeelasyed.com Paid for by Friends & Family of Nabeela Syed.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, IL.
+Privacy Policy Follow Twitter Facebook Instagram

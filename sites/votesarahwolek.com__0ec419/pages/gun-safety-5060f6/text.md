@@ -1,3 +1,7 @@
-Gun Safety
-- HB 947 Gun Industry Accountability Act of 2024 creates a legal framework to hold those in the gun industry responsible for their role in contributing to the harm gun violence causes in our communities.
-- SB 1 Gun Safety Act of 2023 establishes required restrictions on the wearing, carrying, and transporting of a handgun with a handgun permit.
+0 Skip to Content Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Folder: Legislation Back Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants Folder: 2026 Election Back 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Folder: Opportunities Back Scholarships Volunteer Contact Gun Safety HB 947 Gun Industry Accountability Act of 2024 creates a legal framework to hold those in the gun industry responsible for their role in contributing to the harm gun violence causes in our communities.
+Learn More SB 1 Gun Safety Act of 2023 establishes required restrictions on the wearing, carrying, and transporting of a handgun with a handgun permit.
+Learn More Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Sarah Wolek Sign-up for an email newsletter from Delegate Wolek!
+First Name Last Name Email Address Join Now Thank you!
+By Authority: Friends of Sarah Wolek; Oliver Hanson, Treasurer.

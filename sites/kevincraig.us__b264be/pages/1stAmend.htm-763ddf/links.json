@@ -1,12 +1,54 @@
 [
-"http:///KevinCraig.us/bill_of_rights.htm.htm",
-"http://kevincraig.us/",
-"http://kevincraig.us/EndTheWall/humanism.htm",
-"http://press-pubs.uchicago.edu/founders/tocs/amendI_assembly.html",
-"http://press-pubs.uchicago.edu/founders/tocs/amendI_religion.html",
-"http://press-pubs.uchicago.edu/founders/tocs/amendI_speech.html",
-"https://kevincraig.us/constitution.htm",
-"https://kevincraig.us/contents.htm",
-"https://kevincraig.us/estab-clause.htm",
-"https://kevincraig.us/religfreedom.htm"
+{
+"text": "Domestic",
+"href": "https://kevincraig.us/contents.htm#Domestic"
+},
+{
+"text": "Foreign",
+"href": "https://kevincraig.us/contents.htm#Foreign"
+},
+{
+"text": "Government",
+"href": "https://kevincraig.us/contents.htm#Government"
+},
+{
+"text": "Historical Resources",
+"href": "http://press-pubs.uchicago.edu/founders/tocs/amendI_assembly.html"
+},
+{
+"text": "Historical Resources",
+"href": "http://press-pubs.uchicago.edu/founders/tocs/amendI_religion.html"
+},
+{
+"text": "Historical Resources",
+"href": "http://press-pubs.uchicago.edu/founders/tocs/amendI_speech.html"
+},
+{
+"text": "Morality and Culture",
+"href": "https://kevincraig.us/contents.htm#Culture"
+},
+{
+"text": "Secular Humanism is a religion",
+"href": "http://kevincraig.us/EndTheWall/humanism.htm"
+},
+{
+"text": "The Bill of Rights is Dead Meat",
+"href": "http:///KevinCraig.us/bill_of_rights.htm.htm"
+},
+{
+"text": "The Constitution is Dead Meat",
+"href": "https://kevincraig.us/constitution.htm"
+},
+{
+"text": "[no text]",
+"href": "http://kevincraig.us"
+},
+{
+"text": "free exercise",
+"href": "https://kevincraig.us/religfreedom.htm"
+},
+{
+"text": "government establishment",
+"href": "https://kevincraig.us/estab-clause.htm"
+}
 ]

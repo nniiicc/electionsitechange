@@ -1,4 +1,10 @@
-Growth lifted our property values.
+Bill Moskal A Democrat for Florida House, District 80 About Positions 01 Growth, Infrastructure & Water 02 Medicare, Social Security & Health Care Get Involved Endorsements Support Support All issues Bill Moskal, Position № 01 Growth we can influence, infrastructure we can control.
+A decade of growth has lifted property values across District 80.
+It has also left District 80 residents with the traffic, the flooding, and the insurance bills, while developers move on to the next project.
+The question is who growth is supposed to serve.
+The problem Rapid growth without infrastructure to match it, and residents with no voice in the process Bill's frame Growth should work for the people who live here, not just the people who build here The message Lower costs.
+Smarter growth.
+Stronger District 80 communities The reality on the ground Growth lifted our property values.
 It also handed us the bill.
 During the past decade, District 80 and the surrounding areas have experienced growth and development that enhanced property values and built up our communities and our commercial corridors.
 That is the good news, and it is real.
@@ -15,9 +21,7 @@ Some have been told that the qualifications set by the state and federal governm
 Many have been denied FEMA and Red Cross support.
 People are trying to recover, and the systems built to help them are not built around their needs.
 "Growth should work for residents, not just developers.
-We need better roads, stronger storm protection, clean water, and responsible planning that preserves our quality of life."
-Bill Moskal
-We are surrounded by water.
+We need better roads, stronger storm protection, clean water, and responsible planning that preserves our quality of life." Bill Moskal Where growth meets the water We are surrounded by water.
 We cannot use for our benefit.
 District 80 is built around water, and that same water has become harder to swim in, less reliable as an ecosystem, and less dependable as the foundation of a coastal economy.
 Blue-green algae blooms have become a recurring summer emergency on the Caloosahatchee, driven by Lake Okeechobee discharges, agricultural runoff from the upper watershed, and the rapid urbanization of District 80 itself.
@@ -27,11 +31,8 @@ Hurricane Ian exposed the other half of the problem.
 The storm killed 152 people in District 80 in September 2022, wiped out large portions of Fort Myers Beach and Pine Island, and cut Sanibel off from the mainland for weeks.
 The rebuilding has been slow and uneven, and in places it has been pushed toward higher-density redevelopment that leaves the same barrier islands more exposed to the next storm, not less.
 Water quality and storm resilience trace back to the same failure: development pressure that outpaces infrastructure investment, paired with a state that has repeatedly overridden the ability of local communities to protect what they have.
-(Bill's full record on the Captiva conservation fight and his water commitments are covered in detail on the flood protection and water quality page.)
-"We're surrounded by water, that's the irony.
-We're surrounded by water, but we can't really use it."
-Bill Moskal
-A voice in Tallahassee that answers to District 80, not special interests.
+(Bill's full record on the Captiva conservation fight and his water commitments are covered in detail on the flood protection and water quality page.) "We're surrounded by water, that's the irony.
+We're surrounded by water, but we can't really use it." Bill Moskal What I can do about it A voice in Tallahassee that answers to District 80, not special interests.
 District 80 voters have the opportunity to have real input into how development and infrastructure happen here.
 As your representative in Tallahassee, I will make sure residents have a voice that influences traffic circulation, environmental preservation, architectural standards, stormwater protections, and comprehensive planning.
 To date, the incumbent has not been willing or able to ensure District 80 voters have ownership in the development process.
@@ -42,10 +43,18 @@ We demand that state and county representatives are transparent and honest.
 And we deal honestly with the legal realities, so we understand what we can and cannot do to manage development in our own communities.
 As your representative, alongside your voice, I will attend public hearings, submit your written comments, and press developers and city councils to include us.
 Together we will be heard as informed, constructive, and grounded in the values and needs of District 80 residents.
-My message is threefold, and it is simple:
-"I am a problem solver focused on cost, neighborhoods, and accountability."
-Bill Moskal
-Lower costs.
+My message is threefold, and it is simple: 1 Make District 80 affordable again for working families and seniors.
+Lower the cost of living by focusing on homeowners' insurance reform, stronger oversight of insurance companies, more housing options for working families and teachers, and assistance for seniors on fixed incomes.
+2 Manage growth and protect District 80's quality of life.
+Push for smart infrastructure planning that keeps roads, schools, water systems, and storm protection ahead of development, not chasing it.
+Growth should preserve the quality of life that brought people here.
+3 Hold Tallahassee accountable when it puts politics ahead of local needs.
+Make sure the state recognizes that affordable housing, insurance reform, and fair taxes are essential to sustaining our community, and that District 80 residents, not special interests, set the priorities.
+"I am a problem solver focused on cost, neighborhoods, and accountability." Bill Moskal Lower costs.
 Smarter growth.
 Stronger District 80 communities.
 The bottom line is that together we will make sure Tallahassee works for our community, District 80, and not for special interests.
+This seat belongs to the district Ready to help District 80 win?
+Chip in to put yard signs on lawns from Estero to San Carlos Park.
+Or sign up to knock doors in your neighborhood.
+Volunteer Support the campaign Bill Moskal For Florida House District 80 - Political advertisement paid for and approved by Bill Moskal, Democrat, for Florida House, District 80. · Privacy Policy

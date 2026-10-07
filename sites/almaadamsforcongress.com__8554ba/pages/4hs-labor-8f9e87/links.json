@@ -1,12 +1,50 @@
 [
-"https://almaadamsforcongress.com/",
-"https://almaadamsforcongress.com/4hs-labor",
-"https://almaadamsforcongress.com/about-alma",
-"https://almaadamsforcongress.com/contact-us",
-"https://almaadamsforcongress.com/issues",
-"https://almaadamsforcongress.com/media",
-"https://almaadamsforcongress.com/volunteer",
-"https://facebook.com/AlmaAdamsforCongress",
-"https://secure.actblue.com/donate/alma-adams-4",
-"https://twitter.com/AlmaforCongress"
+{
+"text": "4Hs + Labor",
+"href": "https://almaadamsforcongress.com/4hs-labor/"
+},
+{
+"text": "About Alma",
+"href": "https://almaadamsforcongress.com/about-alma/"
+},
+{
+"text": "Contact Us",
+"href": "https://almaadamsforcongress.com/contact-us/"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/alma-adams-4"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/AlmaAdamsforCongress"
+},
+{
+"text": "Home",
+"href": "https://almaadamsforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://almaadamsforcongress.com/issues/"
+},
+{
+"text": "Join The Campaign",
+"href": "https://almaadamsforcongress.com/volunteer/"
+},
+{
+"text": "Media",
+"href": "https://almaadamsforcongress.com/media/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AlmaforCongress"
+},
+{
+"text": "Volunteer",
+"href": "https://almaadamsforcongress.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://almaadamsforcongress.com"
+}
 ]

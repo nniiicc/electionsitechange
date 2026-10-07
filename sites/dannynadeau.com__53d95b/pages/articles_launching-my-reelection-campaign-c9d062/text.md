@@ -1,5 +1,4 @@
-Dear friends,
-I’m excited to share some big news: I’m officially launching my re-election campaign and I’d love for you to be there as we kick things off.
+Home About Issues Endorsements Articles Events Photos Voting Suburbs Survey Contact Donate Dear friends, I’m excited to share some big news: I’m officially launching my re-election campaign and I’d love for you to be there as we kick things off.
 It’s an honor to serve in the Minnesota House of Representatives, but extremely challenging as well.
 I’ve remained focused on the important pocket-book issues our community cares about and fought hard to minimize the extreme political ideologies that thrive in the political discussions today and limit our ability to increase transparency, right-size government and hold it accountable.
 We’ve made some progress and none of it would have been possible without your support and trust.
@@ -11,8 +10,8 @@ You’ll hear about the vision for the term ahead, meet other members of the leg
 If you’re able, I hope you’ll also consider making a contribution to help me start strong.
 Early support gives us the momentum we need to organize, reach voters, and share our message across the district.
 Whether it’s $1000, $500, $250, $100, or whatever feels right to you, your contribution will make a real difference.
-You can RSVP to kaley@katconsultingllc.com and if you can’t make it in person but still want to contribute, you can do that here: dannynadeau.com/donate
-Thank you for standing with me through every challenge and every success.
+You can RSVP to kaley@katconsultingllc.com and if you can’t make it in person but still want to contribute, you can do that here: dannynadeau.com/donate Thank you for standing with me through every challenge and every success.
 I can’t wait to see you at Clive’s and to continue this journey together.
-With gratitude,
-Danny Nadeau
+With gratitude, Danny Nadeau Follow Follow Follow Follow Prepared and Paid for by Danny Nadeau for House | P.O.
+Box 752 Rogers, MN 55374 Follow Follow Follow Follow Privacy Policy Prepared and Paid for by Danny Nadeau for House | P.O.
+Box 752 Rogers, MN 55374

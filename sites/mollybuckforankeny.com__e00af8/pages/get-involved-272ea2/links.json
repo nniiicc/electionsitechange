@@ -1,8 +1,30 @@
 [
-"https://mollybuckforankeny.com/",
-"https://mollybuckforankeny.com/about",
-"https://mollybuckforankeny.com/get-involved",
-"https://mollybuckforankeny.com/issues",
-"https://mollybuckforankeny.com/privacy-policy",
-"https://secure.actblue.com/donate/mollybuck"
+{
+"text": "About",
+"href": "https://www.mollybuckforankeny.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mollybuck"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mollybuckforankeny.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.mollybuckforankeny.com/issues"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/mollybuck"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.mollybuckforankeny.com/privacy-policy"
+},
+{
+"text": "[image: Molly Buck for Iowa House - District 41 - Campaign logo]",
+"href": "https://www.mollybuckforankeny.com"
+}
 ]

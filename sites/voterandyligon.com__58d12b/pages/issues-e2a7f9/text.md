@@ -1,28 +1,3 @@
-KEY ISSUES
-Defending Faith, Family, and Freedom
-STOP ILLEGAL IMMIGRATION & VIOLENT CRIME
-- Give state and local law enforcement the resources they need, because Biden and the Democrats refuse to secure our border
-- Bolster SLED's Illegal Immigration Enforcement Unit
-- Choke the cartels and get fentanyl and dangerous drugs off of our streets
-- End the revolving door for violent, repeat criminals
-IMPROVE EDUCATION
-- Protect our children from radical indoctrination
-- Guarantee parental oversight and accountability
-- Attract and retain quality teachers by raising teacher pay
-- Statewide 4-K
-- Let teachers teach!
-GROW LOCAL JOBS
-- Encourage good-paying jobs to keep our young men and women in Chester and York Counties
-- Increase access to technical education and on-the-job training
-- Use tax incentives only when necessary to attract manufacturing investments and the good-paying jobs they provide
-- Stop China from buying up our farmland and stealing our jobs, technology, and secrets
-CONSERVATIVE LEADERSHIP
-- Work with our community including pastors, local elected officials, teachers, and citizens of Chester and York counties to ensure state-level policies align with our community’s values
-- Fight the corruption in Columbia that drains our tax dollars and burdens our families
-STAND UP FOR THE UNBORN
-- Voted for the Heartbeat Bill, which limits abortion after a baby’s heartbeat can be heard (Signed by the Governor)
-- Voted for ALL pro-life bills and oppose any effort to weaken Pro-Life protections
-- Knows life begins at conception and will stand firm to protect it
-- Believes Planned Parenthood and other abortion clinics should receive ZERO state or local funding
-- Christian, Father, and Husband who is a member of Westminster Presbyterian Church in Rock Hill
-Randy Ligon is the name Chester and York counties can trust to fight for conservative, common sense values.
+top of page HOME MEET RANDY ISSUES NEWS CONTACT DONATE SIGN UP More Use tab to navigate through the menu items.
+KEY ISSUES Defending Faith, Family, and Freedom STOP ILLEGAL IMMIGRATION & VIOLENT CRIME Give state and local law enforcement the resources they need, because Biden and the Democrats refuse to secure our border Bolster SLED's Illegal Immigration Enforcement Unit Choke the cartels and get fentanyl and dangerous drugs off of our streets End the revolving door for violent, repeat criminals ​ IMPROVE EDUCATION Protect our children from radical indoctrination Guarantee parental oversight and accountability Attract and retain quality teachers by raising teacher pay Statewide 4-K Let teachers teach! ​ GROW LOCAL JOBS Encourage good-paying jobs to keep our young men and women in Chester and York Counties Increase access to technical education and on-the-job training Use tax incentives only when necessary to attract manufacturing investments and the good-paying jobs they provide Stop China from buying up our farmland and stealing our jobs, technology, and secrets CONSERVATIVE LEADERSHIP Work with our community including pastors, local elected officials, teachers, and citizens of Chester and York counties to ensure state-level policies align with our community’s values Fight the corruption in Columbia that drains our tax dollars and burdens our families ​ STAND UP FOR THE UNBORN Voted for the Heartbeat Bill, which limits abortion after a baby’s heartbeat can be heard (Signed by the Governor) Voted for ALL pro-life bills and oppose any effort to weaken Pro-Life protections Knows life begins at conception and will stand firm to protect it Believes Planned Parenthood and other abortion clinics should receive ZERO state or local funding Christian, Father, and Husband who is a member of Westminster Presbyterian Church in Rock Hill Randy Ligon is the name Chester and York counties can trust to fight for conservative, common sense values.
+CONTACT RANDY PAID FOR BY RANDY LIGON FOR STATE HOUSE ​ Privacy Policy Terms and Conditions ​ Resources bottom of page

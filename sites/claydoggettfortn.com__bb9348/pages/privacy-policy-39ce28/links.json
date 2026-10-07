@@ -1,9 +1,30 @@
 [
-"http://aboutads.info/",
-"http://allaboutdnt.com/",
-"https://claydoggettfortn.com/",
-"https://claydoggettfortn.com/privacy-policy",
-"https://facebook.com/DoggettForTennessee",
-"https://globalprivacycontrol.org/",
-"https://x.com/ClayDoggett70"
+{
+"text": "Privacy Policy",
+"href": "https://claydoggettfortn.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://claydoggettfortn.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/DoggettForTennessee"
+},
+{
+"text": "[image]",
+"href": "https://x.com/ClayDoggett70"
+},
+{
+"text": "http://www.allaboutdnt.com",
+"href": "http://www.allaboutdnt.com"
+},
+{
+"text": "https://globalprivacycontrol.org/",
+"href": "https://globalprivacycontrol.org/"
+},
+{
+"text": "www.aboutads.info",
+"href": "http://www.aboutads.info"
+}
 ]

@@ -1,10 +1,38 @@
 [
-"https://secure.winred.com/elect-sheldon-birch/committee-to-elect-sheldon-birch-donate-today",
-"https://votesheldonbirch.com/",
-"https://votesheldonbirch.com/about",
-"https://votesheldonbirch.com/cart",
-"https://votesheldonbirch.com/contact",
-"https://votesheldonbirch.com/endorsements",
-"https://votesheldonbirch.com/issues",
-"https://votesheldonbirch.com/join"
+{
+"text": "0",
+"href": "https://votesheldonbirch.com/cart"
+},
+{
+"text": "CONTACT",
+"href": "https://votesheldonbirch.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/elect-sheldon-birch/committee-to-elect-sheldon-birch-donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://votesheldonbirch.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://votesheldonbirch.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://votesheldonbirch.com/issues"
+},
+{
+"text": "JOIN TEAM BIRCH",
+"href": "https://votesheldonbirch.com/join"
+},
+{
+"text": "MEET SHELDON",
+"href": "https://votesheldonbirch.com/about"
+},
+{
+"text": "[image: Vote Sheldon Birch for House]",
+"href": "https://votesheldonbirch.com/"
+}
 ]

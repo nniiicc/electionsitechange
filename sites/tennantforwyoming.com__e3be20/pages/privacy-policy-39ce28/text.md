@@ -1,18 +1,5 @@
-Privacy Policy.
-INFORMATION GATHERED FROM WEBSITE VISITORS
-In common with other websites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit.
-Cookies may be used to remember visitor preferences when interacting with the website.
-Where registration is required, the visitor’s email and a username will be stored on the server.
-HOW THE INFORMATION IS USED
-Contact information including email addresses or cell phone numbers will not be sold, rented, or leased to third parties.
+top of page Home Meet Britney Get Involved Donate Privacy Policy .
+INFORMATION GATHERED FROM WEBSITE VISITORS HOW THE INFORMATION IS USED Contact information including email addresses or cell phone numbers will not be sold, rented, or leased to third parties.
 The contact information you share may be used to inform you of news regarding the campaign.
-VISITOR OPTIONS
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in communication you receive.
-COOKIES
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website.
-They may be used to track your return visits to the website.
-Third party advertising companies may also use cookies for tracking purposes.
-GOOGLE ADS
-Google, as a third party vendor, uses cookies to serve ads.
-Google’s use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
-Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+VISITOR OPTIONS If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in communication you receive. ​ ​ PRIVACY POLICY | MEDIA INQUIRIES | DONATE | I WILL VOTE | ASK BRITNEY (307) 222-8157 If donating by mail, make checks payable to: Tennant for Wyoming P.O.
+Box 2262 Cheyenne, WY 82003 PAID FOR BY TENNANT FOR WYOMING bottom of page

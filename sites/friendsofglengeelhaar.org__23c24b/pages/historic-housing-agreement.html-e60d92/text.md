@@ -1,4 +1,5 @@
-The future trajectory of Baltimore County is rapidly taking shape.
+endorsements about issues events blog contact menu endorsements about issues events contact blog MD Taxpayer Cost Tracker Maryland Taxpayer Cost Tracker Historic Housing Agreement?
+02/27/2024 Published in NottinghamMD.com and The Baltimore Sun The future trajectory of Baltimore County is rapidly taking shape.
 On February 2nd, Baltimore County Executive Johnny Olszewski unveiled what he hailed as a momentous Attainable Housing Agreement.
 This agreement encompasses the development of 918 subsidized rental units, including the 258-unit Springs Townhomes in Parkville, the 459-unit BLVD at White Springs Apartments in Nottingham, and another property in Sparrows Point.
 Securing $6 million in funding for this initiative was made possible through the passage of Bill 4-23, the Housing Opportunities Fund, which narrowly cleared the County Council in a 4-3 party-line vote.

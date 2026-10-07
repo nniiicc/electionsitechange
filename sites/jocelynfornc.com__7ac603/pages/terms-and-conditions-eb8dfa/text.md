@@ -1,6 +1,5 @@
-Terms & Conditions
-Last Updated: 1/23/2026
-Welcome to the Jocelyn Torres Campaign website.
+top of page Jocelyn Torres FOR NC House District 67 About Why Voting Matters NC-67 Map Get Involved Contact Events More Use tab to navigate through the menu items.
+DONATE Log In SUBSCRIBE Terms & Conditions Last Updated: 1/23/2026 Welcome to the Jocelyn Torres Campaign website.
 By accessing or using this website, you agree to follow these Terms & Conditions.
 If you do not agree, please do not use the site.
 This website is intended to provide information about the campaign, share updates, and allow supporters to engage through sign-ups, messages, volunteering, and donations.
@@ -19,5 +18,5 @@ We make reasonable efforts to ensure that the information on this website is acc
 The Jocelyn Torres Campaign is not liable for any damages or losses resulting from your use of this site.
 We reserve the right to modify or update these Terms & Conditions at any time.
 Changes will be posted on this page, and continued use of the site indicates acceptance of updated terms.
-If you have questions about these Terms & Conditions, please contact us.
-Jocelyn Torres for NC House District 67
+If you have questions about these Terms & Conditions, please contact us. ​ Jocelyn Torres for NC House District 67 jocelynfornc@gmail.com Donate to Jocelyn for NC House!
+Donate SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Jocelyn Torres Home About Jocelyn Get Involved Contact Terms & Conditions Privacy Policy Accessibility Statement © # by Jocelyn Torres Paid for by Jocelyn for NC House District 67 jocelynfornc@gmail.com - FOR NC House District 67 - bottom of page

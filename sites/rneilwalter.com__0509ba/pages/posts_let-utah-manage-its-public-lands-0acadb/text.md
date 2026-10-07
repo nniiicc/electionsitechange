@@ -1,4 +1,4 @@
-| Public lands issues are becoming a polarizing issue once again in the State of Utah.
+UT 74 VOTE ABOUT Posts Experience Contact Let Utah manage its public lands 4/25/2015 Public lands issues are becoming a polarizing issue once again in the State of Utah.
 Currently, the Attorney General is pursuing a lawsuit to have federal lands transferred to State control, and the American Lands Council is building support from other western states who agree that federal land control in the West is overreaching.
 Opponents suggest attempting to change the status quo is a waste of money and will result in developers ruining the beauty and accessibility of the American West.
 It is helpful to view public lands through a different lens prior to choosing a side in this debate.
@@ -21,4 +21,4 @@ It is in this context that the Republican Party and its elected officials are pu
 There is no desire to ruin national parks or pollute pristine vistas.
 The objective is to return to a more balanced approach consistent with the “multiple use and sustained yield basis” that allows all of our citizens to be simultaneous beneficiaries of our vast public lands resources.
 This article was originally published in The Spectrum as a guest editorial on 9/27/2014.
-For more information about the economics of a potential lands transfer, please see the study published by a collaborative effort between three state universities: the University of Utah, Bureau of Economic and Business Research; Utah State University; and Weber State University published here: http://bebr.business.utah.edu/page/transfer-federal-lands-state-utah | |
+For more information about the economics of a potential lands transfer, please see the study published by a collaborative effort between three state universities: the University of Utah, Bureau of Economic and Business Research; Utah State University; and Weber State University published here: http://bebr.business.utah.edu/page/transfer-federal-lands-state-utah Comments are closed. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

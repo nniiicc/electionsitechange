@@ -1,4 +1,6 @@
-Transparency and Accountability
-It’s important to me that we have transparency and accountability at all levels of government, which is why I will always prioritize constituent services and civic engagement.This is how we build trusted partnerships that empower honest conversations and have a state government that works for everyone.
+Heather Matson for Iowa Senate Open Menu Meet Heather Issues Endorsements Volunteer Contact Volunteer Donate Transparency and Accountability It’s important to me that we have transparency and accountability at all levels of government, which is why I will always prioritize constituent services and civic engagement.This is how we build trusted partnerships that empower honest conversations and have a state government that works for everyone.
 I hold office hours every Friday morning during the legislative session and weekend listening posts throughout the year.
 I look forward to the opportunity to continue providing that accessibility.
+Issues Voting Rights Transparency and Accountability Reproductive Freedom and Maternal Health Public Safety Health Care, Rising Cancer Rates, and Fixing Medicaid Economic Development, Workforce, and Lowering Costs for Iowans Clean Water, Conservation, and Climate Education Back to issues page Next: Voting Rights Follow Heather on Facebook Follow Heather on Twitter Follow Heather on Instagram info@matsonforiowa.com | (515) 201-1877 © # Heather Matson for Iowa Senate.
+All rights reserved.
+Privacy Policy | Website built in Iowa by OVMM Paid for by Heather Matson for Iowa.

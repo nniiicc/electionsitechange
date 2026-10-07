@@ -1,9 +1,7 @@
-Rep.
-Provenzano Begins Service on LOFT Oversight Committee
-OKLAHOMA CITY – Monday Representative Melissa Provenzano (D-Tulsa) began her service on the Oklahoma Legislative Office of Fiscal Transparency (LOFT) Oversight Committee.
+Home Bio Issues Key Wins Capitol Updates Contact News / Provenzano Appointed to LOFT Commission 12 Feb Sunday, 6:14 AM · 2023 Provenzano Appointed to LOFT Commission Rep.
+Provenzano Begins Service on LOFT Oversight Committee OKLAHOMA CITY – Monday Representative Melissa Provenzano (D-Tulsa) began her service on the Oklahoma Legislative Office of Fiscal Transparency (LOFT) Oversight Committee.
 “One of our most important duties as state legislators is oversight of taxpayer dollars and ensuring we are using those resources efficiently,” said Provenzano.
-“I’m honored the Speaker appointed me to the LOFT Oversight Committee so I can help ensure we are being as fiscally responsible as we can while providing the services that Oklahomans need.”
-Created in 2019, LOFT is a legislative office that provides the public and policymakers with independent, objective research and data on state spending and program evaluation and performance.
+“I’m honored the Speaker appointed me to the LOFT Oversight Committee so I can help ensure we are being as fiscally responsible as we can while providing the services that Oklahomans need.” Created in 2019, LOFT is a legislative office that provides the public and policymakers with independent, objective research and data on state spending and program evaluation and performance.
 The Speaker of the House appoints 7 members of the Oklahoma House to the LOFT Oversight Committee which helps guide the work of the office.
 “The Oversight Committee is a bipartisan and independent panel that provides transparency and oversight to spending,” said Provenzano.
-“That is exactly the type of work I came to the Capitol to do when I was first elected and I’m excited to continue that work on the LOFT Oversight Committee.”
+“That is exactly the type of work I came to the Capitol to do when I was first elected and I’m excited to continue that work on the LOFT Oversight Committee.” Provenzano for House District 79 2026 Powered by CampaignPartner.com - Political Campaign Websites Home Bio Issues Key Wins YARD SIGN (Free!) Volunteer Contribute Voter Information Contact Close Menu

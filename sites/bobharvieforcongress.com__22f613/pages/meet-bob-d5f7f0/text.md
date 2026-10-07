@@ -1,4 +1,4 @@
-Born and raised in Bristol Borough, Harvie is a lifelong Bucks County resident.
+Skip to content Bob Harvie for Congress Meet Bob Endorsements Priorities DONATE Meet Bob Born and raised in Bristol Borough, Harvie is a lifelong Bucks County resident.
 After graduating from Bristol High School, Harvie attended George Washington University in Washington, D.C., graduating magna cum laude with a bachelor’s degree in history.
 He also has a master’s degree in education from Holy Family University.
 Harvie was raised in a family that emphasized community service, from youth sports to PTO to local government.
@@ -19,3 +19,4 @@ While people work longer and harder just to stay afloat, Washington is stuck in 
 Bob knows firsthand how bad policies have made things worse, including devastating cuts that have left local nonprofits with fewer resources to help families in need.
 He is running to change that — to fight for the middle-class and working families, rebuild the American Dream, and ensure everyone who works hard can build a better future.
 He won’t stand by while Washington prioritizes billionaires like Elon Musk over the people who make this country strong — he’s ready to fight for Bucks County and Montgomery County families to deliver the leadership we deserve.
+Bob Harvie for Congress Privacy Policy Paid for by Bob Harvie For Congress Bob Harvie for Congress, PO Box 67 Langhorne, PA 19047

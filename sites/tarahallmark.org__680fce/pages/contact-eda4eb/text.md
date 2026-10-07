@@ -1,13 +1,4 @@
-Contact
-Friends to Elect Tara Hallmark
-Hallmark4 MoHouse@yahoo.com
-www.tarahallmark.org
-Mailing address: PO Box 752 Dixon MO 65459
-Campaign phone: 573-238-8264
-Embedded Files
-Paid for by Friends to Elect Tara Hallmark, Treasurer Tara Hallmark .
+Search this site Embedded Files Skip to main content Skip to navigation Tara Hallmark Campaign Home Meet Tara Qualified Priorities Love Our Home Get Involved Donate Contact Tara Hallmark Campaign Home Meet Tara Qualified Priorities Love Our Home Get Involved Donate Contact More Home Meet Tara Qualified Priorities Love Our Home Get Involved Donate Contact Contact Friends to Elect Tara Hallmark Hallmark4 MoHouse@yahoo.com www.tarahallmark.org Mailing address: PO Box 752 Dixon MO 65459 Campaign phone: 573-238-8264 Paid for by Friends to Elect Tara Hallmark, Treasurer Tara Hallmark .
 Contributions from this solicitation benefit Friends to Elect Tara Hallmark.
 Friends to Elect Tara Hallmark receives 96.05% of each contribution; ActBlue, Inc. receives 3.95% as a processing fee.
-Page updated
-Google Sites
-Report abuse
+Google Sites Report abuse Page details Page updated Google Sites Report abuse

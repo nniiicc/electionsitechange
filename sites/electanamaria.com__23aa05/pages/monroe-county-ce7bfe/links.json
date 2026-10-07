@@ -1,12 +1,58 @@
 [
-"https://electanamaria.com/",
-"https://electanamaria.com/about-ana-maria",
-"https://electanamaria.com/es/cayos-de-la-florida",
-"https://electanamaria.com/hurricane-prep-miami",
-"https://electanamaria.com/hurricane-prep-monroe",
-"https://electanamaria.com/miami-dade-county",
-"https://electanamaria.com/monroe-county",
-"https://electanamaria.com/privacy-policy",
-"https://electanamaria.com/terms-of-service",
-"https://secure.anedot.com/anamaria/2026"
+{
+"text": "About Ana Maria",
+"href": "https://electanamaria.com/about-ana-maria/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/anamaria/2026/"
+},
+{
+"text": "Español",
+"href": "https://electanamaria.com/es/cayos-de-la-florida/"
+},
+{
+"text": "Home",
+"href": "https://electanamaria.com/"
+},
+{
+"text": "Miami-Dade County",
+"href": "https://electanamaria.com/miami-dade-county/"
+},
+{
+"text": "Miami-Dade Hurricane Preparedness",
+"href": "https://electanamaria.com/hurricane-prep-miami/"
+},
+{
+"text": "Monroe County",
+"href": "https://electanamaria.com/monroe-county/"
+},
+{
+"text": "Monroe Hurricane Preparedness",
+"href": "https://electanamaria.com/hurricane-prep-monroe/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electanamaria.com/privacy-policy/"
+},
+{
+"text": "Terms of Use",
+"href": "https://electanamaria.com/terms-of-service/"
+},
+{
+"text": "[image: Mobile Logo]",
+"href": "https://electanamaria.com/"
+},
+{
+"text": "[image: logo] [image: dark logo] [image: light logo]",
+"href": "https://electanamaria.com/"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0)"
+},
+{
+"text": "amr@electanamaria.com",
+"href": "mailto:amr@electanamaria.com"
+}
 ]

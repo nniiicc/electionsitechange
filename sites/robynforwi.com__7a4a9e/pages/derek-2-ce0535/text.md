@@ -1,5 +1,4 @@
-Derek
-Before moving to Wauwatosa the summer of 2010, I never paid much attention to local politics … I never paid much attention to community issues.
+District Map Voting Merch Gallery Press Home Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care For Our Climate Violence Prevention Justice for All Working Together Endorsements Endorsements Faces of the District Awards Meet Robyn Get Involved Merch Volunteer Knock Doors Request a Yard Sign Reading Wins Contact Donate Select Page Derek More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett Before moving to Wauwatosa the summer of 2010, I never paid much attention to local politics … I never paid much attention to community issues.
 Then again, I never lived anywhere previously I would call a community.
 Small businesses account for nearly half of all private employees in the state of Wisconsin, and healthcare suffers from increasing affordability and accessibility challenges.
 Taking care of our local economy, and the health and well being of our neighbors, are both foundational to a flourishing community.
@@ -7,4 +6,4 @@ As an employee of a small business here in Wisconsin, and having worked in the h
 And they help highlight why Robyn Vining is the right person for our community today.
 Robyn has been an inspiration to my family; having inspired both my wife and my oldest daughter to get involved with the community, advocate for those in need, and ultimately support Robyn’s campaign.
 Robyn’s ability to inspire others to action and bring people together to address challenges they could not take on alone is incredible.
-Robyn has shown through her actions and results that she is deeply principled, willing to fight for what she believes, and focused on the things needed for this community to thrive. -Derek
+Robyn has shown through her actions and results that she is deeply principled, willing to fight for what she believes, and focused on the things needed for this community to thrive. -Derek More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

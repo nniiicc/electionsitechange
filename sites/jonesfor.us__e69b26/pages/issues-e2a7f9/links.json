@@ -1,10 +1,38 @@
 [
-"https://facebook.com/Todd-Jones-for-State-House-894459757341546?fref=ts",
-"https://jonesfor.us/",
-"https://jonesfor.us/about",
-"https://jonesfor.us/blog",
-"https://jonesfor.us/contact",
-"https://jonesfor.us/donate",
-"https://jonesfor.us/issues",
-"https://jonesfor.us/volunteer"
+{
+"text": "ABOUT",
+"href": "https://jonesfor.us/about"
+},
+{
+"text": "CONTACT",
+"href": "https://jonesfor.us/contact"
+},
+{
+"text": "DONATE",
+"href": "https://jonesfor.us/donate"
+},
+{
+"text": "HOME",
+"href": "https://jonesfor.us/"
+},
+{
+"text": "ISSUES",
+"href": "https://jonesfor.us/issues"
+},
+{
+"text": "NEWS",
+"href": "https://jonesfor.us/blog"
+},
+{
+"text": "THE DISTRICT",
+"href": "https://jonesfor.us/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://jonesfor.us/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Todd-Jones-for-State-House-894459757341546/?fref=ts"
+}
 ]

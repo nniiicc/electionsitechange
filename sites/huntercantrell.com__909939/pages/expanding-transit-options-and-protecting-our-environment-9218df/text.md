@@ -1,25 +1,11 @@
-Protecting our Environment
-Our health and wellbeing are directly tied to the health of our environment.
+0 Skip to Content Home About Issues A Healthy Minnesota Making our Lives Affordable: A New Deal for Minnesota Education for a Stable Future Expanding Transit Options and Protecting our Environment Securing our Safety and Defending our Rights Endorsements Contact Hunter Contribute Open Menu Close Menu Home About Issues A Healthy Minnesota Making our Lives Affordable: A New Deal for Minnesota Education for a Stable Future Expanding Transit Options and Protecting our Environment Securing our Safety and Defending our Rights Endorsements Contact Hunter Contribute Open Menu Close Menu Home About Folder: Issues Back A Healthy Minnesota Making our Lives Affordable: A New Deal for Minnesota Education for a Stable Future Expanding Transit Options and Protecting our Environment Securing our Safety and Defending our Rights Endorsements Contact Hunter Contribute Protecting our Environment Our health and wellbeing are directly tied to the health of our environment.
 Enacting state regulations to safeguard our ecosystems from corporate polluters, reduce greenhouse gas emissions, and expanding clean, renewable energy is critical as environmental protections are weakened at the federal level.
-Renewable energy transition and green job creation
-Transitioning our energy sources to clean renewable energy is critical for longterm environmental health and reducing the significant economic impact of continued reliance on fossil fuels.
-- Support jobs training and development of our Minnesota-based clean energy economy
-- Fund initiatives around residential and commercial decarbonization and improving efficiency
-- Expand electric school buses
-- Continue to fund expansion of solar, wind, and thermal energy and create incentives for utility companies to increase availability of clean energy options
-Reducing waste and pollution
-Environmental pollution poses an immediate threat to public health in communities across our state, including our own.
+Renewable energy transition and green job creation Transitioning our energy sources to clean renewable energy is critical for longterm environmental health and reducing the significant economic impact of continued reliance on fossil fuels.
+Support jobs training and development of our Minnesota-based clean energy economy Fund initiatives around residential and commercial decarbonization and improving efficiency Expand electric school buses Continue to fund expansion of solar, wind, and thermal energy and create incentives for utility companies to increase availability of clean energy options Reducing waste and pollution Environmental pollution poses an immediate threat to public health in communities across our state, including our own.
 We need to protect our land, air, and water from toxic substance and heavy metal contamination while enhancing waste reduction initiatives.
 Environmental pollution disproportionately affects communities of color and is overall directly responsible for increased risk of asthma, heart disease, and stroke and an estimated 2,000-4,000 premature deaths in MN annually.
-- Oppose mining in the Boundary Waters
-- Support expanding current e-waste recycling initiatives through implementing strong extended producer responsibilities
-- Establish an environmental protection fund that recovers costs from corporate polluters to fund ecosystem remediation and renewable energy initiatives
-- Clean up the Burnsville freeway dump and landfill and ensure rigorous environmental standards are upheld to protect our drinking water
-- End trash incineration as a form of energy production
-- Institute a moratorium on environmentally damaging AI data centers and ensure strong protection of our water.
+Oppose mining in the Boundary Waters Support expanding current e-waste recycling initiatives through implementing strong extended producer responsibilities Establish an environmental protection fund that recovers costs from corporate polluters to fund ecosystem remediation and renewable energy initiatives Clean up the Burnsville freeway dump and landfill and ensure rigorous environmental standards are upheld to protect our drinking water End trash incineration as a form of energy production Institute a moratorium on environmentally damaging AI data centers and ensure strong protection of our water.
 Protect surrounding residential areas from footing the bill for increased utility usage.
-Expanding transit options
-Investing in mass transit alleviates the frequency of costly road repairs, enhances economic and educational opportunities, and reduces green house gas emissions.
-- Continue to expand MVTA service in Burnsville and surrounding communities
-- Grow light rail and commuter rail infrastructure while ensuring proper oversight of projects to reduce costly delays
-- Invest in developing more walkable communities that are integrated into transit networks and help people of all ages and abilities live, work, and thrive without needing to rely on driving a car
+Expanding transit options Investing in mass transit alleviates the frequency of costly road repairs, enhances economic and educational opportunities, and reduces green house gas emissions.
+Continue to expand MVTA service in Burnsville and surrounding communities Grow light rail and commuter rail infrastructure while ensuring proper oversight of projects to reduce costly delays Invest in developing more walkable communities that are integrated into transit networks and help people of all ages and abilities live, work, and thrive without needing to rely on driving a car Prepared and Paid for by Hunter Cantrell for MN House Committee 1609 County Rd 42 W.
+#373 Burnsville, MN 55306

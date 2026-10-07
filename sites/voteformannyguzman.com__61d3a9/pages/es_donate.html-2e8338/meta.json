@@ -1,7 +1,9 @@
 {
- "description": "Apoya la campa\u00f1a del Representante Manny Guzman para el Distrito 127 de Pensilvania.",
+ "description": "Apoya la campaña del Representante Manny Guzman para el Distrito 127 de Pensilvania.",
  "final_url": "https://voteformannyguzman.com/es/donate.html",
- "paid_for_by": null,
+ "fingerprint": "ef1505d9dc69c015719c2b9e9e6f93bfb879271f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donar | Manny Guzman - Representante Estatal Distrito 127 de PA",
  "years_mentioned": []
 }

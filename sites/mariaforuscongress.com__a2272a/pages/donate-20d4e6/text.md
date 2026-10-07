@@ -1,11 +1,5 @@
-Make a donation
-Help us and make your every donation count – Invest for the prosperity and growth!
-Current step:Step 1
-Step 2
-Step 3
-Donate949759pwpadmin2024-08-14T18:18:59+00:00
-Make a donation
-Help us and make your every donation count – Invest for the prosperity and growth!
-Current step:Step 1
-Step 2
-Step 3
+Skip to content Toggle Navigation HOME MEET MARIA DONATE NOW Donate 949759pwpadmin 2024-08-14T18:18:59+00:00 Make a donation Help us and make your every donation count – Invest for the prosperity and growth!
+Current step: Step 1 Step 2 Step 3 select the donation amount $# $# $# $# $# $1000 Other Amount Make this a recurring monthly donation go to next step enter your information United States back go to next step enter payment details I confirm that all the above information is true and accurate. donate now Thank you for your message.
+It has been sent. × There was an error trying to send your message.
+Please try again later. × PAID FOR BY MARIA RODRIGUEZ FOR U.S.
+CONGRESS Page load link prosperity, freedom, equality! latest news Latest News Take Action About The Campaign Events Leadership that helps you revolutionize the future Election , Leadership ▪ Streamline the process of voting & campaign Election , Voting ▪ Our policies are designed to uplift all communities Campaign , Politics ▪ campaign office 123 Main Street, Queens, NY 11435 Phone: (800) 555 5555 info@avada-company.com Go to Top

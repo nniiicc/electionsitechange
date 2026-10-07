@@ -1,8 +1,9 @@
-A Response from Rep.
-Livingstone on PLAN: Downtown
-The following is the testimony that Rep.
-Livingstone provided on September 18, 2025 to the Boston Planning and Development Agency (BPDA) Board as it considered for approval Boston’s PLAN: Downtown Zoning proposal:
-My name is Jay Livingstone and I serve as the State Representative for the 8th Suffolk District, which includes the Boston neighborhoods of Beacon Hill, Back Bay, the West End, and the Fenway.
+0 Skip to Content About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Donate Open Menu Close Menu About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Donate Open Menu Close Menu About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Back Donate A Response from Rep.
+Livingstone on PLAN: Downtown Oct 1 Written By Jay Livingstone The following is the testimony that Rep.
+Livingstone provided on September 18, 2025 to the Boston Planning and Development Agency (BPDA) Board as it considered for approval Boston’s PLAN: Downtown Zoning proposal: My name is Jay Livingstone and I serve as the State Representative for the 8th Suffolk District, which includes the Boston neighborhoods of Beacon Hill, Back Bay, the West End, and the Fenway.
 The district also includes two of Boston’s most iconic landmarks, the Boston Common and the Public Garden.
 I am here to ask that you reject the proposed draft zoning plan and rework it because the current plan could result in depriving the Boston Common and Public Garden of crucial, needed sunlight.
 Moreover, a strong coalition created a workable plan to double current zoning heights except at critically sensitive areas more than a year ago that could be used instead to meet the goals of this zoning without the negative impacts on the parks.
@@ -48,3 +49,5 @@ But it would guarantee future sunshine on green spaces of the Boston Common and 
 I urge you to reject this zoning proposal and instead work towards a framework along the lines of the Sunshine Model that will secure our parks for generations to come.
 Thank you for your time and consideration of my comments.
 Reader’s note: The BPDA board only allowed elected officials the opportunity to speak on the plan.
+Jay Livingstone Previous Previous Video of Rep.
+Livingstone’s PLAN: Downtown Statement in Opposition at 10/22 Boston Zoning Commission Meeting Next Next Location Shield Act Update Blog Contact Donate State Representative Jay Livingstone 8th Suffolk District, MA

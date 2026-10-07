@@ -1,7 +1,11 @@
 {
  "description": "Mark Carver Campaign Events",
  "final_url": "https://www.markdcarverfornchouse109.com/Events?range=2026-W41",
- "paid_for_by": null,
+ "fingerprint": "480c524d14ae8a6eaf48a14e4c945da8502c2284",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mark Carver Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

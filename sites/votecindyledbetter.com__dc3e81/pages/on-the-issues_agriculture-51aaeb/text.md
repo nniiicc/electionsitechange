@@ -1,4 +1,4 @@
-“I know of no pursuit in which more real and important services can be rendered to any country than by improving its agriculture…” – George Washington
+Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Healthcare Mental Health/Substance Abuse Agriculture “I know of no pursuit in which more real and important services can be rendered to any country than by improving its agriculture…” – George Washington The four areas of agriculture that Cindy’s campaign places focus on are improving infrastructure, protecting property rights, protecting the small farmer, and innovation.
 Agriculture is a big business in Indiana.
 It contributes over $31 billion dollars to our state’s economy and supports approximately 100,000 jobs.
 Indiana is the tenth largest farming state in the nation and 96 percent of farms are family-owned and operated.
@@ -31,3 +31,12 @@ Commitment to fostering entrepreneurial ecosystems is needed to propel new advan
 Innovation and diversification in agronomic practices can help producers to reduce their operating costs to ensure a higher return on their agricultural enterprise.
 Cindy will continue to work to ensure that legislation is of benefit to the advancement of our farming industry as well as our rural communities.
 She will work to ensure drainage legislation is addressed and property rights are protected.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
+Box 1174 Newburgh, IN 47629 voteledbetter@gmail.com © # Vote Cindy Ledbetter.
+All rights reserved.
+Paid for by Ledbetter for State Representative Blog at WordPress.com.
+Search for: Search × Subscribe Subscribed votecindyledbetter.com Sign me up Have a WordPress.com account?
+Log in now. votecindyledbetter.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

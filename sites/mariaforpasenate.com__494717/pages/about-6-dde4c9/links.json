@@ -1,13 +1,66 @@
 [
-"https://bsky.app/profile/mariaforpasenate.bsky.social",
-"https://facebook.com/MariaforPA",
-"https://instagram.com/mariaforpa",
-"https://mariaforpasenate.com/",
-"https://mariaforpasenate.com/about-6",
-"https://mariaforpasenate.com/blank",
-"https://mariaforpasenate.com/general-6-1",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx",
-"https://pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx",
-"https://secure.actblue.com/donate/maria-for-pa-1",
-"https://threads.com/@mariaforpa"
+{
+"text": "CHECK YOUR VOTER REGISTRATION STATUS",
+"href": "https://www.pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/maria-for-pa-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.mariaforpasenate.com/blank"
+},
+{
+"text": "FIND YOUR POLLING PLACE",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "HOME",
+"href": "https://www.mariaforpasenate.com"
+},
+{
+"text": "MEDIA INQUIRIES",
+"href": "mailto:finn@mariaforpasenate.com?subject=Collett+Campaign+Inquiry"
+},
+{
+"text": "OUR DISTRICT",
+"href": "https://www.mariaforpasenate.com/about-6"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.mariaforpasenate.com/general-6-1"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.mariaforpasenate.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MariaforPA/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mariaforpa/"
+},
+{
+"text": "[image]",
+"href": "https://bsky.app/profile/mariaforpasenate.bsky.social"
+},
+{
+"text": "[image]",
+"href": "https://www.threads.com/@mariaforpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.mariaforpasenate.com/#comp-mpvkcne71"
+},
+{
+"text": "[no text]",
+"href": "https://www.mariaforpasenate.com/#comp-mpvkcnek2"
+},
+{
+"text": "​",
+"href": "https://www.pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx"
+}
 ]

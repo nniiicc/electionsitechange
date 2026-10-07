@@ -1,238 +1,112 @@
-Signed in as:
-filler@godaddy.com
-DFL & LABOR ENDORSED
-Honoring Speaker Melissa Hortman
-The 2026 legislative session begins under the shadow of a heartbreaking loss.
+Home About DONATE More Home About DONATE Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Door Knock Events Signed in as: filler@godaddy.com Home About DONATE Account My Account Sign out Sign In My Account Door Knock Events Community-Led Immigrant-Strong Community-Led Immigrant-Strong Community-Led Immigrant-Strong Community-Led Immigrant-Strong DFL & LABOR ENDORSED Shelter resources Donate Community-Led Immigrant-Strong Community-Led Immigrant-Strong Community-Led Immigrant-Strong Community-Led Immigrant-Strong DFL & LABOR ENDORSED Shelter resources Donate Immigration Resources Moob/Hmoob Moob/Hmoob Moob/Hmoob Kev paab rua tuab neeg raug I.C.E. nteg Learn more Español Moob/Hmoob Moob/Hmoob Asistencia para personas detenidas por I.C.E.
+Learn more Soomaali Moob/Hmoob Soomaali Kaalmada dadka ay xidho ICE Learn more ဖၠုံကညီ ဗမာဘာသာစကား Soomaali ပှၤလ့ အI.C.E. တ့ၢ်ဝဲအဂှီု အ၀့ၤသ့ၣ်အီၤပှၤမၤစၢၤကျိၤ Learn more ພາສາລາວ ဗမာဘာသာစကား ဗမာဘာသာစကား ຊ່ວຍເຫຼືອຄົນທີ່ຖືກກັກຂັງໂດຍ I.C.E.
+Learn more ဗမာဘာသာစကား ဗမာဘာသာစကား ဗမာဘာသာစကား I.C.E မှ ဖမ်းဆီးထားသူများ အတွက် အကူအညီ Learn more Detainee Locator System LawHelpMN Guide Immigrant Legal Resources Center MN Immigrant Law Center Immigration Advocates Network St.
+Paul City Attorney MN Immigrant Rights Action Committee KAREN organization of mn Congresswoman betty mccollum us senator amy klubchar us senator tina smith What has Rep.
+Jay Xiong done for our district?
+Rep.
+Xiong Has Been Getting A Lot of S#!t Done FOR US!
+Honoring Speaker Melissa Hortman The 2026 legislative session begins under the shadow of a heartbreaking loss.
 The murder of Speaker Melissa Hortman shook our Capitol and our state.
 Melissa was a principled leader, a fierce advocate for working families, and someone who believed deeply in public service as a moral calling.
 Her leadership helped deliver historic progress for Minnesotans over the last several years, and her absence was felt every day this session.
 I carry her legacy with me in my work — by showing up prepared, centering people over politics, and refusing to walk away from hard fights when Minnesotans are counting on us.
-In 2025, I transitioned from serving as Chair of Workforce Development to Chair of the Veterans and Military Affairs Division.
+New Role: Chair of Veterans and Military Affairs In 2025, I transitioned from serving as Chair of Workforce Development to Chair of the Veterans and Military Affairs Division .
 This role is deeply personal to me as the son and grandson of veterans who served as SGU forces during the Secret War in Laos.
 As Chair, I focused on one core principle: veterans should not have to fight another war when they come home — whether that’s for housing, mental health care, food, or recognition of their service.
-We fully funded Minnesota Veterans Homes to meet federally required staffing levels — expanding available beds and unlocking tens of millions in federal VA funding.
+Key Veteran & Military Investments Housing & Homelessness We fully funded Minnesota Veterans Homes to meet federally required staffing levels — expanding available beds and unlocking tens of millions in federal VA funding.
 I also advanced policies and funding to stabilize housing for veterans facing homelessness, particularly those transitioning out of service or aging into fixed incomes.
-Mental Health & Suicide Prevention
-We invested $1.4 million per biennium to develop and implement a comprehensive Veteran Suicide Prevention Plan, and expanded culturally responsive mental health supports for BIPOC veterans and SGU veterans, recognizing the lasting impacts of war, displacement, and trauma.
-Food Security for Veterans
-I secured funding for Meals on Wheels and Lutheran Social Services to deliver food directly to veterans — ensuring no veteran goes hungry because of mobility, health, or income barriers.
-Access to Benefits
-We improved coordination between the Department of Veterans Affairs and human services systems so veterans can more easily access the full range of benefits they’ve earned.
-SGU Hmong & Lao Veterans
-I continued the fight to ensure SGU Hmong and Lao veterans receive state recognition and access to benefits, and pushed back against efforts to delay justice through “study-only” approaches.
+Mental Health & Suicide Prevention We invested $1.4 million per biennium to develop and implement a comprehensive Veteran Suicide Prevention Plan , and expanded culturally responsive mental health supports for BIPOC veterans and SGU veterans , recognizing the lasting impacts of war, displacement, and trauma.
+Food Security for Veterans I secured funding for Meals on Wheels and Lutheran Social Services to deliver food directly to veterans — ensuring no veteran goes hungry because of mobility, health, or income barriers.
+Access to Benefits We improved coordination between the Department of Veterans Affairs and human services systems so veterans can more easily access the full range of benefits they’ve earned.
+SGU Hmong & Lao Veterans I continued the fight to ensure SGU Hmong and Lao veterans receive state recognition and access to benefits, and pushed back against efforts to delay justice through “study-only” approaches.
 Our elders deserve dignity — and action — now.
-Workforce, Jobs, and Economic Stability
-Although the House was tied 67–67 this session, we protected hard-won worker protections and continued investing in workforce pathways.
-We defended Paid Family & Medical Leave, Earned Sick & Safe Time, and the ban on non-compete agreements, while preserving worker protections for warehouse workers, meatpackers, and public employees.
-We expanded job training and workforce development grants — including direct investments in trusted community organizations like CLUES, Boys & Girls Clubs, and other Eastside partners — and continued reforms to combat worker misclassification and wage theft.
-These policies matter deeply for Eastside families, immigrants, refugees, and workers of color who are often the first to
-feel economic shocks.
-Food Security & Fighting Hunger
-Food insecurity worsened this year due to federal cuts under the Trump administration, which slashed critical nutrition and food shelf funding.
-In response, we invested millions in regional food banks, food shelves, and prepared meals programs, protected funding for farm-to-school and local food purchasing initiatives, and supported food delivery programs for seniors, veterans, and families without transportation.
+Workforce, Jobs, and Economic Stability Although the House was tied 67–67 this session, we protected hard-won worker protections and continued investing in workforce pathways.
+We defended Paid Family & Medical Leave , Earned Sick & Safe Time , and the ban on non-compete agreements , while preserving worker protections for warehouse workers, meatpackers, and public employees.
+We expanded job training and workforce development grants — including direct investments in trusted community organizations like CLUES , Boys & Girls Clubs , and other Eastside partners — and continued reforms to combat worker misclassification and wage theft.
+These policies matter deeply for Eastside families, immigrants, refugees, and workers of color who are often the first to feel economic shocks.
+Food Security & Fighting Hunger Food insecurity worsened this year due to federal cuts under the Trump administration , which slashed critical nutrition and food shelf funding.
+In response, we invested millions in regional food banks , food shelves , and prepared meals programs , protected funding for farm-to-school and local food purchasing initiatives, and supported food delivery programs for seniors, veterans, and families without transportation.
 No child, elder, or veteran in Minnesota should go hungry — especially in a state with the resources to do better.
-The Eastside is rich in culture, resilience, and leadership — but it has also faced decades of systemic disinvestment that demand intentional action.
-This session, I supported expanded funding for out-of-school time programs, youth workforce development, and culturally specific services; investments in arts, culture, and legacy funding that uplift Hmong, Latino, Black, and Indigenous communities; stronger child protection systems and mental health supports for youth; and continued investments in early learning, childcare workforce supports, and family stability programs.
-These investments aren’t just programs — they are prevention, opportunity, and hope.
-Despite deep divisions, we passed a $720 million capital investment package to maintain and modernize Minnesota’s infrastructure.
+Eastside Youth, Families, and Community Well-Being The Eastside is rich in culture, resilience, and leadership — but it has also faced decades of systemic disinvestment that demand intentional action.
+This session, I supported expanded funding for out-of-school time programs , youth workforce development , and culturally specific services ; investments in arts, culture, and legacy funding that uplift Hmong, Latino, Black, and Indigenous communities; stronger child protection systems and mental health supports for youth; and continued investments in early learning, childcare workforce supports, and family stability programs.
+These investments aren’t just programs — they are prevention, opportunity, and hope .
+Housing, Infrastructure, and Public Safety Despite deep divisions, we passed a $720 million capital investment package to maintain and modernize Minnesota’s infrastructure.
 This included funding for housing rehabilitation and workforce housing; investments in roads, bridges, clean water, flood mitigation, and public facilities; and improvements to veterans homes, public safety facilities, and essential community assets.
 Safe housing and strong infrastructure are foundational to economic stability and community safety.
-With a tied House and narrow margins, much of this session was about protecting progress.
+Protecting DFL Progress in a Divided Legislature With a tied House and narrow margins, much of this session was about protecting progress.
 We blocked rollbacks of education equity, labor protections, and civil rights; preserved investments in public schools while opposing attacks on ethnic studies and inclusive education; and maintained Minnesota’s leadership on energy, climate, and environmental protection.
 Holding the line matters — because walking backward costs families years.
-This session was a reminder that progress is never guaranteed — it must be defended, renewed, and expanded.
-As your representative, I remain committed to:
-- Fighting for all veterans, including SGU, BIPOC, and underserved veterans
-- Standing up to the damage caused by Trump-era immigration policies and aggressive ICE enforcement that are tearing families apart, traumatizing children, and destabilizing neighborhoods
-- Advancing economic support and relief for small businesses, workers, and nonprofits harmed by federal actions and the fear they create
-- Expanding culturally responsive mental health services for families living in fear — especially communities already carrying the trauma of war, displacement, and state violence
-- Expanding economic opportunity through good jobs and workforce investment
-- Ensuring food, housing, and mental health supports reach those who need them most
-- Investing in Eastside youth and community-based solutions
-- Governing with courage, compassion, and accountability
-Thank you for trusting me to serve you.
-In solidarity,
-Rep.
-Jay Xiong
-Chair, Veterans and Military Affairs Division
-Minnesota House of Representatives
-It has been an incredible biennium representing the great East Side at the Minnesota Legislature in House District 67B.
+Looking Ahead This session was a reminder that progress is never guaranteed — it must be defended, renewed, and expanded.
+As your representative, I remain committed to: Fighting for all veterans , including SGU, BIPOC, and underserved veterans Standing up to the damage caused by Trump-era immigration policies and aggressive ICE enforcement that are tearing families apart, traumatizing children, and destabilizing neighborhoods Advancing economic support and relief for small businesses, workers, and nonprofits harmed by federal actions and the fear they create Expanding culturally responsive mental health services for families living in fear — especially communities already carrying the trauma of war, displacement, and state violence Expanding economic opportunity through good jobs and workforce investment Ensuring food, housing, and mental health supports reach those who need them most Investing in Eastside youth and community-based solutions Governing with courage, compassion, and accountability Thank you for trusting me to serve you.
+In solidarity, Rep.
+Jay Xiong Chair, Veterans and Military Affairs Division Minnesota House of Representatives 2024 It has been an incredible biennium representing the great East Side at the Minnesota Legislature in House District 67B.
 As your State Representative, my DFL colleagues and I have led and passed laws to support our Eastside and uplift our entire State.
-2023 – 2024 Legislative Accomplishment Highlights:
-● Grow Local Economy: As chair of the Workforce Development Committee, I co-led the MN P.R.O.M.I.S.E.
-Act providing over $25 million in grants and loans to support small businesses on the Eastside and Rondo neighborhoods so our local entrepreneurs can continue to make significant contributions to grow our local economy.
-● Jobs for Youth, People with Disability, and Seniors: I authored the Jobs budget bill funding community organizations 30K Feet, MN Zej Zog, Hmong American Farmers Association, Social Kitchen Fellowship, C.L.U.E.S, Boys & Girls Club, Big Brothers & Big Sisters, African Economic Development Solutions, American Indian Opportunities and Industrialization Center, Karen Organization of MN, Hmong American Partnership, Milestone Community Development, MDI, Twin Cities R!se, and the YWCA to address workforce readiness, employment and education skill gaps for our aging population, people with disability, working families and underserved youth.
-● Eastside Progressive Center for Education and Economic Development (PROCEED - JOANN CLARK CENTER) I championed a community center for youth after-school programs, college prep, and a health clinic on the Eastside
-● Eastside Conway Recreation Center funding I authored to repair our neighborhood center for youth and adults to play, work, and study
-● St.
-Paul Community & Cultural Celebration funding I prioritized to celebrate our rich and diverse communities
-o United Hmong Family to celebrate Hmong Freedom Festival
-o Stairstep Foundation for African American cultural festivals and events
-o Ka Joog, Somali Museum of MN for festivals and events
-o West Side Boosters for Latino cultural festivals and events
-o Taste of Minnesota to celebrate annual MN summer gathering, cultures, and Fourth of July
-● African Economic Development Center I led for new community center to support St.
-Paul entrepreneurs
-● Asian Economic Development Association I championed to support local St.
+2023 – 2024 Legislative Accomplishment Highlights: ● Grow Local Economy : As chair of the Workforce Development Committee, I co-led the MN P.R.O.M.I.S.E.
+Act providing over $25 million in grants and loans to support small businesses on the Eastside and Rondo neighborhoods so our local entrepreneurs can continue to make significant contributions to grow our local economy. ● Jobs for Youth, People with Disability, and Seniors : I authored the Jobs budget bill funding community organizations 30K Feet, MN Zej Zog, Hmong American Farmers Association, Social Kitchen Fellowship, C.L.U.E.S, Boys & Girls Club, Big Brothers & Big Sisters, African Economic Development Solutions, American Indian Opportunities and Industrialization Center, Karen Organization of MN, Hmong American Partnership, Milestone Community Development, MDI, Twin Cities R!se, and the YWCA to address workforce readiness, employment and education skill gaps for our aging population, people with disability, working families and underserved youth. ● Eastside Progressive Center for Education and Economic Development (PROCEED - JOANN CLARK CENTER) I championed a community center for youth after-school programs, college prep, and a health clinic on the Eastside ● Eastside Conway Recreation Center funding I authored to repair our neighborhood center for youth and adults to play, work, and study ● St.
+Paul Community & Cultural Celebration funding I prioritized to celebrate our rich and diverse communities o United Hmong Family to celebrate Hmong Freedom Festival o Stairstep Foundation for African American cultural festivals and events o Ka Joog, Somali Museum of MN for festivals and events o West Side Boosters for Latino cultural festivals and events o Taste of Minnesota to celebrate annual MN summer gathering, cultures, and Fourth of July ● African Economic Development Center I led for new community center to support St.
+Paul entrepreneurs ● Asian Economic Development Association I championed to support local St.
 Paul Ma and Pa businesses in St.
-Paul
-● Hmong Chamber of Commerce I led legislation to provide over $1 million to support local Hmong entrepreneurs in the Twin Cities
-● Minnesota Black Chamber of Commerce funding to support black businesses and economic development in MN
-● Paid Family & Medical Leave/Earned Sick & Safe Time
-● Legalizing Adult Use Cannabis I co-authored to decriminalize, expunge, and regulate
-● Tax Rebate I supported for low and middle-income Minnesotans
-● Free K-12 Student Meals legislation I co-authored for guaranteed a free breakfast and lunch every school day
-● Driver’s License For All I coauthored legislation to allow everyone regardless of immigration status to safeguard everyone
-● Free College Tuition: I co-authored the North Star Promise Scholarship legislation to ensure low-income students receive opportunities to attend higher education without financial barriers and greater educational access for underserved communities.
-● Education Our E-12 policy and finance bills will transform our education system investing more than $6 billion over the next four years.
-From providing free school meals to all students to linking the general education formula to inflation, my DFL colleagues and I ensured that the needs of students, teachers, staff and families will always come first.
-o Ethnic Studies Curriculum offered in public schools
-o Increasing the number of school counselors
-o Alternatives to exclusionary discipline
-o American Indian Education for all students
-o Largest investment in English Language Learners
-o Expanding Pre-K programs
-o Connections to college and career programs
-● Climate Action & Environmental Justice: As an Eastsider, I recognized we have environmental challenges in our backyard.
+Paul ● Hmong Chamber of Commerce I led legislation to provide over $1 million to support local Hmong entrepreneurs in the Twin Cities ● Minnesota Black Chamber of Commerce funding to support black businesses and economic development in MN ● Paid Family & Medical Leave/Earned Sick & Safe Time ● Legalizing Adult Use Cannabis I co-authored to decriminalize, expunge, and regulate ● Tax Rebate I supported for low and middle-income Minnesotans ● Free K-12 Student Meals legislation I co-authored for guaranteed a free breakfast and lunch every school day ● Driver’s License For All I coauthored legislation to allow everyone regardless of immigration status to safeguard everyone ● Free College Tuition : I co-authored the North Star Promise Scholarship legislation to ensure low-income students receive opportunities to attend higher education without financial barriers and greater educational access for underserved communities. ● Education Our E-12 policy and finance bills will transform our education system investing more than $6 billion over the next four years.
+From providing free school meals to all students to linking the general education formula to inflation, my DFL colleagues and I ensured that the needs of students, teachers, staff and families will always come first. o Ethnic Studies Curriculum offered in public schools o Increasing the number of school counselors o Alternatives to exclusionary discipline o American Indian Education for all students o Largest investment in English Language Learners o Expanding Pre-K programs o Connections to college and career programs ● Climate Action & Environmental Justice: As an Eastsider, I recognized we have environmental challenges in our backyard.
 That is why I spearheaded legislation to establish the Pig’s Eye Lake and Landfill Taskforce so that we can start addressing the environmental concerns created by decades of inaction in our community.
 Last year, my colleagues and I passed legislation to ensure Minnesota is 100% Carbon-Free Electricity by 2040.We also prioritized environmental justice to ensure people who are disproportionately negatively impacted by legacy energy systems will benefit from the transition to carbon-free electricity.
-Furthermore, we passed legislation that invests heavily in deploying carbon-free energy sources to build on the climate solutions we know work - like solar and hydropower.
-● Protect Reproductive Rights: My DFL colleagues and I passed the Protect Reproductive Options (PRO) Act to ensure people have a fundamental right to make decisions about their own reproductive health.
-● Health Care Equity: Last session, my colleagues and I made meaningful progress for our state in health care access, coverage, and affordability; behavioral health; and public health:
-o MinnesotaCare Eligibility for Undocumented Persons
-o Continuous MA Coverage for Children
-o Elimination of Cost-Sharing in MA
-o Expanded Health Coverage Under MA
-o Abortion Restrictions Repealed
-o De-Privatization of Public Health Care Program
-o Actuarial and Economic Analysis for a MN Public Option Health Care Plan
-o Conversion Therapy Ban
-o Gender-Affirming Health Care
-● Criminal Justice and Public Safety: From gun safety and police oversight to criminal justice reform and community crime prevention, my colleagues and I led the way to pass legislation that will protect everyone:
-o Universal Background Checks & Red Flag Gun Violence Prevention Laws
-o Carjacking Criminalization
-o Catalytic Converter Theft Criminalization
-o Restricting No-Knock Search Warrants
-o Public Defender Funding & Civil Legal Services Funding
-o Minnesota Rehabilitation and Reinvestment Act
-o Clean Slate Act
-o Community Crime & Violence Prevention Grants
-o Police Body Camera Policy & Civilian Oversight Boards
-o Banning Hate/Extremist Group Membership in Law Enforcement
-o Office of Restorative Practice
-o Youth Intervention Program Funding
-o Creation of Organized Retail Theft Crime
-o Office for Missing and Murdered Black Women and Girls
-o Minnesota Indian Family Preservation Act
-● Veterans: We tackled veterans’ homelessness and expanded the post-9/11 veterans’ service bonuses.
-● Housing $1 Billion Investment
-o Affordable Housing Aid & Grant Program to help St.
-Paul build and preserve affordable housing
-o Workforce and Affordable Homeownership Development Program
-o First Generation Down-Payment Assistance
-o Family Homelessness Prevention Assistance
-o Rental Financial Assistance
-o $200 Million to address local housing needs development for low-and middle-income people
-o Tenant Protection Rights
-● African American Preservation Act to protect and strengthen families
-● Labor Rightslegislation to support (Uber/Lyft) rideshare drivers, address wage theft and worker misclassification
-● Economic and Workforce equity pipelines for youth, LGBTQIA2S+, womxn, veterans, and BIPOC communities
-2025 Eastside Legislative Priorities
-● Infrastructure Investments to build, fix and improve Eastside roads and bridges, parks and recs, and community centers
-○ Battle Creek & Dayton’s Bluff Recreation to make fields accessible for youth sports – soccer, volleyball, flag football
-○ Ethiopian Community Center
-○ Eastside Freedom Library
-○ Cyber Side Dance Studio
-○ East 7th Street Cultural Corridor
-○ Funny Asian Womxn Kollective (FAWK) / Asian American Media Center
-○ P.R.O.C.E.E.D.
-Arts & Youth
-● Equal Rights Amendment including protections for abortion, and gender care
-● Affordable Health Care expanding MinnesotaCare buy-in option
-● Universal Basic Income to address racial and gender income disparities
-● Pension Reform to ensure our public employees can retire early without heavy penalties
-● Public Safety holistic approach to improve quality of life and prevent crimes - invest in strong community, address mental health, implement and chang policies and practices to support our community and first responders
-● Climate and Environmental Justice address PFAS, Pig’s Eye Landfill, zero emission transit bus, community tree planting funds
-● Veteran & Military fund Hometown Hero Outdoors to address mental health; rehab and expand Minnesota Veterans Home
-As chair of the Workforce Development Finance & Policy Committee, I believe in the importance of investing resources back into our community to support our youth.
+Furthermore, we passed legislation that invests heavily in deploying carbon-free energy sources to build on the climate solutions we know work - like solar and hydropower. ● Protect Reproductive Rights: My DFL colleagues and I passed the Protect Reproductive Options (PRO) Act to ensure people have a fundamental right to make decisions about their own reproductive health. ● Health Care Equity : Last session, my colleagues and I made meaningful progress for our state in health care access, coverage, and affordability; behavioral health; and public health: o MinnesotaCare Eligibility for Undocumented Persons o Continuous MA Coverage for Children o Elimination of Cost-Sharing in MA o Expanded Health Coverage Under MA o Abortion Restrictions Repealed o De-Privatization of Public Health Care Program o Actuarial and Economic Analysis for a MN Public Option Health Care Plan o Conversion Therapy Ban o Gender-Affirming Health Care ● Criminal Justice and Public Safety : From gun safety and police oversight to criminal justice reform and community crime prevention, my colleagues and I led the way to pass legislation that will protect everyone: o Universal Background Checks & Red Flag Gun Violence Prevention Laws o Carjacking Criminalization o Catalytic Converter Theft Criminalization o Restricting No-Knock Search Warrants o Public Defender Funding & Civil Legal Services Funding o Minnesota Rehabilitation and Reinvestment Act o Clean Slate Act o Community Crime & Violence Prevention Grants o Police Body Camera Policy & Civilian Oversight Boards o Banning Hate/Extremist Group Membership in Law Enforcement o Office of Restorative Practice o Youth Intervention Program Funding o Creation of Organized Retail Theft Crime o Office for Missing and Murdered Black Women and Girls o Minnesota Indian Family Preservation Act ● Veterans: We tackled veterans’ homelessness and expanded the post-9/11 veterans’ service bonuses. ● Housing $1 Billion Investment o Affordable Housing Aid & Grant Program to help St.
+Paul build and preserve affordable housing o Workforce and Affordable Homeownership Development Program o First Generation Down-Payment Assistance o Family Homelessness Prevention Assistance o Rental Financial Assistance o $200 Million to address local housing needs development for low-and middle-income people o Tenant Protection Rights ● African American Preservation Act to protect and strengthen families ● Labor Rights legislation to support (Uber/Lyft) rideshare drivers, address wage theft and worker misclassification ● Economic and Workforce equity pipelines for youth, LGBTQIA2S+, womxn, veterans, and BIPOC communities 2025 Eastside Legislative Priorities ● Infrastructure Investments to build, fix and improve Eastside roads and bridges, parks and recs, and community centers ○ Battle Creek & Dayton’s Bluff Recreation to make fields accessible for youth sports – soccer, volleyball, flag football ○ Ethiopian Community Center ○ Eastside Freedom Library ○ Cyber Side Dance Studio ○ East 7th Street Cultural Corridor ○ Funny Asian Womxn Kollective (FAWK) / Asian American Media Center ○ P.R.O.C.E.E.D.
+Arts & Youth ● Equal Rights Amendment including protections for abortion, and gender care ● Affordable Health Care expanding MinnesotaCare buy-in option ● Universal Basic Income to address racial and gender income disparities ● Pension Reform to ensure our public employees can retire early without heavy penalties ● Public Safety holistic approach to improve quality of life and prevent crimes - invest in strong community, address mental health, implement and chang policies and practices to support our community and first responders ● Climate and Environmental Justice address PFAS, Pig’s Eye Landfill, zero emission transit bus, community tree planting funds ● Veteran & Military fund Hometown Hero Outdoors to address mental health; rehab and expand Minnesota Veterans Home 2026 Proudly endorsed by 2024 Legislative Priorities Support Young People Champion Affordable Healthcare Improve Our Parks & Recs As chair of the Workforce Development Finance & Policy Committee, I believe in the importance of investing resources back into our community to support our youth.
 I am proud to champion legislation for youth mentorship programs, homework support, career readiness initiatives, college preparedness, and other pathway assistance.
-We must en
-As chair of the Workforce Development Finance & Policy Committee, I believe in the importance of investing resources back into our community to support our youth.
+We must en Show More As chair of the Workforce Development Finance & Policy Committee, I believe in the importance of investing resources back into our community to support our youth.
 I am proud to champion legislation for youth mentorship programs, homework support, career readiness initiatives, college preparedness, and other pathway assistance.
 We must ensure that our future leaders have the tools and resources they need to succeed.
-In this legislation session, I am leading the charge to improve our city and county community spaces to ensure that they are easily accessible for our youth and neighbors.
+Show Less Improve Our Parks & Recs Champion Affordable Healthcare Improve Our Parks & Recs In this legislation session, I am leading the charge to improve our city and county community spaces to ensure that they are easily accessible for our youth and neighbors.
 I am working on funds for significant improvements to the Battle Creek Park Recreation Center, Hazelwood fields, Dayton's Bluff, Conway, and Eastview fields.
 We need to make our parks more welcoming to everyone in the community.
-As one of the most prosperous nations, we must do better to ensure our healthcare is accessible, affordable, and adequate.
+Champion Affordable Healthcare Champion Affordable Healthcare Support Veterans & Military Families As one of the most prosperous nations, we must do better to ensure our healthcare is accessible, affordable, and adequate.
 I will continue to champion reproductive rights, comprehensive healthcare, mental health, disability services, lower prescription drugs, substance abuse, and more.
-This year, I have authored legislation to expand the
-As one of the most prosperous nations, we must do better to ensure our healthcare is accessible, affordable, and adequate.
+This year, I have authored legislation to expand the Show More As one of the most prosperous nations, we must do better to ensure our healthcare is accessible, affordable, and adequate.
 I will continue to champion reproductive rights, comprehensive healthcare, mental health, disability services, lower prescription drugs, substance abuse, and more.
 This year, I have authored legislation to expand the MNCare buy-in option so Minnesotans have access to affordable care.
-I am proud to be endorsed by the DFL Veterans & Families Caucus.
+Show Less Support Veterans & Military Families Support Veterans & Military Families Support Veterans & Military Families I am proud to be endorsed by the DFL Veterans & Families Caucus.
 As a member of the Capital Investment Committee and a former vice-chair of the Veterans and Military Affairs Division, I am dedicated to advocating for the well-being of our brave men, women, and their families who tirelessly serve our country.
-I strongly endorse the funding
-I am proud to be endorsed by the DFL Veterans & Families Caucus.
+I strongly endorse the funding Show More I am proud to be endorsed by the DFL Veterans & Families Caucus.
 As a member of the Capital Investment Committee and a former vice-chair of the Veterans and Military Affairs Division, I am dedicated to advocating for the well-being of our brave men, women, and their families who tirelessly serve our country.
 I strongly endorse the funding of the Hometown Hero Outdoors program to address mental health issues and am actively working towards expanding rehabilitation services and improving the Minnesota Veterans Home.
-I am proud to be endorsed by our union brothers and sisters.
+Show Less Protect Our Workers Support Veterans & Military Families Cleanup Pig's Eye Lake Landfill I am proud to be endorsed by our union brothers and sisters.
 It's time to support our middle-class families who work tirelessly to keep our state moving and thriving.
 We must enact labor protection laws that are critical to empower and protect rideshare drivers, our public employees, healthcare professionals, and trades.
-Furthermore, we m
-I am proud to be endorsed by our union brothers and sisters.
+Furthermore, we m Show More I am proud to be endorsed by our union brothers and sisters.
 It's time to support our middle-class families who work tirelessly to keep our state moving and thriving.
 We must enact labor protection laws that are critical to empower and protect rideshare drivers, our public employees, healthcare professionals, and trades.
 Furthermore, we must address wage theft in our state by holding bad actors accountable.
 And we must address worker misclassification in our state.
 Let's stand up for the rights of our hardworking individuals and make our state stronger.
-Enough is enough.
+Show Less Cleanup Pig's Eye Lake Landfill Support Veterans & Military Families Cleanup Pig's Eye Lake Landfill Enough is enough.
 I took charge last year and pushed for legislation to create a task force to confront the landfill pollution that plagues our community.
-Thanks to the tireless efforts of our neighbors, the task force - led by our state pollution agency, in partnership with thecounty, city, and federal government - is now working diligen
-Enough is enough.
+Thanks to the tireless efforts of our neighbors, the task force - led by our state pollution agency, in partnership with thecounty, city, and federal government - is now working diligen Show More Enough is enough.
 I took charge last year and pushed for legislation to create a task force to confront the landfill pollution that plagues our community.
 Thanks to the tireless efforts of our neighbors, the task force - led by our state pollution agency, in partnership with thecounty, city, and federal government - is now working diligently in stages to put an end to this problem once and for all.
 As the taskforce makes recommendations, I will be following closely and supporting legislation to tackle this issue.
-It is crucial that we take immediate action to address the challenges faced by our public employees as they approach retirement.
-From law enforcement and teachers to civil servants, we must prioritize reforming the retirement system to ensure that the dedicated men and women who serve our communities are able to retire with the dignity an
-It is crucial that we take immediate action to address the challenges faced by our public employees as they approach retirement.
+Show Less Pension Reform Workforce & Economic Development Workforce & Economic Development It is crucial that we take immediate action to address the challenges faced by our public employees as they approach retirement.
+From law enforcement and teachers to civil servants, we must prioritize reforming the retirement system to ensure that the dedicated men and women who serve our communities are able to retire with the dignity an Show More It is crucial that we take immediate action to address the challenges faced by our public employees as they approach retirement.
 From law enforcement and teachers to civil servants, we must prioritize reforming the retirement system to ensure that the dedicated men and women who serve our communities are able to retire with the dignity and financial security they deserve.
 It is imperative that we eliminate any excessive penalties that may be hindering their ability to do so.
-As the chair of the Workforce Committee, I am committed to taking bold and decisive action to address the pressing issues facing our state.
+Show Less Workforce & Economic Development Workforce & Economic Development Workforce & Economic Development As the chair of the Workforce Committee, I am committed to taking bold and decisive action to address the pressing issues facing our state.
 To tackle the current skills gap, we need to invest in career readiness programs, create pathways for more workers in the trades, healthcare profession, and manufacturing, and attract skilled workers.
-As the chair of the Workforce Committee, I am committed to taking bold and decisive action to address the pressing issues facing our state.
+Show More As the chair of the Workforce Committee, I am committed to taking bold and decisive action to address the pressing issues facing our state.
 To tackle the current skills gap, we need to invest in career readiness programs, create pathways for more workers in the trades, healthcare profession, and manufacturing, and attract skilled workers.
 We cannot afford to remain idle while the labor shortage continues to impede our progress.
 By passing legislation that supports more skilled workers and boosts business growth, we can secure a better future for our state.
-- African American Family Preservation Act to strengthen and protect families
-- Public Safety & BCA Facilities to have space for training, evidence storage, investigatory and laboratory analysis for criminal investigation
-- Equal Rights Amendment protection for abortion, gender care
-- Universal Basic Income to address income disparities
-- Climate and E
-- African American Family Preservation Act to strengthen and protect families
-- Public Safety & BCA Facilities to have space for training, evidence storage, investigatory and laboratory analysis for criminal investigation
-- Equal Rights Amendment protection for abortion, gender care
-- Universal Basic Income to address income disparities
-- Climate and Environmental Justice address PFAS, zero-emission
-- Asian American Center for Media and the Arts
-- Ethiopian Community Center
-- Eastside Freedom Library
-- PROCEED Youth Arts & Cultural
-- Cypher Side Dance Studio
-- The Social Kitchen Fellowship
-- East 7th Street Cultural Corridor
-- More Affordable Housing
-Last year, lawmakers promised our dedicated frontline workers – who kept our state moving forward, despite putting their own health on the line – a ‘thank you’ in the form of a bonus payment.
+Show Less More Priorities Workforce & Economic Development More Priorities African American Family Preservation Act to strengthen and protect families Public Safety & BCA Facilities to have space for training, evidence storage, investigatory and laboratory analysis for criminal investigation Equal Rights Amendment protection for abortion, gender care Universal Basic Income to address income disparities Climate and E Show More African American Family Preservation Act to strengthen and protect families Public Safety & BCA Facilities to have space for training, evidence storage, investigatory and laboratory analysis for criminal investigation Equal Rights Amendment protection for abortion, gender care Universal Basic Income to address income disparities Climate and Environmental Justice address PFAS, zero-emission Asian American Center for Media and the Arts Ethiopian Community Center Eastside Freedom Library PROCEED Youth Arts & Cultural Cypher Side Dance Studio The Social Kitchen Fellowship East 7th Street Cultural Corridor More Affordable Housing Show Less What have I done while in office?
+FRONTLINE WORKER PAY FRONTLINE WORKER PAY Last year, lawmakers promised our dedicated frontline workers – who kept our state moving forward, despite putting their own health on the line – a ‘thank you’ in the form of a bonus payment.
 Now, these heroes are finally getting the extra pay they deserve for their sacrifices.
 I’m glad we were able to come to a deal with the Senate to deliver what we’ve owed to our frontline workers, and I’m honored to have been a co-author on this bill.
-I’m happy to report that we were able to get state funding and attention for an environmental issue in our district- Pig’s Eye dump.
+PIG’S EYE TASK FORCE FRONTLINE WORKER PAY I’m happy to report that we were able to get state funding and attention for an environmental issue in our district- Pig’s Eye dump.
 I called all our East officials for an official legislative meeting earlier this year – city, county, and federal officials.
 We all agreed that with the community and stakeholders, it is time to take action.
 For too long, the east metro has been a dumping ground.
 We’ve had less investment and attention.
 This is no more.
 We were able to pass an $800K appropriation to work with multiple partners to begin the long and complicated process of cleaning up the site.
-A clean, cared for environment leads to happy and healthy communities
-Last year, the Public Safety & Criminal Justice Reform Committee, on which I serve, continued to emphasize the need for community-centered public safety and police accountability, as well as other critical criminal justice reforms needed to address the disproportionate harm our current system has on BIPOC Minnesotans.
+A clean, cared for environment leads to happy and healthy communities PUBLIC SAFETY FOR ALL HIGH-QUALITY EDUCATION AND CHILD CARE Last year, the Public Safety & Criminal Justice Reform Committee, on which I serve, continued to emphasize the need for community-centered public safety and police accountability, as well as other critical criminal justice reforms needed to address the disproportionate harm our current system has on BIPOC Minnesotans.
 In the midst of the very public trial of Derek Chauvin, the killing of Daunte Wright and Winston Smith, the House Public Safety budget recognized the need to build upon the work of the MN Police Accountability Bill that was signed into law July 2020.
 The bill included several policy and funding proposals that struck a healthy balance between what the community, advocates, and our law enforcement partners called for.
 The bill invested heavily in prison reform, criminal sexual conduct reform, juvenile justice reform and second chance reform, all of which ensure that we are transforming a criminal justice system that works for all Minnesotans.
@@ -247,17 +121,9 @@ As a member of the Public Safety and Criminal Justice Reform Committee, I fully 
 It’s time to get politics out of public safety and do everything we can to keep Minnesotans safe in their homes, at work, and in their communities.
 This also includes moving on popular gun violence prevention methods- banning A.R.s, closing loopholes with universal background checks, and instituting red flag laws.
 We should not have to live in fear of another mass shooting.
-Last year, Despite the difficult negotiations, the budget agreement finally reached on E-12 education represented a robust response to the impact of the pandemic.
-Our investment in E-12 Education, which was the largest in 15 years, funded:
-• 2.45% and 2% increases in the general education formula in 2022 and 2023
-• Maintaining the 4,000 expiring Voluntary Pre-Kindergarten slots for another two years
-• Historic investments in a variety of programs from the Increase Teachers of Color and American Indian Teachers Act
-• Temporary funding to reduce the Special Education and English Learner cross-subsidies or budget shortfalls
-Our St.
-Paul school district received the following funding increase from the 2021 E-12 Education bill:
-· $305 per-pupil (2.2%) in FY22 for a total of just over $10.5 million
-· $476 per pupil (3.3%) in FY23 for a total of just under $16.5 million
-The agreement directs significant funding to address Minnesota’s shortage of teachers of color and close the opportunity gap.
+HIGH-QUALITY EDUCATION AND CHILD CARE HIGH-QUALITY EDUCATION AND CHILD CARE Last year, Despite the difficult negotiations, the budget agreement finally reached on E-12 education represented a robust response to the impact of the pandemic.
+Our investment in E-12 Education, which was the largest in 15 years, funded: • 2.45% and 2% increases in the general education formula in 2022 and 2023 • Maintaining the 4,000 expiring Voluntary Pre-Kindergarten slots for another two years • Historic investments in a variety of programs from the Increase Teachers of Color and American Indian Teachers Act • Temporary funding to reduce the Special Education and English Learner cross-subsidies or budget shortfalls Our St.
+Paul school district received the following funding increase from the 2021 E-12 Education bill: · $305 per-pupil (2.2%) in FY22 for a total of just over $10.5 million · $476 per pupil (3.3%) in FY23 for a total of just under $16.5 million The agreement directs significant funding to address Minnesota’s shortage of teachers of color and close the opportunity gap.
 While students of color and Native American students make up 35% of Minnesota’s K-12 student population, only 5.6% of teachers are teachers of color or Native American.
 Governor Walz used $26 million in discretionary federal funding for efforts to support many of these provisions, including Multi- Tiered Systems of Support, Full-Service Community Schools, expanded rigorous coursework, trauma-informed/anti-bias instructional practices training, non-exclusionary discipline training (on top of the small amount of funding included in the agreement), life skills/transition programs, teacher mentorship programs, and tribal relations training for school leaders.
 The higher education portion of the budget we passed in 2021 included measures to help students recover from the pandemic and thrive in the future workforce.
@@ -273,48 +139,39 @@ We are working towards voluntary statewide pre-K to lessen the money and time cr
 We passed a bill that would guarantee options for free 2-year college.
 We supported our students of color by passing provisions for ethnic studies and support for teachers of color.
 Our students and teachers are asking for support, and House DFLers are answering that call.
-Catalytic converter theft is on the rise in our state.
+CURBING CATALYTIC CONVERTER THEFT CAPITAL INVESTMENT FOR THE EASTSIDE Catalytic converter theft is on the rise in our state.
 The provision that the House DFL passed last month, included in the Commerce omnibus bill, would prohibit the possession of a detached catalytic converter and give law enforcement the ability to address situations where individuals are found with multiple detached catalytic converters.
 This approach would have made it more tough and held thieves accountable furthermore regulate businesses profiting from the theft.
 Unfortunately, this was a provision that Senate Republicans wouldn’t agree to.
 The Senate GOP wanted less regulations for businesses -- meaning scrap metal dealers can buy any stolen catalytic converter and criminals will continue to cash in on catalytic converters.
 This is thuggery from the Senate GOP.
 Soft on crime from Senate GOP.
-As a member of the House Capital Investment Committee, I am proud to have chief-authored several bills that would bring millions of investments into our district.
+CAPITAL INVESTMENT FOR THE EASTSIDE CAPITAL INVESTMENT FOR THE EASTSIDE As a member of the House Capital Investment Committee, I am proud to have chief-authored several bills that would bring millions of investments into our district.
 Unfortunately, the MN Senate Republicans who control that chamber refused to come to an agreement with the MN House DFL and GOP.
-In the bonding bill, I requested funds for:
-- Wakan Tipi - Lower Phalen Creek: construction of an Indigenous center
-- 30K Feet - Black Arts Center: building of new arts center for Black community on Eastside
-- Funny Asian Women Kollective Arts (FAWK) Center: investments in building an arts center on Eastside addressing systemic issues through comedy and performance
-- Progressive Early Childhood Education Center (P.R.O.C.E.E.D.: provide services in the areas of employment, education, youth enrichment, health and civic/community engagement
-- Conway Rec.
-Center: funding for Sanneh Foundation support youth
-- Hillcrest: clean up the contaminated land and turn it into a development site with affordable housing, low barrier to entry living wage jobs, parks and the goal of being a carbon free community
-- Listening House: purchase and remodel a building on the East Side that would innovate Minnesota's day shelter services for those experiencing homelessness.
-As we head into a possible special session this summer, I will continue advocating for these projects
-We all deserve clean air, clean water, and plenty of places and opportunities to spend time outdoors in our great state.
+In the bonding bill, I requested funds for: Wakan Tipi - Lower Phalen Creek: construction of an Indigenous center 30K Feet - Black Arts Center: building of new arts center for Black community on Eastside Funny Asian Women Kollective Arts (FAWK) Center: investments in building an arts center on Eastside addressing systemic issues through comedy and performance Progressive Early Childhood Education Center (P.R.O.C.E.E.D.: provide services in the areas of employment, education, youth enrichment, health and civic/community engagement Conway Rec.
+Center: funding for Sanneh Foundation support youth Hillcrest: clean up the contaminated land and turn it into a development site with affordable housing, low barrier to entry living wage jobs, parks and the goal of being a carbon free community Listening House: purchase and remodel a building on the East Side that would innovate Minnesota's day shelter services for those experiencing homelessness.
+As we head into a possible special session this summer, I will continue advocating for these projects PRESERVING OUR ENVIRONMENT AFFORDABLE AND ACCESSIBLE MENTAL HEALTH AFFORDABLE AND ACCESSIBLE MENTAL HEALTH We all deserve clean air, clean water, and plenty of places and opportunities to spend time outdoors in our great state.
 In 2021, the Environmental and Natural Resources budget protects humans and wildlife from pollution, harmful chemicals, and other serious threats.
 It addresses several environmental issues, including chronic wasting disease (CWD) and invasive species like emerald ash borer (EAB), and creates more opportunities for children and teenagers to get outdoors and participate in recreational activities.
 I also served as a key negotiator during our working group meetings with the Senate for the Legacy portion of our budget, which invests in protecting and enhancing Minnesota's outdoor heritage, clean water, arts and cultural heritage, and parks and trails.
 Investing in these priorities will benefit current and future generations.
 Since 2010, the Legacy Amendment has generated more than $4 billion for initiatives that benefit people and communities, making our state an even better place to live and work.
-This year, we reached bipartisan agreement on a groundbreaking bill package that invests in the state’s mental health system.
+AFFORDABLE AND ACCESSIBLE MENTAL HEALTH AFFORDABLE AND ACCESSIBLE MENTAL HEALTH AFFORDABLE AND ACCESSIBLE MENTAL HEALTH This year, we reached bipartisan agreement on a groundbreaking bill package that invests in the state’s mental health system.
 It will increase hospital bed capacity, attract new mental health care professionals, and expand the use of mobile crisis services.
 The new law also includes $30 million to create an improved system to better serve those involved in the criminal justice system who are found not competent to stand trial.
 Mental health crises are on the rise, and now more than ever, it’s critical to invest in the care Minnesotans need access to.
-We have more to do in this area of health care, but this new law will help expand access for our children and most vulnerable neighbors, and that’s a good start
-Our dedicated first responders work hard every day, risking their own health and safety to keep us safe.
+We have more to do in this area of health care, but this new law will help expand access for our children and most vulnerable neighbors, and that’s a good start INVESTING IN OUR HOMETOWN HEROES AFFORDABLE AND ACCESSIBLE MENTAL HEALTH INVESTING IN OUR HOMETOWN HEROES Our dedicated first responders work hard every day, risking their own health and safety to keep us safe.
 I supported successful bipartisan legislation to create the Hometown Heroes Assistance Program, which provides firefighters with free access to emotional trauma resources, up to $20,000 from critical illness insurance policies, and ongoing health and wellness training, including evidence-based suicide prevention strategies.
 We made bipartisan investments I supported toward ending and preventing veteran homelessness, providing service bonuses to veterans and Gold Star families, and funding veterans homes and cemeteries.
 We also invested in enlistment incentives for service members in the Minnesota National Guard.
 I will continue to prioritize efforts to support our dedicated veterans, active military, and first responders for their service to and commitment to our country.
-Everyone deserves affordable and accessible housing.
+HOUSING FOR ALL WORKFORCE AND JOBS INVESTING IN OUR HOMETOWN HEROES Everyone deserves affordable and accessible housing.
 We worked to deliver renter protection, support for affordable housing construction, first-generation homeownership assistance, and more.
 We know that our community needs more stable housing, so we are working to lower prices and ensure that everyone has a safe and reliable home.
 Minnesota prevented an eviction crisis during the worst days of a global pandemic.
 Now, legislators have an opportunity to build on that achievement by reducing the cost of housing for renters and homeowners.
 We hope to come to an agreement on significant investment in Housing during a special session.
-Last year, as Vice Chair of the House Workforce and Business Development Committee, we passed a budget investing $425 million to help Minnesota workers and businesses get back on their feet after a difficult year and a half.
+WORKFORCE AND JOBS WORKFORCE AND JOBS WORKFORCE AND JOBS Last year, as Vice Chair of the House Workforce and Business Development Committee, we passed a budget investing $425 million to help Minnesota workers and businesses get back on their feet after a difficult year and a half.
 Much of this increase ($150 million) is dedicated to the Main Street Revitalization program, which consists of 1) grants and loans for communities with the greatest economic development needs, and 2) grants to small businesses across the state harmed by COVID-19.
 This part of the budget provides a big increase in funding to support childcare providers, and full funding for important community resources like Vocational Rehab Services (supporting workers with disabilities), and the Emerging Entrepreneur Loan Fund (supporting entrepreneurs of color).
 Important worker protections like Paid Family & Medical Leave and Earned Sick & Safe Time will likely have to wait until the DFL wins back the Senate to make it across the finish line.
@@ -331,62 +188,48 @@ The last several years, the pandemic presented unthinkable challenges for small 
 To help them bounce back, in 2021, I fought for robust investments of $70 million in grants, with funding prioritized for Minnesota’s smallest businesses, especially those owned by BIPOC, women, and veterans.
 This year, I led the Small Business Partnership Grant Program legislation, to help non-profit economic development organizations offer business technical assistance to entrepreneurs and small business owners on the Eastside and across the entire state.
 This program supports small business owners and entrepreneurs that are Black, Indigenous, People of Color, women, veterans and people with disabilities.
-This biennium, I authored legislation to fund our community organizations 30K Feet, The Sanneh Foundation (Conway rec. center), C.L.U.E.S, Boys & Girls Club, Big Brothers & Big Sisters, African Economic Development Solutions, Horn of Africa/ Milestone Community Development and the YWCA to address workforce readiness, employment and education skill gaps for our working families and underserved youth.
-Minnesota’s Unemployment Insurance Program is a lifeline for our workers.
+EASTSIDE CAREER READINESS AND YOUTH EMPLOYMENT This biennium, I authored legislation to fund our community organizations 30K Feet, The Sanneh Foundation (Conway rec. center), C.L.U.E.S, Boys & Girls Club, Big Brothers & Big Sisters, African Economic Development Solutions, Horn of Africa/ Milestone Community Development and the YWCA to address workforce readiness, employment and education skill gaps for our working families and underserved youth.
+UNEMPLOYMENT SUPPORT Minnesota’s Unemployment Insurance Program is a lifeline for our workers.
 With funding depleted during the pandemic, lawmakers replenished the program to pre-pandemic levels while keeping businesses’ unemployment insurance tax rates flat.
 As a result, Minnesotans can continue to depend on this safety net when they need to.
 We’re also working to extend UI eligibility to school workers, which will hopefully be included in a special session deal.
-In 2021, we achieved significant health care wins for Minnesotans in Health and Human Services budget:
-- Medical Assistance coverage for enhanced asthma care services and related products for children with poorly controlled asthma
-- Telehealth expansion
-- $8 million each biennium for tobacco and vaping prevention
-- Expansion of MA postpartum coverage from 60 days to 12 months for new moms and babies.
-- Increased access to medical cannabis by allowing patients to use dried raw cannabis (e.g., flower).
+HEALTH CARE ACCESS AND EQUITY HEALTH CARE ACCESS AND EQUITY In 2021, we achieved significant health care wins for Minnesotans in Health and Human Services budget: - Medical Assistance coverage for enhanced asthma care services and related products for children with poorly controlled asthma - Telehealth expansion - $8 million each biennium for tobacco and vaping prevention - Expansion of MA postpartum coverage from 60 days to 12 months for new moms and babies. - Increased access to medical cannabis by allowing patients to use dried raw cannabis (e.g., flower).
 Every year, big insurance companies charge more and provide less.
 The soaring costs of prescription drugs, out of pocket expenses, and deductibles are hurting Minnesotans and squeezing family budgets.
 That’s why I fought to create a public option, cap co-pays on prescription drugs like asthma inhalers, EpiPens, and insulin, and build a better health care workforce that can meet the needs of all Minnesotans.
 My colleagues and I secured investments to improve public health and reduce racial disparities in health care.
 We also fought to increase funding for personal care attendants (PCAs) who deserve a livable wage.
-I co-led legislation with my colleague, Rep.
+COVID-19 RESPONSE HEALTH CARE ACCESS AND EQUITY I co-led legislation with my colleague, Rep.
 Dr.
 Kelly Morrison, to address disparities in the vaccine rollout program which led to the creation of an equity department in the Minnesota Department of Health.
 If anything, the global pandemic has laid bare the consequences of decades of institutional racism and divestment in Indigenous and communities of color which have far more lasting and lethal outcomes cutting across class and geography.
 Our state now has improved rolling out vaccines, making it easy to get tested, and putting out science-backed public health guidance, making it possible to reopen our schools, businesses, and communities.
 Lawmakers have set aside resources to protect Minnesotans in the event cases spike this fall and winter.
 To keep Minnesotans healthy, we should continue to listen to public health experts and learn from the past two years.
-There is more work to be done next session.
+TO-DO LIST TO-DO LIST There is more work to be done next session.
 The Republican-led Senate blocked several important bills that were priorities for many of you.
 We have more work to do to build a Minnesota where everyone can thrive.
-I’ll continue fighting to:
-· Expand affordable and accessible healthcare, including mental health and disability services.
-· Put our state on a path to reach 100 percent clean energy.
-· Strengthen public safety for everyone by enacting meaningful safety and police accountability measures.
-· Pass paid family and medical leave and earned sick and safe time.
-· Ensure corporations and the 1% pay their fair share so we can invest in kids, families, and communities.
-· Legalize and safely regulate cannabis.
-· Pass Driver’s Licenses for All.
-· Protect Reproductive Rights
-Thank you for your support and I hope you know how much I appreciate you standing with me to continue to fight for what is right.
-Rep.
+I’ll continue fighting to: · Expand affordable and accessible healthcare, including mental health and disability services. · Put our state on a path to reach 100 percent clean energy. · Strengthen public safety for everyone by enacting meaningful safety and police accountability measures. · Pass paid family and medical leave and earned sick and safe time. · Ensure corporations and the 1% pay their fair share so we can invest in kids, families, and communities. · Legalize and safely regulate cannabis. · Pass Driver’s Licenses for All. · Protect Reproductive Rights Thank you for your support and I hope you know how much I appreciate you standing with me to continue to fight for what is right.
+Health Care Equity Rep.
 Jay Xiong secured investments to improve public health and reduce racial disparities in health care.
 He also fought to increase funding for personal care attendants (PCAs) who deserve a livable wage.
 He co-lead legislation tackling disparities in vaccine rollout that led to the creation of an equity department.
-Rep.
+Career Readiness and Youth Employment Rep.
 Jay Xiong led legislation to fund 30K Feet, C.L.U.E.S, Boys & Girls Club, Big Brothers & Big Sisters, African Economic Development Solutions, Horn of Africa/ Milestone Community Development, Sanneh Foundation and the YWCA to address workforce readiness, employment and education skill gaps for our Eastside.
-Eastsiders should not be exposed to pollution or harmful chemicals that may increase our risk of developing health problems and damaging to our ecosystem.
+Protecting Our Environment Eastsiders should not be exposed to pollution or harmful chemicals that may increase our risk of developing health problems and damaging to our ecosystem.
 To protect public health and the environment, Rep.
 Jay Xiong has led conversations and introduced legislation to address the Pig’s Eye landfill.
 As lawmakers, we are not just stewards of the built environment, but we also have a sacred duty to safeguard the natural environment, among our most precious resources.
 And we need to begin with our local communities.
-Rep.
+Safer Community Rep.
 Jay Xiong and the House DFL made substantial reforms to sexual assault laws to bring justice to survivors.
 They enacted measures to reform policing and increase accountability.
 Further, they also provided funding for law enforcement to improve training.
 And they invested in community violence prevention.
 He is also proud to have co-authored legislation to establish an Office of Missing & Murdered Indigenous Relatives and Missing & Murdered African American Women Task Force.
 This year, they are taking a drastic and holistic approach to ensuring safety in our neighborhoods from programs to keep youth out of trouble to enacting policies to support and hold law enforcement accountable.
-The pandemic presented unthinkable challenges for small businesses.
+Supporting Small Businesses The pandemic presented unthinkable challenges for small businesses.
 To help them bounce back, as vice chair of the House Workforce & Business Development Committee, Rep.
 Jay Xiong fought for robust investments of $70 million in grants, with funding prioritized for Minnesota’s smallest businesses, especially those owned by BIPOC, women, and veterans.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+About DONATE Prepared & paid for by Jay for MN House Committee PO BOX 600264, St.
+Paul, MN 55106 Copyright © # Jay for MN House - All Rights Reserved.

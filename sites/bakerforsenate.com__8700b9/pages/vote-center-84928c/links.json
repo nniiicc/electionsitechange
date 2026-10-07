@@ -1,21 +1,82 @@
 [
-"http://bakerforsenate.com/?page_id=111",
-"https://bakerforsenate.com/",
-"https://bakerforsenate.com/endosements",
-"https://bakerforsenate.com/events",
-"https://bakerforsenate.com/priorities",
-"https://bakerforsenate.com/volunteer",
-"https://bakerforsenate.com/vote-center",
-"https://flickr.com/photos/204460398@N06/with/55193696774",
-"https://instagram.com/lisabakerforpasenate",
-"https://m.facebook.com/bakerforsenate",
-"https://pa.gov/agencies/vote/elections/types-of-elections",
-"https://pa.gov/agencies/vote/voter-support/mail-in-and-absentee-ballot%20",
-"https://pa.gov/services/vote/apply-for-a-mail-in-or-absentee-ballot",
-"https://pa.gov/services/vote/find-your-local-polling-place",
-"https://pa.gov/services/vote/find-your-local-polling-place%20",
-"https://pa.gov/services/vote/register-to-vote",
-"https://secure.winred.com/baker-for-senate-committee/donate",
-"https://vote.gov/register/pennsylvania",
-"https://youtube.com/@bakerforsenatecommittee2243"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/baker-for-senate-committee/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.bakerforsenate.com/endosements/"
+},
+{
+"text": "EVENTS",
+"href": "https://www.bakerforsenate.com/events/"
+},
+{
+"text": "Find Location",
+"href": "https://www.pa.gov/services/vote/find-your-local-polling-place%20"
+},
+{
+"text": "Follow",
+"href": "https://m.facebook.com/bakerforsenate"
+},
+{
+"text": "Follow",
+"href": "https://www.flickr.com/photos/204460398@N06/with/55193696774"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/lisabakerforpasenate/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@bakerforsenatecommittee2243"
+},
+{
+"text": "Learn More",
+"href": "https://www.pa.gov/agencies/vote/voter-support/mail-in-and-absentee-ballot%20"
+},
+{
+"text": "Learn about Primary Elections",
+"href": "https://www.pa.gov/agencies/vote/elections/types-of-elections"
+},
+{
+"text": "MEET LISA",
+"href": "https://www.bakerforsenate.com/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.bakerforsenate.com/priorities/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "http://www.bakerforsenate.com/?page_id=111"
+},
+{
+"text": "Polls",
+"href": "https://www.pa.gov/services/vote/find-your-local-polling-place"
+},
+{
+"text": "Register Now",
+"href": "https://vote.gov/register/pennsylvania"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.bakerforsenate.com/volunteer/"
+},
+{
+"text": "VOTE CENTER",
+"href": "https://www.bakerforsenate.com/vote-center/"
+},
+{
+"text": "info@bakerforsenate.com",
+"href": "mailto:info@bakerforsenate.com"
+},
+{
+"text": "register to vote",
+"href": "https://www.pa.gov/services/vote/register-to-vote"
+},
+{
+"text": "request a mail-in or absentee ballot",
+"href": "https://www.pa.gov/services/vote/apply-for-a-mail-in-or-absentee-ballot"
+}
 ]

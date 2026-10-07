@@ -1,10 +1,42 @@
 [
-"https://lutherforfl.com/",
-"https://lutherforfl.com/about",
-"https://lutherforfl.com/blog",
-"https://lutherforfl.com/contact",
-"https://lutherforfl.com/get-involved",
-"https://lutherforfl.com/post/prioritizing-local-community-needs-in-policies-a-path-to-stronger-neighborhoods",
-"https://lutherforfl.com/post/state-candidate-policy-insights-analyzing-state-house-candidate-policies",
-"https://secure.actblue.com/donate/lutherforflhd70"
+{
+"text": "About",
+"href": "https://www.lutherforfl.com/about"
+},
+{
+"text": "All Articles",
+"href": "https://www.lutherforfl.com/blog"
+},
+{
+"text": "Blog",
+"href": "https://www.lutherforfl.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://www.lutherforfl.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lutherforflhd70"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lutherforfl.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.lutherforfl.com"
+},
+{
+"text": "Prioritizing Local Community Needs in Policies: A Path to Stronger Neighborhoods",
+"href": "https://www.lutherforfl.com/post/prioritizing-local-community-needs-in-policies-a-path-to-stronger-neighborhoods"
+},
+{
+"text": "State Candidate Policy Insights: Analyzing State House Candidate Policies",
+"href": "https://www.lutherforfl.com/post/state-candidate-policy-insights-analyzing-state-house-candidate-policies"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lutherforfl.com/get-involved"
+}
 ]

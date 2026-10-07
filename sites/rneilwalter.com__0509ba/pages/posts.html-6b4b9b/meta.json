@@ -1,10 +1,17 @@
 {
  "description": "Personal views on issues that interest me. Mostly politics and economics.",
  "final_url": "https://www.rneilwalter.com/posts",
- "paid_for_by": null,
+ "fingerprint": "baf2fd8c76796ddaf7fc5a15814fe787571a47b7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "R. Neil Walter - R Neil Walter Blog",
  "years_mentioned": [
+  "1960",
+  "1961",
+  "1970",
+  "1981",
   "2013",
+  "2016",
   "2017",
   "2019",
   "2020",
@@ -13,6 +20,7 @@
   "2023",
   "2024",
   "2025",
-  "2026"
+  "2026",
+  "2030"
  ]
 }

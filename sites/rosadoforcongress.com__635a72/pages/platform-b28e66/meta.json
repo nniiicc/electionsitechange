@@ -1,7 +1,9 @@
 {
  "description": "Support Rosado, a dedicated DC Congressional Candidate advocating for affordable housing, no federal taxes, and enhanced public safety.",
  "final_url": "https://rosadoforcongress.com/platform",
- "paid_for_by": null,
+ "fingerprint": "a5e3251e988d9af5bece13ad0c32451fa7864690",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Platform",
  "years_mentioned": [
   "2024",

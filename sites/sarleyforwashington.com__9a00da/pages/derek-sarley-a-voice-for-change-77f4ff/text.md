@@ -1,5 +1,4 @@
-Why I’m Running
-I graduated from high school in the 1990s, at a time when the American Dream still felt real.
+Skip to content Home About Priorities News Contact Volunteer Donate December 2, 2025 Why I’m Running I graduated from high school in the 1990s, at a time when the American Dream still felt real.
 The economy was booming, democracy was ascendant, and for young people like me, the path to a good life was clear: work hard, get an education, buy a home, and start a family.
 My own family lived that story.
 My mom left a dairy farm in Ohio to become a teacher.
@@ -13,4 +12,4 @@ Economic uncertainty is fueling the division and resentment that are tearing our
 When people believe the game is rigged, they can be turned on one another, instead of against the systems that are failing them.
 Every generation inherits the responsibility to protect and renew the American Dream, to establish justice, to promote the general welfare, and to secure a better future for those who come after.
 Right now, we are not meeting that responsibility, and that is why I am running.
-For my family, and for yours.
+For my family, and for yours. service Archive September 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 Recent Posts Endorsements (Updated) Washington Must Prepare for Budget Volatility Why It Really Is (Almost) All About Costs What Modern Youth Sports Can Tell Us About America Each Generation’s Duty to the Next Home About Priorities News Contact Donate Privacy Policy News Contact Donate Get in Touch: sarleyforwashington@gmail.com Facebook Instagram Paid for by Derek Sarley for State Representative | PO Box 292 Walla Walla, WA 99362 Powered by Herding Cats 🐈‍⬛

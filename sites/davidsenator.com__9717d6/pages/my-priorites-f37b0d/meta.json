@@ -1,7 +1,11 @@
 {
  "description": "Vote for David Anderson for State Senate to prioritize infrastructure improvement, police reform, and responsible state budget management.",
  "final_url": "https://davidsenator.com/my-priorites",
- "paid_for_by": null,
+ "fingerprint": "146ff709021dae76d31f01331399de62b274e461",
+ "format": 3,
+ "paid_for_by": "",
  "title": "My Priorites",
- "years_mentioned": []
+ "years_mentioned": [
+  "2000"
+ ]
 }

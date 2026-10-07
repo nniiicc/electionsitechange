@@ -1,18 +1,66 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=100057843828700",
-"https://ncsbe.gov/index.html",
-"https://tysonfornchouse.com/",
-"https://tysonfornchouse.com/about_steve",
-"https://tysonfornchouse.com/contact",
-"https://tysonfornchouse.com/contribute",
-"https://tysonfornchouse.com/events",
-"https://tysonfornchouse.com/home",
-"https://tysonfornchouse.com/issues",
-"https://tysonfornchouse.com/make-endorsement",
-"https://tysonfornchouse.com/news",
-"https://tysonfornchouse.com/photos",
-"https://tysonfornchouse.com/view-endorsements",
-"https://tysonfornchouse.com/volunteer",
-"https://tysonfornchouse.com/vote"
+{
+"text": "About Steve",
+"href": "https://www.tysonfornchouse.com/about_steve"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.tysonfornchouse.com/contribute"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tysonfornchouse.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.tysonfornchouse.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.tysonfornchouse.com/home"
+},
+{
+"text": "Make Endorsement",
+"href": "https://www.tysonfornchouse.com/make-endorsement"
+},
+{
+"text": "News",
+"href": "https://www.tysonfornchouse.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.tysonfornchouse.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.tysonfornchouse.com/photos"
+},
+{
+"text": "Send us a Message",
+"href": "https://www.tysonfornchouse.com/contact"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.tysonfornchouse.com/volunteer"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.tysonfornchouse.com/vote"
+},
+{
+"text": "[image: Elect Steve Tyson for NC House, District 3 in 2022]",
+"href": "https://www.tysonfornchouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100057843828700"
+},
+{
+"text": "www.ncsbe.gov",
+"href": "https://www.ncsbe.gov/index.html"
+}
 ]

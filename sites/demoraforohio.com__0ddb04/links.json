@@ -1,18 +1,82 @@
 [
-"https://demoraforohio.com/",
-"https://demoraforohio.com/accomplishments",
-"https://demoraforohio.com/endorsements",
-"https://demoraforohio.com/meet-bill",
-"https://demoraforohio.com/press-release/demora-blessing-host-press-conference-on-bill-to-end-child-marriage",
-"https://demoraforohio.com/press-releases",
-"https://facebook.com/DeMoraForOhio",
-"https://instagram.com/billdemoraforohio",
-"https://secure.actblue.com/donate/friends-of-bill-demora-1",
-"https://secure.actblue.com/donate/friends-of-bill-demora-1?amount=10",
-"https://secure.actblue.com/donate/friends-of-bill-demora-1?amount=100",
-"https://secure.actblue.com/donate/friends-of-bill-demora-1?amount=25",
-"https://secure.actblue.com/donate/friends-of-bill-demora-1?amount=250",
-"https://secure.actblue.com/donate/friends-of-bill-demora-1?amount=5",
-"https://secure.actblue.com/donate/friends-of-bill-demora-1?amount=50",
-"https://x.com/billdemora"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/friends-of-bill-demora-1?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/friends-of-bill-demora-1?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/friends-of-bill-demora-1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/friends-of-bill-demora-1?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/friends-of-bill-demora-1?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/friends-of-bill-demora-1?amount=50"
+},
+{
+"text": "Accomplishments",
+"href": "https://demoraforohio.com/accomplishments/"
+},
+{
+"text": "Bill DeMora",
+"href": "https://demoraforohio.com/"
+},
+{
+"text": "Bill's Endorsements »",
+"href": "https://demoraforohio.com/endorsements"
+},
+{
+"text": "Bill's Record »",
+"href": "https://demoraforohio.com/accomplishments"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-bill-demora-1"
+},
+{
+"text": "Endorsements",
+"href": "https://demoraforohio.com/endorsements/"
+},
+{
+"text": "Meet Bill",
+"href": "https://demoraforohio.com/meet-bill/"
+},
+{
+"text": "Meet Bill »",
+"href": "https://demoraforohio.com/meet-bill"
+},
+{
+"text": "News",
+"href": "https://demoraforohio.com/press-releases/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/friends-of-bill-demora-1"
+},
+{
+"text": "Read More →",
+"href": "https://demoraforohio.com/press-release/demora-blessing-host-press-conference-on-bill-to-end-child-marriage/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DeMoraForOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/billdemoraforohio/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/billdemora"
+}
 ]

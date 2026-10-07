@@ -1,33 +1,158 @@
 [
-"https://aspentimes.com/news/roberts-donovan-health-care-bill-heads-to-governors-desk-for-signing",
-"https://cnn.com/2019/05/23/health/colorado-insulin-price-cap-trnd/index.html",
-"https://coloradonewsline.com/briefs/democrats-introduce-bills-to-lower-health-care-costs-in-colorado",
-"https://cpr.org/2023/01/11/colorado-could-limit-epipen-costs-under-new-bill",
-"https://dylanroberts.org/",
-"https://dylanroberts.org/about",
-"https://dylanroberts.org/cost-of-living",
-"https://dylanroberts.org/education",
-"https://dylanroberts.org/energy-and-climate",
-"https://dylanroberts.org/healthcare",
-"https://dylanroberts.org/issues",
-"https://dylanroberts.org/jobs-and-economy",
-"https://dylanroberts.org/latest-news",
-"https://dylanroberts.org/legislative-roundup",
-"https://dylanroberts.org/media-kit",
-"https://dylanroberts.org/murphy",
-"https://dylanroberts.org/transportation-and-infrastructure",
-"https://dylanroberts.org/vote",
-"https://facebook.com/DylanforColorado",
-"https://healthiercolorado.org/2020-legislative-scorecard",
-"https://instagram.com/dylanroberts_co",
-"https://leg.colorado.gov/bills/hb19-1077",
-"https://leg.colorado.gov/bills/hb19-1216",
-"https://leg.colorado.gov/bills/hb21-1232",
-"https://leg.colorado.gov/bills/hb23-1002",
-"https://leg.colorado.gov/bills/hb23-1226",
-"https://leg.colorado.gov/bills/sb19-004",
-"https://leg.colorado.gov/bills/sb23-298",
-"https://secure.actblue.com/donate/dylan-roberts-for-colorado-senate",
-"https://theheraldtimes.com/legislation-to-help-rural-hospitals-becomes-law/rio-blanco-county",
-"https://twitter.com/Dylan_RobertsCO"
+{
+"text": "About",
+"href": "https://dylanroberts.org/about/"
+},
+{
+"text": "About Dylan",
+"href": "https://dylanroberts.org/about"
+},
+{
+"text": "Affordable Housing & Cost of Living",
+"href": "https://dylanroberts.org/cost-of-living/"
+},
+{
+"text": "Allow access to prescription drugs in an emergency aka “Kevin’s Law”",
+"href": "https://leg.colorado.gov/bills/hb19-1077"
+},
+{
+"text": "Allow small, rural hospitals to collaborate to expand purchasing power",
+"href": "https://leg.colorado.gov/bills/sb23-298"
+},
+{
+"text": "Authorize health care Co-Ops",
+"href": "https://leg.colorado.gov/bills/sb19-004"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/dylan-roberts-for-colorado-senate"
+},
+{
+"text": "Cap the price of EpiPens",
+"href": "https://leg.colorado.gov/bills/hb23-1002"
+},
+{
+"text": "Colorado could limit EpiPen costs under new bill",
+"href": "https://www.cpr.org/2023/01/11/colorado-could-limit-epipen-costs-under-new-bill/"
+},
+{
+"text": "Colorado is first state to cap skyrocketing insulin co-pays",
+"href": "https://www.cnn.com/2019/05/23/health/colorado-insulin-price-cap-trnd/index.html"
+},
+{
+"text": "Create first-in-the-nation price cap on insulin",
+"href": "https://leg.colorado.gov/bills/hb19-1216"
+},
+{
+"text": "Create the Colorado Option – an affordable plan available in every county",
+"href": "https://leg.colorado.gov/bills/hb21-1232"
+},
+{
+"text": "Democrats introduce bills to lower healthcare costs in Colorado",
+"href": "https://coloradonewsline.com/briefs/democrats-introduce-bills-to-lower-health-care-costs-in-colorado/"
+},
+{
+"text": "Education",
+"href": "https://dylanroberts.org/education/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DylanforColorado"
+},
+{
+"text": "Healthcare",
+"href": "https://dylanroberts.org/healthcare/"
+},
+{
+"text": "Home",
+"href": "https://dylanroberts.org/"
+},
+{
+"text": "Increase transparency in hospital financial reporting",
+"href": "https://leg.colorado.gov/bills/hb23-1226"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/dylanroberts_co/"
+},
+{
+"text": "Issues",
+"href": "https://dylanroberts.org/issues/"
+},
+{
+"text": "Jobs and Economy",
+"href": "https://dylanroberts.org/jobs-and-economy/"
+},
+{
+"text": "Latest News",
+"href": "https://dylanroberts.org/latest-news/"
+},
+{
+"text": "Legislation to help rural hospitals becomes law",
+"href": "https://www.theheraldtimes.com/legislation-to-help-rural-hospitals-becomes-law/rio-blanco-county/"
+},
+{
+"text": "Legislative Roundup",
+"href": "https://dylanroberts.org/legislative-roundup/"
+},
+{
+"text": "Legislator of the Year",
+"href": "https://healthiercolorado.org/2020-legislative-scorecard/"
+},
+{
+"text": "Make Your Plan to Vote",
+"href": "https://dylanroberts.org/"
+},
+{
+"text": "Me",
+"href": "https://dylanroberts.org/about/"
+},
+{
+"text": "Media Kit",
+"href": "https://dylanroberts.org/media-kit/"
+},
+{
+"text": "Murphy",
+"href": "https://dylanroberts.org/murphy/"
+},
+{
+"text": "Next Issue: Education",
+"href": "https://dylanroberts.org/education/"
+},
+{
+"text": "On the Issues",
+"href": "https://dylanroberts.org/issues/"
+},
+{
+"text": "Roberts, Donovan Colorado Option health care bill heads to Governor’s desk for signature",
+"href": "https://www.aspentimes.com/news/roberts-donovan-health-care-bill-heads-to-governors-desk-for-signing/"
+},
+{
+"text": "Senate District 8",
+"href": "https://dylanroberts.org/vote/"
+},
+{
+"text": "Transportation and Infrastructure",
+"href": "https://dylanroberts.org/transportation-and-infrastructure/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Dylan_RobertsCO"
+},
+{
+"text": "Water, Wildfire, Agriculture, Environment",
+"href": "https://dylanroberts.org/energy-and-climate/"
+},
+{
+"text": "[image: Dylan Roberts State Senate_2022 Update_New Colors]",
+"href": "https://dylanroberts.org"
+},
+{
+"text": "[no text]",
+"href": "https://dylanroberts.org/education/"
+},
+{
+"text": "[no text]",
+"href": "tel:(970)%20846-3054"
+}
 ]

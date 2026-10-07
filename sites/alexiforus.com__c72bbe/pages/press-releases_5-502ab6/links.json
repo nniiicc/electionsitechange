@@ -1,36 +1,190 @@
 [
-"https://alexiforus.com/",
-"https://alexiforus.com/about",
-"https://alexiforus.com/alexis-priorities",
-"https://alexiforus.com/chicago-and-suburban-democratic-party-leaders-endorse-giannoulias-for-secretary-of-state",
-"https://alexiforus.com/congressman-bobby-rush-and-former-pat-dowell-supporters-unite-behind-giannoulias",
-"https://alexiforus.com/congresswoman-jan-schakowsky-endorses-democrat-giannouliasfor-secretary-of-state",
-"https://alexiforus.com/contact",
-"https://alexiforus.com/endorsements",
-"https://alexiforus.com/former-congressman-luis-gutierrez-endorses-giannoulias-for-secretary-of-state",
-"https://alexiforus.com/former-democrat-congressman-jerry-costello-endorses-giannoulias-for-sos",
-"https://alexiforus.com/giannoulias-campaign-ends-2021-strong-with-4-million-on-hand",
-"https://alexiforus.com/giannoulias-earns-illinois-federation-of-teachers-endorsement-for-secretary-of-state",
-"https://alexiforus.com/in-the-news",
-"https://alexiforus.com/license-to-read-program",
-"https://alexiforus.com/news",
-"https://alexiforus.com/news-2",
-"https://alexiforus.com/pat-dowell-endorses-giannoulias-for-secretary-of-state",
-"https://alexiforus.com/press-releases",
-"https://alexiforus.com/press-releases/2",
-"https://alexiforus.com/press-releases/3",
-"https://alexiforus.com/press-releases/4",
-"https://alexiforus.com/press-releases/6",
-"https://alexiforus.com/press-releases/7",
-"https://alexiforus.com/press-releases/8",
-"https://alexiforus.com/privacy-policy",
-"https://alexiforus.com/proviso-and-19th-ward-democrats-endorse-giannoulias-for-secretary-of-state",
-"https://alexiforus.com/terms-of-use",
-"https://alexiforus.com/videos",
-"https://alexiforus.com/volunteer",
-"https://facebook.com/AlexiGiannoulias",
-"https://go.alexiforus.com/a/donate",
-"https://instagram.com/alexiforus",
-"https://twitter.com/Giannoulias",
-"https://youtube.com/@Alexiforus"
+{
+"text": "About",
+"href": "https://alexiforus.com/about/"
+},
+{
+"text": "Alexi’s Priorities",
+"href": "https://alexiforus.com/alexis-priorities/"
+},
+{
+"text": "Chicago and Suburban Democratic Party Leaders Endorse Giannoulias for Secretary of State",
+"href": "https://alexiforus.com/chicago-and-suburban-democratic-party-leaders-endorse-giannoulias-for-secretary-of-state/"
+},
+{
+"text": "Congressman Bobby Rush and Former Pat Dowell Supporters Unite Behind Giannoulias",
+"href": "https://alexiforus.com/congressman-bobby-rush-and-former-pat-dowell-supporters-unite-behind-giannoulias/"
+},
+{
+"text": "Congresswoman Jan Schakowsky Endorses Democrat Giannouliasfor Secretary of State",
+"href": "https://alexiforus.com/congresswoman-jan-schakowsky-endorses-democrat-giannouliasfor-secretary-of-state/"
+},
+{
+"text": "Contact",
+"href": "https://alexiforus.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://go.alexiforus.com/a/donate"
+},
+{
+"text": "Contribute",
+"href": "https://go.alexiforus.com/a/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexiforus.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/AlexiGiannoulias"
+},
+{
+"text": "Former Congressman Luis Gutierrez Endorses Giannoulias for Secretary of State",
+"href": "https://alexiforus.com/former-congressman-luis-gutierrez-endorses-giannoulias-for-secretary-of-state/"
+},
+{
+"text": "Former Democrat Congressman Jerry Costello Endorses Giannoulias for SOS",
+"href": "https://alexiforus.com/former-democrat-congressman-jerry-costello-endorses-giannoulias-for-sos/"
+},
+{
+"text": "Giannoulias Campaign Ends 2021 Strong with $4+ Million on Hand",
+"href": "https://alexiforus.com/giannoulias-campaign-ends-2021-strong-with-4-million-on-hand/"
+},
+{
+"text": "Giannoulias Earns Illinois Federation of Teachers’ Endorsement for Secretary of State",
+"href": "https://alexiforus.com/giannoulias-earns-illinois-federation-of-teachers-endorsement-for-secretary-of-state/"
+},
+{
+"text": "Giannoulias Kicks off License to Read Program with Push to Increase E-Book Accessibility",
+"href": "https://alexiforus.com/license-to-read-program/"
+},
+{
+"text": "Home",
+"href": "https://alexiforus.com/"
+},
+{
+"text": "In the News",
+"href": "https://alexiforus.com/in-the-news/"
+},
+{
+"text": "In the News",
+"href": "https://www.alexiforus.com/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/alexiforus/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/chicago-and-suburban-democratic-party-leaders-endorse-giannoulias-for-secretary-of-state/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/congressman-bobby-rush-and-former-pat-dowell-supporters-unite-behind-giannoulias/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/congresswoman-jan-schakowsky-endorses-democrat-giannouliasfor-secretary-of-state/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/former-congressman-luis-gutierrez-endorses-giannoulias-for-secretary-of-state/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/former-democrat-congressman-jerry-costello-endorses-giannoulias-for-sos/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/giannoulias-campaign-ends-2021-strong-with-4-million-on-hand/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/giannoulias-earns-illinois-federation-of-teachers-endorsement-for-secretary-of-state/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/license-to-read-program/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/pat-dowell-endorses-giannoulias-for-secretary-of-state/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/proviso-and-19th-ward-democrats-endorse-giannoulias-for-secretary-of-state/"
+},
+{
+"text": "News",
+"href": "https://alexiforus.com/news-2/"
+},
+{
+"text": "News",
+"href": "https://alexiforus.com/news/"
+},
+{
+"text": "Page1",
+"href": "https://alexiforus.com/press-releases/"
+},
+{
+"text": "Page2",
+"href": "https://alexiforus.com/press-releases/2/"
+},
+{
+"text": "Page3",
+"href": "https://alexiforus.com/press-releases/3/"
+},
+{
+"text": "Page4",
+"href": "https://alexiforus.com/press-releases/4/"
+},
+{
+"text": "Page6",
+"href": "https://alexiforus.com/press-releases/6/"
+},
+{
+"text": "Page7",
+"href": "https://alexiforus.com/press-releases/7/"
+},
+{
+"text": "Page8",
+"href": "https://alexiforus.com/press-releases/8/"
+},
+{
+"text": "Pat Dowell Endorses Giannoulias for Secretary of State",
+"href": "https://alexiforus.com/pat-dowell-endorses-giannoulias-for-secretary-of-state/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://alexiforus.com/privacy-policy/"
+},
+{
+"text": "Proviso and 19th Ward Democrats Endorse Giannoulias for Secretary of State",
+"href": "https://alexiforus.com/proviso-and-19th-ward-democrats-endorse-giannoulias-for-secretary-of-state/"
+},
+{
+"text": "Terms of Use",
+"href": "https://alexiforus.com/terms-of-use/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Giannoulias"
+},
+{
+"text": "Videos",
+"href": "https://www.alexiforus.com/videos/"
+},
+{
+"text": "Volunteer",
+"href": "https://alexiforus.com/volunteer/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@Alexiforus"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com"
+}
 ]

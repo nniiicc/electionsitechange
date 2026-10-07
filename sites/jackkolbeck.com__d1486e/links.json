@@ -1,8 +1,26 @@
 [
-"https://facebook.com/JackKolbeckDistrict13",
-"https://jackkolbeck.com/cart",
-"https://jackkolbeck.com/privacy-policy",
-"https://jackkolbeck.com/terms-conditions",
-"https://secure.anedot.com/friends-of-jack-kolbeck-for-state-legislature/donate",
-"https://vip.sdsos.gov/viplogin.aspx"
+{
+"text": "0",
+"href": "https://www.jackkolbeck.com/cart"
+},
+{
+"text": "Click here to find your polling location and check your voter registration.",
+"href": "https://vip.sdsos.gov/viplogin.aspx"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-jack-kolbeck-for-state-legislature/donate"
+},
+{
+"text": "FOLLOW US ON FACEBOOK",
+"href": "https://www.facebook.com/JackKolbeckDistrict13"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jackkolbeck.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.jackkolbeck.com/terms-conditions"
+}
 ]

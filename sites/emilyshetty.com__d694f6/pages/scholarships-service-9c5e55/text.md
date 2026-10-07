@@ -1,7 +1,2 @@
-Scholarships & Service
-My legislative office is here to serve you if:
-- You need help getting the unemployment benefits you deserve
-- Are having difficulty with an issue related to the Motor Vehicle Administration such as driver’s license, ID or car registration
-- Need help with any state agency or have a pedestrian safety concern
-- Need answers or have ideas about new laws, rules or proposed legislation
-- Are interested in my legislative scholarship or interning with my office
+0 Skip to Content Meet Emily Scholarships & Service Priorities Putting Families First Improving Every School Fighting for Our Environment Reducing Traffic Protecting Our Healthcare Standing with Immigrants Join Team Shetty Join Team Shetty About D18 Contact Us Open Menu Close Menu Meet Emily Scholarships & Service Priorities Putting Families First Improving Every School Fighting for Our Environment Reducing Traffic Protecting Our Healthcare Standing with Immigrants Join Team Shetty Join Team Shetty About D18 Contact Us Open Menu Close Menu Meet Emily Scholarships & Service Folder: Priorities Back Putting Families First Improving Every School Fighting for Our Environment Reducing Traffic Protecting Our Healthcare Standing with Immigrants Folder: Join Team Shetty Back Join Team Shetty About D18 Contact Us Scholarships & Service My legislative office is here to serve you if: You need help getting the unemployment benefits you deserve Are having difficulty with an issue related to the Motor Vehicle Administration such as driver’s license, ID or car registration Need help with any state agency or have a pedestrian safety concern Need answers or have ideas about new laws, rules or proposed legislation Are interested in my legislative scholarship or interning with my office Email Delegate Shetty Friends of Emily Shetty PO Box 642 Kensington, MD 20895 By authority: Friends of Emily Shetty.
+Bob Levering, Treasurer.

@@ -1,14 +1,70 @@
 [
-"https://cowartfortexas.com/",
-"https://cowartfortexas.com/about",
-"https://cowartfortexas.com/category/texas-freedom",
-"https://cowartfortexas.com/contact",
-"https://cowartfortexas.com/donate",
-"https://cowartfortexas.com/events",
-"https://cowartfortexas.com/issues",
-"https://cowartfortexas.com/jessi-cowart-announces-candidacy-for-texas-house-of-representatives",
-"https://cowartfortexas.com/media",
-"https://facebook.com/CowartforTexas",
-"https://instagram.com/cowartfortexas",
-"https://x.com/JessiCowartTX"
+{
+"text": "About",
+"href": "https://www.cowartfortexas.com/about/"
+},
+{
+"text": "About Us",
+"href": "https://www.cowartfortexas.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.cowartfortexas.com/contact/"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://www.cowartfortexas.com/contact/"
+},
+{
+"text": "Donate Now",
+"href": "https://www.cowartfortexas.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://www.cowartfortexas.com/events/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/CowartforTexas/"
+},
+{
+"text": "Home",
+"href": "https://www.cowartfortexas.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/cowartfortexas/"
+},
+{
+"text": "Issues",
+"href": "https://www.cowartfortexas.com/issues/"
+},
+{
+"text": "Jessi Cowart Announces Candidacy for Texas House of Representatives",
+"href": "https://www.cowartfortexas.com/jessi-cowart-announces-candidacy-for-texas-house-of-representatives/"
+},
+{
+"text": "Media",
+"href": "https://www.cowartfortexas.com/media/"
+},
+{
+"text": "Read More",
+"href": "https://www.cowartfortexas.com/jessi-cowart-announces-candidacy-for-texas-house-of-representatives/"
+},
+{
+"text": "Texas Freedom",
+"href": "https://www.cowartfortexas.com/category/texas-freedom/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/JessiCowartTX"
+},
+{
+"text": "[image]",
+"href": "https://www.cowartfortexas.com"
+},
+{
+"text": "info@cowartfortexas.com",
+"href": "mailto:info@cowartfortexas.com"
+}
 ]

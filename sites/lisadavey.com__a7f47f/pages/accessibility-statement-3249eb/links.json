@@ -1,13 +1,62 @@
 [
-"https://facebook.com/groups/1892463494649130",
-"https://instagram.com/lisadavey_sc",
-"https://lisadavey.com/",
-"https://lisadavey.com/accessibility-statement",
-"https://lisadavey.com/blank-4",
-"https://lisadavey.com/donate",
-"https://lisadavey.com/meet-lisa-davey",
-"https://lisadavey.com/mission",
-"https://lisadavey.com/privacy-policy",
-"https://lisadavey.com/volunteer",
-"https://secure.actblue.com/donate/lisa-davey-1"
+{
+"text": "ABOUT",
+"href": "https://www.lisadavey.com"
+},
+{
+"text": "ACCESSIBILITY STATEMENT",
+"href": "https://www.lisadavey.com/accessibility-statement"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.lisadavey.com/blank-4"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lisa-davey-1"
+},
+{
+"text": "DONATE",
+"href": "https://www.lisadavey.com/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.lisadavey.com/volunteer"
+},
+{
+"text": "HOME",
+"href": "https://www.lisadavey.com"
+},
+{
+"text": "MAJOR LISA DAVEY FOR SC HOUSE DIST. 67",
+"href": "https://www.lisadavey.com"
+},
+{
+"text": "MEET LISA DAVEY",
+"href": "https://www.lisadavey.com/meet-lisa-davey"
+},
+{
+"text": "MISSION",
+"href": "https://www.lisadavey.com/mission"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.lisadavey.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.lisadavey.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/groups/1892463494649130"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/lisadavey_sc/"
+},
+{
+"text": "davey4all@gmail.com",
+"href": "mailto:davey4all@gmail.com?subject=Accessibility+Concern"
+}
 ]

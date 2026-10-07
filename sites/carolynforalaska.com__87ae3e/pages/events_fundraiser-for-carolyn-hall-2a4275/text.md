@@ -1,11 +1,5 @@
-Back to All Events
-Join over 90 cohosts for a special fundraiser in support of Carolyn Hall, your candidate for District 16, representing the Turnagain, Spenard, and Sand Lake neighborhoods.
+0 Skip to Content DONATE About Carolyn Voter Info Policies Endorsements Events Get Involved Open Menu Close Menu DONATE About Carolyn Voter Info Policies Endorsements Events Get Involved Open Menu Close Menu DONATE About Carolyn Voter Info Policies Endorsements Events Get Involved Back to All Events Fundraiser for Carolyn Hall Thursday, July 11, 2024 5:00 PM 7:00 PM 2100 Douglas Drive Anchorage, AK 99517 United States (map) Google Calendar ICS Join over 90 cohosts for a special fundraiser in support of Carolyn Hall, your candidate for District 16, representing the Turnagain, Spenard, and Sand Lake neighborhoods.
 This is your chance to meet Carolyn, hear her vision for our community, and show your support for a leader dedicated to public service and building strong relationships to get things done.
-Previous
-Previous
-June 26
-Exclusive Dinner with Candidate Carolyn Hall hosted by Rep.
-Jennie Armstrong
-Next
-Next
-July 16
+Previous Previous June 26 Exclusive Dinner with Candidate Carolyn Hall hosted by Rep.
+Jennie Armstrong Next Next July 16 Support the West Anchorage Democrats - Claman, Wells & Hall Connect with us. carolyn@carolynforalaska.com Paid for by Carolyn for Alaska P.O.
+Box 91771, Anchorage, Alaska 99509

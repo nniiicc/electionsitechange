@@ -1,7 +1,9 @@
 {
  "description": "See who endorses Dr. Jen for Texas, a dedicated healthcare professional committed to providing compassionate, expert medical care tailored to your needs.",
  "final_url": "https://www.drjenfortexas.com/endorsements",
- "paid_for_by": null,
+ "fingerprint": "7e018a89698362d5580afb0952e26c9af54581d2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements | Dr. Jen for Texas",
  "years_mentioned": []
 }

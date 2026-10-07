@@ -1,12 +1,50 @@
 [
-"https://colt4arkansas.org/",
-"https://colt4arkansas.org/cart",
-"https://colt4arkansas.org/events",
-"https://colt4arkansas.org/issues",
-"https://colt4arkansas.org/platform",
-"https://colt4arkansas.org/press",
-"https://colt4arkansas.org/voter-qa",
-"https://facebook.com/profile.php?id=61588556375753",
-"https://goodchange.app/donate/colt-cb",
-"https://instagram.com/colt4arkansas"
+{
+"text": "0",
+"href": "https://www.colt4arkansas.org/cart"
+},
+{
+"text": "Book Colt",
+"href": "https://www.colt4arkansas.org/events#booking"
+},
+{
+"text": "Donate",
+"href": "https://goodchange.app/donate/colt-cb"
+},
+{
+"text": "Home",
+"href": "https://www.colt4arkansas.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.colt4arkansas.org/issues"
+},
+{
+"text": "Platform",
+"href": "https://www.colt4arkansas.org/platform"
+},
+{
+"text": "Press",
+"href": "https://www.colt4arkansas.org/press"
+},
+{
+"text": "Voter Q&A",
+"href": "https://www.colt4arkansas.org/voter-qa"
+},
+{
+"text": "[image: Colt Shelby for Governor]",
+"href": "https://www.colt4arkansas.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588556375753"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/colt4arkansas/"
+},
+{
+"text": "colt@colt4arkansas.org",
+"href": "mailto:colt@colt4arkansas.org"
+}
 ]

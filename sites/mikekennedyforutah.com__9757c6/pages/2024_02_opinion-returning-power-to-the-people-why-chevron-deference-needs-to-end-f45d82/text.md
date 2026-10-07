@@ -1,6 +1,5 @@
-By Mike Kennedy, deseret.com/opinion | Posted – Feb 9, 2024 at 12:08 p.m.
-This legal principle has significantly shifted the dynamics of our nation’s lawmaking, blurring lines of accountability and diminishing the legislative role of Congress
-If we want Washington to work for us, the American people, we must start by restoring power back into the hands of those we elect and away from unelected bureaucrats.
+Skip to the content Mike Kennedy for Utah Menu Home Meet Mike Results & Priorities News Join the Team Contact Donate Close Menu Home Meet Mike Results & Priorities News Join the Team Contact Donate Categories News Opinion: Returning power to the people — why Chevron Deference needs to end Post author By Mike Kennedy for Utah Post date February 10, 2024 By Mike Kennedy, deseret.com/opinion | Posted – Feb 9, 2024 at 12:08 p.m.
+This legal principle has significantly shifted the dynamics of our nation’s lawmaking, blurring lines of accountability and diminishing the legislative role of Congress If we want Washington to work for us, the American people, we must start by restoring power back into the hands of those we elect and away from unelected bureaucrats.
 A critical aspect of this transformation hinges on addressing a doctrine known as Chevron Deference.
 Far more than a mere technicality, this legal principle has significantly shifted the dynamics of our nation’s lawmaking, blurring lines of accountability and diminishing the legislative role of Congress.
 For over 40 years, Congress has been derelict in its duties, hiding behind Chevron Deference, established in Chevron U.S.A., Inc. v.
@@ -19,7 +18,8 @@ This isn’t about the intelligence or capability of bureaucrats, but about the 
 To ensure that laws reflect the will of the people and maintain the balance of power essential to our constitutional republic, we must end Chevron Deference.
 This change is vital for restoring legislative power to elected representatives.
 Additionally, adopting single-issue legislation would compel Congress to draft laws that are precise, transparent and accountable, reflecting the true intent of our Founding Fathers.
-Single-issue bills, as advocated by James Madison in The Federalist No. 62, would ensure that each law is thoroughly debated and understood before being passed.
+Single-issue bills, as advocated by James Madison in The Federalist No.
+62 , would ensure that each law is thoroughly debated and understood before being passed.
 This approach would eliminate the complexities often buried in omnibus packages, allowing for greater transparency, less government waste, and a greater public understanding of legislation.
 It’s time to demand more from our federal legislators.
 They must step up and take responsibility for our nation’s laws, rather than deferring to agencies led by unelected bureaucrats.
@@ -30,3 +30,4 @@ That starts by removing control from the backrooms of bureaucracy and placing it
 This is not just a legal correction, but a pivotal moment in restoring the integrity of our legislative process.
 It is an opportunity to reaffirm our commitment to the limited government principles upon which our nation was founded and a way to give regular people a stronger voice in Washington.
 Mike Kennedy is a state senator in Utah representing District 21.
+Read Original Article Here ← Utah immigrants from Venezuela, Cuba, other countries push anti-communist message bill © 2026 Mike Kennedy for Utah Powered by WordPress To the top ↑ Up ↑

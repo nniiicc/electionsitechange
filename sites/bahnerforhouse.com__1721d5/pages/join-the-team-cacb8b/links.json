@@ -1,13 +1,58 @@
 [
-"http://facebook.com/kristinbahnermn",
-"http://instagram.com/kristinbahnermn",
-"https://bahnerforhouse.com/",
-"https://bahnerforhouse.com/contact-kristins-team",
-"https://bahnerforhouse.com/endorsements",
-"https://bahnerforhouse.com/join-the-team",
-"https://bahnerforhouse.com/priorities",
-"https://revisor.mn.gov/bills/status_result.php?author%5B%5D=42115&body=House&legid=15505&session=0922021",
-"https://revisor.mn.gov/bills/status_result.php?author1%5B%5D=42115&body=House&legid1=15505&session=0922021",
-"https://secure.actblue.com/donate/kristinbahner",
-"https://twitter.com/KristinBahnerMN"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kristinbahner"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bahnerforhouse.com/endorsements"
+},
+{
+"text": "For a full list of Chief Authored Bills",
+"href": "https://www.revisor.mn.gov/bills/status_result.php?author1%5B%5D=42115&body=House&legid1=15505&session=0922021"
+},
+{
+"text": "For a full list of Co-Authored Bills",
+"href": "https://www.revisor.mn.gov/bills/status_result.php?author%5B%5D=42115&body=House&legid=15505&session=0922021"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bahnerforhouse.com/contact-kristins-team"
+},
+{
+"text": "Join the Team",
+"href": "https://www.bahnerforhouse.com/join-the-team"
+},
+{
+"text": "Meet Kristin",
+"href": "https://www.bahnerforhouse.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.bahnerforhouse.com/priorities"
+},
+{
+"text": "[image: Kristin Bahner for State Representative ]",
+"href": "https://www.bahnerforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/kristinbahnermn"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/kristinbahnermn"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/KristinBahnerMN"
+},
+{
+"text": "votekristin@gmail.com",
+"href": "mailto:votekristin@gmail.com?subject=Campaign+Manager"
+},
+{
+"text": "votekristin@gmail.com",
+"href": "mailto:votekristin@gmail.com?subject=Social+Media+Manager"
+}
 ]

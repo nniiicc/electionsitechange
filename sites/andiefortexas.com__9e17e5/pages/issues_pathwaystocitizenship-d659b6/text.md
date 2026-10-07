@@ -1,5 +1,4 @@
-Pathways to Citizenship
-Immigration has never been an abstract political issue for me.
+0 Skip to Content Home Meet Andie Issues Pathways to Citizenship SpaceX in Grimes County Environmental Conservation Healthcare for All Strong Public Schools Volunteer Events Endorsements Yard Signs DONATE Open Menu Close Menu Home Meet Andie Issues Pathways to Citizenship SpaceX in Grimes County Environmental Conservation Healthcare for All Strong Public Schools Volunteer Events Endorsements Yard Signs DONATE Open Menu Close Menu Home Meet Andie Folder: Issues Back Pathways to Citizenship SpaceX in Grimes County Environmental Conservation Healthcare for All Strong Public Schools Volunteer Events Endorsements Yard Signs DONATE Pathways to Citizenship Sep 4 Written By Andie Ho Immigration has never been an abstract political issue for me.
 I’m the daughter of immigrants, and I have seen firsthand what people can build when they are given an opportunity to work, contribute, and create a life for their families.
 My parents’ story shaped how I see immigration and why I believe our policies should balance responsibility with basic humanity.Millions of undocumented immigrants are already living, working, raising families, and contributing to communities across the United States.
 Simply pretending they can all be removed is neither practical nor humane.
@@ -13,3 +12,6 @@ I support giving communities greater discretion over those relationships and pus
 I also believe students who grow up in Texas should have a meaningful, lawful path to affordable higher education regardless of their immigration story.
 Ultimately, immigration reform should recognize both responsibility and reality.
 People willing to follow the rules, contribute to their communities, and earn their place should have a clear path forward.
+Andie Ho Previous Previous Environmental Conservation Next Next Healthcare for All Andie for Texas Political advertisement paid for by Andie Ho.
+Copyright #.
+Contact andieforHD12@gmail.com

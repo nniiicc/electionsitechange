@@ -1,15 +1,22 @@
 {
  "description": "Stan Stanart was elected Harris County Clerk on November 2, 2010 and reelected in November 2014 to a second 4 year term. In 2018 due to the over $15 Million",
  "final_url": "https://hd126.stanstanart.com/about/",
- "paid_for_by": null,
+ "fingerprint": "6fa92c679f0ecd88fc4e5c4be3ee028bb71d6e62",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet Stan - Stan Stanart For State Representative",
  "years_mentioned": [
+  "1988",
+  "2000",
+  "2004",
+  "2008",
   "2010",
   "2012",
   "2014",
   "2016",
   "2018",
   "2020",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

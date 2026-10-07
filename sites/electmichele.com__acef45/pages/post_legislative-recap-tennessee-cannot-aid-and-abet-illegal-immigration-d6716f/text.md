@@ -1,5 +1,6 @@
-Legislative Recap: Tennessee Cannot Aid and Abet Illegal Immigration
-I am the daughter of a legal immigrant.
+top of page Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items.
+DONATE SUPPORT MICHELE'S FIGHT FOR CONSERVATIVE VALUES All Posts Search Legislative Recap: Tennessee Cannot Aid and Abet Illegal Immigration Team Reneau Jun 14 2 min read I am the daughter of a legal immigrant.
 My mother came to America from South Korea, married my father, and built a life in this country the right way.
 She worked hard, paid her taxes, raised her children to love America, and never asked for a single thing she had not earned.
 Her story is the story of millions of immigrants who came here legally and built this country alongside their American neighbors.
@@ -22,3 +23,5 @@ This package puts Tennesseans first and demagnetizes the Volunteer State from il
 Tennessee taxpayers deserve confidence that benefits funded by their hard-earned dollars are going only to those legally eligible to receive them.
 We have closed the loopholes, ended the sanctuary practices, and made our position absolutely clear.
 Tennessee welcomes immigrants who come here legally, but we have a process for a reason, and we owe it to those who followed that process to uphold the rule of law.
+Recent Posts See All Citizen's Voices: A Digital Collection of Community Op-Eds Legislative Recap: Investments in Rural Tennessee and Hamilton County Legislative Recap: Protecting Women - The Riley Gaines Women's Safety and Protection Act © # Paid for by Friends to Elect Michele Reneau, Treasurer Laura Davis EMAIL MICHELE Terms of Use | Privacy Policy Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items. bottom of page

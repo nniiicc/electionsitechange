@@ -1,10 +1,58 @@
 [
-"http://fec.gov/",
-"https://facebook.com/Lynch.Stephen",
-"https://secure.actblue.com/donate/stephen-lynch-2",
-"https://stephenflynch.com/",
-"https://stephenflynch.com/11-2",
-"https://stephenflynch.com/11-2/join-the-team",
-"https://stephenflynch.com/privacy-policy/www.jlbtestsite.com/privacy-policy",
-"https://twitter.com/replynch"
+{
+"text": "Contact Us",
+"href": "mailto: info@stephenflynch.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/stephen-lynch-2"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/replynch"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/Lynch.Stephen"
+},
+{
+"text": "Join the Team",
+"href": "https://www.stephenflynch.com/11-2/join-the-team"
+},
+{
+"text": "Meet Stephen",
+"href": "https://www.stephenflynch.com/11-2/#meet-stephen"
+},
+{
+"text": "News & Updates",
+"href": "https://www.stephenflynch.com/11-2/#news"
+},
+{
+"text": "Our Priorities",
+"href": "https://www.stephenflynch.com/11-2/#our-priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.stephenflynch.com/privacy-policy/www.jlbtestsite.com/privacy-policy"
+},
+{
+"text": "[image: Stephen F Lynch]",
+"href": "https://www.stephenflynch.com/"
+},
+{
+"text": "email us here",
+"href": "mailto:info@stephenflynch.com"
+},
+{
+"text": "here",
+"href": "mailto:info@stephenflynch.com"
+},
+{
+"text": "http://www.fec.gov",
+"href": "http://www.fec.gov/"
+},
+{
+"text": "www.stephenflynch.com",
+"href": "https://www.stephenflynch.com"
+}
 ]

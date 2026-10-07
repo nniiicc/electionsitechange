@@ -1,3 +1,8 @@
-Currently serving as the Chairman of the House Democratic Caucus, Representative Trey Martinez Fischer, was born just off South Flores, the fourth of five children; Trey’s mom was a nurse at Santa Rosa…
-Representative Martinez Fischer has been a leader on progressive issues in the Texas House of Representatives for the past 15 years.
+Skip to content VISIT THE TMF ACTION CENTER TO GET INVOLVED VISIT THE TMF ACTION CENTER TO GET INVOLVED Home Meet Trey Issues News Action Hub Home Meet Trey Issues News Action Hub Facebook-square X-twitter Instagram Youtube Tiktok Donate Donate DONATE DONATE GET INVOLVED Fighting for a Better Texas Email Zip Join Us GET INVOLVED Fighting for a Better Texas Email Zip Join Us Visit our Action Hub .
+ABOUT Meet Representative Martinez Fischer Currently serving as the Chairman of the House Democratic Caucus, Representative Trey Martinez Fischer, was born just off South Flores, the fourth of five children; Trey’s mom was a nurse at Santa Rosa… READ MORE READ MORE Chairman of the Texas House Democratic Caucus Recent News and Press Releases Taking on issues that matter Voter information center TEXAS FIRST Texas Priorities Representative Martinez Fischer has been a leader on progressive issues in the Texas House of Representatives for the past 15 years.
 He has a successful track record of taking the lead on important causes and fighting for the greater good of each and every Texan across the state.
+THE ISSUES THE ISSUES Donate to Support TMF for Texas $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+STAY UPDATED Subscribe To My Newsletter Email Zip Subscribe Home Meet Trey Issues Contact News Action Hub Donate Facebook-square X-twitter Instagram Youtube Tiktok Treasurer Jorge Herrera | [email protected] 104 Babcock, Suite 107 San Antonio, Texas 78201 Privacy Policy Accessibility PD.
+POL.
+ADV.
+TREY MARTINEZ FISCHER CAMPAIGN Powered by Apollo Home Meet Trey Issues News Action Hub Home Meet Trey Issues News Action Hub DONATE DONATE Facebook-square X-twitter Instagram Youtube Tiktok

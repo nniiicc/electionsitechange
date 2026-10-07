@@ -1,3 +1,6 @@
+Skip to content Matt Loesby for Idaho Campaign Platform Who Am I?
+Can I Win?
+Help the Campaign Donate Who Am I?
 I come from a place that no longer exists.
 My parents raised me in a pleasant middle class suburb south of Denver, Colorado, in the 90’s and 00’s.
 In 2010, I left home to go to college in the State Which Shall Not Be Named, and stayed there for a job in video game development until 2018.
@@ -8,10 +11,9 @@ I now split my time between volunteering for my church, developing a video game,
 Why am I running?
 We all know that Idaho’s politics are dominated by the Republican Party, to the point that most people register Republican in order to vote in their primary; even progressives do this, which is part of the reason we see progressive-leaning moderates like Brad Little in our government.
 What, then, is the point of challenging Russ Fulcher, who has only lost one election in Idaho when he challenged Butch Otter in the primary for Governor in 2014?
-For me, there are two major reasons:
-- While Fulcher is one of the less bad House Republicans regarding our Natural Rights and Liberties, he still regularly votes along with the Washington establishment to increase the debt limit, fund the many different agencies that infringe on our liberties, and spend our grandchildren’s savings before they are even born.
+For me, there are two major reasons: While Fulcher is one of the less bad House Republicans regarding our Natural Rights and Liberties, he still regularly votes along with the Washington establishment to increase the debt limit, fund the many different agencies that infringe on our liberties, and spend our grandchildren’s savings before they are even born.
 Idaho deserves better.
-- The Republicans in Idaho need a real challenge from a party that loves what Idaho is, and is unhappy with how the GOP sells us out for political gains in DC.
+The Republicans in Idaho need a real challenge from a party that loves what Idaho is, and is unhappy with how the GOP sells us out for political gains in DC.
 The Democrats are possessed by the Progressive movement, which would seek to destroy the things we love about Idaho, and is a non-starter.
 The Libertarian Party can be the vehicle for real opposition to the GOP that defends Idahoan liberty and culture.
 I don’t want this job.
@@ -26,3 +28,10 @@ I am still in the process of setting up fundraising channels for the campaign.
 In the meantime, you can visit the Donate page to see several ways you could give money to deserving causes in Idaho.
 Thank you for your interest!
 God bless you, and God bless and defend the people of Idaho.
+Matt Loesby for Idaho Stop Doing Evil.
+Re-knit the Social Fabric.
+Know What Time It Is.
+Elect Matt Loesby to the US House for Idaho.
+About the Campaign Platform Who Am I?
+Can I Win?
+Help the Campaign Recent News Libertarian Party Politics (1) Uncategorized (2) Social Media Twitter Facebook Support the Campaign Donate Volunteer

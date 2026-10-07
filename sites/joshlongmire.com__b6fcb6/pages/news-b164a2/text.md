@@ -1,3 +1,2 @@
-Republican Josh Longmire Announces Campaign for Arkansas State Representative District 30
-June 17, 2025
-Josh Longmire has announced his campaign for Arkansas House District 30, which includes portions of Craighead, Greene, and Lawrence counties.
+Home Meet Josh Issues News Volunteer Donate Donate News Republican Josh Longmire Announces Campaign for Arkansas State Representative District 30 June 17, 2025 Josh Longmire has announced his campaign for Arkansas House District 30, which includes portions of Craighead, Greene, and Lawrence counties.
+Home Meet Josh Issues News Volunteer Donate Donate Paid for by Josh Longmire for State Representative Privacy Policy | Terms & Conditions

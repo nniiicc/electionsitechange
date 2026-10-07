@@ -1,2 +1,5 @@
-We submitted more than 4,000 certified signatures to secure a spot on the ballot this November, but our fight is not over.
+Skip to content Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Contribute Get Involved Home / Get Involved Help me, help Maine We submitted more than 4,000 certified signatures to secure a spot on the ballot this November, but our fight is not over.
 If you’d like to support our efforts, please contact us.
+Contribute Phone 207-660-3801 Email johnglowaforgovernor@gmail.com Quick Contact Form Your Name Your Email Your Phone Your Address Subject Message Submit John Glowa, Sr., Independent for Governor 2026 – A campaign focused on truth, experience, and putting people before politics.
+Join us in reshaping Maine’s government to work for everyone.
+Quick Link Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Recent Posts ICE and the Federal Government Energy Yahoo News Maine Morning Star Spectrum News Contact Us Phone: 207-660-3801 Email: johnglowaforgovernor@gmail.com Copyright © # All Right Reserved

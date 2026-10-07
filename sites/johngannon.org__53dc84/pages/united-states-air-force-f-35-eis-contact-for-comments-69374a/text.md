@@ -1,4 +1,5 @@
-The United States Air Force has issued its draft Environmental Impact Study concerning the bedding of 18 F-35’s at Gowen Field at the Boise Airport.
+Home About About John Gannon Newsroom News Press Releases Issues Southwest Ada Well Issues Education Open Legislature and Voting Neighborhood Involvement Quality of Life Resources Government Page Program Blog Contact Connect on Facebook United States Air Force F-35 EIS Contact for Comments Post Date September 11, 2019 Comments 0 Comments Author John Category Uncategorized Share The United States Air Force has issued its draft Environmental Impact Study concerning the bedding of 18 F-35’s at Gowen Field at the Boise Airport.
 You can comment on the report at the following link until September 27, 2019.
-Your voice is always important.
-https://www.angf35eis.com/Comments.aspx?fbclid=IwAR0pAilKMk9ieXmwoEeP9EGv6mylRdpaOJQ7w-056_G0JSun2YF_4NJTWxg
+Your voice is always important. https://www.angf35eis.com/Comments.aspx?fbclid=IwAR0pAilKMk9ieXmwoEeP9EGv6mylRdpaOJQ7w-056_G0JSun2YF_4NJTWxg This post was written by John Leave a Reply Cancel reply Subscribe via Email Enter your email address to subscribe to John's website and receive notifications of new posts by email.
+Email Address Subscribe Paid for by Gannon for Rep Dawn King Treasurer © # Gannon State Rep.
+District 17A : John Gannon is member of the Idaho Legislature representing District 17

@@ -1,20 +1,98 @@
 [
-"http://instagram.com/mattlpost",
-"http://mattpostformd.com/endorsements",
-"http://twitter.com/mattlpost",
-"https://facebook.com/profile.php?id=100005327387392",
-"https://forms.gle/4WtAHT5sPiraL3dGA",
-"https://forms.gle/8m5Eaemmj8RWi8YX9",
-"https://forms.gle/kmft9iQGTKKL2Mj2A",
-"https://mattpostformd.com/",
-"https://mattpostformd.com/elementor-7",
-"https://mattpostformd.com/endorsements",
-"https://secure.actblue.com/donate/mattpostfordelegate",
-"https://secure.actblue.com/donate/mattpostfordelegate?amount=100",
-"https://secure.actblue.com/donate/mattpostfordelegate?amount=1000",
-"https://secure.actblue.com/donate/mattpostfordelegate?amount=26",
-"https://secure.actblue.com/donate/mattpostfordelegate?amount=260",
-"https://secure.actblue.com/donate/mattpostfordelegate?amount=500",
-"https://secure.actblue.com/donate/mattpostfordelegate_ge",
-"https://youtube.com/@MattforMaryland"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/mattpostfordelegate?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/mattpostfordelegate?amount=1000"
+},
+{
+"text": "$26",
+"href": "https://secure.actblue.com/donate/mattpostfordelegate?amount=26"
+},
+{
+"text": "$260",
+"href": "https://secure.actblue.com/donate/mattpostfordelegate?amount=260"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/mattpostfordelegate?amount=500"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mattpostfordelegate"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mattpostfordelegate_ge"
+},
+{
+"text": "Endorsements",
+"href": "http://mattpostformd.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://mattpostformd.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://mattpostformd.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100005327387392"
+},
+{
+"text": "Get Involved",
+"href": "https://mattpostformd.com/#get-involved"
+},
+{
+"text": "Get in Touch",
+"href": "mailto:MattPost@MattPostforMD.com"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/mattlpost"
+},
+{
+"text": "Meet Matt",
+"href": "https://mattpostformd.com/#meet-matt"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/mattpostfordelegate"
+},
+{
+"text": "Priorities",
+"href": "https://mattpostformd.com/#priorities"
+},
+{
+"text": "Twitter",
+"href": "http://twitter.com/mattlpost"
+},
+{
+"text": "View all endorsements",
+"href": "https://mattpostformd.com/endorsements"
+},
+{
+"text": "Volunteer for Post!",
+"href": "https://forms.gle/4WtAHT5sPiraL3dGA"
+},
+{
+"text": "Volunteer for Post!",
+"href": "https://forms.gle/8m5Eaemmj8RWi8YX9"
+},
+{
+"text": "Volunteer for Post!",
+"href": "https://forms.gle/kmft9iQGTKKL2Mj2A"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@MattforMaryland"
+},
+{
+"text": "[image]",
+"href": "https://mattpostformd.com/elementor-7/"
+}
 ]

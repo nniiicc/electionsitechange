@@ -1,13 +1,50 @@
 [
-"https://dashboard.teletownhall.us/privacy/LXBUZVQWCF34",
-"https://dashboard.teletownhall.us/registration/LXBUZVQWCF34",
-"https://facebook.com/jamiethompson28?mibextid=LQQJ4d",
-"https://friendsofjamiethompson.com/",
-"https://friendsofjamiethompson.com/about-1",
-"https://friendsofjamiethompson.com/about-5",
-"https://friendsofjamiethompson.com/s-projects-basic",
-"https://instagram.com/jamiethompsonmi28?igsh=MWxtNHhpeDQ4enphYQ%3D%3D",
-"https://secure.winred.com/friends-of-jamie-thompson/help-me-fight-back-website",
-"https://tiktok.com/@repjthompson?_t=8m1nOEvWSp5&_r=1",
-"https://twitter.com/repjthompson"
+{
+"text": "About",
+"href": "https://www.friendsofjamiethompson.com/about-5"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-jamie-thompson/help-me-fight-back-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.friendsofjamiethompson.com/about-1"
+},
+{
+"text": "Home",
+"href": "https://www.friendsofjamiethompson.com"
+},
+{
+"text": "Media",
+"href": "https://www.friendsofjamiethompson.com/s-projects-basic"
+},
+{
+"text": "Opt In",
+"href": "https://dashboard.teletownhall.us/registration/LXBUZVQWCF34"
+},
+{
+"text": "Privacy Policy",
+"href": "https://dashboard.teletownhall.us/privacy/LXBUZVQWCF34"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/jamiethompson28?mibextid=LQQJ4d"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jamiethompsonmi28?igsh=MWxtNHhpeDQ4enphYQ%3D%3D"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@repjthompson?_t=8m1nOEvWSp5&_r=1"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/repjthompson"
+},
+{
+"text": "info@friendsofjamiethompson.com",
+"href": "mailto:info@mysite.com"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Official press releases from Friends of Aaron Jones, candidate for State Representative, District 88.",
  "final_url": "https://www.jonesforohio.com/press-releases",
- "paid_for_by": "PAID FOR BY FRIENDS OF AARON JONES Use of military rank, unit, title, or photographs in uniform does not imply endorsement by the Department of the Arm",
+ "fingerprint": "bdaafe25f0440743569e9fb07e168fee9e293870",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY FRIENDS OF AARON JONES Use of military rank, unit, title, or photographs in uniform does not imply endorsement by the Department of the Army or the Department",
  "title": "Press Releases | Aaron Jones for Ohio House District 88",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

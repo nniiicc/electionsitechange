@@ -1,168 +1,26 @@
-2026 Endorsements
-Elected Officials
-State legislators
-Rep.
-Clyde Shavers of the 10th Legislative District
-Sen.
-Marko Liias of the 21st Legislative District
-Rep.
-Strom Peterson of the 21st Legislative District
-Rep.
-Lauren Davis of the 32nd Legislative District
-Sen.
-June Robinson of the 38th Legislative District
-Rep.
-Julio Cortes of the 38th Legislative District
-Rep.
-Mary Fosse of the 38th Legislative District
-Sen.
-Liz Lovelett of the 40th Legislative District
-Rep.
-Debra Lekanoff of the 40th Legislative District
-Sen.
-Sharon Shewmake of the 42nd Legislative District
-Rep.
-Alicia Rule of the 42nd Legislative District
-Rep.
-Joe Timmons of the 42nd Legislative District
-Sen.
-John Lovick of the 44th Legislative District
-Rep.
-Brandy Donaghy of the 44th Legislative District
-Rep.
-April Berg of the 44th Legislative District
-Island County
-Island County Commissioner Janet St.
-Clair
-Langley City Councilmember Chris Carlson
-Oak Harbor Councilmember, Mayor Pro Tempore Tara Hizon
-Former Oak Harbor Councilmember Joel Servatius
-Stanwood-Camano Island School Board Member Charlotte Murry
-San Juan County
-San Juan County Councilmember Jane Fuller
-San Juan County Councilmember Justin Paulsen
-San Juan County Councilmember Kari McVeigh
-Former San Juan County Councilmember Jamie Stephens
-Former San Juan County Councilmember Cindy Wolf
-Former San Juan County Councilmember Rick Hughes
-Former San Juan County Prosecutor Randy Gaylord
-Lopez Island Port Commissioner Steve Adams
-Orcas Island Port Commissioner Rick Fant
-Orcas Island Port Commissioner Mia Kartiganer
-Skagit County
-Anacortes Mayor Ryan Walters
-Anacortes Councilmember Christine Cleland-McGrath
-Anacortes Councilmember Anthony Young
-Anacortes Councilmember Carolyn Moulton
-Anacortes Port Commissioner Bonnie Bowers
-Anacortes Port Commissioner Katherine "Kathy" Pittis
-Mt.
-Vernon Mayor Peter Donovan
-Mt.
-Vernon Councilmember Mary Hudson
-Sedro-Woolley Councilmember Nora Pederson
-Sedro-Woolley Councilmember Paul Cocke
-Skagit County Commissioner Joe Burns
-Skagit County Port Commissioner Dr.
-Kevin Ware
-Skagit County Port Commissioner Melanie Mankamyer
-Former Skagit County Commissioner Ken Dahlstedt
-Snohomish County
-Everett Mayor Cassie Franklin
-Everett City Councilmember Judy Tuohy
-Everett City Council Vice President Ben Zarlingo
-Everett School Board President Traci Mitchell
-Everett School Board Vice President Jen Hirman
-Everett Port Commissioner David Simpson
-Everett Port Commissioner Tom Stiger
-Everett Port Commissioner Glen Bachman
-Former Lynnwood Mayor Nicola Smith
-Former Everett City Councilmember Jeff Moore
-Former Everett City Councilmember Paul Roberts
-Edmonds City Councilmember Vivian Olson
-Edmonds City Councilmember Chris Eck
-Edmonds City Councilmember Susan Paine
-Edmonds Port Commissioner Jay Grant
-Edmonds Port Commissioner Selena Killin
-Edmonds School Board Member Carin Chase
-Lynnwood City Councilmember David Parshall
-Lynnwood City Councilmember Bryce Owings
-Former Mukilteo City Councilmember Elisabeth Crawford
-Snohomish County Councilmember Jared Mead
-Snohomish County Treasurer Brian Sullivan
-Snohomish County Executive Dave Somers
-Former Stanwood City Councilmember Rob Johnson
-Whatcom County
-Bellingham City Councilmember Lisa Anderson
-Bellingham City Councilmember Daniel Hammill
-Bellingham City Councilmember Michael Lilliquist
-Bellingham City Councilmember Hollie Huthman
-Bellingham City Councilmember Edwin “Skip” Williams
-Bellingham Mayor Kim Lund
-Blaine Mayor Mary Lou Steward
-Everson City Councilmember Jennifer Lautenbach
-Ferndale Mayor Greg Hansen
-Ferndale City Councilmember Ryan O’Larey
-Whatcom County Councilmember Kaylee Galloway
-Whatcom County Councilmember Barry Buchanan
-Whatcom County Councilmember Elizabeth Boyle
-Whatcom County Councilmember Jessica Rienstra
-Whatcom County Executive Satpal Singh Sidhu
-Whatcom County Sheriff Donnell “Tank” Tanksley
-Labor
-Washington State Labor Council
-AFSCME Council 28, Washington Federation of State Employees (WFSE)
-Washington State Council of County and City Employees, AFSCME
-Washington State Building & Construction Trades Council
-Washington Education Association
-Snohomish & Island County Labor Council
-Association of Flight Attendants - CWA, AFL-CIO
-Inlandboatmen's Union of the Pacific, Marine Division of the I.L.W.U.
-Washington Machinists Council
-LiUna Local 292
-IUOE Local 302
-American Federation of Government Employees (AFGE)
-Amalgamated Transit Union (ATU)
-International Union of Painters and Allied Trades (IUPAT) District Council 5
-Service Employees International Union (SEIU) 775
-The Association of Professional Flight Attendants
-Ideological Organizations
-League of Conservation Voters Action Fund
-National Committee to Preserve Social Security and Medicare
-Planned Parenthood Action Fund
-Sierra Club’s Washington State Chapter
-Sierra Club's National Political Team
-Moms Demand Action Gun Sense Candidate Distinction
-Reproductive Freedom For All
-Committee to Protect Health Care
-Democrats for Diversity and Inclusion
-SEEC PAC
-Alliance for Gun Responsibility Victory Fund
-Snohomish County Indivisible
-Whidbey Indivisible
-Washington Bikes
-U.S.
-Chamber of Commerce Political Action Committee
-North Puget Sound Association of REALTORS Government Affairs Committee
-Humane World Action Fund
-Pro-Choice Washington
-Giffords PAC
-Retired Public Employees Council of Washington (RPEC)
-National Association of Social Workers (NASW-PACE: Political Action for Candidate Election)
-Party Organizations
-Skagit County Democrats
-Snohomish County Democrats
-Island County Democrats
-San Juan County Democrats
-Whatcom County Democrats
-10th Legislative District
-21st Legislative District
-32nd Legislative District
-38th Legislative District
-39th Legislative District
-40th Legislative District
-42nd Legislative District
-Washington State Stonewall Democrats
-Young Democrats of Washington (YDWA)
-Tribes
-Nooksack Tribe
+Home | Menu | Sign Up | Donate | En Español Rick Larsen for Congress - https://www.ricklarsen.org Meet Rick Updates Issues Accomplishments Endorsements Get Involved Donate En Español 2026 Endorsements Elected Officials State legislators Rep.
+Clyde Shavers of the 10th Legislative District Sen.
+Marko Liias of the 21st Legislative District Rep.
+Strom Peterson of the 21st Legislative District Rep.
+Lauren Davis of the 32nd Legislative District Sen.
+June Robinson of the 38th Legislative District Rep.
+Julio Cortes of the 38th Legislative District Rep.
+Mary Fosse of the 38th Legislative District Sen.
+Liz Lovelett of the 40th Legislative District Rep.
+Debra Lekanoff of the 40th Legislative District Sen.
+Sharon Shewmake of the 42nd Legislative District Rep.
+Alicia Rule of the 42nd Legislative District Rep.
+Joe Timmons of the 42nd Legislative District Sen.
+John Lovick of the 44th Legislative District Rep.
+Brandy Donaghy of the 44th Legislative District Rep.
+April Berg of the 44th Legislative District Island County Island County Commissioner Janet St.
+Clair Langley City Councilmember Chris Carlson Oak Harbor Councilmember, Mayor Pro Tempore Tara Hizon Former Oak Harbor Councilmember Joel Servatius Stanwood-Camano Island School Board Member Charlotte Murry San Juan County San Juan County Councilmember Jane Fuller San Juan County Councilmember Justin Paulsen San Juan County Councilmember Kari McVeigh Former San Juan County Councilmember Jamie Stephens Former San Juan County Councilmember Cindy Wolf Former San Juan County Councilmember Rick Hughes Former San Juan County Prosecutor Randy Gaylord Lopez Island Port Commissioner Steve Adams Orcas Island Port Commissioner Rick Fant Orcas Island Port Commissioner Mia Kartiganer Skagit County Anacortes Mayor Ryan Walters Anacortes Councilmember Christine Cleland-McGrath Anacortes Councilmember Anthony Young Anacortes Councilmember Carolyn Moulton Anacortes Port Commissioner Bonnie Bowers Anacortes Port Commissioner Katherine "Kathy" Pittis Mt.
+Vernon Mayor Peter Donovan Mt.
+Vernon Councilmember Mary Hudson Sedro-Woolley Councilmember Nora Pederson Sedro-Woolley Councilmember Paul Cocke Skagit County Commissioner Joe Burns Skagit County Port Commissioner Dr.
+Kevin Ware Skagit County Port Commissioner Melanie Mankamyer Former Skagit County Commissioner Ken Dahlstedt Snohomish County Everett Mayor Cassie Franklin Everett City Councilmember Judy Tuohy Everett City Council Vice President Ben Zarlingo Everett School Board President Traci Mitchell Everett School Board Vice President Jen Hirman Everett Port Commissioner David Simpson Everett Port Commissioner Tom Stiger Everett Port Commissioner Glen Bachman Former Lynnwood Mayor Nicola Smith Former Everett City Councilmember Jeff Moore Former Everett City Councilmember Paul Roberts Edmonds City Councilmember Vivian Olson Edmonds City Councilmember Chris Eck Edmonds City Councilmember Susan Paine Edmonds Port Commissioner Jay Grant Edmonds Port Commissioner Selena Killin Edmonds School Board Member Carin Chase Lynnwood City Councilmember David Parshall Lynnwood City Councilmember Bryce Owings Former Mukilteo City Councilmember Elisabeth Crawford Snohomish County Councilmember Jared Mead Snohomish County Treasurer Brian Sullivan Snohomish County Executive Dave Somers Former Stanwood City Councilmember Rob Johnson Whatcom County Bellingham City Councilmember Lisa Anderson Bellingham City Councilmember Daniel Hammill Bellingham City Councilmember Michael Lilliquist Bellingham City Councilmember Hollie Huthman Bellingham City Councilmember Edwin “Skip” Williams Bellingham Mayor Kim Lund Blaine Mayor Mary Lou Steward Everson City Councilmember Jennifer Lautenbach Ferndale Mayor Greg Hansen Ferndale City Councilmember Ryan O’Larey Whatcom County Councilmember Kaylee Galloway Whatcom County Councilmember Barry Buchanan Whatcom County Councilmember Elizabeth Boyle Whatcom County Councilmember Jessica Rienstra Whatcom County Executive Satpal Singh Sidhu Whatcom County Sheriff Donnell “Tank” Tanksley Labor Washington State Labor Council AFSCME Council 28, Washington Federation of State Employees (WFSE) Washington State Council of County and City Employees, AFSCME Washington State Building & Construction Trades Council Washington Education Association Snohomish & Island County Labor Council Association of Flight Attendants - CWA, AFL-CIO Inlandboatmen's Union of the Pacific, Marine Division of the I.L.W.U.
+Washington Machinists Council LiUna Local 292 IUOE Local 302 American Federation of Government Employees (AFGE) Amalgamated Transit Union (ATU) International Union of Painters and Allied Trades (IUPAT) District Council 5 Service Employees International Union (SEIU) 775 The Association of Professional Flight Attendants Ideological Organizations League of Conservation Voters Action Fund National Committee to Preserve Social Security and Medicare Planned Parenthood Action Fund Sierra Club’s Washington State Chapter Sierra Club's National Political Team Moms Demand Action Gun Sense Candidate Distinction Reproductive Freedom For All Committee to Protect Health Care Democrats for Diversity and Inclusion SEEC PAC Alliance for Gun Responsibility Victory Fund Snohomish County Indivisible Whidbey Indivisible Washington Bikes U.S.
+Chamber of Commerce Political Action Committee North Puget Sound Association of REALTORS Government Affairs Committee Humane World Action Fund Pro-Choice Washington Giffords PAC Retired Public Employees Council of Washington (RPEC) National Association of Social Workers (NASW-PACE: Political Action for Candidate Election) Party Organizations Skagit County Democrats Snohomish County Democrats Island County Democrats San Juan County Democrats Whatcom County Democrats 10th Legislative District 21st Legislative District 32nd Legislative District 38th Legislative District 39th Legislative District 40th Legislative District 42nd Legislative District Washington State Stonewall Democrats Young Democrats of Washington (YDWA) Tribes Nooksack Tribe Join Team Larsen Become a Volunteer Rick is working to build an economy that creates more jobs and opportunities for everyone.
+Get involved today Contribute Rick Larsen is fighting to lower costs for hard-working families.
+Join our team of grassroots supporters today!
+Click on an amount to get started and contribute to support Rick Larsen.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# OTHER Meet Rick Updates Issues Endorsements Get Involved Donate Paid for and authorized by Citizens to Elect Rick Larsen Citizens to Elect Rick Larsen PO Box 326, Everett, WA 98206 Phone: (425) 259-1866 Email Us Privacy Policy | Powered by Mandate Media .

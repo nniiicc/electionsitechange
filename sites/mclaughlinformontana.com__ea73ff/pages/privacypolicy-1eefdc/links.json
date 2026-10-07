@@ -1,14 +1,54 @@
 [
-"http://globalprivacycontrol.org/",
-"http://networkadvertising.org/mobile-choice",
-"http://optout.networkadvertising.org/",
-"https://actblue.com/legal-privacy",
-"https://adssettings.google.com/",
-"https://app.termly.io/dsar/70a5493b-f4c0-4891-99a9-04b94346d506",
-"https://globalprivacycontrol.org/",
-"https://mclaughlinformontana.com/cdn-cgi/l/email-protection",
-"https://policies.google.com/privacy",
-"https://stripe.com/privacy",
-"https://termly.io/products/privacy-policy-generator",
-"https://tools.google.com/dlpage/gaoptout"
+{
+"text": "Ads Settings",
+"href": "https://adssettings.google.com/"
+},
+{
+"text": "Global Privacy Control",
+"href": "https://globalprivacycontrol.org/"
+},
+{
+"text": "Google Privacy & Terms page",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy Generator",
+"href": "https://termly.io/products/privacy-policy-generator/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:elect@mclaughlinformontana.com"
+},
+{
+"text": "[no text]",
+"href": "https://app.termly.io/dsar/70a5493b-f4c0-4891-99a9-04b94346d506"
+},
+{
+"text": "data subject access request",
+"href": "https://app.termly.io/dsar/70a5493b-f4c0-4891-99a9-04b94346d506"
+},
+{
+"text": "globalprivacycontrol.org",
+"href": "http://globalprivacycontrol.org"
+},
+{
+"text": "http://optout.networkadvertising.org/",
+"href": "http://optout.networkadvertising.org/"
+},
+{
+"text": "http://www.networkadvertising.org/mobile-choice",
+"href": "http://www.networkadvertising.org/mobile-choice"
+},
+{
+"text": "https://stripe.com/privacy",
+"href": "https://stripe.com/privacy"
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "https://www.actblue.com/legal-privacy/",
+"href": "https://www.actblue.com/legal-privacy/"
+}
 ]

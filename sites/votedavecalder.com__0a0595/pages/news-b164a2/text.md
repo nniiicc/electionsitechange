@@ -1,16 +1,5 @@
-news & press
-Latest Campaign Developments
-Also check Dave's Facebook page for links to important news.
-PRESS RELEASE
-"The Money Looks Nothing Alike"
-Corporate PACs make up 90% of Calder Opponent Campaign Funding
-PRESS RELEASE
-Skip navigation menu
-news & press
-Latest Campaign Developments
-Also check Dave's Facebook page for links to important news.
-PRESS RELEASE
-"The Money Looks Nothing Alike"
-Corporate PACs make up 90% of Calder Opponent Campaign Funding
-PRESS RELEASE
-Calder Calls on Utah's Congressional Delegation to begin Impeachment and Removal of Donald Trump
+Skip navigation menu Home Meet Dave Events Priorities News Want to Help?
+Privacy Policy Donate Home Meet Dave Events Priorities News Want to Help?
+Privacy Policy Donate news & press Latest Campaign Developments Also check Dave's Facebook page for links to important news.
+PRESS RELEASE Candidate Corner Interview with Dave Calder Read more Oct 5 2026 PRESS RELEASE "The Money Looks Nothing Alike" Corporate PACs make up 90% of Calder Opponent Campaign Funding Read more Sep 13 2026 PRESS RELEASE Dave Calder opposes the draconian reduction of two Utah National Monument.
+Read more Jul 21 2026 PRESS RELEASE Calder Stresses need for Transparency with the Stratos Project Data Center Read more May 4 2026 PRESS RELEASE Calder Endorsed by the Utah Veterans Democratic Caucus Read more Apr 24 2026 PRESS RELEASE Utah Democratic Party Convention 24-25 April Read more Apr 24 2026 PRESS RELEASE Calder Speaks at the Davis County Convention Read more Apr 13 2026 PRESS RELEASE Calder Calls on Utah's Congressional Delegation to begin Impeachment and Removal of Donald Trump Read more Apr 13 2026 Utah State Legislature Proposed law: "That is power protecting itself" Read more Feb 4 2026 PRESS RELEASE Calder Files for Utah House District 11 Race Read more Jan 8 2026 PRESS RELEASE Keep Trump Out of Utah Redistricting Read more Jan 3 2026 PRESS RELEASE Dave Calder Announces Run for Utah's House District 11 Read more Jan 1 2026 PRESS RELEASE Calder Points to HB 503 as an Example of a Self-Serving Legislature Read more Jan 1 2026 VoteCalder@gmail.com Powered by RUN! website builder Paid For By Dave Calder for Utah You need to enable JavaScript to run this app.

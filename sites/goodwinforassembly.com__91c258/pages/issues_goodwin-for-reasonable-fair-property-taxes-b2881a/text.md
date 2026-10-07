@@ -1,5 +1,5 @@
-GOODWIN FOR REASONABLE & FAIR PROPERTY TAXES
-Russell Antonio Goodwin, Sr. is running for re-election with a strong commitment to protecting homeowners from rising property taxes and keeping families, especially seniors, in their homes.
+Home Meet Russell GOODWIN RECKLESS DRIVING PLAN Issues News Volunteer Contribute on ActBlue.com Donate Directly on Paypal.com 2026 Rep.
+Russell Goodwin Endorsements Yard Signs Contact Home ❭ Issues ❭ GOODWIN FOR REASONABLE & FAIR PROPERTY TAXES GOODWIN FOR REASONABLE & FAIR PROPERTY TAXES Russell Antonio Goodwin, Sr. is running for re-election with a strong commitment to protecting homeowners from rising property taxes and keeping families, especially seniors, in their homes.
 He understands the growing burden that high property taxes place on working families, retirees, and longtime residents across Milwaukee, Brown Deer, and Wauwatosa.
 No one should be forced out of their home because they can no longer afford to stay.
 That’s why Russell is committed to advancing responsible, balanced fiscal policies that keep property taxes fair, stable, and affordable.
@@ -7,4 +7,6 @@ He will work to protect seniors on fixed incomes by supporting measures to cap p
 Russell also recognizes that too much of the burden for funding essential services; especially public education, has been placed on homeowners.
 He will fight for smarter, more sustainable school funding solutions so that quality education is supported without overtaxing local property owners.
 With experience as a former Milwaukee County Supervisor and a proven record of working across the aisle, Russell will continue to listen to homeowners, collaborate with community leaders, and deliver real solutions that protect neighborhoods and strengthen families.
-His mission is clear: keep people in their homes, protect seniors, and build a fairer system for everyone.
+His mission is clear: keep people in their homes, protect seniors, and build a fairer system for everyone. « Previous: GOODWIN FOR PROTECTING YOUR PAYCHECK Next: GOODWIN FOR NORTHRIDGE » Home Meet Russell Issues GOODWIN RECKLESS DRIVING PLAN Volunteer Events Photos Yard Signs Contact 2026 Rep.
+Russell Goodwin Endorsements Contribute on ActBlue.com Donate Directly on Paypal.com Privacy Policy Paid for By Goodwin For Assembly, Russell Antonio Goodwin, Sr., Treasurer Powered by CampaignPartner.com - Political Campaign Websites Home Meet Russell Issues 2026 Rep.
+Russell Goodwin Endorsements Contribute on ActBlue.com Donate Directly on Paypal.com Volunteer News Yard Signs Events Contact Close Menu

@@ -1,5 +1,5 @@
-Why Punish Businesses For The State’s Budget Mismanagement?
-Today, we start the week with HB26-1221, 1222, and 1223 in the Finance Committee.
+0 Skip to Content About Anthony About Legislative Accomplishments Gallery Vision News In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Open Menu Close Menu About Anthony About Legislative Accomplishments Gallery Vision News In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Open Menu Close Menu Folder: About Anthony Back About Legislative Accomplishments Gallery Vision Folder: News Back In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Why Punish Businesses For The State’s Budget Mismanagement?
+Mar 9 Written By Jack Cutter Today, we start the week with HB26-1221 , 1222 , and 1223 in the Finance Committee.
 Combined, these bills carry a financial impact of about $1.25 billion during TABOR (Taxpayer Bill of Rights) surplus years.
 In other words, taxpayers will lose out on refunds.
 Businesses in Colorado can barely come up for air before the Legislature adds more costs and burdens.
@@ -15,4 +15,4 @@ It also reduces the percentage of net operating losses from 80% down to 70%.
 All in all, it is a significant blow, increasing the tax burden to businesses and consumers alike.
 Costs will rise, and jobs will be lost.
 These changes coupled with the high rate of regulation, extended time to get through permitting, high cost of labor, high cost of energy, and overall bureaucracy, will continue to suffocate anyone trying to make a living in Colorado.
-In 2025, the state’s trade, transportation, and utilities industry experienced the largest decline among all sectors, declining by 1,200 jobs, this trend will continue with this type of legislation.
+In 2025, the state’s trade, transportation, and utilities industry experienced the largest decline among all sectors, declining by 1,200 jobs , this trend will continue with this type of legislation. anthony hartsook Jack Cutter Previous Previous I Will Continue To Fight For Common Sense Next Next Hypocrisy VS Truth Privacy Policy “Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.” PAID FOR BY HARTSOOK 4 HOUSE; REGISTERED AGENT MARJORIE KLEIN

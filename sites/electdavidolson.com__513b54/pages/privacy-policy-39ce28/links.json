@@ -1,9 +1,34 @@
 [
-"http://aboutads.info/choices,",
-"http://adobe.com/products/flashplayer/security",
-"https://electdavidolson.com/",
-"https://electdavidolson.com/privacy-policy",
-"https://facebook.com/profile.php?id=61556667174443",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://x.com/@OlsonForRepLD26"
+{
+"text": "David@ElectDavidOlson.com",
+"href": "mailto:David@ElectDavidOlson.com"
+},
+{
+"text": "Navy Veteran. Education Champion!Navy Veteran. Education Champion!Navy Veteran. Education Champion!Navy Veteran. Education Champion!",
+"href": "https://electdavidolson.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electdavidolson.com/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61556667174443"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/@OlsonForRepLD26"
+},
+{
+"text": "http://www.aboutads.info/choices,",
+"href": "http://www.aboutads.info/choices,"
+},
+{
+"text": "http://www.adobe.com/products/flashplayer/security",
+"href": "http://www.adobe.com/products/flashplayer/security"
+}
 ]

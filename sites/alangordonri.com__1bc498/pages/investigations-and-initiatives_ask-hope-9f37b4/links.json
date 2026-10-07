@@ -1,19 +1,90 @@
 [
-"https://alangordonri.com/",
-"https://alangordonri.com/bio",
-"https://alangordonri.com/donations",
-"https://alangordonri.com/investigations-and-initiatives",
-"https://alangordonri.com/investigations-and-initiatives/algae-biofuel",
-"https://alangordonri.com/investigations-and-initiatives/ask-hope",
-"https://alangordonri.com/investigations-and-initiatives/the-tesla-files-correspondence-with-president-trump",
-"https://alangordonri.com/platform",
-"https://alangordonri.com/rental-continuity",
-"https://alangordonri.com/reproductive-justice-unit",
-"https://alangordonri.com/womens-wealth-building-initiative",
-"https://dbr.ri.gov/",
-"https://opengov.sos.ri.gov/govdirectory",
-"https://ri.gov/guide",
-"https://riag.ri.gov/forms/apra-request",
-"https://riag.ri.gov/forms/consumer-complaint",
-"https://tax.ri.gov/resources/businesses/registration"
+{
+"text": "Alan GordonFor Attorney General",
+"href": "https://alangordonri.com/"
+},
+{
+"text": "Algae Biofuel",
+"href": "https://alangordonri.com/investigations-and-initiatives/algae-biofuel/"
+},
+{
+"text": "Ask Hope",
+"href": "https://alangordonri.com/investigations-and-initiatives/ask-hope/"
+},
+{
+"text": "Business RegistrationDivision of Taxation guidance ↗",
+"href": "https://tax.ri.gov/resources/businesses/registration"
+},
+{
+"text": "Business RegulationLicensing and regulation resources ↗",
+"href": "https://dbr.ri.gov/"
+},
+{
+"text": "Consumer ComplaintAttorney General intake page ↗",
+"href": "https://riag.ri.gov/forms/consumer-complaint"
+},
+{
+"text": "Donate",
+"href": "https://alangordonri.com/donations/"
+},
+{
+"text": "Government Officials DirectoryState and local contacts ↗",
+"href": "https://opengov.sos.ri.gov/govdirectory"
+},
+{
+"text": "Home",
+"href": "https://alangordonri.com/"
+},
+{
+"text": "Initiatives",
+"href": "https://alangordonri.com/investigations-and-initiatives/"
+},
+{
+"text": "Meet Alan",
+"href": "https://alangordonri.com/bio/"
+},
+{
+"text": "Platform",
+"href": "https://alangordonri.com/platform/"
+},
+{
+"text": "Public RecordsAttorney General APRA page ↗",
+"href": "https://riag.ri.gov/forms/apra-request"
+},
+{
+"text": "RI Attorney General APRA page ↗",
+"href": "https://riag.ri.gov/forms/apra-request"
+},
+{
+"text": "Rental Continuity",
+"href": "https://alangordonri.com/rental-continuity/"
+},
+{
+"text": "Reproductive Justice",
+"href": "https://alangordonri.com/reproductive-justice-unit/"
+},
+{
+"text": "Rhode Island Agencies A–ZOfficial state agency directory ↗",
+"href": "https://www.ri.gov/guide/"
+},
+{
+"text": "See all initiatives",
+"href": "https://alangordonri.com/investigations-and-initiatives/"
+},
+{
+"text": "Send an idea for the pilot",
+"href": "https://alangordonri.com/donations/#contact"
+},
+{
+"text": "State agency directory ↗",
+"href": "https://www.ri.gov/guide/"
+},
+{
+"text": "Tesla Dome",
+"href": "https://alangordonri.com/investigations-and-initiatives/the-tesla-files-correspondence-with-president-trump/"
+},
+{
+"text": "Women’s Wealth Building",
+"href": "https://alangordonri.com/womens-wealth-building-initiative/"
+}
 ]

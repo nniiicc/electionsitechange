@@ -1,18 +1,86 @@
 [
-"https://jjr.vote/es",
-"https://jjr.vote/es/about",
-"https://jjr.vote/es/endorsements",
-"https://jjr.vote/es/media",
-"https://jjr.vote/es/priorities",
-"https://jjr.vote/priorities",
-"https://jose-javier-rodriguez-for-attorney-general.solidarity.tech/join",
-"https://secure.ngpvan.com/_54YXVQ2hki4v1uetgo6DQ2",
-"https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2",
-"https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2?am=100",
-"https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2?am=1000",
-"https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2?am=25",
-"https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2?am=250",
-"https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2?am=3000",
-"https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2?am=50",
-"https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2?am=500"
+{
+"text": "$1,000",
+"href": "https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2?am=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2?am=100"
+},
+{
+"text": "$25",
+"href": "https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2?am=25"
+},
+{
+"text": "$250",
+"href": "https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2?am=250"
+},
+{
+"text": "$3,000",
+"href": "https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2?am=3000"
+},
+{
+"text": "$50",
+"href": "https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2?am=50"
+},
+{
+"text": "$500",
+"href": "https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2?am=500"
+},
+{
+"text": "Acerca de",
+"href": "https://www.jjr.vote/es/about"
+},
+{
+"text": "DONAR",
+"href": "https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2"
+},
+{
+"text": "Donar",
+"href": "https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2"
+},
+{
+"text": "EN",
+"href": "https://www.jjr.vote/priorities"
+},
+{
+"text": "ES",
+"href": "https://www.jjr.vote/es/priorities"
+},
+{
+"text": "Inicio",
+"href": "https://www.jjr.vote/es"
+},
+{
+"text": "Involúcrate",
+"href": "https://jose-javier-rodriguez-for-attorney-general.solidarity.tech/join"
+},
+{
+"text": "Involúcrate",
+"href": "https://secure.ngpvan.com/_54YXVQ2hki4v1uetgo6DQ2"
+},
+{
+"text": "Media",
+"href": "https://www.jjr.vote/es/media"
+},
+{
+"text": "Other",
+"href": "https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2"
+},
+{
+"text": "Prioridades",
+"href": "https://www.jjr.vote/es/priorities"
+},
+{
+"text": "Respaldos",
+"href": "https://www.jjr.vote/es/endorsements"
+},
+{
+"text": "[image: Jose Javier Rodriguez for Attorney General Logo]",
+"href": "https://www.jjr.vote/es"
+},
+{
+"text": "press@jjr.vote",
+"href": "mailto:press@jjr.vote"
+}
 ]

@@ -1,6 +1,5 @@
-Lisa's Mission
-Crime Reduction
-Law Enforcement agencies should also be given state funds to increase pay to retain great officers and recruit quality officers, and help to fund the expensive and ongoing training needed to keep our community safe.
+top of page MAJOR LISA DAVEY FOR SC HOUSE DIST.
+67 GET INVOLVED DONATE Lisa's Mission Crime Reduction Law Enforcement agencies should also be given state funds to increase pay to retain great officers and recruit quality officers, and help to fund the expensive and ongoing training needed to keep our community safe.
 Focus should also be on technology to enable law enforcement agencies to quickly respond to criminal activity.
 Reducing crime is a complex problem.
 South Carolina is ranked 42nd in crime and corrections and this has not changed significantly for decades.
@@ -16,8 +15,7 @@ With over ten years with the Department of Corrections, Lisa has also seen the d
 Given tools to succeed, most were able to become productive citizens in our community.
 More effort needs again to be given to programs such as mentoring, diversion, family support, reentry services as well as access to mental health and drug treatment providers throughout a young persons life.
 Recidivism is reduced with programs like these and our young adults reentering our community are becoming productive members of our community.
-1
-Our educators and staff are working hard, but not given the proper resources to truly gain ground nationally and our children deserve better.
+1 Our educators and staff are working hard, but not given the proper resources to truly gain ground nationally and our children deserve better.
 South Carolina is currently ranked 43rd in education compared to other states.
 This ranking is also unacceptable and sadly gone on for decades.
 Our public school buildings go underfunded and deteriorate.
@@ -28,28 +26,26 @@ It is time for more focus be given to the future of our children, to prepare the
 Lisa is against private school vouchers being utilized with state funds of any kind, because private schools may hand pick students by whatever standards they choose, and these dollars in turn reduce our local public school dollars.
 Our current representative supports private school vouchers, which is not fair to public school students.
 Women's Reproductive Rights: As a survivor of child sexual assault, Major Davey is a strong supporter of a woman's right to make decisions about her own body with her medical provider.
-The current senate bill (S. 323) takes away all rights of a woman to make a decision and criminalizes the acts of her and others who assist her as well as medical professionals who assist her.
+The current senate bill (S.
+323) takes away all rights of a woman to make a decision and criminalizes the acts of her and others who assist her as well as medical professionals who assist her.
 This is an extreme push and can not be allowed to become law in South Carolina.
 No woman wants to have to make that painful and life long decision, but she should have the right to do so.
 Lisa does however not agree with that late term abortions, unless advised by her doctor, but again the state should not be involved.
-Quality Education
-2
-While Lisa has been a hunter and supports the second amendment right to bear arms, she is a supporter of common sense gun protections in light of the historic mass shootings occurring in the United States.
+Quality Education 2 While Lisa has been a hunter and supports the second amendment right to bear arms, she is a supporter of common sense gun protections in light of the historic mass shootings occurring in the United States.
 South Carolina needs common sense solutions to seek limitations on access to guns for young people and persons with mental health crisis history.
 She believes in a delay between purchase of a gun and the possession of the gun.
 She opposes the open carry law in South Carolina.
-Gun Control
-3
-South Carolinian's deserve safe roads, resilient bridges, clean water, reliable broadband, and reliable transit systems.
+Gun Control 3 South Carolinian's deserve safe roads, resilient bridges, clean water, reliable broadband, and reliable transit systems.
 We currently rank 36th in infrastructure.
 Utilizing federal funding and state funds is the smartest way to invest in our state.
 Accelerated timelines for bridge repairs and a recurring state infrastructure fund ensure a brighter future and encourage growth in our economy.
 Critical decision making needs to be made on spending tax payer money on prioritizing infrastructure improvements.
 There have been too many instances of failing roads and bridges impacting our citizens while lawmakers spent over one billion on exits for corporations.
-Improved Infrastructure
-4
-Women's Reproductive Rights
-As a survivor of child sexual assault, Major Davey is a strong supporter of a woman's right to make decisions about her own body with her medical provider.
-The current senate bill (S. 323) takes away all rights of a woman to make a decision and criminalizes the acts of her and others who assist her as well as medical professionals who assist her.
+Improved Infrastructure 4 Women's Reproductive Rights As a survivor of child sexual assault, Major Davey is a strong supporter of a woman's right to make decisions about her own body with her medical provider.
+The current senate bill (S.
+323) takes away all rights of a woman to make a decision and criminalizes the acts of her and others who assist her as well as medical professionals who assist her.
 This is an extreme push and can not be allowed to become law in South Carolina.
 No woman wants to have to make that painful and life long decision, but she should have the right to do so.
+5 HOME ABOUT MEET LISA DAVEY MISSION DONATE VOLUNTEER CONTACT US ACCESSIBILITY STATEMENT PRIVACY POLICY © # by Lisa Davey for SC House Dist.
+67 PAID FOR BY CAMPAIGN FUNDS OF LISA DAVEY HOME ABOUT MEET LISA DAVEY MISSION DONATE VOLUNTEER CONTACT US LISA DAVEY for SC HOUSE DIST.
+67 2026 bottom of page

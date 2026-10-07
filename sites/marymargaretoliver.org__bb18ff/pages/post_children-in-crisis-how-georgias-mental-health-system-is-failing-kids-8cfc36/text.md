@@ -1,7 +1,6 @@
-State Rep.
+Home About Mary Margaret Voting Info Press Newsletters Request a Yard Sign DONATE October 7, 2022 Children in Crisis: How Georgia’s mental health system is failing kids State Rep.
 Mary Margaret Oliver, D-Decatur, a co-sponsor of a mental health reform bill approved by the Georgia General Assembly this year, said it’s not disputed that Georgia is at a crisis point when it comes to providing care for children whose lives are threatened by a mental health emergency.
-By Carrie Teegardin, The Atlanta Journal-Constitution
-For parents, the words are hard to hear.
+By Carrie Teegardin , The Atlanta Journal-Constitution ‍ For parents, the words are hard to hear.
 Your child is deeply and dangerously depressed.
 Your child has a plan for suicide, involving a rope, a bridge, or a gun.
 For their own safety, your child needs to be hospitalized.
@@ -26,8 +25,7 @@ When he was admitted, his mother couldn’t go with him.
 “I was scared out of my mind,” she said.
 In the hospital, her son was afraid, too.
 “He said he would hear the screaming of the other kids,” she said.
-“He had nightmares for years.”
-Another mother was shocked when an ER doctor involuntary committed her 14-year-old daughter to a psychiatric hospital she had never even heard of.
+“He had nightmares for years.” Another mother was shocked when an ER doctor involuntary committed her 14-year-old daughter to a psychiatric hospital she had never even heard of.
 That stay led to a series of inpatient, crisis admissions for the teen that left her worse, not better.
 The family resorted to paying out of pocket and sending their daughter out of state to find help.
 A 12-year-old boy, admitted to a psychiatric hospital for suicidal thoughts, had a bruise on his face when he left after a stay of a few days.
@@ -50,8 +48,7 @@ The average child in this group was just 13 years old.
 “That is an overall failure of the mental health system,” said Dr.
 Daniel Salinas, chief community clinical integration officer for Children’s Healthcare of Atlanta.
 “There’s not one thing that we can say, this entity failed or that entity failed.
-It’s just an overall failure of the system.”
-Gainesville-based Northeast Georgia Health System, one of the few health systems in Georgia to operate a behavioral health unit that takes adolescents, faces the problem every day.
+It’s just an overall failure of the system.” Gainesville-based Northeast Georgia Health System, one of the few health systems in Georgia to operate a behavioral health unit that takes adolescents, faces the problem every day.
 The system does hundreds of mental health assessments every month of children and teens who come into its ERs, said Megan Crump, an assessment supervisor.
 But because the small behavioral health unit for adolescents is always full and it only takes children who are at least 12, Crump’s team spends hours every week trying to find inpatient care for children somewhere else.
 Finding a placement for a child under 10 is extremely challenging, she said, and if a child has autism or a developmental disability, placement is even harder.
@@ -66,17 +63,17 @@ Some are so young that they have never even been away from their parents.
 It’s made more difficult, she said, when a child is being forced to be hospitalized under a doctor’s order, known as a “1013,” because the child is in danger of harming themselves or others.
 Jewell has to make it clear that the parent can’t block the admission.
 “We have some really hard discussions about what the process is,” she said.
+State Rep.
+Mary Margaret Oliver, D-Decatur, a co-sponsor of a mental health reform bill approved by the Georgia General Assembly this year, said it’s not disputed that Georgia is at a crisis point when it comes to providing care for children whose lives are threatened by a mental health emergency.
 “I don’t think anyone is going to stand up and make an argument that Georgia’s mental health care system serves children well,” she said.
-“The question is, what is going to be our response?”
-Two decades ago, hundreds of children and teens every year went to Georgia’s state psychiatric hospitals when they needed emergency mental health care.
+“The question is, what is going to be our response?” ‍ Quality of care in question Two decades ago, hundreds of children and teens every year went to Georgia’s state psychiatric hospitals when they needed emergency mental health care.
 Hundreds of others went to general and pediatric hospitals that had psychiatric units for children.
 In those days, private, stand-alone psychiatric facilities cared for only a small share of Georgia’s children in crisis.
 But the exposure of dangerous, abusive conditions in the state facilities and a federal lawsuit prompted the state to agree in 2010 to shift most of its care from state hospitals to community-based services.
 Some general hospitals closed or sold off psychiatric wards, too, often because of the expense of operating the units.
 Hospitals in Gwinnett and Clayton counties sold their behavioral health hospitals that served kids to for-profits.
 The Children’s Hospital of Georgia in Augusta closed its inpatient psychiatric unit.
-The exceptions are hospital systems based in Carrollton, Gainesville and Columbus, which bucked the trend by continuing to place a focus on mental health services for minors.
-As a result of the shifts, today the private psychiatric hospitals in Georgia admit most children who need in-patient care.
+The exceptions are hospital systems based in Carrollton, Gainesville and Columbus, which bucked the trend by continuing to place a focus on mental health services for minors. ‍ As a result of the shifts, today the private psychiatric hospitals in Georgia admit most children who need in-patient care.
 Usually, children sent to the facilities have a clear plan for suicide, have tried suicide, or pose a threat to others.
 Since 2000, admissions to a psychiatric hospital among Georgia teenagers between 13 and 17 tripled, the AJC found in a review of state records.
 The state operates some crisis, safety-net beds for children.
@@ -101,8 +98,7 @@ One of the largest players nationally in behavioral health, UHS in 2020 agreed t
 The Justice Department said UHS failed to provide adequate staffing and training and improperly used physical and chemical restraints.
 Part of the settlement covered a UHS facility in South Georgia that gave free transportation to steer patients to its program.
 Psychiatric facilities tend to be smaller than general hospitals and most don’t allow visitors to come and go, or parents to stay with their children during treatment.
-Parents may struggle to even find out about the quality of care their children are receiving.
-Some parents told the AJC, they couldn’t get updates from the hospital staff.
+Parents may struggle to even find out about the quality of care their children are receiving. ‍ ‍ Some parents told the AJC, they couldn’t get updates from the hospital staff.
 One mother said her suicidal 16-year-old daughter was transported for miles in the middle of the night this year from a hospital ER to Ridgeview in Smyrna.
 She couldn’t even see her daughter when dropping off belongings.
 “It was like prison,” the mom said.
@@ -123,28 +119,22 @@ While children and teens can benefit from meeting others with similar challenges
 One joined a group chat called “the suicide squad”; another learned cutting, a common form of self-harm among girls.
 The facilities “are not equipped to handle juveniles in any way, shape or form,” said state Rep.
 Todd Jones, a Republican from Forsyth County, whose oldest child went through a series of hospitalizations starting as a teen.
-“It is much more of a very sterile, adult institution than it is anywhere someone 18 and under should be.”
-Trying to find quality care for a child with a mental illness is an issue that strikes home with Jones and his wife, Tracey.
+“It is much more of a very sterile, adult institution than it is anywhere someone 18 and under should be.” ‍ Last resort Trying to find quality care for a child with a mental illness is an issue that strikes home with Jones and his wife, Tracey.
 While he is a successful businessman and elected official and his wife has an undergraduate degree in psychology, they struggled to find a way to get help for their son, Justin.
 Tracey Jones remembers the first time they sat in the waiting room of a private psychiatric hospital with Justin.
 He was in high school, where he was a popular honor student who had crushed the ACT and scored 4s and 5s on all his AP tests.
 Yet suddenly, Justin was debilitated by a shocking breakdown.
 “You’re in this room, they’re very sterile, you hear people screaming in the background,” Tracey Jones said.
-“You’re crying, you’re with your child and you’re like “Oh my God.”
-In their family’s experience, the hospitals were understaffed and underfunded and couldn’t deliver the kind of care that would help a child get better over the long haul.
+“You’re crying, you’re with your child and you’re like “Oh my God.” In their family’s experience, the hospitals were understaffed and underfunded and couldn’t deliver the kind of care that would help a child get better over the long haul.
 “It’s woeful, in terms of the inadequacy of our infrastructure,” Todd Jones said.
-Almost any parent is overwhelmed and isolated, he said, when they try to navigate the “system.”
-“You really have no path,” Tracey Jones said.
-“You’re lost.”
-Justin would be in and out of hospitals 31 times over five years, with one short admission after another.
+Almost any parent is overwhelmed and isolated, he said, when they try to navigate the “system.” “You really have no path,” Tracey Jones said.
+“You’re lost.” Justin would be in and out of hospitals 31 times over five years, with one short admission after another.
 The hospital would “stabilize” him and release him with no clear next steps.
 “It was a rinse and repeat cycle,” Todd Jones said.
 Then, the family was given advice on how to break the cycle.
-“When we knew this was really not a broken system, but a ‘gone’ system, is I will say last year when we were finally told, ‘Look, his best help is for him to commit a felony,’” Tracey Jones said
-By threatening a police officer and getting charged with a crime, Justin got help through the criminal justice system at a state hospital where he stayed for months.
+“When we knew this was really not a broken system, but a ‘gone’ system, is I will say last year when we were finally told, ‘Look, his best help is for him to commit a felony,’” Tracey Jones said By threatening a police officer and getting charged with a crime, Justin got help through the criminal justice system at a state hospital where he stayed for months.
 “They would not let him go until they got him out of psychosis.
-And that was the very, very, very, very, very first time that happened,” she said.
-Their experience led the Joneses to speak out on the issue, and their story made Todd Jones a credible advocate when he co-sponsored the mental health parity bill to require insurers to cover mental health equitably with physical health.
+And that was the very, very, very, very, very first time that happened,” she said. ‍ ‘Morally unacceptable’ Their experience led the Joneses to speak out on the issue, and their story made Todd Jones a credible advocate when he co-sponsored the mental health parity bill to require insurers to cover mental health equitably with physical health.
 Since they have gone public, Todd and Tracey’s phones ring constantly.
 Parents call, in crisis, desperate for advice on getting help for their kids.
 They don’t know where else to turn.
@@ -156,6 +146,6 @@ States across the country shut down horrific mental health hospitals, but that c
 “At the end of the day, if you look back on that journey that has been taken, shame on those that were there.
 Shame on those of us who have allowed it to perpetuate.
 For us to not act on this, I think is morally unacceptable,” he said.
-“We have to act on it.”
-If you or someone you know is struggling or in crisis, help is available.
-Call or text 988 or chat 988lifeline.org.
+“We have to act on it.” ‍ If you or someone you know is struggling or in crisis, help is available.
+Call or text 988 or chat 988lifeline.org .
+Back to News Recent posts August 28, 2026 Summer Fun and Summer Work September 9, 2026 Georgia child welfare agency's surveillance tools raise privacy concerns June 28, 2026 Special Session Recap and Happy 4th! mmo@mmolaw.com

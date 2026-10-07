@@ -1,4 +1,10 @@
 [
-"https://upballot.com/event-calendar-ajax?year=2026&month=11&candidateId=42038",
-"https://upballot.com/event-calendar-ajax?year=2027&month=01&candidateId=42038"
+{
+"text": "[tooltip: Navigate to January 2027]",
+"href": "https://www.upballot.com/event-calendar-ajax?year=2027&month=01&candidateId=42038"
+},
+{
+"text": "[tooltip: Navigate to November 2026]",
+"href": "https://www.upballot.com/event-calendar-ajax?year=2026&month=11&candidateId=42038"
+}
 ]

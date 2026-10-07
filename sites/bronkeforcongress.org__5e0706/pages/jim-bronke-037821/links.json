@@ -1,22 +1,94 @@
 [
-"https://bronkeforcongress.org/",
-"https://bronkeforcongress.org/about-us",
-"https://bronkeforcongress.org/contact",
-"https://bronkeforcongress.org/info",
-"https://bronkeforcongress.org/jim-bronke",
-"https://bronkeforcongress.org/resume",
-"https://facebook.com/",
-"https://facebook.com/jvbronke",
-"https://instagram.com/",
-"https://instagram.com/jimbronke?hl=en",
-"https://linkedin.com/in/james-bronke-4164958",
-"https://rumble.com/c/KimIversen",
-"https://sandbox.designswebs.com/bronkeforcongress",
-"https://sandbox.designswebs.com/bronkeforcongress/about-us",
-"https://sandbox.designswebs.com/bronkeforcongress/bronke",
-"https://sandbox.designswebs.com/bronkeforcongress/issues",
-"https://truthout.org/",
-"https://truthout.org/articles/how-bidens-secret-2002-meetings-led-to-war-in-iraq",
-"https://usapl.liftingdatabase.com/lifters-view?id=121055",
-"https://x.com/"
+{
+"text": "About Us",
+"href": "https://sandbox.designswebs.com/bronkeforcongress/about-us/"
+},
+{
+"text": "About us",
+"href": "https://www.bronkeforcongress.org/about-us/"
+},
+{
+"text": "Contact",
+"href": "https://www.bronkeforcongress.org/contact/"
+},
+{
+"text": "Home",
+"href": "https://sandbox.designswebs.com/bronkeforcongress/"
+},
+{
+"text": "Home",
+"href": "https://www.bronkeforcongress.org/"
+},
+{
+"text": "How Biden’s Secret 2002 Meetings Led to War in Iraq | Truthout",
+"href": "https://truthout.org/articles/how-bidens-secret-2002-meetings-led-to-war-in-iraq/"
+},
+{
+"text": "Info",
+"href": "https://www.bronkeforcongress.org/info/"
+},
+{
+"text": "Issues",
+"href": "https://sandbox.designswebs.com/bronkeforcongress/issues/"
+},
+{
+"text": "Jim Bronke",
+"href": "https://www.bronkeforcongress.org/jim-bronke/"
+},
+{
+"text": "Kim Iversen",
+"href": "https://rumble.com/c/KimIversen"
+},
+{
+"text": "Meet Bronke",
+"href": "https://sandbox.designswebs.com/bronkeforcongress/bronke/"
+},
+{
+"text": "My Powerlifting Records",
+"href": "https://usapl.liftingdatabase.com/lifters-view?id=121055"
+},
+{
+"text": "Resume",
+"href": "https://www.bronkeforcongress.org/resume/"
+},
+{
+"text": "Truthout | Fearless Independent Journalism",
+"href": "https://truthout.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.bronkeforcongress.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jvbronke"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jimbronke/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/james-bronke-4164958/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/"
+},
+{
+"text": "[no text]",
+"href": "mailto:jim@bronkeforcongress.org"
+},
+{
+"text": "[no text]",
+"href": "mailto:mail@example.com"
+}
 ]

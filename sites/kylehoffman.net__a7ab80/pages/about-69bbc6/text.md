@@ -1,17 +1,4 @@
-MEET KYLE HOFFMAN
-OCCUPATION:
-Farmer/Rancher
-EDUCATION:
-Agriculture Technology Management
-Kansas State University, 1994
-ELECTED LEADERSHIP POSITIONS:
-- Assistant Majority Leader 2025- Present
-- Majority Caucus Chair 2013-2014
-- Chairman, The Energy Council 2018-2019
-COMMITTEE ASSIGNMENTS:
-- Committee on Appropriations
-- Vice Chairman, Joint Information & Technology
-Farmer.
+Home About Kyle Principles Achievements Mailing List Donate Get in touch 555-555-5555 mymail@mailservice.com Donate Home About Kyle Principles Achievements Mailing List Donate MEET KYLE HOFFMAN OCCUPATION: Farmer/Rancher EDUCATION: Agriculture Technology Management Kansas State University, 1994 ELECTED LEADERSHIP POSITIONS: Assistant Majority Leader 2025- Present Majority Caucus Chair 2013-2014 Chairman, The Energy Council 2018-2019 COMMITTEE ASSIGNMENTS: Committee on Appropriations Vice Chairman, Joint Information & Technology Farmer.
 Leader.
 Public Servant.
 Kyle and his wife, Kristi, live south of Coldwater, where he manages the family farm.
@@ -37,3 +24,4 @@ He is a strong supporter of private enterprise and believes Kansas cannot tax an
 He also believes in maintaining a strong public education system while preserving parental choice in education.
 A committed pro-life advocate, Kyle believes life begins at conception.
 As a life member of the NRA, he supports the Second Amendment and remains a steadfast advocate for the constitutional rights of Kansas gun owners.
+Donate Contact Us Representative Kyle Hoffman Kansas House of Representatives, District 116 Paid for by Hoffman for State Representative — Stephen Hokanson, Treasurer District office: 1318 Avenue T • Coldwater, KS 67029 • 620-582-2217 Topeka office: Kansas Capital Building, Rm 481-W • Topeka, KS 66612 • 785-296-7643 Share by:

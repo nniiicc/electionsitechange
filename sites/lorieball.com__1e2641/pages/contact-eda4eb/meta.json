@@ -1,7 +1,12 @@
 {
  "description": "Use this form to contact Lorie. She would love to hear from you and will get back to you as soon as possible.",
  "final_url": "https://lorieball.com/contact/",
- "paid_for_by": "Paid for by Lorie Ball, 22 Arlington Pond Court, Salem, NH 03079 &copy; 2026&nbsp;Lorie Ball for Salem",
+ "fingerprint": "cfd7b608dd5dea743f0f765b2cb25b692378395d",
+ "format": 3,
+ "paid_for_by": "Paid for by Lorie Ball, 22 Arlington Pond Court, Salem, NH 03079 © # Lorie Ball for Salem",
  "title": "Contact Lorie Ball",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2024"
+ ]
 }

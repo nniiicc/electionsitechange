@@ -1,50 +1,14 @@
-Environment, Sustainability & Climate Resilience
-Heat Resilience & Livable Communities
-Extreme heat has become one of Arizona’s biggest public health and infrastructure challenges, especially in rapidly growing urban areas that were not designed for long-term desert sustainability.
-I support:
-- Expanded shade infrastructure and urban tree programs
-- Heat mitigation projects in schools, parks, and public spaces
-- Cooling centers and emergency heat response planning
-- More walkable and community-focused development
-- Investments in infrastructure designed for Arizona’s climate realities
-Communities should be built around quality of life and long-term livability — not unchecked expansion.
-Water Conservation & Responsible Growth
-Arizona cannot continue treating water like an unlimited resource.
+Home Meet Jayme Endorsements Make Endorsement Issues Events Photos Volunteer Voter Information Contribute Yard Signs Contact Home ❭ Issues ❭ Environment, Sustainability & Climate Resilience Environment, Sustainability & Climate Resilience Heat Resilience & Livable Communities Extreme heat has become one of Arizona’s biggest public health and infrastructure challenges, especially in rapidly growing urban areas that were not designed for long-term desert sustainability.
+I support: Expanded shade infrastructure and urban tree programs Heat mitigation projects in schools, parks, and public spaces Cooling centers and emergency heat response planning More walkable and community-focused development Investments in infrastructure designed for Arizona’s climate realities Communities should be built around quality of life and long-term livability — not unchecked expansion.
+Water Conservation & Responsible Growth Arizona cannot continue treating water like an unlimited resource.
 Long-term water security and responsible growth must go hand in hand.
-I support:
-- Stronger groundwater protections
-- Water-efficient infrastructure and landscaping
-- Native and drought-tolerant landscaping protections
-- Long-term conservation planning
-- Responsible development standards tied to realistic water availability
-I also believe large corporations and high-consumption industries should contribute fairly toward the infrastructure and conservation systems they rely on.
+I support: Stronger groundwater protections Water-efficient infrastructure and landscaping Native and drought-tolerant landscaping protections Long-term conservation planning Responsible development standards tied to realistic water availability I also believe large corporations and high-consumption industries should contribute fairly toward the infrastructure and conservation systems they rely on.
 Working families should not carry the full burden while corporations profit from Arizona’s land, water, energy, and rapid growth.
-Data Centers & Industrial Resource Use
-Arizona has seen a rapid increase in proposed data centers and other high-consumption industrial developments.
+Data Centers & Industrial Resource Use Arizona has seen a rapid increase in proposed data centers and other high-consumption industrial developments.
 While these projects can bring economic investment, they also place enormous demands on water and energy infrastructure.
-I support:
-- Transparent reporting of water and energy use
-- Infrastructure impact assessments
-- Corporate contributions toward conservation and infrastructure upgrades
-- Responsible siting standards
-- Limits on developments that threaten long-term water sustainability
-Arizona should not sacrifice its future water security for short-term corporate expansion.
-Renewable Energy & Infrastructure
-Arizona has enormous potential for renewable energy and sustainable infrastructure investment.
-I support:
-- Expanding renewable energy where practical
-- Modernizing Arizona’s energy infrastructure
-- Energy efficiency improvements
-- Supporting responsible technology and infrastructure growth
-- Investing in resilient public infrastructure built for long-term sustainability
-Arizona should be preparing for the future instead of reacting to crises after the damage is already done.
-Conservation, Agriculture & Open Space
-Protecting Arizona’s environment also means protecting agricultural land, natural landscapes, and outdoor spaces that are central to our economy, identity, and quality of life.
-I support:
-- Agricultural land preservation efforts
-- Smart growth policies that reduce unnecessary sprawl
-- Conservation-focused land use planning
-- Protecting parks, trails, and public outdoor spaces
-- Supporting sustainable agriculture and local food systems
-Arizona’s environment is one of our greatest strengths.
-Protecting it is not just about conservation — it is about protecting public health, economic stability, and the long-term future of our communities.
+I support: Transparent reporting of water and energy use Infrastructure impact assessments Corporate contributions toward conservation and infrastructure upgrades Responsible siting standards Limits on developments that threaten long-term water sustainability Arizona should not sacrifice its future water security for short-term corporate expansion.
+Renewable Energy & Infrastructure Arizona has enormous potential for renewable energy and sustainable infrastructure investment.
+I support: Expanding renewable energy where practical Modernizing Arizona’s energy infrastructure Energy efficiency improvements Supporting responsible technology and infrastructure growth Investing in resilient public infrastructure built for long-term sustainability Arizona should be preparing for the future instead of reacting to crises after the damage is already done.
+Conservation, Agriculture & Open Space Protecting Arizona’s environment also means protecting agricultural land, natural landscapes, and outdoor spaces that are central to our economy, identity, and quality of life.
+I support: Agricultural land preservation efforts Smart growth policies that reduce unnecessary sprawl Conservation-focused land use planning Protecting parks, trails, and public outdoor spaces Supporting sustainable agriculture and local food systems Arizona’s environment is one of our greatest strengths.
+Protecting it is not just about conservation — it is about protecting public health, economic stability, and the long-term future of our communities. « Previous: Responsible Gun Ownership & the Second Amendment Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com - Political Websites Home Meet Jayme Issues Endorsements Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu

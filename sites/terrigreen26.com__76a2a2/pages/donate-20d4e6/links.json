@@ -1,8 +1,42 @@
 [
-"https://facebook.com/profile.php?id=61585254656309",
-"https://goodchange.app/donate/terri-kk",
-"https://instagram.com/terrigreenforarkansas?igsh=aWN4OHJxbTF0Y2ho",
-"https://secure.actblue.com/donate/kickoffterrigreen",
-"https://terrigreenforarkansas.com/",
-"https://terrigreenforarkansas.com/donate"
+{
+"text": "DONATE",
+"href": "https://www.terrigreenforarkansas.com/donate"
+},
+{
+"text": "Donate Via ActBlue",
+"href": "https://secure.actblue.com/donate/kickoffterrigreen"
+},
+{
+"text": "Donate Via Good Change",
+"href": "https://goodchange.app/donate/terri-kk"
+},
+{
+"text": "Issues",
+"href": "https://www.terrigreenforarkansas.com"
+},
+{
+"text": "Meet Dr. Green",
+"href": "https://www.terrigreenforarkansas.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.terrigreenforarkansas.com/donate"
+},
+{
+"text": "[image: Dr.GreenforArkansas-logo ]",
+"href": "https://www.terrigreenforarkansas.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61585254656309"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/terrigreenforarkansas?igsh=aWN4OHJxbTF0Y2ho"
+},
+{
+"text": "info@terrigreenforarkansas.com",
+"href": "mailto:info@terrigreenforarkansas.com"
+}
 ]

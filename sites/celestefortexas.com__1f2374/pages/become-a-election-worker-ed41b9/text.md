@@ -1,1 +1,4 @@
-❋ Early Vote: May 18-22 | Election day: May 26, 2026 | Pay Rate Starting at $12 per hour SIGN UP TO BE A POLL WORKER TODAY NEXT ELECTION: RUN OFF EARLY VOTE: MAY 18-22, 2006 ELECTION DAY: MAY 26, 20026 Call or Text (956) 339-5979 or email info@celestefortexas.com Register Here Sign Up Here
+0 Skip to Content Donate Home Events Issues Volunteer Become a Election Worker Podcast Media DONATE Open Menu Close Menu Donate Home Events Issues Volunteer Become a Election Worker Podcast Media DONATE Open Menu Close Menu Donate Home Events Issues Volunteer Become a Election Worker Podcast Media DONATE ❋ Early Vote: May 18-22 | Election day: May 26, 2026 | Pay Rate Starting at $12 per hour SIGN UP TO BE A POLL WORKER TODAY NEXT ELECTION: RUN OFF EARLY VOTE: MAY 18-22, 2006 ELECTION DAY: MAY 26, 20026 Call or Text (956) 339-5979 or email info@celestefortexas.com Register Here Sign Up Here Pol.
+Adv Paid For By Celeste For Texas Please Make Checks Payable To: Celeste For Texas Mailing Address : 2112 W.
+University Drive #1141 Edinburg, Texas 78539 Location 2112 W.
+University Drive, #1141 Edinburg, Texas 78539 Contact Info@celestefortexas.com (956) 339-5979

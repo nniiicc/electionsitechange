@@ -1,8 +1,5 @@
-Game on: Sen.
-Heather Somers, with Trump around her neck, will have the race of her life in Connecticut's 18th District
-Updated: Apr 24
-By David Collins
-When Heather Somers of Groton won her fifth term in the state Senate in 2024, on a ballot led by Donald Trump, it looked to be about as safe a seat as a Republican could hope for in blue Connecticut.
+top of page ABOUT PRIORITIES PRESS Menu Close All Posts Game on: Sen.
+Heather Somers, with Trump around her neck, will have the race of her life in Connecticut's 18th District Alisha Rayner Dec 11, 2025 3 min read Updated: Apr 24 By David Collins When Heather Somers of Groton won her fifth term in the state Senate in 2024, on a ballot led by Donald Trump, it looked to be about as safe a seat as a Republican could hope for in blue Connecticut.
 After years of essential gerrymandering by the state’s dominant party, Somers’ 18th District is made up of a lot of the ruby red Republicanism that Democrats have helped keep out of the districts they hope to continue to dominate.
 The 18th, after meandering a little along the moderate, blue-tinted southeastern Connecticut shoreline, takes a hard turn north, up into rural towns like Windham County’s Sterling, where Trump beat Kamala Harris in 2024 by a 40 percent margin, his most impressive win in the state.
 This week, Joseph de la Cruz, a popular former state representative, community activist and onetime sheetmetal foreman, announced he is running for Somers’ seat, the Holy Grail of politics for eastern Connecticut Democrats.
@@ -31,5 +28,6 @@ We seem to be at a breaking point in the Trump madness, maybe even the time when
 If you attended a No Kings demonstration in the last year, I’d suggest donating to the de la Cruz campaign.
 It’s an even better way to register a protest of what is happening in Trump’s America.
 De la Cruz is certainly a candidate for 2025 with the right message: Save our freedoms.
-This is the opinion of David Collins
-The original article can be found at: https://substack.com/inbox/post/181362259?r=3k88nq&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true&triedRedirect=true
+This is the opinion of David Collins davidcollinsct@gmail.com The original article can be found at: https://substack.com/inbox/post/181362259?r=3k88nq&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true&triedRedirect=true Recent Posts See All Can Dems oust Somers and claim another Senate seat?
+Joe de la Cruz announces state senate campaign for 18th District Joe de la Cruz, a 'breath of fresh air' in Hartford A CCESSIBILITY STATEMENT PRIVACY POLICY TERMS & CONDITIONS ABOUT PRIORITIES PRESS Menu Close X INSTAGRAM FACEBOOK © # Paid for by Joe for CT, Approved by Joe de la Cruz.
+ABOUT PRIORITIES PRESS ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

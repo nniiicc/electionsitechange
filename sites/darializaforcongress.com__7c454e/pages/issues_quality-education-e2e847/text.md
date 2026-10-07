@@ -1,24 +1,6 @@
-WE'RE FIGHTING FOR...
-Quality Education
-Darializa has been a student and taught at Columbia University and CUNY: she knows that our public schools are getting the short end of the stick.
+Skip navigation menu About Priorities Endorsements Volunteer Press Contact Us Donate About Priorities Endorsements Volunteer Press Contact Us Donate Day 1 Agenda Abolish ICE Babies, Not Bombs Housing for All Medicare for All Economic Security for All Quality Education Fighting Corporate Greed WE'RE FIGHTING FOR...
+Quality Education Darializa has been a student and taught at Columbia University and CUNY: she knows that our public schools are getting the short end of the stick.
 Trump's education agenda distorts the truth and excludes Black, Latino, and LBGTQ histories.
 He and his billionaire friends want to privatize the Department of Education and restrict academic freedom in higher education.
 Everyone has a right to free, quality public education, no matter their zip code.
-Darializa will fight to:
-OUR YOUNGEST LEARNERS
-- Establish free universal childcare and Pre-K
-- Create more childcare centers in communities with too few options
-- Increase wages for early childhood educators
-- Expand access to Head Starts and Early Head Start
-K-12
-- Fully fund our schools and programs for children with disability and kids living in poverty
-- Protect and expand students’ civil rights especially for undocumented, Black and brown, and LGBTQ+ students
-- Keep our public schools open, halt charter school expansion, and hold charter schools accountable
-- Increase wages and improve working conditions for all educators and school staff
-HIGHER EDUCATION
-- Make public colleges tuition-free
-- Cancel $1.7 trillion of student debt
-- Create quality certification and training programs for teachers at public universities
-- Protect academic freedom, including free speech
-- Defend international workers and students from the federal government’s crackdown
-- Oppose cuts to critical federal funding for medical research that will save lives
+Darializa will fight to: OUR YOUNGEST LEARNERS Establish free universal childcare and Pre-K Create more childcare centers in communities with too few options Increase wages for early childhood educators Expand access to Head Starts and Early Head Start K-12 Fully fund our schools and programs for children with disability and kids living in poverty Protect and expand students’ civil rights especially for undocumented, Black and brown, and LGBTQ+ students Keep our public schools open, halt charter school expansion, and hold charter schools accountable Increase wages and improve working conditions for all educators and school staff HIGHER EDUCATION Make public colleges tuition-free Cancel $1.7 trillion of student debt Create quality certification and training programs for teachers at public universities Protect academic freedom, including free speech Defend international workers and students from the federal government’s crackdown Oppose cuts to critical federal funding for medical research that will save lives info@darializaforcongress.com PO Box 129 New York, NY 10027 United States Powered by RUN! website builder Paid for by Darializa for Congress You need to enable JavaScript to run this app.

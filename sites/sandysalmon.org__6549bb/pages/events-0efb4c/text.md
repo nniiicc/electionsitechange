@@ -1,8 +1,2 @@
-Events
-Follow Sandy throughout her District and the state as she connects with the people and issues that impact legislation.
-Here are events Sandy plans to attend:
-EVENTS
-2025 - 91st Iowa General Assembly
-Paid for by 'Friends of Sandy Salmon'
-Website design by 1Vision
-Share by:
+Iowa Senator District #29 Contact Sandy DONATE HOME ABOUT EVENTS GALLERY ISSUES NEWSLETTERS ENDORSEMENTS VOTER INFORMATION GET INVOLVED DONATE CONTACT EVENTS Events Follow Sandy throughout her District and the state as she connects with the people and issues that impact legislation.
+Here are events Sandy plans to attend: Follow Us 2025 - 91st Iowa General Assembly Paid for by 'Friends of Sandy Salmon' Website design by 1Vision Follow Us Iowa Legislature Iowa Constitution State of Iowa Iowa Senate Republicans Share by:

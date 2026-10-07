@@ -1,13 +1,58 @@
 [
-"https://bsky.app/profile/vote4rmurray.bsky.social",
-"https://facebook.com/people/Robert-Murray-for-Congress-VA-04/61593075734582",
-"https://murrayforcongress.com/",
-"https://murrayforcongress.com/about",
-"https://murrayforcongress.com/cdn-cgi/l/email-protection",
-"https://murrayforcongress.com/connect",
-"https://murrayforcongress.com/privacy",
-"https://murrayforcongress.com/terms",
-"https://secure.anedot.com/virginia-lovers-for-robert-murray/donate",
-"https://votegtr.com/",
-"https://x.com/Vote4RMurray"
+{
+"text": "804-757-6542",
+"href": "tel:8047576542"
+},
+{
+"text": "Connect",
+"href": "https://www.murrayforcongress.com/connect/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/virginia-lovers-for-robert-murray/donate"
+},
+{
+"text": "Meet Robert",
+"href": "https://www.murrayforcongress.com/about/"
+},
+{
+"text": "Powered by VOTEGTR.com",
+"href": "https://votegtr.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.murrayforcongress.com/privacy/"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.murrayforcongress.com/terms/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@murrayforcongress.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@murrayforcongress.com?subject=Remove+Me"
+},
+{
+"text": "[email protected]",
+"href": "mailto:privacy@murrayforcongress.com"
+},
+{
+"text": "[image: Murray for Congress]",
+"href": "https://www.murrayforcongress.com/"
+},
+{
+"text": "[tooltip: Follow Robert Murray on BlueSky]",
+"href": "https://bsky.app/profile/vote4rmurray.bsky.social"
+},
+{
+"text": "[tooltip: Follow Robert Murray on Facebook]",
+"href": "https://www.facebook.com/people/Robert-Murray-for-Congress-VA-04/61593075734582"
+},
+{
+"text": "[tooltip: Follow Robert Murray on X]",
+"href": "https://x.com/Vote4RMurray"
+}
 ]

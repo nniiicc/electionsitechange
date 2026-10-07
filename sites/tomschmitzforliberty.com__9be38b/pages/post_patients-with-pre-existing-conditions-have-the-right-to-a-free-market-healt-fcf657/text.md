@@ -1,5 +1,5 @@
-Patients with Pre-existing Conditions Have the Right to a Free Market Healthcare System
-Patients with pre-existing conditions have the right to the benefits of a free market, liberated healthcare system, and the government has taken this right away from them.
+top of page TomSchmitzForLiberty.com Home Issues Donate Blog About More Use tab to navigate through the menu items.
+All Posts Search Patients with Pre-existing Conditions Have the Right to a Free Market Healthcare System Tom Schmitz Nov 1, 2020 9 min read Patients with pre-existing conditions have the right to the benefits of a free market, liberated healthcare system, and the government has taken this right away from them.
 We cannot trust a monolithic, government-controlled healthcare system to provide an adequate, sustainable solution for patients with pre-existing conditions.
 Washington politicians advocate for government coercion to address the problem of pre-existing conditions, while libertarians advocate for the free market to provide voluntary solutions.
 Further, libertarians believe that patients with pre-existing conditions have the right to the incredible benefits that can only be enjoyed in a free market healthcare system.
@@ -105,3 +105,5 @@ Individuals who want to be free from the government-controlled healthcare system
 Any attempt to simply say "no thanks" to the government-controlled healthcare system and form a free market system are shut down with force, and with criminal penalties.
 I trust the innovation of free people, a free society, to provide solutions for patients who have pre-existing conditions.
 I do not trust an authoritarian state program rooted in coercion, where patients with pre-existing conditions are denied their freedom, and where these patients will be at the mercy of a government-controlled system, with no recourse when that system fails.
+Post: Blog2_Post tomschmitzforliberty@gmail.com ©# by tomschmitzforliberty.com.
+Proudly created with Wix.com bottom of page

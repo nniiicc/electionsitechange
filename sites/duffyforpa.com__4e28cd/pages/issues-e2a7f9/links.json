@@ -1,10 +1,38 @@
 [
-"https://duffyforpa.com/",
-"https://duffyforpa.com/about",
-"https://duffyforpa.com/issues",
-"https://duffyforpa.com/privacy",
-"https://duffyforpa.com/terms",
-"https://duffyforpa.com/volunteer",
-"https://facebook.com/",
-"https://secure.anedot.com/friends-of-sean-duffy/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-sean-duffy/donate"
+},
+{
+"text": "Home",
+"href": "https://www.duffyforpa.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.duffyforpa.com/issues/"
+},
+{
+"text": "Meet Sean",
+"href": "https://www.duffyforpa.com/about/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.duffyforpa.com/privacy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.duffyforpa.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.duffyforpa.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://www.duffyforpa.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/"
+}
 ]

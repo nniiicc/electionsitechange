@@ -1,10 +1,34 @@
 [
-"https://kristinereeves.com/",
-"https://kristinereeves.com/about-kristine",
-"https://kristinereeves.com/contact-8",
-"https://kristinereeves.com/endorse-kristine",
-"https://kristinereeves.com/gotv",
-"https://kristinereeves.com/issues",
-"https://kristinereeves.com/media",
-"https://secure.actblue.com/donate/reeves"
+{
+"text": "ABOUT KRISTINE",
+"href": "https://www.kristinereeves.com/about-kristine"
+},
+{
+"text": "CONTACT",
+"href": "https://www.kristinereeves.com/contact-8"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/reeves"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.kristinereeves.com/endorse-kristine"
+},
+{
+"text": "GOTV",
+"href": "https://www.kristinereeves.com/gotv"
+},
+{
+"text": "HOME",
+"href": "https://www.kristinereeves.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.kristinereeves.com/issues"
+},
+{
+"text": "MEDIA",
+"href": "https://www.kristinereeves.com/media"
+}
 ]

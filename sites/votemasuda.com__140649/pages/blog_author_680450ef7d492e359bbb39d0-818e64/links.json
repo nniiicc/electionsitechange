@@ -1,29 +1,162 @@
 [
-"https://bsky.app/profile/votemasuda.com",
-"https://facebook.com/votemasuda",
-"https://instagram.com/VoteMasuda",
-"https://pol.is/9cynbkpyh4",
-"https://secure.actblue.com/donate/masuda_websiteform",
-"https://tiktok.com/@votemasuda.com",
-"https://votemasuda.com/",
-"https://votemasuda.com/about",
-"https://votemasuda.com/about-1",
-"https://votemasuda.com/blog",
-"https://votemasuda.com/blog/blog-post-title-four-lr658-tcthp-wf5mw-7k4c2",
-"https://votemasuda.com/blog/blog-post-title-three-y3peb-4lwnz-5pkhf-hg9kg",
-"https://votemasuda.com/blog/blog-post-title-two-t5my5-k4xmd-67jzh-9znee",
-"https://votemasuda.com/blog/masudaadvances",
-"https://votemasuda.com/ca5",
-"https://votemasuda.com/cart",
-"https://votemasuda.com/conoceamichael",
-"https://votemasuda.com/endorsements-1",
-"https://votemasuda.com/espanol",
-"https://votemasuda.com/events",
-"https://votemasuda.com/inicio",
-"https://votemasuda.com/issues",
-"https://votemasuda.com/media",
-"https://votemasuda.com/privacypolicy",
-"https://votemasuda.com/temas",
-"https://votemasuda.com/volunteer",
-"https://x.com/VoteMasuda"
+{
+"text": "0",
+"href": "https://www.votemasuda.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.votemasuda.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.votemasuda.com/"
+},
+{
+"text": "Blog",
+"href": "https://www.votemasuda.com/blog"
+},
+{
+"text": "CA5",
+"href": "https://www.votemasuda.com/ca5"
+},
+{
+"text": "California District 05",
+"href": "https://www.votemasuda.com/ca5"
+},
+{
+"text": "Conoce A Michael",
+"href": "https://www.votemasuda.com/conoceamichael"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@votemasuda.com?subject=Website+Contact+Form&body=Hi%2C+I%27d+like+more+information+about..."
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/masuda_websiteform"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votemasuda.com/endorsements-1"
+},
+{
+"text": "Events",
+"href": "https://www.votemasuda.com/events"
+},
+{
+"text": "Folder: About",
+"href": "https://www.votemasuda.com/about-1"
+},
+{
+"text": "Folder: Español",
+"href": "https://www.votemasuda.com/espanol"
+},
+{
+"text": "For Our Neighbors Benefit Gala",
+"href": "https://www.votemasuda.com/blog/blog-post-title-four-lr658-tcthp-wf5mw-7k4c2"
+},
+{
+"text": "Home",
+"href": "https://www.votemasuda.com/"
+},
+{
+"text": "Inicio",
+"href": "https://www.votemasuda.com/inicio"
+},
+{
+"text": "Issues",
+"href": "https://www.votemasuda.com/issues"
+},
+{
+"text": "I’m a dog person, how about you?",
+"href": "https://www.votemasuda.com/blog/blog-post-title-three-y3peb-4lwnz-5pkhf-hg9kg"
+},
+{
+"text": "Join the Conversation",
+"href": "https://pol.is/9cynbkpyh4"
+},
+{
+"text": "Masuda advances to general election",
+"href": "https://www.votemasuda.com/blog/masudaadvances"
+},
+{
+"text": "Media",
+"href": "https://www.votemasuda.com/media"
+},
+{
+"text": "News",
+"href": "https://www.votemasuda.com/blog"
+},
+{
+"text": "Privacy Policy and Terms & Conditions",
+"href": "https://www.votemasuda.com/privacypolicy"
+},
+{
+"text": "Read More",
+"href": "https://www.votemasuda.com/blog/blog-post-title-four-lr658-tcthp-wf5mw-7k4c2"
+},
+{
+"text": "Read More",
+"href": "https://www.votemasuda.com/blog/blog-post-title-three-y3peb-4lwnz-5pkhf-hg9kg"
+},
+{
+"text": "Read More",
+"href": "https://www.votemasuda.com/blog/blog-post-title-two-t5my5-k4xmd-67jzh-9znee"
+},
+{
+"text": "Read More",
+"href": "https://www.votemasuda.com/blog/masudaadvances"
+},
+{
+"text": "Temas",
+"href": "https://www.votemasuda.com/temas"
+},
+{
+"text": "Visiting the Miwuk Cultural Center",
+"href": "https://www.votemasuda.com/blog/blog-post-title-two-t5my5-k4xmd-67jzh-9znee"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votemasuda.com/volunteer"
+},
+{
+"text": "[image: For Our Neighbors Benefit Gala]",
+"href": "https://www.votemasuda.com/blog/blog-post-title-four-lr658-tcthp-wf5mw-7k4c2"
+},
+{
+"text": "[image: I’m a dog person, how about you? ]",
+"href": "https://www.votemasuda.com/blog/blog-post-title-three-y3peb-4lwnz-5pkhf-hg9kg"
+},
+{
+"text": "[image: Masuda advances to general election]",
+"href": "https://www.votemasuda.com/blog/masudaadvances"
+},
+{
+"text": "[image: Michael Masuda for Congress]",
+"href": "https://www.votemasuda.com/"
+},
+{
+"text": "[image: Visiting the Miwuk Cultural Center]",
+"href": "https://www.votemasuda.com/blog/blog-post-title-two-t5my5-k4xmd-67jzh-9znee"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/votemasuda.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votemasuda"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/VoteMasuda/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@votemasuda.com"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VoteMasuda"
+}
 ]

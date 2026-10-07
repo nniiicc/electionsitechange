@@ -1,41 +1,194 @@
 [
-"https://bsky.app/profile/fionamacpa.bsky.social",
-"https://facebook.com/CA.FionaMa",
-"https://fionama.com/",
-"https://fionama.com/about",
-"https://fionama.com/agricultural-tours",
-"https://fionama.com/awards",
-"https://fionama.com/endorse-fiona",
-"https://fionama.com/endorsements",
-"https://fionama.com/my-story",
-"https://fionama.com/news",
-"https://fionama.com/newsletter",
-"https://fionama.com/press-releases",
-"https://fionama.com/privacy-policy",
-"https://fionama.com/recycling-tours",
-"https://fionama.com/tell-fiona-what-matters",
-"https://fionama.com/videos",
-"https://fionama.com/why-i-am-running",
-"https://flickr.com/photos/fionama",
-"https://instagram.com/fionamacpa",
-"https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1",
-"https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=100",
-"https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=1000",
-"https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=250",
-"https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=2500",
-"https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=5000",
-"https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=50000",
-"https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=9800",
-"https://x.com/fionama",
-"https://youtube.com/@fionama",
-"https://youtube.com/channel/UCF1YKjLez6ZLb3x5jn2B6ag",
-"https://youtube.com/watch?v=6-_kbknKDoc",
-"https://youtube.com/watch?v=8mnwA0Stwso",
-"https://youtube.com/watch?v=IOIsnIEATYw",
-"https://youtube.com/watch?v=RMrVNulzubo",
-"https://youtube.com/watch?v=djXqoc_EZD8",
-"https://youtube.com/watch?v=jaOYBr_N_QM",
-"https://youtube.com/watch?v=oqg-qgw76DA",
-"https://youtube.com/watch?v=wdzv7VLaGaM",
-"https://youtube.com/watch?v=yET-Z7cltsg"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=100"
+},
+{
+"text": "$2,500",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=2500"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=250"
+},
+{
+"text": "$5,000",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=5000"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=50000"
+},
+{
+"text": "$9,800",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=9800"
+},
+{
+"text": "About Fiona",
+"href": "https://fionama.com/about/"
+},
+{
+"text": "Agricultural Tours",
+"href": "https://fionama.com/agricultural-tours/"
+},
+{
+"text": "Agriculture Tours",
+"href": "https://fionama.com/agricultural-tours/"
+},
+{
+"text": "Awards",
+"href": "https://fionama.com/awards/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:fiona@fionama.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1"
+},
+{
+"text": "Endorse Fiona",
+"href": "https://fionama.com/endorse-fiona/"
+},
+{
+"text": "Endorsements",
+"href": "https://fionama.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/CA.FionaMa"
+},
+{
+"text": "Fiona@FionaMa.com",
+"href": "mailto:fiona@fionama.com"
+},
+{
+"text": "Home",
+"href": "https://fionama.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/fionamacpa/"
+},
+{
+"text": "My Story",
+"href": "https://fionama.com/my-story/"
+},
+{
+"text": "News",
+"href": "https://fionama.com/news/"
+},
+{
+"text": "Newsletter",
+"href": "https://fionama.com/newsletter/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1"
+},
+{
+"text": "Photos",
+"href": "https://www.flickr.com/photos/fionama/"
+},
+{
+"text": "Press Releases",
+"href": "https://fionama.com/press-releases/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://fionama.com/privacy-policy/"
+},
+{
+"text": "Recycling Tours",
+"href": "https://fionama.com/recycling-tours/"
+},
+{
+"text": "Subscribe",
+"href": "https://www.youtube.com/channel/UCF1YKjLez6ZLb3x5jn2B6ag/"
+},
+{
+"text": "Support Fiona Ma for Lieutenant Governor",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1"
+},
+{
+"text": "Tell Fiona What Matters",
+"href": "https://fionama.com/tell-fiona-what-matters/"
+},
+{
+"text": "Videos",
+"href": "https://fionama.com/videos/"
+},
+{
+"text": "Why I Am Running",
+"href": "https://fionama.com/why-i-am-running/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/fionama"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@fionama"
+},
+{
+"text": "[image: Butte County is a reminder of how much California’s communities, universities and infrastructure are connected. I visited Chico State, part of California’s incredible public higher education system, and stopped at Oroville Dam, where a plaque notes that soil from all 58 California counties was included in its construction. As Lieutenant Governor, I’ll keep showing up, listening and working to make sure communities across California have a voice. 58 Counties. 1 California. Stronger Together. #ButteCounty #Chico #ChicoState #Oroville #58Counties #1California #FionaMa] Butte County - 58 Counties 1 California",
+"href": "https://www.youtube.com/watch?v=oqg-qgw76DA"
+},
+{
+"text": "[image: California voters: Fiona Ma, California State Treasurer and candidate for Lieutenant Governor, shares important reminders for completing, signing and returning your vote-by-mail ballot for the November 3, 2026 General Election. Remember to complete your ballot, seal the envelope, sign it using the signature associated with your voter registration, and return it on time. California voters can return ballots at an official ballot drop box, voting location, vote center or county elections office. Polls close at 8:00 p.m. on November 3. Find official voting and ballot drop-off locations: CAEarlyVoting.sos.ca.gov Learn more about Fiona Ma: fionama.com Paid for by Fiona Ma for Lieutenant Governor 2026.] How to Complete and Return Your California Ballot | Fiona Ma for Lieutenant Governor",
+"href": "https://www.youtube.com/watch?v=F7qkI5nI3oE"
+},
+{
+"text": "[image: Fiona Ma for Lieutenant Governor]",
+"href": "https://fionama.com/"
+},
+{
+"text": "[image: Fiona Ma is running for Lieutenant Governor of California in 2026 with a focus on making California more affordable for families across the state. From housing and utilities to insurance, childcare and education, affordability is one of the biggest challenges facing Californians. Fiona’s campaign is focused on practical solutions, listening to communities across all 58 counties and bringing people together to address the issues affecting everyday life. Learn more about Fiona Ma and her campaign for Lieutenant Governor at www.FionaMa.vote #FionaMa #LieutenantGovernor #California #California2026 #Affordability] Fiona Ma for Lieutenant Governor 2026 | A More Affordable California",
+"href": "https://www.youtube.com/watch?v=6-_kbknKDoc"
+},
+{
+"text": "[image: In Sierra County, I stopped in Loyalton, the county’s only incorporated city, and visited the Milton Gottardi Museum to learn more about the people and industries that shaped this remarkable part of California. Railroads, lumber, ranching, and generations of local families are all part of Sierra County’s story. Preserving that history while supporting the future of our rural communities is an important part of building a stronger California. Every community matters, regardless of its size. 58 Counties. 1 California. Stronger Together. #SierraCounty #Loyalton #58Counties1California #FionaMa #California #RuralCalifornia] Sierra County | 58 Counties. 1 California. | Fiona Ma for Lieutenant Governor",
+"href": "https://www.youtube.com/watch?v=RMrVNulzubo"
+},
+{
+"text": "[image: My 58 Counties journey brought me to Plumas County and the community of Quincy in the northern Sierra. From its small towns and mountain communities to the people who keep this part of California moving, Plumas County is an important part of our state’s story. I’m traveling across California because every county deserves to be seen, heard and represented. 58 Counties. 1 California. Stronger Together. #PlumasCounty #Quincy #NorthernCalifornia #58Counties #1California #FionaMa] Plumas County - 58 Counties 1 California",
+"href": "https://www.youtube.com/watch?v=djXqoc_EZD8"
+},
+{
+"text": "[image: Our 58 Counties journey brought us to San Mateo County, from Half Moon Bay along the Pacific Coast to the communities and businesses of the Peninsula. San Mateo County brings together agriculture, fishing, small businesses, tourism, innovation, and some of California’s most beautiful coastline. It is also a place where protecting our environment, creating housing, supporting education, and expanding economic opportunity all intersect. California works best when we recognize what makes each community unique while bringing all of us together. 58 Counties. 1 California. Stronger Together. #SanMateoCounty #HalfMoonBay #58Counties1California #FionaMa #California #CaliforniaCoast] San Mateo County | 58 Counties. 1 California. | Fiona Ma for Lieutenant Governor",
+"href": "https://www.youtube.com/watch?v=8mnwA0Stwso"
+},
+{
+"text": "[image: Our 58 Counties journey brought us to beautiful Tuolumne County, where I had the chance to meet with local residents and hear directly about the issues that matter to their communities. From its historic Gold Country roots to the gateway to Yosemite and the Sierra Nevada, Tuolumne County is an important part of California’s story. I’m traveling across all 58 counties because every community deserves to be heard. As California’s next Lieutenant Governor, I’ll keep showing up, listening and working to deliver results for people in every corner of our state. 58 Counties. 1 California. Stronger Together. #TuolumneCounty #58Counties #1California #FionaMa #California #GoldCountry #SierraNevada] Tuolumne County - 58 Counties 1 California",
+"href": "https://www.youtube.com/watch?v=jaOYBr_N_QM"
+},
+{
+"text": "[image: Our journey through California continues in Ventura County, where agriculture, coastal communities, education, and international trade all play an important role in the region’s economy and identity. From the farms that help feed California to the communities along the Pacific, Ventura County reflects the balance between economic opportunity and protecting the resources that make this part of our state so special. I’m traveling California because every county deserves to be seen, heard, and represented. 58 Counties. 1 California. Stronger Together. #VenturaCounty #58Counties1California #FionaMa #California #Agriculture #CaliforniaCoast] Ventura County | 58 Counties. 1 California. | Fiona Ma for Lieutenant Governor",
+"href": "https://www.youtube.com/watch?v=wdzv7VLaGaM"
+},
+{
+"text": "[image: Votantes de California: Fiona Ma, tesorera del estado de California y candidata a vicegobernadora, comparte recordatorios importantes para completar, firmar y entregar su boleta de voto por correo para las elecciones generales del tres de noviembre de 2026. Recuerde completar su boleta, sellar el sobre, firmarlo con la firma asociada con su registro de votante y entregarlo a tiempo. Los votantes de California pueden entregar sus boletas en un buzón electoral oficial, centro de votación, lugar de votación u oficina electoral del condado. Las urnas cierran a las ocho de la noche el tres de noviembre. California Secretary of State Encuentre lugares oficiales de votación y buzones electorales: CAEarlyVoting.sos.ca.gov Más información sobre Fiona Ma: fionama.com Pagado por Fiona Ma for Lieutenant Governor 2026.] Cómo completar y entregar su boleta en California | Fiona Ma para Vicegobernadora",
+"href": "https://www.youtube.com/watch?v=-MGS0M21Nv0"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/fionamacpa.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CA.FionaMa"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/fionamacpa/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/fionama"
+}
 ]

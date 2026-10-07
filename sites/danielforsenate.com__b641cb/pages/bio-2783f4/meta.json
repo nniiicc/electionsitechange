@@ -1,7 +1,17 @@
 {
  "description": "",
  "final_url": "https://www.danielforsenate.com/bio",
+ "fingerprint": "d4faec7ba42aa29206b554f96aa0f9beee0d3de0",
+ "format": 3,
  "paid_for_by": "Paid for by Warren Daniel for Senate",
- "title": "Bio \u2014 Warren Daniel",
- "years_mentioned": []
+ "title": "Bio — Warren Daniel",
+ "years_mentioned": [
+  "1986",
+  "1987",
+  "1991",
+  "1993",
+  "1997",
+  "2000",
+  "2007"
+ ]
 }

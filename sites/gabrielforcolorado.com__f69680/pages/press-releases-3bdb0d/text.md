@@ -1,11 +1,6 @@
-Press Releases
-YellowScene Magazine Announces Endorsement of Gabriel Cervantes
-BOULDER, COLO. — Tues., June 2, 2026
-Cervantes Campaign Condemns Phillip’s Republican Rooted Comments
-THORNTON, COLO. — Wed., June 4, 2025
-Gabriel Cervantes to Host Campaign Launch Party
-THORNTON, CO. — Sun., June 15, 2025
-Gabriel Cervantes Announces Candidacy for HD-31
-THORNTON, COLO. — Wed., May 27, 2025
-THORNTON, COLO. — Wed., July 1, 2025
-DENVER, COLO. — Wed., July 1, 2026
+0 Skip to Content Meet Gabriel 🤝 Issues ✊ Endorsements 📣 Leaders Organizations Events 🗓️ Media 📷 Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Open Menu Close Menu Meet Gabriel 🤝 Issues ✊ Endorsements 📣 Leaders Organizations Events 🗓️ Media 📷 Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Open Menu Close Menu Meet Gabriel 🤝 Issues ✊ Folder: Endorsements 📣 Back Leaders Organizations Events 🗓️ Folder: Media 📷 Back Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Press Releases YellowScene Magazine Announces Endorsement of Gabriel Cervantes BOULDER, COLO. — Tues., June 2, 2026 Cervantes Campaign Condemns Phillip’s Republican Rooted Comments THORNTON, COLO. — Wed., June 4, 2025 Gabriel Cervantes to Host Campaign Launch Party THORNTON, CO. — Sun., June 15, 2025 Gabriel Cervantes Announces Candidacy for HD-31 THORNTON, COLO. — Wed., May 27, 2025 THORNTON, COLO. — Wed., July 1, 2025 Cervantes tops Phillips in State House District 31 primary DENVER, COLO. — Wed., July 1, 2026 Dark money groups that spent $2.5M backing more moderate Democrats in statehouse primaries won in just 2 of 8 races Meet Gabriel 👋 Connect/Contact 🤝 Donate💵 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign-Up Sign up with your email address to receive campaign updates and information about events!
+Email Address Sign Up Thank you!
+Paid for by Gabriel for Colorado Gabriel Cervantes Registered Agent: Roberta Ayala 12470 York St.
+#404 Eastlake, CO 80614

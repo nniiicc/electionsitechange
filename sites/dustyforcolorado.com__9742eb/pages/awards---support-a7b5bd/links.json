@@ -1,17 +1,66 @@
 [
-"https://dustyforcolorado.com/",
-"https://dustyforcolorado.com/about",
-"https://dustyforcolorado.com/awards---support",
-"https://dustyforcolorado.com/community-resources",
-"https://dustyforcolorado.com/contact",
-"https://dustyforcolorado.com/donate",
-"https://dustyforcolorado.com/news",
-"https://dustyforcolorado.com/privacy-policy",
-"https://dustyforcolorado.com/terms-of-service",
-"https://facebook.com/ColoradoChamber?__cft__%5B0%5D=AZaRO-602WxLKngpCw8eSEUDoRhs5xWQdFx07d43xxoearz7BwZ3lI8-y9uq7kJVormhlGUZjawR866LM-r7Yvyv8_S-3OSd-dLPt-1XrvKYCtOa4Vjtqe18IjVu_Zot_JmlFd6fxL0Ygn1GqOio3SKEIDtH9tNw-VIRjRF8N0JhnwokPMcpramVY0VtyQkYVxpHhSHDKvgYujj0kyvf5NKKHoMZVVnHVmK2Ylm1T9DQPw&__tn__=-%5DK-y-R",
-"https://facebook.com/HealthierColorado?__cft__%5B0%5D=AZWN1THqQ28fEQwR-pLLjedHwvuSFELOqPofcSGywVjhTW6FX2ETpwKKrMmbX3fFH_w9LiO6CpsMxXlfdVCBKeTqMqAvmHc61JBKxTbY13fUrTNLj7dH_uwswfHdQ7U9Yjm6Xl5Qq1FJstO3y2FShMhrzlWvdEGx77kI88EpD4yBbqVnWq9F2vfM0zk8BkVPC--_B32Fh90d-BVMqy0xA3q8a7iZCsNg_Pd89xWfywSpyg&__tn__=-%5DK-R",
-"https://facebook.com/comedsoc",
-"https://facebook.com/people/Representative-Dusty-A-Johnson/61568883715846",
-"https://facebook.com/profile.php?id=61554654356882&__cft__%5B0%5D=AZWFvpTBMwviEDPCrQABA33g1TAxboCQs0R7Wcx_ah6OoxUOldhl6uMj4fAYJCz33R_icY0mB-DVhq0CUEcFZgZsEMS8SGdxKG7NFhzfwsWKyP0vOrS2NRhYu77T_1dqwk3VCsxrBs5Q_tFhjjjjoA8W3ZVnnhV2uvqPRdAq_H79pkzolS1dzEzAIdX5fk3avTWfLJBSkgr92WBJj9_qCNLKuIRxfQLagNhRPSbUA3tiHA&__tn__=-%5DK%2AF",
-"https://nfib.com/news/press-release/18-colorado-incumbent-lawmakers-earn-crucial-small-business-endorsement-ahead-of-general-election"
+{
+"text": "About",
+"href": "https://www.dustyforcolorado.com/about"
+},
+{
+"text": "Awards & Support",
+"href": "https://www.dustyforcolorado.com/awards---support"
+},
+{
+"text": "Colorado Chamber of Commerce",
+"href": "https://www.facebook.com/ColoradoChamber?__cft__%5B0%5D=AZaRO-602WxLKngpCw8eSEUDoRhs5xWQdFx07d43xxoearz7BwZ3lI8-y9uq7kJVormhlGUZjawR866LM-r7Yvyv8_S-3OSd-dLPt-1XrvKYCtOa4Vjtqe18IjVu_Zot_JmlFd6fxL0Ygn1GqOio3SKEIDtH9tNw-VIRjRF8N0JhnwokPMcpramVY0VtyQkYVxpHhSHDKvgYujj0kyvf5NKKHoMZVVnHVmK2Ylm1T9DQPw&__tn__=-%5DK-y-R"
+},
+{
+"text": "Colorado Medical Society",
+"href": "https://www.facebook.com/comedsoc"
+},
+{
+"text": "Community Resources",
+"href": "https://www.dustyforcolorado.com/community-resources"
+},
+{
+"text": "Contact",
+"href": "https://www.dustyforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.dustyforcolorado.com/donate"
+},
+{
+"text": "Dusty Johnson",
+"href": "https://www.facebook.com/profile.php?id=61554654356882&__cft__%5B0%5D=AZWFvpTBMwviEDPCrQABA33g1TAxboCQs0R7Wcx_ah6OoxUOldhl6uMj4fAYJCz33R_icY0mB-DVhq0CUEcFZgZsEMS8SGdxKG7NFhzfwsWKyP0vOrS2NRhYu77T_1dqwk3VCsxrBs5Q_tFhjjjjoA8W3ZVnnhV2uvqPRdAq_H79pkzolS1dzEzAIdX5fk3avTWfLJBSkgr92WBJj9_qCNLKuIRxfQLagNhRPSbUA3tiHA&__tn__=-%5DK%2AF"
+},
+{
+"text": "Healthier Colorado",
+"href": "https://www.facebook.com/HealthierColorado?__cft__%5B0%5D=AZWN1THqQ28fEQwR-pLLjedHwvuSFELOqPofcSGywVjhTW6FX2ETpwKKrMmbX3fFH_w9LiO6CpsMxXlfdVCBKeTqMqAvmHc61JBKxTbY13fUrTNLj7dH_uwswfHdQ7U9Yjm6Xl5Qq1FJstO3y2FShMhrzlWvdEGx77kI88EpD4yBbqVnWq9F2vfM0zk8BkVPC--_B32Fh90d-BVMqy0xA3q8a7iZCsNg_Pd89xWfywSpyg&__tn__=-%5DK-R"
+},
+{
+"text": "Home",
+"href": "https://www.dustyforcolorado.com/"
+},
+{
+"text": "News",
+"href": "https://www.dustyforcolorado.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.dustyforcolorado.com/privacy-policy"
+},
+{
+"text": "Read the Press Release",
+"href": "https://www.nfib.com/news/press-release/18-colorado-incumbent-lawmakers-earn-crucial-small-business-endorsement-ahead-of-general-election/"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.dustyforcolorado.com/terms-of-service"
+},
+{
+"text": "[image: The logo for dusty johnson house district 63 is blue and red.]",
+"href": "https://www.dustyforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Representative-Dusty-A-Johnson/61568883715846/"
+}
 ]

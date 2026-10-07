@@ -1,16 +1,70 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/datacenter/impact.html",
-"https://andycantwin.com/datacenter/raleigh.html",
-"https://andycantwin.com/datacenter/the-fix.html",
-"https://andycantwin.com/datacenter/the-thing.html",
-"https://andycantwin.com/datacenter/the-vote.html",
-"https://andycantwin.com/datacenter/who-pays.html",
-"https://andycantwin.com/guides",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/volunteer.html",
-"https://andycantwin.com/workshop",
-"https://facebook.com/andycantwin",
-"https://instagram.com/andycantwin",
-"https://secure.actblue.com/donate/andybowline"
+{
+"text": "Bored?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "Tinkering",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "stop 1 · inside the building →",
+"href": "https://andycantwin.com/datacenter/the-thing.html"
+},
+{
+"text": "stop 1 · what these things actually are, and how big →",
+"href": "https://andycantwin.com/datacenter/the-thing.html"
+},
+{
+"text": "stop 2 · what it's like next door →",
+"href": "https://andycantwin.com/datacenter/impact.html"
+},
+{
+"text": "stop 3 · who pays either way →",
+"href": "https://andycantwin.com/datacenter/who-pays.html"
+},
+{
+"text": "stop 4 · the rooms where it happened →",
+"href": "https://andycantwin.com/datacenter/the-vote.html"
+},
+{
+"text": "stop 5 · the stalled bill →",
+"href": "https://andycantwin.com/datacenter/raleigh.html#sb730"
+},
+{
+"text": "stop 5 · what the state gave away →",
+"href": "https://andycantwin.com/datacenter/raleigh.html"
+},
+{
+"text": "stop 6 · the plan →",
+"href": "https://andycantwin.com/datacenter/the-fix.html"
+},
+{
+"text": "← back to the guides",
+"href": "https://andycantwin.com/guides/"
+}
 ]

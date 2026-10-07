@@ -1,17 +1,66 @@
 [
-"https://eliottrodriguez.com/endorsements",
-"https://eliottrodriguez.com/issues",
-"https://eliottrodriguez.com/privacy-policy",
-"https://facebook.com/ERodForCongress",
-"https://instagram.com/erodforcongress",
-"https://secure.actblue.com/donate/eliottrodriguezforcongress",
-"https://secure.actblue.com/donate/eliottrodriguezforcongress?amount=10",
-"https://secure.actblue.com/donate/eliottrodriguezforcongress?amount=1000",
-"https://secure.actblue.com/donate/eliottrodriguezforcongress?amount=27",
-"https://secure.actblue.com/donate/eliottrodriguezforcongress?amount=3500",
-"https://secure.actblue.com/donate/eliottrodriguezforcongress?amount=500",
-"https://secure.actblue.com/donate/eliottrodriguezforcongress?amount=7000",
-"https://tiktok.com/@erodforcongress",
-"https://x.com/erodforcongress",
-"https://youtube.com/watch?v=4uqMZu-jXk8"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/eliottrodriguezforcongress?amount=1000"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/eliottrodriguezforcongress?amount=10"
+},
+{
+"text": "$27",
+"href": "https://secure.actblue.com/donate/eliottrodriguezforcongress?amount=27"
+},
+{
+"text": "$3,500",
+"href": "https://secure.actblue.com/donate/eliottrodriguezforcongress?amount=3500"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/eliottrodriguezforcongress?amount=500"
+},
+{
+"text": "$7,000",
+"href": "https://secure.actblue.com/donate/eliottrodriguezforcongress?amount=7000"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/eliottrodriguezforcongress"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/eliottrodriguezforcongress"
+},
+{
+"text": "Endorsements",
+"href": "https://eliottrodriguez.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ERodForCongress"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/erodforcongress"
+},
+{
+"text": "Issues",
+"href": "https://eliottrodriguez.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.youtube.com/watch?v=4uqMZu-jXk8"
+},
+{
+"text": "Privacy Policy",
+"href": "https://eliottrodriguez.com/privacy-policy/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@erodforcongress"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/erodforcongress"
+}
 ]

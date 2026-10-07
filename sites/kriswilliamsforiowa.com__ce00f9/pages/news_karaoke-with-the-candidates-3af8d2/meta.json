@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.kriswilliamsforiowa.com/news/karaoke-with-the-candidates",
- "paid_for_by": "Paid for by Kris Williams for Iowa",
+ "fingerprint": "c486e18056e5365c1fd1b0db1161310b8a6fb5f1",
+ "format": 3,
+ "paid_for_by": "Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app",
  "title": "Karaoke with the Candidates!",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

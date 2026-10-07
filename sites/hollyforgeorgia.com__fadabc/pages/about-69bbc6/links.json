@@ -1,14 +1,58 @@
 [
-"http://bmigeorgia.org/",
-"http://georgia-africa.com/",
-"https://blackmanlab.org/",
-"https://gablackcaucus.org/",
-"https://gcdd.org/archived-press-releases/the-georgia-council-on-developmental-disabilities-announces-virtual-advocacy-days-during-the-2022-georgia-legislative-session",
-"https://hollyforgeorgia.com/",
-"https://hollyforgeorgia.com/about",
-"https://hollyforgeorgia.com/contact",
-"https://hollyforgeorgia.com/get-social",
-"https://hollyforgeorgia.com/news",
-"https://hollyforgeorgia.com/stand-on-principle",
-"https://secure.actblue.com/donate/el116"
+{
+"text": "About",
+"href": "https://www.hollyforgeorgia.com/about"
+},
+{
+"text": "Black Male Initiative Georgia",
+"href": "http://bmigeorgia.org"
+},
+{
+"text": "Contact",
+"href": "https://www.hollyforgeorgia.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/el116"
+},
+{
+"text": "EL-MAHDI HOLLY",
+"href": "https://www.hollyforgeorgia.com"
+},
+{
+"text": "Georgia Africa Legislative Caucus",
+"href": "http://georgia-africa.com"
+},
+{
+"text": "Georgia Council on Developmental Disabilities",
+"href": "https://gcdd.org/archived-press-releases/the-georgia-council-on-developmental-disabilities-announces-virtual-advocacy-days-during-the-2022-georgia-legislative-session"
+},
+{
+"text": "Georgia Legislative Black Caucus",
+"href": "https://gablackcaucus.org/"
+},
+{
+"text": "Get Social",
+"href": "https://www.hollyforgeorgia.com/get-social"
+},
+{
+"text": "Home",
+"href": "https://www.hollyforgeorgia.com"
+},
+{
+"text": "Stand On Principle",
+"href": "https://www.hollyforgeorgia.com/stand-on-principle"
+},
+{
+"text": "Stay Active",
+"href": "https://www.hollyforgeorgia.com/news"
+},
+{
+"text": "The Black Man Lab",
+"href": "https://blackmanlab.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.hollyforgeorgia.com"
+}
 ]

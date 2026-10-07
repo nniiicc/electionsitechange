@@ -1,6 +1,5 @@
-California School Employees Association Endorses Dr.
-Richard Pan for Congress in CA-06
-The California School Employees Association (CSEA), representing more than 250,000 classified school employees across California, has endorsed Dr.
+0 Skip to Content About Issues News Endorsements Store Get Involved Media Donate Open Menu Close Menu About Issues News Endorsements Store Get Involved Media Donate Open Menu Close Menu About Issues News Endorsements Store Get Involved Media Donate California School Employees Association Endorses Dr.
+Richard Pan for Congress in CA-06 Feb 24 Written By Daisy Stein The California School Employees Association (CSEA), representing more than 250,000 classified school employees across California, has endorsed Dr.
 Richard Pan for Congress in California’s 6th Congressional District.
 CSEA members include paraprofessionals, bus drivers, custodians, food service workers, administrative staff, and other classified employees who keep K-12 schools and community colleges running every day.
 “The California School Employees Association and our quarter million members proudly endorse Dr.
@@ -18,14 +17,19 @@ He has also been a consistent advocate for collective bargaining rights and for 
 “School employees are essential partners in keeping students safe and helping them succeed,” said Dr.
 Richard Pan.
 “As a pediatrician and legislator, I’ve worked to protect children’s health and support the people who serve them every day.
-In Congress, I will continue fighting for strong public schools, fair treatment for workers, and federal investments that strengthen our communities.”
-CSEA joins a growing coalition of labor unions and community leaders supporting Dr.
+In Congress, I will continue fighting for strong public schools, fair treatment for workers, and federal investments that strengthen our communities.” CSEA joins a growing coalition of labor unions and community leaders supporting Dr.
 Pan’s campaign in CA-06.
-##
-Dr.
+## Dr.
 Richard Pan is a pediatrician, educator, small business owner and Former State Senator dedicated to keeping California’s families healthy and safe.
 In the State Senate, he championed landmark child and school safety laws and lowered the uninsured rate among children by two-thirds – taking on RFK Jr. twice after preventable disease outbreaks.
 A Harvard-trained pediatrician and UC Davis professor, he has cared for underserved children, trained future doctors and co-founded Healthy Kids Healthy Future, providing health coverage to more than 65,000 kids.
 Known for flipping his state legislative seat from Red to Blue, Dr.
 Pan is a proven fighter who brings people together to get results — expanding access to health care, strengthening schools, and improving public safety.
 A husband, father, and small business owner, he understands the challenges families face and is running for Congress to make government work for people again, so every child and family in California has the chance to succeed.
+Daisy Stein Previous Previous Statement from Dr.
+Richard Pan on the Surgeon General Appointment Next Next Equality California Endorses Dr.
+Richard Pan for Congress in CA-06 ABOUT ‍ ‍ ISSUES ‍ ‍ NEWS ‍ ‍ ENDORSEMENTS ‍ GET INVOLVED ‍ PAID FOR BY Dr.
+Richard Pan for Congress Prefer to donate by check?
+2701 Del Paso Road, Ste 130-159 Sacramento CA 95835 © Copyright #.
+All Rights Reserved.
+SMS Opt-In | Terms & Conditions | Privacy Policy | Contact Us

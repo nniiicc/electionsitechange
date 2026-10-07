@@ -1,46 +1,8 @@
-Endorsements
-Michael MacDonald is building a broad coalition of working people, community leaders, educators, public safety professionals, local organizations, and neighbors who may not agree on everything — but agree that it’s time for new leadership and a better future for Ventura County.
-Please note: Our endorsements list is being updated regularly as new community leaders, organizations, and supporters join the campaign.
-Supported by the California Association of Realtors
-ELECTED OFFICIALS
-Bill McReynolds, Councilmember, City of Ventura
-Liz Campos, Councilmember, City of Ventura
-Lorrie Brown, Former Councilmember, City of Ventura
-Joe Schroeder, Former Mayor, City of Ventura
-Jim Friedman, Former Mayor, City of Ventura
-Mary Ann Krause, Former Mayor, City of Santa Paula
-Cynthia Salas, Trustee, Oxnard School District
-COMMUNITY LEADERS
-Amber Thompson, California Assembly Delegate, District 38
-KC Rodriguez, Community Advocate
-Shawn Terris, Past Board Member, Veterans United for Truth, Inc.
-Celia Sandhya Daniels, Ventura County Workforce Development Board
-Steve Somann, Diversity Collective Ventura County
-Joseph Summers, President, Stonewall Democratic Club
-Celeste Weingardt, Former Chair, National Women's Political Caucus
-Marie Lakin, Community & Arts Advocate
-Deborah Myer-Morris, Retired Attorney; Disability Policy Advocate
-Aisha Thompson, Elected City Clerk, City of Inglewood
-Tanner Shelton, City Planner & Ventura Parks & Recreation Commissioner
-Nikki Newsome, City Clerk, City of South Pasadena
-Betsy Chess, Ventura County Community Leader
-Lisa Burton, Community & Environmental Activist
-CAMPAIGN FRIENDS
-Dr.
-Lisa Klein, Karin Quimby, Jo Ann Block, Steve & Kelly Tyburski
-Michael McKeon, Nowlin Haltom, Brian Zeidan
-Brian Bartlett, Arthur Valenzuela, Dylan Wilde
-Brad Hudson, Cecelia Moreira, Michelle Rosenblum
-Sally Hibbits, AJ Homes, Patricia & Steve Logan
-Jacqueline & Ed Lindsay, Cerise Stadther, Megan Behne
-Courtney & Adam Tobin, Meghan Cohen, Elizabeth Aparicio
-Ricardo Reyes, Judee Hauer, Chuck Berry
-Brian MacDonald, Tim Romero, Barbara Coupe
-Patty Overley, Liz Holliday, Bill Haydon, Johnny Chung, Autumn Wood
-Dr.
+top of page MENU MENU Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Endorsements Michael MacDonald is building a broad coalition of working people, community leaders, educators, public safety professionals, local organizations, and neighbors who may not agree on everything — but agree that it’s time for new leadership and a better future for Ventura County. ​ Please note: Our endorsements list is being updated regularly as new community leaders, organizations, and supporters join the campaign. ​ ​ ​ ​ ​ ​ ​ ​ ​ Supported by the California Association of Realtors ​ ELECTED OFFICIALS Bill McReynolds, Councilmember, City of Ventura Liz Campos, Councilmember, City of Ventura Lorrie Brown, Former Councilmember, City of Ventura Joe Schroeder, Former Mayor, City of Ventura Jim Friedman, Former Mayor, City of Ventura Mary Ann Krause, Former Mayor, City of Santa Paula Cynthia Salas, Trustee, Oxnard School District ​ COMMUNITY LEADERS Amber Thompson, California Assembly Delegate, District 38 KC Rodriguez, Community Advocate Shawn Terris, Past Board Member, Veterans United for Truth, Inc.
+Celia Sandhya Daniels, Ventura County Workforce Development Board Steve Somann, Diversity Collective Ventura County Joseph Summers, President, Stonewall Democratic Club Celeste Weingardt, Former Chair, National Women's Political Caucus Marie Lakin, Community & Arts Advocate Deborah Myer-Morris, Retired Attorney; Disability Policy Advocate Aisha Thompson, Elected City Clerk, City of Inglewood Tanner Shelton, City Planner & Ventura Parks & Recreation Commissioner Nikki Newsome, City Clerk, City of South Pasadena Betsy Chess, Ventura County Community Leader Lisa Burton, Community & Environmental Activist ​ CAMPAIGN FRIENDS Dr.
+Lisa Klein, Karin Quimby, Jo Ann Block, Steve & Kelly Tyburski Michael McKeon, Nowlin Haltom, Brian Zeidan Brian Bartlett, Arthur Valenzuela, Dylan Wilde Brad Hudson, Cecelia Moreira, Michelle Rosenblum Sally Hibbits, AJ Homes, Patricia & Steve Logan Jacqueline & Ed Lindsay, Cerise Stadther, Megan Behne Courtney & Adam Tobin, Meghan Cohen, Elizabeth Aparicio Ricardo Reyes, Judee Hauer, Chuck Berry Brian MacDonald, Tim Romero, Barbara Coupe Patty Overley, Liz Holliday, Bill Haydon, Johnny Chung, Autumn Wood Dr.
 Steven Berrett, Gene Rubin, Dr.
-Alyx MacTernan Rivera & CC Rivera
-Ruth Contreras
-Add Your Endorsement
-Join our growing grassroots movement by adding your endorsement.
+Alyx MacTernan Rivera & CC Rivera Ruth Contreras Add Your Endorsement Join our growing grassroots movement by adding your endorsement.
 Michael MacDonald is building a campaign focused on practical solutions, accountable governance, and delivering real results for Assembly District 38.
+First name Last name Email Address Title Company/Organization name Submit Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Michael MacDonald for Assembly District 38 2674 E.
+Main Street, Suite 316 Ventura, CA 93003 info@michaelmacdonaldforassembly.com Paid for by Michael MacDonald for Assembly 2026 | FPPC ID#1488242 bottom of page

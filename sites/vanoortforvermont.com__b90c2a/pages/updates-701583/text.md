@@ -1,9 +1,6 @@
-Local schools and school choice
-I’ve been knocking doors over the last couple weeks and
-Farmers and food shelves
-I visited the BROC Community Action food shelf in Rutland
-Borscht recipe
-A little while ago Dayna Kurtz invited me to a
-VPIRG endorsement
-I've received my first endorsement!
-VPIRG Votes endorses candidates who
+Skip to content Jessica Van Oort for State Representative Home Get Involved About Events Updates Home Get Involved About Events Updates Updates Local schools and school choice Local schools and school choice October 5, 2026 I’ve been knocking doors over the last couple weeks and Continue reading...
+Local schools and school choice Farmers and food shelves Farmers and food shelves September 28, 2026 I visited the BROC Community Action food shelf in Rutland Continue reading...
+Farmers and food shelves Borscht recipe Borscht recipe September 3, 2026 A little while ago Dayna Kurtz invited me to a Continue reading...
+Borscht recipe VPIRG endorsement VPIRG endorsement August 21, 2026 I've received my first endorsement!
+VPIRG Votes endorses candidates who Continue reading...
+VPIRG endorsement Jessica Van Oort for State Representative Home Get Involved About Events Updates © # All Rights Reserved

@@ -1,5 +1,4 @@
-MEET NATHAN MAGSIG
-Nathan Magsig is a member of the Fresno County Board of Supervisors and former Mayor of Clovis.
+0 Skip to Content Volunteer Endorsements District Info Media Contact Donate Open Menu Close Menu Donate Volunteer Endorsements District Info Media Contact Open Menu Close Menu Volunteer Endorsements District Info Media Contact Donate MEET NATHAN MAGSIG Nathan Magsig is a member of the Fresno County Board of Supervisors and former Mayor of Clovis.
 A Fresno County native and the son of a local pastor, his parents raised and instilled in him the value of service to others.
 Committed to lifelong learning, Nathan has a Master of Science degree in Criminology and a Master of Business Administration degree from California State University Fresno.
 He is also a licensed general contractor, licensed lead inspector, and energy management and building performance specialist.
@@ -19,7 +18,8 @@ OIL.
 AGRICULTURE.
 PUBLIC SAFETY.
 WILDFIRE REDUCTION.
-COMMON SENSE FOR CALIFORNIA
-Please Make Check Payable to:
-Nathan Magsig for State Senate 2026
-5132 N Palm Ave #227 Fresno, CA 93704
+COMMON SENSE FOR CALIFORNIA Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for Updates Sign up with your email address to receive news and updates about Nathan’s campaign!
+Email Address Sign Up Thank you!
+Please Make Check Payable to: Nathan Magsig for State Senate 2026 5132 N Palm Ave #227 Fresno, CA 93704 Paid for by Nathan Magsig for State Senate 2026 Privacy Policy

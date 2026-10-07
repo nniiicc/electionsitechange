@@ -1,3 +1,3 @@
-It was a great night at Roger’s Meet & Greet.
+0 Skip to Content Home Sample Ballot Endorsements Meet & Greet Speech About Roger Contact Open Menu Close Menu Home Sample Ballot Endorsements Meet & Greet Speech About Roger Contact Open Menu Close Menu Home Sample Ballot Endorsements Meet & Greet Speech About Roger Contact It was a great night at Roger’s Meet & Greet.
 In case you missed it, listen to Roger’s speech!
-View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize
+View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize rogerckoch.com © # Paid for by Roger Koch for Missouri State Representative, Merrita Bailey, Treasurer rogerkoch.staterepresentative@gmail.com

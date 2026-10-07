@@ -1,7 +1,15 @@
 {
  "description": "Dave Rutigliano for Trumbull State Representative",
  "final_url": "https://www.rutiglianofortrumbull.com/in-the-news/this-years-major-public-acts",
- "paid_for_by": null,
+ "fingerprint": "20d0d8ff7ee34f0d133946d51e51aca80b537288",
+ "format": 3,
+ "paid_for_by": "",
  "title": "This years major public acts - Dave Rutigliano for Trumbull State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2018",
+  "2020",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

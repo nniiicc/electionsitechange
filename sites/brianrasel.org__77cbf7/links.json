@@ -1,5 +1,14 @@
 [
-"http://html5up.net/",
-"https://brianrasel.org/privacy.php",
-"https://secure.anedot.com/friends-of-brian-rasel/donatenow"
+{
+"text": "Click Here To Donate Now",
+"href": "https://secure.anedot.com/friends-of-brian-rasel/donatenow"
+},
+{
+"text": "HTML5 UP",
+"href": "http://html5up.net"
+},
+{
+"text": "Privacy Policy",
+"href": "https://brianrasel.org/privacy.php"
+}
 ]

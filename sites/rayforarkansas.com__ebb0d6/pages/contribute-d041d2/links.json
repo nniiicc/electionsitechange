@@ -1,6 +1,26 @@
 [
-"http://rayforarkansas.com/",
-"https://rayforarkansas.com/",
-"https://rayforarkansas.com/biography/about-david-ray",
-"https://rayforarkansas.com/contribute"
+{
+"text": "Contribute",
+"href": "https://rayforarkansas.com/contribute/"
+},
+{
+"text": "Endorsements",
+"href": "http://rayforarkansas.com/#endorsements"
+},
+{
+"text": "Home",
+"href": "https://rayforarkansas.com"
+},
+{
+"text": "Issues",
+"href": "http://rayforarkansas.com/#issues"
+},
+{
+"text": "Meet David Ray",
+"href": "https://rayforarkansas.com/biography/about-david-ray/"
+},
+{
+"text": "[image: Site Logo]",
+"href": "https://rayforarkansas.com/"
+}
 ]

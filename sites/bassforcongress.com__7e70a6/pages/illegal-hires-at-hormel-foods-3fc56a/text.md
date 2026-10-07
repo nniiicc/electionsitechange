@@ -1,6 +1,10 @@
-I Graduated from College, Walked Into Hormel, and Was Told There Were No Jobs. 45 Undocumented Workers Didn’t Show Up the Next Monday.
-By Tyler Bass | Bass for Congress | Vote August 11th — Republican Primary
-I want to tell you a personal story.
+Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin Illegal Hires at Hormel Foods June 2, 2026 No Comments I Graduated from College, Walked Into Hormel, and Was Told There Were No Jobs.
+45 Undocumented Workers Didn’t Show Up the Next Monday.
+By Tyler Bass | Bass for Congress | Vote August 11th — Republican Primary I want to tell you a personal story.
 Not a policy story.
 Not a campaign talking point.
 A real story from a real moment in my life that changed the way I see this country and what it owes its own people.
@@ -33,8 +37,7 @@ Show up.
 Look someone in the eye.
 Let them see that you’re real.
 One of the places I went was Hormel Foods in Austin, Minnesota.
-The Smile, the “No,” and the Resume That Disappeared
-I walked into the HR department at Hormel and asked if they were hiring.
+The Smile, the “No,” and the Resume That Disappeared I walked into the HR department at Hormel and asked if they were hiring.
 The person behind the desk smiled at me.
 Kindly.
 Professionally.
@@ -67,14 +70,12 @@ Not at Quality Pork Processors next door.
 Period.
 The sheriff herself said publicly that she had sat down with ICE and been told directly: “We won’t do a raid.
 Period.” She called it “very frustrating” that local law enforcement was powerless to act even when undocumented workers were, in her words, “frequently discovered” at those facilities.
-So here is what I knew at that moment, as a 22-year-old college graduate who had just been smiled at and told there were no jobs at Hormel:
-There were jobs.
+So here is what I knew at that moment, as a 22-year-old college graduate who had just been smiled at and told there were no jobs at Hormel: There were jobs.
 There had been jobs the whole time.
 At least 45 of them.
 Probably more.
 I just wasn’t the kind of applicant those jobs were being held for.
-What This Means — Not Just for Me, But for Every American Who Got That Same Smile
-I want to be very careful here about how I tell this part of the story, because it is easy to let the anger of it overshadow the actual point.
+What This Means — Not Just for Me, But for Every American Who Got That Same Smile I want to be very careful here about how I tell this part of the story, because it is easy to let the anger of it overshadow the actual point.
 The actual point is not about me.
 I figured it out.
 I built my own path.
@@ -88,8 +89,7 @@ It belongs to the single parent buying baby formula on WIC because the manufactu
 That is the real cost.
 Not just the paycheck.
 The entire downstream cascade of what happens to families and communities when big corporations decide that their profit margins matter more than the people who live in the towns where their plants sit.
-How Big Corporations Turned a Good-Paying Industry Into an Exploitation Engine
-Here is something most people don’t know, and that the corporations involved would very much prefer you didn’t think about too carefully.
+How Big Corporations Turned a Good-Paying Industry Into an Exploitation Engine Here is something most people don’t know, and that the corporations involved would very much prefer you didn’t think about too carefully.
 Meatpacking used to be a good job.
 Not a glamorous job.
 Not a clean job.
@@ -121,8 +121,7 @@ Meanwhile, in Austin, Minnesota — and in hundreds of towns like it across the 
 The plants that once employed their parents at union wages now employed people who had arrived from across the world, managed by a corporate structure that had deliberately designed a workforce incapable of demanding anything better.
 That is what I walked into in 2010.
 And it is still happening today.
-The Math That Corporations Don’t Want You to Do
-Let me give you one more number to hold onto.
+The Math That Corporations Don’t Want You to Do Let me give you one more number to hold onto.
 When ICE conducted Operation Wagon Train in December 2006 — the largest single workplace immigration enforcement action in American history, arresting 1,300 workers at six Swift meatpacking plants including one in Minnesota — something interesting happened at those plants afterward.
 They had to raise wages by about 8 percent just to stay open.
 Eight percent.
@@ -137,11 +136,9 @@ The use of undocumented and vulnerable labor was never about filling jobs Americ
 It was about filling jobs Americans wouldn’t do for what the company wanted to pay.
 It was, at its core, a wage suppression strategy dressed up as a labor shortage.
 And every American who walked into a meatpacking plant HR office, dropped off a resume, heard “we’re not hiring,” and drove home — they paid the price for that strategy with years of their lives.
-The Accountability We Deserve
-I am running for Congress because I believe that corporations have operated for too long without accountability for the labor decisions they’ve made at the expense of American workers.
+The Accountability We Deserve I am running for Congress because I believe that corporations have operated for too long without accountability for the labor decisions they’ve made at the expense of American workers.
 And I am running as a Republican because I believe the solution is not more government programs for the Americans who got pushed out — it is making it impossible for corporations to push them out in the first place.
-Here is what I will fight for as your representative in CD3:
-American workers first.
+Here is what I will fight for as your representative in CD3: American workers first.
 Full stop.
 Every job in this country should be filled by an American citizen or legal permanent resident before any other option is considered.
 Not as a preference.
@@ -169,8 +166,7 @@ Meatpacking companies posted record profits during the COVID years even as their
 That is not the deal American workers signed up for.
 Pay us what the work is worth.
 Not what you can get away with paying people who are afraid to ask for more.
-A Word to the Young Person Filling Out Applications Right Now
-I want to close this by talking directly to whoever is out there today in the position I was in fifteen years ago.
+A Word to the Young Person Filling Out Applications Right Now I want to close this by talking directly to whoever is out there today in the position I was in fifteen years ago.
 You graduated.
 You worked hard.
 You did everything you were supposed to do.
@@ -191,5 +187,22 @@ The dad with four kids deserved that job.
 Every American who walked through that door and heard “no” while 45 empty workstations waited for people who would never show up on a Monday morning — every single one of them deserved better.
 I’m running for Congress because I intend to make sure the next generation gets it.
 Vote Bass for Congress — August 11th Republican Primary.
-Learn more at bassforcongress.com
-Paid for by Bass for Congress
+Learn more at bassforcongress.com Paid for by Bass for Congress Share: Facebook Twitter Pinterest LinkedIn Tyler Bass Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Social Media Facebook-f Youtube Twitter Instagram Most Popular Voter ID October 2, 2026 Americans Should Always Come First October 2, 2026 “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” October 1, 2026 Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+September 6, 2026 Get The Latest Updates Subscribe To Our Weekly Newsletter No spam, notifications only about news & updates.
+Email Address Phone # Name subscribe Categories Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Prev Previous 180 Visa Types, One Broken System: Next H1-B Fraud in Minnesota, Caught Red Handed Next On Key Related Posts Voter ID Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Americans Should Always Come First Who Stands for Lizbeth Medina?
+Lizbeth Medina was 16, a cheerleader at Edna High School in Texas.
+In December 2023 she was supposed to perform “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” Where Is the Money Going?
+What I Saw Outside Autism Sibs Universe By Ty Bass, Republican candidate for Congress, Minnesota’s 3rd District First, I want Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+What I Saw Inside Autism Sibs Universe — And Why I’m Calling for Accountability I don’t usually talk about my contracting work on the campaign Let's work together to tackle the fraud!
+Paid for by Tyler Bass For Congress Menu Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved

@@ -1,13 +1,50 @@
 [
-"https://cart/",
-"https://docs.google.com/forms/d/e/1FAIpQLSd11kkloeBoKHazlr7LKQWJZ1BNk-qsBYxgLR3W6ypQ8dUPmA/viewform?usp=header",
-"https://gardner-crm-1064855611132.us-central1.run.app/",
-"https://gardner4house12b.com/",
-"https://gardner4house12b.com/Home",
-"https://gardner4house12b.com/advisory-board",
-"https://gardner4house12b.com/contact-us",
-"https://gardner4house12b.com/donate",
-"https://gardner4house12b.com/donate-orig",
-"https://gardner4house12b.com/issues",
-"https://gardner4house12b.com/volunteer"
+{
+"text": "Advise",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd11kkloeBoKHazlr7LKQWJZ1BNk-qsBYxgLR3W6ypQ8dUPmA/viewform?usp=header"
+},
+{
+"text": "Advise",
+"href": "https://gardner4house12b.com/advisory-board"
+},
+{
+"text": "Contact",
+"href": "https://gardner4house12b.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://gardner4house12b.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://gardner4house12b.com/donate-orig"
+},
+{
+"text": "FAQs",
+"href": "https://gardner4house12b.com/issues"
+},
+{
+"text": "Home",
+"href": "https://gardner4house12b.com/Home"
+},
+{
+"text": "Viewing on Mobile? Trouble Scrolling? Click Here",
+"href": "https://gardner-crm-1064855611132.us-central1.run.app/"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd11kkloeBoKHazlr7LKQWJZ1BNk-qsBYxgLR3W6ypQ8dUPmA/viewform?usp=header"
+},
+{
+"text": "Volunteer",
+"href": "https://gardner4house12b.com/volunteer"
+},
+{
+"text": "[image: Michael Gardner for District 12B]",
+"href": "https://gardner4house12b.com"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+}
 ]

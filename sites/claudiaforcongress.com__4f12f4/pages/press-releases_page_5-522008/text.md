@@ -1,6 +1,2 @@
-ALERT: Pataki Endorses Claudia Tenney for Congress
-Brindisi Dodges 4 Debates, Hides From Voters in NY-22
-NEW TENNEY AD Reveals Brindisi’s Lies & Broken Promises
-BREAKING: Eric Trump & Claudia Tenney Host NY-22 Tele-Townhall
-Brindisi Parrots Pelosi, Biden to Block President Trump’s Nominee
-Tenney: Trump’s Duty Fill SCOTUS Vacancy Without Delay
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Press Releases Press Releases Opinion Editorials Press Releases Opinion Editorials Press Releases ALERT: Pataki Endorses Claudia Tenney for Congress September 24 2020 Learn More Share Brindisi Dodges 4 Debates, Hides From Voters in NY-22 September 24 2020 Learn More Share NEW TENNEY AD Reveals Brindisi’s Lies & Broken Promises September 24 2020 Learn More Share BREAKING: Eric Trump & Claudia Tenney Host NY-22 Tele-Townhall September 23 2020 Learn More Share Brindisi Parrots Pelosi, Biden to Block President Trump’s Nominee September 21 2020 Learn More Share Tenney: Trump’s Duty Fill SCOTUS Vacancy Without Delay September 21 2020 Learn More Share « 3 4 5 6 7 » Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

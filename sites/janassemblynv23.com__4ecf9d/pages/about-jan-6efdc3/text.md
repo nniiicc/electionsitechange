@@ -1,4 +1,4 @@
-Jan Allen Aspelund is running to represent the people of Assembly District 23!
+Home Meet Jan Photos Issues News Volunteer Contribute Contact Jan Allen Aspelund is running to represent the people of Assembly District 23!
 Born and raised in a small town in North Dakota (Enderlin) where he lived with his parents, 3 brothers and 1 sister.
 Married in 1983 to Denise and living with Norman, Nikki and Auggie (dogs).
 Moved to Henderson in 2004 after being transferred by his company that he worked for in Minnesota for 21 years.
@@ -12,3 +12,4 @@ Golf chair from the (NPFMA) Nevada Professional Facility Managers for the annual
 Charities include: Nevada Childhood Cancer, Opportunity Village, Lutheran Social Services of Nevada, Assitance League of Las Vegas and Shriners Childrens Hospital Golf Tournament.
 Hobbies include golf, fishing, biking and walking.
 Avid sports fan of the Las Vegas Raiders and Vegas Golden Knights!
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jan Aspelund Powered by CampaignPartner.com - Political Websites Home Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,7 +1,9 @@
 {
  "description": "Bobbi Boudman in the news, pictures, videos, letters to the editor, ....",
  "final_url": "https://www.voteboudman.com/media",
- "paid_for_by": null,
+ "fingerprint": "465906fc34e4976d92cf84ce7f5e29fedd9cf6d1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Media | VoteBoudman",
  "years_mentioned": [
   "2026"

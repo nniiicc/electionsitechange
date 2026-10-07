@@ -1,46 +1,186 @@
 [
-"https://bsky.app/profile/scottwiener.bsky.social",
-"https://drive.google.com/file/d/173XBoE54-4RxoIY1Cqzdzs7m2uihhM1F/view?usp=drive_link",
-"https://drive.google.com/file/d/1Wi3sp-yYcd2PpJ_wnPVXGF4qm0brdRBv/view?usp=drive_link",
-"https://drive.google.com/file/d/1wax149rIbKdOeUHXerL3bGyycGoIeQMG/view",
-"https://drive.google.com/file/d/1wax149rIbKdOeUHXerL3bGyycGoIeQMG/view?usp=drive_link",
-"https://drive.google.com/file/d/1xduKn1dVN2Qy6AM7sBScKGZ_dAwqS0B6/view?usp=drive_link",
-"https://dropsitenews.com/p/aipac-connie-chan-san-francisco-primary",
-"https://facebook.com/ScottWiener2",
-"https://instagram.com/scott_wiener",
-"https://kqed.org/news/11844943/measure-rr-caltrain-sales-tax-measure-results",
-"https://kqed.org/news/11912421/sf-supervisors-vote-to-keep-cars-off-jfk-drive-in-golden-gate-park",
-"https://kqed.org/news/12067880/a-san-francisco-political-showdown-who-will-take-pelosis-seat",
-"https://kron4.com/news/bay-area/gov-newsom-signs-locked-door-loophole-bill-to-combat-car-break-ins",
-"https://kron4.com/news/bay-area/ticketed-concerts-approved-in-golden-gate-park",
-"https://linkedin.com/in/scott-wiener-936760",
-"https://missionlocal.org/2026/05/san-francisco-connie-chan-israel-aipac-congress",
-"https://missionlocal.org/2026/09/sunset-dunes-san-francisco-congress-race-prop-g",
-"https://scottwiener.com/",
-"https://scottwiener.com/donate",
-"https://scottwiener.com/endorsements",
-"https://scottwiener.com/media",
-"https://scottwiener.com/meet-scott",
-"https://scottwiener.com/meet-scott-chinese",
-"https://scottwiener.com/more-information",
-"https://scottwiener.com/news",
-"https://scottwiener.com/priorities",
-"https://scottwiener.com/privacy-policy",
-"https://scottwiener.com/scotts-maga-fan-club",
-"https://secure.ngpvan.com/FRDx4liiXkG_vEJXZGM_9A2",
-"https://sfexaminer.com/news/politics/sf-supervisor-connie-chan-sparks-debate-with-transit-stances/article_5c5535ea-32de-11ee-83d7-bfbab33902bb.html",
-"https://sfexaminer.com/news/urban-development/how-california-sb-79-may-increase-sf-housing-height-limits/article_f63e1c94-292d-4519-8e97-46ba0aba190f.html",
-"https://sfgate.com/bay-area-politics/article/Scott-Wiener-endorses-school-board-recall-16592301.php",
-"https://sfist.com/2026/07/01/sf-now-has-30-boozy-entertainment-zones-which-are-also-boosting-local-businesses",
-"https://sfstandard.com/2021/10/28/supervisors-under-fire-vote-against-proposed-soma-apartment-building-sparks-furor-may-violate-state-law",
-"https://sfstandard.com/2022/03/25/local-pac-tarfets-mar-chan-over-school-board-recall",
-"https://sfstandard.com/2023/02/13/scott-wiener-doubles-down-on-bill-that-fast-tracks-new-housing",
-"https://sfstandard.com/2024/01/04/san-francisco-sue-california-housing",
-"https://sfstandard.com/2024/04/01/san-francisco-supervisor-richmond-district-chan-philhour-crime",
-"https://sfstandard.com/2025/12/02/family-zoning-supervisors-vote-daniel-lurie",
-"https://sfstandard.com/2026/04/08/scott-wiener-proposes-pro-housing-incentive-fund",
-"https://store.scottwiener.com/",
-"https://threads.net/@scott_wiener",
-"https://tiktok.com/@scott_wiener",
-"https://twitter.com/Scott_Wiener"
+{
+"text": "(Mission Local: \"Sunset Dunes becomes proxy battle in San Francisco congressional race\")",
+"href": "https://missionlocal.org/2026/09/sunset-dunes-san-francisco-congress-race-prop-g/"
+},
+{
+"text": "A San Francisco Political Showdown: Who Will Take Pelosi’s Seat?",
+"href": "https://www.kqed.org/news/12067880/a-san-francisco-political-showdown-who-will-take-pelosis-seat"
+},
+{
+"text": "Big backers of Connie Chan for Congress tied to pro-Israel PACs",
+"href": "https://missionlocal.org/2026/05/san-francisco-connie-chan-israel-aipac-congress/"
+},
+{
+"text": "Caltrain’s ‘Lifeline’ Sales Tax Appears to Be on Track for Approval",
+"href": "https://www.kqed.org/news/11844943/measure-rr-caltrain-sales-tax-measure-results"
+},
+{
+"text": "Chan is absent",
+"href": "https://drive.google.com/file/d/1Wi3sp-yYcd2PpJ_wnPVXGF4qm0brdRBv/view?usp=drive_link"
+},
+{
+"text": "DONATE",
+"href": "https://www.scottwiener.com/donate"
+},
+{
+"text": "Dismantle the police",
+"href": "https://drive.google.com/file/d/1wax149rIbKdOeUHXerL3bGyycGoIeQMG/view?usp=drive_link"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.scottwiener.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.scottwiener.com/"
+},
+{
+"text": "How California SB 79 may increase SF housing height limits",
+"href": "https://www.sfexaminer.com/news/urban-development/how-california-sb-79-may-increase-sf-housing-height-limits/article_f63e1c94-292d-4519-8e97-46ba0aba190f.html"
+},
+{
+"text": "Locked door loophole: Bill to combat car break-ins signed by Gov. Newsom",
+"href": "https://www.kron4.com/news/bay-area/gov-newsom-signs-locked-door-loophole-bill-to-combat-car-break-ins/"
+},
+{
+"text": "MEDIA",
+"href": "https://www.scottwiener.com/media"
+},
+{
+"text": "Meet Scott",
+"href": "https://www.scottwiener.com/meet-scott"
+},
+{
+"text": "More Information",
+"href": "https://www.scottwiener.com/more-information"
+},
+{
+"text": "News",
+"href": "https://www.scottwiener.com/news"
+},
+{
+"text": "On her phone",
+"href": "https://drive.google.com/file/d/173XBoE54-4RxoIY1Cqzdzs7m2uihhM1F/view?usp=drive_link"
+},
+{
+"text": "Priorities",
+"href": "https://www.scottwiener.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.scottwiener.com/privacy-policy"
+},
+{
+"text": "Recall fallout: Local PAC targets Mar, Chan over school board stances",
+"href": "https://sfstandard.com/2022/03/25/local-pac-tarfets-mar-chan-over-school-board-recall/"
+},
+{
+"text": "Richmond voters have crime on their minds. That’s a problem for Connie Chan",
+"href": "https://sfstandard.com/2024/04/01/san-francisco-supervisor-richmond-district-chan-philhour-crime/"
+},
+{
+"text": "SF Board of Education recall receives endorsement from Scott Wiener",
+"href": "https://www.sfgate.com/bay-area-politics/article/Scott-Wiener-endorses-school-board-recall-16592301.php"
+},
+{
+"text": "SF Now Has 30 Boozy ‘Entertainment Zones,’ Which Are Boosting Local Businesses",
+"href": "https://sfist.com/2026/07/01/sf-now-has-30-boozy-entertainment-zones-which-are-also-boosting-local-businesses/"
+},
+{
+"text": "SF Supervisors Vote to Keep Cars Off JFK Drive in Golden Gate Park",
+"href": "https://www.kqed.org/news/11912421/sf-supervisors-vote-to-keep-cars-off-jfk-drive-in-golden-gate-park"
+},
+{
+"text": "SHOP",
+"href": "https://store.scottwiener.com/"
+},
+{
+"text": "San Francisco housing fight: 2 lawmakers urge suing state",
+"href": "https://sfstandard.com/2024/01/04/san-francisco-sue-california-housing/"
+},
+{
+"text": "Saying no",
+"href": "https://drive.google.com/file/d/1xduKn1dVN2Qy6AM7sBScKGZ_dAwqS0B6/view?usp=drive_link"
+},
+{
+"text": "Scott Wiener Doubles Down on Bill That Fast-Tracks New Housing",
+"href": "https://sfstandard.com/2023/02/13/scott-wiener-doubles-down-on-bill-that-fast-tracks-new-housing/"
+},
+{
+"text": "Scott's MAGA Fan Club",
+"href": "https://www.scottwiener.com/scotts-maga-fan-club"
+},
+{
+"text": "Sen. Scott Wiener wants to give cities $10K for each new home they build",
+"href": "https://sfstandard.com/2026/04/08/scott-wiener-proposes-pro-housing-incentive-fund/"
+},
+{
+"text": "Super PAC Network Backing Connie Chan Received Hundreds of Thousands from AIPAC",
+"href": "https://www.dropsitenews.com/p/aipac-connie-chan-san-francisco-primary"
+},
+{
+"text": "Supervisors under fire: Vote against proposed SoMa apartment building sparks furor, may violate state law",
+"href": "https://sfstandard.com/2021/10/28/supervisors-under-fire-vote-against-proposed-soma-apartment-building-sparks-furor-may-violate-state-law/"
+},
+{
+"text": "Ticketed concerts approved in Golden Gate Park",
+"href": "https://www.kron4.com/news/bay-area/ticketed-concerts-approved-in-golden-gate-park/"
+},
+{
+"text": "Time to build: SF supervisors approve controversial ‘Family Zoning’ plan",
+"href": "https://sfstandard.com/2025/12/02/family-zoning-supervisors-vote-daniel-lurie/"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/FRDx4liiXkG_vEJXZGM_9A2"
+},
+{
+"text": "What’s driving Connie Chan? Richmond legislator’s transit stances spark debate",
+"href": "https://www.sfexaminer.com/news/politics/sf-supervisor-connie-chan-sparks-debate-with-transit-stances/article_5c5535ea-32de-11ee-83d7-bfbab33902bb.html"
+},
+{
+"text": "[image]",
+"href": "https://bsky.app/profile/scottwiener.bsky.social"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/Scott_Wiener"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/ScottWiener2"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/scott_wiener/"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/scott-wiener-936760/"
+},
+{
+"text": "[image]",
+"href": "https://www.threads.net/@scott_wiener"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@scott_wiener"
+},
+{
+"text": "[image][image]",
+"href": "https://www.scottwiener.com/"
+},
+{
+"text": "dismantle and restructure",
+"href": "https://drive.google.com/file/d/1wax149rIbKdOeUHXerL3bGyycGoIeQMG/view"
+},
+{
+"text": "info@scottwiener.com",
+"href": "mailto:info@scottwiener.com"
+},
+{
+"text": "認識威善高",
+"href": "https://www.scottwiener.com/meet-scott-chinese"
+}
 ]

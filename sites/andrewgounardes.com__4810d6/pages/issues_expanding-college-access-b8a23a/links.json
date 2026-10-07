@@ -1,22 +1,82 @@
 [
-"https://andrewgounardes.com/",
-"https://andrewgounardes.com/about",
-"https://andrewgounardes.com/contact",
-"https://andrewgounardes.com/endorsements",
-"https://andrewgounardes.com/issues",
-"https://andrewgounardes.com/news",
-"https://andrewgounardes.com/volunteer",
-"https://andrewgounardes.com/voting-info",
-"https://cuny.edu/admissions/reconnect",
-"https://designedtorun.com/",
-"https://edreformnow.org/wp-content/uploads/2022/10/The-Future-of-Fair-Admissions-Legacy-Preferences.pdf",
-"https://edreformnow.org/wp-content/uploads/2023/12/The-Future-of-Fair-Admissions-Brief-4-FINAL.pdf",
-"https://edstrategy.org/wp-content/uploads/2020/01/Fast-Track-FAFSA-Completion-Final.pdf",
-"https://facebook.com/AndrewForNewYork",
-"https://hechingerreport.org/maryland-to-become-the-third-state-to-completely-ban-legacy-preference-in-admissions",
-"https://instagram.com/agounardes",
-"https://nytimes.com/2019/09/07/opinion/sunday/end-legacy-college-admissions.html",
-"https://secure.actblue.com/donate/andrew-gounardes-for-state-senate-1",
-"https://wnyc.org/story/new-york-high-schoolers-are-required-fill-out-financial-aid-application-college-under-recent-state-law",
-"https://x.com/agounardes"
+{
+"text": "About",
+"href": "https://www.andrewgounardes.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.andrewgounardes.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andrew-gounardes-for-state-senate-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.andrewgounardes.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.andrewgounardes.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.andrewgounardes.com/news"
+},
+{
+"text": "Other states",
+"href": "https://hechingerreport.org/maryland-to-become-the-third-state-to-completely-ban-legacy-preference-in-admissions/"
+},
+{
+"text": "Over 40%",
+"href": "https://edreformnow.org/wp-content/uploads/2023/12/The-Future-of-Fair-Admissions-Brief-4-FINAL.pdf"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.andrewgounardes.com/volunteer"
+},
+{
+"text": "Voting Info",
+"href": "https://www.andrewgounardes.com/voting-info"
+},
+{
+"text": "[image: Andrew Gounardes for State Senate ]",
+"href": "https://www.andrewgounardes.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/AndrewForNewYork"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/agounardes"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/agounardes"
+},
+{
+"text": "compared to just 55%",
+"href": "https://www.edstrategy.org/wp-content/uploads/2020/01/Fast-Track-FAFSA-Completion-Final.pdf#:~:text=Students%20who%20complete%20the%20FAFSA%20are%20more%20likely,in%20their%20college%20coursework%20and%20obtain%20a%20degree."
+},
+{
+"text": "describe them",
+"href": "https://www.nytimes.com/2019/09/07/opinion/sunday/end-legacy-college-admissions.html"
+},
+{
+"text": "over 100 colleges",
+"href": "https://edreformnow.org/wp-content/uploads/2022/10/The-Future-of-Fair-Admissions-Legacy-Preferences.pdf"
+},
+{
+"text": "the Opportunity Scholarship Program",
+"href": "https://www.cuny.edu/admissions/reconnect/#programs"
+},
+{
+"text": "universal FAFSA access",
+"href": "https://www.wnyc.org/story/new-york-high-schoolers-are-required-fill-out-financial-aid-application-college-under-recent-state-law/"
+}
 ]

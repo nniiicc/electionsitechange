@@ -1,9 +1,13 @@
 {
  "description": "Seth Howard in the News",
  "final_url": "https://www.sethfordelegate.com/news",
- "paid_for_by": null,
+ "fingerprint": "773bd52608721263a5d293528d4cc4949574626f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Why Im Running For Delegate in District 30B",
  "years_mentioned": [
+  "2016",
+  "2018",
   "2022",
   "2026"
  ]

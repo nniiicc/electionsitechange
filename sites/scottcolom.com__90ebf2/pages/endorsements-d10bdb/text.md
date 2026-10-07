@@ -1,78 +1,17 @@
-Bennie Thompson
-Hester McCray
-District 40
-Justin Crosby
-District 22
-Justis Gibbs
-District 72
-Keith Jackson
-District 45
-Otis Anthony, II
-District 31
-Willie Bailey
-District 49
-Bryant Clark
-District 47
-Christopher Bell
-District 65
-Daryl Porter
-District 98
-Jeffrey Harness
-District 85
-Jeramey Anderson
-District 110
-John Faulkner
-District 5
-John Hines
-District 50
-Kabir Karriem
-District 41
-Lataisha Jackson
-District 11
-Omeria Scott
-District 80
-Rickey Thompson
-District 16
-Robert Johnson, Jr.
-District 94
-District 69
-Timika James Jones
-District 51
-Tracy Rosebud
-District 30
-Zakiya Summers
-District 68
-Derrick Simmons
-District 12
-Theresa Gillespie Isom
-District 2
-Angela Turner Ford
-Justin Pope
-District 24
-Reginald Jackson
-Bradford Blackmon
-District 21
-Sollie Norwood
-District 28
-Johnny Dupree
-Rod Hickman
-District 32
-Joseph Thomas, Sr.
-Shaw
-Clarksdale
-Jonestown
-Drew
-Greenville
-Metcalfe
-Belzoni
-Louise
-Silver City
-Mayersville
-Glendora
-Eden
-Bentonia
-Moss Point
-Port Gibson
-Columbus
-Horn Lake
-Tupelo
+Skip to content The Latest Endorsements Store Volunteer Voting Information The Latest Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate Endorsements Congressional Black Caucus PAC The Collective PAC MS AFL-CIO International Brotherhood Electrical Workers International Brotherhood Electrical Workers Congressman Bennie Thompson Representative Hester McCray District 40 Representative Justin Crosby District 22 Representative Justis Gibbs District 72 Representative Keith Jackson District 45 Representative Otis Anthony, II District 31 Representative Willie Bailey District 49 Representative Bryant Clark District 47 Representative Christopher Bell District 65 Representative Daryl Porter District 98 Representative Jeffrey Harness District 85 Representative Jeramey Anderson District 110 Representative John Faulkner District 5 Representative John Hines District 50 Representative Kabir Karriem District 41 Representative Lataisha Jackson District 11 Representative Omeria Scott District 80 Representative Rickey Thompson District 16 Representative Robert Johnson, Jr.
+District 94 Representative Tamarra Grace Butler Washington District 69 Representative Timika James Jones District 51 Representative Tracy Rosebud District 30 Representative Zakiya Summers District 68 Senator Derrick Simmons District 12 Senator Theresa Gillespie Isom District 2 Senator Angela Turner Ford District 16 Senator Justin Pope District 24 Senator Reginald Jackson District 11 Senator Bradford Blackmon District 21 Senator Sollie Norwood District 28 Senator Johnny Dupree District 45 Senator Rod Hickman District 32 Senator Joseph Thomas, Sr.
+District 22 Mayor Perry Watkins Shaw Mayor Orlando Paden Clarksdale Mayor Columbus Russell, Jr.
+Jonestown Mayor Melanie Townsend Drew Mayor Errick Simmons Greenville Mayor Shaquita Allen Metcalfe Mayor Eula Davis Belzoni Mayor Anissa Fountain Louise Mayor Robert Hairston Silver City Mayor Linda Short Mayersville Mayor Johnny B.
+Thomas Glendora Mayor Lekisha Hogan Eden Mayor Kim Martin Bentonia Mayor Billy Knight Moss Point Mayor Willie White Port Gibson Mayor Stephen Jones Columbus Mayor Jimmy Stokes Horn Lake Fmr.
+Mayor Jason Shelton Tupelo Let's Go!
+Sign Up To Join The Team Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy. or chip in $ 17 text Scott to 54937 Scott Colom is a seventh-generation Mississippian, proud husband and father of two, and district attorney who fights every day to keep Mississippians safe.
+Now, he’s running to serve in the United States Senate in the November 2026 election.
+Support his campaign by making a contribution or signing up to volunteer .
+Facebook X-twitter Instagram Tiktok Contributions can be mailed to: Scott Colom for Senate PO Box 112, Columbus, MS 39703 Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Paid for by Scott Colom for Senate By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy. © Copyright # Scott Colom for Senate.
+All Rights Reserved.

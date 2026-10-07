@@ -1,16 +1,70 @@
 [
-"https://asbkc.com/",
-"https://bsky.app/profile/garnerformo.bsky.social",
-"https://facebook.com/garnerformo",
-"https://garnerformissouri.com/",
-"https://garnerformissouri.com/about",
-"https://garnerformissouri.com/coffee-with-kevin",
-"https://garnerformissouri.com/contact",
-"https://garnerformissouri.com/es/contact",
-"https://garnerformissouri.com/issues",
-"https://instagram.com/garnerformo",
-"https://secure.actblue.com/donate/garnerformissouri",
-"https://tiktok.com/@garnerformo",
-"https://x.com/GarnerForMO",
-"https://youtube.com/@garnerformo"
+{
+"text": "816-377-4306",
+"href": "tel:8163774306"
+},
+{
+"text": "ASB",
+"href": "https://asbkc.com/"
+},
+{
+"text": "About",
+"href": "https://garnerformissouri.com/about/"
+},
+{
+"text": "Bluesky Logo",
+"href": "https://bsky.app/profile/garnerformo.bsky.social"
+},
+{
+"text": "Coffee with Kevin",
+"href": "https://garnerformissouri.com/coffee-with-kevin/"
+},
+{
+"text": "Contact",
+"href": "https://garnerformissouri.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/garnerformissouri"
+},
+{
+"text": "Endorsements",
+"href": "https://garnerformissouri.com/#endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/garnerformo"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/garnerformo/"
+},
+{
+"text": "Issues",
+"href": "https://garnerformissouri.com/issues/"
+},
+{
+"text": "Kevin@GarnerforMissouri.com",
+"href": "mailto:Kevin@GarnerforMissouri.com"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@garnerformo"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/GarnerForMO"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@garnerformo"
+},
+{
+"text": "[image: Kevin Garner, State Representative]",
+"href": "https://garnerformissouri.com/"
+},
+{
+"text": "[image]Spanish",
+"href": "https://garnerformissouri.com/es/contact/"
+}
 ]

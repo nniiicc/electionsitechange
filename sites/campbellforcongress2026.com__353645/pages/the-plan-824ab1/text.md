@@ -1,12 +1,10 @@
-It's our Country, take a stand, break-up
-Starting January 3rd, 2027, the congressional office of the 1st District will be accessible to all Tennesseans.
+Campbell for Congress Home The Reality Who Am I The Plan Get Involved Campbell for Congress Home The Reality Who Am I The Plan Get Involved It's our Country, take a stand, break-up Starting January 3rd, 2027, the congressional office of the 1st District will be accessible to all Tennesseans.
 It is more than needing our constituents, I want your engagement in the political process.
 By now, you should have recognized there is something missing from this appeal that you cannot avoid on a partisan candidate's site.
 There is no donate button.
 It is time to take money out of politics.
 The runoff for Texas' Senate candidate exceeded $100,000,000 for two candidates that are in the same party.
-"I am tired of this, aren't you?"
-In addition to getting the money out of politics, we must electing leaders that do not want to be career politicians in one office and don't serve longer than their capacity to do so.
+"I am tired of this, aren't you?" In addition to getting the money out of politics, we must electing leaders that do not want to be career politicians in one office and don't serve longer than their capacity to do so.
 It is time for term limits to be enacted and to set maximum age limits on national offices.
 If someone desires to serve more than the limit for the office, then let them compete for it.
 Start in the House.
@@ -15,6 +13,7 @@ When that limit is reached, they should be ready to convince the nation they are
 There is a reason we have a two term limit on the two highest offices.
 No one should be serving in a national office beyond the age of 75.
 After two oldest Presidents have consecutively held the office, I don't feel that any more explanation is needed.
+Time to unite.
 We need to enter into real dialogs on these issues.
 Read this as 'share your thoughts'.
 It is time for executive orders to end.
@@ -38,3 +37,4 @@ Trespassing and destruction of property is a crime.
 Punishing it isn't weaponization of the Department of Justice.
 Alternative methods of treatment for chronic symptoms - Once again, we need to seek the science of treatments outside of the offerings of pharmaceutical companies.
 Restore the investments in research - Refusing to adhere to the science of the generation is akin to ignoring the prophets in the Old Testament.
+Campbell for Congress Campbell for Congress 2026 info@campbellforcongress2026.com Campbell for Congress 2026 - Authorized and paid for by Chris Campbell

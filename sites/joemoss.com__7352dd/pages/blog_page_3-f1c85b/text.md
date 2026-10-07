@@ -1,22 +1,12 @@
-2025 NACo Trip to Washington, DC
-The 2025 National Association of Counties (NACo) Legislative Conference [...]
-25 03, 2025
-25 02, 2025
-February 25, 2025 At a regular meeting of the [...]
-16 01, 2025
-This post explains my votes on January 14, 2025 during the third board meeting.
-10 01, 2025
-This post explains my votes on January 7, 2025 during the second Organizational Meeting
-3 01, 2025
-This post explains my votes on January 2, 2025 during the Board Organizational Meeting
-31 12, 2024
-Thank you, citizens of Ottawa County, for the opportunity to serve you in the 2023-2024 term!
+Skip to content Facebook X LinkedIn Search for: About Contact District Map Donate Endorsements Jobs News Volunteer News 25 03, 2025 2025 NACo Trip to Washington, DC Gallery 2025 NACo Trip to Washington, DC Blog 2025 NACo Trip to Washington, DC 2025-03-26T17:26:31-04:00 March 25th, 2025 | The 2025 National Association of Counties (NACo) Legislative Conference [...] 25 02, 2025 Resolution to Delay the Closing of the Consumers Energy J.H.
+Campbell Plant Gallery Resolution to Delay the Closing of the Consumers Energy J.H.
+Campbell Plant Ottawa County Resolutions Resolution to Delay the Closing of the Consumers Energy J.H.
+Campbell Plant 2026-07-09T08:57:02-04:00 February 25th, 2025 | February 25, 2025 At a regular meeting of the [...] 16 01, 2025 Where I Stand: My Votes on January 14, 2025 Gallery Where I Stand: My Votes on January 14, 2025 Blog Where I Stand: My Votes on January 14, 2025 2025-01-23T21:14:17-05:00 January 16th, 2025 | This post explains my votes on January 14, 2025 during the third board meeting.
+10 01, 2025 Where I Stand: My Votes on January 7, 2025 Gallery Where I Stand: My Votes on January 7, 2025 Blog Where I Stand: My Votes on January 7, 2025 2025-01-10T18:48:14-05:00 January 10th, 2025 | This post explains my votes on January 7, 2025 during the second Organizational Meeting 3 01, 2025 Where I Stand: My Votes on January 2, 2025 Gallery Where I Stand: My Votes on January 2, 2025 Blog Where I Stand: My Votes on January 2, 2025 2025-01-03T23:53:43-05:00 January 3rd, 2025 | This post explains my votes on January 2, 2025 during the Board Organizational Meeting 31 12, 2024 A Tribute to the People; All Glory to God Gallery A Tribute to the People; All Glory to God Blog A Tribute to the People; All Glory to God 2024-12-31T19:12:43-05:00 December 31st, 2024 | Thank you, citizens of Ottawa County, for the opportunity to serve you in the 2023-2024 term!
 Thank you, Board of Commissioners, for your hard work and dedication to upholding the principles of freedom and individual liberty!
-25 11, 2024
-Click to read full statement West Olive, [...]
-18 11, 2024
-West Olive, Michigan – Ottawa County is [...]
-12 11, 2024
-November 12, 2024 At a regular meeting of the [...]
-27 07, 2024
-John Tunison from MLive asked a series of questions [...]
+25 11, 2024 Good Governance & Intimidation – Permanent Administrator Search Gallery Good Governance & Intimidation – Permanent Administrator Search Blog Good Governance & Intimidation – Permanent Administrator Search 2024-12-01T16:46:44-05:00 November 25th, 2024 | Click to read full statement West Olive, [...] 18 11, 2024 Search for our next Ottawa County Administrator Gallery Search for our next Ottawa County Administrator Blog Search for our next Ottawa County Administrator 2024-11-18T18:07:21-05:00 November 18th, 2024 | West Olive, Michigan – Ottawa County is [...] 12 11, 2024 Adoption Day Resolution Gallery Adoption Day Resolution Ottawa County Resolutions Adoption Day Resolution 2026-07-09T08:56:48-04:00 November 12th, 2024 | November 12, 2024 At a regular meeting of the [...] 27 07, 2024 Should faith play a role in government?
+Gallery Should faith play a role in government?
+Blog Should faith play a role in government?
+2024-07-28T14:52:19-04:00 July 27th, 2024 | John Tunison from MLive asked a series of questions [...] Previous 2 3 4 Next Paid for by Joe Moss for State Representative 6753 Bradenwood Drive Hudsonville, MI 49426 © Copyright # | Terms By providing your email or phone number, you are consenting to receive emails, calls, and SMS/MMS messages from Joe Moss for State Representative.
+Msg & data rates may apply.
+Facebook X LinkedIn Page load link Go to Top

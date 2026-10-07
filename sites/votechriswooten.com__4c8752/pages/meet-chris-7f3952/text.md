@@ -1,3 +1,7 @@
+Home Meet Chris On the Issues Resources Gallery Donate Endorsements More Home Meet Chris On the Issues Resources Gallery Donate Endorsements Home Meet Chris On the Issues Resources Gallery Donate Endorsements Meet Rep.
+Chris Wooten Chris Wooten.
+Trusted to protect the president & governor.
+Trustworthy to serve you.
 Marine who protected two U.
 S. presidents.
 South Carolina state trooper.
@@ -20,5 +24,5 @@ He’s a member of the National Rifle Association (NRA) and an ordained minister
 It’s been an amazing journey.
 From standing guard for presidents on the White House lawn to coaching on the high school football fields of South Carolina’s Midlands, from protecting our governor as a state trooper to building a successful small business from scratch, Chris Wooten is part of the heartbeat of Lexington County.
 That’s why he’s once again answering the call to serve us in the South Carolina House of Representatives.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Copyright © # votechriswooten - All Rights Reserved.
+Powered by

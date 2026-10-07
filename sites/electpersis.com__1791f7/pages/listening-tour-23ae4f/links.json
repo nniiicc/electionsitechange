@@ -1,14 +1,58 @@
 [
-"https://bsky.app/profile/persisyu.bsky.social",
-"https://designedtorun.com/",
-"https://electpersis.com/",
-"https://electpersis.com/Volunteer",
-"https://electpersis.com/contact",
-"https://electpersis.com/donate",
-"https://electpersis.com/endorsements",
-"https://electpersis.com/events",
-"https://electpersis.com/privacy-policy",
-"https://facebook.com/ElectPersis",
-"https://instagram.com/ElectPersis",
-"https://linkedin.com/in/persis-yu"
+{
+"text": "Contact",
+"href": "https://www.electpersis.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.electpersis.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electpersis.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.electpersis.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.electpersis.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electpersis.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electpersis.com/Volunteer"
+},
+{
+"text": "[image: Persis Yu for State Senate]",
+"href": "https://www.electpersis.com/"
+},
+{
+"text": "[image: Persis Yu logo]",
+"href": "https://www.electpersis.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/persisyu.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/ElectPersis"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ElectPersis"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/persis-yu/"
+}
 ]

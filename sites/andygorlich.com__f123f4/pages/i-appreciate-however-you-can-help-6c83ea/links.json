@@ -1,8 +1,38 @@
 [
-"https://andygorlich.com/",
-"https://andygorlich.com/contact-draft-page",
-"https://andygorlich.com/i-appreciate-however-you-can-help",
-"https://andygorlich.com/privacy-policy",
-"https://secure.actblue.com/donate/andy--gorlich",
-"https://venmo.com/u/AndyForDE"
+{
+"text": "Andy Gorlich",
+"href": "https://andygorlich.com/"
+},
+{
+"text": "Contact Andy",
+"href": "https://andygorlich.com/contact-draft-page/"
+},
+{
+"text": "DONATE",
+"href": "https://andygorlich.com/i-appreciate-however-you-can-help/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://andygorlich.com/privacy-policy/"
+},
+{
+"text": "[image: Andy Gorlich Logo]",
+"href": "https://andygorlich.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/andy--gorlich"
+},
+{
+"text": "[image]",
+"href": "https://venmo.com/u/AndyForDE"
+},
+{
+"text": "https://secure.actblue.com/donate/andy–gorlich",
+"href": "https://secure.actblue.com/donate/andy--gorlich"
+},
+{
+"text": "https://venmo.com/u/AndyForDE",
+"href": "https://venmo.com/u/AndyForDE"
+}
 ]

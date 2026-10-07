@@ -1,7 +1,11 @@
 {
  "description": "Joe Walker is running for Pennsylvania State House. Fighting for working families, affordable healthcare, and a stronger Pennsylvania.",
  "final_url": "https://www.walkerforpa.com/",
+ "fingerprint": "cc1df59a8c0be8a8085378a7f6adf2daa7130372",
+ "format": 3,
  "paid_for_by": "Paid for by Walker for PA",
  "title": "Joe Walker for PA State House",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

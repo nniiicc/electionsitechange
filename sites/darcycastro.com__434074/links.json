@@ -1,21 +1,98 @@
 [
-"http://linkedin.com/in/darcy-castro-for-georgia",
-"https://darcycastro.com/",
-"https://darcycastro.com/contact",
-"https://darcycastro.com/downloads",
-"https://darcycastro.com/endorsements",
-"https://darcycastro.com/event-list",
-"https://darcycastro.com/get-involved",
-"https://darcycastro.com/how-to-help",
-"https://darcycastro.com/media",
-"https://darcycastro.com/merch",
-"https://darcycastro.com/priorities",
-"https://darcycastro.com/vote",
-"https://darcycastro.com/voting-info",
-"https://facebook.com/DarcyCastroInc",
-"https://instagram.com/darcycastroga",
-"https://legis.ga.gov/find-my-legislator",
-"https://secure.actblue.com/donate/darcy-castro-for-georgia",
-"https://tiktok.com/@darcy4ga",
-"https://youtube.com/@DarcyCastroforGeorgia"
+{
+"text": "@darcycastroga",
+"href": "https://www.instagram.com/darcycastroga"
+},
+{
+"text": "Contact",
+"href": "https://www.darcycastro.com/contact"
+},
+{
+"text": "Cómo Ayudar",
+"href": "https://www.darcycastro.com/get-involved"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/darcy-castro-for-georgia"
+},
+{
+"text": "Downloadable Resources",
+"href": "https://www.darcycastro.com/downloads"
+},
+{
+"text": "En Español",
+"href": "https://www.darcycastro.com/get-involved"
+},
+{
+"text": "Endorsements",
+"href": "https://www.darcycastro.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.darcycastro.com/event-list"
+},
+{
+"text": "Find Your Legislator",
+"href": "https://www.legis.ga.gov/find-my-legislator"
+},
+{
+"text": "How to Help",
+"href": "https://www.darcycastro.com/how-to-help"
+},
+{
+"text": "Info@DarcyCastro.com",
+"href": "mailto:Info@DarcyCastro.com"
+},
+{
+"text": "Merch",
+"href": "https://www.darcycastro.com/merch"
+},
+{
+"text": "News and Press",
+"href": "https://www.darcycastro.com/media"
+},
+{
+"text": "Priorities",
+"href": "https://www.darcycastro.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.darcycastro.com/contact"
+},
+{
+"text": "Votación",
+"href": "https://www.darcycastro.com/vote"
+},
+{
+"text": "Vote",
+"href": "https://www.darcycastro.com/voting-info"
+},
+{
+"text": "[image: DC_Logo_Multi_1.png]",
+"href": "https://www.darcycastro.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DarcyCastroInc"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/darcycastroga/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "http://www.linkedin.com/in/darcy-castro-for-georgia"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@darcy4ga"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@DarcyCastroforGeorgia"
+},
+{
+"text": "[image]",
+"href": "https://www.darcycastro.com"
+}
 ]

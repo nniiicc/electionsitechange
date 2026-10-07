@@ -1,6 +1,8 @@
-PRESS RELEASE
-Calder Speaks at the Davis County Convention
-On Saturday, April 11, Dave spoke at the Davis Democratic Party convention.
+Skip navigation menu Home Meet Dave Events Priorities News Want to Help?
+Privacy Policy Donate Home Meet Dave Events Priorities News Want to Help?
+Privacy Policy Donate PRESS RELEASE Candidate Corner Interview with Dave Calder PRESS RELEASE "The Money Looks Nothing Alike" Corporate PACs make up 90% of Calder Opponent Campaign Funding PRESS RELEASE Dave Calder opposes the draconian reduction of two Utah National Monument.
+PRESS RELEASE Calder Stresses need for Transparency with the Stratos Project Data Center PRESS RELEASE Calder Endorsed by the Utah Veterans Democratic Caucus PRESS RELEASE Utah Democratic Party Convention 24-25 April PRESS RELEASE Calder Speaks at the Davis County Convention PRESS RELEASE Calder Calls on Utah's Congressional Delegation to begin Impeachment and Removal of Donald Trump Utah State Legislature Proposed law: "That is power protecting itself" PRESS RELEASE Calder Files for Utah House District 11 Race PRESS RELEASE Keep Trump Out of Utah Redistricting PRESS RELEASE Dave Calder Announces Run for Utah's House District 11 PRESS RELEASE Calder Points to HB 503 as an Example of a Self-Serving Legislature Apr 13 2026 PRESS RELEASE Calder Speaks at the Davis County Convention On Saturday, April 11, Dave spoke at the Davis Democratic Party convention .
 The convention decided county races and selected delegates to represent county parties at the state convention.
 Dave previously spoke at the Weber county convention on April 2.
 The Utah State Democratic Party convention will be held on April 25th at the Jordan High School, with a training day the day before on the 24th at the Salt Lake Community College, Taylorsville campus.
+VoteCalder@gmail.com Powered by RUN! website builder Paid For By Dave Calder for Utah You need to enable JavaScript to run this app.

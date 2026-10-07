@@ -1,57 +1,6 @@
-Press
-press [at] amandaseptimo.com
-Opinion: Domestic violence isn’t a one-size-fits-all problem – City & State NY, March 16, 2026
-Read Article
-Opinion: Fix the Cross Bronx Expressway for Bronxites– NY Daily News, March 10, 2026
-Read Article
-Opinion | Bronx Families and all New Yorkers deserve transparency on 340B – Bronx Times, April 17, 2026
-Read Article
-As Essential Plan cuts approach, advocates urge Governor Hochul to raise taxes on rich – Bronx Times, April 15, 2026
-Read Article
-Opinion: Domestic violence isn’t a one-size-fits-all problem
-Read Article
-Opinion: Affordability Begins With Food—and New York Must Act Now – City & State NY, December 4, 2025
-Read Article
-PIX11 Covers Bronx Food Insecurity Reforms and $100K Investment – PIX11, November 24, 2025
-Watch Segment
-Food Rescued from Hunts Point Market Distributed to New Yorkers in Need – Noticias NY1, November 18, 2025
-Watch Segment
-New Legislation Aims to Tackle Food Insecurity Through Tax Credits and Reforms – News 12 Bronx, November 18, 2025
-Watch Segment
-Amanda Septimo Plants Puerto Rican Flag at 9/11 Museum – El Diario, November 7, 2025
-Read Article
-Who Is the Dominican Amanda Septimo Behind New York’s New Mayor’s Campaign – El Nuevo Diario, November 5, 2025
-Read Article
-New York Assembly Honors Dominican Activist Sergia Galván – Diario Libre, November 13, 2025
-Read Article
-Bodega Endorsement and Political Organizing Efforts – El Nuevo Diario, October 31, 2025
-Read Article
-Who Is Amanda Septimo?
-A Rising Latina Political Leader in New York – La Nación, October 29, 2025
-Read Article
-Parks Advocates Lead South Bronx Tour Calling for City Investment – Bronx Times, October 29, 2025
-Read Article
-PIX11 Covers $6M Investment to Combat Bronx Fentanyl Crisis – PIX11, October 18, 2025
-Watch Segment
-Longwood Community Food Distribution for Families and Pets – Bronx Times, October 3, 2025
-Read Article
-Assembly Member Septimo Donates $50,000 to Brides’ March to Combat Domestic Violence – Bronx Times, September 25, 2025
-Read Article
-Fed-Up Bronx Residents Demand State Abandon Cross Bronx Expansion – Streetsblog, September 11, 2025
-Read Article
-Inside Government: A Q&A With Assembly Member Amanda Septimo – PoliticsNY, August 22, 2025
-Read Interview
-Amanda Septimo: The Dominican Building Innovative Political Power in New York – El Día, May 11, 2025
-Read Article
-Guns Down, Lives Up: NYCHA March Marks 667 Days Without Gun Violence – Bronx Times, March 25, 2025
-Read Article
-$6 Million Allocated for New Opioid Treatment Center at Lincoln Hospital – Bronx Times, October 9, 2024
-Read Article
-Bronx Celebrates MTA Free Bus Pilot Announcement – Spectrum Noticias, September 20, 2023
-Watch Segment
-NYC Bodegas Receive $1M in New Security Pilot Program – Fox Business, May 16, 2023
-Watch Coverage
-$1 Million Pilot Program Promotes Bodega Safety in the Bronx and Manhattan – Gothamist, May 15, 2023
-Read Article
-Lawmakers and Advocates Press for MTA Accountability and Service Improvements – Streetsblog, November 17, 2022
-Read Article
+0 Skip to Content About Amanda Endorsements Press Volunteer DONATE Open Menu Close Menu About Amanda Endorsements Press Volunteer DONATE Open Menu Close Menu About Amanda Endorsements Press Volunteer DONATE Press press [at] amandaseptimo.com Opinion: Domestic violence isn’t a one-size-fits-all problem – City & State NY, March 16, 2026 Read Article Opinion: Fix the Cross Bronx Expressway for Bronxites – NY Daily News, March 10, 2026 Read Article Opinion | Bronx Families and all New Yorkers deserve transparency on 340B – Bronx Times, April 17, 2026 Read Article As Essential Plan cuts approach, advocates urge Governor Hochul to raise taxes on rich – Bronx Times, April 15, 2026 Read Article Opinion: Domestic violence isn’t a one-size-fits-all problem Read Article Opinion: Affordability Begins With Food—and New York Must Act Now – City & State NY, December 4, 2025 Read Article PIX11 Covers Bronx Food Insecurity Reforms and $100K Investment – PIX11, November 24, 2025 Watch Segment Food Rescued from Hunts Point Market Distributed to New Yorkers in Need – Noticias NY1, November 18, 2025 Watch Segment New Legislation Aims to Tackle Food Insecurity Through Tax Credits and Reforms – News 12 Bronx, November 18, 2025 Watch Segment Amanda Septimo Plants Puerto Rican Flag at 9/11 Museum – El Diario, November 7, 2025 Read Article Who Is the Dominican Amanda Septimo Behind New York’s New Mayor’s Campaign – El Nuevo Diario, November 5, 2025 Read Article New York Assembly Honors Dominican Activist Sergia Galván – Diario Libre, November 13, 2025 Read Article Bodega Endorsement and Political Organizing Efforts – El Nuevo Diario, October 31, 2025 Read Article Who Is Amanda Septimo?
+A Rising Latina Political Leader in New York – La Nación, October 29, 2025 Read Article Parks Advocates Lead South Bronx Tour Calling for City Investment – Bronx Times, October 29, 2025 Read Article PIX11 Covers $6M Investment to Combat Bronx Fentanyl Crisis – PIX11, October 18, 2025 Watch Segment Longwood Community Food Distribution for Families and Pets – Bronx Times, October 3, 2025 Read Article Assembly Member Septimo Donates $50,000 to Brides’ March to Combat Domestic Violence – Bronx Times, September 25, 2025 Read Article Fed-Up Bronx Residents Demand State Abandon Cross Bronx Expansion – Streetsblog, September 11, 2025 Read Article Inside Government: A Q&A With Assembly Member Amanda Septimo – PoliticsNY, August 22, 2025 Read Interview Amanda Septimo: The Dominican Building Innovative Political Power in New York – El Día, May 11, 2025 Read Article Guns Down, Lives Up: NYCHA March Marks 667 Days Without Gun Violence – Bronx Times, March 25, 2025 Read Article $6 Million Allocated for New Opioid Treatment Center at Lincoln Hospital – Bronx Times, October 9, 2024 Read Article Bronx Celebrates MTA Free Bus Pilot Announcement – Spectrum Noticias, September 20, 2023 Watch Segment NYC Bodegas Receive $1M in New Security Pilot Program – Fox Business, May 16, 2023 Watch Coverage $1 Million Pilot Program Promotes Bodega Safety in the Bronx and Manhattan – Gothamist, May 15, 2023 Read Article Lawmakers and Advocates Press for MTA Accountability and Service Improvements – Streetsblog, November 17, 2022 Read Article INFO About Contact Media Center Follow Us Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Newsletter Get regular updates from the campaign, straight to your inbox.
+Email Address Sign Up Thank you!
+Paid for by Friends of Amanda Septimo

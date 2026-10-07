@@ -1,9 +1,9 @@
 {
  "description": "Explore Shishmaref with Neal Foster For House. Discover our photo gallery and engage with local issues.",
  "final_url": "https://fosterforhouse.com/shishmaref",
- "paid_for_by": null,
+ "fingerprint": "5c2bc1b9b7a5c4af547662d532f498a7962d8967",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Shishmaref",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

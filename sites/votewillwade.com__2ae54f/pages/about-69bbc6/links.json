@@ -1,6 +1,30 @@
 [
-"https://secure.anedot.com/friends-of-will-wade/donate",
-"https://votewillwade.com/",
-"https://votewillwade.com/about",
-"https://votewillwade.com/issues"
+{
+"text": "About",
+"href": "https://www.votewillwade.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-will-wade/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votewillwade.com/#GetInvolved"
+},
+{
+"text": "Home",
+"href": "https://www.votewillwade.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votewillwade.com/issues"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://www.votewillwade.com/#GetInvolved"
+},
+{
+"text": "Will@votewillwade.com",
+"href": "mailto:Will@votewillwade.com"
+}
 ]

@@ -1,12 +1,58 @@
 [
-"https://elect.ky.gov/Voters/Pages/default.aspx",
-"https://facebook.com/share/1FuN7oRSE5",
-"https://instagram.com/writeinfrench2026",
-"https://legislature.ky.gov/Public%20Services/GIS/S103B01IndivDistricts/S22%20(S1301B01)%2022RS-SB2.pdf",
-"https://writeinfrench2026.com/",
-"https://writeinfrench2026.com/calendar",
-"https://writeinfrench2026.com/cart",
-"https://writeinfrench2026.com/contactus",
-"https://writeinfrench2026.com/donate",
-"https://writeinfrench2026.com/home"
+{
+"text": "0",
+"href": "https://www.writeinfrench2026.com/cart"
+},
+{
+"text": "Calendar",
+"href": "https://www.writeinfrench2026.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.writeinfrench2026.com/contactus"
+},
+{
+"text": "Contact Us",
+"href": "https://www.writeinfrench2026.com/contactus"
+},
+{
+"text": "Donate",
+"href": "https://www.writeinfrench2026.com/donate"
+},
+{
+"text": "Email me",
+"href": "mailto:michael@writeinfrench2026.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.writeinfrench2026.com/contactus"
+},
+{
+"text": "Home",
+"href": "https://www.writeinfrench2026.com/home"
+},
+{
+"text": "Kentucky State Board of Elections",
+"href": "https://elect.ky.gov/Voters/Pages/default.aspx"
+},
+{
+"text": "Write in French 2026",
+"href": "https://www.writeinfrench2026.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1FuN7oRSE5/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/writeinfrench2026"
+},
+{
+"text": "michael@writeinfrench2026.com",
+"href": "mailto:michael@writeinfrench2026.com"
+},
+{
+"text": "more",
+"href": "https://legislature.ky.gov/Public%20Services/GIS/S103B01IndivDistricts/S22%20(S1301B01)%2022RS-SB2.pdf"
+}
 ]

@@ -1,11 +1,38 @@
 [
-"https://nataliefleming.info/",
-"https://nataliefleming.info/about-natalie-m-fleming",
-"https://nataliefleming.info/author/admin",
-"https://nataliefleming.info/category/issues",
-"https://nataliefleming.info/donate",
-"https://nataliefleming.info/issues/great-news-housing-first",
-"https://nataliefleming.info/join-the-team",
-"https://nataliefleming.info/just-a-few-issues",
-"https://nataliefleming.info/policy"
+{
+"text": "About Natalie M Fleming",
+"href": "https://nataliefleming.info/about-natalie-m-fleming/"
+},
+{
+"text": "Donate",
+"href": "https://nataliefleming.info/donate/"
+},
+{
+"text": "Great News! Housing First!",
+"href": "https://nataliefleming.info/issues/great-news-housing-first/"
+},
+{
+"text": "Issues",
+"href": "https://nataliefleming.info/category/issues/"
+},
+{
+"text": "Issues",
+"href": "https://nataliefleming.info/just-a-few-issues/"
+},
+{
+"text": "Join the Team",
+"href": "https://nataliefleming.info/join-the-team/"
+},
+{
+"text": "Natalie",
+"href": "https://nataliefleming.info/author/admin/"
+},
+{
+"text": "Natalie Fleming for US Senate",
+"href": "https://nataliefleming.info/"
+},
+{
+"text": "Policy",
+"href": "https://nataliefleming.info/policy/"
+}
 ]

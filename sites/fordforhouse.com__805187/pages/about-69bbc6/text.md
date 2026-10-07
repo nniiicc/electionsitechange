@@ -1,5 +1,4 @@
-Meet Ross
-Prior to running for office, Ross proudly served his community as a Tulsa police officer for over 25 years.
+0 Skip to Content About Legislation Make Your Voice Heard Take My Survey Contact Ross Donate Open Menu Close Menu About Legislation Make Your Voice Heard Take My Survey Contact Ross Donate Open Menu Close Menu About Legislation Folder: Make Your Voice Heard Back Take My Survey Contact Ross Donate Meet Ross Prior to running for office, Ross proudly served his community as a Tulsa police officer for over 25 years.
 During his time as an officer, Ross was tasked with many responsibilities including being a patrol officer in all areas of Tulsa, protecting the Tulsa airport, being a Dare and community relations officer.
 For more than 25 years Ross Ford served his community, during those years of service he spent more than 12 years assigned to the Police Motorcycle unit.
 Officer Ford taught drivers training for nearly 10 years and was the unit training coordinator for 5 years.
@@ -20,3 +19,4 @@ Ross is still very active in the Tulsa and Broken Arrow communities.
 He is a member of the Broken Arrow Rotary Club, the Broken Arrow Civitan Club and Public Service A&B Chairman.
 Ross is also a community activist and volunteer at Union Public Schools, the Broken Arrow Police Department, the Tulsa Police Officer Memorial committee, and the Broken Arrow senior center.
 Ross is also a graduate of Leadership Broken Arrow.
+Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) Slide 7 Slide 7 (current slide) Slide 8 Slide 8 (current slide) Slide 9 Slide 9 (current slide) Slide 10 Slide 10 (current slide) Donate Donate Authorized and Paid for by Friends of Ross Ford 2026

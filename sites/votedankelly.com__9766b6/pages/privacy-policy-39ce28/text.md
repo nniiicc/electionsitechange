@@ -1,178 +1,64 @@
-Privacy Policy
-Effective Date: July 13, 2026
-The Committee to Elect Dan Kelly, also referred to in this Privacy Policy as the “Campaign,” “we,” “us,” or “our,” respects your privacy.
+0 Skip to Content Kassner Campaign Violations - Why You Should Care About Dan Priorities Get Involved Yard Sign News Videos Events Claim Check: Kristin Kassner DONATE Open Menu Close Menu Kassner Campaign Violations - Why You Should Care About Dan Priorities Get Involved Yard Sign News Videos Events Claim Check: Kristin Kassner DONATE Open Menu Close Menu Kassner Campaign Violations - Why You Should Care About Dan Priorities Get Involved Yard Sign News Videos Events Claim Check: Kristin Kassner DONATE Privacy Policy Effective Date: July 13, 2026 The Committee to Elect Dan Kelly, also referred to in this Privacy Policy as the “Campaign,” “we,” “us,” or “our,” respects your privacy.
 This Privacy Policy explains how we collect, use, disclose, retain, and protect information when you visit votedankelly.com, submit information through our website, communicate with the Campaign, sign up to volunteer, request a yard sign, make a contribution, attend an event, or enroll in our text messaging or email programs.
 By using our website or voluntarily providing information to the Campaign, you acknowledge the practices described in this Privacy Policy.
-Information We Collect
-The information we collect depends on how you interact with the Campaign.
-Information You Provide Directly
-We may collect information that you voluntarily provide, including:
-- Your name
-- Email address
-- Mobile or other telephone number
-- Mailing or residential address
-- Town, city, ZIP code, or voting district
-- Volunteer interests and availability
-- Yard sign requests and delivery information
-- Event registrations or attendance information
-- Communications, questions, comments, survey responses, or feedback sent to the Campaign
-- Information about campaign activities in which you choose to participate
-- Donation information, including contribution amount, date, billing information, occupation, employer, and any other information required by campaign finance laws
-- Text messaging consent records, including the date, time, method, and source of your consent
-You are not required to provide personal information merely to browse the website.
+Information We Collect The information we collect depends on how you interact with the Campaign.
+Information You Provide Directly We may collect information that you voluntarily provide, including: Your name Email address Mobile or other telephone number Mailing or residential address Town, city, ZIP code, or voting district Volunteer interests and availability Yard sign requests and delivery information Event registrations or attendance information Communications, questions, comments, survey responses, or feedback sent to the Campaign Information about campaign activities in which you choose to participate Donation information, including contribution amount, date, billing information, occupation, employer, and any other information required by campaign finance laws Text messaging consent records, including the date, time, method, and source of your consent You are not required to provide personal information merely to browse the website.
 Certain information may be necessary, however, to complete a donation, receive a yard sign, volunteer, register for an event, or receive Campaign communications.
-Donation and Payment Information
-Campaign contributions made through the website are processed by a third-party payment processor, Anedot.
+Donation and Payment Information Campaign contributions made through the website are processed by a third-party payment processor, Anedot.
 The Campaign generally does not directly receive or store your complete payment-card number or bank account credentials.
 We may receive information about your contribution, including your name, contact information, contribution amount, transaction date, occupation, employer, and transaction status.
 Campaign finance laws may require the Campaign to collect, retain, report, and publicly disclose certain contributor and contribution information.
 Information required to be reported may become publicly available through governmental campaign finance reports or databases.
-Information Collected Automatically
-When you use the website, we or our website service providers may automatically collect certain technical information, including:
-- Internet Protocol address
-- Browser type
-- Device type
-- Operating system
-- Referring website or page
-- Pages viewed
-- Date and time of access
-- General geographic information derived from an IP address
-- Website interactions and navigation activity
-- Cookie, pixel, or similar technology identifiers
-This information may be used to operate the website, understand website traffic, improve content, detect technical problems, protect against misuse, and evaluate Campaign outreach.
-How We Use Information
-We may use information collected through the website or Campaign activities to:
-- Respond to questions, requests, and communications
-- Provide campaign news, candidate updates, and policy information
-- Send information about events, volunteer opportunities, and campaign activities
-- Coordinate volunteers and supporters
-- Process and respond to yard sign requests
-- Process contributions and maintain campaign finance records
-- Send fundraising communications and donation requests
-- Send election reminders, voting information, surveys, and voter outreach
-- Administer our email and text messaging programs
-- Record and honor communication preferences and opt-out requests
-- Maintain the security and functionality of the website
-- Prevent fraud, abuse, unauthorized activity, or technical problems
-- Analyze the effectiveness of Campaign communications and outreach
-- Comply with campaign finance, election, tax, recordkeeping, subpoena, court order, or other legal obligations
-- Protect the rights, property, safety, and legal interests of the Campaign, its candidate, volunteers, supporters, website users, and others
-We may also use information for another purpose disclosed at the time it is collected or with your consent.
-Text Messaging Privacy and Consent
-When you voluntarily provide your mobile telephone number and affirmatively consent to receive text messages, the Campaign may send you recurring SMS or MMS messages.
-Messages may include:
-- Campaign and candidate updates
-- Policy and issue information
-- Event announcements and invitations
-- Volunteer opportunities and scheduling information
-- Yard sign or campaign-material coordination
-- Fundraising communications and donation requests
-- Surveys and supporter-engagement messages
-- Voting information, early-voting information, and election reminders
-- Other communications related to Dan Kelly’s campaign for State Representative
-Message frequency varies depending on Campaign activity and may increase near important campaign events or Election Day.
+Information Collected Automatically When you use the website, we or our website service providers may automatically collect certain technical information, including: Internet Protocol address Browser type Device type Operating system Referring website or page Pages viewed Date and time of access General geographic information derived from an IP address Website interactions and navigation activity Cookie, pixel, or similar technology identifiers This information may be used to operate the website, understand website traffic, improve content, detect technical problems, protect against misuse, and evaluate Campaign outreach.
+How We Use Information We may use information collected through the website or Campaign activities to: Respond to questions, requests, and communications Provide campaign news, candidate updates, and policy information Send information about events, volunteer opportunities, and campaign activities Coordinate volunteers and supporters Process and respond to yard sign requests Process contributions and maintain campaign finance records Send fundraising communications and donation requests Send election reminders, voting information, surveys, and voter outreach Administer our email and text messaging programs Record and honor communication preferences and opt-out requests Maintain the security and functionality of the website Prevent fraud, abuse, unauthorized activity, or technical problems Analyze the effectiveness of Campaign communications and outreach Comply with campaign finance, election, tax, recordkeeping, subpoena, court order, or other legal obligations Protect the rights, property, safety, and legal interests of the Campaign, its candidate, volunteers, supporters, website users, and others We may also use information for another purpose disclosed at the time it is collected or with your consent.
+Text Messaging Privacy and Consent When you voluntarily provide your mobile telephone number and affirmatively consent to receive text messages, the Campaign may send you recurring SMS or MMS messages.
+Messages may include: Campaign and candidate updates Policy and issue information Event announcements and invitations Volunteer opportunities and scheduling information Yard sign or campaign-material coordination Fundraising communications and donation requests Surveys and supporter-engagement messages Voting information, early-voting information, and election reminders Other communications related to Dan Kelly’s campaign for State Representative Message frequency varies depending on Campaign activity and may increase near important campaign events or Election Day.
 Message and data rates may apply according to your mobile service plan.
 Reply STOP to unsubscribe from Campaign text messages.
 You may also use other reasonable opt-out language, including END, CANCEL, UNSUBSCRIBE, or QUIT.
 After opting out, you may receive one final message confirming that your request has been processed.
-Reply HELP for assistance or contact the Campaign at hello@votedankelly.com.
+Reply HELP for assistance or contact the Campaign at hello@votedankelly.com .
 Consent to receive text messages is not a condition of making a contribution, volunteering, supporting Dan Kelly, or using the website.
-Mobile Information Non-Sharing Disclosure
-No mobile information will be shared by us with third parties or affiliates for marketing or promotional purposes.
+Mobile Information Non-Sharing Disclosure No mobile information will be shared by us with third parties or affiliates for marketing or promotional purposes.
 Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
 The information-sharing provisions elsewhere in this Privacy Policy do not authorize the sharing, sale, rental, transfer, or disclosure of mobile telephone numbers, text messaging opt-in data, or messaging consent for third-party or affiliate marketing or promotional purposes.
 Contracted technology providers may process information solely on the Campaign’s behalf when necessary to operate and deliver the Campaign’s messaging program.
 They are not authorized to use Campaign mobile information or consent records for their own independent marketing or promotional purposes.
 Carriers are not liable for delayed or undelivered messages.
-Email Communications
-When you provide your email address, the Campaign may send you campaign updates, event information, volunteer opportunities, fundraising appeals, surveys, election information, and other campaign-related communications.
+Email Communications When you provide your email address, the Campaign may send you campaign updates, event information, volunteer opportunities, fundraising appeals, surveys, election information, and other campaign-related communications.
 You may unsubscribe from Campaign marketing emails by following the unsubscribe instructions included in the email.
 We may still send non-promotional communications necessary to respond to a request, document a transaction, or administer a specific activity in which you are participating.
-How We Disclose Information
-We do not sell personal information.
-Subject to the specific restrictions governing mobile information and text messaging consent described above, we may disclose personal information in the following circumstances:
-Campaign Service Providers
-We may use service providers to perform work on behalf of the Campaign, including:
-- Website hosting and maintenance
-- Email delivery
-- Text message delivery
-- Donation and payment processing
-- Volunteer and supporter data management
-- Data hosting and storage
-- Website analytics
-- Cybersecurity and fraud prevention
-- Printing, mailing, and event-management services
-- Professional legal, accounting, compliance, or technical services
-These providers are permitted to access information only as reasonably necessary to provide services to the Campaign and are expected to protect the information they process.
-Campaign Staff and Volunteers
-Information may be provided to authorized Campaign staff members, consultants, or volunteers when reasonably necessary to respond to your request, coordinate an activity, deliver a yard sign, organize an event, manage volunteers, maintain Campaign records, or conduct other legitimate Campaign operations.
-Legal and Compliance Disclosures
-We may disclose information when we reasonably believe disclosure is necessary to:
-- Comply with applicable law
-- Satisfy campaign finance or election reporting obligations
-- Respond to a subpoena, court order, warrant, or lawful governmental request
-- Enforce our policies or agreements
-- Investigate fraud, abuse, security concerns, or unlawful activity
-- Protect the safety, rights, property, or legal interests of the Campaign or others
-Organizational Transition
-If Campaign records or operations are lawfully transferred to a successor committee, political organization, or legally authorized entity, information may be transferred as permitted by law.
+How We Disclose Information We do not sell personal information.
+Subject to the specific restrictions governing mobile information and text messaging consent described above, we may disclose personal information in the following circumstances: Campaign Service Providers We may use service providers to perform work on behalf of the Campaign, including: Website hosting and maintenance Email delivery Text message delivery Donation and payment processing Volunteer and supporter data management Data hosting and storage Website analytics Cybersecurity and fraud prevention Printing, mailing, and event-management services Professional legal, accounting, compliance, or technical services These providers are permitted to access information only as reasonably necessary to provide services to the Campaign and are expected to protect the information they process.
+Campaign Staff and Volunteers Information may be provided to authorized Campaign staff members, consultants, or volunteers when reasonably necessary to respond to your request, coordinate an activity, deliver a yard sign, organize an event, manage volunteers, maintain Campaign records, or conduct other legitimate Campaign operations.
+Legal and Compliance Disclosures We may disclose information when we reasonably believe disclosure is necessary to: Comply with applicable law Satisfy campaign finance or election reporting obligations Respond to a subpoena, court order, warrant, or lawful governmental request Enforce our policies or agreements Investigate fraud, abuse, security concerns, or unlawful activity Protect the safety, rights, property, or legal interests of the Campaign or others Organizational Transition If Campaign records or operations are lawfully transferred to a successor committee, political organization, or legally authorized entity, information may be transferred as permitted by law.
 Mobile information and text messaging opt-in consent will not be transferred for another organization’s independent marketing or promotional use.
-At Your Direction
-We may disclose information when you specifically ask or authorize us to do so.
-Cookies and Similar Technologies
-The website may use cookies, pixels, tags, or similar technologies to operate website functions, remember preferences, measure website traffic, understand how visitors use the website, and evaluate Campaign communications.
-Your browser may allow you to block or delete cookies.
+At Your Direction We may disclose information when you specifically ask or authorize us to do so.
+Cookies and Similar Technologies Your browser may allow you to block or delete cookies.
 Disabling cookies may affect the availability or functionality of certain website features.
 The website may also use analytics or advertising services that collect information about website visits.
 Where required, these services will be configured and used in accordance with applicable law and the Campaign’s contractual arrangements.
-Your Choices
-You may:
-- Decline to provide optional information
-- Unsubscribe from marketing emails by using the link included in an email
-- Opt out of text messages by replying STOP
-- Request text messaging assistance by replying HELP
-- Adjust cookie settings through your browser
-- Contact us to request that we correct or update information you previously provided
-- Ask us to delete information, subject to legal, campaign finance, recordkeeping, security, and operational requirements
-An SMS opt-out applies to the Campaign text messaging program associated with the sending number.
+Your Choices You may: Decline to provide optional information Unsubscribe from marketing emails by using the link included in an email Opt out of text messages by replying STOP Request text messaging assistance by replying HELP Adjust cookie settings through your browser Contact us to request that we correct or update information you previously provided Ask us to delete information, subject to legal, campaign finance, recordkeeping, security, and operational requirements An SMS opt-out applies to the Campaign text messaging program associated with the sending number.
 An email unsubscribe applies to the applicable Campaign email list.
 You may need to manage text and email preferences separately.
-Information Retention
-We retain information for as long as reasonably necessary to:
-- Conduct Campaign activities
-- Respond to requests
-- Maintain accurate consent and opt-out records
-- Prevent unwanted communications
-- Process and document contributions
-- Maintain security and prevent fraud
-- Satisfy campaign finance, election, accounting, tax, and legal obligations
-- Resolve disputes and enforce agreements
-Certain Campaign records may be retained for longer periods when required by law.
+Information Retention We retain information for as long as reasonably necessary to: Conduct Campaign activities Respond to requests Maintain accurate consent and opt-out records Prevent unwanted communications Process and document contributions Maintain security and prevent fraud Satisfy campaign finance, election, accounting, tax, and legal obligations Resolve disputes and enforce agreements Certain Campaign records may be retained for longer periods when required by law.
 Opt-out information may be retained to ensure that the Campaign continues to honor your request.
-Data Security
-We use reasonable administrative, technical, and organizational safeguards designed to protect information from unauthorized access, loss, misuse, alteration, or disclosure.
+Data Security We use reasonable administrative, technical, and organizational safeguards designed to protect information from unauthorized access, loss, misuse, alteration, or disclosure.
 No website, database, transmission method, or storage system can be guaranteed to be completely secure.
 You should use caution when transmitting sensitive information online.
-Third-Party Websites and Services
-The website may link to third-party websites or services, including social media platforms, donation processors, news websites, event websites, or other external resources.
+Third-Party Websites and Services The website may link to third-party websites or services, including social media platforms, donation processors, news websites, event websites, or other external resources.
 This Privacy Policy does not govern the privacy practices of independently operated third parties.
 We encourage you to review the privacy policies and terms of any third-party website or service you use.
-Children’s Privacy
-The website is not directed toward children under 13, and the Campaign does not knowingly collect personal information online from children under 13 without appropriate authorization.
+Children’s Privacy The website is not directed toward children under 13, and the Campaign does not knowingly collect personal information online from children under 13 without appropriate authorization.
 A parent or legal guardian who believes that a child has submitted personal information through the website may contact us to request review or deletion of the information.
-Do Not Track and Browser Signals
-Some browsers offer “Do Not Track” or similar privacy signals.
+Do Not Track and Browser Signals Some browsers offer “Do Not Track” or similar privacy signals.
 Because there is not a universally accepted standard governing all such signals, the website may not respond to every browser-based signal.
 You may still use available browser controls to limit cookies or similar technologies.
-Changes to This Privacy Policy
-We may update this Privacy Policy to reflect changes in Campaign operations, technology, legal requirements, or privacy practices.
+Changes to This Privacy Policy We may update this Privacy Policy to reflect changes in Campaign operations, technology, legal requirements, or privacy practices.
 When we make changes, we will update the effective date at the top of the policy.
 Material changes may also be communicated through the website or another appropriate method.
 Your continued use of the website after an updated policy is posted constitutes acknowledgment of the revised policy.
-Contact Us
-Questions, requests, or concerns about this Privacy Policy or the Campaign’s privacy practices may be directed to:
-Committee to Elect Dan Kelly
-PO Box 113
-Ipswich, MA 01938
-Email: hello@votedankelly.com
-Website: votedankelly.com
+Contact Us Questions, requests, or concerns about this Privacy Policy or the Campaign’s privacy practices may be directed to: Committee to Elect Dan Kelly PO Box 113 Ipswich, MA 01938 Email: hello@votedankelly.com Website: votedankelly.com Service.
+Civility.
+Accountability.
+Paid for By the Committee to Elect Dan Kelly

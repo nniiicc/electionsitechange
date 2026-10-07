@@ -1,20 +1,78 @@
 [
-"https://act.maggiefornh.com/survey/volunteer",
-"https://act.maggiefornh.com/survey/yard-signs",
-"https://bsky.app/profile/maggiefornh.com",
-"https://dropbox.com/scl/fo/b1rixl8zmkewf3swsr9r1/ALc4DYJcaMcDSbkt4HmGI6o?rlkey=4t5db3jg4spgbdoavo0q07ikr&st=2m5s5zve&dl=0",
-"https://facebook.com/p/Maggie-Goodlander-For-Congress-61559334545230",
-"https://instagram.com/MaggieforNH",
-"https://maggiefornh.com/",
-"https://maggiefornh.com/cdn-cgi/l/email-protection",
-"https://maggiefornh.com/media",
-"https://maggiefornh.com/meet-maggie",
-"https://maggiefornh.com/priorities",
-"https://maggiefornh.com/privacy-policy",
-"https://secure.actblue.com/donate/good_website",
-"https://secure.engageraise.com/donate/maggie-goodlander",
-"https://threads.com/@maggiefornh",
-"https://twitter.com/MaggieG603",
-"https://youtube.com/@MaggieGoodlanderforNH",
-"https://youtube.com/watch?v=a2GPqQ4v5FA"
+{
+"text": "About Maggie",
+"href": "https://maggiefornh.com/meet-maggie/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/good_website"
+},
+{
+"text": "Media",
+"href": "https://maggiefornh.com/media/"
+},
+{
+"text": "Priorities",
+"href": "https://maggiefornh.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://maggiefornh.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://act.maggiefornh.com/survey/volunteer/"
+},
+{
+"text": "Yard Signs",
+"href": "https://act.maggiefornh.com/survey/yard-signs/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@maggiefornh.com"
+},
+{
+"text": "[image]",
+"href": "https://maggiefornh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/maggiefornh.com"
+},
+{
+"text": "[no text]",
+"href": "https://maggiefornh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://secure.engageraise.com/donate/maggie-goodlander/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MaggieG603"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/p/Maggie-Goodlander-For-Congress-61559334545230/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/MaggieforNH/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@maggiefornh"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MaggieGoodlanderforNH"
+},
+{
+"text": "linked here",
+"href": "https://www.dropbox.com/scl/fo/b1rixl8zmkewf3swsr9r1/ALc4DYJcaMcDSbkt4HmGI6o?rlkey=4t5db3jg4spgbdoavo0q07ikr&st=2m5s5zve&dl=0"
+},
+{
+"text": "linked here",
+"href": "https://www.youtube.com/watch?v=a2GPqQ4v5FA"
+}
 ]

@@ -1,9 +1,12 @@
 {
  "description": "Democrat running for NH State Representative.",
  "final_url": "https://nate4nh.com/",
- "paid_for_by": "Paid for by Nate for NH \u00b7 Paid-For Disclosure \u00b7 Privacy Policy Nate4NH",
+ "fingerprint": "d3e94d6e828e3b6d04ac89d25527bc15702d498f",
+ "format": 3,
+ "paid_for_by": "Paid for by Nate for NH · Paid-For Disclosure · Privacy Policy Nate4NH",
  "title": "Nate For NH",
  "years_mentioned": [
+  "2008",
   "2020",
   "2026"
  ]

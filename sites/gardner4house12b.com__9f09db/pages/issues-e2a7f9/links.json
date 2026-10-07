@@ -1,17 +1,66 @@
 [
-"https://cart/",
-"https://docs.google.com/forms/d/e/1FAIpQLSd11kkloeBoKHazlr7LKQWJZ1BNk-qsBYxgLR3W6ypQ8dUPmA/viewform?usp=header",
-"https://forms.gle/T2Tz5tPB83aegcsy7",
-"https://forms.gle/p1C3y5suoFwHsUEv5",
-"https://forms.gle/pf33hkvtoMyprE3a6",
-"https://forms.gle/zovwL7g2DEGxj2QY7",
-"https://gardner4house12b.com/",
-"https://gardner4house12b.com/Home",
-"https://gardner4house12b.com/advisory-board",
-"https://gardner4house12b.com/contact-us",
-"https://gardner4house12b.com/donate",
-"https://gardner4house12b.com/donate-orig",
-"https://gardner4house12b.com/issues",
-"https://gardner4house12b.com/volunteer",
-"https://secure.actblue.com/donate/we-like-mike"
+{
+"text": "Advise",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd11kkloeBoKHazlr7LKQWJZ1BNk-qsBYxgLR3W6ypQ8dUPmA/viewform?usp=header"
+},
+{
+"text": "Advise",
+"href": "https://gardner4house12b.com/advisory-board"
+},
+{
+"text": "Contact",
+"href": "https://gardner4house12b.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://gardner4house12b.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://gardner4house12b.com/donate-orig"
+},
+{
+"text": "Donate to Mike's Campaign",
+"href": "https://secure.actblue.com/donate/we-like-mike"
+},
+{
+"text": "FAQs",
+"href": "https://gardner4house12b.com/issues"
+},
+{
+"text": "Home",
+"href": "https://gardner4house12b.com/Home"
+},
+{
+"text": "Join the Campaign!",
+"href": "https://forms.gle/pf33hkvtoMyprE3a6"
+},
+{
+"text": "Sign Up for Advisory Board",
+"href": "https://forms.gle/zovwL7g2DEGxj2QY7"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd11kkloeBoKHazlr7LKQWJZ1BNk-qsBYxgLR3W6ypQ8dUPmA/viewform?usp=header"
+},
+{
+"text": "Volunteer",
+"href": "https://gardner4house12b.com/volunteer"
+},
+{
+"text": "[image: Michael Gardner for District 12B]",
+"href": "https://gardner4house12b.com"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+},
+{
+"text": "joining our Advisory Board",
+"href": "https://forms.gle/p1C3y5suoFwHsUEv5"
+},
+{
+"text": "submitting a question",
+"href": "https://forms.gle/T2Tz5tPB83aegcsy7"
+}
 ]

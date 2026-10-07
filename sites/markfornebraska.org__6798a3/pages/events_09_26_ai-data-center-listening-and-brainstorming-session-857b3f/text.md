@@ -1,9 +1,2 @@
-Back to All Events
-Mark Cohen, Independent Candidate for Nebraska Congressional District 3, is hosting a listening/brainstorming session regarding AI Data Centers.
-Previous
-Previous
-September 23
-Broken Bow Town Hall
-Next
-Next
-October 5
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Back to All Events AI Data Center: Listening and Brainstorming Session Friday, September 25, 2026 4:00 PM 5:15 PM 2020 1st Avenue Kearney, Nebraska, 68847 (map) Google Calendar ICS Mark Cohen, Independent Candidate for Nebraska Congressional District 3, is hosting a listening/brainstorming session regarding AI Data Centers.
+Previous Previous September 23 Broken Bow Town Hall Next Next October 5 Grant Town Hall Donate info@markfornebraska.org Send checks to: Mark for Nebraska PO Box 81 Lemoyne, NE 69146 Volunteer Contact Terms of Use Privacy Policy PAID FOR AND AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website →

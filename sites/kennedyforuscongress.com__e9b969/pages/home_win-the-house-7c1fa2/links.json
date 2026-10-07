@@ -1,49 +1,194 @@
 [
-"https://act.sarahforiowa.com/jO0EN-lwp0OsPPusgMRkYg2",
-"https://act.wewill2026.com/volunteer?_gl=1%2A9pltvn%2A_gcl_au%2AMjA0MjcwMTM3Mi4xNzg5NDkwMjAwLi0uLS4xNzg5NDkwMjAwLjM2OTIyOTAzMC4xNzg5NDkwMjAwLjE3ODk0OTAyMDA.%2A_ga%2AMTY2NDA1MjYwMC4xNzg5NDkwMjAw%2A_ga_9HGRN1YTHL%2AczE3ODk0OTAyMDAkbzEkZzAkdDE3ODk0OTAyMDAkajYwJGwwJGgw",
-"https://agerforcongress.com/volunteer",
-"https://amishforarizona.com/takeaction",
-"https://baledalton.com/volunteer",
-"https://bermanforcongress.com/volunteer",
-"https://billhillforalaskans.com/volunteer",
-"https://bohannanforcongress.com/volunteer",
-"https://brooksforcongress.com/volunteer",
-"https://chazmolder.com/",
-"https://docs.google.com/forms/d/1Zgaw4YCxJDvg30y9kDhx9eCihOsWNSwFeWj1egO5rqo/viewform?edit_requested=true",
-"https://docs.google.com/forms/d/e/1FAIpQLSdNYke1jnAjunWPeth1SG-0x5_s_1ZsXJV748mtEzKxUbz1vg/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSdzQcNpT7JLjDz3TbMRKUx7LkRRfiN2dsLhA4utEmVyieWw0w/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSf52naIOPx15lAgwepKoyyl5_qrd5mqVZkXVaDZIXz3GSBsxQ/viewform",
-"https://drpanforcongress.com/contact-us",
-"https://elaineforcongress.com/take-action",
-"https://facebook.com/KennedyforCongress",
-"https://instagram.com/kennedyforny26",
-"https://joannamendoza.com/get-involved/volunteer",
-"https://jonathannezforaz.com/get-involved/volunteer",
-"https://kennedyforuscongress.com/",
-"https://kennedyforuscongress.com/get-involved",
-"https://kennedyforuscongress.com/issues",
-"https://kennedyforuscongress.com/meet-tim",
-"https://marnivonwilpert.com/volunteer",
-"https://mobilize.us/bobharvieforcongress",
-"https://mobilize.us/caitfornewyork",
-"https://mobilize.us/christinaforcongress",
-"https://mobilize.us/denisepowellforcongress/event/979357",
-"https://mobilize.us/killinforcolorado",
-"https://mobilize.us/mannyrutinelforcongress",
-"https://mobilize.us/seanmccannforcongress/event/941084",
-"https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Felections.erie.gov%2FVSearch2&data=05%7C02%7Clneuland%40martingroupmarketing.com%7C68306aadba144da3716108dc661df67c%7C588e654ee7bb4f4ba91a6f7f37e431b7%7C0%7C0%7C638497526120802889%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=DysQNA4iibwZkCpyKtc%2FlMJiSI6WJH8xXE1ccAvBGzw%3D&reserved=0",
-"https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvic.ntsdata.com%2Fhome%2Fniagara&data=05%7C02%7Clneuland%40martingroupmarketing.com%7C68306aadba144da3716108dc661df67c%7C588e654ee7bb4f4ba91a6f7f37e431b7%7C0%7C0%7C638497526120816726%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=odf08ZB3fNsxPtuW1FfoIkpLMZ1V2FnMViIczCeqYLE%3D&reserved=0",
-"https://poindexterforcongress.com/get-involved",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://pulidoevents.com/volunteer",
-"https://rebeccabennettforcongress.com/volunteer",
-"https://samformontana.com/volunteer",
-"https://secure.ngpvan.com/66QvBK5xKkm-ShFFWU19iQ2",
-"https://secure.ngpvan.com/HETU3aePKEuFwIrW-8-21Q2",
-"https://secure.ngpvan.com/cPyJ6b7wZk2UWe2rpV3WPw2",
-"https://shannontaylorva.com/volunteer",
-"https://twitter.com/kennedyforny26",
-"https://villegasforcongress.com/volunteer",
-"https://votejohnnygarcia.com/join"
+{
+"text": "Amish Shah",
+"href": "https://www.amishforarizona.com/takeaction"
+},
+{
+"text": "Bale Dalton",
+"href": "https://baledalton.com/volunteer/"
+},
+{
+"text": "Bill Hill",
+"href": "https://billhillforalaskans.com/volunteer/"
+},
+{
+"text": "Bob Brooks",
+"href": "https://brooksforcongress.com/volunteer/"
+},
+{
+"text": "Bob Harvie",
+"href": "https://www.mobilize.us/bobharvieforcongress/"
+},
+{
+"text": "Bobby Pulido",
+"href": "https://pulidoevents.com/volunteer"
+},
+{
+"text": "Brian Poindexter",
+"href": "https://poindexterforcongress.com/get-involved/"
+},
+{
+"text": "Cait Conley",
+"href": "https://www.mobilize.us/caitfornewyork/"
+},
+{
+"text": "Chaz Molder",
+"href": "https://chazmolder.com/"
+},
+{
+"text": "Christina Bohannan",
+"href": "https://bohannanforcongress.com/volunteer/"
+},
+{
+"text": "Christina Hines",
+"href": "https://www.mobilize.us/christinaforcongress/"
+},
+{
+"text": "Denise Powell",
+"href": "https://www.mobilize.us/denisepowellforcongress/event/979357/"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/cPyJ6b7wZk2UWe2rpV3WPw2"
+},
+{
+"text": "Dr. Richard Pan",
+"href": "https://drpanforcongress.com/contact-us"
+},
+{
+"text": "Elaine Luria",
+"href": "https://elaineforcongress.com/take-action/"
+},
+{
+"text": "Erie County",
+"href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Felections.erie.gov%2FVSearch2&data=05%7C02%7Clneuland%40martingroupmarketing.com%7C68306aadba144da3716108dc661df67c%7C588e654ee7bb4f4ba91a6f7f37e431b7%7C0%7C0%7C638497526120802889%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=DysQNA4iibwZkCpyKtc%2FlMJiSI6WJH8xXE1ccAvBGzw%3D&reserved=0"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/KennedyforCongress"
+},
+{
+"text": "Get Involved",
+"href": "https://kennedyforuscongress.com/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/kennedyforny26/"
+},
+{
+"text": "Issues",
+"href": "https://kennedyforuscongress.com/issues/"
+},
+{
+"text": "Jake Johnson",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdNYke1jnAjunWPeth1SG-0x5_s_1ZsXJV748mtEzKxUbz1vg/viewform"
+},
+{
+"text": "Jamie Ager",
+"href": "https://agerforcongress.com/volunteer"
+},
+{
+"text": "Janelle Stelson",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdzQcNpT7JLjDz3TbMRKUx7LkRRfiN2dsLhA4utEmVyieWw0w/viewform"
+},
+{
+"text": "Jessica Killin",
+"href": "https://www.mobilize.us/killinforcolorado/"
+},
+{
+"text": "JoAnna Mendoza",
+"href": "https://www.joannamendoza.com/get-involved/volunteer/"
+},
+{
+"text": "Johnny Garcia",
+"href": "https://www.votejohnnygarcia.com/join"
+},
+{
+"text": "Jonathan Nez",
+"href": "https://www.jonathannezforaz.com/get-involved/volunteer/"
+},
+{
+"text": "Lindsay James",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf52naIOPx15lAgwepKoyyl5_qrd5mqVZkXVaDZIXz3GSBsxQ/viewform"
+},
+{
+"text": "Manny Rutinel",
+"href": "https://www.mobilize.us/mannyrutinelforcongress/"
+},
+{
+"text": "Marni von Wilpert",
+"href": "https://www.marnivonwilpert.com/volunteer"
+},
+{
+"text": "Meet Tim",
+"href": "https://kennedyforuscongress.com/meet-tim/"
+},
+{
+"text": "Mitchell Berman",
+"href": "https://www.bermanforcongress.com/volunteer"
+},
+{
+"text": "Niagara County",
+"href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvic.ntsdata.com%2Fhome%2Fniagara&data=05%7C02%7Clneuland%40martingroupmarketing.com%7C68306aadba144da3716108dc661df67c%7C588e654ee7bb4f4ba91a6f7f37e431b7%7C0%7C0%7C638497526120816726%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=odf08ZB3fNsxPtuW1FfoIkpLMZ1V2FnMViIczCeqYLE%3D&reserved=0"
+},
+{
+"text": "Paige Cognetti",
+"href": "https://secure.ngpvan.com/HETU3aePKEuFwIrW-8-21Q2"
+},
+{
+"text": "Pia Dandiya",
+"href": "https://secure.ngpvan.com/66QvBK5xKkm-ShFFWU19iQ2"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Randy Villegas",
+"href": "https://www.villegasforcongress.com/volunteer"
+},
+{
+"text": "Rebecca Bennett",
+"href": "https://rebeccabennettforcongress.com/volunteer/"
+},
+{
+"text": "Rebecca Cooke",
+"href": "https://docs.google.com/forms/d/1Zgaw4YCxJDvg30y9kDhx9eCihOsWNSwFeWj1egO5rqo/viewform?edit_requested=true"
+},
+{
+"text": "Sam Forstag",
+"href": "https://samformontana.com/volunteer/"
+},
+{
+"text": "Sarah Trone Garriott",
+"href": "https://act.sarahforiowa.com/jO0EN-lwp0OsPPusgMRkYg2"
+},
+{
+"text": "Sean McCann",
+"href": "https://www.mobilize.us/seanmccannforcongress/event/941084/"
+},
+{
+"text": "Shannon Taylor",
+"href": "https://shannontaylorva.com/volunteer/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Will Lawrence",
+"href": "https://act.wewill2026.com/volunteer/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/kennedyforny26"
+},
+{
+"text": "[image: Kennedy for U.S. Congress]",
+"href": "https://kennedyforuscongress.com/"
+},
+{
+"text": "info@kennedyforuscongress.com",
+"href": "mailto:info@kennedyforuscongress.com"
+}
 ]

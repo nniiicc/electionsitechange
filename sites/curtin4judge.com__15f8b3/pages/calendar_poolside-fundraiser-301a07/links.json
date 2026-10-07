@@ -1,16 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Poolside+Fundraiser&dates=20260903T210000Z%2F20260903T230000Z&location=1315+Connecticut+Woods+Drive%2C+Hudson%2C+Ohio%2C+44236%2C+United+States",
-"http://maps.google.com/?q=1315+Connecticut+Woods+Drive+Hudson%2C+Ohio%2C+44236+United+States",
-"https://curtin4judge.com/",
-"https://curtin4judge.com/calendar",
-"https://curtin4judge.com/calendar/42f9yq8t1l3aec8wacsyyfkqf7jkvq",
-"https://curtin4judge.com/calendar/barberton-labor-day-parade",
-"https://curtin4judge.com/calendar/poolside-fundraiser?format=ical",
-"https://curtin4judge.com/campaign-committee",
-"https://curtin4judge.com/cart",
-"https://curtin4judge.com/endorsements",
-"https://curtin4judge.com/help-the-campaign",
-"https://curtin4judge.com/meet-cynthia",
-"https://curtin4judge.com/meet-the-candidate",
-"https://facebook.com/people/Cynthia-Curtin-for-Judge/61577337141123"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1315+connecticut+woods+drive+hudson%2C+ohio%2C+44236+united+states"
+},
+{
+"text": "0",
+"href": "https://curtin4judge.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://curtin4judge.com/calendar"
+},
+{
+"text": "Campaign Committee",
+"href": "https://curtin4judge.com/campaign-committee"
+},
+{
+"text": "Endorsements",
+"href": "https://curtin4judge.com/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Poolside+Fundraiser&dates=20260903T210000Z%2F20260903T230000Z&location=1315+Connecticut+Woods+Drive%2C+Hudson%2C+Ohio%2C+44236%2C+United+States"
+},
+{
+"text": "Help the Campaign",
+"href": "https://curtin4judge.com/help-the-campaign"
+},
+{
+"text": "ICS",
+"href": "https://curtin4judge.com/calendar/poolside-fundraiser?format=ical"
+},
+{
+"text": "Meet Cynthia Curtin",
+"href": "https://curtin4judge.com/meet-cynthia"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://curtin4judge.com/meet-the-candidate"
+},
+{
+"text": "Next Next September 7 Barberton on Parade with Cynthia Curtin",
+"href": "https://curtin4judge.com/calendar/barberton-labor-day-parade"
+},
+{
+"text": "Previous Previous June 24 Reception in Support of Cynthia Curtin for Judge",
+"href": "https://curtin4judge.com/calendar/42f9yq8t1l3aec8wacsyyfkqf7jkvq"
+},
+{
+"text": "Upcoming Events",
+"href": "https://curtin4judge.com/calendar"
+},
+{
+"text": "[image: Cynthia Curtin for Judge]",
+"href": "https://curtin4judge.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Cynthia-Curtin-for-Judge/61577337141123"
+},
+{
+"text": "[no text]",
+"href": "mailto:curtin4judge@gmail.com"
+},
+{
+"text": "curtin4judge@gmail.com",
+"href": "mailto:curtin4judge@gmail.com"
+}
 ]

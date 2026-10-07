@@ -1,9 +1,30 @@
 [
-"http://facebook.com/",
-"https://instagram.com/kalama_micah_hawaii",
-"https://votemicahkalama51.com/",
-"https://votemicahkalama51.com/blank-1",
-"https://votemicahkalama51.com/our-initiatives",
-"https://votemicahkalama51.com/register-to-vote",
-"https://youtu.be/3UUr3KcYGOw"
+{
+"text": "About - Profile Page",
+"href": "https://www.votemicahkalama51.com/blank-1"
+},
+{
+"text": "Campaign Hub",
+"href": "https://www.votemicahkalama51.com"
+},
+{
+"text": "Our Initiatives",
+"href": "https://www.votemicahkalama51.com/our-initiatives"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.votemicahkalama51.com/register-to-vote"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kalama_micah_hawaii/"
+},
+{
+"text": "[no text]",
+"href": "https://youtu.be/3UUr3KcYGOw"
+}
 ]

@@ -1,6 +1,2 @@
-top of page
-For State Representative
-Get In Touch
-Contact Karen Martin
-For campaign inquiries and media requests, please email us or fill out the form below:
-bottom of page
+top of page Home About Me News Get Involved Contact More Use tab to navigate through the menu items.
+Subscribe Log In Karen Martin For State Representative Get In Touch Contact Karen Martin For campaign inquiries and media requests, please email us or fill out the form below: First name * Last name * Email * Phone Message SUBMIT Subscribe to Karen's Newsletter Get the latest updates from the campaign trail Enter your email here * Subscribe to Karen's newsletter. * SUBSCRIBE Follow Karen on Facebook Home About Me News Get Involved Contact Karen Martin For State Representative Paid for by the committee to elect Karen Martin for State Representative Treasurer Rich Esposito, Approved by Karen Martin bottom of page

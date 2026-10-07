@@ -1,9 +1,50 @@
 [
-"https://facebook.com/randymeierforia",
-"https://instagram.com/randymeierforiowa",
-"https://randymeieriowa.com/",
-"https://randymeieriowa.com/about",
-"https://randymeieriowa.com/get-involved",
-"https://randymeieriowa.com/privacy-policy",
-"https://secure.actblue.com/donate/randy-meier-for-iowa-1"
+{
+"text": "About",
+"href": "https://www.randymeieriowa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.randymeieriowa.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/randy-meier-for-iowa-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.randymeieriowa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.randymeieriowa.com"
+},
+{
+"text": "I Want to Help",
+"href": "https://www.randymeieriowa.com/get-involved"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.randymeieriowa.com/privacy-policy"
+},
+{
+"text": "Randy Meier for Iowa",
+"href": "https://www.randymeieriowa.com"
+},
+{
+"text": "[image: Campaign logo for Randy Meier for Iowa]",
+"href": "https://www.randymeieriowa.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/randymeierforia"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/randymeierforiowa/"
+},
+{
+"text": "randymeierforiowa@gmail.com",
+"href": "mailto:randymeierforiowa@gmail.com?subject=Campaign+for+HD-69+question"
+}
 ]

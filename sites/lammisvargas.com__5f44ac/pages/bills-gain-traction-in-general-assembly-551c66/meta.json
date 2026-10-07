@@ -1,11 +1,14 @@
 {
- "description": "Both a blood donor and a past donation\u2026",
+ "description": "Both a blood donor and a past donation…",
  "final_url": "https://lammisvargas.com/bills-gain-traction-in-general-assembly/",
- "paid_for_by": null,
+ "fingerprint": "7eaa9613a3afe763b1e27792914b21b169db81c7",
+ "format": 3,
+ "paid_for_by": "sponsored by State Rep",
  "title": "Bills gain traction in General Assembly - Lammis Vargas",
  "years_mentioned": [
   "2011",
   "2021",
+  "2025",
   "2026"
  ]
 }

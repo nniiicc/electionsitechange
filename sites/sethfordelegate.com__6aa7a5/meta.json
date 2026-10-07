@@ -1,9 +1,12 @@
 {
  "description": "Official campaign website for Seth Howard for Delegate",
  "final_url": "https://www.sethfordelegate.com/",
- "paid_for_by": null,
+ "fingerprint": "549faef57acd52b3f6922af5f6012628130c7905",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Seth Howard, Delegate District 30B",
  "years_mentioned": [
-  "2016"
+  "2016",
+  "2026"
  ]
 }

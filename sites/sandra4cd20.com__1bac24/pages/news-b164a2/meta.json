@@ -1,7 +1,11 @@
 {
  "description": "Learn what Sandra is hearing, what she's fighting for, and what comes next. Be the first to know.",
  "final_url": "https://www.electsandravanscotter.com/news",
- "paid_for_by": null,
+ "fingerprint": "59c26d9363aeea770da586c5d0a51574ecc6883d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Media | Sandra Van Scotter For CD20",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

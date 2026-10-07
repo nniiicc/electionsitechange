@@ -1,11 +1,42 @@
 [
-"https://electchipalo.com/",
-"https://electchipalo.com/about-chipalo",
-"https://electchipalo.com/endorsements",
-"https://electchipalo.com/priorities",
-"https://facebook.com/electchipalo",
-"https://instagram.com/electchipalo",
-"https://mobilize.us/electchipalo",
-"https://secure.anedot.com/chipalo/donate",
-"https://twitter.com/ElectChipalo"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/chipalo/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://electchipalo.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://electchipalo.com/"
+},
+{
+"text": "Join Team Chipalo",
+"href": "https://www.mobilize.us/electchipalo"
+},
+{
+"text": "Meet Chipalo",
+"href": "https://electchipalo.com/about-chipalo/"
+},
+{
+"text": "Priorities",
+"href": "https://electchipalo.com/priorities/"
+},
+{
+"text": "[image: Chipalo Street]",
+"href": "https://electchipalo.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/electchipalo/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/electchipalo/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/ElectChipalo/"
+}
 ]

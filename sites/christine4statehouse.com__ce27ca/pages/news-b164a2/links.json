@@ -1,44 +1,174 @@
 [
-"https://christine4statehouse.com/",
-"https://christine4statehouse.com/about-christine",
-"https://christine4statehouse.com/about-hd43",
-"https://christine4statehouse.com/capital-outlay-2026",
-"https://christine4statehouse.com/contact-us",
-"https://christine4statehouse.com/donate-1",
-"https://christine4statehouse.com/endorsements",
-"https://christine4statehouse.com/issues",
-"https://christine4statehouse.com/legislative-achievements",
-"https://christine4statehouse.com/m/account",
-"https://christine4statehouse.com/m/create-account",
-"https://christine4statehouse.com/m/orders",
-"https://christine4statehouse.com/news",
-"https://christine4statehouse.com/privacy-policy-1",
-"https://christine4statehouse.com/shop",
-"https://christine4statehouse.com/shop?olsPage=cart",
-"https://christine4statehouse.com/terms-and-conditions",
-"https://christine4statehouse.com/volunteer",
-"https://governor.state.nm.us/2021/04/08/gov-lujan-grisham-signs-healthy-workplaces-act-authorizing-paid-sick-leave-for-new-mexico-workers",
-"https://governor.state.nm.us/2021/04/08/governor-signs-measure-boosting-n-m-s-environmental-regulation-authority",
-"https://governor.state.nm.us/2022/03/08/governor-enacts-tax-cuts-for-new-mexico-seniors-families-and-businesses",
-"https://governor.state.nm.us/2022/08/10/gov-lujan-grisham-launches-statewide-broadband-grant-pilot-program",
-"https://governor.state.nm.us/2025/02/27/governor-signs-landmark-public-safety-and-behavioral-health-bills-lujan-grisham-urges-lawmakers-to-pass-even-more-crime-bills",
-"https://kob.com/news/top-news/dealing-with-crime-will-be-priority-for-nm-legislature-this-session",
-"https://krwg.org/local-viewpoints/2021-03-20/new-mexico-house-democrats-achieve-landmark-policy-goals-in-unprecedented-session",
-"https://krwg.org/local-viewpoints/2022-08-30/a-big-budget-surplus-means-big-opportunities",
-"https://kunm.org/local-news/2023-01-24/bill-would-require-require-coverage-for-breast-exams-at-no-cost",
-"https://kunm.org/local-news/2023-01-25/lawmakers-seek-to-end-the-suspension-of-tens-of-thousands-of-licenses-a-year",
-"https://kunm.org/local-news/2023-02-09/competing-proposals-would-increase-nm-child-tax-credit",
-"https://kunm.org/local-news/2023-02-14/revived-voting-rights-bill-that-failed-last-year-heads-to-the-house-floor",
-"https://kunm.org/local-news/2023-03-06/massive-nm-tax-bill-contains-smaller-direct-payments",
-"https://ladailypost.com/american-federation-of-teachers-and-national-education-association-of-new-mexico-endorse-state-rep-christine-chandlers-reelection-campaign",
-"https://ladailypost.com/new-mexico-gov-michelle-lujan-grisham-unveils-public-safety-legislative-agenda-for-2024-session",
-"https://ladailypost.com/state-rep-christine-chandler-and-u-s-rep-teresa-leger-fernandez-host-los-alamos-townhall",
-"https://ladailypost.com/the-voters-are-my-bosses-how-four-new-mexico-lawmakers-look-at-their-job",
-"https://losalamosreporter.com/2022/07/16/state-rep-christine-chandler-receives-nm-afl-cio-labor-riveter-trailblazer-awards-for-supporting-nms-workers",
-"https://losalamosreporter.com/2023/03/26/legislators-celebrate-signing-of-hb-31-and-hb-207-friday-at-the-roundhouse",
-"https://losalamosreporter.com/2024/04/11/rep-christine-chandler-to-address-moww-at-april-16-meeting",
-"https://nmpoliticalreport.com/2024/10/01/legislators-question-ai-resource-consumption",
-"https://rdrnews.com/news/local/crime-package-advances-out-of-nm-house-of-representatives/article_5d490e26-ed7d-11ef-acd4-8fa83c694b28.html",
-"https://rdrnews.com/news/local/paid-leave-bill-inches-ahead-in-the-nm-senate/article_156e6562-fe01-11ef-b818-fb085d2541e9.html",
-"https://sourcenm.com/2024/02/14/house-narrowly-rejects-paid-family-and-medical-leave-program"
+{
+"text": "About Christine",
+"href": "https://christine4statehouse.com/about-christine"
+},
+{
+"text": "About HD43",
+"href": "https://christine4statehouse.com/about-hd43"
+},
+{
+"text": "Capital Outlay 2026",
+"href": "https://christine4statehouse.com/capital-outlay-2026"
+},
+{
+"text": "Contact Us",
+"href": "https://christine4statehouse.com/contact-us"
+},
+{
+"text": "Create Account",
+"href": "https://christine4statehouse.com/m/create-account"
+},
+{
+"text": "Donate",
+"href": "https://christine4statehouse.com/donate-1"
+},
+{
+"text": "Endorsements",
+"href": "https://christine4statehouse.com/endorsements"
+},
+{
+"text": "Find out more",
+"href": "https://ladailypost.com/state-rep-christine-chandler-and-u-s-rep-teresa-leger-fernandez-host-los-alamos-townhall/"
+},
+{
+"text": "Find out more",
+"href": "https://nmpoliticalreport.com/2024/10/01/legislators-question-ai-resource-consumption/"
+},
+{
+"text": "Find out more",
+"href": "https://www.governor.state.nm.us/2025/02/27/governor-signs-landmark-public-safety-and-behavioral-health-bills-lujan-grisham-urges-lawmakers-to-pass-even-more-crime-bills/"
+},
+{
+"text": "Find out more",
+"href": "https://www.kob.com/news/top-news/dealing-with-crime-will-be-priority-for-nm-legislature-this-session/"
+},
+{
+"text": "Find out more",
+"href": "https://www.rdrnews.com/news/local/crime-package-advances-out-of-nm-house-of-representatives/article_5d490e26-ed7d-11ef-acd4-8fa83c694b28.html"
+},
+{
+"text": "Find out more",
+"href": "https://www.rdrnews.com/news/local/paid-leave-bill-inches-ahead-in-the-nm-senate/article_156e6562-fe01-11ef-b818-fb085d2541e9.html"
+},
+{
+"text": "Home",
+"href": "https://christine4statehouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://christine4statehouse.com/issues"
+},
+{
+"text": "Legislative Achievements",
+"href": "https://christine4statehouse.com/legislative-achievements"
+},
+{
+"text": "My Account",
+"href": "https://christine4statehouse.com/m/account"
+},
+{
+"text": "News",
+"href": "https://christine4statehouse.com/news"
+},
+{
+"text": "Orders",
+"href": "https://christine4statehouse.com/m/orders"
+},
+{
+"text": "Privacy Policy",
+"href": "https://christine4statehouse.com/privacy-policy-1"
+},
+{
+"text": "Shop",
+"href": "https://christine4statehouse.com/shop"
+},
+{
+"text": "Sign In",
+"href": "https://christine4statehouse.com/m/account"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://christine4statehouse.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://christine4statehouse.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://christine4statehouse.com/shop?olsPage=cart"
+},
+{
+"text": "find out more",
+"href": "https://ladailypost.com/american-federation-of-teachers-and-national-education-association-of-new-mexico-endorse-state-rep-christine-chandlers-reelection-campaign/"
+},
+{
+"text": "find out more",
+"href": "https://ladailypost.com/new-mexico-gov-michelle-lujan-grisham-unveils-public-safety-legislative-agenda-for-2024-session/"
+},
+{
+"text": "find out more",
+"href": "https://ladailypost.com/the-voters-are-my-bosses-how-four-new-mexico-lawmakers-look-at-their-job/"
+},
+{
+"text": "find out more",
+"href": "https://losalamosreporter.com/2022/07/16/state-rep-christine-chandler-receives-nm-afl-cio-labor-riveter-trailblazer-awards-for-supporting-nms-workers/"
+},
+{
+"text": "find out more",
+"href": "https://losalamosreporter.com/2023/03/26/legislators-celebrate-signing-of-hb-31-and-hb-207-friday-at-the-roundhouse/"
+},
+{
+"text": "find out more",
+"href": "https://losalamosreporter.com/2024/04/11/rep-christine-chandler-to-address-moww-at-april-16-meeting/"
+},
+{
+"text": "find out more",
+"href": "https://sourcenm.com/2024/02/14/house-narrowly-rejects-paid-family-and-medical-leave-program/"
+},
+{
+"text": "find out more",
+"href": "https://www.governor.state.nm.us/2021/04/08/gov-lujan-grisham-signs-healthy-workplaces-act-authorizing-paid-sick-leave-for-new-mexico-workers/#:~:text=Gov.-,Lujan%20Grisham%20signs%20Healthy%20Workplaces%20Act%2C%20authorizing%20paid,leave%20for%20New%20Mexico%20workers&text=SANTA%20FE%20%E2%80%93%20Gov.,during%20the%20COVID%2D19%20pandemic"
+},
+{
+"text": "find out more",
+"href": "https://www.governor.state.nm.us/2021/04/08/governor-signs-measure-boosting-n-m-s-environmental-regulation-authority/"
+},
+{
+"text": "find out more",
+"href": "https://www.governor.state.nm.us/2022/03/08/governor-enacts-tax-cuts-for-new-mexico-seniors-families-and-businesses/"
+},
+{
+"text": "find out more",
+"href": "https://www.governor.state.nm.us/2022/08/10/gov-lujan-grisham-launches-statewide-broadband-grant-pilot-program/"
+},
+{
+"text": "find out more",
+"href": "https://www.krwg.org/local-viewpoints/2021-03-20/new-mexico-house-democrats-achieve-landmark-policy-goals-in-unprecedented-session"
+},
+{
+"text": "find out more",
+"href": "https://www.krwg.org/local-viewpoints/2022-08-30/a-big-budget-surplus-means-big-opportunities"
+},
+{
+"text": "find out more",
+"href": "https://www.kunm.org/local-news/2023-01-24/bill-would-require-require-coverage-for-breast-exams-at-no-cost"
+},
+{
+"text": "find out more",
+"href": "https://www.kunm.org/local-news/2023-01-25/lawmakers-seek-to-end-the-suspension-of-tens-of-thousands-of-licenses-a-year"
+},
+{
+"text": "find out more",
+"href": "https://www.kunm.org/local-news/2023-02-09/competing-proposals-would-increase-nm-child-tax-credit"
+},
+{
+"text": "find out more",
+"href": "https://www.kunm.org/local-news/2023-02-14/revived-voting-rights-bill-that-failed-last-year-heads-to-the-house-floor"
+},
+{
+"text": "find out more",
+"href": "https://www.kunm.org/local-news/2023-03-06/massive-nm-tax-bill-contains-smaller-direct-payments"
+}
 ]

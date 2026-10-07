@@ -1,6 +1,4 @@
-ABOUT SCOTT
-Miami Beach Born, Lauderdale Raised, Boca Raton Mayor
-Scott Singer is the Republican nominee running to represent Florida’s 25th district in Congress, the district where he was born and raised and has lived for 40 years.
+0 Skip to Content ENDORSEMENTS PRIORITIES ABOUT MEDIA English DONATE Open Menu Close Menu English DONATE ENDORSEMENTS PRIORITIES ABOUT MEDIA Open Menu Close Menu ENDORSEMENTS PRIORITIES ABOUT MEDIA English Back DONATE ABOUT SCOTT Miami Beach Born, Lauderdale Raised, Boca Raton Mayor Scott Singer is the Republican nominee running to represent Florida’s 25th district in Congress, the district where he was born and raised and has lived for 40 years.
 As Congressman, he will keep taxes and costs low, ensure strong borders and national defense, and cut waste, fraud, and abuse.
 He will work with President Trump and colleagues in Congress to advance common-sense solutions to improve our economy and protect our nation.
 Scott has a strong record of results as the three-term Mayor of Boca Raton where he balanced budgets while working to advance public safety, education, affordability, and accountability.
@@ -23,5 +21,5 @@ Singer has been active in a variety of nonprofit and leadership roles and has ea
 Scott has been a strong voice against antisemitism, and an advocate for stronger national security that safeguards our borders and protects our future.
 Scott’s family fled communism and he will stand up to far-left proposals to abolish prisons and federal law enforcement or private health care.
 Scott and his wife, Bella, are the proud parents of two children, and Scott is motivated to work for the next generation to ensure a better future for our community, our state, and our nation.
-SUPPORT TEAM SINGER
-SCOTT’S PRIORITIES
+Vote By Mail - Miami Dade County Vote By Mail - Broward County Vote By Mail - Palm Beach County SUPPORT TEAM SINGER $25 $100 $250 $1000 DONATE VIA BITCOIN $3500 $7000 OTHER JOIN TEAM SINGER Terms & Conditions + Privacy Policy apply.
+SCOTT’S PRIORITIES Jobs & Economy - A Proven Record of Strong Results MORE → Respect the Rule of Law & Stand with Law Enforcement MORE → Committed to a Strong National Defense and Military MORE → Scott Pledged to Keep Taxes Low and Has Delivered MORE → Advance Free-Market Capitalism & Oppose Socialism MORE → Cryptocurrency and Digital Asset Innovation MORE → Increasing Accountability and Transparency MORE → Infrastructure & Insurance Click Here History of Service & Community Involvement MORE → Standing with Israel & our Jewish Community MORE → Defending Our Communities & Constitutional Rights Click Here Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) Scott Singer for Congress PO Box 810335 Boca Raton, FL 33481 PRIVACY POLICY

@@ -1,3 +1,5 @@
-The freshman North Shore legislator has received nearly $247,000 from Madigan.
+P.O.
+Box 3042 Glenview, Illinois 60025 Email: Jen@JenGGforRep.com Home About Jen Issues News Take Action Donate Volunteer Yard Sign Contact Daily Archives: September 29, 2020 Home 2020 September 29 Seventh House Democrat calls on Madigan to hand over speaker’s gavel now: ‘It’s the right thing to do’ staff September 29, 2020 The freshman North Shore legislator has received nearly $247,000 from Madigan.
 She said she called the speaker to let him know she’d be calling for him to step down, but didn’t offer more details about their call.
-A north suburban legislator who has benefited from nearly $247,000 in contributions from House Speaker Michael Madigan is now calling for the beleaguered political powerhouse to step
+A north suburban legislator who has benefited from nearly $247,000 in contributions from House Speaker Michael Madigan is now calling for the beleaguered political powerhouse to step Read More Latest News Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Socials Recent Posts Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Contact Info Jen@JenGGforRep.com P.O.
+Box 3042 Glenview, Illinois 60025 Take Action Donate Volunteer Yard Sign 2022 Paid for by Friends for Jennifer All rights reserved.

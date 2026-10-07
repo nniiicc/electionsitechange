@@ -1,5 +1,5 @@
-Privacy & Terms
-You agree to receive recurring automated informational text (e.g., SMS and MMS) messages from Friends of Kevin Ford, including text messages that may be sent using an automatic telephone dialing system, to the mobile telephone number you provided when signing up or any other number that you designate.
+Please enable JavaScript in your browser.
+Donate Menu Home About Issues Volunteer Contact Donate Privacy & Terms You agree to receive recurring automated informational text (e.g., SMS and MMS) messages from Friends of Kevin Ford, including text messages that may be sent using an automatic telephone dialing system, to the mobile telephone number you provided when signing up or any other number that you designate.
 All the different types of messages you may receive (informational) shall be collectively known as the “Programs.” Consent to receive automated text messages is not a condition of any purchase.
 Cost: Msg & Data rates may apply.
 Please consult with your carrier for rate information.
@@ -17,3 +17,5 @@ Support: For support regarding the Program, text “HELP” to the applicable Pr
 Please note that the use of this email address, or texting “HELP” to the Program’s Short or long Code is not an acceptable method of opting out of the Program.
 Opt-outs must be submitted in accordance with the procedures set forth above.
 Privacy: EXCEPT AS SET FORTH IN THIS SECTION, WE DO NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS COLLECTED THROUGH PROGRAMS TO ANY THIRD PARTY.
+Get the Latest Home About Issues Volunteer Contact Donate 443-797-7164 P.O.
+Box 11 White Hall, MD 21161 info@friendsofkevinford.com Privacy & Terms Authority: Friends of Kevin Ford, Aimee O’Neill, Treasurer

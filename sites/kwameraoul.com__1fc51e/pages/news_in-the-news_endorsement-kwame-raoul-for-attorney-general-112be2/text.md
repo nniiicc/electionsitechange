@@ -1,8 +1,10 @@
-The race for Illinois attorney general is one of those statewide elections that often get overlooked until voters pull up their ballots in the voting booth.
+About Kwame On the Issues Fighting Crime in Our Communities Advocating for Women Supporting Survivors Protecting Children Fighting for Affordable Healthcare Protecting Voting Rights Standing with Workers News Press Releases In the News Get Involved Get Updates Volunteer Contact Us Donate Now About Kwame On the Issues News Get Involved Contact Us In the News | 10/13/22 Endorsement: Kwame Raoul for attorney general Share The race for Illinois attorney general is one of those statewide elections that often get overlooked until voters pull up their ballots in the voting booth.
 That is more than unfortunate.
 The office provides protections for, among other things, consumers, the environment, health care, access to government information, as well as public safety.
 If not occupied by the right person, it also could offer an obstructionist an opening to play with our rights and our elections.
 Responsibility is an important job requirement.
+Given the national flood of election deniers, the race this year should be getting even more media and public attention than normal, but it seems to be getting less.
+And particularly given the sharp divides between the two major-party candidates, that is a little hard to understand.
 This is not a race to go to sleep on.
 The candidates are Democratic incumbent Kwame Raoul of Chicago; Republican attorney Tom DeVore of downstate Greenville; and Libertarian Dan Robin, a retired attorney from Schaumburg who has no likelihood of being elected.
 We endorse Raoul for reelection.
@@ -16,12 +18,14 @@ JB Pritzker respond to the COVID-19 crisis with an ongoing series of “emergenc
 Do the controversial SAFE-T Act restrictions on cash bail fail constitutional separation of powers stipulations as several county state’s attorneys suggest?
 Should not prosecutors be held to account if they habitually fail to prosecute?
 Still, we have concerns about DeVore.
-He has a tendency to respond to critics with lawsuits.
+He has a tendency to respond to critics with lawsuits .
 He used a slur to disparage children, if not special needs children, in a widely publicized controversy five years ago.
 His distrust of the news media runs so deep that it limits public access to him and we fear it would in office as well.
 We suspect that if elected, DeVore would constantly be warring with political opponents at all levels.
 But he’s not the gadfly he’s made out to be, and he raises questions that should be debated seriously.
 Meanwhile, four years ago, we endorsed Raoul based on his depth of understanding of the law, his experience and his passion on behalf of public service.
 He has not disappointed.
-He has been an activist attorney general who has upheld the energetic decadeslong consumer-focused traditions of the attorney general’s office.
+He has been an activist attorney general who has upheld the energetic decades­long consumer-focused traditions of the attorney general’s office.
 Raoul has earned another term.
+Read on the Daily Herald Share Stay Up-to-Date Privacy Policy Copyright Kwame Raoul #, All Rights Reserved.
+Paid for by Raoul for Illinois Get Involved

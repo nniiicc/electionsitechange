@@ -1,13 +1,50 @@
 [
-"https://lorihoughton.com/",
-"https://lorihoughton.com/about-lori.html",
-"https://lorihoughton.com/cdn-cgi/l/email-protection",
-"https://lorihoughton.com/community-resources.html",
-"https://lorihoughton.com/news.html",
-"https://lorihoughton.com/priorities.html",
-"https://lorihoughton.com/voter-information.html",
-"https://mvp.vermont.gov/",
-"https://secure.actblue.com/donate/lorihoughton-for-vt-house-1",
-"https://sos.vermont.gov/elections/voters/registration",
-"https://sos.vermont.gov/elections/voters/voter-faqs"
+{
+"text": "About Lori",
+"href": "https://www.lorihoughton.com/about-lori.html"
+},
+{
+"text": "Community Resources",
+"href": "https://www.lorihoughton.com/community-resources.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lorihoughton-for-vt-house-1"
+},
+{
+"text": "Home",
+"href": "https://www.lorihoughton.com/"
+},
+{
+"text": "News",
+"href": "https://www.lorihoughton.com/news.html"
+},
+{
+"text": "Priorities",
+"href": "https://www.lorihoughton.com/priorities.html"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://sos.vermont.gov/elections/voters/registration/"
+},
+{
+"text": "VOTER INFORMATION",
+"href": "https://www.lorihoughton.com/voter-information.html"
+},
+{
+"text": "Vermont Secretary of State Election FAQs",
+"href": "https://sos.vermont.gov/elections/voters/voter-faqs/"
+},
+{
+"text": "[email protected]",
+"href": "https://www.lorihoughton.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "https://www.lorihoughton.com/"
+},
+{
+"text": "https://mvp.vermont.gov/",
+"href": "https://mvp.vermont.gov/"
+}
 ]

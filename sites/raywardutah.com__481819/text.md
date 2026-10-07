@@ -1,15 +1,7 @@
-Message From Ray Ward:
-We live in challenging times.
+0 Skip to Content Home About Updates/ Events Upcoming Events March 2, 2024 Newsletter Issues Pro-Life Pro-Mom Pro-Child Cutting Taxes Conserving Water For Great Salt Lake Supporting Students, Parents, and Teachers in K-12 Education Housing Affordability Supporting the Disabled Community Service Videos Endorsements Volunteer Contact Donate Open Menu Close Menu Home About Updates/ Events Upcoming Events March 2, 2024 Newsletter Issues Pro-Life Pro-Mom Pro-Child Cutting Taxes Conserving Water For Great Salt Lake Supporting Students, Parents, and Teachers in K-12 Education Housing Affordability Supporting the Disabled Community Service Videos Endorsements Volunteer Contact Donate Open Menu Close Menu Home About Folder: Updates/ Events Back Upcoming Events March 2, 2024 Newsletter Folder: Issues Back Pro-Life Pro-Mom Pro-Child Cutting Taxes Conserving Water For Great Salt Lake Supporting Students, Parents, and Teachers in K-12 Education Housing Affordability Supporting the Disabled Community Service Videos Endorsements Volunteer Contact Donate Slide 1 Slide 1 (current slide) Message From Ray Ward: We live in challenging times.
 Many things are going well for Utah, but our state faces many difficult issues and decisions.
 Government cannot solve every problem, but the decisions that our state government makes do affect our schools, our environment, and what our communities are like.
 In my time as House Representative, I have done my best to listen to you and to represent our community’s values at our state Capitol.
-I hope you will take a minute to look through what I have stood for and then to contact me if you have questions or issues that are important to you.
-- Representative RAYMOND P.
+I hope you will take a minute to look through what I have stood for and then to contact me if you have questions or issues that are important to you. - Representative RAYMOND P.
 WARD, M.D.-PhD.
-RAY WARD HAS A PROVEN TRACK RECORD
-OF RESPONSIBLE REPUBLICAN REPRESENTATION
-Videos
-Allowing the Free Market to Build More Affordable Housing
-Pro-Life Pro-Mom Pro-Child
-Supporting Public Education
-Lowering Taxes, Helping Seniors
+RAY WARD HAS A PROVEN TRACK RECORD OF RESPONSIBLE REPUBLICAN REPRESENTATION Pro-life Pro-mom Pro-Child Cutting Taxes Conserving Water for Great Salt Lake Supporting Students, Parents, and Teachers in K-12 Education Supporting the Disabled Housing Affordability Community Service Videos Allowing the Free Market to Build More Affordable Housing Pro-Life Pro-Mom Pro-Child Supporting Public Education Lowering Taxes, Helping Seniors Let’s Stay Connected

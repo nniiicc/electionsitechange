@@ -1,10 +1,18 @@
 {
  "description": "MEET JOE",
  "final_url": "https://www.votehohenstein.com/meet-joe",
+ "fingerprint": "eb368276467605ee9e00ab380c0677979af14001",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Joe Hohenstein PAC",
- "title": "Meet Joe \u2014 Elect Joe Hohenstein",
+ "title": "Meet Joe — Elect Joe Hohenstein",
  "years_mentioned": [
+  "1979",
+  "1982",
+  "1985",
+  "1989",
+  "1993",
   "2017",
-  "2018"
+  "2018",
+  "2019"
  ]
 }

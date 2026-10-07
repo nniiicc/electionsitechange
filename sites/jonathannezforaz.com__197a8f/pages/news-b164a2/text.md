@@ -1,72 +1,16 @@
-news & press
-Latest Statements
-PRESS RELEASE
-Nez Slams Crane’s Harmful Policies as Jobs Report Shows Arizona Workers Getting Squeezed
-Nez’s Warrior Up Agenda would reverse Crane-backed policies that have raised costs and hurt workers
-PRESS RELEASE
-Nez Helps Cut Ribbon for New Hospital Serving Rural Arizona
-Nez celebrates opening of rural healthcare clinic continuing his unwavering commitment to rural communities
-PRESS RELEASE
-Nez Fights for AZ Families as Data Center Debate Exposes Rep.
-Crane’s Allegiance to Billionaires
-As Jonathan Nez stands up for working families and Arizona’s water, Congressman Crane continues to back tax breaks for billionaires and data centers
-PRESS RELEASE
-ICYMI: Congressman Eli Crane Covers Up the Epstein Files After Epstein Enablers Flood Him with Cash
-Congressman Crane continues to fight for powerful elites instead of his own constituents
-PRESS RELEASE
-“Trying to fool his constituents”: Congressman Crane Takes Credit for Something He Voted Against
-Congressman Crane takes credit for water leadership after he votes against water rights
-PRESS RELEASE
-Nez Pledges to Introduce Legislation to Claw Back OBBBA Tax Breaks for Data Centers
-Nez is a Warrior for Arizona Water and Will Introduce Legislation to Claw Back Congressman Crane’s Harmful OBBBA Tax Breaks for Data Centers
-PRESS RELEASE
-Rep.
-Crane Takes Money from Mega Donor as his Campaign Continues to be Bankrolled by DC Elite PACs
-As proven overperformer Jonathan Nez closes the gap, Congressman Crane once again turns to deep-pocketed donors
-PRESS RELEASE
-Congressman Eli Crane Just Voted to Continue the War Driving Up Costs … Again
-Crane Votes Yet Again to Continue Iran War, As Diesel Fuel Hits Record High Prices, Nez Calls Upon Crane to do the Right Thing and End his Reckless War that’s Costing American Families
-PRESS RELEASE
-Nez Highlights Plan for Rural Arizona, Crane Once Again Doesn’t Show Up to Answer Tough Q’s
-Jonathan Nez outlined his “Warrior Up” agenda to lower costs, secure our water, invest in rural Arizona, and hold billionaires and elite accountable
-PRESS RELEASE
-Hypocrisy: Rep.
-Crane Once Opposed Deadly, Costly "Forever Wars." His Website Update Says Otherwise
-Eli Crane Once Criticized “Forever Wars.” Now He’s Scrubbing those Promises from his Website.
-His Record shows a Congressman who Talks Tough on War, Abandons his Principles, and Leaves Arizona Taxpayers to Foot the Bill
-PRESS RELEASE
-Jonathan Nez Reaffirms Commitment to Arizona Workers, Labor Unions Ahead of Labor Day
-Nez highlights his labor endorsements and promises to fight inflation, expand workforce training, and strengthen opportunities for working families
-PRESS RELEASE
-ICYMI: Poll Shows Dem.
+Skip navigation menu About Agenda Press Endorsements Volunteer Events Donate About Agenda Press Endorsements Volunteer Events Donate news & press Latest Statements PRESS RELEASE Nez Slams Crane’s Harmful Policies as Jobs Report Shows Arizona Workers Getting Squeezed Nez’s Warrior Up Agenda would reverse Crane-backed policies that have raised costs and hurt workers Read more Oct 5 2026 PRESS RELEASE Nez Helps Cut Ribbon for New Hospital Serving Rural Arizona Nez celebrates opening of rural healthcare clinic continuing his unwavering commitment to rural communities Read more Oct 2 2026 PRESS RELEASE Nez Fights for AZ Families as Data Center Debate Exposes Rep.
+Crane’s Allegiance to Billionaires As Jonathan Nez stands up for working families and Arizona’s water, Congressman Crane continues to back tax breaks for billionaires and data centers Read more Sep 30 2026 PRESS RELEASE ICYMI: Congressman Eli Crane Covers Up the Epstein Files After Epstein Enablers Flood Him with Cash Congressman Crane continues to fight for powerful elites instead of his own constituents Read more Sep 29 2026 PRESS RELEASE “Trying to fool his constituents”: Congressman Crane Takes Credit for Something He Voted Against Congressman Crane takes credit for water leadership after he votes against water rights Read more Sep 25 2026 PRESS RELEASE Nez Pledges to Introduce Legislation to Claw Back OBBBA Tax Breaks for Data Centers Nez is a Warrior for Arizona Water and Will Introduce Legislation to Claw Back Congressman Crane’s Harmful OBBBA Tax Breaks for Data Centers Read more Sep 23 2026 PRESS RELEASE Rep.
+Crane Takes Money from Mega Donor as his Campaign Continues to be Bankrolled by DC Elite PACs As proven overperformer Jonathan Nez closes the gap, Congressman Crane once again turns to deep-pocketed donors Read more Sep # 2026 PRESS RELEASE Congressman Eli Crane Just Voted to Continue the War Driving Up Costs … Again Crane Votes Yet Again to Continue Iran War, As Diesel Fuel Hits Record High Prices, Nez Calls Upon Crane to do the Right Thing and End his Reckless War that’s Costing American Families Read more Sep 16 2026 PRESS RELEASE Nez Highlights Plan for Rural Arizona, Crane Once Again Doesn’t Show Up to Answer Tough Q’s Jonathan Nez outlined his “Warrior Up” agenda to lower costs, secure our water, invest in rural Arizona, and hold billionaires and elite accountable Read more Sep 11 2026 PRESS RELEASE Hypocrisy: Rep.
+Crane Once Opposed Deadly, Costly "Forever Wars." His Website Update Says Otherwise Eli Crane Once Criticized “Forever Wars.” Now He’s Scrubbing those Promises from his Website.
+His Record shows a Congressman who Talks Tough on War, Abandons his Principles, and Leaves Arizona Taxpayers to Foot the Bill Read more Sep 8 2026 PRESS RELEASE Jonathan Nez Reaffirms Commitment to Arizona Workers, Labor Unions Ahead of Labor Day Nez highlights his labor endorsements and promises to fight inflation, expand workforce training, and strengthen opportunities for working families Read more Sep 4 2026 PRESS RELEASE ICYMI: Poll Shows Dem.
 Jonathan Nez Tied with Rep.
-Eli Crane in District Trump Won by Double Digits
-Polls show Jonathan Nez is neck and neck with the incumbent Republican Eli Crane in a district Trump won by 15 points
-PRESS RELEASE
-As Lake Mead Reaches Lowest Level Ever, Jonathan Nez Rips Rep.
+Eli Crane in District Trump Won by Double Digits Polls show Jonathan Nez is neck and neck with the incumbent Republican Eli Crane in a district Trump won by 15 points Read more Sep 2 2026 PRESS RELEASE As Lake Mead Reaches Lowest Level Ever, Jonathan Nez Rips Rep.
 Crane, Trump Admin.
-Over Inaction
-With Lake Mead at just 26% capacity, Nez says Congressman Crane and the Trump administration have failed to deliver the leadership and investment Arizona needs
-PRESS RELEASE
-As Arizona Water Crisis Deepens, Rep.
-Crane Stands with Washington Bureaucrats Making it Worse
-Republicans and Democrats alike have condemned Washington’s assault on Arizona's water rights, Rep.
-Crane welcomed the bureaucrats responsible for Arizona’s water betrayal
-PRESS RELEASE
-Jonathan Nez: Arizona’s Water isn’t just a Worry, it’s a Crisis.
+Over Inaction With Lake Mead at just 26% capacity, Nez says Congressman Crane and the Trump administration have failed to deliver the leadership and investment Arizona needs Read more Aug 31 2026 PRESS RELEASE As Arizona Water Crisis Deepens, Rep.
+Crane Stands with Washington Bureaucrats Making it Worse Republicans and Democrats alike have condemned Washington’s assault on Arizona's water rights, Rep.
+Crane welcomed the bureaucrats responsible for Arizona’s water betrayal Read more Aug 28 2026 PRESS RELEASE Jonathan Nez: Arizona’s Water isn’t just a Worry, it’s a Crisis.
 Eli Crane Has Failed Us.
 As President of Navajo Nation, Nez worked with Trump to Deliver Water to Rural Arizona.
-He’s Running to Take that Fight to Congress
-PRESS RELEASE
-The Cost of Crane: He Rubber-Stamps Tariffs that are Crippling Arizona Families, Small Businesses
-As the Trump administration escalates its trade war with Canada, Congressman Crane lets working Arizonans shoulder the cost
-PRESS RELEASE
-Jonathan Nez Slams Crane on Endless War, OBBBA Vote after Federal Debt Surpasses 40 Trillion
-As the nation’s debt skyrockets, Crane’s votes continue to add trillions to national debt
-PRESS RELEASE
-All Fat, No Cattle: Eli Crane Silent as Trump Buys Foreign Beef and Ignores Our Ranchers
-As Arizona ranchers struggle with high costs, Eli Crane rubber-stamps a president who buys foreign beef instead of supporting farms in America
-PRESS RELEASE
-Jonathan Nez Defends Head Start Amid Proposed Cuts
-The Trump administration’s plans to overhaul the crucial educational program are reckless
-PRESS RELEASE
+He’s Running to Take that Fight to Congress Read more Aug 26 2026 PRESS RELEASE The Cost of Crane: He Rubber-Stamps Tariffs that are Crippling Arizona Families, Small Businesses As the Trump administration escalates its trade war with Canada, Congressman Crane lets working Arizonans shoulder the cost Read more Aug 25 2026 PRESS RELEASE Jonathan Nez Slams Crane on Endless War, OBBBA Vote after Federal Debt Surpasses 40 Trillion As the nation’s debt skyrockets, Crane’s votes continue to add trillions to national debt Read more Aug 24 2026 PRESS RELEASE All Fat, No Cattle: Eli Crane Silent as Trump Buys Foreign Beef and Ignores Our Ranchers As Arizona ranchers struggle with high costs, Eli Crane rubber-stamps a president who buys foreign beef instead of supporting farms in America Read more Aug 21 2026 PRESS RELEASE Jonathan Nez Defends Head Start Amid Proposed Cuts The Trump administration’s plans to overhaul the crucial educational program are reckless Read more Aug 3 2026 PRESS RELEASE Eli Crane Votes Against Making Housing More Affordable for Arizonans Read more Jun 23 2026 PRESS RELEASE Former Transportation Sec.
+Pete Buttigieg Endorses Jonathan Nez Read more Jun 1 2026 Media Advisory Jonathan Nez to Host Rural Healthcare Roundtable in Winslow, AZ Read more May 28 2026 Media Advisory Jonathan Nez to Host Flagstaff Small Business Round Table and Tour Read more Apr 27 2026 Fact sheet The True Costs of Rep.
+Eli ‘High Costs’ Crane and Republican Policies on Rural Arizonans Read more Apr 22 2026 PRESS RELEASE Jonathan Nez Responds to President Trump’s Statements Regarding Pope Leo XIV Read more Apr 13 2026 PRESS RELEASE Jonathan Nez Blasts Eli Crane For Voting Against Bipartisan Bills to Lower Housing Costs Read more Mar 30 2026 PRESS RELEASE Congressman Eli “High Costs” Crane Refuses To Hold Arizona Townhalls Read more Mar 25 2026 PRESS RELEASE Congressman Eli Crane’s Response to Arizonans Seeking Answers: “I Hope it Works Out” Read more Mar 4 2026 PRESS RELEASE Congressman Eli Crane Applauds the State of High Costs Read more Feb 24 2026 PRESS RELEASE Jonathan Nez Named to “Red To Blue” Program Read more Feb 23 2026 PRESS RELEASE Congressman Eli Crane Votes to Let Tariffs Raise Costs on Arizona Families Read more Feb 11 2026 PRESS RELEASE Congressman Eli “Higher Costs” Crane Votes To Increase Arizonans’ Healthcare Costs Read more Jan 8 2026 PRESS RELEASE Congressman Eli Crane Again Fails to Deliver for Rural Arizonans Read more Jan 7 2026 Privacy Policy JONATHAN NEZ FOR CONGRESS PO BOX 1854 FLAGSTAFF, AZ 86002 General Inquiries info@jonathannezforaz.com Press & Media press@jonathannezforaz.com Powered by RUN! website builder PAID FOR BY JONATHAN NEZ FOR CONGRESS You need to enable JavaScript to run this app.

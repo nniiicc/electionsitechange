@@ -1,15 +1,58 @@
 [
-"http://squarespace.com/",
-"https://carterforcolorado.com/",
-"https://carterforcolorado.com/about-michael",
-"https://carterforcolorado.com/campaign-news",
-"https://carterforcolorado.com/cart",
-"https://carterforcolorado.com/endorsements",
-"https://carterforcolorado.com/join-us",
-"https://carterforcolorado.com/my-issues",
-"https://docs.google.com/forms/d/e/1FAIpQLSd1i3qm6viNxfKYvqeUxl9WTzO7JzEeh2IVXOh_FvGuyw_x4A/viewform",
-"https://facebook.com/profile.php?id=100091843003347",
-"https://flickr.com/photos/carterforcolorado",
-"https://instagram.com/carter_for_colorado",
-"https://secure.actblue.com/donate/carterforcolorado"
+{
+"text": "0",
+"href": "https://www.carterforcolorado.com/cart"
+},
+{
+"text": "About Michael",
+"href": "https://www.carterforcolorado.com/about-michael"
+},
+{
+"text": "Back",
+"href": "https://www.carterforcolorado.com/"
+},
+{
+"text": "Campaign News",
+"href": "https://www.carterforcolorado.com/campaign-news"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/carterforcolorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.carterforcolorado.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100091843003347"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/carter_for_colorado/"
+},
+{
+"text": "Join Us",
+"href": "https://www.carterforcolorado.com/join-us"
+},
+{
+"text": "Media",
+"href": "https://www.flickr.com/photos/carterforcolorado/"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Vision and Goals",
+"href": "https://www.carterforcolorado.com/my-issues"
+},
+{
+"text": "[image: Carter for Colorado]",
+"href": "https://www.carterforcolorado.com/"
+},
+{
+"text": "[image]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd1i3qm6viNxfKYvqeUxl9WTzO7JzEeh2IVXOh_FvGuyw_x4A/viewform"
+}
 ]

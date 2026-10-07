@@ -1,15 +1,15 @@
-Meet Lorie Ball
-Lorie Ball for Salem, NH State Representative
-Without freedom of thought there can be no such thing as wisdom; and no such thing as public liberty, without freedom of speech.
+Donate Meet Lorie On the issues Request a sign Contact Lorie Meet Lorie Ball Lorie Ball for Salem, NH State Representative Without freedom of thought there can be no such thing as wisdom; and no such thing as public liberty, without freedom of speech.
+Benjamin Franklin Making it official!
 Lorie has spent her life quietly working behind the scenes supporting her community and advocating for those in need.
 Over the years, Lorie has been a Girl Scout leader, a team mom, and a school volunteer.
+She served a President of a large homeowner’s association and as Chairperson of a Charity Ball Committee that raised $25,000 for the reconstruction of a historic barn that now serves as the Hollis Community Center.
 Lorie also served as a volunteer Court Appointed Special Advocate in the New Hampshire Court system.
 Professionally, Lorie previously worked in the banking industry as a junior loan officer, credit analyst, and an assistant Branch Manager.
 She also has experience working as a paraprofessional preparing paperwork associated with foreclosures, as well as working as a bookkeeper in the retail business.
 In 2009, Lorie graduated Summa Cum Laude from Rivier University with a Master of Education in Emotional and Behavioral Disabilities.
 She was later certified as a Reading and Writing Specialist in 2011, and accepted into the Education in Leadership and Learning Doctoral Program in 2018.
 Once you learn to read, you will be forever free.
-As a retired teacher, special education advocate, and grandmother of school aged children, Lorie is dedicated to making sure New Hampshire’s children are reading at grade level by grade three.
+Frederick Douglass As a retired teacher, special education advocate, and grandmother of school aged children, Lorie is dedicated to making sure New Hampshire’s children are reading at grade level by grade three.
 Lorie worked as a volunteer for many years in the Nashua School District and in the Catholic Schools of the Diocese of Manchester.
 In 2007, Lorie began working for Salem School District as a Special Education teacher at Woodbury School.
 While there Lorie worked with an array of identified students giving her experience teaching in eleven of the thirteen areas of special education.
@@ -35,4 +35,8 @@ Lorie sponsored HB1015, relative to reading, writing, and mathematics instructio
 As a member of the House Special Committee on the Family Division of the Circuit Court, Lorie co-sponsored several pieces of legislation to encourage shared equal parenting, fair child support, and enforcing parenting plans.
 To learn, you have to listen.
 To improve, you have to try.
-Lorie is dedicated to her local community and as State Representative she will continue to work hard to meet the needs of all Salem residents.
+Thomas Jefferson Lorie is dedicated to her local community and as State Representative she will continue to work hard to meet the needs of all Salem residents.
+Lorie Ball for Salem, NH 2022 Elected State Representative: Rockingham District 25 (Salem) Academic Achievement and Student Safety Fairness in Family Court NO Sales Tax or Income Tax PRO Second Amendment: Bearing and Keeping Arms Married to Jim Ball 42 years Mother of 2 sons; Michael and Sean 5 Grandchildren; ages 2 to 10 Retired NH School Teacher Proficient in: Special Education Rules and Regulations Literacy Intervention Plan Curriculum Development Held NH Teaching Certifications in: Elementary Education Teacher (K-8) General Special Education Teacher (K-12) Emotional Behavioral Disorders Teacher Reading and Writing Specialist Retired Independent Special Education Advocate Served as NH Court Appointed Special Advocate (CASA) Served on Rockingham County Republican Committee Executive Board Secretary Salem NH Republican Town Committee Member Greater Salem Federation of Republican Women President Salem Friendship and Garden Club Founder, President Friends of Salem Bike-Ped Corridor Member Salem Lions Club Member Derry-Salem Lodge #2226 M ember The Rotary Club of Greater Salem, NH M ember Salem Conservation Commission Alternate Learn more...
+Voting Information Primary Election: Tuesday, September 10, 2024 General Election: Tuesday, November 5, 2024 Town of Salem Voter Information Please take some time to learn more about our entire 2022 Republican team by visiting https://salemnhrepublicans.org/ Paid for by Lorie Ball, 22 Arlington Pond Court, Salem, NH 03079 © # Lorie Ball for Salem.
+All rights reserved.
+Trexot Digital Privacy Terms Accessibility Site Map

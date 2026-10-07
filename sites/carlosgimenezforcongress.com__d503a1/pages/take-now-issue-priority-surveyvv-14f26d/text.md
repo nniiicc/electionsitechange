@@ -1,7 +1,2 @@
-Meet Carlos
-Take Action
-Vote
-Donate
-Issues
-Contact
-Take Now: Issue Priority Survey
+Meet Carlos Take Action Vote Donate Issues Contact Take Now: Issue Priority Survey What Matters Most To You? * Strong Economy Cutting Taxes and Balancing the Budget Infrastructure Healthcare Education Protecting the Environment Support our Veterans & Service Members Immigration and Securing the Border Strengthening National Security Pro-life Issues Second Amendment Supporting Israel Care for Seniors Fighting Dictators in the Americas LGBTQ+ My issue isn't listed above Tell Us More!
+First Name Last Name Email * Phone Submit Submit Paid For By Carlos Gimenez for Congress Privacy Policy

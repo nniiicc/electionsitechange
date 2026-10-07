@@ -1,10 +1,3 @@
-About Karen
-Priorities
-Get Involved
-Contact Karen
-News
-Voter Information
-More
-Join Karen for Vermont House
-Tell us how you’d like to get involved, and someone will be in touch soon
-Thanks for submitting!
+top of page About Karen Priorities Get Involved Contact Karen News Voter Information More Use tab to navigate through the menu items.
+GET INVOLVED Join Karen for Vermont House Make Calls Social Media Blitz Host Fundraiser Meet the Candidate Event Attend a Honk and Wave Event Post a lawn sign in your yard WAYS TO HELP Tell us how you’d like to get involved, and someone will be in touch soon SUBMIT Thanks for submitting!
+Home About Karen Priorities Get Involved Contact Karen Karen Dolan - FOR VERMONT HOUSE - Paid for by Karen Dolan for Vermont House 28 Jackson Street Essex Junction, VT 28 Jackson Street Essex Junction, VT 05452 karen@dolanforvthouse.com 802-233-4434 bottom of page

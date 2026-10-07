@@ -1,20 +1,9 @@
-Press Releases
-Hudson County Executive Craig Guy, Senator/Mayor Brian Stack, and Hudson County Mayors Endorse Congressman Rob Menendez for Re-Election
-NEW JERSEY – Hudson County Executive Craig Guy and State Senator (LD-33)/ Union City Mayor Brian Stack today led Hudson County Mayors in endorsing Congressman Rob Menendez for re-election.
+Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Priorities Meet Rob Latest News Endorsements Get Involved Donate Toggle Mobile Menu Priorities Meet Rob Latest News Endorsements Get Involved Donate Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Language Press Releases Hudson County Executive Craig Guy, Senator/Mayor Brian Stack, and Hudson County Mayors Endorse Congressman Rob Menendez for Re-Election January 8, 2026 NEW JERSEY – Hudson County Executive Craig Guy and State Senator (LD-33)/ Union City Mayor Brian Stack today led Hudson County Mayors in endorsing Congressman Rob Menendez for re-election.
 “Rob has been a vital partner for Hudson County in Washington and at home,” said County Executive Craig Guy.
 “From bringing back federal resources for critical infrastructure projects to being on the frontlines in standing up to Trump to protect and defend our communities, we have always been able to depend on Rob.
-I look forward to working to re-elect Rob and to continuing to work together on improving the lives of Hudson County residents.”
-“Rob has been a trusted and dependable ally in the important work we do for Union City and the 33rd Legislative District,” said State Senator/Mayor Brian Stack.
+I look forward to working to re-elect Rob and to continuing to work together on improving the lives of Hudson County residents.” “Rob has been a trusted and dependable ally in the important work we do for Union City and the 33rd Legislative District,” said State Senator/Mayor Brian Stack.
 “Whether it is securing funding for our community improvement projects, or handling constituent issues, Rob has always been a strong fighter for our residents.
-Sending him back to Washington is a critical priority of mine and I am proud to give him my full support.”
-“I am honored by the support of County Executive Guy, Senator/Mayor Stack, and the support of many of our mayors in Hudson County for re-election,” said Congressman Menendez.
+Sending him back to Washington is a critical priority of mine and I am proud to give him my full support.” “I am honored by the support of County Executive Guy, Senator/Mayor Stack, and the support of many of our mayors in Hudson County for re-election,” said Congressman Menendez.
 “We have worked together closely for our shared constituents in the county, and their support reflects the results that we have delivered together.
-I am proud to have them in our corner and I am looking forward to the work ahead.”
-Joining County Executive Guy and Senator/Mayor Stack in endorsing Congressman Menendez are the following mayors:
-East Newark Mayor Dina Grilo
-Harrison Mayor James A.
-Fife
-Guttenberg Mayor Wayne Zitt
-Kearny Mayor Carol Jean Doyle
-Weehawken Mayor Richard Turner
-West New York Mayor Albio Sires
+I am proud to have them in our corner and I am looking forward to the work ahead.” Joining County Executive Guy and Senator/Mayor Stack in endorsing Congressman Menendez are the following mayors: East Newark Mayor Dina Grilo Harrison Mayor James A.
+Fife Guttenberg Mayor Wayne Zitt Kearny Mayor Carol Jean Doyle Weehawken Mayor Richard Turner West New York Mayor Albio Sires Empower Our Communities Strengthen Our Families Priorities Meet Rob Latest News Endorsements Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter [email protected] 123 Town Square Place #515 Jersey City, NJ 07310 Voting Info Privacy Policy Accessibility Statement What Voters Need to Know Paid for by Menendez for Congress

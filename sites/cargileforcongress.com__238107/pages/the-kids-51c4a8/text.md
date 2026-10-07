@@ -1,6 +1,4 @@
-Family
-our children are our greatest treasure
-As a Christian and a family man, I stand for the sanctity of the Biblical definition of Marriage and the protection of the nuclear family.
+Home Media About Issues Our District Next Steps Donate SHOP Back Register to Vote Join the Team Contact Home Media About Issues Our District Next Steps Register to Vote Join the Team Contact Mike Cargile for Congress Donate SHOP Scroll Family our children are our greatest treasure en español As a Christian and a family man, I stand for the sanctity of the Biblical definition of Marriage and the protection of the nuclear family.
 The family unit is the cornerstone of our society, as it goes, so goes the Nation.
 Years ago, my old Pastor said “If you know what a lawyer knows, you’d be a lawyer.
 If you know what a doctor knows, you’d be a doctor.
@@ -18,3 +16,6 @@ We were traveling through Central California when we stopped for gas.
 As I was filling up the mini-van, unknown to me, a grown man, complete with mini-skirt and heels walked into the women’s bathroom while my daughter was in there.
 Thank God, nothing happened to her, but I promise the families of the 35th that I will work hard to ensure that no other family has to endure something like this in the future.
 Unlike my opponent, Norma J Torres, I will protect our families and our children from the reach of these pedophile predators and I will work to safeguard their minds, hearts and emotions as well.
+SO HELP ME GOD… Please Contribute Family Copy of Flag Footer CTA (Copy) (Copy) (Copy) Unlike my opponent, Norma Torres… I am Pro-God, Pro-Family, Pro-Life, Pro-Jobs, Pro-Police and I will always put… America First!
+“At no other time in our nation’s history have our foundational principles been under greater assault than now.
+Join with me as we rise to meet the challenge and restore faith in our great Republic!” Mike.Cargile@outlook.com Hours HOME Media About Issues Our District Ways to Help Join the Team Contact Donate Now

@@ -1,15 +1,10 @@
-Building a Better Indiana, Together
-Our state is built on hard work, deep roots, and the promise of a future we can all be proud of.
+Skip to Content Open Menu Close Menu Campaign Merchandise More From Ian About Donate Power Our Future Volunteer Contact ( 0 ) Cart ( 0 ) Campaign Merchandise More From Ian About Donate Power Our Future Volunteer Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Campaign Merchandise More From Ian About Donate Power Our Future Volunteer Contact Building a Better Indiana, Together Our state is built on hard work, deep roots, and the promise of a future we can all be proud of.
 But for too long, the issues that affect our daily lives—the safety of our water, the resilience of our infrastructure, and the health of our communities—have been sidelined by politics.
 I’m stepping up because I believe Indiana deserves leadership that focuses on the fundamentals: protecting our natural resources from contamination and ensuring our towns are equipped for the next century.
-Real Solutions for Our Families
-From the banks of the Wabash to the heart of our industrial centers, we need a common-sense approach to the challenges we face.
+Real Solutions for Our Families From the banks of the Wabash to the heart of our industrial centers, we need a common-sense approach to the challenges we face.
 Whether it’s holding polluters accountable for our water quality or championing innovative energy and housing that lasts for generations, my commitment is to the people, not the special interests.
 Together, we can build a state that honors its heritage while securing a cleaner, stronger, and more prosperous Indiana for every family.
-Ian G for Indiana
-Ian G for Indiana
-Ian Cares about our families
-I believe that everyone should have the means to live a comfortable life without having to break their back to get it.
+Learn more Ian G for Indiana Ian G for Indiana Ian G for Indiana Ian Cares about our families I believe that everyone should have the means to live a comfortable life without having to break their back to get it.
 If you work forty hours a week—whether you're flipping burgers, stocking shelves, or working in a pharmacy—you deserve full-time respect.
 Respect isn't just a pat on the back.
 It’s reflected in your wallet.
@@ -24,3 +19,5 @@ I worked for CVS long enough to learn how much it hurts when you can’t afford 
 Which honestly is unacceptable.
 We are literally watching Indiana tax dollars drive across the border to Michigan and Ohio.
 It’s time to legalize and tax cannabis like tobacco as well.
+Learn more Paid for by Elect Ian Richardson Made with Squarespace Contact iangforindiana@gmail.com 260-205-8781 Ian G.
+Richardson PO Box 110 Bluffton, IN 46714

@@ -1,6 +1,4 @@
-Issues
-Protect Life
-Pro-Life - One of the most important functions of government is to protect the lives of its citizens.
+Home About Issues Take Action Donate Issues Protect Life Pro-Life - One of the most important functions of government is to protect the lives of its citizens.
 This is true for all, but especially true for the tiniest, the most vulnerable, and those with no voice or ability to protect themselves.
 Alex is pro-life and he fights to ensure that all human life is protected, beginning at conception.
 He has co-sponsored legislation to ensure abortion providers in Missouri receive no taxpayer dollars.
@@ -13,10 +11,7 @@ Law Enforcement - Our brave law enforcement officers put their lives on the line
 As crime rates continue to rise across our city, state, and nation, their work is more important than ever.
 Alex supports our state and local law enforcement officers in the life-saving work they do everyday and he opposes any effort to defund the police.
 As state representative, Alex was proud to vote in favor of the Law Enforcement Bill of Rights which provides important protections for our police.
-"The care of human life and happiness, and not their destruction, is the first and only object of good government."
--Thomas Jefferson
-Defend Liberty
-Religious liberty - One of the primary reasons our forefathers came to the United States was to escape oppression because of their religious beliefs.
+"The care of human life and happiness, and not their destruction, is the first and only object of good government." -Thomas Jefferson Defend Liberty Religious liberty - One of the primary reasons our forefathers came to the United States was to escape oppression because of their religious beliefs.
 Our nation’s founders recognized religious freedom was so important, that this was the first right they listed in the Bill of Rights.
 Alex is a strong advocate for religious liberty and he fights to defend the right of Missourians to practice their faith, free from government oppression.
 He sponsored the Missouri Religious Freedom Protection Act and was named Freshman Legislator of the Year in 2021 by the Speaker of the House for his work defending religious liberties.
@@ -31,10 +26,7 @@ The right to do so is enshrined in both the United States and Missouri Constitut
 As a long-time member of the NRA and supporter of responsible firearm ownership, Alex fights to protect and preserve our right to bear arms.
 As state representative, Alex co-sponsored the Second Amendment Preservation Act and has supported numerous other bills designed to protect our citizens from government overreach.
 "Liberty must at all hazards be supported.
-We have a right to it, derived from our Maker."
--John Adams
-Foster Prosperity
-Business Climate - As we work together to rebuild our state's economy and reduce Missouri's and Springfield's high poverty rates, our government needs to unshackle Missouri’s job creators.
+We have a right to it, derived from our Maker." -John Adams Foster Prosperity Business Climate - As we work together to rebuild our state's economy and reduce Missouri's and Springfield's high poverty rates, our government needs to unshackle Missouri’s job creators.
 We must establish a business climate with better economic conditions which results in higher paying jobs for Missouri’s citizens.
 History has shown that free market capitalism is the most successful economic system at reducing poverty and bringing about wide-spread prosperity.
 However, excessive government intervention, regulation, taxation, and licensing requirements burden our innovators and stifle economic growth.
@@ -63,3 +55,4 @@ Though farming is critical to our state’s economy, government burdens our farm
 Our farmers live off of and rely on the land, so they are going to take care of it.
 They do not need government bureaucrats dictating how to operate their farms.
 Alex advocates for fewer government regulations on agriculture to lighten the burden on Missouri’s farmers.
+"Lasting economic recovery [has] to be built on the solid rock of the American free enterprise system." -Ronald Reagan Keep Up to Date Sign Up Home About Issues Take Action Donate Paid for by Alex Riley for State Representative, Rose Clark, Treasurer.

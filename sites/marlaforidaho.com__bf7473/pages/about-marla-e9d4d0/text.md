@@ -1,6 +1,4 @@
-About Marla Palmer
-Finding the Work I Was Meant to Do
-I grew up on a ranch in eastern Montana, the fourth generation of a ranching family.
+0 Skip to Content About Marla Platform Volunteer Merch English Donate Open Menu Close Menu English Donate About Marla Platform Volunteer Merch Open Menu Close Menu About Marla Platform Volunteer Merch English Back Donate About Marla Palmer Finding the Work I Was Meant to Do I grew up on a ranch in eastern Montana, the fourth generation of a ranching family.
 My brother still operates our family homestead today.
 On a ranch, responsibility comes early.
 When I was 10 or 11, I was rescuing kittens from the farm and taking care of them.
@@ -28,8 +26,7 @@ I found my purpose in helping people learn, grow, and build lives with more inde
 That experience shaped the way I see public service.
 Sometimes life does not take you where you planned.
 Sometimes it takes you where you are needed.
-Moving to Idaho and Seeing Community Work
-I began my career in institutional care.
+Moving to Idaho and Seeing Community Work I began my career in institutional care.
 At the time, many people with disabilities were still living in large facilities, separated from the rest of the community.
 Then deinstitutionalization began changing the way services were delivered, including in Montana.
 The job I had was ending.
@@ -49,8 +46,7 @@ It became my community.
 It became the place where I built a life, raised my daughter, and learned firsthand how much stronger we are when people are not pushed aside.
 That is one of the reasons I am running.
 I know what community-based support can do, because I have seen it change lives.
-Building a Program While Raising My Daughter
-When I decided to become a mom, I knew I wanted to be present for my daughter.
+Building a Program While Raising My Daughter When I decided to become a mom, I knew I wanted to be present for my daughter.
 I also knew I wanted to keep doing meaningful work.
 Those two things should not have been impossible to balance.
 At the time, I asked whether I could bring my child with me while continuing my work.
@@ -69,15 +65,14 @@ There were hard days.
 There were tired days.
 There were days when the balance felt almost impossible.
 But there was also deep satisfaction.
-I got to be the kind of mother I wanted to be, while doing work that mattered to people and families in my community.
+I got to be the kind of mother I wanted to be, while doing work that mattered to people and families in my community .
 I learned that families need flexibility, not judgment.
 Workers need support, not empty slogans.
 And good services do not happen by accident.
 They happen because people build them, protect them, and make sure they are funded and staffed.
 That experience is part of what I bring to this race.
 I know what working families are carrying, because I have carried it too.
-Why I Am Running
-For years, I have advocated for funding and support for services that vulnerable Idahoans rely on.
+Why I Am Running For years, I have advocated for funding and support for services that vulnerable Idahoans rely on.
 I called legislators.
 I emailed legislators.
 I tried to meet with them in person.
@@ -98,3 +93,9 @@ When people are depending on you, you show up.
 And when the job matters, you follow through.
 That is the Idaho I believe in.
 And that is the kind of representative I intend to be.
+With your help we can win this race and send a new perspective to Boise next year Be a Volunteer Make a Donation Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Lets Keep in Touch Join my mailing list for campaign updates, volunteer opportunities, important annoucements, and public events.
+First Name Last Name Email Address Sign Up Thank you!
+We’ll be in touch!
+Connect with Me: Marla@MarlaforIdaho.com 1(208) 316 3399 connect with my campaign on social media: Paid for by Marla Palmer for Idaho House Mailing address: 899 Lawrence Ave Twin Falls, ID 83301

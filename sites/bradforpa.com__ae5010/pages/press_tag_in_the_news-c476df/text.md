@@ -1,8 +1,5 @@
-Press and Media.
-For media inquiries please contact hello@bradforpa.com
-In the News
-Brad Chambers
-In the News
-Brad Chambers
-IN THE NEWS
-11/8/2025 • IN THE NEWS
+0 Skip to Content Meet Brad District 41 Issues Endorsements Press Volunteer Donate Open Menu Close Menu Meet Brad District 41 Issues Endorsements Press Volunteer Donate Open Menu Close Menu Meet Brad District 41 Issues Endorsements Press Volunteer Donate Press and Media.
+For media inquiries please contact hello@bradforpa.com In the News Brad Chambers 9/22/26 In the News Brad Chambers 9/22/26 Brad Chambers, Tom Jones lead in latest polling of Lancaster County's most competitive races this fall Read More In the News Brad Chambers 9/17/26 In the News Brad Chambers 9/17/26 Chambers and Miller are nearly even in Pennsylvania’s 41st House District Read More In the News Brad Chambers 9/4/26 In the News Brad Chambers 9/4/26 West Hempfield Township officials approve data center regulations, address QVC question Read More In the News Brad Chambers 9/3/26 In the News Brad Chambers 9/3/26 Most Lancaster County Republican candidates decline nonpartisan forum invitations Read More In the News Brad Chambers 8/13/26 In the News Brad Chambers 8/13/26 Pennsylvania House Democrats Accelerate Field Push for November Read More In the News Brad Chambers 6/22/26 In the News Brad Chambers 6/22/26 Lancaster County Democrats attract national donors in competitive Pa.
+House, Senate district races Read More In the News Brad Chambers 5/20/26 In the News Brad Chambers 5/20/26 Endorsed Lancaster County Republicans win Tuesday; Here's how contested primary races shook out IN THE NEWS Read More In the News Brad Chambers 5/15/26 In the News Brad Chambers 5/15/26 Bernie Sanders endorses Democrat Brad Chambers for 41st House District race Read More In the News Brad Chambers 5/5/26 In the News Brad Chambers 5/5/26 2026 Primary Election Guide | Brad Chambers, Democratic candidate for PA House's 41st District | FOX 43 Read More In the News Brad Chambers 11/9/25 In the News Brad Chambers 11/9/25 Lancaster County Democrats had a good year.
+Does that mean blue wave will ensue in 2026?
+11/8/2025 • IN THE NEWS Read More HOME VOLUNTEER PRESS Contact DONATE STATE / OF / THE / RACE PAID FOR BY BRAD FOR PA PO BOX 471 • EAST PETERSBURG, PA 17520 © BRAD FOR PA / PRIVACY POLICY

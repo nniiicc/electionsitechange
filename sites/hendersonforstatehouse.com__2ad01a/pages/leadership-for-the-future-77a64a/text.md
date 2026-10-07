@@ -1,6 +1,4 @@
-top of page
-Leadership for the Future
-We owe a heartfelt thank you to those who have faithfully served and guided us to this point.
+top of page DONATE VOLUNTEER YARD SIGN MENU Close HOME MEET JORDAN ISSUES DONATE PRIVACY POLICY Leadership for the Future We owe a heartfelt thank you to those who have faithfully served and guided us to this point.
 Their leadership has laid the foundation for the community we are proud to call home, but every generation has its moment, and it is time for the next generation to pick up the torch with fresh eyes and renewed energy to carry forward the values and leadership that have made Blount County and Tennessee so special.
 President Ronald Reagan reminded us that freedom is never more than one generation away from extinction.
 To protect liberty and preserve conservative values, we must not only lead but also mentor and prepare those who will follow.
@@ -12,4 +10,4 @@ I am committed to serving your interests in Nashville with transparency and acce
 I will maintain open communication through social media updates and an online newsletter.
 I believe it is my responsibility to reach out to you, not the other way around.
 That’s why I will send out pre-session surveys to hear your thoughts on the most pressing issues facing our state, ensuring your voice guides my work in the legislature.
-bottom of page
+Paid for by the Committee to Elect Jordan Henderson to State House Destiny McNair, Treasurer bottom of page

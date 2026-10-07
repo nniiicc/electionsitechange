@@ -1,18 +1,110 @@
 [
-"https://courtneyfororegon.com/",
-"https://courtneyfororegon.com/cart",
-"https://courtneyfororegon.com/contact",
-"https://courtneyfororegon.com/get-involved",
-"https://courtneyfororegon.com/meet-courtney",
-"https://courtneyfororegon.com/new-page",
-"https://courtneyfororegon.com/priorities",
-"https://ctsi.nsn.us/",
-"https://donation.c-esystems.com/campaign/friendsofcourtneyneron",
-"https://facebook.com/CourtneyForOregon",
-"https://grandronde.org/",
-"https://instagram.com/courtney_for_oregon",
-"https://native-land.ca/",
-"https://native-land.ca/maps/territories/ahantchuyuk",
-"https://native-land.ca/maps/territories/atfalati",
-"https://native-land.ca/maps/territories/kalapuya"
+{
+"text": "0",
+"href": "https://www.courtneyfororegon.com/cart"
+},
+{
+"text": "Ahantchuyuk",
+"href": "https://native-land.ca/maps/territories/ahantchuyuk/"
+},
+{
+"text": "Atfalati",
+"href": "https://native-land.ca/maps/territories/atfalati/"
+},
+{
+"text": "Confederated Tribes of Grand Ronde",
+"href": "https://www.grandronde.org/"
+},
+{
+"text": "Confederated Tribes of Siletz Indians",
+"href": "https://www.ctsi.nsn.us/"
+},
+{
+"text": "Donate",
+"href": "https://donation.c-esystems.com/campaign/friendsofcourtneyneron"
+},
+{
+"text": "Email Us",
+"href": "mailto:info@courtneyfororegon.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.courtneyfororegon.com/new-page"
+},
+{
+"text": "Get Involved",
+"href": "https://www.courtneyfororegon.com/get-involved"
+},
+{
+"text": "Get in Contact",
+"href": "https://www.courtneyfororegon.com/contact"
+},
+{
+"text": "Kalapuya",
+"href": "https://native-land.ca/maps/territories/kalapuya/"
+},
+{
+"text": "Meet Courtney",
+"href": "https://www.courtneyfororegon.com/meet-courtney"
+},
+{
+"text": "Priorities",
+"href": "https://www.courtneyfororegon.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.courtneyfororegon.com/get-involved"
+},
+{
+"text": "[image: Addressing Community Safety] AddressingCommunity Safety",
+"href": "https://www.courtneyfororegon.com/priorities/#safety"
+},
+{
+"text": "[image: Championing Affordable Healthcare] Championing Affordable Healthcare",
+"href": "https://www.courtneyfororegon.com/priorities/#healthcare"
+},
+{
+"text": "[image: Courtney Neron Misslin For Oregon]",
+"href": "https://www.courtneyfororegon.com/"
+},
+{
+"text": "[image: Courtney Neron — Fighting for Oregon Families] Fighting For Oregon Families",
+"href": "https://www.courtneyfororegon.com/priorities/#workingfamilies"
+},
+{
+"text": "[image: Investing in Education] Investing ResponsiblyIn Education",
+"href": "https://www.courtneyfororegon.com/priorities/#education"
+},
+{
+"text": "[image: Protecting the Environment] Protecting Our Environment",
+"href": "https://www.courtneyfororegon.com/priorities/#environment"
+},
+{
+"text": "[image: Responding to Homelessness] Responding to Homelessness andHousing Affordability",
+"href": "https://www.courtneyfororegon.com/priorities/#housing"
+},
+{
+"text": "[image] Building Community, Investing Locally",
+"href": "https://www.courtneyfororegon.com/priorities/#investing-locally"
+},
+{
+"text": "[image] Confronting Discrimination",
+"href": "https://www.courtneyfororegon.com/priorities/#discrimination"
+},
+{
+"text": "[image] SupportingWorkers andSmall Businesses",
+"href": "https://www.courtneyfororegon.com/priorities/#economy"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CourtneyForOregon/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/courtney_for_oregon/"
+},
+{
+"text": "traditional lands",
+"href": "https://native-land.ca/"
+}
 ]

@@ -1,23 +1,10 @@
-News
-Chicago Sun-Times: Biden may visit Chicago to rally Democrats ahead of Tuesday vot
-President Joe Biden, stumping for Democrats ahead of Tuesday’s midterm balloting, may stop in Chicago — likely Friday — to lead a get-out-the vote rally for Gov.
+Contribute Now Make a donation to Bill Foster for Congress!
+Volunteer Contribute Meet Bill Business Career Science Career Congressional Career Family Professional Awards Issues Defending the Constitution Economy Science and Technology Healthcare Reproductive Freedom Immigration Reviving American Manufacturing Reducing Gun Violence Combating the Climate Crisis The Financial Crisis Reforming Wall Street Education Endorsements The District News Latest News Photo Gallery News & Updates Latest News News Chicago Sun-Times: Biden may visit Chicago to rally Democrats ahead of Tuesday vot November 2, 2022 President Joe Biden, stumping for Democrats ahead of Tuesday’s midterm balloting, may stop in Chicago — likely Friday — to lead a get-out-the vote rally for Gov.
 J.B.
 Pritzker and the rest of the Democratic ticket in Illinois.
-A source said White House advance personnel and members of the Secret Service were on the ground […]
-Read More
-News
-Chicago Tribune: Popularity of mail ballots continues increasing as voter turnout looks to match 2018 midterms
-The number of voters casting their ballots before Election Day in Chicago and some surrounding counties is closely tracking the voter turnout in the 2018 midterm election, according to several election officials.
-Through Monday, 131,165 Chicago voters had cast early votes or returned mail ballots, compared with 132,065 at the same point four years earlier, […]
-Read More
-News
-ENDORSEMENTS: DuPage and Will County Mayors Endorse Bill Foster for Congress
-Naperville, IL – Today, the Foster for Congress campaign announced that Congressman Bill Foster (D-IL) is endorsed by Mayor Dave Brummel of Warrenville, Mayor Gina Cunningham of Woodridge, Mayor Steve Chirico of Naperville, and Mayor John Noak of Romeoville.
-“In an era where partisan politics too often gets in the way of sensible compromise, it’s good […]
-Read More
-News
-ENDORSEMENTS: Kane and McHenry County Mayors Endorse Bill Foster for Congress
-Naperville, IL – Today, the Foster for Congress campaign announced that Congressman Bill Foster (D-IL) is endorsed by Mayor Jeff Schielke of Batavia, Village President Mark Gaffino of North Aurora, and Mayor Haig Haleblian of Crystal Lake.
+A source said White House advance personnel and members of the Secret Service were on the ground […] Read More News Chicago Tribune: Popularity of mail ballots continues increasing as voter turnout looks to match 2018 midterms November 2, 2022 The number of voters casting their ballots before Election Day in Chicago and some surrounding counties is closely tracking the voter turnout in the 2018 midterm election, according to several election officials.
+Through Monday, 131,165 Chicago voters had cast early votes or returned mail ballots, compared with 132,065 at the same point four years earlier, […] Read More News ENDORSEMENTS: DuPage and Will County Mayors Endorse Bill Foster for Congress November 2, 2022 Naperville, IL – Today, the Foster for Congress campaign announced that Congressman Bill Foster (D-IL) is endorsed by Mayor Dave Brummel of Warrenville, Mayor Gina Cunningham of Woodridge, Mayor Steve Chirico of Naperville, and Mayor John Noak of Romeoville.
+“In an era where partisan politics too often gets in the way of sensible compromise, it’s good […] Read More News ENDORSEMENTS: Kane and McHenry County Mayors Endorse Bill Foster for Congress November 1, 2022 Naperville, IL – Today, the Foster for Congress campaign announced that Congressman Bill Foster (D-IL) is endorsed by Mayor Jeff Schielke of Batavia, Village President Mark Gaffino of North Aurora, and Mayor Haig Haleblian of Crystal Lake.
 Collectively, these communities make up a large portion of the new 11th Congressional District of Illinois.
-“I can’t […]
-Read More
+“I can’t […] Read More 1 2 3 4 5 6 … 61 Meet Bill Issues Endorsements The District News Contribute Bill Foster for Congress P.O Box 9104 Aurora, IL 60598 630-216-9340.
+Privacy Policy Messaging Contact Us Paid for by Bill Foster for Congress Meet Bill Business Career Science Career Congressional Career Family Professional Awards Issues Defending the Constitution Economy Science and Technology Healthcare Reproductive Freedom Immigration Reviving American Manufacturing Reducing Gun Violence Combating the Climate Crisis The Financial Crisis Reforming Wall Street Education Endorsements The District News Latest News Photo Gallery Donate Now On the Issues On the Issues Volunteer Volunteer Contribute Contribute

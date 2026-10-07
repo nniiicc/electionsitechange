@@ -1,21 +1,3 @@
-Skip navigation menu
-learn more about
-Lateefah's Priorities
-Our campaign has connected with thousands of residents across the district and built a coalition of over 150 organizations, both locally and nationwide.
+Skip navigation menu MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE Priorities MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE Priorities learn more about Lateefah's Priorities Our campaign has connected with thousands of residents across the district and built a coalition of over 150 organizations, both locally and nationwide.
 With over three decades of on-the-ground advocacy, we have the experience and the coalition to fight and win real change.
-Public Safety
-Affordable Housing
-Homelessness
-Affordability and Job Creation
-Healthcare for All
-Reproductive Freedom
-Racial and Social Justice
-Immigration
-LGBTQ+ Rights
-Disability Rights
-Voting Rights and Democracy Reform
-Global Security
-Innovation
-Transportation and Infrastructure
-Climate and Environmental Justice
-Building a Care Economy
+Public Safety Affordable Housing Homelessness Affordability and Job Creation Healthcare for All Reproductive Freedom Racial and Social Justice Immigration LGBTQ+ Rights Disability Rights Voting Rights and Democracy Reform Global Security Innovation Transportation and Infrastructure Climate and Environmental Justice Building a Care Economy Public Safety View more Affordable Housing View more Homelessness View more Affordability and Job Creation View more Healthcare for All View more Reproductive Freedom View more Racial and Social Justice View more Immigration View more LGBTQ+ Rights View more Disability Rights View more Voting Rights and Democracy Reform View more Global Security View more Innovation View more Transportation and Infrastructure View more Climate and Environmental Justice View more Building a Care Economy View more info@LateefahSimon.com Lateefah for Congress 1714 Franklin St #100 - 438 Oakland, CA 94612 Privacy Policy Powered by RUN! website builder Paid for by Lateefah for Congress You need to enable JavaScript to run this app.

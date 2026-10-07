@@ -1,97 +1,23 @@
-In 2005, as a freshman, then Representative Jones was selected as 1 of the 5 most effective Legislators in Helena.
+Home About About Llew Awards Voting Record Issues Economic Development Education Energy Environmental Stewardship Rural Health Care Contact Donate Gallery Endorsements More Home About About Llew Awards Voting Record Issues Economic Development Education Energy Environmental Stewardship Rural Health Care Contact Donate Gallery Endorsements Home About About Llew Awards Voting Record Issues Economic Development Education Energy Environmental Stewardship Rural Health Care Contact Donate Gallery Endorsements Summary of Service, 2005 - Current In 2005, as a freshman, then Representative Jones was selected as 1 of the 5 most effective Legislators in Helena.
 From 2005-2013, Senator Jones was responsible for both sponsoring and passing a significant portion of key legislation on economic development, tax reductions, family protection, and student achievement.
 In 2005 Representative Jones reduced the taxes on natural resource development and enhanced the ability to do meat processing in Montana.
 In 2007, Rep.
-Jones, reduced taxes on numerous forms of energy production, reduced taxes on energy transmission, and provided tax relief for property owners that had transmission lines built on their property.
-In 2009 he passed Legislation that reduced frivolous lawsuits on energy development, and passed legislation to protect families by requiring that photos of sex offenders be listed.
-In 2011 through 2013, Senator Jones carried and passed legislation that enhanced local control in education, mitigated explosive development impacts, and froze fast growth areas of property taxes.
+Jones, reduced taxes on numerous forms of energy production , reduced taxes on energy transmission , and provided tax relief for property owners that had transmission lines built on their property.
+In 2009 he passed Legislation that reduced frivolous lawsuits on energy development , and passed legislation to protect families by requiring that photos of sex offenders be listed.
+In 2011 through 2013, Senator Jones carried and passed legislation that enhanced local control in education , mitigated explosive development impacts , and froze fast growth areas of property taxes .
 In 2015 through 2017 Senator Jones passed numerous key pieces of historic legislation.
-Two outstanding examples: 1) Montanan’s coal trust can now partner with local school districts to provide a stable base for educational infrastructure. 2) Montana will now have a “rainy day” fund that will protect Montanans from painful swings in the economy, such as the 2008 recession.
+Two outstanding examples: 1) Montanan’s coal trust can now partner with local school districts to provide a stable base for educational infrastructure.
+2) Montana will now have a “ rainy day” fund that will protect Montanans from painful swings in the economy, such as the 2008 recession.
 In 2019 Representative Jones passed historic legislation entitled the Advanced Opportunities Act that empowered money to follow the students involved in CTE and other advanced credit options outside the School brick and mortar.
-In addition, Representative Jones repealed the unreasonable tax burden placed upon local stripper oil well producers, created a loan repayment program to encourage teachers to locate in rural areas, protected local government services from unreasonable tax protests, and created a study committee to designed to begin addressing the rapid growth in property tax.
+In addition, Representative Jones repealed the unreasonable tax burden placed upon local stripper oil well producers, created a loan repayment program to e ncourage teachers to locate in rural areas, protected local government services from unreasonable tax protests, and created a study committee to designed to begin addressing the rapid growth in property tax.
 Throughout this period, Senator/Representative Jones's "solution approach" kept Montana in the black, kept Montana's credit score high, helped our K-12 education system achieve its current high rating, reduced state employee FTEs by 400 plus, and facilitated Montana's growth.
 Senator/Representative Jones has little use or tolerance of those that come to Helena intent upon making political points while not solving problems, " My constituents sent me to Helena to solve problems, to find solutions, to work to make this state better.
 It is my job to put my conscience and constituents first.
-I have little use for those that wish to hold a "pity party of no"."
-2025
-Representative Jones Chairs House Appropriations Committee
-Jones also serves on Education Appropriations and the MARA Oversight Committee
-— Top Ranked by Montana Homeowners for Property Tax Relief: Jones led the 2025 reforms HB 231 & SB 542 reducing tax pressure on residents by creating a graduated tax system with rebates for primary homes.
-— Top Ranked by Montana Contractors Association for fiscal leadership, including the passage of HB 924 establishing the GO Trust to stabilize pensions, support infrastructure, and enhance housing investments.
-— Top Ranked by Montana Farm Bureau for protecting ag interests amid property tax reclassification, ensuring fair treatment for grazing and fallow lands.
-— Top Rated by Montana Family Foundation for strong pro-family voting record, including youth protections and education policy.
-— Top Ranked by Montana Conservative Index (A) for consistent leadership in limited government and tax restraint.
-— High Recognition from NRA for unwavering Second Amendment support and public safety balance.
-— Recognized by Education Partners for HB 252 (STARS Act), boosting teacher pay and linking student outcomes to state incentives.
-— Acknowledged by Healthcare Advocates for pragmatic support of Medicaid Expansion to sustain rural care while preserving fiscal integrity.
-— Praised by Fiscal Analysts for championing long-term stability via the GO Trust, protecting Montana from volatile revenue swings.
-Representative Jones Chairs House Appropriation
-Jones also serves on Education Appropriations
---Top Ranked by Montana Chamber and Montana Federation of Independent Business
---Top ranked by Montana Contractors
---Top Ranked by Montana Farm Bureau
---Top Ranked by Montana Family Foundation (93%)
--Top Ranked by Montana Conservative Index (A)
---Received High Rankings for supporting property rights, the family, and endorsed (NRA)
-Representative Jones Chairs House Appropriation
-Jones also serves on Education Appropriations
---Recognized a Champion of Business by Montana Chamber
---Top ranked by Montana Contractors
---Top Ranked by Montana Farm Bureau (100%)
---Top Ranked by Montana Family Foundation (100%)
-Representative Jones Chairs Education Appropriation
-Jones also Vice Chair of House Appropriations
---Recognized a Champion of Business by Montana Chamber
---Top ranked by Montana Contractors
---Top Ranked by Montana Farm Bureau
---Top Ranked by Montana Family Foundation (100%)
---Received High Rankings for supporting property rights, the family, and shooting sports (NRA)
-Senator Jones Chairs Senate Finance and Claims.
---Recognized as Champion of Business by Montana Chamber.
---Received the Montana Medicine Residency Director's Award for supporting Montana Doctor Residency Training.
---Was top ranked by Montana Contractors
---Received High Rankings for supporting property rights, the family, and shooting sports (NRA).
-Senator Jones Chairs Senate Finance and Claims.
---Received Windmill Award from Montana Farm Bureau for support of Agricultural issues.
---Received top rankings by Montana School groups for supporting student opportunity
-Senator Jones is elected to leadership as Majority Whip.
-Senator Jones scores:
--- 100% on the Montana Contractors Report Card
--- 100% for his support of private property rights from the United Property Owners of Montana
--- 90 % support for the interests of the Montana Family Foundation
--- 100% for his support of Montana Higher Education on the University Scorecard.
--- 100% for his support of student Achievement via the Montana School Board Association and Rural
-Education report card.
-Senator Jones received the Montana Rural Education Association (MREA) 2011 Legislative Leadership Award.
-Senator Jones received a
--- 100% from the Montana Federation of
-Independent Businesses
--- supported the interests of the Montana Family Foundation 100 percent
--- received an Endorsement from the Right To Life of Montana Association
--- "A" from the Montana Shooting Sports Association
-Champion of Business: Montana Chamber of
-Commerce.
-Representative Jones
--- supported the interests of the Montana Chamber of Commerce 100 percent
--- supported the interests of the Montana Family Foundation 100 percent
--- received an Endorsement from the Right To Life of Montana Association
--- received an Endorsement from the National Rifle Association
-Champion of Power: Montana Electric Cooperatives Association.
--- A+ from Montana Stockgrowers Association
--- A+ from Montana Business Leadership Council
--- supported the interests of the Montana Chamber of Commerce 100 percent
--- supported the interests of the Montana Family Foundation 100 percent
--- Based on a point system, with points assigned for actions in support of or in opposition to Montanans for Multiple Use's position, Representative Jones received a rating of 83.
--- Based on lifetime voting records on gun issues and the results of a questionnaire sent to all
-Congressional candidates in 2008, the National Rifle Association Political Victory Fund assigned a grade of A.
--- received an Endorsement from the National Rifle
-Association
-Representative Jones
--- supported the interests of the Montana Stockgrowers Association 100 percent
--- supported the interests of the Montana National Federation of Independent Business 90 percent
--- supported the interests of the Montana Chamber of Commerce 91 percent
--- supported the interests of the Montana Family Foundation 100 percent
--- Based on a point system, with points assigned for actions in support of or in opposition to Montanans for Multiple Use's position, Representative Jones received a rating of 87.5.
--- Based on lifetime voting records on gun issues and the results of a questionnaire sent to all state legislative candidates in 2006, the National Rifle Association Political Victory Fund assigned Representative Jones a grade of A.
-Llew Jones for SD 9
-1102 4th Avenue Southwest, Conrad, Montana 59425, United States
+I have little use for those that wish to hold a "pity party of no"." 2025 2025 Representative Jones Chairs House Appropriations Committee Jones also serves on Education Appropriations and the MARA Oversight Committee — Top Ranked by Montana Homeowners for Property Tax Relief : Jones led the 2025 reforms HB 231 & SB 542 reducing tax pressure on residents by creating a graduated tax system with rebates for primary homes. — Top Ranked by Montana Contractors Association for fiscal leadership, including the passage of HB 924 establishing the GO Trust to stabilize pensions, support infrastructure, and enhance housing investments. — Top Ranked by Montana Farm Bureau for protecting ag interests amid property tax reclassification, ensuring fair treatment for grazing and fallow lands. — Top Rated by Montana Family Foundation for strong pro-family voting record, including youth protections and education policy. — Top Ranked by Montana Conservative Index (A) for consistent leadership in limited government and tax restraint. — High Recognition from NRA for unwavering Second Amendment support and public safety balance. — Recognized by Education Partners for HB 252 (STARS Act), boosting teacher pay and linking student outcomes to state incentives. — Acknowledged by Healthcare Advocates for pragmatic support of Medicaid Expansion to sustain rural care while preserving fiscal integrity. — Praised by Fiscal Analysts for championing long-term stability via the GO Trust, protecting Montana from volatile revenue swings.
+2023 Representative Jones Chairs House Appropriation Jones also serves on Education Appropriations --Top Ranked by Montana Chamber and Montana Federation of Independent Business --Top ranked by Montana Contractors --Top Ranked by Montana Farm Bureau --Top Ranked by Montana Family Foundation (93%) -Top Ranked by Montana Conservative Index (A) --Received High Rankings for supporting property rights, the family, and endorsed (NRA) 2021 Representative Jones Chairs House Appropriation Jones also serves on Education Appropriations --Recognized a Champion of Business by Montana Chamber --Top ranked by Montana Contractors --Top Ranked by Montana Farm Bureau (100%) --Top Ranked by Montana Family Foundation (100%) -Top Ranked by Montana Conservative Index (A) --Received High Rankings for supporting property rights, the family, and endorsed (NRA) 2019 Representative Jones Chairs Education Appropriation Jones also Vice Chair of House Appropriations --Recognized a Champion of Business by Montana Chamber --Top ranked by Montana Contractors --Top Ranked by Montana Farm Bureau --Top Ranked by Montana Family Foundation (100%) --Received High Rankings for supporting property rights, the family, and shooting sports (NRA) 2017 Senator Jones Chairs Senate Finance and Claims. --Recognized as Champion of Business by Montana Chamber. --Received the Montana Medicine Residency Director's Award for supporting Montana Doctor Residency Training. --Was top ranked by Montana Contractors --Received High Rankings for supporting property rights, the family, and shooting sports (NRA).
+2015 Senator Jones Chairs Senate Finance and Claims. --Recognized as Champion of Business by Montana Chamber. --Received Windmill Award from Montana Farm Bureau for support of Agricultural issues. --Received top rankings by Montana School groups for supporting student opportunity --Was top ranked by Montana Contractors 2013 Senator Jones is elected to leadership as Majority Whip .
+Senator Jones scores: ​-- 100% on the Montana Contractors Report Card -- 100% for his support of private property rights from the United Property Owners of Montana -- 90 % support for the interests of the Montana Family Foundation -- 100% for his support of Montana Higher Education on the University Scorecard. -- 100% for his support of student Achievement via the Montana School Board Association and Rural Education report card.
+2011 Senator Jones received the Montana Rural Education Association (MREA) 2011 Legislative Leadership Award .
+Senator Jones received a -- 100% from the Montana Federation of Independent Businesses -- supported the interests of the Montana Family Foundation 100 percent -- received an Endorsement from the Right To Life of Montana Association -- "A" from the Montana Shooting Sports Association 2009 Champion of Business: Montana Chamber of Commerce .
+Representative Jones -- supported the interests of the Montana Chamber of Commerce 100 percent -- supported the interests of the Montana Family Foundation 100 percent -- received an Endorsement from the Right To Life of Montana Association -- received an Endorsement from the National Rifle Association 2007 Champion of Power: Montana Electric Cooperatives Association . -- A+ from Montana Stockgrowers Association -- A+ from Montana Business Leadership Council -- supported the interests of the Montana Chamber of Commerce 100 percent -- supported the interests of the Montana Family Foundation 100 percent -- Based on a point system, with points assigned for actions in support of or in opposition to Montanans for Multiple Use 's position, Representative Jones received a rating of 83. -- Based on lifetime voting records on gun issues and the results of a questionnaire sent to all Congressional candidates in 2008, the National Rifle Association Political Victory Fund assigned a grade of A. -- received an Endorsement from the National Rifle Association 2005 Representative Jones -- supported the interests of the Montana Stockgrowers Association 100 percent -- supported the interests of the Montana National Federation of Independent Business 90 percent -- supported the interests of the Montana Chamber of Commerce 91 percent -- supported the interests of the Montana Family Foundation 100 percent -- Based on a point system, with points assigned for actions in support of or in opposition to Montanans for Multiple Use 's position, Representative Jones received a rating of 87.5. -- Based on lifetime voting records on gun issues and the results of a questionnaire sent to all state legislative candidates in 2006, the National Rifle Association Political Victory Fund assigned Representative Jones a grade of A.
+Donate Privacy Policy Llew Jones for SD 9 1102 4th Avenue Southwest, Conrad, Montana 59425, United States 4062713104 Paid for by Llew Jones for SD 9, Republican, Carole Jones Treasurer, 1102 4th Ave SW, Conrad, MT 59425 Powered by

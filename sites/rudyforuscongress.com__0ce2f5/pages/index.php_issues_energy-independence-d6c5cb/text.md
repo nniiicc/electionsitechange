@@ -1,5 +1,7 @@
-In 2019 and 2020 the United States was energy independent for the first time.
-The USA was producing so much energy we were selling it to other countries. 2021 – 2024 we stopped exporting fuel and became dependent on other countries for energy.
+Major (Ret) Rudy Recile For U.S.
+Congress "Ang Inyong Lingkod" (At Your Service) Menu Skip to content Home About Issues Support for Veterans Education and School Choice Energy Independence Accountability in Government Spending Politics Volunteer Donate Interviews and Media coverage Candidates and Businesses I Support Candidates Businesses I support Contact Us Past Events Energy Independence In 2019 and 2020 the United States was energy independent for the first time.
+The USA was producing so much energy we were selling it to other countries.
+2021 – 2024 we stopped exporting fuel and became dependent on other countries for energy.
 In 2025 the USA finally is getting back to where we were in 2020.
 There are people who dislike the use of carbon fuels, and as a result power plants are being shut down.
 Southern California shut down a coal fired plant and now there are rolling brownouts in Southern California because the current systems for providing energy are not able to handle the load.
@@ -18,7 +20,7 @@ Rolling brownouts are commonplace to prevent overloading of energy consumption a
 Do you know where else rolling brownouts are common?
 Third World Countries!!!
 What is the solution?
-France seems to have a good handle on nuclear energy and 75% of the country receives energy from nuclear plants.
+France seems to have a good handle on nuclear energy and 75% of the country receives energy from nuclear plants .
 If France can do this why can’t the US?
 Green power only works when the sun is shining or wind is blowing.
 When the wind stops and the sun doesn’t shine, there’s no energy.
@@ -31,3 +33,6 @@ When a disaster hits a country that needs assistance, why does the US send an ai
 Besides the capability of providing medical attention, an aircraft carrier’s nuclear plant can power a small city.
 We can solve this by and make life easier for Californians by allowing more oil exploration, lowering fees and regulations on oil refineries, considering reopening closed California nuclear plants and the implementation of nuclear Small Modular Reactors (SMR).
 We in California need to do better and elect representatives who care about the people of California.
+Return to Issues Comments are closed.
+Donate Here Click on Map to see more detail Find Your Congressional District Click here to see a detailed map of your district Rudy's podcast Boot's on the Ground Register to Vote in California Major (Ret) Rudy Recile For U.S.
+Congress | Powered by Mantra & WordPress.

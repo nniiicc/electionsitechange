@@ -1,23 +1,110 @@
 [
-"https://mandatemedia.com/",
-"https://secure.actblue.com/donate/strickandwebsite",
-"https://secure.actblue.com/donate/strickandwebsite?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/strickandwebsite?express_lane=true&amount=150",
-"https://secure.actblue.com/donate/strickandwebsite?express_lane=true&amount=200",
-"https://secure.actblue.com/donate/strickandwebsite?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/strickandwebsite?express_lane=true&amount=50",
-"https://secure.ngpvan.com/xs4Rygi-E0yNfbP1CMBx_g2",
-"https://stricklandforwashington.com/",
-"https://stricklandforwashington.com/about",
-"https://stricklandforwashington.com/archive",
-"https://stricklandforwashington.com/contact",
-"https://stricklandforwashington.com/donate",
-"https://stricklandforwashington.com/endorsements",
-"https://stricklandforwashington.com/facebook",
-"https://stricklandforwashington.com/instagram",
-"https://stricklandforwashington.com/priorities",
-"https://stricklandforwashington.com/privacy",
-"https://stricklandforwashington.com/terms",
-"https://stricklandforwashington.com/twitter",
-"https://stricklandforwashington.com/volunteer"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/strickandwebsite?express_lane=true&amount=100&refcode2=express-buttons"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/strickandwebsite?express_lane=true&amount=150&refcode2=express-buttons"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/strickandwebsite?express_lane=true&amount=200&refcode2=express-buttons"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/strickandwebsite?express_lane=true&amount=250&refcode2=express-buttons"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/strickandwebsite?express_lane=true&amount=50&refcode2=express-buttons"
+},
+{
+"text": "Contact",
+"href": "https://stricklandforwashington.com/contact/"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://stricklandforwashington.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://stricklandforwashington.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://stricklandforwashington.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://stricklandforwashington.com/"
+},
+{
+"text": "Join the team!",
+"href": "https://stricklandforwashington.com/volunteer/"
+},
+{
+"text": "Learn More",
+"href": "https://stricklandforwashington.com/about/"
+},
+{
+"text": "Mandate Media",
+"href": "https://www.mandatemedia.com"
+},
+{
+"text": "Meet Marilyn",
+"href": "https://stricklandforwashington.com/about/"
+},
+{
+"text": "News",
+"href": "https://stricklandforwashington.com/archive/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/strickandwebsite"
+},
+{
+"text": "Priorities",
+"href": "https://stricklandforwashington.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://stricklandforwashington.com/privacy/"
+},
+{
+"text": "Read More",
+"href": "https://stricklandforwashington.com/priorities/"
+},
+{
+"text": "Sign up here!",
+"href": "https://secure.ngpvan.com/xs4Rygi-E0yNfbP1CMBx_g2"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://stricklandforwashington.com/terms/"
+},
+{
+"text": "The right leader to meet this moment.",
+"href": "https://stricklandforwashington.com/donate/"
+},
+{
+"text": "Volunteer",
+"href": "https://stricklandforwashington.com/volunteer/"
+},
+{
+"text": "[image: Strickland for Washington]",
+"href": "https://stricklandforwashington.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://stricklandforwashington.com/facebook/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://stricklandforwashington.com/instagram/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://stricklandforwashington.com/twitter/"
+}
 ]

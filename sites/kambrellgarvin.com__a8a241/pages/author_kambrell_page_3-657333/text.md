@@ -1,14 +1,5 @@
-The House of Representatives amended, approved, and sent the Senate H.3759, the “SOUTH CAROLINA EDUCATION, CAREER OPPORTUNITY, AND ACCESS FOR ALL ACT”.
-The legislation makes comprehensive revisions that are offered…
-Read More
-The House of Representatives concurred in Senate amendments to H.3849 and enrolled the legislation for ratification.
-The joint resolution provides a GRACE PERIOD ON THE ENFORCEMENT OF THE NEW CIGARETTE…
-Read More
-The House of Representatives gave second reading approval to H.3274, a bill providing for the PREEMPTION OF LOCAL GOVERNMENT REGULATION OF VAPING, E-CIGARETTES, CIGARETTES, AND OTHER TOBACCO AND NICOTINE PRODUCTS. …
-Read More
-The House of Representatives amended, approved, and sent the Senate H.3137, a bill making REVISIONS TO THE LOCAL GOVERNMENT FUND.
-The legislation discontinues the retrospective approach for funding political subdivisions…
-Read More
-On Tuesday, January 8, 2019, lawmakers gathered in Columbia to commence the 123rd South Carolina General Assembly.
-On Wednesday, the General Assembly took part in ceremonies for the inauguration of…
-Read More
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Kambrell Garvin The State Capitol Report – 3/8/2019 Kambrell Garvin March 14, 2019 Comments Off on The State Capitol Report – 3/8/2019 Uncategorized The House of Representatives amended, approved, and sent the Senate H.3759, the “SOUTH CAROLINA EDUCATION, CAREER OPPORTUNITY, AND ACCESS FOR ALL ACT”.
+The legislation makes comprehensive revisions that are offered… Read More The State Capitol Report – 3/1/2019 Kambrell Garvin March 14, 2019 Comments Off on The State Capitol Report – 3/1/2019 Uncategorized The House of Representatives concurred in Senate amendments to H.3849 and enrolled the legislation for ratification.
+The joint resolution provides a GRACE PERIOD ON THE ENFORCEMENT OF THE NEW CIGARETTE… Read More The State Capitol Report – 2/15/19 Kambrell Garvin March 14, 2019 Comments Off on The State Capitol Report – 2/15/19 Uncategorized The House of Representatives gave second reading approval to H.3274, a bill providing for the PREEMPTION OF LOCAL GOVERNMENT REGULATION OF VAPING, E-CIGARETTES, CIGARETTES, AND OTHER TOBACCO AND NICOTINE PRODUCTS. … Read More The State Capitol Report – 2/1/2019 Kambrell Garvin March 14, 2019 Comments Off on The State Capitol Report – 2/1/2019 Uncategorized The House of Representatives amended, approved, and sent the Senate H.3137, a bill making REVISIONS TO THE LOCAL GOVERNMENT FUND.
+The legislation discontinues the retrospective approach for funding political subdivisions… Read More The State Capitol Report – 1/25/2019 Kambrell Garvin March 14, 2019 Comments Off on The State Capitol Report – 1/25/2019 Uncategorized On Tuesday, January 8, 2019, lawmakers gathered in Columbia to commence the 123rd South Carolina General Assembly.
+On Wednesday, the General Assembly took part in ceremonies for the inauguration of… Read More Posts pagination Page 1 Page 2 Page 3

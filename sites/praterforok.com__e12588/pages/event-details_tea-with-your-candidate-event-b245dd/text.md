@@ -1,5 +1,2 @@
-Fri, Mar 20
-Prosperity Tea Room
-Enjoy a delightful tea party while meeting the candidate and discussing community concerns and ideas over a cup of tea.
-Mar 20, 2026, 10:29 AM – 12:29 PM
-Prosperity Tea Room, 321 S Boston Ave Suite 103, Tulsa, OK 74103, USA
+top of page Home About Me Search Results DONATE Donate Tea with Your Candidate Event Fri, Mar 20 | Prosperity Tea Room Enjoy a delightful tea party while meeting the candidate and discussing community concerns and ideas over a cup of tea.
+Registration is closed See other events Time & Location Mar 20, 2026, 10:29 AM – 12:29 PM Prosperity Tea Room, 321 S Boston Ave Suite 103, Tulsa, OK 74103, USA About the event Intimate tea party meeting with candidate Show More Share this event Oklahoma House District 12 • Wagoner County • praterforok@gmail.com © # Paid for by Tiffany Prater for Oklahoma 2026 bottom of page

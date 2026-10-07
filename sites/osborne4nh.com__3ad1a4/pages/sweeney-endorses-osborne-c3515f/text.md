@@ -1,4 +1,4 @@
-AUBURN, N.H. – Deputy Majority Leader Joe Sweeney today endorsed House Majority Leader Jason Osborne in his campaign for Speaker of the New Hampshire House, writing in NH Journal that the speaker’s race and the general election are the same fight.
+Skip to content Home News About Speaker’s Campaign Donate Osborne: “You Can’t Fix Property Taxes By Suing The Voters” AUBURN, N.H. – Deputy Majority Leader Joe Sweeney today endorsed House Majority Leader Jason Osborne in his campaign for Speaker of the New Hampshire House, writing in NH Journal that the speaker’s race and the general election are the same fight.
 One hundred fifty two sitting members and 2026 Republican candidates have committed their support to Osborne, and 57 have endorsed publicly.
 “Republicans don’t just complain about property taxes, we do something about them.
 The property tax cap question puts a simple choice in front of voters in their own town: should your local property tax cap be allowed to grow faster than inflation?
@@ -12,12 +12,9 @@ The only thing that stops them is a bigger Republican majority.
 The measure of this majority is how much distance we add, and 240 seats is the difference between spending two years defending what we’ve already passed and spending two years building on it.
 That’s why I’ve been on the road with our candidates all summer, and it’s why Joe is right that the speaker’s race and the general election are the same fight.
 Grow the majority to 240 in November.
-Then we govern like a party that came here to do something.”
-Sweeney, who represents Salem, made his case in NH Journal on August 31.
+Then we govern like a party that came here to do something.” Sweeney, who represents Salem, made his case in NH Journal on August 31.
 It appears in full below.
-SWEENEY: Why Osborne Is My Choice for Speaker
-By Joe Sweeney, NH Journal, August 31, 2026
-Sherman Packard has presided over the New Hampshire House for six years with patience and class, and he leaves the chamber in better shape than he found it.
+SWEENEY: Why Osborne Is My Choice for Speaker By Joe Sweeney, NH Journal, August 31, 2026 Sherman Packard has presided over the New Hampshire House for six years with patience and class, and he leaves the chamber in better shape than he found it.
 He is not seeking the job again.
 That leaves House Republicans with the most consequential decision we will make outside of November itself.
 We should make it clearly, and we should make it early.
@@ -75,116 +72,57 @@ Then hand Jason Osborne the gavel.
 Rep.
 Joe Sweeney (R-Salem) is Deputy Majority Leader.
 He wrote this for NHJournal.com.
-The Newest Endorser
-- Rep.
-Joe Sweeney (Salem, Deputy Majority Leader)
-The Full List of Public Endorsements (57)
-- Rep.
-John Hunt (Rindge)
-- Rep.
-Brian Labrie (Bedford)
-- Rep.
-Lisa Mazur (Goffstown)
-- Rep.
-Mike Drago (Raymond)
-- Rep.
-Sayra DeVito (Danville)
-- Rep.
-Dillon Dumont (Hudson)
-- Rep.
-Samuel Farrington (Rochester)
-- Rep.
-Jeanine Notter (Merrimack)
-- Rep.
-Lisa Post (Lyndeborough)
-- Rep.
-Kristin Noble (Bedford)
-- Rep.
-James Spillane (Deerfield)
-- Rep.
-Cyril Aures (Chichester)
-- Rep.
-Sherri Reinfurt (Goffstown)
-- Rep.
-Clayton Wood (Pittsfield)
-- Rep.
-Jennifer Rhodes (Winchester)
-- Hon.
-Bill O’Brien (Manchester, former Speaker)
-- Rep.
-Sue DeLemus (Farmington)
-- Rep.
-Jess Edwards (Auburn)
-- Rep.
-Mark McLean (Manchester)
-- Rep.
-Mary Murphy (Francestown)
-- Rep.
-Paul Terry (Alton)
-- Rep.
-Denise DeDe-Poulin (Rochester)
-- Rep.
-Henry Giasson III (Goffstown)
-- Rep.
-Ray Plante (Dunbarton)
-- Rep.
-David Walker (Rochester)
-- Pam McMahon (Hooksett, candidate)
-- Rep.
-Calvin Beaulier (Littleton)
-- Rep.
-Mary Ford (Chester)
-- Rep.
-Tom Mannion (Pelham)
-- Rep.
-Rich Nalevanko (Alstead)
-- Rep.
-Adam Presa (Merrimack)
-- Rep.
-Andrew Prout (Hudson)
-- Rep.
-Jeremy Slottje (Hudson)
-- Rep.
-Jeffrey Tenczar (Pelham)
-- Rep.
-Dick Thackston III (Troy)
-- Hon.
-Zachary Nutting (Chesterfield, candidate)
-- Rep.
-Glen Aldrich (Gilford)
-- Rep.
-Matt Drew (Manchester)
-- Rep.
-Keith Erf (Weare)
-- Rep.
-Lisa Freeman (Tilton)
-- Rep.
-Yury Polozov (Hooksett)
-- Rep.
-Glenn Bailey (Milton)
-- Rep.
-Michael Granger (Milton)
-- Rep.
-Sly Karasinski (Swanzey)
-- Rep.
-John Schneller (Bedford)
-- Rep.
-James Thibault (Franklin)
-- Shanun Carey (Goffstown, candidate)
-- Rep.
-Ernesto Gonzalez (Franklin)
-- Adam Haverstock (Hudson, candidate)
-- Ron Rule (Langdon, candidate)
-- Ted Trost (Hudson, candidate)
-- Hon.
-Will Infantine (Manchester, candidate)
-- Rep.
-Erica Layon (Derry)
-- Rep.
-Brian Nadeau (Raymond)
-- Rep.
-John Potucek (Derry)
-- Hon.
-Emily Sandblade (Claremont, candidate)
-- Rep.
-Joe Sweeney (Salem)
+The Newest Endorser Rep.
+Joe Sweeney (Salem, Deputy Majority Leader) The Full List of Public Endorsements (57) Rep.
+John Hunt (Rindge) Rep.
+Brian Labrie (Bedford) Rep.
+Lisa Mazur (Goffstown) Rep.
+Mike Drago (Raymond) Rep.
+Sayra DeVito (Danville) Rep.
+Dillon Dumont (Hudson) Rep.
+Samuel Farrington (Rochester) Rep.
+Jeanine Notter (Merrimack) Rep.
+Lisa Post (Lyndeborough) Rep.
+Kristin Noble (Bedford) Rep.
+James Spillane (Deerfield) Rep.
+Cyril Aures (Chichester) Rep.
+Sherri Reinfurt (Goffstown) Rep.
+Clayton Wood (Pittsfield) Rep.
+Jennifer Rhodes (Winchester) Hon.
+Bill O’Brien (Manchester, former Speaker) Rep.
+Sue DeLemus (Farmington) Rep.
+Jess Edwards (Auburn) Rep.
+Mark McLean (Manchester) Rep.
+Mary Murphy (Francestown) Rep.
+Paul Terry (Alton) Rep.
+Denise DeDe-Poulin (Rochester) Rep.
+Henry Giasson III (Goffstown) Rep.
+Ray Plante (Dunbarton) Rep.
+David Walker (Rochester) Pam McMahon (Hooksett, candidate) Rep.
+Calvin Beaulier (Littleton) Rep.
+Mary Ford (Chester) Rep.
+Tom Mannion (Pelham) Rep.
+Rich Nalevanko (Alstead) Rep.
+Adam Presa (Merrimack) Rep.
+Andrew Prout (Hudson) Rep.
+Jeremy Slottje (Hudson) Rep.
+Jeffrey Tenczar (Pelham) Rep.
+Dick Thackston III (Troy) Hon.
+Zachary Nutting (Chesterfield, candidate) Rep.
+Glen Aldrich (Gilford) Rep.
+Matt Drew (Manchester) Rep.
+Keith Erf (Weare) Rep.
+Lisa Freeman (Tilton) Rep.
+Yury Polozov (Hooksett) Rep.
+Glenn Bailey (Milton) Rep.
+Michael Granger (Milton) Rep.
+Sly Karasinski (Swanzey) Rep.
+John Schneller (Bedford) Rep.
+James Thibault (Franklin) Shanun Carey (Goffstown, candidate) Rep.
+Ernesto Gonzalez (Franklin) Adam Haverstock (Hudson, candidate) Ron Rule (Langdon, candidate) Ted Trost (Hudson, candidate) Hon.
+Will Infantine (Manchester, candidate) Rep.
+Erica Layon (Derry) Rep.
+Brian Nadeau (Raymond) Rep.
+John Potucek (Derry) Hon.
+Emily Sandblade (Claremont, candidate) Rep.
+Joe Sweeney (Salem) Paid for by Friends of Jason Osborne 65 Miner Rd Auburn NH 03032 Chairman Jason Osborne Jason@Osborne4NH.com 603 391 2138 © # Friends of Jason Osborne Privacy Policy Search for:

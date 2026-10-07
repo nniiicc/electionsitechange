@@ -1,9 +1,15 @@
 {
  "description": "Kentucky Party Candidate for U.S. Senate",
  "final_url": "https://candidates.goodparty.org/campbell4congress2026?sms-terms=true",
- "paid_for_by": null,
+ "fingerprint": "8b7de8930265758e05a350ce9d37a20e4f9fc105",
+ "format": 3,
+ "paid_for_by": "authorized by Christopher Campbell © 2026 • All Rights Reserved • Privacy Policy • SMS Terms Empowered by GoodParty",
  "title": "Vote For Christopher Campbell",
  "years_mentioned": [
+  "1960",
+  "1961",
+  "1976",
+  "1978",
   "2010",
   "2026"
  ]

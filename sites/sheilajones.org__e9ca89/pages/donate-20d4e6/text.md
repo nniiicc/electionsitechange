@@ -1,11 +1,4 @@
-top of page
-Thank you for your support!
+top of page DONATE Home About News & Announcements Community Awards District 60 | 2022 Race 2022 Endorsements Events Free Services & Programs Contact Thank you for your support!
 Your support is needed and will go a long way in my efforts to continue serving in the Georgia House of Representatives for State House District 60 (Fulton & Cobb Counties).
 Rep.
-Sheila Jones currently serves as:
-Deputy Whip: House Democratic Caucus
-Committees: Appropriations, Health, Judiciary Juvenile (Secretary), Transportation and Ways & Means
-NO DONATION IS TOO SMALL:
-$10 $25 $50 $100 $200
-$500 $1,000 $1,500 $2,000 $2,500
-bottom of page
+Sheila Jones currently serves as: Deputy Whip: House Democratic Caucus Committees: Appropriations, Health, Judiciary Juvenile (Secretary), Transportation and Ways & Means NO DONATION IS TOO SMALL: $10 $25 $50 $100 $200 $500 $1,000 $1,500 $2,000 $2,500 Donate with a Check Sheila Jones Election Committee 3246 Amhurst Drive, NW Atlanta, GA 30318-5902 Donate with CashApp $RepSheilaJones Donate with ActBlue Donate with ActBlue Reach Out Call 404-542-8683 Email sheilajones_jones@yahoo.com Address 3246 Amhurst Drive NW Atlanta, GA 30318 bottom of page

@@ -1,13 +1,2 @@
-Platform
-- Fully Fund Public Education
-- Preschool for All
-- Livable Wage
-- Affordable Healthcare
-- Affordable Childcare
-- Workers' Rights
-Paid for by Campaign Fund of
-Laurie C.
-Campbell
-Laurie C.
-Campbell
-Powered by CampaignPartner.com - Political Websites
+Meet Laurie Platform Voter Info Events Requests Volunteer Yard Signs Endorse Donate Platform Fully Fund Public Education Preschool for All Livable Wage Affordable Healthcare Affordable Childcare Workers' Rights Voter Info Contact Daviess County Democratic Party Paid for by Campaign Fund of Laurie C.
+Campbell Powered by CampaignPartner.com - Political Websites Home Meet Laurie Donate Platform Volunteer Endorse Requests Contact Yard Signs Voter Info Daviess County Democratic Party Close Menu

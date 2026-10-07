@@ -1,18 +1,70 @@
 [
-"https://facebook.com/GuyReschenthalerPA",
-"https://guyforpa.com/",
-"https://guyforpa.com/about",
-"https://guyforpa.com/get-involved",
-"https://guyforpa.com/issues",
-"https://guyforpa.com/news",
-"https://guyforpa.com/privacy-policy",
-"https://guyforpa.com/store",
-"https://secure.winred.com/GuyReschenthaler/donate",
-"https://secure.winred.com/guyreschenthaler/storefront/guy-reschenthaler-for-congress-button-set-of-2/details",
-"https://secure.winred.com/guyreschenthaler/storefront/guy-reschenthaler-for-congress-camo-hat/details",
-"https://secure.winred.com/guyreschenthaler/storefront/guy-reschenthaler-for-congress-tote-bag/details",
-"https://secure.winred.com/guyreschenthaler/storefront/guy-reschenthaler-for-congress-white-hat/details",
-"https://secure.winred.com/guyreschenthaler/storefront/official-logo-bumper-sticker-set-of-2/details",
-"https://secure.winred.com/guyreschenthaler/storefront/official-logo-yard-signs-2/details",
-"https://twitter.com/reschenthaler"
+{
+"text": "About",
+"href": "https://guyforpa.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/GuyReschenthaler/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://guyforpa.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://guyforpa.com/issues/"
+},
+{
+"text": "News",
+"href": "https://guyforpa.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://guyforpa.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://guyforpa.com/store/"
+},
+{
+"text": "[image: Guy Reschenthaler for Congress]",
+"href": "https://guyforpa.com"
+},
+{
+"text": "[image]Guy Reschenthaler for Congress Button (Set of 2)$10.00",
+"href": "https://secure.winred.com/guyreschenthaler/storefront/guy-reschenthaler-for-congress-button-set-of-2/details"
+},
+{
+"text": "[image]Guy Reschenthaler for Congress Camo Hat$25.00",
+"href": "https://secure.winred.com/guyreschenthaler/storefront/guy-reschenthaler-for-congress-camo-hat/details"
+},
+{
+"text": "[image]Guy Reschenthaler for Congress Tote Bag$25.00",
+"href": "https://secure.winred.com/guyreschenthaler/storefront/guy-reschenthaler-for-congress-tote-bag/details"
+},
+{
+"text": "[image]Guy Reschenthaler for Congress White Hat$25.00",
+"href": "https://secure.winred.com/guyreschenthaler/storefront/guy-reschenthaler-for-congress-white-hat/details"
+},
+{
+"text": "[image]Official Logo - Bumper Sticker (Set of 2)$5.00",
+"href": "https://secure.winred.com/guyreschenthaler/storefront/official-logo-bumper-sticker-set-of-2/details"
+},
+{
+"text": "[image]Official Logo - Yard Signs (Set of 2)$25.00",
+"href": "https://secure.winred.com/guyreschenthaler/storefront/official-logo-yard-signs-2/details"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/reschenthaler"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/GuyReschenthalerPA"
+},
+{
+"text": "guy@guyforpa.com",
+"href": "mailto:guy@guyforpa.com"
+}
 ]

@@ -1,15 +1,14 @@
-Your Florida State Rep in Action
-HB 975 - Background Screenings & Certifications
-This measure would provide employment opportunities as peer support specialists by granting exemptions from level 2 background checks for individuals with lived experience of homelessness who have a non-violent criminal record (regardless of the time elapsed) and have not been arrested in the past three years.
+Skip to content Home Meet Daryl Impact Media Join Us DONATE DONATE DONATE DONATE Home Meet Daryl Impact Media Join Us Your Florida State Rep in Action HB 975 - Background Screenings & Certifications This measure would provide employment opportunities as peer support specialists by granting exemptions from level 2 background checks for individuals with lived experience of homelessness who have a non-violent criminal record (regardless of the time elapsed) and have not been arrested in the past three years.
 This aims to increase support services for individuals currently experiencing homelessness.
 It also expands certain background screening requirements to apply to all health care practitioners; revises licensure, registration, or certification requirements for acupuncturists; optometrists; pharmacists; dentists; midwives; speech-language pathologists & audiologists; nursing home administrators; occupational therapists; respiratory therapists; dietitian/nutritionists; practitioners of orthotics, prosthetics, or pedorthics; electrologists; clinical laboratory personnel; medical physicists; genetic counselors; opticians; physical therapists; psychologists & school psychologists; clinical social workers, marriage & family therapists, & mental health counselors.
 For Fiscal Year 2024-2025, the bill allocates $250,000 in non-recurring funds from the Medical Quality Assurance Trust Fund to DOH.
 The impact on DCF from the provisions related to homeless service providers is expected to be insignificant and manageable within existing resources.
-HB 1481 - Sickle Cell Disease Medications, Treatment, and Screening
-Requires certain health care providers to notify primary care physicians of newborns and infants about specific screening results related to sickle cell hemoglobin variants and to submit these results to the DOH for a specified purpose.
+HB 1481 - Sickle Cell Disease Medications, Treatment, and Screening Requires certain health care providers to notify primary care physicians of newborns and infants about specific screening results related to sickle cell hemoglobin variants and to submit these results to the DOH for a specified purpose.
 Mandates that these physicians provide relevant information to parents and guardians.
 Requires the DOH to establish and maintain a sickle cell registry, allowing parents and guardians to request the removal of their children from the registry.
 Instructs AHCA to review medications, treatments, and services for sickle cell disease for Medicaid recipients, develop a written report, post it on its website, and submit a copy to the Governor, Legislature, and certain entities.
 The 2023-24 General Appropriations Act (GAA) allows AHCA to use the unexpended $250,000 from the 2022-23 GAA for the Sickle Cell Disease Medicaid Study.
 The bill mandates biannual reports, costing $1.25 million over ten years if contracted out.
 Additionally, the bill allocates $1,060,804 in recurring funds, $21,355 in non-recurring funds, and five full-time positions to DOH to implement the Sickle Cell Disease registry.
+Funding Secured During my first term, I’ve secured a total of $10.4 million in appropriations.
+Donate Today DONATE FL State Representative Daryl Campbell Meet District 99 Rep Daryl Campbell Media Join Us FL Rep Daryl Campbell Political Advertisement Paid for by Daryl Campbell Democratic Candidate for State House of Representatives, District 99.

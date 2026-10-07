@@ -1,9 +1,18 @@
 {
  "description": "Craig Fishbein in the News",
  "final_url": "https://www.fishbein4ct.com/news",
- "paid_for_by": null,
+ "fingerprint": "affe37d6553bba4ebd8f42487aa15e511d22589a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "",
  "years_mentioned": [
-  "2024"
+  "2016",
+  "2017",
+  "2019",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
  ]
 }

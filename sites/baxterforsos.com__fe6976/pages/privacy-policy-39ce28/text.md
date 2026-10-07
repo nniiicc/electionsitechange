@@ -1,66 +1,17 @@
-Privacy Policy
-Effective Date: August 20, 2026
-The Friends of Heather Baxter (the “Campaign,” “we,” “us,” or “our”) respects your privacy.
+top of page HOME EVENTS PRESS RELEASES GET INVOLVED Privacy Policy Terms & Conditions DONATE Privacy Policy Effective Date: August 20, 2026 The Friends of Heather Baxter (the “Campaign,” “we,” “us,” or “our”) respects your privacy.
 This Privacy Policy explains how we collect, use, disclose, and protect information that you provide through our website, online forms, donation pages, volunteer forms, event forms, email signups, text message opt-ins, and other campaign-related communications.
-By using this website or submitting information to the Campaign, you agree to the practices described in this Privacy Policy.
-Information We Collect
-We may collect information that you voluntarily provide to us, including but not limited to:
-- Name
-- Email address
-- Phone number
-- Mailing address
-- ZIP code
-- Employer and occupation information, where required for campaign finance compliance
-- Donation information
-- Volunteer interests
-- Event registration information
-- Messages, comments, or other information submitted through campaign forms
-- Communications preferences, including email and text message opt-ins
-We may also collect limited technical information when you visit our website, such as browser type, device information, IP address, pages visited, referral source, and other analytics information used to maintain and improve the website.
-How We Use Your Information
-We may use the information we collect to:
-- Communicate with you about the Campaign
-- Send political, fundraising, volunteer, event, get-out-the-vote, and informational messages
-- Respond to your questions or requests
-- Process donations and comply with campaign finance reporting requirements
-- Recruit and organize volunteers
-- Provide campaign updates by email, phone, mail, or text message
-- Improve our website, outreach, and voter-contact efforts
-- Maintain records required by law
-- Protect the security and integrity of our website and campaign systems
-Text Messaging and Mobile Information
-Mobile information and text messaging opt-in data and consent will not be sold or shared with third parties or affiliates for marketing or promotional purposes.
-Text messaging originator opt-in data and consent may be shared only with service providers, aggregators, and telecommunications providers as necessary to operate and deliver the text messaging program.
-Donations and Campaign Finance Compliance
-If you make a contribution, we may collect information required by state campaign finance law, including your name, address, employer, occupation, contribution amount, and other information required for reporting purposes.
+By using this website or submitting information to the Campaign, you agree to the practices described in this Privacy Policy. ​ Information We Collect ​ We may collect information that you voluntarily provide to us, including but not limited to: Name Email address Phone number Mailing address ZIP code Employer and occupation information, where required for campaign finance compliance Donation information Volunteer interests Event registration information Messages, comments, or other information submitted through campaign forms Communications preferences, including email and text message opt-ins We may also collect limited technical information when you visit our website, such as browser type, device information, IP address, pages visited, referral source, and other analytics information used to maintain and improve the website. ​ How We Use Your Information ​ We may use the information we collect to: Communicate with you about the Campaign Send political, fundraising, volunteer, event, get-out-the-vote, and informational messages Respond to your questions or requests Process donations and comply with campaign finance reporting requirements Recruit and organize volunteers Provide campaign updates by email, phone, mail, or text message Improve our website, outreach, and voter-contact efforts Maintain records required by law Protect the security and integrity of our website and campaign systems ​ Text Messaging and Mobile Information ​ Mobile information and text messaging opt-in data and consent will not be sold or shared with third parties or affiliates for marketing or promotional purposes.
+Text messaging originator opt-in data and consent may be shared only with service providers, aggregators, and telecommunications providers as necessary to operate and deliver the text messaging program. ​ Donations and Campaign Finance Compliance ​ If you make a contribution, we may collect information required by state campaign finance law, including your name, address, employer, occupation, contribution amount, and other information required for reporting purposes.
 Contribution information may be disclosed publicly as required by law.
 Donation processing may be handled by a third-party payment processor or donation platform.
-Your use of any third-party donation platform may also be governed by that platform’s own privacy policy and terms.
-Email Communications
-If you provide your email address, we may send you campaign updates, fundraising messages, event invitations, volunteer opportunities, and other campaign-related communications.
-You may unsubscribe from campaign emails by following the unsubscribe instructions included in those emails.
-Cookies and Analytics
-Our website may use cookies, pixels, analytics tools, or similar technologies to understand website traffic, improve the website, measure outreach effectiveness, and support campaign communications.
-You may adjust your browser settings to refuse cookies, but some website features may not function properly.
-Data Security
-We take reasonable measures to protect the information we collect from unauthorized access, disclosure, alteration, or destruction.
-However, no website, transmission, or storage system can be guaranteed to be completely secure.
-Third Party-Links
-Our website may link to third-party websites, including donation platforms, social media platforms, and other external sites.
+Your use of any third-party donation platform may also be governed by that platform’s own privacy policy and terms. ​ Email Communications ​ If you provide your email address, we may send you campaign updates, fundraising messages, event invitations, volunteer opportunities, and other campaign-related communications.
+You may unsubscribe from campaign emails by following the unsubscribe instructions included in those emails. ​ ​ ​ Data Security ​ We take reasonable measures to protect the information we collect from unauthorized access, disclosure, alteration, or destruction.
+However, no website, transmission, or storage system can be guaranteed to be completely secure. ​ Third Party-Links ​ Our website may link to third-party websites, including donation platforms, social media platforms, and other external sites.
 We are not responsible for the privacy practices, content, or security of those third-party websites.
-You should review the privacy policies of any third-party sites you visit.
-Children's Privacy
-Our website and campaign communications are not directed to children under the age of 13.
-We do not knowingly collect personal information from children under 13.
-Your Choices
-You may contact us to request updates to your information or to ask questions about this Privacy Policy.
+You should review the privacy policies of any third-party sites you visit. ​ Children's Privacy ​ Our website and campaign communications are not directed to children under the age of 13.
+We do not knowingly collect personal information from children under 13. ​ Your Choices ​ You may contact us to request updates to your information or to ask questions about this Privacy Policy.
 You may opt out of text messages by replying STOP.
 You may request help by replying HELP.
-You may unsubscribe from campaign emails using the unsubscribe link provided in the email.
-Changes to This Privacy Policy
-We may update this Privacy Policy from time to time.
-Any updates will be posted on this page with a revised effective date.
-Contact Us
-If you have questions about this Privacy Policy or the Campaign’s privacy practices, please contact us:
-The Friends of Heather Baxter
-PO Box 1852, Rapid City SD, 57709
+You may unsubscribe from campaign emails using the unsubscribe link provided in the email. ​ Changes to This Privacy Policy ​ We may update this Privacy Policy from time to time.
+Any updates will be posted on this page with a revised effective date. ​ Contact Us ​ If you have questions about this Privacy Policy or the Campaign’s privacy practices, please contact us: ​ The Friends of Heather Baxter PO Box 1852, Rapid City SD, 57709 info@baxterforsos.com HOME EVENTS PRESS RELEASES GET INVOLVED Privacy Policy Terms & Conditions More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: © # Paid for by The Friends of Heather Baxter. bottom of page

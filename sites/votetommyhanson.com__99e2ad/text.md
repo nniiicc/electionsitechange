@@ -1,11 +1,8 @@
-“Tommy Hanson is a common-sense conservative that believes in fiscal responsibility, full funding of law enforcement, and smart growth.”
-About
-I am Tommy Hanson.
+ABOUT ISSUES DONATE VOLUNTEER ENDORSEMENTS NEWS BLOG VIDEOS CONTACT Select Page DONATE VOLUNTEER “Tommy Hanson is a common-sense conservative that believes in fiscal responsibility, full funding of law enforcement, and smart growth.” About I am Tommy Hanson.
 Yes, you’ve seen me before; and I’m back, again!
 Our federal government must make changes, in order to make our country work effectively, efficiently and overcome the challenges at hand.
 Simply put: America needs to GROW OUR ECONOMY, PAY DOWN DEBT and MOVE FORWARD!
-Here’s for starters, what I have in mind for you:
-Replace individual income taxes with corporations making up the difference for federal taxes.
+Here’s for starters, what I have in mind for you: Replace individual income taxes with corporations making up the difference for federal taxes.
 Plus implementing sensible tariffs and a Fair Tax, for generating revenue for our government.
 Don’t be afraid of this; because it’s a mathematical formula which will benefit small businesses and you!
 Fill ALL pot holes in our streets, with federal tax revenue from marijuana products tax.
@@ -34,7 +31,6 @@ Most importantly, please don’t forget to vote and tell your friends to vote fo
 I want you to be a satisfied voter in the Illinois 5th Congressional District with Tommy Hanson!
 LET’S MOVE FORWARD!
 AMERICA NEEDS YOU!!!!
-Thank you,
-Tommy
-Volunteer
-Become a volunteer with Tommy Hanson’s campaign and help us build a campaign that works from the ground up!
+Thank you, Tommy Volunteer Your Name Your Email Phone City Zip Code County Comments SEND Become a volunteer with Tommy Hanson’s campaign and help us build a campaign that works from the ground up!
+General Inquiries Name Email Address Message SEND 847-447-6180 Facebook Instagram Paid for by Tommy Hanson for Congress.
+Tommy Hanson, Treasurer | Guided by Navigation Advertising, LLC

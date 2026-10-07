@@ -1,7 +1,11 @@
 {
  "description": "Christine McGovern - Candidate for Illinois State Senate District 18 - Campaign Events",
  "final_url": "https://www.shanahanmcgovern.com/Events?range=2026-W40",
- "paid_for_by": null,
+ "fingerprint": "b5fc08a760548c5c81b73cf4a845b9386aac6aea",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Christine McGovern - Candidate for Illinois State Senate District 18 - Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

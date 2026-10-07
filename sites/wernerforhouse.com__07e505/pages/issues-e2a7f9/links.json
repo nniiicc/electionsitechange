@@ -1,15 +1,70 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com//profile.php?id=61590742921837",
-"https://instagram.com/wernerforhouse",
-"https://secure.actblue.com/donate/owen-werner-1",
-"https://wernerforhouse.com/",
-"https://wernerforhouse.com/about",
-"https://wernerforhouse.com/contact",
-"https://wernerforhouse.com/events",
-"https://wernerforhouse.com/issues/issue-1",
-"https://wernerforhouse.com/issues/issue-2",
-"https://wernerforhouse.com/issues/womens-reproductive-rights",
-"https://wernerforhouse.com/privacy-policy",
-"https://x.com/WernerforHouse"
+{
+"text": "About",
+"href": "https://www.wernerforhouse.com/about"
+},
+{
+"text": "Affordable Housing",
+"href": "https://www.wernerforhouse.com/issues/issue-1"
+},
+{
+"text": "Contact",
+"href": "https://www.wernerforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/owen-werner-1"
+},
+{
+"text": "Events",
+"href": "https://www.wernerforhouse.com/events"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.wernerforhouse.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Universal Health Care",
+"href": "https://www.wernerforhouse.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.wernerforhouse.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.wernerforhouse.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.wernerforhouse.com/issues/womens-reproductive-rights"
+},
+{
+"text": "Women's Reproductive Rights",
+"href": "https://www.wernerforhouse.com/issues/womens-reproductive-rights"
+},
+{
+"text": "[image: Werner for House]",
+"href": "https://www.wernerforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//profile.php?id=61590742921837"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/wernerforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/WernerforHouse"
+},
+{
+"text": "owen@wernerforhouse.com",
+"href": "mailto:owen@wernerforhouse.com"
+}
 ]

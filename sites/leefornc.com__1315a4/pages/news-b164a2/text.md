@@ -1,4 +1,3 @@
-Watch current campaign videos, read recent updates, and see the latest from Michael Lee's campaign for NC Senate District 7.
-FEATURED VIDEO
-Protecting our Water
-Michael Lee has led the fight for clean water since the crisis began, bringing scientists and engineers together to deliver solutions and building on that progress because there is still more work to do.
+top of page HOME MEET MICHAEL PRIORITIES RESULTS NEWS & MEDIA GET INVOLVED DONATE News & Media Watch current campaign videos, read recent updates, and see the latest from Michael Lee's campaign for NC Senate District 7.
+FEATURED VIDEO Protecting our Water Michael Lee has led the fight for clean water since the crisis began, bringing scientists and engineers together to deliver solutions and building on that progress because there is still more work to do.
+Watch Now Join Team Lee Michael Lee: Unscripted Series HOME MEET MICHAEL PRIORITIES RESULTS NEWS & MEDIA GET INVOLVED DONATE PAID FOR BY THE COMMITTEE TO ELECT MICHAEL LEE​ Copyright © #, Committee to Elect Michael Lee | All Rights Reserved Terms & Conditions | Privacy Policy bottom of page

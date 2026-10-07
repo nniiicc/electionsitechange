@@ -1,5 +1,4 @@
-Common-Sense Gun Safety and Community Violence Prevention
-Every resident deserves the right to live, work, attend school, and worship in safety without the terror of firearm violence.
+0 Skip to Content Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Common-Sense Gun Safety and Community Violence Prevention Sep 17 Written By Apple User Every resident deserves the right to live, work, attend school, and worship in safety without the terror of firearm violence.
 I am a gun owner and have been for decades.
 During my twenty years of active military duty handling advanced weapons systems, I learned a fundamental principle of command: one of the times of strictest control occurs whenever a weapon, ammunition, and a Soldier occupy the same vicinity.
 In the military, arms room procedures and live-fire protocols are tightly regulated, methodically inspected, and rigidly enforced.
@@ -21,3 +20,8 @@ We must make sustained state investments in upstream community violence interven
 We must also expand crisis intervention training and funding for mobile crisis teams, ensuring licensed mental health clinicians accompany law enforcement to de-escalate psychiatric emergencies safely.
 As a veteran and lifelong gun owner, I refuse to treat dead children as an acceptable cost of living in America.
 I will bring military discipline, operational accountability, and unwavering resolve to the General Assembly to protect our communities.
+Apple User Previous Previous Environmental Stewardship, Water Quality, and Climate Resilience Next Next Defending Civil Rights, Reproductive Freedom, and LGBTQ+ Protections Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Contact General Inquiries: inquiries@alleria4statedelegate.org Press : press@alleria4statedelegate.org Phone: (202) 838-7503 Authorized by Citizens for Alleria Stanley, Elizabeth Meier, Treasurer.

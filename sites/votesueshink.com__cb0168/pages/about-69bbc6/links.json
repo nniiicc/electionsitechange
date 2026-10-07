@@ -1,13 +1,54 @@
 [
-"https://facebook.com/votesueshink",
-"https://instagram.com/votesueshink",
-"https://secure.actblue.com/donate/shinkwebsite",
-"https://twitter.com/shinksue",
-"https://votesueshink.com/",
-"https://votesueshink.com/about",
-"https://votesueshink.com/cart",
-"https://votesueshink.com/endorsements",
-"https://votesueshink.com/priorities",
-"https://votesueshink.com/priorities-1",
-"https://votesueshink.com/volunteer"
+{
+"text": "0",
+"href": "https://www.votesueshink.com/cart"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/shinkwebsite"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/shinkwebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votesueshink.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/votesueshink"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votesueshink.com/volunteer"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/votesueshink"
+},
+{
+"text": "Meet Sue",
+"href": "https://www.votesueshink.com/about"
+},
+{
+"text": "Meet Sue Shink",
+"href": "https://www.votesueshink.com/about"
+},
+{
+"text": "Priorities",
+"href": "https://www.votesueshink.com/priorities"
+},
+{
+"text": "Priorities",
+"href": "https://www.votesueshink.com/priorities-1"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/shinksue"
+},
+{
+"text": "[image: Sue Shink for State Senate]",
+"href": "https://www.votesueshink.com/"
+}
 ]

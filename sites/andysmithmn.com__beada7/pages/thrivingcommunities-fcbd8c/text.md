@@ -1,4 +1,4 @@
-Thriving Communities.
+Skip to Content Open Menu Close Menu Get Off the Couch Tour Get Involved Donate Subscribe Issues Healthcare Tax the Rich Abortion Thriving Communities Meet Andy 0 0 Donate Get Off the Couch Tour Get Involved Donate Subscribe Issues Healthcare Tax the Rich Abortion Thriving Communities Meet Andy 0 0 Donate Open Menu Close Menu Get Off the Couch Tour Folder: Get Involved Back Donate Subscribe Folder: Issues Back Healthcare Tax the Rich Abortion Thriving Communities Meet Andy Donate Thriving Communities.
 Paul Wellstone was right when he said, “We all do better when we all do better.” Despite the ubiquity of this statement in Minnesota politics for the past two decades, we still fall short of a society that commits to the well-being of all.
 Building thriving communities takes dedication, organization, and collective action.
 We need to fight for well-funded public education from cradle to college by offering universal childcare and free college tuition at public institutions.
@@ -10,5 +10,7 @@ Thriving communities also require that every person has rights over their own bo
 Abortion and Trans rights are under attack.
 Only with vigilance can we protect these precious freedoms of choice and self-identity.
 To achieve these goals, legislators need to hold large corporations and rich individuals accountable for how they’ve rigged the tax system.
-Many of our public programs, from education to housing, have been underfunded for decades, while corporate profits and CEO pay have soared.
+Many of our public programs, from education to housing, have been underfunded for decades , while corporate profits and CEO pay have soared.
 A just tax system is the first step towards the promise of government being achieved in Minnesota.
+Prepared and paid for by the Andy Smith for House Committee, PO Box 321, Rochester, MN 55903.
+PO Box #321, Rochester, MN 55903 info@andysmithmn.com Made with Squarespace

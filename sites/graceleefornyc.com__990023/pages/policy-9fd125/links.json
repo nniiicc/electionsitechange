@@ -1,117 +1,562 @@
 [
-"https://amny.com/news/ice-pols-bill-unmask-feds-implementation-remains-unclear",
-"https://amny.com/opinion/tax-the-teardowns",
-"https://assembly.state.ny.us/leg?bn=A03996",
-"https://assembly.state.ny.us/leg?bn=A11525",
-"https://assembly.state.ny.us/leg?default_fld=%0D%0A&bn=A4696&term=2023&Summary=Y&Actions=Y",
-"https://assembly.state.ny.us/leg?default_fld=%0D%0At&bn=A03858&Summary=Y",
-"https://cbs6albany.com/news/local/new-york-enforces-new-law-for-social-media-transparency-on-hate-speech-and-misinformation-attorney-general-james-governor-hochul-assemblymember-grace-lee-senator-hoylman-sigal-cbs6-wrgb",
-"https://citylimits.org/parents-and-developer-clash-over-mercury-cleanup-next-to-seaport-schools",
-"https://documentedny.com/2025/07/16/chinatown-communities-could-be-hit-hard-by-trumps-snap-cuts",
-"https://facebook.com/GraceLeeforNYC",
-"https://gaycitynews.com/hochul-veto-protect-users-payment-apps-gay-men",
-"https://governor.ny.gov/news/governor-hochul-mta-nyc-economic-development-corporation-and-delancey-street-associates-unveil",
-"https://graceleefornyc.com/",
-"https://graceleefornyc.com/about",
-"https://graceleefornyc.com/cart",
-"https://graceleefornyc.com/contact",
-"https://graceleefornyc.com/district",
-"https://graceleefornyc.com/endorsements",
-"https://graceleefornyc.com/media-kit",
-"https://graceleefornyc.com/policy",
-"https://graceleefornyc.com/vote",
-"https://instagram.com/graceleefornyc",
-"https://mobilize.us/graceleeforstatesenate",
-"https://myemail.constantcontact.com/Reductions-Resurgent.html?soid=1101992539878&aid=4D7jJf9BAmI",
-"https://ny1.com/nyc/all-boroughs/news/2026/04/17/hochul-s-11th-hour-tax-pitch-angers-real-estate--encourages-legislature-to-push-for-more-taxes",
-"https://nycbar.org/reports/prop-1-ny-equal-rights-amendment-what-the-amendment-will-and-wont-do",
-"https://nydailynews.com/2025/07/05/ice-opposition-grows-with-lawmakers-attorneys-decrying-courthouse-arrests-a-violation-of-due-process",
-"https://nypost.com/2026/03/20/us-news/ny-businesses-could-lose-govt-contracts-if-they-dont-disclose-work-with-ice-under-new-bill",
-"https://nysenate.gov/legislation/bills/2023/A1029/amendment/C",
-"https://nysenate.gov/legislation/bills/2023/A1273",
-"https://nysenate.gov/legislation/bills/2023/A154/amendment/A",
-"https://nysenate.gov/legislation/bills/2023/A279",
-"https://nysenate.gov/legislation/bills/2023/A3351/amendment/A",
-"https://nysenate.gov/legislation/bills/2023/A3484/amendment/A",
-"https://nysenate.gov/legislation/bills/2023/A4425/amendment/A",
-"https://nysenate.gov/legislation/bills/2023/A6263",
-"https://nysenate.gov/legislation/bills/2023/A8261",
-"https://nysenate.gov/legislation/bills/2025/A010249",
-"https://nysenate.gov/legislation/bills/2025/A10022/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A10141/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A10410",
-"https://nysenate.gov/legislation/bills/2025/A10460/amendment/B",
-"https://nysenate.gov/legislation/bills/2025/A10512",
-"https://nysenate.gov/legislation/bills/2025/A10549",
-"https://nysenate.gov/legislation/bills/2025/A10721",
-"https://nysenate.gov/legislation/bills/2025/A10999/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A11039",
-"https://nysenate.gov/legislation/bills/2025/A127",
-"https://nysenate.gov/legislation/bills/2025/A1281",
-"https://nysenate.gov/legislation/bills/2025/A1402",
-"https://nysenate.gov/legislation/bills/2025/A1466",
-"https://nysenate.gov/legislation/bills/2025/A1503",
-"https://nysenate.gov/legislation/bills/2025/A1547",
-"https://nysenate.gov/legislation/bills/2025/A1749/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A1971/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A2049",
-"https://nysenate.gov/legislation/bills/2025/A2141",
-"https://nysenate.gov/legislation/bills/2025/A2145/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A270",
-"https://nysenate.gov/legislation/bills/2025/A3271",
-"https://nysenate.gov/legislation/bills/2025/A3506/amendment/B",
-"https://nysenate.gov/legislation/bills/2025/A4278/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A4282/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A4338",
-"https://nysenate.gov/legislation/bills/2025/A472/amendment/B",
-"https://nysenate.gov/legislation/bills/2025/A4869",
-"https://nysenate.gov/legislation/bills/2025/A4870/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A514",
-"https://nysenate.gov/legislation/bills/2025/A5344/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A5373/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A5478/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A5730",
-"https://nysenate.gov/legislation/bills/2025/A5882/amendment/C",
-"https://nysenate.gov/legislation/bills/2025/A5896",
-"https://nysenate.gov/legislation/bills/2025/A6004",
-"https://nysenate.gov/legislation/bills/2025/A6265",
-"https://nysenate.gov/legislation/bills/2025/A6445",
-"https://nysenate.gov/legislation/bills/2025/A6453/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A6522/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A6632",
-"https://nysenate.gov/legislation/bills/2025/A6662",
-"https://nysenate.gov/legislation/bills/2025/A675/amendment/B",
-"https://nysenate.gov/legislation/bills/2025/A676",
-"https://nysenate.gov/legislation/bills/2025/A6927",
-"https://nysenate.gov/legislation/bills/2025/A7125",
-"https://nysenate.gov/legislation/bills/2025/A733/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A7618/amendment/C",
-"https://nysenate.gov/legislation/bills/2025/A8188",
-"https://nysenate.gov/legislation/bills/2025/A8427/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A8463/amendment/E",
-"https://nysenate.gov/legislation/bills/2025/A8634/amendment/B",
-"https://nysenate.gov/legislation/bills/2025/A8676",
-"https://nysenate.gov/legislation/bills/2025/A8758/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A8766/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A8884",
-"https://nysenate.gov/legislation/bills/2025/A8908",
-"https://nysenate.gov/legislation/bills/2025/A9014",
-"https://nysenate.gov/legislation/bills/2025/A9076/amendment/B",
-"https://nysenate.gov/legislation/bills/2025/A9197",
-"https://nysenate.gov/legislation/bills/2025/A9212",
-"https://nysenate.gov/legislation/bills/2025/A9349/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A9376",
-"https://nysenate.gov/legislation/bills/2025/A9417",
-"https://nysenate.gov/legislation/bills/2025/A9604/amendment/A",
-"https://nytimes.com/2026/02/12/nyregion/stonewall-flag-protest-nyc.html",
-"https://oneswitchboard.com/privacy-policy/grace-lee-for-new-york",
-"https://qns.com/2025/12/hochul-signs-aanhpi-history-bill",
-"https://secure.actblue.com/donate/grace-lee-2",
-"https://spectrumlocalnews.com/nys/central-ny/politics/2025/12/12/n-y--schools-served-150m-free-meals-since-start-of-universal-program",
-"https://stateline.org/2026/03/05/blue-states-push-to-ban-ice-at-the-polls-amid-federal-voter-intimidation-fears",
-"https://thecity.nyc/2023/03/13/nycha-rent-bailout-erap-new-york",
-"https://therealdeal.com/new-york/2026/04/15/pied-a-terre-tax-push-10k-demolition-fee-floated",
-"https://wamc.org/news/2026-02-12/pfas-bills-are-making-their-way-through-new-yorks-legislature?_amp=true",
-"https://wkbw.com/news/local-news/hochul-survey-shows-bell-to-bell-cellphone-ban-policy-in-nys-schools-delivering-outstanding-results",
-"https://x.com/graceleefornyc?lang=en"
+{
+"text": "$400M in Emergency Rental Assistance Program (ERAP)",
+"href": "https://www.thecity.nyc/2023/03/13/nycha-rent-bailout-erap-new-york/"
+},
+{
+"text": "0",
+"href": "https://www.graceleefornyc.com/cart"
+},
+{
+"text": "AI and Technology",
+"href": "https://www.graceleefornyc.com/policy#aiandtechnology"
+},
+{
+"text": "ASAP Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A8758/amendment/A"
+},
+{
+"text": "Accelerate Solar for Affordable Power Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A8758/amendment/A"
+},
+{
+"text": "Affordability",
+"href": "https://www.graceleefornyc.com/policy#anaffordablenewyork"
+},
+{
+"text": "Asian American, Native Hawaiian, and Pacific Islander history",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A8463/amendment/E"
+},
+{
+"text": "Clean Slate Act",
+"href": "https://www.nysenate.gov/legislation/bills/2023/A1029/amendment/C"
+},
+{
+"text": "Climate Action",
+"href": "https://www.graceleefornyc.com/policy#climateaction"
+},
+{
+"text": "Climate Change Superfund",
+"href": "https://www.nysenate.gov/legislation/bills/2023/A3351/amendment/A"
+},
+{
+"text": "Climate Corporate Data Accountability Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A4282/amendment/A"
+},
+{
+"text": "Consumer Grocery Pricing Fairness Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A9212"
+},
+{
+"text": "Contact",
+"href": "https://www.graceleefornyc.com/contact"
+},
+{
+"text": "Contact Us",
+"href": "https://www.graceleefornyc.com/contact"
+},
+{
+"text": "District 27",
+"href": "https://www.graceleefornyc.com/district"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/grace-lee-2"
+},
+{
+"text": "Education",
+"href": "https://www.graceleefornyc.com/policy#education"
+},
+{
+"text": "Elder Parole",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A514"
+},
+{
+"text": "Empire State Licensing Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A675/amendment/B"
+},
+{
+"text": "Endorsements",
+"href": "https://www.graceleefornyc.com/endorsements"
+},
+{
+"text": "FAIR Business Practices Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A8427/amendment/A"
+},
+{
+"text": "Fair & Timely Parole",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A127"
+},
+{
+"text": "Fair Taxes",
+"href": "https://www.graceleefornyc.com/policy#fairtaxes"
+},
+{
+"text": "Fighting Trump & ICE",
+"href": "https://www.graceleefornyc.com/policy#fightingtrumpandice"
+},
+{
+"text": "Gender Identity Respect Dignity and Safety Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A5478/amendment/A"
+},
+{
+"text": "Grace has used her platform to stand up for the LGBTQIA+ community",
+"href": "https://www.nytimes.com/2026/02/12/nyregion/stonewall-flag-protest-nyc.html"
+},
+{
+"text": "HEAT Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A4870/amendment/A"
+},
+{
+"text": "Hate Crimes Modernization Act",
+"href": "https://www.nysenate.gov/legislation/bills/2023/A8261"
+},
+{
+"text": "Home",
+"href": "https://www.graceleefornyc.com/"
+},
+{
+"text": "ICE Contract Transparency Act",
+"href": "https://nypost.com/2026/03/20/us-news/ny-businesses-could-lose-govt-contracts-if-they-dont-disclose-work-with-ice-under-new-bill/"
+},
+{
+"text": "ICE Contract Transparency Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A10460/amendment/B"
+},
+{
+"text": "Immigrant Rights",
+"href": "https://www.graceleefornyc.com/policy#supportingimmigrantcommunities"
+},
+{
+"text": "Introduced the Teardown Tax Act",
+"href": "https://www.amny.com/opinion/tax-the-teardowns/"
+},
+{
+"text": "J-51 tax abatement program",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A10549"
+},
+{
+"text": "Jobs and Small Businesses",
+"href": "https://www.graceleefornyc.com/policy#jobsandsmallbusinesses"
+},
+{
+"text": "LGBTQ+ advisory board",
+"href": "https://www.nysenate.gov/legislation/bills/2023/A1273"
+},
+{
+"text": "LLC Transparency Act",
+"href": "https://www.nysenate.gov/legislation/bills/2023/A3484/amendment/A"
+},
+{
+"text": "LM-REAP",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A8676"
+},
+{
+"text": "MELT Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A8908"
+},
+{
+"text": "Media Kit",
+"href": "https://www.graceleefornyc.com/media-kit"
+},
+{
+"text": "Meet Grace",
+"href": "https://www.graceleefornyc.com/about"
+},
+{
+"text": "More Issues",
+"href": "https://www.graceleefornyc.com/policy#moreissues"
+},
+{
+"text": "New York Civil Rights Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A9076/amendment/B"
+},
+{
+"text": "New York Health Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A1466"
+},
+{
+"text": "New York Junk Fee Prevention Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A9604/amendment/A"
+},
+{
+"text": "New York State Social Housing Development Authority",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A6265"
+},
+{
+"text": "New York Youth Climate Corps",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A5896"
+},
+{
+"text": "New York for All Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A3506/amendment/B"
+},
+{
+"text": "Office of Equity for Energy and Climate",
+"href": "https://www.nysenate.gov/legislation/bills/2023/A6263"
+},
+{
+"text": "Peer-to-Peer Mobile Payment Security Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A5730"
+},
+{
+"text": "Policy",
+"href": "https://www.graceleefornyc.com/policy"
+},
+{
+"text": "Pr",
+"href": "https://documentedny.com/2025/07/16/chinatown-communities-could-be-hit-hard-by-trumps-snap-cuts/"
+},
+{
+"text": "Privacy Policy and Terms & Conditions",
+"href": "https://oneswitchboard.com/privacy-policy/grace-lee-for-new-york"
+},
+{
+"text": "Pro-Banking Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A6662"
+},
+{
+"text": "Proposition 1",
+"href": "https://www.nycbar.org/reports/prop-1-ny-equal-rights-amendment-what-the-amendment-will-and-wont-do/"
+},
+{
+"text": "Public Safety",
+"href": "https://www.graceleefornyc.com/policy#publicsafetyandcriminaljusticereform"
+},
+{
+"text": "Public Safety and Criminal Justice Reform",
+"href": "https://www.graceleefornyc.com/policy#publicsafetyandcriminaljusticereform"
+},
+{
+"text": "RADAR Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A9376"
+},
+{
+"text": "RAISE Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A6453/amendment/A"
+},
+{
+"text": "Read More",
+"href": "https://www.graceleefornyc.com/policy#aiandtechnology"
+},
+{
+"text": "Read More",
+"href": "https://www.graceleefornyc.com/policy#education"
+},
+{
+"text": "Read More",
+"href": "https://www.graceleefornyc.com/policy#jobsandsmallbusinesses"
+},
+{
+"text": "Read More",
+"href": "https://www.graceleefornyc.com/policy#publicsafetyandcriminaljusticereform"
+},
+{
+"text": "Read More",
+"href": "https://www.graceleefornyc.com/policy#supportingimmigrantcommunities"
+},
+{
+"text": "Read More",
+"href": "https://www.graceleefornyc.com/policy#transportation"
+},
+{
+"text": "Read Moread More",
+"href": "https://www.graceleefornyc.com/policy#climateaction"
+},
+{
+"text": "SAFE AIR Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A8188"
+},
+{
+"text": "SNAP for All",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A6632"
+},
+{
+"text": "Stop Hiding Hate Act",
+"href": "https://cbs6albany.com/news/local/new-york-enforces-new-law-for-social-media-transparency-on-hate-speech-and-misinformation-attorney-general-james-governor-hochul-assemblymember-grace-lee-senator-hoylman-sigal-cbs6-wrgb"
+},
+{
+"text": "Supporting Immigrant Communities",
+"href": "https://www.graceleefornyc.com/policy#supportingimmigrantcommunities"
+},
+{
+"text": "Teardown Tax Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A10999/amendment/A"
+},
+{
+"text": "Transportation",
+"href": "https://www.graceleefornyc.com/policy#transportation"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.mobilize.us/graceleeforstatesenate/"
+},
+{
+"text": "Vote",
+"href": "https://www.graceleefornyc.com/vote"
+},
+{
+"text": "[image: Grace Lee for Senate]",
+"href": "https://www.graceleefornyc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/GraceLeeforNYC/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/graceleefornyc/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/graceleefornyc?lang=en"
+},
+{
+"text": "a bill to renew a tax credit to encourage businesses to relocate to Lower Manhattan",
+"href": "https://myemail.constantcontact.com/Reductions-Resurgent.html?soid=1101992539878&aid=4D7jJf9BAmI"
+},
+{
+"text": "algorithms to manipulate prices",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A9349/amendment/A"
+},
+{
+"text": "bill to prohibit algorithmic price-setting systems",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A9349/amendment/A"
+},
+{
+"text": "corporate tax loopholes",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A676"
+},
+{
+"text": "deceptive practices",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A010249"
+},
+{
+"text": "disclose",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A10022/amendment/A"
+},
+{
+"text": "disclose",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A10512"
+},
+{
+"text": "ending qualified immunity",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A1402"
+},
+{
+"text": "exempt",
+"href": "https://assembly.state.ny.us/leg/?bn=A11525&leg_video="
+},
+{
+"text": "expand diversion courts",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A4869"
+},
+{
+"text": "expanding eligibility for housing programs",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A1503"
+},
+{
+"text": "harmful PFAS chemicals",
+"href": "https://www.wamc.org/news/2026-02-12/pfas-bills-are-making-their-way-through-new-yorks-legislature?_amp=true"
+},
+{
+"text": "higher income tax rates",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A1281"
+},
+{
+"text": "holding producers accountable",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A1749/amendment/A"
+},
+{
+"text": "increase the income eligibility",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A5344/amendment/A"
+},
+{
+"text": "increase the ratio of faculty and mental health counselors to students",
+"href": "https://www.nysenate.gov/legislation/bills/2023/A4425/amendment/A"
+},
+{
+"text": "inheritance and gift taxes",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A2049"
+},
+{
+"text": "keep our drinking water safe",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A8634/amendment/B"
+},
+{
+"text": "landmark legislation",
+"href": "https://qns.com/2025/12/hochul-signs-aanhpi-history-bill/"
+},
+{
+"text": "law to raise fines on corporations",
+"href": "https://assembly.state.ny.us/leg/?default_fld=%0D%0At&leg_video=&bn=A03858&term=&Summary=Y"
+},
+{
+"text": "lead the effort to clean up a mercury-contaminated brownfield site near the South Street Seaport",
+"href": "https://citylimits.org/parents-and-developer-clash-over-mercury-cleanup-next-to-seaport-schools/"
+},
+{
+"text": "legal representation for unaccompanied minors",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A3271"
+},
+{
+"text": "legislation",
+"href": "https://assembly.state.ny.us/leg/?bn=A03996&leg_video="
+},
+{
+"text": "legislation",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A10410"
+},
+{
+"text": "legislation",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A4278/amendment/A"
+},
+{
+"text": "legislation",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A472/amendment/B"
+},
+{
+"text": "legislation",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A6004"
+},
+{
+"text": "legislation",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A733/amendment/A"
+},
+{
+"text": "legislation",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A8884"
+},
+{
+"text": "legislation",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A9197"
+},
+{
+"text": "legislation to increase MWBEs participation",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A7125"
+},
+{
+"text": "licensed medical providers",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A4338"
+},
+{
+"text": "lower health insurance premiums",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A6522/amendment/A"
+},
+{
+"text": "lower prescription drug costs",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A5882/amendment/C"
+},
+{
+"text": "misleading online advertising",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A1547"
+},
+{
+"text": "moratorium on new data center permits",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A10141/amendment/A"
+},
+{
+"text": "new laws to ban ICE from being within proximity of poll sites.",
+"href": "https://stateline.org/2026/03/05/blue-states-push-to-ban-ice-at-the-polls-amid-federal-voter-intimidation-fears/"
+},
+{
+"text": "openable windows",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A8766/amendment/A"
+},
+{
+"text": "otect, Invest, and Expand Food Security",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A9212"
+},
+{
+"text": "polling place change",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A7618/amendment/C"
+},
+{
+"text": "prevent character attacks against survivors",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A9417"
+},
+{
+"text": "prohibit ICE agents from wearing masks",
+"href": "https://www.amny.com/news/ice-pols-bill-unmask-feds-implementation-remains-unclear/"
+},
+{
+"text": "prohibiting immigration enforcement in school settings",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A5373/amendment/A"
+},
+{
+"text": "protect SCRIE benefits",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A10721"
+},
+{
+"text": "protect sensitive electronic health data",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A2141"
+},
+{
+"text": "protect the safety and privacy",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A2145/amendment/A"
+},
+{
+"text": "protecting providers",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A6927"
+},
+{
+"text": "protections against wage theft",
+"href": "https://www.nysenate.gov/legislation/bills/2023/A154/amendment/A"
+},
+{
+"text": "raises revenue from the wealthiest New Yorkers",
+"href": "https://ny1.com/nyc/all-boroughs/news/2026/04/17/hochul-s-11th-hour-tax-pitch-angers-real-estate--encourages-legislature-to-push-for-more-taxes"
+},
+{
+"text": "redistricting",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A9014"
+},
+{
+"text": "rein in ICE abuses",
+"href": "https://www.nydailynews.com/2025/07/05/ice-opposition-grows-with-lawmakers-attorneys-decrying-courthouse-arrests-a-violation-of-due-process/"
+},
+{
+"text": "repeal real property tax exemptions",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A11039"
+},
+{
+"text": "secured",
+"href": "https://www.governor.ny.gov/news/governor-hochul-mta-nyc-economic-development-corporation-and-delancey-street-associates-unveil"
+},
+{
+"text": "statewide ban on cell phones",
+"href": "https://www.wkbw.com/news/local-news/hochul-survey-shows-bell-to-bell-cellphone-ban-policy-in-nys-schools-delivering-outstanding-results"
+},
+{
+"text": "statewide right to legal counsel",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A270"
+},
+{
+"text": "strengthening NYPA's role",
+"href": "https://www.nysenate.gov/legislation/bills/2023/A279"
+},
+{
+"text": "supports taxing second homes valued at $5 million or more",
+"href": "https://therealdeal.com/new-york/2026/04/15/pied-a-terre-tax-push-10k-demolition-fee-floated/"
+},
+{
+"text": "survivor's DNA",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A6445"
+},
+{
+"text": "to provide financial support for mom-and-pop dry cleaners, nail salons, and other small businesses",
+"href": "https://assembly.state.ny.us/leg/?default_fld=%0D%0A&leg_video=&bn=A4696&term=2023&Summary=Y&Actions=Y"
+},
+{
+"text": "to require stronger security protections on apps like Venmo, Zelle, and CashApp",
+"href": "https://gaycitynews.com/hochul-veto-protect-users-payment-apps-gay-men/"
+},
+{
+"text": "universal free school breakfast and lunch",
+"href": "https://spectrumlocalnews.com/nys/central-ny/politics/2025/12/12/n-y--schools-served-150m-free-meals-since-start-of-universal-program"
+},
+{
+"text": "wealth tax",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A1971/amendment/A"
+}
 ]

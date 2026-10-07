@@ -1,5 +1,5 @@
-Stacie Baker Calls for Statewide Moratorium on New Large-Scale Data Centers
-Ohio is seeing rapid growth in large-scale data center development, and we must ensure that growth does not come at the expense of the people and communities who call Ohio home.
+Baker for Ohio About Platform Endorsements Announcements Events Get Involved Volunteer Yard Signs Contact Donate About Platform Endorsements Announcements Events Get Involved Volunteer Yard Signs Contact Donate ← Back to Home Announcements Announcements News and statements from Stacie Baker’s campaign for Ohio Senate District 3.
+August 22, 2026 Stacie Baker Calls for Statewide Moratorium on New Large-Scale Data Centers Ohio is seeing rapid growth in large-scale data center development, and we must ensure that growth does not come at the expense of the people and communities who call Ohio home.
 I am calling on state leaders to put an immediate, temporary statewide hold on approvals for new large-scale data centers.
 We need a pause until Ohio puts real, enforceable protections in place for our ratepayers, workers, water, farmland, and neighborhoods.
 But let me be clear: a pause without a plan doesn’t fix anything.
@@ -19,6 +19,6 @@ If elected to represent Ohio Senate District 3, I will fight for development tha
 Until those safeguards are locked in, we need to hit the pause button on these massive data centers.
 Ohio should never be forced to choose between progress and protecting its people.
 We can, and should, demand both.
-Best,
-Stacie Baker
-Candidate for Ohio Senate District 3
+Best, Stacie Baker Candidate for Ohio Senate District 3 "A pause without a plan doesn’t fix anything." Stacie Baker Endorsed By Ohio Democratic Party Franklin County Democratic Party Sheet Metal Workers Local Union #24 AFSCME Ohio Council 8 AFSCME Retiree Chapter 1184 Ohio Federation of Teachers OCSEA / AFSCME Local 11 Ohio AFL-CIO Central Ohio Labor Council Columbus/Central Ohio Building & Construction Trades Council Brotherhood of Locomotive Engineers and Trainmen (Ohio State Legislative Board) Ohio Environmental Council Action Committee Hilliard Democrats Baptist Ministerial Alliance of Greater Columbus Stand with Stacie on November 3rd Every vote in the general election is a vote for communities that get a real seat at the table.
+Donate Now Get Involved Paid for by Citizens For Baker • © # All Rights Reserved • P.O.
+Box, Reynoldsburg, OH 43068

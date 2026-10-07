@@ -1,8 +1,12 @@
-top of page
-Strengthening Infrastructure & Transportation
-Home to Newark Liberty International Airport, the port, regional rail and major highways, CD-10 is at the center of it all.
+top of page Donate Home Page Meet LaMonica Stand with LaMonica Endorsements Priorities Investing in Families Safeguarding Our Communities Preserving Our Environment Creating Jobs & Supporting Small Bus Protecting Reproductive Rights Strengthening Infrastructure & Transport Serving Our Veterans & Seniors Advancing Social Justice Providing Equitable Access to High Quali Promoting Educational Opportunity Terms & conditions Join Our Campaign Privacy Policy Events Strengthening Infrastructure & Transportation Home to Newark Liberty International Airport, the port, regional rail and major highways, CD-10 is at the center of it all.
 Terminal A at Newark Airport was recently rated among the best in the country much in part to Rep.
 Payne’s leadership on infrastructure investment.
 We must remain committed to his vision and continue to invest in our roads, bridges, airport, railway, and port to achieve the most efficient network to facilitate the movement of goods and people.
 At the same time, we must upgrade our water infrastructure to ensure access to clean water and broadband so that all residents have online access with faster speeds, greater capacity, and more reliability.
-bottom of page
+Priorities Providing Equitable Access to High Quality Healthcare Creating Jobs & Supporting Small Business Advancing Social Justice Promoting Educational Opportunity Safeguarding Our Communities Investing in Families Protecting Our Environment Serving Our Veterans & Seniors J oin Our 2026 Campaign Sign up for email updates so you can stay in the loop.
+Thank you for wanting to be a part of Team McIver.
+By volunteering your time to this great journey, together we can continue to move our community forward.
+First name Last name Email Zip/Postal Code Phone number Join Now Thank you!
+We'll be in touch soon Chip In Every donation makes a big difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Donate Endorsements Priorities Campaign Updates Contact LaMonica For Congress P.O.
+Box 25585 Newark, NJ 07101 info@LaMonicaForCongress.com ​ ​ For Press Inquiries/Media Requests, please contact: LaMonicaMcIverForCongress@gmail.com ​ For Finance Inquiries/Questions, please contact: LaMonicaMcIverForCongress@gmail.com ​ ​ ​ Follow us on Social Media ​ ©# LaMonica For Congress | Website Designed/Created by I con Media Group Paid For By LaMonica McIver For Congress bottom of page

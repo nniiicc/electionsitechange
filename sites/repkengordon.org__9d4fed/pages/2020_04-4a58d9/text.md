@@ -1,17 +1,20 @@
-Governor Charlie Baker issued an executive order today that extends the essential services emergency order from May 4 to May 18, while the House of Representatives is making plans to commence formal session voting.
-Rep.
-Gordon Provides April 21 COVID-19 Update — School and Childcare Center Closure Extended
-Governor Charlie Baker issued an emergency order extending the closure of all public and private schools through the end of the school year, and the closure of all non-emergency child care programs until June 29, 2020 in an effort to prevent the further spread of COVID-19 in the Commonwealth.
+Get Involved/Donate Home About Ken Gordon Leadership Issues In the News Recent Press Rappin’ with the Rep Newsletter Support Ken Recipes Home About Ken Gordon Leadership Issues In the News Recent Press Rappin’ with the Rep Newsletter Support Ken Recipes Archive of: April 2020 Rep.
+Gordon Provides April 28 COVID-19 Update — Stay-at-Home Advisory, Non- Essential Business Closure Extended, House Resumes Formal Sessions April 28, 2020 repkengordon2016 Uncategorized Comments are Closed Governor Charlie Baker issued an executive order today that extends the essential services emergency order from May 4 to May 18, while the House of Representatives is making plans to commence formal session voting.
+Read more Rep.
+Gordon Provides April 21 COVID-19 Update — School and Childcare Center Closure Extended April 21, 2020 repkengordon2016 Uncategorized Comments are Closed Governor Charlie Baker issued an emergency order extending the closure of all public and private schools through the end of the school year, and the closure of all non-emergency child care programs until June 29, 2020 in an effort to prevent the further spread of COVID-19 in the Commonwealth.
 The order does not apply to residential special education schools.
-Representative Gordon Supports Bill to Waive MCAS Requirements, Help Vulnerable Residents Amid COVID-19 Public Health Crisis
-BOSTON (4/14/20) – Representative Ken Gordon supported legislation passed by the House of Representatives that provides MCAS testing and budgetary flexibility to school districts and supports those experiencing homelessness in the Commonwealth.
+Read more Representative Gordon Supports Bill to Waive MCAS Requirements, Help Vulnerable Residents Amid COVID-19 Public Health Crisis April 14, 2020 repkengordon2016 Uncategorized Comments are Closed BOSTON (4/14/20) – Representative Ken Gordon supported legislation passed by the House of Representatives that provides MCAS testing and budgetary flexibility to school districts and supports those experiencing homelessness in the Commonwealth.
 The bill was later passed by the Senate and signed into law by the Governor on Friday, April 11.
-Rep.
-Gordon Provides April 9 COVID-19 Update — Unemployment Update, Conversation with Congressman Moulton
-The state’s Department of Unemployment Assistance (DUA) made three important announcements on Thursday regarding unemployment compensation programs established under the federal government’s CARES act, according to updates from Representative Ken Gordon (D- Bedford).
-Rep.
-Gordon Provides April 3 COVID-19 Update — Evictions and Foreclosure Moratorium, Restaurant Beer and Wine Takeout Sales, and Contact Tracing Initiative
-Representative Gordon wrapped up another busy week on Friday, April 3 and provided the following updates to constituents as the COVID-19 emergency continues.
+Read more Rep.
+Gordon Provides April 9 COVID-19 Update — Unemployment Update, Conversation with Congressman Moulton April 9, 2020 repkengordon2016 Uncategorized Comments are Closed The state’s Department of Unemployment Assistance (DUA) made three important announcements on Thursday regarding unemployment compensation programs established under the federal government’s CARES act, according to updates from Representative Ken Gordon (D- Bedford).
+Read more Rep.
+Gordon Provides April 3 COVID-19 Update — Evictions and Foreclosure Moratorium, Restaurant Beer and Wine Takeout Sales, and Contact Tracing Initiative April 3, 2020 repkengordon2016 Uncategorized Comments are Closed Representative Gordon wrapped up another busy week on Friday, April 3 and provided the following updates to constituents as the COVID-19 emergency continues.
 The total number of positive cases climbed to 10,402 today with 1,436 new cases reported.
 An additional 38 people perished from the virus brought the toll to 192.
 In total, 62,962 tests have been conducted in Massachusetts.
+Read more 1 2 Next Recent Posts Rep.
+Ken Gordon Seeking Interns for Summer 2026 Marcelo Gomes Da Silva and The Burlington ICE Facility Rep.
+Ken Gordon Seeks Summer 2025 State House Interns Rep.
+Ken Gordon Seeks Summer 2024 State House Interns Massachusetts Legislature’s FY24 Budget includes Rep.
+Ken Gordon’s priority legislation and funding for Bedford and Burlington Archives March 2026 June 2025 February 2025 February 2024 August 2023 May 2023 March 2023 November 2022 September 2022 August 2022 July 2022 April 2022 March 2022 December 2021 November 2021 August 2021 July 2021 June 2021 May 2021 March 2021 February 2021 January 2021 December 2020 November 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 April 2019 March 2019 February 2019 January 2019 November 2018 August 2018 July 2018 June 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 October 2017 March 2017 October 2016 September 2016 July 2016 June 2016 Categories Community Traffic Control Uncategorized Paid for by the Committee to (re) Elect Ken Gordon ©# × × How much would you like to donate?
+Donate Now

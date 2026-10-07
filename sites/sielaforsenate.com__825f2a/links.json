@@ -1,10 +1,42 @@
 [
-"https://facebook.com/sielaforsenate",
-"https://secure.actblue.com/donate/sielaforsenate",
-"https://sielaforsenate.com/",
-"https://sielaforsenate.com/cart",
-"https://sielaforsenate.com/endorsements",
-"https://sielaforsenate.com/in-the-community",
-"https://sielaforsenate.com/volunteer",
-"https://twitter.com/sielaforsenate"
+{
+"text": "0",
+"href": "https://www.sielaforsenate.com/cart"
+},
+{
+"text": "CONTACT US",
+"href": "mailto:info@sielaforsenate.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/sielaforsenate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.sielaforsenate.com/endorsements"
+},
+{
+"text": "IN THE COMMUNITY",
+"href": "https://www.sielaforsenate.com/in-the-community"
+},
+{
+"text": "JOIN US",
+"href": "https://secure.actblue.com/donate/sielaforsenate"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.sielaforsenate.com/volunteer"
+},
+{
+"text": "[image: Siela Bynoe for State Senate]",
+"href": "https://www.sielaforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/sielaforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sielaforsenate"
+}
 ]

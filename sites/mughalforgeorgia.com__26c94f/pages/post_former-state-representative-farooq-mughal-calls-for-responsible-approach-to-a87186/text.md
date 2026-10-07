@@ -1,20 +1,14 @@
-Former State Representative Farooq Mughal Calls for Responsible Approach to Data Center Growth, Supports Temporary Moratorium on New Construction
-DACULA, GA — Former State Representative Farooq Mughal is calling for a responsible and balanced approach to the rapid expansion of data centers across Georgia, supporting a temporary moratorium on new data center construction until stronger safeguards are in place to protect Georgia families, natural resources, and the state’s long-term energy future.
+top of page Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items.
+CONTRIBUTE SUBSCRIBE All Articles Search Former State Representative Farooq Mughal Calls for Responsible Approach to Data Center Growth, Supports Temporary Moratorium on New Construction Aug 12 2 min read DACULA, GA — Former State Representative Farooq Mughal is calling for a responsible and balanced approach to the rapid expansion of data centers across Georgia, supporting a temporary moratorium on new data center construction until stronger safeguards are in place to protect Georgia families, natural resources, and the state’s long-term energy future.
 “As technology continues to grow, we must make sure that economic development does not come at the expense of working families, our environment, or our critical resources,” said former State Representative Farooq Mughal.
 “Data centers require enormous amounts of electricity and water.
-Without a stronger transition toward clean energy, increased demand could lead to higher energy costs for consumers and greater reliance on fossil fuels.”
-Data centers are among the most energy-intensive facilities in the modern economy and require significant water resources for cooling operations.
+Without a stronger transition toward clean energy, increased demand could lead to higher energy costs for consumers and greater reliance on fossil fuels.” Data centers are among the most energy-intensive facilities in the modern economy and require significant water resources for cooling operations.
 Mughal emphasized that Georgia must carefully evaluate where and how these facilities are developed, particularly in communities facing water supply challenges.
 “Water is one of our most valuable resources, and we must prioritize the needs of residents, farmers, and local communities,” Mughal said.
 “I support preventing data center development in areas where water availability is already strained.
-Protecting access to clean and reliable water must remain a priority.”
-Mughal also stressed the importance of encouraging innovation while ensuring that new developments align with Georgia’s environmental and economic goals.
+Protecting access to clean and reliable water must remain a priority.” Mughal also stressed the importance of encouraging innovation while ensuring that new developments align with Georgia’s environmental and economic goals.
 “Georgia can continue to be a leader in technology and innovation, but growth must be responsible,” Mughal said.
-“We should welcome new industries while making sure they contribute to a sustainable future and do not place unnecessary burdens on taxpayers and communities.”
-As Georgia continues to attract technology investments, Mughal believes state and local leaders must establish clear standards that balance economic opportunity with responsible resource management.
-About Farooq Mughal:
-Farooq Mughal is a former member of the Georgia House of Representatives, where he represented District 105 from 2023 to 2025, covering parts of Buford, Lawrenceville, and Dacula in Gwinnett County.
-For more information or to request interviews, please contact:
-Name: Maariz Kashem
-Title: Chief of Staff
-Phone: 404-940-9810
+“We should welcome new industries while making sure they contribute to a sustainable future and do not place unnecessary burdens on taxpayers and communities.” As Georgia continues to attract technology investments, Mughal believes state and local leaders must establish clear standards that balance economic opportunity with responsible resource management.
+About Farooq Mughal: Farooq Mughal is a former member of the Georgia House of Representatives, where he represented District 105 from 2023 to 2025, covering parts of Buford, Lawrenceville, and Dacula in Gwinnett County.
+For more information or to request interviews, please contact: Name: Maariz Kashem Title: Chief of Staff Phone: 404-940-9810 Email: maariz.mughalforgeorgia@gmail.com Recent Posts See All Former State Representative Farooq Mughal Supports Special Use Permit Requirement for Data Centers in Gwinnett County Former State Representative Farooq Mughal Proposes Suspending Grocery and Gas Taxes Until Georgia’s Economy Recovers Former State Representative Farooq Mughal announced a proposal to establish a Georgia Healthcare Task Force START CHANGING Support Our Cause CONTRIBUTE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+MUGHAL FOR GEORGIA 710 Dacula Rd, Ste 4A, #325 Dacula, GA, 30019 fmughalforgeorgia@gmail.com 678-234-3242 Paid and Authorized by Mughal for Georgia, LLC (2022) Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items. bottom of page

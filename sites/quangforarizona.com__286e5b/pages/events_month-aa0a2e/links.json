@@ -1,22 +1,102 @@
 [
-"http://escortsistanbul.com/",
-"http://istanbulescorts.biz/",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fquangforarizona.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fquangforarizona.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Quang+For+Arizona+Quang+For+Arizona",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fquangforarizona.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Quang+For+Arizona+Quang+For+Arizona",
-"https://paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V32CDUD49LGPA",
-"https://quangforarizona.com/",
-"https://quangforarizona.com/about",
-"https://quangforarizona.com/contact",
-"https://quangforarizona.com/endorsements",
-"https://quangforarizona.com/events",
-"https://quangforarizona.com/events/list",
-"https://quangforarizona.com/events/month",
-"https://quangforarizona.com/events/month/2026-09",
-"https://quangforarizona.com/events/month/2026-11",
-"https://quangforarizona.com/events/month?ical=1",
-"https://quangforarizona.com/events/month?outlook-ical=1",
-"https://quangforarizona.com/events/today",
-"https://quangforarizona.com/get-involved",
-"https://quangforarizona.com/quangs-voice"
+{
+"text": "About",
+"href": "https://quangforarizona.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://quangforarizona.com/contact/"
+},
+{
+"text": "Day",
+"href": "https://quangforarizona.com/events/today/"
+},
+{
+"text": "Donate Today",
+"href": "https://www.paypal.com/cgi-bin/webscr/?cmd=_s-xclick&hosted_button_id=V32CDUD49LGPA"
+},
+{
+"text": "Endorsements",
+"href": "https://quangforarizona.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://quangforarizona.com/events"
+},
+{
+"text": "Export .ics file",
+"href": "https://quangforarizona.com/events/month/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://quangforarizona.com/events/month/?outlook-ical=1"
+},
+{
+"text": "Get Involved",
+"href": "https://quangforarizona.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fquangforarizona.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://quangforarizona.com"
+},
+{
+"text": "List",
+"href": "https://quangforarizona.com/events/list/"
+},
+{
+"text": "Month",
+"href": "https://quangforarizona.com/events/month/"
+},
+{
+"text": "Nov",
+"href": "https://quangforarizona.com/events/month/2026-11/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fquangforarizona.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Quang+For+Arizona+Quang+For+Arizona"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fquangforarizona.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Quang+For+Arizona+Quang+For+Arizona"
+},
+{
+"text": "Quang’s Voice",
+"href": "https://quangforarizona.com/quangs-voice/"
+},
+{
+"text": "Sep",
+"href": "https://quangforarizona.com/events/month/2026-09/"
+},
+{
+"text": "This Month",
+"href": "https://quangforarizona.com/events/month/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://quangforarizona.com/"
+},
+{
+"text": "[tooltip: Next month]",
+"href": "https://quangforarizona.com/events/month/2026-11/"
+},
+{
+"text": "[tooltip: Previous month]",
+"href": "https://quangforarizona.com/events/month/2026-09/"
+},
+{
+"text": "escort",
+"href": "http://www.escortsistanbul.com"
+},
+{
+"text": "iCalendar",
+"href": "webcal://quangforarizona.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+},
+{
+"text": "istanbul escort",
+"href": "http://istanbulescorts.biz"
+}
 ]

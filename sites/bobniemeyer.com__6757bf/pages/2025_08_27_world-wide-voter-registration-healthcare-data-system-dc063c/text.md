@@ -1,5 +1,4 @@
-Fellow Oregonians:
-There are only three things that Humanity needs: Fair trade, Healthcare, and Honest Voting.
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer World-Wide Voter Registration/ Healthcare Data System Fellow Oregonians: There are only three things that Humanity needs: Fair trade, Healthcare, and Honest Voting.
 Some will argue that there are many more, however, these three will always wind up being on the top of the any kind of chart or list as being a foundational requirements to supporting the wellbeing of Americas, if not everybody in the entire world.
 Just before Governor Kitzhaber resigned, he was about to implement the Oregon Healthcare system.
 What prevented Oregon Healthcare, at that time, from being implemented?
@@ -16,8 +15,7 @@ Why not tie these two fundamental issues together is a way that protects the Peo
 And as a side note, getting corruption out of healthcare and voting system will dramatically improve Fair Trade.
 The following is something that a genuine Representative of the People, instead of a representative of their Party, would push for.
 This outline can be used to show intent of what Healthcare / Voter registration law could be and how to accomplish the goal.
-What we need:
-We need a decentralized way of keeping records that is based on where your residence is located.
+What we need: We need a decentralized way of keeping records that is based on where your residence is located.
 There are currently 3144 counties in this Nation that are responsible for keeping track of voters and what they are to vote for or against.
 After all, who and what you are voting for or against is entirely based on location that your County is responsible for keeping track of.
 Side note: “Rank Choice Voting” was a desperate attempt to centralize vote counting to Salem Oregon.
@@ -95,91 +93,87 @@ Further.
 We need a system that will bring back a belief in government.
 A belief that your vote will actually count and will be actually counted.
 And a belief that your records will be secure between your Doctors and yourself.
-The following must be part of this plan:
-- A complete end to mail-in balloting.
-- Mail-out ballots is barely acceptable.
+The following must be part of this plan: A complete end to mail-in balloting.
+Mail-out ballots is barely acceptable.
 A substantial number of people say they liked the ability to fill out their ballots at home where they have the time to think and do not feel rushed to fill out the ballot at the Polling station.
-- One day only for voting.
-- The number of “What About this?” is incredible.
+One day only for voting.
+The number of “What About this?” is incredible.
 What about needing help?
 What about our trip to Disney Land?
 What about my Bursitis keeping me from tuning the steering wheel in my car?
 Ad Infinitum!
-- If for any reason you can’t be at the Polling Station on Voting day, then go to the County Seat and vote up to one week in advance.
-- Bring your ID.
-- You can be looked up without an ID by giving you address.
+If for any reason you can’t be at the Polling Station on Voting day, then go to the County Seat and vote up to one week in advance.
+Bring your ID.
+You can be looked up without an ID by giving you address.
 Some Healthcare providers may not even allow for that.
-- Your picture will come up on the screen and it had better match.
-- The same thing will happen at the Doctor’s office, however, your insurance info or any other pertinent information will show up.
+Your picture will come up on the screen and it had better match.
+The same thing will happen at the Doctor’s office, however, your insurance info or any other pertinent information will show up.
 Side Note: A person is far more likely to keep track of and take care of the healthcare information.
 There are a precious few people that vote less often the seeing a Doctor.
-- The Poll Worker will verify your lottery ticket attached to the ballot.
+The Poll Worker will verify your lottery ticket attached to the ballot.
 You then remove the ticket from the ballot and place the ballot into the ballot box.
-- Sign the log book of voters.
+Sign the log book of voters.
 There probably will not be a voter log book with everybody that lives in the precinct.
 That book could be huge.
 Your signature could be part of the section torn away with the lottery ticket and kept by the poll worker or your digital signature on the signature pad now used by everybody at your doctor’s office.
 Your signature will also be shown on the screen.
-- Counting will be done at the precinct.
-- Counting may start BEHIND CLOSED DOORS no earlier than 5:00 pm on Voting day.
-- Adjudication of any ballot will be done at the Precinct.
-- Any digital copies of ballots will be done at the precinct, not at the County.
-- Tallies certified at the precinct.
-- Any challenge to the tally must be done at the precinct.
-- Ballots sealed into their waterproof containers.
-- The Precinct shall phone in the results and provide a written tally as part of the chain of custody.
-- The local Police will be the one and ONLY people allowed to move the ballots from the precinct to the county Seat.
-- The County shall store the ballots for a minimum of two years.
-Each County will supply;
-- An area for the Server Unit to reside and be secure.
+Counting will be done at the precinct.
+Counting may start BEHIND CLOSED DOORS no earlier than 5:00 pm on Voting day.
+Adjudication of any ballot will be done at the Precinct.
+Any digital copies of ballots will be done at the precinct, not at the County.
+Tallies certified at the precinct.
+Any challenge to the tally must be done at the precinct.
+Ballots sealed into their waterproof containers.
+The Precinct shall phone in the results and provide a written tally as part of the chain of custody.
+The local Police will be the one and ONLY people allowed to move the ballots from the precinct to the county Seat.
+The County shall store the ballots for a minimum of two years.
+Each County will supply; An area for the Server Unit to reside and be secure.
 Each server unit would be hooked up the uninterruptable power similar to the power supplied to water pumping stations to make sure there is water to fight fires no matter what.
-- The Lottery scanners to activate the ballot for use.
+The Lottery scanners to activate the ballot for use.
 For the States that already have a Lottery, this will be easy.
 The lottery scanner is also used to scan the ID card of the voter.
-- A computer with the scanner that will bring in from the County Seat a copy of the voters picture that is to match the picture on the ID card.
+A computer with the scanner that will bring in from the County Seat a copy of the voters picture that is to match the picture on the ID card.
 Or at the very least, should the Voter not have his ID to streamline the process, a poll worker can enter the old or current address to have the same picture show up on the computer.
 The ID is actually at the County Seat and is brought up at the Poll.
-- A set of printers to print a ballot or a replacement ballot should it be damaged in some way.
-- Blank Ballots would be manufactured by the same people that manufacture the Lottery tickets.
+A set of printers to print a ballot or a replacement ballot should it be damaged in some way.
+Blank Ballots would be manufactured by the same people that manufacture the Lottery tickets.
 There would be some form a security printing and bar codes added to prevent photocopies from being made.
-- For the States that allow for mail-out ballots, the County would print and mail each ballot to each voter on record.
-- A secure ballot box.
-- A secure area for counting ballots at each precinct.
-- A secure and water proof box or lockable container to transport the counted ballots to the County seat for storage and recount if required.
+For the States that allow for mail-out ballots, the County would print and mail each ballot to each voter on record.
+A secure ballot box.
+A secure area for counting ballots at each precinct.
+A secure and water proof box or lockable container to transport the counted ballots to the County seat for storage and recount if required.
 Side Note: Some printers will only have water soluble ink.
 It the ballots got wet for some unknown or nefarious reason, they would be destroyed.
-- The chain of custody documents and official tally of the counted votes in the precincts.
-- Have the ability to update and print new photo IDs at the County Seat.
-Each State will supply:
-- The server units to the Counties.
-- Publish election results via the SOS.
-- Standards for the waterproof boxes or containers used to transport the ballots from the Polls to the County Seats.
-- Voter ID Stations at all DMV location that can generate a photo ID and issue the Voters Prime Number.
-Behind the scenes:
-- All photos shall use facial recognition to make sure that one person does not have more than one ID.
-- Two or more assigned registration numbers shall be Probable Cause for investigation.
-- Identical pictures shall be Probable Cause for investigation.
-- There is absolutely no question that some people will look alike.
-- Fraud within the Healthcare system costs everybody.
-- This system is NOT intended to keep track of Social Security.
-- The only interface to Social Security would be in the form of Death certificates.
+The chain of custody documents and official tally of the counted votes in the precincts.
+Have the ability to update and print new photo IDs at the County Seat.
+Each State will supply: The server units to the Counties.
+Publish election results via the SOS.
+Standards for the waterproof boxes or containers used to transport the ballots from the Polls to the County Seats.
+Voter ID Stations at all DMV location that can generate a photo ID and issue the Voters Prime Number.
+Behind the scenes: All photos shall use facial recognition to make sure that one person does not have more than one ID.
+Two or more assigned registration numbers shall be Probable Cause for investigation.
+Identical pictures shall be Probable Cause for investigation.
+There is absolutely no question that some people will look alike.
+Fraud within the Healthcare system costs everybody.
+This system is NOT intended to keep track of Social Security.
+The only interface to Social Security would be in the form of Death certificates.
 Keeping tabs on cause of death, filing certificates, and what happens after that are a functional part of the Healthcare side of this system.
 Side note: A good deal of fraud in the voter rolls was found by Election Integrity teams across America in that many dead voters were voting.
 The healthcare industry must file death certificates that would have notified the Counties to take these deceased voters off of the voter rolls.
-- Cheaters within he Social Security system would be easily flagged.
+Cheaters within he Social Security system would be easily flagged.
 The prime number given to you will never be used again.
 The Social security System could look up a deceased voter’s prime number and clearly see their death certificate.
-- This system is NOT intended for credit scores or any other banking.
-- The banking system will be used to handle data to and from the County Seats to either the Precincts of your Doctor’s office.
-- I am not touting Oracle for this task.
+This system is NOT intended for credit scores or any other banking.
+The banking system will be used to handle data to and from the County Seats to either the Precincts of your Doctor’s office.
+I am not touting Oracle for this task.
 There may be other financial software groups available for this.
 However, an up-front Specification must be done first, not as an on-going effort.
 Keep in mind the Oregon-Oracle debacle couldn’t even put together a standard set of information on how the screen on the computer was to look like.
-- A clear and concise table of security access must be in place as part of the Specification.
-Cost Estimate:
-My estimate on the cost to put this system in place would be about $12 to $15 Billion.
+A clear and concise table of security access must be in place as part of the Specification.
+Cost Estimate: My estimate on the cost to put this system in place would be about $12 to $15 Billion.
 Of course, each State will complain about having to purchase anything on behalf of or for the Federal government.
 Personal Side Note: We-The-People have a huge problem with truth in healthcare and Honest votingthat must be addressed.
 The sooner this effort starts the better.
 We are all seeing how the corrupt are using he Courts to slow, if not to stop any kind of progress that will take money out of their hands.
-“Corruption and power are supported by lies and confusion”
+“Corruption and power are supported by lies and confusion” Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign Discover more from Bob Niemeyer Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading

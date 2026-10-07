@@ -1,8 +1,26 @@
 [
-"https://phillipbowers.com/",
-"https://phillipbowers.com/about-phillip",
-"https://phillipbowers.com/beliefs",
-"https://phillipbowers.com/cart",
-"https://phillipbowers.com/contact",
-"https://secure.anedot.com/phillip-bowers-s-c-state-house-district-3/donate"
+{
+"text": "0",
+"href": "https://www.phillipbowers.com/cart"
+},
+{
+"text": "About Phillip",
+"href": "https://www.phillipbowers.com/about-phillip"
+},
+{
+"text": "Beliefs",
+"href": "https://www.phillipbowers.com/beliefs"
+},
+{
+"text": "Contact",
+"href": "https://www.phillipbowers.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/phillip-bowers-s-c-state-house-district-3/donate"
+},
+{
+"text": "[image: Phillip Bowers for State House]",
+"href": "https://www.phillipbowers.com/"
+}
 ]

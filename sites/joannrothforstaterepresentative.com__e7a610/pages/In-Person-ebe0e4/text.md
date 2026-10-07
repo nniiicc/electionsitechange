@@ -1,4 +1,4 @@
-Harbor Freight awards $2 million in cash prizes for 25 high school skilled trades teachers every year.
+About Jo Ann Issues In Person On Video Donate In Person - Events Harbor Freight awards $2 million in cash prizes for 25 high school skilled trades teachers every year.
 The prizes are designed to shine a light on excellent skilled trades education and build a network of exceptional trades teachers.
 I was asked to be part of a believable cover story so that Adam Hewson would think the high school assembly was for a civic event and be surprised when the $75,000 grant prize was announced.
 Along with the two legislators from the area, I sent Kent in my place due to a scheduling conflict.
@@ -12,7 +12,8 @@ She and Kent worked as volunteers in the Kansas Democratic Party booth from 1 PM
 Ellinwood High School Class of 1968 star quarterback, John Meyer, stopped by the booth to say hello.
 John lives in South Hutchinson and still plays rock and roll music from time to time.
 Overall, the attitude of the public was much more positive towards the prospects of the Kansas Democratic Party then past election cycles.
-I attended the 52nd annual meeting of the Upper Little Arkansas River Watershed Joint District No. 95.
+I attended the 52nd annual meeting of the Upper Little Arkansas River Watershed Joint District No.
+95.
 This governmental unit is authorized to levy up to four (4) mills, and currently only collects one mill as the district has conducted business in a financially responsible manner.
 Last year, the interest on ending balances exceeded tax revenue.
 The district maintains 11 Dam Sites and is working on constructing a few more.
@@ -69,7 +70,7 @@ Children enjoyed the inflatable jumping houses and the rock climb.
 My favorite to watch was the face painting.
 Attended the Stafford County Fair Farm Bureau Family & Friends Night.
 Top three finishers in each age group in the tractor pull qualify to participate at the State Fair tractor pull.
-Hoisington Public Library hosted “William Allen White and the KKK in Kansas“ this Saturday.
+Hoisington Public Library hosted “ William Allen White and the KKK in Kansas “ this Saturday.
 A good turnout of 21 people heard the presentation on the late Emporia Gazette Editor deciding to run for Governor in 1924 for a principle.
 “All men are created equal” was his guiding light as he opposed the Klan being allowed to operate in the State of Kansas.
 While his campaign was not successful, shortly thereafter, the State of Kansas did ban the Ku Klux Klan as a hate group, the first State to do so.
@@ -92,12 +93,7 @@ The festival spans two days and features nearly 40 different family oriented act
 The grand finale, a community barbecue followed by a fireworks extravaganza over Sterling Lake.
 I am eager to meet or reconnect with you, the citizens of the 113th.
 Please look for me at upcoming events.
-Follow me on Facebook for More Events and Up-To-Date News
-I so much enjoyed seeing friends and meeting folks at these most recent outings:
-The Rush County Fair, the Pawnee County Fair, the 51st After Harvest Parade in Ellinwood, the Barton Co Farm Bureau Annual meeting, and more
-American Legion in Ellinwood
-Excitement, great food, and many conversations at the Fair.
-Free watermelon was a treat.
-(more on Facebook)
-Attended Pawnee Rock Gazebo/Pavillion event.
-The Pawnee Rock community has rallied to share their heritage (more on Facebook)
+Follow me on Facebook for More Events and Up-To-Date News I so much enjoyed seeing friends and meeting folks at these most recent outings: Around the District Seeing People The Rush County Fair, the Pawnee County Fair, the 51st After Harvest Parade in Ellinwood, the Barton Co Farm Bureau Annual meeting, and more Show and Shine Car Show American Legion in Ellinwood Sterling Old-Fashioned Fourth of July Parade Barton County Fair Excitement, great food, and many conversations at the Fair.
+Free watermelon was a treat. (more on Facebook) Pawnee Rock Gazebo Dedication Attended Pawnee Rock Gazebo/Pavillion event.
+The Pawnee Rock community has rallied to share their heritage (more on Facebook) © # joannrothforstaterepresentative.com Follow us on Facebook and Donate Using ActBlue Contact JoAnn at (620) 282-4054 or by email joannroth@embarqmail.com © # Paid for by Jo Ann Roth for State Representative, Kent Roth, Treasurer.
+10 North Main, Ellinwood KS 67526 joannrothforstaterepresentative.com

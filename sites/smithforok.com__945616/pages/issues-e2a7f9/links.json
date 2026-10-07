@@ -1,11 +1,50 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61575411067435",
-"https://goodchange.app/donate/ashty82",
-"https://instagram.com/smithforok",
-"https://smithforok.com/",
-"https://smithforok.com/about",
-"https://smithforok.com/contact",
-"https://smithforok.com/our-district",
-"https://smithforok.com/volunteer"
+{
+"text": "About",
+"href": "https://www.smithforok.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.smithforok.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://goodchange.app/donate/ashty82"
+},
+{
+"text": "Home",
+"href": "https://www.smithforok.com/"
+},
+{
+"text": "Our District",
+"href": "https://www.smithforok.com/our-district"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.smithforok.com/volunteer"
+},
+{
+"text": "[image: Ashtyn Smith for House logo]",
+"href": "https://www.smithforok.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.smithforok.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61575411067435"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/smithforok/"
+},
+{
+"text": "smithforokhouse96@gmail.com",
+"href": "mailto:ashtynsmithforoklahomahouse96@gmail.com"
+}
 ]

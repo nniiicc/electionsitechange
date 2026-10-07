@@ -1,8 +1,26 @@
 [
-"https://andreabondjohnsontn.com/",
-"https://designedtorun.com/",
-"https://facebook.com/bondjohnsontn",
-"https://instagram.com/andreabondjohnson",
-"https://secure.actblue.com/donate/abj2025",
-"https://x.com/bondjohnsontn"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/abj2025"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Andrea Bond Johnson for Tennessee House District 80 | Proven, Principled, Ready]",
+"href": "https://www.andreabondjohnsontn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/bondjohnsontn"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/andreabondjohnson/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/bondjohnsontn"
+}
 ]

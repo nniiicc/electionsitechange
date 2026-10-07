@@ -1,7 +1,11 @@
 {
  "description": "Explore upcoming events, including community barbecues and veterans events with Christopher Mitchell. Join us for meaningful gatherings!",
  "final_url": "https://patriotcowboyrevolution.com/events-1",
+ "fingerprint": "f117b4aa8e5ffcc51a0d919bb5b7db946f474b45",
+ "format": 3,
  "paid_for_by": "Paid for by Patriot Cowboy Revolution - All Rights Reserved",
  "title": "Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

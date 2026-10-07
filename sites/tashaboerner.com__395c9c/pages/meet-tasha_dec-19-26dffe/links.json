@@ -1,18 +1,86 @@
 [
-"http://bit.ly/teamtasha-dec19",
-"http://eepurl.com/c8gBO9",
-"http://google.com/calendar/event?action=TEMPLATE&text=Fundraiser+hosted+by+Assemblymember+Todd+Gloria+and+San+Diego+City+Attorney+Mara+Elliott&dates=20171220T020000Z%2F20171220T040000Z",
-"http://instagram.com/tashaboerner",
-"https://efundraisingconnections.com/c/TashaBoernerforAssembly2026",
-"https://facebook.com/Tasha4Assembly",
-"https://flickr.com/photos/derekhumphrey/albums/72177720312376632",
-"https://secure.anedot.com/tashaboernerhorvath2018/toddanmarafortasha",
-"https://tashaboerner.com/",
-"https://tashaboerner.com/about-tasha",
-"https://tashaboerner.com/issues",
-"https://tashaboerner.com/meet-tasha",
-"https://tashaboerner.com/meet-tasha/dec-19?format=ical",
-"https://tashaboerner.com/meet-tasha/dec18",
-"https://tashaboerner.com/meet-tasha/dec23",
-"https://tashaboerner.com/yourpriorities"
+{
+"text": "About",
+"href": "https://tashaboerner.com/about-tasha"
+},
+{
+"text": "Back to All Events",
+"href": "https://tashaboerner.com/meet-tasha"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/tashaboernerhorvath2018/toddanmarafortasha"
+},
+{
+"text": "Contribute",
+"href": "https://www.efundraisingconnections.com/c/TashaBoernerforAssembly2026/"
+},
+{
+"text": "Fundraiser hosted by Brett Farrow and John Resnick",
+"href": "https://tashaboerner.com/meet-tasha/dec18"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fundraiser+hosted+by+Assemblymember+Todd+Gloria+and+San+Diego+City+Attorney+Mara+Elliott&dates=20171220T020000Z%2F20171220T040000Z"
+},
+{
+"text": "Home",
+"href": "https://tashaboerner.com/"
+},
+{
+"text": "ICS",
+"href": "https://tashaboerner.com/meet-tasha/dec-19?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://tashaboerner.com/issues"
+},
+{
+"text": "Meet Tasha",
+"href": "https://tashaboerner.com/meet-tasha"
+},
+{
+"text": "Newsletter sign-up",
+"href": "http://eepurl.com/c8gBO9"
+},
+{
+"text": "PHOTOS",
+"href": "https://www.flickr.com/photos/derekhumphrey/albums/72177720312376632/"
+},
+{
+"text": "Sunset, Sips and State Assembly Fundraiser hosted by Carris Rhodes, Josh Sherman and Friends",
+"href": "https://tashaboerner.com/meet-tasha/dec23"
+},
+{
+"text": "Your priorities",
+"href": "https://tashaboerner.com/yourpriorities"
+},
+{
+"text": "[image: Tasha Boerner for Assembly 2024]",
+"href": "https://tashaboerner.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/tashaboerner"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Tasha4Assembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/derekhumphrey/albums/72177720312376632"
+},
+{
+"text": "[no text]",
+"href": "mailto:tasha@tasha4assembly.com"
+},
+{
+"text": "bit.ly/teamtasha-dec19",
+"href": "http://bit.ly/teamtasha-dec19"
+},
+{
+"text": "tasha@tashaboerner.com",
+"href": "mailto:tasha@tashaboerner.com"
+}
 ]

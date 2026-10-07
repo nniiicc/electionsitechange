@@ -1,4 +1,4 @@
-What’s Homegrown Leadership About?
+Site Logo Priorities Volunteer Yard Signs Open menu Contact The Campaign What’s Homegrown Leadership About?
 Many of you have seen my campaign signs around town that say “homegrown leadership” and wondered what that means.
 Growing up in both East Hampton and East Haddam has given me perspectives others simply don’t have.
 My baby clothes hung on the line next to the Moodus Reservoir.
@@ -24,3 +24,6 @@ That is not entirely her fault; she only recently moved into the district and do
 I am running again to make government work for you, not the other way around.
 I bring real roots and real results from two decades of community advocacy and volunteerism.
 I ask for your vote—not simply as a candidate, but as a neighbor who understands what makes our towns worth protecting with the experienced leadership you deserve.
+Around Town Town of East Haddam Town of East Hampton Town of Salem Election Information Check Your Voter Registration Register to Vote Absentee Ballots PAID FOR BY MZ 2026.
+APPROVED BY MELISSA ZIOBRON.
+East Haddam | East Hampton | Salem

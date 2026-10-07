@@ -1,14 +1,58 @@
 [
-"http://twitter.com/grothmanforwi",
-"https://facebook.com/glenngrothman",
-"https://flickr.com/photos/159992070@N04",
-"https://glenngrothman.com/",
-"https://glenngrothman.com/donate",
-"https://glenngrothman.com/get-involved",
-"https://glenngrothman.com/meet-glenn",
-"https://glenngrothman.com/privacy-policy",
-"https://instagram.com/grothmanforcongress",
-"https://secure.winred.com/glenngrothman/donate",
-"https://secure.winred.com/glenngrothman/storefront",
-"https://youtube.com/user/glenngrothman"
+{
+"text": "District Map",
+"href": "https://glenngrothman.com/#map"
+},
+{
+"text": "Donate",
+"href": "https://glenngrothman.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/glenngrothman/donate"
+},
+{
+"text": "GLENN@GLENNGROTHMAN.COM",
+"href": "mailto: GLENN@GLENNGROTHMAN.COM"
+},
+{
+"text": "Get Involved",
+"href": "https://glenngrothman.com/get-involved"
+},
+{
+"text": "Meet Glenn",
+"href": "https://glenngrothman.com/meet-glenn"
+},
+{
+"text": "Privacy Policy",
+"href": "https://glenngrothman.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/glenngrothman/storefront/"
+},
+{
+"text": "[image]",
+"href": "https://glenngrothman.com/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/grothmanforwi%20"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/glenngrothman%20"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/159992070@N04%20"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/grothmanforcongress%20"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/user/glenngrothman%20"
+}
 ]

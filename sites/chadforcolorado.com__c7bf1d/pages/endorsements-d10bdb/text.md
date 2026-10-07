@@ -1,18 +1,3 @@
-top of page
-ENDORSEMENTS
-David Ortiz
-State Representative
-Bill Holen
-Arapahoe County Commissioner
-Melissa Garland
-Arapahoe Democrats Chair
-Chris deGruy Kennedy
-State Representative
-Ashish Vaidya
-Past Fellow HD37 Candidate
-Terrance Carrol
-Former CO Speaker of the House
-Murphy Robinson
-Former Deputy Mayor of Denver
-If your name is missing from this list and you would like to endorse, please let us know!
-bottom of page
+top of page Meet Chad Team Endorsements Priorities Creating Leaders PAC Newsletters Subscribe District 37 Contact Get Involved Events Donate ENDORSEMENTS Jason Crow United States Representative David Ortiz State Representative Carrie Warren-Gully Arapahoe County Commissioner Tyler Brown Arapahoe County Sheriff Bill Holen Arapahoe County Commissioner Michael Bennet U.S.
+Senator Dave Young Colorado State Treasurer Rebecca McClellan State Board of Education Chair Phil Weiser Colorado Attorney General Julie McCluskie Speaker of the House Christine Sweetland Centennial Council Member Amy Tharp Centennial City Council Member Marlo Alston Centennial City Council Member Monica Duran House Majority Leader Jeff Bridges State Senator Tom Sullivan State Senator Amy Padden Arapahoe County DA Candidate Meg Froelich State Representative Eliza Hamrick State Representative Iman Jodeh State Representative Mike Weissman State Representative Chris Kolker State Senator Melissa Garland Arapahoe Democrats Chair Tony Exum State Senator Mandy Lindsay State Representative Chris deGruy Kennedy State Representative Brianna Titone State Representative Matthew Martinez State Representative Jennifer Bacon Assistant Majority Leader Tisha Mauro State Representative Rhonda Fields State Senator Julie Gonzales State Senator Ashish Vaidya Past Fellow HD37 Candidate Sonya Jaquez Lewis State Senator William Lindstedt State Representative Naquetta Ricks State Representative Julia Marvin State Representative Meghan Lukens State Representative Javier Mabrey State Representative Cathy Kipp State Representative Judy Amabile State Representative Stephanie Vigil State Representative Dafna Michaelson Jenet State SenatorState Senator Terrance Carrol Former CO Speaker of the House Barbara McLachlan State Representative Mary Young State Representative Manny Rutinel State Representative Lindsey Daugherty State Representative Tammy Story State Representative Kyle Brown State Representative Janet Buckner State Senator Rachel Zenzinger State Senator Joan Anderssen LPS Board Assistant Secretary James Coleman Senate President Pro Tempore Nick Hinrichsen State Senator Karen McCormick State Representative Leslie Herod State Representative Cliff Heller HD37 Chair PK Kaiser Arapahoe County Assessor Sheila Lieder State Representative Emily Sirota State Representative Jenny Willford State Representative Elizabeth Velasco State Representative Andrew Boesenecker State Representative Murphy Robinson Former Deputy Mayor of Denver Valdan Vandemark ADT Security Guy (& Hubby) Gretchen Rydin Littleton City Council Member Jessie Danielson Colorado State Senator If your name is missing from this list and you would like to endorse, please let us know!
+DONATE C H A D C L I F F O R D - State Representative- C H A D C L I F F O R D - State Representative- © # Paid for by Chad for Colorado, Registered Agent Chad Clifford bottom of page

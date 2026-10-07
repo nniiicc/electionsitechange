@@ -1,20 +1,6 @@
-609-969-0959
-jerseyjustin4senate@gmail.com
-www.jerseyjustin4senate.org
-@JerseyJustinUSA
-@justsenate
-@JustinMurphy4Senate
-@JerseyJustin
-Justin Murphy for US Senate
-Contributions by check are made out to: The Committee to Elect Justin Murphy
-20 WORRELL ROAD, TABERNACLE, NEW JERSEY 08088
-INFO
-Paid for by The Committee to
-Elect Justin Murphy
-Cynthia Gallenthin – Treasurer
-20 WORRELL ROAD TABERNACLE,
-NJ 08088
-ABOUT
-© Jersey Justin for Senate.
+Icon-email Instagram Icon-youtube-v Icon-facebook Issue energy Issue China Issue immigration Issue drugs Events Issue energy Issue China Issue immigration Issue drugs Events VIDEO ISSUES Issue energy Issue China Issue immigration Issue drugs Events Issue energy Issue China Issue immigration Issue drugs Events VIDEO ISSUES Icon-email Instagram Icon-youtube-v Icon-facebook Follow Justin Murphy's campaign Help spread our message – Murphy for U.S .
+Senate 2026 Call / Text 609-969-0959 E-mail jerseyjustin4senate@gmail.com Website www.jerseyjustin4senate.org X @JerseyJustinUSA Instagram @justsenate Youtube @JustinMurphy4Senate Truth Social @JerseyJustin Facebook Justin Murphy for US Senate MAKE A CONTRIBUTION TODAY Contributions by check are made out to: The Committee to Elect Justin Murphy 20 WORRELL ROAD, TABERNACLE, NEW JERSEY 08088 Donate MAKE A CONTRIBUTION TODAY Contributions by check are made out to: The Committee to Elect Justin Murphy 20 WORRELL ROAD, TABERNACLE, NEW JERSEY 08088 Donate CONTACT 609 969 0959 jerseyjustin4senate@gmail.com Instagram Icon-youtube-v Icon-facebook INFO Paid for by The Committee to Elect Justin Murphy Cynthia Gallenthin – Treasurer 20 WORRELL ROAD TABERNACLE, NJ 08088 ABOUT Video Issues Events Donations CONTACT 609 969 0959 jerseyjustin4senate@gmail.com Instagram Icon-youtube-v Icon-facebook INFO Paid for by The Committee to Elect Justin Murphy Cynthia Gallenthin – Treasurer 20 WORRELL ROAD TABERNACLE, NJ 08088 ABOUT Video Issues Events Donations © Jersey Justin for Senate.
 All Rights Reserved.
-Web: IGV Web Design
+Web: IGV Web Design © Jersey Justin for Senate.
+All Rights Reserved.
+Web: IGV Web Design privacy policy

@@ -1,24 +1,110 @@
 [
-"https://app.leg.wa.gov/ReportsToTheLegislature/Home/GetPDF?fileName=Washington+State+Electric+Utility+Resource+Planning+2024+Report_FINAL_2be3ab47-13c7-45fc-a113-808ee29dbc69.pdf",
-"https://app.leg.wa.gov/billsummary?BillNumber=2515&Year=2025&Initiative=false",
-"https://cms2.revize.com/revize/masonwa/Documents/Departments/Community%20Development/Planning/Comprehensive%20Plan%20Update/Meeting%20Information/04142025-mtg-packet.pdf",
-"https://electjimpierson.com/",
-"https://electjimpierson.com/about",
-"https://electjimpierson.com/blog",
-"https://electjimpierson.com/calendar",
-"https://electjimpierson.com/endorsements",
-"https://electjimpierson.com/feedback",
-"https://electjimpierson.com/newsletters",
-"https://electjimpierson.com/platform",
-"https://electjimpierson.com/post/more-seniors-qualify-for-property-tax-relief",
-"https://electjimpierson.com/post/private-interests-public-office",
-"https://electjimpierson.com/post/raid-on-the-police-and-fire-pensions",
-"https://electjimpierson.com/volunteer",
-"https://en.wikipedia.org/wiki/Priest_Rapids_Dam",
-"https://facebook.com/reel/1273823914612572",
-"https://grantpud.org/generation",
-"https://gridinfo.com/plant/lilliwaup-falls-generating/50700",
-"https://hydroreform.org/hydro-project/wanapum-p-2114",
-"https://pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/93627?contributor_name=sabey",
-"https://secure.actblue.com/donate/jim-pierson-1"
+{
+"text": "About",
+"href": "https://www.electjimpierson.com/about"
+},
+{
+"text": "All Posts",
+"href": "https://www.electjimpierson.com/blog"
+},
+{
+"text": "Blog",
+"href": "https://www.electjimpierson.com/blog"
+},
+{
+"text": "Calendar",
+"href": "https://www.electjimpierson.com/calendar"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jim-pierson-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electjimpierson.com/endorsements"
+},
+{
+"text": "HB 2515",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2515&Year=2025&Initiative=false"
+},
+{
+"text": "Home",
+"href": "https://www.electjimpierson.com"
+},
+{
+"text": "More Seniors Qualify for Property Tax Relief.",
+"href": "https://www.electjimpierson.com/post/more-seniors-qualify-for-property-tax-relief"
+},
+{
+"text": "Newsletters",
+"href": "https://www.electjimpierson.com/newsletters"
+},
+{
+"text": "Platform",
+"href": "https://www.electjimpierson.com/platform"
+},
+{
+"text": "Priest Rapids Dam",
+"href": "https://en.wikipedia.org/wiki/Priest_Rapids_Dam"
+},
+{
+"text": "Private Interests, Public Office",
+"href": "https://www.electjimpierson.com/post/private-interests-public-office"
+},
+{
+"text": "Raid on the Police and Fire Pensions?",
+"href": "https://www.electjimpierson.com/post/raid-on-the-police-and-fire-pensions"
+},
+{
+"text": "See All",
+"href": "https://www.electjimpierson.com/blog"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electjimpierson.com/volunteer"
+},
+{
+"text": "Voter Feedback",
+"href": "https://www.electjimpierson.com/feedback"
+},
+{
+"text": "WA State Electric Utility Resource Planning 2024",
+"href": "https://app.leg.wa.gov/ReportsToTheLegislature/Home/GetPDF?fileName=Washington+State+Electric+Utility+Resource+Planning+2024+Report_FINAL_2be3ab47-13c7-45fc-a113-808ee29dbc69.pdf"
+},
+{
+"text": "Wanapum Dam",
+"href": "https://hydroreform.org/hydro-project/wanapum-p-2114"
+},
+{
+"text": "[image: More Seniors Qualify for Property Tax Relief.]",
+"href": "https://www.electjimpierson.com/post/more-seniors-qualify-for-property-tax-relief"
+},
+{
+"text": "[image: Private Interests, Public Office]",
+"href": "https://www.electjimpierson.com/post/private-interests-public-office"
+},
+{
+"text": "[image: Raid on the Police and Fire Pensions?]",
+"href": "https://www.electjimpierson.com/post/raid-on-the-police-and-fire-pensions"
+},
+{
+"text": "https://www.facebook.com/reel/1273823914612572",
+"href": "https://www.facebook.com/reel/1273823914612572"
+},
+{
+"text": "https://www.grantpud.org/generation",
+"href": "https://www.grantpud.org/generation"
+},
+{
+"text": "lilliwaup-falls",
+"href": "https://www.gridinfo.com/plant/lilliwaup-falls-generating/50700"
+},
+{
+"text": "pdf",
+"href": "https://cms2.revize.com/revize/masonwa/Documents/Departments/Community%20Development/Planning/Comprehensive%20Plan%20Update/Meeting%20Information/04142025-mtg-packet.pdf"
+},
+{
+"text": "political-disclosure-reporting-data",
+"href": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/93627?contributor_name=sabey#contributions"
+}
 ]

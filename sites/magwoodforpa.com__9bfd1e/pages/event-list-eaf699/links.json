@@ -1,25 +1,142 @@
 [
-"http://facebook.com/magwoodforpa",
-"https://instagram.com/magwoodforpa",
-"https://magwoodforpa.com/",
-"https://magwoodforpa.com/about",
-"https://magwoodforpa.com/contact",
-"https://magwoodforpa.com/endorsements",
-"https://magwoodforpa.com/event-details/canvass-every-sunday-2026-10-11-13-00",
-"https://magwoodforpa.com/event-details/davon-kiski-valley-democrats-2026-04-15-18-00",
-"https://magwoodforpa.com/event-details/davon-meet-and-greet-with-lt-gov-austin-davis",
-"https://magwoodforpa.com/event-details/meet-n-greet-steel-cup-coffee-roasters",
-"https://magwoodforpa.com/event-details/mix-mingle",
-"https://magwoodforpa.com/event-details/new-ken-meet-n-greet",
-"https://magwoodforpa.com/event-details/postcard-writing-party",
-"https://magwoodforpa.com/event-details/six-seven-day",
-"https://magwoodforpa.com/event-details/voter-information",
-"https://magwoodforpa.com/event-details/weekend-of-action",
-"https://magwoodforpa.com/event-details/westmoreland-county-democratic-party-2026-endorsement-convention",
-"https://magwoodforpa.com/event-list",
-"https://magwoodforpa.com/get-involved",
-"https://magwoodforpa.com/issues",
-"https://magwoodforpa.com/vote",
-"https://secure.actblue.com/donate/davon-magwood-1",
-"https://tiktok.com/@nightvon1"
+{
+"text": "ABOUT",
+"href": "https://www.magwoodforpa.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.magwoodforpa.com/contact"
+},
+{
+"text": "Canvass Every Sunday",
+"href": "https://www.magwoodforpa.com/event-details/canvass-every-sunday-2026-10-11-13-00"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/davon-magwood-1"
+},
+{
+"text": "Davon @ Kiski Valley Democrats",
+"href": "https://www.magwoodforpa.com/event-details/davon-kiski-valley-democrats-2026-04-15-18-00"
+},
+{
+"text": "Davon @ Meet and Greet with Lt. Gov. Austin Davis",
+"href": "https://www.magwoodforpa.com/event-details/davon-meet-and-greet-with-lt-gov-austin-davis"
+},
+{
+"text": "Details",
+"href": "https://www.magwoodforpa.com/event-details/davon-kiski-valley-democrats-2026-04-15-18-00"
+},
+{
+"text": "Details",
+"href": "https://www.magwoodforpa.com/event-details/davon-meet-and-greet-with-lt-gov-austin-davis"
+},
+{
+"text": "Details",
+"href": "https://www.magwoodforpa.com/event-details/meet-n-greet-steel-cup-coffee-roasters"
+},
+{
+"text": "Details",
+"href": "https://www.magwoodforpa.com/event-details/mix-mingle"
+},
+{
+"text": "Details",
+"href": "https://www.magwoodforpa.com/event-details/new-ken-meet-n-greet"
+},
+{
+"text": "Details",
+"href": "https://www.magwoodforpa.com/event-details/postcard-writing-party"
+},
+{
+"text": "Details",
+"href": "https://www.magwoodforpa.com/event-details/six-seven-day"
+},
+{
+"text": "Details",
+"href": "https://www.magwoodforpa.com/event-details/voter-information"
+},
+{
+"text": "Details",
+"href": "https://www.magwoodforpa.com/event-details/weekend-of-action"
+},
+{
+"text": "Details",
+"href": "https://www.magwoodforpa.com/event-details/westmoreland-county-democratic-party-2026-endorsement-convention"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.magwoodforpa.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.magwoodforpa.com/event-list"
+},
+{
+"text": "HOME",
+"href": "https://www.magwoodforpa.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.magwoodforpa.com/issues"
+},
+{
+"text": "Meet 'N Greet: Steel Cup Coffee Roasters",
+"href": "https://www.magwoodforpa.com/event-details/meet-n-greet-steel-cup-coffee-roasters"
+},
+{
+"text": "Mix & Mingle",
+"href": "https://www.magwoodforpa.com/event-details/mix-mingle"
+},
+{
+"text": "New Ken Meet 'n Greet",
+"href": "https://www.magwoodforpa.com/event-details/new-ken-meet-n-greet"
+},
+{
+"text": "Postcard Writing Party",
+"href": "https://www.magwoodforpa.com/event-details/postcard-writing-party"
+},
+{
+"text": "RSVP",
+"href": "https://www.magwoodforpa.com/event-details/canvass-every-sunday-2026-10-11-13-00"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.magwoodforpa.com/contact"
+},
+{
+"text": "Six Seven Day",
+"href": "https://www.magwoodforpa.com/event-details/six-seven-day"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.magwoodforpa.com/get-involved"
+},
+{
+"text": "VOTE",
+"href": "https://www.magwoodforpa.com/vote"
+},
+{
+"text": "VOTER INFORMATION",
+"href": "https://www.magwoodforpa.com/event-details/voter-information"
+},
+{
+"text": "Weekend of Action",
+"href": "https://www.magwoodforpa.com/event-details/weekend-of-action"
+},
+{
+"text": "Westmoreland County Democratic Party 2026 Endorsement Convention",
+"href": "https://www.magwoodforpa.com/event-details/westmoreland-county-democratic-party-2026-endorsement-convention"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/magwoodforpa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/magwoodforpa"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@nightvon1"
+}
 ]

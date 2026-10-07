@@ -1,17 +1,62 @@
 [
-"https://facebook.com/LynnEvansforIowa",
-"https://instagram.com/lynnevans8188",
-"https://lynnevansforiowa.com/contact",
-"https://lynnevansforiowa.com/contribute",
-"https://lynnevansforiowa.com/endorsements",
-"https://lynnevansforiowa.com/get-a-yard-sign",
-"https://lynnevansforiowa.com/home",
-"https://lynnevansforiowa.com/issues",
-"https://lynnevansforiowa.com/meet-lynn",
-"https://lynnevansforiowa.com/press-kit",
-"https://lynnevansforiowa.com/privacy-policy",
-"https://lynnevansforiowa.com/terms-and-conditions",
-"https://lynnevansforiowa.com/upcoming-events",
-"https://lynnevansforiowa.com/volunteer",
-"https://x.com/klynnevans"
+{
+"text": "CONTACT",
+"href": "https://lynnevansforiowa.com/contact"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://lynnevansforiowa.com/contribute"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://lynnevansforiowa.com/endorsements"
+},
+{
+"text": "GET A YARD SIGN",
+"href": "https://lynnevansforiowa.com/get-a-yard-sign"
+},
+{
+"text": "HOME",
+"href": "https://lynnevansforiowa.com/home"
+},
+{
+"text": "ISSUES",
+"href": "https://lynnevansforiowa.com/issues"
+},
+{
+"text": "MEET LYNN",
+"href": "https://lynnevansforiowa.com/meet-lynn"
+},
+{
+"text": "PRESS KIT",
+"href": "https://lynnevansforiowa.com/press-kit"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://lynnevansforiowa.com/privacy-policy"
+},
+{
+"text": "TERMS AND CONDITIONS",
+"href": "https://lynnevansforiowa.com/terms-and-conditions"
+},
+{
+"text": "UPCOMING EVENTS",
+"href": "https://lynnevansforiowa.com/upcoming-events"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://lynnevansforiowa.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LynnEvansforIowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lynnevans8188/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/klynnevans"
+}
 ]

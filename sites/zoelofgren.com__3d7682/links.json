@@ -1,23 +1,102 @@
 [
-"https://cadem.org/yes-on-proposition-50-faq",
-"https://cruzdemocrats.org/events",
-"https://districtsinplay.dccc.org/",
-"https://facebook.com/zoelofgrenforcongress",
-"https://frontline.dccc.org/",
-"https://montereycountydems.org/take-action",
-"https://sanbenitodemocrats.org/volunteer",
-"https://sccdp.org/index.php/get-involved",
-"https://x.com/ZoeLofgren",
-"https://zoelofgren.com/",
-"https://zoelofgren.com/donate",
-"https://zoelofgren.com/donate?amount=10&express_lane=true",
-"https://zoelofgren.com/donate?amount=100&express_lane=true",
-"https://zoelofgren.com/donate?amount=25&express_lane=true",
-"https://zoelofgren.com/donate?amount=5&express_lane=true",
-"https://zoelofgren.com/donate?amount=50&express_lane=true",
-"https://zoelofgren.com/get-involved",
-"https://zoelofgren.com/issues",
-"https://zoelofgren.com/join",
-"https://zoelofgren.com/meet-zoe",
-"https://zoelofgren.com/privacy-policy"
+{
+"text": "$#",
+"href": "https://www.zoelofgren.com/donate?amount=10&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://www.zoelofgren.com/donate?amount=100&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://www.zoelofgren.com/donate?amount=25&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://www.zoelofgren.com/donate?amount=5&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://www.zoelofgren.com/donate?amount=50&express_lane=true"
+},
+{
+"text": "CA Redistricting",
+"href": "https://cadem.org/yes-on-proposition-50-faq/"
+},
+{
+"text": "Contribute Now",
+"href": "https://www.zoelofgren.com/donate"
+},
+{
+"text": "Frontline Candidates",
+"href": "https://frontline.dccc.org"
+},
+{
+"text": "Get Involved",
+"href": "https://www.zoelofgren.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.zoelofgren.com/issues"
+},
+{
+"text": "Join Friends, neighbors, and family for Congresswoman Zoe Lofgren's Annual BBQ Oct 25th from 1pm-3pm!",
+"href": "https://www.zoelofgren.com/donate"
+},
+{
+"text": "Join the Campaign",
+"href": "https://www.zoelofgren.com/join"
+},
+{
+"text": "Latest News",
+"href": "https://www.zoelofgren.com/"
+},
+{
+"text": "Meet Zoe",
+"href": "https://www.zoelofgren.com/meet-zoe"
+},
+{
+"text": "Meet Zoe Lofgren",
+"href": "https://www.zoelofgren.com/meet-zoe"
+},
+{
+"text": "Monterey County Democratic Party",
+"href": "https://montereycountydems.org/take-action/"
+},
+{
+"text": "Other",
+"href": "https://www.zoelofgren.com/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.zoelofgren.com/privacy-policy"
+},
+{
+"text": "Red2Blue Candidates",
+"href": "https://districtsinplay.dccc.org"
+},
+{
+"text": "San Benito Democratic Party",
+"href": "https://sanbenitodemocrats.org/volunteer/"
+},
+{
+"text": "Santa Clara County Democratic Party",
+"href": "https://sccdp.org/index.php/get-involved"
+},
+{
+"text": "Santa Cruz Democratic Party",
+"href": "https://www.cruzdemocrats.org/events"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/zoelofgrenforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.zoelofgren.com/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ZoeLofgren"
+}
 ]

@@ -1,15 +1,78 @@
 [
-"http://linkedin.com/in/kelabe-tewolde-7423a8ba",
-"https://bsky.app/profile/kelabe.bsky.social",
-"https://instagram.com/kelabe.tewolde?igsh=MXdoOHo2ZWVyb204bw%3D%3D",
-"https://kelabeforwashington.com/",
-"https://kelabeforwashington.com/about",
-"https://kelabeforwashington.com/cart",
-"https://kelabeforwashington.com/contact-us",
-"https://kelabeforwashington.com/endorsements",
-"https://kelabeforwashington.com/events",
-"https://kelabeforwashington.com/priorities-1",
-"https://kelabeforwashington.com/take-action",
-"https://secure.anedot.com/kelabetewolde/ws-kelabe",
-"https://youtube.com/@KelabeforWashington"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/kelabetewolde/ws-kelabe"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/kelabetewolde/ws-kelabe"
+},
+{
+"text": "$37",
+"href": "https://secure.anedot.com/kelabetewolde/ws-kelabe"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/kelabetewolde/ws-kelabe"
+},
+{
+"text": "0",
+"href": "https://www.kelabeforwashington.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.kelabeforwashington.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://www.kelabeforwashington.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/kelabetewolde/ws-kelabe"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kelabeforwashington.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.kelabeforwashington.com/events"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/kelabetewolde/ws-kelabe"
+},
+{
+"text": "Priorities",
+"href": "https://www.kelabeforwashington.com/priorities-1"
+},
+{
+"text": "Take Action",
+"href": "https://www.kelabeforwashington.com/take-action"
+},
+{
+"text": "[image: Home]",
+"href": "https://www.kelabeforwashington.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/in/kelabe-tewolde-7423a8ba"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/kelabe.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kelabe.tewolde?igsh=MXdoOHo2ZWVyb204bw%3D%3D"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@KelabeforWashington"
+},
+{
+"text": "hello@kelabeforwashington.com",
+"href": "mailto:hello@kelabeforwashington.com"
+}
 ]

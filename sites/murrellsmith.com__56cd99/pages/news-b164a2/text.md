@@ -1,21 +1,22 @@
-How SC Works: House Vs Senate
-In the first episode of How SC Works, Speaker Murrell Smith breaks down the South Carolina House and Senate, how the two chambers differ and why the House is known as…
-Last week at the State House, we cut taxes, advanced public safety measures, and passed legislation to protect our communities, support families, and strengthen key South Carolina industries.
-From putting…
-(WACH) — South Carolina Gov.
-Henry McMaster on Wednesdaysigned a law that lowers income tax rates, changes how taxes are calculated, and sets a path for future tax cuts tied to…
-COLUMBIA, S.C. – Governor Henry McMaster was joined today by members of the South Carolina General Assembly and other state leaders for a ceremonial bill signing of H. 4216, the Income Tax…
-It was another busy and productive few weeks in Columbia as we kept pushing forward solutions that matter to you, cutting taxes, supporting families, and keeping our communities and law…
-To be remembered means to have lived a life that didn’t stop at your death.
+Close Meet Murrell Issues Volunteer News Contact Donate News How SC Works: House Vs Senate September 9, 2026 In the first episode of How SC Works, Speaker Murrell Smith breaks down the South Carolina House and Senate, how the two chambers differ and why the House is known as… Read more Weekly Roundup from the South Carolina State House April 20, 2026 Last week at the State House, we cut taxes, advanced public safety measures, and passed legislation to protect our communities, support families, and strengthen key South Carolina industries.
+From putting… Read more South Carolina cuts income taxes: Here’s what it means for you April 17, 2026 (WACH) — South Carolina Gov.
+Henry McMaster on Wednesdaysigned a law that lowers income tax rates, changes how taxes are calculated, and sets a path for future tax cuts tied to… Read more Governor McMaster Ceremonially Signs Income Tax Bill Into Law April 17, 2026 COLUMBIA, S.C. – Governor Henry McMaster was joined today by members of the South Carolina General Assembly and other state leaders for a ceremonial bill signing of H.
+4216, the Income Tax… Read more Weekly Roundup from the South Carolina State House April 9, 2026 It was another busy and productive few weeks in Columbia as we kept pushing forward solutions that matter to you, cutting taxes, supporting families, and keeping our communities and law… Read more Son of Sumter: Hundreds attend statue unveiling of late S.C.
+Supreme Court Justice Ernest A.
+Finney Jr.
+March 30, 2026 To be remembered means to have lived a life that didn’t stop at your death.
 Rather, it lived on when your presence was no longer in the room.
-It shaped…
-“This moment, the raising of this beam, is not just about construction, it’s about continuation.
-It’s about honoring the same spirit of leadership and vision that saved the Sumter Opera…
-The community came together Saturday night, March 21, to celebrate Bobby Barnes, 89, and his many years of dedication to scouting.
-The event was held at American Legion Post 15…
-Phase two of the Sumter Veterans Park project was officially completed on Monday when city, county and state officials attended a ribbon-cutting under the P-51 Mustang Red Tail airplane at…
-By providing your phone number, you are consenting to receive text message updates, including automated text messages (updates, marketing, polling/surveys, and possible donation solicitations) to that number from Murrell Smith for House.
+It shaped… Read more Sumter Opera House’s ‘Topping Out’ ceremony marks continuation of venue’s cherished legacy March 30, 2026 “This moment, the raising of this beam, is not just about construction, it’s about continuation.
+It’s about honoring the same spirit of leadership and vision that saved the Sumter Opera… Read more 75 years of scouting: Sumterite Bobby Barnes receives Order of Palmetto March 27, 2026 The community came together Saturday night, March 21, to celebrate Bobby Barnes, 89, and his many years of dedication to scouting.
+The event was held at American Legion Post 15… Read more Sumter continues to honor Tuskegee Airmen March 27, 2026 Phase two of the Sumter Veterans Park project was officially completed on Monday when city, county and state officials attended a ribbon-cutting under the P-51 Mustang Red Tail airplane at… Read more 1 2 3 Next » Sign Up For Updates First Name * Last Name * Email * Phone Number Submit By providing your phone number, you are consenting to receive text message updates, including automated text messages (updates, marketing, polling/surveys, and possible donation solicitations) to that number from Murrell Smith for House.
 Message & Data rates may apply, and message frequency may vary over time.
 Reply "STOP" to opt out of these text message updates.
 Reply HELP for help.
-Privacy Policy.
+Privacy Policy .
+Donate Paid for by Murrell Smith for House Privacy Policy ©# All Rights Reserved Sign up to Volunteer First Name * Last Name * Email * Phone Number Zip Code * When are you available? * When are you available?
+Mornings Weekdays Mornings Weekends Afternoons Weekdays Afternoons Weekends Evenings Weekdays How can you support?
+Check all that apply. * Make phone calls Knock on doors Put up a yard sign Host an event Attend an event Submit First Name (Required) Last Name (Required) Email (Required) Phone Address (Required) South Carolina Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific South Carolina ZIP Code Availability When are you available?
+Mornings Weekdays Mornings Weekends Afternoons Weekdays Afternoons Weekends Evenings Weekdays Evenings Weekends optinsms I want to opt in to SMS How can you support?
+Select all that apply.
+Make phone calls Knock on doors Put up a yard sign Host an event Attend an event

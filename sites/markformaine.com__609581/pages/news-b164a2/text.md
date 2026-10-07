@@ -1,8 +1,1 @@
-news & press
-Latest Campaign Developments
-NEWS ARTICLE
-Skip navigation menu
-news & press
-Latest Campaign Developments
-NEWS ARTICLE
-IAM Union Congratulates Mark Vigliotta on Securing Maine State Senate Democratic Nomination
+Skip navigation menu About Volunteer Issues Endorsements News Donate About Volunteer Issues Endorsements News Donate news & press Latest Campaign Developments NEWS ARTICLE Mark Vigliotta Candidate Guide Read more Oct 1 2026 NEWS ARTICLE In Their Own Words: Candidates Answer Our Questions Read more Sep 25 2026 Letter to the Editor Support for Vigliotta | Letter Read more Sep 10 2026 Letter to the Editor Support for Mark Vigliotta | Letter Read more Aug 6 2026 NEWS ARTICLE IAM Union Congratulates Mark Vigliotta on Securing Maine State Senate Democratic Nomination Read more Jun 10 2026 NEWS ARTICLE Mark Vigliotta (D) – Senate District 33 Read more May 22 2026 NEWS ARTICLE Maine AFL-CIO Announces Early Endorsements for Maine Legislature Read more May 18 2026 Letter To the editor Support Mark Vigliotta for District 33 | Letter Read more May 11 2026 NEWS ARTICLE IAM Union’s Maine State Council Unanimously Endorses IAM Member Mark Vigliotta Read more Feb 25 2026 NEWS ARTICLE IAM Union Member Mark Vigliotta Running for Sanford-Area State Senate Seat Read more Feb 20 2026 markformaine@gmail.com Powered by RUN! website builder Paid for and authorized by Mark Vigliotta for Senate You need to enable JavaScript to run this app.

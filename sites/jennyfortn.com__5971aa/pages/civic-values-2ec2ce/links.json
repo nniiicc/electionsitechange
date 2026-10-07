@@ -1,10 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61587345444700",
-"https://jennyfortn.com/",
-"https://jennyfortn.com/about",
-"https://jennyfortn.com/civic-values",
-"https://jennyfortn.com/core-issues",
-"https://jennyfortn.com/events-media-endorsements",
-"https://secure.actblue.com/donate/jenny-fowler-1",
-"https://substack.com/@jennyfowlertn"
+{
+"text": "About Jenny",
+"href": "https://jennyfortn.com/about/"
+},
+{
+"text": "Civic Values",
+"href": "https://jennyfortn.com/civic-values/"
+},
+{
+"text": "Core Issues",
+"href": "https://jennyfortn.com/core-issues/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jenny-fowler-1"
+},
+{
+"text": "Events, Media & Endorsements",
+"href": "https://jennyfortn.com/events-media-endorsements/"
+},
+{
+"text": "Jenny’s Substack",
+"href": "https://substack.com/@jennyfowlertn"
+},
+{
+"text": "[image: Facebook icon]",
+"href": "https://www.facebook.com/profile.php?id=61587345444700"
+},
+{
+"text": "[image: JennyForTN Homepage]",
+"href": "https://jennyfortn.com/"
+},
+{
+"text": "jennyfowlerfortnhouse@yahoo.com",
+"href": "mailto:jennyfowlerfortnhouse@yahoo.com"
+}
 ]

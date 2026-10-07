@@ -1,13 +1,5 @@
-Priorities
-Small Businesses
-Small and underserved businesses face unique challenges like financial, regulatory, and cultural barriers that need to be addressed.
+Skip navigation menu About Issues Volunteer Contact Donate About Issues Volunteer Contact Donate Economic Security Families Community-based Projects Universal Health care Housing for All Immigration Reform Democracy Reform Student Loan Forgiveness and Tuition Costs Education Reform Environmental Justice Small Businesses Foreign Policy Retirement Priorities Small Businesses Small and underserved businesses face unique challenges like financial, regulatory, and cultural barriers that need to be addressed.
 Changes in the economy and technology over the past decade has changed the way capital providers serve the small business community.
-This largely impacts members of underserved communities, tribal members, women, and people of color.
-The mission: promote economic success
-As your next representative, I will pass legislation that will help the small business community and economy flourish.
-Some objectives are:
-- Pass the Credit Card Competition Act - Break the Visa-Mastercard duopoly - Lower fees
-- Expand Small Business Tax Deduction to 23%
-- Co-sponsor the PROVE IT Act
-- Exempt American-owned small businesses from BOI filing
-- Lower tax rate for small C-corporations
+This largely impacts members of underserved communities, tribal members, women, and people of color .
+The mission: promote economic success As your next representative, I will pass legislation that will help the small business community and economy flourish.
+Some objectives are: Pass the Credit Card Competition Act - Break the Visa-Mastercard duopoly - Lower fees Expand Small Business Tax Deduction to 23% Co-sponsor the PROVE IT Act Exempt American-owned small businesses from BOI filing Lower tax rate for small C-corporations hello@motaforcongress.com Powered by RUN! website builder Paid for by Samantha Mota for Congress You need to enable JavaScript to run this app.

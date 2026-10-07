@@ -1,6 +1,10 @@
-Map of District 06: All of Baker, Bradford, Columbia, Gilchrist and Union Counties and Alachua County along Hwy 26 and all north and dips south to include the University of Florida and Clay County north of Green Cove Springs
-409,000 registered voters
-112 voting precincts
-Largest employers are healthcare, education, and corrections.
+Skip to content Thornton FL SD 06 About Action American Solidarity Party (ASP) Principles Contact Us Donations FL Senate District 06 Legislation Abolish the Death Penalty Dignified Immigration Management The FLORIDA AI BILL Magnifica Humanitas Press Releases Topics Statement on the Iran War Affordability Immigration Statement on Threats of Genocide and Impeachment Top Three POLICY AREAS FL Senate District 06 Map of District 06: All of Baker, Bradford, Columbia, Gilchrist and Union Counties and Alachua County along Hwy 26 and all north and dips south to include the University of Florida and Clay County north of Green Cove Springs sd06_poster SD 06 map Download 409,000 registered voters 112 voting precincts Largest employers are healthcare, education, and corrections.
 Other employers are transportation and logistics, and the small‑business and skilled‑trades sector.
 Agriculture and forestry dominate land use and economic value, but they employ a relatively small number of workers.
+PocketCasts YouTube ApplePods Spotify RSS Thornton for FL Senate District 06 is a campaign dedicated to restoring human dignity in public life.
+We believe that every person—regardless of background, belief, or political affiliation—deserves to be treated with respect.
+In an age of polarization, outrage, and performative discourse, we offer a different path: one grounded in psychological insight, moral clarity, and civic responsibility.
+Our mission is to put the message of Magnifica Humanitas into practice.
+Subscribe for updates Join our mailing list and get notified when we release new episodes and blog posts.
+No spam, we guarantee.
+Type your email… SUBSCRIBE Thornton FL SD 06 About Action American Solidarity Party (ASP) Principles Contact Us Donations FL Senate District 06 Legislation Abolish the Death Penalty Dignified Immigration Management The FLORIDA AI BILL Magnifica Humanitas Press Releases Topics Statement on the Iran War Affordability Immigration Statement on Threats of Genocide and Impeachment Top Three POLICY AREAS Designed with WordPress LinkedIn Tumblr Facebook

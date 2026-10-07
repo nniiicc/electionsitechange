@@ -1,4 +1,3 @@
-top of page
-108TH ASSEMBLY DISTRICT
-The 108th Assembly District (District Map) emanates from the City of Rensselaer, the Towns of East Greenbush and North Greenbush, the City of Troy, and the communities of Green Island, Watervliet, Cohoes, and the Town and Village of Waterford.
-bottom of page
+top of page DONATE SUBSCRIBE MY FINANCIAL DISCLOSURE Home About Me Accomplishments 108th District Endorsements Videos Contact Voter Information Events More Use tab to navigate through the menu items.
+108TH ASSEMBLY DISTRICT The 108th Assembly District ( District Map ) emanates from the City of Rensselaer, the Towns of East Greenbush and North Greenbush, the City of Troy, and the communities of Green Island, Watervliet, Cohoes, and the Town and Village of Waterford.
+John McDonald - NYS ASSEMBLY - 108th DISTRICT • Cohoes • Green Island • East Greenbush • North Greenbush • Rensselaer • Troy • Waterford • Watervliet Paid for by McDonald for Assembly bottom of page

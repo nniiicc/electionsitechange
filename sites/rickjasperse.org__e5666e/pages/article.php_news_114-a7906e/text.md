@@ -1,5 +1,4 @@
-TAX CUTS for You
-[March 07, 2022] | We have had busy days at the Capitol this past week and will for the next two.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK REPORT FROM THE CAPITOL TAX CUTS for You [ March 07, 2022 ] | We have had busy days at the Capitol this past week and will for the next two.
 Every representative is trying to get their bills heard on the floor so the bills can move to the Senate for their consideration.
 A lot of our time is spent reading over other representatives' bills and making suggestions for improvements or working to stop them from progressing forward.
 Yes, that does cause some hard feelings when your idea gets stopped by a committee chairman or Rules Committee member.
@@ -26,3 +25,4 @@ It has always been one of my top priorities to help my constituents and to hear 
 I encourage you to reach out if you have any questions or concerns regarding legislation that has been discussed or passed so far.
 You can reach my Capitol office at 404-656-7153, or you can email me directly at rick.jasperse@house.ga.gov.
 As always, thank you for allowing me to serve as your State Representative and legislative voice here at the Capitol.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

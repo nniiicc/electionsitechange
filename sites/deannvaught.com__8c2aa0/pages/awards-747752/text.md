@@ -1,21 +1,4 @@
-top of page
-Awards
-Arkansas State Employees Association
-"Outstanding State Legislator" - 2017
-Arkansas Cattleman's Association
-Legislator of the Year - 2019 & 2021
-Child Advocacy Centers of Arkansas
-Blue Ribbon Recipient - 2018
-Arkansas Hunger Relief Alliance
-Acting Out against Hunger Award - 2021
-State Access to Innovative Medicines
-Patient Access Champions Award - 2021
-Arkansas Municipal League
-"Distinguished Legislator Award - 2017 & 2019
-Arkansas Forestry Association
-Legislator of the Year - 2021
-Family Council
-Statesman Award - 2021
-Arkansas State Chamber of Commerce
-Business Matters Leadership Award - 2017 & 2019
-bottom of page
+top of page DeAnn Vaught For District 87 State Representative DONATE Awards Arkansas State Employees Association "Outstanding State Legislator" - 2017 Arkansas Cattleman's Association Legislator of the Year - 2019 & 2021 Child Advocacy Centers of Arkansas Blue Ribbon Recipient - 2018 Arkansas Hunger Relief Alliance Acting Out against Hunger Award - 2021 State Access to Innovative Medicines Patient Access Champions Award - 2021 Arkansas Municipal League "Distinguished Legislator Award - 2017 & 2019 Arkansas Forestry Association Legislator of the Year - 2021 Family Council Statesman Award - 2021 Arkansas State Chamber of Commerce Business Matters Leadership Award - 2017 & 2019 Home About Ideals Awards Committees Contact More Use tab to navigate through the menu items.
+START CHANGING Support Our Cause DONATE SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+Home About Me Ideals Awards Committees Contact DeAnn Vaught - For Representative - © # by Reese Walker.
+Proudly created with Wix.com 266 Dairy Road Horatio, AR 71842 bottom of page

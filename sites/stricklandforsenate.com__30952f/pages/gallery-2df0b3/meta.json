@@ -1,7 +1,11 @@
 {
- "description": "Downloadable B-roll video, photos and media from Tony Strickland's State Senate campaign \u2014 community events, endorsements, and more.",
+ "description": "Downloadable B-roll video, photos and media from Tony Strickland's State Senate campaign — community events, endorsements, and more.",
  "final_url": "https://www.stricklandforsenate.com/gallery",
+ "fingerprint": "38b12c2d35f232d6895b072a408d28d040dc02c0",
+ "format": 3,
  "paid_for_by": "PAID FOR BY TONY STRICKLAND FOR SENATE 2026 ID#1467958",
  "title": "Media Gallery | Tony Strickland for State Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

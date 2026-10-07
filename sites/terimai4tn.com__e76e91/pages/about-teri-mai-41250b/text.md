@@ -1,4 +1,5 @@
-Teri Mai is a self-made woman who used education and a strong work ethic to build the life she enjoys today.
+Skip to content Teri Mai for Tennessee House District 92 Toggle menu visibility.
+Home Contact Us Donate Privacy Policy About Teri Mai Teri Mai is a self-made woman who used education and a strong work ethic to build the life she enjoys today.
 Born and raised in Texas, she enrolled in the New College Program at St.
 Edward’s University at age 29 while working full time.
 By the time she graduated, she wore three hats – mom, legal secretary and recent college graduate.
@@ -15,3 +16,6 @@ President in 1972 by handing out flyers.
 She says, “I was too young to vote, but not too young to have an opinion!” Since then, Teri has learned to use her voice, professionally and as a private citizen, to advocate for fairness, accountability and transparency.
 She promotes strong public education, common sense gun legislation, women’s reproductive rights and free and fair elections.
 Above all, she strongly believes legislators are elected to work for their constituents, not special interest groups or super-PACs.
+Political Ad Paid for by Teri Mai for Tennessee House District 92, Rebecca Strothers, Treasurer.
+Toggle menu visibility.
+Facebook Instagram Twitter E-mail

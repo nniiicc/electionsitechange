@@ -1,13 +1,50 @@
 [
-"http://chludzinskiforassembly.com/",
-"https://chludzinskiforassembly.com/",
-"https://chludzinskiforassembly.com/endorsements",
-"https://chludzinskiforassembly.com/home",
-"https://chludzinskiforassembly.com/maryvall-update",
-"https://chludzinskiforassembly.com/pat-in-the-news",
-"https://chludzinskiforassembly.com/volunteer",
-"https://facebook.com/ChludzinskiForAssembly",
-"https://instagram.com/nysassemblyman_patchludzinski",
-"https://secure.winred.com/chludzinski-for-assembly/donate",
-"https://x.com/ChludzinskiNY"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/chludzinski-for-assembly/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.chludzinskiforassembly.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.chludzinskiforassembly.com"
+},
+{
+"text": "MARYVALE UPDATE",
+"href": "https://www.chludzinskiforassembly.com/maryvall-update"
+},
+{
+"text": "MEET PAT",
+"href": "https://www.chludzinskiforassembly.com/home"
+},
+{
+"text": "PAT IN THE NEWS",
+"href": "https://www.chludzinskiforassembly.com/pat-in-the-news"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.chludzinskiforassembly.com/volunteer"
+},
+{
+"text": "[image: AD143_Logo.png]",
+"href": "https://secure.winred.com/chludzinski-for-assembly/donate"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ChludzinskiForAssembly/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/nysassemblyman_patchludzinski/"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/ChludzinskiNY"
+},
+{
+"text": "www.chludzinskiforassembly.com",
+"href": "http://www.chludzinskiforassembly.com/"
+}
 ]

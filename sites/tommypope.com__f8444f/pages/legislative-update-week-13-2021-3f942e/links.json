@@ -1,30 +1,138 @@
 [
-"https://facebook.com/SCHouseGOP",
-"https://facebook.com/popeforhouse47",
-"https://itunes.apple.com/us/app/sc-legislature/id1294829381?mt=8",
-"https://joshethan.com/",
-"https://linkedin.com/in/tommy-pope-94a54232",
-"https://play.google.com/store/apps/details?id=gov.scstatehouse.app",
-"https://scdhec.gov/covid19/covid-19-vaccination-dashboard",
-"https://scdhec.gov/covid19/covid-19-vaccine/covid-19-vaccine-appointments",
-"https://thestate.com/news/state/south-carolina/article250447431.html",
-"https://tommypope.com/",
-"https://tommypope.com/contact",
-"https://tommypope.com/contact-tommy",
-"https://tommypope.com/district-map",
-"https://tommypope.com/join",
-"https://tommypope.com/legislative-update-budget",
-"https://tommypope.com/legislative-update-budget-week",
-"https://tommypope.com/legislative-update-for-2021",
-"https://tommypope.com/legislative-update-may-10-2021",
-"https://tommypope.com/legislative-update-may-17-2021",
-"https://tommypope.com/legislative-update-week-14-2021",
-"https://tommypope.com/legislative-updates",
-"https://tommypope.com/meet-tommy",
-"https://tommypope.com/privacy-policy",
-"https://tommypope.com/support",
-"https://tommypope.com/terms-and-conditions",
-"https://twitter.com/SCHouseGOP?ref_src=twsrc%5Etfw",
-"https://twitter.com/tommypopesc?lang=en",
-"https://youtube.com/user/tommypopeforhouse"
+{
+"text": "Contact Tommy",
+"href": "https://tommypope.com/contact/"
+},
+{
+"text": "District Map",
+"href": "https://tommypope.com/district-map/"
+},
+{
+"text": "Donate",
+"href": "https://tommypope.com/support/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/popeforhouse47/"
+},
+{
+"text": "Join the Pope Team",
+"href": "https://tommypope.com/join/"
+},
+{
+"text": "Josh Ethan",
+"href": "https://joshethan.com"
+},
+{
+"text": "Legislative Update for 2021",
+"href": "https://tommypope.com/legislative-update-for-2021/"
+},
+{
+"text": "Legislative Update- Budget",
+"href": "https://tommypope.com/legislative-update-budget/"
+},
+{
+"text": "Legislative Update- May 10, 2021",
+"href": "https://tommypope.com/legislative-update-may-10-2021/"
+},
+{
+"text": "Legislative Update- May 17, 2021",
+"href": "https://tommypope.com/legislative-update-may-17-2021/"
+},
+{
+"text": "Legislative Updates",
+"href": "https://tommypope.com/legislative-updates/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/in/tommy-pope-94a54232/"
+},
+{
+"text": "Meet Tommy",
+"href": "https://tommypope.com/meet-tommy/"
+},
+{
+"text": "NextNext",
+"href": "https://tommypope.com/legislative-update-week-14-2021/"
+},
+{
+"text": "PrevPrevious",
+"href": "https://tommypope.com/legislative-update-budget-week/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tommypope.com/privacy-policy/"
+},
+{
+"text": "Reach Tommy",
+"href": "https://tommypope.com/contact/"
+},
+{
+"text": "Read More »",
+"href": "https://tommypope.com/legislative-update-budget/"
+},
+{
+"text": "Read More »",
+"href": "https://tommypope.com/legislative-update-for-2021/"
+},
+{
+"text": "Read More »",
+"href": "https://tommypope.com/legislative-update-may-10-2021/"
+},
+{
+"text": "Read More »",
+"href": "https://tommypope.com/legislative-update-may-17-2021/"
+},
+{
+"text": "Support",
+"href": "https://tommypope.com/support/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://tommypope.com/terms-and-conditions/"
+},
+{
+"text": "Tweets by SCHouseGOP",
+"href": "https://twitter.com/SCHouseGOP?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/tommypopesc?lang=en"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/user/tommypopeforhouse"
+},
+{
+"text": "[image]",
+"href": "https://tommypope.com"
+},
+{
+"text": "[no text]",
+"href": "https://itunes.apple.com/us/app/sc-legislature/id1294829381?mt=8"
+},
+{
+"text": "[no text]",
+"href": "https://play.google.com/store/apps/details?id=gov.scstatehouse.app"
+},
+{
+"text": "contact me",
+"href": "https://tommypope.com/contact-tommy/"
+},
+{
+"text": "https://scdhec.gov/covid19/covid-19-vaccination-dashboard",
+"href": "https://scdhec.gov/covid19/covid-19-vaccination-dashboard"
+},
+{
+"text": "https://scdhec.gov/covid19/covid-19-vaccine/covid-19-vaccine-appointments",
+"href": "https://scdhec.gov/covid19/covid-19-vaccine/covid-19-vaccine-appointments"
+},
+{
+"text": "https://www.facebook.com/SCHouseGOP/",
+"href": "https://www.facebook.com/SCHouseGOP/"
+},
+{
+"text": "https://www.thestate.com/news/state/south-carolina/article250447431.html",
+"href": "https://www.thestate.com/news/state/south-carolina/article250447431.html"
+}
 ]

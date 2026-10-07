@@ -1,20 +1,110 @@
 [
-"http://elections.il.gov/",
-"https://designedtorun.com/",
-"https://hanleyforillinois.com/",
-"https://hanleyforillinois.com/endorsements",
-"https://hanleyforillinois.com/issues",
-"https://hanleyforillinois.com/issues/affordable-everything",
-"https://hanleyforillinois.com/issues/climate-sustainability",
-"https://hanleyforillinois.com/issues/crisis-in-washington",
-"https://hanleyforillinois.com/issues/education",
-"https://hanleyforillinois.com/issues/exceptional-government",
-"https://hanleyforillinois.com/issues/healthy-community",
-"https://hanleyforillinois.com/issues/safer-communities",
-"https://hanleyforillinois.com/volunteer",
-"https://instagram.com/patrickrocquehanley",
-"https://openlands.org/",
-"https://secure.actblue.com/donate/hanleyforillinois",
-"https://tiktok.com/@patrickrocquehanley",
-"https://youtube.com/@HanleyforIllinois"
+{
+"text": "Affordability & Prices",
+"href": "https://www.hanleyforillinois.com/issues/affordable-everything"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hanleyforillinois"
+},
+{
+"text": "Endorsements!",
+"href": "https://www.hanleyforillinois.com/endorsements"
+},
+{
+"text": "Green Illinois: Energy, Water, & Prairies",
+"href": "https://www.hanleyforillinois.com/issues/climate-sustainability"
+},
+{
+"text": "Growing Illinois",
+"href": "https://www.hanleyforillinois.com/issues/exceptional-government"
+},
+{
+"text": "Home",
+"href": "https://www.hanleyforillinois.com/"
+},
+{
+"text": "I want to hear from you! What issues matter most to you?",
+"href": "https://www.hanleyforillinois.com/volunteer"
+},
+{
+"text": "Kids, Teachers, Parents & World-class schools",
+"href": "https://www.hanleyforillinois.com/issues/education"
+},
+{
+"text": "Openlands",
+"href": "https://openlands.org/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Reliable Healthcare at an Affordable Price",
+"href": "https://www.hanleyforillinois.com/issues/healthy-community"
+},
+{
+"text": "Safety for our communities",
+"href": "https://www.hanleyforillinois.com/issues/safer-communities"
+},
+{
+"text": "The Crisis & the Moment",
+"href": "https://www.hanleyforillinois.com/issues/crisis-in-washington"
+},
+{
+"text": "View more",
+"href": "https://www.hanleyforillinois.com/issues/affordable-everything"
+},
+{
+"text": "View more",
+"href": "https://www.hanleyforillinois.com/issues/climate-sustainability"
+},
+{
+"text": "View more",
+"href": "https://www.hanleyforillinois.com/issues/crisis-in-washington"
+},
+{
+"text": "View more",
+"href": "https://www.hanleyforillinois.com/issues/education"
+},
+{
+"text": "View more",
+"href": "https://www.hanleyforillinois.com/issues/exceptional-government"
+},
+{
+"text": "View more",
+"href": "https://www.hanleyforillinois.com/issues/healthy-community"
+},
+{
+"text": "View more",
+"href": "https://www.hanleyforillinois.com/issues/safer-communities"
+},
+{
+"text": "Would you share what matters most to you?",
+"href": "https://www.hanleyforillinois.com/volunteer"
+},
+{
+"text": "[image: Patrick Hanley - building the next generation of Democratic leadership]",
+"href": "https://www.hanleyforillinois.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/patrickrocquehanley"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@patrickrocquehanley"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@HanleyforIllinois"
+},
+{
+"text": "written a bit about further priorities",
+"href": "https://www.hanleyforillinois.com/issues"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov"
+}
 ]

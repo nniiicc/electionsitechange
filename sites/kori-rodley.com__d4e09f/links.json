@@ -1,13 +1,74 @@
 [
-"https://facebook.com/KoriRodley",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/korirodley",
-"https://kori-rodley.com/",
-"https://kori-rodley.com/calendar",
-"https://kori-rodley.com/endorsements",
-"https://linkedin.com/in/korirodley",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/koriforspringfield",
-"https://sos.oregon.gov/voting/Pages/registration.aspx?lang=en"
+{
+"text": "Calendar",
+"href": "https://kori-rodley.com/calendar"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/koriforspringfield"
+},
+{
+"text": "DONATE--by making a financial contribution, you make it possible for me to reach voters throughout Springfield.",
+"href": "https://secure.actblue.com/donate/koriforspringfield"
+},
+{
+"text": "ENDORSE",
+"href": "mailto:kori.rodley@gmail.com?subject=I+Want+to+Endorse+Kori+Rodley%21"
+},
+{
+"text": "Endorsements",
+"href": "https://kori-rodley.com/endorsements"
+},
+{
+"text": "HOST A HOUSE PARTY-",
+"href": "mailto:kori.rodley@gmail.com?subject=I%27d+like+to+host+a+House+Party+for+Kori+Rodley%21&body=Please+tell+me+more+about+hosting+a+house+party+to+support+Kori+Rodley+for+Springfield+City+Council."
+},
+{
+"text": "HOST A SIGN",
+"href": "mailto:kori.rodley@gmail.com?subject=I%27d+like+to+have+a+lawn+sign+to+show+my+support%21&body=Please+bring+me+a+lawn+sign+to+support+Kori+Rodley+for+Springfield+City+Council."
+},
+{
+"text": "Home",
+"href": "https://kori-rodley.com/"
+},
+{
+"text": "Join & Support Kori",
+"href": "https://secure.actblue.com/donate/koriforspringfield"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "VOTE! Make sure your voter registration is up to date and you are ready to vote in the May 2026 Primary!",
+"href": "https://sos.oregon.gov/voting/Pages/registration.aspx?lang=en"
+},
+{
+"text": "[image]",
+"href": "https://kori-rodley.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KoriRodley"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/korirodley"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/korirodley/"
+},
+{
+"text": "kori.rodley@gmail.com",
+"href": "mailto:kori.rodley@gmail.com"
+}
 ]

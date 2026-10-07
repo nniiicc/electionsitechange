@@ -1,6 +1,5 @@
-About Stephanie
-Stephanie is a mom, State Representative for Legislative District 2, prior public-school teacher and Deer Valley Unified School District governing board member.
-Skip navigation menu
+Skip navigation menu About Issues Endorsements Volunteer Contact Donate About Stephanie Stephanie is a mom, State Representative for Legislative District 2, prior public-school teacher and Deer Valley Unified School District governing board member.
+About Issues Endorsements Volunteer Contact Donate About Stephanie Stephanie is a mom, State Representative for Legislative District 2, prior public-school teacher and Deer Valley Unified School District governing board member.
 Stephanie’s journey began in Oregon, where she was educated by remarkable teachers who instilled in her a passion for learning and a commitment to giving back.
 After receiving her bachelor's degree in communication from Portland State University, she ventured into the professional world, seeking meaning and a way to contribute to her community.
 Stephanie remained in the city and began working in a law firm.
@@ -19,3 +18,6 @@ In 2023 Stephanie ran for state house to represent Legislative District 2 and wa
 As a mother and representative of this community, Stephanie understands the challenges and aspirations of families in our district.
 She understands the importance of quality public education, our water and environmental challenges, the Phoenix housing crisis and reproductive freedom.
 These are not partisan issues; they are issues that affect us all, regardless of our political affiliation.
+Make checks payable to: Simacek for AZ PO Box 42834 Phoenix, AZ 85080 Powered by RUN! website builder Paid for by Simacek for AZ.
+Authorized by Stephanie Simacek.
+You need to enable JavaScript to run this app.

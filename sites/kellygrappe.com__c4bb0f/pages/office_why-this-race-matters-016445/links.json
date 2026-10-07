@@ -1,51 +1,278 @@
 [
-"https://bsky.app/profile/kellygrappe.bsky.social",
-"https://facebook.com/share/1Nor8fqtmT",
-"https://goodchange.app/donate/commi-h8",
-"https://instagram.com/KellyGrappeSOS",
-"https://kellygrappe.com/",
-"https://kellygrappe.com/about",
-"https://kellygrappe.com/about/community",
-"https://kellygrappe.com/about/experience",
-"https://kellygrappe.com/about/initiatives-petitions",
-"https://kellygrappe.com/about/journey",
-"https://kellygrappe.com/about/why-im-running",
-"https://kellygrappe.com/about/why-kelly",
-"https://kellygrappe.com/accessibility",
-"https://kellygrappe.com/arkansas-visits",
-"https://kellygrappe.com/campaign-photos",
-"https://kellygrappe.com/contact",
-"https://kellygrappe.com/direct-democracy",
-"https://kellygrappe.com/direct-democracy/ballot-initiative-process",
-"https://kellygrappe.com/disclaimer",
-"https://kellygrappe.com/donate",
-"https://kellygrappe.com/endorsements",
-"https://kellygrappe.com/es",
-"https://kellygrappe.com/events",
-"https://kellygrappe.com/events/request",
-"https://kellygrappe.com/explainers",
-"https://kellygrappe.com/from-the-road",
-"https://kellygrappe.com/get-involved",
-"https://kellygrappe.com/get-involved/bring-5",
-"https://kellygrappe.com/get-involved/event-help",
-"https://kellygrappe.com/host-a-gathering",
-"https://kellygrappe.com/kelly-speaks",
-"https://kellygrappe.com/listening-sessions",
-"https://kellygrappe.com/office/business",
-"https://kellygrappe.com/office/capitol",
-"https://kellygrappe.com/office/elections",
-"https://kellygrappe.com/office/notaries",
-"https://kellygrappe.com/office/records",
-"https://kellygrappe.com/office/why-this-race-matters",
-"https://kellygrappe.com/press-coverage",
-"https://kellygrappe.com/priorities",
-"https://kellygrappe.com/privacy",
-"https://kellygrappe.com/start-a-local-team",
-"https://kellygrappe.com/terms",
-"https://kellygrappe.com/understand",
-"https://kellygrappe.com/voter-registration",
-"https://kellygrappesos.substack.com/",
-"https://tiktok.com/@kellygrappeforarsos",
-"https://x.com/kellygrappesos",
-"https://youtube.com/@KellyGrappe"
+{
+"text": "A More Engaged Arkansas",
+"href": "https://www.kellygrappe.com/priorities#engagement"
+},
+{
+"text": "Accessibility",
+"href": "https://www.kellygrappe.com/accessibility"
+},
+{
+"text": "Across Arkansas",
+"href": "https://www.kellygrappe.com/arkansas-visits"
+},
+{
+"text": "Business & Filings",
+"href": "https://www.kellygrappe.com/office/business"
+},
+{
+"text": "Business Services",
+"href": "https://www.kellygrappe.com/priorities#business"
+},
+{
+"text": "Campaign Photos",
+"href": "https://www.kellygrappe.com/campaign-photos"
+},
+{
+"text": "Campaign Videos",
+"href": "https://www.kellygrappe.com/kelly-speaks"
+},
+{
+"text": "Capitol & Public Safety",
+"href": "https://www.kellygrappe.com/office/capitol"
+},
+{
+"text": "Community & Civic Work",
+"href": "https://www.kellygrappe.com/about/community"
+},
+{
+"text": "Contact",
+"href": "https://www.kellygrappe.com/contact"
+},
+{
+"text": "Contact the campaign",
+"href": "https://www.kellygrappe.com/contact"
+},
+{
+"text": "Disclaimer",
+"href": "https://www.kellygrappe.com/disclaimer"
+},
+{
+"text": "Donate",
+"href": "https://goodchange.app/donate/commi-h8"
+},
+{
+"text": "Donate",
+"href": "https://www.kellygrappe.com/donate"
+},
+{
+"text": "Election Processes",
+"href": "https://www.kellygrappe.com/priorities#election-processes"
+},
+{
+"text": "Elections",
+"href": "https://www.kellygrappe.com/office/elections"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kellygrappe.com/endorsements"
+},
+{
+"text": "Español",
+"href": "https://www.kellygrappe.com/es"
+},
+{
+"text": "Events",
+"href": "https://www.kellygrappe.com/events"
+},
+{
+"text": "Explainers",
+"href": "https://www.kellygrappe.com/explainers"
+},
+{
+"text": "From the Road",
+"href": "https://www.kellygrappe.com/from-the-road"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kellygrappe.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.kellygrappe.com/"
+},
+{
+"text": "Host Kelly",
+"href": "https://www.kellygrappe.com/events/request"
+},
+{
+"text": "Host a gathering",
+"href": "https://www.kellygrappe.com/host-a-gathering"
+},
+{
+"text": "Invite Kelly",
+"href": "https://www.kellygrappe.com/events/request"
+},
+{
+"text": "Kelly Across Arkansas",
+"href": "https://www.kellygrappe.com/about/journey"
+},
+{
+"text": "Kelly Grappefor Arkansas Secretary of StateThe People Rule. · Arkansas",
+"href": "https://www.kellygrappe.com/"
+},
+{
+"text": "Kelly's petition organizing",
+"href": "https://www.kellygrappe.com/about/initiatives-petitions"
+},
+{
+"text": "Kelly’s Substack",
+"href": "https://kellygrappesos.substack.com"
+},
+{
+"text": "Learn How Direct Democracy Works",
+"href": "https://www.kellygrappe.com/direct-democracy/ballot-initiative-process"
+},
+{
+"text": "Listening Sessions",
+"href": "https://www.kellygrappe.com/listening-sessions"
+},
+{
+"text": "Meet Kelly",
+"href": "https://www.kellygrappe.com/about"
+},
+{
+"text": "My Plan",
+"href": "https://www.kellygrappe.com/priorities"
+},
+{
+"text": "Notaries",
+"href": "https://www.kellygrappe.com/office/notaries"
+},
+{
+"text": "Power of 5",
+"href": "https://www.kellygrappe.com/get-involved/bring-5"
+},
+{
+"text": "Press Coverage",
+"href": "https://www.kellygrappe.com/press-coverage"
+},
+{
+"text": "Privacy",
+"href": "https://www.kellygrappe.com/privacy"
+},
+{
+"text": "Professional experience",
+"href": "https://www.kellygrappe.com/about/experience"
+},
+{
+"text": "Register / Check Registration",
+"href": "https://www.kellygrappe.com/voter-registration"
+},
+{
+"text": "Represent at local events",
+"href": "https://www.kellygrappe.com/get-involved/event-help"
+},
+{
+"text": "Restore Trust",
+"href": "https://www.kellygrappe.com/priorities#restore-trust"
+},
+{
+"text": "Start a Local Team",
+"href": "https://www.kellygrappe.com/start-a-local-team#start-team-form"
+},
+{
+"text": "Stay connected",
+"href": "https://www.kellygrappe.com/get-involved#join"
+},
+{
+"text": "Support All 75 Counties",
+"href": "https://www.kellygrappe.com/priorities#counties"
+},
+{
+"text": "Terms of use",
+"href": "https://www.kellygrappe.com/terms"
+},
+{
+"text": "The Office",
+"href": "https://www.kellygrappe.com/understand"
+},
+{
+"text": "The People's Constitutional Voice",
+"href": "https://www.kellygrappe.com/priorities#peoples-voice"
+},
+{
+"text": "The People's Voice",
+"href": "https://www.kellygrappe.com/direct-democracy"
+},
+{
+"text": "The People's Voice hub",
+"href": "https://www.kellygrappe.com/direct-democracy"
+},
+{
+"text": "Transparency",
+"href": "https://www.kellygrappe.com/priorities#transparency"
+},
+{
+"text": "Transparency & Records",
+"href": "https://www.kellygrappe.com/office/records"
+},
+{
+"text": "Understand the Office",
+"href": "https://www.kellygrappe.com/understand"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kellygrappe.com/get-involved#volunteer"
+},
+{
+"text": "Volunteer with Kelly →",
+"href": "https://www.kellygrappe.com/get-involved#volunteer"
+},
+{
+"text": "Vote / Register",
+"href": "https://www.kellygrappe.com/voter-registration"
+},
+{
+"text": "What the Office Does",
+"href": "https://www.kellygrappe.com/understand"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.kellygrappe.com/about/why-im-running"
+},
+{
+"text": "Why Kelly",
+"href": "https://www.kellygrappe.com/about/why-kelly"
+},
+{
+"text": "Why This Race Matters",
+"href": "https://www.kellygrappe.com/office/why-this-race-matters"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/kellygrappe.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://kellygrappesos.substack.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1Nor8fqtmT/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/KellyGrappeSOS/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@kellygrappeforarsos"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@KellyGrappe"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/kellygrappesos"
+},
+{
+"text": "[no text]",
+"href": "mailto:grappe4arkansas@gmail.com"
+},
+{
+"text": "kellygrappe.com",
+"href": "https://www.kellygrappe.com"
+}
 ]

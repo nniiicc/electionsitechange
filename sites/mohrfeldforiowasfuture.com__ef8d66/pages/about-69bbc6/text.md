@@ -1,5 +1,4 @@
-Meet Matt Mohrfeld
-Matt Mohrfeld is a lifelong Southeast Iowan, small business owner, and experienced public servant whose leadership is grounded in hard work, integrity, and community commitment.
+top of page Iowa House - District 100 Home About Issues Contact Menu Close Donate Meet Matt Mohrfeld Matt Mohrfeld is a lifelong Southeast Iowan, small business owner, and experienced public servant whose leadership is grounded in hard work, integrity, and community commitment.
 He has spent nearly five decades creating local jobs and supporting the regional economy.
 Mohrfeld has served the community in several elected leadership and civic roles.
 He is ready to use that experience to effectively represent Southeastern Iowa in the state legislature for House District 100.
@@ -19,7 +18,12 @@ Together, they have raised a son, Jacob, and have remained active in both commun
 Mohrfeld’s approach to leadership combines business experience, public service, and a hands-on understanding of his community’s needs.
 He is committed to ensuring that Southeast Iowa has a strong voice in Des Moines, advocating for solutions that enhance economic growth, community well-being, and opportunities for all residents.
 “I believe in common-sense leadership, practical solutions, and investing in people — the heart of any strong community,” Mohrfeld says.
-“My life’s work has been about creating opportunities, supporting families, and building a future our community can be proud of.”
-Ready to Help?
+“My life’s work has been about creating opportunities, supporting families, and building a future our community can be proud of.” Ready to Help?
 Thinking about ways that you can help make a positive difference in our community and state?
 Volunteer with our campaign and help bring the needed changes that Iowa deserves.
+First name * Last name * Email * Phone Message How would you like to help?
+Yard sign Host an event Door knocking Make phone calls Other Send Contact (319) 470-0937 matt4district100@gmail.com © # Paid for by Mohrfeld for Iowa's Future Committee.
+Melissa Flach and Kim Culberson, Co-Treasurers.
+All Rights Reserved.
+Privacy Policy.
+Home About Issues Contact bottom of page

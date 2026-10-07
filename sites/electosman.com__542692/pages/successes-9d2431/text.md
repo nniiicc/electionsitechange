@@ -1,15 +1,28 @@
-SESSION RECAP
-Successes
-Serving as your State Representative is an incredible honor.
-This year, I worked with my colleagues to advance policies that reflect our shared values—and I remain committed to working alongside you.
+0 Skip to Content About Successes Priorities Endorsements Updates Donate Open Menu Close Menu About Successes Priorities Endorsements Updates Donate Open Menu Close Menu About Successes Priorities Endorsements Updates Donate SESSION RECAP Successes Serving as your State Representative is an incredible honor.
+This year, I worked with my colleagues to advance policies that reflect our shared values — and I remain committed to working alongside you.
 One of my top priorities has been ensuring stable funding for essential services, infrastructure, and public programs.
 With a projected budget shortfall, we took a balanced approach.
 We implemented responsible spending adjustments and equitable revenue measures to protect working families, invest in affordable housing, and promote economic stability and support for small businesses.
-In my first year as a legislator, I’m proud to share some of the issues I’ve focused on in my work across the aisle this session:
-- Improving public safety across our communities, including bringing forward legislation to strengthen consequences for offenders who commit rape resulting in pregnancy, enhance crisis response services, and update Washington’s strip search policies to better protect individual dignity.
-- Expanding housing opportunities, creating new funding pathways for permanently affordable homes and easing the financial burden on first-time homebuyers.
-- Protecting our environment by supporting legislation to promote wildfire resilience, strengthen recycling programs, and integrate environmental justice into state policies.
+In my first year as a legislator, I’m proud to share some of the issues I’ve focused on in my work across the aisle this session: Improving public safety across our communities, including bringing forward legislation to strengthen consequences for offenders who commit rape resulting in pregnancy, enhance crisis response services, and update Washington’s strip search policies to better protect individual dignity.
+Expanding housing opportunities , creating new funding pathways for permanently affordable homes and easing the financial burden on first-time homebuyers.
+Protecting our environment by supporting legislation to promote wildfire resilience, strengthen recycling programs, and integrate environmental justice into state policies.
 Additionally, education remains a cornerstone of the passed budget.
 I’m working hard to ensure every student has access to quality learning, addressing inequities in school resources, and supporting educators to build a stronger future for our students.
 A well-structured budget is more than numbers—it lays the foundation for a thriving Washington.
 I look forward to seeing these investments benefit our community in the 48th district!
+These are just a few of the important issues I am championing.
+Take a look below at the bills that I passed during the 2025 Regular Session.
+HB 1484 Supporting Victims of Rape Chapter 90, Laws of 2025 69th Legislature 2025 Regular Session EFFECTIVE DATE: July 27, 2025 HB 1484 amends the Sentencing Reform Act (SRA) to include offenses resulting in the pregnancy of a victim of rape as an aggravating circumstance justifying an exceptional sentence.
+The bill aims to ensure that offenses resulting in the pregnancy of a victim of rape are adequately punished, reflecting the severity of the crime.
+Passed Legislature - 2025 Regular Session By Representatives Salahuddin , Davis, Duerr, Doglio, Ryu, Reed, and Parshley HB 1875 Paid Sick Leave for Immigration Proceedings Chapter 170, Laws of 2025 69th Legislature 2025 Regular Session EFFECTIVE DATE: July 27, 2025 HB 1875 allows employees to use their earned paid sick leave to attend immigration-related proceedings — including hearings for themselves or family members — without risking their income or employment.
+The law aims to create a safer, more inclusive workplace for Washington’s diverse workforce.
+Passed Legislature - 2025 Regular Session By House Labor & Workplace Standards (originally sponsored by Representatives Salahuddin …) HB 1811 Enhancing Crisis Co-Response Services Delivered to Governor 69th Legislature 2025 Regular Session HB 1811 defines “co-response” as a first response model, ensuring that teams of trained clinicians, social workers, and peer support specialists are involved in behavioral health emergencies.
+This approach seeks to reduce reliance on law enforcement and emergency rooms, allowing for immediate care and de-escalation of crises.
+Passed Legislature - 2025 Regular Session By House Health Care & Wellness (originally sponsored by Representatives Salahuddin ,…) HB 1486 Adding a Student Member to SBCTC Delivered to Governor Chapter 91, Laws of 2025 69th Legislature 2025 Regular Session HB 1486 adds a student voting member to the State Board for Community and Technical Colleges (SBCTC).
+Over 250,000 students rely on our community and technical colleges—and they deserve a seat at the table where decisions are made about their futures.
+Passed Legislature - 2025 Regular Session By House Postsecondary Education & Workforce (originally sponsored by Representatives Salahuddin ,…) SB 5106 Establishing Eid as a State Holiday Chapter 30, Laws of 2025 69th Legislature 2025 Regular Session EFFECTIVE DATE: July 27, 2025 SB 5106 is a companion to my bill, HB 1434, which officially recognizes the holidays Eid al-Fitr and Eid al-Adha in Washington.
+The newly signed law does not establish additional paid holidays but adds both Eid holidays to the state’s list of recognized observances.
+Passed Legislature - 2025 Regular Session By Senate State Government, Tribal Affairs & Elections (originally sponsored by Senators Trudeau, Warnick, Bateman, Chapman, Dhingra, Frame, Hasegawa, Lovelett, Nobles, Riccelli, Saldaña, Shewmake, Stanford, and C.
+Wilson) SB 5682 Workforce Training Program Support Delivered to Governor 69th Legislature 2025 Regular Session SB 5682 is a companion to my bill, HB 1883, which extends the expiration date of the WA Customized Employment Training Program, a small but important tool to help employees receive training and adapt to technology.
+Passed Legislature - 2025 Regular Session By Senators Warnick and Hansen osman@electosman.com P.O.
+Box 3564 Redmond, WA 98073 Home About Successes Priorities Endorsements Updates Donate Terms & Privacy Paid for by Elect Osman for State Rep

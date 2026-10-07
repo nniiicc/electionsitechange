@@ -1,4 +1,4 @@
-I am a lifelong conservative who cast my first vote for Ronald Reagan.
+Home Meet Steve Issues Contact Us Volunteer Events Home Meet Steve Issues Contact Us Volunteer Events More Home Meet Steve Issues Contact Us Volunteer Events Home Meet Steve Issues Contact Us Volunteer Events I am a lifelong conservative who cast my first vote for Ronald Reagan.
 I was raised in a small town in northeastern California—a community of ranching and logging—where I learned the traditional values that still guide my life today.
 Growing up in that environment, I developed a deep respect for hard work, self-reliance, and the people who make their living from the land.
 As a young man, I traveled through northwestern Montana and knew I would one day return.
@@ -12,5 +12,6 @@ I understand the importance of being a careful steward of taxpayer dollars.
 After retiring from law enforcement, I worked in risk management, helping develop public safety policy for agencies across the country, and later served as Director of Content Development.
 I hold degrees in Business Management and Management, attended the Senior Management Institute for Policing at Boston University, and graduated from the FBI National Academy.
 As Abraham Lincoln said, “I like to see a man proud of the place in which he lives.” I am proud to call Montana home, and I will work hard every day to serve our community with integrity as your House Representative.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Copyright © #, Steve Kelly for House District 9.
+All Rights Reserved.
+Powered by

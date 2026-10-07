@@ -1,10 +1,4 @@
-Back to All Events
-Hear from the candidates running to represent the 1st Franklin District in a forum focused on food access, farm viability, and the future of our local food system.
+Skip to Content Open Menu Close Menu Events Endorsements Issues About Get Involved Contact Store ( 0 ) Cart ( 0 ) DONATE Events Endorsements Issues About Get Involved Contact Store ( 0 ) Cart ( 0 ) DONATE Open Menu Close Menu Events Endorsements Issues About Get Involved Contact Store DONATE Back to All Events Food and Farm Forum Tuesday, August 11, 2026 5:30 PM 7:30 PM Shelburne Falls Memorial Hall 51 Bridge Street Shelburne, Massachusetts, 01370 United States (map) Google Calendar ICS Hear from the candidates running to represent the 1st Franklin District in a forum focused on food access, farm viability, and the future of our local food system.
 Candidates will give opening and closing remarks, answer questions on food and agriculture issues, and take questions from the audience!
-Previous
-Previous
-August 9
-Greenfield Group Canvass launch
-Next
-Next
-August 16
+Previous Previous August 9 Greenfield Group Canvass launch Next Next August 16 Canvassing in Greenfield DONATE Contact info@wondoforrep.org P.O.
+Box 19, Greenfield, MA 01302

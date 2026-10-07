@@ -1,5 +1,2 @@
-Join the Team
-Team Mathis is actively recruiting volunteers to help on the road to winning 29B in November 2026.
-Please share your information below if you are interested in helping Adrianne keep 29B BLUE!!
-Yard Sign
-Would you like an Adrianne Mathis yard sign, request one here!
+Skip to content MATHIS FOR MD MEET ADRIANNE ISSUES GET INVOLVED Contact Us Voting Info Donate Get Involved Join the Team Team Mathis is actively recruiting volunteers to help on the road to winning 29B in November 2026.
+Please share your information below if you are interested in helping Adrianne keep 29B BLUE!! join team Yard Sign Would you like an Adrianne Mathis yard sign, request one here! yard sign MEET ADRIANNE ISSUES GET INVOLVED Contact Us Voting Info Donate LinkedIn Instagram YouTube SUPPORT ADRIANNE MATHIS FOR STATE DELEGATE MARYLAND DISTRICT 29B AUTHORIZED BY FRIENDS OF ADRIANNE MATHIS | ANITA RODGERS, TREASURER

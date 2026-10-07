@@ -1,7 +1,9 @@
 {
- "description": "\u8fd9\u662f\u4e00\u4e2a\u7b80\u5316\u7684\u670d\u52a1\u6761\u6b3e\u9875\u9762\u3002\u5b8c\u6574\u6761\u6b3e\u8bf7\u53c2\u9605\u82f1\u6587\u7248\u672c\u3002\u4f7f\u7528\u672c\u7f51\u7ad9\uff0c\u5373\u8868\u793a\u60a8\u540c\u610f\u9075\u5b88\u9002\u7528\u7684\u8054\u90a6\u548c\u5dde\u6cd5\u5f8b\uff0c\u5305\u62ec\u7ade\u9009\u8d22\u52a1\u6cd5\u3002",
+ "description": "这是一个简化的服务条款页面。完整条款请参阅英文版本。使用本网站，即表示您同意遵守适用的联邦和州法律，包括竞选财务法。",
  "final_url": "https://www.halefortexas.com/zh/terms.html",
- "paid_for_by": null,
- "title": "\u670d\u52a1\u6761\u6b3e | Alexander Hale",
+ "fingerprint": "1555fd0cf459378a01c8a2a3464beddcb4f9d1e4",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "服务条款 | Alexander Hale",
  "years_mentioned": []
 }

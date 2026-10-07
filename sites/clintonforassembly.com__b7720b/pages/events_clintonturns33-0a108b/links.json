@@ -1,15 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Rep.+Anderson%E2%80%99s+33rd+Birthday+Fundraiser&dates=20260527T223000Z%2F20260528T003000Z&location=101+Maple+Avenue%2C+Beloit%2C+WI%2C+53511%2C+United+States",
-"http://maps.google.com/?q=101+Maple+Avenue+Beloit%2C+WI%2C+53511+United+States",
-"https://clintonforassembly.com/",
-"https://clintonforassembly.com/about",
-"https://clintonforassembly.com/cart",
-"https://clintonforassembly.com/endorsements",
-"https://clintonforassembly.com/events",
-"https://clintonforassembly.com/events/2024-campaign-kickoff",
-"https://clintonforassembly.com/events/clintonturns33?format=ical",
-"https://clintonforassembly.com/issues",
-"https://facebook.com/Clinton-Anderson-for-Assembly-District-45-104142868937053",
-"https://secure.actblue.com/donate/clinton-for-45",
-"https://secure.actblue.com/donate/clintonturns33"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=101+maple+avenue+beloit%2C+wi%2C+53511+united+states"
+},
+{
+"text": "0",
+"href": "https://www.clintonforassembly.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.clintonforassembly.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.clintonforassembly.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/clinton-for-45"
+},
+{
+"text": "Endorsements",
+"href": "https://www.clintonforassembly.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.clintonforassembly.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rep.+Anderson%E2%80%99s+33rd+Birthday+Fundraiser&dates=20260527T223000Z%2F20260528T003000Z&location=101+Maple+Avenue%2C+Beloit%2C+WI%2C+53511%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.clintonforassembly.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/clintonturns33?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.clintonforassembly.com/issues"
+},
+{
+"text": "Previous Previous April 28 2024 Campaign Kickoff",
+"href": "https://www.clintonforassembly.com/events/2024-campaign-kickoff"
+},
+{
+"text": "[image: Clinton Anderson for Assembly]",
+"href": "https://www.clintonforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Clinton-Anderson-for-Assembly-District-45-104142868937053"
+},
+{
+"text": "https://secure.actblue.com/donate/clintonturns33",
+"href": "https://secure.actblue.com/donate/clintonturns33"
+}
 ]

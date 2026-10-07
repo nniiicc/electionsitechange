@@ -1,4 +1,6 @@
-U.S.
+Skip to content Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Brendan F.
+Boyle | U.S.
+Congress Representing Pennsylvania's 2nd District Facebook Twitter YouTube Instagram Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate City & State: Boyle and Progressives Push for Wealth Tax September 16, 2021 November 8, 2021 By: Justin Sweitzer Sep 15, 2021 U.S.
 Rep.
 Brendan Boyle joined forces with U.S.
 Sen.
@@ -14,8 +16,9 @@ Number two, it raises a boatload – or I should say a yacht-load – of money.
 And then number three, it is remarkably popular here in Pennsylvania,” Boyle said.
 Warren said a wealth tax could raise more than $1 trillion to fund Democratic priorities.
 “We can make this a better country if we ask those at the very top to pay a wealth tax, just to pitch in two cents,” Warren said on the call.
-“We could do two cents over a billion dollars in wealth and still raise over a trillion dollars in order to make those investments.”
-But while progressives are hoping to include a wealth tax to underwrite their legislative priorities, the Democratic Party is facing internal pressure from more moderate members who are concerned with the size and scope of the spending plan.
+“We could do two cents over a billion dollars in wealth and still raise over a trillion dollars in order to make those investments.” But while progressives are hoping to include a wealth tax to underwrite their legislative priorities, the Democratic Party is facing internal pressure from more moderate members who are concerned with the size and scope of the spending plan.
 West Virginia Sen.
 Joe Manchin, in particular, has indicated a desire to reduce the size and price tag of the $3.5 trillion spending bill, which has frustrated other Senate Democrats.
-To read the original article, CLICK HERE.
+To read the original article, CLICK HERE .
+Congressman Boyle on the new Democratic Majority Rep.
+Boyle Endorsed by Progressive Turnout Project Search Search Keep Up with Brendan First Name Last Name Email Back to Top Facebook Twitter YouTube Instagram Paid for by Citizens for Boyle Powered by Fluida & WordPress.

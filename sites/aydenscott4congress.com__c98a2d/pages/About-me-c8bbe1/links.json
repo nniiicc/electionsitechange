@@ -1,10 +1,38 @@
 [
-"https://aydenscott4congress.com/",
-"https://aydenscott4congress.com/About-me/About-me",
-"https://aydenscott4congress.com/About-me/Contacts",
-"https://aydenscott4congress.com/About-me/Donate",
-"https://aydenscott4congress.com/About-me/Issues",
-"https://aydenscott4congress.com/About-me/Stances-On-Issues",
-"https://opendata.gis.utah.gov/datasets/utah::utah-us-congress-districts-2026-to-2032/explore?location=39.496936%2C-111.587834%2C-1",
-"https://paypal.com/donate?hosted_button_id=Y6CVVDF26T4N6"
+{
+"text": ".com",
+"href": "mailto:info@example.com"
+},
+{
+"text": "About",
+"href": "https://www.aydenscott4congress.com/About-me/About-me/"
+},
+{
+"text": "Contact",
+"href": "https://www.aydenscott4congress.com/About-me/Contacts/"
+},
+{
+"text": "Do I live in District 3?",
+"href": "https://opendata.gis.utah.gov/datasets/utah::utah-us-congress-districts-2026-to-2032/explore?location=39.496936%2C-111.587834%2C-1"
+},
+{
+"text": "Donate Online",
+"href": "https://www.paypal.com/donate/?hosted_button_id=Y6CVVDF26T4N6"
+},
+{
+"text": "Home",
+"href": "https://www.aydenscott4congress.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.aydenscott4congress.com/About-me/Issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.aydenscott4congress.com/About-me/Donate/"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.aydenscott4congress.com/About-me/Stances-On-Issues/"
+}
 ]

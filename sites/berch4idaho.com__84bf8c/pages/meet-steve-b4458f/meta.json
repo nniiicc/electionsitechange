@@ -1,11 +1,15 @@
 {
  "description": "",
  "final_url": "https://berch4idaho.com/meet-steve",
- "paid_for_by": null,
+ "fingerprint": "394f4507a71dc94fc359d2f0aff8f1f25a3fbce1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet Steve",
  "years_mentioned": [
   "2013",
   "2018",
-  "2025"
+  "2019",
+  "2025",
+  "2026"
  ]
 }

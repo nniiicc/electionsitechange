@@ -1,7 +1,13 @@
 {
  "description": "I'm running to represent the people of House District 63B in Minnesota.",
  "final_url": "https://dianenapper.com/",
- "paid_for_by": null,
+ "fingerprint": "6557081ccb28af5419f8c55ba73f906a024f96b2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Diane Napper for MN Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "1989",
+  "1992",
+  "2002"
+ ]
 }

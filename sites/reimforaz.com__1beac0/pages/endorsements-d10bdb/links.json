@@ -1,14 +1,58 @@
 [
-"https://facebook.com/cody.reim",
-"https://instagram.com/codyreim247",
-"https://locations.maricopa.vote/",
-"https://reimforaz.com/",
-"https://reimforaz.com/about",
-"https://reimforaz.com/contact-2",
-"https://reimforaz.com/endorsements",
-"https://reimforaz.com/issues",
-"https://reimforaz.com/privacy-policy",
-"https://reimforaz.com/volunteer",
-"https://secure.anedot.com/reim-for-az/donate",
-"https://x.com/codyreim247"
+{
+"text": "About",
+"href": "https://reimforaz.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://reimforaz.com/contact-2/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/reim-for-az/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://reimforaz.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/cody.reim"
+},
+{
+"text": "Home",
+"href": "https://reimforaz.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/codyreim247/"
+},
+{
+"text": "Issues",
+"href": "https://reimforaz.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://reimforaz.com/privacy-policy/"
+},
+{
+"text": "VOTE BY November 3rd – CLICK TO FIND YOUR NEAREST VOTING LOCATION",
+"href": "https://locations.maricopa.vote"
+},
+{
+"text": "Volunteer",
+"href": "https://reimforaz.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/codyreim247"
+},
+{
+"text": "[image: Keep! Cody Reim, Conservative for State House Logo]",
+"href": "https://reimforaz.com"
+},
+{
+"text": "locations.maricopa.vote",
+"href": "https://locations.maricopa.vote"
+}
 ]

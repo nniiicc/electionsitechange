@@ -1,30 +1,162 @@
 [
-"http://facebook.com/audreyforarkansas",
-"https://audreyforarkansas.com/",
-"https://audreyforarkansas.com/blog",
-"https://audreyforarkansas.com/category/all-products",
-"https://audreyforarkansas.com/donation",
-"https://audreyforarkansas.com/get-involved",
-"https://audreyforarkansas.com/meet-audrey",
-"https://audreyforarkansas.com/platform",
-"https://audreyforarkansas.com/product-page/baseball-cap",
-"https://audreyforarkansas.com/product-page/ceramic-flower-vase",
-"https://audreyforarkansas.com/product-page/crew-t-shirt",
-"https://audreyforarkansas.com/product-page/essential-oil-diffuser",
-"https://audreyforarkansas.com/product-page/foaming-facial-cleanser",
-"https://audreyforarkansas.com/product-page/hydrating-eye-serum",
-"https://audreyforarkansas.com/product-page/knitted-golf-sweater",
-"https://audreyforarkansas.com/product-page/minimalist-tote-bag",
-"https://audreyforarkansas.com/product-page/round-eyeglasses",
-"https://audreyforarkansas.com/product-page/solid-wood-chair",
-"https://audreyforarkansas.com/product-page/stainless-steel-water-bottle",
-"https://audreyforarkansas.com/product-page/textured-loop-earrings",
-"https://audreyforarkansas.com/qualifications",
-"https://audreyforarkansas.com/team-4",
-"https://audreyforarkansas.com/terms-and-conditions",
-"https://instagram.com/audreyforarkansas",
-"https://linkedin.com/in/audreypwillis",
-"https://tiktok.com/@audreyforarkansas",
-"https://x.com/audreyforAR",
-"https://youtube.com/@AudreyForArkansas"
+{
+"text": "All Products",
+"href": "https://www.audreyforarkansas.com/category/all-products"
+},
+{
+"text": "Baseball CapRegular Price$129.00Sale Price$68.00",
+"href": "https://www.audreyforarkansas.com/product-page/baseball-cap"
+},
+{
+"text": "Ceramic Flower VasePrice$270.00",
+"href": "https://www.audreyforarkansas.com/product-page/ceramic-flower-vase"
+},
+{
+"text": "Crew T-ShirtPrice$120.00",
+"href": "https://www.audreyforarkansas.com/product-page/crew-t-shirt"
+},
+{
+"text": "DISTRICT 35",
+"href": "https://www.audreyforarkansas.com/blog"
+},
+{
+"text": "DONATE",
+"href": "https://www.audreyforarkansas.com/donation"
+},
+{
+"text": "EVENTS",
+"href": "https://www.audreyforarkansas.com/team-4"
+},
+{
+"text": "Essential Oil DiffuserPrice$119.00",
+"href": "https://www.audreyforarkansas.com/product-page/essential-oil-diffuser"
+},
+{
+"text": "Foaming Facial CleanserPrice$85.00",
+"href": "https://www.audreyforarkansas.com/product-page/foaming-facial-cleanser"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.audreyforarkansas.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.audreyforarkansas.com"
+},
+{
+"text": "Hydrating Eye Serum - Pre OrderPrice$56.00",
+"href": "https://www.audreyforarkansas.com/product-page/hydrating-eye-serum"
+},
+{
+"text": "Knitted Golf SweaterPrice$275.00",
+"href": "https://www.audreyforarkansas.com/product-page/knitted-golf-sweater"
+},
+{
+"text": "MEET AUDREY",
+"href": "https://www.audreyforarkansas.com/meet-audrey"
+},
+{
+"text": "Minimalist Tote BagPrice$20.00",
+"href": "https://www.audreyforarkansas.com/product-page/minimalist-tote-bag"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.audreyforarkansas.com/platform"
+},
+{
+"text": "QUALIFICATIONS",
+"href": "https://www.audreyforarkansas.com/qualifications"
+},
+{
+"text": "Round EyeglassesPrice$80.00",
+"href": "https://www.audreyforarkansas.com/product-page/round-eyeglasses"
+},
+{
+"text": "Solid Wood ChairPrice$690.00",
+"href": "https://www.audreyforarkansas.com/product-page/solid-wood-chair"
+},
+{
+"text": "Stainless Steel Water BottlePrice$199.00",
+"href": "https://www.audreyforarkansas.com/product-page/stainless-steel-water-bottle"
+},
+{
+"text": "Terms & Conditions | Privacy Policy | Accessibility Statement",
+"href": "https://www.audreyforarkansas.com/terms-and-conditions"
+},
+{
+"text": "Textured Loop EarringsPrice$269.00",
+"href": "https://www.audreyforarkansas.com/product-page/textured-loop-earrings"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@audreyforarkansas"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/audreyforAR"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@AudreyForArkansas"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/audreyforarkansas"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/audreyforarkansas/"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/audreypwillis/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.audreyforarkansas.com/product-page/crew-t-shirt"
+},
+{
+"text": "[image][image]",
+"href": "https://www.audreyforarkansas.com/product-page/essential-oil-diffuser"
+},
+{
+"text": "[image][image]",
+"href": "https://www.audreyforarkansas.com/product-page/foaming-facial-cleanser"
+},
+{
+"text": "[image][image]",
+"href": "https://www.audreyforarkansas.com/product-page/hydrating-eye-serum"
+},
+{
+"text": "[image][image]",
+"href": "https://www.audreyforarkansas.com/product-page/knitted-golf-sweater"
+},
+{
+"text": "[image][image]",
+"href": "https://www.audreyforarkansas.com/product-page/minimalist-tote-bag"
+},
+{
+"text": "[image][image]",
+"href": "https://www.audreyforarkansas.com/product-page/solid-wood-chair"
+},
+{
+"text": "[image][image]",
+"href": "https://www.audreyforarkansas.com/product-page/stainless-steel-water-bottle"
+},
+{
+"text": "[image][image]",
+"href": "https://www.audreyforarkansas.com/product-page/textured-loop-earrings"
+},
+{
+"text": "[image][image]Best Seller",
+"href": "https://www.audreyforarkansas.com/product-page/ceramic-flower-vase"
+},
+{
+"text": "[image][image]New",
+"href": "https://www.audreyforarkansas.com/product-page/round-eyeglasses"
+},
+{
+"text": "[image][image]Sale",
+"href": "https://www.audreyforarkansas.com/product-page/baseball-cap"
+}
 ]

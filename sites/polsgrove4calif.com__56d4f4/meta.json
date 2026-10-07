@@ -1,7 +1,11 @@
 {
  "description": "Jim Polsgrove for California State Assembly, District 31",
  "final_url": "https://www.polsgrove4calif.com/",
- "paid_for_by": null,
+ "fingerprint": "edfcdf543fee0bba17ac3f1328603f0eafd604d2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Home | Polsgrove For California",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

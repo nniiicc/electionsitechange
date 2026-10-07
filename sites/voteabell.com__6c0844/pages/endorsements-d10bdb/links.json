@@ -1,10 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61557828358617",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://secure.winred.com/abell-for-washington/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://voteabell.com/",
-"https://voteabell.com/about-hunter",
-"https://voteabell.com/accomplishments",
-"https://voteabell.com/endorsements",
-"https://voteabell.com/privacy-policy"
+{
+"text": "About Hunter",
+"href": "https://voteabell.com/about-hunter"
+},
+{
+"text": "Accomplishments",
+"href": "https://voteabell.com/accomplishments"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/abell-for-washington/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Endorsements",
+"href": "https://voteabell.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://voteabell.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://voteabell.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://voteabell.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61557828358617"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

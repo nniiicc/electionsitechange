@@ -1,9 +1,10 @@
-On The Issues
-Abortion
-In Depth
-[This is the text of the speech presented by Mr.
-Krawchuk to the Educational Testing Service Toastmasters]
-I’m a big fan of science fiction.
+Home Events Press Releases Issues Education Taxes Elections Abortion Crime Gun Control Drugs Welfare LGBT Environment Constitution Shutdowns Flock Cameras Data Centers Responses to Facebook Questions Volunteer Donate Campaign Songs Socials   Select Page On The Issues Abortion In Brief 9 Defuse the abortion issue by allowing for Pre-Natal Adoption.
+9 Pre-Natal Adoption saves babies.
+That’s Pro-Life.
+9 Pre-Natal Adoption preserves a woman’s right to choose.
+That’s Pro-Choice.
+9 Pro Life + Pro Choice = Pro Option In Depth [This is the text of the speech presented by Mr.
+Krawchuk to the Educational Testing Service Toastmasters] I’m a big fan of science fiction.
 One of my favorite fictional role models is Captain James T.
 Kirk of the Starship Enterprise.
 There was one episode where he was in a tight situation.
@@ -21,8 +22,7 @@ People feel very strongly about abortion, don’t they?
 People disagree about abortion.
 Did you ever look at the statistics?
 It’s always forty-some percent versus forty-some percent, with about ten percent who won’t say.
-People are divided about abortion, so much so that it must have been King Solomon himself who set the rules of the debate: “Let it be divided.”
-And so it is.
+People are divided about abortion, so much so that it must have been King Solomon himself who set the rules of the debate: “Let it be divided.” And so it is.
 But imagine, for a moment, that you were King Solomon (or Queen Solomon), and that your wish was the world’s command.
 When it came to abortion, what would you wish for your world?
 Pro life?
@@ -88,3 +88,4 @@ With one decree we can turn a divisive no-win scenario into one where everyone w
 And it doesn’t take a Mr.
 Spock to see the logic in that.
 We only have to try for it.
+Home Events Press Releases Issues Volunteer Donate Campaign Songs Socials Facebook X RSS Designed by Elegant Themes | Powered by WordPress

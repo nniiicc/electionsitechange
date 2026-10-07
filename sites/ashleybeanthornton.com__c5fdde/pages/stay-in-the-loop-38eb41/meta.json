@@ -1,7 +1,9 @@
 {
  "description": "Sign up to get campaign updates from Ashley Bean Thornton, candidate for Texas House District 56. Stay informed, stay connected, and help shape a fairer Texas.",
  "final_url": "https://ashleybeanthornton.com/stay-in-the-loop/",
- "paid_for_by": null,
+ "fingerprint": "344009e90f2179bb226b400b7bbeb93460dab88f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Stay In The Loop - Ashley Bean Thornton",
  "years_mentioned": []
 }

@@ -1,4 +1,5 @@
-Let me begin by thanking the Speaker.
+Skip to content Home Bio Contact Endorsements/Testimonials In the news Nuclear power a clean energy option?
+Newsletter Opioid Coalition Photos/Video Priorities Economy and Jobs Education Civility in Government Strategic planning Speeches A farm story – Six Pillars 2006 Adaptation to Life – Bates College Class Speech (1983) Americans look out for one another – graduation 2010 Arts Advocacy Day in Franklin Creativity, civility and responsibility – graduation 2011 Floor remarks on Healthcare reform Franklin Memorial Day Ceremony – 2014 Genocide Education Act – 2021 HMMS All In Reading and Veteran’s Day Event – 2014 Horace Mann dedication remarks Library dedications Maiden speech on H1566 – online legal notices Manufacturing Roundtable at Worcester Regional Chamber of Commerce Medway High Civics Day Remarks Next-generation roadmap for Massachusetts climate policy Offshore wind and clean energy act Pay it forward – Six Pillar Induction Remarks on Step therapy and patient safety Tear down some more walls – Graduation 2008 The Pluto Class – Graduation 2007 What are you doing for justice? – Six Pillars 2010 State House Tours Blog posts Donate Genocide Education Act – 2021 Let me begin by thanking the Speaker.
 As a former teacher, you know the importance of education and your leadership in bringing the genocide education act to the floor will give students throughout the Commonwealth an opportunity to receive a greater understanding of these horrors of history, and learn more about the human condition.
 I thank the gentleman from Boston for your commitment to and recognition of the importance of teaching students about genocide and the impact they have on society.
 I thank the gentlelady from Wellesley for taking all of the testimony, and with your deep understanding of education, crafting a bill that not only prescribes the teaching of genocide, but provides the funding mechanism to make it happen in our schools.
@@ -30,9 +31,16 @@ It is not simply history, but a warning.
 By including genocide in the curriculum students will have the opportunity to explore how stereotypes, prejudice, and religious and ethnic hatred can escalate to atrocity.
 It can also deter indifference to crimes against humanity and human suffering wherever they may occur.
 Unfortunately, memory of prior atrocities is fading.
-Indeed, a recent survey demonstrated that 22% of American millennial’s have never heard of the Holocaust or unsure whether they have heard of it. 66% of youth 18 to 34 didn’t recognize the word “Auschwitz.” Only 35% of all Americans know about the Armenian Genocide.
+Indeed, a recent survey demonstrated that 22% of American millennial’s have never heard of the Holocaust or unsure whether they have heard of it.
+66% of youth 18 to 34 didn’t recognize the word “Auschwitz.” Only 35% of all Americans know about the Armenian Genocide.
 In Massachusetts, 35 percent of young adults surveyed didn’t know what Auschwitz was, and half didn’t know that 6 million Jewish people were killed in the Holocaust.
 We hope, in the long run, that we will have a generation of adults that will have been exposed to this type of education so it will improve humanity.
 In the short term, we hope that it heightens awareness of the impact of some of the troubling events that we’ve seen here in Massachusetts.
 We can prevent problems from becoming systemic if we equip everyone with the knowledge, the skills, and the confidence to intervene — and genocide education is one of the ingredients to do that.
 For all of these reasons, we hope that you will support this legislation and provide Massachusetts public school students the opportunity to take in these lessons, deepen their understanding, and improve the human condition.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Like Loading...
+Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
+Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?
+Log in now. jeffreyroy.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

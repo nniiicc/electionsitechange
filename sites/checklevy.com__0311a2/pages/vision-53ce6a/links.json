@@ -1,23 +1,90 @@
 [
-"http://instagram.com/checklevy",
-"https://census.gov/",
-"https://checklevy.com/",
-"https://checklevy.com/about",
-"https://checklevy.com/news",
-"https://checklevy.com/upcoming-events",
-"https://checklevy.com/vision",
-"https://datausa.io/",
-"https://dpi.nc.gov/",
-"https://facebook.com/CheckLevy",
-"https://familyforwardnc.com/",
-"https://forms.gle/777hBZG1XSBeRcJPA",
-"https://livingwage.mit.edu/",
-"https://mecknc.gov/",
-"https://medicaid.ncdhhs.gov/",
-"https://mlmcreativestudio.com/",
-"https://ncbroadband.gov/",
-"https://ncdhhs.gov/",
-"https://ncleg.gov/FindYourLegislators",
-"https://nea.org/",
-"https://secure.actblue.com/donate/veleria-m-levy-1"
+{
+"text": "About",
+"href": "https://www.checklevy.com/about"
+},
+{
+"text": "Are you in District 99? Check your address ✓",
+"href": "https://www.ncleg.gov/FindYourLegislators"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/veleria-m-levy-1"
+},
+{
+"text": "Events",
+"href": "https://www.checklevy.com/upcoming-events"
+},
+{
+"text": "FOR NC HOUSE DISTRICT 99",
+"href": "https://www.checklevy.com"
+},
+{
+"text": "Get Involved",
+"href": "https://forms.gle/777hBZG1XSBeRcJPA"
+},
+{
+"text": "MLM Creative",
+"href": "https://www.mlmcreativestudio.com/"
+},
+{
+"text": "News",
+"href": "https://www.checklevy.com/news"
+},
+{
+"text": "VELERIA M. LEVY",
+"href": "https://www.checklevy.com"
+},
+{
+"text": "Vision",
+"href": "https://www.checklevy.com/vision"
+},
+{
+"text": "[image]",
+"href": "http://instagram.com/checklevy"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/CheckLevy"
+},
+{
+"text": "[no text]",
+"href": "https://datausa.io"
+},
+{
+"text": "[no text]",
+"href": "https://familyforwardnc.com"
+},
+{
+"text": "[no text]",
+"href": "https://livingwage.mit.edu"
+},
+{
+"text": "[no text]",
+"href": "https://medicaid.ncdhhs.gov"
+},
+{
+"text": "[no text]",
+"href": "https://www.census.gov"
+},
+{
+"text": "[no text]",
+"href": "https://www.dpi.nc.gov"
+},
+{
+"text": "[no text]",
+"href": "https://www.mecknc.gov"
+},
+{
+"text": "[no text]",
+"href": "https://www.ncbroadband.gov"
+},
+{
+"text": "[no text]",
+"href": "https://www.ncdhhs.gov"
+},
+{
+"text": "[no text]",
+"href": "https://www.nea.org"
+}
 ]

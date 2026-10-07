@@ -1,6 +1,5 @@
-"I formally endorse Shannon Kessler for State Assembly and give permission for this endorsement to be publicly listed by the campaign.”*
-Share a brief statement (1–3 sentences) explaining why you endorse Shannon Kessler for Assembly District 30.
-Permission to use name, title, organization, and approved quote in campaign materials
-Checkbox confirming signer is authorized to endorse on behalf of the organization*
-Typed full name
-Add your text
+top of page Shannon Kessler CA Assembly — District 30 Support the campaign Vote About Priorities Endorsements Support Join the Team Events Endorse Shannon News Blog Endorse Shannon Kessler Endorser Type Individual/Community Member Business Owner Educator Law Enforcement/Public Safety Professional Veteran Faith Leader Community Organization Elected Official First name * Last name * Organization/Title (if applicable) Email * City/County Phone "I formally endorse Shannon Kessler for State Assembly and give permission for this endorsement to be publicly listed by the campaign.” * Endorser Quote (Optional) Share a brief statement (1–3 sentences) explaining why you endorse Shannon Kessler for Assembly District 30.
+I give permission to use my name, title, organization, and approved quote in campaign materials.
+I am authorized to make this endorsement, including on behalf of any organization I have listed. * Signature Typed full name See our Privacy Policy Submit Endorsement PO Box 160 Arroyo Grande, CA 93421 Paid for by Shannon Kessler for Assembly 2026, FPPC ID #1483111.
+Privacy Policy kesslerforca@gmail.com Kessler For California D istrict 30 © # by Kessler For California District 30.
+Powered and secured by Wix bottom of page

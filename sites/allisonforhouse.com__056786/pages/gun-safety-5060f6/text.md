@@ -1,8 +1,4 @@
-Gun Safety
-As a gun owner, I will uphold the Constitution, including the Second Amendment.
-I understand that we can respect an individual’s right to bear arms while enacting policies to protect our children and promote public safety.
-As your state representative, I will work to:
-- Place restrictions on assault weapons such as the AR-15
-- Close the gun-show loophole and require background checks on all gun sales
-- Banning bump-stocks and other firearm accessories that increase a weapon’s lethality
-- Limiting magazine capacity and the number of rounds of ammunition that can be acquired at each purchase
+Home About Allison About Allison Legislative History Why I'm Running News Issues Issues Index A Fair Economy for All Education Social Justice & Equality Gun Safety Our Environment Health Care Voter Resources Are you in NC House District 11 Registering to Vote Take Action Take Action Volunteer Newsletter Merch DONATE Home About Allison About Allison Legislative History Why I'm Running News Issues Issues Index A Fair Economy for All Education Social Justice & Equality Gun Safety Our Environment Health Care Voter Resources Are you in NC House District 11 Registering to Vote Take Action Take Action Volunteer Newsletter Merch DONATE Issues Issues Index A Fair Economy for All Education Social Justice & Equality Gun Safety Our Environment Health Care Gun Safety As a gun owner, I will uphold the Constitution, including the Second Amendment.
+I understand that we can respect an individual’s right to bear arms while enacting policies to protect our children and promote public safety .
+As your state representative, I will work to: Place restrictions on assault weapons such as the AR-15 Close the gun-show loophole and require background checks on all gun sales Banning bump-stocks and other firearm accessories that increase a weapon’s lethality Limiting magazine capacity and the number of rounds of ammunition that can be acquired at each purchase Back to Top Paid for by Allison for House P.O.
+Box 37213 Raleigh, NC 27627

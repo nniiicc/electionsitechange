@@ -1,7 +1,7 @@
-Colorado House District 47
-Standing With Vic
-Working people, scientists, and advocates across Colorado have put their names behind this campaign.
+VIC MEYERS For Democracy Home About Vic Issues Get Involved Endorsements Get a Yard Sign Contact Donate Colorado House District 47 Standing With Vic Working people, scientists, and advocates across Colorado have put their names behind this campaign.
 Here’s who’s in our corner.
-Add your name to the list
-Endorsements don’t knock doors or fill mailboxes — neighbors do.
+Organized Labor Science Reproductive Rights Community Veterans Endorsed Colorado AFL-CIO Organized Labor Endorsed Planned Parenthood Rocky Mountains Action Fund Reproductive Rights Endorsed 3.14 Action Fund Science Endorsed Cobalt Reproductive Rights Endorsed National Association of Letter Carriers, Branch 229 Organized Labor Endorsed Vote For Kindness Community Endorsed Smart Local Union 9 Sheet Metal Workers Endorsed Southern Colorado Labor Council Voter Guide Endorsed Colorado Fiscal Institute Action Fund 2026 Fiscal Champion Endorsed Colorado Education Association Education Endorsed Vote Vets Vets for Democracy Endorsed SEIU Colorado SEIU Colorado for Democracy Endorsed Colorado Black Woman for Political Action for Vic Meyers Endorsed Colorado Working Families Party for Vic Meyers Add your name to the list Endorsements don’t knock doors or fill mailboxes — neighbors do.
 Join the team working to flip House District 47.
+Volunteer Donate Quick Links Home About Vic Issues Get Involved Contact Connect Contact Us Form YouTube @vicmeyers1243 Linktree Donate via ActBlue Follow Vic ▶ 🔗 © # Vic Meyers for Democracy.
+All rights reserved.
+Paid for by Vic Meyers for Democracy registered agent: Vic Meyers

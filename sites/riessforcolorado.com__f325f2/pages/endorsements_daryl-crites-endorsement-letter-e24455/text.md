@@ -1,4 +1,4 @@
-I have known and worked with Naomi Riess since the 1990s.
+DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Daryl Crites Daryl Crites I have known and worked with Naomi Riess since the 1990s.
 We first worked together on a subdivision project, where I handled the surveying and Naomi handled the land-use approvals.
 Since then, we have worked together on many projects throughout La Plata County.
 Land and development work can get complicated quickly.
@@ -13,7 +13,5 @@ She listens, asks the right questions, and looks for solutions instead of making
 That kind of experience and common sense would be valuable at the State Capitol.
 I support Naomi Riess for Colorado House District 59.
 Daryl Z.
-Crites
-La Plata County Surveyor
-Professional Land Surveyor
-This is my personal endorsement and does not represent La Plata County.
+Crites La Plata County Surveyor Professional Land Surveyor This is my personal endorsement and does not represent La Plata County.
+Paid for by Riess for Colorado John Rice, Registered Agent Contact 970.946.3561 info@riessforcolorado.com PO BOX 1045 Durango, CO 81302 Media Kit Follow Riess for Colorado on Facebook Riess for Colorado Follow Naomi On Flickr

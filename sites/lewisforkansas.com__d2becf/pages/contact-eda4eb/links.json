@@ -1,11 +1,50 @@
 [
-"https://facebook.com/people/Lewis-For-Kansas/61562259787943",
-"https://forms.gle/L9BBVGH2GhJiPm3BA",
-"https://lewisforkansas.com/",
-"https://lewisforkansas.com/about",
-"https://lewisforkansas.com/contact",
-"https://lewisforkansas.com/election-info",
-"https://lewisforkansas.com/issues",
-"https://lewisforkansas.com/privacy",
-"https://secure.actblue.com/donate/lewisforkansas"
+{
+"text": "About",
+"href": "https://www.lewisforkansas.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.lewisforkansas.com/contact/"
+},
+{
+"text": "Election Info",
+"href": "https://www.lewisforkansas.com/election-info/"
+},
+{
+"text": "Home",
+"href": "https://www.lewisforkansas.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.lewisforkansas.com/issues/"
+},
+{
+"text": "Lewis For Kansas",
+"href": "https://www.lewisforkansas.com/"
+},
+{
+"text": "Privacy",
+"href": "https://www.lewisforkansas.com/privacy"
+},
+{
+"text": "Support",
+"href": "https://secure.actblue.com/donate/lewisforkansas"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/L9BBVGH2GhJiPm3BA"
+},
+{
+"text": "[image: Lewis For Kansas]",
+"href": "https://www.lewisforkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Lewis-For-Kansas/61562259787943/"
+},
+{
+"text": "lewisforkansas@gmail.com",
+"href": "mailto:lewisforkansas@gmail.com"
+}
 ]

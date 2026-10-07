@@ -1,16 +1,66 @@
 [
-"http://teresareillyfordelegate.com/",
-"http://teresareillyfordelegate.com/about",
-"http://teresareillyfordelegate.com/category/news",
-"http://teresareillyfordelegate.com/contact-us",
-"http://teresareillyfordelegate.com/newsletter",
-"http://teresareillyfordelegate.com/priorities",
-"http://teresareillyfordelegate.com/requestasign",
-"http://teresareillyfordelegate.com/resources",
-"http://teresareillyfordelegate.com/scholarship",
-"http://teresareillyfordelegate.com/wp-content/uploads/2018/08/Jim-Mason-Teresa.png",
-"http://teresareillyfordelegate.com/wp-content/uploads/2018/08/family.png",
-"http://teresareillyfordelegate.com/wp-content/uploads/2018/10/Delegate-Teresa-Reilly-District-35B-Cecil-and-Harford-Counties.jpg",
-"http://tutorialchip.com/",
-"http://wordpress.org/"
+{
+"text": "About",
+"href": "http://teresareillyfordelegate.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "http://teresareillyfordelegate.com/contact-us/"
+},
+{
+"text": "Home",
+"href": "http://teresareillyfordelegate.com/"
+},
+{
+"text": "News",
+"href": "http://teresareillyfordelegate.com/category/news/"
+},
+{
+"text": "Priorities",
+"href": "http://teresareillyfordelegate.com/priorities/"
+},
+{
+"text": "Resources",
+"href": "http://teresareillyfordelegate.com/resources/"
+},
+{
+"text": "Scholarship",
+"href": "http://teresareillyfordelegate.com/scholarship/"
+},
+{
+"text": "TutorialChip",
+"href": "http://www.tutorialchip.com/"
+},
+{
+"text": "WordPress 5.4.16",
+"href": "http://wordpress.org/"
+},
+{
+"text": "[image]",
+"href": "http://teresareillyfordelegate.com/"
+},
+{
+"text": "[image]",
+"href": "http://teresareillyfordelegate.com/requestasign/"
+},
+{
+"text": "[image]",
+"href": "http://teresareillyfordelegate.com/wp-content/uploads/2018/08/Jim-Mason-Teresa.png"
+},
+{
+"text": "[image]",
+"href": "http://teresareillyfordelegate.com/wp-content/uploads/2018/08/family.png"
+},
+{
+"text": "[image]",
+"href": "http://teresareillyfordelegate.com/wp-content/uploads/2018/10/Delegate-Teresa-Reilly-District-35B-Cecil-and-Harford-Counties.jpg"
+},
+{
+"text": "[no text]",
+"href": "http://teresareillyfordelegate.com/"
+},
+{
+"text": "weekly e-newsletters",
+"href": "http://teresareillyfordelegate.com/newsletter"
+}
 ]

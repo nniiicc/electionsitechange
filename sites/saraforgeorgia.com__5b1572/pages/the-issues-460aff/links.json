@@ -1,12 +1,54 @@
 [
-"http://facebook.com/saraforgeorgia",
-"http://instagram.com/saraforgeorgia",
-"https://saraforgeorgia.com/",
-"https://saraforgeorgia.com/cart",
-"https://saraforgeorgia.com/how-to-vote",
-"https://saraforgeorgia.com/newsroom",
-"https://saraforgeorgia.com/our-opponent",
-"https://saraforgeorgia.com/the-issues",
-"https://saraforgeorgia.com/your-candidate",
-"https://secure.actblue.com/donate/saraforgeorgia"
+{
+"text": "0",
+"href": "https://www.saraforgeorgia.com/cart"
+},
+{
+"text": "Chip in",
+"href": "https://secure.actblue.com/donate/saraforgeorgia"
+},
+{
+"text": "Contact me",
+"href": "mailto:sara@saraforgeorgia.com"
+},
+{
+"text": "FAQ",
+"href": "https://www.saraforgeorgia.com/faq"
+},
+{
+"text": "How to vote",
+"href": "https://www.saraforgeorgia.com/how-to-vote"
+},
+{
+"text": "Newsroom",
+"href": "https://www.saraforgeorgia.com/newsroom"
+},
+{
+"text": "Our opponent",
+"href": "https://www.saraforgeorgia.com/our-opponent"
+},
+{
+"text": "Support our campaign!",
+"href": "https://secure.actblue.com/donate/saraforgeorgia"
+},
+{
+"text": "The issues",
+"href": "https://www.saraforgeorgia.com/the-issues"
+},
+{
+"text": "Your candidate",
+"href": "https://www.saraforgeorgia.com/your-candidate"
+},
+{
+"text": "[image: Sara Fuchs is the Democratic candidate for Georgia State House District 49, representing parts of Alpharetta, Roswell and Milton, in the November 3, 2026 election.]",
+"href": "https://www.saraforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/saraforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/saraforgeorgia"
+}
 ]

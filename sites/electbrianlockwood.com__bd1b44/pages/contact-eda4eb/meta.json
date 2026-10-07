@@ -1,7 +1,9 @@
 {
  "description": "Contact the Brian Lockwood Campaign",
  "final_url": "https://www.electbrianlockwood.com/contact",
- "paid_for_by": null,
+ "fingerprint": "314b5369fa6fe73c045c20bcc07baeea2836fdaa",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact the Brian Lockwood Campaign",
  "years_mentioned": [
   "2026"

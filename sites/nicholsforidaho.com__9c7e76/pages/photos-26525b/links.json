@@ -1,50 +1,198 @@
 [
-"https://facebook.com/nicholsforidaho",
-"https://instagram.com/nicholsforidaho",
-"https://nicholsforidaho.com/",
-"https://nicholsforidaho.com/about",
-"https://nicholsforidaho.com/contact",
-"https://nicholsforidaho.com/donate",
-"https://nicholsforidaho.com/endorsements-awards",
-"https://nicholsforidaho.com/for-the-record",
-"https://nicholsforidaho.com/issues",
-"https://nicholsforidaho.com/media",
-"https://nicholsforidaho.com/photos",
-"https://nicholsforidaho.com/social-media-policy",
-"https://nicholsforidaho.com/voter-guide",
-"https://nicholsforidaho.com/wp-content/uploads/2022/12/3e93d7b0a7f609218f2062e6b25a061c.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2022/12/47c16d374f51c53934cf54dc25430aa7.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2022/12/IMG_20190413_142928_829-scaled.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2022/12/bcaf4d811792154b2f03702e8c56f195.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2022/12/c112ece38e28a59d4f2b5d16b8c2d956.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2022/12/f44aab35df486f4791f64f7ad7ccde41.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2022/12/state_of_the_state_3.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2022/12/tammy_2-scaled.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2022/12/tammy_3.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2022/12/tammy_4.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2022/12/tammy_5.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/09/Chloe.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/09/DC-4.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/09/Federalism-Committee-PIcture.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/CPAC.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/Conservatives-of-1.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/Debating-bill.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/Defund-PP-Group.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/District-10.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/FFA-kids.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/Live-Action-1.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/Live-Action-2.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/Night-Out.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/Playground.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/SLC-pic.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/TVRW-May-Meeting-1.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/Tractor-Supply-1.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/Trump-Dress.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/capital-clarity.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/capitol-tour-1.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/idaho-day-2.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/pages.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/parade-america-1.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2025/09/potato.jpg",
-"https://twitter.com/nicholsforidaho"
+{
+"text": "About",
+"href": "https://nicholsforidaho.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://nicholsforidaho.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://nicholsforidaho.com/donate/"
+},
+{
+"text": "Endorsements & Awards",
+"href": "https://nicholsforidaho.com/endorsements-awards/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/nicholsforidaho"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/nicholsforidaho"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/nicholsforidaho/"
+},
+{
+"text": "Home",
+"href": "https://nicholsforidaho.com/"
+},
+{
+"text": "Issues",
+"href": "https://nicholsforidaho.com/issues/"
+},
+{
+"text": "My Record",
+"href": "https://nicholsforidaho.com/for-the-record/"
+},
+{
+"text": "Newsletters",
+"href": "https://nicholsforidaho.com/media/"
+},
+{
+"text": "Photos",
+"href": "https://nicholsforidaho.com/photos/"
+},
+{
+"text": "Social Media Comment Policy",
+"href": "https://nicholsforidaho.com/social-media-policy/"
+},
+{
+"text": "Voter Information",
+"href": "https://nicholsforidaho.com/voter-guide/"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2022/12/3e93d7b0a7f609218f2062e6b25a061c.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2022/12/47c16d374f51c53934cf54dc25430aa7.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2022/12/IMG_20190413_142928_829-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2022/12/bcaf4d811792154b2f03702e8c56f195.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2022/12/c112ece38e28a59d4f2b5d16b8c2d956.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2022/12/f44aab35df486f4791f64f7ad7ccde41.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2022/12/state_of_the_state_3.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2022/12/tammy_2-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2022/12/tammy_3.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2022/12/tammy_4.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2022/12/tammy_5.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/09/Chloe.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/09/DC-4.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/09/Federalism-Committee-PIcture.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/CPAC.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/Conservatives-of-1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/Debating-bill.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/Defund-PP-Group.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/District-10.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/FFA-kids.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/Live-Action-1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/Live-Action-2.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/Night-Out.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/Playground.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/SLC-pic.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/TVRW-May-Meeting-1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/Tractor-Supply-1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/Trump-Dress.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/capital-clarity.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/capitol-tour-1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/idaho-day-2.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/pages.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/parade-america-1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2025/09/potato.jpg"
+}
 ]

@@ -1,40 +1,4 @@
-Skip to content
-Menu
-Home
-Meet Carole
-Events
-Photos
-News
-Fall River Housing Navigation Guide
-Hot Jobs
-Press Release
-Southcoast Rail Update
-Contact
-Keeping Up With Carole
-« All Events
-Office Hours – North End Senior Center
-October 20 @ 10:30 am
--
-11:15 am
-«
-Coffee and Conversation
-Office Hours – Flint Senior Center
-»
-Related
-+ Google Calendar
-+ iCal Export
-Details
-Date:
-October 20
-Time:
-10:30 am - 11:15 am
-Event Tags:
-Office Hours
-Venue
-101 President Avenue.
-Fall River, MA
-Loading Comments...
+Skip to content Menu Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole « All Events Office Hours – North End Senior Center October 20 @ 10:30 am - 11:15 am « Coffee and Conversation Office Hours – Flint Senior Center » Related + Google Calendar + iCal Export Details Date: October 20 Time: 10:30 am - 11:15 am Event Tags: Office Hours Venue 101 President Avenue.
+Fall River, MA « Coffee and Conversation Office Hours – Flint Senior Center » Sitemap Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole Recent Posts 10/5/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 9/28/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 9/15/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 8/31/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 4/6/2026 Weekly Hot Jobs from the Fall River MassHire Career Center Sign up to the Newsletter Email Address Find it 2016 Carole Fiola State Representative, The 6th Bristol District Fall River Marketing Loading Comments...
 Write a Comment...
-Email (Required)
-Name (Required)
-Website
+Email (Required) Name (Required) Website

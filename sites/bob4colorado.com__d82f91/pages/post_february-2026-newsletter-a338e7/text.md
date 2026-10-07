@@ -1,25 +1,6 @@
-February 2026 Newsletter
-Rep.
+top of page About Platform News Events HD43 Canvass Contact More Use tab to navigate through the menu items.
+DONATE All Posts 2026 Campaign Re-Elect Bob Marshall 2026 Legislative Newsletters 2025 Legislative Newsletters Search February 2026 Newsletter Rep Bob Marshall Feb 6 1 min read Rep.
 Marshall writes several newsletter through the year, frequency is based on what is happening at the capitol and locally.
-You can see all past issues here.
-February 2026 Newsletter 02/06/2026
-Table of Contents
-- 75th General Assembly - Second Regular Session
-- Bills Introduced
-- HB26-1121: Public Accessibility of Emissions Records
-- HB26-1057: Veterans License Plate & Taxes & Fees
-- HB26-1026: Expanding Plan Options for PERA
-- SB26-005: Monuments Record Placement Submission Maintenance
-- SB26-057: School Board Elections Director District Residents
-- HB26-1022: Jury Duty Opt-Out for People 72 Years or Older
-- Bills Planned for Future Introduction
-- My Work in Committee
-- Minneapolis Visit and Immigration
-- Pre-session Townhalls
-- HD43 District Highlights
-- Douglas County School District
-- Highlands Ranch Community Association
-- Highlands Ranch Metro District
-- Douglas County Outstanding Youth Award
-- Legislative Aides
-- In the News
+You can see all past issues here .
+February 2026 Newsletter 02/06/2026 Table of Contents 75th General Assembly - Second Regular Session Bills Introduced HB26-1121: Public Accessibility of Emissions Records HB26-1057: Veterans License Plate & Taxes & Fees HB26-1026: Expanding Plan Options for PERA SB26-005: Monuments Record Placement Submission Maintenance SB26-057: School Board Elections Director District Residents HB26-1022: Jury Duty Opt-Out for People 72 Years or Older Bills Planned for Future Introduction My Work in Committee Minneapolis Visit and Immigration Pre-session Townhalls HD43 District Highlights Douglas County School District Highlands Ranch Community Association Highlands Ranch Metro District Douglas County Outstanding Youth Award Legislative Aides In the News 2026 Legislative Newsletters Recent Posts See All April Newsletter Legislative Updates and Upcoming Townhall Paid for by Bob4Colorado ​ Registered Agent: Robert Marshall DONATE BOB MARSHALL IS A RETIRED MARINE CORPS OFFICER.
+USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY, MARINE CORPS OR DEPARTMENT OF DEFENSE. bottom of page

@@ -1,5 +1,5 @@
-Q&A
-You’ve come to the right place: a platform for questions and answers concerning Sharon Chung's campaign.
+top of page Home Meet Sharon Q&A Endorsements Get Involved News Privacy Policy More Use tab to navigate through the menu items.
+FOR 91st DISTRICT - ILLINOIS HOUSE Sharon Chung DONATE SUBSCRIBE Q&A You’ve come to the right place: a platform for questions and answers concerning Sharon Chung's campaign.
 We see interacting with voters, honesty and consistency in our campaign, and accountability as important parts of getting our points across.
 How do you feel about the affordability of health care?
 The high cost of health care often prevents people from getting necessary care or getting medication prescriptions filled.
@@ -21,3 +21,11 @@ I know our dollars aren’t going as far these days.
 The rising cost of living and inflation makes it tough to keep the bills paid and food on the table.
 I support cutting gas taxes, grocery taxes, and lowering the cost of health care.
 It’s these measures that will directly impact the people most affected by inflation and cost of living increases.
+Let's Chat Phone (309) 846 5193 Email Sharon@Chungforillinois.com Social Media First Name Last Name Email Message Thanks for submitting!
+Send START CHANGING Support Our Cause DONATE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+Home Meet Sharon News Events Get Involved ​ Sharon Chung - FOR IL-91 - © # by Friends of Sharon Chung Paid for by Friends of Sharon Chung ​ sharon@chungforillinois.com 847-828-4579 ​ By providing your number you are opting into text messages from Friends of Sharon Chung.
+Opt-out information: reply STOP to stop.
+Customer care contact information: Reply HELP for help.
+Message frequency varies.
+Message and data rates may apply.
+See our privacy policy. ​ ​ bottom of page

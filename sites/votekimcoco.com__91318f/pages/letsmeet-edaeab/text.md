@@ -1,104 +1,51 @@
-Keahou Place In front of Down To Earth
-Keahou Place
-In front of Down To Earth
-Wednesday, May 27, 4:30-6pm
-440 Keawe
-400 Keawe, Six Eighty & The Flats at Puunui
-@ 440 Keawe
-Monday, May 25, 4:30-6pm
-Kim Coco Progressive Birthday Dinner Party
-Join us Saturday night in Downtown Honolulu:
-May 23
-6:30 –9:00 PM
-Pupus and drinks at Native Books at Arts & Letters
-1164 Nuuanu Ave
-We’re keeping this campaign truly people-powered.
-We only accept up to $100 per donor per election cycle and will refund anything over.
+Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me EVENTS May 30 8:00 AM 08:00 Canvass Kakaako Farmers Market Saturday, May 30, 2026 8:00 AM 9:30 AM 08:00 09:30 Ala Moana Blvd @ Ward Honolulu (map) Google Calendar ICS Ala Moana Blvd @ Ward Saturday, May 30, 8-9:30am View Event → May 28 4:30 PM 16:30 Canvass Keola La'i, South @ Queen Thursday, May 28, 2026 4:30 PM 6:00 PM 16:30 18:00 South @ Queen Honolulu, HI, 96813 United States (map) Google Calendar ICS Keola La'i , South @ Queen Thursday, May 28, 4:30-6pm View Event → May 27 4:30 PM 16:30 Canvass Keahou Place In front of Down To Earth Wednesday, May 27, 2026 4:30 PM 6:00 PM 16:30 18:00 500 Keawe Street Honolulu, HI, 96813 United States (map) Google Calendar ICS Keahou Place In front of Down To Earth Wednesday, May 27, 4:30-6pm View Event → May 26 4:30 PM 16:30 Canvass Ulana @ 828 Auahi Tuesday, May 26, 2026 4:30 PM 6:00 PM 16:30 18:00 828 Auahi st Honolulu, HI, 96813 United States (map) Google Calendar ICS Ulana @ 828 Auahi Tuesday, May 26, 4:30-6pm View Event → May 25 4:30 PM 16:30 Canvass 440 Keawe Monday, May 25, 2026 4:30 PM 6:00 PM 16:30 18:00 400 Keawe Street Honolulu, HI, 96813 United States (map) Google Calendar ICS 400 Keawe, Six Eighty & The Flats at Puunui @ 440 Keawe Monday, May 25, 4:30-6pm View Event → May 23 6:30 PM 18:30 Kim Coco Progressive Birthday Dinner Party Saturday, May 23, 2026 6:30 PM 7:30 PM 18:30 19:30 Arts and Letters (map) Google Calendar ICS Join us Saturday night in Downtown Honolulu: May 23 6:30 –9:00 PM Pupus and drinks at Native Books at Arts & Letters 1164 Nuuanu Ave We’re keeping this campaign truly people-powered.
+We only accept up to $# per donor per election cycle and will refund anything over.
+Buy your ticket here.
 If you are able to give more, consider also donating to the campaigns of the progressive, game-changing candidates I am co-hosting with.
-They need the support, and they’ll be key partners in advancing our shared agenda for change:
-Janel Fujinaka (HD26)
-Jordan Nakamura (SD13)
-All tickets include an after-party at
-Scarlet Honolulu
-8:30 - 10 pm (or until 2 am!)
-The show starts at 9 pm
-Each ticket includes pupu and drinks at Arts and Letters and after-party entry at Scarlet Honolulu (admission before 10 PM and two drink tickets)
-Keawe @ Halekauwila
-Ililani, Keahou Lane, & Halekauwila Place
-Keawe @ Halekauwila
-Friday, May 22, 4:30-6pm
-Sidewalk Talk with Kim Coco!
-Harbor Court @ Merchant St.
-Harbor Court @ Merchant St.
-Tuesday, May 19, 4:30-6pm
-4:30-6pm
-Bishop @ Hotel St.
-Executive Center, Bishop @ Hotel St.,
-Saturday, May 16,
-8-9:30am
-Coffee Talk with Kim Coco!
+They need the support, and they’ll be key partners in advancing our shared agenda for change: Janel Fujinaka (HD26) Jordan Nakamura (SD13) All tickets include an after-party at Scarlet Honolulu 8:30 - 10 pm (or until 2 am!) The show starts at 9 pm Each ticket includes pupu and drinks at Arts and Letters and after-party entry at Scarlet Honolulu (admission before 10 PM and two drink tickets) View Event → May 22 4:30 PM 16:30 Canvass Keawe @ Halekauwila Friday, May 22, 2026 4:30 PM 6:00 PM 16:30 18:00 Keawe @ Halekauwila Honolulu (map) Google Calendar ICS Ililani, Keahou Lane, & Halekauwila Place Keawe @ Halekauwila Friday, May 22, 4:30-6pm Sidewalk Talk with Kim Coco!
+View Event → May 21 4:30 PM 16:30 Canvass Harbor Square @ 700 Richards Thursday, May 21, 2026 4:30 PM 6:00 PM 16:30 18:00 225 Queen Street Honolulu (map) Google Calendar ICS Harbor Square @ 700 Richards Thursday, May 21 4:30-6pm View Event → May 20 4:30 PM 16:30 Canvass Harbor Square @ 225 Queen Wednesday, May 20, 2026 4:30 PM 6:00 PM 16:30 18:00 225 Queen Street Honolulu (map) Google Calendar ICS Harbor Square @ 225 Queen Wednesday, May 20 4:30-6 pm View Event → May 19 4:30 PM 16:30 Canvass Harbor Court @ Merchant St.
+Tuesday, May 19, 2026 4:30 PM 6:00 PM 16:30 18:00 Merchant St.
+Honolulu (map) Google Calendar ICS Harbor Court @ Merchant St.
+Tuesday, May 19, 4:30-6pm 4:30-6pm View Event → May 16 8:00 AM 08:00 Canvass Bishop @ Hotel St.
+Saturday, May 16, 2026 8:00 AM 9:30 AM 08:00 09:30 Executive Center Bishop St Honolulu (map) Google Calendar ICS Executive Center, Bishop @ Hotel St., Saturday, May 16, 8-9:30am Coffee Talk with Kim Coco!
 With the legislative session wrapped, our campaign is getting back out into the community and resuming “sidewalk talks.” We’d love to meet you in person and hear what matters most — your concerns, ideas, and vision for our community.
 We’ll also share quick updates on what passed, what stalled, and what’s next.
-South Vineyard Street @ Queen Emma
-Sidewalk Talk with Kim Coco!
+Sign up to volunteer for my sidewalk talks here.
+View Event → May 14 4:30 PM 16:30 Canvass South Vineyard Street @ Queen Emma Thursday, May 14, 2026 4:30 PM 6:00 PM 16:30 18:00 South Vineyard Street @ Queen Emma (map) Google Calendar ICS Sidewalk Talk with Kim Coco!
 With the legislative session wrapped, our campaign is getting back out into the community and resuming “sidewalk talks.” We’d love to meet you in person and hear what matters most — your concerns, ideas, and vision for our community.
 We’ll also share quick updates on what passed, what stalled, and what’s next.
-Alakea @ Beretania
-Capitol Place, Kokua Hale & Queen Emma Apts
-Alakea @ Beretania
-Wednesday, May 13
-4:30-6pm
-Sidewalk Talk with Kim Coco!
+Sign up to volunteer for my sidewalk talks here.
+View Event → May 13 4:30 PM 16:30 Canvass Alakea @ Beretania Wednesday, May 13, 2026 4:30 PM 6:00 PM 16:30 18:00 Alakea @ Beretania (map) Google Calendar ICS Capitol Place, Kokua Hale & Queen Emma Apts Alakea @ Beretania Wednesday, May 13 4:30-6pm Sidewalk Talk with Kim Coco!
 With the legislative session wrapped, our campaign is getting back out into the community and resuming “sidewalk talks.” We’d love to meet you in person and hear what matters most — your concerns, ideas, and vision for our community.
 We’ll also share quick updates on what passed, what stalled, and what’s next.
-Bishop Place @ Union Mall
-The Residences At Bishop Place @ Union Mall
-Tuesday, May 12, 4:30-6pm
-Sidewalk Talk with Kim Coco!
+Sign up to volunteer for my sidewalk talks here.
+View Event → May 12 4:30 PM 16:30 Canvass Bishop Place @ Union Mall Tuesday, May 12, 2026 4:30 PM 6:00 PM 16:30 18:00 Bishop @ Beretania (map) Google Calendar ICS The Residences At Bishop Place @ Union Mall Tuesday, May 12, 4:30-6pm Sidewalk Talk with Kim Coco!
 With the legislative session wrapped, our campaign is getting back out into the community and resuming “sidewalk talks.” We’d love to meet you in person and hear what matters most — your concerns, ideas, and vision for our community.
 We’ll also share quick updates on what passed, what stalled, and what’s next.
-Bishop @ Beretania
-Centrury Square & Pinnacle Honolulu
-Bishop @ Beretania
-Sidewalk Talk with Kim Coco!
+Sign up to volunteer for my sidewalk talks here.
+View Event → May 11 4:30 PM 16:30 Canvass Bishop @ Beretania Monday, May 11, 2026 4:30 PM 6:00 PM 16:30 18:00 Bishop @ Beretania (map) Google Calendar ICS Centrury Square & Pinnacle Honolulu Bishop @ Beretania Sidewalk Talk with Kim Coco!
 With the legislative session wrapped, our campaign is getting back out into the community and resuming “sidewalk talks.” We’d love to meet you in person and hear what matters most — your concerns, ideas, and vision for our community.
 We’ll also share quick updates on what passed, what stalled, and what’s next.
-Kim Coco Campaign FUNraiser at Scarlet Honolulu
-You’re invited to my annual Birthday Campaign Fundraiser!
+Sign up to volunteer for my sidewalk talks here.
+View Event → May 24 8:30 PM 20:30 Kim Coco Campaign FUNraiser at Scarlet Honolulu Saturday, May 24, 2025 8:30 PM 11:59 PM 20:30 23:59 Google Calendar ICS You’re invited to my annual Birthday Campaign Fundraiser!
 Let’s toast to the progress we’ve made—and rally for the work ahead.
-8:30 PM - Scarlet FUNdraiser
-A more casual celebration with dancing, drag, and joy until 2 AM.
-Bring friends, stay for an hour, or dance all night!
+8:30 PM - Scarlet FUNdraiser A more casual celebration with dancing, drag, and joy until 2 AM.
+Tickets: $25 Bring friends, stay for an hour, or dance all night!
 Mahalo for your support, and I hope to see you there to celebrate another trip around the sun—and another year of people-powered progress.
-Kim Coco Campaing FUNDraiser at Tchin Tchin
-You’re invited to my annual Birthday Campaign Fundraiser!
+View Event → May 24 6:00 PM 18:00 Kim Coco Campaing FUNDraiser at Tchin Tchin Saturday, May 24, 2025 6:00 PM 9:00 PM 18:00 21:00 Google Calendar ICS You’re invited to my annual Birthday Campaign Fundraiser!
 Let’s toast to the progress we’ve made—and rally for the work ahead.
-We’ve got two options for you:
-6 PM - Tchin Tchin FUNDraiser
-Enjoy heavy pupu, drinks, and great company.
-Tickets: $100 - $500(includes entry to Scarlet afterparty)
-8:30 PM - Scarlet FUNdraiser
-A more casual celebration with dancing, drag, and joy until 2 AM.
-Bring friends, stay for an hour, or dance all night!
+We’ve got two options for you: 6 PM - Tchin Tchin FUNDraiser Enjoy heavy pupu, drinks, and great company.
+Tickets: $100 - $500 (includes entry to Scarlet afterparty) 8:30 PM - Scarlet FUNdraiser A more casual celebration with dancing, drag, and joy until 2 AM.
+Tickets: $25 Bring friends, stay for an hour, or dance all night!
 Mahalo for your support, and I hope to see you there to celebrate another trip around the sun—and another year of people-powered progress.
-Phonebank for Team Coco
-Join Team Coco to make calls to voters in Kim Coco's district!
+View Event → Aug 10 9:00 AM 09:00 Primary Election Day Saturday, August 10, 2024 9:00 AM 7:00 PM 09:00 19:00 Google Calendar ICS View Event → Aug 9 4:00 PM 16:00 Sign Waving - South and Kapiolani Blvd Friday, August 9, 2024 4:00 PM 6:00 PM 16:00 18:00 kapiolani and South Honolulu (map) Google Calendar ICS Sign up for a sign waving shift here View Event → Aug 7 4:00 PM 16:00 Sign Waving - South King & Ward Wednesday, August 7, 2024 4:00 PM 6:00 PM 16:00 18:00 South King & Ward Ave Honolulu (map) Google Calendar ICS Sign up for a sign waving shift here View Event → Aug 5 4:00 PM 16:00 Sign Waving - South St & Queen St Monday, August 5, 2024 4:00 PM 6:00 PM 16:00 18:00 South St & Queen St Honolulu (map) Google Calendar ICS Sign up for a sign waving shift here View Event → Aug 4 3:00 PM 15:00 Phonebank for Team Coco Sunday, August 4, 2024 3:00 PM 5:00 PM 15:00 17:00 Google Calendar ICS Join Team Coco to make calls to voters in Kim Coco's district!
 Phonebanking events are virtual, so you can join from anywhere!
-Phonebank for Team Coco
-Join Team Coco to make calls to voters in Kim Coco's district!
+View Event → Aug 2 4:00 PM 16:00 Sign Waving - Kapiolani & Ward Friday, August 2, 2024 4:00 PM 6:00 PM 16:00 18:00 Ward & Kapiolani Honolulu (map) Google Calendar ICS Sign up for a sign waving shift here View Event → Jul 30 5:00 PM 17:00 Phonebank for Team Coco Tuesday, July 30, 2024 5:00 PM 7:00 PM 17:00 19:00 Google Calendar ICS Join Team Coco to make calls to voters in Kim Coco's district!
 Phonebanking events are virtual, so you can join from anywhere!
-Phonebank for Team Coco
-Join Team Coco to make calls to voters in Kim Coco's district!
+View Event → Jul 28 3:00 PM 15:00 Phonebank for Team Coco Sunday, July 28, 2024 3:00 PM 5:00 PM 15:00 17:00 Google Calendar ICS Join Team Coco to make calls to voters in Kim Coco's district!
 Phonebanking events are virtual, so you can join from anywhere!
-Civil Beat Pop Up Newsroom: Meet the Candidates
-Civil Beat Pop-Up Newsroom
-Friday, July 26, 5:00 - 7:30 PM
-BoxJelly, 1200 Ala Moana Blvd
-Ala Moana/Kakaako Neighborhood Board Candidate Forum
-Tuesday, July 23, 7:00 - 8:00 PM
-Makiki Christian Church, 829 Pensacola Street
-Meeting number / Access code: 2492 331 1577
-Password: NB11 (6211 from phones and video systems)
-Phonebank for Team Coco
-Join Team Coco to make calls to voters in Kim Coco's district!
+View Event → Jul 26 5:30 PM 17:30 Civil Beat Pop Up Newsroom: Meet the Candidates Friday, July 26, 2024 5:30 PM 6:30 PM 17:30 18:30 BoxJelly Coworking (map) Google Calendar ICS Civil Beat Pop-Up Newsroom Friday, July 26, 5:00 - 7:30 PM BoxJelly, 1200 Ala Moana Blvd View Event → Jul 26 4:00 PM 16:00 Sign Waving - Kamakee & Auahi Friday, July 26, 2024 4:00 PM 5:30 PM 16:00 17:30 kamakee & Auahi Honolulu (map) Google Calendar ICS Sign up for a sign waving shift here View Event → Jul 23 7:00 PM 19:00 Ala Moana/Kakaako Neighborhood Board Candidate Forum Tuesday, July 23, 2024 7:00 PM 8:00 PM 19:00 20:00 829 Pensacola Street Honolulu, HI, 96814 United States (map) Google Calendar ICS Tuesday, July 23, 7:00 - 8:00 PM Makiki Christian Church, 829 Pensacola Street Virtual Meeting Link Meeting number / Access code: 2492 331 1577 Password: NB11 (6211 from phones and video systems) View Event → Jul 22 1:00 PM 13:00 Ballots Arrive Monday, July 22, 2024 1:00 PM 2:00 PM 13:00 14:00 Google Calendar ICS View Event → Jul 21 3:00 PM 15:00 Phonebank for Team Coco Sunday, July 21, 2024 3:00 PM 5:00 PM 15:00 17:00 Google Calendar ICS Join Team Coco to make calls to voters in Kim Coco's district!
 Phonebanking events are virtual, so you can join from anywhere!
+View Event → Campaign Headquarters: (808) 664-3830* • KimCoco@KimCoco.com *If you choose to text Friends of Kim Coco at this number, please indicate SUBSCRIBE, or we will not be able to reply via text.
+You may unsubscribe at any time with STOP Paid for by Friends of Kim Coco • P.O.
+Box 22136 • Honolulu, HI 96823

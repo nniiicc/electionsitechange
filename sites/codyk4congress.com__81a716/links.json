@@ -1,20 +1,90 @@
 [
-"https://codyk4congress.com/",
-"https://codyk4congress.com/endorsements",
-"https://codyk4congress.com/issues",
-"https://codyk4congress.com/news",
-"https://codyk4congress.com/privacy-policy",
-"https://facebook.com/profile.php?id=61575943587060",
-"https://instagram.com/codykforcongress",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/cody-k-4-congress/donate",
-"https://secure.anedot.com/cody-k-4-congress/donate?amount=100",
-"https://secure.anedot.com/cody-k-4-congress/donate?amount=1000",
-"https://secure.anedot.com/cody-k-4-congress/donate?amount=25",
-"https://secure.anedot.com/cody-k-4-congress/donate?amount=250",
-"https://secure.anedot.com/cody-k-4-congress/donate?amount=50",
-"https://secure.anedot.com/cody-k-4-congress/donate?amount=500",
-"https://secure.winred.com/cody-k-4-congress/storefront",
-"https://x.com/codyk4congress"
+{
+"text": "$1,000",
+"href": "https://secure.anedot.com/cody-k-4-congress/donate?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/cody-k-4-congress/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/cody-k-4-congress/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/cody-k-4-congress/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/cody-k-4-congress/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/cody-k-4-congress/donate?amount=500"
+},
+{
+"text": "702-914-8072",
+"href": "tel:17029148072"
+},
+{
+"text": "About",
+"href": "https://codyk4congress.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/cody-k-4-congress/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://codyk4congress.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://codyk4congress.com/#join"
+},
+{
+"text": "Issues",
+"href": "https://codyk4congress.com/issues/"
+},
+{
+"text": "News",
+"href": "https://codyk4congress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://codyk4congress.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/cody-k-4-congress/storefront/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Logo - Cody K Whipple For Congress]",
+"href": "https://codyk4congress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575943587060"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/codykforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/codyk4congress"
+},
+{
+"text": "info@codyk4congress.com",
+"href": "mailto:info@codyk4congress.com"
+}
 ]

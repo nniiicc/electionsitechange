@@ -1,16 +1,66 @@
 [
-"http://instagram.com/athenaforhouse",
-"http://techiki.com/",
-"http://twitter.com/AthenaHollins",
-"https://athenahollins.com/",
-"https://athenahollins.com/bio",
-"https://athenahollins.com/contact",
-"https://athenahollins.com/endorsements",
-"https://athenahollins.com/events",
-"https://athenahollins.com/issues",
-"https://athenahollins.com/search",
-"https://athenahollins.com/vote",
-"https://facebook.com/athenaforhouse",
-"https://fairvotemn.org/legislation",
-"https://secure.actblue.com/donate/athena-hollins-for-state-representative-1"
+{
+"text": "Contact",
+"href": "https://www.athenahollins.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/athena-hollins-for-state-representative-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.athenahollins.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.athenahollins.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.athenahollins.com/issues"
+},
+{
+"text": "Local Options bill",
+"href": "https://www.fairvotemn.org/legislation"
+},
+{
+"text": "Meet Athena",
+"href": "https://www.athenahollins.com/bio"
+},
+{
+"text": "Techiki",
+"href": "http://techiki.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.athenahollins.com/events"
+},
+{
+"text": "Vote",
+"href": "https://www.athenahollins.com/vote"
+},
+{
+"text": "[image: Athena Hollins ]",
+"href": "https://www.athenahollins.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/athenaforhouse"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/AthenaHollins"
+},
+{
+"text": "[no text]",
+"href": "https://www.athenahollins.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/athenaforhouse/"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@athenahollins.com"
+}
 ]

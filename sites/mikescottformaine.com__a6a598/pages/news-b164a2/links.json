@@ -1,14 +1,50 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/MikeScottforMaineSenate",
-"https://facebook.com/photo?fbid=122115572871178712&set=a.122107888071178712",
-"https://mikescottformaine.com/",
-"https://mikescottformaine.com/about",
-"https://mikescottformaine.com/contact",
-"https://mikescottformaine.com/endorsements",
-"https://mikescottformaine.com/issues",
-"https://mikescottformaine.com/news/maine-afl-cio-endorsement",
-"https://mikescottformaine.com/news/news-1",
-"https://mikescottformaine.com/news/news-2",
-"https://mikescottformaine.com/volunteer"
+{
+"text": "About",
+"href": "https://www.mikescottformaine.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.mikescottformaine.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mikescottformaine.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.mikescottformaine.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://www.facebook.com/photo?fbid=122115572871178712&set=a.122107888071178712"
+},
+{
+"text": "Read more",
+"href": "https://www.mikescottformaine.com/news/maine-afl-cio-endorsement"
+},
+{
+"text": "Read more",
+"href": "https://www.mikescottformaine.com/news/news-1"
+},
+{
+"text": "Read more",
+"href": "https://www.mikescottformaine.com/news/news-2"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mikescottformaine.com/volunteer"
+},
+{
+"text": "[image: Mike Scott for Maine]",
+"href": "https://www.mikescottformaine.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MikeScottforMaineSenate"
+}
 ]

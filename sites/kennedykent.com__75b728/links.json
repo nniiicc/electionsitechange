@@ -1,7 +1,34 @@
 [
-"https://kennedykent.com/",
-"https://kennedykent.com/cart",
-"https://kennedykent.com/contact",
-"https://kennedykent.com/meet-bernadine",
-"https://secure.winred.com/kennedy-kent-for-ohio/donate"
+{
+"text": "0",
+"href": "https://www.kennedykent.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.kennedykent.com/contact"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/kennedy-kent-for-ohio/donate"
+},
+{
+"text": "MAKE A DONATION",
+"href": "https://secure.winred.com/kennedy-kent-for-ohio/donate"
+},
+{
+"text": "Meet Bernadine",
+"href": "https://www.kennedykent.com/meet-bernadine"
+},
+{
+"text": "Meet Bernadine Kennedy Kent",
+"href": "https://www.kennedykent.com/meet-bernadine"
+},
+{
+"text": "Read Bernadine's BIO",
+"href": "https://www.kennedykent.com/meet-bernadine"
+},
+{
+"text": "[image: Bernadine Kennedy Kent For State Representative]",
+"href": "https://www.kennedykent.com/"
+}
 ]

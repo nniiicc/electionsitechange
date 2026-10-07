@@ -1,5 +1,4 @@
-Van Drew: “What would the World look like without America?”
-December 21, 2022 — As Americans, it’s a question we hardly ever stop to ponder – “What would the World look like without the United States of America?” Perhaps we should.
+TEXT JVD TO 71858 Wins for South Jersey Awards & Endorsements Latest News Events Support Jeff Boots on the Ground Store Donate Van Drew: “What would the World look like without America?” December 21, 2022 — As Americans, it’s a question we hardly ever stop to ponder – “What would the World look like without the United States of America?” Perhaps we should.
 Especially at a time when there are so many out there trying to tell us there is nothing special or exceptional about the America we know and love.
 What if those 56 brave souls never gathered in Philadelphia to sign the Declaration of Independence?
 What if on July 4th, 1776, the Continental Congress had voted to instead reaffirm our allegiance to the English crown?
@@ -23,4 +22,9 @@ The United States of America is always self correcting and improving.
 We are always striving for a more perfect Union, but this false rewriting of history must end.
 Enough is enough.
 We are a good people and an exceptional nation that is always worth defending.
-###
+### Paid for by Van Drew for Congress Privacy Policy Terms & Conditions By checking this box to opt-in you are agreeing to receive recurring text messages from the Van Drew for Congress campaign.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+SMS opt in will not be sold, rented, or shared.
+Reply STOP to cancel.
+Reply HELP for help. https://vandrewforcongress.com/privacy-policy.

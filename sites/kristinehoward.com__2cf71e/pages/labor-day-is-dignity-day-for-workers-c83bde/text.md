@@ -1,5 +1,5 @@
-Photo credit: Sealer Sales, Inc.
-| Four years ago, when I was a candidate for State Representative, I shared this reflection about Labor Day and the dignity of work on my campaign website.
+Meet Kristine Endorsements News & Events Get Involved Select Page Labor Day is Dignity Day for workers by Dan Fox | Sep 6, 2022 | News | 0 comments Photo credit: Sealer Sales, Inc.
+Four years ago, when I was a candidate for State Representative, I shared this reflection about Labor Day and the dignity of work on my campaign website.
 I think it is worthy of repeating.
 Thank you for reading: I am a union member.
 My father was a union member.
@@ -25,4 +25,9 @@ We live in a country with a constitution that enshrined a system of checks and b
 Unions provide checks and balances for workers.
 To my thinking, Labor Day is Dignity Day for workers, something we all deserve more than once a year.
 Have a wonderful Labor Day weekend.
-Kristine |
+Kristine Search for: Latest News Don’t fix what’s not broke!
+April 28, 2023 It’s Child Abuse Prevention Month – again.
+Has anything changed since last year?
+April 28, 2023 A dangerous tune!
+April 16, 2023 You are the first to know… March 17, 2023 When will the empty chair be at our table?
+November 30, 2022 Facebook Twitter Instagram ©# Paid for and authorized by Committee to Elect Kristine.

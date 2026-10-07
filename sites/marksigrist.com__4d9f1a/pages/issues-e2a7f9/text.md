@@ -1,6 +1,4 @@
-Issues
-Seniors
-Seniors are our fastest growing population.
+0 Skip to Content Home Meet Mark Issues Community Service Blog Join Us Donate Open Menu Close Menu Home Meet Mark Issues Community Service Blog Join Us Donate Open Menu Close Menu Home Meet Mark Issues Community Service Blog Join Us Donate Issues Seniors Seniors are our fastest growing population.
 The number of Americans reaching age 65 and older will more than double over the next 40 years, reaching 80 million by 2040.
 The number of adults ages 85 and older, the group most often needing help with basic personal care, will nearly quadruple in the same period.
 Getting daily in-home care for this aging population is often not affordable.
@@ -9,8 +7,7 @@ There are, however, many instances where family is not around and there is no wa
 Our state needs to make this area a priority.
 Our senior population, that has given us so much, needs lifted up.
 Let’s work to find solutions that help them age safely in their homes.
-The Housing Crisis
-Affordable housing should not be a stigma: it is an ever growing national crisis affecting so many in our population.
+The Housing Crisis Affordable housing should not be a stigma: it is an ever growing national crisis affecting so many in our population.
 Unregulated investments and soaring interest rates have created a lack of affordable options both in the rental and homebuyer markets.
 A shortage of smaller family- sized and starter homes are at the core of the problem.
 Young renters and first-time home buyers are feeling the pain of this toxic market the most.
@@ -21,9 +18,7 @@ Better housing options, more accessible public transportation, and safer pedestr
 The situation in central Ohio is especially dire as we continue to forecast a population increase, putting an increased demand on existing housing and new builds.
 It is the perfect storm that we are not at all prepared for.
 This, combined with runaway inflation and stagnant wages, are issues we need to deal with head on, and that’s what I’m committed to doing with my colleagues at the Statehouse.
-Healthcare
-Women’s Reproductive Freedom
-One of the highest priority health-care issues is women’s reproductive rights.
+Healthcare Women’s Reproductive Freedom One of the highest priority health-care issues is women’s reproductive rights.
 These decisions should be left to women and their doctors.
 The government, courts, politicians and other outsiders have no business intruding into these health-care decisions.
 We must protect women’s right to choose.
@@ -36,15 +31,13 @@ In many instances, medical care is not sought out at all because of the cost.
 Ohio must stay committed to a strong Medicaid program.
 Improving Medicaid promotes not only better health and quality of life, but also drives job expansion.
 Additionally, an expanded Medicaid program lowers drug costs across the board.
-Addiction
-Opioid addiction and overdoses are a serious and many times preventable problem.
+Addiction Opioid addiction and overdoses are a serious and many times preventable problem.
 We have to get on the front end of this crisis that is killing too many of our precious community members daily.
 The combination of a pandemic that pushed us all into isolation and certain drug companies taking advantage of an unregulated system put us in this situation.
 We need to claw our way out of it.
 The solution, I believe, will require bold solutions.
 We have to find holistic ways to connect our citizens with life affirming activities and opportunities.
-Education
-Public Education is unquestionably the most important product in US Society.
+Education Public Education is unquestionably the most important product in US Society.
 If we do not make it a priority in 2024, the constant attacks and attempts to roll back funding by radical groups and legislators will see the next few generations at such a great disadvantage.
 If our future generations are not set up for success, our society will find itself a shell of what it could have been.
 It is the key to a prosperous nation, and every child in America deserves the opportunity to learn, grow, and be inspired.
@@ -56,3 +49,4 @@ There is a growing plague of weaponized violence in schools across the nation.
 We need to make sure that our precious children and those who inspire and cultivate them are protected.
 The quality of the public education experience should not depend on one’s zip code.
 We need fair, fully-funded, and safe public schools for all.
+Mark Sigrist for State House Representative | District 10 | Paid for by Friends of Mark Sigrist

@@ -1,6 +1,5 @@
-About Jonathan
-Candidate for NH State Representative · Strafford District 19 · Rochester Wards 1, 2, 3, 4 & 6
-Emergency Dispatcher at age 18.
+Help elect Jonathan King — every contribution makes a difference.
+Donate → × Skip to content Vote JJK 4 NH Home About Platform Blog Get Involved Contact About Jonathan Candidate for NH State Representative · Strafford District 19 · Rochester Wards 1, 2, 3, 4 & 6 Emergency Dispatcher at age 18.
 Before most people figure out what they want to do with their lives, I was dispatching police and fire calls for Carroll County Sheriff’s Office and Wolfeboro Police Department.
 I moved on to NH E911 and Lewiston-Auburn 911, fielding emergencies and learning — fast — what it looks like when government works and when it doesn’t.
 Starting that job at 18 matured him quickly.
@@ -20,16 +19,10 @@ I’m not a career politician.
 I’m someone who has spent my life in service roles — dispatch, IT infrastructure, cybersecurity — understanding that systems either serve the people who depend on them, or they don’t.
 I’m running to make Strafford District 19’s representation work for everyone in it: left, right, and center.
 The shared human experience is the one thing we all have in common.
-“Don’t let hope become a memory.”
-David Draiman
-Jonathan J.
-King
-Background at a Glance
-- Police & fire dispatcher — Carroll County Sheriff’s Office, Wolfeboro PD, NH E911, Lewiston-Auburn 911
-- 15+ years in information technology
-- IT Director — Cliff House, Cape Neddick ME
-- Currently in IT at Genpact
-- BS, IT Management — Granite State College
-- MS, Cybersecurity — SNHU
-- Rochester — since 2016
-- Married · three kids – three dogs – three cats – one lizard
+“Don’t let hope become a memory.” David Draiman Jonathan J.
+King Background at a Glance Police & fire dispatcher — Carroll County Sheriff’s Office, Wolfeboro PD, NH E911, Lewiston-Auburn 911 15+ years in information technology IT Director — Cliff House, Cape Neddick ME Currently in IT at Genpact BS, IT Management — Granite State College MS, Cybersecurity — SNHU Rochester — since 2016 Married · three kids – three dogs – three cats – one lizard Read the Platform → Get Involved → Vote JJK 4 NH Jonathan J King, running for values, integrity, and returning the human experience back to Concord, New Hampshire.
+Contact Info Strafford District 19 Rochester, NH Wards 1,2,3,4,6 [email protected] (339) 203-9362 Twitter VoteJJK4NH Threads Instagram Popular Link Donation Join Page Volunteering Events Recent News New Hampshire Cannabis Legalization Opposition Arguments Fall Apart June 14, 2026 Property Tax Caps New Hampshire: Do They Address Rising Costs?
+June 13, 2026 © # Vote JJK 4 NH .
+All Rights Reserved Paid for by Jonathan J.
+King.
+Scroll To Top

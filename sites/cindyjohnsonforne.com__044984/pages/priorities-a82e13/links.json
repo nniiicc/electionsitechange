@@ -1,7 +1,26 @@
 [
-"https://cindyjohnsonforne.com/",
-"https://cindyjohnsonforne.com/about-cindy",
-"https://cindyjohnsonforne.com/priorities",
-"https://cindyjohnsonforne.com/volunteer",
-"https://secure.actblue.com/donate/cindy-johnson"
+{
+"text": "About Cindy",
+"href": "https://cindyjohnsonforne.com/about-cindy"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cindy-johnson"
+},
+{
+"text": "Home",
+"href": "https://cindyjohnsonforne.com/"
+},
+{
+"text": "Priorities",
+"href": "https://cindyjohnsonforne.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://cindyjohnsonforne.com/volunteer"
+},
+{
+"text": "[image: Cindy Johnson For Nebraska]",
+"href": "https://cindyjohnsonforne.com/"
+}
 ]

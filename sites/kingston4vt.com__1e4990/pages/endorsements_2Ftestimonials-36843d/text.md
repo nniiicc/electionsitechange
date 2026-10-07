@@ -1,23 +1,10 @@
-Phil Scott, Governor State of Vermont
-"We need moderate, common-sense legislators who understand the need for policies that make it more affordable to live, work, and do business in Vermont.
-John has the know-how and background to help bring the conversation back to the center."
-"I had the pleasure of working with John while running my family's business as we faced the unfolding pandemic.
+John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative Home About Endorsements/Testimonials Positions Media Contact Me More Home About Endorsements/Testimonials Positions Media Contact Me Home About Endorsements/Testimonials Positions Media Contact Me ENDORSEMENTS for John Kingston Phil Scott, Governor State of Vermont "We need moderate, common-sense legislators who understand the need for policies that make it more affordable to live, work, and do business in Vermont.
+John has the know-how and background to help bring the conversation back to the center." Testimonials for John Kingston "I had the pleasure of working with John while running my family's business as we faced the unfolding pandemic.
 John has the ability to apply structure that creates focus to ensure action and progress.
-His confidence is balanced by his operational and financial role experiences in the business world, while he seeks input from others to bring alignment around priorities."
--Eric Lampman, President at Lake Champlain Chocolates
-“John is champion volunteer at Vermont Youth Conservation Corps, serving as our Board Vice Chair and member of the Finance Committee.
+His confidence is balanced by his operational and financial role experiences in the business world, while he seeks input from others to bring alignment around priorities." -Eric Lampman, President at Lake Champlain Chocolates “John is champion volunteer at Vermont Youth Conservation Corps, serving as our Board Vice Chair and member of the Finance Committee.
 From spending a morning in work boots with a crew to advising our team on short and long-term fiscal responsibility, John’s skilled counsel and belief in the power of paid service positions for young people in Vermont is an asset to VYCC.
-John brings years of experience, thoughtfulness, and deep listening, while following through on tasks, and readily making himself available to meet and discuss topics further.”
--Leah Mital, Executive Director at The Vermont Youth Conservation Corps
-“John has been a trusted adviser for our business, Lawson’s Finest Liquids, since 2019, He brings valuable experience, with a deep background in finance and organizational leadership.
+John brings years of experience, thoughtfulness, and deep listening, while following through on tasks, and readily making himself available to meet and discuss topics further.” -Leah Mital, Executive Director at The Vermont Youth Conservation Corps “John has been a trusted adviser for our business, Lawson’s Finest Liquids, since 2019, He brings valuable experience, with a deep background in finance and organizational leadership.
 In his role on our Advisory Board, John has a balanced perspective and is always willing to listen, learn and then challenge us in an effort to improve our business.
-It has been a great pleasure working with John and getting to know him.”
--Sean Lawson, Co-Founder at Lawson’s Finest Liquids
-"Vermont government works best when a diversity of good people are willing to serve.
+It has been a great pleasure working with John and getting to know him.” -Sean Lawson, Co-Founder at Lawson’s Finest Liquids "Vermont government works best when a diversity of good people are willing to serve.
 John is one of them.
-He is analytical, thoughtful and caring, a fine person to serve our State."
-- Emma Marvin, Co-CEO at Butternut Mountain Farm
-Copyright © 2026, John Kingston for State Representative
-All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+He is analytical, thoughtful and caring, a fine person to serve our State." - Emma Marvin, Co-CEO at Butternut Mountain Farm Copyright © #, John Kingston for State Representative All Rights Reserved.

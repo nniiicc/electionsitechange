@@ -1,7 +1,9 @@
 {
  "description": "Please show your support for our campaign by donating to our ActBlue page. It's simple and secure, and your donation of $50, $100, or whatever you can give will make an immediate difference to the campaign!",
  "final_url": "https://www.halpinforillinois.com/donate/",
- "paid_for_by": null,
+ "fingerprint": "6d195b2126b3d4a567dc2af6931d25f90075e0a3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate - Mike Halpin for Illinois",
  "years_mentioned": []
 }

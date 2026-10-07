@@ -1,5 +1,5 @@
-STATEMENT
-If we fail to Close the Border, Protect our Children and Save our Economy, we will lose everything.
+Home Media About Issues Our District Next Steps Donate SHOP Back Register to Vote Join the Team Contact Home Media About Issues Our District Next Steps Register to Vote Join the Team Contact Mike Cargile for Congress Donate SHOP Scroll “ Everything I do in office will be in support of our families and the reduction of the government in our everyday lives.
+That which governs least, governs best. ” — Mike Cargile STATEMENT If we fail to Close the Border, Protect our Children and Save our Economy, we will lose everything.
 Mike Cargile will NEVER vote for Open Borders and human and child trafficking.
 He will NEVER support the flood of fentanyl on our streets and the crime and homelessness that accompanies this lawlessness.
 Mike will NEVER vote to take away your Right to defend yourself or your family.
@@ -14,8 +14,7 @@ Please VOTE to save the United States.
 Please VOTE for Mike Cargile to serve our community as our Representative and our voice in Congress.
 Smile!
 It’s Cargile!
-LA DECLARACIÓN
-Si no logramos cerrar la frontera, proteger a nuestros hijos y salvar nuestra economía, lo perderemos todo.
+LA DECLARACIÓN Si no logramos cerrar la frontera, proteger a nuestros hijos y salvar nuestra economía, lo perderemos todo.
 Mike Cargile NUNCA votará por las fronteras abiertas y la trata de personas y niños.
 NUNCA apoyará la inundación de fentanilo en nuestras calles y el crimen y la falta de vivienda que acompaña a esta anarquía.
 Mike NUNCA votará para quitarle su derecho a defenderse a sí mismo o a su familia.
@@ -26,5 +25,7 @@ Mike Cargile es esposo, padre, veterano del ejército y pequeño empresario. Él
 Necesitamos un representante que DEFIENDA A la policía de los asaltos y VALORE los sacrificios de los veteranos.
 Necesitamos un representante que ENTIENDA las necesidades de las personas mayores y tenga soluciones para ellas.
 Por favor, VOTE para salvar a los Estados Unidos.
-Por favor, VOTE por Mike Cargile para servir a nuestra comunidad como nuestro representante y nuestra voz en el Congreso.
-¡Sonreír! ¡Es Cargile!
+Por favor, VOTE por Mike Cargile para servir a nuestra comunidad como nuestro representante y nuestra voz en el Congreso. ¡Sonreír! ¡Es Cargile!
+SO HELP ME GOD… Please Contribute Statement Copy of Flag Footer CTA (Copy) Unlike my opponent, Norma Torres… I am Pro-God, Pro-Family, Pro-Life, Pro-Jobs, Pro-Police and I will always put… America First!
+“At no other time in our nation’s history have our foundational principles been under greater assault than now.
+Join with me as we rise to meet the challenge and restore faith in our great Republic!” Mike.Cargile@outlook.com Hours HOME Media About Issues Our District Ways to Help Join the Team Contact Donate Now

@@ -1,16 +1,70 @@
 [
-"https://facebook.com/voteryanweldon",
-"https://instagram.com/weldony1",
-"https://secure.winred.com/vote-ryan-weldon/donate-today",
-"https://sos.iowa.gov/elections-voting",
-"https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html",
-"https://sos.iowa.gov/elections/pdf/absenteeballotapp.pdf",
-"https://sos.iowa.gov/elections/voterreg/pollingplace/search.aspx",
-"https://voterready.iowa.gov/registertovote",
-"https://voterready.iowa.gov/voting-absentee",
-"https://voteryanweldon.com/",
-"https://voteryanweldon.com/about",
-"https://voteryanweldon.com/accomplishments",
-"https://voteryanweldon.com/contact",
-"https://voteryanweldon.com/voting-info"
+{
+"text": "2026 General Election Information",
+"href": "https://sos.iowa.gov/elections-voting"
+},
+{
+"text": "About",
+"href": "https://www.voteryanweldon.com/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.voteryanweldon.com/accomplishments"
+},
+{
+"text": "Contact",
+"href": "https://www.voteryanweldon.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/vote-ryan-weldon/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/voteryanweldon"
+},
+{
+"text": "Find Your Precinct & Polling Place",
+"href": "https://sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
+"text": "Find your polling place here.",
+"href": "https://sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
+"text": "Home",
+"href": "https://www.voteryanweldon.com"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/weldony1"
+},
+{
+"text": "Iowa Secretary of State website.",
+"href": "https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html"
+},
+{
+"text": "Learn About Ryan",
+"href": "https://www.voteryanweldon.com/about"
+},
+{
+"text": "Voter Registration Information",
+"href": "https://voterready.iowa.gov/registertovote/"
+},
+{
+"text": "VoterReady.Iowa.Gov.",
+"href": "https://voterready.iowa.gov/voting-absentee/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.voteryanweldon.com/voting-info"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteryanweldon.com"
+},
+{
+"text": "use this absentee ballot request form",
+"href": "https://sos.iowa.gov/elections/pdf/absenteeballotapp.pdf"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Official campaign website for Melissa Lindsey for State Senate",
  "final_url": "https://www.lindseyforsenatect.com/",
+ "fingerprint": "fa194eb1502ef54e1285622af2c5591257776d51",
+ "format": 3,
  "paid_for_by": "Paid for by Lindsey for Senate, Dustin Bingham Treasurer",
  "title": "Lindsey for Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

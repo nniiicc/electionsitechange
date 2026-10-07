@@ -1,35 +1,138 @@
 [
-"http://charleston.net/news/2008/oct/09/momentum_recorded_voting",
-"http://charleston.net/news/2008/sep/28/put_legislators_on_record56144",
-"http://fitsnews.com/2007/06/24/echo-chamber-the-young-guns",
-"http://flickr.com/photos/11656043@N06/2797599175/in/set-72157603255979036",
-"http://followthemoney.org/database/state_overview.phtml?y=2008&s=SC",
-"http://goupstate.us/index.php/2008/10/13/ballentine-s-bill-would-end-campaign-dis?blog=20",
-"http://pushdigital.com/",
-"http://sc.gov/PublicReporting/IndividualCandidate/SearchCandidate.aspx?AspxAutoDetectCookieSupport=1",
-"http://scbarbecue.blogspot.com/2007/07/list.html",
-"http://scgovernor.com/news/releases/9-24-08.htm",
-"http://schotline.wordpress.com/2008/10/02/the-2009-spending-accountability-act-delivers",
-"http://scpolicycouncil.com/publications/141.pdf",
-"https://facebook.com/nathan.ballentine",
-"https://flickr.com/photos/11656043@N06",
-"https://nathansnews.com/",
-"https://nathansnews.com/2008/10/its-only-rock-n-rollisnt-it",
-"https://nathansnews.com/2008/10/tough-times-call-for-tough-measures",
-"https://nathansnews.com/2026/09/21st-annual-irmo-community-prayer-breakfast-jacks-pack",
-"https://nathansnews.com/2026/09/ahead-of-schedule-eyesore-removed",
-"https://nathansnews.com/2026/09/campaign-signs-are-going-up-let-me-know-where-to-deliver-yours",
-"https://nathansnews.com/2026/09/dominion-energy-to-begin-lake-murray-draw-down-this-fall",
-"https://nathansnews.com/2026/09/mom-on-the-campaign-trail",
-"https://nathansnews.com/2026/09/okra-strut-marks-51-years-in-irmo",
-"https://nathansnews.com/about",
-"https://nathansnews.com/blog",
-"https://nathansnews.com/constituent-service-night-monday-january-28th.htm",
-"https://nathansnews.com/contact",
-"https://nathansnews.com/get-involved",
-"https://nathansnews.com/house-passes-earmark-reform-rule-change.htm",
-"https://nathansnews.com/issues",
-"https://nathansnews.com/privacy-policy",
-"https://secure.anedot.com/ballentine-for-house/general-fund-c72c214a433dcd964c42f",
-"https://twitter.com/nathanballentin"
+{
+"text": "21st Annual Irmo Community Prayer Breakfast – Jack’s Pack",
+"href": "https://nathansnews.com/2026/09/21st-annual-irmo-community-prayer-breakfast-jacks-pack/"
+},
+{
+"text": "About",
+"href": "https://nathansnews.com/about/"
+},
+{
+"text": "Ahead of schedule, eyesore removed (video)",
+"href": "https://nathansnews.com/2026/09/ahead-of-schedule-eyesore-removed/"
+},
+{
+"text": "Campaign Update – 4 weeks til Election Day",
+"href": "https://nathansnews.com/2026/10/campaign-update-2/"
+},
+{
+"text": "Campaign signs are going up! Let me know where to deliver yours!",
+"href": "https://nathansnews.com/2026/09/campaign-signs-are-going-up-let-me-know-where-to-deliver-yours/"
+},
+{
+"text": "Contact",
+"href": "https://nathansnews.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ballentine-for-house/general-fund-c72c214a433dcd964c42f"
+},
+{
+"text": "Earmark Reform",
+"href": "https://nathansnews.com/house-passes-earmark-reform-rule-change.htm"
+},
+{
+"text": "Get Involved",
+"href": "https://nathansnews.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://nathansnews.com/issues/"
+},
+{
+"text": "It's only Rock-n-Roll…isn't it?",
+"href": "https://nathansnews.com/2008/10/its-only-rock-n-rollisnt-it/"
+},
+{
+"text": "MONEY",
+"href": "http://sc.gov/PublicReporting/IndividualCandidate/SearchCandidate.aspx?AspxAutoDetectCookieSupport=1"
+},
+{
+"text": "Mom on the Campaign Trail (video)",
+"href": "https://nathansnews.com/2026/09/mom-on-the-campaign-trail/"
+},
+{
+"text": "Nathan Ballentine",
+"href": "https://nathansnews.com/"
+},
+{
+"text": "Nathan’s News",
+"href": "https://nathansnews.com/blog/"
+},
+{
+"text": "Okra Strut marks 51 years in Irmo",
+"href": "https://nathansnews.com/2026/09/okra-strut-marks-51-years-in-irmo/"
+},
+{
+"text": "On-The-Record Voting",
+"href": "http://www.scgovernor.com/news/releases/9-24-08.htm"
+},
+{
+"text": "On-The-Record voting.",
+"href": "http://www.scpolicycouncil.com/publications/141.pdf"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nathansnews.com/privacy-policy/"
+},
+{
+"text": "Push Digital",
+"href": "http://pushdigital.com/"
+},
+{
+"text": "Spartanburg-Hearld Journal has picked up on the bill",
+"href": "http://goupstate.us/index.php/2008/10/13/ballentine-s-bill-would-end-campaign-dis?blog=20"
+},
+{
+"text": "Tough times call for tough measures!",
+"href": "https://nathansnews.com/2008/10/tough-times-call-for-tough-measures/"
+},
+{
+"text": "[image: Nathan Ballentine]",
+"href": "https://nathansnews.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/nathanballentin"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/nathan.ballentine"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/11656043@N06/"
+},
+{
+"text": "constituent-service nights",
+"href": "https://nathansnews.com/constituent-service-night-monday-january-28th.htm"
+},
+{
+"text": "elected officials from both parties",
+"href": "http://schotline.wordpress.com/2008/10/02/the-2009-spending-accountability-act-delivers/"
+},
+{
+"text": "gaining momentum",
+"href": "http://www.charleston.net/news/2008/oct/09/momentum_recorded_voting/"
+},
+{
+"text": "many of us are trying",
+"href": "http://www.fitsnews.com/2007/06/24/echo-chamber-the-young-guns/"
+},
+{
+"text": "newspaper editorials",
+"href": "http://www.charleston.net/news/2008/sep/28/put_legislators_on_record56144/"
+},
+{
+"text": "this is not always the case",
+"href": "http://www.followthemoney.org/database/state_overview.phtml?y=2008&s=SC"
+},
+{
+"text": "two kids under the age of 4",
+"href": "http://www.flickr.com/photos/11656043@N06/2797599175/in/set-72157603255979036/"
+},
+{
+"text": "“out-of-state money”",
+"href": "http://scbarbecue.blogspot.com/2007/07/list.html"
+}
 ]

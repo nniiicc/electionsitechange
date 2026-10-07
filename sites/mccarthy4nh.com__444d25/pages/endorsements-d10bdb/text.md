@@ -1,5 +1,2 @@
-Skip navigation menu
-Endorsements
-Proud to be endorsed by:
-PROUD TO BE ENDORSED BY:
-Elected Officials and Community Leaders
+Skip navigation menu About Issues Contact Endorsements Donate Endorsements About Issues Contact Endorsements Donate Endorsements Proud to be endorsed by: PROUD TO BE ENDORSED BY: Elected Officials and Community Leaders Chris Pappas, NH-01 Representative, Democratic Nominee for US Senate Stefany Shaheen, Democratic Nominee for US Congress (NH-01) Ro Khanna, CA-17 Representative Erin Kerwin, NH State Representative Dan O'Neil, Manchester Alderman At-Large Lou D'Allessandro, Former NH State Senator Kevin Kavanaugh, Former NH State Senator and Alderman James Craig, Former NH State Representative, Chair of Goffstown Select Board June Trisciani, Manchester Alderman At Large Carleigh Beriont, Former Candidate for NH-01 Powered by RUN! website builder Paid for by Friends of Dian McCarthy.
+Fiscal Agent: Joseph McCarthy PO Box 416 Goffstown, NH 03045 You need to enable JavaScript to run this app.

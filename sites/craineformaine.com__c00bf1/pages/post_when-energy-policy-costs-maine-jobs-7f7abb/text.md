@@ -1,5 +1,5 @@
-When Energy Policy Costs Maine Jobs
-Most people associate energy policy with their monthly electric bill, and it certainly affects that.
+top of page Jantzen Craine HOME MEET JANTZEN VALUES GET INVOLVED MERCH BLOG More Use tab to navigate through the menu items.
+DONATE All Posts Op-Ed In The Weeds (VLOG) Throwback Thursday Songs and Reflection Search When Energy Policy Costs Maine Jobs Jantzen Craine Apr 10 3 min read Most people associate energy policy with their monthly electric bill, and it certainly affects that.
 However, its impact goes beyond that.
 Energy policy plays a crucial role in attracting businesses, creating jobs, and determining the economic growth or decline of regions.
 It’s not just about keeping the lights on; it’s about ensuring the economy has a sustainable future.
@@ -53,3 +53,10 @@ Businesses and families are noticing these changes.
 The question isn’t whether energy policy matters; it’s whether we are willing to align it with reality.
 Most people aren’t following energy policy debates; they’re simply trying to pay their bills, grow their businesses, and build a future in Maine.
 When something as fundamental as power starts working against these goals instead of supporting them, it’s time to critically examine the direction we’re heading.
+Recent Posts See All Trust in Government Starts with Transparency Why the Middle East Will Never Truly Be at Peace Is Social Media Addictive — or Are We?
+HOME MEET JANTZEN VALUES GET INVOLVED MERCH BLOG More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Committed to accessibility for all.
+Read our Accessibility Statement.
+By visiting this website, you agree to our Privacy Policy and Terms and Conditions .
+Terms & Conditions Privacy Policy Accessibility Statement © # by Craine for Maine.
+All Rights Reserved. bottom of page

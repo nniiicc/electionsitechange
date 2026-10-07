@@ -1,13 +1,58 @@
 [
-"https://facebook.com/mikerounds",
-"https://roundsforsenate.com/",
-"https://roundsforsenate.com/about",
-"https://roundsforsenate.com/contact",
-"https://roundsforsenate.com/issues",
-"https://roundsforsenate.com/media",
-"https://roundsforsenate.com/privacy-policy",
-"https://roundsforsenate.com/results",
-"https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite",
-"https://twitter.com/RoundsforSenate",
-"https://youtube.com/@RoundsforSenateSD"
+{
+"text": "About",
+"href": "https://roundsforsenate.com/about/"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite"
+},
+{
+"text": "Issues",
+"href": "https://roundsforsenate.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://roundsforsenate.com/media/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://roundsforsenate.com/privacy-policy/"
+},
+{
+"text": "Take Action",
+"href": "https://roundsforsenate.com/contact/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://roundsforsenate.com/contact/"
+},
+{
+"text": "YARD SIGNS",
+"href": "https://roundsforsenate.com/contact/"
+},
+{
+"text": "[image]",
+"href": "https://roundsforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RoundsforSenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mikerounds"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RoundsforSenateSD"
+},
+{
+"text": "here",
+"href": "https://roundsforsenate.com/results"
+}
 ]

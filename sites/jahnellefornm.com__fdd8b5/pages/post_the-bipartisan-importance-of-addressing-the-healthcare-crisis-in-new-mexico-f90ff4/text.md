@@ -1,30 +1,32 @@
-The Bipartisan Importance of Addressing the Healthcare Crisis in New Mexico
-Updated: Jul 28
-Bringing Healthcare Back to New Mexico
-Jahnelle Garcia, MSN APRN FNP-C
-Nurse Practitioner
-Candidate for New Mexico HD 27
-Executive Summary
-New Mexico is facing a critical healthcare access crisis that affects families in every region of the state.
+top of page HOME ABOUT ISSUES BLOG Menu Close DONATE All Posts The Bipartisan Importance of Addressing the Healthcare Crisis in New Mexico Jahnelle Garcia Mar 5 3 min read Updated: Jul 28 Bringing Healthcare Back to New Mexico Jahnelle Garcia, MSN APRN FNP-C Nurse Practitioner Candidate for New Mexico HD 27 Executive Summary New Mexico is facing a critical healthcare access crisis that affects families in every region of the state.
 Limited access to providers, long wait times, and shortages in mental health services have created significant barriers to care.
 These challenges are not partisan issues, they affect Republicans, Democrats, Independents, and every New Mexican community.Currently, 32 of New Mexico’s 33 counties are federally designated healthcare shortage areas, highlighting the urgent need for action.
 Rural communities face some of the greatest challenges, with many residents traveling hours for specialized care or waiting months for appointments.Addressing this crisis requires bipartisan solutions that prioritize healthcare workforce development, rural access, mental health resources, and innovative care delivery models such as telehealth.This paper outlines the scope of the crisis, its impact on communities, and policy strategies aimed at recruiting providers, improving patient access, and strengthening healthcare infrastructure across New Mexico.
-The Healthcare Crisis in New Mexico
-New Mexico consistently ranks among the lowest states in the nation for healthcare access and provider availability.
+The Healthcare Crisis in New Mexico New Mexico consistently ranks among the lowest states in the nation for healthcare access and provider availability.
 The shortage of healthcare professionals has created widespread barriers to care for residents across urban and rural communities.
-Key indicators of the crisis include:
-• 32 of 33 counties designated as healthcare shortage areas
-• Significant shortages of primary care providers and specialists
-• Severe mental health provider shortages statewide
-• Extended wait times for specialty care
-• Healthcare professionals leaving the state due to economic and professional challenges
-These challenges create serious consequences for patient outcomes, healthcare costs, and community well-being.
-Impact on Patients and Communities
-- The healthcare shortage directly affects the daily lives of New Mexico families.
-- Delayed Medical Care
-- Patients often wait months to see specialists, which can lead to delayed diagnoses and worsening health conditions.
-- Rural Healthcare Barriers- Many rural counties have limited or no access to specialists, forcing residents to travel long distances for care.
+Key indicators of the crisis include: • 32 of 33 counties designated as healthcare shortage areas • Significant shortages of primary care providers and specialists • Severe mental health provider shortages statewide • Extended wait times for specialty care • Healthcare professionals leaving the state due to economic and professional challenges These challenges create serious consequences for patient outcomes, healthcare costs, and community well-being.
+Impact on Patients and Communities The healthcare shortage directly affects the daily lives of New Mexico families.
+Delayed Medical Care Patients often wait months to see specialists, which can lead to delayed diagnoses and worsening health conditions.
+Rural Healthcare Barriers- Many rural counties have limited or no access to specialists, forcing residents to travel long distances for care.
 Transportation barriers, financial constraints, and time away from work further complicate access.
-- Mental Health Access- New Mexico faces a critical shortage of mental health providers.
+Mental Health Access- New Mexico faces a critical shortage of mental health providers.
 This shortage contributes to increased rates of untreated mental illness, substance use disorders, and preventable crises.
-- Provider Burnout and Workforce Loss
+Provider Burnout and Workforce Loss Healthcare professionals are leaving New Mexico due to: • Workforce shortages • Administrative burden • Economic pressures • Professional isolation in rural areas This creates a cycle where fewer providers must serve growing patient populations.
+Economic and Community Impact Healthcare access is directly connected to economic stability and community growth.Communities without reliable healthcare systems struggle to: • Attract new businesses • Retain working families • Support aging populations • Maintain strong local economies Rural hospitals and community clinics serve as economic anchors in many communities.
+When healthcare systems struggle, local economies suffer as well.
+Policy Solutions: Bringing Healthcare Back to New Mexico Addressing the healthcare crisis requires coordinated and bipartisan policy solutions.
+1.
+Recruit and Retain Healthcare Providers Strategies should include: • Incentives for physicians and specialists to practice in New Mexico • Loan repayment programs for healthcare professionals • Expanded residency and training opportunities within the state • Competitive compensation structures 2.
+Expand Rural Healthcare Access Improving rural healthcare requires: • Investment in rural clinics and hospitals • Mobile healthcare services • Community health worker programs • Partnerships with regional health systems Healthcare access should not be determined by geography.
+3.
+Strengthen Mental Health and Addiction Services Policy efforts should focus on: • Expanding behavioral health workforce programs • Increasing access to community-based treatment services • Integrating mental health into primary care settings Addressing behavioral health needs is essential to improving overall public health.
+4.
+Support the Healthcare Workforce Supporting healthcare professionals helps stabilize the system.Important priorities include: • Reducing administrative burden • Strengthening workplace support systems • Improving professional development opportunities 5.
+Expand Telehealth and Innovative Care Models Telehealth can significantly improve access for rural and underserved communities.
+Potential strategies include: • Expanding broadband infrastructure • Supporting telemedicine reimbursement • Integrating virtual care into community clinics Telehealth allows patients to connect with specialists without traveling long distances.
+A Bipartisan Path Forward Healthcare access is not a partisan issue.
+It affects families in every community and across all political backgrounds.A bipartisan approach focused on practical solutions can strengthen New Mexico’s healthcare system while improving patient outcomes and provider retention.
+By working together, policymakers, healthcare professionals, and community leaders can rebuild a healthcare system that serves all New Mexicans.
+Conclusion New Mexico’s healthcare crisis demands urgent and collaborative action.Patients should not have to wait months for care, travel hours to see a specialist, or struggle to access mental health services.Through strategic investments in the healthcare workforce, rural access, and innovative care delivery models, New Mexico can rebuild a healthcare system that prioritizes patients and supports providers.Together, we can bring healthcare back to New Mexico and create a healthier future for our communities.
+Recent Posts See All The New Mexico Education Turnaround Plan: Every Child Deserves the Opportunity to Succeed Impact Analysis of the 20% Reduction in VA Home-Care Reimbursement Rates in New Mexico: Rural-State Cost Drivers and Economic Pressures HOME ABOUT ISSUES PRIVACY POLICY TERMS AND CONDITIONS Donations Mailing Address: 8100 Wyoming Blvd NE Ste M4 #319 Albuquerque, NM 87113 © # Jahnelle Garcia for NM House District 27 HOME ABOUT ISSUES BLOG Log In REBECCA C.
+BERRY EXPERIENCED RESULTS DRIVEN LEADERSHIP 2035 bottom of page

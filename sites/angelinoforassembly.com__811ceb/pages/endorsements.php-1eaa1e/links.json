@@ -1,8 +1,30 @@
 [
-"https://angelinoforassembly.com/about-joe-angelino.php",
-"https://angelinoforassembly.com/donate.php",
-"https://angelinoforassembly.com/endorsements.php",
-"https://angelinoforassembly.com/index.php",
-"https://angelinoforassembly.com/join-us.php",
-"https://woollybear.com/"
+{
+"text": "ABOUT",
+"href": "https://www.angelinoforassembly.com/about-joe-angelino.php"
+},
+{
+"text": "DONATE",
+"href": "https://www.angelinoforassembly.com/donate.php"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.angelinoforassembly.com/endorsements.php"
+},
+{
+"text": "HOME",
+"href": "https://www.angelinoforassembly.com/index.php"
+},
+{
+"text": "JOIN US",
+"href": "https://www.angelinoforassembly.com/join-us.php"
+},
+{
+"text": "SIGN UP",
+"href": "https://www.angelinoforassembly.com/join-us.php"
+},
+{
+"text": "Woollybearweb",
+"href": "https://www.woollybear.com"
+}
 ]

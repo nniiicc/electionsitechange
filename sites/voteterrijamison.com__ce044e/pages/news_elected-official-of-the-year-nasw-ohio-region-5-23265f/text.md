@@ -1,4 +1,6 @@
-The National Association of Social Workers (NASW) – Ohio Chapter is excited to announce that The Honorable Terri Jamison has been selected as the 2020 NASW Ohio Region 5, Elected Official of the Year.
+Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison News / Elected Official of the Year!
+NASW-Ohio Region 5 27 Nov Friday, 7:05 AM · 2020 Elected Official of the Year!
+NASW-Ohio Region 5 The National Association of Social Workers (NASW) – Ohio Chapter is excited to announce that The Honorable Terri Jamison has been selected as the 2020 NASW Ohio Region 5, Elected Official of the Year.
 NASW Ohio’s region 5 includes Athens, Belmont, Delaware, Fairfield, Fayette, Franklin, Gallia, Guernsey, Hocking, Jackson, Licking, Madison, Meigs, Morgan, Monroe, Muskingum, Noble, Perry, Pickaway, Ross, Union, Vinton and Washington counties in central and southeastern Ohio.
 NASW Ohio honors the Elected Official of the Year Award in recognition of the responsibilities and challenges of public service.
 The award is given to an elected official who has made significant contribution to public service while in office.
@@ -11,4 +13,4 @@ Judge Jamison also brings her expertise to several professional and community or
 Jamison was also recently elected to the 10th District Court of Appeals, were she will no doubt continue to make positive changes.
 The NASW Ohio Chapter is proud to award The Honorable Terri Jamison as the Region 5 Elected Official of the Year.
 Jamison will be honored, along with the other Region 5 2020 NASW Award Winners, at a regional award celebration.
-Sincerely,
+Sincerely, Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com - Political Campaign Websites Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu

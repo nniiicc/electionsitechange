@@ -1,4 +1,4 @@
-Our Priorities for District 73
-We’re focused on what matters most: economic growth, affordable healthcare, quality education, and fair, accountable justice.
+0 Skip to Content Home Meet Ed Ross Guiding Principles Priorities Contributions The Invitation Contact Open Menu Close Menu Home Meet Ed Ross Guiding Principles Priorities Contributions The Invitation Contact Open Menu Close Menu Home Meet Ed Ross Guiding Principles Priorities Contributions The Invitation Contact Our Priorities for District 73 We’re focused on what matters most: economic growth, affordable healthcare, quality education, and fair, accountable justice.
 These priorities are about creating opportunity, strengthening our community, and building a future that works for everyone.
 Together, we move forward with purpose.
+Contribute Vote Ross June 16th Vote Ross June 16th Vote Ross June 16th Vote Ross June 16th Vote Ross June 16th Vote Ross June 16th Vote Ross June 16th Vote Ross June 16th Vote Ross June 16th Vote Ross June 16th Vote Ross June 16th Vote Ross June 16th Vote Ross June 16th Vote Ross June 16th Vote Ross June 16th Vote Ross June 16th Vote Ross June 16th Vote Ross June 16th Rossfordistrict73.com Location State Representative District 73 Tulsa, Ok Contact RossDistrict73@gmail.com (918) 679-6347

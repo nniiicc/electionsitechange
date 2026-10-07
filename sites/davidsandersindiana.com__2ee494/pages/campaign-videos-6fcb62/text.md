@@ -1,7 +1,4 @@
-Stop the Water Steal and Data Centers
-I oppose the assault of the Lt Gov against student diversity at Purdue University
-How a respectful campaign is run.
-Learn about David Sanders.
-The dangers of large scale water transfers for industrial projects
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Home About David Events David in the News Campaign Photos On the Issues CAMPAIGN VIDEOS More Home About David Events David in the News Campaign Photos On the Issues CAMPAIGN VIDEOS Home About David Events David in the News Campaign Photos On the Issues CAMPAIGN VIDEOS We have traveled the district & created videos relevant to where we have been and the campaign Join Us Please support our drive for Transparency & Accountability Donate DATA CENTERS Video Stop the Water Steal and Data Centers Video David Sanders stands up for public higher education I oppose the assault of the Lt Gov against student diversity at Purdue University David Sanders respects voters How a respectful campaign is run.
+Introduction Learn about David Sanders.
+David Sanders founded the Stop the Water Steal movement The dangers of large scale water transfers for industrial projects Copyright © # DAVID SANDERS FOR INDIANA STATE SENATE--DISTRICT 23 - All Rights Reserved.
+Paid for by David Sanders for Indiana Powered by Events David in the News Campaign Photos

@@ -1,6 +1,6 @@
-East Texas Leadership.
+Home About Meet Nathaniel Moran Our District Privacy Policy Terms & Conditions Minuteman Get Involved Donate Volunteer Operation Freedom 250 Media News Media Kit Stay Up to Date Donate Donate Operation FREEDOM 250 East Texas Leadership.
 National Impact.
-The First District of Texas has always stood firm for faith, freedom, and a constitutional government by, for, and of the people.
+Our Mission The First District of Texas has always stood firm for faith, freedom, and a constitutional government by, for, and of the people.
 Because of that strength, we are in a unique position to do something bigger—something far beyond the boundaries of the First Congressional District of Texas.
 Operation Freedom 250 is a coalition of willing East Texas volunteers who love this country and are ready to defend it with action — not just here at home, but wherever the campaign trail needs us so that we grow the majority and keep the United States House of Representatives red.
 From block walking to phone banking to everything in between, East Texans are mobilizing to help candidates in tight races across the country.
@@ -15,31 +15,17 @@ We have the conviction.
 We know the stakes have never been higher.
 Now is the time to engage.
 Now is the time to fight to keep our country and preserve liberty.
+Why operation Freedom 250?
 The House majority will be decided in a handful of competitive districts across the country.
 At most, there are about thirty races nationwide that will decide who controls the House of Representatives.
 If we want to secure the border, restore energy dominance, defend life, protect the Second Amendment, and stop the radical Left’s agenda, we cannot sit on the sidelines.
-Operation Freedom 250 exists to:
-- Mobilize committed conservative volunteers from East Texas to go wherever the political fight takes us.
-- Support highly contested Republican races nationwide—both in state and out of state.
-- Protect and expand the Republican majority in the U.S.
-House in the November 2026 election
-- Channel the strength of safe Republican districts like the First District of Texas into battleground fights
-This is about stewardship.
+Operation Freedom 250 exists to: Mobilize committed conservative volunteers from East Texas to go wherever the political fight takes us.
+Support highly contested Republican races nationwide—both in state and out of state.
+Protect and expand the Republican majority in the U.S.
+House in the November 2026 election Channel the strength of safe Republican districts like the First District of Texas into battleground fights This is about stewardship.
 When you are blessed with strength, you use it.
-Operation Freedom 250 members may:
-- Phone bank into competitive districts
-- Text and voter-contact outreach
-- Door knock in targeted races
-- Assist with ballot chase and turnout operations
-- Travel for deployment opportunities
-Whether you have two hours or two weekends, there is a role for you
-- East Texans who believe America’s best days are ahead
-- Conservatives committed to protecting the House majority
-- Volunteers willing to serve beyond their own district
-- Young professionals, retirees, students, veterans, and families
-This is not about one race.
+What Volunteers Will Do Operation Freedom 250 members may: Phone bank into competitive districts Text and voter-contact outreach Door knock in targeted races Assist with ballot chase and turnout operations Travel for deployment opportunities Whether you have two hours or two weekends, there is a role for you Who Should Join?
+East Texans who believe America’s best days are ahead Conservatives committed to protecting the House majority Volunteers willing to serve beyond their own district Young professionals, retirees, students, veterans, and families This is not about one race.
 It's about 435 races and the magic number of 218.
 It’s about the direction of the country.
-PO Box 7066 Tyler, Texas 75711 |
-Copyright © Nathaniel Moran |
-Responsive Website by GroupM7 Design™
+Operation Freedom 250 Interest Form * indicates required First Name * Last Name * Email Address * Phone Number * County * How would you like to help? * Select an option Phone Banking Door Knocking Travel Deployment Digital Outreach Home About Meet Nathaniel Moran Our District Privacy Policy Terms & Conditions Minuteman Get Involved Donate Volunteer Operation Freedom 250 Media News Media Kit Stay Up to Date PO Box 7066 Tyler, Texas 75711 | Copyright © Nathaniel Moran | Responsive Website by GroupM7 Design™

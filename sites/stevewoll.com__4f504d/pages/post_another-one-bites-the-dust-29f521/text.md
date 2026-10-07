@@ -1,7 +1,8 @@
-Another one bites the dust
-The news came out yesterday that the latest Trump Administration soap opera episode led to the firing of Secretary of the Navy John Phelan.
+top of page Donate Now ABOUT Issues Press Get Involved Menu Close ABOUT Issues Press Get Involved DONATE ABOUT Issues Press Get Involved Menu Close DONATE All Posts From The Blog Podcasts Press Releases Another one bites the dust Steve Woll Apr 23 1 min read The news came out yesterday that the latest Trump Administration soap opera episode led to the firing of Secretary of the Navy John Phelan.
 While being a billionaire contributor and veteran of the finance industry are wonderful credentials these days, they didn't make him a good pick to be SECNAV, so I shed no tears at his departure.
 But it's just another demonstration that SECDEF Pete Hegseth is interested only in assembling a team of pushovers and yes men who are willing to swear allegiance to his and President Trump's unrealistic and ill-conceived objectives for the U.S. military.
 Hegseth has mowed down service chiefs, miscellaneous general officers, inspectors general, and more to get that team.
 Yet even the most overachieving team of Yes Men can't put lipstick on the pig that is the Iran war, where our tactics have been superb and our strategy nonexistent.
 Here's hoping that the military and civilian professionals that have so far avoided the axe can keep things moving smoothly enough to ride out the remnants of Hurricane Hegseth.
+From The Blog Recent Posts See All A Chance to Recommit Meeting Hampton Roads Why I'm Stepping Forward...
+ABOUT Issues Press Get Involved ABOUT Issues Press Get Involved Menu Close DONATE ABOUT Issues Press Get Involved STAY UPDATED - SIGN UP FOR OUR OFFICIAL CAMPAIGN NEWSLETTER Email * Yes, subscribe me to your newsletter. * SUBMIT Paid for by Steve Woll For Congress USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY Terms & Conditions | Privacy Policy | Accessibility Statement ABOUT Issues Press Get Involved bottom of page

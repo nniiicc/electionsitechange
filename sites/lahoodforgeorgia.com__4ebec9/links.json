@@ -1,7 +1,42 @@
 [
-"https://facebook.com/John-LaHood-for-Georgia-129386937772609",
-"https://lahoodforgeorgia.com/",
-"https://lahoodforgeorgia.com/johns-plan",
-"https://lahoodforgeorgia.com/meet-john",
-"https://secure.anedot.com/lahoodforgeorgia/donate"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/lahoodforgeorgia/donate"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.anedot.com/lahoodforgeorgia/donate"
+},
+{
+"text": "EMAIL",
+"href": "mailto:john@lahoodforgeorgia.com"
+},
+{
+"text": "GET UPDATES",
+"href": "https://www.lahoodforgeorgia.com/#VOLUNTEER"
+},
+{
+"text": "HOME",
+"href": "https://www.lahoodforgeorgia.com/"
+},
+{
+"text": "JOHN'S RECORD",
+"href": "https://www.lahoodforgeorgia.com/johns-plan"
+},
+{
+"text": "MEET JOHN",
+"href": "https://www.lahoodforgeorgia.com/meet-john"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.lahoodforgeorgia.com/#VOLUNTEER"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/John-LaHood-for-Georgia-129386937772609/"
+},
+{
+"text": "[no text]",
+"href": "mailto:john@lahoodforgeorgia.com"
+}
 ]

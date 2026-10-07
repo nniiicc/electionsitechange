@@ -1,56 +1,298 @@
 [
-"http://election.gov/",
-"http://facebook.com/delegatedenise",
-"http://instagram.com/delegatedenise",
-"http://linkedin.com/in/denisegeneva",
-"http://twitter.com/delegatedenise",
-"http://usvotefoundation.org/",
-"http://usvotefoundation.org/am-i-registered",
-"http://vote411.org/",
-"http://vote411.org/search-by-topic",
-"http://voterservics.eelection.maryland.gov/",
-"https://deniseformaryland.com/",
-"https://deniseformaryland.com/contact",
-"https://deniseformaryland.com/copy-of-legislation",
-"https://deniseformaryland.com/denise-roberts-for-district-25",
-"https://deniseformaryland.com/donate",
-"https://deniseformaryland.com/end-of-session-letter",
-"https://deniseformaryland.com/endorsements",
-"https://deniseformaryland.com/eventlist",
-"https://deniseformaryland.com/get-involved",
-"https://deniseformaryland.com/key-issues",
-"https://deniseformaryland.com/legislation",
-"https://deniseformaryland.com/meet-denise",
-"https://deniseformaryland.com/meet-my-team",
-"https://deniseformaryland.com/mylinks",
-"https://deniseformaryland.com/news-updates",
-"https://deniseformaryland.com/news-updates/categories/blog",
-"https://deniseformaryland.com/news-updates/categories/news-article",
-"https://deniseformaryland.com/news-updates/categories/press-release",
-"https://deniseformaryland.com/news-updates/tags/gotv-2026",
-"https://deniseformaryland.com/our-district",
-"https://deniseformaryland.com/post/1st-year-delegate-denise-roberts-among-13-howard-university-alumni-honored-at-2024-bison-on-annapoli",
-"https://deniseformaryland.com/post/district-25-post-session-recap",
-"https://deniseformaryland.com/product-page/team-roberts-jersey",
-"https://deniseformaryland.com/profile/marvina67829/profile",
-"https://deniseformaryland.com/scholarships",
-"https://deniseformaryland.com/services",
-"https://deniseformaryland.com/voter-resources",
-"https://elections.maryland.gov/elections/2026/primary_candidates/2026_GP_statewide_candidatelist.html",
-"https://elections.maryland.gov/elections/2026/vote2026",
-"https://elections.maryland.gov/voting/index.html",
-"https://kevinmharris.org/",
-"https://msa.maryland.gov/msa/mdmanual/36loc/pg/html/pg.html",
-"https://peoples-law.org/voting-rights",
-"https://signupgenius.com/go/5080E4BAFA82DA4FC1-64454344-2026",
-"https://usvotefoundation.org/",
-"https://usvotefoundation.org/find-my-polling-place",
-"https://usvotefoundation.org/how-to-vote-guide-all-states",
-"https://usvotefoundation.org/state-election-dates-and-deadlines",
-"https://usvotefoundation.org/vote/CreateAccount.htm",
-"https://vote411.org/",
-"https://vote411.org/select-state",
-"https://voterservices.elections.maryland.gov/PollingPlaceSearch",
-"https://voterservices.elections.maryland.gov/VoterSearch",
-"https://youtube.com/channel/UCBmCmiNIhX6XU7hB59aMjAA"
+{
+"text": "#ago",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "1st Year Delegate Denise Roberts Among 13 Howard University Alumni Honored at 2024 Bison in Annapolis Reception",
+"href": "https://www.deniseformaryland.com/post/1st-year-delegate-denise-roberts-among-13-howard-university-alumni-honored-at-2024-bison-on-annapoli"
+},
+{
+"text": "All Posts",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "Am I Registered to Vote?",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "Blog",
+"href": "https://www.deniseformaryland.com/news-updates/categories/blog"
+},
+{
+"text": "CONTACT",
+"href": "https://www.deniseformaryland.com/contact"
+},
+{
+"text": "Contact Information",
+"href": "https://www.kevinmharris.org/"
+},
+{
+"text": "DISTRICT 25 POST 2025 LEGISLATIVE SESSION RECAP",
+"href": "https://www.deniseformaryland.com/post/district-25-post-session-recap"
+},
+{
+"text": "DONATE",
+"href": "https://www.deniseformaryland.com/donate"
+},
+{
+"text": "Delegate Denise's office,",
+"href": "https://www.deniseformaryland.com/voter-resources#anchors-kuwea7k1"
+},
+{
+"text": "END OF SESSION LETTER",
+"href": "https://www.deniseformaryland.com/end-of-session-letter"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.deniseformaryland.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.deniseformaryland.com/eventlist"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.deniseformaryland.com/get-involved"
+},
+{
+"text": "GOTV 2026",
+"href": "https://www.deniseformaryland.com/news-updates/tags/gotv-2026"
+},
+{
+"text": "HOME",
+"href": "https://www.deniseformaryland.com"
+},
+{
+"text": "KEY ISSUES",
+"href": "https://www.deniseformaryland.com/key-issues"
+},
+{
+"text": "LEGISLATION",
+"href": "https://www.deniseformaryland.com/legislation"
+},
+{
+"text": "MEET DENISE",
+"href": "https://www.deniseformaryland.com/meet-denise"
+},
+{
+"text": "MEET MY TEAM",
+"href": "https://www.deniseformaryland.com/meet-my-team"
+},
+{
+"text": "MY LINKS",
+"href": "https://www.deniseformaryland.com/mylinks"
+},
+{
+"text": "Marvina Tribbey",
+"href": "https://www.deniseformaryland.com/profile/marvina67829/profile"
+},
+{
+"text": "Maryland",
+"href": "https://elections.maryland.gov/elections/2026/vote2026/#dates-deadlines"
+},
+{
+"text": "Maryland Elections Portal",
+"href": "https://elections.maryland.gov/elections/2026/vote2026"
+},
+{
+"text": "Maryland Elections Portal",
+"href": "https://elections.maryland.gov/elections/2026/vote2026/"
+},
+{
+"text": "Maryland Elections Portal",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "Maryland Elections Portal",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "Maryland Polling Place Search",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "Maryland State Board",
+"href": "https://elections.maryland.gov/voting/index.html"
+},
+{
+"text": "Maryland State Board of Elections",
+"href": "https://elections.maryland.gov/voting/index.html"
+},
+{
+"text": "Maryland State Board of Elections",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "Maryland State Voter Look Up",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "Maryland elections website",
+"href": "https://elections.maryland.gov/elections/2026/vote2026/#dates-deadlines"
+},
+{
+"text": "NEWS & UPDATES",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "News Article",
+"href": "https://www.deniseformaryland.com/news-updates/categories/news-article"
+},
+{
+"text": "OUR DISTRICT",
+"href": "https://www.deniseformaryland.com/our-district"
+},
+{
+"text": "Press Release",
+"href": "https://www.deniseformaryland.com/news-updates/categories/press-release"
+},
+{
+"text": "Prince George's County",
+"href": "https://msa.maryland.gov/msa/mdmanual/36loc/pg/html/pg.html"
+},
+{
+"text": "SCHOLARSHIPS",
+"href": "https://www.deniseformaryland.com/scholarships"
+},
+{
+"text": "SERVICES",
+"href": "https://www.deniseformaryland.com/services"
+},
+{
+"text": "SINE DIE STATEMENT",
+"href": "https://www.deniseformaryland.com/copy-of-legislation"
+},
+{
+"text": "STORE",
+"href": "https://www.deniseformaryland.com/product-page/team-roberts-jersey"
+},
+{
+"text": "See All",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "Sign up",
+"href": "https://www.signupgenius.com/go/5080E4BAFA82DA4FC1-64454344-2026#/"
+},
+{
+"text": "The Maryland People's Law Library",
+"href": "https://www.peoples-law.org/voting-rights"
+},
+{
+"text": "U.S. Vote Foundation",
+"href": "https://www.usvotefoundation.org"
+},
+{
+"text": "U.S. Vote Foundation Alerts",
+"href": "https://www.usvotefoundation.org/vote/CreateAccount.htm"
+},
+{
+"text": "U.S. Vote Foundation polling place finder",
+"href": "https://www.usvotefoundation.org/find-my-polling-place"
+},
+{
+"text": "U.S. Vote Foundation's State Election Dates & Deadlines",
+"href": "https://www.usvotefoundation.org/state-election-dates-and-deadlines"
+},
+{
+"text": "VOTE411",
+"href": "https://www.vote411.org"
+},
+{
+"text": "VOTE411's state-by-state guide",
+"href": "https://www.vote411.org/select-state"
+},
+{
+"text": "VOTE411's topic search",
+"href": "http://www.vote411.org/search-by-topic"
+},
+{
+"text": "VOTE411.org",
+"href": "http://vote411.org"
+},
+{
+"text": "VOTER RESOURCES",
+"href": "https://www.deniseformaryland.com/voter-resources"
+},
+{
+"text": "Voter Guide",
+"href": "https://www.deniseformaryland.com/denise-roberts-for-district-25"
+},
+{
+"text": "[image: 1st Year Delegate Denise Roberts Among 13 Howard University Alumni Honored at 2024 Bison in Annapolis Reception]",
+"href": "https://www.deniseformaryland.com/post/1st-year-delegate-denise-roberts-among-13-howard-university-alumni-honored-at-2024-bison-on-annapoli"
+},
+{
+"text": "[image: Become an Election Poll Volunteer-Support Team 25]",
+"href": "https://www.signupgenius.com/go/5080E4BAFA82DA4FC1-64454344-2026#/"
+},
+{
+"text": "[image: DISTRICT 25 POST 2025 LEGISLATIVE SESSION RECAP]",
+"href": "https://www.deniseformaryland.com/post/district-25-post-session-recap"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/channel/UCBmCmiNIhX6XU7hB59aMjAA"
+},
+{
+"text": "[image]",
+"href": "http://facebook.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://instagram.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://twitter.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://www.linkedin.com/in/denisegeneva"
+},
+{
+"text": "[no text]",
+"href": "https://elections.maryland.gov/elections/2026/primary_candidates/2026_GP_statewide_candidatelist.html#houseofdelegatesbydistrict25"
+},
+{
+"text": "check registration status",
+"href": "http://www.usvotefoundation.org/am-i-registered"
+},
+{
+"text": "checklist",
+"href": "https://www.deniseformaryland.com/voter-resources#anchors-kuwea7k1"
+},
+{
+"text": "denise.roberts@house.maryland.gov",
+"href": "mailto:denisedenise.roberts@house.state.md.us"
+},
+{
+"text": "election.gov",
+"href": "http://election.gov"
+},
+{
+"text": "hello@deniseformaryland.com",
+"href": "mailto:hello@deniseformaryland.com"
+},
+{
+"text": "how-to-vote guide for all states",
+"href": "https://www.usvotefoundation.org/how-to-vote-guide-all-states"
+},
+{
+"text": "official search tool",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "usvotefoundation.org",
+"href": "http://usvotefoundation.org"
+},
+{
+"text": "v",
+"href": "http://voterservics.eelection.maryland.gov"
+},
+{
+"text": "voterservics.eelection.maryland.go",
+"href": "http://voterservics.eelection.maryland.gov"
+}
 ]

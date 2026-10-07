@@ -1,29 +1,118 @@
 [
-"http://instagram.com/scanlonforcongress",
-"http://twitter.com/marygayscanlon",
-"https://6abc.com/philadelphia-septa-market-frankford-line-federal-grant/14436743",
-"https://delcotimes.com/2024/06/25/the-philip-jaisohn-memorial-foundation-celebrates-history-and-culture-at-korean-american-citizenship-day-festival",
-"https://delcotimes.com/2024/07/02/tribbett-avenue-bridge-reopens-after-2-years-of-construction",
-"https://delcotimes.com/2024/08/29/casey-launches-new-moms-group-initiative-in-reelection-campaign",
-"https://docs.google.com/forms/d/e/1FAIpQLSd5Snzgn4S9nDn8tqYpvpd2WiN1i_xZlwPr3x1lapp2rSYdbg/viewform?emci=aa187569-1950-ef11-86c3-6045bdee6681&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://docs.google.com/forms/d/e/1FAIpQLSecqCLJtHZIlQ3YSTRMs5wO6x7ebgumCHWZk8hSKcZ5vRMx8Q/viewform",
-"https://facebook.com/marygayscanlon",
-"https://inquirer.com/business/africa-center-acana-southwest-philadelphia-20240501.html",
-"https://inquirer.com/business/boeing-chinook-osprey-helicopters-ridley-park-plant-20240416.html",
-"https://inquirer.com/news/philadelphia/epa-schuylkill-waterfront-oil-terminal-cleanup-philadelphia-20240520.html",
-"https://inquirer.com/news/philadelphia/live/joe-biden-philadelphia-time-schedule-location-road-closures-20240529.html",
-"https://keystonenewsroom.com/2024/08/30/pa-congresswomen-call-out-trumps-lies-after-he-flip-flops-on-ivf-treatments",
-"https://msn.com/en-us/news/politics/philadelphia-receives-nearly-9-million-for-expansion-of-electric-vehicle-charging-infrastructure/ar-AA1pChmr",
-"https://ncronline.org/news/catholics-dnc-you-wont-go-hell-voting-democratic",
-"https://npr.org/2024/08/23/nx-s1-5084276/pedestrian-protection-bill-bigger-cars-trucks",
-"https://scanlonforcongress.com/",
-"https://scanlonforcongress.com/about",
-"https://scanlonforcongress.com/contact",
-"https://scanlonforcongress.com/endorsements",
-"https://scanlonforcongress.com/news",
-"https://scanlonforcongress.com/vote",
-"https://secure.actblue.com/donate/socialmgs",
-"https://secure.ngpvan.com/O54OTPKNckWFMdLTqhCBIg2",
-"https://timesherald.com/2024/04/03/aclamo-receives-1-million-federal-grant-for-norristown-community-center-project",
-"https://x.com/marygayscanlon/status/1815131117759942874"
+{
+"text": "About",
+"href": "https://www.scanlonforcongress.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.scanlonforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/socialmgs"
+},
+{
+"text": "Endorsements",
+"href": "https://www.scanlonforcongress.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd5Snzgn4S9nDn8tqYpvpd2WiN1i_xZlwPr3x1lapp2rSYdbg/viewform?refcode2=ea000000-0000-0000-0000-000000000001&emci=aa187569-1950-ef11-86c3-6045bdee6681&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Get Involved",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSecqCLJtHZIlQ3YSTRMs5wO6x7ebgumCHWZk8hSKcZ5vRMx8Q/viewform"
+},
+{
+"text": "Home",
+"href": "https://www.scanlonforcongress.com"
+},
+{
+"text": "Meet Mary Gay",
+"href": "https://www.scanlonforcongress.com/about"
+},
+{
+"text": "News",
+"href": "https://www.scanlonforcongress.com/news"
+},
+{
+"text": "Read More",
+"href": "https://6abc.com/philadelphia-septa-market-frankford-line-federal-grant/14436743/"
+},
+{
+"text": "Read More",
+"href": "https://keystonenewsroom.com/2024/08/30/pa-congresswomen-call-out-trumps-lies-after-he-flip-flops-on-ivf-treatments/"
+},
+{
+"text": "Read More",
+"href": "https://www.delcotimes.com/2024/06/25/the-philip-jaisohn-memorial-foundation-celebrates-history-and-culture-at-korean-american-citizenship-day-festival/"
+},
+{
+"text": "Read More",
+"href": "https://www.delcotimes.com/2024/07/02/tribbett-avenue-bridge-reopens-after-2-years-of-construction/"
+},
+{
+"text": "Read More",
+"href": "https://www.delcotimes.com/2024/08/29/casey-launches-new-moms-group-initiative-in-reelection-campaign/"
+},
+{
+"text": "Read More",
+"href": "https://www.inquirer.com/business/africa-center-acana-southwest-philadelphia-20240501.html"
+},
+{
+"text": "Read More",
+"href": "https://www.inquirer.com/business/boeing-chinook-osprey-helicopters-ridley-park-plant-20240416.html"
+},
+{
+"text": "Read More",
+"href": "https://www.inquirer.com/news/philadelphia/epa-schuylkill-waterfront-oil-terminal-cleanup-philadelphia-20240520.html"
+},
+{
+"text": "Read More",
+"href": "https://www.inquirer.com/news/philadelphia/live/joe-biden-philadelphia-time-schedule-location-road-closures-20240529.html"
+},
+{
+"text": "Read More",
+"href": "https://www.msn.com/en-us/news/politics/philadelphia-receives-nearly-9-million-for-expansion-of-electric-vehicle-charging-infrastructure/ar-AA1pChmr"
+},
+{
+"text": "Read More",
+"href": "https://www.ncronline.org/news/catholics-dnc-you-wont-go-hell-voting-democratic"
+},
+{
+"text": "Read More",
+"href": "https://www.npr.org/2024/08/23/nx-s1-5084276/pedestrian-protection-bill-bigger-cars-trucks"
+},
+{
+"text": "Read More",
+"href": "https://www.scanlonforcongress.com/news"
+},
+{
+"text": "Read More",
+"href": "https://www.timesherald.com/2024/04/03/aclamo-receives-1-million-federal-grant-for-norristown-community-center-project/"
+},
+{
+"text": "Read More",
+"href": "https://x.com/marygayscanlon/status/1815131117759942874"
+},
+{
+"text": "Sign Up For Our Newsletter",
+"href": "https://secure.ngpvan.com/O54OTPKNckWFMdLTqhCBIg2"
+},
+{
+"text": "VOTE",
+"href": "https://www.scanlonforcongress.com/vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/marygayscanlon/"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://www.instagram.com/scanlonforcongress"
+},
+{
+"text": "[image: Twitter]",
+"href": "http://www.twitter.com/marygayscanlon"
+}
 ]

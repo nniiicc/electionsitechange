@@ -1,14 +1,7 @@
-Meet Andrew Hysell
-Throughout his career, whether it was working in the Wisconsin Legislature or on the local level, Andrew Hysell has fought for what is right.
-Whether it was promoting worker’s interests, protecting children from big tobacco’s influence, fighting for fair maps, or advocating to legalize and decriminalize cannabis, Andrew fights for what is right.
-ENDORSED BY GOVERNOR TONY EVERS
-“Andrew has dedicated his career to helping kids and defending our rights.
+0 Skip to Content Home About Videos Issues Endorsements Blog Contact Donate Open Menu Close Menu Home About Videos Issues Endorsements Blog Contact Donate Open Menu Close Menu Home About Videos Issues Endorsements Blog Contact Donate Meet Andrew Hysell Throughout his career, whether it was working in the Wisconsin Legislature or on the local level, Andrew Hysell has fought for what is right.
+Whether it was promoting worker’s interests , protecting children from big tobacco’s influence , fighting for fair maps , or advocating to legalize and decriminalize cannabis, Andrew fights for what is right.
+ENDORSED BY GOVERNOR TONY EVERS “Andrew has dedicated his career to helping kids and defending our rights.
 He will represent the people of the 48th with passion and integrity.
-I am looking forward to having him as a strong partner in the Assembly.”
-ENDORSED BY SENATOR MELISSA AGARD
-“I have worked for years with Andrew and know firsthand his commitment to public service and his pursuit of policy to help all Wisconsinites, not just a privileged few.
-As an advocate, he fought alongside me to promote policies such as fair legislative maps, the legalization and decriminalization of cannabis and protecting access to abortion.” She continued, “I know he would be an excellent representative for the people of the 48th Assembly District.”
-ENDORSE BY SENATOR KELDA ROYS
-“We need a leader like Andrew Hysell in the state assembly to fight for our progressive future.
-I know Andrew will get the job done.”
-“
+I am looking forward to having him as a strong partner in the Assembly.” ENDORSED BY SENATOR MELISSA AGARD “I have worked for years with Andrew and know firsthand his commitment to public service and his pursuit of policy to help all Wisconsinites, not just a privileged few.
+As an advocate, he fought alongside me to promote policies such as fair legislative maps, the legalization and decriminalization of cannabis and protecting access to abortion.” She continued, “I know he would be an excellent representative for the people of the 48th Assembly District.” ENDORSE BY SENATOR KELDA ROYS “We need a leader like Andrew Hysell in the state assembly to fight for our progressive future.
+I know Andrew will get the job done.” “ For The Latest News & Announcements From Andrew Hysell for Assembly PO Box 359 Sun Prairie, WI 53590 andrew@hysell4assembly.com Donate Home About Issues Media & Events Election Info Contact Paid for by Hysell for Assembly

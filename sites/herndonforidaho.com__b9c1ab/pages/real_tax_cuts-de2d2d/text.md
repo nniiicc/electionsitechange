@@ -1,9 +1,11 @@
-Tax Relief and lowering taxes.
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page Property Taxes, Gas Taxes, Income Taxes Sep 21, 2022 | Idaho Money , Legislative News , Policy Analysis Tax Relief and lowering taxes.
 Gas Tax.
 Did you know every time you fill up your car with gas you are paying 32 cents per gallon in Idaho tax on gasoline?
 An additional tax of 1 cent per gallon on fuel in Idaho pays for clean water.
 You are also paying 18.4 cents per gallon in federal gas tax.
 These kinds of taxes are called excise taxes.
+Revenue from the Idaho gasoline tax, a tax higher than 28 other states, raised $# million last year.
 The monies are primarily spent on roads, bridges and railroad crossings.
 Grocery Sales Tax.
 Idaho has a current $2 billion surplus over budgeted expenditures for corporate and personal income taxes and sales taxes.
@@ -57,3 +59,5 @@ Both the rebate and the tax rate cuts are essentially giving back a portion of t
 But, there is much more room to reduce taxes without cutting services and without even yet getting into making government more efficient.
 I am a Republican who wants to minimize the footprint of government in our lives and wants to find solutions to make the government we do want more efficient.
 And when we have surpluses, and they are maintained, we should cut tax rates to make Idaho more competitive and attractive.
+Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

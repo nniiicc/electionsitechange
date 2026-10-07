@@ -1,4 +1,4 @@
-Representative Charlene Ward Johnson brings decades of leadership, advocacy, and public service to the Texas House of Representatives, where she proudly serves District 139.
+Meet Charlene DONATE Volunteer Legislative Updates Representative Charlene Ward Johnson brings decades of leadership, advocacy, and public service to the Texas House of Representatives, where she proudly serves District 139.
 A lifelong Democrat and devoted mother of two, Rep.
 Ward Johnson is deeply committed to strengthening democracy and building inclusive communities where everyone has access to fair and equal opportunities.
 Throughout her tenure, Rep.
@@ -15,4 +15,4 @@ Memorial Breakfast, President of her neighborhood Civic Club, President of the U
 In recognition of her service, she received the University of Houston Outstanding Volunteer Award in 2018.
 Charlene is a longtime volunteer with the Houston Livestock Show and Rodeo Ticket Service Committee and is a proud member of Alpha Kappa Alpha Sorority, Inc. and Top Ladies of Distinction, Humble Intercontinental Chapter.
 In 1991, Rep Ward Johnson graduated from the University of Houston with a Bachelor's Degree in Technology.
-In 2021, she graduated from the University of Arizona with a master's degree in organizational management with a Specialization in Public Administration
+In 2021, she graduated from the University of Arizona with a master's degree in organizational management with a Specialization in Public Administration DONATE Volunteer Contact Legislative Updates Committee to Elect Charlene Ward Johnson Powered by CampaignPartner.com - Political Campaign Websites Meet Charlene DONATE Volunteer Legislative Updates Close Menu

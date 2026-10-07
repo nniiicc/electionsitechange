@@ -1,11 +1,50 @@
 [
-"https://ermissolutions.com/",
-"https://facebook.com/share/1Ra5yyVjHz?mibextid=wwXIfr",
-"https://flickr.com/photos/sebastianstoss",
-"https://instagram.com/sebastian.stoss?igsh=MXc1bTM2dXczOTRtcw%3D%3D",
-"https://secure.winred.com/sebastian-stoss-campaign-committee/donate-today?qr=true",
-"https://stossforhouse.com/",
-"https://stossforhouse.com/gallery",
-"https://stossforhouse.com/yard-sign",
-"https://x.com/SebastianStoss"
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/sebastian-stoss-campaign-committee/donate-today?qr=true"
+},
+{
+"text": "Ermis Solutions",
+"href": "https://ermissolutions.com/"
+},
+{
+"text": "Flickr",
+"href": "https://www.flickr.com/photos/sebastianstoss/"
+},
+{
+"text": "Gallery",
+"href": "https://stossforhouse.com/gallery/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://stossforhouse.com/yard-sign/"
+},
+{
+"text": "View Full Gallery",
+"href": "https://stossforhouse.com/gallery/"
+},
+{
+"text": "[image: MNCR Logo]",
+"href": "https://stossforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1Ra5yyVjHz/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sebastian.stoss?igsh=MXc1bTM2dXczOTRtcw%3D%3D"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SebastianStoss"
+},
+{
+"text": "[no text]",
+"href": "mailto:stossforhouse@gmail.com"
+},
+{
+"text": "stossforhouse@gmail.com",
+"href": "mailto:stossforhouse@gmail.com"
+}
 ]

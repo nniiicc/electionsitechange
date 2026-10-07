@@ -1,13 +1,46 @@
 [
-"https://facebook.com/RayJeffersForNorthCarolina",
-"https://rayjeffers.com/",
-"https://rayjeffers.com/about",
-"https://rayjeffers.com/endorsements",
-"https://rayjeffers.com/issues",
-"https://rayjeffers.com/landing",
-"https://rayjeffers.com/privacy-policy",
-"https://rayjeffers.com/store/cart",
-"https://rayjeffers.com/volunteer",
-"https://secure.actblue.com/donate/b--ray-jeffers-for-north-carolina-1",
-"https://twitter.com/B_RayJeffers"
+{
+"text": "About",
+"href": "https://rayjeffers.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/b--ray-jeffers-for-north-carolina-1"
+},
+{
+"text": "Endorsements",
+"href": "https://rayjeffers.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://rayjeffers.com/landing"
+},
+{
+"text": "Issues",
+"href": "https://rayjeffers.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rayjeffers.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://rayjeffers.com/volunteer"
+},
+{
+"text": "[image: Ray Jeffers for NC HOUSE District 2]",
+"href": "https://rayjeffers.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/B_RayJeffers"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RayJeffersForNorthCarolina"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://rayjeffers.com/store/cart"
+}
 ]

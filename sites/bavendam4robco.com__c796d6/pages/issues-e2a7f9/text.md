@@ -1,9 +1,5 @@
-Strong Public Education
-Universal Pre-K
-Pay teachers as professionals
-Free school meals
-End teaching to the test
-CTE (Career and Technical Education) in all high schools
-More mental health support in schools
-Increase the number of bus drivers and routes
-End the voucher scam
+Skip navigation menu Home About Issues News Endorsements Events Volunteer Contact Vote Donate Home About Issues News Endorsements Events Volunteer Contact Vote Donate learn more about Tamara's Top Issues Tamara has spent her life stepping up when it mattered most.
+Now she’s doing it again.
+And she’s asking you to step up with her!
+Strong Public Education Supporting Family Farms Supporting Working People Supporting our Senior Citizens Supporting our Veterans Affordable Healthcare for ALL Strong Public Education Universal Pre-K Pay teachers as professionals Free school meals End teaching to the test CTE (Career and Technical Education) in all high schools More mental health support in schools Increase the number of bus drivers and routes End the voucher scam View more Supporting Family Farms Investment in infrastructure Universal Broadband State-level emergency protections for small farms Fair Trade Policies View more Supporting Working People Pro Union End tax on necessities (food, hygiene, and school supplies) Promote workforce and vocational development Raise the minimum wage Free childcare Expand family and medical leave Improve public transportation Increase funding for affordable housing View more Supporting our Senior Citizens Protect Social Security Protect Medicare and Medicaid Recognize family caregivers View more Supporting our Veterans Specialized Veteran's Health Services Subsidize Housing Encourage companies to hire vets Foster veteran-owned business development View more Affordable Healthcare for ALL Private insurers mandated to cover the entire risk pool Expand Medicaid Protect rural hospitals Support maternal health equity Invest in mental health and addiction recovery View more Have any questions?
+Email us at campaign@bavendam4robco.com Powered by RUN! website builder Paid For By Citizens For Tamara, Donna Lewis Treasurer You need to enable JavaScript to run this app.

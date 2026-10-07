@@ -1,9 +1,3 @@
-Skip to content
-Join the Team
-Values and Issues
-Updates
-Photos
-Events
-Donate
-Donate
-There's nothing to see here yet but come back soon!
+Skip to content Join the Team Values and Issues Updates Photos Events Donate Donate There's nothing to see here yet but come back soon! *Prepared and paid for by the campaign fund of Sara Bertschinger.
+49685 County 55 Blvd.
+Pine Island, MN 55963

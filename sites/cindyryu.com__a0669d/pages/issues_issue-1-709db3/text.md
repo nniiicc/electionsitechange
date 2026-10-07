@@ -1,9 +1,7 @@
-Cindy believes in
-Community Safety
-I have fought, at every level of government, to strengthen accountability and justice in our criminal justice system.
-My 2016 bill (HB 2908) creating the Deadly Force Accountability Task Force, which became law, strengthens oversight of law enforcement's use of deadly force and regulates how officers are held accountable while maintaining public safety.
-One of my proudest legislative achievements is the passage and signing of my Deterring the Theft of Catalytic Converters bill (HB 2153).
+Skip navigation menu About Issues Endorsements Events Volunteer Contact Donate About Issues Endorsements Events Volunteer Contact Donate Addressing Affordability Fully Funding Education Housing Supporting Small Businesses Consumer Protection Reproductive Rights Community Safety Green Energy & Environmental Protection Closing Equity Gaps Transportation Maintenance and Expansion Cindy believes in Community Safety I have fought, at every level of government, to strengthen accountability and justice in our criminal justice system.
+My 2016 bill ( HB 2908 ) creating the Deadly Force Accountability Task Force , which became law, strengthens oversight of law enforcement's use of deadly force and regulates how officers are held accountable while maintaining public safety.
+One of my proudest legislative achievements is the passage and signing of my Deterring the Theft of Catalytic Converters bill ( HB 2153 ).
 I recognized the urgent need to protect our community from the vandalism and financial burden caused by these thefts and worked tirelessly to ensure this bill became law.
 I have also worked to increase protections for victims of hate crimes and gender-based violence.
-In the 2026 session, I sponsored the Clarifying A Hate Crime Offense bill (HB 1052), which makes clear that a crime can be considered a hate crime if it is motivated in whole or in part by bias and ensures that perpetrators are held accountable and victims receive justice.
-Last year, I co-sponsored HB 1484 to impose stronger sentences for rapes that result in pregnancies, protect survivors, and reaffirm our commitment to dignity and fairness.
+In the 2026 session, I sponsored the Clarifying A Hate Crime Offense bill ( HB 1052 ), which makes clear that a crime can be considered a hate crime if it is motivated in whole or in part by bias and ensures that perpetrators are held accountable and victims receive justice.
+Last year, I co-sponsored HB 1484 to impose stronger sentences for rapes that result in pregnancies , protect survivors, and reaffirm our commitment to dignity and fairness. cindy@cindyryu.com Powered by RUN! website builder Paid for by Friends For Cindy Ryu (D) PO Box 33548 Seattle, WA 98133 You need to enable JavaScript to run this app.

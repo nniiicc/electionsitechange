@@ -1,6 +1,4 @@
-Meet Mark
-LEADERSHIP DELIVERING RESULTS FOR SENATE DISTRICT 1
-My wife Skyler and I live in East Grand Forks with our three children: Archer 10, Livley 8, and Cullen 6.
+Endorsements Issues Meet Mark Gallery Contact Us DONATE TODAY Meet Mark LEADERSHIP DELIVERING RESULTS FOR SENATE DISTRICT 1 My wife Skyler and I live in East Grand Forks with our three children: Archer 10, Livley 8, and Cullen 6.
 Family means everything to us, and our roots in this community run very deep.
 Not only did we both grow up in the area, but our families have lived here for generations.
 I grew up in Maple Lake, near Mentor, and graduated from Fertile-Beltrami High School.
@@ -20,3 +18,4 @@ It is time to let the folks in St.
 Paul understand there is opportunity in our state right here.
 That’s why I am running for State Senate.
 Together we will build a vibrant community that will be enjoyed for generations to come.
+GET TO KNOW MARK JOHNSON Prepared and Paid for by Mark Johnson for State Senate Copyright ©#

@@ -1,8 +1,26 @@
 [
-"https://burnsforiowa.com/",
-"https://burnsforiowa.com/Volunteer/Platform",
-"https://burnsforiowa.com/Volunteer/Volunteer",
-"https://linktr.ee/burnsforiowa",
-"https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2FVoterRegistration",
-"https://secure.actblue.com/donate/BurnsForIowa"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/BurnsForIowa"
+},
+{
+"text": "Home",
+"href": "https://burnsforiowa.com/"
+},
+{
+"text": "Links",
+"href": "https://linktr.ee/burnsforiowa"
+},
+{
+"text": "Platform",
+"href": "https://burnsforiowa.com/Volunteer/Platform/"
+},
+{
+"text": "Volunteer",
+"href": "https://burnsforiowa.com/Volunteer/Volunteer/"
+},
+{
+"text": "here.",
+"href": "https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2FVoterRegistration"
+}
 ]

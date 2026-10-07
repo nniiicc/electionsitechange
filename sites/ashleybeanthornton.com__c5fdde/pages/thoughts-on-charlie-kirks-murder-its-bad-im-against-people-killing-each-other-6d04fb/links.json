@@ -1,26 +1,134 @@
 [
-"https://ashleybeanthornton.com/",
-"https://ashleybeanthornton.com/blog",
-"https://ashleybeanthornton.com/build-the-texas",
-"https://ashleybeanthornton.com/disclaimer",
-"https://ashleybeanthornton.com/donate",
-"https://ashleybeanthornton.com/es/mis-pensamientos-sobre-el-asesinato-de-charlie-kirk-es-malo-estoy-en-contra-de-que-la-gente-se-mate-entre-si",
-"https://ashleybeanthornton.com/peace-and-quiet-are-not-the-same-for-true-peace-we-need-to-start-talking",
-"https://ashleybeanthornton.com/privacy-policy",
-"https://ashleybeanthornton.com/public-schools",
-"https://ashleybeanthornton.com/stay-in-the-loop",
-"https://ashleybeanthornton.com/tag/pulling-together-instead-of-pushing-apart",
-"https://ashleybeanthornton.com/terms-of-service",
-"https://ashleybeanthornton.com/texas-economy",
-"https://ashleybeanthornton.com/the-texas-scorecard-my-enemy",
-"https://ashleybeanthornton.com/thoughts-on-charlie-kirks-murder-its-bad-im-against-people-killing-each-other",
-"https://ashleybeanthornton.com/volunteer",
-"https://ashleybeanthornton.com/wandering-the-neighborhood",
-"https://ashleybeanthornton.com/work-together",
-"https://deaddillo.com/thoughts-on-charlie-kirks-murder-its-bad-im-against-people-killing-each-other",
-"https://digitalmediabutterfly.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSfphAk0jaOzBtCjSFXqzUPm_ktb3To70vRNxnz59sKJDp9peQ/viewform?pli=1",
-"https://facebook.com/ThorntonForTexas",
-"https://instagram.com/thorntonfortexas",
-"https://store.holeintheroof.com/ashleybeanthornton/shop/products/all?page=1"
+{
+"text": "Blog",
+"href": "https://ashleybeanthornton.com/blog/"
+},
+{
+"text": "Dead Dillo",
+"href": "https://deaddillo.com/thoughts-on-charlie-kirks-murder-its-bad-im-against-people-killing-each-other/"
+},
+{
+"text": "Digital Media Butterfly",
+"href": "https://digitalmediabutterfly.com"
+},
+{
+"text": "Disclaimer",
+"href": "https://ashleybeanthornton.com/disclaimer/"
+},
+{
+"text": "Donate",
+"href": "https://ashleybeanthornton.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://ashleybeanthornton.com/donate/"
+},
+{
+"text": "FB",
+"href": "https://www.facebook.com/ThorntonForTexas/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ThorntonForTexas/"
+},
+{
+"text": "Home",
+"href": "https://ashleybeanthornton.com/"
+},
+{
+"text": "IG",
+"href": "https://www.instagram.com/thorntonfortexas/"
+},
+{
+"text": "Info@AshleyBeanThornton.com",
+"href": "mailto:info@ashleybeanthornton.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/thorntonfortexas/"
+},
+{
+"text": "Join the Newsletter",
+"href": "https://ashleybeanthornton.com/stay-in-the-loop/"
+},
+{
+"text": "Newsletter",
+"href": "https://ashleybeanthornton.com/stay-in-the-loop/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ashleybeanthornton.com/privacy-policy/"
+},
+{
+"text": "Pulling together Instead of Pushing Apart",
+"href": "https://ashleybeanthornton.com/tag/pulling-together-instead-of-pushing-apart/"
+},
+{
+"text": "Read More »",
+"href": "https://ashleybeanthornton.com/peace-and-quiet-are-not-the-same-for-true-peace-we-need-to-start-talking/"
+},
+{
+"text": "Read More »",
+"href": "https://ashleybeanthornton.com/the-texas-scorecard-my-enemy/"
+},
+{
+"text": "Read More »",
+"href": "https://ashleybeanthornton.com/wandering-the-neighborhood/"
+},
+{
+"text": "Shop",
+"href": "https://store.holeintheroof.com/ashleybeanthornton/shop/products/all?page=1"
+},
+{
+"text": "Strong Public Schools",
+"href": "https://ashleybeanthornton.com/public-schools/"
+},
+{
+"text": "Terms of Service",
+"href": "https://ashleybeanthornton.com/terms-of-service/"
+},
+{
+"text": "The Texas Economy",
+"href": "https://ashleybeanthornton.com/texas-economy/"
+},
+{
+"text": "The Texas Scorecard – My Enemy (2023)",
+"href": "https://ashleybeanthornton.com/the-texas-scorecard-my-enemy/"
+},
+{
+"text": "The Texas We want",
+"href": "https://ashleybeanthornton.com/build-the-texas/"
+},
+{
+"text": "Volunteer",
+"href": "https://ashleybeanthornton.com/volunteer/"
+},
+{
+"text": "Wandering the Neighborhood… (2024)",
+"href": "https://ashleybeanthornton.com/wandering-the-neighborhood/"
+},
+{
+"text": "Working Together",
+"href": "https://ashleybeanthornton.com/work-together/"
+},
+{
+"text": "Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfphAk0jaOzBtCjSFXqzUPm_ktb3To70vRNxnz59sKJDp9peQ/viewform?pli=1"
+},
+{
+"text": "[image]",
+"href": "https://ashleybeanthornton.com/"
+},
+{
+"text": "[image] English",
+"href": "https://ashleybeanthornton.com/thoughts-on-charlie-kirks-murder-its-bad-im-against-people-killing-each-other/"
+},
+{
+"text": "[image] Spanish",
+"href": "https://ashleybeanthornton.com/es/mis-pensamientos-sobre-el-asesinato-de-charlie-kirk-es-malo-estoy-en-contra-de-que-la-gente-se-mate-entre-si/"
+},
+{
+"text": "“Peace” and “Quiet” are not the same. For true peace we need to start talking!",
+"href": "https://ashleybeanthornton.com/peace-and-quiet-are-not-the-same-for-true-peace-we-need-to-start-talking/"
+}
 ]

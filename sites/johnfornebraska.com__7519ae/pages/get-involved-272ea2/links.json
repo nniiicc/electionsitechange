@@ -1,12 +1,54 @@
 [
-"https://facebook.com/SenatorFredrickson",
-"https://instagram.com/johnforne",
-"https://johnfornebraska.com/",
-"https://johnfornebraska.com/about",
-"https://johnfornebraska.com/about-5",
-"https://johnfornebraska.com/get-involved",
-"https://johnfornebraska.com/privacy-policy",
-"https://johnfornebraska.com/terms-and-conditions",
-"https://secure.actblue.com/donate/friends-for-john-fredrickson-1",
-"https://x.com/JohnforNE"
+{
+"text": "About",
+"href": "https://www.johnfornebraska.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-for-john-fredrickson-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.johnfornebraska.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.johnfornebraska.com"
+},
+{
+"text": "Nebraska's Unicameral",
+"href": "https://www.johnfornebraska.com/about-5"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.johnfornebraska.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.johnfornebraska.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.johnfornebraska.com/get-involved"
+},
+{
+"text": "[image: JF SENATE_LOGO_FNL-01.png]",
+"href": "https://www.johnfornebraska.com"
+},
+{
+"text": "[image: social-icon__facebook__v2]",
+"href": "https://www.facebook.com/SenatorFredrickson/"
+},
+{
+"text": "[image: social-icon__instagram__v1]",
+"href": "https://www.instagram.com/johnforne"
+},
+{
+"text": "[image: social-icon__x__v1]",
+"href": "https://x.com/JohnforNE"
+},
+{
+"text": "hello@johnfornebraska.com",
+"href": "mailto:hello@johnfornebraska.com"
+}
 ]

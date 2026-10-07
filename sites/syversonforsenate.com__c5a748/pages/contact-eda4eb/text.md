@@ -1,6 +1,7 @@
-Contact Dave
-Thank you for your interest in our campaign.
+0 Skip to Content Home Meet Dave Bio The District Awards & Endorsements Volunteer Voter Info Donate Contact Open Menu Close Menu Home Meet Dave Bio The District Awards & Endorsements Volunteer Voter Info Donate Contact Open Menu Close Menu Home Folder: Meet Dave Back Bio The District Awards & Endorsements Volunteer Voter Info Donate Contact Contact Dave Thank you for your interest in our campaign.
 Hearing directly from voters is one of the most important parts of earning your trust and serving our communities.
 Whether you have a question, would like to volunteer, request a yard sign, invite Dave to an event, or share an issue important to you and your family, we want to hear from you.
 Please complete the form below, and a member of our campaign team will be in touch as soon as possible.
 Together, we can continue fighting for lower taxes, safer communities, economic growth, and the values that make northern Illinois a great place to live, work, and raise a family.
+Follow Us on Social Media Home Meet Dave Issues & Core Values Donate Contact Me Phone: (815) 914-5108 Email: Iori@syversonforsenate.com 527 Colman Center Drive | Cherry Valley, IL, United States, 61108 A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.
+Paid for by Syverson for Senate. © # All Rights Reserved.

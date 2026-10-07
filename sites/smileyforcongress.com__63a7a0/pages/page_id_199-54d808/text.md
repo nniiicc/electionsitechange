@@ -1,0 +1,2 @@
+Skip to content Home Information Platform Issues Endorsements/Voter Guides My Opponent In the News FAQ Gallery Resources Join Heather Donate About Our District Privacy Policy Terms and Conditions In the News Log Cabin Republicans Jun 5, 2024 — by Ron in Article , Event Thank you Pete Hoekstra Jun 5, 2024 — by Ron in Video Ballotpedia Jun 5, 2024 — by Ron in Article Privacy Privacy Policy Terms and Conditions Contact Us Social Facebook Instagram Twitter/X Paid for by the CTE Heather Smiley P.O.
+Box 2093 Riverview, Michigan 48193

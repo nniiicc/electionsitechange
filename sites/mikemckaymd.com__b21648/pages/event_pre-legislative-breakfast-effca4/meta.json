@@ -1,7 +1,11 @@
 {
- "description": "Pre-Legislative Breakfast December 6th | 9:00am \u2013 11:00am Rocky Gap Casino Resort Register Here",
+ "description": "Pre-Legislative Breakfast December 6th | 9:00am – 11:00am Rocky Gap Casino Resort Register Here",
  "final_url": "https://mikemckaymd.com/event/pre-legislative-breakfast/",
- "paid_for_by": null,
+ "fingerprint": "a105d57f2da86e92c8e1a445ab23266c47d853bb",
+ "format": 3,
+ "paid_for_by": "sponsored by Sen",
  "title": "Pre-Legislative Breakfast - State Senator Mike McKay for Maryland District 1",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

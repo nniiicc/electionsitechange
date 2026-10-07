@@ -1,5 +1,4 @@
-February 2025 Letter
-February, oh February.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all The Dead of Winter The Dead of Winter The Dead of Winter Feb 28, 2025 Feb 28, 2025 February 2025 Letter Snowy Session - 6 February 2025 - 09:59 - Concord, NH - Taken by Jonah Snowy Session - 6 February 2025 - 09:59 - Concord, NH - Taken by Jonah February, oh February.
 The dead of the winter.
 The cold, dry air bites as all of us do our best to make it to spring.
 In these the coldest days of the year I am thinking of those with no way to get warm.
@@ -32,7 +31,7 @@ Due to the strength of the citizenry, and the resolve of twenty-five members of 
 Those brave members of the majority face a fantastic amount of flak from the well funded elements of their party which for decades has tried to pass this legislation.
 All of them will almost certainly face a primary.
 In this time of political cowardice it is heartening to see that some still have the backbone necessary to be in the legislature.
-The House heard hundreds of different pieces of legislation this month but the one which garnered the most attention was House Bill 283.
+Tax Relief Speech - Taken by an Unknown Colleague Tax Relief Speech - Taken by an Unknown Colleague The House heard hundreds of different pieces of legislation this month but the one which garnered the most attention was House Bill 283.
 The bill would amend RSA 193-E:2-a, and E:3-b, the state statutes regarding the ‘Substantive Educational Content of an Adequate Education’ and ‘Accountability for the Opportunity for an Adequate Education’.
 The statutes defines each subject which the State deems necessary for an education in our schools such as english/language arts and reading, mathematics, science, social studies, personal finance literacy and six other subjects.
 The bill would remove from this list the subjects of civics and government education, history, arts education, world languages, engineering and technology applications, personal finance literacy, and computer science.
@@ -57,7 +56,7 @@ The House Ways and Means committees estimates for revenues in the next fiscal ye
 Therefore the House will have less money to craft a budget with.
 All agencies and departments budgeted by the State are bracing for serious cuts.
 The House will likely have the text of the budget out by the beginning of March, with a public hearing to follow.
-This is the heat of the legislature, and oh how hot it is.
+Glimmer on the Snow - 18 February 2025 - 17:26 - Concord, NH - Taken by Jonah Glimmer on the Snow - 18 February 2025 - 17:26 - Concord, NH - Taken by Jonah This is the heat of the legislature, and oh how hot it is.
 I have been running around the House almost every day to politic legislation I’ve sponsored, or bills of importance such as the ‘mooch off the union’ bill and the bill which said that students in our State don’t need to learn history.
 Assisting members and constituents who request my support, and answering every message, email, and text that I get.
 Such is the work of the legislature that I am privileged to be able to do.
@@ -68,4 +67,5 @@ A number of my bills have now passed onto the Senate, including my legislation o
 The sun is setting.
 Glistening light dances over the icy snow.
 The power of the citizenry was proved this month and as the promise of spring looms, let us not forget it.
-Back to all
+Tesla at the Capitol - 12 February 2025 - 10:17 - Concord, NH - Taken by Jonah Tesla at the Capitol - 12 February 2025 - 10:17 - Concord, NH - Taken by Jonah ‹ How Do You Sleep At Night? ‹ How Do You Sleep At Night? ‹ How Do You Sleep At Night?
+2025 › 2025 › 2025 › Back to all

@@ -1,41 +1,198 @@
 [
-"https://act.marypeltola.com/signup/mary-alaska-volunteer",
-"https://bsky.app/profile/marypeltola.com",
-"https://facebook.com/marypeltola",
-"https://instagram.com/marypeltola",
-"https://marypeltola.com/",
-"https://marypeltola.com/affordability",
-"https://marypeltola.com/call-for-artists",
-"https://marypeltola.com/cdn-cgi/l/email-protection",
-"https://marypeltola.com/contact",
-"https://marypeltola.com/energy",
-"https://marypeltola.com/fish",
-"https://marypeltola.com/fixing-system",
-"https://marypeltola.com/get-involved",
-"https://marypeltola.com/in-the-news",
-"https://marypeltola.com/jobs",
-"https://marypeltola.com/mary-peltola-champions-lifelong-fight-for-fisheries-at-kodiak-fisheries-debate-crushes-dan-sullivan-his-lower-48-anti-fish-agenda",
-"https://marypeltola.com/mary-peltola-holds-community-meet-and-greets-in-ketchikan-and-prince-of-wales",
-"https://marypeltola.com/mary-peltola-rallies-fired-up-volunteers-at-anchorage-field-office",
-"https://marypeltola.com/press",
-"https://marypeltola.com/privacy-policy",
-"https://marypeltola.com/request-a-yard-sign",
-"https://marypeltola.com/splash",
-"https://marypeltola.com/story",
-"https://marypeltola.com/veterans",
-"https://mobilize.us/alaskafirst",
-"https://salmonrun.marypeltola.com/",
-"https://secure.actblue.com/donate/mp-web",
-"https://store.marypeltola.com/",
-"https://threads.com/@marypeltola",
-"https://tiktok.com/@mary_peltola",
-"https://us.list-manage.com/14GHzsHaS4G?e=c6f9225350&c2id=e96152657bfee36b1d15fb6ec33fc92d",
-"https://us.list-manage.com/18iN2RmfSKc?e=c6f9225350&c2id=e96152657bfee36b1d15fb6ec33fc92d",
-"https://us.list-manage.com/9pEoBNBBrRU?e=c6f9225350&c2id=e96152657bfee36b1d15fb6ec33fc92d",
-"https://us.list-manage.com/MOPy8JRn5zu?e=c6f9225350&c2id=e96152657bfee36b1d15fb6ec33fc92d",
-"https://us.list-manage.com/OsdiYzOtlF8?e=c6f9225350&c2id=e96152657bfee36b1d15fb6ec33fc92d",
-"https://us.list-manage.com/mfztuY8GEQD?e=c6f9225350&c2id=e96152657bfee36b1d15fb6ec33fc92d",
-"https://us.list-manage.com/mnSXu2_sECO?e=c6f9225350&c2id=e96152657bfee36b1d15fb6ec33fc92d",
-"https://us.list-manage.com/se8LWmPanrf?e=c6f9225350&c2id=e96152657bfee36b1d15fb6ec33fc92d",
-"https://x.com/MaryPeltola"
+{
+"text": "Affordability",
+"href": "https://marypeltola.com/affordability/"
+},
+{
+"text": "CALL FOR ARTISTS",
+"href": "https://marypeltola.com/call-for-artists/"
+},
+{
+"text": "CONTACT",
+"href": "https://marypeltola.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mp-web"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mp-web"
+},
+{
+"text": "Energy",
+"href": "https://marypeltola.com/energy/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/alaskafirst/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/marypeltola"
+},
+{
+"text": "Fish",
+"href": "https://marypeltola.com/fish/"
+},
+{
+"text": "Fixing the Rigged System",
+"href": "https://marypeltola.com/fixing-system/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://marypeltola.com/#involved"
+},
+{
+"text": "Get Involved",
+"href": "https://marypeltola.com/get-involved/"
+},
+{
+"text": "In the News",
+"href": "https://marypeltola.com/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/marypeltola/"
+},
+{
+"text": "Jobs",
+"href": "https://marypeltola.com/jobs/"
+},
+{
+"text": "Joe Biden",
+"href": "https://us.list-manage.com/9pEoBNBBrRU?e=c6f9225350&c2id=e96152657bfee36b1d15fb6ec33fc92d"
+},
+{
+"text": "MAKE A DONATION",
+"href": "https://secure.actblue.com/donate/mp-web"
+},
+{
+"text": "Mary Peltola Champions Lifelong Fight for Fisheries at Kodiak Fisheries Debate, Crushes Dan Sullivan & His Lower 48 Anti-Fish Agenda",
+"href": "https://marypeltola.com/mary-peltola-champions-lifelong-fight-for-fisheries-at-kodiak-fisheries-debate-crushes-dan-sullivan-his-lower-48-anti-fish-agenda/"
+},
+{
+"text": "My Story",
+"href": "https://marypeltola.com/story/"
+},
+{
+"text": "OPINION: The Democratic Senate Candidate Who Wisely Defends Oil",
+"href": "https://us.list-manage.com/se8LWmPanrf?e=c6f9225350&c2id=e96152657bfee36b1d15fb6ec33fc92d"
+},
+{
+"text": "PHOTOS: Mary Peltola Holds Community Meet and Greets In Ketchikan and Prince of Wales",
+"href": "https://marypeltola.com/mary-peltola-holds-community-meet-and-greets-in-ketchikan-and-prince-of-wales/"
+},
+{
+"text": "PHOTOS: Mary Peltola Rallies Fired-Up Volunteers at Anchorage Field Office",
+"href": "https://marypeltola.com/mary-peltola-rallies-fired-up-volunteers-at-anchorage-field-office/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://marypeltola.com/privacy-policy/"
+},
+{
+"text": "Press",
+"href": "https://marypeltola.com/in-the-news/"
+},
+{
+"text": "Press",
+"href": "https://marypeltola.com/press/"
+},
+{
+"text": "Press Releases",
+"href": "https://marypeltola.com/press/"
+},
+{
+"text": "READ MORE",
+"href": "https://marypeltola.com/mary-peltola-champions-lifelong-fight-for-fisheries-at-kodiak-fisheries-debate-crushes-dan-sullivan-his-lower-48-anti-fish-agenda/"
+},
+{
+"text": "READ MORE",
+"href": "https://marypeltola.com/mary-peltola-holds-community-meet-and-greets-in-ketchikan-and-prince-of-wales/"
+},
+{
+"text": "READ MORE",
+"href": "https://marypeltola.com/mary-peltola-rallies-fired-up-volunteers-at-anchorage-field-office/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://marypeltola.com/request-a-yard-sign/"
+},
+{
+"text": "SALMON RUN",
+"href": "https://salmonrun.marypeltola.com/"
+},
+{
+"text": "STORE",
+"href": "https://store.marypeltola.com/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@marypeltola"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@mary_peltola"
+},
+{
+"text": "Veterans & Servicemembers",
+"href": "https://marypeltola.com/veterans/"
+},
+{
+"text": "Volunteer",
+"href": "https://act.marypeltola.com/signup/mary-alaska-volunteer/"
+},
+{
+"text": "Willow Oil Project",
+"href": "https://us.list-manage.com/14GHzsHaS4G?e=c6f9225350&c2id=e96152657bfee36b1d15fb6ec33fc92d"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/MaryPeltola"
+},
+{
+"text": "[email protected]",
+"href": "https://marypeltola.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@marypeltola.com"
+},
+{
+"text": "[image]",
+"href": "https://marypeltola.com"
+},
+{
+"text": "[image]",
+"href": "https://marypeltola.com/"
+},
+{
+"text": "[image]",
+"href": "https://marypeltola.com/splash/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/marypeltola.com"
+},
+{
+"text": "again being recognized",
+"href": "https://us.list-manage.com/OsdiYzOtlF8?e=c6f9225350&c2id=e96152657bfee36b1d15fb6ec33fc92d"
+},
+{
+"text": "new column out yesterday",
+"href": "https://us.list-manage.com/mfztuY8GEQD?e=c6f9225350&c2id=e96152657bfee36b1d15fb6ec33fc92d"
+},
+{
+"text": "one of the few Democratic members of Congress defending the oil and gas industry",
+"href": "https://us.list-manage.com/MOPy8JRn5zu?e=c6f9225350&c2id=e96152657bfee36b1d15fb6ec33fc92d"
+},
+{
+"text": "piece documents,",
+"href": "https://us.list-manage.com/18iN2RmfSKc?e=c6f9225350&c2id=e96152657bfee36b1d15fb6ec33fc92d"
+},
+{
+"text": "she will fight to lower Alaskans’ energy costs by modernizing energy infrastructure, pushing through meaningful permitting reform, and working alongside local communities to ensure the benefits of Alaska resources stay in Alaska.",
+"href": "https://us.list-manage.com/mnSXu2_sECO?e=c6f9225350&c2id=e96152657bfee36b1d15fb6ec33fc92d"
+}
 ]

@@ -1,9 +1,5 @@
-Back to All Events
-Have conversations with many candidates all in one place!
-Previous
-Previous
-October 1
-Engage Kane County Candidate Bash
-Next
-Next
-October 4
+0 Skip to Content About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Back Donate Back to All Events Naperville Township Republican Organization Meet & Greet Saturday, October 3, 2026 1:00 PM 4:00 PM Judd Kendall VFW Post 908 Jackson Avenue Naperville, Illinois, 60540 United States (map) Google Calendar ICS Have conversations with many candidates all in one place!
+Previous Previous October 1 Engage Kane County Candidate Bash Next Next October 4 Elburn Lions All Wheels Car Show Donate Today Shop About District Contact Paid for by Walter for Congress Campaign Mailing Address: PO Box 411, Elburn, IL 60119 Campaign Phone: 630.286.9068 Jeff Walter is a retired member of the U.S.
+Navy.
+Use of or reference to his military rank, job titles and photographs in uniform does not imply endorsement by the Department of the Navy, or Department of Defense.
+Privacy Policy

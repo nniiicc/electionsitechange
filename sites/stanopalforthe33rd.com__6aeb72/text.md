@@ -1,22 +1,3 @@
 Search for...
-Skip to content
-Home
-Meet Stan
-Priorities
-Endorsements
-Request Yard Sign
-DONATE
-facebook
-instagram
-DONATE
-Navigation Menu
-facebook
-instagram
-Navigation Menu
-Home
-Meet Stan
-Priorities
-Endorsements
-Request Yard Sign
-Home
-scroll to top
+Skip to content Home Meet Stan Priorities Endorsements Request Yard Sign DONATE facebook instagram DONATE Navigation Menu facebook instagram Navigation Menu Home Meet Stan Priorities Endorsements Request Yard Sign Home facebook instagram Email Me! stanopalforthe33rd@gmail.com Paid for by the Committee to Elect Stan Opal to State Senate 233 N Pine Ave, White Cloud, MI 49349 Copyright © 2026.
+All Rights Reserved. scroll to top

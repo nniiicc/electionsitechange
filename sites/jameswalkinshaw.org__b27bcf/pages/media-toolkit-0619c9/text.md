@@ -1,42 +1,31 @@
-Updated 06.24
-Given the truncated timeline of this SPECIAL PRIMARY ELECTION (June 28), voters with any Democratic Primary vote history need to see primarily in the mail, as well as on broadcast TV, cable news and digital, including YouTube and CTV/OTT, that James Walkinshaw will lead the fight against Trump in the House.
+Skip to content Endorsements Contact Us Meet James Vote Priorities Endorsements Contact Us Meet James Vote Priorities Donate Meet James Donate Endorsements Vote Priorities Contact Us Media Toolkit Updated 06.24 Given the truncated timeline of this SPECIAL PRIMARY ELECTION (June 28), voters with any Democratic Primary vote history need to see primarily in the mail, as well as on broadcast TV, cable news and digital, including YouTube and CTV/OTT, that James Walkinshaw will lead the fight against Trump in the House.
 Northern Virginia voters need to hear pro-Walkinshaw messaging via radio stations that focus on delivering news to federal employees commuting to work.
-- James Walkinshaw was endorsed by Congressman Connolly before he passed and Northern Virginia’s Democratic leaders because they know Walkinshaw is the Democrat we can count on to lead the fight against Trump in Congress.
-- Walkinshaw fought alongside Congressman Connolly as his Chief of Staff to save Obamacare and protect federal workers.
+James Walkinshaw was endorsed by Congressman Connolly before he passed and Northern Virginia’s Democratic leaders because they know Walkinshaw is the Democrat we can count on to lead the fight against Trump in Congress.
+Walkinshaw fought alongside Congressman Connolly as his Chief of Staff to save Obamacare and protect federal workers.
 On the Fairfax Board, Walkinshaw brought $500 million more in funding to our public schools, leading to a 30% increase in teacher pay, defended abortion access in Fairfax County, and took on the NRA by banning guns in public places like libraries.
-He also led the Fairfax Board’s effort to provide resources to laid off federal employees (https://www.fairfaxcounty.gov/topics/federal-government-resource-hub)
-- Mail should also focus on how to vote, including maps with locations of voting and early voting, targetted by the closest polling place.
-- James is endorsed by federal employee groups including National Federation of Federal Employees, National Association of Letter Carriers, and NARFE PAC.
-Statements from James Walkinshaw
-Preventing Domestic Violence & Protecting Survivors: “On the Fairfax Board, I led the creation of Fairfax’s ‘Make the Call’ hotline and championed implementation of our Red Flag laws.
-In Congress, I’ll reauthorize and strengthen the Violence Against Women Act—protecting survivors and ensuring all victims can seek help.”
-Reducing Gun Violence: “I took on the NRA to lead the effort to keep guns from our libraries and rec centers and implemented the Red Flag law to take guns from domestic abusers.
+He also led the Fairfax Board’s effort to provide resources to laid off federal employees ( https://www.fairfaxcounty.gov/topics/federal-government-resource-hub ) Mail should also focus on how to vote, including maps with locations of voting and early voting, targetted by the closest polling place.
+James is endorsed by federal employee groups including National Federation of Federal Employees, National Association of Letter Carriers, and NARFE PAC.
+Statements from James Walkinshaw Preventing Domestic Violence & Protecting Survivors: “On the Fairfax Board, I led the creation of Fairfax’s ‘Make the Call’ hotline and championed implementation of our Red Flag laws.
+In Congress, I’ll reauthorize and strengthen the Violence Against Women Act—protecting survivors and ensuring all victims can seek help.” Reducing Gun Violence: “I took on the NRA to lead the effort to keep guns from our libraries and rec centers and implemented the Red Flag law to take guns from domestic abusers.
 In Congress, I’ll fight to ban assault weapons and require background checks for all gun purchases.
 Investing in Education: “As Gerry Connolly’s Chief of Staff, I helped secure federal funding for public schools and on the Fairfax Board I increased funding for our schools by more than $500 million, leading to a 30% increase in teacher pay.
-In Congress, I’ll stop Trump from abolishing the Department of Education, increase funding for high-poverty schools, and expand pre-k access.”
-Tackling Climate Change & Environment: “In Congress, I worked with Gerry Connolly to pass legislation addressing climate change.
+In Congress, I’ll stop Trump from abolishing the Department of Education, increase funding for high-poverty schools, and expand pre-k access.” Tackling Climate Change & Environment: “In Congress, I worked with Gerry Connolly to pass legislation addressing climate change.
 In Fairfax, I’ve led the effort to reduce emissions, improve air quality, and clean up our parks, streams, and green spaces.
-In Congress, I’ll push for clean-energy investment, strong air and water protections, and Chesapeake Bay restoration.”
-Strengthening Local Economy & Innovation: “As Connolly’s Chief of Staff, I helped win federal dollars for economic development and protect federal workers.
+In Congress, I’ll push for clean-energy investment, strong air and water protections, and Chesapeake Bay restoration.” Strengthening Local Economy & Innovation: “As Connolly’s Chief of Staff, I helped win federal dollars for economic development and protect federal workers.
 On the Board, I supported small-business grants during COVID and championed infrastructure and broadband.
-In Congress, I’ll fight for investments in transportation, infrastructure, and innovative technologies to create good-paying jobs for all Americans.”
-Expanding Affordable Housing: “All families deserve a safe, stable home.
+In Congress, I’ll fight for investments in transportation, infrastructure, and innovative technologies to create good-paying jobs for all Americans.” Expanding Affordable Housing: “All families deserve a safe, stable home.
 That’s why I led the effort to turn an under-used parking lot into 279 affordable homes, increased our investment in affordable housing, and reduced red tape that blocked new homes.
-In Congress, I’ll expand the LIHTC, boost the Housing Trust Fund, and advance reforms that unlock affordable options.”
-Expanding Access to Affordable, High‑Quality Health Care: “As Gerry Connolly’s Chief of Staff, I helped pass the Affordable Care Act and defend it from repeal.
+In Congress, I’ll expand the LIHTC, boost the Housing Trust Fund, and advance reforms that unlock affordable options.” Expanding Access to Affordable, High‑Quality Health Care: “As Gerry Connolly’s Chief of Staff, I helped pass the Affordable Care Act and defend it from repeal.
 On the Fairfax Board, I championed local mental‑health funding and care for uninsured residents.
-In Congress, I’ll help lower drug prices, protect Medicaid & Medicare, expand mental‑health services, NIH, Planned Parenthood, and push for paid family leave.”
-Protecting Public Safety & Civil Rights: “On the Fairfax Board, I helped make Fairfax County the safest large jurisdiction in the nation, strengthened our body-camera program, expanded behavioral-health co-responder teams, and pushed through our Trust Policy to protect our immigrant community.
-In Congress, I’ll fight for justice reform, funding for community-based policing, and robust civil-rights protections that keep every community safe and respected.”
-Proposed Fairfax County Casino: “I’ve been clear from the first time it was proposed: a casino in Fairfax County just doesn’t make sense.”
-As Chair of the Fairfax Board’s Legislative Committee, James worked with Chairman Jeff McKay to send a letter to the General Assembly in 2024 stating the Board’s objections to the casino legislation.
-Endorsement Quotes:
-“We are at a pivotal moment in our nation’s history.
+In Congress, I’ll help lower drug prices, protect Medicaid & Medicare, expand mental‑health services, NIH, Planned Parenthood, and push for paid family leave.” Protecting Public Safety & Civil Rights: “On the Fairfax Board, I helped make Fairfax County the safest large jurisdiction in the nation, strengthened our body-camera program, expanded behavioral-health co-responder teams, and pushed through our Trust Policy to protect our immigrant community.
+In Congress, I’ll fight for justice reform, funding for community-based policing, and robust civil-rights protections that keep every community safe and respected.” Proposed Fairfax County Casino: “I’ve been clear from the first time it was proposed: a casino in Fairfax County just doesn’t make sense.” As Chair of the Fairfax Board’s Legislative Committee, James worked with Chairman Jeff McKay to send a letter to the General Assembly in 2024 stating the Board’s objections to the casino legislation.
+Endorsement Quotes: “We are at a pivotal moment in our nation’s history.
 We have a president who believes he is above the Constitution, leading a lawless administration intoxicated by unchecked power.
 At the same time, a complicit Republican Congress refuses to uphold the law or defend the separation of powers.
 That’s why we’re proud to support James Walkinshaw to continue the extraordinary legacy of Rep.
 Gerry Connolly.
 James is well-versed in the federal government’s inner workings.
 He’s been on the front lines of every significant political battle affecting federal employees and the contractors who serve the American people.
-James is ready to lead on day one—and to fight for the integrity of our government, the rights of public servants, and the rule of law.”
-Randy Erwin, National President, National Federation of Federal Employees, IAMAW, AFL-CIO
+James is ready to lead on day one—and to fight for the integrity of our government, the rights of public servants, and the rule of law.” Randy Erwin, National President, National Federation of Federal Employees, IAMAW, AFL-CIO Chip In to Fight Back.
+It’s up to all of us to stop Donald Trump’s corrupt and dangerous agenda.
+Donate today, and let’s take back Congress. $5 $25 $50 $250 $500 Other Contact Facebook X-twitter Instagram Youtube Threads Tiktok Paid for and Authorized by Walkinshaw for Congress Website built by BCom

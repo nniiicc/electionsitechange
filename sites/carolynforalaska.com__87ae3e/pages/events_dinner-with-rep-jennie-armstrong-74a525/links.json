@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Exclusive+Dinner+with+Candidate+Carolyn+Hall+hosted+by+Rep.+Jennie+Armstrong&dates=20240627T003000Z%2F20240627T030000Z",
-"http://maps.google.com/?q=Rep.+Jennie+Armstrong%E2%80%99s+Home+%28Address+will+be+provided+upon+reservation%29",
-"https://carolynforalaska.com/",
-"https://carolynforalaska.com/about",
-"https://carolynforalaska.com/cart",
-"https://carolynforalaska.com/endorsements",
-"https://carolynforalaska.com/events",
-"https://carolynforalaska.com/events/community-meet-and-greet-with-carolyn-haall",
-"https://carolynforalaska.com/events/dinner-with-rep-jennie-armstrong?format=ical",
-"https://carolynforalaska.com/events/fundraiser-for-carolyn-hall",
-"https://carolynforalaska.com/policies",
-"https://carolynforalaska.com/volunteer",
-"https://carolynforalaska.com/voter-info",
-"https://facebook.com/CarolynforAlaska",
-"https://instagram.com/carolynforalaska",
-"https://secure.actblue.com/donate/armstrongdinner",
-"https://secure.actblue.com/donate/carolyn-for-alaska-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=rep.+jennie+armstrong%E2%80%99s+home+%28address+will+be+provided+upon+reservation%29"
+},
+{
+"text": "0",
+"href": "https://www.carolynforalaska.com/cart"
+},
+{
+"text": "About Carolyn",
+"href": "https://www.carolynforalaska.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.carolynforalaska.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/carolyn-for-alaska-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.carolynforalaska.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.carolynforalaska.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.carolynforalaska.com/volunteer"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Exclusive+Dinner+with+Candidate+Carolyn+Hall+hosted+by+Rep.+Jennie+Armstrong&dates=20240627T003000Z%2F20240627T030000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.carolynforalaska.com/events/dinner-with-rep-jennie-armstrong?format=ical"
+},
+{
+"text": "Next Next July 11 Fundraiser for Carolyn Hall",
+"href": "https://www.carolynforalaska.com/events/fundraiser-for-carolyn-hall"
+},
+{
+"text": "Policies",
+"href": "https://www.carolynforalaska.com/policies"
+},
+{
+"text": "Previous Previous June 22 Community Meet and Greet with Carolyn Hall",
+"href": "https://www.carolynforalaska.com/events/community-meet-and-greet-with-carolyn-haall"
+},
+{
+"text": "Voter Info",
+"href": "https://www.carolynforalaska.com/voter-info"
+},
+{
+"text": "[image: Carolyn Hall for Alaska]",
+"href": "https://www.carolynforalaska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarolynforAlaska"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/carolynforalaska/"
+},
+{
+"text": "https://secure.actblue.com/donate/armstrongdinner",
+"href": "https://secure.actblue.com/donate/armstrongdinner"
+}
 ]

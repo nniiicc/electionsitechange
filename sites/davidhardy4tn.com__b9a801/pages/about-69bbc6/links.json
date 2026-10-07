@@ -1,8 +1,34 @@
 [
-"https://davidhardy4tn.com/",
-"https://davidhardy4tn.com/about",
-"https://davidhardy4tn.com/get-involved",
-"https://davidhardy4tn.com/issues",
-"https://davidhardy4tn.com/privacy-policy",
-"https://secure.actblue.com/donate/davidhardy"
+{
+"text": "ABOUT",
+"href": "https://www.davidhardy4tn.com/about"
+},
+{
+"text": "Back to Top",
+"href": "https://www.davidhardy4tn.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/davidhardy"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.davidhardy4tn.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.davidhardy4tn.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.davidhardy4tn.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.davidhardy4tn.com/privacy-policy"
+},
+{
+"text": "[image: DHD26001 Logo_F-RGB Reverse.png]",
+"href": "https://www.davidhardy4tn.com"
+}
 ]

@@ -1,9 +1,7 @@
-Together, We Can Build a Better Future!
+0 Skip to Content Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise Folder: What I'll Fight For Back Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Folder: Get Involved Back Events Join Team Slipy Contact Donate Back to All Events Fifty Lakes Days Saturday, June 21, 2025 10:00 AM 4:00 PM Fifty Lakes Days 40447 Town Hall Road Fifty Lakes, MN, 56448 United States (map) Google Calendar ICS Previous Previous April 29 Election Day Next Next June 22 Itasca Pride Donate Today Together, We Can Build a Better Future!
 Have a question, idea, or concern?
 I want to hear from you!
 Your input is vital in shaping the future of our community.
 Whether it’s a suggestion, a concern, or a topic you're passionate about, together we can make a real difference.
 Reach out today and be part of the change we need to see!
-Website Designed by
-Local Artist, Heidi Jeub, From Do-Somthing-Creative
-Prepared and Paid for by Slipy4Senate Campaign Committee PO Box 254 Brainerd, MN 56401
+Website Designed by Local Artist, Heidi Jeub , From Do-Somthing-Creative Prepared and Paid for by Slipy4Senate Campaign Committee PO Box 254 Brainerd, MN 56401

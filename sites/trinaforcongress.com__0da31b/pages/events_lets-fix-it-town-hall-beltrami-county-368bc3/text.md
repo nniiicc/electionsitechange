@@ -1,7 +1,11 @@
-What are the obstacles to having a good life right here?
+Skip to content Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News SIGN UP DONATE SIGN UP DONATE Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Campaign Events Let’s Fix It!
+Town Hall – Beltrami County What are the obstacles to having a good life right here?
 How can we create more opportunity at home?
 Join Trina in Bemidji for the third Let’s Fix It!
 Town Hall.
-Donate Today
-Trina doesn't take corporate PAC money.
-Every dollar comes from people like you — neighbors who believe MN-8 deserves better.
+Donate Today BACK TO ALL EVENTS OCT 5 Monday Past Event Date October 5, 2026 Time 5:30 PM – 7:00 PM Location Rail River Folk School 303 Railroad St SW, Bemidji, MN This event has already taken place.
+Get Directions Paid for by Trina for Congress Mailing Address: PO Box 1063 Duluth, MN 55810 Navigation Home Meet Trina Priorities News Events Get Involved Volunteer Donate Sign Up Campaign Headquarters 4877 Miller Trunk Highway Hermantown, MN 55811 Hours: Monday–Thursday: 11am–2pm; 4pm–7pm Friday: 11am–2pm Saturday: 12pm–2pm Sunday: Closed contact@trinaforcongress.com Facebook Instagram X-twitter Threads © # Trina Swanson for Congress.
+All rights reserved.
+Privacy Policy Sign Up for Updates to Stay Connected First Name Last Name Email SIGN UP!
+Support Trina's Campaign Trina doesn't take corporate PAC money.
+Every dollar comes from people like you — neighbors who believe MN-8 deserves better. $5 $25 $50 $100 $500 $1,000 Other Donate Now

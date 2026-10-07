@@ -1,23 +1,4 @@
-Claudia in the News
-State Sen.
-Kauffman shares legislative highlights for Auburn, Kent, Covington
-Boyce, Kauffman vie for WA senate in swing district with Kent, Auburn
-Kent’s Kauffman certified to advance in state Senate race
-Steve Hunter
-KENT REPORTER
-Democrats in extra-close South King County state Senate primary race appear headed toward recount
-Daniel Beekman
-SEATTLE TIMES
-Republicans’ dreams of flipping Washington State Legislature vanish in a puff of vapor
-Andrew Villenueve
-THE CASCADIA ADVOCATE
-Democrats fight to defend the suburbs
-Melissa Santos
-AXIOS SEATTLE
-Red wave or blue wall in WA?
-In Seattle suburbs, this race could be ‘real bellwether’
-Daniel Beekman
-SEATTLE TIMES
-Races to watch in the Washington Legislature this year
-Joseph O’Sullivan
-CROSSCUT
+0 Skip to Content About Claudia Accomplishments Platform Endorsements News Media Get Involved Volunteer Contact Us Donate Open Menu Close Menu About Claudia Accomplishments Platform Endorsements News Media Get Involved Volunteer Contact Us Donate Open Menu Close Menu About Claudia Accomplishments Platform Endorsements News Media Folder: Get Involved Back Volunteer Contact Us Donate Claudia in the News Upper Left Strategies 6/30/26 Upper Left Strategies 6/30/26 State Sen.
+Kauffman shares legislative highlights for Auburn, Kent, Covington Read More Upper Left Strategies 10/31/22 Upper Left Strategies 10/31/22 Boyce, Kauffman vie for WA senate in swing district with Kent, Auburn Read More Upper Left Strategies 9/1/22 Upper Left Strategies 9/1/22 Kent’s Kauffman certified to advance in state Senate race Steve Hunter KENT REPORTER Read More Upper Left Strategies 8/12/22 Upper Left Strategies 8/12/22 Democrats in extra-close South King County state Senate primary race appear headed toward recount Daniel Beekman SEATTLE TIMES Read More Upper Left Strategies 8/6/22 Upper Left Strategies 8/6/22 Republicans’ dreams of flipping Washington State Legislature vanish in a puff of vapor Andrew Villenueve THE CASCADIA ADVOCATE Read More Upper Left Strategies 7/28/22 Upper Left Strategies 7/28/22 Democrats fight to defend the suburbs Melissa Santos AXIOS SEATTLE Read More Upper Left Strategies 7/15/22 Upper Left Strategies 7/15/22 Red wave or blue wall in WA?
+In Seattle suburbs, this race could be ‘real bellwether’ Daniel Beekman SEATTLE TIMES Read More Upper Left Strategies 7/5/22 Upper Left Strategies 7/5/22 Races to watch in the Washington Legislature this year Joseph O’Sullivan CROSSCUT Read More Paid for by People for Claudia Kauffman (D) P.O.
+Box 22169 Seattle, WA 98122

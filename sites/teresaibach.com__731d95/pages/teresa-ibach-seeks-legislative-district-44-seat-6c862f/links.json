@@ -1,9 +1,34 @@
 [
-"https://secure.winred.com/teresa-ibach-for-legislature-cc4eab6b/donate",
-"https://teresaibach.com/",
-"https://teresaibach.com/about",
-"https://teresaibach.com/category/press-release",
-"https://teresaibach.com/district-44",
-"https://teresaibach.com/issues",
-"https://teresaibach.com/news"
+{
+"text": "About",
+"href": "https://www.teresaibach.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/teresa-ibach-for-legislature-cc4eab6b/donate"
+},
+{
+"text": "District 44",
+"href": "https://www.teresaibach.com/district-44/"
+},
+{
+"text": "Home",
+"href": "https://www.teresaibach.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.teresaibach.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.teresaibach.com/news/"
+},
+{
+"text": "Press Release",
+"href": "https://www.teresaibach.com/category/press-release/"
+},
+{
+"text": "[image]",
+"href": "https://www.teresaibach.com/"
+}
 ]

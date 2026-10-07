@@ -1,6 +1,7 @@
-Standing Up for Our Senior Citizens
-As State Representative, Michael filed legislation to provide property tax relief for Missouri Senior Citizens.
+0 Skip to Content Home Legislation Seniors Helping Veterans Ethics Reform Conservation Issues Small Businesses Healthcare Saving Tower Tee About District Map Photo Gallery Volunteer Donate Open Menu Close Menu Home Legislation Seniors Helping Veterans Ethics Reform Conservation Issues Small Businesses Healthcare Saving Tower Tee About District Map Photo Gallery Volunteer Donate Open Menu Close Menu Home Folder: Legislation Back Seniors Helping Veterans Ethics Reform Conservation Folder: Issues Back Small Businesses Healthcare Saving Tower Tee About District Map Photo Gallery Volunteer Donate Standing Up for Our Senior Citizens As State Representative, Michael filed legislation to provide property tax relief for Missouri Senior Citizens.
 He sponsored HB 2892, the Homestead Preservation Act, this bill establishes the "Missouri Homestead Preservation Act", a tax credit program which provides a property tax credit for qualified senior citizens and disabled individuals of certain income levels to insure they are not displaced from their homes due to rising property taxes.
 One of the issues Michael discovered as a community advocate was that the Affton area has a lot of senior residents; seniors whose property tax is chasing them from their own homes.
 Michael knows we have to provide property tax relief for our senior neighbors on fixed incomes.
 In Jefferson City, his highest priority will be keeping our senior neighbors in their homes.
+Michael Burton for State Representative 10258 Squire Meadows Dr., Unit #8 St.
+Louis MO, 63123 (314) 753-1165 Paid for by Friends of Michael Burton, Theresa Pelech, Treasurer

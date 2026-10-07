@@ -1,56 +1,44 @@
-MEET BOBBY
-a maine man.
-fighting for maine.
+Meet Bobby NEWS Issues ACtion center Get Involved Events STORE X DONATE Cut Crime .
+Cut Taxes .
+No Nonsense.
+Meet bobby GET INVOLVED      MEET BOBBY a maine man. fighting for maine.
 I’m Bobby Charles, and I’m running for Governor of Maine because I believe we can do better, safer streets, lower taxes, stronger schools, and a government that works for you, not against you.
 I grew up in Wayne, Maine.
 My mother was a public school teacher.
 From her, and from the World War II veterans who mentored me, I learned about sacrifice, service, and what it means to be part of something bigger than yourself.
-Those values carried me from Maranacook High School to Dartmouth, Oxford, and Columbia Law, not to leave Maine behind, but to return better prepared to serve it.
-maine is
-broken
-let’s fix it
-CUT Crime
-CUT taxes
-no nonsense
-bOBby Charles on the issues
-Bobby Charles is committed to building a safer, stronger Maine.
+Those values carried me from Maranacook High School to Dartmouth, Oxford, and Columbia Law, not to leave Maine behind, but to return better prepared to serve it. maine is broken let’s fix it CUT Crime CUT taxes no nonsense bOBby Charles on the issues Bobby Charles is committed to building a safer, stronger Maine.
 As governor, he will fight to reduce crime, enforce common-sense policies on homelessness, cut burdensome taxes, and hold government accountable.
 He believes in protecting Maine’s communities, improving education, and ensuring economic opportunities for every hardworking citizen.
-Bobby Charles will always put Maine families first.
-bobby’s plan for maine
-Maine is at a crossroads.
+Bobby Charles will always put Maine families first. ➜ ➜ Stand with Bobby.
+Let's change Maine together.
+Every dollar helps fuel our fight for Maine’s future.
+Your contribution ensures Bobby has the resources to share our message, connect with voters, and defend the values that matter most. $10 $25 $50 $250 DONATE bobby’s plan for maine Maine is at a crossroads.
 Families are struggling under the weight of high costs, rising crime, and a government more focused on ideology than results.
 Bobby Charles is running to restore common sense, protect our communities, and put Maine families first.
 His plan is straightforward: cut taxes, stop the drug crisis, improve education, and stand up for the values that make our state strong.
-See how Bobby will
-cut crime
-Maine is being overrun by drug cartels, and radical policy failures from Democratic leadership have enabled this crisis.
-See how Bobby will
-cut your taxes
-Bobby Charles will reverse the heavy burden that businesses and working families face under high taxes and excessive regulations.
-See how Bobby will end
-the nonsense
-Far too many government policies have been hijacked by ideological agendas that harm parents, children, and communities.
-latest news
-View all news
-FEATURED
-October 1, 2026
-BOBBY CHARLES DOMINATES FIRST GOVERNOR’S TV DEBATE WITH PLAN TO REVERSE STATE’S DECLINE AND END AUGUSTA CORRUPTION
-FOR IMMEDIATE RELEASE
-CONTACT: press@bobbyformaine.com
-October 1, 2026
-GOVERNOR MILLS CAN’T END A WAR, BUT SHE CAN CUT THE GAS TAX
-FOR IMMEDIATE RELEASE
-CONTACT: press@bobbyformaine.com
-September 30, 2026
-Bobby Charles Releases New Ad: “Augusta Scandals” -- Calls on Maine to Open the Books, Investigate Crimes, and Reject More of the Same
-FOR IMMEDIATE RELEASE
-CONTACT: press@bobbyformaine.com
-September 30, 2026
-BOBBY CHARLES DEMANDS IMMEDIATE PUBLIC RELEASE OF ISLAND INSTITUTE GRANT RECORDS, CONTRACTS, AND COMMUNICATIONS
-FOR IMMEDIATE RELEASE
-CONTACT: press@bobbyformaine.com
-September 29, 2026
-New Campaign Finance Figures: Bobby Charles Raises More Than $500,000 from Maine Families Funding His Campaign, While Special Interests Fund Hannah Pingree
-FOR IMMEDIATE RELEASE
-CONTACT: press@bobbyformaine.com
+See how Bobby will cut crime Maine is being overrun by drug cartels, and radical policy failures from Democratic leadership have enabled this crisis.
+See how Bobby will cut your taxes Bobby Charles will reverse the heavy burden that businesses and working families face under high taxes and excessive regulations.
+See how Bobby will end the nonsense Far too many government policies have been hijacked by ideological agendas that harm parents, children, and communities. latest news View all news FEATURED October 2, 2026 BOBBY CHARLES: THE OFFICIAL WHO SCORED THE ISLAND INSTITUTE GRANT CERTIFIED SHE HAD NO CONFLICT FOR IMMEDIATE RELEASE CONTACT: press@bobbyformaine.com ‍ ‍ ‍ ‍ ‍ ‍ Read More October 1, 2026 BOBBY CHARLES DOMINATES FIRST GOVERNOR’S TV DEBATE WITH PLAN TO REVERSE STATE’S DECLINE AND END AUGUSTA CORRUPTION FOR IMMEDIATE RELEASE CONTACT: press@bobbyformaine.com ‍ ‍ Read More October 1, 2026 GOVERNOR MILLS CAN’T END A WAR, BUT SHE CAN CUT THE GAS TAX FOR IMMEDIATE RELEASE CONTACT: press@bobbyformaine.com ‍ ‍ ‍ ‍ ‍ ‍ Read More September 30, 2026 Bobby Charles Releases New Ad: “Augusta Scandals” -- Calls on Maine to Open the Books, Investigate Crimes, and Reject More of the Same FOR IMMEDIATE RELEASE CONTACT: press@bobbyformaine.com ‍ ‍ ‍ ‍ ‍ Read More September 30, 2026 BOBBY CHARLES DEMANDS IMMEDIATE PUBLIC RELEASE OF ISLAND INSTITUTE GRANT RECORDS, CONTRACTS, AND COMMUNICATIONS FOR IMMEDIATE RELEASE CONTACT: press@bobbyformaine.com ‍ ‍ ‍ ‍ Read More Endorse bobby charles today, show up on our map Thank you for joining the fight Oops!
+Something went wrong while submitting the form.
+Reset Filter Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form.
+Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Map Item Next + - Style Guide – hidden on live site (don't delete or hide) Please modify your styling elements here to change their appearance on the live website.
+The styleguide is invisible on the published site.
+CMS List Item Documentation Default State List Item Default Active State List Item Active Filter Reset / Empty State Documentation There are no items using this filter combination.
+Reset Filter Pop-Up Documentation Change Pop-Up style here.
+Tooltip Documentation Change Tooltip style here.
+John J B John J B John J B John J B John J B John J B Michelle B Michelle B Michelle B Michelle B Michelle B Michelle B Kevin B Kevin B Kevin B Kevin B Kevin B Kevin B Myra T Myra T Myra T Myra T Myra T Myra T Louise F Louise F Louise F Louise F Louise F Louise F Heather M Heather M Heather M Heather M Heather M Heather M Sandra B Sandra B Sandra B Sandra B Sandra B Sandra B Janet B Janet B Janet B Janet B Janet B Janet B Karen G Karen G Karen G Karen G Karen G Karen G Nathan L Nathan L Nathan L Nathan L Nathan L Nathan L Jane S Jane S Jane S Jane S Jane S Jane S Stephen P Stephen P Stephen P Stephen P Stephen P Stephen P Norman B Norman B Norman B Norman B Norman B Norman B Linda B Linda B Linda B Linda B Linda B Linda B Scott L Scott L Scott L Scott L Scott L Scott L Linda B Linda B Linda B Linda B Linda B Linda B Robert H Robert H Robert H Robert H Robert H Robert H Melvin J Melvin J Melvin J Melvin J Melvin J Melvin J Alyssa R Alyssa R Alyssa R Alyssa R Alyssa R Alyssa R Martin B Martin B Martin B Martin B Martin B Martin B Jeff B Jeff B Jeff B Jeff B Jeff B Jeff B Ben G Ben G Ben G Ben G Ben G Ben G Martin B Martin B Martin B Martin B Martin B Martin B Nancy C Nancy C Nancy C Nancy C Nancy C Nancy C Scott C Scott C Scott C Scott C Scott C Scott C Judy S Judy S Judy S Judy S Judy S Judy S Judy S Judy S Judy S Judy S Judy S Judy S Tracy K Tracy K Tracy K Tracy K Tracy K Tracy K Chris C Chris C Chris C Chris C Chris C Chris C Mary R Mary R Mary R Mary R Mary R Mary R Michelle R Michelle R Michelle R Michelle R Michelle R Michelle R Mary D Mary D Mary D Mary D Mary D Mary D Dick C Dick C Dick C Dick C Dick C Dick C richard L richard L richard L richard L richard L richard L Mary B Mary B Mary B Mary B Mary B Mary B William C William C William C William C William C William C Daniel H Daniel H Daniel H Daniel H Daniel H Daniel H Mary B Mary B Mary B Mary B Mary B Mary B Laurie V Laurie V Laurie V Laurie V Laurie V Laurie V Lynette D Lynette D Lynette D Lynette D Lynette D Lynette D Lorri E Lorri E Lorri E Lorri E Lorri E Lorri E James A James A James A James A James A James A Lynette D Lynette D Lynette D Lynette D Lynette D Lynette D Gary D Gary D Gary D Gary D Gary D Gary D Dwayne E Dwayne E Dwayne E Dwayne E Dwayne E Dwayne E karen S karen S karen S karen S karen S karen S MICHAEL M MICHAEL M MICHAEL M MICHAEL M MICHAEL M MICHAEL M Susan C Susan C Susan C Susan C Susan C Susan C Nancy D Nancy D Nancy D Nancy D Nancy D Nancy D Daniel T Daniel T Daniel T Daniel T Daniel T Daniel T Nancy D Nancy D Nancy D Nancy D Nancy D Nancy D Sandy R Sandy R Sandy R Sandy R Sandy R Sandy R richard B richard B richard B richard B richard B richard B JOHN H JOHN H JOHN H JOHN H JOHN H JOHN H William P William P William P William P William P William P Robert B Robert B Robert B Robert B Robert B Robert B Scott G Scott G Scott G Scott G Scott G Scott G Brian H Brian H Brian H Brian H Brian H Brian H Louanne B Louanne B Louanne B Louanne B Louanne B Louanne B Beverly D Beverly D Beverly D Beverly D Beverly D Beverly D David G David G David G David G David G David G Stephen H Stephen H Stephen H Stephen H Stephen H Stephen H Louise M Louise M Louise M Louise M Louise M Louise M Mike R Mike R Mike R Mike R Mike R Mike R Julie P Julie P Julie P Julie P Julie P Julie P Richard C Richard C Richard C Richard C Richard C Richard C Kimberly K Kimberly K Kimberly K Kimberly K Kimberly K Kimberly K linda S linda S linda S linda S linda S linda S REBECCA T REBECCA T REBECCA T REBECCA T REBECCA T REBECCA T Aaron B Aaron B Aaron B Aaron B Aaron B Aaron B Karen S Karen S Karen S Karen S Karen S Karen S Hope A Hope A Hope A Hope A Hope A Hope A Sandy R Sandy R Sandy R Sandy R Sandy R Sandy R Jeffrey D Jeffrey D Jeffrey D Jeffrey D Jeffrey D Jeffrey D Karin K Karin K Karin K Karin K Karin K Karin K Sue D Sue D Sue D Sue D Sue D Sue D Nancy M Nancy M Nancy M Nancy M Nancy M Nancy M Randy L Randy L Randy L Randy L Randy L Randy L Randy L Randy L Randy L Randy L Randy L Randy L John C John C John C John C John C John C Terry L Terry L Terry L Terry L Terry L Terry L Kelly Q Kelly Q Kelly Q Kelly Q Kelly Q Kelly Q Donald B Donald B Donald B Donald B Donald B Donald B Matthew G Matthew G Matthew G Matthew G Matthew G Matthew G Kim S Kim S Kim S Kim S Kim S Kim S Michael E Michael E Michael E Michael E Michael E Michael E Eric H Eric H Eric H Eric H Eric H Eric H Hoffman H Hoffman H Hoffman H Hoffman H Hoffman H Hoffman H Dalton W Dalton W Dalton W Dalton W Dalton W Dalton W Anna C Anna C Anna C Anna C Anna C Anna C Michael D Michael D Michael D Michael D Michael D Michael D Lisa B Lisa B Lisa B Lisa B Lisa B Lisa B John T John T John T John T John T John T Jason R Jason R Jason R Jason R Jason R Jason R Brenda H Brenda H Brenda H Brenda H Brenda H Brenda H Henry P Henry P Henry P Henry P Henry P Henry P Janet P Janet P Janet P Janet P Janet P Janet P Janet P Janet P Janet P Janet P Janet P Janet P Mary P Mary P Mary P Mary P Mary P Mary P Mary P Mary P Mary P Mary P Mary P Mary P Previous Next Filter Address Search Documentation Default State Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form.
+Active State Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form.
+Filter Chip Documentation Default State Filter Chip Active State Filter Chip Active Map Location Pin Documentation Default State  Hover State  Active State  shareables SEE PICTURE YOU CAN SHARE ON SEE PICTURE YOU CAN SHARE ON SEE PICTURE YOU CAN SHARE ON SEE PICTURE YOU CAN SHARE ON SEE PICTURE YOU CAN SHARE ON SEE PICTURE YOU CAN SHARE ON SEE PICTURE YOU CAN SHARE ON SEE PICTURE YOU CAN SHARE ON SEE PICTURE YOU CAN SHARE ON A crime fighter with common sense solutions.
+A crime fighter with common sense solutions. ➜ ➜ MEET BOBBY NEWS ISSUES Action center GET INVOLVED EVENTS STORE DONATE      Bobby Charles is a former U.S.
+Naval Intelligence Officer.
+Use of his military rank, titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+Paid for and authorized by Bobby Charles for Maine Governor Campaign Committee

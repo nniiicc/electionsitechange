@@ -1,4 +1,2 @@
-Galvez Campaign Town Hall
-JJ Galvez holds town hall to hear voters’ concerns in an open forum.
-Jaclyn Martin
-Jaclyn Martin
+0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch DONATE Jaclyn Martin 9/29/26 Jaclyn Martin 9/29/26 Galvez Campaign Town Hall JJ Galvez holds town hall to hear voters’ concerns in an open forum.
+Read More DONATE Support Support Donate Donate About JJ About JJ Meet with JJ Meet with JJ Get in Touch Get in Touch Endorsements Endorsements News + Updates News + Updates Issues + Priorities Issues + Priorities Paid for by JJ Galvez for Assembly District 71 - 2026 FPPC #1483089

@@ -1,3 +1,3 @@
-SECOND AMENDMENT RIGHTS
-With a 2016 NRA Rating of A+, Carl understands that self-defense and gun ownership is a God-given individual right.
-As a gun owner and lifetime NRA member, Carl is dedicated to bulletproofing the Second Amendment for the people of North Carolina.
+Carl Ford Home Meet Carl Issues DONATE Contact Events Carl Ford Home / Meet Carl / Issues / DONATE / Contact / Events / Carl Ford Second Amendment Rights Carl Ford Home / Meet Carl / Issues / DONATE / Contact / Events / SECOND AMENDMENT RIGHTS With a 2016 NRA Rating of A+, Carl understands that self-defense and gun ownership is a God-given individual right.
+As a gun owner and lifetime NRA member, Carl is dedicated to bulletproofing the Second Amendment for the people of North Carolina. “ Law abiding citizens are the only ones hurt when lawmakers attack the Second Amendment.
+When anti-gun activists come to attack our rights, I can assure you there will be no louder voice in Raleigh than mine. ” Home / Meet Carl / Issues / DONATE / Contact / Events / Carl Ford Request Yard Signs Volunteer Paid for by the Committee to Elect Carl Ford

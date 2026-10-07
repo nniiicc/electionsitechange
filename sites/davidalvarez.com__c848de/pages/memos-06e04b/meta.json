@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://www.davidalvarez.com/memos",
- "paid_for_by": null,
+ "fingerprint": "63de6e3f2839979362360197cd109aec5b279eae",
+ "format": 3,
+ "paid_for_by": "",
  "title": "David Alvarez --- Memos",
  "years_mentioned": [
   "2014",
@@ -10,6 +12,7 @@
   "2017",
   "2018",
   "2019",
+  "2022",
   "2023",
   "2024"
  ]

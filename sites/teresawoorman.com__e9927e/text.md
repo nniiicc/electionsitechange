@@ -1,25 +1,18 @@
-Meet Delegate Woorman
-Welcome!
-I’m Teresa Saavedra Woorman, and I’m honored to serve as your District 16 Delegate in the Maryland House of Delegates.
-A lifelong Democrat, immigrant, and advocate, public service isn’t just what I do, it’s my career and my passion.
-Before being elected, I spent eight years working in the Maryland General Assembly, learning how to navigate the legislative process and deliver real results for Maryland families.
-I’ve just completed my second legislative session, and I’m proud to now serve as Deputy Majority Whip, helping to move legislation, build consensus, and get things done for our community.
-I first got involved in this work because I saw how federal policies were falling short for so many families, including immigrant communities like mine.
+top of page Home Legislation Contribute Scholarships Video Newsletter Endorsements Media Get involved!
+Contact Meet Delegate Woorman Donate!
+Donate!
+Yard Sign Request Welcome!
+I’m Teresa Saavedra Woorman, and I’m honored to serve as your District 16 Delegate in the Maryland House of Delegates. ​ A lifelong Democrat, immigrant, and advocate, public service isn’t just what I do, it’s my career and my passion.
+Before being elected, I spent eight years working in the Maryland General Assembly, learning how to navigate the legislative process and deliver real results for Maryland families. ​ I’ve just completed my second legislative session, and I’m proud to now serve as Deputy Majority Whip, helping to move legislation, build consensus, and get things done for our community. ​ I first got involved in this work because I saw how federal policies were falling short for so many families, including immigrant communities like mine.
 I saw the impact of policies like the Maryland Dream Act, and I knew that real change was happening here, in the Maryland General Assembly.
 That’s what drove me to step up, and it’s what continues to guide my work today.
 This session, I introduced and advanced legislation to expand access to higher education for Maryland students, remove outdated barriers so families can manage a loved one’s estate regardless of citizenship status, strengthen oversight of healthcare facilities, and improve public health through clearer food labeling standards.
-I’ve worked to make government more accessible, more responsive, and more effective for the people I represent.
-In my first legislative session, I introduced bills focused on healthcare transparency, protections for immigrant workers, youth sports safety, and fair insurance practices.
-These efforts reflect my priorities: ensuring high-quality healthcare, keeping our communities safe, supporting working families, and making Maryland more affordable and inclusive for all.
-During the 2026 session, I served on the Health Committee, where I work on a wide range of healthcare and public health issues impacting Maryland families.
-I am also a member of the Elder and Long-Term Care Subcommittee, the Maternal, Infant, and Child Health Subcommittee, and the Public Health and Minority Health Disparities Subcommittee, focusing on improving care quality, expanding access, and addressing health inequities across our state.
-I am a member of the Maryland Women’s Caucus, the Maryland Legislative LGBTQ+ Caucus, and the Maryland Legislative Latino Caucus, where I currently serve as Vice Chair of the Legislative Review Committee.
-I’m running for a full term because while we’ve made real progress, there’s still more work to do.
+I’ve worked to make government more accessible, more responsive, and more effective for the people I represent. ​ In my first legislative session, I introduced bills focused on healthcare transparency, protections for immigrant workers, youth sports safety, and fair insurance practices.
+These efforts reflect my priorities: ensuring high-quality healthcare, keeping our communities safe, supporting working families, and making Maryland more affordable and inclusive for all. ​ During the 2026 session, I served on the Health Committee, where I work on a wide range of healthcare and public health issues impacting Maryland families.
+I am also a member of the Elder and Long-Term Care Subcommittee, the Maternal, Infant, and Child Health Subcommittee, and the Public Health and Minority Health Disparities Subcommittee, focusing on improving care quality, expanding access, and addressing health inequities across our state. ​ I am a member of the Maryland Women’s Caucus, the Maryland Legislative LGBTQ+ Caucus, and the Maryland Legislative Latino Caucus, where I currently serve as Vice Chair of the Legislative Review Committee. ​ I’m running for a full term because while we’ve made real progress, there’s still more work to do.
 I’m committed to continuing to deliver results, fight for our community, and make sure every family in District 16 has the opportunity to thrive.
-You can get more details on my legislative work, including the bills I’ve introduced and supported, on my official General Assembly page: HERE.
-My husband Matthew and I bought our home in Bethesda, where we live with our two cats, Snow White and Oscar, and our dog Gatsby.
+You can get more details on my legislative work, including the bills I’ve introduced and supported, on my official General Assembly page: HERE . ​ My husband Matthew and I bought our home in Bethesda, where we live with our two cats, Snow White and Oscar, and our dog Gatsby.
 And yes, I'm THAT “childless cat lady” who went viral during the 2024 Democratic National Convention.
-You can read a Washington Post article about that fun experience HERE and Oprah Daily’s post about the beautiful gifts Oprah sent the cats and me HERE.
-- Teresa
-Endorsements
-Sierra Club
+You can read a Washington Post article about that fun experience HERE and Oprah Daily’s post about the beautiful gifts Oprah sent the cats and me HERE .​ ​ - Teresa Endorsements Maryland State Education Association | Montgomery County Education Association Progressive Maryland Speaker of the House Joseline Peña Melnyk Montgomery County Executive Marc Elrich CASA in Action Reproductive Justice Maryland SEIU Local 500 Metropolitan Washington Council, AFL-CIO Governor Wes Moore MCGEO UFCW Local 1994 Humane World Action Fund Latino Democratic Club of Montgomery County FrreeState Equality Marylanders for Patient Rights Sierra Club Get involved First name * Last name * Address Phone Email * Get involved!
+Subscribe to mailing list Invite to future town halls or events Volunteer I have a legislative idea!
+Other Submit Opt in for communications * Contact: teresa@teresawoorman.com By Authority: Teresa Woorman for Maryland; Matthew Woorman, Treasurer bottom of page

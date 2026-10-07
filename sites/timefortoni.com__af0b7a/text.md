@@ -1,10 +1,10 @@
-Time for Toni
-Toni Kornegay Vaughn is a mother, a neighbor, and a lifelong community advocate who understands the everyday challenges families in House District 45 face.
+Skip to content Home Platform Meet Toni Volunteer Contact Time for Toni Home Platform Meet Toni Volunteer Contact Strong Values.
+Real Leadership.
+A Heart for Our Community.
+Parts of Jefferson North Shelby & St Clair Counties #strongwomen #votebluetosavedemocracy #alabamapolitics ﻿ #stopmomsforliberty #humanrightsmatter #election2026 #womeninpolitics Time for Toni Toni Kornegay Vaughn is a mother, a neighbor, and a lifelong community advocate who understands the everyday challenges families in House District 45 face.
 She is running for Alabama House because she believes the people here deserve a representative who listens, shows up, and works for them.
 Toni is committed to building a district where families can grow, children can thrive, and every person is treated with dignity.
-WHY TONI IS RUNNING
-A Personal Message
-I am running for the Alabama House because our district is full of hardworking families who deserve support, not silence.
+WHY TONI IS RUNNING A Personal Message I am running for the Alabama House because our district is full of hardworking families who deserve support, not silence.
 I know what it feels like to stretch a dollar, search for reliable childcare, stay up late worried about a child’s school experience, or feel discouraged by healthcare costs.
 These are real challenges, and I want to bring real solutions to Montgomery.
 I want every child in District 45 to have a great education.
@@ -13,4 +13,4 @@ I want healthcare to be within reach for every person, not a burden that keeps f
 I am running because I believe in us.
 I believe in what we can do together.
 And I believe it is time our district has someone who fights for the real needs of real people.
-Toni Kornegay Vaughn
+Toni Kornegay Vaughn Education Affordability Childcare Healthcare © # Time for Toni ALHD45 Paid for by Committee to Elect Toni Kornegay Vaughn ALHD45

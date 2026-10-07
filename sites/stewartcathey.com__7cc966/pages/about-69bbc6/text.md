@@ -1,9 +1,8 @@
-ABOUT STEWART
-Senator Stewart Cathey, Jr. was first elected to the Louisiana State Senate in 2019 to serve a four-year term.
+top of page HOME ABOUT GET INVOLVED PRESS KIT NEWS MORE Use tab to navigate through the menu items.
+DONATE ABOUT STEWART Senator Stewart Cathey, Jr. was first elected to the Louisiana State Senate in 2019 to serve a four-year term.
 As your state senator, Senator Cathey currently serves as Chairman of the Senate Committee on Agriculture, Forestry, Aquaculture, and Rural Development, where he leads the discussion on policy directly affecting Louisiana’s rural communities.
 Senator Cathey was born in Monroe, LA, to Donna, a public school teacher, and Stewart Sr., a small businessman, and member of the Louisiana Army National Guard.
-Growing up in that environment, it did not take Senator Cathey long to learn the value of education and service to others.
-After graduating from high school, Senator Cathey enrolled in ULM.
+Growing up in that environment, it did not take Senator Cathey long to learn the value of education and service to others. ​ After graduating from high school, Senator Cathey enrolled in ULM.
 In 2003, he continued his family’s legacy of service by joining the US Army.
 As a commissioned officer and Army Engineer, Senator Cathey has served multiple tours for his country.
 He was mobilized with the Army Corps of Engineers as part of the cleanup efforts following Hurricane Katrina.
@@ -26,3 +25,13 @@ He looks forward to continuing to shape the future of this state and to stand Lo
 Senator Cathey and his wife, Brittany Wiley Cathey, reside in Monroe, Louisiana.
 Their Christian values remain at the forefront of their marriage.
 On the weekends, the Catheys worship at First West Church in West Monroe, Louisiana.
+CATHEY FOR CONGRESS P.O.
+Box 328 Fairbanks, LA 71240 info@stewartcathey.com HOME ABOUT GET INVOLVED PRESS KIT NEWS More Use tab to navigate through the menu items.
+PAID FOR BY CATHEY FOR CONGRESS Images do not imply endorsement by the Department of Defense or any Service Branch. © Copyright # Cathey for Congress All Rights Reserved.
+Sign Up for Text Messages Yes, I want to receive text messages SUBMIT Thank you for signing up.
+By providing your phone number and checking the box, you are consenting to receive polling and voting text messages (such as election reminders and opinion polls) and public service announcement text messages (such as legislative updates, member updates, and voter education) from Cathey for Congress at the number provided, including messages sent by autodialer.
+Message frequency varies.
+Message and data rates may apply.
+Reply HELP for help.
+Reply STOP to unsubscribe.
+See our Privacy Policy | Terms and Conditions. bottom of page

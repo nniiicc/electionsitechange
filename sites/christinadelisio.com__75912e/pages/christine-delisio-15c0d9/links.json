@@ -1,10 +1,50 @@
 [
-"https://christinadelisio.com/",
-"https://christinadelisio.com/christine-delisio",
-"https://christinadelisio.com/get-in-touch",
-"https://christinadelisio.com/in-the-news",
-"https://forms.gle/ERy261qFxe6ftCeW9",
-"https://forms.gle/nLUZ3jUvWzsyPTh26",
-"https://sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote",
-"https://secure.anedot.com/christinadelisio/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/christinadelisio/donate"
+},
+{
+"text": "Events",
+"href": "https://christinadelisio.com/#events"
+},
+{
+"text": "Find Your Polling Location",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote"
+},
+{
+"text": "Get In Touch",
+"href": "https://christinadelisio.com/get-in-touch/"
+},
+{
+"text": "In The News",
+"href": "https://christinadelisio.com/in-the-news/"
+},
+{
+"text": "Meet Christina",
+"href": "https://christinadelisio.com/christine-delisio/"
+},
+{
+"text": "Priorities",
+"href": "https://christinadelisio.com/#Priorities"
+},
+{
+"text": "Request A Lawn Sign",
+"href": "https://forms.gle/ERy261qFxe6ftCeW9"
+},
+{
+"text": "Support Christina",
+"href": "https://secure.anedot.com/christinadelisio/donate"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/nLUZ3jUvWzsyPTh26"
+},
+{
+"text": "Welcome",
+"href": "https://christinadelisio.com/"
+},
+{
+"text": "[image: Christina Delisio For State Representative]",
+"href": "https://christinadelisio.com/"
+}
 ]

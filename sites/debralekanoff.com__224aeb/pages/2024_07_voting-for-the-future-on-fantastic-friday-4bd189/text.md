@@ -1,18 +1,14 @@
-Voting for the Future on Fantastic Friday
-Dear Friends,
-Last weekend, President Joe Biden announced on his social media pages that he will not be seeking re-election this November, leaving the Presidential election race and endorsing his Vice President, Kamala Harris, shortly after.
+Skip to content Search for: Home About Top Priorities Volunteer Press & Media Fantastic Fridays News Updates Contact Donate Home Fantastic Fridays Voting for the Future on Fantastic Friday Voting for the Future on Fantastic Friday Published On: July 26, 2024 Categories: Fantastic Fridays Dear Friends, Last weekend, President Joe Biden announced on his social media pages that he will not be seeking re-election this November, leaving the Presidential election race and endorsing his Vice President, Kamala Harris, shortly after.
 President Biden has been an incredible civil servant for more than 50 years in Washington, D.C., and we all owe him our gratitude for so many incredible accomplishments during his time in office – and in particular during his Presidential term.
-Now, with a majority of delegates to the Democratic National Convention pledging their support to Vice President Harris, it is time to get excited about this new campaign!
-Photo courtesy of PBS
-It will be a long road to victory in November, but we are already seeing so many people rallying to support Vice President Harris as we fight to both continue the good work that has started these past four years, and prevent Donald Trump from another term in office.
+Now, with a majority of delegates to the Democratic National Convention pledging their support to Vice President Harris , it is time to get excited about this new campaign!
+Photo courtesy of PBS It will be a long road to victory in November, but we are already seeing so many people rallying to support Vice President Harris as we fight to both continue the good work that has started these past four years, and prevent Donald Trump from another term in office.
 If you are interested in supporting Vice President Harris as she campaigns for the Oval Office, there are a number of ways to get involved!
-You can donate to her campaign here, directly supporting campaign efforts across the country.
-You can volunteer in your state to support her campaign here, getting involved on the ground to help rally voters to her cause.
+You can donate to her campaign here , directly supporting campaign efforts across the country.
+You can volunteer in your state to support her campaign here , getting involved on the ground to help rally voters to her cause.
 There is a newfound energy and excitement around the Presidential election, and I hope that Vice President Harris can count on your support!
 Keep reading for more on this Fantastic Friday.
 Rep.
-Debra Lekanoff
-Celebrating Endorsements!
+Debra Lekanoff Celebrating Endorsements!
 I am honored to have served the wonderful people of the 40th Legislative District for the past four terms.
 Today, I’d like to share with you the vision of an influential group in our community: the Riveters Collective.
 The Riveters Collective is dedicated to discovering, developing, and promoting effective progressive civic action in Whatcom County and neighboring communities.
@@ -28,8 +24,7 @@ Their name, meaning “always bracken fern roots,” reflects their deep connect
 The tribe continues to work towards a sustainable future for its members and the surrounding ecosystem.
 Their resilience and dedication to their heritage serve as an inspiration to all of us.
 As your representative, I remain committed to supporting the Nooksack Tribe and other indigenous communities in our state, recognizing their vital role in Washington’s rich cultural tapestry and environmental stewardship.
-Our People – One Washington – One Nation
-Today I want to update you on our collaborative efforts across the 40th Legislative District and beyond.
+Our People – One Washington – One Nation Today I want to update you on our collaborative efforts across the 40th Legislative District and beyond.
 Our strength lies in our unity, and I’m proud of the partnerships we’ve forged over the years.
 Over the past 35 years, my experience in public service has underscored the importance of working together across various levels of government.
 This theme of collaboration and unity is foundational to decision-making in our districts.
@@ -57,8 +52,7 @@ As we strive to build a more cohesive and supportive community, we must continue
 By working together with tribal governments and other governing bodies, we can leverage our collective strengths to address complex challenges, promote equity, and foster a sense of belonging for all members of our diverse district.
 The enduring relationships we cultivate today will lay the foundation for a more prosperous and harmonious tomorrow, where the voices and needs of all individuals are heard and valued.
 Thank you for your continued support and engagement in our community’s progress.
-Saving Salmon Requires Collaboration
-I wanted to share with you some highlights of my work over the past six years in the legislature regarding salmon recovery and protection.
+Saving Salmon Requires Collaboration I wanted to share with you some highlights of my work over the past six years in the legislature regarding salmon recovery and protection.
 With over 30 years of experience working at the state, regional, and national levels, I remain deeply committed to the future of salmon in Washington State.
 As the sole Indigenous legislator in Washington, my advocacy for salmon conservation is not just a political stance, but a personal and cultural commitment.
 I view salmon as more than just a species – they are a symbol of interconnectedness and sustainability, vital to our ecosystems, cultural traditions, and community well-being.
@@ -74,28 +68,24 @@ The stakes are high – salmon extinction would not only devastate our ecosystem
 As your representative, I will continue to champion a unified approach towards salmon conservation, inviting all of you to join in this crucial effort.
 Together, we can create a future where salmon thrive, our ecosystems flourish, and our cultural traditions endure.
 Thank you for your support in this vital mission.
-Salmon on the Skagit River
-In my morning call today with the Upper Skagit Tribe, Scott Schuyler and their tribal council shared their invaluable teachings on governance between state and local government.
+Salmon on the Skagit River In my morning call today with the Upper Skagit Tribe, Scott Schuyler and their tribal council shared their invaluable teachings on governance between state and local government.
 Over the years, I have deeply engaged with the salmon crisis on the Skagit River, which remains at the forefront of my work.
 This crisis is not just about fish; it is about preserving our cultural heritage and fulfilling our treaty rights.
-The salmon population in the Skagit River has been drastically impacted by the construction of the Gorge Dam, which has blocked vital stretches of salmon habitat and disrupted the natural flow of the river.
+The salmon population in the Skagit River has been drastically impacted by the construction of the Gorge Dam , which has blocked vital stretches of salmon habitat and disrupted the natural flow of the river.
 This has led to significant declines in salmon numbers, affecting the ecosystem and the Upper Skagit Tribe’s way of life.
 The dam’s presence in sacred areas, known as the “Valley of the Spirits,” without consultation, adds to the cultural trauma endured by the tribe.
-Skagit River
-Through years of learning and advocacy, I understand the delicate balance we must achieve between combating climate change and restoring salmon populations.
+Skagit River Through years of learning and advocacy, I understand the delicate balance we must achieve between combating climate change and restoring salmon populations.
 Reducing carbon emissions, transitioning to renewable energy sources, and removing dams are crucial steps in this process.
-The Upper Skagit Tribe’s efforts, led by Scott Schuyler, include pushing for the removal of the Gorge Dam and conducting thorough assessments to mitigate the long-standing harms to the river and the tribe
-This ongoing fight for salmon is not only about environmental conservation but also about cultural survival and justice for the Upper Skagit people.
+The Upper Skagit Tribe’s efforts, led by Scott Schuyler, include pushing for the removal of the Gorge Dam and conducting thorough assessments to mitigate the long-standing harms to the river and the tribe This ongoing fight for salmon is not only about environmental conservation but also about cultural survival and justice for the Upper Skagit people.
 By working together, we can ensure a future where the Skagit River flows freely, supporting both the salmon and the tribal communities that depend on it.
-Addressing the Unhoused Crisis in the Region
-I want to update you on recent developments regarding homelessness and housing policies in our region and beyond.
+Addressing the Unhoused Crisis in the Region I want to update you on recent developments regarding homelessness and housing policies in our region and beyond.
 Governor Gavin Newsom of California recently issued an executive order directing state agencies to clear homeless encampments from major urban centers.
 This action follows a Supreme Court decision that allows states and cities to enforce bans on public sleeping, overturning previous restrictions.
 California faces a severe homelessness crisis, with over 27% of the country’s homeless population despite having less than 12% of the overall population.
 The order aims to address safety concerns and health risks associated with encampments lacking basic amenities.
 While some local officials support the initiative, homeless advocacy groups argue it doesn’t address underlying issues.
 San Francisco and Los Angeles mayors have announced plans to clear encampments, with varying approaches to enforcement and support services.
-In contrast, here in Washington State, we’ve taken a different approach.
+In contrast, here in Washington State, we’ve taken a different approach .
 Our legislature has implemented robust housing policies and strategic investments to address our housing crisis.
 Our Housing Strategy focuses on increasing housing supply, preserving affordable housing, preventing homelessness, and supporting vulnerable populations.
 We’ve initiated rapid rehousing programs, supportive services, and tenant protections.
@@ -106,3 +96,6 @@ Both California and Washington acknowledge the need for multifaceted approaches 
 However, our current strategies differ in focus and implementation.
 As your representative, I remain committed to finding sustainable solutions to our housing and homelessness challenges.
 We will continue to work towards creating a just and equitable housing system that meets the needs of all our residents.
+Previous Next “Progress is not achieved by standing still.
+Let’s move forward together towards a better, brighter future.” Re-Elect Debra Lekanoff (D) PO Box 23125 Seattle, WA 98102 debra@debralekanoff.com info@debralekanoff.com Volunteer Register To Vote Get Updates Donate Events Endorse Debra Follow Debra Copyright # DEBRA LEKANOFF.
+PAID FOR BY RE-ELECT DEBRA LEKANOFF (D) Page load link Go to Top

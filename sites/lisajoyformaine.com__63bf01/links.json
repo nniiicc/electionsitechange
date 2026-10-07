@@ -1,6 +1,38 @@
 [
-"https://lisajoyformaine.com/",
-"https://lisajoyformaine.com/cart",
-"https://lisajoyformaine.com/home",
-"https://maine.gov/cleanelections"
+{
+"text": "0",
+"href": "https://www.lisajoyformaine.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lisajoyformaine.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://www.lisajoyformaine.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://maine.gov/cleanelections"
+},
+{
+"text": "Lisa Joy Pratt for State House",
+"href": "https://www.lisajoyformaine.com/"
+},
+{
+"text": "On the Issues",
+"href": "https://www.lisajoyformaine.com/#issues"
+},
+{
+"text": "What I've done",
+"href": "https://www.lisajoyformaine.com/home#accomplishments"
+},
+{
+"text": "YOUR ENDORSEMENT",
+"href": "mailto:lisajoy@lisajoyformaine.com"
+},
+{
+"text": "[image]",
+"href": "https://maine.gov/cleanelections"
+}
 ]

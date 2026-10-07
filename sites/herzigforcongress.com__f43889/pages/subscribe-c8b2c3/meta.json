@@ -1,7 +1,9 @@
 {
  "description": "Join our mailing list to receive updates, volunteer opportunities, and campaign news from Herzig for Congress.",
  "final_url": "https://www.herzigforcongress.com/subscribe",
- "paid_for_by": null,
+ "fingerprint": "cd833c95eb1aca5f0affe177ce04ce1e153bbad0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Subscribe | Herzig For Congress",
  "years_mentioned": []
 }

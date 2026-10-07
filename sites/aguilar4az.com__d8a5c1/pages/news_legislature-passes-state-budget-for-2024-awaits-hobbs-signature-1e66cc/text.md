@@ -1,11 +1,10 @@
-| PHOENIX (3TV/CBS 5/AP) -- After a very early morning session from the Arizona Senate on Wednesday, the House passed Arizona’s $18 billion budget with both sides claiming victories.
+Home Meet Cesar Issues Join Our Movement News ENDORSEMENTS DONATE Shop Legislature passes state budget for 2024, awaits Hobbs’ signature 5/10/2023 0 Comments PHOENIX (3TV/CBS 5/AP) -- After a very early morning session from the Arizona Senate on Wednesday, the House passed Arizona’s $18 billion budget with both sides claiming victories.
 Just after midnight, senators started passing the bills with bipartisan support.
 After completion, the House took the bills and started voting just after 1:30 p.m.
 The measures passed and are headed to Gov.
 Katie Hobbs’ desk for her signature.
 She plans to sign it.
-“Not everybody got what they wanted, but I’m thankful legislative leaders were able to set aside their differences, compromise, and support a bipartisan deal that makes historic investments in affordable housing, builds roads, bridges, and public transit, expands access to health insurance for Arizona’s children and creates critical new ESA accountability measures,” Hobbs said in a statement.
-Both political parties have touted wins in the budget compromise.
+“Not everybody got what they wanted, but I’m thankful legislative leaders were able to set aside their differences, compromise, and support a bipartisan deal that makes historic investments in affordable housing, builds roads, bridges, and public transit, expands access to health insurance for Arizona’s children and creates critical new ESA accountability measures,” Hobbs said in a statement. ​ Both political parties have touted wins in the budget compromise.
 For the Democrats, Hobbs highlighted $650 million in infrastructure, $300 million one-time payment for K-12 schools, $342 million for school facilities and $88.6 million in new ongoing K-12 funding.
 Rep.
 Andres Cano, the Democratic leader in the House, praised items in the budget like an ESA House Oversight Committee, $60 million in new cash for homeless shelters and $5 million for expanding KidsCare.
@@ -51,6 +50,9 @@ Arizona now has the nation’s most expansive private school voucher law.
 It allows parents of more than 1.2 million school-age children to get 90% of the state money that would normally go to their local public school and use it for private or other school costs.
 In a statement, Marisol Garcia, president of the Arizona Education Association, a union that represents teachers, said she was glad the budget included the one-time infusion of $300 million into K-12 public schools and other funding for schools.
 But Garcia expressed frustration over the lack of limits on the voucher program.
-“The extremist majority in our state Legislature has ignored the will of Arizona voters and pushed through policies that bankroll private schools for the wealthy at the cost of the public schools attended by 90% of Arizona kids,” Garcia said.
-On Wednesday, leaders in the Arizona House announced the creation of a special committee to examine vouchers.
-The panel’s members will include Democratic and Republican lawmakers, Hobbs and State Superintendent of Public Instruction Tom Horne. | Archives Categories |
+“The extremist majority in our state Legislature has ignored the will of Arizona voters and pushed through policies that bankroll private schools for the wealthy at the cost of the public schools attended by 90% of Arizona kids,” Garcia said. ​ On Wednesday, leaders in the Arizona House announced the creation of a special committee to examine vouchers.
+The panel’s members will include Democratic and Republican lawmakers, Hobbs and State Superintendent of Public Instruction Tom Horne.
+0 Comments Leave a Reply.
+Archives September 2023 August 2023 May 2023 April 2023 January 2023 December 2022 March 2022 January 2021 October 2019 April 2019 Categories All PAID FOR BY CESAR AGUILAR FOR STATE REPRESENTATIVE DISTRICT- 26.
+AUTHORIZED BY CESAR AGUILAR.
+Home Meet Cesar Issues Join Our Movement News ENDORSEMENTS DONATE Shop

@@ -1,9 +1,15 @@
 {
  "description": "Up-to-date news on Steve's activities, happenings on Beacon Hill, grants and funding opportunities, and Malden politics and community events.",
  "final_url": "https://www.representativeultrino.com/news",
+ "fingerprint": "ed4ccd4437f38115c37b0939ed45eabb7732b613",
+ "format": 3,
  "paid_for_by": "Paid for by The Committee To Elect Steve Ultrino bottom of page",
  "title": "News | State Representative Steve Ultrino | United States",
  "years_mentioned": [
-  "2026"
+  "2014",
+  "2022",
+  "2025",
+  "2026",
+  "2027"
  ]
 }

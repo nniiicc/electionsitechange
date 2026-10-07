@@ -1,7 +1,26 @@
 [
-"https://donorbox.org/state-house-2026",
-"https://olvr.hawaii.gov/",
-"https://sueleeloy.com/",
-"https://sueleeloy.com/get-involved",
-"https://sueleeloy.com/privacy-policy"
+{
+"text": "DISCLAIMER",
+"href": "https://www.sueleeloy.com/privacy-policy"
+},
+{
+"text": "DONATE",
+"href": "https://donorbox.org/state-house-2026"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.sueleeloy.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.sueleeloy.com"
+},
+{
+"text": "REGISTER NOW",
+"href": "https://olvr.hawaii.gov/"
+},
+{
+"text": "Sue@voteleeloy.com",
+"href": "mailto:Sue@voteleeloy.com"
+}
 ]

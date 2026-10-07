@@ -1,12 +1,46 @@
 [
-"https://arthompson.org/cdn-cgi/l/email-protection",
-"https://bsky.app/profile/atdba1m.bsky.social",
-"https://facebook.com/adamthompsonnh",
-"https://facebook.com/share/18tG2VsY3X",
-"https://forms.gle/3xnmGYVqvmSafScV6",
-"https://granitestateorganizing.org/",
-"https://ndacaucus.org/",
-"https://radmovement.org/",
-"https://secure.actblue.com/donate/TEAMThompson",
-"https://secure.actblue.com/donate/teamthompson"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/atdba1m.bsky.social"
+},
+{
+"text": "Click Here for More Info",
+"href": "https://ndacaucus.org"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/teamthompson"
+},
+{
+"text": "Email the NDA",
+"href": "mailto:thehive@ndacaucus.org"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/adamthompsonnh"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/18tG2VsY3X/"
+},
+{
+"text": "Sign The Petition",
+"href": "https://forms.gle/3xnmGYVqvmSafScV6"
+},
+{
+"text": "[image]",
+"href": "https://granitestateorganizing.org/"
+},
+{
+"text": "[image]",
+"href": "https://ndacaucus.org/"
+},
+{
+"text": "[image]",
+"href": "https://radmovement.org/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/TEAMThompson"
+}
 ]

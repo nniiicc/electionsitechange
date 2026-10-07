@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.trussellforillinois.com/vote",
- "paid_for_by": null,
+ "fingerprint": "13b8cc4914206078f8be87db9d6970e412762735",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

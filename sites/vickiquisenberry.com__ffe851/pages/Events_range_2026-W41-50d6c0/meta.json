@@ -1,7 +1,11 @@
 {
  "description": "Vicki Quisenberry Campaign Events",
  "final_url": "https://vickiquisenberry.com/Events?range=2026-W41",
- "paid_for_by": null,
+ "fingerprint": "83c4f7c8c79c3159c272d6e6996c805f12c9ed2e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Vicki Quisenberry Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

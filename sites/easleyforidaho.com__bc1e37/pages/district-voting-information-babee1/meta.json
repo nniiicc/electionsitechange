@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.easleyforidaho.com/district-voting-information",
- "paid_for_by": null,
+ "fingerprint": "bd81945aa164741a420a1e1c53ac4beda3b89dfd",
+ "format": 3,
+ "paid_for_by": "",
  "title": "District & Voting Information | EasleyForIdaho",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

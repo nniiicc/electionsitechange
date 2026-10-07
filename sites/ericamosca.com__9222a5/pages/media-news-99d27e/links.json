@@ -1,53 +1,346 @@
 [
-"https://2news.com/news/lantern-festival-in-carson-city-celebrates-lunar-new-year-and-elected-legislative-members/article_83e764e2-a5c2-11ed-adc6-37d5e2339787.html",
-"https://8newsnow.com/news/breaking-down-barriers/breaking-down-barriers-asian-discrimination/amp",
-"https://abs-cbn.com/news/06/10/22/campaigns-of-nevada-fil-am-candidates-in-full-swing",
-"https://asianjournal.com/usa/lasvegas/3-fil-am-candidates-lead-races-in-nevada",
-"https://asianjournal.com/usa/lasvegas/sen-cortez-masto-hosts-las-vegas-aapi-community-leaders-in-heritage-month-celebration",
-"https://bu.edu/articles/2022/asian-american-and-pacific-islander-alums-changing-the-world",
-"https://democrats.org/news/photos-dnc-holds-build-back-better-stop-in-las-vegas",
-"https://ericamosca.com/",
-"https://ericamosca.com/2025-community",
-"https://ericamosca.com/about-erica",
-"https://ericamosca.com/bills",
-"https://ericamosca.com/contact",
-"https://ericamosca.com/endorsements",
-"https://ericamosca.com/get-involved",
-"https://ericamosca.com/legislative-awards",
-"https://ericamosca.com/media-news",
-"https://ericamosca.com/sa-tagalog",
-"https://ericamosca.com/sobre-erica",
-"https://ericamosca.com/why-i-m-running-1",
-"https://facebook.com/Erica-Mosca-for-NV-State-Assembly-District-14-105873498716683",
-"https://fox5vegas.com/2025/06/24/new-nevada-law-aims-speed-up-homeless-camp-cleanups-along-freeways",
-"https://gmanetwork.com/news/pinoyabroad/dispatch/852454/fil-ams-who-obtained-historical-wins-in-recent-us-midterm-polls/story",
-"https://instagram.com/ericamosca14",
-"https://knpr.org/show/knprs-state-of-nevada/2023-10-09/post-pandemic-ccsd-schools-are-still-doing-poorly-what-can-fix-it",
-"https://ktnv.com/news/air-quality-monitoring-program-advances-environmental-justice-for-latinos-in-east-las-vegas",
-"https://ktnv.com/news/nevada-democrats-secure-assembly-supermajority",
-"https://lasvegassun.com/news/2023/nov/29/business-community-lawmakers-discuss-ways-to-impro",
-"https://lasvegassun.com/news/2025/mar/22/assemblywoman-pushes-measure-to-help-extend-foreig",
-"https://lasvegassun.com/news/2025/oct/10/generations-gather-to-celebrate-the-unveiling-of-l",
-"https://lasvegassun.com/photos/galleries/2021/aug/24/0824_sun_BBB_Bus",
-"https://link.citycast.fm/view/63c9bc68d751aa0240952e9eitxo8.6o0/da3f8d0a",
-"https://militaryspouse.com/military-life/coronavirus-zoom-wedding",
-"https://positivelyfilipino.com/magazine/fil-ams-among-the-remarkable-and-famous-part-47",
-"https://pvtimes.com/tonopah/the-kids-arent-alright-tonopah-says-its-schools-are-struggling-120372",
-"https://reviewjournal.com/local/north-las-vegas/las-vegas-focused-podcast-has-first-live-audience-recording-1690960",
-"https://reviewjournal.com/news/politics-and-government/clark-county/new-program-aims-to-study-explosion-of-evictions-call-for-reform-2919485",
-"https://reviewjournal.com/news/politics-and-government/nevada/2-democrats-make-second-try-for-office-in-ad14-2576932",
-"https://reviewjournal.com/news/politics-and-government/nevada/2023-legislature/mosca-will-be-1st-person-of-filipino-descent-in-legislature-2722686",
-"https://reviewjournal.com/news/politics-and-government/nevada/education-advocate-mosca-running-in-open-assembly-district-14-2652122",
-"https://secure.actblue.com/donate/ericamoscalaunch",
-"https://theatlantavoice.com/jen-jordan-talks-reproductive-rights-record-state-voter-turnout-in-dial-in-press-conference",
-"https://thenevadaindependent.com/article/despite-in-person-learning-return-nevada-schools-saw-continued-proficiency-loss-last-year",
-"https://thenevadaindependent.com/article/educators-turned-lawmakers-bringing-classroom-realities-to-the-2023-session",
-"https://theweek.com/politics/instant-opinion-rats-schools-disaster-india",
-"https://twitter.com/EricaMosca14",
-"https://twitter.com/ericamosca14",
-"https://usa.inquirer.net/119101/historic-number-of-filipino-americans-won-in-last-november-polls",
-"https://usa.inquirer.net/177159/fil-am-leaders-mark-powerful-milestone-in-filipino-representation-in-us",
-"https://vegasinc.lasvegassun.com/news/2021/may/06/women-inspiring-nevada-pioneers-leading-with-hope",
-"https://vegassportstoday.com/esports-awards-completed",
-"https://youtu.be/9iZXgY4cKbo"
+{
+"text": "2025 COMMUNITY",
+"href": "https://www.ericamosca.com/2025-community"
+},
+{
+"text": "ABOUT ERICA",
+"href": "https://www.ericamosca.com/about-erica"
+},
+{
+"text": "BILLS",
+"href": "https://www.ericamosca.com/bills"
+},
+{
+"text": "CONTACT",
+"href": "https://www.ericamosca.com/contact"
+},
+{
+"text": "Community",
+"href": "https://www.ericamosca.com/2025-community"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ericamoscalaunch"
+},
+{
+"text": "EN ESPAÑOL & SA TAGALOG",
+"href": "https://www.ericamosca.com/sobre-erica"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.ericamosca.com/endorsements"
+},
+{
+"text": "Ericamosca14@gmail.com",
+"href": "mailto:Erica.V.Mosca@gmail.com"
+},
+{
+"text": "Fil-Ams Among The Remarkable And Famous, Part 47",
+"href": "https://www.positivelyfilipino.com/magazine/fil-ams-among-the-remarkable-and-famous-part-47"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.ericamosca.com/get-involved"
+},
+{
+"text": "LEGISLATIVE AWARDS & WORK",
+"href": "https://www.ericamosca.com/legislative-awards"
+},
+{
+"text": "Listen to Asw Mosca on KNPR",
+"href": "https://knpr.org/show/knprs-state-of-nevada/2023-10-09/post-pandemic-ccsd-schools-are-still-doing-poorly-what-can-fix-it"
+},
+{
+"text": "MEDIA & NEWS",
+"href": "https://www.ericamosca.com/media-news"
+},
+{
+"text": "MY WHY",
+"href": "https://www.ericamosca.com/why-i-m-running-1"
+},
+{
+"text": "SA TAGALOG",
+"href": "https://www.ericamosca.com/sa-tagalog"
+},
+{
+"text": "View More",
+"href": "https://asianjournal.com/usa/lasvegas/3-fil-am-candidates-lead-races-in-nevada/"
+},
+{
+"text": "View More",
+"href": "https://asianjournal.com/usa/lasvegas/sen-cortez-masto-hosts-las-vegas-aapi-community-leaders-in-heritage-month-celebration/"
+},
+{
+"text": "View More",
+"href": "https://democrats.org/news/photos-dnc-holds-build-back-better-stop-in-las-vegas/"
+},
+{
+"text": "View More",
+"href": "https://lasvegassun.com/news/2023/nov/29/business-community-lawmakers-discuss-ways-to-impro/"
+},
+{
+"text": "View More",
+"href": "https://lasvegassun.com/news/2025/mar/22/assemblywoman-pushes-measure-to-help-extend-foreig/"
+},
+{
+"text": "View More",
+"href": "https://lasvegassun.com/news/2025/oct/10/generations-gather-to-celebrate-the-unveiling-of-l/"
+},
+{
+"text": "View More",
+"href": "https://lasvegassun.com/photos/galleries/2021/aug/24/0824_sun_BBB_Bus/#/0"
+},
+{
+"text": "View More",
+"href": "https://link.citycast.fm/view/63c9bc68d751aa0240952e9eitxo8.6o0/da3f8d0a"
+},
+{
+"text": "View More",
+"href": "https://pvtimes.com/tonopah/the-kids-arent-alright-tonopah-says-its-schools-are-struggling-120372/"
+},
+{
+"text": "View More",
+"href": "https://theatlantavoice.com/jen-jordan-talks-reproductive-rights-record-state-voter-turnout-in-dial-in-press-conference/"
+},
+{
+"text": "View More",
+"href": "https://thenevadaindependent.com/article/despite-in-person-learning-return-nevada-schools-saw-continued-proficiency-loss-last-year"
+},
+{
+"text": "View More",
+"href": "https://thenevadaindependent.com/article/educators-turned-lawmakers-bringing-classroom-realities-to-the-2023-session"
+},
+{
+"text": "View More",
+"href": "https://theweek.com/politics/instant-opinion-rats-schools-disaster-india"
+},
+{
+"text": "View More",
+"href": "https://usa.inquirer.net/119101/historic-number-of-filipino-americans-won-in-last-november-polls"
+},
+{
+"text": "View More",
+"href": "https://usa.inquirer.net/177159/fil-am-leaders-mark-powerful-milestone-in-filipino-representation-in-us"
+},
+{
+"text": "View More",
+"href": "https://vegasinc.lasvegassun.com/news/2021/may/06/women-inspiring-nevada-pioneers-leading-with-hope/"
+},
+{
+"text": "View More",
+"href": "https://vegassportstoday.com/esports-awards-completed/"
+},
+{
+"text": "View More",
+"href": "https://www.2news.com/news/lantern-festival-in-carson-city-celebrates-lunar-new-year-and-elected-legislative-members/article_83e764e2-a5c2-11ed-adc6-37d5e2339787.html"
+},
+{
+"text": "View More",
+"href": "https://www.abs-cbn.com/news/06/10/22/campaigns-of-nevada-fil-am-candidates-in-full-swing"
+},
+{
+"text": "View More",
+"href": "https://www.bu.edu/articles/2022/asian-american-and-pacific-islander-alums-changing-the-world/"
+},
+{
+"text": "View More",
+"href": "https://www.fox5vegas.com/2025/06/24/new-nevada-law-aims-speed-up-homeless-camp-cleanups-along-freeways/"
+},
+{
+"text": "View More",
+"href": "https://www.gmanetwork.com/news/pinoyabroad/dispatch/852454/fil-ams-who-obtained-historical-wins-in-recent-us-midterm-polls/story/"
+},
+{
+"text": "View More",
+"href": "https://www.ktnv.com/news/air-quality-monitoring-program-advances-environmental-justice-for-latinos-in-east-las-vegas"
+},
+{
+"text": "View More",
+"href": "https://www.ktnv.com/news/nevada-democrats-secure-assembly-supermajority"
+},
+{
+"text": "View More",
+"href": "https://www.militaryspouse.com/military-life/coronavirus-zoom-wedding/"
+},
+{
+"text": "View More",
+"href": "https://www.positivelyfilipino.com/magazine/fil-ams-among-the-remarkable-and-famous-part-47"
+},
+{
+"text": "View More",
+"href": "https://www.reviewjournal.com/local/north-las-vegas/las-vegas-focused-podcast-has-first-live-audience-recording-1690960/"
+},
+{
+"text": "View More",
+"href": "https://www.reviewjournal.com/news/politics-and-government/clark-county/new-program-aims-to-study-explosion-of-evictions-call-for-reform-2919485/"
+},
+{
+"text": "View More",
+"href": "https://www.reviewjournal.com/news/politics-and-government/nevada/2-democrats-make-second-try-for-office-in-ad14-2576932/"
+},
+{
+"text": "View More",
+"href": "https://www.reviewjournal.com/news/politics-and-government/nevada/2023-legislature/mosca-will-be-1st-person-of-filipino-descent-in-legislature-2722686/"
+},
+{
+"text": "View More",
+"href": "https://www.reviewjournal.com/news/politics-and-government/nevada/education-advocate-mosca-running-in-open-assembly-district-14-2652122/"
+},
+{
+"text": "[image: Erica on Facebook]",
+"href": "https://www.facebook.com/Erica-Mosca-for-NV-State-Assembly-District-14-105873498716683"
+},
+{
+"text": "[image: Erica on Instagram]",
+"href": "https://www.instagram.com/ericamosca14/"
+},
+{
+"text": "[image: Erica on Twitter]",
+"href": "https://twitter.com/EricaMosca14"
+},
+{
+"text": "[image: Erica on Twitter]",
+"href": "https://twitter.com/ericamosca14"
+},
+{
+"text": "[image: Mosca-Logo-300x200.png]",
+"href": "https://www.ericamosca.com"
+},
+{
+"text": "[image: Screenshot 2024-03-03 at 4.28.28 PM.png]",
+"href": "https://www.8newsnow.com/news/breaking-down-barriers/breaking-down-barriers-asian-discrimination/amp/?mc_phishing_protection_id=149734-cnevmjvckmb8tekj7ps0"
+},
+{
+"text": "[image: Screenshot 2025-08-04 220216.png]",
+"href": "https://lasvegassun.com/news/2023/nov/29/business-community-lawmakers-discuss-ways-to-impro/"
+},
+{
+"text": "[image: Screenshot 2025-08-04 220353.png]",
+"href": "https://www.reviewjournal.com/news/politics-and-government/clark-county/new-program-aims-to-study-explosion-of-evictions-call-for-reform-2919485/"
+},
+{
+"text": "[image: Screenshot 2025-08-04 221043.png]",
+"href": "https://thenevadaindependent.com/article/despite-in-person-learning-return-nevada-schools-saw-continued-proficiency-loss-last-year"
+},
+{
+"text": "[image: Screenshot 2025-08-04 221544.png]",
+"href": "https://www.ktnv.com/news/air-quality-monitoring-program-advances-environmental-justice-for-latinos-in-east-las-vegas"
+},
+{
+"text": "[image: Screenshot 2025-08-04 221816.png]",
+"href": "https://link.citycast.fm/view/63c9bc68d751aa0240952e9eitxo8.6o0/da3f8d0a"
+},
+{
+"text": "[image: Screenshot 2025-08-04 222051.png]",
+"href": "https://www.positivelyfilipino.com/magazine/fil-ams-among-the-remarkable-and-famous-part-47"
+},
+{
+"text": "[image: Screenshot 2025-08-05 093148.png]",
+"href": "https://pvtimes.com/tonopah/the-kids-arent-alright-tonopah-says-its-schools-are-struggling-120372/"
+},
+{
+"text": "[image: Screenshot 2025-08-05 093205.png]",
+"href": "https://www.2news.com/news/lantern-festival-in-carson-city-celebrates-lunar-new-year-and-elected-legislative-members/article_83e764e2-a5c2-11ed-adc6-37d5e2339787.html"
+},
+{
+"text": "[image: Screenshot 2025-08-05 093220.png]",
+"href": "https://www.reviewjournal.com/news/politics-and-government/nevada/2023-legislature/mosca-will-be-1st-person-of-filipino-descent-in-legislature-2722686/"
+},
+{
+"text": "[image: Screenshot 2025-08-05 094608.png]",
+"href": "https://thenevadaindependent.com/article/educators-turned-lawmakers-bringing-classroom-realities-to-the-2023-session"
+},
+{
+"text": "[image: Screenshot 2025-08-05 094633.png]",
+"href": "https://vegassportstoday.com/esports-awards-completed/"
+},
+{
+"text": "[image: Screenshot 2025-08-05 094647.png]",
+"href": "https://usa.inquirer.net/119101/historic-number-of-filipino-americans-won-in-last-november-polls"
+},
+{
+"text": "[image: Screenshot 2025-08-05 100109.png]",
+"href": "https://www.gmanetwork.com/news/pinoyabroad/dispatch/852454/fil-ams-who-obtained-historical-wins-in-recent-us-midterm-polls/story/"
+},
+{
+"text": "[image: Screenshot 2025-08-05 100123.png]",
+"href": "https://www.ktnv.com/news/nevada-democrats-secure-assembly-supermajority"
+},
+{
+"text": "[image: Screenshot 2025-08-05 100204.png]",
+"href": "https://asianjournal.com/usa/lasvegas/3-fil-am-candidates-lead-races-in-nevada/"
+},
+{
+"text": "[image: Screenshot 2025-08-05 100857.png]",
+"href": "https://theatlantavoice.com/jen-jordan-talks-reproductive-rights-record-state-voter-turnout-in-dial-in-press-conference/"
+},
+{
+"text": "[image: Screenshot 2025-08-05 100917.png]",
+"href": "https://www.reviewjournal.com/news/politics-and-government/nevada/education-advocate-mosca-running-in-open-assembly-district-14-2652122/"
+},
+{
+"text": "[image: Screenshot 2025-08-05 100931.png]",
+"href": "https://www.abs-cbn.com/news/06/10/22/campaigns-of-nevada-fil-am-candidates-in-full-swing"
+},
+{
+"text": "[image: Screenshot 2025-08-05 102004.png]",
+"href": "https://asianjournal.com/usa/lasvegas/sen-cortez-masto-hosts-las-vegas-aapi-community-leaders-in-heritage-month-celebration/"
+},
+{
+"text": "[image: Screenshot 2025-08-05 102018.png]",
+"href": "https://www.reviewjournal.com/news/politics-and-government/nevada/2-democrats-make-second-try-for-office-in-ad14-2576932/"
+},
+{
+"text": "[image: Screenshot 2025-08-05 102033.png]",
+"href": "https://www.bu.edu/articles/2022/asian-american-and-pacific-islander-alums-changing-the-world/"
+},
+{
+"text": "[image: Screenshot 2025-08-05 102658.png]",
+"href": "https://lasvegassun.com/photos/galleries/2021/aug/24/0824_sun_BBB_Bus/#/0"
+},
+{
+"text": "[image: Screenshot 2025-08-05 102712.png]",
+"href": "https://democrats.org/news/photos-dnc-holds-build-back-better-stop-in-las-vegas/"
+},
+{
+"text": "[image: Screenshot 2025-08-05 102731.png]",
+"href": "https://vegasinc.lasvegassun.com/news/2021/may/06/women-inspiring-nevada-pioneers-leading-with-hope/"
+},
+{
+"text": "[image: Screenshot 2025-08-05 103233.png]",
+"href": "https://www.militaryspouse.com/military-life/coronavirus-zoom-wedding/"
+},
+{
+"text": "[image: Screenshot 2025-08-05 103243.png]",
+"href": "https://www.reviewjournal.com/local/north-las-vegas/las-vegas-focused-podcast-has-first-live-audience-recording-1690960/"
+},
+{
+"text": "[image: Screenshot 2025-12-30 202903.png]",
+"href": "https://www.fox5vegas.com/2025/06/24/new-nevada-law-aims-speed-up-homeless-camp-cleanups-along-freeways/"
+},
+{
+"text": "[image: Screenshot 2025-12-30 203220.png]",
+"href": "https://usa.inquirer.net/177159/fil-am-leaders-mark-powerful-milestone-in-filipino-representation-in-us"
+},
+{
+"text": "[image: Screenshot 2025-12-30 203458.png]",
+"href": "https://theweek.com/politics/instant-opinion-rats-schools-disaster-india"
+},
+{
+"text": "[image: Screenshot 2025-12-30 203800.png]",
+"href": "https://lasvegassun.com/news/2025/oct/10/generations-gather-to-celebrate-the-unveiling-of-l/"
+},
+{
+"text": "[image: Screenshot 2025-12-30 204158.png]",
+"href": "https://lasvegassun.com/news/2025/mar/22/assemblywoman-pushes-measure-to-help-extend-foreig/"
+},
+{
+"text": "[image: ube.io-First Filipina lawmaker in Nevada State Legislature pushing for AAPI representation.JPG]",
+"href": "https://youtu.be/9iZXgY4cKbo"
+},
+{
+"text": "[image]",
+"href": "https://knpr.org/show/knprs-state-of-nevada/2023-10-09/post-pandemic-ccsd-schools-are-still-doing-poorly-what-can-fix-it"
+}
 ]

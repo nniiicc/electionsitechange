@@ -1,5 +1,5 @@
-Healthcare
-Healthcare Is a Right.
+Chip in Today Donate anything you can, we will need all the help on this campaign to fight for working people. $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Close Facebook Instagram YouTube Twitter Threads Jennifer McClellan for Congress – Menu Meet Jennifer Issues Donate Healthcare Healthcare Is a Right.
 Not a Privilege.
 Every Virginian deserves access to quality, affordable healthcare without fear of losing coverage or drowning in medical debt.
 Jenn has spent her career protecting and expanding access to care and defending the programs millions of Virginians depend on.
@@ -15,5 +15,10 @@ Advancing Maternal and Public Health As a member of the Energy & Commerce Commit
 After nearly losing her life during childbirth, she brings personal urgency to the fight against maternal mortality, introducing legislation, building coalitions, and refusing to let these disparities be ignored.
 Safeguarding Reproductive Justice Jenn believes how, when, and whether to become parents should be left to patients and their providers.
 Throughout her time in elected office, she has fought to ensure her constituents have the ability to make their own decisions in consultation with their healthcare providers.
-In the General Assembly, she led passage of the Reproductive Health Protection Act, the first proactive expansion of abortion rights in Virginia’s history.
+In the General Assembly, she led passage of the Reproductive Health Protection Act , the first proactive expansion of abortion rights in Virginia’s history.
 In Congress, she chairs the Reproductive Freedom Caucus’ Abortion Rights and Access Task Force and cosponsored the federal version of her landmark state legislation.
+Economic Opportunity Energy & Environment Healthcare Voting Rights National Security Education and Childcare Endorse Sign up as a supporter of Rep.
+McClellan’s grassroots-powered campaign.
+Thank you for your support and endorsement.
+Contribute Will you chip in to support our grassroots campaign today? $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Jennifer McClellan for Congress – Meet Jennifer Issues Endorsements Donate Follow Us Facebook Instagram YouTube Twitter Threads Paid for by McClellan for Congress Contact Privacy Policy Made with Middle Seat

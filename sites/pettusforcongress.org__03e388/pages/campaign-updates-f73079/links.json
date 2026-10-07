@@ -1,18 +1,110 @@
 [
-"https://palsreport.substack.com/",
-"https://pettusforcongress.org/",
-"https://pettusforcongress.org/about-mia",
-"https://pettusforcongress.org/campaign-updates",
-"https://pettusforcongress.org/donations",
-"https://pettusforcongress.org/priorities",
-"https://pettusforcongress.org/privacy-policy",
-"https://pettusforcongress.org/volunteer",
-"https://pettusforcongress.org/wp-content/uploads/2026/08/Black-Democratic-Women-Shape-Elections-But-Do-They-Shape-Outcomes.pdf",
-"https://pettusforcongress.org/wp-content/uploads/2026/08/Constitutional-and-Privacy-Constraints-on-Law-Enforcement-Drone-Surveillance-Under-the-Fourth-Amendment-U.S.-and-Michigan-Focus.pdf",
-"https://pettusforcongress.org/wp-content/uploads/2026/08/FISA-101-Understanding-Section-702-and-U.S.-Surveillance-Powers.pdf",
-"https://pettusforcongress.org/wp-content/uploads/2026/08/Libertarian-C.-Mia-Pettus-Launches-Campaign-for-Michigans-8th-Congressional-District-\u2013-Independent-Political-Report-1.pdf",
-"https://pettusforcongress.org/wp-content/uploads/2026/08/Press-Release-Website-copy-1.pdf",
-"https://pettusforcongress.org/wp-content/uploads/2026/09/BLACK-CHRISTIAN-PDF-CONSERVATIVE-WOMEN-POLITICAL-BACKLASH-MEDIA-PRESSURE-AND-SOCIAL-PUNISHMENT.pdf",
-"https://pettusforcongress.org/wp-content/uploads/2026/09/IMMEDIATE-PRESS-RELEASE-PDF-9-24-26.pdf",
-"https://pettusforcongress.org/wp-content/uploads/2026/09/bluesky-1.pdf"
+{
+"text": "About Mia",
+"href": "https://pettusforcongress.org/about-mia/"
+},
+{
+"text": "BLACK CHRISTIAN PDF CONSERVATIVE WOMEN: POLITICAL BACKLASH, MEDIA PRESSURE, AND SOCIAL PUNISHMENT",
+"href": "https://pettusforcongress.org/wp-content/uploads/2026/09/BLACK-CHRISTIAN-PDF-CONSERVATIVE-WOMEN-POLITICAL-BACKLASH-MEDIA-PRESSURE-AND-SOCIAL-PUNISHMENT.pdf"
+},
+{
+"text": "Black Democratic Women Shape Elections – But Do They Shape Outcomes?",
+"href": "https://pettusforcongress.org/wp-content/uploads/2026/08/Black-Democratic-Women-Shape-Elections-But-Do-They-Shape-Outcomes.pdf"
+},
+{
+"text": "Campaign Updates, Events and News",
+"href": "https://pettusforcongress.org/campaign-updates/"
+},
+{
+"text": "Constitutional and Privacy Constraints on Law Enforcement Drone Surveillance Under the Fourth Amendment (U.S. and Michigan Focus)",
+"href": "https://pettusforcongress.org/wp-content/uploads/2026/08/Constitutional-and-Privacy-Constraints-on-Law-Enforcement-Drone-Surveillance-Under-the-Fourth-Amendment-U.S.-and-Michigan-Focus.pdf"
+},
+{
+"text": "Donate",
+"href": "https://pettusforcongress.org/#donate"
+},
+{
+"text": "Donations",
+"href": "https://pettusforcongress.org/donations/"
+},
+{
+"text": "Download",
+"href": "https://pettusforcongress.org/wp-content/uploads/2026/08/Black-Democratic-Women-Shape-Elections-But-Do-They-Shape-Outcomes.pdf"
+},
+{
+"text": "Download",
+"href": "https://pettusforcongress.org/wp-content/uploads/2026/08/Constitutional-and-Privacy-Constraints-on-Law-Enforcement-Drone-Surveillance-Under-the-Fourth-Amendment-U.S.-and-Michigan-Focus.pdf"
+},
+{
+"text": "Download",
+"href": "https://pettusforcongress.org/wp-content/uploads/2026/08/FISA-101-Understanding-Section-702-and-U.S.-Surveillance-Powers.pdf"
+},
+{
+"text": "Download",
+"href": "https://pettusforcongress.org/wp-content/uploads/2026/08/Libertarian-C.-Mia-Pettus-Launches-Campaign-for-Michigans-8th-Congressional-District-%E2%80%93-Independent-Political-Report-1.pdf"
+},
+{
+"text": "Download",
+"href": "https://pettusforcongress.org/wp-content/uploads/2026/08/Press-Release-Website-copy-1.pdf"
+},
+{
+"text": "Download",
+"href": "https://pettusforcongress.org/wp-content/uploads/2026/09/BLACK-CHRISTIAN-PDF-CONSERVATIVE-WOMEN-POLITICAL-BACKLASH-MEDIA-PRESSURE-AND-SOCIAL-PUNISHMENT.pdf"
+},
+{
+"text": "Download",
+"href": "https://pettusforcongress.org/wp-content/uploads/2026/09/IMMEDIATE-PRESS-RELEASE-PDF-9-24-26.pdf"
+},
+{
+"text": "Download",
+"href": "https://pettusforcongress.org/wp-content/uploads/2026/09/bluesky-1.pdf"
+},
+{
+"text": "FISA 101: Understanding Section 702 and U.S. Surveillance Powers",
+"href": "https://pettusforcongress.org/wp-content/uploads/2026/08/FISA-101-Understanding-Section-702-and-U.S.-Surveillance-Powers.pdf"
+},
+{
+"text": "Home",
+"href": "https://pettusforcongress.org/"
+},
+{
+"text": "IMMEDIATE PRESS RELEASE PDF 9 24 26",
+"href": "https://pettusforcongress.org/wp-content/uploads/2026/09/IMMEDIATE-PRESS-RELEASE-PDF-9-24-26.pdf"
+},
+{
+"text": "Libertarian C. Mia Pettus Launches Campaign for Michigan’s 8th Congressional District – Independent Political Report",
+"href": "https://pettusforcongress.org/wp-content/uploads/2026/08/Libertarian-C.-Mia-Pettus-Launches-Campaign-for-Michigans-8th-Congressional-District-%E2%80%93-Independent-Political-Report-1.pdf"
+},
+{
+"text": "Pettus for Congress",
+"href": "https://pettusforcongress.org/"
+},
+{
+"text": "Press Release Website copy",
+"href": "https://pettusforcongress.org/wp-content/uploads/2026/08/Press-Release-Website-copy-1.pdf"
+},
+{
+"text": "Priorities",
+"href": "https://pettusforcongress.org/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://pettusforcongress.org/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://pettusforcongress.org/volunteer/"
+},
+{
+"text": "[image: Pettus for Congress]",
+"href": "https://pettusforcongress.org/"
+},
+{
+"text": "bluesky",
+"href": "https://pettusforcongress.org/wp-content/uploads/2026/09/bluesky-1.pdf"
+},
+{
+"text": "https://palsreport.substack.com",
+"href": "https://palsreport.substack.com"
+}
 ]

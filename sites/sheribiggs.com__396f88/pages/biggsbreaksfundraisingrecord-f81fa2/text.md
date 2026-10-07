@@ -1,12 +1,12 @@
-Sheri Biggs Announces Record-Breaking Fundraising Haul in SC's 3rd Congressional District
-Friday, April 5, 2024
-ANDERSON, SC – Conservative Republican Sheri Biggs announced today that her campaign has set a new quarterly fundraising record for South Carolina's Third Congressional District.
+HOME ABOUT PLATFORM GET INVOLVED NEWS DONATE 040524 - Q1 Fundraising Sheri Biggs Announces Record-Breaking Fundraising Haul in SC's 3 rd Congressional District Friday, April 5, 2024 ANDERSON, SC – Conservative Republican Sheri Biggs announced today that her campaign has set a new quarterly fundraising record for South Carolina's Third Congressional District.
 In the first quarter of 2024, the Sheri Biggs for Congress campaign brought in over $400k in total receipts, the most ever in a quarter by a congressional candidate in the district.
 Sheri Biggs, a Lieutenant Colonel in the Air National Guard and a nurse practitioner, shared that her record-breaking fundraising highlights the trust voters have in her ability to lead in Congress as well as the shared belief in the need to heal our nation.
 "I am profoundly humbled by the trust and confidence in our mission to heal our nation's mental, fiscal, and spiritual health problems," said Biggs.
-"Our fundraising success is a testament to the shared belief that it will take conservative outsiders like me - not career politicians, career bureaucrats or career candidates - to fix the major issues our nation faces including securing the southern border, protecting taxpayer dollars, keeping the promises made to our veterans, and fighting for our conservative values."
-After launching the first television campaign of any candidate in South Carolina after the Presidential Primary, the Biggs campaign also announced that it will report over $300k cash-on-hand on its quarterly report heading into the final stretch of the Republican primary campaign.
+"Our fundraising success is a testament to the shared belief that it will take conservative outsiders like me - not career politicians, career bureaucrats or career candidates - to fix the major issues our nation faces including securing the southern border, protecting taxpayer dollars, keeping the promises made to our veterans, and fighting for our conservative values." After launching the first television campaign of any candidate in South Carolina after the Presidential Primary, the Biggs campaign also announced that it will report over $300k cash-on-hand on its quarterly report heading into the final stretch of the Republican primary campaign.
 "While our campaign continues to have the necessary resources to share the conservative bona fides and unique qualifications of Sheri Biggs with South Carolina's Third Congressional District, Sheri will continue to lead on the issues most important to her neighbors," said campaign manager Leighton Gray Smith.
-###
-Sheri Biggs is a member of the Air National Guard.
+### Sheri Biggs is a member of the Air National Guard.
 Use of her military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of Defense.
+PAID FOR BY SHERI BIGGS FOR CONGRESS Download the official headshot of Sheri Biggs here .
+Press Inquires: Please email press@sheribiggs.com Sheri Biggs for Congress PO Box 2685 Anderson, SC 29622 Sheri Biggs is a member of the Air National Guard.
+Use of her military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of Defense.
+Privacy Policy Share by:

@@ -1,82 +1,26 @@
-Focused on
-What Matters Here
-Practical priorities for New Hanover County.
+top of page HOME MEET MICHAEL PRIORITIES RESULTS NEWS & MEDIA GET INVOLVED DONATE Focused on What Matters Here Practical priorities for New Hanover County.
 Families want leaders who understand the pressures they face and can turn those concerns into action.
 Michael is focused on the issues that shape daily life and our county's future.
-Helping families Keep More
-The cost of living is the first concern Michael hears from families across New Hanover County.
-State government cannot set every price, but it can keep taxes lower, pass responsible, disciplined budgets, remove barriers to competition, and avoid making family expenses worse.
-North Carolina has cut its income-tax rate again and again, down to a scheduled 3.49%, with more cuts after that already written into law, and Michael has voted for every single one.
+Helping families Keep More ​ The cost of living is the first concern Michael hears from families across New Hanover County.
+State government cannot set every price, but it can keep taxes lower, pass responsible, disciplined budgets, remove barriers to competition, and avoid making family expenses worse.​ ​ North Carolina has cut its income-tax rate again and again, down to a scheduled 3.49%, with more cuts after that already written into law, and Michael has voted for every single one.
 A married couple now pays zero state income tax on the first $25,500 they earn, and military retirement pay is no longer taxed at all.
-Michael is committed to continuing to cut your taxes responsibly while protecting core investments in education, health care, clean water, infrastructure, and public safety.
-Michael's Focus
-• Keep cutting income taxes responsibly.
-• Protect the larger standard deduction for working families.
-• Keep military retirement pay free from state income tax.
-• Expand provider competition to give patients more health care choices.
-• Pass responsible, disciplined budgets.
-Strengthening Education
-Strong schools are essential to every family and to New Hanover County's economy.
-Michael's education agenda begins with student outcomes: early literacy, real pathways to careers, safe schools, and excellent teachers.
-He co-authored the law that put the Science of Reading in every elementary classroom, and our earliest grades now outperform national benchmarks.
+Michael is committed to continuing to cut your taxes responsibly while protecting core investments in education, health care, clean water, infrastructure, and public safety. ​​ Michael's Focus ​ • Keep cutting income taxes responsibly. • Protect the larger standard deduction for working families. • Keep military retirement pay free from state income tax. • Expand provider competition to give patients more health care choices. • Pass responsible, disciplined budgets. ​ ​ Strengthening Education ​ Strong schools are essential to every family and to New Hanover County's economy.
+Michael's education agenda begins with student outcomes: early literacy, real pathways to careers, safe schools, and excellent teachers. ​ He co-authored the law that put the Science of Reading in every elementary classroom, and our earliest grades now outperform national benchmarks.
 He is building what comes next: SparkNC's competency-based, high-tech learning labs, a statewide Digital Credential Program so students own a record of every credential they earn, the expansion of Access to Achievement for community college students with intellectual and developmental disabilities, and a modern school funding formula that follows each student.
-He has voted for every teacher pay raise the state has passed since 2014, including the newest budget's average 8% increase, and supports the salary supplements and the 12% National Board pay boost that reward the teachers who deliver results.
-Parents should also have meaningful choices when a child's needs are not being met.
-Michael supports options for families as part of a broader commitment to a strong education for every child.
-Michael's Focus
-• Recruit and retain excellent teachers.
-• Strengthen early literacy and math outcomes.
-• Expand competency-based learning like SparkNC and stackable digital credentials.
-• Grow Access to Achievement so students with disabilities can train for real careers at CFCC and across the state.
-• Fund schools through a modern formula that follows each student.
-• Improve school safety and emergency preparedness.
-• Give parents clear information and meaningful options.
-Making health care more affordable and accessible
-Families need care they can reach, providers they can see, and bills they can afford.
+He has voted for every teacher pay raise the state has passed since 2014, including the newest budget's average 8% increase, and supports the salary supplements and the 12% National Board pay boost that reward the teachers who deliver results. ​ Parents should also have meaningful choices when a child's needs are not being met.
+Michael supports options for families as part of a broader commitment to a strong education for every child. ​ Michael's Focus • Recruit and retain excellent teachers. • Strengthen early literacy and math outcomes. • Expand competency-based learning like SparkNC and stackable digital credentials. • Grow Access to Achievement so students with disabilities can train for real careers at CFCC and across the state. • Fund schools through a modern formula that follows each student. • Improve school safety and emergency preparedness. • Give parents clear information and meaningful options. ​​ Making health care more affordable and accessible ​ Families need care they can reach, providers they can see, and bills they can afford.
 Michael worked across party lines to expand health coverage for working families, extending coverage to hundreds of thousands of North Carolinians.
 He is also working to remove outdated certificate-of-need barriers that limit where some services can be offered.
 The 2026 repeal for inpatient-rehabilitation services, facilities, and beds is one step toward more capacity and competition.
 Michael was a primary sponsor of the North Carolina Compassionate Care Act to legalize medical cannabis for patients with debilitating conditions, including veterans with PTSD, cancer patients, and people living with epilepsy, ALS, and Parkinson's disease.
-The bill passed the Senate twice with bipartisan support, and Michael will keep working until it becomes law.
-Michael's Focus
-• Protect the coverage working families have gained.
-• Remove barriers that unnecessarily limit providers and services.
-• Support a strong health care workforce, including the direct-care workers who serve people with disabilities.
-• Improve access close to home, including rehabilitation and community-based care.
-• Legalize medical cannabis for patients with debilitating conditions, with strict safety standards.
-• Keep the focus on patients, outcomes, and affordability.
-Investing in infrastructure and quality of life
-New Hanover County families feel infrastructure pressure every day: traffic, crowded roads, water and sewer needs, drainage, school capacity, airport access, and the cost of protecting a coastal community.
-Michael is focused on the projects that keep daily life moving and preserve what people value about this place.
-Recent budgets he supported have included major investments in local water systems, New Hanover County Airport, schools, UNCW, Cape Fear Community College, parks, Fort Fisher, and coastal resilience.
+The bill passed the Senate twice with bipartisan support, and Michael will keep working until it becomes law. ​ Michael's Focus ​ • Protect the coverage working families have gained. • Remove barriers that unnecessarily limit providers and services. • Support a strong health care workforce, including the direct-care workers who serve people with disabilities. • Improve access close to home, including rehabilitation and community-based care. • Legalize medical cannabis for patients with debilitating conditions, with strict safety standards. • Keep the focus on patients, outcomes, and affordability. ​ Investing in infrastructure and quality of life ​ New Hanover County families feel infrastructure pressure every day: traffic, crowded roads, water and sewer needs, drainage, school capacity, airport access, and the cost of protecting a coastal community.
+Michael is focused on the projects that keep daily life moving and preserve what people value about this place. ​ Recent budgets he supported have included major investments in local water systems, New Hanover County Airport, schools, UNCW, Cape Fear Community College, parks, Fort Fisher, and coastal resilience.
 This year he introduced the FUTURE NC Infrastructure Act to create a long-term state plan for the roads, water systems, and public infrastructure a growing North Carolina will need.
-He will keep making the case for this county's fair share.
-Michael's Focus
-• Plan and pay for infrastructure over the long term, not one budget at a time.
-• Strengthen water, sewer, and drainage capacity.
-• Support the airport, port, schools, and colleges that connect people and opportunity.
-• Prepare coastal infrastructure for storms and long-term risk.
-• Protect quality of life as infrastructure needs change.
-Protecting Clean Water and the Coast
-Clean water is not optional.
-Since GenX contamination became a public crisis, Michael has kept PFAS response on the legislative agenda through a Water Safety Act in every term he has served and through state budget action.
-The work is delivering results: CFPUA reports its advanced filters have reduced GenX and other PFAS to non-detectable levels in treated drinking water, a system chosen through the treatment study funded in Michael's first GenX response.
+He will keep making the case for this county's fair share. ​ Michael's Focus ​ • Plan and pay for infrastructure over the long term, not one budget at a time. • Strengthen water, sewer, and drainage capacity. • Support the airport, port, schools, and colleges that connect people and opportunity. • Prepare coastal infrastructure for storms and long-term risk. • Protect quality of life as infrastructure needs change. ​ ​ Protecting Clean Water and the Coast ​ Clean water is not optional.
+Since GenX contamination became a public crisis, Michael has kept PFAS response on the legislative agenda through a Water Safety Act in every term he has served and through state budget action. ​ The work is delivering results: CFPUA reports its advanced filters have reduced GenX and other PFAS to non-detectable levels in treated drinking water, a system chosen through the treatment study funded in Michael's first GenX response.
 The 2026 budget includes more than $100 million in PFAS response, anchored by the $45 million Emerging Contaminant Mitigation Fund.
 Under the law, polluters, not families, must provide replacement water when wells are contaminated, and every dollar the State recovers from PFAS polluters in court goes straight into the fund.
-Michael will continue pressing for testing, treatment, research, and removal of PFAS from our drinking water.
-Michael's Focus
-• Expand testing, treatment, and removal of PFAS and other emerging contaminants.
-• Get toxic firefighting foam out of fire stations and protect the firefighters who were exposed.
-• Strengthen research, monitoring, and public reporting.
-• Press state agencies to fully enforce the law that makes polluters, not families, provide replacement water.
-• Protect beaches, waterways, and coastal resources that define our county.
-Keeping Communities Safe
-Safe neighborhoods and safe schools depend on trained people, clear laws, and the resources to respond.
-Michael supports law enforcement, first responders, school-safety teams, and consequences for violent crime.
-The 2026 budget he helped write includes major pay investments for state law enforcement and correctional officers, a local law-enforcement bonus, $30 million for school-safety grants, and $14.3 million for critical-incident school mapping.
-Michael's Focus
-• Recruit and retain qualified law-enforcement and correctional personnel.
-• Support school resource officers, safety grants, and emergency planning.
-• Set clear consequences for violent crime and repeat offenders.
-• Improve coordination among state and local public-safety agencies.
-• Give first responders the tools and training they need.
+Michael will continue pressing for testing, treatment, research, and removal of PFAS from our drinking water. ​ Michael's Focus ​ • Expand testing, treatment, and removal of PFAS and other emerging contaminants. • Get toxic firefighting foam out of fire stations and protect the firefighters who were exposed. • Strengthen research, monitoring, and public reporting. • Press state agencies to fully enforce the law that makes polluters, not families, provide replacement water. • Protect beaches, waterways, and coastal resources that define our county. ​ ​ Keeping Communities Safe ​ Safe neighborhoods and safe schools depend on trained people, clear laws, and the resources to respond.
+Michael supports law enforcement, first responders, school-safety teams, and consequences for violent crime. ​ The 2026 budget he helped write includes major pay investments for state law enforcement and correctional officers, a local law-enforcement bonus, $30 million for school-safety grants, and $14.3 million for critical-incident school mapping. ​ Michael's Focus ​ • Recruit and retain qualified law-enforcement and correctional personnel. • Support school resource officers, safety grants, and emergency planning. • Set clear consequences for violent crime and repeat offenders. • Improve coordination among state and local public-safety agencies. • Give first responders the tools and training they need.
+Focused on New Hanover County Ready to keep working.
+See Michael's Record Join Team Lee HOME MEET MICHAEL PRIORITIES RESULTS NEWS & MEDIA GET INVOLVED DONATE PAID FOR BY THE COMMITTEE TO ELECT MICHAEL LEE​ Copyright © #, Committee to Elect Michael Lee | All Rights Reserved Terms & Conditions | Privacy Policy bottom of page

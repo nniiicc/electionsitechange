@@ -1,6 +1,18 @@
 [
-"https://facebook.com/jpendergrassal",
-"https://joshpendergrass.com/",
-"https://joshpendergrass.com/blank",
-"https://secure.winred.com/pendergrass-for-alabama-3acdd69f/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/pendergrass-for-alabama-3acdd69f/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.joshpendergrass.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.joshpendergrass.com/blank"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jpendergrassal"
+}
 ]

@@ -1,6 +1,5 @@
-League of Women Voters of Central Kane County is hosting a hybrid forum
-About this event
-The League of Women Voters has a long history of conducting candidate forums and is widely considered to be one of the most capable non-partisan organizations in this regard.
+Meet Jesse Issues News Volunteer Contribute Events / League of Women Voters of Central Kane County is hosting a hybrid forum League of Women Voters of Central Kane County is hosting a hybrid forum Time Wednesday, Sep 23, 2026 6:30 PM – 10:00 PM Location 100 N.
+Island, Batavia, IL, 60510 Map About this event Click Here The League of Women Voters has a long history of conducting candidate forums and is widely considered to be one of the most capable non-partisan organizations in this regard.
 With this in mind, the League of Women Voters of Central Kane County is hosting a hybrid forum on September 23, 2026 beginning at 6:30 pm at Batavia City Hall, 100 N.
 Island Ave, Batavia.
 We are inviting candidates on the ballot for the November 3, 2026 General Election who are in contested races for the offices of Kane County Treasurer, Kane County Clerk, Illinois State Representative Districts 49, 65, 70 and 83.
@@ -18,6 +17,5 @@ The forum will be recorded for use by the League of Women Voters and will also b
 The League of Women Voters follows FEC guidelines and no political paraphernalia, buttons, hats, shirts may be worn by anyone within the forum, nor will any political signs be permitted in that such is considered electioneering and is strictly prohibited.
 The League of Women Voters is a non-partisan organization and does not support or endorse candidates or political parties but does sponsor candidate forums as a service to the voters of the community.
 On behalf of the League, we thank you for your willingness to serve, and we look forward to hearing your answers on several topics.
-Map
-Batavia, IL 60510
-(630) 336-0531
+Map 100 N.
+Island Batavia, IL 60510 (630) 336-0531 Directions → Add to calendar Voter Information Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

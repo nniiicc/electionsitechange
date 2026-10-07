@@ -1,4 +1,6 @@
-One thing I’ve learned during this campaign is that some of the most important moments happen between the meetings.
+Skip to content Moving NC Forward with Rod Powell Powered by people, driven by purpose.
+DONATE DONATE DONATE DONATE Moving NC Forward with Rod Powell Powered by people, driven by purpose.
+Around District 44: The Miles Between the Meetings By Rod Powell / July 30, 2026 One thing I’ve learned during this campaign is that some of the most important moments happen between the meetings.
 Living in Casar means there’s no such thing as a quick trip.
 Whether I’m headed to Polkville, Waco, Fallston, Kingstown, Shelby, Lincolnton, or Cherryville, the miles add up.
 I don’t mind them.
@@ -46,7 +48,7 @@ Wednesday started with mowing the yard the old-fashioned way with a push mower.
 It was hot, humid, and a good reminder that exercise doesn’t always happen at the YMCA.
 Sometimes it’s just part of taking care of your home.
 Later, I headed to Toastmasters, where I served as grammarian and gave the general evaluation.
-The word of the day was carte blanche, and I especially enjoyed Table Topics.
+The word of the day was carte blanche , and I especially enjoyed Table Topics.
 After thirty years of teaching, I still believe there’s always room to become a better communicator.
 Whether I’m at Toastmasters, a community forum, or talking with someone over a cup of coffee, communication starts with listening.
 I also spent time at Totally Free Clothing.
@@ -64,4 +66,4 @@ They expect someone who’ll listen, tell the truth, and keep showing up.
 Next week will bring another round of miles across District 44, more conversations, and, I’m sure, a few surprises.
 I’ll be there to listen, learn, and keep sharing what I see along the way.
 The miles are worth it.
-I’ll keep showing up.
+I’ll keep showing up. ← Previous Post Next Post → Search for: Home About Endorsements Issues Blog Volunteer Donate Contact Home About Endorsements Issues Blog Volunteer Donate Contact Contact Me Call Me: (980) 368-0377 Email Me Follow Me Facebook Instagram Threads Bluesky TikTok YouTube Substack Menu Home About Issues Blog Endorsements Volunteer Donate Contact Privacy Policy Copyright © # Moving NC Forward with Rod Powell | Powered by Moving NC Forward with Rod Powell Scroll to Top

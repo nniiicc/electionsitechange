@@ -1,4 +1,4 @@
-I’m Beth.
+Skip to content Home Meet Beth Volunteer Donate Home Meet Beth Volunteer Donate Menu I’m Beth.
 And I am your Representative for NC House District 98.
 I’m a third-generation Davidson resident and a proud graduate of North Mecklenburg High School and Davidson College.
 I’m a former educator and a community champion with a family-owned small business.
@@ -19,3 +19,6 @@ I have spent the last year listening to, learning from, and advocating for you.
 It’s the honor of a lifetime to serve District 98 and to be trusted with the responsibility of representing you every single day.
 With your support, we can continue that important work in 2026 and beyond.
 Because our communities deserve policies that make them stronger, and our people deserve leaders they can trust.
+Home Meet Beth Volunteer Donate PO Box 771 Davidson, NC 28036 (704) 305–0226 Beth@BethHelfrichNC.com Facebook Instagram Threads X (Twitter) TikTok Paid for by Beth Helfrich for NC.
+Website proudly designed by Express Lane Strategies with real human labor & creativity, not artificial intelligence.
+Privacy Policy

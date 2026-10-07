@@ -1,5 +1,4 @@
-Affordability
-Affordability has become a primary concern across the country and it’s a legitimate concern.
+Home Meet Bob Issues News Volunteer Contribute Contact Yard Signs Home ❭ Issues ❭ Affordability Affordability Affordability has become a primary concern across the country and it’s a legitimate concern.
 Much of the affordability issue comes from the high interest rates and inflation we experienced in 2021 – 2024, but there are several steps we can take to improve your economic situation.
 One of the biggest elements of this issue is the cost of home ownership.
 Part of that is simply the increased cost of materials.
@@ -15,11 +14,4 @@ Because of its pyramiding structure, you end up paying tax several times on an e
 Also, eliminating the Personal Income Tax would immediately put more money in your pocket.
 New Mexico should also mirror the federal tax system by eliminating tax on overtime and tips while including a tax credit for Social Security payments.
 There are actions the state can take that would begin to address the affordability issues you face today.
-As your representative I will sponsor and support legislation that
-- Reduces fees and government red tape that adds to the expense of home construction
-- Provides incentives for new home buyers
-- Makes home mortgage payments tax deductible
-- Eliminates tax on overtime and tips and provides a tax credit for social security payments
-- Eliminates property tax for seniors
-- Eliminates the Personal Income Tax
-- Reforms the Gross Receipts Tax
+As your representative I will sponsor and support legislation that Reduces fees and government red tape that adds to the expense of home construction Provides incentives for new home buyers Makes home mortgage payments tax deductible Eliminates tax on overtime and tips and provides a tax credit for social security payments Eliminates property tax for seniors Eliminates the Personal Income Tax Reforms the Gross Receipts Tax « Previous: Children, Youth, and the CYFD Next: Our Government » Voter Information Endorsements Yard Signs Photos Contact Paid for by the Committee to Elect Bob Mason Powered by CampaignPartner.com - Political Websites Home Meet Bob Issues Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

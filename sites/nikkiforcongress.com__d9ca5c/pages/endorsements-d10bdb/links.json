@@ -1,18 +1,98 @@
 [
-"http://apolloartistry.com/",
-"https://nikkiforcongress.com/",
-"https://nikkiforcongress.com/about",
-"https://nikkiforcongress.com/accessibility",
-"https://nikkiforcongress.com/cdn-cgi/l/email-protection",
-"https://nikkiforcongress.com/donate",
-"https://nikkiforcongress.com/endorsements",
-"https://nikkiforcongress.com/facebook",
-"https://nikkiforcongress.com/instagram",
-"https://nikkiforcongress.com/issues",
-"https://nikkiforcongress.com/media-center",
-"https://nikkiforcongress.com/news",
-"https://nikkiforcongress.com/privacy-policy",
-"https://nikkiforcongress.com/take-action",
-"https://nikkiforcongress.com/twitter",
-"https://nikkiforcongress.com/youtube"
+{
+"text": "Accessibility",
+"href": "https://nikkiforcongress.com/accessibility"
+},
+{
+"text": "Contact",
+"href": "mailto:field@nikkiforcongress.com"
+},
+{
+"text": "Donate",
+"href": "https://nikkiforcongress.com/donate"
+},
+{
+"text": "Donate Donate",
+"href": "https://nikkiforcongress.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://nikkiforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://nikkiforcongress.com/facebook"
+},
+{
+"text": "Home",
+"href": "https://nikkiforcongress.com"
+},
+{
+"text": "Home",
+"href": "https://nikkiforcongress.com/"
+},
+{
+"text": "Instagram",
+"href": "https://nikkiforcongress.com/instagram"
+},
+{
+"text": "Issues",
+"href": "https://nikkiforcongress.com/issues"
+},
+{
+"text": "Issues",
+"href": "https://nikkiforcongress.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://nikkiforcongress.com/media-center"
+},
+{
+"text": "Meet Nikki",
+"href": "https://nikkiforcongress.com/about"
+},
+{
+"text": "Meet Nikki",
+"href": "https://nikkiforcongress.com/about/"
+},
+{
+"text": "News",
+"href": "https://nikkiforcongress.com/news"
+},
+{
+"text": "News",
+"href": "https://nikkiforcongress.com/news/"
+},
+{
+"text": "POWERED BY APOLLO",
+"href": "http://apolloartistry.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nikkiforcongress.com/privacy-policy"
+},
+{
+"text": "Take Action",
+"href": "https://nikkiforcongress.com/take-action"
+},
+{
+"text": "Take Action Take Action",
+"href": "https://nikkiforcongress.com/take-action"
+},
+{
+"text": "Youtube",
+"href": "https://nikkiforcongress.com/youtube"
+},
+{
+"text": "[email protected]",
+"href": "https://nikkiforcongress.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "https://nikkiforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://nikkiforcongress.com/twitter"
+}
 ]

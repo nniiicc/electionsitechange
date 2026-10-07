@@ -1,6 +1,4 @@
-Towards A More Prosperous Illinois
-Economy and Jobs:
-As your State Senator, I will work hard to represent you and to address the needs of the 18th District and the State of Illinois.
+Meet Christine Issues Volunteer Donate Contact Events Towards A More Prosperous Illinois Economy and Jobs: As your State Senator, I will work hard to represent you and to address the needs of the 18th District and the State of Illinois.
 As we recover from the years of Covid and misappropriations of funds towards illegal immigrants, it is time to rebuild.
 Many businesses have closed and many of their employees are out of work.
 Up to 10,000 people a week are filing for unemployment and there is no relief.
@@ -8,29 +6,25 @@ Ford Motor Company just closed in Chicagoland leaving thousands without jobs.
 Unemployment in Illinois is up to 15% - the highest in the nation.
 We need leadership to keep these jobs in Illinois.
 I have a plan to protect our jobs!
-Safe and Secure Communities::
-Recently, Illinois passed laws to make our Police Officers' jobs more difficult.
+Safe and Secure Communities: : Recently, Illinois passed laws to make our Police Officers' jobs more difficult.
 These laws place targets on law enforcements' backs and put their careers at risk.
 Meanwhile, these same laws are protecting dangerous felons and putting them back on the street without bail.
 As your State Senator, I will fight for and support passing legislation, to protect police officers and law enforcement and their jobs from dangerous social policies.
 I will advocate for more equipment and training to support our officers working in the field.
 We need to protect our brave police officers because they protect us and help support safe communities for our families and children.
-Pensions:
-Illinois is currently $329 billion in pension debt.
+Pensions: Illinois is currently $329 billion in pension debt.
 We are also $54 billion underfunded for retirement health care.
 While dishonest lawmakers are giving themselves raises and doubling their staff and office budgets, union workers and retirees are at risk of a pension collapse and losing their pension and retiree healthcare.
 Due to a mismanagement in Springfield, Illinois has the worst credit rating in the nation!
 We need fiscal responsibility and common sense budgeting!
-Education:
-As a former elected school council member of Annie Keller Gifted School, I have experience working together with parents and supporting the needs of our students.
+Education: As a former elected school council member of Annie Keller Gifted School, I have experience working together with parents and supporting the needs of our students.
 As a parent, I know the struggles of having our children taught propaganda in our schools.
 We need to bring back the importance of the basics when it comes to curriculum in the classroom.
 We need to address the needs of our children first, so they can learn how to become positive contributing members of our community and society!
 We need programs such as STEM (Science, Technology, Engineering, and Mathematics) to challenge and engage all students.
 I will work to pass legislation that supports school choice with vouchers.
 Providing laptops and tablets free of charge to every single student from kindergarten to college.
-Illegal Immigration:
-Our Governor and Chicago Mayor have gone out of their way to proclaim Illinois and the city of Chicago as a welcoming to illegal immigrants.
+Illegal Immigration: Our Governor and Chicago Mayor have gone out of their way to proclaim Illinois and the city of Chicago as a welcoming to illegal immigrants.
 We already have terminated Immigration and Customs Enforcement access to Chicago police databases.
 Thanks to the Governor we became one of the first states to ban private detention centers.
 The Governor also passed the RISE Act aimed at helping undocumented students to afford college and not complete an application for Federal Student Aid.
@@ -50,3 +44,16 @@ Americans FIRST!
 It is time to stand up and speak out for those veterans and other legal citizens, families and students who should have earned these benefits paying taxes and/or defending our freedom.
 I stand with - AMERICANS FIRST!
 Christine McGovern For Illinois State Senate District 18!
+19 Feb Monday, 5:46 PM · 2024 New Bills Signed and Effective in 2024 New Bills Signed into Law and Effective - 2024: HB 2500 - (Veterans) Waived Adoption fees for Veterans for animal adoptions.
+HB 3924 - (Education/Safety) Requires High Schools to teach the dangers of Fentanyl.
+(2000 opioid deaths 2022/overdose; 91% fentanyl - 50% victims African-American) HB 2245 - (Crime/Safety) Requires car manufacturers to establish a vehicle theft hotline to help locate stolen vehicles.
+(Car thefts up 20% from 2021 to 2022) HB 3751 - (Crime/Safety) Non-citizens (federally authorized) to work in US - to become police officers.
+SB 1344 - (Health) Mandates - insurance coverage for all abortifacients and gender-transitioning hormonal therapy.
+SB 1909 - (Health) Goes after pregnancy centers - to close them/impose fines.
+HB 2789 - (Freedom of Speech) - Prohibits removing or banning books from libraries including sexually explicit books.
+HB 2396 - (Education) Mandates all-day KINDERGARTEN.
+HB 2350 - (Health) insurance coverage - Pap test for MEN and Prostrate exams for WOMEN.
+HB 2039 - (Health) Allows all private health data be made available to local health department - "purposes of preventing and controlling diseases, injury, or disability - allows Dept. of Public Health, Dept. of Human Services, and Dept. of Healthcare and Family Services to "adopt any rules necessary to implement the Act".
+HB 1286 - (Health) Creates co-ed multi-occupancy public bathrooms.
+Read more 2 Feb Friday, 7:47 PM · 2024 Parents Matter Coalition - Sign Petitions Today!
+Parents Matter Coalition: Signatures Needed! https://fb.watch/pZj-VArQtF/ Voter Information Events Photos Contact Privacy Policy Shanahan McGovern for Faith Family & Freedom Powered by CampaignPartner.com - Political Websites Home Meet Christine Issues Donate Volunteer Events Contact Voter Information Close Menu

@@ -1,68 +1,266 @@
 [
-"http://988lifeline.org/",
-"http://acallforchangehelpline.org/",
-"http://all-options.org/",
-"http://allianceforeatingdisorders.com/",
-"http://alz.org/",
-"http://athletehelpline.org/",
-"http://callblackline.com/",
-"http://caregiveraction.org/",
-"http://centerstone.org/",
-"http://childhelphotline.org/",
-"http://crisistextline.org/",
-"http://cybercivilrights.org/",
-"http://deqh.org/",
-"http://drugfree.org/",
-"http://drughelpline.org/",
-"http://empowerwork.org/",
-"http://exhaleprovoice.org/",
-"http://firesideproject.org/",
-"http://friendsforsurvival.org/",
-"http://gradresources.org/",
-"http://healthyamericas.org/",
-"http://humantraffickinghotline.org/",
-"http://ic3.gov/",
-"http://lgbtcomingout.org/",
-"http://lgbthotline.org/",
-"http://loveastranger.org/",
-"http://loveisrespect.org/",
-"http://madd.org/",
-"http://mchb.hrsa.gov/",
-"http://missingkids.org/",
-"http://nami.org/",
-"http://nationalparentyouthhelpline.org/",
-"http://nationalsafeplace.org/",
-"http://ncpgambling.org/",
-"http://physiciansupportline.com/",
-"http://postpartum.net/",
-"http://prochoice.org/",
-"http://project-sleep.com/",
-"http://ptsdusa.org/",
-"http://rainn.org/",
-"http://reportfraud.ftc.gov/",
-"http://samaritanshope.org/",
-"http://samhsa.gov/",
-"http://scarleteen.com/",
-"http://stompoutbullying.org/",
-"http://stopitnow.org/",
-"http://strongheartshelpline.org/",
-"http://teenlineonline.org/",
-"http://thedeafhotline.org/",
-"http://thehotline.org/",
-"http://thetrevorproject.org/",
-"http://theyouthline.org/",
-"http://translifeline.org/",
-"http://veteranscrisisline.net/",
-"http://victimconnect.org/",
-"http://whatsok.org/",
-"http://yourlifeyourvoice.org/",
-"https://arcgis.com/apps/dashboards/eb1b7d32e09e4918a0d18f85461af2df",
-"https://boulderbridgehouse.org/",
-"https://christyforamerica.us/",
-"https://christyforamerica.us/resources",
-"https://qq101ju2.com/",
-"https://qq188txt.com/",
-"https://qq288spk.com/",
-"https://veteranscenter.org/",
-"https://wordpress.org/"
+{
+"text": "988lifeline.org",
+"href": "http://988lifeline.org"
+},
+{
+"text": "ChristyforAmerica",
+"href": "https://christyforamerica.us"
+},
+{
+"text": "Nami.org",
+"href": "http://nami.org"
+},
+{
+"text": "QQ101",
+"href": "https://qq101ju2.com/"
+},
+{
+"text": "QQ188",
+"href": "https://qq188txt.com/"
+},
+{
+"text": "QQ288",
+"href": "https://qq288spk.com/"
+},
+{
+"text": "Resources",
+"href": "https://christyforamerica.us/resources"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org"
+},
+{
+"text": "acallforchangehelpline.org",
+"href": "http://acallforchangehelpline.org"
+},
+{
+"text": "all-options.org",
+"href": "http://all-options.org"
+},
+{
+"text": "allianceforeatingdisorders.com",
+"href": "http://allianceforeatingdisorders.com"
+},
+{
+"text": "alz.org",
+"href": "http://alz.org"
+},
+{
+"text": "athletehelpline.org",
+"href": "http://athletehelpline.org"
+},
+{
+"text": "callblackline.com",
+"href": "http://callblackline.com"
+},
+{
+"text": "caregiveraction.org",
+"href": "http://caregiveraction.org"
+},
+{
+"text": "centerstone.org",
+"href": "http://centerstone.org"
+},
+{
+"text": "childhelphotline.org",
+"href": "http://childhelphotline.org"
+},
+{
+"text": "crisistextline.org",
+"href": "http://crisistextline.org"
+},
+{
+"text": "cybercivilrights.org",
+"href": "http://cybercivilrights.org"
+},
+{
+"text": "deqh.org",
+"href": "http://deqh.org"
+},
+{
+"text": "drugfree.org",
+"href": "http://drugfree.org"
+},
+{
+"text": "drughelpline.org",
+"href": "http://drughelpline.org"
+},
+{
+"text": "empowerwork.org",
+"href": "http://empowerwork.org"
+},
+{
+"text": "exhaleprovoice.org",
+"href": "http://exhaleprovoice.org"
+},
+{
+"text": "firesideproject.org",
+"href": "http://firesideproject.org"
+},
+{
+"text": "friendsforsurvival.org",
+"href": "http://friendsforsurvival.org"
+},
+{
+"text": "gradresources.org",
+"href": "http://gradresources.org"
+},
+{
+"text": "healthyamericas.org",
+"href": "http://healthyamericas.org"
+},
+{
+"text": "https://boulderbridgehouse.org/",
+"href": "https://boulderbridgehouse.org/"
+},
+{
+"text": "https://www.arcgis.com/apps/dashboards/eb1b7d32e09e4918a0d18f85461af2df#",
+"href": "https://www.arcgis.com/apps/dashboards/eb1b7d32e09e4918a0d18f85461af2df"
+},
+{
+"text": "https://www.veteranscenter.org/",
+"href": "https://www.veteranscenter.org/"
+},
+{
+"text": "humantraffickinghotline.org",
+"href": "http://humantraffickinghotline.org"
+},
+{
+"text": "ic3.gov",
+"href": "http://ic3.gov"
+},
+{
+"text": "lgbtcomingout.org",
+"href": "http://lgbtcomingout.org"
+},
+{
+"text": "lgbthotline.org",
+"href": "http://lgbthotline.org"
+},
+{
+"text": "loveastranger.org",
+"href": "http://loveastranger.org"
+},
+{
+"text": "loveisrespect.org",
+"href": "http://loveisrespect.org"
+},
+{
+"text": "madd.org",
+"href": "http://madd.org"
+},
+{
+"text": "mchb.hrsa.gov",
+"href": "http://mchb.hrsa.gov"
+},
+{
+"text": "missingkids.org",
+"href": "http://missingkids.org"
+},
+{
+"text": "nationalparentyouthhelpline.org",
+"href": "http://nationalparentyouthhelpline.org"
+},
+{
+"text": "nationalsafeplace.org",
+"href": "http://nationalsafeplace.org"
+},
+{
+"text": "ncpgambling.org",
+"href": "http://ncpgambling.org"
+},
+{
+"text": "physiciansupportline.com",
+"href": "http://physiciansupportline.com"
+},
+{
+"text": "postpartum.net",
+"href": "http://postpartum.net"
+},
+{
+"text": "prochoice.org",
+"href": "http://prochoice.org"
+},
+{
+"text": "project-sleep.com",
+"href": "http://project-sleep.com"
+},
+{
+"text": "ptsdusa.org",
+"href": "http://ptsdusa.org"
+},
+{
+"text": "rainn.org",
+"href": "http://rainn.org"
+},
+{
+"text": "reportfraud.ftc.gov",
+"href": "http://reportfraud.ftc.gov"
+},
+{
+"text": "samaritanshope.org",
+"href": "http://samaritanshope.org"
+},
+{
+"text": "samhsa.gov",
+"href": "http://samhsa.gov"
+},
+{
+"text": "scarleteen.com",
+"href": "http://scarleteen.com"
+},
+{
+"text": "stompoutbullying.org",
+"href": "http://stompoutbullying.org"
+},
+{
+"text": "stopitnow.org",
+"href": "http://stopitnow.org"
+},
+{
+"text": "strongheartshelpline.org",
+"href": "http://strongheartshelpline.org"
+},
+{
+"text": "teenlineonline.org",
+"href": "http://teenlineonline.org"
+},
+{
+"text": "thedeafhotline.org",
+"href": "http://thedeafhotline.org"
+},
+{
+"text": "thehotline.org",
+"href": "http://thehotline.org"
+},
+{
+"text": "thetrevorproject.org",
+"href": "http://thetrevorproject.org"
+},
+{
+"text": "theyouthline.org",
+"href": "http://theyouthline.org"
+},
+{
+"text": "translifeline.org",
+"href": "http://translifeline.org"
+},
+{
+"text": "veteranscrisisline.net",
+"href": "http://veteranscrisisline.net"
+},
+{
+"text": "victimconnect.org",
+"href": "http://victimconnect.org"
+},
+{
+"text": "whatsok.org",
+"href": "http://whatsok.org"
+},
+{
+"text": "yourlifeyourvoice.org",
+"href": "http://yourlifeyourvoice.org"
+}
 ]

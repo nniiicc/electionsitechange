@@ -1,7 +1,11 @@
 {
  "description": "Joan for Congress campaign website",
  "final_url": "https://joan.vote/",
+ "fingerprint": "0ed065b45b0f65b043e08549bee4366598a0af42",
+ "format": 3,
  "paid_for_by": "Paid for by Joan Bell for Congress",
  "title": "Joan for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "1955"
+ ]
 }

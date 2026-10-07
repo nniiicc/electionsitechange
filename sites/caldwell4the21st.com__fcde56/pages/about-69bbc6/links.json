@@ -1,9 +1,54 @@
 [
-"https://caldwell4the21st.com/",
-"https://caldwell4the21st.com/about",
-"https://caldwell4the21st.com/donate",
-"https://caldwell4the21st.com/news-events",
-"https://facebook.com/profile.php?id=61588193615566",
-"https://instagram.com/wix",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.caldwell4the21st.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.caldwell4the21st.com/about"
+},
+{
+"text": "CD Caldwell",
+"href": "https://www.caldwell4the21st.com"
+},
+{
+"text": "DONATE",
+"href": "https://www.caldwell4the21st.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.caldwell4the21st.com"
+},
+{
+"text": "Events",
+"href": "https://www.caldwell4the21st.com"
+},
+{
+"text": "Home",
+"href": "https://www.caldwell4the21st.com"
+},
+{
+"text": "Home",
+"href": "https://www.caldwell4the21st.com/about"
+},
+{
+"text": "News &",
+"href": "https://www.caldwell4the21st.com"
+},
+{
+"text": "News & Events",
+"href": "https://www.caldwell4the21st.com/news-events"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61588193615566"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+}
 ]

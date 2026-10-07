@@ -1,12 +1,62 @@
 [
-"http://odoo.com/",
-"http://odoo.com/app/website",
-"https://secure.winred.com/kyle-harris-for-idaho-house-7a/donate24",
-"https://votekyleharris.com/",
-"https://votekyleharris.com/about",
-"https://votekyleharris.com/cdn-cgi/l/email-protection",
-"https://votekyleharris.com/contactus",
-"https://votekyleharris.com/main",
-"https://votekyleharris.com/web/login",
-"https://votekyleharris.com/website/social/facebook"
+{
+"text": "208-305-0185",
+"href": "tel:12085538704"
+},
+{
+"text": "208-305-0185",
+"href": "tel:2085538704"
+},
+{
+"text": "About",
+"href": "https://www.votekyleharris.com/about"
+},
+{
+"text": "Contact Kyle",
+"href": "https://www.votekyleharris.com/contactus"
+},
+{
+"text": "Contact us",
+"href": "https://www.votekyleharris.com/contactus"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/kyle-harris-for-idaho-house-7a/donate24"
+},
+{
+"text": "Home",
+"href": "https://www.votekyleharris.com/"
+},
+{
+"text": "Main",
+"href": "https://www.votekyleharris.com/main"
+},
+{
+"text": "Sign in",
+"href": "https://www.votekyleharris.com/web/login"
+},
+{
+"text": "[email protected]",
+"href": "mailto:voteforkyleharris@gmail.com"
+},
+{
+"text": "[image: Odoo]",
+"href": "http://www.odoo.com"
+},
+{
+"text": "[image: Vote Kyle Harris]",
+"href": "https://www.votekyleharris.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekyleharris.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekyleharris.com/website/social/facebook"
+},
+{
+"text": "free website",
+"href": "http://www.odoo.com/app/website"
+}
 ]

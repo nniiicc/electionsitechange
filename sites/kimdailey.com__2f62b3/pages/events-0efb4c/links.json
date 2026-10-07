@@ -1,56 +1,226 @@
 [
-"http://kimdailey.com/updates",
-"https://americansforprosperity.org/",
-"https://facebook.com/kim.dailey.271105",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fdarby-homecoming-parade-kim-dailey-float%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fdarby-kids-rodeo%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fhonoring-our-veterans-join-us-for-a-patriotic-community-event-in-darby%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fjoin-us-for-a-meet-greet-with-kathy-love-and-kim-dailey%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fkim-dailey-gun-raffle%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Flincoln-reagan-trump-dinner%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fmeet-kim-dailey-and-local-conservative-candidates-in-hamilton%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fmeet-kim-dailey-at-the-hamilton-gun-show%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fravalli-county-fair-rodeo-2025%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fravalli-county-republican-women-meeting%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://kimdailey.com/",
-"https://kimdailey.com/contact",
-"https://kimdailey.com/donate",
-"https://kimdailey.com/event-details-registration/darby-homecoming-parade-kim-dailey-float",
-"https://kimdailey.com/event-details-registration/darby-kids-rodeo",
-"https://kimdailey.com/event-details-registration/honoring-our-veterans-join-us-for-a-patriotic-community-event-in-darby",
-"https://kimdailey.com/event-details-registration/join-us-for-a-meet-greet-with-kathy-love-and-kim-dailey",
-"https://kimdailey.com/event-details-registration/kim-dailey-gun-raffle",
-"https://kimdailey.com/event-details-registration/lincoln-reagan-trump-dinner",
-"https://kimdailey.com/event-details-registration/meet-kim-dailey-and-local-conservative-candidates-in-hamilton",
-"https://kimdailey.com/event-details-registration/meet-kim-dailey-at-the-hamilton-gun-show",
-"https://kimdailey.com/event-details-registration/ravalli-county-fair-rodeo-2025",
-"https://kimdailey.com/event-details-registration/ravalli-county-republican-women-meeting",
-"https://kimdailey.com/events",
-"https://kimdailey.com/get-involved",
-"https://kimdailey.com/media-kit",
-"https://kimdailey.com/meet-kim",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fdarby-homecoming-parade-kim-dailey-float%3Flang%3Den",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fdarby-kids-rodeo%3Flang%3Den",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fhonoring-our-veterans-join-us-for-a-patriotic-community-event-in-darby%3Flang%3Den",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fjoin-us-for-a-meet-greet-with-kathy-love-and-kim-dailey%3Flang%3Den",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fkim-dailey-gun-raffle%3Flang%3Den",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Flincoln-reagan-trump-dinner%3Flang%3Den",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fmeet-kim-dailey-and-local-conservative-candidates-in-hamilton%3Flang%3Den",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fmeet-kim-dailey-at-the-hamilton-gun-show%3Flang%3Den",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fravalli-county-fair-rodeo-2025%3Flang%3Den",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fravalli-county-republican-women-meeting%3Flang%3Den",
-"https://makelibertywin.com/",
-"https://mtflg.org/",
-"https://mtfreedomcaucus.com/",
-"https://mtgop.org/",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fdarby-homecoming-parade-kim-dailey-float%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fdarby-kids-rodeo%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fhonoring-our-veterans-join-us-for-a-patriotic-community-event-in-darby%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fjoin-us-for-a-meet-greet-with-kathy-love-and-kim-dailey%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fkim-dailey-gun-raffle%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Flincoln-reagan-trump-dinner%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fmeet-kim-dailey-and-local-conservative-candidates-in-hamilton%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fmeet-kim-dailey-at-the-hamilton-gun-show%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fravalli-county-fair-rodeo-2025%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fravalli-county-republican-women-meeting%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "CONTACT",
+"href": "https://www.kimdailey.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.kimdailey.com/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://www.kimdailey.com/events"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.kimdailey.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.kimdailey.com"
+},
+{
+"text": "Learn More",
+"href": "https://www.kimdailey.com/event-details-registration/honoring-our-veterans-join-us-for-a-patriotic-community-event-in-darby"
+},
+{
+"text": "Learn More",
+"href": "https://www.kimdailey.com/event-details-registration/join-us-for-a-meet-greet-with-kathy-love-and-kim-dailey"
+},
+{
+"text": "Learn More",
+"href": "https://www.kimdailey.com/event-details-registration/lincoln-reagan-trump-dinner"
+},
+{
+"text": "Learn More",
+"href": "https://www.kimdailey.com/event-details-registration/meet-kim-dailey-and-local-conservative-candidates-in-hamilton"
+},
+{
+"text": "Learn More",
+"href": "https://www.kimdailey.com/event-details-registration/ravalli-county-fair-rodeo-2025"
+},
+{
+"text": "Learn more",
+"href": "https://www.kimdailey.com/event-details-registration/darby-homecoming-parade-kim-dailey-float"
+},
+{
+"text": "Learn more",
+"href": "https://www.kimdailey.com/event-details-registration/darby-kids-rodeo"
+},
+{
+"text": "Learn more",
+"href": "https://www.kimdailey.com/event-details-registration/kim-dailey-gun-raffle"
+},
+{
+"text": "Learn more",
+"href": "https://www.kimdailey.com/event-details-registration/meet-kim-dailey-at-the-hamilton-gun-show"
+},
+{
+"text": "Learn more",
+"href": "https://www.kimdailey.com/event-details-registration/ravalli-county-republican-women-meeting"
+},
+{
+"text": "MEDIA KIT",
+"href": "https://www.kimdailey.com/media-kit"
+},
+{
+"text": "MEET KIM",
+"href": "https://www.kimdailey.com/meet-kim"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.kimdailey.com"
+},
+{
+"text": "UPDATES",
+"href": "http://kimdailey.com/updates"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/kim.dailey.271105"
+},
+{
+"text": "[image: KDLogo_Color1.png]",
+"href": "https://www.kimdailey.com"
+},
+{
+"text": "[image: MT GOP.png]",
+"href": "https://mtgop.org/"
+},
+{
+"text": "[image: Make Liberty Win.webp]",
+"href": "https://makelibertywin.com/"
+},
+{
+"text": "[image: Montana Freedom Caucus.png]",
+"href": "https://mtfreedomcaucus.com/"
+},
+{
+"text": "[image: Montana for Limited Government.png]",
+"href": "https://mtflg.org/"
+},
+{
+"text": "[no text]",
+"href": "https://americansforprosperity.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fdarby-homecoming-parade-kim-dailey-float%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fdarby-kids-rodeo%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fhonoring-our-veterans-join-us-for-a-patriotic-community-event-in-darby%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fjoin-us-for-a-meet-greet-with-kathy-love-and-kim-dailey%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fkim-dailey-gun-raffle%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Flincoln-reagan-trump-dinner%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fmeet-kim-dailey-and-local-conservative-candidates-in-hamilton%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fmeet-kim-dailey-at-the-hamilton-gun-show%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fravalli-county-fair-rodeo-2025%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fravalli-county-republican-women-meeting%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fdarby-homecoming-parade-kim-dailey-float%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fdarby-kids-rodeo%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fhonoring-our-veterans-join-us-for-a-patriotic-community-event-in-darby%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fjoin-us-for-a-meet-greet-with-kathy-love-and-kim-dailey%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fkim-dailey-gun-raffle%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Flincoln-reagan-trump-dinner%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fmeet-kim-dailey-and-local-conservative-candidates-in-hamilton%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fmeet-kim-dailey-at-the-hamilton-gun-show%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fravalli-county-fair-rodeo-2025%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fravalli-county-republican-women-meeting%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fdarby-homecoming-parade-kim-dailey-float%3Flang%3Den"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fdarby-kids-rodeo%3Flang%3Den"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fhonoring-our-veterans-join-us-for-a-patriotic-community-event-in-darby%3Flang%3Den"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fjoin-us-for-a-meet-greet-with-kathy-love-and-kim-dailey%3Flang%3Den"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fkim-dailey-gun-raffle%3Flang%3Den"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Flincoln-reagan-trump-dinner%3Flang%3Den"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fmeet-kim-dailey-and-local-conservative-candidates-in-hamilton%3Flang%3Den"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fmeet-kim-dailey-at-the-hamilton-gun-show%3Flang%3Den"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fravalli-county-fair-rodeo-2025%3Flang%3Den"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kimdailey.com%2Fevent-details-registration%2Fravalli-county-republican-women-meeting%3Flang%3Den"
+}
 ]

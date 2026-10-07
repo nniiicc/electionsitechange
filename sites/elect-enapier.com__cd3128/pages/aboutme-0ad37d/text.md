@@ -1,4 +1,4 @@
-Who am I and why am I running for House of Representatives District 177?
+0 Skip to Content Home Campaign Statement Contact Volunteer Open Menu Close Menu Home Campaign Statement Contact Volunteer Open Menu Close Menu Home Campaign Statement Contact Volunteer Who am I and why am I running for House of Representatives District 177?
 I am not a career politician, nor have I served on City Council for many years like my esteemed opponents.
 However, my entire adult life has been devoted to one mission: serving Georgia’s families.
 I began my career in Public Health after graduating from Valdosta State College with a Bachelor’s degree in Nursing.

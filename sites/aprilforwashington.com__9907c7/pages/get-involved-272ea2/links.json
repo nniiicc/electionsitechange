@@ -1,17 +1,82 @@
 [
-"https://aprilforwashington.com/",
-"https://aprilforwashington.com/about",
-"https://aprilforwashington.com/contact",
-"https://aprilforwashington.com/endorsements",
-"https://aprilforwashington.com/es/participa",
-"https://aprilforwashington.com/get-involved",
-"https://aprilforwashington.com/news",
-"https://aprilforwashington.com/priorities",
-"https://aprilforwashington.com/privacy",
-"https://aprilforwashington.com/record",
-"https://aprilforwashington.com/terms",
-"https://efundraisingconnections.com/c/AprilConnors",
-"https://facebook.com/aprilforwashington",
-"https://instagram.com/aprilforwashington",
-"https://secure.efundraisingconnections.com/donate/AprilConnors"
+{
+"text": "About",
+"href": "https://aprilforwashington.com/about"
+},
+{
+"text": "About April",
+"href": "https://aprilforwashington.com/about"
+},
+{
+"text": "Contact",
+"href": "https://aprilforwashington.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.efundraisingconnections.com/c/AprilConnors"
+},
+{
+"text": "Donate Now →",
+"href": "https://secure.efundraisingconnections.com/donate/AprilConnors/"
+},
+{
+"text": "Donate now →",
+"href": "https://www.efundraisingconnections.com/c/AprilConnors"
+},
+{
+"text": "ES",
+"href": "https://aprilforwashington.com/es/participa"
+},
+{
+"text": "Endorsements",
+"href": "https://aprilforwashington.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://aprilforwashington.com/get-involved"
+},
+{
+"text": "News",
+"href": "https://aprilforwashington.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://aprilforwashington.com/priorities"
+},
+{
+"text": "Privacy",
+"href": "https://aprilforwashington.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://aprilforwashington.com/privacy"
+},
+{
+"text": "See her Full Record →",
+"href": "https://aprilforwashington.com/record"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://aprilforwashington.com/terms"
+},
+{
+"text": "The Record",
+"href": "https://aprilforwashington.com/record"
+},
+{
+"text": "Volunteer",
+"href": "https://aprilforwashington.com/get-involved"
+},
+{
+"text": "[image: April Connors for State Representative]",
+"href": "https://aprilforwashington.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/aprilforwashington"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/aprilforwashington/"
+}
 ]

@@ -1,3 +1,3 @@
-Change this text in the customizer
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Reach us at: (817) 710-6602 | patg@patrickgillespie4congress33.com Patrick Gillespie 4 Congress 33 Patrick Gillespie 4 Congress 33 Patrick Gillespie 4 Congress 33 Patrick Gillespie 4 Congress 33 Patrick Gillespie 4 Congress 33 Patrick Gillespie 4 Congress 33 Patrick Gillespie 4 Congress 33 Patrick Gillespie 4 Congress 33 Home About Patrick Gillespie My Platform en espanol My platform in Vietnamese Contact Blog More Home About Patrick Gillespie My Platform en espanol My platform in Vietnamese Contact Blog Home About Patrick Gillespie My Platform en espanol My platform in Vietnamese Contact Blog Latest Posts Change this text in the customizer Copyright © #, Patrick Gillespie 4 Congress 33.
+All Rights Reserved.
+Powered by

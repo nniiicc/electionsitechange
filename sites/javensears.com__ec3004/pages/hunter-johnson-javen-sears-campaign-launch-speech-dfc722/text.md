@@ -1,12 +1,9 @@
-Hunter Johnson
-Student-Athlete Attending St.
-Lawrence University
-Hunter Johnson is a student-athlete who served as the senior class president at South Burlington High School in Vermont, where he also competed in track and football.
+0 Skip to Content Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate Hunter Johnson Student-Athlete Attending St.
+Lawrence University Hunter Johnson is a student-athlete who served as the senior class president at South Burlington High School in Vermont, where he also competed in track and football.
 To further his athletic and academic career, he attended two of New England’s most prestigious preparatory institutions: Loomis Chaffee School in Windsor, Connecticut, where he played football, and the Westminster School in Simsbury, Connecticut a historic boarding school known for its rigorous academics and powerhouse New England prep sports programs, where he played lacrosse.
 Having demonstrated his versatility and leadership across multiple programs, Hunter is now headed to Canton, New York, to play collegiate football for the St.
 Lawrence University Saints.
-TRANSCRIPT
-My fellow Vermonters, family, friends, I'm going to start you off with a question: How will people remember your legacy?
+TRANSCRIPT My fellow Vermonters, family, friends, I'm going to start you off with a question: How will people remember your legacy?
 And most importantly, how will you change the world today?
 My name is Hunter Johnson.
 Last year, I graduated as class president from South Burlington High School.
@@ -37,5 +34,7 @@ We need leaders who care about the community, hard work, and the future of the n
 We need leaders that are the next generation, and we need them now.
 This is why I believe in Javen Sears.
 Thank you.
-Hunter Johnson
-Tuesday, May 12th, 2026, Javen Sears’ Campaign Launch Party
+Hunter Johnson Tuesday, May 12th, 2026, Javen Sears’ Campaign Launch Party S I G N U P UPDATES By providing your mobile number, you consent to receive periodic campaign updates from Javen Sears for Vermont State Senate.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Donate

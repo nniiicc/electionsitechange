@@ -1,7 +1,12 @@
 {
- "description": "Every year, the day before Thanksgiving, the Wall Street Journal publishes an article titled \u201cAnd the Fair Land\u201d. Following is an excerpt from the article: \u201cat home they see young arrayed...",
+ "description": "Every year, the day before Thanksgiving, the Wall Street Journal publishes an article titled “And the Fair Land”. Following is an excerpt from the article: “at home they see young arrayed...",
  "final_url": "https://www.rneilwalter.com/posts/bright-future",
- "paid_for_by": null,
+ "fingerprint": "5f07fb53ce951c31862a940d9e05df59c4fe764a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "R Neil Walter Blog - R. Neil Walter",
- "years_mentioned": []
+ "years_mentioned": [
+  "1961",
+  "2022"
+ ]
 }

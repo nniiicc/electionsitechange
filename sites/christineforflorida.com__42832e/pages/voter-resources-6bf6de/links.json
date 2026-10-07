@@ -1,14 +1,62 @@
 [
-"https://browardsoe.org/Election-Information/Precinct-Finder",
-"https://browardsoe.org/Register-to-Vote/Voter-Registration-Form",
-"https://browardsoe.org/Voting-Methods/Vote-By-Mail-Voting/Absentee-Ballot-Request-Form/Vote-By-Mail-Voting",
-"https://christineforflorida.com/",
-"https://christineforflorida.com/about",
-"https://christineforflorida.com/accomplishments",
-"https://christineforflorida.com/join-the-campaign",
-"https://christineforflorida.com/voter-resources",
-"https://facebook.com/ChristineForFlorida",
-"https://www8.miamidade.gov/global/service.page?Mduid_service=ser151187731708822",
-"https://www8.miamidade.gov/global/service.page?Mduid_service=ser1511962555914873",
-"https://www8.miamidade.gov/global/service.page?Mduid_service=ser1512065909614490"
+{
+"text": "About",
+"href": "https://www.christineforflorida.com/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.christineforflorida.com/accomplishments"
+},
+{
+"text": "CHRISTINE HUNSCHOFSKY",
+"href": "https://www.christineforflorida.com"
+},
+{
+"text": "Contact",
+"href": "https://www.christineforflorida.com"
+},
+{
+"text": "Finding Your Polling Location",
+"href": "https://www.browardsoe.org/Election-Information/Precinct-Finder"
+},
+{
+"text": "Home",
+"href": "https://www.christineforflorida.com"
+},
+{
+"text": "Join The Campaign",
+"href": "https://www.christineforflorida.com/join-the-campaign"
+},
+{
+"text": "Priorities",
+"href": "https://www.christineforflorida.com"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.browardsoe.org/Register-to-Vote/Voter-Registration-Form"
+},
+{
+"text": "Vote By Mail",
+"href": "https://www.browardsoe.org/Voting-Methods/Vote-By-Mail-Voting/Absentee-Ballot-Request-Form/Vote-By-Mail-Voting"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.christineforflorida.com/voter-resources"
+},
+{
+"text": "[image: EarlyVoting.jpg]",
+"href": "https://www8.miamidade.gov/global/service.page?Mduid_service=ser1511962555914873"
+},
+{
+"text": "[image: PollingStation.jpg]",
+"href": "https://www8.miamidade.gov/global/service.page?Mduid_service=ser151187731708822"
+},
+{
+"text": "[image: VoteByMail.jpg]",
+"href": "https://www8.miamidade.gov/global/service.page?Mduid_service=ser1512065909614490"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/ChristineForFlorida/"
+}
 ]

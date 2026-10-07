@@ -1,60 +1,47 @@
-The MAP Act
-Outline: Medical Assistance is a critical lifeline for low-income and vulnerable Minnesotans, and protecting it means cracking down on those who exploit the system.
+Home Meet Ann Priorities Endorsements Get Involved Contact The MAP Act Outline: Medical Assistance is a critical lifeline for low-income and vulnerable Minnesotans, and protecting it means cracking down on those who exploit the system.
 Senator Johnson Stewart chief-authored the bipartisan Medical Assistance Protection (MAP) Act to aggressively root out Medicaid fraud, hold bad actors accountable, and return stolen tax dollars to the state.
-Key Takeaways:
-- Expanding Fraud Investigations: Securing a massive 3-to-1 federal funding match to expand the Attorney General’s Medicaid Fraud Control Unit (MFCU) with new investigators, prosecutors, and direct subpoena power.
-- Tougher Criminal Penalties: Upgrading state law to ensure high-dollar Medicaid fraud (over $100,000) carries enhanced prison sentences and adding Medical Assistance fraud to Minnesota’s racketeering statutes to take down organized crime rings.
-- Recovering Taxpayer Money: Empowering the state to aggressively freeze assets, extend the statute of limitations on complex schemes, and claw back every stolen dollar so that healthcare funding goes to the Minnesotans who actually need it.
-Healthcare Integrity: Auditing the $20 Billion System
-Minnesota’s Medical Assistance (Medicaid) infrastructure is a vital safety net, but the system has rapidly outgrown its old enforcement limits.
+Key Takeaways: Expanding Fraud Investigations: Securing a massive 3-to-1 federal funding match to expand the Attorney General’s Medicaid Fraud Control Unit (MFCU) with new investigators, prosecutors, and direct subpoena power.
+Tougher Criminal Penalties: Upgrading state law to ensure high-dollar Medicaid fraud (over $100,000) carries enhanced prison sentences and adding Medical Assistance fraud to Minnesota’s racketeering statutes to take down organized crime rings.
+Recovering Taxpayer Money: Empowering the state to aggressively freeze assets, extend the statute of limitations on complex schemes, and claw back every stolen dollar so that healthcare funding goes to the Minnesotans who actually need it.
+Healthcare Integrity: Auditing the $20 Billion System Minnesota’s Medical Assistance (Medicaid) infrastructure is a vital safety net, but the system has rapidly outgrown its old enforcement limits.
 As the state’s healthcare landscape expanded, the Medicaid budget systematically climbed from $13 billion to roughly $20 billion.
 Despite this 50% funding expansion, the state’s primary audit mechanism—the Medicaid Fraud Control Unit (MFCU)—remained structurally capped at a legacy baseline of just 32 personnel.
-To address this gap, KTTC reported on how Senator Ann Johnson Stewart co-authored the Medical Assistance Protection Act (The MAP Act) alongside Representative Matt Norris and Attorney General Keith Ellison. ”The proposed legislation would expand the Attorney General’s Office’s ability to investigate fraud in Minnesota’s Medical Assistance program.” Designed to counter a sharp surge in complex financial exploitation—with fraud referrals nearly tripling since late 2025—the bill modernizes state enforcement networks to aggressively audit and recover misappropriated taxpayer dollars.
+To address this gap, KTTC reported on how Senator Ann Johnson Stewart co-authored the Medical Assistance Protection Act (The MAP Act) alongside Representative Matt Norris and Attorney General Keith Ellison. ” The proposed legislation would expand the Attorney General’s Office’s ability to investigate fraud in Minnesota’s Medical Assistance program.” Designed to counter a sharp surge in complex financial exploitation—with fraud referrals nearly tripling since late 2025—the bill modernizes state enforcement networks to aggressively audit and recover misappropriated taxpayer dollars.
 “The Medical Assistance Protection Act is about protecting taxpayer dollars and making sure that critical Medical Assistance resources go to the Minnesotans who need them.
-By strengthening enforcement and investing in proven tools, we are holding bad actors accountable, safeguarding the integrity of Medical Assistance, and returning money to our state.” — Ann Johnson Stewart
-I.
-Upstream Enforcement: Closing the “False Claim” Loophole
-Historically, state law restricted Medicaid fraud prosecutions strictly to instances where a bad actor submitted an explicit, completed false claim for reimbursement.
-As Minnesota Attorney General Keith Ellison pointed out, “The narrow wording of the statute has proved challenging for prosecutors who have identified fraudulent conduct that extends beyond simply presenting a false claim for reimbursement for services not rendered.” This narrow definition created a massive enforcement gap, leaving investigators unable to prosecute syndicates caught manipulating the system upstream.
-Attorney General Keith Ellison highlights how The MAP Act completely rewrites these parameters.
-“[The bill] expands the Attorney General’s Office’s ability to investigate fraud in Minnesota’s Medical Assistance program (known federally as Medicaid), gives the office new tools to hold fraudsters accountable, and increases penalties for those found guilty of stealing money meant for low-income Minnesotans’ healthcare.” The law, for instance, expands statutory definitions to prohibit providing fraudulent details during initial provider enrollment and criminalizes the act of falsely creating, altering, or destroying care delivery records.
-Semantics Insight: The 3-to-1 Match
-The Spec: The Medicaid Fraud Control Unit operates on a strict financial split mandated by federal guidelines: for every $1.00 Minnesota invests, the federal government kicks in a $3.00 matching subsidy.
+By strengthening enforcement and investing in proven tools, we are holding bad actors accountable, safeguarding the integrity of Medical Assistance, and returning money to our state.” — Ann Johnson Stewart I.
+Upstream Enforcement: Closing the “False Claim” Loophole Historically, state law restricted Medicaid fraud prosecutions strictly to instances where a bad actor submitted an explicit, completed false claim for reimbursement.
+As Minnesota Attorney General Keith Ellison pointed out , “The narrow wording of the statute has proved challenging for prosecutors who have identified fraudulent conduct that extends beyond simply presenting a false claim for r eimbursement for services not rendered.” This narrow definition created a massive enforcement gap, leaving investigators unable to prosecute syndicates caught manipulating the system upstream.
+Attorney General Keith Ellison highlights how The MAP Act completely rewrites these parameters . “ [The bill] expands the Attorney General’s Office’s ability to investigate fraud in Minnesota’s Medical Assistance program (known federally as Medicaid), gives the office new tools to hold fraudsters accountable, and increases penalties for those found guilty of stealing money meant for low-income Minnesotans’ healthcare.” The law, for instance, expands statutory definitions to prohibit providing fraudulent details during initial provider enrollment and criminalizes the act of falsely creating, altering, or destroying care delivery records.
+Semantics Insight: The 3-to-1 Match The Spec: The Medicaid Fraud Control Unit operates on a strict financial split mandated by federal guidelines: for every $1.00 Minnesota invests, the federal government kicks in a $3.00 matching subsidy.
 The Reality: The MAP Act uses an incremental state investment of $1.23 million annually to unlock a $5 million total operating upgrade.
 This scales the enforcement team from 32 to 50 active investigators, prosecutors, and auditors without breaking the state budget.
 “I’m grateful to Senator Johnson Stewart and Representative Norris for working alongside me for over a year to get this accomplished, and to Governor Walz and leaders in the House and Senate for making it a priority to give us the resources we need to hire more fraud fighters.
-This is a good deal for Minnesotans.” — Keith Ellison
-II.
-Direct Subpoena Power: Cutting the Red Tape
-In complex financial investigations, speed is everything.
+This is a good deal for Minnesotans.” — Keith Ellison II.
+Direct Subpoena Power: Cutting the Red Tape In complex financial investigations, speed is everything.
 Previously, state auditors faced massive administrative delays because they were required to route all financial record subpoenas through local county attorneys.
 This bureaucratic drag gave sophisticated shell companies time to liquidate assets or move stolen funds out of state.
 The MAP Act eliminates this bottleneck by granting the Attorney General’s Office direct, independent authority to subpoena financial records during active criminal investigations.
 As the Minnesota State Senate Committee on Finance stated, “The expanded subpoena authority includes wage and employment records, insurance records related to claim settlement, and banking, credit card, and financial records.” Centralizing this capability allows state investigators to issue instant, targeted subpoenas, freezing illicit assets before they can be transferred or hidden.
 III.
 Restructuring Penalties: Attempt vs.
-Completion
-Under old statutory frameworks, Minnesota’s criminal code failed to differentiate between minor compliance errors and multi-million dollar corporate conspiracies—treating all infractions over $35,000 identically.
+Completion Under old statutory frameworks, Minnesota’s criminal code failed to differentiate between minor compliance errors and multi-million dollar corporate conspiracies—treating all infractions over $35,000 identically.
 Furthermore, the law classified Medicaid fraud strictly as an attempted theft rather than a completed theft, artificially capping maximum prison sentences at just 2.5 years.
 The MAP Act overhauls this framework to mirror standard state property theft laws.
-The legislation establishes explicit, heightened sentencing tiers for high-dollar thefts, creating enhanced penalty matrices specifically for fraud exceeding $100,000 and $1,000,000.
-The bill “creates enhanced sentencing for high-dollar fraud cases”.
-By reclassifying the crime as a completed theft, the maximum statutory penalty increases from 2.5 years to 10 years in prison.
-This structural upgrade fundamentally changes the risk calculation for white-collar syndicates, transforming what used to be a low-stakes corporate gamble into a high-stakes felony.
+The legislation establishes explicit, heightened sentencing tiers for high-dollar thefts, creating enhanced penalty matrices specifically for fraud exceeding $100,000 and $1,000,000 .
+The bill “ creates enhanced sentencing for high-dollar fraud cases” .
+By reclassifying the crime as a completed theft, the maximum statutory penalty increases from 2.5 years to 10 years in prison .
+This structural upgrade fund amentally changes the risk calculation for white-collar syndicates, transforming what used to be a low-stakes corporate gamble into a high-stakes felony.
 While political opponents frequently use systemic fraud as an excuse to demand cuts to public programs, the MAP Act proves that true accountability means aggressively policing bad actors rather than stripping healthcare from families who rely on it.
-By locking down a strict 10-year ceiling for major offenses, this law protects taxpayer investments and systematically neutralizes the opposition’s primary campaign talking point.
-Semantics Insight: The Penalty Matrix Overhaul
-The Spec: Under the old framework, Minnesota’s criminal code classified all Medicaid fraud over $35,000 identically and treated it strictly as an attempted theft, capping maximum sentences at just 2.5 years regardless of the stolen amount.
+By locking down a strict 10-year ceiling for major offenses , this law protects taxpayer investments and systematically neutralizes the opposition’s primary campaign talking point.
+Semantics Insight: The Penalty Matrix Overhaul The Spec: Under the old framework, Minnesota’s criminal code classified all Medicaid fraud over $35,000 identically and treated it strictly as an attempted theft, capping maximum sentences at just 2.5 years regardless of the stolen amount.
 The Reality: The MAP Act creates a modern, tiered penalty structure based on the true scale of the crime.
-It reclassifies healthcare fraud as a completed theft and establishes distinct criminal tiers for fraud exceeding $100,000 and $1,000,000, raising the maximum sentencing ceiling to 10 years in prison.
-“When we invest in accountability, we’re bringing money back into our system.
-That’s a win for taxpayers and for the long-term stability of Medical Assistance and in turn our entire healthcare system.” — Ann Johnson Stewart
-IV.
-Advanced Legal Tooling: Dismantling the Networks
-To completely take down structured white-collar networks, the MAP Act arms prosecutors with three advanced legal upgrades designed to recover funds and eliminate escape hatches (you can read all the exact revisions here):
-- Sentencing Restitution: Eliminates administrative delays.
+It reclassifies healthcare fraud as a completed theft and establishes distinct criminal tiers for fraud exceeding $100,000 and $1,000,000 , raising the maximum sentencing ceiling to 10 years in prison . “ When we invest in accountability, we’re bringing money back into our system.
+That’s a win for taxpayers and for the long-term stability of Medical Assistance and in turn our entire healthcare system. ” — Ann Johnson Stewart IV.
+Advanced Legal Tooling: Dismantling the Networks To completely take down structured white-collar networks, the MAP Act arms prosecutors with three advanced legal upgrades designed to recover funds and eliminate escape hatches ( you can read all the exact revisions here ): Sentencing Restitution: Eliminates administrative delays.
 Prosecutors can now file initial charges swiftly to prevent flight risks, while preserving the legal right to claim full financial restitution for any additional fraud verified later during sentencing.
-- Statute of Limitations: Extends the prosecutorial window by anchoring it to the true inception point of the fraud scheme, preventing long-running corporate scams from escaping justice via the calendar.
-- Racketeering Integration: Officially adds Medical Assistance Fraud to Minnesota’s state racketeering statute, allowing prosecutors to indict whole coordinated syndicates rather than chasing isolated, low-level individuals.
+Statute of Limitations: Extends the prosecutorial window by anchoring it to the true inception point of the fraud scheme, preventing long-running corporate scams from escaping justice via the calendar.
+Racketeering Integration: Officially adds Medical Assistance Fraud to Minnesota’s state racketeering statute, allowing prosecutors to indict whole coordinated syndicates rather than chasing isolated, low-level individuals.
+You can read the complete, line-by-line statutory additions, strikes, and revisions, available for public review, to see the upgrades yourself .
 As a civil engineer, Ann knows that the best time to fix a bridge is before it fails.
-Support Her 2026 Campaign Here
+Support Her 2026 Campaign Here Go Back to Priorities Page Contribute Follow Follow Follow Prepared and paid for by Campaign of Ann Johnson Stewart, PO Box 288, Wayzata, MN 55391 © #.
+All Rights Reserved.

@@ -1,15 +1,58 @@
 [
-"https://facebook.com/HoustonGaines",
-"https://houstongaines.com/",
-"https://houstongaines.com/about",
-"https://houstongaines.com/cdn-cgi/l/email-protection",
-"https://houstongaines.com/endorsements",
-"https://houstongaines.com/issues",
-"https://houstongaines.com/media",
-"https://houstongaines.com/news",
-"https://houstongaines.com/privacy-policy",
-"https://houstongaines.com/terms-and-conditions",
-"https://houstongaines.com/volunteer",
-"https://secure.winred.com/gaines-for-congress/donate",
-"https://x.com/houstongaines"
+{
+"text": "About",
+"href": "https://houstongaines.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/gaines-for-congress/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://houstongaines.com/endorsements/"
+},
+{
+"text": "Issues",
+"href": "https://houstongaines.com/issues/"
+},
+{
+"text": "Media Center",
+"href": "https://houstongaines.com/media/"
+},
+{
+"text": "News",
+"href": "https://houstongaines.com/news/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://houstongaines.com/privacy-policy"
+},
+{
+"text": "TERMS AND CONDITIONS",
+"href": "https://houstongaines.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://houstongaines.com/volunteer/"
+},
+{
+"text": "[email protected]",
+"href": "https://houstongaines.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Houston Gaines for Congress]",
+"href": "https://houstongaines.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HoustonGaines/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/houstongaines"
+},
+{
+"text": "[no text]",
+"href": "mailto:houston@houstongaines.com"
+}
 ]

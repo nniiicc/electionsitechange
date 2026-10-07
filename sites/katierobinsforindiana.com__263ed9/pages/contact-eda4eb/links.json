@@ -1,17 +1,74 @@
 [
-"http://tiktok.com/@katierobins4indiana",
-"https://facebook.com/profile.php?fb_profile_edit_entry_point=%7B%22click_point%22%3A%22edit_profile_button%22%2C%22feature%22%3A%22profile_header%22%7D&id=61587271627332&sk=about",
-"https://facebook.com/profile.php?id=61587271627332",
-"https://iga.in.gov/publications/maps/house-districts/IndianaHouseDistrictMap2021.pdf",
-"https://instagram.com/katierobins4indiana",
-"https://katierobinsforindiana.com/",
-"https://katierobinsforindiana.com/about",
-"https://katierobinsforindiana.com/accessibility-statement",
-"https://katierobinsforindiana.com/category/all-products",
-"https://katierobinsforindiana.com/contact",
-"https://katierobinsforindiana.com/district31",
-"https://katierobinsforindiana.com/donate",
-"https://katierobinsforindiana.com/event-list",
-"https://katierobinsforindiana.com/privacy-policy",
-"https://katierobinsforindiana.com/volunteer"
+{
+"text": "About",
+"href": "https://www.katierobinsforindiana.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.katierobinsforindiana.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.katierobinsforindiana.com/contact"
+},
+{
+"text": "District 31",
+"href": "https://www.katierobinsforindiana.com/district31"
+},
+{
+"text": "Donate",
+"href": "https://www.katierobinsforindiana.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.katierobinsforindiana.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.katierobinsforindiana.com"
+},
+{
+"text": "KATIE ROBINS FOR INDIANA",
+"href": "https://www.katierobinsforindiana.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.katierobinsforindiana.com/privacy-policy"
+},
+{
+"text": "Shop",
+"href": "https://www.katierobinsforindiana.com/category/all-products"
+},
+{
+"text": "Stay Connected With the Campaign",
+"href": "https://www.katierobinsforindiana.com"
+},
+{
+"text": "View District Map",
+"href": "https://iga.in.gov/publications/maps/house-districts/IndianaHouseDistrictMap2021.pdf"
+},
+{
+"text": "Volunteer",
+"href": "https://www.katierobinsforindiana.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?fb_profile_edit_entry_point=%7B%22click_point%22%3A%22edit_profile_button%22%2C%22feature%22%3A%22profile_header%22%7D&id=61587271627332&sk=about"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61587271627332"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/katierobins4indiana/"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://www.tiktok.com/@katierobins4indiana"
+},
+{
+"text": "krobinsmedia@outlook.com",
+"href": "mailto:info@mysite.com"
+}
 ]

@@ -1,6 +1,6 @@
+Meet John The Issues ISSUES Education The Economy Government Ethics and Campaign Fiance Reform Reproductive Rights Domestic Violence Transportation Economic Justice Climate Change Healthcare Get Involved Contribute Volunteer Learn More Accomplishments Testimonials Endorsements News Testimonials Endorsements Volunteer Contribute Volunteer Contribute  Back to The Issues Government Ethics John Marty’s career in the senate is perhaps best defined by his nationally-recognized efforts to improve democracy in Minnesota, opening up the political process, taking on corporate powers and special interest money, and fighting conflicts of interest.
 John Marty’s career in the senate is perhaps best defined by his nationally-recognized efforts to improve democracy in Minnesota, opening up the political process, taking on corporate powers and special interest money, and fighting conflicts of interest.
-His leadership and personal commitment to these issues has led many to call him the conscience of the Senate.
-Fighting Waste & Fraud.
+His leadership and personal commitment to these issues has led many to call him the conscience of the Senate . ‍ Fighting Waste & Fraud.
 Senator Marty has been fighting against waste, fraud, and abuse throughout his career.
 He has worked with whistleblowers to expose waste and improper behavior, and helped to protect them from retaliation.
 John points out that every dollar wasted takes away from urgent unmet needs.
@@ -34,17 +34,17 @@ John is working for “Clean Money” comprehensive campaign finance reform, whi
 The Citizens United ruling is, like Plessy v.
 Ferguson (“separate but equal”), one of the most tragic decisions in U.S.
 History.
-Like Plessy, Citizens United must be overturned, or we need a constitutional amendment to do so.
+Like Plessy , Citizens United must be overturned, or we need a constitutional amendment to do so.
 Senator Marty seeks to remove all special interest money from the political process – no PAC money, no soft money, no lobbyist contributions, no dark money, no mega-contributions from anyone.
 Campaigns would be funded at a rational level with public financing.
 If anyone is going to “own” politicians, it ought to be the public, not special interests.
-A Constitutional Amendment to overturn Citizens United andFighting Waste & Fraud.
+A Constitutional Amendment to overturn Citizens United and ‍ Fighting Waste & Fraud.
 Senator Marty has been fighting against waste, fraud, and abuse throughout his career.
 He has worked with whistleblowers to expose waste and improper behavior, and helped to protect them from retaliation.
 John points out that every dollar wasted takes away from urgent unmet needs. .
 The corrupting influence of special interest money in our elections affects virtually every issue in politics.
 To end this corruption, we need to clarify that the First Amendment was not intended to allow corporations, wealthy individuals, and interest groups to buy clout in the political system through massive contributions and dark money expenditures.
-Senator Marty is the lead author of Senate File 569, legislation calling on the U.S.
+Senator Marty is the lead author of Senate File 569 , legislation calling on the U.S.
 Congress to propose a constitutional amendment to overturn “Citizens United” and require that Congress and the states regulate political spending so that every person, regardless of their economic status, has access to the political process, and that no person gains, as a result of their money, substantially more access or ability to influence elections.
 Conflict of Interest.
 Marty introduced legislation making it a conflict of interest for a legislator to vote on an issue after accepting a large campaign contribution from a lobbyist or interest group.
@@ -71,3 +71,18 @@ Senator Marty has worked to close loopholes in Minnesota’s financial disclosur
 For example, a lobbyist could give every Minnesota legislator a $200 campaign contribution without public disclosure or any way for the public to know about it.
 When highly paid lobbyists, whose job is to persuade public officials, give money to those officials, the public has a right to know about it.
 This legislation would expose these transactions so that the public is aware of the conflict of interest.
+Explore More Issues Browse all issues Education Read more  The Economy Read more  Government Ethics Read more  The latest from John Follow the campaign Bluesky and Instagram No money from special interests.
+None.
+John’s campaign is powered only by small individual donors and volunteers.
+That means: no special interest money.
+No PAC money.
+No lobbyist money.
+No contributions over $# per person.
+This makes your contribution especially important.
+Contribute By donating, you are confirming the following statements are true and accurate: 1) You are not a foreign national who lacks permanent residence in the United States.
+2) This contribution is made from your own funds, and not those of another.
+3) You are not a registered lobbyist.
+4) This contribution is not made from the funds of a corporation, a labor organization, or a political action committee.
+5) This contribution is made from an account or card for which you have the legal obligation to pay, and is not made using a corporate, business, or another person’s account or card.
+Member of the Minnesota State Senate.
+Menu Home Meet John The Issues Volunteer Contribute Contact The Issues Healthcare The Economy Economic Justice Climate Change Government Ethics and Campaign Fiance Reform Reproductive Rights Domestic Violence Transportation Education Copyright © # Senator John Marty | Prepared and Paid for by the Senator John Marty Volunteer Committee.

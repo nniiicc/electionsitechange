@@ -1,4 +1,5 @@
-Students in SLPS are not being prepared for the jobs of tomorrow.
+Skip to content Marty Joe Murray, Jr Home Biography Legislation Capitol Corner Jobs Press Vimeo Missouri Dem Party Contact Donate Here Opinion Editorials Hon.
+Marty Murray Opens Roy Clay Computer Lab December 21, 2021 2–3 minutes S tudents in SLPS are not being prepared for the jobs of tomorrow.
 Walk into most grocery stores and you see robots performing inventory.
 Cashiers are replaced by lanes of self-checkout.
 Likewise, fast-food restaurants will soon make customers order food with tablet applications.
@@ -28,8 +29,7 @@ As a result, Clay became the highest-ranking African-American member of staff.
 At HP Clay developed several initiatives to improve the representation of African-Americans in Silicon Valley.
 He recognized the need to test electrical products for safety, and left HP in 1971 to start his own business.
 ROD-L Electronics.
-Computer Lab Details
-The Roy Clay Sr.
+Computer Lab Details The Roy Clay Sr.
 Lab is free to the public and open to all ages.
 Also, The lab features both computers and laptops.
 The high-speed internet is courtesy of the St.
@@ -37,15 +37,7 @@ Louis Public Library.
 In addition, the lab includes two 3D printers provided by Andrew Crowe of Elevate.
 MASTERcam donated the programming software.
 Patrons can use the printers to bring their inventions to life.
-The workshops offered include:
-- Computer coding
-- Robotics
-- Computer literacy
-- 3D computer design
-- Online job fairs
-- Resume building
-- Microsoft word/excel classes
-Through the kind donations of our sponsors and our community partners we will help prepare the youth for the jobs of tomorrow.
+The workshops offered include: Computer coding Robotics Computer literacy 3D computer design Online job fairs Resume building Microsoft word/excel classes Through the kind donations of our sponsors and our community partners we will help prepare the youth for the jobs of tomorrow.
 However, the lab also offers parents the tools to be competitive today.
 For more information visit Roy Clay Sr.
 Computer Lab or call (314) 589-6142.
@@ -53,7 +45,11 @@ The hours of operation are 9:00am to 7:00pm on weekdays.
 The lab is located at 1410 S.
 Tucker, St.
 Louis, MO, 63104.
-Sponsors
-12th and Park Rec Center, Hon.
+Sponsors 12th and Park Rec Center, Hon.
 Marty J.
 Murray Jr, Lafayette Park United Methodist Church, Chance Light, Elevate, Prosper Credit Consultants, Sharon Wilson, Andrea Huegatter, Larry Huegatter, Lucas Whiteaker, Andrew Crowe, Shaun Swearengen, Marc White, Michael Wilson, Tom Fisher, Cathy Fisher, and Mike Baldwin.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Website Biography Opinion Editorials Endorsements Facebook Twitter LinkedIn Instagram YouTube Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website Comment Reblog Subscribe Subscribed Marty Joe Murray, Jr Join 840 other subscribers Sign me up Have a WordPress.com account?
+Log in now.
+Marty Joe Murray, Jr Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

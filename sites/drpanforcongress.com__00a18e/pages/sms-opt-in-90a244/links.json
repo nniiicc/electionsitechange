@@ -1,20 +1,102 @@
 [
-"http://facebook.com/RichardPanMD",
-"http://instagram.com/DrPanMD",
-"http://x.com/DrPanMD",
-"http://youtube.com/@DrPanForCongress",
-"https://bsky.app/profile/drpanmd.bsky.social",
-"https://drpanforcongress.com/",
-"https://drpanforcongress.com/about",
-"https://drpanforcongress.com/cart",
-"https://drpanforcongress.com/endorsements",
-"https://drpanforcongress.com/get-involved",
-"https://drpanforcongress.com/home",
-"https://drpanforcongress.com/media",
-"https://drpanforcongress.com/news",
-"https://drpanforcongress.com/privacy-policy",
-"https://drpanforcongress.com/privacy-policy-1",
-"https://drpanforcongress.com/sms-opt-in",
-"https://secure.actblue.com/donate/pan-web",
-"https://store.drpanforcongress.com/"
+{
+"text": "0",
+"href": "https://drpanforcongress.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://drpanforcongress.com/about"
+},
+{
+"text": "About",
+"href": "https://drpanforcongress.com/about"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@drpanforcongress.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pan-web"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://drpanforcongress.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://drpanforcongress.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://drpanforcongress.com/get-involved"
+},
+{
+"text": "Get Involved",
+"href": "https://drpanforcongress.com/get-involved"
+},
+{
+"text": "ISSUES",
+"href": "https://drpanforcongress.com/home#issues"
+},
+{
+"text": "Issues",
+"href": "https://drpanforcongress.com/home#issues"
+},
+{
+"text": "Media",
+"href": "https://drpanforcongress.com/media"
+},
+{
+"text": "NEWS",
+"href": "https://drpanforcongress.com/news"
+},
+{
+"text": "News",
+"href": "https://drpanforcongress.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://drpanforcongress.com/privacy-policy"
+},
+{
+"text": "SMS Opt-In",
+"href": "https://drpanforcongress.com/sms-opt-in"
+},
+{
+"text": "Store",
+"href": "https://store.drpanforcongress.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://drpanforcongress.com/privacy-policy-1"
+},
+{
+"text": "[image: Dr. Pan for Congress]",
+"href": "https://drpanforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/RichardPanMD"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/DrPanMD"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com/@DrPanForCongress"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/DrPanMD"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/drpanmd.bsky.social"
+},
+{
+"text": "‍",
+"href": "https://drpanforcongress.com/get-involved"
+}
 ]

@@ -1,7 +1,13 @@
 {
  "description": "Categories",
  "final_url": "https://bucyfortexas.com/news/",
+ "fingerprint": "de951c19895979f5dbb3a139743e89a508056ffd",
+ "format": 3,
  "paid_for_by": "Paid for by: POLITICAL ADVERTISING PAID FOR BY JOHN BUCY CAMPAIGN, MOLLY BUCY, TREASURER Powered by Tech for Campaigns",
- "title": "News \u2013 Re-Elect John Bucy III",
- "years_mentioned": []
+ "title": "News – Re-Elect John Bucy III",
+ "years_mentioned": [
+  "2023",
+  "2024",
+  "2025"
+ ]
 }

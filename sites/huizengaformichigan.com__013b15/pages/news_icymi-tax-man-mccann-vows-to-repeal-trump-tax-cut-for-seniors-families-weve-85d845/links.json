@@ -1,16 +1,62 @@
 [
-"https://facebook.com/BillHuizenga",
-"https://huizengaformichigan.com/",
-"https://huizengaformichigan.com/about",
-"https://huizengaformichigan.com/issues",
-"https://huizengaformichigan.com/join",
-"https://huizengaformichigan.com/news",
-"https://huizengaformichigan.com/privacy-policy",
-"https://huizengaformichigan.com/terms-and-conditions",
-"https://instagram.com/billhuizenga",
-"https://secure.winred.com/huizenga-for-congress/contribute",
-"https://themidwesterner.news/2026/08/tax-man-mccann-vows-to-repeal-trump-tax-cut-for-seniors-families-weve-got-to-reverse-it",
-"https://twitter.com/billhuizenga",
-"https://youtube.com/@HuizengaForCongress",
-"https://youtube.com/watch?v=c01oQCzUKdM"
+{
+"text": "About",
+"href": "https://huizengaformichigan.com/about/"
+},
+{
+"text": "Back to News",
+"href": "https://huizengaformichigan.com/news"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/huizenga-for-congress/contribute"
+},
+{
+"text": "Issues",
+"href": "https://huizengaformichigan.com/issues/"
+},
+{
+"text": "Join",
+"href": "https://huizengaformichigan.com/join/"
+},
+{
+"text": "News",
+"href": "https://huizengaformichigan.com/news/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://huizengaformichigan.com/privacy-policy"
+},
+{
+"text": "TERMS AND CONDITIONS",
+"href": "https://huizengaformichigan.com/terms-and-conditions"
+},
+{
+"text": "The Midwesterner",
+"href": "https://www.themidwesterner.news/2026/08/tax-man-mccann-vows-to-repeal-trump-tax-cut-for-seniors-families-weve-got-to-reverse-it/"
+},
+{
+"text": "[image: Huizenga for Congress]",
+"href": "https://huizengaformichigan.com"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/watch?v=c01oQCzUKdM"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/billhuizenga"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BillHuizenga"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/billhuizenga/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@HuizengaForCongress"
+}
 ]

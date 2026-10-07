@@ -1,20 +1,22 @@
+Skip to content Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Ashley Bean Thornton for Texas House District 56 What’s my “Why?” Part 2: What’s my problem with the 10 Commandments?
+I’m Ashley Bean Thornton, and I am running for the Texas House of Representatives, House District 56.
+If you like what I have to say, and you live in HD 56, I hope you will vote for me in November 2026.
+Meanwhile, I hope you will subscribe to my newsletter: https://ashleybeanthornton.com/stay-in-the-loop/.
+Thank you!
+Let’s build the Texas we want to live in!
 What’s my “Why?” Part 2: What’s my problem with the 10 Commandments?
-This post originally appeared on Dead Dillo.
-(In Part 1 of this series I said…
-I think quite a lot about politics these days.
+What’s my “Why?” Part 2: What’s my problem with the 10 Commandments?
+This post originally appeared on Dead Dillo .
+(In Part 1 of this series I said… I think quite a lot about politics these days.
 Some of you know I even went as far as to apply to the LBJ Women’s Campaign School which I am in the middle of completing right now.
 During the first week of campaign school one of the main things we talked about is “What is your ‘Why?’” What has gotten you up off the couch and moving?
 What is going to keep you motivated when things get hard and you are tired?
-I heard lots of inspiring stories from other people about their various “Whys.” I thought all week about my “Why.”
-One of the problems with me being a politician is that I have a hard time explaining my “why” in a way that is moving and inspiring.
-I tend to take too many words to explain it, it doesn’t fit very well on meme, or a sticker, or even one of those big, glossy postcards you get during campaign season, but I’ll take a swing at explaining at least part of it here…
-This is me still working through my “Why.” – ABT
-Here’s the deal…I don’t have a problem with the 10 Commandments.
+I heard lots of inspiring stories from other people about their various “Whys.” I thought all week about my “Why.” One of the problems with me being a politician is that I have a hard time explaining my “why” in a way that is moving and inspiring.
+I tend to take too many words to explain it, it doesn’t fit very well on meme, or a sticker, or even one of those big, glossy postcards you get during campaign season, but I’ll take a swing at explaining at least part of it here… This is me still working through my “Why.” – ABT Here’s the deal…I don’t have a problem with the 10 Commandments.
 I very much have a problem with a law that requires the 10 Commandments to be posted on the wall in every public school classroom in Texas.
 I have a problem with this law because religious freedom is important to me, and I believe this is a step away from religious freedom and toward establishing a state religion.
 I often get push back from friends who take their faith very seriously.
-They ask me things like, “Why do you have a problem with the 10 Commandments?” “What commandment do you have a problem with?”
-I get the impression that they think I oppose this bill because I somehow oppose the 10 Commandments or faith or Christianity.
+They ask me things like, “Why do you have a problem with the 10 Commandments?” “What commandment do you have a problem with?” I get the impression that they think I oppose this bill because I somehow oppose the 10 Commandments or faith or Christianity.
 Or maybe they think I oppose it because I don’t think faith is important, or because I don’t believe faith has the power to change behavior and make things better.
 In fact, it’s the opposite.
 I oppose this bill because I profoundly believe in the importance and power of faith.
@@ -34,9 +36,7 @@ I have friends who think I am making way too big a fuss over this 10 Commandment
 Maybe it will help?
 It never hurts to be reminded “thou shalt not steal,” right?
 Or sometimes my friends say, “It’s no big deal.
-This law doesn’t have anything to do with a ‘state religion.’ It’s just a way of teaching children where laws come from.”
-Here’s why I think it is a big deal and why it does have to do with a state religion…
-If our legislators are convinced we have a problem with school children stealing, and that a poster on the wall is a way to fix that problem, why not pass a bill that requires a poster in every public school classroom that simply says, “Don’t Steal!” Why get entangled with using a religious version of this straightforward message?
+This law doesn’t have anything to do with a ‘state religion.’ It’s just a way of teaching children where laws come from.” Here’s why I think it is a big deal and why it does have to do with a state religion… If our legislators are convinced we have a problem with school children stealing, and that a poster on the wall is a way to fix that problem, why not pass a bill that requires a poster in every public school classroom that simply says, “Don’t Steal!” Why get entangled with using a religious version of this straightforward message?
 If our legislators believe this 10 Commandments requirement is about teaching children where laws come from, why require it in every classroom?
 Why not just mention it in the social studies curriculum.
 Why require that it be posted in every second grade classroom, every calculus classroom, every music classroom?
@@ -56,4 +56,4 @@ I can’t imagine life without my own faith, but I also cannot imagine telling s
 This last session the Texas Legislature passed a bill that will require the 10 Commandments to be displayed in every public school classroom in Texas.
 The Governor signed that bill into law.
 I oppose this law on the grounds that the “establishment of religion” is bad for the honest pursuit of faith and therefore bad for people.
-A passionate belief in the sacred right to religious freedom, the right of every person to pursue their own faith honestly without pressure or even a nudge from the government, is a big part of my “why.”
+A passionate belief in the sacred right to religious freedom, the right of every person to pursue their own faith honestly without pressure or even a nudge from the government, is a big part of my “why.” Join the Campaign Donate Join the Newsletter Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Facebook Instagram Info@AshleyBeanThornton.com Political Advertising Paid for ABT for TEX 4300 W Waco Drive Suite 2B Box 193 • Waco, Texas 76710 © #-# Thornton for Texas Campaign Terms of Service | Privacy Policy | Disclaimer | Website by Digital Media Butterfly

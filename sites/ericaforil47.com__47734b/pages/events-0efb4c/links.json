@@ -1,26 +1,126 @@
 [
-"http://elections.il.gov/",
-"https://@ericaforil47.bsky.social/",
-"https://bit.ly/10-10YoungDemsCanvass",
-"https://bit.ly/10-3PaulaYeenaEricaCanvass",
-"https://bit.ly/10-4MGWinfield",
-"https://bit.ly/9-27DOARebecca-Erica",
-"https://bit.ly/9-29Fundraiser",
-"https://docs.google.com/forms/d/e/1FAIpQLSf3mWPjo4FtCUnOxgKIML92JgtgZjzcqTFl57-nyuS9RPE92Q/viewform?usp=sharing&ouid=102583935652846546093",
-"https://ericaforil47.com/",
-"https://ericaforil47.com/about-erica",
-"https://ericaforil47.com/endorsements",
-"https://ericaforil47.com/events",
-"https://ericaforil47.com/home",
-"https://ericaforil47.com/my-priorities",
-"https://ericaforil47.com/news",
-"https://facebook.com/share/16gAdy9zmJ?mibextid=wwXlfr",
-"https://forms.gle/1DBZjuukNzdfjC1L8",
-"https://forms.gle/bDMoFdgVyMj7Zc4T7",
-"https://forms.gle/kymaBAyDA2pRXVpDA",
-"https://instagram.com/ericaforil47?igsh=ZDNlZDc0MzIxNw%3D%3D",
-"https://secure.actblue.com/donate/ericaforil47",
-"https://termsfeed.com/live/6b59f297-6b09-4d2a-80ba-6ffbefc7e5da",
-"https://tiktok.com/@ericaforil47?is_from_webapp=1&sender_device=pc",
-"https://x.com/ericaforil47"
+{
+"text": "@ericaforil47.bsky.social‬",
+"href": "https://@ericaforil47.bsky.social"
+},
+{
+"text": "About Erica",
+"href": "https://ericaforil47.com/about-erica/"
+},
+{
+"text": "Canvass for Erica! Oct. 17th",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf3mWPjo4FtCUnOxgKIML92JgtgZjzcqTFl57-nyuS9RPE92Q/viewform?usp=sharing&ouid=102583935652846546093"
+},
+{
+"text": "Day of Action Oct. 10th",
+"href": "https://bit.ly/10-10YoungDemsCanvass"
+},
+{
+"text": "Day of Action Oct. 3rd",
+"href": "https://bit.ly/10-3PaulaYeenaEricaCanvass"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ericaforil47"
+},
+{
+"text": "Endorsements",
+"href": "https://ericaforil47.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://ericaforil47.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/16gAdy9zmJ/?mibextid=wwXlfr"
+},
+{
+"text": "Fundraiser for Erica Bray-Parker Sep. 29th",
+"href": "https://bit.ly/9-29Fundraiser"
+},
+{
+"text": "Home",
+"href": "https://ericaforil47.com/home/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ericaforil47?igsh=ZDNlZDc0MzIxNw%3D%3D"
+},
+{
+"text": "Join Us",
+"href": "https://forms.gle/kymaBAyDA2pRXVpDA"
+},
+{
+"text": "Joint Day of Action Sep. 27th",
+"href": "https://bit.ly/9-27DOARebecca-Erica"
+},
+{
+"text": "Mail",
+"href": "mailto:erica@ericaforil47.com"
+},
+{
+"text": "My Priorities",
+"href": "https://ericaforil47.com/my-priorities/"
+},
+{
+"text": "Receive News",
+"href": "https://ericaforil47.com/news/"
+},
+{
+"text": "Subscribe to our Newsletter",
+"href": "https://forms.gle/1DBZjuukNzdfjC1L8"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@ericaforil47?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "View our Privacy Policy",
+"href": "https://www.termsfeed.com/live/6b59f297-6b09-4d2a-80ba-6ffbefc7e5da"
+},
+{
+"text": "Volunteer/Lawn Signs",
+"href": "https://forms.gle/bDMoFdgVyMj7Zc4T7"
+},
+{
+"text": "Winfield Meet & Greet Oct. 4th",
+"href": "https://bit.ly/10-4MGWinfield"
+},
+{
+"text": "X",
+"href": "https://x.com/ericaforil47"
+},
+{
+"text": "[image]",
+"href": "https://bit.ly/10-10YoungDemsCanvass"
+},
+{
+"text": "[image]",
+"href": "https://bit.ly/10-3PaulaYeenaEricaCanvass"
+},
+{
+"text": "[image]",
+"href": "https://bit.ly/10-4MGWinfield"
+},
+{
+"text": "[image]",
+"href": "https://bit.ly/9-27DOARebecca-Erica"
+},
+{
+"text": "[image]",
+"href": "https://bit.ly/9-29Fundraiser"
+},
+{
+"text": "[image]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf3mWPjo4FtCUnOxgKIML92JgtgZjzcqTFl57-nyuS9RPE92Q/viewform?usp=sharing&ouid=102583935652846546093"
+},
+{
+"text": "[image]",
+"href": "https://ericaforil47.com/"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov"
+}
 ]

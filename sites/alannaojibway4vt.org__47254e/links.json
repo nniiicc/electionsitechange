@@ -1,9 +1,38 @@
 [
-"http://vote.vermont.gov/",
-"https://alannaojibway4vt.org/",
-"https://alannaojibway4vt.org/about",
-"https://alannaojibway4vt.org/cart",
-"https://alannaojibway4vt.org/volunteer",
-"https://instagram.com/alannaojibway4vt",
-"https://secure.actblue.com/donate/alanna-ojibway-1"
+{
+"text": "0",
+"href": "https://www.alannaojibway4vt.org/cart"
+},
+{
+"text": "About Alanna",
+"href": "https://www.alannaojibway4vt.org/about"
+},
+{
+"text": "Contact",
+"href": "mailto:alannaojibway4VT@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/alanna-ojibway-1"
+},
+{
+"text": "Donate today",
+"href": "https://secure.actblue.com/donate/alanna-ojibway-1"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/alannaojibway4vt/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.alannaojibway4vt.org/volunteer"
+},
+{
+"text": "[image: Alanna Ojibway for VT State Rep]",
+"href": "https://www.alannaojibway4vt.org/"
+},
+{
+"text": "vote.vermont.gov",
+"href": "http://vote.vermont.gov"
+}
 ]

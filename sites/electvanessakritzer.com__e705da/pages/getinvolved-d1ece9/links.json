@@ -1,14 +1,58 @@
 [
-"https://bsky.app/profile/electvanessa.bsky.social",
-"https://electvanessakritzer.com/",
-"https://electvanessakritzer.com/cart",
-"https://electvanessakritzer.com/endorsements",
-"https://electvanessakritzer.com/getinvolved",
-"https://electvanessakritzer.com/meet-vanessa",
-"https://electvanessakritzer.com/priorities",
-"https://electvanessakritzer.com/privacy-policy",
-"https://facebook.com/electvanessakritzer",
-"https://forms.gle/ZduNTu7QWtnChCFy5",
-"https://instagram.com/electvanessa",
-"https://secure.actblue.com/donate/vanessa-kritzer-1"
+{
+"text": "0",
+"href": "https://www.electvanessakritzer.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vanessa-kritzer-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electvanessakritzer.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electvanessakritzer.com/getinvolved"
+},
+{
+"text": "Home",
+"href": "https://www.electvanessakritzer.com/"
+},
+{
+"text": "Meet Vanessa",
+"href": "https://www.electvanessakritzer.com/meet-vanessa"
+},
+{
+"text": "Priorities",
+"href": "https://www.electvanessakritzer.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electvanessakritzer.com/privacy-policy"
+},
+{
+"text": "[image: Vote Vanessa Kritzer for State Representative]",
+"href": "https://www.electvanessakritzer.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/electvanessa.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electvanessakritzer"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electvanessa/"
+},
+{
+"text": "https://forms.gle/ZduNTu7QWtnChCFy5",
+"href": "https://forms.gle/ZduNTu7QWtnChCFy5"
+},
+{
+"text": "info@electvanessakritzer.com",
+"href": "mailto:info@electvanessakritzer.com"
+}
 ]

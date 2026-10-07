@@ -1,18 +1,17 @@
-FOR IMMEDIATE RELEASE
-October 23, 2025
-Saipan, CNMI – Galvin Sablan Deleon Guerrero, independent candidate for US Delegate to Congress, today condemned the decision by the US Department of Agriculture’s Food and Nutrition Service (USDA-FNS) to suspend food benefit issuances for the month of November amid the ongoing federal shutdown.
+Skip to content Facebook Instagram Youtube Tiktok Home Meet Galvin Platform Issues Core Principles News Home Meet Galvin Platform Issues Core Principles News Facebook Instagram Youtube Tiktok Volunteer Donate Deleon Guerrero Condemns Halt of Food Benefits, Calls for Immediate Federal Action to Protect CNMI Families FOR IMMEDIATE RELEASE October 23, 2025 Saipan, CNMI – Galvin Sablan Deleon Guerrero, independent candidate for US Delegate to Congress, today condemned the decision by the US Department of Agriculture’s Food and Nutrition Service (USDA-FNS) to suspend food benefit issuances for the month of November amid the ongoing federal shutdown.
 A formal notice from the USDA-FNS, released on October 10, 2025, directed all jurisdictions— including the CNMI’s Nutrition Assistance Program (NAP)— to halt benefit distributions in November due to the lapse in federal appropriations.
 “This decision is not just bureaucratic— it’s cruel,” said Deleon Guerrero.
 “Thousands of families in the CNMI rely on NAP benefits to put food on the table.
-To suspend those benefits— especially going into the holiday season— is unacceptable and shows just how disconnected Washington has become from the real lives of our people who are already hurting.”
-Deleon Guerrero noted that households are already struggling with high food and utility costs.
+To suspend those benefits— especially going into the holiday season— is unacceptable and shows just how disconnected Washington has become from the real lives of our people who are already hurting.” Deleon Guerrero noted that households are already struggling with high food and utility costs.
 “We are talking about families who already live paycheck to paycheck under the weight of austerity, our man’amko on fixed incomes, and our children who depend on meals for their growth and development,” he said.
-“This ongoing shutdown has real consequences, and federal officials must act immediately to restore funding and ensure no family in the Marianas goes hungry because of politics in DC.”
-The USDA-FNS notice and CNMI NAP announcement noted that 42 million Americans, including CNMI beneficiaries will see suspended benefits if the shutdown continues.
+“This ongoing shutdown has real consequences, and federal officials must act immediately to restore funding and ensure no family in the Marianas goes hungry because of politics in DC.” The USDA-FNS notice and CNMI NAP announcement noted that 42 million Americans, including CNMI beneficiaries will see suspended benefits if the shutdown continues.
 “Leadership means standing up when it matters most,” said Deleon Guerrero.
-“It goes beyond lectures about how Washington works and, instead, delivering results when they are needed the most.”
-Deleon Guerrero added that this incident highlights the need for stronger federal-territorial partnerships to ensure the CNMI’s essential services — from education to food assistance — are protected from future shutdowns.
+“It goes beyond lectures about how Washington works and, instead, delivering results when they are needed the most.” Deleon Guerrero added that this incident highlights the need for stronger federal-territorial partnerships to ensure the CNMI’s essential services — from education to food assistance — are protected from future shutdowns.
 “Our islands deserve stability and respect.
-The federal government has an obligation under the Covenant to help our people achieve a higher standard of living — not to take food off their tables.”
-“That is what I’m fighting for: fighting for our families, fighting for respect, fighting for us.”
-###
+The federal government has an obligation under the Covenant to help our people achieve a higher standard of living — not to take food off their tables.” “That is what I’m fighting for: fighting for our families, fighting for respect, fighting for us.” ### Deleon Guerrero: US Support Is a Covenant Commitment, Not a Conditional Deal Times are tough.
+And I commend Governor Apatang, Lt.
+Governor...
+Read More “A Tax on Our Survival”: Deleon Guerrero Condemns Suspension of Duty-Free De Minimis FOR IMMEDIATE RELEASESeptember 4, 2025 Saipan, CNMI – Galvin Sablan...
+Read More Deleon Guerrero Joins National Education Leaders to Restore Funding for Minority-Serving Institutions FOR IMMEDIATE RELEASEOctober 9, 2025 Saipan, CNMI – Galvin Sablan...
+Read More Deleon Guerrero Condemns Halt of Food Benefits, Calls for Immediate Federal Action to Protect CNMI Families FOR IMMEDIATE RELEASEOctober 23, 2025 Saipan, CNMI – Galvin Sablan...
+Read More Load More News Core Values Core Principles Join the Fight © # Copyright Galvin for Congress Stay Informed Here Facebook Instagram Youtube Tiktok Contact Us galvinforcongress@gmail.com Paid for by Galvin for Congress Lucy Deleon Guerrero Neilsen, Treasurer ©# Copyright Galvin for Congress Subscribe to stay informed Name (Required) First Last Email (Required) Submit

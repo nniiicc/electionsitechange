@@ -1,4 +1,6 @@
-Born and raised in a Philadelphia rowhome, Brendan Boyle worked hard to achieve the American Dream.
+Skip to content Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Brendan F.
+Boyle | U.S.
+Congress Representing Pennsylvania's 2nd District Facebook Twitter YouTube Instagram Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Meet Brendan Born and raised in a Philadelphia rowhome, Brendan Boyle worked hard to achieve the American Dream.
 Brendan learned the value of hard work from his father, a SEPTA maintenance custodian who emigrated from Ireland at the age of 19, and his mother, a school crossing guard.
 Brendan was the first in his family to attend college and received a scholarship to attend the University of Notre Dame.
 Brendan would later earn his Master’s Degree in public policy from Harvard University’s John F.
@@ -14,3 +16,4 @@ Prior to his service in Congress, Brendan served for six years in the Pennsylvan
 While serving Northeast Philadelphia and Montgomery County in Harrisburg, Brendan worked to support record public school funding under Governor Rendell, helped gather bipartisan support for Act 89, the first major transportation bill passed in Pennsylvania in 20 years, and fought against Republican led cuts to our public schools and attacks on organized labor.
 He is married to Jennifer, a Montgomery County public school teacher, with whom he has one daughter, Abigail.
 They reside in Northeast Philadelphia.
+Search Search Keep Up with Brendan First Name Last Name Email Back to Top Facebook Twitter YouTube Instagram Paid for by Citizens for Boyle Powered by Fluida & WordPress.

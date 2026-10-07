@@ -1,5 +1,4 @@
-Reforming the Welfare State
-Our current patchwork system of welfare and entitlement programs is broken.
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate Reforming the Welfare State Apr 2 Written By David Pan Our current patchwork system of welfare and entitlement programs is broken.
 Welfare programs established back in the 1960s have proven to be counter-productive.
 Benefits such as food stamps, housing vouchers, and Medicaid phase out when people earn money or start to build up wealth.
 While this might seem to make sense, this system has created an underclass of people who are incentivized to avoid building wealth.
@@ -21,10 +20,16 @@ The main advantage for current welfare recipients is that they receive the money
 There would also be no restrictions on income or assets, allowing people to be free to work and build wealth as they please.
 Such a system would provide freedom for current welfare recipients, which would be coupled with the responsibility to make decisions about how to spend their money.
 Instead of undermining families by reducing benefits when people form joint households, my plan would provide the same benefit to every individual, regardless of household situation.
-The government shouldn't be in the business of keeping families apart.
+The government shouldn&#39;t be in the business of keeping families apart.
 If a husband works and a wife does not work, the wife would receive the full $16,000 per year benefit.
 If both the husband and the wife each earn $35,000 per year or less, they would each receive the $16,000 per year benefit.
 Such a system encourages families to stay together and also makes it more possible for one spouse to stay home to care for their children.
 Consequently, one of the biggest advantages of this plan is the way that it creates incentives for families and communities to stay together and help each other.
 People can earn a sense of self-respect and create meaningful lives.
 This provides a foundation for us to have a flourishing community and country.
+David Pan Previous Previous How to Protect Your Retirement Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

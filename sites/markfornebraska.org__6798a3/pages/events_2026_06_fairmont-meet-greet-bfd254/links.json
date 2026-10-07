@@ -1,28 +1,146 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Fairmont+Meet+%26+Greet&dates=20260628T190000Z%2F20260628T203000Z&location=Fairmont%2C+NE",
-"http://maps.google.com/?q=+Fairmont%2C+NE",
-"https://facebook.com/profile.php?id=61581549796742",
-"https://instagram.com/mark_for_nebraska?igsh=MnlweGFpaXh0YjBu",
-"https://markfornebraska.org/",
-"https://markfornebraska.org/about-mark",
-"https://markfornebraska.org/blog",
-"https://markfornebraska.org/cart",
-"https://markfornebraska.org/contact",
-"https://markfornebraska.org/events",
-"https://markfornebraska.org/events/2026/06/beatrice-meet-greet",
-"https://markfornebraska.org/events/2026/06/fairmont-meet-greet?format=ical",
-"https://markfornebraska.org/events/2026/07/york-meet-greet",
-"https://markfornebraska.org/events?tag=Event",
-"https://markfornebraska.org/events?tag=Meet+%26+Greet",
-"https://markfornebraska.org/faq",
-"https://markfornebraska.org/issues",
-"https://markfornebraska.org/press",
-"https://markfornebraska.org/privacy-policy",
-"https://markfornebraska.org/terms-of-use",
-"https://markfornebraska.org/volunteer",
-"https://nebraska.gov/apps-sos-voter-registration",
-"https://politics.raisethemoney.com/en/mark-for-nebraska",
-"https://tiktok.com/@markfornebraska",
-"https://x.com/MarkForNebraska",
-"https://youtube.com/@MarkForNebraskaCampaign"
+{
+"text": "$10",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$100",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$25",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$5",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$50",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+fairmont%2C+ne+"
+},
+{
+"text": "0",
+"href": "https://www.markfornebraska.org/cart"
+},
+{
+"text": "About Mark",
+"href": "https://www.markfornebraska.org/about-mark"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.markfornebraska.org/events"
+},
+{
+"text": "Contact",
+"href": "https://www.markfornebraska.org/contact"
+},
+{
+"text": "Continue to website →",
+"href": "https://www.markfornebraska.org/"
+},
+{
+"text": "DONATE",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "Event",
+"href": "https://www.markfornebraska.org/events?tag=Event"
+},
+{
+"text": "Events",
+"href": "https://www.markfornebraska.org/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.markfornebraska.org/faq"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fairmont+Meet+%26+Greet&dates=20260628T190000Z%2F20260628T203000Z&location=Fairmont%2C+NE"
+},
+{
+"text": "Home",
+"href": "https://www.markfornebraska.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/06/fairmont-meet-greet?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.markfornebraska.org/issues"
+},
+{
+"text": "Meet & Greet",
+"href": "https://www.markfornebraska.org/events?tag=Meet+%26+Greet"
+},
+{
+"text": "News",
+"href": "https://www.markfornebraska.org/blog"
+},
+{
+"text": "Next Next July 3 York Meet & Greet",
+"href": "https://www.markfornebraska.org/events/2026/07/york-meet-greet"
+},
+{
+"text": "Other",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "Press",
+"href": "https://www.markfornebraska.org/press"
+},
+{
+"text": "Previous Previous June 27 Beatrice Meet & Greet",
+"href": "https://www.markfornebraska.org/events/2026/06/beatrice-meet-greet"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.markfornebraska.org/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.nebraska.gov/apps-sos-voter-registration/"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.markfornebraska.org/terms-of-use"
+},
+{
+"text": "Volunteer",
+"href": "https://www.markfornebraska.org/volunteer"
+},
+{
+"text": "[image: Mark for Nebraska]",
+"href": "https://www.markfornebraska.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61581549796742"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mark_for_nebraska?igsh=MnlweGFpaXh0YjBu"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@markfornebraska"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MarkForNebraskaCampaign"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MarkForNebraska"
+},
+{
+"text": "info@markfornebraska.org",
+"href": "mailto:info@markfornebraska.org"
+}
 ]

@@ -1,23 +1,102 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Montavon%E2%80%99s+Marathon%3A+Day+2&dates=20260928T120000Z%2F20260928T220000Z&location=14071+North+Cleveland+Avenue%2C+North+Fort+Myers%2C+Florida%2C+33903%2C+United+States",
-"http://maps.google.com/?q=14071+North+Cleveland+Avenue+North+Fort+Myers%2C+Florida%2C+33903+United+States",
-"https://bsky.app/profile/montavon.bsky.social",
-"https://facebook.com/montavon4congress",
-"https://instagram.com/MontavonforCongress",
-"https://montavonforcongress.com/",
-"https://montavonforcongress.com/cart",
-"https://montavonforcongress.com/cd17",
-"https://montavonforcongress.com/contribute",
-"https://montavonforcongress.com/events-calendar",
-"https://montavonforcongress.com/events-calendar/marathon-1",
-"https://montavonforcongress.com/events-calendar/marathon-2?format=ical",
-"https://montavonforcongress.com/events-calendar/marathon-4-3n975",
-"https://montavonforcongress.com/marathon",
-"https://montavonforcongress.com/meet",
-"https://montavonforcongress.com/new-dropdown",
-"https://montavonforcongress.com/platform",
-"https://montavonforcongress.com/privacy-policy",
-"https://secure.actblue.com/donate/matthew-montavon-1",
-"https://tiktok.com/@montavon.for.cong",
-"https://youtube.com/@Montavon4Congress/videos"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=14071+north+cleveland+avenue+north+fort+myers%2C+florida%2C+33903+united+states"
+},
+{
+"text": "0",
+"href": "https://www.montavonforcongress.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.montavonforcongress.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.montavonforcongress.com/events-calendar"
+},
+{
+"text": "CD 17",
+"href": "https://www.montavonforcongress.com/cd17"
+},
+{
+"text": "Contact",
+"href": "https://www.montavonforcongress.com/contribute"
+},
+{
+"text": "Contribute",
+"href": "https://www.montavonforcongress.com/#getinvolved"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/matthew-montavon-1"
+},
+{
+"text": "Events",
+"href": "https://www.montavonforcongress.com/events-calendar"
+},
+{
+"text": "Folder: About",
+"href": "https://www.montavonforcongress.com/new-dropdown"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Montavon%E2%80%99s+Marathon%3A+Day+2&dates=20260928T120000Z%2F20260928T220000Z&location=14071+North+Cleveland+Avenue%2C+North+Fort+Myers%2C+Florida%2C+33903%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.montavonforcongress.com/events-calendar/marathon-2?format=ical"
+},
+{
+"text": "Meet Matthew",
+"href": "https://www.montavonforcongress.com/meet"
+},
+{
+"text": "Montavon's Marathon",
+"href": "https://www.montavonforcongress.com/marathon"
+},
+{
+"text": "Next Next September 29 Montavon’s Marathon: Day 3",
+"href": "https://www.montavonforcongress.com/events-calendar/marathon-4-3n975"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.montavonforcongress.com/privacy-policy"
+},
+{
+"text": "Previous Previous September 27 Montavon’s marathon kickoff",
+"href": "https://www.montavonforcongress.com/events-calendar/marathon-1"
+},
+{
+"text": "The Platform",
+"href": "https://www.montavonforcongress.com/platform"
+},
+{
+"text": "[image: Montavon For Congress]",
+"href": "https://www.montavonforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/montavon.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/montavon4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/MontavonforCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@montavon.for.cong"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Montavon4Congress/videos"
+},
+{
+"text": "alison@MontavonforCongress.com",
+"href": "mailto:alison@MontavonforCongress.com"
+}
 ]

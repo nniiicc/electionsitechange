@@ -1,42 +1,186 @@
 [
-"https://davis4nchouse.com/",
-"https://davis4nchouse.com/about",
-"https://davis4nchouse.com/affordable-accessible-healthcare",
-"https://davis4nchouse.com/campaign-issues",
-"https://davis4nchouse.com/contact",
-"https://davis4nchouse.com/disaster-recovery-community-resilience",
-"https://davis4nchouse.com/economy-cost-of-living-working-wages",
-"https://davis4nchouse.com/education-families-opportunity",
-"https://davis4nchouse.com/event/danny-davis-meet-and-greet-at-star-taco",
-"https://davis4nchouse.com/event/fundraising-reception-for-danny-davis-nc-house-district-118",
-"https://davis4nchouse.com/event/meet-and-greet-with-danny-davis-at-the-mailroom-wine-and-beer-lounge",
-"https://davis4nchouse.com/event/meet-danny-davis",
-"https://davis4nchouse.com/event/meet-danny-davis-at-frog-level-brewing",
-"https://davis4nchouse.com/event/meet-danny-davis-at-mad-co-brew-house-marshall-magic-days",
-"https://davis4nchouse.com/event/meet-greet-with-jamie-ager-and-danny-davis",
-"https://davis4nchouse.com/event/meet-our-candidates-at-big-pillow-brewing",
-"https://davis4nchouse.com/event/pizza-postcards",
-"https://davis4nchouse.com/event/walk-talk-with-danny-davis-at-lake-junaluska",
-"https://davis4nchouse.com/events",
-"https://davis4nchouse.com/events/list",
-"https://davis4nchouse.com/events/list?eventDisplay=past&ical=1",
-"https://davis4nchouse.com/events/list?eventDisplay=past&outlook-ical=1",
-"https://davis4nchouse.com/events/month",
-"https://davis4nchouse.com/events/today",
-"https://davis4nchouse.com/news",
-"https://davis4nchouse.com/privacy-policy-2",
-"https://davis4nchouse.com/public-safety-communities-fair-justice",
-"https://davis4nchouse.com/small-business-farms-the-local-economy",
-"https://davis4nchouse.com/volunteer",
-"https://facebook.com/profile.php?id=61584423850859",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fdavis4nchouse.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/davis4nchouse",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fdavis4nchouse.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Davis4NCHouse+Events+Archive+-+Davis4NCHouse",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fdavis4nchouse.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Davis4NCHouse+Events+Archive+-+Davis4NCHouse",
-"https://secure.anedot.com/davis4nchouse/donate",
-"https://tiktok.com/@davis4nchouse",
-"https://wncwebdesign.com/",
-"https://wponetap.com/",
-"https://x.com/davis4nchouse",
-"https://youtube.com/@davis4nchouse"
+{
+"text": "#ago",
+"href": "https://davis4nchouse.com/events/list/"
+},
+{
+"text": "About",
+"href": "https://davis4nchouse.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://davis4nchouse.com/contact/"
+},
+{
+"text": "Danny Davis Meet and Greet At Star Taco",
+"href": "https://davis4nchouse.com/event/danny-davis-meet-and-greet-at-star-taco/"
+},
+{
+"text": "Day",
+"href": "https://davis4nchouse.com/events/today/"
+},
+{
+"text": "Disaster Recovery",
+"href": "https://davis4nchouse.com/disaster-recovery-community-resilience/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/davis4nchouse/donate"
+},
+{
+"text": "Economy",
+"href": "https://davis4nchouse.com/economy-cost-of-living-working-wages/"
+},
+{
+"text": "Education",
+"href": "https://davis4nchouse.com/education-families-opportunity/"
+},
+{
+"text": "Events",
+"href": "https://davis4nchouse.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://davis4nchouse.com/events/list/?eventDisplay=past&ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://davis4nchouse.com/events/list/?eventDisplay=past&outlook-ical=1#038;ical=1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61584423850859"
+},
+{
+"text": "Fundraising Reception for Danny Davis (NC House District 118)",
+"href": "https://davis4nchouse.com/event/fundraising-reception-for-danny-davis-nc-house-district-118/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fdavis4nchouse.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Healthcare",
+"href": "https://davis4nchouse.com/affordable-accessible-healthcare/"
+},
+{
+"text": "Home",
+"href": "https://davis4nchouse.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/davis4nchouse"
+},
+{
+"text": "Issues",
+"href": "https://davis4nchouse.com/campaign-issues/"
+},
+{
+"text": "List",
+"href": "https://davis4nchouse.com/events/list/"
+},
+{
+"text": "Meet & Greet with Jamie Ager and Danny Davis",
+"href": "https://davis4nchouse.com/event/meet-greet-with-jamie-ager-and-danny-davis/"
+},
+{
+"text": "Meet Danny",
+"href": "https://davis4nchouse.com/about/"
+},
+{
+"text": "Meet Danny Davis",
+"href": "https://davis4nchouse.com/event/meet-danny-davis/"
+},
+{
+"text": "Meet Danny Davis at Frog Level Brewing",
+"href": "https://davis4nchouse.com/event/meet-danny-davis-at-frog-level-brewing/"
+},
+{
+"text": "Meet Danny Davis at Mad Co Brew House (Marshall Magic Days)",
+"href": "https://davis4nchouse.com/event/meet-danny-davis-at-mad-co-brew-house-marshall-magic-days/"
+},
+{
+"text": "Meet Our Candidates at Big Pillow Brewing",
+"href": "https://davis4nchouse.com/event/meet-our-candidates-at-big-pillow-brewing/"
+},
+{
+"text": "Meet and Greet with Danny Davis at the mailroom wine and beer lounge",
+"href": "https://davis4nchouse.com/event/meet-and-greet-with-danny-davis-at-the-mailroom-wine-and-beer-lounge/"
+},
+{
+"text": "Month",
+"href": "https://davis4nchouse.com/events/month/"
+},
+{
+"text": "News",
+"href": "https://davis4nchouse.com/news/"
+},
+{
+"text": "Next Events",
+"href": "https://davis4nchouse.com/events/list/"
+},
+{
+"text": "OneTap",
+"href": "https://wponetap.com/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fdavis4nchouse.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Davis4NCHouse+Events+Archive+-+Davis4NCHouse"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fdavis4nchouse.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Davis4NCHouse+Events+Archive+-+Davis4NCHouse"
+},
+{
+"text": "Pizza & Postcards",
+"href": "https://davis4nchouse.com/event/pizza-postcards/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://davis4nchouse.com/privacy-policy-2/"
+},
+{
+"text": "Public Safety",
+"href": "https://davis4nchouse.com/public-safety-communities-fair-justice/"
+},
+{
+"text": "Small Businesses",
+"href": "https://davis4nchouse.com/small-business-farms-the-local-economy/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@davis4nchouse"
+},
+{
+"text": "Volunteer",
+"href": "https://davis4nchouse.com/volunteer/"
+},
+{
+"text": "WNC Web Design",
+"href": "https://wncwebdesign.com"
+},
+{
+"text": "Walk & Talk with Danny Davis at Lake Junaluska",
+"href": "https://davis4nchouse.com/event/walk-talk-with-danny-davis-at-lake-junaluska/"
+},
+{
+"text": "X/Twitter",
+"href": "https://x.com/davis4nchouse"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@davis4nchouse"
+},
+{
+"text": "[image: davis 4 nc house 118]",
+"href": "https://davis4nchouse.com/"
+},
+{
+"text": "[tooltip: Next Events]",
+"href": "https://davis4nchouse.com/events/list/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://davis4nchouse.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

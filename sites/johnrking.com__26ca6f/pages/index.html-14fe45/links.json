@@ -1,4 +1,10 @@
 [
-"https://johnrking.com/privacy.html",
-"https://secure.actblue.com/donate/john-king-1"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/john-king-1"
+},
+{
+"text": "Terms of Service and Privacy Policy",
+"href": "https://johnrking.com/privacy.html"
+}
 ]

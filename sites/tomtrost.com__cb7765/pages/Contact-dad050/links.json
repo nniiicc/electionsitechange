@@ -1,8 +1,34 @@
 [
-"https://facebook.com/profile.php?id=61588932742179",
-"https://secure.winred.com/tom-trost-for-nh/donate",
-"https://secure.winred.com/tom-trost-for-nh/storefront",
-"https://tomtrost.com/",
-"https://tomtrost.com/Contact/Contact",
-"https://x.com/TomTrostNH"
+{
+"text": "@TomTrostNH",
+"href": "https://x.com/TomTrostNH"
+},
+{
+"text": "Contact",
+"href": "https://www.tomtrost.com/Contact/Contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/tom-trost-for-nh/donate"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=61588932742179"
+},
+{
+"text": "Home",
+"href": "https://www.tomtrost.com/"
+},
+{
+"text": "STORE",
+"href": "https://secure.winred.com/tom-trost-for-nh/storefront"
+},
+{
+"text": "[image]",
+"href": "https://www.tomtrost.com/"
+},
+{
+"text": "tom@tomtrost.com",
+"href": "mailto:tom@tomtrost.com"
+}
 ]

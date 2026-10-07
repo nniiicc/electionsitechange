@@ -1,11 +1,74 @@
 [
-"https://facebook.com/Vote-VanWoerkom-830688967113101?notif_id=1508864982626015&notif_t=page_admin",
-"https://secure.squarespace.com/commerce/donate?donatePageId=59ea3a2d8a02c75642cfd51b",
-"https://votevanwoerkom.com/",
-"https://votevanwoerkom.com/contact",
-"https://votevanwoerkom.com/home-1",
-"https://votevanwoerkom.com/issues",
-"https://votevanwoerkom.com/join-the-team",
-"https://votevanwoerkom.com/news",
-"https://votevanwoerkom.com/search"
+{
+"text": "CONTACT",
+"href": "https://www.votevanwoerkom.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.squarespace.com/commerce/donate?donatePageId=59ea3a2d8a02c75642cfd51b"
+},
+{
+"text": "HOME",
+"href": "https://www.votevanwoerkom.com/home-1"
+},
+{
+"text": "Issues",
+"href": "https://www.votevanwoerkom.com/issues"
+},
+{
+"text": "Join the Team",
+"href": "https://www.votevanwoerkom.com/join-the-team"
+},
+{
+"text": "Join the Team →",
+"href": "https://www.votevanwoerkom.com/join-the-team"
+},
+{
+"text": "Read about the issues →",
+"href": "https://www.votevanwoerkom.com/issues"
+},
+{
+"text": "[image: Contribute]",
+"href": "https://secure.squarespace.com/commerce/donate?donatePageId=59ea3a2d8a02c75642cfd51b"
+},
+{
+"text": "[image: Greg VanWoerkom]",
+"href": "https://www.votevanwoerkom.com/"
+},
+{
+"text": "[image: Issues]",
+"href": "https://www.votevanwoerkom.com/issues"
+},
+{
+"text": "[image: Latest News]",
+"href": "https://www.votevanwoerkom.com/news"
+},
+{
+"text": "[no text]",
+"href": "https://secure.squarespace.com/commerce/donate?donatePageId=59ea3a2d8a02c75642cfd51b"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Vote-VanWoerkom-830688967113101/?notif_id=1508864982626015&notif_t=page_admin"
+},
+{
+"text": "[no text]",
+"href": "https://www.votevanwoerkom.com/issues"
+},
+{
+"text": "[no text]",
+"href": "https://www.votevanwoerkom.com/news"
+},
+{
+"text": "[no text]",
+"href": "https://www.votevanwoerkom.com/search"
+},
+{
+"text": "[no text]",
+"href": "mailto:contact@votevanwoerkom.com"
+},
+{
+"text": "greg@votevanwoerkom.com",
+"href": "mailto:greg@votevanwoerkom.com"
+}
 ]

@@ -1,59 +1,278 @@
 [
-"https://act.roycooper.com/",
-"https://bsky.app/profile/roycoopernc.bsky.social",
-"https://facebook.com/roycoopernc",
-"https://flickr.com/photos/cooperfornc",
-"https://instagram.com/roycoopernc",
-"https://jobs.lever.co/roy-cooper",
-"https://roycooper.com/",
-"https://roycooper.com/about",
-"https://roycooper.com/contact",
-"https://roycooper.com/cooper-for-north-carolina-launches-black-leaders-for-roy-coalition",
-"https://roycooper.com/costless",
-"https://roycooper.com/costless/child-care",
-"https://roycooper.com/costless/energy",
-"https://roycooper.com/costless/groceries",
-"https://roycooper.com/costless/health-care",
-"https://roycooper.com/costless/housing",
-"https://roycooper.com/faq",
-"https://roycooper.com/get-involved",
-"https://roycooper.com/icymi-roy-cooper-is-fired-up-about-the-carolina-hurricanes",
-"https://roycooper.com/johnstonian-news-people-not-politics-coopers-make-stuff-cost-less-tour-appears-in-johnston-county",
-"https://roycooper.com/new-video-cooper-campaign-launches-digital-first-video-on-michael-whatley-appointing-convicted-child-sex-predator",
-"https://roycooper.com/press-releases",
-"https://roycooper.com/press-releases/10",
-"https://roycooper.com/press-releases/11",
-"https://roycooper.com/press-releases/12",
-"https://roycooper.com/press-releases/13",
-"https://roycooper.com/press-releases/14",
-"https://roycooper.com/press-releases/15",
-"https://roycooper.com/press-releases/17",
-"https://roycooper.com/press-releases/18",
-"https://roycooper.com/press-releases/19",
-"https://roycooper.com/press-releases/2",
-"https://roycooper.com/press-releases/20",
-"https://roycooper.com/press-releases/21",
-"https://roycooper.com/press-releases/22",
-"https://roycooper.com/press-releases/23",
-"https://roycooper.com/press-releases/24",
-"https://roycooper.com/press-releases/25",
-"https://roycooper.com/press-releases/26",
-"https://roycooper.com/press-releases/27",
-"https://roycooper.com/press-releases/28",
-"https://roycooper.com/press-releases/29",
-"https://roycooper.com/press-releases/3",
-"https://roycooper.com/press-releases/4",
-"https://roycooper.com/press-releases/5",
-"https://roycooper.com/press-releases/6",
-"https://roycooper.com/press-releases/7",
-"https://roycooper.com/press-releases/8",
-"https://roycooper.com/press-releases/9",
-"https://roycooper.com/privacypolicy",
-"https://roycooper.com/roy-cooper-continues-make-stuff-cost-less-tour-in-smithfield",
-"https://secure.actblue.com/donate/cvf_web",
-"https://store.roycooper.com/",
-"https://threads.com/@roycoopernc",
-"https://tiktok.com/@roycoopernc",
-"https://x.com/RoyCooperNC",
-"https://x.com/roycoopernc"
+{
+"text": "Click here.",
+"href": "https://act.roycooper.com"
+},
+{
+"text": "Contact Us",
+"href": "https://roycooper.com/contact/"
+},
+{
+"text": "Cooper for North Carolina Launches “Black Leaders for Roy” Coalition",
+"href": "https://roycooper.com/cooper-for-north-carolina-launches-black-leaders-for-roy-coalition/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cvf_web"
+},
+{
+"text": "Donate to become a founding member of our campaign now",
+"href": "https://secure.actblue.com/donate/cvf_web"
+},
+{
+"text": "FAQ",
+"href": "https://roycooper.com/faq/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/roycoopernc"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/roycoopernc"
+},
+{
+"text": "Flickr",
+"href": "https://www.flickr.com/photos/cooperfornc/"
+},
+{
+"text": "Get Involved",
+"href": "https://roycooper.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://roycooper.com/"
+},
+{
+"text": "ICYMI: Roy Cooper Is Fired Up About The Carolina Hurricanes",
+"href": "https://roycooper.com/icymi-roy-cooper-is-fired-up-about-the-carolina-hurricanes/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/roycoopernc"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/roycoopernc/"
+},
+{
+"text": "JOHNSTONIAN NEWS: “People, Not Politics: Cooper’s ‘Make Stuff Cost Less’ Tour Appears in Johnston County”",
+"href": "https://roycooper.com/johnstonian-news-people-not-politics-coopers-make-stuff-cost-less-tour-appears-in-johnston-county/"
+},
+{
+"text": "Jobs",
+"href": "https://jobs.lever.co/roy-cooper"
+},
+{
+"text": "Lowering Energy & Utility Costs",
+"href": "https://roycooper.com/costless/energy/"
+},
+{
+"text": "Lowering Housing Costs",
+"href": "https://roycooper.com/costless/housing/"
+},
+{
+"text": "Lowering the Cost of Food & Groceries",
+"href": "https://roycooper.com/costless/groceries/"
+},
+{
+"text": "Make Stuff Cost Less",
+"href": "https://roycooper.com/costless/"
+},
+{
+"text": "Making Child Care Affordable",
+"href": "https://roycooper.com/costless/child-care/"
+},
+{
+"text": "Making Health Care Affordable",
+"href": "https://roycooper.com/costless/health-care/"
+},
+{
+"text": "Meet Roy",
+"href": "https://roycooper.com/about/"
+},
+{
+"text": "NEW VIDEO: Cooper Campaign Launches Digital-First Video On Michael Whatley Appointing Convicted Child Sex Predator",
+"href": "https://roycooper.com/new-video-cooper-campaign-launches-digital-first-video-on-michael-whatley-appointing-convicted-child-sex-predator/"
+},
+{
+"text": "Page1",
+"href": "https://roycooper.com/press-releases/"
+},
+{
+"text": "Page10",
+"href": "https://roycooper.com/press-releases/10/"
+},
+{
+"text": "Page11",
+"href": "https://roycooper.com/press-releases/11/"
+},
+{
+"text": "Page12",
+"href": "https://roycooper.com/press-releases/12/"
+},
+{
+"text": "Page13",
+"href": "https://roycooper.com/press-releases/13/"
+},
+{
+"text": "Page14",
+"href": "https://roycooper.com/press-releases/14/"
+},
+{
+"text": "Page15",
+"href": "https://roycooper.com/press-releases/15/"
+},
+{
+"text": "Page17",
+"href": "https://roycooper.com/press-releases/17/"
+},
+{
+"text": "Page18",
+"href": "https://roycooper.com/press-releases/18/"
+},
+{
+"text": "Page19",
+"href": "https://roycooper.com/press-releases/19/"
+},
+{
+"text": "Page2",
+"href": "https://roycooper.com/press-releases/2/"
+},
+{
+"text": "Page20",
+"href": "https://roycooper.com/press-releases/20/"
+},
+{
+"text": "Page21",
+"href": "https://roycooper.com/press-releases/21/"
+},
+{
+"text": "Page22",
+"href": "https://roycooper.com/press-releases/22/"
+},
+{
+"text": "Page23",
+"href": "https://roycooper.com/press-releases/23/"
+},
+{
+"text": "Page24",
+"href": "https://roycooper.com/press-releases/24/"
+},
+{
+"text": "Page25",
+"href": "https://roycooper.com/press-releases/25/"
+},
+{
+"text": "Page26",
+"href": "https://roycooper.com/press-releases/26/"
+},
+{
+"text": "Page27",
+"href": "https://roycooper.com/press-releases/27/"
+},
+{
+"text": "Page28",
+"href": "https://roycooper.com/press-releases/28/"
+},
+{
+"text": "Page29",
+"href": "https://roycooper.com/press-releases/29/"
+},
+{
+"text": "Page3",
+"href": "https://roycooper.com/press-releases/3/"
+},
+{
+"text": "Page4",
+"href": "https://roycooper.com/press-releases/4/"
+},
+{
+"text": "Page5",
+"href": "https://roycooper.com/press-releases/5/"
+},
+{
+"text": "Page6",
+"href": "https://roycooper.com/press-releases/6/"
+},
+{
+"text": "Page7",
+"href": "https://roycooper.com/press-releases/7/"
+},
+{
+"text": "Page8",
+"href": "https://roycooper.com/press-releases/8/"
+},
+{
+"text": "Page9",
+"href": "https://roycooper.com/press-releases/9/"
+},
+{
+"text": "Press Releases",
+"href": "https://roycooper.com/press-releases/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://roycooper.com/privacypolicy/"
+},
+{
+"text": "Read More",
+"href": "https://roycooper.com/cooper-for-north-carolina-launches-black-leaders-for-roy-coalition/"
+},
+{
+"text": "Read More",
+"href": "https://roycooper.com/icymi-roy-cooper-is-fired-up-about-the-carolina-hurricanes/"
+},
+{
+"text": "Read More",
+"href": "https://roycooper.com/johnstonian-news-people-not-politics-coopers-make-stuff-cost-less-tour-appears-in-johnston-county/"
+},
+{
+"text": "Read More",
+"href": "https://roycooper.com/new-video-cooper-campaign-launches-digital-first-video-on-michael-whatley-appointing-convicted-child-sex-predator/"
+},
+{
+"text": "Read More",
+"href": "https://roycooper.com/roy-cooper-continues-make-stuff-cost-less-tour-in-smithfield/"
+},
+{
+"text": "Roy Cooper Continues “Make Stuff Cost Less” Tour in Smithfield",
+"href": "https://roycooper.com/roy-cooper-continues-make-stuff-cost-less-tour-in-smithfield/"
+},
+{
+"text": "Roy Cooper for North Carolina",
+"href": "https://roycooper.com"
+},
+{
+"text": "Store",
+"href": "https://store.roycooper.com/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@roycoopernc"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@roycoopernc"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/RoyCooperNC"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/roycoopernc"
+},
+{
+"text": "[image: Roy Cooper for North Carolina]",
+"href": "https://roycooper.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/roycoopernc.bsky.social"
+},
+{
+"text": "here.",
+"href": "https://roycooper.com/privacypolicy/"
+}
 ]

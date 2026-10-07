@@ -1,5 +1,4 @@
-Public Safety
-Public safety is one of the most important responsibilities of all levels of government.
+Heather Matson for Iowa Senate Open Menu Meet Heather Issues Endorsements Volunteer Contact Volunteer Donate Public Safety Public safety is one of the most important responsibilities of all levels of government.
 From our local police and sheriff’s departments to the Iowa State Patrol and National Guard, protecting the communities they are sworn to serve is critical as everyone deserves to feel and be safe, welcomed, and respected in Iowa.
 Across the state of Iowa, there are challenges facing each community.
 I have appreciated the work of the Ankeny Police Department on creating and fostering a community engagement team to build trusted relationships and educational opportunities with residents.
@@ -11,3 +10,6 @@ As we have seen a rise in gun violence across our community, state, and country,
 Common sense gun laws are also a way to support our police officers from dangerous, highly-armed confrontations.
 All rights come with responsibilities, including universal background checks, permits and safety training, and limits on high-capacity magazines.
 I also support efforts for safe storage and red flag laws, with strong due process procedures, to ensure that guns don’t end up in the hands of those who intend to do harm to themselves or others.
+Issues Voting Rights Transparency and Accountability Reproductive Freedom and Maternal Health Public Safety Health Care, Rising Cancer Rates, and Fixing Medicaid Economic Development, Workforce, and Lowering Costs for Iowans Clean Water, Conservation, and Climate Education Back to issues page Next: Reproductive Freedom and Maternal Health Follow Heather on Facebook Follow Heather on Twitter Follow Heather on Instagram info@matsonforiowa.com | (515) 201-1877 © # Heather Matson for Iowa Senate.
+All rights reserved.
+Privacy Policy | Website built in Iowa by OVMM Paid for by Heather Matson for Iowa.

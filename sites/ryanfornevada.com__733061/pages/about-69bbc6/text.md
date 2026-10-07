@@ -1,5 +1,4 @@
-Skip navigation menu
-A fierce community advocate, small business owner, and nonprofit founder, Ryan Hampton believes in the power of people to change our community for the better.
+Skip navigation menu About Issues Volunteer Events Endorsements Shop Contact Donate About Ryan About Issues Volunteer Events Endorsements Shop Contact Donate About Ryan A fierce community advocate, small business owner, and nonprofit founder, Ryan Hampton believes in the power of people to change our community for the better.
 No matter our social or economic status—we all need good jobs, quality education, safe communities, and affordable healthcare.
 Ryan has always rolled up his sleeves to fight for what’s right, and he's ready to champion solutions that serve working-class families.
 Home truly means Nevada for Ryan.
@@ -8,7 +7,7 @@ It’s also where he started a nonprofit organization advocating for people with
 Ryan knows firsthand the challenges that families face around kitchen tables every night.
 He and his youngest sister were raised by his mother, a public-school teacher who often took on second or third jobs to support their family.
 She would come home at 10pm, exhausted from working night school after teaching all day.
-Year-round, she kept a sign over the mantle with one word: Believe.
+Year-round, she kept a sign over the mantle with one word: Believe .
 Ryan sat next to his mother at the kitchen table while she juggled the bills—her, balancing the checkbook and him, diligently finishing his homework after making sure his little sister got hers squared away, too.
 At that table, Ryan learned that it isn’t what you have that matters.
 It’s what you care about that's priceless.
@@ -37,10 +36,10 @@ He founded Mobilize Recovery, which is now the largest and most influential reco
 Within three years, he met thousands of people who shared their experiences about how addiction impacted their communities.
 He traveled across the United States to talk with families and people, learning about the gaps in our systems and how we can fix them.
 He was inspired to work for change at a higher level by lifting these many voices.
-Ryan’s belief in big ideas helped him lead a team of advocates around the country, who successfully championed hundreds of pieces of legislation to offer addiction support services.
+Ryan’s belief in big ideas helped him lead a team of advocates around the country , who successfully championed hundreds of pieces of legislation to offer addiction support services.
 And after the tragic death of one of his closest friends in 2017, he helped to bring corporations and nonprofits together to offer 1 million lifesaving units of the overdose medication Naloxone in 24 states at zero cost.
 In 2018, Ryan connected online with a mother whose son died of an overdose.
-They put their heads together to organize a large-scale action at Purdue Pharma, the makers of OxyContin.
+They put their heads together to organize a large-scale action at Purdue Pharma , the makers of OxyContin.
 Together, they organized over 500 people outside of Purdue to demand accountability, share their stories, push for resources, and stand in solidarity with survivors.
 As a prominent face and voice of recovery advocacy, Ryan kept pushing forward—without compromising his values.
 He put community first, trusting that direct action and policy could go hand in hand.
@@ -59,3 +58,4 @@ Creating change means balancing Nevada’s checkbook so there’s enough to go a
 Together, we can address the challenges that impact our community instead of sweeping people under the rug.
 Ryan’s expertise, caring, and deep commitment to community comes from more than a decade of experience.
 And he has the grit, know how, and passion to get things done—for us.
+Privacy Policy MEDIA Paid for and approved by Ryan Hampton Campaign Committee (Democrat for NV Assembly, District 9) You need to enable JavaScript to run this app.

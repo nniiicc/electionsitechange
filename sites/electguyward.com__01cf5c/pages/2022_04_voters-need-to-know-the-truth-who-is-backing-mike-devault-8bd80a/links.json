@@ -1,29 +1,110 @@
 [
-"https://addtoany.com/add_to/email?linkurl=https%3A%2F%2Felectguyward.com%2F2022%2F04%2Fvoters-need-to-know-the-truth-who-is-backing-mike-devault%2F&linkname=Voters+need+to+know+the+Truth%21+Who+is+backing+Mike+DeVault%3F",
-"https://addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Felectguyward.com%2F2022%2F04%2Fvoters-need-to-know-the-truth-who-is-backing-mike-devault%2F&linkname=Voters+need+to+know+the+Truth%21+Who+is+backing+Mike+DeVault%3F",
-"https://addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Felectguyward.com%2F2022%2F04%2Fvoters-need-to-know-the-truth-who-is-backing-mike-devault%2F&linkname=Voters+need+to+know+the+Truth%21+Who+is+backing+Mike+DeVault%3F",
-"https://addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Felectguyward.com%2F2022%2F04%2Fvoters-need-to-know-the-truth-who-is-backing-mike-devault%2F&linkname=Voters+need+to+know+the+Truth%21+Who+is+backing+Mike+DeVault%3F",
-"https://addtoany.com/share",
-"https://amazon.com/Trump-Time-Journal-Americas-Plague/dp/1737478501/ref=sr_1_1?crid=2O6SQY32QHLSA&keywords=in+trump+time+peter+navarro+book&qid=1650509188&sprefix=in+trump+ti%2Caps%2C106&sr=8-1",
-"https://cnn.com/2023/06/29/politics/koch-network-fundraising-trump-ads/index.html",
-"https://electguyward.com/",
-"https://electguyward.com/category/news",
-"https://electguyward.com/category/news/media-mentions",
-"https://electguyward.com/contact",
-"https://electguyward.com/endorsements",
-"https://electguyward.com/issues",
-"https://electguyward.com/meet-guy",
-"https://electguyward.com/updates",
-"https://electguyward.com/volunteer",
-"https://electguyward.com/wp/feed",
-"https://facebook.com/GuyWardHouseofDelegates",
-"https://foxbusiness.com/politics/americans-for-prosperity-funds-congress-election",
-"https://foxnews.com/politics/billionaire-koch-brothers-wont-support-trump-in-2020-snubbing-his-bid-for-second-time",
-"https://nationalreview.com/corner/steve-bannon-koch-brothers-feud-amusing",
-"https://newsweek.com/steve-bannon-tells-koch-brothers-get-program-gop-fighting-ramps-ahead-1047752",
-"https://politifact.com/personalities/americans-prosperity",
-"https://secure.winred.com/committee-to-elect-guy-ward-214b4122/donate",
-"https://theguardian.com/us-news/2018/jul/31/donald-trump-koch-brothers-total-joke-north-dakota-heitkamp",
-"https://time.com/5353740/trump-koch-brothers",
-"https://washingtonexaminer.com/news/koch-network-willing-to-back-democrats-in-2020"
+{
+"text": "Contact",
+"href": "https://electguyward.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-guy-ward-214b4122/donate#new_tab"
+},
+{
+"text": "Endorsements",
+"href": "https://electguyward.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/GuyWardHouseofDelegates/"
+},
+{
+"text": "Fox Business News",
+"href": "https://www.foxbusiness.com/politics/americans-for-prosperity-funds-congress-election"
+},
+{
+"text": "Fox News",
+"href": "https://www.foxnews.com/politics/billionaire-koch-brothers-wont-support-trump-in-2020-snubbing-his-bid-for-second-time"
+},
+{
+"text": "In Trump Time",
+"href": "https://www.amazon.com/Trump-Time-Journal-Americas-Plague/dp/1737478501/ref=sr_1_1?crid=2O6SQY32QHLSA&keywords=in+trump+time+peter+navarro+book&qid=1650509188&sprefix=in+trump+ti%2Caps%2C106&sr=8-1"
+},
+{
+"text": "Issues",
+"href": "https://electguyward.com/issues/"
+},
+{
+"text": "Media Mentions",
+"href": "https://electguyward.com/category/news/media-mentions/"
+},
+{
+"text": "Meet Guy",
+"href": "https://electguyward.com/meet-guy/"
+},
+{
+"text": "News",
+"href": "https://electguyward.com/category/news/"
+},
+{
+"text": "PolitiFact",
+"href": "https://www.politifact.com/personalities/americans-prosperity/"
+},
+{
+"text": "RSS",
+"href": "https://electguyward.com/wp/feed"
+},
+{
+"text": "Source National Review",
+"href": "https://www.nationalreview.com/corner/steve-bannon-koch-brothers-feud-amusing/"
+},
+{
+"text": "Source Newsweek",
+"href": "https://www.newsweek.com/steve-bannon-tells-koch-brothers-get-program-gop-fighting-ramps-ahead-1047752"
+},
+{
+"text": "The Guadian",
+"href": "https://www.theguardian.com/us-news/2018/jul/31/donald-trump-koch-brothers-total-joke-north-dakota-heitkamp"
+},
+{
+"text": "Trump tweeted in 2018 when they attacked his trade policies",
+"href": "https://time.com/5353740/trump-koch-brothers/"
+},
+{
+"text": "Updates",
+"href": "https://electguyward.com/updates/"
+},
+{
+"text": "Volunteer",
+"href": "https://electguyward.com/volunteer/"
+},
+{
+"text": "[image: Guy Ward for House of Delegates | District 74]",
+"href": "https://electguyward.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.addtoany.com/share"
+},
+{
+"text": "[tooltip: Email]",
+"href": "https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Felectguyward.com%2F2022%2F04%2Fvoters-need-to-know-the-truth-who-is-backing-mike-devault%2F&linkname=Voters+need+to+know+the+Truth%21+Who+is+backing+Mike+DeVault%3F"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Felectguyward.com%2F2022%2F04%2Fvoters-need-to-know-the-truth-who-is-backing-mike-devault%2F&linkname=Voters+need+to+know+the+Truth%21+Who+is+backing+Mike+DeVault%3F"
+},
+{
+"text": "[tooltip: LinkedIn]",
+"href": "https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Felectguyward.com%2F2022%2F04%2Fvoters-need-to-know-the-truth-who-is-backing-mike-devault%2F&linkname=Voters+need+to+know+the+Truth%21+Who+is+backing+Mike+DeVault%3F"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Felectguyward.com%2F2022%2F04%2Fvoters-need-to-know-the-truth-who-is-backing-mike-devault%2F&linkname=Voters+need+to+know+the+Truth%21+Who+is+backing+Mike+DeVault%3F"
+},
+{
+"text": "raised over $# million",
+"href": "https://www.cnn.com/2023/06/29/politics/koch-network-fundraising-trump-ads/index.html"
+},
+{
+"text": "willing to back Democratic lawmakers",
+"href": "https://www.washingtonexaminer.com/news/koch-network-willing-to-back-democrats-in-2020"
+}
 ]

@@ -1,9 +1,7 @@
-FOR IMMEDIATE RELEASE: March 8, 2024
-CONTACT: State Rep.
-Dave Severin – [email protected]
-Dave Severin Endorsed by Several Jefferson County and Mt.
-Vernon Officials
-MT.
+Skip to content State Representative Dave Severin Paid for by Friends of Dave Severin Menu Meet Dave Photos News Volunteer Facebook Donate Images Severin Endorsed by Several Jefferson County and Mt.
+Vernon Officials https://daveseverin.com/wp-content/uploads/2024/03/20240308_134219.mp4 FOR IMMEDIATE RELEASE: March 8, 2024 CONTACT: State Rep.
+Dave Severin – [email protected] Dave Severin Endorsed by Several Jefferson County and Mt.
+Vernon Officials MT.
 VERNON – State Rep.
 Dave Severin was joined by ten elected officials from Jefferson County and the city of Mt.
 Vernon on Friday afternoon to announce endorsements from the officials in his race for re-election as 116th district State Representative.
@@ -17,4 +15,4 @@ The press conference was held on Friday, March 8, 2024, at the Mt.
 Vernon Outland Airport.
 The Republican Primary Election takes place on Tuesday, March 19, 2024.
 The 116th District contains all or parts of Edwards, Franklin, Hamilton, Jefferson, Marion, Wabash, Washington, Wayne, and White Counties.
-###
+### Author Matt Eddy Posted on March 8, 2024 March 9, 2024 Format Image Meet Dave Photos News Volunteer Facebook Donate State Representative Dave Severin Proudly powered by WordPress

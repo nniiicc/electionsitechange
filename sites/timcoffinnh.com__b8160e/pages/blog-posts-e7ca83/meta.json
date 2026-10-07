@@ -1,9 +1,9 @@
 {
  "description": "Explore timely blog posts from Friends of Tim Coffin, discussing politics and the Tim Coffin campaign. Subscribe for updates!",
  "final_url": "https://timcoffinnh.com/blog-posts",
- "paid_for_by": null,
+ "fingerprint": "2a226c6ec3b572ef55218c310f3461e416ef0b90",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Blog Posts",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

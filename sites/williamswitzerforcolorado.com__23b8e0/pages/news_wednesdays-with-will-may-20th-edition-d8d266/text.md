@@ -1,5 +1,4 @@
-Zealous Zookeepers (A Child’s Business Venture)
-The time is now upon us when troves of children are let out of school, and summer officially begins.
+Home My Story Public Policy Goals News Connect Get Involved Join an Event Contribute News / Wednesdays With Will (May 20th edition) 20 May Wednesday, 11:30 AM · 2026 Wednesdays With Will (May 20th edition) Zealous Zookeepers (A Child’s Business Venture) The time is now upon us when troves of children are let out of school, and summer officially begins.
 As we usher in summertime, I’m reminded of my school days of youth and the excitement that accompanied the feeling of freedom.
 As a young boy, I couldn’t wait for the end of the school year.
 It meant summer vacations, long days outside, and endless time with friends.
@@ -23,5 +22,4 @@ Instead, it will reflect the kind of leadership and community-centered approach 
 Join us as we kick off both summer and our campaign on Saturday, May 30th, at TROPITAI DELIGHTS.
 Consider this your official invitation, even if we haven’t met yet.
 Come enjoy an afternoon of conversation, community, and celebration for the future of our district.
-Hope to see you there next week!
-— William Switzer
+Hope to see you there next week! — William Switzer Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

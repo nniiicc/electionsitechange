@@ -1,12 +1,54 @@
 [
-"https://facebook.com/reelectjohnlovick",
-"https://instagram.com/johnlovick44th",
-"https://john-lovick.org/",
-"https://john-lovick.org/about",
-"https://john-lovick.org/cart",
-"https://john-lovick.org/endorsements",
-"https://john-lovick.org/getinvolved",
-"https://john-lovick.org/issues",
-"https://secure.actblue.com/donate/lovick",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.john-lovick.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.john-lovick.org/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lovick"
+},
+{
+"text": "Endorsements",
+"href": "https://www.john-lovick.org/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/reelectjohnlovick/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.john-lovick.org/getinvolved"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/johnlovick44th/"
+},
+{
+"text": "Issues",
+"href": "https://www.john-lovick.org/issues"
+},
+{
+"text": "JohnLovick@frontier.com",
+"href": "mailto:JohnLovick@frontier.com"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: john-lovick.org]",
+"href": "https://www.john-lovick.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/reelectjohnlovick/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/johnlovick44th/"
+}
 ]

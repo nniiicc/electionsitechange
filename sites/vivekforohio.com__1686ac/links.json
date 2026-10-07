@@ -1,38 +1,198 @@
 [
-"https://facebook.com/VivekGRamaswamy",
-"https://instagram.com/vivekgramaswamy",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?amount=100&web_id=vivekforohio_home_donatebar100",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?amount=25&web_id=vivekforohio_home_donatebar25",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?amount=5&web_id=vivekforohio_home_donatebar5",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?amount=50&web_id=vivekforohio_home_donatebar50",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_home_donate-popup",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_home_donatebarother",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_home_footer",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_home_navbar",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_home_navbar-mobile",
-"https://vivekforohio.com/",
-"https://vivekforohio.com/actons-debate-rebuff-proves-she-doesnt-have-the-grit-to-lead-ohio",
-"https://vivekforohio.com/contact-us",
-"https://vivekforohio.com/donate-using-crypto",
-"https://vivekforohio.com/endorsements",
-"https://vivekforohio.com/event/fulton-rally",
-"https://vivekforohio.com/event/redhawks",
-"https://vivekforohio.com/event/sportsmen",
-"https://vivekforohio.com/events",
-"https://vivekforohio.com/get-involved",
-"https://vivekforohio.com/latest-news",
-"https://vivekforohio.com/media-kit",
-"https://vivekforohio.com/meet-rob",
-"https://vivekforohio.com/meet-vivek",
-"https://vivekforohio.com/ohio-gas-tax-holiday-will-give-families-relief-at-the-pump-opinion",
-"https://vivekforohio.com/ohio-leaders-applaud-republicans-decisive-action-on-gas-tax-suspension",
-"https://vivekforohio.com/press-releases",
-"https://vivekforohio.com/privacy",
-"https://vivekforohio.com/store",
-"https://vivekforohio.com/terms",
-"https://vivekforohio.com/the-plan",
-"https://vivekforohio.com/vivek-and-ohio-gop-leaders-unveil-gas-tax-relief-plan",
-"https://vivekforohio.com/war-room",
-"https://x.com/VivekGRamaswamy",
-"https://youtube.com/@VivekGRamaswamy"
+{
+"text": "$100",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?amount=100&web_id=vivekforohio_home_donatebar100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?amount=25&web_id=vivekforohio_home_donatebar25"
+},
+{
+"text": "$5",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?amount=5&web_id=vivekforohio_home_donatebar5"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?amount=50&web_id=vivekforohio_home_donatebar50"
+},
+{
+"text": "Contact Us",
+"href": "https://vivekforohio.com/contact-us/"
+},
+{
+"text": "Credit Card",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_home_donate-popup"
+},
+{
+"text": "Crush Crime:Protect Our Neighborhoods & Revive Our Cities[image]",
+"href": "https://vivekforohio.com/the-plan#crush-crime"
+},
+{
+"text": "Crypto",
+"href": "https://vivekforohio.com/donate-using-crypto/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_home_footer"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_home_navbar"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_home_navbar-mobile"
+},
+{
+"text": "Donate Using Crypto",
+"href": "https://vivekforohio.com/donate-using-crypto/"
+},
+{
+"text": "Educational Achievement:World Class Education For Your Kids[image]",
+"href": "https://vivekforohio.com/the-plan#education"
+},
+{
+"text": "Endorsements",
+"href": "https://vivekforohio.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://vivekforohio.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://vivekforohio.com/get-involved/"
+},
+{
+"text": "HERE",
+"href": "https://vivekforohio.com/privacy/"
+},
+{
+"text": "HERE",
+"href": "https://vivekforohio.com/terms/"
+},
+{
+"text": "Home",
+"href": "https://vivekforohio.com/"
+},
+{
+"text": "Latest News",
+"href": "https://vivekforohio.com/latest-news/"
+},
+{
+"text": "Learn More",
+"href": "https://vivekforohio.com/meet-vivek/"
+},
+{
+"text": "Media Kit",
+"href": "https://vivekforohio.com/media-kit/"
+},
+{
+"text": "Meet Rob",
+"href": "https://vivekforohio.com/meet-rob/"
+},
+{
+"text": "Meet Vivek",
+"href": "https://vivekforohio.com/meet-vivek/"
+},
+{
+"text": "More Events",
+"href": "https://vivekforohio.com/events/"
+},
+{
+"text": "October 1, 2026Press ReleaseOhio Leaders Applaud Republicans’ Decisive Action on Gas Tax Suspension",
+"href": "https://vivekforohio.com/ohio-leaders-applaud-republicans-decisive-action-on-gas-tax-suspension/"
+},
+{
+"text": "One Ohio:Unity Over Division[image]",
+"href": "https://vivekforohio.com/the-plan#unity"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_home_donatebarother"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:press@vivekforohio.com"
+},
+{
+"text": "Press Releases",
+"href": "https://vivekforohio.com/press-releases/"
+},
+{
+"text": "Put More Money in Your Pocket: Lower Taxes, Lower Energy Bills, Greater Opportunity[image]",
+"href": "https://vivekforohio.com/the-plan#lower-taxes"
+},
+{
+"text": "Read more",
+"href": "https://vivekforohio.com/latest-news/"
+},
+{
+"text": "September 19, 2026Latest NewsActon’s debate rebuff proves she doesn’t have the grit to lead Ohio",
+"href": "https://vivekforohio.com/actons-debate-rebuff-proves-she-doesnt-have-the-grit-to-lead-ohio/"
+},
+{
+"text": "September 21, 2026Press ReleaseVivek and Ohio GOP Leaders Unveil Gas Tax Relief Plan",
+"href": "https://vivekforohio.com/vivek-and-ohio-gop-leaders-unveil-gas-tax-relief-plan/"
+},
+{
+"text": "September 28, 2026Latest NewsOhio gas tax holiday will give families relief at the pump | Opinion",
+"href": "https://vivekforohio.com/ohio-gas-tax-holiday-will-give-families-relief-at-the-pump-opinion/"
+},
+{
+"text": "Team Store",
+"href": "https://vivekforohio.com/store/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://vivekforohio.com/terms/"
+},
+{
+"text": "The Plan",
+"href": "https://vivekforohio.com/the-plan/"
+},
+{
+"text": "View Event",
+"href": "https://vivekforohio.com/event/redhawks/"
+},
+{
+"text": "View Event",
+"href": "https://vivekforohio.com/event/sportsmen/"
+},
+{
+"text": "View More",
+"href": "https://vivekforohio.com/war-room/"
+},
+{
+"text": "War Room",
+"href": "https://vivekforohio.com/war-room/"
+},
+{
+"text": "[image: Governor]",
+"href": "https://vivekforohio.com"
+},
+{
+"text": "[image: Vivek for Ohio]",
+"href": "https://vivekforohio.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VivekGRamaswamy"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vivekgramaswamy/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@VivekGRamaswamy"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VivekGRamaswamy"
+},
+{
+"text": "privacy policy",
+"href": "https://vivekforohio.com/privacy/"
+}
 ]

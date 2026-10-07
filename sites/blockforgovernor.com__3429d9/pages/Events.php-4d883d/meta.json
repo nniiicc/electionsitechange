@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://blockforgovernor.com/Events.php",
- "paid_for_by": null,
+ "fingerprint": "38a8f32c5d4036fab16bd317502d00cc451f121e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Ken Block Events",
  "years_mentioned": [
   "2026"

@@ -1,41 +1,190 @@
 [
-"https://bsky.app/profile/juliekelzerformn.bsky.social",
-"https://campaignpartner.com/",
-"https://facebook.com/Kelzer4MN17Senate",
-"https://instagram.com/juliekelzer4mnsenate",
-"https://juliekelzer4mnsenate.com/",
-"https://juliekelzer4mnsenate.com/campaign-gallery",
-"https://juliekelzer4mnsenate.com/contact",
-"https://juliekelzer4mnsenate.com/contribute",
-"https://juliekelzer4mnsenate.com/contribute?amount=10",
-"https://juliekelzer4mnsenate.com/contribute?amount=100",
-"https://juliekelzer4mnsenate.com/contribute?amount=1000",
-"https://juliekelzer4mnsenate.com/contribute?amount=25",
-"https://juliekelzer4mnsenate.com/contribute?amount=250",
-"https://juliekelzer4mnsenate.com/contribute?amount=50",
-"https://juliekelzer4mnsenate.com/contribute?amount=500",
-"https://juliekelzer4mnsenate.com/contribute?amount=75",
-"https://juliekelzer4mnsenate.com/faq",
-"https://juliekelzer4mnsenate.com/home",
-"https://juliekelzer4mnsenate.com/issues",
-"https://juliekelzer4mnsenate.com/issues/Transparency-Accountability",
-"https://juliekelzer4mnsenate.com/issues/affordability",
-"https://juliekelzer4mnsenate.com/issues/business",
-"https://juliekelzer4mnsenate.com/issues/education",
-"https://juliekelzer4mnsenate.com/issues/healthcare",
-"https://juliekelzer4mnsenate.com/issues/policecrime",
-"https://juliekelzer4mnsenate.com/make-endorsement",
-"https://juliekelzer4mnsenate.com/meet_julie",
-"https://juliekelzer4mnsenate.com/news",
-"https://juliekelzer4mnsenate.com/privacy-policy",
-"https://juliekelzer4mnsenate.com/view-endorsements",
-"https://juliekelzer4mnsenate.com/volunteer",
-"https://juliekelzer4mnsenate.com/vote-2",
-"https://juliekelzer4mnsenate.com/yard-sign",
-"https://mobilize.us/kelzer-for-mn-senatedfl",
-"https://secure.actblue.com/donate/julie-kelzer",
-"https://tiktok.com/@julie_kelzer_for_mn",
-"https://x.com/julie_for_mn",
-"https://youtube.com/channel/UCnc8fRtE3wAgn_rk7ss_g",
-"https://youtube.com/watch?v=okEdnCdPZbc"
+{
+"text": "$#",
+"href": "https://juliekelzer4mnsenate.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://juliekelzer4mnsenate.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://juliekelzer4mnsenate.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://juliekelzer4mnsenate.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://juliekelzer4mnsenate.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://juliekelzer4mnsenate.com/contribute?amount=500"
+},
+{
+"text": "$#",
+"href": "https://juliekelzer4mnsenate.com/contribute?amount=75"
+},
+{
+"text": "$1000",
+"href": "https://juliekelzer4mnsenate.com/contribute?amount=1000"
+},
+{
+"text": "AFFORDABILITY",
+"href": "https://www.juliekelzer4mnsenate.com/issues/affordability"
+},
+{
+"text": "BUSINESS",
+"href": "https://www.juliekelzer4mnsenate.com/issues/business"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Claim Yours Here",
+"href": "https://www.juliekelzer4mnsenate.com/yard-sign"
+},
+{
+"text": "Contact",
+"href": "https://juliekelzer4mnsenate.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://juliekelzer4mnsenate.com/contribute"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/julie-kelzer"
+},
+{
+"text": "EDUCATION",
+"href": "https://www.juliekelzer4mnsenate.com/issues/education"
+},
+{
+"text": "Endorsements",
+"href": "https://juliekelzer4mnsenate.com/view-endorsements"
+},
+{
+"text": "Event Photos",
+"href": "https://juliekelzer4mnsenate.com/campaign-gallery"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/kelzer-for-mn-senatedfl/"
+},
+{
+"text": "HEALTHCARE",
+"href": "https://www.juliekelzer4mnsenate.com/issues/healthcare"
+},
+{
+"text": "Home",
+"href": "https://juliekelzer4mnsenate.com/home"
+},
+{
+"text": "Issues",
+"href": "https://juliekelzer4mnsenate.com/issues"
+},
+{
+"text": "Make Endorsement",
+"href": "https://juliekelzer4mnsenate.com/make-endorsement"
+},
+{
+"text": "Media/News",
+"href": "https://juliekelzer4mnsenate.com/news"
+},
+{
+"text": "Meet Julie",
+"href": "https://juliekelzer4mnsenate.com/meet_julie"
+},
+{
+"text": "Other",
+"href": "https://juliekelzer4mnsenate.com/contribute"
+},
+{
+"text": "PUBLIC SAFETY",
+"href": "https://www.juliekelzer4mnsenate.com/issues/policecrime"
+},
+{
+"text": "Privacy Policy",
+"href": "https://juliekelzer4mnsenate.com/privacy-policy"
+},
+{
+"text": "Q&A",
+"href": "https://juliekelzer4mnsenate.com/faq"
+},
+{
+"text": "READ MORE",
+"href": "https://www.juliekelzer4mnsenate.com/issues/Transparency-Accountability"
+},
+{
+"text": "READ MORE",
+"href": "https://www.juliekelzer4mnsenate.com/issues/affordability"
+},
+{
+"text": "READ MORE",
+"href": "https://www.juliekelzer4mnsenate.com/issues/business"
+},
+{
+"text": "READ MORE",
+"href": "https://www.juliekelzer4mnsenate.com/issues/education"
+},
+{
+"text": "READ MORE",
+"href": "https://www.juliekelzer4mnsenate.com/issues/healthcare"
+},
+{
+"text": "READ MORE",
+"href": "https://www.juliekelzer4mnsenate.com/issues/policecrime"
+},
+{
+"text": "TRANSPARENCY & ACCOUNTABILITY",
+"href": "https://www.juliekelzer4mnsenate.com/issues/Transparency-Accountability"
+},
+{
+"text": "Volunteer",
+"href": "https://juliekelzer4mnsenate.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://juliekelzer4mnsenate.com/vote-2"
+},
+{
+"text": "Yard Signs",
+"href": "https://juliekelzer4mnsenate.com/yard-sign"
+},
+{
+"text": "[image: Julie Kelzer]",
+"href": "https://juliekelzer4mnsenate.com/"
+},
+{
+"text": "[image: Video Thumbnail]",
+"href": "https://www.youtube.com/watch?v=okEdnCdPZbc"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/juliekelzerformn.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Kelzer4MN17Senate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/juliekelzer4mnsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@julie_kelzer_for_mn"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCnc8fRtE3wAgn_rk7ss_g"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/julie_for_mn"
+}
 ]

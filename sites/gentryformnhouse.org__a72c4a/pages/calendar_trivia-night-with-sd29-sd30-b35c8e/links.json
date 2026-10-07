@@ -1,19 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Trivia+Night+with+SD29+%26+SD30&dates=20260711T220000Z%2F20260712T010000Z&location=220+7th+Street+West%2C+Monticello%2C+Minnesota%2C+55362%2C+United+States",
-"http://maps.google.com/?q=220+7th+Street+West+Monticello%2C+Minnesota%2C+55362+United+States",
-"https://gentryformnhouse.org/",
-"https://gentryformnhouse.org/calendar",
-"https://gentryformnhouse.org/calendar/back-to-the-majority-virtual-fundraiser",
-"https://gentryformnhouse.org/calendar/trivia-night-with-sd29-sd30?format=ical",
-"https://gentryformnhouse.org/calendar/virtual-phonebanking",
-"https://gentryformnhouse.org/cart",
-"https://gentryformnhouse.org/contact",
-"https://gentryformnhouse.org/district",
-"https://gentryformnhouse.org/endorsed-by",
-"https://gentryformnhouse.org/get-involved",
-"https://gentryformnhouse.org/issues",
-"https://gentryformnhouse.org/issues-1",
-"https://gentryformnhouse.org/voting-resources",
-"https://mobilize.us/mobilize/event/970802",
-"https://secure.actblue.com/donate/keenan-gentry-30b"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=220+7th+street+west+monticello%2C+minnesota%2C+55362+united+states"
+},
+{
+"text": "0",
+"href": "https://www.gentryformnhouse.org/cart"
+},
+{
+"text": "Back",
+"href": "https://www.gentryformnhouse.org/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.gentryformnhouse.org/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.gentryformnhouse.org/calendar"
+},
+{
+"text": "Contact Us",
+"href": "https://www.gentryformnhouse.org/#contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/keenan-gentry-30b"
+},
+{
+"text": "Endorsed By",
+"href": "https://www.gentryformnhouse.org/endorsed-by"
+},
+{
+"text": "Folder: Contact",
+"href": "https://www.gentryformnhouse.org/contact"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.gentryformnhouse.org/issues-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.gentryformnhouse.org/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Trivia+Night+with+SD29+%26+SD30&dates=20260711T220000Z%2F20260712T010000Z&location=220+7th+Street+West%2C+Monticello%2C+Minnesota%2C+55362%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.gentryformnhouse.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.gentryformnhouse.org/calendar/trivia-night-with-sd29-sd30?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.gentryformnhouse.org/issues"
+},
+{
+"text": "Look At Your District",
+"href": "https://www.gentryformnhouse.org/district"
+},
+{
+"text": "Mobilize",
+"href": "https://www.mobilize.us/mobilize/event/970802/"
+},
+{
+"text": "Next Next July 21 Virtual Phonebanking",
+"href": "https://www.gentryformnhouse.org/calendar/virtual-phonebanking"
+},
+{
+"text": "Previous Previous June 29 Back to the Majority Virtual Fundraiser",
+"href": "https://www.gentryformnhouse.org/calendar/back-to-the-majority-virtual-fundraiser"
+},
+{
+"text": "Voting Resources",
+"href": "https://www.gentryformnhouse.org/voting-resources"
+},
+{
+"text": "[image: Keenan Gentry for State House Rep district 30B]",
+"href": "https://www.gentryformnhouse.org/"
+},
+{
+"text": "votekeenangentry@gmail.com",
+"href": "mailto:votekeenangentry@gmail.com"
+}
 ]

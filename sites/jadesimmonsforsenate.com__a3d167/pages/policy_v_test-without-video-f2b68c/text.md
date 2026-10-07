@@ -1,5 +1,4 @@
-A Breakthrough Brief: Thrivability for Small Business
-It’s one thing to open a business, it is quite another to scale a company.
+Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Beliefs Back Policy Serving All The Way Calendar Donate Join Team Future Today A Breakthrough Brief: Thrivability for Small Business It’s one thing to open a business, it is quite another to scale a company.
 That is why as Senator, I will be paying extra attention to the conditions and the legislation that affects small businesses and I will look to help create an atmosphere where they can thrive and where government can better serve as a support system rather than an impediment.
 America is where people with big ideas come to bring them into fruition and Texas is a land ripe with opportunity, for its current residents and for those moving to the state to pursue a better economy, living situation, and proving ground for their businesses.
 As we work to become a producer nation, supporting small business owners, entrepreneurs, and independent contractors will be at the heart of that process.
@@ -10,3 +9,11 @@ In the future, stimulus packages will prioritize truly fledgling businesses and 
 We'll look to offer greater tax relief for small businesses and contractors as today's tax code disproportionately favors major corporations who can afford to pay their fair share.
 I would consider the creation of special tax abatements for small businesses who employ 10 people and provide a service unique and beneficial to the community they are in.
 For more on my Pro-Business, Pro-Opportunity stances, take a look at our fuller Thrivability vision.
+Previous Thrivability: Beyond Affordability to Economic Possibility Next A New Era in Education You Might Also Like The Thurgood Marshall Plan Independence from Party Control A New Era in Education Thrivability: Beyond Affordability to Economic Possibility Women’s Empowerment & A Fresh Take on Life and Choice STAY UPDATED Let’s Build the Future Together.
+Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
+Your privacy matters to us, your information stays private — always.
+SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
+Senate .
+We respect your privacy — your information will never be sold, shared, or used for any purpose outside of campaign communications.
+You may unsubscribe at any time.
+Terms and Conditions Private Policy FAQs Stay connected

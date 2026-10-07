@@ -1,6 +1,4 @@
-6/1/26: Megan griffin-shelLey becomes the democratic nominee for state representative
-Ready To Get To Work
-With every vote counted, I am deeply grateful to be the Democratic nominee for State Representative in Pennsylvania’s 148th District.
+0 Skip to Content Meet Megan The District Key Issues Endorsements News Events Get Involved ⌄ Donate Volunteer Voter Resources Contact Open Menu Close Menu Meet Megan The District Key Issues Endorsements News Events Get Involved ⌄ Donate Volunteer Voter Resources Contact Open Menu Close Menu Meet Megan The District Key Issues Endorsements News Events Folder: Get Involved ⌄ Back Donate Volunteer Voter Resources Contact 6/1/26: Megan griffin-shelLey becomes the democratic nominee for state representative Ready To Get To Work With every vote counted, I am deeply grateful to be the Democratic nominee for State Representative in Pennsylvania’s 148th District.
 First, I want to thank Montgomery County Voter Services and the Board of Elections for their commitment to ensuring every vote was counted.
 In a race decided by 105 votes, their work reminds us that every voice and every vote matters.
 I also want to thank the other candidates who stepped up to run.
@@ -46,8 +44,7 @@ At the end of the day, this race, this story, and this mission have always been 
 My final ask of you is to stay engaged, keep fighting, and keep organizing.
 This campaign proved one thing: we can reach voters and win races, but we can only do it together.
 Let's get to work.
-2/18/26: Megan Leads the Field at MCDC, open Primary Ahead
-On February 18, the Montgomery County Democratic Committee (MCDC) held its 2026 Endorsement Convention at North Penn High School in Lansdale, where committee people voted on endorsements for races across the county, including Pennsylvania House District 148.
+2/18/26: Megan Leads the Field at MCDC, open Primary Ahead On February 18, the Montgomery County Democratic Committee (MCDC) held its 2026 Endorsement Convention at North Penn High School in Lansdale, where committee people voted on endorsements for races across the county, including Pennsylvania House District 148.
 In the 148th contest, Megan received the highest share of delegate votes at 52 percent, but falling short of the 60 percent threshold required for an official endorsement.
 With no candidate reaching that bar, the race now proceeds to an open Democratic primary.
 In her convention remarks, Megan framed the moment as one that calls for urgency and competence.
@@ -59,16 +56,14 @@ I show up.
 And I listen,” adding that “integrity, character, and bringing people together matters.” She closed with a clear contrast between outcomes and talk: “If you want results, not rhetoric,” she said, asking delegates to back her at the convention.
 After the vote, the campaign described the outcome as momentum heading into the next phase, with plans to gather petition signatures, organize across the district, and take its message directly to voters ahead of the May primary.
 2/7/26: REP.
-MARY JO DALEY ENDORSES MEGAN GRIFFIN-SHELLEY FOR STATE REPRESENATIVE
-Pennsylvania State Representative Mary Jo Daley’s recent endorsement of Megan Griffin-Shelley marks a meaningful moment in the race for State Representative in the 148th District.
+MARY JO DALEY ENDORSES MEGAN GRIFFIN-SHELLEY FOR STATE REPRESENATIVE Pennsylvania State Representative Mary Jo Daley’s recent endorsement of Megan Griffin-Shelley marks a meaningful moment in the race for State Representative in the 148th District.
 Rep.
 Daley is a long respected leader on issues of women’s rights, health care, and equality, and her decision to publicly support Megan sends a clear signal about both the stakes of this race and the kind of leadership this moment calls for.
 Rep.
 Daley’s reasoning for endorsing Megan is straightforward.
 “My priorities have always been clear: I want to see a woman in this seat.
 Representation matters,” she said, while emphasizing that a woman in this role also creates a stronger platform for organizations and causes that protect and advance women and girls across Pennsylvania.
-“I believe that Megan Griffin-Shelley is the right woman for the times we are facing.”
-She also spoke candidly about the political moment we are in.
+“I believe that Megan Griffin-Shelley is the right woman for the times we are facing.” She also spoke candidly about the political moment we are in.
 While national politics can dominate attention, Rep.
 Daley warned against losing focus locally, where real rights and protections are at risk.
 “I need to work to elect the person who will not be distracted, who will keep her eye on the prize of full equality.
@@ -81,7 +76,7 @@ Daley acknowledged that this endorsement was not automatic.
 She had planned to stay neutral in the race, but as the campaign evolved and she spoke with voters, advocates, and candidates, she came to see that neutrality itself carries consequences.
 “While I have great respect for all the candidates, I believe that Megan Griffin-Shelley is the right woman for the times we are facing,” she said.
 Rep.
-Mary Jo Daley closed her endorsement with a straightforward call to action: “I urge you to join me in supporting her.”
-For Megan Griffin-Shelley’s campaign, this endorsement is larger than just a show of support.
+Mary Jo Daley closed her endorsement with a straightforward call to action: “I urge you to join me in supporting her.” For Megan Griffin-Shelley’s campaign, this endorsement is larger than just a show of support.
 It is a validation of her values, her readiness, and her ability to lead with clarity in a challenging moment.
 It tells voters that Megan is trusted by leaders who understand the work, the urgency, and the responsibility of the state representative’s office.
+Megan griffin-shelley for pa state rep Donate Get Connected Paid for by Friends of Megan GS

@@ -1,9 +1,12 @@
 {
  "description": "Recent news Stay Up To Date",
  "final_url": "https://janellestelson.com/news/3/",
- "paid_for_by": "Paid for by Friends of Janelle Stelson Copyright 2025",
+ "fingerprint": "6c19e0d952e6661ce8793e4cce2dc9479e7d0b06",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Janelle Stelson Copyright #",
  "title": "Recent News - Janelle Stelson for Congress",
  "years_mentioned": [
+  "2025",
   "2026"
  ]
 }

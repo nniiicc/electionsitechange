@@ -1,11 +1,42 @@
 [
-"https://apforhawaii.com/",
-"https://apforhawaii.com/about-andrew",
-"https://apforhawaii.com/affordable-housing",
-"https://apforhawaii.com/contact-1",
-"https://apforhawaii.com/food-systems-agriculture",
-"https://apforhawaii.com/lower-cost-of-living",
-"https://apforhawaii.com/small-businesses-local-jobs",
-"https://apforhawaii.com/support-local-families",
-"https://docs.google.com/forms/d/e/1FAIpQLSfa-J_MYqCQWe35Z3rm_7ezTIyNdP6t4Lsp-_jr6sLr7Fo0oQ/viewform?usp=publish-editor"
+{
+"text": "About Andrew",
+"href": "https://www.apforhawaii.com/about-andrew"
+},
+{
+"text": "Affordable Housing",
+"href": "https://www.apforhawaii.com/affordable-housing"
+},
+{
+"text": "Contact",
+"href": "https://www.apforhawaii.com/contact-1"
+},
+{
+"text": "Food Systems & Agriculture",
+"href": "https://www.apforhawaii.com/food-systems-agriculture"
+},
+{
+"text": "Get Involved",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfa-J_MYqCQWe35Z3rm_7ezTIyNdP6t4Lsp-_jr6sLr7Fo0oQ/viewform?usp=publish-editor"
+},
+{
+"text": "Home",
+"href": "https://www.apforhawaii.com"
+},
+{
+"text": "Lower Cost of Living",
+"href": "https://www.apforhawaii.com/lower-cost-of-living"
+},
+{
+"text": "Small Businesses & Local Jobs",
+"href": "https://www.apforhawaii.com/small-businesses-local-jobs"
+},
+{
+"text": "Support Local Families",
+"href": "https://www.apforhawaii.com/support-local-families"
+},
+{
+"text": "andrewfordistrict21@gmail.com",
+"href": "mailto:andrewfordistrict21@gmail.com"
+}
 ]

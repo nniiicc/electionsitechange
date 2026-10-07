@@ -1,4 +1,4 @@
-| DES MOINES, IA - Today, Dubuque native and union carpenter Matt Robinson (D) filed his nomination petition for the Democratic nomination in Iowa House District 72 with the Secretary of State’s office.
+MATT ROBINSON FOR IOWA Home MY STORY Issues Press VOLUNTEER DONATE MATT ROBINSON FILES NOMINATION PETITION FOR HD 72 3/4/2026 0 Comments DES MOINES, IA - Today, Dubuque native and union carpenter Matt Robinson (D) filed his nomination petition for the Democratic nomination in Iowa House District 72 with the Secretary of State’s office.
 A sizable group of union members joined Robinson as he delivered his paperwork and 139 signatures.
 The group included Derek & Kristi Duehr (Carpenters Local 678), Felicia Hilton (Mid-American Carpenters), Royce Peterson (Carpenters Local 1260), Rhea Pierce & Amy Hageman (Carpenters Local 2060), and the former president of the Iowa Federation of Labor, Sen.
 Tom Townsend.
@@ -14,4 +14,6 @@ If you are a minimum wage earner, you are starving right now.
 And that is keeping the wages of every Iowan down.
 When I am in Des Moines, I won’t settle for anything less than an $ 18-an-hour minimum wage.
 Robinson will now appear on the June primary ballot.
-The winner will face the incumbent, Jennifer Smith, in the November election. | For press inquiries Please email: MattRobinsonForIowa @gmail.com |
+The winner will face the incumbent, Jennifer Smith, in the November election.
+0 Comments Leave a Reply.
+For press inquiries Please email: MattRobinsonForIowa ​@gmail.com Home MY STORY Issues Press VOLUNTEER DONATE

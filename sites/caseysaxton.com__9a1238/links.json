@@ -1,21 +1,126 @@
 [
-"https://caseysaxton.com/",
-"https://caseysaxton.com/about",
-"https://caseysaxton.com/beliefs",
-"https://caseysaxton.com/campaign-sign",
-"https://caseysaxton.com/community",
-"https://caseysaxton.com/contact",
-"https://caseysaxton.com/donate",
-"https://caseysaxton.com/get-involved",
-"https://caseysaxton.com/news",
-"https://caseysaxton.com/priorities",
-"https://caseysaxton.com/privacy-policy",
-"https://caseysaxton.com/subscribe",
-"https://caseysaxton.com/survey",
-"https://caseysaxton.com/volunteer",
-"https://facebook.com/caseysaxton",
-"https://instagram.com/caseysaxton",
-"https://linkedin.com/in/caseysaxton",
-"https://twitter.com/caseysaxton",
-"https://vote.utah.gov/"
+{
+"text": "ABOUT",
+"href": "https://www.caseysaxton.com/about"
+},
+{
+"text": "About Casey",
+"href": "https://www.caseysaxton.com/about"
+},
+{
+"text": "About Our Community",
+"href": "https://www.caseysaxton.com/community"
+},
+{
+"text": "CONTACT",
+"href": "https://www.caseysaxton.com/contact"
+},
+{
+"text": "Casey's Beliefs",
+"href": "https://www.caseysaxton.com/beliefs"
+},
+{
+"text": "Copyright © Casey Saxton for State House",
+"href": "https://www.caseysaxton.com/privacy-policy"
+},
+{
+"text": "DONATE TO HELP CASEY WIN",
+"href": "https://www.caseysaxton.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.caseysaxton.com/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.caseysaxton.com/get-involved"
+},
+{
+"text": "Get a Campaign Sign",
+"href": "https://www.caseysaxton.com/campaign-sign"
+},
+{
+"text": "HOME",
+"href": "https://www.caseysaxton.com"
+},
+{
+"text": "HOST A CAMPAIGN SIGN",
+"href": "https://www.caseysaxton.com/campaign-sign"
+},
+{
+"text": "Legislative Issues Survey",
+"href": "https://www.caseysaxton.com/survey"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.caseysaxton.com/priorities"
+},
+{
+"text": "Register to Vote",
+"href": "https://vote.utah.gov/"
+},
+{
+"text": "SIGN UP TO VOLUNTEER",
+"href": "https://www.caseysaxton.com/volunteer"
+},
+{
+"text": "Sign Up for Email Updates",
+"href": "https://www.caseysaxton.com/subscribe"
+},
+{
+"text": "UPDATES",
+"href": "https://www.caseysaxton.com/news"
+},
+{
+"text": "Volunteer",
+"href": "https://www.caseysaxton.com/volunteer"
+},
+{
+"text": "[image: Casey Saxton Logo]",
+"href": "https://www.caseysaxton.com"
+},
+{
+"text": "[image: Casey Saxton at Oquirrh Park_ in Kearns Utah]",
+"href": "https://www.caseysaxton.com/about"
+},
+{
+"text": "[image: Donate Icon.png]",
+"href": "https://www.caseysaxton.com/donate"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/caseysaxton"
+},
+{
+"text": "[image: Freedom and Opportunity for all]",
+"href": "https://www.caseysaxton.com/beliefs"
+},
+{
+"text": "[image: Get a Campaign Sign Icon 2.png]",
+"href": "https://www.caseysaxton.com/campaign-sign"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/caseysaxton"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/caseysaxton"
+},
+{
+"text": "[image: Sign Up to Volunteer Icon.png]",
+"href": "https://www.caseysaxton.com/volunteer"
+},
+{
+"text": "[image: X ]",
+"href": "https://www.twitter.com/caseysaxton"
+},
+{
+"text": "[no text]",
+"href": "https://www.caseysaxton.com"
+},
+{
+"text": "caseysaxtonut@gmail.com",
+"href": "mailto:caseysaxtonut@gmail.com"
+}
 ]

@@ -1,5 +1,5 @@
-Effective Date: 04/23/2026
-Sneed for House 2026 (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+top of page for House 2026 CHRIS SNEED DONATE HOME MEET CHRIS FAQ's GET INVOLVED MEDIA More Use tab to navigate through the menu items.
+Effective Date: 04/23/2026 Sneed for House 2026 (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the Program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 Reply “HELP” for help.
 User Opt-In: The Program allows users to receive SMS/MMS mobile messages by affirmatively opting in, such as through online enrollment forms.
@@ -32,3 +32,5 @@ We reserve the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
+HOME MEET CHRIS FAQ's GET INVOLVED MEDIA More Use tab to navigate through the menu items. © # by Don Richards.
+Proudly created with Wix.com bottom of page

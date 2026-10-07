@@ -1,50 +1,16 @@
-A Secretary of State Office Michigan Can Trust:
-Secure Elections, Transparent Standards, Real Results
-| | |
-| | The Michigan Secretary of State is one of the state’s most important trust offices.
+Anthony G.
+Forlini Home About Endorsements Priorities Experience Donate Donate Options Media Team Tony Events Endorse Anthony Email List Contact Priorities Email with Questions A Secretary of State Office Michigan Can Trust: ​Secure Elections, Transparent Standards, Real Results The Michigan Secretary of State is one of the state’s most important trust offices.
+It oversees elections and It manages details affecting daily life through service delivery across the state.
 Anthony G.
 Forlini’s priorities are simple: protect election integrity, strengthen transparency, enforce the rule of law, and run a high-performing office that respects the public.
-It oversees elections and It manages details affecting daily life through service delivery across the state. |
-Priorities In Detail
-Priority 1: Election Integrity That Builds Public Confidence
-Election security isn’t partisan.
-It is foundational and necessary for a health election process.
-Anthony’s focus is practical: strengthen safeguards, standardize best practices, and make it easier for the public to trust the process.
-Tabulators: secure, verifiable, and properly controlled
-Anthony supports voting systems that are secure, auditable, and protected from avoidable vulnerabilities.
-That means:
-- Results reporting that avoids unnecessary exposure to the internet (eliminating avoidable pathways)
-- Strong chain-of-custody standards and physical security for equipment and ballots
-- Routine validation and documentation so systems are demonstrably consistent and trustworthy (including integrity checks)
-- Post-election processes that reinforce confidence through transparency and verification
-Election integrity: consistent safeguards + trained people
-Anthony believes integrity is achieved through standards and competence, not slogans:
-- Consistent procedures across jurisdictions
-- Training and support for election workers so elections are run confidently and correctly
-- Transparent processes that help answer honest questions and reduce confusion
-Cleaning the voter rolls: accurate, lawful, and careful
-Voter rolls must be accurate and maintained in a way that follows the law and protects eligible voters:
-- Regular cleanup for deceased voters and outdated records
-- Clear documentation and due process safeguards
-- Coordination with local clerks so maintenance is consistent statewide
-Priority 2: Transparency Michigan Residents Can See
-Trust grows when the public can verify procedures and understand what’s happening.
-Anthony will push for:
-- Clear public explanations of election processes and safeguards
-- Tools that make records requests more straightforward and timely
-- Transparency practices that reduce speculation by answering questions with facts
-Priority 3: Accountability and Rule of Law
-The Secretary of State must be committed to the rule of law, due process, and clear accountability—and must lead in a way the public can measure.
-Anthony will:
-- Enforce election law consistently, fairly and evenly
-- Refer credible violations appropriately and work with law enforcement/prosecutors when warranted
-- Publish clear standards and performance expectations
-- Measure performance, report progress, and fix what isn’t working
-Priority 4: A High-Performing Office That Respects Your Time
-Michigan residents deserve reliable service and clear communication.
-Anthony will focus on:
-- Service standards with measurable turnaround expectations
-- Modernization that’s careful, stable, and resident-first
-- Less bureaucracy, better communication, and systems designed around the public—not around the agency
-Proven Actions
-| | Anthony Forlini has publicly highlighted the following actions taken under his leadership: Added watermarks to tabulator paper ballots Turned off modems used to transmit tabulator results through the internet (first county in the state, per the county bulletin) Conducted a forensic audit of the election server, including integrity validation steps (per county bulletin) Enabled tabulator ballot scanning to support easier FOIA requests Trained 700+ election workers to improve competence and consistency Removed hundreds of deceased voters (over age 100) from the voter rolls | |
+Priorities In Detail Priority 1: Election Integrity That Builds Public Confidence Election security isn’t partisan.
+It is foundational and necessary for a health election process. ​Anthony’s focus is practical: strengthen safeguards, standardize best practices, and make it easier for the public to trust the process.
+Tabulators: secure, verifiable, and properly controlled ​ Anthony supports voting systems that are secure, auditable, and protected from avoidable vulnerabilities .
+That means: Results reporting that avoids unnecessary exposure to the internet (eliminating avoidable pathways) Strong chain-of-custody standards and physical security for equipment and ballots Routine validation and documentation so systems are demonstrably consistent and trustworthy (including integrity checks) Post-election processes that reinforce confidence through transparency and verification Election integrity: consistent safeguards + trained people Anthony believes integrity is achieved through standards and competence, not slogans: Consistent procedures across jurisdictions Training and support for election workers so elections are run confidently and correctly Transparent processes that help answer honest questions and reduce confusion Cleaning the voter rolls: accurate, lawful, and careful ​ Voter rolls must be accurate and maintained in a way that follows the law and protects eligible voters: Regular cleanup for deceased voters and outdated records Clear documentation and due process safeguards Coordination with local clerks so maintenance is consistent statewide Priority 2: Transparency Michigan Residents Can See Trust grows when the public can verify procedures and understand what’s happening.
+Anthony will push for: Clear public explanations of election processes and safeguards Tools that make records requests more straightforward and timely ​ Transparency practices that reduce speculation by answering questions with facts Priority 3: Accountability and Rule of Law The Secretary of State must be committed to the rule of law, due process, and clear accountability —and must lead in a way the public can measure.
+Anthony will: Enforce election law consistently, fairly and evenly Refer credible violations appropriately and work with law enforcement/prosecutors when warranted Publish clear standards and performance expectations Measure performance, report progress, and fix what isn’t working Priority 4: A High-Performing Office That Respects Your Time Michigan residents deserve reliable service and clear communication.
+Anthony will focus on: Service standards with measurable turnaround expectations Modernization that’s careful, stable, and resident-first Less bureaucracy, better communication, and systems designed around the public—not around the agency Proven Actions Anthony Forlini has publicly highlighted the following actions taken under his leadership: Added watermarks to tabulator paper ballots Turned off modems used to transmit tabulator results through the internet (first county in the state, per the county bulletin) Conducted a forensic audit of the election server , including integrity validation steps (per county bulletin) Enabled tabulator ballot scanning to support easier FOIA requests Trained 700+ election workers to improve competence and consistency Removed hundreds of deceased voters (over age 100) from the voter rolls Let’s restore confidence in Michigan's Elections by raising the standards and delivering results.
+If you want secure elections, transparency you can verify, and leadership grounded in experience, join the campaign.
+Donate Volunteer Endorse Join the Email Team * Indicates required field Email * Subscribe to Campaign Email Phone: (586) 275-7703 | Email: [email protected] PAID FOR BY THE CTE ANTHONY G.
+FORLINI, 39285 N.
+BLOM, HARRISON TWP, MI 48045 Home About Endorsements Priorities Experience Donate Donate Options Media Team Tony Events Endorse Anthony Email List Contact

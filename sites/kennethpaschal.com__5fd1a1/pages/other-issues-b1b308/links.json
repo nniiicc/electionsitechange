@@ -1,7 +1,18 @@
 [
-"https://kennethpaschal.com/",
-"https://kennethpaschal.com/4-principles",
-"https://kennethpaschal.com/other-issues",
-"https://kennethpaschal.com/pages/cookie-policy",
-"https://kennethpaschal.com/search"
+{
+"text": "4 Principles",
+"href": "https://www.kennethpaschal.com/4-principles"
+},
+{
+"text": "Home",
+"href": "https://www.kennethpaschal.com/"
+},
+{
+"text": "Other Issues",
+"href": "https://www.kennethpaschal.com/other-issues"
+},
+{
+"text": "[no text]",
+"href": "https://www.kennethpaschal.com/search"
+}
 ]

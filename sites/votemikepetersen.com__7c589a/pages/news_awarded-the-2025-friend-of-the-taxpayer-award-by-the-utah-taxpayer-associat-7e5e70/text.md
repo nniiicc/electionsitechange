@@ -1,7 +1,1 @@
-10
-Mar
-Monday, 8:15 AM · 2025
-Paid for by Committee to
-Re-elect Mike Petersen
-Re-elect Mike Petersen
-Powered by CampaignPartner.com - Political Campaign Websites
+Home Meet Mike Introduction Video Policy Positions Endorsements News News / Awarded the 2025 Friend of the Taxpayer Award by the Utah Taxpayer Association 10 Mar Monday, 8:15 AM · 2025 Awarded the 2025 Friend of the Taxpayer Award by the Utah Taxpayer Association Privacy Subscribe Paid for by Committee to Re-elect Mike Petersen Powered by CampaignPartner.com - Political Campaign Websites Home Meet Mike Introduction Video Policy Positions Endorsements News Close Menu

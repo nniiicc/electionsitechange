@@ -1,13 +1,58 @@
 [
-"https://jjr.vote/",
-"https://jjr.vote/about",
-"https://jjr.vote/endorsements",
-"https://jjr.vote/es/press-releases/jose-javier-rodriguez-launches-campaign-for-florida-attorney-general",
-"https://jjr.vote/media",
-"https://jjr.vote/press-releases/jose-javier-rodriguez-launches-campaign-for-florida-attorney-general",
-"https://jjr.vote/priorities",
-"https://jose-javier-rodriguez-for-attorney-general.solidarity.tech/join",
-"https://secure.ngpvan.com/_54YXVQ2hki4v1uetgo6DQ2",
-"https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2",
-"https://youtube.com/watch?v=642iM-lY4SQ"
+{
+"text": "About",
+"href": "https://www.jjr.vote/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2"
+},
+{
+"text": "EN",
+"href": "https://www.jjr.vote/press-releases/jose-javier-rodriguez-launches-campaign-for-florida-attorney-general"
+},
+{
+"text": "ES",
+"href": "https://www.jjr.vote/es/press-releases/jose-javier-rodriguez-launches-campaign-for-florida-attorney-general"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jjr.vote/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://secure.ngpvan.com/_54YXVQ2hki4v1uetgo6DQ2"
+},
+{
+"text": "Get involved",
+"href": "https://jose-javier-rodriguez-for-attorney-general.solidarity.tech/join"
+},
+{
+"text": "Home",
+"href": "https://www.jjr.vote/"
+},
+{
+"text": "José Javier Rodríguez for Florida Attorney General",
+"href": "https://www.youtube.com/watch?v=642iM-lY4SQ"
+},
+{
+"text": "Media",
+"href": "https://www.jjr.vote/media"
+},
+{
+"text": "Priorities",
+"href": "https://www.jjr.vote/priorities"
+},
+{
+"text": "[image: Jose Javier Rodriguez for Attorney General Logo]",
+"href": "https://www.jjr.vote/"
+},
+{
+"text": "https://www.jjr.vote/",
+"href": "https://www.jjr.vote/"
+},
+{
+"text": "press@jjr.vote",
+"href": "mailto:press@jjr.vote"
+}
 ]

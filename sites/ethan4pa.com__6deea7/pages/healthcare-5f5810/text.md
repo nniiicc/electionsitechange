@@ -1,7 +1,3 @@
-1.
-Create a Universal Healthcare
-system in PA
-2.
+Home Healthcare Housing Family Flock Cameras Data Centers ICE Gift Ban Contribution Limits No Corpo Election Money More Home Healthcare Housing Family Flock Cameras Data Centers ICE Gift Ban Contribution Limits No Corpo Election Money Home Healthcare Housing Family Flock Cameras Data Centers ICE Gift Ban Contribution Limits No Corpo Election Money Support Legislation to: 1.
+Create a Universal Healthcare system in PA Support Legislation to: 2.
 Set aside money for a rural hospital fund during transition period
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.

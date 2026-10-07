@@ -1,14 +1,70 @@
 [
-"https://facebook.com/VoteDavidJenkins",
-"https://flickr.com/photos/188434488@N05",
-"https://secure.anedot.com/david-jenkins-for-state-house/donate",
-"https://secure.anedot.com/david-jenkins-for-state-house/donate?amount=10",
-"https://secure.anedot.com/david-jenkins-for-state-house/donate?amount=100",
-"https://secure.anedot.com/david-jenkins-for-state-house/donate?amount=25",
-"https://secure.anedot.com/david-jenkins-for-state-house/donate?amount=50",
-"https://votedavidjenkins.com/",
-"https://votedavidjenkins.com/about",
-"https://votedavidjenkins.com/contact",
-"https://votedavidjenkins.com/issues",
-"https://votedavidjenkins.com/privacy-policy"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/david-jenkins-for-state-house/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/david-jenkins-for-state-house/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/david-jenkins-for-state-house/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/david-jenkins-for-state-house/donate?amount=50"
+},
+{
+"text": "About",
+"href": "https://votedavidjenkins.com/about/"
+},
+{
+"text": "CLICK HERE TO LEARN MORE ABOUT DAVID'S AGENDA",
+"href": "https://votedavidjenkins.com/issues/"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.anedot.com/david-jenkins-for-state-house/donate"
+},
+{
+"text": "Contact",
+"href": "https://votedavidjenkins.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/david-jenkins-for-state-house/donate"
+},
+{
+"text": "Home",
+"href": "https://votedavidjenkins.com/"
+},
+{
+"text": "Issues",
+"href": "https://votedavidjenkins.com/issues/"
+},
+{
+"text": "Learn more about David",
+"href": "https://votedavidjenkins.com/about/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/david-jenkins-for-state-house/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votedavidjenkins.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://votedavidjenkins.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteDavidJenkins/"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/188434488@N05/"
+}
 ]

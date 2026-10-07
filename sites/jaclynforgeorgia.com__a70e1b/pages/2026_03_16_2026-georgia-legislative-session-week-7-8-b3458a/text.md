@@ -1,39 +1,32 @@
-During weeks seven and eight of the 2026 legislative session, my House colleagues and I continued our work at the Georgia State Capitol.
+Home ABOUT JACLYN RESOURCES ENDORSEMENTS CONTACT DONATE During weeks seven and eight of the 2026 legislative session, my House colleagues and I continued our work at the Georgia State Capitol.
 Much of our time was spent in committee meetings reviewing and discussing legislation before it heads to the House floor.
 These workdays are an important part of the process and allow us to take a closer look at bills and hear from those impacted by the legislation.
-During the eighth week of session, members of the Georgia House also joined Governor Brian Kemp as he signed House Bill 973, the Amended Fiscal Year 2026 (AFY 2026) budget, into law.
+During the eighth week of session, members of the Georgia House also joined Governor Brian Kemp as he signed House Bill 973 , the Amended Fiscal Year 2026 (AFY 2026) budget, into law.
 We also reached and passed Crossover Day, a key milestone in the session when most bills must pass out of their chamber of origin to stay alive this year.
 With Crossover Day behind us, we’re now focused on reviewing legislation from the Senate and continuing to move important bills forward before we adjourn Sine Die on April 2.
-Rep Ford Qualifies for Re-election
-I’m excited to share that I officially qualified this week to run for re-election to the Georgia House of Representatives!
+Rep Ford Qualifies for Re-election I’m excited to share that I officially qualified this week to run for re-election to the Georgia House of Representatives!
 Serving the people of House District 170 has been one of the greatest honors of my life.
 I’m grateful for the trust you have placed in me, and I remain committed to working hard every day on behalf of our communities, our small businesses, our farmers, and our families.
 I hope to continue earning your support and serving you to the very best of my ability.
 Thank you for the encouragement, prayers, and support along the way.
-Morning Order in Honor of Darvin Eason
-I was honored to recognize the life and legacy of Darvin Eason of Lenox on the House floor.
+Morning Order in Honor of Darvin Eason I was honored to recognize the life and legacy of Darvin Eason of Lenox on the House floor.
 Darvin was a lifelong advocate for Georgia agriculture whose leadership and service touched countless farmers and agribusinesses across our state.
 From founding Lenox Ag Services to serving in leadership roles with the Georgia Agribusiness Council and the Georgia Peanut Producers Association, his dedication to the agricultural community was remarkable.
-Invite Resolution Honoring Don Koehler
-It was a privilege to recognize Don Koehler on the House floor during PB&J Day at the Capitol.
+Invite Resolution Honoring Don Koehler It was a privilege to recognize Don Koehler on the House floor during PB&J Day at the Capitol.
 Don, the senior executive director of the Georgia Peanut Commission, has spent the past 40 years championing Georgia’s peanut farmers and strengthening one of our state’s most important agricultural industries.
 His leadership, vision, and dedication have made a lasting impact not only on the peanut industry but on rural communities across Georgia.
-Morning Order welcoming ABAC to the Capitol
-I had the pleasure of welcoming students and faculty from Abraham Baldwin Agricultural College to the Capitol for a morning order.
+Morning Order welcoming ABAC to the Capitol I had the pleasure of welcoming students and faculty from Abraham Baldwin Agricultural College to the Capitol for a morning order.
 It’s always inspiring to see the next generation of agricultural leaders learning about state government and civic engagement firsthand.
 Their curiosity, energy, and passion for Georgia agriculture remind us why it’s so important to support education, innovation, and opportunities in our farming communities.
 I enjoyed visiting with them and sharing a little about the work we’re doing here in the House to support Georgia’s students, farmers and rural communities.
-Cotton Bill passed the House – HB 1310
-I’m excited to share a quick update on HB 1310, legislation I sponsored this session to recognize cotton as Georgia’s official state fabric.
+Cotton Bill passed the House – HB 1310 I’m excited to share a quick update on HB 1310 , legislation I sponsored this session to recognize cotton as Georgia’s official state fabric.
 Cotton has played such an important role in our state’s history and continues to be a key part of Georgia agriculture today.
 I’m proud to report that HB 1310 passed the Georgia House and is now headed to the Senate for consideration.
 I’m looking forward to continuing to work with my colleagues to move this bill forward and celebrate one of Georgia’s most iconic crops!
-HB 1344 Passes the House
-As mentioned in a previous newsletter, I was proud to serve on the House Blue-Ribbon Study Committee on Insurance Rates.
+HB 1344 Passes the House As mentioned in a previous newsletter, I was proud to serve on the House Blue-Ribbon Study Committee on Insurance Rates.
 HB 1344 reflects the hard work of that Committee, which held numerous meetings across the state during the 2025 interim to examine rate and claims issues within this industry.
 House Bill 1344, or the Georgia Insurance Affordability and Claims Integrity Act, would increase nearly 40 fines within Georgia’s insurance code, strengthen the authority of the Georgia Office of the Insurance and Safety Fire Commissioner to levy penalties, enhance enforcement of the state’s uninsured motorist laws, impose tougher consequences for insurance fraud and clarify claims-processing requirements following storms and other catastrophic events.
-Legislation Updates:
-HB 1159 – The Georgia House recently approved House Bill 1159 which exempts specific federal agricultural assistance payments from Georgia state income tax.
+Legislation Updates: HB 1159 – The Georgia House recently approved House Bill 1159 which exempts specific federal agricultural assistance payments from Georgia state income tax.
 Under this legislation, payments from the Farmer Bridge Assistance (FBA) Program would be fully tax-free at the state level, enabling producers to keep the full benefit of this federal support.
 HB 1193 – One of the key measures we took up was Georgia House Bill 1193, a priority for the Georgia House of Representatives this session.
 The bill passed the House with overwhelming bipartisan support and aims to expand and strengthen early literacy and reading instruction for students in kindergarten through third grade.
@@ -61,8 +54,7 @@ HB 1118 would build upon legislation passed during the 2024 legislative session�
 HB 1118 would continue the House’s work to support working families by ensuring new mothers have meaningful time to recuperate following birth and care for their newborn.
 The bill would provide eligible state employees with 120 hours of paid maternal birth leave to be used within the first three weeks following birth.
 HB 1283 – To further support victims of abuse, the Georgia House unanimously passed House Bill 1283, also known as the Family Justice Center Act, on Wednesday.
-The legislation would
-authorize the creation of Family Justice Centers—multiagency facilities that would provide coordinated services to victims of family violence, sexual assault, child abuse, elder abuse, human trafficking and related crimes.
+The legislation would authorize the creation of Family Justice Centers—multiagency facilities that would provide coordinated services to victims of family violence, sexual assault, child abuse, elder abuse, human trafficking and related crimes.
 HB 1230 – The House took further action this week to enhance public safety, particularly within our state’s correctional facilities.
 As unmanned aircraft systems become more accessible and sophisticated, they have increasingly been used to surveil secure facilities and, in some cases, to deliver contraband, such as weapons, drugs and cell phones, into prison and jail yards.
 With that in mind, we passed House Bill 1230 with bipartisan support in an effort to strengthen security at Georgia’s correctional facilities by addressing unauthorized drone activity.
@@ -83,3 +75,22 @@ The resolution comes at a necessary time, as the state continues to rebuild in t
 HR 1000 would allow standing timber to be assessed at a zero percent ad valorem tax, provided the timberland is placed under a qualifying-use covenant.
 HB 668 – The House also passed House Bill 668, a measure designed to strengthen protections for service dogs and the Georgians who rely on them.
 HB 668 would update state law to formally recognize service dogs and establish criminal penalties and fines for individuals who interfere with or cause physical harm to a service dog, while also extending protections to their trainers and owners.
+Friends and Constituents at the Capitol FFA Day at the Capitol Rep Ford speaking with Majority Leader Chuck Efstration Sharing a laugh with Chairman Kasey Carpenter Reviewing a resolution with Chairman Steven Meeks 9th District U.S.
+Congressional candidate, Sam Couvillon, visits the chamber.
+Welcoming Georgia Agribusiness Council Board to the Capitol.
+We were excited to welcome Georgia Agribusiness Council board members to the Capitol.
+Always great to see my fellow lady GAC Board members, Donna Stewart and Cynde Dickey.
+Magun Whitehead and Vanessa Lopez with Total Care ABA in Tifton.
+Tift County 4-H Representatives from Tift and Berrien County Young Farmers Association Celebrating Women’s Month on the House Floor Honored Speaker Pro Tem Jan Jones for her years of service.
+Speaker Jon Burns and Berrien County Commissioner Ronnie Gaskins during the Association of County Commissioners of Georgia Breakfast Representative Jutt Howard and Ag Commissioner Tyler Harper Trey and Emily Sheppard with their son Jones.
+Trey will be running for Georgia House of Representatives District 128.
+Dan Richardson (Tifton) visited the Capitol with the Propane Association.
+My friend and fellow ABAC Foundation board member, Niki Vanderslice.
+Niki also works in economic development for Fayette County.
+Representatives from Georgia Forestry Association, Blair Joiner (Nashville), Tony Thomas (Waycross) and Tim Lowrimore.
+Taking a break on the back bench during a long day with Representative Danny Mathis and Representative Matt Gambill Pictured with seatmate, Jutt Howard.
+Mary Ella Bowen (Tift Co) served as a page.
+Spud Bowen and his granddaughter Mary Ella Bowen when she served as a page.
+Regina and Johnny West (Cook Co EMA) visited the Capitol for Georgia emergency responders day at the Capitol.
+Brittany West and Sandy Mizell (Berrien EMA) visit the Capitol Spud Bowen – Tifton – Georgia Department of Corrections Board member Paid for by Jaclyn for Georgia By providing your phone number, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number from Jaclyn for Georgia.
+PRIVACY POLICY Home ABOUT JACLYN RESOURCES ENDORSEMENTS CONTACT DONATE

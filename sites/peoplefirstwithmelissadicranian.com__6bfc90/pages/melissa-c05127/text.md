@@ -1,3 +1,4 @@
+Home Melissa Issue Posts Plan to Vote PA Voter Registration Donate More Home Melissa Issue Posts Plan to Vote PA Voter Registration Donate Home Melissa Issue Posts Plan to Vote PA Voter Registration Donate Meet Melissa Melissa Believes in The People First.
 Small businesses are vital carriers of our economy and where innovation begins.
 Although our businesses are committed to Pennsylvania, our Commonwealth fails to be economically competitive.
 We can be better and we should be better.
@@ -13,11 +14,8 @@ This enabled Melissa and her husband to teach their children self reliance, as w
 Melissa is currently an outreach partner for several community members, ranging from equine interaction to vocational education.
 She also serves as the Chairperson for Charlestown Township's Historic Commission and served as chair planner for the America250 Celebration.
 Melissa supports agriculture, and is a PA Farm Bureau Legislative Committee member.
-- Attended a hands-on engineering based college
-- Worked through and paid for her college
-- Rode and drove her first pony
-- Believer in self reliance and supporter of the trades
-- Rescue dog mom
-PAID FOR BY FRIENDS OF MELISSA DICRANIAN
+FIVE Fast Facts: Attended a hands-on engineering based college Worked through and paid for her college Rode and drove her first pony Believer in self reliance and supporter of the trades Rescue dog mom CONNECT WITH THE CAMPAIGN Melissa is an AMERICA250 Celebration planner.
+PAID FOR BY FRIENDS OF MELISSA DICRANIAN ©# FRIENDS OF MELISSA DICRANIAN.
 MELISSA FOR44 CAMPAIGN.
 ALL RIGHTS RESERVED.
+Home Melissa Issue Posts

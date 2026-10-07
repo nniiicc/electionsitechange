@@ -1,7 +1,9 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://rickyfor50.com/photos",
- "paid_for_by": null,
+ "fingerprint": "0c91808f422962f325adde60ba845f43d1aceda8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": [
   "2026"

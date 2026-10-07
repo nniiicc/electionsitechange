@@ -1,5 +1,4 @@
-Brattleboro elects Kornheiser, Goodnow
-Democratic incumbent Emilie Kornheiser and newcomer Ian Goodnow won their respective primaries for the Vermont House of Representatives on Tuesday and will go on to run in the general election in November.
+Menu Close About In the News Issues Endorsements Contact Donate Ian Goodnow for Vermont State Representative About In the News Issues Endorsements Contact Donate Brattleboro elects Kornheiser, Goodnow Ian Goodnow for State Representative on August 13, 2024 Democratic incumbent Emilie Kornheiser and newcomer Ian Goodnow won their respective primaries for the Vermont House of Representatives on Tuesday and will go on to run in the general election in November.
 Kornheiser, chairwoman of the House Ways and Means Committee, won the Windham-7 race 505-369 against Amanda Ellis-Thurber.
 Goodnow won the Windham-9 race 442-330 against David Gartenstein.
-Brattleboro Reformer
+Brattleboro Reformer Read the full story Category: In the News Post navigation Previous: Previous post: Zoe Cunningham-Cook: Support Ian Goodnow Footer Contact Ian today Email: iangoodnowvt@gmail.com Phone: 802-416-9880 Donate Get In Touch Follow Ian on social media Instagram Facebook Copyright # Ian Goodnow for State Representative

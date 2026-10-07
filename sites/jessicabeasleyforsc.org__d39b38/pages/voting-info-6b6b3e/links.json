@@ -1,8 +1,34 @@
 [
-"https://jessicabeasleyforsc.org/",
-"https://jessicabeasleyforsc.org/issues",
-"https://jessicabeasleyforsc.org/meet-jessica",
-"https://jessicabeasleyforsc.org/voting-info",
-"https://secure.actblue.com/donate/jessicabeasleyfordistrict11",
-"https://zazzle.com/store/beasley4district11"
+{
+"text": "Campaign Store",
+"href": "https://www.zazzle.com/store/beasley4district11"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jessicabeasleyfordistrict11"
+},
+{
+"text": "HOME",
+"href": "https://www.jessicabeasleyforsc.org"
+},
+{
+"text": "Issues",
+"href": "https://www.jessicabeasleyforsc.org/issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.jessicabeasleyforsc.org/issues"
+},
+{
+"text": "Meet Jessica",
+"href": "https://www.jessicabeasleyforsc.org/meet-jessica"
+},
+{
+"text": "Mission",
+"href": "https://www.jessicabeasleyforsc.org/voting-info"
+},
+{
+"text": "[image]",
+"href": "https://www.jessicabeasleyforsc.org"
+}
 ]

@@ -1,15 +1,70 @@
 [
-"https://facebook.com/yaraforco",
-"https://instagram.com/yaraforco",
-"https://secure.actblue.com/donate/yaraforhd52",
-"https://twitter.com/yzokaie?lang=en",
-"https://yaraforco.com/",
-"https://yaraforco.com/about",
-"https://yaraforco.com/contact",
-"https://yaraforco.com/endorsements",
-"https://yaraforco.com/events",
-"https://yaraforco.com/issues",
-"https://yaraforco.com/legislation",
-"https://yaraforco.com/media",
-"https://yaraforco.com/volunteer"
+{
+"text": "Contact",
+"href": "https://www.yaraforco.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/yaraforhd52"
+},
+{
+"text": "Endorsements",
+"href": "https://www.yaraforco.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.yaraforco.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.yaraforco.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.yaraforco.com"
+},
+{
+"text": "Issues",
+"href": "https://www.yaraforco.com/issues"
+},
+{
+"text": "Legislation",
+"href": "https://www.yaraforco.com/legislation"
+},
+{
+"text": "MEDIA",
+"href": "https://www.yaraforco.com/media"
+},
+{
+"text": "Meet Yara",
+"href": "https://www.yaraforco.com/about"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.yaraforco.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/yaraforco"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/yaraforco/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/yzokaie?lang=en"
+},
+{
+"text": "[image: Yara for CO HD52]",
+"href": "https://www.yaraforco.com"
+},
+{
+"text": "[image: Yara white logo_edited.png]",
+"href": "https://www.yaraforco.com"
+},
+{
+"text": "[image]",
+"href": "https://www.yaraforco.com"
+}
 ]

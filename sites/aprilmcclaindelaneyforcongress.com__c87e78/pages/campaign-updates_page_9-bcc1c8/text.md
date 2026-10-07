@@ -1,18 +1,11 @@
-In the News
-Frederick News Post: District 6 Candidates Score Endorsements
-In the News
-Politico: The big down-ballot takeaways from Super Tuesday
-In the News
-Maryland Matters: Delaney is first on TV in 6th District congressional race
-Press Releases
-Speaker Emerita Nancy Pelosi endorses April McClain Delaney
-For Immediate Release: March 4, 2024 Contact: Susan Kenedy, (301) 639-9644 Speaker Emerita Nancy Pelosi endorses April McClain Delaney Frederick, MD — Speaker Emerita Nancy Pelosi is endorsing April McClain Delaney in the Democratic Primary for Maryland’s Sixth Congressional District.
-“April McClain Delaney has more than 30 years of experience advocating for children’s health, wellbeing […]
-Press Releases
-April McClain Delaney Releases First Television Ad
-For Immediate Release: March 4, 2024 Contact: Susan Kenedy, (301) 639-9644 April McClain Delaney Releases First Television Ad Frederick, MD — April McClain Delaney’s campaign has released its first ad, focusing on her decades of experience in public service.
-The ad will run district wide and is the first in an advertising blitz set to […]
-Press Releases
-April McClain Delaney Announces Slate of Strong Endorsements From Local Leaders
-For Immediate Release: March 4, 2024 Contact: Susan Kenedy, (301) 639-9644 April McClain Delaney Announces Slate of Strong Endorsements From Local Leaders Former Frederick Mayor Ron Young, Two Members of the Frederick County Council, and Two Former State Party Chairs among her supporters April McClain Delaney, candidate for Maryland’s Sixth Congressional District in Congress, has […]
-In the News
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Toggle Mobile Menu Donate Now!
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer The Latest Campaign News Campaign News In the News Press Releases In the News Frederick News Post: District 6 Candidates Score Endorsements 03.13.24 In the News Politico: The big down-ballot takeaways from Super Tuesday 03.06.24 In the News Maryland Matters: Delaney is first on TV in 6th District congressional race 03.05.24 Press Releases Speaker Emerita Nancy Pelosi endorses April McClain Delaney For Immediate Release: March 4, 2024 Contact: Susan Kenedy, (301) 639-9644 Speaker Emerita Nancy Pelosi endorses April McClain Delaney Frederick, MD — Speaker Emerita Nancy Pelosi is endorsing April McClain Delaney in the Democratic Primary for Maryland’s Sixth Congressional District.
+“April McClain Delaney has more than 30 years of experience advocating for children’s health, wellbeing […] 03.04.24 Press Releases April McClain Delaney Releases First Television Ad For Immediate Release: March 4, 2024 Contact: Susan Kenedy, (301) 639-9644 April McClain Delaney Releases First Television Ad Frederick, MD — April McClain Delaney’s campaign has released its first ad, focusing on her decades of experience in public service.
+The ad will run district wide and is the first in an advertising blitz set to […] 03.04.24 Press Releases April McClain Delaney Announces Slate of Strong Endorsements From Local Leaders For Immediate Release: March 4, 2024 Contact: Susan Kenedy, (301) 639-9644 April McClain Delaney Announces Slate of Strong Endorsements From Local Leaders Former Frederick Mayor Ron Young, Two Members of the Frederick County Council, and Two Former State Party Chairs among her supporters April McClain Delaney, candidate for Maryland’s Sixth Congressional District in Congress, has […] 03.04.24 In the News Maryland Matters: Delaney is first on TV in 6th District congressional race – March 5, 2024 Maryland Matters – It isn’t just the bottom line: 6th District fundraising numbers reveal a lot 02.03.24 « Previous 1 … 7 8 9 10 Next » Up Next Maryland Matters: News About Congressional Races Across the State Contribute Now Donate to the Campaign!
+We've launched our campaign and are looking for your support!
+Donate today to become a founding donor.
+Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Join Her Campaign!
+Meet April Endorsements Campaign News Get Involved April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Contact Us [email protected] Address April McClain Delaney for Congress PO Box 83940 Gaithersburg, MD 20883-83940 Accessibility Statement PAID FOR BY APRIL MCCLAIN DELANEY FOR CONGRESS Site made with ❤️ by Landslide Digital I'll never stop fighting for you.
+Donate now!
+Jump to Content Toggle High Contrast Toggle Font Size

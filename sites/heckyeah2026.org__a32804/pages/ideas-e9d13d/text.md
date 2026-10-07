@@ -1,52 +1,17 @@
-Education is national security.
+0 Skip to Content Home A Lifetime of Work & Service Why I'm Running Issues Donate Open Menu Close Menu Open Menu Close Menu Home A Lifetime of Work & Service Why I'm Running Issues Donate Home A Lifetime of Work & Service Why I'm Running Issues Donate Education is national security.
 In an era of AI and algorithm-driven information, a strong public education system is our best defense — and our best offense.
-- A strong public education system is our best defense against disinformation, and our best economic offense in an AI-driven world
-- Fully fund public schools and fix the Chapter 70 inflation gap so districts get the aid they've been promised
-- Keep the cap on charter schools, which siphon money from public districts while excluding students with the greatest needs
-- Make child care affordable—no family should pay more than 7% of their income on child care
-- Create a pathway to free public higher education, including debt-free graduation from Massachusetts public colleges and trade schools
-- Support universal Pre-K integrated into the public school system
-Families of all makes, seniors, renters, and young people deserve housing that's actually affordable.
+A strong public education system is our best defense against disinformation, and our best economic offense in an AI-driven world Fully fund public schools and fix the Chapter 70 inflation gap so districts get the aid they've been promised Keep the cap on charter schools, which siphon money from public districts while excluding students with the greatest needs Make child care affordable—no family should pay more than 7% of their income on child care Create a pathway to free public higher education, including debt-free graduation from Massachusetts public colleges and trade schools Support universal Pre-K integrated into the public school system Families of all makes, seniors, renters, and young people deserve housing that's actually affordable.
 Dated state laws need to catch up with the developers exploiting its loopholes, including the exclusion of quality union labor and licensing.
-- Reform Chapter 40B to require union labor and proper licensing standards, ending the race to the bottom on quality and wages
-- Support local option real estate transfer fees so communities can fund affordable housing on their own terms
-- Strengthen MBTA Communities Act enforcement while refining how communities are classified, so the law builds trust rather than eroding it
-The cheapest energy is the energy you never have to buy.
+Reform Chapter 40B to require union labor and proper licensing standards, ending the race to the bottom on quality and wages Support local option real estate transfer fees so communities can fund affordable housing on their own terms Strengthen MBTA Communities Act enforcement while refining how communities are classified, so the law builds trust rather than eroding it The cheapest energy is the energy you never have to buy.
 Energy costs are too high.
 But fixing a real problem requires being honest about what’s causing it, and the idea that environmental regulations are solely responsible for high utility bills is grossly overstated.
 In fact, we need to develop energy solutions so we aren’t left behind by other nations, or forced into further high prices due to global instability.
 The real drivers are global energy instability, outdated infrastructure, and an industry that profits when consumers stay dependent on expensive centralized systems.
 The tools that actually lower costs — home solar, battery storage, energy-efficient buildings, and local energy generation — are too often blocked, delayed, or politicized.
-- Massachusetts must lead in building an energy system that is affordable, resilient, union-built, and future-focused
-- Expand access to home solar, battery storage, and energy-efficiency upgrades that lower costs for working families
-- Invest in modern energy infrastructure built by Massachusetts union labor
-- Increase transparency and accountability for utility companies and energy suppliers
-- Support domestic energy production and grid resilience to reduce dependence on unstable global markets
-- Protect environmental standards while pursuing practical, cost-lowering energy solutions people can actually feel
-AI can be a powerful tool for workers and communities.
+Massachusetts must lead in building an energy system that is affordable, resilient, union-built, and future-focused Expand access to home solar, battery storage, and energy-efficiency upgrades that lower costs for working families Invest in modern energy infrastructure built by Massachusetts union labor Increase transparency and accountability for utility companies and energy suppliers Support domestic energy production and grid resilience to reduce dependence on unstable global markets Protect environmental standards while pursuing practical, cost-lowering energy solutions people can actually feel AI can be a powerful tool for workers and communities.
 But only if we set clear ethical guardrails and ensure it strengthens, not replaces, human judgment and livelihoods.
-- Require transparency from companies deploying AI in hiring, housing, health care, and public services — decisions that affect people's lives must be explainable and contestable
-- Protect workers from AI-driven displacement through strong labor standards, retraining programs, and a seat at the table in how AI is implemented in their workplaces
-- Ensure public sector AI tools are subject to democratic oversight
-- Protect residents' personal data from AI systems that harvest, monetize, or weaponize it without consent — Massachusetts needs a strong digital privacy law with real teeth
-- Support Massachusetts becoming a leader in ethical AI development that creates good jobs rather than eliminating them
-From rising costs to health care to the quiet crush of the sandwich generation —
-Seniors and their families deserve a real seat at the table.
-- Protect and expand MassHealth so seniors can age with dignity without fear of financial ruin
-- Fund home and community-based care so seniors can stay in their homes and communities longer
-- Address the quiet crisis of social isolation with real investment in senior centers and community programming
-- Ensure long-term care doesn't wipe out a lifetime of savings — reform the system so families aren't left to navigate it alone
-- Make prescription drugs affordable — no senior should choose between medication and groceries
-- Invest in small business development and entrepreneurship in the towns and rural communities of the Blackstone Valley
-- Support arts, culture, and creative economy initiatives that attract talent, drive tourism, and strengthen local identity
-- Expand workforce development and apprenticeship programs that connect residents to good union jobs in emerging industries
-- Leverage the region's industrial heritage and natural beauty to attract businesses and residents looking for an alternative to expensive urban centers
-- Fight for equitable local aid so Blackstone Valley towns stop subsidizing the state and start benefiting from it
-We live in the birthplace of the industrial revolution.
+Require transparency from companies deploying AI in hiring, housing, health care, and public services — decisions that affect people's lives must be explainable and contestable Protect workers from AI-driven displacement through strong labor standards, retraining programs, and a seat at the table in how AI is implemented in their workplaces Ensure public sector AI tools are subject to democratic oversight Protect residents' personal data from AI systems that harvest, monetize, or weaponize it without consent — Massachusetts needs a strong digital privacy law with real teeth Support Massachusetts becoming a leader in ethical AI development that creates good jobs rather than eliminating them From rising costs to health care to the quiet crush of the sandwich generation — Seniors and their families deserve a real seat at the table.
+Protect and expand MassHealth so seniors can age with dignity without fear of financial ruin Fund home and community-based care so seniors can stay in their homes and communities longer Address the quiet crisis of social isolation with real investment in senior centers and community programming Ensure long-term care doesn't wipe out a lifetime of savings — reform the system so families aren't left to navigate it alone Make prescription drugs affordable — no senior should choose between medication and groceries Invest in small business development and entrepreneurship in the towns and rural communities of the Blackstone Valley Support arts, culture, and creative economy initiatives that attract talent, drive tourism, and strengthen local identity Expand workforce development and apprenticeship programs that connect residents to good union jobs in emerging industries Leverage the region's industrial heritage and natural beauty to attract businesses and residents looking for an alternative to expensive urban centers Fight for equitable local aid so Blackstone Valley towns stop subsidizing the state and start benefiting from it We live in the birthplace of the industrial revolution.
 It’s time to renew that claim with a renaissance of small business, innovation, and culture in the Blackstone Valley.
 As cancer rates rise, our drinking water needs to be universally tested for toxins like PFAS so we can assess and respond.
-- Require universal municipal testing for PFAS and other toxic contaminants so communities can assess what they're dealing with and plan accordingly
-- Make test results publicly available and easy to understand — residents have a right to know what's in their water
-- Fund remediation for communities where contamination is found, prioritizing those with the least resources to respond on their own
-- Hold polluters accountable for cleanup costs rather than passing the burden to taxpayers
-- Invest in modernizing aging water infrastructure across the Commonwealth
+Require universal municipal testing for PFAS and other toxic contaminants so communities can assess what they're dealing with and plan accordingly Make test results publicly available and easy to understand — residents have a right to know what's in their water Fund remediation for communities where contamination is found, prioritizing those with the least resources to respond on their own Hold polluters accountable for cleanup costs rather than passing the burden to taxpayers Invest in modernizing aging water infrastructure across the Commonwealth Vote Jen heck hey@voteJenHeck.com

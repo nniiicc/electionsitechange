@@ -1,25 +1,146 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=An+Evening+With+Dave+Sunday+and+Mike+Jones&dates=20181002T220000Z%2F20181003T000000Z&location=885+S+Pleasant+Ave.%2C++Dallastown%2C+PA+17313",
-"http://google.com/calendar/event?action=TEMPLATE&text=An+Evening+With+Kristin+Phillips-Hill+and+Mike+Jones&dates=20180912T220000Z%2F20180913T000000Z&location=210+York+Street%2C+York%2C+PA%2C+17403%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=An+Evening+With+Mike+Jones&dates=20221025T220000Z%2F20221026T000000Z&location=2700+Mount+Rose+Avenue%2C+York%2C+PA%2C+17402%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Dallastown+Halloween+Parade&dates=20221020T210000Z%2F20221021T010000Z",
-"http://instagram.com/jonesforpa",
-"http://maps.google.com/?q=210+York+Street+York%2C+PA%2C+17403+United+States",
-"http://maps.google.com/?q=2700+Mount+Rose+Avenue+York%2C+PA%2C+17402+United+States",
-"http://maps.google.com/?q=885+S+Pleasant+Ave.++Dallastown%2C+PA+17313",
-"https://facebook.com/jonesforpa",
-"https://jones4pa.com/",
-"https://jones4pa.com/bio",
-"https://jones4pa.com/contact",
-"https://jones4pa.com/donate",
-"https://jones4pa.com/events",
-"https://jones4pa.com/events/2017/10/19/dallastown-halloween-parade",
-"https://jones4pa.com/events/2017/10/19/dallastown-halloween-parade?format=ical",
-"https://jones4pa.com/events/2018/10/2/an-evening-with-dave-sunday-and-mike-jones",
-"https://jones4pa.com/events/2018/10/2/an-evening-with-dave-sunday-and-mike-jones-f3j4e",
-"https://jones4pa.com/events/2018/10/2/an-evening-with-dave-sunday-and-mike-jones-f3j4e?format=ical",
-"https://jones4pa.com/events/2018/10/2/an-evening-with-dave-sunday-and-mike-jones?format=ical",
-"https://jones4pa.com/events/2018/8/27/an-evening-with-kristin-philips-hill-and-mike-jones",
-"https://jones4pa.com/events/2018/8/27/an-evening-with-kristin-philips-hill-and-mike-jones?format=ical",
-"https://jones4pa.com/home"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=210+york+street+york%2C+pa%2C+17403+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2700+mount+rose+avenue+york%2C+pa%2C+17402+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=885+s+pleasant+ave.++dallastown%2C+pa+17313+"
+},
+{
+"text": "About Mike",
+"href": "https://www.jones4pa.com/bio"
+},
+{
+"text": "An Evening With Dave Sunday and Mike Jones",
+"href": "https://www.jones4pa.com/events/2018/10/2/an-evening-with-dave-sunday-and-mike-jones"
+},
+{
+"text": "An Evening With Kristin Phillips-Hill and Mike Jones",
+"href": "https://www.jones4pa.com/events/2018/8/27/an-evening-with-kristin-philips-hill-and-mike-jones"
+},
+{
+"text": "An Evening With Mike Jones",
+"href": "https://www.jones4pa.com/events/2018/10/2/an-evening-with-dave-sunday-and-mike-jones-f3j4e"
+},
+{
+"text": "Contact",
+"href": "https://www.jones4pa.com/contact"
+},
+{
+"text": "Dallastown Halloween Parade",
+"href": "https://www.jones4pa.com/events/2017/10/19/dallastown-halloween-parade"
+},
+{
+"text": "Donate",
+"href": "https://www.jones4pa.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.jones4pa.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=An+Evening+With+Dave+Sunday+and+Mike+Jones&dates=20181002T220000Z%2F20181003T000000Z&location=885+S+Pleasant+Ave.%2C++Dallastown%2C+PA+17313"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=An+Evening+With+Kristin+Phillips-Hill+and+Mike+Jones&dates=20180912T220000Z%2F20180913T000000Z&location=210+York+Street%2C+York%2C+PA%2C+17403%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=An+Evening+With+Mike+Jones&dates=20221025T220000Z%2F20221026T000000Z&location=2700+Mount+Rose+Avenue%2C+York%2C+PA%2C+17402%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Dallastown+Halloween+Parade&dates=20221020T210000Z%2F20221021T010000Z"
+},
+{
+"text": "Home",
+"href": "https://www.jones4pa.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.jones4pa.com/events/2017/10/19/dallastown-halloween-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jones4pa.com/events/2018/10/2/an-evening-with-dave-sunday-and-mike-jones-f3j4e?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jones4pa.com/events/2018/10/2/an-evening-with-dave-sunday-and-mike-jones?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jones4pa.com/events/2018/8/27/an-evening-with-kristin-philips-hill-and-mike-jones?format=ical"
+},
+{
+"text": "Oct 2 6:00 PM18:00",
+"href": "https://www.jones4pa.com/events/2018/10/2/an-evening-with-dave-sunday-and-mike-jones"
+},
+{
+"text": "Oct 20 5:00 PM17:00",
+"href": "https://www.jones4pa.com/events/2017/10/19/dallastown-halloween-parade"
+},
+{
+"text": "Oct 25 6:00 PM18:00",
+"href": "https://www.jones4pa.com/events/2018/10/2/an-evening-with-dave-sunday-and-mike-jones-f3j4e"
+},
+{
+"text": "Sep 12 6:00 PM18:00",
+"href": "https://www.jones4pa.com/events/2018/8/27/an-evening-with-kristin-philips-hill-and-mike-jones"
+},
+{
+"text": "View Event →",
+"href": "https://www.jones4pa.com/events/2017/10/19/dallastown-halloween-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.jones4pa.com/events/2018/10/2/an-evening-with-dave-sunday-and-mike-jones"
+},
+{
+"text": "View Event →",
+"href": "https://www.jones4pa.com/events/2018/10/2/an-evening-with-dave-sunday-and-mike-jones-f3j4e"
+},
+{
+"text": "View Event →",
+"href": "https://www.jones4pa.com/events/2018/8/27/an-evening-with-kristin-philips-hill-and-mike-jones"
+},
+{
+"text": "[image: Dallastown Halloween Parade]",
+"href": "https://www.jones4pa.com/events/2017/10/19/dallastown-halloween-parade"
+},
+{
+"text": "[image: Jones For PA]",
+"href": "https://www.jones4pa.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/jonesforpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jonesforpa/"
+},
+{
+"text": "[no text]",
+"href": "https://www.jones4pa.com/events/2018/10/2/an-evening-with-dave-sunday-and-mike-jones"
+},
+{
+"text": "[no text]",
+"href": "https://www.jones4pa.com/events/2018/10/2/an-evening-with-dave-sunday-and-mike-jones-f3j4e"
+},
+{
+"text": "[no text]",
+"href": "https://www.jones4pa.com/events/2018/8/27/an-evening-with-kristin-philips-hill-and-mike-jones"
+},
+{
+"text": "home",
+"href": "https://www.jones4pa.com/home"
+}
 ]

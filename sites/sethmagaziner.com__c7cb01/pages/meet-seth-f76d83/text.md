@@ -1,5 +1,4 @@
-Meet Seth Magaziner
-Seth Magaziner is a lifelong Rhode Islander, dad to Max and Lucy, and husband to Julia.
+Seth Magaziner Menu Meet Seth Take Action Volunteer News Twitter Facebook Instagram Youtube Donate Meet Seth Take Action Volunteer News Twitter Facebook Instagram Youtube Donate Meet Seth Meet Seth Magaziner Seth Magaziner is a lifelong Rhode Islander, dad to Max and Lucy, and husband to Julia.
 Before being elected to represent Rhode Island in Congress in 2022, Seth served for eight years as Rhode Island’s General Treasurer after beginning his career as a public school teacher.
 Throughout his career, Seth has been committed to putting working Rhode Islanders first.
 In Congress, he has focused on lowering costs, creating economic opportunity, defending democracy, and fighting government corruption.
@@ -14,3 +13,5 @@ Prior to entering Congress, as General Treasurer Seth led Rhode Island’s histo
 He also expanded clean energy financing through the Rhode Island Infrastructure Bank, supporting projects that created thousands of jobs while lowering energy costs for families and businesses.
 Every day, Seth continues fighting to lower costs, strengthen Rhode Island’s economy, protect fundamental rights, freedoms and democracy, while working to help create more opportunities for working families.
 He believes that government should work for the people—not special interests or political extremists—and remains committed to building a stronger, more affordable future for every Rhode Islander.
+Chip In Today!
+Help Elect Seth Magaziner $50 $100 $250 Other Twitter Facebook Instagram Youtube [email protected] PO Box 40993, Providence, RI 02940 Paid for by MAGAZINER FOR CONGRESS PRIVACY POLICY

@@ -1,17 +1,62 @@
 [
-"https://campaignpartner.com/",
-"https://i.campaignpartner.net/images/cdn_queue/18610/4cb0ea13449d437a86d422b12ca3e401.JPG",
-"https://secure.anedot.com/sethhoward/2022",
-"https://sethfordelegate.com/",
-"https://sethfordelegate.com/about_seth",
-"https://sethfordelegate.com/contact",
-"https://sethfordelegate.com/endorsements",
-"https://sethfordelegate.com/events",
-"https://sethfordelegate.com/home",
-"https://sethfordelegate.com/issues",
-"https://sethfordelegate.com/my_priorities",
-"https://sethfordelegate.com/news",
-"https://sethfordelegate.com/photos",
-"https://sethfordelegate.com/volunteer",
-"https://sethfordelegate.com/vote"
+{
+"text": "About Seth",
+"href": "https://www.sethfordelegate.com/about_seth"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.sethfordelegate.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/sethhoward/2022"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sethfordelegate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.sethfordelegate.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.sethfordelegate.com/home"
+},
+{
+"text": "My Priorities",
+"href": "https://www.sethfordelegate.com/my_priorities"
+},
+{
+"text": "News",
+"href": "https://www.sethfordelegate.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.sethfordelegate.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.sethfordelegate.com/photos"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sethfordelegate.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.sethfordelegate.com/vote"
+},
+{
+"text": "[image: Cindy Morgan, President of the Southern Anne Arundel Chamber of Commerce speaks about the fture of the Chambers partnership with businesses in South County]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/18610/4cb0ea13449d437a86d422b12ca3e401.JPG"
+},
+{
+"text": "[image]",
+"href": "https://www.sethfordelegate.com/"
+}
 ]

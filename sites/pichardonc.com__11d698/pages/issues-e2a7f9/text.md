@@ -1,121 +1,67 @@
 Laura Pichardo is the candidate for the NC State Senate District 23, representing Caswell, Person, and Orange Counties.
-District 23 has the talent, work ethic, and natural resources to emerge as one of North Carolina's strongest economic regions.
+Home Issues Donate About Laura More Home Issues Donate About Laura Home Issues Donate About Laura Laura Pichardo: Candidate for NC State Senate District 23 Laura Pichardo: Candidate for NC State Senate District 23 Laura Pichardo: Candidate for NC State Senate District 23 Laura Pichardo: Candidate for NC State Senate District 23 Laura Pichardo: Candidate for NC State Senate District 23 Laura Pichardo: Candidate for NC State Senate District 23 Want to volunteer?
+Email* Sign up Laura Pichardo for NC Senate District 23 | Priorities| 1.
+Economic Development & Small Business Support District 23 has the talent, work ethic, and natural resources to emerge as one of North Carolina's strongest economic regions.
 Our communities should not have to choose between preserving our rural heritage and creating new economic opportunities—we can do both.
 As an Accounts Payable Business Analyst with nearly a decade of experience in finance, business operations, and technology implementation, I have collaborated with organizations to enhance financial performance, streamline operations, reduce costs, and boost efficiency.
 My career has taught me that smart investments, responsible budgeting, and strategic planning are crucial for long-term economic growth in North Carolina.
 I have also worked closely with small businesses, providing me with firsthand insight into the challenges entrepreneurs face—rising operating costs, workforce shortages, excessive regulations, and limited access to capital.
 Small businesses are the backbone of District 23, and they deserve a state government that acts as a partner in their success rather than an obstacle.
-As your State Senator, I, Laura Pichardo, will work to:
-Champion Small Businesses
-- Reduce unnecessary regulations that hinder the start and growth of businesses.
-- Advocate for easier access to state grants, loans, and business development resources.
-- Strengthen partnerships with local chambers of commerce, economic development organizations, and community colleges.
-- Promote "Buy Local" initiatives that keep jobs and investments within our communities.
-Attract High-Quality Jobs
-- Recruit advanced manufacturing, life sciences, logistics, agribusiness, and technology companies to District 23.
-- Expand workforce development programs that equip residents for high-demand careers.
-- Encourage apprenticeship programs that connect students with employers directly.
-- Support site development and infrastructure improvements to enhance our region's competitiveness for new investments.
-Invest in Workforce Development
-- Expand Career and Technical Education (CTE) opportunities in our public schools.
-- Strengthen partnerships between employers, community colleges, and universities.
-- Support retraining programs for adults seeking new career opportunities.
-- Promote internships and apprenticeships that allow students to earn while they learn.
-Expand Broadband and Technology
-In 2020, I advocated for expanding high-speed internet access in Caswell County, understanding that broadband is essential infrastructure today.
-I will continue to work to:
-- Expand reliable broadband to every rural community.
-- Support technological infrastructure that attracts new employers.
-- Ensure students, farmers, healthcare providers, and entrepreneurs have access to reliable high-speed internet.
-- Encourage innovation and the responsible adoption of emerging technologies, including artificial intelligence.
-Strengthen Agriculture and Agribusiness
-Agriculture remains one of North Carolina's leading industries and is pivotal to the economy of District 23.
-I will advocate for:
-- Protecting family farms and preserving agricultural land.
-- Expanding agricultural research and innovation.
-- Supporting value-added agriculture and agribusiness.
-- Improving rural transportation infrastructure that aids farmers and manufacturers.
-- Expanding market opportunities for North Carolina agricultural products.
-Promote Tourism and Outdoor Recreation
-District 23 boasts beautiful farmland, rivers, parks, historical sites, and locally owned businesses.
-I will work to:
-- Promote outdoor recreation, hunting, fishing, and agritourism.
-- Support local festivals, historic downtowns, and cultural attractions.
-- Encourage tourism investments that create jobs while preserving our communities.
-- Help small businesses benefit from increased visitor traffic.
-Build Infrastructure That Supports Growth
-Economic development hinges on modern infrastructure.
-I will support:
-- Improving highways, bridges, and rural roads.
-- Expanding water and sewer capacity for future business development.
-- Investing in reliable utilities and emergency communications.
-- Working to ensure District 23 receives its fair share of state infrastructure funding.
-Delivering Results Through Fiscal Leadership
-Throughout my career, I have managed complex financial processes, analyzed budgets, improved operational efficiency, and aided organizations in making informed financial decisions.
+As your State Senator, I, Laura Pichardo, will work to: Champion Small Businesses - Reduce unnecessary regulations that hinder the start and growth of businesses. - Advocate for easier access to state grants, loans, and business development resources. - Strengthen partnerships with local chambers of commerce, economic development organizations, and community colleges. - Promote "Buy Local" initiatives that keep jobs and investments within our communities.
+Attract High-Quality Jobs - Recruit advanced manufacturing, life sciences, logistics, agribusiness, and technology companies to District 23. - Expand workforce development programs that equip residents for high-demand careers. - Encourage apprenticeship programs that connect students with employers directly. - Support site development and infrastructure improvements to enhance our region's competitiveness for new investments.
+Invest in Workforce Development - Expand Career and Technical Education (CTE) opportunities in our public schools. - Strengthen partnerships between employers, community colleges, and universities. - Support retraining programs for adults seeking new career opportunities. - Promote internships and apprenticeships that allow students to earn while they learn.
+Expand Broadband and Technology In 2020, I advocated for expanding high-speed internet access in Caswell County, understanding that broadband is essential infrastructure today.
+I will continue to work to: - Expand reliable broadband to every rural community. - Support technological infrastructure that attracts new employers. - Ensure students, farmers, healthcare providers, and entrepreneurs have access to reliable high-speed internet. - Encourage innovation and the responsible adoption of emerging technologies, including artificial intelligence.
+Strengthen Agriculture and Agribusiness Agriculture remains one of North Carolina's leading industries and is pivotal to the economy of District 23.
+I will advocate for: - Protecting family farms and preserving agricultural land. - Expanding agricultural research and innovation. - Supporting value-added agriculture and agribusiness. - Improving rural transportation infrastructure that aids farmers and manufacturers. - Expanding market opportunities for North Carolina agricultural products.
+Promote Tourism and Outdoor Recreation District 23 boasts beautiful farmland, rivers, parks, historical sites, and locally owned businesses.
+I will work to: - Promote outdoor recreation, hunting, fishing, and agritourism. - Support local festivals, historic downtowns, and cultural attractions. - Encourage tourism investments that create jobs while preserving our communities. - Help small businesses benefit from increased visitor traffic.
+Build Infrastructure That Supports Growth Economic development hinges on modern infrastructure.
+I will support: - Improving highways, bridges, and rural roads. - Expanding water and sewer capacity for future business development. - Investing in reliable utilities and emergency communications. - Working to ensure District 23 receives its fair share of state infrastructure funding.
+Delivering Results Through Fiscal Leadership Throughout my career, I have managed complex financial processes, analyzed budgets, improved operational efficiency, and aided organizations in making informed financial decisions.
 These experiences have shown me that economic growth does not occur by chance—it requires strategic planning, accountability, and the responsible stewardship of resources.
 The 2026 North Carolina Appropriations Act (Senate Bill 257) includes vital investments in economic development, workforce development, community colleges, transportation, broadband, and infrastructure.
 As your State Senator, I will work diligently to ensure that Caswell, Person, and Orange Counties receive their fair share of these investments while advocating for policies that foster sustainable, long-term economic growth for our communities.
-Here is a link to the 2026 NC Budget, Accessed on July 18, 2026.
-https://webservices.ncleg.gov/ViewNewsFile/118/BUDGET%20TABLE%20OF%20CONTENTS%20FOR%20S257
-Everyone deserves access to quality healthcare, whether they reside in rural areas of Caswell, Person, or Orange County.
+Here is a link to the 2026 NC Budget, Accessed on July 18, 2026. https://webservices.ncleg.gov/ViewNewsFile/118/BUDGET%20TABLE%20OF%20CONTENTS%20FOR%20S257 2.
+Strengthening Rural Healthcare Everyone deserves access to quality healthcare, whether they reside in rural areas of Caswell, Person, or Orange County.
 My priorities, as Laura Pichardo running for the NC State Senate, include addressing critical issues such as: supporting rural hospitals, urgent cares, and emergency departments; expanding access to primary care and mental health services; increasing the healthcare workforce in rural communities; and enhancing telehealth options, ensuring necessary locations in the county health department for privacy and support.
-Every child in North Carolina deserves access to a high-quality education that prepares them for success—whether they choose higher education at a university, military service, skilled trades, entrepreneurship, or entering the workforce.
+3.
+Education Every child in North Carolina deserves access to a high-quality education that prepares them for success—whether they choose higher education at a university, military service, skilled trades, entrepreneurship, or entering the workforce.
 Education should equip students with the knowledge, skills, and character they need to succeed while respecting the important role parents play in their children's education and addressing the crucial issues that affect our educational system.
-As your State Senator, Laura Pichardo, I will work to:
-Empower Parents
-- Protect parents' rights to be active partners in their child's education.
-- Increase transparency between schools and families.
-- Encourage local decision-making that reflects the values and priorities of our communities.
-Raise Academic Standards
-- Focus on reading, writing, mathematics, science, and financial literacy.
-- Support evidence-based instruction that improves student achievement.
-- Expand early literacy initiatives to ensure every child can read proficiently by the end of third grade.
-- Strengthen accountability by measuring educational outcomes, not just spending.
-Invest in Great Teachers
-- Support competitive teacher compensation that helps recruit and retain excellent educators.
-- Reduce unnecessary administrative burdens so teachers can spend more time teaching.
-- Provide professional development that strengthens classroom instruction.
-Expand Career Pathways
-- Strengthen Career and Technical Education (CTE) programs.
-- Expand apprenticeships and internship opportunities.
-- Increase partnerships between K–12 schools, community colleges, universities, and local employers.
-- Prepare students for North Carolina's growing industries, including manufacturing, healthcare, agriculture, skilled trades, technology, and public safety.
-Keep Schools Safe
-- Support school resource officers and strong partnerships with local law enforcement.
-- Improve school safety infrastructure and emergency preparedness.
-- Expand access to school-based mental health resources while maintaining safe learning environments.
-Ensure Responsible Stewardship of Taxpayer Dollars
-North Carolina has made significant investments in public education through the 2026 state budget, focusing on teacher compensation, school funding, and workforce development initiatives.
+As your State Senator, Laura Pichardo, I will work to: Empower Parents - Protect parents' rights to be active partners in their child's education. - Increase transparency between schools and families. - Encourage local decision-making that reflects the values and priorities of our communities.
+Raise Academic Standards - Focus on reading, writing, mathematics, science, and financial literacy. - Support evidence-based instruction that improves student achievement. - Expand early literacy initiatives to ensure every child can read proficiently by the end of third grade. - Strengthen accountability by measuring educational outcomes, not just spending.
+Invest in Great Teachers - Support competitive teacher compensation that helps recruit and retain excellent educators. - Reduce unnecessary administrative burdens so teachers can spend more time teaching. - Provide professional development that strengthens classroom instruction.
+Expand Career Pathways - Strengthen Career and Technical Education (CTE) programs. - Expand apprenticeships and internship opportunities. - Increase partnerships between K–12 schools, community colleges, universities, and local employers. - Prepare students for North Carolina's growing industries, including manufacturing, healthcare, agriculture, skilled trades, technology, and public safety.
+Keep Schools Safe - Support school resource officers and strong partnerships with local law enforcement. - Improve school safety infrastructure and emergency preparedness. - Expand access to school-based mental health resources while maintaining safe learning environments.
+Ensure Responsible Stewardship of Taxpayer Dollars North Carolina has made significant investments in public education through the 2026 state budget, focusing on teacher compensation, school funding, and workforce development initiatives.
 As your State Senator, I, Laura Pichardo, will work to ensure these investments are used effectively to improve student outcomes, strengthen educational opportunities, and deliver measurable results for students, parents, educators, and taxpayers across District 23.
 Education should prepare students not only to graduate—but to succeed in life, contribute to their communities, and help North Carolina remain one of the best states in America to live, work, and raise a family.
-I will vote to:
-- Uphold the Constitution, ensuring that individual rights and freedoms are protected, including the right to free speech, the right to bear arms, and religious freedom, which are critical issues for our community.
-- Support laws that ensure government transparency and accountability, keeping the public informed and involved in decision-making as part of my pledge as Laura Pichardo running for the NC State Senate.
-Broadband and Infrastructure Issues
-Reliable infrastructure strengthens every community, and as Laura Pichardo for the NC State Senate, my priorities include:
-Expanding rural broadband.
+4.
+Protecting the Constitution & Individual Rights I will vote to: - Uphold the Constitution, ensuring that individual rights and freedoms are protected, including the right to free speech, the right to bear arms, and religious freedom, which are critical issues for our community. - Support laws that ensure government transparency and accountability, keeping the public informed and involved in decision-making as part of my pledge as Laura Pichardo running for the NC State Senate.
+5.
+Infrastructure & High-Speed Internet Access Broadband and Infrastructure Issues Reliable infrastructure strengthens every community, and as Laura Pichardo for the NC State Senate, my priorities include: Expanding rural broadband.
 Improving roads and bridges.
 Modernizing water and sewer systems.
 Investing in emergency communications.
-I will vote to address the key issues facing our state by:
-- Supporting a balanced state budget, ensuring taxpayer money is spent wisely and efficiently.
-- Prioritizing essential services while cutting unnecessary government spending to maintain a healthy economic outlook for North Carolina, reinforcing my commitment as Laura Pichardo for the NC State Senate.
-I will vote to address the important issues facing our agricultural sector by advocating for policies and funding that support our farmers, who are vital to our district’s economy.
+6.
+Fiscal Responsibility & Balanced Budget I will vote to address the key issues facing our state by: - Supporting a balanced state budget, ensuring taxpayer money is spent wisely and efficiently. - Prioritizing essential services while cutting unnecessary government spending to maintain a healthy economic outlook for North Carolina, reinforcing my commitment as Laura Pichardo for the NC State Senate.
+7.
+Agricultural Development I will vote to address the important issues facing our agricultural sector by advocating for policies and funding that support our farmers, who are vital to our district’s economy.
 As Laura Pichardo running for the NC State Senate, I am committed to promoting sustainable farming practices and expanding access to markets for locally produced goods.
-I will vote to address the critical issues facing our communities by:
-- Strengthening our law enforcement agencies with the necessary funding and resources to enhance support and ensure the safety of our neighborhoods.
-- Supporting initiatives that foster trust and collaboration between law enforcement and the communities they serve, as I believe these efforts are vital for the well-being of North Carolina.
+8.
+Public Safety & Community Support I will vote to address the critical issues facing our communities by: - Strengthening our law enforcement agencies with the necessary funding and resources to enhance support and ensure the safety of our neighborhoods. - Supporting initiatives that foster trust and collaboration between law enforcement and the communities they serve, as I believe these efforts are vital for the well-being of North Carolina.
 As Laura Pichardo, I am committed to these goals in my campaign for the NC State Senate.
-- Secure funding and resources that directly benefit rural communities, helping them overcome issues related to healthcare, infrastructure, education, and economic development.
-- Develop policies that address the unique needs of rural areas, ensuring they receive fair representation and opportunities for growth, as advocated by Laura Pichardo in her campaign for the NC State Senate.
-I believe we must focus on protecting our environment while ensuring that our economy remains strong, especially when addressing the pressing issues facing North Carolina.
+9.
+Advocating for Rural Communities I will vote to: - Secure funding and resources that directly benefit rural communities, helping them overcome issues related to healthcare, infrastructure, education, and economic development. - Develop policies that address the unique needs of rural areas, ensuring they receive fair representation and opportunities for growth, as advocated by Laura Pichardo in her campaign for the NC State Senate.
+10.
+Climate Change I believe we must focus on protecting our environment while ensuring that our economy remains strong, especially when addressing the pressing issues facing North Carolina.
 As Laura Pichardo, I would work to support clean energy initiatives, promote sustainable farming practices, and protect our natural resources like forests and waterways.
 It's essential to find a balance between development and environmental preservation to secure a healthy, thriving future for everyone in the state.
 Education and community involvement will also be key in tackling these challenges together.
-I support keeping the current restrictions on abortion introduced by the Republican Majority in the North Carolina state legislature in 2023, which limit the procedure to 12 weeks.
+Stance on abortion I support keeping the current restrictions on abortion introduced by the Republican Majority in the North Carolina state legislature in 2023, which limit the procedure to 12 weeks.
 These laws represent a thoughtful balance between valuing life and allowing for necessary exceptions, such as in cases of rape, incest, and saving the life of the mother.
 As we address these critical issues, we must also show compassion by investing in programs like WIC, daycare, and Medicare to ensure that mothers receive the support and resources they need to care for themselves and their children.
 I grew up benefiting from state support through WIC and Medicare, which I deeply value due to the advantages I experienced while living in a low-income household.
 My commitment to these issues is driven by my experiences and my desire to represent these values as a candidate for the NC State Senate.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Copyright © # Laura Pichardo for NC State Senate District 23 - All Rights Reserved.
+Powered by Donate

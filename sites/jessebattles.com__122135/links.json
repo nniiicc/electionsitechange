@@ -1,18 +1,134 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSe7MGOgNtF1Fw2lKs4wzvN645fW_YsQchHiZ2CFhAdxxSYLBA/viewform",
-"https://facebook.com/JesseBattlesAL",
-"https://forms.gle/KvNotiBGCcYxgmYV8",
-"https://jessebattles.com/",
-"https://jessebattles.com/plan",
-"https://jessebattles.com/privacy",
-"https://jessebattles.com/terms",
-"https://jessebattles.com/values",
-"https://jessebattles.com/vote",
-"https://onyxstudios.co/",
-"https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles",
-"https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles?amount=100",
-"https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles?amount=25",
-"https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles?amount=250",
-"https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles?amount=50",
-"https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles?amount=500"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles?amount=500"
+},
+{
+"text": "About",
+"href": "https://www.jessebattles.com/#about"
+},
+{
+"text": "Check your registrationConfirm your address and district",
+"href": "https://www.jessebattles.com/vote#check"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JesseBattlesAL/"
+},
+{
+"text": "Find your polling placeWhere to vote on Election Day",
+"href": "https://www.jessebattles.com/vote#polls"
+},
+{
+"text": "Get Updates",
+"href": "https://www.jessebattles.com/#updates"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://forms.gle/KvNotiBGCcYxgmYV8"
+},
+{
+"text": "Home",
+"href": "https://www.jessebattles.com/#top"
+},
+{
+"text": "How to Vote",
+"href": "https://www.jessebattles.com/vote"
+},
+{
+"text": "Jesse Battles on Facebook",
+"href": "https://www.facebook.com/JesseBattlesAL/"
+},
+{
+"text": "Jesse’s Values",
+"href": "https://www.jessebattles.com/#values"
+},
+{
+"text": "Know the Truth",
+"href": "https://www.jessebattles.com/#truth"
+},
+{
+"text": "Learn More",
+"href": "https://www.jessebattles.com/plan"
+},
+{
+"text": "Learn More",
+"href": "https://www.jessebattles.com/values"
+},
+{
+"text": "Learn More",
+"href": "https://www.jessebattles.com/vote"
+},
+{
+"text": "Other amount",
+"href": "https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jessebattles.com/privacy"
+},
+{
+"text": "Register to voteOnline, takes about five minutes",
+"href": "https://www.jessebattles.com/vote#register"
+},
+{
+"text": "Report voter fraudSee something? Say something.",
+"href": "https://www.jessebattles.com/vote#fraud"
+},
+{
+"text": "Sign Up to Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe7MGOgNtF1Fw2lKs4wzvN645fW_YsQchHiZ2CFhAdxxSYLBA/viewform"
+},
+{
+"text": "Terms",
+"href": "https://www.jessebattles.com/terms"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.jessebattles.com/terms"
+},
+{
+"text": "The Plan",
+"href": "https://www.jessebattles.com/#issues"
+},
+{
+"text": "Videos",
+"href": "https://www.jessebattles.com/#videos"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jessebattles.com/#volunteer"
+},
+{
+"text": "Vote absenteeDeadlines and application",
+"href": "https://www.jessebattles.com/vote#absentee"
+},
+{
+"text": "[image]",
+"href": "https://www.jessebattles.com/#top"
+},
+{
+"text": "[image]Built by Onyx Studio",
+"href": "https://onyxstudios.co"
+}
 ]

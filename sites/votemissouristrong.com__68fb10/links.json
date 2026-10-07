@@ -1,5 +1,14 @@
 [
-"https://facebook.com/profile.php?id=61588115502419",
-"https://secure.winred.com/dr-jeff-brown-for-missouri/donate-today",
-"https://votemissouristrong.com/privacy-policy"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/dr-jeff-brown-for-missouri/donate-today"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/profile.php?id=61588115502419"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votemissouristrong.com/privacy-policy/"
+}
 ]

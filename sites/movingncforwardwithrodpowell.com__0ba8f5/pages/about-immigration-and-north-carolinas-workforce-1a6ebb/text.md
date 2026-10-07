@@ -1,4 +1,6 @@
-What I’m hearing from voters, what the data shows, and where North Carolina should go from here.
+Skip to content Moving NC Forward with Rod Powell Powered by people, driven by purpose.
+DONATE DONATE DONATE DONATE Moving NC Forward with Rod Powell Powered by people, driven by purpose.
+About Immigration and North Carolina’s Workforce By Rod Powell / July 24, 2026 What I’m hearing from voters, what the data shows, and where North Carolina should go from here.
 One subject comes up over and over when I’m having conversations with people across Senate District 44: immigration.
 People ask whether undocumented immigrants are taking jobs from North Carolinians.
 Some wonder whether they are driving wages down.
@@ -59,3 +61,4 @@ Reasonable people can see immigration differently.
 What I hope we can agree on is that North Carolina’s biggest challenges will not be solved by blaming one group of people for every problem we face.
 We can disagree about immigration policy while still working together to improve our schools, support local businesses, strengthen our communities, and make life a little easier for working families.
 That is the kind of conversation I want to have, and that is the kind of senator I hope to be.
+Readers who wish to examine the numbers for themselves can read the Carolina Forward analysis, “The Impact of Undocumented Immigrants on North Carolina’s Workforce.” ← Previous Post Next Post → Search for: Home About Endorsements Issues Blog Volunteer Donate Contact Home About Endorsements Issues Blog Volunteer Donate Contact Contact Me Call Me: (980) 368-0377 Email Me Follow Me Facebook Instagram Threads Bluesky TikTok YouTube Substack Menu Home About Issues Blog Endorsements Volunteer Donate Contact Privacy Policy Copyright © # Moving NC Forward with Rod Powell | Powered by Moving NC Forward with Rod Powell Scroll to Top

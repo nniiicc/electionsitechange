@@ -1,7 +1,1 @@
-Events & Appearances
-16
-Sep
-Wednesday, 5:30 PM – 7:30 PM
-An Evening with Ralph Ambrosio on the Rooftop at Franklin Plaza
-4 4th St, Troy , NY, 12180
-Add your event description here
+Press Room Events & Appearances Issues Volunteer Contribute Events & Appearances #ago This Week This Month ‹ Previous Tue Sep 1 2026 - Wed Sep 30 2026 Next › 16 Sep Wednesday, 5:30 PM – 7:30 PM An Evening with Ralph Ambrosio on the Rooftop at Franklin Plaza 4 4th St, Troy , NY, 12180 Add your event description here More info › Ralph Ambrosio for Congress Powered by CampaignPartner.com - Political Websites Home Press Room Issues Contribute Volunteer Events & Appearances Close Menu

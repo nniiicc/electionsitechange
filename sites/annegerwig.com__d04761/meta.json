@@ -1,7 +1,9 @@
 {
  "description": "Anne Gerwig is the Florida State Representative for District 93.",
  "final_url": "https://www.annegerwig.com/",
- "paid_for_by": null,
+ "fingerprint": "a4afe56c3060d8c603203d1fc9b7b839cf5e1e45",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Anne Gerwig, Republican for State Representative, District 93",
  "years_mentioned": [
   "2026"

@@ -1,4 +1,4 @@
-I live in Strawberry Point with my wife Kayela, who is a 4th grade teacher at Starmont, and my children, Jayden and Kendyl, who are 9th and 10th-grade students at Starmont.
+Home About Me From the Capitol The Issues More Home About Me From the Capitol The Issues Home About Me From the Capitol The Issues About Representative Gearhart I live in Strawberry Point with my wife Kayela, who is a 4th grade teacher at Starmont, and my children, Jayden and Kendyl, who are 9th and 10th-grade students at Starmont.
 Like many of you, I am a product of the public education system.
 One of the biggest concerns I have for small rural districts is that they will be forced to consolidate into larger rural districts as student populations decline, teacher shortages continue, and schools are required to pay teachers more (which is great) but not given more state funding.
 Just like the one room schools of my grandparents' generation and the individual town schools that my parents' generation attended, maybe the small rural school districts I enjoyed and my kids enjoy today will one day just be an old abandoned building that my kids will tell their kids and grandkids that used to be their school.
@@ -30,7 +30,7 @@ I was 19 years old when I raised my right hand and swore an oath to support and 
 Here we are, 22 years later, and I am still proud to honor that oath.
 My reasons for running for the Iowa House are pretty simple.
 I want someone representing our district that is from rural Iowa, that will take our conservative values like being ethical, having common sense, and unwavering integrity to Des Moines.
-Jason Gearhart will fight for your 2nd Amendment rights!
+Videos A Little Bit About Me 2nd Amendment Jason Gearhart will fight for your 2nd Amendment rights!
 Iowa Gun Owners have created a nice comparison video for you to be informed prior to the June 4th primary.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Copyright © # Gearhart for Iowa District 64 - All Rights Reserved.
+Paid for by Gearhart for Iowa Powered by

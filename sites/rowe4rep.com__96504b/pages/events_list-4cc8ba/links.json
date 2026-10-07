@@ -1,15 +1,74 @@
 [
-"http://eepurl.com/iLX4JM",
-"https://facebook.com/JRowe.Rep",
-"https://rowe4rep.com/",
-"https://rowe4rep.com/about",
-"https://rowe4rep.com/contact",
-"https://rowe4rep.com/event/lagrange-final-friday-booth",
-"https://rowe4rep.com/events",
-"https://rowe4rep.com/events/list",
-"https://rowe4rep.com/events/list?eventDisplay=past",
-"https://rowe4rep.com/events/month",
-"https://rowe4rep.com/events/today",
-"https://rowe4rep.com/issues",
-"https://secure.actblue.com/donate/judy-rowe-1"
+{
+"text": "#ago",
+"href": "https://rowe4rep.com/events/list/"
+},
+{
+"text": "About",
+"href": "https://rowe4rep.com/about/"
+},
+{
+"text": "Day",
+"href": "https://rowe4rep.com/events/today/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/judy-rowe-1"
+},
+{
+"text": "Events",
+"href": "https://rowe4rep.com/events/"
+},
+{
+"text": "Home",
+"href": "https://rowe4rep.com/"
+},
+{
+"text": "Issues",
+"href": "https://rowe4rep.com/issues/"
+},
+{
+"text": "Join the Bold Bunch",
+"href": "https://rowe4rep.com/contact/"
+},
+{
+"text": "Lagrange Final Friday booth",
+"href": "https://rowe4rep.com/event/lagrange-final-friday-booth/"
+},
+{
+"text": "List",
+"href": "https://rowe4rep.com/events/list/"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/judy-rowe-1"
+},
+{
+"text": "Month",
+"href": "https://rowe4rep.com/events/month/"
+},
+{
+"text": "Team@ReadyForBold.com",
+"href": "mailto:Team@ReadyForBold.com"
+},
+{
+"text": "Visit us on Facebook",
+"href": "https://www.facebook.com/JRowe.Rep"
+},
+{
+"text": "[image: Intuit Mailchimp]",
+"href": "http://eepurl.com/iLX4JM"
+},
+{
+"text": "[image: Judy Rowe For State Rep #51]",
+"href": "https://rowe4rep.com"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://rowe4rep.com/events/list/?eventDisplay=past"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/JRowe.Rep"
+}
 ]

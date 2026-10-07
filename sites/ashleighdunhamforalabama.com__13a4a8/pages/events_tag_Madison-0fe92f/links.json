@@ -1,18 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet-and-Greet&dates=20260823T190000Z%2F20260823T210000Z&location=13126+Henderson+Lane%2C+Madison%2C+United+States",
-"http://maps.google.com/?q=13126+Henderson+Lane+Madison+United+States",
-"https://ashleighdunhamforalabama.com/",
-"https://ashleighdunhamforalabama.com/about",
-"https://ashleighdunhamforalabama.com/cart",
-"https://ashleighdunhamforalabama.com/contact",
-"https://ashleighdunhamforalabama.com/endorsements",
-"https://ashleighdunhamforalabama.com/events",
-"https://ashleighdunhamforalabama.com/events/event-five-fknp5-ych4h-2wkjg",
-"https://ashleighdunhamforalabama.com/events/event-five-fknp5-ych4h-2wkjg?format=ical",
-"https://ashleighdunhamforalabama.com/news",
-"https://ashleighforalsupremecourt.printful.me/",
-"https://donate.campaigndeputy.com/donate/website-ashleigh-may",
-"https://facebook.com/profile.php?id=61576377703240",
-"https://instagram.com/ashleighforalabama",
-"https://tiktok.com/@ashleigh_dunham?lang=en"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=13126+henderson+lane+madison+united+states"
+},
+{
+"text": "0",
+"href": "https://www.ashleighdunhamforalabama.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ashleighdunhamforalabama.com/about"
+},
+{
+"text": "Campaign Merch",
+"href": "https://ashleighforalsupremecourt.printful.me/"
+},
+{
+"text": "Contact",
+"href": "https://www.ashleighdunhamforalabama.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://donate.campaigndeputy.com/donate/website-ashleigh-may"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ashleighdunhamforalabama.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.ashleighdunhamforalabama.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61576377703240"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet-and-Greet&dates=20260823T190000Z%2F20260823T210000Z&location=13126+Henderson+Lane%2C+Madison%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-five-fknp5-ych4h-2wkjg?format=ical"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ashleighforalabama"
+},
+{
+"text": "Meet-and-Greet",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-five-fknp5-ych4h-2wkjg"
+},
+{
+"text": "News",
+"href": "https://www.ashleighdunhamforalabama.com/news"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@ashleigh_dunham?lang=en"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-five-fknp5-ych4h-2wkjg"
+},
+{
+"text": "[image: AshLeigh for Alabama]",
+"href": "https://www.ashleighdunhamforalabama.com/"
+},
+{
+"text": "[image: Meet-and-Greet]",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-five-fknp5-ych4h-2wkjg"
+},
+{
+"text": "info@ashleighforalabama.com",
+"href": "mailto:joinus@ashleighforalabama.com"
+}
 ]

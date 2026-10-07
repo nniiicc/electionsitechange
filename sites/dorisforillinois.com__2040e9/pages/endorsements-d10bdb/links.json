@@ -1,14 +1,54 @@
 [
-"http://senatordoristurner.com/",
-"https://dorisforillinois.com/",
-"https://dorisforillinois.com/about-doris",
-"https://dorisforillinois.com/contact",
-"https://dorisforillinois.com/endorsements",
-"https://dorisforillinois.com/events",
-"https://dorisforillinois.com/issues",
-"https://dorisforillinois.com/volunteer",
-"https://facebook.com/doris.turner.395",
-"https://linkedin.com/in/doris-turner-aa03125a",
-"https://secure.actblue.com/donate/friends-of-doris-turner-1",
-"https://twitter.com/VoteforDoris"
+{
+"text": "About",
+"href": "https://dorisforillinois.com/about-doris/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/friends-of-doris-turner-1"
+},
+{
+"text": "Contact",
+"href": "https://dorisforillinois.com/contact/"
+},
+{
+"text": "Endorsements",
+"href": "https://dorisforillinois.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://dorisforillinois.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/doris.turner.395"
+},
+{
+"text": "Home",
+"href": "https://dorisforillinois.com/"
+},
+{
+"text": "Issues",
+"href": "https://dorisforillinois.com/issues/"
+},
+{
+"text": "Legislative Updates",
+"href": "http://senatordoristurner.com/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/in/doris-turner-aa03125a/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/VoteforDoris"
+},
+{
+"text": "Volunteer",
+"href": "https://dorisforillinois.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://dorisforillinois.com"
+}
 ]

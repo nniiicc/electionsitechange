@@ -1,21 +1,22 @@
-PRESS RELEASE
-Rep.
-Adam Gray Launches Re-Election Campaign in California’s 13th Congressional District
-MERCED, CA – Congressman Adam Gray announced today that he is running for re-election in California’s 13th Congressional District, emphasizing his record of delivering bipartisan results and his commitment to being an independent voice for the Central Valley.
+Skip navigation menu About News Take Action Issues Contact Media Donate About News Take Action Issues Contact Media Donate PRESS RELEASE ICYMI, Sacramento Bee: Adam Gray Discusses immigration, Socialism and Trump.
+PRESS RELEASE ADAM GRAY SECURES ENDORSEMENT FROM CALIFORNIA FRATERNAL ORDER OF POLICE PRESS RELEASE Modesto Police Officers' Association Endorses Congressman Adam Gray for Re-Election Op-ED, The Washington Post Rep.
+Gray's Op-Ed: My Purple District Can Tell You What The Democratic Autopsy Left Out PRESS RELEASE Adam Gray Issues Statement on CA-13 Primary Election Results PRESS RELEASE Central Valley Local Leaders Endorse Adam Gray's Re-Election PRESS RELEASE Central Valley Mayors Endorse Adam Gray's Re-Election PRESS RELEASE California Farm Bureau Endorses Adam Gray for Re-Election in CA-13 NEWS ARTICLE, TURLOCK JOURNAL Gray Earns Key Endorsement From California Farm Bureau NEWS ARTICLE, your central valley Congressman Gray says he would not vote to support Iran War, discusses reelection NEWS ARTICLE: Turlock Journal Gray officially kicks off re-election campaign for CA-13 NEWS ARTICLE, KCRA 3 Congressman Adam Gray announces re-election for competitive Central Valley seat PRESS RELEASE Rep.
+Adam Gray Launches Re-Election Campaign in California’s 13th Congressional District NEWS ARTICLE: Turlock Journal Gray helps Farm Bill move along NEWS ARTICLE: Fresno Bee State of the Union guest list included Madera Republican.
+Why did a Democrat invite him?
+NEWS ARTICLE: ABC 30 Valley Congressman proposes new bipartisan effort to crack down on fentanyl crisis NEWS ARTICLE: SACRAMENTO BEE Central Valley congressman caught in the middle in a bitterly divided Washington NEWS ARTICLE: Turlock Journal Gray brings growers to the table, hears big concerns NEWS ARTICLE: Turlock Journal Congressman Gray talks Trump, tariffs and immigration NEWS ARTICLE Congressman Gray introduces Valley Water Protection Act NEWS ARTICLE: Turlock Journal Congressman Gray suits up with the Blue Devils OP-ED BY ADAM GRAY: FResno Bee Adam Gray: Farmers are the ones taking the bullets in Trump’s on-again, off-again trade wars NEWS ARTICLE: Fresno Bee Editorial House Democrat Adam Gray of Merced is ready to solve problems.
+The GOP, not so much NEWS ARTICLE: CNN State of the Union What four freshman members hope to accomplish in the narrowly divided House Mar 12 2026 PRESS RELEASE Rep.
+Adam Gray Launches Re-Election Campaign in California’s 13th Congressional District MERCED, CA – Congressman Adam Gray announced today that he is running for re-election in California’s 13th Congressional District, emphasizing his record of delivering bipartisan results and his commitment to being an independent voice for the Central Valley.
 “I’ll always put the Central Valley first.
 That’s not an empty promise: it’s how I’ve approached every decision I’ve made in Congress.
 From day one, my focus has been on delivering real results back home.
-I’m running for re-election because the Valley deserves to be represented by someone who knows our community, stands up to partisan extremists on both sides, and is focused on solving the issues our communities face.”
-Gray added, “I’m proud of my record.
+I’m running for re-election because the Valley deserves to be represented by someone who knows our community, stands up to partisan extremists on both sides, and is focused on solving the issues our communities face.” Gray added, “I’m proud of my record.
 The Valley doesn’t need more politicians trying to score partisan points in Washington.
 We need results.
 I’ve proven I’ll work with anyone, Democrat or Republican, if it means lowering costs, strengthening our farms and small businesses, and making life better for Valley families.
-That’s exactly what I’ll keep doing.”
-Gray has a strong record of delivering results for local communities across the Central Valley, including:
-- Working to lower food prices by limiting costly tariffs that drive up costs for families and hurt Valley farmers.
-- Securing $16 Million in federal investments for flood protection, water treatment, and critical road and infrastructure repairs across the Valley.
-- Passing the bipartisan Farm Bill to strengthen agricultural communities and ensure farmers can continue feeding families across the country.
-- Working to expand health care access for veterans and rural communities.
-- Protecting food benefits that help the most vulnerable Valley families put food on the table.
-- Working to improve water access by cutting unnecessary red tape and securing support for new water infrastructure.
-For any questions or inquiries, please contact miles@adamgrayforcongress.com.
+That’s exactly what I’ll keep doing.” Gray has a strong record of delivering results for local communities across the Central Valley, including: Working to lower food prices by limiting costly tariffs that drive up costs for families and hurt Valley farmers.
+Securing $16 Million in federal investments for flood protection, water treatment, and critical road and infrastructure repairs across the Valley.
+Passing the bipartisan Farm Bill to strengthen agricultural communities and ensure farmers can continue feeding families across the country.
+Working to expand health care access for veterans and rural communities.
+Protecting food benefits that help the most vulnerable Valley families put food on the table.
+Working to improve water access by cutting unnecessary red tape and securing support for new water infrastructure.
+For any questions or inquiries, please contact miles@adamgrayforcongress.com . info@AdamGrayforCongress.com If donating by mail, make checks payable to: Adam Gray for Congress | PO Box 1229 Merced, CA 95341 Privacy Policy Press Inquires: press@adamGrayforCongress.com Put your “paid for” disclaimer here You need to enable JavaScript to run this app.

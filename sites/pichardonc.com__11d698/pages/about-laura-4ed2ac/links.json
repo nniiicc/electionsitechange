@@ -1,8 +1,30 @@
 [
-"https://facebook.com/200538169808567",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://pichardonc.com/",
-"https://pichardonc.com/about-laura",
-"https://pichardonc.com/donate",
-"https://pichardonc.com/issues"
+{
+"text": "About Laura",
+"href": "https://pichardonc.com/about-laura"
+},
+{
+"text": "Donate",
+"href": "https://pichardonc.com/donate"
+},
+{
+"text": "Home",
+"href": "https://pichardonc.com/"
+},
+{
+"text": "Issues",
+"href": "https://pichardonc.com/issues"
+},
+{
+"text": "[image: Laura Pichardo for NC State Senate District 23 ]",
+"href": "https://pichardonc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/200538169808567"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

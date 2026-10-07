@@ -1,5 +1,4 @@
-About Lisa
-Lisa Mair never had political aspirations.
+Home About Events Priorities Endorsements Voting Record Volunteer Contact DONATE About Lisa Lisa Mair never had political aspirations.
 She was perfectly happy doing her work in the field of nutrition, health, and wellness.
 However, as she witnessed increasing attacks on Constitutional rights and the apparent merger of government, industry, and media, she became concerned that the government no longer works on behalf of “We, the People.” She feels that we must all get involved to uphold our constitutional rights so the United States remains a beacon of freedom, prosperity, and hope for generations to come.
 We owe it to both our children and our forefathers.
@@ -22,7 +21,7 @@ She served on the subcommittee of the Planning Board and Recreation Committee in
 Lisa has also served as coordinator of after-school programs at Berlin Memorial School.
 The programs provide rich and diverse educational opportunities for students.
 Dedicated to the environment and beauty of Berlin, Lisa participates on the Earth Day Cleanup Committee which coordinates volunteers in picking up litter from the streets.
-She is an Ambassador for Braver Angels, a bipartisan organization dedicated to depolarizing political discourse and rekindling mutual respect.
+She is an Ambassador for Braver Angels , a bipartisan organization dedicated to depolarizing political discourse and rekindling mutual respect.
 To protect families from known health risks, Lisa has been advocating to keep harmful toxins out of our air, water, food, and personal and home care products.
 Lisa and Glen's children attended public schools in Berlin, Boylston, and Bolton.
 Their daughter graduated from Worcester Polytechnical Institute and their son graduated from the University of Massachusetts in Amherst.
@@ -30,3 +29,8 @@ Lisa and her family have deep roots in and a strong commitment to Massachusetts.
 She is eager to put her unique perspective and experience to work for you.
 Keep in touch!
 Enter your email below to keep updated on Lisa's campaign, events, and ways to volunteer.
+Subscribe By submitting your information, you are granting us permission to email you.
+You may unsubscribe at any time.
+Subscribed!
+Thank you for subscribing to our newsletter.
+Home About Events Priorities Endorsements Voting Record Volunteer Contact DONATE

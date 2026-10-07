@@ -1,21 +1,90 @@
 [
-"http://facebook.com/brianwalkerforward",
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+Person&dates=20261016T140000Z%2F20261102T230000Z&location=7550+Sunwood+Drive+NW%2C+Ramsey%2C+Minnesota%2C+55303%2C+United+States",
-"http://instagram.com/walker.forward",
-"http://maps.google.com/?q=7550+Sunwood+Drive+NW+Ramsey%2C+Minnesota%2C+55303+United+States",
-"https://mnvotes.gov/",
-"https://walkerforward.com/",
-"https://walkerforward.com/cart",
-"https://walkerforward.com/contact",
-"https://walkerforward.com/donate",
-"https://walkerforward.com/events",
-"https://walkerforward.com/events/early-voting-in-person?format=ical",
-"https://walkerforward.com/events/last-day-to-request-absentee-by-mail",
-"https://walkerforward.com/events/voting-early-registration-deadline",
-"https://walkerforward.com/faq",
-"https://walkerforward.com/news",
-"https://walkerforward.com/privacy-policy",
-"https://walkerforward.com/store",
-"https://walkerforward.com/volunteer",
-"https://walkerforward.com/yard-sign"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7550+sunwood+drive+nw+ramsey%2C+minnesota%2C+55303+united+states"
+},
+{
+"text": "0",
+"href": "https://www.walkerforward.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.walkerforward.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.walkerforward.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.walkerforward.com/faq"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+Person&dates=20261016T140000Z%2F20261102T230000Z&location=7550+Sunwood+Drive+NW%2C+Ramsey%2C+Minnesota%2C+55303%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.walkerforward.com/events/early-voting-in-person?format=ical"
+},
+{
+"text": "Learn more",
+"href": "https://mnvotes.gov"
+},
+{
+"text": "News",
+"href": "https://www.walkerforward.com/news"
+},
+{
+"text": "Next Next October 20 Last Day to Request Absentee By Mail",
+"href": "https://www.walkerforward.com/events/last-day-to-request-absentee-by-mail"
+},
+{
+"text": "Previous Previous October 13 Voting: Early Registration Deadline",
+"href": "https://www.walkerforward.com/events/voting-early-registration-deadline"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.walkerforward.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://www.walkerforward.com/store"
+},
+{
+"text": "Volunteer",
+"href": "https://www.walkerforward.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.walkerforward.com/yard-sign"
+},
+{
+"text": "[image: Walker Forward]",
+"href": "https://www.walkerforward.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/brianwalkerforward"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/walker.forward"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@walkerforward.com"
+},
+{
+"text": "campaign@walkerforward.com",
+"href": "mailto:campaign@walkerforward.com"
+}
 ]

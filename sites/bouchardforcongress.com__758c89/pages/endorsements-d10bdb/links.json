@@ -1,22 +1,106 @@
 [
-"http://patharrigan.com/privacy-policy",
-"https://180church.cc/staff/pastor-zo",
-"https://bouchardforcongress.com/",
-"https://bouchardforcongress.com/privacy-policy",
-"https://ellzey.house.gov/about",
-"https://facebook.com/share/19usKzuWmt?mibextid=wwXIfr",
-"https://gabeevans.house.gov/",
-"https://gophouse.org/member/RepDonniSteele/about",
-"https://instagram.com/bouchardformi?igsh=bWIyOGx5bjczdXVy",
-"https://jordan.house.gov/",
-"https://michamber.com/",
-"https://poam.net/us",
-"https://rochesterhills.org/government/mayor/index.php",
-"https://rtl.org/",
-"https://sealpac.org/",
-"https://secure.winred.com/friends-of-michael-bouchard-inc/donate",
-"https://tpaction.com/",
-"https://withhonorfundiii.org/",
-"https://x.com/bouchardformi",
-"https://zinke.house.gov/"
+{
+"text": "$10",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bouchardforcongress.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://180church.cc/staff/pastor-zo/"
+},
+{
+"text": "[image]",
+"href": "https://ellzey.house.gov/about"
+},
+{
+"text": "[image]",
+"href": "https://gabeevans.house.gov/"
+},
+{
+"text": "[image]",
+"href": "https://gophouse.org/member/RepDonniSteele/about"
+},
+{
+"text": "[image]",
+"href": "https://jordan.house.gov/"
+},
+{
+"text": "[image]",
+"href": "https://rtl.org/"
+},
+{
+"text": "[image]",
+"href": "https://sealpac.org/"
+},
+{
+"text": "[image]",
+"href": "https://withhonorfundiii.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.bouchardforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/share/19usKzuWmt/?mibextid=wwXIfr"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/bouchardformi?igsh=bWIyOGx5bjczdXVy"
+},
+{
+"text": "[image]",
+"href": "https://www.michamber.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.poam.net/us/"
+},
+{
+"text": "[image]",
+"href": "https://www.rochesterhills.org/government/mayor/index.php"
+},
+{
+"text": "[image]",
+"href": "https://www.tpaction.com/"
+},
+{
+"text": "[image]",
+"href": "https://x.com/bouchardformi"
+},
+{
+"text": "[image]",
+"href": "https://zinke.house.gov/"
+},
+{
+"text": "[no text]",
+"href": "http://www.patharrigan.com/privacy-policy"
+}
 ]

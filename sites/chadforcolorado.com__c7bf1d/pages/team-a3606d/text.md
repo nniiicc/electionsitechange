@@ -1,12 +1,1 @@
-Treasurer
-Campaign Staff - Treasurer
-Intern
-Capitol Staff- Intern
-Intern
-Capitol Staff- Intern
-Intern
-Capitol Staff- Intern
-Intern
-Capitol Staff- Intern
-Intern
-Capitol Staff- Intern
+top of page Meet Chad Team Endorsements Priorities Creating Leaders PAC Newsletters Subscribe District 37 Contact Get Involved Events Donate Team Members Jane Ringer Treasurer Campaign Staff - Treasurer Read More Shourya Hooda Intern Capitol Staff- Intern Read More Jacqueline Stephenson Intern Capitol Staff- Intern Read More Megan Crenshaw Intern Capitol Staff- Intern Read More Asma Bushara Intern Capitol Staff- Intern Read More Liam Piper Intern Capitol Staff- Intern Read More DONATE C H A D C L I F F O R D - State Representative- C H A D C L I F F O R D - State Representative- © # Paid for by Chad for Colorado, Registered Agent Chad Clifford bottom of page

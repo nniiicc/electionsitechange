@@ -1,7 +1,9 @@
 {
  "description": "Questions Dashboard on Kelley Dennison for Congress. Kelley Dennison for Congress.",
  "final_url": "https://kelleyforco.com/admin/questions",
- "paid_for_by": null,
+ "fingerprint": "e7f4095d1eb61598b656fa28db364600b8ebc028",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Questions Dashboard | Kelley Dennison for Congress",
  "years_mentioned": []
 }

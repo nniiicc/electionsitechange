@@ -1,21 +1,98 @@
 [
-"https://afcguam.com/",
-"https://afcguam.com/about",
-"https://afcguam.com/contact",
-"https://afcguam.com/event/early-voting-starts-for-primary-election",
-"https://afcguam.com/event/last-day-to-register-for-primary-election",
-"https://afcguam.com/event/primary-election",
-"https://afcguam.com/event/santa-rita-sumais-1st-annual-papaya-block-party",
-"https://afcguam.com/event/site-dedication-for-new-hospital",
-"https://afcguam.com/events",
-"https://afcguam.com/events/list",
-"https://afcguam.com/events/list?eventDisplay=past&ical=1",
-"https://afcguam.com/events/list?eventDisplay=past&outlook-ical=1",
-"https://afcguam.com/events/month",
-"https://afcguam.com/events/today",
-"https://afcguam.com/platform",
-"https://afcguam.com/volunteer-sign-up",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fafcguam.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fafcguam.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Alicia+for+Congress+Events+Archive+-+Alicia+for+Congress",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fafcguam.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Alicia+for+Congress+Events+Archive+-+Alicia+for+Congress"
+{
+"text": "#ago",
+"href": "https://afcguam.com/events/list/"
+},
+{
+"text": "About",
+"href": "https://afcguam.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://afcguam.com/contact/"
+},
+{
+"text": "Day",
+"href": "https://afcguam.com/events/today/"
+},
+{
+"text": "Early Voting Starts for Primary Election",
+"href": "https://afcguam.com/event/early-voting-starts-for-primary-election/"
+},
+{
+"text": "Events",
+"href": "https://afcguam.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://afcguam.com/events/list/?eventDisplay=past&ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://afcguam.com/events/list/?eventDisplay=past&outlook-ical=1#038;ical=1"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fafcguam.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://afcguam.com/"
+},
+{
+"text": "Join the Campaign",
+"href": "https://afcguam.com/volunteer-sign-up/"
+},
+{
+"text": "Last Day to Register for Primary Election",
+"href": "https://afcguam.com/event/last-day-to-register-for-primary-election/"
+},
+{
+"text": "List",
+"href": "https://afcguam.com/events/list/"
+},
+{
+"text": "Month",
+"href": "https://afcguam.com/events/month/"
+},
+{
+"text": "Next Events",
+"href": "https://afcguam.com/events/list/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fafcguam.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Alicia+for+Congress+Events+Archive+-+Alicia+for+Congress"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fafcguam.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Alicia+for+Congress+Events+Archive+-+Alicia+for+Congress"
+},
+{
+"text": "Platform",
+"href": "https://afcguam.com/platform/"
+},
+{
+"text": "Primary Election",
+"href": "https://afcguam.com/event/primary-election/"
+},
+{
+"text": "Santa Rita/Sumai’s 1st Annual Papaya Block Party",
+"href": "https://afcguam.com/event/santa-rita-sumais-1st-annual-papaya-block-party/"
+},
+{
+"text": "Site Dedication for New Hospital",
+"href": "https://afcguam.com/event/site-dedication-for-new-hospital/"
+},
+{
+"text": "[image: Alicia for Congress]",
+"href": "https://afcguam.com/"
+},
+{
+"text": "[tooltip: Next Events]",
+"href": "https://afcguam.com/events/list/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://afcguam.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

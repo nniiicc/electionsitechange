@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=America+on+Tap&dates=20260708T100000Z%2F20260708T120000Z&location=225+East+Sixteenth+Street%2C+Traverse+City%2C+Michigan%2C+49684%2C+United+States",
-"http://maps.google.com/?q=225+East+Sixteenth+Street+Traverse+City%2C+Michigan%2C+49684+United+States",
-"https://secure.anedot.com/friends-of-zebulon-featherly",
-"https://zebulonforcongress.com/",
-"https://zebulonforcongress.com/cart",
-"https://zebulonforcongress.com/contact-us",
-"https://zebulonforcongress.com/events",
-"https://zebulonforcongress.com/events/0ml2ln83ltl4q8de27qliue1fl9vt0",
-"https://zebulonforcongress.com/events/america-on-tap?format=ical",
-"https://zebulonforcongress.com/events/candidate-forum-on-environmental-issues",
-"https://zebulonforcongress.com/my-story",
-"https://zebulonforcongress.com/statements",
-"https://zebulonforcongress.com/transparency",
-"https://zebulonforcongress.com/where-i-stand"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=225+east+sixteenth+street+traverse+city%2C+michigan%2C+49684+united+states"
+},
+{
+"text": "0",
+"href": "https://www.zebulonforcongress.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Contact Us",
+"href": "https://www.zebulonforcongress.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-zebulon-featherly"
+},
+{
+"text": "Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=America+on+Tap&dates=20260708T100000Z%2F20260708T120000Z&location=225+East+Sixteenth+Street%2C+Traverse+City%2C+Michigan%2C+49684%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.zebulonforcongress.com/events/america-on-tap?format=ical"
+},
+{
+"text": "My Story",
+"href": "https://www.zebulonforcongress.com/my-story"
+},
+{
+"text": "Next Next July 19 Candidate Forum on Environmental Issues",
+"href": "https://www.zebulonforcongress.com/events/candidate-forum-on-environmental-issues"
+},
+{
+"text": "No Party Just People",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "Previous Previous June 24 Online Town Hall",
+"href": "https://www.zebulonforcongress.com/events/0ml2ln83ltl4q8de27qliue1fl9vt0"
+},
+{
+"text": "Statements",
+"href": "https://www.zebulonforcongress.com/statements"
+},
+{
+"text": "Transparency",
+"href": "https://www.zebulonforcongress.com/transparency"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.zebulonforcongress.com/where-i-stand"
+}
 ]

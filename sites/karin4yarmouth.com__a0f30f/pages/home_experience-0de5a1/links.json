@@ -1,12 +1,46 @@
 [
-"https://cumberlandcountyme.gov/departments/finance___treasurer/finance_committee.php",
-"https://gpcog.org/",
-"https://karin4yarmouth.com/home",
-"https://karin4yarmouth.com/home/community-involvement",
-"https://karin4yarmouth.com/home/endorsements",
-"https://karin4yarmouth.com/home/experience",
-"https://karin4yarmouth.com/home/share-your-concerns",
-"https://karin4yarmouth.com/home/support-karin",
-"https://legislature.maine.gov/real-estate-property-tax-relief-task-force",
-"https://yarmouth.me.us/government/senior_tax_assistance_yarmouth_%28stay%29.php"
+{
+"text": "Community Involvement",
+"href": "https://www.karin4yarmouth.com/home/community-involvement"
+},
+{
+"text": "Cumberland County Finance Committee",
+"href": "https://www.cumberlandcountyme.gov/departments/finance___treasurer/finance_committee.php"
+},
+{
+"text": "Endorsements",
+"href": "https://www.karin4yarmouth.com/home/endorsements"
+},
+{
+"text": "Experience",
+"href": "https://www.karin4yarmouth.com/home/experience"
+},
+{
+"text": "Greater Portland Council of Government (GPCOG)",
+"href": "https://www.gpcog.org"
+},
+{
+"text": "Home",
+"href": "https://www.karin4yarmouth.com/home"
+},
+{
+"text": "Karin Orenstein for Yarmouth State Representative",
+"href": "https://www.karin4yarmouth.com/home"
+},
+{
+"text": "Real Estate Property Tax Relief Task Force",
+"href": "https://legislature.maine.gov/real-estate-property-tax-relief-task-force"
+},
+{
+"text": "STAY",
+"href": "https://yarmouth.me.us/government/senior_tax_assistance_yarmouth_%28stay%29.php"
+},
+{
+"text": "Share your Concerns",
+"href": "https://www.karin4yarmouth.com/home/share-your-concerns"
+},
+{
+"text": "Support Karin",
+"href": "https://www.karin4yarmouth.com/home/support-karin"
+}
 ]

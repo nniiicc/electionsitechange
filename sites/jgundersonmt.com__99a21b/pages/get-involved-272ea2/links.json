@@ -1,15 +1,74 @@
 [
-"https://cart/",
-"https://checkout/",
-"https://facebook.com/profile.php?id=100095587689177",
-"https://jgundersonmt.com/",
-"https://jgundersonmt.com/events",
-"https://jgundersonmt.com/get-involved",
-"https://jgundersonmt.com/landing",
-"https://jgundersonmt.com/meet2",
-"https://jgundersonmt.com/on-the-issues",
-"https://jgundersonmt.com/privacy-policy",
-"https://jgundersonmt.com/raffle",
-"https://secure.winred.com/gunderson-for-senate-29/donate",
-"https://twitter.com/"
+{
+"text": "Checkout",
+"href": "https://checkout"
+},
+{
+"text": "Continue",
+"href": "https://jgundersonmt.com/"
+},
+{
+"text": "Donate",
+"href": "https://jgundersonmt.com/get-involved"
+},
+{
+"text": "Events",
+"href": "https://jgundersonmt.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://jgundersonmt.com/get-involved"
+},
+{
+"text": "Gun Raffle",
+"href": "https://jgundersonmt.com/raffle"
+},
+{
+"text": "Home",
+"href": "https://jgundersonmt.com/landing"
+},
+{
+"text": "Mail In",
+"href": "javascript:WebPlatform.Popups.show(1);"
+},
+{
+"text": "Meet",
+"href": "https://jgundersonmt.com/meet2"
+},
+{
+"text": "On The Issues",
+"href": "https://jgundersonmt.com/on-the-issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jgundersonmt.com/privacy-policy"
+},
+{
+"text": "Venmo",
+"href": "javascript:WebPlatform.Popups.show(2);"
+},
+{
+"text": "View Cart",
+"href": "https://cart"
+},
+{
+"text": "WinRed",
+"href": "https://secure.winred.com/gunderson-for-senate-29/donate"
+},
+{
+"text": "[image: JGundersonMT]",
+"href": "https://jgundersonmt.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100095587689177"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+}
 ]

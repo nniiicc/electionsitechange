@@ -1,19 +1,82 @@
 [
-"https://afcguam.com/",
-"https://afcguam.com/about",
-"https://afcguam.com/contact",
-"https://afcguam.com/event/general-election",
-"https://afcguam.com/events",
-"https://afcguam.com/events/2026-11-02",
-"https://afcguam.com/events/2026-11-03",
-"https://afcguam.com/events/2026-11-03?ical=1",
-"https://afcguam.com/events/2026-11-03?outlook-ical=1",
-"https://afcguam.com/events/list?tribe-bar-date=2026-11-03",
-"https://afcguam.com/events/month/2026-11",
-"https://afcguam.com/events/today",
-"https://afcguam.com/platform",
-"https://afcguam.com/volunteer-sign-up",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fafcguam.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-11-03%26ical%3D1%26eventDisplay%3Dlist",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fafcguam.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-11-03%26ical%3D1%26eventDisplay%3Dlist&name=Alicia+for+Congress+Events+Archive+-+Alicia+for+Congress",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fafcguam.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-11-03%26ical%3D1%26eventDisplay%3Dlist&name=Alicia+for+Congress+Events+Archive+-+Alicia+for+Congress"
+{
+"text": "#ago",
+"href": "https://afcguam.com/events/today/"
+},
+{
+"text": "About",
+"href": "https://afcguam.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://afcguam.com/contact/"
+},
+{
+"text": "Day",
+"href": "https://afcguam.com/events/2026-11-03/"
+},
+{
+"text": "Events",
+"href": "https://afcguam.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://afcguam.com/events/2026-11-03/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://afcguam.com/events/2026-11-03/?outlook-ical=1"
+},
+{
+"text": "General Election",
+"href": "https://afcguam.com/event/general-election/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fafcguam.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://afcguam.com/"
+},
+{
+"text": "Join the Campaign",
+"href": "https://afcguam.com/volunteer-sign-up/"
+},
+{
+"text": "List",
+"href": "https://afcguam.com/events/list/?tribe-bar-date=%23"
+},
+{
+"text": "Month",
+"href": "https://afcguam.com/events/month/2026-11/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fafcguam.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist&name=Alicia+for+Congress+Events+Archive+-+Alicia+for+Congress"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fafcguam.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist&name=Alicia+for+Congress+Events+Archive+-+Alicia+for+Congress"
+},
+{
+"text": "Platform",
+"href": "https://afcguam.com/platform/"
+},
+{
+"text": "Previous Day",
+"href": "https://afcguam.com/events/2026-11-02/"
+},
+{
+"text": "[image: Alicia for Congress]",
+"href": "https://afcguam.com/"
+},
+{
+"text": "[tooltip: Previous day]",
+"href": "https://afcguam.com/events/2026-11-02/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://afcguam.com/?post_type=tribe_events&tribe-bar-date=%23&ical=1&eventDisplay=list"
+}
 ]

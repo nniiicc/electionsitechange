@@ -1,51 +1,246 @@
 [
-"https://tx126.net/",
-"https://tx126.net/2025/11",
-"https://tx126.net/2025/12",
-"https://tx126.net/2026/01",
-"https://tx126.net/2026/02",
-"https://tx126.net/2026/03",
-"https://tx126.net/2026/04",
-"https://tx126.net/2026/05",
-"https://tx126.net/about-me",
-"https://tx126.net/activity-2",
-"https://tx126.net/author/grandmakathy",
-"https://tx126.net/author/lisapractice",
-"https://tx126.net/blog",
-"https://tx126.net/bonefide",
-"https://tx126.net/cart",
-"https://tx126.net/category/fun",
-"https://tx126.net/category/outreach",
-"https://tx126.net/category/parks",
-"https://tx126.net/category/petition",
-"https://tx126.net/category/platform",
-"https://tx126.net/category/precinct",
-"https://tx126.net/category/traveling",
-"https://tx126.net/category/uncategorized",
-"https://tx126.net/category/verify",
-"https://tx126.net/category/volpath",
-"https://tx126.net/chaplain-in-school",
-"https://tx126.net/comments/feed",
-"https://tx126.net/contact",
-"https://tx126.net/dear-melany",
-"https://tx126.net/faqs",
-"https://tx126.net/feed",
-"https://tx126.net/forums",
-"https://tx126.net/gathering-signatures-for-ballot-access-7-days-left",
-"https://tx126.net/geography-of-impact",
-"https://tx126.net/groups-2",
-"https://tx126.net/hoa",
-"https://tx126.net/home-precinct",
-"https://tx126.net/how-to-get-petition-signatures",
-"https://tx126.net/join-us-for-the-petition-party-on-may-30",
-"https://tx126.net/my-account/lost-password",
-"https://tx126.net/register",
-"https://tx126.net/shop",
-"https://tx126.net/texas-ethics-commission",
-"https://tx126.net/thank-you-for-signing-up-for-the-email-list",
-"https://tx126.net/the-race-is-on-the-runoffs-are-over-and-the-ballot-fight-begins",
-"https://tx126.net/what-is-a-precinct",
-"https://tx126.net/wp-login.php",
-"https://tx126.net/wp-login.php?redirect_to=https%3A%2F%2Fwww.tx126.net%2Fcategory%2Ffun%2F",
-"https://wordpress.org/"
+{
+"text": "About Lisa",
+"href": "https://www.tx126.net/about-me/"
+},
+{
+"text": "About Me",
+"href": "https://www.tx126.net/about-me/"
+},
+{
+"text": "Activity",
+"href": "https://www.tx126.net/activity-2/"
+},
+{
+"text": "April 2026",
+"href": "https://www.tx126.net/2026/04/"
+},
+{
+"text": "Blog",
+"href": "https://www.tx126.net/blog/"
+},
+{
+"text": "Chaplain In School?",
+"href": "https://www.tx126.net/chaplain-in-school/"
+},
+{
+"text": "Comments feed",
+"href": "https://www.tx126.net/comments/feed/"
+},
+{
+"text": "Continue reading...",
+"href": "https://www.tx126.net/bonefide/"
+},
+{
+"text": "Continue reading...",
+"href": "https://www.tx126.net/hoa/"
+},
+{
+"text": "Create an account",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "Dear Melany",
+"href": "https://www.tx126.net/dear-melany/#comment-29"
+},
+{
+"text": "December 2025",
+"href": "https://www.tx126.net/2025/12/"
+},
+{
+"text": "December 8, 2025",
+"href": "https://www.tx126.net/2025/12/"
+},
+{
+"text": "December 9, 2025",
+"href": "https://www.tx126.net/2025/12/"
+},
+{
+"text": "Donate",
+"href": "https://www.tx126.net/shop/"
+},
+{
+"text": "Entries feed",
+"href": "https://www.tx126.net/feed/"
+},
+{
+"text": "FAQs",
+"href": "https://www.tx126.net/faqs/"
+},
+{
+"text": "February 2026",
+"href": "https://www.tx126.net/2026/02/"
+},
+{
+"text": "Forums",
+"href": "https://www.tx126.net/forums/"
+},
+{
+"text": "Fun",
+"href": "https://www.tx126.net/category/fun/"
+},
+{
+"text": "Gathering Signatures for Ballot Access: # Days Left",
+"href": "https://www.tx126.net/gathering-signatures-for-ballot-access-7-days-left/"
+},
+{
+"text": "Geography of Impact",
+"href": "https://www.tx126.net/geography-of-impact/#comment-30"
+},
+{
+"text": "Grandma Kathy",
+"href": "https://www.tx126.net/author/grandmakathy/"
+},
+{
+"text": "Groups",
+"href": "https://www.tx126.net/groups-2/"
+},
+{
+"text": "HOA Leaders Heros of Daily Life",
+"href": "https://www.tx126.net/hoa/"
+},
+{
+"text": "Home",
+"href": "https://www.tx126.net/"
+},
+{
+"text": "How To Get Petition Signatures",
+"href": "https://www.tx126.net/how-to-get-petition-signatures/"
+},
+{
+"text": "January 2026",
+"href": "https://www.tx126.net/2026/01/"
+},
+{
+"text": "Join Us for the Petition Party on May 30",
+"href": "https://www.tx126.net/join-us-for-the-petition-party-on-may-30/"
+},
+{
+"text": "Join Us for the Petition Party on May 30",
+"href": "https://www.tx126.net/join-us-for-the-petition-party-on-may-30/#comment-49"
+},
+{
+"text": "Join the Email List",
+"href": "https://www.tx126.net/contact/"
+},
+{
+"text": "Lisa Practice",
+"href": "https://www.tx126.net/author/lisapractice/"
+},
+{
+"text": "Log In",
+"href": "https://www.tx126.net/wp-login.php?redirect_to=https%3A%2F%2Fwww.tx126.net%2Fcategory%2Ffun%2F"
+},
+{
+"text": "Log in",
+"href": "https://www.tx126.net/wp-login.php"
+},
+{
+"text": "Lost Password?",
+"href": "https://www.tx126.net/my-account/lost-password/"
+},
+{
+"text": "March 2026",
+"href": "https://www.tx126.net/2026/03/"
+},
+{
+"text": "May 2026",
+"href": "https://www.tx126.net/2026/05/"
+},
+{
+"text": "November 2025",
+"href": "https://www.tx126.net/2025/11/"
+},
+{
+"text": "Outreach Ideas",
+"href": "https://www.tx126.net/category/outreach/"
+},
+{
+"text": "Parks",
+"href": "https://www.tx126.net/category/parks/"
+},
+{
+"text": "Petition",
+"href": "https://www.tx126.net/category/petition/"
+},
+{
+"text": "Platform",
+"href": "https://www.tx126.net/category/platform/"
+},
+{
+"text": "Precinct",
+"href": "https://www.tx126.net/category/precinct/"
+},
+{
+"text": "Precinct 874 – Home - Lisa for TX 126",
+"href": "https://www.tx126.net/home-precinct/"
+},
+{
+"text": "Register",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "Sign Up for Emails",
+"href": "https://www.tx126.net/contact/"
+},
+{
+"text": "SocialProof",
+"href": "https://www.tx126.net/bonefide/"
+},
+{
+"text": "Texas Ethics Commission",
+"href": "https://www.tx126.net/texas-ethics-commission/#comment-35"
+},
+{
+"text": "Thank you for signing up for the Email List! - Lisa for TX 126",
+"href": "https://www.tx126.net/thank-you-for-signing-up-for-the-email-list/"
+},
+{
+"text": "The Race is On: The Runoffs Are Over and the Fight to get on the Ballot Begins",
+"href": "https://www.tx126.net/the-race-is-on-the-runoffs-are-over-and-the-ballot-fight-begins/"
+},
+{
+"text": "The Race is On: The Runoffs Are Over and the Fight to get on the Ballot Begins - Lisa for TX 126",
+"href": "https://www.tx126.net/the-race-is-on-the-runoffs-are-over-and-the-ballot-fight-begins/"
+},
+{
+"text": "Traveling",
+"href": "https://www.tx126.net/category/traveling/"
+},
+{
+"text": "Uncategorized",
+"href": "https://www.tx126.net/category/uncategorized/"
+},
+{
+"text": "Verify",
+"href": "https://www.tx126.net/category/verify/"
+},
+{
+"text": "Volunteer Path",
+"href": "https://www.tx126.net/category/volpath/"
+},
+{
+"text": "What is a Precinct?",
+"href": "https://www.tx126.net/what-is-a-precinct/#comment-34"
+},
+{
+"text": "WordPress.org",
+"href": "https://wordpress.org/"
+},
+{
+"text": "[image: Lisa for TX 126]",
+"href": "https://www.tx126.net/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/bonefide/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/hoa/"
+},
+{
+"text": "[tooltip: View Cart]",
+"href": "https://www.tx126.net/cart/"
+}
 ]

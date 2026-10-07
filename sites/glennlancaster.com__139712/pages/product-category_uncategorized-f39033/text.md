@@ -1,7 +1,15 @@
-Return policy
-If your product arrives damaged, defective, in the wrong size, with print in the wrong area, or is the wrong product, please reach out to us at service_shop@hapigood.com.
+About Priorities News Support Volunteer Event Sign-Up Terms and Conditions Privacy Policy Contact Contribute Privacy Policy © # Paid for by Love Where You Live #23304 | PO BOX 512 Independence, OR 97351.
+All rights reserved.
+Services by burnett media group .
+Hosting by Hostdoodle .
+Uncategorized Showing 1–16 of 28 results Filter Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Cascades Coffee Blend (Medium-Dark Roast) $ 19.54 Ceramic Mug – “Love Where You Live” – Perfect Gift for Coffee Lovers $ 6.24 – $ 8.14 Price range: $6.24 through $8.14 Ceramic Mug, (11oz, 15oz) $ 6.16 – $ 8.05 Price range: $6.16 through $8.05 Ceramic Mug, (11oz) $ 6.24 High Lakes Coffee Blend (Light Roast) $ 19.54 Hooded Sweatshirt $ 26.98 – $ 31.86 Price range: $26.98 through $31.86 Kiss-Cut Stickers $ 1.78 – $ 2.50 Price range: $1.78 through $2.50 Love Where You Live Baseball Cap – Stylish Low Profile Hat for Community Pride $ 17.74 Love Where You Live Tote Bag – Eco-Friendly for Everyday Adventures $ 15.48 – $ 21.11 Price range: $15.48 through $21.11 Love Where You Live Unisex T-Shirt – Heart Design $ 15.51 – $ 22.08 Price range: $15.51 through $22.08 Men’s Polo Shirt $ 35.65 – $ 39.55 Price range: $35.65 through $39.55 Men’s Polo Shirt $ 35.65 – $ 39.55 Price range: $35.65 through $39.55 Mouse Pad (Rectangle) $ 6.10 Mug 15oz $ 9.24 Rock Creek Coffee Blend (Medium Roast) $ 19.54 Spiral Notebook – Ruled Line $ 10.06 1 2 → Return policy Read more Return policy If your product arrives damaged, defective, in the wrong size, with print in the wrong area, or is the wrong product, please reach out to us at service_shop@hapigood.com .
 When you contact us, make sure to include your first name, last name, order number, necessary photo proof, and comments about the issue.
 A free replacement or a refund request will be reviewed if the problem is reported to our support email service_shop@hapigood.com within 30 days of product delivery.
 Kindly be aware that if you realize you need a different size after receiving your order, the items won't be eligible for return or refund.
 Moreover, any product(s) that have been resized, damaged, or altered in any way after delivery cannot be accepted for return.
 If your items qualify for a replacement or refund, you will receive a confirmation email.
+Father, Grandfather, Husband Wilsonville Community Advocate Electrical Engineering Entrepreneur About Priorities News Shop Support Contribute Volunteer Event Sign-Up Glenn@GlennLancaster.com GlennLancaster.com PO Box 512,Independence, OR 97351 Contact Glenn's Personal Phone: 971.396.6610 [call or text] © # Paid for by Love Where You Live #23304 | PO BOX 512 Independence, OR 97351.
+All rights reserved.
+Services by burnett media group .
+Hosting by Hostdoodle .
+Privacy Policy Terms and conditions Close Font Resize A- A+ Keyboard navigation Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Close Accessibility by WAH

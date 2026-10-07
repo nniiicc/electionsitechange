@@ -1,5 +1,10 @@
-Meet Melanie
-Meet Melanie Miller.
+Melanie Miller for Ohio House Guiding Principles Meet Melanie Endorsements Media Volunteer Contact Donate Menu Melanie Miller for Ohio House Guiding Principles Meet Melanie Endorsements Media Volunteer Contact Donate Menu JOIN OUR TEAM!
+Connect with Melanie We’re in this together!
+No campaign can be successful without the help of a lot of volunteers, and as we get closer to Election Day, would you be willing to display a sign in your yard, or write a letter to the editor telling others why you support my candidacy?
+Would you be willing to go door-to-door on your street, or even making phone calls?
+I would be honored to have you on our team!
+If you have any questions for me, I can be reached at MelanieMillerforOhio@gmail.com.
+Volunteer I Am Interested In: A Yard Sign Volunteering Writing a Letter to the Editor Donating Joining Your Mailing List X Meet Melanie Share Meet Melanie Miller.
 A trusted community leader, advocate, spokesperson, and wife — Melanie Miller is making a difference.
 For nearly 20 years, Melanie has served our community and fought for our Conservative values.
 Melanie is the Executive Director of the Ashland Pregnancy Care Center, an organization that provides compassionate care and life-affirming options to women in the greater-Ashland County area who are facing unexpected pregnancies.
@@ -13,10 +18,15 @@ Melanie’s values flow from her faith in God, and she knows that faith forms th
 She understands that Conservatives need fighters in the Statehouse who promote and defend these values every day.
 Prior to her career in nonprofit management, Melanie was a spokeswoman for and featured in the documentary film “Yellow Roses: Real Girls.
 Real Life.
-Real Hope,” which addresses the challenges young women face as they come of age in today’s society, and helps young women discover their priceless value.
+Real Hope,” which addresses the challenges young women face as they come of age in today’s society, and helps young women discover their priceless value .
 In addition, Melanie was crowned Miss Ohio 2006 and Mrs.
 Ohio America 2011, and she is the only Mrs.
 Ohio America to also hold the title Miss Ohio.
 Melanie is a graduate of Cleveland State University.
 She has been married to the love of her life, Matt, for 16 years.
 They reside in Ashland, Ohio.
+Melanie Miller for Ohio House Paid for by the Committee to Elect Melanie Miller.
+Barbie Lange, Treasurer.
+Website links do not imply endorsements.
+JOIN OUR TEAM!
+Copyright © # Melanie Miller, All rights reserved.

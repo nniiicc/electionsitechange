@@ -1,49 +1,214 @@
 [
-"https://anita4newmexico.com/",
-"https://anita4newmexico.com/about",
-"https://anita4newmexico.com/about/about-house-district-70",
-"https://anita4newmexico.com/contact-us",
-"https://anita4newmexico.com/endorsements",
-"https://anita4newmexico.com/news",
-"https://anita4newmexico.com/priorities",
-"https://anita4newmexico.com/privacy-terms",
-"https://anita4newmexico.com/site-map",
-"https://anita4newmexico.com/upcoming-events",
-"https://anita4newmexico.com/volunteer-for-our-campaign",
-"https://anita4newmexico.com/voting",
-"https://anita4newmexico.com/wp-admin",
-"https://anita4newmexico.com/wp-admin/post.php?post=1637&action=edit",
-"https://berncoclerk.gov/voter-registration/same-day-registration",
-"https://co.sanmiguel.nm.us/clerk/index.php",
-"https://evowebdev.com/",
-"https://facebook.com/anita4newmexico",
-"https://instagram.com/anita_gonzales_for_new_mexico",
-"https://maps.app.goo.gl/2bPL82xZ6bwzc53VA",
-"https://maps.app.goo.gl/6yHM5KHsiqrWD4su5",
-"https://maps.app.goo.gl/8EBNNavuJKfYiZ7c8",
-"https://maps.app.goo.gl/B25PSVzPXLbfoxxB7",
-"https://maps.app.goo.gl/C9JApHfX8UJLQpkTA",
-"https://maps.app.goo.gl/Etj5LuGo9WYXnBA78",
-"https://maps.app.goo.gl/MLc2eAzHa8mTMpdX7",
-"https://maps.app.goo.gl/QAF1gaQ9AoX7rpGQ6",
-"https://maps.app.goo.gl/QJ9fX7KvcMyE1AY87",
-"https://maps.app.goo.gl/VxJvYTmYMddDwRse7",
-"https://maps.app.goo.gl/W647Rn93ZjRoMu4y5",
-"https://maps.app.goo.gl/XSm84Rq5u88RgVJdA",
-"https://maps.app.goo.gl/XaYPeW7rHSGW7CbUA",
-"https://maps.app.goo.gl/Z68GKqqxSyXw9M7z9",
-"https://maps.app.goo.gl/dXAp99x75KWhgQnX8",
-"https://maps.app.goo.gl/eP7opzhxdtvvKpH78",
-"https://maps.app.goo.gl/iwW48jGgQ9Hbt2b77",
-"https://maps.app.goo.gl/kRfuK8QJ18ftNBAC9",
-"https://maps.app.goo.gl/nAcyopaqrr7nmmyX7",
-"https://maps.app.goo.gl/nJrPbh7FmBkUoDYXA",
-"https://maps.app.goo.gl/oeeUv8VfkVvdVibU7",
-"https://maps.app.goo.gl/p6WF51y9qdaSp1xUA",
-"https://maps.app.goo.gl/rX8wLrDLdaKghdgz6",
-"https://maps.app.goo.gl/sdzkduQx1bHL7BDN8",
-"https://maps.app.goo.gl/tfeiQq4ZMyw87Tvr8",
-"https://secure.numero.ai/contribute/friendsforanitagonzales",
-"https://torrancecountynm.org/index.php?page=county-clerk",
-"https://twitter.com/anita4nm"
+{
+"text": "04 Community Center Rd Manzano, NM 87036",
+"href": "https://maps.app.goo.gl/QJ9fX7KvcMyE1AY87"
+},
+{
+"text": "101 Big Mesa Ave., Conchas, NM 88416",
+"href": "https://maps.app.goo.gl/C9JApHfX8UJLQpkTA"
+},
+{
+"text": "111 N. Roosevelt Ave Mountainair, NM 87036",
+"href": "https://maps.app.goo.gl/MLc2eAzHa8mTMpdX7"
+},
+{
+"text": "12 County Road A1, Sapello, NM 87745",
+"href": "https://maps.app.goo.gl/sdzkduQx1bHL7BDN8"
+},
+{
+"text": "1240 5th St., Las Vegas 87701",
+"href": "https://maps.app.goo.gl/Etj5LuGo9WYXnBA78"
+},
+{
+"text": "157 Moreno St., Las Vegas 87701",
+"href": "https://maps.app.goo.gl/6yHM5KHsiqrWD4su5"
+},
+{
+"text": "18 Torreon Heights Rd Torreon, NM 87061",
+"href": "https://maps.app.goo.gl/oeeUv8VfkVvdVibU7"
+},
+{
+"text": "19 Vidal Street Duran, NM 88319",
+"href": "https://maps.app.goo.gl/p6WF51y9qdaSp1xUA"
+},
+{
+"text": "202 Broadway Ave Moriarty, NM 87035",
+"href": "https://maps.app.goo.gl/iwW48jGgQ9Hbt2b77"
+},
+{
+"text": "24 Panther Parkway, Pecos, NM 87552",
+"href": "https://maps.app.goo.gl/nJrPbh7FmBkUoDYXA"
+},
+{
+"text": "2422 US Route 66 Moriarty, NM 87035",
+"href": "https://maps.app.goo.gl/XaYPeW7rHSGW7CbUA"
+},
+{
+"text": "26 County Road B28A, Serafina, NM 87569",
+"href": "https://maps.app.goo.gl/tfeiQq4ZMyw87Tvr8"
+},
+{
+"text": "278 NM Highway 105, Rociada, NM 87742",
+"href": "https://maps.app.goo.gl/rX8wLrDLdaKghdgz6"
+},
+{
+"text": "3327 Ojitos Frios Rd., Las Vegas, NM 87701",
+"href": "https://maps.app.goo.gl/8EBNNavuJKfYiZ7c8"
+},
+{
+"text": "42 County Road C51A, Trujillo, NM 87701",
+"href": "https://maps.app.goo.gl/kRfuK8QJ18ftNBAC9"
+},
+{
+"text": "427 B North Main Street, Encino, NM 88321",
+"href": "https://maps.app.goo.gl/QAF1gaQ9AoX7rpGQ6"
+},
+{
+"text": "520 N. Becker Ave. Willard, NM 87063",
+"href": "https://maps.app.goo.gl/eP7opzhxdtvvKpH78"
+},
+{
+"text": "6 Yellow Brick Road, Anton Chico, NM 87711",
+"href": "https://maps.app.goo.gl/nAcyopaqrr7nmmyX7"
+},
+{
+"text": "709 Hopewell Estancia, NM 87016",
+"href": "https://maps.app.goo.gl/XSm84Rq5u88RgVJdA"
+},
+{
+"text": "79 Willow Lake Rd., McIntosh, NM 87032",
+"href": "https://maps.app.goo.gl/B25PSVzPXLbfoxxB7"
+},
+{
+"text": "8 Calle Loma, San Juan 87565",
+"href": "https://maps.app.goo.gl/2bPL82xZ6bwzc53VA"
+},
+{
+"text": "85 NM Highway 484, Ribera, NM 87560",
+"href": "https://maps.app.goo.gl/VxJvYTmYMddDwRse7"
+},
+{
+"text": "8636 Hwy 55 Tajique, NM 87016",
+"href": "https://maps.app.goo.gl/dXAp99x75KWhgQnX8"
+},
+{
+"text": "9 NM Highway 419, Trementina, NM 88439",
+"href": "https://maps.app.goo.gl/W647Rn93ZjRoMu4y5"
+},
+{
+"text": "91 County Road B47A, Las Vegas, NM 87701",
+"href": "https://maps.app.goo.gl/Z68GKqqxSyXw9M7z9"
+},
+{
+"text": "About",
+"href": "https://anita4newmexico.com/about/"
+},
+{
+"text": "About Anita",
+"href": "https://anita4newmexico.com/about/"
+},
+{
+"text": "About Anita Gonzales",
+"href": "https://anita4newmexico.com/about/"
+},
+{
+"text": "About District 70",
+"href": "https://anita4newmexico.com/about/about-house-district-70/"
+},
+{
+"text": "About House District 70",
+"href": "https://anita4newmexico.com/about/about-house-district-70/"
+},
+{
+"text": "Admin",
+"href": "https://anita4newmexico.com/wp-admin"
+},
+{
+"text": "Contact",
+"href": "https://anita4newmexico.com/contact-us/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.numero.ai/contribute/friendsforanitagonzales"
+},
+{
+"text": "Designed and developed by Evo",
+"href": "https://evowebdev.com"
+},
+{
+"text": "Edit This",
+"href": "https://anita4newmexico.com/wp-admin/post.php?post=1637&action=edit"
+},
+{
+"text": "Endorsements",
+"href": "https://anita4newmexico.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://anita4newmexico.com/upcoming-events/"
+},
+{
+"text": "Home",
+"href": "https://anita4newmexico.com/"
+},
+{
+"text": "News",
+"href": "https://anita4newmexico.com/news/"
+},
+{
+"text": "News/Events",
+"href": "https://anita4newmexico.com/upcoming-events/"
+},
+{
+"text": "Priorities",
+"href": "https://anita4newmexico.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://anita4newmexico.com/privacy-terms/"
+},
+{
+"text": "Same Day Registration",
+"href": "https://www.berncoclerk.gov/voter-registration/same-day-registration/"
+},
+{
+"text": "Site Map",
+"href": "https://anita4newmexico.com/site-map/"
+},
+{
+"text": "Upcoming Events",
+"href": "https://anita4newmexico.com/upcoming-events/"
+},
+{
+"text": "Volunteer",
+"href": "https://anita4newmexico.com/volunteer-for-our-campaign/"
+},
+{
+"text": "Voting",
+"href": "https://anita4newmexico.com/voting/"
+},
+{
+"text": "[image: Anita4NewMexico]",
+"href": "https://anita4newmexico.com/"
+},
+{
+"text": "[image: Follow us on Instagram]",
+"href": "https://www.instagram.com/anita_gonzales_for_new_mexico/"
+},
+{
+"text": "[image: Follow us on Twitter]",
+"href": "https://twitter.com/anita4nm"
+},
+{
+"text": "[image: Friend us on Facebook]",
+"href": "https://www.facebook.com/anita4newmexico"
+},
+{
+"text": "website",
+"href": "https://co.sanmiguel.nm.us/clerk/index.php"
+},
+{
+"text": "website",
+"href": "https://www.torrancecountynm.org/index.php?page=county-clerk"
+}
 ]

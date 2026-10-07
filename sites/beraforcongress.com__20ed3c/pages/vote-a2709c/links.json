@@ -1,25 +1,106 @@
 [
-"https://beraforcongress.com/",
-"https://beraforcongress.com/about",
-"https://beraforcongress.com/endorsements",
-"https://beraforcongress.com/issues",
-"https://beraforcongress.com/news",
-"https://ca.omniballot.us/sites/06057/default/app/home",
-"https://covr.sos.ca.gov/",
-"https://designedtorun.com/",
-"https://eldoradocounty.ca.gov/County-Government/Elections/Voting/Vote-Centers-and-Drop-Box-Locations",
-"https://eldoradocounty.ca.gov/files/assets/county/v/1/documents/government/elections/20260602/voter-information-pamphlet/voter-information-packet.pdf",
-"https://facebook.com/BeraForCongress",
-"https://instagram.com/amiberamd",
-"https://myvoterportal.saccounty.gov/CountyVoterInfoGuide",
-"https://myvoterportal.saccounty.gov/FindBallotDropOff",
-"https://myvoterportal.saccounty.gov/FindVoteCenter",
-"https://nevadacountyca.gov/4221/Drop-Box-and-Vote-Center-Information-Jun",
-"https://placer.maps.arcgis.com/apps/webappviewer/index.html?id=3ff5b4b1d0c54d609d547ff0bb7de064",
-"https://placercountyelections.gov/drop-box-locations",
-"https://placercountyelections.gov/vote-center-locations",
-"https://secure.actblue.com/donate/ami-bera-1",
-"https://threads.net/@amiberamd",
-"https://voterstatus.sos.ca.gov/",
-"https://x.com/AmiBeraMD"
+{
+"text": "916-205-9171",
+"href": "tel:916-205-9171"
+},
+{
+"text": "About Dr. Bera",
+"href": "https://www.beraforcongress.com/about"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://voterstatus.sos.ca.gov/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ami-bera-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.beraforcongress.com/endorsements"
+},
+{
+"text": "HERE",
+"href": "https://ca.omniballot.us/sites/06057/default/app/home"
+},
+{
+"text": "HERE",
+"href": "https://myvoterportal.saccounty.gov/CountyVoterInfoGuide"
+},
+{
+"text": "HERE",
+"href": "https://myvoterportal.saccounty.gov/FindBallotDropOff"
+},
+{
+"text": "HERE",
+"href": "https://myvoterportal.saccounty.gov/FindVoteCenter"
+},
+{
+"text": "HERE",
+"href": "https://placer.maps.arcgis.com/apps/webappviewer/index.html?id=3ff5b4b1d0c54d609d547ff0bb7de064"
+},
+{
+"text": "HERE",
+"href": "https://www.eldoradocounty.ca.gov/County-Government/Elections/Voting/Vote-Centers-and-Drop-Box-Locations"
+},
+{
+"text": "HERE",
+"href": "https://www.eldoradocounty.ca.gov/files/assets/county/v/1/documents/government/elections/20260602/voter-information-pamphlet/voter-information-packet.pdf"
+},
+{
+"text": "HERE",
+"href": "https://www.nevadacountyca.gov/4221/Drop-Box-and-Vote-Center-Information-Jun"
+},
+{
+"text": "HERE",
+"href": "https://www.placercountyelections.gov/drop-box-locations/"
+},
+{
+"text": "HERE",
+"href": "https://www.placercountyelections.gov/vote-center-locations/"
+},
+{
+"text": "On the Issues",
+"href": "https://www.beraforcongress.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://covr.sos.ca.gov/"
+},
+{
+"text": "The Latest",
+"href": "https://www.beraforcongress.com/news"
+},
+{
+"text": "[image: Dr. Ami Bera for Congress]",
+"href": "https://www.beraforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/BeraForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/amiberamd"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@amiberamd"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/AmiBeraMD"
+},
+{
+"text": "info@beraforcongress.com",
+"href": "mailto:info@beraforcongress.com"
+},
+{
+"text": "press@beraforcongress.com",
+"href": "mailto:press@beraforcongress.com"
+}
 ]

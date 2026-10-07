@@ -1,8 +1,7 @@
-The Van Buren County Register published this letter from me in February.
+HOME MEET TOM ISSUES NEWS EVENTS CONTACT DONATE THE MOST GOOD FOR THE MOST PEOPLE AT THE LEAST COST Letter to the Editor: Van Buren County School Cuts Sep 18, 2024 | Uncategorized The Van Buren County Register published this letter from me in February.
 It summarizes one reason I’m running for Iowa House District 87.
 I’ll note that when this was published, the General Assembly hadn’t yet set the increase in state aid to schools.
-The final number: 2.5 percent, 1 point below what Van Buren County Community Schools need to avoid cuts:
-Van Buren County Register readers received alarming news with the February 15 edition: Van Buren County Community School District leaders project they must cut the about $100,000 from the budget annually for the next five years.
+The final number: 2.5 percent, 1 point below what Van Buren County Community Schools need to avoid cuts: Van Buren County Register readers received alarming news with the February 15 edition: Van Buren County Community School District leaders project they must cut the about $100,000 from the budget annually for the next five years.
 That’s a total of half a million dollars less for teachers, books, classrooms and student services by fiscal year 2029.
 The main reason: inadequate increases in state aid to schools.
 Superintendent Jeremy Hissem explained that Van Buren schools need annual boosts of at least 3.5% to cope with projected expenses.
@@ -13,3 +12,5 @@ Kim Reynolds recommended a 2.5% increase.
 The legislature’s highest proposed school aid increase is 3%.
 Meanwhile, Republicans are paying private schools millions of tax dollars to subsidize tuition for wealthy families.
 Van Buren Countians watching their schools wither should remember who’s responsible when they vote in November.
+Contact Tom! info@odonnellforhouse87.com 641-630-3757 PAID FOR BY TOM O’DONNELL FOR HD87 26849 South St.
+Keosauqua, IA 52565 PRIVACY POLICY

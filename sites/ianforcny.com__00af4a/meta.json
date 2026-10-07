@@ -1,7 +1,11 @@
 {
  "description": "Ian Phillips is running for New York State Assembly, District 126!",
  "final_url": "https://www.ianforcny.com/",
- "paid_for_by": "Paid for by Ian for CNY",
+ "fingerprint": "b7c08aac533329c42498929c3bc8327f0a0e9d87",
+ "format": 3,
+ "paid_for_by": "Paid for by Ian for CNY You need to enable JavaScript to run this app",
  "title": "Ian for Central New York",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

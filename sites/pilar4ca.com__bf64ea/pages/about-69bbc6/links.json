@@ -1,14 +1,58 @@
 [
-"https://facebook.com/Pilar4CA",
-"https://instagram.com/pilar4ca",
-"https://pilar4ca.com/",
-"https://pilar4ca.com/about",
-"https://pilar4ca.com/donate",
-"https://pilar4ca.com/endorsements",
-"https://pilar4ca.com/gallery",
-"https://pilar4ca.com/privacy-policy",
-"https://pilar4ca.com/volunteer",
-"https://pilar4ca.com/vote",
-"https://twitter.com/Pilar4CA",
-"https://youtube.com/@Pilar4CA"
+{
+"text": "Donate",
+"href": "https://pilar4ca.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://pilar4ca.com/endorsements/"
+},
+{
+"text": "Gallery",
+"href": "https://pilar4ca.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://pilar4ca.com/"
+},
+{
+"text": "Meet Pilar",
+"href": "https://pilar4ca.com/about/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://pilar4ca.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://pilar4ca.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://pilar4ca.com/vote/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Pilar4CA"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/pilar4ca/"
+},
+{
+"text": "[image: Pilar Schiavo for State Assembly]",
+"href": "https://pilar4ca.com/"
+},
+{
+"text": "[image: X]",
+"href": "https://twitter.com/Pilar4CA"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@Pilar4CA"
+},
+{
+"text": "contact@pilar4ca.com",
+"href": "mailto:contact@pilar4ca.com"
+}
 ]

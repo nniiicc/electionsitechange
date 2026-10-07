@@ -1,17 +1,66 @@
 [
-"https://damooseforsenate.com/",
-"https://damooseforsenate.com/about-john",
-"https://damooseforsenate.com/contact-8",
-"https://damooseforsenate.com/legislative-record-1",
-"https://damooseforsenate.com/results",
-"https://damooseforsenate.com/top-priorities",
-"https://secure.winred.com/damoose-for-state-senate/donate-today?exitintent=true",
-"https://senatorjohndamoose.com/damoose-applauds-mdot-grant-funding-for-sault-ste-marie-road-repairs",
-"https://senatorjohndamoose.com/damoose-legislation-seeks-to-enhance-education-standards-retain-effective-teachers",
-"https://senatorjohndamoose.com/damoose-supports-legislation-to-curb-robocall-scams-in-michigan",
-"https://senatorjohndamoose.com/damoose-supports-legislation-to-stop-uia-clawbacks-hold-residents-and-businesses-harmless",
-"https://senatorjohndamoose.com/senate-committee-approves-nrtf-recommendations-2",
-"https://senatorjohndamoose.com/senate-passes-bipartisan-legislation-to-fight-human-trafficking-in-michigan",
-"https://senatorjohndamoose.com/senate-passes-damoose-legislation-supporting-mackinac-island",
-"https://senatorjohndamoose.com/senate-passes-legislation-offering-flexibility-for-schools-affected-by-northern-michigan-ice-storm"
+{
+"text": "About",
+"href": "https://www.damooseforsenate.com/about-john"
+},
+{
+"text": "Contact",
+"href": "https://www.damooseforsenate.com/contact-8"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/damoose-for-state-senate/donate-today?exitintent=true"
+},
+{
+"text": "Home",
+"href": "https://www.damooseforsenate.com"
+},
+{
+"text": "Learn More",
+"href": "https://www.senatorjohndamoose.com/damoose-applauds-mdot-grant-funding-for-sault-ste-marie-road-repairs/"
+},
+{
+"text": "Learn More",
+"href": "https://www.senatorjohndamoose.com/damoose-legislation-seeks-to-enhance-education-standards-retain-effective-teachers/"
+},
+{
+"text": "Learn More",
+"href": "https://www.senatorjohndamoose.com/damoose-supports-legislation-to-curb-robocall-scams-in-michigan/"
+},
+{
+"text": "Learn More",
+"href": "https://www.senatorjohndamoose.com/damoose-supports-legislation-to-stop-uia-clawbacks-hold-residents-and-businesses-harmless/"
+},
+{
+"text": "Learn More",
+"href": "https://www.senatorjohndamoose.com/senate-committee-approves-nrtf-recommendations-2/"
+},
+{
+"text": "Learn More",
+"href": "https://www.senatorjohndamoose.com/senate-passes-bipartisan-legislation-to-fight-human-trafficking-in-michigan/"
+},
+{
+"text": "Learn More",
+"href": "https://www.senatorjohndamoose.com/senate-passes-damoose-legislation-supporting-mackinac-island/"
+},
+{
+"text": "Learn More",
+"href": "https://www.senatorjohndamoose.com/senate-passes-legislation-offering-flexibility-for-schools-affected-by-northern-michigan-ice-storm/"
+},
+{
+"text": "Legislative Record",
+"href": "https://www.damooseforsenate.com/legislative-record-1"
+},
+{
+"text": "Results",
+"href": "https://www.damooseforsenate.com/results"
+},
+{
+"text": "Top Priorities",
+"href": "https://www.damooseforsenate.com/top-priorities"
+},
+{
+"text": "info@damooseforsenate.com",
+"href": "mailto:info@damooseforsenate.com"
+}
 ]

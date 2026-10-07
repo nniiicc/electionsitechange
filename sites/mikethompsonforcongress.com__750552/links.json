@@ -1,37 +1,194 @@
 [
-"https://bsky.app/profile/mt4congress.bsky.social",
-"https://facebook.com/mikethompsonforcongress",
-"https://instagram.com/mikethompson4congress",
-"https://mikethompsonforcongress.com/",
-"https://mikethompsonforcongress.com/biography",
-"https://mikethompsonforcongress.com/donate",
-"https://mikethompsonforcongress.com/endorsements",
-"https://mikethompsonforcongress.com/events",
-"https://mikethompsonforcongress.com/events/meet-and-greet-dinner-congressman-mike-thompson",
-"https://mikethompsonforcongress.com/events/sonoma-harvest-reception",
-"https://mikethompsonforcongress.com/fourth-district",
-"https://mikethompsonforcongress.com/issues",
-"https://mikethompsonforcongress.com/issues/bay-delta-conservation-plan",
-"https://mikethompsonforcongress.com/issues/fiscal-responsibility",
-"https://mikethompsonforcongress.com/issues/gun-violence-prevention",
-"https://mikethompsonforcongress.com/issues/health-care",
-"https://mikethompsonforcongress.com/issues/housing",
-"https://mikethompsonforcongress.com/issues/immigration",
-"https://mikethompsonforcongress.com/issues/jobs-and-economy",
-"https://mikethompsonforcongress.com/issues/seniors",
-"https://mikethompsonforcongress.com/news",
-"https://mikethompsonforcongress.com/news/rep-thompson-supervisor-cottrell-councilmember-irais-lopez-ortega-host-calistoga-town-hall",
-"https://mikethompsonforcongress.com/news/thompson-gallagher-announce-historic-bipartisan-bill-revitalize-rural-america",
-"https://mikethompsonforcongress.com/news/thompson-highest-ranking-woman-congress-katherine-clark-host-womens-forum",
-"https://mikethompsonforcongress.com/news/today-rep-thompson-host-rohnert-park-town-hall",
-"https://mikethompsonforcongress.com/privacy-policy",
-"https://mikethompsonforcongress.com/resources",
-"https://mikethompsonforcongress.com/subscribe",
-"https://mikethompsonforcongress.com/terms",
-"https://mikethompsonforcongress.com/volunteer",
-"https://mikethompsonforcongress.com/what-has-mike-thompson-accomplished",
-"https://threads.com/@mikethompson4congress",
-"https://tiktok.com/@mt4congress",
-"https://twitter.com/Mike_CA05",
-"https://youtube.com/@mikethompsonforcongress"
+{
+"text": "Bay Delta Conservation Plan",
+"href": "https://www.mikethompsonforcongress.com/issues/bay-delta-conservation-plan"
+},
+{
+"text": "Biography",
+"href": "https://www.mikethompsonforcongress.com/biography"
+},
+{
+"text": "Calistoga, CA – On Monday, September 28th at 5:30 pm Rep. Mike Thompson, Supervisor Anne Cottrell, and Councilmember Irais Lopez-Ortega will host a town hall in Calistoga.",
+"href": "https://www.mikethompsonforcongress.com/news/rep-thompson-supervisor-cottrell-councilmember-irais-lopez-ortega-host-calistoga-town-hall"
+},
+{
+"text": "Donate",
+"href": "https://www.mikethompsonforcongress.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mikethompsonforcongress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mikethompsonforcongress.com/events"
+},
+{
+"text": "Fiscal Responsibility",
+"href": "https://www.mikethompsonforcongress.com/issues/fiscal-responsibility"
+},
+{
+"text": "Fourth Congressional District",
+"href": "https://www.mikethompsonforcongress.com/fourth-district"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mikethompsonforcongress.com/volunteer"
+},
+{
+"text": "Gun Violence Prevention",
+"href": "https://www.mikethompsonforcongress.com/issues/gun-violence-prevention"
+},
+{
+"text": "Health Care",
+"href": "https://www.mikethompsonforcongress.com/issues/health-care"
+},
+{
+"text": "Housing",
+"href": "https://www.mikethompsonforcongress.com/issues/housing"
+},
+{
+"text": "Immigration",
+"href": "https://www.mikethompsonforcongress.com/issues/immigration"
+},
+{
+"text": "Issues",
+"href": "https://www.mikethompsonforcongress.com/issues"
+},
+{
+"text": "Jobs and the Economy",
+"href": "https://www.mikethompsonforcongress.com/issues/jobs-and-economy"
+},
+{
+"text": "Meet and Greet Dinner with Congressman Mike Thompson",
+"href": "https://www.mikethompsonforcongress.com/events/meet-and-greet-dinner-congressman-mike-thompson"
+},
+{
+"text": "Mike Thompson for Congress on Bluesky",
+"href": "https://bsky.app/profile/mt4congress.bsky.social"
+},
+{
+"text": "Mike Thompson for Congress on Facebook",
+"href": "https://www.facebook.com/mikethompsonforcongress"
+},
+{
+"text": "Mike Thompson for Congress on Instagram",
+"href": "https://www.instagram.com/mikethompson4congress/"
+},
+{
+"text": "Mike Thompson for Congress on Threads",
+"href": "https://www.threads.com/@mikethompson4congress"
+},
+{
+"text": "Mike Thompson for Congress on TikTok",
+"href": "https://www.tiktok.com/@mt4congress"
+},
+{
+"text": "Mike Thompson for Congress on X",
+"href": "https://twitter.com/Mike_CA05"
+},
+{
+"text": "Mike Thompson for Congress on Youtube",
+"href": "https://www.youtube.com/@mikethompsonforcongress"
+},
+{
+"text": "Napa, CA – On Monday, October 5th at 10:00 am Rep. Mike Thompson and House Democratic Whip Katherine Clark will host a forum on women's issues and Congress' work to advance opportunities for women.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-highest-ranking-woman-congress-katherine-clark-host-womens-forum"
+},
+{
+"text": "News",
+"href": "https://www.mikethompsonforcongress.com/news"
+},
+{
+"text": "Northern California – Today, Rep. Mike Thompson (D-CA-04) and Rep. James Gallagher (R-CA-01) introduced their bipartisan Revitalize Rural America Act (RRAA) to jumpstart rural economies in Northern California and across our country.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-gallagher-announce-historic-bipartisan-bill-revitalize-rural-america"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mikethompsonforcongress.com/privacy-policy"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/events/meet-and-greet-dinner-congressman-mike-thompson"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/events/sonoma-harvest-reception"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/rep-thompson-supervisor-cottrell-councilmember-irais-lopez-ortega-host-calistoga-town-hall"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-gallagher-announce-historic-bipartisan-bill-revitalize-rural-america"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-highest-ranking-woman-congress-katherine-clark-host-womens-forum"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/today-rep-thompson-host-rohnert-park-town-hall"
+},
+{
+"text": "Rep. Thompson, Supervisor Cottrell, Councilmember Irais Lopez-Ortega to Host Calistoga Town Hall",
+"href": "https://www.mikethompsonforcongress.com/news/rep-thompson-supervisor-cottrell-councilmember-irais-lopez-ortega-host-calistoga-town-hall"
+},
+{
+"text": "Resources",
+"href": "https://www.mikethompsonforcongress.com/resources"
+},
+{
+"text": "Rohnert Park, CA – On Tuesday, September 29th at 5:30 pm Rep. Mike Thompson will host town hall in Rohnert Park.",
+"href": "https://www.mikethompsonforcongress.com/news/today-rep-thompson-host-rohnert-park-town-hall"
+},
+{
+"text": "Seniors",
+"href": "https://www.mikethompsonforcongress.com/issues/seniors"
+},
+{
+"text": "Sonoma Harvest Reception",
+"href": "https://www.mikethompsonforcongress.com/events/sonoma-harvest-reception"
+},
+{
+"text": "Subscribe",
+"href": "https://www.mikethompsonforcongress.com/subscribe"
+},
+{
+"text": "TODAY: Rep. Thompson to Host Rohnert Park Town Hall",
+"href": "https://www.mikethompsonforcongress.com/news/today-rep-thompson-host-rohnert-park-town-hall"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.mikethompsonforcongress.com/terms"
+},
+{
+"text": "Thompson, Gallagher Announce Historic Bipartisan Bill to Revitalize Rural America",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-gallagher-announce-historic-bipartisan-bill-revitalize-rural-america"
+},
+{
+"text": "Thompson, Highest Ranking Woman in Congress Katherine Clark to Host Women's Forum",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-highest-ranking-woman-congress-katherine-clark-host-womens-forum"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mikethompsonforcongress.com/volunteer"
+},
+{
+"text": "What has Mike Thompson Accomplished?",
+"href": "https://www.mikethompsonforcongress.com/what-has-mike-thompson-accomplished"
+},
+{
+"text": "[image: Home]",
+"href": "https://www.mikethompsonforcongress.com/"
+},
+{
+"text": "info@mikethompsonforcongress.com",
+"href": "mailto:info@mikethompsonforcongress.com"
+},
+{
+"text": "press@mikethompsonforcongress.com",
+"href": "mailto:press@mikethompsonforcongress.com"
+}
 ]

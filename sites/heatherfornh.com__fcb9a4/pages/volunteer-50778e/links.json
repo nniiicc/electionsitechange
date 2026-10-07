@@ -1,15 +1,58 @@
 [
-"https://bsky.app/profile/heatherfornh.bsky.social",
-"https://facebook.com/profile.php?id=61590698488512",
-"https://heather-for-nh.solidarity.tech/events-page",
-"https://heatherfornh.com/",
-"https://heatherfornh.com/about",
-"https://heatherfornh.com/contact",
-"https://heatherfornh.com/issues",
-"https://heatherfornh.com/volunteer",
-"https://heatherfornh.com/vote",
-"https://instagram.com/heatherfornh",
-"https://secure.actblue.com/donate/heatherfornh",
-"https://somedoing.com/",
-"https://tiktok.com/@heatherfornh"
+{
+"text": "About",
+"href": "https://heatherfornh.com/about/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/heatherfornh.bsky.social"
+},
+{
+"text": "Contact",
+"href": "https://heatherfornh.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/heatherfornh"
+},
+{
+"text": "Events",
+"href": "https://heather-for-nh.solidarity.tech/events-page"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61590698488512"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/heatherfornh/"
+},
+{
+"text": "Issues",
+"href": "https://heatherfornh.com/issues/"
+},
+{
+"text": "Site by Some Doing.",
+"href": "https://somedoing.com/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@heatherfornh"
+},
+{
+"text": "Volunteer",
+"href": "https://heatherfornh.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://heatherfornh.com/vote/"
+},
+{
+"text": "[image: Heather Deiner for NH State Representative | Manchester Ward 5]",
+"href": "https://heatherfornh.com/"
+},
+{
+"text": "[image]",
+"href": "https://heatherfornh.com/"
+}
 ]

@@ -1,20 +1,106 @@
 [
-"https://facebook.com/",
-"https://governor.utah.gov/",
-"https://instagram.com/",
-"https://kuer.org/politics-government",
-"https://secure.actblue.com/donate/nicole-melling-1",
-"https://standup-utah.com/",
-"https://standup-utah.com/contact",
-"https://standup-utah.com/issues",
-"https://standup-utah.com/issues/education",
-"https://standup-utah.com/issues/fair-maps",
-"https://standup-utah.com/meet-nicole",
-"https://standup-utah.com/news",
-"https://standup-utah.com/volunteer",
-"https://standup-utah.com/vote",
-"https://standup-utah.com/your-voice",
-"https://twitter.com/",
-"https://utahbar.org/",
-"https://utahnewsdispatch.com/"
+{
+"text": "All Issues",
+"href": "https://standup-utah.com/issues"
+},
+{
+"text": "Contact",
+"href": "https://standup-utah.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/nicole-melling-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nicole-melling-1"
+},
+{
+"text": "Education",
+"href": "https://standup-utah.com/issues/education"
+},
+{
+"text": "Fair Election Maps",
+"href": "https://standup-utah.com/issues/fair-maps"
+},
+{
+"text": "Governor's Office – Veto Letter",
+"href": "https://governor.utah.gov"
+},
+{
+"text": "Home",
+"href": "https://standup-utah.com/"
+},
+{
+"text": "Issues",
+"href": "https://standup-utah.com/issues"
+},
+{
+"text": "Issues & Priorities",
+"href": "https://standup-utah.com/issues"
+},
+{
+"text": "Join the Team",
+"href": "https://standup-utah.com/volunteer"
+},
+{
+"text": "KUER – SB 296 Coverage",
+"href": "https://www.kuer.org/politics-government"
+},
+{
+"text": "Meet Nicole",
+"href": "https://standup-utah.com/meet-nicole"
+},
+{
+"text": "News",
+"href": "https://standup-utah.com/news"
+},
+{
+"text": "Source: KUER",
+"href": "https://www.kuer.org/politics-government"
+},
+{
+"text": "Source: Utah News Dispatch",
+"href": "https://utahnewsdispatch.com"
+},
+{
+"text": "Source: Utah State Bar",
+"href": "https://www.utahbar.org"
+},
+{
+"text": "Utah News Dispatch",
+"href": "https://utahnewsdispatch.com"
+},
+{
+"text": "Utah State Bar",
+"href": "https://www.utahbar.org"
+},
+{
+"text": "Vote",
+"href": "https://standup-utah.com/vote"
+},
+{
+"text": "Your Voice",
+"href": "https://standup-utah.com/your-voice"
+},
+{
+"text": "[image: Stand Up Utah]STAND UP UTAHNicole Melling for Utah House",
+"href": "https://standup-utah.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com"
+},
+{
+"text": "info@standup-utah.com",
+"href": "mailto:info@standup-utah.com"
+}
 ]

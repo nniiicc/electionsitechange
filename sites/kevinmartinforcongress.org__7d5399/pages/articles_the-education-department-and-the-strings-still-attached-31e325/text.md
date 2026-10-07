@@ -1,5 +1,4 @@
-Kevin Martin · Schools
-The Education Department Is Being Taken Apart.
+Skip to sign-up Home Issues Donate Home The Issues Schools The Education Department Is Being Taken Apart Kevin Martin · Schools The Education Department Is Being Taken Apart.
 The Strings Are Still Attached.
 The Education Department is being taken apart by reassignment, not by law.
 Kevin Martin on why moving the bureaucracy is not the same as sending the money back without the strings.
@@ -13,8 +12,7 @@ A series of interagency agreements has moved functions elsewhere — career and 
 Congress, meanwhile, funded the department and declined to move several of those programs.
 The reassignment proceeded anyway.
 I want to be careful about how I say the next part, because it would be easy to score a cheap point in either direction.
-Moving a desk is not deregulation
-My position has been that education money should go back to Georgia without the federal strings attached.
+Moving a desk is not deregulation My position has been that education money should go back to Georgia without the federal strings attached.
 I still think that.
 What is happening now is not that.
 What is happening is that the same programs, carrying the same requirements, are being administered from different buildings.
@@ -30,15 +28,13 @@ I have spent my career on the compliance side of an organization.
 Splitting one reporting relationship into three is not a reduction in burden.
 Anyone who has filed anything knows that.
 So, I would put it plainly: this is a reorganization being described as a reduction.
-The part I do agree with
-The impulse underneath it is right.
+The part I do agree with The impulse underneath it is right.
 Too much of what happens in a classroom in Cobb County is shaped by requirements written by people who have never been in that classroom.
 Federal dollars are a fraction of what a district spends, and they come with a share of the paperwork wildly out of proportion to that fraction.
 That is a real issue, and it is worth fixing.
 I think you fix it by changing the law, not by moving the org chart.
 And that is Congress's job, which is the job I am asking for.
-What Congress actually controls
-This is the whole point.
+What Congress actually controls This is the whole point.
 Congress passes the statutes that create the requirements.
 Congress appropriates the money and writes the conditions attached to it.
 Congress decides whether a program is formula-based or competitive, whether it comes as a block grant or a categorical grant, and what a state has to prove to receive it.
@@ -48,8 +44,7 @@ So, when you hear that the Department of Education is being dismantled, the accu
 The requirements are still in statute, and they will still be there in the next administration, and the one after that.
 As of this moment, Impact Aid Program transfer to the Department of Labor is the subject of ongoing litigation and review.
 At the same time, Congress is looking to codify or limit the use of IAAs due to the amount of cross over and funding that is still carried by Education Department.
-What needs to change
-Change the statutes, not the letterhead.
+What needs to change Change the statutes, not the letterhead.
 If a requirement is not worth its compliance cost, repeal it.
 That is a vote, and it is durable in a way that an interagency agreement is not.
 Block-grant more of it and let Georgia decide.
@@ -61,8 +56,7 @@ This is growing government, not shrinking the cost.
 Then measure whether it helped.
 Test scores, graduation rates, and how many teachers are still in the classroom in year five.
 If deregulating did not move those, the theory was wrong and we should say so.
-Why it matters
-I have watched this district long enough to see what happened to it.
+Why it matters I have watched this district long enough to see what happened to it.
 We do not really operate as one school district anymore in terms of outcomes.
 Some schools here are as good as anything in the state.
 Others are not close, and they are often a short drive apart.
@@ -74,3 +68,11 @@ Why did the gap open, why has it persisted, and why does every federal answer ar
 I do not think you fix schools from Washington.
 I think Washington should stop making it harder and send the money home.
 Let the local school districts use the federal funds to uplift the schools that are performing below level, up to the higher-level performing schools.
+Sources Federal News Network — A year after mass layoffs, Education Dept keeps handing off its programs Federal News Network — Congress fully funded Education Dept, but it's reassigning employees Education Week — Where Are Ed.
+Dept.
+Programs Moving?
+Where Kevin stands on this issue Schools Send education money back to Georgia without the federal strings, and let this district raise up its lowest-performing schools rather than pulling down its best.
+Where he stands → It's your turn to be important.
+It only takes a minute to tell Kevin what you need him to focus on.
+Tell Kevin what you expect → No spam, ever.
+PAID FOR BY COMMITTEE TO ELECT KEVIN E MARTIN 4480 SOUTH COBB DRIVE SUITE H PO BOX 373 SMYRNA, GA 30080 The Issues Privacy Policy & Terms and Conditions

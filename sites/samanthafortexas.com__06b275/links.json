@@ -1,7 +1,26 @@
 [
-"https://samanthafortexas.com/endorsements.html",
-"https://samanthafortexas.com/index.html",
-"https://samanthafortexas.com/issues.html",
-"https://samanthafortexas.com/support.html",
-"https://secure.actblue.com/donate/samanthafortexas"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/samanthafortexas"
+},
+{
+"text": "Endorsements",
+"href": "https://samanthafortexas.com/endorsements.html"
+},
+{
+"text": "Info@samanthafortexas.com",
+"href": "mailto:Info@samanthafortexas.com"
+},
+{
+"text": "Issues",
+"href": "https://samanthafortexas.com/issues.html"
+},
+{
+"text": "Support",
+"href": "https://samanthafortexas.com/support.html"
+},
+{
+"text": "[image: Campaign Logo]",
+"href": "https://samanthafortexas.com/index.html"
+}
 ]

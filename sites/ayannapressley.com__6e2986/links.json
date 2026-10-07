@@ -1,38 +1,166 @@
 [
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=10",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=100",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53",
-"https://ayanna-pressley.com/about",
-"https://ayanna-pressley.com/issues",
-"https://ayanna-pressley.com/volunteer",
-"https://ayannapressley.com/",
-"https://ayannapressley.com/about",
-"https://ayannapressley.com/contact",
-"https://ayannapressley.com/es",
-"https://ayannapressley.com/ht",
-"https://ayannapressley.com/issues",
-"https://ayannapressley.com/issues/economy",
-"https://ayannapressley.com/issues/educational",
-"https://ayannapressley.com/issues/healthcare",
-"https://ayannapressley.com/issues/housing",
-"https://ayannapressley.com/issues/jobguarantee",
-"https://ayannapressley.com/jobs",
-"https://ayannapressley.com/privacy-policy",
-"https://ayannapressley.com/terms-of-services",
-"https://ayannapressley.com/volunteer",
-"https://ayannapressley.com/vote",
-"https://ayannapressley.com/zh",
-"https://facebook.com/ayannapressley2",
-"https://instagram.com/ayannapressley",
-"https://middleseat.co/",
-"https://mobilize.us/ayannapressley",
-"https://secure.actblue.com/donate/ayannapressleysite1",
-"https://secure.actblue.com/donate/web-2024",
-"https://store.ayannapressley.com/",
-"https://store.ayannapressley.com/cancel-student-debt-natural-canvas-tote",
-"https://store.ayannapressley.com/organizer-in-training-box-white-onesie",
-"https://store.ayannapressley.com/policy-is-my-love-language-black-crewneck-sweater",
-"https://store.ayannapressley.com/unapologetic-black-baseball-cap",
-"https://twitter.com/AyannaPressley",
-"https://twitter.com/ayannapressley"
+{
+"text": "$10",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=10"
+},
+{
+"text": "$100",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=100"
+},
+{
+"text": "$20.53",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53"
+},
+{
+"text": "Addressing the Impact of Violence and Trauma",
+"href": "https://ayannapressley.com/issues/healthcare/"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "Confronting the Climate Crisis",
+"href": "https://ayannapressley.com/issues/educational/"
+},
+{
+"text": "Contact",
+"href": "https://ayannapressley.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ayannapressleysite1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/web-2024"
+},
+{
+"text": "EN",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "ES",
+"href": "https://ayannapressley.com/es"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/ayannapressley/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ayannapressley2/"
+},
+{
+"text": "Fighting for a Just Economy",
+"href": "https://ayannapressley.com/issues/jobguarantee/"
+},
+{
+"text": "HT",
+"href": "https://ayannapressley.com/ht"
+},
+{
+"text": "Housing as a Human Right",
+"href": "https://ayannapressley.com/issues/housing/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ayannapressley/"
+},
+{
+"text": "Issues",
+"href": "https://ayannapressley.com/issues/"
+},
+{
+"text": "Jobs",
+"href": "https://ayannapressley.com/jobs/"
+},
+{
+"text": "Join the A-Team",
+"href": "https://ayanna-pressley.com/volunteer/"
+},
+{
+"text": "Meet Ayanna",
+"href": "https://ayannapressley.com/about/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Privacy",
+"href": "https://ayannapressley.com/privacy-policy/"
+},
+{
+"text": "Read Ayanna’s Story",
+"href": "https://ayanna-pressley.com/about/"
+},
+{
+"text": "Sign Up to Volunteer",
+"href": "https://ayanna-pressley.com/volunteer/"
+},
+{
+"text": "Store",
+"href": "https://store.ayannapressley.com/"
+},
+{
+"text": "Transforming Our Criminal Legal System",
+"href": "https://ayannapressley.com/issues/economy/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AyannaPressley"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ayannapressley"
+},
+{
+"text": "View all Issues",
+"href": "https://ayanna-pressley.com/issues/"
+},
+{
+"text": "Visit the store",
+"href": "https://store.ayannapressley.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://ayannapressley.com/volunteer/"
+},
+{
+"text": "Voter Info",
+"href": "https://ayannapressley.com/vote/"
+},
+{
+"text": "ZH",
+"href": "https://ayannapressley.com/zh"
+},
+{
+"text": "[image] Cancel Student Debt Tote $32.00",
+"href": "https://store.ayannapressley.com/cancel-student-debt-natural-canvas-tote/"
+},
+{
+"text": "[image] Organizer In-Training Onesie $30.00",
+"href": "https://store.ayannapressley.com/organizer-in-training-box-white-onesie/"
+},
+{
+"text": "[image] Policy is My Love Language Crewneck $55.00",
+"href": "https://store.ayannapressley.com/policy-is-my-love-language-black-crewneck-sweater/"
+},
+{
+"text": "[image] Unapologetic Hat $32.00",
+"href": "https://store.ayannapressley.com/unapologetic-black-baseball-cap/"
+},
+{
+"text": "privacy policy",
+"href": "https://ayannapressley.com/privacy-policy/"
+},
+{
+"text": "terms",
+"href": "https://ayannapressley.com/terms-of-services/"
+}
 ]

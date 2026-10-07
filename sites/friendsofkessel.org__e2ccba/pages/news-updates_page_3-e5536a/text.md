@@ -1,13 +1,7 @@
-News & Updates
-Press Releases
-No Results Found
-The page you requested could not be found.
+MEET SHAWN PRIORITIES GET INVOLVED NEWS VOTE CONTACT CONTRIBUTE News & Updates Press Releases Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary News & Updates BISMARCK, ND – Governor Kelly Armstrong today announced his first round of endorsements ahead of the June 9th Republican Primary, emphasizing the importance of electing conservative leaders committed to cutting property taxes, growing the economy,… Read More No Results Found The page you requested could not be found.
 Try refining your search, or use the navigation above to locate the post.
-In the News
-Main Street Summit Q and A with Dept of Commerce Deputy Commissioner Shawn Kessel
-News & Updates via Greater North Dakota Chamber GNDC sat down with North Dakota Department of Commerce ‘s Deputy Commission Shawn Kessel.
-The Department of Commerce serves as the leading agency for the Main Street Initiative(MSI), which is one of Governor…
-Dickinson City Administrator Kessel to be ND Commerce Deputy Commissioner
-News & Updates via KFYR-TV – Dickinson City Administrator Shawn Kessel will be the next deputy commissioner at the North Dakota Department of Commerce.
+In the News District 27 House Candidate Shawn Kessel Joins Tyler Axness on Afternoons Live on KFGO News & Updates Shawn Kessel, Republican candidate for North Dakota House for District 27 in Fargo joined Tyler Axness on Afternoon Live on KFGO to talk about his campaign and priorities for District 27.
+Latest News North Dakota Treatment Foster Parent Testimonial… Read More Main Street Summit Q and A with Dept of Commerce Deputy Commissioner Shawn Kessel Oct 16, 2019 | In the News News & Updates via Greater North Dakota Chamber GNDC sat down with North Dakota Department of Commerce ‘s Deputy Commission Shawn Kessel.
+The Department of Commerce serves as the leading agency for the Main Street Initiative(MSI), which is one of Governor… Dickinson City Administrator Kessel to be ND Commerce Deputy Commissioner May 4, 2018 | In the News News & Updates via KFYR-TV – Dickinson City Administrator Shawn Kessel will be the next deputy commissioner at the North Dakota Department of Commerce.
 Kessel has served as Dickinson’s city administrator since January 2009.
-Prior to that he spent nine years…
+Prior to that he spent nine years… « Older Entries Next Entries »  STAY CONNECTED FULL NAME (Required) First Last Email (Required) Phone (Required) MESSAGE CAPTCHA Submit PAID FOR BY FRIENDS OF KESSEL

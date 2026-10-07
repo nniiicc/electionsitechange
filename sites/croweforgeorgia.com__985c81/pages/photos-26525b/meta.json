@@ -1,9 +1,9 @@
 {
  "description": "Explore Crowe For Georgia photos showcasing campaign moments and political events. Join us in supporting a brighter future for Georgia!",
  "final_url": "https://croweforgeorgia.com/photos",
- "paid_for_by": "Paid for by Crowe For Georgia (678) 614-1940 Copyright \u00a9 2019 Crowe For Georgia - All Rights Reserved",
+ "fingerprint": "ba57fe4c894bd0d5c8b7e15363d43ea268deb219",
+ "format": 3,
+ "paid_for_by": "Paid for by Crowe For Georgia (678) 614-1940 Copyright © # Crowe For Georgia - All Rights Reserved",
  "title": "Photos",
- "years_mentioned": [
-  "2019"
- ]
+ "years_mentioned": []
 }

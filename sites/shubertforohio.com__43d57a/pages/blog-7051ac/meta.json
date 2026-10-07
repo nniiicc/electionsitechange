@@ -1,9 +1,12 @@
 {
  "description": "Read updated from Craig's Shubert for Ohio Newsletter",
  "final_url": "https://www.shubertforohio.com/blog",
+ "fingerprint": "40d34b9ab3a57892348ad2e6737d8af084ab3458",
+ "format": 3,
  "paid_for_by": "Paid for by Shubert for Ohio",
  "title": "Campaign Newsletter | Shubertforohio",
  "years_mentioned": [
+  "2001",
   "2026"
  ]
 }

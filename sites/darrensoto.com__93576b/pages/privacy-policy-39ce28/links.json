@@ -1,19 +1,82 @@
 [
-"http://aboutads.info/choices",
-"http://x.com/darrensoto",
-"https://darrensoto.com/",
-"https://darrensoto.com/home",
-"https://darrensoto.com/issues",
-"https://darrensoto.com/media",
-"https://darrensoto.com/new-map",
-"https://darrensoto.com/privacy-policy",
-"https://darrensoto.com/spanish",
-"https://darrensoto.com/support",
-"https://darrensoto.com/volunteer",
-"https://darrensoto.com/volunteer-1",
-"https://darrensoto.com/vote",
-"https://facebook.com/DarrenSotoFlorida",
-"https://secure.actblue.com/contribute/page/soto?amount=9",
-"https://soto.cp.bsd.net/page/unsubscribe",
-"https://youtube.com/channel/UCMPJK6_8Qou5dZnmNPhk2gg"
+{
+"text": "AboutAds.info/choices",
+"href": "http://aboutads.info/choices"
+},
+{
+"text": "Canvassing",
+"href": "https://www.darrensoto.com/volunteer"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/soto?amount=9"
+},
+{
+"text": "En Español",
+"href": "https://www.darrensoto.com/spanish"
+},
+{
+"text": "Home",
+"href": "https://www.darrensoto.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.darrensoto.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.darrensoto.com/media"
+},
+{
+"text": "New FL-9 District Map",
+"href": "https://www.darrensoto.com/new-map"
+},
+{
+"text": "Organizational Support",
+"href": "https://www.darrensoto.com/support"
+},
+{
+"text": "Phone Banking",
+"href": "https://www.darrensoto.com/volunteer-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.darrensoto.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.darrensoto.com/volunteer"
+},
+{
+"text": "Voting Information",
+"href": "https://www.darrensoto.com/vote"
+},
+{
+"text": "[image: Darren Soto]",
+"href": "https://www.darrensoto.com/"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/darrensoto"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DarrenSotoFlorida/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCMPJK6_8Qou5dZnmNPhk2gg"
+},
+{
+"text": "contact us",
+"href": "https://www.darrensoto.com/home/"
+},
+{
+"text": "contribute",
+"href": "https://secure.actblue.com/contribute/page/soto?amount=9"
+},
+{
+"text": "unsubscribe from our email communications",
+"href": "https://soto.cp.bsd.net/page/unsubscribe/"
+}
 ]

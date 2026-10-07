@@ -1,12 +1,46 @@
 [
-"http://instagram.com/churchforidaho",
-"https://churchforidaho.com/",
-"https://churchforidaho.com/cart",
-"https://churchforidaho.com/homeowners-insurance-survey",
-"https://churchforidaho.com/newsletter",
-"https://churchforidaho.com/volunteer",
-"https://docs.google.com/forms/d/e/1FAIpQLSemzABHpny5wdMHooH_gcXuoIIePfeygPFP6iCcbslgGaMmLQ/viewform",
-"https://facebook.com/churchforidaho",
-"https://monica-church.printify.me/",
-"https://secure.fundhero.com/churchforidaho"
+{
+"text": "0",
+"href": "https://www.churchforidaho.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.fundhero.com/churchforidaho"
+},
+{
+"text": "Home",
+"href": "https://www.churchforidaho.com/"
+},
+{
+"text": "Homeowners Insurance Survey",
+"href": "https://www.churchforidaho.com/homeowners-insurance-survey"
+},
+{
+"text": "Merch Store",
+"href": "https://monica-church.printify.me"
+},
+{
+"text": "Newsletter Archive",
+"href": "https://www.churchforidaho.com/newsletter"
+},
+{
+"text": "Survey Link",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSemzABHpny5wdMHooH_gcXuoIIePfeygPFP6iCcbslgGaMmLQ/viewform"
+},
+{
+"text": "Volunteer",
+"href": "https://www.churchforidaho.com/volunteer"
+},
+{
+"text": "[image: Monica Church for Idaho]",
+"href": "https://www.churchforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/churchforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/churchforidaho"
+}
 ]

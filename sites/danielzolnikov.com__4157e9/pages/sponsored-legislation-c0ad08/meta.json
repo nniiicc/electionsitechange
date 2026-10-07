@@ -1,11 +1,16 @@
 {
  "description": "Read the legislation Billings Representative Daniel Zolnikov has passed in Montana's State Legislature.",
  "final_url": "https://danielzolnikov.com/sponsored-legislation",
+ "fingerprint": "9ad7ad599c2e6fb4529b2de977acdc3a87a7710b",
+ "format": 3,
  "paid_for_by": "Paid for by Montanans for Daniel Zolnikov",
  "title": "Sponsored Legislation",
  "years_mentioned": [
   "2013",
   "2015",
-  "2023"
+  "2017",
+  "2019",
+  "2023",
+  "2025"
  ]
 }

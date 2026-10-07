@@ -1,23 +1,94 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunday+Door+Knocking+&dates=20260920T173000Z%2F20260920T200000Z",
-"https://bsky.app/profile/stevenschroermn.bsky.social",
-"https://instagram.com/steven.schroer_mn?igsh=d2FzbmZmNG5qNHUy",
-"https://secure.actblue.com/donate/steven-schroer-senate-57",
-"https://stevenschroermn.org/",
-"https://stevenschroermn.org/cart",
-"https://stevenschroermn.org/contact",
-"https://stevenschroermn.org/door-knocking",
-"https://stevenschroermn.org/endorsements",
-"https://stevenschroermn.org/events",
-"https://stevenschroermn.org/events/door-knocking-8-2-3am9w-kkppe?format=ical",
-"https://stevenschroermn.org/events/door-knocking8-7-3lgwl-4sk8m",
-"https://stevenschroermn.org/events/door-knocking8-7-3lgwl-4sk8m-27c6t",
-"https://stevenschroermn.org/get-involved",
-"https://stevenschroermn.org/get-to-know-me",
-"https://stevenschroermn.org/my-story",
-"https://stevenschroermn.org/policies",
-"https://stevenschroermn.org/volunteer",
-"https://stevenschroermn.org/yard-sign",
-"https://tiktok.com/@steven.schroer.mn?_t=ZP-8zuoHefcCoo&_r=1",
-"https://youtube.com/@stevenschroermn"
+{
+"text": "0",
+"href": "https://www.stevenschroermn.org/cart"
+},
+{
+"text": "Back",
+"href": "https://www.stevenschroermn.org/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.stevenschroermn.org/events"
+},
+{
+"text": "Contact",
+"href": "https://www.stevenschroermn.org/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/steven-schroer-senate-57"
+},
+{
+"text": "Events",
+"href": "https://www.stevenschroermn.org/events"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.stevenschroermn.org/get-involved"
+},
+{
+"text": "Folder: Get To Know Me",
+"href": "https://www.stevenschroermn.org/get-to-know-me"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunday+Door+Knocking+&dates=20260920T173000Z%2F20260920T200000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.stevenschroermn.org/events/door-knocking-8-2-3am9w-kkppe?format=ical"
+},
+{
+"text": "My Endorsements",
+"href": "https://www.stevenschroermn.org/endorsements"
+},
+{
+"text": "My Policies",
+"href": "https://www.stevenschroermn.org/policies"
+},
+{
+"text": "My Story",
+"href": "https://www.stevenschroermn.org/my-story"
+},
+{
+"text": "Next Next September 25 Friday Door Knocking",
+"href": "https://www.stevenschroermn.org/events/door-knocking8-7-3lgwl-4sk8m-27c6t"
+},
+{
+"text": "Previous Previous September 18 Friday Door Knocking",
+"href": "https://www.stevenschroermn.org/events/door-knocking8-7-3lgwl-4sk8m"
+},
+{
+"text": "Self Scheduled Door Knocking",
+"href": "https://www.stevenschroermn.org/door-knocking"
+},
+{
+"text": "Volunteer",
+"href": "https://www.stevenschroermn.org/volunteer"
+},
+{
+"text": "Yard Sign!",
+"href": "https://www.stevenschroermn.org/yard-sign"
+},
+{
+"text": "[image: Steven Schroer MN Senate 57]",
+"href": "https://www.stevenschroermn.org/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/stevenschroermn.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/steven.schroer_mn?igsh=d2FzbmZmNG5qNHUy"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@steven.schroer.mn?_t=ZP-8zuoHefcCoo&_r=1"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@stevenschroermn"
+}
 ]

@@ -1,9 +1,46 @@
 [
-"http://wix.com/",
-"https://facebook.com/ChrisCorryForStateRep",
-"https://votechriscorry.com/",
-"https://votechriscorry.com/about",
-"https://votechriscorry.com/contact",
-"https://votechriscorry.com/donate",
-"https://votechriscorry.com/issues"
+{
+"text": "509-596-1482",
+"href": "tel:509-596-1482"
+},
+{
+"text": "ABOUT",
+"href": "https://www.votechriscorry.com/about"
+},
+{
+"text": "BACK TO TOP",
+"href": "https://www.votechriscorry.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.votechriscorry.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.votechriscorry.com/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.votechriscorry.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.votechriscorry.com/issues"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/ChrisCorryForStateRep"
+},
+{
+"text": "[no text]",
+"href": "https://www.votechriscorry.com"
+},
+{
+"text": "chris@chriscorry.com",
+"href": "mailto:campaign@ChrisCorry.com"
+},
+{
+"text": "©# Friends of Chris Corry",
+"href": "http://wix.com"
+}
 ]

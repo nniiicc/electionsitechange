@@ -1,16 +1,58 @@
 [
-"https://campaignpartner.com/",
-"https://i.campaignpartner.net/images/cdn_queue/64720/343d9a57738e4208910d346b91180aab.PNG",
-"https://i.campaignpartner.net/images/cdn_queue/64720/b49706aaa858473abd60df7d4f3c378b.JPG",
-"https://i.campaignpartner.net/images/cdn_queue/64720/c8ad9839a0b8404483a6a40542182799.JPG",
-"https://i.campaignpartner.net/images/cdn_queue/64720/eb2f5d996c1d44ed9483f8a1b1434082.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/64720/f7256c0ae43246c081acf04dee2eb3ff.PNG",
-"https://votedebradavis.com/",
-"https://votedebradavis.com/about_debra",
-"https://votedebradavis.com/contact",
-"https://votedebradavis.com/events",
-"https://votedebradavis.com/home",
-"https://votedebradavis.com/leadership",
-"https://votedebradavis.com/news",
-"https://votedebradavis.com/photos"
+{
+"text": "About Debra",
+"href": "https://www.votedebradavis.com/about_debra"
+},
+{
+"text": "Contact",
+"href": "https://www.votedebradavis.com/contact"
+},
+{
+"text": "Events",
+"href": "https://www.votedebradavis.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.votedebradavis.com/home"
+},
+{
+"text": "Leadership",
+"href": "https://www.votedebradavis.com/leadership"
+},
+{
+"text": "News",
+"href": "https://www.votedebradavis.com/news"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.votedebradavis.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "[image: DEBRA M. DAVIS , Esq. STATE DELEGATE, D28 - Charles County]",
+"href": "https://www.votedebradavis.com/"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/64720/343d9a57738e4208910d346b91180aab.PNG"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/64720/b49706aaa858473abd60df7d4f3c378b.JPG"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/64720/c8ad9839a0b8404483a6a40542182799.JPG"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/64720/eb2f5d996c1d44ed9483f8a1b1434082.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/64720/f7256c0ae43246c081acf04dee2eb3ff.PNG"
+}
 ]

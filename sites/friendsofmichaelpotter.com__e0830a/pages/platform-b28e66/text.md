@@ -1,12 +1,8 @@
-House District 47
-PLATFORM:
-Indiana needs functional infrastructure, bodily autonomy, real choices, and freedoms in their everyday lives.
+Michael Potter Michael Potter House District 47 PLATFORM: Indiana needs functional infrastructure, bodily autonomy, real choices, and freedoms in their everyday lives.
 The trend of being at the bottom of national lists for quality of life, education, and socioeconomic equity and equality must end and it ends by voting out the supermajority.
-From the League of Women Voters Questionnaire:
-What types of environmental legislation do you believe are important to consider for addressing current environmental challenges, and how would you prioritize these measures?
+From the League of Women Voters Questionnaire: What types of environmental legislation do you believe are important to consider for addressing current environmental challenges, and how would you prioritize these measures?
 1.
-Water Rights
-2.
+Water Rights 2.
 New Business Environmental Impact Statement: How will the business get water and energy?
 What is the business waste management plan?
 How do these support the goals of the Paris Agreement?
@@ -45,3 +41,6 @@ I should stay out of that conversation.
 Others should stay out of it.
 Since I am a man, shouldn’t you be asking about my views on vasectomies?
 No, because that is also a medical procedure between a person and their doctor.
+Bargersville, Indiana Paid for and authorized by Friends of Michael Potter © Copyright # | All rights reserved | I will never sell your information.
+Paid for and authorized by Friends of Michael Potter © Copyright # | All rights reserved | I will never sell your information.
+CONTRIBUTIONS OR GIFTS TO THE FRIENDS OF MICHAEL POTTER ARE NOT DEDUCTIBLE FOR FEDERAL INCOME TAX PURPOSES. info email me about DONATE! home Menu

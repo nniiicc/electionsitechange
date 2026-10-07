@@ -1,14 +1,1 @@
-close menu
-close menu
-Home
-Our Policies
-Get Involved
-Press Releases
-Photo Gallery
-Contact
-Donate Now
-Become A Volunteer
-yes
-Get Involved
-Loading…
-</span
+close menu close menu Home Our Policies Get Involved Press Releases Photo Gallery Contact Donate Now Become A Volunteer yes Get Involved Loading… </span footer logo image Alisha’s Priorities Economic Relief for Working Kentuckians Strong Public Schools Healthcare Within Reach Affordable Housing Common Sense Legislation Pro Union Explore Home Our Policies Get Involved Press Releases Photo Gallery Contact Paid for by Campaign Fund for Alisha D Chaffin Email alisha@chaffin4ky.com Phone 859-230-5778 Copyright # All Rights Reserved Design & Developed by VW Themes srcoll arrow

@@ -1,22 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet+with+Sen.+Perchlik%2C+hosted+by+Angie+Barger+%26amp%3B+Joe+Astick%2C+Marshfield&dates=20220804T210000Z%2F20220804T223000Z&location=34+Gristmill+Place%2C+Marshfield%2C+VT%2C+05658%2C+United+States",
-"http://maps.google.com/?q=34+Gristmill+Place+Marshfield%2C+VT%2C+05658+United+States",
-"https://facebook.com/JaredDuvalVT",
-"https://instagram.com/jaredduvalvt",
-"https://instagram.com/p/DY0nYvClEYl",
-"https://jaredduvalvt.com/",
-"https://jaredduvalvt.com/about",
-"https://jaredduvalvt.com/cart",
-"https://jaredduvalvt.com/contact",
-"https://jaredduvalvt.com/endorsements",
-"https://jaredduvalvt.com/events",
-"https://jaredduvalvt.com/events/canvassing-in-plainfield-dzltk",
-"https://jaredduvalvt.com/events/meet-greet-with-sen-perchlik-marshfield-gsy76?format=ical",
-"https://jaredduvalvt.com/events/n9ungzk3cjovizfbgmtq3xeu2zgdj6-9g2ls",
-"https://jaredduvalvt.com/get-involved",
-"https://jaredduvalvt.com/home",
-"https://jaredduvalvt.com/news",
-"https://jaredduvalvt.com/on-the-issues",
-"https://secure.actblue.com/donate/jared-duval-1",
-"https://youtube.com/@jaredduvalvt5365"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=34+gristmill+place+marshfield%2C+vt%2C+05658+united+states"
+},
+{
+"text": "0",
+"href": "https://www.jaredduvalvt.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.jaredduvalvt.com/about"
+},
+{
+"text": "BACK TO TOP",
+"href": "https://www.jaredduvalvt.com/home"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.jaredduvalvt.com/events"
+},
+{
+"text": "CONTACT",
+"href": "https://www.jaredduvalvt.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jared-duval-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jaredduvalvt.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jaredduvalvt.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jaredduvalvt.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet+with+Sen.+Perchlik%2C+hosted+by+Angie+Barger+%26amp%3B+Joe+Astick%2C+Marshfield&dates=20220804T210000Z%2F20220804T223000Z&location=34+Gristmill+Place%2C+Marshfield%2C+VT%2C+05658%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/meet-greet-with-sen-perchlik-marshfield-gsy76?format=ical"
+},
+{
+"text": "Meet Jared",
+"href": "https://www.jaredduvalvt.com/about"
+},
+{
+"text": "News",
+"href": "https://www.jaredduvalvt.com/news"
+},
+{
+"text": "Next Next August 4 Listening & Talking with Voters, Marshfield Summer Concert Series",
+"href": "https://www.jaredduvalvt.com/events/n9ungzk3cjovizfbgmtq3xeu2zgdj6-9g2ls"
+},
+{
+"text": "On the Issues",
+"href": "https://www.jaredduvalvt.com/on-the-issues"
+},
+{
+"text": "Previous Previous August 4 Canvassing in Plainfield",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-plainfield-dzltk"
+},
+{
+"text": "[image: Jared for House 2026]",
+"href": "https://www.jaredduvalvt.com/"
+},
+{
+"text": "[image: Thank you to all the Montpelier residents who provided your names and signatures to help me qualify for the August 11th primary ballot. Today I submitted your signatures (along with my consent of candidate and financial disclosure form) alongside @km][image: Thank you to all the Montpelier residents who provided your names and signatures to help me qualify for the August 11th primary ballot. Today I submitted your signatures (along with my consent of candidate and financial disclosure form) alongside @km]",
+"href": "https://www.instagram.com/p/DY0nYvClEYl/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JaredDuvalVT/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jaredduvalvt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@jaredduvalvt5365"
+}
 ]

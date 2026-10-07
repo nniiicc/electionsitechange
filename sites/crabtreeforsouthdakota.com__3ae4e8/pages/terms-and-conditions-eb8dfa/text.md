@@ -1,8 +1,5 @@
-Terms & Conditions
-SMS Messaging Program
-Organization: Crabtree for SD Mailing Address: 500 E.
-Capitol Ave., Pierre, SD 57501 Contact: crabtreeforsd@gmail.com
-By providing your mobile phone number and opting in to receive text messages from Crabtree for SD, you agree to the following terms and conditions.
+Skip to content Menu ☰ Home About Join The Team Contact Terms & Conditions SMS Messaging Program Organization: Crabtree for SD Mailing Address: 500 E.
+Capitol Ave., Pierre, SD 57501 Contact: crabtreeforsd@gmail.com By providing your mobile phone number and opting in to receive text messages from Crabtree for SD, you agree to the following terms and conditions.
 Program Description.
 Crabtree for SD operates an SMS messaging program to keep supporters informed about the campaign.
 By opting in, you consent to receive recurring autodialed text messages from Crabtree for SD.
@@ -28,9 +25,15 @@ Cellular, Boost, MetroPCS, Cricket, and others.
 Carriers are not liable for delayed or undelivered messages.
 Privacy.
 Your privacy is important to us.
-For information about how we collect, use, store, and protect your personal information — including information collected through this SMS program — please review our Privacy Policy.
+For information about how we collect, use, store, and protect your personal information — including information collected through this SMS program — please review our Privacy Policy .
 Changes to These Terms.
 Crabtree for SD may update or modify these terms at any time.
 Material changes will be reflected on this page.
 Your continued participation in the SMS program after changes are posted constitutes acceptance of the updated terms.
 Paid for by Crabtree for SD.
+Sign Up for Updates First Name * Last Name * Email * Phone Submit By providing your phone number, you are consenting to receive text message updates, including automated text messages, and/or donation solicitations, to that number from Team Crabtree.
+Message & Data rates may apply, and message frequency may vary over time.
+Reply "STOP" to opt out of these text message updates.
+Reply HELP for help.
+Privacy Policy.
+Paid for by Crabtree for SD Terms & Conditions Privacy Policy © # All Rights Reserved

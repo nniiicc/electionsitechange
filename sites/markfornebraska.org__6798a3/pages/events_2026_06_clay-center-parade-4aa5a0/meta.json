@@ -1,7 +1,11 @@
 {
  "description": "Look for us in the parade and stop by our booth in the park.",
  "final_url": "https://www.markfornebraska.org/events/2026/06/clay-center-parade",
- "paid_for_by": null,
- "title": "Clay Center Parade \u2014 Mark for Nebraska",
- "years_mentioned": []
+ "fingerprint": "c81df4f119982f849a2231f346cc52b4d5baf19b",
+ "format": 3,
+ "paid_for_by": "AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website",
+ "title": "Clay Center Parade — Mark for Nebraska",
+ "years_mentioned": [
+  "2026"
+ ]
 }

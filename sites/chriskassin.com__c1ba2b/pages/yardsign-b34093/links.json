@@ -1,14 +1,54 @@
 [
-"https://chriskassin.com/",
-"https://chriskassin.com/cart",
-"https://chriskassin.com/election2026",
-"https://chriskassin.com/home",
-"https://chriskassin.com/newsfrompierre",
-"https://chriskassin.com/privacy",
-"https://chriskassin.com/sign-up",
-"https://chriskassin.com/terms",
-"https://chriskassin.com/yardsign",
-"https://facebook.com/ChrisKassinForHouse",
-"https://secure.winred.com/friends-of-chris-kassin",
-"https://secure.winred.com/friends-of-chris-kassin/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+{
+"text": "0",
+"href": "https://www.chriskassin.com/cart"
+},
+{
+"text": "Contact",
+"href": "mailto:ckassin23@gmail.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-chris-kassin/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-chris-kassin/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+},
+{
+"text": "Election 2026",
+"href": "https://www.chriskassin.com/election2026"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/ChrisKassinForHouse"
+},
+{
+"text": "Privacy",
+"href": "https://www.chriskassin.com/privacy"
+},
+{
+"text": "Sign up for the newsletter",
+"href": "https://www.chriskassin.com/sign-up"
+},
+{
+"text": "Terms",
+"href": "https://www.chriskassin.com/terms"
+},
+{
+"text": "Updates",
+"href": "https://www.chriskassin.com/newsfrompierre"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.chriskassin.com/yardsign"
+},
+{
+"text": "[image: Chris Kassin for District 17]",
+"href": "https://www.chriskassin.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.chriskassin.com/home"
+}
 ]

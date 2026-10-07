@@ -1,7 +1,11 @@
 {
  "description": "Sign up to volunteer with the Creighton for NH State Senate campaign.",
  "final_url": "https://creighton4nh.com/volunteer",
+ "fingerprint": "23bc83ef0765d5285e7e59351b09eed226f07dc2",
+ "format": 3,
  "paid_for_by": "Paid for by Creighton for State Senate",
- "title": "Volunteer \u2014 Creighton for NH State Senate",
- "years_mentioned": []
+ "title": "Volunteer — Creighton for NH State Senate",
+ "years_mentioned": [
+  "2026"
+ ]
 }

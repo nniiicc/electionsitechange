@@ -1,13 +1,50 @@
 [
-"https://app.smartsheet.com/b/form/12377c9c74cb48cd9908177b6f95e53f",
-"https://app.smartsheet.com/b/form/d6a8eb145e534f89a2e65eb0f33c4f20",
-"https://ballotpedia.org/Karen_Reeder",
-"https://facebook.com/profile.php?id=61585655412560",
-"https://instagram.com/electkarenreeder",
-"https://linkedin.com/in/karenreeder",
-"https://secure.actblue.com/donate/votereeder",
-"https://votereeder-brazoria.com/",
-"https://votereeder-brazoria.com/blank-1",
-"https://votereeder-brazoria.com/blank-6",
-"https://votereeder-brazoria.com/event-list"
+{
+"text": "CONTACT US",
+"href": "https://app.smartsheet.com/b/form/d6a8eb145e534f89a2e65eb0f33c4f20"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/votereeder"
+},
+{
+"text": "EVENTS",
+"href": "https://www.votereeder-brazoria.com/event-list"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://app.smartsheet.com/b/form/12377c9c74cb48cd9908177b6f95e53f"
+},
+{
+"text": "HOME",
+"href": "https://www.votereeder-brazoria.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.votereeder-brazoria.com/blank-1"
+},
+{
+"text": "MEET KAREN",
+"href": "https://www.votereeder-brazoria.com/blank-6"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61585655412560"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electkarenreeder/"
+},
+{
+"text": "[image: KAREN_FINAL_LOGOS.png]",
+"href": "https://www.votereeder-brazoria.com"
+},
+{
+"text": "[image: Linkedin]",
+"href": "https://www.linkedin.com/in/karenreeder/"
+},
+{
+"text": "[image: Screenshot 2026-04-19 184925]",
+"href": "https://ballotpedia.org/Karen_Reeder"
+}
 ]

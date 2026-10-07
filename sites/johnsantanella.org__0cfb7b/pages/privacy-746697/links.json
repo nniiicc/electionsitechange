@@ -1,3 +1,10 @@
 [
-"https://johnsantanella.org/"
+{
+"text": "Home",
+"href": "https://www.johnsantanella.org"
+},
+{
+"text": "info@johnsantanella.org",
+"href": "mailto:info@johnsantanella.org"
+}
 ]

@@ -1,7 +1,5 @@
-Small Business Is the Engine of District 54B
-Payroll, permits and thin margins teach you things a floor speech cannot.
+0 Skip to Content Home Meet Chris The Vision How & Where to Vote in 54B Events FAQ Contact Chris Blog Donate Open Menu Close Menu Home Meet Chris The Vision How & Where to Vote in 54B Events FAQ Contact Chris Blog Donate Open Menu Close Menu Home Meet Chris The Vision How & Where to Vote in 54B Events FAQ Contact Chris Blog Donate small business Chris Kartschoke 8/10/26 small business Chris Kartschoke 8/10/26 Small Business Is the Engine of District 54B Payroll, permits and thin margins teach you things a floor speech cannot.
 What running a small business taught me about representing Prior Lake, Jordan, Shakopee and our townships.
-small business
-Chris Kartschoke
-small business
-Chris Kartschoke
+Read More for MN House Representative - District 54B Christopher Kartschoke Serving People and Communities for Shakopee, Prior Lake, and Jordan Additional Resources Articles and PR Find Chris on Facebook Follow Chris on Instagram Listen to Chris on YouTube Minnesota Voting Information MN District 54B Poll Finder (PDF) Key Links Our Vision Donate Now Contact Chris﻿ Upcoming Events Discovering District 54B Prepared and paid for by CK4MN at P.O.
+Box 152 Prior Lake, MN 55372 #© All Rights Reserved.
+CK4MN, Christopher Kartschoke Proudly Designed and Cared for by Back2Basics, LLC

@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, use the \u201clink\u201d icons on the sidebar. Anything linked externally will automatically be listed as \u201cnews\u201d and any article you create on the site itself will\u2026",
+ "description": "If you want to link an external news source, use the “link” icons on the sidebar. Anything linked externally will automatically be listed as “news” and any article you create on the site itself will…",
  "final_url": "https://www.jeremyjonesforhouse.com/news/news-2",
- "paid_for_by": "Paid for by Jeremy Jones for SC",
+ "fingerprint": "c3ef0293e74c1266885ccdb42abcc3ad946fbd21",
+ "format": 3,
+ "paid_for_by": "Paid for by Jeremy Jones for SC You need to enable JavaScript to run this app",
  "title": "Jeremy talks with Carey Shofner about the campaign!",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,16 +1,82 @@
 [
-"http://electoralmedia.com/",
-"http://miketannousis.com/",
-"https://facebook.com/miketannousis",
-"https://miketannousis.com/",
-"https://miketannousis.com/contact",
-"https://miketannousis.com/events",
-"https://miketannousis.com/meet-mike",
-"https://miketannousis.com/newsroom",
-"https://miketannousis.com/privacy-policy",
-"https://miketannousis.com/request-a-sign",
-"https://miketannousis.com/volunteer",
-"https://miketannousis.com/volunteer?close=true",
-"https://secure.anedot.com/tannousis/donate",
-"https://twitter.com/miketannousis"
+{
+"text": "Contact Us",
+"href": "https://miketannousis.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/tannousis/donate"
+},
+{
+"text": "Donate to Mike Tannousis for State Assembly",
+"href": "https://secure.anedot.com/tannousis/donate"
+},
+{
+"text": "Events",
+"href": "https://miketannousis.com/events/"
+},
+{
+"text": "Explore",
+"href": "https://miketannousis.com/newsroom/"
+},
+{
+"text": "Get Involved",
+"href": "https://miketannousis.com/volunteer/"
+},
+{
+"text": "Meet Mike",
+"href": "https://miketannousis.com/meet-mike/"
+},
+{
+"text": "Mike Tannousis for State Assembly",
+"href": "https://miketannousis.com/"
+},
+{
+"text": "Newsroom",
+"href": "https://miketannousis.com/newsroom/"
+},
+{
+"text": "PAID FOR BY TANNOUSIS 2026",
+"href": "http://miketannousis.com"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://miketannousis.com/privacy-policy/"
+},
+{
+"text": "Request a Sign",
+"href": "https://miketannousis.com/request-a-sign/"
+},
+{
+"text": "Volunteer",
+"href": "https://miketannousis.com/volunteer/"
+},
+{
+"text": "[image: The official website of Michael Tannousis for New York State Assembly]",
+"href": "https://miketannousis.com"
+},
+{
+"text": "[image: The official website of Michael Tannousis for New York State Assembly] [image: The official website of Michael Tannousis for New York State Assembly] [image: The official website of Michael Tannousis for New York State Assembly]",
+"href": "https://miketannousis.com"
+},
+{
+"text": "[image: electoralmedia®]",
+"href": "http://electoralmedia.com"
+},
+{
+"text": "[no text]",
+"href": "https://miketannousis.com/"
+},
+{
+"text": "[no text]",
+"href": "https://miketannousis.com/volunteer/?close=true"
+},
+{
+"text": "[tooltip: facebook]",
+"href": "https://www.facebook.com/miketannousis/"
+},
+{
+"text": "[tooltip: twitter]",
+"href": "https://twitter.com/miketannousis"
+}
 ]

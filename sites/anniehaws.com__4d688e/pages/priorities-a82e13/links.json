@@ -1,10 +1,54 @@
 [
-"http://instagram.com/annieforidaho",
-"https://anniehaws.com/",
-"https://anniehaws.com/about",
-"https://anniehaws.com/contribute",
-"https://anniehaws.com/discover-district-16",
-"https://anniehaws.com/priorities",
-"https://facebook.com/profile.php?id=61588125621712",
-"https://secure.fundhero.com/annieforidaho"
+{
+"text": "$100",
+"href": "https://secure.fundhero.com/annieforidaho"
+},
+{
+"text": "$25",
+"href": "https://secure.fundhero.com/annieforidaho"
+},
+{
+"text": "$250",
+"href": "https://secure.fundhero.com/annieforidaho"
+},
+{
+"text": "$50",
+"href": "https://secure.fundhero.com/annieforidaho"
+},
+{
+"text": "About",
+"href": "https://www.anniehaws.com/about"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.anniehaws.com/contribute"
+},
+{
+"text": "Custom Amount",
+"href": "https://secure.fundhero.com/annieforidaho"
+},
+{
+"text": "Discover District 16",
+"href": "https://www.anniehaws.com/discover-district-16"
+},
+{
+"text": "Priorities",
+"href": "https://www.anniehaws.com/priorities"
+},
+{
+"text": "Subscribe",
+"href": "https://www.anniehaws.com/priorities"
+},
+{
+"text": "[image: AHHFinalLogos_edited.png]",
+"href": "https://www.anniehaws.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61588125621712"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/annieforidaho"
+}
 ]

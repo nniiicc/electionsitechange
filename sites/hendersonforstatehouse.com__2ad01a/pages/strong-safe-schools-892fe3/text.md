@@ -1,6 +1,4 @@
-top of page
-Strong & Safe Schools
-A good education is foundational to achieving the American dream, protecting our national security interests, and preparing for the unforeseen challenges of tomorrow.
+top of page DONATE VOLUNTEER YARD SIGN MENU Close HOME MEET JORDAN ISSUES DONATE PRIVACY POLICY Strong & Safe Schools A good education is foundational to achieving the American dream, protecting our national security interests, and preparing for the unforeseen challenges of tomorrow.
 I am committed to ensuring that our students have access to the best education possible.
 Academic achievement, academic growth, and social-emotional development should be the standard for every school in Tennessee.
 We must safeguard our academic institutions from political and social activism.
@@ -16,4 +14,4 @@ Our students should feel safe at school from both internal and external threats.
 We must learn from past tragedies and fund security upgrades for both public and private schools across the state.
 New school construction and renovations should be designed with security in mind.
 Furthermore, we do not have to make our schools look intimidating to implement common-sense security standards.
-bottom of page
+Paid for by the Committee to Elect Jordan Henderson to State House Destiny McNair, Treasurer bottom of page

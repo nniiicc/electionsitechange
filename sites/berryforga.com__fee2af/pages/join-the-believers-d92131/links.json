@@ -1,11 +1,46 @@
 [
-"https://berryforga.com/",
-"https://berryforga.com/join-the-believers",
-"https://berryforga.com/meet-bryce",
-"https://berryforga.com/platform",
-"https://forms.gle/1FpuV1cgNq9jvXVT6",
-"https://forms.gle/BvRTSHcUgjrBiMMPA",
-"https://forms.gle/Ghr7G6sZ3CLWoP8XA",
-"https://paypal.com/donate?hosted_button_id=KNZ6NFVXCLGSN",
-"https://secure.actblue.com/donate/bryce-berry-for-hd-56-1"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bryce-berry-for-hd-56-1"
+},
+{
+"text": "DONATE VIA ACTBLUE",
+"href": "https://secure.actblue.com/donate/bryce-berry-for-hd-56-1"
+},
+{
+"text": "DONATE VIA PAYPAL",
+"href": "https://www.paypal.com/donate/?hosted_button_id=KNZ6NFVXCLGSN"
+},
+{
+"text": "JOIN US",
+"href": "https://www.berryforga.com/join-the-believers"
+},
+{
+"text": "MEET BRYCE",
+"href": "https://www.berryforga.com/meet-bryce"
+},
+{
+"text": "REQUEST A YARD SIGN!",
+"href": "https://forms.gle/BvRTSHcUgjrBiMMPA"
+},
+{
+"text": "VISION",
+"href": "https://www.berryforga.com/platform"
+},
+{
+"text": "[image: BRYCE BERRY - 1.PNG]",
+"href": "https://www.berryforga.com"
+},
+{
+"text": "[image]",
+"href": "https://forms.gle/1FpuV1cgNq9jvXVT6"
+},
+{
+"text": "[image]",
+"href": "https://forms.gle/Ghr7G6sZ3CLWoP8XA"
+},
+{
+"text": "bryce@berryforga.com",
+"href": "mailto:bryce@berryforga.com"
+}
 ]

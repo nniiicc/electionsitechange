@@ -1,31 +1,16 @@
-Blog
-Blog
-Trapped in Ukraine because of skin color
-More than 2 million refugees have fled Ukraine since Russia’s military occupation.
+Support Rashida Tlaib for U.S.
+Congress We need Rashida’s bold, transformative leadership in Congress.
+Can you chip in to keep her in office fighting for us? $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Close Facebook Instagram Youtube Twitter Threads Rashida Tlaib for Congress – Rooted in Community Menu Meet Rashida Rashida’s Receipts Results for District Legislation for All Priority issues Community funding Vote in MI general How to vote Endorsements Rashida’s choices Get involved Get endorsed Resources Store Donate Blog Call on governors to #ProtectTransKids March 15, 2022 Blog Trapped in Ukraine because of skin color March 11, 2022 More than 2 million refugees have fled Ukraine since Russia’s military occupation.
 Those still in the country are facing increased airstrikes—including bombings of places like maternity hospitals.
-Many are still undergoing treacherous journeys to escape …
-Blog
-Watch: State of the Union response
-Last night, I was honored to deliver the official Working Families Party response to President Biden’s State of the Union address.
-I spoke about how President Biden and Democrats in Congress worked together to pass …
-Blog
-Rashida’s Bold Voice and Leadership are Rare and Necessary in Congress.
-Note: This post appeared as an email to Rashida’s email list on December 29, 2021. — I’m Marc Lamont Hill, an author, TV host, and educator fighting white supremacy and oppression in the U.S. and …
-Blog
-Love is Liberation
-bell hooks, a visionary Black feminist, passed away last week.
+Many are still undergoing treacherous journeys to escape … Blog Watch: State of the Union response March 2, 2022 Last night, I was honored to deliver the official Working Families Party response to President Biden’s State of the Union address.
+I spoke about how President Biden and Democrats in Congress worked together to pass … Blog Rashida’s Bold Voice and Leadership are Rare and Necessary in Congress.
+December 29, 2021 Note: This post appeared as an email to Rashida’s email list on December 29, 2021. — I’m Marc Lamont Hill, an author, TV host, and educator fighting white supremacy and oppression in the U.S. and … Blog Love is Liberation December 23, 2021 bell hooks, a visionary Black feminist, passed away last week.
 Her writings on race, gender, and love changed many people’s lives.
-She wrote about loving ourselves and our communities as a “practice of freedom,” saying: …
-Blog
-Canceling Student Debt is a Racial Justice Issue
-JANUARY UPDATE: President Biden announced that he will extend the pause on student loan payments until May 1st.
-This provides a brief respite, but he still can and must cancel student debt for millions of …
-Blog
-Defending Voting Rights Means Ending the Filibuster
-We urgently need federal action to counter state-level attacks on our right to vote.
-So far this year, Republicans in states across the country have enacted at least 33 laws restricting access to voting—including mail-in …
-In The News
-Rashida Tlaib’s 7-Year-Old Son Thinks She’s Going to Congress to Give Trump a Time Out
-In The News
-Rashida Tlaib lays out her radical green vision for Michigan
-In The News
+She wrote about loving ourselves and our communities as a “practice of freedom,” saying: … Blog Canceling Student Debt is a Racial Justice Issue December 14, 2021 JANUARY UPDATE: President Biden announced that he will extend the pause on student loan payments until May 1st.
+This provides a brief respite, but he still can and must cancel student debt for millions of … Blog Defending Voting Rights Means Ending the Filibuster December 2, 2021 We urgently need federal action to counter state-level attacks on our right to vote.
+So far this year, Republicans in states across the country have enacted at least 33 laws restricting access to voting—including mail-in … In The News Rashida Tlaib’s 7-Year-Old Son Thinks She’s Going to Congress to Give Trump a Time Out August 21, 2018 ELLE In The News Rashida Tlaib lays out her radical green vision for Michigan August 20, 2018 ThinkProgress In The News Rashida Tlaib Is Running for Congress on a Mission to Expand Civil-Rights Protections August 9, 2018 The Nation Follow Us Facebook Instagram Youtube Twitter Threads Newer Posts 1 2 Join Our Campaign Sign up for email updates so you can stay in the loop.
+Chip In Rashida does not take any money from corporate PACs.
+Every donation makes a big difference. $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Rashida Tlaib for Congress – Rooted in Community Meet Rashida Results for District Legislation for All Rashida’s Top Priorities Vote in MI general Resources Follow Us Facebook Instagram Youtube Twitter Threads Donate by Mail Rashida Tlaib for Congress P.O.
+Box 32777 Detroit, MI 48232 Paid for by Rashida Tlaib for Congress Contact Privacy Policy Terms of Service Made with Middle Seat

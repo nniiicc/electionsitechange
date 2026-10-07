@@ -1,12 +1,66 @@
 [
-"https://alexanderformo.com/",
-"https://alexanderformo.com/cart",
-"https://alexanderformo.com/events",
-"https://alexanderformo.com/fundraiser",
-"https://alexanderformo.com/literature",
-"https://alexanderformo.com/privacypolicy",
-"https://alexanderformo.com/volunteer",
-"https://facebook.com/people/Sam-Alexander-MO-Senate-District-28/61573087641307",
-"https://secure.anedot.com/alexanderformissouri/donate",
-"https://x.com/samalexandermo"
+{
+"text": "$1,000",
+"href": "https://secure.anedot.com/alexanderformissouri/donate"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/alexanderformissouri/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/alexanderformissouri/donate"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/alexanderformissouri/donate"
+},
+{
+"text": "0",
+"href": "https://alexanderformo.com/cart"
+},
+{
+"text": "Back",
+"href": "https://alexanderformo.com/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/alexanderformissouri/donate"
+},
+{
+"text": "Folder: Events",
+"href": "https://alexanderformo.com/events"
+},
+{
+"text": "Fundraiser For Sam Alexander",
+"href": "https://alexanderformo.com/fundraiser"
+},
+{
+"text": "Home",
+"href": "https://alexanderformo.com/"
+},
+{
+"text": "Literature",
+"href": "https://alexanderformo.com/literature"
+},
+{
+"text": "Privacy Policy can be found here",
+"href": "https://alexanderformo.com/privacypolicy"
+},
+{
+"text": "Volunteer",
+"href": "https://alexanderformo.com/volunteer"
+},
+{
+"text": "[image: Dr. Sam Alexander for State Senate]",
+"href": "https://alexanderformo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Sam-Alexander-MO-Senate-District-28/61573087641307/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/samalexandermo"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Upcoming events you won't want to miss!",
  "final_url": "https://kordonforliberty.org/events/",
- "paid_for_by": null,
+ "fingerprint": "f4e62fbc8e8eb765e3be196d4a4dcd0c3460187b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Elect Matthew Kordon",
  "years_mentioned": []
 }

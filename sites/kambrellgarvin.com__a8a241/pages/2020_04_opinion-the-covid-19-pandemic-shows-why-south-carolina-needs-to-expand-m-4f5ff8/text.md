@@ -1,4 +1,4 @@
-Over the past several weeks our state has been forced to grapple with the novel coronavirus pandemic.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Kambrell Garvin April 16, 2020 Comments Off on Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Uncategorized Link: https://www.thestate.com/opinion/article241999041.html Over the past several weeks our state has been forced to grapple with the novel coronavirus pandemic.
 This contagion has exposed the glaring gaps in health care access within South Carolina between the haves and have-nots.
 I represent a diverse, densely populated and fast-growing district in Richland County.
 My community has the highest numbers of identified and projected COVID-19 cases in Richland County — and they are among the highest in South Carolina.
@@ -20,4 +20,7 @@ Our inability to expand Medicaid has kept many South Carolinians from getting af
 It shouldn’t take a pandemic for our state leaders to realize the importance of providing health care for all South Carolinians.
 It is time for our state to expand Medicaid.
 A Democrat, state Rep.
-Kambrell Garvin represents House District 77.
+Kambrell Garvin represents House District 77. « Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020

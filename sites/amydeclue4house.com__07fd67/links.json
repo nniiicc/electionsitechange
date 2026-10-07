@@ -1,8 +1,34 @@
 [
-"https://amydeclue4house.com/",
-"https://facebook.com/profile.php?id=61575645245141",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/amy-declue-for-house-rep/donate"
+{
+"text": "AmyDeClue4House@outlook.com",
+"href": "mailto:AmyDeClue4House@outlook.com"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/amy-declue-for-house-rep/donate"
+},
+{
+"text": "Find out more",
+"href": "https://www.facebook.com/profile.php?id=61575645245141"
+},
+{
+"text": "Get in Touch",
+"href": "https://amydeclue4house.com/#fd969385-0d3e-4275-8f41-906abf2c6493"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575645245141"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

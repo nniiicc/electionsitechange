@@ -1,21 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+the+Candidates+Night&dates=20260423T210000Z%2F20260424T020000Z&location=3825+Federal+Hill+Road%2C+Jarrettsville%2C+MD%2C+21084%2C+United+States",
-"http://linktr.ee/EJHFORDISTRICT34A",
-"http://maps.google.com/?q=3825+Federal+Hill+Road+Jarrettsville%2C+MD%2C+21084+United+States",
-"https://ejhfordistrict34a.com/",
-"https://ejhfordistrict34a.com/about",
-"https://ejhfordistrict34a.com/cart",
-"https://ejhfordistrict34a.com/donate",
-"https://ejhfordistrict34a.com/events",
-"https://ejhfordistrict34a.com/events/burgers-with-bob",
-"https://ejhfordistrict34a.com/events/meet-the-candidates",
-"https://ejhfordistrict34a.com/events/meet-the-candidates-night?format=ical",
-"https://ejhfordistrict34a.com/issues",
-"https://ejhfordistrict34a.com/videos",
-"https://ejhfordistrict34a.com/volunteer",
-"https://facebook.com/people/Elliott-Herneker-for-Maryland-34A/61587779948097",
-"https://instagram.com/EJHFORDISTRICTA",
-"https://linktr.ee/ejhfordistrict34a",
-"https://secure.anedot.com/elliotthernaker34a/hernekerdelegate",
-"https://secure.anedot.com/elliotthernaker34a/hernekerdelegate?exitIntent=true"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3825+federal+hill+road+jarrettsville%2C+md%2C+21084+united+states"
+},
+{
+"text": "0",
+"href": "https://www.ejhfordistrict34a.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.ejhfordistrict34a.com/events"
+},
+{
+"text": "Donate",
+"href": "https://www.ejhfordistrict34a.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/elliotthernaker34a/hernekerdelegate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/elliotthernaker34a/hernekerdelegate?exitIntent=true"
+},
+{
+"text": "Elliott Herneker for District 34a",
+"href": "https://www.ejhfordistrict34a.com/"
+},
+{
+"text": "Events",
+"href": "https://www.ejhfordistrict34a.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Elliott-Herneker-for-Maryland-34A/61587779948097/"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+the+Candidates+Night&dates=20260423T210000Z%2F20260424T020000Z&location=3825+Federal+Hill+Road%2C+Jarrettsville%2C+MD%2C+21084%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.ejhfordistrict34a.com/events/meet-the-candidates-night?format=ical"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/EJHFORDISTRICTA"
+},
+{
+"text": "Issues",
+"href": "https://www.ejhfordistrict34a.com/issues"
+},
+{
+"text": "Linktree",
+"href": "https://linktr.ee/ejhfordistrict34a"
+},
+{
+"text": "Meet Elliott",
+"href": "https://www.ejhfordistrict34a.com/about"
+},
+{
+"text": "Next Next May 29 Meet the Candidates",
+"href": "https://www.ejhfordistrict34a.com/events/meet-the-candidates"
+},
+{
+"text": "Previous Previous April 12 Burgers with Bob",
+"href": "https://www.ejhfordistrict34a.com/events/burgers-with-bob"
+},
+{
+"text": "Videos",
+"href": "https://www.ejhfordistrict34a.com/videos"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ejhfordistrict34a.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "http://linktr.ee/EJHFORDISTRICT34A"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Elliott-Herneker-for-Maryland-34A/61587779948097/"
+},
+{
+"text": "ejhfordistricta@gmail.com",
+"href": "mailto:ejhfordistricta@gmail.com"
+}
 ]

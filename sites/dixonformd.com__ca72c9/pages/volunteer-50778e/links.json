@@ -1,18 +1,78 @@
 [
-"https://bsky.app/profile/dixonformd.bsky.social",
-"https://dixonformd.com/",
-"https://dixonformd.com/accessibility-statement",
-"https://dixonformd.com/authority",
-"https://dixonformd.com/endorsements",
-"https://dixonformd.com/meet-spencer",
-"https://dixonformd.com/vision",
-"https://dixonformd.com/volunteer",
-"https://dixonformd.com/voting-info",
-"https://facebook.com/DixonforMD",
-"https://heyvictor.com/",
-"https://instagram.com/dixonformd",
-"https://mobilize.us/elfrethformaryland/event/956427",
-"https://mobilize.us/elfrethformaryland/event/958276",
-"https://secure.actblue.com/donate/dixonformd",
-"https://x.com/dixonformd"
+{
+"text": "Accessibility Statement",
+"href": "https://www.dixonformd.com/accessibility-statement/"
+},
+{
+"text": "Authority",
+"href": "https://www.dixonformd.com/authority/"
+},
+{
+"text": "Contact",
+"href": "mailto:info@spencerformd.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dixonformd"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dixonformd?amount="
+},
+{
+"text": "Door-to-Door Canvassing Sign up to join the Anne Arundel Democracy Slate during the last two weekends before the primary. This is by far the most effective way to get our message out. Please consider signing up for two shifts before June 23rd.",
+"href": "https://www.mobilize.us/elfrethformaryland/event/958276/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.dixonformd.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.dixonformd.com/"
+},
+{
+"text": "Meet Spencer",
+"href": "https://www.dixonformd.com/meet-spencer/"
+},
+{
+"text": "Phone Banking Using a \"predictive dialer\" (where a central system dials for you and connects you with voters who have already answered), the slate is calling every Tuesday and Thursday from 5-7pm until the primary at our office in Glen Burnie. However, these calls can be made anywhere with access to a computer (or tablet) and a phone. Because the calls are made by a central system, voters won’t see your number. You will just use your phone to connect to the system. Unless you plan to call from the Glen Burnie office, please email info@dixonformd.com when you sign up so that we can arrange a Zoom meeting for you to join at the beginning for the training.",
+"href": "https://www.mobilize.us/elfrethformaryland/event/956427/"
+},
+{
+"text": "Vision",
+"href": "https://www.dixonformd.com/vision/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dixonformd.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.dixonformd.com/voting-info/"
+},
+{
+"text": "[image: Spencer Dixon Democrat for Delegat logo] [image: Dixon for Maryland]",
+"href": "https://www.dixonformd.com/"
+},
+{
+"text": "[tooltip: Bluesky]",
+"href": "https://bsky.app/profile/dixonformd.bsky.social"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/DixonforMD/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/dixonformd"
+},
+{
+"text": "[tooltip: X/Twitter]",
+"href": "https://x.com/dixonformd"
+}
 ]

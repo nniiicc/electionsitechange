@@ -1,5 +1,4 @@
-Friends,
-As June 30th approaches, I ask a simple favor.
+Home My Story Public Policy Goals News Connect Get Involved Join an Event Contribute News / Wednesdays With Will (June 24th Edition) 24 Jun Wednesday, 7:00 AM · 2026 Wednesdays With Will (June 24th Edition) Friends, As June 30th approaches, I ask a simple favor.
 If you know who you're voting for, please return your ballot as soon as you can.
 You may not know this, but campaigns can see when a ballot has been received.
 Do not worry, we do not see who you voted for, but the confirmation of submission can make a big difference, especially for grassroots movements like ours.
@@ -58,5 +57,4 @@ If you have a friend, neighbor, or local candidate you believe in, reach out and
 Many races are won or lost because ordinary people decided to make one more phone call, knock one more door, or encourage one more voter to participate.
 If you are like me and believe every vote matters, every volunteer matters, and every voice matters, let’s not only make June 30th a day of service, but a blueprint for November 3rd.
 Thank you for your support, your involvement in this movement, and your commitment to Colorado.
-Together, we can Move Colorado Forward.
--William Switzer
+Together, we can Move Colorado Forward. -William Switzer Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

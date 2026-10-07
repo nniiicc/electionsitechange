@@ -1,17 +1,74 @@
 [
-"https://apolloartistry.com/",
-"https://donovanfenton.com/",
-"https://donovanfenton.com/accessibility",
-"https://donovanfenton.com/bluesky",
-"https://donovanfenton.com/donate",
-"https://donovanfenton.com/fb",
-"https://donovanfenton.com/insta",
-"https://donovanfenton.com/privacy-policy",
-"https://donovanfenton.com/twitter",
-"https://secure.actblue.com/donate/friends-of-donovan-fenton-1?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/friends-of-donovan-fenton-1?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/friends-of-donovan-fenton-1?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/friends-of-donovan-fenton-1?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/friends-of-donovan-fenton-1?amount=50&express_lane=true",
-"https://secure.actblue.com/donate/friends-of-donovan-fenton-1?express_lane=true"
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/friends-of-donovan-fenton-1?amount=10&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/friends-of-donovan-fenton-1?amount=100&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/friends-of-donovan-fenton-1?amount=25&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/friends-of-donovan-fenton-1?amount=250&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/friends-of-donovan-fenton-1?amount=50&express_lane=true"
+},
+{
+"text": "Accessibility",
+"href": "https://donovanfenton.com/accessibility"
+},
+{
+"text": "Contact Us",
+"href": "mailto:fentonforsenate@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://donovanfenton.com/donate"
+},
+{
+"text": "Donate Donate",
+"href": "https://donovanfenton.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://donovanfenton.com/fb"
+},
+{
+"text": "Home",
+"href": "https://donovanfenton.com"
+},
+{
+"text": "Instagram",
+"href": "https://donovanfenton.com/insta"
+},
+{
+"text": "Other Amount Other Amount",
+"href": "https://secure.actblue.com/donate/friends-of-donovan-fenton-1?express_lane=true"
+},
+{
+"text": "Powered by Apollo",
+"href": "https://apolloartistry.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://donovanfenton.com/privacy-policy"
+},
+{
+"text": "X-twitter",
+"href": "https://donovanfenton.com/twitter"
+},
+{
+"text": "[image]",
+"href": "https://donovanfenton.com"
+},
+{
+"text": "[no text]",
+"href": "https://donovanfenton.com/bluesky"
+}
 ]

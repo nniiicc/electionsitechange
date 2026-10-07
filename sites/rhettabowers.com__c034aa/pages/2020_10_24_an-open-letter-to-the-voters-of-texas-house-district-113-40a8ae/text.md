@@ -1,5 +1,7 @@
-An Open Letter to the Voters of Texas House District 113
-When I decided to run for public office, I knew it would be a humbling responsibility and an honor if elected.
+Skip to content Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media Menu Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media Facebook Instagram Twitter DONATE Facebook Instagram Twitter Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media Menu Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media DONATE VOLUNTEER An Open Letter to the Voters of Texas House District 113 Share on facebook Share on twitter Share on reddit I have gotten to know you, and you have gotten to know me.
+We have shopped at the same grocery stores, eaten together at local restaurants, supported our school teams and marching bands under the Friday night lights, attended PTA meetings, and watched as our community and families grew together.
+I am someone who understands the needs of our community and can be counted on to serve you.
+An Open Letter to the Voters of Texas House District 113 When I decided to run for public office, I knew it would be a humbling responsibility and an honor if elected.
 I also knew that it would come with its share of criticisms, questions, and attacks on my character.
 I am prepared for those attacks because I have always tried to live my life as a Godly woman that would make my family proud.
 I have made my home in this community for over 20 years.
@@ -14,29 +16,34 @@ In recent days, we have observed multiple violations of the rules governing vote
 I have been verbally assaulted and threatened by Douglas supporters on more than one occasion.
 I don’t want this to be what we have come to in our community, in our country.
 I still believe that common decency and civility is critical to public discourse.
-Now here are some facts about Will Douglas:
-- Will Douglas doesn’t live here.
+Now here are some facts about Will Douglas: Will Douglas doesn’t live here.
 He doesn’t pay taxes here.
 He lives in Uptown Dallas.
-- His billionaire backers helped him rent a trailer in Seagoville so that he could file to be on the ballot in this district.
-- We are not sure if that meets residency requirements for running for this seat.
-- Will Douglas doesn’t know us or our families.
+His billionaire backers helped him rent a trailer in Seagoville so that he could file to be on the ballot in this district.
+We are not sure if that meets residency requirements for running for this seat.
+Will Douglas doesn’t know us or our families.
 He has no ties to our community.
-- He is not motivated by helping the people of this district.
-- He’s not from East Dallas and has no business in East Dallas.
+He is not motivated by helping the people of this district.
+He’s not from East Dallas and has no business in East Dallas.
 Like Trump, Douglas is an opportunist looking for an audience.
-- As an aspiring politician, Douglas saw an opportunity to manipulate the rules to find a place to launch his political career.
+As an aspiring politician, Douglas saw an opportunity to manipulate the rules to find a place to launch his political career.
 This is known as “district shopping”.
-- Will Douglas is a die-hard Trump supporter who promotes Trump’s agenda.
-- He endorses Trump’s divisive, destructive rhetoric, and wants to bring that to Austin.
-- He defends Trump’s failed COVID 19 response.
-- Will Douglas wants to repeal the Affordable Care Act
-- This will block millions of Texans from access to affordable healthcare and prescription drugs.
-- He will not protect those with pre-existing conditions
-- Will Douglas wants to defund public schools.
-- He’ll divert taxpayer money to corporate, for-profit charter schools which hurts poor families and people of color.
+Will Douglas is a die-hard Trump supporter who promotes Trump’s agenda.
+He endorses Trump’s divisive, destructive rhetoric, and wants to bring that to Austin.
+He defends Trump’s failed COVID 19 response.
+Will Douglas wants to repeal the Affordable Care Act This will block millions of Texans from access to affordable healthcare and prescription drugs.
+He will not protect those with pre-existing conditions Will Douglas wants to defund public schools.
+He’ll divert taxpayer money to corporate, for-profit charter schools which hurts poor families and people of color.
 Support my reelection campaign and send me back to Austin to be YOUR representative.
 As Vice President Joe Biden has said, “This election is about the soul and character of this country.
 There is too much at stake.” #HD113 #VoteSafe #Txlege Rep.
-Rhetta Bowers
-Texas House of Representatives, HD 113
+Rhetta Bowers Texas House of Representatives, HD 113 www.rhettabowers.com About Rhetta Representative Bowers was elected to serve House District 113 in the Texas House of Representatives on November 8, 2018.
+She made history elected as the first African American to represent this district.
+House District 113 includes all or parts of Rowlett, Garland, Mesquite, Sunnyvale, Seagoville, Combine, Balch Springs, and Dallas.
+Facebook-f Instagram Twitter Recent Posts Garland Lawmaker Takes on Issue of Hair Discrimination, Re-Files CROWN Act Read More » At Paul Quinn College in Dallas, Beto O’Rourke promises not to take Black voters for granted – DMN Read More » Redistricting Read More » Search Help us deliver on our promises for the people of District 113 Donate Join Our Campaign There are amazing opportunities to help your community when you join the Rhetta A.
+Bowers for HD113 team.
+Help your community.
+Join Our Campaign There are amazing opportunities to help your community when you join the Rhetta A.
+Bowers for HD113 team.
+Help your community.
+Email Join Now Email Join Now ISSUES VOTE ABOUT Facebook Instagram Twitter Copyright ©# | Political advertising paid for by the Rhetta Andrews Bowers Campaign Go to Top

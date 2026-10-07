@@ -1,6 +1,62 @@
 [
-"http://facebook.com/kellyformt",
-"http://instagram.com/kellyformt",
-"http://twitter.com/kellyformt",
-"https://kellyformt.com/"
+{
+"text": "About",
+"href": "https://kellyformt.com/#aboutkelly-section"
+},
+{
+"text": "Connect",
+"href": "https://kellyformt.com/#reservations-section"
+},
+{
+"text": "Donate",
+"href": "https://kellyformt.com/#donate-section"
+},
+{
+"text": "Get Involved!",
+"href": "https://kellyformt.com/#signup-section"
+},
+{
+"text": "Home",
+"href": "https://kellyformt.com/#home-section"
+},
+{
+"text": "Issues",
+"href": "https://kellyformt.com/#menu-section"
+},
+{
+"text": "Media, News, Support",
+"href": "https://kellyformt.com/#news-section"
+},
+{
+"text": "SD32 Info",
+"href": "https://kellyformt.com/#sd32-section"
+},
+{
+"text": "Welcome",
+"href": "https://kellyformt.com/"
+},
+{
+"text": "[image: Kelly Kortum for Montana Senate District 32]",
+"href": "https://kellyformt.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/kellyformt"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/kellyformt"
+},
+{
+"text": "[no text]",
+"href": "http://www.twitter.com/kellyformt"
+},
+{
+"text": "[no text]",
+"href": "mailto:kellyformt@gmail.com"
+},
+{
+"text": "kellyformt@gmail.com",
+"href": "mailto:kellyformt@gmail.com"
+}
 ]

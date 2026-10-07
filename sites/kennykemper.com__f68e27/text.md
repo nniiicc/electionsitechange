@@ -1,4 +1,4 @@
-Kenny Kemper is a leader who listens to us, speaks with conviction, and acts with courage.
+Donate Now Meet Kenny Kenny Kemper is a leader who listens to us, speaks with conviction, and acts with courage.
 He's running for State Senate because our freedoms can’t afford to follow the status quo and Oklahoma's future can't afford to sit in the "bottom 10" of nearly every statistical category.
 Kenny was adopted at the age of three and raised in the small town of Buhl, Idaho.
 Growing up in a close-knit community of just 3,000 people, He learned early that hard work and perseverance could open any door.
@@ -19,24 +19,22 @@ And women need a future where their health decisions are in their own hands, not
 Kenny is not afraid to speak truth to power and do what's right.
 Oklahomans deserve that, and our freedoms can afford no less.
 Senate District 22 includes west Edmond and Deer Creek schools area, Piedmont, Surrey Hills, and parts of Putnam City schools.
-For too long, Oklahoma has ranked near the bottom in education, health, and economic opportunity.
+Issues OUT OF THE BOTTOM 10 OUT OF THE BOTTOM 10 OUT OF THE BOTTOM 10 For too long, Oklahoma has ranked near the bottom in education, health, and economic opportunity.
 Kenny believes freedom means opportunity, and that starts with strong schools, affordable healthcare, and wages that keep up with the cost of living.
 He will fight for investments that lift Oklahoma families up and put us in the top 10, not stuck at the bottom.
-Oklahoma should lead the nation in education, not trail behind it.
+EDUCATION FIRST OUT OF THE BOTTOM 10 OUT OF THE BOTTOM 10 Oklahoma should lead the nation in education, not trail behind it.
 Our kids deserve classrooms that prepare them for the future, and our teachers deserve fair pay so we can recruit and retain our best.
-Kenny will work to restore trust in our public systems and keep our State Department of Education accountable to parents and communities,
-One in five Oklahomans struggles with mental health, yet resources are underfunded and understaffed.
+Kenny will work to restore trust in our public systems and keep our State Department of Education accountable to parents and communities, MENTAL HEALTH CARE OUT OF THE BOTTOM 10 MENTAL HEALTH CARE One in five Oklahomans struggles with mental health, yet resources are underfunded and understaffed.
 Kenny will fight for expanded funding, rural access, and stronger partnerships between schools, healthcare providers, and community programs.
 Treating mental health like physical health saves lives, reduces crime, and strengthens families.
-Oklahoma families are working harder but falling further behind.
+WAGES & INFLATION WOMEN'S HEALTH RIGHTS MENTAL HEALTH CARE Oklahoma families are working harder but falling further behind.
 We need a senator who cares about constituents more than corporations.
 Kenny supports raising wages so full-time work means financial security, not poverty.
 He will demand budget transparency, stop wasteful spending, and hold insurance and utility companies accountable for rising costs that are squeezing families.
-Kenny believes women, not government, should make their own healthcare decisions.
+WOMEN'S HEALTH RIGHTS WOMEN'S HEALTH RIGHTS WOMEN'S HEALTH RIGHTS Kenny believes women, not government, should make their own healthcare decisions.
 Politicians have no business inserting themselves into the most personal medical choices families face.
 As Senator, he will fight to restore women’s rights, protect doctors from prosecution, and ensure Oklahoma families have access to safe, trusted healthcare.
-Authorized and paid for by Kenny Kemper for State
-PO Box 30411, Edmond, OK 73003
-Copyright © 2026 Kenny Kemper for State Senate - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Get involved!
+Email* Sign up Contact Kenny Name Email* Phone Sign up for our email list for updates, promotions, and more.
+Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Senate District 22 Donate Now Authorized and paid for by Kenny Kemper for State PO Box 30411, Edmond, OK 73003 Copyright © # Kenny Kemper for State Senate - All Rights Reserved.

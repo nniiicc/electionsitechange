@@ -1,12 +1,12 @@
-Senator Brian Jones Endorses Jim Desmond for Congress
-San Diego, CA – Senator Brian Jones, Minority Leader of the California State Senate has officially endorsed San Diego County Supervisor Jim Desmond in his campaign for Congress.
+0 Skip to Content Home Meet Jim Priorities Cost Of Living Homelessness Secure Border Energy Vocational Military Education Endorsements Media Latest News Donate Now Open Menu Close Menu Home Meet Jim Priorities Cost Of Living Homelessness Secure Border Energy Vocational Military Education Endorsements Media Latest News Donate Now Open Menu Close Menu Home Meet Jim Folder: Priorities Back Cost Of Living Homelessness Secure Border Energy Vocational Military Education Endorsements Media Latest News Donate Now Senator Brian Jones Endorses Jim Desmond for Congress Feb 3 Written By Miles Himmel San Diego, CA – Senator Brian Jones, Minority Leader of the California State Senate has officially endorsed San Diego County Supervisor Jim Desmond in his campaign for Congress.
 Senator Jones highlighted Desmond’s record of leadership and commitment to standing up for San Diego residents.
 "Jim Desmond has been a strong leader at the County, and I know he will be a leader for San Diego in Washington, D.C.," said Senator Brian Jones.
 "He’s exactly the kind of representative we need—someone who will fight for lower taxes, safer communities, and real solutions for California.
-I fully support him."
-Jim Desmond expressed his gratitude for Senator Jones’ endorsement and praised his leadership in Sacramento.
+I fully support him." Jim Desmond expressed his gratitude for Senator Jones’ endorsement and praised his leadership in Sacramento.
 "I’m honored to have the support of Senator Brian Jones, who has been a tireless advocate for common sense policies and a champion for hardworking Californians," said Jim Desmond.
 "His leadership in the State Senate has been crucial in fighting back against extreme policies that make life more difficult for families and businesses.
-I look forward to bringing that same fight to Congress."
-This major endorsement adds to the growing momentum behind Jim Desmond’s campaign.
+I look forward to bringing that same fight to Congress." This major endorsement adds to the growing momentum behind Jim Desmond’s campaign.
 With strong support from leaders and community advocates, Desmond’s message of a strong border, public safety, and fiscal responsibility continues to resonate with people across the district.
+Miles Himmel Previous Previous National Border Patrol Council San Diego Chapter Endorses Jim Desmond for Congress Next Next Coalition for Fair Employment in Construction Endorses Jim Desmond for Congress Meet Jim Jim Desmond is a U.S.
+Navy Veteran, retired Delta Airline Pilot, former business owner, and current San Diego County Supervisor dedicated to serving his community.
+Quick Links Home Meet Jim Priorities Latest News Privacy Policy Contact Info Email: info@DesmondForCongress.com Address: 930 Boardwalk Suite G, San Marcos, CA 92078 Phone: 858-215-2437 @2026 Desmond for Congress Paid for By Desmond for Congress

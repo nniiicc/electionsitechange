@@ -1,12 +1,9 @@
-Candidate for Assembly District 49 Brooklyn
-Bensonhurst - Dyker Heights - Sunset Park - Borough Park
-District Leader (AD 49) Democratic State Committee Member | Proud Mom & Wife | Community Organizer | Fighting for an affordable & inclusive BK.
-為長者確保醫療保健和社會服務
-為所有民眾爭取平等與安全
-為學校提供資源，確保優質教育
+Home Meet Joyce Joyce Xie Endorsements Priorities What I'm Fighting For Upcoming Events Volunteer Volunteer for Joyce How to Vote How to Vote for Joyce More Home Meet Joyce Joyce Xie Endorsements Priorities What I'm Fighting For Upcoming Events Volunteer Volunteer for Joyce How to Vote How to Vote for Joyce Donate Home Meet Joyce Joyce Xie Endorsements Priorities What I'm Fighting For Upcoming Events Volunteer Volunteer for Joyce How to Vote How to Vote for Joyce Donate Proven Leadership Proven Leadership Proven Leadership Proven Leadership Proven Leadership Candidate for Assembly District 49 Brooklyn Bensonhurst - Dyker Heights - Sunset Park - Borough Park Donate Proven Leadership Proven Leadership Proven Leadership Proven Leadership Proven Leadership Candidate for Assembly District 49 Brooklyn Bensonhurst - Dyker Heights - Sunset Park - Borough Park Donate Joyce is Fighting For You District Leader (AD 49) Democratic State Committee Member | Proud Mom & Wife | Community Organizer | Fighting for an affordable & inclusive BK.
+Our Campaign To secure Healthcare and Social Services for seniors To fight for equality and safety for all constituents 為長者確保醫療保健和社會服務 To fight for equality and safety for all constituents To fight for equality and safety for all constituents 為所有民眾爭取平等與安全 To provide resources for Schools and ensure Quality Educational 為學校提供資源，確保優質教育 Sign up for text and email messages from Joyce Name* Email* Phone We will not share or sell your text msg opt-in data, consent, or personal info with any 3rd parties.
+Join Now This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 By providing your telephone number and checking this box, you consent to receive calls and text messages.
 Msg & data rates may apply.
 Msg frequency may vary.
 Messaging may include requests for donation.
-Reply "STOP" to opt-out & "HELP" for help.
-(link to Privacy Policy page
+Reply "STOP" to opt-out & "HELP" for help. (link to Privacy Policy page Copyright © # Joyce For New York State Assembly District 49 - All Rights Reserved.
+Privacy Policy

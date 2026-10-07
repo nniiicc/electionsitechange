@@ -1,4 +1,6 @@
-Dave Bushaw is one of the youngest self-made, first-generation farmland owners in the U.S.
+0 Skip to Content Meet Dave Platform Events Volunteer Make a Pledge In the News Contact Us DONATE Open Menu Close Menu Meet Dave Platform Events Volunteer Make a Pledge In the News Contact Us DONATE Open Menu Close Menu Meet Dave Platform Events Volunteer Make a Pledge In the News Contact Us DONATE DONATE TO DAVE BUSHAW FOR CONGRESS Because working people deserve their seat at the table again. $10 $27 $50 $250 $500 OTHER Dave Bushaw is one of the youngest self-made, first-generation farmland owners in the U.S.
 Born and raised in West Union, Iowa, he comes from a working-class family and has spent his life fighting for rural and working people.
 A folk and labor musician, Dave has traveled the country playing for striking workers and training people to organize their workplaces.
 Now, Dave Bushaw is running to represent Iowa’s 2nd Congressional District — bringing a working-class, independent voice to Washington focused on accountability, transparency, and the communities too often left behind.
+Meet Dave GET INVOLVED Get the Latest News SIGN UP Volunteer #ago BECOME A VOLUNTEER Donate Today DONATE Events JOIN US IN-PERSON Ballot Access Pledge MAKE A PLEDGE TODAY For media and press inquiries: digital@davebushaw.com Checks can be mailed to: Dave Bushaw for Congress P.O BOX 231, West Union, IA 52175 PAID FOR BY DAVE BUSHAW FOR CONGRESS PRIVACY POLICY ©# Dave Bushaw for Congress.
+All rights reserved.

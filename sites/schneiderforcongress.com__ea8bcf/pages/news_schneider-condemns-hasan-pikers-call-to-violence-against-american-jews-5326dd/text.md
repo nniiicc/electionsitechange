@@ -1,6 +1,6 @@
-STATEMENT
-SCHNEIDER CONDEMNS HASAN PIKER’S CALL TO VIOLENCE AGAINST AMERICAN JEWS
-NORTHBROOK, IL - Today, Rep.
+Skip navigation menu Meet Brad Volunteer Events Endorsements Internship News Contact Donate Meet Brad Volunteer Events Endorsements Internship News Contact Donate STATEMENT SCHNEIDER CONDEMNS HASAN PIKER’S CALL TO VIOLENCE AGAINST AMERICAN JEWS STATEMENT Jewish Members of Congress Condemn Antisemitic Attacks in Florida Republican Primary PRESS RELEASE GIFFORDS Endorses Rep.
+Brad Schneider for Reelection PRESS RELEASE Schneider Statement on the Indictment of Six Broadview Protestors PRESS RELEASE Schneider Campaign Donates to Food Banks Before SNAP Funds Lapse PRESS RELEASE 100+ Current and Former Elected Officials Endorse Rep.
+Brad Schneider Aug 25 2026 STATEMENT SCHNEIDER CONDEMNS HASAN PIKER’S CALL TO VIOLENCE AGAINST AMERICAN JEWS NORTHBROOK, IL - Today, Rep.
 Brad Schneider issued the following statement in response to Hasan Piker’s recent antisemitic rant victim-blaming American Jews and inciting violence against the American Jewish community.
 A social media influencer and increasingly frequent political surrogate, Piker made his remarks during a 7-hour streaming show which has now been viewed by millions of people around the country and around the world.
 “Hasan Piker’s recent ‘victim-blaming’ comments inciting violence against American Jews reflect one of the oldest strategies long deployed by bigots and tyrants alike.
@@ -14,5 +14,4 @@ The Jewish community in Michigan deserves outright condemnation of rhetoric that
 “El-Sayed would serve himself and his supporters well to recall the words of Dr.
 Martin Luther King, Jr., ‘Returning hate for hate multiplies hate, adding deeper darkness to a night already devoid of stars.
 Darkness cannot drive out darkness; only light can do that.
-Hate cannot drive out hate, only love can do that.’
-“All of us should strive to be a light against the darkness of hate and work toward a brighter future where everyone can thrive without threat of violence.”
+Hate cannot drive out hate, only love can do that.’ “All of us should strive to be a light against the darkness of hate and work toward a brighter future where everyone can thrive without threat of violence.” Brad Schneider for Congress PO Box 1318, Deerfield, IL 60015 P: (847) 748-3788 C: (847) 964-3365 Powered by RUN! website builder Paid for by Schneider for Congress You need to enable JavaScript to run this app.

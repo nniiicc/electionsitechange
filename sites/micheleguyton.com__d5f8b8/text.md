@@ -1,5 +1,6 @@
-A Public Servant with a Strong Moral Compass
-Michele Guyton has been actively supporting and directly helping families and communities for over 25 years.
+0 Skip to Content Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Get Involved August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Open Menu Close Menu Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Get Involved August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Open Menu Close Menu Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Folder: Get Involved Back August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign A Public Servant with a Strong Moral Compass Michele Guyton has been actively supporting and directly helping families and communities for over 25 years.
 As a developmental psychologist and educational advocate, she is an expert in evidence-based creative and collaborative problem solving.
 When she sees a problem- she fixes it!
 That is exactly why we need her fierce, well-informed and bi-partisan style of leadership in Annapolis!
+Are You in District 42B?
+Get Your District Info View District Map By Authority: Michele Guyton for Baltimore County | Manda Simon, Treasurer

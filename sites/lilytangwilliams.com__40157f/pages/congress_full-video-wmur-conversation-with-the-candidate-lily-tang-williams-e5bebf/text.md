@@ -1,4 +1,6 @@
-Lily answers questions from New Hampshire voters on WMUR’s “Conversation with the Candidate.” Watch the full segment below.
-I need your support!
+Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate Full Video: WMUR Conversation with the Candidate – Lily Tang Williams September 27, 2026 September 27, 2026 by alvin Lily answers questions from New Hampshire voters on WMUR’s “Conversation with the Candidate.” Watch the full segment below.
+Categories Uncategorized Lily Tang Williams on foreign policy regarding Iran I need your support!
 I am not a career politician and need the grassroots support of people like you.
 Please make a donation to our campaign so we can put a stop to the radical left agenda.
+DONATE Leave a Comment Cancel reply Comment Name Email Website Save my name, email, and website in this browser for the next time I comment. Δ DONATE Subscribe First Name Last Name Email Δ Search Search Recent Posts Full Video: WMUR Conversation with the Candidate – Lily Tang Williams Lily Tang Williams on foreign policy regarding Iran Lily Tang Williams says we have ‘mortgaged our children’s future’ Lily Tang Williams on New Hampshire Today (News Radio 610) Lily Tang Williams secures GOP nomination in 2nd Congressional District © # Lily4Congress Committee.
+Paid for by Lily4Congress Committee. | Privacy Policy

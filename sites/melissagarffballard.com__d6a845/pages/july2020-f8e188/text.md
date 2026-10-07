@@ -1,87 +1,56 @@
-| |
-| |
-| |
-| |
-| |
-| |
-| Checking In At The Legislature: July Update |
-| |
-| |
-| I am proud to be an American!
+Home About Melissa Platforms Results Endorsements In the News Volunteer Contact Donate Newsletters Back Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Back Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Back June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session Home About Melissa Platforms Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Results Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Endorsements In the News Volunteer Contact Donate Newsletters June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session *|MC_PREVIEW_TEXT|* Checking In At The Legislature: July Update I am proud to be an American!
 We live in strange times with a pandemic and protests, yet our unalienable rights remain the same.
 It seems we have to find new ways to pursue our happiness as we “Stay Safe to Stay Open” and learn to work through the protests and riots to protect our businesses and families.
 I am proud of what the legislature accomplished during the special session in June.
 While most states need to cut 10-20% of their budgets, Utah only cut 1.7% due to available rainy-day funds and reduced spending.
-We actually increased public education funding per pupil by 1.8% and increased education funding for growth.
-Social Services funding also increased 5.4%. 18% of our budget cuts came from reducing infrastructure and general government costs.
+We actually increased public education funding per pupil by 1.8% and increased education funding for growth .
+Social Services funding also increased 5.4%.
+18% of our budget cuts came from reducing infrastructure and general government costs.
 Extending the State of Emergency continued to enable Utah to receive funding from the CARES ACT.
 For example, the Federal government funneled an additional $125 million into our state for education to Utah.
-I hope you can wave your flags proudly this weekend to honor the freedoms and liberty we enjoy in this country. -Melissa |
-| |
-| |
-| Upcoming Events: July 3rd West Bountiful Fireworks from Lakeside Golf Course sponsored by Holly Frontier (view from homes and cars) 4th of July Air Parade and parachuting across Davis County 9-11 am.
-Information regarding fireworks can be found here.
+I hope you can wave your flags proudly this weekend to honor the freedoms and liberty we enjoy in this country. -Melissa Upcoming Events: July 3 rd West Bountiful Fireworks from Lakeside Golf Course sponsored by Holly Frontier (view from homes and cars) 4 th of July Air Parade and parachuting across Davis County 9-11 am.
+Information regarding fireworks can be found here .
 And here https://www.bountifulutah.gov/file/0fbb2fe0-9f49-467e-aebf-b5c64fe3b242 Bountiful Veteran’s Park info is here https://bountifulveteranspark.org/ Bountiful Farmer’s Market postponed until July 30th Monday nights 5-8 pm: Food trucks at Legacy Park in NSL Summer Trails Series - Legacy Trail July 11, 2020, 9:00 AM @ Legacy Trail.
 Parking is available at the Center Street trailhead in NSL.
 Parking and restrooms are available in Legacy Park.
 The NSL Parks and Arts board invites you to get out and explore our city's trails this summer!
 Each month, we will highlight a different trail.
 Join us for free snacks, drink, and trail maps.
-Family-friendly hiking or biking. |
-| |
-| In this Issue: June legislative Special Session Summary and the new state budget Unemployment federal funds: not available after Aug 1st Job Openings in Utah Utah Leads Together 4.0 Economic Recovery Grant Programs |
-| |
-| |
-| June Special Session On June 18th legislators met both in person and virtually for the 5th Special Session.
+Family-friendly hiking or biking.
+In this Issue: June legislative Special Session Summary and the new state budget Unemployment federal funds: not available after Aug 1 st Job Openings in Utah Utah Leads Together 4.0 Economic Recovery Grant Programs June Special Session On June 18 th legislators met both in person and virtually for the 5th Special Session.
 We considered 26 bills addressing the state’s budget and policies related to COVID-19 and passed most of them.
 A new budget included spending reductions, cash flow management, drawing a portion of the education rainy day fund, the general rainy-day fund, the Medicaid rainy day fund, and budgetary reserves.
 We used approximately 27%, or $680 million, of the multiple rainy-day funds to backfill budgets, so drastic cuts did not need to take place.
 The overall cuts resulted in 1.7% to the state budget.
-Here are a few articles describing the special session: |
-| |
-| Representative Sandra Hollins presenting a resolution for Juneteenth Resolution honoring all Utah 2020 graduates (one photo of Representative Lee Perry) and photo of me with some of my children celebrating our graduates: MK from WXHS, Eliza.
+Here are a few articles describing the special session: Utah lawmakers return to Capitol for special session Education, social services get boosts in funding as Utah lawmakers make COVID-19 budget cuts House speaker predicts colleagues might try to ‘score political points’ during session Lawmakers approve measure to cut their own paychecks Lawmakers slash millions from the state budget, but increase education funding slightly Representative Sandra Hollins presenting a resolution for Juneteenth Resolution honoring all Utah 2020 graduates (one photo of Representative Lee Perry) and photo of me with some of my children celebrating our graduates: MK from WXHS, Eliza.
 Brooke and Brigham, (Samantha), and Bowen from UofU.
-(And Carri from BYU) |
-| |
-| |
-| |
-| |
-| Unemployment $600 per person weekly for eligible recipients from the federal CARES Act will go away at the end of July for all unemployment programs.
+(And Carri from BYU) Unemployment $600 per person weekly for eligible recipients from the federal CARES Act will go away at the end of July for all unemployment programs.
 We anticipate this will trigger many people to jump back into the workforce even if they are currently considered “job attached.” Those who start in July to look for work will have an advantage on those who wait.
-This is an important message we will continue to push out over the next month. |
-| |
-| |
-| Jobs We are still trending in a positive direction with more individuals ending their unemployment insurance weekly claim than filing new applications.
-We are also seeing more job openings with 24,177 jobs listed on jobs.utah.gov. |
-| |
-| |
-| Utah Leads Together 4.0: employment and recovery grants Utah Leads Together 4.0 This utilizes $50-60 million of CARES ACT and other funding to encourage consumers to re-engage in the local economy.
+This is an important message we will continue to push out over the next month.
+Jobs We are still trending in a positive direction with more individuals ending their unemployment insurance weekly claim than filing new applications.
+We are also seeing more job openings with 24,177 jobs listed on jobs.utah.gov .
+Utah Leads Together 4.0: employment and recovery grants Utah Leads Together 4.0 This utilizes $50-60 million of CARES ACT and other funding to encourage consumers to re-engage in the local economy.
 It lays out 100, 250, and 500-day horizon plans to encourage economic recovery.
 The first 100 days connects the unemployed with jobs.
-The Keys to Success app for high schoolers aligns teens with jobs, internships, and scholarships- encourage your teen to download the app! |
-| |
-| |
-| The COVID-19 Economic Recovery Grant Programs These programs use over $50 million from the Federal CARES Act which must be spent by the end of the year.
-It is a set of grants that will go directly to the businesses and organizations requiring businesses to “give back” to the consumer. https://coronavirus.utah.gov/business/ |
-| |
-| |
-| Outdoor fun with my family |
-| |
-| Fishing with my sone, Stanford. |
-| Hiking with my daughter, Eliza. |
-| |
-| Branding cattle with my mother and siblings to retire my Dad’s saddle and boots.
-He passed away from COVID-19 March 29th |
-| |
-| |
-| Learn More About Melissa |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
+The Keys to Success app for high schoolers aligns teens with jobs, internships, and scholarships- encourage your teen to download the app!
+The COVID-19 Economic Recovery Grant Programs These programs use over $50 million from the Federal CARES Act which must be spent by the end of the year.
+It is a set of grants that will go directly to the businesses and organizations requiring businesses to “give back” to the consumer. https://coronavirus.utah.gov/business/ Outdoor fun with my family Fishing with my sone, Stanford.
+Hiking with my daughter, Eliza.
+Branding cattle with my mother and siblings to retire my Dad’s saddle and boots.
+He passed away from COVID-19 March 29 th Learn More About Melissa Facebook Instagram Email Paid for By the Committee to Elect Melissa Garff Ballard Copyright # Register To Vote Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for Melissa's Newsletter Email Address Sign Up Thank you for signing up for Melissa’s newsletter!

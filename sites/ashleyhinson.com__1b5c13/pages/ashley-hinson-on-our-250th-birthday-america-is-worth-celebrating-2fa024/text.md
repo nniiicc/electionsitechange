@@ -1,4 +1,4 @@
-For 250 years, the United States of America has been a beacon of hope, a land of opportunity, a leader of innovation, and a hallmark of democracy.
+Meet Ashley Issues Endorse Volunteer Contribute News & Updates Ashley Hinson: On Our 250th Birthday, America is Worth Celebrating Jul 4, 2026 | In the News Back to Updates For 250 years, the United States of America has been a beacon of hope, a land of opportunity, a leader of innovation, and a hallmark of democracy.
 From Presidents George Washington and Abraham Lincoln to the Wright Brothers, Susan B.
 Anthony, Martin Luther King Jr., Rosa Parks and Henry Ford, to President Reagan and now President Trump, these are only a handful of the extraordinary Americans whose courage, ingenuity, and determination helped build the nation we cherish today.
 America remains the envy of the world––and it’s because of the men and women who believed in a better future, fought for freedom, and achieved what was once thought impossible.
@@ -23,3 +23,5 @@ As a proud American and a proud Iowan, I believe that America is the greatest co
 I believe that our people are our greatest strength and our greatest blessing.
 And I believe that America’s best days are still ahead of us.
 Together, we’ll ensure America’s next 250 years are the best yet.
+Follow Follow Follow Follow Contribute by check To contribute to Ashley Hinson for Iowa by check, mail to the below address Ashley Hinson for Iowa P.O.
+Box 811 Marion, IA 52302 Privacy Policy | Terms and Conditions PAID FOR BY ASHLEY FOR IOWA

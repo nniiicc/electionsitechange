@@ -1,5 +1,5 @@
-Housing Crisis
-I believe everyone has a right to accessible affordable housing.
+Search for: Search × Sign In Email address Password Remember Me × Home Bills News Meet Meghan Values Volunteer Vote In-Person Early Voting and Emergency Voting Vote By Mail Contact Donate DONATE Housing Crisis Homepage Housing Housing Crisis Housing Crisis I believe everyone has a right to accessible affordable housing.
 I believe that we must attend to the housing crisis that is affecting the state of Rhode Island and the city of Pawtucket so urgently.
 I support policies that keep housing accessible and affordable for regular people, especially as we anticipate high levels of development with the new stadium and train station in our downtown.
-Read Meghan’s Values
+Read Meghan’s Values " Housing Meet Meghan Meghan is committed to bringing the voices of the people of Pawtucket and Providence to the State House.
+Learn More Resources News COVID-19 Resources Vote Census Reading & Resources Newsletter Signup © Paid for by Friends of Meghan Kallman 2023 English Spanish English Skip to content Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

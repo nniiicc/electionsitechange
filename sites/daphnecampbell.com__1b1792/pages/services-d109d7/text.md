@@ -1,4 +1,9 @@
-Get Involved: Volunteer With the Campaign
-Join me in making a difference for District 108!
+Running for State Representative of District 108 , join me in the fight for better healthcare, education, gun violence prevention and housing!
+Home Initiatives Petition & Yard Sign Support Form Bio Accomplishments Comment Accomplishments Press Releases Blog Contact Stand With Daphne – Give Today 0 Key Initiatives Get in Touch Healthcare Advocacy… Throughout my political career, I've always b...
+Learn more Healthcare Advocacy & Medical Malpractice Protection Get in Touch Education Advocacy … I have always been a passionate advocate for ...
+Learn more Education Advocacy & Public Education Funding Get in Touch Immigrant Rights & … I have always been a staunch advocate for imm...
+Learn more Immigrant Rights & Temporary Protected Status (TPS) Get Involved: Volunteer With the Campaign Join me in making a difference for District 108!
 Whether it's spreading the word, assisting with events, or helping in any way you can, your support will help us create positive change in our community.
 Volunteer today and be a part of this important mission!
+Sign Up to Volunteer Today!
+Merchant Policies Legal Notice Powered by

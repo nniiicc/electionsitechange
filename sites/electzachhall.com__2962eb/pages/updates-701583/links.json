@@ -1,16 +1,66 @@
 [
-"https://bsky.app/profile/electzachhall.com",
-"https://electzachhall.com/",
-"https://electzachhall.com/about",
-"https://electzachhall.com/cart",
-"https://electzachhall.com/endorsements",
-"https://electzachhall.com/priorities",
-"https://electzachhall.com/privacy-policy",
-"https://electzachhall.com/sms-terms-and-conditions",
-"https://electzachhall.com/updates",
-"https://electzachhall.com/volunteer",
-"https://facebook.com/electzachhall",
-"https://instagram.com/electzachhall",
-"https://secure.actblue.com/donate/zach-hall-5th-ld",
-"https://tiktok.com/@electzachhall"
+{
+"text": "0",
+"href": "https://www.electzachhall.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electzachhall.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/zach-hall-5th-ld"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electzachhall.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.electzachhall.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.electzachhall.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electzachhall.com/privacy-policy"
+},
+{
+"text": "SMS Terms & Conditions",
+"href": "https://www.electzachhall.com/sms-terms-and-conditions"
+},
+{
+"text": "Updates",
+"href": "https://www.electzachhall.com/updates"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electzachhall.com/volunteer"
+},
+{
+"text": "[image: Elect Zach Hall]",
+"href": "https://www.electzachhall.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/electzachhall.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electzachhall/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electzachhall/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@electzachhall"
+},
+{
+"text": "hello@electzachhall.com",
+"href": "mailto:hello@electzachhall.com"
+}
 ]

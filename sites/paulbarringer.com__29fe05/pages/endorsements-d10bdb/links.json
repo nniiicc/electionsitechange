@@ -1,34 +1,134 @@
 [
-"https://bsky.app/profile/paulbarringer.com",
-"https://facebook.com/paulbarringernc",
-"https://instagram.com/paulbarringernc",
-"https://paulbarringer.com/",
-"https://paulbarringer.com/about",
-"https://paulbarringer.com/endorsement/afl-cio",
-"https://paulbarringer.com/endorsement/allen-wellons",
-"https://paulbarringer.com/endorsement/ben-clapsaddle",
-"https://paulbarringer.com/endorsement/bob-etheridge",
-"https://paulbarringer.com/endorsement/chet-mann",
-"https://paulbarringer.com/endorsement/chris-petty",
-"https://paulbarringer.com/endorsement/david-price",
-"https://paulbarringer.com/endorsement/dennis-wicker",
-"https://paulbarringer.com/endorsement/lisa-grafstein",
-"https://paulbarringer.com/endorsement/sarah-crawford",
-"https://paulbarringer.com/endorsement/sig-hutchinson",
-"https://paulbarringer.com/endorsement/the-committee-to-protect-health-care",
-"https://paulbarringer.com/endorsement/the-communications-workers-of-america",
-"https://paulbarringer.com/endorsement/the-wake-county-voter-education-coalition",
-"https://paulbarringer.com/endorsement/wiley-nickel",
-"https://paulbarringer.com/endorsements",
-"https://paulbarringer.com/events",
-"https://paulbarringer.com/media",
-"https://paulbarringer.com/priorities",
-"https://paulbarringer.com/privacy",
-"https://paulbarringer.com/volunteer",
-"https://secure.actblue.com/donate/paulbarringer",
-"https://threads.com/@paulbarringernc",
-"https://tiktok.com/@paulbarringernc",
-"https://x.com/PaulBarringerNC",
-"https://xpslane.com/",
-"https://youtube.com/@PaulBarringerforCongress"
+{
+"text": "About",
+"href": "https://paulbarringer.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/paulbarringer"
+},
+{
+"text": "Endorsements",
+"href": "https://paulbarringer.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://paulbarringer.com/events"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Home",
+"href": "https://paulbarringer.com/"
+},
+{
+"text": "Media",
+"href": "https://paulbarringer.com/media"
+},
+{
+"text": "Priorities",
+"href": "https://paulbarringer.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://paulbarringer.com/privacy"
+},
+{
+"text": "Volunteer",
+"href": "https://paulbarringer.com/volunteer"
+},
+{
+"text": "[image: Paul Barringer Democrat for Congress]",
+"href": "https://paulbarringer.com/"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/afl-cio"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/allen-wellons"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/ben-clapsaddle"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/bob-etheridge"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/chet-mann"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/chris-petty"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/david-price"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/dennis-wicker"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/lisa-grafstein"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/sarah-crawford"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/sig-hutchinson"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/the-committee-to-protect-health-care"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/the-communications-workers-of-america"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/the-wake-county-voter-education-coalition"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/wiley-nickel"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/paulbarringer.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/paulbarringernc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/paulbarringernc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@paulbarringernc"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@paulbarringernc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@PaulBarringerforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/PaulBarringerNC"
+}
 ]

@@ -1,4 +1,4 @@
-February 21, 2023
-Delegate Robbyn Lewis joined Jayne Miller, guest host for WYPR’s Midday show to talk transit.
+Skip to content RobbynLewis.com About Open menu Priorities Robbyn’s Story Services Open menu Request Help About District 46 Initiatives Open menu Livable Streets Coalition Zero Waste Task Force Press Donate WYPR Interview on Red Line prospects February 21, 2023 Delegate Robbyn Lewis joined Jayne Miller, guest host for WYPR’s Midday show to talk transit.
 Topics include the history of the Red Line light rail project and the future of Baltimore’s transit system.
-Listen to the full interview here.
+Listen to the full interview here .
+Published August 22, 2023 By admin Categorized as In the Media , News , Transportation Tagged News , Transit Post navigation Previous 2022 End-of-Session Report Next AFRO News: Women of color shine the Legislative Black Caucus of Maryland @robbynlewis46th @robbynlewis46th info@robbynlewis.com 410.929.0555 Privacy Policy Authority: Friends of Robbyn Lewis, Tracey Lynn Lewis, Treasurer

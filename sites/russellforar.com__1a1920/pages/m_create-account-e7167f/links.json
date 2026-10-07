@@ -1,18 +1,70 @@
 [
-"https://facebook.com/JamesRussell3rd",
-"https://instagram.com/russellforar",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://russellforar.com/",
-"https://russellforar.com/about-james",
-"https://russellforar.com/blog-%26-media",
-"https://russellforar.com/contact",
-"https://russellforar.com/m/account",
-"https://russellforar.com/m/create-account",
-"https://russellforar.com/m/login",
-"https://russellforar.com/on-the-issues",
-"https://russellforar.com/privacy-policy",
-"https://tiktok.com/@russellforarkansas?lang=en",
-"https://x.com/@JamesRussell3rd",
-"https://youtube.com/@RussellForAR"
+{
+"text": "About James",
+"href": "https://russellforar.com/about-james"
+},
+{
+"text": "Blog & Media",
+"href": "https://russellforar.com/blog-%26-media"
+},
+{
+"text": "Contact",
+"href": "https://russellforar.com/contact"
+},
+{
+"text": "Create Account",
+"href": "https://russellforar.com/m/create-account"
+},
+{
+"text": "Home",
+"href": "https://russellforar.com/"
+},
+{
+"text": "My Account",
+"href": "https://russellforar.com/m/account"
+},
+{
+"text": "On the Issues",
+"href": "https://russellforar.com/on-the-issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://russellforar.com/privacy-policy"
+},
+{
+"text": "Sign In",
+"href": "https://russellforar.com/m/account"
+},
+{
+"text": "Sign in",
+"href": "https://russellforar.com/m/login"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JamesRussell3rd"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/russellforar/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@russellforarkansas?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/@JamesRussell3rd"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RussellForAR"
+}
 ]

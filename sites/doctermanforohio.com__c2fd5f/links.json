@@ -1,16 +1,66 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSdGJZjDu9kslneb5c2qsEACqdV0bKW3zaD841yAxgkSPqaKdg/viewform",
-"https://doctermanforohio.com/about-collin",
-"https://doctermanforohio.com/home",
-"https://doctermanforohio.com/issues",
-"https://doctermanforohio.com/issues/education",
-"https://doctermanforohio.com/issues/good-governance",
-"https://doctermanforohio.com/issues/healthcare",
-"https://google.com/url?q=https%3A%2F%2Fbsky.app%2Fprofile%2Fdoctermanforohio.bsky.social&sa=D&sntz=1&usg=AOvVaw1FI9EPvgpUnw41Ms6wL0Ng",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fcollin-docterman-1&sa=D&sntz=1&usg=AOvVaw2_TjFPqYg29Kl7OUnNwITI",
-"https://google.com/url?q=https%3A%2F%2Ftwitter.com%2FDocterman4Ohio&sa=D&sntz=1&usg=AOvVaw2l0LWwIF1wQazsMyBKOGLP",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61578352808335&sa=D&sntz=1&usg=AOvVaw3hNqrFJezX3wEMAz4l_NCt",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fdoctermanforohio&sa=D&sntz=1&usg=AOvVaw1BKiAwJkyxddQ7QGWtssvk",
-"https://google.com/url?q=https%3A%2F%2Fwww.threads.com%2F%40doctermanforohio&sa=D&sntz=1&usg=AOvVaw0t3Xq7XvHYqPdhb29vKB9i",
-"https://google.com/url?q=https%3A%2F%2Fwww.tiktok.com%2F%40collindocterman&sa=D&sntz=1&usg=AOvVaw3XTBoWZlX9ZOkL847wQ1-K"
+{
+"text": "DOCTERMAN FOR OHIO",
+"href": "https://www.doctermanforohio.com/home"
+},
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fcollin-docterman-1&sa=D&sntz=1&usg=AOvVaw2_TjFPqYg29Kl7OUnNwITI"
+},
+{
+"text": "Education",
+"href": "https://www.doctermanforohio.com/issues/education"
+},
+{
+"text": "Good Governance",
+"href": "https://www.doctermanforohio.com/issues/good-governance"
+},
+{
+"text": "Healthcare",
+"href": "https://www.doctermanforohio.com/issues/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.doctermanforohio.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.doctermanforohio.com/issues"
+},
+{
+"text": "READ MORE",
+"href": "https://www.doctermanforohio.com/about-collin"
+},
+{
+"text": "[image: Email]",
+"href": "mailto:collin@doctermanforohio.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61578352808335&sa=D&sntz=1&usg=AOvVaw3hNqrFJezX3wEMAz4l_NCt"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fdoctermanforohio&sa=D&sntz=1&usg=AOvVaw1BKiAwJkyxddQ7QGWtssvk"
+},
+{
+"text": "[image: Link]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fbsky.app%2Fprofile%2Fdoctermanforohio.bsky.social&sa=D&sntz=1&usg=AOvVaw1FI9EPvgpUnw41Ms6wL0Ng"
+},
+{
+"text": "[image: Link]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.threads.com%2F%40doctermanforohio&sa=D&sntz=1&usg=AOvVaw0t3Xq7XvHYqPdhb29vKB9i"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.tiktok.com%2F%40collindocterman&sa=D&sntz=1&usg=AOvVaw3XTBoWZlX9ZOkL847wQ1-K"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2FDocterman4Ohio&sa=D&sntz=1&usg=AOvVaw2l0LWwIF1wQazsMyBKOGLP"
+},
+{
+"text": "[tooltip: Open Google Forms, Communications List Signup in new window]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdGJZjDu9kslneb5c2qsEACqdV0bKW3zaD841yAxgkSPqaKdg/viewform"
+}
 ]

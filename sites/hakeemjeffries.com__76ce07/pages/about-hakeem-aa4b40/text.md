@@ -1,5 +1,6 @@
-About Hakeem
-Congressman Hakeem Jeffries has proudly represented New York’s Eighth Congressional District in the United States House of Representatives since taking office on January 3, 2013.
+Skip to content Hakeem will always put people over politics.
+Help him keep fighting For The People.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Homepage About Hakeem News Issues Search for: Donate Menu About Hakeem Congressman Hakeem Jeffries has proudly represented New York’s Eighth Congressional District in the United States House of Representatives since taking office on January 3, 2013.
 The incredibly vibrant and diverse Eighth Congressional District encompasses neighborhoods like East New York, Brownsville, Bedford-Stuyvesant, Canarsie, Coney Island and Brighton Beach.
 Congressman Jeffries was unanimously elected House Democratic Leader by his colleagues in January of 2023.
 In that capacity, he is the highest ranking Democrat in the House of Representatives and the first person of color to lead a major party in the United States Congress.
@@ -15,3 +16,4 @@ Before his election to the House, Congressman Jeffries served for six years in t
 Prior to his career in public service, he practiced law at Paul, Weiss, Rifkind, Wharton & Garrison LLP, and served as litigation counsel for Viacom Inc. and CBS.
 Congressman Jeffries received his bachelor’s degree at the State University of New York at Binghamton, earned a master’s degree in public policy from Georgetown University and graduated magna cum laude at New York University School of Law.
 Congressman Jeffries was born in Brooklyn, is a product of New York City’s public school system and lives in Brooklyn with his family.
+Donate Now If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other About News Issues Privacy Policy Stay in Touch Paid for by Jeffries for Congress

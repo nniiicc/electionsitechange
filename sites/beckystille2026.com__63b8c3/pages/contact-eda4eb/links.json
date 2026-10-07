@@ -1,13 +1,50 @@
 [
-"https://beckystille2026.com/",
-"https://beckystille2026.com/4662318a-434b-4089-88cb-9317a827453b",
-"https://beckystille2026.com/about",
-"https://beckystille2026.com/issues",
-"https://beckystille2026.com/privacy-policy",
-"https://beckystille2026.com/vision",
-"https://beckystille2026.com/volunteer",
-"https://bsky.app/profile/beckystille2026.bsky.social",
-"https://designedtorun.com/",
-"https://secure.actblue.com/donate/becky.stille-ne.3rd-youtube?express_lane_other=true",
-"https://x.com/beckylstille"
+{
+"text": "About",
+"href": "https://www.beckystille2026.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/becky.stille-ne.3rd-youtube?express_lane_other=true"
+},
+{
+"text": "Home",
+"href": "https://www.beckystille2026.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.beckystille2026.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.beckystille2026.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Share Your Vision",
+"href": "https://www.beckystille2026.com/vision"
+},
+{
+"text": "Terms and Privacy Policy.",
+"href": "https://www.beckystille2026.com/4662318a-434b-4089-88cb-9317a827453b"
+},
+{
+"text": "Volunteer",
+"href": "https://www.beckystille2026.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/beckystille2026.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/beckylstille"
+},
+{
+"text": "info@beckystille2026.com",
+"href": "mailto:info@beckystille2026.com"
+}
 ]

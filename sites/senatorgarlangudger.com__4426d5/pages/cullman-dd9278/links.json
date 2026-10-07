@@ -1,32 +1,130 @@
 [
-"http://cityofhanceville.net/",
-"http://co.cullman.al.us/",
-"http://cullmanal.gov/",
-"http://cullmanchamber.org/",
-"http://cullmaneda.org/",
-"http://dodgecitytown.com/",
-"http://goodhopeal.com/",
-"http://legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Harbison&OID_SPONSOR=85927&OID_PERSON=7695&SESSNAME=Regular+Session+2017",
-"http://legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Shedd&OID_SPONSOR=85926&OID_PERSON=7404&SESSNAME=Regular+Session+2017",
-"https://berlinal.org/",
-"https://ccboe.org/",
-"https://cullmancats.net/",
-"https://facebook.com/Baileyton-Town-Hall-116938805312499",
-"https://facebook.com/TownOfWestPointAlabama",
-"https://facebook.com/colony.townhall",
-"https://facebook.com/gardencityalabama",
-"https://senatorgarlangudger.com/",
-"https://senatorgarlangudger.com/about",
-"https://senatorgarlangudger.com/contact-8",
-"https://senatorgarlangudger.com/credentials",
-"https://senatorgarlangudger.com/cullman",
-"https://senatorgarlangudger.com/district-4-news",
-"https://senatorgarlangudger.com/funding-improvements",
-"https://senatorgarlangudger.com/marion",
-"https://senatorgarlangudger.com/media",
-"https://senatorgarlangudger.com/meet-your-senator",
-"https://senatorgarlangudger.com/privacy-policy",
-"https://senatorgarlangudger.com/sponsored-bills",
-"https://senatorgarlangudger.com/terms-and-conditions",
-"https://senatorgarlangudger.com/winston"
+{
+"text": "About",
+"href": "https://www.senatorgarlangudger.com/about"
+},
+{
+"text": "Baileytown",
+"href": "https://www.facebook.com/Baileyton-Town-Hall-116938805312499/"
+},
+{
+"text": "Berlin",
+"href": "https://www.berlinal.org/"
+},
+{
+"text": "Chamber of Commerce",
+"href": "http://www.cullmanchamber.org"
+},
+{
+"text": "Colony",
+"href": "https://www.facebook.com/colony.townhall"
+},
+{
+"text": "Contact",
+"href": "https://www.senatorgarlangudger.com/contact-8"
+},
+{
+"text": "Credentials",
+"href": "https://www.senatorgarlangudger.com/credentials"
+},
+{
+"text": "Cullman",
+"href": "http://www.cullmanal.gov/"
+},
+{
+"text": "Cullman",
+"href": "https://www.senatorgarlangudger.com/cullman"
+},
+{
+"text": "Cullman City",
+"href": "https://www.cullmancats.net/"
+},
+{
+"text": "Cullman County",
+"href": "https://www.ccboe.org/"
+},
+{
+"text": "Cullman County Commission",
+"href": "http://www.co.cullman.al.us/"
+},
+{
+"text": "District 4 News",
+"href": "https://www.senatorgarlangudger.com/district-4-news"
+},
+{
+"text": "Dodge City",
+"href": "http://www.dodgecitytown.com/"
+},
+{
+"text": "Economic Development Information",
+"href": "http://www.cullmaneda.org"
+},
+{
+"text": "Funding & Improvements",
+"href": "https://www.senatorgarlangudger.com/funding-improvements"
+},
+{
+"text": "Garden City",
+"href": "https://www.facebook.com/gardencityalabama/"
+},
+{
+"text": "Garlan.Gudger@alsenate.gov",
+"href": "mailto:Garlan.Gudger@alsenate.gov"
+},
+{
+"text": "Good Hope",
+"href": "http://www.goodhopeal.com/"
+},
+{
+"text": "Hanceville",
+"href": "http://cityofhanceville.net/"
+},
+{
+"text": "Home",
+"href": "https://www.senatorgarlangudger.com"
+},
+{
+"text": "Marion",
+"href": "https://www.senatorgarlangudger.com/marion"
+},
+{
+"text": "Media",
+"href": "https://www.senatorgarlangudger.com/media"
+},
+{
+"text": "Meet Your Senator",
+"href": "https://www.senatorgarlangudger.com/meet-your-senator"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.senatorgarlangudger.com/privacy-policy"
+},
+{
+"text": "Rep. Heath Allbright (R) - 11th District",
+"href": "http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Shedd&OID_SPONSOR=85926&OID_PERSON=7404&SESSNAME=Regular+Session+2017"
+},
+{
+"text": "Rep. Tim Wadsworth (R) - 14th District",
+"href": "http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Harbison&OID_SPONSOR=85927&OID_PERSON=7695&SESSNAME=Regular+Session+2017"
+},
+{
+"text": "Sponsored Bills",
+"href": "https://www.senatorgarlangudger.com/sponsored-bills"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.senatorgarlangudger.com/terms-and-conditions"
+},
+{
+"text": "West Point",
+"href": "https://www.facebook.com/TownOfWestPointAlabama/"
+},
+{
+"text": "Winston",
+"href": "https://www.senatorgarlangudger.com/winston"
+},
+{
+"text": "​",
+"href": "http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Harbison&OID_SPONSOR=85927&OID_PERSON=7695&SESSNAME=Regular+Session+2017"
+}
 ]

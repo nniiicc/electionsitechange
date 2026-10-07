@@ -1,3 +1,4 @@
-Andrew Duck In The News Andrew is ready to take on the establishment.
+Donate Menu Home Meet Candidate Issues Endorsements Events News Voting Info Volunteer Follow us Andrew Duck In The News Andrew is ready to take on the establishment.
 Read more about what people are saying.
-News Article July 25, 2026 Brunswick News-Journal – Candidates for Maryland House of Delegates District 4 Read article News Article July 25, 2026 FNP – Duck seeks to get voters involved for District 4 delegate race Read article News Article July 25, 2026 FNP – Support our troops; bring them home Read article
+News Article July 25, 2026 Brunswick News-Journal – Candidates for Maryland House of Delegates District 4 Read article News Article July 25, 2026 FNP – Duck seeks to get voters involved for District 4 delegate race Read article News Article July 25, 2026 FNP – Support our troops; bring them home Read article Stay Up To Date Follow us on the campaign trail!
+First Name Email * Phone Number Join Us Home Meet Candidate Issues Endorsements Events News Voting Info Volunteer Donate Follow us Accessibility Statement Terms of Service Contact Authorized by Friends of Andrew Duck, Mike Reid, Treasurer 3642 Petersville Road Rosemont, MD 21758 Duck4Delegate.org © #

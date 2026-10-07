@@ -1,18 +1,66 @@
 [
-"http://facebook.com/squarespace",
-"http://instagram.com/squarespace",
-"http://twitter.com/squarespace",
-"https://romanforcongress.org/",
-"https://romanforcongress.org/about",
-"https://romanforcongress.org/appointments",
-"https://romanforcongress.org/cart",
-"https://romanforcongress.org/contact",
-"https://romanforcongress.org/shop",
-"https://romanforcongress.org/shop/p/product-1-ydar7-e8mlb-4rahm",
-"https://romanforcongress.org/shop/p/product-2-5c6mb-j8mng-akclj",
-"https://romanforcongress.org/shop/p/product-3-szb2y-gzh2r-z98zk",
-"https://romanforcongress.org/shop/p/product-4-9e76d-pr6ls-xfc2k",
-"https://romanforcongress.org/shop/p/product-5-f98ry-4ll53-szwgs",
-"https://romanforcongress.org/shop/p/product-6-yrdld-pcpw6-4xnde",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.romanforcongress.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.romanforcongress.org/about"
+},
+{
+"text": "Book now",
+"href": "https://www.romanforcongress.org/appointments"
+},
+{
+"text": "Contact",
+"href": "https://www.romanforcongress.org/contact"
+},
+{
+"text": "Shop",
+"href": "https://www.romanforcongress.org/shop"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: 2026]",
+"href": "https://www.romanforcongress.org/"
+},
+{
+"text": "[image: Product Name] [image: imgg-od3-2k2o2bww.png] Product Name $25.00",
+"href": "https://www.romanforcongress.org/shop/p/product-4-9e76d-pr6ls-xfc2k"
+},
+{
+"text": "[image: Product Name] [image: imgg-od3-ate8vfe5.png] Product Name $25.00",
+"href": "https://www.romanforcongress.org/shop/p/product-3-szb2y-gzh2r-z98zk"
+},
+{
+"text": "[image: Product Name] [image: imgg-od3-bksx58yd.png] Product Name $25.00",
+"href": "https://www.romanforcongress.org/shop/p/product-1-ydar7-e8mlb-4rahm"
+},
+{
+"text": "[image: Product Name] [image: imgg-od3-h1kgsiuu.png] Product Name Sale Price: $20.00 Original Price: $25.00 Sale",
+"href": "https://www.romanforcongress.org/shop/p/product-5-f98ry-4ll53-szwgs"
+},
+{
+"text": "[image: Product Name] [image: imgg-od3-lzeck6b4.png] Product Name $25.00",
+"href": "https://www.romanforcongress.org/shop/p/product-6-yrdld-pcpw6-4xnde"
+},
+{
+"text": "[image: Product Name] [image: imgg-od3-smv6u_w0.png] Product Name $25.00",
+"href": "https://www.romanforcongress.org/shop/p/product-2-5c6mb-j8mng-akclj"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/squarespace"
+}
 ]

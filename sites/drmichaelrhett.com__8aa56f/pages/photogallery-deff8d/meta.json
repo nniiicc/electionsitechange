@@ -1,7 +1,9 @@
 {
  "description": "Browse photos of Sen. Rhett, including official portraits, public appearances, and events.",
  "final_url": "https://www.drmichaelrhett.com/photogallery",
- "paid_for_by": null,
+ "fingerprint": "5ce69c790c63f6a485ecb3376bb1354c5e6d0158",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": []
 }

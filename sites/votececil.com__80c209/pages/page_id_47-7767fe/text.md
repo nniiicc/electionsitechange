@@ -1,3 +1,5 @@
-Missourians deserve a government that works for the people—not for parties, lobbyists, or insiders.
+Skip to content Home Candidate Bio Platform Issues Donate Volunteer Campaign Calendar In the News Endorsements Adopt-a-street Links Contact Us Cecil Ince for Missouri State Senate Vote November 3rd Missourians deserve a government that works for the people—not for parties, lobbyists, or insiders.
 As an independent candidate, I believe in leadership that protects liberty, rewards hard work, and restores accountability at every level of government.
 My platform focuses on four key areas: tax reform, law enforcement accountability, children’s rights, homelessness, and winter roads.
+Data Centers Flock Cameras Tax Reform Law Enforcement Children’s Rights Homelessness Winter Roads PAID FOR BY THE COMMITTEE TO ELECT CECIL INCE Toggle Statistics Statistics Toggle Google Analytics Google Analytics Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.
+Service URL: policies.google.com (opens in a new window) Accept All Close Save and Close Powered by (opens in a new window) Home Candidate Bio Platform Issues Donate Volunteer Campaign Calendar In the News Endorsements Adopt-a-street Links Contact Us

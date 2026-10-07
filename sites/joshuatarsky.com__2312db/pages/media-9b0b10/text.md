@@ -1,7 +1,6 @@
-top of page
-In the Media 2024
-Joshua tarsky for state Representative
-Watch Josh delivering his graduation speech at Mashpee Middle-High School in 2022
-2015 Pat Tillman Foundation Tillman Scholar
-Task & Purpose: 6 Tillman Scholars With Incredible Backgrounds
-bottom of page
+top of page VOLUNTEER DONATE Home About Issues Events & Fundraisers Connect Contact Facebook News Endorsements 2024 Press Releases 2024 Media More Use tab to navigate through the menu items.
+In the Media 2024 Tarsky Secures State Rep Primary Tarsky wins Democratic state rep primary League of Women Voters - Needham & Dover-Sherborn Candidate Forum Housing, Public Transit Take Center Stage in State Rep.
+Race State Representative Candidates Cordial in Forum Democratic Town Committee Candidate Forum Housing a Primary Concern in State Rep.
+Race Joshua tarsky for state Representative Soldier, Teacher, Lawyer, and Now Candidate Charles River Regional Chamber's Virtual Debate: Meet the Candidates for the 13th Norfolk House Seat Democrats Seek Garlick's Successor Special Forces Soldiers receive medals for valor Watch Josh delivering his graduation speech at Mashpee Middle-High School in 2022 2015 Pat Tillman Foundation Tillman Scholar Tillman Tuesday: From a Green Beret to Teaching, Joshua Tarsky Has a Passion For Education Task & Purpose: 6 Tillman Scholars With Incredible Backgrounds American Bar Association : Welcome New Members The Falconer: Outside the Classroom With Mr.
+Tarsky Re-Elect Josh Tarsky for the13th Norfolk District Paid For By The Committee to Elect Joshua Tarsky PO Box 920581 Needham, MA 02492 ​ info@joshtarsky.com JOSH TARSKY IS A FORMER MEMBER OF THE US ARMY AND A CURRENT MEMBER OF THE MASSACHUSETTS NATIONAL GUARD.
+USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY AN ENDORSEMENT BY THE ARMY OR THE DEPARTMENT OF DEFENSE. ​ © # Committee to Elect Joshua Tarsky Get Campaign Updates Join our mailing list Email * Subscribe I want to subscribe to your mailing list. bottom of page

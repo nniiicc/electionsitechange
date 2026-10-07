@@ -1,6 +1,6 @@
-On the Issues
-Defending Women's Rights
-After the Supreme Court decision to overturn Roe v Wade, Dr.
+Skip navigation menu About Dr.
+Bera On the Issues Endorsements The Latest Get Involved HOW TO VOTE Donate About Dr.
+Bera On the Issues Endorsements The Latest Get Involved HOW TO VOTE Donate Energy & Environment Healthcare Jobs & Economy Medicare & Social Security National Security Veterans Defending Women's Rights Wildfire Prevention & Forest Resilience Protecting Lake Tahoe On the Issues Defending Women's Rights After the Supreme Court decision to overturn Roe v Wade, Dr.
 Bera understands protecting women’s access to reproductive health care is more important than ever.
 In early June 2022, Dr.
 Bera along with other Democrats in Congress introduced the Affordability is Access Act (HR 7894), a bill to expand affordable over-the-counter birth control options and allowing women to plan their own reproductive lives, on their own terms.
@@ -15,5 +15,5 @@ Bera knows that preventative care can save lives and millions of dollars, which 
 Additionally, he was named a National Women’s Health Champion by Planned Parenthood for his vision, leadership, and integrity in advancing women’s reproductive care.
 Dr.
 Bera knows that women’s health also begins with safety.
-He took a stand for women experiencing violence by voting to reauthorize the Violence Against Women Act.
-He’s fought to secure funding for groups that help victims of domestic violence get services to help keep them safe and punish their abusers.
+He took a stand for women experiencing violence by voting to reauthorize the Violence Against Women Act .
+He’s fought to secure funding for groups that help victims of domestic violence get services to help keep them safe and punish their abusers. info@beraforcongress.com · 916-205-9171 Media Inquiries: press@beraforcongress.com PO Box 582496 Elk Grove, CA 95758 Powered by RUN! website builder Paid for by Bera for Congress You need to enable JavaScript to run this app.

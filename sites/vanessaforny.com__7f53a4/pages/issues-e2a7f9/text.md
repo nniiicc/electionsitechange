@@ -1,3 +1,14 @@
-Affordable Communities & Housing
-At the state level, Vanessa will prioritize protecting existing affordable housing while also increasing supply.
+Skip navigation menu Home About Issues Assembly District 73 Endorsements Events News Volunteer Contact Us Donate Issues Home About Issues Assembly District 73 Endorsements Events News Volunteer Contact Us Donate Issues learn more about Our Campaign's Top Issues Affordable Communities & Housing Affordable, High-Quality Healthcare Safe and Accessible Communities Strong Public Education Clean and Healthy Communities Championing the LGBTQ+ Community Vibrant Communities Where Seniors Can Age in Place Transparent and Responsive Government Affordable Communities & Housing At the state level, Vanessa will prioritize protecting existing affordable housing while also increasing supply.
 That means supporting investments to stabilize rent-stabilized and affordable buildings that are at risk, and ensuring those homes remain available to the tenants who depend on them.
+View more Affordable, High-Quality Healthcare Vanessa will work to expand access to affordable, high-quality healthcare across the state, reduce out-of-pocket costs, and close coverage gaps so that every New Yorker can get the care they need.
+View more Safe and Accessible Communities Vanessa will support smart, evidence-based strategies to reduce crime, combat antisemitism and other forms of hate, and strengthen trust between communities and those responsible for public safety.
+View more Strong Public Education As a former public school teacher and a public school parent, Vanessa understands both the challenges and the opportunities in our education system.
+Vanessa will fight to fully fund public schools, protect critical resources, and ensure that every student has access to a high-quality education from early childhood onward.
+View more Clean and Healthy Communities Vanessa will advocate for sustained investment in sanitation, waste reduction, and environmental programs.
+That includes supporting policies that expand recycling and composting, reduce waste, and ensure consistent and fair enforcement of sanitation standards.
+View more Championing the LGBTQ+ Community New York must be a place where LGBTQ+ individuals are not just protected, but empowered to live and thrive.
+That means standing firm against discrimination, investing in safety and opportunity, and ensuring that the protections under the NYS constitution are enforced with integrity and accountability.
+View more Vibrant Communities Where Seniors Can Age in Place Vanessa will work to expand access to affordable home care and strengthen services that allow seniors to stay connected to their families and neighborhoods.
+View more Transparent and Responsive Government Vanessa will fight to strengthen ethics laws, increase transparency, and ensure that elections are decided by New Yorkers, not outside interests.
+She will support stronger oversight and enforcement so that public trust in government is earned and maintained.
+View more vanessa@vanessaforny.com Powered by RUN! website builder Paid for by Vanessa for NY You need to enable JavaScript to run this app.

@@ -1,26 +1,2 @@
-2022 Highlights
-January '22
-My Office Staff
-Women’s Caucus on Opening Day
-Red Hill Site Visitation
-February '22
-Kalihi Palama Library – Women’s History Month
-Red Hill Press Conference
-March '22
-Kalihi Palama Library – Women’s History Month
-April '22
-Mahalo Mary Rivera!
-May '22
-Recognizing our Filipino Student Nurses
-DHHL Press Conference
-Raiders defensive end Myron Tagovailoa-Amosa
-July '22
-Honoring the Troop 9 Eagle Scouts
-September '22
-Hui Aikane Halawa Seniors Grandparents Day
-October '22
-Aiealani Seniors Grandparents Day
-November '22
-Salt Lake Moanalua Library 30th Anniversary
-December '22
-Red Hill Fuel Facility Site Visit
+Home About Donna Events News Community Bulletin Photo Gallery 2022 Highlights January '22 My Office Staff Women’s Caucus on Opening Day Red Hill Site Visitation February '22 Kalihi Palama Library – Women’s History Month Red Hill Press Conference March '22 Kalihi Palama Library – Women’s History Month April '22 Mahalo Mary Rivera!
+May '22 Recognizing our Filipino Student Nurses DHHL Press Conference Raiders defensive end Myron Tagovailoa-Amosa July '22 Honoring the Troop 9 Eagle Scouts September '22 Hui Aikane Halawa Seniors Grandparents Day October '22 Aiealani Seniors Grandparents Day November '22 Salt Lake Moanalua Library 30th Anniversary December '22 Red Hill Fuel Facility Site Visit Paid for by Friends of Donna Mercado Kim Powered by CampaignPartner.com - Political Websites Home About Donna Events News Community Bulletin Photo Gallery Close Menu

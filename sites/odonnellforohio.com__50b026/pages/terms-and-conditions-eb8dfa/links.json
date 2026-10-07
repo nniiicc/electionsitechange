@@ -1,10 +1,38 @@
 [
-"https://facebook.com/ColleenODonnellOH",
-"https://instagram.com/odonnellforohio?igsh=MWJsMTR2anU4bHFwYQ%3D%3D",
-"https://odonnellforohio.com/",
-"https://odonnellforohio.com/endorsements",
-"https://odonnellforohio.com/privacy-policy",
-"https://odonnellforohio.com/terms-and-conditions",
-"https://secure.winred.com/o-donnell-for-ohio/donate-today?exitintent=true",
-"https://x.com/odonnellforohio?s=21"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/o-donnell-for-ohio/donate-today?exitintent=true"
+},
+{
+"text": "Endorsements",
+"href": "https://www.odonnellforohio.com/endorsements"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.odonnellforohio.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.odonnellforohio.com/terms-and-conditions"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ColleenODonnellOH"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/odonnellforohio?igsh=MWJsMTR2anU4bHFwYQ%3D%3D"
+},
+{
+"text": "[no text]",
+"href": "https://www.odonnellforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/odonnellforohio?s=21"
+},
+{
+"text": "info@odonnellforohio.com",
+"href": "mailto:info@odonnellforohio.com"
+}
 ]

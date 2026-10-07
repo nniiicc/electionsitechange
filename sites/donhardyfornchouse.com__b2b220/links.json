@@ -1,12 +1,70 @@
 [
-"http://secure.actblue.com/donate/dontario-hardy-1",
-"https://donhardyfornchouse.com/",
-"https://donhardyfornchouse.com/contact",
-"https://donhardyfornchouse.com/platform",
-"https://facebook.com/DonHardy4Mayor?mibextid=wwXIfr&rdid=1OC3OsGl4nm47I8W&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HWp1yB8km%2F%3Fmibextid%3DwwXIfr",
-"https://facebook.com/share/1HWp1yB8km?mibextid=wwXIfr",
-"https://ncdot.gov/dmv/offices-services/online/Pages/voter-registration-application.aspx",
-"https://secure.actblue.com/donate/dontario-hardy-1",
-"https://votebymail.ncsbe.gov/app/home",
-"https://vt.ncsbe.gov/RegLkup"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/dontario-hardy-1"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/dontario-hardy-1"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/dontario-hardy-1"
+},
+{
+"text": "About",
+"href": "https://www.donhardyfornchouse.com"
+},
+{
+"text": "Contact",
+"href": "https://www.donhardyfornchouse.com/contact"
+},
+{
+"text": "FIND YOUR POLLING PLACE",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Home",
+"href": "https://www.donhardyfornchouse.com"
+},
+{
+"text": "Learn More",
+"href": "https://www.donhardyfornchouse.com/platform"
+},
+{
+"text": "Other",
+"href": "http://secure.actblue.com/donate/dontario-hardy-1"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.ncdot.gov/dmv/offices-services/online/Pages/voter-registration-application.aspx"
+},
+{
+"text": "VOTE BY MAIL",
+"href": "https://votebymail.ncsbe.gov/app/home"
+},
+{
+"text": "Vote",
+"href": "https://www.donhardyfornchouse.com"
+},
+{
+"text": "[image: 4F343CC9-28CF-41DD-A547-99BF3C981070.jpeg]",
+"href": "https://www.donhardyfornchouse.com"
+},
+{
+"text": "[image: Don Hardy for NC House 12 logo]",
+"href": "https://www.donhardyfornchouse.com"
+},
+{
+"text": "[image: Don Hardy for NC House 12]",
+"href": "https://www.donhardyfornchouse.com/platform"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/DonHardy4Mayor?mibextid=wwXIfr&rdid=1OC3OsGl4nm47I8W&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HWp1yB8km%2F%3Fmibextid%3DwwXIfr"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/share/1HWp1yB8km/?mibextid=wwXIfr"
+}
 ]

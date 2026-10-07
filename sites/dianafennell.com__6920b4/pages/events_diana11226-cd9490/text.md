@@ -1,35 +1,16 @@
-Date & Time
-Monday, January 12, 2026
-6:00 PM – 7:00 PM
-Location
-Harry Browne’s
-66 State Circle
-Annapolis, MD 21401
-Special Guest
-The Honorable Joseline Peña-Melnyk
-Speaker of the House, Maryland House of Delegates
-About the Event
-Please join Diana Fennell, Assistant Speaker Pro Tem, Member of the Economic Matters Committee, and Chair of the Prince George’s County Affairs Subcommittee, for a Pre-Session Mixer focused on community, conversation, and continued service to District 47A.
+0 Skip to Content Home About Legislative Achievements Priorities Office Contact Scholarship End of Session Letter 2026 Media Campaign Friends of Diana Fennell Donate Endorsements & Supporters Friends and Neighbors Get Involved Open Menu Close Menu Home About Legislative Achievements Priorities Office Contact Scholarship End of Session Letter 2026 Media Campaign Friends of Diana Fennell Donate Endorsements & Supporters Friends and Neighbors Get Involved Open Menu Close Menu Home About Legislative Achievements Priorities Folder: Office Back Contact Scholarship End of Session Letter 2026 Media Folder: Campaign Friends of Diana Fennell Back Donate Endorsements & Supporters Friends and Neighbors Get Involved Back to All Events Pre-Session Mixer Monday, January 12, 2026 6:00 PM 7:00 PM Friends of Diana Fennell P.O BOX 514 Bladensburg, Maryland, 20710 USA (map) Google Calendar ICS Date & Time Monday, January 12, 2026 6:00 PM – 7:00 PM Location Harry Browne’s 66 State Circle Annapolis, MD 21401 Special Guest The Honorable Joseline Peña-Melnyk Speaker of the House, Maryland House of Delegates About the Event Please join Diana Fennell , Assistant Speaker Pro Tem, Member of the Economic Matters Committee, and Chair of the Prince George’s County Affairs Subcommittee, for a Pre-Session Mixer focused on community, conversation, and continued service to District 47A.
 This gathering is an opportunity to support Delegate Fennell as she prepares for the upcoming legislative session and continues advocating for the priorities that matter most to Prince George’s County families and neighborhoods.
 We are honored to welcome Speaker Joseline Peña-Melnyk as our special guest for the evening.
-Contribution Levels
-- $1,000 – Champion
-- $500 – Friend
-- $250 – Supporter
-- $100 – Attendee
-Your contribution helps ensure strong, effective representation in the Maryland House of Delegates.
-RSVP and Contributions
-Please RSVP by scanning the QR code on the flyer or contribute online via ActBlue.
-Checks may be made payable to:
-Friends of Diana Fennell
-PO Box 514
-Bladensburg, MD 20710
-RSVP questions: friends@dianafennell.com
-Disclaimer
-Paid for by Friends of Diana Fennell for State Delegate.
+Contribution Levels $1,000 – Champion $500 – Friend $250 – Supporter $100 – Attendee Your contribution helps ensure strong, effective representation in the Maryland House of Delegates.
+RSVP and Contributions Please RSVP by scanning the QR code on the flyer or contribute online via ActBlue .
+Checks may be made payable to: Friends of Diana Fennell PO Box 514 Bladensburg, MD 20710 RSVP questions: friends@dianafennell.com Disclaimer Paid for by Friends of Diana Fennell for State Delegate.
 Contributions are subject to Maryland election law and are not tax-deductible for federal income tax purposes.
 Corporate contributions are prohibited.
 Maryland law requires reporting the name, address, occupation, and employer of any individual whose cumulative contributions exceed $500 in an election cycle.
-For additional information or to RSVP directly, please contact Friends of Diana Fennell at
-Friends@dianafennell.com
-Authorized by Friends of Diana Fennell, Treasurer Janet Lucas
+RSVP HERE For additional information or to RSVP directly, please contact Friends of Diana Fennell at Friends@dianafennell.com Authorized by Friends of Diana Fennell, Treasurer Janet Lucas Previous Previous December 17 District 47 Holiday Party Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe to receive timely updates, news, and announcements from the office of Delegate Diana M.
+Fennell.
+First Name Last Name Email Address Sign Up Thank you!
+About Contact Events Photos Friends of Diana Fennell PO BOX 514 Bladensburg, MD 20710 info@dianafennell.com (301) 615-2845‬ ©# MADE WITH CLOUD 9 BRAND, LLC.
+FOLLOW SOCIAL MEDIA

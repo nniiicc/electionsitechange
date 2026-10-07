@@ -1,7 +1,11 @@
 {
  "description": "State Senator Rebecca White, whose nickname is Becca, is a Windsor County District State Senator in Vermont.",
  "final_url": "https://www.beccawhitevt.com/",
- "paid_for_by": null,
+ "fingerprint": "9b932af70e588631053f7082c94a2878f12f3539",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Becca White for Vermont",
- "years_mentioned": []
+ "years_mentioned": [
+  "2008"
+ ]
 }

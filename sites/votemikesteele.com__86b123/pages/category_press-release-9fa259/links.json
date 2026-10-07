@@ -1,17 +1,74 @@
 [
-"http://votemikesteele.com/connect",
-"https://facebook.com/votemikesteele",
-"https://votemikesteele.com/",
-"https://votemikesteele.com/2026/05",
-"https://votemikesteele.com/2026/07",
-"https://votemikesteele.com/about",
-"https://votemikesteele.com/category/news-article",
-"https://votemikesteele.com/category/press-release",
-"https://votemikesteele.com/connect",
-"https://votemikesteele.com/endorsements",
-"https://votemikesteele.com/mike-steele-announces-re-election-campaign-for-washingtons-12th-legislative-district",
-"https://votemikesteele.com/news-updates",
-"https://votemikesteele.com/press-release-mike-steele-announces-re-election-campaign",
-"https://votemikesteele.com/priorities",
-"https://votemikesteele.com/volunteer"
+{
+"text": "About Mike",
+"href": "https://www.votemikesteele.com/about/"
+},
+{
+"text": "Connect",
+"href": "https://www.votemikesteele.com/connect/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votemikesteele.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votemikesteele/"
+},
+{
+"text": "Home",
+"href": "https://www.votemikesteele.com/"
+},
+{
+"text": "July 2026",
+"href": "https://www.votemikesteele.com/2026/07/"
+},
+{
+"text": "Mail",
+"href": "http://www.votemikesteele.com/connect/"
+},
+{
+"text": "May 2026",
+"href": "https://www.votemikesteele.com/2026/05/"
+},
+{
+"text": "Mike Steele Announces Re-Election Campaign for Washington’s 12th Legislative District",
+"href": "https://www.votemikesteele.com/mike-steele-announces-re-election-campaign-for-washingtons-12th-legislative-district/"
+},
+{
+"text": "News & Updates",
+"href": "https://www.votemikesteele.com/news-updates/"
+},
+{
+"text": "News Article",
+"href": "https://www.votemikesteele.com/category/news-article/"
+},
+{
+"text": "PRESS RELEASE: Mike Steele Announces Re-Election Campaign",
+"href": "https://www.votemikesteele.com/press-release-mike-steele-announces-re-election-campaign/"
+},
+{
+"text": "Press Release",
+"href": "https://www.votemikesteele.com/category/press-release/"
+},
+{
+"text": "Priorities",
+"href": "https://www.votemikesteele.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votemikesteele.com/volunteer/"
+},
+{
+"text": "[image: Re-Elect Mike Steele]",
+"href": "https://www.votemikesteele.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.votemikesteele.com/mike-steele-announces-re-election-campaign-for-washingtons-12th-legislative-district/"
+},
+{
+"text": "[image]",
+"href": "https://www.votemikesteele.com/press-release-mike-steele-announces-re-election-campaign/"
+}
 ]

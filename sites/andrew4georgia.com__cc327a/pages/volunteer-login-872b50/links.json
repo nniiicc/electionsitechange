@@ -1,5 +1,18 @@
 [
-"https://andrew4georgia.com/",
-"https://andrew4georgia.com/privacy-policy",
-"https://andrew4georgia.com/wp-login.php?action=lostpassword"
+{
+"text": "Andrew For Georgia",
+"href": "https://andrew4georgia.com/"
+},
+{
+"text": "Lost your password?",
+"href": "https://andrew4georgia.com/wp-login.php?action=lostpassword&volunteer-login="
+},
+{
+"text": "Privacy Policy",
+"href": "https://andrew4georgia.com/privacy-policy/"
+},
+{
+"text": "← Go to Andrew For Georgia",
+"href": "https://andrew4georgia.com/"
+}
 ]

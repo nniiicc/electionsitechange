@@ -1,7 +1,9 @@
 {
  "description": "Photos",
  "final_url": "https://simpsonforassembly.com/photos/",
- "paid_for_by": null,
+ "fingerprint": "dd6b0ba7f4fa3ec572db94ed6a522376923d5ff1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery -",
  "years_mentioned": [
   "2026"

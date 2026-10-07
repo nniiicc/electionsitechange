@@ -1,5 +1,4 @@
-Fulton County Democrats endorse Sara Fuchs for House District 49
-The Fulton County Democratic Party Executive Committee is proud to announce our full support for Sara Fuchs in the race for Georgia House District 49..
+0 Skip to Content FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Fulton County Democrats endorse Sara Fuchs for House District 49 Press release Aug 21 Written By JD Jordan The Fulton County Democratic Party Executive Committee is proud to announce our full support for Sara Fuchs in the race for Georgia House District 49..
 Sara steps into this race following the withdrawal of Teresa Lin, who announced Thursday that she is stepping back to focus on her health.
 Teresa was a dedicated candidate who laid real groundwork in this district, and we are grateful for her willingness to serve.
 We wish her continued strength and wellness.
@@ -17,3 +16,11 @@ Chip in today & help bring new leadership to Georgia House District 49!
 Our opponent has a two-decade head start and the name recognition to match.
 Our campaign runs on neighbors supporting neighbors, not corporate PACs.
 Every dollar goes toward knocking on doors, reaching voters, and making sure the people of District 49 are heard.
+Support our campaign!
+JD Jordan Awesome dad, killer novelist, design executive, and cancer survivor.
+Also, charming AF.
+Previous Previous Appen Media Candidate Q&A: State House District 49 Next Next Teresa Lin withdraws from House District 49 race, Sara Fuchs to carry the campaign forward.
+Support our campaign!
+Volunteer with us!
+Georgia’s 49th state house district includes Alpharetta , Milton , & Roswell Early voting begins October 13, 2026 Election Day is Tuesday, November 3, 2026 Contact me Paid for by Sara Fuchs for Georgia. ©# Sara Fuchs.
+All rights reserved.

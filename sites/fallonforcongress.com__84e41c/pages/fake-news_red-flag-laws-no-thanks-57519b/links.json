@@ -1,15 +1,58 @@
 [
-"https://facebook.com/fallonfortexas",
-"https://fallonforcongress.com/",
-"https://fallonforcongress.com/about",
-"https://fallonforcongress.com/contact",
-"https://fallonforcongress.com/donate",
-"https://fallonforcongress.com/endorsements",
-"https://fallonforcongress.com/fake-news",
-"https://fallonforcongress.com/issues",
-"https://fallonforcongress.com/news",
-"https://fallonforcongress.com/privacy",
-"https://fallonforcongress.com/volunteer",
-"https://patfallon.wpengine.com/fake-news",
-"https://twitter.com/FallonForTexas"
+{
+"text": "Contact",
+"href": "https://www.fallonforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.fallonforcongress.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fallonforcongress.com/endorsements/"
+},
+{
+"text": "Fake News",
+"href": "https://www.fallonforcongress.com/fake-news/"
+},
+{
+"text": "Home",
+"href": "https://www.fallonforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.fallonforcongress.com/issues/"
+},
+{
+"text": "Meet Pat",
+"href": "https://www.fallonforcongress.com/about/"
+},
+{
+"text": "News",
+"href": "https://www.fallonforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.fallonforcongress.com/privacy/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fallonforcongress.com/volunteer/"
+},
+{
+"text": "Watch More Videos",
+"href": "https://patfallon.wpengine.com/fake-news/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/FallonForTexas"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/fallonfortexas"
+},
+{
+"text": "[image]",
+"href": "https://www.fallonforcongress.com/"
+}
 ]

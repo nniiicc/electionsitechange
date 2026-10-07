@@ -1,11 +1,54 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSeizOv33SQbIO2Nt9ilqD5h7ULVC5kbLQsqFOWp2nZUpSt8SA/viewform",
-"https://erinforyall.com/",
-"https://erinforyall.com/issues",
-"https://erinforyall.com/meet-erin",
-"https://erinforyall.com/vote",
-"https://facebook.com/ErinForYall",
-"https://instagram.com/erinforyall",
-"https://secure.actblue.com/donate/reelecterin",
-"https://twitter.com/ErinForYall"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/reelecterin"
+},
+{
+"text": "ISSUES",
+"href": "https://www.erinforyall.com/issues"
+},
+{
+"text": "Learn more about Erin",
+"href": "https://www.erinforyall.com/meet-erin"
+},
+{
+"text": "MEET ERIN",
+"href": "https://www.erinforyall.com/meet-erin"
+},
+{
+"text": "Our Issues",
+"href": "https://www.erinforyall.com/issues"
+},
+{
+"text": "VOTE",
+"href": "https://www.erinforyall.com/vote"
+},
+{
+"text": "Yard Sign request",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeizOv33SQbIO2Nt9ilqD5h7ULVC5kbLQsqFOWp2nZUpSt8SA/viewform"
+},
+{
+"text": "[image: Email]",
+"href": "mailto:info@erinforyall.com?subject=Contact+from+website+footer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ErinForYall/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/erinforyall/"
+},
+{
+"text": "[image: X]",
+"href": "https://twitter.com/ErinForYall"
+},
+{
+"text": "[image]",
+"href": "https://www.erinforyall.com"
+},
+{
+"text": "info@erinforyall.com",
+"href": "mailto:info@erinforyall.com"
+}
 ]

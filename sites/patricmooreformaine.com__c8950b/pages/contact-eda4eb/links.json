@@ -1,10 +1,38 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com//PatricMooreForMaineSenate",
-"https://instagram.com/patricmooreformaine",
-"https://patricmooreformaine.com/",
-"https://patricmooreformaine.com/about",
-"https://patricmooreformaine.com/donate",
-"https://patricmooreformaine.com/issues",
-"https://patricmooreformaine.com/volunteer"
+{
+"text": "About",
+"href": "https://www.patricmooreformaine.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.patricmooreformaine.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.patricmooreformaine.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.patricmooreformaine.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.patricmooreformaine.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//PatricMooreForMaineSenate"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/patricmooreformaine"
+},
+{
+"text": "patricmooreformaine@gmail.com",
+"href": "mailto:patricmooreformaine@gmail.com"
+}
 ]

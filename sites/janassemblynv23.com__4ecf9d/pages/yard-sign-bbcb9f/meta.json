@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://janassemblynv23.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "4a4e134dd68b878bf915d3232e0f69f84dba4d67",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

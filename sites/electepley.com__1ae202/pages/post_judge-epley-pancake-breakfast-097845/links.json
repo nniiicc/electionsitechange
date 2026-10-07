@@ -1,16 +1,98 @@
 [
-"https://electepley.com/",
-"https://electepley.com/about",
-"https://electepley.com/contact",
-"https://electepley.com/get-involved",
-"https://electepley.com/news",
-"https://electepley.com/post/champaign-county-fundraiser-announced",
-"https://electepley.com/post/judge-epley-pancake-breakfast",
-"https://electepley.com/post/meet-judge-epley-in-clark-county",
-"https://electepley.com/post/yard-signs",
-"https://electepley.com/profile/lintz-john/profile",
-"https://facebook.com/electepley",
-"https://instagram.com/wix",
-"https://politics.raisethemoney.com/en/cepley",
-"https://twitter.com/wix"
+{
+"text": "About",
+"href": "https://www.electepley.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.electepley.com/about"
+},
+{
+"text": "All Posts",
+"href": "https://www.electepley.com/news"
+},
+{
+"text": "Champaign County Fundraiser Announced",
+"href": "https://www.electepley.com/post/champaign-county-fundraiser-announced"
+},
+{
+"text": "Contact",
+"href": "https://www.electepley.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://politics.raisethemoney.com/en/cepley"
+},
+{
+"text": "FOR SECOND DISTRICT COURT OF APPEALS",
+"href": "https://www.electepley.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electepley.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.electepley.com"
+},
+{
+"text": "Home",
+"href": "https://www.electepley.com/post/judge-epley-pancake-breakfast"
+},
+{
+"text": "John Lintz",
+"href": "https://www.electepley.com/profile/lintz-john/profile"
+},
+{
+"text": "Judge Chris Epley",
+"href": "https://www.electepley.com"
+},
+{
+"text": "JudgeEpley24@gmail.com",
+"href": "mailto:JudgeEpley24@gmail.com"
+},
+{
+"text": "Meet Judge Epley in Clark County",
+"href": "https://www.electepley.com/post/meet-judge-epley-in-clark-county"
+},
+{
+"text": "News & Events",
+"href": "https://www.electepley.com/news"
+},
+{
+"text": "See All",
+"href": "https://www.electepley.com/news"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.electepley.com/get-involved"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.electepley.com/post/yard-signs"
+},
+{
+"text": "[image: Champaign County Fundraiser Announced]",
+"href": "https://www.electepley.com/post/champaign-county-fundraiser-announced"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/electepley"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: Meet Judge Epley in Clark County]",
+"href": "https://www.electepley.com/post/meet-judge-epley-in-clark-county"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "[image: Yard Signs]",
+"href": "https://www.electepley.com/post/yard-signs"
+}
 ]

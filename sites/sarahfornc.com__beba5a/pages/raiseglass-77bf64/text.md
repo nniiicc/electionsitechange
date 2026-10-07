@@ -1,35 +1,3 @@
-top of page
-Join Us and Raise a Glass with special guest
-Attorney General Jeff Jackson
-Thursday, October 9 @5:30 pm
-at the home of Ritesh & Zeel Patel
-504 Oakland Dr, Raleigh
-What's Included:
-- Select bourbon
-- Beer and Wine
-- An opportunity to win a bottle of bourbon
-- Delicious treats
-- Great company
-- Hear from special guest Attorney General Jeff Jackson
-Tickets
-Single Ticket ($100) ($50 for Young Dems and Teachers):
-- 1 ticket
-- 1 raffle ticket
-Sponsorships
-Single Barrel ($250):
-- 2 tickets
-- 2 raffle tickets
-Small Batch ($500):
-- 2 Tickets
-- 4 raffle tickets
-Distiller's Select ($1000):
-- 2 Tickets
-- 6 raffle tickets
-Barrel Proof ($2500):
-- 4 tickets
-- 8 raffle tickets
-Top Shelf ($6800):
-- 6 tickets
-- 12 raffle tickets
-Paid for by Sarah for NC
-bottom of page
+top of page HOME MEET SARAH CONOCE A SARAH ISSUES ENDORSEMENTS GET INVOLVED HOW TO VOTE DONATE EVENTS RAISE A GLASS More Use tab to navigate through the menu items.
+DONATE Join Us and Raise a Glass with special guest Attorney General Jeff Jackson Thursday, October 9 @5:30 pm at the home of Ritesh & Zeel Patel 504 Oakland Dr, Raleigh What's Included: Select bourbon Beer and Wine An opportunity to win a bottle of bourbon Delicious treats Great company Hear from special guest Attorney General Jeff Jackson Tickets Single Ticket ($100) ($50 for Young Dems and Teachers): 1 ticket 1 raffle ticket ​ Sponsorships ​ ​ Single Barrel ($250): 2 tickets 2 raffle tickets ​ Small Batch ($500): 2 Tickets 4 raffle tickets Distiller's Select ($1000) : 2 Tickets 6 raffle tickets ​ Barrel Proof ($2500): 4 tickets 8 raffle tickets Top Shelf ($6800): 6 tickets 12 raffle tickets ​ ​ ​ Purchase Tickets Purchase Tickets Paid for by Sarah for NC HOME MEET SARAH CONOCE A SARAH ISSUES ENDORSEMENTS GET INVOLVED HOW TO VOTE DONATE EVENTS RAISE A GLASS More Use tab to navigate through the menu items.
+Paid for by Sarah for NC bottom of page

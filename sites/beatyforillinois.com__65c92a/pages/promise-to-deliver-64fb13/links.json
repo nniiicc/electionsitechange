@@ -1,11 +1,42 @@
 [
-"https://beatyforillinois.com/",
-"https://beatyforillinois.com/about",
-"https://beatyforillinois.com/action-center",
-"https://beatyforillinois.com/cart",
-"https://beatyforillinois.com/district-map",
-"https://beatyforillinois.com/privacy-policy",
-"https://beatyforillinois.com/promise-to-deliver",
-"https://beatyforillinois.com/voteforadam",
-"https://secure.winred.com/beaty-for-illinois/donate-today"
+{
+"text": "0",
+"href": "https://www.beatyforillinois.com/cart"
+},
+{
+"text": "80th District",
+"href": "https://www.beatyforillinois.com/district-map"
+},
+{
+"text": "About Adam",
+"href": "https://www.beatyforillinois.com/about"
+},
+{
+"text": "Action Center",
+"href": "https://www.beatyforillinois.com/action-center"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/beaty-for-illinois/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.beatyforillinois.com/"
+},
+{
+"text": "Privacy Policy and Terms of Use",
+"href": "https://www.beatyforillinois.com/privacy-policy"
+},
+{
+"text": "Promise to Deliver",
+"href": "https://www.beatyforillinois.com/promise-to-deliver"
+},
+{
+"text": "Vote for Adam",
+"href": "https://www.beatyforillinois.com/voteforadam"
+},
+{
+"text": "[image: Adam Beaty for State Representative]",
+"href": "https://www.beatyforillinois.com/"
+}
 ]

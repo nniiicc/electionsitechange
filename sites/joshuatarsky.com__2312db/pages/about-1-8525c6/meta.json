@@ -1,7 +1,14 @@
 {
  "description": "The campaign website to elect Joshua Tarsky to the Massachusetts House of Representatives' 13th Norfolk district.",
  "final_url": "https://www.joshuatarsky.com/about-1",
- "paid_for_by": "Paid For By The Committee to Elect Joshua Tarsky PO Box 920581 Needham, MA 02492 \u200b info@joshtarsky",
+ "fingerprint": "c8020346ebb4aae9bc7fc2bb2c271da9922b9cbf",
+ "format": 3,
+ "paid_for_by": "Paid For By The Committee to Elect Joshua Tarsky PO Box 920581 Needham, MA 02492 ​ info@joshtarsky",
  "title": "The Committee to Elect Joshua Tarsky | Massachusetts",
- "years_mentioned": []
+ "years_mentioned": [
+  "2001",
+  "2015",
+  "2024",
+  "2026"
+ ]
 }

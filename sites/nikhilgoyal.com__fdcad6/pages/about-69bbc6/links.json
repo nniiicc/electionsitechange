@@ -1,13 +1,58 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/drgoyalnikhil",
-"https://instagram.com/drgoyalnikhil",
-"https://nikhilgoyal.com/",
-"https://nikhilgoyal.com/contact",
-"https://nikhilgoyal.com/events",
-"https://nikhilgoyal.com/issues",
-"https://nikhilgoyal.com/volunteer",
-"https://secure.actblue.com/donate/nikhilgoyal",
-"https://tiktok.com/@drnikhilgoyal",
-"https://x.com/drgoyalnikhil"
+{
+"text": "Contact",
+"href": "https://www.nikhilgoyal.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nikhilgoyal"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nikhilgoyal.com/"
+},
+{
+"text": "Events",
+"href": "https://www.nikhilgoyal.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.nikhilgoyal.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.nikhilgoyal.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nikhilgoyal.com/volunteer"
+},
+{
+"text": "[image: Nikhil Goyal for Vermont State Senate]",
+"href": "https://www.nikhilgoyal.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/drgoyalnikhil"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/drgoyalnikhil/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@drnikhilgoyal"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/drgoyalnikhil"
+},
+{
+"text": "info@nikhilgoyal.com",
+"href": "mailto:info@nikhilgoyal.com"
+}
 ]

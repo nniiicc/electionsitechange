@@ -1,7 +1,30 @@
 [
-"https://larrynostrant4idaho.com/",
-"https://larrynostrant4idaho.com/about-larry",
-"https://larrynostrant4idaho.com/contact-larry",
-"https://larrynostrant4idaho.com/donate",
-"https://larrynostrant4idaho.com/get-involved"
+{
+"text": "About Larry",
+"href": "https://www.larrynostrant4idaho.com/about-larry/"
+},
+{
+"text": "Contact Larry",
+"href": "https://www.larrynostrant4idaho.com/contact-larry/"
+},
+{
+"text": "Donate",
+"href": "https://www.larrynostrant4idaho.com/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.larrynostrant4idaho.com/contact-larry/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.larrynostrant4idaho.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.larrynostrant4idaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.larrynostrant4idaho.com/"
+}
 ]

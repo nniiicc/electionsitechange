@@ -1,7 +1,9 @@
 {
- "description": "Reg\u00edstrese para ayudar a CJ con su campa\u00f1a",
+ "description": "Regístrese para ayudar a CJ con su campaña",
  "final_url": "https://www.cjforsenate.com/es/volunteer",
- "paid_for_by": null,
+ "fingerprint": "85b0b603993eb1f7a9e7f0d631a394c23510a0e2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voluntariado",
  "years_mentioned": []
 }

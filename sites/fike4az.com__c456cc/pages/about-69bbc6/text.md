@@ -1,11 +1,2 @@
-Barbara Fike
-For AZ Representative LD 28
-Home
-About
-Get Involved
-Contact
-Shop
-More
-Hi, I'm Barbara
-Learn More About My Vision for Arizona's Future
-Learn All About Me
+top of page Barbara Fike For AZ Representative LD 28 Home About My Priorities Get to Know Me Get Involved Events Running Clean Elections Contact Shop More Use tab to navigate through the menu items.
+ABOUT ME Hi, I'm Barbara My Priorities Learn More About My Vision for Arizona's Future Learn More Get to Know Me Learn All About Me About Me © # Paid for by: Fike for AZ Authorized by: Barbara Fike bottom of page

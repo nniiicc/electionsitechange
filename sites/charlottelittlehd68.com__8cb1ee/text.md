@@ -1,6 +1,4 @@
-Charlotte Little for House District 68:
-Earning Your Trust
-I come from San Felipe Pueblo, surrounded by grandparents, aunts, uncles, cousins, nieces, and nephews.
+0 Skip to Content PRIORITIES GET INVOLVED ENDORSEMENTS VOTING THE DISTRICT CONTACT CONTRIBUTE Open Menu Close Menu PRIORITIES GET INVOLVED ENDORSEMENTS VOTING THE DISTRICT CONTACT CONTRIBUTE Open Menu Close Menu PRIORITIES GET INVOLVED ENDORSEMENTS VOTING THE DISTRICT CONTACT CONTRIBUTE Charlotte Little for House District 68: Earning Your Trust I come from San Felipe Pueblo, surrounded by grandparents, aunts, uncles, cousins, nieces, and nephews.
 My father began his working career as a machinist and welder and in his 40’s, graduated with a master’s degree in counseling psychology.
 My mother was trained and worked as a practical nurse.
 When they began a family, she became a homemaker, and throughout our childhood, a surrogate mom to our cousins and friends.
@@ -19,6 +17,6 @@ In the Legislature, I am honored to serve on the House Government, Elections and
 One accomplishment I am especially proud of is helping pass interstate medical compacts for doctors and social workers, which expands access to healthcare and mental health services for families across New Mexico.
 These experiences shape who I am and the values I bring to the House of Representatives.
 I am grateful for the opportunity to serve the families of House District 68 and work every day to earn your trust.
-Sincerely,
-Charlotte Little
-State Representative, House District 68
+Sincerely, Charlotte Little State Representative, House District 68 CONTRIBUTE Copyright #.
+Paid for and authorized by Committee to Elect Charlotte Little.
+Estelle Read, Treasurer Website Design | BGC

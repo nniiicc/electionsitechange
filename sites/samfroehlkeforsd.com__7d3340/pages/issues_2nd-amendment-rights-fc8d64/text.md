@@ -1,4 +1,1 @@
-2nd Amendment rights
-I support 2A rights, and will fight for the protection of our constitutional guarantees.
-Paid for by Sam Froehlke for House
-Powered by CampaignPartner.com - Political Websites
+Meet Sam Platform Yard Signs and Highway Signs News and Articles 2nd Amendment rights I support 2A rights, and will fight for the protection of our constitutional guarantees. « Previous: Abortion Next: Fair play for business » Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

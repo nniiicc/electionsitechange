@@ -1,7 +1,58 @@
 [
-"https://facebook.com/profile.php?id=100009284241486",
-"https://instagram.com/adam.presa",
-"https://linkedin.com/feed",
-"https://presa4newhampshire.com/",
-"https://secure.winred.com/friends-of-adam-presa/donate-today"
+{
+"text": "$10",
+"href": "https://secure.winred.com/friends-of-adam-presa/donate-today"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/friends-of-adam-presa/donate-today"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/friends-of-adam-presa/donate-today"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/friends-of-adam-presa/donate-today"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/friends-of-adam-presa/donate-today"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-adam-presa/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://www.presa4newhampshire.com"
+},
+{
+"text": "Issues",
+"href": "https://www.presa4newhampshire.com"
+},
+{
+"text": "Meet Adam",
+"href": "https://www.presa4newhampshire.com"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.winred.com/friends-of-adam-presa/donate-today"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100009284241486"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/adam.presa/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/feed/"
+},
+{
+"text": "ajpresa@gmail.com",
+"href": "mailto:ajpresa@gmail.com"
+}
 ]

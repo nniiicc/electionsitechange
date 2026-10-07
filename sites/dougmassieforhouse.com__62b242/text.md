@@ -1,4 +1,4 @@
-A bit about me, I was born and raised in Alaska.
+Home Donate More Home Donate Donate Today Home Donate Donate Today Welcome, A bit about me, I was born and raised in Alaska.
 My Dad was an Alaska State Trooper and my mother a small business owner in Wasilla.
 I spent approximately 25 years with the Alaska Department of Public Safety, primarily serving as an Alaska Wildlife Trooper.
 During my career I worked as a wildlife investigator, field training officer, pilot, vessel operator, supervisor, and administrator.
@@ -15,8 +15,8 @@ I want to make Alaska a place that our children want to stay, raise their famili
 The next generation matters for our families and for the survival of Alaska as a leading economic and natural resource driver of the United States.
 I am running to provide a more people first, public safety and service approach to the District 30 Representation you deserve as a citizen of the MatSu Valley.
 It's time to focus on the people and the policy, not just the politics.
-I appreciate your support,
--Doug
-doug@dougmassieforhouse.com Paid for by Doug Massie for State House PO BOX 874893 Wasilla AK 99687
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+I appreciate your support, -Doug Get in Touch Contact Us!
+Drop us a line!
+Name Email* Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Doug Massie for State House doug@dougmassieforhouse.com Paid for by Doug Massie for State House PO BOX 874893 Wasilla AK 99687 Home Donate Paid for by Doug Massie for State House P.O.
+Box 874893, Wasilla, AK 99687 Copyright © # Doug Massie for State House - All Rights Reserved.

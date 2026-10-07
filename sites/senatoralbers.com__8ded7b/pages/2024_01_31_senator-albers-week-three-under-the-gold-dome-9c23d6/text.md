@@ -1,6 +1,4 @@
-Senator Albers: Week Three Under the Gold Dome
-Wednesday, January 31, 2024
-eek three under the Gold Dome has come to a close, and the 2024 Legislative Session is now a quarter of the way complete.
+Senator John Albers Bio Resources News Contact Campaign Donate << Back Senator Albers: Week Three Under the Gold Dome Wednesday, January 31, 2024 eek three under the Gold Dome has come to a close, and the 2024 Legislative Session is now a quarter of the way complete.
 The Georgia State Senate resumed legislative business this week in the Senate chamber, passing numerous bills, exchanging ideas in committee and holding meaningful debate on a number of important topics.
 Safety for all Georgians has always been a critical priority for me as a legislator, and this week I introduced multiple pieces of legislation this week to promote such safety.
 The “Protecting Georgians Act” will amend the definition of racketeering to include felonies and certain misdemeanors.
@@ -23,9 +21,8 @@ There is absolutely no place for antisemitic hate in the state of Georgia.
 This definition will further reinforce our legislative support for Georgia’s Jewish population and I appreciate Lt.
 Governor Burt Jones for making this issue a priority.
 As the legislative session continues, I encourage you to contact my office for any legislative assistance.
-It will always remain my honor to serve Georgia’s 56th District.
-# # # #
-Sen.
+It will always remain my honor to serve Georgia’s 56 th District.
+# # # # Sen.
 John Albers serves as Chairman of the Senate Committee on Public Safety.
-He represents the 56th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
-He may be reached at his office at 404.463.8055 or by email at [email protected]
+He represents the 56 th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
+He may be reached at his office at 404.463.8055 or by email at [email protected] Senator John Albers GA DISTRICT 56 Privacy Policy

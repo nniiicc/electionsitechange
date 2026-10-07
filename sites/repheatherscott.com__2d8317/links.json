@@ -1,34 +1,146 @@
 [
-"http://repheatherscott.com/feed",
-"https://facebook.com/RepHeatherScott",
-"https://growingfreedomidaho.com/all-bills",
-"https://idahocps.org/",
-"https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HENV",
-"https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HJUD",
-"https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HSTA",
-"https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2015/sinedie.pdf",
-"https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2016/sinedie.pdf",
-"https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/sinedie.pdf",
-"https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2018/sinedie.pdf",
-"https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/sinedie.pdf",
-"https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020/sinedie.pdf",
-"https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/sinedie.pdf",
-"https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2022/sinedie.pdf",
-"https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/sinedie.pdf",
-"https://repheatherscott.com/",
-"https://repheatherscott.com/abortion",
-"https://repheatherscott.com/archive",
-"https://repheatherscott.com/category/updates",
-"https://repheatherscott.com/contact",
-"https://repheatherscott.com/covid",
-"https://repheatherscott.com/gender",
-"https://repheatherscott.com/government-101",
-"https://repheatherscott.com/happy-independence-day",
-"https://repheatherscott.com/maps",
-"https://repheatherscott.com/merry-christmas-happy-new-year",
-"https://repheatherscott.com/photos",
-"https://repheatherscott.com/rules-regulations",
-"https://repheatherscott.com/smelter",
-"https://repheatherscott.com/summer-activities-idaho-freedom-caucus",
-"https://twitter.com/HeatherScottID"
+{
+"text": "2015",
+"href": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2015/sinedie.pdf"
+},
+{
+"text": "2016",
+"href": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2016/sinedie.pdf"
+},
+{
+"text": "2017",
+"href": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/sinedie.pdf"
+},
+{
+"text": "2018",
+"href": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2018/sinedie.pdf"
+},
+{
+"text": "2019",
+"href": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/sinedie.pdf"
+},
+{
+"text": "2020",
+"href": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020/sinedie.pdf"
+},
+{
+"text": "2021",
+"href": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/sinedie.pdf"
+},
+{
+"text": "2022",
+"href": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2022/sinedie.pdf"
+},
+{
+"text": "2023",
+"href": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/sinedie.pdf"
+},
+{
+"text": "Abortion",
+"href": "https://repheatherscott.com/abortion/"
+},
+{
+"text": "Archived Updates",
+"href": "https://repheatherscott.com/archive/"
+},
+{
+"text": "BILLS ⇨",
+"href": "https://growingfreedomidaho.com/all-bills/"
+},
+{
+"text": "COVID",
+"href": "https://repheatherscott.com/covid/"
+},
+{
+"text": "CPS ⇨",
+"href": "https://idahocps.org/"
+},
+{
+"text": "Contact",
+"href": "https://repheatherscott.com/contact/"
+},
+{
+"text": "Environment, Energy & Technology",
+"href": "https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HENV/"
+},
+{
+"text": "Facebook[image]",
+"href": "https://www.facebook.com/RepHeatherScott/"
+},
+{
+"text": "Gender / Birth Certificates",
+"href": "https://repheatherscott.com/gender/"
+},
+{
+"text": "Gov 101",
+"href": "https://repheatherscott.com/government-101/"
+},
+{
+"text": "Happy Independence Day!",
+"href": "https://repheatherscott.com/happy-independence-day/"
+},
+{
+"text": "Home",
+"href": "https://repheatherscott.com/"
+},
+{
+"text": "Judiciary, Rules and Administration",
+"href": "https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HJUD/"
+},
+{
+"text": "Maps",
+"href": "https://repheatherscott.com/maps/"
+},
+{
+"text": "Merry Christmas! Happy New Year!",
+"href": "https://repheatherscott.com/merry-christmas-happy-new-year/"
+},
+{
+"text": "News & Updates",
+"href": "https://repheatherscott.com/category/updates/"
+},
+{
+"text": "Photos",
+"href": "https://repheatherscott.com/photos/"
+},
+{
+"text": "RSS[image]",
+"href": "http://repheatherscott.com/feed"
+},
+{
+"text": "Rep. Heather Scott",
+"href": "https://repheatherscott.com/"
+},
+{
+"text": "Rules & Regulations",
+"href": "https://repheatherscott.com/rules-regulations/"
+},
+{
+"text": "Silicon Smelter",
+"href": "https://repheatherscott.com/smelter/"
+},
+{
+"text": "State Affairs",
+"href": "https://legislature.idaho.gov/sessioninfo/2023/standingcommittees/HSTA/"
+},
+{
+"text": "Summer Activities – Idaho Freedom Caucus",
+"href": "https://repheatherscott.com/summer-activities-idaho-freedom-caucus/"
+},
+{
+"text": "Twitter[image]",
+"href": "https://twitter.com/HeatherScottID"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/happy-independence-day/"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/merry-christmas-happy-new-year/"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/summer-activities-idaho-freedom-caucus/"
+}
 ]

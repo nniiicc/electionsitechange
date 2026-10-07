@@ -1,13 +1,50 @@
 [
-"https://kokindaformi.com/",
-"https://kokindaformi.com/accessibility-statement",
-"https://kokindaformi.com/contact",
-"https://kokindaformi.com/donation-thank-you-page",
-"https://kokindaformi.com/issues",
-"https://kokindaformi.com/issues-1",
-"https://kokindaformi.com/media",
-"https://kokindaformi.com/privacy-policy",
-"https://kokindaformi.com/terms-and-conditions",
-"https://secure.anedot.com/kokinda-for-state-rep/donate",
-"https://support.wix.com/en/article/creating-a-terms-and-conditions-policy"
+{
+"text": "Accessibility Statement",
+"href": "https://www.kokindaformi.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.kokindaformi.com/contact"
+},
+{
+"text": "Creating a Terms and Conditions Policy",
+"href": "https://support.wix.com/en/article/creating-a-terms-and-conditions-policy"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/kokinda-for-state-rep/donate"
+},
+{
+"text": "History",
+"href": "https://www.kokindaformi.com/issues"
+},
+{
+"text": "Home",
+"href": "https://www.kokindaformi.com"
+},
+{
+"text": "Issues",
+"href": "https://www.kokindaformi.com/issues-1"
+},
+{
+"text": "Media",
+"href": "https://www.kokindaformi.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kokindaformi.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.kokindaformi.com/terms-and-conditions"
+},
+{
+"text": "Thanks",
+"href": "https://www.kokindaformi.com/donation-thank-you-page"
+},
+{
+"text": "[image: RKFSH.png Kokinda logo]",
+"href": "https://www.kokindaformi.com"
+}
 ]

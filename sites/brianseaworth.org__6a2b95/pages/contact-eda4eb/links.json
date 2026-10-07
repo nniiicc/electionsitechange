@@ -1,18 +1,74 @@
 [
-"http://ratings.conservative.org/people/b12abcbf-fbbe-4464-854e-6960b024e62a",
-"https://brianseaworth.org/",
-"https://brianseaworth.org/about",
-"https://brianseaworth.org/blog",
-"https://brianseaworth.org/contact",
-"https://brianseaworth.org/volunteer",
-"https://dsawatchlist.com/legislator/brian-seaworth-h12",
-"https://facebook.com/RepBrianSeaworth",
-"https://famethemes.com/themes/onepress",
-"https://nhfc-ontarget.org/wp-content/uploads/2024/10/2024-10-13_NHFC-ontarget-general_grades_Merrimack-2.pdf",
-"https://nhhra.org/hra/wp-content/uploads/2026/07/Score_Score_07-04-2026.pdf",
-"https://nhliberty.org/home/2024-2025-biennium-candidate-endorsements-and-results",
-"https://nrapvf.org/grades/new-hampshire",
-"https://rebuildnh.com/guideyear/2026",
-"https://sdganh.org/2026-sdga-legislator-scorecards",
-"https://tpaction.com/scorecard/legislators/brian-seaworth"
+{
+"text": "About",
+"href": "https://brianseaworth.org/about/"
+},
+{
+"text": "Blog",
+"href": "https://brianseaworth.org/blog/"
+},
+{
+"text": "Brian Seaworth",
+"href": "https://brianseaworth.org/"
+},
+{
+"text": "CPAC – Center for Legislative Accountability",
+"href": "http://ratings.conservative.org/people/b12abcbf-fbbe-4464-854e-6960b024e62a"
+},
+{
+"text": "Democratic Socialists of America",
+"href": "https://dsawatchlist.com/legislator/brian-seaworth-h12"
+},
+{
+"text": "Grades",
+"href": "https://brianseaworth.org/contact/"
+},
+{
+"text": "Home",
+"href": "https://brianseaworth.org/"
+},
+{
+"text": "House Republican Alliance",
+"href": "https://nhhra.org/hra/wp-content/uploads/2026/07/Score_Score_07-04-2026.pdf"
+},
+{
+"text": "NRA-PFV",
+"href": "https://www.nrapvf.org/grades/new-hampshire/"
+},
+{
+"text": "New Hampshire Firearms Coalition",
+"href": "https://nhfc-ontarget.org/wp-content/uploads/2024/10/2024-10-13_NHFC-ontarget-general_grades_Merrimack-2.pdf"
+},
+{
+"text": "New Hampshire Liberty Alliance",
+"href": "https://www.nhliberty.org/home/2024-2025-biennium-candidate-endorsements-and-results/"
+},
+{
+"text": "OnePress",
+"href": "https://www.famethemes.com/themes/onepress"
+},
+{
+"text": "Rebuild New Hampshire",
+"href": "https://rebuildnh.com/guideyear/2026/"
+},
+{
+"text": "School District Governance Association of New Hampshire",
+"href": "https://sdganh.org/2026-sdga-legislator-scorecards/"
+},
+{
+"text": "Turning Point Action",
+"href": "https://www.tpaction.com/scorecard/legislators/brian-seaworth"
+},
+{
+"text": "Volunteer",
+"href": "https://brianseaworth.org/volunteer/"
+},
+{
+"text": "[tooltip: email]",
+"href": "mailto:brian@brianseaworth.org"
+},
+{
+"text": "[tooltip: facebook]",
+"href": "https://www.facebook.com/RepBrianSeaworth"
+}
 ]

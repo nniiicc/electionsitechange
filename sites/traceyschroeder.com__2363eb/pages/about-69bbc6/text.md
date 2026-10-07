@@ -1,5 +1,4 @@
-TRACEY SCHROEDER FOR ASSEMBLY 46
-Who is Tracey Schroeder?
+TRACEY SCHROEDER FOR ASSEMBLY 46 Home About Issues Espanol Meet & Greet Contact Gallery Donate More Home About Issues Espanol Meet & Greet Contact Gallery Donate Home About Issues Espanol Meet & Greet Contact Gallery Donate VOTE TRACEY SCHROEDER FOR ASSEMBLY District 46 VOTE TRACEY SCHROEDER FOR ASSEMBLY District 46 VOTE TRACEY SCHROEDER FOR ASSEMBLY District 46 VOTE TRACEY SCHROEDER FOR ASSEMBLY District 46 Valley Teacher & Neighbor Ready to fight for valley needs Valley Teacher & Neighbor Ready to fight for valley needs Valley Teacher & Neighbor Ready to fight for valley needs Valley Teacher & Neighbor Ready to fight for valley needs Valley Teacher & Neighbor Ready to fight for valley needs Valley Teacher & Neighbor Ready to fight for valley needs About Me My background Who is Tracey Schroeder?
 Tracey Schroeder is a hard-working, award winning teacher, and a 3rd generation "valley girl" who has served our community for over 2 decades.
 Her experiences volunteering and serving in local, national school governance, plus her international volunteer work has prepared her to voice our local needs in Sacramento.
 Tracey is a UCLA Graduate who earned her master’s degree at Philips Graduate Institute.
@@ -29,3 +28,5 @@ My supporters are all ages, from all walks of life who, like me, believe that mi
 And, that unlimited and unchecked taxation needs to end and that Proposition 13 must be protected.
 I am fighting to improve the quality of life for families in our neighborhoods.
 I greatly appreciate your consideration and your vote!
+Instagram Follow me on Instagram My Blog Meet & Greet Gallery Donate Tracey Schroeder for Assembly 46 Copyright © # Tracey Schroeder - All Rights Reserved.
+Powered by

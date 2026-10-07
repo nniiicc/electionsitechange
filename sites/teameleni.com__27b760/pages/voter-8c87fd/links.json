@@ -1,20 +1,86 @@
 [
-"http://myvote.ct.gov/",
-"http://r20.rs6.net/tn.jsp?f=001iVg5ZAFpnd9hrbxJKR8q2nCdx9avr2otTw3SrpRUXD3Zw28ieNVAP6x-HtHJ-CeZBc8pB_BdgN2z_peGHwyk-7nsPutQEEm-GKVqh1Limn2uhze6g_UwJ90zsH-IJZcrXEYu7TnuVOGISmQwo7eehTEizSvBBdQVE4S19pkAfF7xv--p0eLTdZULuwk7hX15x90xy3MzlENXz829kQN_UHjpnwblQedK&c=4vU3IOa4dcCyDgkHfeR9nn-iA39WyFJM-Vp2jq93OVxLGC-NkMJMxw%3D%3D&ch=0E6gKTUCCRE82EkAUDDzmi43PkLPBDnre-BSrricZEL7MNHUNeiu_g%3D%3D",
-"http://tiktok.com/teameleni2022",
-"https://cga.ct.gov/asp/menu/cgafindleg.asp",
-"https://facebook.com/TeamEleni",
-"https://gettothepolls.com/",
-"https://instagram.com/teameleni2026",
-"https://portaldir.ct.gov/sots/LookUp.aspx",
-"https://teameleni.com/",
-"https://teameleni.com/cart",
-"https://teameleni.com/in-the-news",
-"https://teameleni.com/meet-eleni",
-"https://teameleni.com/volunteer",
-"https://teameleni.com/vote-by-absentee-ballot",
-"https://teameleni.com/vote-in-person",
-"https://teameleni.com/voter",
-"https://threads.com/@repkavrosdegraw",
-"https://voterregistration.ct.gov/OLVR/welcome.do"
+{
+"text": "(860) 409-4350",
+"href": "tel:8604094350"
+},
+{
+"text": "(860) 693-7870",
+"href": "tel:8606937870"
+},
+{
+"text": "0",
+"href": "https://teameleni.com/cart"
+},
+{
+"text": "In the News",
+"href": "https://teameleni.com/in-the-news"
+},
+{
+"text": "Learn more about absentee ballots",
+"href": "https://voterregistration.ct.gov/OLVR/welcome.do"
+},
+{
+"text": "Learn more about registering",
+"href": "https://voterregistration.ct.gov/OLVR/welcome.do"
+},
+{
+"text": "Learn more about voting in person",
+"href": "https://teameleni.com/vote-in-person"
+},
+{
+"text": "REGISTRAR OF VOTERS",
+"href": "https://portaldir.ct.gov/sots/LookUp.aspx"
+},
+{
+"text": "REP. LOOKUP",
+"href": "https://www.cga.ct.gov/asp/menu/cgafindleg.asp"
+},
+{
+"text": "[image: Eleni Kavros DeGraw]",
+"href": "https://teameleni.com/"
+},
+{
+"text": "[image]",
+"href": "https://teameleni.com/vote-by-absentee-ballot"
+},
+{
+"text": "[no text]",
+"href": "http://tiktok.com/teameleni2022"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TeamEleni/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/teameleni2026/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@repkavrosdegraw"
+},
+{
+"text": "here",
+"href": "http://r20.rs6.net/tn.jsp?f=001iVg5ZAFpnd9hrbxJKR8q2nCdx9avr2otTw3SrpRUXD3Zw28ieNVAP6x-HtHJ-CeZBc8pB_BdgN2z_peGHwyk-7nsPutQEEm-GKVqh1Limn2uhze6g_UwJ90zsH-IJZcrXEYu7TnuVOGISmQwo7eehTEizSvBBdQVE4S19pkAfF7xv--p0eLTdZULuwk7hX15x90xy3MzlENXz829kQN_UHjpnwblQedK&c=4vU3IOa4dcCyDgkHfeR9nn-iA39WyFJM-Vp2jq93OVxLGC-NkMJMxw%3D%3D&ch=0E6gKTUCCRE82EkAUDDzmi43PkLPBDnre-BSrricZEL7MNHUNeiu_g%3D%3D"
+},
+{
+"text": "here",
+"href": "https://gettothepolls.com"
+},
+{
+"text": "myvote.ct.gov",
+"href": "http://myvote.ct.gov"
+},
+{
+"text": "👋 Meet Eleni",
+"href": "https://teameleni.com/meet-eleni"
+},
+{
+"text": "🗳 Voter Info",
+"href": "https://teameleni.com/voter"
+},
+{
+"text": "🙋🏻‍♀️ Volunteer",
+"href": "https://teameleni.com/volunteer"
+}
 ]

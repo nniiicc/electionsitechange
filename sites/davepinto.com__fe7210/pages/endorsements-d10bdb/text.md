@@ -1,3 +1,5 @@
-Endorsements
-Now is the time to lean into the power that comes from acting together. #EverybodyIn.
-Check back here as additional 2026 endorsements are announced…
+Home About Dave Priorities Get Involved Volunteer Lawn Signs Endorsements Vote contribute Endorse­ments Now is the time to lean into the power that comes from acting together.
+#EverybodyIn.
+Minnesota HD 64B DFL Planned Parenthood Minnesota, North Dakota, South Dakota Action Fund FairVote Minnesota RCV Democracy Champion Northern Midwest Regional Council of Carpenters Teamsters Joint Council 32 DRIVE Service Employees International Union (SEIU) Conservation Minnesota Voter Center Saint Paul Building and Construction Trades Council MN AFL-CIO Education Minnesota PAC IBEW Local 292 IUOE Local 49 MN Pipe Trades Pro-Choice Minnesota PAC Minnesota Nurses Association Moms Demand Action Gun Sense Candidate OutFront Minnesota IBEW Local 119 Minnesota Farmers Union PAC Take Action MN Duluth Tenants Minnesota Families for Public Schools Twin Cities United Performers Committee to Protect Health Care Friends of the Boundary Waters Action Network GIFFORDS PAC LIUNA Minnesota and North Dakota MEDPAC Minnesota NOW PAC Gender Justice Action PAC Check back here as additional 2026 endorsements are announced… Make a CONTRIBUTION $10 $25 $75 $150 $250 $1000 Other Amount Facebook icon Instagram icon X icon Youtube icon P.O.
+Box 8119, St.
+Paul, MN 55108 • (651) 252-1706 info@davepinto.com Prepared and paid for by Pinto Volunteer Committee Powered by Tech for Campaigns Privacy Policy

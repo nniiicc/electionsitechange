@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.michaelmacdonaldforassembly.com/event-list",
- "paid_for_by": "Paid for by Michael MacDonald for Assembly 2026 | FPPC ID#1488242 bottom of page",
+ "fingerprint": "dedb887a000d3b0a4bb35dfea175cd920430653d",
+ "format": 3,
+ "paid_for_by": "Paid for by Michael MacDonald for Assembly 2026",
  "title": "Events | Michael MacDonald For Assembly 2026",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

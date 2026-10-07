@@ -1,8 +1,7 @@
-PUBLIC SERVANTS INCLUDING NORTH CAROLINA PUBLIC SCHOOL TEACHERS, POLICE OFFICERS, FIREFIGHTERS, PROUDLY SUPPORT DANA CAUDILL JONES
-SEANC is the South's leading state employees' association.
+Meet Dana Accomplishments In 2026 Experience Endorsements Awards Support Contribute Serve As A Poll Greeter Press Photos Menu Street Address City, State, Zip Phone Number Conservative for NC Senate Your Custom Text Here Meet Dana Accomplishments In 2026 Experience Endorsements Awards Support Contribute Serve As A Poll Greeter Press Photos North Carolina Public Servants Proudly Endorse Dana Caudill Jones The State Employees Association of North Carolina's Political Arm, EMPAC, has proudly endorsed Dana Caudill Jones for North Carolina Senate.
+PUBLIC SERVANTS INCLUDING NORTH CAROLINA PUBLIC SCHOOL TEACHERS, POLICE OFFICERS, FIREFIGHTERS, PROUDLY SUPPORT DANA CAUDILL JONES SEANC is the South's leading state employees ' association.
 We work to gain respect in the legislature for hardworking state employees and valuable retirees.
-FROM THEIR WEBSITE
-The SEANC Employees Political Action Committee (EMPAC) is a critical tool to ensure our success in the fight to secure pay raises and improve health care and retirement benefits.
+FROM THEIR WEBSITE The SEANC Employees Political Action Committee (EMPAC) is a critical tool to ensure our success in the fight to secure pay raises and improve health care and retirement benefits.
 Why do state employees need a PAC?
 Simply put, EMPAC is SEANC’s political arm.
 SEANC’s primary role is to advocate for member priorities in the General Assembly.
@@ -14,18 +13,9 @@ One way in which you can improve your future is to become politically active and
 When you contribute to EMPAC, you can help elect supportive public officials.
 With a more employee-friendly legislature, we are more likely to achieve the goals that matter to you: pay, health care and retirement.
 Who does EMPAC support?
-- House and Senate candidates for the North Carolina General Assembly
-- Candidates who embrace state employee issues – regardless of political party
-- Statewide candidates
-How can I help EMPAC?
-- Join EMPAC by payroll deduction
-- Become involved with your district EMPAC
-- Vote for political candidates who support SEANC’s views
-- Become a SEANC Member Advocate
-A strong EMPAC helps SEANC fight for you!
-- Pay
-- Health Care
-- Retirement
-- Collective Bargaining
-- Workplace Rights
-https://www.seanc.org/empac
+House and Senate candidates for the North Carolina General Assembly Candidates who embrace state employee issues – regardless of political party Statewide candidates How can I help EMPAC?
+Join EMPAC by payroll deduction Become involved with your district EMPAC Vote for political candidates who support SEANC’s views Become a SEANC Member Advocate A strong EMPAC helps SEANC fight for you!
+Pay Health Care Retirement Collective Bargaining Workplace Rights https://www.seanc.org/empac E-mail Dana • Press Photos Get occasional news from Dana. she'll never share your email address with others.
+Contact Dana WHERE IS NORTH CAROLINA SENATE DISTRICT 31?
+Kernersville • Winston-Salem • Clemmons • King • Lewisville • Pfafftown • Walnut Cove • Rural Hall • Walkertown • Tobaccoville • Germanton • Pinnacle • Westfield • Belews Creek • Madison • Sandy Ridge • Danbury • Lawsonville • Pilot Mountain • High Point • Pine Hall • Mount Airy • Colfax • Stokesdale 27284 • 27105 • 27106 • 27107 • 27104 • 27101 • 27103 • 27012 • 27021 • 27023 • 27040 • 27052 • 27045 • 27051 • 27050 • 27019 • 27043 • 27053 • 27009 • 27025 • 27046 • 27016 • 27022 • 27041 • 27265 • 27042 • 27030 • 27235 • 27357 Union Cross Baptist Church • Sedge Garden Elementary School • Hampton Inn Kernersville • Southeast Middle School • The Crossing Church • Glenn High School • Belews Creek Fire Station • Rural Hall Elementary School • Northwest Middle School • Saint Andrews Presbyterian Church • Kingswood United Methodist Church • Friedland Moravian Church • Clemmons First Baptist Church • Clemmons Presbyterian Church • VFW Post 9010 • Clemmons Civic Center • Holy Family Catholic Church • Paddison Memorial Branch Library • Piney Grove Fire Station • East Forsyth Middle School • Kernersville Elementary School • Kernersville 7th Day Adventist Church • Piney Grove Elementary School • Kernersville Fire Station #42 • Project:Re3 Church • Mary Alice Warren Community Center • Unity Moravian Church • Meadowlark Middle School • New Hope AME Zion Church • Agape Faith Church • Southwest Elementary School • Edgewood Baptist Church • East Forsyth High School • Alice Watts Tuttle Community Center • Macedonia Baptist Church • Bethania Moravian Church • Red Bank Baptist Church • Walkertown Branch Library • Vienna Baptist Church • Pfafftown Christian Church • Grace Baptist Church • Shiloh Lutheran Church • Linville Forest Church of Christ • Sedge Garden Recreation Center • Mt.
+Olive Elementary School • Danbury Fire Department • Poplar Springs Church • Southeastern Middle School • Rock House Community Building • Francisco Community Building • Germanton Elementary School • Piney Grove Middle School • East Stokes Community Building • Mountain View Community Building • Sauratown Fire Department • Stokes Rockingham Fire Rescue • Pinnacle Elementary School • Nancy Reynolds Elementary School • Northeast Stokes Fire Department • Recreation Acres Community Building • Walnut Cove Fire Department • South Stokes High School Paid For By Dana Caudill Jones NC Senate.

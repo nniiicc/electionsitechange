@@ -1,8 +1,6 @@
-Smith voted “NO” on ending qualified immunity and “YES” on Passing the JUSTICE Act to ensure greater transparency and accountability in policing in order to build safer communities.
+Skip to content About Endorsements Election Information News Volunteer Contact Donate Rep Chris Smith’s remarks in support of the JUSTICE Act Smith voted “NO” on ending qualified immunity and “ YES” on Passing the JUSTICE Act to ensure greater transparency and accountability in policing in order to build safer communities.
 Remarks by Rep-.
-Chris Smith (R-NJ)
-In the House of Representatives 6/25/2020
-Madame Speaker, the JUSTICE Act is designed to ensure greater transparency and accountability in policing in order to build safer communities.
+Chris Smith (R-NJ) In the House of Representatives 6/25/2020 Madame Speaker, the JUSTICE Act is designed to ensure greater transparency and accountability in policing in order to build safer communities.
 I cosponsored the JUSTICE Act because it is a serious, comprehensive and balanced reform initiative—an important step forward.
 I am deeply grateful to Senator Tim Scott and Congressman Pete Stauber for authoring this bicameral legislation.
 The killing of George Floyd while in custody by a Minneapolis police officer demands justice and has resulted in a fresh and necessary look at crime and policing.
@@ -24,16 +22,18 @@ The JUSTICE Act empowers the Community Oriented Policing Services (COPS) grant p
 The bill makes lynching a federal crime.
 The legislation also creates the Commission on the Social Status of Black Men and Boys which will study and issue a wide-ranging report on conditions affecting Black men and boys, including homicide rates, arrest and incarceration rates, poverty, violence, fatherhood, mentorship, drug abuse, death rates, disparate income and wealth levels, school performance in all grade levels and health issues and will make recommendations to address these issues.
 That said, why not vote for the Democrat bill that is before the House today as well?
-I have serious concerns that the language in H.R. 7120—the Democrat proposal—eviscerates qualified immunity in civil lawsuits for our women and men in law enforcement.
+I have serious concerns that the language in H.R.
+7120—the Democrat proposal—eviscerates qualified immunity in civil lawsuits for our women and men in law enforcement.
 Let’s be clear, current policy provides no immunity whatsoever—nor should it ever—from criminal prosecution as in the case of the officer responsible for the death of George Floyd.
-But qualified immunity—a judicially created legal doctrine—shields government officials, including law enforcement, from personal liability lawsuits so long as their actions do not violate “clearly established statutory or constitutional rights of which a reasonable person would have known.”
-According to the Congressional Research Service, “The Supreme Court has observed that qualified immunity balances two important interests—the need to hold public officials accountable when they exercise power irresponsibly and the need to shield officials from harassment, distraction and liability when they perform their duties reasonably.”
-Section 102 of the Democrat bill ends qualified immunity and states in pertinent part that “It shall not be a defense or immunity in any action brought under this section against a local law enforcement officer…”even if “…the defendant was acting in good faith, or that the defendant believed, reasonably or otherwise, that his or her conduct was lawful at the time when the conduct was committed…”
-If Section 102 became law, it would likely result in a flood of legal actions—an engraved invitation to sue law enforcement officers.
+But qualified immunity—a judicially created legal doctrine—shields government officials, including law enforcement, from personal liability lawsuits so long as their actions do not violate “clearly established statutory or constitutional rights of which a reasonable person would have known.” According to the Congressional Research Service, “The Supreme Court has observed that qualified immunity balances two important interests—the need to hold public officials accountable when they exercise power irresponsibly and the need to shield officials from harassment, distraction and liability when they perform their duties reasonably.” Section 102 of the Democrat bill ends qualified immunity and states in pertinent part that “It shall not be a defense or immunity in any action brought under this section against a local law enforcement officer…”even if “…the defendant was acting in good faith, or that the defendant believed, reasonably or otherwise, that his or her conduct was lawful at the time when the conduct was committed…” If Section 102 became law, it would likely result in a flood of legal actions—an engraved invitation to sue law enforcement officers.
 Moreover, it will deter police from using force where the use of force is necessary to save life or protect property—diminishing the ability of police to provide public safety in dangerous situations.
-Finally, a June 15 letter from the NATIONAL ASSOCIATION OF POLICE ORGANIZATIONS—which represents one thousand professional police associations and units and 241,000 officers throughout the United States—wrote: “Our most significant concerns include amending Section 242 of Title 18 United States Code to lower the standard for mens rea (Title I Subtitle A, Section 101) and the practical elimination of qualified immunity for law enforcement officers (Section 102).
+Finally, a June 15 letter from the NATIONAL ASSOCIATION OF POLICE ORGANIZATIONS —which represents one thousand professional police associations and units and 241,000 officers throughout the United States—wrote: “Our most significant concerns include amending Section 242 of Title 18 United States Code to lower the standard for mens rea (Title I Subtitle A, Section 101) and the practical elimination of qualified immunity for law enforcement officers (Section 102).
 Combined, these two provisions take away any legal protections for officers while making it easier to prosecute them for mistakes on the job, not just criminal acts.
 With the change to qualified immunity, an officer can go to prison for an unintentional act that unknowingly broke an unknown law.
-We believe in holding officers accountable for their actions, but the consequence of this would be making criminals out of decent cops enforcing the laws in good faith.”
-I include the entire letter for the Record.
-Read online on More Monmouth Musings.
+We believe in holding officers accountable for their actions, but the consequence of this would be making criminals out of decent cops enforcing the laws in good faith.” I include the entire letter for the Record.
+Read online on More Monmouth Musings .
+Post navigation U.S.
+Rep.
+Chris Smith continues longstanding criticism of China as Beijing threatens retaliation Rep Smith receives inaugural bipartisan award from US Chamber of Commerce Get Involved.
+First and Last Name First Last Email Address ZIP Code How Would You Like to Help Chris Smith?
+Make phone calls from home Make phone calls at Campaign HQ Hand Addressing Letters Put a Sign in My Yard How Would You Like to Help Chris Smith (col 2) Volunteering at Events Go door to door in my neighborhood Host a fundraiser Phone * Address * Street Address City VOLUNTEER About Endorsements Election Information News Volunteer Contact Donate Friends of Chris Smith PO Box 1266, Toms River, NJ 08754 Phone: 732-357-0900 E-mail: [email protected] PAID FOR BY FRIENDS OF CHRIS SMITH Privacy Policy

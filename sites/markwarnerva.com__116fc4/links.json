@@ -1,28 +1,138 @@
 [
-"http://facebook.com/MarkWarnerVa",
-"http://instagram.com/MarkWarnerVa",
-"https://es.markwarnerva.com/",
-"https://ko.markwarnerva.com/",
-"https://markwarnerva.com/",
-"https://markwarnerva.com/about",
-"https://markwarnerva.com/action-center",
-"https://markwarnerva.com/contact-us",
-"https://markwarnerva.com/donate-by-mail",
-"https://markwarnerva.com/endorsements",
-"https://markwarnerva.com/plan",
-"https://markwarnerva.com/privacy-policy",
-"https://secure.actblue.com/donate/web_2025",
-"https://secure.actblue.com/donate/web_2025?express_lane=true",
-"https://secure.actblue.com/donate/web_2025?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/web_2025?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/web_2025?express_lane=true&amount=50",
-"https://store.markwarnerva.com/",
-"https://store.markwarnerva.com/mark-warner-11oz-coffee-mug",
-"https://store.markwarnerva.com/mark-warner-dark-ash-crewneck-sweater",
-"https://store.markwarnerva.com/mark-warner-unisex-navy-tee",
-"https://substack.com/@markwarnerforvirginia",
-"https://tl.markwarnerva.com/",
-"https://twitter.com/markwarnerva",
-"https://vn.markwarnerva.com/",
-"https://youtube.com/user/MarkWarnerVA"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/web_2025?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/web_2025?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/web_2025?express_lane=true&amount=50"
+},
+{
+"text": "Click to Read More",
+"href": "https://www.markwarnerva.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://www.markwarnerva.com/contact-us/"
+},
+{
+"text": "Delivering for Virginians",
+"href": "https://www.markwarnerva.com/plan#delivering"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/web_2025"
+},
+{
+"text": "Donate By Mail",
+"href": "https://www.markwarnerva.com/donate-by-mail/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.markwarnerva.com/endorsements/"
+},
+{
+"text": "English",
+"href": "https://www.markwarnerva.com/"
+},
+{
+"text": "Español",
+"href": "https://es.markwarnerva.com/"
+},
+{
+"text": "Fighting to Protect our Freedoms",
+"href": "https://www.markwarnerva.com/plan#freedoms"
+},
+{
+"text": "Go to the Shop",
+"href": "https://store.markwarnerva.com/"
+},
+{
+"text": "Gray vintage Mark Warner sweatshirt",
+"href": "https://store.markwarnerva.com/mark-warner-dark-ash-crewneck-sweater/"
+},
+{
+"text": "Keeping Americans Safe",
+"href": "https://www.markwarnerva.com/plan#safety"
+},
+{
+"text": "Making Virginia Affordable",
+"href": "https://www.markwarnerva.com/plan#affordability"
+},
+{
+"text": "Meet Mark",
+"href": "https://www.markwarnerva.com/about/"
+},
+{
+"text": "Navy Mark Warner T-shirt with modern logo",
+"href": "https://store.markwarnerva.com/mark-warner-unisex-navy-tee/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/web_2025?express_lane=true"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.markwarnerva.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://store.markwarnerva.com/"
+},
+{
+"text": "Tagalog",
+"href": "https://tl.markwarnerva.com/"
+},
+{
+"text": "Take Action",
+"href": "https://www.markwarnerva.com/action-center/"
+},
+{
+"text": "The Plan",
+"href": "https://www.markwarnerva.com/plan/"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://vn.markwarnerva.com/"
+},
+{
+"text": "Upholding Virginia Values",
+"href": "https://www.markwarnerva.com/plan#values"
+},
+{
+"text": "White Mark Warner For Virginia Coffee Mug",
+"href": "https://store.markwarnerva.com/mark-warner-11oz-coffee-mug/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/MarkWarnerVa"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/MarkWarnerVa"
+},
+{
+"text": "[no text]",
+"href": "https://substack.com/@markwarnerforvirginia"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/markwarnerva"
+},
+{
+"text": "[no text]",
+"href": "https://www.markwarnerva.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/user/MarkWarnerVA"
+},
+{
+"text": "한국어",
+"href": "https://ko.markwarnerva.com/"
+}
 ]

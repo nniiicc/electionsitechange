@@ -1,4 +1,4 @@
-Assemblymember Chris Ward is a parent of two young children who motivate him every day to make the world a better place.
+Home About Chris District Endorsements Issues Volunteer Contact Photos Donate Home About Chris District Endorsements Issues Volunteer Contact Photos Donate Scroll Assemblymember Chris Ward is a parent of two young children who motivate him every day to make the world a better place.
 Chris was first elected to serve the 78th Assembly District in November 2020, and quickly got to work on legislative action and constituent services to help state resources reach residents in need.
 He has been appointed to a number of leadership roles, including Speaker Pro Tempore, Assistant Majority Leader, and chair of key committees in addition to being the Assembly’s representative on the California Coastal Conservancy.
 Chris helped deliver essential resources to the San Diego region through the state budget to help for proven homeless housing, climate, infrastructure and other long-needed support.
@@ -9,3 +9,4 @@ Chris began his public service through volunteering on his community planning gr
 Chris was a Board member of the San Diego Human Dignity Foundation and San Diego LGBT Center, and is a member of the Truman National Security Project.
 Chris earned his Bachelor of Arts degree at Johns Hopkins University and a Masters in Public Policy and Urban Planning at Harvard’s Kennedy School of Government.
 He and his partner Thom live in University Heights with their two children.
+Banner About Chris PAID FOR BY: Chris Ward for Assembly 2026 ID 1477391

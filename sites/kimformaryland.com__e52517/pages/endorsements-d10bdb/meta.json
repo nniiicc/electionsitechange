@@ -1,7 +1,9 @@
 {
  "description": "Endorsements",
  "final_url": "https://kimformaryland.com/endorsements",
- "paid_for_by": null,
+ "fingerprint": "da280a4f265d295e3e58ddcf444922ec50ffaa9e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements",
  "years_mentioned": [
   "2026"

@@ -1,2 +1,3 @@
-Meet PA House District 61.
-Including Towamencin Township, Lower and Upper Gwynedd Townships, North Wales Borough, and parts of Whitpain Township Final 2021 Maps
+0 Skip to Content On the Issues In the House In the 61st In the News Team Liz Survey Vote Home DONATE Open Menu Close Menu Open Menu Close Menu On the Issues In the House In the 61st In the News Team Liz Survey Vote Home DONATE On the Issues In the House In the 61st In the News Team Liz Survey Vote Home DONATE Meet PA House District 61.
+Including Towamencin Township, Lower and Upper Gwynedd Townships, North Wales Borough, and parts of Whitpain Township Final 2021 Maps Volunteer • Contact • Voter Resources • Home 2026 General Election Day: Tuesday, November 3 Register to Vote Request a Mail Ballot DONATE Paid for by Friends of Liz Hanbidge P.O.
+Box 461 • Ambler, PA 19002 • 267-871-9467

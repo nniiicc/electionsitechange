@@ -1,34 +1,158 @@
 [
-"https://campaignhq.app/volunteer",
-"https://enochforcongress.com/",
-"https://enochforcongress.com/about-ohios-8th-congressional-district",
-"https://enochforcongress.com/bio",
-"https://enochforcongress.com/blog",
-"https://enochforcongress.com/community-survey",
-"https://enochforcongress.com/contact",
-"https://enochforcongress.com/donate-now",
-"https://enochforcongress.com/endorsements",
-"https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such",
-"https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting",
-"https://enochforcongress.com/events",
-"https://enochforcongress.com/events/list",
-"https://enochforcongress.com/events/list?eventDisplay=past",
-"https://enochforcongress.com/events/list?ical=1",
-"https://enochforcongress.com/events/list?outlook-ical=1",
-"https://enochforcongress.com/events/month",
-"https://enochforcongress.com/events/today",
-"https://enochforcongress.com/issue",
-"https://enochforcongress.com/product/free-yard-sign",
-"https://enochforcongress.com/shop",
-"https://enochforcongress.com/volunteer",
-"https://enochforcongress.com/volunteer-portal",
-"https://enochforcongress.com/voting-in-2026",
-"https://facebook.com/1DocEnoch",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fenochforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/doc.enoch",
-"https://linkedin.com/in/dr-vanessa-enoch",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fenochforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Enoch+for+Congress+Events+%E2%80%93+Enoch+for+Congress",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fenochforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Enoch+for+Congress+Events+%E2%80%93+Enoch+for+Congress",
-"https://pinterest.com/EnochforCongress",
-"https://twitter.com/DrVEnoch"
+{
+"text": "#ago",
+"href": "https://enochforcongress.com/events/list/"
+},
+{
+"text": "About",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Biography",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Blog",
+"href": "https://enochforcongress.com/blog/"
+},
+{
+"text": "Contact",
+"href": "https://enochforcongress.com/contact/"
+},
+{
+"text": "Day",
+"href": "https://enochforcongress.com/events/today/"
+},
+{
+"text": "Donate",
+"href": "https://enochforcongress.com/donate-now/"
+},
+{
+"text": "Endorsements",
+"href": "https://enochforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://enochforcongress.com/events/list/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://enochforcongress.com/events/list/?outlook-ical=1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/1DocEnoch/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fenochforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/doc.enoch/"
+},
+{
+"text": "Issues",
+"href": "https://enochforcongress.com/issue/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/dr-vanessa-enoch/"
+},
+{
+"text": "List",
+"href": "https://enochforcongress.com/events/list/"
+},
+{
+"text": "Month",
+"href": "https://enochforcongress.com/events/month/"
+},
+{
+"text": "October Meet & Greet with Dr. Vanessa Enoch @ Major Minor Books and Such",
+"href": "https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such/"
+},
+{
+"text": "October Wooster Corridor Democrats Meeting",
+"href": "https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting/"
+},
+{
+"text": "Ohio’s 8th Congressional District",
+"href": "https://enochforcongress.com/about-ohios-8th-congressional-district/"
+},
+{
+"text": "Order a Yard Sign",
+"href": "https://enochforcongress.com/product/free-yard-sign/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fenochforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Enoch+for+Congress+Events+%E2%80%93+Enoch+for+Congress"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fenochforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Enoch+for+Congress+Events+%E2%80%93+Enoch+for+Congress"
+},
+{
+"text": "Pinterest",
+"href": "https://www.pinterest.com/EnochforCongress/"
+},
+{
+"text": "Previous Events",
+"href": "https://enochforcongress.com/events/list/?eventDisplay=past"
+},
+{
+"text": "Share Your Opinion",
+"href": "https://enochforcongress.com/community-survey/"
+},
+{
+"text": "Shop",
+"href": "https://enochforcongress.com/shop/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/DrVEnoch"
+},
+{
+"text": "Upcoming Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "Volunteer",
+"href": "https://campaignhq.app/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://enochforcongress.com/volunteer/"
+},
+{
+"text": "Volunteer Portal",
+"href": "https://enochforcongress.com/volunteer-portal/"
+},
+{
+"text": "Voting in 2026",
+"href": "https://enochforcongress.com/voting-in-2026/"
+},
+{
+"text": "[image: Vanessa Enoch for Congress]",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://enochforcongress.com/events/list/?eventDisplay=past"
+},
+{
+"text": "dr.enoch@enochforcongress.com",
+"href": "mailto:dr.enoch@enochforcongress.com"
+},
+{
+"text": "iCalendar",
+"href": "webcal://enochforcongress.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

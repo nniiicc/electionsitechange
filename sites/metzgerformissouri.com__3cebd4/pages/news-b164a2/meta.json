@@ -1,7 +1,11 @@
 {
  "description": "Aaron Metzger in the News",
  "final_url": "https://metzgerformissouri.com/news",
- "paid_for_by": null,
+ "fingerprint": "c668cee7fda0b1fad80e916e606bf96b8d69bb4d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

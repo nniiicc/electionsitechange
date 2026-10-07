@@ -1,8 +1,26 @@
 [
-"https://carterforarkansas.com/",
-"https://facebook.com/",
-"https://instagram.com/",
-"https://secure.actblue.com/donate/shamal-carter-2",
-"https://secure.actblue.com/donate/shamal-carter-2?amount=25",
-"https://x.com/"
+{
+"text": "Contribute Today",
+"href": "https://secure.actblue.com/donate/shamal-carter-2?amount=25"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shamal-carter-2"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "X",
+"href": "https://x.com/"
+},
+{
+"text": "[image]",
+"href": "https://carterforarkansas.com/"
+}
 ]

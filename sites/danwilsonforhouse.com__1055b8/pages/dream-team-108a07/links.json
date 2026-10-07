@@ -1,12 +1,50 @@
 [
-"https://danwilsonforhouse.com/cart",
-"https://danwilsonforhouse.com/dream-team",
-"https://danwilsonforhouse.com/home",
-"https://jackhedin.org/",
-"https://jakejohnsonforcongress.com/",
-"https://mnvotes.sos.mn.gov/VoterRegistration/index",
-"https://pollfinder.sos.mn.gov/",
-"https://sos.mn.gov/elections-voting",
-"https://sos.mn.gov/elections-voting/register-to-vote/register-on-election-day",
-"https://sos.mn.gov/elections-voting/register-to-vote/who-can-vote"
+{
+"text": "0",
+"href": "https://www.danwilsonforhouse.com/cart"
+},
+{
+"text": "Dan Wilson's Website",
+"href": "https://www.danwilsonforhouse.com/home"
+},
+{
+"text": "Jack Hedin's Website",
+"href": "https://www.jackhedin.org/"
+},
+{
+"text": "Jake Johnson's Website",
+"href": "https://www.jakejohnsonforcongress.com/"
+},
+{
+"text": "MN Votes",
+"href": "https://www.sos.mn.gov/elections-voting/"
+},
+{
+"text": "Meet the dream team",
+"href": "https://www.danwilsonforhouse.com/dream-team#dream"
+},
+{
+"text": "More Info",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/who-can-vote/"
+},
+{
+"text": "Register to vote",
+"href": "https://www.danwilsonforhouse.com/dream-team#register"
+},
+{
+"text": "complete your registration.",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/register-on-election-day/"
+},
+{
+"text": "here",
+"href": "https://mnvotes.sos.mn.gov/VoterRegistration/index"
+},
+{
+"text": "here",
+"href": "https://pollfinder.sos.mn.gov/"
+},
+{
+"text": "registering on election day",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/register-on-election-day/"
+}
 ]

@@ -1,12 +1,54 @@
 [
-"https://secure.actblue.com/donate/committee-to-elect-campbell-1",
-"https://votecampbell.org/",
-"https://votecampbell.org/about-me",
-"https://votecampbell.org/contact",
-"https://votecampbell.org/donate",
-"https://votecampbell.org/gallery",
-"https://votecampbell.org/issues",
-"https://votecampbell.org/news-from-the-state-house",
-"https://votecampbell.org/volunteer",
-"https://wordpress.org/"
+{
+"text": "About",
+"href": "https://votecampbell.org/about-me/"
+},
+{
+"text": "ActBlue is a nonprofit organization that provides a trusted and convenient way to make donations online. You can donate directly to my campaign using this link to secure site.",
+"href": "https://secure.actblue.com/donate/committee-to-elect-campbell-1"
+},
+{
+"text": "Chris Campbell",
+"href": "https://votecampbell.org/"
+},
+{
+"text": "Contact",
+"href": "https://votecampbell.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://votecampbell.org/donate/"
+},
+{
+"text": "Gallery",
+"href": "https://votecampbell.org/gallery/"
+},
+{
+"text": "Home",
+"href": "https://votecampbell.org/"
+},
+{
+"text": "Issues",
+"href": "https://votecampbell.org/issues/"
+},
+{
+"text": "News from the State House",
+"href": "https://votecampbell.org/news-from-the-state-house/"
+},
+{
+"text": "Proudly powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://votecampbell.org/volunteer/"
+},
+{
+"text": "[image: Chris Campbell]",
+"href": "https://votecampbell.org/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/committee-to-elect-campbell-1"
+}
 ]

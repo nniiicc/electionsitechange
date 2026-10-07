@@ -1,17 +1,66 @@
 [
-"https://aaronmarquez.com/",
-"https://aaronmarquez.com/about-aaron",
-"https://aaronmarquez.com/contact",
-"https://aaronmarquez.com/endorsements",
-"https://aaronmarquez.com/gotv",
-"https://aaronmarquez.com/in-the-news",
-"https://aaronmarquez.com/issues",
-"https://aaronmarquez.com/ld5-map",
-"https://aaronmarquez.com/volunteer",
-"https://facebook.com/Marquez4Arizona",
-"https://instagram.com/aaron4arizona",
-"https://linkedin.com/in/aaronmarquez",
-"https://secure.actblue.com/donate/marquez-4-az",
-"https://twitter.com/AaronJMarquez",
-"https://youtube.com/user/Marquez4Arizona"
+{
+"text": "About Aaron",
+"href": "https://www.aaronmarquez.com/about-aaron"
+},
+{
+"text": "Contact",
+"href": "https://www.aaronmarquez.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/marquez-4-az"
+},
+{
+"text": "Endorsements",
+"href": "https://www.aaronmarquez.com/endorsements"
+},
+{
+"text": "GOTV!",
+"href": "https://www.aaronmarquez.com/gotv"
+},
+{
+"text": "Home",
+"href": "https://www.aaronmarquez.com/"
+},
+{
+"text": "In the News",
+"href": "https://www.aaronmarquez.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://www.aaronmarquez.com/issues"
+},
+{
+"text": "LD5 Map",
+"href": "https://www.aaronmarquez.com/ld5-map"
+},
+{
+"text": "Volunteer",
+"href": "https://www.aaronmarquez.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.aaronmarquez.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/AaronJMarquez"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Marquez4Arizona/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/aaron4arizona/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/aaronmarquez/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/user/Marquez4Arizona"
+}
 ]

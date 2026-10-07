@@ -1,15 +1,58 @@
 [
-"https://bendavisforindiana.com/",
-"https://bendavisforindiana.com/about",
-"https://bendavisforindiana.com/contact",
-"https://bendavisforindiana.com/events",
-"https://bendavisforindiana.com/issues",
-"https://bendavisforindiana.substack.com/",
-"https://designedtorun.com/",
-"https://donorbox.org/ben-davis-for-indiana",
-"https://facebook.com//profile.php?id=61584106796963",
-"https://instagram.com//bendavisforindiana",
-"https://linkedin.com/in/bendavisitpro",
-"https://tiktok.com/@bendavisforindiana",
-"https://youtube.com/@BenDavisforIndiana"
+{
+"text": "About",
+"href": "https://www.bendavisforindiana.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.bendavisforindiana.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://donorbox.org/ben-davis-for-indiana"
+},
+{
+"text": "Events",
+"href": "https://www.bendavisforindiana.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.bendavisforindiana.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Ben Davis for Indiana | House District 13]",
+"href": "https://www.bendavisforindiana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bendavisforindiana.substack.com"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//profile.php?id=61584106796963"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com//bendavisforindiana/"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/bendavisitpro/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@bendavisforindiana"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@BenDavisforIndiana"
+},
+{
+"text": "hello@bendavisforindiana.com",
+"href": "mailto:hello@bendavisforindiana.com"
+}
 ]

@@ -1,12 +1,42 @@
 [
-"http://ncga.state.nc.us/gascripts/members/viewMember.pl?sChamber=House&nUserID=598",
-"http://wpbeaverbuilder.com/",
-"https://ilerforhouse.com/",
-"https://ilerforhouse.com/accomplishments",
-"https://ilerforhouse.com/bio",
-"https://ilerforhouse.com/category/legislative-updates",
-"https://ilerforhouse.com/category/press-releases-statements",
-"https://ilerforhouse.com/contact",
-"https://ilerforhouse.com/donate-2",
-"https://ilerforhouse.com/issues"
+{
+"text": "About Frank Iler",
+"href": "https://ilerforhouse.com/bio/"
+},
+{
+"text": "Accomplishments",
+"href": "https://ilerforhouse.com/accomplishments/"
+},
+{
+"text": "Beaver Builder",
+"href": "http://www.wpbeaverbuilder.com/"
+},
+{
+"text": "Click here to contact my legislative office (this is the best means to reach me regarding any legislative issues or constituent service needs).",
+"href": "http://www.ncga.state.nc.us/gascripts/members/viewMember.pl?sChamber=House&nUserID=598"
+},
+{
+"text": "Contact",
+"href": "https://ilerforhouse.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://ilerforhouse.com/donate-2/"
+},
+{
+"text": "Home",
+"href": "https://ilerforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://ilerforhouse.com/issues/"
+},
+{
+"text": "Legislative Updates",
+"href": "https://ilerforhouse.com/category/legislative-updates/"
+},
+{
+"text": "News",
+"href": "https://ilerforhouse.com/category/press-releases-statements/"
+}
 ]

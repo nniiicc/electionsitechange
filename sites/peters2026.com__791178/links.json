@@ -1,7 +1,50 @@
 [
-"https://facebook.com/catherinepeters2026",
-"https://instagram.com/PETERSFORHOUSE",
-"https://peters2026.com/",
-"https://secure.actblue.com/donate/catherine-peters",
-"https://threads.com/@petersforhouse"
+{
+"text": "ABOUT",
+"href": "https://www.peters2026.com/#about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/catherine-peters"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.peters2026.com/#endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.peters2026.com/#events"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.peters2026.com/#get-involved"
+},
+{
+"text": "MEDIA",
+"href": "https://www.peters2026.com/#media"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.peters2026.com/#priorities"
+},
+{
+"text": "[image]",
+"href": "https://www.peters2026.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/catherinepeters2026"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/PETERSFORHOUSE"
+},
+{
+"text": "[tooltip: Go to Threads page]",
+"href": "https://www.threads.com/@petersforhouse"
+},
+{
+"text": "peters42026@gmail.com",
+"href": "mailto:peters42026@gmail.com"
+}
 ]

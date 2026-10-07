@@ -1,9 +1,13 @@
 {
  "description": "News and Updates from Gabriel Moreno's campaign for District 13 State Delegate - Stay informed about campaign events, endorsements, and important announcements.",
  "final_url": "https://morenoformaryland.com/news",
- "paid_for_by": null,
+ "fingerprint": "2d6178836bdec5bd987393478b5072a6b3d87ff1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | Delegate Gabriel M. Moreno | District 13",
  "years_mentioned": [
+  "2022",
+  "2025",
   "2026"
  ]
 }

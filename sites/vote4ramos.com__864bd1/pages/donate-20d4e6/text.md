@@ -1,12 +1,2 @@
-Home
-Meet Adrianne
-Adrianne's Priorities
-Volunteer
-Donate
-Endorsements
-More
-Support Adrianne
-We need your help to get Adrianne Ramos elected State Representative for the 14th Essex District.
-Checks can be made out to and mailed to CTE Adrianne Ramos
-115 Winter Street
-North Andover, MA
+top of page Home Meet Adrianne Adrianne's Priorities Volunteer Donate Endorsements More Use tab to navigate through the menu items.
+DONATE Support Adrianne We need your help to get Adrianne Ramos elected State Representative for the 14th Essex District. ​ Checks can be made out to and mailed to CTE Adrianne Ramos 115 Winter Street North Andover, MA DONATE HERE ©# by Adrianne Ramos for Rep. bottom of page

@@ -1,53 +1,218 @@
 [
-"https://accd.vermont.gov/covid-19",
-"https://bgs.vermont.gov/commissioner/building-communities-grants",
-"https://charlieforvermont.com/",
-"https://charlieforvermont.com/2017-legislative-session-wrap-up",
-"https://charlieforvermont.com/2018-legislative-session-summary",
-"https://charlieforvermont.com/2018-town-meeting-update",
-"https://charlieforvermont.com/2019-legislative-session-summary",
-"https://charlieforvermont.com/2021-legislative-session-summary",
-"https://charlieforvermont.com/2021townmeetingupdate",
-"https://charlieforvermont.com/2025-legislation-passed",
-"https://charlieforvermont.com/2025-legislative-updates",
-"https://charlieforvermont.com/2026legislationsummary",
-"https://charlieforvermont.com/background",
-"https://charlieforvermont.com/community-involvement",
-"https://charlieforvermont.com/donate",
-"https://charlieforvermont.com/events",
-"https://charlieforvermont.com/issues-facing-vermont-1",
-"https://charlieforvermont.com/pension-crisis",
-"https://charlieforvermont.com/rural-economic-development-working-group",
-"https://charlieforvermont.com/updates-from-the-dome",
-"https://dcf.vermont.gov/benefits/MBDP",
-"https://doc.vermont.gov/correctional-facilities/crcf-south-burlington",
-"https://legislature.vermont.gov/Documents/2022/Docs/ACTS/ACT009/ACT009%20As%20Enacted.pdf",
-"https://legislature.vermont.gov/Documents/2022/Docs/BILLS/H-0210/H-0210%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf",
-"https://legislature.vermont.gov/Documents/2022/Docs/BILLS/H-0430/H-0430%20Senate%20Proposal%20of%20Amendment%20Unofficial.pdf",
-"https://legislature.vermont.gov/Documents/2022/WorkGroups/House%20Corrections%20and%20Institutions/Department%20of%20Corrections/W~Tristram%20Coffin~Downs,%20Rachlin,%20Martin%20'Report%20Concerning%20Sexual%20Misconduct%20a%20the%20Chittenden%20Regional%20Correctional%20Facility'~1-14-2021.pdf",
-"https://legislature.vermont.gov/bill/status/2022/H.106",
-"https://legislature.vermont.gov/bill/status/2022/H.108",
-"https://legislature.vermont.gov/bill/status/2022/H.128",
-"https://legislature.vermont.gov/bill/status/2022/H.171",
-"https://legislature.vermont.gov/bill/status/2022/H.175",
-"https://legislature.vermont.gov/bill/status/2022/H.183",
-"https://legislature.vermont.gov/bill/status/2022/H.225",
-"https://legislature.vermont.gov/bill/status/2022/H.360",
-"https://legislature.vermont.gov/bill/status/2022/H.426",
-"https://legislature.vermont.gov/bill/status/2022/H.433",
-"https://legislature.vermont.gov/bill/status/2022/H.435",
-"https://legislature.vermont.gov/bill/status/2022/H.438",
-"https://legislature.vermont.gov/bill/status/2022/H.439",
-"https://legislature.vermont.gov/bill/status/2022/H.449",
-"https://legislature.vermont.gov/bill/status/2022/S.102",
-"https://legislature.vermont.gov/bill/status/2022/S.114",
-"https://legislature.vermont.gov/bill/status/2022/S.13",
-"https://legislature.vermont.gov/bill/status/2022/S.15",
-"https://legislature.vermont.gov/bill/status/2022/S.20",
-"https://legislature.vermont.gov/bill/status/2022/S.62",
-"https://legislature.vermont.gov/bill/status/2022/S.88",
-"https://ljfo.vermont.gov/assets/Uploads/427fd163b7/H.439-Budget-HIghlight-Sheet.pdf",
-"https://portal.healthconnect.vermont.gov/VTHBELand/welcome.action",
-"https://secure.actblue.com/donate/charlieforvermont2026",
-"https://vtlawhelp.org/health"
+{
+"text": "2017 Legislative Session Wrap Up",
+"href": "https://www.charlieforvermont.com/2017-legislative-session-wrap-up"
+},
+{
+"text": "2018 Legislative Session Summary",
+"href": "https://www.charlieforvermont.com/2018-legislative-session-summary"
+},
+{
+"text": "2018 Town Meeting Update",
+"href": "https://www.charlieforvermont.com/2018-town-meeting-update"
+},
+{
+"text": "2019 Legislative Session Summary",
+"href": "https://www.charlieforvermont.com/2019-legislative-session-summary"
+},
+{
+"text": "2021 Legislative Session Summary",
+"href": "https://www.charlieforvermont.com/2021-legislative-session-summary"
+},
+{
+"text": "2021 Town Meeting Update",
+"href": "https://www.charlieforvermont.com/2021townmeetingupdate"
+},
+{
+"text": "2025 Legislation Passed",
+"href": "https://www.charlieforvermont.com/2025-legislation-passed"
+},
+{
+"text": "2025 Legislative Updates",
+"href": "https://www.charlieforvermont.com/2025-legislative-updates"
+},
+{
+"text": "2026 Legislation Passed",
+"href": "https://www.charlieforvermont.com/2026legislationsummary"
+},
+{
+"text": "Background",
+"href": "https://www.charlieforvermont.com/background"
+},
+{
+"text": "Building Communities Grant Program",
+"href": "https://bgs.vermont.gov/commissioner/building-communities-grants"
+},
+{
+"text": "Charlie Kimbell - Vermont Rep",
+"href": "https://www.charlieforvermont.com/"
+},
+{
+"text": "Chittenden Regional Correctional Facility",
+"href": "https://doc.vermont.gov/correctional-facilities/crcf-south-burlington"
+},
+{
+"text": "Community Involvement",
+"href": "https://www.charlieforvermont.com/community-involvement"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/charlieforvermont2026"
+},
+{
+"text": "Donate",
+"href": "https://www.charlieforvermont.com/donate"
+},
+{
+"text": "EMBRACE Grants for Micro Business",
+"href": "https://dcf.vermont.gov/benefits/MBDP"
+},
+{
+"text": "Economic Recovery Bridge Grants",
+"href": "https://accd.vermont.gov/covid-19"
+},
+{
+"text": "Events",
+"href": "https://www.charlieforvermont.com/events"
+},
+{
+"text": "H.106",
+"href": "https://legislature.vermont.gov/bill/status/2022/H.106"
+},
+{
+"text": "H.108",
+"href": "https://legislature.vermont.gov/bill/status/2022/H.108"
+},
+{
+"text": "H.128",
+"href": "https://legislature.vermont.gov/bill/status/2022/H.128"
+},
+{
+"text": "H.171",
+"href": "https://legislature.vermont.gov/bill/status/2022/H.171"
+},
+{
+"text": "H.175",
+"href": "https://legislature.vermont.gov/bill/status/2022/H.175"
+},
+{
+"text": "H.183",
+"href": "https://legislature.vermont.gov/bill/status/2022/H.183"
+},
+{
+"text": "H.210",
+"href": "https://legislature.vermont.gov/Documents/2022/Docs/BILLS/H-0210/H-0210%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf"
+},
+{
+"text": "H.225",
+"href": "https://legislature.vermont.gov/bill/status/2022/H.225"
+},
+{
+"text": "H.315",
+"href": "https://legislature.vermont.gov/Documents/2022/Docs/ACTS/ACT009/ACT009%20As%20Enacted.pdf"
+},
+{
+"text": "H.360",
+"href": "https://legislature.vermont.gov/bill/status/2022/H.360"
+},
+{
+"text": "H.426",
+"href": "https://legislature.vermont.gov/bill/status/2022/H.426"
+},
+{
+"text": "H.430",
+"href": "https://legislature.vermont.gov/Documents/2022/Docs/BILLS/H-0430/H-0430%20Senate%20Proposal%20of%20Amendment%20Unofficial.pdf"
+},
+{
+"text": "H.433",
+"href": "https://legislature.vermont.gov/bill/status/2022/H.433"
+},
+{
+"text": "H.435",
+"href": "https://legislature.vermont.gov/bill/status/2022/H.435"
+},
+{
+"text": "H.438",
+"href": "https://legislature.vermont.gov/bill/status/2022/H.438"
+},
+{
+"text": "H.439",
+"href": "https://legislature.vermont.gov/bill/status/2022/H.439"
+},
+{
+"text": "H.449",
+"href": "https://legislature.vermont.gov/bill/status/2022/H.449"
+},
+{
+"text": "Home",
+"href": "https://www.charlieforvermont.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.charlieforvermont.com/issues-facing-vermont-1"
+},
+{
+"text": "Office of the Health Care Advocate",
+"href": "https://vtlawhelp.org/health"
+},
+{
+"text": "Pension Crisis",
+"href": "https://www.charlieforvermont.com/pension-crisis"
+},
+{
+"text": "Rural Economic Development Working Group",
+"href": "https://www.charlieforvermont.com/rural-economic-development-working-group"
+},
+{
+"text": "S.102",
+"href": "https://legislature.vermont.gov/bill/status/2022/S.102"
+},
+{
+"text": "S.114",
+"href": "https://legislature.vermont.gov/bill/status/2022/S.114"
+},
+{
+"text": "S.13",
+"href": "https://legislature.vermont.gov/bill/status/2022/S.13"
+},
+{
+"text": "S.15",
+"href": "https://legislature.vermont.gov/bill/status/2022/S.15"
+},
+{
+"text": "S.20",
+"href": "https://legislature.vermont.gov/bill/status/2022/S.20"
+},
+{
+"text": "S.62",
+"href": "https://legislature.vermont.gov/bill/status/2022/S.62"
+},
+{
+"text": "S.88",
+"href": "https://legislature.vermont.gov/bill/status/2022/S.88"
+},
+{
+"text": "Updates from the Dome",
+"href": "https://www.charlieforvermont.com/updates-from-the-dome"
+},
+{
+"text": "[no text]",
+"href": "https://legislature.vermont.gov/Documents/2022/Docs/BILLS/H-0430/H-0430%20Senate%20Proposal%20of%20Amendment%20Unofficial.pdf"
+},
+{
+"text": "encouraged to apply",
+"href": "https://bgs.vermont.gov/commissioner/building-communities-grants"
+},
+{
+"text": "https://ljfo.vermont.gov/assets/Uploads/427fd163b7/H.439-Budget-HIghlight-Sheet.pdf",
+"href": "https://ljfo.vermont.gov/assets/Uploads/427fd163b7/H.439-Budget-HIghlight-Sheet.pdf"
+},
+{
+"text": "link to Vermont Health Connect",
+"href": "https://portal.healthconnect.vermont.gov/VTHBELand/welcome.action"
+},
+{
+"text": "report by Downs Rachlin Martin",
+"href": "https://legislature.vermont.gov/Documents/2022/WorkGroups/House%20Corrections%20and%20Institutions/Department%20of%20Corrections/W~Tristram%20Coffin~Downs,%20Rachlin,%20Martin%20'Report%20Concerning%20Sexual%20Misconduct%20a%20the%20Chittenden%20Regional%20Correctional%20Facility'~1-14-2021.pdf"
+}
 ]

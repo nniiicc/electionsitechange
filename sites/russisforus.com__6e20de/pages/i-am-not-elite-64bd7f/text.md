@@ -1,4 +1,4 @@
-I am like you.
+Skip to content Skip to sidebar Skip to footer Menu Close Home About Ask David Virtual Rally Volunteer Events Close Home About Ask David Virtual Rally Volunteer Events Youtube Instagram Get in Touch Home About Ask David Virtual Rally Volunteer Events I am NOT Elite April 11, 2022 I am like you.
 I live the life of the common American man.
 I am not elite.
 Would you rather have someone like you representing you?
@@ -20,8 +20,7 @@ When my home needs minor plumbing, electrical, drywall, roofing, HVAC, or exteri
 When my car requires minor repairs, I perform them (again the ROI thing..).
 When this web site, or my wife’s web site need development, David F.
 Russ Professional Services does the work (ie ME).
-There have been times when I have been “between homes.”
-I have used mass transit, bicycles, motor cycles, cars, my feet, and even my thumb to get to work.
+There have been times when I have been “between homes.” I have used mass transit, bicycles, motor cycles, cars, my feet, and even my thumb to get to work.
 I have been promoted at work, and I have lost jobs.
 I have had amazing times of joy and love with my family, and we have had hardships as well.
 My 3 year old grandson dealing with cancer and draconian lock down measures that kept him away from his family was challenging.
@@ -30,3 +29,13 @@ I understand how laws, legal and court procedures work.
 I have never received special treatment under the law, and believe that no one should.
 I cook for my wife regularly.
 I am educated and experienced in almost every issue that I might face in Washington DC, and I understand how decisions made in Washington DC affect you.
+I am Like You.
+I will fight for your family and their future.
+I will always consider your opinions and needs.
+I will never tell you that anything in Government is, “…too complicated for you to understand.” DONATE NOW Search Search Recent Posts Andrea Salinas Congressional Record Willamette Week 9/29/26 2026 Fraud and Alien Crimes Democrat or Socialist (DSA) Could this be the case that takes Voter ID to the Supreme Court before 11/3/2026?
+Recent Comments No comments to show.
+David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
+Links Home About FAQs Ask David News Volunteer Events Legal Privacy Policy Terms of Services Contact +1 (503) 714-8086‬ info@RussIsForUS.com PO Box 21, Dundee, OR 97115 Socials Facebook X-twitter Youtube Instagram © # David Russ Is For US.
+Paid for by David Russ Is For US.
+Some images, audio, video, or written content may be created or enhanced using artificial intelligence (AI) tools.
+Site Managed by David Russ

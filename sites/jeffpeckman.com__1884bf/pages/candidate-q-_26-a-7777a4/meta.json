@@ -1,9 +1,15 @@
 {
  "description": "Explore Gubernatorial Primary Candidate Questionnaires and learn more about Jeff Peckman, candidate for Colorado Governor.",
  "final_url": "https://jeffpeckman.com/candidate-q-%26-a",
- "paid_for_by": null,
+ "fingerprint": "3768252e8b12df0708ef2485bed63477961123a8",
+ "format": 3,
+ "paid_for_by": "Sponsored by the Shut Down GEO Aurora Campaign and the American Friends Service Committee, Colorado Question: What have you done in your current elected office to directly",
  "title": "Candidate Q & A",
  "years_mentioned": [
+  "1954",
+  "1998",
+  "1999",
+  "2001",
   "2016",
   "2024",
   "2025",

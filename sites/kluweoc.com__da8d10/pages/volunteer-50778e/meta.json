@@ -1,7 +1,11 @@
 {
  "description": "Chris Kluwe for Assembly's campaign",
  "final_url": "https://www.kluweoc.com/volunteer",
- "paid_for_by": "Paid for by Chris Kluwe for Assembly 2026 | FPPC #1482344",
- "title": "Volunteer \u2014 Chris Kluwe for Assembly",
- "years_mentioned": []
+ "fingerprint": "3fb3a41765cf41c87acb746ba42f6ea0725fcb20",
+ "format": 3,
+ "paid_for_by": "Paid for by Chris Kluwe for Assembly 2026",
+ "title": "Volunteer — Chris Kluwe for Assembly",
+ "years_mentioned": [
+  "2026"
+ ]
 }

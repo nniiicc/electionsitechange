@@ -1,54 +1,21 @@
-Representative Lori Garcia Sander announces
-her campaign for re-election (12/09/25)
-Citing her work on the Education, Health & Human Services, and Appropriations Committees, Representative Garcia Sander said she’s inspired to continue fighting against government overreach, unaffordability, and crime in Colorado.
+Skip to content Lori Garcia Sander for House District 65 Putting Colorado Citizens and Families First Menu My “Why” About Issues News & Events Donate Volunteer Endorsements Contact My Bills News & Events Representative Lori Garcia Sander announces her campaign for re-election (12/09/25) Citing her work on the Education, Health & Human Services, and Appropriations Committees, Representative Garcia Sander said she’s inspired to continue fighting against government overreach, unaffordability, and crime in Colorado.
 She was just placed on the Agriculture, Water & Natural Committee and is looking forward to doing everything she can to support the farmers, ranchers, and ag industries in House District 65.
 She will remain on the Education Committee and will continue to work toward reducing burdensome regulations on schools and ensuring support for all students and families’ educational choices.
-She is honored to represent her home counties of Weld and Larimer and she looks forward to continuing this representation at the state house.
-——————————————————–
-June 25, 2024 – Primary Election Results:
-Lori Garcia Sander earned 62% of the vote
-and is the Republican nominee for the
-General Election in November!
-———————————————————————————————————————-
-Huge THANKS to Joe Koppes and my husband Will for their help with putting signs up around HD65!
-We’ve got more signs ready to go if you have a location – please let me know!
-———————————————————————————————————————-
-April 2nd, 2024 – HD65 Assembly:
-Lori Garcia Sander earned 61% of the vote
-and TOP LINE on the Primary Ballot in June!
-———————————————————————————————————————-
-FOR IMMEDIATE RELEASE
-January 11, 2024
-Contact: Lori Garcia Sander
-(970) 396-0359
-garciasanderforhouse@gmail.com
-FORMER TEACHER AND PRINCIPAL
-LORI GARCIA SANDER
-ANNOUNCES CAMPAIGN FOR
-STATE REPRESENTATIVE – HOUSE DISTRICT 65
-(EATON, CO) — Eaton resident Lori Garcia Sander announced on Monday that she will be running for Colorado State House of Representatives in District 65.
+She is honored to represent her home counties of Weld and Larimer and she looks forward to continuing this representation at the state house. ——————————————————– June 25, 2024 – Primary Election Results: Lori Garcia Sander earned 62% of the vote and is the Republican nominee for the General Election in November! ———————————————————————————————————————- Huge THANKS to Joe Koppes and my husband Will for their help with putting signs up around HD65!
+We’ve got more signs ready to go if you have a location – please let me know! ———————————————————————————————————————- April 2nd, 2024 – HD65 Assembly: Lori Garcia Sander earned 61% of the vote and TOP LINE on the Primary Ballot in June! ———————————————————————————————————————- FOR IMMEDIATE RELEASE January 11, 2024 Contact: Lori Garcia Sander (970) 396-0359 garciasanderforhouse@gmail.com FORMER TEACHER AND PRINCIPAL LORI GARCIA SANDER ANNOUNCES CAMPAIGN FOR STATE REPRESENTATIVE – HOUSE DISTRICT 65 (EATON, CO) — Eaton resident Lori Garcia Sander announced on Monday that she will be running for Colorado State House of Representatives in District 65.
 HD65 encompasses the Weld and Larimer County towns of Eaton, Windsor, Severance, Timnath, Wellington, Laporte, and Bellevue, and it includes addresses east of I-25 for Fort Collins and Loveland and the northern and western edge of Johnstown.
 Garcia Sander, a conservative and life-long resident of Weld County, has been a public-school teacher and administrator in Larimer and Weld Counties for the past 25 years.
 After Representative Mike Lynch announced his intention to vacate the HD65 seat to run for Congressional District 4, Garcia Sander decided the time is right for her to take her passion for public service to the state level.
-From Garcia Sander:
-“I am proud to announce my candidacy for the Republican nomination for State Representative.
+From Garcia Sander: “I am proud to announce my candidacy for the Republican nomination for State Representative.
 With single-party rule over the past 4 years, Colorado Democrats have taken our state down the wrong path.
 Parents and employers are concerned about our education system.
 Crime is on the rise, good jobs are fleeing, and the cost of living is soaring.
 These failures did not happen in a vacuum.
 They are a direct result of the decisions made at our State Capitol down in Denver.
-As a former public-school teacher and principal, I’ve invested too much into the future of our state to give up now.
-• I’m running because we need someone conservative in the legislature who has actually worked in public schools for the past 25 years to help advocate for and write policies that are best for students and teachers.
-I also support parents’ rights to school choice – including charter, private, and home-school options.
-• I’m running because I’ve watched too many of my students’ families, teaching colleagues, and friends struggle to afford to live in Colorado, and we need to address the extraordinary rise in property tax rates as well as issues surrounding homelessness.
-• I’m running because I’m concerned about increasing theft, drug, and violent crime rates in Colorado.
-Current far-left policies emanating from our legislature are more focused on helping criminals get out of consequences rather than ensuring the safety of our citizens and families.
-• I’m running because I see the effects of Democrats’ policies that are decimating agriculture and oil & gas, two of the largest revenue-creating industries in Colorado.
-• My life has been dedicated to helping people and making my community the best it can be.”
-Garcia Sander is a strong supporter of smaller government, personal responsibility, and individual rights and freedoms.
+As a former public-school teacher and principal, I’ve invested too much into the future of our state to give up now. • I’m running because we need someone conservative in the legislature who has actually worked in public schools for the past 25 years to help advocate for and write policies that are best for students and teachers.
+I also support parents’ rights to school choice – including charter, private, and home-school options. • I’m running because I’ve watched too many of my students’ families, teaching colleagues, and friends struggle to afford to live in Colorado, and we need to address the extraordinary rise in property tax rates as well as issues surrounding homelessness. • I’m running because I’m concerned about increasing theft, drug, and violent crime rates in Colorado.
+Current far-left policies emanating from our legislature are more focused on helping criminals get out of consequences rather than ensuring the safety of our citizens and families. • I’m running because I see the effects of Democrats’ policies that are decimating agriculture and oil & gas, two of the largest revenue-creating industries in Colorado. • My life has been dedicated to helping people and making my community the best it can be.” Garcia Sander is a strong supporter of smaller government, personal responsibility, and individual rights and freedoms.
 She is a champion of Taxpayer Bill of Rights (TABOR), she favors an “all of the above” model of energy development and use, and she believes in addressing the root causes of homelessness and unaffordability for many Coloradans by finding real solutions to the problems.
-Learn more at
-http://www.garciasanderforhouse.com
--30-
-Paid for by Lori Garcia Sander for HD65, Registered Agent Marge Klein
-Read Lori’s Press Release Announcement HERE
+Learn more at http://www.garciasanderforhouse.com -30- Paid for by Lori Garcia Sander for HD65, Registered Agent Marge Klein Read Lori’s Press Release Announcement HERE Sign up for Lori's HD65 Newsletter Email Address * First Name Last Name * = required field Alternative Email: unsubscribe from list Paid for by Lori Garcia Sander for HD 65, Registered Agent Marge Klein Loading Comments...
+Write a Comment...
+Email Name Website

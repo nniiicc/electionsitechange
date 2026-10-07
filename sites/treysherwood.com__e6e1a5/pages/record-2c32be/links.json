@@ -1,55 +1,222 @@
 [
-"http://laramiemuralproject.org/",
-"http://laramiemuseum.org/",
-"http://squarespace.com/?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3",
-"http://telclaramie.com/",
-"https://cheyennehabitat.org/news/habitat-for-humanity-of-laramie-county-is-proud-to-recognize-representative-trey-sherwood",
-"https://cowboystatedaily.com/2025/01/22/inspired-by-little-siberia-schoolhouse-support-grows-for-rural-wyoming-schools",
-"https://facebook.com/reptreysherwood",
-"https://instagram.com/electtreysherwood",
-"https://laramiepublicart.org/",
-"https://laramiereporter.substack.com/p/albany-county-ranchers-push-for-rural",
-"https://laramiereporter.substack.com/p/antelope-creek-school-welcomes-its",
-"https://laramiereporter.substack.com/p/whats-next-for-albany-countys-housing",
-"https://lccc.wy.edu/albanycountycampus/index.aspx",
-"https://lightfolly.com/",
-"https://sllf.org/leadership-programs/emerging-leaders-program",
-"https://treysherwood.com/",
-"https://treysherwood.com/contact",
-"https://treysherwood.com/donate",
-"https://treysherwood.com/mascot",
-"https://treysherwood.com/platfom",
-"https://treysherwood.com/record",
-"https://treysherwood.com/search",
-"https://treysherwood.com/volunteer",
-"https://treysherwood.com/vote",
-"https://womenshistory.si.edu/women-making-history",
-"https://wyoachs.com/",
-"https://wyoleg.gov/Committees/2021/C25",
-"https://wyoleg.gov/Committees/2021/J09",
-"https://wyoleg.gov/Committees/2021/O71",
-"https://wyoleg.gov/Committees/2025/J02",
-"https://wyoleg.gov/Committees/2025/S28",
-"https://wyoleg.gov/Committees/2025/SMA",
-"https://wyoleg.gov/Legislation/2021/HB0103",
-"https://wyoleg.gov/Legislation/2021/HB0156",
-"https://wyoleg.gov/Legislation/2021/HB0196",
-"https://wyoleg.gov/Legislation/2021/HB0203",
-"https://wyoleg.gov/Legislation/2021/HB0204",
-"https://wyoleg.gov/Legislation/2021/HB0205",
-"https://wyoleg.gov/Legislation/2021/HB0206",
-"https://wyoleg.gov/Legislation/2021/HB1015?specialSessionValue=1",
-"https://wyoleg.gov/Legislation/2023/HB0135",
-"https://wyoleg.gov/Legislation/2023/HJ0005",
-"https://wyoleg.gov/Legislation/2024/HB0082",
-"https://wyoleg.gov/Legislation/2024/HB0174",
-"https://wyoleg.gov/Legislation/2025/HB0103",
-"https://wyoleg.gov/Legislation/2025/HB0178",
-"https://wyoleg.gov/Legislation/2025/HB0272",
-"https://wyoleg.gov/Legislation/2025/HJ0003",
-"https://wyoleg.gov/Legislation/2026/HB0040",
-"https://wyomingmainstreet.org/",
-"https://wyomingnews.com/news/local_news/the-long-road-to-a-rural-school-for-one-wyoming-family/article_bb371568-d26d-11ee-8834-ef3e3c733bde.html",
-"https://wyomingpublicmedia.org/politics-government/2026-02-09/by-creating-a-housing-fund-wyoming-would-join-most-other-states-in-addressing-affordability",
-"https://wyshs.org/"
+{
+"text": "2021 - 2026 -Management Audit Committee",
+"href": "https://wyoleg.gov/Committees/2025/SMA"
+},
+{
+"text": "2021-CSG West - Workforce Development",
+"href": "https://wyoleg.gov/Committees/2021/C25"
+},
+{
+"text": "2021-House Minerals, Business & Economic Development",
+"href": "https://wyoleg.gov/Committees/2021/J09"
+},
+{
+"text": "2021-Small Business Assistance Program Advisory Panel",
+"href": "https://wyoleg.gov/Committees/2021/O71"
+},
+{
+"text": "2022 - Emerging Legislative Leaders",
+"href": "https://www.sllf.org/leadership-programs/emerging-leaders-program/"
+},
+{
+"text": "2023 - 2026 - Appropriations Committee",
+"href": "https://wyoleg.gov/Committees/2025/J02"
+},
+{
+"text": "2023 - 2026 Capitol Exhibits & Wayfinding",
+"href": "https://wyoleg.gov/Committees/2025/S28"
+},
+{
+"text": "Access to Education",
+"href": "https://www.wyomingnews.com/news/local_news/the-long-road-to-a-rural-school-for-one-wyoming-family/article_bb371568-d26d-11ee-8834-ef3e3c733bde.html"
+},
+{
+"text": "Albany County Historical Society",
+"href": "https://www.wyoachs.com/"
+},
+{
+"text": "Albany County Housing Coalition",
+"href": "https://laramiereporter.substack.com/p/whats-next-for-albany-countys-housing"
+},
+{
+"text": "Antelope Creek School Opens",
+"href": "https://laramiereporter.substack.com/p/antelope-creek-school-welcomes-its"
+},
+{
+"text": "Contact",
+"href": "https://treysherwood.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://treysherwood.com/donate"
+},
+{
+"text": "HB 103",
+"href": "https://wyoleg.gov/Legislation/2025/HB0103"
+},
+{
+"text": "HB 174",
+"href": "https://wyoleg.gov/Legislation/2024/HB0174"
+},
+{
+"text": "HB 178",
+"href": "https://wyoleg.gov/Legislation/2025/HB0178"
+},
+{
+"text": "HB 272",
+"href": "https://wyoleg.gov/Legislation/2025/HB0272"
+},
+{
+"text": "HB 40",
+"href": "https://wyoleg.gov/Legislation/2026/HB0040"
+},
+{
+"text": "HB 82",
+"href": "https://wyoleg.gov/Legislation/2024/HB0082"
+},
+{
+"text": "HB0103",
+"href": "https://wyoleg.gov/Legislation/2021/HB0103"
+},
+{
+"text": "HB0135",
+"href": "https://wyoleg.gov/Legislation/2023/HB0135"
+},
+{
+"text": "HB0156",
+"href": "https://wyoleg.gov/Legislation/2021/HB0156"
+},
+{
+"text": "HB0196",
+"href": "https://wyoleg.gov/Legislation/2021/HB0196"
+},
+{
+"text": "HB0203",
+"href": "https://wyoleg.gov/Legislation/2021/HB0203"
+},
+{
+"text": "HB0204",
+"href": "https://wyoleg.gov/Legislation/2021/HB0204"
+},
+{
+"text": "HB0205",
+"href": "https://wyoleg.gov/Legislation/2021/HB0205"
+},
+{
+"text": "HB0206",
+"href": "https://wyoleg.gov/Legislation/2021/HB0206"
+},
+{
+"text": "HB1015",
+"href": "https://wyoleg.gov/Legislation/2021/HB1015?specialSessionValue=1"
+},
+{
+"text": "HJ 03",
+"href": "https://wyoleg.gov/Legislation/2025/HJ0003"
+},
+{
+"text": "HJ 5",
+"href": "https://wyoleg.gov/Legislation/2023/HJ0005"
+},
+{
+"text": "Habitat for Humanity Hero Award",
+"href": "https://www.cheyennehabitat.org/news/habitat-for-humanity-of-laramie-county-is-proud-to-recognize-representative-trey-sherwood"
+},
+{
+"text": "Home",
+"href": "https://treysherwood.com/"
+},
+{
+"text": "I Believe",
+"href": "https://treysherwood.com/platfom"
+},
+{
+"text": "LCCC Albany County Campus",
+"href": "https://lccc.wy.edu/albanycountycampus/index.aspx"
+},
+{
+"text": "Laramie Mural Project",
+"href": "http://www.laramiemuralproject.org/"
+},
+{
+"text": "Laramie Plains Museum",
+"href": "http://laramiemuseum.org/"
+},
+{
+"text": "Laramie Public Art Coalition",
+"href": "https://www.laramiepublicart.org/"
+},
+{
+"text": "Lightfolly",
+"href": "https://www.lightfolly.com"
+},
+{
+"text": "Mascot",
+"href": "https://treysherwood.com/mascot"
+},
+{
+"text": "One-Room School for Garrett, WY",
+"href": "https://laramiereporter.substack.com/p/albany-county-ranchers-push-for-rural"
+},
+{
+"text": "Record",
+"href": "https://treysherwood.com/record"
+},
+{
+"text": "SQUARESPACE",
+"href": "http://www.squarespace.com?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3"
+},
+{
+"text": "Smithsonian American Women’s History Museum",
+"href": "https://womenshistory.si.edu/women-making-history"
+},
+{
+"text": "Support Grows for Rural Schools",
+"href": "https://cowboystatedaily.com/2025/01/22/inspired-by-little-siberia-schoolhouse-support-grows-for-rural-wyoming-schools/"
+},
+{
+"text": "Trinity Lutheran Church",
+"href": "http://www.telclaramie.com"
+},
+{
+"text": "Volunteer",
+"href": "https://treysherwood.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://treysherwood.com/vote"
+},
+{
+"text": "Wyoming Housing Fund",
+"href": "https://www.wyomingpublicmedia.org/politics-government/2026-02-09/by-creating-a-housing-fund-wyoming-would-join-most-other-states-in-addressing-affordability"
+},
+{
+"text": "Wyoming Main Street",
+"href": "https://www.wyomingmainstreet.org"
+},
+{
+"text": "Wyoming State Historical Society",
+"href": "https://wyshs.org"
+},
+{
+"text": "[image: Trey Sherwood]",
+"href": "https://treysherwood.com/"
+},
+{
+"text": "[no text]",
+"href": "https://treysherwood.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/reptreysherwood/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electtreysherwood/"
+},
+{
+"text": "[no text]",
+"href": "mailto:treysherwood@gmail.com"
+}
 ]

@@ -1,38 +1,182 @@
 [
-"http://tiktok.com/@weinforky5",
-"http://x.com/weinforky5",
-"https://aclc.org/wp-content/uploads/2025/02/Reclamation-Report-feb-2025.pdf",
-"https://americanprogress.org/article/tackling-the-opioid-crisis-requires-a-whole-of-government-society-wide-approach",
-"https://americanprogress.org/wp-content/uploads/sites/2/2025/11/2025.11.24-CAP-housing-report2025.pdf",
-"https://bsky.app/profile/weinforky5.bsky.social",
-"https://campaignzero.org/",
-"https://congress.gov/bill/119th-congress/house-bill/2483",
-"https://congress.gov/bill/119th-congress/house-bill/4669",
-"https://congress.gov/bill/119th-congress/house-bill/6060",
-"https://congress.gov/bill/119th-congress/house-bill/894",
-"https://congress.gov/bill/119th-congress/senate-bill/2110",
-"https://congress.gov/bill/119th-congress/senate-bill/351",
-"https://corpsnetwork.org/about-us/history",
-"https://drugpolicy.org/resource/federal-cuts-threaten-overdose-prevention",
-"https://facebook.com/61585167021531",
-"https://govinfo.gov/content/pkg/COMPS-1574/pdf/COMPS-1574.pdf",
-"https://instagram.com/weinforky5",
-"https://kentuckypress.com/9780813150963/who-owns-appalachia",
-"https://kentuckypress.com/9781985903197/toward-just-transitions",
-"https://pbs.org/wgbh/americanexperience/features/surviving-the-dust-bowl-works-progress-administration-wpa",
-"https://reimagineappalachia.org/community-benefits",
-"https://weinforky5.com/",
-"https://weinforky5.com/about-me",
-"https://weinforky5.com/donate",
-"https://weinforky5.com/futures",
-"https://weinforky5.com/healthcare",
-"https://weinforky5.com/integrity",
-"https://weinforky5.com/jobs",
-"https://weinforky5.com/resources",
-"https://weinforky5.com/security",
-"https://weinforky5.com/wealth",
-"https://weku.org/2025-11-20/kentucky-coal-production-fell-14-in-2024-mines-now-under-100",
-"https://weku.org/amsn/2025-11-20/in-eastern-kentucky-locals-try-to-reverse-decline-by-revitalizing-community-spaces",
-"https://wix.com/",
-"https://youtube.com/@weinforky5"
+{
+"text": "2023 report",
+"href": "https://www.americanprogress.org/article/tackling-the-opioid-crisis-requires-a-whole-of-government-society-wide-approach/"
+},
+{
+"text": "About Me",
+"href": "https://www.weinforky5.com/about-me"
+},
+{
+"text": "Beliefs",
+"href": "https://www.weinforky5.com"
+},
+{
+"text": "Campaign Zero",
+"href": "https://campaignzero.org/"
+},
+{
+"text": "Civilian Conservation Corps",
+"href": "https://corpsnetwork.org/about-us/history/"
+},
+{
+"text": "Community Benefits Agreement",
+"href": "https://reimagineappalachia.org/community-benefits/"
+},
+{
+"text": "Connect with Me",
+"href": "https://www.weinforky5.com"
+},
+{
+"text": "Donate",
+"href": "https://www.weinforky5.com/donate"
+},
+{
+"text": "Drug Policy Alliance tracker",
+"href": "https://drugpolicy.org/resource/federal-cuts-threaten-overdose-prevention/"
+},
+{
+"text": "FEMA Act of 2025",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4669"
+},
+{
+"text": "Futures",
+"href": "https://www.weinforky5.com/futures"
+},
+{
+"text": "Healthcare",
+"href": "https://www.weinforky5.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.weinforky5.com"
+},
+{
+"text": "Integrity",
+"href": "https://www.weinforky5.com/integrity"
+},
+{
+"text": "Jobs",
+"href": "https://www.weinforky5.com/jobs"
+},
+{
+"text": "Keeping Drugs Out of Schools Act",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/894"
+},
+{
+"text": "Policies",
+"href": "https://www.weinforky5.com"
+},
+{
+"text": "REUSE Act of 2025",
+"href": "https://www.congress.gov/bill/119th-congress/senate-bill/2110"
+},
+{
+"text": "Resources",
+"href": "https://www.weinforky5.com/resources"
+},
+{
+"text": "SAFE Taps Act",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6060/"
+},
+{
+"text": "STEWARD Act of 2025",
+"href": "https://www.congress.gov/bill/119th-congress/senate-bill/351/"
+},
+{
+"text": "SUPPORT for Patients and Communities Reauthorization",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2483/"
+},
+{
+"text": "Security",
+"href": "https://www.weinforky5.com/security"
+},
+{
+"text": "Surface Mining Control and Reclamation Act",
+"href": "https://www.govinfo.gov/content/pkg/COMPS-1574/pdf/COMPS-1574.pdf"
+},
+{
+"text": "Toward Just Transitions",
+"href": "https://www.kentuckypress.com/9781985903197/toward-just-transitions/"
+},
+{
+"text": "Wealth",
+"href": "https://www.weinforky5.com/wealth"
+},
+{
+"text": "Welcome",
+"href": "https://www.weinforky5.com"
+},
+{
+"text": "Who Owns Appalachia",
+"href": "https://www.kentuckypress.com/9780813150963/who-owns-appalachia/"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "Works Progress Administration",
+"href": "https://www.pbs.org/wgbh/americanexperience/features/surviving-the-dust-bowl-works-progress-administration-wpa/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/61585167021531"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/weinforky5/"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://tiktok.com/@weinforky5"
+},
+{
+"text": "[image: X ]",
+"href": "http://x.com/weinforky5"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@weinforky5"
+},
+{
+"text": "[image]",
+"href": "https://bsky.app/profile/weinforky5.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.weinforky5.com"
+},
+{
+"text": "declining coal production",
+"href": "https://www.weku.org/2025-11-20/kentucky-coal-production-fell-14-in-2024-mines-now-under-100"
+},
+{
+"text": "fentanyl in 2023",
+"href": "https://www.americanprogress.org/article/tackling-the-opioid-crisis-requires-a-whole-of-government-society-wide-approach/"
+},
+{
+"text": "https://www.weinforky5.com/",
+"href": "https://www.weinforky5.com"
+},
+{
+"text": "mikelforky5",
+"href": "https://www.weinforky5.com"
+},
+{
+"text": "ower housing costs",
+"href": "https://www.americanprogress.org/wp-content/uploads/sites/2/2025/11/2025.11.24-CAP-housing-report2025.pdf"
+},
+{
+"text": "revitalizing community spaces",
+"href": "https://www.weku.org/amsn/2025-11-20/in-eastern-kentucky-locals-try-to-reverse-decline-by-revitalizing-community-spaces"
+},
+{
+"text": "strip mine reclamation",
+"href": "https://aclc.org/wp-content/uploads/2025/02/Reclamation-Report-feb-2025.pdf"
+},
+{
+"text": "tackling the opioid addiction crisis",
+"href": "https://www.americanprogress.org/article/tackling-the-opioid-crisis-requires-a-whole-of-government-society-wide-approach/"
+}
 ]

@@ -1,25 +1,106 @@
 [
-"https://google.com/calendar/event?action=TEMPLATE&dates=20261020T190000%2F20261020T190000&text=10%2F20+%26%238211%3B+General+Debate+%26%238211%3B+New+England+College%2C+Henniker%2C+7pm&details=%3Cspan+data-olk-copy-source%3D%22MessageBody%22%3E10%2F20+General+Election+Debate+hosted+by+%3C%2Fspan%3ENew+England+College%2C+in+Henniker%2C+7pm%3Cspan+data-olk-copy-source%3D%22MessageBody%22%3E+%28not+yet+confirmed+by+Maggie+Goodlander%29%3C%2Fspan%3E&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwww.lilytangwilliams.com%2Fcongress",
-"https://lilytangwilliams.com/congress",
-"https://lilytangwilliams.com/congress/about",
-"https://lilytangwilliams.com/congress/campaign-blog",
-"https://lilytangwilliams.com/congress/campaign-photos",
-"https://lilytangwilliams.com/congress/contact-us",
-"https://lilytangwilliams.com/congress/donate",
-"https://lilytangwilliams.com/congress/endorsements",
-"https://lilytangwilliams.com/congress/event/10-19-greater-nashua-chamber-eggs-business-issues-candidate-forum-nashua",
-"https://lilytangwilliams.com/congress/event/team-lily-keene-city-republican-committee-meeting-2",
-"https://lilytangwilliams.com/congress/events",
-"https://lilytangwilliams.com/congress/events/category/lily-attending",
-"https://lilytangwilliams.com/congress/issues",
-"https://lilytangwilliams.com/congress/lilys-affordability-plan",
-"https://lilytangwilliams.com/congress/parents-for-lily",
-"https://lilytangwilliams.com/congress/press-releases",
-"https://lilytangwilliams.com/congress/privacy-policy",
-"https://lilytangwilliams.com/congress/request-yard-sign",
-"https://lilytangwilliams.com/congress/small-businesses-for-lily",
-"https://lilytangwilliams.com/congress/veterans-for-lily",
-"https://lilytangwilliams.com/congress/volunteer",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-10-20T19%3A00%3A00&enddt=2026-10-20T19%3A00%3A00&subject=10%2F20+-+General+Debate+-+New+England+College%2C+Henniker%2C+7pm&body=10%2F20+General+Election+Debate+hosted+by+New+England+College%2C+in+Henniker%2C+7pm+%28not+yet+confirmed+by+Maggie+Goodlander%29",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-10-20T19%3A00%3A00&enddt=2026-10-20T19%3A00%3A00&subject=10%2F20+-+General+Debate+-+New+England+College%2C+Henniker%2C+7pm&body=10%2F20+General+Election+Debate+hosted+by+New+England+College%2C+in+Henniker%2C+7pm+%28not+yet+confirmed+by+Maggie+Goodlander%29"
+{
+"text": "Campaign Pictures",
+"href": "https://www.lilytangwilliams.com/congress/campaign-photos/"
+},
+{
+"text": "Contact",
+"href": "https://www.lilytangwilliams.com/congress/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://www.lilytangwilliams.com/congress/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lilytangwilliams.com/congress/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20261020T190000%2F20261020T190000&text=10%2F20+%26%238211%3B+General+Debate+%26%238211%3B+New+England+College%2C+Henniker%2C+7pm&details=%3Cspan+data-olk-copy-source%3D%22MessageBody%22%3E10%2F20+General+Election+Debate+hosted+by+%3C%2Fspan%3ENew+England+College%2C+in+Henniker%2C+7pm%3Cspan+data-olk-copy-source%3D%22MessageBody%22%3E+%28not+yet+confirmed+by+Maggie+Goodlander%29%3C%2Fspan%3E&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwww.lilytangwilliams.com%2Fcongress"
+},
+{
+"text": "Join",
+"href": "https://www.lilytangwilliams.com/congress/volunteer/"
+},
+{
+"text": "Lily’s Affordability Plan",
+"href": "https://www.lilytangwilliams.com/congress/lilys-affordability-plan/"
+},
+{
+"text": "Lily’s Priorities",
+"href": "https://www.lilytangwilliams.com/congress/issues/"
+},
+{
+"text": "Lily’s Story",
+"href": "https://www.lilytangwilliams.com/congress/about/"
+},
+{
+"text": "News",
+"href": "https://www.lilytangwilliams.com/congress/campaign-blog/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T19%3A00%3A00&enddt=%23T19%3A00%3A00&location=&subject=10%2F20+-+General+Debate+-+New+England+College%2C+Henniker%2C+7pm&body=10%2F20+General+Election+Debate+hosted+by+New+England+College%2C+in+Henniker%2C+7pm+%28not+yet+confirmed+by+Maggie+Goodlander%29"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T19%3A00%3A00&enddt=%23T19%3A00%3A00&location=&subject=10%2F20+-+General+Debate+-+New+England+College%2C+Henniker%2C+7pm&body=10%2F20+General+Election+Debate+hosted+by+New+England+College%2C+in+Henniker%2C+7pm+%28not+yet+confirmed+by+Maggie+Goodlander%29"
+},
+{
+"text": "Parents for Lily",
+"href": "https://www.lilytangwilliams.com/congress/parents-for-lily/"
+},
+{
+"text": "Press Releases",
+"href": "https://www.lilytangwilliams.com/congress/press-releases/"
+},
+{
+"text": "Priorities",
+"href": "https://www.lilytangwilliams.com/congress/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lilytangwilliams.com/congress/privacy-policy/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://www.lilytangwilliams.com/congress/request-yard-sign/"
+},
+{
+"text": "Small Businesses for Lily",
+"href": "https://www.lilytangwilliams.com/congress/small-businesses-for-lily/"
+},
+{
+"text": "TEAM LILY – Keene City Republican Committee Meeting »",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-keene-city-republican-committee-meeting-2/"
+},
+{
+"text": "Veterans for Lily",
+"href": "https://www.lilytangwilliams.com/congress/veterans-for-lily/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lilytangwilliams.com/congress/volunteer/"
+},
+{
+"text": "[image: Lily Tang Williams for Congress]",
+"href": "https://www.lilytangwilliams.com/congress/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.lilytangwilliams.com/congress/event/10-20-general-debate-new-england-college-henniker-7pm/?ical=1"
+},
+{
+"text": "« 10/19 – Greater Nashua Chamber “Eggs & Business Issues” Candidate Forum – Nashua",
+"href": "https://www.lilytangwilliams.com/congress/event/10-19-greater-nashua-chamber-eggs-business-issues-candidate-forum-nashua/"
+},
+{
+"text": "« All Events",
+"href": "https://www.lilytangwilliams.com/congress/events/"
+}
 ]

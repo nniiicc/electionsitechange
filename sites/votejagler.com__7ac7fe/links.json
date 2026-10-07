@@ -1,12 +1,42 @@
 [
-"https://godaddy.com/websites/website-builder?cvosrc=assets.wsb_badge.wsb_badge",
-"https://votejagler.com/about-1.html",
-"https://votejagler.com/contact-us.html",
-"https://votejagler.com/donate.html",
-"https://votejagler.com/home.html",
-"https://votejagler.com/nomination-papers.html",
-"https://votejagler.com/nomination-papers2.html",
-"https://votejagler.com/nomination-papers3.html",
-"https://votejagler.com/request-a-yard-sign.html",
-"https://votejagler.com/volunteer.html"
+{
+"text": "About",
+"href": "https://www.votejagler.com/about-1.html"
+},
+{
+"text": "Contact Us",
+"href": "https://www.votejagler.com/contact-us.html"
+},
+{
+"text": "Donate",
+"href": "https://www.votejagler.com/donate.html"
+},
+{
+"text": "Home",
+"href": "https://www.votejagler.com/home.html"
+},
+{
+"text": "Nomination Papers",
+"href": "https://www.votejagler.com/nomination-papers.html"
+},
+{
+"text": "Nomination Papers",
+"href": "https://www.votejagler.com/nomination-papers2.html"
+},
+{
+"text": "Nomination Papers",
+"href": "https://www.votejagler.com/nomination-papers3.html"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.votejagler.com/request-a-yard-sign.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votejagler.com/volunteer.html"
+},
+{
+"text": "[image]",
+"href": "https://www.godaddy.com/websites/website-builder?cvosrc=assets.wsb_badge.wsb_badge"
+}
 ]

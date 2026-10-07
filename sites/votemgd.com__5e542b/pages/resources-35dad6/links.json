@@ -1,18 +1,78 @@
 [
-"http://x.com/mgdawicki",
-"https://facebook.com/mgdawicki",
-"https://facebook.com/votemorgandawicki",
-"https://goodreads.com/user/show/189534008-morgan-dawicki",
-"https://instagram.com/mgdawicki",
-"https://instagram.com/votemorgandawicki",
-"https://morgangifforddawicki.substack.com/",
-"https://open.spotify.com/playlist/3h2GXIT6RN13xtLFRSLG7H?si=9abcbc641b50475c",
-"https://vote.gov/",
-"https://votemgd.com/",
-"https://votemgd.com/donate",
-"https://votemgd.com/issues",
-"https://votemgd.com/meet-morgan-dawicki",
-"https://votemgd.com/resources",
-"https://votemgd.com/volunteer",
-"https://x.com/mgdawicki"
+{
+"text": "Blog",
+"href": "https://morgangifforddawicki.substack.com/"
+},
+{
+"text": "DONATE",
+"href": "https://votemgd.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://votemgd.com/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://votemgd.com/volunteer/"
+},
+{
+"text": "Get Started",
+"href": "https://vote.gov/"
+},
+{
+"text": "Issues",
+"href": "https://votemgd.com/issues/"
+},
+{
+"text": "Listen Now",
+"href": "https://open.spotify.com/playlist/3h2GXIT6RN13xtLFRSLG7H?si=9abcbc641b50475c"
+},
+{
+"text": "Meet Morgan",
+"href": "https://votemgd.com/meet-morgan-dawicki/"
+},
+{
+"text": "Meet Morgan Dawicki",
+"href": "https://votemgd.com/meet-morgan-dawicki/"
+},
+{
+"text": "Read Now",
+"href": "https://www.goodreads.com/user/show/189534008-morgan-dawicki"
+},
+{
+"text": "Resources",
+"href": "https://votemgd.com/resources/"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/mgdawicki"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mgdawicki"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votemorgandawicki"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mgdawicki/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votemorgandawicki"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mgdawicki"
+}
 ]

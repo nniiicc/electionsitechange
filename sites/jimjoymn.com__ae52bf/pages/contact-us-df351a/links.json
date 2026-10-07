@@ -1,6 +1,22 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://jimjoymn.com/",
-"https://jimjoymn.com/contact-us",
-"https://jimjoymn.com/issues"
+{
+"text": "Contact Us",
+"href": "https://jimjoymn.com/contact-us"
+},
+{
+"text": "Home",
+"href": "https://jimjoymn.com/"
+},
+{
+"text": "[image: Jim Joy MN]",
+"href": "https://jimjoymn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "issues",
+"href": "https://jimjoymn.com/issues"
+}
 ]

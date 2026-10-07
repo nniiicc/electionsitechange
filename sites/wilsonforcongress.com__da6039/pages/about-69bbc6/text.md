@@ -1,8 +1,4 @@
-Common Sense - Not Nonsense
-Life, Liberty, and the Pursuit of Happiness
-ABOUT JEFF
-WILSON
-Jeff Wilson is a U.S.
+top of page DONATE NOW TO HELP ELECT JEFF WILSON HOME MEET JEFF ISSUES ENDORSEMENTS NEWS JOIN EVENTS CONTACT DONATE ON WINRED DONATE ON ANEDOT Common Sense - Not Nonsense Life, Liberty, and the Pursuit of Happiness ABOUT JEFF WILSON Jeff Wilson is a U.S.
 Navy Veteran, public servant, proven leader, and Republican running for Congress to support President Trump with America First policies.
 As a former crew member on a nuclear-powered submarine and past U.S.
 Naval Reserve commissioned officer, Jeff gained invaluable leadership qualifications in strategic planning and crisis management.
@@ -17,3 +13,4 @@ His background gives him a unique perspective on veterans’ issues, public safe
 He decided to run for Congress because he wanted to bring principled leadership and a results-oriented approach to Washington, grounded in his lifelong commitment to Christian faith.
 Jeff is running for Congress to restore American values, work with President Trump to continue to secure our borders, make the economy work for all, and protect individual freedoms in the Land of Lincoln.
 He is dedicated to serving with integrity and honor and has a clear vision for a stronger Illinois and a stronger America.
+JOIN TEAM WILSON PRIVACY POLICY TERMS & CONDITIONS Paid for by Wilson for Congress bottom of page

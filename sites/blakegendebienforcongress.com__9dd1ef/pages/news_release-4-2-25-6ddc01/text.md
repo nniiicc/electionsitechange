@@ -1,14 +1,10 @@
-North Country Dairy Farmer and NY-21 Candidate Blake Gendebien’s Statement on New Tariffs
-April 2, 2025
-Lisbon, NY – Today, dairy farmer and congressional candidate for NY-21 Blake Gendebien issued the following statement on yesterday’s tariff announcement:
-“I agree that increasing American manufacturing should be the goal of every administration, but that cannot come on the backs of hardworking families in the North Country.
+Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate North Country Dairy Farmer and NY-21 Candidate Blake Gendebien’s Statement on New Tariffs April 2, 2025 Press Release Lisbon, NY – Today, dairy farmer and congressional candidate for NY-21 Blake Gendebien issued the following statement on yesterday’s tariff announcement: “I agree that increasing American manufacturing should be the goal of every administration, but that cannot come on the backs of hardworking families in the North Country.
 These tariffs will raise costs on food, fuel, and energy for the North Country, raising costs for families, farmers, and seniors who are already struggling to get by.
 “As a dairy farmer, I’ve already been notified that the price of livestock feed is going up, and we aren’t the only ones bracing for rising costs.
 These tariffs mean uncertainty for farmers and businesses and higher prices for everyone in our community.
 “I am running for Congress because politicians in Washington have done nothing to lower costs in the North Country.
-Let’s focus on things that actually work to bring back American manufacturing: supporting our labor unions, investing in trade schools like the BOCES program, and building more factories in the North Country.”
-###
-Born and raised on a farm in the North Country, Blake and his wife Carmen have raised their three sons on the Twin Mill Farm in Lisbon, growing the farm to 500 head of cattle.
+Let’s focus on things that actually work to bring back American manufacturing: supporting our labor unions, investing in trade schools like the BOCES program, and building more factories in the North Country.” ### Born and raised on a farm in the North Country, Blake and his wife Carmen have raised their three sons on the Twin Mill Farm in Lisbon, growing the farm to 500 head of cattle.
 Blake and Carmen also started The Jules of Life Foundation, which provides resources and support to North Country families battling pediatric cancer.
 For the past 10 years, Blake has served as the Vice Chair of the Cooperative Board of Agri-Mark where he represented the interests of farmers from across the region.
 He is a former member of the Lisbon Central School Board, and was a longtime junior varsity basketball coach.
+Donate Paid for by Blake for The North Country General Inquiries: info@blakeforny.com Press Inquiries: press@blakeforny.com Blake for The North Country PO Box 39, Lisbon, NY 13658 Privacy Policy Copyright © # ↑

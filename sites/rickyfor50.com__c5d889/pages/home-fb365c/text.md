@@ -1,4 +1,4 @@
-Florida is in crisis ̶ and House District 50 is living at the epicenter of it.
+Home/ Inicio Meet Ricky/ Conoce a Ricky Events/ Eventos Issues/ Temas de Campaña Contribute/ Contribuye Volunteer/ Voluntarios Yard Signs Florida is in crisis ̶ and House District 50 is living at the epicenter of it.
 The cost of living has gone through the roof.
 Working families are living through hell, forced to choose between buying food or paying rent, between medicine or keeping the lights on.
 Wages aren’t rising, but layoffs are.
@@ -64,3 +64,6 @@ Esta campaña es para defender la democracia, proteger al trabajador, a nuestras
 Juntos vamos a quitarle el control a Tallahassee y a devolverselo a nuestra comunidad.
 Nuestros residentes conocen mejor las políticas que los benefician.
 Distrito 50 La ayuda está en camino!
+Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+Endorsements Yard Signs Events/ Eventos Photos Contact/ Contáctanos Committee to Elect Ricky Santiago for FL House Dist.50 Powered by CampaignPartner.com - Political Campaign Websites Home/ Inicio Meet Ricky/ Conoce a Ricky Issues/ Temas de Campaña Endorsements Contribute/ Contribuye Volunteer/ Voluntarios Yard Signs Events/ Eventos Contact/ Contáctanos Close Menu

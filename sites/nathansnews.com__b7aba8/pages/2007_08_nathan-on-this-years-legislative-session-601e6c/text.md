@@ -1,11 +1,7 @@
-“If I’m tired of it, I’m sure the rest of the state is tired of it,” said Rep.
+Skip to content Nathan Ballentine People, not Politics About Issues Nathan’s News Get Involved Contact Donate August 30, 2007 Nathan on this year's legislative session “If I’m tired of it, I’m sure the rest of the state is tired of it,” said Rep.
 Nathan Ballentine, R-Richland, a Sanford ally.
 “I saw some progress this year, and then all of a sudden, it falls apart.
-I thought we (legislators) had delivered on our promises.”
-The State | Sanford and legislature still on unfriendly terms
-Governor says elections next year may hold key to pushing agenda
-JOHN O’CONNOR
-Despite an August that’s seen a string of defeats at the hands of the legislature, Gov.
+I thought we (legislators) had delivered on our promises.” The State | Sanford and legislature still on unfriendly terms Governor says elections next year may hold key to pushing agenda JOHN O’CONNOR Despite an August that’s seen a string of defeats at the hands of the legislature, Gov.
 Mark Sanford is optimistic he can push his agenda forward over his last three years in office.
 A key, by Republican Sanford’s estimation, is having more like-minded lawmakers in the GOP-controlled General Assembly.
 Next year’s elections, Sanford said, will be critical for building support for his agenda in the State House.
@@ -14,16 +10,13 @@ Sanford, who has $1.7 million left from his re-election campaign last year and t
 But it’s clear Sanford is hoping to see new blood in the General Assembly.
 “Maybe one more election cycle we’ll have enough members to affect the (Republican) caucus,” Sanford said.
 “Are the numbers accruing in our direction?
-Absolutely.”
-Such talk frustrates some Republican lawmakers.
+Absolutely.” Such talk frustrates some Republican lawmakers.
 Sanford, they said, is planning to target their colleagues in elections, refusing to work hard on behalf of legislation and reneging on pledges.
 “I think it’s difficult to expect a legislator who has been targeted,” House Speaker Bobby Harrell said, “to come back in the legislative session and support Gov.
-Sanford.”
-State Sen.
+Sanford.” State Sen.
 Yancey McGill, D-Williamsburg, said Sanford needs to sit down with lawmakers and work with them, a sentiment repeated throughout Sanford’s five-year tenure.
 “I’m not sure he really wants a relationship with the General Assembly,” McGill said.
-“I’d have never thought you’d see Republicans fighting Republicans in this state.”
-Despite years of friction, Sanford sees things changing in the General Assembly.
+“I’d have never thought you’d see Republicans fighting Republicans in this state.” Despite years of friction, Sanford sees things changing in the General Assembly.
 A group of like-minded House freshmen, elected last year, prove his message of low taxes and streamlining state government is reaching state residents, he said.
 One of those freshmen, Rep.
 Mick Mulvaney, R-Lancaster, agrees, likening Sanford to Barry Goldwater.
@@ -38,8 +31,7 @@ Converse Chellis, R-Dorchester, to replace Thomas Ravenel as treasurer.
 Sanford’s hand-picked candidate for the post, Tim Scott, was not even nominated by legislators.
 The final 122-24 legislative vote for Chellis seemed to put the Sanford-legislature relationship at an all-time low.
 Then, Chellis and the two legislative members of the State Budget and Control Board chose Frank Fusco as that agency’s new executive director.
-(Fusco had stepped down from the post in January, under pressure from pro-Sanford forces.)
-Those decisions erased the influence Sanford had gained by naming his former chief of staff to head the budget agency in January.
+(Fusco had stepped down from the post in January, under pressure from pro-Sanford forces.) Those decisions erased the influence Sanford had gained by naming his former chief of staff to head the budget agency in January.
 Legislatively, this year has been hit and miss for Sanford, who won re-election by 10 percentage points last November.
 Sanford successfully pushed for income tax cuts, workers’ compensation changes and Transportation Department reform.
 But the Senate also shut down Sanford’s restructuring plan early in the session.
@@ -55,19 +47,25 @@ At the height of his power, Roosevelt set out to defeat a group of fellow Democr
 “He failed in every single primary,” Sabato said.
 “It’s a dangerous business.
 Maybe (Sanford) can pull it off.
-But if Franklin Roosevelt couldn’t do it at the peak of his power as president of the United States, one wonders if Mark Sanford can do it.”
-So far, Sanford’s legislative endorsement has carried little weight.
+But if Franklin Roosevelt couldn’t do it at the peak of his power as president of the United States, one wonders if Mark Sanford can do it.” So far, Sanford’s legislative endorsement has carried little weight.
 This year, for instance, Catherine Ceips easily won a vacant Senate seat despite Sanford’s support for her opponent.
 And, last year, groups sympathetic to Sanford scored few successes in ousting targeted House members.
-A new approach
-Sanford said he has adjusted his approach with lawmakers — opting against sweeping changes proposed in the past, a technique he refers to as “rifle shots.” The key is to repeat the message, he said, using examples such as the Budget and Control Board, which marks up fees that it charges other state agencies for services.
+A new approach Sanford said he has adjusted his approach with lawmakers — opting against sweeping changes proposed in the past, a technique he refers to as “rifle shots.” The key is to repeat the message, he said, using examples such as the Budget and Control Board, which marks up fees that it charges other state agencies for services.
 “You have to have flexibility in accepting whatever course,” Sanford said.
 “We tried inside meetings.
 We tried going outside the system.
-You try sugar, you try spice.”
-But some lawmakers said the bickering between the legislative and executive branches has prevented progress.
+You try sugar, you try spice.” But some lawmakers said the bickering between the legislative and executive branches has prevented progress.
 “If I’m tired of it, I’m sure the rest of the state is tired of it,” said Rep.
 Nathan Ballentine, R-Richland, a Sanford ally.
 “I saw some progress this year, and then all of a sudden, it falls apart.
-I thought we (legislators) had delivered on our promises.” — State staff writer Aaron Gould Sheinin contributed
-John O’Connor: 803-771-8358; joconnor@thestate.com.
+I thought we (legislators) had delivered on our promises.” — State staff writer Aaron Gould Sheinin contributed John O’Connor: 803-771-8358; joconnor@thestate.com.
+Post navigation Nathan on education COMMUNITY UPDATE: August 2007 Comments are closed.
+Latest News Campaign Update – 4 weeks til Election Day Campaign signs are going up!
+Let me know where to deliver yours!
+Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Ahead of schedule, eyesore removed (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
+Opt-in By submitting this form and signing up for texts, you consent to receive marketing, donation asks, and informational messages from Nathan Ballentine for State House.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy & Terms: https://nathansnews.com/privacy-policy/ Submit Δ Contact Nathan’s News Privacy Policy Donate Paid for by Nathan Ballentine, SC House of Representatives Powered By Push Digital Search for: Search Button

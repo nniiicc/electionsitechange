@@ -1,124 +1,914 @@
 [
-"http://cherylkagan.org/in-the-news",
-"http://cherylkagan.org/ng911",
-"https://cherylkagan.org/",
-"https://cherylkagan.org/2017/07/17",
-"https://cherylkagan.org/2017/07/24",
-"https://cherylkagan.org/2017/10/03",
-"https://cherylkagan.org/2018/07/17",
-"https://cherylkagan.org/2018/09/17",
-"https://cherylkagan.org/2018/09/21",
-"https://cherylkagan.org/2018/10/03",
-"https://cherylkagan.org/2018/12/03",
-"https://cherylkagan.org/2019/04/30",
-"https://cherylkagan.org/2019/12/01",
-"https://cherylkagan.org/2020/01/06",
-"https://cherylkagan.org/2020/01/13",
-"https://cherylkagan.org/2020/02/05",
-"https://cherylkagan.org/2020/02/07",
-"https://cherylkagan.org/2020/02/19",
-"https://cherylkagan.org/2020/03/09",
-"https://cherylkagan.org/2020/08/25",
-"https://cherylkagan.org/2020/08/27",
-"https://cherylkagan.org/2020/09/30",
-"https://cherylkagan.org/2020/10/20",
-"https://cherylkagan.org/2020/11/16",
-"https://cherylkagan.org/2021/02/17",
-"https://cherylkagan.org/2021/03/08",
-"https://cherylkagan.org/2021/03/31",
-"https://cherylkagan.org/2021/05/04",
-"https://cherylkagan.org/2021/05/13",
-"https://cherylkagan.org/2021/05/14",
-"https://cherylkagan.org/2021/10/08",
-"https://cherylkagan.org/2021/11/15",
-"https://cherylkagan.org/2021/12/03",
-"https://cherylkagan.org/2022/06/01",
-"https://cherylkagan.org/2022/06/14",
-"https://cherylkagan.org/2022/07/18",
-"https://cherylkagan.org/2022/11/09",
-"https://cherylkagan.org/2023/02/14",
-"https://cherylkagan.org/2024/01/26",
-"https://cherylkagan.org/2024/09/05",
-"https://cherylkagan.org/2024/10/08",
-"https://cherylkagan.org/2025/02/03",
-"https://cherylkagan.org/2025/05/20",
-"https://cherylkagan.org/2025/11/03",
-"https://cherylkagan.org/2026/02/19",
-"https://cherylkagan.org/2026/02/26",
-"https://cherylkagan.org/2026/03/11",
-"https://cherylkagan.org/2026/03/17",
-"https://cherylkagan.org/4391-2",
-"https://cherylkagan.org/4512-2",
-"https://cherylkagan.org/4710-2",
-"https://cherylkagan.org/9-1-1-commission-meeting-thursday",
-"https://cherylkagan.org/9-1-1-texting-in-md-begins-today-august-20-2020",
-"https://cherylkagan.org/about",
-"https://cherylkagan.org/bio",
-"https://cherylkagan.org/casework",
-"https://cherylkagan.org/category/annapolis-update",
-"https://cherylkagan.org/category/news",
-"https://cherylkagan.org/category/press-releases",
-"https://cherylkagan.org/category/uncategorized",
-"https://cherylkagan.org/community-resources",
-"https://cherylkagan.org/community-updates",
-"https://cherylkagan.org/constituent-services",
-"https://cherylkagan.org/contact",
-"https://cherylkagan.org/email-sign-up",
-"https://cherylkagan.org/emergency-election-legislation",
-"https://cherylkagan.org/fourth-final-unnaugural-concert",
-"https://cherylkagan.org/gov-hogan-should-step-up",
-"https://cherylkagan.org/human-resources-links",
-"https://cherylkagan.org/jobs",
-"https://cherylkagan.org/language-access-10-03-17",
-"https://cherylkagan.org/legislative-overview",
-"https://cherylkagan.org/press-release-9-1-1-comm-launches-4th-final-year",
-"https://cherylkagan.org/press-release-9-1-1-commission-begins-its-work-thursday",
-"https://cherylkagan.org/press-release-9-1-1-commission-convenes-to-consider-legislative-recommendations",
-"https://cherylkagan.org/press-release-9-1-1-commission-to-finalize-recommendations-on-monday",
-"https://cherylkagan.org/press-release-9-1-1-commissioners-finalize-2020-recommendations",
-"https://cherylkagan.org/press-release-9-1-1-fee-audits-correcting-the-record",
-"https://cherylkagan.org/press-release-9-1-1-omnibus-bill-hearing-tomorrow",
-"https://cherylkagan.org/press-release-911-hearing",
-"https://cherylkagan.org/press-release-comptroller-franchot-continues-to-neglect-his-job",
-"https://cherylkagan.org/press-release-election-foul-up-again-august-27-2020",
-"https://cherylkagan.org/press-release-election-legislation",
-"https://cherylkagan.org/press-release-enhancing-election-integrity",
-"https://cherylkagan.org/press-release-finally-repealing-mds-state-song",
-"https://cherylkagan.org/press-release-fourth-final-unnaugural-concert",
-"https://cherylkagan.org/press-release-gov-hogan-should-step-up-investigate-kavanaugh-complaint",
-"https://cherylkagan.org/press-release-hearing-for-3-of-sen-kagans-9-1-1-legislation-scheduled-for-tomorrow",
-"https://cherylkagan.org/press-release-j6-heroes-to-testify-tomorrow",
-"https://cherylkagan.org/press-release-kagan-implores-gov-hogan-to-take-emergency-action-related-to-elections",
-"https://cherylkagan.org/press-release-kagan-implores-gov-hogan-to-take-emergency-action-related-to-elections-2",
-"https://cherylkagan.org/press-release-kagan-kibbitzes-with-8-democratic-candidates-for-governor",
-"https://cherylkagan.org/press-release-maryland-finally-goes-foamfree",
-"https://cherylkagan.org/press-release-md-firemen-to-vote-on-new-name-debate-is-unexpectedly-spirited",
-"https://cherylkagan.org/press-release-next-gen-9-1-1-commission-will-convene-for-the-last-time",
-"https://cherylkagan.org/press-release-next-generation-9-1-1-commission-releases-4th-final-report",
-"https://cherylkagan.org/press-release-pardoned-but-not-off-the-hook",
-"https://cherylkagan.org/press-release-scrabble-in-scrabble-va",
-"https://cherylkagan.org/press-release-sen-cheryl-kagan-sponsors-11-election-reform-bills",
-"https://cherylkagan.org/press-release-sen-cheryl-kagan-sponsors-eight-election-reform-bills",
-"https://cherylkagan.org/press-release-sen-kagan-speaks-about-castlebay-video",
-"https://cherylkagan.org/press-release-senator-kagan-speaks-out-metoo",
-"https://cherylkagan.org/press-release-senator-kagan-to-propose-five-bills-related-to-9-1-1-issues-sb285-to-be-heard-in-finance-committee-tomorrow",
-"https://cherylkagan.org/press-release-senator-kagans-freedom-to-serve-act-to-be-heard-in-judicial-proceedings-committee-thursday",
-"https://cherylkagan.org/press-release-state-of-maryland-moves-to-update-9-1-1-system",
-"https://cherylkagan.org/press-release-statewide-3-1-1-bill-on-the-senate-floor-today",
-"https://cherylkagan.org/press-release-successful-hearing-on-9-1-1-funding",
-"https://cherylkagan.org/press-release-this-afternoon",
-"https://cherylkagan.org/press-release-time-to-repeal-mds-state-song",
-"https://cherylkagan.org/press-release-tonights-election-results",
-"https://cherylkagan.org/press-release-workgroup-endorses-statewide-3-1-1-system",
-"https://cherylkagan.org/press-releases",
-"https://cherylkagan.org/ress-release-final-elections-results-will-be-significantly-delayed",
-"https://cherylkagan.org/roadside-drug-testing-legislation-proposed",
-"https://cherylkagan.org/sen-cheryl-kagan-calls-hogan-out-on-latest-ad",
-"https://cherylkagan.org/sen-cheryl-kagan-visits-every-md-9-1-1-center",
-"https://cherylkagan.org/senatorial-scholarships",
-"https://facebook.com/CherylCKagan",
-"https://instagram.com/cherylckagan",
-"https://secure.actblue.com/donate/contribute-to-senator-cheryl-kagan",
-"https://twitter.com/CherylKagan",
-"https://youtube.com/@SenCherylKagan"
+{
+"text": "9-1-1",
+"href": "http://cherylkagan.org/ng911/"
+},
+{
+"text": "9-1-1 Commission Meeting Thursday",
+"href": "https://cherylkagan.org/9-1-1-commission-meeting-thursday/"
+},
+{
+"text": "9-1-1: Texting in MD Begins Today! — August 20, 2020",
+"href": "https://cherylkagan.org/9-1-1-texting-in-md-begins-today-august-20-2020/"
+},
+{
+"text": "About",
+"href": "https://cherylkagan.org/bio"
+},
+{
+"text": "April 30, 2019",
+"href": "https://cherylkagan.org/2019/04/30/"
+},
+{
+"text": "August 25, 2020",
+"href": "https://cherylkagan.org/2020/08/25/"
+},
+{
+"text": "August 27, 2020",
+"href": "https://cherylkagan.org/2020/08/27/"
+},
+{
+"text": "Biography",
+"href": "https://cherylkagan.org/about/"
+},
+{
+"text": "Community Resources",
+"href": "https://cherylkagan.org/community-resources/"
+},
+{
+"text": "Community Updates",
+"href": "https://cherylkagan.org/community-updates/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/4391-2/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/4512-2/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/4710-2/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/9-1-1-commission-meeting-thursday/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/9-1-1-texting-in-md-begins-today-august-20-2020/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/emergency-election-legislation/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/fourth-final-unnaugural-concert/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/gov-hogan-should-step-up/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/language-access-10-03-17/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-9-1-1-comm-launches-4th-final-year/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-9-1-1-commission-begins-its-work-thursday/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-9-1-1-commission-convenes-to-consider-legislative-recommendations/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-9-1-1-commission-to-finalize-recommendations-on-monday/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-9-1-1-commissioners-finalize-2020-recommendations/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-9-1-1-fee-audits-correcting-the-record/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-9-1-1-omnibus-bill-hearing-tomorrow/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-911-hearing/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-comptroller-franchot-continues-to-neglect-his-job/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-election-foul-up-again-august-27-2020/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-election-legislation/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-enhancing-election-integrity/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-finally-repealing-mds-state-song/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-fourth-final-unnaugural-concert/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-gov-hogan-should-step-up-investigate-kavanaugh-complaint/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-hearing-for-3-of-sen-kagans-9-1-1-legislation-scheduled-for-tomorrow/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-j6-heroes-to-testify-tomorrow/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-kagan-implores-gov-hogan-to-take-emergency-action-related-to-elections-2/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-kagan-implores-gov-hogan-to-take-emergency-action-related-to-elections/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-kagan-kibbitzes-with-8-democratic-candidates-for-governor/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-maryland-finally-goes-foamfree/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-md-firemen-to-vote-on-new-name-debate-is-unexpectedly-spirited/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-next-gen-9-1-1-commission-will-convene-for-the-last-time/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-next-generation-9-1-1-commission-releases-4th-final-report/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-pardoned-but-not-off-the-hook/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-scrabble-in-scrabble-va/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-sen-cheryl-kagan-sponsors-11-election-reform-bills/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-sen-cheryl-kagan-sponsors-eight-election-reform-bills/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-sen-kagan-speaks-about-castlebay-video/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-senator-kagan-speaks-out-metoo/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-senator-kagan-to-propose-five-bills-related-to-9-1-1-issues-sb285-to-be-heard-in-finance-committee-tomorrow/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-senator-kagans-freedom-to-serve-act-to-be-heard-in-judicial-proceedings-committee-thursday/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-state-of-maryland-moves-to-update-9-1-1-system/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-statewide-3-1-1-bill-on-the-senate-floor-today/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-successful-hearing-on-9-1-1-funding/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-this-afternoon/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-time-to-repeal-mds-state-song/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-tonights-election-results/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/press-release-workgroup-endorses-statewide-3-1-1-system/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/ress-release-final-elections-results-will-be-significantly-delayed/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/roadside-drug-testing-legislation-proposed/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/sen-cheryl-kagan-calls-hogan-out-on-latest-ad/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/sen-cheryl-kagan-visits-every-md-9-1-1-center/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/contribute-to-senator-cheryl-kagan"
+},
+{
+"text": "December 1, 2019",
+"href": "https://cherylkagan.org/2019/12/01/"
+},
+{
+"text": "December 3, 2018",
+"href": "https://cherylkagan.org/2018/12/03/"
+},
+{
+"text": "December 3, 2021",
+"href": "https://cherylkagan.org/2021/12/03/"
+},
+{
+"text": "District 17 Casework Portal",
+"href": "https://cherylkagan.org/casework/"
+},
+{
+"text": "Email Sign Up",
+"href": "https://cherylkagan.org/email-sign-up/"
+},
+{
+"text": "Emergency Election Legislation",
+"href": "https://cherylkagan.org/emergency-election-legislation/"
+},
+{
+"text": "February 14, 2023",
+"href": "https://cherylkagan.org/2023/02/14/"
+},
+{
+"text": "February 17, 2021",
+"href": "https://cherylkagan.org/2021/02/17/"
+},
+{
+"text": "February 19, 2020",
+"href": "https://cherylkagan.org/2020/02/19/"
+},
+{
+"text": "February 19, 2026",
+"href": "https://cherylkagan.org/2026/02/19/"
+},
+{
+"text": "February 26, 2026",
+"href": "https://cherylkagan.org/2026/02/26/"
+},
+{
+"text": "February 3, 2025",
+"href": "https://cherylkagan.org/2025/02/03/"
+},
+{
+"text": "February 5, 2020",
+"href": "https://cherylkagan.org/2020/02/05/"
+},
+{
+"text": "February 7, 2020",
+"href": "https://cherylkagan.org/2020/02/07/"
+},
+{
+"text": "Fourth & FINAL “UnNaugural” Concert!",
+"href": "https://cherylkagan.org/fourth-final-unnaugural-concert/"
+},
+{
+"text": "Gov. Hogan Should Step Up",
+"href": "https://cherylkagan.org/gov-hogan-should-step-up/"
+},
+{
+"text": "Home",
+"href": "https://cherylkagan.org"
+},
+{
+"text": "Home",
+"href": "https://cherylkagan.org/"
+},
+{
+"text": "Human Resources Links",
+"href": "https://cherylkagan.org/human-resources-links/"
+},
+{
+"text": "January 13, 2020",
+"href": "https://cherylkagan.org/2020/01/13/"
+},
+{
+"text": "January 26, 2024",
+"href": "https://cherylkagan.org/2024/01/26/"
+},
+{
+"text": "January 6, 2020",
+"href": "https://cherylkagan.org/2020/01/06/"
+},
+{
+"text": "Job Descriptions",
+"href": "https://cherylkagan.org/jobs/"
+},
+{
+"text": "July 17, 2017",
+"href": "https://cherylkagan.org/2017/07/17/"
+},
+{
+"text": "July 17, 2018",
+"href": "https://cherylkagan.org/2018/07/17/"
+},
+{
+"text": "July 18, 2022",
+"href": "https://cherylkagan.org/2022/07/18/"
+},
+{
+"text": "July 24, 2017",
+"href": "https://cherylkagan.org/2017/07/24/"
+},
+{
+"text": "June 1, 2022",
+"href": "https://cherylkagan.org/2022/06/01/"
+},
+{
+"text": "June 14, 2022",
+"href": "https://cherylkagan.org/2022/06/14/"
+},
+{
+"text": "Kagan in the News",
+"href": "http://cherylkagan.org/in-the-news/"
+},
+{
+"text": "Legislative & Community Updates",
+"href": "https://cherylkagan.org/category/annapolis-update/"
+},
+{
+"text": "Legislative Session Overviews",
+"href": "https://cherylkagan.org/legislative-overview/"
+},
+{
+"text": "March 11, 2026",
+"href": "https://cherylkagan.org/2026/03/11/"
+},
+{
+"text": "March 17, 2026",
+"href": "https://cherylkagan.org/2026/03/17/"
+},
+{
+"text": "March 31, 2021",
+"href": "https://cherylkagan.org/2021/03/31/"
+},
+{
+"text": "March 8, 2021",
+"href": "https://cherylkagan.org/2021/03/08/"
+},
+{
+"text": "March 9, 2020",
+"href": "https://cherylkagan.org/2020/03/09/"
+},
+{
+"text": "May 13, 2021",
+"href": "https://cherylkagan.org/2021/05/13/"
+},
+{
+"text": "May 14, 2021",
+"href": "https://cherylkagan.org/2021/05/14/"
+},
+{
+"text": "May 20, 2025",
+"href": "https://cherylkagan.org/2025/05/20/"
+},
+{
+"text": "May 4, 2021",
+"href": "https://cherylkagan.org/2021/05/04/"
+},
+{
+"text": "News",
+"href": "https://cherylkagan.org/category/news/"
+},
+{
+"text": "November 15, 2021",
+"href": "https://cherylkagan.org/2021/11/15/"
+},
+{
+"text": "November 16, 2020",
+"href": "https://cherylkagan.org/2020/11/16/"
+},
+{
+"text": "November 3, 2025",
+"href": "https://cherylkagan.org/2025/11/03/"
+},
+{
+"text": "November 9, 2022",
+"href": "https://cherylkagan.org/2022/11/09/"
+},
+{
+"text": "October 20, 2020",
+"href": "https://cherylkagan.org/2020/10/20/"
+},
+{
+"text": "October 3, 2017",
+"href": "https://cherylkagan.org/2017/10/03/"
+},
+{
+"text": "October 3, 2018",
+"href": "https://cherylkagan.org/2018/10/03/"
+},
+{
+"text": "October 8, 2021",
+"href": "https://cherylkagan.org/2021/10/08/"
+},
+{
+"text": "October 8, 2024",
+"href": "https://cherylkagan.org/2024/10/08/"
+},
+{
+"text": "PRESS RELEASE: 9-1-1 Comm Launches 4th & Final Year",
+"href": "https://cherylkagan.org/press-release-9-1-1-comm-launches-4th-final-year/"
+},
+{
+"text": "PRESS RELEASE: 9-1-1 Commission Begins Its Work Thursday",
+"href": "https://cherylkagan.org/press-release-9-1-1-commission-begins-its-work-thursday/"
+},
+{
+"text": "PRESS RELEASE: 9-1-1 Commission Convenes to Consider Legislative Recommendations",
+"href": "https://cherylkagan.org/press-release-9-1-1-commission-convenes-to-consider-legislative-recommendations/"
+},
+{
+"text": "PRESS RELEASE: 9-1-1 Commission to Finalize Recommendations on Monday",
+"href": "https://cherylkagan.org/press-release-9-1-1-commission-to-finalize-recommendations-on-monday/"
+},
+{
+"text": "PRESS RELEASE: 9-1-1 Commissioners Finalize 2020 Recommendations",
+"href": "https://cherylkagan.org/press-release-9-1-1-commissioners-finalize-2020-recommendations/"
+},
+{
+"text": "PRESS RELEASE: 9-1-1 Fee Audits– Correcting the Record",
+"href": "https://cherylkagan.org/press-release-9-1-1-fee-audits-correcting-the-record/"
+},
+{
+"text": "PRESS RELEASE: Comptroller Franchot Continues to Neglect His Job",
+"href": "https://cherylkagan.org/press-release-comptroller-franchot-continues-to-neglect-his-job/"
+},
+{
+"text": "PRESS RELEASE: Election Foul-Up… Again — August 27, 2020",
+"href": "https://cherylkagan.org/press-release-election-foul-up-again-august-27-2020/"
+},
+{
+"text": "PRESS RELEASE: Election Legislation",
+"href": "https://cherylkagan.org/press-release-election-legislation/"
+},
+{
+"text": "PRESS RELEASE: Enhancing Election Integrity",
+"href": "https://cherylkagan.org/press-release-enhancing-election-integrity/"
+},
+{
+"text": "PRESS RELEASE: FINALLY Repealing MD’s State Song!",
+"href": "https://cherylkagan.org/press-release-finally-repealing-mds-state-song/"
+},
+{
+"text": "PRESS RELEASE: Final 9-1-1 Commission Meeting of 2019",
+"href": "https://cherylkagan.org/4512-2/"
+},
+{
+"text": "PRESS RELEASE: Final Elections Results Will Be Significantly Delayed",
+"href": "https://cherylkagan.org/ress-release-final-elections-results-will-be-significantly-delayed/"
+},
+{
+"text": "PRESS RELEASE: Fourth & FINAL “UnNaugural” Concert!",
+"href": "https://cherylkagan.org/press-release-fourth-final-unnaugural-concert/"
+},
+{
+"text": "PRESS RELEASE: GOV. Hogan Should Step Up: Investigate Kavanaugh Complaint",
+"href": "https://cherylkagan.org/press-release-gov-hogan-should-step-up-investigate-kavanaugh-complaint/"
+},
+{
+"text": "PRESS RELEASE: J6 Heroes to Testify Tomorrow",
+"href": "https://cherylkagan.org/press-release-j6-heroes-to-testify-tomorrow/"
+},
+{
+"text": "PRESS RELEASE: KAGAN “KIBBITZES” WITH 8 DEMOCRATIC CANDIDATES FOR GOVERNOR",
+"href": "https://cherylkagan.org/press-release-kagan-kibbitzes-with-8-democratic-candidates-for-governor/"
+},
+{
+"text": "PRESS RELEASE: Kagan Implores Gov. Hogan To Take Emergency Action Related to Elections",
+"href": "https://cherylkagan.org/press-release-kagan-implores-gov-hogan-to-take-emergency-action-related-to-elections-2/"
+},
+{
+"text": "PRESS RELEASE: Kagan Implores Gov. Hogan To Take Emergency Action Related to Elections",
+"href": "https://cherylkagan.org/press-release-kagan-implores-gov-hogan-to-take-emergency-action-related-to-elections/"
+},
+{
+"text": "PRESS RELEASE: MD FireMEN to Vote on New Name: Debate is Unexpectedly Spirited.",
+"href": "https://cherylkagan.org/press-release-md-firemen-to-vote-on-new-name-debate-is-unexpectedly-spirited/"
+},
+{
+"text": "PRESS RELEASE: Maryland (Finally) Goes #FoamFree!",
+"href": "https://cherylkagan.org/press-release-maryland-finally-goes-foamfree/"
+},
+{
+"text": "PRESS RELEASE: NEXT GEN 9-1-1 COMMISSION WILL CONVENE FOR THE LAST TIME",
+"href": "https://cherylkagan.org/press-release-next-gen-9-1-1-commission-will-convene-for-the-last-time/"
+},
+{
+"text": "PRESS RELEASE: Next Generation 9-1-1 Commission Releases 4th & Final Report",
+"href": "https://cherylkagan.org/press-release-next-generation-9-1-1-commission-releases-4th-final-report/"
+},
+{
+"text": "PRESS RELEASE: Pardoned… But Not Off The Hook",
+"href": "https://cherylkagan.org/press-release-pardoned-but-not-off-the-hook/"
+},
+{
+"text": "PRESS RELEASE: Scrabble in Scrabble VA",
+"href": "https://cherylkagan.org/press-release-scrabble-in-scrabble-va/"
+},
+{
+"text": "PRESS RELEASE: Sen. Cheryl Kagan Calls Hogan Out on Latest Ad",
+"href": "https://cherylkagan.org/sen-cheryl-kagan-calls-hogan-out-on-latest-ad/"
+},
+{
+"text": "PRESS RELEASE: Sen. Cheryl Kagan Sponsors 11 Election Reform Bills",
+"href": "https://cherylkagan.org/press-release-sen-cheryl-kagan-sponsors-11-election-reform-bills/"
+},
+{
+"text": "PRESS RELEASE: Sen. Cheryl Kagan Sponsors Eight Election Reform Bills",
+"href": "https://cherylkagan.org/press-release-sen-cheryl-kagan-sponsors-eight-election-reform-bills/"
+},
+{
+"text": "PRESS RELEASE: Sen. Cheryl Kagan Visits Every MD 9-1-1 Center",
+"href": "https://cherylkagan.org/sen-cheryl-kagan-visits-every-md-9-1-1-center/"
+},
+{
+"text": "PRESS RELEASE: State of Maryland Moves to Update 9-1-1 System",
+"href": "https://cherylkagan.org/press-release-state-of-maryland-moves-to-update-9-1-1-system/"
+},
+{
+"text": "PRESS RELEASE: Statewide 3-1-1 Bill on the Senate Floor TODAY",
+"href": "https://cherylkagan.org/press-release-statewide-3-1-1-bill-on-the-senate-floor-today/"
+},
+{
+"text": "PRESS RELEASE: This afternoon: District 17 Incumbents File to Run as a Team",
+"href": "https://cherylkagan.org/press-release-this-afternoon/"
+},
+{
+"text": "PRESS RELEASE: Time to Repeal MD’s State Song!",
+"href": "https://cherylkagan.org/press-release-time-to-repeal-mds-state-song/"
+},
+{
+"text": "PRESS RELEASE: Tonight’s Election Results",
+"href": "https://cherylkagan.org/press-release-tonights-election-results/"
+},
+{
+"text": "PRESS RELEASE: Workgroup Endorses Statewide 3-1-1 System",
+"href": "https://cherylkagan.org/press-release-workgroup-endorses-statewide-3-1-1-system/"
+},
+{
+"text": "Press Release: 9-1-1 Omnibus Bill Hearing Tomorrow",
+"href": "https://cherylkagan.org/press-release-9-1-1-omnibus-bill-hearing-tomorrow/"
+},
+{
+"text": "Press Release: Hearing for 3 of Sen. Kagan’s 9-1-1 Legislation Scheduled for Tomorrow",
+"href": "https://cherylkagan.org/press-release-hearing-for-3-of-sen-kagans-9-1-1-legislation-scheduled-for-tomorrow/"
+},
+{
+"text": "Press Release: Hogan Not Complying with “Language Access” Law",
+"href": "https://cherylkagan.org/language-access-10-03-17/"
+},
+{
+"text": "Press Release: Sen. Kagan Speaks About Castlebay Video",
+"href": "https://cherylkagan.org/press-release-sen-kagan-speaks-about-castlebay-video/"
+},
+{
+"text": "Press Release: Senator Kagan Speaks Out: #MeToo",
+"href": "https://cherylkagan.org/press-release-senator-kagan-speaks-out-metoo/"
+},
+{
+"text": "Press Release: Senator Kagan to Propose Five Bills Related to 9-1-1 Issues SB285 to be heard in Finance Committee Tomorrow",
+"href": "https://cherylkagan.org/press-release-senator-kagan-to-propose-five-bills-related-to-9-1-1-issues-sb285-to-be-heard-in-finance-committee-tomorrow/"
+},
+{
+"text": "Press Release: Senator Kagan’s “Freedom to Serve” Act to be Heard in Judicial Proceedings Committee Thursday",
+"href": "https://cherylkagan.org/press-release-senator-kagans-freedom-to-serve-act-to-be-heard-in-judicial-proceedings-committee-thursday/"
+},
+{
+"text": "Press Release: Successful Hearing on 9-1-1 Funding",
+"href": "https://cherylkagan.org/press-release-successful-hearing-on-9-1-1-funding/"
+},
+{
+"text": "Press Release: Tuesday Hearing on 9-1-1 Funding",
+"href": "https://cherylkagan.org/press-release-911-hearing/"
+},
+{
+"text": "Press Releases",
+"href": "https://cherylkagan.org/category/press-releases/"
+},
+{
+"text": "Press Releases",
+"href": "https://cherylkagan.org/press-releases/"
+},
+{
+"text": "Roadside Drug Testing Legislation Proposed",
+"href": "https://cherylkagan.org/roadside-drug-testing-legislation-proposed/"
+},
+{
+"text": "Scholarships",
+"href": "https://cherylkagan.org/senatorial-scholarships/"
+},
+{
+"text": "September 17, 2018",
+"href": "https://cherylkagan.org/2018/09/17/"
+},
+{
+"text": "September 21, 2018",
+"href": "https://cherylkagan.org/2018/09/21/"
+},
+{
+"text": "September 30, 2020",
+"href": "https://cherylkagan.org/2020/09/30/"
+},
+{
+"text": "September 5, 2024",
+"href": "https://cherylkagan.org/2024/09/05/"
+},
+{
+"text": "Services & Resources",
+"href": "https://cherylkagan.org/constituent-services/"
+},
+{
+"text": "Share Your Thoughts",
+"href": "https://cherylkagan.org/contact/"
+},
+{
+"text": "Statement on SBE Decision to Terminate Wireless Router Plan",
+"href": "https://cherylkagan.org/4710-2/"
+},
+{
+"text": "Uncategorized",
+"href": "https://cherylkagan.org/category/uncategorized/"
+},
+{
+"text": "[image] (410) 841-3134",
+"href": "tel:410-841-3134"
+},
+{
+"text": "[image] Cheryl.Kagan@senate.state.md.us",
+"href": "mailto:Cheryl.Kagan@senate.state.md.us"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/4391-2/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/4512-2/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/4710-2/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/9-1-1-commission-meeting-thursday/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/9-1-1-texting-in-md-begins-today-august-20-2020/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/emergency-election-legislation/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/fourth-final-unnaugural-concert/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/gov-hogan-should-step-up/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/language-access-10-03-17/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-9-1-1-comm-launches-4th-final-year/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-9-1-1-commission-begins-its-work-thursday/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-9-1-1-commission-convenes-to-consider-legislative-recommendations/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-9-1-1-commission-to-finalize-recommendations-on-monday/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-9-1-1-commissioners-finalize-2020-recommendations/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-9-1-1-fee-audits-correcting-the-record/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-9-1-1-omnibus-bill-hearing-tomorrow/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-911-hearing/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-comptroller-franchot-continues-to-neglect-his-job/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-election-foul-up-again-august-27-2020/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-election-legislation/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-enhancing-election-integrity/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-finally-repealing-mds-state-song/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-fourth-final-unnaugural-concert/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-gov-hogan-should-step-up-investigate-kavanaugh-complaint/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-hearing-for-3-of-sen-kagans-9-1-1-legislation-scheduled-for-tomorrow/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-j6-heroes-to-testify-tomorrow/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-kagan-implores-gov-hogan-to-take-emergency-action-related-to-elections-2/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-kagan-implores-gov-hogan-to-take-emergency-action-related-to-elections/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-kagan-kibbitzes-with-8-democratic-candidates-for-governor/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-maryland-finally-goes-foamfree/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-md-firemen-to-vote-on-new-name-debate-is-unexpectedly-spirited/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-next-gen-9-1-1-commission-will-convene-for-the-last-time/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-next-generation-9-1-1-commission-releases-4th-final-report/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-pardoned-but-not-off-the-hook/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-scrabble-in-scrabble-va/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-sen-cheryl-kagan-sponsors-11-election-reform-bills/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-sen-cheryl-kagan-sponsors-eight-election-reform-bills/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-sen-kagan-speaks-about-castlebay-video/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-senator-kagan-speaks-out-metoo/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-senator-kagan-to-propose-five-bills-related-to-9-1-1-issues-sb285-to-be-heard-in-finance-committee-tomorrow/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-senator-kagans-freedom-to-serve-act-to-be-heard-in-judicial-proceedings-committee-thursday/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-state-of-maryland-moves-to-update-9-1-1-system/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-statewide-3-1-1-bill-on-the-senate-floor-today/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-successful-hearing-on-9-1-1-funding/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-this-afternoon/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-time-to-repeal-mds-state-song/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-tonights-election-results/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/press-release-workgroup-endorses-statewide-3-1-1-system/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/ress-release-final-elections-results-will-be-significantly-delayed/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/roadside-drug-testing-legislation-proposed/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/sen-cheryl-kagan-calls-hogan-out-on-latest-ad/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/sen-cheryl-kagan-visits-every-md-9-1-1-center/"
+},
+{
+"text": "[tooltip: Follow Us on Facebook]",
+"href": "https://www.facebook.com/CherylCKagan"
+},
+{
+"text": "[tooltip: Follow Us on Instagram]",
+"href": "https://www.instagram.com/cherylckagan/"
+},
+{
+"text": "[tooltip: Follow Us on Twitter]",
+"href": "https://twitter.com/CherylKagan"
+},
+{
+"text": "[tooltip: Follow Us on Youtube]",
+"href": "https://www.youtube.com/@SenCherylKagan"
+}
 ]

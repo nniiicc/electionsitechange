@@ -1,4 +1,4 @@
-For information about how we collect, use, and share information about you, please see our Privacy Policy.
+Home About Issues News Volunteer Donate Terms and Conditions For information about how we collect, use, and share information about you, please see our Privacy Policy.
 If you subscribe to receive updates or other information from us through our SMS text messaging program, you consent to receive automated text messages from us via your mobile device.
 Subscribers may receive multiple messages a week from client.
 We do not charge for these services.
@@ -13,3 +13,4 @@ No consent is required to buy.
 Msg & data rates may apply.
 Reply HELP for help or STOP to opt-out at any time.
 SMS information is not rented, sold, or shared.
+Thank you for your support! $5 $20 $50 $100 Other Contact the campaign Privacy Policy Terms and Conditions PAID FOR BY MCCLINTOCK FOR CONGRESS

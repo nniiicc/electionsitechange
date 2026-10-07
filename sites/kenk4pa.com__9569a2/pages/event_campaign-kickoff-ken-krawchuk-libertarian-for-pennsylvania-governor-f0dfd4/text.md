@@ -1,7 +1,5 @@
-- This event has passed.
-Campaign Kickoff – Ken Krawchuk, Libertarian for Pennsylvania Governor
-May 16 @ 12:00 pm - 3:00 pm
-Free
-Join Ken Krawchuk, the Libertarian Party gubernatorial candidate, and his running mate John Thomas on the steps of the Harrisburg Capitol Rotunda to help kick off his 2026 campaign for Pennsylvania Governor.
+Home Events Press Releases Issues Education Taxes Elections Abortion Crime Gun Control Drugs Welfare LGBT Environment Constitution Shutdowns Flock Cameras Data Centers Responses to Facebook Questions Volunteer Donate Campaign Songs Socials   Select Page « All Events This event has passed.
+Campaign Kickoff – Ken Krawchuk, Libertarian for Pennsylvania Governor May 16 @ 12:00 pm - 3:00 pm Free MEET KEN – STATEWIDE PUB CRAWL » Join Ken Krawchuk, the Libertarian Party gubernatorial candidate, and his running mate John Thomas on the steps of the Harrisburg Capitol Rotunda to help kick off his 2026 campaign for Pennsylvania Governor.
 The event is free, and the public and media are invited to attend.
 Details about the after-event to come!
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: May 16 Time: 12:00 pm - 3:00 pm Cost: Free Event Tags: 2026 Website: http://KenK4Pa.com Organizers Ken Krawchuk, Libertarian for Governor Amendment 16 Limited Venue Pennsylvania State Capitol N 3rd St Harrisburg , PA 17120 United States + Google Map MEET KEN – STATEWIDE PUB CRAWL » Home Events Press Releases Issues Volunteer Donate Campaign Songs Socials Facebook X RSS Designed by Elegant Themes | Powered by WordPress

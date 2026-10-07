@@ -1,20 +1,18 @@
-REPRESENTATIVE
-MICHAEL SMITH
-Build Strong Local Economies and Spur Job Creation
-Building a strong local economy and ending generational poverty means encouraging economic development, job creation and entrepreneurship.
+top of page REPRESENTATIVE MICHAEL SMITH HOME MEET MICHAEL LEGISLATION ENACTED AND PRESS RELEASES ON THE ISSUES Jobs and the Economy Education and Safety Real Estate Market GET INVOLVED More Use tab to navigate through the menu items.
+DONATE Build Strong Local Economies and Spur Job Creation Building a strong local economy and ending generational poverty means encouraging economic development, job creation and entrepreneurship.
 We need to create the kind of good-paying jobs that help build a strong middle-class.
 Spur job creation by creating technology and small business incubators that deliver capital investment to local entrepreneurs and small business owners.
 Prepare students for future jobs by providing them a quality education and increasing job/vocational training in our schools.
 Eliminate the digital divide by providing broadband access to all communities so our students can excel, and our small businesses can compete.
-Poverty and the Economy
-Since the economic recession of 2008, Georgia has experienced slow economic growth and continues to have one of the highest poverty rates in the nation.
+Poverty and the Economy Since the economic recession of 2008, Georgia has experienced slow economic growth and continues to have one of the highest poverty rates in the nation.
 More than 1.8 million Georgians live below the poverty line, including over 20% of children.
 Poor Georgians are also more likely to be minority and elderly.
 Barriers that contribute to the state’s high poverty rates include a shortage of childcare and early education opportunities, scarce affordable quality education opportunities and a lack of public transportation.
 Georgia’s low minimum wage also inhibits economic growth and keeps low-income families in poverty.
 More Georgians are working in historically low-wage sectors of the economy such as food service or retail than ever before.
 A minimum wage hike would not only help those workers but also put upward pressure on all wages and create more paying customers for all businesses.
-Low wages are particularly troubling for families trying to raise children as research shows that a low family income decreases the chances of a child’s future success. 66% of Georgia voters agree that someone who works-full time should be paid enough to keep them out of poverty and voters in the conservative states of Nebraska and South Dakota recently agreed in ballot referendums.
+Low wages are particularly troubling for families trying to raise children as research shows that a low family income decreases the chances of a child’s future success.
+66% of Georgia voters agree that someone who works-full time should be paid enough to keep them out of poverty and voters in the conservative states of Nebraska and South Dakota recently agreed in ballot referendums.
 The current minimum wage is not tied to inflation and workers earning $7.25 an hour cannot afford basic needs such as food, housing, healthcare, and transportation.
 In other states that have raised wages, worker productivity has increased and they have not seen a net loss of jobs.
 In fact, it is estimated that a rise in Georgia’s minimum wage to $10.10 an hour would increase the state GDP by $812 million and create 2900 jobs over 3 years.
@@ -40,4 +38,5 @@ Rent prices are rising in cities and most mortgages in rural areas are for mobil
 A lack of adequate health care and health insurance leads to more hospitalizations, higher medical bills, less preventive care, and can limit ability to work.
 One solution to the health care crisis would be for Georgia to expand Medicaid under the Affordable Care Act, which would lower the rate of uninsured among Georgia’s poor.
 In conclusion, Georgia needs to address the fundamental causes of poverty in order to help low-income families and boost the entire economy.
-Solutions include accessible early childhood and postsecondary education, a higher minimum wage, and increased child care funding.
+Solutions include accessible early childhood and postsecondary education, a higher minimum wage, and increased child care funding. http://gbpi.org/ HOME MEET MICHAEL LEGISLATION ENACTED AND PRESS RELEASES ON THE ISSUES Jobs and the Economy Education and Safety Real Estate Market GET INVOLVED More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: © # by Committee to Elect Michael Smith bottom of page

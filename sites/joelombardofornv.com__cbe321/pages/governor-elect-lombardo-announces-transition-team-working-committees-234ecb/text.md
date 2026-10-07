@@ -1,34 +1,16 @@
-Governor-Elect Lombardo Announces Transition Team, Working Committees
-November 16, 2022
-LAS VEGAS, NV – Today, Nevada Governor-Elect Joe Lombardo announced his transition team and working committees ahead of taking office in January.
+0 Skip to Content Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Folder: Results Back Results Nevadans Working Together Get Involved Folder: Media Back Press Releases Photos Endorsements Coalitions DONATE Governor-Elect Lombardo Announces Transition Team, Working Committees November 16, 2022 LAS VEGAS, NV – Today, Nevada Governor-Elect Joe Lombardo announced his transition team and working committees ahead of taking office in January.
 “I’m excited to announce my transition chair and team today,” said Governor-Elect Joe Lombardo.
 “I have asked Ryan Erwin to chair my transition team, and he has graciously agreed.
 With his steadfast leadership and integrity, I’m confident that Ryan will do an exceptional job as we work to prepare our incoming team for success.
-This team consists of trusted experts in their fields who are committed to helping us successfully transition from the campaign to the Lombardo administration.”
-“I’m honored to lead Governor-Elect Lombardo’s transition team and working committees.
-Together, we’ve assembled an accomplished team of individuals who are ready to ensure an efficient and effective transition for the Lombardo administration,” said Ryan Erwin, Chair of the Lombardo Transition Team.
-“Our transition team and working committees will provide invaluable experience and insight as we set Nevada up for success.”
-Members of the Lombardo Transition Team include key government, business, and community leaders from across Nevada.
-- Chair Ryan Erwin, Founder of RedRock Strategies
-- Donna Lombardo, First Lady-Designate
-- Jeremy Aguero, Principal Analyst with Applied Analysis
-- Dr.
-Tony Alamo, Physician and Former Chairman of the Nevada Gaming Commission
-- Heidi Seevers Gansert, State Senate Republican Leader
-- P.K.
-O'Neill, State Assembly Republican Leader
-- Dr.
+This team consists of trusted experts in their fields who are committed to helping us successfully transition from the campaign to the Lombardo administration.” “I’m honored to lead Governor-Elect Lombardo’s transition team and working committees.
+Together, we’ve assembled an accomplished team of individuals who are ready to ensure an efficient and effective transition for the Lombardo administration,” said Ryan Erwin, Chair of the Lombardo Transition Team .
+“Our transition team and working committees will provide invaluable experience and insight as we set Nevada up for success.” Members of the Lombardo Transition Team include key government, business, and community leaders from across Nevada.
+Chair Ryan Erwin , Founder of RedRock Strategies Donna Lombardo , First Lady-Designate Jeremy Aguero , Principal Analyst with Applied Analysis Dr.
+Tony Alamo , Physician and Former Chairman of the Nevada Gaming Commission Heidi Seevers Gansert , State Senate Republican Leader P.K.
+O'Neill, State Assembly Republican Leader Dr.
 J.J.
-Goicoechea, Eureka County Commissioner
-- Peter Guzman, President and CEO of the Latin Chamber of Commerce
-- Dallas Haun, Chairman of Nevada State Bank
-- Mark Hutchison, Attorney and Former Nevada Lieutenant Governor
-- Ben Kieckhefer, Nevada Gaming Commissioner and Former Nevada State Senator
-- Pauline Lee, Attorney and Keystone Corporation Board Member
-- Dwayne McClinton, Government Affairs Director at Southwest Gas
-- Tina Quigley, President and CEO of the Las Vegas Global Economic Alliance
-- Ann Silver, CEO of the Reno Sparks Chamber of Commerce
-Erwin also announced Governor-Elect Lombardo’s working committees for the transition team, which will include: Agriculture, Ranching and Mining; Economic and Workforce Development; Education; Energy, Land, and Wildlife; General Policy; Government Reform; Healthcare; Public Safety, Corrections, and Law Enforcement; Real Estate, Housing, and Construction; Gaming and Tourism; and Water.
+Goicoechea , Eureka County Commissioner Peter Guzman , President and CEO of the Latin Chamber of Commerce Dallas Haun , Chairman of Nevada State Bank Mark Hutchison , Attorney and Former Nevada Lieutenant Governor Ben Kieckhefer, Nevada Gaming Commissioner and Former Nevada State Senator Pauline Lee , Attorney and Keystone Corporation Board Member Dwayne McClinton , Government Affairs Director at Southwest Gas Tina Quigley , President and CEO of the Las Vegas Global Economic Alliance Ann Silver , CEO of the Reno Sparks Chamber of Commerce Erwin also announced Governor-Elect Lombardo’s working committees for the transition team, which will include: Agriculture, Ranching and Mining; Economic and Workforce Development; Education; Energy, Land, and Wildlife; General Policy; Government Reform; Healthcare; Public Safety, Corrections, and Law Enforcement; Real Estate, Housing, and Construction; Gaming and Tourism; and Water.
 Working committee members, along with inaugural committee plans, will be announced in the coming days and weeks.
-Nevadans can learn more about Governor-Elect Joe Lombardo at www.joelombardofornv.com and by following him on Facebook, Twitter, Instagram, and YouTube.
-###
+Nevadans can learn more about Governor-Elect Joe Lombardo at www.joelombardofornv.com and by following him on Facebook , Twitter , Instagram , and YouTube .
+### Privacy Policy Contact Us Lombardo for Governor P.O.
+Box 371176 Las Vegas, NV 89137 info@joelombardofornv.com

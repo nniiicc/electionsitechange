@@ -1,7 +1,14 @@
 {
  "description": "Discover the latest news about Congressman Jonathan Jackson and his recent efforts in Congress. Stay updated on his legislative actions, advocacy for civil rights, and work addressing economic inequality. Learn about his initiatives and contributions to key issues affecting Illinois' 1st Congressional District and beyond.",
  "final_url": "https://www.jacksonforcongress.com/inthenews",
+ "fingerprint": "aa4cfb034edbf62438c5650392b71a027cb7c4c8",
+ "format": 3,
  "paid_for_by": "PAID FOR BY JACKSON FOR CONGRESS HOME bottom of page",
  "title": "IN THE NEWS | Jackson for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

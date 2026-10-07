@@ -1,18 +1,74 @@
 [
-"http://le.utah.gov/",
-"https://house.utleg.gov/13225-2",
-"https://le.utah.gov/~2025/bills/static/HB0081.html",
-"https://le.utah.gov/~2025/bills/static/HB0215.html",
-"https://le.utah.gov/~2025/bills/static/HB0381.html",
-"https://olag.utleg.gov/audits_current.jsp",
-"https://slc-ut2034.org/salt-lake-city-utah-2034-announces-organizing-committee",
-"https://votestephanie.org/",
-"https://votestephanie.org/2026-legislative-priorities",
-"https://votestephanie.org/247764-2",
-"https://votestephanie.org/247768-2",
-"https://votestephanie.org/?page_id=96351",
-"https://votestephanie.org/issues",
-"https://votestephanie.org/legislative-work-in-progress",
-"https://votestephanie.org/meet-stephanie",
-"https://votestephanie.org/update-from-capitol-hill"
+{
+"text": "2026 Legislative Priorities",
+"href": "https://votestephanie.org/2026-legislative-priorities/"
+},
+{
+"text": "HB 215",
+"href": "https://le.utah.gov/~2025/bills/static/HB0215.html"
+},
+{
+"text": "HB381",
+"href": "https://le.utah.gov/~2025/bills/static/HB0381.html"
+},
+{
+"text": "HB81",
+"href": "https://le.utah.gov/~2025/bills/static/HB0081.html"
+},
+{
+"text": "Home",
+"href": "https://votestephanie.org/"
+},
+{
+"text": "Issues",
+"href": "https://votestephanie.org/issues/"
+},
+{
+"text": "Legislative Work in Progress",
+"href": "https://votestephanie.org/legislative-work-in-progress/"
+},
+{
+"text": "Meet Stephanie",
+"href": "https://votestephanie.org/meet-stephanie/"
+},
+{
+"text": "Recent Updates",
+"href": "https://votestephanie.org/?page_id=96351"
+},
+{
+"text": "Upcoming Town Hall",
+"href": "https://votestephanie.org/247764-2/"
+},
+{
+"text": "Update From Capitol Hill",
+"href": "https://votestephanie.org/update-from-capitol-hill/"
+},
+{
+"text": "Wrapping Up the Interim Process",
+"href": "https://votestephanie.org/247768-2/"
+},
+{
+"text": "[image: Stephanie Gricius]",
+"href": "https://votestephanie.org/"
+},
+{
+"text": "[no text]",
+"href": "https://votestephanie.org"
+},
+{
+"text": "here",
+"href": "https://house.utleg.gov/13225-2/"
+},
+{
+"text": "here",
+"href": "https://olag.utleg.gov/audits_current.jsp"
+},
+{
+"text": "le.utah.gov",
+"href": "http://le.utah.gov/"
+},
+{
+"text": "organizing committee officially formed",
+"href": "https://slc-ut2034.org/salt-lake-city-utah-2034-announces-organizing-committee/"
+}
 ]

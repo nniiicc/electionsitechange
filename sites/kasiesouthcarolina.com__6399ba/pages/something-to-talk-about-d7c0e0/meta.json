@@ -1,9 +1,12 @@
 {
- "description": "The establishment has decided ignoring me is the best way to handle the contradictions between us. They\u2019re talking about each other. It's tacky.",
+ "description": "The establishment has decided ignoring me is the best way to handle the contradictions between us. They’re talking about each other. It's tacky.",
  "final_url": "https://kasiesouthcarolina.com/something-to-talk-about/",
- "paid_for_by": null,
+ "fingerprint": "924801182c7825b44c710493549beb020f67320c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Something to Talk About - Kasie South Carolina",
  "years_mentioned": [
-  "2014"
+  "2014",
+  "2026"
  ]
 }

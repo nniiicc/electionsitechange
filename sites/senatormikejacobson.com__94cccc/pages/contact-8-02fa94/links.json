@@ -1,8 +1,34 @@
 [
-"http://facebook.com/senjacobson",
-"https://senatormikejacobson.com/",
-"https://senatormikejacobson.com/about-mike",
-"https://senatormikejacobson.com/contact-8",
-"https://senatormikejacobson.com/issues",
-"https://senatormikejacobson.com/privacy"
+{
+"text": "ABOUT MIKE",
+"href": "https://www.senatormikejacobson.com/about-mike"
+},
+{
+"text": "BLOG",
+"href": "https://www.senatormikejacobson.com/contact-8"
+},
+{
+"text": "H O M E",
+"href": "https://www.senatormikejacobson.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.senatormikejacobson.com/issues"
+},
+{
+"text": "Mike@SenatorMikeJacobson.com",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "http://www.facebook.com/senjacobson"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.senatormikejacobson.com"
+},
+{
+"text": "here",
+"href": "https://www.senatormikejacobson.com/privacy"
+}
 ]

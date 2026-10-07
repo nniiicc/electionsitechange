@@ -1,21 +1,82 @@
 [
-"https://bsky.app/profile/littleforcongress.bsky.social",
-"https://facebook.com/MattMLittle",
-"https://instagram.com/mattlittleforcongress",
-"https://littleforcongress.com/",
-"https://littleforcongress.com/about-district-2",
-"https://littleforcongress.com/contact-us",
-"https://littleforcongress.com/endorsements",
-"https://littleforcongress.com/for-media",
-"https://littleforcongress.com/get-involved",
-"https://littleforcongress.com/key-issues",
-"https://littleforcongress.com/key-issues/fighting-for-fair-student-loans",
-"https://littleforcongress.com/key-issues/fighting-for-rural-america",
-"https://littleforcongress.com/key-issues/fighting-for-safe-neighborhoods",
-"https://littleforcongress.com/meet-matt",
-"https://littleforcongress.com/privacy-policy",
-"https://mobilize.us/mattlittleforcongress/event/966273",
-"https://secure.actblue.com/donate/little-website",
-"https://tiktok.com/@littlecongress",
-"https://x.com/LittleCongress"
+{
+"text": "About District 2",
+"href": "https://littleforcongress.com/about-district-2/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/littleforcongress.bsky.social"
+},
+{
+"text": "Contact Us",
+"href": "https://littleforcongress.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/little-website"
+},
+{
+"text": "Endorsements",
+"href": "https://littleforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/MattMLittle"
+},
+{
+"text": "Fighting for Fair Student Loans",
+"href": "https://littleforcongress.com/key-issues/fighting-for-fair-student-loans/"
+},
+{
+"text": "Fighting for Rural America",
+"href": "https://littleforcongress.com/key-issues/fighting-for-rural-america/"
+},
+{
+"text": "Fighting for Safe Neighborhoods",
+"href": "https://littleforcongress.com/key-issues/fighting-for-safe-neighborhoods/"
+},
+{
+"text": "For Media",
+"href": "https://littleforcongress.com/for-media/"
+},
+{
+"text": "Get Involved",
+"href": "https://littleforcongress.com/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/mattlittleforcongress"
+},
+{
+"text": "Join me!",
+"href": "https://secure.actblue.com/donate/little-website"
+},
+{
+"text": "Key Issues",
+"href": "https://littleforcongress.com/key-issues/"
+},
+{
+"text": "Meet Matt",
+"href": "https://littleforcongress.com/meet-matt/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://littleforcongress.com/privacy-policy/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@littlecongress"
+},
+{
+"text": "X",
+"href": "https://x.com/LittleCongress"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.mobilize.us/mattlittleforcongress/event/966273/"
+},
+{
+"text": "[image: Matt Little for Congress logo]",
+"href": "https://littleforcongress.com/"
+}
 ]

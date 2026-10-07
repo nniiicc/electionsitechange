@@ -1,4 +1,4 @@
-Congressman for the 10th Congressional Dist.
+Skip to main content Scroll Top Menu About Issues Endorsements Voting Contact Volunteer Donate Menu About Issues Endorsements Voting Contact Volunteer Donate About Congressman Scott Perry Congressman for the 10th Congressional Dist.
 Scott Perry brings a unique background of hard work, military discipline, small business, and community involvement to the U.S.
 House of Representatives.
 He earned the privilege of representing Pennsylvania’s 10th District (Dauphin, part Cumberland, part York Counties), and presently serves on the U.S.
@@ -26,39 +26,5 @@ He was chairman of the Dillsburg Area Wellhead Protection Advisory Committee and
 He remains active in the Jaycees and previously served as regional director.
 He’s a member of Dillsburg American Legion Post #26, Dillsburg VFW Post #6771, and is a Lions Club International Member.
 Scott and his wife, Christy, are the proud parents of two daughters.
-Awards & Recognition
-- ACT for America, 2015, 2016 National Security Patriot Award
-- American Conservative Union, 2013, 2015, 2017 Award for Conservative Excellence
-- American Farm Bureau Federation, 2018, 2020 Friend of Farm Bureau Award
-- American Motorcyclist Association, 113th Congress, Champion Award
-- American Public Works, Central PA Chapter, 2013 Elected Officials Award
-- Associated Builders and Contractors , 2014, 2016, 2018 Spirit of the Enterprise
-- Associated Builders and Contractors, Champion of the Merit Shop
-- Coalition for a Prosperous America, 2015 Certificate of Special Recognition for an American Trade Hero
-- Freedom Works, 2015, 2019 Freedom Fighter Award
-- The American Conservative Union Foundation, Award for Conservative Excellence
-- Friend of Farm Bureau, Outstanding Service during 113th Congress
-- Independent Electrical Contractors, Rising Star Award
-- International Food Service Distributors Association, 2014, 2015, 2018,
-- NAHB, 2016 Defender of Housing
-- National Retail Federation, 2014 Hero of Main Street for Continued support of the retail industry
-- National Retail Federation, 2018 Hero of Main Street
-- American Farm Bureau Federation’s (AFBF) “Friend of the Farm Bureau Award
-- Thomas Jefferson Award
-- National Tax-Limitation Committee, 114th Congress Tax-Fighter Award
-- National Write your Congressman, 2008 Constituent Service Award
-- NFIB, 114th Congress, 114th Congress Guardian of Small Business
-- PA National Guard Association, Outstanding Support for the PA National Guard
-- Republican Party of Pennsylvania, 2010 Leadership Award
-- US Business and Industry Council, 2015 Defender of the American Economy Award
-- US Chamber of Commerce, 113th Congress(1st and 2nd Session) 114th, 115th(1st Session)
-- Union League of Philadelphia, 2016 Assistant Division Commander, 28th ID PA
-- American Veterans Center Recognition, 2017 Service in Iraq and Afghanistan
-- Home Runs for Horton’s Kids, 2018 Honorary Host Committee
-- Family Research Council, 2018, True Blue Award
-- The 60 Plus Association, 2018 Guardian of Seniors’ Rights Award
-- York 912 Group, 2017 Statesman of the Year
-- Citizens Against Government Waste, 2017 Taxpayer Super Hero
-- Recognized as a 2020 Medicare Advantage Supporter
-- Recognized as Energy Champion by American Energy Alliance 2020
-- National Taxpayers Union, 2020 Taxpayers Friend Award
+Awards & Recognition ACT for America, 2015, 2016 National Security Patriot Award American Conservative Union, 2013, 2015, 2017 Award for Conservative Excellence American Farm Bureau Federation, 2018, 2020 Friend of Farm Bureau Award American Motorcyclist Association, 113th Congress, Champion Award American Public Works, Central PA Chapter, 2013 Elected Officials Award Associated Builders and Contractors , 2014, 2016, 2018 Spirit of the Enterprise Associated Builders and Contractors, Champion of the Merit Shop Coalition for a Prosperous America, 2015 Certificate of Special Recognition for an American Trade Hero Freedom Works, 2015, 2019 Freedom Fighter Award The American Conservative Union Foundation, Award for Conservative Excellence Friend of Farm Bureau, Outstanding Service during 113th Congress Independent Electrical Contractors, Rising Star Award International Food Service Distributors Association, 2014, 2015, 2018, NAHB, 2016 Defender of Housing National Retail Federation, 2014 Hero of Main Street for Continued support of the retail industry National Retail Federation, 2018 Hero of Main Street American Farm Bureau Federation’s (AFBF) “Friend of the Farm Bureau Award Thomas Jefferson Award National Tax-Limitation Committee, 114th Congress Tax-Fighter Award National Write your Congressman, 2008 Constituent Service Award NFIB, 114th Congress, 114th Congress Guardian of Small Business PA National Guard Association, Outstanding Support for the PA National Guard Republican Party of Pennsylvania, 2010 Leadership Award US Business and Industry Council, 2015 Defender of the American Economy Award US Chamber of Commerce, 113th Congress(1st and 2nd Session) 114th, 115th(1st Session) Union League of Philadelphia, 2016 Assistant Division Commander, 28th ID PA American Veterans Center Recognition, 2017 Service in Iraq and Afghanistan Home Runs for Horton’s Kids, 2018 Honorary Host Committee Family Research Council, 2018, True Blue Award The 60 Plus Association, 2018 Guardian of Seniors’ Rights Award York 912 Group, 2017 Statesman of the Year Citizens Against Government Waste, 2017 Taxpayer Super Hero Recognized as a 2020 Medicare Advantage Supporter Recognized as Energy Champion by American Energy Alliance 2020 National Taxpayers Union, 2020 Taxpayers Friend Award Get Campaign Updates Submit Neither military info nor photographs of Scott in uniform imply endorsement of Patriots for Perry by the Department of Defense or its particular military departments.
+Facebook X-twitter Youtube Instagram Paid for by Patriots for Perry SEE OUR PRIVACY POLICY | TERMS AND CONDITIONS DESIGN BY IGNITE STRATEGIES

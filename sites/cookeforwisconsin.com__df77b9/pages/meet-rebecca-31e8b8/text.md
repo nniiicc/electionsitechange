@@ -1,7 +1,4 @@
-Donate Today
-Every contribution helps us reach more voters, organize in communities across the district, and fight for lower costs and greater opportunity.
-Chip in today to help build a stronger future for Wisconsin.
-Rooted in Wisconsin Values.
+About Rebecca Meet Rebecca Priorities Endorsements Press Join the Movement Join a Coalition Volunteer Get a Yard Sign Buy Merch Contact Connect With the Campaign Media Toolkit Donate About Rebecca Meet Rebecca Priorities Endorsements Press Join the Movement Join a Coalition Volunteer Get a Yard Sign Buy Merch Contact Connect With the Campaign Media Toolkit Donate A Voice for Wisconsin Meet Rebecca Rooted in Wisconsin Values.
 Rebecca is a 6th generation Wisconsinite – born and raised on an Eau Claire dairy farm that shaped her core values of hard work, personal responsibility and service.
 Her family’s roots in agriculture stretch back more than 150 years in Buffalo County, alongside a proud tradition of military service spanning from the Civil War to the present day.
 Her grandfather fought in Korea before returning home to work a union job at the local paper mill.
@@ -20,4 +17,8 @@ While running her small business, Rebecca continues to wait tables at a local re
 Because she grew up on a dairy farm, she knows that being successful means wearing multiple hats, and she’s proud of it.
 She’s running for Congress because Wisconsin’s working families deserve better.
 She’s fighting to lower costs, expand economic opportunity in rural America, and bring common sense back to Washington.
-- If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+View Rebecca’s Priorities Donate Today Every contribution helps us reach more voters, organize in communities across the district, and fight for lower costs and greater opportunity.
+Chip in today to help build a stronger future for Wisconsin. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Our campaign is 100% people powered.
+Join us to keep building the movement.
+Media Toolkit Privacy Policy PO Box 1846, Eau Claire, WI 54702 Paid for by Cooke for Congress Branding and photography by Knorth Studios Website design and development by Andrew Tarcon

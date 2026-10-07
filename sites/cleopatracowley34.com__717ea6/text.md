@@ -1,10 +1,4 @@
-top of page
-Featured Video
-A Message from Michelle Obama
-Honoring Hadiya Pendleton at the Obama Presidential Center
-Cleo is Proudly Endorsed by the following:
-"...when my daughter, Hadiya Pendleton, was murdered, I knew I needed to turn my family's pain into a purpose..."
-I'm Ready to Roll Up My Sleeves & Serve!
-MY PLATFORM
-A Vision for Our Future: Building a Stronger Community Together
-bottom of page
+top of page CLEOPATRACOWLEY 34 Home About Cleo Endorsements Join Team Cleo Menu Back to site Donate Featured Video A Message from Michelle Obama Honoring Hadiya Pendleton at the Obama Presidential Center Cleo is Proudly Endorsed by the following: Connect with us on Social Media "...when my daughter, Hadiya Pendleton , was murdered, I knew I needed to turn my family's pain into a purpose..." I'm Ready to Roll Up My Sleeves & Serve!
+MY PLATFORM A Vision for Our Future: Building a Stronger Community Together ​ Ready to Support Cleo?
+Please click the link below to donate to the Citizens to Elect Cleopatra Cowley campaign.
+Donate A Mother, GrandMother & Community Activist Turning Pain into Purpose CONTACT CleopatraCowley34@gmail.com 872-362-4532 ​ Home About Cleo Endorsements Join Team Cleo bottom of page

@@ -1,8 +1,5 @@
-Upcoming Events
-Filtering by: “Candidate Forum”
-Oct
-3
-League of Women Voters Forum
-Brenda will participate in the League of Women Voters of Manhattan-Riley County 2026 Candidate Forum at 10:00 AM on Saturday, October 3, at the Manhattan Public Library.
+0 Skip to Content About Platform Endorsements Events Donate Support Media Open Menu Close Menu About Platform Endorsements Events Donate Support Media Open Menu Close Menu About Platform Endorsements Events Donate Support Media Upcoming Events Filtering by: “Candidate Forum” Oct 3 Candidate Forum League of Women Voters Forum Saturday, October 3, 2026 10:00 AM 12:00 PM Google Calendar ICS Brenda will participate in the League of Women Voters of Manhattan-Riley County 2026 Candidate Forum at 10:00 AM on Saturday, October 3, at the Manhattan Public Library.
 The Manhattan Area Chamber of Commerce, the American Association of University Women Manhattan Branch, NAACP, Indivisible, and the MHS Civic Engagement Club are co-hosting.
 The League has a 102-year tradition of being non-partisan and is dedicated to encouraging an informed and involved citizenry.
+View Event → Paid for by Bandy for Kansas.
+Carol Adams, Treasurer 1310 Westloop Place STE A PMB 280, Manhattan, KS 66502 brenda@bandyforkansas.com Privacy Policy

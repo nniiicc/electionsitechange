@@ -1,18 +1,98 @@
 [
-"http://bobbyformaine.com/",
-"https://bobbyformaine.com/",
-"https://bobbyformaine.com/action-center",
-"https://bobbyformaine.com/events",
-"https://bobbyformaine.com/issues",
-"https://bobbyformaine.com/news",
-"https://facebook.com/BobbyCharlesMaine",
-"https://google.com/maps/search/15+Littlefield+Rd+%0D%0A%0D%0A+Brewer,+ME+04412?entry=gmail",
-"https://google.com/maps/search/253+Van+Buren+Rd+%0D%0A%0D%0A+Caribou,+ME+04736?entry=gmail",
-"https://google.com/maps/search/490+Pleasant+St.+%0D%0A%0D%0A+Lewiston,+ME+04240?entry=gmail",
-"https://instagram.com/bobbyformaine",
-"https://secure.winred.com/bobby-charles-for-maine/storefront",
-"https://secure.winred.com/bobby-charles-for-maine/take-an-axe",
-"https://tiktok.com/@bobbyformaine?lang=en",
-"https://x.com/Bobby4Maine",
-"https://youtube.com/@BobbyRCharles"
+{
+"text": "15 Littlefield Rd",
+"href": "https://www.google.com/maps/search/15+Littlefield+Rd+%0D%0A%0D%0A+Brewer,+ME+04412?entry=gmail"
+},
+{
+"text": "253 Van Buren Rd",
+"href": "https://www.google.com/maps/search/253+Van+Buren+Rd+%0D%0A%0D%0A+Caribou,+ME+04736?entry=gmail"
+},
+{
+"text": "490 Pleasant St.",
+"href": "https://www.google.com/maps/search/490+Pleasant+St.+%0D%0A%0D%0A+Lewiston,+ME+04240?entry=gmail"
+},
+{
+"text": "ACtion center",
+"href": "https://www.bobbyformaine.com/action-center"
+},
+{
+"text": "Bobby Charles for Governor campaign",
+"href": "http://bobbyformaine.com/"
+},
+{
+"text": "BobbyForMaine.com",
+"href": "http://bobbyformaine.com/"
+},
+{
+"text": "Brewer, ME 04412",
+"href": "https://www.google.com/maps/search/15+Littlefield+Rd+%0D%0A%0D%0A+Brewer,+ME+04412?entry=gmail"
+},
+{
+"text": "Caribou, ME 04736",
+"href": "https://www.google.com/maps/search/253+Van+Buren+Rd+%0D%0A%0D%0A+Caribou,+ME+04736?entry=gmail"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/bobby-charles-for-maine/take-an-axe"
+},
+{
+"text": "Events",
+"href": "https://www.bobbyformaine.com/events"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.bobbyformaine.com/action-center#get-involved"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bobbyformaine.com/action-center#get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.bobbyformaine.com/issues"
+},
+{
+"text": "Lewiston, ME 04240",
+"href": "https://www.google.com/maps/search/490+Pleasant+St.+%0D%0A%0D%0A+Lewiston,+ME+04240?entry=gmail"
+},
+{
+"text": "MEET BOBBY",
+"href": "https://www.bobbyformaine.com/#meet-bobby"
+},
+{
+"text": "Meet Bobby",
+"href": "https://www.bobbyformaine.com/#meet-bobby"
+},
+{
+"text": "NEWS",
+"href": "https://www.bobbyformaine.com/news"
+},
+{
+"text": "STORE",
+"href": "https://secure.winred.com/bobby-charles-for-maine/storefront/"
+},
+{
+"text": "[image]",
+"href": "https://www.bobbyformaine.com/"
+},
+{
+"text": "",
+"href": "https://www.tiktok.com/@bobbyformaine?lang=en"
+},
+{
+"text": "",
+"href": "https://x.com/Bobby4Maine"
+},
+{
+"text": "",
+"href": "https://www.youtube.com/@BobbyRCharles"
+},
+{
+"text": "",
+"href": "https://www.instagram.com/bobbyformaine/"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/BobbyCharlesMaine/"
+}
 ]

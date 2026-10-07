@@ -1,5 +1,4 @@
-Sobre Randy
-Randy Udell tiene un historial probado y la experiencia que necesitamos para representar al Distrito 47 en la Asamblea.
+0 Skip to Content Home Bio Bio Bio de Randy Udell Why I'm Running Why I'm Running Porque Me Estoy Postulando Issues Issues Sobre Los Temas Endorsements 47th District Contact Contribute Open Menu Close Menu Home Bio Bio Bio de Randy Udell Why I'm Running Why I'm Running Porque Me Estoy Postulando Issues Issues Sobre Los Temas Endorsements 47th District Contact Contribute Open Menu Close Menu Home Folder: Bio Back Bio Bio de Randy Udell Folder: Why I'm Running Back Why I'm Running Porque Me Estoy Postulando Folder: Issues Back Issues Sobre Los Temas Endorsements 47th District Contact Contribute Sobre Randy Randy Udell tiene un historial probado y la experiencia que necesitamos para representar al Distrito 47 en la Asamblea.
 Residente de Fitchburg desde 1998, Randy Udell está terminando su primer mandato como Representante Estatal del Distrito 47.
 Randy es actualmente miembro del Comité de Instituciones Financieras, Comité de Silvicultura, Parques y Recreación al Aire Libre, Comité de Seguros, Comité de Revisión de la Ley, y el Grupo de Trabajo de Banda Ancha del Gobernador.
 Ha luchado para fortalecer las protecciones laborales de Wisconsin, ampliar el acceso a la atención médica y el cuidado de niños, invertir en las comunidades locales y fortalecer las protecciones ambientales.
@@ -15,3 +14,6 @@ Anteriormente se sirvó como presidente y tesorero del Segundo Distrito Demócra
 Randy creció en una familia de clase trabajadora en Janesville.
 Como estudiante universitario en la UW-Whitewater, Randy sirvió como presidente de los Young Democrats y un senador estudiantil, además de trabajar para el congresista Les Aspin, representante desde hace mucho tiempo del primer distrito del Congreso de Wisconsin..
 Ahora jubilado de una carrera de 30 años en finanzas y planeador como ingeniero de telecomunicaciones, Randy y su esposo Brad viven en Seminole Forest con su perro rescatado, Cooper.
+Me convertí en legislador para ayudar a asegurar que el gobierno estatal de Wisconsin funcione para todos.
+Estoy emocionado de tener la oportunidad de ganarme vuestro voto el 3 de noviembre para continuar ese trabajo.
+PORQUE ME ESTOY POSTULANDO FOLLOW ALONG Contact CONTRIBUTE Paid for by the Committee to Elect Randy Udell © # Committee to elect randy udell — All Rights Reserved photos of randy with politicians and other public figures does not imply an endorsement or affiliation

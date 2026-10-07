@@ -1,7 +1,11 @@
 {
  "description": "Add your name to the list of endorsements for Jamie Johansson for Assembly.",
  "final_url": "https://www.votejohansson.com/endorsements",
+ "fingerprint": "d760f181fbc807b26b856074bbb9a9b2b0d64c0e",
+ "format": 3,
  "paid_for_by": "Paid for by Jamie Johansson for Assembly 2026 Share by:",
  "title": "Support Jamie Johansson",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,7 +1,8 @@
-About the Democratic Candidate for CO HD 27
-Meet Dr.
-Danielle Varda
-Ready to bring her leadership from the classroom to the capitol, Danielle has spent years advocating for families and our neighbors here in Colorado.
+0 Skip to Content Meet Danielle Danielle's Priorities Endorsements Stay Connected Calendar Camp Campaign Donate to Danielle!
+Open Menu Close Menu Meet Danielle Danielle's Priorities Endorsements Stay Connected Calendar Camp Campaign Donate to Danielle!
+Open Menu Close Menu Meet Danielle Danielle's Priorities Endorsements Stay Connected Calendar Camp Campaign Donate to Danielle!
+About the Democratic Candidate for CO HD 27 Meet Dr.
+Danielle Varda Ready to bring her leadership from the classroom to the capitol, Danielle has spent years advocating for families and our neighbors here in Colorado.
 She’ll take her experience to the Capitol and reinvigorate our Colorado way of life.
 I learned the value of diversity as a child.
 Growing up on the border of Mexico in El Paso, Texas with my German immigrant father and mother with Irish roots, I learned early-on to appreciate the value and beauty of diversity in a community.
@@ -11,8 +12,7 @@ Moving to Colorado in the 90’s to serve with the AmeriCorps, I was not prepare
 When I completed my years of national service, I started grad school in Denver and got addicted to whitewater kayaking, floating down rivers across the state.
 This gave me a view of our beautiful state that only us “river people” can explain.
 More importantly, I gained the confidence and courage to navigate rough waters and face the uncertainty of big rapids and sharp boulders without hesitation.
-From Europe to America: Danielle’s parents found a home in the Southwest
-I’ll fight for the people of Colorado.
+From Europe to America: Danielle’s parents found a home in the Southwest I’ll fight for the people of Colorado.
 After getting my PhD in Public Affairs from the University of Colorado Denver, I got my first job as a Policy Scientist at the RAND Corporation.
 There, I worked with an incredibly brilliant team of scientists and researchers across the country.
 I had opportunities to work on matters of national defense as well as public health systems.
@@ -27,7 +27,7 @@ I was honored with secondary appointments in the CO School of Public Health, and
 I served as the Nonprofit Concentration Director and founded and directed the CO Center on Network Science.
 By always seeking to center my research work in my community, I met and became friends with folks all across JeffCo and into Denver and sought to help support our community in thoughtful and measurable ways.
 I became a published researcher, studying how social connectedness impacts our healthcare and civic outcomes.
-It was during this time that I learned the value of collaboration, connectedness, and became committed to ensuring that everyone has a seat at the decision-making table and bringing community voice into everything I do.
+It was during this time that I learned the value of collaboration, connectedness, and became committed to ensuring that everyone has a seat at the decision-making table and bringing community voice into everything I do .
 I’m an entrepreneur driven by innovation and accountability.
 I turned my passion for research and seeking to understand “hard to measure things” into a business.
 My research is focused on how social connectedness impacts health, wellness, and economic outcomes.
@@ -57,3 +57,4 @@ Everything we do must be for them, and I am committed to living by example to sh
 I never imagined I would have the opportunity to serve Colorado in so many ways.
 While I love being quiet at home, gardening, and spending time with my family, I am energized by connecting with community members, hearing your concerns, and working with you to bring forward solutions.
 Please contact me at danielle@vardaforcolorado.com to stay connected.
+Serving as the next Colorado House Representative in District 27 is the honor of a lifetime, and I am ready to bring my experiences to the work! © # Varda for Colorado Privacy Policy Paid for by Varda for Colorado Registered Agent Alice O’Dell

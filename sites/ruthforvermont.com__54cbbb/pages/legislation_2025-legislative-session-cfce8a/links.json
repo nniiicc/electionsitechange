@@ -1,32 +1,146 @@
 [
-"http://instagram.com/ruthhardyvt",
-"https://facebook.com/RuthforVermont",
-"https://legislature.vermont.gov/bill/passed/2026",
-"https://legislature.vermont.gov/bill/status/2026/H.493",
-"https://ljfo.vermont.gov/assets/Uploads/GENERAL-383497-v1-FY26_COC_Highlight_Document.pdf",
-"https://nytimes.com/2025/07/01/opinion/medicare-republican-bill-policy.html?unlocked_article_code=1.Uk8.cUHw.bccd8sfLwkk8&smid=url-share",
-"https://nytimes.com/interactive/2025/06/30/upshot/senate-republican-megabill.html?unlocked_article_code=1.Uk8.PfI7.IYhDxaGq0dP0&smid=url-share",
-"https://preview.mailerlite.io/forms/2098484/178851288032740544/share",
-"https://ruthforvermont.com/",
-"https://ruthforvermont.com/2025-legislative-session/agriculture-environment",
-"https://ruthforvermont.com/2025-legislative-session/education-and-youth",
-"https://ruthforvermont.com/2025-legislative-session/health-care",
-"https://ruthforvermont.com/2025-legislative-session/housing-and-homelessness",
-"https://ruthforvermont.com/2025-legislative-session/taxation",
-"https://ruthforvermont.com/about-ruth",
-"https://ruthforvermont.com/en-espanol",
-"https://ruthforvermont.com/legislation",
-"https://ruthforvermont.com/legislation/2025-legislative-session/agriculture-environment",
-"https://ruthforvermont.com/legislation/2025-legislative-session/education-and-youth",
-"https://ruthforvermont.com/legislation/2025-legislative-session/health-care",
-"https://ruthforvermont.com/legislation/2025-legislative-session/housing-and-homelessness",
-"https://ruthforvermont.com/legislation/2025-legislative-session/taxation",
-"https://ruthforvermont.com/updates",
-"https://ruthforvermont.com/updates/endorsements-2",
-"https://ruthforvermont.com/why-ruth",
-"https://secure.actblue.com/donate/hardy-2026",
-"https://vermontpublic.org/local-news/2025-07-03/what-passed-bill-list-vermont-2025-legislative-session",
-"https://vtdigger.org/2025/07/03/vermont-officials-estimate-45000-people-to-lose-health-insurance-under-trumps-tax-bill",
-"https://vtdigger.org/2025/07/09/balint-on-new-federal-budget-devastating-to-rural-america",
-"https://wordpress.com/"
+{
+"text": "45,000 Vermonters will lose their health insurance",
+"href": "https://vtdigger.org/2025/07/03/vermont-officials-estimate-45000-people-to-lose-health-insurance-under-trumps-tax-bill/"
+},
+{
+"text": "Agriculture & Environment",
+"href": "https://ruthforvermont.com/2025-legislative-session/agriculture-environment/"
+},
+{
+"text": "Agriculture & Environment",
+"href": "https://ruthforvermont.com/legislation/2025-legislative-session/agriculture-environment/"
+},
+{
+"text": "Big Bill – the FY26 State Budget, now Act 27",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.493"
+},
+{
+"text": "Commitments",
+"href": "https://ruthforvermont.com/why-ruth/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/hardy-2026"
+},
+{
+"text": "Education & Youth",
+"href": "https://ruthforvermont.com/2025-legislative-session/education-and-youth/"
+},
+{
+"text": "Education and Youth",
+"href": "https://ruthforvermont.com/legislation/2025-legislative-session/education-and-youth/"
+},
+{
+"text": "En Español",
+"href": "https://ruthforvermont.com/en-espanol/"
+},
+{
+"text": "Endorsements",
+"href": "https://ruthforvermont.com/updates/endorsements-2/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RuthforVermont"
+},
+{
+"text": "Get Email Updates",
+"href": "https://preview.mailerlite.io/forms/2098484/178851288032740544/share"
+},
+{
+"text": "Health Care",
+"href": "https://ruthforvermont.com/2025-legislative-session/health-care/"
+},
+{
+"text": "Health Care",
+"href": "https://ruthforvermont.com/legislation/2025-legislative-session/health-care/"
+},
+{
+"text": "Housing & Homelessness",
+"href": "https://ruthforvermont.com/2025-legislative-session/housing-and-homelessness/"
+},
+{
+"text": "Housing and Homelessness",
+"href": "https://ruthforvermont.com/legislation/2025-legislative-session/housing-and-homelessness/"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/ruthhardyvt"
+},
+{
+"text": "Legislation",
+"href": "https://ruthforvermont.com/legislation/"
+},
+{
+"text": "Meet Ruth",
+"href": "https://ruthforvermont.com/about-ruth/"
+},
+{
+"text": "Ruth for Vermont",
+"href": "https://ruthforvermont.com/"
+},
+{
+"text": "Taxation",
+"href": "https://ruthforvermont.com/2025-legislative-session/taxation/"
+},
+{
+"text": "Taxation",
+"href": "https://ruthforvermont.com/legislation/2025-legislative-session/taxation/"
+},
+{
+"text": "Updates",
+"href": "https://ruthforvermont.com/updates/"
+},
+{
+"text": "[image: Ruth for Vermont]",
+"href": "https://ruthforvermont.com/"
+},
+{
+"text": "[image]",
+"href": "https://ruthforvermont.com/legislation/2025-legislative-session/agriculture-environment/"
+},
+{
+"text": "[image]",
+"href": "https://ruthforvermont.com/legislation/2025-legislative-session/education-and-youth/"
+},
+{
+"text": "[image]",
+"href": "https://ruthforvermont.com/legislation/2025-legislative-session/health-care/"
+},
+{
+"text": "[image]",
+"href": "https://ruthforvermont.com/legislation/2025-legislative-session/housing-and-homelessness/"
+},
+{
+"text": "[image]",
+"href": "https://ruthforvermont.com/legislation/2025-legislative-session/taxation/"
+},
+{
+"text": "[tooltip: Create a website or blog at WordPress.com]",
+"href": "https://wordpress.com/"
+},
+{
+"text": "bills passed by both the House and Senate",
+"href": "https://legislature.vermont.gov/bill/passed/2026#both-house-and-senate"
+},
+{
+"text": "brutal cuts to the Medicaid health insurance program",
+"href": "https://www.nytimes.com/2025/07/01/opinion/medicare-republican-bill-policy.html?unlocked_article_code=1.Uk8.cUHw.bccd8sfLwkk8&smid=url-share"
+},
+{
+"text": "cruel, cruel bill",
+"href": "https://vtdigger.org/2025/07/09/balint-on-new-federal-budget-devastating-to-rural-america/"
+},
+{
+"text": "highlights from the FY26 State Budget",
+"href": "https://ljfo.vermont.gov/assets/Uploads/GENERAL-383497-v1-FY26_COC_Highlight_Document.pdf"
+},
+{
+"text": "outline of what’s in the Trump-Republican bill",
+"href": "https://www.nytimes.com/interactive/2025/06/30/upshot/senate-republican-megabill.html?unlocked_article_code=1.Uk8.PfI7.IYhDxaGq0dP0&smid=url-share"
+},
+{
+"text": "summary of legislative highlights from Vermont Public",
+"href": "https://www.vermontpublic.org/local-news/2025-07-03/what-passed-bill-list-vermont-2025-legislative-session"
+}
 ]

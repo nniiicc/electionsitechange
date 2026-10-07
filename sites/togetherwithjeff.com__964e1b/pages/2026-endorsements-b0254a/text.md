@@ -1,15 +1,7 @@
-Endorsements
-UAW Region 4
--
-US Senator Tammy Baldwin
--
-National Assoc. of Social Workers
--
-Citizen Action of WI
--
-UAW Region 4 - US Senator Tammy Baldwin - National Assoc. of Social Workers - Citizen Action of WI -
-City Officials
-County Officials
-Endorsement SIgn Up form
-From Chippewa Falls to Osseo, from Menomonie to Augusta, we have supporters in every kind of neighborhood!
+Meet Jeff Priorities Endorsements Gallery District 31 Volunteer Donate Meet Jeff Priorities Endorsements Gallery District 31 Volunteer Re-elect Senator Jeff Smith the 31st state Senate District of Wisconsin Donate Scroll Endorsements UAW Region 4 - US Senator Tammy Baldwin - National Assoc. of Social Workers - Citizen Action of WI - UAW Region 4 - US Senator Tammy Baldwin - National Assoc. of Social Workers - Citizen Action of WI - UAW Region 4 - US Senator Tammy Baldwin - National Assoc. of Social Workers - Citizen Action of WI - US Senator Tammy Baldwin UAW (Region 4) National Assoc. of Social Workers (WI) Citizen Action of Wisconsin City Officials Brendan Pratt - Altoona Mayor Jeremy Gragert - Eau Claire City Council President Aaron Brewster - Eau Claire City Council (District 3) Clara Serrano - Eau Claire City Council (District 4) Andrew Werthmann - Eau Claire City Council (District 5) Charlie Johnson - Eau Claire City Council (At Large) Larry Mboga - Eau Claire City Council (At Large) Joshua Miller - Eau Claire City Council (At Large) Nate Otto - Eau Claire City Council (At Large) Emily Berge - Former Eau Claire City Council President “ Jeff has been a friend and neighbor for many years.
+He believes in representing his constituents, and puts their priorities first - fair voting rights for all, clean drinking water, affordable housing, accessible health care and much more.
+He works hard for all of our rights and what is fair for Wisconsin. ” — Karen Voss, Eau Claire County Officials Joe Knight - Eau Claire County Board Supervisor (District 3) Stella Pagonis - Eau Claire County Board Supervisor (District 4) Nick Smiar - Eau Claire County Board Supervisor (District 15) Greg Banchy - Eau Claire County Board Supervisor (District 7) Gerald Wilkie - Eau Claire County Board Supervisor (District 19) Phil Swanhorst - Eau Claire County Board Supervisor (District 22) Tami Schraufgnagel - Eau Claire County Board Supervisor (District 26) Loralee Clark - Eau Claire County Board Supervisor (District 27) Jim Schumacher - Eau Claire County Board Supervisor (District 28) Thomas Vue - Former Eau Claire County Board Supervisor Jim Dunning - Former Eau Claire County Board Supervisor Jason Bergeron - Chippewa County Board Supervisor & Chair (District 7) Charles Bomar - Chippewa County Board Supervisor (District 12) Kelly McCullough - Dunn County Board Supervisor (District 17) Diane Morehouse - Dunn County Board Supervisor (District 12) Jeanne Nutter - Trempealeau County Board Supervisor (District 16) Strum, WI “ His compassion for his fellow Wisconsinites is unimpeachable.
+Whether they live in his district or not, he listens and cares about their concerns. ” — Tammy Tollefson, Eau Claire Endorsement SIgn Up form From Chippewa Falls to Osseo, from Menomonie to Augusta, we have supporters in every kind of neighborhood!
 If you are interested in adding your name to our list of endorsements from across the 31st Senate District, please sign up below!
+New Endorsements Banner New Endorsements Page Contribute to Re-elect Senator Jeff Smith Volunteer with Jeff Mail Contributions to Together with Jeff 440 Broadway St.
+Eau Claire, WI 54703 Paid for by Together with Jeff | Tammy Tollefson, Treasurer info@togetherwithjeff.com Donate Media Toolkit

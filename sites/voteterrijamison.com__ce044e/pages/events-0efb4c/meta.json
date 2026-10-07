@@ -1,7 +1,11 @@
 {
  "description": "Terri Jamison Campaign Events",
  "final_url": "https://www.voteterrijamison.com/events",
- "paid_for_by": null,
+ "fingerprint": "124ec277dcf24f6bc7075291bad5cfcb63798ca7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Terri Jamison Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

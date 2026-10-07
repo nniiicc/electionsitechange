@@ -1,48 +1,9 @@
-Early voting in Hall County begins October 13, 2026, and runs through October 30, 2026.
+Skip to content Close Home Meet Matt Priorities Scorecard Awards-Endorsements Contact En Espanol Voter Guide Home Meet Matt Priorities Scorecard Awards-Endorsements Contact En Espanol Voter Guide Facebook-f X-twitter Home Meet Matt Priorities Scorecard Awards-Endorsements Contact En Espanol Voter Guide Home Meet Matt Priorities Scorecard Awards-Endorsements Contact En Espanol Voter Guide Facebook-f Toggle Mobile Menu 2026 Election Info Early voting in Hall County begins October 13, 2026, and runs through October 30, 2026.
 Any registered Hall County voter may vote at ANY of the following locations during early voting.
 If you want to vote on election day (November 3), visit this link to find your polling location.
-Voting locations for October 13 – October 16 (8am – 6pm)
-- Gainesville Civic Center – 830 Green St.
-NE, Gainesville
-- North Hall Community Center – 4175 Nopone Road, Gainesville
-- Mulberry Creek Community Center – 4491 J M Turk Road, Flowery Branch
-- East Hall Community Center – 3911 P Davidson Road, Gainesville
-- Spout Springs Library – 6488 Spout Springs Road, Flowery Branch
-- Murrayville Library – 4796 Thompson Bridge Road, Gainesville
-- Flowery Branch City Hall – 5410 West Pine Street, Flowery Branch (8am – 5pm)
-Voting locations for Saturday October 17 (9am – 5pm)
-- Gainesville Civic Center – 830 Green St.
-NE, Gainesville
-- North Hall Community Center – 4175 Nopone Road, Gainesville
-- Mulberry Creek Community Center – 4491 J M Turk Road, Flowery Branch
-- East Hall Community Center – 3911 P Davidson Road, Gainesville
-- Spout Springs Library – 6488 Spout Springs Road, Flowery Branch
-- Murrayville Library – 4796 Thompson Bridge Road, Gainesville
-- Flowery Branch City Hall – 5410 West Pine Street, Flowery Branch
-Voting locations for October 19 – October 23 (8am – 6pm)
-- Gainesville Civic Center – 830 Green St.
-NE, Gainesville
-- North Hall Community Center – 4175 Nopone Road, Gainesville
-- Mulberry Creek Community Center – 4491 J M Turk Road, Flowery Branch
-- East Hall Community Center – 3911 P Davidson Road, Gainesville
-- Spout Springs Library – 6488 Spout Springs Road, Flowery Branch
-- Murrayville Library – 4796 Thompson Bridge Road, Gainesville
-- Flowery Branch City Hall – 5410 West Pine Street, Flowery Branch (8am – 5pm)
-Voting locations for Saturday October 24 (9am – 5pm)
-- Gainesville Civic Center – 830 Green St.
-NE, Gainesville
-- North Hall Community Center – 4175 Nopone Road, Gainesville
-- Mulberry Creek Community Center – 4491 J M Turk Road, Flowery Branch
-- East Hall Community Center – 3911 P Davidson Road, Gainesville
-- Spout Springs Library – 6488 Spout Springs Road, Flowery Branch
-- Murrayville Library – 4796 Thompson Bridge Road, Gainesville
-- Flowery Branch City Hall – 5410 West Pine Street, Flowery Branch
-Voting locations for October 26 – October 30 (8am – 7pm)
-- Gainesville Civic Center – 830 Green St.
-NE, Gainesville
-- North Hall Community Center – 4175 Nopone Road, Gainesville
-- Mulberry Creek Community Center – 4491 J M Turk Road, Flowery Branch
-- East Hall Community Center – 3911 P Davidson Road, Gainesville
-- Spout Springs Library – 6488 Spout Springs Road, Flowery Branch
-- Murrayville Library – 4796 Thompson Bridge Road, Gainesville
-- Flowery Branch City Hall – 5410 West Pine Street, Flowery Branch (8am – 5pm)
+Voting locations for October 13 – October 16 (8am – 6pm) Gainesville Civic Center – 830 Green St.
+NE, Gainesville North Hall Community Center – 4175 Nopone Road, Gainesville Mulberry Creek Community Center – 4491 J M Turk Road, Flowery Branch East Hall Community Center – 3911 P Davidson Road, Gainesville Spout Springs Library – 6488 Spout Springs Road, Flowery Branch Murrayville Library – 4796 Thompson Bridge Road, Gainesville Flowery Branch City Hall – 5410 West Pine Street, Flowery Branch (8am – 5pm) Voting locations for Saturday October 17 (9am – 5pm) Gainesville Civic Center – 830 Green St.
+NE, Gainesville North Hall Community Center – 4175 Nopone Road, Gainesville Mulberry Creek Community Center – 4491 J M Turk Road, Flowery Branch East Hall Community Center – 3911 P Davidson Road, Gainesville Spout Springs Library – 6488 Spout Springs Road, Flowery Branch Murrayville Library – 4796 Thompson Bridge Road, Gainesville Flowery Branch City Hall – 5410 West Pine Street, Flowery Branch Voting locations for October 19 – October 23 (8am – 6pm) Gainesville Civic Center – 830 Green St.
+NE, Gainesville North Hall Community Center – 4175 Nopone Road, Gainesville Mulberry Creek Community Center – 4491 J M Turk Road, Flowery Branch East Hall Community Center – 3911 P Davidson Road, Gainesville Spout Springs Library – 6488 Spout Springs Road, Flowery Branch Murrayville Library – 4796 Thompson Bridge Road, Gainesville Flowery Branch City Hall – 5410 West Pine Street, Flowery Branch (8am – 5pm) Voting locations for Saturday October 24 (9am – 5pm) Gainesville Civic Center – 830 Green St.
+NE, Gainesville North Hall Community Center – 4175 Nopone Road, Gainesville Mulberry Creek Community Center – 4491 J M Turk Road, Flowery Branch East Hall Community Center – 3911 P Davidson Road, Gainesville Spout Springs Library – 6488 Spout Springs Road, Flowery Branch Murrayville Library – 4796 Thompson Bridge Road, Gainesville Flowery Branch City Hall – 5410 West Pine Street, Flowery Branch Voting locations for October 26 – October 30 (8am – 7pm) Gainesville Civic Center – 830 Green St.
+NE, Gainesville North Hall Community Center – 4175 Nopone Road, Gainesville Mulberry Creek Community Center – 4491 J M Turk Road, Flowery Branch East Hall Community Center – 3911 P Davidson Road, Gainesville Spout Springs Library – 6488 Spout Springs Road, Flowery Branch Murrayville Library – 4796 Thompson Bridge Road, Gainesville Flowery Branch City Hall – 5410 West Pine Street, Flowery Branch (8am – 5pm) Paid for and authorized by: Committee to Elect Matt Dubnik

@@ -1,4 +1,14 @@
 [
-"https://facebook.com/SeanSmithRep",
-"https://youtube.com/@SeanSmithForMo/featured"
+{
+"text": "Sean@SeanSmithForMO.com",
+"href": "mailto:Sean@SeanSmithForMO.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SeanSmithRep"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@SeanSmithForMo/featured"
+}
 ]

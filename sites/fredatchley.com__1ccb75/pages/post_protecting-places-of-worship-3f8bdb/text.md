@@ -1,5 +1,5 @@
-Protecting Places of Worship
-Every Tennessean has the right to worship in peace – you should be able to do so without fear of intimidation, disruption, or violence.
+top of page HOME ABOUT NEWS DONATE More Use tab to navigate through the menu items.
+All Posts Search Protecting Places of Worship Team Atchley Jun 15 1 min read Every Tennessean has the right to worship in peace – you should be able to do so without fear of intimidation, disruption, or violence.
 Unfortunately, we live in a time when these sacred spaces are increasingly under threat.
 Across the country, we have seen vandalism, harassment, and even deadly attacks targeting people at prayer.
 It is a disturbing trend, and Tennessee will not tolerate it.
@@ -16,3 +16,6 @@ They are pillars of our communities.
 They provide comfort in times of grief, guidance in times of uncertainty, and fellowship in times of need.
 Tennessee will protect them.
 This legislation makes that commitment clear.
+1130 S.
+Fork Dr., Sevierville, TN 37862 team@fredatchley.com Paid for by Fred Atchley for State Representative, Phil Whaley, Treasurer.
+Web design by ZDStephens Company . bottom of page

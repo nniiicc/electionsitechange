@@ -1,16 +1,62 @@
 [
-"https://facebook.com/voteamada",
-"https://instagram.com/amadaformnhouse",
-"https://signupgenius.com/go/10C044AABAC28A2F8C52-63993450-team",
-"https://signupgenius.com/go/10C044AABAC28A2F8C52-63994431-host",
-"https://twitter.com/AmadaMarquezS",
-"https://voteamada.com/",
-"https://voteamada.com/about",
-"https://voteamada.com/contact",
-"https://voteamada.com/donate",
-"https://voteamada.com/faq",
-"https://voteamada.com/issues",
-"https://voteamada.com/join",
-"https://voteamada.com/press",
-"https://voteamada.com/privacy-policy-2"
+{
+"text": "About",
+"href": "https://www.voteamada.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.voteamada.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.voteamada.com/donate/"
+},
+{
+"text": "FAQ",
+"href": "https://www.voteamada.com/faq/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteamada.com/issues/"
+},
+{
+"text": "Join the Campaign Team",
+"href": "https://www.voteamada.com/join/"
+},
+{
+"text": "Press Kit",
+"href": "https://www.voteamada.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteamada.com/privacy-policy-2/"
+},
+{
+"text": "See available hosting dates",
+"href": "https://www.signupgenius.com/go/10C044AABAC28A2F8C52-63994431-host#/"
+},
+{
+"text": "See available shifts",
+"href": "https://www.signupgenius.com/go/10C044AABAC28A2F8C52-63993450-team#/"
+},
+{
+"text": "[image: Vote Amáda]",
+"href": "https://www.voteamada.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/voteamada/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/amadaformnhouse/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/AmadaMarquezS"
+},
+{
+"text": "donating to Amáda’s campaign",
+"href": "https://www.voteamada.com/donate/"
+}
 ]

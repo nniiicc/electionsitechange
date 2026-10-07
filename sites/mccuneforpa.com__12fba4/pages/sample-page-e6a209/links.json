@@ -1,9 +1,30 @@
 [
-"https://facebook.com/profile.php?id=61588147930565",
-"https://mccuneforpa.com/",
-"https://mccuneforpa.com/about",
-"https://mccuneforpa.com/donate",
-"https://mccuneforpa.com/sample-page",
-"https://mccuneforpa.com/vol",
-"https://mccuneforpa.com/where-i-stand"
+{
+"text": "About",
+"href": "https://mccuneforpa.com/about/"
+},
+{
+"text": "Book a Call",
+"href": "https://mccuneforpa.com/sample-page/"
+},
+{
+"text": "Donate",
+"href": "https://mccuneforpa.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://mccuneforpa.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://mccuneforpa.com/vol/"
+},
+{
+"text": "Where I stand",
+"href": "https://mccuneforpa.com/where-i-stand/"
+},
+{
+"text": "[tooltip: facebook]",
+"href": "https://www.facebook.com/profile.php?id=61588147930565"
+}
 ]

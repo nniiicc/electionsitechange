@@ -1,4 +1,14 @@
 [
-"https://godwinforohio.com/",
-"https://godwinforohio.com/about"
+{
+"text": "About",
+"href": "https://godwinforohio.com/about/"
+},
+{
+"text": "Godwin for Ohio",
+"href": "https://godwinforohio.com/"
+},
+{
+"text": "Home",
+"href": "https://godwinforohio.com"
+}
 ]

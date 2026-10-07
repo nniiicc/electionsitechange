@@ -1,7 +1,9 @@
 {
  "description": "Send a question or comment. For media inquiries, email press@amandafornm.com.",
  "final_url": "https://amandafornm.com/contact/",
- "paid_for_by": null,
+ "fingerprint": "df6a2b8f2d85552a0c7ef52790cb5447ea157956",
+ "format": 3,
+ "paid_for_by": "Authorized by Amanda for NM Mailing Address: 8100 Wyoming Blvd NE, Ste M4 Box 708, Albuquerque, NM 87113 Contact",
  "title": "Contact | Amanda for New Mexico",
  "years_mentioned": []
 }

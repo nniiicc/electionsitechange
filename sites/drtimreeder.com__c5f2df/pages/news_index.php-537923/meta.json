@@ -1,8 +1,10 @@
 {
  "description": "See news regarding Dr. Timothy Reeder and his campaign.",
  "final_url": "https://drtimreeder.com/news",
+ "fingerprint": "eac3187b01a4154fc50e207345fd2db057c1aec3",
+ "format": 3,
  "paid_for_by": "Paid for by Committee for Dr Tim Reeder, All rights reserved",
- "title": "News \u2014 Elect Dr. Tim Reeder",
+ "title": "News — Elect Dr. Tim Reeder",
  "years_mentioned": [
   "2026"
  ]

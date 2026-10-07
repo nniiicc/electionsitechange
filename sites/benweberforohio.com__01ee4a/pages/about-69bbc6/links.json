@@ -1,6 +1,18 @@
 [
-"https://benweberforohio.com/cart",
-"https://benweberforohio.com/vote-weber",
-"https://facebook.com/profile.php?id=61573898973002",
-"https://secure.winred.com/ben-weber-for-ohio/donate-today"
+{
+"text": "0",
+"href": "https://www.benweberforohio.com/cart"
+},
+{
+"text": "Back to Home page",
+"href": "https://www.benweberforohio.com/vote-weber"
+},
+{
+"text": "DONATE!",
+"href": "https://secure.winred.com/ben-weber-for-ohio/donate-today"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61573898973002"
+}
 ]

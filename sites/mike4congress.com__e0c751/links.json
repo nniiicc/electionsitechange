@@ -1,16 +1,82 @@
 [
-"https://facebook.com/mikeharidopolos?mibextid=LQQJ4d&rdid=dtdJetDNCjgl1KTN&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FksLVgyqeHSmSRvne%2F%3Fmibextid%3DLQQJ4d",
-"https://instagram.com/mikeharidopolos",
-"https://mike4congress.com/",
-"https://mike4congress.com/about",
-"https://mike4congress.com/contact",
-"https://mike4congress.com/endorsements",
-"https://mike4congress.com/issues",
-"https://mike4congress.com/join-the-team",
-"https://mike4congress.com/media",
-"https://mike4congress.com/privacy-policy",
-"https://mike4congress.com/recipes",
-"https://secure.winred.com/mike-haridopolos-for-congress/donate-today-website",
-"https://secure.winred.com/mike-haridopolos-for-congress/storefront",
-"https://twitter.com/MikeHaridopolos"
+{
+"text": "About",
+"href": "https://www.mike4congress.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.mike4congress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/mike-haridopolos-for-congress/donate-today-website"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/mike-haridopolos-for-congress/donate-today-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mike4congress.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.mike4congress.com"
+},
+{
+"text": "Issues",
+"href": "https://www.mike4congress.com/issues"
+},
+{
+"text": "Join the Team",
+"href": "https://www.mike4congress.com/join-the-team"
+},
+{
+"text": "Media",
+"href": "https://www.mike4congress.com/media"
+},
+{
+"text": "News",
+"href": "https://www.mike4congress.com/recipes"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mike4congress.com/privacy-policy"
+},
+{
+"text": "SEE ALL ENDORSEMENTS",
+"href": "https://www.mike4congress.com/endorsements"
+},
+{
+"text": "STORE",
+"href": "https://secure.winred.com/mike-haridopolos-for-congress/storefront/"
+},
+{
+"text": "WHERE TO VOTE",
+"href": "https://allrepublicansvote.com/"
+},
+{
+"text": "You can also click here to donate now!",
+"href": "https://secure.winred.com/mike-haridopolos-for-congress/donate-today-website"
+},
+{
+"text": "[image: Facebook logo]",
+"href": "https://www.facebook.com/mikeharidopolos?mibextid=LQQJ4d&rdid=dtdJetDNCjgl1KTN&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FksLVgyqeHSmSRvne%2F%3Fmibextid%3DLQQJ4d"
+},
+{
+"text": "[image: Instagram logo]",
+"href": "https://www.instagram.com/mikeharidopolos/"
+},
+{
+"text": "[image: X logo]",
+"href": "https://twitter.com/MikeHaridopolos"
+},
+{
+"text": "[image: button_light_blue.png]",
+"href": "https://allrepublicansvote.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.mike4congress.com"
+}
 ]

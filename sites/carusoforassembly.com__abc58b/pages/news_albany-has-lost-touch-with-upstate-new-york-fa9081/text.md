@@ -1,7 +1,5 @@
-Albany Has Lost Touch with Upstate New York
-Over the past few months of traveling across Assembly District 113, I’ve had hundreds of conversations with people from communities like Saratoga Springs, Glens Falls, and Hudson Falls.
-The message I keep hearing is the same:
-Things are getting too expensive, and Albany isn’t listening.
+0 Skip to Content ALLEN CARUSO MEET ALLEN AFFORDABILITY AGENDA EVENTS NEWS GET INVOLVED Donate Now Open Menu Close Menu ALLEN CARUSO MEET ALLEN AFFORDABILITY AGENDA EVENTS NEWS GET INVOLVED Donate Now Open Menu Close Menu MEET ALLEN AFFORDABILITY AGENDA EVENTS NEWS GET INVOLVED Donate Now Albany Has Lost Touch with Upstate New York Apr 10 Written By Brandon Acres Over the past few months of traveling across Assembly District 113, I’ve had hundreds of conversations with people from communities like Saratoga Springs, Glens Falls, and Hudson Falls.
+The message I keep hearing is the same: Things are getting too expensive, and Albany isn’t listening.
 Families are feeling it when they pay their heating bills.
 Small business owners are feeling it when they try to make payroll.
 Retirees are feeling it when they look at their property taxes and wonder how long they can stay in their homes.
@@ -21,8 +19,7 @@ Like many entrepreneurs, I’ve experienced firsthand how government policies af
 That experience shaped the way I think about leadership.
 Good policy isn’t ideological.
 It’s practical.
-It asks a simple question:
-Will this make life better for the people who actually live here?
+It asks a simple question: Will this make life better for the people who actually live here?
 Too often in Albany, that question gets lost.
 Instead of focusing on affordability, public safety, and economic opportunity, the conversation becomes driven by politics and partisan priorities.
 Upstate New York deserves better.
@@ -31,3 +28,5 @@ These shouldn’t be partisan ideas.
 They are common-sense priorities shared by people across the political spectrum.
 If we want New York to thrive again, we need to start listening more carefully to the people who live outside the halls of Albany.
 That’s exactly what I intend to do.
+Brandon Acres Previous Previous GOVERNOR GEORGE E.
+PATAKI ENDORSES ALLEN CARUSO FOR NEW YORK STATE ASSEMBLY IN 113TH DISTRICT Next Next Rising Energy Costs Are Squeezing New York Farmers MEET ALLEN NEWS GET INVOLVED DONATE PRIVACY POLICY AFFORDABILITY ADGENDA TEXT TERMS & CONDITIONS

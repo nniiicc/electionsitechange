@@ -1,16 +1,8 @@
-Back to All Events
-The community is invited to join the Calloway County Democrats for an evening of food and fellowship at The Springhill Suites in Murray from 5-7pm on Friday, Sept 25th to raise funds for our important work!
+Skip to Content Open Menu Close Menu Meet Drew Policies Agriculture --Farm Independence --Farm Markets --Farm Security --Farm Supports Economy & Jobs --Business Reform --Consumer Protections --Infrastructure --Labor Rights Family & Community --Child Advocacy --Education --Housing --Senior Accessibility Government & Democracy --Campaign Reform --Congressional Reform --Tax Policy Healthcare --Drug Pricing / Access --EMS --Health Insurance --Parental Care Military & Veterans --Military Funding --Military Parent's Reprieve --Veteran's Assistance Technology & AI --AI-Safety --Civil Rights & AI --Creator Ethics & AI --Data Centers --Human Rights & AI --Workers & AI Endorsements Drew News Volunteer Merch Calendar Contact 0 0 Donate Meet Drew Policies Agriculture --Farm Independence --Farm Markets --Farm Security --Farm Supports Economy & Jobs --Business Reform --Consumer Protections --Infrastructure --Labor Rights Family & Community --Child Advocacy --Education --Housing --Senior Accessibility Government & Democracy --Campaign Reform --Congressional Reform --Tax Policy Healthcare --Drug Pricing / Access --EMS --Health Insurance --Parental Care Military & Veterans --Military Funding --Military Parent's Reprieve --Veteran's Assistance Technology & AI --AI-Safety --Civil Rights & AI --Creator Ethics & AI --Data Centers --Human Rights & AI --Workers & AI Endorsements Drew News Volunteer Merch Calendar Contact 0 0 Donate Open Menu Close Menu Meet Drew Folder: Policies Back Agriculture --Farm Independence --Farm Markets --Farm Security --Farm Supports Economy & Jobs --Business Reform --Consumer Protections --Infrastructure --Labor Rights Family & Community --Child Advocacy --Education --Housing --Senior Accessibility Government & Democracy --Campaign Reform --Congressional Reform --Tax Policy Healthcare --Drug Pricing / Access --EMS --Health Insurance --Parental Care Military & Veterans --Military Funding --Military Parent's Reprieve --Veteran's Assistance Technology & AI --AI-Safety --Civil Rights & AI --Creator Ethics & AI --Data Centers --Human Rights & AI --Workers & AI Endorsements Drew News Volunteer Merch Calendar Contact Donate Back to All Events Calloway Co Fish Fry Friday, September 25, 2026 5:00 PM 7:00 PM SpringHill Suites by Marriott 1512 North 12th Street Murray, Kentucky, 42071 United States (map) Google Calendar ICS The community is invited to join the Calloway County Democrats for an evening of food and fellowship at The Springhill Suites in Murray from 5-7pm on Friday, Sept 25th to raise funds for our important work!
 Invited Speakers: Lieutenant Governor Jacqueline, Former Kentucky State Rep and U.S.
 Senate candidate Charles Booker, and Senior Advisor to Kentucky Governor Andy Beashear Rep Rocky Adkins, and U.S.
-House candidate John "Drew" Williams
-Enjoy crispy cod fish filets with all the fixin's
-$35 per plate.
+House candidate John "Drew" Williams Enjoy crispy cod fish filets with all the fixin's $35 per plate.
 Buy a ticket from any Executive Committee member or donate $35 on ActBlue via the link provided and we'll see ya there!
-Previous
-Previous
-September 24
-James H.
-Mooneyhan Dinner
-Next
-Next
-September 26
+Previous Previous September 24 James H.
+Mooneyhan Dinner Next Next September 26 Marshall County Rock the Vote WHAT ARE YOUR CONCERNS?
+TELL ME ABOUT IT Meet Drew Contact Us Donate by Mail Mutual Aid Policy Plans Volunteer Terms + Conditions Privacy Policy Paid for by Williams for Kentucky Campaign.

@@ -1,5 +1,5 @@
-Our Coastal Community Cannot Wait for the Next Storm
-This winter has put a lot in front of people across our district.
+top of page Chris Lambton DONATE FOR STATE REPRESENTATIVE Brewster-Dennis-Yarmouth Home About Priorities Endorsements News Events How to Vote Get Involved Contact More Use tab to navigate through the menu items.
+All Articles Search Our Coastal Community Cannot Wait for the Next Storm clambton13 Mar 22 2 min read This winter has put a lot in front of people across our district.
 Hard weather.
 Stronger storms.
 Roads under pressure.
@@ -34,3 +34,4 @@ And I know from serving as Select Board Chair that real preparedness depends on 
 Coastal resiliency and storm preparedness are not minor issues.
 They are basic to the people who live here, work here, and rely on this community to function when conditions get ridiculous.
 Our district deserves leadership that takes that responsibility seriously.
+Recent Posts See All Retirement Should Not Mean Being Priced Out Protecting Our Water is Personal Workers and the Functioning of Our Towns SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail First name Last name Email Submit DONATE Home Priorities ​ About News Get Involved Contact Chris Lambton - FOR STATE REPRESENTATIVE - Brewster - Dennis - Yarmouth Vote Chris Lambton Terms & Conditions © # Committee to Elect Chris Lambton PO Box 594 DENNIS, MA 02638 info@votelambton.com bottom of page

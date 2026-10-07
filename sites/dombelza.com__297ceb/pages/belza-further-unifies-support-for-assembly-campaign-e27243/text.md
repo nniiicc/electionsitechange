@@ -1,40 +1,11 @@
-Marysville, Calif. – – Today Republican agricultural business owner, Dom Belza, announced a new list of endorsements in his campaign for the State Assembly, including the now unanimous support of the Yuba City Council.
+Home About Issues Media News Volunteer Endorsements Contact Us Home About Issues Media News Volunteer Endorsements Contact Us DONATE ENDORSE DOM BELZA Belza Further Unifies Support for Assembly Campaign Marysville, Calif. – – Today Republican agricultural business owner, Dom Belza, announced a new list of endorsements in his campaign for the State Assembly, including the now unanimous support of the Yuba City Council.
 Belza’s impressive support is illustrative of an individual who has longstanding ties to the region and displays unifying leadership across the community.
 In just 30 days, the Belza campaign has built an overwhelming groundswell of in-district support, most notably in Yuba & Sutter Counties.
-The newly announced endorsements include:
-Sutter County
-Tom Reusser, County Superintendent of Schools
-Wade Kirchner, Yuba City Councilmember
-Bob Woten, Live Oak Councilmember
-John Cassidy, Yuba College Trustee
-Al Montna, Levee District 1 Board Member
-Charlie Hoppin, Levee District 1 Board Member / State Water Resources Control Board Chair (ret.)
-Jasmin Dhami, Yuba City Unified School District Trustee
-Londa Lamb, Yuba City Unified School District Trustee
-Mike Reid, County Board of Education Trustee
-Barbara LeVake, County Supervisor (ret.)
-Larry Munger, County Supervisor (ret.)
-Jim Whiteaker, County Supervisor (ret.)
-John Dukes, Yuba City Councilmember (ret.)
-Yuba County
-Andy Vasquez, County Supervisor
-Tib Belza, County Supervisor (ret.)
-Wayne Bishop, Yuba County Water Agency Board Member
-Charlie (& Sheila) Mathews, Yuba County Water Agency Board Member
-Stephen Duckels, County Assessor
-Rob Gregor, County Superintendent of Schools
-Doug Criddle, Marysville Joint Unified School District President
-Seth Stemen, Marysville Joint Unified School District Vice President
-Oliver Taylor, Marysville Joint Unified School District Trustee
-Katherine Rosser, County Board of Education Trustee
-Sarb Atwal, Reclamation District 784 Board President
-Stephanie McKenzie, Marysville Councilmember (ret.)
-Just days after launching his campaign last month, Belza announced endorsements from a majority of county and city officials in the Yuba-Sutter region.
+The newly announced endorsements include: Sutter County Tom Reusser, County Superintendent of Schools Wade Kirchner, Yuba City Councilmember Bob Woten, Live Oak Councilmember John Cassidy, Yuba College Trustee Al Montna, Levee District 1 Board Member Charlie Hoppin, Levee District 1 Board Member / State Water Resources Control Board Chair (ret.) Jasmin Dhami, Yuba City Unified School District Trustee Londa Lamb, Yuba City Unified School District Trustee Mike Reid, County Board of Education Trustee Barbara LeVake, County Supervisor (ret.) Larry Munger, County Supervisor (ret.) Jim Whiteaker, County Supervisor (ret.) John Dukes, Yuba City Councilmember (ret.) Yuba County Andy Vasquez, County Supervisor Tib Belza, County Supervisor (ret.) Wayne Bishop, Yuba County Water Agency Board Member Charlie (& Sheila) Mathews, Yuba County Water Agency Board Member Stephen Duckels, County Assessor Rob Gregor, County Superintendent of Schools Doug Criddle, Marysville Joint Unified School District President Seth Stemen, Marysville Joint Unified School District Vice President Oliver Taylor, Marysville Joint Unified School District Trustee Katherine Rosser, County Board of Education Trustee Sarb Atwal, Reclamation District 784 Board President Stephanie McKenzie, Marysville Councilmember (ret.) Just days after launching his campaign last month, Belza announced endorsements from a majority of county and city officials in the Yuba-Sutter region.
 He has earned support from the Mayor of the District’s largest city (Chico) and now has unanimous support from the City Council of the second largest city (Yuba City).
 A more extensive list of endorsements can be found at www.DomBelza.com.
 The 3rd Assembly District encompasses all or portions of six counties: Butte, Sutter, Yuba, Tehama, Glenn, and Placer.
-About Dom Belza
-Dom has been married to his wife, Julia, for 11 years, and together they have four children: three daughters—Rylee (9), Raegan (7), and Ruby (5)—and one son, Johnny (2).
+About Dom Belza Dom has been married to his wife, Julia, for 11 years, and together they have four children: three daughters—Rylee (9), Raegan (7), and Ruby (5)—and one son, Johnny (2).
 Outside of his professional life, Dom is passionate about serving and giving back to his local community.
 This dedication inspired him to run for City Council and he continues to drive his volunteer work through his church and local service groups, including various service organizations and industry groups.
-###
+### Share the Post: Facebook Instagram Youtube Privacy Policy Paid for by Belza for Assembly 2026 FPPC# 1477103 Endorse Dom Belza First Name Last Name Email Address Title Submit

@@ -1,6 +1,4 @@
-Forward Party State Convention
-April 16, 2026
-Thanks to everyone that came out for our Statewide convention last Saturday.
+top of page Colin Smith Utah Senate District 13 Candidate Home About Volunteer Events Blog Saving The Lake Donate All Posts Search Forward Party State Convention amessner941 Apr 16 1 min read April 16, 2026 Thanks to everyone that came out for our Statewide convention last Saturday.
 It was a huge success!
 It was very gratifying to see the hundreds of people that attended.
 I remember just three short years ago when we had around 20 people in attendance.
@@ -19,4 +17,13 @@ Without your support, I could not run this race.
 Please come to our next event at Fairmont Park on 5/2.
 See my website for the details and to RSVP.
 Together we can move Utah Forward!
-Colin
+Colin Recent Posts See All Food Drive and Yard Games May 2 Volleyball & Food Drive Thanks to everyone that came out to Fairmont Park yesterday for our great event!
+We served hot dogs, chips, soft drinks and cookies to over 50 people.
+In addition to en Salt Lake County Convention Thanks to everyone who attended the Salt Lake County Convention last Saturday.
+I especially want to thank Sue Schulman who helped us secure the location for this event.
+It was a successful conventio March Statement Thanks to everyone that has expressed an interest in my campaign.
+I am so honored and thankful for your support.
+Our first event was our Campaign Launch Party at the Rose Park Library last Saturday, Colin Smith Building for a Better Future Email * Yes, subscribe me to your newsletter. * Submit Privacy Policy ​ © # Forward With Colin.
+Paid for by Forward With Colin, Alice Smith, Treasurer.
+Contributions are not tax deductible.
+Powered and secured by Wix bottom of page

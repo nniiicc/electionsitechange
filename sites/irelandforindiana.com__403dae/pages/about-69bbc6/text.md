@@ -1,9 +1,9 @@
-Rooted in Indiana
-Service grounded in faith, family, and conservative principles.
+Skip to content Stand with Andrew — donate today → Meet Andrew Record Priorities News Take Action ☰ Donate Meet Andrew Ireland A lifelong Hoosier fighting for home.
+Attorney, husband, father, and proven conservative State Representative for Indiana House District 90.
+Rooted in Indiana Service grounded in faith, family, and conservative principles.
 Andrew Ireland is an attorney and lifelong Hoosier representing Indiana House District 90, which includes portions of Franklin and Perry Townships in southern Marion County.
 At the Statehouse, he has earned a reputation as a strong conservative voice who is willing to ask hard questions, defend Hoosier values, and get results.
-View the official House District 90 map →
-Defending Indiana.
+House District 90 Franklin & Perry Townships Attorney Public and private practice Husband & father Faith and family first View the official House District 90 map → Defending Indiana.
 Before joining the Indiana General Assembly, Andrew served as a Deputy Indiana Attorney General.
 He worked on some of the state’s most consequential cases and appeals, including efforts to defend Indiana’s pro-life laws, protect election integrity, and push back against the Biden administration’s immigration policies all the way to the United States Supreme Court.
 Andrew later entered private practice, where he represents trucking companies and other Indiana businesses.
@@ -17,3 +17,6 @@ Today they live in Franklin Township with their daughter, Anna Grace.
 The Ireland family attends Indian Creek Christian Church.
 For Andrew, public service starts with listening.
 Whether he is knocking on doors, touring a local business, meeting with law enforcement, or speaking with families at a community event, he takes the concerns of District 90 directly to the Statehouse—and works to deliver.
+Explore Andrew’s priorities → Request a yard sign Meet Andrew Record Priorities News Take Action Request a yard sign Contact Privacy Terms Donate Questions, press inquiries, or ready to volunteer? team@irelandforindiana.com X f PAID FOR BY IRELAND FOR INDIANA INC. © # Ireland for Indiana Inc.
+All rights reserved. × Keep District 90 conservative Help Andrew keep delivering.
+Your contribution helps Team Ireland reach more Southside voters, defend Andrew’s conservative record, and win this November. $10 $25 $50 $100 $250 Other amount Continue to website → Donate

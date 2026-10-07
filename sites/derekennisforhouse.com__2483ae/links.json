@@ -1,8 +1,38 @@
 [
-"https://derekennisforhouse.com/",
-"https://derekennisforhouse.com/district-4",
-"https://derekennisforhouse.com/home-1",
-"https://facebook.com/profile.php?id=61588108030266",
-"https://secure.winred.com/ennis-for-house/donate",
-"https://winred.com/"
+{
+"text": "DONATE NOW TO SUPPORT THE CAMPAIGN",
+"href": "https://secure.winred.com/ennis-for-house/donate"
+},
+{
+"text": "Discussion",
+"href": "https://www.derekennisforhouse.com/home-1"
+},
+{
+"text": "District 4 Info",
+"href": "https://www.derekennisforhouse.com/district-4"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.winred.com/ennis-for-house/donate"
+},
+{
+"text": "Home",
+"href": "https://www.derekennisforhouse.com"
+},
+{
+"text": "Support Here",
+"href": "https://secure.winred.com/ennis-for-house/donate"
+},
+{
+"text": "Support Progress via WinRed",
+"href": "https://www.winred.com"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.derekennisforhouse.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588108030266"
+}
 ]

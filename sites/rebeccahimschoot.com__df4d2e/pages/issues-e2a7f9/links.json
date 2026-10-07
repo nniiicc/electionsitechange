@@ -1,11 +1,42 @@
 [
-"https://akleg.gov/basis/Member/Detail/34?code=hms",
-"https://facebook.com/Himschoot4Alaska",
-"https://rebeccahimschoot.com/",
-"https://rebeccahimschoot.com/about",
-"https://rebeccahimschoot.com/cart",
-"https://rebeccahimschoot.com/contact",
-"https://rebeccahimschoot.com/issues",
-"https://rebeccahimschoot.com/voter-information",
-"https://secure.anedot.com/rebeccahimschoot/donate?source_code=website"
+{
+"text": "0",
+"href": "https://www.rebeccahimschoot.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.rebeccahimschoot.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.rebeccahimschoot.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/rebeccahimschoot/donate?source_code=website"
+},
+{
+"text": "Home",
+"href": "https://www.rebeccahimschoot.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.rebeccahimschoot.com/issues"
+},
+{
+"text": "Voter Info",
+"href": "https://www.rebeccahimschoot.com/voter-information"
+},
+{
+"text": "[image: Rebecca Himschoot For Alaska]",
+"href": "https://www.rebeccahimschoot.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Himschoot4Alaska"
+},
+{
+"text": "sponsor bills",
+"href": "https://www.akleg.gov/basis/Member/Detail/34?code=hms#tab7_3"
+}
 ]

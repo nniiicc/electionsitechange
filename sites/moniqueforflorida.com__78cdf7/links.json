@@ -1,6 +1,18 @@
 [
-"https://moniqueforflorida.com/",
-"https://moniqueforflorida.com/privacy-policy",
-"https://moniqueforflorida.com/terms-and-conditions",
-"https://secure.anedot.com/monique-miller-campaign/donate"
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/monique-miller-campaign/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://moniqueforflorida.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://moniqueforflorida.com/terms-and-conditions/"
+},
+{
+"text": "[image]",
+"href": "https://moniqueforflorida.com"
+}
 ]

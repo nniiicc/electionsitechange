@@ -1,28 +1,130 @@
 [
-"https://absenteeballot.elections.ny.gov/",
-"https://ballotapplication.elections.ny.gov/home/earlymail",
-"https://citizenparticipation.westchestergov.com/find-polling-place",
-"https://elections.ny.gov/OnlineVoterReg.html",
-"https://elections.ny.gov/request-ballot",
-"https://facebook.com/lawler4ny",
-"https://instagram.com/lawler4ny",
-"https://lawlerforcongress.com/",
-"https://lawlerforcongress.com/about",
-"https://lawlerforcongress.com/accessibility",
-"https://lawlerforcongress.com/cdn-cgi/l/email-protection",
-"https://lawlerforcongress.com/endorsements",
-"https://lawlerforcongress.com/issues",
-"https://lawlerforcongress.com/news",
-"https://lawlerforcongress.com/privacy",
-"https://lawlerforcongress.com/sign",
-"https://lawlerforcongress.com/terms",
-"https://lawlerforcongress.com/volunteer",
-"https://lawlerforcongress.com/vote",
-"https://nyovr.elections.ny.gov/",
-"https://nysballot.elections.ny.gov/",
-"https://secure.winred.com/lawler-for-congress/donate-today",
-"https://secure.winred.com/lawler-for-congress/storefront",
-"https://twitter.com/lawler4ny",
-"https://vic.ntsdata.com/home/Rockland",
-"https://voterlookup.elections.ny.gov/"
+{
+"text": "About",
+"href": "https://www.lawlerforcongress.com/about/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.lawlerforcongress.com/accessibility/"
+},
+{
+"text": "Click here for more info",
+"href": "https://www.elections.ny.gov/OnlineVoterReg.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/lawler-for-congress/donate-today"
+},
+{
+"text": "Dutchess",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lawlerforcongress.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.lawlerforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.lawlerforcongress.com/issues/"
+},
+{
+"text": "More Info",
+"href": "https://elections.ny.gov/request-ballot"
+},
+{
+"text": "News",
+"href": "https://www.lawlerforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lawlerforcongress.com/privacy/"
+},
+{
+"text": "Putnam",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
+"text": "Register Online",
+"href": "https://nyovr.elections.ny.gov/"
+},
+{
+"text": "Request Ballot",
+"href": "https://absenteeballot.elections.ny.gov/"
+},
+{
+"text": "Request Ballot",
+"href": "https://ballotapplication.elections.ny.gov/home/earlymail"
+},
+{
+"text": "Rockland",
+"href": "https://vic.ntsdata.com/home/Rockland"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/lawler-for-congress/storefront"
+},
+{
+"text": "Signs",
+"href": "https://www.lawlerforcongress.com/sign/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.lawlerforcongress.com/terms/"
+},
+{
+"text": "Track Ballot",
+"href": "https://nysballot.elections.ny.gov/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lawlerforcongress.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://www.lawlerforcongress.com/vote/"
+},
+{
+"text": "Westchester",
+"href": "https://citizenparticipation.westchestergov.com/find-polling-place"
+},
+{
+"text": "[email protected]",
+"href": "mailto:boe@putnamcountyny.gov"
+},
+{
+"text": "[email protected]",
+"href": "mailto:casy@westchestercountyny.gov"
+},
+{
+"text": "[email protected]",
+"href": "mailto:dutchesselections@dutchessny.gov"
+},
+{
+"text": "[email protected]",
+"href": "mailto:mike@lawlerforcongress.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:voterinfo@co.rockland.ny.us"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/lawler4ny"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/lawler4ny"
+},
+{
+"text": "[image: Mike Lawler for Congress logo]",
+"href": "https://www.lawlerforcongress.com/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/lawler4ny"
+}
 ]

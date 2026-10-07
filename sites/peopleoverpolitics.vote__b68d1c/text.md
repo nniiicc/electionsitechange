@@ -1,16 +1,4 @@
-Candidate for Georgia House District 21
-Anthony Aragues
-Put People First.
+PEOPLE OVER POLITICS About Anthony Events Affordability Tax Math Bills to Watch Cherokee Elections Community Poll Register to Vote Candidate for Georgia House District 21 Anthony Aragues Put People First.
 Protect Their Rights, & Keep Them Informed.
-Explore
-Who Anthony is, what shaped him, and why he is running
-Georgia family budgets, wages, taxes, and cost-of-living math
-Analysis and proposals for Georgia
-Removal impact and replacement math
-Property + income elimination scenario
-Public tracker for active Georgia legislation
-District maps, candidates, and local election resources
-Privacy, informed consent, faith, family, and equal treatment
-Georgia brief on constitutional limits and public safety
-Endorsements
-Support from groups focused on veterans, public service, and building durable Democratic infrastructure in Georgia.
+About Anthony Donate Explore About Anthony Who Anthony is, what shaped him, and why he is running Affordability Georgia family budgets, wages, taxes, and cost-of-living math Property Tax Analysis and proposals for Georgia Income Tax Removal impact and replacement math Combined Tax Property + income elimination scenario Bills to Watch Public tracker for active Georgia legislation Cherokee Elections District maps, candidates, and local election resources Personal Liberty Privacy, informed consent, faith, family, and equal treatment Warrants & Due Process Georgia brief on constitutional limits and public safety Register to Vote in Georgia Endorsements Organizations backing this campaign Support from groups focused on veterans, public service, and building durable Democratic infrastructure in Georgia.
+VoteVets Fighting Fifty Common Good Candidate

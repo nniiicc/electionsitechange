@@ -1,9 +1,6 @@
-Meet Tennessee House District 65 Democratic Nominee
-Julian Pierre-Griffin
-Service to Country.
+Donate Menu Home Meet Candidate Issues Events Endorsements Volunteer Follow us on Social Media Meet Tennessee House District 65 Democratic Nominee Julian Pierre-Griffin Service to Country.
 Commitment to Community.
-A little about me:
-My story is rooted in service, discipline, and community.
+A little about me: My story is rooted in service, discipline, and community.
 I was born and raised on Chicago’s South Side, where my parents — now married 69 years — taught me the values of commitment, responsibility, and perseverance.
 I grew up with one brother, now deceased, and those early experiences shaped the foundation of who I am today.
 Family has always been central to my life.
@@ -21,3 +18,6 @@ Beyond business, I’ve served for more than five years on the board of the Boys
 Strengthening families, supporting youth, and preserving the character of Williamson County have been central to my work — and to the place my wife Megan and I have proudly called home for over two decades.
 Today, I’m running for the Tennessee House of Representatives in District 65 to bring disciplined leadership, responsible growth, and transparent, community‑driven solutions to the state legislature.
 My life’s path — service, leadership, business, and civic engagement — forms a clear bridge to the work I’m ready to do for the people of Williamson County, full-time.
+Support Our Campaign Stay Up To Date Follow us on the campaign trail!
+First Name * Last Name * Phone Number * Keep Me Updated Home Meet Candidate Issues Events Endorsements Volunteer Donate Today!
+Follow us on Social Media Accessibility Statement Terms of Service Contact Paid for By Friends of Julian Pierre-Griffin - Megan Griffin, Treasurer 1104 Warrior Drive, Franklin, Tennessee 37064 Julian Pierre-Griffin for Tennessee House 65 © #

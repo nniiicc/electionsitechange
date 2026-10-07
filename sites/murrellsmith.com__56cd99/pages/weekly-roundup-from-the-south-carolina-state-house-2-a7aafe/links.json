@@ -1,22 +1,86 @@
 [
-"https://facebook.com/MurrellSmithSCHouse",
-"https://freedomsfence-line.com/getta-steppin-podcast",
-"https://freedomsfenceline.podbean.com/e/south-carolina-speaker-murrell-smith",
-"https://instagram.com/murrellsmith",
-"https://murrellsmith.com/",
-"https://murrellsmith.com/about",
-"https://murrellsmith.com/contact",
-"https://murrellsmith.com/issues",
-"https://murrellsmith.com/news",
-"https://murrellsmith.com/privacy-policy",
-"https://scstatehouse.gov/query.php?search=DOC&searchtext=3408&category=LEGISLATION&session=126&conid=79124160&result_pos=0&keyval=1263408&numrows=10",
-"https://scstatehouse.gov/query.php?search=DOC&searchtext=4216&category=LEGISLATION&session=126&conid=79124181&result_pos=0&keyval=1264216&numrows=10",
-"https://scstatehouse.gov/query.php?search=DOC&searchtext=4248&category=LEGISLATION&session=126&conid=79120564&result_pos=0&keyval=1264248&numrows=10",
-"https://scstatehouse.gov/query.php?search=DOC&searchtext=4611&category=LEGISLATION&session=126&conid=79124782&result_pos=0&keyval=1264611&numrows=10",
-"https://scstatehouse.gov/query.php?search=DOC&searchtext=4641&category=LEGISLATION&session=126&conid=79124199&result_pos=0&keyval=1264641&numrows=10",
-"https://scstatehouse.gov/query.php?search=DOC&searchtext=4756&category=LEGISLATION&session=126&conid=79124765&result_pos=0&keyval=1264756&numrows=10",
-"https://scstatehouse.gov/query.php?search=DOC&searchtext=5201&category=LEGISLATION&session=126&conid=79124216&result_pos=0&keyval=1265201&numrows=10",
-"https://scstatehouse.gov/query.php?search=DOC&searchtext=S+32&category=LEGISLATION&session=126&conid=79124374&result_pos=30&keyval=1260032&numrows=10",
-"https://secure.anedot.com/murrellsmith67/donate",
-"https://x.com/murrellsmith"
+{
+"text": "Contact",
+"href": "https://murrellsmith.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/murrellsmith67/donate"
+},
+{
+"text": "Get’ta Steppin’ Podcast",
+"href": "https://freedomsfence-line.com/getta-steppin-podcast"
+},
+{
+"text": "H.3408",
+"href": "https://www.scstatehouse.gov/query.php?search=DOC&searchtext=3408&category=LEGISLATION&session=126&conid=79124160&result_pos=0&keyval=1263408&numrows=10"
+},
+{
+"text": "H.4216",
+"href": "https://www.scstatehouse.gov/query.php?search=DOC&searchtext=4216&category=LEGISLATION&session=126&conid=79124181&result_pos=0&keyval=1264216&numrows=10"
+},
+{
+"text": "H.4248",
+"href": "https://www.scstatehouse.gov/query.php?search=DOC&searchtext=4248&category=LEGISLATION&session=126&conid=79120564&result_pos=0&keyval=1264248&numrows=10"
+},
+{
+"text": "H.4611",
+"href": "https://www.scstatehouse.gov/query.php?search=DOC&searchtext=4611&category=LEGISLATION&session=126&conid=79124782&result_pos=0&keyval=1264611&numrows=10"
+},
+{
+"text": "H.4641",
+"href": "https://www.scstatehouse.gov/query.php?search=DOC&searchtext=4641&category=LEGISLATION&session=126&conid=79124199&result_pos=0&keyval=1264641&numrows=10"
+},
+{
+"text": "H.4756",
+"href": "https://www.scstatehouse.gov/query.php?search=DOC&searchtext=4756&category=LEGISLATION&session=126&conid=79124765&result_pos=0&keyval=1264756&numrows=10"
+},
+{
+"text": "H.5201",
+"href": "https://www.scstatehouse.gov/query.php?search=DOC&searchtext=5201&category=LEGISLATION&session=126&conid=79124216&result_pos=0&keyval=1265201&numrows=10"
+},
+{
+"text": "Issues",
+"href": "https://murrellsmith.com/issues/"
+},
+{
+"text": "Meet Murrell",
+"href": "https://murrellsmith.com/about/"
+},
+{
+"text": "News",
+"href": "https://murrellsmith.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://murrellsmith.com/privacy-policy/"
+},
+{
+"text": "S.32",
+"href": "https://www.scstatehouse.gov/query.php?search=DOC&searchtext=S+32&category=LEGISLATION&session=126&conid=79124374&result_pos=30&keyval=1260032&numrows=10"
+},
+{
+"text": "[image]",
+"href": "https://murrellsmith.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MurrellSmithSCHouse"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/murrellsmith/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/murrellsmith"
+},
+{
+"text": "freedomsfenceline.podbean.com",
+"href": "https://freedomsfenceline.podbean.com/e/south-carolina-speaker-murrell-smith/"
+},
+{
+"text": "murrellsmith.com",
+"href": "https://murrellsmith.com/"
+}
 ]

@@ -1,29 +1,114 @@
 [
-"https://ballotpedia.org/Indiana_State_Senate_District_23",
-"https://electjoshuabrant.org/",
-"https://electjoshuabrant.org/2026/01/06/hello-world",
-"https://electjoshuabrant.org/2026/02/11/press-release-official-announcement",
-"https://electjoshuabrant.org/2026/02/27/education-policy-update",
-"https://electjoshuabrant.org/2026/05/07/community-round-table-update",
-"https://electjoshuabrant.org/2026/05/08/full-round-table-schedule",
-"https://electjoshuabrant.org/2026/05/27/community-round-table-cancellation",
-"https://electjoshuabrant.org/2026/07/07/major-campaign-update",
-"https://electjoshuabrant.org/2026/07/22/press-release-ballot-access",
-"https://electjoshuabrant.org/2026/07/31/fundraising-launch",
-"https://electjoshuabrant.org/2026/10/05/early-voting-message-to-voters",
-"https://electjoshuabrant.org/communicate",
-"https://electjoshuabrant.org/current-proposals",
-"https://electjoshuabrant.org/district-map",
-"https://electjoshuabrant.org/donate",
-"https://electjoshuabrant.org/events",
-"https://electjoshuabrant.org/get-involved",
-"https://electjoshuabrant.org/pac-transparency",
-"https://electjoshuabrant.org/thecandidate",
-"https://electjoshuabrant.org/theissues",
-"https://instagram.com/electjoshuabrant",
-"https://linkedin.com/in/joshuabrant",
-"https://merch-store-to-elect-joshua-brant.printify.me/",
-"https://tiktok.com/@electjoshuabrant",
-"https://x.com/electjoshbrant",
-"https://youtube.com/@Electjoshuabrant"
+{
+"text": "Communicate",
+"href": "https://electjoshuabrant.org/communicate"
+},
+{
+"text": "Community Round Table Cancellation",
+"href": "https://electjoshuabrant.org/2026/05/27/community-round-table-cancellation/"
+},
+{
+"text": "Community Round Table Update",
+"href": "https://electjoshuabrant.org/2026/05/07/community-round-table-update/"
+},
+{
+"text": "Current Proposals",
+"href": "https://electjoshuabrant.org/current-proposals/"
+},
+{
+"text": "District Map",
+"href": "https://electjoshuabrant.org/district-map/"
+},
+{
+"text": "Donate",
+"href": "https://electjoshuabrant.org/donate/"
+},
+{
+"text": "Early Voting Message to Voters",
+"href": "https://electjoshuabrant.org/2026/10/05/early-voting-message-to-voters/"
+},
+{
+"text": "Education Policy Update",
+"href": "https://electjoshuabrant.org/2026/02/27/education-policy-update/"
+},
+{
+"text": "Elect Joshua Brant",
+"href": "https://electjoshuabrant.org"
+},
+{
+"text": "Events",
+"href": "https://electjoshuabrant.org/events"
+},
+{
+"text": "For Indiana State Senate District 23…",
+"href": "https://ballotpedia.org/Indiana_State_Senate_District_23"
+},
+{
+"text": "Full Round Table Schedule",
+"href": "https://electjoshuabrant.org/2026/05/08/full-round-table-schedule/"
+},
+{
+"text": "Fundraising Launch",
+"href": "https://electjoshuabrant.org/2026/07/31/fundraising-launch/"
+},
+{
+"text": "Get Involved",
+"href": "https://electjoshuabrant.org/get-involved/"
+},
+{
+"text": "Hello World!",
+"href": "https://electjoshuabrant.org/2026/01/06/hello-world/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/electjoshuabrant"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/joshuabrant/"
+},
+{
+"text": "MERCH",
+"href": "https://merch-store-to-elect-joshua-brant.printify.me/"
+},
+{
+"text": "Major Campaign Update",
+"href": "https://electjoshuabrant.org/2026/07/07/major-campaign-update/"
+},
+{
+"text": "News",
+"href": "https://electjoshuabrant.org/"
+},
+{
+"text": "PAC Transparency",
+"href": "https://electjoshuabrant.org/pac-transparency/"
+},
+{
+"text": "PRESS RELEASE: Ballot Access",
+"href": "https://electjoshuabrant.org/2026/07/22/press-release-ballot-access/"
+},
+{
+"text": "Press Release: Official Announcement",
+"href": "https://electjoshuabrant.org/2026/02/11/press-release-official-announcement/"
+},
+{
+"text": "The Candidate",
+"href": "https://electjoshuabrant.org/thecandidate"
+},
+{
+"text": "The Issues",
+"href": "https://electjoshuabrant.org/theissues"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@electjoshuabrant"
+},
+{
+"text": "X",
+"href": "https://x.com/electjoshbrant"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@Electjoshuabrant"
+}
 ]

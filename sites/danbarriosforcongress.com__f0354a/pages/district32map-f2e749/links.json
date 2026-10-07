@@ -1,15 +1,74 @@
 [
-"https://danbarriosforcongress.com/",
-"https://danbarriosforcongress.com/about",
-"https://danbarriosforcongress.com/contact",
-"https://danbarriosforcongress.com/contactdan",
-"https://danbarriosforcongress.com/district32map",
-"https://danbarriosforcongress.com/issues",
-"https://facebook.com/DanBarriosForCongress",
-"https://goelect.txelections.civixapps.com/ivis-mvp-ui",
-"https://instagram.com/danbarriosforcongress",
-"https://mobilize.us/danbarriosforcongress",
-"https://secure.actblue.com/donate/danforcongresswebsite",
-"https://store.danbarriosforcongress.com/",
-"https://x.com/barriosforus"
+{
+"text": "About Dan",
+"href": "https://www.danbarriosforcongress.com/about"
+},
+{
+"text": "Click Here to Check",
+"href": "https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login"
+},
+{
+"text": "Contact Dan",
+"href": "https://www.danbarriosforcongress.com/contactdan"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/danforcongresswebsite"
+},
+{
+"text": "District 32 Map",
+"href": "https://www.danbarriosforcongress.com/district32map"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/danbarriosforcongress/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.danbarriosforcongress.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.danbarriosforcongress.com"
+},
+{
+"text": "Issues",
+"href": "https://www.danbarriosforcongress.com/issues"
+},
+{
+"text": "PAID FOR BY DAN BARRIOS FOR CONGRESS",
+"href": "https://www.danbarriosforcongress.com"
+},
+{
+"text": "STORE",
+"href": "https://store.danbarriosforcongress.com/"
+},
+{
+"text": "Your Voter Registration",
+"href": "https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login"
+},
+{
+"text": "[image: Dan Barrios for Congress]",
+"href": "https://www.danbarriosforcongress.com"
+},
+{
+"text": "[image: DanClearBack.png]",
+"href": "https://www.danbarriosforcongress.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DanBarriosForCongress"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/danbarriosforcongress"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/barriosforus"
+},
+{
+"text": "info@danbarriosforcongress.com",
+"href": "mailto:info@danbarriosforcongress.com"
+}
 ]

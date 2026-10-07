@@ -1,12 +1,7 @@
-The Moral Imperative of Governance
-At its core, government should be a mechanism to provide for the greater good – coming together to leverage the collective strength of our resources in a way that individual effort cannot achieve.
-This is the stuff of history books where societies advance and the influence of great men and women steer communities and nations forward.
-New Hampshire, reflecting trends both nationally and internationally, is experiencing a crisis of conscience where civic duty and responsibility for the benefit of our citizens is wearing thin.
-In its place we see disdain for the majority of citizens in favor of steadily increasing advantages to the wealthy and expanding the influence of big business and special interests.
-Unique to New Hampshire are the Free-Staters, whose self-serving agenda of demolishing government seriously threatens our way of life.
+top of page Jim Pittman For New Hampshire Home About District 8 Thoughts Governance Four Freedoms No New Taxes Contact The Moral Imperative of Governance At its core, government should be a mechanism to provide for the greater good – coming together to leverage the collective strength of our resources in a way that individual effort cannot achieve.
+This is the stuff of history books where societies advance and the influence of great men and women steer communities and nations forward. ​ New Hampshire, reflecting trends both nationally and internationally, is experiencing a crisis of conscience where civic duty and responsibility for the benefit of our citizens is wearing thin.
+In its place we see disdain for the majority of citizens in favor of steadily increasing advantages to the wealthy and expanding the influence of big business and special interests. ​ Unique to New Hampshire are the Free-Staters, whose self-serving agenda of demolishing government seriously threatens our way of life.
 Their presence has grown frighteningly over the past two decades.
-And while they constitute less than 2 percent of the State’s population, their influence in Concord is resulting in some of the most serious damage to our freedoms in modern times.
-Every election cycle there is insistence for “change”.
-In the year when we celebrate the 250th anniversary of our country’s founding, a return to the core principles of democracy is the requisite change we urgently need.
-The clear path forward is to elect representatives who will embody the strength and principles of democracy for the common good.
-The moral imperative has never been more important.
+And while they constitute less than 2 percent of the State’s population, their influence in Concord is resulting in some of the most serious damage to our freedoms in modern times. ​ Every election cycle there is insistence for “change”.
+In the year when we celebrate the 250th anniversary of our country’s founding, a return to the core principles of democracy is the requisite change we urgently need. ​ The clear path forward is to elect representatives who will embody the strength and principles of democracy for the common good. ​ The moral imperative has never been more important.
+Copyright # by Jim Pittman 4 NH Paid for by Jim Pittman 4 NH, Jim Pittman, Fiscal Agent, 78 Town House Road, Effingham, NH 03882 bottom of page

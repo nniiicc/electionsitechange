@@ -1,28 +1,122 @@
 [
-"http://repheatherscott.com/feed",
-"https://facebook.com/IDFreedomcaucus",
-"https://facebook.com/RepHeatherScott",
-"https://growingfreedomidaho.com/all-bills",
-"https://idahocps.org/",
-"https://idahofreedomcaucus.org/",
-"https://idahofreedomcaucus.org/donate",
-"https://idahofreedomcaucus.substack.com/",
-"https://repheatherscott.com/",
-"https://repheatherscott.com/abortion",
-"https://repheatherscott.com/archive",
-"https://repheatherscott.com/author/repheatherscott",
-"https://repheatherscott.com/category/updates",
-"https://repheatherscott.com/contact",
-"https://repheatherscott.com/covid",
-"https://repheatherscott.com/gender",
-"https://repheatherscott.com/government-101",
-"https://repheatherscott.com/happy-independence-day",
-"https://repheatherscott.com/maps",
-"https://repheatherscott.com/merry-christmas-happy-new-year",
-"https://repheatherscott.com/photos",
-"https://repheatherscott.com/rules-regulations",
-"https://repheatherscott.com/smelter",
-"https://repheatherscott.com/summer-activities-idaho-freedom-caucus",
-"https://twitter.com/HeatherScottID",
-"https://twitter.com/freedomcaucusID"
+{
+"text": "Abortion",
+"href": "https://repheatherscott.com/abortion/"
+},
+{
+"text": "Archived Updates",
+"href": "https://repheatherscott.com/archive/"
+},
+{
+"text": "BILLS ⇨",
+"href": "https://growingfreedomidaho.com/all-bills/"
+},
+{
+"text": "COVID",
+"href": "https://repheatherscott.com/covid/"
+},
+{
+"text": "CPS ⇨",
+"href": "https://idahocps.org/"
+},
+{
+"text": "Contact",
+"href": "https://repheatherscott.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://idahofreedomcaucus.org/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/IDFreedomcaucus"
+},
+{
+"text": "Facebook[image]",
+"href": "https://www.facebook.com/RepHeatherScott/"
+},
+{
+"text": "Gender / Birth Certificates",
+"href": "https://repheatherscott.com/gender/"
+},
+{
+"text": "Gov 101",
+"href": "https://repheatherscott.com/government-101/"
+},
+{
+"text": "Happy Independence Day!",
+"href": "https://repheatherscott.com/happy-independence-day/"
+},
+{
+"text": "Home",
+"href": "https://repheatherscott.com/"
+},
+{
+"text": "July 21, 2023August 28, 2026",
+"href": "https://repheatherscott.com/summer-activities-idaho-freedom-caucus/"
+},
+{
+"text": "Maps",
+"href": "https://repheatherscott.com/maps/"
+},
+{
+"text": "Merry Christmas! Happy New Year!",
+"href": "https://repheatherscott.com/merry-christmas-happy-new-year/"
+},
+{
+"text": "News & Updates",
+"href": "https://repheatherscott.com/category/updates/"
+},
+{
+"text": "Photos",
+"href": "https://repheatherscott.com/photos/"
+},
+{
+"text": "Previous Previous post: Happy Independence Day!",
+"href": "https://repheatherscott.com/happy-independence-day/"
+},
+{
+"text": "RSS[image]",
+"href": "http://repheatherscott.com/feed"
+},
+{
+"text": "Rep. Heather Scott",
+"href": "https://repheatherscott.com/"
+},
+{
+"text": "Rep. Heather Scott",
+"href": "https://repheatherscott.com/author/repheatherscott/"
+},
+{
+"text": "Rules & Regulations",
+"href": "https://repheatherscott.com/rules-regulations/"
+},
+{
+"text": "Silicon Smelter",
+"href": "https://repheatherscott.com/smelter/"
+},
+{
+"text": "Substack",
+"href": "https://idahofreedomcaucus.substack.com/"
+},
+{
+"text": "Summer Activities – Idaho Freedom Caucus",
+"href": "https://repheatherscott.com/summer-activities-idaho-freedom-caucus/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/freedomcaucusID"
+},
+{
+"text": "Twitter[image]",
+"href": "https://twitter.com/HeatherScottID"
+},
+{
+"text": "Updates",
+"href": "https://repheatherscott.com/category/updates/"
+},
+{
+"text": "message",
+"href": "https://idahofreedomcaucus.org/#connect"
+}
 ]

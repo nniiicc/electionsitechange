@@ -1,7 +1,4 @@
-David Pan Has a Plan
-Reducing government and empowering people
-Speech at the June 9, 2024, Campaign Kickoff Event for David Pan for Congress:
-I am new to politics, and so I will start by telling you a little about myself and my reasons for running.
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate David Pan Has a Plan Jun 12 Written By Guest User Reducing government and empowering people Speech at the June 9, 2024, Campaign Kickoff Event for David Pan for Congress: I am new to politics, and so I will start by telling you a little about myself and my reasons for running.
 I was born and raised in Chicago to parents who met there after emigrating from Taiwan, after first leaving China in the course of the Communist revolution.
 I went to Stanford for college and then to Columbia University for graduate school, specializing in German literature.
 Since then I have been teaching German literature and philosophy, most recently at UC Irvine for the past 18 years.
@@ -37,3 +34,10 @@ We need to focus on these basic principles that unite us so that we can work aga
 Our enemies rule through fear.
 Our strength lies in the courage to defend our values.
 Let us summon up the courage together to get our country back on track to face the growing challenges of the 21st century as one nation, under God, indivisible.
+Guest User Previous Previous Free Markets or Government Control?
+Next Next A New Approach to Public Safety Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

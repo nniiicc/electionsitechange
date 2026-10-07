@@ -1,26 +1,18 @@
-The 23rd District Leadership Team Democratic Sample Ballot
-Friends of Marvin E.
+Skip to content Covid-19 Contact Us Get Involved Home About Marvin Issues District 23 Endorsements Up Coming Events Menu Close Home About Marvin Issues District 23 Endorsements Up Coming Events Covid-19 Contact Us Get Involved Latest News Home / Latest News The 23rd District Leadership Team Democratic Sample Ballot Post author: admin Post published: October 18, 2022 Post category: Latest News Friends of Marvin E.
 Holmes, Jr.PO Box 1631Upper Marlboro, MD 20773 HolmesDelegate23@gmail.com By Authority:Friends of Marvin E.
-Holmes, Jr.Pam Mufungizu, Treasurer
-Skip to content
-Latest News
-The 23rd District Leadership Team Democratic Sample Ballot
-Friends of Marvin E.
-Holmes, Jr.PO Box 1631Upper Marlboro, MD 20773 HolmesDelegate23@gmail.com By Authority:Friends of Marvin E.
-Holmes, Jr.Pam Mufungizu, Treasurer
-What’s Your Home Worth?
-A WUSA9 investigation into appraisal bias
-For more than a year, Larry Miller has been investigating allegations of home appraisal bias in Prince George’s County, Maryland.
-WUSA9 investigation prompts appraisal bias legislation, now a leading issue in Maryland’s gubernatorial race
-Del.
+Holmes, Jr.Pam Mufungizu, Treasurer Continue Reading The 23rd District Leadership Team Democratic Sample Ballot What’s Your Home Worth?
+A WUSA9 investigation into appraisal bias Post author: admin Post published: July 10, 2022 Post category: Latest News For more than a year, Larry Miller has been investigating allegations of home appraisal bias in Prince George’s County, Maryland.
+Continue Reading What’s Your Home Worth?
+A WUSA9 investigation into appraisal bias Stakeholder roundtable – Part ii Post author: admin Post published: March 3, 2022 Post category: Latest News Continue Reading Stakeholder roundtable – Part ii WUSA9 investigation prompts appraisal bias legislation, now a leading issue in Maryland’s gubernatorial race Post author: admin Post published: February 20, 2022 Post category: Latest News Del.
 Marvin Holmes wants a task force created to examine appraisal bias complaints and recommend legislation.
 ANNAPOLIS, Md. — Maryland Del.
 Marvin Holmes isn’t a betting man.
-But he’s taking…
-MD State Homeowners Assistance Fund
-Coming On-Line Soon Sign Up NOW to receive future notifications!
-As a homeowner, if you are struggling to pay your mortgage due to COVID-19 related financial hardships, assistance is on…
-Roomy houses, lots of amenities in the Prince George’s community of Perrywood
-Geese walk in the parking lot of Perrywood Elementary School.
+But he’s taking… Continue Reading WUSA9 investigation prompts appraisal bias legislation, now a leading issue in Maryland’s gubernatorial race Mayor of bowie and delegate marvin holmes at bowie veteran memorial site on veterans day november 2021 Post author: admin Post published: November 16, 2021 Post category: Latest News Continue Reading Mayor of bowie and delegate marvin holmes at bowie veteran memorial site on veterans day november 2021 MD State Homeowners Assistance Fund Post author: admin Post published: October 15, 2021 Post category: Latest News Coming On-Line Soon Sign Up NOW to receive future notifications!
+As a homeowner, if you are struggling to pay your mortgage due to COVID-19 related financial hardships, assistance is on… Continue Reading MD State Homeowners Assistance Fund The Marlton Quarterly Post author: admin Post published: September 4, 2021 Post category: Latest News Continue Reading The Marlton Quarterly Prince George’s County; Common Ownership Communities Commissioners Post author: admin Post published: August 28, 2021 Post category: Latest News Continue Reading Prince George’s County; Common Ownership Communities Commissioners Roomy houses, lots of amenities in the Prince George’s community of Perrywood Post author: admin Post published: August 19, 2021 Post category: Latest News Geese walk in the parking lot of Perrywood Elementary School.
 Perrywood, in Upper Marlboro, Md., was developed in the mid-1990s.
-(Michael Blackshire/The Washington Post) CORRECTION Correction: An earlier version of…
+(Michael Blackshire/The Washington Post) CORRECTION Correction: An earlier version of… Continue Reading Roomy houses, lots of amenities in the Prince George’s community of Perrywood Defunct Maryland HOA leaves complex with collapsing sidewalk Post author: admin Post published: August 10, 2021 Post category: Latest News Continue Reading Defunct Maryland HOA leaves complex with collapsing sidewalk 1 2 3 Go to the next page Navigation Home About Marvin Issues District 23 Endorsements Up Coming Events Learn more Covid-19 Contact Us Get Involved Contact Info Delegate Marvin E.
+Holmes, Jr Office Address: 364 House Office Building 6 Bladen Street Annapolis, MD 21401 Phone: (301) 858-3310 Email: marvin.holmes@house.state.md.us Opens in your application Latest News The 23rd District Leadership Team Democratic Sample Ballot October 18, 2022 / 0 Comments What’s Your Home Worth?
+A WUSA9 investigation into appraisal bias July 10, 2022 / 0 Comments By Authority: Friends of Marvin E.
+Holmes, Jr.
+J.
+Frank McGraw, Treasurer © # All Rights Reserved

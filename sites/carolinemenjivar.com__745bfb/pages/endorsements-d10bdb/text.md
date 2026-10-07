@@ -1,16 +1,2 @@
-We are strongly supporting
-Caroline Menjivar for State Senate
-Senator Menjivar is proud to have earned endorsements from the following leaders and organizations:
-Skip navigation menu
-We are strongly supporting
-Caroline Menjivar for State Senate
-Senator Menjivar is proud to have earned endorsements from the following leaders and organizations:
-Luz Rivas
-congressmember
-Celeste Rodriguez
-assemblymember
-Jane Fonda
-climate activist
-Labor Endorsements
-Organizational Endorsements
-Democratic Party Endorsements
+Skip navigation menu About Issues Endorsements Media Events Join Us Donate About Issues Endorsements Media Events Join Us Donate We are strongly supporting Caroline Menjivar for State Senate Senator Menjivar is proud to have earned endorsements from the following leaders and organizations: Luz Rivas congressmember Celeste Rodriguez assemblymember Jane Fonda climate activist Labor Endorsements Organizational Endorsements Democratic Party Endorsements Contact Privacy Policy Election Day is Tuesday, June 2, 2026!
+Powered by RUN! website builder Paid for by Menjivar for Senate 2026, FPPC ID# 1456738 1001 G Street, Suite 201, Sacramento, CA 95814 You need to enable JavaScript to run this app.

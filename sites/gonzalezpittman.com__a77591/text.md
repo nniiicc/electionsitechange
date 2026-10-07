@@ -1,5 +1,4 @@
-Meet Karen
-Karen is a third-generation Tampanian and lifelong Hillsborough County resident who understands this community's long-standing opportunities and challenges.
+Donate Today Meet Karen Karen is a third-generation Tampanian and lifelong Hillsborough County resident who understands this community's long-standing opportunities and challenges.
 She attended Hillsborough County public schools and she is a Hillsborough High School graduate.
 Karen attended the University of South Florida, where she graduated with a degree in elementary education.
 Additionally, she holds a master’s degree in Measurement, Testing, and Evaluation from USF.
@@ -14,3 +13,11 @@ They have been married for 25 years, have four children, and are new grandparent
 All four Pittman children attended Hillsborough County public schools where Karen has practical experience navigating the complexity of the public school system for both gifted children and children with learning disabilities.
 Karen is also an accomplished fundraiser, raising more than $200,000 for her children's schools through the organization of successful auctions, walk-a-thons, and a dance-a-thon.
 She has served as the Vice President of both the Dale Mabry Elementary and Wilson Middle School PTAs, President of the Hillsborough County Medical Association Alliance, and Board Member of the Florida Medical Association PAC.
+Join the Team How would you like to help?
+Sign up for the newsletter Make phone calls Request yard sign Host a fundraiser Pass out materials Walk door-to-door By providing your telephone number and checking this box, you consent to receive calls and text messages.
+Msg & data rates may apply.
+Msg frequency may vary.
+Messaging may include requests for donation.
+Reply "STOP" to opt-out & "HELP" for help.
+View Privacy Policy for more info.
+Get Involved Individual Contributions Corporate Contributions Share Paid by Karen Gonzalez Pittman, Republican, for Florida House District 65

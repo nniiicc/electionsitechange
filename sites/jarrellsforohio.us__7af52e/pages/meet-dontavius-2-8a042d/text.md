@@ -1,5 +1,4 @@
-A longtime advocate for building better communities,
-Representative Dontavius Jarrells is working for you.
+Skip to content Facebook Twitter Instagram CONTRIBUTE A longtime advocate for building better communities, Representative Dontavius Jarrells is working for you.
 State Rep.
 Dontavius Jarrells currently serves in his first term representing Ohio’s 25th House District, including Columbus, Clinton Township, and Mifflin Township.
 Growing up in the Hough neighborhood of Cleveland, Rep.
@@ -10,5 +9,8 @@ During his first term in elected office, Rep.
 Jarrells introduced legislation to increase Ohio’s minimum wage to $15/hr., eliminate discriminatory covenants from deeds during property transfers, remove derogatory language within the state’s code, and designate Columbus’ Poindexter Village as an official Ohio Historical site.
 Rep.
 Jarrells is committed to building an Ohio we all deserve.
-222 E Town St Ste 2W
-Columbus, OH 43215
+DISTRICT MAP ON THE ISSUES DONATE TODAY 222 E Town St Ste 2W Columbus, OH 43215 Paid for by Friends of Dontavius Jarrells Menu Home Meet Dontavius On The Issues Take Action Check Your Voter Status Register to Vote Make a Donation $# $# $# $# $# Chip In!
+Menu Home Meet Dontavius On The Issues Take Action Check Your Voter Status Register to Vote DONATE TODAY Make a donation.
+Whether you can contribute $5 or $500, every dollar helps fuel this grassroots campaign. $# $# $# $# $# Other Join Dontavius in his fight to make sure no one is left behind this election.
+Whether you can contribute $5 or $500, every dollar helps fuel this grassroots campaign.
+Make a Donation Make a donation. $# $# $# $# $# Other X

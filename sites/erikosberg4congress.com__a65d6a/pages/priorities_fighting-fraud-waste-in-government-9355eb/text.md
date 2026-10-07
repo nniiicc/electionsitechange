@@ -1,15 +1,19 @@
-Taxpayer dollars should be protected.
+Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Store Updates Get Involved 38 Door Club 38 Phones Club Donate Menu Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Updates Get Involved Donate Fighting Fraud & Waste in Government Erik Osberg for Congress > Priorities > Fighting Fraud & Waste in Government Taxpayer dollars should be protected.
 You have every right to be angry about fraud in government.
 Erik is angry about it too.
 Taxpayer dollars — money taken from your paycheck, your farm income, your small business, and your community — should be used responsibly.
 When that money is stolen, misspent, or wasted, it hurts everyone.
 It drains resources from the people and programs those dollars were meant to serve, and it undermines trust in government itself.
 Here is our 5 point plan to address fraud.
-- Admit it is a problem.
-- Acknowledge it happens on both sides of the aisle.
-- Establish bi-partisan internal controls.
-- Use a scalpel not a chainsaw.
-- Prosecute without prejudice.
+Admit it is a problem.
+Acknowledge it happens on both sides of the aisle.
+Establish bi-partisan internal controls.
+Use a scalpel not a chainsaw.
+Prosecute without prejudice.
 Erik believes fraud and waste demand serious action.
 But we have to fight fraud the right way.
 Cutting legitimate services, firing the investigators who catch criminals, weakening oversight, or using fraud as a partisan talking point does not solve the problem.
@@ -19,19 +23,8 @@ No excuses.
 No political favorites.
 No two-tiered system.
 We can do better.
-Erik’s Priorities
-Erik will fight to:
-- Treat fraud and waste as real problems that demand serious action
-- Acknowledge that fraud crosses party lines, programs, industries, and levels of government
-- Strengthen independent, nonpartisan oversight
-- Protect Inspectors General, the GAO, and other accountability institutions from political interference
-- Use modern data tools to catch improper payments before they go out the door
-- Support bipartisan anti-fraud reforms modeled on what works
-- Protect legitimate services while targeting actual fraud
-- Prosecute fraud without prejudice, it does not matter how rich you are, who your friends are, what your country of origin is, if you break the law, you should be held accountable
-…by fighting fraud the right way: admitting it is real, acknowledging it crosses party lines, strengthening independent oversight, using precise & evidence-based tools, protecting legitimate services, and holding every fraudster accountable without fear or favor.
-Admit the Problem Honestly
-Fraud in government is real.
+Erik’s Priorities Erik will fight to: Treat fraud and waste as real problems that demand serious action Acknowledge that fraud crosses party lines, programs, industries, and levels of government Strengthen independent, nonpartisan oversight Protect Inspectors General, the GAO, and other accountability institutions from political interference Use modern data tools to catch improper payments before they go out the door Support bipartisan anti-fraud reforms modeled on what works Protect legitimate services while targeting actual fraud Prosecute fraud without prejudice, it does not matter how rich you are, who your friends are, what your country of origin is, if you break the law, you should be held accountable …by fighting fraud the right way: admitting it is real, acknowledging it crosses party lines, strengthening independent oversight, using precise & evidence-based tools, protecting legitimate services, and holding every fraudster accountable without fear or favor.
+Admit the Problem Honestly Fraud in government is real.
 So is waste.
 So are improper payments.
 So are outdated systems that make mistakes easier and accountability harder.
@@ -43,8 +36,7 @@ Erik believes the first step is honesty.
 If politicians only talk about fraud in programs they already oppose, they are not solving the problem.
 They are using it.
 Real reform starts with an honest accounting of where fraud occurs, how it happens, and what it will take to stop it.
-Don’t Expand Programs Without Funding Their Watchdogs
-Minnesota learned an expensive lesson about what happens when programs grow faster than the oversight meant to police them.
+Don’t Expand Programs Without Funding Their Watchdogs Minnesota learned an expensive lesson about what happens when programs grow faster than the oversight meant to police them.
 Over a period of years, the state expanded a series of programs — including Medicaid home & community-based services and housing support programs — while a series of decisions weakened the oversight infrastructure meant to protect them.
 Fraud investigation staff were cut.
 Documentation requirements for care providers were rejected as too burdensome.
@@ -64,21 +56,18 @@ He knows how it ends.
 The lesson is straightforward: every time a program is expanded, the oversight capacity to police it must expand with it.
 Anything less is not fiscal responsibility.
 It is an open invitation.
-Strengthen Independent Oversight
-The best anti-fraud systems are independent, nonpartisan, and built to follow the facts.
+Strengthen Independent Oversight The best anti-fraud systems are independent, nonpartisan, and built to follow the facts.
 Inspectors General, auditors, investigators, the GAO, and other oversight bodies exist for a reason: to protect taxpayer dollars and make sure government is doing what it is supposed to do.
 Erik supports strengthening the independence and capacity of oversight institutions so they can investigate fraud, expose waste, recommend corrective action, and hold agencies accountable.
 Oversight should not depend on which party is in power.
 And watchdogs should not be punished for finding problems politicians would rather ignore.
-Use a Scalpel, Not a Chainsaw
-When fraud is found, the response should be precise.
+Use a Scalpel, Not a Chainsaw When fraud is found, the response should be precise.
 Cutting entire programs, eliminating staff, or weakening the very offices that investigate fraud is not accountability.
 It is a shortcut that can hurt people who did nothing wrong while making it easier for actual fraud to go undetected.
 Erik believes we should use a scalpel, not a chainsaw.
 That means investing in tools that work: better data matching, risk-based audits, cross-agency information sharing, payment integrity systems, and trained investigators who can stop improper payments before they leave the door.
 The goal should be simple: protect taxpayer dollars without breaking the services people legitimately rely on.
-Learn From What Works
-Fraud prevention should not be a partisan project.
+Learn From What Works Fraud prevention should not be a partisan project.
 Minnesota has shown that real anti-fraud reform can earn bipartisan support when it is focused on stronger controls, independent oversight, better enforcement, and stopping improper payments earlier.
 The Minnesota Senate passed an independent Office of Inspector General with subpoena authority on a 60–7 bipartisan vote.
 A statewide fraud prevention framework passed 131–1.
@@ -89,16 +78,14 @@ Not performative cuts.
 Not press conferences.
 Not pretending fraud only exists where it is politically convenient.
 Real reform means building systems that prevent fraud, detect it faster, and hold people accountable when they steal from the public.
-Protect Legitimate Services
-Fighting fraud should not mean punishing people who are following the rules.
+Protect Legitimate Services Fighting fraud should not mean punishing people who are following the rules.
 Families, seniors, veterans, farmers, small businesses, children, people with disabilities, and local communities depend on federal programs that should work well and be protected from abuse.
 When fraud occurs, it takes resources away from the people those programs are supposed to help.
 Erik believes strong oversight protects legitimate services.
 It does not weaken them.
 The answer is not to tear down programs people rely on.
 The answer is to make sure those programs are accountable, well-run, and harder to exploit.
-Prosecute Without Prejudice
-Detection without consequences is not accountability.
+Prosecute Without Prejudice Detection without consequences is not accountability.
 When someone steals from taxpayers, they should face consequences.
 It should not matter how wealthy they are.
 It should not matter who they know.
@@ -109,12 +96,28 @@ No political protection.
 No looking the other way when the fraud is committed by someone powerful or well-connected.
 If you steal from taxpayers, you should be held accountable.
 Full stop.
-Use Congress to Do Its Job
-Congress has a responsibility to conduct oversight, protect taxpayer dollars, and make sure federal programs work.
+Use Congress to Do Its Job Congress has a responsibility to conduct oversight, protect taxpayer dollars, and make sure federal programs work.
 Erik will use that responsibility seriously.
 That means asking hard questions, following the evidence, pushing agencies to implement watchdog recommendations, protecting independent oversight, and supporting legislation that improves payment integrity and fraud prevention.
 Oversight should not be about partisan headlines.
 It should be about making government work better, protecting the people it serves, and restoring trust.
-Erik Wants to Hear From You
-Fraud & waste undermine trust in government and take resources away from the people, communities, and programs those dollars were meant to support.
+Erik Wants to Hear From You Fraud & waste undermine trust in government and take resources away from the people, communities, and programs those dollars were meant to support.
 Erik wants to hear your perspective on accountability in government — what is working, what is not, and what Washington needs to get right.
+GET IN TOUCH JOIN THE CAMPAIGN Learn more about the issues and Erik’s priorities Defend The Constitution Get Corporate Money Out Of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty & Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Stay Connected!
+Don’t miss campaign news, events, volunteer opportunities, and important voting updates.
+By providing your phone number, you agree to receive political and donation related text messages from Erik Osberg for Congress.
+Message and data rates may apply.
+Message frequency varies.
+Reply HELP to request help or STOP to opt out of text messages.
+Privacy Policy and Terms & Conditions.
+Stay Connected!
+Don’t miss campaign news, events, volunteer opportunities, and important voting updates.
+By providing your phone number, you agree to receive political and donation related text messages from Erik Osberg for Congress.
+Message and data rates may apply.
+Message frequency varies.
+Reply HELP to request help or STOP to opt out of text messages.
+Privacy Policy and Terms & Conditions.
+Home | Meet Erik | Priorities | Events | Voting | Updates | Store | Donate | Join The Team info@erikosberg4congress.com PAID FOR BY ERIK OSBERG FOR CONGRESS PO Box 550, Wadena, MN 56482 ©# Erik Osberg For Congress · Built by Cora+Krist .
+Accessibility Privacy Policy & Terms of Use Media Toolkit Volunteer Hub

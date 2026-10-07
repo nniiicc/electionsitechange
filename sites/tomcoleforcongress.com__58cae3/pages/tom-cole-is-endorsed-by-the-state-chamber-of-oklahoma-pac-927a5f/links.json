@@ -1,29 +1,126 @@
 [
-"http://pushdigital.com/",
-"https://facebook.com/TomColeForCongress",
-"https://tomcoleforcongress.com/",
-"https://tomcoleforcongress.com/about-tom",
-"https://tomcoleforcongress.com/about-tom/about-the-district",
-"https://tomcoleforcongress.com/about-tom/press-packet",
-"https://tomcoleforcongress.com/breaking-president-trump-endorses-congressman-tom-cole",
-"https://tomcoleforcongress.com/category/news-room",
-"https://tomcoleforcongress.com/cole-promises-made-promises-kept",
-"https://tomcoleforcongress.com/connect",
-"https://tomcoleforcongress.com/issues",
-"https://tomcoleforcongress.com/issues/debt-and-spending",
-"https://tomcoleforcongress.com/issues/energyindependence",
-"https://tomcoleforcongress.com/issues/growing-the-economy",
-"https://tomcoleforcongress.com/issues/protecting-our-military-installations",
-"https://tomcoleforcongress.com/issues/protecting-the-unborn",
-"https://tomcoleforcongress.com/issues/securingourborder",
-"https://tomcoleforcongress.com/issues/taxes",
-"https://tomcoleforcongress.com/issues/veterans",
-"https://tomcoleforcongress.com/news",
-"https://tomcoleforcongress.com/privacy-policy",
-"https://tomcoleforcongress.com/tom-cole-announces-for-re-election",
-"https://tomcoleforcongress.com/tom-cole-endorsed-by-oklahoma-farm-bureau-ag-pac",
-"https://tomcoleforcongress.com/tom-cole-is-endorsed-by-the-republican-jewish-coalition",
-"https://tomcoleforcongress.com/tom-cole-is-endorsed-by-the-state-chamber-of-oklahoma-pac",
-"https://trailblz.info/ColeTom/Donations.aspx",
-"https://twitter.com/ColeForCongress"
+{
+"text": "About Tom",
+"href": "https://tomcoleforcongress.com/about-tom/"
+},
+{
+"text": "About the District",
+"href": "https://tomcoleforcongress.com/about-tom/about-the-district/"
+},
+{
+"text": "All Issues",
+"href": "https://tomcoleforcongress.com/issues/"
+},
+{
+"text": "American Energy Independence",
+"href": "https://tomcoleforcongress.com/issues/energyindependence/"
+},
+{
+"text": "Breaking: President Trump Endorses Congressman Tom Cole",
+"href": "https://tomcoleforcongress.com/breaking-president-trump-endorses-congressman-tom-cole/"
+},
+{
+"text": "Cole: Promises Made, Promises Kept",
+"href": "https://tomcoleforcongress.com/cole-promises-made-promises-kept/"
+},
+{
+"text": "Connect",
+"href": "https://tomcoleforcongress.com/connect/"
+},
+{
+"text": "Debt and Spending",
+"href": "https://tomcoleforcongress.com/issues/debt-and-spending/"
+},
+{
+"text": "Donate",
+"href": "https://www.trailblz.info/ColeTom/Donations.aspx"
+},
+{
+"text": "Growing the Economy",
+"href": "https://tomcoleforcongress.com/issues/growing-the-economy/"
+},
+{
+"text": "National Security",
+"href": "https://tomcoleforcongress.com/issues/taxes/"
+},
+{
+"text": "News Room",
+"href": "https://tomcoleforcongress.com/category/news-room/"
+},
+{
+"text": "News Room",
+"href": "https://tomcoleforcongress.com/news/"
+},
+{
+"text": "Next: Tom Cole Is Endorsed By the Republican Jewish Coalition",
+"href": "https://tomcoleforcongress.com/tom-cole-is-endorsed-by-the-republican-jewish-coalition/"
+},
+{
+"text": "On The Issues",
+"href": "https://tomcoleforcongress.com/issues/"
+},
+{
+"text": "Preserving our Second Amendment",
+"href": "https://tomcoleforcongress.com/issues/protecting-our-military-installations/"
+},
+{
+"text": "Press Packet",
+"href": "https://tomcoleforcongress.com/about-tom/press-packet/"
+},
+{
+"text": "Previous: Tom Cole Endorsed By Oklahoma Farm Bureau Ag PAC",
+"href": "https://tomcoleforcongress.com/tom-cole-endorsed-by-oklahoma-farm-bureau-ag-pac/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tomcoleforcongress.com/privacy-policy/"
+},
+{
+"text": "Protecting the Unborn",
+"href": "https://tomcoleforcongress.com/issues/protecting-the-unborn/"
+},
+{
+"text": "Push Digital",
+"href": "http://pushdigital.com/"
+},
+{
+"text": "Securing Our Border",
+"href": "https://tomcoleforcongress.com/issues/securingourborder/"
+},
+{
+"text": "Tom Cole",
+"href": "https://tomcoleforcongress.com/"
+},
+{
+"text": "Tom Cole Announces For Re-Election",
+"href": "https://tomcoleforcongress.com/tom-cole-announces-for-re-election/"
+},
+{
+"text": "Tom Cole Is Endorsed By The State Chamber of Oklahoma PAC",
+"href": "https://tomcoleforcongress.com/tom-cole-is-endorsed-by-the-state-chamber-of-oklahoma-pac/"
+},
+{
+"text": "Tom Cole Is Endorsed By the Republican Jewish Coalition",
+"href": "https://tomcoleforcongress.com/tom-cole-is-endorsed-by-the-republican-jewish-coalition/"
+},
+{
+"text": "Veterans",
+"href": "https://tomcoleforcongress.com/issues/veterans/"
+},
+{
+"text": "[image: Tom Cole U.S. Congress]",
+"href": "https://tomcoleforcongress.com/"
+},
+{
+"text": "[image: Tom Cole]",
+"href": "https://tomcoleforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ColeForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TomColeForCongress"
+}
 ]

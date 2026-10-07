@@ -1,12 +1,8 @@
-Phone:(850) 679-5739
+top of page Donate Now Donate Now Donate Now Email: francesca@vote4francescad1.com ‪Phone:(850) 679-5739‬ Home About Read My Plan Donate Our Story News My Story—My Cause Welcome Join the Movement Instagram Events Blog Feed More Use tab to navigate through the menu items.
 Families are being priced out—and I’m fighting for more homes, lower costs, and real solutions.
 Read My Plan!
-About Us
-Who is Francesca Yabraian
-Francesca Yabraian is a first-generation American whose lifelong commitment to service has shaped her dedication to public leadership.
-Her parents immigrated to the United States from Argentina on July 4, 1965, seeking freedom and opportunity after escaping the dictatorship of Juan Perón.
-Their journey represents the promise of the American Dream that Francesca now seeks to protect and restore for future generations.
-As a child living with dyslexia and epilepsy, Francesca was told she would never make it past eighth grade.
+About Us Who is Francesca Yabraian Francesca Yabraian is a first-generation American whose lifelong commitment to service has shaped her dedication to public leadership. ​ Her parents immigrated to the United States from Argentina on July 4, 1965, seeking freedom and opportunity after escaping the dictatorship of Juan Perón.
+Their journey represents the promise of the American Dream that Francesca now seeks to protect and restore for future generations. ​ As a child living with dyslexia and epilepsy, Francesca was told she would never make it past eighth grade.
 In eighth grade, she was publicly humiliated by a teacher who gave her a degrading “brainless” award in front of her classmates.
 Instead of being broken by that moment, she turned that pain into determination and went on to defy every expectation placed against her.
 Instead of accepting those limitations, she used those experiences as motivation to overcome obstacles and pursue education and public service.
@@ -21,12 +17,13 @@ Francesca later served nine years in the federal government working for the U.S.
 Department of Agriculture and the Department of Homeland Security in emergency management and national preparedness.
 She later founded Diversity Staffing Inc., advocating employment opportunities for people with disabilities and veterans.
 Today Francesca is running for Florida House District 1 to ensure the American Dream that welcomed her parents remains possible for future generations.
-Why I am Running
-I am running for Florida House District 1 because the American Dream that brought my parents to this country must remain possible for future generations.
+Why I am Running I am running for Florida House District 1 because the American Dream that brought my parents to this country must remain possible for future generations.
 My parents came to the United States seeking freedom and opportunity.
 Their courage allowed our family to build a life that would not have been possible elsewhere.
 Despite the challenges I faced growing up with dyslexia and epilepsy, education and opportunity allowed me to build a career in public service and technology.
-Without those opportunities, I would not be able to stand before my community today as a candidate for public office.
-I believe many families feel the American Dream is slipping away.
+Without those opportunities, I would not be able to stand before my community today as a candidate for public office. ​ I believe many families feel the American Dream is slipping away.
 Rising costs and a political system influenced by powerful interests have made it harder for people to succeed.
 I am running to restore that promise.
+Help us fix Florida’s housing crisis. ‪(850) 679-5739‬ francesca@vote4francescad1.com P.O.
+Box 6074 Pensacola, FL 32503 Privacy Policy Accessibility Statement Terms & Conditions Refund Policy Donate Now © # by Vote4FrancescaD1.
+Powered and secured by Wix bottom of page

@@ -1,41 +1,170 @@
 [
-"http://bbyo.org/",
-"http://cherylkagan.org/in-the-news",
-"http://cherylkagan.org/ng911",
-"http://gaithersburgmd.gov/",
-"http://rockvillemd.gov/",
-"http://scrabbleplayers.org/w/Welcome_to_NASPAWiki",
-"https://carlmfreemanfoundation.org/",
-"https://cherylkagan.org/",
-"https://cherylkagan.org/about",
-"https://cherylkagan.org/bio",
-"https://cherylkagan.org/casework",
-"https://cherylkagan.org/community-resources",
-"https://cherylkagan.org/community-updates",
-"https://cherylkagan.org/constituent-services",
-"https://cherylkagan.org/contact",
-"https://cherylkagan.org/email-sign-up",
-"https://cherylkagan.org/human-resources-links",
-"https://cherylkagan.org/jobs",
-"https://cherylkagan.org/legislative-overview",
-"https://cherylkagan.org/press-releases",
-"https://cherylkagan.org/senatorial-scholarships",
-"https://councilofnonprofits.org/",
-"https://councilofnonprofits.org/trends-and-policy-issues/national-nonprofit-legislative-caucus",
-"https://eac.gov/about",
-"https://facebook.com/CherylCKagan",
-"https://facebook.com/groups/FolkNGreatMusic",
-"https://instagram.com/cherylckagan",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Details?cmte=eee",
-"https://montgomerycollege.edu/",
-"https://msac.org/",
-"https://ncsl.org/in-dc/standing-committees/redistricting-and-elections",
-"https://ng911ioc.org/",
-"https://opendata.maryland.gov/stories/s/Council-on-Open-Data/vyny-sdaq",
-"https://secure.actblue.com/donate/contribute-to-senator-cheryl-kagan",
-"https://spp.umd.edu/",
-"https://twitter.com/CherylKagan",
-"https://vassar.edu/",
-"https://youtube.com/@SenCherylKagan",
-"https://youtube.com/watch?v=AK50U-faJng"
+{
+"text": "9-1-1",
+"href": "http://cherylkagan.org/ng911/"
+},
+{
+"text": "About",
+"href": "https://cherylkagan.org/bio"
+},
+{
+"text": "BBYO",
+"href": "http://bbyo.org/"
+},
+{
+"text": "Biography",
+"href": "https://cherylkagan.org/about/"
+},
+{
+"text": "Carl M. Freeman Foundation",
+"href": "https://carlmfreemanfoundation.org/"
+},
+{
+"text": "Community Resources",
+"href": "https://cherylkagan.org/community-resources/"
+},
+{
+"text": "Community Updates",
+"href": "https://cherylkagan.org/community-updates/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/contribute-to-senator-cheryl-kagan"
+},
+{
+"text": "District 17 Casework Portal",
+"href": "https://cherylkagan.org/casework/"
+},
+{
+"text": "Education, Energy, and Environment (and Elections!) Committee",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Details?cmte=eee"
+},
+{
+"text": "Education, Energy, and the Environment (& Elections!)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Details?cmte=eee"
+},
+{
+"text": "Election Assistance Commission",
+"href": "https://www.eac.gov/about"
+},
+{
+"text": "Email Sign Up",
+"href": "https://cherylkagan.org/email-sign-up/"
+},
+{
+"text": "Folk ‘N Great Music",
+"href": "https://www.facebook.com/groups/FolkNGreatMusic"
+},
+{
+"text": "Gaithersburg",
+"href": "http://gaithersburgmd.gov/"
+},
+{
+"text": "Home",
+"href": "https://cherylkagan.org/"
+},
+{
+"text": "Human Resources Links",
+"href": "https://cherylkagan.org/human-resources-links/"
+},
+{
+"text": "Job Descriptions",
+"href": "https://cherylkagan.org/jobs/"
+},
+{
+"text": "Kagan in the News",
+"href": "http://cherylkagan.org/in-the-news/"
+},
+{
+"text": "Legislative Session Overviews",
+"href": "https://cherylkagan.org/legislative-overview/"
+},
+{
+"text": "Maryland Open Data Council",
+"href": "https://opendata.maryland.gov/stories/s/Council-on-Open-Data/vyny-sdaq/"
+},
+{
+"text": "Maryland State Arts Council",
+"href": "https://msac.org/"
+},
+{
+"text": "Montgomery College",
+"href": "https://www.montgomerycollege.edu/"
+},
+{
+"text": "National Conference of State Legislatures",
+"href": "https://www.ncsl.org/in-dc/standing-committees/redistricting-and-elections"
+},
+{
+"text": "National Council of Nonprofits",
+"href": "https://www.councilofnonprofits.org/"
+},
+{
+"text": "National Nonprofit Legislative Caucus",
+"href": "https://www.councilofnonprofits.org/trends-and-policy-issues/national-nonprofit-legislative-caucus"
+},
+{
+"text": "Next Generation 9-1-1 Interoperability Oversight Commission",
+"href": "https://ng911ioc.org/"
+},
+{
+"text": "Press Releases",
+"href": "https://cherylkagan.org/press-releases/"
+},
+{
+"text": "Rockville",
+"href": "http://www.rockvillemd.gov/"
+},
+{
+"text": "Scholarships",
+"href": "https://cherylkagan.org/senatorial-scholarships/"
+},
+{
+"text": "Scrabble tournaments",
+"href": "http://scrabbleplayers.org/w/Welcome_to_NASPAWiki"
+},
+{
+"text": "Services & Resources",
+"href": "https://cherylkagan.org/constituent-services/"
+},
+{
+"text": "Share Your Thoughts",
+"href": "https://cherylkagan.org/contact/"
+},
+{
+"text": "University of Maryland",
+"href": "https://spp.umd.edu/"
+},
+{
+"text": "Vassar College",
+"href": "https://www.vassar.edu/"
+},
+{
+"text": "[image] (410) 841-3134",
+"href": "tel:410-841-3134"
+},
+{
+"text": "[image] Cheryl.Kagan@senate.state.md.us",
+"href": "mailto:Cheryl.Kagan@senate.state.md.us"
+},
+{
+"text": "[tooltip: Follow Us on Facebook]",
+"href": "https://www.facebook.com/CherylCKagan"
+},
+{
+"text": "[tooltip: Follow Us on Instagram]",
+"href": "https://www.instagram.com/cherylckagan/"
+},
+{
+"text": "[tooltip: Follow Us on Twitter]",
+"href": "https://twitter.com/CherylKagan"
+},
+{
+"text": "[tooltip: Follow Us on Youtube]",
+"href": "https://www.youtube.com/@SenCherylKagan"
+},
+{
+"text": "contests",
+"href": "https://www.youtube.com/watch?v=AK50U-faJng"
+}
 ]

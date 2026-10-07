@@ -1,8 +1,13 @@
-← All Albums
-Senator Rob Rolison's OC Volunteer Appreciation Party
-Had a great time at Senator Rob Rolison’s Orange County Volunteer Appreciation Party!
+Skip to main content Home About Jackie Events Gallery Volunteer Press News Track AIPAT DONATE CONTACT ← All Albums Senator Rob Rolison's OC Volunteer Appreciation Party Had a great time at Senator Rob Rolison’s Orange County Volunteer Appreciation Party!
 It was wonderful to meet so many voters, thank the volunteers who make campaigns possible, and spend time with Senator Rolison and his dream team.
 The energy and enthusiasm in Orange County was incredible!
 We had lots of laughs, if you couldn’t tell!!!
-I’m so grateful for everyone who continues to get involved and make a difference in our communities 🇺🇸
-10 photos
+I’m so grateful for everyone who continues to get involved and make a difference in our communities 🇺🇸 10 photos Campaign About Jackie Gallery Press News Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
+Paid for by Jackie Auringer for Congress © 2026 Jackie Auringer for Congress.
+All rights reserved.
+I consent to receive SMS text message updates from Jackie Auringer for Congress By providing your phone number, you are consenting to receive text message updates, including automated text messages (updates, marketing, polling/surveys, and possible donation solicitations) to that number from Jackie Auringer for Congress.
+Message & Data rates may apply, and message frequency may vary over time.
+Reply “STOP” to opt out of these text message updates.
+Reply HELP for help.
+Privacy Policy .
+Sign Up

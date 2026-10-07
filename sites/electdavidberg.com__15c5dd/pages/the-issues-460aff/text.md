@@ -1,10 +1,11 @@
-David and his wife, Carrie, have been a part of the Puyallup community for more than 25 years.
+Elect David Berg State Representative, 25th LD, Pos.
+1 Menu Home About David The Issues Endorsements Make A Donation Find Your Drop Box David Berg is the Right Choice for the 25th LD Posted on July 19, 2026 by David Berg Leave a Comment David and his wife, Carrie, have been a part of the Puyallup community for more than 25 years .
 They have raised three sons here, all Puyallup School District graduates.
 David has more than 20 years of experience advocating for public education and has a demonstrated history of working in the civic & social organization industry.
 He has served on the Puyallup School Board since 2021, and was reelected as School Director in 2025.
 He has been actively engaged in work leading to policy change at the state and local level.
 David has been invited to speak about education and advocacy to parents, teachers, and other advocates from Puyallup to Bellingham to Longview to Ellensburg, and even to Washington D.C.
-David has written and co-written legislative proposals with teams of other passionate advocates and has helped build consensus on controversial issues.
+Vote for David Berg David has written and co-written legislative proposals with teams of other passionate advocates and has helped build consensus on controversial issues.
 Some of his work was adopted as the official positions of statewide organizations.
 He has testified to Legislators on education issues many times and seen some of his proposals win unanimous bi-partisan support in floor votes in Olympia on their way to being signed into law.
 As a School Director, he’s testified to the Legislature about education funding and special education services.
@@ -14,7 +15,7 @@ He believes in community conversations.
 It’s why he’s been endorsed by a broad coalition of organizations representing educators, machinists, healthcare workers and labor.
 We won’t always agree, but we have to be able to have honest conversations to move our community forward.
 David is ready to get to work in Olympia and build the future the 25th LD deserves.
-I’m an AI skeptic.
+Category: Latest Articles Tags: Consensus , David Berg , Election , Experience , Puyallup School Board , Puyallup School District , School Director , Vote The Hidden Costs of AI Posted on July 19, 2026 by David Berg Leave a Comment I’m an AI skeptic.
 While it can have its uses, I’m very concerned about the external costs being paid by our communities because of the rush to embrace AI.
 Power and water demands to run the data centers that AI systems require are increasing costs for everyone, and often those costs are falling disproportionately on those communities who are already at-risk and can least afford it.
 Some communities have seen data centers create noise pollution issues, while research has also shown that they’ve created heat islands.
@@ -39,11 +40,11 @@ It’s a tool, not a manager, and should be treated as a tool and not a final au
 I’ve seen it said that on topics people aren’t familiar with, AI can seem 100% reliable, while on topics they are familiar with it’s only about 20% accurate.
 We’ve all seen stories of what’s been dubbed to be “AI hallucinations,” citing articles that don’t exist, court cases that don’t exist, or the infamous four and six fingered hands that were all too common in AI generated imagery.
 AIs will get more refined, but that doesn’t change concerns about their value and their role.
-When I say that I believe in diversity, equity, and inclusion, I’m not speaking in code.
+Category: Uncategorized Tags: 25th Legislative District , AI , Equity , Ethics , Heat Island , Skeptic , Washington State Legislature Diversity, Equity, and Inclusion Posted on October 20, 2021 by David Berg Leave a Comment When I say that I believe in diversity, equity, and inclusion, I’m not speaking in code.
 I’m not trying to covertly insert some other belief system.
-I’m not trying to scare you.
+I’m not trying to scare you .
 So why should we be concerned about diversity, equity, and inclusion here in Puyallup?
-Our schools are much more diverse than our community as a whole, and have become significantly more diverse in recent years.
+Our schools are much more diverse than our community as a whole, and have become significantly more diverse in recent years .
 Census data says that Pierce County is about 67% white, and Puyallup close to 78% white.
 Our schools are closer to 50% white, and a third of the schools in the Puyallup School District are majority minority.
 There is much more to our identity than the race we might choose to label ourselves with on a form.
@@ -80,11 +81,7 @@ We can identify groups of children who could benefit from different intervention
 We can, and must, do better by those children.
 We can do that by paying attention to diversity, equity, and inclusion.
 The Washington State Legislature recently passed a bill that mandates the Washington State School Directors’ Association (WSSDA) develop cultural competency , diversity, equity, and inclusion (CCDEI) standards for school governance, and that the Professional Educator Standards Board (PESB) update its CCDEI standards to provide for one day of professional learning in CCDEI every other year.
-How did they define diversity, equity, and inclusion?
-- “diversity describes the presence of similarities and differences within a given setting, collective, or group based on multiple factors including race and ethnicity, gender identity, sexual orientation, disability status, age, educational status, religion, geography, primary language, culture, and other characteristics and experiences;
-- equity includes developing, strengthening, and supporting procedural and outcome fairness in systems, procedures, and resource distribution mechanisms to create equitable opportunities for all individuals, and also includes eliminating barriers that prevent the full participation of individuals and groups; and
-- inclusion describes intentional efforts and consistent sets of actions to create and sustain a sense of respect, belonging, safety, and attention to individual needs and backgrounds that ensure full access to engagement and participation in available activities and opportunities”
-Some are attacking that as critical race theory.
+How did they define diversity, equity, and inclusion? “diversity describes the presence of similarities and differences within a given setting, collective, or group based on multiple factors including race and ethnicity, gender identity, sexual orientation, disability status, age, educational status, religion, geography, primary language, culture, and other characteristics and experiences; equity includes developing, strengthening, and supporting procedural and outcome fairness in systems, procedures, and resource distribution mechanisms to create equitable opportunities for all individuals, and also includes eliminating barriers that prevent the full participation of individuals and groups; and inclusion describes intentional efforts and consistent sets of actions to create and sustain a sense of respect, belonging, safety, and attention to individual needs and backgrounds that ensure full access to engagement and participation in available activities and opportunities” Some are attacking that as critical race theory.
 I don’t see it that way.
 I see it just the way I described it above.
 Our children have had different lived experiences for any number of reasons.
@@ -98,42 +95,33 @@ We want them to feel safe and included.
 We want them to get the services they need to achieve, and the provision of equitable services best moves us towards that goal.
 We’re all starting in different places having lived different experiences, and the growing diversity of our community has made understanding that and responding to that more important than ever.
 It’s the job of the school board to make sure we continue to move in the right direction.
-I recently wrote about the job of a school director.
+Category: Latest Articles Tags: David Berg , Demographics , Diversity , Election , Equity , Inclusion , Puyallup School Board , Puyallup School District Curriculum Adoption and the School Board Posted on June 6, 2021 by David Berg Leave a Comment I recently wrote about the job of a school director .
 Each School Board in the state has defined its role and the role of a school director in its governing documents.
 Puyallup’s Board believes that at its core, the board must ensure that “students will have ample opportunity to achieve their individual and collective learning potential.” The operation of a school district is a complex process, involving a broad range on interests.
 In serving those interests, the Board has adopted a number of District Policies that seek to define the roles and responsibilities of everyone involved.
 One of the tasks of a School Board as adopted in our District Policies is to give final approval during the curriculum adoption process.
-The entire process is spelled out in Board Policy 2020R.
+The entire process is spelled out in Board Policy 2020R .
 The role of the Certificated Teaching Staff, Principal, Assistant Superintendent, Instructional Materials Committee, Superintendent and School Board are clearly defined, as illustrated in the Policy.
 Certificated Teaching Staff are to identify core material.
 The Instructional Materials Committee, which may include parents, will evaluate and recommend core materials for approval, and will “evaluate and act upon citizens’ requests for reconsideration of core materials.” The criteria for the selection of instructional materials is also defined.
 I added emphasis on points E and H below.
-Criteria for Selection of Core/Alternative Core Instructional Materials
-Core instructional materials shall be selected based upon the degree to which they:
-A.
-Demonstrate likelihood of impact as shown by scientific or evidence-based research;
-B.
-Enable implementation of the district’s developed curriculum and meet state standards and College Readiness requirements;
-C.
-Provide sufficient flexibility to meet the varied needs and abilities of the students served;
-D.
-Provide clear and appropriate differentiation components for English Language Learners, special education students, students with academic opportunity gaps, and highly capable students;
-E.
-Where appropriate, present balanced but differing views of issues, controversial or otherwise, in order that students may develop critical analysis and informed decision-making skills;
-F.
-Demonstrate consideration of appropriate format(s) (including technological, visual, and/or auditory components);
-G.
-Support equitable access to learning and learning materials for all students; including the provision of appropriate, high-quality accessible instructional materials to all students with disabilities who require them; and
-H.
+Criteria for Selection of Core/Alternative Core Instructional Materials Core instructional materials shall be selected based upon the degree to which they: A.
+Demonstrate likelihood of impact as shown by scientific or evidence-based research; B.
+Enable implementation of the district’s developed curriculum and meet state standards and College Readiness requirements; C.
+Provide sufficient flexibility to meet the varied needs and abilities of the students served; D.
+Provide clear and appropriate differentiation components for English Language Learners, special education students, students with academic opportunity gaps, and highly capable students; E.
+Where appropriate, present balanced but differing views of issues, controversial or otherwise, in order that students may develop critical analysis and informed decision-making skills; F.
+Demonstrate consideration of appropriate format(s) (including technological, visual, and/or auditory components); G.
+Support equitable access to learning and learning materials for all students; including the provision of appropriate, high-quality accessible instructional materials to all students with disabilities who require them; and H.
 Are free of stereotyping and gender, race, class, and other forms of bias, recognizing that under certain circumstances biased materials may serve as appropriate resources to present contrasting and differing points of view, and biased materials may be employed in order to teach students about bias, stereotyping, and propaganda in historical or contemporary contexts.
-The Washington Models for the Evaluation of Bias Content in Instructional Materials, published by the Office of Superintendent of Public Instruction (OSPI) should be consulted in the selection process to further to the goal of eliminating content bias.
+The Washington Models for the Evaluation of Bias Content in Instructional Materials , published by the Office of Superintendent of Public Instruction (OSPI) should be consulted in the selection process to further to the goal of eliminating content bias.
 So why am I writing about this now?
 During the May 24th School Board meeting, the Director of Instructional Leadership presented to the Board a recommendation to adopt a new 9th Grade Modern World History Curriculum.
-You can see full details of their recommendation in the Agenda for the May 24th meeting, and I’ve linked the specific recommendation here.
+You can see full details of their recommendation in the Agenda for the May 24th meeting , and I’ve linked the specific recommendation here .
 The stated plan was to present the proposed new instructional materials for a first reading and consideration at the meeting on the 24th, and to hold a second reading during the June 7th meeting before asking for a vote from the Board.
 Despite beginning the process in 2019, some questions and comments were made by Directors during the meeting that questioned the content of the material, and how America was portrayed in the World History Curriculum.
 The new curriculum has now been pulled from the June 7th agenda to allow Board Members to gather additional information before voting.
-I’m very concerned about the introduction of politics into this process at this late date, and particularly during a time when Boards across the country are finding themselves attacked for supporting concepts of equity, diversity of opinion, and addressing how certain perspectives in history have dominated discussions.
+“The committee overwhelmingly selected the TCI materials, both for the content it covered, the amount of learning strategies & resources offered, as well as the support and structure for new teachers.” Modern World history curriculum adoption instructional materials committee review I’m very concerned about the introduction of politics into this process at this late date, and particularly during a time when Boards across the country are finding themselves attacked for supporting concepts of equity, diversity of opinion, and addressing how certain perspectives in history have dominated discussions.
 The objections raised during the Board meeting weren’t about the process, or about the recommendation of the teachers.
 In the report of the Instructional Materials Committee, “[t]he committee overwhelmingly selected the TCI materials, both for the content it covered, the amount of learning strategies & resources offered, as well as the support and structure for new teachers.” Our policies explicitly recognize that some concepts will need to include differing views of issues, so that students can develop critical thinking skills.
 Still, the objection seemed to fall back on whether the world history curriculum was sufficiently pro-American and too welcoming of differing views of historical events.
@@ -152,8 +140,8 @@ You can also request to make a comment virtually by emailing Beth Kerrick at ker
 Monday with your name and topic.
 Please put “Public Comment” in the subject line of your email.
 Your name will be called by the Board President during the public comment portion of the agenda.
-Public comments are limited to three minutes in length, and guidelines are posted on the District website.
-A school director’s job is to represent the voice of the community.
+Public comments are limited to three minutes in length, and guidelines are posted on the District website .
+Category: Latest Articles Tags: Curriculum , David Berg , Diversity , Equity , Puyallup School Board , Puyallup School District The Job of a School Director Posted on May 23, 2021 by David Berg Leave a Comment A school director’s job is to represent the voice of the community.
 I’m not campaigning to implement a personal or political agenda.
 I’m campaigning to ensure that each of our students is given the structures and supports they need to learn and grow.
 I’m campaigning to ensure that our entire community is engaged in decision making in our District.
@@ -167,25 +155,18 @@ My experiences aren’t yours, though, and we can learn from each other.
 Every school board in our state has adopted policies that define the role of the board and the school directors.
 Puyallup’s board adopted its key functions in 1997, and most recently revised those functions in 2012.
 The role of the board is to connect our community to our schools in support of our students.
-At its core, the board must ensure that “students will have ample opportunity to achieve their individual and collective learning potential.” The key functions adopted by the board to meet that goal are:
-Vision and Responsible Governance:
-The board, with participation by the community, will envision the future of the school district’s educational program and formulate goals, define outcomes and set the course for the school district.
+At its core, the board must ensure that “students will have ample opportunity to achieve their individual and collective learning potential.” The key functions adopted by the board to meet that goal are: Vision and Responsible Governance: The board, with participation by the community, will envision the future of the school district’s educational program and formulate goals, define outcomes and set the course for the school district.
 This will be done within the context of racial, ethnic and religious diversity and with a commitment to educational excellence and equity for all students.
-Structure and Creating Conditions for Student and Staff Success:
-To achieve the vision, the Board will establish a structure which reflects local circumstances and creates an environment designed to ensure all students the opportunity to attain their maximum potential through a sound organizational framework.
+Structure and Creating Conditions for Student and Staff Success: To achieve the vision, the Board will establish a structure which reflects local circumstances and creates an environment designed to ensure all students the opportunity to attain their maximum potential through a sound organizational framework.
 This includes employing a superintendent, developing and approving policies, formulating budgets, setting high instructional and learning goals for staff and students, and nurturing a climate conducive to continuous improvement.
-High Expectations for Student Learning:
-The board will continuously articulate the belief that all students can learn and that each student’s learning can improve.
+High Expectations for Student Learning: The board will continuously articulate the belief that all students can learn and that each student’s learning can improve.
 The Board will act as leaders of a vision of shared learning that is supported by individual schools and the community.
-Accountability:
-The board’s accountability to the community will include adopting a system of continuous assessment of all conditions affecting education, including assessments for measuring staff and student progress towards goals.
+Accountability: The board’s accountability to the community will include adopting a system of continuous assessment of all conditions affecting education, including assessments for measuring staff and student progress towards goals.
 The public will be kept informed about programs and progress.
 Staff and board training will be provided to ensure continuous improvement of student achievement.
-Advocacy and Community Engagement:
-The board will serve as education’s key advocate on behalf of students and their schools.
+Advocacy and Community Engagement: The board will serve as education’s key advocate on behalf of students and their schools.
 The Board will work to advance the community’s vision for its schools, pursue the District’s goals, encourage progress and energize systemic change and ensure that students are treated as whole persons in a diversified society.
-Puyallup School District Policy 1005
-I will always act with a commitment to educational excellence and equity for all students.
+Puyallup School District Policy 1005 I will always act with a commitment to educational excellence and equity for all students.
 I will work with the other members of the board to create an environment that supports continuous improvement.
 I will have high expectations for student learning.
 I will strive to keep the public informed about our programs and the progress we make.
@@ -199,3 +180,8 @@ If you don’t feel you’re being informed about the progress being made, tell 
 Just as I have been an advocate for my sons and for public education over the last 17 years, I welcome your advocacy.
 Our students will benefit when we work together to celebrate their value and what they add to our community.
 I can’t wait to get started.
+Category: Latest Articles Tags: Community , David Berg , Engagement , Families , Goals , Governance , Parents , Puyallup School Board , Puyallup School District , Responsibilities , Students 1 2 » Translate Countdown to the General Ballots are Due - Use a Drop Box!
+November 3, 2026 # days to go.
+Paid for by Citizens for David Berg 1410 24TH AVE CT SW Puyallup, WA 98373 Archives July 2026 October 2021 June 2021 May 2021 April 2021 Like me on Facebook Like me on Facebook Facebook Twitter Email Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

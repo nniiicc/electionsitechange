@@ -1,5 +1,4 @@
-About
-Sergio Sotelo knows the value of a dollar.
+0 Skip to Content Home Issues Endorsements Contact DONATE Open Menu Close Menu Home Issues Endorsements Contact DONATE Open Menu Close Menu Home Issues Endorsements Contact DONATE About Sergio Sotelo knows the value of a dollar.
 As the oldest of three in a Mexican American immigrant household, he learned early what it meant to step up, look out for others, and stay connected to the people around him.
 That’s just how he was raised.
 When he was 14 years old, he got his first job at the neighborhood grocery store — $5.50 an hour — to help provide for his family.
@@ -23,8 +22,7 @@ When people have access to real learning, it changes how they see the world, ope
 Without that foundation, opportunities shrink.
 Sergio lives, works, and is raising his family in West Jordan.
 He’s part of this community every day, and when he shows up, he’s there to listen, to work, and to get things done.
-Why I’m Running
-I care about this community, and I’ve always believed people deserve to be heard.
+Why I’m Running I care about this community, and I’ve always believed people deserve to be heard.
 The more I got involved with our local government through my work with the union and in community advocacy, the more I saw that a lot of the decisions shaping everyday life aren’t being made locally.
 They’re coming from the state.
 And when those decisions started targeting workers and unions, it hit close to home.
@@ -34,20 +32,13 @@ I’ve also had the chance to sit down with elected officials and speak directly
 So when I saw policies moving in a direction that makes it harder for workers to have a voice, I wanted to step up.
 That’s why I’m running.
 I want to make sure the every day people raising families, running small businesses, working blue collar jobs, and trying to get ahead, have a real voice in the decisions that affect their lives.
-Issues
-Education That Opens Doors
-Sergio believes education shapes what’s possible.
+Issues Education That Opens Doors Sergio believes education shapes what’s possible.
 When people have access to strong schools and real learning opportunities, it changes how they see the world, opening doors and creating opportunity that extend beyond the classroom.
 Every student in Utah deserves that chance, no matter where they come from.
-Labor
-Sergio has spent more than 15 years working as a union electrician and representing workers through IBEW Local 354.
+Labor Sergio has spent more than 15 years working as a union electrician and representing workers through IBEW Local 354.
 He’s seen what fair wages, safe working conditions, and job stability mean for a family.
 He’s also seen how quickly things can get harder when workers lose their voice.
 Sergio will stand up for working people and make sure policies support the people doing the work, not make it harder for them to get ahead.
-Housing Affordability and Infrastructure
-Utah is growing and too many working families are being priced out of their neighborhoods.
+Housing Affordability and Infrastructure Utah is growing and too many working families are being priced out of their neighborhoods.
 Sergio believes we need practical solutions to keep housing within reach for working families, like building more homes people can afford, planning for growth, and making sure families can stay in the communities they’ve worked hard to be part of.
-Donate to Sergio’s Campaign
-Contact Sergio.
-sergio@electsergiosotelo.com
-801.556.2744
+Donate to Sergio’s Campaign Click here to donate Contact Sergio. sergio@electsergiosotelo.com 801.556.2744 PAID FOR BY COMMITTEE TO ELECT SERGIO SOTELO | PRIVACY POLICY

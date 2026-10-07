@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Petition+Signing&dates=20260308T190000Z%2F20260308T210000Z&location=Paddlers+Point%2C+PA%2C+18336%2C+United+States",
-"http://maps.google.com/?q=Paddlers+Point+PA%2C+18336+United+States",
-"https://azzolliniforpa.org/",
-"https://azzolliniforpa.org/about",
-"https://azzolliniforpa.org/campaign-platform",
-"https://azzolliniforpa.org/cart",
-"https://azzolliniforpa.org/events",
-"https://azzolliniforpa.org/events/campaign-launch-party",
-"https://azzolliniforpa.org/events/candidates-meet-greet",
-"https://azzolliniforpa.org/events/petition-signing?format=ical",
-"https://azzolliniforpa.org/faq-1",
-"https://facebook.com/share/1DgR4Unc8b?mibextid=wwXIfr",
-"https://instagram.com/dominique_azzollini_for_pa?igsh=MWJtZDJhNHVoemRzNw%3D%3D",
-"https://secure.actblue.com/donate/azzolliniforpa"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=paddlers+point+pa%2C+18336+united+states"
+},
+{
+"text": "0",
+"href": "https://www.azzolliniforpa.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.azzolliniforpa.org/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.azzolliniforpa.org/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/azzolliniforpa"
+},
+{
+"text": "Events",
+"href": "https://www.azzolliniforpa.org/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Petition+Signing&dates=20260308T190000Z%2F20260308T210000Z&location=Paddlers+Point%2C+PA%2C+18336%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.azzolliniforpa.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.azzolliniforpa.org/events/petition-signing?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.azzolliniforpa.org/campaign-platform"
+},
+{
+"text": "Next Next May 3 Candidates Meet & Greet",
+"href": "https://www.azzolliniforpa.org/events/candidates-meet-greet"
+},
+{
+"text": "PA 139",
+"href": "https://www.azzolliniforpa.org/faq-1"
+},
+{
+"text": "Previous Previous March 5 Campaign Launch Party",
+"href": "https://www.azzolliniforpa.org/events/campaign-launch-party"
+},
+{
+"text": "[image: Dominique Azzollini For PA 139]",
+"href": "https://www.azzolliniforpa.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1DgR4Unc8b/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dominique_azzollini_for_pa?igsh=MWJtZDJhNHVoemRzNw%3D%3D"
+}
 ]

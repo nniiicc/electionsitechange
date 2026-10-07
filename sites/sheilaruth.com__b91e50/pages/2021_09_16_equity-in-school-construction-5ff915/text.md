@@ -1,4 +1,5 @@
-Tuesday night, I testified at the Baltimore County Board of Education in support of the MYIPAS recommendations.
+Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Equity in School Construction Tuesday night, I testified at the Baltimore County Board of Education in support of the MYIPAS recommendations.
 Baltimore County has many aging schools, and the needs far exceed the funds available.
 Faced with this situation, Baltimore County, working with the Board of Education, hired an independent consultant, Cannon Design, to perform an analysis and make recommendations to help guide the county in deciding on school construction priorities.
 Cannon Design developed a plan that will ensure every school in the county will have improvements within fifteen years, within budget.
@@ -14,7 +15,13 @@ Unfortunately, the Board of Education voted to put politics over fairness and ig
 Thank you to Board members Cheryl Pasteur, Moalie Jose, Erin Hager, Rod McMillion, and Chair Makeda Scott for voting to support fairness and equity by voting against the amendment.
 It’s not too late to return to the plan that will benefit the most students.
 The capital requests next go to the Maryland Interagency Commission on School Construction, or IAC.
-You can email the IAC at iac.pscp@maryland.gov.
+You can email the IAC at iac.pscp@maryland.gov .
 The county will have the final determination on whether it can fund the capital requests.
-If you agree with 91% of the county residents who believe that funding should be allocated to benefit as many students as possible, you can write to the county executive at johnnyo@baltimorecountymd.gov.
+If you agree with 91% of the county residents who believe that funding should be allocated to benefit as many students as possible, you can write to the county executive at johnnyo@baltimorecountymd.gov .
 Watch my full testimony here.
+Testifying before the Board of Education Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Friends of Sheila Ruth, Bonnie K.
+Smith, Treasurer Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Subscribe Sign up here to receive my weekly newsletter with community and legislative news, local events, and updates on my work.
+Many people have told me how valuable they find my newsletter.
+View Past Issues Email address:* Leave this field empty if you're human: <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>Loading…

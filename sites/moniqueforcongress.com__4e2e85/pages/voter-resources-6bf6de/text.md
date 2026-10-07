@@ -1,2 +1,4 @@
-To register to vote, use this link to register with the Oregon Secretary of State.
-Click here for an interactive district map.
+About Meet Monique News Priorities Media Get Involved Volunteer Endorse Monique Voter Resources Donate Shop Like Monique Despain for Congress on Facebook Follow Monique Despain for Congress on X (formerly Twitter) Follow Monique Despain for Congress on Instagram Follow Monique Despain for Congress on YouTube Follow Monique Despain for Congress on TikTok Meet Monique News Priorities Media Volunteer Endorse Monique Voter Resources Donate Shop Voter Resources Register To Vote To register to vote, use this link to register with the Oregon Secretary of State.
+District Map Click here for an interactive district map.
+Paid For By Monique For Congress PO Box 51034 Eugene, OR 97405 info@moniqueforcongress.com 541-321-6016 Privacy Policy The use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense.
+Watch our latest ad!

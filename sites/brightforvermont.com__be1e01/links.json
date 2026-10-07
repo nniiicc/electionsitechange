@@ -1,13 +1,54 @@
 [
-"https://brightforvermont.com/",
-"https://brightforvermont.com/about",
-"https://brightforvermont.com/cart",
-"https://brightforvermont.com/contact",
-"https://brightforvermont.com/endorsements",
-"https://brightforvermont.com/store",
-"https://brightforvermont.com/support",
-"https://brightforvermont.com/the-issues",
-"https://forms.gle/WbBB4KXF8kbhq7oE6",
-"https://forms.gle/bm4CwpL7PU7Q1L6n6",
-"https://secure.actblue.com/donate/carolinebright"
+{
+"text": "(0)",
+"href": "https://www.brightforvermont.com/cart"
+},
+{
+"text": "About Caroline",
+"href": "https://www.brightforvermont.com/about"
+},
+{
+"text": "Caroline Bright for Vermont State House",
+"href": "https://www.brightforvermont.com/"
+},
+{
+"text": "Cart (0)",
+"href": "https://www.brightforvermont.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.brightforvermont.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/carolinebright"
+},
+{
+"text": "Endorsements",
+"href": "https://www.brightforvermont.com/endorsements"
+},
+{
+"text": "Get a lawn sign!",
+"href": "https://forms.gle/bm4CwpL7PU7Q1L6n6"
+},
+{
+"text": "Learn more",
+"href": "https://www.brightforvermont.com/about"
+},
+{
+"text": "Let's knock doors together!",
+"href": "https://forms.gle/WbBB4KXF8kbhq7oE6"
+},
+{
+"text": "Store",
+"href": "https://www.brightforvermont.com/store"
+},
+{
+"text": "Support",
+"href": "https://www.brightforvermont.com/support"
+},
+{
+"text": "The Issues",
+"href": "https://www.brightforvermont.com/the-issues"
+}
 ]

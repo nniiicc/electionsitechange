@@ -1,7 +1,7 @@
-Bridge MI / Jonathan Oosting
-LANSING — Michigan Gov.
+Home Priorities Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Back A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Home Priorities A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Oakland County ‘ground zero’ in fight for control of Michigan House Bridge MI / Jonathan Oosting LANSING — Michigan Gov.
 Gretchen Whitmer isn’t up for re-election, but she’s been back on the campaign trail this fall trying to help fellow Democrats flip the state House.
 Whitmer has a clear motivation: After two years of fighting with Republican majorities in Lansing over gas taxes, budgets and the state’s response to COVID-19, the governor wants to have at least “half of the Legislature that’s going to have my back,” she said at a recent campaign stop for Rep.
 Sheryl Kennedy, D-Davison.
 “We can pick up four more seats,” Whitmer said.
-Read More >
+Read More > Kelly Breen October 29, 2020 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr Pinterest 0 0 Likes Previous Democrat Kelly Breen takes open Republican seat in 38th District Michigan House race Kelly Breen November 4, 2020 Next Michigan Democrats Set Sights On Retaking State House Kelly Breen October 29, 2020 WE BELIEVE IN MICHIGAN!
+About | Endorsed | Priorities | Get Together Donate Volunteer PAID FOR BY VOTE KELLY BREEN | 242 LINHART ST., NOVI, MI 4# ©# THE GUERRILLA POLITIC, LLC ALL RIGHTS RESERVED Re-Elect Kelly Breen Meet Kelly

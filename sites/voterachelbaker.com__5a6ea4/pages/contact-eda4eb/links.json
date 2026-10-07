@@ -1,17 +1,66 @@
 [
-"https://facebook.com/rachelbakerforohio",
-"https://instagram.com/reprachelbaker",
-"https://tiktok.com/@reprachelbaker",
-"https://twitter.com/reprachelbaker",
-"https://voterachelbaker.com/",
-"https://voterachelbaker.com/contact",
-"https://voterachelbaker.com/copy-of-volunteer",
-"https://voterachelbaker.com/donate",
-"https://voterachelbaker.com/endorsements",
-"https://voterachelbaker.com/legislation",
-"https://voterachelbaker.com/meet-rachel",
-"https://voterachelbaker.com/priorities",
-"https://voterachelbaker.com/professional-experience",
-"https://voterachelbaker.com/rachel-in-action",
-"https://voterachelbaker.com/volunteer"
+{
+"text": "Contact",
+"href": "https://www.voterachelbaker.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.voterachelbaker.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voterachelbaker.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.voterachelbaker.com"
+},
+{
+"text": "Issues",
+"href": "https://www.voterachelbaker.com/priorities"
+},
+{
+"text": "Legislation",
+"href": "https://www.voterachelbaker.com/legislation"
+},
+{
+"text": "Meet Rachel",
+"href": "https://www.voterachelbaker.com/meet-rachel"
+},
+{
+"text": "Rachel in Action",
+"href": "https://www.voterachelbaker.com/rachel-in-action"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.voterachelbaker.com/copy-of-volunteer"
+},
+{
+"text": "Values & Experience",
+"href": "https://www.voterachelbaker.com/professional-experience"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voterachelbaker.com/volunteer"
+},
+{
+"text": "[image: 2022-03-20_12-18-56_edited.jpg]",
+"href": "https://www.voterachelbaker.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/rachelbakerforohio/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/reprachelbaker/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@reprachelbaker"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/reprachelbaker"
+}
 ]

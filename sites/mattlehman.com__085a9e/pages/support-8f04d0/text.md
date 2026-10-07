@@ -1,13 +1,7 @@
-top of page
-Your support is crucial, whether you're volunteering your time by walking in parades, requesting a yard sign, writing a letter to the editor, driving people to the polls, or distributing information door to door; for more information or to get involved, please contact us.
+top of page MATT LEHMAN STATE REPRESENTATIVE About Issues Support Contact More Use tab to navigate through the menu items.
+WAYS YOU CAN HELP Donate Your support is crucial, whether you're volunteering your time by walking in parades, requesting a yard sign, writing a letter to the editor, driving people to the polls, or distributing information door to door; for more information or to get involved, please contact us.
 Additionally, you can contribute financially to our campaign through PayPal by clicking the link below.
 Thank you for your support!
-Volunteer
-- Walk in parades
-- Request a yard sign
-- Write a letter to the editor
-- Drive people to the poles
-- Walk door to door handing out information
-If you are interested in volunteering or would like additional information,
-please contact us!
-bottom of page
+Volunteer Walk in parades Request a yard sign Write a letter to the editor Drive people to the poles Walk door to door handing out information If you are interested in volunteering or would like additional information, please contact us !
+About Issues Support Contact Paid for by the Matt Lehman for State Representative Committee, Gregg A.
+Sprunger, Treasurer bottom of page

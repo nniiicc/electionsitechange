@@ -1,0 +1,2 @@
+Home Meet Chris Issues News Volunteer Contribute Events Cape Girardeau 2-12-2026 I had fun getting to know generations both young and old in Cape last night with the Democratic Women’s Club at the Cape Library, and the Pool, Pub and Politics event at the Blue Diamond Bar!
+Voter Information Endorsements Yard Signs Events Photos Contact and Follow Paid For By Reichard For Rep Powered by CampaignPartner.com - Political Campaign Websites Home Meet Chris Issues Endorsements Contribute Volunteer News Yard Signs Events Contact and Follow Voter Information Close Menu

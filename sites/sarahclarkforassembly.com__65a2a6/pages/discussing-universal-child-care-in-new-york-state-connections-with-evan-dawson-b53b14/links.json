@@ -1,18 +1,66 @@
 [
-"https://facebook.com/sarahclarkny",
-"https://instagram.com/votesarahclark",
-"https://sarahclarkforassembly.com/",
-"https://sarahclarkforassembly.com/about-sarah",
-"https://sarahclarkforassembly.com/category/inthenews",
-"https://sarahclarkforassembly.com/contact",
-"https://sarahclarkforassembly.com/hochul-signs-legislation-creating-streamlined-system-for-social-service-payments-to-child-care-providers",
-"https://sarahclarkforassembly.com/issues",
-"https://sarahclarkforassembly.com/media",
-"https://sarahclarkforassembly.com/rochester-area-statewide-leaders-react-to-hochuls-first-state-of-the-state-address",
-"https://sarahclarkforassembly.com/subscribe",
-"https://sarahclarkforassembly.com/tag/childcare",
-"https://sarahclarkforassembly.com/volunteer",
-"https://sarahclarkforassembly.com/vote",
-"https://secure.actblue.com/donate/votesarah",
-"https://wxxinews.org/show/connections/2021-12-08/discussing-universal-child-care-in-new-york-state"
+{
+"text": "About Sarah",
+"href": "https://sarahclarkforassembly.com/about-sarah/"
+},
+{
+"text": "Contact",
+"href": "https://sarahclarkforassembly.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesarah"
+},
+{
+"text": "Hochul signs legislation creating ‘streamlined system’ for social service payments to child care providers",
+"href": "https://sarahclarkforassembly.com/hochul-signs-legislation-creating-streamlined-system-for-social-service-payments-to-child-care-providers/"
+},
+{
+"text": "In The News",
+"href": "https://sarahclarkforassembly.com/category/inthenews/"
+},
+{
+"text": "Issues",
+"href": "https://sarahclarkforassembly.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://sarahclarkforassembly.com/media/"
+},
+{
+"text": "Rochester-area, statewide leaders react to Hochul’s first State of the State address",
+"href": "https://sarahclarkforassembly.com/rochester-area-statewide-leaders-react-to-hochuls-first-state-of-the-state-address/"
+},
+{
+"text": "Subscribe",
+"href": "https://sarahclarkforassembly.com/subscribe/"
+},
+{
+"text": "Volunteer",
+"href": "https://sarahclarkforassembly.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://sarahclarkforassembly.com/vote/"
+},
+{
+"text": "WXXI News",
+"href": "https://www.wxxinews.org/show/connections/2021-12-08/discussing-universal-child-care-in-new-york-state"
+},
+{
+"text": "[image: Sarah Clark for New York State Assembly]",
+"href": "https://sarahclarkforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sarahclarkny/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votesarahclark/"
+},
+{
+"text": "childcare",
+"href": "https://sarahclarkforassembly.com/tag/childcare/"
+}
 ]

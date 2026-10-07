@@ -1,1 +1,3 @@
-Neighborhood Meet and Greet An opportunity to meet and talk with Darren When: Thursday, August 13, 7:00pm Where: Home of Kelvyn & Laurie Cullimore
+Skip to content Menu Menu Home Top 3 About Issues Endorsements News Contact Contribute News Item Posted August 8, 2026 Neighborhood Meet and Greet An opportunity to meet and talk with Darren When: Thursday, August 13, 7:00pm Where: Home of Kelvyn & Laurie Cullimore Categories News Come Visit During Butlerville Days!
+Meet Darren Croft and Kathleen Anderson Leave a Comment Cancel reply Comment Name Email Website Save my name, email, and website in this browser for the next time I comment.
+District 41 Map Privacy Policy/Terms & Conditions © # Darren Croft for Utah House Close Home Top 3 About Issues Endorsements News

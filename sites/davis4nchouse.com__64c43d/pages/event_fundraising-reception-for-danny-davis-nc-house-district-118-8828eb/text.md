@@ -1,22 +1,10 @@
-- This event has passed.
-Fundraising Reception for Danny Davis (NC House District 118)
-May 14 @ 5:30 pm – 7:30 pm
-You’re invited to join the Hon.
-Joe Sam Queen on the host committee for a special fundraising reception in support of Danny Davis, candidate for NC House District 118.
+Skip to content Yard signs now available!
+Contact (828) 400-4812 to request yours Home About Issues Disaster Recovery Economy Education Healthcare Public Safety Small Businesses Volunteer News Events Contact Donate Donate YARD SIGNS NOW AVAILABLE!
+CONTACT (828) 400-4812 TO REQUEST YOURS Home About Issues Disaster Recovery Economy Education Healthcare Public Safety Small Businesses Volunteer News Events Contact This event has passed. « All Events Fundraising Reception for Danny Davis (NC House District 118) May 14 @ 5:30 pm – 7:30 pm You’re invited to join the Hon.
+Joe Sam Queen on the host committee for a special fundraising reception in support of Danny Davis , candidate for NC House District 118.
 Come enjoy an evening of conversation, community, and support for a strong local campaign.
-Location:
-The Home of Kate and Joe Sam Queen
-209 Hillview Cir
-Waynesville, NC 28786
-Date:
-Thursday, May 14, 2026
-Time:
-5:30 PM – 7:00 PM
-Host Committee Levels:
-Gold – $1,000
-Silver – $500
-Bronze – $250
-RSVP:
-Visit: Davis4NCHouse.com/0514-Waynesville
-Or call Joe Sam Queen at (828) 508-2191
-We hope you’ll join us to support Danny Davis and the future of NC House District 118.
+Location: The Home of Kate and Joe Sam Queen 209 Hillview Cir Waynesville, NC 28786 Date: Thursday, May 14, 2026 Time: 5:30 PM – 7:00 PM Host Committee Levels: Gold – $1,000 Silver – $500 Bronze – $250 RSVP: Visit: Davis4NCHouse.com/0514-Waynesville Or call Joe Sam Queen at (828) 508-2191 We hope you’ll join us to support Danny Davis and the future of NC House District 118.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Event Navigation « Meet Danny Davis at Frog Level Brewing Meet and Greet with Danny Davis at the mailroom wine and beer lounge » PAID FOR BY DAVIS FOR NC HOUSE 118 Email * Stay Informed QUICK LINKS Meet Danny Issues Contact GET INVOLVED Volunteer Events Donate STAY CONNECTED Facebook Instagram TikTok X/Twitter YouTube Contact: Danny@Davis4NCHouse.com | P.O.
+Box 196, Waynesville, NC 28786 Copyright © 2026 Davis For NC House 118 | Privacy Policy | Designed by WNC Web Design English English Deutsch Español Français Italiano Polski Svenska Suomi Português Română Slovenščina Slovenčina Nederlands Dansk Ελληνικά Čeština Magyar Lietuvių Latviešu Eesti Hrvatski Gaeilge Български Norsk Türkçe Bahasa Indonesia Português (Brasil) 日本語 한국어 简体中文 العربية Русский हिन्दी Українська Srpski English (UK) فارسی עברית Македонски ไทย Tiếng Việt Accessibility Adjustments Powered by OneTap Hide Toolbar Back How long do you want to hide the toolbar?
+Hide Toolbar Duration Only for this session 24 hours A Week Not Now Hide Toolbar Select your accessibility profile Vision Impaired Mode Enhances website's visuals Vision Impaired Mode Seizure Safe Profile Clear flashes & reduces color Seizure Safe Profile ADHD Friendly Mode Focused browsing, distraction-free ADHD Friendly Mode Blindness Mode Reduces distractions, improves focus Blindness Mode Epilepsy Safe Mode Dims colors and stops blinking Epilepsy Safe Mode Content Modules Font Size + Default - Readable Font Line Height + Default - Cursor Letter Spacing Align Text Font Weight Color Modules Light Contrast High Contrast Monochrome Orientation Modules Reading Line Reading Mask Hide Images Highlight Content Stop Animations Highlight Links Skip To Content Choose...
+Main Content Navigation Footer Reset Settings

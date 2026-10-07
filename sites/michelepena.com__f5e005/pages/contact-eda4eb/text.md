@@ -1,4 +1,5 @@
-Despite winning as a write-in last year, 2024 has brought a challenge with out-of-state billionaire donors targeting our district.
+Sign My Ballot Petition – Help Me Get On The Ballot For 2026!
+Home Issues Map Fighting For You Resources Vote Contact Home Issues Map Fighting For You Resources Vote Contact Donate Contact Representative Peña Contact Michele Office: (602) 926-3417 [email protected] Campaign: (928) 605-8265 [email protected] First Name Last Name Zip code Phone Number Email Volunteer Request a Yard Sign Make Calls to Voters Host a Meet & Greet Host a Fundraiser Talk to Neighbors (Canvas) Endorse Other Message Contact Facebook X-twitter Home Issues Map Fighting For You Resources Vote Contact Home Issues Map Fighting For You Resources Vote Contact Paid for by Pena for Arizona Privacy Policy $25 $50 $100 $250 $500 $1,000 $2,900 Other I need your help to fight for Arizona Despite winning as a write-in last year, 2024 has brought a challenge with out-of-state billionaire donors targeting our district.
 While I may not have billionaires on my side, I have you.
 Join me in fighting against radicalism and special interests.
 Your support matters.

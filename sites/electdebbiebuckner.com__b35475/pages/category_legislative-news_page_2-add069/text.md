@@ -1,15 +1,11 @@
-by buckneradmin | Feb 6, 2024 | Legislative News
-The Georgia General Assembly returned to the State Capitol last Tuesday, February 6 for a busy fifth week of the 2024 legislative session.
+Home Legislative News Donate Select Page Legislative News: February 6, 2024 by buckneradmin | Feb 6, 2024 | Legislative News The Georgia General Assembly returned to the State Capitol last Tuesday, February 6 for a busy fifth week of the 2024 legislative session.
 The House assembled for four days, and our days are certainly getting longer and busier as we move further along in the session....
-by buckneradmin | Jan 29, 2024 | Legislative News
-On Monday, January 29, the Georgia General Assembly reconvened at the State Capitol for the fourth week of the 2024 legislative session.
+Legislative News: January 29, 2024 by buckneradmin | Jan 29, 2024 | Legislative News On Monday, January 29, the Georgia General Assembly reconvened at the State Capitol for the fourth week of the 2024 legislative session.
 The House convened for four days and reached Legislative Day 14 by the end of our week, which means we are now more than a quarter...
-by buckneradmin | Jan 22, 2024 | Legislative News
-On Tuesday, January 16, I returned to the State Capitol to begin “budget week.” Each year, the Georgia General Assembly is tasked with one constitutional obligation which is to pass a balanced budget.
+Legislative News: January 22, 2024 by buckneradmin | Jan 22, 2024 | Legislative News On Tuesday, January 16, I returned to the State Capitol to begin “budget week.” Each year, the Georgia General Assembly is tasked with one constitutional obligation which is to pass a balanced budget.
 The second week of the legislative session is historically devoted...
-by buckneradmin | Jan 15, 2024 | Legislative News
-On Tuesday, January 16, I returned to the State Capitol to begin “budget week.” Each year, the Georgia General Assembly is tasked with one constitutional obligation which is to pass a balanced budget.
+Legislative News: January 15, 2024 by buckneradmin | Jan 15, 2024 | Legislative News On Tuesday, January 16, I returned to the State Capitol to begin “budget week.” Each year, the Georgia General Assembly is tasked with one constitutional obligation which is to pass a balanced budget.
 The second week of the legislative session is historically devoted...
-by buckneradmin | Jan 8, 2024 | Legislative News
-The 157th Georgia General Assembly convened for the 2024 legislative session on Monday, January 8, 2024, which marked the start of the second year of our biennial General Assembly.
+Legislative News: January 8, 2024 by buckneradmin | Jan 8, 2024 | Legislative News The 157th Georgia General Assembly convened for the 2024 legislative session on Monday, January 8, 2024, which marked the start of the second year of our biennial General Assembly.
 In addition to convening in the House Chamber each day, our House committees also began...
+Next Entries » Search Search Recent Posts Legislative News: April 22, 2023 Legislative News: March 18, 2024 Legislative News: March 11, 2024 Legislative News: March 4, 2024 Legislative News: February 19, 2024 Facebook X Instagram Website Built in Georgia by Juniperus

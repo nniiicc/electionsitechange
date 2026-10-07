@@ -1,63 +1,11 @@
-This listing has been expired.
-Skip to content
-This listing has been expired.
-jQuery(document).ready(function() {
-jQuery('.wpem_related_events-slider').slick({
-arrow: true,
-infinite: false,
-slidesToShow: 3,
-slidesToScroll: 1,
-responsive: [
-{
-breakpoint: 1024,
-settings: {
-slidesToShow: 2
-}
-},
-{
-breakpoint: 767,
-settings: {
-slidesToShow: 1
-}
-}
-]
-});
-});
-jQuery(document).ready(function() {
-jQuery('.wpem-single-event-slider').slick({
-dots: true,
-infinite: true,
-speed: 500,
-fade: true,
-cssEase: 'linear',
-adaptiveHeight: true,
-responsive: [{
-breakpoint: 992,
-settings: {
-dots: true,
-infinite: true,
-speed: 500,
-fade: true,
-cssEase: 'linear',
-adaptiveHeight: true
-}
-}]
-});
-/* Get iframe src attribute value i.e.
-YouTube video url
-and store it in a variable */
-var url = jQuery("#wpem-youtube-modal-popup .wpem-modal-content iframe").attr('src');
-/* Assign empty url value to the iframe src attribute when
-modal hide, which stop the video playing */
-jQuery(".wpem-modal-close").on('click', function() {
-jQuery("#wpem-youtube-modal-popup .wpem-modal-content iframe").attr('src', '');
-});
-jQuery(".wpem-modal-overlay").on('click', function() {
-jQuery("#wpem-youtube-modal-popup .wpem-modal-content iframe").attr('src', '');
-});
-/* Assign the initially stored url back to the iframe src
-attribute when modal is displayed again */
-jQuery("#event-youtube-button").on('click', function() {
-jQuery("#wpem-youtube-modal-popup .wpem-modal-content iframe").attr('src', url);
-});
-});
+Skip to content Skip to content Contact the Campaign: (404) 953-5268 Email: info@scotttjacksonforga.com Follow Us Home Meet Scott Priorities Responsible Government Economic Opprotunity Education & Workforce Healthcare Access Safe Communities Infrastructure Get Involved Volunteer Endorse Scott Events News Contact Us Donate Search for: Search This listing has been expired.
+Leadership.
+Integrity.
+Results.
+Powered by people — not special interests — this campaign is focused on strengthening families, expanding opportunity, and delivering results for District 111.
+Quick Links Meet Scott Endorse Scott Volunteer Contact Us Privacy Policy Terms and Conditions Contact the Campaign Loganville, GA (404) 953-5268 info@scotttjacksonforga.com © # Scott T.
+Jackson for GA.
+All Rights Reserved.
+Paid for by Scott T.
+Jackson for GA.
+Contributions are not tax-deductible.

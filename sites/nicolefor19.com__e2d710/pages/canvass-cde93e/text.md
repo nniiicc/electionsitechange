@@ -1,5 +1,7 @@
-CANVASS WITH US!
+0 Skip to Content Home About Platform Endorsements Canvass Volunteer Open Menu Close Menu Home About Platform Endorsements Canvass Volunteer Open Menu Close Menu Home About Platform Endorsements Canvass Volunteer CANVASS WITH US!
 Canvassing is at the core of our grassroots campaign here in 2026.
 Let's knock doors and talk to our neighbors about how we'll combat rising costs, ensure good-paying jobs, fund our public schools, and protect our environment.
-UPCOMING CANVASSING EVENTS:
-Stay tuned!
+UPCOMING CANVASSING EVENTS : Stay tuned!
+House District 19 includes the communities of Highland Heights, Mayfield Heights, Hunting Valley, Moreland Hills, Pepper Pike, Chagrin Falls, Bentleyville, Solon, Glenwillow, Oakwood, Walton Hills, Valley View, Brecksville, Newburgh Heights, Independence, Seven Hills, Brooklyn Heights, Cuyahoga Heights, and Cleveland Ward 4 precincts A, G, M, N, O, and Q.
+Contact PAID FOR BY FRIENDS OF NICOLE SIGURDSON ©# Friends of Nicole Sigurdson.
+All rights reserved.

@@ -1,12 +1,54 @@
 [
-"https://anniemenz.com/",
-"https://anniemenz.com/Platform",
-"https://anniemenz.com/_sites/www.anniemenz.com/how-to-contact-rep-annie-menz",
-"https://anniemenz.com/about",
-"https://anniemenz.com/contact",
-"https://anniemenz.com/news",
-"https://anniemenz.com/privacy-policy",
-"https://designedtorun.com/",
-"https://facebook.com//annieforhouse",
-"https://secure.actblue.com/donate/menz_calltime?amount=100"
+{
+"text": "About",
+"href": "https://www.anniemenz.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.anniemenz.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/menz_calltime?amount=100"
+},
+{
+"text": "Email Annie",
+"href": "mailto:Annieforhouse45@gmail.com"
+},
+{
+"text": "Home",
+"href": "https://www.anniemenz.com/"
+},
+{
+"text": "How to Contact Rep. Annie Menz",
+"href": "https://www.anniemenz.com/_sites/www.anniemenz.com/how-to-contact-rep-annie-menz"
+},
+{
+"text": "Issues",
+"href": "https://www.anniemenz.com/Platform"
+},
+{
+"text": "News",
+"href": "https://www.anniemenz.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.anniemenz.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Annie Menz for House]",
+"href": "https://www.anniemenz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//annieforhouse"
+},
+{
+"text": "annie.menz@okhouse.gov",
+"href": "mailto:annie.menz@okhouse.gov"
+}
 ]

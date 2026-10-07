@@ -1,5 +1,4 @@
-Creating a path for a better future
-Hakeem was elected to serve on the Chattanooga Public School Board in 1980, where he spent 10 years advocating for our city's public schools.
+Yusuf Hakeem Yusuf Hakeem Yusuf Hakeem Yusuf Hakeem Home About Contribution Contact Us Yusuf Hakeem Yusuf Hakeem Yusuf Hakeem Yusuf Hakeem Home About Contribution Contact Us More Home About Contribution Contact Us Home About Contribution Contact Us Fight for Change Fight for Change Fight for Change Fight for Change Creating a path for a better future Get in Touch Change Starts Today Change Starts Today Change Starts Today Change Starts Today Change Starts Today Change Starts Today About Yusuf Hakeem Hakeem was elected to serve on the Chattanooga Public School Board in 1980, where he spent 10 years advocating for our city's public schools.
 He saw public education as the bedrock of the community.
 Chattanooga was still a segregated city, and the best way to escape this and the class system was through education.
 He worked to give young children born to his neighbors the opportunity for better, to chase and reach their dreams.
@@ -17,8 +16,10 @@ He believes we should have passed Insure TN and made sure that every Tennessean 
 He believes Tennessee should fully fund the BEP, prevent public dollars from funding private schools through school choice vouchers, and ensure that every child has access to a good education, no matter what zip code they live in.
 Hakeem has dedicated his life to public service.
 He has the experience, relationships, and institutional knowledge to continue to get things done in the Tennessee House of Representatives.
-Reach out to Rep.
+Contact Contribute Securely Support Change.
+Contribute Contact Us Reach out to Rep.
 Hakeem below.
-| Open today | 09:00 am – 05:00 pm | |
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Yusuf Hakeem Office Hours: Open today 09:00 am – 05:00 pm Connect with Yusuf Connect with Yusuf Name Email* Where did you hear about us?
+Attach Files Attachments (0) This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Send Cancel Connect with Yusuf Copyright © # Yusuf Hakeem - All Rights Reserved.
+Powered by

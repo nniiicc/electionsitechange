@@ -1,7 +1,34 @@
 [
-"https://causerforpa.com/",
-"https://causerforpa.com/contact",
-"https://causerforpa.com/privacy-policy",
-"https://causerforpa.com/volunteer",
-"https://facebook.com/MartyCauserForStateHouse"
+{
+"text": "About",
+"href": "https://www.causerforpa.com/#About"
+},
+{
+"text": "Contact",
+"href": "https://www.causerforpa.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.causerforpa.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.causerforpa.com/#Issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.causerforpa.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.causerforpa.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MartyCauserForStateHouse/"
+},
+{
+"text": "[no text]",
+"href": "https://www.causerforpa.com/contact"
+}
 ]

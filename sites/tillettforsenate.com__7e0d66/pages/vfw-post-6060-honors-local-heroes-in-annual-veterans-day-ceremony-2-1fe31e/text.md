@@ -1,5 +1,4 @@
-BY THE ALBEMARLE OBSERVER
-VFW William Clarence Jackson Post 6060 held its annual Veterans Day ceremony this weekend in Elizabeth City, honoring the service and sacrifice of local veterans across all branches of the United States Armed Forces.
+Skip to content Home Events Events News News Articles Articles Bio Bio Issues Photos Videos Press Releases Media Kit DONATE VFW Post 6060 Honors Local Heroes in Annual Veterans Day Ceremony November 16, 2025 BY THE ALBEMARLE OBSERVER VFW William Clarence Jackson Post 6060 held its annual Veterans Day ceremony this weekend in Elizabeth City, honoring the service and sacrifice of local veterans across all branches of the United States Armed Forces.
 Retired U.S.
 Army NCO Dan Serik served as master of ceremonies, welcoming a large crowd of community members, veterans, and dignitaries who gathered to commemorate the day.
 Those in attendance included N.C.
@@ -22,3 +21,13 @@ Following her remarks, Serik presented Greeson with a bouquet, thanking her for 
 The ceremony concluded with a prayer from Pastor Richard Harvey, a retired U.S.
 Coast Guardsman, who urged those in attendance to remember and honor America’s veterans every day, not just on Veterans Day.
 VFW Post 6060 continues to serve the Elizabeth City and Northeastern North Carolina communities by supporting veterans, fostering patriotism, and preserving the legacy of those who served.
+Source: https://albemarleobserver.news/2025/11/11/vfw-post-6060-honors-local-heroes-in-annual-veterans-day-ceremony/ News Search Search Search Archive December 2025 November 2025 September 2025 Tillett for Senate Jerry Tillett is running in North Carolina’s First Senatorial District race to represent Dare, Currituck, Camden, Pasquotank, Perquimans, Gates, Hertford.
+Northampton, Bertie, and Tyrrell counties.
+SMS Signup By providing your telephone number and checking the box, you consent to receive calls and text messages.
+Messages may include requests for donations.
+Msg & data rates may apply.
+Msg frequency may vary.
+Reply “STOP” to opt-out & “HELP” for help. (link to Privacy Policy page).
+Submit If you are human, leave this field blank.
+Contact tillettforsenate@gmail.com Social Facebook Instagram YouTube © # All Rights Reserved.
+Paid for by Tillett for Senate.

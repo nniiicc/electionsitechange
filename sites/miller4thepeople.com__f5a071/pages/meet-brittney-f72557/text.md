@@ -1,5 +1,4 @@
-MEET BRITTNEY
-Brittney’s passion for equality began at an early age.
+Miller4ThePeople Home Meet Brittney Issues DISTRICT 5 Gallery Contact Twitter Home Meet Brittney Issues DISTRICT 5 Gallery Contact Twitter Miller4ThePeople MEET BRITTNEY Brittney’s passion for equality began at an early age.
 She was born in Detroit, Michigan to a Black/African-American father and Lebanese-American mother.
 At the young age of three, her parents began discussing race and gender equality with her in order to prepare her for the world ahead.
 Her father, a Vietnam War Veteran who served in the U.S.
@@ -18,12 +17,7 @@ She has a uniquely diverse professional background, coupled with her passion for
 Brittney has the necessary knowledge, creativity, and experience to lead.
 She has lived in this community for over ten years, teaching students directly from her own neighborhood.
 As your neighbor, she represents you with integrity and priority.
-EDUCATION
-Bachelor of Arts in Criminal Justice
-Saginaw Valley State University, Michigan
-Masters of Public Administration
-Oakland University, Michigan
-Masters of Arts in Teaching
-Sierra Nevada College, Nevada
-K-8 Teaching Licensure
-Sierra Nevada College, Nevada
+EDUCATION Bachelor of Arts in Criminal Justice Saginaw Valley State University, Michigan Masters of Public Administration Oakland University, Michigan Masters of Arts in Teaching Sierra Nevada College, Nevada K-8 Teaching Licensure Sierra Nevada College, Nevada Paid for and authorized by THE Campaign for Brittney Miller.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+First Name Last Name Email Address Sign Up Thank you!

@@ -1,12 +1,46 @@
 [
-"https://facebook.com/VoteBo",
-"https://instagram.com/votebo",
-"https://secure.actblue.com/donate/bo-mitchell-1",
-"https://secure.actblue.com/donate/votebo",
-"https://votebo.com/",
-"https://votebo.com/cart",
-"https://votebo.com/meet-bo",
-"https://votebo.com/news",
-"https://votebo.com/volunteer",
-"https://x.com/VoteBo"
+{
+"text": "0",
+"href": "https://www.votebo.com/cart"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/bo-mitchell-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votebo"
+},
+{
+"text": "Home",
+"href": "https://www.votebo.com/"
+},
+{
+"text": "Meet Bo",
+"href": "https://www.votebo.com/meet-bo"
+},
+{
+"text": "News",
+"href": "https://www.votebo.com/news"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votebo.com/volunteer"
+},
+{
+"text": "[image: Bo Mitchell For US Congress]",
+"href": "https://www.votebo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteBo/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votebo"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VoteBo"
+}
 ]

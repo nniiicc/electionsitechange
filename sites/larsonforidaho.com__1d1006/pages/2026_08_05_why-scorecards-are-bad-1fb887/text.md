@@ -1,4 +1,4 @@
-Every election, our legislative candidates hold up scorecards to prove they deserve your vote or that someone else does not.
+Skip to content Priorities Background Blog Donate Get Involved request a yard sign ENDORSE KATHRYN #larsonforID LarsonforID Kathryn Larson Why Scorecards Are Bad August 5, 2026 Larson for Idaho Every election, our legislative candidates hold up scorecards to prove they deserve your vote or that someone else does not.
 Nice, clean, and easy.
 A simple number that tells you who is a “true conservative” and who is a RINO.
 Looks official and honest.
@@ -19,7 +19,7 @@ They can go directly to the game masters and get a negative score on a bill they
 A not-so-hidden objective of the game is that it bypasses constituents.
 After the election, a legislator no longer needs to consider voters at all.
 Just vote to the IFF test.
-What wins on the scorecard are bills that consolidate power at the state level, push more costs onto cities and counties, stop any spending, and preference the lobbyists who represent out of state businesses.
+What wins on the scorecard are bills that consolidate power at the state level, push more costs onto cities and counties, stop any spending, and preference the lobbyists who represent out of state businesses .
 And, the game has evolved so much that the Republican Party Platform is now written by the game masters and championed by IFF loyal legislators.
 The only spoilers to the game are legislators who insist on reading the bills and voting on behalf of their constituents.
 These legislators understand the rules of the game but choose to uphold their responsibilities to the voters who elected them.
@@ -64,3 +64,11 @@ For example, H583, the short-term rentals (STR) bill, forces ALL the local voter
 This year, the two legislators with As sailed through the primary, while the legislators who actually worked and addressed complex back-home problems, got sent home with Fs.
 We need a new way to assess what’s good for North Idaho.
 One that measures what matters here, not a one-size-fits all scorecard.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Related articles September 17, 2026 Citizenship asks something of us Today is Constitution and Citizenship Day.
+As a citizen, I take citizenship seriously.
+Citizenship asks something of all of us.… › Read more : Citizenship asks something of us September 13, 2026 The Larson Ledger № 3: How Property Tax Elimination Costs You More 8 years of tax cuts, and the average Idaho family got $127 and a higher property tax bill.
+Now they… › Read more : The Larson Ledger № 3: How Property Tax Elimination Costs You More September 7, 2026 The North Idaho Political Paradox Are we becoming the mirror image of the liberal states?
+During my business career, I discovered that strongly-held beliefs often… › Read more : The North Idaho Political Paradox Contact 217 Cedar Street #167 Sandpoint, ID 83864 Phone: (208) 248-5949 Email: LarsonforIdaho@gmail.com Independent Candidate Idaho House of Representatives Seat 1B larson for Idaho © # Larson for Idaho.
+All rights reserved.
+Discover more from Larson for Idaho Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Notifications %d

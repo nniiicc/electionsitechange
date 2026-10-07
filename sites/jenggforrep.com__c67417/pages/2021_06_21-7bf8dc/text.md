@@ -1,3 +1,5 @@
-Mary Manching felt a disconnect between her Asian American heritage and what she was learning at Northside College Prep.
+P.O.
+Box 3042 Glenview, Illinois 60025 Email: Jen@JenGGforRep.com Home About Jen Issues News Take Action Donate Volunteer Yard Sign Contact Daily Archives: June 21, 2021 Home 2021 June 21 Illinois elementary, high school students to learn about Asian American history under measure awaiting governor’s signature staff June 21, 2021 Mary Manching felt a disconnect between her Asian American heritage and what she was learning at Northside College Prep.
 “I never saw myself represented in the history curriculum,” said Manching, a graduating senior at the selective enrollment high school in the North Park neighborhood.
-“I knew what it was like to not have a lot of people that looked like me, that I could
+“I knew what it was like to not have a lot of people that looked like me, that I could Read More Latest News Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Socials Recent Posts Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Contact Info Jen@JenGGforRep.com P.O.
+Box 3042 Glenview, Illinois 60025 Take Action Donate Volunteer Yard Sign 2022 Paid for by Friends for Jennifer All rights reserved.

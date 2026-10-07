@@ -1,9 +1,5 @@
-Please Join Us On June 28th
-LOCATION CHANGE: Event will be held at
-Mcgee’s Cafe
-660 Manistee
-Calumet City, IL 60409
-530pm to 7pm
-Please join us on Friday June 28th 2024 for a reception in support of State Rep Thaddeus Jones.
+Close Home About Issues Action Center Attend Events Donate Yard Sign Volunteer Contact Donate Search Search Thaddeus Jones for State Rep Home About Issues Action Center Attend Events Donate Yard Sign Volunteer Contact Donate April 20, 2024 Please Join Us On June 28th LOCATION CHANGE: Event will be held at Mcgee’s Cafe 660 Manistee Calumet City, IL 60409 530pm to 7pm Please join us on Friday June 28th 2024 for a reception in support of State Rep Thaddeus Jones.
 RSVP by June 7th by calling Christina Signorelli at 708-704-5100 or via email to thadjonesforstaterep@gmail.com.
-Sponsorships or tickets can be secured at
+Sponsorships or tickets can be secured at April 20, 2024 staff news Latest News Please Join Us On November 1st 10:13 pm 22 Sep 2026 Cross Town Classic 11:59 pm 06 Jul 2026 March 17th 2026 Sample Ballot 8:14 pm 22 Feb 2026 Back to top Twitter Facebook Instagram Powered by Non-Stop Web Design Paid for by Jones for State Representative.
+A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
+Text messaging originator opt-in data, emails, and consent will not be shared with any third parties unless required by law. ©# Jones for State Representative Search:

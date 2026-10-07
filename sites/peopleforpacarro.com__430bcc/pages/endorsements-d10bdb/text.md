@@ -1,4 +1,4 @@
-Endorsements are key.
+0 Skip to Content PEOPLE FOR PACARRO Help Kahi Win District 19 District 19 Concerns Campaign Pillars HD 19 Survey About Kahi About Kahi Volunteer Contact Endorsements Donate Open Menu Close Menu PEOPLE FOR PACARRO Help Kahi Win District 19 District 19 Concerns Campaign Pillars HD 19 Survey About Kahi About Kahi Volunteer Contact Endorsements Donate Open Menu Close Menu Help Kahi Win Folder: District 19 Back District 19 Concerns Campaign Pillars HD 19 Survey Folder: About Kahi Back About Kahi Volunteer Contact Endorsements Donate Endorsements are key.
 Receiving endorsements as a new candidate going up against a 16 year incumbent is a Herculian task.
 The endorsements have come despite this challenge and more will be added as this campaign matures.
-Endorsements The Sierra Club of Hawaii Planned Parenthood The Green Party Hawaii Nurses Association OPEIU 50 Unite Here Local 5 Our Hawaii Lead Locally Kanaka Movement Get Started
+Endorsements The Sierra Club of Hawaii Planned Parenthood The Green Party Hawaii Nurses Association OPEIU 50 Unite Here Local 5 Our Hawaii Lead Locally Kanaka Movement Get Started Paid for by People for Pacarro PO BOX 240289 Honolulu, HI 96824

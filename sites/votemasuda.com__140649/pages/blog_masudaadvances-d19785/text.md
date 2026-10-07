@@ -1,9 +1,8 @@
-Masuda advances to general election
-“I am so incredibly humbled and proud to be a candidate for CA-05.
+0 Skip to Content Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home Folder: About Back About CA5 Folder: Español Back Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Masuda advances to general election Jun 4 Written By Michael Masuda “I am so incredibly humbled and proud to be a candidate for CA-05.
 The heart of my campaign is built on grassroots organizing and volunteer power.
 Our team has worked hard over the last year to get to this point, and we are looking forward to continuing this campaign through November.
 This is my home and I believe our neighbors deserve a representative who champions policies that make the lives of everyone better.
 Thank you to the hundreds of volunteers who have helped grow our presence in the community.
 I am also deeply grateful to my loving, supportive wife and family, who continue to rally around our shared vision for this district.
 I look forward to debating Representative McClintock before November.
-Until then, you can find me knocking on doors, hosting town halls across the district, and meeting people where they are.”
+Until then, you can find me knocking on doors, hosting town halls across the district, and meeting people where they are.” Michael Masuda Previous Previous supreme court erodes campaign finance rules Next Next ICE shooting in backyard of House Immigration Subcommittee Chair Navigation Media Issues Volunteer California District 05 Endorsements Blog Contact Us Proudly paid for by Masuda for Congress‍ Committee ID #C00905133 Privacy Policy and Terms & Conditions

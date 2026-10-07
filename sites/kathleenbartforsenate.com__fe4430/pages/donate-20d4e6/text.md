@@ -1,6 +1,6 @@
-Minnesota Political Contribution Refund (PCR) Minnesota offers a Political Contribution Refund program that allows individuals to donate to a qualifying campaign and receive a refund from the State of Minnesota.
-- $75 refund per individual
-- $150 refund per married couple filing jointly
-After you donate, we will send you a PCR receipt.
+0 Skip to Content About Issues Donate Contact & Volunteer Open Menu Close Menu About Issues Donate Contact & Volunteer Open Menu Close Menu About Issues Donate Contact & Volunteer $75.00 $150.00 $300.00 $600.00 $1,000.00 Custom Amount Please enter an amount $ 3% Cover the Fee Donate Donate Contribution rules: * I am making this contribution with my own personal credit card and not with a corporate or business credit card or a card issued to another person. * I am a U.S. citizen or lawfully admitted permanent resident (i.e., green card holder).
+This contribution is made from my own funds, and funds are not being provided to me by another person or entity for the purpose of making this contribution. * I am at least eighteen years old.
+Minnesota Political Contribution Refund (PCR) Minnesota offers a Political Contribution Refund program that allows individuals to donate to a qualifying campaign and receive a refund from the State of Minnesota. $75 refund per individual $150 refund per married couple filing jointly After you donate, we will send you a PCR receipt .
 Submit it to the Minnesota Department of Revenue, and they will mail your refund check.
 Your support helps us continue working for fairness, accountability, and responsible leadership in our community.
+Prepared and paid for by campaign for Kathleen Bart for Senate 66 kathleenbartforsenate@Gmail.com

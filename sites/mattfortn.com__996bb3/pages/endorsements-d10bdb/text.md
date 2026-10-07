@@ -1,48 +1,12 @@
-Matt Van Epps has earned the trust and support of leaders across Tennessee's 7th District who believe in his conservative values and proven leadership.
-Endorses Matt Van Epps for Re-Election
-I am proud to, once again, endorse the GREAT Congressman from Tennessee’s 7th Congressional District, Matt Van Epps.
+Home Meet Matt Issues Endorsements News Election Info Volunteer Donate Community Endorsements Matt Van Epps has earned the trust and support of leaders across Tennessee's 7th District who believe in his conservative values and proven leadership.
+President Donald J.
+Trump Endorses Matt Van Epps for Re-Election I am proud to, once again, endorse the GREAT Congressman from Tennessee’s 7th Congressional District, Matt Van Epps.
 I strongly campaigned with Matt to defeat the Radical Left in his 2025 Special Election, and it is my Honor to support his 2026 Re-Election.
 A West Point Graduate, and Combat Decorated Army Helicopter Pilot, Matt knows the WISDOM and COURAGE required to Defend our Country, Support our incredible Military/Veterans, and Ensure PEACE THROUGH STRENGTH.
 In Congress, Matt is working hard to Keep our now very Secure Border, SECURE, Stop Migrant Crime, Advance Law and Order, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Champion School Choice, and Defend our always under siege Second Amendment.
 Matt Van Epps has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!
-America First • MAGA
-Governor
-State Senator
-State Representative
-District Attorney
-Dickson County Mayor
-Montgomery County Mayor
-Sumner County Mayor
-Trousdale County Mayor
-Cheatham County Mayor (Republican Nominee)
-Robertson County Sheriff
-Dickson County Sheriff
-Sumner County Sheriff
-Cheatham County Highway Superintendent
-Sumner County Road Superintendent
-Montgomery County Highway Supervisor
-Cheatham County Trustee
-Sumner County Trustee
-Montgomery County Property Assessor
-Montgomery County Circuit Court Clerk
-Robertson County Circuit Court Clerk
-Sumner County Clerk
-Sumner County Register of Deeds
-JL
-Cheatham County Constable (Republican Nominee)
-Cheatham County Commission Chair
-County Commissioner
-Cheatham County Commissioner
-County Commissioner (Republican Nominee)
-Montgomery County Commissioner
-Montgomery County Commissioner (Republican Nominee)
-Sumner County Commissioner
-Montgomery County School Board Chair
-Sumner County School Board Member
-Cheatham County School Board (Republican Nominee)
-Ashland City Vice Mayor
-Ashland City Councilman
-Clarksville City Councilman
-White Bluff City Councilman
-Hendersonville Alderman
-Stand with these Tennessee leaders and support Matt Van Epps for Congress.
+Read Full Endorsement on Truth Social America First • MAGA Bill Lee Governor Bill Powers State Senator Kerry Roberts State Senator Ferell Haile State Senator Ken Yager State Senator William Slater State Representative Sabi "Doc" Kumar State Representative Mary Littleton State Representative Michael Lankford State Representative Aron Maberry State Representative Kelly Keisling State Representative Johnny Garrett State Representative Ray Crouch District Attorney Robert Nash District Attorney Bob Rial Dickson County Mayor Wes Golden Montgomery County Mayor John Isbell Sumner County Mayor Jack McCall Trousdale County Mayor Bill Anderson Cheatham County Mayor (Republican Nominee) Mike Van Dyke Robertson County Sheriff Tim Eads Dickson County Sheriff Eric Craddock Sumner County Sheriff Robert "Bob" Binkley Cheatham County Highway Superintendent Toby Ellis Sumner County Road Superintendent Jeff Bryant Montgomery County Highway Supervisor Cindy Perry Cheatham County Trustee Cindy Williams Sumner County Trustee Erinne Hester Montgomery County Property Assessor Wendy Davis Montgomery County Circuit Court Clerk Kristy Chowning Robertson County Circuit Court Clerk Carolyn Templeton Sumner County Clerk Holly Hemmrich Sumner County Register of Deeds JL James Lee Cheatham County Constable (Republican Nominee) Tim Williamson Cheatham County Commission Chair Diana Pike-Lovell County Commissioner Randy Noe County Commissioner BJ Hudspeth Cheatham County Commissioner Jody Vann County Commissioner (Republican Nominee) David Harper Montgomery County Commissioner John Gannon Montgomery County Commissioner Ted Denny Montgomery County Commissioner (Republican Nominee) Brad Vankirk Montgomery County Commissioner (Republican Nominee) David Shively Montgomery County Commissioner (Republican Nominee) Cydney Daane Montgomery County Commissioner (Republican Nominee) Mark Harrison Sumner County Commissioner Shannon Burgdorf Sumner County Commissioner Baker Ring Sumner County Commissioner Dillon Lamberth Sumner County Commissioner Danny Sullivan Sumner County Commissioner Wes Wynne Sumner County Commissioner Chris Lanier Montgomery County School Board Chair Shellie Tucker Sumner County School Board Member Wade Evans Sumner County School Board Member Kathy Stuart Sumner County School Board Member Tammy Hayes Sumner County School Board Member Ginger Vann Cheatham County School Board (Republican Nominee) Chris Kerrigan Ashland City Vice Mayor Michael Smith Ashland City Councilman Jerry Haywood Clarksville City Councilman Jimmy Brown Clarksville City Councilman Carl Kincaid White Bluff City Councilman Mark Evans Hendersonville Alderman Join the Movement Stand with these Tennessee leaders and support Matt Van Epps for Congress.
+Support Matt's Campaign Get Involved Matt Van Epps for Congress Fighting for Tennessee families with conservative values and proven leadership.
+Together, we can bring real change to Washington.
+Get Involved Volunteer Donate Meet Matt Contact alex@mattfortn.com Paid for by Matt Van Epps for Congress Use of military rank, job titles, and photographs in uniform does not imply an endorsement by the United States Army or the DoD.
+Privacy Policy

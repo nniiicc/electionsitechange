@@ -1,10 +1,3 @@
-Back to All Events
-This Town hall has been canceled due to a conflicting signature gathering opportunity.
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate Back to All Events CANCELED Online Town Hall Wednesday, June 10, 2026 7:00 PM 8:00 PM Google Calendar ICS This Town hall has been canceled due to a conflicting signature gathering opportunity.
 Gathering signatures to ensure I’m able to get on the ballot is the top priority at this moment.
-Previous
-Previous
-May 27
-Online Town Hall/Q&A
-Next
-Next
-June 21
+Previous Previous May 27 Online Town Hall/Q&A Next Next June 21 Meet and Greet

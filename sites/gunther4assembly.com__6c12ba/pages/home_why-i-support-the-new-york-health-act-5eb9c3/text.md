@@ -1,29 +1,24 @@
-Why I Support the New York Health Act
-By John Gunther, Candidate for NYS Assembly, District 114
-Here’s the short version: Under the New York Health Act, most families would pay less than they do now once premiums, deductibles, copays and surprise bills disappear.
+Meet John News Endorsements Volunteer Voter Information Donate by Mail Contribute Home / Why I Support the New York Health Act 18 Sep Friday, 8:07 AM · 2026 Why I Support the New York Health Act Why I Support the New York Health Act By John Gunther, Candidate for NYS Assembly, District 114 Here’s the short version: Under the New York Health Act, most families would pay less than they do now once premiums, deductibles, copays and surprise bills disappear.
 On top of that, county and school property taxes would come down, because local governments would stop footing the bill for employee health insurance and the current NYS mandated share for Medicaid.
 Small business, start-ups and farmers will greatly benefit by not having to compete with large corporations for talented people who can afford to offer health insurance as part of their employment package.
 That's the case I will lay out here with supporting documentation.
 Previously, I wrote to you about why I support the New York Health Act, as someone who spent 49 years running a manufacturing business here in the North Country, watching health insurance go from affordable to out of reach for most small and mid-sized businesses.
 That email raised a fair question I will answer here: How would this actually work, and what would it mean for the North Country specifically?
-How It Would Actually Be Funded
-Here's the bottom line.
+How It Would Actually Be Funded Here's the bottom line.
 What you pay today in premiums, deductibles, copays, and surprise bills would go down.
 The New York Health Act is not funded through these costs, the ones families feel most acutely today.
-Instead, it's funded three ways:
-- A progressive graduated payroll tax; paid at least 80% by employers and no more than 20% by employees (100% for the self-employed).
+Instead, it's funded three ways: A progressive graduated payroll tax; paid at least 80% by employers and no more than 20% by employees (100% for the self-employed).
 The first $25,000 of an individual's income and $50,000 for Medicare recipients is tax exempt.
-- A progressive graduated tax on non-wage income; capital gains, dividends, and interest.
+A progressive graduated tax on non-wage income; capital gains, dividends, and interest.
 This means investment income is taxed on the same ability-to-pay principle as ordinary income from wages.
-- The plan redirects the money NYS state currently spends on state and local Medicaid back into the New York Health Act.
+The plan redirects the money NYS state currently spends on state and local Medicaid back into the New York Health Act.
 Pending a Congressional waiver, all Federal Medicare and Medicaid dollars received will instead flow into the NYHA general fund.
 I won't pretend this is a small tax increase - it isn't, and no one should tell you otherwise.
 The real comparison is what you already pay in premiums, deductibles, copays, and surprise bills versus what you'd pay through this progressive tax instead.
 When researchers at the RAND Corporation modeled the plan for the New York State Health Foundation, they projected that roughly 90% of New Yorkers would come out ahead financially once premiums and out-of-pocket costs disappeared.
 Right now, all these costs function like a flat tax that hits middle and lower-income families the hardest.
 That said, I think it's fair to note this is a projection, not a guarantee.
-The Piece Most People Miss: Property Tax Relief
-And here's the part that doesn't come up enough: the New York Health Act could meaningfully lower property taxes too for our counties and small towns we live in here in the North Country.
+The Piece Most People Miss: Property Tax Relief And here's the part that doesn't come up enough: the New York Health Act could meaningfully lower property taxes too for our counties and small towns we live in here in the North Country.
 A May 2026 analysis by Results for Development and the League of Women Voters of New York State looked at something most single-payer debates skip entirely.
 What happens to county, town and school district budgets under the NYHA?
 The answer is striking.
@@ -80,8 +75,7 @@ New York absorbing a proportional shortfall would face a far smaller relative hi
 None of this means New York's version is risk free, and I'd never tell you otherwise.
 But the specific failures that doomed Vermont; Badly overestimated federal funding, a benefit expansion with no matching revenue plan, a recession hitting at the worst possible moment are lessons New York can learn from.
 New York starts from a fundamentally stronger financial position to absorb the kind of surprises that sank Vermont's plan in the first place.
-Where I Stand
-I don't think this is a simple issue, and I don't think anyone should pretend it is.
+Where I Stand I don't think this is a simple issue, and I don't think anyone should pretend it is.
 It's a genuinely large change, it deserves real scrutiny, and the people asking hard questions about cost and transition aren't wrong to ask them.
 Some of my fellow Democrats think that the Federal Government should fix our current very broken system as do I.
 However, based on what I have seen over the last 25 years, I’ll be long gone before they do.
@@ -90,3 +84,4 @@ If it does this, California will follow and then, the rest of the nation.
 I've spent five decades watching the current system fail small businesses, family farms and working people in the North Country in slow motion.
 I believe New York has the chance to get this right and when elected, I intend to make sure the New York Health Act gets sponsored, debated and voted for on the floor of the New York State Assembly.
 If you'd like to go deeper on any of this - the funding model or the property tax analysis - I'm glad to point you to the sources.
+Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com - Political Websites Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

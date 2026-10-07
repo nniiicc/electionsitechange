@@ -1,16 +1,66 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSdSWbiUfJSRZ6Ccgz1jleVL1bRCvl9KsnWYKRlfOcJUrnLo0A/viewform",
-"https://facebook.com/profile.php?id=61582997855213",
-"https://instagram.com/natefor38",
-"https://iwillvote.com/",
-"https://natefor38.com/",
-"https://natefor38.com/about-me",
-"https://natefor38.com/endorsements",
-"https://natefor38.com/policy",
-"https://natefor38.com/privacy-policy",
-"https://natefor38.com/volunteer",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/natestout",
-"https://tiktok.com/@natefor38"
+{
+"text": "About Me",
+"href": "https://natefor38.com/about-me"
+},
+{
+"text": "Check my voter registration",
+"href": "https://iwillvote.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/natestout"
+},
+{
+"text": "Endorsements",
+"href": "https://natefor38.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://natefor38.com/"
+},
+{
+"text": "Policy",
+"href": "https://natefor38.com/policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://natefor38.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdSWbiUfJSRZ6Ccgz1jleVL1bRCvl9KsnWYKRlfOcJUrnLo0A/viewform"
+},
+{
+"text": "Volunteer",
+"href": "https://natefor38.com/volunteer"
+},
+{
+"text": "[image: Hoosiers to Elect Nate Stout]",
+"href": "https://natefor38.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582997855213"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/natefor38"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@natefor38"
+},
+{
+"text": "natefor38@gmail.com",
+"href": "mailto:natefor38@gmail.com"
+}
 ]

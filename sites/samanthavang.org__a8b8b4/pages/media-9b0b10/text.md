@@ -1,8 +1,3 @@
-Samantha Vang in the News
-- Grants proposed to help MN cities, counties withstand impacts of climate change March 15, 2022
-- Supporters of full-service community schools seek more funding February 22, 2022
-- Asian Minnesotans say discrimination is on the rise, push to make prosecuting hate crimes easier June 7, 2021
-- Daunte Wright's death fuels push to change Minnesota warrant process April 27, 2021
-- How the killing of Daunte Wright is affecting police reform efforts at the Minnesota Legislature April 13, 2021
-- Minnesota lawmakers may end commercial turtle harvest March 19, 2021
-- State looks to attract more mental health workers of color February 17, 2021
+0 Skip to Content Home Issues Media Donate Open Menu Close Menu Open Menu Close Menu Home Issues Media Donate Home Issues Media Donate Samantha Vang in the News Grants proposed to help MN cities, counties withstand impacts of climate change March 15, 2022 READ THE FULL ARTICLE Supporters of full-service community schools seek more funding February 22, 2022 READ THE FULL ARTICLE Asian Minnesotans say discrimination is on the rise, push to make prosecuting hate crimes easier June 7, 2021 READ THE FULL ARTICLE Daunte Wright's death fuels push to change Minnesota warrant process April 27, 2021 READ THE FULL ARTICLE How the killing of Daunte Wright is affecting police reform efforts at the Minnesota Legislature April 13, 2021 READ THE FULL ARTICLE Minnesota lawmakers may end commercial turtle harvest March 19, 2021 READ THE FULL ARTICLE State looks to attract more mental health workers of color February 17, 2021 READ THE FULL ARTICLE Follow Representative Vang for the latest updates Minnesota Legislature Samantha Vang for House 38B - FB Page Representative Samantha Vang - FB Page Instagram ISSUES MEDIA CONTACT info@samanthavang.org 763-560-1485 Prepared and paid for by the Samantha Vang for House committee, 6848 Lee Ave.
+N., P.O.
+Box 29674, Brooklyn Center 55429

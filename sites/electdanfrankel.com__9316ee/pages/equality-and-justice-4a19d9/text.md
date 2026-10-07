@@ -1,7 +1,5 @@
-Issues
-Equality and Justice for All
-As a life-long advocate for civil rights, I have fought for protection from discrimination for LGBTQ community since my arrival in the legislature in 1999.
-My signature legislation, the Pennsylvania Fairness Act, would ensure that no Pennsylvanian could legally be denied housing, fired from their job, or kicked out of a restaurant or business because of their sexual orientation or gender identity or gender expression.
+Skip to content Elect Dan Frankel Menu Close Home About Dan Issues Open menu Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Equality and Justice ElectFrankel@gmail.com Donate Now Home About Dan Issues Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Home About Dan Issues Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Issues Equality and Justice for All As a life-long advocate for civil rights, I have fought for protection from discrimination for LGBTQ community since my arrival in the legislature in 1999.
+My signature legislation, the Pennsylvania Fairness Act , would ensure that no Pennsylvanian could legally be denied housing, fired from their job, or kicked out of a restaurant or business because of their sexual orientation or gender identity or gender expression.
 I also fight for immediate, concrete changes in policing, like banning chokeholds and rewriting Pennsylvania’s deadly use of force statute.
 But those reforms are not enough.
 We also need systemic changes, like bolstering our mental health supports so that appropriate, trained mental health professionals are answering calls for help.
@@ -14,10 +12,7 @@ In 2019, my bill to improve reporting for sexual assaults on college campuses wa
 This law requires institutes of higher learning to offer online, anonymous reporting options for students.
 Let’s make a difference!
 Donate to our campaign.
-About
-Since 1999, Rep.
+Donate Now About Since 1999, Rep.
 Dan Frankel has served Pennsylvania’s 23rd district, which includes the neighborhoods of Squirrel Hill, Oakland, Point Breeze, Regent Square, Greenfield, and Shadyside.
-Explore
-Contact
-© Copyright 2022 – Rep.
-Dan Frankel
+Explore Home About Dan Issues Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Contact ElectFrankel@gmail.com © Copyright # – Rep.
+Dan Frankel Site by Imagebox Search Search Recent Posts Some Useful Links for You to Get Started Recent Comments A WordPress Commenter on Some Useful Links for You to Get Started Archives March 2022 Categories Uncategorized Elect Dan Frankel Proudly powered by WordPress .

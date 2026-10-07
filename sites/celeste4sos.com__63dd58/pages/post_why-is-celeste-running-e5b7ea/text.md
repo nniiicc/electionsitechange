@@ -1,14 +1,11 @@
-Week 22: Why is Celeste running?
-Updated: Sep 13
-Dear Colorado Voter,
-I'm sometimes asked, "Why are you running for Secretary of State?"
-1.
+top of page Home Meet Priorities News Newsletters Events Help Donate Week 22: Why is Celeste running?
+Celeste Landry Jul 14 2 min read Updated: Sep 13 Dear Colorado Voter, I'm sometimes asked, "Why are you running for Secretary of State?" 1.
 I have the experience, vision, and leadership qualities to be a great Secretary of State.
 For about a decade, I have worked with the office and legislators to make Colorado's elections and election laws the best in the nation, often as a member of the nonpartisan League of Women Voters (LWV).
 2.
 Two bills passed in 2025 that, for the first time in American history, disenfranchise voters based on party affiliation in government-run special elections.
 The other SoS candidates do not appear concerned about these clearly unconstitutional, party-protection bills.
-I led an LWV effort to challenge these bills and proposed a better, constitutional option in a January 2024 Colorado Sun guest opinion.
+I led an LWV effort to challenge these bills and proposed a better, constitutional option in a January 2024 Colorado Sun guest opinion .
 3.
 Proportional representation is the best way to end gerrymandering and ensure that a spectrum of voices reflective of the electorate can serve on governmental bodies.
 In 2018 I introduced then-candidate Joe Neguse to the U.S.
@@ -28,6 +25,6 @@ In our politically polarized world, my candidacy as neither a D nor an R gives C
 I see a path to victory if I can get out the word about my candidacy.
 I will defend your right to vote, facilitate implementation of better voting methods so you can have better representation, and protect our elections.
 You can help by asking the media to cover my campaign and by introducing me to CO voters.
-Then I'll "be ready when the luck happens!"
-With enthusiasm and purpose,
-Celeste
+Then I'll "be ready when the luck happens!" With enthusiasm and purpose, Celeste Celeste Landry for Secretary of State P.O.
+BOX 41 Boulder, CO 80306 720-767-7310 Celeste4sos.com Paid for by Celeste Landry for Secretary of State.
+Registered Agent: Wendy Underhill Website created by Shayna Beckham Privacy Policy bottom of page

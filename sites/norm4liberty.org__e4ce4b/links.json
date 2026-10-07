@@ -1,4 +1,14 @@
 [
-"http://lp.org/",
-"http://opencrime.us/"
+{
+"text": "OpenCrime",
+"href": "http://www.opencrime.us"
+},
+{
+"text": "norm@norm4Liberty.org",
+"href": "mailto:norm@norm4liberty.org?subject=Comment+for+Norm"
+},
+{
+"text": "www.lp.org",
+"href": "http://www.lp.org"
+}
 ]

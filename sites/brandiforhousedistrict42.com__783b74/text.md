@@ -1,11 +1,9 @@
-BRANDI VANDIVIER
-FOR STATE HOUSE 42
+0 Skip to Content DONATE NOW Open Menu Close Menu DONATE NOW Open Menu Close Menu DONATE NOW BRANDI VANDIVIER FOR STATE HOUSE 42 DONATE TODAY!
 My vision of an Indiana puts families first, supports public education, and ensures access to affordable healthcare.
 I would be honored to earn your vote.
 I hope you’ll join me in making that vision a reality.
 The path to better begins with the priorities we choose – together.
-ABOUT BRANDI
-My decision to run for State Representative wasn’t made overnight.
+ABOUT BRANDI My decision to run for State Representative wasn’t made overnight.
 It was shaped by some of the most challenging, humbling, and meaningful moments of my life—as a mother, a healthcare provider, a caregiver, and an advocate.
 Early in my third trimester with my son, my world changed in an instant.
 A serious complication meant he had to be delivered 10 weeks early.
@@ -64,12 +62,7 @@ I believe every family deserves the opportunity to succeed, to care for one anot
 If you share my vision of an Indiana that puts families first, supports public education, and ensures access to affordable healthcare, I would be honored to earn your vote.
 I hope you’ll join me in making that vision a reality.
 The path to better begins with the priorities we choose – together.
-SIGN UP TO VOLUNTEER
-*
-SIGN UP TO VOLUNTEER *
-KEY ISSUES
-HEALTHCARE
-As a nurse, I can tell you that we do not have a nursing shortage—we have a shortage of nurses willing to work under the current conditions.
+SIGN UP TO VOLUNTEER * SIGN UP TO VOLUNTEER * SIGN UP TO VOLUNTEER * KEY ISSUES HEALTHCARE As a nurse, I can tell you that we do not have a nursing shortage—we have a shortage of nurses willing to work under the current conditions.
 Too many healthcare systems prioritize cutting costs over providing the staffing and resources patients need to receive the highest quality care.
 Our healthcare system should be designed around patients, not profits.
 The goal should be to ensure that patients receive the care and attention they deserve, not the minimum level of care that can be delivered with the fewest staff.
@@ -90,8 +83,7 @@ I have cared for patients as a nurse, and I have experienced healthcare as a pat
 I understand the challenges families face, and I know how much work remains to be done.
 I am committed to fighting for a healthcare system that puts patients first, supports healthcare workers, and delivers the quality care every person deserves.
 I will work tirelessly to make that vision a reality.
-EDUCATION
-Public education is one of the most important investments we can make in our future.
+EDUCATION Public education is one of the most important investments we can make in our future.
 Every child deserves access to a high-quality education, regardless of their zip code, family income, or individual learning needs.
 Public schools serve all children, providing opportunities that help every student reach their potential.
 Strong public schools benefit entire communities.
@@ -100,21 +92,17 @@ Yet in 2026, the Network for Public Education gave Indiana state leaders an “F
 The passage of SB 1 in 2026 is projected to reduce public school funding by approximately $744.4 million over three years.
 The law places new limits on local funding that supports transportation, building maintenance, and daily operations.
 It also restricts school districts from pursuing consecutive referendums to finance construction projects and limits when those referendums can appear on the ballot.
-Decisions that have traditionally been made at the local level are increasingly being controlled in Indianapolis.
-I will work to protect our public schools, support our teachers, and strengthen our communities.
-Higher education should also be affordable and accessible for those who choose to pursue it.
+Decisions that have traditionally been made at the local level are increasingly being controlled in Indianapolis.​ I will work to protect our public schools, support our teachers, and strengthen our communities. ​Higher education should also be affordable and accessible for those who choose to pursue it.
 Students should not be burdened with decades of debt simply to earn a degree and enter the workforce.
 We must create pathways to education and career success that do not leave young people struggling under the weight of never-ending student loans.
-FAMILIES
-The well-being of Indiana’s children has declined since 2019, yet our state has failed to make the investments necessary to support working families.
-Instead of expanding access to affordable, high-quality childcare, the legislature froze childcare voucher programs, creating additional challenges for parents who are already struggling to balance work and family responsibilities.
-Rather than addressing the childcare shortage with meaningful solutions, state leaders chose to lower qualification standards for childcare providers and reduce certain safety requirements.
+FAMILIES The well-being of Indiana’s children has declined since 2019, yet our state has failed to make the investments necessary to support working families.
+Instead of expanding access to affordable, high-quality childcare, the legislature froze childcare voucher programs, creating additional challenges for parents who are already struggling to balance work and family responsibilities.​ Rather than addressing the childcare shortage with meaningful solutions, state leaders chose to lower qualification standards for childcare providers and reduce certain safety requirements.
 Indiana families deserve better.
-Parents should have access to safe, affordable, and enriching environments where their children can learn, grow, and thrive.
-Today’s families face increasing demands.
+Parents should have access to safe, affordable, and enriching environments where their children can learn, grow, and thrive. ​Today’s families face increasing demands.
 Many adults are not only raising children but also caring for aging parents and other loved ones.
 These responsibilities often require time away from work, yet too many workers lack access to paid family and medical leave.
 No one should have to choose between earning a paycheck and caring for a child, parent, or family member in need.
 I will support policies that strengthen childcare options, expand support for working families, and provide the flexibility families need to care for their loved ones.
 Families should never be forced to choose between meeting basic necessities and fulfilling their responsibilities as caregivers.
 A stronger Indiana begins with supporting the families who make our communities strong.
+BRANDI VANDIVIER FOR INDIANA STATE HOUSE 42 Paid for by the Committee to Elect Brandi Cooper Vandivier for House District 42 © # Made with Squarespace

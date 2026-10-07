@@ -1,34 +1,22 @@
-PRESS RELEASE
-Central Valley Mayors Endorse Adam Gray's Re-Election
-MERCED, CA – Today, Congressman Adam Gray announced receiving the endorsements of local mayors across California’s Central Valley.
+Skip navigation menu About News Take Action Issues Contact Media Donate About News Take Action Issues Contact Media Donate PRESS RELEASE ICYMI, Sacramento Bee: Adam Gray Discusses immigration, Socialism and Trump.
+PRESS RELEASE ADAM GRAY SECURES ENDORSEMENT FROM CALIFORNIA FRATERNAL ORDER OF POLICE PRESS RELEASE Modesto Police Officers' Association Endorses Congressman Adam Gray for Re-Election Op-ED, The Washington Post Rep.
+Gray's Op-Ed: My Purple District Can Tell You What The Democratic Autopsy Left Out PRESS RELEASE Adam Gray Issues Statement on CA-13 Primary Election Results PRESS RELEASE Central Valley Local Leaders Endorse Adam Gray's Re-Election PRESS RELEASE Central Valley Mayors Endorse Adam Gray's Re-Election PRESS RELEASE California Farm Bureau Endorses Adam Gray for Re-Election in CA-13 NEWS ARTICLE, TURLOCK JOURNAL Gray Earns Key Endorsement From California Farm Bureau NEWS ARTICLE, your central valley Congressman Gray says he would not vote to support Iran War, discusses reelection NEWS ARTICLE: Turlock Journal Gray officially kicks off re-election campaign for CA-13 NEWS ARTICLE, KCRA 3 Congressman Adam Gray announces re-election for competitive Central Valley seat PRESS RELEASE Rep.
+Adam Gray Launches Re-Election Campaign in California’s 13th Congressional District NEWS ARTICLE: Turlock Journal Gray helps Farm Bill move along NEWS ARTICLE: Fresno Bee State of the Union guest list included Madera Republican.
+Why did a Democrat invite him?
+NEWS ARTICLE: ABC 30 Valley Congressman proposes new bipartisan effort to crack down on fentanyl crisis NEWS ARTICLE: SACRAMENTO BEE Central Valley congressman caught in the middle in a bitterly divided Washington NEWS ARTICLE: Turlock Journal Gray brings growers to the table, hears big concerns NEWS ARTICLE: Turlock Journal Congressman Gray talks Trump, tariffs and immigration NEWS ARTICLE Congressman Gray introduces Valley Water Protection Act NEWS ARTICLE: Turlock Journal Congressman Gray suits up with the Blue Devils OP-ED BY ADAM GRAY: FResno Bee Adam Gray: Farmers are the ones taking the bullets in Trump’s on-again, off-again trade wars NEWS ARTICLE: Fresno Bee Editorial House Democrat Adam Gray of Merced is ready to solve problems.
+The GOP, not so much NEWS ARTICLE: CNN State of the Union What four freshman members hope to accomplish in the narrowly divided House May 7 2026 PRESS RELEASE Central Valley Mayors Endorse Adam Gray's Re-Election MERCED, CA – Today, Congressman Adam Gray announced receiving the endorsements of local mayors across California’s Central Valley.
 Early support for Gray’s re-election campaign adds to a growing list of endorsements as Gray continues to build a broad coalition of support.
-Mayoral Endorsements for Adam Gray’s Re-Election Campaign:
-- Dos Palos Mayor Katy Reed
-- Firebaugh Mayor Freddy Valdez
-- Gustine Mayor Patrick Nagy
-- Lathrop Mayor Paul Akinjo
-- Los Banos Mayor Mike Amabile
-- Madera Mayor Cece Gallegos
-- Mendota Mayor Victor Martinez
-- Merced Mayor Matt Serrato
-- Modesto Mayor Sue Zwahlen
-- Riverbank Mayor Rachel Hernandez
-“I’ve worked with leaders across our region and in both parties to deliver results for the Valley.
-That’s the approach I’ll continue to take, focused on getting things done and representing this community.” said Gray.
-“Congressman Gray’s leadership and exemplary commitment to fostering bipartisan cooperation has improved the quality of life for the diverse communities he serves,” said Dos Palos Mayor Katy Reed.
+Mayoral Endorsements for Adam Gray’s Re-Election Campaign: Dos Palos Mayor Katy Reed Firebaugh Mayor Freddy Valdez Gustine Mayor Patrick Nagy Lathrop Mayor Paul Akinjo Los Banos Mayor Mike Amabile Madera Mayor Cece Gallegos Mendota Mayor Victor Martinez Merced Mayor Matt Serrato Modesto Mayor Sue Zwahlen Riverbank Mayor Rachel Hernandez “I’ve worked with leaders across our region and in both parties to deliver results for the Valley.
+That’s the approach I’ll continue to take, focused on getting things done and representing this community.” said Gray .
+“Congressman Gray’s leadership and exemplary commitment to fostering bipartisan cooperation has improved the quality of life for the diverse communities he serves,” said Dos Palos Mayor Katy Reed .
 “His practical approach to find viable solutions that strengthen the communities throughout his district and his dedication to public service will continue to help him achieve meaningful progress for all.
-Adam has never forgotten where he comes from and who he represents.”
-Merced Mayor Matt Serrato said, “Adam does the job for the right reasons – he is there to make the lives of the people he represents better, plain and simple.”
-Modesto Mayor Sue Zwahlen said, “Adam Gray shows up, he listens, and takes action to represent all the residents of our community.
+Adam has never forgotten where he comes from and who he represents.” Merced Mayor Matt Serrato said, “Adam does the job for the right reasons – he is there to make the lives of the people he represents better, plain and simple.” Modesto Mayor Sue Zwahlen said, “Adam Gray shows up, he listens, and takes action to represent all the residents of our community.
 I endorse him fully.
-“Adam Gray is an exceptional leader who understands our community and delivers real results in Congress for our cities he represents,” said Madera Mayor Cece Gallegos.
-“I’m proud to support him for reelection.”
-“Congressman Adam Gray has been able to deliver substantially for the people and shine brighter lights on the grey areas of the law making process in Washington,” said Lathrop Mayor Paul Akinjo.
-“Adam Gray is a ferocious fighter for our area and the Valley,” said Los Banos Mayor Mike Amabile.
+“Adam Gray is an exceptional leader who understands our community and delivers real results in Congress for our cities he represents,” said Madera Mayor Cece Gallegos .
+“I’m proud to support him for reelection.” “Congressman Adam Gray has been able to deliver substantially for the people and shine brighter lights on the grey areas of the law making process in Washington,” said Lathrop Mayor Paul Akinjo .
+“Adam Gray is a ferocious fighter for our area and the Valley,” said Los Banos Mayor Mike Amabile .
 “When our interests are at stake, Adam stands strong for us.
-We need to keep him.”
-“My top priority is the Central Valley.
-I have seen that in Congressmember Adam Gray time and time again, during his time in the state legislature and his advocacy since,” said Riverbank Mayor Rachel Hernandez.
-“I know he will continue to represent us well in the federal legislature.”
-To learn more about Congressman Gray, visit AdamGrayForCongress.com.
-###
+We need to keep him.” “My top priority is the Central Valley.
+I have seen that in Congressmember Adam Gray time and time again, during his time in the state legislature and his advocacy since,” said Riverbank Mayor Rachel Hernandez .
+“I know he will continue to represent us well in the federal legislature.” To learn more about Congressman Gray, visit AdamGrayForCongress.com .
+### info@AdamGrayforCongress.com If donating by mail, make checks payable to: Adam Gray for Congress | PO Box 1229 Merced, CA 95341 Privacy Policy Press Inquires: press@adamGrayforCongress.com Put your “paid for” disclaimer here You need to enable JavaScript to run this app.

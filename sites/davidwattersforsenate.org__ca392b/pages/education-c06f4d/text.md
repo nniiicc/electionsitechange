@@ -1,5 +1,4 @@
-Innovation, Commitment, and Cost: A Plan for a 21st-Century Education
-Having taught at the University of New Hampshire for 39 years and having worked closely with our university and community college systems and our Career and Technical Education Centers, Senator Watters believes public education produces economic success while strengthening our democracy and civic life.
+Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Innovation, Commitment, and Cost: A Plan for a 21st-Century Education Having taught at the University of New Hampshire for 39 years and having worked closely with our university and community college systems and our Career and Technical Education Centers, Senator Watters believes public education produces economic success while strengthening our democracy and civic life.
 We must provide adequate funding for public education, including home schooling.
 We need to keep our schools safe from gun violence, support red flag legislation, and close background check loopholes.
 Guided by a comprehensive vision for a 21st century education, pre-school to university, Senator Watters has worked for the past decade on legislation to expand opportunities and to transform educational practices, structures, and administration.
@@ -27,3 +26,6 @@ New Hampshire student debt, the highest in the nation, is a serious burden on gr
 Senator Watters has supported budgets that provide funding sufficient to enable USNH to freeze tuition increases.
 He has supported programs for employers to pay down student debt as hiring and retention incentives.
 Senator Watters’ legislation established New Hampshire History Week to promote learning about New Hampshire history.
+Back to Top PAID FOR BY THE COMMITTEE TO ELECT DAVID WATTERS.
+FISCAL AGENT.
+19 MAPLE STREET, DOVER, NH 03280

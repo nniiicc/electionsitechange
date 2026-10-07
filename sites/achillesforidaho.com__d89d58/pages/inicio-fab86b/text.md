@@ -1,7 +1,6 @@
-¡MANTENTE AL DÍA CON LA CAMPAÑA Y SUSCRÍBETE A NUESTRO BOLETÍN INFORMATIVO!
-CONOZCA A TODD ACHILLES
-ES TAN INDEPENDIENTE COMO IDAHO
-Me postulo como candidato al Senado de los Estados Unidos porque el sistema bipartidista ha fallado a nuestro país.
+...
+0 Skip to Content Policies Events Volunteer Volunteer Newsletter Media Endorsements NEWS ARTICLES Interviews Newsroom Merch Supporter Merch Assert Your Independence ESPANOL Inicio Políticas Boletín Voluntariado Donate Open Menu Close Menu Policies Events Volunteer Volunteer Newsletter Media Endorsements NEWS ARTICLES Interviews Newsroom Merch Supporter Merch Assert Your Independence ESPANOL Inicio Políticas Boletín Voluntariado Donate Open Menu Close Menu Policies Events Folder: Volunteer Back Volunteer Newsletter Folder: Media Back Endorsements NEWS ARTICLES Interviews Newsroom Folder: Merch Back Supporter Merch Assert Your Independence Folder: ESPANOL Back Inicio Políticas Boletín Voluntariado Donate ¡MANTENTE AL DÍA CON LA CAMPAÑA Y SUSCRÍBETE A NUESTRO BOLETÍN INFORMATIVO!
+RECIBE LAS NOTICIAS MÁS RECIENTES CONOZCA A TODD ACHILLES ES TAN INDEPENDIENTE COMO IDAHO Me postulo como candidato al Senado de los Estados Unidos porque el sistema bipartidista ha fallado a nuestro país.
 Ambos partidos aumentan la deuda nacional, nos mantienen en guerras interminables y favorecen a las grandes corporaciones, perjudicando a nuestras familias en el proceso.
 Ambos se benefician de la división entre los estadounidenses.
 Rechazo la división entre la izquierda y la derecha porque el verdadero desafío que enfrentamos es entre quienes están arriba y quienes están abajo: quienes tienen el poder en contra del pueblo.
@@ -9,4 +8,12 @@ Lucharé por todos los habitantes de Idaho, no por los multimillonarios ni por l
 Crecí en una granja familiar, donde desde muy joven aprendí los valores que definen a Idaho: el trabajo duro y el cuidado de los demás.
 Serví en el Ejército de los Estados Unidos como comandante de tanques y oficial de blindaje.
 El Ejército me enseñó la disciplina del trabajo en equipo, el liderazgo y la determinación.
-Esas son las cualidades que aportaré al servicio público.
+Esas son las cualidades que aportaré al servicio público. ¡APOYEMOS A TODD!
+POR FAVOR, HA UNA DONACIÓN A LA CAMPAÑA DE TODD ACHILLES PARA EL SENADO DE LOS ESTADOS UNIDOS. $10 $25 $50 $100 $250 Otra Cantidad En las noticias NEWS ARTICLES October 5, 2026 There should be age limits for U.S.
+Senators, including Idaho’s | Opinion - Idaho’s Mitch McConnell October 5, 2026 Read more → October 5, 2026 October 5, 2026 ACHILLES: Opportunity for Idaho October 5, 2026 Read more → October 5, 2026 October 5, 2026 The unicorn: It’s a different contest; is it different enough?
+October 5, 2026 Read more → October 5, 2026 October 5, 2026 Idaho US Senate candidates weigh in on tariffs, Iran War, federal spending and more October 5, 2026 Read more → October 5, 2026 September 30, 2026 Fact check: Where Idaho U.S.
+Senate candidates stand on immigration September 30, 2026 Read more → September 30, 2026 September 30, 2026 Opinion: It is high time to turn the page on hyper-partisan politics in Idaho September 30, 2026 Read more → September 30, 2026 September 28, 2026 OPINION: Achilles-Risch campaign is a referendum on Iran September 28, 2026 Read more → September 28, 2026 September 25, 2026 Letter to the Editor: Good news September 25, 2026 Read more → September 25, 2026 September 23, 2026 U.S.
+Senate, Statewide | Voter Guide: 2026 General Election (Idaho Capital Sun) September 23, 2026 Read more → September 23, 2026 Mailing Address PO Box 8912 | Boise ID 83707 Garden City Office 5181 N Glenwood St | Garden City, ID 83714 Hours: Monday - Friday | 10am - 6pm Nampa Office 2205 N.
+Cassia St. | Nampa, ID 83651 Hours: Tuesday & Thursday | 12pm - 2pm Wednesday | 3pm-6:30pm Friday | 12pm-5pm Idaho Falls Office 1320 S Holmes Ave. | Idaho Falls Hours: Monday - Friday | 10am - 5pm Phone : (208) 495 - 4366 Contact US Privacy Policy Press Inquiry ‍ ‍ ‍ Paid for by Todd Achilles for Idaho / J.
+Patrick Riceci, Treasurer Todd Achilles was a member of the United States Army.
+The use of his military rank, positions, and photographs in uniform does not imply any endorsement by the Army, the Department of Defense, or any other branch of the United States Government.

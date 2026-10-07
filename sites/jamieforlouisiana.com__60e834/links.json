@@ -1,20 +1,126 @@
 [
-"https://bsky.app/profile/jamieforlouisiana.bsky.social",
-"https://clerk.house.gov/Votes/2025190",
-"https://facebook.com/jamieforlouisiana",
-"https://instagram.com/jamieforlouisiana",
-"https://jamieforlouisiana.com/",
-"https://jamieforlouisiana.com/issues",
-"https://jamieforlouisiana.com/privacy",
-"https://jamieforlouisiana.com/terms",
-"https://lailluminator.com/2026/06/27/letlow-senate-4",
-"https://mobilize.us/jamieforlouisiana",
-"https://nola.com/news/politics/julia-letlow-john-fleming-la-trump/article_738ddf2a-4933-4414-8bd8-f16f4ed9d9da.html",
-"https://secure.actblue.com/donate/sendafarmertowashington?amount=25&recurring=true",
-"https://secure.actblue.com/donate/sendafarmertowashington?recurring=true",
-"https://sos.la.gov/elections-voting/register-to-vote",
-"https://store.jamieforlouisiana.com/",
-"https://threads.com/@jamieforlouisiana",
-"https://tiktok.com/@jamieforlouisiana",
-"https://voterportal.sos.la.gov/"
+{
+"text": "64 Parishes",
+"href": "https://jamieforlouisiana.com/#map"
+},
+{
+"text": "Campaign Store",
+"href": "https://store.jamieforlouisiana.com/"
+},
+{
+"text": "Check your registration →",
+"href": "https://voterportal.sos.la.gov/"
+},
+{
+"text": "Chip In $25",
+"href": "https://secure.actblue.com/donate/sendafarmertowashington?amount=25&recurring=true"
+},
+{
+"text": "Chip In $25 →",
+"href": "https://secure.actblue.com/donate/sendafarmertowashington?amount=25&recurring=true"
+},
+{
+"text": "Chip In $25 →",
+"href": "https://secure.actblue.com/donate/sendafarmertowashington?recurring=true"
+},
+{
+"text": "Chip In $25/mo →",
+"href": "https://secure.actblue.com/donate/sendafarmertowashington?amount=25&recurring=true"
+},
+{
+"text": "Chip In →",
+"href": "https://secure.actblue.com/donate/sendafarmertowashington?recurring=true"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/jamieforlouisiana/"
+},
+{
+"text": "Get Involved",
+"href": "https://jamieforlouisiana.com/#join"
+},
+{
+"text": "Issues",
+"href": "https://jamieforlouisiana.com/issues"
+},
+{
+"text": "Louisiana Illuminator, June 2026",
+"href": "https://lailluminator.com/2026/06/27/letlow-senate-4/"
+},
+{
+"text": "On the Trail",
+"href": "https://jamieforlouisiana.com/#trail"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jamieforlouisiana.com/privacy"
+},
+{
+"text": "Register to vote →",
+"href": "https://www.sos.la.gov/elections-voting/register-to-vote"
+},
+{
+"text": "Store",
+"href": "https://store.jamieforlouisiana.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://jamieforlouisiana.com/terms"
+},
+{
+"text": "The 5 Big Issues",
+"href": "https://jamieforlouisiana.com/issues"
+},
+{
+"text": "The Advocate / NOLA.com, June 2026",
+"href": "https://www.nola.com/news/politics/julia-letlow-john-fleming-la-trump/article_738ddf2a-4933-4414-8bd8-f16f4ed9d9da.html"
+},
+{
+"text": "The Choice",
+"href": "https://jamieforlouisiana.com/#choice"
+},
+{
+"text": "The Letter",
+"href": "https://jamieforlouisiana.com/#letter"
+},
+{
+"text": "U.S. House Roll Call 190, July 3, 2025",
+"href": "https://clerk.house.gov/Votes/2025190"
+},
+{
+"text": "Vote",
+"href": "https://jamieforlouisiana.com/#vote"
+},
+{
+"text": "Where to Vote",
+"href": "https://jamieforlouisiana.com/#vote"
+},
+{
+"text": "[image: Jamie Davis for U.S. Senate]",
+"href": "https://jamieforlouisiana.com/"
+},
+{
+"text": "[tooltip: Bluesky]",
+"href": "https://bsky.app/profile/jamieforlouisiana.bsky.social"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/jamieforlouisiana"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/jamieforlouisiana"
+},
+{
+"text": "[tooltip: Threads]",
+"href": "https://www.threads.com/@jamieforlouisiana"
+},
+{
+"text": "[tooltip: TikTok]",
+"href": "https://www.tiktok.com/@jamieforlouisiana"
+},
+{
+"text": "info@jamieforlouisiana.com",
+"href": "mailto:info@jamieforlouisiana.com"
+}
 ]

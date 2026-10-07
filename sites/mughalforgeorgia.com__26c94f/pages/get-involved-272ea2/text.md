@@ -1,14 +1,4 @@
-Home
-Meet Farooq
-Voting Information
-Priorities
-Legislative Wins
-News
-Get Involved
-Events
-Contact
-More
-Join Farooq Mughal for Georgia
-Sign Up Now
-Tell us how you’d like to get involved, a member of our team will get in touch soon
-Thanks for submitting!
+top of page Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items.
+CONTRIBUTE SUBSCRIBE GET INVOLVED Join Farooq Mughal for Georgia ​ Sign Up Now Knock on Doors Make Calls Need Yard Signs Host Fundraiser Host Roundtable Discussion WAYS TO HELP Tell us how you’d like to get involved, a member of our team will get in touch soon SUBMIT Thanks for submitting!
+START CHANGING Support Our Cause CONTRIBUTE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+MUGHAL FOR GEORGIA 710 Dacula Rd, Ste 4A, #325 Dacula, GA, 30019 fmughalforgeorgia@gmail.com 678-234-3242 Paid and Authorized by Mughal for Georgia, LLC (2022) Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items. bottom of page

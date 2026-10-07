@@ -1,23 +1,86 @@
 [
-"https://absentee.vote.org/",
-"https://campaignpartner.com/",
-"https://campaignpartner.com/state_election_information.html",
-"https://clackamasdems.org/blog/congratulations-to-darla-mead-winner-of-the-jill-thorn-grant",
-"https://darlameadfororegon.com/",
-"https://darlameadfororegon.com/contact",
-"https://darlameadfororegon.com/contribute",
-"https://darlameadfororegon.com/events",
-"https://darlameadfororegon.com/home",
-"https://darlameadfororegon.com/issues",
-"https://darlameadfororegon.com/meet_darla",
-"https://darlameadfororegon.com/news",
-"https://darlameadfororegon.com/photos",
-"https://darlameadfororegon.com/view-endorsements",
-"https://darlameadfororegon.com/volunteer",
-"https://darlameadfororegon.com/vote",
-"https://darlameadfororegon.com/yard-sign",
-"https://facebook.com/people/Darla-Mead-for-Oregon-HD51/61587617819580",
-"https://instagram.com/darlamead4oregon",
-"https://register.vote.org/",
-"https://verify.vote.org/"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.darlameadfororegon.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.darlameadfororegon.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.darlameadfororegon.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.darlameadfororegon.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.darlameadfororegon.com/home"
+},
+{
+"text": "Meet Darla",
+"href": "https://www.darlameadfororegon.com/meet_darla"
+},
+{
+"text": "News",
+"href": "https://www.darlameadfororegon.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.darlameadfororegon.com/photos"
+},
+{
+"text": "Priorities",
+"href": "https://www.darlameadfororegon.com/issues"
+},
+{
+"text": "Register to Vote",
+"href": "https://register.vote.org/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://absentee.vote.org/"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://verify.vote.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.darlameadfororegon.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.darlameadfororegon.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.darlameadfororegon.com/yard-sign"
+},
+{
+"text": "[image: Darla Mead]",
+"href": "https://www.darlameadfororegon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Darla-Mead-for-Oregon-HD51/61587617819580/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/darlamead4oregon/"
+},
+{
+"text": "click here to find your state",
+"href": "https://www.campaignpartner.com/state_election_information.html"
+},
+{
+"text": "https://clackamasdems.org/blog/congratulations-to-darla-mead-winner-of-the-jill-thorn-grant",
+"href": "https://clackamasdems.org/blog/congratulations-to-darla-mead-winner-of-the-jill-thorn-grant"
+}
 ]

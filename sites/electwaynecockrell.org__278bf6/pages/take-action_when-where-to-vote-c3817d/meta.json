@@ -1,7 +1,11 @@
 {
  "description": "00 Days 00 Hours 00 Minutes 00 Seconds General Election Day is Tuesday, Nov. 3, 2026 Find Your Polling PlaceNot sure where to vote? Use this resource from the North Carolina SBE to look up your polling place. Register to VoteRegister or update your name, address, and/or party affiliation. Use this form from the North",
  "final_url": "https://electwaynecockrell.org/take-action/when-where-to-vote/",
- "paid_for_by": null,
+ "fingerprint": "0f75ca8c967dfe57a547e457865699e85774f042",
+ "format": 3,
+ "paid_for_by": "",
  "title": "When & Where to Vote | Elect Wayne Cockrell",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

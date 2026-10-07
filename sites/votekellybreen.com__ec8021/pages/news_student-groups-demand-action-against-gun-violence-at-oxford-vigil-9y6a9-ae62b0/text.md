@@ -1,5 +1,6 @@
-Beth LeBlanc
-The Detroit News
-A bipartisan task force in the Michigan House will study safety in schools and policy solutions they hope will help prevent further violence in the wake of the Nov. 30 Oxford High School shooting.
+Home Priorities Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Back A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Home Priorities A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Michigan House launches safety task force after Oxford shooting.
+What it hopes to do Beth LeBlanc The Detroit News A bipartisan task force in the Michigan House will study safety in schools and policy solutions they hope will help prevent further violence in the wake of the Nov.
+30 Oxford High School shooting.
 The eight-member task force will look at practical ways to improve safety protocols at schools as well as ways to assess and improve student mental health.
-Read More >
+Read More > Kelly Breen January 3, 2022 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr Pinterest 0 0 Likes Previous Student groups demand action against gun violence at Oxford vigil - The State News (Copy) Kelly Breen January 11, 2022 Next Student groups demand action against gun violence at Oxford vigil - The State News Kelly Breen December 8, 2021 WE BELIEVE IN MICHIGAN!
+About | Endorsed | Priorities | Get Together Donate Volunteer PAID FOR BY VOTE KELLY BREEN | 242 LINHART ST., NOVI, MI 4# ©# THE GUERRILLA POLITIC, LLC ALL RIGHTS RESERVED Re-Elect Kelly Breen Meet Kelly

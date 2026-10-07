@@ -1,9 +1,1 @@
-MEET RICK
-SUPPORT RICK
-ISSUES
-NEED HELP
-NEWS
-LINKS
-ASK RICK
-Georgia District 11
-Blue Shaded Area
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK Georgia District 11 Blue Shaded Area Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

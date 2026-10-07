@@ -1,5 +1,4 @@
-August 2023 Letter
-The eighth annual Granny D event happened on the 5th of the month.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Summertime, and the Livin’s Easy Summertime, and the Livin’s Easy Summertime, and the Livin’s Easy Sep 1, 2023 Sep 1, 2023 August 2023 Letter Acadia - 17 August 2023 - 12:39 - Acadia National Park - Taken by Jonah Acadia - 17 August 2023 - 12:39 - Acadia National Park - Taken by Jonah The eighth annual Granny D event happened on the 5th of the month.
 We again walked the six miles from her house to depot square in honor of her over three thousand and two hundred miles of walking she did from January 1st, 1999 to February 29th, 2000.
 At the ripe age of 88-90 years old.
 She gave speeches across the country on campaign finance reform, and the importance of fairness in campaigns.
@@ -12,7 +11,7 @@ Everytime Jerriane is given a platform you learn something new.
 New Hampshire from the very beginning of our history, has had people from all different sorts of backgrounds.
 Apart of the weave which made the quilt that is New Hampshire.
 Check out her speech at the Monadnock Lyceum Youtube page.
-The parole study committee met on the 10th and the 22nd of the month.
+Granny D Speech - 5 August 2023 - Taken by Kath Allen Granny D Speech - 5 August 2023 - Taken by Kath Allen The parole study committee met on the 10th and the 22nd of the month.
 We are bringing people in from various parts of the corrections, and court system.
 From all across the State.
 Taking account of what each organization does regarding the system of parole, and probation.
@@ -33,4 +32,4 @@ Meeting with constituents and colleagues on potential legislation to be filed du
 Discussing the work of the House in the last six months, and what we can do to make it better.
 I got to meet with students at Saint Ainselms, fly in a bush plane out of Keene with a colleague, witness the grandeur of Acadia national forest with friends - it was a great month of work, summer study, and respite.
 What else can we ask for from August?
-Back to all
+Opioid Vigil - 31 August 2023 - 19:35 - Taken by Jonah Opioid Vigil - 31 August 2023 - 19:35 - Taken by Jonah ‹ Labor and Bail ‹ Labor and Bail ‹ Labor and Bail And I Thought Recess was for Kids › And I Thought Recess was for Kids › And I Thought Recess was for Kids › Back to all

@@ -1,14 +1,66 @@
 [
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/sonja-ogletree-satani-for-sc-1",
-"https://sonjaogletreesatani4sc98.org/",
-"https://sonjaogletreesatani4sc98.org/about",
-"https://sonjaogletreesatani4sc98.org/donate",
-"https://sonjaogletreesatani4sc98.org/events",
-"https://sonjaogletreesatani4sc98.org/issues",
-"https://sonjaogletreesatani4sc98.org/privacy-policy",
-"https://sonjaogletreesatani4sc98.org/sponsorships",
-"https://sonjaogletreesatani4sc98.org/videos",
-"https://sonjaogletreesatani4sc98.org/volunteer"
+{
+"text": "About",
+"href": "https://sonjaogletreesatani4sc98.org/about"
+},
+{
+"text": "Donate",
+"href": "https://sonjaogletreesatani4sc98.org/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/sonja-ogletree-satani-for-sc-1"
+},
+{
+"text": "Events",
+"href": "https://sonjaogletreesatani4sc98.org/events"
+},
+{
+"text": "Home",
+"href": "https://sonjaogletreesatani4sc98.org/"
+},
+{
+"text": "Issues",
+"href": "https://sonjaogletreesatani4sc98.org/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://sonjaogletreesatani4sc98.org/privacy-policy"
+},
+{
+"text": "Sponsorships",
+"href": "https://sonjaogletreesatani4sc98.org/sponsorships"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Together, Let's Move 98 Forward",
+"href": "https://secure.actblue.com/donate/sonja-ogletree-satani-for-sc-1"
+},
+{
+"text": "Videos",
+"href": "https://sonjaogletreesatani4sc98.org/videos"
+},
+{
+"text": "Volunteer",
+"href": "https://sonjaogletreesatani4sc98.org/volunteer"
+},
+{
+"text": "Volunteer to Canvass",
+"href": "https://sonjaogletreesatani4sc98.org/volunteer"
+},
+{
+"text": "Volunteer to Phone Bank",
+"href": "https://sonjaogletreesatani4sc98.org/volunteer"
+},
+{
+"text": "[image: Sonja Ogletree Satani SC House District 98]",
+"href": "https://sonjaogletreesatani4sc98.org/"
+}
 ]

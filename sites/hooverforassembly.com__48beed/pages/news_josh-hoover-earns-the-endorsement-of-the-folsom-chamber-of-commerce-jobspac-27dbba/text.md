@@ -1,10 +1,10 @@
-Josh Hoover Earns the Endorsement of the Folsom Chamber of Commerce JobsPAC
-FOLSOM, CA - - Today Josh Hoover announced that he has received the endorsement of the Folsom Chamber of Commerce JobsPAC in his campaign for the 7th Assembly District.
+Skip to Content Open Menu Close Menu ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT 0 0 DONATE ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT 0 0 DONATE Open Menu Close Menu ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT DONATE Josh Hoover Earns the Endorsement of the Folsom Chamber of Commerce JobsPAC Sep 5 Written By Mike Foster FOLSOM, CA - - Today Josh Hoover announced that he has received the endorsement of the Folsom Chamber of Commerce JobsPAC in his campaign for the 7th Assembly District.
 The endorsement is significant as Folsom is the second largest city in the district and home to some of the Sacramento region's largest employers.
 “One of my main priorities, when I am elected to the State Assembly, is to roll back some of the job-killing regulations and laws that are crushing small businesses in our community,” said Josh Hoover.
 “We must do more to help local business owners recover and hire, but the policies coming out of Sacramento have done the opposite by creating supply shortages and raising the costs of energy and labor.
-It’s time for new leadership at the State Capitol that is committed to making California a business-friendly destination.”
-Josh Hoover continues to win significant local support in his campaign.
+It’s time for new leadership at the State Capitol that is committed to making California a business-friendly destination.” Josh Hoover continues to win significant local support in his campaign.
 Just recently Hoover has announced endorsements from Sheriff Scott Jones and Former Sheriff John McGinness, Sacramento County Supervisor Sue Frost and Former Supervisor Roberta McGlashen.
-For a complete list of endorsements please visit www.HooverforAssembly.com.
+For a complete list of endorsements please visit www.HooverforAssembly.com .
 The election for the 7th Assembly District will be held in conjunction with the Statewide General Election on November 8th, 2022.
+Mike Foster Previous Previous Josh Hoover Announces Major Law Enforcement Endorsements Next Next Republican Josh Hoover Receives New Endorsements and Rising Momentum For The General Election ABOUT | ISSUES | ENDORSEMENTS | AD 7 | MEDIA | PODCAST | NEWS | YARD SIGN | | VOLUNTEER | CONTACT CONTRIBUTE Paid for by Hoover for Assembly 2026 ID# 1476883 P.O.
+Box 850, Wilton, CA 95693 Privacy Policy

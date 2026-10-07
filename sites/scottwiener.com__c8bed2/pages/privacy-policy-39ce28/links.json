@@ -1,24 +1,94 @@
 [
-"http://aboutads.info/choices",
-"http://adobe.com/products/flashplayer/security",
-"https://bsky.app/profile/scottwiener.bsky.social",
-"https://facebook.com/ScottWiener2",
-"https://instagram.com/scott_wiener",
-"https://linkedin.com/in/scott-wiener-936760",
-"https://scottwiener.com/",
-"https://scottwiener.com/donate",
-"https://scottwiener.com/endorsements",
-"https://scottwiener.com/media",
-"https://scottwiener.com/meet-scott",
-"https://scottwiener.com/meet-scott-chinese",
-"https://scottwiener.com/more-information",
-"https://scottwiener.com/news",
-"https://scottwiener.com/priorities",
-"https://scottwiener.com/privacy-policy",
-"https://scottwiener.com/scotts-maga-fan-club",
-"https://secure.ngpvan.com/FRDx4liiXkG_vEJXZGM_9A2",
-"https://store.scottwiener.com/",
-"https://threads.net/@scott_wiener",
-"https://tiktok.com/@scott_wiener",
-"https://twitter.com/Scott_Wiener"
+{
+"text": "DONATE",
+"href": "https://www.scottwiener.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.scottwiener.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.scottwiener.com/"
+},
+{
+"text": "MEDIA",
+"href": "https://www.scottwiener.com/media"
+},
+{
+"text": "Meet Scott",
+"href": "https://www.scottwiener.com/meet-scott"
+},
+{
+"text": "More Information",
+"href": "https://www.scottwiener.com/more-information"
+},
+{
+"text": "News",
+"href": "https://www.scottwiener.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.scottwiener.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.scottwiener.com/privacy-policy"
+},
+{
+"text": "SHOP",
+"href": "https://store.scottwiener.com/"
+},
+{
+"text": "Scott's MAGA Fan Club",
+"href": "https://www.scottwiener.com/scotts-maga-fan-club"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/FRDx4liiXkG_vEJXZGM_9A2"
+},
+{
+"text": "[image]",
+"href": "https://bsky.app/profile/scottwiener.bsky.social"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/Scott_Wiener"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/ScottWiener2"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/scott_wiener/"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/scott-wiener-936760/"
+},
+{
+"text": "[image]",
+"href": "https://www.threads.net/@scott_wiener"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@scott_wiener"
+},
+{
+"text": "[image][image]",
+"href": "https://www.scottwiener.com/"
+},
+{
+"text": "info@scottwiener.com",
+"href": "mailto:info@scottwiener.com"
+},
+{
+"text": "www.aboutads.info/choices",
+"href": "http://www.aboutads.info/choices"
+},
+{
+"text": "認識威善高",
+"href": "https://www.scottwiener.com/meet-scott-chinese"
+}
 ]

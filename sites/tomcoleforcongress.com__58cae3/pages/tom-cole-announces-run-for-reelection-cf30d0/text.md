@@ -1,10 +1,9 @@
-Moore, OK – Tom Cole issued the following statement to formally announce that he will seek reelection to represent the Fourth District of Oklahoma in the U.S.
+Skip to content Tom Cole For Congress About About Tom About the District Press Packet News Room Connect On The Issues All Issues Growing the Economy Debt and Spending Securing Our Border Preserving our Second Amendment Protecting the Unborn National Security American Energy Independence Veterans News Room Tom Cole Announces Run For Reelection April 13, 2022 Donate Moore, OK – Tom Cole issued the following statement to formally announce that he will seek reelection to represent the Fourth District of Oklahoma in the U.S.
 House of Representatives.
 “During the last couple of years, America has faced some incredible challenges.
 Between the impact of the ongoing pandemic, the rise of adversaries such as China and Russia and the worsening burden of runaway inflation on Americans when they purchase anything, the concerns and crises have been numerous.
 “Today’s challenges require strong and unwavering leadership that harnesses the incredible spirit of Americans.
-In representing the people of the Fourth District, I have proudly fought to protect and advance commonsense conservative values while also ensuring that we are investing in the future and are ready to face challenges, both foreign and domestic, and both man-made and natural.”
-“In stark contrast, the Biden Administration and Democrats in the House and Senate have promoted and radically pursued misguided policies that are severely out of touch with the priorities of the American people and Oklahomans.
+In representing the people of the Fourth District, I have proudly fought to protect and advance commonsense conservative values while also ensuring that we are investing in the future and are ready to face challenges, both foreign and domestic, and both man-made and natural.” “In stark contrast, the Biden Administration and Democrats in the House and Senate have promoted and radically pursued misguided policies that are severely out of touch with the priorities of the American people and Oklahomans.
 Instead of proposing and enacting policies to restore our way of life and rebuild our economy, Democrats have made a bad situation much worse by irresponsibly spending trillions and seeking to create or expand social programs, which has fueled the ongoing spike in inflation since President Biden entered office.
 “Beyond their expensive policies that would alter American society for worse, Democrats’ partisan agenda includes policies that are actively harming Oklahoma’s energy industry and being felt by all Oklahomans with high prices at the gas pump.
 Moreover, they have sought to federally take over our elections systems to benefit only their political party and not secure our elections.
@@ -17,5 +16,8 @@ I was proud to successfully push back against the Biden Administration on Critic
 “I am proud of my record, but there is still important work to be done.
 I am running for reelection to effectively hold the line against the Biden Administration’s policies, to usher in solutions that rebuild our economy, to help small businesses thrive, to further support and strengthen our military’s readiness and capabilities in an ever more dangerous world and help deliver a better America for future generations.
 “It is a great honor to represent the people of Oklahoma’s Fourth Congressional District.
-I look forward to being of service, earning every vote over the coming months, and continue to fight for our conservative ideals and principles.”
-###
+I look forward to being of service, earning every vote over the coming months, and continue to fight for our conservative ideals and principles.” ### Post navigation Previous: Tom Cole Wins Oklahoma’s Fourth District 2020 General Election Next: Trump Endorses Tom Cole For Reelection For Oklahoma’s Fourth District Connect Recent Posts Tom Cole Announces For Re-Election Breaking: President Trump Endorses Congressman Tom Cole Cole: Promises Made, Promises Kept Tom Cole Is Endorsed By the Republican Jewish Coalition Tom Cole Is Endorsed By The State Chamber of Oklahoma PAC Keep up with the Campaign via Email Name First Last Email Phone (Required) (Required) By providing your phone number, you agree to receive text messages from Cole for Congress.
+Message & data rates may apply.
+Message frequency varies. donations may be solicited.
+Reply STOP to opt out, reply HELP for help.
+Privacy Policy About Tom On The Issues News Room Connect Privacy Policy Donate Paid for by Cole for Congress Powered By Push Digital © #

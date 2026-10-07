@@ -1,6 +1,5 @@
-Immigration
-Building a Compassionate Immigration System
-Congresswoman Torres recognizes the essential need to address the root causes of migration forcing so many from Latin America to flee violence and lack of opportunity in their home countries.
+Home Donate Issues Endorsements Media Volunteer Newsletter ICE Home Donate Issues Endorsements Media Volunteer Newsletter ICE In the News Three-day, 40-mile walk held in support of immigration bill authored by Congresswoman Norma Torres The Fairness to Freedom Act Will Save Lives House Registry Bill Would Help Millions of Documented, Undocumented Immigrants IE Congresswoman: Trump’s New Immigration Rules Are an ‘Excuse to Rid the Country of People Who Look Like Me’ Immigration Building a Compassionate Immigration System Congresswoman Torres recognizes the essential need to address the root causes of migration forcing so many from Latin America to flee violence and lack of opportunity in their home countries.
 As Co-Chair of the Congressional Central America Caucus and the New Americans Caucus, she is focused on reforming our immigration system to be more compassionate, flexible, and responsive to the needs of those who simply want to pursue the American Dream.
 She has authored the Fairness to Freedom Act, which would guarantee a right to a lawyer in deportation cases, and the Renewing Immigration Provisions of the Immigration Act of 1929, which would update our immigration laws to allow millions of immigrants to adjust their status and start on a path to citizenship.
 She understands that we can secure our border and deliver the empathy and humanity that so many of our southern neighbors need right now.
+Powered by Squarespace

@@ -1,16 +1,66 @@
 [
-"https://app.sos.nh.gov/pollingplacesampleballot",
-"https://facebook.com/CathleenFountain4NHCoos",
-"https://fountainfornh.org/candidate.html",
-"https://fountainfornh.org/forms/LetsChat",
-"https://fountainfornh.org/forms/Volunteer",
-"https://fountainfornh.org/fountainfornh_Issues_Solutions",
-"https://fountainfornh.org/index.html",
-"https://fountainfornh.org/issues_Landfills.html",
-"https://fountainfornh.org/issues_top_5_priorities.html",
-"https://fountainfornh.org/the-night-owl.html",
-"https://secure.actblue.com/donate/cathleen-fountain-sd1",
-"https://sos.nh.gov/elections/absentee-ballots",
-"https://sos.nh.gov/elections/register-vote",
-"https://twitter.com/CathyFountainNH"
+{
+"text": "\"Learn Polling Location, Date & Times.\"",
+"href": "https://app.sos.nh.gov/pollingplacesampleballot"
+},
+{
+"text": "\"Learn what you need to REGISTER to Vote!\"",
+"href": "https://www.sos.nh.gov/elections/register-vote"
+},
+{
+"text": "\"Learn what you need to VOTE Absentee!\"",
+"href": "https://www.sos.nh.gov/elections/absentee-ballots"
+},
+{
+"text": "Candidate",
+"href": "https://www.fountainfornh.org/candidate.html"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/cathleen-fountain-sd1"
+},
+{
+"text": "Home",
+"href": "https://www.fountainfornh.org/index.html"
+},
+{
+"text": "Issues-Top-5",
+"href": "https://www.fountainfornh.org/issues_top_5_priorities.html"
+},
+{
+"text": "Learn more about cathleen",
+"href": "https://fountainfornh.org/candidate.html"
+},
+{
+"text": "Local Solutions....",
+"href": "https://fountainfornh.org/fountainfornh_Issues_Solutions"
+},
+{
+"text": "Read the Night Owl",
+"href": "https://fountainfornh.org/the-night-owl.html"
+},
+{
+"text": "Speaking out on landfills ...",
+"href": "https://www.fountainfornh.org/issues_Landfills.html"
+},
+{
+"text": "Top 5 Priorites....",
+"href": "https://www.fountainfornh.org/issues_top_5_priorities.html"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.fountainfornh.org/forms/Volunteer/"
+},
+{
+"text": "[image: Social Icon]",
+"href": "https://www.facebook.com/CathleenFountain4NHCoos"
+},
+{
+"text": "[image: Social Icon]",
+"href": "https://www.twitter.com/CathyFountainNH"
+},
+{
+"text": "let'S CHAT",
+"href": "https://www.fountainfornh.org/forms/LetsChat/"
+}
 ]

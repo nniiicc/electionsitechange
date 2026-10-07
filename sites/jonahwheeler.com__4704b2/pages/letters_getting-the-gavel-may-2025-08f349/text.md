@@ -1,5 +1,4 @@
-May 2025 Letter
-As I walked out of the post office on the beautifully clear opening days of May, a man and his trumpet serenaded grove street.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Getting the Gavel Getting the Gavel Getting the Gavel May 31, 2025 May 31, 2025 May 2025 Letter Children and the Arts - 17 May 2025 - 14:24 - Peterborough, NH - Taken by Jonah Children and the Arts - 17 May 2025 - 14:24 - Peterborough, NH - Taken by Jonah As I walked out of the post office on the beautifully clear opening days of May, a man and his trumpet serenaded grove street.
 The moment was the perfect introduction to May.
 A reminder of the small beauties that can be found in each day.
 A better tune is there if you’re willing to stop and listen.
@@ -23,7 +22,7 @@ Having a thorough conversation with six members of the House and a Senator withi
 Still, good questions were asked by people clearly engaged with the legislature and what it is doing this session.
 Most of the questions were for the members of the majority who came.
 They were asked many times to explain their support for universal private, religious, and homeschooling through the Education Freedom Account program.
-The State Budget had it’s public hearing in the Senate.
+Shiny Day - 28 May 2025 - 10:29 - Concord, NH - Taken by Jonah Shiny Day - 28 May 2025 - 10:29 - Concord, NH - Taken by Jonah The State Budget had it’s public hearing in the Senate.
 The Senate Ways and Means committee determined revenue estimates which are approximately 400 million dollars over what the House W&M committee had.
 The Senate was budgeting a 15.9 billion dollar budget while the House had budgeted a 15.5 billion dollar budget.
 Both under the Governor’s requested 16 billion dollars.
@@ -64,7 +63,7 @@ The legislature can and must do better than the budget process we saw this year.
 When a new majority elects a Speaker committed to raising the standards of the House, that person should be ready to hold hearings on their proposed budget throughout the State.
 Opening the door for everyone impacted to be heard.
 Getting rid of the acrimony and showing the citizenry that with the right people, service can genuinely occur.
-The House Environment and Agriculture Committee displayed that mindset which we should expect from every one of our legislators this month.
+Budget Hearing - 6 May 2025 - 15:15 - Concord, NH - Taken by Jonah Budget Hearing - 6 May 2025 - 15:15 - Concord, NH - Taken by Jonah The House Environment and Agriculture Committee displayed that mindset which we should expect from every one of our legislators this month.
 The Vice Chair of our committee, Barbara Comtois, was one of the few members of the majority caucus who voted against the passage of the State budget.
 As a result of her vote, the leadership of her caucus removed her from the position of Vice Chair of the committee.
 When we met this month for the first time after learning about the decision.
@@ -84,4 +83,4 @@ The parades of families with their incredible art displays marching downtown.
 The smile of a neighbor as you both happen to get into your car at the same time.
 We owe it to the world to hold gratitude for the fact that we are still in so many ways blessed.
 Using our gratitude to fortify us in the work to maintain those blessings for generations to come.
-Back to all
+Children and the Arts II - 17 May 2025 - 12:34 - Peterborough, NH - Taken by Jonah Children and the Arts II - 17 May 2025 - 12:34 - Peterborough, NH - Taken by Jonah ‹ They Don’t Really Care About Us ‹ They Don’t Really Care About Us ‹ They Don’t Really Care About Us April, and a Horrible, No Good, Very Bad Budget. › April, and a Horrible, No Good, Very Bad Budget. › April, and a Horrible, No Good, Very Bad Budget. › Back to all

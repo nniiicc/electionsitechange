@@ -1,6 +1,3 @@
-Judge Terri Jamison was honored as Member of the Month in the Ohio Women in Government Newsletter on July 15, 2019.
+Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison News / OWIG Member of the Month July 2019 15 Jul Monday, 4:45 PM · 2019 OWIG Member of the Month July 2019 Judge Terri Jamison was honored as Member of the Month in the Ohio Women in Government Newsletter on July 15, 2019.
 One of the rare times that OWIG recognized a judicial officer, Judge Jamison's life inspired the members to choose her.
-Judge Jamison said, "I'm in awe that I'm being recognized for something I love doing, presiding over cases for the families in Franklin County." The full expanded news article can be seen in the link below.
-15
-Jul
-Monday, 4:45 PM · 2019
+Judge Jamison said, "I'm in awe that I'm being recognized for something I love doing, presiding over cases for the families in Franklin County." The full expanded news article can be seen in the link below. https://www.ohiowomeningovernment.com/news-1/2019/8/5/meet-owig-member-of-the-month-judge-terri-jamison Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com - Political Campaign Websites Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu

@@ -1,10 +1,38 @@
 [
-"http://electfortney.com/",
-"https://electfortney.com/",
-"https://electfortney.com/about-us",
-"https://electfortney.com/contact-jeff",
-"https://electfortney.com/endorsements",
-"https://electfortney.com/events",
-"https://electfortney.com/things-to-do/layout-2",
-"https://facebook.com/ElectAnEducator"
+{
+"text": "About Me",
+"href": "https://electfortney.com/about-us/"
+},
+{
+"text": "Contact Me",
+"href": "https://electfortney.com/contact-jeff/"
+},
+{
+"text": "Endorsements",
+"href": "https://electfortney.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://electfortney.com/"
+},
+{
+"text": "Media",
+"href": "https://electfortney.com/events/"
+},
+{
+"text": "Ways To Help",
+"href": "https://electfortney.com/things-to-do/layout-2/"
+},
+{
+"text": "[image: image][image: image]",
+"href": "http://electfortney.com"
+},
+{
+"text": "[image: logo image]",
+"href": "https://electfortney.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectAnEducator/"
+}
 ]

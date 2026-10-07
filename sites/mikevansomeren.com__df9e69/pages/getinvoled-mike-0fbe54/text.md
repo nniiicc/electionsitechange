@@ -1,4 +1,3 @@
-Stay engaged
-Thank you for following the Mike Van Someren for State Senate journey.
+0 Skip to Content Home About Mike Meet Mike Why I'm Running Contact Me Issues Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Get Involved Volunteer Events District Map Donate Open Menu Close Menu Open Menu Close Menu Home About Mike Meet Mike Why I'm Running Contact Me Issues Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Get Involved Volunteer Events District Map Donate Home Folder: About Mike Back Meet Mike Why I'm Running Contact Me Folder: Issues Back Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Folder: Get Involved Back Volunteer Events District Map Donate Stay engaged Thank you for following the Mike Van Someren for State Senate journey.
 If you’re interested in where we go from here, please complete this form.
-Thank you for your support!
+Thank you for your support! info@MikeVanSomeren.com (262) 264-8640 PO Box 366 Pewaukee, WI 53072 Donate

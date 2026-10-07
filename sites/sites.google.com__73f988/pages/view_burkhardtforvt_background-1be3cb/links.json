@@ -1,5 +1,18 @@
 [
-"https://sites.google.com/view/burkhardtforvt/background",
-"https://sites.google.com/view/burkhardtforvt/contact",
-"https://sites.google.com/view/burkhardtforvt/home"
+{
+"text": "Background",
+"href": "https://sites.google.com/view/burkhardtforvt/background"
+},
+{
+"text": "Contact",
+"href": "https://sites.google.com/view/burkhardtforvt/contact"
+},
+{
+"text": "Home",
+"href": "https://sites.google.com/view/burkhardtforvt/home"
+},
+{
+"text": "burkhardtforvt.com",
+"href": "https://sites.google.com/view/burkhardtforvt/home"
+}
 ]

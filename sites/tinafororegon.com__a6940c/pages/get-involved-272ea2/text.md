@@ -1,9 +1,5 @@
-Skip to content
-Get Involved
-Tina’s campaign is powered by grassroots supporters like you.
+Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Skip to content Donate Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Get Involved Tina’s campaign is powered by grassroots supporters like you.
 We know that if we come together to take action, there is nothing that we can’t do.
 Ready to join the fight?
-We have lots of opportunities to get involved:
-Contribute today to help reelect Governor Tina Kotek
-Follow Tina for Oregon
-Follow Team Tina
+We have lots of opportunities to get involved: Volunteer Find an event near you Sign up to host a Tina for Oregon event Teen?
+Join Teens for Tina Buy Tina Merch Follow the campaign on Instagram Contribute today to help reelect Governor Tina Kotek Donate Follow Tina for Oregon Follow Team Tina press@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.

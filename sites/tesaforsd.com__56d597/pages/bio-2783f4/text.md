@@ -1,15 +1,4 @@
-Term:
-2024-2026
-Party:
-Conservative Republican
-Profession:
-Committee Assignments:
-Commerce & Energy
-Education
-Special Appointments:
-Teacher Compensation Review Board
-Correctional Rehabilitation Task Force
-Tesa Schwans represents District 9 in the South Dakota House of Representatives, covering Northwest Sioux Falls, Wall Lake, and Hartford.
+Home Priorities Bio Media Chair 2 Chair Connect Donate About Tesa Schwans Term: 2024-2026 Party: Conservative Republican Profession: Licensed cosmetologist, small business owner, sales representative Committee Assignments: Commerce & Energy Education Special Appointments: Teacher Compensation Review Board Correctional Rehabilitation Task Force Tesa Schwans represents District 9 in the South Dakota House of Representatives, covering Northwest Sioux Falls, Wall Lake, and Hartford.
 Elected in 2024, she brings decades of small-business experience and deep community roots to her service in Pierre.
 A lifelong South Dakotan, Schwans is a self-employed hair stylist, regional independent sales representative, and longtime salon owner in Sioux Falls.
 Her background in entrepreneurship, customer service, and community engagement shapes her practical, people-focused approach to policymaking.
@@ -26,8 +15,13 @@ A former three-sport athlete, she stays active through biking, hiking, and runni
 She enjoys reading, history, and meditation, which keep her grounded in principle and prayer.
 Schwans and her husband, Jay, of 25 years, live near Wall Lake with their bernedoodle, Wynston.
 They have three children and nine grandchildren, and enjoy boating, fishing, and spending time outdoors.
-Sponsored Legislation
-HB 1232 – Passed “right to work” bill permitting shared booth space in salons.
+Sponsored Legislation HB 1232 – Passed “right to work” bill permitting shared booth space in salons.
 HB 1194 – An act to clarify authority for the Cosmetology Commission to Credit work experience for education, educational hours for certain out-of-state licensure applicants.
+Property tax bills SB 96 – Authorize the imposition of a county option gross receipts tax to reduce owner occupied property taxes.
+SB 245 – Create the homeowner property tax reduction fund, and to transfer money to the homeowner property tax reduction fund.
 SCR 606 – Encouraging the review and approval of water, rights applications, and future use reservations from the Missouri river.
 HC 8013 – Recognizing the agricultural issues team of the West Central FFA chapter, and celebrating their first place, victory in the state competition and their journey to nationals.
+District 9 House Called.
+Caring.
+Committed.
+Follow Subscribe Δ Paid for by Tesa Schwans for District 9 House Privacy Policy

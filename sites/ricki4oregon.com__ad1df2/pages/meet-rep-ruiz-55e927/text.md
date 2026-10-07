@@ -1,6 +1,4 @@
-Meet Rep Ricki
-About Ricki
-Born in Portland but raised in Gresham, Oregon, Ricki Ruiz has deep roots in the state, with his family calling Oregon home since 1984.
+0 Skip to Content Priorities Meet Rep Ruiz Endorsements Contribute Open Menu Close Menu Priorities Meet Rep Ruiz Endorsements Contribute Open Menu Close Menu Priorities Meet Rep Ruiz Endorsements Contribute Meet Rep Ricki About Ricki Born in Portland but raised in Gresham, Oregon, Ricki Ruiz has deep roots in the state, with his family calling Oregon home since 1984.
 Growing up, both of Ricki's parents worked in the agricultural sector for over 25 years before retiring.
 Ricki was the first member of his family to graduate from high school and later became the first to earn a bachelor's degree from Warner Pacific University.
 In 2017, Ricki Ruiz was elected as the youngest member of the Reynolds School Board of Directors, where he served for over four years.
@@ -11,20 +9,21 @@ In 2023, he was elected to serve as the Co-Chair of the BIPOC Caucus, a position
 Throughout his time in office, Represenative Ricki Ruiz has championed legislation aimed at increasing public education funding, supporting small businesses, and ensuring public safety remains a top priority for House District 50.
 Ricki’s proven track record of delivering tangible results, deep understanding of our community’s unique needs, and unwavering commitment to serving every resident with integrity and dedication.
 Over the past term, Representative Ricki Ruiz has successfully championed policies that have improved education, fostered economic growth, and enhanced the quality of life for all.
-His ability to build coalitions, listen to diverse perspectives, and turn our collective vision into actionable outcomes sets him apart as the leader our district needs.
-"
-Representative Ruiz has been a steadfast advocate for our community, consistently driving meaningful progress.
+His ability to build coalitions, listen to diverse perspectives, and turn our collective vision into actionable outcomes sets him apart as the leader our district needs. " Representative Ruiz has been a steadfast advocate for our community, consistently driving meaningful progress.
 His dedication to public safety, youth violence prevention, and enhancing park recreation opportunities has made a tangible difference in our city.
 Rep Ruiz’s leadership and commitment have been instrumental in making House District 50 a safer, more vibrant place for all of us.
-I wholeheartedly support his re-election.
-—Gresham Mayor Travis Stovall
-a true champion for labor
-“Representative Ricki Ruiz has been a true champion for labor, consistently standing up for the rights and needs of the working class.
+I wholeheartedly support his re-election. —Gresham Mayor Travis Stovall a true champion for labor “Representative Ricki Ruiz has been a true champion for labor, consistently standing up for the rights and needs of the working class.
 Their unwavering support for fair wages, safe working conditions, and strong labor protections has made a significant impact on our community.
-I have seen firsthand his dedication to ensuring that every worker has a voice and an advocate."
-— U.S.
-Congresswoman Val Hoyle
-“Representative Ruiz is a dedicated advocate for education, committed to supporting our entire education system from pre-K through higher education, including certification and trade programs.
+I have seen firsthand his dedication to ensuring that every worker has a voice and an advocate." — U.S.
+Congresswoman Val Hoyle “Representative Ruiz is a dedicated advocate for education, committed to supporting our entire education system from pre-K through higher education, including certification and trade programs.
 His work to secure funding, improve resources, and create opportunities for students and educators alike has been transformative.
 Representative Ruiz's holistic approach ensures that every learner, at every stage, has the tools they need to succeed.
-I am proud to support their re-election."
+I am proud to support their re-election." – Alejandra Garcia, Local Educator Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Let's Unite our District Together!
+Sign up with your email address to receive news and updates.
+First Name Last Name Email Address I'm In!
+We respect your privacy.
+Thank you!
+Donate to lead the way Help Secure our Victory! $25 $100 $500 $50 $250 $1000 EXPLORE Home Meet Rep Ruiz Priorities Endorsements Ricki for Oregon P.O.
+Box 42307 Portland, OR 97242 Site Design by Hunch Theory Paid for by Ricki For Oregon #19778

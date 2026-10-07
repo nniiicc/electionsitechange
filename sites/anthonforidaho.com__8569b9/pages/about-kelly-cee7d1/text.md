@@ -1,4 +1,4 @@
-Kelly Arthur Anthon is a seventh-generation Idaho native raised on a family farm in Declo, Idaho where his family continuously operated a farm for over 100 years.
+About Kelly Voting Record On The Issues Volunteer About Kelly Voting Record On The Issues Volunteer Kelly Arthur Anthon is a seventh-generation Idaho native raised on a family farm in Declo, Idaho where his family continuously operated a farm for over 100 years.
 Senator Anthon, a licensed Idaho attorney, attended the University of Idaho’s College of Law where he was elected the College’s student body president and named the College of Law’s 2002 ‘Bistline Scholar’ by the Idaho Association of Criminal Defense Lawyers.
 Until 2012, Mr.
 Anthon, practiced law at the Rupert law firm of ‘Robinson, Anthon & Tribe’ where as a partner he focused on helping local farmers as well as municipal law, debt restructuring, and large business reorganization.
@@ -31,3 +31,5 @@ Anthon is married to Joelle (Rogers) Anthon from Rupert, Idaho.
 Together the couple has five children.
 Senator has been recognized by the Idaho Farm Bureau for his advocacy for Idaho’s farmers, ranchers, and dairymen.
 The Idaho Food Producers has named Senator Anthon an “Ag Allstar” every year he has served in the legislature based on his pro-agriculture voting.
+Back to Top 725 E 300 S, Burley, ID 83318 kelly@anthonforidaho.com © # Committee to Elect Kelly Anthon.
+Elaine Stevenson, Treasurer

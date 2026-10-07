@@ -1,13 +1,50 @@
 [
-"http://myvote.wi.gov/",
-"https://facebook.com/profile.php?id=61568978935410",
-"https://graceabitz.com/",
-"https://graceabitz.com/assembly",
-"https://graceabitz.com/bio",
-"https://graceabitz.com/blog",
-"https://graceabitz.com/cart",
-"https://graceabitz.com/new-page-1",
-"https://maps.legis.wisconsin.gov/Home/SingleEmbed?house=a&district=56",
-"https://secure.actblue.com/donate/grace-abitz-1",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.graceabitz.com/cart"
+},
+{
+"text": "Assembly 56",
+"href": "https://www.graceabitz.com/assembly"
+},
+{
+"text": "Bio",
+"href": "https://www.graceabitz.com/bio"
+},
+{
+"text": "Blog",
+"href": "https://www.graceabitz.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://www.graceabitz.com/"
+},
+{
+"text": "Donate with ActBlue!",
+"href": "https://secure.actblue.com/donate/grace-abitz-1"
+},
+{
+"text": "Myvote.wi.gov",
+"href": "http://myvote.wi.gov"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.graceabitz.com/new-page-1"
+},
+{
+"text": "Single District View - Maps Dot Legis",
+"href": "https://maps.legis.wisconsin.gov/Home/SingleEmbed/?house=a&district=56"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "Thank you, District 56 Voters! General Election - November 3",
+"href": "https://www.graceabitz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61568978935410"
+}
 ]

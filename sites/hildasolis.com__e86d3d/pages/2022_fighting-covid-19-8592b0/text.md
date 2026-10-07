@@ -1,26 +1,11 @@
-When the COVID-19 pandemic struck LA County, Hilda was at the forefront to provide the much needed resources and assistance to those who were in most need.
+Skip to content Home Join Team Hilda Supporters Gallery Donate Home | Fighting COVID-19 When the COVID-19 pandemic struck LA County, Hilda was at the forefront to provide the much needed resources and assistance to those who were in most need.
 Here are just a few examples.
-Paid Leave for Workers Seeking COVID-19 Vaccine
-Hilda Solis stood up for workers to provide employee paid leave for workers seeking to receive a COVID-19 vaccine.
+Paid Leave for Workers Seeking COVID-19 Vaccine Hilda Solis stood up for workers to provide employee paid leave for workers seeking to receive a COVID-19 vaccine.
 This ordinance provided up to an additional four hours of excused paid leave per injection to receive the COVID-19 vaccine.
-Providing COVID-19 Testing and Vaccines to Residents
-in All Languages
-To meet County residents where they are, Hilda Solis advocated to have County-operated points of dispensing have trained staff present who are fluent in the threshold languages of the communities in which they are providing vaccines.
-Expanding Testing and Vaccine Infrastructure to those most in Need
-Hilda Solis and the board partnered with the State and Blue Shield to provide additional funding to expand upon collective efforts to ensure that the communities most at need continued to expand the vaccine infrastructure.
+Providing COVID-19 Testing and Vaccines to Residents in All Languages To meet County residents where they are, Hilda Solis advocated to have County-operated points of dispensing have trained staff present who are fluent in the threshold languages of the communities in which they are providing vaccines.
+Expanding Testing and Vaccine Infrastructure to those most in Need Hilda Solis and the board partnered with the State and Blue Shield to provide additional funding to expand upon collective efforts to ensure that the communities most at need continued to expand the vaccine infrastructure.
 With almost 80% of eligible LA County residents having at least one dose, the County continues to have hundreds of vaccine providers in place to expand access and protect our communities.
-Expanded Mental Health Care to Underserved Latino Communities Impacted by COVID-19
-Communities of color have been in the frontlines of the pandemic, which was seen by having the highest number of confirmed cases of COVID-19 and the highest death rates.
+Expanded Mental Health Care to Underserved Latino Communities Impacted by COVID-19 Communities of color have been in the frontlines of the pandemic, which was seen by having the highest number of confirmed cases of COVID-19 and the highest death rates.
 All these factors have added stress and anxiety to communities of color.
 Hilda Solis directed the County Department of Mental Health to expand mental health services for Latino immigrant and nonimmigrant populations impacted by COVID-19.
-COVID Resources
-Food Banks
-https://www.lafoodbank.org/find-food/pantry-locator/
-LAUSD Grab and Go Centers
-https://achieve.lausd.net/resources
-Covered California
-Medi-Cal
-https://www.dhcs.ca.gov/services/medi-cal
-Unemployment Assistance
-https://edd.ca.gov/Unemployment/Filing_a_Claim.htm
-Social Security Benefits Information
+COVID Resources Food Banks https://www.lafoodbank.org/find-food/pantry-locator/ LAUSD Grab and Go Centers https://achieve.lausd.net/resources Covered California https://www.coveredca.com/ Medi-Cal https://www.dhcs.ca.gov/services/medi-cal Unemployment Assistance https://edd.ca.gov/Unemployment/Filing_a_Claim.htm Social Security Benefits Information Contact info@hildasolis.com 10643 Valley Blvd., Suite C #144 El Monte, CA 91731 Join the Movement Join Team Hilda Endorse Hilda Donate Paid for by Solis for Congress

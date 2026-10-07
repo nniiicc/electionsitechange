@@ -1,6 +1,3 @@
-Judge Terri Jamison of the Franklin county Court of Common Pleas, Division of Domestic Relations - Juvenile Branch and Whitehall City Attorney Michael Bivens were guest panelists for Jump for Justice sponsored by AMAMH.
+Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison News / Jamison Participates in Jump for Justice 19 Feb Friday, 10:58 AM · 2021 Jamison Participates in Jump for Justice Judge Terri Jamison of the Franklin county Court of Common Pleas, Division of Domestic Relations - Juvenile Branch and Whitehall City Attorney Michael Bivens were guest panelists for Jump for Justice sponsored by AMAMH.
 The panel hosts are teenagers who are members of FCYC and Focuses on community conversation with youth providing insight to the Justice System.
-Committee for Terri Jamison
-545 East Town Street
-Columbus, OH 43215
-Phone: (614)600-4926
+Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com - Political Campaign Websites Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu

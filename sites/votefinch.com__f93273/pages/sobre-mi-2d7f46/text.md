@@ -1,5 +1,4 @@
-SOBRE MICHAEL
-Mi esposa Leisa y yo hemos pasado 48 años construyendo nuestra vida en el lado oeste del Salt Lake Valley.
+0 Skip to Content Home About On the Issues Endorsements Volunteer Español Donate Open Menu Close Menu Home About On the Issues Endorsements Volunteer Español Donate Open Menu Close Menu Home About On the Issues Endorsements Volunteer Español Donate Inicio Donar Sobre Mi Por qué me postulo SOBRE MICHAEL Mi esposa Leisa y yo hemos pasado 48 años construyendo nuestra vida en el lado oeste del Salt Lake Valley.
 Juntos hemos criado a 7 hijos y ahora celebramos tener 18 nietos.
 Esta comunidad no es solo el lugar de donde vengo; es quién soy.
 Durante 28 años, fui propietario y administrador de varios negocios pequeños y exitosos en West Valley City.
@@ -11,3 +10,4 @@ La política en Utah está empezando a parecerse mucho a la de Washington D.C.
 Cuando nuestros propios legisladores estatales atacan nuestros tribunales y disuelven los poderes constitucionales que protegen a todos los habitantes de Utah, se convierte en una amenaza real para los cimientos de nuestra democracia.
 Nuestra comunidad merece a alguien que dé un paso al frente y diga: los tribunales importan, la Constitución importa y los votantes de este distrito importan.
 Me postulo para ser esa voz.
+Contact Michael Michael@votefinch.com Privacy Policy Paid for by Elect Michael Finch

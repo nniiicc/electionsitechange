@@ -1,17 +1,82 @@
 [
-"https://cardinaleforassembly.com/",
-"https://cardinaleforassembly.com/about",
-"https://cardinaleforassembly.com/about-3",
-"https://cardinaleforassembly.com/contact",
-"https://cardinaleforassembly.com/events-1",
-"https://cardinaleforassembly.com/general-9",
-"https://cardinaleforassembly.com/get-involved",
-"https://cardinaleforassembly.com/news",
-"https://elections.ny.gov/military-and-overseas-federal-voting",
-"https://elections.ny.gov/request-ballot",
-"https://facebook.com/JoeCardinaleforassembly",
-"https://instagram.com/joecardinaleforassembly",
-"https://secure.winred.com/joe-cardinale-for-assembly/donate-today",
-"https://suffolkcountyny.gov/Departments/BOE/2024-General-Election-Early-Voting-Locations-and-Timings",
-"https://twitter.com/CardinaleAD11"
+{
+"text": "About",
+"href": "https://www.cardinaleforassembly.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.cardinaleforassembly.com/about"
+},
+{
+"text": "Click here for info",
+"href": "https://elections.ny.gov/military-and-overseas-federal-voting"
+},
+{
+"text": "Contact",
+"href": "https://www.cardinaleforassembly.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/joe-cardinale-for-assembly/donate-today"
+},
+{
+"text": "Election Information",
+"href": "https://www.cardinaleforassembly.com/about-3"
+},
+{
+"text": "Events",
+"href": "https://www.cardinaleforassembly.com/events-1"
+},
+{
+"text": "FOR NYS ASSEMBLY DISTRICT 11",
+"href": "https://www.cardinaleforassembly.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.cardinaleforassembly.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.cardinaleforassembly.com/about-3"
+},
+{
+"text": "JOE CARDINALE",
+"href": "https://www.cardinaleforassembly.com"
+},
+{
+"text": "News",
+"href": "https://www.cardinaleforassembly.com/news"
+},
+{
+"text": "Privacy",
+"href": "https://www.cardinaleforassembly.com/general-9"
+},
+{
+"text": "SUBSCRIBE",
+"href": "mailto:joecardinaleforassembly@gmail.com"
+},
+{
+"text": "To Request a Ballot click HERE.",
+"href": "https://elections.ny.gov/request-ballot"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.cardinaleforassembly.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JoeCardinaleforassembly"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/joecardinaleforassembly/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/CardinaleAD11"
+},
+{
+"text": "click here for more information.",
+"href": "https://suffolkcountyny.gov/Departments/BOE/2024-General-Election-Early-Voting-Locations-and-Timings"
+}
 ]

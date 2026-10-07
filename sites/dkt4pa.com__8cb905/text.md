@@ -1,44 +1,28 @@
-Pennsylvania State House of Representatives
-DEIRDRE KAMBER TODD
-Working for the People,Not the Parties
-ENDORSEMENTS:
-FAQ
-Answers to common questions about my campaign and how to get involved.
-1Why am I running for State Representative?
-I am running because it is time our community, our district, and our people become the agenda of our State Representative.
-This only happens if rational, reasonable Democrats and Republicans stop wasting time with fighting and start working together.
-2What is my baseline political position?
-I am a fiscal moderate, and I object to governmental overreach into our personal lives: our homes, our bedrooms, our families and our personal choices.
-3What is my position on the political fighting?
-We have to stop fighting over partisan labels.
-Republican versus Democrat fighting does not solve our problems.
-My motto is "Working for the People, Not the Parties." Let's put aside differences to focus on practical solutions for District 183.
-I will work with rational, reasonable legislators from both parties; if we can come together on one issue for 183, that is a win.
-4What is my perspective on conservative Republicans in power?
-My personal perspectives on anyone is not part of the job.
-My job is to reflect on and fight for the needs of our community.
-Acting out any other agenda motivated by personal issues or created by other politicians means that my agenda is not focused on my district.
-Furthermore, as a State Representative, my job is limited to state and local concerns; I am not part of the federal system.
-My job is only to represent our local interests.
-5What are some of my top priorities and issues?
-Click here for my priority list of issues.
-6What makes me the most qualified candidate for the job?
-Professionally, I am a retired Pennsylvania attorney with decades of legal experience, a forensic document examiner, adjunct professor, keynote speaker, and small business owner.
-I have years of experience with regulations, government agencies, and negotiating resolutions.
-Personally, I grew up in Selinsgrove, Pennsylvania, a small coal-mining and farming town.
-I moved to Lehigh Valley as a teen.
-My husband is from Slatington, with generations before him.
-I understand the needs of our community.
-My full background is in the About Me section and my resume is available for download here.
-7Yard signs, from ordering to replacement
-My yard signs are party-neutral.
-They are red, white and blue and say nothing about party affiliation.
-Despite this, if someone were to take or ruin your sign, then we'll replace it; just let us know, and we'll bring another by (or three) in its place.
-To request a yard sign, use the form in Get Involved.
-8Getting involved: any level of support is appreciated
-Use the forms on the Get Involved page and our team will follow up.
-9Donations, to put it in perspective
-To put election costs into perspective, a single paper mailer costs about $15,000 and a local 30-second television advertisement averages $35,000.
-Whether you can contribute $100, $250, $1,000 or more, your contribution to my candidacy is an investment in our future.
-10Want to contact us?
-For all questions relating directly to me, my position or issues, please use the Contact Me; for all other inquiries, please use the Contact the Campaign form.
+Pennsylvania State House of Representatives D EIRDRE K AMBER T ODD Working for the People, Not the Parties ENDORSEMENTS: SEIU • Eric J.
+Holder, former U.S.
+Attorney • Lamont McClure, County Executive • Lehigh Valley Labor Council • Senator Nick Miller • LV4All • ULDC • Rep.
+Mike Schlossberg • Rep.
+Pete Schweyer • HDCC • Area 6 NorCo Dems • Team BLUE PA Trifecta by PAmoms4change • SEIU • Eric J.
+Holder, former U.S.
+Attorney • Lamont McClure, County Executive • Lehigh Valley Labor Council • Senator Nick Miller • LV4All • ULDC • Rep.
+Mike Schlossberg • Rep.
+Pete Schweyer • HDCC • Area 6 NorCo Dems • Team BLUE PA Trifecta by PAmoms4change • Priorities Mako's Voting Record My Experience FAQ Get Involved Calendar Socials Key Priorities Just Because You are FROM the Community Does Not Mean You are FOR the Community: Mako's Voting Record My Professional Experience My Professional Experience My Work Experience Lawyer of 23 years - business, civil rights, healthcare, contracts, and education law Certified mediator and arbitrator for the Northampton Court of Common Pleas Worked in Harrisburg for the Departments of Health and Corrections - writing regulations, contract disputes, and trials Worked with federal and state agencies for decades, including but not limited to - US DOL (wage payment), OSHA (workplace safety), NLRB and PLRB (unions), EEOC (discrimination), DOJ (military affairs), PDE (education) and DOH (HIPAA and Medicare) Forensic Document Examiner – fraud investigator Adjunct Professor – Moravian College, Cedar Crest College, and DeSales University Community Involvements Community Services for Children – Secretary to the Board (Headstart, Early Headstart programs) Northampton Prison LEAP Program – Volunteer (inmate employment assistance) Public Policy and Healthcare Boards – Greater Lehigh Valley Chamber of Commerce Library of Congress – Volunteer (handwriting analyst volunteer) SHRM LV – President (human resources organization) Return to page FAQ Answers to common questions about my campaign and how to get involved.
+Calendar Events Happening Now Events Lowhill Township Meeting 10/8, 6:30–7:30 PM 7000 Herber Road New Tripoli East Allen Township Meeting 10/8, 7:00–9:00 PM 5344 Nor-Bath Boulevard Northampton, PA Guest Hosting Slatington Expo Center Wrestling 10/10 Slatington Expo Center 8281 PA-873, Slatington, PA 18080 Bonfire For Deirdre!
+Click for Brochure Sign Up Here 10/11, 5:00–7:00 PM Northampton, PA RSVP On Act Blue Sign-up .
+Get ready to fire up your passion!
+Join us on October 11th, 5-7 p.m., for an exclusive, top-tier campaign fundraiser hosted at a gorgeous Northampton home alongside a peaceful, babbling brook.
+This unique evening features an upscale culinary experience including smoked salmon, tender braised meats, and vibrant vegetarian and vegan options—all perfectly paired with refreshing, homemade hard cider.
+We will finish the night gathered around a spectacular bonfire, safely overseen by our hosts, one of whom is a local firefighter.
+Tickets are $50 per person, and seating is strictly limited for this special event.
+Secure your spot to enjoy great food, meaningful conversation, and a shared commitment to putting people ahead of politics.
+Once you purchase your ticket(s), the address of the event will be included in your thank you note.
+Please ensure you retain this information.
+Trunk Or Treats N.
+Whitehall Kolapecha Park 5:30 10/16, 5:30–6:30 PM — View Calendar Return to page Subscribe to this calendar Volunteer Request a Yard Sign Endorse the Campaign Donate Calendar Contact Us Socials Deirdre Kamber Todd 4 PA - Facebook - Reload Facebook feed Videos and Interviews - YouTube - * Site created by candidate; all resources paid by DKamberTodd4PA. © 2026 Deirdre Kamber Todd.
+All rights reserved.
+Statements on this site approved by candidate.
+PAC contributions may come from individuals, LLCs, partnerships and other PACs; in PA, corporations cannot contribute to PACs.
+Contributions to DKamberTodd4PA are not deductible as charitable contributions for federal or state income tax purposes.
+All voting resources link to online Pennsylvania government or other external sites.
+Deirdre Kamber Todd for PA House District 183 does not collect voter data through this website.
+Back to Top

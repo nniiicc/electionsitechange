@@ -1,17 +1,18 @@
-1985
-"Oh, little Lisa.
-We always wondered what happened to you!"
-In 1985, at the urging of her husband, Phil, to find out medical history six months into her pregnancy, Lisa placed a cold call wondering if this could be her birth father's family.
+Home About Lisa Why Lisa?
+Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy More Home About Lisa Why Lisa?
+Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy Sign in Account Signed in filler@godaddy.com Account Sign out Signed in filler@godaddy.com Home About Lisa Why Lisa?
+Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy Account Account Sign out Sign in Account Little Lisa Little Lisa 1985 "Oh, little Lisa.
+We always wondered what happened to you! " In 1985, at the urging of her husband, Phil, to find out medical history six months into her pregnancy, Lisa placed a cold call wondering if this could be her birth father's family.
 Indeed it was—well, almost.
 Aunt "Tricia" answered the call.
 Carefully choosing her words, Lisa asked for "Robert" to see if he was the brother of her "father" shown on her birth hospital records.
-Lisa asked if she knew "Tom" and "Sarah" [names changed].
-Tricia confirmed that "Tom" was her brother-in-law and excitedly stated, ""Oh, little Lisa.
-We always wondered what happened to you!" With happy tears, Lisa realized that someone knew her as a baby and might know her story.
+Lisa asked if she knew "Tom" and "Sarah" [ names changed ].
+Tricia confirmed that "Tom" was her brother-in-law and excitedly stated, " " Oh, little Lisa.
+We always wondered what happened to you! " With happy tears, Lisa realized that someone knew her as a baby and might know her story.
 A revelation was revealed during that call.
 Lisa learned that the man who was "her mother's husband at the time of her birth" was most likely not her biological father, but Tricia believed she knew who he was.
 She did.
-And he was.
+And he was .
 And that, is its own long story.
 Lisa was the fourth child born to then 19-year-old, Sarah.
 Yes, Sarah started young.
@@ -39,12 +40,12 @@ He asked her specifically if she wanted them to be her legal family.
 She did.
 And they were.
 Lisa found all of the members of her biological family and has relationships with them.
-Another long, long story.
+A nother long, long story.
 There is so much more to this story, but we'll stop here.
 These experiences have shaped Lisa's life.
 She treasures her family and loves serving others.
 And, she is happy to live and have lived life that she has never been in court as the subject of a hearing again.
-Lisa loved growing up in Milwaukee, Wisconsin, as the youngest of five children, with three brothers and one sister.
+Little Lisa Growing Up in Milwaukee Lisa loved growing up in Milwaukee, Wisconsin, as the youngest of five children, with three brothers and one sister.
 Throughout her youth, Lisa twirled a baton, marched in parades across the greater Milwaukee area, and competed in group and solo competitions throughout the Midwest.
 She earned several awards, including the Most Valuable Performer Award with her baton corps, the Challengers.
 When she was not riding city buses, Lisa rode her bike everywhere, including to work.
@@ -57,7 +58,7 @@ With $600 in savings and not knowing anyone in Utah, she set out for Provo and m
 Lisa attended Utah Tech, Utah Valley Community College, Utah Valley State College, and Utah Valley University.
 Yes, they are all the same school!
 You can read more about her degrees on the Education and Experience page.
-Lisa met Phil a year after she moved to Provo at a dance on top of Bridal Veil Falls.
+Family Phil and Lisa Family Lisa met Phil a year after she moved to Provo at a dance on top of Bridal Veil Falls.
 She was serving the free soda.
 He had just returned from serving in London on an LDS mission for 18 months.
 That's a cute story for another day.
@@ -66,11 +67,11 @@ They have made their home for the last 39 years in the west Provo section of Hou
 Their sixchildren attended Westridge Elementary, Dixon Middle School, and Provo High School.
 Their youngest also attended Lakeview Elementary.
 Lisa was very involved in their children's lives, active in their schools, and engaged in their education.
-You can see her community service on the community service page.
+You can see her community service on the community service page .
 Phil and Lisa have six adult children, three sons-in-law, and five grandchildren they adore.
 They finally got a daughter-in-law on Leap Day 2024.
 They look forward to getting two more daughters-in-law and many more grandchildren.
 (No pressure, right!?!?
 Phil is a gaffer in the film industry, lighting industrial and retail commercials, and owns a film studio in Orem.
-Paid for by Lisa Shepherd for State House
-Utah House District 61
+Volunteer Contact Privacy Policy Convention Speech Paid for by Lisa Shepherd for State House Utah House District 61 801-787-8211 Copyright © # Lisa61 - All Rights Reserved.
+Powered by Thank YOU for the honor and privilege to serve!

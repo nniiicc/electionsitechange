@@ -1,3 +1,6 @@
-Want to get your own campaign yard sign?
-Request that a yard sign be sent to you using the form below:
+Skip to content Facebook-f Instagram X-twitter Threads Tiktok ALASKA FIRST.
+CONTACT My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press Press Releases In the News My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press Press Releases In the News SALMON RUN CALL FOR ARTISTS STORE DONATE Facebook-f Instagram X-twitter Threads Tiktok SALMON RUN CALL FOR ARTISTS My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press In the News Press Releases Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press In the News Press Releases Contact DONATE REQUEST A YARD SIGN Want to get your own campaign yard sign?
+Request that a yard sign be sent to you using the form below: First Name Last Name Email Phone Address Zip/Postal Code What sign size(s) would you like to recieve?
+Small (18"x24") Large (4'x8') REQUEST A YARD SIGN PO BOX 90031 Anchorage, AK 99509 EMAIL [email protected] Facebook-f Instagram X-twitter Threads Tiktok PRIVACY POLICY PAID FOR BY ALASKANS FOR MARY WE CAN'T DO IT WITHOUT YOUR HELP.
 Contribute to help Mary’s campaign today.
+MAKE A DONATION GET INVOLVED

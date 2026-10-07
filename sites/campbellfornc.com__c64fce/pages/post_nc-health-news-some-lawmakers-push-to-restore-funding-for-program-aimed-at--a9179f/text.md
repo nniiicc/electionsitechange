@@ -1,18 +1,16 @@
-NC HEALTH NEWS: Some lawmakers push to restore funding for program aimed at improving infant, maternal health
-A statewide group that has focused on improving the health of mothers and babies since 2009 has been winding down its work since it lost state funding last October.
+top of page CHIP IN TO HELP RE-ELECT GRANT CAMPBELL >>> DONATE >>> HOME DONATE ABOUT ISSUES MEDIA NEWS More Use tab to navigate through the menu items.
+NC HEALTH NEWS: Some lawmakers push to restore funding for program aimed at improving infant, maternal health Mar 3 5 min read A statewide group that has focused on improving the health of mothers and babies since 2009 has been winding down its work since it lost state funding last October.
 Work has been going on behind the scenes, however, to get that funding restored, legislators said last week.
 “Marty [McCaffrey] and I are probably equally angry about this,” Rep.
 Grant Campbell (R-Kannapolis) said of the funding cut after hearing an update from Martin McCaffrey, a pediatrician and neonatologist and the director of the Perinatal Quality Collaborative of North Carolina.
-“I’ve asked about half a dozen times for [the funding’s] reinstatement,” said Campbell, a longtime OB-GYN, at the Feb. 25 North Carolina Child Fatality Task Force meeting.
-“Just as an update … we’re going to start transitioning to demanding.”
-Sen.
+“I’ve asked about half a dozen times for [the funding’s] reinstatement,” said Campbell, a longtime OB-GYN, at the Feb.
+25 North Carolina Child Fatality Task Force meeting.
+“Just as an update … we’re going to start transitioning to demanding.” Sen.
 Jim Burgin (R-Angier) said he also has been speaking with government officials about restoring the funding.
 “We’re all for it,” he said.
-“We ought to even do more for it.”
-The task force, which plans to send its 2026 recommendations to the General Assembly around the end of April, voted to support recurring annual funding of $905,000 for the collaborative.
+“We ought to even do more for it.” The task force, which plans to send its 2026 recommendations to the General Assembly around the end of April, voted to support recurring annual funding of $905,000 for the collaborative.
 That would restore the group’s yearly budget, which most recently has been connected to Medicaid funding.
-Maternal and newborn focus
-The Perinatal Quality Collaborative, a network of teams across the state, has improved infant care and prevented infant deaths through various initiatives since 2009, McCaffrey said.
+Maternal and newborn focus The Perinatal Quality Collaborative, a network of teams across the state, has improved infant care and prevented infant deaths through various initiatives since 2009, McCaffrey said.
 Every year the collaborative supports maternal and newborn initiatives in as many as 60 of the state’s more than 115 hospitals.
 One project on substance use disorder for mothers and their babies improved screening to ensure care for those who need it, McCaffrey told the Child Fatality Task Force, a legislative study group of volunteer experts, state agency leaders, community leaders and state legislators who research child health issues.
 The task force then makes policy and spending recommendations to the General Assembly.
@@ -22,8 +20,7 @@ The collaborative also converted the state to Eat, Sleep and Console, an alterna
 When the project started, standard protocol was to put the newborns on morphine, which created prolonged hospital stays, he said.
 “What does the baby need to do?” McCaffrey said.
 “It needs to be able to eat, sleep and console.
-If you can do those things, you don’t need drugs.”
-That project helped shorten hospital stays for affected newborns, saving $4.5 million annually over the three-year project, he said.
+If you can do those things, you don’t need drugs.” That project helped shorten hospital stays for affected newborns, saving $4.5 million annually over the three-year project, he said.
 When the collaborative’s funding was cut last year, McCaffrey wrote a memo outlining the group’s work over the years.
 He included estimates on how much the General Assembly had spent — $10.6 million — and how much the initiatives saved the state — $98 million — that would have been spent on treatment and longer hospital stays, for example.
 Based on that cost avoidance, the return on investment for North Carolina is about 925 percent, he said.
@@ -35,19 +32,16 @@ If North Carolina’s infant mortality rate was the same as New Hampshire’s, 4
 Meanwhile, 18.6 percent of North Carolina mothers get inadequate prenatal care, according to the latest March of Dimes report that looks at how the U.S. is handling maternal and infant health.
 The national average is 16.1 percent.
 Only 72.3 percent of mothers in North Carolina start prenatal care in the first trimester, compared with 75.5 percent of U.S. moms.
-Caught in Medicaid fight
-“Our four-year contract with DHHS [state Department of Health and Human Services], which had two years left on it, was very abruptly terminated in the middle of projects that we were developing.
+Caught in Medicaid fight “Our four-year contract with DHHS [state Department of Health and Human Services], which had two years left on it, was very abruptly terminated in the middle of projects that we were developing.
 I’m angry about that still,” McCaffrey told the Child Fatality Task Force.
 “What we were told by Medicaid, it was clear this was a budget cut across the board.
 It wasn’t anything about us,” he said.
 “The quote was, ‘This is not about your performance.
-This was about funding availability or the lack thereof.’”
-Campbell blamed it on politics.
+This was about funding availability or the lack thereof.’” Campbell blamed it on politics.
 The state’s Republican-led General Assembly and Democratic Gov.
 Josh Stein have been at odds over what the state pays for Medicaid, including the Medicaid Managed Care Oversight Fund.
 The “mini-budget” lawmakers passed in June 2025 had less money than NC DHHS requested, which led the department to cut Medicaid reimbursement rates for health care providers and slash programs such as the Healthy Opportunities Pilot and the Perinatal Quality Collaborative.
-In an October email to NC Health News, an NC DHHS spokeswoman attributed the perinatal group’s funding cut to “the $33M underfunding of the Medicaid Oversight Fund by the NC General Assembly.”
-The reimbursement rates were later restored, but the perinatal group’s funding was not.
+In an October email to NC Health News, an NC DHHS spokeswoman attributed the perinatal group’s funding cut to “the $33M underfunding of the Medicaid Oversight Fund by the NC General Assembly.” The reimbursement rates were later restored, but the perinatal group’s funding was not.
 The collaborative hasn’t always been funded through Medicaid.
 It was originally a line item in the state budget, McCaffrey has told NC Health News.
 Other states have found ways to pay for their perinatal quality collaboratives, including grant money and assessing annual fees on hospitals that participate, he said.
@@ -60,4 +54,14 @@ It is the first tranche of a total $1 billion the state will receive over five y
 Sarah Verbiest, co-chair of the Child Fatality Task Force’s perinatal health committee, reminded the task force that North Carolina pioneered the Perinatal Quality Collaborative, which other states copied.
 McCaffrey said North Carolina needs the collaborative.
 “If we don’t have this organization, we will be the only state without a perinatal quality collaborative,” he said.
-“So I hope that we will find a way to let our work continue.”
+“So I hope that we will find a way to let our work continue.” Recent Posts See All OP-ED | CAROLINA JOURNAL: Fauci chose silence when America needed an after-action review WBTV: ‘Lost kids in Mecklenburg County’: Lawmakers blast county officials in combative hearing about child’s death NC NEWSLINE: Republican lawmakers, advocates push to strengthen NC food systems, farms JOIN TEAM CAMPBELL Provide your information below to receive important e-mail updates from Team Campbell: SUBSCRIBE Thanks for submitting!
+About Grant Campbell for N.C.
+House Born and raised in North Carolina by a single mother, Grant learned early the value of hard work and education.
+He earned both his undergraduate and medical degrees from UNC-Chapel Hill before answering the call to serve after 9/11 as a U.S.
+Army physician.
+Grant completed three tours in the Middle East and retired from the Army as a lieutenant colonel before returning to private medical practice and serving his community and fellow veterans.
+Elected to the North Carolina House of Representatives in 2024, Grant proudly represents the people of Cabarrus and Rowan counties in House District 83.
+He is running for re-election to continue delivering conservative, common-sense leadership for his community.
+Learn More About the General Assembly House Members News & Media Resources Contact Us Press Inquiries Internships Constituent Services NCGA Live Stream Fin d Your Legislative District Help with a State A gency Capitol Building Tours Legislative Build ing Tours House Page Program Cong ress State Government State Constitution North Carolina General Assembly Bill Information State Agencies Governor's Office Lt.
+Governor's Office Secretary of State's Office Treasurer's Office North Carolina Courts COMMITTEE TO ELECT GRANT CAMPBELL P.O.
+Box 1350 Norwood, NC 28128 PAID FOR BY COMMITTEE TO ELECT GRANT CAMPBELL. © # by Capen Consulting, LLC | Email Webmaster bottom of page

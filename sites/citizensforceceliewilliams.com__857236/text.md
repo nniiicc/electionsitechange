@@ -1,5 +1,3 @@
-Sign up to be the first to get updates.
-Copyright © 2024 Citizens For Cecelie Williams - All Rights Reserved.
+Citizens For Cecelie Williams Citizens For Cecelie Williams Citizens For Cecelie Williams Citizens For Cecelie Williams Citizens For Cecelie Williams Citizens For Cecelie Williams Citizens For Cecelie Williams Citizens For Cecelie Williams More Strength in Unity Strength in Unity Strength in Unity Strength in Unity Strength in Unity Strength in Unity Strength in Unity Strength in Unity Subscribe Sign up to be the first to get updates.
+Email Sign up Copyright © # Citizens For Cecelie Williams - All Rights Reserved.
 Powered by GoDaddy
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.

@@ -1,7 +1,1 @@
-Meet Emil
-News
-Issues
-District Map
-Volunteer
-Donate
-Donate
+Meet Emil News Issues District Map Volunteer Donate Donate Meet Emil News Issues District Map Volunteer Donate Sign up to get involved Leave this field empty if you're human: Paid for by Emil Bergquist for District 91, Myron Higerd, Treasurer

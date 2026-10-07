@@ -1,5 +1,4 @@
-Urson Russell – Common Sense for California Assembly District 73
-(Serving Costa Mesa, Irvine, and part of Tustin) Urson Russell is not a politician—he’s a problem-solver, a business leader, and a lifelong Southern Californian who knows what makes this state extraordinary.
+Home What I Stand For Good Government My Commitments AD73 Endorsements Events Get Involved More Home What I Stand For Good Government My Commitments AD73 Endorsements Events Get Involved Home What I Stand For Good Government My Commitments AD73 Endorsements Events Get Involved WHAT I STAND FOR Urson Russell – Common Sense for California Assembly District 73 (Serving Costa Mesa, Irvine, and part of Tustin) Urson Russell is not a politician—he’s a problem-solver, a business leader, and a lifelong Southern Californian who knows what makes this state extraordinary.
 Born and raised in SoCal, Urson celebrates the unmatched lifestyle that lets you surf at dawn, tee off by 9 a.m., and hit the slopes under the stars—all in one day.
 Now, he’s running for State Assembly to bring that same energy, accountability, and results-driven leadership to Sacramento.
 For 30 years, Urson has built and led businesses in operations, logistics, production, sales, training, and team management.
@@ -18,4 +17,8 @@ He’s ready to cut through the noise, fix what’s broken, and deliver real res
 Urson Russell: Real Leadership.
 Real Solutions.
 Real Accountability.
-Paid for by URSON RUSSELL FOR ASSEMBLY 2026 FPPC ID# 1484271
+Join the campaign!
+LET'S DO THIS TOGETHER!
+First Name* Last Name* Email* Phone* Sign up on our email list to receive updates about the campaign SUBMIT This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Paid for by URSON RUSSELL FOR ASSEMBLY 2026 FPPC ID# 1484271 Copyright © # Urson Russell - All Rights Reserved.
+Powered by

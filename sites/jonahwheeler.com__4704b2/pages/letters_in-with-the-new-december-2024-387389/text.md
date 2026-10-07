@@ -1,5 +1,4 @@
-December 2024 Letter
-The inauguration of the 168th General Court fell on Wednesday the 4th this biennium.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all In With The New In With The New In With The New Dec 31, 2024 Dec 31, 2024 December 2024 Letter Close-Up - 27 November 2024 - 11:13 - Manchester, NH - Taken by Adam Sexton Close-Up - 27 November 2024 - 11:13 - Manchester, NH - Taken by Adam Sexton The inauguration of the 168th General Court fell on Wednesday the 4th this biennium.
 Where the House and Senate meet in their respective chambers for the biannual organization day of each body.
 Electing a Speaker, or Senate President.
 A Clerk for each body, a Sergeant at Arms, and then coming together for a joint session.
@@ -85,4 +84,4 @@ Be the warmth where it is needed.
 Be creative where they want you to be grey.
 Be human, and don’t ever concede to the apathy of a world run by such evil.
 For then they win.
-Back to all
+Inauguration Day - 4 December 2024 - 11:37 - Concord, NH - Taken by Nathaniel Walner Inauguration Day - 4 December 2024 - 11:37 - Concord, NH - Taken by Nathaniel Walner ‹ 2025 ‹ 2025 ‹ 2025 Leadership › Leadership › Leadership › Back to all

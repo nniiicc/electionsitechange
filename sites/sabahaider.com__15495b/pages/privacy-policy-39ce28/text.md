@@ -1,7 +1,5 @@
-PRIVACY POLICY
-This statement applies to the online collection of personal information via websites operated by and applications offered by Citizens for Saba Haidr.
-Details of the Privacy Statement follow immediately below.
-What personal information is collected and how is that information used?
+0 Skip to Content About Saba Endorsements Early Voting Priorities The District Join Us Donate Open Menu Close Menu About Saba Endorsements Early Voting Priorities The District Join Us Donate Open Menu Close Menu About Saba Endorsements Early Voting Priorities The District Join Us Donate PRIVACY POLICY This statement applies to the online collection of personal information via websites operated by and applications offered by Citizens for Saba Haidr.
+Details of the Privacy Statement follow immediately below. ​ What personal information is collected and how is that information used?
 1.
 We collect information about our users in multiple ways: directly from the user, from our Web server logs, and through cookies, and when you fill in our opt-in forms.
 2.
@@ -40,4 +38,4 @@ If you wish to unsubscribe from any of our campaigns, please select the unsubscr
 4.
 If you wish to unsubscribe to our text messages, please text “STOP” and you will be removed from our text list.
 If you have any questions, don’t hesitate to contact us.
-If you have any additional questions or concerns related to this statement and/or our practices, please contact us at sabafordupage@gmail.com
+If you have any additional questions or concerns related to this statement and/or our practices, please contact us at sabafordupage@gmail.com DONATE Paid for by Citizens for Saba Haider Privacy Policy

@@ -1,41 +1,178 @@
 [
-"https://campaignhq.app/volunteer",
-"https://enochforcongress.com/",
-"https://enochforcongress.com/about-ohios-8th-congressional-district",
-"https://enochforcongress.com/bio",
-"https://enochforcongress.com/blog",
-"https://enochforcongress.com/community-survey",
-"https://enochforcongress.com/contact",
-"https://enochforcongress.com/donate-now",
-"https://enochforcongress.com/endorsements",
-"https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such",
-"https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting",
-"https://enochforcongress.com/events",
-"https://enochforcongress.com/issue",
-"https://enochforcongress.com/issue/restoring-trust-and-integrity-in-our-democracy-and-economy",
-"https://enochforcongress.com/product/free-yard-sign",
-"https://enochforcongress.com/shop",
-"https://enochforcongress.com/volunteer",
-"https://enochforcongress.com/volunteer-portal",
-"https://enochforcongress.com/voting-in-2026",
-"https://enochforcongress.com/wp-content/uploads/2020/08/IMG_1669-scaled.jpg",
-"https://enochforcongress.com/wp-content/uploads/2020/08/IMG_1679-scaled.jpg",
-"https://enochforcongress.com/wp-content/uploads/2020/08/IMG_3341-scaled.jpg",
-"https://enochforcongress.com/wp-content/uploads/2020/08/IMG_3344-scaled.jpg",
-"https://enochforcongress.com/wp-content/uploads/2020/08/IMG_3393-scaled.jpg",
-"https://enochforcongress.com/wp-content/uploads/2020/08/IMG_3626-scaled.jpg",
-"https://enochforcongress.com/wp-content/uploads/2020/08/IMG_3854-scaled.jpg",
-"https://enochforcongress.com/wp-content/uploads/2020/08/IMG_3859-scaled.jpg",
-"https://enochforcongress.com/wp-content/uploads/2020/08/IMG_4011-scaled.jpg",
-"https://enochforcongress.com/wp-content/uploads/2020/08/IMG_4014-scaled.jpg",
-"https://enochforcongress.com/wp-content/uploads/2020/08/IMG_4069-scaled.jpg",
-"https://enochforcongress.com/wp-content/uploads/2020/08/IMG_4070-scaled.jpg",
-"https://enochforcongress.com/wp-content/uploads/2020/08/IMG_4073-2-scaled.jpg",
-"https://enochforcongress.com/wp-content/uploads/2020/08/IMG_4212-4-scaled.jpg",
-"https://enochforcongress.com/wp-content/uploads/2020/08/IMG_4214-5-scaled.jpg",
-"https://facebook.com/1DocEnoch",
-"https://instagram.com/doc.enoch",
-"https://linkedin.com/in/dr-vanessa-enoch",
-"https://pinterest.com/EnochforCongress",
-"https://twitter.com/DrVEnoch"
+{
+"text": "About",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Biography",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Blog",
+"href": "https://enochforcongress.com/blog/"
+},
+{
+"text": "Contact",
+"href": "https://enochforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://enochforcongress.com/donate-now/"
+},
+{
+"text": "Endorsements",
+"href": "https://enochforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/1DocEnoch/"
+},
+{
+"text": "Home",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/doc.enoch/"
+},
+{
+"text": "Issues",
+"href": "https://enochforcongress.com/issue/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/dr-vanessa-enoch/"
+},
+{
+"text": "October Meet & Greet with Dr. Vanessa Enoch @ Major Minor Books and Such",
+"href": "https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such/"
+},
+{
+"text": "October Wooster Corridor Democrats Meeting",
+"href": "https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting/"
+},
+{
+"text": "Ohio’s 8th Congressional District",
+"href": "https://enochforcongress.com/about-ohios-8th-congressional-district/"
+},
+{
+"text": "Order a Yard Sign",
+"href": "https://enochforcongress.com/product/free-yard-sign/"
+},
+{
+"text": "Pinterest",
+"href": "https://www.pinterest.com/EnochforCongress/"
+},
+{
+"text": "Restoring trust and integrity in our democracy and economy",
+"href": "https://enochforcongress.com/issue/restoring-trust-and-integrity-in-our-democracy-and-economy/"
+},
+{
+"text": "Share Your Opinion",
+"href": "https://enochforcongress.com/community-survey/"
+},
+{
+"text": "Shop",
+"href": "https://enochforcongress.com/shop/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/DrVEnoch"
+},
+{
+"text": "Upcoming Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "Volunteer",
+"href": "https://campaignhq.app/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://enochforcongress.com/volunteer/"
+},
+{
+"text": "Volunteer Portal",
+"href": "https://enochforcongress.com/volunteer-portal/"
+},
+{
+"text": "Voting in 2026",
+"href": "https://enochforcongress.com/voting-in-2026/"
+},
+{
+"text": "[image: Vanessa Enoch for Congress]",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/issue/restoring-trust-and-integrity-in-our-democracy-and-economy/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/wp-content/uploads/2020/08/IMG_1669-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/wp-content/uploads/2020/08/IMG_1679-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/wp-content/uploads/2020/08/IMG_3341-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/wp-content/uploads/2020/08/IMG_3344-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/wp-content/uploads/2020/08/IMG_3393-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/wp-content/uploads/2020/08/IMG_3626-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/wp-content/uploads/2020/08/IMG_3854-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/wp-content/uploads/2020/08/IMG_3859-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/wp-content/uploads/2020/08/IMG_4011-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/wp-content/uploads/2020/08/IMG_4014-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/wp-content/uploads/2020/08/IMG_4069-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/wp-content/uploads/2020/08/IMG_4070-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/wp-content/uploads/2020/08/IMG_4073-2-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/wp-content/uploads/2020/08/IMG_4212-4-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/wp-content/uploads/2020/08/IMG_4214-5-scaled.jpg"
+},
+{
+"text": "dr.enoch@enochforcongress.com",
+"href": "mailto:dr.enoch@enochforcongress.com"
+}
 ]

@@ -1,16 +1,1 @@
-top of page
-CAMPAIGN NEWS
-THE LATEST UPDATES
-➡ Milpitas Beats News Article:
-➡ Candidate Forum at SF Bay University:
-VIDEO (intros begin at 6:50):
-https://www.youtube.com/watch?v=mgcZJ4VpiKI&t=8s
-ARTICLES:
-➡ Article on Sing Tao Newspaper:
-➡ Campaign Update & Auction Fundraiser:
-➡ Interview with Liam of UChannel TV:
-https://youtu.be/gk_yOGX8fWE
-➡ Campaign Kickoff Party:
-➡ State of the Union Watch Party:
-➡ Taiwanese New Year's Flag Raising Ceremony:
-bottom of page
+top of page MAX HSIA FOR STATE ASSEMBLY DISTRICT 24 Help Max Win SUBSCRIBE Home About Events Volunteer Contact Endorsements Community Outreach NEWS Campaign Activities CAMPAIGN NEWS THE LATEST UPDATES ➡ Milpitas Beats News Article: https://milpitasbeat.com/assembly-district-24-candidate-max-hsia-seeks-to-break-democratic-stronghold/ ➡ Candidate Forum at SF Bay University: VIDEO (intros begin at 6:50): https://www.youtube.com/watch?v=mgcZJ4VpiKI&t=8s ​ ARTICLES: https://sf-epochtimes-com.translate.goog/2026/04/17/55254.html?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=zh-TW&_x_tr_pto=wapp https://www-singtaousa-com.translate.goog/2026/04/19/news/usa/california-24th-district-election-debate/?fbclid=IwY2xjawRU8kBleHRuA2FlbQIxMABicmlkETF3Z01tSkNMS01MMFZrcDA0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsQTYEGYETylWYcYQW9z31Ws7MwGJvxx3JjQUMzTXc9XOANSboVS6VmZ000v_aem_ZmFrZWR1bW15MTZieXRlcw&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp ➡ Article on Sing Tao Newspaper: ➡ Campaign Update & Auction Fundraiser : ​ https://sf-epochtimes-com.translate.goog/2026/04/04/54702.html?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en ​ ➡ Interview with Liam of UChannel TV: ​ https://youtu.be/gk_yOGX8fWE ​ ​ ​ ​ ​ ​ ​ ​​​ ​ ​ ​ ​ ​ ​ ​ ➡ Campaign Kickoff Party: ​ https://sf-epochtimes-com.translate.goog/2026/01/28/51939.html?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en ➡ State of the Union Watch Party: https://sf-epochtimes-com.translate.goog/2026/02/25/53147.html?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en ➡ Taiwanese New Year's Flag Raising Ceremony: https://sf-epochtimes-com.translate.goog/2026/01/01/51063.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp ​ ​ ➡ Opposing Measure A (higher sales tax) and Proposition 50: https://sf-epochtimes-com.translate.goog/2025/10/11/47805.html?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail Home About Me News Events Get Involved Contact MAX HSIA FOR STATE ASSEMBLY D24 Paid for by Max Hsia for Assembly 2026 Terms & Conditions bottom of page

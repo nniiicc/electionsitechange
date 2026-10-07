@@ -1,4 +1,4 @@
-On April 7th, the House took up the budget for the 2018-2019 biennium.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements April 20, 2017 Jeff Frazier Sit-Rep #6 - Budgets April 20, 2017 Jeff Frazier On April 7th, the House took up the budget for the 2018-2019 biennium.
 With over four hundred amendments filed for consideration, the hearing on the floor of the House went past midnight into the early hours of the next morning.
 Despite having over 14 hours to debate the budget, we were barely able to scratch the surface of the issues our state faces in spending, investment, and planning.
 I'd like to take some time to lay out what I saw in the process, let you know why I voted as I did on the budget, and how I'd like to see our process work in the future.
@@ -28,3 +28,15 @@ While this isn’t a very popular notion, it is at least transparent, unlike the
 What's more, placing our infrastructure at risk to hide the need for a savings withdrawal may actually end up hurting our credit rating more than the withdrawal.
 Neither option was ideal, but I chose to vote for the one closest to my principles of budgeting.
 If we want to move Texas forward, it will take getting past these kinds of games, and getting toward a real vision, with long term planning and honest, responsible, solid numbers.
+April 20, 2017 Jeff Frazier Jeff Frazier Sit-Rep #7 - Budgets (part 2) & School Finance Reform Sit-Rep #5 - SB 6 & HB 2899 Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

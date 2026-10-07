@@ -1,7 +1,4 @@
-- Capitol Corner: Pre-Filed Bills 2026 13–20 minutes
-- October Neighborhood Tour Slides 7–10 minutes
-- Murray Passes Language to Protect Workers 2–3 minutes
-- 8th Ward Alderman Debate 1–2 minutes
-- Capitol Corner: April 2024 4–6 minutes
-- Hon.
-Marty Murray Opens Roy Clay Computer Lab 2–3 minutes
+Marty Joe Murray, Jr Home Biography Legislation Capitol Corner Jobs Press Vimeo Missouri Dem Party Contact Donate Here Category: Opinion Editorials Capitol Corner: Pre-Filed Bills 2026 December 8, 2025 13–20 minutes October Neighborhood Tour Slides November 21, 2025 7–10 minutes Rep Marty Joe Murray to Host Utility Assistance Fair September 19, 2025 5–8 minutes Gerrymandering & Citizen Petition Sabotage Testimony September 4, 2025 1–2 minutes Murray Passes Language to Protect Workers July 14, 2025 2–3 minutes 8th Ward Alderman Debate June 28, 2025 1–2 minutes HB900: The Revitlizing Downtown and Main Streets Act (Hearing) February 25, 2025 1–2 minutes Capitol Corner: April 2024 September 6, 2024 4–6 minutes Missouri’s Cruel New Homelessness Law Makes the Problem Worse January 30, 2023 3–5 minutes Hon.
+Marty Murray Opens Roy Clay Computer Lab December 21, 2021 2–3 minutes 1 2 Next Page Website Biography Opinion Editorials Endorsements Facebook Twitter LinkedIn Instagram YouTube Subscribe Subscribed Marty Joe Murray, Jr Join 840 other subscribers Sign me up Have a WordPress.com account?
+Log in now.
+Marty Joe Murray, Jr View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

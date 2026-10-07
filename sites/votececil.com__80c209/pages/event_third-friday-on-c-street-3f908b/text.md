@@ -1,4 +1,3 @@
-| Event Start Date: February 20, 2026 | Event End Date: February 20, 2026 | Event Venue: Commercial Street Springfield Missouri |
-Join Cecil Ince, candidate for Missouri State Senate District 30, on C-Street this Third Friday!
-* Meet Cecil and hear his vision for Missouri’s future
-* Discuss the issues that matter most to you and your family.
+Skip to content Home Candidate Bio Platform Issues Donate Volunteer Campaign Calendar In the News Endorsements Adopt-a-street Links Contact Us Cecil Ince for Missouri State Senate Vote November 3rd Event Start Date: February 20, 2026 Event End Date: February 20, 2026 Event Venue: Commercial Street Springfield Missouri Join Cecil Ince, candidate for Missouri State Senate District 30, on C-Street this Third Friday! * Meet Cecil and hear his vision for Missouri’s future * Discuss the issues that matter most to you and your family.
+PAID FOR BY THE COMMITTEE TO ELECT CECIL INCE Toggle Statistics Statistics Toggle Google Analytics Google Analytics Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.
+Service URL: policies.google.com (opens in a new window) Accept All Close Save and Close Powered by (opens in a new window) Home Candidate Bio Platform Issues Donate Volunteer Campaign Calendar In the News Endorsements Adopt-a-street Links Contact Us

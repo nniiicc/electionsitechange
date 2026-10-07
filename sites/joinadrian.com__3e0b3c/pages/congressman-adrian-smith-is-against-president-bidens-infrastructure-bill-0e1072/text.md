@@ -1,13 +1,16 @@
-KEARNEY, Neb. — Congressman Adrian Smith voiced his opinion about President Joe Biden’s Infrastructure bill with NTV News on Thursday.
+Skip to content Phone 308-220-3211 | committee@joinadrian.com Facebook DONATE TODAY!
+Search for: Home About Issues Media News Photos Donate Volunteer Contact Search for: Home About Issues Media News Photos Donate Volunteer Contact Home About Issues Media News Photos Donate Volunteer Contact Congressman Adrian Smith is against President Biden’s infrastructure bill Previous Next Congressman Adrian Smith is against President Biden’s infrastructure bill By Risell Ventura, Nebraska.tv, Thursday, November 11, 2021 — KEARNEY, Neb. — Congressman Adrian Smith voiced his opinion about President Joe Biden’s Infrastructure bill with NTV News on Thursday.
 The White House recently announced the largest federal investment in infrastructure in more than a decade will be signed into law by President Biden on Monday.
 Members of Congress helped the President write the $1 trillion piece of legislation to improve the nation’s roads, bridges, and waterways.
 Congressman Adrian Smith said the bill doesn’t include traditional and needed infrastructure.
 He said one of the highest priorities in this bill is electric vehicles and charging stations.
 Smith said he chose to not support this bill because it focuses on things that are not needed in rural Nebraska.
 “The negative aspects outweigh the positive aspects, but this bill has been part of a larger, so-called, reconciliation bill and expansion of the federal government programs that I think will undermine the disruption of our supply chain,” the congressman said.
-Smith added that he agrees with the bill including broadband for rural communities.
-“…But there were just negative aspects of the bill that concern me a lot,” Smith said.
+Smith added that he agrees with the bill including broadband for rural communities. “…But there were just negative aspects of the bill that concern me a lot,” Smith said.
 The legislation includes nearly $550 billion in new funding for transportation, broadband, and utilities.
 The bill will invest $65 billion in expanding broadband access.
 It will put $55 billion into water systems, including lead pipe replacements.
 It will also invest $110 billion into roads, bridges, and other major projects while directing $66 billion toward passenger and freight rail improvements, and $39 billion into public transit.
+Read more: https://nebraska.tv/news/local/congressman-adrian-smith-is-against-president-bidens-infrastructure-bill Adrian Smith for Congress 2022-01-18T08:54:41-06:00 November 12th, 2021 | Media coverage | Share This Story, Choose Your Platform!
+Facebook X Reddit LinkedIn Tumblr Pinterest Email 1126 Avenue A, #6 Scottsbluff, NE 69361 Phone: 308-220-3211 Fax: 308-635-7412 Email: committee@joinadrian.com Web: http://joinadrian.com Recent News Congressman Smith welcomes President Trump to Grand Island October 5, 2026 We’ve delivered results, and we’ll keep working until the job is done!
+May 8, 2026 “Ranchers for Adrian” joins growing list of Endorsements for Proven Conservative Nebraska Congressman Adrian Smith May 8, 2026 Adrian Smith Files for Re-election to Defend Conservative Leadership and Advance President Trump’s Agenda January 16, 2026 President Trump endorses Adrian Smith re-election in 2026 to Nebraska’s Third Congressional District November 4, 2025 Follow Adrian on Facebook Paid for by Adrian Smith for Congress | All Rights Reserved Facebook Page load link Go to Top

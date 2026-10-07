@@ -1,12 +1,46 @@
 [
-"https://facebook.com/profile.php?id=1339457353",
-"https://instagram.com/jgarypretlow",
-"https://secure.actblue.com/donate/james-gary-pretlow-1",
-"https://twitter.com/JGPretlow",
-"https://votepretlow.com/",
-"https://votepretlow.com/about",
-"https://votepretlow.com/contact",
-"https://votepretlow.com/contribute",
-"https://votepretlow.com/legislation",
-"https://votepretlow.com/news"
+{
+"text": "CONTACT",
+"href": "https://votepretlow.com/contact"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://votepretlow.com/contribute"
+},
+{
+"text": "Donate/ Act Blue",
+"href": "https://secure.actblue.com/donate/james-gary-pretlow-1"
+},
+{
+"text": "Home",
+"href": "https://votepretlow.com/"
+},
+{
+"text": "Legislation",
+"href": "https://votepretlow.com/legislation"
+},
+{
+"text": "NEWS",
+"href": "https://votepretlow.com/news"
+},
+{
+"text": "Vote Pretlow",
+"href": "https://votepretlow.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JGPretlow"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=1339457353"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jgarypretlow/"
+},
+{
+"text": "about",
+"href": "https://votepretlow.com/about"
+}
 ]

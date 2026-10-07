@@ -1,13 +1,10 @@
-Reducing the Cost of living:
-Putting families first
-Wisconsin families are being squeezed by the rising cost of housing, health care, child care, utilities, groceries, and nearly everything else.
+0 Skip to Content Home About Mike Meet Mike Why I'm Running Contact Me Issues Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Get Involved Volunteer Events District Map Donate Open Menu Close Menu Open Menu Close Menu Home About Mike Meet Mike Why I'm Running Contact Me Issues Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Get Involved Volunteer Events District Map Donate Home Folder: About Mike Back Meet Mike Why I'm Running Contact Me Folder: Issues Back Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Folder: Get Involved Back Volunteer Events District Map Donate Reducing the Cost of living: Putting families first Wisconsin families are being squeezed by the rising cost of housing, health care, child care, utilities, groceries, and nearly everything else.
 There is a difference between money that is earned by building something, growing something, or providing a valuable service and money that is extracted through monopolies, middlemen, hidden fees, and fine print.
 A healthy market rewards value.
 A rigged market rewards whoever has enough power to write the rules.
 Government should not pick winners and losers.
 Its job is to be a fair referee, enforce clear rules, and make sure working families are not paying the price for someone else’s sweetheart deal.
-In the State Senate, I’ll work to:
-Build housing people can afford and protect the homes they already own.
+In the State Senate, I’ll work to: Build housing people can afford and protect the homes they already own.
 Cut unnecessary permitting delays, modernize zoning, and reduce barriers to starter homes and workforce housing.
 Pair that with structural property tax relief so families are not priced out of homes they already own.
 Lower health care and prescription drug costs.
@@ -25,3 +22,4 @@ Protect Wisconsinites from unnecessary surveillance by both government and priva
 Businesses should compete by offering better products and services, not by tracking people, manipulating their choices, or using information customers never knowingly agreed to surrender.
 We can make Wisconsin more affordable without creating another layer of bureaucracy.
 We do it by restoring competition, protecting personal freedom, enforcing clear rules, and making sure the people profiting from the squeeze play by the same rules as the families paying the bill.
+Volunteer Donate info@MikeVanSomeren.com (262) 264-8640 PO Box 366 Pewaukee, WI 53072 Donate

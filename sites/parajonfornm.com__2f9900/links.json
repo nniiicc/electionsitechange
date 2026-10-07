@@ -1,11 +1,46 @@
 [
-"https://electronicpetitions.elections.sos.nm.gov/cristina-parajon",
-"https://facebook.com/people/Cristina-Parajon/61555885730993",
-"https://instagram.com/parajon4nm?hl=en",
-"https://linkedin.com/in/cristina-paraj%C3%B3n-8a2ab1146",
-"https://parajonfornm.com/",
-"https://parajonfornm.com/about",
-"https://parajonfornm.com/news",
-"https://parajonfornm.com/projects-6",
-"https://secure.actblue.com/donate/parajon-for-nm"
+{
+"text": "Home",
+"href": "https://www.parajonfornm.com"
+},
+{
+"text": "INVEST",
+"href": "https://secure.actblue.com/donate/parajon-for-nm"
+},
+{
+"text": "ISSUES",
+"href": "https://www.parajonfornm.com/projects-6"
+},
+{
+"text": "MEET CRISTINA",
+"href": "https://www.parajonfornm.com/about"
+},
+{
+"text": "NEWS",
+"href": "https://www.parajonfornm.com/news"
+},
+{
+"text": "SIGN HERE",
+"href": "https://www.electronicpetitions.elections.sos.nm.gov/cristina-parajon"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/people/Cristina-Parajon/61555885730993/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/parajon4nm/?hl=en"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/cristina-paraj%C3%B3n-8a2ab1146/"
+},
+{
+"text": "cristina.parajon@nmlegis.gov",
+"href": "mailto:cristina.parajon@nmlegis.gov"
+},
+{
+"text": "parajon.for.nm@gmail.com",
+"href": "mailto:parajon.for.nm@gmail.com"
+}
 ]

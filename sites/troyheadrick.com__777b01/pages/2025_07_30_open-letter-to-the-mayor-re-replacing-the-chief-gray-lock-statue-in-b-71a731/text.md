@@ -1,10 +1,4 @@
-Open Letter to the Mayor Re: Replacing the Chief Gray Lock Statue in Battery Park
-From: Troy Headrick
-Sent: Saturday, June 28, 2025 11:05:28 AM
-To: dkraft@burlingtoncityarts.org <dkraft@burlingtoncityarts.org>; Mayor’s Office <mayor@burlingtonvt.gov>; Erin Jacobsen <ejacobsen@burlingtonvt.gov>
-Subject: Aligning Burlington’s Indigenous Engagement with UNDRIP: Request for Inclusion of Odanak and Wôlinak Abenaki in Public Art
-Dear Director Kraft, Mayor Mulvaney‑Stanak, and Chief of Staff Jacobsen,
-I write regarding Burlington City Arts’ recent announcement to commission an Indigenous artist for the sculpture replacing Chief Gray Lock.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Uncategorized / Open Letter to the Mayor Re: Replacing the Chief Gray Lock Statue in Battery Park July 30, 2025 From: Troy Headrick Sent: Saturday, June 28, 2025 11:05:28 AM To: dkraft@burlingtoncityarts.org <dkraft@burlingtoncityarts.org>; Mayor’s Office <mayor@burlingtonvt.gov>; Erin Jacobsen <ejacobsen@burlingtonvt.gov> Subject: Aligning Burlington’s Indigenous Engagement with UNDRIP: Request for Inclusion of Odanak and Wôlinak Abenaki in Public Art Dear Director Kraft, Mayor Mulvaney‑Stanak, and Chief of Staff Jacobsen, I write regarding Burlington City Arts’ recent announcement to commission an Indigenous artist for the sculpture replacing Chief Gray Lock.
 This is an important and long-overdue opportunity to honor Indigenous presence in our region.
 However, I urge your offices to ensure this effort aligns with both historical accuracy and international human rights standards, specifically the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP).
 Under Article 19 of UNDRIP, governments are required to obtain the free, prior, and informed consent (FPIC) of Indigenous peoples through their own representative institutions before adopting policies or actions that affect them.
@@ -21,6 +15,7 @@ I am more than willing to assist in this effort.
 I can facilitate introductions to Odanak leaders as well as Vermont-based scholars and community members who have worked in close partnership with them.
 Thank you for considering this request.
 I would welcome the opportunity to speak further about how Burlington can ensure its public commitments to equity and inclusion extend to Indigenous communities with actual, documented histories on this land.
-Respectfully,
-Troy Headrick
-State Representative, Chittenden-15
+Respectfully, Troy Headrick State Representative, Chittenden-15 < My Open Letter to the Speaker of the House Regarding the Vote Procedures on H.
+454 > This IS Vermont.
+Let’s Stop Pretending Otherwise.
+Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

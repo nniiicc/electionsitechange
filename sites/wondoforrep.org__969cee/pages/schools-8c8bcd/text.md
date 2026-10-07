@@ -1,5 +1,4 @@
-Our Rural Schools Are Aching for a New Funding Formula
-Our local schools are the heart of our communities.
+Skip to Content Open Menu Close Menu Events Endorsements Issues About Get Involved Contact Store ( 0 ) Cart ( 0 ) DONATE Events Endorsements Issues About Get Involved Contact Store ( 0 ) Cart ( 0 ) DONATE Open Menu Close Menu Events Endorsements Issues About Get Involved Contact Store DONATE Our Rural Schools Are Aching for a New Funding Formula Our local schools are the heart of our communities.
 A public school is where Friday night basketball games bring neighbors together.
 It's where concerts, community meetings, and town celebrations happen.
 It's where children build friendships, discover their passions, and prepare for the future.
@@ -38,10 +37,9 @@ A funding system that ignores these realities is not equitable.
 It leaves rural communities way behind.
 The Student Opportunity Act made important progress by investing more in schools with high concentrations of poverty and English learners.
 While that investment was certainly a welcome start, we also need to recognize that rural districts face structural challenges that the current formula doesn't address.
-I want to work for rural communities to have:
--Updated, strengthened statewide rural school aid formulas.
--Fully funded regional transportation.
--Resources to maintain safe buildings and support students' mental and physical health.
+I want to work for rural communities to have: -Updated, strengthened statewide rural school aid formulas. -Fully funded regional transportation. -Resources to maintain safe buildings and support students' mental and physical health.
 Every child, regardless of zip code, deserves access to a well-rounded public education.
 Every community deserves a funding system that supports its present needs and future growth.
 Our students deserve the same opportunities as children anywhere else in Massachusetts.
+DONATE Contact info@wondoforrep.org P.O.
+Box 19, Greenfield, MA 01302

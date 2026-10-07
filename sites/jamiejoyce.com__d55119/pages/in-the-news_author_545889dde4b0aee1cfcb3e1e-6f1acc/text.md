@@ -1,12 +1,13 @@
-Incumbent Refuses Four Chances by the League of Women Voters to Debate Jamie
-For the second time in this election, the League of Women Voters has confirmed via email that the incumbent congresswoman, Lateefah Simon, has declined to participate in a forum with Jamie.
+0 Skip to Content ✔ About Jamie ✔ Endorsements ✔ Serving the District District Overview Berkeley Oakland San Leandro Piedmont Alameda Albany Albany ✔ Read The MAD Act ✔ Volunteer ✔ Contact ✔ News ❤️ DONATE English DONATE Open Menu Close Menu Open Menu Close Menu ✔ About Jamie ✔ Endorsements ✔ Serving the District District Overview Berkeley Oakland San Leandro Piedmont Alameda Albany Albany ✔ Read The MAD Act ✔ Volunteer ✔ Contact ✔ News ❤️ DONATE English DONATE ✔ About Jamie ✔ Endorsements Folder: ✔ Serving the District Back District Overview Berkeley Oakland San Leandro Piedmont Alameda Albany Albany ✔ Read The MAD Act ✔ Volunteer ✔ Contact ✔ News ❤️ DONATE English Back DONATE Jamie Joyce 9/17/26 Jamie Joyce 9/17/26 Incumbent Refuses Four Chances by the League of Women Voters to Debate Jamie For the second time in this election, the League of Women Voters has confirmed via email that the incumbent congresswoman, Lateefah Simon, has declined to participate in a forum with Jamie.
 They offered two dates during the primary election, and two dates for the general - the incumbent has declined all four dates in total.
-Jamie Joyce Endorsed by Famous Tech Ethicist and ‘The AI Doc’ Producer
-East Bay underdog, Jamie Joyce, has been endorsed by a famous tech ethicist, and the producer of the new Netflix film, “The AI Doc.” AI is going to be one of our biggest challenges to navigate in the next two years, so Jamie Joyce is running for Congress because we need in-house expertise - plus Jamie already has a bill draft about AI ready to go.
-Jamie Covered in National News
-Congressional Candidate Jamie Joyce’s message for government reform starts picking up attention.
+Read More Jamie Joyce 9/17/26 Jamie Joyce 9/17/26 Jamie Joyce Endorsed by Famous Tech Ethicist and ‘The AI Doc’ Producer East Bay underdog, Jamie Joyce, has been endorsed by a famous tech ethicist , and the producer of the new Netflix film, “ The AI Doc .” AI is going to be one of our biggest challenges to navigate in the next two years, so Jamie Joyce is running for Congress because we need in-house expertise - plus Jamie already has a bill draft about AI ready to go.
+Read More Jamie Joyce 7/11/26 Jamie Joyce 7/11/26 Jamie Covered in National News Congressional Candidate Jamie Joyce’s message for government reform starts picking up attention.
 The only thing keeping us from large-scale government reform is the will to coordinate and pressure Congress to act.
 Precedents exist, we simply have to decide to not be jaded and instead choose to fight until the job is done.
-Jamie Speaks In D.C.; Endorsed by Epstein Survivors
-Congressional candidate Jamie Joyce presents draft legislation to fix three flaws in the Epstein Files Transparency Act in D.C. at the Redacted Reading Room.
+Read More Jamie Joyce 6/29/26 Jamie Joyce 6/29/26 Jamie Speaks In D.C.; Endorsed by Epstein Survivors Congressional candidate Jamie Joyce presents draft legislation to fix three flaws in the Epstein Files Transparency Act in D.C. at the Redacted Reading Room.
 The Proposal would protect survivors, broaden records requests beyond the DOJ, and use Congress's own power to declassify, with backing from Epstein survivors.
+Read More In the News We can’t let a “blue wave” become “business as usual” Jamie is running to represent Berkeley, Oakland, Alameda, Albany, Emeryville, San Leandro, and Piedmont Paid for by Jamie Joyce for Congress Mailing Address: 1400 Shattuck Ave, STE 12, PMB 116 Berkeley, CA 94709 Also, PSA: Do not let LLMs tell you who to vote for.
+In tests we performed, they bias towards incumbents.
+They were not trained to be nuanced about political matters, accept surface-level claims, and it’s highly unethical that they would even suggest an opinion.
+LLMs focus on items like voting record, when a challenger who is not an incumbent has no opportunity to demonstrate one.
+Also, LLMs focus on how MUCH money, but they should consider WHERE the money comes from: for example, the incumbent accepts Pro-Israel money and corporate PAC money, which many voters in this district should be aware of.

@@ -1,12 +1,46 @@
 [
-"http://assembly.state.ny.us/mem/Noah-Burroughs",
-"https://facebook.com/nl.lee.92",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/burroughsny18",
-"https://noahburroughs.com/",
-"https://otda.ny.gov/programs/summer-ebt",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/noah-burroughs-18",
-"https://state.nokidhungry.org/new-york/summer-ebt"
+{
+"text": "Donate today",
+"href": "https://secure.actblue.com/donate/noah-burroughs-18"
+},
+{
+"text": "NYS Office of Temporary Disability Assistance (OTDA)",
+"href": "https://otda.ny.gov/programs/summer-ebt/"
+},
+{
+"text": "No Kid Hungry New York’s website",
+"href": "https://state.nokidhungry.org/new-york/summer-ebt/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Visit",
+"href": "http://assembly.state.ny.us/mem/Noah-Burroughs/"
+},
+{
+"text": "[image: Assemblymember Noah Burroughs]",
+"href": "https://noahburroughs.com/"
+},
+{
+"text": "[image]",
+"href": "https://noahburroughs.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/nl.lee.92/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/burroughsny18/"
+}
 ]

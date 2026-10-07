@@ -1,11 +1,11 @@
-CONTACT: [email protected]
-Alaskans for Mary today announced a statewide community service initiative to activate volunteers every month through November for localized community service efforts.
-On Saturday, March 28, Alaskans for Mary will be activating volunteers to:
-- Fight the housing crisis in Anchorage with Habitat for Humanity
-- Foster community in Bethel at the Cama’i Dance Festival and Community Native Foods Dinner
-“This campaign is about putting Alaska first, and that starts by showing up and supporting our neighbors,” said Mary Peltola.
+Skip to content Facebook-f Instagram X-twitter Threads Tiktok ALASKA FIRST.
+CONTACT My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press Press Releases In the News My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press Press Releases In the News SALMON RUN CALL FOR ARTISTS STORE DONATE Facebook-f Instagram X-twitter Threads Tiktok SALMON RUN CALL FOR ARTISTS My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press In the News Press Releases Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press In the News Press Releases Contact DONATE Alaskans for Mary Announces Community Service Initiative, Monthly Days of Action March 27, 2026 2:13 pm Share this Post: CONTACT: [email protected] Alaskans for Mary today announced a statewide community service initiative to activate volunteers every month through November for localized community service efforts.
+On Saturday, March 28, Alaskans for Mary will be activating volunteers to: Fight the housing crisis in Anchorage with Habitat for Humanity Foster community in Bethel at the Cama’i Dance Festival and Community Native Foods Dinner “This campaign is about putting Alaska first, and that starts by showing up and supporting our neighbors,” said Mary Peltola .
 “Alaskans pitch in to bail out a stranger’s swamping boat, because we know ours could be the next one underwater.
-It’s what makes our state great, and I hope to see you out there.”
-Each month, the campaign will coordinate volunteers in communities across Alaska to participate in local service projects as part of a statewide day of action.
-Volunteers can find more information about the initiative and join the effort here.
+It’s what makes our state great, and I hope to see you out there.” Each month, the campaign will coordinate volunteers in communities across Alaska to participate in local service projects as part of a statewide day of action.
+Volunteers can find more information about the initiative and join the effort here .
 Aimed at creating stronger communities, fostering a culture of service, and engaging Alaskans outside of traditional politics, the initiative will center the campaign’s energized grassroots momentum and relentless focus on putting Alaska first.
+More Statements: PHOTOS: Mary Peltola Rallies Fired-Up Volunteers at Anchorage Field Office READ MORE ICYMI: Mary Peltola Champions Alaska Oil and Gas: “Her Goal Is To Cut Energy Costs For Alaskans As Quickly As Possible” READ MORE Mary Peltola Champions Lifelong Fight for Fisheries at Kodiak Fisheries Debate, Crushes Dan Sullivan & His Lower 48 Anti-Fish Agenda READ MORE PO BOX 90031 Anchorage, AK 99509 EMAIL [email protected] Facebook-f Instagram X-twitter Threads Tiktok PRIVACY POLICY PAID FOR BY ALASKANS FOR MARY Discover more from Mary Peltola Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading WE CAN'T DO IT WITHOUT YOUR HELP.
+Contribute to help Mary’s campaign today.
+MAKE A DONATION GET INVOLVED

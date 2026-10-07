@@ -1,19 +1,2 @@
-Meet Dane
-Priorities
-Endorsements
-Volunteer
-Connect
-Meet Dane
-Priorities
-Endorsements
-Volunteer
-Connect
-Donate TODAY
-Connect with Dane
-Send us a message and please include your name and contact information.
-First Name
-Last Name
-Email
-Phone Number
-Comments
-Send
+Meet Dane Priorities Endorsements Volunteer Connect Meet Dane Priorities Endorsements Volunteer Connect Donate TODAY Connect with Dane Send us a message and please include your name and contact information.
+First Name Last Name Email Phone Number Comments Send Facebook Paid for by I’m For Watro

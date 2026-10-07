@@ -1,5 +1,4 @@
-Meet Tanya
-Tanya’s journey to the Statehouse is not one that was mapped out for her.
+0 Skip to Content Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Meet Tanya Tanya’s journey to the Statehouse is not one that was mapped out for her.
 Growing up working class, Tanya did not see a path to become the social worker and State Senator she is today.
 Working as much as possible in order to make ends meet while going to school, starting when she was a student in Essex High and continuing straight through her undergrad years at Northeastern and grad school at UVM, she understands the tough financial decisions that get made every day by many Vermonters.
 As a therapist with a small practice in Essex Junction working primarily with youth and young adults, Tanya sees up close the struggles that youth and their families are facing.
@@ -10,7 +9,10 @@ Before she ever stepped foot in the Statehouse, she was on the ground as a commu
 The understanding that the real work of supporting communities has to include relationships with people across social and economic divides has informed everything she does as a Senator, a social worker, and a community member.
 She prioritizes bringing people into the Statehouse who are usually left out of testimony to make sure their voices and stories are heard and respected.
 As a democratic socialist who believes in universal single payer healthcare, affordable housing for all, high quality public education from birth to graduation, and strong labor rights, Tanya frequently collaborates with grassroots groups across issues to get the people with the least amount of political power to the committee table.
-This has led her to policy wins that seemed impossible at the beginning of a session including protecting teachers’ pensions, passing S. 209 and S. 227 that protect all Vermonters from civil detainment – regardless of immigration status – at schools and other public buildings, and rejecting forced mergers for public schools.
+This has led her to policy wins that seemed impossible at the beginning of a session including protecting teachers’ pensions, passing S.
+209 and S.
+227 that protect all Vermonters from civil detainment – regardless of immigration status – at schools and other public buildings, and rejecting forced mergers for public schools.
 She was deeply honored to have her work supporting public schools recognized with the 2026 VT National Education Association’s Martha W.
 Allen Friend of Public Education award.
 In her free time she loves working on international workers’ solidarity movements and hiking with her feisty, opinionated, and beloved dog Laika.
+Tanya Vyhovsky for Chittenden Central Senate PO Box 8376 Essex VT 05451 Paid for by Tanya V for VT

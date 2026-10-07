@@ -1,14 +1,66 @@
 [
-"http://tiktok.com/@maryforwa",
-"https://chikphotography.com/",
-"https://facebook.com/maryforwa",
-"https://instagram.com/maryforwa",
-"https://maryforwa.com/",
-"https://maryforwa.com/about",
-"https://maryforwa.com/accessibility-statement",
-"https://maryforwa.com/event-list",
-"https://maryforwa.com/messaging-terms",
-"https://maryforwa.com/privacy-policy",
-"https://secure.actblue.com/donate/maryanito34th",
-"https://wix.com/"
+{
+"text": "About Mary",
+"href": "https://www.maryforwa.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.maryforwa.com/accessibility-statement"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/maryanito34th"
+},
+{
+"text": "Events",
+"href": "https://www.maryforwa.com/event-list"
+},
+{
+"text": "Get Involved",
+"href": "https://www.maryforwa.com"
+},
+{
+"text": "Mary for WA",
+"href": "https://www.maryforwa.com"
+},
+{
+"text": "Photography",
+"href": "https://www.chikphotography.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.maryforwa.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.maryforwa.com/messaging-terms"
+},
+{
+"text": "Why Mary",
+"href": "https://www.maryforwa.com"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/maryforwa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/maryforwa"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://tiktok.com/@maryforwa"
+},
+{
+"text": "[image]",
+"href": "https://www.maryforwa.com"
+},
+{
+"text": "maryforseattle@gmail.com",
+"href": "mailto:maryforseattle@gmail.com"
+}
 ]

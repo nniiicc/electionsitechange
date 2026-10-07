@@ -1,5 +1,4 @@
-Seyfang honored for state discus title
-The Fayette County Commissioners honored Katie Seyfang at their office Monday for her history-making state discus championship for Miami Trace High School.
+Home About Issues Connect News Donate Home About Issues Connect News Donate Seyfang honored for state discus title The Fayette County Commissioners honored Katie Seyfang at their office Monday for her history-making state discus championship for Miami Trace High School.
 Seyfang, daughter of Mike and Ricky Seyfang, was presented with a proclamation signed Monday morning by the commissioners acknowledging her efforts at the 44th-annual girls state track and field meet.
 In June — with a discus throw of 44 feet, five inches — Seyfang claimed the gold and set a new school record in Division II.
 Also during the state meet Seyfang placed third in the shot put competition with a throw of 42 feet, four and one quarter inches.
@@ -8,5 +7,5 @@ She has participated in the organization of Vacation Bible School, is a past mem
 This fall, Seyfang will join the Bowling Green State University Falcons Women’s Track and Field team.
 Additionally, she will enter college with a year of completed courses through the Southern State College Credit Plus Program.
 “Therefore, be it resolved, the Board of Fayette County Commissioners do hereby congratulate Katie Seyfang for being the first female athlete to win a state championship in Miami Trace School history,” the proclamation read.
-The last message to Seyfang on the proclamation was simple: “Dream Big, Work Hard, Stay Humble.”
-Read the original article here
+The last message to Seyfang on the proclamation was simple: “Dream Big, Work Hard, Stay Humble.” Read the original article here Guest User July 30, 2018 Facebook 0 Twitter Pinterest 0 0 Likes Previous Ohio State Fair photo highlights Guest User August 1, 2018 Next GAHS student attends ARC program Guest User July 25, 2018 About Issues Connect Privacy Paid for by Peterson for Good Government LISA PETERSON, TREASURER, 5564 GRASSY BRANCH RD.
+SABINA, OH 45169

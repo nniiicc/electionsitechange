@@ -1,7 +1,20 @@
 {
  "description": "Please click on the image to zoom in on a specific area",
  "final_url": "http://www.jeffderepresentative.com/11th-representative-district-map-delaware/",
- "paid_for_by": null,
+ "fingerprint": "70dad45e0eedae58ea6743f8f87e2887982e6d40",
+ "format": 3,
+ "paid_for_by": "",
  "title": "11th Representative District Map - Delaware - Jeff Spiegelman | 11th Representative District",
- "years_mentioned": []
+ "years_mentioned": [
+  "2014",
+  "2015",
+  "2016",
+  "2017",
+  "2018",
+  "2019",
+  "2020",
+  "2021",
+  "2022",
+  "2026"
+ ]
 }

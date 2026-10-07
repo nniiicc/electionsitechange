@@ -1,5 +1,6 @@
-Andrewformn@gmail.com
-Prepared and paid for by Andrew Hattaway for MN | P.O.
-Box 22414, Eagan, MN 55122
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+A better tomorrow begins with today.
+Home ABOUT ANDREW ENDORSEMENTS Why I'm Running My Policy Plans Homestead Protection Act First Responder Support SRO & School Traffic VOTER RESOURCES RE-ELECTION PLEDGE Events VOLUNTEER DONATE Gallery SUPPORT THE CAMPAIGN More Home ABOUT ANDREW ENDORSEMENTS Why I'm Running My Policy Plans Homestead Protection Act First Responder Support SRO & School Traffic VOTER RESOURCES RE-ELECTION PLEDGE Events VOLUNTEER DONATE Gallery SUPPORT THE CAMPAIGN Home ABOUT ANDREW ENDORSEMENTS Why I'm Running My Policy Plans Homestead Protection Act First Responder Support SRO & School Traffic VOTER RESOURCES RE-ELECTION PLEDGE Events VOLUNTEER DONATE Gallery SUPPORT THE CAMPAIGN Show More ENDORSEMENTS VOTER RESOURCES RE-ELECTION PLEDGE VOLUNTEER SUPPORT THE CAMPAIGN ANNOUNCEMENT/RELEASE TERMS & CONDITIONS Andrewformn@gmail.com Prepared and paid for by Andrew Hattaway for MN | P.O.
+Box 22414, Eagan, MN 55122 Join the fight.
+Let’s do this together.
+Invest in a better future for District 56B.
+DONATE

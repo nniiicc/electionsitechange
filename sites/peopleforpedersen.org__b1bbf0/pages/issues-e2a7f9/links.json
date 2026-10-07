@@ -1,16 +1,66 @@
 [
-"https://app.leg.wa.gov/billsummary?BillNumber=2049&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=5263&Year=2025&Initiative=false",
-"https://designedtorun.com/",
-"https://drive.google.com/drive/folders/16kxF58ES1kfKHDaYytm0ujnWVRPO5UKX?usp=drive_link",
-"https://facebook.com/peopleforpedersen",
-"https://instagram.com/peopleforpedersen",
-"https://peopleforpedersen.org/",
-"https://peopleforpedersen.org/about",
-"https://peopleforpedersen.org/contact",
-"https://peopleforpedersen.org/donate",
-"https://peopleforpedersen.org/endorsements",
-"https://peopleforpedersen.org/media-gallery",
-"https://peopleforpedersen.org/news",
-"https://peopleforpedersen.org/volunteer"
+{
+"text": "About",
+"href": "https://www.peopleforpedersen.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.peopleforpedersen.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.peopleforpedersen.org/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.peopleforpedersen.org/endorsements"
+},
+{
+"text": "Gallery",
+"href": "https://www.peopleforpedersen.org/media-gallery"
+},
+{
+"text": "HB 2049",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2049&Year=2025&Initiative=false"
+},
+{
+"text": "Media Gallery",
+"href": "https://drive.google.com/drive/folders/16kxF58ES1kfKHDaYytm0ujnWVRPO5UKX?usp=drive_link"
+},
+{
+"text": "News",
+"href": "https://www.peopleforpedersen.org/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "SB 5263",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5263&Year=2025&Initiative=false"
+},
+{
+"text": "Volunteer",
+"href": "https://www.peopleforpedersen.org/volunteer"
+},
+{
+"text": "[image: Jamie Pedersen for Re-election logo]",
+"href": "https://www.peopleforpedersen.org/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.peopleforpedersen.org/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/peopleforpedersen"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/peopleforpedersen"
+},
+{
+"text": "campaign@peopleforpedersen.org.",
+"href": "mailto:campaign@peopleforpedersen.org"
+}
 ]

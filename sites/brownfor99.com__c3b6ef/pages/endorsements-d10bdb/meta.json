@@ -1,7 +1,11 @@
 {
  "description": "Dr. Brown for House District 99's campaign",
  "final_url": "https://www.brownfor99.com/endorsements",
+ "fingerprint": "ce7d74b8fd0dc86398ce64a6c2179e8de7125b35",
+ "format": 3,
  "paid_for_by": "Paid for By the Dr",
- "title": "Endorsements \u2014 Dr. Brown for House District 99",
- "years_mentioned": []
+ "title": "Endorsements — Dr. Brown for House District 99",
+ "years_mentioned": [
+  "2026"
+ ]
 }

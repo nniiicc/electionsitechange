@@ -1,4 +1,5 @@
-- This event has passed.
-Please join the Milford Democratic Town Committee and the Orange Democratic Town Committee for their fundraiser at Tribus Brewery.
+maroneyforus.com United States james@maroneyforus.com Home About James Senator Maroney Accomplishments Policy Goals Volunteer Internship Home About James Senator Maroney Accomplishments Policy Goals Volunteer Internship Home Event News About James Accomplishments Policy Goals Volunteer Internship Home Event News About James Accomplishments Policy Goals Volunteer Internship Events « All Events This event has passed.
+MDTC and ODTC Fundraiser September 21, 2021 @ 5:00 am - 7:00 pm Please join the Milford Democratic Town Committee and the Orange Democratic Town Committee for their fundraiser at Tribus Brewery.
 Food will be catered by Seeley’s Deli and the music will be provided by Brian Finch.
 Please join the town committees for an evening of friends, conversation, music and local craft beer.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: September 21, 2021 Time: 5:00 am - 7:00 pm Venue Tribus Brewery 100 Raton Drive, Milford + Google Map About Me James Maroney for State Senate Proudly serving Milford, Orange, West Haven, and Woodbridge Quick Links Meet James Results Issues News Volunteer Get In Touch + 1 (203) 214 9133 james@maroneyforus.com United States Maroney For Us! © All Rights Reserved.

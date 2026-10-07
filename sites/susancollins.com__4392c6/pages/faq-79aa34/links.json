@@ -1,35 +1,142 @@
 [
-"http://collins.senate.gov/services/funding-maines-future",
-"http://congress.gov/",
-"https://facebook.com/collins4senator",
-"https://instagram.com/susancollinsforsenate",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=100&web_id=susancollins_faq_donatebar100",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=1000&web_id=susancollins_faq_donatebar1000",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=25&web_id=susancollins_faq_donatebar25",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=50&web_id=susancollins_faq_donatebar50",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=500&web_id=susancollins_faq_donatebar500",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?web_id=susancollins_faq_donatebar",
-"https://secure.winred.com/susan-collins/moose-wink",
-"https://susancollins.com/",
-"https://susancollins.com/about",
-"https://susancollins.com/faq",
-"https://susancollins.com/get-involved",
-"https://susancollins.com/get-involved/campaign-chairs",
-"https://susancollins.com/get-involved/coalitions",
-"https://susancollins.com/get-the-facts/did-susan-collins-fund-rural-hospitals",
-"https://susancollins.com/get-the-facts/did-susan-collins-lower-drug-prices",
-"https://susancollins.com/get-the-facts/did-susan-collins-support-firefighters",
-"https://susancollins.com/get-the-facts/what-did-susan-collins-do-for-clean-water-in-maine",
-"https://susancollins.com/get-the-facts/what-has-senator-collins-done-for-maine-lobstermen",
-"https://susancollins.com/get-the-facts/what-has-susan-collins-done-on-alzheimers-and-caregiver-support",
-"https://susancollins.com/media-kit",
-"https://susancollins.com/news",
-"https://susancollins.com/privacy-policy",
-"https://susancollins.com/store",
-"https://susancollins.com/terms-and-conditions",
-"https://susancollins.com/track-record",
-"https://susancollins.com/vote",
-"https://x.com/SenSusanCollins",
-"https://youtube.com/@susancollins4senator"
+{
+"text": "$100",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=100&web_id=susancollins_faq_donatebar100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=1000&web_id=susancollins_faq_donatebar1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=25&web_id=susancollins_faq_donatebar25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=50&web_id=susancollins_faq_donatebar50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=500&web_id=susancollins_faq_donatebar500"
+},
+{
+"text": "About",
+"href": "https://susancollins.com/about/"
+},
+{
+"text": "Campaign Chairs",
+"href": "https://susancollins.com/get-involved/campaign-chairs/"
+},
+{
+"text": "Congress.gov.",
+"href": "http://congress.gov/"
+},
+{
+"text": "Did Susan Collins fund rural hospitals?",
+"href": "https://susancollins.com/get-the-facts/did-susan-collins-fund-rural-hospitals/"
+},
+{
+"text": "Did Susan Collins lower drug prices?",
+"href": "https://susancollins.com/get-the-facts/did-susan-collins-lower-drug-prices/"
+},
+{
+"text": "Did Susan Collins support firefighters?",
+"href": "https://susancollins.com/get-the-facts/did-susan-collins-support-firefighters/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026"
+},
+{
+"text": "FAQs",
+"href": "https://susancollins.com/faq/"
+},
+{
+"text": "Get Involved",
+"href": "https://susancollins.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://susancollins.com/"
+},
+{
+"text": "Join a Coalition",
+"href": "https://susancollins.com/get-involved/coalitions/"
+},
+{
+"text": "Media Kit",
+"href": "https://susancollins.com/media-kit/"
+},
+{
+"text": "News",
+"href": "https://susancollins.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?web_id=susancollins_faq_donatebar"
+},
+{
+"text": "Privacy Policy",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://susancollins.com/store/"
+},
+{
+"text": "Terms & conditions / privacy policy apply",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://susancollins.com/terms-and-conditions/"
+},
+{
+"text": "Track Record",
+"href": "https://susancollins.com/track-record/"
+},
+{
+"text": "Vote",
+"href": "https://susancollins.com/vote/"
+},
+{
+"text": "What did Susan Collins do for clean water in Maine?",
+"href": "https://susancollins.com/get-the-facts/what-did-susan-collins-do-for-clean-water-in-maine/"
+},
+{
+"text": "What has Senator Collins done for Maine lobstermen?",
+"href": "https://susancollins.com/get-the-facts/what-has-senator-collins-done-for-maine-lobstermen/"
+},
+{
+"text": "What has Susan Collins done on Alzheimer’s and caregiver support?",
+"href": "https://susancollins.com/get-the-facts/what-has-susan-collins-done-on-alzheimers-and-caregiver-support/"
+},
+{
+"text": "[image: Collins for Senator]",
+"href": "https://susancollins.com"
+},
+{
+"text": "[image: TV Starter 3.0]",
+"href": "https://secure.winred.com/susan-collins/moose-wink"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/collins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/susancollinsforsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@susancollins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SenSusanCollins"
+},
+{
+"text": "collins.senate.gov/services/funding-maines-future",
+"href": "http://collins.senate.gov/services/funding-maines-future"
+}
 ]

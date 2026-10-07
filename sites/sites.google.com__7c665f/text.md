@@ -1,10 +1,4 @@
-Committed to addressing the issues that matter most:
-Improving Education
-Fostering Economic Growth
-Enhancing Public Safety
-Ensuring Food Security
-Embedded Files
-I'm running for re-election to continue representing our community's values and priorities in the Montana Legislature.
+Search this site Embedded Files Skip to main content Skip to navigation Tilleman for HD 23 Home Voting Record / Bills How to Donate Want a Yard Sign Contact Tilleman for HD 23 Home Voting Record / Bills How to Donate Want a Yard Sign Contact More Home Voting Record / Bills How to Donate Want a Yard Sign Contact Committed to addressing the issues that matter most: Improving Education Fostering Economic Growth Enhancing Public Safety Ensuring Food Security I'm running for re-election to continue representing our community's values and priorities in the Montana Legislature.
 Together, we've made significant strides, and I aim to build on that progress in the 2027 legislative session.
 I am Eric Tilleman, a Republican candidate running for the position of House District 23 representative.
 I have been fortunate enough to call Cascade County my home for the past 20 years, and during this time, I have had the privilege of serving our community in various capacities.
@@ -14,7 +8,4 @@ In addition to my teaching role, I have also been actively involved in the safet
 For over 10 years, I have served as the Cascade Volunteer Fire Chief, working tirelessly to ensure the safety of our residents and protect our homes and businesses from the threat of fire.
 As the Rural Fire Council President, I have been dedicated to fostering collaboration and implementing effective strategies to enhance our emergency response capabilities.
 Paid for by: Eric Tilleman for House District 23, 1720 10th Ave.
-S., Ste 4 #232, Great Falls, MT 59405
-Page updated
-Google Sites
-Report abuse
+S., Ste 4 #232, Great Falls, MT 59405 Google Sites Report abuse Page details Page updated Google Sites Report abuse

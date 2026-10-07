@@ -1,33 +1,134 @@
 [
-"https://facebook.com/FlintReport",
-"https://flintformontana.com/",
-"https://flintformontana.com/about",
-"https://flintformontana.com/contact",
-"https://flintformontana.com/get-involved",
-"https://flintformontana.com/issues",
-"https://flintformontana.com/news",
-"https://flintformontana.com/privacy-policy",
-"https://instagram.com/aaronflintmt?hl=en",
-"https://linkedin.com/in/sam-forstag-3b4a169b/details/experience",
-"https://secure.winred.com/flint-for-montana/storefront",
-"https://secure.winred.com/flint-for-montana/website",
-"https://secure.winred.com/flint-for-montana/website?amount=100",
-"https://secure.winred.com/flint-for-montana/website?amount=15",
-"https://secure.winred.com/flint-for-montana/website?amount=25",
-"https://secure.winred.com/flint-for-montana/website?amount=5",
-"https://secure.winred.com/flint-for-montana/website?amount=50",
-"https://us.list-manage.com/2KBe5fluZtw?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452",
-"https://us.list-manage.com/9EdjFiAHXaS?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452",
-"https://us.list-manage.com/BI5jeZn6q_7?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452",
-"https://us.list-manage.com/C9xxeqH4S8f?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452",
-"https://us.list-manage.com/CxJBB09oUfY?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452",
-"https://us.list-manage.com/IbzkYOTS9L8?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452",
-"https://us.list-manage.com/L_7cot7vjw8?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452",
-"https://us.list-manage.com/T0mmn_9s6UY?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452",
-"https://us.list-manage.com/g4eKz8QJBQr?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452",
-"https://us.list-manage.com/gBHIfEIpozH?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452",
-"https://us.list-manage.com/hcpNLLGaanT?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452",
-"https://us.list-manage.com/k8gww7kEPb2?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452",
-"https://x.com/aaronflint",
-"https://youtube.com/@flintformontana"
+{
+"text": "$100",
+"href": "https://secure.winred.com/flint-for-montana/website?amount=100"
+},
+{
+"text": "$15",
+"href": "https://secure.winred.com/flint-for-montana/website?amount=15"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/flint-for-montana/website?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.winred.com/flint-for-montana/website?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/flint-for-montana/website?amount=50"
+},
+{
+"text": "ACLU",
+"href": "https://us.list-manage.com/L_7cot7vjw8?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452"
+},
+{
+"text": "ACLU of Montana",
+"href": "https://us.list-manage.com/CxJBB09oUfY?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452"
+},
+{
+"text": "About",
+"href": "https://flintformontana.com/about/"
+},
+{
+"text": "Central House Strategies lobbying firm",
+"href": "https://us.list-manage.com/g4eKz8QJBQr?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452"
+},
+{
+"text": "City of Missoula",
+"href": "https://us.list-manage.com/9EdjFiAHXaS?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452"
+},
+{
+"text": "Contact",
+"href": "https://flintformontana.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/flint-for-montana/website"
+},
+{
+"text": "Forstag first started lobbying in 2016",
+"href": "https://us.list-manage.com/C9xxeqH4S8f?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452"
+},
+{
+"text": "Get Involved",
+"href": "https://flintformontana.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://flintformontana.com/"
+},
+{
+"text": "Issues",
+"href": "https://flintformontana.com/issues/"
+},
+{
+"text": "Just because he wants to hide them now, doesn’t change the facts.",
+"href": "https://us.list-manage.com/IbzkYOTS9L8?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452"
+},
+{
+"text": "Montana Library Association",
+"href": "https://us.list-manage.com/T0mmn_9s6UY?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452"
+},
+{
+"text": "News",
+"href": "https://flintformontana.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/flint-for-montana/website"
+},
+{
+"text": "Planned Parenthood",
+"href": "https://us.list-manage.com/2KBe5fluZtw?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452"
+},
+{
+"text": "Privacy Policy",
+"href": "https://flintformontana.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/flint-for-montana/storefront"
+},
+{
+"text": "[image: Flint for Montana]",
+"href": "https://flintformontana.com"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/sam-forstag-3b4a169b/details/experience/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/FlintReport/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/aaronflintmt/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@flintformontana"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/aaronflint"
+},
+{
+"text": "ban drag shows from targeting children at schools and libraries.",
+"href": "https://us.list-manage.com/k8gww7kEPb2?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452"
+},
+{
+"text": "opposed legislation protecting girls’ sports",
+"href": "https://us.list-manage.com/BI5jeZn6q_7?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452"
+},
+{
+"text": "restricting gender-transition procedures for minors",
+"href": "https://us.list-manage.com/hcpNLLGaanT?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452"
+},
+{
+"text": "“Sam Forstag lobbied the Montana legislature to let men play women’s sports and enter the locker rooms of my girls.”",
+"href": "https://us.list-manage.com/gBHIfEIpozH?e=46bc38061c&c2id=3ac6b041437d0ab1981a5bcc57c92452"
+}
 ]

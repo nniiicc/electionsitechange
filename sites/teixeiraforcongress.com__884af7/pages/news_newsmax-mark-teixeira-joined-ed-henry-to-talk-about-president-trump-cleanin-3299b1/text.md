@@ -1,14 +1,3 @@
-Menu
-Meet Mark
-Endorsements
-Issues
-News
-Volunteer
-Contact
-Facebook
-Twitter
-Instagram
-Official
-Merch
-NEWSMAX: Mark Teixeira joined Ed Henry to talk about President Trump cleaning up Joe Biden’s mess — and Charlie Kirk’s powerful impact on the next generation of conservatives.
-"We need strong leaders in Texas and in Washington D.C."
+Menu Meet Mark Endorsements Issues News Volunteer Contact Facebook Twitter Instagram Official Merch NEWSMAX: Mark Teixeira joined Ed Henry to talk about President Trump cleaning up Joe Biden’s mess — and Charlie Kirk’s powerful impact on the next generation of conservatives.
+"We need strong leaders in Texas and in Washington D.C." Contribute Facebook Twitter Instagram To Donate By Mail: Mark Teixeira for Congress PO Box 1073 1450 W.
+Highway 290 Dripping Springs, TX 78620 © Copyright Mark "Tex" Teixeira for Congress - All Rights Reserved - Privacy Policy | Terms and Conditions Paid for by Mark Teixeira for Congress

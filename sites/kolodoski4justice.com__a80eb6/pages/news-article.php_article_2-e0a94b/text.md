@@ -1,5 +1,3 @@
-Serjeant of the Inn Award
-January 25, 2024
-Matthew
-Matthew Kolodoski is presented with the 2024 Serjeant of the Inn Award, which is an award bestowed annually by each of the North Texas American Inns of Court to an attorney who has significantly contributed to the legal profession and community during their career.
-Matthew Kolodoski was selected by the Dallas Insurance Law American Inn of Court for "his hard work in founding the Inn and his leadership in the local and state-wide legal community."
+Welcome About Donations Contact News Welcome About Donations Contact News News Serjeant of the Inn Award January 25, 2024 Matthew Matthew Kolodoski is presented with the 2024 Serjeant of the Inn Award, which is an award bestowed annually by each of the North Texas American Inns of Court to an attorney who has significantly contributed to the legal profession and community during their career.
+Matthew Kolodoski was selected by the Dallas Insurance Law American Inn of Court for "his hard work in founding the Inn and his leadership in the local and state-wide legal community." Return Previous Next Political advertising paid for by Matthew Kolodoski Campaign.
+Links Home About Donations Contact News Social media Join the Campaign Thank you for joining the newsletter!

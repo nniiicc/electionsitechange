@@ -1,61 +1,246 @@
 [
-"http://tiktok.com/@jamieagernc",
-"https://agerforcongress.com/",
-"https://agerforcongress.com/about",
-"https://agerforcongress.com/media",
-"https://agerforcongress.com/news",
-"https://agerforcongress.com/platform",
-"https://agerforcongress.com/press",
-"https://agerforcongress.com/privacy",
-"https://agerforcongress.com/volunteer",
-"https://agerforcongress.com/vote",
-"https://agerforcongress.com/wp-content/uploads/2026/07/FarmburgerHNGFarm_BrenPhotography_092.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-Ager-1.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-Ager-Headshot-Square.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-And-Prairie-In-Barn_March-2026.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-And-Prairie_March-2026.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-At-Farm_In-Field_March-2026.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-At-Meat-Counter-Farm-Store_March-2026.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-Headshot-At-Farm-2_March-2026.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-Headshot-At-Farm_March-2026.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-Mountains_March-2026.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-Outside_March-2026.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-Pigs-1.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-With-People_March-2026.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-and-Amy_regenerative-agriculture-feature-1600x1080-1.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-at-Farm_March-2026.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-with-Chick.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/MG_0075.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/MG_0082.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/MG_0083.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/PXL_20260507_230005038.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/agerheadshot.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-12-102422.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-14-102470.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-2-102384.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-54-01812.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-6-102397.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-72-102788.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-74-102792.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-77-102801.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-82-102827.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/jamie-ager-9.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/jamie-amy-cute.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/jamie-amy-tilly-edit.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/jamie-and-sam.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/jamie-bass-enlarged.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/jamie-education.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/jamie-pigs.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/jamie_amy-scaled-1.jpg",
-"https://agerforcongress.com/wp-content/uploads/2026/07/jamieamy.jpg",
-"https://bsky.app/profile/jamie.agerforcongress.com",
-"https://facebook.com/JamieAgerNC",
-"https://facebook.com/JamieAgerNC/events",
-"https://instagram.com/jamieagernc",
-"https://secure.actblue.com/donate/agerwebsite",
-"https://store.agerforcongress.com/",
-"https://threads.com/@jamieagernc",
-"https://x.com/jamieagernc",
-"https://xpslane.com/",
-"https://youtube.com/@AgerForCongress"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/agerwebsite"
+},
+{
+"text": "Events",
+"href": "https://www.facebook.com/JamieAgerNC/events"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Home",
+"href": "https://agerforcongress.com/"
+},
+{
+"text": "Media",
+"href": "https://agerforcongress.com/media"
+},
+{
+"text": "Meet Jamie",
+"href": "https://agerforcongress.com/about"
+},
+{
+"text": "News",
+"href": "https://agerforcongress.com/news"
+},
+{
+"text": "Platform",
+"href": "https://agerforcongress.com/platform"
+},
+{
+"text": "Press Releases",
+"href": "https://agerforcongress.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://agerforcongress.com/privacy"
+},
+{
+"text": "Store",
+"href": "https://store.agerforcongress.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://agerforcongress.com/volunteer"
+},
+{
+"text": "Voter Info",
+"href": "https://agerforcongress.com/vote"
+},
+{
+"text": "[image: Ager for Congress]",
+"href": "https://agerforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/FarmburgerHNGFarm_BrenPhotography_092.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-Ager-1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-Ager-Headshot-Square.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-And-Prairie-In-Barn_March-2026.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-And-Prairie_March-2026.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-At-Farm_In-Field_March-2026.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-At-Meat-Counter-Farm-Store_March-2026.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-Headshot-At-Farm-2_March-2026.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-Headshot-At-Farm_March-2026.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-Mountains_March-2026.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-Outside_March-2026.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-Pigs-1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-With-People_March-2026.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-and-Amy_regenerative-agriculture-feature-1600x1080-1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-at-Farm_March-2026.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-with-Chick.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/MG_0075.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/MG_0082.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/MG_0083.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/PXL_20260507_230005038.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/agerheadshot.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-12-102422.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-14-102470.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-2-102384.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-54-01812.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-6-102397.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-72-102788.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-74-102792.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-77-102801.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/auger.campaign.bbq-82-102827.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/jamie-ager-9.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/jamie-amy-cute.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/jamie-amy-tilly-edit.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/jamie-and-sam.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/jamie-bass-enlarged.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/jamie-education.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/jamie-pigs.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/jamie_amy-scaled-1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://agerforcongress.com/wp-content/uploads/2026/07/jamieamy.jpg"
+},
+{
+"text": "[no text]",
+"href": "http://tiktok.com/@jamieagernc"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jamie.agerforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JamieAgerNC/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jamieagernc"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@jamieagernc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AgerForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/jamieagernc"
+},
+{
+"text": "team@agerforcongress.com",
+"href": "mailto:team@agerforcongress.com"
+}
 ]

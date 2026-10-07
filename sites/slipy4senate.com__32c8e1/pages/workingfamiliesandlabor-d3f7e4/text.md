@@ -1,6 +1,4 @@
-Working Families & Labor
-You Deserve a Good Paycheck for an Honest Day’s Work
-For so many Minnesotans, unions played a vital role in my families reaching the middle class – unions like UAW, IBEW, SEIU, AFSCME, Boilermakers, Sheetmetal Workers, and Laborers provide incredible opportunities for Minnesota families.
+0 Skip to Content Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise Folder: What I'll Fight For Back Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Folder: Get Involved Back Events Join Team Slipy Contact Donate Working Families & Labor You Deserve a Good Paycheck for an Honest Day’s Work For so many Minnesotans, unions played a vital role in my families reaching the middle class – unions like UAW, IBEW, SEIU, AFSCME, Boilermakers, Sheetmetal Workers, and Laborers provide incredible opportunities for Minnesota families.
 Many of us wouldn’t be here today without the economic security that unions secured for our families, and Minnesota’s middle class wouldn’t be here without their tireless organizing.
 I will be a senator who puts working families’ interests first and always stands up for workers’ organizing and collective bargaining rights.
 I have joined the picket line and strongly advocated for the fair wages and benefits that workers deserve.
@@ -16,3 +14,10 @@ I don’t just talk about the importance of labor unions and bargaining rights �
 I will lead the fight for growing our community with good-paying jobs and restoring the dignity of so many Minnesotans who just want to support their families.
 I have stood with workers – from nurses to journalists – as they negotiated for better wages and benefits and have led advocacy in support of their organizing rights.
 I will be a senator who doesn’t just smile for the camera or watch from the sidelines – I will fight hard for working families every day.
+Donate Today Together, We Can Build a Better Future!
+Have a question, idea, or concern?
+I want to hear from you!
+Your input is vital in shaping the future of our community.
+Whether it’s a suggestion, a concern, or a topic you're passionate about, together we can make a real difference.
+Reach out today and be part of the change we need to see!
+Website Designed by Local Artist, Heidi Jeub , From Do-Somthing-Creative Prepared and Paid for by Slipy4Senate Campaign Committee PO Box 254 Brainerd, MN 56401

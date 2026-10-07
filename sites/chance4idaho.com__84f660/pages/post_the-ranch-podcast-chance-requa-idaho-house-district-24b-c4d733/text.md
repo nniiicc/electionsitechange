@@ -1,6 +1,7 @@
-The Ranch Podcast: Chance Requa Idaho House District 24B
-Apr 30
-Updated: May 12
-Join Matt Todd as he interviews Chance Requa as a candidate for Idaho House of Representatives District 24B.
+top of page HOME ABOUT NEWS INTERVIEWS & MEDIA APPEARANCES PILLARS GET INVOLVED CONTACT DONATE All Posts Campaign News Press & Media Community Search The Ranch Podcast: Chance Requa Idaho House District 24B Apr 30 1 min read Updated: May 12 Join Matt Todd as he interviews Chance Requa as a candidate for Idaho House of Representatives District 24B.
 "Chance Requa is an Idaho State Representative candidate and came in to talk about what he sees in this state and where he thinks he can make a positive impact.
 Enjoy!
+Watch Here Listen Here " Tags: candidate identity Campaign News Press & Media Community Recent Posts See All Chance Requa Interviewed by KMVT on Idaho House District 24B Campaign I agree to the terms & conditions SIGN UP Thanks for submitting!
+STAY CONNECTED Get the latest updates and ways to get involved.
+QUICK LINKS Home Pillars About Get Involved FOLLOW ALONG Privacy Policy Accessibility Statement Contact Donate Paid for by Chance Requa for Idaho, Mike Wilkinson, Treasurer.
+Powered and secured by Wix News bottom of page

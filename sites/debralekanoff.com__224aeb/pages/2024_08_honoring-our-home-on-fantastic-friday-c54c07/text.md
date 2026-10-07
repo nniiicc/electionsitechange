@@ -1,6 +1,4 @@
-Honoring Our Home on Fantastic Friday
-Dear Friends,
-What an amazing week I’ve had in my hometown of Yakutat, Alaska!
+Skip to content Search for: Home About Top Priorities Volunteer Press & Media Fantastic Fridays News Updates Contact Donate Home Fantastic Fridays Honoring Our Home on Fantastic Friday Honoring Our Home on Fantastic Friday Published On: August 2, 2024 Categories: Fantastic Fridays Dear Friends, What an amazing week I’ve had in my hometown of Yakutat, Alaska!
 My heart is overflowing with the abundance of salmon, berries, rushing rivers, my family, and the community that has shaped me.
 Let me take you on a journey to where my heart has been for the past week—welcome to my home, the place that raised your Representative to fight for the 40th District with unwavering passion for each and every one of you.
 This is the land of my namesake, where my bloodlines run deep, and where the roots of my identity are firmly planted.
@@ -29,9 +27,7 @@ These are the values that guide me, that give me the passion to fight for each a
 I am proud to be your Representative, and I am proud to come from Yakutat, the place that raised me, the place that continues to inspire me every day.
 Keep reading for more on this Fantastic Friday.
 Rep.
-Debra Lekanoff
-Historic Investment to Conserve Biodiversity
-The Washington State Legislature has made a historic $23 million investment in biodiversity conservation through the Washington Department of Fish and Wildlife (WDFW).
+Debra Lekanoff Historic Investment to Conserve Biodiversity The Washington State Legislature has made a historic $23 million investment in biodiversity conservation through the Washington Department of Fish and Wildlife (WDFW).
 This significant funding allocation marks a major step forward in protecting the state’s most vulnerable species and habitats.
 For the 2024 fiscal year, the legislature has allocated $8 million, with an additional $15 million earmarked for 2025.
 Notably, this $15 million will become a permanent annual allocation in subsequent years, providing WDFW with the stability needed to implement long-term conservation strategies.
@@ -45,8 +41,7 @@ This review will assess their ability to fulfill their roles as trustees of fish
 While this aspect was not the primary focus of the coalition’s advocacy, it presents an important opportunity for reflection and potential improvement in how we manage and protect our state’s natural resources.
 This $23 million investment is not just a financial commitment; it represents a pledge to the future of Washington’s natural beauty and ecological diversity.
 As we move forward, this funding will be crucial in ensuring that the state remains a leader in conservation, addressing the urgent needs of our environment with the dedication and resources required to make a lasting impact.
-Protecting the San Juan Islands for Generations to Come
-As we approach the 2025 legislative session, my focus is on developing policies, regulations, and fiscal investments to protect vital ecosystems like the San Juan Islands.
+Protecting the San Juan Islands for Generations to Come As we approach the 2025 legislative session, my focus is on developing policies, regulations, and fiscal investments to protect vital ecosystems like the San Juan Islands.
 These islands are not only a natural treasure but also a crucial part of our ecosystem, attracting millions of visitors annually.
 This high visitation puts significant pressure on the islands’ environment, resources, and infrastructure.
 As the representative for the 40th District, I am committed to raising awareness about the importance of preserving these integral parts of our Pacific Northwest biome.
@@ -61,30 +56,25 @@ The SRKW population has fluctuated since the 1970s, with recent counts showing c
 The Island Marble Butterfly, once thought extinct, was rediscovered in the San Juan Islands, highlighting the importance of habitat preservation.
 Through strategic investments and partnerships with organizations like the WDFW, we can lead in creating a sustainable future that balances population growth with environmental protection.
 Our commitment to biodiversity will shape the quality of life for future generations, ensuring a thriving, resilient environment for years to come.
-Washington’s Wildfire Crisis
-Washington State is facing another severe wildfire season, with the Swawilla Fire on the Colville Reservation causing significant disruption and damage.
+Washington’s Wildfire Crisis Washington State is facing another severe wildfire season, with the Swawilla Fire on the Colville Reservation causing significant disruption and damage.
 The fire, along with the nearby Bridge Creek Fire, has burned over 51,000 acres and is only partially contained despite extensive firefighting efforts.
 The Swawilla Fire has prompted Level 3 evacuations for several communities and required increased air support, including Very Large Air Tankers, helicopters, and scooper aircraft.
 After two weeks of burning, the fire is 60% contained with 616 personnel working on containment lines and preparing for controlled burns to protect the town of Keller.
-Courtesy of King 5
-In response to the growing wildfire threat, Washington’s legislature has taken steps to enhance the state’s wildfire response capabilities.
+Courtesy of King 5 In response to the growing wildfire threat, Washington’s legislature has taken steps to enhance the state’s wildfire response capabilities.
 House Bill 1578, the “Cascading Impacts of Wildfire” bill, aims to expand the “Wildfire Ready Neighbors” program to Western Washington and address post-wildfire risks.
 The 2024 legislative session continued funding for forest health and wildfire resilience through the Washington State Department of Natural Resources (DNR).
 House Bill 1168, passed in 2021, allocated $23.41 million from the General Fund-State to support forest health initiatives.
-Courtesy of the Seattle Times
-Commissioner of Public Lands Hilary Franz has emphasized the DNR’s preparedness, with firefighters able to reach new fire starts within 15 to 30 minutes.
+Courtesy of the Seattle Times Commissioner of Public Lands Hilary Franz has emphasized the DNR’s preparedness, with firefighters able to reach new fire starts within 15 to 30 minutes.
 However, challenging terrains like those in the Pioneer Fire in Chelan County highlight the limitations of even well-prepared response efforts.
 As Washington faces record-breaking heat and potential thunderstorms, the importance of proactive legislative measures and continued investment in wildfire prevention, response, and recovery efforts is clear.
 The ongoing crisis on the Colville Reservation serves as a reminder of the need for sustained action to protect forests, wildlife, and communities from the growing wildfire threat.
-Modernizing the Port of Bellingham
-The Port of Bellingham is undertaking a significant $27.5 million modernization project for its Shipping Terminal, set to be completed over the next two years.
+Modernizing the Port of Bellingham The Port of Bellingham is undertaking a significant $27.5 million modernization project for its Shipping Terminal, set to be completed over the next two years.
 This initiative aims to enhance the port’s capabilities, create jobs, and improve environmental standards.
-Key aspects of the project include:
-- Increasing navigation depth from -26 feet to -35 feet, allowing larger vessels to access the terminal.
-- Removing 22,000 cubic yards of contaminated sediment to improve water quality.
-- Replacing 140 feet of damaged dock to reinforce the terminal’s infrastructure.
-- Installing a new stormwater management system to reduce environmental impact.
-- Creating long-term, family-wage jobs in the maritime sector.
+Key aspects of the project include: Increasing navigation depth from -26 feet to -35 feet, allowing larger vessels to access the terminal.
+Removing 22,000 cubic yards of contaminated sediment to improve water quality.
+Replacing 140 feet of damaged dock to reinforce the terminal’s infrastructure.
+Installing a new stormwater management system to reduce environmental impact.
+Creating long-term, family-wage jobs in the maritime sector.
 The project has received substantial federal support, including a $6.85 million grant from the U.S.
 Department of Transportation’s Port Infrastructure Development Program and a $17.9 million grant from the Rebuilding American Infrastructure with Sustainability and Equity (RAISE) program.
 Rep.
@@ -93,8 +83,7 @@ The modernization effort is expected to transform the terminal into a fully func
 It aligns with broader goals of sustainable economic development and environmental stewardship in Washington’s 40th Legislative District.
 This project demonstrates the power of collaboration between tribal, local, state, and federal governments in driving infrastructure improvements and economic growth.
 As the 2025 legislative session approaches, continued advocacy for policies, regulations, and funding to support such initiatives will be crucial for the region’s development.
-For more information on the project and its ongoing developments, you can visit the [Port of Bellingham website](https://www.portofbellingham.com)
-Celebrating Joe Gaydos!
+For more information on the project and its ongoing developments, you can visit the [Port of Bellingham website]( https://www.portofbellingham.com ) Celebrating Joe Gaydos!
 I am thrilled to announce an exceptional opportunity for our 40th District as we honor Joe Gaydos, a leading figure in the scientific community and a steadfast advocate for the health of the Salish Sea.
 Joe’s deep commitment to environmental stewardship and collaboration has made a significant impact not only in our legislative district but throughout the entire Pacific Northwest.
 As a member of the esteemed SeaDoc Society and the Washington State Academy of Sciences, Joe embodies the spirit of partnership that drives effective science-based solutions.
@@ -104,3 +93,6 @@ Joe’s extensive network of relationships with Pacific Northwest tribal scienti
 By bringing diverse voices to the table, Joe not only enhances our understanding of the Salish Sea but also underscores the importance of collaboration across disciplines and communities.
 We are incredibly fortunate to have Joe steering these meaningful conversations, representing the 40th Legislative District at critical scientific forums, and championing the well-being of our natural resources.
 His passion for science and community engagement inspires us all to be more involved in protecting the beauty and sustainability of our environment.
+Previous Next “Progress is not achieved by standing still.
+Let’s move forward together towards a better, brighter future.” Re-Elect Debra Lekanoff (D) PO Box 23125 Seattle, WA 98102 debra@debralekanoff.com info@debralekanoff.com Volunteer Register To Vote Get Updates Donate Events Endorse Debra Follow Debra Copyright # DEBRA LEKANOFF.
+PAID FOR BY RE-ELECT DEBRA LEKANOFF (D) Page load link Go to Top

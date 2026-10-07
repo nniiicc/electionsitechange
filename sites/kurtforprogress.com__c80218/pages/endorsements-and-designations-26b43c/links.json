@@ -1,35 +1,142 @@
 [
-"http://nysyd.org/",
-"https://boostingleaders.com/",
-"https://bsky.app/profile/kurtforprogress.com",
-"https://citizenactionny.org/",
-"https://facebook.com/OgdenDemocrats",
-"https://facebook.com/Outruncoalition",
-"https://facebook.com/ParmaDems",
-"https://facebook.com/kurtforprogress",
-"https://greece-dems.squarespace.com/",
-"https://gunsensevoter.org/",
-"https://inseparable.us/",
-"https://instagram.com/kurt.for.progress",
-"https://instagram.com/progressivevotersnetwork",
-"https://kurtforprogress.com/",
-"https://kurtforprogress.com/about-kurt-1",
-"https://kurtforprogress.com/accessibility",
-"https://kurtforprogress.com/donate",
-"https://kurtforprogress.com/endorsements-and-designations",
-"https://kurtforprogress.com/get-involved",
-"https://kurtforprogress.com/on-the-issues",
-"https://kurtforprogress.com/privacy",
-"https://kurtforprogress.com/terms",
-"https://monroedemocrats.com/",
-"https://nyhcampaign.org/",
-"https://nypan.org/",
-"https://ourrevolution.com/",
-"https://plannedparenthoodaction.org/",
-"https://runforsomething.net/",
-"https://secure.actblue.com/donate/kurtforprogress",
-"https://seiu200united.org/",
-"https://teachersunifyaction.org/",
-"https://theoathofoffice.org/",
-"https://workingfamilies.org/"
+{
+"text": "About Kurt",
+"href": "https://www.kurtforprogress.com/about-kurt-1"
+},
+{
+"text": "Accessibility - Paid for by Kurt For Progress",
+"href": "https://www.kurtforprogress.com/accessibility"
+},
+{
+"text": "Donate",
+"href": "https://www.kurtforprogress.com/donate"
+},
+{
+"text": "Endorsements and Designations",
+"href": "https://www.kurtforprogress.com/endorsements-and-designations"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kurtforprogress.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.kurtforprogress.com/"
+},
+{
+"text": "On The Issues",
+"href": "https://www.kurtforprogress.com/on-the-issues"
+},
+{
+"text": "Privacy",
+"href": "https://www.kurtforprogress.com/privacy"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.kurtforprogress.com/terms"
+},
+{
+"text": "[image: Kurt For Progress]Kurt For Progress",
+"href": "https://www.kurtforprogress.com/"
+},
+{
+"text": "[image]",
+"href": "http://www.nysyd.org/"
+},
+{
+"text": "[image]",
+"href": "https://citizenactionny.org/"
+},
+{
+"text": "[image]",
+"href": "https://greece-dems.squarespace.com/"
+},
+{
+"text": "[image]",
+"href": "https://gunsensevoter.org/"
+},
+{
+"text": "[image]",
+"href": "https://monroedemocrats.com/"
+},
+{
+"text": "[image]",
+"href": "https://nypan.org/"
+},
+{
+"text": "[image]",
+"href": "https://ourrevolution.com/"
+},
+{
+"text": "[image]",
+"href": "https://runforsomething.net"
+},
+{
+"text": "[image]",
+"href": "https://workingfamilies.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.boostingleaders.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/OgdenDemocrats/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/Outruncoalition/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/ParmaDems/"
+},
+{
+"text": "[image]",
+"href": "https://www.inseparable.us/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/progressivevotersnetwork/"
+},
+{
+"text": "[image]",
+"href": "https://www.nyhcampaign.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.plannedparenthoodaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.seiu200united.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.teachersunifyaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.theoathofoffice.org/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/kurtforprogress.com"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/kurtforprogress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kurtforprogress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kurt.for.progress/"
+},
+{
+"text": "contact@kurtforprogress.com",
+"href": "mailto:contact@kurtforprogress.com"
+}
 ]

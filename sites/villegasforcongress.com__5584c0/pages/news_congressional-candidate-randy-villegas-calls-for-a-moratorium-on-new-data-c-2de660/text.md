@@ -1,34 +1,33 @@
-PRESS RELEASE
-Congressional Candidate Randy Villegas Calls For A Moratorium On New Data Centers
-“A moratorium gives the Central Valley the chance to get this right before it’s too late.”
-Bakersfield, CA – Today, Congressional candidate in California’s 22nd District Randy Villegas released a new platform calling for a moratorium on the construction of new data centers in the Central Valley, for one year at minimum.
+Skip navigation menu About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate PRESS RELEASE SEIU California Announces Support For Randy Villegas In California’s 22nd Congressional District PRESS RELEASE Congressional Candidate Randy Villegas Calls For A Moratorium On New Data Centers PRESS RELEASE Randy Villegas Holds ‘Guaranteed Healthcare Town Hall’ In CA-22 PRESS RELEASE Randy Villegas Challenges David Valadao To Three Public Debates PRESS RELEASE NEW AD: In CA-22, Populist Democrat Randy Villegas Highlights Working Class Upbringing PRESS RELEASE Randy Villegas Leads Republican David Valadao in CA-22 in New Poll PRESS RELEASE Randy Villegas Outraises David Valadao in California’s 22nd Congressional District PRESS RELEASE Randy Villegas Statement On Fatal Shooting of Lorenzo Salgado Araujo PRESS RELEASE Randy Villegas Joins Advocates To Hold Valadao Accountable For Gutting Healthcare PRESS RELEASE Speaker Emerita Pelosi, Sen.
+Schiff, Sen.
+Padilla, Reps.
+Aguilar and Lofgren Endorse Randy Villegas PRESS RELEASE Randy Villegas Added to DCCC’s ‘Red to Blue’ Program On Heels of Primary Victory in CA-22 PRESS RELEASE Randy Villegas Advances To General Election To Take On David Valadao News Article A Bernie-Backed Community College Professor Fights for the Soul of the Democratic Party PRESS RELEASE DCCC’s Handpicked Candidate Can’t Be Bothered to Protect Our Communities From ICE Raids PRESS RELEASE ICYMI: Misleading Attack Ads From Bains’ Dark Money Friends Don’t Pass A Fact Check PRESS RELEASE Randy Villegas Responds to Flood of Dark Money Attack Ads PRESS RELEASE Randy Villegas Statement On San Diego Mosque Shooting PRESS RELEASE CA-22 Candidate Randy Villegas Endorsed By Alexandria Ocasio-Cortez PRESS RELEASE New Poll: Randy Villegas Leading Democrat to Take On David Valadao news article Pro-Israel group spends $500,000 to target Randy Villegas in Central Valley race PRESS RELEASE Randy Villegas Surges Following DCCC’s Eleventh Hour Meddling NEWS ARTICLE House Democrats’ Primary Endorsements Divide the Party News Release ‘A betrayal’: Democrats fume at establishment wading into primariesoes Here News Article Local Dems push back on DCCC endorsement in CD22 race News Article House Democrats’ campaign arm takes sides in contentious primaries key to winning midterms PRESS RELEASE Randy Villegas’ Statement on DCCC’s Red to Blue Program NEWS ARTICLE Randy Villegas Endorsed by Indivisible PRESS RELEASE Randy Villegas Remains Top Democratic Fundraiser PRESS RELEASE Democratic Candidate Randy Villegas Launches First TV Ads of the CA-22 Primary Election Cycle PRESS RELEASE Randy Villegas Reels in Over $440,000 in Q1 PRESS RELEASE Randy Villegas Challenges David Valadao and Jasmeet Bains to Televised Debate for CA-22 Primary PRESS RELEASE Randy Villegas' Statement on Trump Administration Strikes on Iran Headline Goes Here PRESS RELEASE Randy Villegas Announces Town Hall Tour Through California’s 22nd Congressional District PRESS RELEASE David Valadao Votes Against Bipartisan Measure to Bring Down Costs PRESS RELEASE Randy Villegas Holds Sizable Fundraising Lead in CA-22 Primary PRESS RELEASE Randy Villegas Denounces ICE Killing Of Minneapolis Man PRESS RELEASE Randy Villegas Announces Fourth Quarter Fundraising Haul of Over $370,000 PRESS RELEASE Randy Villegas Statement on ACA House Vote PRESS RELEASE 15 California Elected Officials Endorse Randy Villegas for Congress in CA-22 PRESS RELEASE Former Congressman Tony Cárdenas (CA-29) + 15 California Elected Officials Endorse Randy Villegas PRESS RELEASE Randy Villegas Launches Against Rep.
+David Valadao to Represent CA-22 testing Aug 26 2026 PRESS RELEASE Congressional Candidate Randy Villegas Calls For A Moratorium On New Data Centers Congressional Candidate Randy Villegas Calls For A Moratorium On New Data Centers “A moratorium gives the Central Valley the chance to get this right before it’s too late.” Bakersfield, CA – Today, Congressional candidate in California’s 22nd District Randy Villegas released a new platform calling for a moratorium on the construction of new data centers in the Central Valley, for one year at minimum.
 The call for a one-year moratorium comes after conversations with local leaders and voters across the Central Valley about the rapid expansion of data centers and the strain they put on local communities.
 This comes ahead of Randy speaking at a non-partisan town hall in Hanford later this week on proposed data center developments.
 His call for a moratorium comes with five standards that Congress should establish to put Central Valley families, workers, and resources first.
-Those include:
-- Making Big Tech pay.
+Those include: Making Big Tech pay.
 Data centers should pay the full cost of the electricity, grid improvements, and other infrastructure they require.
 Those costs should never be passed on to working families through higher utility bills.
-- Protecting our water.
+Protecting our water.
 In the Valley, we know water is precious.
 Any new data center should come with a commitment to closed-loop cooling systems to avoid wasting gallons and gallons of water or polluting local water resources.
-- Guaranteeing good-paying local union jobs.
+Guaranteeing good-paying local union jobs.
 Data centers should be built by American workers and local union labor here in the Valley.
 Before a single shovel hits the ground, workers should have a seat at the table.
-- Investing in our communities.
+Investing in our communities.
 Revenue from data center development should help fund our local schools, technical and apprenticeship programs, and workforce training – particularly for workers whose jobs could be disrupted by AI.
-- Protecting our privacy and putting guardrails on AI.
+Protecting our privacy and putting guardrails on AI.
 The technology these facilities power cannot come at the expense of our personal information, our jobs, or our economic security.
 Congress needs strong rules governing how corporations collect and use our data and deploy AI.
-You can read Randy’s full platform here.
+You can read Randy’s full platform here .
 “When everything from our healthcare, to our groceries to our rent already costs too much, we can't afford to let unchecked big tech developments make life even more expensive,” said Randy Villegas.
 “Congress must do more to prioritize working people over the tech billionaires and corporate interests making money off of data centers at the expense of working families.
 A moratorium gives the Central Valley the chance to get this right before it’s too late.
 No data center should be allowed to raise families’ utility bills, threaten our water supply, exploit our personal data, or disrupt local jobs.
-No Data Center should be built without the people of the Central Valley having a real say.”
-In the past few weeks and months there has been growing concern about the rapid expansion of data centers from voters across party lines.
+No Data Center should be built without the people of the Central Valley having a real say.” In the past few weeks and months there has been growing concern about the rapid expansion of data centers from voters across party lines.
 In contrast to Randy’s strong stance fighting to protect the Central Valley, not Silicon Valley, his opponent, Republican David Valadao has sided with big tech and corporate interests in support of high scale data center expansion.
-Background On ‘Data Center David’:
-- Valadao has taken tens of thousands of dollars from pro-data center tech billionaires and corporations, including having taken thousands from companies that use AI algorithms to deny healthcare claims.
-- Valadao voted to make it easier and faster to build data centers.
-- Valadao voted to undermine environmental review for data centers.
+Background On ‘Data Center David’: Valadao has taken tens of thousands of dollars from pro-data center tech billionaires and corporations , including having taken thousands from companies that use AI algorithms to deny healthcare claims .
+Valadao voted to make it easier and faster to build data centers .
+Valadao voted to undermine environmental review for data centers .
+Contact us at info@villegasforcongress.com Villegas for Congress PO Box 1346 Visalia, CA 93279 United States Privacy Policy Powered by RUN! website builder Paid for by Villegas for Congress You need to enable JavaScript to run this app.

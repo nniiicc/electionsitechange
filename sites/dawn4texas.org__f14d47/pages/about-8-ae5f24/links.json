@@ -1,9 +1,34 @@
 [
-"https://dawn4texas.org/",
-"https://dawn4texas.org/about-me",
-"https://dawn4texas.org/donate",
-"https://dawn4texas.org/team-3",
-"https://facebook.com/dawnrichardsondistrict54",
-"https://instagram.com/ms,d259?igsh=NHViMGJ1N27hN215",
-"https://tiktok.com/@dawn4texas?_r=1&_t=ZT-928frTS2TFd"
+{
+"text": "ABOUT ME",
+"href": "https://www.dawn4texas.org/about-me"
+},
+{
+"text": "DONATE",
+"href": "https://www.dawn4texas.org/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.dawn4texas.org"
+},
+{
+"text": "VOLUNTEER HERE!",
+"href": "https://www.dawn4texas.org/team-3"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/dawnrichardsondistrict54"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/ms,d259?igsh=NHViMGJ1N27hN215"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@dawn4texas?_r=1&_t=ZT-928frTS2TFd"
+},
+{
+"text": "info@dawn4tx.org",
+"href": "mailto:info@dawn4tx.org"
+}
 ]

@@ -1,28 +1,9 @@
-Press Release
-Posted:
-Yolo County, CA – On Thursday, August 27th at 10:30 am, Rep.
+Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources THURSDAY: THOMPSON TO HOST YOLO COUNTY ROUNDTABLE ON LANDMARK HOUSING BILL Press Release Posted: August 25, 2026 Yolo County, CA – On Thursday, August 27th at 10:30 am, Rep.
 Mike Thompson (CA-04) will hold a roundtable highlighting the enactment of the bipartisan 21st Century ROAD to Housing Act.
 The 21st Century ROAD to Housing Act is the most significant housing package in a generation and includes dozens of bipartisan provisions to build new housing, lower mortgage and rental costs, expand homeownership, modernize federal housing programs, prioritize homebuyers and renters over corporate landlords, and support community bankers that finance affordable housing development and mortgages.
-Members of the press are invited to attend, please RSVP to Lauren Ott (Lauren.Ott@mail.house.gov).
-Details are below:
-WHO:
-Rep.
-Mike Thompson
-Ian Evans – Executive Director, Yolo County Housing Authority
-Andrew Killeen – CEO, Napa Solano Habitat for Humanity
-Tracy Fauver – Executive Director, Davis Community Meals and Housing
-Doug Zeck – Executive Director, Fourth and Hope
-Edward Shelley – President, Friends of the Mission
-Dr.
-Dawnté Early – President and CEO, United Way California Capital Region
-WHAT:
-Roundtable
-WHEN:
-Thursday, August 27th
-10:30 am PT
-WHERE:
-Yolo County Housing Office
-147 W Main St.
-Woodland, CA 95695
-RSVP:
-Press should RSVP to Lauren Ott (Lauren.Ott@mail.house.gov)
+Members of the press are invited to attend, please RSVP to Lauren Ott ( Lauren.Ott@mail.house.gov ).
+Details are below: WHO: Rep.
+Mike Thompson Ian Evans – Executive Director, Yolo County Housing Authority Andrew Killeen – CEO, Napa Solano Habitat for Humanity Tracy Fauver – Executive Director, Davis Community Meals and Housing Doug Zeck – Executive Director, Fourth and Hope Edward Shelley – President, Friends of the Mission Dr.
+Dawnté Early – President and CEO, United Way California Capital Region WHAT: Roundtable WHEN: Thursday, August 27th 10:30 am PT WHERE: Yolo County Housing Office 147 W Main St.
+Woodland, CA 95695 RSVP: Press should RSVP to Lauren Ott ( Lauren.Ott@mail.house.gov ) Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

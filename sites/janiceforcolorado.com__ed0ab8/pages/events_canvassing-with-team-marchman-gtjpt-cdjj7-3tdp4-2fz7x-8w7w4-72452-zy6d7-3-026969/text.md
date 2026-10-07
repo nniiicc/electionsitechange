@@ -1,0 +1,17 @@
+0 Skip to Content Home About Priorities Get Involved Events Contact Media Contribute Open Menu Close Menu Open Menu Close Menu Home About Priorities Get Involved Events Contact Media Contribute Home About Priorities Get Involved Events Contact Media Contribute Back to All Events Canvassing with Team Marchman!
+Monday, November 2, 2026 2:00 PM 5:00 PM Benson Sculpture Gardens 1125 W 29th St, Loveland, CO 80538 Loveland, CO (map) Google Calendar ICS Friends, November is here and we need your help.
+Join Janice Marchman and Team Marchman for canvassing across Senate District 15!
+We know this election won't be won by the number of dollars spent, but instead by the number of conversations we have.
+And we need your help to do it!
+We will be talking to voters about the issues they care about and encouraging them to vote in November.
+Event Reminders: 1.
+Please bring a water bottle.
+2.
+To save time, please download the MiniVan app prior to the event.
+3.
+Canvassing is more fun if you bring a friend!
+Sign up here!
+Previous Previous November 2 Canvassing with Team Marchman!
+Next Next November 3 Canvassing with Team Marchman!
+Ask a question © # by Janice Marchman.
+Paid for by Janice Marchman for Colorado Senate | Mike Stolz Registered Agent

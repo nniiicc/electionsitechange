@@ -1,4 +1,4 @@
-Last month, I gave a broad overview of the successes of the 89th Legislature and promised that I would come back with more details on each major area.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements October 23, 2025 Jeff Frazier Op-Ed #35 Education Funding "The Rest of the Story" October 23, 2025 Jeff Frazier Last month, I gave a broad overview of the successes of the 89th Legislature and promised that I would come back with more details on each major area.
 As students and teachers return to the classroom this August, they do so after the most significant investment in public education since major cuts were made in 2011.
 Those cuts placed school districts in a tough financial position, one that legislators promised to rectify in the 89thsession.
 In June, the 89th Texas Legislature wrapped up its regular session, closing out months of hard-fought deliberations and negotiations, and delivered a historic win for public education in Texas, especially for our teachers, with House Bill 2 (HB2).
@@ -40,3 +40,15 @@ It addresses compensation, recruitment, curriculum, special education, school sa
 By raising the state’s per-student investment to $17,000, providing record-setting funding increases, and delivering targeted solutions to long-standing problems, HB 2 marks a turning point in how Texas supports its students and educators.
 Texas is growing—fast—and with that growth comes the responsibility to ensure our education system keeps pace.
 House Bill 2 is our commitment as a state to meet that challenge head-on with bold investments and forward-looking reforms that will benefit generations of Texas students to come.
+October 23, 2025 Jeff Frazier Jeff Frazier Op-Ed #36 Weathering the Storm Op-Ed #34 The 89th Legislature Delivered for All Texans Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

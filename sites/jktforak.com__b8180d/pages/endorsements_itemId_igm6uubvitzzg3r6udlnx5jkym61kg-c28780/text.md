@@ -1,11 +1,11 @@
-endorsements 0+ Democratic, Republican, and Independent Leaders from Across Alaska supported by Join us!
-If you’d like to endorse JKT, click here.
+0 Skip to Content About Meet Jonathan Kreiss-Tomkins (JKT) Meet Zac Johnson Contact Us Endorsements Platform Get Involved Events Volunteer Request a Yard Sign Press DONATE NOW Open Menu Close Menu About Meet Jonathan Kreiss-Tomkins (JKT) Meet Zac Johnson Contact Us Endorsements Platform Get Involved Events Volunteer Request a Yard Sign Press DONATE NOW Open Menu Close Menu Folder: About Back Meet Jonathan Kreiss-Tomkins (JKT) Meet Zac Johnson Contact Us Endorsements Platform Folder: Get Involved Back Events Volunteer Request a Yard Sign Press DONATE NOW endorsements 0 + Democratic, Republican, and Independent Leaders from Across Alaska supported by Join us!
+If you’d like to endorse JKT, click here .
 Statewide View fullsize Fmr.
 Governor Tony Knowles (D) View fullsize Fmr.
 Senate President, Senate Majority Leader, and House Majority Leader Rick Halford (R) View fullsize Fmr.
 Senate Minority Leader Tom Begich View fullsize Fmr.
 State Senator and State Rep.
-Lesil McGuire (R) View fullsize State Senator Matt Claman View fullsize Alaska AFL-CIO View fullsize Western States Carpenters Union View fullsize Anchorage Police Department Employees Association PAC View fullsize Teamsters Local 959 View fullsize Inlandboatmen's Union of the Pacific View fullsize Plumbers & Steamfitters UA Local 367 View fullsize IBEW Local 1547 View fullsize IUPAT District Council 5, Alaska Local 1959 View fullsize Alaska Professional Firefighters Association View fullsize UAW Region 6 PAC/Alaska Graduate Workers Association View fullsize NEA-Alaska View fullsize AFGE Local 3028 View fullsize ASEA/AFSCME Local 52 PAC View fullsize Alaska Public Employees Association View fullsize Service Employees International Union Local 775 View fullsize Alaska Longline Fishermen's Association Anchorage View fullsize Assembly Member Erin Baldwin Day View fullsize Assembly Member Anna Brawley View fullsize Former Assembly Chair Chris Constant View fullsize State Senator Forrest Dunbar View fullsize Fmr.
+Lesil McGuire (R) View fullsize State Senator Matt Claman View fullsize Alaska AFL-CIO View fullsize Western States Carpenters Union View fullsize Public Safety Employees Association Local 803 View fullsize Anchorage Police Department Employees Association PAC View fullsize Alaska Professional Firefighters Association View fullsize Teamsters Local 959 View fullsize Plumbers & Steamfitters UA Local 367 View fullsize IBEW Local 1547 View fullsize IUPAT District Council 5, Alaska Local 1959 View fullsize Inlandboatmen's Union of the Pacific View fullsize UAW Region 6 PAC/Alaska Graduate Workers Association View fullsize NEA-Alaska View fullsize AFGE Local 3028 View fullsize ASEA/AFSCME Local 52 PAC View fullsize Alaska Public Employees Association View fullsize Service Employees International Union Local 775 View fullsize Alaska Longline Fishermen's Association Anchorage View fullsize Assembly Member Erin Baldwin Day View fullsize Assembly Member Anna Brawley View fullsize Former Assembly Chair Chris Constant View fullsize State Senator Forrest Dunbar View fullsize Fmr.
 Speaker of the House/Fmr.
 State Senator Jim Duncan View fullsize State Rep.
 Zack Fields View fullsize Fmr.
@@ -41,4 +41,4 @@ Borough Assembly Member Natalie Dawson, Haines State Rep.
 Rebecca Himschoot, Sitka Fmr.
 Borough Assembly member Heather Lende, Haines Assembly Member Jeff Meucci, Petersburg Assembly Member Kevin Mosher, Sitka Fmr.
 State Rep.
-Dan Ortiz, Ketchikan Deputy Mayor Tim Pike, Sitka Assembly Member Katie Riley, Sitka Assembly Member Eben Sargent, Haines Assembly Member Jeigh Stanton Gregor, Petersburg Assembly Member Christine Woll, Juneau
+Dan Ortiz, Ketchikan Deputy Mayor Tim Pike, Sitka Assembly Member Katie Riley, Sitka Assembly Member Eben Sargent, Haines Assembly Member Jeigh Stanton Gregor, Petersburg Assembly Member Christine Woll, Juneau Paid for by JKT for Alaska PO Box 2185 Sitka, AK 99835

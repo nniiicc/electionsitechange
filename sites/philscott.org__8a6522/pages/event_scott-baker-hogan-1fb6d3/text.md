@@ -1,3 +1,2 @@
-- This event has passed.
-Forum on Leadership, Civility and Unity with Governors Phil Scott, Charlie Baker and Larry Hogan
-October 22, 2020 @ 6:30 pm - 7:15 pm
+Toggle navigation Join the Team Meet Phil Donate « All Events This event has passed.
+Forum on Leadership, Civility and Unity with Governors Phil Scott, Charlie Baker and Larry Hogan October 22, 2020 @ 6:30 pm - 7:15 pm « WCAX Gubernatorial Debate Watch at any of the following: phillscott.org/live https://www.facebook.com/PhilScottforVermont Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 22, 2020 Time: 6:30 pm - 7:15 pm « WCAX Gubernatorial Debate Connect with Phil Paid for by Phil Scott For Vermont PO Box 988 Montpelier, VT 05601 | Privacy Policy | Terms and Conditions Website Designed by Bytes.co × Close

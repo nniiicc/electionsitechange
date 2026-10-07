@@ -1,16 +1,74 @@
 [
-"http://networkadvertising.org/",
-"https://bsky.app/profile/deniseforcongress.bsky.social",
-"https://deniseforcongress.org/",
-"https://deniseforcongress.org/cdn-cgi/l/email-protection",
-"https://deniseforcongress.org/endorsements",
-"https://deniseforcongress.org/media-kit",
-"https://deniseforcongress.org/news",
-"https://deniseforcongress.org/priorities",
-"https://facebook.com/deniseforcongress",
-"https://instagram.com/deniseforcongress",
-"https://mobilize.us/denisepowellforcongress",
-"https://mobilize.us/denisepowellforcongress/event/979357",
-"https://secure.actblue.com/donate/sbd-dpfc-web",
-"https://x.com/DeniseForNE"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sbd-dpfc-web"
+},
+{
+"text": "Endorsements",
+"href": "https://deniseforcongress.org/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/denisepowellforcongress/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/deniseforcongress"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/deniseforcongress"
+},
+{
+"text": "Latest News",
+"href": "https://deniseforcongress.org/news/"
+},
+{
+"text": "Media Kit",
+"href": "https://deniseforcongress.org/media-kit/"
+},
+{
+"text": "Priorities",
+"href": "https://deniseforcongress.org/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/denisepowellforcongress/event/979357/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/DeniseForNE"
+},
+{
+"text": "[email protected]",
+"href": "https://deniseforcongress.org/cdn-cgi/l/email-protection"
+},
+{
+"text": "[email protected]",
+"href": "mailto:hello@deniseforcongress.org"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@deniseforcongress.org"
+},
+{
+"text": "[image]",
+"href": "https://deniseforcongress.org"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/deniseforcongress.bsky.social"
+},
+{
+"text": "click here.",
+"href": "http://www.networkadvertising.org/"
+},
+{
+"text": "here",
+"href": "https://secure.actblue.com/donate/sbd-dpfc-web"
+},
+{
+"text": "https://deniseforcongress.org",
+"href": "https://deniseforcongress.org/"
+}
 ]

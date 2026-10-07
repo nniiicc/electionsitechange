@@ -1,4 +1,13 @@
-The first time I held my original birth certificate, I was in my 50s.
+Home Meet Sara Issues Community Safety Reproductive Rights Environment Mental Health Housing LGBTQ+ rights Transportation Endorsements Volunteer Contact Donate State Sen.
+Sara Feigenholtz: We adoptees deserve to know our origins.
+Illinois law made that possible.
+Home State Sen.
+Sara Feigenholtz: We adoptees deserve to know our origins.
+Illinois law made that possible.
+State Sen.
+Sara Feigenholtz: We adoptees deserve to know our origins.
+Illinois law made that possible.
+Team Sara December 6, 2025 The first time I held my original birth certificate, I was in my 50s.
 I’d spent a lifetime knowing that I was adopted.
 I was loved, supported and grateful for my family, but still missing the first page of my own story.
 That small piece of paper held answers that had always been out of reach: my birth time, my birth mother’s name and many other small details that finally connected me to the beginning of my life.
@@ -13,4 +22,5 @@ But I believed then, as I do now, that knowing where you come from is a fundamen
 The bill was signed in May 2010.
 For the first time, adult adoptees in Illinois could open the door to their origins.
 That moment has become a personal and political milestone, not only in my career but also in the lives of thousands of Illinoisans who can now hold their own stories in their hands.
-Read more at: https://www.chicagotribune.com/2025/11/30/opinion-adoption-birth-certificate-illinois/
+Read more at: https://www.chicagotribune.com/2025/11/30/opinion-adoption-birth-certificate-illinois/ Latest News Oops, category not found.
+Paid for by Citizens for Sara Feigenholtz A copy of our report filed with the State Board of Elections is (or will be) available on the board's official website or for purchase from the State Board of Elections, Springfield, Illinois.

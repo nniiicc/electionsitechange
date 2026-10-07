@@ -1,15 +1,15 @@
-Rep.
+Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
+Not a member?
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News Listerhill Foundation provides new socks, shoes to every TES student Rep.
 Jamie Kiel was on hand for the event as well.
 “We appreciate Listerhill and their foundation for bringing this special event to Tharptown Elementary School,” said Kiel.
 “It means a lot to the community that they would do this for our kids.” Thorn agreed.
-“This has been a wonderful
-“I want to thank the commissioners and Rep.
+“This has been a wonderful Continue Reading $211K grant funds chest compression devices for VFDs “I want to thank the commissioners and Rep.
 Jamie Kiel,” noted Glass.
-“Without their help, we would not have been able to acquire the necessary grant money to obtain these machines.” Kiel, who was on hand for the Sept. 14 meeting, said the devices “could well mean the difference between life
-“It’s wonderful to see members of the community coming together to share ideas and work on plans to keep improving,” said Rep.
+“Without their help, we would not have been able to acquire the necessary grant money to obtain these machines.” Kiel, who was on hand for the Sept.
+14 meeting, said the devices “could well mean the difference between life Continue Reading Russellville downtown to pursue Main Street designation “It’s wonderful to see members of the community coming together to share ideas and work on plans to keep improving,” said Rep.
 Jamie Kiel.
-“We want our downtown to have even more options of places to eat, shop and socialize.” Russellville downtown to pursue Main Street designation
-Kiel said the lunch was a small token of appreciation for the efforts of those who serve the community.
+“We want our downtown to have even more options of places to eat, shop and socialize.” Russellville downtown to pursue Main Street designation Continue Reading Alabama Forestry Association ‘Back the Blue’ tour stops in Northwest corner of state Kiel said the lunch was a small token of appreciation for the efforts of those who serve the community.
 “Our first responders are there for us when we need them most,” said Kiel.
 “It is often a thankless job.
-Although we could never repay the sacrifice they make, this lunch was a small ‘thank
+Although we could never repay the sacrifice they make, this lunch was a small ‘thank Continue Reading Recent Posts Governor signs Senate Bill 1, bans ballot harvesting Ballot harvesting crackdown passes Alabama House House approves ballot harvesting, DEI bills Alabama House approves bill criminalizing some absentee ballot assistance Alabama House passes controversial ballot harvesting bill Archives March 2024 January 2024 November 2023 October 2023 September 2023 July 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 November 2022 October 2022 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 March 2019 January 2019 December 2018 November 2018 October 2018 June 2018 May 2018 January 2018 October 2017 August 2017 July 2017 Categories Education In the News Uncategorized Popular Post March 2, 2021 What Alabamians need to know about the latest activity on Goat Hill — March 2, 2021 May 10, 2018 Meet Jamie Kiel January 16, 2019 Kiel assigned to powerful Ways and Means Education Committee September 1, 2019 Development Council presents checks to local festivals March 20, 2024 Governor signs Senate Bill 1, bans ballot harvesting Paid for by Jamie Kiel Campaign 14696 Hwy 43, Russellville, AL 35653 info@jamiekiel.com

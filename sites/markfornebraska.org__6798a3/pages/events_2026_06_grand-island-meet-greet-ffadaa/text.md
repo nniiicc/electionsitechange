@@ -1,5 +1,1 @@
-Back to All Events
-Here’s your chance to meet Mark Cohen, Independent Candidate for Nebraska CD3, and sign the petition to help get him on the ballot this November
-Next
-Next
-June 25
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Back to All Events Grand Island Meet & Greet Wednesday, June 24, 2026 6:00 PM 7:00 PM Everest Indian Kitchen 316 North Pine Street Grand Island, Nebraska, 68801 (map) Google Calendar ICS Here’s your chance to meet Mark Cohen, Independent Candidate for Nebraska CD3, and sign the petition to help get him on the ballot this November Tagged: Meet & Greet , Petition Signing , Event Next Next June 25 Meet and Greet on "G" Street Donate info@markfornebraska.org Send checks to: Mark for Nebraska PO Box 81 Lemoyne, NE 69146 Volunteer Contact Terms of Use Privacy Policy PAID FOR AND AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website →

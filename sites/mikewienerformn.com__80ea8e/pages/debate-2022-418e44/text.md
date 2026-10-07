@@ -1,150 +1,26 @@
-Debate 2022
-Mike Wiener vs.
-Gregg Hendrickson
-Below is a quick recap of each of their views.
-Mike Wiener
-Crime in Minnesota
-- Against “Defund the Police”
-- Should financially support the police
-- Pro-Police and Pro-Security
-Minnesota Election System
-- Since the beginning of politics there has been fraud therefore we should make sure elections are safe and secure
-- Every vote should be counted and valid
-- There should be voter ID
-Affordable Housing
-- Affordable housing should be managed better
-- There are too many regulations
-- Look ahead to housing market changes with elderly population
-- Workers should be able to keep more of their wages with less taxes
-Abortion Law in Minnesota
-- Pro-Life – will protect the sanctity of life
-- Minnesota has a negative birth rate which is affecting worker shortage
-- Society that does not value life is a dangerous society
-Education
-- Voucher system can help education
-- One option for a child may not be a good option for another child
-- Parents should decide what option is best for their child
-How to bridge the partisan divide
-- Communication without confrontation is key
-- Treat each other with respect
-- Work for the common goal of working for Minnesotans
-Clean Energy & Renewable Energy
-- We don’t have the infrastructure to transition as quickly as they say
-- We have not invested in fossil fuels in 30 years
-- Nuclear energy is a good option
-- Hydroelectric and other options should be looked at
-Governor's Emergency Powers
-- Neither party should use the governorship to become a dictator
-- There are ways for the legislature to get things done such as using Zoom
-- To run the state without the legislature is unconstitutional
-- Emergency powers should be used for an emergency, but Walz extended it too long
-Mental Health Care Expansion
-- Need to look at the resources that we have and how to best use these resources and restructure them
-- Put resources where best needed and best suited for the people
-Describe Types of Industires in 5B
-- 5B has agriculture, wood industry, trucking, food processing
-- There are personnel issues – not enough workers
-- We have high taes
-- We should foster an environment for small business to grow and to stay local
-Changes to Tax System
-- There is overtaxation on businesses, property tax, Social Security tax
-- Need to cut taxes to put more money in people’s pockets
-- Like the ideas of a 2% rule on property tax, where taxes can only go up maximum of 2% per year.
-This will protect elderly and aging population from getting taxed out of their home
-- There has been billions in surplus in MN.
+Meet Mike Platform Vlog Get Involved Articles of Impeachment Petition Donate Debate 2022 by Mike Wiener Oct 25, 2022 Education , Endorsements , Government Spending , Platform , Taxes , Voting Republican vs Independent for House 5B Click the link below to watch the MN House 5B debate between Republican candidate Mike Wiener and Independent candidate Gregg Hendrickson.
+WATCH MN HOUSE 5B DEBATE Mike Wiener vs.
+Gregg Hendrickson Below is a quick recap of each of their views.
+Mike Wiener Crime in Minnesota Against “Defund the Police” Should financially support the police Pro-Police and Pro-Security Minnesota Election System Since the beginning of politics there has been fraud therefore we should make sure elections are safe and secure Every vote should be counted and valid There should be voter ID Affordable Housing Affordable housing should be managed better There are too many regulations Look ahead to housing market changes with elderly population Workers should be able to keep more of their wages with less taxes Abortion Law in Minnesota Pro-Life – will protect the sanctity of life Minnesota has a negative birth rate which is affecting worker shortage Society that does not value life is a dangerous society Education Voucher system can help education One option for a child may not be a good option for another child Parents should decide what option is best for their child How to bridge the partisan divide Communication without confrontation is key Treat each other with respect Work for the common goal of working for Minnesotans Clean Energy & Renewable Energy We don’t have the infrastructure to transition as quickly as they say We have not invested in fossil fuels in 30 years Nuclear energy is a good option Hydroelectric and other options should be looked at Governor's Emergency Powers Neither party should use the governorship to become a dictator There are ways for the legislature to get things done such as using Zoom To run the state without the legislature is unconstitutional Emergency powers should be used for an emergency, but Walz extended it too long Mental Health Care Expansion Need to look at the resources that we have and how to best use these resources and restructure them Put resources where best needed and best suited for the people Describe Types of Industires in 5B 5B has agriculture, wood industry, trucking, food processing There are personnel issues – not enough workers We have high taes We should foster an environment for small business to grow and to stay local Changes to Tax System There is overtaxation on businesses, property tax, Social Security tax Need to cut taxes to put more money in people’s pockets Like the ideas of a 2% rule on property tax, where taxes can only go up maximum of 2% per year.
+This will protect elderly and aging population from getting taxed out of their home There has been billions in surplus in MN.
 This should be looked at because people are being crushed by the wieght of taxes.
-State's Budget Surplus
-- We need to give the people back their money in the form of tax cuts
-- Need to cut income tax
-- Need to balance the budget so there is not a surplus every year
-- Should not do broadband with taxpayer money
-Parental Rights Concerning Kids' Education
-- We homeschool our kids so we have complete parental control over our kids’ education
-- Voucher system gives parents options and more parental control.
+State's Budget Surplus We need to give the people back their money in the form of tax cuts Need to cut income tax Need to balance the budget so there is not a surplus every year Should not do broadband with taxpayer money Parental Rights Concerning Kids' Education We homeschool our kids so we have complete parental control over our kids’ education Voucher system gives parents options and more parental control.
 They would be able to choose public, private, or homeschool.
-The Role of State Government
-- Role should be limited
-- Government has grown and bureaucracies that are involved in it have limited and hurt our country because instead of the people run legislation we’ve had bureaucracies running the different forms and functions of government.
-- Firm believer in less government
-Legalization of Recreational Use Marijuana
-- Not in favor of legalizing recreational us marijuana
-- Don’t belive it will benefit our society because there are negative affects that com from drug use – less production, mental health issues, etc.
-- Gateway to harder drugs.
+The Role of State Government Role should be limited Government has grown and bureaucracies that are involved in it have limited and hurt our country because instead of the people run legislation we’ve had bureaucracies running the different forms and functions of government.
+Firm believer in less government Legalization of Recreational Use Marijuana Not in favor of legalizing recreational us marijuana Don’t belive it will benefit our society because there are negative affects that com from drug use – less production, mental health issues, etc.
+Gateway to harder drugs.
 We have enough issues with fentanyl, meth, and other serious drugs.
-People's Health & Health Insurance in MN
-- Affordable Healthcare Act did not make healthcare affordable
-- Issue needs to be looked at, but is is mostly regulated at the Federal level so it is hard to make changes at the state level.
-Gregg Hendrickson
-Crime in Minnesota
-- Should funnel money to police departments to keep us safe
-Minnesota Election System
-- Believe election system is safe
-- Should fund more into election security to prevent any breach
-Affordable Housing
-- Need more housing
-Abortion Law in Minnesota
-- Government should stay out of women’s health
-- Too many children in foster care system and adoption is expensive
-Education
-- Need to fully fund school districts
-- Need to catch students up
-- NOT for a voucher program at all
-How to bridge the partisan divide
-- As an Independent I am a swing voter
-Clean Energy & Renewable Energy
-- It’s going to happen whether we like it or not
-- We are not ready in rural America
-- We should look into nuclear energy
-Governor's Emergency Powers
-- Some instances where you want emergency powers
-- There was a lot on Walz’s table and he didn’t know what he didn’t know
-- Don’t want to judge what Walz did with emergency power
-Mental Health Care Expansion
-- Need more mental health facilities
-- Need mental health counselors in county and in schools
-Describe Types of Industires in 5B
-- 5B is a diverse people, agriculture by far the biggest industry
-- Farmers want to start planting hemp but lack the guidance on how to
-Changes to Tax System
-- For property tax reform.
-Propose changing tax code for rutal areas by setting a state levy for those and do a payment-in-kind from the state to offset those taxes
-- Unsustainable to tax senior citizens
-- Wadena county is wrestling with a million dollar tax levy over last year and they can’t tackle it themsevlselves.
+People's Health & Health Insurance in MN Affordable Healthcare Act did not make healthcare affordable Issue needs to be looked at, but is is mostly regulated at the Federal level so it is hard to make changes at the state level.
+Gregg Hendrickson Crime in Minnesota Should funnel money to police departments to keep us safe Minnesota Election System Believe election system is safe Should fund more into election security to prevent any breach Affordable Housing Need more housing Abortion Law in Minnesota Government should stay out of women’s health Too many children in foster care system and adoption is expensive Education Need to fully fund school districts Need to catch students up NOT for a voucher program at all How to bridge the partisan divide As an Independent I am a swing voter Clean Energy & Renewable Energy It’s going to happen whether we like it or not We are not ready in rural America We should look into nuclear energy Governor's Emergency Powers Some instances where you want emergency powers There was a lot on Walz’s table and he didn’t know what he didn’t know Don’t want to judge what Walz did with emergency power Mental Health Care Expansion Need more mental health facilities Need mental health counselors in county and in schools Describe Types of Industires in 5B 5B is a diverse people, agriculture by far the biggest industry Farmers want to start planting hemp but lack the guidance on how to Changes to Tax System For property tax reform.
+Propose changing tax code for rutal areas by setting a state levy for those and do a payment-in-kind from the state to offset those taxes Unsustainable to tax senior citizens Wadena county is wrestling with a million dollar tax levy over last year and they can’t tackle it themsevlselves.
 They need help from the legistaltures.
-State's Budget Surplus
-- Should use surplus money to set aside to lower property tax
-- Surplus should be used to work on infrastructure by getting broadband
-Parental Rights Concerning Kids' Education
-- Encourages parents to go to school board meetings
-- Believes right now we are doing a tremendous job in our school systems for parental rights
-- Against voucher system, money should stay in school district
-The Role of State Government
-- Should have limited government
-- Government should not have a role in any medical decisions by anyone
-Legalization of Recreational Use Marijuana
-- Should be legal, regulated, and taxed
-- Farmers are shovel ready for this
-- Great for local economies
-People's Health & Health Insurance in MN
-- Healthcare should be affordable to everyone
-Issues Minnesotans Care About
-Working Together For A Better Tomorrow
-Knowledge is Power.
+State's Budget Surplus Should use surplus money to set aside to lower property tax Surplus should be used to work on infrastructure by getting broadband Parental Rights Concerning Kids' Education Encourages parents to go to school board meetings Believes right now we are doing a tremendous job in our school systems for parental rights Against voucher system, money should stay in school district The Role of State Government Should have limited government Government should not have a role in any medical decisions by anyone Legalization of Recreational Use Marijuana Should be legal, regulated, and taxed Farmers are shovel ready for this Great for local economies People's Health & Health Insurance in MN Healthcare should be affordable to everyone Search Search Recent Videos Health, Children, and Families Finance Bill Homelessness, Drugs, & Carbon Gas Prices, Climate, and Wildlife Management Be Genuine Debate 2022 Issues Bills Business Regulations Education Election Process Endorsements Government Spending Healthcare Platform Politics Taxes Voting Ask Mike a Question Name Email Address Message 9 + 6 = Send Issues Minnesotans Care About 2nd Amendment Accountability Agriculture Budget Surplus Buying Local Campaign Financing Carbon Capture Climate Change Coal Delegates Democracy DNR Dress code Environment Ethics Farming Gas Prices Governance Governement Control Governor Gun control Health Bill Homelessness Income Inflation Legalizing drugs Lock-downs Omnibus Bills Power Outages Pro-Life Public funding of abortion Public vote Red Wave Republicans Sanctity of Life School Boards School Choice School Vouchers Special Interests Sustainability Taxpayers Tiny Homes Transparency Wildfires Wildlife Management Working Together For A Better Tomorrow Get involved today Knowledge is Power.
 Explore More Videos from Mike.
-Health, Children, and Families Finance Bill
-MN State House Representative Mike Wiener addressing the Minnesota House on the Health, Children & Families Finance BillMike Wiener representing Minnesota.
+Health, Children, and Families Finance Bill by Mike Wiener | May 22, 2025 | Bills , Government Spending , Healthcare MN State House Representative Mike Wiener addressing the Minnesota House on the Health, Children & Families Finance BillMike Wiener representing Minnesota.
 See original post by Representative Ben Davis here.Issues Minnesotans Care AboutKnowledge is Power....
-Homelessness, Drugs, & Carbon
-Discussion on political issues on the show Pints & Politics with Drew PetersonAre you passionate about political issues affecting Minnesota?
+Homelessness, Drugs, & Carbon by MWienerHouseAdmin875_159 | Oct 11, 2023 | Politics Discussion on political issues on the show Pints & Politics with Drew PetersonAre you passionate about political issues affecting Minnesota?
 Join State Representative Mike Wiener and Drew Peterson from Pints & Politics as they discuss pressing topics like...
-Gas Prices, Climate, and Wildlife Management
-Discussion on political issues with Drew Peterson on show Pints & PoliticsLooking for a fresh perspective on political issues?
-Join a meeting at Clarissa Liquors as Mike and Drew from the Pints & Politics show, as they delve into topics like gas prices, taxes,...
-DAYS UNTIL YOU VOTE FOR CHANGE
-Day(s)
-:
-Hour(s)
-:
-Minute(s)
-:
-Second(s)
+Gas Prices, Climate, and Wildlife Management by Mike Wiener | Oct 11, 2023 | Politics , Taxes Discussion on political issues with Drew Peterson on show Pints & PoliticsLooking for a fresh perspective on political issues?
+Join a meeting at Clarissa Liquors as Mike and Drew from the Pints & Politics show, as they delve into topics like gas prices, taxes,... « Older Entries DAYS UNTIL YOU VOTE FOR CHANGE Day(s) : Hour(s) : Minute(s) : Second(s) DB+ VOTE MIKE WIENER FOR MINNESOTA STATE SENATE DISTRICT 5 Prepared and paid for by Mike Wiener for Senate Committee P.O.
+Box 413 Long Prairie, MN 56347 www.mikewienerformn.com (320) 360-6477 Follow Follow Follow DB+ About Mike Get Involved Contributions Privacy Policy © #-# All Rights Reserved.
+Mike Wiener for Minnesota State Senate District 5.

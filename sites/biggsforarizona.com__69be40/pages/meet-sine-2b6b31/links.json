@@ -1,32 +1,142 @@
 [
-"https://12news.com/article/news/local/arizona/arizona-kayleighs-law-goes-into-effect-protect-crime-victims/75-8be32214-d43a-428f-ac89-48dedca94e5e",
-"https://azfamily.com/2022/07/06/gov-ducey-signs-landmark-1-billion-water-protection-bill",
-"https://azfb.org/Article/Recent-Legislator-Talks-About-Farm-Bureaus-Success-in-Formulating-GrassrootsDriven-Legislation",
-"https://azgfd.com/2023/09/14/commission-award-recipients-announced",
-"https://azgfd.com/2025/04/30/arizona-outdoor-hall-of-fame-inductees-announced-2",
-"https://azgovernor.gov/sites/default/files/arizona_healthy_forest_initiative_.pdf",
-"https://biggsforarizona.com/",
-"https://biggsforarizona.com/action-center",
-"https://biggsforarizona.com/endorsements",
-"https://biggsforarizona.com/issues",
-"https://biggsforarizona.com/media-kit",
-"https://biggsforarizona.com/meet-andy",
-"https://biggsforarizona.com/meet-sine",
-"https://biggsforarizona.com/news",
-"https://biggsforarizona.com/privacy-policy",
-"https://biggsforarizona.com/terms-and-conditions",
-"https://biggsforarizona.com/wp-content/uploads/2026/08/Biggs-Contribution-Form.pdf",
-"https://facebook.com/biggsforarizona",
-"https://instagram.com/andybiggsaz?hl=en",
-"https://pro.stateaffairs.com/az/yellow-sheet/news/senator-sine-kerr-introduces-arizona-womens-bill-of-rights-to-provide-protections-against-male-intrusion",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=100",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=15",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=25",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=5",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=50",
-"https://secure.winred.com/biggs-for-arizona/storefront",
-"https://x.com/andybiggs4az",
-"https://x.com/phxchamber/status/1672037612675276810?s=20",
-"https://youtube.com/@BiggsForArizona"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=100"
+},
+{
+"text": "$15",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=15"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=50"
+},
+{
+"text": "Action Center",
+"href": "https://biggsforarizona.com/action-center/"
+},
+{
+"text": "Arizona Game and Fish Department",
+"href": "https://www.azgfd.com/2023/09/14/commission-award-recipients-announced/"
+},
+{
+"text": "Arizona Healthy Forest Initiative",
+"href": "https://azgovernor.gov/sites/default/files/arizona_healthy_forest_initiative_.pdf"
+},
+{
+"text": "Arizona Outdoor Hall of Fame",
+"href": "https://www.azgfd.com/2025/04/30/arizona-outdoor-hall-of-fame-inductees-announced-2/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona"
+},
+{
+"text": "Donate By Mail",
+"href": "https://biggsforarizona.com/wp-content/uploads/2026/08/Biggs-Contribution-Form.pdf"
+},
+{
+"text": "Donate Online",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona"
+},
+{
+"text": "Donate →",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona"
+},
+{
+"text": "Endorsements",
+"href": "https://biggsforarizona.com/endorsements/"
+},
+{
+"text": "Greater Phoenix Chamber of Commerce",
+"href": "https://x.com/phxchamber/status/1672037612675276810?s=20"
+},
+{
+"text": "Home",
+"href": "https://biggsforarizona.com/"
+},
+{
+"text": "Issues",
+"href": "https://biggsforarizona.com/issues/"
+},
+{
+"text": "Kerr served as the Arizona State Senator",
+"href": "https://www.azfb.org/Article/Recent-Legislator-Talks-About-Farm-Bureaus-Success-in-Formulating-GrassrootsDriven-Legislation"
+},
+{
+"text": "Kerr was the prime sponsor of the Arizona Women’s Bill of Rights",
+"href": "https://pro.stateaffairs.com/az/yellow-sheet/news/senator-sine-kerr-introduces-arizona-womens-bill-of-rights-to-provide-protections-against-male-intrusion"
+},
+{
+"text": "Media Kit",
+"href": "https://biggsforarizona.com/media-kit/"
+},
+{
+"text": "Meet Andy",
+"href": "https://biggsforarizona.com/meet-andy/"
+},
+{
+"text": "Meet Sine",
+"href": "https://biggsforarizona.com/meet-sine/"
+},
+{
+"text": "News",
+"href": "https://biggsforarizona.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona"
+},
+{
+"text": "Privacy Policy",
+"href": "https://biggsforarizona.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/biggs-for-arizona/storefront/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://biggsforarizona.com/terms-and-conditions/"
+},
+{
+"text": "[image: Andy Biggs for Arizona]",
+"href": "https://biggsforarizona.com"
+},
+{
+"text": "[image: Biggs for Arizona]",
+"href": "https://biggsforarizona.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/biggsforarizona/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andybiggsaz/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@BiggsForArizona"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/andybiggs4az"
+},
+{
+"text": "landmark ‘water protection’ bill in 2022",
+"href": "https://www.azfamily.com/2022/07/06/gov-ducey-signs-landmark-1-billion-water-protection-bill/"
+},
+{
+"text": "‘Kayleigh’s Law’ in 2021",
+"href": "https://www.12news.com/article/news/local/arizona/arizona-kayleighs-law-goes-into-effect-protect-crime-victims/75-8be32214-d43a-428f-ac89-48dedca94e5e"
+}
 ]

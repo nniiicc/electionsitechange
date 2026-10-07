@@ -1,12 +1,20 @@
-Campaign Donations
-I very much appreciate your support.
-The information below is for you to know:
-Political campaign contributions are not tax-deductible.
+A Texan in the 21st Century { Kevin McCormick for Lieutenent Governor; this website is political advertising } Home Campaign-2026 Issues-2026 Transportation Monetary MR-Blog About 2016 Campaign You are here: Home Campaign Donations Campaign Donations I very much appreciate your support.
+The information below is for you to know: Political campaign contributions are not tax-deductible.
 Texas law prohibits anonymous campaign contributions, contributions from corporations or labor organizations, and contributions from foreign nationals.
 Texas law requires the political campaign to record the contribution date, amount, and the full name and address of the contributor.
 This information is included in required reports filed with the Texas Ethics Commission.
 If your address does not match your credit card address, the transaction may be declined and you may recieve a "fraud alert" notice.
 If you do not want your personal information included in campaign finance reports, please send a check or money order (no cash) for up to $110 to Kevin McCormick for Lt.
 Gov.; P.O.
-Box 513; Lindale TX 75771.
+Box 513; Lindale TX 75771 .
 Contributions of $110 or less in the year from a contributor will be reported as the total amount from all such donors, without personal details.
+First Name (*) Letters and [ . , ; 1 2 3] only, please Street address (*) Invalid Input Last Name (*) Letters or [ . , ; ' " 1 2 3], please Address 2 (Apt, Unit, etc.) Address second line Email Receipt (*) Email Receipt Yes No Select Yes or No Email (*) valid e-mail address, please.
+City (*) Letters and numbers only, please State (*) TX AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY Please select a state ZIP (*) Please enter 5 digit postal code Country US Invalid Input Over $110? (*) No Yes Select Yes or No Select amount (*) Other $5 - 5.00 USD $10 - 10.00 USD $25 - 25.00 USD $50 - 50.00 USD Please select amount Other Amount Numbers only, please - 10 for $10 Total Donation 0.00 USD total donation Payment Method Payment Method Authorize.net select one Name on card (*) First and Last Name on card Credit Card Number (*) Please enter credit card number Occupation (*) Letters and numbers only please Employer (*) Letters and numbers only, please Expiration Month (*) 01 02 03 04 05 06 07 08 09 10 11 12 Select card expiration month Expiration Year (*) 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 Please select card expiration year Security Code (*) Enter 3 or 4 digit security code Send Business Cards?
+0 10 20 50 100 Invalid Input Invalid Input Message 0/250 Letters and numbers only Submit Reset Help the Campaign Campaign Donations Business Card Campaign Contact Texas Tribune RSS Independent news.
+Trusted by Texans.
+Texas comptroller investigating spending in Austin ISD, other districts Texas governor 2026: Who is running and what to know U.S.
+Right to Know RSS Pursuing truth and transparency for public health FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Hormone-disrupting chemical mixtures linked to excess childhood weight FOI documents on origins of Covid-19, gain-of-function research and biolabs Green Social Thought RSS Produce less.
+Distribute it fairly.
+Create a greener world for all.
+U.S.
+Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade Reflections on academic tenure prompted by events at The New School Reporting Texas RSS News and features from UT-Austin's School of Journalism Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica EnvironmentAmerica -- Texas RSS RELEASE: Gas power plant proposals surging, new interactive map shows Data center moratorium now Texas Farm Bureau RSS Trump signs order that expands access to tax-exempt diesel Students discuss ag issues during 2026 SOFA Challenge Farmers call for federal diesel price relief

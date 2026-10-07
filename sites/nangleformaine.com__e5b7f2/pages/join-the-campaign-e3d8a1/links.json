@@ -1,11 +1,58 @@
 [
-"http://mainesenate.org/",
-"http://nangleformaine.com/",
-"https://facebook.com/SenatorTimNangle",
-"https://facebook.com/TimNangleforMaineSenate",
-"https://instagram.com/senatortimnangle",
-"https://mobilize.us/?q=nangle",
-"https://nangleformaine.com/",
-"https://nangleformaine.com/join-the-campaign",
-"https://nangleformaine.com/my-record"
+{
+"text": "Home",
+"href": "https://www.nangleformaine.com/"
+},
+{
+"text": "Join the Campaign",
+"href": "https://www.nangleformaine.com/join-the-campaign"
+},
+{
+"text": "My Record",
+"href": "https://www.nangleformaine.com/my-record"
+},
+{
+"text": "NangleForMaine.com",
+"href": "http://nangleformaine.com"
+},
+{
+"text": "NangleForMaine@gmail.com",
+"href": "mailto:NangleForMaine@gmail.com"
+},
+{
+"text": "NangleforMaine@gmail.com",
+"href": "mailto:NangleforMaine@gmail.com"
+},
+{
+"text": "Of Course I Want a Lawn Sign",
+"href": "mailto:NangleForMaine@gmail.com"
+},
+{
+"text": "Sign Up To Volunteer",
+"href": "https://www.mobilize.us/?q=nangle"
+},
+{
+"text": "[image: Tim Nangle Maine Senate logo]",
+"href": "https://www.nangleformaine.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/SenatorTimNangle"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/TimNangleforMaineSenate"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/senatortimnangle/"
+},
+{
+"text": "mainesenate.org",
+"href": "http://mainesenate.org"
+},
+{
+"text": "timothy.nangle@legislature.maine.gov",
+"href": "mailto:timothy.nangle@legislature.maine.gov"
+}
 ]

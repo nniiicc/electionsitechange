@@ -1,7 +1,5 @@
-YOUR STATE REPRESENTATIVE!
-Always Fighting For You
-Neighbor,
-Texas Trump Republicans are working overtime in our state Capitol to silence your voice and your vote.
+0 Skip to Content Home About Issues Endorsements Get Involved In The News CONTRIBUTE Open Menu Close Menu Open Menu Close Menu Home About Issues Endorsements Get Involved In The News CONTRIBUTE Home About Issues Endorsements Get Involved In The News CONTRIBUTE YOUR STATE REPRESENTATIVE!
+Always Fighting For You Neighbor, Texas Trump Republicans are working overtime in our state Capitol to silence your voice and your vote.
 Prices are skyrocketing, from groceries to childcare and housing.
 For the past year, our communities have been under assault by masked, unaccountable federal agents - arresting citizens and tearing families apart.
 It’s up to me and my Democratic colleagues to fight back against Republican tyranny and restore freedom to Texas.
@@ -12,20 +10,25 @@ We can’t continue to live like this.
 But in order to get our state on the right track, I need your help and your vote.
 The strength of the Democratic resistance in the Texas Capitol depends on strong support from Democratic voters.
 Cast your vote, bring your friends and family to vote, and get more involved in our campaign for change.
-Fighting for You and Yours,
-Jessica González
-State Representative, District 104
-Extremist Republicans have a chokehold on our government.
+Fighting for You and Yours, Jessica González State Representative, District 104 Extremist Republicans have a chokehold on our government.
 I will always stand up to the bullies in Austin on behalf of all families in House District 104.
-In The News
-“This is not the time to sit on your hands.
+In The News In The News January 8, 2026 Oak Cliff representative protests state redistricting process: Oak Cliff Advocate, 12/30/25 January 8, 2026 Read more → January 8, 2026 August 7, 2025 Why I Denied Quorum August 7, 2025 Read more → August 7, 2025 August 7, 2025 REPRESENTATIVE JESSICA GONZÁLEZ ANNOUNCES REELECTION CAMPAIGN FOR TEXAS HOUSE DISTRICT 104 August 7, 2025 Read more → August 7, 2025 September 10, 2024 LGBTQ attendance strong at DNC: Dallas Voice, 8/31/2024 September 10, 2024 “This is not the time to sit on your hands.
 It’s time to do something.” Read more by the Dallas Voice.
-What advice would you give your younger self?
+Read more → September 10, 2024 May 23, 2024 Rep.
+González pushes to increase public school funding: Lone Star Politics, 5/19/2024 May 23, 2024 Read more → May 23, 2024 December 16, 2023 NBC 5 Health authorities in North Texas push for vaccines amid spike in respiratory illness December 16, 2023 NBC 5 Read more → December 16, 2023 NBC 5 December 15, 2023 Texas Tribune We ranked Texas House members along the ideological spectrum based on their 2023 votes December 15, 2023 Texas Tribune Read more → December 15, 2023 Texas Tribune December 13, 2023 Dallas Voice Rep.
+Jessica González’s office hosts COVID, flu vaccination clinic December 13, 2023 Dallas Voice Read more → December 13, 2023 Dallas Voice October 9, 2023 Dallas Voice Texas Legislature opens special session October 9, 2023 Dallas Voice Read more → October 9, 2023 Dallas Voice September 29, 2023 Dallas Morning News Texas public school leaders demand more funding ahead of expected special session September 29, 2023 Dallas Morning News Read more → September 29, 2023 Dallas Morning News June 23, 2023 Dallas Voice The power of the (vindictive) veto June 23, 2023 Dallas Voice Read more → June 23, 2023 Dallas Voice June 20, 2023 Texas Tribune Analysis: The 2023 Texas House, from right to left June 20, 2023 Texas Tribune Read more → June 20, 2023 Texas Tribune June 17, 2023 KHOU Here are the bills Texas Gov.
+Greg Abbott has vetoed this session June 17, 2023 KHOU Read more → June 17, 2023 KHOU June 16, 2023 Washington Post Biden’s tricky path on trans issues June 16, 2023 Washington Post Read more → June 16, 2023 Washington Post June 15, 2023 Culture Map Dallas Dallas City Council enacts new ban on certain short-term rentals June 15, 2023 Culture Map Dallas Read more → June 15, 2023 Culture Map Dallas June 14, 2023 Dallas Morning News Dallas approves new rules banning short-term rentals in single-family neighborhoods June 14, 2023 Dallas Morning News Read more → June 14, 2023 Dallas Morning News June 2, 2023 The Texan The Back Mic: The Texas Partisan Index Ratings of State Legislature Districts June 2, 2023 The Texan Read more → June 2, 2023 The Texan March 13, 2022 Caller-Times ‘Your best is always good enough’: Rep.
+Jessica González named Women of the Year Honoree March 13, 2022 Caller-Times What advice would you give your younger self?
 Your best is always good enough, even if the outcome is not what you expected.
 Never be scared to fail.
 Take the time to appreciate your hard work when you succeed at something you worked hard to accomplish but have compassion on yourself when you don’t quite get there the first time.
 Then try again because hard work and dedication pays off.
-The White House discussion between Harris and state lawmakers was led by state Rep.
+Read more → March 13, 2022 Caller-Times June 17, 2021 San Antonio Express-News Vice President Kamala Harris says Texas is key example of why a new federal elections law is needed June 17, 2021 San Antonio Express-News The White House discussion between Harris and state lawmakers was led by state Rep.
 Jessica González, the Dallas Democrat who serves as the vice chair of the House elections committee, and centered on the coalition-building behind their efforts to pull down SB 7 as well as the role Texas Democrats could play in forging a path forward on the federal legislation.
-Join The Team
-Sign up for updates on how you can get involved to keep HD 104 blue!
+Read more → June 17, 2021 San Antonio Express-News June 4, 2021 San Antonio Express-News How Black and Latino Democrats staged a dramatic walkout to kill Texas’ controversial voting bill June 4, 2021 San Antonio Express-News Read more → June 4, 2021 San Antonio Express-News June 1, 2021 Texas Tribune For Democrats of color, walkout on Texas voting bill was rooted in the long fight for equal voting rights June 1, 2021 Texas Tribune Read more → June 1, 2021 Texas Tribune May 31, 2021 Washington Post After defeating restrictive voting bill, Texas Democrats send loud message: ‘We need Congress to do their part’ May 31, 2021 Washington Post Read more → May 31, 2021 Washington Post May 31, 2021 Washington Post Texas Democrats block restrictive voting bill by walking off the floor to deny GOP-majority House a quorum May 31, 2021 Washington Post Read more → May 31, 2021 Washington Post May 31, 2021 Texas Tribune Texas Democrats abandon House floor, blocking passage of voting bill before final deadline May 31, 2021 Texas Tribune Read more → May 31, 2021 Texas Tribune May 31, 2021 Rolling Stone Texas Gov.
+Threatens Paychecks After Democrats Walk Out to Block Voter Suppression Bill May 31, 2021 Rolling Stone Read more → May 31, 2021 Rolling Stone May 31, 2021 Caller-Times GOP Texas House speaker: Democrats had a right to bust quorum over elections bill May 31, 2021 Caller-Times Read more → May 31, 2021 Caller-Times May 30, 2021 WFAA Texas politicians weigh in on controversial elections bill Senate Bill 7 May 30, 2021 WFAA Read more → May 30, 2021 WFAA May 30, 2021 Caller-Times Texas Democrats walk out of House chamber to stop debate on sweeping GOP-backed elections bill May 30, 2021 Caller-Times Read more → May 30, 2021 Caller-Times May 17, 2021 Courthouse News Service Texas Voting Restriction Bill Faces Revisions in Conference Committee May 17, 2021 Courthouse News Service Read more → May 17, 2021 Courthouse News Service May 14, 2021 New York Times She’s a Texas Democrat, Weighing How to Defend Voting Rights May 14, 2021 New York Times Read more → May 14, 2021 New York Times Join The Team Sign up for updates on how you can get involved to keep HD 104 blue!
+Pol.
+Adv.
+Paid by Jessica González Campaign.
+P.O.
+Box 224392 Dallas, TX 75222-4392 View our Terms of Service and Privacy Policy by clicking here.

@@ -1,10 +1,34 @@
 [
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://tessabaloshawaii.com/",
-"https://tessabaloshawaii.com/donate",
-"https://tessabaloshawaii.com/make-history-with-tess-1",
-"https://tessabaloshawaii.com/meet-tess",
-"https://tessabaloshawaii.com/on-to-general-elec",
-"https://tessabaloshawaii.com/what-tess-stands-for"
+{
+"text": "Donate",
+"href": "https://tessabaloshawaii.com/donate"
+},
+{
+"text": "Home",
+"href": "https://tessabaloshawaii.com/"
+},
+{
+"text": "Make History with Tess",
+"href": "https://tessabaloshawaii.com/make-history-with-tess-1"
+},
+{
+"text": "Meet Tess",
+"href": "https://tessabaloshawaii.com/meet-tess"
+},
+{
+"text": "On to General Elec",
+"href": "https://tessabaloshawaii.com/on-to-general-elec"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "What Tess stands for",
+"href": "https://tessabaloshawaii.com/what-tess-stands-for"
+}
 ]

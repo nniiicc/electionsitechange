@@ -1,18 +1,1 @@
-Welcome
-How I Serve The Community
-Biography
-What My Voters Say
-Gallery
-Where To Find Me
-Get In Touch
-Follow Me
-0
-Merchant Policies
-Delivery methods
-Collection
-Free
-Payment options
-Payment methods accepted
-Terms & Conditions
-Privacy Policy
-Refund Policy
+Welcome How I Serve The Community Biography What My Voters Say Gallery Where To Find Me Get In Touch Follow Me 0 Merchant Policies Delivery methods Collection Free Payment options Payment methods accepted Terms & Conditions Privacy Policy Refund Policy Merchant Policies Legal Notice powered by

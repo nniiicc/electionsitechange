@@ -1,27 +1,27 @@
-Matt Van Epps for Congress ("We," "Us," "Our") is offering a mobile messaging program (the "Program"), subject to these Mobile Messaging Terms and Conditions (the "Terms").
+Home Meet Matt Issues Endorsements News Election Info Volunteer Donate SMS Terms and Conditions Matt Van Epps for Congress ("We," "Us," "Our") is offering a mobile messaging program (the "Program"), subject to these Mobile Messaging Terms and Conditions (the "Terms").
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply "STOP" to any mobile message from Us in order to opt out of the Program.
-Matt Van Epps for Congress: You've subscribed to receive messages from Matt Van Epps for Congress.
+User Opt In Matt Van Epps for Congress: You've subscribed to receive messages from Matt Van Epps for Congress.
 Msg & Data Rates May Apply.
 Message frequency varies.
 The Program allows users to receive SMS/MMS mobile messages by users affirmatively opting into the Program, such as through online enrollment forms.
 Regardless of the opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
 The mobile messaging service used by Us to communicate with you requires human intervention for Our mobile messages to be initiated, and thus Our mobile messages are not sent to you by an automatic telephone dialing system ("ATDS" or "autodialer").
 Nevertheless, by participating in the Program, you agree to receive autodialed marketing mobile messages and you understand that consent is not required to make any purchase from Us.
-Without limiting the scope of the Program, users that opt into the Program can expect to receive messages concerning Matt Van Epps for Congress campaign updates, events, volunteer opportunities, and donation requests.
-Message and data rates may apply.
+Program Description Without limiting the scope of the Program, users that opt into the Program can expect to receive messages concerning Matt Van Epps for Congress campaign updates, events, volunteer opportunities, and donation requests.
+Cost and Frequency Message and data rates may apply.
 The Program involves recurring mobile messages, and additional mobile messages may be sent based on your interaction with Us.
-Matt Van Epps for Congress: To opt out (discontinue participation in Program), reply "STOP" to any of Our mobile messages from your mobile device.
+User Opt Out and Additional Commands Matt Van Epps for Congress: To opt out (discontinue participation in Program), reply "STOP" to any of Our mobile messages from your mobile device.
 This is the easiest and preferred method to opt out of the Program.
 You may receive an additional mobile message confirming your decision to opt out.
 You may also opt out by texting "QUIT", "END", "CANCEL", "UNSUBSCRIBE", or "STOP ALL" to any of Our mobile messages you receive, or by contacting Us via the means provided below and clearly communicating your intent to unsubscribe from the Program.
 For additional support, text "HELP" to get help.
 Please reach out to us at alex@mattfortn.com for help from Matt Van Epps for Congress.
-The Program will send SMS MTs if your mobile device does not support MMS messaging.
-We will not be liable for any delays or failures in the receipt of any mobile messages connected with this Program.
+MMS Disclosure The Program will send SMS MTs if your mobile device does not support MMS messaging.
+Our Warranty We will not be liable for any delays or failures in the receipt of any mobile messages connected with this Program.
 Delivery of mobile messages is subject to effective transmission from your wireless service provider/network operator, and is outside of Our control.
 T-Mobile is not liable for delayed or undelivered mobile messages.
-We respect your right to privacy.
-You can view our privacy policy here.
+Privacy Policy We respect your right to privacy.
+You can view our privacy policy here .
 We will only use information you provide to transmit your mobile messages and respond to you, if necessary.
 WE DO NOT SHARE, SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS OR CUSTOMER INFORMATION COLLECTED THROUGH THE TEXT PROGRAM TO ANY THIRD PARTY.
 Nonetheless, We reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect Our rights or property.
@@ -29,7 +29,7 @@ When you complete forms online or otherwise provide Us information in connection
 You agree not to use a false or misleading name or a name that you are not authorized to use.
 If in Our sole discretion, believe that any such information is untrue, inaccurate, or incomplete, or you have opted into the Program for an ulterior purpose, We may refuse you access to the Program and pursue any appropriate legal remedies.
 This Privacy Policy is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
-In the event that there is a dispute, claim or controversy between you and Us, or between you and any third-party service provider acting on Our behalf to transmit the mobile messages within the scope of the Program, arising out of or relating to federal or state statutory claims, common law claims, these Terms, Our Privacy Policy, or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, such dispute, claim or controversy will be determined by arbitration in Nashville, TN before one arbitrator.
+Dispute Resolution In the event that there is a dispute, claim or controversy between you and Us, or between you and any third-party service provider acting on Our behalf to transmit the mobile messages within the scope of the Program, arising out of or relating to federal or state statutory claims, common law claims, these Terms, Our Privacy Policy, or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, such dispute, claim or controversy will be determined by arbitration in Nashville, TN before one arbitrator.
 The arbitration will be administered by JAMS.
 For claims greater than $250,000, the JAMS Comprehensive Arbitration Rules and Procedures in effect at the time the arbitration is commenced will apply.
 For claims less than or equal to $250,000, the JAMS Streamlined Arbitration Rules in effect at the time the arbitration is commenced will apply.
@@ -48,7 +48,7 @@ Each party will advance one-half of the fees and expenses of the arbitrator, the
 In any arbitration arising out of or related to these Terms, the arbitrators will award to the prevailing party, if any, costs and attorneys' fees reasonably incurred by the prevailing party in connection with that aspect of its claims or defenses on which it prevails, and any opposing awards of costs and attorneys' fees awards will be offset.
 The parties will maintain the confidential nature of the arbitration proceeding, the hearing and the Award, except as may be necessary to prepare for or conduct the arbitration hearing on the merits, or except as may be necessary in connection with a court application for a preliminary remedy, or confirmation of an Award or its enforcement, or unless otherwise required by any applicable law.
 Any documentary or other evidence produced in any arbitration hereunder will be treated as confidential by the parties, witnesses and arbitrators, and will not be disclosed to any third person (other than witnesses or experts), except as required by any applicable law or except if such evidence was obtained from the public domain or is otherwise obtained independently of the arbitration.
-You warrant and represent to Us that you have all necessary rights, power, and authority to agree to these Terms and perform your obligations hereunder, and nothing contained in this Agreement or in the performance of such obligations will place you in breach of any other contract or obligation.
+Miscellaneous You warrant and represent to Us that you have all necessary rights, power, and authority to agree to these Terms and perform your obligations hereunder, and nothing contained in this Agreement or in the performance of such obligations will place you in breach of any other contract or obligation.
 The failure of either party to exercise in any respect any right provided for herein will not be deemed a waiver of any further rights hereunder.
 If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable.
 Any new features, changes, updates or improvements of the Program shall be subject to these Terms unless explicitly stated otherwise in writing.
@@ -56,5 +56,8 @@ We reserve the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
-Last updated: 8/13/2026
-If you have any questions about these Terms, please contact us at alex@mattfortn.com.
+Last updated: 8/13/2026 If you have any questions about these Terms, please contact us at alex@mattfortn.com .
+Matt Van Epps for Congress Fighting for Tennessee families with conservative values and proven leadership.
+Together, we can bring real change to Washington.
+Get Involved Volunteer Donate Meet Matt Contact alex@mattfortn.com Paid for by Matt Van Epps for Congress Use of military rank, job titles, and photographs in uniform does not imply an endorsement by the United States Army or the DoD.
+Privacy Policy

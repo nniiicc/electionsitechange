@@ -1,23 +1,6 @@
-$17.99–$30.99
-This lightweight crewneck tee carries a clean, classic look with a bold, typographic design across the chest.
+Justin Griffis State Representative · MI 47 Home About Platform District Events Volunteer Vote Store Contact Donate ← Back to Store Justin Griffis Campaign T-Shirt $17.99–$30.99 This lightweight crewneck tee carries a clean, classic look with a bold, typographic design across the chest.
 Soft ring‑spun cotton gives it a smooth hand and breathable feel, while the tubular construction and ribbed collar keep the shape wash after wash.
 The understated, single‑color print reads confidently without shouting — a subtle piece for everyday wear or casual public events.
 Comfortable enough to wear all day, it layers easily under jackets or pairs with denim for an approachable, polished look.
-Product features
-- 100% ring-spun cotton (lightweight 153 g/m²) for a soft, breathable feel
-- Tubular knit without side seams for a smooth silhouette
-- Ribbed knit collar with shoulder tape to retain shape and prevent stretching
-- Pearlized tear-away label for itch-free comfort; adult sizes only
-- DTG/DTF printing used for crisp chest and sleeve prints; Oeko-Tex certified and ethically sourced cotton
-Care instructions
-- Do not dryclean
-- Do not bleach
-- Tumble dry: low heat
-- Iron, steam or dry: low heat
-- Machine wash: cold (max 30C or 90F), with similar colors
-Product features
-Care instructions
-- Do not dryclean
-- Do not bleach
-- Tumble dry: low heat
-- Iron, steam or dry: low heat
+Product features - 100% ring-spun cotton (lightweight 153 g/m²) for a soft, breathable feel - Tubular knit without side seams for a smooth silhouette - Ribbed knit collar with shoulder tape to retain shape and prevent stretching - Pearlized tear-away label for itch-free comfort; adult sizes only - DTG/DTF printing used for crisp chest and sleeve prints; Oeko-Tex certified and ethically sourced cotton Care instructions - Do not dryclean - Do not bleach - Tumble dry: low heat - Iron, steam or dry: low heat - Machine wash: cold (max 30C or 90F), with similar colors Option * White / L — $22.99 Light Pink / L — $17.99 Light Pink / XL — $19.99 Light Pink / S — $20.99 Sport Grey / M — $20.99 Sport Grey / XL — $20.99 Sport Grey / L — $21.99 White / 2XL — $21.99 White / M — $21.99 White / S — $21.99 White / XS — $21.99 White / XL — $22.99 Sport Grey / XS — $24.99 Light Pink / M — $25.99 Light Pink / 2XL — $26.99 Sport Grey / S — $27.99 Sport Grey / 2XL — $28.99 White / 3XL — $28.99 Light Pink / 3XL — $29.99 White / 4XL — $29.99 Sport Grey / 3XL — $30.99 Sport Grey / 4XL — $30.99 Sport Grey / 5XL — $30.99 White / 5XL — $30.99 Quantity Add to Cart Justin Griffis Common-sense Republican running for Michigan State Representative in the 47th District. f X IG Campaign About Justin Platform The 47th District Events Get Involved Donate Volunteer Voter Info Contact Contact General: [email protected] Press: [email protected] Paid for by Justin Griffis for State Representative · 9175 Dogwood Ln, Dexter, MI 48130 © # Justin Griffis for State Representative.
+All rights reserved.

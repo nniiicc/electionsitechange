@@ -1,9 +1,6 @@
-ABOUT OUR DISTRICT
-MISSOURI HOUSE
-DISTRICT 30
-House District 30 is one of the most competitive legislative districts in the state of Missouri.
+0 Skip to Content About Priorities Get Involved Events 30th District DONATE Open Menu Close Menu About Priorities Get Involved Events 30th District DONATE Open Menu Close Menu About Priorities Get Involved Events 30th District DONATE ABOUT OUR DISTRICT MISSOURI HOUSE DISTRICT 30 House District 30 is one of the most competitive legislative districts in the state of Missouri.
 The district is a diverse, community-focused, and located entirely within Lee’s Summit, in Eastern Jackson County.
 From working families and students, to seniors and small business owners, our district shares the same values: safe neighborhoods, strong schools, and a government that puts people first.
-WHAT DISTRICT 30 VOTERS SUPPORTED
-2024 Ballot Measures
-District 30 voters supported multiple ballot measures by strong margins, reflecting a community that values personal freedom, working families, and protecting the will of the voters.
+WHAT DISTRICT 30 VOTERS SUPPORTED 2024 Ballot Measures District 30 voters supported multiple ballot measures by strong margins, reflecting a community that values personal freedom, working families, and protecting the will of the voters.
+Paid for by Committee to Elect Kevin Grover, Geri Norman, Treasurer.
+328 NE Parks Edge Place Lee's Summit, MO 64064

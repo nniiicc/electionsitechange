@@ -1,4 +1,4 @@
-[January 21, 2024] | During the busy 40 days when we are in session at the Georgia Capitol in Atlanta, young people from across our state have the opportunity to come to the Capitol and be a "Page for the Day." It is an opportunity to be a part of the legislative process.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK PAGE FOR A DAY [ January 21, 2024 ] | During the busy 40 days when we are in session at the Georgia Capitol in Atlanta, young people from across our state have the opportunity to come to the Capitol and be a "Page for the Day." It is an opportunity to be a part of the legislative process.
 Pages deliver messages, and learn about Georgia and Capitol history and process of legislation during their time on the Floor.
 You get to visit your Legislators and listen to debate and see the work of the State first-hand.
 I hope that any student interested in government or learning more about the legislative process will apply for this exciting program.
@@ -6,8 +6,7 @@ I always look forward to meeting students from our district and watching as they
 It is a busy day, and you will learn a lot.
 The Page must be at the Capitol, checking in on the fourth floor, at 9 am.
 Sorry it's so early, but the Page has to be at the Capitol in time for the orientation meeting.
-(So, parents have to commit to this early day as well!)
-Our schedule is somewhat unpredictable, as the legislators sometimes meet for a few hours in the morning and sometimes continue meeting late into the evening.
+(So, parents have to commit to this early day as well!) Our schedule is somewhat unpredictable, as the legislators sometimes meet for a few hours in the morning and sometimes continue meeting late into the evening.
 Students ages 12-18 are encouraged to take part in this program.
 You do have the flexibility to leave when you need to.
 We always have lunch for our Pages, and they even get paid.
@@ -17,8 +16,7 @@ I know my own children and many others have enjoyed going to the Capitol to Page
 Each year I receive a limited number of Page slots which I fill on a first come, first serve basis.
 If you are interested, you can visit our House website or call my Capitol office at (404) 656- 7153, and we will send you forms to fill out and return to our office.
 We would love to have you take part in Georgia's government.
-MORE NEWS
-To kick off budget week, Governor Brian Kemp presented his formal recommendations to the joint committee for the current and upcoming fiscal year budgets, and the Governor's proposal will be incorporated into legislation that will guide how our state allocates its spending.
+MORE NEWS To kick off budget week, Governor Brian Kemp presented his formal recommendations to the joint committee for the current and upcoming fiscal year budgets, and the Governor's proposal will be incorporated into legislation that will guide how our state allocates its spending.
 Each department head and elected official presented their needs to the members with many questions asked.
 Now that the joint budget hearings have concluded, the House Appropriations subcommittees will begin to meet to review specific portions of the budget and to look deeper into the state agencies' budget needs.
 Being an Appropriations committee member, I have one meeting at 8 am on Monday to get the week started off right!
@@ -27,3 +25,4 @@ I encourage you to visit me at my Capitol office, or call me if you have any que
 My Capitol office number is 404-656-7153.
 My email is rick.jasperse@house.ga.gov.
 As always, thank you for allowing me to serve as your State Representative.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

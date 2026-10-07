@@ -1,15 +1,7 @@
-KIM DAILEY * HOUSE DISTRICT 85 * REPUBLICAN
-ENDORSED BY:
-Meet Kim Dailey and Local Conservative Candidates in Hamilton
-Wed, Mar 25
-|The Edge Restaurant & Sports Bar
-This informal gathering provides voters with a chance to meet the candidates face to face, ask questions, and learn more about their vision for Montana’s future.
-Time & Location
-Mar 25, 2026, 6:00 PM – 8:00 PM
-The Edge Restaurant & Sports Bar, 140 Bitterroot Plaza Dr, Hamilton, MT 59840, USA
-About the event
-Meet Kim Dailey and Local Conservative Candidates in Hamilton
-Voters across Ravalli County are invited to attend a special community event to meet several local conservative candidates who are running to represent the Bitterroot Valley in the Montana Legislature.
+top of page KIM DAILEY * HOUSE DISTRICT 85 * REPUBLICAN HOME MEET KIM ON THE ISSUES EVENTS UPDATES GET INVOLVED CONTACT MEDIA KIT DONATE ENDORSED BY: Endorsed by: Montanans for Limited Government, Montana Conservative Alliance, Montana Freedom Caucus PAC, and the Americans for Prosperity- Montana Meet Kim Dailey and Local Conservative Candidates in Hamilton Wed, Mar 25 | The Edge Restaurant & Sports Bar This informal gathering provides voters with a chance to meet the candidates face to face, ask questions, and learn more about their vision for Montana’s future.
+Registration is closed See other events Time & Location Mar 25, 2026, 6:00 PM – 8:00 PM The Edge Restaurant & Sports Bar, 140 Bitterroot Plaza Dr, Hamilton, MT 59840, USA About the event Meet Kim Dailey and Local Conservative Candidates in Hamilton Voters across Ravalli County are invited to attend a special community event to meet several local conservative candidates who are running to represent the Bitterroot Valley in the Montana Legislature.
 On Wednesday, March 25 from 6:00–8:00 PM, community members will have the opportunity to meet Kim Dailey, along with fellow candidates Ken Allen and Kathy Love.
 The event will be held at The Edge Restaurant, located at 140 Bitterroot Plaza Drive in Hamilton.
 This informal gathering provides voters with a chance to meet the candidates face to face, ask questions, and learn more about their vision for Montana’s future.
+An Opportunity to Connect With Your Candidates Show More Share this event Join Team Kim: Stay Informed, Stay Involved Email * Name Last name Phone Zip Code Submit Paid for by: Kim Dailey Campaign, P.O.
+Box 193, Florence MT 59833 DONATE HOME MEET KIM ON THE ISSUES EVENTS UPDATES GET INVOLVED CONTACT MEDIA KIT bottom of page

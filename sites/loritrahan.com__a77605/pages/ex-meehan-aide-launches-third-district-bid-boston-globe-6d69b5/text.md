@@ -1,6 +1,7 @@
-Ex-Meehan Aide launches Third District bid / Boston Globe
-Democratic congressional candidate Lori Trahan formalized her campaign Thursday, touting a $242,000 fund-raising haul in the last two weeks of September.
+Skip to content Menu Home Meet Lori Priorities Education Jobs & The Economy Healthcare Women’s Rights Immigration Reform Election Reform Opioids & Substance Abuse Gun Reform Energy and the Environment Media Get Involved Volunteer Register to Vote Contribute Close Menu October 12 2017 Ex-Meehan Aide launches Third District bid / Boston Globe Democratic congressional candidate Lori Trahan formalized her campaign Thursday, touting a $242,000 fund-raising haul in the last two weeks of September.
 Trahan, who was former congressman Marty Meehan’s chief of staff and now works as a business consultant, said the majority of her donations came from inside the district and from women.
 “This is going to be a competitive race, and I plan on being competitive, so I’m optimistic about my ability to raise money and my support going forward,” she said Thursday in a phone interview.
 Her announcement adds to a growing field of candidates to succeed US Representative Niki Tsongas, who has said she will not run for reelection next year.
 Read more in the Boston Globe.
+Lowell Native Lori Trahan Announces Candidacy for Tsongas Congressional Seat Westford’s Lori Trahan launches campaign for 3rd District seat / Lowell Sun Related Posts Uncategorized Congresswoman Lori Trahan introduced the Pandemic Production Act Uncategorized The Merrimack River: A treasure worth protecting – By Lori Trahan Uncategorized Trahan Shows Support for Local Farmers Back To Top P.O.
+Box 1161 Lowell, MA 01853 Paid for by Lori Trahan for Congress

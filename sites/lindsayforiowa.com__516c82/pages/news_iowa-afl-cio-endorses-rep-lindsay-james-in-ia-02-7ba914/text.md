@@ -1,16 +1,25 @@
-PRESS RELEASE
-Iowa AFL-CIO Endorses Rep.
-Lindsay James in IA-02
-Dubuque, IA - Over the weekend, the Iowa Federation of Labor, AFL-CIO met at their annual COPE Convention where their members voted to endorse State Representative Lindsay James in the race for Iowa’s 2nd Congressional district.
+Skip navigation menu About Endorsements Issues News Volunteer Events Store Donate About Endorsements Issues News Volunteer Events Store Donate PRESS RELEASE Iowa State Council of Machinists Endorses Rep.
+Lindsay James in IA-02 NEWS ARTICLE Lindsay James campaigns in Cedar Rapids for congressional seat NEWS ARTICLE How the GOP motivated these women faith leaders to run for Congress as Democrats PRESS RELEASE Iowa AFL-CIO Endorses Rep.
+Lindsay James in IA-02 NEWS ARTICLE Trump sinking Republican hopes in Iowa PRESS RELEASE End Citizens United Endorses State Representative Lindsay James for Iowa’s 2nd Congressional District PRESS RELEASE Ironworkers Local 89 Endorses Rep.
+Lindsay James in IA-02 PRESS RELEASE Elect Democratic Women Endorses Lindsay James for Iowa’s 2nd Congressional District PRESS RELEASE Statewide Iowa Teamsters Endorses Rep.
+Lindsay James in IA-02 NEWS ARTICLE Whirlpool employees protest Amana layoffs at the Statehouse PRESS RELEASE Lindsay James Statement on Vote to Extend ACA Tax Credits That 26,000 Iowans Rely On in IA-02 NEWS ARTICLE Iowa Second Congressional District candidate Lindsay James discusses campaign NEWS ARTICLE Iowa public sector union reveals which candidates they're endorsing ahead of primary NEWS ARTICLE Why Iowa Dems are excited about 2026 NEWS ARTICLE Beyond the Podium: 2nd Congressional District candidate Lindsay James NEWS ARTICLE James, Mitchell to face off for Rep.
+Hinson's 2nd District seat NEWS ARTICLE Democrats’ Chances of Flipping Trump Stronghold That Obama Won Twice NEWS ARTICLE Voters select candidates in key House districts that could decide the majority NEWS ARTICLE Dubuquer sets sights on Congress after winning Democratic nomination NEWS ARTICLE Sabato's Crystal Ball Rating Changes in Iowa Following Tuesday's Primary NEWS ARTICLE POLITICO: Democrats see the stars aligning in Iowa NEWS ARTICLE Defend The Vote endorses Lindsay James in Iowa's 2nd Congressional District race NEWS ARTICLE LCV ACTION FUND ENDORSES 22 CANDIDATES FOR CONGRESS NEWS ARTICLE Cook Political Report shifts 7 House races toward Democrats NEWS ARTICLE Lindsay James announces ‘Veterans for Lindsay' coalition NEWS ARTICLE Surprising Iowa, with a Governor, Senator & 3 House seats at Stake NEWS ARTICLE CNBC: Iowa Home to Some of the “Most Promising Opportunities to Pick Up House Seats” NEWS ARTICLE LISTEN: Sec.
+RFK, Jr. tries to convince Iowa candidate to drop out of race NEWS ARTICLE Centrist Democrats back more candidates NEWS ARTICLE Buttigieg rallies Iowans; Democrats optimistic for midterms NEWS ARTICLE Exclusive: Iowa Democrats expand cash edge in key US House races NEWS ARTICLE Red state races look 'surprisingly competitive' for Democrats: local expert NEWS ARTICLE Eyes on Iowa: Five of the top six races this November are winnable for Democrats NEWS ARTICLE She’s been a minister, a chaplain, and a state rep.
+Now Lindsay James is running for Congress NEWS ARTICLE Congressional candidate Lindsay James on healthcare, cancer rates and new taxes NEWS ARTICLE The Hawkeye State of Play: Key Iowa Races NEWS ARTICLE Forecaster shifts Iowa US House District 2 from 'likely Republican' to 'lean Republican' NEWS ARTICLE Rating changes: 10 of 11 races shift toward Democrats NEWS ARTICLE Lindsay James highlights faith background during Register Soapbox NEWS ARTICLE Lindsay James says cost-of-living is forcing Iowans into 'impossible choices' Lindsay James: Guest Columnist It's a Scary Time to be a Parent NEWS ARTICLE Two of the Democratic U.S.
+House candidates in Iowa are clergy members NEWS ARTICLE These politicians love talking about religion.
+They're also Democrats NEWS ARTICLE ‘I’ll keep showing up’ NEWS ARTICLE U.S.
+House Candidate Lindsay James (D-IA) Speaks to Reporters in Mason City NEWS ARTICLE Mitchell, James sharpen economic pitches in Iowa’s 2nd District NEWS ARTICLE Lindsay James calls for a ‘moral reckoning’ in D.C.
+NEWS ARTICLE U.S.
+House candidate Lindsay James brings Crowded Table Town Hall Tour to Tama County NEWS ARTICLE Lindsay James on protecting Social Security, preventing benefit cuts NEWS ARTICLE Candidates cite corruption as key issue in Iowa’s 2nd Congressional District race Policy Plan Lindsay James Anti-Corruption Plan Apr 16 2026 PRESS RELEASE Iowa AFL-CIO Endorses Rep.
+Lindsay James in IA-02 Dubuque, IA - Over the weekend, the Iowa Federation of Labor, AFL-CIO met at their annual COPE Convention where their members voted to endorse State Representative Lindsay James in the race for Iowa’s 2nd Congressional district.
 “Lindsay James is the best candidate for working men and women, as well as their families.” said Iowa Federation of Labor President Charlie Wishman.
 The Iowa Federation of Labor, AFL-CIO represents over 42,000 members of over 280 unions in Iowa.
 “I’m incredibly excited to have the endorsement from the Iowa Federation of Labor, AFL-CIO.
 Working Iowans are tired of the corruption in DC leading to impossible financial choices for their families.
 I look forward to going to Washington and fighting to increase wages and bring down the cost of housing, healthcare, and groceries to make Iowan’s lives easier.” said Lindsay James.
-###
-About State Representative Lindsay James
-Lindsay James has served in the Iowa House since 2019 and is an ordained Presbyterian chaplain.
+### About State Representative Lindsay James Lindsay James has served in the Iowa House since 2019 and is an ordained Presbyterian chaplain.
 She was the PTA President of Irving Elementary School in Dubuque and served on the Dubuque Community Development Advisory Commission.
 She and her husband, Chris, have two kids and live in Dubuque.
 They are members of Holy Trinity Lutheran Church in Dubuque.
 For more information about Lindsay James’ campaign, visit www.LindsayforIowa.com or follow her on social media on Facebook at Lindsay4Iowa, X at @Lindsay4Iowa, and Instagram @Lindsay4Iowa.
+For press inquiries please contact press@lindsayforiowa.com For other inquiries please contact info@lindsayforiowa.com P.O Box 144, Dubuque, IA 52004 Private Policy Powered by RUN! website builder Paid for by Lindsay for Iowa You need to enable JavaScript to run this app.

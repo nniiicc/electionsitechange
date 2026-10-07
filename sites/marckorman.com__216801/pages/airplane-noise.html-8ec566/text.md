@@ -1,12 +1,11 @@
-Changes by the Federal Aviation Administration (FAA) to Reagan National Airport flight paths have led to planes regularly flying directly over some Montgomery County neighborhoods, greatly disturbing residents because of significant noise and air pollution.
+Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe AIRPLANE NOISE Changes by the Federal Aviation Administration (FAA) to Reagan National Airport flight paths have led to planes regularly flying directly over some Montgomery County neighborhoods, greatly disturbing residents because of significant noise and air pollution.
 The FAA is regulated at the federal level, but Marc has worked alongside his state legislative colleagues and concerned neighbors to find a solution to this problem.
 The FAA has been asked to return to previous flight patterns until a solution can be established, but they have not cooperated.
 In April 2017, the FAA was presented with a plan by the Metropolitan Washington Airports Authority (MWAA) Noise Advisory Working Group, but the FAA only agreed to extend the work group.
 The District 16 legislators wrote to the Attorney General and Governor to encourage litigation, which has been successful elsewhere.
-You can read the letter to the Attorney General here, and the letter to the Governor here.
+You can read the letter to the Attorney General here , and the letter to the Governor here .
 The Governor and Attorney General have both agreed to pursue litigation and the Attorney General has hired outside counsel that won a similar suit in Phoenix in preparation to file suit against the FAA.
 In 2019, a federal appeals court agreed to hear Maryland’s lawsuit against the FAA.
 In addition, the U.S.
-Government Accountability Office released a report (https://www.gao.gov/products/GAO-21-200) in early 2021 responding to aircraft noise complaints in the Washington D.C. area.
-Marc will continue to monitor the situation and use what power he and his legislative colleagues have at the state level to reduce this disturbance for our neighbors.
-By Authority of Friends of Marc Korman; Mark Brown, Treasurer
+Government Accountability Office released a report (https://www.gao.gov/products/GAO-21-200) in early 2021 responding to aircraft noise complaints in the Washington D.C. area. ​Marc will continue to monitor the situation and use what power he and his legislative colleagues have at the state level to reduce this disturbance for our neighbors.
+By Authority of Friends of Marc Korman; Mark Brown, Treasurer HOME ABOUT MARC ISSUES SCHOLARSHIP LATEST NEWS CONTRIBUTE CONTACT sign up to receive updates

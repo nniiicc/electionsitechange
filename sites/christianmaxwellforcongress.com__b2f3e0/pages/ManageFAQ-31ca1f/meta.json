@@ -1,7 +1,9 @@
 {
  "description": "Manage FAQ on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ManageFAQ",
- "paid_for_by": null,
+ "fingerprint": "e1b17955fb8ded13d04606f3f792e92d85559911",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Manage FAQ | Maxwell for Congress",
  "years_mentioned": []
 }

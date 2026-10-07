@@ -1,4 +1,2 @@
-Copyright © 2026 Hoosiers to Elect Nate Stout - All Rights Reserved.
+Home Volunteer About Me Endorsements Policy More Home Volunteer About Me Endorsements Policy Home Volunteer About Me Endorsements Policy PUBLIC EDUCATION FUNDING HEALTHCARE ACCESS RURAL ECONOMIC DEVELOPMENT THE 2ND AMENDMENT REPRODUCTIVE FREEDOM UNION SUPPORT CANNABIS LEGALIZATION DATA CENTERS FLOCK CAMERAS Volunteer About Me Privacy Policy Policy Nate for 38 Copyright © # Hoosiers to Elect Nate Stout - All Rights Reserved.
 This website is paid for by Hoosiers to Elect Nate Stout.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.

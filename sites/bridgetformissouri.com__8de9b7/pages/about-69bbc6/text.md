@@ -1,5 +1,4 @@
-Meet Bridget
-Bridget Walsh Moore is the State Representative for Missouri’s 93rd District.
+0 Skip to Content About Issues Endorsements Get Involved Donate Open Menu Close Menu About Issues Endorsements Get Involved Donate Open Menu Close Menu About Issues Endorsements Get Involved Donate Meet Bridget Bridget Walsh Moore is the State Representative for Missouri’s 93rd District.
 After graduating from Ursuline Academy in St.
 Louis in 2006, Bridget went on to attend Bradley University’s Institute of International Studies in Peoria, IL, where she graduated in 2010 as a member of the International Studies Honor Society.
 During her time at Bradley University, Bridget also studied Arabic language and International Relations at the American University in Cairo, in Cairo, Egypt.
@@ -17,8 +16,9 @@ Patrick’s Day Parade, as well as active parishioners at Our Lady of Sorrows Ca
 Bridget is also involved with the Great Rivers Environmental Law Center, North Broadway Business Development Community, Disabled Athletes Sports Association, and Progressive Democrats of Lemay.
 Since joining the legislature, Bridget has introduced and co-sponsored over a dozen pieces of legislation, including the Missouri Earned Family and Medical Leave Act which would grant up to six weeks of paid leave to every employee in the state.
 She also is the Founder and Co-Chair of the American Irish Legislative Caucus.
-About the 93rd District
-Missouri’s 93rd State House District overlaps with Lemay, Mehlville, Affton, and Bella Villa in St.
+About the 93rd District Missouri’s 93rd State House District overlaps with Lemay, Mehlville, Affton, and Bella Villa in St.
 Louis County.
 Students in the 93rd attend Affton, Bayless, Hancock Place, a and Mehlville school districts.
 To confirm your State House district, click here.
+Paid for by Citizens for Bridget Walsh Moore, Gregory C.
+Moore Treasurer.

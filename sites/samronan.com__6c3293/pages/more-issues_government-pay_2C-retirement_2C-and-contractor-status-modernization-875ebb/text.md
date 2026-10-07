@@ -1,28 +1,6 @@
-GOVERNMENT PAY, RETIREMENT, AND CONTRACTOR STATUS MODERNIZATION
-Federal Pay Scale Modernization
-All Federal pay schedules shall keep pace with inflation at a minimum
-General Schedule (GS)
-- GS pay shall begin at annual pay rates of $55,120
-- GS Pay Grade steps shall remain proportionately the same
-- GS Pay will apply to all industries that are federalized, in addition to traditional positions
-- The GS Schedule shall ensure well defined criteria for promotion, and pay raises
-Federal Wage System (FWS)
-- FWS pay shall begin at annual pay rates of $26.50/hour
-- FWS Pay Grade steps shall remain proportionately the same
-- FWS Pay will apply to all industries that are federalized, in addition to traditional positions
-- The FWS Schedule shall ensure well defined criteria for promotion, and pay raises
-Law Enforcement Officer (LEO) Schedule
-- LEO Schedules shall adjust in rate comparatively to GS rates
-Senior Executive Service (SES) Schedule
-- SES Schedules shall remain unchanged
-- Congress, federally elected or appointed officials, shall no longer have a voice to raise, or maintain their pay, that shall be determined by the US Department of Labor
-United States Postal Services (USPS)
-- The USPS shall maintain their current pay schedules; however, the US Department of Labor shall enter into negotiations to assimilate USPS pay schedules into one of the 4 existing pay schedules
-Pay Banding
-- Shall be disallowed, however, bonuses, and metrics-based pay may be used as an additional incentive in departments that choose to utilize them
-Retirement Modernization
-- All federal employees, including federal contractors, foreign contractors shall be eligible for retirement after 20 years of service, in addition to Thrift Savings Plan (TSP) funds
-- Elected members of the Federal Government, or Appointed Officials shall not include time served towards federal retirement years of service, but may utilize TSP, or other retirement programs that are self-funded
-Contractor Status, Rights, Retirement, Modernization
-- Henceforth, all government contractors shall receive the same benefits as regular federal employees, including counting federal contract time towards federal retirement, being able to contribute to and maintain a TSP account, and lateral transfers to official Federal Employment
-- Government contractors includes foreign nationals who are contracted by the Federal Government
+top of page Log In GOVERNMENT PAY, RETIREMENT, AND CONTRACTOR STATUS MODERNIZATION Previous Next Federal Pay Scale Modernization All Federal pay schedules shall keep pace with inflation at a minimum General Schedule (GS) GS pay shall begin at annual pay rates of $55,120 GS Pay Grade steps shall remain proportionately the same GS Pay will apply to all industries that are federalized, in addition to traditional positions The GS Schedule shall ensure well defined criteria for promotion, and pay raises Federal Wage System (FWS) FWS pay shall begin at annual pay rates of $26.50/hour FWS Pay Grade steps shall remain proportionately the same FWS Pay will apply to all industries that are federalized, in addition to traditional positions The FWS Schedule shall ensure well defined criteria for promotion, and pay raises Law Enforcement Officer (LEO) Schedule LEO Schedules shall adjust in rate comparatively to GS rates Senior Executive Service (SES) Schedule SES Schedules shall remain unchanged Congress, federally elected or appointed officials, shall no longer have a voice to raise, or maintain their pay, that shall be determined by the US Department of Labor United States Postal Services (USPS) The USPS shall maintain their current pay schedules; however, the US Department of Labor shall enter into negotiations to assimilate USPS pay schedules into one of the 4 existing pay schedules Pay Banding Shall be disallowed, however, bonuses, and metrics-based pay may be used as an additional incentive in departments that choose to utilize them Retirement Modernization All federal employees, including federal contractors, foreign contractors shall be eligible for retirement after 20 years of service, in addition to Thrift Savings Plan (TSP) funds Elected members of the Federal Government, or Appointed Officials shall not include time served towards federal retirement years of service, but may utilize TSP, or other retirement programs that are self-funded Contractor Status, Rights, Retirement, Modernization Henceforth, all government contractors shall receive the same benefits as regular federal employees, including counting federal contract time towards federal retirement, being able to contribute to and maintain a TSP account, and lateral transfers to official Federal Employment Government contractors includes foreign nationals who are contracted by the Federal Government STAY INVOLVED Stay updated on Sam's campaign for Congress in Ohio's 15th District.
+Email Address Submit Thanks for subscribing!
+Paid for and owned by SAMUEL RONAN FOR CONGRESS - All Rights Reserved © # Sam Ronan for Congress — Ohio's 15th District.
+Border Crisis America Works Taxation Police Reforms Other Policies Press Releases Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer Facebook Twitter YouTube Get in touch to discuss ways you can get involved.
+Contact Us Volunteer Press Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer More Use tab to navigate through the menu items.
+Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer bottom of page

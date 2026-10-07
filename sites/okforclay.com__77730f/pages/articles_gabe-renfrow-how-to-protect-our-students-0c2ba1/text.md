@@ -1,5 +1,6 @@
-In Gabes Own Words – What gun legislation would you propose to protect our students? https://youtu.be/H-2YoMt4VBE
-Gabe Renfrow, you’re next.
+Facebook Twitter Instagram Re-Elect Clay on Nov.
+3rd!
+Meet Clay Core Principles Core Issues Contact Clay Donate Select Page Gabe Renfrow | How To Protect Our Students Jul 25, 2022 | Uncategorized In Gabes Own Words – What gun legislation would you propose to protect our students? https://youtu.be/H-2YoMt4VBE Gabe Renfrow, you’re next.
 So you have to agree.
 You have to have single points of entry.
 There needs to be an armed, trained, police officer… guard, whatever you want to call it.
@@ -8,9 +9,7 @@ And then automatic lockdown doors that make each room a safe room.
 In Gabes Own Words – Watch Gabe Renfrow answer questions about issues that are important to you!
 The following content is transcribed verbatim from the video of the Candidate Forum put on in June sponsored by the Osage County Republican Party.
 It’s important to watch these video clips to give you an idea of Gabes leadership style and what is making him so confident that he’s the right candidate for the job in Oklahoma City.
-In Gabes Own Words – Why should someone vote for you? https://youtu.be/utSNISQaAaU
-Gabe Renfrow
-I love this question.
+In Gabes Own Words – Why should someone vote for you? https://youtu.be/utSNISQaAaU Gabe Renfrow I love this question.
 Why should we vote for you?
 It’s a very hard question to answer because I’m sitting up here with probably the three hardest candidates to run against.
 These gentlemen have backgrounds that I only wish I had, that I’m trying to start to do.
@@ -38,9 +37,7 @@ Some people have expressed concern about the lack of leadership experience coupl
 Some people feel like, even though Gabe is a very nice guy, he could actually be quite dangerous as a legislator because he would be so obligated to the friends and special interest groups that got him there that he wouldn’t be able to think for himself or overcome the pressures these groups would put on him.
 Yes, he knows the Heimlich Maneuver, but can he stand up to that kind of pressure?
 Or will he be like so many other men and women that we have voted for because of their claims of leadership only to find that when they get over to Oklahoma City they just fold under the pressure to “play the game” and vote along a particular party or special interest line even when it goes against what they promised, or even, what just makes sense?
-In Gabes Own Words – What are the top 3 issues you see arising from legalizing medical marijuana and how would you address them? https://youtu.be/DmKeww-HvK8
-Gabe Renfrow
-So it’s hard to agree with Wayne.
+In Gabes Own Words – What are the top 3 issues you see arising from legalizing medical marijuana and how would you address them? https://youtu.be/DmKeww-HvK8 Gabe Renfrow So it’s hard to agree with Wayne.
 We do need to untie the law enforcement’s hands to allow them to do their job, but we also need to allow the businesses that are legal to do their business.
 We also need to make sure that the product that those people are producing is right.
 So we need to increase the testing of the product and make sure that it’s going to the patients that there are no heavy metals in that product.
@@ -51,3 +48,5 @@ You have become a guinea pig while they gain experience at your expense!
 Sending a person to the state capitol to be your representative that has never “represented” or “led” anything is simply putting yourself into the position of being a guinea pig while they figure it out (or don’t).
 Especially in today’s world, proven leadership experience is vital when it comes to choosing a person to represent you and lead when they feel the pressure at the capitol.
 Vote for Clay Staires on August 23rd, 2022 for House of Representatives District 66.
+Search for: OkforClay@gmail.com Authorized and Paid for by Friends of Clay Staires for Representative 2026 Facebook Twitter Instagram © # OK for Clay.
+All rights reserved. | Sitemap | Privacy Policy Meet Clay Core Principles Core Issues Contact Clay Donate

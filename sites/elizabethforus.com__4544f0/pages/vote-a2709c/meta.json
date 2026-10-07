@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.elizabethforus.com/vote",
- "paid_for_by": null,
+ "fingerprint": "4c2e468528dc94e4ebafc3e0226d65a2aa84adc7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

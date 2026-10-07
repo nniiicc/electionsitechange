@@ -1,6 +1,8 @@
-Four main elements need to be addressed to begin to solve the affordability crisis.
-- Outstanding public education including low cost post-secondary college, technical, and trade schools.
-- Access to affordable healthcare insurance.
-- Expanded childcare options and credits so that families are not using large portions of their paychecks for childcare.
-- Economic development in rural areas of the state to create good high paying jobs so workers do not need to either relocate to urban areas or communte long distances to their work.
+Search this site Embedded Files Skip to main content Skip to navigation rwkarp.com Home Issues My Reform Agenda Education Reform Affordability Learn about Bob Karp Bob's Voter Guide Statement Gail Griffin In Her Own Words About Contact Us Resources Signs Graphics Texting Op-In Mobile Terms of Service Subscribe to newsletter rwkarp.com Home Issues My Reform Agenda Education Reform Affordability Learn about Bob Karp Bob's Voter Guide Statement Gail Griffin In Her Own Words About Contact Us Resources Signs Graphics Texting Op-In Mobile Terms of Service Subscribe to newsletter More Home Issues My Reform Agenda Education Reform Affordability Learn about Bob Karp Bob's Voter Guide Statement Gail Griffin In Her Own Words About Contact Us Resources Signs Graphics Texting Op-In Mobile Terms of Service Subscribe to newsletter Four main elements need to be addressed to begin to solve the affordability crisis.
+Outstanding public education including low cost post-secondary college, technical, and trade schools.
+Access to affordable healthcare insurance.
+Expanded childcare options and credits so that families are not using large portions of their paychecks for childcare.
+Economic development in rural areas of the state to create good high paying jobs so workers do not need to either relocate to urban areas or communte long distances to their work.
 Let's stop tax credits to businesses that locate in Maricopa & Pima counties!
+(C) Robert W Karp # Paid for by Bob Karp for AZ Senate, authorized by Bob Karp Contact the campaign at bobkarp2026@gmail.com 2069 Kaleigh Ct.
+Sierra Vista, AZ 85635, 520-559-3835 Our privacy policy: https://tinyurl.com/3dxf7cb3 Google Sites Report abuse Page details Page updated Google Sites Report abuse

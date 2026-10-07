@@ -1,19 +1,118 @@
 [
-"http://blake@carpenterforkansas.com/",
-"https://carpenterforkansas.com/",
-"https://carpenterforkansas.com/about-blake",
-"https://carpenterforkansas.com/district-81",
-"https://carpenterforkansas.com/get-involved",
-"https://carpenterforkansas.com/issues",
-"https://carpenterforkansas.com/podcasts",
-"https://carpenterforkansas.com/privacy-policy",
-"https://carpenterforkansas.com/terms-and-conditions",
-"https://facebook.com/BlakeCarpenter4KS",
-"https://fvap.gov/uploads/FVAP/Forms/fpca2013.pdf",
-"https://instagram.com/rep_carpenter",
-"https://kdor.ks.gov/Apps/VoterReg/Default.aspx",
-"https://kssos.org/forms/elections/AV1.pdf",
-"https://secure.winred.com/blake-carpenter/campaign",
-"https://sos.ks.gov/forms/elections/voterregistration.pdf",
-"https://twitter.com/Carpenter4KS"
+{
+"text": "(316)772-0886",
+"href": "tel:(316)772-0886"
+},
+{
+"text": "About Blake",
+"href": "https://www.carpenterforkansas.com/about-blake/"
+},
+{
+"text": "Apply for an advance ballot by mail",
+"href": "https://www.kssos.org/forms/elections/AV1.pdf"
+},
+{
+"text": "District 81",
+"href": "https://www.carpenterforkansas.com/district-81/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/blake-carpenter/campaign"
+},
+{
+"text": "Donate to the campaign",
+"href": "https://secure.winred.com/blake-carpenter/campaign"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BlakeCarpenter4KS"
+},
+{
+"text": "Get Involved",
+"href": "https://www.carpenterforkansas.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.carpenterforkansas.com/"
+},
+{
+"text": "Host a yard sign",
+"href": "http://blake@carpenterforkansas.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rep_carpenter/"
+},
+{
+"text": "Issues",
+"href": "https://www.carpenterforkansas.com/issues/"
+},
+{
+"text": "Podcasts",
+"href": "https://www.carpenterforkansas.com/podcasts/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.carpenterforkansas.com/privacy-policy/"
+},
+{
+"text": "Register to vote!",
+"href": "https://www.kdor.ks.gov/Apps/VoterReg/Default.aspx"
+},
+{
+"text": "Request a military ballot",
+"href": "https://www.fvap.gov/uploads/FVAP/Forms/fpca2013.pdf"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.carpenterforkansas.com/terms-and-conditions/"
+},
+{
+"text": "Update your voter registration name or address",
+"href": "https://www.sos.ks.gov/forms/elections/voterregistration.pdf"
+},
+{
+"text": "Volunteer",
+"href": "mailto:Blake@CarpenterForKansas.com"
+},
+{
+"text": "X",
+"href": "https://twitter.com/Carpenter4KS"
+},
+{
+"text": "[image: Blake Carpenter | State Representative]",
+"href": "https://www.carpenterforkansas.com/"
+},
+{
+"text": "[image]",
+"href": "http://blake@carpenterforkansas.com"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/blake-carpenter/campaign"
+},
+{
+"text": "[image]",
+"href": "https://www.fvap.gov/uploads/FVAP/Forms/fpca2013.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.kdor.ks.gov/Apps/VoterReg/Default.aspx"
+},
+{
+"text": "[image]",
+"href": "https://www.kssos.org/forms/elections/AV1.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.sos.ks.gov/forms/elections/voterregistration.pdf"
+},
+{
+"text": "[image]",
+"href": "mailto:Blake@CarpenterForKansas.com"
+},
+{
+"text": "blake@carpenterforkansas.com",
+"href": "mailto:blake@carpenterforkansas.com"
+}
 ]

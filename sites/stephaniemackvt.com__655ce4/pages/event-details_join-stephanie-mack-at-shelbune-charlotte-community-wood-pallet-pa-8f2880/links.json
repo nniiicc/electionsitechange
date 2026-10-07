@@ -1,9 +1,42 @@
 [
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.stephaniemackvt.com%2Fevent-details%2Fjoin-stephanie-mack-at-shelbune-charlotte-community-wood-pallet-paint",
-"https://stephaniemackvt.com/",
-"https://stephaniemackvt.com/about",
-"https://stephaniemackvt.com/blog",
-"https://stephaniemackvt.com/category/campaign-shop",
-"https://stephaniemackvt.com/event-list",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.stephaniemackvt.com%2Fevent-details%2Fjoin-stephanie-mack-at-shelbune-charlotte-community-wood-pallet-paint&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "About",
+"href": "https://www.stephaniemackvt.com/about"
+},
+{
+"text": "Blog",
+"href": "https://www.stephaniemackvt.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://www.stephaniemackvt.com"
+},
+{
+"text": "Events",
+"href": "https://www.stephaniemackvt.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.stephaniemackvt.com"
+},
+{
+"text": "Merch",
+"href": "https://www.stephaniemackvt.com/category/campaign-shop"
+},
+{
+"text": "See other events",
+"href": "https://www.stephaniemackvt.com/event-list"
+},
+{
+"text": "VT HOUSE • CHITTENDEN 24",
+"href": "https://www.stephaniemackvt.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.stephaniemackvt.com%2Fevent-details%2Fjoin-stephanie-mack-at-shelbune-charlotte-community-wood-pallet-paint&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.stephaniemackvt.com%2Fevent-details%2Fjoin-stephanie-mack-at-shelbune-charlotte-community-wood-pallet-paint"
+}
 ]

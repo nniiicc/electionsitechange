@@ -1,22 +1,90 @@
 [
-"https://facebook.com/RepMichelePena",
-"https://go.azsos.gov/26nt",
-"https://michelepena.com/",
-"https://michelepena.com/category/accomplishments",
-"https://michelepena.com/contact",
-"https://michelepena.com/issues",
-"https://michelepena.com/map",
-"https://michelepena.com/privacy-policy",
-"https://michelepena.com/resources",
-"https://michelepena.com/vote",
-"https://secure.winred.com/pena-4-az-house/donate-today?amount=2900",
-"https://secure.winred.com/pena-4-az-house/donate-today?recurring=true",
-"https://secure.winred.com/pena-4-az-house/donate-today?recurring=true&amount=100",
-"https://secure.winred.com/pena-4-az-house/donate-today?recurring=true&amount=1000",
-"https://secure.winred.com/pena-4-az-house/donate-today?recurring=true&amount=25",
-"https://secure.winred.com/pena-4-az-house/donate-today?recurring=true&amount=250",
-"https://secure.winred.com/pena-4-az-house/donate-today?recurring=true&amount=50",
-"https://secure.winred.com/pena-4-az-house/donate-today?recurring=true&amount=500",
-"https://secure.winred.com/pena-4-az-house/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://x.com/michelepenaaz"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/pena-4-az-house/donate-today?recurring=true&amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/pena-4-az-house/donate-today?recurring=true&amount=100"
+},
+{
+"text": "$2,900",
+"href": "https://secure.winred.com/pena-4-az-house/donate-today?amount=2900"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/pena-4-az-house/donate-today?recurring=true&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/pena-4-az-house/donate-today?recurring=true&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/pena-4-az-house/donate-today?recurring=true&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/pena-4-az-house/donate-today?recurring=true&amount=500"
+},
+{
+"text": "Contact",
+"href": "https://michelepena.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/pena-4-az-house/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RepMichelePena/"
+},
+{
+"text": "Fighting For You",
+"href": "https://michelepena.com/category/accomplishments/"
+},
+{
+"text": "Home",
+"href": "https://michelepena.com/"
+},
+{
+"text": "Issues",
+"href": "https://michelepena.com/issues/"
+},
+{
+"text": "Map",
+"href": "https://michelepena.com/map/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/pena-4-az-house/donate-today?recurring=true"
+},
+{
+"text": "Privacy Policy",
+"href": "https://michelepena.com/privacy-policy/"
+},
+{
+"text": "Resources",
+"href": "https://michelepena.com/resources/"
+},
+{
+"text": "Sign My Ballot Petition – Help Me Get On The Ballot For 2026!",
+"href": "https://go.azsos.gov/26nt"
+},
+{
+"text": "Vote",
+"href": "https://michelepena.com/vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/michelepenaaz"
+},
+{
+"text": "[image: Michele Pena Logo - White]",
+"href": "https://michelepena.com"
+},
+{
+"text": "[image: Michele Pena logo]",
+"href": "https://michelepena.com"
+}
 ]

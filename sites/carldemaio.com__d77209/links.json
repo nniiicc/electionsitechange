@@ -1,40 +1,206 @@
 [
-"https://carldemaio.com/",
-"https://carldemaio.com/about",
-"https://carldemaio.com/contact",
-"https://carldemaio.com/district",
-"https://carldemaio.com/follow",
-"https://carldemaio.com/news/demaio-exposes-fiscal-crisis-in-medi-cal-from-illegal-immigrants",
-"https://carldemaio.com/privacy-policy",
-"https://facebook.com/carldemaio",
-"https://instagram.com/carldemaioca",
-"https://rcahelp.org/",
-"https://reformcalifornia.org/",
-"https://reformcalifornia.org/campaigns",
-"https://reformcalifornia.org/campaigns/election-integrity-initiative",
-"https://reformcalifornia.org/campaigns/end-homelessness",
-"https://reformcalifornia.org/campaigns/restore-public-safety",
-"https://reformcalifornia.org/campaigns/school-board-reform",
-"https://reformcalifornia.org/campaigns/stop-the-tax-hikes",
-"https://reformcalifornia.org/events",
-"https://reformcalifornia.org/news",
-"https://reformcalifornia.org/news/ca-voter-id-initiative-officially-filed-for-2026",
-"https://reformcalifornia.org/news/demaio-responds-to-newsoms-dishonest-state-of-state-address",
-"https://reformcalifornia.org/news/living-in-ca-imposes-a-29-753-16-cost-of-living-penalty-on-typical-middle-class-family",
-"https://reformcalifornia.org/podcast",
-"https://reformcalifornia.org/volunteer",
-"https://reformcalifornia.org/voter-guides",
-"https://reformcalifornia.org/voter-guides-list",
-"https://secure.carldemaio.com/contribute",
-"https://secure.carldemaio.com/contribute?amount=100",
-"https://secure.carldemaio.com/contribute?amount=1000",
-"https://secure.carldemaio.com/contribute?amount=25",
-"https://secure.carldemaio.com/contribute?amount=250",
-"https://secure.carldemaio.com/contribute?amount=50",
-"https://secure.carldemaio.com/contribute?amount=500",
-"https://secure.carldemaio.com/contribute?amount=5000",
-"https://secure.reformcalifornia.org/storefront",
-"https://twitter.com/carldemaio",
-"https://twitter.com/carldemaio?ref_src=twsrc%5Etfw",
-"https://youtube.com/@carldemaioCA"
+{
+"text": "$1,000",
+"href": "https://secure.carldemaio.com/contribute?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.carldemaio.com/contribute?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.carldemaio.com/contribute?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.carldemaio.com/contribute?amount=250"
+},
+{
+"text": "$5,000",
+"href": "https://secure.carldemaio.com/contribute?amount=5000"
+},
+{
+"text": "$50",
+"href": "https://secure.carldemaio.com/contribute?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.carldemaio.com/contribute?amount=500"
+},
+{
+"text": ">> Carl's Podcast",
+"href": "https://reformcalifornia.org/podcast"
+},
+{
+"text": ">> Carl’s Social Media",
+"href": "https://carldemaio.com/follow"
+},
+{
+"text": ">> Carl’s Voter Guide",
+"href": "https://reformcalifornia.org/voter-guides"
+},
+{
+"text": "About",
+"href": "https://carldemaio.com/about"
+},
+{
+"text": "About Carl DeMaio",
+"href": "https://carldemaio.com/about"
+},
+{
+"text": "Contact",
+"href": "https://carldemaio.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.carldemaio.com/contribute"
+},
+{
+"text": "District",
+"href": "https://carldemaio.com/district"
+},
+{
+"text": "End Homelessness",
+"href": "https://reformcalifornia.org/campaigns/end-homelessness"
+},
+{
+"text": "Events",
+"href": "https://reformcalifornia.org/events"
+},
+{
+"text": "FAQs",
+"href": "https://rcahelp.org/"
+},
+{
+"text": "Get Reform California's Voter Guide Here >> |",
+"href": "https://www.reformcalifornia.org/voter-guides-list"
+},
+{
+"text": "More About Carl",
+"href": "https://carldemaio.com/about"
+},
+{
+"text": "More Campaigns",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "More News",
+"href": "https://reformcalifornia.org/news"
+},
+{
+"text": "News",
+"href": "https://reformcalifornia.org/news"
+},
+{
+"text": "Other",
+"href": "https://secure.carldemaio.com/contribute"
+},
+{
+"text": "Podcast",
+"href": "https://reformcalifornia.org/podcast"
+},
+{
+"text": "Privacy Policy",
+"href": "https://carldemaio.com/privacy-policy"
+},
+{
+"text": "Protect Public Safety",
+"href": "https://reformcalifornia.org/campaigns/restore-public-safety"
+},
+{
+"text": "Reform CA",
+"href": "https://reformcalifornia.org/"
+},
+{
+"text": "Reform California",
+"href": "https://reformcalifornia.org"
+},
+{
+"text": "Reform Our Schools",
+"href": "https://reformcalifornia.org/campaigns/school-board-reform"
+},
+{
+"text": "Restore Election Integrity",
+"href": "https://reformcalifornia.org/campaigns/election-integrity-initiative"
+},
+{
+"text": "Stop the Tax Hikes",
+"href": "https://reformcalifornia.org/campaigns/stop-the-tax-hikes"
+},
+{
+"text": "Store",
+"href": "https://secure.reformcalifornia.org/storefront/"
+},
+{
+"text": "Tweets by carldemaio",
+"href": "https://twitter.com/carldemaio?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Volunteer",
+"href": "https://reformcalifornia.org/volunteer"
+},
+{
+"text": "Voter Guide",
+"href": "https://reformcalifornia.org/voter-guides"
+},
+{
+"text": "[image: DeMaio Authors CA Voter ID Initiative - Leads Campaign for Passage][image: DeMaio Authors CA Voter ID Initiative - Leads Campaign for Passage]DeMaio Authors CA Voter ID Initiative - Leads Campaign for PassageThe California Voter ID Initiative has been formally filed with the Secretary of State",
+"href": "https://www.reformcalifornia.org/news/ca-voter-id-initiative-officially-filed-for-2026"
+},
+{
+"text": "[image: DeMaio Responds to Newsom’s Dishonest State-of-State Address][image: DeMaio Responds to Newsom’s Dishonest State-of-State Address]DeMaio Responds to Newsom’s Dishonest State-of-State AddressCalifornia Governor Gavin Newsom finally delivered his long-delayed State-of-the State address",
+"href": "https://www.reformcalifornia.org/news/demaio-responds-to-newsoms-dishonest-state-of-state-address"
+},
+{
+"text": "[image: Election Integrity Initiative]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: End Homelessness]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: Living in CA Imposes a $29,753.16 “Cost-of-Living Penalty” on Typical Middle-Class Family][image: Living in CA Imposes a $29,753.16 “Cost-of-Living Penalty” on Typical Middle-Class Family]Living in CA Imposes a $29,753.16 “Cost-of-Living Penalty” on Typical Middle-Class FamilyNew report lays the blame for higher costs on California politicians for costly mandates and negligent policies.",
+"href": "https://www.reformcalifornia.org/news/living-in-ca-imposes-a-29-753-16-cost-of-living-penalty-on-typical-middle-class-family"
+},
+{
+"text": "[image: Restore Public Safety]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: School Board Reform]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: Stop the Tax Hikes]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image]",
+"href": "https://carldemaio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://carldemaio.com/news/demaio-exposes-fiscal-crisis-in-medi-cal-from-illegal-immigrants"
+},
+{
+"text": "…More Campaigns!",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "",
+"href": "https://www.instagram.com/carldemaioca"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/carldemaio"
+},
+{
+"text": "",
+"href": "https://twitter.com/carldemaio"
+},
+{
+"text": "",
+"href": "https://www.youtube.com/@carldemaioCA"
+}
 ]

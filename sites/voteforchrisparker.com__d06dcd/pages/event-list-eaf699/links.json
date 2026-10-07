@@ -1,28 +1,178 @@
 [
-"https://secure.winred.com/friends-of-chris-parker/donate",
-"https://voteforchrisparker.com/",
-"https://voteforchrisparker.com/connect",
-"https://voteforchrisparker.com/doge",
-"https://voteforchrisparker.com/event-details/andrews-community-days-parade",
-"https://voteforchrisparker.com/event-details/election-day",
-"https://voteforchrisparker.com/event-details/fairmount-james-dean-parade",
-"https://voteforchrisparker.com/event-details/fort-wayne-town-hall-w-micah-beckwith",
-"https://voteforchrisparker.com/event-details/grant-co-data-center-town-hall",
-"https://voteforchrisparker.com/event-details/grant-co-gop-liberty-lunch",
-"https://voteforchrisparker.com/event-details/grant-co-tusk-force-training",
-"https://voteforchrisparker.com/event-details/huntington-gop-breakfast-3",
-"https://voteforchrisparker.com/event-details/huntington-gop-breakfast-5",
-"https://voteforchrisparker.com/event-details/private-event",
-"https://voteforchrisparker.com/event-details/private-event-3",
-"https://voteforchrisparker.com/event-details/private-event-4",
-"https://voteforchrisparker.com/event-details/regan-rally-ticketed-event",
-"https://voteforchrisparker.com/event-details/roann-covered-bridge-festival-parade",
-"https://voteforchrisparker.com/event-details/roanoke-fall-festival-parade",
-"https://voteforchrisparker.com/event-details/swayzee-days-parade",
-"https://voteforchrisparker.com/event-details/upland-labor-day-parade",
-"https://voteforchrisparker.com/event-details/wabash-founders-festival-parade",
-"https://voteforchrisparker.com/platform",
-"https://voteforchrisparker.com/privacy",
-"https://voteforchrisparker.com/terms",
-"https://voteforchrisparker.com/volunteer"
+{
+"text": "ANDREWS Community Days Parade",
+"href": "https://www.voteforchrisparker.com/event-details/andrews-community-days-parade"
+},
+{
+"text": "Connect",
+"href": "https://www.voteforchrisparker.com/connect"
+},
+{
+"text": "D.O.G.E.",
+"href": "https://www.voteforchrisparker.com/doge"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/andrews-community-days-parade"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/election-day"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/fairmount-james-dean-parade"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/fort-wayne-town-hall-w-micah-beckwith"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/grant-co-data-center-town-hall"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/grant-co-gop-liberty-lunch"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/grant-co-tusk-force-training"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/huntington-gop-breakfast-3"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/huntington-gop-breakfast-5"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/private-event"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/private-event-3"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/private-event-4"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/regan-rally-ticketed-event"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/roann-covered-bridge-festival-parade"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/roanoke-fall-festival-parade"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/swayzee-days-parade"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/upland-labor-day-parade"
+},
+{
+"text": "Details",
+"href": "https://www.voteforchrisparker.com/event-details/wabash-founders-festival-parade"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-chris-parker/donate"
+},
+{
+"text": "ELECTION DAY!",
+"href": "https://www.voteforchrisparker.com/event-details/election-day"
+},
+{
+"text": "FAIRMOUNT James Dean Parade",
+"href": "https://www.voteforchrisparker.com/event-details/fairmount-james-dean-parade"
+},
+{
+"text": "FORT WAYNE Town Hall w/ Micah Beckwith",
+"href": "https://www.voteforchrisparker.com/event-details/fort-wayne-town-hall-w-micah-beckwith"
+},
+{
+"text": "GRANT Co - Data Center Town Hall",
+"href": "https://www.voteforchrisparker.com/event-details/grant-co-data-center-town-hall"
+},
+{
+"text": "GRANT Co GOP Liberty Lunch",
+"href": "https://www.voteforchrisparker.com/event-details/grant-co-gop-liberty-lunch"
+},
+{
+"text": "GRANT Co Tusk Force Training",
+"href": "https://www.voteforchrisparker.com/event-details/grant-co-tusk-force-training"
+},
+{
+"text": "HUNTINGTON GOP Breakfast",
+"href": "https://www.voteforchrisparker.com/event-details/huntington-gop-breakfast-3"
+},
+{
+"text": "HUNTINGTON GOP Breakfast",
+"href": "https://www.voteforchrisparker.com/event-details/huntington-gop-breakfast-5"
+},
+{
+"text": "Platform",
+"href": "https://www.voteforchrisparker.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteforchrisparker.com/privacy"
+},
+{
+"text": "Private Event",
+"href": "https://www.voteforchrisparker.com/event-details/private-event"
+},
+{
+"text": "Private Event",
+"href": "https://www.voteforchrisparker.com/event-details/private-event-3"
+},
+{
+"text": "Private Event",
+"href": "https://www.voteforchrisparker.com/event-details/private-event-4"
+},
+{
+"text": "ROANN Covered Bridge Festival Parade",
+"href": "https://www.voteforchrisparker.com/event-details/roann-covered-bridge-festival-parade"
+},
+{
+"text": "ROANOKE Fall Festival Parade",
+"href": "https://www.voteforchrisparker.com/event-details/roanoke-fall-festival-parade"
+},
+{
+"text": "Regan Rally (ticketed event)",
+"href": "https://www.voteforchrisparker.com/event-details/regan-rally-ticketed-event"
+},
+{
+"text": "SWAYZEE Days Parade",
+"href": "https://www.voteforchrisparker.com/event-details/swayzee-days-parade"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.voteforchrisparker.com/terms"
+},
+{
+"text": "UPLAND Labor Day Parade",
+"href": "https://www.voteforchrisparker.com/event-details/upland-labor-day-parade"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteforchrisparker.com/volunteer"
+},
+{
+"text": "WABASH Founders Festival Parade",
+"href": "https://www.voteforchrisparker.com/event-details/wabash-founders-festival-parade"
+},
+{
+"text": "[image: Chris Parker Long logo - White.png]",
+"href": "https://www.voteforchrisparker.com"
+}
 ]

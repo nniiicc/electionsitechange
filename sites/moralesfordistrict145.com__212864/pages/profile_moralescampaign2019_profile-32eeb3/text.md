@@ -1,21 +1,7 @@
-top of page
-Profile
-Join date: Dec 12, 2018
-Posts (17)
-Mar 20, 2019 ∙ 1 min
-Statement Regarding ITC Plant Fire
-Representative Morales full official statement regarding the ITC fire.
+top of page MEET CHRISTINA UPDATES DISTRICT 145 PRIORITIES DONATE GET INVOLVED REQUEST A YARD SIGN VOTING INFORMATION CONTACT More Use tab to navigate through the menu items.
+Profile Join date: Dec 12, 2018 Posts (17) Mar 20, 2019 ∙ 1 min Statement Regarding ITC Plant Fire Representative Morales full official statement regarding the ITC fire.
 “I am very concerned about the immediate danger of the fire and...
-Mar 19, 2019 ∙ 1 min
-Representative Morales Sworn in
-Christina Morales, Representstive of Texas House District 145 was sworn in at the Texas Capitol Monday along family, friends and...
-Mar 5, 2019 ∙ 2 min
-Christina Morales elected in Texas House District 145
-Article originally appeared on Houston Chronicle, By Jasper Scherer| Updated 9:54 pm CST, Tuesday, March 5, 2019 View the original...
-1
-Morales for District 145
-Admin
-Followers
-Following
-Follow
-bottom of page
+206 6 Mar 19, 2019 ∙ 1 min Representative Morales Sworn in Christina Morales, Representstive of Texas House District 145 was sworn in at the Texas Capitol Monday along family, friends and...
+207 2 Mar 5, 2019 ∙ 2 min Christina Morales elected in Texas House District 145 Article originally appeared on Houston Chronicle, By Jasper Scherer| Updated 9:54 pm CST, Tuesday, March 5, 2019 View the original...
+288 3 1 Load More Morales for District 145 Admin 7 Followers 0 Following Follow More actions Profile Blog Posts Blog Comments Blog Likes MEET CHRISTINA UPDATES DISTRICT 145 PRIORITIES DONATE GET INVOLVED REQUEST A YARD SIGN VOTING INFORMATION CONTACT More Use tab to navigate through the menu items.
+FOLLOW THE CAMPAIGN Paid for by the Christina Morales Campaign, Gracie Saenz, Treasurer. bottom of page

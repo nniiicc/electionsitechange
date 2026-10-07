@@ -1,5 +1,4 @@
-Meet Matt
-Matt Roby was born in Watertown on May 14, 1984, to Rick and Ann Roby.
+Meet Matt Volunteer Yard Signs Contact Updates News Contribute Meet Matt Matt Roby was born in Watertown on May 14, 1984, to Rick and Ann Roby.
 After graduating from Watertown High School, he obtained degrees in Accounting and Economics from the University of Nebraska-Lincoln and a law degree from the University of St.
 Thomas.
 He began his career in the South Dakota Attorney General's Office where he represented the State in both criminal and civil matters.
@@ -13,3 +12,4 @@ The Roby family attends Immaculate Conception Church and the school-age kids att
 When they aren't shuttling kids around to various activities, the family enjoys time together taking in all that Watertown has to offer, especially the golf courses, the lakes, the parks, the Watertown Regional Library, and the Prairie Lakes Wellness Center.
 Outside of work and family, Matt dedicates time to serving the community on various non-profit boards.
 He also gives back to his profession through active involvement with the State Bar of South Dakota.
+Meet Matt Volunteer Yard Signs Contact Updates News Contribute Paid for by Friends of Matt Roby Powered by CampaignPartner.com - Political Websites Meet Matt Volunteer Yard Signs Contact Updates News Contribute Close Menu

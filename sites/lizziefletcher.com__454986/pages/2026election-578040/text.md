@@ -1,11 +1,3 @@
-Important Election Dates
-Last Day to Register to Vote: Monday, October 5
-Check your registration status and find out about registering here
-The Deadline to Apply for a Mail-in Ballot: Friday, October 23
-The application can be found here
-First Day of Early Voting: Monday, October 19
-Last Day of Early Voting: Friday, October 30
-Election Day: Tuesday, November 3
-Make a Plan to Vote
-FIND A POLLING PLACE IN TX-07
-TEXAS VOTING FAQ:
+Skip to content About About Lizzie The District 2026 Election Endorsements News Lizzie in the News Press Releases Press Toolkit The District Volunteer Yard Signs Team Lizzie Store Menu About About Lizzie The District 2026 Election Endorsements News Lizzie in the News Press Releases Press Toolkit The District Volunteer Yard Signs Team Lizzie Store CONTRIBUTE 2026 Election 2026 Election Important Election Dates Last Day to Register to Vote: Monday, October 5 Check your registration status and find out about registering here The Deadline to Apply for a Mail-in Ballot: Friday, October 23 The application can be found here First Day of Early Voting: Monday, October 19 Last Day of Early Voting: Friday, October 30 Election Day: Tuesday, November 3 Make a Plan to Vote FIND A POLLING PLACE IN TX-07 Harris County Fort Bend TEXAS VOTING FAQ: MyTexasVotes.com <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span> FOLLOW LIZZIE Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+Facebook-f Instagram [email protected] 3262 Westheimer, PMB 636, Houston, TX 77098 PAID FOR BY ELIZABETH PANNILL FLETCHER FOR CONGRESS © # Lizzie Fletcher for Congress

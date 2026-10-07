@@ -1,103 +1,46 @@
-Keeping You in the Loop
-10
-Nov
-The Maryland Transportation Authority (MDTA) wanted you to be aware that the on-ramp from MD 24 to northbound I-95 will be closed overnight to facilitate construction of the new interchange on Monday, November 10, 2025 and Tuesday, November 11, 2025 from 10 p.m. to 5 a.m.
+Home Scholarship Legislation Keeping You In The Loop Endorsements Contribute Keeping You in the Loop 10 Nov Monday, 3:30 PM · 2025 Ramp From MD 24 to Northbound I-95 to be Closed Overnight Starting Monday, November 10 The Maryland Transportation Authority (MDTA) wanted you to be aware that the on-ramp from MD 24 to northbound I-95 will be closed overnight to facilitate construction of the new interchange on Monday, November 10, 2025 and Tuesday, November 11, 2025 from 10 p.m. to 5 a.m .
 Traffic on MD 24 travelling to northbound I-95 will be detoured while the closure is in effect.
 Traffic travelling northbound on MD 24 will be directed to the on-ramp to southbound I-95 and travel south to the exit to MD 152 (Exit 74), where they will make a left at the signal onto southbound MD 152 and make a left onto the on-ramp to northbound I-95.
 Traffic travelling southbound on MD 24 will be directed to continue straight and make a left onto MD 7 (Philadelphia Road) and travel for approximately 4 miles before making a left onto northbound MD 543 (Riverside Parkway) and making a right onto the on-ramp to northbound I-95.
-31
-Oct
-On Saturday, November 15, Harford County is hosting a resource fair for veterans, active-duty military, and their families from 10 a.m. to 1 p.m. at the Bel Air Armory, 37 N.
+31 Oct Friday, 8:39 AM · 2025 Harford County Veterans & Resource Fair, Saturday, Nov.
+15 On Saturday, November 15, Harford County is hosting a resource fair for veterans, active-duty military, and their families from 10 a.m. to 1 p.m. at the Bel Air Armory, 37 N.
 Main Street in Bel Air.
 The event is free and will provide information about veterans' healthcare, benefits, and other resources, including a guide to local businesses that offer discounts to veterans.
 Representatives from the Department of Veterans Affairs, Maryland Department of Veterans and Military Families (DVMF) and several veterans service organizations will be in attendance to discuss claims, assist veterans in signing up for VA healthcare, and answer questions about important federal and state VA benefits and resources.
-27
-Oct
-For more information on Maryland Food Bank resources, contact:
-- Phone: (410) 737-8282
-- Website: www.mdfoodbank.org/find-food/
-- If SNAP assistance is needed, call 1-888-808-7327 or email snapteam@mdfoodbank.org
-15
-Oct
-Harford County residents will be able to drop off their expired and unwanted medications for safe disposal at six locations on Saturday, October 25th, 2o25.
+27 Oct Monday, 4:46 PM · 2025 Maryland Food Bank Resources For more information on Maryland Food Bank resources, contact: Phone: (410) 737-8282 Website: www.mdfoodbank.org/find-food/ If SNAP assistance is needed, call 1-888-808-7327 or email snapteam@mdfoodbank.org 15 Oct Wednesday, 1:32 PM · 2025 Saturday October 25th: Prescription Drug Take Back Day Harford County residents will be able to drop off their expired and unwanted medications for safe disposal at six locations on Saturday, October 25th, 2o25.
 Harford County Department of Housing and Community Services' Office of Drug Control Policy, in partnership with the Drug Enforcement Agency (DEA), local law enforcement and Wegmans Food Market, will be collecting the medications as part of the National Prescription Drug Take Back Day.
 All types of over the counter and prescription medications will be accepted along with vitamins and pet medication- no questions asked.
-Drive-Thru Collection will be available from 10 a.m to 2 p.m at the following locations:
--Harford County government building, 220 S.
-Main Street, Bel Air
--Bel Air Police Department, 39 N.
-Hickory Avenue
--Harford County Emergency Services Annex, 3724 Norrisville Road, Jarrettsville
--Havre de Grace Police Department, 715 Pennington Avenue
--Maryland State Police Barracks, 1401 Belair Road, Bel Air
--Wegmans Market, 21 Wegmans Boulevard, Abingdon
-Harford County has collected and destroyed over 46,200 pounds of unwanted medications since 2013, and the national effort has resulted in the retrieval of 19.8 million pounds of unwanted, expired, or unused medications since 2016.
+Drive-Thru Collection will be available from 10 a.m to 2 p.m at the following locations: -Harford County government building, 220 S.
+Main Street, Bel Air -Bel Air Police Department, 39 N.
+Hickory Avenue -Harford County Emergency Services Annex, 3724 Norrisville Road, Jarrettsville -Havre de Grace Police Department, 715 Pennington Avenue -Maryland State Police Barracks, 1401 Belair Road, Bel Air -Wegmans Market, 21 Wegmans Boulevard, Abingdon Harford County has collected and destroyed over 46,200 pounds of unwanted medications since 2013, and the national effort has resulted in the retrieval of 19.8 million pounds of unwanted, expired, or unused medications since 2016.
 Questions can be directed to the Harford County Department of Housing and Community Services' Office of Drug Control Policy at (410) 638-3333.
-3
-Oct
-Legislative protections and available resources: Maryland Workers Impacted by the Federal Government Shutdown
-27
-Aug
-30
-Jul
-18
-Jul
-Donations can be dropped off at:
-📍 2002 Cedar Dr, Edgewood, MD
-🕒 Monday–Friday, 7:30 AM – 6:00 PM
--
-Even if you're not able to make any donations, there is still an opportunity to contribute!
+3 Oct Friday, 3:55 PM · 2025 Resources for Marylanders During the Federal Government Shutdown Legislative protections and available resources: Maryland Workers Impacted by the Federal Government Shutdown 27 Aug Wednesday, 10:25 AM · 2025 Important Information for Drivers on the Labor Day Holiday 27 Aug Wednesday, 10:16 AM · 2025 An Opportunity for Youth Gardening 30 Jul Wednesday, 1:36 PM · 2025 Harford County Commission for Women 18 Jul Friday, 11:11 AM · 2025 An Opportunity to Help Our Students!
+Donations can be dropped off at: 📍 2002 Cedar Dr, Edgewood, MD 🕒 Monday–Friday, 7:30 AM – 6:00 PM - Even if you're not able to make any donations, there is still an opportunity to contribute!
 The "Stuff the Bus" event is looking for volunteers to help organizing, packing, and preparing supplies for delivery.
-For more information call or email:
-18
-Jun
-This is a reminder that our legislative scholarship is still open to applicants!
-Ensure that you reside in District 34A using this link: Members - Find My Representatives
-The link to apply can be found here: District 34A Legislative Scholarship - Google Forms
-13
-Jun
-BGE has announced a relief fund for residential customers.
-Their press release can be found here: Governor Moore Joins BGE and United Way of Central Maryland to Announce BGE Customer Relief Fund to Help Reduce Burden of Energy Bills | BGE - An Exelon Company
-Starting July 1st, limited and middle-income customers will be able to apply for one-time grants ranging from $250 to $750, credited directly to their BGE accounts.
-Fund Details:
-- Applications open July 1 through United Way of Central Maryland’s website, with a direct link posted at bge.com/relief
-- Grants range from $250 to $750, based on need and eligibility
-- Eligibility includes limited- and moderate-income/ALICE customers with past-due BGE balances
-- Both gas and electric customers are eligible
-- BGE does not profit from this program— this is a shareholder-funded effort that underscores our ongoing commitment to making energy more affordable
-- More details are available at bge.com/relief.
-4
-Jun
-The Harford County Department of Public Works will close the Abingdon Road Bridge over the CSX railroad tracks, located between U.S. 40 (Pulaski Highway) and Shrewsbury Road, beginning on or about Monday, June 16, for approximately eight weeks.
+For more information call or email: 410 272 0010 info@bgcharfordcecil.org 18 Jun Wednesday, 2:28 PM · 2025 District 34A Legislative Scholarship This is a reminder that our legislative scholarship is still open to applicants!
+Ensure that you reside in District 34A using this link: Members - Find My Representatives The link to apply can be found here: District 34A Legislative Scholarship - Google Forms 13 Jun Friday, 11:12 AM · 2025 BGE Customer Relief Fund BGE has announced a relief fund for residential customers.
+Their press release can be found here: Governor Moore Joins BGE and United Way of Central Maryland to Announce BGE Customer Relief Fund to Help Reduce Burden of Energy Bills | BGE - An Exelon Company Starting July 1st, limited and middle-income customers will be able to apply for one-time grants ranging from $250 to $750, credited directly to their BGE accounts.
+Fund Details: Applications open July 1 through United Way of Central Maryland’s website, with a direct link posted at bge.com/relief Grants range from $250 to $750 , based on need and eligibility Eligibility includes limited- and moderate-income/ALICE customers with past-due BGE balances Both gas and electric customers are eligible BGE does not profit from this program— this is a shareholder-funded effort that underscores our ongoing commitment to making energy more affordable More details are available at bge.com/relief .
+4 Jun Wednesday, 11:21 AM · 2025 Abingdon Road Bridge to Close June 16 for Eight Weeks for Utility Work and Maintenance The Harford County Department of Public Works will close the Abingdon Road Bridge over the CSX railroad tracks, located between U.S.
+40 (Pulaski Highway) and Shrewsbury Road, beginning on or about Monday, June 16, for approximately eight weeks.
 The closure is necessary for utility companies to relocate their infrastructure in preparation for a future bridge replacement project.
 During the closure, the DPW Highway Maintenance Division will also perform routine bridge maintenance.
 Emergency vehicles and school buses will not be permitted across the bridge at any time.
 Motorists who use this bridge should follow the detour signs or make other arrangements.
 Questions about the closure may be directed to 410-638-3509 extension 1392.
-Information on the project: MD 24 Interchange / Two-Lane ETL Extension | MDTA
-The Maryland Transportation Authority (MDTA) wanted you to be aware that beginning June 4 and continuing for approximately three months, the ramp from southbound I-95 to northbound MD 24 will be partially closed.
+4 Jun Wednesday, 10:42 AM · 2025 ***IMPORTANT NOTICE*** Information on the project: MD 24 Interchange / Two-Lane ETL Extension | MDTA The Maryland Transportation Authority (MDTA) wanted you to be aware that beginning June 4 and continuing for approximately three months, the ramp from southbound I-95 to northbound MD 24 will be partially closed .
 The ramp will remain open to traffic to southbound MD 24.
 Northbound MD 24 traffic will be detoured to the off-ramp at Exit 77B and continue through the MD 924 intersection onto the on-ramp for northbound MD 24.
 The map below shows the detour that will be in place throughout the closure.
 Traffic heading to southbound MD 24 will be detoured to the off-ramp at Exit 77 B and will make a left onto westbound MD 924 before making another left onto the on-ramp to southbound MD 24.
 The map below shows the detour that will be in place throughout the closure.
-For those seeking employment pathways:
-Kelly Meier - Program Manager
-kmeier@americaworks.com
-410-625-9675, ext. 1016
-21
-May
-On May 20th, 2025, Governor Wes Moore signed into law:
-HB1243: Health Insurance - Coverage for Specialty Drugs
-Together, we can continue to improve the health and wellbeing of everyone across the state!
-Across the state of Maryland, fewer than 20% of our citizens reside in legitimate municipalities.
+4 Jun Wednesday, 10:12 AM · 2025 For Young Adults with Disabilities Who Have Recently Graduated: For those seeking employment pathways: Kelly Meier - Program Manager kmeier@americaworks.com 410-625-9675, ext.
+1016 # May Wednesday, 12:42 PM · 2025 Watch Session 2025 Municipal Inc.
+Committee Hearing Committees - Media (1:55:51) 21 May Wednesday, 11:56 AM · 2025 Bills Signed into Law On May 20th, 2025, Governor Wes Moore signed into law: HB1243: Health Insurance - Coverage for Specialty Drugs HB813: Maryland Insurance Administration and Maryland Department of Health - Workgroup to Study Pharmacy Benefit Managers Together, we can continue to improve the health and wellbeing of everyone across the state!
+21 May Wednesday, 10:22 AM · 2025 Municipal Incorporation in Maryland Across the state of Maryland, fewer than 20% of our citizens reside in legitimate municipalities.
 What this means is that there are communities that are not being provided updated infrastructure development, efficient local services, and a lack of local governance.
 Our office is working with the Maryland Municipal League to shine a light on making a positive change to empower our constituents.
-In the 2025 Legislative Session, Delegate Johnson was the primary sponsor of HB 768: Municipal Incorporation - County Commissioners or County Council - Required Approval of Referendum Request.
+In the 2025 Legislative Session, Delegate Johnson was the primary sponsor of HB 768 : Municipal Incorporation - County Commissioners or County Council - Required Approval of Referendum Request .
 Our work on this issue continues through the interim period.
-Sign Up for Updates
-Thanks for signing up!
-Friends of Steve Johnson
-Julie Johnson, Treasurer
-Julie Johnson, Treasurer
-Powered by CampaignPartner.com - Political Websites
+Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Friends of Steve Johnson Julie Johnson, Treasurer Powered by CampaignPartner.com - Political Websites Home Scholarship Legislation Keeping You In The Loop Endorsements Contribute Close Menu

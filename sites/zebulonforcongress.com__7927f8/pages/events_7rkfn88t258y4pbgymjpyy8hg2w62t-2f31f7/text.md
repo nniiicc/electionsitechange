@@ -1,10 +1,3 @@
-Back to All Events
-Join us at a Meet the Candidates forum to hear from those seeking to represent our district.
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate Back to All Events Candidate Forum Monday, April 6, 2026 6:00 PM 7:30 PM Whittemore-Prescott High School 6001 Mills Road Whittemore, MI, 48770 United States (map) Google Calendar ICS Join us at a Meet the Candidates forum to hear from those seeking to represent our district.
 This is an opportunity to learn more about Zebulon Featherly’s positions on the issues affecting Northern Michigan, ask questions, and participate in an open discussion about the future of our region.
-Previous
-Previous
-April 2
-Candidate Forum
-Next
-Next
-April 7
+Previous Previous April 2 Candidate Forum Next Next April 7 Candidate Forum

@@ -1,4 +1,4 @@
-It was my parents dream that each of their four children would one day attend college.
+Meet Mark Every Generation Issues News Donate Every Generation It was my parents dream that each of their four children would one day attend college.
 You see, they were married at 17, where they left high school early to raise their family.
 In all, they had four children, three boys and one girl.
 Understanding the difficulty of making it in life without an education, they impressed upon us that college would not be an option.
@@ -26,3 +26,11 @@ Every Generation!
 This is a picture of Robert, at graduation, my brother Scott, my sister Maria, my grandmother, Alberta Fisher, and me.
 By the time this picture was taken, Scott was studying at College Park, Maria was in High School and I was studying at George Washington University.
 Robert was the first child in any preceding generation in our family to receive a college degree.
+Share This Post Recent Posts First Bill of 2026 Legislative Session – Rigging Elections September 9, 2026 Make America Great Again Oktoberfest – September 27th, 2026 | 3pm – 8pm September 2, 2026 First Bill of the 2026 Session… April 29, 2026 WATCH Outraged Marylanders April 17, 2026 Maryland Democrats Oppose ‘No Taxes on Tips or Overtime’ April 17, 2026 Join my Mailing List: Email Mobile Number Submit By providing your mobile number, you agree to receive recurring automated text messages from Friends of Mark Fisher at that number, including messages sent by an automatic telephone dialing system.
+Consent is not a condition of any purchase or contribution.
+Message and data rates may apply.
+Donations may be solicited.
+Message frequency varies.
+Reply STOP to opt out or HELP for assistance.
+View Privacy Policy & Terms .
+Meet Mark Every Generation Issues News Donate Paid for by Friends of Mark Fisher, Robert Damalouji, Esq., Treasurer Terms of Service Privacy Policy

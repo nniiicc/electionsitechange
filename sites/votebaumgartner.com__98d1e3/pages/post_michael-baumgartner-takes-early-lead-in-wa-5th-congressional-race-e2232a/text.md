@@ -1,4 +1,5 @@
-Michael Baumgartner Takes Early Lead in WA 5th Congressional Race
-KNKX | November 6, 2024
-Michael Baumgartner secured a decisive mandate for common-sense conservative leadership in the WA 5th Congressional race.
+top of page Home About Issues News Events Dropbox Information Get Involved Supporters Store Blogs More Use tab to navigate through the menu items.
+DONATE All Articles On the Campaign Trail In Congress Search Michael Baumgartner Takes Early Lead in WA 5th Congressional Race stan889 Nov 6, 2024 1 min read KNKX | November 6, 2024 Michael Baumgartner secured a decisive mandate for common-sense conservative leadership in the WA 5th Congressional race.
 On election night, Baumgartner took an early and commanding lead, reflecting the district's confidence in his vision for Eastern Washington.
+Read the full article on KNKX On the Campaign Trail Recent Posts See All Remarks by Congressman Michael Baumgartner Rep.
+Michael Baumgartner Already Faces Seven Challengers Michael Baumgartner will be Eastern Washington’s next congressman Home About Michael News Events Get Involved Supporters Privacy Policy Blogs Michael Baumgartner REPUBLICAN FOR CONGRESS, 5TH DISTRICT PAID FOR BY VOTE BAUMGARTNER FOR CONGRESS PO Box 8508, Spokane, WA 99203 SUBSCRIBE Thanks for submitting! bottom of page

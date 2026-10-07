@@ -1,24 +1,94 @@
 [
-"https://adamsforlegislature.com/",
-"https://adamsforlegislature.com/about",
-"https://adamsforlegislature.com/contact",
-"https://adamsforlegislature.com/events",
-"https://adamsforlegislature.com/issues",
-"https://adamsforlegislature.com/news",
-"https://adamsforlegislature.com/opt-out-preferences",
-"https://adamsforlegislature.com/privacy-policy",
-"https://adamsforlegislature.com/terms-and-conditions",
-"https://eac.gov/voters/register-and-vote-in-your-state",
-"https://facebook.com/profile.php?id=61557612873742",
-"https://instagram.com/adamsforhd1",
-"https://lincolncountydemocratsmt.org/",
-"https://mindly.social/@DakotaVAdams",
-"https://montanademocrats.org/",
-"https://politicalwebsitedesigners.com/",
-"https://prodvoterportal.mt.gov/WhereToVote.aspx",
-"https://secure.actblue.com/donate/adams-for-hd1-1",
-"https://vote.gov/register/montana",
-"https://vote.gov/register/mt",
-"https://x.com/dakotavadams",
-"https://youtube.com/channel/UCRYHR-_dhAUwl--s_7FZ29A"
+{
+"text": "About",
+"href": "https://adamsforlegislature.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://adamsforlegislature.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adams-for-hd1-1"
+},
+{
+"text": "Events",
+"href": "https://adamsforlegislature.com/events/"
+},
+{
+"text": "Find state and local election dates.",
+"href": "https://www.eac.gov/voters/register-and-vote-in-your-state"
+},
+{
+"text": "Home",
+"href": "https://adamsforlegislature.com/"
+},
+{
+"text": "In the News",
+"href": "https://adamsforlegislature.com/news/"
+},
+{
+"text": "Issues",
+"href": "https://adamsforlegislature.com/issues/"
+},
+{
+"text": "Lincoln County Democrats",
+"href": "https://www.lincolncountydemocratsmt.org/"
+},
+{
+"text": "Montana Democrats",
+"href": "https://www.montanademocrats.org/"
+},
+{
+"text": "Opt-out preferences",
+"href": "https://adamsforlegislature.com/opt-out-preferences/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://adamsforlegislature.com/privacy-policy/"
+},
+{
+"text": "Register to Vote in Montana",
+"href": "https://vote.gov/register/mt/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://adamsforlegislature.com/terms-and-conditions/"
+},
+{
+"text": "[image: Adams for Legislature | Lincoln County, Montana | HD 1]",
+"href": "https://adamsforlegislature.com/"
+},
+{
+"text": "[image]",
+"href": "https://mindly.social/@DakotaVAdams"
+},
+{
+"text": "[image]",
+"href": "https://politicalwebsitedesigners.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61557612873742"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/adamsforhd1/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCRYHR-_dhAUwl--s_7FZ29A"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/dakotavadams"
+},
+{
+"text": "confirm your voter registration status",
+"href": "https://prodvoterportal.mt.gov/WhereToVote.aspx"
+},
+{
+"text": "https://vote.gov/register/montana",
+"href": "https://vote.gov/register/montana"
+}
 ]

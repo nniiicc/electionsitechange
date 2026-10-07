@@ -1,19 +1,20 @@
-Zero Percent
-Zero Percent.
+Skip to main content Fighting for you.
+Join the movement.
+Donate Volunteer Democratic Primary · Sept 1, 2026 Meet Erika Platform Newsletter Donate Meet Erika Platform Newsletter Endorsements Get Involved Donate Newsletter · May 8, 2026 Zero Percent AI & Immigration Zero Percent.
 The company behind your state’s AI assistant also holds a $5.7 million contract with ICE.
 And nobody can prove your data stays where they say it does.
-This week, the Senate passed its version of the PROTECT Act, and I support every word of it.
+This week, the Senate passed its version of the PROTECT Act , and I support every word of it.
 It bans ICE from making warrantless arrests at courthouses, schools, hospitals, daycares, and churches.
-It prohibits new 287(g) agreements, which are the contracts that allow local agencies to enforce federal immigration law.
+It prohibits new 287(g) agreements , which are the contracts that allow local agencies to enforce federal immigration law.
 Three thousand of us stood on Beacon Hill in January and demanded this.
-The House passed it 134-21, and the Senate delivered.
+The House passed it 134-21 , and the Senate delivered.
 That fight mattered, and I am proud of everyone who showed up for it.
 This newsletter is about what I found on the other side of the wall.
 In December, the Department of Transitional Assistance launched a pilot that transcribes SNAP eligibility calls in real time using AI.
 The system listens to the conversation between the caseworker and the caller, recording everything: their name, their address, their situation.
 It generates a summary and saves it directly into the caller’s benefits record, where it becomes part of the case file that follows them through the system.
 DTA says callers are notified and can opt out, but no law required the disclosure, and the notification process was never subject to public review.
-That pilot is one of at least 40 state agency functions, including MassHealth claims processing and school complaint intake, that now use AI to process resident data, according to an investigation by The Shoestring.
+That pilot is one of at least 40 state agency functions, including MassHealth claims processing and school complaint intake, that now use AI to process resident data, according to an investigation by The Shoestring .
 The tools are live or being rolled out across the executive branch.
 The company that set all of this up also holds a $5.7 million contract with ICE.
 You may remember my February newsletter.
@@ -21,13 +22,9 @@ I pulled the procurement documents the administration did not want to release (I
 The scoring rubric weighted AI safety at zero percent, meaning no one evaluated the system for bias, error rates, or whether it actually produces accurate results.
 Thirteen vendors applied.
 Nine were eliminated before scoring.
-Both finalists came through a single reseller called Carahsoft Technology Corporation, a company the FBI raided in September 2024 as part of a bid rigging investigation.
-I published the full breakdown here.
-MA AI Procurement Scoring Rubric — Safety Weight
-AI Safety Evaluation
-Bias, error rates, accuracy, data protection
-0%
-Source: Massachusetts AI procurement documents obtained via public records request.
+Both finalists came through a single reseller called Carahsoft Technology Corporation , a company the FBI raided in September 2024 as part of a bid rigging investigation.
+I published the full breakdown here .
+MA AI Procurement Scoring Rubric — Safety Weight AI Safety Evaluation Bias, error rates, accuracy, data protection 0% Source: Massachusetts AI procurement documents obtained via public records request .
 The procurement was the first problem.
 The vendor is the second.
 In September 2025, while Massachusetts was finalizing the AI contract, ICE signed a $5.7 million, five-year deal with Carahsoft for a product called Zignal Labs, an AI platform that scans over eight billion social media posts per day.
@@ -44,7 +41,7 @@ The Act draws a line around physical spaces, from courthouses and schools to hos
 It addresses law enforcement cooperation: the badge, the warrant, the arrest.
 It does not address the digital infrastructure underneath, the systems that process your benefits calls, your health records, and your case files every day.
 The PROTECT Act bans new 287(g) agreements.
-The existing Department of Correction agreement stays in place.
+The existing Department of Correction agreement stays in place .
 Under that deal, corrections officers can notify the federal government about people being released from custody who do not have lawful immigration status.
 The legislature voted to preserve it.
 The Carahsoft contract, the SNAP call transcription, and the forty-plus AI functions touching your data also remain in place.
@@ -62,7 +59,7 @@ You need a family that does not call about their child’s benefits because they
 The chilling effect is the damage, and it is happening now.
 Critics will say there is no evidence that data has flowed from the state AI tool to ICE, and they are right.
 But that is not the point.
-A contractual promise from an administration that chose a vendor under FBI investigation, scored safety at zero, and cannot produce an enforcement mechanism is not the same thing as a safeguard.
+A contractual promise from an administration that chose a vendor under FBI investigation , scored safety at zero, and cannot produce an enforcement mechanism is not the same thing as a safeguard.
 This is not a new principle, and your community already knows it.
 In Medford, the city council passed an ordinance requiring democratic approval before any government agency buys surveillance technology, including social media monitoring software.
 Cambridge passed the same kind of ordinance.
@@ -76,13 +73,27 @@ I am writing legislation that extends the principle your city already establishe
 This is not a ban and it is not a moratorium.
 It applies at the state level the same principle your city already enforces locally.
 This is what oversight looks like: public records requests, line-by-line contract review, months of asking the same questions until the administration produces actual answers instead of general assurances.
-I am running for State Senate to bring it there, and this is how you put me there.
-The PROTECT Act is a victory and it is the right wall.
+I am running for State Senate to bring it there, and this is how you put me there .
+Bring This Fight → The PROTECT Act is a victory and it is the right wall.
 I am proud of the families who showed up, the organizers who mobilized, and the legislators who voted yes.
 But walls need to cover every side, and if we believe the state should not cooperate with ICE at the courthouse, we should also ask whether the company processing your SNAP call should be the same company building ICE’s surveillance platform.
 We should be able to verify the answer, not just take someone’s word for it.
 I checked, and what I found is not reassuring, so here is every document I have.
 Share this with your neighbors.
 Every source is linked.
-And if you want this kind of oversight in the State Senate, put it there.
-Follow on Instagram · Follow on Bluesky
+And if you want this kind of oversight in the State Senate, put it there .
+Follow on Instagram · Follow on Bluesky ← All Newsletters Stay Connected Get the next one in your inbox.
+Subscribe to Erika's newsletter.
+Donate Now Volunteer Fighting for you in Somerville, Medford, Cambridge, and Winchester.
+Learn Meet Erika Platform Endorsements Newsletters Act Volunteer Donate Vote Press Endorse Erika Instagram Call or text Erika: (857) 264-1096 Email: erika@electerika.com Paid for by Committee to Elect Erika Uyterhoeven · Somerville, MA Contributions are not tax-deductible · $1,000 max per individual per calendar year · Privacy Policy × Join the movement Your rent.
+Your energy bill.
+Your kids' school.
+Know what's really happening.
+Every week I break down the contracts, the votes, and the deals that affect your life, and who is responsible.
+Two emails.
+No press releases.
+Count me in ✓ You're in.
+Welcome to the fight.
+No spam.
+Unsubscribe anytime.
+We never share your email.

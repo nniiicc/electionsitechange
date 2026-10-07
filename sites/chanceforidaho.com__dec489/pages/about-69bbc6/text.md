@@ -1,4 +1,4 @@
-Chance Marshall is running for State Legislature in District 33 Seat A because he believes that District 33 deserves a voice dedicated to bringing affordability and equality back to southeast Idaho.
+Skip to content Chance For Idaho Chance Marshall is running for Idaho State Legislature District 33 Seat A Return to Home Page Donate Chance Marshall is running for State Legislature in District 33 Seat A because he believes that District 33 deserves a voice dedicated to bringing affordability and equality back to southeast Idaho.
 Rather than push fiscally irresponsible tax cuts that mainly benefit the wealthy, Chance is ready to focus on affordability, education, healthcare, and housing/rent.
 Currently, our legislature spends too much time on culture war issues that target a small number of Idahoans, rather than adopting an agenda that helps working families.
 As president of the Bonneville Young Democrats and a resident of Idaho Falls, Chance has a deep understanding of the challenges and opportunities facing our community today.
@@ -13,3 +13,6 @@ Through his work as a project manager, Chance understands the various aspects of
 Chance knows how important it is for legislators to have consistent communication and meetings with constituents.
 Chance enjoys hiking and taking trips with his wife, spending time with his dogs and cat, and hanging out with his son as much as possible.
 He’s committed to community organizing and supporting local nonprofits, and spends much of his time volunteering for causes he cares about.
+Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website Chance For Idaho Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

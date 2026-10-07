@@ -1,6 +1,4 @@
-Tracy Robins announces campaign for SC House 75
-Updated: Apr 25, 2025
-My name is Tracy Robins and I am running to represent SC House District 75 in the South Carolina General Assembly in the November 2026 General Election.
+top of page ELECTION DATE November 3 , 2026 CONTRIBUTE REQUEST A YARD SIGN All Posts Search Tracy Robins announces campaign for SC House 75 The Robins Report Apr 15, 2025 4 min read Updated: Apr 25, 2025 My name is Tracy Robins and I am running to represent SC House District 75 in the South Carolina General Assembly in the November 2026 General Election.
 Even though I lost my primary 2024 bid against former Representative Kirkman Finlay, I am eager to regain this seat for the Republican Party.
 I knew it would be a difficult task to defeat Finlay in the primary, but I did work extremely hard.
 During the primary, I knocked on over 12,000 doors, talking firsthand to voters in my district to better understand the exact issues that were concerns for them.
@@ -23,10 +21,8 @@ Richland Democrats in the General Assembly continue to vote against common sense
 For example, every Richland Democrat in the SC House, including Heather Bauer, voted NO on S62, The Education Scholarship Trust Fund.
 This bill allows your children to attend any school of your choice.
 Considering the failures of Richland 1 School District noted in their most recent Annual School Report Card, Heather Bauer (along with every single Richland Democrat in the State House) would rather your children be enslaved to failing school system than allow you to choose a better option for your child’s education.
-In Richland 1 School District’s last report card, only 45% of students met the basic standards on the SC Ready
-yearly exam in English.
-Even worse, only 32% of students in Richland 1 met the basic standards in
-mathematics.
+In Richland 1 School District’s last report card, only 45% of students met the basic standards on the SC Ready yearly exam in English.
+Even worse, only 32% of students in Richland 1 met the basic standards in mathematics.
 In Richland County, Democrats are in the majority.
 We do not have any Republicans on our Richland 1 school board, and we only have two Republicans on our County Council.
 Under this Democrat leadership, we experience some of the highest property taxes of any other county in our state, and our public schools continue to perform below the national average.
@@ -54,6 +50,20 @@ I will need financial assistance for commercials, mailers, and campaign signs to
 Please consider donating to my efforts.
 I also hope that you will choose to share my message, my contact information, and my website with your friends, family, neighbors, and associates to help spread my message.
 Please also choose to place my campaign yard sign in your yard during the election season.
-If you are on Facebook, please follow my campaign by liking my page: Tracy Robins for Richland
-I very much appreciate you all and your continued support!
+If you are on Facebook, please follow my campaign by liking my page: Tracy Robins for Richland I very much appreciate you all and your continued support!
 Let's WIN this!
+SIGN UP TO RECEIVE THE LATEST NEWS FROM TRACY ROBINS SUBSCRIBE Privacy Policy • Terms and Conditions By subscribing to SMS or email updates from ROBINS FOR SC HOUSE, you agree to receive periodic campaign-related communications, including updates, reminders, fundraising appeals, public service announcements, and surveys.
+Message frequency may vary.
+You confirm that you are the authorized user of the phone number provided and understand that your carrier's standard message and data rates may apply.
+We reserve the right to modify or discontinue this messaging program at any time without notice.
+We are not liable for delayed or undelivered messages.
+Participation is not required for donation or campaign involvement.
+See our terms and conditions for more information.
+PAID FOR BY ROBINS FOR SC HOUSE By providing your cell phone or mobile phone number you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with campaign notifications from ROBINS FOR SC HOUSE.
+Reply HELP for help, STOP to end.
+Message Frequency May Vary.
+Msg & Data Rates May Apply.
+Message frequency may vary.
+You agree to the terms & privacy policy for recurring automated calls and texts from ROBINS FOR SC HOUSE to the phone number you provided.
+Message & Data rates may apply.
+By providing your phone number, you are joining a recurring text messaging program for ROBINS FOR SC HOUSE. bottom of page

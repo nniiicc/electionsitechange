@@ -1,101 +1,19 @@
-STANDING UP TO CORPORATIONS.
+Skip to main content Skip to footer Don't wait!
+Register to vote today 🔗↗ Issues About Me Endorsements Endorsements Open Letter Events Press In The Media Press Releases Issues About Me Endorsements Endorsements Open Letter Events Press In The Media Press Releases Donate STANDING UP TO CORPORATIONS.
 DELIVERING FOR US.
-Join the movement:
-Hannah is a renter running in Seattle's 43rd District.
-Meet Hannah
-For the better part of a decade, I’ve lived in Seattle and dedicated my career to fighting alongside workers to take our power back from corporations, level the playing field, and make life better for all of us.
+Join the movement: Sign Up Hannah is a renter running in Seattle's 43rd District.
+Hannah won’t take money from Corporate PACs or Special Interests.
+But she’s running against a 20-year incumbent and corporate attorney who does.
+Chip-in to help build a people-powered movement that can deliver real change for Washington. $25 $43 $100 $250 $500 Other Meet Hannah For the better part of a decade, I’ve lived in Seattle and dedicated my career to fighting alongside workers to take our power back from corporations, level the playing field, and make life better for all of us.
 As the communications director for Working Washington, I’ve helped lead successful campaigns to protect fair pay for gig workers, strengthen labor standards and enforcement, and ensure domestic workers, farm workers, and other workers who have been left out of labor rights receive the same protections all of us deserve.
 In the Washington State Legislature, I’ve worked alongside legislators as an aide and communications specialist to make Washington’s economy fairer, expand healthcare access, and make meaningful progress towards climate justice.
 Outside of work, I have served on The Urbanist’s Elections Committee and Pro-Choice Washington’s PAC board for the past four years, backing candidates for public office who fight for connected, inclusive communities that robustly invest in housing, transit, and reproductive justice policy.
 I believe in taking on the corporations that try to rig the rules at our expense and will never back down from any opportunity to organize with and uplift everyday people.
-Learn More →
-Our district deserves a fighter for OUR shared interests, not corporate special interests.
-Why I'm Running
-When it comes to Washington’s agenda, establishment Democrats have let corporations call the shots, while things like affordable housing, childcare, and healthcare became distant dreams for the rest of us.
+Learn More → Our district deserves a fighter for OUR shared interests, not corporate special interests.
+Why I'm Running When it comes to Washington’s agenda, establishment Democrats have let corporations call the shots, while things like affordable housing, childcare, and healthcare became distant dreams for the rest of us.
 But here in the 43rd district, we’re not intimidated by a hill to climb.
 We know that we can tackle the affordability crisis, reduce rent, and put home ownership within reach.
 We can win bold solutions that transform lives like universal childcare.
 We can fully fund education and set our young people up for success.
 We can do all of this if we retire the old approach to leadership that thinks too small and has done too little for too long.
-Learn More →
-I'm Endorsed By
-Katie Wilson
-Seattle's Mayor
-Alexis Mercedes Rinck
-Seattle City Councilmember
-Shaun Scott
-WA State House Rep - LD 43
-Rebecca Saldaña
-WA State Senator - LD 37
-Toshiko Hasegawa
-Port of Seattle Commissioner
-Jaelynn Scott Candidate for WA State House Rep - LD 37
-Andrew Grant Houston
-LD 43 Housing Activist & Architect
-Jessa Davis
-Co-Chair of Seattle LGBTQ Commission
-Deaunte Damper
-Community Leader, Pride 2026 Grand Marshall
-Sharon Maeda
-Community Leader and Organizer
-Tech 4 Housing
-Local Economic
-Justice Advocates
-Progressive Victory
-Community for Political Action
-Working Families Party
-Progressive Political Party
-Tech 4 Taxes
-Tech Workers for Corporate Accountability
-AFT Washington
-Progressive Labor Union
-College Democrats of Washington
-Student-led Democratic Organization
-YDSA UW
-Young Democratic Socialists of UW
-National Women's Political Caucus
-Gender Justice Organization
-College Democrats of America
-National Student-led Democratic Organization
-Run For Something
-National Org Supporting Progressive Next-Gen Candidates
-Women of Color in Politics
-WA State Org of Minority Women
-43rd District Democrats
-Core Political Org of LD 43
-Washington BUS
-Youth Civic Engagement Org
-Transit Riders Union
-Member-run Union of Transit Riders
-King County Democrats
-County Regional Democratic Party Organization
-Sage Leaders
-WA State Org Developing BIPoC community leaders
-FairVote WA
-Democracy Reform Organization
-APACE
-Org Empowering WA's AAPI communities
-The Urbanist
-Advocates for walkable, housing-abundant, transit-rich communities
-Seattle Gay News
-Pacific Northwest’s historic voice for LGBTQ+ equity
-Win With Women PAC
-Org Electing progressive women across WA State
-Progressive Voters Network
-Grassroots Org Elevating Impactful Candidates
-Through the Static
-Seattle-based independent and antifascist news
-CAIR Washington
-Civil Rights Org serving the Muslim community of WA
-Seattle Subway
-Grassroots Org for fast, reliable, high-capacity transit
-Young Democrats of Washington
-Statewide Youth-Led Democratic Party Org
-Mona Das
-Former State Senator, LD 47
-Jessica Forsythe
-Candidate for State Rep, LD 48
-Lefty Cheat Sheet
-Progressive Endorsement Aggregator
-Environmental and Climate Council
-WA State Democratic Party Advocacy Org
+Learn More → I'm Endorsed By Katie Wilson Seattle's Mayor Alexis Mercedes Rinck Seattle City Councilmember Shaun Scott WA State House Rep - LD 43 Rebecca Saldaña WA State Senator - LD 37 Toshiko Hasegawa Port of Seattle Commissioner Jaelynn Scott Candidate for WA State House Rep - LD 37 Andrew Grant Houston LD 43 Housing Activist & Architect Jessa Davis Co-Chair of Seattle LGBTQ Commission Deaunte Damper Community Leader, Pride 2026 Grand Marshall Sharon Maeda Community Leader and Organizer Tech 4 Housing Local Economic Justice Advocates Progressive Victory Community for Political Action Working Families Party Progressive Political Party Tech 4 Taxes Tech Workers for Corporate Accountability AFT Washington Progressive Labor Union College Democrats of Washington Student-led Democratic Organization YDSA UW Young Democratic Socialists of UW National Women's Political Caucus Gender Justice Organization College Democrats of America National Student-led Democratic Organization Run For Something National Org Supporting Progressive Next-Gen Candidates Women of Color in Politics WA State Org of Minority Women 43rd District Democrats Core Political Org of LD 43 Washington BUS Youth Civic Engagement Org Transit Riders Union Member-run Union of Transit Riders King County Democrats County Regional Democratic Party Organization Sage Leaders WA State Org Developing BIPoC community leaders FairVote WA Democracy Reform Organization APACE Org Empowering WA's AAPI communities The Urbanist Advocates for walkable, housing-abundant, transit-rich communities Seattle Gay News Pacific Northwest’s historic voice for LGBTQ+ equity Win With Women PAC Org Electing progressive women across WA State Progressive Voters Network Grassroots Org Elevating Impactful Candidates Through the Static Seattle-based independent and antifascist news CAIR Washington Civil Rights Org serving the Muslim community of WA Seattle Subway Grassroots Org for fast, reliable, high-capacity transit Young Democrats of Washington Statewide Youth-Led Democratic Party Org Mona Das Former State Senator, LD 47 Jessica Forsythe Candidate for State Rep, LD 48 Lefty Cheat Sheet Progressive Endorsement Aggregator Environmental and Climate Council WA State Democratic Party Advocacy Org Facebook Bluesky Instagram TikTok YouTube [email protected] | (360) 602-2794 | Privacy Policy | Press Kit Paid for by Hannah for Washington (D) PO Box 20655, Seattle, WA 98102 © # Hannah Sabio-Howell for State Senate | Washington's 43rd Legislative District

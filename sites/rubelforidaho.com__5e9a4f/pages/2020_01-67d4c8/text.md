@@ -1,14 +1,13 @@
-Jan 30, 2020
-Article: “Bipartisan Proposal Would Give Some Former Idaho Inmates A ‘Clean Slate'” “We hope [this proposal] will have a transformative effect on these peoples’ lives,” said House Minority Leader Ilana Rubel (D-Boise).
+Donate Volunteer Yard Sign Home Blog / News Legislation Education Environment and Quality of Life Healthcare and Community Safety Endorsements Team D18 Voter Survey Contact 1/30/2020 – Article: “Bipartisan Proposal Would Give Some Former Idaho Inmates A ‘Clean Slate'” Jan 30, 2020 Article: “Bipartisan Proposal Would Give Some Former Idaho Inmates A ‘Clean Slate'” “We hope [this proposal] will have a transformative effect on these peoples’ lives,” said House Minority Leader Ilana Rubel (D-Boise).
 Most other...
-Jan 23, 2020
-Article: “Bipartisan bill emerges to clean Idaho criminal slate” “Many of these folks deserve a real second chance, but we continue to hand out these collateral life sentences.
+1/22/2020 – Article: “Bipartisan bill emerges to clean Idaho criminal slate” Jan 23, 2020 Article: “Bipartisan bill emerges to clean Idaho criminal slate” “Many of these folks deserve a real second chance, but we continue to hand out these collateral life sentences.
 We are proposing legislation referred to as a “Clean Slate” bill that...
-Jan 23, 2020
-Article Link: “Idaho legislators introduce ‘Clean Slate’ bill” Excerpt: “The idea here is to let people get their lives back on track, so they can get jobs and get housing and move forward in a constructive way,” Rep.
+1/22/2020 – Article: “Idaho legislators introduce ‘Clean Slate’ bill” Jan 23, 2020 Article Link: “Idaho legislators introduce ‘Clean Slate’ bill” Excerpt: “The idea here is to let people get their lives back on track, so they can get jobs and get housing and move forward in a constructive way,” Rep.
 Rubel...
-Jan 21, 2020
-Our criminal justice system is intended to ensure there is an appropriate penalty associated with crime.
+“Idahoans Deserve a Second Chance” – by Rep.
+Ilana Rubel Jan 21, 2020 Our criminal justice system is intended to ensure there is an appropriate penalty associated with crime.
 We refer to this as paying one’s debt to society.
 However, under some of Idaho’s current laws, the payment never seems to stop.
 Our courts assign formal penalties,...
+Search Search All Issues Business / Job Creation Climate Change / Solar Rights Bill COVID 19 Criminal Justice Reform Events First Responders Compensation Gerrymandering / Voting Rights Human Rights Medicaid Expansion / Health Care Public Education Slider State of the State / Revenue Situation Taxes January 2024 September 2022 March 2022 February 2022 January 2022 May 2021 April 2021 March 2021 February 2021 January 2021 October 2020 August 2020 July 2020 June 2020 March 2020 February 2020 January 2020 April 2019 March 2019 February 2019 January 2019 January 2018 January 2017 February 2014 Paid for by Rubel for Idaho | Treasurer Sally Stone 2750 E.
+Migratory Drive, Boise, ID 83706 Follow Follow Follow

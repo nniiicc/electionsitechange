@@ -1,15 +1,66 @@
 [
-"http://iwillvote.com/",
-"https://charlesdudley4nc.com/",
-"https://charlesdudley4nc.com/about-5",
-"https://charlesdudley4nc.com/events-1",
-"https://charlesdudley4nc.com/get-involved",
-"https://facebook.com/CharlesDudleyNC3",
-"https://facebook.com/wix",
-"https://instagram.com/dudley4nc",
-"https://secure.actblue.com/donate/committee-to-elect-charles-dudley-1",
-"https://twitter.com/Dudley4NCSenate",
-"https://votebymail.ncsbe.gov/app/home",
-"https://vt.ncsbe.gov/RegLkup",
-"https://youtube.com/@_NCSENATE"
+{
+"text": "About",
+"href": "https://www.charlesdudley4nc.com/about-5"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/committee-to-elect-charles-dudley-1"
+},
+{
+"text": "Events",
+"href": "https://www.charlesdudley4nc.com/events-1"
+},
+{
+"text": "FIND YOUR POLLING PLACE",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.charlesdudley4nc.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.charlesdudley4nc.com"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "http://iwillvote.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.charlesdudley4nc.com/get-involved"
+},
+{
+"text": "VOTE BY MAIL",
+"href": "https://votebymail.ncsbe.gov/app/home"
+},
+{
+"text": "[image: 123_1 - Diane Tyndall.jpg]",
+"href": "https://www.charlesdudley4nc.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/CharlesDudleyNC3/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/dudley4nc/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/Dudley4NCSenate"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/Dudley4NCSenate"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@_NCSENATE"
+}
 ]

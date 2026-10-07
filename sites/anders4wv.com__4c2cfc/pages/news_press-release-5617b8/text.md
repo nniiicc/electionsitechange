@@ -1,10 +1,6 @@
-Press Release
-FROM THE DESK OF
-Delegate S.
-Chris Anders
-97th District – West Virginia House of Delegates
-Dear Neighbor,
-This letter is a short autobiography of my first legislative session — a snapshot of the fights we took on, the battles we’re still waging, and the principles that guided me every step of the way.
+0 Skip to Content About Chris Policy News Get Involved Petitions Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Open Menu Close Menu About Chris Policy News Get Involved Petitions Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Open Menu Close Menu About Chris Policy News Get Involved Folder: Petitions Back Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Press Release Apr 14 Written By S.
+Chris Anders FROM THE DESK OF Delegate S.
+Chris Anders 97th District – West Virginia House of Delegates Dear Neighbor, This letter is a short autobiography of my first legislative session — a snapshot of the fights we took on, the battles we’re still waging, and the principles that guided me every step of the way.
 Throughout the session, I kept you informed.
 I sent emails, posted video updates several times a week, and gave you an unfiltered view of what was really happening in Charleston.
 You deserve honesty — not spin.
@@ -32,12 +28,10 @@ We forced multiple roll call votes — and while we didn’t win the final round
 They put every legislator on the record and laid the groundwork for a future win.
 We will not stop until West Virginians have full medical freedom — not just in principle, but in law.
 We also achieved a major victory in banning the chemical castration of minors in West Virginia.
-As I said during debate:
-“This is not compassion — it is cruelty masquerading as progress.
+As I said during debate: “This is not compassion — it is cruelty masquerading as progress.
 These children are being influenced by woke policies and broken adults who tell them they were born in the wrong body.
 But let me be clear: God did not make a mistake.
-We have a moral obligation to protect these young lives from irreversible harm.”
-Another major win: we banned DEI (Diversity, Equity & Inclusion) programs in state government and education.
+We have a moral obligation to protect these young lives from irreversible harm.” Another major win: we banned DEI (Diversity, Equity & Inclusion) programs in state government and education.
 These programs don’t promote unity — they promote division, resentment, and collectivism.
 I was proud to support this effort, led strongly by Delegate Elias Coop-Gonzalez, to root out this toxic ideology from our public institutions.
 We also passed the Riley Gaines Act — legislation to ensure that only biological females compete in women’s sports in West Virginia.
@@ -46,12 +40,9 @@ No young woman should lose out on a scholarship, a title, or a safe competition 
 This was a crucial stand for fairness, safety, and common sense.
 Another important accomplishment was passage of the Parents' Bill of Rights.
 I gave my full support on the floor because parents — not bureaucrats — are the ultimate authority in their children's lives.
-In my floor speech I said:
-“This bill restores what never should have been taken — the right of parents to make decisions for their own children without interference from the state.”
-We’re putting power back where it belongs: with families.
+In my floor speech I said: “This bill restores what never should have been taken — the right of parents to make decisions for their own children without interference from the state.” We’re putting power back where it belongs: with families.
 I stood up for the unborn — clearly and unapologetically.
-I told my colleagues, “If we won’t defend the most defenseless among us, we have no moral claim to defend anything at all.”
-I also called out the unconstitutional surveillance operations taking place in Marion County — programs funded in part by federal politicians like Joe Manchin and Shelley Moore Capito.
+I told my colleagues, “If we won’t defend the most defenseless among us, we have no moral claim to defend anything at all.” I also called out the unconstitutional surveillance operations taking place in Marion County — programs funded in part by federal politicians like Joe Manchin and Shelley Moore Capito.
 These efforts are a direct assault on the Fourth Amendment, and I won’t stay silent while the federal government uses our tax dollars to spy on us.
 This session also brought a major Second Amendment victory.
 I was proud to co-sponsor HB2067, which passed into law and protects firearm manufacturers from being sued out of existence.
@@ -66,8 +57,7 @@ The toughest thing about being a legislator is not giving into the groupthink �
 But I didn’t come here to take one for the team.
 I came here to defend the Constitution.
 And I will never vote against it.
-“Groupthink in politics is a disease — and I didn’t come here to catch it.”
-That brings me to something I believe we must urgently change: the House Rules.
+“Groupthink in politics is a disease — and I didn’t come here to catch it.” That brings me to something I believe we must urgently change: the House Rules.
 As they stand today, a single person — the Speaker of the House — decides which bills live or die.
 No bill gets a vote unless the Speaker allows it.
 That means one delegate, from one district, can silence the voices of every other district in this state.
@@ -95,14 +85,13 @@ Without her, I couldn’t stand as firmly as I do.
 Thank you for the honor of representing you.
 The fight for liberty continues — and I’m not backing down.
 I have not yet begun to fight.
-In liberty,
-Delegate S.
-Chris Anders
-97th District – West Virginia House of Delegates
-P.S.
+In liberty, Delegate S.
+Chris Anders 97th District – West Virginia House of Delegates P.S.
 The far left and the political establishment are already targeting me in the upcoming 2026 election.
 They’ve made it clear they want me gone — unless I cave in.
 I won’t.
 But I can’t do it alone.
 If you believe in what we’re fighting for, please consider making a donation today.
 Your support keeps this fight alive.
+S.
+Chris Anders Next Next Anders' Committee Statement on Ending Puberty Blockers for Minors anders4wv.com is paid for by Anders 4 WV anders4wv@gmail.com 304-620-4506

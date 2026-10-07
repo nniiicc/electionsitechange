@@ -1,10 +1,34 @@
 [
-"https://bethfarnhamforcongress.com/",
-"https://bethfarnhamforcongress.com/contact-beth",
-"https://bethfarnhamforcongress.com/meet-beth",
-"https://bethfarnhamforcongress.com/priorities",
-"https://bethfarnhamforcongress.com/welcome-volunteers",
-"https://secure.actblue.com/donate/beth-farnham-for-congress-1",
-"https://volgistics.com/appform/1155024707",
-"https://volgistics.com/vicnet/782965"
+{
+"text": "Contact Beth",
+"href": "https://bethfarnhamforcongress.com/contact-beth/"
+},
+{
+"text": "Join us!",
+"href": "https://bethfarnhamforcongress.com/welcome-volunteers/"
+},
+{
+"text": "Login",
+"href": "https://www.volgistics.com/vicnet/782965"
+},
+{
+"text": "Meet Beth",
+"href": "https://bethfarnhamforcongress.com/meet-beth/"
+},
+{
+"text": "Priorities",
+"href": "https://bethfarnhamforcongress.com/priorities/"
+},
+{
+"text": "Sign up",
+"href": "https://www.volgistics.com/appform/1155024707"
+},
+{
+"text": "[image]",
+"href": "https://www.bethfarnhamforcongress.com"
+},
+{
+"text": "donate",
+"href": "https://secure.actblue.com/donate/beth-farnham-for-congress-1"
+}
 ]

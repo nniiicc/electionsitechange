@@ -1,25 +1,7 @@
-Legislative Updates and Upcoming Townhall
-Feb 27
-Updated: Mar 1
-Rep.
+top of page About Platform News Events HD43 Canvass Contact More Use tab to navigate through the menu items.
+DONATE All Posts 2026 Campaign Re-Elect Bob Marshall 2026 Legislative Newsletters 2025 Legislative Newsletters Search Legislative Updates and Upcoming Townhall Rep Bob Marshall Feb 27 1 min read Updated: Mar 1 Rep.
 Marshall writes several newsletter through the year, frequency is based on what is happening at the capitol and locally.
-You can see all past issues here.
-Legislative Updates and Upcoming Townhall 02/27/2026
-Table of Contents
-- How to Stay Informed and Get Involved
-- Legislative Updates
-- Budget Day Supplements
-- Last Ditch Effort on Final Reading
-- With Rep.
-Bradley
-- Douglas County Board of Commissioners
-- Constituent Corner
-- Upcoming Townhalls
-- HD43 District Highlights
-- Douglas County School District
-- Highlands Ranch Community Association
-- Highlands Ranch Metro District
-- Douglas County Outstanding Youth Award
-- In the News
-- News links from CBS News, Complete Colorado, The Denver Gazette, and other outlets
-- Footer & Contact Information
+You can see all past issues here .
+Legislative Updates and Upcoming Townhall 02/27/2026 Table of Contents How to Stay Informed and Get Involved Legislative Updates Budget Day Supplements Last Ditch Effort on Final Reading With Rep.
+Bradley Douglas County Board of Commissioners Constituent Corner Upcoming Townhalls HD43 District Highlights Douglas County School District Highlands Ranch Community Association Highlands Ranch Metro District Douglas County Outstanding Youth Award In the News News links from CBS News, Complete Colorado, The Denver Gazette, and other outlets Footer & Contact Information 2026 Legislative Newsletters Recent Posts See All April Newsletter February 2026 Newsletter Paid for by Bob4Colorado ​ Registered Agent: Robert Marshall DONATE BOB MARSHALL IS A RETIRED MARINE CORPS OFFICER.
+USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY, MARINE CORPS OR DEPARTMENT OF DEFENSE. bottom of page

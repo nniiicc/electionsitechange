@@ -1,4 +1,2 @@
-10/20 – General Debate – New England College, Henniker, 7pm
-October 20 @ 7:00 pm
-10/20 General Election Debate hosted by New England College, in Henniker, 7pm
-(not yet confirmed by Maggie Goodlander)
+Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate « All Events 10/20 – General Debate – New England College, Henniker, 7pm October 20 @ 7:00 pm « 10/19 – Greater Nashua Chamber “Eggs & Business Issues” Candidate Forum – Nashua TEAM LILY – Keene City Republican Committee Meeting » 10/20 General Election Debate hosted by New England College, in Henniker, 7pm (not yet confirmed by Maggie Goodlander) Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 20 Time: 7:00 pm Event Category: Events « 10/19 – Greater Nashua Chamber “Eggs & Business Issues” Candidate Forum – Nashua TEAM LILY – Keene City Republican Committee Meeting » © # Lily4Congress Committee.
+Paid for by Lily4Congress Committee. | Privacy Policy

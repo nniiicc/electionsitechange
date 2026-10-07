@@ -1,5 +1,4 @@
-Campaign Manager
-Suzanne Ness is proud to welcome Kate Norten as Campaign Manager for the 2026 re-election campaign.
+Skip to content Search for: HOME ABOUT PLATFORM ENDORSEMENTS EVENTS VOLUNTEER FOLLOW THE MONEY DONATE CONTACT Previous Next Meet Kate Norten Campaign Manager Suzanne Ness is proud to welcome Kate Norten as Campaign Manager for the 2026 re-election campaign.
 A lifelong advocate for community engagement and service, Kate brings a collaborative leadership style and a deep commitment to building meaningful relationships throughout District 66.
 Her experience connecting people, organizations, and local institutions reflects the same values that have guided Suzanne’s public service: listening, serving, and delivering results.
 Kate earned her Master of Divinity from North Park Theological Seminary in 2022 and has dedicated her career to strengthening communities through service and partnership.
@@ -10,5 +9,7 @@ Kate and her husband, Josh, call Crystal Lake home, where they have raised their
 She understands the priorities that matter most to local families and is passionate about helping build a stronger future for the communities of District 66.
 Whether organizing volunteers, meeting with community members, or helping share Suzanne’s vision for the future, Kate is committed to ensuring every voter has the opportunity to connect with the campaign.
 “Kate’s passion for serving others, her ability to bring people together, and her deep roots in our community make her the perfect person to lead our campaign.
-I’m excited to have her on our team as we continue working to deliver results for the people of District 66.”
-— Suzanne Ness
+I’m excited to have her on our team as we continue working to deliver results for the people of District 66.” — Suzanne Ness Roxie S 2026-09-10T15:57:16+00:00 Share This Story, Choose Your Platform!
+Facebook LinkedIn Email Contact Our Team Address: P.O.
+Box 2633 Crystal Lake, IL 60014 Email: vote4suzanneness@gmail.com Call 224-208-8775 Connect with Team Ness Copyright | Citizens For Suzanne Ness | Privacy Policy Page load link This website uses cookies and third party services.
+Settings OK Go to Top

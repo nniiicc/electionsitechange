@@ -1,7 +1,34 @@
 [
-"https://cindiduchow.com/",
-"https://cindiduchow.com/down-for-maintenance",
-"https://facebook.com/cindiduchowforassembly",
-"https://legis.wisconsin.gov/ltsb/gisdocs/WI2023Act94/ASM_Districts/ASM97_WI2023Act94_Poster_Map.pdf",
-"https://secure.winred.com/friends-of-cindi-duchow/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+{
+"text": "About Me",
+"href": "https://www.cindiduchow.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-cindi-duchow/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "District Map",
+"href": "https://www.cindiduchow.com/down-for-maintenance"
+},
+{
+"text": "Photos",
+"href": "https://www.cindiduchow.com"
+},
+{
+"text": "The Issues",
+"href": "https://www.cindiduchow.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cindiduchow.com"
+},
+{
+"text": "[image: Duchow District.png]",
+"href": "https://legis.wisconsin.gov/ltsb/gisdocs/WI2023Act94/ASM_Districts/ASM97_WI2023Act94_Poster_Map.pdf"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/cindiduchowforassembly"
+}
 ]

@@ -1,3 +1,5 @@
-| Saco Bay News reported that Governor Mills signed Senator Bailey's LD 2005 (An Act to Increase Access to Mail-Order Prescription Drugs) into law.
+SENATOR DONNA BAILEY Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5 Sen.
+Bailey Bill to Increase Access to Mail-Order Prescription Drugs Signed into Law 6/13/2026 0 Comments Saco Bay News reported that Governor Mills signed Senator Bailey's LD 2005 (An Act to Increase Access to Mail-Order Prescription Drugs) into law.
 The legislation removes barriers that had prevented some Maine patients from accessing prescription drugs through mail-order pharmacy programs, which are often more affordable and convenient — particularly for residents in rural parts of the state.
-Senator Bailey championed the bill as a commonsense measure to make prescription medications more accessible and reduce out-of-pocket costs for Maine families. | Blog Latest News Archives Categories |
+Senator Bailey championed the bill as a commonsense measure to make prescription medications more accessible and reduce out-of-pocket costs for Maine families. rEAD MORE 0 Comments Leave a Reply.
+Blog Latest News Archives June 2026 February 2024 December 2023 June 2022 October 2020 September 2020 August 2020 June 2018 Categories All RSS Feed donate $5 207-284-9962 [email protected] Paid for and authorized by the candidate Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5

@@ -1,7 +1,9 @@
 {
  "description": "Beacon Voter Guide Link or Beacon Voter Guide Text",
  "final_url": "https://www.alaskaquinn.com/welcome",
- "paid_for_by": null,
+ "fingerprint": "3d2ea5738a6d6b3abeb7eddf9b1097449edc9247",
+ "format": 3,
+ "paid_for_by": "",
  "title": "AlaskaQuinn",
  "years_mentioned": []
 }

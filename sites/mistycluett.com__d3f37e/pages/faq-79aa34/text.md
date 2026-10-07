@@ -1,4 +1,4 @@
-Why are you running?
+0 Skip to Content Home Meet Misty Priorities FAQ Events Get Involved Donate Contact Downloads Open Menu Close Menu Home Meet Misty Priorities FAQ Events Get Involved Donate Contact Downloads Open Menu Close Menu Home Meet Misty Priorities FAQ Events Get Involved Donate Contact Downloads Why are you running?
 I'm running because I believe Hawaiʻi can do better.
 My family knows what it’s like to leave Hawaiʻi in search of opportunity, and how hard it can be to find a way back home.
 Too many local families are still facing that same reality today.

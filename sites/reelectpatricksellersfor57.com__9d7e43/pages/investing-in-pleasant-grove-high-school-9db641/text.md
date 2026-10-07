@@ -1,4 +1,4 @@
-Honored to invest $10,000 in Pleasant Grove High School tonight at the football game.
+Skip to main content Hit enter to search or ESC to close Search Close Search Menu HOME ABOUT NEWS MEDIA LOCATING VOTING INFORMATION DONATE facebook Community Impact Investing in Pleasant Grove High School By PAID FOR BY COMMITTEE TO ELECT PATRICK SELLERS September 5, 2025 September 17th, 2025 No Comments Honored to invest $10,000 in Pleasant Grove High School tonight at the football game.
 Our students are the heartbeat of District 57, and when we invest in them, we invest in our future—safer streets, stronger families, and a thriving community.
 Huge thanks to the administration, teachers, coaches, band, and parents for the daily work you do.
-Let’s keep giving our kids every opportunity to win—in the classroom and in life. 💪🏽📚🏈
+Let’s keep giving our kids every opportunity to win—in the classroom and in life. 💪🏽📚🏈 PAID FOR BY COMMITTEE TO ELECT PATRICK SELLERS Previous Post Investing in Brighton Elementary School Next Post Investing in Pleasant Grove Elementary School facebook © # RE-ELECT PATRICK SELLERS ALABAMA HOUSE OF REPRESENTATIVES. | PAID FOR BY COMMITTEE TO ELECT PATRICK SELLERS | 319 11TH PL PLEASANT GROVE, AL 35127 Close Menu HOME ABOUT NEWS MEDIA LOCATING VOTING INFORMATION DONATE facebook

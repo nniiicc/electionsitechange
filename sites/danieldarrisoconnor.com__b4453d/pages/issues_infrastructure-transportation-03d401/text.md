@@ -1,6 +1,4 @@
-DANIEL DARRIS-O'CONNOR | ON THE ISSUES
-INFRASTRUCTURE & TRANSPORTATION
-A strong community depends on strong infrastructure, and right now Massachusetts is falling short.
+Skip navigation menu Meet Daniel Platform Endorsements Get Involved Request a Yard Sign Donate Meet Daniel Platform Endorsements Get Involved Request a Yard Sign Donate EDUCATION AND WORKFORCE DEVELOPMENT GOVERNMENT REFORM & TRANSPARENCY FIGHT FOR EVERY DOLLAR OUR TOWN DESERVES TAX RELIEF FOR BILLERICA FAMILIES LOWERING ENERGY COSTS CUTTING THE RED TAPE PROTECT YOUR FUNDAMENTAL RIGHTS SUPPORTING OUR VETERANS INFRASTRUCTURE & TRANSPORTATION AGING WITH DIGNITY DANIEL DARRIS-O'CONNOR | ON THE ISSUES INFRASTRUCTURE & TRANSPORTATION A strong community depends on strong infrastructure, and right now Massachusetts is falling short.
 From our roads and bridges to our water systems and commuter rail, residents are too often being asked to make do while the problems continue to grow.
 Local roads, bridges, and water infrastructure need real investment.
 I will fight to increase local aid so that Billerica and communities like ours have the resources to repair roads, maintain critical infrastructure, and upgrade the aging water and sewer systems residents rely on every day.
@@ -10,4 +8,4 @@ North Billerica station has sat in disrepair for too long, and both North Biller
 That includes expanding parking, improving station facilities, and increasing service frequency so the commuter rail becomes a genuinely reliable and attractive option for residents.
 Whether commuting into Boston for work or heading into the city for an event, public transit should be convenient, dependable, and worth choosing.
 Investing in transit reduces traffic, eases congestion, and improves quality of life across the region.
-Billerica deserves a representative who will fight for every dollar needed to keep our community moving, and that is exactly what I intend to do.
+Billerica deserves a representative who will fight for every dollar needed to keep our community moving, and that is exactly what I intend to do. campaign@danieldarrisoconnor.com Powered by RUN! website builder Paid for by Committee to Elect Daniel Darris-O'Connor You need to enable JavaScript to run this app.

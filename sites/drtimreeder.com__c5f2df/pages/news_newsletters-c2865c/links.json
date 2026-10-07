@@ -1,54 +1,222 @@
 [
-"https://conta.cc/3HQ5qg5\\",
-"https://conta.cc/3HypZx8\\",
-"https://conta.cc/3L0TaIX\\",
-"https://conta.cc/3LWvzsp\\",
-"https://conta.cc/3Oneo4Z\\",
-"https://conta.cc/3PqMHZS\\",
-"https://conta.cc/3R00czr\\",
-"https://conta.cc/3RPc6MK\\",
-"https://conta.cc/3RTCjZE\\",
-"https://conta.cc/3SE8CQK",
-"https://conta.cc/3UDsnXD\\",
-"https://conta.cc/3XQ876B\\",
-"https://conta.cc/3XZfplE\\",
-"https://conta.cc/3ZCAnc8\\",
-"https://conta.cc/3Zl3SNF\\",
-"https://conta.cc/3u3syAn\\",
-"https://conta.cc/3wTmXhS\\",
-"https://conta.cc/40jiVux\\",
-"https://conta.cc/40uHOn8\\",
-"https://conta.cc/42XeiYr\\",
-"https://conta.cc/42fzNDk",
-"https://conta.cc/42y94T7\\",
-"https://conta.cc/43dDCdj\\",
-"https://conta.cc/44ghvl5\\",
-"https://conta.cc/452izeQ\\",
-"https://conta.cc/453vbQP\\",
-"https://conta.cc/45Mg0w0\\",
-"https://conta.cc/45vi0aY\\",
-"https://conta.cc/47gnHgs\\",
-"https://conta.cc/492exUi",
-"https://conta.cc/4avsnPQ",
-"https://conta.cc/4bLrUry\\",
-"https://conta.cc/4bamTv1",
-"https://conta.cc/4duPIT3\\",
-"https://conta.cc/4jA3Knx\\",
-"https://conta.cc/4jArxFj\\",
-"https://conta.cc/4kJDzLS\\",
-"https://conta.cc/4l2stD3\\",
-"https://conta.cc/4mkB2JY\\",
-"https://conta.cc/4tC5hiE",
-"https://conta.cc/4xb8TdL",
-"https://drtimreeder.com/",
-"https://drtimreeder.com/news/about-me",
-"https://drtimreeder.com/news/accomplishments",
-"https://drtimreeder.com/news/contact",
-"https://drtimreeder.com/news/index.php",
-"https://drtimreeder.com/news/news",
-"https://drtimreeder.com/news/zudesa.com",
-"https://facebook.com/RepTimReeder",
-"https://instagram.com/drtimreeder",
-"https://secure.anedot.com/c0d2f87f-a599-44e0-861a-eab3102f8e98/donate",
-"https://x.com/timreedernc"
+{
+"text": "About Me",
+"href": "https://drtimreeder.com/news/about-me"
+},
+{
+"text": "Accomplishments",
+"href": "https://drtimreeder.com/news/accomplishments"
+},
+{
+"text": "Contact",
+"href": "https://drtimreeder.com/news/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/c0d2f87f-a599-44e0-861a-eab3102f8e98/donate"
+},
+{
+"text": "Home",
+"href": "https://drtimreeder.com"
+},
+{
+"text": "Home",
+"href": "https://drtimreeder.com/news/index.php"
+},
+{
+"text": "News",
+"href": "https://drtimreeder.com/news/news"
+},
+{
+"text": "Zudesa Corporation",
+"href": "https://drtimreeder.com/news/zudesa.com"
+},
+{
+"text": "[image: Elect Dr. Tim Reeder]",
+"href": "https://drtimreeder.com/"
+},
+{
+"text": "[no text]",
+"href": "https://drtimreeder.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/drtimreeder"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepTimReeder"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/timreedernc"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(null)"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3HQ5qg5%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3HypZx8%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3L0TaIX%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3LWvzsp%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3Oneo4Z%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3PqMHZS%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3R00czr%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3RPc6MK%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3RTCjZE%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3SE8CQK"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3UDsnXD%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3XQ876B%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3XZfplE%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3ZCAnc8%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3Zl3SNF%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3u3syAn%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/3wTmXhS%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/40jiVux%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/40uHOn8%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/42XeiYr%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/42fzNDk"
+},
+{
+"text": "here",
+"href": "https://conta.cc/42y94T7%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/43dDCdj%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/44ghvl5%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/452izeQ%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/453vbQP%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/45Mg0w0%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/45vi0aY%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/47gnHgs%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/492exUi"
+},
+{
+"text": "here",
+"href": "https://conta.cc/4avsnPQ"
+},
+{
+"text": "here",
+"href": "https://conta.cc/4bLrUry%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/4bamTv1"
+},
+{
+"text": "here",
+"href": "https://conta.cc/4duPIT3%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/4jA3Knx%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/4jArxFj%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/4kJDzLS%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/4l2stD3%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/4mkB2JY%5C"
+},
+{
+"text": "here",
+"href": "https://conta.cc/4tC5hiE"
+},
+{
+"text": "here",
+"href": "https://conta.cc/4xb8TdL"
+}
 ]

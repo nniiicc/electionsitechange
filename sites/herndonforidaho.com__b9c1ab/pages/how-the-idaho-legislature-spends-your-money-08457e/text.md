@@ -1,9 +1,9 @@
-Spend, Spend, Spend.
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page How the Idaho Legislature Spends Your Money Oct 26, 2023 | Herndon's Editorial , Idaho Money , Policy Analysis Spend, Spend, Spend.
 We all know that the United States Congress, which has the power of the federal purse, is totally out of control with their spending.
-It seems like we just passed $30 trillion in US National debt, yet I just checked the US national debt clock, and by the time you read this article, it may be at $34 trillion or much more.
+It seems like we just passed $30 trillion in US National debt, yet I just checked the US national debt clock , and by the time you read this article, it may be at $34 trillion or much more.
 It is mind-blowing.
-With out-of-control spending, the Congress has enslaved future generations of Americans and our children and children’s children
-But what about the State of Idaho and your state senator or representative?
+With out-of-control spending, the Congress has enslaved future generations of Americans and our children and children’s children But what about the State of Idaho and your state senator or representative?
 How does state spending happen, and do we have the same problems?
 The short answer is that because the state of Idaho cannot manufacture money, we have to live within our means.
 We can only spend what is in the state’s bank accounts.
@@ -11,7 +11,7 @@ But, does that mean that your state representative and senator in Boise spends y
 Let’s examine how the business of state spending really works.
 What Idaho calls “revenues” is really your taxes.
 Even in Idaho we spend billions of dollars.
-Since I have been paying attention to the state budgets just 6 years ago, we have doubled state spending to $14 billion a year.
+Since I have been paying attention to the state budgets just #ago, we have doubled state spending to $14 billion a year.
 And you are paying for it weekly.
 Did you just fill up your gas tank?
 You just paid Idaho 32 cents per gallon in gas tax, the 17th highest in the nation.
@@ -62,7 +62,7 @@ Certainly, every legislator ought to find at least one budget bill that they don
 Remember, voting no at least once means you are still saying yes to 99.5% of the budgets that come across your desk.
 Saying NO just sends it back to committee with the request that we get this budget a little tighter or get a better explanation for a line item.
 It doesn’t actually kill an agency, close a school or shut down a highway project.
-And yet for the past two years NOT A SINGLE BUDGET BILL, out of 250 different bills, has been killed on the senate floor and returned to committee.
+And yet for the past two years NOT A SINGLE BUDGET BILL , out of 250 different bills, has been killed on the senate floor and returned to committee.
 Not a single one.
 In fact, many legislators in the senate in particular, vote YES on every.
 Single.
@@ -77,31 +77,29 @@ Notice that at least in the House of Representatives there was some real opposit
 The House even killed some budgets, which caused them to go back to committee and get tightened up with more responsible spending.
 This is what we the people want!
 In contrast to Woodward, just on the public schools’ bills in the 2023 session, I voted in favor of some of the budgets and voted against some of the budgets.
-For example, I voted for Senate Bill 1205, the public schools’ Teacher’s Division budget that included significant public school teacher pay raises.
-But, I voted against Senate Bill 1206, the public school Operations budget.
+For example, I voted for Senate Bill 1205 , the public schools’ Teacher’s Division budget that included significant public school teacher pay raises.
+But, I voted against Senate Bill 1206 , the public school Operations budget.
 While I supported the $97 million pay raise for bus drivers and other classified staff in that budget, I opposed the line item of $48 million for so-called “discretionary spending”.
 By voting No, I was sending a message to the state superintendent of public instruction that I was not a random yes man.
 Superintendent Critchfield knew that my opinion was that the discretionary spending number seemed somewhat random, and my No vote was my message to her to provide a more detailed plan for why the number was in the budget to begin with.
 In fact, I stated this in JFAC, and I debated the same point on the senate floor.
 This is how we get better and more responsible government.
-Here is my debate against Senate Bill 1206 and my encouragement to the State Superintendent of Public Instruction:
-One more terrible thing.
+Here is my debate against Senate Bill 1206 and my encouragement to the State Superintendent of Public Instruction: One more terrible thing.
 There are special interest groups that will spend hundreds of thousands of dollars in the next 6 months against we conservative senators who sometimes say NO.
 These Center Left special interest PACs want legislators who will say yes to everything they want.
 Remember who is trying to wield all of the power in the Boise Swamp.
 The corporations and special interest groups want to use government to enrich themselves, and they will lie and attempt to deceive voters to get the “Yes” men and women that they want in the legislature.
 Here is one example: A new political action committee was just formed right before the last primary election in April 2022.
 They use the name Idaho Liberty PAC.
+They have so far raised $# and spent $# of it against our most conservative and fiscally responsible legislators.
 Their donations come entirely from center Left, wealthy individuals, corporations and other political action committees.
 These are not people like you and me.
-Just 12 days ago Idaho “Liberty” PAC spent $47,500 to send a mailer against three of Idaho’s most conservative senators, Chris Trakel, Brian Lenney, and Tammy Nichols.
+Just #ago Idaho “Liberty” PAC spent $47,500 to send a mailer against three of Idaho’s most conservative senators, Chris Trakel, Brian Lenney, and Tammy Nichols.
 In the mailer, this Center Left Idaho Liberty PAC straight up twists the record.
-Here is the mailer:
-“Defund our police”?
+Here is the mailer: “Defund our police”?
 They state that Chris Trakel wants to “defund the police” because he voted against senate bill 1211.
 Senate Bill 1211 was what is known as a Cash Transfer bill and did 6 things.
-Here are the things it did that Senator Trakel approved of:
-1) It transferred $68.7 million to cover the summer of 2022’s wildfire suppression in Idaho.
+Here are the things it did that Senator Trakel approved of: 1) It transferred $68.7 million to cover the summer of 2022’s wildfire suppression in Idaho.
 2) It transferred $550 thousand dollars to the Peace Officer Training Fund.
 It transferred in total $130.9 million from the general fund, which is your personal income taxes and your sales taxes, to other funds so that the money could be used.
 What both Senator Trakel and I opposed in the bill was that it also transferred $15 million of your money to the Workforce Development Council in the Office of the Governor so that your money could be used to train semiconductor workers that are going to work for Micron Technologies.
@@ -125,22 +123,15 @@ The May 2024 Republican primary election is just 6 months away.We need money to 
 Also share this newsletter with a friend.
 Help spread the truth about how our government works.
 Contact me with any questions.
-Yours,
-Scott Herndon
-(208) 610-2680
-PS – It has come to my attention that Senate Pro Tem Chuck Winder wrote a letter that inaccurately criticized my work on JFAC.
+Yours, Scott Herndon (208) 610-2680 PS – It has come to my attention that Senate Pro Tem Chuck Winder wrote a letter that inaccurately criticized my work on JFAC.
 In particular, he stated that he “was surprised to hear that you had only worked on one small budget”.
 I am amazed that Senator Winder would commit such a factual error in his defamatory letter.
-A quick review of the Senate Journal for the 2023 session reveals that I sponsored the following five budgets on the senate floor:
-1.
-S1115 – State Appellate Public Defender
-2.
-S1131 – Supplemental appropriation for Attorney General
-3.
-S1139 – Executive Office of the Governor
-4.
-S1164 – Department of Labor
-5.
-H306 – Public Defense Commission
-Doing the work of JFAC means attending, questioning, debating, offering substitute budget motions, adding language to budget bills, voting against budgets and supporting and carrying on the senate floor some budgets.
+A quick review of the Senate Journal for the 2023 session reveals that I sponsored the following five budgets on the senate floor: 1.
+S1115 – State Appellate Public Defender 2.
+S1131 – Supplemental appropriation for Attorney General 3.
+S1139 – Executive Office of the Governor 4.
+S1164 – Department of Labor 5.
+H306 – Public Defense Commission Doing the work of JFAC means attending, questioning, debating, offering substitute budget motions, adding language to budget bills, voting against budgets and supporting and carrying on the senate floor some budgets.
 All of which I proudly did in 2023.
+Stand with Scott Herndon Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

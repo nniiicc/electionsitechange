@@ -1,52 +1,310 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Kick+Off&dates=20250605T230000Z%2F20250606T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cocktail+Fundraiser&dates=20260507T230000Z%2F20260508T033000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Flag+Day+Parade&dates=20250614T150000Z%2F20250614T160000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Hannibal+Meet+%26+Greet&dates=20260319T230000Z%2F20260320T010000Z&location=Hannibal%2C+MO",
-"http://google.com/calendar/event?action=TEMPLATE&text=July+4th+Parade&dates=20250704T150000Z%2F20250704T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Lincoln+Day+&dates=20260228T133000Z%2F20260228T160000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Marion+County+Fair+Parade&dates=20250726T150000Z%2F20250726T160000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Marion+County+Fair+Sale+of+Champions&dates=20250802T140000Z%2F20250802T163000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Palmyra+Chamber+of+Commerce+Annual+Awards+Banquet&dates=20260108T233000Z%2F20260109T023000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Republican+Primary+Election+Day&dates=20260804T110000Z%2F20260805T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Speaking+Event%3A+Hannibal+Conservative+Club&dates=20250825T233000Z%2F20250826T013000Z&location=Hannibal%2C+MO%2C+63401%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Speaking+Event%3A+Ralls+County+Conservative+Club&dates=20250814T233000Z%2F20250815T013000Z&location=Perry%2C+MO%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Taste+of+Palmyra&dates=20251020T220000Z%2F20251021T003000Z",
-"http://maps.google.com/?q=+Hannibal%2C+MO",
-"http://maps.google.com/?q=+Hannibal%2C+MO%2C+63401+United+States",
-"http://maps.google.com/?q=+Perry%2C+MO+United+States",
-"https://facebook.com/profile.php?id=61577003908156",
-"https://mcelvainformissouri.com/",
-"https://mcelvainformissouri.com/about-me",
-"https://mcelvainformissouri.com/cart",
-"https://mcelvainformissouri.com/contat",
-"https://mcelvainformissouri.com/endorsements",
-"https://mcelvainformissouri.com/events",
-"https://mcelvainformissouri.com/events/event-five-4wtf8",
-"https://mcelvainformissouri.com/events/event-five-4wtf8?format=ical",
-"https://mcelvainformissouri.com/events/event-one-dpzpj",
-"https://mcelvainformissouri.com/events/event-one-dpzpj?format=ical",
-"https://mcelvainformissouri.com/events/fundraiser",
-"https://mcelvainformissouri.com/events/fundraiser?format=ical",
-"https://mcelvainformissouri.com/events/hannibal-meet-greet",
-"https://mcelvainformissouri.com/events/hannibal-meet-greet?format=ical",
-"https://mcelvainformissouri.com/events/july-4th-parade",
-"https://mcelvainformissouri.com/events/july-4th-parade?format=ical",
-"https://mcelvainformissouri.com/events/lincoln-day",
-"https://mcelvainformissouri.com/events/lincoln-day?format=ical",
-"https://mcelvainformissouri.com/events/marion-county-fair-parade",
-"https://mcelvainformissouri.com/events/marion-county-fair-parade?format=ical",
-"https://mcelvainformissouri.com/events/marion-county-fair-sale-of-champions",
-"https://mcelvainformissouri.com/events/marion-county-fair-sale-of-champions?format=ical",
-"https://mcelvainformissouri.com/events/palmyra-chamber-of-commerce-annual-awards-banquet",
-"https://mcelvainformissouri.com/events/palmyra-chamber-of-commerce-annual-awards-banquet?format=ical",
-"https://mcelvainformissouri.com/events/republican-primary-election-day",
-"https://mcelvainformissouri.com/events/republican-primary-election-day?format=ical",
-"https://mcelvainformissouri.com/events/speaking-event-hannibal-conservative-club",
-"https://mcelvainformissouri.com/events/speaking-event-hannibal-conservative-club?format=ical",
-"https://mcelvainformissouri.com/events/speaking-event-ralls-county-conservative-club",
-"https://mcelvainformissouri.com/events/speaking-event-ralls-county-conservative-club?format=ical",
-"https://mcelvainformissouri.com/events/w9u4ol244w3ldepd06shpj78nb4c45",
-"https://mcelvainformissouri.com/events/w9u4ol244w3ldepd06shpj78nb4c45?format=ical",
-"https://secure.winred.com/committee-to-elect-roth-mcelvain/donate-today?exitintent=true"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+hannibal%2C+mo%2C+63401+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+hannibal%2C+mo+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+perry%2C+mo+united+states"
+},
+{
+"text": "0",
+"href": "https://www.mcelvainformissouri.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.mcelvainformissouri.com/about-me"
+},
+{
+"text": "Campaign Kick Off",
+"href": "https://www.mcelvainformissouri.com/events/event-one-dpzpj"
+},
+{
+"text": "Cocktail Fundraiser",
+"href": "https://www.mcelvainformissouri.com/events/fundraiser"
+},
+{
+"text": "Contact",
+"href": "https://www.mcelvainformissouri.com/contat"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/committee-to-elect-roth-mcelvain/donate-today?exitintent=true"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mcelvainformissouri.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mcelvainformissouri.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61577003908156"
+},
+{
+"text": "Flag Day Parade",
+"href": "https://www.mcelvainformissouri.com/events/event-five-4wtf8"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Kick+Off&dates=20250605T230000Z%2F20250606T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cocktail+Fundraiser&dates=20260507T230000Z%2F20260508T033000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Flag+Day+Parade&dates=20250614T150000Z%2F20250614T160000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hannibal+Meet+%26+Greet&dates=20260319T230000Z%2F20260320T010000Z&location=Hannibal%2C+MO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=July+4th+Parade&dates=20250704T150000Z%2F20250704T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Lincoln+Day+&dates=20260228T133000Z%2F20260228T160000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Marion+County+Fair+Parade&dates=20250726T150000Z%2F20250726T160000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Marion+County+Fair+Sale+of+Champions&dates=20250802T140000Z%2F20250802T163000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Palmyra+Chamber+of+Commerce+Annual+Awards+Banquet&dates=20260108T233000Z%2F20260109T023000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Republican+Primary+Election+Day&dates=20260804T110000Z%2F20260805T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Speaking+Event%3A+Hannibal+Conservative+Club&dates=20250825T233000Z%2F20250826T013000Z&location=Hannibal%2C+MO%2C+63401%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Speaking+Event%3A+Ralls+County+Conservative+Club&dates=20250814T233000Z%2F20250815T013000Z&location=Perry%2C+MO%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Taste+of+Palmyra&dates=20251020T220000Z%2F20251021T003000Z"
+},
+{
+"text": "Hannibal Meet & Greet",
+"href": "https://www.mcelvainformissouri.com/events/hannibal-meet-greet"
+},
+{
+"text": "Home",
+"href": "https://www.mcelvainformissouri.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.mcelvainformissouri.com/events/event-five-4wtf8?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mcelvainformissouri.com/events/event-one-dpzpj?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mcelvainformissouri.com/events/fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mcelvainformissouri.com/events/hannibal-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mcelvainformissouri.com/events/july-4th-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mcelvainformissouri.com/events/lincoln-day?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mcelvainformissouri.com/events/marion-county-fair-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mcelvainformissouri.com/events/marion-county-fair-sale-of-champions?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mcelvainformissouri.com/events/palmyra-chamber-of-commerce-annual-awards-banquet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mcelvainformissouri.com/events/republican-primary-election-day?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mcelvainformissouri.com/events/speaking-event-hannibal-conservative-club?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mcelvainformissouri.com/events/speaking-event-ralls-county-conservative-club?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mcelvainformissouri.com/events/w9u4ol244w3ldepd06shpj78nb4c45?format=ical"
+},
+{
+"text": "July 4th Parade",
+"href": "https://www.mcelvainformissouri.com/events/july-4th-parade"
+},
+{
+"text": "Lincoln Day",
+"href": "https://www.mcelvainformissouri.com/events/lincoln-day"
+},
+{
+"text": "Marion County Fair Parade",
+"href": "https://www.mcelvainformissouri.com/events/marion-county-fair-parade"
+},
+{
+"text": "Marion County Fair Sale of Champions",
+"href": "https://www.mcelvainformissouri.com/events/marion-county-fair-sale-of-champions"
+},
+{
+"text": "Palmyra Chamber of Commerce Annual Awards Banquet",
+"href": "https://www.mcelvainformissouri.com/events/palmyra-chamber-of-commerce-annual-awards-banquet"
+},
+{
+"text": "Republican Primary Election Day",
+"href": "https://www.mcelvainformissouri.com/events/republican-primary-election-day"
+},
+{
+"text": "Speaking Event: Hannibal Conservative Club",
+"href": "https://www.mcelvainformissouri.com/events/speaking-event-hannibal-conservative-club"
+},
+{
+"text": "Speaking Event: Ralls County Conservative Club",
+"href": "https://www.mcelvainformissouri.com/events/speaking-event-ralls-county-conservative-club"
+},
+{
+"text": "Taste of Palmyra",
+"href": "https://www.mcelvainformissouri.com/events/w9u4ol244w3ldepd06shpj78nb4c45"
+},
+{
+"text": "View Event →",
+"href": "https://www.mcelvainformissouri.com/events/event-five-4wtf8"
+},
+{
+"text": "View Event →",
+"href": "https://www.mcelvainformissouri.com/events/event-one-dpzpj"
+},
+{
+"text": "View Event →",
+"href": "https://www.mcelvainformissouri.com/events/fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.mcelvainformissouri.com/events/hannibal-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.mcelvainformissouri.com/events/july-4th-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.mcelvainformissouri.com/events/lincoln-day"
+},
+{
+"text": "View Event →",
+"href": "https://www.mcelvainformissouri.com/events/marion-county-fair-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.mcelvainformissouri.com/events/marion-county-fair-sale-of-champions"
+},
+{
+"text": "View Event →",
+"href": "https://www.mcelvainformissouri.com/events/palmyra-chamber-of-commerce-annual-awards-banquet"
+},
+{
+"text": "View Event →",
+"href": "https://www.mcelvainformissouri.com/events/republican-primary-election-day"
+},
+{
+"text": "View Event →",
+"href": "https://www.mcelvainformissouri.com/events/speaking-event-hannibal-conservative-club"
+},
+{
+"text": "View Event →",
+"href": "https://www.mcelvainformissouri.com/events/speaking-event-ralls-county-conservative-club"
+},
+{
+"text": "View Event →",
+"href": "https://www.mcelvainformissouri.com/events/w9u4ol244w3ldepd06shpj78nb4c45"
+},
+{
+"text": "[image: Campaign Kick Off]",
+"href": "https://www.mcelvainformissouri.com/events/event-one-dpzpj"
+},
+{
+"text": "[image: Cocktail Fundraiser]",
+"href": "https://www.mcelvainformissouri.com/events/fundraiser"
+},
+{
+"text": "[image: Flag Day Parade]",
+"href": "https://www.mcelvainformissouri.com/events/event-five-4wtf8"
+},
+{
+"text": "[image: Hannibal Meet & Greet]",
+"href": "https://www.mcelvainformissouri.com/events/hannibal-meet-greet"
+},
+{
+"text": "[image: July 4th Parade]",
+"href": "https://www.mcelvainformissouri.com/events/july-4th-parade"
+},
+{
+"text": "[image: Lincoln Day ]",
+"href": "https://www.mcelvainformissouri.com/events/lincoln-day"
+},
+{
+"text": "[image: Marion County Fair Parade]",
+"href": "https://www.mcelvainformissouri.com/events/marion-county-fair-parade"
+},
+{
+"text": "[image: Marion County Fair Sale of Champions]",
+"href": "https://www.mcelvainformissouri.com/events/marion-county-fair-sale-of-champions"
+},
+{
+"text": "[image: Palmyra Chamber of Commerce Annual Awards Banquet]",
+"href": "https://www.mcelvainformissouri.com/events/palmyra-chamber-of-commerce-annual-awards-banquet"
+},
+{
+"text": "[image: Republican Primary Election Day]",
+"href": "https://www.mcelvainformissouri.com/events/republican-primary-election-day"
+},
+{
+"text": "[image: Roth McElvain]",
+"href": "https://www.mcelvainformissouri.com/"
+},
+{
+"text": "[image: Speaking Event: Hannibal Conservative Club]",
+"href": "https://www.mcelvainformissouri.com/events/speaking-event-hannibal-conservative-club"
+},
+{
+"text": "[image: Speaking Event: Ralls County Conservative Club]",
+"href": "https://www.mcelvainformissouri.com/events/speaking-event-ralls-county-conservative-club"
+},
+{
+"text": "[image: Taste of Palmyra]",
+"href": "https://www.mcelvainformissouri.com/events/w9u4ol244w3ldepd06shpj78nb4c45"
+}
 ]

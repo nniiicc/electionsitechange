@@ -1,7 +1,11 @@
 {
  "description": "Ashtyn Smith for House's campaign",
  "final_url": "https://www.smithforok.com/",
- "paid_for_by": null,
+ "fingerprint": "9f714911880ea302882ac883886f9ffae42c158f",
+ "format": 3,
+ "paid_for_by": "Authorized by Ashtyn Smith for State House 2026 You need to enable JavaScript to run this app",
  "title": "Ashtyn Smith for House",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

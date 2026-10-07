@@ -1,9 +1,42 @@
 [
-"https://facebook.com/profile.php?id=61586313650999",
-"https://falconerformo.com/",
-"https://falconerformo.com/accessibility-statement",
-"https://falconerformo.com/privacy-policy",
-"https://instagram.com/falconerformo",
-"https://secure.actblue.com/donate/sean-falconer-1",
-"https://support.wix.com/en/article/accessibility-adding-an-accessibility-statement-to-your-site"
+{
+"text": "ABOUT",
+"href": "https://www.falconerformo.com"
+},
+{
+"text": "ACCESSIBILITY STATEMENT",
+"href": "https://www.falconerformo.com/accessibility-statement"
+},
+{
+"text": "Accessibility: Adding an Accessibility Statement to Your Site",
+"href": "https://support.wix.com/en/article/accessibility-adding-an-accessibility-statement-to-your-site"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/sean-falconer-1"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=61586313650999"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.falconerformo.com"
+},
+{
+"text": "HOME",
+"href": "https://www.falconerformo.com"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://www.instagram.com/falconerformo/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.falconerformo.com/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "https://www.falconerformo.com/accessibility-statement"
+}
 ]

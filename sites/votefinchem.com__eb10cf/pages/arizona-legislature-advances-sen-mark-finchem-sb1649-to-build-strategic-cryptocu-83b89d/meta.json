@@ -1,7 +1,9 @@
 {
- "description": "Arizona lawmakers are advancing SB1649, legislation sponsored by Senator Mark Finchem to establish a Digital Assets Strategic Reserve Fund and modernize how the state handles seized cryptocurrencies. Under current practice, digital assets seized through criminal investigations are typically liquidated at auction. SB1649 shifts that approach by allowing the state to retain certain digital assets\u2014such as XRP and other cryptocurrencies\u2014instead",
+ "description": "Arizona lawmakers are advancing SB1649, legislation sponsored by Senator Mark Finchem to establish a Digital Assets Strategic Reserve Fund and modernize how the state handles seized cryptocurrencies. Under current practice, digital assets seized through criminal investigations are typically liquidated at auction. SB1649 shifts that approach by allowing the state to retain certain digital assets—such as XRP and other cryptocurrencies—instead",
  "final_url": "https://votefinchem.com/arizona-legislature-advances-sen-mark-finchem-sb1649-to-build-strategic-cryptocurrency-reserve/",
- "paid_for_by": null,
+ "fingerprint": "c261948b1531cdef04c9dcb25477fcc79f2b5c21",
+ "format": 3,
+ "paid_for_by": "sponsored by Senator Mark Finchem to establish a Digital Assets Strategic Reserve Fund and modernize how the state handles seized cryptocurrencies",
  "title": "Senator Mark Finchem - Arizona Legislature Advances Sen. Mark Finchem SB1649 to Build Strategic Cryptocurrency Reserve",
  "years_mentioned": [
   "2026"

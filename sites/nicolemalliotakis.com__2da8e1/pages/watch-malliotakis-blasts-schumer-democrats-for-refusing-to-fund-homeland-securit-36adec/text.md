@@ -1,5 +1,3 @@
-Rep.
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Nicole Malliotakis Watch: Malliotakis Blasts Schumer & Democrats For Refusing to Fund Homeland Security 25 years After 9/11 by Team Nicole on Apr 15, 2026 Rep.
 Nicole Malliotakis appeared on FOX5 GoodDay New York and called out Democrats for refusing to fund Homeland Security.
-STAND WITH NICOLE
-by Team Nicole on
-Apr 15, 2026
+Watch share NEXT ARTICLE Malliotakis Endorsed by Captains Endowment Association of NYPD PREVIOUS ARTICLE Malliotakis Endorsed by Port Authority Sergeants & Retired NYPD Sergeants STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

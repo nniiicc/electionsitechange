@@ -1,12 +1,54 @@
 [
-"https://facebook.com/VoteLaurenMcDonald",
-"https://secure.anedot.com/mcdonald-for-georgia/donate",
-"https://twitter.com/McDonaldGA26",
-"https://votelaurenmcdonald.com/",
-"https://votelaurenmcdonald.com/forsyth-county-coroner-lauren-mcdonald-announces-state-house-campaign",
-"https://votelaurenmcdonald.com/get-involved",
-"https://votelaurenmcdonald.com/issues",
-"https://votelaurenmcdonald.com/issues/fight-for-our-conservative-values",
-"https://votelaurenmcdonald.com/issues/protect-our-quality-of-life",
-"https://votelaurenmcdonald.com/meet-lauren"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/mcdonald-for-georgia/donate"
+},
+{
+"text": "Fight for Our Conservative Values",
+"href": "https://votelaurenmcdonald.com/issues/fight-for-our-conservative-values/"
+},
+{
+"text": "Forsyth County Coroner Lauren McDonald Announces State House Campaign",
+"href": "https://votelaurenmcdonald.com/forsyth-county-coroner-lauren-mcdonald-announces-state-house-campaign/"
+},
+{
+"text": "Get Involved",
+"href": "https://votelaurenmcdonald.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://votelaurenmcdonald.com/issues/"
+},
+{
+"text": "Meet Lauren",
+"href": "https://votelaurenmcdonald.com/meet-lauren/"
+},
+{
+"text": "Protect Our Quality of Life",
+"href": "https://votelaurenmcdonald.com/issues/protect-our-quality-of-life/"
+},
+{
+"text": "Vote Lauren McDonald",
+"href": "https://votelaurenmcdonald.com/"
+},
+{
+"text": "X",
+"href": "javascript:void(0)"
+},
+{
+"text": "[image: McDonald 19-01 Logo Final (1)]",
+"href": "https://votelaurenmcdonald.com/"
+},
+{
+"text": "[image: Vote Lauren McDonald]",
+"href": "https://votelaurenmcdonald.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/McDonaldGA26"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteLaurenMcDonald/"
+}
 ]

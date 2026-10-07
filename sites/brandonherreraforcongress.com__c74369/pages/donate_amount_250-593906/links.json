@@ -1,12 +1,54 @@
 [
-"https://brandonherreraforcongress.com/",
-"https://brandonherreraforcongress.com/events",
-"https://brandonherreraforcongress.com/issues",
-"https://brandonherreraforcongress.com/joint-fundraising-notice",
-"https://brandonherreraforcongress.com/news",
-"https://brandonherreraforcongress.com/vote",
-"https://herrera.cmpgn.to/donate",
-"https://herrera.cmpgn.to/fb",
-"https://herrera.cmpgn.to/ig",
-"https://herrera.cmpgn.to/volunteer"
+{
+"text": "Click here to read our joint fundraising notice.",
+"href": "https://brandonherreraforcongress.com/joint-fundraising-notice/"
+},
+{
+"text": "Donate",
+"href": "https://herrera.cmpgn.to/donate"
+},
+{
+"text": "Events",
+"href": "https://brandonherreraforcongress.com/events/"
+},
+{
+"text": "Home",
+"href": "https://brandonherreraforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://brandonherreraforcongress.com/issues/"
+},
+{
+"text": "News",
+"href": "https://brandonherreraforcongress.com/news/"
+},
+{
+"text": "Phone: (210) 940-9274",
+"href": "tel:+12109409274"
+},
+{
+"text": "Volunteer",
+"href": "https://herrera.cmpgn.to/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://brandonherreraforcongress.com/vote/"
+},
+{
+"text": "[no text]",
+"href": "https://brandonherreraforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://herrera.cmpgn.to/fb"
+},
+{
+"text": "[no text]",
+"href": "https://herrera.cmpgn.to/ig"
+},
+{
+"text": "info@brandonherreraforcongress.com",
+"href": "mailto:info@brandonherreraforcongress.com"
+}
 ]

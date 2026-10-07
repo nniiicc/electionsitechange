@@ -1,12 +1,17 @@
 {
  "description": "ballot propositions vote recommendations",
  "final_url": "https://arthurwebbassembly.com/propositions",
- "paid_for_by": "Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner",
+ "fingerprint": "64d1cfe8594d37525cd5212a1f860999b3e25ec5",
+ "format": 3,
+ "paid_for_by": "sponsored by a prominent lab director and his particular lab is targeted as the primary recipient of the funds",
  "title": "Propositions",
  "years_mentioned": [
+  "1974",
+  "2008",
   "2012",
   "2016",
   "2024",
+  "2025",
   "2026"
  ]
 }

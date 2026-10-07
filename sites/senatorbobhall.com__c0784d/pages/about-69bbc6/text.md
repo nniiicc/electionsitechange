@@ -1,4 +1,5 @@
-Senator Bob Hall, father of four boys and husband to Kay Hall, taught his family the importance of faith, family, and hard work.
+Home About News Priorities and Issues Videos Endorsements Get Involved Contact Us Endorse Senator Bob Hall!
+CHR $ About Senator Bob Hall, father of four boys and husband to Kay Hall, taught his family the importance of faith, family, and hard work.
 Senator Hall graduated from The Citadel in Charleston, South Carolina with a degree in Electrical Engineering and received a Regular Commission as a 2nd Lieutenant in the US Air Force.
 While a cadet at the Citadel, he received numerous awards for leadership.
 He was the only Air Force Cadet selected to be a Battalion Commander, was awarded the coveted Wade Hampton saber as the graduating cadet who had contributed the most to the Citadel during the four years he was a cadet, and was listed in “Who’s Who In American Colleges” his Senior year.
@@ -8,3 +9,7 @@ In 1982 he left the corporate world and began working as an independent proposal
 Then, in 1984, he formed his own company, Professional Proposal Management, Inc., which remains a family owned small business today.
 A compelling sense of duty, shaped by his military service, business experience, and love for this country, drives him to leave behind the legacy of a patriotic servant for his children and grandchildren.
 Envisioning their futures compelled him to become actively involved in the state’s political process and strongly believes it is time to stand in the gap for our children, our liberties and our future.
+Get the Capitol Hall Report Email Address Zip Code Keep me informed Thanks for subscribing! * Valid Email Address required.
+Home CHR About Priorities and Issues Endorsements News Trusted Conservative Get Involved Get Involved Endorse Senator Hall!
+Contact Us Privacy $ Email Address Zip Code Sign up Thanks for subscribing! * Valid Email Address required Political Advertising Paid for by Texans for Bob Hall, P.O.
+Box 513, Canton, Texas 75103, Mike Slaton, Treasurer Site by Vici Media Group

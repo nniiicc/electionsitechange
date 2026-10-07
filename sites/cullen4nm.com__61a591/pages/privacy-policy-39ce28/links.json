@@ -1,8 +1,26 @@
 [
-"https://cullen4nm.com/privacy-policy",
-"https://cullen4nm.com/terms_conditions",
-"https://facebook.com/cullen4nm",
-"https://instagram.com/cullen4nm",
-"https://secure.winred.com/committee-to-elect-catherine-cullen/donate-today",
-"https://web.whatsapp.com/"
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/committee-to-elect-catherine-cullen/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://cullen4nm.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://cullen4nm.com/terms_conditions/"
+},
+{
+"text": "[no text]",
+"href": "https://web.whatsapp.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/cullen4nm"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cullen4nm/"
+}
 ]

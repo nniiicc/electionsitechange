@@ -1,25 +1,20 @@
-Chuck Offenburger: “The Rob Sand Road Show”
-Chuck Offenburger: “The Rob Sand Road Show”
-Chuck Offenburger: “This ‘independent-minded’ Democrat running for governor is doing a different kind of politics.
-It’s fun and I like it.”
-DES MOINES, IA – “Iowa Boy” Chuck Offenburger attended Rob Sand’s town hall in Jefferson, Iowa – Greene County – last week and liked what he heard from the “independent-minded” candidate for governor.
-From Rob’s focus on the issues that matter most to Iowans – “a sagging economy, slumping personal income, soaring cancer rate, forced public support of unaccountable private education, public education that has become ‘mediocre,’…” – to his unique approach to bipartisanship by leading attendees in singing “America The Beautiful” together, to his focus on public service over politics, Chuck sums up Rob’s campaign well: “it’s fun and I like it.”
-Also notable to Chuck was a member of the crowd who came out to hear from Rob – his former “tracker” who most recently served as the “chairperson of the Greene County Republican Party,” Sean Sebourn.
+Skip to main Become a Sustaining Donor Donate now Volunteer Donate Return to all news Chuck Offenburger: “The Rob Sand Road Show” For Immediate Release Contact: press@robsand.com Rob Sand for Iowa 8/25/2025 Chuck Offenburger: “The Rob Sand Road Show” Chuck Offenburger: “This ‘independent-minded’ Democrat running for governor is doing a different kind of politics.
+It’s fun and I like it.” DES MOINES, IA – “Iowa Boy” Chuck Offenburger attended Rob Sand’s town hall in Jefferson, Iowa – Greene County – last week and liked what he heard from the “independent-minded” candidate for governor.
+From Rob’s focus on the issues that matter most to Iowans – “a sagging economy, slumping personal income, soaring cancer rate, forced public support of unaccountable private education, public education that has become ‘mediocre,’…” – to his unique approach to bipartisanship by leading attendees in singing “America The Beautiful ” together, to his focus on public service over politics, Chuck sums up Rob’s campaign well: “it’s fun and I like it.” Also notable to Chuck was a member of the crowd who came out to hear from Rob – his former “tracker” who most recently served as the “chairperson of the Greene County Republican Party,” Sean Sebourn.
 Despite Sebourn’s conservative beliefs, he trusts Rob and knows “truly where Rob stands.” It’s just another example of Rob’s ability to bring members of all sides of the aisle together.
-Read more about Rob’s visit to Greene County here, or key quotes below:
-- If you’d have told me there’d be 90 people show up here at 7:45 p.m. on a Tuesday night to hear a Democratic candidate for governor, I’d have kissed — well, I’d have been surprised.
-- And here was Rob Sand, 43, perhaps an odd-sort-of-a-Democrat who gave us what you might call an “Americana Meeting House” style of campaign.
-- I mean, he opened up by pointing out “we are in mixed company” and asked that Republicans, then independents, then Democrats, identify themselves by raising hands and then clapping for each other.
+Read more about Rob’s visit to Greene County here , or key quotes below: If you’d have told me there’d be 90 people show up here at 7:45 p.m. on a Tuesday night to hear a Democratic candidate for governor, I’d have kissed — well, I’d have been surprised.
+And here was Rob Sand, 43, perhaps an odd-sort-of-a-Democrat who gave us what you might call an “Americana Meeting House” style of campaign.
+I mean, he opened up by pointing out “we are in mixed company” and asked that Republicans, then independents, then Democrats, identify themselves by raising hands and then clapping for each other.
 And we did!
-- “All these (his campaign) events are oriented to bring us all together, being nice to each other,” Sand said.
+“All these (his campaign) events are oriented to bring us all together, being nice to each other,” Sand said.
 “We’re going to make our Thanksgiving dinners fun again!” And then he led us all in singing the first verse of “America the Beautiful” — no kidding — and it was loud, clear and beautiful.
-- Biggest surprise of the night?
+Biggest surprise of the night?
 Sitting in the front row of the crowd was Sean Sebourn 40, a solid conservative who until recently was chairperson of the Greene County Republican Party.
-- Such “trackers,” like Sebourn was, show up at the public meetings of candidates they oppose, listening and sometimes recording the candidates’ messages, in case anything could be used by the tracker’s preferred candidate.
-- The better I’ve come to know Rob Sand, the more I’ve admired his kind of “independent-minded” Democratic thinking, as he describes it.
-- When his current “Town Hall Tour” comes to your community, you’ll hear him say that the reason he ultimately became a Democrat is “because I think Jesus is for the little guy, you know?
-And I think the Democratic Party, at its best, is generally for the little guy.”
-- He says those problems make him think about “one story in the New Testament that has always stuck with me.
+Such “trackers,” like Sebourn was, show up at the public meetings of candidates they oppose, listening and sometimes recording the candidates’ messages, in case anything could be used by the tracker’s preferred candidate.
+The better I’ve come to know Rob Sand, the more I’ve admired his kind of “independent-minded” Democratic thinking, as he describes it.
+When his current “Town Hall Tour” comes to your community, you’ll hear him say that the reason he ultimately became a Democrat is “because I think Jesus is for the little guy, you know?
+And I think the Democratic Party, at its best, is generally for the little guy.” He says those problems make him think about “one story in the New Testament that has always stuck with me.
 It’s the one when Jesus goes into the Temple and flips over the tables of the money changers.
 “I’m running for governor because there are a lot of tables in Des Moines that need to be flipped over,” Sand continues.
-- He’s going to do that, he says, while he restores Iowa “not redder or bluer, but better and truer.”
+He’s going to do that, he says, while he restores Iowa “not redder or bluer, but better and truer.” ### Become a Sustaining Donor of our campaign We need your help to ensure we have the resources to win.
+Chip in today to join Rob’s campaign! $# $# $# $# $# Other Home About Priorities News Lotto Scam Documentary Show Your Support Contact Events Vote Debates Store Donate Work With Us Privacy Policy Mobile Terms Donate by mail Checks can be addressed to Rob Sand for Iowa and mailed to: PO Box 8382, Des Moines, IA 50301 Paid for by Rob Sand for Iowa

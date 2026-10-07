@@ -1,10 +1,13 @@
 {
  "description": "Republican Candidate for State House 101st District PA | John Schlegel",
  "final_url": "https://www.schlegel4statehouse.com/",
- "paid_for_by": null,
+ "fingerprint": "a3ff8b3664033d6606064045fb971d36c6642f0d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "John Schlegel Republican Candidate for State House 101st District PA",
  "years_mentioned": [
   "2022",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

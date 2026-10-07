@@ -1,5 +1,4 @@
-About Michael
-My wife Leisa and I have spent 48 years building our life on the west side of the Salt Lake Valley.
+0 Skip to Content Home About On the Issues Endorsements Volunteer Español Donate Open Menu Close Menu Home About On the Issues Endorsements Volunteer Español Donate Open Menu Close Menu Home About On the Issues Endorsements Volunteer Español Donate About Michael My wife Leisa and I have spent 48 years building our life on the west side of the Salt Lake Valley.
 Together we've raised 7 children and now celebrate 18 grandchildren.
 This community isn't where I'm from — it's who I am.
 We've seen this valley grow, and we've grown with it.
@@ -12,4 +11,4 @@ I believe in common-sense accountability, strong community safety, and giving ba
 Utah politics is starting to look a lot like Washington, D.C.
 When politicians attack our justice system and chip away at the fundamental protections that keep our government fair and accountable to every Utahn, it threatens the very foundations of our way of life.
 Our community deserves someone who will stand up for our rights and protect our future.
-I'm running to be that voice, because our courts matter, our Constitution matters, and the families of this district matter
+I'm running to be that voice, because our courts matter, our Constitution matters, and the families of this district matter Contact Michael Michael@votefinch.com Privacy Policy Paid for by Elect Michael Finch

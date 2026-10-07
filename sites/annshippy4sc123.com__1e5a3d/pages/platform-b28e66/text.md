@@ -1,5 +1,5 @@
-Ann's Vision
-do good, work hard, enjoy the journey.
+top of page HOME MEET ANN PLATFORM GET INVOLVED PHOTOS More Use tab to navigate through the menu items.
+DONATE Ann's Vision do good, work hard, enjoy the journey.
 I am Ann Shippy.
 I retired from the Air Force as a Colonel.
 I served our country for 28 years and I continue to live by those words.
@@ -16,11 +16,7 @@ The Homeowners Insurance bill.
 These are all issues that affect us today.
 They change how our community interacts with one another and they affect our ability to enjoy the good things in life.
 Because they affect us now, they need to be addressed now.
-KEY ISSUES
-Data Centers
-Community Character and Growth Management
-Healthcare Affordability and Accessibility
-Jeff Bradley chairs the committee with 'Artificial Intelligence' in its name.
+KEY ISSUES Data Centers Community Character and Growth Management Healthcare Affordability and Accessibility Jeff Bradley chairs the committee with 'Artificial Intelligence' in its name.
 And while an 860-acre, $6 billion gigawatt data center was proposed for neighboring Colleton County — a project that would consume enough electricity to power a million homes — Bradley was... nowhere.
 No legislation.
 No public opposition.
@@ -93,3 +89,8 @@ Bradley has the seniority and committee positions to champion healthcare access.
 He's used them to champion AI committees and regulatory procedures instead.
 Ann Shippy knows that ensuring the residents of District 123 have access to healthcare keeps wait times shorter, more doctors available and our emergency rooms less crowded.
 She understands the value of public and private partnerships for the good of the people.
+HOME MEET ANN PLATFORM GET INVOLVED PHOTOS More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: info@annshippy4SC123.com Privacy Policy Donate Paid for by Committee to Elect Ann Shippy ​ Checks can be mailed to Committee to Elect Ann Shippy PO Box 4664 Hilton Head, SC 29938 ​ Ann Shippy is a proud U.S.
+Air Force veteran.
+Her military service is a valued part of her background and experience; however, any views, opinions, or statements expressed on this website are solely her own and do not reflect the official policy or position of the United States Air Force, the Department of Defense, or any other branch of the U.S. government. ​ References to military service are for informational and biographical purposes only and should not be interpreted as an endorsement by the U.S.
+Air Force or any government entity. bottom of page

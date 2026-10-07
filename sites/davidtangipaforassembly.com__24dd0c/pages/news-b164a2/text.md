@@ -1,6 +1,4 @@
-JUNE 14TH
-Daniel Gligich The Sun
-Daniel Gligich with The Sun wrote “Tangipa, Bulldog football player, announces bid for Calif.
+0 Skip to Content Volunteer Endorsements Media News Contact Donate Open Menu Close Menu Donate Volunteer Endorsements Media News Contact Open Menu Close Menu Volunteer Endorsements Media News Contact Donate Austin Gilbert 7/18/25 Austin Gilbert 7/18/25 Voter ID Initiative Townhall - Sunday July 20th Read More Austin Gilbert 4/11/24 Austin Gilbert 4/11/24 David Tangipa Advances to General Election for AD8, Wins Fresno County in Primary Read More Austin Gilbert 1/15/24 Austin Gilbert 1/15/24 Mayor Jerry Dyer Endorses David Tangipa for State Assembly Read More Austin Gilbert 10/12/23 Austin Gilbert 10/12/23 Fresno Deputy Sheriff’s Association and California Correctional Peace Officers Association Endorse David Tangipa Read More JUNE 14TH Daniel Gligich The Sun Daniel Gligich with The Sun wrote “Tangipa, Bulldog football player, announces bid for Calif.
 Assembly.
 The former Bulldog star has already picked up the endorsement of the outgoing incumbent, Asm.
 Jim Patterson.
@@ -8,11 +6,7 @@ Former Fresno State football player and current political staffer David Tangipa 
 Tangipa is the first candidate to enter the race and has the support of Asm.
 Jim Patterson (R–Fresno), who is serving his last term in Sacramento, to be his successor.
 The backstory: Tangipa walked on to the Fresno State Football team in 2014 and was part of the conference championship winning team in 2018 during his senior season.
-The big picture: Tangipa kicked off his candidacy at the Smittcamp Alumni House at Fresno State on Tuesday with widespread support from various Fresno area elected officials.”
-MAY 6TH
-Andrew Marden Bulldog Sports
-Andrew Marden with Bulldog Sports on yourcentralvalley.com wrote “(KSEE/KGPE) – A former Fresno State football player has announced that he is running for office.
+The big picture: Tangipa kicked off his candidacy at the Smittcamp Alumni House at Fresno State on Tuesday with widespread support from various Fresno area elected officials.” READ MORE MAY 6TH Andrew Marden Bulldog Sports Andrew Marden with Bulldog Sports on yourcentralvalley.com wrote “(KSEE/KGPE) – A former Fresno State football player has announced that he is running for office.
 David Tangipa, who played tight end at Fresno State from 2015-2018, posted on Twitter on Tuesday morning that he is “…proud to announce (he) will be running for California Assembly District 8.
 “I am a lifelong resident of the Valley and grew up in the Foothills,” wrote Tangipa on the social media platform.
-“We need a new perspective in Sacramento and I plan on being that watchdog for the people.”
-David Tangipa is currently a field representative for Fresno County Supervisor Nathan Magsig.”
+“We need a new perspective in Sacramento and I plan on being that watchdog for the people.” David Tangipa is currently a field representative for Fresno County Supervisor Nathan Magsig.” READ MORE Paid for by David Tangipa for Assembly 2026 FPPC #1477064 Privacy Policy

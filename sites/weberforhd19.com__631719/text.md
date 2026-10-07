@@ -1,19 +1,13 @@
-Working Together for a Positive Change!
+October 7, 2026 406-781-0741 Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube 2025 Legislative Session Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube Working Together for a Positive Change!
 Donate now!
-Or, send a contribution in the form of a check to:
-Weber for HD 19
-PO Box 818,
-Great Falls, MT 59403.
+Or, send a contribution in the form of a check to: Weber for HD 19 PO Box 818, Great Falls, MT 59403.
 Any amount helps.
-(Limit $470)
-Paid for by Weber for HD 19, PO Box 818 Great Falls, MT 59403 – Pam Guschausky – Treasurer
-Working Together for a Positive Change!
+(Limit $470) DONATE!
+Paid for by Weber for HD 19, PO Box 818 Great Falls, MT 59403 – Pam Guschausky – Treasurer Working Together for a Positive Change!
 Donate now!
 Any amount helps.
-(Limit $400)
-Paid for by Weber for HD 19, PO Box 818 Great Falls, MT 59403 – Pam Guschausky – Treasurer
-I’m Jane Weber
-Some say I’ve never met a meeting I didn’t like.
+(Limit $400) DONATE!
+Paid for by Weber for HD 19, PO Box 818 Great Falls, MT 59403 – Pam Guschausky – Treasurer I’m Jane Weber Some say I’ve never met a meeting I didn’t like.
 Truth is, I love process especially democracy in process where people get to build the world they want.
 Like you, I want our grandchildren to grow up in a safe, beautiful Montana with boundless opportunities for a better life.
 That’s why I’m running for Legislative House District 19 so I can have a say in our kids’ future.
@@ -26,8 +20,7 @@ I learned a lot from that experience.
 I pledge to listen to and learn from people like you.
 You make Great Falls home and you know what we need to better our lives.
 I believe in you.
-Let me share some of the issues that matter to me:
-All Montanans deserve the chance to prosper – with good paying jobs, health insurance, and a safe roof over their heads.
+Let me share some of the issues that matter to me: All Montanans deserve the chance to prosper – with good paying jobs, health insurance, and a safe roof over their heads.
 Likewise, our community needs to prosper with robust businesses and a vibrant downtown.
 Every child deserves a good public education where they discover their strengths and are given the tools to grow.
 Local control by parents and school boards is vital.
@@ -37,71 +30,9 @@ No one should agonize over their ability to pay the cost for a doctor visit.
 I pledge to listen to you and be your voice in Helena.
 I know how to carry your ideas forward and bring people together for the common good.
 I ask for your support and vote for HD 19 in the Montana State Legislature so I can take your message to Helena.
-Affiliations
-Current Affiliations
-- Great Falls Chamber of Commerce Business Advocacy Committee
-- Downtown Development Partnership
-- Black Eagle Superfund Technical Advisory Group
-- Black Eagle Civic Club
-- Big Sky Country National Heritage Area Projects Committee
-- Portage Route Chapter of the L&C Trail Heritage Foundation
-- Lewis and Clark Trail Heritage Foundation
-Previous Affiliations
-- City-County Board of Health
-- Gateway Community Services/Center for Mental Health (now Many Rivers Health)
-- Montana Association of County Officials
-- Rural Fire Council
-- DUI Taskforce
-- City-County Historic Preservation Advisory Commission
-- City-County Library Board
-- Big Sky Country National Heritage Area Inc.
-Board of Directors
-- State Workforce Innovation Board (Governor Appointment)
-- Hard Rock Mining Impact Board (Governor Appointment)
-- Policy Coordinating Committee for the Great Falls Metropolitan Organization (Transportation Planning)
-Current Affiliations
-•
-Great Falls Chamber of Commerce Business Advocacy Committee
-•
-Downtown Development Partnership
-•
-Black Eagle Superfund Technical Advisory Group
-•
-Black Eagle Civic Club
-•
-Big Sky Country National Heritage Area Projects Committee
-•
-Portage Route Chapter of the L&C Trail Heritage Foundation
-•
-Lewis and Clark Trail Heritage Foundation
-Previous Affiliations
-•
-City-County Board of Health
-•
-Gateway Community Services/Center for Mental Health (now Many Rivers Health)
-•
-Montana Association of County Officials
-•
-Rural Fire Council
-•
-DUI Taskforce
-•
-City-County Historic Preservation Advisory Commission
-•
-City-County Library Board
-•
-Big Sky Country National Heritage Area Inc.
-Board of Directors
-•
-State Workforce Innovation Board (Governor Appointment)
-•
-Hard Rock Mining Impact Board (Governor Appointment)
-•
-Policy Coordinating Committee for the Great Falls Metropolitan Organization (Transportation Planning)
-Jane’s Vision
-and the Core Issues She’ll Fight For
-Economic Prosperity for All
-Montanans deserve opportunities to prosper.
+Affiliations Current Affiliations Great Falls Chamber of Commerce Business Advocacy Committee Downtown Development Partnership Black Eagle Superfund Technical Advisory Group Black Eagle Civic Club Big Sky Country National Heritage Area Projects Committee Portage Route Chapter of the L&C Trail Heritage Foundation Lewis and Clark Trail Heritage Foundation Previous Affiliations City-County Board of Health Gateway Community Services/Center for Mental Health (now Many Rivers Health) Montana Association of County Officials Rural Fire Council DUI Taskforce City-County Historic Preservation Advisory Commission City-County Library Board Big Sky Country National Heritage Area Inc.
+Board of Directors State Workforce Innovation Board (Governor Appointment) Hard Rock Mining Impact Board (Governor Appointment) Policy Coordinating Committee for the Great Falls Metropolitan Organization (Transportation Planning) Current Affiliations • Great Falls Chamber of Commerce Business Advocacy Committee • Downtown Development Partnership • Black Eagle Superfund Technical Advisory Group • Black Eagle Civic Club • Big Sky Country National Heritage Area Projects Committee • Portage Route Chapter of the L&C Trail Heritage Foundation • Lewis and Clark Trail Heritage Foundation Previous Affiliations • City-County Board of Health • Gateway Community Services/Center for Mental Health (now Many Rivers Health) • Montana Association of County Officials • Rural Fire Council • DUI Taskforce • City-County Historic Preservation Advisory Commission • City-County Library Board • Big Sky Country National Heritage Area Inc.
+Board of Directors • State Workforce Innovation Board (Governor Appointment) • Hard Rock Mining Impact Board (Governor Appointment) • Policy Coordinating Committee for the Great Falls Metropolitan Organization (Transportation Planning) Jane’s Vision and the Core Issues She’ll Fight For Economic Prosperity for All Montanans deserve opportunities to prosper .
 Hard work, grit and determination only gets you so far in these economic times.
 Whether we’re just starting out or able to give back, we all want to provide for our families, take care of our health needs, have a safe roof over our head, and benefit from a political and economic system that works.
 Laws passed in 2023 did not help working Montanans.
@@ -110,10 +41,7 @@ The legislature did not spread the expense of government equitably.
 In our household budgets we invest in rent or mortgage, car payments, health insurance, groceries, education expenses, and other necessities.
 If we handled our household money the way the 2023 Legislature spent our state funds, we’d be squandering our hard-earned cash on frivolous toys with no payback, instead of investing in our future.
 There’s a huge surplus in state government, and we should be investing it for the next generation of Montanans.
-That means:
-- Bolstering public education, providing incentives for vocational education
-- Supporting small businesses
-- Getting people the behavioral health care they need to stay in the game.
+That means: Bolstering public education , providing incentives for vocational education Supporting small businesses Getting people the behavioral health care they need to stay in the game.
 Our lawmakers failed us.
 They chose not to adjust tax formulas that have been successfully used before to stabilize homeowner property taxes.
 Instead, homeowners will shoulder a disproportionate share of the tax burden, while tax breaks for out-of-state corporate interests will cost Montana over $170 million per year.
@@ -121,9 +49,8 @@ Northwestern Energy will be paying less while we pay more.
 People earning $650,000 or more will pay proportionately less in income tax while we pay more.
 These cuts are unfair, and fail to help regular Montanans.
 They do nothing to help us with child care costs, housing costs, access to healthcare or good-paying jobs.
-We can do better.
-Public Education
-All my kids went to public schools in Great Falls, and they are prospering as young adults.
+We can do better .
+Public Education All my kids went to public schools in Great Falls, and they are prospering as young adults .
 I want that opportunity for the next generation of kids, too.
 Public education is the great equalizer upon which our nation was built.
 When everyone has a good education, everyone benefits.
@@ -131,8 +58,7 @@ The state government should be a partner with parents, educators, and local scho
 The state should do their part and leave us the local control to manage the curricula, programs, and safety of our kids.
 Teachers deserve competitive wages and opportunities for advancement, just like the rest of us.
 Our state budget for education should reflect what we value: education, our kids, and the future they can envision.
-Healthcare Access
-When people are sick, they should be able to go to the doctor.
+Healthcare Access When people are sick, they should be able to go to the doctor.
 Getting health care when it is needed can be a matter of life and death, and is also critical to keeping costs low for insurance companies, the state, and Montanans.
 This shouldn’t be a problem in the richest country in the history of the world.
 Parents shouldn’t agonize about taking their sick child to a pediatrician.
@@ -146,8 +72,15 @@ Emergency room visits are down and folks are seeking medical care early, catchin
 Medicaid supports over 7,500 Montana jobs, generating $475 million in personal income.
 Since the passage of Medicaid expansion, no rural hospitals in our state have closed.
 Renewing this program is the fiscally responsible decision.
-Endorsements
-Congratulations again on your formal endorsement for your campaign for the 2024 Montana State House race, from Planned Parenthood Advocates of Montana (PPAMT).
+Latest News and Updates 2025 Legislative Score Card How to Utilize the Scorecards In these scorecards, you will find analysis and information about rural and agricultural issues that were debated and presented in the 2025 Legislature.
+You will […] Read More Meet Our 100% Champions BigSky55+ works towards making life better for Montanans of all ages, especially older Montanans.
+They followed Jane’s work in the legislature this session and it matched their mission as an […] Read More Welcome to Bozangeles!
+The greater Bozeman, Montana, region has become ground zero for rampant luxury development that is taking the “public” out of public lands.
+Read in The Nation: https://apple.news/AIdg4hJWXRuepVR1ylPLqxg Read More Early Weeks in the 2025 Legislature After five weeks into the 2025 Legislative session, I now have a sense of the rhythm and pace of policymaking.
+I arrived in Helena with four priorities – lower homeowner […] Read More Endorsed by Montana Conservation Voters Proud to be endorsed by Montana Conservation Voters.
+Visit this link to see who MCV supports throughout the state.
+Please remember to vote, your voice matters! https://mtvoters.org/resources/endorsement-guide/ Read More Jane Weber talks about getting out to vote Reasons to vote for Jane Weber, Democrat.
+Paid for by Weber for HD 19, PO Box 818 Great Falls, MT 59403, Pam Guschausky – Treasurer Read More More News Endorsements Congratulations again on your formal endorsement for your campaign for the 2024 Montana State House race, from Planned Parenthood Advocates of Montana (PPAMT).
 We are honored you requested our endorsement.
 We are happy to inform you that you have now been designated a 2024 Mental Health Now Candidate.
 Thank you again for committing to govern with mental health front of mind.
@@ -157,8 +90,7 @@ We are pleased endorse you for the 2024 election cycle from Montana Families for
 Thank you again for advocating for safe schools, workplaces, and communities, and for committing to govern with public health and evidence-based decisions as a priority.
 I am pleased to inform you that Big Sky 55+ has officially endorsed your candidacy for the 2024 state legislature elections.
 We are confident that your leadership will contribute positively to the lives of our members and the broader community.
-Endorsements
-Congratulations again on your formal endorsement for your campaign for the 2024 Montana State House race, from Planned Parenthood Advocates of Montana (PPAMT).
+Endorsements Congratulations again on your formal endorsement for your campaign for the 2024 Montana State House race, from Planned Parenthood Advocates of Montana (PPAMT).
 We are honored you requested our endorsement.
 We are happy to inform you that you have now been designated a 2024 Mental Health Now Candidate.
 Thank you again for committing to govern with mental health front of mind.
@@ -168,7 +100,9 @@ We are pleased endorse you for the 2024 election cycle from Montana Families for
 Thank you again for advocating for safe schools, workplaces, and communities, and for committing to govern with public health and evidence-based decisions as a priority.
 I am pleased to inform you that Big Sky 55+ has officially endorsed your candidacy for the 2024 state legislature elections.
 We are confident that your leadership will contribute positively to the lives of our members and the broader community.
-Advertising
-Get Involved!
+Advertising Get Involved!
 You CAN Make a Difference!
 Keep up with Jane and receive special updates.
+Notice: JavaScript is required for this content.
+Pam Guschausky, Treasurer PO 818, Great Falls, MT 59403 406-781-0741 DONATE NOW! br> Or, send a contribution in the form of a check to: Weber for HD 19 PO Box 818 Great Falls, MT 59403 Any amount helps.
+(Limit $470) Paid for by Weber for HD 19 PO Box 818 Great Falls, MT 59403 Pam Guschausky – Treasurer Designed by Slingshot Creative Group

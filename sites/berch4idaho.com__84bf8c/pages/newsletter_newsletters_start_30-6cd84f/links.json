@@ -1,42 +1,218 @@
 [
-"http://eepurl.com/cgw0XL",
-"http://idahoptv.org/idreports",
-"http://idahoptv.org/insession",
-"https://berch4idaho.com/",
-"https://berch4idaho.com/contact",
-"https://berch4idaho.com/how-to-volunteer",
-"https://berch4idaho.com/meet-steve",
-"https://berch4idaho.com/newsletter/newsletters",
-"https://berch4idaho.com/newsletter/newsletters/51-rep-steve-berch-newsletter-election-alert-edition",
-"https://berch4idaho.com/newsletter/newsletters/53-rep-steve-berch-newsletter-preparing-for-the-2023-session-2",
-"https://berch4idaho.com/newsletter/newsletters/54-rep-steve-berch-newsletter-power-reveals",
-"https://berch4idaho.com/newsletter/newsletters/55-rep-steve-berch-newsletter-bad-apples",
-"https://berch4idaho.com/newsletter/newsletters/56-rep-steve-berch-newsletter-a-new-nanny-state",
-"https://berch4idaho.com/newsletter/newsletters/57-rep-steve-berch-newsletter-poison-pills",
-"https://berch4idaho.com/newsletter/newsletters/58-rep-steve-berch-newsletter-fast-and-furious",
-"https://berch4idaho.com/newsletter/newsletters/59-3-27-23-rep-steve-berch-newsletter-the-real-obscenity",
-"https://berch4idaho.com/newsletter/newsletters/60-4-2-23-rep-steve-berch-newsletter-we-re-done-almost",
-"https://berch4idaho.com/newsletter/newsletters/61-rep-steve-berch-newsletter-2023-legislative-session-review",
-"https://berch4idaho.com/newsletter/newsletters/63-rep-steve-berch-newsletter-privatizing-public-education",
-"https://berch4idaho.com/newsletter/newsletters/64-rep-steve-berch-newsletter-when-the-truth-hurts",
-"https://berch4idaho.com/newsletter/newsletters/65-rep-steve-berch-newsletter-another-session-another-library-bill",
-"https://berch4idaho.com/newsletter/newsletters/66-rep-steve-berch-newsletter-fiscal-malpractice",
-"https://berch4idaho.com/newsletter/newsletters/67-rep-steve-berch-newsletter-a-mixed-bag",
-"https://berch4idaho.com/newsletter/newsletters?start=15",
-"https://berch4idaho.com/newsletter/newsletters?start=45",
-"https://berch4idaho.com/newsletter/newsletters?start=60",
-"https://berch4idaho.com/newsletter/newsletters?start=75",
-"https://berch4idaho.com/privacy-policy",
-"https://berch4idaho.com/request-a-yard-sign",
-"https://berch4idaho.com/social-media-policy",
-"https://berch4idaho.com/terms-and-conditions",
-"https://facebook.com/SteveBerchForIdaho",
-"https://idahoednews.org/",
-"https://idahopress.com/eyeonboise",
-"https://legislature.idaho.gov/sessioninfo/2019/standingcommittees/HBUS",
-"https://legislature.idaho.gov/sessioninfo/2019/standingcommittees/HEDU",
-"https://legislature.idaho.gov/sessioninfo/2019/standingcommittees/HLOC",
-"https://secure.actblue.com/contribute/page/steve-berch-2",
-"https://twitter.com/SteveBerch15A",
-"https://youtube.com/channel/UC0yTitge--AKQj-f8XOBJxA"
+{
+"text": "1",
+"href": "https://berch4idaho.com/newsletter/newsletters"
+},
+{
+"text": "2",
+"href": "https://berch4idaho.com/newsletter/newsletters?start=15"
+},
+{
+"text": "3/27/23: Rep. Steve Berch Newsletter - The real obscenity",
+"href": "https://berch4idaho.com/newsletter/newsletters/59-3-27-23-rep-steve-berch-newsletter-the-real-obscenity"
+},
+{
+"text": "4",
+"href": "https://berch4idaho.com/newsletter/newsletters?start=45"
+},
+{
+"text": "4/2/23: Rep. Steve Berch newsletter: WE'RE DONE (almost)",
+"href": "https://berch4idaho.com/newsletter/newsletters/60-4-2-23-rep-steve-berch-newsletter-we-re-done-almost"
+},
+{
+"text": "5",
+"href": "https://berch4idaho.com/newsletter/newsletters?start=60"
+},
+{
+"text": "6",
+"href": "https://berch4idaho.com/newsletter/newsletters?start=75"
+},
+{
+"text": "Business",
+"href": "https://legislature.idaho.gov/sessioninfo/2019/standingcommittees/HBUS/"
+},
+{
+"text": "Capitol: 208-332-1039",
+"href": "tel:208-332-1039"
+},
+{
+"text": "Cell: 208-890-9339",
+"href": "tel:208-890-9339"
+},
+{
+"text": "Contact",
+"href": "https://berch4idaho.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/contribute/page/steve-berch-2"
+},
+{
+"text": "Contribute Now",
+"href": "https://secure.actblue.com/contribute/page/steve-berch-2"
+},
+{
+"text": "Education",
+"href": "https://legislature.idaho.gov/sessioninfo/2019/standingcommittees/HEDU/"
+},
+{
+"text": "End",
+"href": "https://berch4idaho.com/newsletter/newsletters?start=75"
+},
+{
+"text": "Eye on Boise",
+"href": "https://www.idahopress.com/eyeonboise/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SteveBerchForIdaho"
+},
+{
+"text": "Get Involved",
+"href": "https://berch4idaho.com/how-to-volunteer"
+},
+{
+"text": "Home",
+"href": "https://berch4idaho.com/"
+},
+{
+"text": "How to Contribute",
+"href": "https://secure.actblue.com/contribute/page/steve-berch-2"
+},
+{
+"text": "How to Volunteer",
+"href": "https://berch4idaho.com/how-to-volunteer"
+},
+{
+"text": "IPTV Idaho Reports",
+"href": "http://idahoptv.org/idreports/"
+},
+{
+"text": "Idaho Education News",
+"href": "https://www.idahoednews.org"
+},
+{
+"text": "Idaho in Session",
+"href": "http://idahoptv.org/insession/"
+},
+{
+"text": "Local Government",
+"href": "https://legislature.idaho.gov/sessioninfo/2019/standingcommittees/HLOC/"
+},
+{
+"text": "Meet Steve",
+"href": "https://berch4idaho.com/meet-steve"
+},
+{
+"text": "Newsletter Archive (2019-present)",
+"href": "https://berch4idaho.com/newsletter/newsletters"
+},
+{
+"text": "Next",
+"href": "https://berch4idaho.com/newsletter/newsletters?start=45"
+},
+{
+"text": "Prev",
+"href": "https://berch4idaho.com/newsletter/newsletters?start=15"
+},
+{
+"text": "Privacy Policy",
+"href": "https://berch4idaho.com/privacy-policy"
+},
+{
+"text": "Rep. Steve Berch Newsletter - 2023 legislative session review",
+"href": "https://berch4idaho.com/newsletter/newsletters/61-rep-steve-berch-newsletter-2023-legislative-session-review"
+},
+{
+"text": "Rep. Steve Berch Newsletter - A new nanny state",
+"href": "https://berch4idaho.com/newsletter/newsletters/56-rep-steve-berch-newsletter-a-new-nanny-state"
+},
+{
+"text": "Rep. Steve Berch Newsletter - Bad apples",
+"href": "https://berch4idaho.com/newsletter/newsletters/55-rep-steve-berch-newsletter-bad-apples"
+},
+{
+"text": "Rep. Steve Berch Newsletter - ELECTION ALERT edition",
+"href": "https://berch4idaho.com/newsletter/newsletters/51-rep-steve-berch-newsletter-election-alert-edition"
+},
+{
+"text": "Rep. Steve Berch Newsletter - Fast and furious",
+"href": "https://berch4idaho.com/newsletter/newsletters/58-rep-steve-berch-newsletter-fast-and-furious"
+},
+{
+"text": "Rep. Steve Berch Newsletter - Poison pills",
+"href": "https://berch4idaho.com/newsletter/newsletters/57-rep-steve-berch-newsletter-poison-pills"
+},
+{
+"text": "Rep. Steve Berch Newsletter - Power reveals",
+"href": "https://berch4idaho.com/newsletter/newsletters/54-rep-steve-berch-newsletter-power-reveals"
+},
+{
+"text": "Rep. Steve Berch Newsletter - Preparing for the 2023 session",
+"href": "https://berch4idaho.com/newsletter/newsletters/53-rep-steve-berch-newsletter-preparing-for-the-2023-session-2"
+},
+{
+"text": "Rep. Steve Berch Newsletter - Privatizing public education",
+"href": "https://berch4idaho.com/newsletter/newsletters/63-rep-steve-berch-newsletter-privatizing-public-education"
+},
+{
+"text": "Rep. Steve Berch Newsletter: A mixed bag",
+"href": "https://berch4idaho.com/newsletter/newsletters/67-rep-steve-berch-newsletter-a-mixed-bag"
+},
+{
+"text": "Rep. Steve Berch Newsletter: Another session, another library bill",
+"href": "https://berch4idaho.com/newsletter/newsletters/65-rep-steve-berch-newsletter-another-session-another-library-bill"
+},
+{
+"text": "Rep. Steve Berch Newsletter: Fiscal Malpractice",
+"href": "https://berch4idaho.com/newsletter/newsletters/66-rep-steve-berch-newsletter-fiscal-malpractice"
+},
+{
+"text": "Rep. Steve Berch Newsletter: When the truth hurts",
+"href": "https://berch4idaho.com/newsletter/newsletters/64-rep-steve-berch-newsletter-when-the-truth-hurts"
+},
+{
+"text": "Request a Yard Sign!",
+"href": "https://berch4idaho.com/request-a-yard-sign"
+},
+{
+"text": "SOCIAL MEDIA POLICY",
+"href": "https://berch4idaho.com/social-media-policy"
+},
+{
+"text": "Start",
+"href": "https://berch4idaho.com/newsletter/newsletters"
+},
+{
+"text": "Steve's Newsletters",
+"href": "https://berch4idaho.com/newsletter/newsletters"
+},
+{
+"text": "Subscribe to Newsletter",
+"href": "http://eepurl.com/cgw0XL"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://berch4idaho.com/terms-and-conditions"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/SteveBerch15A"
+},
+{
+"text": "Volunteer",
+"href": "https://berch4idaho.com/how-to-volunteer"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UC0yTitge--AKQj-f8XOBJxA"
+},
+{
+"text": "[image: Idaho District 15]",
+"href": "https://berch4idaho.com/"
+},
+{
+"text": "sberch@house.idaho.gov",
+"href": "mailto:sberch@house.idaho.gov"
+}
 ]

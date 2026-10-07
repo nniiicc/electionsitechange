@@ -1,5 +1,4 @@
-Who I Am
-Hi friends!
+0 Skip to Content Meredith For Georgia Home About Contact Donate Now Open Menu Close Menu Meredith For Georgia Home About Contact Donate Now Open Menu Close Menu Home About Contact Donate Now Who I Am Hi friends!
 Thank you for stopping by.
 You are welcome here.
 My name is Meredith Greene, and I’m running for State House District 26 in Forsyth County, GA.
@@ -16,7 +15,8 @@ I will tell you that when I informed him that I may one day be “Googleable,”
 We’ll call that a win!
 My intention is to begin my campaign by doing more listening than talking, more information gathering than self-promoting.
 I would be grateful to hear from you about the issues that matter most to you as a Georgian.
-You’re welcome to email me at meredithforgeorgia@gmail.com.
+You’re welcome to email me at meredithforgeorgia@gmail.com .
 I look forward to hearing from you & getting to know many of you along the way!
 This picture is from my official qualifying at the Georgia State Capitol on Monday, March 2nd.
 Let’s Flip HD26!
+Meredith For Georgia House District 26 Mailing Address 5067 Post Road Ste 203–229 Cumming, GA 30040 Email Address MeredithForGeorgia@gmail.com

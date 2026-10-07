@@ -1,24 +1,8 @@
-Strengthening Rural & Downstate Communities
-JB is a Governor for all of Illinois, working with farmers to grow our agriculture sector, bringing jobs downstate, and investing more in infrastructure and education for rural communities than ever before.
-Transportation
-Launched the Rebuild Illinois infrastructure plan, which is building and repairing thousands of miles of roads and hundreds of bridges, along with river ports and airports across downstate Illinois
-Energy Production
-Grew energy production downstate, creating jobs, modernizing the grids, and revitalizing communities.
-Colleges
-Improved community college and university campuses and created new workforce training for jobs everywhere in Illinois
-More Jobs
-Attracted billions into new manufacturing plants downstate, creating thousands of jobs
-Broadband
-Launched Connect Illinois to bring broadband internet access to rural Illinois
-Town Squares
-Launched the Downtowns and Main Streets Capital Program to revitalize commercial corridors downstate and across Illinois
-Job Training
-Established two Manufacturing Training Academies to provide new skills to downstate residents in cutting edge industries and raise wages
-Share with Your Network
-Join #TeamJB
-Sign up to join the team today and receive updates from the campaign, learn about volunteer opportunities, and more.
+Skip to main content Skip to footer Join the team to re-elect JB Meet JB Accomplishments Meet Christian News & Updates Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Strengthening Rural & Downstate Communities JB is a governor for all of Illinois, working with farmers to grow our agriculture sector, bringing jobs downstate, and investing more in infrastructure and education for rural communities than ever before.
+Transportation Launched the Rebuild Illinois infrastructure plan, which is building and repairing thousands of miles of roads and hundreds of bridges, along with river ports and airports across downstate Illinois Energy Production Grew energy production downstate, creating jobs, modernizing the grids, and revitalizing communities.
+Colleges Improved community college and university campuses and created new workforce training for jobs everywhere in Illinois More Jobs Attracted billions into new manufacturing plants downstate, creating thousands of jobs Broadband Launched Connect Illinois to bring broadband internet access to rural Illinois Town Squares Launched the Downtowns and Main Streets Capital Program to revitalize commercial corridors downstate and across Illinois Job Training Established Manufacturing Training Academies in central and southern Illinois to prepare workers for good-paying jobs in cutting edge industries Share with Your Network Download Graphic Growing The Agriculture Industry Building a Strong Fiscal Foundation Join #TeamJB Sign up to join the team today and receive updates from the campaign, learn about volunteer opportunities, and more.
 By submitting your mobile phone number you are agreeing to receive periodic text messages from this organization.
 Message and data rates may apply.
 Text HELP for more information.
 Text STOP to stop receiving messages.
-Privacy Policy and Terms & Conditions
+Privacy Policy and Terms & Conditions Meet JB Pritzker Accomplishments Meet Christian News & Updates Sign Up Contact Privacy Policy Terms & Conditions Paid for by JB for Governor español 中文 Polski español 中文 Polski

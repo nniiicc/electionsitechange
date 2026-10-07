@@ -1,7 +1,9 @@
 {
  "description": "The official website for Chris Huff, South Carolina State House Representative.",
  "final_url": "https://chrishuffsc.com/",
- "paid_for_by": null,
+ "fingerprint": "4e1fe119eb9c763c85f37da3589d2b9a0d9dc94f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Chris Huff South Carolina",
  "years_mentioned": []
 }

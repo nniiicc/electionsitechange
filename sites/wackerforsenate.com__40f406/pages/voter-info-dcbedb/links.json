@@ -1,39 +1,186 @@
 [
-"https://iowa.gov/how-do-i-vote-early-person",
-"https://iowa.gov/who-represents-you",
-"https://legis.iowa.gov/legislators/find",
-"https://pollworker.iowa.gov/",
-"https://rightsidecommunications.com/",
-"https://sos.iowa.gov/elections-and-voting-faqs",
-"https://sos.iowa.gov/elections/absenteeballotstatus/absentee/search",
-"https://sos.iowa.gov/elections/auditors/auditorslist.html",
-"https://sos.iowa.gov/elections/pdf/absenteeballotapp.pdf",
-"https://sos.iowa.gov/elections/pdf/forms/idposter.pdf",
-"https://sos.iowa.gov/elections/voterinformation/regfaq.html",
-"https://sos.iowa.gov/elections/voterinformation/voterregistration.html",
-"https://sos.iowa.gov/elections/voterreg/pollingplace/search.aspx",
-"https://sos.iowa.gov/elections/voterreg/regtovote/search.aspx",
-"https://sos.iowa.gov/three-year-election-calendar",
-"https://sos.iowa.gov/voters/absentee-voting",
-"https://storycountygop.com/",
-"https://storycountyiowa.gov/123/Elections",
-"https://storycountyiowa.gov/126/Polling-Locations",
-"https://storycountyiowa.gov/554/Previous-Election-Results",
-"https://storycountyiowa.gov/91/Auditor-Elections",
-"https://storycountyiowa.gov/DocumentCenter/View/16334/Mail-in-Voter-Reg",
-"https://voterready.iowa.gov/registertovote",
-"https://voterready.iowa.gov/voting-absentee",
-"https://wackerforsenate.com/",
-"https://wackerforsenate.com/contact",
-"https://wackerforsenate.com/copy-of-request-yard-sign",
-"https://wackerforsenate.com/donate",
-"https://wackerforsenate.com/get-involved",
-"https://wackerforsenate.com/meet-paul",
-"https://wackerforsenate.com/platform",
-"https://wackerforsenate.com/voter-info",
-"https://youtu.be/GZB45crC3jo?list=PLc13doD3SrsogZWC_JqjKIPtS0KLEBIQJ",
-"https://youtu.be/SAZZWx5rhwM?list=PLc13doD3SrsogZWC_JqjKIPtS0KLEBIQJ",
-"https://youtu.be/l__jykFrQ_U?list=PLc13doD3SrsogZWC_JqjKIPtS0KLEBIQJ",
-"https://youtu.be/yJyZ87KGkvo?list=PLc13doD3SrsogZWC_JqjKIPtS0KLEBIQJ",
-"https://youtube.com/watch?v=jtPvYg3i3Xc"
+{
+"text": "3 Ways to Register",
+"href": "https://youtu.be/yJyZ87KGkvo?list=PLc13doD3SrsogZWC_JqjKIPtS0KLEBIQJ"
+},
+{
+"text": "Absentee Ballot Request Form",
+"href": "https://sos.iowa.gov/elections/pdf/absenteeballotapp.pdf"
+},
+{
+"text": "Absentee Voting",
+"href": "https://sos.iowa.gov/voters/absentee-voting"
+},
+{
+"text": "Absentee Voting In-Person",
+"href": "https://voterready.iowa.gov/voting-absentee/#in-person"
+},
+{
+"text": "Absentee Voting by Mail",
+"href": "https://voterready.iowa.gov/voting-absentee/#mail"
+},
+{
+"text": "Am I Registered to Vote in Iowa?",
+"href": "https://sos.iowa.gov/elections/voterreg/regtovote/search.aspx"
+},
+{
+"text": "Become a Precinct Election Official",
+"href": "https://pollworker.iowa.gov/"
+},
+{
+"text": "CONTACT",
+"href": "https://www.wackerforsenate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.wackerforsenate.com/donate"
+},
+{
+"text": "Early Voting",
+"href": "https://www.iowa.gov/how-do-i-vote-early-person"
+},
+{
+"text": "Election Day FAQ’s",
+"href": "https://sos.iowa.gov/elections-and-voting-faqs"
+},
+{
+"text": "Election Day Registration",
+"href": "https://youtu.be/l__jykFrQ_U?list=PLc13doD3SrsogZWC_JqjKIPtS0KLEBIQJ"
+},
+{
+"text": "Election Day Voter Registration",
+"href": "https://voterready.iowa.gov/registertovote/#vote-election-day"
+},
+{
+"text": "Elections Calendar",
+"href": "https://sos.iowa.gov/three-year-election-calendar"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.wackerforsenate.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.wackerforsenate.com"
+},
+{
+"text": "Important Election Dates",
+"href": "https://www.wackerforsenate.com/voter-info"
+},
+{
+"text": "Iowa Poll Worker Video",
+"href": "https://www.youtube.com/watch?v=jtPvYg3i3Xc"
+},
+{
+"text": "Iowa Precinct and Poll Finder",
+"href": "https://sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
+"text": "Iowa Statewide Offices-Who Represents Me?",
+"href": "https://www.iowa.gov/who-represents-you"
+},
+{
+"text": "Iowa Voter ID Requirements",
+"href": "https://sos.iowa.gov/elections/pdf/forms/idposter.pdf"
+},
+{
+"text": "MEET PAUL",
+"href": "https://www.wackerforsenate.com/meet-paul"
+},
+{
+"text": "New Iowa Voter Registration Form",
+"href": "https://www.storycountyiowa.gov/DocumentCenter/View/16334/Mail-in-Voter-Reg"
+},
+{
+"text": "Online Registration",
+"href": "https://youtu.be/SAZZWx5rhwM?list=PLc13doD3SrsogZWC_JqjKIPtS0KLEBIQJ"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.wackerforsenate.com/platform"
+},
+{
+"text": "Paper Registration",
+"href": "https://youtu.be/GZB45crC3jo?list=PLc13doD3SrsogZWC_JqjKIPtS0KLEBIQJ"
+},
+{
+"text": "Precinct and Poll Finder",
+"href": "https://sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
+"text": "Previous Story County Election Results",
+"href": "https://www.storycountyiowa.gov/554/Previous-Election-Results"
+},
+{
+"text": "REQUEST YARD SIGN",
+"href": "https://www.wackerforsenate.com/copy-of-request-yard-sign"
+},
+{
+"text": "Register to Vote",
+"href": "https://voterready.iowa.gov/registertovote/"
+},
+{
+"text": "Story County Auditor",
+"href": "https://www.storycountyiowa.gov/91/Auditor-Elections"
+},
+{
+"text": "Story County Election Information",
+"href": "https://www.storycountyiowa.gov/123/Elections"
+},
+{
+"text": "Story County Precincts & Polling Locations",
+"href": "https://www.storycountyiowa.gov/126/Polling-Locations"
+},
+{
+"text": "Story County Republican Party",
+"href": "https://www.storycountygop.com/"
+},
+{
+"text": "Track My Absentee Ballot",
+"href": "https://sos.iowa.gov/elections/absenteeballotstatus/absentee/search"
+},
+{
+"text": "VOTER INFO",
+"href": "https://www.wackerforsenate.com/voter-info"
+},
+{
+"text": "Voter Registration FAQ’s",
+"href": "https://sos.iowa.gov/elections/voterinformation/regfaq.html#7"
+},
+{
+"text": "WackerForSenate@gmail.com",
+"href": "mailto:WackerForSenate@gmail.com"
+},
+{
+"text": "Website design by Right Side Communications LLC",
+"href": "https://www.rightsidecommunications.com/"
+},
+{
+"text": "Who Can Vote?",
+"href": "https://sos.iowa.gov/elections/voterinformation/voterregistration.html"
+},
+{
+"text": "Who Represents Me in the Iowa Legislature?",
+"href": "https://www.legis.iowa.gov/legislators/find"
+},
+{
+"text": "[image: KOSSUTHLOGO_2026_transparent_edited_edit]",
+"href": "https://www.wackerforsenate.com"
+},
+{
+"text": "[image: Wacker social image 1.PNG]",
+"href": "https://www.wackerforsenate.com"
+},
+{
+"text": "[image]",
+"href": "https://www.wackerforsenate.com"
+},
+{
+"text": "ounty Auditor’s",
+"href": "https://sos.iowa.gov/elections/auditors/auditorslist.html"
+},
+{
+"text": "request form",
+"href": "https://sos.iowa.gov/elections/pdf/absenteeballotapp.pdf"
+}
 ]

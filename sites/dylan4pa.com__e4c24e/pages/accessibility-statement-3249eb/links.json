@@ -1,10 +1,42 @@
 [
-"https://dylan4pa.com/",
-"https://dylan4pa.com/accessibility-statement",
-"https://dylan4pa.com/endorsements",
-"https://dylan4pa.com/issues",
-"https://dylan4pa.com/privacy-policy",
-"https://facebook.com/WixStudio",
-"https://secure.actblue.com/donate/dylan-altemara-2",
-"https://support.wix.com/en/article/accessibility-adding-an-accessibility-statement-to-your-site"
+{
+"text": "ABOUT",
+"href": "https://www.dylan4pa.com"
+},
+{
+"text": "ACCESSIBILITY STATEMENT",
+"href": "https://www.dylan4pa.com/accessibility-statement"
+},
+{
+"text": "Accessibility: Adding an Accessibility Statement to Your Site",
+"href": "https://support.wix.com/en/article/accessibility-adding-an-accessibility-statement-to-your-site"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/dylan-altemara-2"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.dylan4pa.com/endorsements"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "ISSUES",
+"href": "https://www.dylan4pa.com/issues"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.dylan4pa.com/privacy-policy"
+},
+{
+"text": "[image: dylan logo final NO sticker (1).png]",
+"href": "https://www.dylan4pa.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.dylan4pa.com/accessibility-statement"
+}
 ]

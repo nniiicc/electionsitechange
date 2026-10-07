@@ -1,5 +1,4 @@
-Fraud is NOT an Option When I am Governor
-I don’t quit!
+0 Skip to Content Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Teri's Plans & Policies Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today DONATE HERE Open Menu Close Menu Open Menu Close Menu DONATE HERE Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Teri's Plans & Policies Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Folder: Teri's Plans & Policies Back Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Folder: Community Connection Back Advocacy Community Engagements Shop Products Folder: Other Topics Back Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact Folder: About Teri Ann Back About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today DONATE HERE Fraud is NOT an Option When I am Governor I don’t quit!
 We don’t quit.
 We fight together.
 These numbers I pulled today 6/6/26.
@@ -16,8 +15,7 @@ The people are being failed at every level, and these facts make me sick to my s
 I will not look the other way.
 I will expose these failures, hold agencies accountable, restore transparency, and fix what is broken.
 Arizona deserves a government that serves its people—not one that protects itself.
-Accountability for State Agencies
-Arizona’s government agencies and public systems exist to serve the people—not to protect bureaucracy, political interests, powerful insiders, or institutions from accountability.
+Accountability for State Agencies Arizona’s government agencies and public systems exist to serve the people—not to protect bureaucracy, political interests, powerful insiders, or institutions from accountability.
 As Governor, I will make reforming broken systems and confronting corruption a priority of my administration.
 When government agencies operate without meaningful oversight, families, businesses, healthcare providers, taxpayers, and vulnerable Arizonans can suffer the consequences.
 Government should never be allowed to investigate itself behind closed doors, ignore due process, selectively enforce rules, or avoid responsibility when mistakes or misconduct occur.
@@ -30,8 +28,7 @@ I am not running to protect the system as it exists.
 I am running to reform the parts of government that are failing the people they were created to serve.
 Arizona deserves a government built on transparency, due process, accountability, integrity, and equal application of the law.
 As Governor, I will work to return government to its fundamental purpose: serving the people of Arizona.
-A Voice Against Corruption
-Teri Ann Hourihan for AZ Governor.
+Videos DCS Reform for Children DCS Must Protect Children SNAP Benefits in Arizona Medicaid Arizona Reform Medicaid of Arizona NOT Paying Healthcare Providers are Suffering Restoring Accountability in Arizona Ending Fraud & Protecting Community Ending Corruption & Restoring Accountability Arizona Class Action Lawsuit I Fight for Providers State of Arizona Corruption Standing Up for Change Arizona Reform Needed Now Holding Arizona Accountable Due Process & Transparency Holding State Agencies Accountable A Voice Against Corruption A Voice Against Corruption Teri Ann Hourihan for AZ Governor.
 Arizona is a state I love, and I know countless others do too.
 That is why I have chosen to speak out against corruption, especially when it involves those in positions of power who are hurting the very people they were entrusted to serve.
 I intend to continue exposing corruption every day for the rest of my life.
@@ -48,8 +45,7 @@ At the same time, I understand why some whistleblowers choose to remain anonymou
 Sometimes that is the only way they can safely come forward.
 I fight for Arizona because I believe our state deserves honest leadership, transparency, and accountability.
 My campaign for Governor is not just about winning an election—it is about standing up to corruption and fighting back for the people of Arizona.
-BACK-DEAL HANDSHAKES IN GOVERNMENT
-Teri Ann Hourihan for AZ Governor.
+BACK-DEAL HANDSHAKES IN GOVERNMENT Teri Ann Hourihan for AZ Governor.
 Arizona’s Medicaid system is facing serious challenges, with concerns about fraud, waste, and accountability—both inside and outside the system.
 The people who suffer the most are the patients who need care and the honest healthcare providers trying to serve them.
 Across Arizona, healthcare organizations are being heavily scrutinized and investigated, yet many providers feel they have no one advocating for fairness or due process.
@@ -79,11 +75,10 @@ If providers, nonprofit organizations, government officials, or anyone else are 
 I am committed to continuing to ask questions, follow the evidence wherever it leads, and advocate for transparency.
 If there is no coordinated effort, an independent investigation should make that clear.
 If there is, the public deserves to know.
-Arizona patients, providers, and taxpayers deserve a behavioral health system built on fairness, accountability, and truth—not politics or favoritism
-No Arizonan Should Go Hungry
-Reports have raised concerns about problems with Arizona’s SNAP (food assistance) program, with payment errors and delays leaving some families without the benefits they depend on to buy groceries.
+Arizona patients, providers, and taxpayers deserve a behavioral health system built on fairness, accountability, and truth—not politics or favoritism No Arizonan Should Go Hungry Reports have raised concerns about problems with Arizona’s SNAP (food assistance) program, with payment errors and delays leaving some families without the benefits they depend on to buy groceries.
 When benefits don’t arrive on time, it can mean parents skipping meals, seniors struggling to eat, and children going hungry.
 As Governor, I will make sure Arizona’s safety net works the way it is supposed to.
 People who qualify for SNAP should receive their benefits accurately and on time.
 No family should have to wonder where their next meal is coming from because of government failures.
 We must improve accountability, fix broken systems, and ensure every eligible Arizonan has access to the food assistance they have earned.
+Teri Ann Hourihan for Arizona Governor Email Teri@teriann4azgov.org Phone/Text 520-633-1234

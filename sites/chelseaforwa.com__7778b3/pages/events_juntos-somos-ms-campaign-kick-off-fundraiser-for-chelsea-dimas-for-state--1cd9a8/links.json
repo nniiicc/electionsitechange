@@ -1,20 +1,86 @@
 [
-"http://facebook.com/chelseaforwa",
-"http://google.com/calendar/event?action=TEMPLATE&text=Juntos+Somos+M%C3%A1s%3A+Campaign+Kick-Off+Fundraiser+for+Chelsea+Dimas+for+State+Rep&dates=20250918T000000Z%2F20250918T030000Z&location=Grandview%2C+WA+98930%2C+United+States",
-"http://instagram.com/chelseaforwa",
-"http://maps.google.com/?q=+Grandview%2C+WA+98930+United+States",
-"http://squarespace.com/",
-"https://chelseaforwa.com/",
-"https://chelseaforwa.com/about",
-"https://chelseaforwa.com/cart",
-"https://chelseaforwa.com/endorsements",
-"https://chelseaforwa.com/events",
-"https://chelseaforwa.com/events/2026-campaign-kick-off-fundraiser",
-"https://chelseaforwa.com/events/canvas-with-chelsea-may-19-faj44",
-"https://chelseaforwa.com/events/juntos-somos-ms-campaign-kick-off-fundraiser-for-chelsea-dimas-for-state-rep?format=ical",
-"https://chelseaforwa.com/news",
-"https://chelseaforwa.com/volunteer",
-"https://chelseaforwa.com/vote",
-"https://secure.actblue.com/donate/chelseaforwa",
-"https://secure.actblue.com/donate/juntossomosmas"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+grandview%2C+wa+98930+united+states"
+},
+{
+"text": "0",
+"href": "https://www.chelseaforwa.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.chelseaforwa.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.chelseaforwa.com/events"
+},
+{
+"text": "Buy Tickets",
+"href": "https://secure.actblue.com/donate/juntossomosmas"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chelseaforwa"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/chelseaforwa"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chelseaforwa.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.chelseaforwa.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.chelseaforwa.com/volunteer"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Juntos+Somos+M%C3%A1s%3A+Campaign+Kick-Off+Fundraiser+for+Chelsea+Dimas+for+State+Rep&dates=20250918T000000Z%2F20250918T030000Z&location=Grandview%2C+WA+98930%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/juntos-somos-ms-campaign-kick-off-fundraiser-for-chelsea-dimas-for-state-rep?format=ical"
+},
+{
+"text": "News",
+"href": "https://www.chelseaforwa.com/news"
+},
+{
+"text": "Next Next May 13 2026 Campaign Kick-Off Fundraiser",
+"href": "https://www.chelseaforwa.com/events/2026-campaign-kick-off-fundraiser"
+},
+{
+"text": "Previous Previous May 22 Canvas with Chelsea!",
+"href": "https://www.chelseaforwa.com/events/canvas-with-chelsea-may-19-faj44"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Voting Info",
+"href": "https://www.chelseaforwa.com/vote"
+},
+{
+"text": "[image: Chelsea Dimas for State Rep (D)]",
+"href": "https://www.chelseaforwa.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/chelseaforwa"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/chelseaforwa"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@chelseaforwa.com"
+}
 ]

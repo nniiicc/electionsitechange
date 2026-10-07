@@ -1,5 +1,4 @@
-WOMEN'S RIGHTS
-It’s pretty basic.
+top of page HOME ABOUT ISSUES GET INVOLVED Menu Close DONATE WOMEN'S RIGHTS It’s pretty basic.
 Women and all persons must have agency over their lives and their bodies.
 No one should be “in” the doctor’s office with us, we make our own decisions with those who matter to us – and sometimes on our own.
 When the state de-funded Planned Parenthood, the governor assured Iowans that there would be sufficient access to care.
@@ -16,11 +15,6 @@ Iowa’s women, and particularly Iowa’s women of color are impacted by the shr
 Childcare remains expensive and hard to come by for many; minimum wage workers in particular struggle to find care for their children.
 The pandemic has been brutal on “essential” workers who do not have the luxury of working from home.
 Further reductions in unemployment benefits will hurt families, particularly (but not only) those with a sole breadwinner.
-- Access to birth control
-- STD testing
-- Abortion rights
-- Annual healthy women screenings
-- Safe childbirth options
-- Help for those in domestic violence situations
-- Having a voice.
+Access to birth control STD testing Abortion rights Annual healthy women screenings Safe childbirth options Help for those in domestic violence situations Having a voice.
 Having agency.
+Privacy Policy Back to Top © # - Paid for by Janice Weiner for State Senate HOME ABOUT ISSUES GET INVOLVED bottom of page

@@ -1,9 +1,7 @@
-Hi, I’m Eleni Kavros DeGraw, your CT State Representative for the 17th District—Avon and Canton.
+0 Skip to Content 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News 🗳 Voter Info Open Menu Close Menu 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News 🗳 Voter Info Open Menu Close Menu 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News 🗳 Voter Info Hi, I’m Eleni Kavros DeGraw, your CT State Representative for the 17th District—Avon and Canton.
 I’m running for reelection to continue serving District 17.
-LAWN SIGNS
-Please request your lawn sign here and we will bring your sign to you in early/mid September.
-Dear friends and neighbors,
-As the people who have always had my back and supported me, I want you to know first that I’m running for re-election.
+LAWN SIGNS REQUEST YOURS NOW Please request your lawn sign here and we will bring your sign to you in early/mid September.
+Dear friends and neighbors, As the people who have always had my back and supported me, I want you to know first that I’m running for re-election.
 When I first ran in 2018, my goal, aside from getting elected, was to represent Avon and Canton with enthusiasm, an ear for listening to voters, and fresh ideas for how to move Connecticut forward.
 I was also deeply concerned about a presidency that seemed to be headed away from deeply-rooted American values: justice, freedom, and taking care of one another.
 Those concerns are greater now than they ever have been, and I won’t abandon the job or the causes we care about most.
@@ -20,5 +18,5 @@ I successfully passed an affordable housing bill (eventually), which will provid
 I also brought back even more money to fix the pool liner at Mills Pond Park, and money to update Avon’s Department of Public Works breakroom for our amazing public workers.
 Perhaps, most importantly, I advocated we put aside $500 million to address the cuts the Trump Administration enacted, which are harming people here in Connecticut.
 We must protect our schools, our unhoused population, our hungry neighbors, and people who get their health insurance from our healthcare exchange.
-In solidarity,
-Eleni
+In solidarity, Eleni Paid for by Team Eleni, Claudine Fasano, Treasurer.
+Approved by Eleni Kavros DeGraw. info@teameleni.com

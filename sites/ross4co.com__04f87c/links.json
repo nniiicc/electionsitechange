@@ -1,14 +1,78 @@
 [
-"https://facebook.com/profile.php?id=61591653666960",
-"https://instagram.com/ross4co",
-"https://ross4co.com/about.html",
-"https://ross4co.com/cdn-cgi/l/email-protection",
-"https://ross4co.com/contact.html",
-"https://ross4co.com/donate.html",
-"https://ross4co.com/events.html",
-"https://ross4co.com/index.html",
-"https://ross4co.com/issues.html",
-"https://ross4co.com/privacy.html",
-"https://ross4co.com/volunteer.html",
-"https://x.com/ross4co"
+{
+"text": "About",
+"href": "https://ross4co.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://ross4co.com/contact.html"
+},
+{
+"text": "Contribute Now",
+"href": "https://ross4co.com/donate.html"
+},
+{
+"text": "Donate",
+"href": "https://ross4co.com/donate.html"
+},
+{
+"text": "Donate Support a grassroots campaign that answers to neighbors, not special interests.",
+"href": "https://ross4co.com/donate.html"
+},
+{
+"text": "Events",
+"href": "https://ross4co.com/events.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61591653666960"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ross4co/"
+},
+{
+"text": "Issues",
+"href": "https://ross4co.com/issues.html"
+},
+{
+"text": "Privacy",
+"href": "https://ross4co.com/privacy.html"
+},
+{
+"text": "Read Ross's full story →",
+"href": "https://ross4co.com/about.html"
+},
+{
+"text": "See the full platform →",
+"href": "https://ross4co.com/issues.html"
+},
+{
+"text": "Stay Updated Sign up for news and events happening in your neighborhood.",
+"href": "https://ross4co.com/contact.html"
+},
+{
+"text": "Volunteer",
+"href": "https://ross4co.com/volunteer.html"
+},
+{
+"text": "Volunteer Knock doors, make calls, and help build our neighborhood coalition across HD23.",
+"href": "https://ross4co.com/volunteer.html"
+},
+{
+"text": "X",
+"href": "https://x.com/ross4co"
+},
+{
+"text": "[email protected]",
+"href": "mailto:hello@ross4co.com"
+},
+{
+"text": "[image: Ross Metler for Colorado House District 23]",
+"href": "https://ross4co.com/index.html"
+},
+{
+"text": "[image: Ross Metler]",
+"href": "https://ross4co.com/index.html"
+}
 ]

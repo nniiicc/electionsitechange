@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.ceachus.com/about",
- "paid_for_by": null,
+ "fingerprint": "b5e1808fc17d85bb0a3100a130276ba023a45624",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About | Eachus For Assembly",
  "years_mentioned": [
+  "2004",
   "2016"
  ]
 }

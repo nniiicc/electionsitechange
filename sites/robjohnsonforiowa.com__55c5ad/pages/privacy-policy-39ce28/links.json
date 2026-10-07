@@ -1,13 +1,58 @@
 [
-"http://networkadvertising.org/",
-"https://facebook.com/RobJohnsonIA",
-"https://instagram.com/robjohnsonia",
-"https://robjohnsonforiowa.com/",
-"https://robjohnsonforiowa.com/about_rob",
-"https://robjohnsonforiowa.com/endorsements",
-"https://robjohnsonforiowa.com/privacy-policy",
-"https://robjohnsonforiowa.com/volunteer",
-"https://robjohnsonforiowa.com/yard_sign",
-"https://secure.actblue.com/donate/robjohnson_website",
-"https://twitter.com/RobJohnsonIA"
+{
+"text": "About Rob",
+"href": "https://robjohnsonforiowa.com/about_rob/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/robjohnson_website"
+},
+{
+"text": "Endorsements",
+"href": "https://robjohnsonforiowa.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RobJohnsonIA"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/robjohnsonia/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://robjohnsonforiowa.com/privacy-policy/"
+},
+{
+"text": "Request Yard Signs",
+"href": "https://robjohnsonforiowa.com/yard_sign/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/RobJohnsonIA"
+},
+{
+"text": "Volunteer",
+"href": "https://robjohnsonforiowa.com/volunteer/"
+},
+{
+"text": "Yard Sign",
+"href": "https://robjohnsonforiowa.com/yard_sign/"
+},
+{
+"text": "[image]",
+"href": "https://robjohnsonforiowa.com"
+},
+{
+"text": "click here.",
+"href": "http://www.networkadvertising.org/"
+},
+{
+"text": "https://robjohnsonforiowa.com",
+"href": "https://robjohnsonforiowa.com/"
+},
+{
+"text": "info@robjohnsonforiowa.com",
+"href": "mailto:info@robjohnsonforiowa.com"
+}
 ]

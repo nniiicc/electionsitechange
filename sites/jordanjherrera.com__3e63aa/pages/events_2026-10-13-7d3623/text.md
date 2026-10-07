@@ -1,9 +1,13 @@
-To provide the best experiences, we use technologies like cookies to store and/or access device information.
-Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site.
-Not consenting or withdrawing consent, may adversely affect certain features and functions.
-The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
-The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
-The technical storage or access that is used exclusively for statistical purposes.
-The technical storage or access that is used exclusively for anonymous statistical purposes.
-Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
-The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Phone: +1 816-287-2326 DONATE About Message from Jordan Issues Merch Volunteer Vote Events Contact 1 event found.
+Events for October 13, 2026 Events Search and Views Navigation Search Enter Keyword.
+Search for Events by Keyword.
+Find Events Event Views Navigation Day List Month Day #ago 10/13/2026 October 13, 2026 Select date.
+6:00 pm Boone County Democratic Party Town Hall October 13 @ 6:00 pm - 8:00 pm CDT The ARC 1701 W Ash St, Columbia Join Jordan Herrera in Columbia Jordan Herrera is headed to Columbia.
+The Boone County Democratic Party is hosting a town hall with Jordan on Tuesday, October 13, from 6:00 to […] Free Previous Day Next Day Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file ** This calendar is maintained for informational purposes only.
+It is intended to notify constituents and members of the public about where the candidate will be present and speaking.
+Inclusion of any event, venue, organization, or host does not imply endorsement, partnership, or affiliation unless explicitly stated.
+The campaign is committed to transparency and open engagement with the community. ** Donate Now!
+Every dollar helps to get Jordan into office, show your support today! $# $# $# $# $# Other If you’ve saved your payment with ActBlue Express, your donation will go through immediately.
+Home About Message from the Candidate Issues Merch Volunteer Vote Events Contact Privacy Statement Terms and Conditions Jordan J Herrera © # | All rights reserved | Site by Nerotech Solutions LLC | Paid for by Herrera for Congress | Use of military rank, job titles, and photos in uniform do not imply endorsement by The United States Air Force or The Department of War.
+Any opinions expressed are that of Jordan Herrera and no other organization.
+Manage consent

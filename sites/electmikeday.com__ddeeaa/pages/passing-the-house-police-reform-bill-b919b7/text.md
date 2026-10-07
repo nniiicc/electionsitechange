@@ -1,5 +1,4 @@
-Passing The House Police Reform Bill
-On July 24th, by a vote of 93-66 the House passed H4860, the long-awaited police reform bill focused around use of force standards, the limiting of qualified immunity and the establishment of a P.O.S.T board, that will be used to mandate training for law enforcement officers in addition to the certification and de-certification of departments and officers.
+About News Issues Legislation Contact Get Involved Contribute Menu Passing The House Police Reform Bill July 31, 2020 / in Events , News / by Dan Hudson On July 24th, by a vote of 93-66 the House passed H4860, the long-awaited police reform bill focused around use of force standards, the limiting of qualified immunity and the establishment of a P.O.S.T board, that will be used to mandate training for law enforcement officers in addition to the certification and de-certification of departments and officers.
 I was present on the House floor for most of the nearly week-long debate, and helped deliver some of the final remarks in support of the bill.
 Video of my full address to the House is available below, as well as an amended version of my remarks.
 “Throughout this debate, we engaged.
@@ -30,8 +29,7 @@ The House welcomed public input and discourse when we considered the drafting of
 All were welcome and invited to have input into these provisions.
 Many spoke, and all were heard.
 One retired police captain wrote to share his thoughts about why a modernized and uniform standard of conduct is problematic.
-He wrote that the problem is not in the existing standards, the problem is – quote: “that a small percentage of officers apply force unreasonably.”
-I agree 100% with that sentiment.
+He wrote that the problem is not in the existing standards, the problem is – quote: “that a small percentage of officers apply force unreasonably.” I agree 100% with that sentiment.
 That is the problem.
 A small percentage of our law enforcement profession apply force unreasonably.
 This unreasonable application of force, done while claiming the authority of the state, by its very definition and nature results in the unwarranted deprivation of life and liberty and certainly the pursuit of happiness guaranteed by our constitution and it must be addressed.
@@ -47,8 +45,7 @@ I am 100% positive our law enforcement professionals agree.
 Every single one of them I have spoken to does.
 So why are we here?
 It’s not just because of the murder of George Floyd, although that barbaric and unlawful act was certainly a flash point that lit a nationwide tinderbox that has been filling for generations.
-We are here, in essence, because every one of us in this chamber and listening elsewhere have heard about “the talk.”
-We have heard about the talk that black parents have with their children about how to prepare for encounters with law enforcement and how to make sure those encounters do not turn deadly.
+We are here, in essence, because every one of us in this chamber and listening elsewhere have heard about “the talk.” We have heard about the talk that black parents have with their children about how to prepare for encounters with law enforcement and how to make sure those encounters do not turn deadly.
 This is not a talk I have ever had with my sons.
 Without a doubt, my wife and I have talked to our sons about the importance of respecting those that serve us, but we have never talked with them about thinking how to protect their lives when they interact with the police.
 That is not a fear we have.
@@ -64,8 +61,7 @@ I would be hard pressed to say anything we pass is perfect, but it is the right 
 It is progress, and it is time.
 The great author Toni Morrison once said, “The function, the very serious function of racism is distraction.
 It keeps you from doing your work.
-It keeps you explaining, over and over again.”
-Well the time for explaining is past.
+It keeps you explaining, over and over again.” Well the time for explaining is past.
 We have listened.
 We have learned, and we have debated and we have voted on changes.
 Now we must act.
@@ -98,8 +94,7 @@ The House welcomed public input and discourse when we considered the drafting of
 All were welcome and invited to have input into these provisions.
 Many spoke, and all were heard.
 One retired police captain wrote to share his thoughts about why a modernized and uniform standard of conduct is problematic.
-He wrote that the problem is not in the existing standards, the problem is – quote: “that a small percentage of officers apply force unreasonably.”
-I agree 100% with that sentiment.
+He wrote that the problem is not in the existing standards, the problem is – quote: “that a small percentage of officers apply force unreasonably.” I agree 100% with that sentiment.
 That is the problem.
 A small percentage of our law enforcement profession apply force unreasonably.
 This unreasonable application of force, done while claiming the authority of the state, by its very definition and nature results in the unwarranted deprivation of life and liberty and certainly the pursuit of happiness guaranteed by our constitution and it must be addressed.
@@ -115,8 +110,7 @@ I am 100% positive our law enforcement professionals agree.
 Every single one of them I have spoken to does.
 So why are we here?
 It’s not just because of the murder of George Floyd, although that barbaric and unlawful act was certainly a flash point that lit a nationwide tinderbox that has been filling for generations.
-We are here, in essence, because every one of us in this chamber and listening elsewhere have heard about “the talk.”
-We have heard about the talk that black parents have with their children about how to prepare for encounters with law enforcement and how to make sure those encounters do not turn deadly.
+We are here, in essence, because every one of us in this chamber and listening elsewhere have heard about “the talk.” We have heard about the talk that black parents have with their children about how to prepare for encounters with law enforcement and how to make sure those encounters do not turn deadly.
 This is not a talk I have ever had with my sons.
 Without a doubt, my wife and I have talked to our sons about the importance of respecting those that serve us, but we have never talked with them about thinking how to protect their lives when they interact with the police.
 That is not a fear we have.
@@ -132,8 +126,7 @@ I would be hard pressed to say anything we pass is perfect, but it is the right 
 It is progress, and it is time.
 The great author Toni Morrison once said, “The function, the very serious function of racism is distraction.
 It keeps you from doing your work.
-It keeps you explaining, over and over again.”
-Well the time for explaining is past.
+It keeps you explaining, over and over again.” Well the time for explaining is past.
 We have listened.
 We have learned, and we have debated and we have voted on changes.
 Now we must act.
@@ -165,8 +158,7 @@ The House welcomed public input and discourse when we considered the drafting of
 All were welcome and invited to have input into these provisions.
 Many spoke, and all were heard.
 One retired police captain wrote to share his thoughts about why a modernized and uniform standard of conduct is problematic.
-He wrote that the problem is not in the existing standards, the problem is – quote: “that a small percentage of officers apply force unreasonably.”
-I agree 100% with that sentiment.
+He wrote that the problem is not in the existing standards, the problem is – quote: “that a small percentage of officers apply force unreasonably.” I agree 100% with that sentiment.
 That is the problem.
 A small percentage of our law enforcement profession apply force unreasonably.
 This unreasonable application of force, done while claiming the authority of the state, by its very definition and nature results in the unwarranted deprivation of life and liberty and certainly the pursuit of happiness guaranteed by our constitution and it must be addressed.
@@ -182,8 +174,7 @@ I am 100% positive our law enforcement professionals agree.
 Every single one of them I have spoken to does.
 So why are we here?
 It’s not just because of the murder of George Floyd, although that barbaric and unlawful act was certainly a flash point that lit a nationwide tinderbox that has been filling for generations.
-We are here, in essence, because every one of us in this chamber and listening elsewhere have heard about “the talk.”
-We have heard about the talk that black parents have with their children about how to prepare for encounters with law enforcement and how to make sure those encounters do not turn deadly.
+We are here, in essence, because every one of us in this chamber and listening elsewhere have heard about “the talk.” We have heard about the talk that black parents have with their children about how to prepare for encounters with law enforcement and how to make sure those encounters do not turn deadly.
 This is not a talk I have ever had with my sons.
 Without a doubt, my wife and I have talked to our sons about the importance of respecting those that serve us, but we have never talked with them about thinking how to protect their lives when they interact with the police.
 That is not a fear we have.
@@ -200,9 +191,9 @@ I would be hard pressed to say anything we pass is perfect, but it is the right 
 It is progress, and it is time.
 The great author Toni Morrison once said, “The function, the very serious function of racism is distraction.
 It keeps you from doing your work.
-It keeps you explaining, over and over again.”
-Well the time for explaining is past.
+It keeps you explaining, over and over again.” Well the time for explaining is past.
 We have listened.
 We have learned, and we have debated and we have voted on changes.
 Now we must act.
-I urge you to join me in voting in favor of this bill.”
+I urge you to join me in voting in favor of this bill.” Share this: Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Related Share this entry Share on Facebook Share on Twitter Share on Google+ Share on Pinterest Share on Linkedin Share on Tumblr Share on Vk Share on Reddit Share by Mail http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png 0 0 Dan Hudson http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png Dan Hudson 2020-07-31 11:13:43 2020-08-03 13:04:42 Passing The House Police Reform Bill Paid for by the Committee to Elect Michael Day John C.
+Henaghan, Treasurer The Boys & Girls Club of Stoneham’s Donna DiVirgilio Honored Economic Development Bill Includes Relief For Restaurants Scroll to top

@@ -1,4 +1,4 @@
-MEET JOHN.
+0 Skip to Content Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate MEET JOHN.
 John has lived his entire life in East Central Indiana, all but 4 years in Blackford, Delaware, and Randolph Counties.
 John lives on the 40 acre farm near Hartford City his grandparents purchased almost years ago.
 Three of his four grandparents descended from the pioneers who settled eastern Delaware County and all of Randolph County in the 1830s and 1840s.
@@ -24,3 +24,4 @@ Three of them have degrees from Ball State.
 John and Maggie also have a toddler grandson, Lincoln!
 The family also has a basset hound, Watson, who is our sad-eyed baby.
 John enjoys spending free time playing games and watching movies with his family, going to the ballpark to watch a baseball game, and driving his 1951 Studebaker for ice cream on Sunday afternoons.
+Bartlett for Indiana Member of the Indiana Rural Summit Paid for by Bartlett for Indiana, Jennifer Hollems, Treasurer

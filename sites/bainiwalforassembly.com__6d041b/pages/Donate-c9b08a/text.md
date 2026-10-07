@@ -1,7 +1,3 @@
-+1 408 590 0116
-info@bainiwalforassembly.com
-I want to receive newsletters
-I agree to the Terms and Conditions
-Make a secure online contribution
-Your donation will be processed securely by our compliant campaign partner.
+Bainiwal For Assembly District 25  +1 408 590 0116  info@bainiwalforassembly.com Home About me Issues Donate Contacts Leading people to better life Name * Email * Address * Your Question? * Yes No Message * I want to receive newsletters I agree to the Terms and Conditions * Submit Donate Now Make a secure online contribution Your donation will be processed securely by our compliant campaign partner.
 Thank you for supporting this community-focused campaign.
+One time donation via PayPal Donate through our bank account: Bank Name: How to find us Address: Phone: +1 408 590 0116 Email: © # bainiwalforassembly.com Facebook Twitter Instagram LinkedIn

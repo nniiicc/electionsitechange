@@ -1,4 +1,4 @@
-Mark Finchem Discusses the Arizona Election on Victory News (11/14/2022)
-November 15, 2022
-Rep.
+Skip to content Click here to sign my petition to get on the Ballot Truth Rumble GETTR Gab Telegram Facebook X Home About Issues Endorsements News Contact Donate Donate Click here to sign my petition to get on the Ballot Donate Donate Home About Issues Endorsements News Contact Truth Rumble GETTR Gab Telegram Facebook X Mark Finchem Discusses the Arizona Election on Victory News (11/14/2022) November 15, 2022 Rep.
 Mark Finchem, Republican Nominee for Arizona Secretary of State discusses the widespread issues with election processes and equipment in Maricopa County, campaign strategy, and more in this post-election interview with Victory News.
+Watch now: Paid for and Authorized by Mark Finchem for AZ Senate This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Site by Go Right Strategies

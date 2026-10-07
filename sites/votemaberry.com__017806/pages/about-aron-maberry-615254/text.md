@@ -1,37 +1,21 @@
-Family Life
-In 2006, I married my best friend.
+Toggle navigation Meet Aron Maberry Why I’m Running On the Issues “In The News” Events Posts Request A Sign Media Contribute Meet Aron Maberry Family Life In 2006, I married my best friend.
 Elizabeth and I have been best friends since we were 14 years old, and I tell young people all the time to become friends with those you are interested in and get to know them.
 Over time, our friendship developed into a romantic relationship, and we are absolutely crazy about one another.
 We love and like each other – and there is a difference.
 I couldn’t imagine doing life with anyone else.
-We have been blessed with three incredible children – our son, Avery, our middle daughter, Olivia, and our oldest, April, who is married to Brayden.
-Professional Life
-I grew up in Clarksville, attending East Montgomery Elementary, Richview Middle School, and Clarksville High School, and graduated from Rossview High School in 2003.
+Aron and Elizabeth Maberry We have been blessed with three incredible children – our son, Avery, our middle daughter, Olivia, and our oldest, April, who is married to Brayden.
+The Maberry Family Professional Life I grew up in Clarksville, attending East Montgomery Elementary, Richview Middle School, and Clarksville High School, and graduated from Rossview High School in 2003.
 I went on to graduate Cum Laude from Bible College in 2007, studying Pastoral Ministries and Leadership.
 I have been a pastor since graduating in 2007 and, most recently, have been on the staff of Mosaic Church in Clarksville since 2015.
 I have had many roles at Mosaic Church, including overseeing all Sunday serve teams and first-time guests and now I have the pleasure of serving as the Next-Gen Pastor, overseeing 25 staff members who work with newborns through High School graduates at the church.
-I am currently a member of the Leadership Clarksville 2024, I am a member of the Leadership CMCSS class of 2022, and I have been the Homeowners Association President of the Poplar Hill Subdivision (2019-2021, 2012,2014).
-A Passion to Serve
-I absolutely love our community and thoroughly enjoy representing District 7 on the School Board.
+Leadership Clarksville class of 2024 I am currently a member of the Leadership Clarksville 2024, I am a member of the Leadership CMCSS class of 2022, and I have been the Homeowners Association President of the Poplar Hill Subdivision (2019-2021, 2012,2014).
+Leadership CMCSS class of 2022 A Passion to Serve I absolutely love our community and thoroughly enjoy representing District 7 on the School Board.
 My life has been about serving people, and I look forward to representing District 68 in the State Legislature.
-I am a lifelong resident of Clarksville-Montgomery County; after observing the effects of COVID-19 on students and the eye-opening decisions the board made during this time, I ran for the School Board and am currently the only elected Republican in Montgomery County on the board.
+Rep.
+Aron Maberry presenting a bill at the well I am a lifelong resident of Clarksville-Montgomery County; after observing the effects of COVID-19 on students and the eye-opening decisions the board made during this time, I ran for the School Board and am currently the only elected Republican in Montgomery County on the board.
 Since being elected, I have been outspoken for conservative values, leading to better and safer school environments.
 I have fiercely advocated for parental rights in their children’s education and for opening up public participation in board meetings.
 I have been a pastor for nearly 20 years, and since 2015, I have been a staff pastor at Mosaic Church in Clarksville, TN, helping the church grow from 250 to 3,000 weekly attendees, with more than 4,500 people who call Mosaic Church home.
 I have been in leadership on a church staff for 20 years, and my whole life has been about serving people.
-Since being elected to the school board, I have discovered that the same passion I have for serving in the church exists in representing our community.
-- State Representative District 68
-- CMCSS School Board Member District 7
-- Member of the School Board of the Year 2023
-- Leadership Clarksville Class of 2024
-- Leadership CMCSS Class of 2022
-- Named as one of the ten leaders under 40 who are helping to shape Clarksville’s future
-- Montgomery County Republican Party Communications Team Member
-- Young Republicans Member
-- Poplar Hill Subdivision Homeowners Association President 2012-2014, 2019-2021
-- Staff Pastor of Mosaic Church for nine years
-- Member of the National Rifle Association (NRA)
-- Member of the Tennessee Firearms Association (TFA)
-- Member of the Gun Owners of America (GOA)
-- Annual Daily Wire+ Subscriber
-Now that you’ve learned a little about me, discover why I’m running…
+Since being elected to the school board, I have discovered that the same passion I have for serving in the church exists in representing our community. with CHS Principal, Bryan Feldman with East Montgomery Principal, Janet Staggs, and Assistant Principal, Whitney Kogut with Barksdale Principal, Karen Hoskins and former principal Melinda Harris with Barksdale Spanish Immersion Principal, Helen Nicholas with Kirkwood Middle School Principal, Laura Boss with new Kirkwood Elementary School Principal, Frances Camp with Richview Middle School Principal, Kelly Daniel with Rossview Middle School Principal, Julie Hallums with Director of Schools Dr.
+Jean Luna-Vedder and Carmel Elementary Principal, Melissa Johnson Previous Leadership Positions, Memberships and Accomplishments: State Representative District 68 CMCSS School Board Member District 7 Member of the School Board of the Year 2023 Leadership Clarksville Class of 2024 Leadership CMCSS Class of 2022 Named as one of the ten leaders under 40 who are helping to shape Clarksville’s future Montgomery County Republican Party Communications Team Member Young Republicans Member Poplar Hill Subdivision Homeowners Association President 2012-2014, 2019-2021 Staff Pastor of Mosaic Church for nine years Member of the National Rifle Association (NRA) Member of the Tennessee Firearms Association (TFA) Member of the Gun Owners of America (GOA) Annual Daily Wire+ Subscriber Now that you’ve learned a little about me, discover why I’m running… About Aron Media Support the campaign Contribute PAID FOR BY ARON MABERRY FOR STATE REPRESENTATIVE Elizabeth Maberry – Campaign Treasurer

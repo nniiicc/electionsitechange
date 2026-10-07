@@ -1,5 +1,4 @@
-Remembering Those Who Served and Gave Their Life for Freedom and Liberty
-AKRON -- Today, we pause to remember and honor the men and women of the United States Armed Forces who have served to protect and defend our country, as well as coming to the defense of millions across the globe to fight tyranny.
+top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information DONATE GET INVOLVED All Posts Remembering Those Who Served and Gave Their Life for Freedom and Liberty Shubert for Ohio May 25 2 min read AKRON -- Today, we pause to remember and honor the men and women of the United States Armed Forces who have served to protect and defend our country, as well as coming to the defense of millions across the globe to fight tyranny.
 “All gave some, some gave all.” Credit is given to Howard William Osterkamp, a Korean War veteran and Purple Heart recipient, for coining that phrase.
 Since the earliest days of the American Revolutionary War, more than 1.3 million American soldiers, sailors, airmen, and Marines have laid down their lives in combat and wartime service.
 Many young people today do not realize how blessed they are to live in a land of freedom because of the brave sacrifices that came before them.
@@ -14,5 +13,7 @@ Passengers were asked to remain on board so the airman in his dress blues could 
 “Passengers quietly filed off the plane, but stood at the terminal windows to watch as the flag-draped coffin was removed from the aircraft and carried to the hearse by the honor guard.
 There was not a dry eye to be found.
 The sight and sounds were moving.
-May the young man’s soul rest eternal and may God grant his wife and family peace.”
-Here is a tribute to the fallen and the pilots who fly the planes known as the Angel Flight:
+May the young man’s soul rest eternal and may God grant his wife and family peace.” Here is a tribute to the fallen and the pilots who fly the planes known as the Angel Flight: Recent Posts See All Who is Craig Shubert?
+Candidate for Ohio State Representative, District 34 2026 Voter Guide for Ohio House District 34 9/11: Flight 93 – A Personal Story Paid for by Shubert for Ohio. © # Shubert for Ohio.
+All rights reserved.
+DONATE bottom of page

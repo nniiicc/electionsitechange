@@ -1,9 +1,8 @@
-2/22/21
-President Joe Biden’s planned $1.9 trillion COVID-19 stimulus package is still taking shape, but the most recent figures suggest the package will contain about $350 billion earmarked for state and local governments.
+Skip to content Elizabeth Fiedler Representative, House District 184 Primary Menu Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate PA Dems Push School Infrastructure As A Priority In Next Federal Stimulus Posted on February 22, 2021 March 11, 2022 by Anthony Amaker 2/22/21 President Joe Biden’s planned $1.9 trillion COVID-19 stimulus package is still taking shape, but the most recent figures suggest the package will contain about $350 billion earmarked for state and local governments.
 On Friday, state Sen.
 Vincent Hughes (D-Phila.), state Rep.
 Elizabeth Fiedler (D-Phila.), and several other Democratic lawmakers held a virtual press conference to demand Pennsylvania route some of that money into an emergency grant program that would pay for schools to remediate asbestos and lead, make electric and plumbing repairs, and do other needed maintenance work.
 “We know that our schools were dangerous even before this pandemic,” Fiedler said.
-“For generations, our teachers, guidance counselors, nurses, students, and school staff have been sent into buildings where they can get brain damage because of chipped paint, or cancer because of asbestos.”
-Read more here:
-https://wskg.org/news/pa-dems-push-school-infrastructure-as-a-priority-in-next-federal-stimulus/
+“For generations, our teachers, guidance counselors, nurses, students, and school staff have been sent into buildings where they can get brain damage because of chipped paint, or cancer because of asbestos.” Read more here: https://wskg.org/news/pa-dems-push-school-infrastructure-as-a-priority-in-next-federal-stimulus/ Posted in News , Uncategorized Post navigation PA House, Senate leaders call for improvement of hazardous, shoddy schools Pa.
+Democrats take issues into own hands, hold separate budget hearings Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Connect with us Facebook Twitter Instagram YouTube Mail Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Paid for by: Friends of Elizabeth Fiedler Powered by Tech for Campaigns

@@ -1,8 +1,4 @@
-News Teacher raises at stake as NC House, Senate budget proposals clash The Citizen-Times July 3, 2024
-News NC District 115: Redistricting sparks stiff competition, battle over representation WLOS January 24, 2024
-News Asheville-area Democratic leaders call out state GOP on threats to public education The Citizen-Times August 15, 2023
-News Gov.
-Cooper says WNC schools will lose $8 million with GOP school voucher bill The Citizen-Times June 30, 2023
-News Legislators visit public school that sets up newcomer students and families for success EdNC May 24, 2023
-News How Buncombe’s newly elected N.C.
-House members are settling into office Mountain Xpress February 10, 2023
+Skip to content Home About Issues Endorsements News Volunteer Donate EN ES Home About Issues Endorsements News Volunteer Donate EN ES Menu News News Teacher raises at stake as NC House, Senate budget proposals clash The Citizen-Times July 3, 2024 News NC District 115: Redistricting sparks stiff competition, battle over representation WLOS January 24, 2024 News Special Redistricting Update from Rep.
+Lindsey Prather October 31, 2023 News A long-awaited budget bill passes and casinos strike out NC Public Radio September 22, 2023 News Asheville-area Democratic leaders call out state GOP on threats to public education The Citizen-Times August 15, 2023 News Gov.
+Cooper says WNC schools will lose $8 million with GOP school voucher bill The Citizen-Times June 30, 2023 News Legislators visit public school that sets up newcomer students and families for success EdNC May 24, 2023 News WNC lawmakers brace business community for polarizing session Mountain Xpress April 28, 2023 News How Buncombe’s newly elected N.C.
+House members are settling into office Mountain Xpress February 10, 2023 Prev 1 2 3 Next PO Box 1961, Enka, NC 28728 team@pratherfornc.com Paid for by Prather for NC | Privacy Policy | Website design by Express Lane Strategies .

@@ -1,13 +1,50 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com//pesach.osina",
-"https://instagram.com/pesach.osina",
-"https://pesachosina.com/",
-"https://pesachosina.com/contact",
-"https://pesachosina.com/endorsements",
-"https://pesachosina.com/issues",
-"https://pesachosina.com/meet-peach",
-"https://pesachosina.com/volunteer",
-"https://secure.actblue.com/donate/pesach-osina-1",
-"https://x.com/PesachOsina"
+{
+"text": "Contact",
+"href": "https://www.pesachosina.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pesach-osina-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.pesachosina.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.pesachosina.com/issues"
+},
+{
+"text": "Meet Pesach",
+"href": "https://www.pesachosina.com/meet-peach"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.pesachosina.com/volunteer"
+},
+{
+"text": "[image: PesachOsina.com logo]",
+"href": "https://www.pesachosina.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.pesachosina.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//pesach.osina"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/pesach.osina"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/PesachOsina"
+}
 ]

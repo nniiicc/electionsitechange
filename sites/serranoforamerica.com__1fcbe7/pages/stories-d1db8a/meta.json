@@ -1,7 +1,9 @@
 {
  "description": "Discover Kentucky political positions and insights into military action oversight, focusing on the Kentucky 5th District with Serrano for America.",
  "final_url": "https://serranoforamerica.com/stories",
- "paid_for_by": null,
+ "fingerprint": "1a7b05460323a16b4650455be41bb559d19de06b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Stories",
  "years_mentioned": []
 }

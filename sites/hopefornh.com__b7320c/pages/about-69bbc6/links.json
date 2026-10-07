@@ -1,13 +1,58 @@
 [
-"http://ground.as/",
-"http://squarespace.com/",
-"https://facebook.com/HopeforNH8",
-"https://hopefornh.com/",
-"https://hopefornh.com/about",
-"https://hopefornh.com/cart",
-"https://hopefornh.com/the-issues",
-"https://hopefornh.com/volunteer",
-"https://instagram.com/hopedamonnh",
-"https://secure.actblue.com/donate/hope-damon-for-representative-1",
-"https://youtube.com/@HopeforNH"
+{
+"text": "0",
+"href": "https://www.hopefornh.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.hopefornh.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hope-damon-for-representative-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.hopefornh.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.hopefornh.com/"
+},
+{
+"text": "Hope for NH",
+"href": "https://www.hopefornh.com/"
+},
+{
+"text": "Meet Hope",
+"href": "https://www.hopefornh.com/about"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "The Issues",
+"href": "https://www.hopefornh.com/the-issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.hopefornh.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HopeforNH8"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/hopedamonnh/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@HopeforNH"
+},
+{
+"text": "ground. As",
+"href": "http://ground.as"
+}
 ]

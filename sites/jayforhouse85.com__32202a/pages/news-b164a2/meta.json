@@ -1,7 +1,9 @@
 {
  "description": "Jay Kilmartin In The News",
  "final_url": "https://www.jayforhouse85.com/news",
- "paid_for_by": null,
+ "fingerprint": "7e8a306877c16c40e18643baf59004c62f8836ab",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": [
   "2022",

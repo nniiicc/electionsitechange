@@ -1,3 +1,4 @@
-California’s Congressional maps have been redrawn for the 2026 election.
+About Doris Issues Endorsements News Get Involved District 7 Media Contact About Doris Issues Endorsements News Get Involved District 7 Media Contact DONATE CA 7th Congressional District Maps Redrawn for 2026 California’s Congressional maps have been redrawn for the 2026 election.
 The 7th District now includes Sacramento, Elk Grove, Galt, Lodi, Placerville, and El Dorado.
 Use this handy tool to find out what district you are in – just enter your address in the search bar, or zoom into your location.
+MAKE A CONTRIBUTION $15 $25 $50 $100 ANY AMOUNT About Doris Issues Endorsements News Get Involved District 7 Media Contact About Doris Issues Endorsements News Get Involved District 7 Media Contact Facebook X-twitter Instagram Flickr © # ALL RIGHTS RESERVED ••• PAID FOR BY MATSUI FOR CONGRESS Privacy Policy

@@ -1,14 +1,54 @@
 [
-"https://electchriselder.com/",
-"https://electchriselder.com/contact",
-"https://electchriselder.com/donate",
-"https://electchriselder.com/endorse",
-"https://electchriselder.com/endorsements",
-"https://electchriselder.com/issues",
-"https://electchriselder.com/meet-chris",
-"https://electchriselder.com/volunteer",
-"https://facebook.com/ElectChrisElder",
-"https://instagram.com/electchriselder",
-"https://linkedin.com/in/respectthyelder",
-"https://youtube.com/@ElectChrisElder"
+{
+"text": "CONTACT",
+"href": "https://www.electchriselder.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.electchriselder.com/donate"
+},
+{
+"text": "ENDORSE",
+"href": "https://www.electchriselder.com/endorse"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.electchriselder.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.electchriselder.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.electchriselder.com/issues"
+},
+{
+"text": "MEET CHRIS",
+"href": "https://www.electchriselder.com/meet-chris"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.electchriselder.com/volunteer"
+},
+{
+"text": "[image: Chris ElderLogono Add.jpg]",
+"href": "https://www.electchriselder.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ElectChrisElder"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electchriselder/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/respectthyelder/"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@ElectChrisElder"
+}
 ]

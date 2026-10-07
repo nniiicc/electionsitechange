@@ -1,20 +1,13 @@
-Del.
-Lewis announces public forum on cancelled Hopkins Medicare Advantage plans
-BALTIMORE, MD (December 8, 2021) — State Delegate Robbyn Lewis announces a virtual public forum to provide assistance to Baltimore City residents whose Hopkins Advantage MD plans were cancelled.
+Skip to content RobbynLewis.com About Open menu Priorities Robbyn’s Story Services Open menu Request Help About District 46 Initiatives Open menu Livable Streets Coalition Zero Waste Task Force Press Donate Press Releases Del.
+Lewis announces public forum on cancelled Hopkins Medicare Advantage plans BALTIMORE, MD (December 8, 2021) — State Delegate Robbyn Lewis announces a virtual public forum to provide assistance to Baltimore City residents whose Hopkins Advantage MD plans were cancelled.
 Hopkins Advantage MD plans are issued by Hopkins Health Advantage Inc., a Maryland health insurer affiliated with Johns Hopkins Medicine.
 Approximately 6,000 Baltimoreans – that’s nearly 1 in 10… Continue reading Del.
-Lewis announces public forum on cancelled Hopkins Medicare Advantage plans
-Del.
-Robbyn Lewis announces the Second Annual Patterson Park Pride Picnic
-BALTIMORE, MD (June 25, 2021) — State Delegate Robbyn Lewis announces the second annual Patterson Park Pride Picnic.
+Lewis announces public forum on cancelled Hopkins Medicare Advantage plans Published December 8, 2021 Categorized as Health Care , News , Press Releases , Public Health Del.
+Robbyn Lewis announces the Second Annual Patterson Park Pride Picnic BALTIMORE, MD (June 25, 2021) — State Delegate Robbyn Lewis announces the second annual Patterson Park Pride Picnic.
 This unique, community-driven event responds to an expressed need for recognition and celebration that was expressed by LGBTQ residents living in the Patterson Park area.
 Due to COVID-related restrictions, many of Baltimore’s annual Pride events have been cancelled.… Continue reading Del.
-Robbyn Lewis announces the Second Annual Patterson Park Pride Picnic
-State Legislators Take to the Streets for the Census
-BALTIMORE, MD (September 25, 2020) — Delegate Robbyn Lewis has led District-wide, door-to-door canvassing for the Census for the past two months in order to ensure a complete count before the Trump administration’s premature end date of September 30th.
-Today’s federal court order strikes down Trump’s order and requires the Census Bureau to continue the national… Continue reading State Legislators Take to the Streets for the Census
-Del.
-Robbyn Lewis announces creation of Livable Streets Coalition
-BALTIMORE, MD (July 17, 2020) — State Delegate Robbyn Lewis announces the creation of the Livable Streets Coalition, a multi-racial, English-Spanish bilingual, community-based collective formed to empower residents to improve conditions in their neighborhood streets, sidewalks and public spaces.
+Robbyn Lewis announces the Second Annual Patterson Park Pride Picnic Published June 25, 2021 Categorized as Civil Rights , Press Releases State Legislators Take to the Streets for the Census BALTIMORE, MD (September 25, 2020) — Delegate Robbyn Lewis has led District-wide, door-to-door canvassing for the Census for the past two months in order to ensure a complete count before the Trump administration’s premature end date of September 30th.
+Today’s federal court order strikes down Trump’s order and requires the Census Bureau to continue the national… Continue reading State Legislators Take to the Streets for the Census Published September 25, 2020 Categorized as Census , Press Releases Del.
+Robbyn Lewis announces creation of Livable Streets Coalition BALTIMORE, MD (July 17, 2020) — State Delegate Robbyn Lewis announces the creation of the Livable Streets Coalition, a multi-racial, English-Spanish bilingual, community-based collective formed to empower residents to improve conditions in their neighborhood streets, sidewalks and public spaces.
 This group is unique, because it is the first multiracial, grassroots group in Baltimore formed to address systemic… Continue reading Del.
-Robbyn Lewis announces creation of Livable Streets Coalition
+Robbyn Lewis announces creation of Livable Streets Coalition Published July 17, 2020 Categorized as Press Releases Page 1 of 1 @robbynlewis46th @robbynlewis46th info@robbynlewis.com 410.929.0555 Privacy Policy Authority: Friends of Robbyn Lewis, Tracey Lynn Lewis, Treasurer

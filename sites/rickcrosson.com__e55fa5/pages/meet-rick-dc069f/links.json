@@ -1,23 +1,94 @@
 [
-"https://bsky.app/profile/rickcrosson.bsky.social",
-"https://facebook.com/crossonforcongress",
-"https://google.com/maps/search?api=1&query=P.O.+Box+11321%2C+Green+Bay%2C+WI+54307",
-"https://instagram.com/rickcrossonforcongress",
-"https://rickcrosson.com/",
-"https://rickcrosson.com/contact",
-"https://rickcrosson.com/endorsements",
-"https://rickcrosson.com/get-involved",
-"https://rickcrosson.com/meet-rick",
-"https://rickcrosson.com/news-and-media",
-"https://rickcrosson.com/priorities",
-"https://rickcrosson.com/website-policies",
-"https://secure.actblue.com/donate/crosson-primary",
-"https://secure.actblue.com/donate/crosson-primary?amount=100",
-"https://secure.actblue.com/donate/crosson-primary?amount=25",
-"https://secure.actblue.com/donate/crosson-primary?amount=250",
-"https://secure.actblue.com/donate/crosson-primary?amount=5",
-"https://secure.actblue.com/donate/crosson-primary?amount=50",
-"https://threads.com/@rickcrossonforcongress",
-"https://tiktok.com/@rickcrossonforcongress",
-"https://youtube.com/@RickCrossonForCongress"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/crosson-primary?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/crosson-primary?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/crosson-primary?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/crosson-primary?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/crosson-primary?amount=50"
+},
+{
+"text": "Contact",
+"href": "https://rickcrosson.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/crosson-primary"
+},
+{
+"text": "Endorsements",
+"href": "https://rickcrosson.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://rickcrosson.com/get-involved/"
+},
+{
+"text": "Meet Rick",
+"href": "https://rickcrosson.com/meet-rick/"
+},
+{
+"text": "News & Media",
+"href": "https://rickcrosson.com/news-and-media/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/crosson-primary"
+},
+{
+"text": "P.O. Box 11321, Green Bay, WI 54307",
+"href": "https://www.google.com/maps/search/?api=1&query=P.O.+Box+11321%2C+Green+Bay%2C+WI+54307"
+},
+{
+"text": "Priorities",
+"href": "https://rickcrosson.com/priorities/"
+},
+{
+"text": "Website Policies",
+"href": "https://rickcrosson.com/website-policies/"
+},
+{
+"text": "[image: Rick Crosson for Congress]",
+"href": "https://rickcrosson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/rickcrosson.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/crossonforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rickcrossonforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@rickcrossonforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@rickcrossonforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RickCrossonForCongress"
+},
+{
+"text": "info@rickcrosson.com",
+"href": "mailto:info@rickcrosson.com"
+}
 ]

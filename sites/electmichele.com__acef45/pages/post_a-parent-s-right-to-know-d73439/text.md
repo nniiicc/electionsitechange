@@ -1,6 +1,7 @@
-A Parent’s Right to Know
-In 2024, the Tennessee General Assembly affirmed a simple but essential principle: parents have the right to access their child’s medical records.
-That principle was codified in the Family Rights and Responsibilities Act, recognizing that parents are not outsiders in their children’s lives.
+top of page Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items.
+DONATE SUPPORT MICHELE'S FIGHT FOR CONSERVATIVE VALUES All Posts Search A Parent’s Right to Know electmichele Mar 24 3 min read In 2024, the Tennessee General Assembly affirmed a simple but essential principle: parents have the right to access their child’s medical records.
+That principle was codified in the Family Rights and Responsibilities Act , recognizing that parents are not outsiders in their children’s lives.
 They are responsible for their care, their safety, and their well-being.
 However not all sections of Tennessee law were updated to reflect that standard.And when the law is inconsistent, families pay the price.
 I was contacted by an attorney representing a Tennessee mother in Williamson County.
@@ -39,6 +40,6 @@ It does not answer every question about treatment authority.
 But it ensures that parents are no longer operating in the dark.
 And that is where we must start.
 Because parents cannot protect what they are not allowed to see.
-Rep Michele Reneau
-TN House District 27
-HB853 passed Health subcommittee by a 5-2 vote and is on notice be heard in Health Full committee on 3/24/26.
+Rep Michele Reneau TN House District 27 HB853 passed Health subcommittee by a 5-2 vote and is on notice be heard in Health Full committee on 3/24/26.
+Recent Posts See All Citizen's Voices: A Digital Collection of Community Op-Eds Legislative Recap: Investments in Rural Tennessee and Hamilton County Legislative Recap: Protecting Women - The Riley Gaines Women's Safety and Protection Act © # Paid for by Friends to Elect Michele Reneau, Treasurer Laura Davis EMAIL MICHELE Terms of Use | Privacy Policy Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items. bottom of page

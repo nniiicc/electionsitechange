@@ -1,27 +1,15 @@
-Health & Well-being
-Affordable, connected care for Maryland families
-Health, access, dignity, and prevention
-Every neighbor deserves affordable healthcare that treats the whole person.
+Working Together, Works Best!
+Call: (443) 353-9501 Donate Home About Issues & Priorities Education Healthcare Public Safety Get Involved Health & Well-being Affordable, connected care for Maryland families Health, access, dignity, and prevention Every neighbor deserves affordable healthcare that treats the whole person.
 Delegate Sandy Bartlett supports practical policies that expand primary care, strengthen mental health, reduce prescription costs, and coordinate services so families in District 32 can access quality providers close to home.
 Our priorities include more local clinics and mobile care, community health workers, telehealth, and integrated behavioral health.
 We invest in maternal and infant health, cancer screening, and substance use recovery.
 We also protect patient privacy, language access, and transportation assistance so Laurel and Anne Arundel families can get care without delay or confusion.
-Access that works for families
-Healthcare should be simple to navigate and available when needed.
-We expand capacity, reduce wait times, coordinate referrals, and streamline enrollment so families receive preventive, urgent, and follow-up care without obstacles or costs.
-Primary Care
-Mental Health
-Prescription Relief
-Telehealth Access
-Community Clinics
-Care for every stage
-Health needs change across a lifetime, so care must adapt.
-We focus on maternal and infant health, chronic disease management, aging with dignity, and access for people with disabilities, veterans, and caregivers shouldering responsibilities.
-Maternal Health
-Infant Wellness
-Chronic Care
-Senior Support
-Disability Access
-Share your healthcare needs and ideas
-Have feedback, challenges, or solutions to share?
+Access that works for families Healthcare should be simple to navigate and available when needed.
+We expand capacity, reduce wait times, coordinate referrals, and streamline enrollment so families receive preventive, urgent, and follow-up care without obstacles or costs.  Primary Care Expand clinic hours, same day appointments, and neighborhood sites so families get timely preventive and urgent care.  Mental Health Integrate behavioral health in primary care, expand school counselors, and fund crisis response with follow-up support.  Prescription Relief Cap out-of-pocket costs, increase generic competition, and simplify assistance programs so medications remain affordable.  Telehealth Access Ensure broadband, multilingual platforms, and reimbursement parity so telehealth complements in-person care without inequities.  Community Clinics Support mobile clinics and community health workers delivering screenings, vaccinations, and navigation services across underserved neighborhoods.
+Care for every stage Health needs change across a lifetime, so care must adapt.
+We focus on maternal and infant health, chronic disease management, aging with dignity, and access for people with disabilities, veterans, and caregivers shouldering responsibilities.  Maternal Health Expand prenatal care, postpartum support, doula programs, and lactation services with transportation and translation assistance.  Infant Wellness Increase screenings, early interventions, safe sleep education, and home visiting to strengthen healthy development and family stability.  Chronic Care Coordinate primary care, pharmacy, nutrition, and community programs to manage diabetes, heart disease, asthma, and prevent complications.  Senior Support Invest in aging in place, caregiver respite, fall prevention, and housing so older adults remain safe and independent.  Disability Access Improve accommodations, coordinated services, and opportunities so people with disabilities receive equitable care, employment pathways, and community inclusion.
+Share your healthcare needs and ideas Have feedback, challenges, or solutions to share?
 Tell us what’s working, what’s not, and how we can improve care across District 32 for every family.
+Get Involved Navigation Home About Get Involved Issues & Priorities Education & Jobs Health & Well-being Justice & Public Safety Designed by: Contact  [email protected]  (443) 353-9501  P.O.
+Box 336, Laurel, MD 20725 Follow Follow Copyright © 2026 Authorized By Citizens For Sandy Bartlett, Scott Bartlett Treasurer Delegate J.
+Sandy Bartlett — District 32

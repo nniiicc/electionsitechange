@@ -1,14 +1,54 @@
 [
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ApplicationInstructions.aspx",
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/BeginAbsenteeRequest.aspx",
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/VoterSearch.aspx",
-"https://facebook.com/wardengelkingdistrict18",
-"https://paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQJLM8HQT6KEA",
-"https://twitter.com/WardEngelking",
-"https://ward-engelking.com/",
-"https://ward-engelking.com/about-janie",
-"https://ward-engelking.com/contact",
-"https://ward-engelking.com/get-janies-newsletter",
-"https://ward-engelking.com/on-the-record",
-"https://ward-engelking.com/wp-content/uploads/2014/01/Janie-signature.jpg"
+{
+"text": "A Message From Janie",
+"href": "https://ward-engelking.com/"
+},
+{
+"text": "About Janie",
+"href": "https://ward-engelking.com/about-janie/"
+},
+{
+"text": "Check your registration status.",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/VoterSearch.aspx"
+},
+{
+"text": "Contact Janie / Get Involved!",
+"href": "https://ward-engelking.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQJLM8HQT6KEA"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/wardengelkingdistrict18"
+},
+{
+"text": "Get Janie’s Newsletter",
+"href": "https://ward-engelking.com/get-janies-newsletter/"
+},
+{
+"text": "Janie Ward-Engelking",
+"href": "https://ward-engelking.com/"
+},
+{
+"text": "On The Record",
+"href": "https://ward-engelking.com/on-the-record/"
+},
+{
+"text": "Register to vote.",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ApplicationInstructions.aspx"
+},
+{
+"text": "Request your mail-in ballot.",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/BeginAbsenteeRequest.aspx"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/WardEngelking"
+},
+{
+"text": "[image: Janie signature]",
+"href": "https://ward-engelking.com/wp-content/uploads/2014/01/Janie-signature.jpg"
+}
 ]

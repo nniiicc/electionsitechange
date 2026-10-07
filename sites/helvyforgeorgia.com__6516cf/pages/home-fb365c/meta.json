@@ -1,7 +1,11 @@
 {
  "description": "Official campaign website for Eric Helvy for State Senator District 38",
  "final_url": "https://www.helvyforgeorgia.com/home",
- "paid_for_by": null,
+ "fingerprint": "f81b4bf3c642cf922912cb871e09b62106cf33a4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Eric Helvy for State Senator District 38",
- "years_mentioned": []
+ "years_mentioned": [
+  "2000"
+ ]
 }

@@ -1,7 +1,11 @@
 {
  "description": "Write your news blurb here.",
  "final_url": "https://www.jentodd2026.us/news/listening-to-medical-evidence",
+ "fingerprint": "3d0f36dff59de9749a2265025ed62b84d685e1e4",
+ "format": 3,
  "paid_for_by": "Paid for by Friends for Jennifer Todd",
  "title": "Following medical evidence",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

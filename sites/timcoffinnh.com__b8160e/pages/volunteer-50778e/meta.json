@@ -1,7 +1,9 @@
 {
  "description": "Join Tim Coffin&#39;s volunteer campaign to collect signatures, get out the vote, and make a difference in the community!",
  "final_url": "https://timcoffinnh.com/volunteer",
- "paid_for_by": null,
+ "fingerprint": "0589d9b3777b33f50fa335b6c2dd3eb9b7817990",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Volunteer",
  "years_mentioned": []
 }

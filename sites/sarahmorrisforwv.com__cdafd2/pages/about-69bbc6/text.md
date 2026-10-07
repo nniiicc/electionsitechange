@@ -1,4 +1,11 @@
-Skip navigation menu
+Skip navigation menu About Issues Contact Donate Rooted Here.
+Fighting for you.
+Meet your neighbor.
+I'm Sarah Morris.
+About Issues Contact Donate Rooted Here.
+Fighting for you.
+Meet your neighbor.
+I'm Sarah Morris.
 I grew up in West Virginia.
 Like so many people my age, I had to leave to find opportunity.
 Not because I wanted to, but because the jobs I trained for didn't exist here.
@@ -11,3 +18,4 @@ I'm running for the West Virginia House of Delegates because too many decisions 
 District 47 deserves a representative who understands that policy isn't abstract.
 It's personal.
 And I will fight for working families with honesty, transparency and respect.
+Privacy Policy If donating by mail, make checks payable to: Sarah Morris for WV | PO Box 525 Lewisburg, WV 24901 Powered by RUN! website builder PAID FOR BY SARAH MORRIS FOR WV You need to enable JavaScript to run this app.

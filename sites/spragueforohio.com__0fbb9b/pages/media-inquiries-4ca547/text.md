@@ -1,2 +1,3 @@
-Media Inquiries
-For media inquiries or interview requests regarding Robert Sprague’s campaign for Ohio Secretary of State, please use the form below or connect with us on social media.
+0 Skip to Content Robert's Story Election Security Endorsements Volunteer DONATE Open Menu Close Menu Robert's Story Election Security Endorsements Volunteer DONATE Open Menu Close Menu Robert's Story Election Security Endorsements Volunteer DONATE Media Inquiries For media inquiries or interview requests regarding Robert Sprague’s campaign for Ohio Secretary of State, please use the form below or connect with us on social media.
+Trusted, Uncompromised elections.
+DONATE VOLUNTEER Text Opt-in Robert’s Story Election Security Endorsements Media Inquiries Privacy Policy Terms and Conditions Paid for by Sprague for Ohio

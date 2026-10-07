@@ -1,9 +1,12 @@
 {
- "description": "If you want to link an external news source, use the \u201clink\u201d icons on the sidebar. Anything linked externally will automatically be listed as \u201cnews\u201d and any article you create on the site itself will\u2026",
+ "description": "If you want to link an external news source, use the “link” icons on the sidebar. Anything linked externally will automatically be listed as “news” and any article you create on the site itself will…",
  "final_url": "https://www.rasconforsenate.com/news/advocate-sarah-rascon-seeks-state-senate-seat",
+ "fingerprint": "7f267adabf1f576e7bae00832ef2375b0d63749a",
+ "format": 3,
  "paid_for_by": "Paid for by Rascon for State Senate 2026 FPPC #1481478 249 E",
- "title": "Environmental advocate Sarah Rasc\u00f3n seeks state Senate seat representing parts of Northeast LA",
+ "title": "Environmental advocate Sarah Rascón seeks state Senate seat representing parts of Northeast LA",
  "years_mentioned": [
+  "2025",
   "2026"
  ]
 }

@@ -1,4 +1,7 @@
-On Monday, May 4th, the organization that is backing Scott Crouch made phone calls to many of the Republicans living in House of Delegates District 74 and on Tuesday many Republicans will be receiving a mailer from the same group with more lies and false information.
+Navigation Meet Guy Issues Updates Endorsements Volunteer Donate Contact Meet Guy Issues Updates Endorsements Volunteer Donate Contact News How stupid is the group called Make Liberty Win?
+Evidently, very stupid and they tell nothing but lies!
+It’s time to set the record straight once again.
+Guy Ward May 5, 2026 News , Uncategorized On Monday, May 4th, the organization that is backing Scott Crouch made phone calls to many of the Republicans living in House of Delegates District 74 and on Tuesday many Republicans will be receiving a mailer from the same group with more lies and false information.
 To begin with, this organization is not made up of Republicans.
 It’s made up of Libertarians who masquerade as Republicans.
 In the phone message, the person speaking, falsely called Delegate Guy Ward an Anti-gun Republican.
@@ -13,3 +16,4 @@ This is all about Libertarians trying to control the West Virginia Legislature.
 Their goal is to install puppets that will do what they’re told to do and if that puppet doesn’t perform they’ll find a new puppet next election.
 Vote for honesty.
 Re-elect Guy Ward for House of Delegates.
+Facebook RSS Meet Guy Issues Updates Endorsements Volunteer Donate Contact Paid for by the Committee to Elect Guy Ward 45 Timrod Dr.| Whitehall, WV 26554

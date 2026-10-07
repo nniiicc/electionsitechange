@@ -1,44 +1,26 @@
-Meet Brandon
-Brandon Herrera is an entrepreneur, Second Amendment activist, and social media personality running for Congress in Texas’s 23rd District.
+Skip to content See Our Event Schedule Volunteer Donate Open main menu Issues Border Security Economy Serving Veterans Second Amendment Protecting Women’s Sports Pro-Life Term Limits Education Foreign Policy Make America Healthy Again Healthcare Supporting Trump Vote News General Updates Press Releases Events Endorsements View Endorsements Veteran Endorsement Volunteer Donate Donate Home Meet Brandon On The Issues Campaign News Upcoming Events Endorsements Veteran Endorsement Voting Information Donate to help the campaign Volunteer for the campaign Follow the campaign on Facebook Follow the campaign on Instagram Secure the Southern Border Practical steps to improve safety and order in TX-23.
+Read Brandon's Border Priorities Serve Those Who Served Better access and support for veterans and their families.
+Read Brandon’s Plan For Veterans Protect the Second Amendment Fighting for national concealed carry reciprocity—not just to protect, but to enhance your gun rights.
+Read Brandon’s Gun Rights Plan Cutting Taxes, Spending, and Regulation Brandon pledges no new taxes, will cut waste, back the REINS Act, and put Texans first.
+Read Brandon's Economic Policies Meet Brandon Brandon Herrera is an entrepreneur, Second Amendment activist, and social media personality running for Congress in Texas’s 23rd District.
+Shaped by deep Texas roots with family originating in Texas, including his Hispanic heritage, and both parents from military families, he pursued studies in Pre-Law before focusing on starting a small business in firearm manufacturing.
 Using a lifelong passion for firearms, he built his business as well as a large social media following.
 Accumulating over half a billion views using entertainment to promote firearm safety and Second Amendment advocacy, he has become a leader in the industry.
-Learn More About Brandon Watch Brandon's Announcement Video
-Brandon’s Vision
-After increased frustration over government overreach during the COVID lockdowns of 2020, Brandon came back to his roots and moved to Texas for good, bringing his businesses and employees along with him.
-He works with pro-freedom groups both in the Second Amendment community and otherwise, including notable partners such as the National Association for Gun Rights, the Firearm Policy Coalition, Gun Owners of America, and Young Americans for Liberty.
+Learn More About Brandon Watch Brandon's Announcement Video Get Involved Join the team—knock doors, deliver signs, and help spread the word in TX‑23.
+On The Issues Explore Brandon’s priorities on the border, gun rights, veterans, and more.
+Vote Locate your polling place and stay informed of important voting dates.
+Brandon’s Vision After increased frustration over government overreach during the COVID lockdowns of 2020, Brandon came back to his roots and moved to Texas for good, bringing his businesses and employees along with him.
+He works with pro-freedom groups both in the Second Amendment community and otherwise, including notable partners such as the National Association for Gun Rights , the Firearm Policy Coalition , Gun Owners of America , and Young Americans for Liberty .
 Brandon is a very strong constitutionalist who believes one of the keys to individual Liberty is limiting federal power as much as possible, and returning that power to the states to decide issues for themselves.
-Proudly Endorsed By
-President Donald J.
-Trump
-"Brandon Herrera has my Complete and Total Endorsement to be the next Representative from Texas' 23rd Congressional District — HE WILL NEVER LET YOU DOWN!"
-Proudly Endorsed By
-President Donald J.
-Trump
-"Brandon Herrera has my Complete and Total Endorsement to be the next Representative from Texas' 23rd Congressional District — HE WILL NEVER LET YOU DOWN!"
-Top Issues in TX-23
-Live Results
--
--
-2 Border Security 78
--
-3 Cost of Living (food, necessities, auto insurance) 72
--
-4 Socialism 56
--
-5 Economy 56
-Live in TX-23?
+Proudly Endorsed By President Donald J.
+Trump "Brandon Herrera has my Complete and Total Endorsement to be the next Representative from Texas' 23rd Congressional District — HE WILL NEVER LET YOU DOWN!" View Full Endorsement Proudly Endorsed By President Donald J.
+Trump "Brandon Herrera has my Complete and Total Endorsement to be the next Representative from Texas' 23rd Congressional District — HE WILL NEVER LET YOU DOWN!" View Full Endorsement Top Issues in TX-23 Live Results 1 Second Amendment 85 2 Border Security 78 3 Cost of Living (food, necessities, auto insurance) 74 4 Economy 57 5 Socialism 56 Texas's 23rd Congressional District Live in TX-23?
 We're Listening.
 Whether you've made it to a town hall or not, your voice belongs in this campaign.
 Tell us what matters most to you — and see what your neighbors are already saying.
-Get Email Updates
-Latest News
-Stay updated with the latest news and insights from Brandon Herrera's campaign.
-Upcoming Events
-Join Team Herrera at upcoming events and Meet Brandon at events around the district.
-Sign Wave + Sign Pickup Hosted by Brandon Herrera
-Sign Wave + Sign Pickup Hosted by Brandon Herrera
-Bexar County Town Hall – Parker’s Ice Cream
-Maverick County Town Hall – Maverick County Lake Pavilion
-Campaign Gallery
-Explore media from Brandon Herrera's campaign trail, events, and community engagements.
+Take the Voter Survey Get Email Updates Subscribe Latest News Stay updated with the latest news and insights from Brandon Herrera's campaign.
+Herrera Campaign Announces $# Raised in Q3 October 6, 2026 • Press Releases Herrera Applauds Pause on Big Bend Border Construction August 18, 2026 • Press Releases Herrera Breaks $600K in First Half of Q3, Reserves $1.7 Million Ad Buy August 17, 2026 • Press Releases View All Campaign News Upcoming Events Join Team Herrera at upcoming events and Meet Brandon at events around the district.
+10 Oct Sign Wave + Sign Pickup Hosted by Brandon Herrera 10:00 AM - 11:00 AM CST • Volunteer Event 17 Oct Sign Wave + Sign Pickup Hosted by Brandon Herrera 10:00 AM - 11:00 AM CST • Volunteer Event 19 Oct Bexar County Town Hall – Parker’s Ice Cream 11:00 AM - 12:00 PM CST • Town Hall 21 Oct Maverick County Town Hall – Maverick County Lake Pavilion 6:30 PM - 7:30 PM CST • Town Hall View All Campaign Events Support Brandon's Campaign Your donation will help us bring new leadership to Texas' 23rd Congressional District and fight for actual conservative values in Congress. $# $# $# $# $#,# $#,# $#,# Other Campaign Gallery Explore media from Brandon Herrera's campaign trail, events, and community engagements.
 Get a closer look at the moments that define our journey to bring actual conservative values to Congress, and see how you can be a part of this movement.
+Join Our Grassroots Volunteer Team Home Issues Vote News Events Volunteer Donate Paid for by the Brandon Herrera Victory Committee A Joint Fundraising Committee Including Brandon Herrera for Congress and BRANDON PAC Click here to read our joint fundraising notice.
+Brandon Herrera For Congress 11844 Bandera Rd, Box 499, Helotes, TX 78023 info@brandonherreraforcongress.com Phone: (210) 940-9274

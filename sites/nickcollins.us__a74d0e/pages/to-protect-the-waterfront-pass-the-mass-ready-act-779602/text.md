@@ -1,4 +1,4 @@
-Nick Collins, “Seaport Growth Requires Climate Action,” Boston Guardian, April 17, 2026.
+Skip to content Menu Menu Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate Menu Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate To Protect the Waterfront Pass the Mass Ready Act April 23, 2026 April 20, 2026 Nick Collins, “Seaport Growth Requires Climate Action,” Boston Guardian, April 17, 2026 .
 Few neighborhoods in Boston have changed as quickly as the Seaport.
 What was once wide open is now one of the city’s most sought-after places to live and visit, a transformation I’ve seen firsthand over more than a decade representing this neighborhood.
 With that growth comes a new responsibility.
@@ -23,3 +23,7 @@ It also advances critical planning and engineering work in Dorchester, from Dave
 Together, these investments strengthen flood protection and reflect a more comprehensive approach to climate resilience.
 This is not about one project or one neighborhood, but about protecting our city’s entire coastline.
 Passing the Mass Ready Act moves us beyond planning and ensures we build the infrastructure it takes to be a resilient Boston.
+Contact Committee to Elect Nick Collins P.O.
+Box E-51 South Boston, MA 02127 Connect © # Massachusetts State Senator Nick Collins.
+All Rights Reserved.
+Close Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate

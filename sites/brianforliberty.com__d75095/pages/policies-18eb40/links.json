@@ -1,9 +1,34 @@
 [
-"https://brianforliberty.com/",
-"https://brianforliberty.com/about",
-"https://brianforliberty.com/cart",
-"https://brianforliberty.com/contact",
-"https://brianforliberty.com/policies",
-"https://brianforliberty.com/privacy-policy",
-"https://kaizenstudiodesigns.com/"
+{
+"text": "0",
+"href": "https://www.brianforliberty.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.brianforliberty.com/about"
+},
+{
+"text": "Brian for Liberty",
+"href": "https://www.brianforliberty.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.brianforliberty.com/contact"
+},
+{
+"text": "Crafted by Kaizen Studio Design",
+"href": "https://kaizenstudiodesigns.com"
+},
+{
+"text": "Home",
+"href": "https://www.brianforliberty.com/"
+},
+{
+"text": "Policies",
+"href": "https://www.brianforliberty.com/policies"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.brianforliberty.com/privacy-policy"
+}
 ]

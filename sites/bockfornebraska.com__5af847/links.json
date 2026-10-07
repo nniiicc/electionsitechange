@@ -1,10 +1,46 @@
 [
-"https://bockfornebraska.com/",
-"https://bockfornebraska.com/about-janet",
-"https://bockfornebraska.com/cart",
-"https://bockfornebraska.com/contact",
-"https://bockfornebraska.com/priorities",
-"https://bockfornebraska.com/volunteer",
-"https://facebook.com/profile.php?id=61576473597025",
-"https://secure.actblue.com/donate/janet-bock-1"
+{
+"text": "0",
+"href": "https://www.bockfornebraska.com/cart"
+},
+{
+"text": "About Janet",
+"href": "https://www.bockfornebraska.com/about-janet"
+},
+{
+"text": "Contact",
+"href": "https://www.bockfornebraska.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/janet-bock-1"
+},
+{
+"text": "Home",
+"href": "https://www.bockfornebraska.com/"
+},
+{
+"text": "More about Janet",
+"href": "https://www.bockfornebraska.com/about-janet"
+},
+{
+"text": "Priorities",
+"href": "https://www.bockfornebraska.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bockfornebraska.com/volunteer"
+},
+{
+"text": "[image: Janet Bock for Nebraska]",
+"href": "https://www.bockfornebraska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576473597025"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@bockfornebraska.com"
+}
 ]

@@ -1,6 +1,5 @@
-Headlines vs.
-Reality: Preserving Civil Rights
-The second plank in the GOP platform is "Preserve Civil Rights." Let's get into it.
+Skip to Content Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store Headlines vs.
+Reality: Preserving Civil Rights Jul 16 Written By Brian Walker The second plank in the GOP platform is "Preserve Civil Rights." Let's get into it.
 Some of this I don't have a problem with.
 Requiring care for infants born alive during an abortion, recognizing there are biological differences between males and females, condemning antisemitism, fine.
 Nothing there to argue about.
@@ -39,8 +38,7 @@ That's not abstract right now.
 The U.S.
 Attorney General has already sent our governor a letter demanding our unredacted voter data, and she sent it the same weekend federal immigration agents shot and killed a man in Minneapolis.
 State attorneys have called it an attempt to force the state's hand using the ICE operation as leverage.
-Whatever you think of the ICE fight, handing our voter rolls to Washington on cue isn't "election integrity."
-Equal treatment under the law sounds good in the headline.
+Whatever you think of the ICE fight, handing our voter rolls to Washington on cue isn't "election integrity." Equal treatment under the law sounds good in the headline.
 The specifics tell you who it actually applies to, and who's being pressured to comply.
 Last thing, and I want to handle this one on its own: the right to bear arms.
 I own guns.
@@ -51,4 +49,9 @@ No registration, no permit needed, broader legal cover for using deadly force â€
 You can believe in the right to life and still ask what we're doing to protect kids sitting in a classroom.
 Right now the answer is nothing.
 I'll have more to say on this specific issue in a future post, because it deserves its own space, not a paragraph at the end of somebody else's.
-Brian Walker
+Brian Walker Brian Walker Previous Previous Republicans Anonymous Next Next Headlines vs.
+Reality: Economic Prosperity Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Leave us your email to stay informed Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Privacy Policy Paid for by Walker Forward PO Box 321 Anoka, MN 55303 campaign@walkerforward.com (651) 308-2116 EIN : 42-2622637 Walker Forward.

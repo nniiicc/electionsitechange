@@ -1,51 +1,24 @@
-BACKED BY COMMUNITY, LOCAL & BUSINESS LEADERS
-Featured Endorsments
-Individual Endorsements
-- State Representative Michelle Caldier - Valdez
-- Former State Representative Spencer Hutchins
-- Bruce Dammeier, Former State Senator, Former Pierce County Executive
-- Senator Jan Angel, Retired
-- Le Rodenberg, Gig Harbor City Council
-- Seth Storset, Former Gig Harbor Councilman
-- Jim Henderson, Community Leader & Business Owner
-- John Morrissey, Port Orchard City Council
-- Eric Worden, Port Orchard City Council Member
-- Carol Kowlaski, Community Leader
-- State Representative Travis Couture
-- Past State Representative Kelly Chambers
-- Senator Drew MacEwen
-- State Representative April Connors
-- State Representative Suzanne Schmidt
-- State Representative Drew Stokesbary
-- State Representative Kevin Waters
-- State Representative Sam Low
-- State Representative Chris Corry
-- State Representative Skyler Rude
-- State Representative Mike Steele
-- State Representative Dan Griffey
-- State Representative Mark Klicker
-- State Representative Joel McEntire
-- State Representative Alex Ybarra
-- Heidi Fenton, Port Orchard City Councilwoman
-Individuals
-- State Representative Matt Marshall
-- Shawn Jensen, Key Peninsula Fire Commissioner, Key Peninsula Parks Commissioner
-- Gary Anderson, Port of Bremerton
-- Marilyn Jensen, Community Leader
-- Sam Reed, Former Secretary State
-- Brian Thomas, Former State Representative
-Individual Organization Endorsements
-- Pierce County Republican Party
-- Kitsap County Republican Party
-- Young Republicans of Washington
-- Key Peninsula Firefighters
-- Master Builders Association of Pierce County
-- Tacoma Pierce County Association of Realtors
-- Kitsap County Association of Realtors
-- AGC, Association of General Contractors
-- AWB, Association of Washington Businesses
-- Washington Hospitality Association
-- APRN of Washington
-- Tommy’s Story Hour
-Endorse Katy
-BACKED BY COMMUNITY, LOCAL & BUSINESS LEADERS
+0 Skip to Content Meet Katy Endorsements Platform Be Involved Events Donate Open Menu Close Menu Meet Katy Endorsements Platform Be Involved Events Donate Open Menu Close Menu Meet Katy Endorsements Platform Be Involved Events Donate BACKED BY COMMUNITY, LOCAL & BUSINESS LEADERS Endorse Katy Featured Endorsments State Representative Michelle Caldier “I have had a chance to get to know Katy Cornell; who she is, her work ethic, her integrity and her love for this community.
+I cannot think of a better personto succeed me.
+I'm proud to endorse Katy Cornell and confident she'll build on the foundation with fresh energy, practical solutions, and the common-sense leadership our district needs.” Former State Representative Spencer Hutchins “More than ever we need bridge builders, problem solvers, and fresh thinkers in Olympia.
+Katy Cornell is all of these.
+She has energy and insight, and will represent all of us with integrity.
+I am grateful that Katy has stepped forward to lead and serve.” Key Peninsula Firefighters of IAFF Local 3152 “Your willingness to engage directly with our membership demonstrated a commitment to the priorities of working families, first responders, and the communities we serve." Tommy Debord "I am proud to announce that I’m endorsing Katy for 26th District State Representative.
+Even though I’m a Democrat through and through, I have to support someone who truly believes in the disability community.
+I’m also endorsing Daria for 23rd District State Representative in the other race.
+These are two of my good friends who I believe will help change Washington State for the disabled and for the better.
+I’m doing this because I care deeply about both of these wonderful people, and I look past Republican and Democrat labels when it comes to people who truly care about disability rights. " Le Rodenberg “I am proud to endorse Katy Cornell for the 26th District House of Representatives, Position 2.
+Katy has shown she can work collaboratively even in difficult, high-pressure situations.
+She listens, brings people together, and keeps discussions productive.
+Her commitment to honesty, transparency, and fiscal responsibility gives me confidence in her leadership.
+Katy approaches every challenge with integrity and a clear focus on the community's long-term well-being.” Seth Storset “Katy leads with compassion, conviction, and a deep commitment to serving others.
+Her lifelong roots in the 26th District, combined with her experience as a nonprofit leader, pastor, wife, and mother, make her a strong voice for families, public safety, and greater opportunities for our communities.” Senator Jan Angel, Retired “l am proud to endorse Katy Cornell for State Representative of the 26th district.
+Katy's education, with a master's degree in leadership and a minor in psychology, combined with her worldly experience in caring and serving people will provide a strong foundation to well serve the people of the 26th district.” Tacoma-Pierce County Association of Realtors "Katy Cornell's thoughtful approach to housing, property rights, and supply-focused solutions aligns with the priorities of REALTORS® and the communities we serve.." Affordable Housing Council "Housing affordability is one of the biggest challenges facing families in our region, and we need leaders in Olympia who understand that we cannot make housing more affordable by making it harder and more expensive to build." Individual Endorsements State Representative Michelle Caldier - Valdez Former State Representative Spencer Hutchins Bruce Dammeier, Former State Senator, Former Pierce County Executive Senator Jan Angel, Retired Le Rodenberg, Gig Harbor City Council Seth Storset, Former Gig Harbor Councilman Jim Henderson, Community Leader & Business Owner John Morrissey, Port Orchard City Council Eric Worden, Port Orchard City Council Member Carol Kowlaski, Community Leader State Representative Travis Couture Past State Representative Kelly Chambers Senator Drew MacEwen State Representative April Connors State Representative Suzanne Schmidt State Representative Drew Stokesbary State Representative Kevin Waters State Representative Sam Low State Representative Chris Corry State Representative Skyler Rude State Representative Mike Steele State Representative Dan Griffey State Representative Mark Klicker State Representative Joel McEntire State Representative Alex Ybarra Heidi Fenton, Port Orchard City Councilwoman Individuals State Representative Matt Marshall Shawn Jensen, Key Peninsula Fire Commissioner, Key Peninsula Parks Commissioner Gary Anderson, Port of Bremerton Marilyn Jensen, Community Leader Sam Reed, Former Secretary State Brian Thomas, Former State Representative Individual Organization Endorsements Pierce County Republican Party Kitsap County Republican Party Young Republicans of Washington Key Peninsula Firefighters Master Builders Association of Pierce County Tacoma Pierce County Association of Realtors Kitsap County Association of Realtors AGC, Association of General Contractors AWB, Association of Washington Businesses Washington Hospitality Association APRN of Washington Tommy’s Story Hour Endorse Katy BACKED BY COMMUNITY, LOCAL & BUSINESS LEADERS Endorse Katy Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Your support helps ensure we can Fix what’s Broken and Protect what Matters.
+Every dollar helps us reach voters across the 26th District and build a campaign focused on practical solutions that put people first.
+Plan to Vote Donate by Mail: P.O.
+Box 1111 Gig Harbor, WA 98335 Donate Contact 360-216-7400 Paid for by Friends of Katy Cornell (R) | P.O.
+Box 1111 Gig Harbor, WA 98335 Privacy Policy T exting Terms & Conditions Media

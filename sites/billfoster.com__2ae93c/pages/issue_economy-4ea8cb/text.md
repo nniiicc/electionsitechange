@@ -1,31 +1,34 @@
-Bill has served on the Financial Services Committee since entering Congress at the start of the financial collapse in March 2008.
+Contribute Now Make a donation to Bill Foster for Congress!
+Volunteer Contribute Meet Bill Business Career Science Career Congressional Career Family Professional Awards Issues Defending the Constitution Economy Science and Technology Healthcare Reproductive Freedom Immigration Reviving American Manufacturing Reducing Gun Violence Combating the Climate Crisis The Financial Crisis Reforming Wall Street Education Endorsements The District News Latest News Photo Gallery Economy Bill has served on the Financial Services Committee since entering Congress at the start of the financial collapse in March 2008.
 As a scientist and businessman, Bill was deeply involved in both the emergency response to rescue our economy, and the structural changes (namely, the Dodd-Frank Wall Street Reform Act) that set up fair rules of the road to prevent future crises that disproportionately hurt working families.
-Three economic issues recurred throughout Bill’s time in Congress:
-1 ) The proper scale of economic stimulus spending required to respond to emergencies like the Financial Crisis of 2008, or the COVID-19 pandemic, which must be balanced against the potential dangers of over-stimulating the economy and driving inflation or an eventual debt crisis.
+Three economic issues recurred throughout Bill’s time in Congress: 1 ) The proper scale of economic stimulus spending required to respond to emergencies like the Financial Crisis of 2008, or the COVID-19 pandemic, which must be balanced against the potential dangers of over-stimulating the economy and driving inflation or an eventual debt crisis.
 2) Long term economic stress from technological job displacement, global competition, and ill-considered changes in trade and tax policies that have tilted the playing field against American manufacturers and workers, and caused wealth to be redistributed to those at the very top.
 3) How best to shield those at the bottom of the economic ladder from economic crises, structural change, and systemic discrimination.
 As the son of a civil rights lawyer who represents a very diverse district, Bill understands the importance that our complex laws and financial regulations have on the real lives of those he represents.
-The Wealth of America
-The net worth of our country is essential to understanding constraints on taxes and spending.
-It has two main parts:
-1) The Net Worth of American Households, about $160 trillion as of 2025.
+The Wealth of America The net worth of our country is essential to understanding constraints on taxes and spending.
+It has two main parts: 1) The Net Worth of American Households , about $160 trillion as of 2025.
 2) The National Debt (eventually to be paid by taxpayers), about $35 trillion as of 2025.
-Important points:
-- The United States as a whole has a large positive total net worth:
-- Our country’s $160 trillion dollars in household wealth, minus $35 trillion in national debt, still leaves us with $125 trillion dollars
-($160T – $35T = $125T dollars)
-- In fact, our country’s net worth has been rising steadily since the Obama Recovery started in 2009
-- Household net worth is up over $100 trillion dollars, while the national debt has increased only about $25 trillion dollars
-- Over the last 15 years, our net worth has been rising more than 4x faster than our debt
-- There is no imminent debt crisis in the United States
-- Household wealth is disproportionately concentrated among the wealthiest Americans:
-- The Top 1% owns One-Third of America’s wealth
-- The Top 10% owns Two-Thirds of America’s wealth
-- The bottom half (150 Million Americans) holds just 2% of America’s wealth
-- There is more than enough money to retire our National Debt
-- The wealth of the top 1% could pay of the debt alone while still leaving them multimillionaires
-- The wealth of the top 10% could pay off the debt while still preserving 2/3 of their wealth
-- The entire wealth of the bottom 50% could not even make a dent on the National Debt
-- Lawmakers can protect the average American family’s household wealth in times of crisis only by providing adequate fiscal stimulus
-- During the 2008 financial crisis, American households lost over $10 trillion dollars, in large part because Tea Party Republicans prevented adequate fiscal stimulus
-- During the COVID-19 crisis, household wealth recovered more quickly due to adequate fiscal stimulus
+Important points: The United States as a whole has a large positive total net worth: Our country’s $160 trillion dollars in household wealth, minus $35 trillion in national debt, still leaves us with $125 trillion dollars ($160T – $35T = $125T dollars) In fact, our country’s net worth has been rising steadily since the Obama Recovery started in 2009 Household net worth is up over $100 trillion dollars, while the national debt has increased only about $25 trillion dollars Over the last 15 years, our net worth has been rising more than 4x faster than our debt There is no imminent debt crisis in the United States Household wealth is disproportionately concentrated among the wealthiest Americans: The Top 1% owns One-Third of America’s wealth The Top 10% owns Two-Thirds of America’s wealth The bottom half (150 Million Americans) holds just 2% of America’s wealth There is more than enough money to retire our National Debt The wealth of the top 1% could pay of the debt alone while still leaving them multimillionaires The wealth of the top 10% could pay off the debt while still preserving 2/3 of their wealth The entire wealth of the bottom 50% could not even make a dent on the National Debt Lawmakers can protect the average American family’s household wealth in times of crisis only by providing adequate fiscal stimulus During the 2008 financial crisis, American households lost over $10 trillion dollars, in large part because Tea Party Republicans prevented adequate fiscal stimulus During the COVID-19 crisis, household wealth recovered more quickly due to adequate fiscal stimulus Reproductive Freedom Bill fight to defend women’s bodily autonomy and the right for every American to access reproductive health care.
+Economy Bill has been deeply involved in writing laws which will prevent crises like the 2008 financial collapse from hurting working families in the future.
+Reducing Gun Violence It is a moral shame that we have so many ways to prevent gun violence in this country, but we have a Congress who has failed to do anything to protect Americans.
+Healthcare Bill believes that health care is a basic human right and that we should continue moving towards universal coverage.
+Immigration The United States is a proud nation of immigrants and we must adhere to the promise of the American Dream.
+Defending the Constitution President Trump's trampling of the Constitution is a threat to our democracy Reviving American Manufacturing As a businessman who started a manufacturing company that now provides hundreds of good-paying jobs right here in the Midwest, nothing is more important to Bill than the health of manufacturing in America.
+The Financial Crisis The financial crisis of 2008 cost our economy 8 million jobs and cost American families more than $16 trillion dollars of net worth.
+Reforming Wall Street The financial crisis of 2008 destroyed millions of jobs and crushed the retirement savings of American families.
+Combating the Climate Crisis Our dependence on fossil fuels for energy production has been a growing problem for decades.
+Science and Technology Investments in basic scientific research provide some of the highest returns on investment of any that our society can make.
+Education Wise investments in our children’s education are crucial to our long-term economic health.
+Reproductive Freedom Bill fight to defend women’s bodily autonomy and the right for every American to access reproductive health care.
+Economy Bill has been deeply involved in writing laws which will prevent crises like the 2008 financial collapse from hurting working families in the future.
+Reducing Gun Violence It is a moral shame that we have so many ways to prevent gun violence in this country, but we have a Congress who has failed to do anything to protect Americans.
+Healthcare Bill believes that health care is a basic human right and that we should continue moving towards universal coverage.
+Immigration The United States is a proud nation of immigrants and we must adhere to the promise of the American Dream.
+Defending the Constitution President Trump's trampling of the Constitution is a threat to our democracy Reviving American Manufacturing As a businessman who started a manufacturing company that now provides hundreds of good-paying jobs right here in the Midwest, nothing is more important to Bill than the health of manufacturing in America.
+The Financial Crisis The financial crisis of 2008 cost our economy 8 million jobs and cost American families more than $16 trillion dollars of net worth.
+Reforming Wall Street The financial crisis of 2008 destroyed millions of jobs and crushed the retirement savings of American families.
+Combating the Climate Crisis Our dependence on fossil fuels for energy production has been a growing problem for decades.
+Science and Technology Investments in basic scientific research provide some of the highest returns on investment of any that our society can make.
+Education Wise investments in our children’s education are crucial to our long-term economic health.
+Meet Bill Issues Endorsements The District News Contribute Bill Foster for Congress P.O Box 9104 Aurora, IL 60598 630-216-9340.
+Privacy Policy Messaging Contact Us Paid for by Bill Foster for Congress Meet Bill Business Career Science Career Congressional Career Family Professional Awards Issues Defending the Constitution Economy Science and Technology Healthcare Reproductive Freedom Immigration Reviving American Manufacturing Reducing Gun Violence Combating the Climate Crisis The Financial Crisis Reforming Wall Street Education Endorsements The District News Latest News Photo Gallery Donate Now On the Issues On the Issues Volunteer Volunteer Contribute Contribute

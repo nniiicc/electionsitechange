@@ -1,12 +1,18 @@
 {
  "description": "Politics was never on my radar. I got involved in local government to keep my adopted state of Vermont from turning into the Jersey jungle I left. But I had grown up in a small town elsewhere in the Garden State.",
  "final_url": "https://www.wrenner4senate.org/about",
- "paid_for_by": null,
+ "fingerprint": "4e0237fe9299c7a790e8f02f8236211ed48e063a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "ABOUT | Wrenner4senate",
  "years_mentioned": [
+  "2005",
   "2010",
   "2012",
   "2020",
-  "2022"
+  "2022",
+  "2023",
+  "2024",
+  "2026"
  ]
 }

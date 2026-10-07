@@ -1,7 +1,9 @@
 {
  "description": "(Top donation form uses built-in compatibility with Stripe, which charges us a good deal less per transaction, but other forms of payment are available below.) Secure Donation Through Square Make a one-time donationYour contribution is appreciated.DonateMake a monthly donationYour contribution is appreciated.Donate monthly",
  "final_url": "https://electjoshuabrant.org/donate/",
+ "fingerprint": "aa9e5141e7b970f1fc5bfc29f3aaa1893871f876",
+ "format": 3,
  "paid_for_by": "Paid for by the Committee to Elect Joshua Brant",
- "title": "Donate \u2013 Elect Joshua Brant",
+ "title": "Donate – Elect Joshua Brant",
  "years_mentioned": []
 }

@@ -1,8 +1,30 @@
 [
-"https://annesantoro.com/",
-"https://annesantoro.com/blog",
-"https://annesantoro.com/contact",
-"https://annesantoro.com/get-involved",
-"https://annesantoro.com/meet-anne",
-"https://annesantoro.com/portfolio-1"
+{
+"text": "Contact",
+"href": "https://www.annesantoro.com/contact"
+},
+{
+"text": "Get Involved",
+"href": "https://www.annesantoro.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.annesantoro.com"
+},
+{
+"text": "Meet Anne",
+"href": "https://www.annesantoro.com/meet-anne"
+},
+{
+"text": "News",
+"href": "https://www.annesantoro.com/blog"
+},
+{
+"text": "Photos",
+"href": "https://www.annesantoro.com/portfolio-1"
+},
+{
+"text": "[image: Santoro_Logo_Transparent.png]",
+"href": "https://www.annesantoro.com"
+}
 ]

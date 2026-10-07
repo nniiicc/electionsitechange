@@ -1,13 +1,17 @@
 {
  "description": "A Trailblazer for Rhode Island with over 15 Years of Dedicated Public Service \"My experience in this country is like so many Rhode Islanders: we arrive ...",
  "final_url": "https://www.sabinamatos.com/es/about-sabina-matos/",
- "paid_for_by": null,
+ "fingerprint": "6d24b887d4a6600a63d46257cd38399a3a59910b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Sabina Matos | Sabina Matos",
  "years_mentioned": [
+  "2005",
   "2010",
   "2011",
   "2019",
   "2021",
-  "2022"
+  "2022",
+  "2026"
  ]
 }

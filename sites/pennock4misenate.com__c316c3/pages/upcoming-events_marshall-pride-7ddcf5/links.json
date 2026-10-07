@@ -1,19 +1,86 @@
 [
-"http://facebook.com/pennock4misenate",
-"http://google.com/calendar/event?action=TEMPLATE&text=Marshall+Pride&dates=20260613T160000Z%2F20260613T230000Z&location=603+Homer+Road%2C+Marshall%2C+Michigan%2C+49068%2C+United+States",
-"http://instagram.com/pennock4misenate",
-"http://maps.google.com/?q=603+Homer+Road+Marshall%2C+Michigan%2C+49068+United+States",
-"https://pennock4misenate.bsky.social/",
-"https://pennock4misenate.com/",
-"https://pennock4misenate.com/about",
-"https://pennock4misenate.com/cart",
-"https://pennock4misenate.com/contact",
-"https://pennock4misenate.com/issues",
-"https://pennock4misenate.com/privacy-policy",
-"https://pennock4misenate.com/upcoming-events",
-"https://pennock4misenate.com/upcoming-events/barry-county-chamber-and-economic-development-alliance-forum",
-"https://pennock4misenate.com/upcoming-events/lowell-pride",
-"https://pennock4misenate.com/upcoming-events/marshall-pride?format=ical",
-"https://pennock4misenate.com/wpp-in-action-anthonys-supported-campaigns",
-"https://secure.actblue.com/donate/pennock4misenate"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=603+homer+road+marshall%2C+michigan%2C+49068+united+states"
+},
+{
+"text": "0",
+"href": "https://www.pennock4misenate.com/cart"
+},
+{
+"text": "About Anthony",
+"href": "https://www.pennock4misenate.com/about"
+},
+{
+"text": "Aligned Priorities",
+"href": "https://www.pennock4misenate.com/wpp-in-action-anthonys-supported-campaigns"
+},
+{
+"text": "Back",
+"href": "https://www.pennock4misenate.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.pennock4misenate.com/upcoming-events"
+},
+{
+"text": "BlueSky",
+"href": "https://pennock4misenate.bsky.social"
+},
+{
+"text": "Contact Us",
+"href": "https://www.pennock4misenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pennock4misenate"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Marshall+Pride&dates=20260613T160000Z%2F20260613T230000Z&location=603+Homer+Road%2C+Marshall%2C+Michigan%2C+49068%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/marshall-pride?format=ical"
+},
+{
+"text": "Next Next June 15 Barry County Chamber and Economic Development Alliance Forum",
+"href": "https://www.pennock4misenate.com/upcoming-events/barry-county-chamber-and-economic-development-alliance-forum"
+},
+{
+"text": "Previous Previous June 6 Lowell Pride",
+"href": "https://www.pennock4misenate.com/upcoming-events/lowell-pride"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.pennock4misenate.com/privacy-policy"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.pennock4misenate.com/upcoming-events"
+},
+{
+"text": "Working People's Priorities",
+"href": "https://www.pennock4misenate.com/issues"
+},
+{
+"text": "[image: Dr. Anthony Pennock for MI Senate District 18]",
+"href": "https://www.pennock4misenate.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/pennock4misenate"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/pennock4misenate"
+},
+{
+"text": "[no text]",
+"href": "mailto:pennock4misenate@gmail.com"
+},
+{
+"text": "pennock4misenate.com",
+"href": "mailto:info@pennock4misenate.com"
+}
 ]

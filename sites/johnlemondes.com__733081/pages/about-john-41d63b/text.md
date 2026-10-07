@@ -1,6 +1,4 @@
-Signed in as:
-filler@godaddy.com
-John was elected to the New York State Assembly in 2020.
+Home About John Contribute On The Issues In The News Volunteer Events Endorsements Contact More Home About John Contribute On The Issues In The News Volunteer Events Endorsements Contact Sign In My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home About John Contribute On The Issues In The News Volunteer Events Endorsements Contact Account My Account Sign out Sign In My Account About John Meet Assemblyman John Lemondes John was elected to the New York State Assembly in 2020.
 Since then, he has worked to protect our upstate way of life by highlighting the need for funding and protecting the law enforcement community, returning accountability to criminals, championing environmental water quality issues for our lakes, and trying to stem the out migration flow through sound fiscal policies.
 Additionally, he has focused on keeping our schools and highway departments funded.
 After graduating from Liverpool High, John studied agriculture at Penn State University, and was commissioned in the United States Army.
@@ -19,3 +17,8 @@ Lastly, he is a member of the NYS Farm Bureau and former board member of the CNY
 Assemblyman John Lemondes has worked hard for you and your family for the last three and a half years.
 On Tuesday, November 3rd, residents of the New York State 126th Assembly District can vote to return John to Albany where he will defend our Central New York quality of life against the irresponsible and undisciplined agenda of career politicians and the downstate special interests.
 Assemblyman Lemondes asks for your vote on Election Day, November 3rd.
+Friends of John Lemondes, P.O.
+Box 126, Skaneateles, NY 13152 Copyright © Friends of John Lemondes - All Rights Reserved.
+Note: The use of military titles of photographs in uniform does not imply endorsement by the U.S.
+Army or the Department of Defense.
+Powered by

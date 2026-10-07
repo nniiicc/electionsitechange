@@ -1,5 +1,3 @@
-Back to All Events
-Join Amelia as she kicks off her campaign for State House District 55.
-Next
-Next
-January 23
+0 Skip to Content FAQ Donate About Issues Trust Texans Initiative Endorsements Events Shop Get Involved Open Menu Close Menu FAQ Donate About Issues Trust Texans Initiative Endorsements Events Shop Get Involved Open Menu Close Menu FAQ Donate About Issues Trust Texans Initiative Endorsements Events Shop Get Involved Back to All Events Kick Off Saturday, November 15, 2025 6:00 PM 8:00 PM Google Calendar ICS Join Amelia as she kicks off her campaign for State House District 55.
+Next Next January 23 Painting a Bright Future - Fundraiser Amelia for Texas Pol.
+Ad paid for by the Amelia for Texas Campaign © # Amelia for Texas info@ameliafortexas.com

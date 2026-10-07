@@ -1,9 +1,4 @@
-Yassin Moghazy is an IT professional, husband, father, and a proud resident of the Gwinnett community, running for House District 97.
-He is focused on practical solutions that help families by lowering costs in various areas, including:
-• Reducing Energy & Consumer Costs
-• Keeping Children Safer Online
-• Supporting Police Training & Enhancing Community Safety
-• Providing Property Tax Relief & Advocating for Income Tax Reform
-Paid for by Yassin4GA, Inc.
-Support Yassin Moghazy for GA State House 97
-Secure donation processed by WinRed.
+Home About Yassin Legislative Priorities Get Involved Donate Today More Home About Yassin Legislative Priorities Get Involved Donate Today Home About Yassin Legislative Priorities Get Involved Donate Today Yassin Moghazy for Georgia State House District 97 Yassin Moghazy for Georgia State House District 97 Yassin Moghazy for Georgia State House District 97 Yassin Moghazy for Georgia State House District 97 Yassin Moghazy for Georgia State House District 97 Meet Yassin Yassin Moghazy is an IT professional, husband, father, and a proud resident of the Gwinnett community, running for House District 97.
+He is focused on practical solutions that help families by lowering costs in various areas, including: • Reducing Energy & Consumer Costs • Keeping Children Safer Online • Supporting Police Training & Enhancing Community Safety • Providing Property Tax Relief & Advocating for Income Tax Reform Find out more Home About Yassin Legislative Priorities Get Involved Donate Today Privacy Policy Paid for by Yassin4GA, Inc.
+Help Us Make Gwinnett Stronger Support Yassin Moghazy for GA State House 97 Secure donation processed by WinRed.
+Donate Today

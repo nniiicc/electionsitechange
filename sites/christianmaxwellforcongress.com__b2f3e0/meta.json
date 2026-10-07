@@ -1,7 +1,9 @@
 {
  "description": "The official campaign website for Christian Maxwell, running for Congressional District 1. Discover policies, connect on social media, and get involved.",
  "final_url": "https://christianmaxwellforcongress.com/",
- "paid_for_by": null,
+ "fingerprint": "470bbf8a478cf3c25aca2b07ddb91e7b684d082b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Maxwell for Congress",
  "years_mentioned": []
 }

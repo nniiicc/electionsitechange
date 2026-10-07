@@ -1,4 +1,4 @@
-Democratic Senator Jamie Pedersen serves as the Senate Majority Leader, the highest ranking Democrat in the State Senate.
+Skip navigation menu About Accomplishments News Endorsements Gallery Volunteer Contact Donate Putting People First About Senator Jamie Pedersen About Accomplishments News Endorsements Gallery Volunteer Contact Donate Putting People First About Senator Jamie Pedersen Democratic Senator Jamie Pedersen serves as the Senate Majority Leader, the highest ranking Democrat in the State Senate.
 The son of two teachers, Jamie worked his way through college at McDonald's before attending law school.
 An activist and advocate for marriage equality and LGBTQ+ civil rights before joining the legislature, he led the successful six-year effort to win marriage equality in the legislature, making Washington State one of the first states in the nation to have full marriage rights for same-sex couples.
 As the most progressive Senate leader in Washington's history, Pedersen secured historic investments in public schools, affordable housing, transportation, and paid family medical leave.
@@ -8,3 +8,6 @@ It will also eliminate sales tax on personal care products, diapers, and over-th
 Jamie’s also made sure our state stood up against Trump’s brutality and attacks on our democracy.
 Under Jamie’s leadership, the legislature protected abortion rights and women's healthcare with historic investments in Planned Parenthood across the state so everyone could get the healthcare access they need, protected sensitive voter information, banned ICE agents and law enforcement from hiding their identities behind masks, stopped the use of cameras for surveillance and immigration enforcement, and banned local law enforcement from sharing data from FLOCK cameras with ICE officials and the Trump Administration, one of the first states to do so.
 He lives in Capitol Hill with his husband, Eric, who is a teacher, and their four kids, all in Seattle Public Schools.
+For media inquiries, reach out to campaign@peopleforpedersen.org.
+Media Gallery Powered by RUN! website builder Paid for by People for Pedersen (D) 212 Broadway Ave.
+E., #22282 Seattle, WA 98102 You need to enable JavaScript to run this app.

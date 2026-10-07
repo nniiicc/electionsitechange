@@ -1,12 +1,42 @@
 [
-"https://sec.state.ma.us/MailInRequestWeb/MailInBallot.aspx",
-"https://sec.state.ma.us/OVR/Welcome.aspx?brid=QZ1QXfbiVxnd3znjPkqVxQ",
-"https://sec.state.ma.us/WhereDoIVoteMA",
-"https://secure.actblue.com/donate/vhss",
-"https://vannahoward.com/",
-"https://vannahoward.com/about",
-"https://vannahoward.com/cart",
-"https://vannahoward.com/get-involved",
-"https://vannahoward.com/policies",
-"https://vannahoward.com/vote"
+{
+"text": "0",
+"href": "https://www.vannahoward.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vhss"
+},
+{
+"text": "Find your polling location",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA"
+},
+{
+"text": "Get Involved",
+"href": "https://www.vannahoward.com/get-involved"
+},
+{
+"text": "Meet Vanna",
+"href": "https://www.vannahoward.com/about"
+},
+{
+"text": "Policies",
+"href": "https://www.vannahoward.com/policies"
+},
+{
+"text": "Register to vote.",
+"href": "https://www.sec.state.ma.us/OVR/Welcome.aspx?brid=QZ1QXfbiVxnd3znjPkqVxQ"
+},
+{
+"text": "Request a mail-in ballot.",
+"href": "https://www.sec.state.ma.us/MailInRequestWeb/MailInBallot.aspx"
+},
+{
+"text": "Vote",
+"href": "https://www.vannahoward.com/vote"
+},
+{
+"text": "[image: Vanna Howard for State Senate]",
+"href": "https://www.vannahoward.com/"
+}
 ]

@@ -1,7 +1,6 @@
-THE WORDS SOUND GOOD.
+0 Skip to Content Kassner Campaign Violations - Why You Should Care About Dan Priorities Get Involved Yard Sign News Videos Events Claim Check: Kristin Kassner DONATE Open Menu Close Menu Kassner Campaign Violations - Why You Should Care About Dan Priorities Get Involved Yard Sign News Videos Events Claim Check: Kristin Kassner DONATE Open Menu Close Menu Kassner Campaign Violations - Why You Should Care About Dan Priorities Get Involved Yard Sign News Videos Events Claim Check: Kristin Kassner DONATE THE WORDS SOUND GOOD.
 THE RECORD TELLS A DIFFERENT STORY.
-Kristin Kassner built her priorities page around three promises:
-Driving Progress.
+Kristin Kassner built her priorities page around three promises: Driving Progress.
 Developing Community.
 Delivering for You.
 But when those words are compared with the public record, they fall apart.
@@ -41,3 +40,7 @@ It can be different.
 Dan Kelly will be present for the people.
 Dan Kelly will do the work.
 Dan Kelly will make the people’s priorities his own and produce real tangible results.
+Economic Development Environment & Water Protection Cost of Living, Taxes & Schools Local Control Healthcare & Public Health Education Sources Service.
+Civility.
+Accountability.
+Paid for By the Committee to Elect Dan Kelly

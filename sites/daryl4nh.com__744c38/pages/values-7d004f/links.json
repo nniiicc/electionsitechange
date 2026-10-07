@@ -1,11 +1,50 @@
 [
-"https://daryl4nh.com/",
-"https://daryl4nh.com/issues",
-"https://daryl4nh.com/meet-daryl",
-"https://daryl4nh.com/values",
-"https://facebook.com/Daryl4NH",
-"https://nh-clp.org/",
-"https://polimom.substack.com/",
-"https://secure.anedot.com/daryl4nh/donate",
-"https://x.com/Polimom"
+{
+"text": "Daryl D'Angelo for Amherst and Milford",
+"href": "https://daryl4nh.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/daryl4nh/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Daryl4NH"
+},
+{
+"text": "Home",
+"href": "https://daryl4nh.com/"
+},
+{
+"text": "Issues",
+"href": "https://daryl4nh.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://daryl4nh.com/#join-us"
+},
+{
+"text": "Meet Daryl",
+"href": "https://daryl4nh.com/meet-daryl/"
+},
+{
+"text": "NH CLP",
+"href": "https://nh-clp.org/"
+},
+{
+"text": "Substack",
+"href": "https://polimom.substack.com/"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/Polimom"
+},
+{
+"text": "Values",
+"href": "https://daryl4nh.com/values/"
+},
+{
+"text": "daryl4nh@comcast.net",
+"href": "mailto:daryl4nh@comcast.net"
+}
 ]

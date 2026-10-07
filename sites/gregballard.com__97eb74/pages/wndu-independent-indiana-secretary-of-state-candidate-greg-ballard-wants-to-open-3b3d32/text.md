@@ -1,12 +1,10 @@
-By Lauren Moss
-SOUTH BEND, Ind.
+About Meet Greg Ballard Podcast Meet Greg News & Updates Greg’s Plan Voters Guide Indiana Election Integrity Act Hands-on Clerk Training Nonpartisan Recount Commission Support Donate Get a Yard Sign Buy a Shirt Volunteer CONTRIBUTE Meet Greg Ballard Greg’s Plan Voter’s Guide Indiana Election Integrity Act Hands-on Clerk Training Nonpartisan Recount Commission News and Updates Support Donate Get a Yard Sign Buy a Shirt Volunteer Subscribe Contribute Aug 7, 2026 WNDU: Independent Indiana Secretary of State candidate Greg Ballard wants to open up state’s election system By Lauren Moss SOUTH BEND, Ind.
 (WNDU) - Former Indianapolis Mayor Greg Ballard is running for Indiana Secretary of State as an independent, saying he wants to create a more open election system in the state.
 Ballard, a Marine veteran who previously served as Indianapolis mayor as a Republican, said his decision to run as an independent is tied to the future of elections in Indiana.
 “If we do what we are going to do and provide this path then we can have three people competitive in the November race and that was very attractive to me because I think we need a more open system here in the state of Indiana,” Ballard said.
-“It’s such a closed system and people don’t realize how closed it is.”
-Ballard said he believes voters are ready for a change in Indiana politics and that his candidacy could have a lasting impact beyond this election cycle.
+“It’s such a closed system and people don’t realize how closed it is.” Ballard said he believes voters are ready for a change in Indiana politics and that his candidacy could have a lasting impact beyond this election cycle.
 “If you want the politics to change in this state — and from what we’re hearing, people do — they have to have the courtesy to make that vote in November and vote for me to get me into that office,” Ballard said.
 “It just opens up wide the ability of more people — better people — to run for office.
-It really is important this November to make that call.”
-Ballard will face three challengers this fall: Republican Max Engling, Democrat Beau Bayh and Libertarian Lauri Shillings.
+It really is important this November to make that call.” Ballard will face three challengers this fall: Republican Max Engling, Democrat Beau Bayh and Libertarian Lauri Shillings.
 This article originally appeared on WNDU in South Bend.
+ABOUT Volunteer Donate info@gregballard.com Follow Follow Follow Follow PAID FOR BY GREG FOR INDIANA Use of military rank, job titles and photographs in uniform does not imply endorsement by the United States Marine Corps or the Department of Defense.

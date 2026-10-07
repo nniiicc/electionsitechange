@@ -1,6 +1,4 @@
-PRIORITIES • Lower Cost of Living • Policy to
-Expand Medicare — Vision, Hearing, Dental, and In-Home Care
-Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Lower Cost of Living • Policy to Expand Medicare — Vision, Hearing, Dental, and In-Home Care Why I believe this — and how I’ll fight for it.
 When I was in elementary school — eight years old, maybe younger — I had a job every morning before school.
 I’d walk into the living room around 5:30 and find my dad asleep in his reclining chair, pill bottles lined up along the seat.
 I’d help him up and move him to his bed, so he could rest and I could start my day.
@@ -23,8 +21,7 @@ It doesn’t cover your teeth, your eyes, or your ears — three of the things t
 Fixing this is cheaper, not more.
 Take care of people before they land in a hospital bed, and we spend less.
 Every time.
-Here’s what I’ll do — and why
-Cover vision, hearing, and dental.
+Here’s what I’ll do — and why Cover vision, hearing, and dental.
 Medicare will pay for a heart procedure but not the dental care that might have prevented it.
 Gum disease is linked to heart disease; untreated vision and hearing loss are now among the leading preventable risk factors for dementia.
 Leaving these out doesn’t save money — it just moves the bill somewhere costlier later, while a senior suffers in between.
@@ -35,7 +32,7 @@ Bring care into the home — at 65, for everyone.
 This is the big one, and it’s personal.
 That morning job I had as a boy should have been a nurse’s visit.
 I’ll fight to create a Medicare benefit for consistent in-home nursing visits starting at 65 — not just for the already-sick; everyone.
-A nurse comes to you: checks your vitals, makes sure you’re taking your medications right, and catches the infection or the blood-pressure spike while it’s still small and cheap to treat — instead of six months later in an ER.
+A nurse comes to you : checks your vitals, makes sure you’re taking your medications right, and catches the infection or the blood-pressure spike while it’s still small and cheap to treat — instead of six months later in an ER.
 It’s graduated — more support as you come to need more.
 The most expensive care in a senior’s life happens in the hospital, usually from problems that started small and went unwatched.
 Move that care home, and three things happen at once: seniors stay healthier and keep their dignity, the system spends far less, and we build a whole new field of good local jobs — including in the rural communities that need the work most.
@@ -48,21 +45,17 @@ In-home care means they don’t have to — and it still costs less than the hos
 Pay for it by spending smarter.
 It costs less, not more.
 Nearly a third of Medicare spending goes to caring for people with serious chronic illness in their last two years of life — much of it repeat hospital stays that earlier, simpler care could have prevented, from patients who cost roughly six times what other seniors do.
-Prevention and in-home visits drive the average cost of a senior’s care down.
+Prevention and in-home visits drive the average cost of a senior’s care down .
 Keep people healthy and out of the hospital, and this expansion largely pays for itself.
 Better care and lower cost are the same thing.
-What this means for Our District
-Our district is largely rural, and rural hospitals are closing — the nearest one is already too far for many families, and getting farther.
+What this means for Our District Our district is largely rural, and rural hospitals are closing — the nearest one is already too far for many families, and getting farther.
 That’s why in-home care matters so much here: it brings care to the patient, creates good jobs in our own communities, and lets neighbors look after neighbors instead of shipping our seniors hours away.
 But we won’t win any of it while our representatives are funded by the industries that profit from the status quo — insurers who sell seniors the coverage Medicare should already include, and a hospital industry that profits from filling beds.
 I take nothing from them: no corporate PAC money, no special interest money, and no foreign money.
 That’s what frees me to fight them and win seniors the care they’ve earned.
-The bottom line
-We ask people to work their whole lives and pay into Medicare — the least we owe them is coverage that keeps them healthy, and the dignity of growing old at home instead of a hospital ward.
+The bottom line We ask people to work their whole lives and pay into Medicare — the least we owe them is coverage that keeps them healthy, and the dignity of growing old at home instead of a hospital ward.
 So let’s build it: cover the teeth, the eyes, and the ears, and bring the nurse to the door — the one who should have been there all along.
 That’s a country that takes care of the people who took care of us.
 Together, we can make it real.
-SOURCES
-- Hearing loss and untreated vision loss among the leading modifiable dementia risk factors: The Lancet — “Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission”
-- Chronically ill patients in their last two years of life account for about one-third of Medicare spending: Dartmouth Atlas of Health Care — Care for the Chronically Ill (Last Two Years of Life)
-- Rural hospital closures and the growing distance to care — more than 100 rural hospitals closed from 2013 to 2020, and affected residents traveled about 20 miles farther for common services: GAO — “Rural Hospital Closures: Affected Residents Had Reduced Access to Health Care Services,” GAO-21-93
+All Policies Next Policy Return to Top SOURCES Hearing loss and untreated vision loss among the leading modifiable dementia risk factors: The Lancet — “Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission” Chronically ill patients in their last two years of life account for about one-third of Medicare spending: Dartmouth Atlas of Health Care — Care for the Chronically Ill (Last Two Years of Life) Rural hospital closures and the growing distance to care — more than 100 rural hospitals closed from 2013 to 2020, and affected residents traveled about 20 miles farther for common services: GAO — “Rural Hospital Closures: Affected Residents Had Reduced Access to Health Care Services,” GAO-21-93 Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+No corporate PAC or special interest money accepted.

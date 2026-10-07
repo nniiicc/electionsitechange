@@ -1,14 +1,9 @@
-CAMPAIGN LAUNCH: Rosie’s First 100
-Rosetta Brown is officially launching her campaign for Illinois State Representative District 111, and we’re inviting YOU to be part of the first wave of supporters who believe in leadership that listens, shows up, and delivers.
+0 Skip to Content Rosie Brown for Illinois State Representative #111 Home Rosie's Political Agenda Contact About Bio News Blog Events Donate Donate Now ActBlue Get Involved Schedule with Rosie Open Menu Close Menu Rosie Brown for Illinois State Representative #111 Home Rosie's Political Agenda Contact About Bio News Blog Events Donate Donate Now ActBlue Get Involved Schedule with Rosie Open Menu Close Menu Folder: Home Back Rosie's Political Agenda Contact Folder: About Back Bio News Blog Events Folder: Donate Back Donate Now ActBlue Get Involved Schedule with Rosie Back to All Events Rosie's First $100 Campaign Sunday, September 28, 2025 5:00 PM Tuesday, March 17, 2026 11:59 PM Google Calendar ICS CAMPAIGN LAUNCH: Rosie’s First 100 Rosetta Brown is officially launching her campaign for Illinois State Representative District 111, and we’re inviting YOU to be part of the first wave of supporters who believe in leadership that listens, shows up, and delivers.
 Your early support helps us build momentum and reach voters across the district.
 Donate $100.
 Fuel a launch campaign that’s bold, inclusive, and built for the people.
 This is more than a donation; it’s a declaration that District 111 is ready for change.
-Be one of Rosie’s First 100 Donors
-Help us build early momentum
-Fuel a campaign rooted in community, fairness, and action
-Rosie’s campaign is about turning frustration into solutions, and silence into representation.
+Be one of Rosie’s First # Donors Help us build early momentum Fuel a campaign rooted in community, fairness, and action Rosie’s campaign is about turning frustration into solutions, and silence into representation.
 With your support, we’ll reach voters across Alton, Granite City, Wood River, and beyond—sharing Rosie’s message and building a movement that reflects the real needs of our district.
-Donate now and be one of the First 100 to stand with Rosie:
-https://square.link/u/5iHdTv9S
-Let’s turn this around—together.
+Donate now and be one of the First 100 to stand with Rosie: https://square.link/u/5iHdTv9S Let’s turn this around—together.
+#RosieBrown111 #First100 #CampaignLaunch #RootedInCommunity #ReadyForChange #DonateNow Next Next November 1 Rosie Cares District 111: Socks for Tots Fundraiser Rosie Brown for Illinois State Representative District #111 Paid for by Friends of Rosetta Brown Email rosie@rosiebrownforillinoisstaterep111.com

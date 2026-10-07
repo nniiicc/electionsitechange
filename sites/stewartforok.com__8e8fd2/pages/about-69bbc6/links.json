@@ -1,9 +1,38 @@
 [
-"http://fugue.media/",
-"https://secure.actblue.com/donate/ronald-stewart",
-"https://secure.actblue.com/donate/stewartforok",
-"https://stewartforok.com/",
-"https://stewartforok.com/about",
-"https://stewartforok.com/issues",
-"https://stewartforok.com/volunteer"
+{
+"text": "ABOUT",
+"href": "https://www.stewartforok.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.stewartforok.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ronald-stewart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/stewartforok"
+},
+{
+"text": "Donate for Change",
+"href": "https://secure.actblue.com/donate/stewartforok"
+},
+{
+"text": "Fugue Media",
+"href": "http://www.fugue.media"
+},
+{
+"text": "HOME",
+"href": "https://www.stewartforok.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.stewartforok.com/issues"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.stewartforok.com/volunteer"
+}
 ]

@@ -1,12 +1,5 @@
-Back to All Events
-The Carol Berry campaign for School Board is co-hosting an Election Night celebration for all Montgomery County Democratic Candidates and their supporters.
+0 Skip to Content Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Donate Open Menu Close Menu Open Menu Close Menu Donate Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Donate Back to All Events Election Night Celebration Thursday, August 4, 2022 7:00 PM 10:00 PM Hilton Garden Inn Clarksville 290 Alfred Thun Road Clarksville, TN, 37040 United States (map) Google Calendar ICS The Carol Berry campaign for School Board is co-hosting an Election Night celebration for all Montgomery County Democratic Candidates and their supporters.
 Be with us as we watch the returns come in and hear speeches from our candidates.
 The event will feature food, music, and live election results.
 You may purchase drinks from the hotel bar in the lobby.
-Previous
-Previous
-June 16
-Campaign Kickoff
-Next
-Next
-September 8
+Previous Previous June 16 Campaign Kickoff Next Next September 8 Door Knocking for Dems ‪ (931) 551-2397 ‬ | info@ronnieglynnforstaterep.com What Voters Need to Know

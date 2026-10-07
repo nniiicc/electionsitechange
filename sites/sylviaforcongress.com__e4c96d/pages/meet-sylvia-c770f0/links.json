@@ -1,16 +1,70 @@
 [
-"https://bsky.app/profile/lacongresista.bsky.social",
-"https://facebook.com/SylviaRGarcia",
-"https://instagram.com/lacongresista",
-"https://secure.ngpvan.com/HRSGvJW1HECFcWPtvXrHfQ2",
-"https://secure.ngpvan.com/IySk3RvAGEqc0HU24ITO0Q2",
-"https://sylviaforcongress.com/",
-"https://sylviaforcongress.com/endorsements",
-"https://sylviaforcongress.com/issues",
-"https://sylviaforcongress.com/media",
-"https://sylviaforcongress.com/meet-sylvia",
-"https://sylviaforcongress.com/news",
-"https://sylviagarcia.house.gov/",
-"https://threads.com/@lacongresista",
-"https://x.com/LaCongresista"
+{
+"text": "Accomplishments",
+"href": "https://www.sylviaforcongress.com"
+},
+{
+"text": "Contact",
+"href": "https://www.sylviaforcongress.com/meet-sylvia"
+},
+{
+"text": "DONATE",
+"href": "https://secure.ngpvan.com/HRSGvJW1HECFcWPtvXrHfQ2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sylviaforcongress.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.sylviaforcongress.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.sylviaforcongress.com/media"
+},
+{
+"text": "Meet Sylvia",
+"href": "https://www.sylviaforcongress.com/meet-sylvia"
+},
+{
+"text": "News",
+"href": "https://www.sylviaforcongress.com/news"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/IySk3RvAGEqc0HU24ITO0Q2"
+},
+{
+"text": "[image: Bluesky_Logo]",
+"href": "https://bsky.app/profile/lacongresista.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SylviaRGarcia"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/lacongresista/"
+},
+{
+"text": "[image: Sylvia Garcia]",
+"href": "https://www.sylviaforcongress.com"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@lacongresista"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/LaCongresista"
+},
+{
+"text": "sylviagarcia.house.gov",
+"href": "https://sylviagarcia.house.gov/"
+},
+{
+"text": "team@sylviaforcongress.com",
+"href": "mailto:team@sylviaforcongress.com"
+}
 ]

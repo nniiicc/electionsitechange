@@ -1,14 +1,66 @@
 [
-"https://facebook.com/suzyglowiakhilton",
-"https://secure.actblue.com/donate/suzyglowiak",
-"https://suzyforsenate.com/",
-"https://suzyforsenate.com/about",
-"https://suzyforsenate.com/contact",
-"https://suzyforsenate.com/endorsements",
-"https://suzyforsenate.com/get-involved",
-"https://suzyforsenate.com/issues",
-"https://suzyforsenate.com/privacy-policy",
-"https://suzyforsenate.com/the-district",
-"https://x.com/SuzyGlowiak",
-"https://youtube.com/@suzyglowiak3857"
+{
+"text": "About",
+"href": "https://suzyforsenate.com/about/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/suzyglowiak"
+},
+{
+"text": "Contact",
+"href": "https://suzyforsenate.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://suzyforsenate.com/contact/"
+},
+{
+"text": "Endorsements",
+"href": "https://suzyforsenate.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/suzyglowiakhilton/"
+},
+{
+"text": "Get Involved",
+"href": "https://suzyforsenate.com/get-involved"
+},
+{
+"text": "Get Involved",
+"href": "https://suzyforsenate.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://suzyforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://suzyforsenate.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://suzyforsenate.com/privacy-policy"
+},
+{
+"text": "The District",
+"href": "https://suzyforsenate.com/the-district"
+},
+{
+"text": "The District",
+"href": "https://suzyforsenate.com/the-district/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/SuzyGlowiak"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@suzyglowiak3857"
+},
+{
+"text": "[image]",
+"href": "https://suzyforsenate.com"
+}
 ]

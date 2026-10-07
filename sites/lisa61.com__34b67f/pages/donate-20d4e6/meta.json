@@ -1,7 +1,11 @@
 {
  "description": "Support Lisa Shepherd&#39;s campaign donations and help her continue advocating for conservative principles in Utah. Donate now!",
  "final_url": "https://lisa61.com/donate",
- "paid_for_by": "Paid for by Lisa Shepherd for State House Utah House District 61 801-787-8211 Copyright \u00a9 2024 Lisa61 - All Rights Reserved",
+ "fingerprint": "e0e3b86829c124d5048cd987216e542015e92f3a",
+ "format": 3,
+ "paid_for_by": "Paid for by Lisa Shepherd for State House Utah House District 61 801-787-8211 Copyright © # Lisa61 - All Rights Reserved",
  "title": "Donate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,42 +1,7 @@
-Endorsements
-Let's Restore the California Dream
-Yes!
+Skip to content About Top Legislative Priorities District 15 Media Get Involved Endorsements About Top Legislative Priorities District 15 Media Get Involved Endorsements Donate Instagram X-twitter Facebook MENU Endorsements Let's Restore the California Dream Endorse Yes!
 I support AnaMarie Avila Farias for Assembly!
-Organizations
-California Federation of Teachers
-California Professional Firefighters
-California School Employees Association
-California Teachers Association
-Cal Fire Local 2881
-National Union of Healthcare Workers
-Peace Officers Research Association of California
-United Professional Fire Fighters of Contra Costa County IAFF Local 1230
-Latinas Lead California
-State Representatives
-California Latino Legislative Caucus (The members of the California Latino Legislative Caucus make up thirty-three percent (33%) of our State Legislature)
-Anna Caballero, Senator
-Richard Polanco, Former Senator
-David Alvarez, Assemblymember
-Esmeralda Soria, Assemblymember
-Juan Carrillo, Assemblymember
-Blanca Pacheco, Assemblymember
-Local Elected Representatives
-Tony Tiscareno, Former City of Antioch Councilmember
-Wade Harper, Former Antioch Mayor
-Anthony Tave, City of Pinole Councilmember
-Mary Rocha, Antioch Unified School Board, Trustee
-Genoveva Calloway, Former City of San Pablo Mayor and Councilmember
-Cesar Zepeda, City of Richmond Councilmember
-Claudia Jimenez, City of Richmond Councilmember
-Rodrigo Espinosa, Merced County Board Supervisor District 1
-Myrna Melgar, City & County of San Francisco Board of Supervisor District 7
-Devin T.
-Murphy, City of Pinole Councilmember
-Local Elected Representatives
-Yazmin Llamas, Martinez Unified School District School Board Trustee
-Courtney Masella-O’Brien, Martinez Unified School District School Board Trustee
-Sarah Butler, Contra Costa County Board of Education Trustee
-Consuelo Lara, Contra Costa County Board of Education Trustee
-Armando Salud, Yolo County Board of Education Trustee
-Cheryl Cooke-Kallio, Alameda Board of Education Trustee
-John Marquez, Contra Costa County College Board Trustee
+Organizations California Federation of Teachers California Professional Firefighters California School Employees Association California Teachers Association Cal Fire Local 2881 National Union of Healthcare Workers Peace Officers Research Association of California United Professional Fire Fighters of Contra Costa County IAFF Local 1230 Latinas Lead California State Representatives California Latino Legislative Caucus (The members of the California Latino Legislative Caucus make up thirty-three percent (33%) of our State Legislature) Anna Caballero, Senator Richard Polanco, Former Senator David Alvarez, Assemblymember Esmeralda Soria, Assemblymember​ Juan Carrillo, Assemblymember Blanca Pacheco, Assemblymember Local Elected Representatives Tony Tiscareno, Former City of Antioch Councilmember Wade Harper, Former Antioch Mayor Anthony Tave, City of Pinole Councilmember Mary Rocha, Antioch Unified School Board, Trustee Genoveva Calloway, Former City of San Pablo Mayor and Councilmember Cesar Zepeda, City of Richmond Councilmember Claudia Jimenez, City of Richmond Councilmember Rodrigo Espinosa, Merced County Board Supervisor District 1 Myrna Melgar, City & County of San Francisco Board of Supervisor District 7 Devin T.
+Murphy, City of Pinole Councilmember Local Elected Representatives Yazmin Llamas, Martinez Unified School District School Board Trustee Courtney Masella-O’Brien, Martinez Unified School District School Board Trustee Sarah Butler, Contra Costa County Board of Education Trustee Consuelo Lara, Contra Costa County Board of Education Trustee Armando Salud, Yolo County Board of Education Trustee Cheryl Cooke-Kallio, Alameda Board of Education Trustee John Marquez, Contra Costa County College Board Trustee Support Anamarie Avila Farias For Assembly Donate Today $50 $100 $250 $500 $1,000 Other Contact the Campaign Team!
+Name (Required) Name Email (Required) Phone (Required) Address (optional) Street Address City State Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific State ZIP Code Comments Submit * = Required Paid for by Avila Farias for State Assembly 2026, FPPC# 1478170.
+About Get Involved Endorsements Top Legislative Priorities District 15 Media About Get Involved Endorsements Top Legislative Priorities District 15 Media Donate Instagram X-twitter Facebook

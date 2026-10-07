@@ -1,34 +1,7 @@
-Proudly Endorsed by Community Leaders
-Community Leaders
-- US Senator Ron Wyden
-- US Senator Jeff Merkley
-- Oregon Senate President Rob Wagner
-- Oregon Speaker Julie Fahey
-- Oregon House Majority Leader Ben Bowman
-- Metro Councilor Christine Lewis
-- West Linn Mayor Rory Bialostosky
-- Tualatin Mayor Frank Bubenik
-- Lake Oswego Mayor Joe Buck
-- Beaverton Mayor Lacey Beaty
-- Councilor Bridget Brooks - Tualatin
-- Councilor Valerie Pratt - Tualatin
-Unions & Organizations
-- Oregon Education Association
-- Stand for Children
-- MotherPAC
-- WINPAC
-- Pro Choice Oregon
-- Planned Parenthood of Oregon
-- Oregon League of Conservation Voters
-- UFCW Local 555
-- Oregon State Firefighters Council
-- Oregon Nurses Association
-- Clackamas County Democrats
-- Oregon Trial Lawyers Association
-- SEIU Oregon
-- NW Carpenters Union
-- Women’s Investment Network PAC
-- Willamette Women Democrats
-- Sierra Club, Oregon Chapter
-- Independent Party of Oregon
-- Working Families Party of Oregon
+0 Skip to Content About Issues Endorsements Yard Signs Volunteer DONATE Open Menu Close Menu About Issues Endorsements Yard Signs Volunteer DONATE Open Menu Close Menu About Issues Endorsements Yard Signs Volunteer DONATE Proudly Endorsed by Community Leaders Endorse Jules “Jules is steadfast in her support for protecting abortion and LGBTQ+ rights.
+She’s a dependable progressive who’s leading the fight against climate change and working to lower health care and housing costs to level the playing field for working people.” U.S.
+Senator Jeff Merkley “While mayor of West Linn, Jules and I worked together on joint meetings between our cities on issues of mutual concern.
+She is providing a voice for our cities.
+I highly endorse her.” Denyse C.
+McGriff, Oregon City Mayor “Jules is a trusted leader in our community who has built robust regional and statewide partnerships to tackle the important issues facing the district.
+She has my full confidence and support.” Senate President Rob Wagner Community Leaders US Senator Ron Wyden US Senator Jeff Merkley Oregon Senate President Rob Wagner Oregon Speaker Julie Fahey Oregon House Majority Leader Ben Bowman Metro Councilor Christine Lewis West Linn Mayor Rory Bialostosky Tualatin Mayor Frank Bubenik Lake Oswego Mayor Joe Buck Beaverton Mayor Lacey Beaty Councilor Bridget Brooks - Tualatin Councilor Valerie Pratt - Tualatin Unions & Organizations Oregon Education Association Stand for Children MotherPAC WINPAC Pro Choice Oregon Planned Parenthood of Oregon Oregon League of Conservation Voters UFCW Local 555 Oregon State Firefighters Council Oregon Nurses Association Clackamas County Democrats Oregon Trial Lawyers Association SEIU Oregon NW Carpenters Union Women’s Investment Network PAC Willamette Women Democrats Sierra Club, Oregon Chapter Independent Party of Oregon Working Families Party of Oregon © #-# Jules Walters for State Representative Home About Jules The Issues Paid for by Friends of Jules Walters 19369

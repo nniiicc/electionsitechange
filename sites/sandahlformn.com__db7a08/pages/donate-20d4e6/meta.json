@@ -1,7 +1,9 @@
 {
  "description": "Support Leanna Sandahl&#39;s political campaign by donating online. Every contribution helps make a difference!",
  "final_url": "https://sandahlformn.com/donate",
- "paid_for_by": null,
+ "fingerprint": "579299519a222fb9ea1010ce409a441ec791006a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
  "years_mentioned": []
 }

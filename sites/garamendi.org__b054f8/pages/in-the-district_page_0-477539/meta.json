@@ -1,7 +1,9 @@
 {
  "description": "Look to the future.",
  "final_url": "https://www.garamendi.org/in-the-district?page=0",
- "paid_for_by": null,
+ "fingerprint": "4090d7d718e71a78a84546305b3070e333197b54",
+ "format": 3,
+ "paid_for_by": "AUTHORIZED BY GARAMENDI FOR CONGRESS",
  "title": "In the District | John Garamendi",
  "years_mentioned": [
   "2022",

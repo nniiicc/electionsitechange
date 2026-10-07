@@ -1,23 +1,102 @@
 [
-"https://bcom.solutions/",
-"https://bsky.app/profile/jameswalkinshaw.bsky.social",
-"https://facebook.com/JamesWalkinshawVA",
-"https://instagram.com/james_walkinshaw",
-"https://jameswalkinshaw.org/",
-"https://jameswalkinshaw.org/about",
-"https://jameswalkinshaw.org/contact",
-"https://jameswalkinshaw.org/endorsements",
-"https://jameswalkinshaw.org/media-toolkit",
-"https://jameswalkinshaw.org/priorities",
-"https://jameswalkinshaw.org/vote",
-"https://secure.actblue.com/donate/james-walkinshaw",
-"https://secure.actblue.com/donate/james-walkinshaw&amount=25&refcode=website",
-"https://secure.actblue.com/donate/james-walkinshaw&amount=250&refcode=website",
-"https://secure.actblue.com/donate/james-walkinshaw&amount=5&refcode=website",
-"https://secure.actblue.com/donate/james-walkinshaw&amount=50&refcode=website",
-"https://secure.actblue.com/donate/james-walkinshaw&amount=500&refcode=website",
-"https://threads.com/@james_walkinshaw",
-"https://tiktok.com/@james.r.walkinshaw",
-"https://x.com/JamesWalkinshaw",
-"https://youtube.com/@JamesWalkinshawVA"
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/james-walkinshaw&amount=25&refcode=website"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/james-walkinshaw&amount=250&refcode=website"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/james-walkinshaw&amount=5&refcode=website"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/james-walkinshaw&amount=50&refcode=website"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/james-walkinshaw&amount=500&refcode=website"
+},
+{
+"text": "About",
+"href": "https://jameswalkinshaw.org/about/"
+},
+{
+"text": "Contact",
+"href": "https://jameswalkinshaw.org/contact/"
+},
+{
+"text": "Contact Us",
+"href": "https://jameswalkinshaw.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/james-walkinshaw"
+},
+{
+"text": "Endorsements",
+"href": "https://jameswalkinshaw.org/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JamesWalkinshawVA/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/james_walkinshaw/"
+},
+{
+"text": "Media Toolkit",
+"href": "https://jameswalkinshaw.org/media-toolkit/"
+},
+{
+"text": "Meet James",
+"href": "https://jameswalkinshaw.org/about/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/james-walkinshaw"
+},
+{
+"text": "Priorities",
+"href": "https://jameswalkinshaw.org/priorities/"
+},
+{
+"text": "Read More",
+"href": "https://jameswalkinshaw.org/about/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@james_walkinshaw"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@james.r.walkinshaw"
+},
+{
+"text": "Vote",
+"href": "https://jameswalkinshaw.org/vote/"
+},
+{
+"text": "Website built by BCom",
+"href": "https://bcom.solutions"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/JamesWalkinshaw"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@JamesWalkinshawVA"
+},
+{
+"text": "[image]",
+"href": "https://jameswalkinshaw.org"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jameswalkinshaw.bsky.social"
+}
 ]

@@ -1,3 +1,5 @@
-Press Releases
-Stay up to date on Forrest's campaign, policy positions, town halls, and what we're building in District 21.
+Skip to main content About Issues Vote News Events Contact Shop Donate Volunteer Volunteer Donate News & Press Releases Stay up to date on Forrest's campaign, policy positions, town halls, and what we're building in District 21.
 All posts and press releases are published here.
+Latest publications All Policy All Press Releases Policy May 25, 2026 When the Rent Won't Fit Read more  Policy May 25, 2026 Keeping the House You Already Own Read more  Policy May 25, 2026 The Houses Alabama Won't Stand Behind Read more  Policy May 25, 2026 Alabama's Certificate of Need Trap Read more  Press Releases Mar 2, 2026 The Hospital Merger North Alabama Can't Afford Read more  Focused on problems, not politics. candidate@forrestforalabama.com ‪(256) 384-4931‬ Paid for by Forrest Via Satterfield 740 SW Constellation Pl Dr, Apt.
+202, Huntsville, AL 35801 Get Involved Volunteer, Donate, or Connect with Forrest.
+Connect Menu Home About Issues Vote News Events Contact Shop Donate Volunteer Privacy Policy

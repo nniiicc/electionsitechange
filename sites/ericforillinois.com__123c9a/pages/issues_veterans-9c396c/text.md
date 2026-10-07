@@ -1,4 +1,4 @@
-I believe in
-Supporting Veterans
-We must honor the sacrifices of our veterans and their families.
+Skip navigation menu Meet Eric Issues Achievements Get Involved Contact Media News Donate Meet Eric Issues Achievements Get Involved Contact Media News Donate Creating Jobs and Lowering Costs for Illinois Protecting Reproductive Rights Supporting Public Safety and Law Enforcement LGBTQ+ Advocacy Supporting Veterans Strengthening Local Infrastructure Supporting Seniors and Social Security Cutting the Cost of Healthcare/Prescription Drugs Making Government Work for Illinois I believe in Supporting Veterans We must honor the sacrifices of our veterans and their families.
 I have introduced legislation to increase grants to help disabled veterans afford home accessibility upgrades, such as ramps for wheelchairs and other improvements.
+Eric Sorensen for Illinois P.O.
+Box 1172 Moline, IL 61265 ​ info@ericforillinois.com Privacy Policy Powered by RUN! website builder Paid for by Eric Sorensen for Illinois You need to enable JavaScript to run this app.

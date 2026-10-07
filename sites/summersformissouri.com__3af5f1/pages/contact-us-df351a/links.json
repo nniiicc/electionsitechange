@@ -1,14 +1,62 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSdNC__W-htnca-wHQXzsWQh60Tb7P1_J5fexbTQx0nNlBpAbg/viewform?pli=1",
-"https://facebook.com/profile.php?id=61587822713775",
-"https://instagram.com/summersformissouri/sformissouri",
-"https://secure.actblue.com/donate/cathy-summers",
-"https://store.summersformissouri.com/",
-"https://summersformissouri.com/",
-"https://summersformissouri.com/contact-us",
-"https://summersformissouri.com/endorsements",
-"https://summersformissouri.com/issues",
-"https://summersformissouri.com/media",
-"https://summersformissouri.com/policies",
-"https://summersformissouri.com/privacy-policy"
+{
+"text": "Amendments",
+"href": "https://www.summersformissouri.com/issues/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.summersformissouri.com/contact-us/"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/cathy-summers"
+},
+{
+"text": "Endorsements",
+"href": "https://www.summersformissouri.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/profile.php?id=61587822713775"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/summersformissouri/sformissouri/"
+},
+{
+"text": "Home",
+"href": "https://www.summersformissouri.com/"
+},
+{
+"text": "Join our Team",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdNC__W-htnca-wHQXzsWQh60Tb7P1_J5fexbTQx0nNlBpAbg/viewform?pli=1"
+},
+{
+"text": "Media",
+"href": "https://www.summersformissouri.com/media/"
+},
+{
+"text": "Policy & Beliefs",
+"href": "https://www.summersformissouri.com/policies/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.summersformissouri.com/contact-us/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.summersformissouri.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://store.summersformissouri.com"
+},
+{
+"text": "[image][image]",
+"href": "https://www.summersformissouri.com/"
+},
+{
+"text": "summersformissouri@gmail.com",
+"href": "mailto:summersformissouri@gmail.com?subject=I+want+to+connect"
+}
 ]

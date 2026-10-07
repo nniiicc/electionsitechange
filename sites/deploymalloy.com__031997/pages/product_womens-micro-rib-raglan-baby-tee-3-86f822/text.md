@@ -1,12 +1,6 @@
-Soft, sporty, and easy to style—this baby tee updates a classic baseball-inspired design.
-With its fitted cut, mid-length body, and soft ribbed texture, it pairs effortlessly with jeans, shorts, or joggers for a casual, flattering look.
-• 52% Airlume combed and ring-spun cotton, 48% polyester
-• Athletic Heather colors are 90% Airlume combed and ring-spun cotton, 10% polyester
-• Fabric weight: 5.4 oz/yd² (183 g/m²)
-• Micro rib fabric for a soft, stretchy feel
-• Fitted silhouette
-• Sleeves with contrast coloring
-• Pre-shrunk fabric for lasting fit
-• Blank product sourced from Nicaragua
-This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you.
+Home / Let's Deploy Malloy / Women’s micro rib raglan baby tee Women’s micro rib raglan baby tee $ 26.00 – $ 28.50 Price range: $26.00 through $28.50 Color Choose an option White/Black White/Pink White/Red Size Choose an option 2XL L M S XL Clear Quantity - Women’s micro rib raglan baby tee quantity + Add to cart SKU: N/A Category: Let's Deploy Malloy Share Description Additional information Soft, sporty, and easy to style—this baby tee updates a classic baseball-inspired design.
+With its fitted cut, mid-length body, and soft ribbed texture, it pairs effortlessly with jeans, shorts, or joggers for a casual, flattering look. • 52% Airlume combed and ring-spun cotton, 48% polyester • Athletic Heather colors are 90% Airlume combed and ring-spun cotton, 10% polyester • Fabric weight: 5.4 oz/yd² (183 g/m²) • Micro rib fabric for a soft, stretchy feel • Fitted silhouette • Sleeves with contrast coloring • Pre-shrunk fabric for lasting fit • Blank product sourced from Nicaragua This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you.
 Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
+Weight N/A Related products Quick View Let's Deploy Malloy MALLOY Black Glossy Mug $ 11.00 – $ 12.00 Price range: $11.00 through $12.00 Select options This product has multiple variants.
+The options may be chosen on the product page Use of candidate’s military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Copyright # Gerald Malloy for US Congress, Limited Contact for the campaign volunteer@deploymalloy.com PO Box 103 Perkinsville, VT 05151 802-263-5405 Media Request Privacy Policy Paid for by Gerald Malloy for US Congress , Limited Privacy Settings Youtube Consent to display content from - Youtube Vimeo Consent to display content from - Vimeo Google Maps Consent to display content from - Google Spotify Consent to display content from - Spotify Sound Cloud Consent to display content from - Sound Save Cart Overview

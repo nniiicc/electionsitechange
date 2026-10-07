@@ -1,17 +1,78 @@
 [
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fsanitysam.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fsanitysam.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Sam+for+AZ+House+of+Representatives+Events+%E2%80%93+Sam+for+AZ+House+of+Representatives",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fsanitysam.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Sam+for+AZ+House+of+Representatives+Events+%E2%80%93+Sam+for+AZ+House+of+Representatives",
-"https://sanitysam.com/",
-"https://sanitysam.com/contact",
-"https://sanitysam.com/events",
-"https://sanitysam.com/events/2026-10-04",
-"https://sanitysam.com/events/month",
-"https://sanitysam.com/events/today",
-"https://sanitysam.com/events/today?ical=1",
-"https://sanitysam.com/events/today?outlook-ical=1",
-"https://sanitysam.com/join-the-sanity-campaign",
-"https://sanitysam.com/who-is-sam-martin",
-"https://sanitysam.com/why-sam-martin",
-"https://wp-royal-themes.com/"
+{
+"text": "#ago",
+"href": "https://sanitysam.com/events/today/"
+},
+{
+"text": "Day",
+"href": "https://sanitysam.com/events/today/"
+},
+{
+"text": "Events",
+"href": "https://sanitysam.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://sanitysam.com/events/today/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://sanitysam.com/events/today/?outlook-ical=1"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fsanitysam.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Join The Sanity Campaign",
+"href": "https://sanitysam.com/join-the-sanity-campaign/"
+},
+{
+"text": "Month",
+"href": "https://sanitysam.com/events/month/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fsanitysam.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Sam+for+AZ+House+of+Representatives+Events+%E2%80%93+Sam+for+AZ+House+of+Representatives"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fsanitysam.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Sam+for+AZ+House+of+Representatives+Events+%E2%80%93+Sam+for+AZ+House+of+Representatives"
+},
+{
+"text": "Previous Day",
+"href": "https://sanitysam.com/events/2026-10-06/"
+},
+{
+"text": "Sam for AZ House of Representatives",
+"href": "https://sanitysam.com/"
+},
+{
+"text": "Support the Campaign",
+"href": "https://sanitysam.com/contact/"
+},
+{
+"text": "WP Royal",
+"href": "https://wp-royal-themes.com/"
+},
+{
+"text": "Who is Sam Martin?",
+"href": "https://sanitysam.com/who-is-sam-martin/"
+},
+{
+"text": "Why Sam Martin?",
+"href": "https://sanitysam.com/why-sam-martin/"
+},
+{
+"text": "[no text]",
+"href": "https://wp-royal-themes.com/"
+},
+{
+"text": "[tooltip: Previous day]",
+"href": "https://sanitysam.com/events/2026-10-06/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://sanitysam.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

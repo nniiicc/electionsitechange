@@ -1,6 +1,9 @@
-For more than a year, Larry Miller has been investigating allegations of home appraisal bias in Prince George’s County, Maryland.
-What’s Your Home Worth?
-A WUSA9 investigation into appraisal bias
-- Post author:admin
-- Post published:July 10, 2022
-- Post category:Latest News
+Skip to content Covid-19 Contact Us Get Involved Home About Marvin Issues District 23 Endorsements Up Coming Events Menu Close Home About Marvin Issues District 23 Endorsements Up Coming Events Covid-19 Contact Us Get Involved Blog Home / Latest News / What’s Your Home Worth?
+A WUSA9 investigation into appraisal bias What’s Your Home Worth?
+A WUSA9 investigation into appraisal bias Post author: admin Post published: July 10, 2022 Post category: Latest News For more than a year, Larry Miller has been investigating allegations of home appraisal bias in Prince George’s County, Maryland.
+Please Share This Share this content Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window You Might Also Like Delegate Holmes statement on the insurrection in DC.
+January 9, 2021 Pepco Reminds Customers of Important Programs and Assistance Available to Aid Those Who Are Behind on Their Energy Bills January 14, 2021 MD State Homeowners Assistance Fund October 15, 2021 Navigation Home About Marvin Issues District 23 Endorsements Up Coming Events Learn more Covid-19 Contact Us Get Involved Contact Info Delegate Marvin E.
+Holmes, Jr Office Address: 364 House Office Building 6 Bladen Street Annapolis, MD 21401 Phone: (301) 858-3310 Email: marvin.holmes@house.state.md.us Opens in your application Latest News The 23rd District Leadership Team Democratic Sample Ballot October 18, 2022 / 0 Comments Stakeholder roundtable – Part ii March 3, 2022 / 0 Comments By Authority: Friends of Marvin E.
+Holmes, Jr.
+J.
+Frank McGraw, Treasurer © # All Rights Reserved

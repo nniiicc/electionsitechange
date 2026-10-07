@@ -1,7 +1,11 @@
 {
- "description": "The following is a statement from Jack Perry, candidate for Connecticut State Senate in the 16th District, on the Town of Prospect\u2019s finances and the Council\u2019s move toward an independent audit.",
+ "description": "The following is a statement from Jack Perry, candidate for Connecticut State Senate in the 16th District, on the Town of Prospect’s finances and the Council’s move toward an independent audit.",
  "final_url": "https://www.voteforjackperry.com/news/prospect-savings-audit",
+ "fingerprint": "31a0e1f6878fc0ee1df0640ec373155808c6b6e5",
+ "format": 3,
  "paid_for_by": "Paid for by Perry 2026",
- "title": "Prospect\u2019s Savings Fell by Half. An Audit Is a Good First Step, Not the Finish Line",
- "years_mentioned": []
+ "title": "Prospect’s Savings Fell by Half. An Audit Is a Good First Step, Not the Finish Line",
+ "years_mentioned": [
+  "2026"
+ ]
 }

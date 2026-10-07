@@ -1,48 +1,11 @@
-News & Updates
-Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary
-BISMARCK, ND – Governor Kelly Armstrong today announced his first round of endorsements ahead of the June 9th Republican Primary, emphasizing the importance of electing conservative leaders committed to cutting property taxes, growing the economy, and protecting North Dakota’s way of life.
+MEET SHAWN PRIORITIES GET INVOLVED NEWS VOTE CONTACT CONTRIBUTE News & Updates Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary May 5, 2026 | Press Release BISMARCK, ND – Governor Kelly Armstrong today announced his first round of endorsements ahead of the June 9th Republican Primary, emphasizing the importance of electing conservative leaders committed to cutting property taxes, growing the economy, and protecting North Dakota’s way of life.
 “By working together and focusing on the issues that matter to North Dakota families, our conservative legislators have delivered meaningful, results-driven policies for our state,” Governor Armstrong said.
 “They passed historic property tax relief, eliminated sixteen boards and commissions to reduce wasteful spending, and prioritized education, including implementing cell phone-free schools.
 They continue to stand strong for our business community and the energy and agriculture industries that power our state.
-As these proven leaders seek reelection, I’m confident they will continue to deliver and protect our way of life.”
-“I’m also encouraged by a new generation of conservative candidates stepping forward to serve,” Armstrong added.
+As these proven leaders seek reelection, I’m confident they will continue to deliver and protect our way of life.” “I’m also encouraged by a new generation of conservative candidates stepping forward to serve,” Armstrong added.
 “They are committed to lowering property taxes, growing our economy, and reducing government spending.
-I’m proud to support this slate of candidates and encourage North Dakotans to join me in supporting them on June 9.”
-Governor Armstrong Endorsements:
-District 3
-- Blaine DesLauriers
-- Tim Mihalick
-District 7
-- Senator Michelle Axtman
-- Steve Sauter
-- Greg Vetter
-District 13
-- Senator Judy Lee
-- Representative Austen Schauer
-- Representative Jim Jonas
-District 23
-- Corey Johnson
-District 25
-- Terry Goerger
-District 27
-- Senator Kristin Roers
-- Representative Greg Stemen
-- Shawn Kessel
-District 31
-- Senator Don Schaible
-District 33
-- Representative Anna Novak
-- Mike Heger
-District 42
-- Representative Dustin McNally
-District 43
-Mike Holmes
-Latest News
-Interview with Michael Bell on Dakota Mornings
-News & Updates Shawn Kessel, Republican candidate for North Dakota House for District 27 in Fargo joined Michael Bell on the Dakota Mornings program to discuss his campaign.
-Start listening at 21:00 to hear from Shawn on his experience in the public and private…
-District 27 Republicans Sen.
+I’m proud to support this slate of candidates and encourage North Dakotans to join me in supporting them on June 9.” Governor Armstrong Endorsements: District 3 Blaine DesLauriers Tim Mihalick District 7 Senator Michelle Axtman Steve Sauter Greg Vetter District 13 Senator Judy Lee Representative Austen Schauer Representative Jim Jonas District 23 Corey Johnson District 25 Terry Goerger District 27 Senator Kristin Roers Representative Greg Stemen Shawn Kessel District 31 Senator Don Schaible District 33 Representative Anna Novak Mike Heger District 42 Representative Dustin McNally District 43 Mike Holmes Latest News Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary News & Updates BISMARCK, ND – Governor Kelly Armstrong today announced his first round of endorsements ahead of the June 9th Republican Primary, emphasizing the importance of electing conservative leaders committed to cutting property taxes, growing the economy,… Read More Interview with Michael Bell on Dakota Mornings Jan 7, 2026 | In the News News & Updates Shawn Kessel, Republican candidate for North Dakota House for District 27 in Fargo joined Michael Bell on the Dakota Mornings program to discuss his campaign.
+Start listening at 21:00 to hear from Shawn on his experience in the public and private… District 27 Republicans Sen.
 Kristin Roers, Rep.
-Greg Stemen and Shawn Kessel Announce 2026 Campaign for North Dakota Legislature
-News & Updates FARGO, N.D. – State Senator Kristin Roers, State Representative Greg Stemen, and Shawn Kessel today announced their 2026 campaign for the North Dakota Legislature in District 27 representing southwest Fargo.
-In their announcement, they…
+Greg Stemen and Shawn Kessel Announce 2026 Campaign for North Dakota Legislature Dec 8, 2025 | Press Release News & Updates FARGO, N.D. – State Senator Kristin Roers, State Representative Greg Stemen, and Shawn Kessel today announced their 2026 campaign for the North Dakota Legislature in District 27 representing southwest Fargo.
+In their announcement, they… « Older Entries  STAY CONNECTED FULL NAME (Required) First Last Email (Required) Phone (Required) MESSAGE CAPTCHA Submit PAID FOR BY FRIENDS OF KESSEL

@@ -1,5 +1,4 @@
-Housing Mandates and San Jose's Upzoning Vote
-San José’s decision last night to move forward with possibly quadrupling residential density in single‑family neighborhoods marks one of the most consequential land‑use shifts in the city’s modern history.
+Skip to Content Open Menu Close Menu Meet Carol About Carol Key Priorities Ballot Statement Assembly District 28 Carol's Calendar Pictures Get Involved Volunteer Host an Event Weekly Volunteer Meeting Phone Bank Sign Up News by Carol Events Housing Mandates The Issue Los Gatos-Saratoga-Monte Sereno Willow Glen Morgan Hill Santa Cruz Almaden Valley In The News Vote 2026 Voter Help Santa Cruz County Voter Guide Santa Clara County Voter Guide Statewide Ballot Measures Register to Vote Find Polling Center Find my Representative Track My Ballot Replace My Ballot Endorsements Podcasts California Screamin Carol Pefley for Assembly Patriot Store 0 0 Donate Meet Carol About Carol Key Priorities Ballot Statement Assembly District 28 Carol's Calendar Pictures Get Involved Volunteer Host an Event Weekly Volunteer Meeting Phone Bank Sign Up News by Carol Events Housing Mandates The Issue Los Gatos-Saratoga-Monte Sereno Willow Glen Morgan Hill Santa Cruz Almaden Valley In The News Vote 2026 Voter Help Santa Cruz County Voter Guide Santa Clara County Voter Guide Statewide Ballot Measures Register to Vote Find Polling Center Find my Representative Track My Ballot Replace My Ballot Endorsements Podcasts California Screamin Carol Pefley for Assembly Patriot Store 0 0 Donate Open Menu Close Menu Folder: Meet Carol Back About Carol Key Priorities Ballot Statement Assembly District 28 Carol's Calendar Pictures Folder: Get Involved Back Volunteer Host an Event Weekly Volunteer Meeting Phone Bank Sign Up News by Carol Events Folder: Housing Mandates Back The Issue Los Gatos-Saratoga-Monte Sereno Willow Glen Morgan Hill Santa Cruz Almaden Valley In The News Folder: Vote 2026 Back Voter Help Santa Cruz County Voter Guide Santa Clara County Voter Guide Statewide Ballot Measures Register to Vote Find Polling Center Find my Representative Track My Ballot Replace My Ballot Endorsements Folder: Podcasts Back California Screamin Carol Pefley for Assembly Patriot Store Donate Housing Mandates and San Jose's Upzoning Vote Aug 20 Written By Carol Pefley for California State Assembly District 28 San José’s decision last night to move forward with possibly quadrupling residential density in single‑family neighborhoods marks one of the most consequential land‑use shifts in the city’s modern history.
 Under the updated General Plan framework, areas long defined by detached homes and quiet streets may soon allow urban‑village‑style development, small multifamily buildings, and densities rising from 8 units per acre to as high as 32, a change city planners have been discussing for months.
 Yesterday, I got to City Hall at 1:30 p.m., right when the council session began, and waited four hours to speak.
 By 5:30 p.m., the upzoning item still hadn’t even been opened for discussion.
@@ -9,13 +8,7 @@ From what I understand, the turnout was enormous: nearly 200 in‑person speaker
 The overwhelming majority opposed the upzoning proposal.
 And yet, despite the hours of testimony, despite the frustration in the room, despite the clear imbalance of public sentiment, the council voted 8–3 to move forward with several amendments still being worked through.
 The next round of discussion is scheduled for October 6th, and it’s shaping up to be just as intense.
-What the Vote Actually Allows:
-The council’s action moves forward a framework that includes:
-Raising density in Residential Neighborhood zones from 8 units/acre to 32 units/acre
-Allowing 3‑story buildings up to 35 feet tall in areas currently limited to single‑family homes
-Streamlining approval for “missing middle” housing such as duplexes, triplexes, and fourplexes
-Reorganizing and expanding the Urban Village system across
-The vote reflects a deeper ideological divide about what single‑family neighborhoods represent, who they serve, and whether they should remain protected in a region facing severe housing pressures.
+What the Vote Actually Allows: The council’s action moves forward a framework that includes: Raising density in Residential Neighborhood zones from 8 units/acre to 32 units/acre Allowing 3‑story buildings up to 35 feet tall in areas currently limited to single‑family homes Streamlining approval for “missing middle” housing such as duplexes, triplexes, and fourplexes Reorganizing and expanding the Urban Village system across The vote reflects a deeper ideological divide about what single‑family neighborhoods represent, who they serve, and whether they should remain protected in a region facing severe housing pressures.
 From last nights vote, it is clear that councilmembers and pro‑housing advocates lean toward the belief that single‑family zoning is an outdated model that restricts supply, reinforces exclusivity, and prevents the city from meeting state‑mandated housing goals.
 They envision a future where dense housing, transit‑oriented development, and walkable urban villages are not limited to downtown or major corridors but woven throughout the city’s fabric.
 On the other side, many residents argue that single‑family neighborhoods do have a right to exist, not as exclusionary enclaves, but as stable, predictable communities that people invested in and built their lives around.
@@ -25,4 +18,14 @@ With the city pushing massive upzoning and the state enforcing aggressive housin
 Yet we haven’t seen that happen.
 Not in San José.
 Not in Silicon Valley.
-Not in any of the cities that have already gone through similar density expansions
+Not in any of the cities that have already gone through similar density expansions Carol Pefley for California State Assembly District 28 I’m running for State Assembly to help restore balance and bring common sense back to California’s government.
+I believe in a future where families can thrive, small businesses can succeed, and opportunity is within reach for all.
+This is still a great state—and with the right leadership, we can make it more affordable, more accountable, and more hopeful for generations to come.
+Previous Previous The Stop Nick Shirley Act: California’s New Crackdown on the First Amendment Next Next The High Cost of Bad Energy Policy, And We All feel It.
+Help Carol Pefley Win Donate Today Volunteer Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Our Email List Join our email list to stay connected with campaign updates and local news.
+First Name Last Name Email Address Sign Up We respect your privacy.
+Thank you!
+Campaign Headquarters 55 East Hamilton Avenue Campbell, CA 95008 carol@carolpefleyforassembly.com Paid for by Carol Pefley for Assembly 2026 © Carol Pefley for California State Assembly District 28.
+All Rights Reserved. | site design by Conservative Toolbox

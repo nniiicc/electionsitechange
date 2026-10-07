@@ -1,2 +1,5 @@
-Shadow Mountain HOA Meetingthierry2022-10-11T09:18:53-05:00 Sorry, your browser doesn't support embedded videos.
-October 5, 2022
+Skip to content Save Oklahoma Students (SOS) “ThatIsNotOK” Issues Meet Paul Endorsements News Resources Contact DONATE DONATE MENU Save Oklahoma Students (SOS) “ThatIsNotOK” DONATE Issues Meet Paul Endorsements News Resource Links Contact DONATE MENU Save Oklahoma Students (SOS) “ThatIsNotOK” DONATE Issues Meet Paul Endorsements News Resource Links Contact Shadow Mountain HOA Meeting Shadow Mountain HOA Meeting thierry 2022-10-11T09:18:53-05:00 Sorry, your browser doesn't support embedded videos.
+October 5, 2022 Follow Us!
+Links Toggle Navigation Home Press Privacy Policy Contact Us Paul Hassink for Oklahoma Representative – District 79 Contact me via email 918-321-0807 5867 S.
+Joplin Ave.
+Tulsa, OK 74135 © Copyright # | Authorized and paid for by Hassink 2024 | All rights reserved Page load link Go to Top

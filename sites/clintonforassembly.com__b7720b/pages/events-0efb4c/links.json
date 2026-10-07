@@ -1,85 +1,474 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=2024+Campaign+Kickoff&dates=20240428T190000Z%2F20240428T210000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Beloit+Office+Opening&dates=20220923T210000Z%2F20220923T230000Z&location=1757+Prairie+Avenue%2C+Beloit%2C+WI%2C+53511%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum+Hosted+by+LWV+Wisconsin%2C+Beloit+NAACP%2C+and+Beloit+League&dates=20221012T230000Z%2F20221013T003000Z&location=1500+4th+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Come+Knock+Doors+in+Evansville&dates=20220910T160000Z%2F20220910T210000Z&location=528+Water+Street%2C+Evansville%2C+WI%2C+53536%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Come+Knock+Doors+in+Evansville&dates=20220924T160000Z%2F20220924T210000Z&location=528+Water+Street%2C+Evansville%2C+WI%2C+53536%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Come+Knock+on+Doors+in+Beloit&dates=20220827T140000Z%2F20220827T200000Z&location=921+Cleveland+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Come+Knock+on+Doors+in+Beloit+&dates=20220828T160000Z%2F20220828T220000Z&location=328+State+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Come+Knock+on+Doors+in+Beloit+&dates=20220904T160000Z%2F20220904T220000Z&location=328+State+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Come+Knock+on+Doors+in+Beloit+&dates=20220911T160000Z%2F20220911T220000Z&location=328+State+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Come+Knock+on+Doors+in+Beloit+&dates=20220917T160000Z%2F20220917T220000Z&location=1718+Henderson+Avenue%2C+Beloit%2C+WI%2C+53511%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Come+Knock+on+Doors+in+Beloit+&dates=20220918T160000Z%2F20220918T220000Z&location=328+State+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Come+Knock+on+Doors+in+Beloit+&dates=20220925T160000Z%2F20220925T220000Z&location=328+State+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Democratic+Party+of+Green+County+Meet+and+Greet+Supporting+Jenna+Jacobson%2C+Mark+Spreitzer%2C+and+Clinton+Anderson&dates=20221005T230000Z%2F20221006T010000Z&location=3941+Golf+Course+Road%2C+Brodhead%2C+WI%2C+53520%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Join+Rep+Mark+Spreitzer+and+Congressman+Mark+Pocan+for+an+event++supporting+Clinton+Anderson+for+Assembly&dates=20221002T190000Z%2F20221002T210000Z&location=1679+Prairie+Avenue%2C+Beloit%2C+WI%2C+53511%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Madison+Rigby+Fundraiser&dates=20220928T210000Z%2F20220928T230000Z&location=119+East+Main+Street%2C+Madison%2C+WI%2C+53703%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+in+Evansville+for+Clinton+Anderson&dates=20221013T210000Z%2F20221014T000000Z&location=179+East+Main+Street%2C+Evansville%2C+WI%2C+53536%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rep.+Anderson%E2%80%99s+33rd+Birthday+Fundraiser&dates=20260527T223000Z%2F20260528T003000Z&location=101+Maple+Avenue%2C+Beloit%2C+WI%2C+53511%2C+United+States",
-"http://maps.google.com/?q=101+Maple+Avenue+Beloit%2C+WI%2C+53511+United+States",
-"http://maps.google.com/?q=119+East+Main+Street+Madison%2C+WI%2C+53703+United+States",
-"http://maps.google.com/?q=1500+4th+Street+Beloit%2C+WI%2C+53511+United+States",
-"http://maps.google.com/?q=1679+Prairie+Avenue+Beloit%2C+WI%2C+53511+United+States",
-"http://maps.google.com/?q=1718+Henderson+Avenue+Beloit%2C+WI%2C+53511+United+States",
-"http://maps.google.com/?q=1757+Prairie+Avenue+Beloit%2C+WI%2C+53511+United+States",
-"http://maps.google.com/?q=179+East+Main+Street+Evansville%2C+WI%2C+53536+United+States",
-"http://maps.google.com/?q=328+State+Street+Beloit%2C+WI%2C+53511+United+States",
-"http://maps.google.com/?q=3941+Golf+Course+Road+Brodhead%2C+WI%2C+53520+United+States",
-"http://maps.google.com/?q=528+Water+Street+Evansville%2C+WI%2C+53536+United+States",
-"http://maps.google.com/?q=921+Cleveland+Street+Beloit%2C+WI%2C+53511+United+States",
-"http://secure.actblue.com/donate/clintattherigby",
-"https://clintonforassembly.com/",
-"https://clintonforassembly.com/about",
-"https://clintonforassembly.com/cart",
-"https://clintonforassembly.com/endorsements",
-"https://clintonforassembly.com/events",
-"https://clintonforassembly.com/events/2024-campaign-kickoff",
-"https://clintonforassembly.com/events/2024-campaign-kickoff?format=ical",
-"https://clintonforassembly.com/events/beloit-office-opening",
-"https://clintonforassembly.com/events/beloit-office-opening?format=ical",
-"https://clintonforassembly.com/events/candidate-forum-hosted-by-lwv-wisconsin-beloit-naacp-and-beloit-league",
-"https://clintonforassembly.com/events/candidate-forum-hosted-by-lwv-wisconsin-beloit-naacp-and-beloit-league?format=ical",
-"https://clintonforassembly.com/events/clintonturns33",
-"https://clintonforassembly.com/events/clintonturns33?format=ical",
-"https://clintonforassembly.com/events/come-knock-doors-in-evansville",
-"https://clintonforassembly.com/events/come-knock-doors-in-evansville-pdlkj",
-"https://clintonforassembly.com/events/come-knock-doors-in-evansville-pdlkj?format=ical",
-"https://clintonforassembly.com/events/come-knock-doors-in-evansville?format=ical",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-geshn",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-geshn-5ynjp",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-geshn-5ynjp?format=ical",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-geshn?format=ical",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-gn5m7",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-gn5m7?format=ical",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb?format=ical",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9?format=ical",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5?format=ical",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit?format=ical",
-"https://clintonforassembly.com/events/join-rep-mark-spreitzer-and-congressman-mark-pocan-for-an-event-supporting-clinton-anderson-for-assembly",
-"https://clintonforassembly.com/events/join-rep-mark-spreitzer-and-congressman-mark-pocan-for-an-event-supporting-clinton-anderson-for-assembly?format=ical",
-"https://clintonforassembly.com/events/madison-rigby-fundraiser",
-"https://clintonforassembly.com/events/madison-rigby-fundraiser?format=ical",
-"https://clintonforassembly.com/events/meet-and-greet-in-evansville-for-clinton-anderson",
-"https://clintonforassembly.com/events/meet-and-greet-in-evansville-for-clinton-anderson?format=ical",
-"https://clintonforassembly.com/events/r55heg6895avcil6w6n2qs85as6a86",
-"https://clintonforassembly.com/events/r55heg6895avcil6w6n2qs85as6a86?format=ical",
-"https://clintonforassembly.com/issues",
-"https://facebook.com/Clinton-Anderson-for-Assembly-District-45-104142868937053",
-"https://mobilize.us/s/5DerqR",
-"https://mobilize.us/s/72OlMF",
-"https://mobilize.us/s/8zMq2X",
-"https://mobilize.us/s/9DQf4L",
-"https://mobilize.us/s/mpBAAy",
-"https://mobilize.us/s/plkK4x",
-"https://mobilize.us/s/snpPMx",
-"https://mobilize.us/s/syvDir",
-"https://mobilize.us/s/vQkf61",
-"https://secure.actblue.com/donate/beloit",
-"https://secure.actblue.com/donate/clinton-for-45",
-"https://secure.actblue.com/donate/clintonkickoff2024",
-"https://secure.actblue.com/donate/clintonturns33"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=101+maple+avenue+beloit%2C+wi%2C+53511+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=119+east+main+street+madison%2C+wi%2C+53703+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1500+4th+street+beloit%2C+wi%2C+53511+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1679+prairie+avenue+beloit%2C+wi%2C+53511+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1718+henderson+avenue+beloit%2C+wi%2C+53511+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1757+prairie+avenue+beloit%2C+wi%2C+53511+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=179+east+main+street+evansville%2C+wi%2C+53536+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=328+state+street+beloit%2C+wi%2C+53511+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3941+golf+course+road+brodhead%2C+wi%2C+53520+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=528+water+street+evansville%2C+wi%2C+53536+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=921+cleveland+street+beloit%2C+wi%2C+53511+united+states"
+},
+{
+"text": "0",
+"href": "https://www.clintonforassembly.com/cart"
+},
+{
+"text": "2024 Campaign Kickoff",
+"href": "https://www.clintonforassembly.com/events/2024-campaign-kickoff"
+},
+{
+"text": "About",
+"href": "https://www.clintonforassembly.com/about"
+},
+{
+"text": "Beloit Office Opening",
+"href": "https://www.clintonforassembly.com/events/beloit-office-opening"
+},
+{
+"text": "Candidate Forum Hosted by LWV Wisconsin, Beloit NAACP, and Beloit League",
+"href": "https://www.clintonforassembly.com/events/candidate-forum-hosted-by-lwv-wisconsin-beloit-naacp-and-beloit-league"
+},
+{
+"text": "Come Knock Doors in Evansville",
+"href": "https://www.clintonforassembly.com/events/come-knock-doors-in-evansville"
+},
+{
+"text": "Come Knock Doors in Evansville",
+"href": "https://www.clintonforassembly.com/events/come-knock-doors-in-evansville-pdlkj"
+},
+{
+"text": "Come Knock on Doors in Beloit",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit"
+},
+{
+"text": "Come Knock on Doors in Beloit",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5"
+},
+{
+"text": "Come Knock on Doors in Beloit",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9"
+},
+{
+"text": "Come Knock on Doors in Beloit",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb"
+},
+{
+"text": "Come Knock on Doors in Beloit",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-geshn"
+},
+{
+"text": "Come Knock on Doors in Beloit",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-geshn-5ynjp"
+},
+{
+"text": "Come Knock on Doors in Beloit",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-gn5m7"
+},
+{
+"text": "Democratic Party of Green County Meet and Greet Supporting Jenna Jacobson, Mark Spreitzer, and Clinton Anderson",
+"href": "https://www.clintonforassembly.com/events/r55heg6895avcil6w6n2qs85as6a86"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/clinton-for-45"
+},
+{
+"text": "Endorsements",
+"href": "https://www.clintonforassembly.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.clintonforassembly.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=2024+Campaign+Kickoff&dates=20240428T190000Z%2F20240428T210000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Beloit+Office+Opening&dates=20220923T210000Z%2F20220923T230000Z&location=1757+Prairie+Avenue%2C+Beloit%2C+WI%2C+53511%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum+Hosted+by+LWV+Wisconsin%2C+Beloit+NAACP%2C+and+Beloit+League&dates=20221012T230000Z%2F20221013T003000Z&location=1500+4th+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Come+Knock+Doors+in+Evansville&dates=20220910T160000Z%2F20220910T210000Z&location=528+Water+Street%2C+Evansville%2C+WI%2C+53536%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Come+Knock+Doors+in+Evansville&dates=20220924T160000Z%2F20220924T210000Z&location=528+Water+Street%2C+Evansville%2C+WI%2C+53536%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Come+Knock+on+Doors+in+Beloit&dates=20220827T140000Z%2F20220827T200000Z&location=921+Cleveland+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Come+Knock+on+Doors+in+Beloit+&dates=20220828T160000Z%2F20220828T220000Z&location=328+State+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Come+Knock+on+Doors+in+Beloit+&dates=20220904T160000Z%2F20220904T220000Z&location=328+State+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Come+Knock+on+Doors+in+Beloit+&dates=20220911T160000Z%2F20220911T220000Z&location=328+State+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Come+Knock+on+Doors+in+Beloit+&dates=20220917T160000Z%2F20220917T220000Z&location=1718+Henderson+Avenue%2C+Beloit%2C+WI%2C+53511%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Come+Knock+on+Doors+in+Beloit+&dates=20220918T160000Z%2F20220918T220000Z&location=328+State+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Come+Knock+on+Doors+in+Beloit+&dates=20220925T160000Z%2F20220925T220000Z&location=328+State+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Democratic+Party+of+Green+County+Meet+and+Greet+Supporting+Jenna+Jacobson%2C+Mark+Spreitzer%2C+and+Clinton+Anderson&dates=20221005T230000Z%2F20221006T010000Z&location=3941+Golf+Course+Road%2C+Brodhead%2C+WI%2C+53520%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Join+Rep+Mark+Spreitzer+and+Congressman+Mark+Pocan+for+an+event++supporting+Clinton+Anderson+for+Assembly&dates=20221002T190000Z%2F20221002T210000Z&location=1679+Prairie+Avenue%2C+Beloit%2C+WI%2C+53511%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Madison+Rigby+Fundraiser&dates=20220928T210000Z%2F20220928T230000Z&location=119+East+Main+Street%2C+Madison%2C+WI%2C+53703%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+in+Evansville+for+Clinton+Anderson&dates=20221013T210000Z%2F20221014T000000Z&location=179+East+Main+Street%2C+Evansville%2C+WI%2C+53536%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rep.+Anderson%E2%80%99s+33rd+Birthday+Fundraiser&dates=20260527T223000Z%2F20260528T003000Z&location=101+Maple+Avenue%2C+Beloit%2C+WI%2C+53511%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.clintonforassembly.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/2024-campaign-kickoff?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/beloit-office-opening?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/candidate-forum-hosted-by-lwv-wisconsin-beloit-naacp-and-beloit-league?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/clintonturns33?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/come-knock-doors-in-evansville-pdlkj?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/come-knock-doors-in-evansville?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-geshn-5ynjp?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-geshn?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-gn5m7?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/join-rep-mark-spreitzer-and-congressman-mark-pocan-for-an-event-supporting-clinton-anderson-for-assembly?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/madison-rigby-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/meet-and-greet-in-evansville-for-clinton-anderson?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/r55heg6895avcil6w6n2qs85as6a86?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.clintonforassembly.com/issues"
+},
+{
+"text": "Join Rep Mark Spreitzer and Congressman Mark Pocan for an event supporting Clinton Anderson for Assembly",
+"href": "https://www.clintonforassembly.com/events/join-rep-mark-spreitzer-and-congressman-mark-pocan-for-an-event-supporting-clinton-anderson-for-assembly"
+},
+{
+"text": "Madison Rigby Fundraiser",
+"href": "https://www.clintonforassembly.com/events/madison-rigby-fundraiser"
+},
+{
+"text": "Meet and Greet in Evansville for Clinton Anderson",
+"href": "https://www.clintonforassembly.com/events/meet-and-greet-in-evansville-for-clinton-anderson"
+},
+{
+"text": "RSVP here.",
+"href": "https://mobilize.us/s/snpPMx"
+},
+{
+"text": "Rep. Anderson’s 33rd Birthday Fundraiser",
+"href": "https://www.clintonforassembly.com/events/clintonturns33"
+},
+{
+"text": "Sign up here",
+"href": "https://mobilize.us/s/5DerqR"
+},
+{
+"text": "Sign up here",
+"href": "https://mobilize.us/s/72OlMF"
+},
+{
+"text": "Sign up here",
+"href": "https://mobilize.us/s/9DQf4L"
+},
+{
+"text": "Sign up here",
+"href": "https://mobilize.us/s/mpBAAy"
+},
+{
+"text": "Sign up here",
+"href": "https://mobilize.us/s/plkK4x"
+},
+{
+"text": "Sign up here",
+"href": "https://mobilize.us/s/syvDir"
+},
+{
+"text": "Sign up here",
+"href": "https://mobilize.us/s/vQkf61"
+},
+{
+"text": "Sign up here.",
+"href": "https://mobilize.us/s/8zMq2X"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/2024-campaign-kickoff"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/beloit-office-opening"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/candidate-forum-hosted-by-lwv-wisconsin-beloit-naacp-and-beloit-league"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/clintonturns33"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/come-knock-doors-in-evansville"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/come-knock-doors-in-evansville-pdlkj"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-geshn"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-geshn-5ynjp"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-gn5m7"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/join-rep-mark-spreitzer-and-congressman-mark-pocan-for-an-event-supporting-clinton-anderson-for-assembly"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/madison-rigby-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/meet-and-greet-in-evansville-for-clinton-anderson"
+},
+{
+"text": "View Event →",
+"href": "https://www.clintonforassembly.com/events/r55heg6895avcil6w6n2qs85as6a86"
+},
+{
+"text": "[image: 2024 Campaign Kickoff]",
+"href": "https://www.clintonforassembly.com/events/2024-campaign-kickoff"
+},
+{
+"text": "[image: Beloit Office Opening]",
+"href": "https://www.clintonforassembly.com/events/beloit-office-opening"
+},
+{
+"text": "[image: Candidate Forum Hosted by LWV Wisconsin, Beloit NAACP, and Beloit League]",
+"href": "https://www.clintonforassembly.com/events/candidate-forum-hosted-by-lwv-wisconsin-beloit-naacp-and-beloit-league"
+},
+{
+"text": "[image: Clinton Anderson for Assembly]",
+"href": "https://www.clintonforassembly.com/"
+},
+{
+"text": "[image: Come Knock Doors in Evansville]",
+"href": "https://www.clintonforassembly.com/events/come-knock-doors-in-evansville"
+},
+{
+"text": "[image: Come Knock Doors in Evansville]",
+"href": "https://www.clintonforassembly.com/events/come-knock-doors-in-evansville-pdlkj"
+},
+{
+"text": "[image: Come Knock on Doors in Beloit ]",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5"
+},
+{
+"text": "[image: Come Knock on Doors in Beloit ]",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9"
+},
+{
+"text": "[image: Come Knock on Doors in Beloit ]",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb"
+},
+{
+"text": "[image: Come Knock on Doors in Beloit ]",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-geshn"
+},
+{
+"text": "[image: Come Knock on Doors in Beloit ]",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-geshn-5ynjp"
+},
+{
+"text": "[image: Come Knock on Doors in Beloit ]",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-gn5m7"
+},
+{
+"text": "[image: Come Knock on Doors in Beloit]",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit"
+},
+{
+"text": "[image: Democratic Party of Green County Meet and Greet Supporting Jenna Jacobson, Mark Spreitzer, and Clinton Anderson]",
+"href": "https://www.clintonforassembly.com/events/r55heg6895avcil6w6n2qs85as6a86"
+},
+{
+"text": "[image: Join Rep Mark Spreitzer and Congressman Mark Pocan for an event supporting Clinton Anderson for Assembly]",
+"href": "https://www.clintonforassembly.com/events/join-rep-mark-spreitzer-and-congressman-mark-pocan-for-an-event-supporting-clinton-anderson-for-assembly"
+},
+{
+"text": "[image: Madison Rigby Fundraiser]",
+"href": "https://www.clintonforassembly.com/events/madison-rigby-fundraiser"
+},
+{
+"text": "[image: Meet and Greet in Evansville for Clinton Anderson]",
+"href": "https://www.clintonforassembly.com/events/meet-and-greet-in-evansville-for-clinton-anderson"
+},
+{
+"text": "[image: Rep. Anderson’s 33rd Birthday Fundraiser]",
+"href": "https://www.clintonforassembly.com/events/clintonturns33"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Clinton-Anderson-for-Assembly-District-45-104142868937053"
+},
+{
+"text": "here",
+"href": "https://secure.actblue.com/donate/beloit"
+},
+{
+"text": "https://secure.actblue.com/donate/clintonkickoff2024",
+"href": "https://secure.actblue.com/donate/clintonkickoff2024"
+},
+{
+"text": "https://secure.actblue.com/donate/clintonturns33",
+"href": "https://secure.actblue.com/donate/clintonturns33"
+},
+{
+"text": "secure.actblue.com/donate/clintattherigby",
+"href": "http://secure.actblue.com/donate/clintattherigby"
+}
 ]

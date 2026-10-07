@@ -1,55 +1,226 @@
 [
-"https://creativecommons.org/licenses/by-sa/4.0/deed.en",
-"https://dianneforcongress.org/doku.php?id=about",
-"https://dianneforcongress.org/doku.php?id=start",
-"https://dianneforcongress.org/doku.php?id=start&do=backlink",
-"https://dianneforcongress.org/doku.php?id=start&do=index",
-"https://dianneforcongress.org/doku.php?id=start&do=login",
-"https://dianneforcongress.org/doku.php?id=start&do=media&ns=0",
-"https://dianneforcongress.org/doku.php?id=start&do=recent",
-"https://dianneforcongress.org/doku.php?id=start&do=register",
-"https://dianneforcongress.org/doku.php?id=start&do=revisions",
-"https://dianneforcongress.org/doku.php?id=start&rev=1772234439",
-"https://dianneforcongress.org/doku.php?id=start&rev=1772234439&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1772333269",
-"https://dianneforcongress.org/doku.php?id=start&rev=1772333269&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1772333306",
-"https://dianneforcongress.org/doku.php?id=start&rev=1772333306&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1772376603",
-"https://dianneforcongress.org/doku.php?id=start&rev=1772376603&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1772376626",
-"https://dianneforcongress.org/doku.php?id=start&rev=1772376626&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1773922542",
-"https://dianneforcongress.org/doku.php?id=start&rev=1773922542&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1773929606",
-"https://dianneforcongress.org/doku.php?id=start&rev=1773929606&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1773930347",
-"https://dianneforcongress.org/doku.php?id=start&rev=1773930347&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1773932533",
-"https://dianneforcongress.org/doku.php?id=start&rev=1773932533&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1773932627",
-"https://dianneforcongress.org/doku.php?id=start&rev=1773932627&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1774282388",
-"https://dianneforcongress.org/doku.php?id=start&rev=1774282388&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1774583288",
-"https://dianneforcongress.org/doku.php?id=start&rev=1774583288&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1774583379",
-"https://dianneforcongress.org/doku.php?id=start&rev=1774583379&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1779438485",
-"https://dianneforcongress.org/doku.php?id=start&rev=1779438485&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1779931584",
-"https://dianneforcongress.org/doku.php?id=start&rev=1779931584&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1779932131",
-"https://dianneforcongress.org/doku.php?id=start&rev=1779932131&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1780158988",
-"https://dianneforcongress.org/doku.php?id=start&rev=1780158988&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1788893873",
-"https://dianneforcongress.org/doku.php?id=start&rev=1788893873&do=diff",
-"https://dianneforcongress.org/doku.php?id=start&rev=1788894121",
-"https://dianneforcongress.org/doku.php?id=start&rev=1788894121&do=diff",
-"https://dokuwiki.org/",
-"https://dokuwiki.org/donate",
-"https://jigsaw.w3.org/css-validator/check/referer?profile=css3",
-"https://php.net/",
-"https://validator.w3.org/check/referer"
+{
+"text": "Backlinks",
+"href": "https://dianneforcongress.org/doku.php?id=start&do=backlink"
+},
+{
+"text": "CC Attribution-Share Alike 4.0 International",
+"href": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+},
+{
+"text": "Log In",
+"href": "https://dianneforcongress.org/doku.php?id=start&do=login&sectok="
+},
+{
+"text": "Media Manager",
+"href": "https://dianneforcongress.org/doku.php?id=start&do=media&ns=0"
+},
+{
+"text": "Old revisions",
+"href": "https://dianneforcongress.org/doku.php?id=start&do=revisions"
+},
+{
+"text": "Recent Changes",
+"href": "https://dianneforcongress.org/doku.php?id=start&do=recent"
+},
+{
+"text": "Register",
+"href": "https://dianneforcongress.org/doku.php?id=start&do=register"
+},
+{
+"text": "Show page",
+"href": "https://dianneforcongress.org/doku.php?id=start&do="
+},
+{
+"text": "Sitemap",
+"href": "https://dianneforcongress.org/doku.php?id=start&do=index"
+},
+{
+"text": "[image: CC Attribution-Share Alike 4.0 International]",
+"href": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+},
+{
+"text": "[image: Donate]",
+"href": "https://www.dokuwiki.org/donate"
+},
+{
+"text": "[image: Driven by DokuWiki]",
+"href": "https://dokuwiki.org/"
+},
+{
+"text": "[image: Powered by PHP]",
+"href": "https://php.net"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1772234439&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1772333269&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1772333306&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1772376603&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1772376626&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1773922542&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1773929606&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1773930347&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1773932533&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1773932627&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1774282388&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1774583288&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1774583379&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1779438485&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1779931584&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1779932131&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1780158988&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1788893873&do=diff"
+},
+{
+"text": "[image: Show differences to current revisions]",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1788894121&do=diff"
+},
+{
+"text": "[image: Valid CSS]",
+"href": "https://jigsaw.w3.org/css-validator/check/referer?profile=css3"
+},
+{
+"text": "[image: Valid HTML5]",
+"href": "https://validator.w3.org/check/referer"
+},
+{
+"text": "[image]Dianne Blais for Congress!",
+"href": "https://dianneforcongress.org/doku.php?id=start"
+},
+{
+"text": "about",
+"href": "https://dianneforcongress.org/doku.php?id=about"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1772234439"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1772333269"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1772333306"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1772376603"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1772376626"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1773922542"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1773929606"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1773930347"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1773932533"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1773932627"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1774282388"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1774583288"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1774583379"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1779438485"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1779931584"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1779932131"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1780158988"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1788893873"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start&rev=1788894121"
+}
 ]

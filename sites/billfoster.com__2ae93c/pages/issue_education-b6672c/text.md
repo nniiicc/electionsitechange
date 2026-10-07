@@ -1,4 +1,5 @@
-Wise investments in our children’s education are crucial to our long-term economic health.
+Contribute Now Make a donation to Bill Foster for Congress!
+Volunteer Contribute Meet Bill Business Career Science Career Congressional Career Family Professional Awards Issues Defending the Constitution Economy Science and Technology Healthcare Reproductive Freedom Immigration Reviving American Manufacturing Reducing Gun Violence Combating the Climate Crisis The Financial Crisis Reforming Wall Street Education Endorsements The District News Latest News Photo Gallery On the Issues Education Wise investments in our children’s education are crucial to our long-term economic health.
 Bill is proud of and grateful for the education that his children received in the public schools of Illinois – and Bill is committed to preserving and strengthening the quality of our schools, community colleges, and universities.
 And Bill will fight tooth and nail against Trump’s efforts to gut the US Department of Education.
 At a time when many are critical of our public educational system – and some are giving up on it entirely – Bill Foster is proud and grateful that the public schools of Illinois provided a strong foundation for the success of his children.
@@ -24,8 +25,34 @@ That is why Bill Foster is a strong supporter of our community colleges which pr
 LOWERING THE COST OF EDUCATION.
 Because of its importance to society, lowering the cost of education – and particularly higher education – must be a priority.
 In Congress, Bill Foster voted for initiatives that will significantly lower the cost of student loans, by removing subsidies to private banks that make student loans and, instead, put that money directly in the hands of students.
-In 2019, Bill also introduced H.R. 4645, the Public Service Loan Forgiveness Inclusion Act, to assist those who forgo potentially lucrative careers to serve the public good.
+In 2019, Bill also introduced H.R.
+4645, the Public Service Loan Forgiveness Inclusion Act, to assist those who forgo potentially lucrative careers to serve the public good.
 College costs are especially important to vets returning from overseas, and Bill was proud to vote for the GI Bill for 21st Century which will help the men and women who volunteered to serve in Iraq and Afghanistan after 9/11 be able to go to college for free because of their commitment to our country.
 MAKING TEXTBOOKS AVAILABLE FOR FREE ON THE INTERNET.
 College textbooks costs also represent a considerable burden on students – averaging over $1200 per year.
-To relieve this burden, Bill introduced H.R. 1464 – legislation to provide federal support for the development of Open-Source Textbooks – high quality electronic textbooks that students can download for free from the internet.
+To relieve this burden, Bill introduced H.R.
+1464 – legislation to provide federal support for the development of Open-Source Textbooks – high quality electronic textbooks that students can download for free from the internet.
+Reproductive Freedom Bill fight to defend women’s bodily autonomy and the right for every American to access reproductive health care.
+Economy Bill has been deeply involved in writing laws which will prevent crises like the 2008 financial collapse from hurting working families in the future.
+Reducing Gun Violence It is a moral shame that we have so many ways to prevent gun violence in this country, but we have a Congress who has failed to do anything to protect Americans.
+Healthcare Bill believes that health care is a basic human right and that we should continue moving towards universal coverage.
+Immigration The United States is a proud nation of immigrants and we must adhere to the promise of the American Dream.
+Defending the Constitution President Trump's trampling of the Constitution is a threat to our democracy Reviving American Manufacturing As a businessman who started a manufacturing company that now provides hundreds of good-paying jobs right here in the Midwest, nothing is more important to Bill than the health of manufacturing in America.
+The Financial Crisis The financial crisis of 2008 cost our economy 8 million jobs and cost American families more than $16 trillion dollars of net worth.
+Reforming Wall Street The financial crisis of 2008 destroyed millions of jobs and crushed the retirement savings of American families.
+Combating the Climate Crisis Our dependence on fossil fuels for energy production has been a growing problem for decades.
+Science and Technology Investments in basic scientific research provide some of the highest returns on investment of any that our society can make.
+Education Wise investments in our children’s education are crucial to our long-term economic health.
+Reproductive Freedom Bill fight to defend women’s bodily autonomy and the right for every American to access reproductive health care.
+Economy Bill has been deeply involved in writing laws which will prevent crises like the 2008 financial collapse from hurting working families in the future.
+Reducing Gun Violence It is a moral shame that we have so many ways to prevent gun violence in this country, but we have a Congress who has failed to do anything to protect Americans.
+Healthcare Bill believes that health care is a basic human right and that we should continue moving towards universal coverage.
+Immigration The United States is a proud nation of immigrants and we must adhere to the promise of the American Dream.
+Defending the Constitution President Trump's trampling of the Constitution is a threat to our democracy Reviving American Manufacturing As a businessman who started a manufacturing company that now provides hundreds of good-paying jobs right here in the Midwest, nothing is more important to Bill than the health of manufacturing in America.
+The Financial Crisis The financial crisis of 2008 cost our economy 8 million jobs and cost American families more than $16 trillion dollars of net worth.
+Reforming Wall Street The financial crisis of 2008 destroyed millions of jobs and crushed the retirement savings of American families.
+Combating the Climate Crisis Our dependence on fossil fuels for energy production has been a growing problem for decades.
+Science and Technology Investments in basic scientific research provide some of the highest returns on investment of any that our society can make.
+Education Wise investments in our children’s education are crucial to our long-term economic health.
+Meet Bill Issues Endorsements The District News Contribute Bill Foster for Congress P.O Box 9104 Aurora, IL 60598 630-216-9340.
+Privacy Policy Messaging Contact Us Paid for by Bill Foster for Congress Meet Bill Business Career Science Career Congressional Career Family Professional Awards Issues Defending the Constitution Economy Science and Technology Healthcare Reproductive Freedom Immigration Reviving American Manufacturing Reducing Gun Violence Combating the Climate Crisis The Financial Crisis Reforming Wall Street Education Endorsements The District News Latest News Photo Gallery Donate Now On the Issues On the Issues Volunteer Volunteer Contribute Contribute

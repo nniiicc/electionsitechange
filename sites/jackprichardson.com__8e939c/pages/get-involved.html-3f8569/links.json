@@ -1,18 +1,98 @@
 [
-"https://bsky.app/profile/jackrichardsonma.bsky.social",
-"https://facebook.com/jackrichardsonma",
-"https://facebook.com/profile.php?id=61592024602614",
-"https://instagram.com/jackrichardsonma",
-"https://jackprichardson.com/endorsements.html",
-"https://jackprichardson.com/get-involved.html",
-"https://jackprichardson.com/index.html",
-"https://jackprichardson.com/media.html",
-"https://jackprichardson.com/my-opponent.html",
-"https://jackprichardson.com/priorities.html",
-"https://jackprichardson.com/{{ donateHref }}",
-"https://jackprichardson.com/{{ give100 }}",
-"https://jackprichardson.com/{{ give25 }}",
-"https://jackprichardson.com/{{ give50 }}",
-"https://threads.com/@jackrichardsonma",
-"https://tiktok.com/@jackrichardsonma"
+{
+"text": "$100",
+"href": "https://jackprichardson.com/%7B%7B%20give100%20%7D%7D"
+},
+{
+"text": "$25",
+"href": "https://jackprichardson.com/%7B%7B%20give25%20%7D%7D"
+},
+{
+"text": "$50",
+"href": "https://jackprichardson.com/%7B%7B%20give50%20%7D%7D"
+},
+{
+"text": "About",
+"href": "https://jackprichardson.com/index.html#about"
+},
+{
+"text": "About Jack",
+"href": "https://jackprichardson.com/index.html#about"
+},
+{
+"text": "Donate",
+"href": "https://jackprichardson.com/%7B%7B%20donateHref%20%7D%7D"
+},
+{
+"text": "Donate $25",
+"href": "https://jackprichardson.com/%7B%7B%20donateHref%20%7D%7D"
+},
+{
+"text": "Endorsements",
+"href": "https://jackprichardson.com/endorsements.html"
+},
+{
+"text": "Jack's record",
+"href": "https://jackprichardson.com/index.html#record"
+},
+{
+"text": "Media",
+"href": "https://jackprichardson.com/media.html"
+},
+{
+"text": "My Opponent",
+"href": "https://jackprichardson.com/my-opponent.html"
+},
+{
+"text": "My Opponent’s Record",
+"href": "https://jackprichardson.com/my-opponent.html"
+},
+{
+"text": "Priorities",
+"href": "https://jackprichardson.com/priorities.html"
+},
+{
+"text": "Record",
+"href": "https://jackprichardson.com/index.html#record"
+},
+{
+"text": "See who has endorsed so far",
+"href": "https://jackprichardson.com/endorsements.html"
+},
+{
+"text": "Volunteer",
+"href": "https://jackprichardson.com/get-involved.html"
+},
+{
+"text": "[image: Jack Richardson, State Representative] [image: Jack Richardson, State Representative]",
+"href": "https://jackprichardson.com/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jackrichardsonma.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jackrichardsonma"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61592024602614"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jackrichardsonma/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@jackrichardsonma"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@jackrichardsonma"
+},
+{
+"text": "jack@jackprichardson.com",
+"href": "mailto:jack@jackprichardson.com"
+}
 ]

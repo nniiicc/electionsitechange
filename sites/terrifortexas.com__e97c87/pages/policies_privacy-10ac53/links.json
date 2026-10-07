@@ -1,9 +1,34 @@
 [
-"https://secure.winred.com/terri-leo-wilson-campaign/contribute",
-"https://terrifortexas.com/",
-"https://terrifortexas.com/about",
-"https://terrifortexas.com/contact",
-"https://terrifortexas.com/endorsements",
-"https://terrifortexas.com/promises",
-"https://terrifortexas.com/record"
+{
+"text": "About Terri",
+"href": "https://terrifortexas.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/terri-leo-wilson-campaign/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://terrifortexas.com/endorsements"
+},
+{
+"text": "Promises Kept",
+"href": "https://terrifortexas.com/promises"
+},
+{
+"text": "Record",
+"href": "https://terrifortexas.com/record"
+},
+{
+"text": "[image: Privacy Policy]",
+"href": "https://terrifortexas.com/"
+},
+{
+"text": "https://terrifortexas.com/contact",
+"href": "https://terrifortexas.com/contact"
+},
+{
+"text": "info@terrifortexas.com",
+"href": "mailto:info@terrifortexas.com"
+}
 ]

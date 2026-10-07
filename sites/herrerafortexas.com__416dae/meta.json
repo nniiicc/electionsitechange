@@ -1,7 +1,9 @@
 {
  "description": "Join the Texas Senate campaign with Herrera for Texas. Stay updated on our campaign announcement and district initiatives!",
  "final_url": "https://herrerafortexas.com/",
- "paid_for_by": null,
+ "fingerprint": "0ce757eed000385e8835f2e9819c21fa63757f0f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Texas Senate Campaign: Herrera for Texas Announcement",
  "years_mentioned": [
   "2018",

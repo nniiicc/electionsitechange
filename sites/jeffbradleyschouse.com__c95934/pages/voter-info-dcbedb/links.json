@@ -1,18 +1,74 @@
 [
-"https://facebook.com/jeffbradleyscdistrict123",
-"https://jeffbradleyschouse.com/",
-"https://jeffbradleyschouse.com/ai",
-"https://jeffbradleyschouse.com/author/jeffbradleynew",
-"https://jeffbradleyschouse.com/endorsements",
-"https://jeffbradleyschouse.com/priorities",
-"https://jeffbradleyschouse.com/videos",
-"https://jeffbradleyschouse.com/voter-info",
-"https://jeffbradleyschouse.com/why-jeff",
-"https://scvotes.gov/voters/how-to-vote",
-"https://scvotes.gov/voters/register-to-vote",
-"https://scvotes.gov/voters/update-your-voter-registration-information",
-"https://scvotes.gov/voters/voters-with-disabilities",
-"https://secure.anedot.com/electjeffbradley/donate",
-"https://vrems.scvotes.sc.gov/Voter/Login?PageMode=PollingPlace",
-"https://vrems.scvotes.sc.gov/Voter/Login?PageMode=VoterInformation"
+{
+"text": "AI",
+"href": "https://jeffbradleyschouse.com/ai/"
+},
+{
+"text": "Check Your Voter Registration",
+"href": "https://vrems.scvotes.sc.gov/Voter/Login?PageMode=VoterInformation"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/electjeffbradley/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://jeffbradleyschouse.com/endorsements/"
+},
+{
+"text": "Find My Polling Place",
+"href": "https://vrems.scvotes.sc.gov/Voter/Login?PageMode=PollingPlace"
+},
+{
+"text": "HOME",
+"href": "https://jeffbradleyschouse.com/"
+},
+{
+"text": "How to Vote",
+"href": "https://scvotes.gov/voters/how-to-vote/"
+},
+{
+"text": "Priorities",
+"href": "https://jeffbradleyschouse.com/priorities/"
+},
+{
+"text": "Register to Vote",
+"href": "https://scvotes.gov/voters/register-to-vote/"
+},
+{
+"text": "Update Your Voter Registration",
+"href": "https://scvotes.gov/voters/update-your-voter-registration-information/"
+},
+{
+"text": "VIDEOS",
+"href": "https://jeffbradleyschouse.com/videos/"
+},
+{
+"text": "Voter Info",
+"href": "https://jeffbradleyschouse.com/voter-info/"
+},
+{
+"text": "Voters with Disabilities",
+"href": "https://scvotes.gov/voters/voters-with-disabilities/"
+},
+{
+"text": "Why Jeff?",
+"href": "https://jeffbradleyschouse.com/why-jeff/"
+},
+{
+"text": "[image: Avada Catering Services]",
+"href": "https://jeffbradleyschouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://jeffbradleyschouse.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/jeffbradleyscdistrict123/"
+},
+{
+"text": "jeffbradleynew",
+"href": "https://jeffbradleyschouse.com/author/jeffbradleynew/"
+}
 ]

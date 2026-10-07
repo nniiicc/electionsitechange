@@ -1,7 +1,9 @@
 {
  "description": "Bradley Bos in the News",
  "final_url": "https://www.bosformissouri.com/news",
- "paid_for_by": null,
+ "fingerprint": "b9bf99c9a665492b2ca2d7381bc910cf7f61a972",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": []
 }

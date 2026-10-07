@@ -1,9 +1,34 @@
 [
-"https://google.com/url?q=https%3A%2F%2Fmyvote.wi.gov%2Fen-us%2FFind-My-Polling-Place&sa=D&sntz=1&usg=AOvVaw1VmPBZ9PmcFjhPzuu2X4gV",
-"https://google.com/url?q=https%3A%2F%2Fsecure.winred.com%2Ffriends-of-dave-maxey%2Fdonate&sa=D&sntz=1&usg=AOvVaw1kc8zufzoEdVSeEoSw8TnR",
-"https://maxeyforassembly.com/district-83-m-ap",
-"https://maxeyforassembly.com/donate",
-"https://maxeyforassembly.com/home",
-"https://maxeyforassembly.com/issue",
-"https://maxeyforassembly.com/volunteer"
+{
+"text": "District # M ap",
+"href": "https://www.maxeyforassembly.com/district-83-m-ap"
+},
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.winred.com%2Ffriends-of-dave-maxey%2Fdonate&sa=D&sntz=1&usg=AOvVaw1kc8zufzoEdVSeEoSw8TnR"
+},
+{
+"text": "Donate",
+"href": "https://www.maxeyforassembly.com/donate"
+},
+{
+"text": "Find my Polling Location",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fmyvote.wi.gov%2Fen-us%2FFind-My-Polling-Place&sa=D&sntz=1&usg=AOvVaw1VmPBZ9PmcFjhPzuu2X4gV"
+},
+{
+"text": "Home",
+"href": "https://www.maxeyforassembly.com/home"
+},
+{
+"text": "Issue",
+"href": "https://www.maxeyforassembly.com/issue"
+},
+{
+"text": "Maxey4Assembly@gmail.com",
+"href": "mailto:Maxey4Assembly@gmail.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.maxeyforassembly.com/volunteer"
+}
 ]

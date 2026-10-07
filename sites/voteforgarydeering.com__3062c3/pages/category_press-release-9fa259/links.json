@@ -1,13 +1,74 @@
 [
-"https://secure.winred.com/friends-of-gary-deering/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://voteforgarydeering.com/",
-"https://voteforgarydeering.com/2026/03/09/gary-deering-final-press-release-for-district-29-house",
-"https://voteforgarydeering.com/author/homeslice",
-"https://voteforgarydeering.com/category/press-release",
-"https://voteforgarydeering.com/news",
-"https://voteforgarydeering.com/tag/answer",
-"https://voteforgarydeering.com/tag/celebration",
-"https://voteforgarydeering.com/tag/marketing",
-"https://voteforgarydeering.com/tag/office",
-"https://voteforgarydeering.com/tag/present"
+{
+"text": "About",
+"href": "https://voteforgarydeering.com/#about"
+},
+{
+"text": "Blog",
+"href": "https://voteforgarydeering.com/news/"
+},
+{
+"text": "By homeslice",
+"href": "https://voteforgarydeering.com/author/homeslice/"
+},
+{
+"text": "Celebration",
+"href": "https://voteforgarydeering.com/tag/celebration/"
+},
+{
+"text": "Contact",
+"href": "https://voteforgarydeering.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-gary-deering/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/friends-of-gary-deering/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Gary Deering Final Press Release for District 29 House",
+"href": "https://voteforgarydeering.com/2026/03/09/gary-deering-final-press-release-for-district-29-house/"
+},
+{
+"text": "Home",
+"href": "https://voteforgarydeering.com/"
+},
+{
+"text": "News",
+"href": "https://voteforgarydeering.com/news/"
+},
+{
+"text": "Press Release",
+"href": "https://voteforgarydeering.com/category/press-release/"
+},
+{
+"text": "Read More",
+"href": "https://voteforgarydeering.com/2026/03/09/gary-deering-final-press-release-for-district-29-house/"
+},
+{
+"text": "[image: Gary Deering Final Press Release for District 29 House]",
+"href": "https://voteforgarydeering.com/2026/03/09/gary-deering-final-press-release-for-district-29-house/"
+},
+{
+"text": "[image: Gary Deering]",
+"href": "https://voteforgarydeering.com/"
+},
+{
+"text": "answer",
+"href": "https://voteforgarydeering.com/tag/answer/"
+},
+{
+"text": "marketing",
+"href": "https://voteforgarydeering.com/tag/marketing/"
+},
+{
+"text": "office",
+"href": "https://voteforgarydeering.com/tag/office/"
+},
+{
+"text": "present",
+"href": "https://voteforgarydeering.com/tag/present/"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://davidjohnsonad23.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "51eba2b8709b414fa56586493c0dff586dddc0ed",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

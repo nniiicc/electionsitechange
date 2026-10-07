@@ -1,17 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing-June+8th&dates=20240608T144500Z%2F20240608T170000Z",
-"http://instagram.com/backusfortn33",
-"https://backusfortn33.com/",
-"https://backusfortn33.com/cart",
-"https://backusfortn33.com/events",
-"https://backusfortn33.com/events/canvassing-2",
-"https://backusfortn33.com/events/canvassing-3?format=ical",
-"https://backusfortn33.com/events/canvassing-4",
-"https://backusfortn33.com/gallery",
-"https://backusfortn33.com/issues",
-"https://backusfortn33.com/volunteer",
-"https://backusfortn33.com/yardsign",
-"https://facebook.com/profile.php?id=61550950895806",
-"https://secure.actblue.com/donate/backus-for-tn33-1",
-"https://secure.ngpvan.com/RhyyRpE5-kWgxrNyynDSrg2"
+{
+"text": "0",
+"href": "https://www.backusfortn33.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.backusfortn33.com/events"
+},
+{
+"text": "Contact",
+"href": "mailto:backusfortn33@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/backus-for-tn33-1"
+},
+{
+"text": "EVENTS",
+"href": "https://www.backusfortn33.com/events"
+},
+{
+"text": "GALLERY",
+"href": "https://www.backusfortn33.com/gallery"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing-June+8th&dates=20240608T144500Z%2F20240608T170000Z"
+},
+{
+"text": "HOW TO GET INVOLVED",
+"href": "https://www.backusfortn33.com/volunteer"
+},
+{
+"text": "ICS",
+"href": "https://www.backusfortn33.com/events/canvassing-3?format=ical"
+},
+{
+"text": "ISSUES",
+"href": "https://www.backusfortn33.com/issues"
+},
+{
+"text": "Next Next June 15 Canvassing-June 15th",
+"href": "https://www.backusfortn33.com/events/canvassing-4"
+},
+{
+"text": "Previous Previous June 1 Canvassing-June 1st",
+"href": "https://www.backusfortn33.com/events/canvassing-2"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://www.backusfortn33.com/yardsign"
+},
+{
+"text": "Sign Up",
+"href": "https://secure.ngpvan.com/RhyyRpE5-kWgxrNyynDSrg2"
+},
+{
+"text": "[image: Backus for TN 33]",
+"href": "https://www.backusfortn33.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/backusfortn33"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61550950895806"
+}
 ]

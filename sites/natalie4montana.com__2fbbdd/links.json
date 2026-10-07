@@ -1,8 +1,38 @@
 [
-"http://instagram.com/squarespace",
-"https://facebook.com/squarespace",
-"https://natalie4montana.com/",
-"https://natalie4montana.com/cart",
-"https://secure.actblue.com/donate/natalie4montana",
-"https://x.com/squarespace?ref_src=twsrc%5Etfw"
+{
+"text": "0",
+"href": "https://www.natalie4montana.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.natalie4montana.com/#about-us"
+},
+{
+"text": "Contact",
+"href": "https://www.natalie4montana.com/#contact-us"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/natalie4montana"
+},
+{
+"text": "FAQs",
+"href": "https://www.natalie4montana.com/#frequently-asked-questions"
+},
+{
+"text": "Natalie for Montana",
+"href": "https://www.natalie4montana.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/squarespace/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/squarespace?ref_src=twsrc%5Etfw"
+}
 ]

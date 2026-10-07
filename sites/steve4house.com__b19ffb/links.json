@@ -1,14 +1,54 @@
 [
-"https://facebook.com/stevebergquist4house",
-"https://linkedin.com/in/steve-bergquist-640a384a",
-"https://steve4house.com/",
-"https://steve4house.com/childcare",
-"https://steve4house.com/community",
-"https://steve4house.com/contact",
-"https://steve4house.com/contact-2",
-"https://steve4house.com/donate",
-"https://steve4house.com/job-creation",
-"https://steve4house.com/promise",
-"https://twitter.com/steve4house",
-"https://youtube.com/channel/UCS1efpiizSPYZpTms-AonQg"
+{
+"text": "Childcare",
+"href": "https://www.steve4house.com/childcare/"
+},
+{
+"text": "Community",
+"href": "https://www.steve4house.com/community/"
+},
+{
+"text": "Contact",
+"href": "https://www.steve4house.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.steve4house.com/donate/"
+},
+{
+"text": "Education",
+"href": "https://www.steve4house.com/promise/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/stevebergquist4house"
+},
+{
+"text": "Home",
+"href": "https://www.steve4house.com/"
+},
+{
+"text": "Job Creation",
+"href": "https://www.steve4house.com/job-creation/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/steve-bergquist-640a384a"
+},
+{
+"text": "Media",
+"href": "https://www.steve4house.com/contact-2/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/steve4house"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UCS1efpiizSPYZpTms-AonQg"
+},
+{
+"text": "[image: Steve Bergquist State Representative]",
+"href": "https://www.steve4house.com/"
+}
 ]

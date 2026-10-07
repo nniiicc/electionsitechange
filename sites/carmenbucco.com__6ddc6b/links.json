@@ -1,21 +1,102 @@
 [
-"https://buccosrisingstars.com/",
-"https://carmenbucco.com/",
-"https://carmenbucco.com/about-us",
-"https://carmenbucco.com/article",
-"https://carmenbucco.com/bucco-message",
-"https://carmenbucco.com/contact",
-"https://carmenbucco.com/endorsement-testimonials",
-"https://carmenbucco.com/event",
-"https://carmenbucco.com/get-involved",
-"https://carmenbucco.com/issues",
-"https://carmenbucco.com/latest-news",
-"https://carmenbucco.com/picture",
-"https://carmenbucco.com/video",
-"https://facebook.com/Buccofornewjersey",
-"https://instagram.com/buccofornewjersey",
-"https://secure.anedot.com/bucco-for-congress-26/donate",
-"https://ucnj.org/boe/2022-early-voting-information",
-"https://unioncountyvotes.com/register-to-vote",
-"https://unioncountyvotes.com/vote-by-mail-ballot-application"
+{
+"text": "About",
+"href": "https://carmenbucco.com/about-us/"
+},
+{
+"text": "About Carmen Bucco",
+"href": "https://carmenbucco.com/about-us/"
+},
+{
+"text": "Article",
+"href": "https://carmenbucco.com/article/"
+},
+{
+"text": "CONNECT WITH CARMEN BUCCO",
+"href": "https://carmenbucco.com/contact/"
+},
+{
+"text": "Carmen Bucco",
+"href": "https://carmenbucco.com/"
+},
+{
+"text": "Contact",
+"href": "https://carmenbucco.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/bucco-for-congress-26/donate"
+},
+{
+"text": "Endorsement & Testimonials",
+"href": "https://carmenbucco.com/endorsement-testimonials/"
+},
+{
+"text": "Events",
+"href": "https://carmenbucco.com/event/"
+},
+{
+"text": "Get Involved",
+"href": "https://carmenbucco.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://carmenbucco.com/"
+},
+{
+"text": "Issues",
+"href": "https://carmenbucco.com/issues/"
+},
+{
+"text": "Latest News",
+"href": "https://carmenbucco.com/latest-news/"
+},
+{
+"text": "MESSAGE FROM CARMEN",
+"href": "https://carmenbucco.com/bucco-message"
+},
+{
+"text": "Our Foundation",
+"href": "https://buccosrisingstars.com/"
+},
+{
+"text": "Picture",
+"href": "https://carmenbucco.com/picture/"
+},
+{
+"text": "VIEW MORE",
+"href": "https://carmenbucco.com/bucco-message/"
+},
+{
+"text": "VISIT",
+"href": "https://buccosrisingstars.com/"
+},
+{
+"text": "Video",
+"href": "https://carmenbucco.com/video/"
+},
+{
+"text": "[image: Donation]",
+"href": "https://secure.anedot.com/bucco-for-congress-26/donate"
+},
+{
+"text": "[image]",
+"href": "https://ucnj.org/boe/2022-early-voting-information/"
+},
+{
+"text": "[image]",
+"href": "https://unioncountyvotes.com/register-to-vote/"
+},
+{
+"text": "[image]",
+"href": "https://unioncountyvotes.com/vote-by-mail-ballot-application/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Buccofornewjersey"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/buccofornewjersey"
+}
 ]

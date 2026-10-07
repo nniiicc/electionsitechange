@@ -1,3 +1,5 @@
-As reported by the Macon Telegraph: MACON, GA Leslie Johns waited 13 years to hear her son, Darrell, call her “Mama.” Darrell was born with hydrocephalus and epilepsy, two neurological conditions that have stunted his development and made it nearly impossible for him to get through the day without a seizure.
+Home Meet Matt About Committee Service Sponsored Legislation Issues News Press Kit Newsletter Updates Volunteer Archives Monthly Archives: September 2018 Medical marijuana saved her son’s life.
+But in Georgia, it’s hard to get September 25, 2018 As reported by the Macon Telegraph: MACON, GA Leslie Johns waited 13 years to hear her son, Darrell, call her “Mama.” Darrell was born with hydrocephalus and epilepsy, two neurological conditions that have stunted his development and made it nearly impossible for him to get through the day without a seizure.
 When Georgia legalized some medical marijuana in 2015, Johns immediately applied for a medical card.
-Six days after Darrell’s first dose of the cannabis oil, he said “Mama” for the first...READ MORE
+Six days after Darrell’s first dose of the cannabis oil, he said “Mama” for the first...
+READ MORE Archives August 2020 June 2020 October 2019 September 2019 July 2019 April 2019 February 2019 January 2019 November 2018 September 2018 August 2018 July 2018 June 2018 May 2018 January 2018 March 2016 Categories Uncategorized Tags candidate District 28 election State Senate Home Meet Matt Issues News Volunteer

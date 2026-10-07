@@ -1,9 +1,34 @@
 [
-"https://kambrellgarvin.com/",
-"https://kambrellgarvin.com/about",
-"https://kambrellgarvin.com/contact-us",
-"https://kambrellgarvin.com/media",
-"https://kambrellgarvin.com/platform-issues",
-"https://kambrellgarvin.com/privacy-policy-2",
-"https://secure.actblue.com/donate/kambrell-garvin-for-sc-house-1"
+{
+"text": "About",
+"href": "https://kambrellgarvin.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://kambrellgarvin.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kambrell-garvin-for-sc-house-1"
+},
+{
+"text": "Home",
+"href": "https://kambrellgarvin.com/"
+},
+{
+"text": "Legislative Updates",
+"href": "https://kambrellgarvin.com/media/"
+},
+{
+"text": "New Day Agenda",
+"href": "https://kambrellgarvin.com/platform-issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://kambrellgarvin.com/privacy-policy-2/"
+},
+{
+"text": "[image: Kambrell Garvin for SC House]",
+"href": "https://kambrellgarvin.com/"
+}
 ]

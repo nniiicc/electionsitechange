@@ -1,4 +1,4 @@
-A better world is possible, but only if we fight for it.
+0 Skip to Content Priorities Endorsements Get Involved Donate Open Menu Close Menu Priorities Endorsements Get Involved Donate Open Menu Close Menu Priorities Endorsements Get Involved Donate A better world is possible, but only if we fight for it.
 I have been proud to represent our district for the last three years.
 Here is the truth.
 I cannot do this alone.
@@ -19,19 +19,10 @@ I believe that the working class should control our democracy and our future, no
 I know a better world is possible.
 As a public school teacher, union organizer, and democratic socialist, I am committed to fighting for a world where people have the dignity of healthcare, housing, and food.
 I will always do what is right for the people, regardless of party or the pressures of special interest groups.
-Meet Dylan Wegela
-Meet Representative
-DYLAN WEGELA
-What We’re Fighting for
-TAX THE RICH
-Ensure the wealthy pay their fair share by instituting a progressive tax system to help fully fund public education and public infrastructure.
-HEALTHCARE FOR ALL
-Guarantee quality healthcare for every Michigander, including reproductive and mental health care, by passing “Medicare for All” Universal Healthcare Legislation.
-FIGHT FOR WORKERS
-Expand collective bargaining laws, expand prevailing wage, raise the Minimum Wage to $30 per hour by 2030, and regulate Artificial Intelligence.
-INVEST IN OUR COMMUNITIES
-Build affordable public and social housing, enact a tenants' and homeless bill of rights, and expand fast and reliable public transportation in our communities.
-STAND UP TO CORPORATIONS
-Get corporate money out of politics, end corporate tax handouts, stop Hyperscale AI data centers, and make corporations pay for harmful pollution that they cause.
-BEAT FASCISM
-Protect and expand civil and voting rights at the state level, and use my office to help fight back against fascist policies from the Federal Government.
+Meet Dylan Wegela Meet Representative DYLAN WEGELA What We’re Fighting for TAX THE RICH Ensure the wealthy pay their fair share by instituting a progressive tax system to help fully fund public education and public infrastructure.
+HEALTHCARE FOR ALL Guarantee quality healthcare for every Michigander, including reproductive and mental health care, by passing “Medicare for All” Universal Healthcare Legislation.
+FIGHT FOR WORKERS Expand collective bargaining laws, expand prevailing wage, raise the Minimum Wage to $30 per hour by 2030, and regulate Artificial Intelligence.
+INVEST IN OUR COMMUNITIES Build affordable public and social housing, enact a tenants' and homeless bill of rights, and expand fast and reliable public transportation in our communities.
+STAND UP TO CORPORATIONS Get corporate money out of politics, end corporate tax handouts, stop Hyperscale AI data centers, and make corporations pay for harmful pollution that they cause.
+BEAT FASCISM Protect and expand civil and voting rights at the state level, and use my office to help fight back against fascist policies from the Federal Government.
+PAID FOR BY PEOPLE FOR DYLAN WEGELA, 140 MERRIMAN RD PO BOX 346 GARDEN CITY, MI 48136 Privacy Policy PAID FOR BY PEOPLE FOR DYLAN WEGELA, 140 MERRIMAN RD PO BOX 346 GARDEN CITY, MI 48136

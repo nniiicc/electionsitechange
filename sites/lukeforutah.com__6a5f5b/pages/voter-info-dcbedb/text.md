@@ -1,4 +1,4 @@
-Your Vote Matters — Make It Count
-House District 59 spans both Summit and Wasatch Counties.
+0 Skip to Content Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Your Vote Matters — Make It Count House District 59 spans both Summit and Wasatch Counties.
 Whether you're in Park City or the Heber Valley, making your voice heard starts with being registered and ready.
 Find everything you need below to check your registration, update your address, and learn about upcoming elections in your county.
+Wasatch County Voting Information Summit County Voting Information Site Navigation Home About Issues & Priorities Record & Results Contact Donate Connect Copyright # Paid for by Friends of Luke Searle

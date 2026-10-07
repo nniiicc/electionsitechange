@@ -1,17 +1,78 @@
 [
-"https://facebook.com/profile.php?id=61556141290800",
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://keithnolan4tn.wixsite.com/mysite",
-"https://keithnolan4tn.wixsite.com/mysite/about",
-"https://keithnolan4tn.wixsite.com/mysite/about-7",
-"https://keithnolan4tn.wixsite.com/mysite/contact",
-"https://keithnolan4tn.wixsite.com/mysite/issues",
-"https://keithnolan4tn.wixsite.com/mysite/privacy-policy",
-"https://keithnolan4tn.wixsite.com/mysite/terms-of-use",
-"https://paypal.com/donate?hosted_button_id=LJD5HS36VCB6L",
-"https://twitter.com/wix",
-"https://wix.com/",
-"https://wix.com/lpviral/enviral?adsVersion=banner_2024&orig_msid=aa99f552-cce6-4d9b-96f0-a304175f7068&orig_msid=0cf2dcf5-7a03-4e46-9a84-bd3682a1cdd9&adsVersion=banner_2024",
-"https://youtube.com/user/Wix"
+{
+"text": "About",
+"href": "https://keithnolan4tn.wixsite.com/mysite/about"
+},
+{
+"text": "Contact",
+"href": "https://keithnolan4tn.wixsite.com/mysite/contact"
+},
+{
+"text": "Contribute Now",
+"href": "https://www.paypal.com/donate/?hosted_button_id=LJD5HS36VCB6L"
+},
+{
+"text": "Donate",
+"href": "https://www.paypal.com/donate/?hosted_button_id=LJD5HS36VCB6L"
+},
+{
+"text": "HOW?",
+"href": "https://keithnolan4tn.wixsite.com/mysite/about"
+},
+{
+"text": "KN4TN",
+"href": "https://keithnolan4tn.wixsite.com/mysite"
+},
+{
+"text": "KeithNolan4TN@gmail.com",
+"href": "mailto:KeithNolan4TN@gmail.com"
+},
+{
+"text": "Platform",
+"href": "https://keithnolan4tn.wixsite.com/mysite/about-7"
+},
+{
+"text": "Privacy Policy",
+"href": "https://keithnolan4tn.wixsite.com/mysite/privacy-policy"
+},
+{
+"text": "Terms of Use",
+"href": "https://keithnolan4tn.wixsite.com/mysite/terms-of-use"
+},
+{
+"text": "This website was built on Wix. Create yours today.Get Started",
+"href": "https://www.wix.com/lpviral/enviral?adsVersion=banner_2024&orig_msid=aa99f552-cce6-4d9b-96f0-a304175f7068&orig_msid=0cf2dcf5-7a03-4e46-9a84-bd3682a1cdd9&adsVersion=banner_2024"
+},
+{
+"text": "Values",
+"href": "https://keithnolan4tn.wixsite.com/mysite/issues"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61556141290800"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/wix/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/user/Wix"
+},
+{
+"text": "[no text]",
+"href": "https://keithnolan4tn.wixsite.com/mysite"
+}
 ]

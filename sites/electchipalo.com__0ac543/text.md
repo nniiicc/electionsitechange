@@ -1,24 +1,35 @@
-As your State Representative I’ve earned the trust of elected officials, labor, environmental, & community leaders by delivering progressive wins for the 37th, from passing the Millionaire’s tax, to advancing rent stabilization, and enacting an assault weapons ban.
-The Stranger
-State Senator – 37th LD
-Rebecca Saldana
-State Rep. – 37th LD
-Sharon Tomiko Santos
-Attorney General
-Nick Brown
-Speaker of the House
-Lauri Jinkins
-King County Executive
-Girmay Zahilay
-King County Council Member D2
-Rhonda Lewis
-Seattle City Attorney
-Erika Evans
-Seattle City Council President
-Joy Hollingsworth
-Seattle City Council D2
-Eddie Lin
-Seattle City Council Member At-Large
-Alexis Mercedes Rinck
-Seattle City Council Member At-Large
-Dionne Foster
+Home Meet Chipalo Priorities Endorsements Join Team Chipalo Home Meet Chipalo Priorities Endorsements Join Team Chipalo Donate Donate Democrat for State Senate – LD 37 As your State Representative I’ve earned the trust of elected officials, labor, environmental, & community leaders by delivering progressive wins for the 37th, from passing the Millionaire’s tax, to advancing rent stabilization, and enacting an assault weapons ban.
+The Stranger State Senator – 37th LD Rebecca Saldana State Rep. – 37th LD Sharon Tomiko Santos Attorney General Nick Brown Speaker of the House Lauri Jinkins King County Executive Girmay Zahilay King County Council Member D2 Rhonda Lewis Seattle City Attorney Erika Evans Seattle City Council President Joy Hollingsworth Seattle City Council D2 Eddie Lin Seattle City Council Member At-Large Alexis Mercedes Rinck Seattle City Council Member At-Large Dionne Foster Read our full list of endorsements!
+Join Street on the path forward to improving our communities.
+Email (Required) I'm In Follow @electchipalo on the campaign trail with Instagram , Facebook , or Twitter Follow Chipalo Street for State Rep #ago Lightbox link for post with description Investment in our communities is the only...
+Investment in our communities is the only sustainable path to real public safety.
+It’s a joy to bring state dollars to folks like Danielle "Pebbles" Jackson, Skate Like a Girl Seattle, Adonis E.
+Ducksworth, and Danielle Pebbles Jackson who are doing the real work of improving our ... communities.
+Not only does the Rainier Beach Skatepark provide a positive outlet for our youth, the Southend now has a unique attraction designed by @evergreenskatrparks with art by Myron Curry.
+Keep it pushin!
+#rainierbeachskatepark #skatepark #seattleskatepark #chipalostreet #streetthewayforward 5 0 Share 102702399145038_1084368414312229 Follow Chipalo Street, State Rep #ago Lightbox link for post with description Investment in our communities is the only...
+Investment in our communities is the only sustainable path to real public safety.
+It’s a joy to bring state dollars to folks like @daniellepebblesjackson, @skatelikeagirlsea, @djadonis206, and @champsrsc who are doing the real work of improving our communities.
+Not only does the @rbskatepark ... provide a positive outlet for our youth, the Southend now has a unique attraction designed by @evergreenskateparks parks with art by @m.currydesigns.
+Keep it pushin!
+#rainierbeachskatepark #skatepark #seattleskatepark #chipalostreet #streetthewayforward 893 87 Share 17987486139113143 Follow Chipalo Street for State Rep #ago Lightbox link for post with description Healthcare is a human right which is why so many...
+Healthcare is a human right which is why so many healthcare providers like SEIU925 SEIU District 1199 SEIU 775 APRNs of Washington State have endorsed my campagin and efforts to expand healthcare access to Washingtonians.
+0 0 Share 102702399145038_1079519894797081 Follow Chipalo Street, State Rep #ago Lightbox link for post with description Healthcare is a human right which is why so many...
+Healthcare is a human right which is why so many healthcare providers like @seiu925 @seiu1199 @seiu775 @aprnswa have endorsed my campagin and efforts to expand healthcare access to Washingtonians.
+5 2 Share 18104831999617081 Follow Chipalo Street for State Rep #ago Lightbox link for post with description My experience getting beaten by the police makes...
+My experience getting beaten by the police makes the topic of public safety and police accountability a very personal.
+Thanks to WA Coalition for Police Accountability, Whose Streets Our Streets, and ACLU of Washington for partnering with me to take on these very important issues. ...
+#advocacy #washingtonstate #37thlegislativedistrict | Chipalo Street testifies in Washington State Legislature 1 0 Share 102702399145038_1077546571661080 Follow Chipalo Street, State Rep #ago Lightbox link for post with description My experience getting beaten by the police makes...
+My experience getting beaten by the police makes the topic of public safety and police accountability a very personal.
+Thanks to @wcforpa, @ourstreets_seattle, and @acluwa for partnering with me to take on these very important issues.
+#advocacy #washingtonstate #37thlegislativedistrict | ...
+Chipalo Street testifies in Washington State Legislature 44 2 Share 18388304863205470 Follow Chipalo Street for State Rep #ago Lightbox link for post with description HealthierHere is doing critical work to train...
+HealthierHere is doing critical work to train grassroots organizations who help our community navigate the healthcare system.
+This is even more important with the horrible cuts and red tape coming with HR1.
+Thank you for all the work done by AZISWA, Arms Around You, A Supportive Community For All, ...
+CIN_Seattle, Ethiopian Community in Seattle, IACS - Indian American Commmunity Services, Mother Africa, Serve-Ethiopians WA, Villa Comunitaria #streetthewayforward #chipalostreet #37thld #community 0 0 Share 102702399145038_1071625928919811 Follow Chipalo Street, State Rep #ago Lightbox link for post with description @healthierhere is doing critical work to train... @healthierhere is doing critical work to train grassroots organizations who help our community navigate the healthcare system.
+This is even more important with the horrible cuts and red tape coming with HR1.
+Thank you for all the work done by @aziswa_zm, @armsaroundyou206, ... @supportivecommunityforall, @cin_seattle, @ecseattle, @iacs_wa, @motherafrica_wa, @serveethiopians, @villa_comunitaria #streetthewayforward #chipalostreet #37thld #community 32 8 Share 17907422748475224 Follow Chipalo Street, State Rep #ago Lightbox link for post with description As a new dad, I’m reminded every day that kids...
+As a new dad, I’m reminded every day that kids are our future.
+That’s why I’m proud that @childrenscampaignfund and @standwashington endorse my work to make sure the next generation of Washingtonians have a bright future.
+Chipalo Street for State Senate | endorsement | 37th LD #local 8 0 Share 17872504014587068 Load More Paid for by Friends of Chipalo Street Friends of Chipalo Street | PO Box 9100 | Seattle, WA 98109

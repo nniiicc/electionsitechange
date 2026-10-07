@@ -1,10 +1,2 @@
-HOME
-ABOUT MIKE
-MEDIA
-ISSUES
-GET INVOLVED
-DONATE
-Submit
-Paid for by Citizens for Turner.
-PO Box 750846, Dayton, OH 45475
-(937) 222-7749
+HOME ABOUT MIKE MEDIA ISSUES GET INVOLVED DONATE Submit Paid for by Citizens for Turner.
+PO Box 750846, Dayton, OH 45475 (937) 222-7749

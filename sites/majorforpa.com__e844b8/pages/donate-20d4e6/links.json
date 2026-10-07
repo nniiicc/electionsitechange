@@ -1,10 +1,42 @@
 [
-"https://facebook.com/MajorForPA",
-"https://majorforpa.com/",
-"https://majorforpa.com/_files/ugd/0a8c91_dee241b95e974ef188679160ba6331f9.pdf",
-"https://majorforpa.com/about",
-"https://majorforpa.com/contact",
-"https://majorforpa.com/donate",
-"https://majorforpa.com/get-involved",
-"https://majorforpa.com/vote"
+{
+"text": "About",
+"href": "https://www.majorforpa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.majorforpa.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.majorforpa.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.majorforpa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.majorforpa.com"
+},
+{
+"text": "Info@MajorForPA.com",
+"href": "mailto:Info@MajorForPA.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.majorforpa.com/get-involved"
+},
+{
+"text": "Vote",
+"href": "https://www.majorforpa.com/vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MajorForPA"
+},
+{
+"text": "here",
+"href": "https://www.majorforpa.com/_files/ugd/0a8c91_dee241b95e974ef188679160ba6331f9.pdf"
+}
 ]

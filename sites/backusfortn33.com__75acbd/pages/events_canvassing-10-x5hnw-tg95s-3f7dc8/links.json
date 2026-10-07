@@ -1,17 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing-Every+Thursday&dates=20240919T214500Z%2F20241108T000000Z",
-"http://instagram.com/backusfortn33",
-"https://backusfortn33.com/",
-"https://backusfortn33.com/cart",
-"https://backusfortn33.com/events",
-"https://backusfortn33.com/events/27s0niy22zfem1ww8ryn9kublb0v0a",
-"https://backusfortn33.com/events/canvassing-10-x5hnw",
-"https://backusfortn33.com/events/canvassing-10-x5hnw-tg95s?format=ical",
-"https://backusfortn33.com/gallery",
-"https://backusfortn33.com/issues",
-"https://backusfortn33.com/volunteer",
-"https://backusfortn33.com/yardsign",
-"https://facebook.com/profile.php?id=61550950895806",
-"https://mobilize.us/s/hdbkGx",
-"https://secure.actblue.com/donate/backus-for-tn33-1"
+{
+"text": "0",
+"href": "https://www.backusfortn33.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.backusfortn33.com/events"
+},
+{
+"text": "Contact",
+"href": "mailto:backusfortn33@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/backus-for-tn33-1"
+},
+{
+"text": "EVENTS",
+"href": "https://www.backusfortn33.com/events"
+},
+{
+"text": "GALLERY",
+"href": "https://www.backusfortn33.com/gallery"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing-Every+Thursday&dates=20240919T214500Z%2F20241108T000000Z"
+},
+{
+"text": "HOW TO GET INVOLVED",
+"href": "https://www.backusfortn33.com/volunteer"
+},
+{
+"text": "ICS",
+"href": "https://www.backusfortn33.com/events/canvassing-10-x5hnw-tg95s?format=ical"
+},
+{
+"text": "ISSUES",
+"href": "https://www.backusfortn33.com/issues"
+},
+{
+"text": "Next Next July 11 CANVASS WITH THE BACKUSFORTN33 TEAM",
+"href": "https://www.backusfortn33.com/events/27s0niy22zfem1ww8ryn9kublb0v0a"
+},
+{
+"text": "Previous Previous August 17 Canvassing-Every Saturday",
+"href": "https://www.backusfortn33.com/events/canvassing-10-x5hnw"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://www.backusfortn33.com/yardsign"
+},
+{
+"text": "Sign Up",
+"href": "https://mobilize.us/s/hdbkGx"
+},
+{
+"text": "[image: Backus for TN 33]",
+"href": "https://www.backusfortn33.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/backusfortn33"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61550950895806"
+}
 ]

@@ -1,17 +1,82 @@
 [
-"https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace",
-"https://facebook.com/marisaforwv",
-"https://heyvictor.com/",
-"https://marisaforwv.com/",
-"https://marisaforwv.com/accessibility-statement",
-"https://marisaforwv.com/endorsements",
-"https://marisaforwv.com/events",
-"https://marisaforwv.com/issues",
-"https://marisaforwv.com/meet-candidate",
-"https://marisaforwv.com/news",
-"https://marisaforwv.com/terms-of-service",
-"https://marisaforwv.com/volunteer",
-"https://marisaforwv.com/voting-info",
-"https://ovr.sos.wv.gov/Register/Landing",
-"https://secure.actblue.com/donate/marisa-jackson-1"
+{
+"text": "Accessibility Statement",
+"href": "https://marisaforwv.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/marisa-jackson-1?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://marisaforwv.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://marisaforwv.com/events/"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace"
+},
+{
+"text": "Home",
+"href": "https://marisaforwv.com/"
+},
+{
+"text": "Issues",
+"href": "https://marisaforwv.com/issues/"
+},
+{
+"text": "Meet Marisa",
+"href": "https://marisaforwv.com/meet-candidate/"
+},
+{
+"text": "News",
+"href": "https://marisaforwv.com/news/"
+},
+{
+"text": "Register to Vote",
+"href": "https://ovr.sos.wv.gov/Register/Landing"
+},
+{
+"text": "Terms of Service",
+"href": "https://marisaforwv.com/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://marisaforwv.com/volunteer/"
+},
+{
+"text": "Vote By Mail",
+"href": "https://ovr.sos.wv.gov/Register/Landing"
+},
+{
+"text": "Vote Early",
+"href": "https://ovr.sos.wv.gov/Register/Landing"
+},
+{
+"text": "Voting Info",
+"href": "https://marisaforwv.com/voting-info/"
+},
+{
+"text": "[image] [image]",
+"href": "https://marisaforwv.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/marisaforwv"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "click here",
+"href": "https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace"
+}
 ]

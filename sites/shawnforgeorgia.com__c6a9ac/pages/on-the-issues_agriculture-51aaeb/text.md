@@ -1,32 +1,24 @@
-Bring small and medium-sized farms to the front and giving them equal access to opportunities provided to corporate farms:
-- Support for farmers who grow the food that every day Americans consume instead of focusing only on commodity crops.
-- Provide growth options for farmers who are focused on food to table through “non-traditional” farming methods such as container/warehouse farming, vertical farming, soilless farming (hydro/aquaponics)
-Shielding SNAP:
-- Making SNAP part of the “mandatory spending” program (like Social Security) that ensures payment during a government shutdown.
+-- d -- h -- m until the November 3 General Election Be a part of this historic campaign -- d · -- h until Nov 3 What's New The latest updates from the campaign.
+September 4, 2025 New Mary L.
+Trump Endorses Shawn Harris in Bid to Defeat Marjorie Taylor Greene Congressional candidate Shawn Harris announced the endorsement of Mary L.
+Trump, bestselling author, psychologist and outspoken critic of extremism in American politics.
+Read More July 8, 2025 New Shawn Harris Outraises Marjorie Taylor Greene, Signals Surging Momentum in GA-14 Retired Brigadier General Shawn Harris outraised Marjorie Taylor Greene in Georgia's 14th Congressional District, bringing in over $500,000 in just 27 days.
+Read More Close Español Meet Shawn Meet Why I’m Running Shawn’s Plans Plans Accountability and Corruption Cost of Living Jobs Farming Education Healthcare Veterans Second Amendment Women’s Health Campaign News News Press Releases In the News Store Store Action Center Action Get Updates Volunteer Get Updates Updates Donate Now Donate Meet Shawn Shawn’s Plans Campaign News Store Action Center Get Updates Donate Now Farming Overview Accountability and Corruption Cost of Living Jobs Farming Education Healthcare Veterans Second Amendment Women’s Health When I talk about the future of farming in America, these are my priorities: Bring small and medium-sized farms to the front and giving them equal access to opportunities provided to corporate farms: Support for farmers who grow the food that every day Americans consume instead of focusing only on commodity crops.
+Provide growth options for farmers who are focused on food to table through “non-traditional” farming methods such as container/warehouse farming, vertical farming, soilless farming (hydro/aquaponics) Shielding SNAP: Making SNAP part of the “mandatory spending” program (like Social Security) that ensures payment during a government shutdown.
 This includes classifying those responsible for processing SNAP payments as essential workers.
-Protecting Farmland:
-- PFAS Mitigation as designed by the American Farmland Trust
-- Pesticide disclosures with state as well as federal labeling to ensure farmers can make educated decisions about the products they use
-- Ensure small and medium sized farms have the same access to EQIP dollars for traditional farm maintenance projects like fencing and wells
-Water Infrastructure:
-- Upgrades to aging infrastructure in rural communities for long term sustainability and safety
-- Infrastructure improvements that allow for community growth in housing and job opportunities
-- Relief for private well owners (a large percentage of rural community water access) facing contamination (PFAS) and drought
-- Funding for the Army Corps of Engineers to work with states to ensure that natural waterways (creeks, rivers, etc.) are free flowing and unblocked, mitigating flooding and allowing for easy fish movement
-Vocational Educational Opportunities:
-- Youth programs that provide paid internships for high school and college students in the agricultural space
-- Modernize the 4-H and FFA (Future Farmers of America) curriculum to include today’s key issues about supply, security and global agriculture
-Decentralize the Food Supply Chain:
-- Create more regional food hubs for processing and manufacturing
-- Expand LAMP (Local Agriculture Market Program) to help create more local food access
-- Grow the “Farm to School” program to include more underserved, rural communities to help local farmers and local schools work together on access to high quality, healthy food.
-Spay and Neuter Support:
-- Provides livestock producers with additional health and safety support for their animals by reducing the number of “roaming” animals, particularly dogs, on their land
-- Stabilizing the animal population protects animals and humans from disease outbreaks such as rabies, thereby making the community and food supply safer.
-Large Animal Veterinarian Access:
-- Increased student loan repayment for those who agree to practice a certain number of hours/years in a high shortage area
-- Practice building incentives that provide access to needed equipment, including mobile clinics
-Include the seafood industry as part of farming:
-- Redefine commercial fishermen and processers as farmers
-- Provide the same access to USDA programs that are granted to land farmers
-- Improve disaster and emergency relief for fisheries and fishermen
+Protecting Farmland: PFAS Mitigation as designed by the American Farmland Trust Pesticide disclosures with state as well as federal labeling to ensure farmers can make educated decisions about the products they use Ensure small and medium sized farms have the same access to EQIP dollars for traditional farm maintenance projects like fencing and wells Water Infrastructure: Upgrades to aging infrastructure in rural communities for long term sustainability and safety Infrastructure improvements that allow for community growth in housing and job opportunities Relief for private well owners (a large percentage of rural community water access) facing contamination (PFAS) and drought Funding for the Army Corps of Engineers to work with states to ensure that natural waterways (creeks, rivers, etc.) are free flowing and unblocked, mitigating flooding and allowing for easy fish movement Vocational Educational Opportunities: Youth programs that provide paid internships for high school and college students in the agricultural space Modernize the 4-H and FFA (Future Farmers of America) curriculum to include today’s key issues about supply, security and global agriculture Decentralize the Food Supply Chain: Create more regional food hubs for processing and manufacturing Expand LAMP (Local Agriculture Market Program) to help create more local food access Grow the “Farm to School” program to include more underserved, rural communities to help local farmers and local schools work together on access to high quality, healthy food.
+Spay and Neuter Support: Provides livestock producers with additional health and safety support for their animals by reducing the number of “roaming” animals, particularly dogs, on their land Stabilizing the animal population protects animals and humans from disease outbreaks such as rabies, thereby making the community and food supply safer.
+Large Animal Veterinarian Access: Increased student loan repayment for those who agree to practice a certain number of hours/years in a high shortage area Practice building incentives that provide access to needed equipment, including mobile clinics Include the seafood industry as part of farming: Redefine commercial fishermen and processers as farmers Provide the same access to USDA programs that are granted to land farmers Improve disaster and emergency relief for fisheries and fishermen Donate to Shawn Harris We are building a coalition across Northwest Georgia to flip GA-14 and deliver the leadership this district deserves.
+Every contribution helps us organize, reach voters, and keep moving.
+Click an amount to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Join the Team Help create a better Georgia .
+Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * Phone Code Name ZIP Code * Mobile Phone Get Updates By providing your cell phone number, you consent to receive periodic campaign updates from Shawn for Georgia, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy Policy .
+Shawn Harris is a retired Brigadier General with the United States Army.
+Use of his military rank, job titles and photographs in uniform does not imply endorsement by the Department of Defense or the Army.
+P.O.
+Box 1688, Cedartown, GA 30125 [email protected] Privacy Policy Press Kit Accessibility Statement PAID FOR BY SHAWN FOR GEORGIA

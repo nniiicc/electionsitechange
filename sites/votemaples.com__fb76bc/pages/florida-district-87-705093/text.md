@@ -1,23 +1,25 @@
-Florida House District 87
-Your Community, Your Representative
-Florida House District 87 includes communities throughout northern and coastal Palm Beach County, one of the fastest-growing and most economically important regions in Florida.
+Skip to main content Skip to footer Opens in a new tab Home Meet Jon Issues FAQ District 87 Neighbors for Jon Media News Events Articles Contact Home Meet Jon Issues FAQ District 87 Neighbors for Jon Media News Events Articles Contact Donate Florida House District 87 Your Community, Your Representative Florida House District 87 includes communities throughout northern and coastal Palm Beach County, one of the fastest-growing and most economically important regions in Florida.
 From Jupiter and Palm Beach Gardens to Juno Beach, North Palm Beach, Palm Beach Shores, and surrounding communities, District 87 is home to families, small business owners, professionals, retirees, and community leaders who care deeply about the future of the area they call home.
 As growth continues across Palm Beach County, residents throughout District 87 are paying closer attention to the issues shaping daily life, including affordability, infrastructure, public safety, traffic congestion, insurance costs, economic opportunity, and protecting quality of life for future generations.
-A Coastal Community with Boundless Opportunity
-Many residents across Florida District 87 are seeing increasing pressure on:
-• Roads and transportation infrastructure
-• Housing affordability
-• Insurance costs
-• Schools and public resources
-• Traffic congestion
-• Local waterways and environmental
-Communities Across District 87
-Find Your Voting Location in Palm Beach County
-What Residents Are Talking About
-Why Local Representation Matters
-- Affordability
-- Economic opportunity
-- Public safety
-- Infrastructure and traffic concerns
-- Protecting quality of life
-- Supporting Florida families and local communities
+Donate A Coastal Community with Boundless Opportunity Palm Beach County continues to experience significant residential and economic growth, bringing both new opportunities and growing challenges for local communities.
+Many residents across Florida District 87 are seeing increasing pressure on: • Roads and transportation infrastructure • Housing affordability • Insurance costs • Schools and public resources • Traffic congestion • Local waterways and environmental Communities throughout the district continue balancing growth with the need to preserve the character, safety, and quality of life that attract families and businesses to the region.
+District 87 includes a mix of coastal communities, residential neighborhoods, business corridors, and growing suburban areas, making local representation especially important as Palm Beach County continues evolving.
+Communities Across District 87 Florida House District 87 includes communities connected by shared concerns about affordability, responsible growth, economic stability, and maintaining strong local neighborhoods.
+Jupiter Palm Beach Gardens Juno Beach North Palm Beach Palm Beach Shores Palm Beach West Palm Beach Lake Worth Beach Lantana Hypoluxo Manalapan South Palm Beach Each community brings its own priorities and local concerns, but residents across the district remain focused on many of the same issues affecting families throughout Palm Beach County.
+View map Find Your Voting Location in Palm Beach County During Early Voting, registered Palm Beach County voters choose whichever open Early Voting location works best for them from Monday, October 19, through Sunday, November 1, 2026.
+On Election Day, Tuesday, November 3, voters must go to the polling place assigned to their precinct.
+Use the official Palm Beach County Supervisor of Elections tools below to review Early Voting sites or find your assigned Election Day polling place before heading to the polls.
+View Early Voting Locations Find Your Election Day Polling Place What Residents Are Talking About Across District 87, residents are focused on issues that affect everyday life in Palm Beach County.
+Affordability remains a recurring theme as residents discuss ways that Tallahassee can make life better here at home.
+Cutting taxes, lowering property insurance premiums, and reducing the price of essential goods like gas and groceries will help ease the pressure on household budgets.
+Public safety, education, responsible development, environmental protection, and economic opportunity remain central priorities throughout the district as communities continue adapting to rapid change and long-term growth.
+Residents deserve strong, local representation with a common-sense approach to solving community priorities in the Florida House of Representatives.
+Why Local Representation Matters Our State Representative has the ability to bring everyone to the table.
+The challenges we face weren't created overnight, and we need an all-hands approach to solving them.
+We need a leader who can assemble local stakeholders, marshall state resources, and lean on federal partners in addressing issues like affordability, inflation, public safety, and traffic.
+As a 20-year Palm Beach County resident, Jon is lifting up local voices.
+He's meeting with residents to discuss the issues they face and develop lasting solutions to protect our quality of life and preserve our future.
+His focus remains centered on: Affordability Economic opportunity Public safety Infrastructure and traffic concerns Protecting quality of life Supporting Florida families and local communities Looking Ahead to 2026 District 87 residents have the opportunity to elect a local champion in November.
+We deserve a leader who listens and approaches government problems with an outsider's perspective and a healthy dose of common sense.
+From coastal communities to growing residential neighborhoods, Florida House District 87 continues drawing attention across Palm Beach County as conversations around growth, affordability, and local priorities continue shaping the district.
+Meet Jon On the Issues Donate Contact Terms & Conditions Privacy Policy Paid by Jon Maples, Republican, for State House, District 87.

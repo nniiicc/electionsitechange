@@ -1,5 +1,5 @@
-Guiding Principles
-I’m Jason Purviance.
+Elect Jason Purviance Where’s Jason?
+Vote for Jason Donate 2026 January 14 Guiding Principles Guiding Principles 14 Jan 0 Guiding Principles Jason Purviance Uncategorized I’m Jason Purviance.
 Husband since 2009.
 Dad.
 Aircraft mechanic.
@@ -35,11 +35,13 @@ Local and individual control — Resist overreach from Columbus and D.C.; devolv
 This framework isn’t about left or right.
 These principles are about decisions that expand freedom, cut coercion, and respect the realities of life in District 47.
 If this approach resonates, I’d love to hear from you.
-You can email me directly at [email protected], or message me on X or Facebook.
+You can email me directly at [email protected] , or message me on X or Facebook.
 I want to hear from you.
 Let’s restore liberty where it belongs, right here at home.
-Jason Purviance
-Libertarian for Ohio House District 47
-Email: [email protected]
-X: @jasonP4liberty
-Facebook: Jason Purviance for State Representative
+Jason Purviance Libertarian for Ohio House District 47 Email: [email protected] X: @jasonP4liberty Facebook: Jason Purviance for State Representative Author: Jason Purviance Leave a Reply Cancel Reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Search Search Recent Posts POLICY PROPOSAL – End Warrantless Tracking Property Tax Reform: Phasing Out the Tax on the Home You Live In POLICY PROPOSAL – Responsible Data Center Standards Why Continuous Vehicle Tracking Should Concern Every Resident Door-to-Door in District 47: Shoveling Driveways and Building Connections Recent Comments Martin Rossol on Why Continuous Vehicle Tracking Should Concern Every Resident Jason Purviance is running in Ohio House District 47. which reaches from Oxford in northwest Butler County to Hamilton in central Butler County.
+Not sure what district you're in?
+Click here to check the Secretary of State's website and find out.
+Paid for by Purviance for Ohio Elect Jason Purviance Where’s Jason?
+Vote for Jason Donate

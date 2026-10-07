@@ -1,7 +1,9 @@
 {
  "description": "News Publication Example",
  "final_url": "https://shaderforsenate.com/gallery/",
- "paid_for_by": "Paid for by Rhonda Shader for Senate 2026 - Campaign ID # 1460521 Privacy Policy | Terms of Use Scroll To Top",
+ "fingerprint": "25a5962e51daa42f089e763d0de7298f16d92d48",
+ "format": 3,
+ "paid_for_by": "Paid for by Rhonda Shader for Senate 2026 - Campaign ID # 1460521 Privacy Policy",
  "title": "Gallery - Rhonda Shader for Senate 2026",
  "years_mentioned": [
   "2026"

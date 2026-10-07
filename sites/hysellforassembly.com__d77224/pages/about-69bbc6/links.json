@@ -1,56 +1,310 @@
 [
-"https://acslaw.org/",
-"https://bgca.org/",
-"https://dccc.org/",
-"https://dva.wi.gov/Pages/benefitsclaims/VORP.aspx",
-"https://educatorsrx.org/",
-"https://facebook.com/Hysell-for-Assembly-114529671229133",
-"https://facebook.com/campaignforhealthykids",
-"https://healthyfoodamerica.org/",
-"https://hysellforassembly.com/",
-"https://hysellforassembly.com/about",
-"https://hysellforassembly.com/blog",
-"https://hysellforassembly.com/cart",
-"https://hysellforassembly.com/contact",
-"https://hysellforassembly.com/election-info",
-"https://hysellforassembly.com/groups/12a7z1nbviroo59xoxfl7e0y9vt8nq",
-"https://hysellforassembly.com/groups/american-constitution-society",
-"https://hysellforassembly.com/groups/boys-and-girls-club-of-america",
-"https://hysellforassembly.com/groups/campaign-for-healthy-kids",
-"https://hysellforassembly.com/groups/campaign-for-tobacco-free-kids",
-"https://hysellforassembly.com/groups/democratic-congressional-campaign-committee",
-"https://hysellforassembly.com/groups/educatorsrx",
-"https://hysellforassembly.com/groups/healthy-food-america",
-"https://hysellforassembly.com/groups/lets-move",
-"https://hysellforassembly.com/groups/netcentric",
-"https://hysellforassembly.com/groups/reading-roadmap",
-"https://hysellforassembly.com/groups/save-the-childrens-united-states-program",
-"https://hysellforassembly.com/groups/save-the-veto",
-"https://hysellforassembly.com/groups/simmy-foundation",
-"https://hysellforassembly.com/groups/the-neutral-project",
-"https://hysellforassembly.com/groups/vorp",
-"https://hysellforassembly.com/groups/wisconsin-cannabis-association",
-"https://hysellforassembly.com/groups/wisconsin-democratic-party",
-"https://hysellforassembly.com/groups/wisconsin-justice-initiative",
-"https://hysellforassembly.com/home",
-"https://hysellforassembly.com/issues",
-"https://hysellforassembly.com/media-events",
-"https://hysellforassembly.com/videos-1",
-"https://hysellforassembly.com/yardsign",
-"https://instagram.com/hysellforassembly",
-"https://lcv.org/",
-"https://letsmove.obamawhitehouse.archives.gov/",
-"https://m.facebook.com/WisDems/posts/today-were-launching-save-the-veto-an-initiative-to-stop-republicans-from-gainin/10158048168683592?locale=es_LA",
-"https://netcentriccampaigns.org/",
-"https://patch.com/california/coronado/working-to-tackle-childhood-obesity",
-"https://readingroadmap.org/",
-"https://savethechildren.org/",
-"https://savethechildren.org/us/what-we-do/us-programs",
-"https://secure.actblue.com/donate/hysell",
-"https://simmyfoundation.org/",
-"https://theneutralproject.com/",
-"https://tobaccofreekids.org/",
-"https://wiscannabisassoc.org/",
-"https://wispolitics.com/2020/wisdems-launch-save-the-veto-initiative",
-"https://wjiinc.org/"
+{
+"text": "0",
+"href": "https://hysellforassembly.com/cart"
+},
+{
+"text": "About",
+"href": "https://hysellforassembly.com/about"
+},
+{
+"text": "American Constitution Society",
+"href": "https://www.acslaw.org/"
+},
+{
+"text": "Blog",
+"href": "https://hysellforassembly.com/blog"
+},
+{
+"text": "Boys & Girls Clubs of America",
+"href": "https://www.bgca.org/"
+},
+{
+"text": "Campaign for Healthy Kids",
+"href": "https://patch.com/california/coronado/working-to-tackle-childhood-obesity"
+},
+{
+"text": "Campaign for Healthy Kids",
+"href": "https://www.facebook.com/campaignforhealthykids/"
+},
+{
+"text": "Campaign for Tobacco Free Kids",
+"href": "https://www.tobaccofreekids.org/"
+},
+{
+"text": "Campaign for Tobacco-Free Kids",
+"href": "https://www.tobaccofreekids.org/"
+},
+{
+"text": "Contact",
+"href": "https://hysellforassembly.com/contact"
+},
+{
+"text": "Democratic Congressional Campaign Committee",
+"href": "https://dccc.org/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hysell"
+},
+{
+"text": "EducatorsRx",
+"href": "https://www.educatorsrx.org/"
+},
+{
+"text": "Election Info",
+"href": "https://hysellforassembly.com/election-info"
+},
+{
+"text": "Endorsements",
+"href": "https://hysellforassembly.com/yardsign"
+},
+{
+"text": "Healthy Food America",
+"href": "https://www.healthyfoodamerica.org/"
+},
+{
+"text": "Home",
+"href": "https://hysellforassembly.com/"
+},
+{
+"text": "Home",
+"href": "https://hysellforassembly.com/home"
+},
+{
+"text": "Issues",
+"href": "https://hysellforassembly.com/issues"
+},
+{
+"text": "League of Conservation Voters",
+"href": "https://www.lcv.org/"
+},
+{
+"text": "Let’s Move!",
+"href": "https://letsmove.obamawhitehouse.archives.gov/"
+},
+{
+"text": "Media & Events",
+"href": "https://hysellforassembly.com/media-events"
+},
+{
+"text": "Netcentric",
+"href": "https://netcentriccampaigns.org/"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/12a7z1nbviroo59xoxfl7e0y9vt8nq"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/american-constitution-society"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/boys-and-girls-club-of-america"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/campaign-for-healthy-kids"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/campaign-for-tobacco-free-kids"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/democratic-congressional-campaign-committee"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/educatorsrx"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/healthy-food-america"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/lets-move"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/netcentric"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/reading-roadmap"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/save-the-childrens-united-states-program"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/save-the-veto"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/simmy-foundation"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/the-neutral-project"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/vorp"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/wisconsin-cannabis-association"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/wisconsin-democratic-party"
+},
+{
+"text": "Read more →",
+"href": "https://hysellforassembly.com/groups/wisconsin-justice-initiative"
+},
+{
+"text": "Reading Roadmap",
+"href": "https://www.readingroadmap.org"
+},
+{
+"text": "Reading Roadmap",
+"href": "https://www.readingroadmap.org/"
+},
+{
+"text": "Save the Children’s",
+"href": "https://www.savethechildren.org/us/what-we-do/us-programs"
+},
+{
+"text": "Save the Children’s United States Program",
+"href": "https://www.savethechildren.org/"
+},
+{
+"text": "Save the Veto",
+"href": "https://m.facebook.com/WisDems/posts/today-were-launching-save-the-veto-an-initiative-to-stop-republicans-from-gainin/10158048168683592/?locale=es_LA"
+},
+{
+"text": "Save the Veto",
+"href": "https://www.wispolitics.com/2020/wisdems-launch-save-the-veto-initiative/"
+},
+{
+"text": "Simmy Foundation",
+"href": "https://simmyfoundation.org/"
+},
+{
+"text": "The Neutral Project",
+"href": "https://theneutralproject.com/"
+},
+{
+"text": "Veterans Outreach and Recovery Program",
+"href": "https://dva.wi.gov/Pages/benefitsclaims/VORP.aspx"
+},
+{
+"text": "Videos",
+"href": "https://hysellforassembly.com/videos-1"
+},
+{
+"text": "Wisconsin Cannabis Association",
+"href": "https://www.wiscannabisassoc.org/"
+},
+{
+"text": "Wisconsin Democratic Party",
+"href": "https://hysellforassembly.com/groups/wisconsin-democratic-party"
+},
+{
+"text": "Wisconsin Justice Initiative",
+"href": "https://www.wjiinc.org/"
+},
+{
+"text": "[image: American Constitution Society]",
+"href": "https://www.acslaw.org/"
+},
+{
+"text": "[image: Andrew Hysell for Assembly]",
+"href": "https://hysellforassembly.com/"
+},
+{
+"text": "[image: Boys &amp; Girls Clubs of America]",
+"href": "https://www.bgca.org/"
+},
+{
+"text": "[image: Campaign for Healthy Kids]",
+"href": "https://www.facebook.com/campaignforhealthykids/"
+},
+{
+"text": "[image: Campaign for Tobacco Free Kids]",
+"href": "https://www.tobaccofreekids.org/"
+},
+{
+"text": "[image: Democratic Congressional Campaign Committee]",
+"href": "https://dccc.org/"
+},
+{
+"text": "[image: EducatorsRx]",
+"href": "https://www.educatorsrx.org/"
+},
+{
+"text": "[image: Healthy Food America]",
+"href": "https://www.healthyfoodamerica.org/"
+},
+{
+"text": "[image: League of Conservation Voters]",
+"href": "https://www.lcv.org/"
+},
+{
+"text": "[image: Let’s Move!]",
+"href": "https://letsmove.obamawhitehouse.archives.gov/"
+},
+{
+"text": "[image: Netcentric]",
+"href": "https://netcentriccampaigns.org/"
+},
+{
+"text": "[image: Reading Roadmap]",
+"href": "https://www.readingroadmap.org/"
+},
+{
+"text": "[image: Save the Children’s United States Program]",
+"href": "https://www.savethechildren.org/"
+},
+{
+"text": "[image: Save the Veto]",
+"href": "https://m.facebook.com/WisDems/posts/today-were-launching-save-the-veto-an-initiative-to-stop-republicans-from-gainin/10158048168683592/?locale=es_LA"
+},
+{
+"text": "[image: Simmy Foundation]",
+"href": "https://simmyfoundation.org/"
+},
+{
+"text": "[image: The Neutral Project]",
+"href": "https://theneutralproject.com/"
+},
+{
+"text": "[image: Veterans Outreach and Recovery Program]",
+"href": "https://dva.wi.gov/Pages/benefitsclaims/VORP.aspx"
+},
+{
+"text": "[image: Wisconsin Cannabis Association ]",
+"href": "https://www.wiscannabisassoc.org/"
+},
+{
+"text": "[image: Wisconsin Democratic Party]",
+"href": "https://hysellforassembly.com/groups/wisconsin-democratic-party"
+},
+{
+"text": "[image: Wisconsin Justice Initiative]",
+"href": "https://www.wjiinc.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Hysell-for-Assembly-114529671229133"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/hysellforassembly/"
+}
 ]

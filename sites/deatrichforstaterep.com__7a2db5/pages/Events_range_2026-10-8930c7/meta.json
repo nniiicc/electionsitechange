@@ -1,7 +1,11 @@
 {
  "description": "John Deatrich Jr. Campaign Events",
  "final_url": "https://www.deatrichforstaterep.com/Events?range=2026-10",
- "paid_for_by": null,
+ "fingerprint": "e8a5dee5d54a926db18d02298817f926680c6609",
+ "format": 3,
+ "paid_for_by": "",
  "title": "John Deatrich Jr. Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

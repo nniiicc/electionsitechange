@@ -1,9 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.mitchfornewtown.com/https-www-cga-ct-gov-asp-CGABillStatus-CGAMemberBills-aspdist_code-2710627d",
- "paid_for_by": "Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer",
+ "fingerprint": "11bbd6d9daf2c5550905d1bb964616bec8a59f73",
+ "format": 3,
+ "paid_for_by": "sponsored by Rep",
  "title": "Legislation",
  "years_mentioned": [
-  "2024"
+  "2024",
+  "2025",
+  "2026"
  ]
 }

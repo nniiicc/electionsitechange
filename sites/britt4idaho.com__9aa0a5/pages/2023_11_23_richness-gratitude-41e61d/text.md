@@ -1,11 +1,11 @@
-In this season of Thanksgiving, I’m pausing to consider and appreciate some parts of life that tend to fly under the radar.
+Toggle navigation Home About Volunteer News Donate The Richness of Gratitude November 23, 2023 In this season of Thanksgiving, I’m pausing to consider and appreciate some parts of life that tend to fly under the radar.
 Without question, I go into this holiday season with great appreciation for family, friends, and the nation we call home.
 But in some ways, those blessings are easy to count and acknowledge.
 Today, my thoughts turn to the less obvious because it’s often so easy to overlook in our daily routines.
 It started this morning with a drink of water.
 In communities worldwide, including our own country, people lack access to clean water in their homes.
 I can’t begin to fathom the work and the worry that families deal with when they lack access to safe drinking water.
-But through the efforts of organizations like DigDeep, families in some of the most rural areas in the world are gaining access to running water.
+But through the efforts of organizations like DigDeep , families in some of the most rural areas in the world are gaining access to running water.
 It’s incredible to hear the stories and see the difference it makes for people to have water in their homes.
 The next one may surprise you a bit.
 I’m incredibly grateful for weather forecasts.
@@ -28,4 +28,12 @@ As you gather with family and friends this year, I encourage you to pause for a 
 What makes your day just a bit better than it might otherwise be?
 What gives you hope for the future?
 I wish you and yours all the best as you celebrate this season of Thanksgiving.
-This column originally appeared in the Post Register.
+This column originally appeared in the Post Register. gratitude Thanksgiving Post navigation Building a Strong Energy Future in Idaho https://www.britt4idaho.com/wp-content/uploads/2024/04/shutterstock_682810240.jpg Investing in Idaho’s Water Infrastructure https://www.britt4idaho.com/wp-content/uploads/2024/04/shutterstock_1167502348.jpg Home About Volunteer for Britt Donate Have questions?
+Email hello@britt4idaho.com Copyright © # Britt Raybould for Idaho | Paid for by Britt Raybould for Idaho – Ron Walker, Treasurer Manage consent Close Privacy Overview This website uses cookies to improve your experience while you navigate through the website.
+Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website.
+We also use third-party cookies that help us analyze and understand how you use this website.
+These cookies will be stored in your browser only with your consent.
+You also have the option to opt-out of these cookies.
+But opting out of some of these cookies may affect your browsing experience.
+Visitor data can be shared with third parties to perform services on behalf of this website.
+Necessary Necessary Always Enabled Functional Functional Advertisement Advertisement Others Others SAVE & ACCEPT

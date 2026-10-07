@@ -1,5 +1,4 @@
-TERMS AND CONDITIONS
-PLEASE READ THESE TERMS & CONDITIONS CAREFULLY.
+(808) 546-9509 edcase@edcase.com Follow Follow Follow Follow ABOUT ED Snapshot Story Experience Images ED’S AGENDA UPDATES CONTACT JOIN US DONATE ABOUT ED Snapshot Story Experience Images ED’S AGENDA UPDATES CONTACT JOIN US DONATE TERMS AND CONDITIONS PLEASE READ THESE TERMS & CONDITIONS CAREFULLY.
 BY ACCESSING OR USING THIS SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN.
 IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THIS SITE.
 This site is operated by Case for Congress (together with any affiliates, “we,” or “us”).
@@ -7,7 +6,7 @@ These Terms & Conditions (“Terms”) apply solely to your access to, and use o
 We reserve the right to change or modify any of the terms and conditions contained in the Terms at any time and in our sole discretion.
 Any changes or modifications will be effective immediately upon posting of the revisions on the Sites, and you waive any right you may have to receive specific notice of such changes or modifications.
 Your continued use of the Sites following the posting of changes or modifications will confirm your acceptance of such changes or modifications.
-All questions or comments about the Sites or site content should be directed to edcase@edcase.com.
+All questions or comments about the Sites or site content should be directed to edcase@edcase.com .
 You are granted a limited, non-sublicensable license to access and use the Sites and the Site Materials intended by us for your use for your informational, non-commercial and personal use only.
 Such license is subject to the Terms and does not include: (a) any resale or commercial use of the Sites or the Site Materials therein; (b) the reproduction, distribution, public performance or public display of any Site Materials, except as expressly permitted on the Site; (c) modifying or otherwise making any derivative uses of the Sites or the Site Materials, or any portion thereof; (d) use of any data mining, robots or similar data gathering or extraction methods; (e) downloading (other than the page caching) of any portion of the Sites, the Site Materials or any information contained therein, except as expressly permitted on the Sites; or (f) any use of the Sites or the Site Materials other than for their intended purpose.
 Any use of the Sites or the Site Materials other than as specifically authorized herein, without the prior written permission of Case for Congress, is strictly prohibited and will terminate the license granted herein.
@@ -15,8 +14,7 @@ Such unauthorized use may also violate applicable laws including without limitat
 Unless explicitly stated herein, nothing in these Terms shall be construed as conferring any license to intellectual property rights, whether by estoppel, implication or otherwise.
 This license is revocable at any time.
 1.
-Third-Party Sites, Functionality and Content
-The Sites may make third-party information, advertisements, promotions and other content available on or through the Sites (“Third Party Content”).
+Third-Party Sites, Functionality and Content The Sites may make third-party information, advertisements, promotions and other content available on or through the Sites (“Third Party Content”).
 Our Sites also may link or otherwise provide access to third-party websites and other products and services outside our control (collectively, “Third Party Products and Services”).
 These Third Party Products and Services may include, for example, event and volunteer registration and management, donation and payment functionality, and other features, functionalities, and services powered by third parties.
 Case for Congress does not endorse, adopt, sponsor, recommend, or otherwise accept responsibility for any Third Party Content or Third Party Products and Services, and we make no representation or warranties of any kind regarding them.
@@ -24,13 +22,11 @@ These Third Party Products and Services and Third Party Content are not under th
 Your business dealings with these third parties, and any terms, conditions, warranties or representations associated therewith, are solely between you and such third parties.
 We encourage you to review their applicable terms and policies.
 2.
-Consent to Use of Data and Mobile Communication; SMS Program Terms
-You consent to our communicating with you about the Site and the campaign by SMS, text message, email and other electronic means.
+Consent to Use of Data and Mobile Communication; SMS Program Terms You consent to our communicating with you about the Site and the campaign by SMS, text message, email and other electronic means.
 Your carrier’s normal messaging, data and other rates and fees will apply to these communications.
-If you subscribe to any text programs that the Case for Congress Campaign makes available, the following terms apply:
-By subscribing to campaign updates or alerts, you consent to receive periodic updates or alerts by automatic text message.
+If you subscribe to any text programs that the Case for Congress Campaign makes available, the following terms apply: By subscribing to campaign updates or alerts, you consent to receive periodic updates or alerts by automatic text message.
 Text STOP to stop.
-For Help, text HELP or contact us at edcase@edcase.com.
+For Help, text HELP or contact us at edcase@edcase.com .
 Message and data rates may apply.
 Neither the campaign nor the participating carriers guarantee that messages will be delivered.
 The campaign may discontinue the program at any time without notice.
@@ -42,18 +38,7 @@ You agree that you will not provide any other person’s personal information to
 4.
 Prohibited Conduct.
 You may not access or use, or attempt to access or use, the Sites to take any action that could harm us or any other person or entity, interfere with the operation of the Sites, or use the Sites in a manner that violates any laws.
-For example, and without limitation, you may not:
-- Impersonate any person or entity or otherwise misrepresent your affiliation or the origin of materials you transmit;
-- Engage in unauthorized spidering, “scraping,” or harvesting of content or personal information, or use any other unauthorized automated means to compile information;
-- Use the Sites to access, harvest, copy, collect, gather, or assemble information or data regarding other users of the Sites without the applicable user’s prior express consent;
-- Take any action that imposes an unreasonable or disproportionately large load on our network or infrastructure;
-- Use any device, software or routine to interfere or attempt to interfere with the proper working of the Sites or any activity conducted on the Sites or attempt to probe, scan, test the vulnerability of, or breach the security of any system or network, including without limitation via any viruses, corrupted data, or other harmful, disruptive or destructive files;
-- Attempt to modify, copy, make derivative works of, decipher, decompile, disassemble, or reverse-engineer any of the software comprising or in any way making up a part of the Sites;
-- Distribute any unauthorized materials or advertise or promote goods, services, or political campaigns without our express written permission (including, without limitation, by sending spam);
-- Sublicense any of your rights under these Terms;
-- Harass or materially interfere in any manner with another user’s use or enjoyment of the Sites;
-- Engage in any other conduct that restricts or inhibits any person or entity from using or enjoying the Sites, or that, in our sole judgment, exposes us or any of our users, affiliates, or any other person or entity to any liability, damages, or detriment of any type; or
-- Otherwise use the Sites for any unlawful or unauthorized purpose, or engage in, encourage or promote any activity that violates these Terms or any additional guidelines, policies or rules posted on the Site or otherwise provided to you.
+For example, and without limitation, you may not: Impersonate any person or entity or otherwise misrepresent your affiliation or the origin of materials you transmit; Engage in unauthorized spidering, “scraping,” or harvesting of content or personal information, or use any other unauthorized automated means to compile information; Use the Sites to access, harvest, copy, collect, gather, or assemble information or data regarding other users of the Sites without the applicable user’s prior express consent; Take any action that imposes an unreasonable or disproportionately large load on our network or infrastructure; Use any device, software or routine to interfere or attempt to interfere with the proper working of the Sites or any activity conducted on the Sites or attempt to probe, scan, test the vulnerability of, or breach the security of any system or network, including without limitation via any viruses, corrupted data, or other harmful, disruptive or destructive files; Attempt to modify, copy, make derivative works of, decipher, decompile, disassemble, or reverse-engineer any of the software comprising or in any way making up a part of the Sites; Distribute any unauthorized materials or advertise or promote goods, services, or political campaigns without our express written permission (including, without limitation, by sending spam); Sublicense any of your rights under these Terms; Harass or materially interfere in any manner with another user’s use or enjoyment of the Sites; Engage in any other conduct that restricts or inhibits any person or entity from using or enjoying the Sites, or that, in our sole judgment, exposes us or any of our users, affiliates, or any other person or entity to any liability, damages, or detriment of any type; or Otherwise use the Sites for any unlawful or unauthorized purpose, or engage in, encourage or promote any activity that violates these Terms or any additional guidelines, policies or rules posted on the Site or otherwise provided to you.
 Violations of system or network security may result in civil or criminal liability.
 We may investigate and work with law enforcement authorities to prosecute users who violate these Terms.
 We may suspend or terminate your access to the Sites for any or no reason at any time without notice.
@@ -93,3 +78,13 @@ If any provision of these Terms shall be deemed unlawful, void or for any reason
 You agree that no joint venture, partnership, employment, or agency relationship exists between you and us as a result of these Terms or your access to and use of the Sites.
 Our failure to enforce any provisions of these Terms or respond to a violation by any party does not waive our right to subsequently enforce the Terms or respond to any violations.
 Nothing contained in these Terms is in derogation of our right to comply with governmental, court, and law enforcement requests or requirements relating to your use of the Sites or information provided to or gathered by us with respect to such use.
+STAY CONNECTED WITH ED.
+Name (Required) First Last Email (Required) Enter Email Confirm Email Phone Number Text Messages Optin I am opting in to receive text messages from Case for Congress.
+By submitting this form and signing up for texts, I consent to receive election information and reminders from Case for Congress at the email or phone number provided, including messages sent by autodialer.
+Msg & data rates may apply.
+Msg frequency varies.
+Donations may be solicited.
+Opt-in data and consent will not be shared with any third parties.
+Unsubscribe by replying STOP.
+Reply HELP for help.
+Privacy Policy | Terms and Conditions Submit Follow Follow Follow Follow Paid for by Case for Congress PO Box 2941 Honolulu, HI 96802 (808) 546-9509 edcase@edcase.com © # Ed Case | All Rights Reserved | Privacy Policy | Terms & Conditions

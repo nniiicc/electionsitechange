@@ -1,11 +1,42 @@
 [
-"https://electiondaystrategies.com/",
-"https://messingerforjustice.com/",
-"https://messingerforjustice.com/about-john",
-"https://messingerforjustice.com/contact",
-"https://messingerforjustice.com/endorsements",
-"https://messingerforjustice.com/newsletter",
-"https://messingerforjustice.com/volunteer",
-"https://messingerforjustice.com/voting-info",
-"https://secure.winred.com/john-messinger/donate-today"
+{
+"text": "ABOUT JOHN",
+"href": "https://messingerforjustice.com/about-john/"
+},
+{
+"text": "CONTACT",
+"href": "https://messingerforjustice.com/contact/"
+},
+{
+"text": "DONATE TODAY!",
+"href": "https://secure.winred.com/john-messinger/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://messingerforjustice.com/endorsements/"
+},
+{
+"text": "Election Day Strategies",
+"href": "https://electiondaystrategies.com"
+},
+{
+"text": "HOME",
+"href": "https://messingerforjustice.com/"
+},
+{
+"text": "NEWS",
+"href": "https://messingerforjustice.com/newsletter/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://messingerforjustice.com/volunteer/"
+},
+{
+"text": "VOTING INFO",
+"href": "https://messingerforjustice.com/voting-info/"
+},
+{
+"text": "[image: MessingerForJustice.com]",
+"href": "https://messingerforjustice.com/"
+}
 ]

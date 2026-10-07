@@ -1,18 +1,3 @@
-HOME
-PLATFORM
-LEGISLATION
-AWARDS
-GET INVOLVED
-BREWS & VIEWS PODCAST
-NEWS
-EVENTS
-More...
-10
-WEEK
-09
-WEEK
-08
-WEEK 8
-Governor Kim Reynolds
-Iowa House Republicans
-Iowa Republican Party
+top of page HOME PLATFORM LEGISLATION AWARDS GET INVOLVED BREWS & VIEWS PODCAST NEWS EVENTS More...
+Use tab to navigate through the menu items.
+DONATE SHANNON'S CAPITOL CONNECTON NEWSLETTER 10 WEEK 09 WEEK 08 WEEK 8 STATE LINKS Governor Kim Reynolds Iowa House Republicans Iowa Republican Party JOIN THE CONVERSATION Paid for by the Lundgren for House Committee bottom of page

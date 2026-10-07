@@ -1,12 +1,13 @@
-Do you want more money spent in our elections?
+Skip to content Home News Articles Volunteer Contact Donate Events Home News Articles Volunteer Contact Donate Events Get Involved Donate Now Facebook X-twitter Instagram Why doesn’t your U.S.
+Senator or Representative take action on the critical issues that matter to you? admin April 13, 2026 8:15 am No Comments Do you want more money spent in our elections?
 Why doesn’t your U.S.
 Senator or Representative take action on the critical issues that matter to you?
-They are afraid of “being primaried.” Primaried means that your congressional representative loses the next primary election because they voted against a billionaire’s interests—interests that affect a billionaire’s pocketbook.
+They are afraid of “ being primaried .” Primaried means that your congressional representative loses the next primary election because they voted against a billionaire’s interests—interests that affect a billionaire’s pocketbook.
 The result is primary defeat by an opponent financed by that same billionaire.
 This is how many national primaries, and now Montana state primaries, work.
 The critical issues of America’s working class and retired populations lose out to billionaires—and you are most likely not a billionaire.
 The same is now true in state primaries.
-Billionaire money is now “HITTING THE BIG TIME IN SMALL TOWNS” in the upcoming Ravalli County primary election.
+Billionaire money is now “ HITTING THE BIG TIME IN SMALL TOWNS ” in the upcoming Ravalli County primary election.
 They have enough billions to buy your local state senator or representative, much like treating yourself to an extra sweet roll with your next cup of coffee.
 Americans for Prosperity is a modern version of the John Birch Society, supported by Koch Industries and billionaire Koch family funding.
 Americans for Prosperity is spending millions of dollars across the country—and tens of thousands of dollars in Ravalli County—to promote policies that result in no government but corporate government, no corporate billionaire taxes, no healthcare or Medicaid, increased national debt, and no environmental reviews.
@@ -14,4 +15,6 @@ I have no Democratic primary opponent, but I do have an issue with billionaires 
 It is simply wrong.
 Primary voters—you have control, if you choose to use it.
 Focus “daily” on candidates who “love” to be wrapped in dark money, the flag, and so-called family values and vote no.
-Archie Thomas The original “Rino-crat” Hamilton HD 86
+Archie Thomas The original “Rino-crat” Hamilton HD 86 more posts: Why Vote Yes on I-194: The Montana Option September 30, 2026 No Comments Read More » Tale of Two Elections September 30, 2026 No Comments Read More » DEQ says no to Sheep Creek Mine Request July 27, 2026 No Comments Read More » Home News Articles Volunteer Contact Donate Events Home News Articles Volunteer Contact Donate Events Facebook X-twitter Instagram © # Rino-crat Campaign.
+All rights reserved.
+Read Our Privacy Policy

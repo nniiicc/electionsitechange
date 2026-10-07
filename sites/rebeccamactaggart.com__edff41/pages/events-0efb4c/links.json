@@ -1,55 +1,306 @@
 [
-"http://facebook.com/rm4pa",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+Drive+in+Donora&dates=20261024T140000Z%2F20261024T153000Z&location=1400+Palmer+Park+Road%2C+Pavilion+%231%2C+Donora%2C+PA+15033%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Iron+Workers+Local+Union+%233+Open+House+and+Festival&dates=20260926T120000Z%2F20260926T180000Z&location=2315+Liberty+Avenue%2C+Pittsburgh%2C+Pennsylvania%2C+15222%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+Launch%3A+Bradstock++MacTaggart+%2B+W%26amp%3BJ+Democrats&dates=20260927T153000Z%2F20260927T173000Z&location=30+S+College+St%2C+Washington%2C+PA+15301%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+the+Candidates+Night+-+LWV+%26+NAACP&dates=20261014T223000Z%2F20261015T010000Z&location=201+Allison+Avenue%2C+Washington%2C+Pennsylvania%2C+15301%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=No+Kings+Rally+-+October+17&dates=20261017T160000Z%2F20261018T170000Z&location=1+South+Main+Street%2C+Washington%2C+PA+15301%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Pregame+Fill+Up+Lunch+at+the+Croatian+Club+in+Donora&dates=20261011T160000Z%2F20261011T180000Z&location=329+Castner+Avenue%2C+Donora%2C+Pennsylvania%2C+15033%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Signs+and+Sweets+in+Palmer+Park&dates=20261024T160000Z%2F20261024T180000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Town+Hall+with+Alan+Bradstock&dates=20260928T220000Z%2F20260929T000000Z&location=168+Park+Ave%2C+Washington%2C+PA+15301%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Yard+Signs+%26+Pizza&dates=20261007T210000Z%2F20261008T000000Z&location=57+East+Chestnut+St%2C+Washington%2C+PA+15301%2C+United+States",
-"http://maps.google.com/?q=1+South+Main+Street+Washington%2C+PA+15301+United+States",
-"http://maps.google.com/?q=1400+Palmer+Park+Road%2C+Pavilion+",
-"http://maps.google.com/?q=168+Park+Ave+Washington%2C+PA+15301+United+States",
-"http://maps.google.com/?q=201+Allison+Avenue+Washington%2C+Pennsylvania%2C+15301+United+States",
-"http://maps.google.com/?q=2315+Liberty+Avenue+Pittsburgh%2C+Pennsylvania%2C+15222+United+States",
-"http://maps.google.com/?q=30+S+College+St+Washington%2C+PA+15301+United+States",
-"http://maps.google.com/?q=329+Castner+Avenue+Donora%2C+Pennsylvania%2C+15033+United+States",
-"http://maps.google.com/?q=57+East+Chestnut+St+Washington%2C+PA+15301+United+States",
-"https://actionnetwork.org/forms/stay-updated-18",
-"https://actionnetwork.org/forms/volunteer-to-support-rebecca-mactaggarts-campaign-in-pa-hd-48",
-"https://bsky.app/profile/rm4pa.bsky.social",
-"https://facebook.com/rm4pa",
-"https://instagram.com/rm4pa",
-"https://rebeccamactaggart.com/",
-"https://rebeccamactaggart.com/biography",
-"https://rebeccamactaggart.com/cart",
-"https://rebeccamactaggart.com/contact",
-"https://rebeccamactaggart.com/district",
-"https://rebeccamactaggart.com/endorsements",
-"https://rebeccamactaggart.com/events",
-"https://rebeccamactaggart.com/events/canvassing-drive-in-donora",
-"https://rebeccamactaggart.com/events/canvassing-drive-in-donora?format=ical",
-"https://rebeccamactaggart.com/events/iron-workers-local-union-3-open-house-and-festival",
-"https://rebeccamactaggart.com/events/iron-workers-local-union-3-open-house-and-festival?format=ical",
-"https://rebeccamactaggart.com/events/joint-canvass-launch-alan-bradstock-rebecca-mactaggart-and-w-j-dems",
-"https://rebeccamactaggart.com/events/joint-canvass-launch-alan-bradstock-rebecca-mactaggart-and-w-j-dems?format=ical",
-"https://rebeccamactaggart.com/events/meet-the-candidates-night-lwv-naacp",
-"https://rebeccamactaggart.com/events/meet-the-candidates-night-lwv-naacp?format=ical",
-"https://rebeccamactaggart.com/events/no-kings-rally-october-17",
-"https://rebeccamactaggart.com/events/no-kings-rally-october-17?format=ical",
-"https://rebeccamactaggart.com/events/pregame-fill-up-lunch-at-the-croatian-club-in-donora",
-"https://rebeccamactaggart.com/events/pregame-fill-up-lunch-at-the-croatian-club-in-donora?format=ical",
-"https://rebeccamactaggart.com/events/signs-and-sweets-in-palmer-park",
-"https://rebeccamactaggart.com/events/signs-and-sweets-in-palmer-park?format=ical",
-"https://rebeccamactaggart.com/events/town-hall-with-alan-bradstock",
-"https://rebeccamactaggart.com/events/town-hall-with-alan-bradstock?format=ical",
-"https://rebeccamactaggart.com/events/yard-signs-pizza",
-"https://rebeccamactaggart.com/events/yard-signs-pizza?format=ical",
-"https://rebeccamactaggart.com/help-us-win",
-"https://rebeccamactaggart.com/home",
-"https://rebeccamactaggart.com/issues",
-"https://secure.actblue.com/donate/mactaggart",
-"https://threads.com/@rm4pa"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1+south+main+street+washington%2C+pa+15301+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1400+palmer+park+road%2C+pavilion+#1%20donora,%20pa%2015033%20united%20states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=168+park+ave+washington%2C+pa+15301+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=201+allison+avenue+washington%2C+pennsylvania%2C+15301+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2315+liberty+avenue+pittsburgh%2C+pennsylvania%2C+15222+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=30+s+college+st+washington%2C+pa+15301+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=329+castner+avenue+donora%2C+pennsylvania%2C+15033+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=57+east+chestnut+st+washington%2C+pa+15301+united+states"
+},
+{
+"text": "0",
+"href": "https://www.rebeccamactaggart.com/cart"
+},
+{
+"text": "Biography",
+"href": "https://www.rebeccamactaggart.com/biography"
+},
+{
+"text": "Canvassing Drive in Donora",
+"href": "https://www.rebeccamactaggart.com/events/canvassing-drive-in-donora"
+},
+{
+"text": "Contact",
+"href": "https://www.rebeccamactaggart.com/contact"
+},
+{
+"text": "District",
+"href": "https://www.rebeccamactaggart.com/district"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mactaggart"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rebeccamactaggart.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.rebeccamactaggart.com/events"
+},
+{
+"text": "Follow Rebecca on Bluesky",
+"href": "https://bsky.app/profile/rm4pa.bsky.social"
+},
+{
+"text": "Follow Rebecca on Facebook",
+"href": "https://www.facebook.com/rm4pa"
+},
+{
+"text": "Follow Rebecca on Instagram",
+"href": "https://www.instagram.com/rm4pa"
+},
+{
+"text": "Follow Rebecca on Threads",
+"href": "https://www.threads.com/@rm4pa"
+},
+{
+"text": "Full Biography",
+"href": "https://www.rebeccamactaggart.com/biography"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Drive+in+Donora&dates=20261024T140000Z%2F20261024T153000Z&location=1400+Palmer+Park+Road%2C+Pavilion+%231%2C+Donora%2C+PA+15033%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Iron+Workers+Local+Union+%233+Open+House+and+Festival&dates=20260926T120000Z%2F20260926T180000Z&location=2315+Liberty+Avenue%2C+Pittsburgh%2C+Pennsylvania%2C+15222%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+Launch%3A+Bradstock++MacTaggart+%2B+W%26amp%3BJ+Democrats&dates=20260927T153000Z%2F20260927T173000Z&location=30+S+College+St%2C+Washington%2C+PA+15301%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+the+Candidates+Night+-+LWV+%26+NAACP&dates=20261014T223000Z%2F20261015T010000Z&location=201+Allison+Avenue%2C+Washington%2C+Pennsylvania%2C+15301%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=No+Kings+Rally+-+October+17&dates=20261017T160000Z%2F20261018T170000Z&location=1+South+Main+Street%2C+Washington%2C+PA+15301%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pregame+Fill+Up+Lunch+at+the+Croatian+Club+in+Donora&dates=20261011T160000Z%2F20261011T180000Z&location=329+Castner+Avenue%2C+Donora%2C+Pennsylvania%2C+15033%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Signs+and+Sweets+in+Palmer+Park&dates=20261024T160000Z%2F20261024T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Town+Hall+with+Alan+Bradstock&dates=20260928T220000Z%2F20260929T000000Z&location=168+Park+Ave%2C+Washington%2C+PA+15301%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Yard+Signs+%26+Pizza&dates=20261007T210000Z%2F20261008T000000Z&location=57+East+Chestnut+St%2C+Washington%2C+PA+15301%2C+United+States"
+},
+{
+"text": "HELP US to WIN",
+"href": "https://www.rebeccamactaggart.com/help-us-win"
+},
+{
+"text": "Home",
+"href": "https://www.rebeccamactaggart.com/home"
+},
+{
+"text": "ICS",
+"href": "https://www.rebeccamactaggart.com/events/canvassing-drive-in-donora?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rebeccamactaggart.com/events/iron-workers-local-union-3-open-house-and-festival?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rebeccamactaggart.com/events/joint-canvass-launch-alan-bradstock-rebecca-mactaggart-and-w-j-dems?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rebeccamactaggart.com/events/meet-the-candidates-night-lwv-naacp?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rebeccamactaggart.com/events/no-kings-rally-october-17?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rebeccamactaggart.com/events/pregame-fill-up-lunch-at-the-croatian-club-in-donora?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rebeccamactaggart.com/events/signs-and-sweets-in-palmer-park?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rebeccamactaggart.com/events/town-hall-with-alan-bradstock?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rebeccamactaggart.com/events/yard-signs-pizza?format=ical"
+},
+{
+"text": "Iron Workers Local Union #3 Open House and Festival",
+"href": "https://www.rebeccamactaggart.com/events/iron-workers-local-union-3-open-house-and-festival"
+},
+{
+"text": "Issues",
+"href": "https://www.rebeccamactaggart.com/issues"
+},
+{
+"text": "Joint Canvass Launch: Bradstock MacTaggart + W&J Democrats",
+"href": "https://www.rebeccamactaggart.com/events/joint-canvass-launch-alan-bradstock-rebecca-mactaggart-and-w-j-dems"
+},
+{
+"text": "Meet the Candidates Night - LWV & NAACP",
+"href": "https://www.rebeccamactaggart.com/events/meet-the-candidates-night-lwv-naacp"
+},
+{
+"text": "No Kings Rally - October 17",
+"href": "https://www.rebeccamactaggart.com/events/no-kings-rally-october-17"
+},
+{
+"text": "PA House District 48",
+"href": "https://www.rebeccamactaggart.com/district"
+},
+{
+"text": "Pregame Fill Up Lunch at the Croatian Club in Donora",
+"href": "https://www.rebeccamactaggart.com/events/pregame-fill-up-lunch-at-the-croatian-club-in-donora"
+},
+{
+"text": "Sign Up for Email Updates",
+"href": "https://actionnetwork.org/forms/stay-updated-18"
+},
+{
+"text": "Signs and Sweets in Palmer Park",
+"href": "https://www.rebeccamactaggart.com/events/signs-and-sweets-in-palmer-park"
+},
+{
+"text": "Town Hall with Alan Bradstock",
+"href": "https://www.rebeccamactaggart.com/events/town-hall-with-alan-bradstock"
+},
+{
+"text": "View Event →",
+"href": "https://www.rebeccamactaggart.com/events/canvassing-drive-in-donora"
+},
+{
+"text": "View Event →",
+"href": "https://www.rebeccamactaggart.com/events/iron-workers-local-union-3-open-house-and-festival"
+},
+{
+"text": "View Event →",
+"href": "https://www.rebeccamactaggart.com/events/joint-canvass-launch-alan-bradstock-rebecca-mactaggart-and-w-j-dems"
+},
+{
+"text": "View Event →",
+"href": "https://www.rebeccamactaggart.com/events/meet-the-candidates-night-lwv-naacp"
+},
+{
+"text": "View Event →",
+"href": "https://www.rebeccamactaggart.com/events/no-kings-rally-october-17"
+},
+{
+"text": "View Event →",
+"href": "https://www.rebeccamactaggart.com/events/pregame-fill-up-lunch-at-the-croatian-club-in-donora"
+},
+{
+"text": "View Event →",
+"href": "https://www.rebeccamactaggart.com/events/signs-and-sweets-in-palmer-park"
+},
+{
+"text": "View Event →",
+"href": "https://www.rebeccamactaggart.com/events/town-hall-with-alan-bradstock"
+},
+{
+"text": "View Event →",
+"href": "https://www.rebeccamactaggart.com/events/yard-signs-pizza"
+},
+{
+"text": "Volunteer",
+"href": "https://actionnetwork.org/forms/volunteer-to-support-rebecca-mactaggarts-campaign-in-pa-hd-48"
+},
+{
+"text": "Yard Signs & Pizza",
+"href": "https://www.rebeccamactaggart.com/events/yard-signs-pizza"
+},
+{
+"text": "[image: Canvassing Drive in Donora]",
+"href": "https://www.rebeccamactaggart.com/events/canvassing-drive-in-donora"
+},
+{
+"text": "[image: Iron Workers Local Union #3 Open House and Festival]",
+"href": "https://www.rebeccamactaggart.com/events/iron-workers-local-union-3-open-house-and-festival"
+},
+{
+"text": "[image: Joint Canvass Launch: Bradstock MacTaggart + W&amp;J Democrats]",
+"href": "https://www.rebeccamactaggart.com/events/joint-canvass-launch-alan-bradstock-rebecca-mactaggart-and-w-j-dems"
+},
+{
+"text": "[image: Meet the Candidates Night - LWV & NAACP]",
+"href": "https://www.rebeccamactaggart.com/events/meet-the-candidates-night-lwv-naacp"
+},
+{
+"text": "[image: No Kings Rally - October 17]",
+"href": "https://www.rebeccamactaggart.com/events/no-kings-rally-october-17"
+},
+{
+"text": "[image: Pregame Fill Up Lunch at the Croatian Club in Donora]",
+"href": "https://www.rebeccamactaggart.com/events/pregame-fill-up-lunch-at-the-croatian-club-in-donora"
+},
+{
+"text": "[image: Rebecca MacTaggart for PA]",
+"href": "https://www.rebeccamactaggart.com/"
+},
+{
+"text": "[image: Signs and Sweets in Palmer Park]",
+"href": "https://www.rebeccamactaggart.com/events/signs-and-sweets-in-palmer-park"
+},
+{
+"text": "[image: Town Hall with Alan Bradstock]",
+"href": "https://www.rebeccamactaggart.com/events/town-hall-with-alan-bradstock"
+},
+{
+"text": "[image: Yard Signs & Pizza]",
+"href": "https://www.rebeccamactaggart.com/events/yard-signs-pizza"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/rm4pa"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/rm4pa.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rm4pa"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@rm4pa"
+}
 ]

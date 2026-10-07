@@ -1,4 +1,4 @@
-| Trumbull, CT– State Rep.
+David Rutigliano Issues In The News Donate Contact Rep Rutigliano Facebook Donate to Campaign Campaign Video Rutigliano Receives Endorsement for 123rd District 5/24/2018 0 Comments Trumbull, CT– State Rep.
 David Rutigliano (R-Trumbull) received the unanimous endorsement of the Republican delegates as their candidate to represent the 123nd Assembly district of Trumbull at the Town Hall Thursday May 24.
 Standing before a group of enthusiastic supporters, Rep Rutigliano pledged to work hard to win the seat, emphasizing how residents of the district deserve a powerful and dedicated advocate.
 “I am truly honored and humbled by the support of the people of Trumbull.
@@ -17,4 +17,7 @@ I am committed to being part of that process”.
 “I will also continue to focus on solutions that create opportunities for our young people, so if they choose they can stay here and start their own families,” said Rutigliano.
 “Connecticut does not always have to be last and on the losing end of things.
 If we can restore balance to our system of taxation, reform regulations, and fix our aging infrastructure we can turn things around.
-Connecticut has so much to offer if we could just set our economy free.” House Minority leader, Themis Klarides, also praised Rutigliano for his dedication and leadership ability “It is important that that we have the right team in place to make the necessary changes to get Connecticut fixed and back on its feet again, I can think of no one more qualified than David Rutigliano for the job.” David lives in the Tashua section of Trumbull with his wife of 28 years, Michele and his two sons, David and Joseph, both of whom attend Trumbull Public School, and their dog Brandi “Waffles”. | |
+Connecticut has so much to offer if we could just set our economy free.” House Minority leader, Themis Klarides, also praised Rutigliano for his dedication and leadership ability “It is important that that we have the right team in place to make the necessary changes to get Connecticut fixed and back on its feet again, I can think of no one more qualified than David Rutigliano for the job.” David lives in the Tashua section of Trumbull with his wife of 28 years, Michele and his two sons, David and Joseph, both of whom attend Trumbull Public School, and their dog Brandi “Waffles”.
+0 Comments Your comment will be posted after it is approved.
+Leave a Reply.
+Archives October 2026 September 2026 June 2026 May 2026 May 2025 August 2024 September 2020 May 2020 February 2020 June 2018 May 2018 April 2018 Categories All RSS Feed David Rutigliano Issues In The News Donate Contact Rep Rutigliano Facebook Donate to Campaign Campaign Video

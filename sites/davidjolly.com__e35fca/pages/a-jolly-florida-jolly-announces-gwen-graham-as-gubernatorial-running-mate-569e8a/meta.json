@@ -1,12 +1,15 @@
 {
  "description": "David Jolly announces former U.S. Rep. Gwen Graham as his Florida gubernatorial running mate for 2026, uniting Democrats across the state.",
  "final_url": "https://davidjolly.com/a-jolly-florida-jolly-announces-gwen-graham-as-gubernatorial-running-mate/",
- "paid_for_by": null,
+ "fingerprint": "f23ae8ad9c970854f9bbbb07cdf7f02a90e2c513",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Jolly Names Gwen Graham Running Mate: David Jolly",
  "years_mentioned": [
   "2014",
   "2017",
   "2018",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

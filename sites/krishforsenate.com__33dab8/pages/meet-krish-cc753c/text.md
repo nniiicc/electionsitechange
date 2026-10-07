@@ -1,11 +1,15 @@
-Doctor.
+0 Skip to Content Meet Krish Priorities Endorsements In the Media Contact Events DONATE Open Menu Close Menu Meet Krish Priorities Endorsements In the Media Contact Events DONATE Open Menu Close Menu Meet Krish Priorities Endorsements In the Media Contact Events DONATE Meet Krish Doctor.
 Teacher.
 Leader.
 Dr.
 Krishnan Subrahmanian is a father, son, husband, educator, public health leader, veteran, pediatrician, and lifelong frustrated Minnesota sports fan.
 It is thanks to Minnesota and Minnesotans that he has lived the American Dream.
-Greetings, neighbor —
-Why I'm running.
+Krish's Family Krish with his wife and three kids in SD49.
+Pediatrician 15+ years caring for Minnesota's kids and families.
+Air National Guard Flight surgeon, recently deployed in the Middle East.
+U of M Faculty Assistant Professor at the Medical School.
+Eden Prairie Raising three young kids in SD49 with his wife.
+Greetings, neighbor — Why I'm running.
 My name is Dr.
 Krishnan Subrahmanian.
 Please call me Krish.
@@ -16,7 +20,8 @@ Now that I have returned, I am humbled and joyful to announce that I am running 
 My parents immigrated to this country and community, hoping for a better life than a predestined future of poverty.
 They chose Minnesota as the place to raise a family.
 What they found was more than opportunity — they found neighbors who broke bread with us, helped dig us out after winter storms, and showed up in quiet, practical ways.
-My life, my career working for the well-being of Minnesota's children and families, and now my candidacy, are only possible because this community chose to invest in us.
+"Through teachers and coaches, through that Minnesota spirit of welcome, my path took shape.
+That's why my wife and I settled here too, and why we're raising our three kids here." My life, my career working for the well-being of Minnesota's children and families, and now my candidacy, are only possible because this community chose to invest in us.
 Today, many of the systems that made opportunity possible are under unbelievable pressure.
 Healthcare and science (and yes, Tylenol, vaccines, and even the food pyramid) are being attacked at the very moment we need them most.
 Public health and Medicaid, lifelines for working families, seniors, and children, are being torn apart.
@@ -31,36 +36,29 @@ And as a flight surgeon in the Air National Guard, I have seen service before se
 They always deserve leadership worthy of their sacrifice.
 The values I hope to bring to the Senate reflect that background and experience.
 These values will combine with your ideas to form the basis of our legislative work together.
-As your state senator I will be:
--
-01
-A champion for young people & families My wife and I moved here because we wanted to raise our family in a community that believes in schools, parks, and families.
+As your state senator I will be: 01 A champion for young people & families My wife and I moved here because we wanted to raise our family in a community that believes in schools, parks, and families.
 We must fight to make our schools and resources the best in the nation, so everyone has opportunity.
--
-02
-A relentless advocate for good governance that can change lives We all expect the government to work well and be held accountable.
+02 A relentless advocate for good governance that can change lives We all expect the government to work well and be held accountable.
 Yet we also know that safe highways, clean water, accessible daycares and healthcare are life-changing.
 We should expand access and ensure that there is transparency and accountability.
--
-03
-A fierce defender of our democracy and rights From protecting reproductive freedom to voting rights, from independent redistricting to immigrant rights, our freedoms are under attack.
+03 A fierce defender of our democracy and rights From protecting reproductive freedom to voting rights, from independent redistricting to immigrant rights, our freedoms are under attack.
 We must stand up for these rights at every turn — at the ballot box, in the courts, and in the streets.
 If these ideas speak to you, or even if they do not, I would be honored to hear your story.
 Meanwhile, reach out here, or come join one of our upcoming events.
-A career of showing up.
+With respect and gratitude, Dr.
+Krishnan Subrahmanian · SD49 · Eden Prairie and Minnetonka A career of showing up.
 A short summary of the experience Krish brings to the Capitol, from classrooms to clinics to campaigns and overseas.
-HIV Epidemic Response
-On the ground during the HIV crisis, delivering care and bearing witness to what happens when systems fail vulnerable communities.
-Special-Education Teacher
-"I began as a special-education teacher, learning how much our children carry from home into the classroom."
-Early Obama Campaign Staffer
-Saw what's possible when people come together with purpose.
+Sub-Saharan Africa HIV Epidemic Response On the ground during the HIV crisis, delivering care and bearing witness to what happens when systems fail vulnerable communities.
+Early career Special-Education Teacher "I began as a special-education teacher, learning how much our children carry from home into the classroom." 2008 Early Obama Campaign Staffer Saw what's possible when people come together with purpose.
 Advocated for early Affordable Care Act legislation.
-Pediatrician — Safety-Net Hospital
-Sat with families in their most joyful and most tragic moments at the county's frontline safety-net hospital.
-Award-Winning U of M Professor & County Medicaid Expert
-Assistant Professor at the U of M Medical School and leading voice on county Medicaid policy and access to care.
-Flight Surgeon
-Recently completed active-duty deployment in the Middle East.
-Candidate for MN Senate · SD49
-Filing to succeed retiring Senator Cwodzinski, after neighbors asked him to consider it.
+Practicing physician Pediatrician — Safety-Net Hospital Sat with families in their most joyful and most tragic moments at the county's frontline safety-net hospital.
+#ago Award-Winning U of M Professor & County Medicaid Expert Assistant Professor at the U of M Medical School and leading voice on county Medicaid policy and access to care.
+Air National Guard Flight Surgeon Recently completed active-duty deployment in the Middle East.
+2026 Candidate for MN Senate · SD49 Filing to succeed retiring Senator Cwodzinski, after neighbors asked him to consider it.
+Want to talk in person?
+Coffee with Krish is always an option.
+Send a note See priorities KRISH! for Senate Prepared for and paid by Krish for Senate.
+574 Prairie Center Drive, Suite 135, Box 525, Eden Prairie, MN 55344.
+Military service is mentioned for biographical purposes only.
+This communication does not imply endorsement by the Department of Defense, the United States Air Force, or any affiliated organization.
+Campaign Home Meet Krish Priorities Endorsements Stay close In the Media Contact Find us @krishforsenate © # Krish for Senate Privacy

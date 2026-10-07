@@ -1,20 +1,94 @@
 [
-"https://agriculture.mo.gov/stress.php",
-"https://extension.missouri.edu/",
-"https://facebook.com/beckykrollformissouri",
-"https://farmaid.org/",
-"https://farmstateofmind.org/",
-"https://farmstress.org/",
-"https://instagram.com/beckykrollformissouri",
-"https://muext.us/PSCFarmRanch",
-"https://secure.actblue.com/donate/becky-kroll-1",
-"https://upballot.com/",
-"https://upballot.com/Becky-Kroll",
-"https://upballot.com/Becky-Kroll/about",
-"https://upballot.com/Becky-Kroll/events",
-"https://upballot.com/Becky-Kroll/get-involved",
-"https://upballot.com/Becky-Kroll/issues",
-"https://upballot.com/Becky-Kroll/news",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Becky",
+"href": "https://www.upballot.com/Becky-Kroll/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/becky-kroll-1"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/Becky-Kroll/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/Becky-Kroll/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/Becky-Kroll"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/Becky-Kroll/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "Updates",
+"href": "https://www.upballot.com/Becky-Kroll/news/"
+},
+{
+"text": "[image: Becky Kroll Logo]",
+"href": "https://www.upballot.com/Becky-Kroll/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/beckykrollformissouri"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/beckykrollformissouri"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/beckykrollformissouri"
+},
+{
+"text": "[tooltip: View Instagram Link]",
+"href": "https://www.instagram.com/beckykrollformissouri"
+},
+{
+"text": "agriculture.mo.gov/stress.php",
+"href": "https://agriculture.mo.gov/stress.php"
+},
+{
+"text": "becky@beckykrollformissouri.com",
+"href": "mailto:becky@beckykrollformissouri.com"
+},
+{
+"text": "extension.missouri.edu",
+"href": "https://extension.missouri.edu"
+},
+{
+"text": "farmaid.org",
+"href": "https://www.farmaid.org"
+},
+{
+"text": "farmstateofmind.org",
+"href": "https://www.farmstateofmind.org"
+},
+{
+"text": "farmstress.org",
+"href": "https://farmstress.org"
+},
+{
+"text": "muext.us/PSCFarmRanch",
+"href": "https://muext.us/PSCFarmRanch"
+},
+{
+"text": "tel:573-690-3431",
+"href": "tel:573-690-3431"
+}
 ]

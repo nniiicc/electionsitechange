@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.elizabethforus.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "dc40c6f20090e2808d2dfc9c2822ff844e7c4144",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

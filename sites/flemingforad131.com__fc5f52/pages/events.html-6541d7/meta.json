@@ -1,9 +1,12 @@
 {
  "description": "Events and fundraisers for the campaign.",
  "final_url": "https://flemingforad131.com/events.html",
- "paid_for_by": null,
+ "fingerprint": "2931edf0b56323116fcb6ae2320869d9881f2bf1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Committee to elect Phillip Fleming AD131",
  "years_mentioned": [
+  "1968",
   "2026"
  ]
 }

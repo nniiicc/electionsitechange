@@ -1,6 +1,4 @@
-It’s Time for Real Leadership in California’s 24th District
-By Commander (Retired) Bob Smith, Candidate for Congress
-My fellow Central Coast neighbors, I’m Bob Smith, a retired Navy combat veteran, a fighter for our values, and a candidate running against Salud Carbajal for California’s 24th Congressional District.
+EN / ES Donate Why Bob Issues The Choice Op-Eds Get Involved Contact Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use CONTRIBUTE It’s Time for Real Leadership in California’s 24th District By Commander (Retired) Bob Smith, Candidate for Congress My fellow Central Coast neighbors, I’m Bob Smith, a retired Navy combat veteran, a fighter for our values, and a candidate running against Salud Carbajal for California’s 24th Congressional District.
 I’m not a career politician; I’m a patriot who has served our nation and now wants to serve you.
 But I need your help—your votes, your volunteer energy, and yes, your financial support—to challenge the entrenched political machine and bring real change to Washington.
 Let’s discuss the stakes involved.
@@ -27,8 +25,7 @@ In a July 23, 2024 interview with The Independent, Congressman Salud Carbajal cl
 When pressed by Jerry Roberts about concerns regarding Biden’s capacity to serve as Commander in Chief, particularly in controlling nuclear launch codes, Carbajal dismissed it outright: “It’s ridiculous.
 I’m not going to dignify such ridiculous, bizarre statements.
 They are coming up with things that are obnoxious and out there.
-This is Republicans being Republicans.”
-Now, we know better.
+This is Republicans being Republicans.” Now, we know better.
 Multiple books, congressional testimony, and the release of the Hur interview tapes—recorded in October 2023—confirm what Carbajal denied: the President was already struggling with severe memory issues a year before Election Day.
 In hindsight, “Republicans being Republicans” meant asking the hard questions, defending democracy, and demanding transparency while Carbajal parroted party spin and helped shield the truth from the American people.
 Carbajal’s collusion in this mess is no surprise.
@@ -72,3 +69,14 @@ During his 26 years of active service, he participated in several combat tours s
 He has held various leadership roles in Washington, D.C., focusing on major defense acquisition programs.
 In those positions, he oversaw multi-billion-dollar development and procurement efforts for the Navy’s most technologically advanced weapon systems, including delivering the Navy’s newest ballistic missile defense platform, which earned him the U.S.
 Navy’s Best Engineer of the Year award for 2023.
+Op-Eds Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use Contribute Campaigns are powered by grassroots supporters.
+Where's My Ballot Takes one minute to confirm your voter registration info.
+VOLUNTEER Winning this race will take a team across the Central Coast By entering your phone number and selecting to opt in, you consent to receive SMS/MMS marketing and polling text messages, donation requests, updates, and other important information to that number from Bob Smith For Congress.
+Msg&data rates may apply.
+Msg frequency varies.
+Reply HELP for help or STOP to opt-out at any time.
+SMS information is not rented, sold, or shared.
+View Privacy Policy and Terms & Conditions.
+Bob Smith is a retired member of the United States Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+Contact Bob’s Campaign Privacy Policy Paid for by Bob Smith for Congress Follow on Facebook Follow on LinkedIn Follow on X Follow on YouTube Follow on Instagram

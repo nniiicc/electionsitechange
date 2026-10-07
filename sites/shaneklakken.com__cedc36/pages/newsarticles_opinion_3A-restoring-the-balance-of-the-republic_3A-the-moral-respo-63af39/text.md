@@ -1,4 +1,4 @@
-Every constitution, like every civilization, reaches moments when endurance alone is no longer enough.
+top of page News Principles Calendar About Menu Close Donate Go Back to News Every constitution, like every civilization, reaches moments when endurance alone is no longer enough.
 The United States has reached such a moment.
 Our political machinery still turns, but it no longer aligns with the moral geometry that once guided it.
 The imbalance between federal reach and civic restraint has grown into a defining feature of modern governance.
@@ -7,8 +7,7 @@ And that responsibility, by design, belongs above all to the states.
 The states were never intended to be administrative districts of a national authority.
 They were meant to be counterweights, repositories of diverse wisdom that together limit central ambition.
 When the Founders included the Article V convention provision, they entrusted the states with a specific duty: to act when federal institutions become insulated from the people they serve.
-In an age when Washington’s reflex is to expand, the states remain the only American institutions structurally positioned to say, “enough.”
-To shoulder that duty now requires courage of a peculiar kind.
+In an age when Washington’s reflex is to expand, the states remain the only American institutions structurally positioned to say, “enough.” To shoulder that duty now requires courage of a peculiar kind.
 The temptation of modern politics is complacency—a belief that because no catastrophe has yet undone us, the system must be sound.
 But erosion, not explosion, is the usual agent of decline.
 The modern republic erodes quietly: in deficits treated as abstractions, in regulations that substitute decree for debate, and in cultural exhaustion that prefers management to meaning.
@@ -22,8 +21,7 @@ To neglect the powers it vests in us is not modesty; it is abdication.
 The strength of a republic lies not in its longevity, but in its citizens’ willingness to preserve its principles through deliberate action.
 The moral argument for a convention rests on renewal as duty.
 If we believe the federal government has unmoored itself from fiscal prudence, from balanced authority, and from the proper humility of limited power, then silence becomes complicity.
-The states, standing nearest to the people, must act where Congress
-will not.
+The states, standing nearest to the people, must act where Congress will not.
 They possess both the constitutional instrument and the proximity to moral consensus needed to use it responsibly.
 This is not hubris; it is stewardship.
 Yet stewardship requires discipline.
@@ -48,5 +46,7 @@ That is not a weakness to fear but a strength to cherish.
 The Founders gave us Article V so that the republic could be continually redeemed by its own citizens.
 The time has come for the states to remember their duty—to restore balance, renew faith, and remind the nation that freedom, like the Constitution itself, survives only by being exercised.
 States have a moral duty to use Article V to restore federal balance, renew self-government, and lawfully correct Washington’s overreach.
-Lewistown News-Argus Opinion: Restoring the balance of the Republic: The moral responsibility of the states
-opinion-restoring-the-balance-of-the-republic-the-moral-responsibility-of-the-states
+Lewistown News-Argus Opinion: Restoring the balance of the Republic: The moral responsibility of the states opinion-restoring-the-balance-of-the-republic-the-moral-responsibility-of-the-states Stay Connected with Shane Be part of the conversation and stay informed about upcoming events, legislative updates, and community news across Montana.
+Subscribe Now Or connect on social media: Socials Contact Info Tel. ‭+1 (406) 217-6107 ‬P.O.
+Box PO Box 128 Grass Range, MT 59032 Resources News Principles Calendar Newsletter Navigation Home About Contact Paid for by Shane Klakken For HD37 (R) • Sam Holmes, Treasurer • PO Box 128 Grass Range, Mt 59032 ©# by Shane Klakken.
+News Principles Calendar About bottom of page

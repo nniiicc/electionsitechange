@@ -1,11 +1,42 @@
 [
-"https://facebook.com/LesleyForCU",
-"https://lesleyforco.com/",
-"https://lesleyforco.com/about",
-"https://lesleyforco.com/cart",
-"https://lesleyforco.com/endorsements",
-"https://lesleyforco.com/issues",
-"https://linkedin.com/in/lesley-smith-colorado",
-"https://secure.actblue.com/donate/lesley-for-colorado-1",
-"https://twitter.com/LesleyForCU"
+{
+"text": "0",
+"href": "https://www.lesleyforco.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lesleyforco.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lesley-for-colorado-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lesleyforco.com/endorsements"
+},
+{
+"text": "Learn more",
+"href": "https://www.lesleyforco.com/about"
+},
+{
+"text": "Learn more about my platform.",
+"href": "https://www.lesleyforco.com/issues"
+},
+{
+"text": "[image: Lesley for Colorado]",
+"href": "https://www.lesleyforco.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/LesleyForCU"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LesleyForCU"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/lesley-smith-colorado/"
+}
 ]

@@ -1,5 +1,4 @@
-Privacy Policy
-At Terri Sewell for Congress, we are committed to protecting your privacy online.
+About Terri Sewell Join Team Terri Issues News Photos Donate Donate Privacy Policy At Terri Sewell for Congress, we are committed to protecting your privacy online.
 While using our website located at www.sewellforcongress.com (“Terri Sewell for Congress” or “Site”), you do not have to identify yourself or divulge personal information.
 Our Site links to a limited number of other websites.
 We are not responsible for the content or the privacy policies of these websites.
@@ -17,7 +16,7 @@ We are required by federal and state law to collect and report the name, mailing
 These records are available to the public.
 We also make a note of your telephone number and email address, which helps us to contact you quickly if follow-up on your contribution is necessary under Federal or state election law.
 If you have any questions about our privacy policy, the information we have collected from you online, the practices of this Site or your interaction with this website, or if you wish to verify, correct or delete any personal information we have collected from you, send email to: info@sewellforcongress.com.
-Texting
-Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
+Texting Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
 You can also reach us via US Mail at: Terri Sewell for Congress, P.O.
 Box 1964, Birmingham, Alabama 35201.
+Join Team Terri About Terri Join Team Terri Issues News Photos ©# Terri Sewell for Congress Paid for by Terri Sewell for Congress Privacy Policy

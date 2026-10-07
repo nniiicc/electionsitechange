@@ -1,9 +1,9 @@
 {
  "description": "Discover effective Cassandra for Texas signs for your political campaign. Connect with us for engaging signage that drives results!",
  "final_url": "https://cassandrafortexas.com/signs",
- "paid_for_by": null,
+ "fingerprint": "02da2b14f9345287519b58f0a7cba00d85076e67",
+ "format": 3,
+ "paid_for_by": "",
  "title": "signs",
- "years_mentioned": [
-  "2023"
- ]
+ "years_mentioned": []
 }

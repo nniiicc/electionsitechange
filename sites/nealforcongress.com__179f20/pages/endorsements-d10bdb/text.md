@@ -1,14 +1,4 @@
-MASSACHUSETTS AFL-CIO
-International Association of Machinists and Aerospace Workers
-Human Rights Campaign
-Association of Federal Government Employees
-INternational brotherhood of Electrical Workers - Local 7
-RATINGS & DISTINCTIONS
-Alliance for retired americans: 100%
-clean water action: 100%*
-Moms Demand Action Gun Sense Candidate
-League of conservation voters: 95%
-National education association: 100%
-naral pro-choice america: 100%
-planned parenthood action fund: 100%
-*118th congress, most recent report available as of January 2024.
+About Issues Endorsements Volunteer Contribute About Issues Endorsements Volunteer Contribute Scroll 2026 ENDORSEMENTS MASSACHUSETTS AFL-CIO International Association of Machinists and Aerospace Workers Human Rights Campaign Association of Federal Government Employees INternational brotherhood of Electrical Workers - Local 7 RATINGS & DISTINCTIONS Alliance for retired americans: 100% clean water action: 100%* Moms Demand Action Gun Sense Candidate League of conservation voters: 95% National education association: 100% naral pro-choice america: 100% planned parenthood action fund: 100% *118th congress, most recent report available as of January 2024.
+Endorsements - Updated Endorsements - Updated (Copy) Endorsements - Updated (Copy) (Copy) New Page New Page Richard E.
+Neal for Congress Committee PO Box 718 | Springfield, MA 01101-0718 Privacy policy info@nealforcongress.com For press inquiries, please email Press@nealforcongress.com Paid for by Richard E Neal for Congress Committee, Treasurer Michael F.
+Hall.

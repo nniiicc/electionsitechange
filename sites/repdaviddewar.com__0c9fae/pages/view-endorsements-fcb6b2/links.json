@@ -1,16 +1,66 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/groups/1311016519561640",
-"https://facebook.com/groups/1502215231608984",
-"https://illinoisfamilyaction.org/2026/01/ifas-2026-primary-election-endorsements",
-"https://repdaviddewar.com/",
-"https://repdaviddewar.com/contact",
-"https://repdaviddewar.com/contribute",
-"https://repdaviddewar.com/issues",
-"https://repdaviddewar.com/make-endorsement",
-"https://repdaviddewar.com/policies",
-"https://repdaviddewar.com/view-endorsements",
-"https://repdaviddewar.com/volunteer",
-"https://repdaviddewar.com/vote",
-"https://repdaviddewar.com/yard-sign"
+{
+"text": "Bills",
+"href": "https://www.repdaviddewar.com/policies"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Click here to add your endorsement",
+"href": "https://www.repdaviddewar.com/make-endorsement"
+},
+{
+"text": "Contact",
+"href": "https://www.repdaviddewar.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.repdaviddewar.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.repdaviddewar.com/view-endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.repdaviddewar.com/issues"
+},
+{
+"text": "Join our facebook group",
+"href": "https://www.facebook.com/groups/1502215231608984"
+},
+{
+"text": "Scrollcard",
+"href": "https://www.repdaviddewar.com/scrollcard"
+},
+{
+"text": "Volunteer",
+"href": "https://www.repdaviddewar.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.repdaviddewar.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.repdaviddewar.com/yard-sign"
+},
+{
+"text": "[image: DAVID DEWAR Illinois State Representative District 35]",
+"href": "https://www.repdaviddewar.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/groups/1502215231608984"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/groups/1311016519561640"
+},
+{
+"text": "proudly Endorses David Dewar",
+"href": "https://illinoisfamilyaction.org/2026/01/ifas-2026-primary-election-endorsements/"
+}
 ]

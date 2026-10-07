@@ -1,14 +1,9 @@
-December 16, 2015
-Contact: Mike Trujillo
-mike [at] barraganforcongress [dot] com
-Congresswoman Debbie Dingell Endorses Nanette Barragán in CA-44 Primary
-SAN PEDRO, CA – Today, Democratic Congresswoman Debbie Dingell (MI-12) endorsed Nanette Barrágan for Congress in the Democratic primary in California’s 44th District.
+Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Previous Next Congresswoman Debbie Dingell Endorses Nanette Barragán in CA-44 Primary FOR IMMEDIATE RELEASE December 16, 2015 Contact: Mike Trujillo mike [at] barraganforcongress [dot] com Congresswoman Debbie Dingell Endorses Nanette Barragán in CA-44 Primary SAN PEDRO, CA – Today, Democratic Congresswoman Debbie Dingell (MI-12) endorsed Nanette Barrágan for Congress in the Democratic primary in California’s 44th District.
 Congresswoman Dingell is an active member of the DCCC Women Lead program.
 “Congresswoman Dingell and I believe in doing more to support women and children in our communities and I am honored to have her endorsement in this race,” said Barrágan.
 “While a lot of politicians talk about working to help middle class families, there are very few who understand what that really means.
 Helping families means erasing gender inequity in hiring and pay and giving all of our children an equal shot at success by providing them with quality early learning and educational opportunities, just to name a few.
-Congresswoman Dingell gets that and I look forward to working with her to deliver real results, not just rhetoric, when it comes to supporting middle class families.”
-During her career Nanette Barrágan has been a passionate advocate for women, children, and families.
+Congresswoman Dingell gets that and I look forward to working with her to deliver real results, not just rhetoric, when it comes to supporting middle class families.” During her career Nanette Barrágan has been a passionate advocate for women, children, and families.
 She has worked with victims of domestic violence to help them obtain restraining orders against their abusers, she has worked with special needs students to help make sure they receive the individualized education they require, and she has been a fierce advocate for keeping families healthy by protecting the air we breathe and the water we drink from polluters.
 Congresswoman Dingell is a nationally recognized advocate for women and children.
 She successfully fought to have women included in federally-funded health research, and advocated for greater awareness of issues directly related to women’s health, including breast cancer and women’s heart health.
@@ -16,10 +11,11 @@ She successfully fought to have women included in federally-funded health resear
 “Women, children, and families seem to be under constant attack from those who claim to be acting in their best interests.
 We need fighters who will protect our environment for our families, and promote women’s health.
 I know that Nanette understands what’s at stake.
-She has a track record of getting things done in a productive, positive way and I am proud to endorse her campaign to represent the people of California’s 44th District.”
-Barragán, the daughter of immigrants from Mexico, grew up in Carson and the surrounding areas where she attended Stephen M.
+She has a track record of getting things done in a productive, positive way and I am proud to endorse her campaign to represent the people of California’s 44th District.” Barragán, the daughter of immigrants from Mexico, grew up in Carson and the surrounding areas where she attended Stephen M.
 White Middle School, learned to swim at Carson Pool, and studied at the Carson Library.
 She worked her way through UCLA and law school at USC before becoming a long-time advocate for the environment and the first elected Latina member of the Hermosa Beach City Council.
 She was also a leader in the fight against Measure O, a ballot measure that would have allowed oil companies to drill for oil in the Santa Monica Bay.
-Find more information here: www.barraganforcongress.com.
-###
+Find more information here: www.barraganforcongress.com .
+### Stacy Lona 2015-12-16T16:11:40-08:00 December 16th, 2015 | Endorsements , Nanette Barragán news | Share This Story, Choose Your Platform!
+Facebook Twitter Linkedin Reddit Tumblr Google+ Pinterest Email Related Posts ICYMI: Our Revolution Backs Nanette Barragán for Congress ICYMI: Our Revolution Backs Nanette Barragán for Congress Daily Breeze Endorses Nanette Barragán in CA-44 Daily Breeze Endorses Nanette Barragán in CA-44 Chicano Latino Immigrant Democratic Club of Los Angeles County Endorses Nanette Barragán Chicano Latino Immigrant Democratic Club of Los Angeles County Endorses Nanette Barragán Former CA-44 Republican Candidate Christopher Castillo Endorses Nanette Barragán Former CA-44 Republican Candidate Christopher Castillo Endorses Nanette Barragán Barragán Neck and Neck With Hall in New CA-44 Poll Barragán Neck and Neck With Hall in New CA-44 Poll Like Nanette On Facebook Follow Nanette on Twitter Tweets by @MayorPTBarragan Popular Recent CLCV & LCV Action Fund Endorse Nanette Barragán for Congress December 11th, 2015 Labor Leader and Civil Rights Icon Dolores Huerta Endorses Nanette Barragán in CA-44 June 24th, 2016 Assemblymember Mike Gatto Endorses Nanette Barragán for Congress June 20th, 2016 Isadore Hall Pressures Insiders To Silence Nanette Diaz Barragán At Protest Of Trump’s Treatment Of Women & Minorities October 3rd, 2016 ICYMI: Our Revolution Backs Nanette Barragán for Congress September 29th, 2016 Daily Breeze Endorses Nanette Barragán in CA-44 September 28th, 2016 Mail: 1840 S.
+Gaffey Street, #421 San Pedro, CA 90731 Phone: 424-206-3963 or Email: info@barraganforcongress.com

@@ -1,7 +1,13 @@
 {
  "description": "Write your news blurb here.",
  "final_url": "https://www.janellebynum.com/news/bynum-reports-massive-quarter-1-raising-over-750k",
- "paid_for_by": "Paid for by Janelle Bynum for Congress",
+ "fingerprint": "85a61ee930f5601f90a4b9ba49e50d79b4a65b11",
+ "format": 3,
+ "paid_for_by": "Paid for by Janelle Bynum for Congress You need to enable JavaScript to run this app",
  "title": "Bynum Reports Massive Quarter 1, Raising over $750K",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2024",
+  "2026"
+ ]
 }

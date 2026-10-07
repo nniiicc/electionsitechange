@@ -1,31 +1,126 @@
 [
-"http://ourjustice.net/",
-"http://outfront.org/",
-"https://ag.state.mn.us/Consumer/Handbooks/LT/default.asp",
-"https://bsky.app/profile/zaynabmmohamed.bsky.social",
-"https://copalmn.org/",
-"https://designedtorun.com/",
-"https://facebook.com/zaynabforsenate",
-"https://genderjustice.us/legal-assistance",
-"https://homelinemn.org/",
-"https://immigrantdefensenetwork.org/",
-"https://instagram.com/zaynabmmohamed",
-"https://klobuchar.senate.gov/public",
-"https://miracmn.com/",
-"https://miracmn.com/know-your-rights",
-"https://monarcamn.org/",
-"https://omar.house.gov/",
-"https://secure.actblue.com/donate/zaynabforsenate-website",
-"https://senate.mn/members/member_bio.html?mem_id=1273",
-"https://smith.senate.gov/",
-"https://tigerrs.org/crisis-resources",
-"https://tiktok.com/@zaynabmmohamed",
-"https://unidos-mn.org/",
-"https://x.com/ZaynabMMohamed",
-"https://zaynabmohamed.org/",
-"https://zaynabmohamed.org/about",
-"https://zaynabmohamed.org/connect",
-"https://zaynabmohamed.org/media",
-"https://zaynabmohamed.org/wins",
-"https://zaynabmohamed.org/work"
+{
+"text": "About",
+"href": "https://www.zaynabmohamed.org/about"
+},
+{
+"text": "Comunidades Organizando El Poder Y La Acción Latina (COPAL)",
+"href": "https://copalmn.org/"
+},
+{
+"text": "Connect",
+"href": "https://www.zaynabmohamed.org/connect"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/zaynabforsenate-website"
+},
+{
+"text": "Immigrant Defense Network Rapid Response Line",
+"href": "https://immigrantdefensenetwork.org/"
+},
+{
+"text": "Media",
+"href": "https://www.zaynabmohamed.org/media"
+},
+{
+"text": "Minnesota Immigrant Rights Action Committee (MIRAC)",
+"href": "https://www.miracmn.com/"
+},
+{
+"text": "Monarca Rapid Response Line",
+"href": "https://monarcamn.org/"
+},
+{
+"text": "Office of Congresswoman Ilhan Omar",
+"href": "https://omar.house.gov/"
+},
+{
+"text": "Office of Senator Amy Klobuchar",
+"href": "https://www.klobuchar.senate.gov/public/"
+},
+{
+"text": "Office of Senator Tina Smith",
+"href": "https://www.smith.senate.gov/"
+},
+{
+"text": "Our Wins",
+"href": "https://www.zaynabmohamed.org/wins"
+},
+{
+"text": "Our Work",
+"href": "https://www.zaynabmohamed.org/work"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Unidos MN",
+"href": "https://unidos-mn.org/"
+},
+{
+"text": "[image: Zaynab Mohamed for Minnesota Senate]",
+"href": "https://www.zaynabmohamed.org/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/zaynabmmohamed.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/zaynabforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/zaynabmmohamed/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@zaynabmmohamed"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ZaynabMMohamed"
+},
+{
+"text": "avp@outfron.org",
+"href": "mailto:avp@outfron.org"
+},
+{
+"text": "here",
+"href": "https://tigerrs.org/crisis-resources/"
+},
+{
+"text": "here",
+"href": "https://www.ag.state.mn.us/Consumer/Handbooks/LT/default.asp"
+},
+{
+"text": "here",
+"href": "https://www.senate.mn/members/member_bio.html?mem_id=1273"
+},
+{
+"text": "know your rights",
+"href": "https://www.miracmn.com/know-your-rights"
+},
+{
+"text": "legal assistance",
+"href": "https://www.genderjustice.us/legal-assistance/"
+},
+{
+"text": "ourjustice.net",
+"href": "http://ourjustice.net"
+},
+{
+"text": "outfront.org",
+"href": "http://www.outfront.org"
+},
+{
+"text": "resources",
+"href": "https://www.miracmn.com/know-your-rights"
+},
+{
+"text": "www.homelinemn.org",
+"href": "https://www.homelinemn.org/"
+}
 ]

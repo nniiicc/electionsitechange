@@ -1,13 +1,50 @@
 [
-"http://votelinting.com/",
-"http://votelinting.com/about-rylee",
-"https://facebook.com/voteryleelinting",
-"https://instagram.com/voteryleelinting",
-"https://secure.winred.com/friends-of-rylee-linting/donate-today",
-"https://twitter.com/VoteLinting",
-"https://votelinting.com/",
-"https://votelinting.com/about-rylee",
-"https://votelinting.com/campaign-news",
-"https://votelinting.com/contact-us",
-"https://votelinting.com/join-the-team"
+{
+"text": "About Rylee",
+"href": "https://votelinting.com/about-rylee/"
+},
+{
+"text": "Contact Us",
+"href": "https://votelinting.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-rylee-linting/donate-today"
+},
+{
+"text": "Home",
+"href": "http://votelinting.com/"
+},
+{
+"text": "Join The Team",
+"href": "https://votelinting.com/join-the-team/"
+},
+{
+"text": "Learn More",
+"href": "http://votelinting.com/about-rylee/"
+},
+{
+"text": "News",
+"href": "https://votelinting.com/campaign-news/"
+},
+{
+"text": "[image: Avada Car Dealership Logo]",
+"href": "https://votelinting.com/"
+},
+{
+"text": "[image: Rylee Linting Logo]",
+"href": "http://votelinting.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/voteryleelinting/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/voteryleelinting/"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://twitter.com/VoteLinting"
+}
 ]

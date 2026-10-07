@@ -1,8 +1,34 @@
 [
-"https://facebook.com/profile.php?id=61576311457785",
-"https://secure.winred.com/tonya-fletcher-for-state-rep/donate-today",
-"https://tonyafletcher.com/",
-"https://tonyafletcher.com/about",
-"https://tonyafletcher.com/contact-8",
-"https://tonyafletcher.com/privacy-policy"
+{
+"text": "About",
+"href": "https://www.tonyafletcher.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.tonyafletcher.com/contact-8"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/tonya-fletcher-for-state-rep/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.tonyafletcher.com"
+},
+{
+"text": "Join The Team!",
+"href": "https://www.tonyafletcher.com/contact-8"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.tonyafletcher.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61576311457785"
+},
+{
+"text": "info@tonyafletchercampaign.com",
+"href": "mailto:info@tonyafletchercampaign.com"
+}
 ]

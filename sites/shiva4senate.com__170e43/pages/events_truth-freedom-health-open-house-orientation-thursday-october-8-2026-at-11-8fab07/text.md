@@ -1,4 +1,3 @@
-Registration for Open House/Orientation Day
-Please register to attend the Truth Freedom Health® Open House/Orientation this Thursday at 8 pm EST.
+Toggle navigation Vote Independent Home I’ll Vote For Dr.SHIVA Take Action Volunteer Free Downloads Shop Forgot About Dr.SHIVA About Issues Contact Campaign Interview SHIVA 0 items in cart Donate Truth Freedom Health® Open House/Orientation – Thursday, October 8, 2026 at 11 AM EST October 8, 2026 11:00 am – 12:00 pm ( EST ) Registration for Open House/Orientation Day Please register to attend the Truth Freedom Health® Open House/Orientation this Thursday at 8 pm EST.
 After you register, you will receive an email with a link to attend the meeting.
-October 8, 2026 11:00 am – 12:00 pm ( EST )
+RSVP Photo Gallery PAID FOR BY SHIVA 4 SENATE © #, SHIVA 4 SENATE | All Rights Reserved | Privacy Policy | Terms & Conditions | Feedback

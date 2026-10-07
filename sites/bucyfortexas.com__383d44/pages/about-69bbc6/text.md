@@ -1,4 +1,4 @@
-My name is John Bucy III.
+Skip to content Re-Elect John Bucy III Democrat for Texas House District 136 Primary Menu Meet John Priorities Education Healthcare Property Taxes Criminal Justice Reform Gun Violence Prevention LGBTQ+ Equality Voting Rights Environmental Protection Local Control Get Involved How to Vote News For Constituents Donate Meet John My name is John Bucy III.
 I’m a native Texan, small business owner, and father proudly representing House District 136 in the Texas Legislature.
 My life has been devoted to bringing people together to bring out the best in all of us.
 Together, we can build our community up and make Texas as good as its promise.
@@ -20,10 +20,8 @@ But currently, the Texas promise is increasingly out of reach for many of our fr
 With underfunded schools, the lack of access to healthcare, and COVID-19 exacerbating many of the disparities in our state, the gap between the haves and the have-nots has never been wider.
 Texas can do better.
 Our families deserve better.
-I see a Texas where…
-- our schools prepare all of our children for the future, and where they go to school every day in a safe place free from gun violence
-- our teachers can afford to live where they work and our civil servants and first responders get the benefits and retirement they deserve
-- our neighbors have access to healthcare and women receive equal pay and have control over their own bodies
-- immigrants are welcome and LGBTQ people are treated with respect and dignity
-- we put a new emphasis on civic engagement and a government that works for all of us
-- we live up to our potential, where we go out of our way to support each other, and where we push past the cynicism to work together for the common good
+I see a Texas where… our schools prepare all of our children for the future, and where they go to school every day in a safe place free from gun violence our teachers can afford to live where they work and our civil servants and first responders get the benefits and retirement they deserve our neighbors have access to healthcare and women receive equal pay and have control over their own bodies immigrants are welcome and LGBTQ people are treated with respect and dignity we put a new emphasis on civic engagement and a government that works for all of us we live up to our potential, where we go out of our way to support each other, and where we push past the cynicism to work together for the common good If this sounds like the Texas you see, let’s get to work for a better future for all of us.
+Join me in continuing to fight for a Texas as good as its promise.
+Donate Get Involved Meet John Priorities Education Healthcare Property Taxes Criminal Justice Reform Gun Violence Prevention LGBTQ+ Equality Voting Rights Environmental Protection Local Control Get Involved How to Vote News For Constituents Donate Connect with us X Facebook Instagram Contact us P.O.
+Box 536, Austin, TX 78767 (512) 680-3762 johnbucy@bucyfortexas.com Privacy Policy Paid for by: POLITICAL ADVERTISING PAID FOR BY JOHN BUCY CAMPAIGN, MOLLY BUCY, TREASURER Powered by Tech for Campaigns Loading Comments...
+You must be logged in to post a comment.

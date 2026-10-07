@@ -1,7 +1,9 @@
 {
  "description": "Donate",
  "final_url": "https://bainiwalforassembly.com/Donate/",
- "paid_for_by": null,
+ "fingerprint": "d41e9fc7c8b65f6645cd0a9d62c0ee7d865c91d4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
  "years_mentioned": []
 }

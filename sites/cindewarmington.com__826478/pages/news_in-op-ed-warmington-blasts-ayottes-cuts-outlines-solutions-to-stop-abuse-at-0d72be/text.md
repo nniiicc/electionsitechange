@@ -1,51 +1,52 @@
-OP-ed
-In Op-ed, Warmington Blasts Ayotte’s Cuts, Outlines Solutions to Stop Abuse at Sununu Center
-MANCHESTER, NH — In Case You Missed It, Cinde Warmington shared in a new Union Leader op-ed how Kelly Ayotte’s reckless cuts to the Office of the Child Advocate (OCA) weakened oversight and prolonged abuse at the Sununu Youth Services Center.
+Skip navigation menu Home News Events Endorsements Priorities Get Involved Donate Home News Events Endorsements Priorities Get Involved Donate article Warmington: New Hampshire Can’t Wait on Data Center Action In the news ICYMI: Concord Monitor Spotlights Cinde Warmington's Commitment to Stand Up to Trump In the news ICYMI: In Valley News, Rep.
+Laurel Stavis Highlights Warmington’s Calls for a Data Center Moratorium PRESS RELEASE In Less Than Four Months, Warmington Raises Over $600k with Strong Grassroots Granite State Support In the news Cinde Warmington Statement on Dobbs Anniversary KEY ENDORSEMENTS More than 100 Granite State Leaders Endorse Cinde Warmington for Governor PRESS RELEASE Cinde Warmington Statement On ICE Facilities in New Hampshire PRESS RELEASE Kelly Ayotte Fails to Sue Donald Trump for His Unaffordable Tariffs In the news ICYMI: In Union Leader Op-ed, Cinde Warmington Defines Her Fight for a More Affordable NH PRESS RELEASE Cinde Warmington Statement on Reports That New Hampshire Could Be Considered for ICE Warehouse PRESS RELEASE Following Gas Price Spike, Cinde Warmington Demands Kelly Ayotte Push Trump for Tariff Refunds key endorsements American Postal Workers Union Local #230 Endorses Cinde Warmington for Governor PRESS RELEASE Cinde Warmington Statement on New Abuse Complaints at the Sununu Youth Services Center PRESS RELEASE On Tax Day, Cinde Warmington Calls Out Kelly Ayotte for Driving Up Property Taxes PRESS RELEASE Cinde Warmington: Ayotte’s Cuts Continue Abuse of Children at Sununu Youth Services Center In the news ROUNDUP: Warmington Ties Abuse at the Sununu Center to Ayotte’s Cuts to Independent Watchdog key endorsements Teamsters Local 633 Endorses Cinde Warmington for Governor in the news ICYMI: NBC10 Boston Analyst Scott Spradling Highlights Kelly Ayotte’s Mounting Vulnerability IN THE NEWS On New Hampshire Today, Cinde Warmington Blasts Kelly Ayotte’s Child Advocate Cuts, Rising Property KEY ENDORSEMENTS New Hampshire Congressional Delegation Endorses Warmington For Governor events At Grassroots Fundraiser with DGA Chair Andy Beshear and NHDP Convention, Warmington Offers Leadership For a Better, More Affordable New Hampshire PRESS RELEASE ICYMI: NH Bulletin Highlights Cinde Warmington’s Visit to Mascoma Community Health Center OP-ed In Op-ed, Warmington Blasts Ayotte’s Cuts, Outlines Solutions to Stop Abuse at Sununu Center PRESS RELEASE As Cinde Warmington Demands a Statewide Data Center Moratorium, Ayotte Falls Short on Protections PRESS RELEASE Warmington for Governor Response to Kelly Ayotte Filing for Governor PRESS RELEASE ICYMI: Cinde Warmington Officially Files to Run for Governor PRESS RELEASE Statement on Kelly Ayotte’s Stale, Pathetic First Ad of the Cycle IN THE NEWS ICYMI: Cinde Warmington Highlights Focus on Tackling New Hampshire’s Housing Crisis KEY ENDORSEMENTS Tom Sherman Endorses Cinde Warmington for Governor PRESS RELEASE Cinde Warmington Officially Becomes Democratic Candidate for Governor article Cinde Warmington: I’m fighting for a more affordable New Hampshire article Cinde Warmington centers affordability in bid for N.H. governor article Ayotte criticizes Massachusetts but gets big campaign donations from there In the news First on WMUR: Warmington campaign announces fundraising numbers aRTICLE Column: Republicans roll out red carpet for data centers in NH ARTICLE Kentucky governor visits NH to back local Democrats PRESS RELEASE Cinde Warmington Blasts Kelly Ayotte’s Higher Medicaid Premiums PRESS RELEASE NEW POLL: Cinde Warmington Closes in on Ayotte IN THE NEWS ICYMI: 314 Action Fund Endorses Cinde Warmington for Governor PRESS RELEASE Cinde Warmington Statement on the One-Year Anniversary of the Big Ugly Bill in the news ICYMI: Union Leader Highlights Cinde Warmington’s Opposition to Ayotte’s New Medicaid Premiums PRESS RELEASE Cinde Warmington Statement on New Sununu Center Developments NEWS ARTICLE Kelly Ayotte’s lead over Warmington shrinks to 5 points as her numbers slide PRESS RELEASE ROUNDUP: New UNH Poll Shows Cinde Warmington Within Five Points of Defeating Kelly Ayotte in the news Union Leader: Donna Soucy: “2026 is Year Democrats Can Take Back the Governor’s Office” PRESS RELEASE ROUNDUP: Cinde Warmington Visits Rochester Child Care Center, Highlights Solutions to Make Child Care More Affordable and Accessible PRESS RELEASE Warmington Blasts New Trump Tariffs, Highlights Kelly Ayotte’s Failure to Fight Back in the news ICYMI: Warmington Campaign Highlights Ayotte’s Vulnerabilities, Path to Take Back Corner Office PRESS RELEASE AFT-NH Endorses Cinde Warmington for Governor PRESS RELEASE Cinde Warmington Statement on DNC Decision PRESS RELEASE Warmington Campaign Unveils New Data Center Billboard PRESS RELEASE Rights and Democracy NH Endorses Cinde Warmington for Governor in the news WMUR: Warmington Says New Tariffs Against Canada Amount to Sales Tax PRESS RELEASE NEW: Cinde Warmington Announces Support For Temporary Gas Tax Suspension PRESS RELEASE Cinde Warmington Challenges Kelly Ayotte to Six General Election Debates PRESS RELEASE Iron Workers Local 7 Endorses Cinde Warmington For Governor PRESS RELEASE “What Planet” Warmington Launches First TV Ad Highlighting Ayotte’s Failed Record As Governor PRESS RELEASE WMUR: Democratic Gubernatorial Candidate Cinde Warmington Calls for Suspension of State Gas Tax PRESS RELEASE Cinde Warmington Statement on Ten-Year Transportation Plan PRESS RELEASE Cinde Warmington Statement on Kelly Ayotte’s Data Center Pivot PRESS RELEASE Cinde Warmington Announces "Cut the Costs" Tour PRESS RELEASE National Women’s Political Caucus Endorses Cinde Warmington for Governor PRESS RELEASE New Hampshire AFL-CIO Endorses Cinde Warmington for Governor PRESS RELEASE With Potential Data Center In Bow, Cinde Warmington Reiterates Calls for a Data Center Moratorium PRESS RELEASE ICYMI: Cinde Warmington Campaigns In Meredith on 'Cut The Costs' Tour PRESS RELEASE Planned Parenthood NH Action Fund PAC Endorses Cinde Warmington for Governor PRESS RELEASE ICYMI: Cinde Warmington Discusses Housing Crisis, Impact of Private Equity PRESS RELEASE Statement on Cinde Warmington Becoming the Democratic Gubernatorial Nominee PRESS RELEASE ICYMI: On The Takeout, Cinde Warmington Blasts Ayotte’s Failure to Stand up For Granite Staters PRESS RELEASE Billboard Truck Puts Costly Kelly’s Data Center Record on Display PRESS RELEASE ICYMI: Cinde Warmington Joins WMUR’s "Conversation with The Candidate" PRESS RELEASE In Wake of MacDonald Resignation, Warmington Calls for Public Hearings on Supreme Court PRESS RELEASE ROUNDUP: Cinde Warmington Calls for Delay in Naming MacDonald Replacement, Public Hearings PRESS RELEASE ICYMI: Cinde Warmington Visits C&J Bus Lines Terminal on "Cut the Costs" Tour PRESS RELEASE NEW: Cinde Warmington Campaign Launches Cost of Kelly Microsite Highlighting Ayotte’s Failed Record PRESS RELEASE New Hampshire Carpenters Endorse Cinde Warmington for Governor PRESS RELEASE ICYMI: Annie Kuster: Warmington is the Change We Need PRESS RELEASE UNH Poll Shows Cinde Warmington “Statistically Tied” With Kelly Ayotte PRESS RELEASE NEW: Five Weeks Out: Cinde Warmington’s Path to Victory PRESS RELEASE ICYMI: Former U.S.
+Attorney General Eric Holder Endorses Cinde Warmington for Governor PRESS RELEASE With Cloud of Corruption over Court, Warmington Demands Justices Step Aside Pending Investigation PRESS RELEASE ICYMI: Cinde Warmington Visits Exeter on Cut the Costs Tour May 28 2026 OP-ed In Op-ed, Warmington Blasts Ayotte’s Cuts, Outlines Solutions to Stop Abuse at Sununu Center MANCHESTER, NH — In Case You Missed It, Cinde Warmington shared in a new Union Leader op-ed how Kelly Ayotte’s reckless cuts to the Office of the Child Advocate (OCA) weakened oversight and prolonged abuse at the Sununu Youth Services Center.
 Cinde also laid out immediate steps to help end the cycle of abuse, including fully restoring the OCA’s oversight capacity and appointing an outside entity to lead an independent investigation into the reports of abuse.
 Read the full op-ed here and below.
 Union Leader: Cinde Warmington: Children in custody are being abused.
 Ayotte cuts made it worse.
-- A child at the Sununu Youth Services Center with a broken bone.
+A child at the Sununu Youth Services Center with a broken bone.
 Children being restrained in ways that put both them and staff at risk.
 These are recent incidents documented by independent watchdogs.
-- And they’re happening now because the state employees responsible for seeing and stopping this kind of abuse weren’t there — including the one person responsible for reviewing restraint and isolation reports at the facility.
-- Let’s be clear: the people responsible for protecting kids in the state’s care lost their jobs because Kelly Ayotte cut them with her reckless budget.
-- Governor Ayotte was warned.
+And they’re happening now because the state employees responsible for seeing and stopping this kind of abuse weren’t there — including the one person responsible for reviewing restraint and isolation reports at the facility.
+Let’s be clear: the people responsible for protecting kids in the state’s care lost their jobs because Kelly Ayotte cut them with her reckless budget.
+Governor Ayotte was warned.
 Child Advocate Cassandra Sanchez spoke out publicly against the impact of budget cuts.
 She warned of the danger of high caseloads.
 She said point-blank that with these cuts, her office would no longer be able to review all incident reports from the Sununu Center.
-- Still, Ayotte cut the agency’s funding, weakening the watchdog responsible for protecting these kids.
+Still, Ayotte cut the agency’s funding, weakening the watchdog responsible for protecting these kids.
 Sanchez recently confirmed that Ayotte’s cuts prevented her staff from visiting the facility in February and allowed the abuse to persist.
-- The Child Advocate first notified the Division for Children, Youth and Families of their concerns on March 13.
+The Child Advocate first notified the Division for Children, Youth and Families of their concerns on March 13.
 One month later, the Disability Rights Center reported immediate and grave safety concerns for the children at the Sununu Center.
-- An entire month passed after this initial report with no action — and there is nothing to suggest the reported abuse has ended.
+An entire month passed after this initial report with no action — and there is nothing to suggest the reported abuse has ended.
 Recent headlines confirm there’s no proof it has stopped.
-- What is Kelly Ayotte doing right now to protect the Sununu Center’s staff and children?
+What is Kelly Ayotte doing right now to protect the Sununu Center’s staff and children?
 What additional resources have been allocated to the Child Advocate to monitor the situation and restore adequate review of incident reports?
 These questions remain unanswered.
-- Now Ayotte’s administration is trying to claim no abuse occurred at all — a position rejected by both the Child Advocate and the Disability Rights Center.
+Now Ayotte’s administration is trying to claim no abuse occurred at all — a position rejected by both the Child Advocate and the Disability Rights Center.
 Worse, the Ayotte administration is attempting to blame the kids.
-- A Republican member of the legislative oversight committee got it right: “This comes down to a lack of leadership.” It’s true.
-- Here’s what must be done now:
-- Restore the Office of the Child Advocate — immediately.
+A Republican member of the legislative oversight committee got it right: “This comes down to a lack of leadership.” It’s true.
+Here’s what must be done now: Restore the Office of the Child Advocate — immediately.
 Ayotte gutted the agency that exists precisely to stop this kind of abuse.
 Action must be taken immediately to restore its staff and oversight capacity.
 Ayotte’s administration must stop denying that abuse occurred.
 That isn’t protecting anyone; it only makes the problem harder to fix.
-- Restore funding to the state Department of Health and Human Services, where officials have said 14 additional full-time youth counselors are needed — positions that cannot be filled because of Ayotte’s spending cuts.
-- Mandate real trauma-informed training for frontline facility staff.
+Restore funding to the state Department of Health and Human Services, where officials have said 14 additional full-time youth counselors are needed — positions that cannot be filled because of Ayotte’s spending cuts.
+Mandate real trauma-informed training for frontline facility staff.
 The escalation in restraints we’re seeing is a training failure.
 Staff are being placed in dangerous situations alongside children who need therapeutic care.
 That is a solvable problem, and one that requires immediate attention.
-- Appoint an independent investigator — someone who doesn’t serve at the pleasure of the governor.
+Appoint an independent investigator — someone who doesn’t serve at the pleasure of the governor.
 The New Hampshire Attorney General should designate an outside entity to lead an independent investigation.
 This cannot be an in-house review by those with a political stake in the outcome.
-- Accelerate the transition to the Hampstead facility.
+Accelerate the transition to the Hampstead facility.
 As Executive Councilor, I learned firsthand of the danger of housing these children in a correctional facility rather than a treatment center, and I repeatedly pushed to transfer them from the Sununu Center.
 The treatment-centered Hampstead facility is the right path forward.
 We must prioritize its completion and close the Sununu Center.
-- These are urgent, achievable actions that must be taken now.
+These are urgent, achievable actions that must be taken now.
 They are the minimum owed to children in state custody and the staff who work with them.
 We have a duty and a responsibility to get this right.
-- Kelly Ayotte is failing to take responsibility and to protect these kids.
+Kelly Ayotte is failing to take responsibility and to protect these kids.
 As governor, I won’t rest until we do both.
+Vote@CindeWarmington.com Privacy Policy P.O.
+Box 2133, Concord, NH 03302 Paid for by Friends of Cinde Warmington, PO Box 2133, Concord, NH 03302, William Christie Treasurer You need to enable JavaScript to run this app.

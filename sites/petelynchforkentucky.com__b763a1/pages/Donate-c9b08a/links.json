@@ -1,14 +1,50 @@
 [
-"https://facebook.com/profile.php?id=61583563949985",
-"https://instagram.com/PeteLynchForKentucky",
-"https://petelynchforkentucky.com/",
-"https://petelynchforkentucky.com/Donate/About-Pete",
-"https://petelynchforkentucky.com/Donate/Donate",
-"https://petelynchforkentucky.com/Donate/Get-Involved",
-"https://petelynchforkentucky.com/Donate/Information-for-Voters",
-"https://petelynchforkentucky.com/Donate/Policies",
-"https://reddit.com/user/PeteLynchForKentucky",
-"https://tiktok.com/@petelynch4ky",
-"https://x.com/PeteLynch4KY",
-"https://youtube.com/@PeteLynchForKentucky"
+{
+"text": "About Pete",
+"href": "https://petelynchforkentucky.com/Donate/About-Pete/"
+},
+{
+"text": "Donate",
+"href": "https://petelynchforkentucky.com/Donate/Donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://petelynchforkentucky.com/Donate/Get-Involved/"
+},
+{
+"text": "Home",
+"href": "https://petelynchforkentucky.com/"
+},
+{
+"text": "Information for Voters",
+"href": "https://petelynchforkentucky.com/Donate/Information-for-Voters/"
+},
+{
+"text": "Policies",
+"href": "https://petelynchforkentucky.com/Donate/Policies/"
+},
+{
+"text": "[image]",
+"href": "https://x.com/PeteLynch4KY"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583563949985"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/PeteLynchForKentucky/"
+},
+{
+"text": "[no text]",
+"href": "https://www.reddit.com/user/PeteLynchForKentucky/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@petelynch4ky"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@PeteLynchForKentucky"
+}
 ]

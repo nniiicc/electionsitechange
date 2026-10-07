@@ -1,3 +1,5 @@
+About Becky Issues Get Involved Events Updates Donate Now Home About Becky Issues Get Involved Events Updates Donate Now April 8, 2026 Why run?
+Why now?
 Why run, why now?
 Someone asked me why I’m running, whether this is what I’ve always wanted or if I’m just filling a spot on the ballot.
 The truth is, I’ve wanted to work in government since my 20s, but I needed to live my life first.
@@ -30,3 +32,4 @@ I’m running because I know these people, I am these people, and I’m ready to
 The only question left is, are you ready to stand with me?
 Neighbors first.
 Common sense always.
+Support Becky Kroll’s Campaign for Missouri Donate Now Becky Kroll For Missouri 1603 Kroll Road, Lohman, Mo 65053 tel:573-690-3431 | becky@beckykrollformissouri.com Melba Price, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

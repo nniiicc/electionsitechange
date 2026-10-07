@@ -1,28 +1,142 @@
 [
-"http://facebook.com/jimmygomezca",
-"http://google.com/",
-"http://instagram.com/jimmygomezca",
-"http://twitter.com/jimmygomezca",
-"http://youtube.com/channel/UC3CATll2ZF0-nBwFU1db-xg",
-"https://jimmygomezforcongress.com/",
-"https://jimmygomezforcongress.com/bio",
-"https://jimmygomezforcongress.com/bio/photos",
-"https://jimmygomezforcongress.com/donate",
-"https://jimmygomezforcongress.com/endorsements",
-"https://jimmygomezforcongress.com/get-involved",
-"https://jimmygomezforcongress.com/issues",
-"https://jimmygomezforcongress.com/media",
-"https://jimmygomezforcongress.com/privacy-policy",
-"https://jimmygomezforcongress.com/progressive-record",
-"https://jimmygomezforcongress.com/the-latest",
-"https://jimmygomezforcongress.com/the-latest/campaign-updates",
-"https://jimmygomezforcongress.com/the-latest/campaign-updates/aoc",
-"https://jimmygomezforcongress.com/the-latest/campaign-updates/end-citizens-united-let-america-vote-endorses-representative-jimmy-gomez-for-reelection",
-"https://jimmygomezforcongress.com/the-latest/in-the-news",
-"https://jimmygomezforcongress.com/the-latest/in-the-news/news-clips",
-"https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=10",
-"https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=25",
-"https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=5",
-"https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=50",
-"https://secure.ngpvan.com/h8JFTbDST0uElbEuE0tixQ2"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=50"
+},
+{
+"text": "213-557-1348",
+"href": "tel:213-557-1348"
+},
+{
+"text": "Bio",
+"href": "https://jimmygomezforcongress.com/bio/"
+},
+{
+"text": "Campaign Updates",
+"href": "https://jimmygomezforcongress.com/the-latest/campaign-updates/"
+},
+{
+"text": "Contribute Now Help make sure we have the resources to get our message out!",
+"href": "https://jimmygomezforcongress.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://jimmygomezforcongress.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://jimmygomezforcongress.com/get-involved"
+},
+{
+"text": "Get Updates",
+"href": "https://secure.ngpvan.com/h8JFTbDST0uElbEuE0tixQ2"
+},
+{
+"text": "Get Updates Join our email list to stay up to date on the campaign!",
+"href": "https://secure.ngpvan.com/h8JFTbDST0uElbEuE0tixQ2"
+},
+{
+"text": "In the News",
+"href": "https://jimmygomezforcongress.com/the-latest/in-the-news/"
+},
+{
+"text": "J. Gomez | 01/24/24 End Citizens United // Let America Vote Endorses Rep. Jimmy Gomez for Re-election End Citizens United // Let America Vote Endorses Representative... Read More",
+"href": "https://jimmygomezforcongress.com/the-latest/campaign-updates/end-citizens-united-let-america-vote-endorses-representative-jimmy-gomez-for-reelection/"
+},
+{
+"text": "J. Gomez | 07/07/23 Rep. Jimmy Gomez launches Renters Caucus to fight housing crisis Rep. Read More",
+"href": "https://jimmygomezforcongress.com/the-latest/in-the-news/news-clips/"
+},
+{
+"text": "J. Gomez | 10/05/24 Alexandria Ocasio-Cortez Endorses Jimmy Gomez BIG News! Alexandria Ocasio-Cortez endorsed Jimmy Gomez for U.S. Representative!Congresswoman... Read More",
+"href": "https://jimmygomezforcongress.com/the-latest/campaign-updates/aoc/"
+},
+{
+"text": "Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore et dolore magna aliqua.",
+"href": "http://google.com"
+},
+{
+"text": "Lorem Ipsumz Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore et dolore magna aliqua.",
+"href": "http://google.com"
+},
+{
+"text": "Media",
+"href": "https://jimmygomezforcongress.com/media"
+},
+{
+"text": "Meet Jimmy",
+"href": "https://jimmygomezforcongress.com/bio/"
+},
+{
+"text": "On The Issues",
+"href": "https://jimmygomezforcongress.com/issues/"
+},
+{
+"text": "Photos",
+"href": "https://jimmygomezforcongress.com/bio/photos/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jimmygomezforcongress.com/privacy-policy"
+},
+{
+"text": "Progressive Record",
+"href": "https://jimmygomezforcongress.com/progressive-record"
+},
+{
+"text": "Progressive Record",
+"href": "https://jimmygomezforcongress.com/progressive-record/"
+},
+{
+"text": "Read More",
+"href": "https://jimmygomezforcongress.com/bio"
+},
+{
+"text": "Supporters",
+"href": "https://jimmygomezforcongress.com/endorsements/"
+},
+{
+"text": "The Latest",
+"href": "https://jimmygomezforcongress.com/the-latest/"
+},
+{
+"text": "Volunteer Sign up to help ustalk to voters!",
+"href": "https://secure.ngpvan.com/h8JFTbDST0uElbEuE0tixQ2"
+},
+{
+"text": "[image]",
+"href": "https://jimmygomezforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/jimmygomezca"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/jimmygomezca"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/jimmygomezca"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/channel/UC3CATll2ZF0-nBwFU1db-xg"
+},
+{
+"text": "info@jimmygomezforcongress.com",
+"href": "mailto:info@jimmygomezforcongress.com"
+}
 ]

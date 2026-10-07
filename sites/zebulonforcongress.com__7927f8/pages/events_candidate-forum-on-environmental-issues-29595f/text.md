@@ -1,12 +1,3 @@
-Back to All Events
-Thank you for your patience everyone, I’ve been shifting gears quite a bit these past few months.
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate Back to All Events Candidate Forum on Environmental Issues Sunday, July 19, 2026 1:30 PM 2:30 PM Google Calendar ICS Thank you for your patience everyone, I’ve been shifting gears quite a bit these past few months.
 This event will be the start of a more involved online and physical presence.
-This event can be viewed remotely by registering on their event page
-https://actionnetwork.org/events/candidate-forum-on-environmental-issues?clear_id=true&source=direct_link&fbclid=IwY2xjawTHP7tleHRuA2FlbQIxMABicmlkETFjeWpqdEIwOWlDRUhsd0tJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmku-4bv3zl3qdxMjRmSw3UuFsiT8uG0lLD8hOWzvW05CNNKNUpYLlFWrwHa_aem_dKf9PXzLHlvqFsXoZk974g
-Previous
-Previous
-July 8
-America on Tap
-Next
-Next
-July 29
+This event can be viewed remotely by registering on their event page https://actionnetwork.org/events/candidate-forum-on-environmental-issues?clear_id=true&source=direct_link&fbclid=IwY2xjawTHP7tleHRuA2FlbQIxMABicmlkETFjeWpqdEIwOWlDRUhsd0tJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmku-4bv3zl3qdxMjRmSw3UuFsiT8uG0lLD8hOWzvW05CNNKNUpYLlFWrwHa_aem_dKf9PXzLHlvqFsXoZk974g Previous Previous July 8 America on Tap Next Next July 29 Virtual Town Hall

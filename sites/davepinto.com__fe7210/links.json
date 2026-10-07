@@ -1,24 +1,110 @@
 [
-"https://davepinto.com/",
-"https://davepinto.com/about",
-"https://davepinto.com/endorsements",
-"https://davepinto.com/get-involved",
-"https://davepinto.com/lawnsigns",
-"https://davepinto.com/priorities",
-"https://davepinto.com/privacy-policy",
-"https://davepinto.com/volunteer",
-"https://davepinto.com/vote",
-"https://facebook.com/davepintomn",
-"https://instagram.com/davepintomn",
-"https://revenue.state.mn.us/political-contribution-refund",
-"https://secure.actblue.com/donate/pinto-volunteer-committee-1",
-"https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=10",
-"https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=1000",
-"https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=150",
-"https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=25",
-"https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=250",
-"https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=75",
-"https://techforcampaigns.org/",
-"https://x.com/davepinto",
-"https://youtube.com/@davepintomn"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=10"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=1000"
+},
+{
+"text": "$150",
+"href": "https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=150"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=250"
+},
+{
+"text": "$75",
+"href": "https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=75"
+},
+{
+"text": "About Dave",
+"href": "https://davepinto.com/about/"
+},
+{
+"text": "Endorsements",
+"href": "https://davepinto.com/endorsements/"
+},
+{
+"text": "Facebook icon",
+"href": "https://www.facebook.com/davepintomn/"
+},
+{
+"text": "Get Involved",
+"href": "https://davepinto.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://davepinto.com/"
+},
+{
+"text": "Instagram icon",
+"href": "https://www.instagram.com/davepintomn/"
+},
+{
+"text": "Lawn Signs",
+"href": "https://davepinto.com/lawnsigns"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/pinto-volunteer-committee-1"
+},
+{
+"text": "Political Contribution Refund",
+"href": "https://www.revenue.state.mn.us/political-contribution-refund"
+},
+{
+"text": "Priorities",
+"href": "https://davepinto.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://davepinto.com/privacy-policy/"
+},
+{
+"text": "READ MORE",
+"href": "https://davepinto.com/priorities#all_policies"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://davepinto.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://davepinto.com/vote/"
+},
+{
+"text": "X icon",
+"href": "https://x.com/davepinto"
+},
+{
+"text": "Youtube icon",
+"href": "https://www.youtube.com/@davepintomn"
+},
+{
+"text": "[image: Dave Pinto]",
+"href": "https://davepinto.com/"
+},
+{
+"text": "contribute",
+"href": "https://secure.actblue.com/donate/pinto-volunteer-committee-1"
+},
+{
+"text": "info@davepinto.com",
+"href": "mailto:info@davepinto.com"
+},
+{
+"text": "join our team",
+"href": "https://davepinto.com/get-involved/"
+}
 ]

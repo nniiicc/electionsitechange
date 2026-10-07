@@ -1,9 +1,12 @@
 {
  "description": "Get the latest news about Abdul El-Sayed campaign for US Senate.",
  "final_url": "https://abdulforsenate.com/2026/10/the-northern-midwest-regional-council-of-carpenters-endorses-dr-abdul-el-sayed-for-u-s-senate/",
+ "fingerprint": "5722c5532928c291cdb01490a29feb44b3c21402",
+ "format": 3,
  "paid_for_by": "Paid for by Abdul for U",
- "title": "The Northern Midwest Regional Council of Carpenters Endorses Dr. Abdul El-Sayed for U.S. Senate \u2013 Michigan US Senate Candidate 2026",
+ "title": "The Northern Midwest Regional Council of Carpenters Endorses Dr. Abdul El-Sayed for U.S. Senate – Michigan US Senate Candidate 2026",
  "years_mentioned": [
-  "2024"
+  "2024",
+  "2026"
  ]
 }

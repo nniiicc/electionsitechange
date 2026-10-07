@@ -1,7 +1,11 @@
 {
  "description": "Jake Taylor is running for Maryland State Delegate. Join our team to fight for public safety, affordability, and common sense at votejaketaylor.com!",
  "final_url": "https://votejaketaylor.com/",
- "paid_for_by": null,
+ "fingerprint": "976d99dafb9f83cd3ac70cbb592218ce7993628e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Home | Vote Jake Taylor",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

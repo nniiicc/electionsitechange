@@ -1,42 +1,18 @@
-Endorsements
-Elected Officials & Community Leaders
-“State Senator Vandana Slatter is a dynamic and committed leader who fights for her constituents—and our shared values.
-She is a champion for affordability, education, and climate action, and deserves our vote.”
-Former Governor Jay Inslee
-“Vandana is a voice for kids and families, standing up for great schools and affordable childcare.
-She is a champion for the reproductive rights and healthcare access we must protect from federal attack.”
-Former First Lady Trudi Inslee
-“As the former State Senator serving in this seat, I’ve worked closely with Vandana over the years and have seen her deliver results with integrity, thoughtfulness, and a relentless commitment to our community.
+Vandana Slatter Meet Vandana Priorities Accomplishments Endorsements Media En Español Donate Meet Vandana Priorities Accomplishments Endorsements Media En Español Donate Endorsements Elected Officials & Community Leaders “State Senator Vandana Slatter is a dynamic and committed leader who fights for her constituents—and our shared values.
+She is a champion for affordability, education, and climate action, and deserves our vote.” Former Governor Jay Inslee “Vandana is a voice for kids and families, standing up for great schools and affordable childcare.
+She is a champion for the reproductive rights and healthcare access we must protect from federal attack.” Former First Lady Trudi Inslee “As the former State Senator serving in this seat, I’ve worked closely with Vandana over the years and have seen her deliver results with integrity, thoughtfulness, and a relentless commitment to our community.
 She knows the 48th District inside and out and has built a reputation for bringing people together to solve complex problems—from expanding access to health care to standing up for consumers.
-Vandana’s deep experience, collaborative approach, and principled leadership make her exactly the kind of Senator the 48th District deserves.”
-Patty Kuderer
-Insurance Commissioner & former 48th LD Senator
-“As a State Senator and throughout her public service, Vandana has been a fierce advocate for equity, innovation, and reproductive freedom.
+Vandana’s deep experience, collaborative approach, and principled leadership make her exactly the kind of Senator the 48th District deserves.” Patty Kuderer Insurance Commissioner & former 48th LD Senator “As a State Senator and throughout her public service, Vandana has been a fierce advocate for equity, innovation, and reproductive freedom.
 She’s committed to Trump-proofing our state, leading with integrity, and always putting people first.
-I’m proud to support her continued service in the State Senate.”
-Congresswoman Emily Randall
-“As a former Bellevue Mayor and current County Councilmember, I know the kind of steady, strategic leadership it takes to deliver real results—and Vandana Slatter embodies that every day.
+I’m proud to support her continued service in the State Senate.” Congresswoman Emily Randall “As a former Bellevue Mayor and current County Councilmember, I know the kind of steady, strategic leadership it takes to deliver real results—and Vandana Slatter embodies that every day.
 Vandana listens deeply, leads with purpose, and delivers on the issues that matter most—like housing affordability, reliable transportation, and the infrastructure that keeps our region moving.
-Her thoughtful, values-driven approach makes her an outstanding State Senator and a powerful advocate for the 48th District.”
-Claudia Balducci
-King County Councilmember
-“I have worked closely with Vandana Slatter in the legislature and now as State Treasurer.
+Her thoughtful, values-driven approach makes her an outstanding State Senator and a powerful advocate for the 48th District.” Claudia Balducci King County Councilmember “I have worked closely with Vandana Slatter in the legislature and now as State Treasurer.
 She brings the values you want as a Senator: she is smart, data-driven, and committed to serving the needs of all of her constituents.
-I can count on her to be a partner to advance housing access, protect public health, and support financial education!”
-Mike Pellicciotti
-State Treasurer
-“Senator Slatter represents all that is excellent in public service – listening, compassion, hard work, and balance.
+I can count on her to be a partner to advance housing access, protect public health, and support financial education!” Mike Pellicciotti State Treasurer “Senator Slatter represents all that is excellent in public service – listening, compassion, hard work, and balance.
 She is a true champion for students, families, and communities, but also understands the importance of a healthy and robust economy fueled by innovation and talent.
 In this Senate race, there is only one candidate with the comprehensive values and skills to lead with excellence.
-Please vote for Senator Vandana Slatter!”
-Chris Reykdal
-State Superintendent of Public Instruction
-“Senator Vandana Slatter sponsored legislation to give cities and counties the ability to hire more law enforcement and address safety priorities.
-She is committed to safer, more supportive communities.“
-State Senator John Lovick
-Former Snohomish County Sheriff and WA State Patrol Trooper
-“Vandana has been a tireless champion for higher education and workforce pathways, expanding opportunities through our community and technical colleges and making it easier for young people and working families to afford and finish their degrees or training.
+Please vote for Senator Vandana Slatter!” Chris Reykdal State Superintendent of Public Instruction “Senator Vandana Slatter sponsored legislation to give cities and counties the ability to hire more law enforcement and address safety priorities.
+She is committed to safer, more supportive communities . “ State Senator John Lovick Former Snohomish County Sheriff and WA State Patrol Trooper “ Vandana has been a tireless champion for higher education and workforce pathways, expanding opportunities through our community and technical colleges and making it easier for young people and working families to afford and finish their degrees or training.
 She shows up for communities across our state, delivering on priorities like broadband, healthcare access, and good jobs.
-Senator Slatter has my full support.“
-State Senator Marcus Riccelli, 3rd LD
-Majority Floor Leader
+Senator Slatter has my full support. “ State Senator Marcus Riccelli, 3rd LD Majority Floor Leader View our 2025 endorsements here!
+Donate Contact Paid for by Vandana Slatter for State Senate PO Box 20664 Seattle, WA 98102 [email protected]

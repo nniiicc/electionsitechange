@@ -1,13 +1,54 @@
 [
-"https://adamsavage.com/",
-"https://amazon.com/Attack-Theocrats-Religious-Right-Harms/dp/0984493255",
-"https://billnye.com/",
-"https://facebook.com/fairclothmaine",
-"https://seanfaircloth.com/",
-"https://seanfaircloth.com/attack_of_the-thecrats",
-"https://seanfaircloth.com/downtown-revitalization-leader",
-"https://seanfaircloth.com/public-speaking",
-"https://seanfaircloth.com/the-enchanted-globe",
-"https://susanjacoby.co/",
-"https://web.randi.org/about-james-randi.html"
+{
+"text": "Adam Savage,",
+"href": "https://adamsavage.com/"
+},
+{
+"text": "Attack of the Theocrats!",
+"href": "https://seanfaircloth.com/attack_of_the-thecrats/"
+},
+{
+"text": "BUY NOW!",
+"href": "https://www.amazon.com/Attack-Theocrats-Religious-Right-Harms/dp/0984493255"
+},
+{
+"text": "Bill Nye the Science Guy",
+"href": "https://billnye.com/"
+},
+{
+"text": "Downtown Revitalization Leader",
+"href": "https://seanfaircloth.com/downtown-revitalization-leader/"
+},
+{
+"text": "Home",
+"href": "https://seanfaircloth.com"
+},
+{
+"text": "James Randi",
+"href": "https://web.randi.org/about-james-randi.html"
+},
+{
+"text": "Sean Speaking on Issues",
+"href": "https://seanfaircloth.com/public-speaking/"
+},
+{
+"text": "Susan Jacoby",
+"href": "https://www.susanjacoby.co/"
+},
+{
+"text": "The Enchanted Globe",
+"href": "https://seanfaircloth.com/the-enchanted-globe/"
+},
+{
+"text": "[image: Faircloth][image: Faircloth]",
+"href": "https://seanfaircloth.com/"
+},
+{
+"text": "[tooltip: Follow on Facebook]",
+"href": "https://www.facebook.com/fairclothmaine/"
+},
+{
+"text": "[tooltip: Send us an email]",
+"href": "mailto:sean@seanfaircloth.com"
+}
 ]

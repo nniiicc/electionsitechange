@@ -1,12 +1,7 @@
-UPCOMING EVENTS
-Stay up to date with all of our events and sign up to volunteer
-Orangevale Walk
-Join us on October 10th at 9AM at Pecan Park (5901 Pecan Ave.) to connect with neighbors and support Josh Hoover.
-Citrus Heights Walk
-Join us on October 17th at 9AM at Brooktree Park (6800 Dunmore Ave.) with School Board Member and Candidate Manuel Perez to connect with neighbors and support Josh & Manuel.
-Folsom Walk
-Join us on October 24th at 9AM at Hoover HQ (13405 Folsom Blvd, Building 500, Folsom) to connect with neighbors and support Josh Hoover.
-Fair Oaks - Super Saturday
-Join us on October 31st at Miller Park (8480 Sunset Ave.) at 9AM with San Juan School Board President Tanya Kravchuk to connect with neighbors and support Josh Hoover.
-Folsom HQ - Super Saturday
-Join us for one of our biggest events of the year on October 3rd at Hoover HQ (13405 Folsom Blvd, Building 500, Folsom) at 9AM and 1PM to connect with neighbors and support Josh Hoover.
+Skip to Content Open Menu Close Menu ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT 0 0 DONATE ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT 0 0 DONATE Open Menu Close Menu ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT DONATE UPCOMING EVENTS ‍Stay up ‍to date with all of our events and sign up to volunteer Volunteer With Us Oct 10 Orangevale Walk Saturday, October 10, 2026 9:00 AM 12:00 PM Google Calendar ICS Join us on October 10th at 9AM at Pecan Park (5901 Pecan Ave.) to connect with neighbors and support Josh Hoover.
+View Event → Oct 17 Citrus Heights Walk Saturday, October 17, 2026 9:00 AM 12:00 PM Google Calendar ICS Join us on October 17th at 9AM at Brooktree Park (6800 Dunmore Ave.) with School Board Member and Candidate Manuel Perez to connect with neighbors and support Josh & Manuel.
+View Event → Oct 24 Folsom Walk Saturday, October 24, 2026 9:00 AM 12:00 PM Google Calendar ICS Join us on October 24th at 9AM at Hoover HQ (13405 Folsom Blvd, Building 500, Folsom) to connect with neighbors and support Josh Hoover.
+View Event → Oct 31 Fair Oaks - Super Saturday Saturday, October 31, 2026 9:00 AM 12:00 PM Google Calendar ICS Join us on October 31st at Miller Park (8480 Sunset Ave.) at 9AM with San Juan School Board President Tanya Kravchuk to connect with neighbors and support Josh Hoover.
+View Event → Oct 3 Folsom HQ - Super Saturday Saturday, October 3, 2026 9:00 AM 2:00 PM Google Calendar ICS Join us for one of our biggest events of the year on October 3rd at Hoover HQ (13405 Folsom Blvd, Building 500, Folsom) at 9AM and 1PM to connect with neighbors and support Josh Hoover.
+View Event → ABOUT | ISSUES | ENDORSEMENTS | AD 7 | MEDIA | PODCAST | NEWS | YARD SIGN | | VOLUNTEER | CONTACT CONTRIBUTE Paid for by Hoover for Assembly 2026 ID# 1476883 P.O.
+Box 850, Wilton, CA 95693 Privacy Policy

@@ -1,18 +1,70 @@
 [
-"https://changetn.vote/",
-"https://facebook.com/profile.php?id=61587345444700",
-"https://gunsensevoter.org/candidates/c7464701139d6308508bcd03ed35efe8097e726a457bbbb3b91225cfc5809317",
-"https://harvestingdemocracypac.org/endorsed-candidates",
-"https://jennyfortn.com/",
-"https://jennyfortn.com/about",
-"https://jennyfortn.com/civic-values",
-"https://jennyfortn.com/core-issues",
-"https://jennyfortn.com/events-media-endorsements",
-"https://knoxnews.com/story/news/politics/elections/2026/07/18/tennessee-house-district-19-primary-voters-guide-meet-the-candidates/90970370007",
-"https://mentalhealthnow.us/candidatemap",
-"https://nwpctn.org/endorsements/2026",
-"https://plannedparenthoodaction.org/tennessee-advocates-planned-parenthood/blog/2026-election-information",
-"https://secure.actblue.com/donate/jenny-fowler-1",
-"https://substack.com/@jennyfowlertn",
-"https://ucwtn.org/"
+{
+"text": "About Jenny",
+"href": "https://jennyfortn.com/about/"
+},
+{
+"text": "Civic Values",
+"href": "https://jennyfortn.com/civic-values/"
+},
+{
+"text": "Core Issues",
+"href": "https://jennyfortn.com/core-issues/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jenny-fowler-1"
+},
+{
+"text": "Events, Media & Endorsements",
+"href": "https://jennyfortn.com/events-media-endorsements/"
+},
+{
+"text": "Jenny’s Substack",
+"href": "https://substack.com/@jennyfowlertn"
+},
+{
+"text": "Knoxville News Sentinel: Tennessee House District 19 Primary Voter’s Guide",
+"href": "https://www.knoxnews.com/story/news/politics/elections/2026/07/18/tennessee-house-district-19-primary-voters-guide-meet-the-candidates/90970370007/"
+},
+{
+"text": "[image: Facebook icon]",
+"href": "https://www.facebook.com/profile.php?id=61587345444700"
+},
+{
+"text": "[image: JennyForTN Homepage]",
+"href": "https://jennyfortn.com/"
+},
+{
+"text": "[image]",
+"href": "https://changetn.vote/"
+},
+{
+"text": "[image]",
+"href": "https://gunsensevoter.org/candidates/c7464701139d6308508bcd03ed35efe8097e726a457bbbb3b91225cfc5809317/"
+},
+{
+"text": "[image]",
+"href": "https://harvestingdemocracypac.org/endorsed-candidates/"
+},
+{
+"text": "[image]",
+"href": "https://mentalhealthnow.us/candidatemap/"
+},
+{
+"text": "[image]",
+"href": "https://ucwtn.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.nwpctn.org/endorsements/2026#:~:text=Jenny%20Fowler"
+},
+{
+"text": "[image]",
+"href": "https://www.plannedparenthoodaction.org/tennessee-advocates-planned-parenthood/blog/2026-election-information#:~:text=Jenny%20Fowler"
+},
+{
+"text": "jennyfowlerfortnhouse@yahoo.com",
+"href": "mailto:jennyfowlerfortnhouse@yahoo.com"
+}
 ]

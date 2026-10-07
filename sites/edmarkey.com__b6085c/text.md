@@ -1,387 +1,124 @@
-Delivering for Massachusetts
-Find your town, city, or county to see how Ed Markey has delivered for your community
-Total Secured for MA: $14,579,629,529.01
-Meet Ed
-Fighting For the Working Class
-Experience that
-shapes his values
-Throughout his career, Ed has refused to compromise his progressive values in his fight to build a Commonwealth and country that are fair, just, and equitable for all.
+Chip in $20 now to elect Ed Markey for U.S.
+Senate DONATE NOW English English Español Português 繁體中文 Meet Ed Endorsements Issues & Priorities The Latest Volunteer Donate Leading and Delivering for Massachusetts Email Address (Required) Zip Code (Required) Delivering for Massachusetts Find your town, city, or county to see how Ed Markey has delivered for your community Total Secured for MA: $14,579,629,529.01 Meet Ed Fighting For the Working Class Experience that shapes his values Throughout his career, Ed has refused to compromise his progressive values in his fight to build a Commonwealth and country that are fair, just, and equitable for all.
 He has never been afraid to disrupt the status quo, and since he was first elected to the United States Senate in 2013, Ed has been leading and delivering on the issues that matter the most to the people of Massachusetts.
-Social Media
-Thank you to the Mansfield-Foxboro DTC for the warm welcome today.
-Massachusetts democrats don’t agonize—we organize.
-Grateful to be with you in this fight.
-When we organize together, working people are unstoppable.
-Wonderful to rally in Dorchester this morning with unions from across our Commonwealth.
-This Administration is cutting healthcare lifelines that are essential to our communities—but we won't stand for it.
-I was honored to join my partners in this fight at La Colaborativa this morning, and grateful for their tireless advocacy.
-The Latest
-Ed Markey Wins Democratic Primary For U.S.
-Senate
-September 1, 2026
-Tonight, Ed Markey won the Democratic primary for the U.S.
+LEARN MORE Endorsements The Latest Donate Your Support Makes the Difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Click here to make an Offline Donation .
+Social Media Follow Ed Markey #ago Back on the picket line with Encore workers—one day longer.
+One day stronger.
+They are not agonizing, they are organizing.
+Urging parties to negotiate in good faith and agree to a contract with good wages and working conditions.
+2 Retweet on Twitter 2107637237902897176 15 Like on Twitter 2107637237902897176 Share 2107637237902897176 Follow Ed Markey #ago In Massachusetts, we’re taking on the ultra-rich and fighting for working people.
+Proud to organize together.
+3 Retweet on Twitter 2107606936006852726 10 Like on Twitter 2107606936006852726 Share 2107606936006852726 Follow Ed Markey #ago Grateful to speak alongside State Senator Lydia Edwards at the Mass Black Expo.
+Black-owned businesses are vital to our local communities—we must ensure their economic well being and continual growth.
+1 Retweet on Twitter 2107598805503824154 8 Like on Twitter 2107598805503824154 Share 2107598805503824154 The Latest Ed Markey Wins Democratic Primary For U.S.
+Senate September 1, 2026 Tonight, Ed Markey won the Democratic primary for the U.S.
 Senate, securing the Democratic nomination and advancing to the November general election.
-IUE-CWA LOCAL 201 Endorses Ed Markey For Re-Election
-Lynn-based union backs Markey for supporting union workers, American manufacturing, and national security
-August 27, 2026
-U.S.
+IUE-CWA LOCAL 201 Endorses Ed Markey For Re-Election Lynn-based union backs Markey for supporting union workers, American manufacturing, and national security August 27, 2026 U.S.
 Senators Bernie Sanders, Elizabeth Warren, along with Congresswoman Ayanna Pressley, will hold a ‘Power to the People’ rally with Senator Ed Markey on Saturday, August 29.
-Advocates for Trans Equality Endorses Senator Ed Markey
-Leading national transgender rights organization backs Markey as a proven champion and author of the Transgender Bill of Rights
-August 26, 2026
-Leading national transgender rights organization backs Markey as a proven champion and author of the Transgender Bill of Rights
-Chinese Progressive Political Action Endorses Senator Ed Markey
-With six days until the primary, the political voice of Greater Boston’s Chinese community backs Markey
-August 26, 2026
-With six days until the primary, the political voice of Greater Boston’s Chinese community backs Markey
-ADVISORY: Bernie Sanders, Elizabeth Warren, and Ayanna Pressley to Join Ed Markey for ‘Power to the People’ GOTV Rally
-August 24, 2026
-U.S.
+Advocates for Trans Equality Endorses Senator ﻿Ed Markey Leading national transgender rights organization backs Markey as a proven champion and author of the Transgender Bill of Rights August 26, 2026 Leading national transgender rights organization backs Markey as a proven champion and author of the Transgender Bill of Rights Chinese Progressive Political Action Endorses Senator Ed Markey With six days until the primary, the political voice of Greater Boston’s Chinese community backs Markey August 26, 2026 With six days until the primary, the political voice of Greater Boston’s Chinese community backs Markey ADVISORY: Bernie Sanders, Elizabeth Warren, and Ayanna Pressley to Join Ed Markey for ‘Power to the People’ GOTV Rally August 24, 2026 U.S.
 Senators Bernie Sanders, Elizabeth Warren, along with Congresswoman Ayanna Pressley, will hold a ‘Power to the People’ rally with Senator Ed Markey on Saturday, August 29.
-Alexandria Ocasio-Cortez Endorses Ed Markey
-AOC backs longtime legislative partner and proven progressive champion
-August 20, 2026
-AOC endorses Ed Markey for re-election
-‘It Shouldn't Be This Hard to Get By’: Markey and Warren Hold Cost-of-Living Town Hall in Holyoke
-More than 250 Western Massachusetts residents packed Holyoke Community College to ask their questions on housing, utilities, groceries, health care, and education directly to the Senators
-August 15, 2026
-More than 250 Western Massachusetts residents packed Holyoke Community College to ask their questions on housing, utilities, groceries, health care, and education directly to the Senators
-New Reporting Deepens Questions Over Seth Moulton’s Defense Industry Private Equity Investments
-The American Prospect: "Moulton should be at the center of this.
-Instead, he is compromised by his own investments and personal connections."
-August 11, 2026
-The American Prospect: "Moulton should be at the center of this.
-Instead, he is compromised by his own investments and personal connections."
-Community organizers, labor leaders, clergy, policymakers and students will help shape campaign priorities and strengthen community outreach
-Nation’s Largest Reproductive Freedom Org Endorses Ed Markey
-August 10, 2026
-Reproductive Freedom For All backs Markey as Trump and MAGA Republicans seek to turn back the clock on abortion rights
-Senator Markey Rallies Worcester Voters, Vows to Keep Delivering for Working Families and Fighting Trump
-Markey Headlines Major GOTV Rallies in Marshfield and New Bedford, Visits Small Businesses with Meet and Greets in Fall River and Falmouth
-August 9, 2026
-Senator Ed Markey rallied hundreds of supporters across South Shore, South Coast and the Cape on Sunday, August 9, 2026.
-Senator Markey Rallies Worcester Voters, Vows to Keep Delivering for Working Families and Fighting Trump
-August 8, 2026
-Today, Senator Ed Markey rallied Worcester voters at Institute Park on Saturday, joined by Worcester Mayor Joe Petty, State Senator Michael Moore, State Representative Jim O’Day, State Representative David LeBoeuf,…
-Senator Ed Markey's Statement on Michigan Primary
-August 5, 2026
-Today, U.S.
+Alexandria Ocasio-Cortez Endorses Ed Markey AOC backs longtime legislative partner and proven progressive champion August 20, 2026 AOC endorses Ed Markey for re-election ‘It Shouldn't Be This Hard to Get By’: Markey and Warren Hold Cost-of-Living Town Hall in Holyoke More than 250 Western Massachusetts residents packed Holyoke Community College to ask their questions on housing, utilities, groceries, health care, and education directly to the Senators August 15, 2026 More than 250 Western Massachusetts residents packed Holyoke Community College to ask their questions on housing, utilities, groceries, health care, and education directly to the Senators New Reporting Deepens Questions Over Seth Moulton’s Defense Industry Private Equity Investments The American Prospect: "Moulton should be at the center of this.
+Instead, he is compromised by his own investments and personal connections." August 11, 2026 The American Prospect: "Moulton should be at the center of this.
+Instead, he is compromised by his own investments and personal connections." Senator Markey’s Campaign Launches Community Advisory Councils Across Massachusetts August 10, 2026 Community organizers, labor leaders, clergy, policymakers and students will help shape campaign priorities and strengthen community outreach Nation’s Largest Reproductive Freedom Org Endorses Ed Markey August 10, 2026 Reproductive Freedom For All backs Markey as Trump and MAGA Republicans seek to turn back the clock on abortion rights Senator Markey Rallies Worcester Voters, Vows to Keep Delivering for Working Families and Fighting Trump Markey Headlines Major GOTV Rallies in Marshfield and New Bedford, Visits Small Businesses with Meet and Greets in Fall River and Falmouth August 9, 2026 Senator Ed Markey rallied hundreds of supporters across South Shore, South Coast and the Cape on Sunday, August 9, 2026.
+Senator Markey Rallies Worcester Voters, Vows to Keep Delivering for Working Families and Fighting Trump August 8, 2026 Today, Senator Ed Markey rallied Worcester voters at Institute Park on Saturday, joined by Worcester Mayor Joe Petty, State Senator Michael Moore, State Representative Jim O’Day, State Representative David LeBoeuf,… Senator Ed Markey's Statement on Michigan Primary August 5, 2026 Today, U.S.
 Senator Ed Markey issued the followed statement on Dr.
 Abdul El-Sayed's victory last night as the Democratic nominee in Michigan's U.S.
-Senate race:
-'Absolutely pathetic': Senator Markey blasts Seth Moulton for using human trafficking victims to score political points
-August 3, 2026
-Statement from Senator Markey following tonight's Boston 25 + WGBH debate
-Before Second Primary Debate, New Revelations Expose Seth Moulton's Insider ‘Sweetheart Deals’ in Defense Companies
-The American Prospect: “None of these funding rounds needed Moulton’s money.
-Rather, they were opportunities to let him in on a sweet deal… He has already profited handsomely, and if he owes a favor, the favor is still owed.”
-August 3, 2026
-Today, The American Prospect published “Seth Moulton’s Sweetheart Deals,” a new investigation detailing how Congressman Seth Moulton made millions while serving on the House Armed Services Committee through exclusive private…
-Markey Introduces Two Sweeping Green New Deal Bills to Rebuild America’s Schools and Climate-Proof Its Healthcare System
-July 31, 2026
-This week, Markey unveiled plans to invest in students, patients, workers, and communities while creating millions of good-paying jobs
-Congressman Ro Khanna Endorses Ed Markey for Re-Election
-July 31, 2026
-Today, Congressman Ro Khanna endorsed Senator Ed Markey for re-election to the U.S.
+Senate race: 'Absolutely pathetic': Senator Markey blasts Seth Moulton for using human trafficking victims to score political points August 3, 2026 Statement from Senator Markey following tonight's Boston 25 + WGBH debate Before Second Primary Debate, New Revelations Expose Seth Moulton's Insider ‘Sweetheart Deals’ in Defense Companies The American Prospect: “None of these funding rounds needed Moulton’s money.
+Rather, they were opportunities to let him in on a sweet deal… He has already profited handsomely, and if he owes a favor, the favor is still owed.” August 3, 2026 Today, The American Prospect published “Seth Moulton’s Sweetheart Deals,” a new investigation detailing how Congressman Seth Moulton made millions while serving on the House Armed Services Committee through exclusive private… Markey Introduces Two Sweeping Green New Deal Bills to Rebuild America’s Schools and Climate-Proof Its Healthcare System July 31, 2026 This week, Markey unveiled plans to invest in students, patients, workers, and communities while creating millions of good-paying jobs Congressman Ro Khanna Endorses Ed Markey for Re-Election July 31, 2026 Today, Congressman Ro Khanna endorsed Senator Ed Markey for re-election to the U.S.
 Senate seat in Massachusetts.
-Today, Senator Ed Markey announced his endorsement of Dr.
+Senator Ed Markey Endorses Dr.
+Abdul El-Sayed for U.S.
+Senate July 29, 2026 Today, Senator Ed Markey announced his endorsement of Dr.
 Abdul El-Sayed for the U.S.
 Senate seat in Michigan.
-Newly Released Video Shows how Moulton Made Millions From Defense Contractors
-A newly released video outlines how Congressman Seth Moulton’s insider deals have made him millions of dollars.
+Newly Released Video Shows how Moulton Made Millions From Defense Contractors A newly released video outlines how Congressman Seth Moulton’s insider deals have made him millions of dollars.
 The exclusive, pre-IPO investments included weapons manufacturers that come before the very House Armed Services Committee he sits on.
-July 24, 2026
-A newly released video outlines how Congressman Seth Moulton’s insider deals have made him millions of dollars.
-Congresswoman Pramila Jayapal Endorses Ed Markey for Senate
-Progressive lawmaker and Chair Emerita of the Congressional Progressive Caucus backs Ed Markey as the partner who “always meets the moment” – from leading the Trans Bill of Rights in the Senate to authoring the AI Civil Rights Act
-July 24, 2026
-Congresswoman Pramila Jayapal endorses Ed Markey for Senate.
+July 24, 2026 A newly released video outlines how Congressman Seth Moulton’s insider deals have made him millions of dollars.
+Congresswoman Pramila Jayapal Endorses Ed Markey for Senate Progressive lawmaker and Chair Emerita of the Congressional Progressive Caucus backs Ed Markey as the partner who “always meets the moment” – from leading the Trans Bill of Rights in the Senate to authoring the AI Civil Rights Act July 24, 2026 Congresswoman Pramila Jayapal endorses Ed Markey for Senate.
 ICYMI: Western Mass.
-State Lawmakers Say Seth Moulton 'Misses the Mark' on West-East Rail
-In a MassLive op-ed, State Sens.
-Adam Gómez and Jake Oliveira call Moulton's dismissal of the region's rail progress "deeply misguided" – and credit Markey as "a champion since day one"
-July 23, 2026
-Two of Western Massachusetts's state senators published a MassLive op-ed Wednesday to deliver a blunt verdict on Seth Moulton’s approach to West-East passenger rail – the transformational project decades in…
-ICYMI: Seth Moulton is quietly signaling the dark-money super PACs he claims to oppose
-MassLive reports that Congressman Moulton is running a hidden “red box” telling dark-money groups exactly what to say on his behalf.
-July 22, 2026
-New reporting shows that Congressman Seth Moulton is using his campaign website to indirectly coordinate with dark-money super PACs, a move that allows his campaign to circumvent federal campaign laws.
-With 42 days until September 1 Primary Day, the Markey for Senate campaign today launched a new statewide television and digital ad where Senator Markey is joined by three of…
-CHICOPEE, Mass. – During the first primary debate of the Massachusetts Senate race, Congressman Seth Moulton lied multiple times on his voting record, his private-equity investments, and Senator Markey’s progressive…
-Jane Fonda Climate PAC Endorses Ed Markey for Senate
-Group founded by the Academy Award-winning actor and climate activist backs Markey as a champion who isn’t afraid to hold the fossil fuel industry accountable
-July 2, 2026
-The Jane Fonda Climate PAC today endorsed Senator Ed Markey for re-election to the Senate, putting one of the country’s most prominent climate organizations behind a legislator it has called…
-Senator Markey Blasts SCOTUS Ruling Targeting Trans Kids
-Markey Calls on Seth Moulton to Take Accountability for Past Harmful Comments
-June 30, 2026
-Seth Moulton needs to take accountability for past harmful comments against the trans community.
-BOSTON, Mass. — Today, U.S.
+State Lawmakers Say Seth Moulton 'Misses the Mark' on West-East Rail In a MassLive op-ed, State Sens.
+Adam Gómez and Jake Oliveira call Moulton's dismissal of the region's rail progress "deeply misguided" – and credit Markey as "a champion since day one" July 23, 2026 Two of Western Massachusetts's state senators published a MassLive op-ed Wednesday to deliver a blunt verdict on Seth Moulton’s approach to West-East passenger rail – the transformational project decades in… ICYMI: Seth Moulton is quietly signaling the dark-money super PACs he claims to oppose MassLive reports that Congressman Moulton is running a hidden “red box” telling dark-money groups exactly what to say on his behalf.
+July 22, 2026 New reporting shows that Congressman Seth Moulton is using his campaign website to indirectly coordinate with dark-money super PACs, a move that allows his campaign to circumvent federal campaign laws.
+Warren, Pressley, Sanders Unite Behind Ed Markey in New Statewide Ad Buy July 21, 2026 With # days until September 1 Primary Day, the Markey for Senate campaign today launched a new statewide television and digital ad where Senator Markey is joined by three of… Seth Moulton Misleads on Voting Record During First Senate Primary Debate July 8, 2026 CHICOPEE, Mass. – During the first primary debate of the Massachusetts Senate race, Congressman Seth Moulton lied multiple times on his voting record, his private-equity investments, and Senator Markey’s progressive… Jane Fonda Climate PAC Endorses Ed Markey for Senate Group founded by the Academy Award-winning actor and climate activist backs Markey as a champion who isn’t afraid to hold the fossil fuel industry accountable July 2, 2026 The Jane Fonda Climate PAC today endorsed Senator Ed Markey for re-election to the Senate, putting one of the country’s most prominent climate organizations behind a legislator it has called… Senator Markey Blasts SCOTUS Ruling Targeting Trans Kids Markey Calls on Seth Moulton to Take Accountability for Past Harmful Comments June 30, 2026 Seth Moulton needs to take accountability for past harmful comments against the trans community.
+Senator Bernie Sanders Endorses Ed Markey For Re-Election June 29, 2026 BOSTON, Mass. — Today, U.S.
 Senator Ed Markey announced he received the endorsement of Senator Bernie Sanders (I-VT) in his re-election campaign to the United States Senate.
-For decades, Senators…
-WBUR Investigation Shows Moulton Stands to Make Millions Off Defense Startups His Committee Oversees
-Moulton told WBUR there was “no conflict” – then announced he’d recuse himself moving forward and move assets into a blind trust.
-June 18, 2026
-Investigative reporting by NPR affiliate unearthed Seth Moulton's private equity deals with companies that appear before his Armed Services committee.
-BOSTON, Mass. – Tick-tock, Seth.
-Today, the Markey for Senate campaign launched the Transparency Timer, a real-time counter featured prominently on EdMarkey.com that tracks every day, hour, minute, and second…
-“Stop Hiding Behind Excuses”: Moulton Dodges On Tax Return, Financial Disclosure At Debate
-June 16, 2026
-BOSTON, Mass. – On the debate stage Tuesday night, Congressman Seth Moulton refused to be specific about releasing his 2025 tax return or his financial disclosure, brushing off the legitimate…
-Markey Campaign Releases Senator’s 2025 Tax Return, Calls on Seth Moulton to Do the Same
-June 16, 2026
-Boston, MA – Today, Senator Ed Markey released his 2025 federal tax return and called on Congressman Seth Moulton to immediately release his own tax returns and provide Massachusetts voters…
-Senator Markey Agrees to Two Primary Debates, Challenges Moulton to a Third in Western Mass
-June 8, 2026
-BOSTON, Mass. – Senator Ed Markey today challenged Congressman Seth Moulton to agree to a Democratic primary debate in Western Massachusetts, ensuring that voters outside the Boston media market can…
-FOR IMMEDIATE RELEASE Monday, June 8, 2026 Media Contact: Jonathan Ng Communications Director jonathan@edmarkey.org BOSTON, Mass. – Today, the Massachusetts AFL-CIO, the unified voice of organized workers across the Commonwealth, announced its…
-Senator Markey Agrees to Two Primary Debates, Challenges Moulton to a Third in Western Mass
-The two other debates are carried on Boston-market outlets that don't reach the 413 – Western Massachusetts residents deserve to be part of the process, too.
-June 4th, 2026
-FOR IMMEDIATE RELEASE Thursday, June 4, 2026 Media Contact: Jonathan Ng Communications Director jonathan@edmarkey.org BOSTON, Mass. – Senator Ed Markey today challenged Congressman Seth Moulton to agree to a Democratic…
-Senator Ed Markey Wins Endorsement of Massachusetts Democratic Party at State Convention
-Backed by Democratic voters across Massachusetts, Senator Markey calls for a progressive Democratic majority ready to protect freedoms, take on corporate corruption, and deliver for working families
-May 30, 2026
-Backed by Democratic voters across Massachusetts, Senator Markey calls for a progressive Democratic majority ready to protect freedoms, take on corporate corruption, and deliver for working families
-Alex Rikleen Suspends U.S.
-Senate Campaign, Endorses Ed Markey for Re-Election
-Acton dad, former history teacher, and outsider Senate candidate urges Democrats to unite behind Markey ahead of MassDems Convention
-May 27, 2026
-Backed by Democratic voters across Massachusetts, Senator Markey calls for a progressive Democratic majority ready to protect freedoms, take on corporate corruption, and deliver for working families
-Elevator Constructors Union Endorses Ed Markey for Re-Election
-Local 4 backs Markey, citing his fight for the building trades and the next generation of skilled tradespeople
-May 26, 2026
-FOR IMMEDIATE RELEASE Tuesday, May 26, 2026 Media Contact: Jonathan Ng Communications Director jonathan@edmarkey.org BOSTON, Mass. – Today, the International Union of Elevator Constructors Local 4 announced its endorsement of Senator Ed…
-FOR IMMEDIATE RELEASE Tuesday, May 5, 2026 Media Contact: Jonathan Ng Communications Director jonathan@edmarkey.org BOSTON, Mass. – Today, three of New England’s largest building trades, United Union of Roofers, Waterproofers and Allied…
-NRDC Action Fund Endorses Ed Markey for Senate on Earth Day
-April 22nd, 2026
-BOSTON, Mass. – Today, on Earth Day, the NRDC Action Fund announced its endorsement of Senator Ed Markey for re-election, citing him as one of the nation's most consequential and forward-thinking climate legislators in the…
-BOSTON, Mass. – Sunrise Movement, the nation's largest youth-led climate organization, and Voters of Tomorrow, the country's leading Gen Z political organization, today announced their endorsements of Senator Ed Markey…
-BOSTON, Mass. – Today, the Human Rights Campaign (HRC) and the Planned Parenthood Action Fund announced their endorsements of Senator Ed Markey for re-election to the Senate.
-The dual national…
-Daily Hampshire Gazette: ‘A champion who shows up’: Sen.
-Markey secures endorsements from western Mass leaders
-March 24th, 2026
-By: Sam Ferland HAMPSHIRE - Eight local officials, including Northampton Mayor Gina-Louise Sciarra and Easthampton Mayor Salem Derby, have endorsed U.S.
+For decades, Senators… WBUR Investigation Shows Moulton Stands to Make Millions Off Defense Startups His Committee Oversees Moulton told WBUR there was “no conflict” – then announced he’d recuse himself moving forward and move assets into a blind trust.
+June 18, 2026 Investigative reporting by NPR affiliate unearthed Seth Moulton's private equity deals with companies that appear before his Armed Services committee.
+Tick-Tock, Seth: Markey Campaign Starts the Transparency Timer June 18, 2026 BOSTON, Mass. – Tick-tock, Seth.
+Today, the Markey for Senate campaign launched the Transparency Timer, a real-time counter featured prominently on EdMarkey.com that tracks every day, hour, minute, and second… “Stop Hiding Behind Excuses”: Moulton Dodges On Tax Return, Financial Disclosure At Debate June 16, 2026 BOSTON, Mass. – On the debate stage Tuesday night, Congressman Seth Moulton refused to be specific about releasing his 2025 tax return or his financial disclosure, brushing off the legitimate… Markey Campaign Releases Senator’s 2025 Tax Return, Calls on Seth Moulton to Do the Same June 16, 2026 Boston, MA – Today, Senator Ed Markey released his 2025 federal tax return and called on Congressman Seth Moulton to immediately release his own tax returns and provide Massachusetts voters… Senator Markey Agrees to Two Primary Debates, Challenges Moulton to a Third in Western Mass June 8, 2026 BOSTON, Mass. – Senator Ed Markey today challenged Congressman Seth Moulton to agree to a Democratic primary debate in Western Massachusetts, ensuring that voters outside the Boston media market can… Massachusetts AFL-CIO Backs Senator Ed Markey for Re-Election June 8th, 2026 FOR IMMEDIATE RELEASE Monday, June 8, 2026 Media Contact: Jonathan Ng Communications Director jonathan@edmarkey.org BOSTON, Mass. – Today, the Massachusetts AFL-CIO, the unified voice of organized workers across the Commonwealth, announced its… Senator Markey Agrees to Two Primary Debates, Challenges Moulton to a Third in Western Mass The two other debates are carried on Boston-market outlets that don't reach the 413 – Western Massachusetts residents deserve to be part of the process, too.
+June 4th, 2026 FOR IMMEDIATE RELEASE Thursday, June 4, 2026 Media Contact: Jonathan Ng Communications Director jonathan@edmarkey.org BOSTON, Mass. – Senator Ed Markey today challenged Congressman Seth Moulton to agree to a Democratic… Senator Ed Markey Wins Endorsement of Massachusetts Democratic Party at State Convention Backed by Democratic voters across Massachusetts, Senator Markey calls for a progressive Democratic majority ready to protect freedoms, take on corporate corruption, and deliver for working families May 30, 2026 Backed by Democratic voters across Massachusetts, Senator Markey calls for a progressive Democratic majority ready to protect freedoms, take on corporate corruption, and deliver for working families Alex Rikleen Suspends U.S.
+Senate Campaign, Endorses Ed Markey for Re-Election Acton dad, former history teacher, and outsider Senate candidate urges Democrats to unite behind Markey ahead of MassDems Convention May 27, 2026 Backed by Democratic voters across Massachusetts, Senator Markey calls for a progressive Democratic majority ready to protect freedoms, take on corporate corruption, and deliver for working families Elevator Constructors Union Endorses Ed Markey for Re-Election Local 4 backs Markey, citing his fight for the building trades and the next generation of skilled tradespeople May 26, 2026 FOR IMMEDIATE RELEASE Tuesday, May 26, 2026 Media Contact: Jonathan Ng Communications Director jonathan@edmarkey.org BOSTON, Mass. – Today, the International Union of Elevator Constructors Local 4 announced its endorsement of Senator Ed… Three of Massachusetts’ largest building trades endorse Ed Markey for Senate May 5th, 2026 FOR IMMEDIATE RELEASE Tuesday, May 5, 2026 Media Contact: Jonathan Ng Communications Director jonathan@edmarkey.org BOSTON, Mass. – Today, three of New England’s largest building trades, United Union of Roofers, Waterproofers and Allied… NRDC Action Fund Endorses Ed Markey for Senate on Earth Day April 22nd, 2026 BOSTON, Mass. – Today, on Earth Day, the NRDC Action Fund announced its endorsement of Senator Ed Markey for re-election, citing him as one of the nation's most consequential and forward-thinking climate legislators in the… Sunrise Movement and Voters of Tomorrow Endorse Senator Ed Markey for Re-Election April 18th, 2026 BOSTON, Mass. – Sunrise Movement, the nation's largest youth-led climate organization, and Voters of Tomorrow, the country's leading Gen Z political organization, today announced their endorsements of Senator Ed Markey… Nation's Leading LGBTQ and Reproductive Rights Orgs Endorse Ed Markey for Senate April 2nd, 2026 BOSTON, Mass. – Today, the Human Rights Campaign (HRC) and the Planned Parenthood Action Fund announced their endorsements of Senator Ed Markey for re-election to the Senate.
+The dual national… Daily Hampshire Gazette: ‘A champion who shows up’: Sen.
+Markey secures endorsements from western Mass leaders March 24th, 2026 By: Sam Ferland HAMPSHIRE - Eight local officials, including Northampton Mayor Gina-Louise Sciarra and Easthampton Mayor Salem Derby, have endorsed U.S.
 Sen.
 Ed Markey for reelection to the U.S.
-Senate,…
-BOSTON, Mass. – The American Postal Workers Union Massachusetts Executive Board and the Boston Metro APWU Local 100 announced its endorsement of Senator Ed Markey for re-election.
-The APWU is…
-The Berkshire Eagle: North Adams, Pittsfield mayors endorse Ed Markey in Senate primary race
-March 13th, 2026
-By: Tara Monastesse Berkshire — As midterm election season heats up in Massachusetts, the leaders ofBerkshire County’s two cities are sticking with what they know.
-Pittsfield Mayor Peter Marchetti and North…
-‘Markey has our back’ Statewide Machinists Union Endorse Senator Ed Markey for Re-Election
-March 12th, 2026
-BOSTON – The International Association of Machinists and Aerospace Workers (IAM) State Council, representing 10,000 unionized workers across Massachusetts, today announced their endorsement of Senator Ed Markey for re-election.
-“The…
-Senator Markey Earns Backing of Largest Flight Attendants Union
-March 4th, 2026
-BOSTON, Mass. – Today, the Association of Flight Attendants-CWA, AFL-CIO (AFA-CWA), the largest flight attendant union in the world, announced its endorsement of Senator Ed Markey for re-election.
-The AFA’s…
-Boston Globe: Ayanna Pressley endorses Ed Markey for reelection
-March 2nd, 2026
-By Anjali Huynh BOSTON — US Representative Ayanna Pressley, who once seriously weighed running against US Senator Ed Markey for his seat this year, is now endorsing the Democrat’s re-election bid amid a primary challenge…
-Dorchester Reporter: Markey notches endorsements from a flurry of Boston elected officials
-February, 25th 2026
-By Reporter Staff BOSTON — Senator Ed Markey today announced a flurry of endorsements, including 12 of the 13 members of the Boston City Council, several state lawmakers from Boston,…
-Boston Globe: Boston Mayor Michelle Wu endorses Ed Markey
-February, 23rd 2026
-By Anjali Huynh BOSTON —US Senator Ed Markey twice backed Michelle Wu’s mayoral campaigns, including his fellow progressive Democrat’s reelection bid last year against an underdog opponent who ran to her right.
-Now, Wu…
-North Atlantic States Regional Council of Carpenters Endorses Ed Markey for U.S.
-Senate
-February 18th, 2026
-BOSTON, Mass. — The North Atlantic States Regional Council of Carpenters (NASRCC), representing more than 30,000 active and retired carpenters, pile drivers, millwrights, floor coverers, and shop workers across New England and…
-Athol Daily News: Markey introduces ICE Out of Our Faces Act
-February, 8th 2026
-By KATIE CASTELLANI BOSTON — Sweeping data privacy and immigration reforms are percolating on Beacon Hill, and U.S.
+Senate,… Massachusetts Postal Workers Executive Board endorses Ed Markey for Senate March 17th, 2026 BOSTON, Mass. – The American Postal Workers Union Massachusetts Executive Board and the Boston Metro APWU Local 100 announced its endorsement of Senator Ed Markey for re-election.
+The APWU is… The Berkshire Eagle: North Adams, Pittsfield mayors endorse Ed Markey in Senate primary race March 13th, 2026 By: Tara Monastesse Berkshire — As midterm election season heats up in Massachusetts, the leaders ofBerkshire County’s two cities are sticking with what they know.
+Pittsfield Mayor Peter Marchetti and North… ‘Markey has our back’ Statewide Machinists Union Endorse Senator Ed Markey for Re-Election March 12th, 2026 BOSTON – The International Association of Machinists and Aerospace Workers (IAM) State Council, representing 10,000 unionized workers across Massachusetts, today announced their endorsement of Senator Ed Markey for re-election.
+“The… Senator Markey Earns Backing of Largest Flight Attendants Union March 4th, 2026 BOSTON, Mass. – Today, the Association of Flight Attendants-CWA, AFL-CIO (AFA-CWA), the largest flight attendant union in the world, announced its endorsement of Senator Ed Markey for re-election.
+The AFA’s… Boston Globe: Ayanna Pressley endorses Ed Markey for reelection March 2nd, 2026 By Anjali Huynh BOSTON — US Representative Ayanna Pressley, who once seriously weighed running against US Senator Ed Markey for his seat this year, is now endorsing the Democrat’s re-election bid amid a primary challenge… Dorchester Reporter: Markey notches endorsements from a flurry of Boston elected officials February, 25th 2026 By Reporter Staff BOSTON — Senator Ed Markey today announced a flurry of endorsements, including 12 of the 13 members of the Boston City Council, several state lawmakers from Boston,… Boston Globe: Boston Mayor Michelle Wu endorses Ed Markey February, 23rd 2026 By Anjali Huynh BOSTON —US Senator Ed Markey twice backed Michelle Wu’s mayoral campaigns, including his fellow progressive Democrat’s reelection bid last year against an underdog opponent who ran to her right.
+Now, Wu… North Atlantic States Regional Council of Carpenters Endorses Ed Markey for U.S.
+Senate February 18th, 2026 BOSTON, Mass. — The North Atlantic States Regional Council of Carpenters (NASRCC), representing more than 30,000 active and retired carpenters, pile drivers, millwrights, floor coverers, and shop workers across New England and… Athol Daily News: Markey introduces ICE Out of Our Faces Act February, 8th 2026 By KATIE CASTELLANI BOSTON — Sweeping data privacy and immigration reforms are percolating on Beacon Hill, and U.S.
 Sen.
 Ed Markey targeted both in a new bill.
-On Wednesday, Markey…
-Teamsters Brotherhood of Locomotive Engineers and Trainmen Endorses Senator Ed Markey for Re-Election
-February 2nd 2026
-BOSTON — The Ed Markey for Senate campaign today announced the endorsement of the Brotherhood of Locomotive Engineers and Trainmen (BLET), the Teamsters union representing the railroad workers who keep…
-Truthout: Senator Calls to Abolish ICE, Says Voting to Fund DHS Supports “Murder”
-January, 29th 2025
-By Sharon Zhang Sen.
-Ed Markey (D-Massachusetts) has come out swinging in favor of abolishing ICE and blocking funding for the Department of Homeland Security (DHS), demanding that Democrats use…
-UNITED HERE Local 26: Hotel and Food Workers Union Endorses Senator Ed Markey for Re-Election
-January 20th, 2026
-Boston, MA – The Boston-area hospitality and food service workers union, UNITE HERE Local 26, today announced their endorsement of Ed Markey.
-The 12,000-member union is one of the most…
-Teamsters Local 122 Endorses Senator Ed Markey for Re-Election
-January 15th, 2026
-Boston, MA – Teamsters Local 122 is proud to announce our endorsement of Ed Markey for re-election to the United States Senate.
+On Wednesday, Markey… Teamsters Brotherhood of Locomotive Engineers and Trainmen Endorses Senator Ed Markey for Re-Election February 2nd 2026 BOSTON — The Ed Markey for Senate campaign today announced the endorsement of the Brotherhood of Locomotive Engineers and Trainmen (BLET), the Teamsters union representing the railroad workers who keep… Truthout: Senator Calls to Abolish ICE, Says Voting to Fund DHS Supports “Murder” January, 29th 2025 By Sharon Zhang Sen.
+Ed Markey (D-Massachusetts) has come out swinging in favor of abolishing ICE and blocking funding for the Department of Homeland Security (DHS), demanding that Democrats use… UNITED HERE Local 26: Hotel and Food Workers Union Endorses Senator Ed Markey for Re-Election January 20th, 2026 Boston, MA – The Boston-area hospitality and food service workers union, UNITE HERE Local 26, today announced their endorsement of Ed Markey.
+The 12,000-member union is one of the most… Teamsters Local 122 Endorses Senator Ed Markey for Re-Election January 15th, 2026 Boston, MA – Teamsters Local 122 is proud to announce our endorsement of Ed Markey for re-election to the United States Senate.
 Throughout his time in officeSen.
-Markey has been…
-Newsweek: Kristi Noem Impeachment Ramps Up as Senator Markey Backs Effort
-January, 15th 2025
-By Jason Lemon WASHINGTON — Senator Ed Markey, a Massachusetts Democrat, has come out in favor of impeaching Department of Homeland Security (DHS) Secretary Kristi Noem, after a group of…
-MSNOW: Sen.
-Markey tells Chris Hayes “No Blank Check for DHS.”
-January, 14th 2026
-Senator Ed Markey joins Chris Hayes to discuss his growing concerns around ICE abuses, the need to end qualified immunity of ICE officers, and accountability for federal law enforcement.
-Markey…
-Boston Globe: In wake of ICE shooting, Markey and Pressley introduce bill to end federal law enforcement immunity
-January, 13th 2026
-By Julian E.J.
-Sorapuru WASHINGTON — Senator Ed Markey and Representative Ayanna Pressley today introduced a bill that would eliminate a legal principle that protects federal government employees, including law enforcement, from civil liability…
-BOSTON, Mass. – Today, Service Employees International Union (SEIU) local unions in Massachusetts, comprising 115,000 unionized members, announced its endorsement of Ed Markey for re-election to the Senate, backing a proven champion for working people and union…
-Boston Globe: Mass.
-Teachers Association endorses Senator Ed Markey for re-election
-January, 8th 2025
-By James Vaznis US Senator Ed Markey is locking up the support of the state’s teacher unions as he fends off a challenge for re-election from US Representative Seth Moulton.
-The Massachusetts…
-MA Politico Playbook: College Democrats of MA Endorse Markey
-January, 5th, 2026
-By KELLY GARRITY FIRST IN PLAYBOOK — Rep.
+Markey has been… Newsweek: Kristi Noem Impeachment Ramps Up as Senator Markey Backs Effort January, 15th 2025 By Jason Lemon WASHINGTON — Senator Ed Markey, a Massachusetts Democrat, has come out in favor of impeaching Department of Homeland Security (DHS) Secretary Kristi Noem, after a group of… MSNOW: Sen.
+Markey tells Chris Hayes “No Blank Check for DHS.” January, 14th 2026 Senator Ed Markey joins Chris Hayes to discuss his growing concerns around ICE abuses, the need to end qualified immunity of ICE officers, and accountability for federal law enforcement.
+Markey… Boston Globe: In wake of ICE shooting, Markey and Pressley introduce bill to end federal law enforcement immunity January, 13th 2026 By Julian E.J.
+Sorapuru WASHINGTON — Senator Ed Markey and Representative Ayanna Pressley today introduced a bill that would eliminate a legal principle that protects federal government employees, including law enforcement, from civil liability… SEIU Locals 1199, 32BJ, CIR/SEIU, 888, and 509 endorse Ed Markey for U.S.
+Senate January 12th, 2025 BOSTON, Mass. – Today, Service Employees International Union (SEIU) local unions in Massachusetts, comprising 115,000 unionized members, announced its endorsement of Ed Markey for re-election to the Senate, backing a proven champion for working people and union… Boston Globe: Mass.
+Teachers Association endorses Senator Ed Markey for re-election January, 8th 2025 By James Vaznis US Senator Ed Markey is locking up the support of the state’s teacher unions as he fends off a challenge for re-election from US Representative Seth Moulton.
+The Massachusetts… MA Politico Playbook: College Democrats of MA Endorse Markey January, 5th, 2026 By KELLY GARRITY FIRST IN PLAYBOOK — Rep.
 Seth Moulton is running for Senate on a call for generational change.
 Some members of the next generation aren’t buying it.
-Members of the…
-American Federation of Teachers Massachusetts Endorse Senator Ed Markey for Re-Election
-December 11th, 2025
-BOSTON — The American Federation of Teachers Massachusetts, which represents teachers, paraprofessionals, librarians, nurses, and support staff in public schools, colleges, and libraries across the Commonwealth, today announced its endorsement…
-Ken Burns Endorses Senator Ed Markey for Re-Election
-December 9th, 2025
-BOSTON — Award-winning documentary filmmaker Ken Burns has endorsed U.S.
-Senator Ed Markey for the 2026 reelection, delivering a forceful and urgent message about the future of American democracy.…
-Professional Fire Fighters of Massachusetts Endorse Senator Ed Markey for Re-Election
-November 24th, 2025
-BOSTON —The Markey campaign today announced the endorsement of the Professional Fire Fighters of Massachusetts (PFFM), representing more than 13,000 firefighters, EMTs, and paramedics across the Commonwealth.
-This endorsement follows…
-Markey Endorsed by United Food & Commercial Workers Massachusetts
-November 5th, 2025
-BOSTON – Representing more than 30,000 members throughout the Commonwealth, the United Food & Commercial Workers (UFCW) Massachusetts — Locals 328, 791, 1445, and 1459 — are enthusiastically endorsing Senator Ed Markey for re-election.
-The UFCW…
-Senator Markey Endorsed by NAGE/SEIU Local 5000 for Re-Election
-November 3rd, 2025
-BOSTON — The National Association of Government Employees NAGE/SEIU Local 5000 has announced its endorsement of Senator Ed Markey for re-election.
-For decades, Senator Markey fought alongside NAGE and its workers to repeal…
-MA Politico Playbook: Trans rights group backs Markey
-October, 30th, 2025
-By KELLY GARRITY NEW THIS MORNING — A nonprofit focused on building support for transgender rights in Congress is wading into Massachusetts’ Democratic Senate primary.
-The Christopher Street Project, a hybrid PAC and…
-MassLive: Markey, Pressley slam GOP for looming SNAP cuts that could hit 1.1M in Mass.
-October, 29th, 2025
-By John L.
-Micek | jmicek@masslive.com Two Massachusetts lawmakers tore into congressional Republicans on Friday, saying they’d be entirely to blame if food assistance for the poorest and most vulnerable…
-BOSTON, MA — The New England Joint Board of UNITE HERE has announced its endorsement of Senator Ed Markey for re-election, citing his commitment to the rights and dignity of working people and years of…
-Attorney General Andrea Campbell Endorses Senator Ed Markey for Re-Election
-October 23rd, 2025
-BOSTON — Massachusetts Attorney General Andrea Campbell today announced her endorsement of Senator Ed Markey for re-election, citing his steadfast leadership on climate action, reproductive rights, and economic justice…
-Ed Markey Secures Dozens of Endorsements for Reelection from Greater Boston
-October 11th, 2025
-BOSTON — Representing the communities of Arlington, Ashland, Bedford, Belmont, Boston, Cambridge, Carlisle, Chelmsford, Chelsea, Concord, Everett, Framingham, Lexington, Lincoln, Malden, Marlborough, Medford, Methuen, Natick, Revere, Saugus, Somerville, Sudbury, Waltham,…
-MSNBC: Ed Markey says GOP Is looting the health care system’ in the U.S
-October, 10th 2025
-WASHINGTON, D.C — It is day nine of the government shutdown and Democrats and Republicans continue to blame one another for failing to reach a deal.
+Members of the… American Federation of Teachers Massachusetts Endorse Senator Ed Markey for Re-Election December 11th, 2025 BOSTON — The American Federation of Teachers Massachusetts, which represents teachers, paraprofessionals, librarians, nurses, and support staff in public schools, colleges, and libraries across the Commonwealth, today announced its endorsement… Ken Burns Endorses Senator Ed Markey for Re-Election December 9th, 2025 BOSTON — Award-winning documentary filmmaker Ken Burns has endorsed U.S.
+Senator Ed Markey for the 2026 reelection, delivering a forceful and urgent message about the future of American democracy.… Professional Fire Fighters of Massachusetts Endorse Senator Ed Markey for Re-Election November 24th, 2025 BOSTON —The Markey campaign today announced the endorsement of the Professional Fire Fighters of Massachusetts (PFFM), representing more than 13,000 firefighters, EMTs, and paramedics across the Commonwealth.
+This endorsement follows… Markey Endorsed by United Food & Commercial Workers Massachusetts November 5th, 2025 BOSTON – Representing more than 30,000 members throughout the Commonwealth, the United Food & Commercial Workers (UFCW) Massachusetts — Locals 328, 791, 1445, and 1459 — are enthusiastically endorsing Senator Ed Markey for re-election.
+The UFCW… Senator Markey Endorsed by NAGE/SEIU Local 5000 for Re-Election November 3rd, 2025 BOSTON — The National Association of Government Employees NAGE/SEIU Local 5000 has announced its endorsement of Senator Ed Markey for re-election.
+For decades, Senator Markey fought alongside NAGE and its workers to repeal… MA Politico Playbook: Trans rights group backs Markey October, 30th, 2025 By KELLY GARRITY NEW THIS MORNING — A nonprofit focused on building support for transgender rights in Congress is wading into Massachusetts’ Democratic Senate primary.
+The Christopher Street Project, a hybrid PAC and… MassLive: Markey, Pressley slam GOP for looming SNAP cuts that could hit 1.1M in Mass.
+October, 29th, 2025 By John L.
+Micek | jmicek@masslive.com Two Massachusetts lawmakers tore into congressional Republicans on Friday, saying they’d be entirely to blame if food assistance for the poorest and most vulnerable… New England Joint Board of UNITE HERE Endorses Senator Ed Markey for Re-Election October 24th, 2025 BOSTON, MA — The New England Joint Board of UNITE HERE has announced its endorsement of Senator Ed Markey for re-election, citing his commitment to the rights and dignity of working people and years of… Attorney General Andrea Campbell Endorses Senator Ed Markey for Re-Election October 23rd, 2025 BOSTON — Massachusetts Attorney General Andrea Campbell today announced her endorsement of Senator Ed Markey for re-election, citing his steadfast leadership on climate action, reproductive rights, and economic justice… Ed Markey Secures Dozens of Endorsements for Reelection from Greater Boston October 11th, 2025 BOSTON — Representing the communities of Arlington, Ashland, Bedford, Belmont, Boston, Cambridge, Carlisle, Chelmsford, Chelsea, Concord, Everett, Framingham, Lexington, Lincoln, Malden, Marlborough, Medford, Methuen, Natick, Revere, Saugus, Somerville, Sudbury, Waltham,… MSNBC: Ed Markey says GOP Is looting the health care system’ in the U.S October, 10th 2025 WASHINGTON, D.C — It is day nine of the government shutdown and Democrats and Republicans continue to blame one another for failing to reach a deal.
 Sen.
-Edward Markey…
-AFSCME Council 93 Endorses Ed Markey for Senate
-September 26th, 2025
-BOSTON – Endorsed by a unanimous vote of the AFSCME Council 93 Executive Board, the Markey for Senate campaign today announced the endorsement of AFSCME Council 93, which represents more…
-State and Regional Leaders from 8th Congressional District Support Ed Markey for Reelection
-September 22nd, 2025
-BOSTON— Two dozen state and regional legislators and leaders from the Eighth Congressional District representing the communities of Abington, Avon, Boston, Braintree, Bridgewater, Brockton, Canton, Cohasset, Dedham, Easton, East Bridgewater, Halifax,…
-Congresswoman Katherine Clark Endorses Ed Markey for Reelection
-September 11th, 2025
-BOSTON — Congresswoman Katherine Clark (MA-05), Minority Whip of the U.S.
-House of Representatives, today endorsed Senator Ed Markey for re-election in a new video in which she highlights his…
-Boston Globe: Markey demands RFK Jr.’s resignation following combative senate testimony
-September, 5th 2025
-Boston — Senator Edward J.
+Edward Markey… AFSCME Council 93 Endorses Ed Markey for Senate September 26th, 2025 BOSTON – Endorsed by a unanimous vote of the AFSCME Council 93 Executive Board, the Markey for Senate campaign today announced the endorsement of AFSCME Council 93, which represents more… State and Regional Leaders from 8th Congressional District Support Ed Markey for Reelection September 22nd, 2025 BOSTON— Two dozen state and regional legislators and leaders from the Eighth Congressional District representing the communities of Abington, Avon, Boston, Braintree, Bridgewater, Brockton, Canton, Cohasset, Dedham, Easton, East Bridgewater, Halifax,… Congresswoman Katherine Clark Endorses Ed Markey for Reelection September 11th, 2025 BOSTON — Congresswoman Katherine Clark (MA-05), Minority Whip of the U.S.
+House of Representatives, today endorsed Senator Ed Markey for re-election in a new video in which she highlights his… Boston Globe: Markey demands RFK Jr.’s resignation following combative senate testimony September, 5th 2025 Boston — Senator Edward J.
 Markey on Friday demanded that Health and Human Services Secretary Robert F.
-Kennedy Jr. resign following his combative Senate testimony a day earlier, in which Kennedy parried criticism and…
-MSNBC: Ed Markey gives dire warning on RFK Jr.’s leadership
-September, 4th 2025
-WASHINGTON, D.C — Before a tense hearing on Capitol Hill, several Democratic senators asked for HHS Secretary Robert F.
-Kennedy Jr. to resign, citing concerns over access to vaccines,…
-Markey Garners Endorsements of Rep.
-Bill Keating, 9th Congressional District Leaders
-August 22nd, 2025
-BOSTON — Congressman Bill Keating, alongside 26 current and former state, regional, and local leaders from the Ninth Congressional District, including the South Shore, South Coast, and Cape Cod and Islands,…
-CBS News: Massachusetts lawmakers introduce federal legislation based on Boston's fare-free transportation
-August 19th, 2025
-BOSTON — Senator Ed Markey and Congresswoman Ayanna Pressley introduced federal legislation to expand transit equity.
-View Source
-Ed Markey Secures Endorsements from North of Boston Leaders
-August 13th, 2025
-BOSTON— The Ed Markey for Senate reelection campaign is proud to announce the endorsements of 24 state and local leaders from the communities North of Boston, including Andover, Bedford, Danvers,…
-MassLive: Markey slams Trump over solar program
-August 11th, 2025
-You can count U.S.
+Kennedy Jr. resign following his combative Senate testimony a day earlier, in which Kennedy parried criticism and… MSNBC: Ed Markey gives dire warning on RFK Jr.’s leadership September, 4th 2025 WASHINGTON, D.C — Before a tense hearing on Capitol Hill, several Democratic senators asked for HHS Secretary Robert F.
+Kennedy Jr. to resign, citing concerns over access to vaccines,… Markey Garners Endorsements of Rep.
+Bill Keating, 9th Congressional District Leaders August 22nd, 2025 BOSTON — Congressman Bill Keating, alongside 26 current and former state, regional, and local leaders from the Ninth Congressional District, including the South Shore, South Coast, and Cape Cod and Islands,… CBS News: Massachusetts lawmakers introduce federal legislation based on Boston's fare-free transportation August 19th, 2025 BOSTON — Senator Ed Markey and Congresswoman Ayanna Pressley introduced federal legislation to expand transit equity.
+View Source Ed Markey Secures Endorsements from North of Boston Leaders August 13th, 2025 BOSTON— The Ed Markey for Senate reelection campaign is proud to announce the endorsements of 24 state and local leaders from the communities North of Boston, including Andover, Bedford, Danvers,… MassLive: Markey slams Trump over solar program August 11th, 2025 You can count U.S.
 Sen.
-Ed Markey, D-Mass., among the chorus of Bay State pols who are less than thrilled over the Trump administration’s decision to cancel a $7 billion…
-BOSTON— Highlighting his commitment to the working families of Central Massachusetts, Congressman Jim McGovern (MA-02) today endorsed Ed Markey for reelection to the U.S.
+Ed Markey, D-Mass., among the chorus of Bay State pols who are less than thrilled over the Trump administration’s decision to cancel a $7 billion… Congressman Jim McGovern Endorses Senator Ed Markey for Reelection July 31ST, 2025 BOSTON— Highlighting his commitment to the working families of Central Massachusetts, Congressman Jim McGovern (MA-02) today endorsed Ed Markey for reelection to the U.S.
 Senate.
-The Massachusetts legislators, who served…
-Boston Leaders Come Out in Support of Ed Markey for Reelection
-July 25th, 2025
-BOSTON— State legislators from throughout Boston are throwing their support behind Senator Ed Markey’s reelection to the U.S.
+The Massachusetts legislators, who served… Boston Leaders Come Out in Support of Ed Markey for Reelection July 25th, 2025 BOSTON— State legislators from throughout Boston are throwing their support behind Senator Ed Markey’s reelection to the U.S.
 Senate.
-Today’s announcement follows a series of dozens of endorsements representing major…
-Rep.
-Lori Trahan, with 3rd District State and Local Leaders, Endorses Ed Markey for Reelection
-July 16th, 2025
-BOSTON — Expanding the list of supporters and endorsements across Massachusetts, Congresswoman Lori Trahan and 24 current and former state, regional, and local leaders from the Third Congressional…
-Rep.
-Richard Neal, State Legislators, and Regional and Local Leaders from 1st Congressional District Support Ed Markey for Reelection
-July 8th, 2025
-BOSTON— Congressman Richard Neal, dean of the Massachusetts delegation and top Democrat on the House Ways and Means Committee, alongside 26 current and former state, regional, and local leaders from…
-From Newton to Fall River, 28 Local, Regional, and State Leaders Endorse Ed Markey for Reelection
-July 1, 2025
-BOSTON— Representing leadership from local, regional, and state government from Acushnet, Attleboro, Boston, Brookline, Dover, Fall River, Franklin, Freetown, Holliston, Hopkinton, Lakeville, Mansfield, Medfield, Medway, Millis, Needham, New Bedford, North…
-BOSTON—Today in a video announcement saying, “Ed Markey always stands with the members of the IBEW, especially when it comes to good jobs with good wages and good benefits,” International…
-VIDEO: Elizabeth Warren Endorses Ed Markey for Re-Election
-June 25th, 2025
-BOSTON—Senator Elizabeth Warren, Massachusetts senior senator and Congress’s leading champion for working families and corporate accountability, endorsed her partner in the Senate-Ed Markey-today in a video announcement saying: “He stands up…
-BOSTON — Senator Ed Markey today announced that Cam Charbonnier will be managing his reelection campaign for the U.S.
+Today’s announcement follows a series of dozens of endorsements representing major… Rep.
+Lori Trahan, with 3rd District State and Local Leaders, Endorses Ed Markey for Reelection July 16th, 2025 BOSTON — Expanding the list of supporters and endorsements across Massachusetts, Congresswoman Lori Trahan and 24 current and former state, regional, and local leaders from the Third Congressional… Rep.
+Richard Neal, State Legislators, and Regional and Local Leaders from 1st Congressional District Support Ed Markey for Reelection July 8th, 2025 BOSTON— Congressman Richard Neal, dean of the Massachusetts delegation and top Democrat on the House Ways and Means Committee, alongside 26 current and former state, regional, and local leaders from… From Newton to Fall River, 28 Local, Regional, and State Leaders Endorse Ed Markey for Reelection July 1, 2025 BOSTON— Representing leadership from local, regional, and state government from Acushnet, Attleboro, Boston, Brookline, Dover, Fall River, Franklin, Freetown, Holliston, Hopkinton, Lakeville, Mansfield, Medfield, Medway, Millis, Needham, New Bedford, North… VIDEO: IBEW Local 103 Endorses Ed Markey for Reelection to U.S.
+Senate June 26th, 2025 BOSTON—Today in a video announcement saying, “Ed Markey always stands with the members of the IBEW, especially when it comes to good jobs with good wages and good benefits,” International… VIDEO: Elizabeth Warren Endorses Ed Markey for Re-Election June 25th, 2025 BOSTON—Senator Elizabeth Warren, Massachusetts senior senator and Congress’s leading champion for working families and corporate accountability, endorsed her partner in the Senate-Ed Markey-today in a video announcement saying: “He stands up… Cam Charbonnier to Lead Ed Markey for U.S.
+Senate Reelection as Campaign Manager July 22, 2025 BOSTON — Senator Ed Markey today announced that Cam Charbonnier will be managing his reelection campaign for the U.S.
 Senate.
-Charbonnier is a Boston-based Democratic strategist with more than a…
-Boston Globe: Trump and the GOP are attacking Black history.
+Charbonnier is a Boston-based Democratic strategist with more than a… Boston Globe: Trump and the GOP are attacking Black history.
 So, why has there been no movement to repeal Juneteenth?
-June 19th, 2025
-Four years ago this week, the US government created its first new federal holiday in nearly four decades.
-Juneteenth National Independence Day, commemorating the emancipation of enslaved Black Americans, was…
-Announced with characteristic bravado and little grounding in reality, President Donald Trump’s so-called "Golden Dome for America" is the latest reincarnation of President Ronald Reagan’s “Star Wars” fantasy: a constellation…
-CBS News: Medicaid cuts could devastate hundreds of rural hospitals in GOP states, Democrats say
-June 12th, 2025
-Cuts to federal spending on Medicaid could affect hundreds of rural hospitals in many states that have elected Republican senators and voted for President Trump, Senate Democrats warned Thursday, citing…
-Boston Globe: At Cambridge toy store, Markey blasts Trump for ‘toying with our economy’ with tariffs
-A local toy chain and a Mass.-based manufacturer say steep tariffs on China could devastate their business
-May 16th, 2025
-On its second day in a new storefront on Massachusetts Avenue, the Porter Square outpost of toy store Henry Bear’s Park opened its doors to a different conversation than the…
-MSNBC: ‘Make America Sick Again’: Sen.
-Markey slams RFK Jr. and Trump’s health agenda
-May 14th, 2025
-Sen.
+June 19th, 2025 Four years ago this week, the US government created its first new federal holiday in nearly four decades.
+Juneteenth National Independence Day, commemorating the emancipation of enslaved Black Americans, was… TIME Magazine: Senator Markey: Trump’s ‘Golden Dome’ is Fool’s Gold June 18th, 2025 Announced with characteristic bravado and little grounding in reality, President Donald Trump’s so-called "Golden Dome for America" is the latest reincarnation of President Ronald Reagan’s “Star Wars” fantasy: a constellation… CBS News: Medicaid cuts could devastate hundreds of rural hospitals in GOP states, Democrats say June 12th, 2025 Cuts to federal spending on Medicaid could affect hundreds of rural hospitals in many states that have elected Republican senators and voted for President Trump, Senate Democrats warned Thursday, citing… Boston Globe: At Cambridge toy store, Markey blasts Trump for ‘toying with our economy’ with tariffs A local toy chain and a Mass.-based manufacturer say steep tariffs on China could devastate their business May 16th, 2025 On its second day in a new storefront on Massachusetts Avenue, the Porter Square outpost of toy store Henry Bear’s Park opened its doors to a different conversation than the… MSNBC: ‘Make America Sick Again’: Sen.
+Markey slams RFK Jr. and Trump’s health agenda May 14th, 2025 Sen.
 Ed Markey (D-MA) joins Chris Jansing ahead of the Senate HELP Committee questioning Health and Human Services Secretary Robert F.
-Kennedy Jr. on his budget cuts and measles response.…
-Boston Globe: One year after Steward bankruptcy, Warren, Markey demand criminal probe
-Senators are pushing the Justice Department to investigate Steward CEO Ralph de la Torre for contempt of Congress
-May 6th, 2025
-One year after Steward Health Care filed for bankruptcy protection, Massachusetts lawmakers are renewing calls for the Justice Department to take action against the company’s chief executive, Dr.
-Ralph de…
-The New York Times: We Visited Rumeysa Ozturk in Detention.
+Kennedy Jr. on his budget cuts and measles response.… Boston Globe: One year after Steward bankruptcy, Warren, Markey demand criminal probe Senators are pushing the Justice Department to investigate Steward CEO Ralph de la Torre for contempt of Congress May 6th, 2025 One year after Steward Health Care filed for bankruptcy protection, Massachusetts lawmakers are renewing calls for the Justice Department to take action against the company’s chief executive, Dr.
+Ralph de… The New York Times: We Visited Rumeysa Ozturk in Detention.
 What We Saw Was a Warning to Us All.
-April 25th, 2025
-A young woman walked casually down a public street only to find herself suddenly surrounded by masked law enforcement officers in plain clothes.
-Without explanation — and in the absence…
-Commonwealth Beacon Opinion: Energy prices are soaring in Massachusetts.
+April 25th, 2025 A young woman walked casually down a public street only to find herself suddenly surrounded by masked law enforcement officers in plain clothes.
+Without explanation — and in the absence… Commonwealth Beacon Opinion: Energy prices are soaring in Massachusetts.
 Trump’s tariffs are making it worse.
-White House moves are hindering state efforts to combat climate change in the process
-February 10th, 2025
-Massachusetts families are facing skyrocketing energy bills, and the Trump administration’s reckless energy and trade policies are making it worse.
-Already, some Bay Staters are paying double what they did…
-Boston Globe Opinion: Elon Musk’s place in the Constitution
-Article 3.5, a never-before-used provision with unlimited authority to remake our constitutional order with Musk as the unelected and unaccountable leader.
-February 14th, 2025
-Textbooks teach students about the three branches of our federal government, created in the US Constitution as separate articles defining the powers of each.
+White House moves are hindering state efforts to combat climate change in the process February 10th, 2025 Massachusetts families are facing skyrocketing energy bills, and the Trump administration’s reckless energy and trade policies are making it worse.
+Already, some Bay Staters are paying double what they did… Boston Globe Opinion: Elon Musk’s place in the Constitution Article 3.5, a never-before-used provision with unlimited authority to remake our constitutional order with Musk as the unelected and unaccountable leader.
+February 14th, 2025 Textbooks teach students about the three branches of our federal government, created in the US Constitution as separate articles defining the powers of each.
 Article I is Congress.
-Article II…
-Boston Globe: Trump’s freeze on $316m for Mass. climate efforts is ‘unconstitutional,’ Markey says
-Despite court orders: “Right now, we cannot access those funds,” one nonprofit leader said.
-February 7th, 2025
-Hundreds of millions of dollars allocated to Massachusetts’ clean energy and environmental programs remains inaccessible due to the Trump administration’s federal funding freeze, Senator Ed Markey said during a Friday…
+Article II… Boston Globe: Trump’s freeze on $316m for Mass. climate efforts is ‘unconstitutional,’ Markey says Despite court orders: “Right now, we cannot access those funds,” one nonprofit leader said.
+February 7th, 2025 Hundreds of millions of dollars allocated to Massachusetts’ clean energy and environmental programs remains inaccessible due to the Trump administration’s federal funding freeze, Senator Ed Markey said during a Friday… Store Privacy Policy Contact Us Volunteer Paid For By The Markey Committee © # - Ed Markey.
+All Rights Reserved.
+Continue to Website

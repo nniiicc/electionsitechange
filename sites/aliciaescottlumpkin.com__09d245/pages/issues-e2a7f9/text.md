@@ -1,15 +1,5 @@
-Expanding Economic Opportunities
-District 60 deserves a thriving economy built on innovation, investment, and inclusion
-Skip navigation menu
-learn more about
-Alicia's Top Issues
-Alicia Escott Lumpkin is running to deliver real results for District 60—by expanding economic opportunity, improving healthcare access, building safer communities, and standing up for our veterans.
-Expanding Economic Opportunities
-District 60 deserves a thriving economy built on innovation, investment, and inclusion
-Protecting Access to Healthcare
-Health care is a right—not a privilege.
+Skip navigation menu Home About Issues Events Volunteer Contact Yard Sign Donate Home About Issues Events Volunteer Contact Yard Sign Donate learn more about Alicia's Top Issues Alicia Escott Lumpkin is running to deliver real results for District 60—by expanding economic opportunity, improving healthcare access, building safer communities, and standing up for our veterans.
+Expanding Economic Opportunities Protecting Access to Healthcare Building Safe, Strong Communities Supporting Veterans Affairs Expanding Economic Opportunities District 60 deserves a thriving economy built on innovation, investment, and inclusion View more Protecting Access to Healthcare Health care is a right—not a privilege.
 Every family in District 60 should have access to the care they need.
-Building Safe, Strong Communities
-Safety, justice, and representation must be at the core of our community building
-Supporting Veterans Affairs
-Veterans have sacrificed for our country and they deserve more than just thank you.
+View more Building Safe, Strong Communities Safety, justice, and representation must be at the core of our community building View more Supporting Veterans Affairs Veterans have sacrificed for our country and they deserve more than just thank you.
+View more Privacy Policy Alicia@Aliciaescottlumpkin.com Powered by RUN! website builder Paid for by the Committee to Elect Alicia Escott Lumpkin PO BOX 1993 Birmingham, AL 35201 You need to enable JavaScript to run this app.

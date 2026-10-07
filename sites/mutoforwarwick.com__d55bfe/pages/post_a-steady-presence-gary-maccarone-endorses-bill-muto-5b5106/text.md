@@ -1,6 +1,5 @@
-A steady presence: Gary Maccarone endorses Bill Muto
-Dear Neighbor,
-You're going to hear a lot about where the candidates stand on the issues between now and September 9.
+top of page for State Representative Fighting for District 23 — Every Day, For Every Family Vote in the Primary on September 9, 2026 Home About Meet the Candidate Legislative Homepage Accessibility Statement Meet the Candidate Legislative Homepage Accessibility Statement Events Community Calendar Campaign Photo Gallery Community Calendar Campaign Photo Gallery News & Press In the News Press Releases Endorsements Social Media In the News Press Releases Endorsements Social Media Get Involved Volunteer Form Contact Us Volunteer Form Contact Us Voter Information Menu Close Contribute All Posts Endorsements A steady presence: Gary Maccarone endorses Bill Muto Staff at Bill Muto for State Rep.
+Sep 2 2 min read Dear Neighbor, You're going to hear a lot about where the candidates stand on the issues between now and September 9.
 I want to answer a different question: what kind of person is Bill Muto?
 I can answer that one; I've known Bill since freshman year at Warwick Vets.
 Let me get the hard part out of the way: Bill was not the best athlete on that team.
@@ -19,9 +18,7 @@ I've watched Bill serve on the City Council, and he brings the same energy and d
 He works hard, he studies the issues, and he doesn't just point to problems; he shows up with solutions.
 I am proud to call Bill my friend.
 Vote for Bill Muto on September 9.
-Sincerely,
-Gary Maccarone
-Warwick, Rhode Island
-401-524-3984
-P.S.
+Sincerely, Gary Maccarone Warwick, Rhode Island gmaccarone@oceanstatesignal.com 401-524-3984 P.S.
 If Bill ever tells you he was a starter, ask him what position.
+Recent Posts See All Why I know Bill Muto belongs in in the State House "He never let a child fade into the background." A coaches endorsement of Bill Muto Deacon Brian Callahan: Bill Muto treats people with honesty and respect Contribute Report a Website Issue: Click Here © # Bill Muto for State Representative .
+All Rights Reserved Paid for by Friends of William Muto Privacy Policy Approved by Cooper Do Not Sell My Personal Information Home About Meet the Candidate Legislative Homepage Accessibility Statement Events Community Calendar Campaign Photo Gallery News & Press In the News Press Releases Endorsements Social Media Get Involved Volunteer Form Contact Us Voter Information bottom of page

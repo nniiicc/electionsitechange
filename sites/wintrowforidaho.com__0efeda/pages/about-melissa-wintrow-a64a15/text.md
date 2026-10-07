@@ -1,5 +1,4 @@
-About Melissa Wintrow
-Sen.
+Home 2026 Session / Take Action Legislation Legislation Community Efforts Priorities About Melissa About Melissa About District 19 Awards Contact Me Endorsements Media Resources Newsletter Videos Volunteer Request a Yard Sign DONATE About Melissa Wintrow Sen.
 Melissa Wintrow is a lifelong activist who is committed to lifting up the voices of every member of her community.
 She believes everyone deserves the opportunity to be who they are and to pursue opportunities to thrive in a safe and peaceful world.
 She will go to bat for folks not being treated fairly or with compassion.
@@ -24,3 +23,4 @@ They met for the first time in 1996 on their cross-country bicycle trip which br
 They fell in love with Boise and later each other and have happily made Idaho their home.
 Melissa earned her bachelor’s in English literature from Miami University in Ohio and her master’s degree in Higher Education from the University of Georgia.
 She also worked at Eastern Michigan University, Michigan State University, Portland State University, and Boise State University.
+Paid for by Wintrow for Idaho | Treasurer Anne Kunkel Follow Follow Follow Follow idahodems.org | idahodlcc.org

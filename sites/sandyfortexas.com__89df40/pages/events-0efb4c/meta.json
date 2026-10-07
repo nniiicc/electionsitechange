@@ -1,7 +1,12 @@
 {
  "description": "Sandy Ibanez Campaign Events",
  "final_url": "https://sandyfortexas.com/events",
+ "fingerprint": "1f930049eee135b6cc7ffd1ca3fedc93ef205082",
+ "format": 3,
  "paid_for_by": "PAID FOR BY THE SANDY IBANEZ CAMPAIGN Powered by CampaignPartner",
  "title": "Sandy Ibanez Campaign Updates",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026",
+  "2027"
+ ]
 }

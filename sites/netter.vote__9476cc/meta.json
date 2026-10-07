@@ -1,7 +1,11 @@
 {
  "description": "Official campaign website for Mike Netter for California State Senate 22 nd District",
  "final_url": "https://netter.vote/home",
- "paid_for_by": null,
+ "fingerprint": "05fc355164759a97b25a5f2c22f01de10c9db842",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mike Netter for California State Senate 22 nd District",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

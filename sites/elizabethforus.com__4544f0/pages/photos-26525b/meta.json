@@ -1,7 +1,9 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://www.elizabethforus.com/photos",
- "paid_for_by": null,
+ "fingerprint": "f465d527a8b06fcc3b26a80b8af55d130588e719",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": []
 }

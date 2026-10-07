@@ -1,20 +1,86 @@
 [
-"http://facebook.com/",
-"http://google.com/calendar/event?action=TEMPLATE&text=Full+Send+Freedom+Fest&dates=20250607T163000Z%2F20250607T173000Z",
-"http://instagram.com/",
-"http://x.com/",
-"https://facebook.com/events/1286011496303252/1286011506303251?active_tab=about",
-"https://facebook.com/events/2526005324438720?acontext=%7B%22event_action_history%22%3A%5B%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D",
-"https://fbcwaynesburg.org/",
-"https://humbleforhouse.com/",
-"https://humbleforhouse.com/cart",
-"https://humbleforhouse.com/contact",
-"https://humbleforhouse.com/events",
-"https://humbleforhouse.com/events/event-one-gd4sy",
-"https://humbleforhouse.com/events/event-one-gd4sy?format=ical",
-"https://humbleforhouse.com/issues-1",
-"https://humbleforhouse.com/meet-ben",
-"https://humbleforhouse.com/news-and-updates",
-"https://humbleforhouse.com/volunteer",
-"https://runguides.com/event/26212/battleaxe-5k"
+{
+"text": "0",
+"href": "https://www.humbleforhouse.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.humbleforhouse.com/contact"
+},
+{
+"text": "Events",
+"href": "https://www.humbleforhouse.com/events"
+},
+{
+"text": "Full Send Freedom Fest",
+"href": "https://www.humbleforhouse.com/events/event-one-gd4sy"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Full+Send+Freedom+Fest&dates=20250607T163000Z%2F20250607T173000Z"
+},
+{
+"text": "Home",
+"href": "https://www.humbleforhouse.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.humbleforhouse.com/events/event-one-gd4sy?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.humbleforhouse.com/issues-1"
+},
+{
+"text": "Learn More",
+"href": "https://www.facebook.com/events/1286011496303252/1286011506303251/?active_tab=about"
+},
+{
+"text": "Learn More",
+"href": "https://www.facebook.com/events/2526005324438720/?acontext=%7B%22event_action_history%22%3A%5B%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D"
+},
+{
+"text": "Learn More",
+"href": "https://www.fbcwaynesburg.org"
+},
+{
+"text": "Learn More",
+"href": "https://www.runguides.com/event/26212/battleaxe-5k"
+},
+{
+"text": "Meet Ben",
+"href": "https://www.humbleforhouse.com/meet-ben"
+},
+{
+"text": "News and Updates",
+"href": "https://www.humbleforhouse.com/news-and-updates"
+},
+{
+"text": "View Event →",
+"href": "https://www.humbleforhouse.com/events/event-one-gd4sy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.humbleforhouse.com/volunteer"
+},
+{
+"text": "[image: Ben Humble State Rep]",
+"href": "https://www.humbleforhouse.com/"
+},
+{
+"text": "[image: Full Send Freedom Fest]",
+"href": "https://www.humbleforhouse.com/events/event-one-gd4sy"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+}
 ]

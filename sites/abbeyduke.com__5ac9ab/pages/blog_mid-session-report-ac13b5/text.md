@@ -1,5 +1,4 @@
-Mid Session Report
-We are half-way through the legislative session!
+0 Skip to Content Home About Blog Contact Donate Open Menu Close Menu Home About Blog Contact Donate Open Menu Close Menu Home About Blog Contact Donate Mid Session Report Mar 9 Written By Abbey Duke We are half-way through the legislative session!
 The purpose of this update is to summarize the work being done right now on behalf of Vermonters in the House of Representatives.
 I am going to be posting updates weekly, about specific issues.
 And please don’t hesitate to reach out to me with comments or questions.
@@ -10,8 +9,7 @@ The committee then gathers testimony from experts, agencies, and constituents, r
 Often a bill goes to more than one committee.
 All house members are on one committee.
 I am on the Commerce and Economic Development Committee.
-Here is a mid session summary of work in each committee:
-Agriculture, Food Resiliency & Forestry Vermont is considering several bills to strengthen food and environmental protections.
+Here is a mid session summary of work in each committee: Agriculture, Food Resiliency & Forestry Vermont is considering several bills to strengthen food and environmental protections.
 H.536 requires regular testing of baby food and infant formula for heavy metals, with results made available to consumers.
 H.739 would ban paraquat, a toxic herbicide linked to Parkinson's disease that is already banned in the EU and China.
 H.537 would clarify when municipal regulations apply to farmers and residents who garden or raise small amounts of food.
@@ -60,6 +58,7 @@ To address this, AOT will begin reclaiming purchase-and-use fees previously dire
 The committee is exploring ways to shore up revenue while meeting Vermont's climate goals.
 Ways & Means The committee is managing the impact of federal tax changes, continuing work on property tax reform, and ensuring Vermont has adequate revenue for public services.
 Vermont's Earned Income Tax Credit and Child Tax Credit were expanded last year — residents may be eligible for up to $400 back (without children) or $1,000 per child under seven.
-Free tax filing help is available at TaxCreditsVT.org.
+Free tax filing help is available at TaxCreditsVT.org .
 Work continues on regional assessment districts (RADs) to ensure fair, consistent property appraisals statewide, and a higher property tax rate on second homes to reduce the burden on primary homesteads.
 The committee is also carefully evaluating which federal tax law changes Vermont should adopt or reject to protect state revenues.
+Abbey Duke Previous Previous Activists And Public Servants Donate Contact aduke@leg.state.vt.us Paid for by Abbey Duke for Vermont 82 Village Green Burlington, VT 05408 Private Policy

@@ -1,19 +1,82 @@
 [
-"https://dilorenzoforcongress.com/",
-"https://dilorenzoforcongress.com/about",
-"https://dilorenzoforcongress.com/contact",
-"https://dilorenzoforcongress.com/events",
-"https://dilorenzoforcongress.com/issues",
-"https://dilorenzoforcongress.com/news",
-"https://dilorenzoforcongress.com/privacy",
-"https://dilorenzoforcongress.com/privacy-policy",
-"https://facebook.com/profile.php?id=61581636031540",
-"https://instagram.com/dilorenzo4nh",
-"https://secure.winred.com/anthony-dilorenzo-for-congress/website-donate",
-"https://secure.winred.com/anthony-dilorenzo-for-congress/website-donate?amount=10",
-"https://secure.winred.com/anthony-dilorenzo-for-congress/website-donate?amount=100",
-"https://secure.winred.com/anthony-dilorenzo-for-congress/website-donate?amount=25",
-"https://secure.winred.com/anthony-dilorenzo-for-congress/website-donate?amount=50",
-"https://truthsocial.com/@DiLorenzo4NH",
-"https://x.com/DiLorenzo4NH"
+{
+"text": "$10",
+"href": "https://secure.winred.com/anthony-dilorenzo-for-congress/website-donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/anthony-dilorenzo-for-congress/website-donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/anthony-dilorenzo-for-congress/website-donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/anthony-dilorenzo-for-congress/website-donate?amount=50"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.winred.com/anthony-dilorenzo-for-congress/website-donate"
+},
+{
+"text": "Contact",
+"href": "https://dilorenzoforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/anthony-dilorenzo-for-congress/website-donate"
+},
+{
+"text": "Events",
+"href": "https://dilorenzoforcongress.com/events/"
+},
+{
+"text": "Issues",
+"href": "https://dilorenzoforcongress.com/issues/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://dilorenzoforcongress.com/about/"
+},
+{
+"text": "Meet Anthony",
+"href": "https://dilorenzoforcongress.com/about/"
+},
+{
+"text": "News",
+"href": "https://dilorenzoforcongress.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/anthony-dilorenzo-for-congress/website-donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://dilorenzoforcongress.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://dilorenzoforcongress.com/privacy"
+},
+{
+"text": "[image]",
+"href": "https://dilorenzoforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/@DiLorenzo4NH"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61581636031540"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dilorenzo4nh/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DiLorenzo4NH"
+}
 ]

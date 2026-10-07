@@ -1,7 +1,4 @@
-FOR OHIO
-Meet Amy
-A fighter for Ohio
-Dr.
+Skip to content Click here to read Amy's Affordability Agenda Click here to read Amy's Affordability Agenda About Meet Amy Meet David Priorities On the Issues ActON Agenda Endorsements News Store Vote About Meet Amy Meet David Priorities On the Issues ActON Agenda Endorsements News Store Vote Facebook X-twitter Instagram Youtube Tiktok Get Involved Get Involved Donate Donate Donate Donate FOR OHIO Meet Amy A fighter for Ohio Dr.
 Amy Acton grew up in Youngstown, Ohio under difficult circumstances.
 But that made Amy tough – and now, Amy is running for governor to fight for every Ohio family that’s struggling today.
 Mother.
@@ -19,8 +16,7 @@ There, she created the first-ever residency rotation in child advocacy and gaine
 Amy emerged as a community leader for children’s health as the Director of Project L.O.V.E, a partnership between Columbus area hospitals and community stakeholders focused on preventive health for Columbus-area children.
 She also joined the faculty at Ohio State University, where she became an award-winning professor of maternal and child health and global public health.
 Amy later joined the Columbus Foundation, where she led on a wide variety of community health issues, from youth homelessness to women’s health.
-Putting Ohioans First
-In 2019, Governor DeWine asked Amy to serve in his administration as the Director of the Ohio Department of Health.
+Putting Ohioans First In 2019, Governor DeWine asked Amy to serve in his administration as the Director of the Ohio Department of Health.
 Amy put partisanship aside to serve the people of Ohio.
 Amid a wide variety of issues, she worked with Republicans and Democrats throughout the state to hold the big drug companies accountable for the opioid epidemic and shape a historic settlement to fund addiction recovery programs.
 When the pandemic hit, her steady leadership and voice for common sense not only saved countless lives but also helped Ohio’s economy and schools open earlier than other states.
@@ -31,3 +27,14 @@ She also partnered with WKYC on an award-winning series called Health, Hope & He
 Now, Amy’s running for Governor because she refuses to look away from Ohioans who are struggling while politicians in Columbus cater to billionaires and corporations.
 Amy lives in Bexley, Ohio with her husband, Eric, a lifelong teacher and coach in Bexley Public Schools.
 Together they have six kids and enjoy traveling, exploring nature, and spending time with their good friends and growing family.
+Donate to Stand with Amy for Ohio $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+Join Team Amy SMS Terms: By entering your phone number and checking the box, you agree to receive periodic automated text messages about donating and voter contact.
+Msg Frequency varies.
+Msg & Data rates May apply.
+Text STOP to opt-out.
+For questions please reach out to [email protected] .
+Your mobile information will not be shared with third parties/affiliates for marketing/promotional purposes.
+To learn more about Ohioans for Amy Acton’s personal information handling practices review the Privacy Notice.
+Privacy Policy Facebook X-twitter Instagram Youtube Tiktok Donate Donate About Issues Agenda Endorsements News Store Vote Get Involved Donate by Mail: Ohioans for Amy Acton and David Pepper PO BOX 15067 Columbus, OH 43215 [email protected] • [email protected] Privacy Policy Accessibility Press Inquiry Job Openings Contact Us Paid for by Ohioans for Amy Acton and David Pepper Powered by Apollo About Meet Amy Meet David Priorities On the Issues ActON Agenda Endorsements News Store Vote Get Involved Get Involved Donate Donate Facebook X-twitter Instagram Youtube Tiktok Stand with Dr.
+Amy Acton $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Other Amount Other Amount Click on an amount to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately.

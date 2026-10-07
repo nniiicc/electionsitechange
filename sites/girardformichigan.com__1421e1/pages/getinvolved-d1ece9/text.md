@@ -1,0 +1,4 @@
+0 Skip to Content Plans That Deliver Jobs & Education Senior Tax Relief Plan About Chris Priorities Get Involved Endorsements Follow on Facebook DONATE Open Menu Close Menu Plans That Deliver Jobs & Education Senior Tax Relief Plan About Chris Priorities Get Involved Endorsements Follow on Facebook DONATE Open Menu Close Menu Folder: Plans That Deliver Back Jobs & Education Senior Tax Relief Plan About Chris Priorities Get Involved Endorsements Follow on Facebook DONATE GET INVOLVED Campaigns are won by people, not consultants.
+If you believe Bay County deserves a representative who knows this community, understands working families, and will get things done, we need you with us.
+Join the Team Get a Yard Sign DONATE $25 $50 $100 $250 $500 $1,000 DONATE Paid for by Friends of Chris Girard for State Representative, P.O.
+Box 56 Bay City, Michigan 48707 EMAIL THE CAMPAIGN Privacy Policy

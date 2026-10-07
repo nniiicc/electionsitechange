@@ -1,9 +1,12 @@
 {
  "description": "Meet Jim Boyd and learn about his personal background.",
  "final_url": "https://www.boydforflorida.com/about",
- "paid_for_by": null,
+ "fingerprint": "e290c056e6b1da6b9cbc85ee8ab1740c6de76379",
+ "format": 3,
+ "paid_for_by": "",
  "title": "ABOUT | Jim Boyd",
  "years_mentioned": [
+  "1978",
   "2010",
   "2018",
   "2020"

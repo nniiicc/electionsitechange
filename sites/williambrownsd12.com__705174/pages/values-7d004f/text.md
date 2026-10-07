@@ -1,5 +1,4 @@
-Statesmanship over Politics
-California doesn't need more politicians.
+0 Skip to Content William Brown for California's 12th Senate District (SD12) About Values Contact Donations Open Menu Close Menu William Brown for California's 12th Senate District (SD12) About Values Contact Donations Open Menu Close Menu About Values Contact Donations Statesmanship over Politics California doesn't need more politicians.
 I desire to be a statesman.
 The difference is that politicians will do whatever it takes to get a vote, while statesmen like me think about what is best for the common good.
 Sacramento is currently run on rules, regulations, and restrictions.
@@ -17,7 +16,7 @@ They should strive to reduce regulations, not add to them.
 This is not just libertarian thinking, it's common sense.
 It's the only way to restore California's promise as a land of opportunity.
 I am here for it, ready to fight for our freedoms.
-- Freedom isn't complicated.
+Defending Individual Rights Freedom isn't complicated.
 Communities thrive when people control their lives and keep more of what they earn.
 But today, in California, that basic principle feels like a distant dream.
 Every paycheck tells the same story.
@@ -26,7 +25,7 @@ Sacramento's appetite for revenue seems endless, while its ability to spend wise
 The solution isn't another program or promise.
 It returns to fundamental principles: lower taxes, fewer restrictions, and more individual choice.
 As your Libertarian candidate, I'm proposing real change, starting with those who serve our community daily.
-- Although "Free markets" are often mentioned, absolute economic freedom goes deeper.
+Protecting Economic Freedom Although "Free markets" are often mentioned, absolute economic freedom goes deeper.
 It means letting people work, create, and innovate without drowning in paperwork or begging bureaucrats for permission.
 In California, we import more oil than we pump from our ground.
 That's not just an economic problem, it's a self-inflicted wound.
@@ -36,7 +35,7 @@ Some of that imported oil comes from places with far weaker environmental standa
 This isn't about choosing between regulation and chaos.
 It's about being smart enough to tell the difference between rules that protect us and rules that protect the status quo.
 When regulations start suffocating new ideas instead of safeguarding the public, something's gone wrong.
-- Freedom isn't some abstract idea gathering dust in a philosophy book.
+Preventing Government Overreach Freedom isn't some abstract idea gathering dust in a philosophy book.
 It's what happens when people can build businesses, solve problems, and chase dreams without asking for permission slips from bureaucrats.
 Take California's AB5 law.
 Sacramento decided it knew better than workers how they should earn a living.
@@ -52,3 +51,4 @@ But too many politicians have forgotten that.
 They see a problem and immediately seek new regulations, restrictions, and ways to control how we live and work.
 We need leaders who understand that government is like seasoning, a little goes a long way, and too much ruins the dish.
 We need leaders who will fight to put choices back in your hands, where they belong.
+Libertarian Party https://ca.lp.org/

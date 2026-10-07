@@ -1,8 +1,4 @@
-MISSOURI HOUSE OF REPRESENTATIVES
-Republican State Representative
-Burt Whaley
-District 138
-Representative Burt Whaley, a Republican, proudly represents Stone and Christian Counties (District 138) in the Missouri House of Representatives.
+Home Statewide House Webpage Bio Score Cards Capital Report 2026 Legislative Session School Visits Missouri SOS Office Voter Info 2026 Ballot Measures Missouri Freedom Caucus Missouri Attorney General Burt’s MO State Website DONATE MISSOURI HOUSE OF REPRESENTATIVES Republican State Representative Burt Whaley District 138 201 West Capitol Ave | Jefferson City, MO 65101 (573) 751-3851 | Burt.Whaley@house.mo.gov Representative Burt Whaley, a Republican, proudly represents Stone and Christian Counties (District 138) in the Missouri House of Representatives.
 He was elected to his first two-year term in November 2024.
 A native Missourian, Rep.
 Whaley has dedicated his life to public service and education.
@@ -20,3 +16,4 @@ He is also a co-founder of the Stone County Missouri Republican Assembly.
 Rep.
 Whaley is happily married to his wife, Leah.
 Together, they have four children—Ashley, Sarah, Rebekah, and Jacob—and twelve grandchildren.
+Privacy Policy

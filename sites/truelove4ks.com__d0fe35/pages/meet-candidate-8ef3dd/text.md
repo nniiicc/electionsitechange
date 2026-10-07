@@ -1,7 +1,4 @@
-About Mac
-Why I'm Running
-Meet Mackenzi
-I've lived a life of service and hope to continue that as your elected Representative.
+Home Events About Mac Untitled Issues Untitled Untitled Volunteer Donate Follow us Donate Follow us Menu About Mac Why I'm Running Meet Mackenzi I've lived a life of service and hope to continue that as your elected Representative.
 Hey!
 I’m Mac!
 Hey there!
@@ -12,3 +9,7 @@ Through my undergrad degree, I worked at a restaurant and went on to work in the
 I eventually moved to clinical research where I’ve been for the past 8 years–protecting patient rights and maintaining ethical and regulatory standards.
 All this to say, I know what it means to serve.
 I’m well read on the issues with our healthcare system/Medicaid and, after running for school board last year, have a deep understanding of the importance of fully funding education/special ed and how these issues impact Kansans at a local level and in their pocketbook.
+Support Our Campaign Stay Up To Date Follow us on the campaign trail!
+First Name * Last Name Email * Phone Number How do you want to get involved?
+Knock on Doors Send Texts Make Calls Talk to Friends & Neighbors Yard Sign Sign Up Home Events About Mac Untitled Issues Untitled Untitled Volunteer Donate Follow us Accessibility Statement Untitled Contact Paid for by Truelove for Kansas, Alice Keeler, treasurer.
+Wichita, Ks Truelove for Kansas © #

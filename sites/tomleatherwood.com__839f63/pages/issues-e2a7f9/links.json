@@ -1,7 +1,30 @@
 [
-"https://tomleatherwood.com/",
-"https://tomleatherwood.com/contact",
-"https://tomleatherwood.com/contribute",
-"https://tomleatherwood.com/issues",
-"https://tomleatherwood.com/meet-tom"
+{
+"text": "Contact",
+"href": "https://tomleatherwood.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://tomleatherwood.com/contribute/"
+},
+{
+"text": "Home",
+"href": "https://tomleatherwood.com/"
+},
+{
+"text": "Issues",
+"href": "https://tomleatherwood.com/issues/"
+},
+{
+"text": "Meet Tom",
+"href": "https://tomleatherwood.com/meet-tom/"
+},
+{
+"text": "[image: Tom Leathwood]",
+"href": "https://tomleatherwood.com/"
+},
+{
+"text": "[image]",
+"href": "https://tomleatherwood.com/"
+}
 ]

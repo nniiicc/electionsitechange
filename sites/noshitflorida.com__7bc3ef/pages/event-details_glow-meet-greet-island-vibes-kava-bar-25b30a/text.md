@@ -1,7 +1,12 @@
-Sat, Sep 26
-Island Vibes Kava Bar
-Come say hi to Cindy and get some glow fac painting in a chill environment.
+top of page SUBSCRIBE HOME ABOUT CINDY NO SHIT BOLD ACTION NEWS EVENTS Menu Close DONATE Glow Meet & Greet - Island Vibes Kava Bar Sat, Sep 26 | Island Vibes Kava Bar Come say hi to Cindy and get some glow fac painting in a chill environment.
 Have some fun.
 Get ready to save democracy.
-Sep 26, 2026, 7:00 PM – 11:00 PM
-Island Vibes Kava Bar, 20351 Summerlin Rd #117, Fort Myers, FL 33908, USA
+Registration is closed See other events TIME & LOCATION Sep 26, 2026, 7:00 PM – 11:00 PM Island Vibes Kava Bar, 20351 Summerlin Rd #117, Fort Myers, FL 33908, USA SHARE THIS EVENT CINDY BANYAI Subscribe to my newsletter EMAIL * SUBMIT Yes, subscribe me to your newsletter. * Help Take Back Tally FIRST NAME * LAST NAME * EMAIL * CHOOSE YOUR TOPIC Phone Bank Canvas Host a house party Online Resistance Team Share your special talents and skills (specify below) MESSAGE SUBMIT By providing your email and/or phone number you opt-in to updates from Cindy Banyai for Florida by text and/or email.
+Unsubscribe anytime.
+No mobile information will be shared by us with third parties/affiliates for marketing/promotional purposes.
+Text messaging originator opt-in data and consent will not be shared by us with any third parties.
+Message frequency varies.
+Message & Data Rates May Apply.
+Reply HELP for help.
+Reply STOP to opt out.
+HOME ABOUT CINDY NO SHIT BOLD ACTION EVENTS NEWS Menu Close VOTE@CINDYBANYAI.COM (239) 351-5574 PO BOX 62422 FORT MYERS, FL 33906 Privacy Policy | Terms & Conditions © # Southwest Strategies Paid for and approved by Cindy Banyai , Democrat for Florida House 78 HOME ABOUT CINDY NO SHIT BOLD ACTION EVENTS NEWS bottom of page

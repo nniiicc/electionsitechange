@@ -1,9 +1,38 @@
 [
-"https://docs.google.com/forms/d/18--QJ2nDanOxK68bXRIhcQ-0PsCFSTquIztzgYoRRZA/edit?usp=drivesdk",
-"https://linncountyelections.org/lookup",
-"https://ramirezforiowa.com/",
-"https://ramirezforiowa.com/about",
-"https://ramirezforiowa.com/contact",
-"https://ramirezforiowa.com/issues",
-"https://secure.actblue.com/donate/ramirezforiowa"
+{
+"text": "About",
+"href": "https://ramirezforiowa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://ramirezforiowa.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ramirezforiowa?refcode2=ab_thanks_social_facebook"
+},
+{
+"text": "Find your polling place",
+"href": "https://www.linncountyelections.org/lookup/"
+},
+{
+"text": "Get involved with the movement",
+"href": "https://docs.google.com/forms/d/18--QJ2nDanOxK68bXRIhcQ-0PsCFSTquIztzgYoRRZA/edit?usp=drivesdk"
+},
+{
+"text": "Home",
+"href": "https://ramirezforiowa.com/"
+},
+{
+"text": "Issues",
+"href": "https://ramirezforiowa.com/issues"
+},
+{
+"text": "[image]",
+"href": "https://www.ramirezforiowa.com"
+},
+{
+"text": "angel.ramirez@legis.iowa.gov",
+"href": "mailto:angel.ramirez@legis.iowa.gov"
+}
 ]

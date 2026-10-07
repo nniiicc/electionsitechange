@@ -1,16 +1,7 @@
-A Fresh Start with New Leadership that Will Work for You!
-LaVanna Wrobley
-Candidate for Missouri State Senate District 24
-MEET LAVANNA
-LaVanna Wrobley is a small business owner, community leader, and candidate for Missouri’s 24th Senate District.
+0 Skip to Content MEET LAVANNA CORE ISSUES CONNECT DISTRICT 24 TESTIMONIALS DONATE Open Menu Close Menu MEET LAVANNA CORE ISSUES CONNECT DISTRICT 24 TESTIMONIALS DONATE Open Menu Close Menu MEET LAVANNA CORE ISSUES CONNECT DISTRICT 24 TESTIMONIALS DONATE A Fresh Start with New Leadership that Will Work for Y ou!
+LaVanna Wrobley Candidate for Missouri State Senate District 24 MEET LAVANNA LaVanna Wrobley is a small business owner, community leader, and candidate for Missouri’s 24th Senate District.
 A St.
 Louis-area wife, mother, and education advocate, she has spent her career building strategic partnerships, supporting nonprofit initiatives, and expanding opportunities for children and families.
 Through her work in business, education, and community service, LaVanna brings a strong record of leadership, service, and results to her campaign for the Missouri Senate.
-CORE ISSUES
-LaVanna Wrobley
-FOR MISSOURI STATE SENATE
-CONTACT
-To sign up to volunteer, request a yard sign, or to ask a question, submit the Connect form!
-Email LaVanna directly at:
-“I’m running for State Senator and would like to hear what issues are important to you.”
-– LaVanna Wrobley
+LEARN MORE CORE ISSUES SAFER NEIGHBORHOODS Public Safety LOWERING PROPERTY TAXES Economics ADVOCATING FOR PARENTS & CHILDREN Education CREATING OPPORTUNITIES Innovation LaVanna Wrobley FOR MISSOURI STATE SENATE DONATE CONTACT To sign up to volunteer, request a yard sign, or to ask a question, submit the Connect form!
+Email LaVanna directly at: LaVanna@WrobleyforMissouri.com “I’m running for State Senator and would like to hear what issues are important to you.” – LaVanna Wrobley Meet LaVanna Core Issues Connect Privacy QUICK LINKS CONNECT LaVanna@WrobleyforMissouri.com Service, Leadership and Giving Back. +Vote LaVanna Wrobley+ Service, Leadership and Giving Back. +Vote LaVanna Wrobley+ Service, Leadership and Giving Back. +Vote LaVanna Wrobley+ Paid for by Wrobley for Missouri, Maryann Manion, Treasurer ©# Wrobley For Missouri

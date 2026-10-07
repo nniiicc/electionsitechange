@@ -1,9 +1,38 @@
 [
-"http://facebook.com/fredatchleytn",
-"http://twitter.com/fredatchleytn",
-"http://zdstephens.com/",
-"https://fredatchley.com/",
-"https://fredatchley.com/about",
-"https://fredatchley.com/newsroom",
-"https://secure.anedot.com/fred-atchley-for-state-representative/6843e8c7-63e3-42d5-8c1b-6da990f5646c"
+{
+"text": "ABOUT",
+"href": "https://www.fredatchley.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/fred-atchley-for-state-representative/6843e8c7-63e3-42d5-8c1b-6da990f5646c"
+},
+{
+"text": "HOME",
+"href": "https://www.fredatchley.com"
+},
+{
+"text": "NEWS",
+"href": "https://www.fredatchley.com/newsroom"
+},
+{
+"text": "ZDStephens Company",
+"href": "http://zdstephens.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/fredatchleytn"
+},
+{
+"text": "[image: Fred Atchley for State Representative]",
+"href": "https://www.fredatchley.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "http://www.twitter.com/fredatchleytn"
+},
+{
+"text": "team@fredatchley.com",
+"href": "mailto:team@fredatchley.com"
+}
 ]

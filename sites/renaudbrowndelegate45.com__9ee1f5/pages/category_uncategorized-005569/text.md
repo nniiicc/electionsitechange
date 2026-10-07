@@ -1,20 +1,20 @@
-Watch our new video featuring MJ Park and dedicated volunteers at the Fall Festival in the Perry Community.
+Skip to content Renaud Brown for Delegate 2026 Running on Education, Housing, Transit and At-will repeal Home Veterans Blog Taxes Immigration Workers Restoration Medicare for All Housing Maryland Green New Deal Transportation: From Oakland to Ocean City Environment District Priorities Back Category Archives: Uncategorized Little Friends for Peace Watch our new video featuring MJ Park and dedicated volunteers at the Fall Festival in the Perry Community.
 Owen, Iris, and others share their journey volunteering with LFFP.
 Owen unveils our strong community connections, reaching far beyond DC, and our mission to take the first steps toward global peace.
-Plus, hear Iris Anderson eloquently describe the invaluable …
-Category Archives: Uncategorized
-IN PERSON AND ONLINE VIA ZOOM!
+Plus, hear Iris Anderson eloquently describe the invaluable … Continue reading “Little Friends for Peace” Posted by singer39 December 21, 2023 Posted in Uncategorized Leave a comment on Little Friends for Peace IN PERSON AND ONLINE VIA ZOOM!
 Reel and Meal Presents “Home is a Human Right: A Series on Immigration” Monday, July 17, 2023, 7 PM Arrive/Log on by 6:45 p.m., as the program starts promptly at 7p.m In Person: Please come to the New Deal Café at 113 Centerway (Roosevelt Center) in Greenbelt, MD; Come enjoy the wide-screen film projection system.
-Masks are …
-Sonia Eaddy wins decades-long fight to save her home in Baltimore’s Poppleton neighborhood: ‘This victory is for us — all of us’
-By Giacomo Bologna Baltimore Sun • Jul 18, 2022 at 5:51 pm Sonia Eaddy, at the lectern, with her husband, Curtis Eaddy Sr., left, is jubilant about her underdog fight against eminent domain, after Mayor Brandon Scott, behind the Eaddys, announced that their Poppleton home, slated for demolition more than two decades ago, will be saved. …
-Govans residents seek to overturn zoning approval for crematorium, cite potentially harmful environmental effects
-By Billy Jean Louis Baltimore Sun • Jul 13, 2022 at 3:17 pm Citing environmental and health concerns, residents of Govans in Northeast Baltimore are trying to overturn a 2021 zoning decision that would allow a crematorium to be built inside an existing funeral home.
-At a circuit court hearing Tuesday morning, a lawyer representing members …
-Follow the Money
-Outside Spending A January 2010 Supreme Court decision (Citizens United v.
+Masks are … Continue reading “IN PERSON AND ONLINE VIA ZOOM!” Posted by singer39 July 14, 2023 Posted in Uncategorized Leave a comment on IN PERSON AND ONLINE VIA ZOOM!
+Sonia Eaddy wins decades-long fight to save her home in Baltimore’s Poppleton neighborhood: ‘This victory is for us — all of us’ By Giacomo Bologna Baltimore Sun • Jul 18, 2022 at 5:51 pm Sonia Eaddy, at the lectern, with her husband, Curtis Eaddy Sr., left, is jubilant about her underdog fight against eminent domain, after Mayor Brandon Scott, behind the Eaddys, announced that their Poppleton home, slated for demolition more than two decades ago, will be saved. … Continue reading “Sonia Eaddy wins decades-long fight to save her home in Baltimore’s Poppleton neighborhood: ‘This victory is for us — all of us’” Posted by singer39 July 18, 2022 Posted in Uncategorized Leave a comment on Sonia Eaddy wins decades-long fight to save her home in Baltimore’s Poppleton neighborhood: ‘This victory is for us — all of us’ Govans residents seek to overturn zoning approval for crematorium, cite potentially harmful environmental effects By Billy Jean Louis Baltimore Sun • Jul 13, 2022 at 3:17 pm Citing environmental and health concerns, residents of Govans in Northeast Baltimore are trying to overturn a 2021 zoning decision that would allow a crematorium to be built inside an existing funeral home.
+At a circuit court hearing Tuesday morning, a lawyer representing members … Continue reading “Govans residents seek to overturn zoning approval for crematorium, cite potentially harmful environmental effects” Posted by singer39 July 17, 2022 Posted in Uncategorized Leave a comment on Govans residents seek to overturn zoning approval for crematorium, cite potentially harmful environmental effects Follow the Money Outside Spending A January 2010 Supreme Court decision (Citizens United v.
 Federal Election Commission) permits corporations and unions to make political expenditures from their treasuries directly and through other organizations, as long as the spending — often in the form of TV ads — is done independently of any candidate.
-In many cases, the activity …
-Friends of Renaud Brown
-Unfortunately, due to rain our first visibility event was cancelled Events: https://www.eventbrite.com/e/canvass-in-district-43-tickets-220011880457 Dates of Interest: May 10 I will attend the Lauraville Improvement Assoc. mtg.
-May 14 – Gather voters at the Waverly Farmer’s Market from 10 am – noon May 22 JFX Farmers Market from 10 – 1, Canvass TBD from 12-3
+In many cases, the activity … Continue reading “Follow the Money” Posted by singer39 June 14, 2022 Posted in Uncategorized Leave a comment on Follow the Money Friends of Renaud Brown Unfortunately, due to rain our first visibility event was cancelled Events: https://www.eventbrite.com/e/canvass-in-district-43-tickets-220011880457 Dates of Interest: May 10 I will attend the Lauraville Improvement Assoc. mtg.
+May 14 – Gather voters at the Waverly Farmer’s Market from 10 am – noon May 22 JFX Farmers Market from 10 – 1, Canvass TBD from 12-3 Posted by singer39 May 6, 2022 Posted in Uncategorized Leave a comment on Friends of Renaud Brown Maryland United for Peace & Justice is sponsoring a webinar.
+Ranked Choice Voting: Is it a pathway to more civil politics?
+The event will take place on Saturday, February 19 at 2pm (EST).
+Posted by singer39 February 15, 2022 Posted in Uncategorized Leave a comment on Maryland United for Peace & Justice is sponsoring a webinar.
+Ranked Choice Voting: Is it a pathway to more civil politics?
+The event will take place on Saturday, February 19 at 2pm (EST).
+Archives Archives Select Month December 2023 (1) July 2023 (1) July 2022 (2) June 2022 (1) May 2022 (1) February 2022 (1) Blog Stats 6,288 hits Renaud Brown for Delegate 2026 , Website Powered by WordPress.com .
+Subscribe Subscribed Renaud Brown for Delegate 2026 Sign me up Have a WordPress.com account?
+Log in now.
+Renaud Brown for Delegate 2026 View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

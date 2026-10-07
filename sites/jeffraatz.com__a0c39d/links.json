@@ -1,13 +1,58 @@
 [
-"http://facebook.com/wix",
-"http://wix.com/",
-"https://facebook.com/jeffraatzforindiana",
-"https://instagram.com/wix",
-"https://jeffraatz.com/",
-"https://jeffraatz.com/about",
-"https://jeffraatz.com/volunteer",
-"https://pinterest.com/wixcom",
-"https://secure.winred.com/raatz-for-indiana-state-senate-committee/donate-today",
-"https://twitter.com/jsraatz",
-"https://twitter.com/wix"
+{
+"text": "ABOUT JEFF",
+"href": "https://www.jeffraatz.com/about"
+},
+{
+"text": "About",
+"href": "https://www.jeffraatz.com/about"
+},
+{
+"text": "BOOK A CONSULTATION",
+"href": "https://www.jeffraatz.com"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/raatz-for-indiana-state-senate-committee/donate-today"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.jeffraatz.com/volunteer"
+},
+{
+"text": "Wix.com",
+"href": "http://wix.com/"
+},
+{
+"text": "[image: Facebook | Jeff Raatz]",
+"href": "https://www.facebook.com/jeffraatzforindiana/"
+},
+{
+"text": "[image: Jeff Raatz for Indiana Senate Logo]",
+"href": "https://www.jeffraatz.com"
+},
+{
+"text": "[image: Twitter | Jeff Raatz]",
+"href": "https://twitter.com/jsraatz"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "http://www.facebook.com/wix"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://instagram.com/wix/"
+},
+{
+"text": "[image: White Pinterest Icon]",
+"href": "https://www.pinterest.com/wixcom/"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/wix"
+},
+{
+"text": "info@mysite.com",
+"href": "mailto:info@mysite.com"
+}
 ]

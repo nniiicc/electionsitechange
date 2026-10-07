@@ -1,42 +1,14 @@
-This Campaign Belongs to the People
-The Farmer Servant movement wasn’t built by political insiders, corporate donors, or special interests.
+Skip to the content Vote - We the People! - The Farmer Servant ☰ Menu Home Help Fund the Movement Meet Robert Brooks The People’s Covenant to Oklahoma Platform and Policy Agenda Take the Oath The Creed The Movement The Prayer Search for: When autocomplete results are available use up and down arrows to review and enter to go to the desired page.
+Touch device users, explore by touch or with swipe gestures.
+Home → Help Fund the Movement Help Fund the Movement This Campaign Belongs to the People The Farmer Servant movement wasn’t built by political insiders, corporate donors, or special interests.
 It was built by hardworking Oklahomans who believe government should answer to the people—not the other way around.
 Every mile traveled, every town hall held, every video produced, every yard sign displayed, and every conversation about a better Oklahoma happens because people like you choose to get involved.
 If you believe Oklahoma deserves a government that is transparent, accountable, and truly serves its citizens, here are a few ways you can help.
-Option 1: Make a Campaign Contribution
-Campaign contributions help us reach voters in all 77 counties and continue building a truly independent, grassroots campaign.
-- Travel across Oklahoma
-- Community meetings and town halls
-- Campaign signs and printed materials
-- Video production and livestreams
-- Website development
-- Digital advertising
-- Volunteer outreach
-- Campaign operations
-Option 2: Let Oklahoma Insurance Exchange Earn Your Business
-Through Oklahoma Insurance Exchange, licensed insurance professionals help individuals, families, seniors, and small businesses compare plans to find coverage that fits their needs and budget.
-- Individual Health Insurance
-- Family Health Insurance
-- Medicare Advantage
-- Medicare Supplements
-- Prescription Drug Plans
-- Dental Insurance
-- Vision Insurance
-- Life Insurance
-- Final Expense Insurance
-- Supplemental Coverage
-Option 3: Read the Book That Started the Movement
-The Farmer Servant shares Robert Brooks’ personal journey, the experiences that shaped his beliefs, and his vision for creating a government that truly works for the people.
-Other Ways You Can Help
-- Sharing posts on social media
-- Inviting friends and family to learn about the campaign
-- Volunteering at community events
-- Hosting a meet and greet
-- Wearing campaign apparel
-- Introducing Robert to your church or civic group
-- Praying for our campaign, our state, and our nation’s leaders
-Thank You
-Thank you for believing that Oklahoma deserves a government that is honest, transparent, accountable, and truly serves its people.
+Option 1: Make a Campaign Contribution Campaign contributions help us reach voters in all 77 counties and continue building a truly independent, grassroots campaign.
+Travel across Oklahoma Community meetings and town halls Campaign signs and printed materials Video production and livestreams Website development Digital advertising Volunteer outreach Campaign operations Make a Campaign Contribution Option 2: Let Oklahoma Insurance Exchange Earn Your Business Through Oklahoma Insurance Exchange , licensed insurance professionals help individuals, families, seniors, and small businesses compare plans to find coverage that fits their needs and budget.
+Individual Health Insurance Family Health Insurance Medicare Advantage Medicare Supplements Prescription Drug Plans Dental Insurance Vision Insurance Life Insurance Final Expense Insurance Supplemental Coverage Request Your Free Insurance Quote Option 3: Read the Book That Started the Movement The Farmer Servant shares Robert Brooks’ personal journey, the experiences that shaped his beliefs, and his vision for creating a government that truly works for the people.
+Purchase on Amazon Other Ways You Can Help Sharing posts on social media Inviting friends and family to learn about the campaign Volunteering at community events Hosting a meet and greet Wearing campaign apparel Introducing Robert to your church or civic group Praying for our campaign, our state, and our nation’s leaders Thank You Thank you for believing that Oklahoma deserves a government that is honest, transparent, accountable, and truly serves its people.
 The Farmer Servant movement has never been about one person.
 It has always been about neighbors helping neighbors, communities coming together, and citizens reclaiming their voice in government.
 It’s a WE thing, not a ME thing.
+Facebook TikTok © # Vote - We the People! - The Farmer Servant

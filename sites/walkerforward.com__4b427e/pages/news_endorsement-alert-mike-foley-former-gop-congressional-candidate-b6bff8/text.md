@@ -1,5 +1,4 @@
-Endorsement Alert: Mike Foley, former GOP Congressional Candidate
-Mike Foley ran against Tom Emmer in the Republican primary for Minnesota's 6th Congressional District.
+Skip to Content Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store Endorsement Alert: Mike Foley, former GOP Congressional Candidate Aug 29 Written By Brian Walker Mike Foley ran against Tom Emmer in the Republican primary for Minnesota's 6th Congressional District.
 A few weeks ago, he sat down with me over lunch.
 Today, he’s supporting my campaign for the state house seat, even as a Democrat.
 I’d never ask him to become a Democrat, just like I’m not asking any of you.
@@ -19,3 +18,10 @@ Watch the video here.
 Thank you, Mike, for running against Tom Emmer in the first place.
 That takes guts.
 I won't forget that you did it, or that you're still standing up now.
+Video from Mike Foley endorsing Brian Walker for MN State House in 31A Brian Walker Previous Previous Give Us Another Chance?
+Niska Already Asked.
+Next Next Headline Harry is at it Again: Removing Environmental Protections Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Leave us your email to stay informed Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Privacy Policy Paid for by Walker Forward PO Box 321 Anoka, MN 55303 campaign@walkerforward.com (651) 308-2116 EIN : 42-2622637 Walker Forward.

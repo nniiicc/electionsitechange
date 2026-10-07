@@ -1,4 +1,4 @@
-Over the last few weeks our office has received countless calls about SB6, known as the “Bathroom Bill” or the “Women’s Privacy Act”.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements April 5, 2017 Jeff Frazier Sit-Rep #5 - SB 6 & HB 2899 April 5, 2017 Jeff Frazier Over the last few weeks our office has received countless calls about SB6, known as the “Bathroom Bill” or the “Women’s Privacy Act”.
 Your HD20 staff has received a consistent stream of requests for a response on the issue, so I’m dedicating this week’s Sit-Rep to my thoughts on the issue, and to ask for your feedback.
 I’ll make this blatantly clear, I don’t want to have men in women’s bathrooms.
 The fact that I had to put that sentence in an article is, frankly, absurd.
@@ -29,3 +29,15 @@ While I certainly don’t want men in women’s bathrooms, I think it’s even m
 If we take care of that, the rest will take care of itself.
 Before I go I want to thank everyone for the number of constructive responses we received on our last article regarding HB-81 and marijuana penalty adjustment.
 Hearing from you makes a difference to me and we appreciate every response we receive.
+April 5, 2017 Jeff Frazier Jeff Frazier Sit-Rep #6 - Budgets Sit-Rep #4 - HB 81 and Criminal Justice Reform Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

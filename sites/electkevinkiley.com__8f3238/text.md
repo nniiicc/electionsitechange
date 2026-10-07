@@ -1,11 +1,7 @@
-Kevin Kiley · Independent Congressman
-Our Independent Voice in Washington.
-Democracy Award — Best of Constituent Service
-Congressional Management Foundation
-Latest from the campaign trail
-01 / 06
-Seniors for Kiley
-Watch the launch of Seniors for Kiley.
-Video coming soon
-Community Conversations
-Watch Kevin’s latest event in your community.
+Skip to content Main Menu Home About Media Resources CA06 The Costs of Living Volunteer Menu Toggle Neighborhood Captains Intern Yard Signs News Home About Kevin Coalitions Conversations Issues Media Get involved Yard Signs Donate ↗ Menu Kevin Kiley · Independent Congressman Our Independent Voice in Washington.
+Democracy Award — Best of Constituent Service Congressional Management Foundation Meet Kevin ↗ Latest from the campaign trail Seniors for Kiley Watch the launch ✓ Students for Kiley Watch the launch ✓ Ukrainians for Kiley Watch the launch ✓ Sacramento Bee forum Watch the forum ✓ Campaign rally Watch the rally ✓ Primary election night Watch the speech ✓ Watch the coalition launch ↗ 03 Video being prepared 01 / 06 Seniors for Kiley Watch the launch of Seniors for Kiley.
+Watch launch ↗ Video coming soon Join a coalition ↗ Community Conversations Watch Kevin’s latest event in your community.
+McClellan Park Sep 21, 2026 ✓ Citrus Heights Aug 5, 2026 ✓ Roseville Aug 30, 2026 ✓ Rocklin Aug 13, 2026 ✓ North Highlands Sep 10, 2026 ✓ Antelope Aug 21, 2026 ✓ East Sacramento Aug 26, 2026 ✓ West Sacramento Aug 27, 2026 ✓ West Roseville Jul 11, 2026 ✓ Watch the conversation 1 hr 2 min McClellan Park September 21, 2026 Search all conversations to hear Kevin’s answer to any topic.
+Browse all topics → Search topics, questions, or communities Search Clear search View all results → Legislation See every bill Kevin has sponsored or co-sponsored.
+Search legislation Search → See all legislation → Modern Worker Empowerment Act → SAFE HOME Act → Social Security Fairness Act → Medicare Protection Act → Pay Our Troops Act → National Human Trafficking Database Act → SAFE AI Act → Gas Tax Reduction Act → Connect with us Follow Kevin’s updates and find your next way to get involved.
+Get involved ↗ About Kevin Get involved Updates Paid for by Kevin Kiley for Congress Back to top ↑ Coalition launch Close × Watch on YouTube ↗ Paid for by Kevin Kiley for Congress

@@ -1,6 +1,5 @@
-MIKE COLLINS FOR U.S.
-SENATE LAUNCHES NEW AD: “DELIVERS”
-Jackson, GA — The Mike Collins campaign today released a new ad, “Delivers,” drawing a sharp line between Collins’ results and Jon Ossoff’s record of rubber-stamping the radical Left.
+Skip to content MEET MIKE MEDIA ENDORSEMENTS VOLUNTEER EVENTS PRESS CONTRIBUTE DONATE WITH CRYPTO STORE Press Release JUNE 17, 2026 FOR IMMEDIATE RELEASE Contact: [email protected] MIKE COLLINS FOR U.S.
+SENATE LAUNCHES NEW AD: “DELIVERS” Jackson, GA — The Mike Collins campaign today released a new ad, “Delivers,” drawing a sharp line between Collins’ results and Jon Ossoff’s record of rubber-stamping the radical Left.
 The ad opens with Collins’ story: a small business owner and trucker who built a company from the ground up with his wife, then went to Washington and did what almost no one does, he delivered.
 In just two years, Collins authored two bills signed into law by two presidents of two different parties.
 The TRANQ Act, signed by President Biden, put new tools in law enforcement’s hands to fight the deadly wave of synthetic drugs devastating American communities.
@@ -12,9 +11,7 @@ He supported radical legislation to let men compete in women’s sports.
 And while California donors bankrolled his campaign three-to-one over his own constituents, Ossoff kept right on doing Chuck Schumer’s bidding.
 “While Georgians were footing the bill for Ossoff’s failures, California liberals have been funding his campaign, pouring in three times more money than donors from the entire state of Georgia,” said Campaign Manager Josh Siegel “Mike Collins will make sure the working man is forgotten no more.
 He’s delivered bipartisan results for Georgia families in the House and that’s exactly what he will do in the Senate.
-Mike Collins is going to take this seat back from Chuck Schumer, California donors, and liberal Jon Ossoff, and return it to the people it was always meant to serve.”
-FULL TRANSCRIPT:
-He started a small business with his wife and turned it into a national trucking company.
+Mike Collins is going to take this seat back from Chuck Schumer, California donors, and liberal Jon Ossoff, and return it to the people it was always meant to serve.” FULL TRANSCRIPT: He started a small business with his wife and turned it into a national trucking company.
 Unlike Washington politicians, Mike Collins knows how to deliver.
 One of the only members of Congress who has ever actually passed anything, Collins authored two laws signed by two different presidents.
 A bipartisan law signed by Biden to help law enforcement fight deadly drugs in our communities.
@@ -28,5 +25,6 @@ He’s woke.
 He’s the worst of Washington.
 These establishment politicians are all the same.
 They never deliver.
-I’m Mike Collins and I approve this message because it’s time for John Ossoff to get a real job.
->> Mike Collins, the Georgia workhorse who delivers.
+I’m Mike Collins and I approve this message because it’s time for John Ossoff to get a real job. >> Mike Collins, the Georgia workhorse who delivers.
+### ← MIKE COLLINS WINS U.S.
+SENATE PRIMARY, ADVANCES TO GENERAL ELECTION AGAINST JON OSSOFF Top of GOP Ticket Ready for Victory → TERMS & CONDITIONS PRIVACY POLICY MEDIA INQUIRIES CONTACT US PAID FOR BY MIKE COLLINS FOR SENATE PO Box 2184 Alpharetta, GA 30005

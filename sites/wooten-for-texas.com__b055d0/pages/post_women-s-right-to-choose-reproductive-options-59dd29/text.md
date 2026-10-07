@@ -1,6 +1,6 @@
-Women's Right to Choose Reproductive Options
-Controversy about Abortion Rights for Women
-On the 49th Anniversary of Roe V.
+top of page Dr.
+Denise Wooten Advocacy for All Texans DONATE Home About Issues Events Voter Information Election Information HD-63 Map Register to Vote Get Involved Endorsements Articles Contact More Use tab to navigate through the menu items.
+DONATE SUBSCRIBE All Articles Search Women's Right to Choose Reproductive Options wootenfor63 May 4, 2022 3 min read Controversy about Abortion Rights for Women On the 49th Anniversary of Roe V.
 Wade, which established women’s federal right to secure an abortion and limited the states’ ability to impose restrictions, we face the very real threat that this right to choose will be taken away.
 If women’s right to choose is removed by government, what will be the outcomes for women, and indeed, for the babies they are forced to carry and deliver?
 Amongst all the religious and political discussion of reproductive rights, the fates for women in the predicament of an unplanned pregnancy are not considered nearly enough.
@@ -26,5 +26,6 @@ Instead, they are off somewhere else, pontificating their self-righteous hypocri
 This is an egregious misuse of the power of legislation, further aided by the deceitful Republican stacking of the Supreme Court, causing harm, yet again, to vulnerable and marginalized subsets of the population.
 We cannot allow such soul-sickening behavior on the part of our “leaders” to continue.
 Editorial by: H.
-Denise Wooten, PsyD
-January 22, 2022
+Denise Wooten, PsyD January 22, 2022 Recent Posts See All GUN SAFETY: SENSIBLE SOLUTIONS Gun Safety: Sane and Sensible Regulations Everyone, no matter their political persuasion, should agree that mass shootings are out of...
+STOP THE INSANITY Stop the Insane Political Polarization and Divisiveness After amusing myself by using the word “insane,” as I am, after all, a...
+A PSYCHOLOGIST'S PERSPECTIVE ON GENDER DYSPHORIA AND TRANSGENDER RIGHTS As a psychologist, I see the sadness, worry, angst, and anxiety that children and families have when the child finally gathers the... bottom of page

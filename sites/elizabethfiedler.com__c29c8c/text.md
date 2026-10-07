@@ -1,13 +1,4 @@
-South Philadelphia for us all
-Elizabeth Fiedler
-State Representative, House District 184
-Want to get involved?
-Endorsed by the people of South Philadelphia and beyond
-Support our efforts
-Elizabeth on the issues
-Schools
-Fighting for resources to help students, teachers and staff thrive
-Democracy
-Putting power in peoples’ hands
-Climate & economy
-Creating new jobs while advancing a greener world for us all
+Skip to content Elizabeth Fiedler Representative, House District 184 Primary Menu Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate South Philadelphia for us all Elizabeth Fiedler State Representative, House District 184 Want to get involved?
+Endorsed by the people of South Philadelphia and beyond Support our efforts $15 $20 $35 Other Elizabeth in the news Fiedler welcomes more than $100,000 in state grants to south Phila.
+December 21, 2023 State leaders tout $175 million to fix old school buildings during visit to South Philly HS December 20, 2023 Doctors in Pa. can’t perform pelvic exams without consent, new law says November 24, 2023 View all news → Elizabeth on the issues Schools Fighting for resources to help students, teachers and staff thrive Read More Democracy Putting power in peoples’ hands Read More Climate & economy Creating new jobs while advancing a greener world for us all Read More View all issues → Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Connect with us Facebook Twitter Instagram YouTube Mail Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Paid for by: Friends of Elizabeth Fiedler Powered by Tech for Campaigns

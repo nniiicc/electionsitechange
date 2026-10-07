@@ -1,4 +1,5 @@
-As Published by the Newnan Times-Herald: Coweta County’s employment increased by more than 2 percent, adding 923 jobs since last year.
+Home Meet Matt About Committee Service Sponsored Legislation Issues News Press Kit Newsletter Updates Volunteer Archives Monthly Archives: November 2018 Coweta adds 923 jobs since last year November 1, 2018 As Published by the Newnan Times-Herald: Coweta County’s employment increased by more than 2 percent, adding 923 jobs since last year.
 Most of those job gains occurred in food, health care, retail trade and administrative support, according to an economic overview presented by the University of West Georgia’s Dr.
 William (Joey) Smith, chairman of the university’s economics department.
-Additional panelists included Chris Clark, Georgia Chamber of Commerce president and CEO and Sally Wallace, dean of the Andrew Young School of...READ MORE
+Additional panelists included Chris Clark, Georgia Chamber of Commerce president and CEO and Sally Wallace, dean of the Andrew Young School of...
+READ MORE Archives August 2020 June 2020 October 2019 September 2019 July 2019 April 2019 February 2019 January 2019 November 2018 September 2018 August 2018 July 2018 June 2018 May 2018 January 2018 March 2016 Categories Uncategorized Tags candidate District 28 election State Senate Home Meet Matt Issues News Volunteer

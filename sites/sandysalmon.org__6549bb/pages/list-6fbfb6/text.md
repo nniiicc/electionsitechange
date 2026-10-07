@@ -1,184 +1,18 @@
-Issues
-Read the latest ‘Capitol Corner’ newsletter Sandy sends out regularly.
+Iowa Senator District #29 Contact Sandy DONATE HOME ABOUT EVENTS GALLERY ISSUES NEWSLETTERS ENDORSEMENTS VOTER INFORMATION GET INVOLVED DONATE CONTACT ISSUES Issues Read the latest ‘Capitol Corner’ newsletter Sandy sends out regularly.
 They will include current status of bills or actions that impact her Senate District constituents and all Iowans.
 You’ll see photos of events at home and photos of friends who stop by the Iowa Senate.
-What Sandy Believes in and Will Work for
-Economic Conservatism and Fiscal Responsibility
-Create jobs by establishing a favorable climate for economic growth and opportunity through limited government:
-- Balance the Budget – live responsibly like we in our households have to do – spend no more than we take in
-- Stuck by conservative budgeting principles for 14 years in a row
-- Cut Taxes – so businesses will want to expand and jobs will be created and to help families and those on fixed incomes keep more of their own hard-earned money - Supported:
-- 2026 - Historic Property Tax Reform - Saves $4.2 billion over 6 years, primarily for homeowners, reins in local government spending
-- 2026 - Constitutional Amendment - Requires 2/3 rds majority of the legislature to raise income taxes, will be on the November 2026 ballot
-- 2025 - Cut unemployment insurance taxes for small businesses by half, saves $1 billion over 5 years
-- 2024 - Further reduces the income tax rate for all Iowans to a flat rate of 3.8%
-- 2023 - Property tax reform - controls growth of property taxes
-- 2022 - Largest ever Iowa tax cut!
-Reduces tax rate for all Iowans to flat rate of 3.9%; gets rid of tax brackets; exempts retirement income and special exemption for retired farmers
-- 2021 - Comprehensive tax reform - implemented 2nd round of income tax cuts from 2018 with highest tax bracket at 6.5%; phased out inheritance tax; phased out mental health services property tax levy
-- 2020 - Exemption of federal COVID stimulus and grant money from state taxation
-- 2018 - Historic income tax relief and reform
-- 2018 - Lowering of energy bill "tax"
-- 2014 - Home Base Iowa Act to exempt veterans’ military pensions from state income tax
-- 2013 - Property tax reform
-- Cut Regulation – maintain liberty and allow business owners and farmers to expand and create jobs - Supported:
-- 2026 - Removed regulatory barriers between insurance companies and doctors regarding prior authorization, timelines, referrals, and certificate of need
-- 2026 - Removed regulatory barriers in using subacute mental health care facilities
-- 2026 - Insurance companies cannot discriminate against living organ donors
-- 2026 - Removed regulatory barriers for those in guardianships going into hospice
-- 2026 - Prohibition on non-compete clauses in contracts with U of I Hospital medical providers
-- 2026 - Removed regulatory barriers for foster parent training
-- 2025 - Birth Centers - Repeals Certificate of Need requirement for birth centers allowing them to be established in rural areas where they are needed
-- 2025 - Fuel Freedom - State and local governments cannot "discriminate" against certain kinds of fuels
-- 2023 - Midwifery - Licensed certified professional midwives
-- 2023 - Rural Emergency Hospitals - a new license allowing rural hospitals to receive more funding under Medicare
-- 2022 - Allowed patients to contract directly with their health care providers
-- 2021 - Eased regulations to allow counties to make EMS an essential service
-- 2021 - Prohibition on mask mandates during COVID for cities and counties
-- 2020 - Cut red tape for occupational licenses
-- 2020 - Continued COVID-related expansion of teleheath services and of continuing education online for after the COVID emergency ends
-- 2018 - Allowing for affordable health care with health benefit plans and association plans
-- 2017 - Rebalancing the workers' compensation law to bring fairness and equity to the system
-- 2017 - Removing requirement for project labor agreements
-- 2017 - Medicaid Income and Asset Verification system bill
-- 2017 - Allowing farmers flexibility to do electrical work on their own farms
-- Protect the Taxpayer - Supported:
-- 2026 - Magistration Modernization - Updates magistrate system in our courts for better use of taxpayer dollars
-- 2026 - Public employers required to submit a list of employees in order to go through the recertification process for the union
-- 2026 - Student or parents can be required to pay if they fail or withdraw from a PSEO class
-- 2025 - TIF Reform - Updates TIF law to curb abuses of TIF over the years
-- 2023 - State Government Reorganization - Streamlines agencies of the state government
-- 2019 - Extended SAVE penny for schools and property tax relief
-- 2019 - Transparency in local government property taxes
-- 2017 - Public employee collective bargaining reform
-- Rein in Spending – let future generations be debt-free – let’s not depend so much on government – don’t use one-time use funds for ongoing expenses - don't intentionally underfund programs and say you've balanced the budget
-- Boost the Workforce - Supported:
-- 2026 - Expanded apprenticeship & training programs in high-demand careers
-- 2026 - $1.6 million for UNI's neighboring state tuition program and expanding their nursing program
-- 2025 - Pharmacy Benefit Managers Reform - prohibits unfair business practices by PBMs that hurt independent and rural pharmacies, protects access to health care in rural areas
-- 2023 - Youth Employment bill - cut regulations on employment for youth
-- 2023 - Teacher Workforce - eased restrictions and regulations for teacher candidates
-- 2022 - Unemployment Insurance Reform - lowered unemployment benefits from 26 weeks to 16 weeks incentizing unemployed to return to work sooner
-- Uphold Right to Work – no worker should be forced to join a union or pay their dues
-Agriculture
-- Lifeblood of Iowa’s economy – let’s support it – get government out of the way
-- 2026 - Land Restoration required after construction of large electric transmission lines
-- 2026 - Hydrogen - Landowner rights better protected
-- 2026 - Greenhouse Gas Emissions - No liability for alleged change to climate for GHG
-- 2026 - Water Quality - Re-allocation of funds for wastewater and drinking water treatment infrastructure, conservation practices and water quality monitoring
-- 2025 - Grain Indemnity Fund Update - Changes floor and ceiling to $8 million and $16 million.
-Extends coverage for certain credit sale contracts
-- 2025 - Drones - Made it a crime to fly a drone within 400 feet from farm animals, farm equipment, and farm structures without prior consent
-- 2024 - Stricter requirements on the foreign ownership of farmland
-- 2024 - Required Truth-in-Labeling for Meat and Eggs - Plant-based and Insect-based products cannot be labeled as meat
-- 2023 - Raw Milk bill - legalized production and sale of raw milk
-- 2022 - Biofuels Standard - Raised the standard for ethanol to E-15
-Education
-- Greater local control of schools – decentralize it - let parents, school boards, teachers, and administrators, handle it – they are capable – let’s support them - Supported:
-- 2024 - Alternative pathways for Teacher Licensure
-- 2023 - Allowed K-12 schools flexibility in a variety of regulatory and curricular issues
-- 2021 - Required K-12 schools to offer in-person learning during COVID
-- 2018 & 2020 - Expanded options for online learning
-- 2017 & 2018 - Flexibility for schools in use of K-12 funding
-- 2017 - "Home Rule" for K-12 schools
-- Promote parental involvement – shift more responsibility back on the parents where it belongs and listen to the parents when they are exercising their responsibility for their child
-- 2023 - Parents are required to be notified if their child requests to be called by a different name or pronoun due to their intent to present as a different gender identity
-- 2023 - Parents are required to give prior written consent before a school can administer a formal examination or survey of a child's mental, emotional, or physical health or of a child's political or religious affiliation or sexual behavior
-- 2023 - Schools are required to publish on the site a list of all books available to students in the school library and an explanation of the procedures to be used to remove a book
-- 2023 - Schools are required to publish a policy for parents to review instructional materials and to notify the school if the parent wants their child to opt-out of using those materials
-- 2023 - Parental Rights Act - Parents bear the ultimate responsibility and have the constitutionally protected right to make decisions affecting their minor child.
-- Protect free speech in schools - Supported:
-- 2026 - SPEAKS Act - Protects K-12 students from discrimination on the basis of religious or political expression
-- 2021 - Required training on free speech rights for K-12 schools and Regent universities and disciplinary processes when violations occur - continued vigilance is necessary
-- Protect children in schools - Supported:
-- 2026 - Outlined procedures for handling disruptive, abusive and violent student behavior in the classroom
-- 2026 - Limit computer time in school to 60 minutes a day for K-5
-- 2026 - More exercise or recess time required for elementary kids
-- 2026 - Certain food dyes and additives prohibited in public school lunches
-- 2025 - Investigation of child abuse at school required to be done by a 3rd party, HHS
-- 2025 - School bullying - clarified for schools that all students, not just those with an actual or perceived trait should receive an equal level of protection.
-- 2025 - Cell phones - Restricts student use of cell phones during classroom instructional time.
-- Need to encourage schools to engage the services of chaplains just as the military, police and fire departments and prisons do.
-- Eliminate indoctrination - Supported:
-- 2026 - Require social studies to be included in standardized testing
-- 2026 - Require a course in American history and a course in American government in the Regents universities to be taken as part of general education requirements for graduation
-- 2025 - Requires all high school students to pass the U.S.Citizenship and immigration Services civics test
-- 2025 - Rewrites the state's math standards to replace Common Core math.
-- 2025 - Established a School of Intellectual Freedom at the University of Iowa.
+What Sandy Believes in and Will Work for Economic Conservatism and Fiscal Responsibility Create jobs by establishing a favorable climate for economic growth and opportunity through limited government: Balance the Budget – live responsibly like we in our households have to do – spend no more than we take in Stuck by conservative budgeting principles for 14 years in a row Cut Taxes – so businesses will want to expand and jobs will be created and to help families and those on fixed incomes keep more of their own hard-earned money - Supported: 2026 - Historic Property Tax Reform - Saves $4.2 billion over 6 years, primarily for homeowners, reins in local government spending 2026 - Constitutional Amendment - Requires 2/3 rds majority of the legislature to raise income taxes, will be on the November 2026 ballot 2025 - Cut unemployment insurance taxes for small businesses by half, saves $1 billion over 5 years 2024 - Further reduces the income tax rate for all Iowans to a flat rate of 3.8% 2023 - Property tax reform - controls growth of property taxes 2022 - Largest ever Iowa tax cut!
+Reduces tax rate for all Iowans to flat rate of 3.9%; gets rid of tax brackets; exempts retirement income and special exemption for retired farmers 2021 - Comprehensive tax reform - implemented 2nd round of income tax cuts from 2018 with highest tax bracket at 6.5%; phased out inheritance tax; phased out mental health services property tax levy 2020 - Exemption of federal COVID stimulus and grant money from state taxation 2018 - Historic income tax relief and reform 2018 - Lowering of energy bill "tax" 2014 - Home Base Iowa Act to exempt veterans’ military pensions from state income tax 2013 - Property tax reform Cut Regulation – maintain liberty and allow business owners and farmers to expand and create jobs - Supported: 2026 - Removed regulatory barriers between insurance companies and doctors regarding prior authorization, timelines, referrals, and certificate of need 2026 - Removed regulatory barriers in using subacute mental health care facilities 2026 - Insurance companies cannot discriminate against living organ donors 2026 - Removed regulatory barriers for those in guardianships going into hospice 2026 - Prohibition on non-compete clauses in contracts with U of I Hospital medical providers 2026 - Removed regulatory barriers for foster parent training 2025 - Birth Centers - Repeals Certificate of Need requirement for birth centers allowing them to be established in rural areas where they are needed 2025 - Fuel Freedom - State and local governments cannot "discriminate" against certain kinds of fuels 2023 - Midwifery - Licensed certified professional midwives 2023 - Rural Emergency Hospitals - a new license allowing rural hospitals to receive more funding under Medicare 2022 - Allowed patients to contract directly with their health care providers 2021 - Eased regulations to allow counties to make EMS an essential service 2021 - Prohibition on mask mandates during COVID for cities and counties 2020 - Cut red tape for occupational licenses 2020 - Continued COVID-related expansion of teleheath services and of continuing education online for after the COVID emergency ends 2018 - Allowing for affordable health care with health benefit plans and association plans 2017 - Rebalancing the workers' compensation law to bring fairness and equity to the system 2017 - Removing requirement for project labor agreements 2017 - Medicaid Income and Asset Verification system bill 2017 - Allowing farmers flexibility to do electrical work on their own farms Protect the Taxpayer - Supported: 2026 - Magistration Modernization - Updates magistrate system in our courts for better use of taxpayer dollars 2026 - Public employers required to submit a list of employees in order to go through the recertification process for the union 2026 - Student or parents can be required to pay if they fail or withdraw from a PSEO class 2025 - TIF Reform - Updates TIF law to curb abuses of TIF over the years 2023 - State Government Reorganization - Streamlines agencies of the state government 2019 - Extended SAVE penny for schools and property tax relief 2019 - Transparency in local government property taxes 2017 - Public employee collective bargaining reform Rein in Spending – let future generations be debt-free – let’s not depend so much on government – don’t use one-time use funds for ongoing expenses - don't intentionally underfund programs and say you've balanced the budget Boost the Workforce - Supported: 2026 - Expanded apprenticeship & training programs in high-demand careers 2026 - $1.6 million for UNI's neighboring state tuition program and expanding their nursing program 2025 - Pharmacy Benefit Managers Reform - prohibits unfair business practices by PBMs that hurt independent and rural pharmacies, protects access to health care in rural areas 2023 - Youth Employment bill - cut regulations on employment for youth 2023 - Teacher Workforce - eased restrictions and regulations for teacher candidates 2022 - Unemployment Insurance Reform - lowered unemployment benefits from 26 weeks to 16 weeks incentizing unemployed to return to work sooner Uphold Right to Work – no worker should be forced to join a union or pay their dues Agriculture Lifeblood of Iowa’s economy – let’s support it – get government out of the way 2026 - Land Restoration required after construction of large electric transmission lines 2026 - Hydrogen - Landowner rights better protected 2026 - Greenhouse Gas Emissions - No liability for alleged change to climate for GHG 2026 - Water Quality - Re-allocation of funds for wastewater and drinking water treatment infrastructure, conservation practices and water quality monitoring 2025 - Grain Indemnity Fund Update - Changes floor and ceiling to $8 million and $16 million.
+Extends coverage for certain credit sale contracts 2025 - Drones - Made it a crime to fly a drone within 400 feet from farm animals, farm equipment, and farm structures without prior consent 2024 - Stricter requirements on the foreign ownership of farmland 2024 - Required Truth-in-Labeling for Meat and Eggs - Plant-based and Insect-based products cannot be labeled as meat 2023 - Raw Milk bill - legalized production and sale of raw milk 2022 - Biofuels Standard - Raised the standard for ethanol to E-15 Education Greater local control of schools – decentralize it - let parents, school boards, teachers, and administrators, handle it – they are capable – let’s support them - Supported: 2024 - Alternative pathways for Teacher Licensure 2023 - Allowed K-12 schools flexibility in a variety of regulatory and curricular issues 2021 - Required K-12 schools to offer in-person learning during COVID 2018 & 2020 - Expanded options for online learning 2017 & 2018 - Flexibility for schools in use of K-12 funding 2017 - "Home Rule" for K-12 schools Promote parental involvement – shift more responsibility back on the parents where it belongs and listen to the parents when they are exercising their responsibility for their child 2023 - Parents are required to be notified if their child requests to be called by a different name or pronoun due to their intent to present as a different gender identity 2023 - Parents are required to give prior written consent before a school can administer a formal examination or survey of a child's mental, emotional, or physical health or of a child's political or religious affiliation or sexual behavior 2023 - Schools are required to publish on the site a list of all books available to students in the school library and an explanation of the procedures to be used to remove a book 2023 - Schools are required to publish a policy for parents to review instructional materials and to notify the school if the parent wants their child to opt-out of using those materials 2023 - Parental Rights Act - Parents bear the ultimate responsibility and have the constitutionally protected right to make decisions affecting their minor child.
+Protect free speech in schools - Supported: 2026 - SPEAKS Act - Protects K-12 students from discrimination on the basis of religious or political expression 2021 - Required training on free speech rights for K-12 schools and Regent universities and disciplinary processes when violations occur - continued vigilance is necessary Protect children in schools - Supported: 2026 - Outlined procedures for handling disruptive, abusive and violent student behavior in the classroom 2026 - Limit computer time in school to 60 minutes a day for K-5 2026 - More exercise or recess time required for elementary kids 2026 - Certain food dyes and additives prohibited in public school lunches 2025 - Investigation of child abuse at school required to be done by a 3rd party, HHS 2025 - School bullying - clarified for schools that all students, not just those with an actual or perceived trait should receive an equal level of protection.
+2025 - Cell phones - Restricts student use of cell phones during classroom instructional time.
+Need to encourage schools to engage the services of chaplains just as the military, police and fire departments and prisons do.
+Eliminate indoctrination - Supported: 2026 - Require social studies to be included in standardized testing 2026 - Require a course in American history and a course in American government in the Regents universities to be taken as part of general education requirements for graduation 2025 - Requires all high school students to pass the U.S.Citizenship and immigration Services civics test 2025 - Rewrites the state's math standards to replace Common Core math.
+2025 - Established a School of Intellectual Freedom at the University of Iowa.
 Expands the intellectual disversity of the universsity's academic community.
 Will offer programs in the history traditions, and texts that have shaped the constitutional order in America.
-- 2025 - Prohibited DEI programs at community colleges and in state entities, such as cities and counties, etc.
-- 2024 - Dept. of Education to review Common Core, and the science and social studies standards to focus on American citizenship, heritage, legacy and founding principles
-- 2024 - Reading instruction must be based on phonics
-- 2024 - Prohibited Diversity, Equity, and Inclusion (DEI) programs at the Regents universities
-- 2023 - Prohibited sexually explicit materials in schools
-- 2023 - Prohibited instruction and promotion of sexual orientation/gender identity confusion in schools so that children's mental health issues are not exacerbated
-- 2023 - Requires bathrooms/lockerrooms/shower facilities are only to be used by persons of the same biological sex
-- 2022 - Protected Women's and Girls' Sports in schools by ensuring participation is based on biological sex so that competition remains fair for females
-- 2021 - Prohibited "Critical Race Theory" (CRT) indoctrination in K-12 schools and Regents universities
-- Better enforcement is needed for those schools that violate the prohibition on CRT & DEI
-- Need to expand preservation of access to bathrooms based on biological sex for the protection of children from schools to society-at-large
-- Still need to remove the exemption for schools contained in Iowa's pornography laws
-- Need to prohibit use of Planned Parenthood educators and PP-related curriculum in schools
-- Increase educational opportunities and innovations by expanding educational choices - Supported:
-- 2026 - School Choice Expansion - for charter schools, ESA's, pre-schools, and homeschooling - parents allowed to run small private schools
-- 2026 - Student absence is allowed for school activities held off-campus
-- 2026 - 8th Graders allowed to play high school sports
-- 2025 - Requires public schools to allow private school students to participate in student extra-curricular activities
-- 2023 - Universal Educational Savings Accounts - Each family and child is unique, so the more options, the better student needs will be met, and the better education for our students will be
-- 2022 - Elimination of the Open Enrollment Deadline - families can change their child's public school anytime during the year
-- 2021 - Charter school expansion to allow more educational opportunities
-- 2021 - Raised tuition and textbook tax credit and teacher expense deducation; homeschoolers included
-- 2019 & 2021 - Raised program cap for STO's and allowed more students to become eligible
-- 2018 - 529 plans for K-12 tuition
-Pro-Life
-- Defend the right to life for the unborn child - Supported:
-- 2026 - Chemical Abortion - Requires abortion medication to be prescribed and administered in person by medical professionals licensed to do so and with written informed consent, right to sue provider of the drugs
-- 2026 - Allow a hospital to treat a pregnant mother who is a minor when parents aren't available to consent
-- 2025 - Prenatal Development Education required in schools to show a video of a baby's development inside the womb
-- 2024 - Prohibited local governments from discriminating against maternity homes
-- 2023 - "Heartbeat" law passed again (temporarily struck down by court but governor is appealing)
-- 2022 - 2026 - MOMS Bill - More Options for Maternal Support - state support for pregnancy resource centers that support healthy pregnancies, childbirth, and parenting instead of abortion
-- 2021 - Led in passage of the Protect Life Constitutional Amendment - The Iowa Constitution establishes no right to an abortion nor any right to the funding of it
-- 2020 - Established a 24-hour waiting period requirement
-- 2020 - Alfie's Law - courts cannot refuse life-sustaining treatments to a child over the parents' objections
-- 2018 - Led in passage of "Heartbeat" law - (struck down by court but court refused governor request to reinstate)
-- 2018 - Ban on the sale of aborted baby body parts
-- 2018 - Prohibition on wrongful birth/life lawsuits
-- 2017 - Led in passage of a 72-hour waiting period requirement - (struck down by court)
-- 2017 - Led in passage of bill to strengthen the ultrasound requirement and require full informed consent for abortion
-- 2017 - Ban on abortion at 20 weeks
-- 2015 - Ultrasound requirement for abortion
-- 2014 - Ban on webcam abortion (struck down by court)
-- Human Life amendment for the U.S. and Iowa Constitutions/Life-at-Conception bill - still needs to be done
-- No public funding for abortion or those who commit abortion
-- 2019 - Led in passage of defunding of abortionists in federal grant money for sex education in schools
-- 2017 - Led in passage of defunding of abortionists in state Medicaid money
-2nd Amendment Rights
-- The people's right to keep and bear arms is not to be infringed
-- Expand liberty of law-abiding citizens to defend themselves - Supported:
-- 2025 - Changed the minimum age to possess and carry firearms from 21 to 18
-- 2024 - School employees who meet certain conditions are allowed to carry firearms at school
-- 2022 - 2nd Amendment to the Iowa Constitution adopted by the people of Iowa in November
-- 2021 - Second step to a "2nd Amendment" to the Iowa Constitution; will go on the ballot in 2022
-- 2021 - "Constitutional" (permitless) Carry
-- 2020 - 2nd Amendment Pre-Emption
-- 2019 - First step to a "2nd Amendment" to the Iowa Constitution
-- 2017 - "Stand Your Ground"
-Election Integrity
-- We need common sense protections for our election and voting process so that fair and clean elections take place - we can have that without infringing on voter rights - Supported:
-- 2026 - Voter Roll Maintenance - Verification of U.S. citizenship is required
-- 2026 - Makes clear foreign entities are prohibited from being involved in campaigns for ballot issues
-- 2025 - Banned ranked choice voting
-- 2025 - Verification of U.S. citizenship for voters allowed using federal databases
-- 2025 - Election Recounts - Reformed processes to ensure uniformity and consistency when election recounts are conducted
-- 2023 - Removed Iowa from the Electronic Registration Information Center (ERIC) & required participation in the Iowa caucuses be in-person
-- 2022 - Prohibited private money from being used to administer elections, like "Zuckerbucks" in Wisconsin
-- 2021 - Prohibited unsolicited absentee ballot request forms, severely restricted who can return an absentee ballot, shortened periods for absentee ballots and early voting, established and strengthened penalties for willful disregard of election law
-- 2017 - Voter ID requirement
-- Better maintainance of our voter rolls, ID's for absentee ballot voters, eliminating same-day registration, Counterfeit-proof ballots (with security features); empowering citizens to help clean up voter rolls; allow all cities, counties and school districts to opt out of using voting machines and instead use a system of hand-counting or non-internet capable "counting" machines, eliminating ballot drop boxes - all still needs to be done
-Private Property Rights - Carbon Capture Pipeline
-- We need to protect our 5th Amendment right to restrict use of eminent domain to seize private property only for public use and not to benefit a private company.
+2025 - Prohibited DEI programs at community colleges and in state entities, such as cities and counties, etc.
+2024 - Dept. of Education to review Common Core, and the science and social studies standards to focus on American citizenship, heritage, legacy and founding principles 2024 - Reading instruction must be based on phonics 2024 - Prohibited Diversity, Equity, and Inclusion (DEI) programs at the Regents universities 2023 - Prohibited sexually explicit materials in schools 2023 - Prohibited instruction and promotion of sexual orientation/gender identity confusion in schools so that children's mental health issues are not exacerbated 2023 - Requires bathrooms/lockerrooms/shower facilities are only to be used by persons of the same biological sex 2022 - Protected Women's and Girls' Sports in schools by ensuring participation is based on biological sex so that competition remains fair for females 2021 - Prohibited "Critical Race Theory" (CRT) indoctrination in K-12 schools and Regents universities Better enforcement is needed for those schools that violate the prohibition on CRT & DEI Need to expand preservation of access to bathrooms based on biological sex for the protection of children from schools to society-at-large Still need to remove the exemption for schools contained in Iowa's pornography laws Need to prohibit use of Planned Parenthood educators and PP-related curriculum in schools Increase educational opportunities and innovations by expanding educational choices - Supported: 2026 - School Choice Expansion - for charter schools, ESA's, pre-schools, and homeschooling - parents allowed to run small private schools 2026 - Student absence is allowed for school activities held off-campus 2026 - 8th Graders allowed to play high school sports 2025 - Requires public schools to allow private school students to participate in student extra-curricular activities 2023 - Universal Educational Savings Accounts - Each family and child is unique, so the more options, the better student needs will be met, and the better education for our students will be 2022 - Elimination of the Open Enrollment Deadline - families can change their child's public school anytime during the year 2021 - Charter school expansion to allow more educational opportunities 2021 - Raised tuition and textbook tax credit and teacher expense deducation; homeschoolers included 2019 & 2021 - Raised program cap for STO's and allowed more students to become eligible 2018 - 529 plans for K-12 tuition Pro-Life Defend the right to life for the unborn child - Supported: 2026 - Chemical Abortion - Requires abortion medication to be prescribed and administered in person by medical professionals licensed to do so and with written informed consent, right to sue provider of the drugs 2026 - Allow a hospital to treat a pregnant mother who is a minor when parents aren't available to consent 2025 - Prenatal Development Education required in schools to show a video of a baby's development inside the womb 2024 - Prohibited local governments from discriminating against maternity homes 2023 - "Heartbeat" law passed again (temporarily struck down by court but governor is appealing) 2022 - 2026 - MOMS Bill - More Options for Maternal Support - state support for pregnancy resource centers that support healthy pregnancies, childbirth, and parenting instead of abortion 2021 - Led in passage of the Protect Life Constitutional Amendment - The Iowa Constitution establishes no right to an abortion nor any right to the funding of it 2020 - Established a 24-hour waiting period requirement 2020 - Alfie's Law - courts cannot refuse life-sustaining treatments to a child over the parents' objections 2018 - Led in passage of "Heartbeat" law - (struck down by court but court refused governor request to reinstate) 2018 - Ban on the sale of aborted baby body parts 2018 - Prohibition on wrongful birth/life lawsuits 2017 - Led in passage of a 72-hour waiting period requirement - (struck down by court) 2017 - Led in passage of bill to strengthen the ultrasound requirement and require full informed consent for abortion 2017 - Ban on abortion at 20 weeks 2015 - Ultrasound requirement for abortion 2014 - Ban on webcam abortion (struck down by court) Human Life amendment for the U.S. and Iowa Constitutions/Life-at-Conception bill - still needs to be done No public funding for abortion or those who commit abortion 2019 - Led in passage of defunding of abortionists in federal grant money for sex education in schools 2017 - Led in passage of defunding of abortionists in state Medicaid money 2nd Amendment Rights The people's right to keep and bear arms is not to be infringed Expand liberty of law-abiding citizens to defend themselves - Supported: 2025 - Changed the minimum age to possess and carry firearms from 21 to 18 2024 - School employees who meet certain conditions are allowed to carry firearms at school 2022 - 2nd Amendment to the Iowa Constitution adopted by the people of Iowa in November 2021 - Second step to a "2nd Amendment" to the Iowa Constitution; will go on the ballot in 2022 2021 - "Constitutional" (permitless) Carry 2020 - 2nd Amendment Pre-Emption 2019 - First step to a "2nd Amendment" to the Iowa Constitution 2017 - "Stand Your Ground" Election Integrity We need common sense protections for our election and voting process so that fair and clean elections take place - we can have that without infringing on voter rights - Supported: 2026 - Voter Roll Maintenance - Verification of U.S. citizenship is required 2026 - Makes clear foreign entities are prohibited from being involved in campaigns for ballot issues 2025 - Banned ranked choice voting 2025 - Verification of U.S. citizenship for voters allowed using federal databases 2025 - Election Recounts - Reformed processes to ensure uniformity and consistency when election recounts are conducted 2023 - Removed Iowa from the Electronic Registration Information Center (ERIC) & required participation in the Iowa caucuses be in-person 2022 - Prohibited private money from being used to administer elections, like "Zuckerbucks" in Wisconsin 2021 - Prohibited unsolicited absentee ballot request forms, severely restricted who can return an absentee ballot, shortened periods for absentee ballots and early voting, established and strengthened penalties for willful disregard of election law 2017 - Voter ID requirement Better maintainance of our voter rolls, ID's for absentee ballot voters, eliminating same-day registration, Counterfeit-proof ballots (with security features); empowering citizens to help clean up voter rolls; allow all cities, counties and school districts to opt out of using voting machines and instead use a system of hand-counting or non-internet capable "counting" machines, eliminating ballot drop boxes - all still needs to be done Private Property Rights - Carbon Capture Pipeline We need to protect our 5th Amendment right to restrict use of eminent domain to seize private property only for public use and not to benefit a private company .
 The proposed carbon capture pipeline does not serve a public use which is required by the U.S. and Iowa constitutions in order to use the power of eminent domain.
 It only serves those who receive monetary benefits from a federal government program paid for by taxpayers that offers them incentives.
 Further, this government program is based on the highly debatable ideology of man-made climate change and the Green New Deal.
@@ -186,103 +20,23 @@ Public policy that inflicts damage on citizens' property should not be adopted w
 Carbon sequestration is taking a known harmless substance, carbon dioxide, which all plants need and is an extremely small percentage of the earth's atmosphere, and turning it into something deadly, which presents the possibility of health risks should rupture occur in the pipeline.
 Promises over the years during pipeline projects to return soil to its original condition once a pipeline is laid have not always been kept.
 This project threatens to inflict major disruption and damage to farmland soil health and proper conditions necessary for optimal growth of agricultural crops as well as damage to carefully laid tiling systems. - Nothing was done in the 2022 or 2023 or 2024 or 2026 sessions - disappointing!
-- 2025 - Finally! - Protects private property rights of landowners against the carbon capture pipeline.
+2025 - Finally! - Protects private property rights of landowners against the carbon capture pipeline.
 Requires a project to have a public use and to meet the definition of commodity and common carrier in order to use the power of eminent domain.
 Also requires the company have adequate insurance to cover all losses or damages.
 BUT it was vetoed by the governor!
-Immigration
-- State and local government should cooperate with federal immigration authorities as we have done in decades past.
-Government should perform its duty to protect our communities and remove dangerous criminals, whether they are citizens or not - Supported:
-- 2026 - Verification of U.S.
-Citizenship - required for school and state agency employment, driving, voting, and welfare benefits; English proficiency required for a CDL
-- 2024 - Makes it a state crime to illegally re-enter the U.S.; Empowers Iowa law enforcement to arrest and deport migrants on these charges
-- 2018 - Ban on "sanctuary cities"
-Religious Liberty
-- Protect and reinforce the 1st Amendment right to live and work according to your beliefs without fear of punishment by the government - Supported:
-- 2026 - SPEAKS Act - Protects K-12 students from discrimination on the basis of religious or political expression
-- 2026 - Conscience protections for health care providers
-- 2026 - Conscience protections for adoptive and foster parents and agencies
-- 2025 - Requires schools to excuse students to attend released time religious education programs
-- 2024 - Religious Freedom Restoration Act - Highest legal protection for religious liberty
-- 2019 Campus Freedom Act - religious freedom and free speech protections for students
-- Protection of mental health counselors and clients to conduct and participate in practice according to their faith - still needs to be done
-- Prohibit government from removing children from parents due to parents' refusal to agree with gender ideology
-Freedom of Speech
-- Protect 1st Amendment freedom of speech rights
-- 2025 - Anti-SLAPP - Protects citizens free speech rights from others seeking to suppress them by filing lawsuits
-- Protect 1st Amendment free speech rights on social media from Big Tech censorship - still needs to be done
-Constitutional Rights and Liberties in a Health Emergency
-- Prevent the loss of rights and liberties specified in the Constitution as occurred across the country during the COVID pandemic for citizens, families, & businesses- need more robust protections
-- 2026 - Disaster Emergency Reform - protects churches, election law cannot be changed without legislative approval, vaccine mandates prohibited
-- 2022 - Prohibition on schools requiring the COVID shot for enrollment
-- 2021 - Requires employers that mandate the COVID shot must honor an employee's request for a medical or religious exemption
-- 2021 - Partial Ban on Mask Mandates by K-12 schools, cities and counties
-- 2021 - Partial Ban on COVID Vaccine Passports - State, city, and county governments, schools, retailers, non-profits, etc. are required to respect 4th and 14th Amendment rights to privacy and liberty as well as HIPAA law.
+Immigration State and local government should cooperate with federal immigration authorities as we have done in decades past.
+Government should perform its duty to protect our communities and remove dangerous criminals, whether they are citizens or not - Supported: 2026 - Verification of U.S.
+Citizenship - required for school and state agency employment, driving, voting, and welfare benefits; English proficiency required for a CDL 2024 - Makes it a state crime to illegally re-enter the U.S.; Empowers Iowa law enforcement to arrest and deport migrants on these charges 2018 - Ban on "sanctuary cities" Religious Liberty Protect and reinforce the 1st Amendment right to live and work according to your beliefs without fear of punishment by the government - Supported: 2026 - SPEAKS Act - Protects K-12 students from discrimination on the basis of religious or political expression 2026 - Conscience protections for health care providers 2026 - Conscience protections for adoptive and foster parents and agencies 2025 - Requires schools to excuse students to attend released time religious education programs 2024 - Religious Freedom Restoration Act - Highest legal protection for religious liberty 2019 Campus Freedom Act - religious freedom and free speech protections for students Protection of mental health counselors and clients to conduct and participate in practice according to their faith - still needs to be done Prohibit government from removing children from parents due to parents' refusal to agree with gender ideology Freedom of Speech Protect 1st Amendment freedom of speech rights 2025 - Anti-SLAPP - Protects citizens free speech rights from others seeking to suppress them by filing lawsuits Protect 1st Amendment free speech rights on social media from Big Tech censorship - still needs to be done Constitutional Rights and Liberties in a Health Emergency Prevent the loss of rights and liberties specified in the Constitution as occurred across the country during the COVID pandemic for citizens, families, & businesses- need more robust protections 2026 - Disaster Emergency Reform - protects churches, election law cannot be changed without legislative approval, vaccine mandates prohibited 2022 - Prohibition on schools requiring the COVID shot for enrollment 2021 - Requires employers that mandate the COVID shot must honor an employee's request for a medical or religious exemption 2021 - Partial Ban on Mask Mandates by K-12 schools, cities and counties 2021 - Partial Ban on COVID Vaccine Passports - State, city, and county governments, schools, retailers, non-profits, etc. are required to respect 4th and 14th Amendment rights to privacy and liberty as well as HIPAA law.
 They cannot require their customers to show proof of a COVID shot.
 More needs to be done to protect employees and patients and visitors to hospitals, nursing homes, and doctor's offices.
-- Need to prohibit medical boards from disciplining doctors for prescribing drugs off-label for COVID, such as ivermectin
-- Need to expand Right-to-Try law for COVID patients
-Medical Freedom
-- Our 4th Amendment right to be secure in our persons from illegal search and seizure should not be violated, therefore our rights to bodily autonomy and privacy should be respected
-- 2026 - Parental consent required for HPV vaccine for a minor, just as it is for all other vaccines
-- 2026 - Ivermectin allowed to be sold over-the-counter
-- 2025 - Right to Try Upgrade - includes "individualized investigational treatment" and any patient that has a life-threatening or severely debilitating illness to participate
-- 2025 - Requires schools to inform parents about exemptions from vaccinations
-- Protection for Health Data Privacy - still needs to be done
-- Right of refusal protected for Emergency Use Authorization (EUA) Products - still needs to be done
-Law Enforcement
-- Strongly support funding law enforcement to do its job to protect and defend life and property
-- 2026 - Penalties raised on habitual offenders and set minimum bond amounts for serious crimes
-- 2026 - Animal Torture is a felony
-- 2026 - Traffic Cameras - restricted sharing of data collected by automatic license plate readers
-- 2025 - Made doxxing a crime of harassment
-- 2025 - Prohibited the use of cell phones while driving
-- 2024 - Traffic cameras strictly regulated
-- 2024 - Grooming added as a sexual abuse crime
-- 2024 - Looting (organized rioting and theft) is now a criminal charge
-- 2024 - Use of AI to commit sexual abuse is now a criminal charge
-- 2024 - Swatting (false reporting of a crime or emergency) is now a criminal charge
-- 2023 - School Investigations Reform - Law to protect children by preventing shuffling "bad actor" school employees from one school to another
-- 2022 - Elder Abuse Law - Increased penalties for crimes against seniors of physical, psychological, and emotional abuse and financial exploitation
-- 2021 - Passage of "Back the Blue" bill - Created and strengthened laws against violent protests and riots, including increased penalties and boosted benefits for law enforcement officers
-- 2021 - Increased protection for sexual abuse victims
-Restrooms, Locker Rooms, Women's Sports, Women's Shelters, DEI
-- Protect privacy and safety of women and children by preserving traditional access to public restrooms, women's shelters, women's prisons - still needs to be done
-- 2026 - Repealed affirmative action programs
-- 2026 - Required local governments to remove gender identity from their ordinances
-- 2025 - Sex and Gender Clarity - Removes gender identity from Iowa civil rights law, provides the legal basis for protecting women and children in bathrooms and changing areas, females in sports, and taxpayers from funding sex change treatments in Medicaid.
-- 2023 - Help not Harm Act - Protected youth from sex change treatments
-- 2023 - Requires bathrooms/lockerrooms/shower facilities in schools are only to be used by persons of the same biological sex
-- 2022 - Protected Women's and Girls' Sports in schools by ensuring participation is based on biological sex so that competition remains fair for females
-Human Trafficking and Pornography
-- Continue to combat human trafficking and pornography.
+Need to prohibit medical boards from disciplining doctors for prescribing drugs off-label for COVID, such as ivermectin Need to expand Right-to-Try law for COVID patients Medical Freedom Our 4th Amendment right to be secure in our persons from illegal search and seizure should not be violated, therefore our rights to bodily autonomy and privacy should be respected 2026 - Parental consent required for HPV vaccine for a minor, just as it is for all other vaccines 2026 - Ivermectin allowed to be sold over-the-counter 2025 - Right to Try Upgrade - includes "individualized investigational treatment" and any patient that has a life-threatening or severely debilitating illness to participate 2025 - Requires schools to inform parents about exemptions from vaccinations Protection for Health Data Privacy - still needs to be done Right of refusal protected for Emergency Use Authorization (EUA) Products - still needs to be done Law Enforcement Strongly support funding law enforcement to do its job to protect and defend life and property 2026 - Penalties raised on habitual offenders and set minimum bond amounts for serious crimes 2026 - Animal Torture is a felony 2026 - Traffic Cameras - restricted sharing of data collected by automatic license plate readers 2025 - Made doxxing a crime of harassment 2025 - Prohibited the use of cell phones while driving 2024 - Traffic cameras strictly regulated 2024 - Grooming added as a sexual abuse crime 2024 - Looting (organized rioting and theft) is now a criminal charge 2024 - Use of AI to commit sexual abuse is now a criminal charge 2024 - Swatting (false reporting of a crime or emergency) is now a criminal charge 2023 - School Investigations Reform - Law to protect children by preventing shuffling "bad actor" school employees from one school to another 2022 - Elder Abuse Law - Increased penalties for crimes against seniors of physical, psychological, and emotional abuse and financial exploitation 2021 - Passage of "Back the Blue" bill - Created and strengthened laws against violent protests and riots, including increased penalties and boosted benefits for law enforcement officers 2021 - Increased protection for sexual abuse victims Restrooms, Locker Rooms, Women's Sports, Women's Shelters, DEI Protect privacy and safety of women and children by preserving traditional access to public restrooms, women's shelters, women's prisons - still needs to be done 2026 - Repealed affirmative action programs 2026 - Required local governments to remove gender identity from their ordinances 2025 - Sex and Gender Clarity - Removes gender identity from Iowa civil rights law, provides the legal basis for protecting women and children in bathrooms and changing areas, females in sports, and taxpayers from funding sex change treatments in Medicaid.
+2023 - Help not Harm Act - Protected youth from sex change treatments 2023 - Requires bathrooms/lockerrooms/shower facilities in schools are only to be used by persons of the same biological sex 2022 - Protected Women's and Girls' Sports in schools by ensuring participation is based on biological sex so that competition remains fair for females Human Trafficking and Pornography Continue to combat human trafficking and pornography.
 Pornography is a feeder for human trafficking and is a serious public health crisis today.
-- 2026 - Age Verification required for pornography website to protect minors
-- 2026 - Human Trafficking law reform to provide more services to victimes
-- 2026 - Human Trafficking prevention training required for truckers
-- 2025 - Raised penalties on dissemination of obscene material to a minor
-- 2025 - Changed human trafficking law to afford better protections for victims and to better facilitate the arrest and prosecution of predators
-- 2023 - Raised penalties for human trafficking crimes
-- Require internet-capable devices to have their filters turned on when purchased - needs to be done
-- Prohibit sexually explicit and pornographic materials from public libraries - still needs to be done
-- Prohibit obscene programs and performances both in and out of school - still needs to be done
-- Eliminate the statute of limitations for sexual abuse victims - still needs to be done
-Federal Government Overreach
-- 2024 - Prohibited Central Bank Digital Currency (CBDC's) from being considered as money in the Uniform Commercial Code (UCC)
-- Presidential Executive Orders Reviewed by the State - still needs to be done
-- Prohibit the use of Environmental, Social, Governance (ESG) scores to be used in public or private financial transactions - still needs to be done
-- Nullification of World Health Organization (WHO) - still needs to be done
-Welfare Reform
-- Preserve state benefits for only the neediest Iowans - require those who are able to work
-- 2026 - SNAP Reform - Certain foods prohibited to be purchased, like soda and candy
-- 2025 - Work Requirements for able-bodied adults on the Medicaid expansion
-- 2023 - SNAP (Food Stamp) Reform - establishes income, asset, and identity verification eligibility requirements in real-time
-- 2021 - Created an "off ramp" for those on state assistance for child care by addressing the "cliff" effect - allows employees to take a raise or promotion at work
-Judicial Reform
-- Curb judicial activism by selecting more conservative judges.
-The bench should better reflect the people of Iowa. - Supported:
-- 2026 - American Laws for American Courts - Protects citizens against courts applying foreign laws when it will violate constitutional rights.
-- 2019 - Judicial Reform - Tilts power for selection of justices on the Iowa Supreme Court away from lawyers not elected by the people and toward the governor who is elected by the people.
-Pro-Traditional Marriage
-- Only marriage between one man and one woman should be valid or recognized in the U.S. or in Iowa
-- Supported letting the people vote on the Iowa Marriage Amendment
+2026 - Age Verification required for pornography website to protect minors 2026 - Human Trafficking law reform to provide more services to victimes 2026 - Human Trafficking prevention training required for truckers 2025 - Raised penalties on dissemination of obscene material to a minor 2025 - Changed human trafficking law to afford better protections for victims and to better facilitate the arrest and prosecution of predators 2023 - Raised penalties for human trafficking crimes Require internet-capable devices to have their filters turned on when purchased - needs to be done Prohibit sexually explicit and pornographic materials from public libraries - still needs to be done Prohibit obscene programs and performances both in and out of school - still needs to be done Eliminate the statute of limitations for sexual abuse victims - still needs to be done Federal Government Overreach 2024 - Prohibited Central Bank Digital Currency (CBDC's) from being considered as money in the Uniform Commercial Code (UCC) Presidential Executive Orders Reviewed by the State - still needs to be done Prohibit the use of Environmental, Social, Governance (ESG) scores to be used in public or private financial transactions - still needs to be done Nullification of World Health Organization (WHO) - still needs to be done Welfare Reform Preserve state benefits for only the neediest Iowans - require those who are able to work 2026 - SNAP Reform - Certain foods prohibited to be purchased, like soda and candy 2025 - Work Requirements for able-bodied adults on the Medicaid expansion 2023 - SNAP (Food Stamp) Reform - establishes income, asset, and identity verification eligibility requirements in real-time 2021 - Created an "off ramp" for those on state assistance for child care by addressing the "cliff" effect - allows employees to take a raise or promotion at work Judicial Reform Curb judicial activism by selecting more conservative judges.
+The bench should better reflect the people of Iowa. - Supported: 2026 - American Laws for American Courts - Protects citizens against courts applying foreign laws when it will violate constitutional rights.
+2019 - Judicial Reform - Tilts power for selection of justices on the Iowa Supreme Court away from lawyers not elected by the people and toward the governor who is elected by the people.
+Pro-Traditional Marriage Only marriage between one man and one woman should be valid or recognized in the U.S. or in Iowa Supported letting the people vote on the Iowa Marriage Amendment What issue is most important to you?
+Use the form below.
+Contact Us Name: Email: Phone: Message: Thank you for contacting us.
+We will get back to you as soon as possible Oops, there was an error sending your message.
+Please try again later Follow Us 2025 - 91st Iowa General Assembly Paid for by 'Friends of Sandy Salmon' Website design by 1Vision Follow Us Iowa Legislature Iowa Constitution State of Iowa Iowa Senate Republicans Share by:

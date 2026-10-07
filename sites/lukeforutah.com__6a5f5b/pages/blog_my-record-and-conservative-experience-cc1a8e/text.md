@@ -1,5 +1,4 @@
-My Record and Conservative Experience
-With less than one week to go this has been such a great experience for me, fully understanding who you are as delegates of your neighborhoods and the Wasatch Back, and how we have really solidified the issues that matter to us.
+0 Skip to Content Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate My Record and Conservative Experience Apr 21 Written By S With less than one week to go this has been such a great experience for me, fully understanding who you are as delegates of your neighborhoods and the Wasatch Back, and how we have really solidified the issues that matter to us.
 I want to speak to those and also talk about this race, especially things that have been brought up about me.
 A lot of that comes down to the fact that I have a track record and I am running on it.
 I’ve been involved in this community longer than a campaign season, and I’ve been working on these issues here long before I ever filed to run.
@@ -20,5 +19,4 @@ This isn’t about slogans or trying to use issues to get ahead of anyone else.
 I’m not going to be a keyboard warrior or chase headlines.
 I’m going to listen and get to work.
 There are plenty of things people have told me one person can’t do, but together we can win this race and make life better for the Wasatch Back.
-All the best,
-Luke Searle
+All the best, Luke Searle S Previous Previous This Race Beyond Convention Next Next Summit County Site Navigation Home About Issues & Priorities Record & Results Contact Donate Connect Copyright # Paid for by Friends of Luke Searle

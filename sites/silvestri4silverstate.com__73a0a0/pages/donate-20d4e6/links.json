@@ -1,15 +1,74 @@
 [
-"https://facebook.com/VoteSilvestri",
-"https://instagram.com/silvestri4nv",
-"https://silvestri4silverstate.com/",
-"https://silvestri4silverstate.com/donate",
-"https://silvestri4silverstate.com/endorsements",
-"https://silvestri4silverstate.com/events",
-"https://silvestri4silverstate.com/forms/Joe_Silvestri_Check_Donation_Form.pdf",
-"https://silvestri4silverstate.com/issues",
-"https://silvestri4silverstate.com/privacy",
-"https://silvestri4silverstate.com/register",
-"https://silvestri4silverstate.com/subscribe",
-"https://silvestri4silverstate.com/support",
-"https://x.com/silvestri4nv"
+{
+"text": "CONTACT",
+"href": "https://silvestri4silverstate.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://silvestri4silverstate.com/donate"
+},
+{
+"text": "Door-to-door",
+"href": "https://silvestri4silverstate.com/support#door"
+},
+{
+"text": "Download PDF",
+"href": "https://silvestri4silverstate.com/forms/Joe_Silvestri_Check_Donation_Form.pdf"
+},
+{
+"text": "EVENTS",
+"href": "https://silvestri4silverstate.com/events"
+},
+{
+"text": "Endorsements",
+"href": "https://silvestri4silverstate.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://silvestri4silverstate.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://silvestri4silverstate.com/issues"
+},
+{
+"text": "Postcard party",
+"href": "https://silvestri4silverstate.com/support#p_party"
+},
+{
+"text": "Precinct captain",
+"href": "https://silvestri4silverstate.com/support#p_captain"
+},
+{
+"text": "Privacy Policy",
+"href": "https://silvestri4silverstate.com/privacy"
+},
+{
+"text": "Registered?",
+"href": "https://silvestri4silverstate.com/register"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://silvestri4silverstate.com/subscribe"
+},
+{
+"text": "Support",
+"href": "https://silvestri4silverstate.com/support"
+},
+{
+"text": "View / Print",
+"href": "https://silvestri4silverstate.com/forms/Joe_Silvestri_Check_Donation_Form.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/VoteSilvestri/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/silvestri4nv"
+},
+{
+"text": "[image]",
+"href": "https://x.com/silvestri4nv"
+}
 ]

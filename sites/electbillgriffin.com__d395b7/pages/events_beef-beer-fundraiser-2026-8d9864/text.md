@@ -1,10 +1,5 @@
-Back to All Events
-Join us for a Beef & Beer Fundraiser in support of Bill Griffin for State Representative.
+0 Skip to Content EVENTS ABOUT THE ISSUES PRESS RELEASES MEDIA CONTACT Donate Open Menu Close Menu EVENTS ABOUT THE ISSUES PRESS RELEASES MEDIA CONTACT Donate Open Menu Close Menu EVENTS ABOUT THE ISSUES PRESS RELEASES MEDIA CONTACT Donate Back to All Events Beef & Beer Fundraiser Wednesday, July 29, 2026 6:00 PM 9:00 PM Curran's Irish Inn 6900 State Road Philadelphia, Pennsylvania, 19135 United States (map) Google Calendar ICS Join us for a Beef & Beer Fundraiser in support of Bill Griffin for State Representative.
 Enjoy an evening of great food, drinks, and community while supporting Bill’s campaign for State Representative.
 Tickets are $100 per person and include roast beef, salad, beer, and wine.
 Come connect with friends, neighbors, and fellow supporters as we rally behind Bill and his commitment to Northeast Philadelphia.
-Checks can be made payable to Bill Griffin for State Representative and mailed to:
-8629 Yale Place, Philadelphia, PA 19136
-Previous
-Previous
-May 9
+Checks can be made payable to Bill Griffin for State Representative and mailed to: 8629 Yale Place, Philadelphia, PA 19136 Previous Previous May 9 Bowling Fundraiser Night MEET BILL THE ISSUES CONTACT Support Bill for State Representative Bill Griffin for State Representative 8629 Yale Place | Philadelphia, PA 19136 ElectBillGriffin@gmail.com EVERY CONTRIBUTION HELPS US REACH MORE VOTERS © # BILL GRIFFIN | PAID FOR BY FRIENDS OF BILL GRIFFIN | PRIVACY POLICY

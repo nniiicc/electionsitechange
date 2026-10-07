@@ -1,7 +1,4 @@
-When Government Goes Dark, Taxpayers Lose Control
-Updated: Sep 9
-By Buddy Jericho
-Across Colorado, I hear from people who did what they were told responsible citizens should do.
+top of page DONATE MEET VICTOR POLICIES Policies My Priorities Policies My Priorities PRESS MEDIA ALL POSTS PRESS RELEASES NEWSLETTERS OP-EDS MEDIA ALL POSTS PRESS RELEASES NEWSLETTERS OP-EDS EVENTS ENDORSEMENTS CWB PLAN CONTACT Menu Close DONATE All Posts Press Releases Newsletters Op-Eds When Government Goes Dark, Taxpayers Lose Control Victor Marx for Governor Sep 4 3 min read Updated: Sep 9 By Buddy Jericho Across Colorado, I hear from people who did what they were told responsible citizens should do.
 They worked, saved, bought a home and, in some cases, paid it off.
 Yet they still worry they may not be able to afford to stay because the tax bill keeps climbing.
 That anxiety is not imaginary.
@@ -49,3 +46,10 @@ Connect spending to results.
 Give citizens a meaningful voice before costs climb and promises change.
 Accountability is not merely a campaign theme.
 It is how we restore trust, protect individual agency and make self-government work again.
+Op-Eds Recent Posts See All Don't Blame Young Coloradans for Socialism.
+Give Them Their Future Back.
+By Buddy Jericho I recently returned from traveling across Colorado’s Western Slope with gubernatorial candidate Victor Marx and his lieutenant governor running mate, George Markert.
+Along the way, I The Campaign After the Campaign By Buddy Jericho A few nights after the primary, we opened a Zoom call with GOP county leaders and grassroots Republicans expecting a normal campaign update.
+Instead, people kept joining.
+Questions ke A Voter’s Guide to Misinformation Buddy Jericho shares a practical framework for spotting misleading claims and responding with calm, source-backed facts.
+MEET VICTOR POLICIES Policies My Priorities PRESS MEDIA ALL POSTS PRESS RELEASES NEWSLETTERS OP-EDS EVENTS ENDORSEMENTS CWB PLAN CONTACT ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

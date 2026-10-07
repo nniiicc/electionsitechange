@@ -1,6 +1,5 @@
-Protect OREGON farms and nurseries
-Fight for family farms
-HD18 runs on agriculture.
+Skip navigation menu Home About Roy Priorities News Endorsements Events Volunteer Contact Donate Home About Roy Priorities News Endorsements Events Volunteer Contact Donate Fix Our Healthcare System Fulfill the Promise of Public Education Defend Our Immigrant Neighbors Fight for family farms Keep More of Oregon's Wealth in Oregon!
+(With a state bank!) Protect OREGON farms and nurseries Fight for family farms HD18 runs on agriculture.
 The farms, nurseries, Christmas tree farms, vineyards, and grass seed farms that define our landscape are families, legacies, and the core of this community's identity and economy.
 Roy believes we don't just need to protect what our farming families have built.
 We need to cultivate a new generation of farmers, growing food for Oregonians and feeding grateful customers around the world.
@@ -12,3 +11,4 @@ Farm bankruptcies are at a national high point.
 Farmers approaching retirement are asking whether their kids can even afford to take over, whether the next generation will see farming as a viable path.
 The snake-oil salesmen who promised to fight for working people are making life harder for the working people of HD18 while corporate agribusiness absorbs the damage and moves on.
 Roy will fight for farmers, and for the farmworkers that power those farms, for policies that keep family farming a viable path for the next generation.
+Powered by RUN! website builder You need to enable JavaScript to run this app.

@@ -1,123 +1,51 @@
-Endorsements
-FEATURED ENDORSEMENTS
-COMMUNITY ENDORSEMENTS
-- Phil Rockefeller WA State Senator & State Rep (Fmr)
-- Julius "Doc" Blackwell Founder, DocLuvTheKids
-- Judge Jay Roof Kitsap Superior Court Judge (Ret)
-- Joan Hanten President, Olympic College (Fmr)
-- Capt.
+0 Skip to Content Home Meet Daria Endorsements Platform Policies Take Action Media English Donate Open Menu Close Menu Home Meet Daria Endorsements Platform Policies Take Action Media English Donate Open Menu Close Menu Home Meet Daria Endorsements Platform Policies Take Action Media English Back Donate Endorsements FEATURED ENDORSEMENTS Association of Washington Business International Union of Operating EngineersLocal 302 Kitsap County Democratic Women [Approved] Washington Farm Bureau Washington Affordable Housing Council Kitsap Builders Association National Federation of Independent Business Kitsap County Association of REALTORS Description goes here Washington Council of Police & Sheriffs Washingtonians for a Brighter Future Humane Voters of Washington Poulsbo Police Officers Association Tommy's Story Hour U.S.
+Congressman Adam Smith Ranking Member of the House Armed Services Committee Clarence Moriwaki MAYOR, BAINBRIDGE ISLAND “During these tumultuous times of polarized politics and appalling headlines, we all need - and deserve - calm, thoughtful, common-sense leadership.
+I believe that leader is Daria.
+From his years of selfless volunteering on numerous Kitsap County nonprofit boards and serving in leadership positions with both the 23rd Legislative District and Kitsap County Democrats, to a successful international career and raising his family on their North Kitsap farm, Daria brings a wealth of real-life experience, solid family values, and integrity that will serve us well in Olympia.
+I hope that you will join me in supporting Daria Ilgen as our new state representative.” Ed Stern MAYOR, POULSBO “Daria embodies the kind of leadership Olympia needs - principled, balanced, and pragmatic.
+He’s committed to binding the wounds of our nation by cutting through the scar tissue of partisanship and focusing on what unites us.
+A courageous and creative problem solver , Daria leads with both heart and reason, listening before he speaks, asking the right questions, and bringing people together to get things done. ” Ardis Morrow COMMUNITY ICON & FORMER NKSD BOARD CHAIR “I’ve spent a lifetime in this community, and I care deeply about who we trust to lead it forward.
+Daria Ilgen stands out for his integrity, his respect for others, and his genuine commitment to people over politics.
+He’s the kind of leader I believe in, and I’m proud to support him. ” Rick Eckert POULSO CITY COUNCILMEMBER “Daria is a man of integrity, dedication, and a willingness to work with and for the entire Kitsap community.
+I trust Daria for go to Olympia and tackle the hard issues we face in Washington today.
+Issues of affordability, accountability, and working collaboratively to achieve what is best for all Washingtonians.” Diana Riggins OWNER, RIGGINS ENTERPRISES “I am proud to endorse Daria Ilgen for Washington State Representative, District 23.
+Daria brings a rare combination of leadership, integrity, and deep-rooted commitment to community.
+His background in community activism reflects not only a strong understanding of the issues facing our region, but also a proven ability to bring people together to create meaningful solutions.
+District 23 deserves representation that is inclusive, informed, and forward-thinking. ” Dan Weedin BUSINESS OWNER “Daria is honest, a straight-shooter, hard working, and respectful of all viewpoints.
+He has a love for his community and is always seeking ways to be a force-multiplier; someone who makes others around him better.
+He’s a devoted husband and father and is passionate about creating a better community.
+I have no doubt that Daria Ilgen will serve the 23rd District with character, commitment, candor, and respect.
+He has my full support and I encourage you to join me in voting for him.” Doña Keating COMMUNITY LEADER “I'm endorsing Daria Ilgen for State Representative in the 23rd District.
+He's spent decades solving complex problems across diverse teams, cultures, and competing priorities - environments where you have to find solutions with those who disagree with you.
+Bridge-building is a skill increasingly absent in the political arena.
+Daria is running to make government work the way his career required him to work: listen, collaborate, deliver.
+Kitsap needs a representative who brings professionalism and backbone to the table.
+Daria is that leader. ” Nancy Moffatt COMMUNITY LEADER “Daria understands deeply how to listen to constituents and look at all sides of an important issue.
+Further, he knows how critical it is to have leadership that will bring the focus back to common ground and truly represent the wishes of the community he serves.” Nick Johnson CREATIVE PRODUCER, LIBRO.FM “I’ve gotten to know Daria over the last few years, and I can confirm a few things: he’s whip-smart, he’s kinder than he has any right to be, and he’s genuinely dedicated to his family and community.
+In a world of politicians who use their "community involvement" as a LinkedIn header, Daria actually shows up.
+Again and again and again.
+Whether it’s at our local Rotary projects or just being the guy who knows everyone's dog's name, he’s already doing the work. ” Jim Schlacter COMMUNITY LEADER “I’ve worked with Daria on various civic projects and have found him to be a smart, energetic, and thoughtful leader.
+He will be an outstanding Representative of our 23rd Legislative District in Olympia. ” Ashley Oaksmith COMMUNITY LEADER “I have come to know Daria through our shared community service, where he has consistently demonstrated unwavering integrity, thoughtful leadership, and a proven ability to bring people together around effective solutions. ” Ash Black BREMERTON CITY COUNCIL, 2025 CANDIDATE “Daria is not the average politician.
+He has fresh ideas and can bring the transparency that people have desperately been seeking in local government!
+I believe that Daria is right for this position and can communicate the needs of our community effectively. ” Shannon Turner BREMERTON SCHOOL BOARD & FORMER LEGISLATIVE AID TO SHERRY APPLETON “In Bremerton, we know who shows up and who just talks.
+Daria leads with principle and respect - he listens, builds real relationships, and takes action alongside our community.
+Without holding office, he’s already brought people together across real divides , and that’s the kind of leadership our community and Olympia need more than ever. ” COMMUNITY ENDORSEMENTS Phil Rockefeller WA State Senator & State Rep (Fmr) Julius "Doc" Blackwell Founder, DocLuvTheKids Judge Jay Roof Kitsap Superior Court Judge (Ret) Joan Hanten President, Olympic College (Fmr) Capt.
 Tom Zwolfer U.S.
-Navy (ret), Former Commander Naval Base Kitsap
-- Gary McVey Poulsbo City Councilmember
-- Kirstin Hytopoulos Deputy Mayor & Councilmember, Former Mayor, Bainbridge Island
-- Patty Lent Bremerton Mayor & Kitsap County Commissioner (Fmr)
-- Denita Holmes Community Leader
-- Doug Newell Poulsbo City Councilmember
-- Anne Blair Bainbridge Island Mayor & City Councilmember (Fmr)
-- John Morrissey Mayor Pro Tem & Port Orchard City Councilmember
-- Meredith Green Kitsap County Treasurer (Fmr)
-- Ed Wolfe Kitsap County Commissioner (Fmr)
-- Alanna Imbach Community Leader & Business Owner
-- James Kennedy Jefferson County Prosecuting Attorney
-- Jewel Shepherd Sampson Community Leader & Business Owner
-- David Emmons Kitsap Business Leader
-- Irene Moyer Community Leader
-- Gary Simpson Kitsap County Sheriff (Fmr)
-- Shirah Dedman Port Orchard City Councilmember
-- Rick Eckert Poulsbo City Councilmember
-- Doug Taber Poulsbo City Councilmember
-- Aljolynn Sperber Tourism Leader
-- Dan Weedin Community Leader
-- James Weaver Community Leader
-- Curtis Vincent Community Leader
-- Jeff Ozimek Poulsbo Civic Leader
-- Dr.
-John Gibbons President, WA Dental Association (Fmr)
-- Wayne R Gulla Chief of Patrol, Kitsap County Sheriffs Office (ret)
-- Miranda Smallwood Community Leader
-- Harlan Harris Community Leader
-- Jon Rose KEDA Board Member
-- Laura Heft Community Leader
-- Danielle Turner Community Leader
-- Alanna Imbach, Community Leader & Business Owner
-- Aljolynn Sperber, Tourism Leader
-- Ardis Morrow, Poulsbo Community Icon
-- Branden Doyle, CEO Violett
-- Carol Kowalski, Community Leader
-- Charles Keating, Community Leader
-- Cheryl Harris, Community Leader
-- Chris Endresen Scott, Kitsap County Commissioner & Poulsbo City Councilmember (Fmr)
-- Cindy Garfein, Community Leader
-- Clint Boxman, Kingston Community Leader
-- Curtis Vincent, Poulsbo Community Leader
-- Dan Weedin, Community Leader
-- Danielle Turner, Community Leader
-- Darren Smith, Community Member
-- David Emmons, President & CEO Greater Kitsap Chamber (Fmr)
-- David Hedderly-Smith, Community Leader
-- Denita Holmes, Community Leader
-- Dianna Riggins, Owner Riggins Enterprises
-- Dr.
-Steve Lordon, Community Leader
-- Doña Keating, Community Leader
-- Doug Newell, Poulsbo City Council
-- Doug Taber, Poulsbo City Council
-- Ed Stern, Mayor of Poulsbo
-- Ed Wolfe, Kitsap County Commissioner (Fmr)
-- Eldon Johansen, Community Member
-- Gary Simpson, Kitsap County Sheriff (Fmr)
-- Harlan Harris, Community Leader
-- Irene Moyer, Community Business Leader
-- James Kennedy, Jefferson County Prosecuting Attorney
-- James Weaver, Community Leader
-- Jay Roof, Kitsap Superior Court Judge (Ret)
-- Jeff Ozimek, Poulsbo Civic Leader
-- Jeffrey Menge, Law Enforcement & Fmr.
-President of Leadership Kitsap
-- Jen Markaryan, Community Leader
-- Jerry Deeter, Community Leader
-- Jerry Hebert, WA.
-State Human Rights Commissioner (Fmr)
-- Jewel Shepard Sampson, Community Leader & Business Owner
-- Jim Schlachter, Community Leader
-- Joan Hanten, President of Olympic College (Fmr)
-- Joe Hulsey, Community Leader
-- Joey Holmes, Native American Advocate
-- John Altman, Community Member
-- John Willett, Community Leader, Sports Safety and Education Association
-- John Butler, Community Leader
-- Dr.
-John Gibbons, President WA State Dental Association (Fmr)
-- Julius “Doc” Blackwell, DocLuvTheKids Founder
-- Justin Black, Poulsbo Police Officer
-- Kerrie Houston Reightley, Community Member
-- Kevin Campbell, Small Business Owner
-- KJ Lange, Greater Kitsap Chamber of Commerce Member
-- Laura Gronnvoll, Kingston Community Leader
-- Laura Heft, Community Member
-- Leah Persinger, Small Business Owner
-- Les Williams, Community Member
-- Margene Smaaladen, Community Leader
-- Mary Gorman, Community Leader
-- Megan Boxman, Community Leader
-- Merrill Keating, Startup Co-Founder & Youth Leader
-- Michael Grant, Kitsap County Sheriff's Detective (ret)
-- Mike Perry, Marine Veteran & Small Business Owner
-- Miranda Smallwood, Community & Education Leader
-- Nick Johnson, Creative Producer - Libro.fm
-- Nicolas Duchastel de Montrouge, Community Member
-- Pat VanDeist, Community Leader
-- Phil Rockefeller, WA State Senator & State Rep (Fmr)
-- Rand Hillier, Community Icon
-- Ron Erickson, Bainbridge Community Member
-- Ruth Gordon, Jefferson County Clerk (Ret)
-- Ryan Snook, Lifelong Bremerton Resident
-- Siri Bjarnson Reinbold, NKSD Teacher
-- Skylar Olsen, Chief Economist, Frolic
-- Steve Garfein, Community Leader
-- Suzanne Eckmann, Community Leader
-- Tiffany Attrill, 2024 Candidate for State Representative for Legislative District 23
-- Tommy Debord, Founder, Tommy’s Story Hour
-- Tom Eckmann, Community Leader
-- Tom O’Hare, Poulsbo Rotary Charter Member
-- Tom Wolfe, Bremerton Community Leader
+Navy (ret), Former Commander Naval Base Kitsap Gary McVey Poulsbo City Councilmember Kirstin Hytopoulos Deputy Mayor & Councilmember, Former Mayor, Bainbridge Island Patty Lent Bremerton Mayor & Kitsap County Commissioner (Fmr) Denita Holmes Community Leader Doug Newell Poulsbo City Councilmember Anne Blair Bainbridge Island Mayor & City Councilmember (Fmr) John Morrissey Mayor Pro Tem & Port Orchard City Councilmember Meredith Green Kitsap County Treasurer (Fmr) Ed Wolfe Kitsap County Commissioner (Fmr) Alanna Imbach Community Leader & Business Owner James Kennedy Jefferson County Prosecuting Attorney Jewel Shepherd Sampson Community Leader & Business Owner David Emmons Kitsap Business Leader Irene Moyer Community Leader Gary Simpson Kitsap County Sheriff (Fmr) Shirah Dedman Port Orchard City Councilmember Rick Eckert Poulsbo City Councilmember Doug Taber Poulsbo City Councilmember Aljolynn Sperber Tourism Leader Dan Weedin Community Leader James Weaver Community Leader Curtis Vincent Community Leader Jeff Ozimek Poulsbo Civic Leader Dr.
+John Gibbons President, WA Dental Association (Fmr) Wayne R Gulla Chief of Patrol, Kitsap County Sheriffs Office (ret) Miranda Smallwood Community Leader Harlan Harris Community Leader Jon Rose KEDA Board Member Laura Heft Community Leader Danielle Turner Community Leader Alanna Imbach , Community Leader & Business Owner Aljolynn Sperber , Tourism Leader Ardis Morrow , Poulsbo Community Icon Branden Doyle, CEO Violett Carol Kowalski, Community Leader Charles Keating , Community Leader Cheryl Harris , Community Leader Chris Endresen Scott , Kitsap County Commissioner & Poulsbo City Councilmember (Fmr) Cindy Garfein , Community Leader Clint Boxman , Kingston Community Leader Curtis Vincent , Poulsbo Community Leader Dan Weedin , Community Leader Danielle Turner , Community Leader Darren Smith , Community Member David Emmons , President & CEO Greater Kitsap Chamber (Fmr) David Hedderly-Smith , Community Leader Denita Holmes , Community Leader Dianna Riggins , Owner Riggins Enterprises Dr.
+Steve Lordon, Community Leader Doña Keating , Community Leader Doug Newell , Poulsbo City Council Doug Taber , Poulsbo City Council Ed Stern , Mayor of Poulsbo Ed Wolfe , Kitsap County Commissioner (Fmr) Eldon Johansen , Community Member Gary Simpson , Kitsap County Sheriff (Fmr) Harlan Harris , Community Leader Irene Moyer , Community Business Leader James Kennedy , Jefferson County Prosecuting Attorney James Weaver , Community Leader Jay Roof , Kitsap Superior Court Judge (Ret) Jeff Ozimek , Poulsbo Civic Leader Jeffrey Menge , Law Enforcement & Fmr.
+President of Leadership Kitsap Jen Markaryan , Community Leader Jerry Deeter , Community Leader Jerry Hebert , WA.
+State Human Rights Commissioner (Fmr) Jewel Shepard Sampson , Community Leader & Business Owner Jim Schlachter , Community Leader Joan Hanten , President of Olympic College (Fmr) Joe Hulsey , Community Leader Joey Holmes , Native American Advocate John Altman , Community Member John Willett , Community Leader, Sports Safety and Education Association John Butler , Community Leader Dr.
+John Gibbons , President WA State Dental Association (Fmr) Julius “Doc” Blackwell , DocLuvTheKids Founder Justin Black , Poulsbo Police Officer Kerrie Houston Reightley , Community Member Kevin Campbell , Small Business Owner KJ Lange , Greater Kitsap Chamber of Commerce Member Laura Gronnvoll , Kingston Community Leader Laura Heft , Community Member Leah Persinger , Small Business Owner Les Williams , Community Member Margene Smaaladen , Community Leader Mary Gorman , Community Leader Megan Boxman , Community Leader Merrill Keating , Startup Co-Founder & Youth Leader Michael Grant , Kitsap County Sheriff's Detective (ret) Mike Perry , Marine Veteran & Small Business Owner Miranda Smallwood , Community & Education Leader Nick Johnson , Creative Producer - Libro.fm Nicolas Duchastel de Montrouge , Community Member Pat VanDeist , Community Leader Phil Rockefeller , WA State Senator & State Rep (Fmr) Rand Hillier , Community Icon Ron Erickson , Bainbridge Community Member Ruth Gordon , Jefferson County Clerk (Ret) Ryan Snook , Lifelong Bremerton Resident Siri Bjarnson Reinbold , NKSD Teacher Skylar Olsen , Chief Economist, Frolic Steve Garfein , Community Leader Suzanne Eckmann , Community Leader Tiffany Attrill , 2024 Candidate for State Representative for Legislative District 23 Tommy Debord , Founder, Tommy’s Story Hour Tom Eckmann , Community Leader Tom O’Hare , Poulsbo Rotary Charter Member Tom Wolfe , Bremerton Community Leader Add your endorsement Have a question for Daria or the campaign?
+Whether you’re looking to connect, have a question, media inquiry, or would like to request an interview, fill out the form below to get in touch.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up We respect your privacy.
+We’ll never sell or share your information.
+Unsubscribe anytime.
+Thank you!
+Your support makes this community-powered campaign possible!
+Every dollar helps us reach voters and stay grounded in community and accountability.
+Help bring steady, community-first leadership back to Olympia! $23 for the 23rd Legislative District $25 $67 (in case you're unsure like my kids) $100 $500 $1200 Other amount...
+Donate Donate by Mail: Friends of Daria Ilgen PO Box 557, Poulsbo, WA 98370 Paid for by Friends of Daria Ilgen, PO Box 557, Poulsbo, WA 98370 • Privacy Policy

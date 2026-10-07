@@ -1,24 +1,106 @@
 [
-"http://ilga.gov/house/Rep.asp?GA=100&MemberID=2490",
-"https://facebook.com/halpinforillinois?pnref=story",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fwww.halpinforillinois.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://halpinforillinois.com/",
-"https://halpinforillinois.com/about-mike",
-"https://halpinforillinois.com/category/news",
-"https://halpinforillinois.com/cdn-cgi/l/email-protection",
-"https://halpinforillinois.com/donate",
-"https://halpinforillinois.com/early-voting",
-"https://halpinforillinois.com/events",
-"https://halpinforillinois.com/events/2026-10-04",
-"https://halpinforillinois.com/events/list",
-"https://halpinforillinois.com/events/month",
-"https://halpinforillinois.com/events/today",
-"https://halpinforillinois.com/events/today?ical=1",
-"https://halpinforillinois.com/events/today?outlook-ical=1",
-"https://halpinforillinois.com/get-involved",
-"https://halpinforillinois.com/issues",
-"https://halpinforillinois.com/privacy-policy",
-"https://halpinforillinois.com/survey-focus-form",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.halpinforillinois.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Mike+Halpin+for+Illinois+Events+Archive+-+Mike+Halpin+for+Illinois",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.halpinforillinois.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Mike+Halpin+for+Illinois+Events+Archive+-+Mike+Halpin+for+Illinois"
+{
+"text": "#ago",
+"href": "https://www.halpinforillinois.com/events/today/"
+},
+{
+"text": "About Mike",
+"href": "https://www.halpinforillinois.com/about-mike/"
+},
+{
+"text": "Contact",
+"href": "https://halpinforillinois.com/#contact"
+},
+{
+"text": "Day",
+"href": "https://www.halpinforillinois.com/events/today/"
+},
+{
+"text": "Donate",
+"href": "https://www.halpinforillinois.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://halpinforillinois.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://www.halpinforillinois.com/events/today/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://www.halpinforillinois.com/events/today/?outlook-ical=1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.halpinforillinois.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwww.halpinforillinois.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "ILGA.Gov",
+"href": "http://ilga.gov/house/Rep.asp?GA=100&MemberID=2490"
+},
+{
+"text": "Issues",
+"href": "https://www.halpinforillinois.com/issues/"
+},
+{
+"text": "List",
+"href": "https://www.halpinforillinois.com/events/list/"
+},
+{
+"text": "Month",
+"href": "https://www.halpinforillinois.com/events/month/"
+},
+{
+"text": "News",
+"href": "https://www.halpinforillinois.com/category/news/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.halpinforillinois.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Mike+Halpin+for+Illinois+Events+Archive+-+Mike+Halpin+for+Illinois"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.halpinforillinois.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Mike+Halpin+for+Illinois+Events+Archive+-+Mike+Halpin+for+Illinois"
+},
+{
+"text": "Previous Day",
+"href": "https://www.halpinforillinois.com/events/2026-10-06/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.halpinforillinois.com/privacy-policy/"
+},
+{
+"text": "Take Our Survey",
+"href": "https://www.halpinforillinois.com/survey-focus-form/"
+},
+{
+"text": "Voting Resources",
+"href": "https://www.halpinforillinois.com/early-voting/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:FriendsofMikeHalpin@gmail.com"
+},
+{
+"text": "[image]309.553.1429",
+"href": "tel:3095531429"
+},
+{
+"text": "[tooltip: Previous day]",
+"href": "https://www.halpinforillinois.com/events/2026-10-06/"
+},
+{
+"text": "facebook.com/halpinforillinois",
+"href": "https://www.facebook.com/halpinforillinois?pnref=story"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.halpinforillinois.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

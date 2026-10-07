@@ -1,5 +1,3 @@
-TAKE ACTION
-Get Involved
-Chip in
-This campaign is powered by grassroots contributions from people just like you.
-Can we count on you to join this fight for District 8?
+Skip to content Donate Now to Stand with Ashby for Senate Donate Now to Stand with Ashby for Senate About Issues Statement News Get Involved Contact Us Volunteer About Issues Statement News Get Involved Contact Us Volunteer Facebook X-twitter Instagram Donate Donate Donate Donate TAKE ACTION Get Involved Sign up for updates Follow us on Twitter Volunteer with the campaign Endorse Angelique Like us on Facebook Chip in to the movement Chip in This campaign is powered by grassroots contributions from people just like you.
+Can we count on you to join this fight for District 8? $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Donate Donate If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Working for you or Chip in $5 Home About Issues Statement News Get Involved Facebook X-twitter Instagram 1017 L Street #794, Sacramento, CA 95814 Privacy Policy Contact Us Press Inquiry Paid for by Angelique Ashby for Senate 2026 ID# 1456818 Powered by Apollo About Issues Statement News Get Involved Contact Us Volunteer About Issues Statement News Get Involved Contact Us Volunteer Donate Donate Facebook-f X-twitter Instagram

@@ -1,13 +1,9 @@
-Meet Barbara Hernandez
-Conoce a Barbara Hernandez
-Embedded Files
-Barbara's Bio
-Barbara Hernandez was born and raised in Aurora, Illinois.
+Search this site Embedded Files Skip to main content Skip to navigation Barbara For State Representative Home Calendar Meet Barbara Request a sign Issues Endorsements Donate Team Barbara For State Representative Home Calendar Meet Barbara Request a sign Issues Endorsements Donate Team More Home Calendar Meet Barbara Request a sign Issues Endorsements Donate Team Meet Barbara Hernandez Conoce a Barbara Hernandez Barbara's Bio Barbara Hernandez was born and raised in Aurora, Illinois.
 She graduated from East Aurora High school in 2010, Waubonsee Community College in 2012, and from Aurora University in 2014.
-She has a Bachelor’s Degree in Political Science and a minor in Spanish and recently a Masters in Public Administration at Aurora University in 2021.
+She has a Bachelor’s Degree in Political Science and a minor in Spanish and recently a Masters in Public Administration at Aurora University in 2021 .
 Barbara is the first in her family to attend college.
 She has been actively involved in the community.
-Barbara started her passion for politics when she interned in the office of former State Representative Linda Chapa LaVia.
+Barbara started her passion for politics when she interned in the office of former State Representative Linda Chapa LaVia .
 At the age of 19, Barbara was elected a precinct committee member.
 In March of 2014, she was appointed to two commissions—one in Aurora Township and the second in the City of Aurora.
 In 2016, Barbara became the youngest elected official on the Kane County Board.
@@ -22,6 +18,4 @@ A la edad de 19 años, Barbara fue elegida miembro del comité de distrito.
 En marzo de 2014, fue nombrada para dos comisiones: una en el municipio de Aurora y la segunda en la ciudad de Aurora.
 En 2016, Barbara se convirtió en la funcionaria electa más joven en la Junta del Condado de Kane.
 Actualmente, es la latina más joven como Representante Estatal en la Cámara de Representantes de Illinois, fue nombrada en 2019.
-Page updated
-Google Sites
-Report abuse
+Google Sites Report abuse Page details Page updated Google Sites Report abuse

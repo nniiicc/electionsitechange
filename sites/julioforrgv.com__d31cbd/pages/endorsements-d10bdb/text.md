@@ -1,13 +1,3 @@
-Julio Salinas is proud to have the support of respected leaders across Texas who know what it takes to deliver for working families, strengthen public schools, and fight for South Texas in Austin
-Notable Endorsements
-Bernie Sanders
-U.S.
-Senator
-Vermont
-Greg Casar
-U.S.
-Congressman
-Texas’ 35th Congressional District
-Christina Morales
-Texas State Representative
-House District 145
+0 Skip to Content HOME MEET JULIO ISSUES ENDORSEMENTS CONTACT DONATE Open Menu Close Menu HOME MEET JULIO ISSUES ENDORSEMENTS CONTACT DONATE Open Menu Close Menu HOME MEET JULIO ISSUES ENDORSEMENTS CONTACT DONATE Julio Salinas is proud to have the support of respected leaders across Texas who know what it takes to deliver for working families, strengthen public schools, and fight for South Texas in Austin Notable Endorsements Bernie Sanders U.S.
+Senator Vermont Greg Casar U.S.
+Congressman Texas’ 35th Congressional District Christina Morales Texas State Representative House District 145 For inquiries, please contact: Jake Webber (Campaign Manager) jake@julioforrgv.com (512)-968-3299 For inquiries, please contact: Julio Salinas julio@julioforrgv.com PAID FOR BY JULIO FOR TEXAS

@@ -1,35 +1,13 @@
-ACCOMPLISHMENTS
-Delivering for
-New Yorkers
-Fighting for New York families
-As Governor, Kathy continues fighting for New York families, she’s working to deliver universal child care, lower auto insurance costs, and invest in keeping NY streets and subways safe.
+Skip to content Chip in now to support Kathy Hochul for Governor of New York CHIP IN NOW TO fight for New Yorkers $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount Choose any amount.
+If you've saved your information with ActBlue Express, your donation will go through immediately.
+About Accomplishments Endorsements Store Get Involved About Accomplishments Endorsements Store Get Involved Facebook X-twitter Instagram Youtube Tiktok Donate Donate Donate Donate ACCOMPLISHMENTS Delivering for New Yorkers Fighting for New York families As Governor, Kathy continues fighting for New York families, she’s working to deliver universal child care, lower auto insurance costs, and invest in keeping NY streets and subways safe.
 Kathy is already delivering for New Yorkers – and she’s just getting started.
-She’s putting money back in people’s pockets and making our state affordable
-- Lowering auto insurance rates
-- Sending energy rebate checks
-- No tax on tips
-- Sending inflation refund checks to over 8 million New Yorkers
-- Cutting middle-class taxes to the lowest rate in 70 years
-- Tripling the New York child tax credit
-- Free community college for high-demand occupations
-- Letting them build more housing
-She’s investing for our children’s future
-- Banning cell phones in schools
-- Making universal childcare a reality
-- Delivering statewide universal pre-K
-- Securing free school meals for every student
-- Protecting kids online
-She’s investing in keeping New Yorkers safe
-- Signed Local Cops, Local Crimes into law
-- Investing $3 billion in public safety
-- Removing more than 10,000 illegal guns off New York streets
-- Strengthening red flag laws
-- Cracking down on retail theft and hate crimes
-- Putting boots on the ground in our streets and subways to keep New Yorkers safe
-- Blocking 3-D printed guns
-She’s standing up to Trump
-- Secured funding for the Gateway Tunnel after Trump abruptly froze it
-- Holding ICE agents accountable
-- Helped get back $187 million in NYPD counterterrorism funding Trump tried to kill
-- Protected abortion rights in New York
-- Took Trump to court over his illegal tariffs and beat him – twice
+She’s putting money back in people’s pockets and making our state affordable Lowering auto insurance rates Sending energy rebate checks No tax on tips Sending inflation refund checks to over 8 million New Yorkers Cutting middle-class taxes to the lowest rate in 70 years Tripling the New York child tax credit Free community college for high-demand occupations Letting them build more housing She’s investing for our children’s future Banning cell phones in schools Making universal childcare a reality Delivering statewide universal pre-K Securing free school meals for every student Protecting kids online She’s investing in keeping New Yorkers safe Signed Local Cops, Local Crimes into law Investing $3 billion in public safety Removing more than 10,000 illegal guns off New York streets Strengthening red flag laws Cracking down on retail theft and hate crimes Putting boots on the ground in our streets and subways to keep New Yorkers safe Blocking 3-D printed guns She’s standing up to Trump Secured funding for the Gateway Tunnel after Trump abruptly froze it Holding ICE agents accountable Helped get back $187 million in NYPD counterterrorism funding Trump tried to kill Protected abortion rights in New York Took Trump to court over his illegal tariffs and beat him – twice Help Kathy fight for New Yorkers $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+Join Hochul-Adams .
+By submitting your cell phone number you are agreeing to receive periodic text messages from Friends for Kathy Hochul.
+Message and data rates may apply.
+Text HELP for more information.
+Text STOP to stop receiving messages.
+Privacy Policy.
+Home About Accomplishments Endorsements Store Jobs Volunteer Donate Write checks to: Friends for Kathy Hochul: P.O.
+Box 1463 New York, NY 10021 Facebook X-twitter Instagram Youtube Tiktok Paid for by Friends for Kathy Hochul Privacy Policy Accessibility Media Inquiry Contact Powered by Apollo About Accomplishments Endorsements Store Get Involved Donate Donate Facebook X-twitter Instagram Youtube Tiktok Donate to Team Hochul If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# Other Amount Other Amount

@@ -1,12 +1,54 @@
 [
-"https://facebook.com/shawnmcphersonforstaterepresentative",
-"https://gritcreative.co/contact",
-"https://secure.anedot.com/shawn-mcpherson-for-state-representative/donate",
-"https://voteshawnmcpherson.com/",
-"https://voteshawnmcpherson.com/about",
-"https://voteshawnmcpherson.com/contact",
-"https://voteshawnmcpherson.com/issues",
-"https://voteshawnmcpherson.com/privacy",
-"https://voteshawnmcpherson.com/volunteer",
-"https://voteshawnmcpherson.com/vote"
+{
+"text": "Contact",
+"href": "https://voteshawnmcpherson.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/shawn-mcpherson-for-state-representative/donate"
+},
+{
+"text": "Issues",
+"href": "https://voteshawnmcpherson.com/issues"
+},
+{
+"text": "Meet Shawn",
+"href": "https://voteshawnmcpherson.com/about"
+},
+{
+"text": "Privacy",
+"href": "https://voteshawnmcpherson.com/privacy"
+},
+{
+"text": "Volunteer",
+"href": "https://voteshawnmcpherson.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://voteshawnmcpherson.com/vote"
+},
+{
+"text": "[image]",
+"href": "https://voteshawnmcpherson.com"
+},
+{
+"text": "[no text]",
+"href": "https://secure.anedot.com/shawn-mcpherson-for-state-representative/donate"
+},
+{
+"text": "[no text]",
+"href": "https://voteshawnmcpherson.com/contact"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/shawnmcphersonforstaterepresentative/"
+},
+{
+"text": "email",
+"href": "https://gritcreative.co/contact/"
+},
+{
+"text": "https://voteshawnmcpherson.com/",
+"href": "https://voteshawnmcpherson.com/"
+}
 ]

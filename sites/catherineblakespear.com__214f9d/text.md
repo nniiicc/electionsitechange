@@ -1,43 +1,22 @@
-Catherine Blakespear for California State Senate
-Sign up for updates with Catherine's Campaign!
-Why I am Running
-San Diego and Orange County families deserve a State Senator who leads with principle, puts people over politics, and delivers real results — even when it’s tough.
+Skip to content Meet Catherine Priorities Endorsements Events Media Donate Meet Catherine Priorities Endorsements Events Media Donate Meet Catherine Priorities Endorsements Events Media Donate Donate Catherine Blakespear for California State Senate Sign up for updates with Catherine's Campaign!
+First Name Last Name Email Send First Name Last Name Email Send Why I am Running San Diego and Orange County families deserve a State Senator who leads with principle, puts people over politics, and delivers real results — even when it’s tough.
 That’s exactly what I’ve done as State Senator.
 In my first term alone, I authored 24 bills that were signed into law by the Governor.
 I closed big developer loopholes, safeguarded our environment, expanded rail service, protected clean-energy investments, and strengthened gun safety laws.
 I secured over $17 million in state funds for our district, expanded wildlife habitat and open space, and made California’s medical aid-in-dying law permanent.
 Before being elected to the Senate, I served eight years in local government as a three-term Mayor and City Councilmember in Encinitas, where I delivered 100% renewable power, secured emergency grants to keep small businesses open during the pandemic, and banned ghost guns.
-My record of proven results:
-- Closed big developer loopholes that were being exploited to build luxury high-rises in our neighborhoods.
-- Protected the environment and eliminated plastic bags at grocery stores
-- Expanded and improved the LOSSAN rail corridor as Chair of the Senate Transportation Subcommittee
-- Safeguarded clean-energy investments and preserved solar tax breaks for homeowners
-- Expanded wildlife habitat and open space with continued state funding for conservation
-- Sped up encampment removals and hosted multiple policy summits on ending homelessness
-- Secured over $1 million in state funds for Coastal Rail Trail and Oso Creek Trail
-- Beefed up gun safety and required people in mental health crises turn in their firearms
-- Made the medical aid-in-dying law permanent so terminally ill Californians can die with dignity
-- Authored legislation to strengthen state civil rights protections
-As your re-elected State Senator, I will continue to fight to:
-- Make California more affordable and lower the cost of childcare and insurance
-- Cut red tape so it’s easier to build safe, interim housing to get families off the streets and under a roof
-- Invest in climate resiliency programs to keep California a leader against climate change
-- Get guns off our streets, make transit sustainable, and protect our open spaces, beaches, and trails
-I’ve proven that using the principles we share, I can get things done for all of us in Sacramento.
+My record of proven results: Closed big developer loopholes that were being exploited to build luxury high-rises in our neighborhoods.
+Protected the environment and eliminated plastic bags at grocery stores Expanded and improved the LOSSAN rail corridor as Chair of the Senate Transportation Subcommittee Safeguarded clean-energy investments and preserved solar tax breaks for homeowners Expanded wildlife habitat and open space with continued state funding for conservation Sped up encampment removals and hosted multiple policy summits on ending homelessness Secured over $1 million in state funds for Coastal Rail Trail and Oso Creek Trail Beefed up gun safety and required people in mental health crises turn in their firearms Made the medical aid-in-dying law permanent so terminally ill Californians can die with dignity Authored legislation to strengthen state civil rights protections As your re-elected State Senator, I will continue to fight to: Make California more affordable and lower the cost of childcare and insurance Cut red tape so it’s easier to build safe, interim housing to get families off the streets and under a roof Invest in climate resiliency programs to keep California a leader against climate change Get guns off our streets, make transit sustainable, and protect our open spaces, beaches, and trails I’ve proven that using the principles we share, I can get things done for all of us in Sacramento.
 I am humbly asking for vote on November 3.
-With gratitude,
-As your re-elected State Senator, I will continue to fight to:
-Tackling the affordability crisis:
-The affordability crisis is forcing too many Californians to choose between groceries, gas, or picking up their prescriptions.
+With gratitude, As your re-elected State Senator, I will continue to fight to: 1 Tackling the affordability crisis: The affordability crisis is forcing too many Californians to choose between groceries, gas, or picking up their prescriptions.
 I’m focused on tackling the cost-of-living crisis, from creating more options for attainable, affordable housing to expanding access to healthcare and childcare to supporting small businesses that employ our neighbors and keep local economies booming.
 Everyone deserves the chance to live and thrive here, not just scrape by.
-Ensuring safe, healthy communities:
-Public safety means feeling safe, and it starts with stopping crime before it happens and ensuring violence and gun crimes are prosecuted to the fullest extent.
+2 Ensuring safe, healthy communities: Public safety means feeling safe, and it starts with stopping crime before it happens and ensuring violence and gun crimes are prosecuted to the fullest extent.
 I’ll keep working shoulder-to-shoulder with law enforcement while investing in mental health services, addiction treatment, and programs that reduce homelessness and crime before they start.
 Every Californian deserves peace of mind and to feel safe in their home, neighborhood, and walking on their streets.
-Protecting our environment and combating climate change:
-California is the Golden State because of our glittering coastline, clean air, and green and rolling open spaces.
+3 Protecting our environment and combating climate change: California is the Golden State because of our glittering coastline, clean air, and green and rolling open spaces.
 It’s been my mission in public service to accelerate our transition to clean energy, fight climate change, and safeguard our natural resources for generations to come.
 Why?
 Because protecting families means protecting the planet.
-It’s essential to our health, economy, and way of life.
+It’s essential to our health, economy, and way of life. [email protected] Catherine Blakespear for Senate 2026 // FPPC ID #1456912 GET ROD ON THE BALLOT SIGN THE PETITION You are in the 38th Senate district!
+Sorry, you are not in the 38th Senate District.

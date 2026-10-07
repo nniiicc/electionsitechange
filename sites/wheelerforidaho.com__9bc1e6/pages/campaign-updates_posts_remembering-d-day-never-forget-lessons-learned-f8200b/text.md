@@ -1,8 +1,4 @@
-Remembering D-Day: Never forget lessons learned
-Honoring the sacrifices of our troops on Memorial Day
-Remembering D-Day: Never forget lessons learned
-Read article in the Post Register
-Next week, June 6, marks the 80th anniversary of D-Day when Allied troops invaded Normandy, France.
+Skip to main content Wheeler For Idaho Menu Why I Am Running About Josh Blog Contact Campaign Voting Record Donate Volunteer Search the site Expand Search Remembering D-Day: Never forget lessons learned Honoring the sacrifices of our troops on Memorial Day Remembering D-Day: Never forget lessons learned Read article in the Post Register Next week, June 6, marks the 80th anniversary of D-Day when Allied troops invaded Normandy, France.
 We’re quickly reaching a point where all veterans who witnessed these events firsthand will soon leave us.
 For the sake of our nation and future generations, we must do our part to remember their sacrifice and never forget the cost of defending freedom and rejecting authoritarianism.
 This critical battle marked the moment when roughly 160,000 troops from the United States, the United Kingdom, Canada and other nations pressed forward with Operations Overlord and Neptune to liberate northern Europe from the Nazi regime.
@@ -31,3 +27,4 @@ We must decide the price we’re willing to pay to maintain freedom and liberty.
 Our choice doesn’t happen in a vacuum, as we see examples around the world of authoritarian regimes actively suppressing freedom of speech, freedom of religion and dozens of other rights we sometimes take for granted.
 I encourage everyone to remember on this D-Day what we stood to lose if we failed to stand up when it counted.
 Then consider what we must do today to ensure we don’t lose the very thing so many fought and died to protect.
+05 Jun 2024 Home Campaign Updates Remembering D-Day: Never forget lessons learned Wheeler for Idaho Ben Spencer - Treasurer (208) 360-3926 © # Home About Josh Contact Campaign Back to top

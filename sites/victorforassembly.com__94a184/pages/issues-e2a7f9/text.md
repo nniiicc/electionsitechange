@@ -1,8 +1,11 @@
-Affordable Housing
-Our neighbors all need access to affordable, safe, and stable housing.
+Skip navigation menu Meet Victor Issues Events News Endorsements Volunteer Donate Issues Meet Victor Issues Events News Endorsements Volunteer Donate Issues Our Campaigns's Top Priorities Affordable Housing Healthcare for All Defend Our Communities Our Voice Is Our Power Protect Our Natural Resources Affordable Housing Our neighbors all need access to affordable, safe, and stable housing.
 Renters, homeowners, working families, retirees, and students all need protection against predatory pricing, foreclosures, and evictions.
-Implement Statewide Rent Control
-Build Social Housing
-Enact Vacancy Tax
-Support Community Land Trusts
-Curb Real Estate Speculation
+Implement Statewide Rent Control Build Social Housing Enact Vacancy Tax Support Community Land Trusts Curb Real Estate Speculation Healthcare for All Healthcare is a human right, and everyone deserves access to quality care that meets their needs without bankrupting them.
+We should not allow the health insurance industry to put profit over patients' care.
+Enact the CalCare Bill Introduce Statewide Free Clinics Offer Prescription Drug and Medical Debt Relief Fund Mental Health Resources Defend Our Communities Our communities need the support of their elected representatives to ensure we have safe, stable, thriving, and resilient economies.
+That can only happen when elected officials put constituents, not corporations, first.
+Fund Mutual Aid Defend Human Rights Protect Immigrants Against ICE Provide Student Debt Relief Uphold Sanctuary Principles Divest from war and genocide Our Voice Is Our Power The current top-two primary and first-past-the-post voting system limits voters’ choices and excludes third-party and independent candidates.
+Ranked Choice Voting and proportional representation are steps toward a more robust democracy.
+Ban Corporate Donations Support Publicly Funded Elections Enact Rank Choice Voting and Proportional Representation Open Public Candidate Debates Protect Our Natural Resources Our green spaces improve air quality, protect biodiversity, bring our communities together, and support mental and physical well-being.
+Elected officials must be stewards of land, water, air, and our precious ecosystems for the sake of everyone in our community.
+Make Polluters Pay Convert Public Lands to Parks Fund Wildfire Mitigation Limit Pesticide Use in Public Spaces Place Moratorium on Hyperscale Data Centers Press Kit Contact Privacy Policy FPPC #1491723 Powered by RUN! website builder Paid by Victor Hernandez for Assembly 2026 You need to enable JavaScript to run this app.

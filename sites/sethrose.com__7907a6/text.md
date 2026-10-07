@@ -1,10 +1,6 @@
-Delivering Results
-for Columbia
-Get to know Seth Rose
-Seth Rose has been a dedicated resident of House District 72 for nearly 30 years.
+0 Skip to Content Home About Seth Gets Results Accomplishments Seth Rose CONTRIBUTE Open Menu Close Menu Home About Seth Gets Results Accomplishments Seth Rose CONTRIBUTE Open Menu Close Menu Home About Seth Gets Results Accomplishments CONTRIBUTE Delivering Results for Columbia Get to know Seth Rose Seth Rose has been a dedicated resident of House District 72 for nearly 30 years.
 He is married to Anna Cartin Rose and they have three children Cole, Luke and Tillie.
-Comments to the SC House of Representatives on Congressional Redistricting
-Support Seth’s Campaign
-Seth needs your support to continue to produce results for the citizens of Columbia and across this State.
+Learn More Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) Slide 7 Slide 7 (current slide) Slide 8 Slide 8 (current slide) Slide 9 Slide 9 (current slide) Slide 10 Slide 10 (current slide) Slide 11 Slide 11 (current slide) Slide 12 Slide 12 (current slide) Slide 13 Slide 13 (current slide) Slide 14 Slide 14 (current slide) Slide 15 Slide 15 (current slide) Slide 16 Slide 16 (current slide) Slide 17 Slide 17 (current slide) Comments to the SC House of Representatives on Congressional Redistricting Support Seth’s Campaign Seth needs your support to continue to produce results for the citizens of Columbia and across this State.
 Let’s come together and show our support for an elected official improving our City and State.
 With your help, we can continue to make a difference.
+DONATE TODAY ©️ Seth Rose #

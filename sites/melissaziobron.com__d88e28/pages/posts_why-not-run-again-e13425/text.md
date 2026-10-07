@@ -1,4 +1,4 @@
-Why Not Run Again?
+Site Logo Priorities Volunteer Yard Signs Open menu Contact The Campaign Why Not Run Again?
 Since 2018, I have watched firsthand the shift in our state house—from a nearly evenly divided chamber where compromise and common-sense guided decisions, to the current lopsided, left-leaning governance.
 With an expanded supermajority and political appointees filling key roles, government often seems to run on autopilot.
 What many suspect is happening is, in fact, happening: backroom deals without proper vetting or robust debate in committee, politicians who appear to believe their constituents are not paying attention, a troubling lack of urgency on clear problems, and, most painfully, a callous approach to spending other people’s hard-earned money.
@@ -16,5 +16,7 @@ We do not need another Hartford “yes” person who is still getting to know ou
 My ability to go to Hartford and remain a truly independent voice—while deeply understanding our communities is unmatched.
 I will focus on protecting our scenic vistas and special places, bringing radical transparency to our state budget process, helping seniors, and keeping education decisions local are all things I care deeply about.
 Over the coming weeks I hope to earn your trust and vote once more, to listen carefully to your concerns and learn about what matters most to you and your family.
-Please reach out with any questions or concerns. 860-470-6662 or melissa@melissaziobron.com
-Melissa Ziobron
+Please reach out with any questions or concerns.
+860-470-6662 or melissa@melissaziobron.com Melissa Ziobron Around Town Town of East Haddam Town of East Hampton Town of Salem Election Information Check Your Voter Registration Register to Vote Absentee Ballots PAID FOR BY MZ 2026.
+APPROVED BY MELISSA ZIOBRON.
+East Haddam | East Hampton | Salem

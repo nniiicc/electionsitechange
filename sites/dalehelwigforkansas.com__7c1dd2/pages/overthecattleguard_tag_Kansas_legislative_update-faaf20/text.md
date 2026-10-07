@@ -1,4 +1,3 @@
-Week 13 Legislative Update: Final Week of Session
-Published on: 12/04/2026
-Read the Week 13 legislative update from Kansas State Representative Dale Helwig, highlighting final session actions, veto overrides, and key legislation impacting Kansas.
-Kansas legislative updateDale HelwigKansas veto overridesKansas legislature 2026
+Home About Key Issues Events Endorsements Get Involved Voter Info Register to Vote Polling Information Contact Blog Sign Up for Newsletter Week 13 Legislative Update: Final Week of Session Dale Helwig Published on: 12/04/2026 Read the Week 13 legislative update from Kansas State Representative Dale Helwig, highlighting final session actions, veto overrides, and key legislation impacting Kansas.
+Kansas legislative update Dale Helwig Kansas veto overrides Kansas legislature 2026 Read more Week 11 Update: Key Conversations, Important Overrides, and Progress on Kansas Bills Dale Helwig Published on: 29/03/2026 Week 11 legislative update from Kansas State Representative Dale Helwig, covering key veto overrides, election integrity, beekeeper legislation, and important conversations impacting Kansas communities.
+Dale Helwig Kansas legislative update Kansas House District 1 Kansas politics 2026 Kansas tax deduction health sharing Kansas pregnancy center law Kansas agriculture policy Kansas small business legislation Kansas Beekeeping law Kansas government update Read more Previous 1 Next Terms & Conditions/Privacy Policy Email: [email protected] Paid for by Dale Helwig for Kansas, Treasurer Clark Hall

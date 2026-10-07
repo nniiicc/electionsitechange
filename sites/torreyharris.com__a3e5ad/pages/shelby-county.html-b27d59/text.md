@@ -1,55 +1,16 @@
-← The Record
-Delivering for District 91
-Money for Shelby County
-Fighting in Nashville to bring our tax dollars back home — to our schools, hospitals, neighborhoods, and families.
-$193M+
-Secured for Memphis & Shelby County
-2025 & 2026 Budget Years.
+Chip in $20 today to support Rep.
+Torrey C.
+Harris’ re-election campaign → About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Early Voting Locations Sample Ballot Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Community Resources Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Early Voting Locations Sample Ballot Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Community Resources Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate ← The Record Delivering for District 91 Money for Shelby County Fighting in Nashville to bring our tax dollars back home — to our schools, hospitals, neighborhoods, and families. $193M+ Secured for Memphis & Shelby County 2025 & 2026 Budget Years.
 Rep.
 Harris has fought to ensure funding came back to the community that sent him to Nashville.
 Here is a look at where those investments went.
-Where It Went
-Combined Investments
-Funding and grants Representative Harris helped secure — investing directly in our schools, museums, safety, and families.
-Fiscal Year 2025–2026
-$67.3M
-- $20MTCAT Memphis Aviation Campus
-- $5.8MUniversity of Memphis Boiler & Coil Replacement
-- $2.6MUT College of Medicine
-- $1MCodeCrew
-- $5.4MUniversity of Memphis Campus Safety
-- $2MThe Metal Museum
-- $1MOverton Park Shell
-- $20MMemphis Zoo
-- $2.5MAgape Family Services
-- $1MChurch of God in Christ
-- $1MPure Youth Academy
-- $1.5MYMCA of Memphis & the Mid-South
-- $500KTech901
-- $3MRock ’N’ Soul Museum
-Fiscal Year 2026–2027
-$125.9M
-- $50MDowntown Memphis Public Safety
-- $185KShelby County Public Defender’s Office
-- $25KContemporary Arts Memphis (CAM)
-- $750KMemphis Teacher Residency
-- $150KStax Music Academy
-- $1.4MMoore Tech
-- $300KUniversity of Memphis Law School Scholarships
-- $60MUniversity of Memphis Roof Replacements
-- $1.1MVeterans Cemetery Drainage
-- $3.7MNational Civil Rights Museum
-- $5.5MBrooks Museum — Memphis Arts Museum
-- $2MMemphis–Shelby County Airport
-- $45KAfrica in April
-- $100KStax Museum
-- $263.7KSt.
-Jude Patient & Travel Assistance
-- $100KRegional One Medical Center
-- $250KMemphis Food Bank
-Total Secured for Memphis & Shelby County
-$193M+
-Working for the people.
+Where It Went Combined Investments Funding and grants Representative Harris helped secure — investing directly in our schools, museums, safety, and families.
+Fiscal Year 2025–2026 $67.3M $20M TCAT Memphis Aviation Campus $5.8M University of Memphis Boiler & Coil Replacement $2.6M UT College of Medicine $1M CodeCrew $5.4M University of Memphis Campus Safety $2M The Metal Museum $1M Overton Park Shell $20M Memphis Zoo $2.5M Agape Family Services $1M Church of God in Christ $1M Pure Youth Academy $1.5M YMCA of Memphis & the Mid-South $500K Tech901 $3M Rock ’N’ Soul Museum Fiscal Year 2026–2027 $125.9M $50M Downtown Memphis Public Safety $185K Shelby County Public Defender’s Office $25K Contemporary Arts Memphis (CAM) $750K Memphis Teacher Residency $150K Stax Music Academy $1.4M Moore Tech $300K University of Memphis Law School Scholarships $60M University of Memphis Roof Replacements $1.1M Veterans Cemetery Drainage $3.7M National Civil Rights Museum $5.5M Brooks Museum — Memphis Arts Museum $2M Memphis–Shelby County Airport $45K Africa in April $100K Stax Museum $263.7K St.
+Jude Patient & Travel Assistance $100K Regional One Medical Center $250K Memphis Food Bank Total Secured for Memphis & Shelby County $193M+ Working for the people.
 Delivering for District 91 — because when we make promises to our community, we keep them.
-Keep the Investment Coming
-Re-elect Torrey to keep delivering for Memphis & Shelby County.
+Keep the Investment Coming Re-elect Torrey to keep delivering for Memphis & Shelby County.
+Donate Today See the Full Record Torrey C.
+Harris Tennessee House · District 91 Let's Keep Tennessee Moving.
+Explore Why I'm Running About Torrey Endorsements Issues The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Gallery 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Take Action Vote 2026 Volunteer Request Help Donate Offices Nashville: 615-741-2239 Memphis: 901-232-9498 rep.torrey.harris@capitol.tn.gov All contact info → Donate Please Mail Check Contributions to: Committee to Elect Torrey Harris 1387 Central Avenue # 906 Memphis, Tennessee 38104 EIN #: 82-3293908 PAID FOR BY COMMITTEE TO ELECT TORREY HARRIS. © # Committee to Elect Torrey Harris.
+All rights reserved.
+Privacy Policy · SMS Opt-In Form . · Español

@@ -1,10 +1,5 @@
-Back to All Events
-Join Anthony at the Barry County Coffee Hour at The Local Grind in Delton!
+0 Skip to Content About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Back Donate Back to All Events Barry County Coffee Hour - Delton Saturday, March 21, 2026 10:00 AM 12:00 PM The Local Grind 117 S M 43 Hwy Delton, MI USA (map) Google Calendar ICS Join Anthony at the Barry County Coffee Hour at The Local Grind in Delton!
 Share your concerns, learn about the campaign, and join our movement for all working people!
-Previous
-Previous
-March 7
-Battle Creek Coffee Hour with Jim Haadsma
-Next
-Next
-March 21
+Previous Previous March 7 Battle Creek Coffee Hour with Jim Haadsma Next Next March 21 Calhoun County Coffee Hour - Battle Creek Follow the Campaign BlueSky Donate by Mail P.O.
+Box 61 Battle Creek, MI 49016 info@ pennock4misenate.com This website is created. paid for, and managed by the Committee to Elect Anthony Pennock State Senator, P.O.
+Box 61, Battle Creek, MI 49016

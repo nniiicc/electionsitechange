@@ -1,7 +1,9 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://www.joelazumah.com/photos",
- "paid_for_by": null,
+ "fingerprint": "6cf70e12f12a7e7211b6d11da1187bdbc30e2924",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": []
 }

@@ -1,15 +1,10 @@
-Coffee, Bagels & Campaign Volunteer 101
-Saturday, September 12 at 10:00 AM
-The Garage Conference Room
-Across from Harriet & Oak
-Want to help re-elect Nicole but not sure where to start?
+0 Skip to Content About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu Folder: About Back Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Folder: Take Action Back Contact Me Get Involved Host a Yard Sign Donate → Back to All Events Coffee, Bagels & Campaign Volunteer 101 Saturday, September 12, 2026 10:00 AM 11:30 AM The Garage Conference Room, Across from Harriet & Oak 402 Saint Joseph Street Rapid City, South Dakota, 57701 United States (map) Google Calendar ICS Coffee, Bagels & Campaign Volunteer 101 Saturday, September 12 at 10:00 AM The Garage Conference Room Across from Harriet & Oak Want to help re-elect Nicole but not sure where to start?
 Join us Saturday morning for coffee, bagels, and a quick introduction to the different ways you can get involved with the campaign.
-We’ll walk through opportunities to help with:
-- Door knocking and talking with voters
-- Driving for volunteers who are out knocking doors
-- Phone banking
-- Delivering yard signs
-No campaign experience is necessary.
+We’ll walk through opportunities to help with: Door knocking and talking with voters Driving for volunteers who are out knocking doors Phone banking Delivering yard signs No campaign experience is necessary.
 We’ll show you everything you need to know, help you find the role that feels right for you, and get you ready to make a difference.
 Whether you have a couple of hours to give or want to get involved throughout the campaign, we’d love to have you on the team.
-Come grab some coffee and a bagel, meet other supporters, and learn how you can help re-elect Nicole! 💛
+Come grab some coffee and a bagel, meet other supporters, and learn how you can help re-elect Nicole! 💛 RSVP on Facebook (Optional) → Previous Previous August 16 Wave of Change Next Next September 18 In-Person Early Voting Begins Will you chip in and support our vision?
+Every contribution helps me communicate with voters, distribute campaign materials, organize volunteers, and build the campaign we need to win re-election.
+Whether you give $25, $50, or another amount, your support helps ensure District 32 continues to have a thoughtful and effective voice in Pierre.
+Donate now. → Donating by mail?
+Click here. → $25 $50 $75 $100 $250 $500 Home | Donate | Contact

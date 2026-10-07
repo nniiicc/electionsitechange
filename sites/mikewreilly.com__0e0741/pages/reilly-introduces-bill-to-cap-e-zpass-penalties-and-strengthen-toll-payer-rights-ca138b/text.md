@@ -1,9 +1,8 @@
-Assemblyman Michael Reilly is taking on the E-ZPass system, introducing new legislation to protect New York motorists from excessive fines and improve their ability to dispute erroneous tolls.
+Skip to Content Menu Menu Meet Mike Issues Newsroom Take Action Get Involved Request a Sign Contact Us Meet Mike Issues Newsroom Take Action Get Involved Request a Sign Contact Us Donate Now Reilly Introduces Bill to Cap E-ZPass Penalties and Strengthen Toll Payer Rights by Team Reilly on March 20, 2026 Featured , NEWS Assemblyman Michael Reilly is taking on the E-ZPass system, introducing new legislation to protect New York motorists from excessive fines and improve their ability to dispute erroneous tolls.
 The bill, called the Toll Payer Advocacy and Relief Act (TPARA), comes just weeks after Reilly called for a state investigation into Conduent, the company that operates New York’s E-ZPass program.
 Motorists across the state have reported being hit with thousands, and in some cases tens of thousands, of dollars in penalties due to poor billing notifications and limited options to fight back.
 Under current state law, drivers can be penalized after just 30 days of non-payment, with late fees escalating up to ten times the original toll amount.
-The TPARA addresses this through four key provisions:
-Limit Fines and Reform Billing.
+The TPARA addresses this through four key provisions: Limit Fines and Reform Billing.
 The bill would prohibit late fees for the first 180 days after a toll is incurred and cap penalties at no more than ten percent of the original toll.
 To put that in concrete terms: the peak toll on the Outerbridge Crossing is $15.38.
 Under current law, a third violation can carry a penalty of up to $153.
@@ -16,6 +15,11 @@ For drivers already buried in overdue toll debt, the TPARA would create a one-ti
 Statewide Study and Report.
 The bill directs the New York State Department of Transportation to work jointly with tolling authorities to review regulations and policies on cashless tolling and toll-by-mail, with a focus on the impact of excessive fines, communication breakdowns, and the effectiveness of existing Toll Payer Advocate offices.
 “For far too long, New Yorkers have been subjected to unfair practices resulting in excessive penalties from tolling authorities, placing them even deeper into financial hardship,” Reilly said.
-“The Toll Payer Advocacy and Relief Act is the most substantial piece of active legislation on the subject in the New York State Legislature and would provide meaningful relief to thousands of working and middle class New Yorkers.”
-Reilly added that the bill is about more than just dollars and cents.
-“This legislation ensures fair tolling practices and is a necessary step towards restoring public trust in our state’s chronically problematic cashless tolling program.”
+“The Toll Payer Advocacy and Relief Act is the most substantial piece of active legislation on the subject in the New York State Legislature and would provide meaningful relief to thousands of working and middle class New Yorkers.” Reilly added that the bill is about more than just dollars and cents.
+“This legislation ensures fair tolling practices and is a necessary step towards restoring public trust in our state’s chronically problematic cashless tolling program.” Share: 03.20.26 Reilly Introduces Bill to Cap E-ZPass Penalties and Strengthe...
+Read More > 03.07.26 Take Action: Sign the Petition Against the Proposed Homeless ...
+Read More > 09.22.23 Port Authority Acts on Reilly-Lanza Legislation to Study Alig...
+Read More > 06.06.23 Statement from Assemblymember Reilly regarding plan to house ...
+Read More > 05.23.23 Reilly’s Public Safety Proposals Sidelined by Assembly ...
+Read More > 05.15.23 Statement from Assemblymember Reilly on New York City’s...
+Read More > Meet Mike Issues Newsroom Get Involved Contact Us Paid for by Reilly for New York COPYRIGHT © # MICHAEL REILLY Privacy Policy Contact Us Political Website Design by Back to top

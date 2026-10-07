@@ -1,6 +1,6 @@
-I am a Patriot Servant Leader for YOU/US, The USA and future generations.
+Skip to content Skip to sidebar Skip to footer Menu Close Home About Ask David Virtual Rally Volunteer Events Close Home About Ask David Virtual Rally Volunteer Events Youtube Instagram Get in Touch Home About Ask David Virtual Rally Volunteer Events for YOU February 16, 2021 I am a Patriot Servant Leader for YOU/US, The USA and future generations.
 I do this for YOU.
-Everyone knows that it is a risk to stand up in public today and say that you love and defend every part of the Constitution for the United States of America.
+Everyone knows that it is a risk to stand up in public today and say that you love and defend every part of the Constitution for the United States of America .
 To say that you love all men equally based on their individual merits, or lack thereof.
 We all know that there are people who would seek to damage a person in every way they can for standing up and saying these things.
 Regardless of who you “align” yourself with, it is in your best interest to insure that all humans are treated with equal respect.
@@ -10,9 +10,8 @@ Is that the legacy you want to leave behind?
 Is that the world you want your childrens’ children to live in?
 It is through efforts to demean others that the unPatriots sow and reap the hate they need to insure the division between humans which they feed from.
 The hate and division they create is then used to spread as much fear and disinformation as possible.
-The result of all of this is that good people turn their heads and/or hide to avoid conflict and “protect their family.”
-It is hard to fault people for this.
-The machine of hate and fear is real and looms large in our lives.
+The result of all of this is that good people turn their heads and/or hide to avoid conflict and “protect their family.” It is hard to fault people for this.
+The machine of hate and fear is real and looms large in our lives .
 The ridiculous and hateful “Canceling” of human beings continues and will gain momentum.
 Who wants to get hit by that steam roller?
 That is why I am running for Congress.
@@ -41,3 +40,10 @@ You may stand behind me as I stand, or you may just stand for me in your prayers
 Regardless of how or where you stand, the important thing is that you stand.
 We must all stand together or we will certainly hang separately.
 When I stand with the strength of you standing behind me, we will have the power to insure the integrity of the United States Constitution for another 250 years (at least).
+Donate Now Search Search Recent Posts Andrea Salinas Congressional Record Willamette Week 9/29/26 2026 Fraud and Alien Crimes Democrat or Socialist (DSA) Could this be the case that takes Voter ID to the Supreme Court before 11/3/2026?
+Recent Comments No comments to show.
+David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
+Links Home About FAQs Ask David News Volunteer Events Legal Privacy Policy Terms of Services Contact +1 (503) 714-8086‬ info@RussIsForUS.com PO Box 21, Dundee, OR 97115 Socials Facebook X-twitter Youtube Instagram © # David Russ Is For US.
+Paid for by David Russ Is For US.
+Some images, audio, video, or written content may be created or enhanced using artificial intelligence (AI) tools.
+Site Managed by David Russ

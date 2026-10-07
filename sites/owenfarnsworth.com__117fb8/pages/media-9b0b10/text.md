@@ -1,6 +1,2 @@
-top of page
-Campaign Media
-Please find all of our publicly available media in the links below.
-For any requests not found in the links below, please email Campaign@OwenFarnsworth.com
-with the subject line "Media Request"
-bottom of page
+top of page Home My Policies Volunteer Contact Donate Donate Contact Volunteer Yard Sign Request Internships Media Contact Owen Directly By Email: Campaign@OwenFarnsworth.com By Call Or Text: (615) 848-4377 Media Inquiry Photos ↗ Videos ↗ Logos ↗ Campaign Media Please find all of our publicly available media in the links below.
+For any requests not found in the links below, please email Campaign@OwenFarnsworth.com with the subject line "Media Request" ActBlue Donate Paid for by the Committee to Elect Owen Farnsworth, Jaia Peterson, Treasurer Email: Campaign@OwenFarnsworth.com Phone: (615) 848-4377 bottom of page

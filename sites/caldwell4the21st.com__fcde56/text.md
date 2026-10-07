@@ -1,16 +1,5 @@
-top of page
-West Virginia House of Delegates
-District 21
-A BRIGHTER FUTURE
-FOR PUTNAM COUNTY
-CALDWELL for the
-21st
-"My family and I have been deeply involved in the community our entire
-lives, and I have witnessed firsthand the rapid growth and significant change that has shaped our area over the years.
+top of page CD Caldwell Home About News & Events More Use tab to navigate through the menu items.
+DONATE West Virginia House of Delegates District 21 A BRIGHTER FUTURE FOR PUTNAM COUNTY CALDWELL for the 21st "My family and I have been deeply involved in the community our entire lives, and I have witnessed firsthand the rapid growth and significant change that has shaped our area over the years.
 Having been here through many of these changes, I understand what makes our district unique and the challenges we face moving forward.
 It would be an honor to represent our community during this important time of progress and transition.
-I look forward to the possibility of serving our neighbors in Charleston and working to ensure that our voices are heard."
-VOTE
-Caldwell for the 21st
-ADVOCATE FOR PUTNAM COUNTY
-bottom of page
+I look forward to the possibility of serving our neighbors in Charleston and working to ensure that our voices are heard." VOTE Caldwell for the 21st ADVOCATE FOR PUTNAM COUNTY FOLLOW CD ON SOCIAL MEDIA Subscribe Home About Me News & Events Donate Caldwell FOR HOUSE OF DELEGATES - DISTRICT 21 Powered and secured by Wix Email: cd4the21st@gmail.com ​ bottom of page

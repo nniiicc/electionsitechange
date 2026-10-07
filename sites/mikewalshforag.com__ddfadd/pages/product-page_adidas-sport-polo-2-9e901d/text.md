@@ -1,5 +1,4 @@
-Adidas sport polo
-$55.00Price
-Stay cool and stylish with the adidas sport polo, made from 100% recycled polyester piqué.
+top of page MIKE WALSH DONATE SHOP VISION ABOUT GET INVOLVED EVENTS MEDIA YARD SIGN REQUEST Menu Close Adidas sport polo $55.00 Price Size * S M L XL 2XL 3XL 4XL Quantity * Add to Cart Buy Now Stay cool and stylish with the adidas sport polo, made from 100% recycled polyester piqué.
 The lightweight and premium fabric features a hydrophilic finish and an athletic fit.
-Great for outdoor activities or casual wear alike. • 100% recycled polyester piqué • Fabric weight: 4.3 oz./yd.² (145.79 g/m²) • Hydrophilic finish • Relaxed fit • Rib-knit collar with three-button placket • Contrast adidas logo on the right sleeve • Blank product sourced from Vietnam
+Great for outdoor activities or casual wear alike. • 100% recycled polyester piqué • Fabric weight: 4.3 oz./yd.² (145.79 g/m²) • Hydrophilic finish • Relaxed fit • Rib-knit collar with three-button placket • Contrast adidas logo on the right sleeve • Blank product sourced from Vietnam VISION ABOUT GET INVOLVED EVENTS MEDIA YARD SIGN REQUEST Menu Close X INSTAGRAM FACEBOOK CONTACT mikewalshforag@gmail.com Donations can be mailed to: (Checks payable to Committee to Elect Michael Walsh) P.O.
+Box 9 Lynnfield MA, 01940 ​ ​ ​ © # by THE COMMITTEE TO ELECT MICHAEL WALSH VISION ABOUT GET INVOLVED EVENTS MEDIA YARD SIGN REQUEST ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

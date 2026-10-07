@@ -1,5 +1,5 @@
-South Dakotans Deserve Clear, Secure Elections
-With just 55 days until Election Day, and 9 until early voting, South Dakota voters should be able to trust that the rules governing their elections are clear, consistent, and secure.
+top of page NIKKI G FOR SD DONATE HOME PRIORITIES ABOUT EVENTS NEWS ENDORSEMENTS CONTACT More Use tab to navigate through the menu items.
+All Posts Search South Dakotans Deserve Clear, Secure Elections press2950 Sep 9 2 min read With just # days until Election Day, and 9 until early voting, South Dakota voters should be able to trust that the rules governing their elections are clear, consistent, and secure.
 Instead, we are watching the Trump Administration push new federal requirements for mail-in voting that could create confusion for voters and election officials just weeks before an election.
 Attorney General Marty Jackley has joined the federal court case involving these new U.S.
 Postal Service requirements.
@@ -19,3 +19,6 @@ Voting is a constitutional right, not a privilege.
 South Dakotans deserve to know that their vote will be counted and that the rules won’t change at the last minute.
 We should be making it easier, not harder, for eligible South Dakotans to participate in our elections.
 And we should be strengthening confidence in our election system, not creating unnecessary confusion.
+Recent Posts See All Child Care & Pre-K: Investing in South Dakota’s Families and Future Child care and access to quality pre-K are issues I care deeply about.
+As a mother and grandmother, I know firsthand how important it is for families to have access to safe, affordable, quality care a PRESS RELEASE: Gronli statement on mail-in ballot scotus ruling Nikki Gronli: Marty Jackley Sides with Trump and DC Republicans to Cause Chaos and Confusion in our Elections Contact Us Nikki G for SD P.O.
+BOX 88403 SIOUX FALLS, SD 57109 ​ contact@nikkigforsd.com Press Kit Photo ​ Media Bio ​ Logo​ ​ Social Media Facebook ​ TikTok Policies Privacy Policy © # by Nikki G for SD. bottom of page

@@ -1,25 +1,98 @@
 [
-"https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/ballot_status.pl",
-"https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/index.pl",
-"https://facebook.com/shannaformaine",
-"https://instagram.com/shannaformaine",
-"https://lewistonmaine.gov/117/Elections",
-"https://lewistonmaine.gov/118/Absentee-Voting",
-"https://lewistonmaine.gov/119/Polling-Locations-District-Maps",
-"https://maine.gov/portal/government/edemocracy/voter_lookup.php",
-"https://maine.gov/sos/elections-voting",
-"https://maine.gov/sos/elections-voting/registering-to-vote",
-"https://secure.actblue.com/donate/shannaformaine",
-"https://shannaformaine.com/",
-"https://shannaformaine.com/endorsements",
-"https://shannaformaine.com/endorsements/endorse-shanna",
-"https://shannaformaine.com/get-involved",
-"https://shannaformaine.com/get-involved/contact",
-"https://shannaformaine.com/get-involved/events",
-"https://shannaformaine.com/get-involved/volunteer",
-"https://shannaformaine.com/get-involved/voting-info",
-"https://shannaformaine.com/issues",
-"https://shannaformaine.com/meet-shanna",
-"https://shannaformaine.com/news",
-"https://tidepoolcreative.com/"
+{
+"text": "Click here to visit the State of Maine's website on voter registration",
+"href": "https://www.maine.gov/sos/elections-voting/registering-to-vote"
+},
+{
+"text": "Contact",
+"href": "https://shannaformaine.com/get-involved/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shannaformaine"
+},
+{
+"text": "Endorse Shanna",
+"href": "https://shannaformaine.com/endorsements/endorse-shanna/"
+},
+{
+"text": "Endorsements",
+"href": "https://shannaformaine.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://shannaformaine.com/get-involved/events/"
+},
+{
+"text": "Find your polling location here",
+"href": "https://www.lewistonmaine.gov/119/Polling-Locations-District-Maps"
+},
+{
+"text": "Follow",
+"href": "https://facebook.com/shannaformaine"
+},
+{
+"text": "Follow",
+"href": "https://instagram.com/shannaformaine"
+},
+{
+"text": "Get Involved",
+"href": "https://shannaformaine.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://shannaformaine.com/"
+},
+{
+"text": "Issues",
+"href": "https://shannaformaine.com/issues/"
+},
+{
+"text": "Learn more about Absentee voting here",
+"href": "https://www.lewistonmaine.gov/118/Absentee-Voting"
+},
+{
+"text": "Lewiston City Clerk's Election Website",
+"href": "https://www.lewistonmaine.gov/117/Elections"
+},
+{
+"text": "Meet Shanna",
+"href": "https://shannaformaine.com/meet-shanna/"
+},
+{
+"text": "News",
+"href": "https://shannaformaine.com/news/"
+},
+{
+"text": "State of Maine Secretary of State's Office Elections & Voting",
+"href": "https://www.maine.gov/sos/elections-voting"
+},
+{
+"text": "Tide Pool Creative",
+"href": "https://tidepoolcreative.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://shannaformaine.com/get-involved/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://shannaformaine.com/get-involved/voting-info/"
+},
+{
+"text": "[image]",
+"href": "https://shannaformaine.com/"
+},
+{
+"text": "📬 Track Your Absentee Ballot",
+"href": "https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/ballot_status.pl"
+},
+{
+"text": "🔍 Find Your District / Ward / Polling Location",
+"href": "https://www.maine.gov/portal/government/edemocracy/voter_lookup.php"
+},
+{
+"text": "🗳 Request an Absentee Ballot",
+"href": "https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/index.pl"
+}
 ]

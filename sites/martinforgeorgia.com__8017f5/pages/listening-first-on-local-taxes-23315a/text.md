@@ -1,5 +1,5 @@
-Listening First on Local Taxes
-The first meeting of the Blue-Ribbon Study Committee on Local Government Taxation, Funding, and Budgeting.
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
+Listening First on Local Taxes July 27, 2026 The first meeting of the Blue-Ribbon Study Committee on Local Government Taxation, Funding, and Budgeting.
 Why does a property tax bill keep climbing when the millage rate has not moved?
 That question is on the table this summer, and it is the reason the Speaker created the House Blue-Ribbon Study Committee on Local Government Taxation, Funding, and Budgeting.
 I was asked to serve on it.
@@ -20,5 +20,6 @@ We have lived under this for years.
 We know what it protects, what it costs a local budget, and where the hard edges are.
 That is worth something in a room full of people still framing the problem.
 The committee will meet again through the fall, and I will report back after each one.
-If you have a view on how local budgets and assessments should be explained to the people paying the bill, send it to me at chuck.martin@house.ga.gov.
-I would rather hear from you before the recommendations are written than after.
+If you have a view on how local budgets and assessments should be explained to the people paying the bill, send it to me at chuck.martin@house.ga.gov .
+I would rather hear from you before the recommendations are written than after. < Older Post Share Tweet Share Mail Updates from Chuck University of North Georgia STEM Excellence Center Groundbreaking By Chuck Martin • July 14, 2026 University of North Georgia - STEM Excellence Center Groundbreaking Talking Next Generation 9-1-1 at the Georgia Municipal Association By Chuck Martin • June 27, 2026 Next Generation 9-1-1 to Improve Response for Georgians 1 (current) 2 3 ...
+8 HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:

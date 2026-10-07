@@ -1,26 +1,98 @@
 [
-"http://underwoodforcongress.com/form/apply",
-"https://docs.google.com/forms/d/e/1FAIpQLSekbIF8o-JrtflRb5uSrkzyesJYGEFORmW4p6srEXvIjRvn_w/viewform?usp=sf_link",
-"https://facebook.com/UnderwoodForCongress",
-"https://getblueshift.tech/",
-"https://instagram.com/laurenunderwood",
-"https://lauren-underwood-for-congress-store.myshopify.com/",
-"https://secure.actblue.com/donate/lauren-underwood-for-congress-1",
-"https://underwoodforcongress.com/",
-"https://underwoodforcongress.com/about",
-"https://underwoodforcongress.com/action",
-"https://underwoodforcongress.com/climate-change",
-"https://underwoodforcongress.com/form/contact-us",
-"https://underwoodforcongress.com/form/press-inquiries",
-"https://underwoodforcongress.com/gun-violence",
-"https://underwoodforcongress.com/healthcare-costs",
-"https://underwoodforcongress.com/immigration-border-security",
-"https://underwoodforcongress.com/issues",
-"https://underwoodforcongress.com/our-economy",
-"https://underwoodforcongress.com/our-veterans",
-"https://underwoodforcongress.com/privacy-policy",
-"https://underwoodforcongress.com/reproductive-freedom",
-"https://underwoodforcongress.com/vote",
-"https://x.com/laurenunderwood",
-"https://youtube.com/channel/UCRt8xXwHsMn6dPtY4J1Tc1g/featured"
+{
+"text": "About",
+"href": "https://underwoodforcongress.com/about/"
+},
+{
+"text": "Action",
+"href": "https://underwoodforcongress.com/action/"
+},
+{
+"text": "Blueshift",
+"href": "https://getblueshift.tech"
+},
+{
+"text": "Climate Change",
+"href": "https://underwoodforcongress.com/climate-change/"
+},
+{
+"text": "Contact Us",
+"href": "https://underwoodforcongress.com/form/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lauren-underwood-for-congress-1"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSekbIF8o-JrtflRb5uSrkzyesJYGEFORmW4p6srEXvIjRvn_w/viewform?usp=sf_link"
+},
+{
+"text": "Gun Violence",
+"href": "https://underwoodforcongress.com/gun-violence/"
+},
+{
+"text": "Healthcare Costs",
+"href": "https://underwoodforcongress.com/healthcare-costs/"
+},
+{
+"text": "Immigration & Border Security",
+"href": "https://underwoodforcongress.com/immigration-border-security/"
+},
+{
+"text": "Issues",
+"href": "https://underwoodforcongress.com/issues/"
+},
+{
+"text": "Our Economy",
+"href": "https://underwoodforcongress.com/our-economy/"
+},
+{
+"text": "Our Veterans",
+"href": "https://underwoodforcongress.com/our-veterans/"
+},
+{
+"text": "Press Inquiries",
+"href": "https://underwoodforcongress.com/form/press-inquiries/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://underwoodforcongress.com/privacy-policy"
+},
+{
+"text": "Reproductive Freedom",
+"href": "https://underwoodforcongress.com/reproductive-freedom/"
+},
+{
+"text": "Shop",
+"href": "https://lauren-underwood-for-congress-store.myshopify.com/"
+},
+{
+"text": "Vote",
+"href": "https://underwoodforcongress.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://underwoodforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/UnderwoodForCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/laurenunderwood/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCRt8xXwHsMn6dPtY4J1Tc1g/featured"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/laurenunderwood"
+},
+{
+"text": "underwoodforcongress.com/form/apply",
+"href": "http://underwoodforcongress.com/form/apply"
+}
 ]

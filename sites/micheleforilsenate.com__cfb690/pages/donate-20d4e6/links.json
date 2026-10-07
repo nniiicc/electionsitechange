@@ -1,14 +1,54 @@
 [
-"http://facebook.com/friendsofmicheleclark",
-"http://instagram.com/friendsofmicheleclark",
-"https://micheleforilsenate.com/",
-"https://micheleforilsenate.com/about-michele",
-"https://micheleforilsenate.com/cart",
-"https://micheleforilsenate.com/donate",
-"https://micheleforilsenate.com/endorsements",
-"https://micheleforilsenate.com/issues",
-"https://micheleforilsenate.com/micheles-blog",
-"https://micheleforilsenate.com/new-page",
-"https://micheleforilsenate.com/videos",
-"https://secure.actblue.com/donate/michele-clark-1"
+{
+"text": "0",
+"href": "https://micheleforilsenate.com/cart"
+},
+{
+"text": "About Michele",
+"href": "https://micheleforilsenate.com/about-michele"
+},
+{
+"text": "Contact Us",
+"href": "https://micheleforilsenate.com/new-page"
+},
+{
+"text": "Donate",
+"href": "https://micheleforilsenate.com/donate"
+},
+{
+"text": "Donate to Michele's Campaign",
+"href": "https://secure.actblue.com/donate/michele-clark-1"
+},
+{
+"text": "Donate to Michele’s Campaign",
+"href": "https://secure.actblue.com/donate/michele-clark-1"
+},
+{
+"text": "Endorsements",
+"href": "https://micheleforilsenate.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://micheleforilsenate.com/issues"
+},
+{
+"text": "Michele's Blog",
+"href": "https://micheleforilsenate.com/micheles-blog"
+},
+{
+"text": "Videos",
+"href": "https://micheleforilsenate.com/videos"
+},
+{
+"text": "[image: Michele for Illinois Senate]",
+"href": "https://micheleforilsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/friendsofmicheleclark"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/friendsofmicheleclark"
+}
 ]

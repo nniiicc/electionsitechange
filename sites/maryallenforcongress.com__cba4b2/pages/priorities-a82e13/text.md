@@ -1,5 +1,4 @@
-Priorities
-- Whether we live in big cities, small towns, or rural areas, Hoosiers deserve access to quality healthcare that doesn’t bankrupt us.
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Priorities Healthcare Whether we live in big cities, small towns, or rural areas, Hoosiers deserve access to quality healthcare that doesn’t bankrupt us.
 Healthcare is a human right.
 We’ve watched these last two years as the Trump administration – supported by Representative Mark Messmer – cut Medicaid by nearly $1 trillion to give tax breaks to the ultra-wealthy.
 These cuts threaten our access to health care, whether or not we get our insurance through Indiana’s Medicaid programs (like Healthy Indiana Plan, Hoosier Healthwise, and more).
@@ -8,30 +7,27 @@ More have already cut services, and Hoosiers in 20 counties don’t have access 
 Universal healthcare lowers costs for all of us by focusing on prevention instead of emergencies.
 Healthcare not tied to our jobs gives us the freedom to start businesses, leave jobs that aren’t working for us anymore, and transition employers without having to find new doctors.
 Universal healthcare stabilizes families and communities.
-I will fight to ensure all people have affordable, accessible, quality health care through
-- Protecting and expanding Medicaid and Medicare.
-- Ensuring rural hospitals can continue serving our Hoosier communities.
-- All Hoosiers deserve a decent place to live, with the ability to put food on the table and keep their home livable.
+I will fight to ensure all people have affordable, accessible, quality health care through Protecting and expanding Medicaid and Medicare.
+Ensuring rural hospitals can continue serving our Hoosier communities.
+Affordability All Hoosiers deserve a decent place to live, with the ability to put food on the table and keep their home livable.
 But too many Hoosiers are struggling.
 As corporations notch record profits, your paycheck doesn’t go as far as it used to.
 Three out of four Hoosiers working in the most common jobs in Indiana – nursing assistants, childcare workers, and retail workers – can’t afford a modest two-bedroom apartment because wages haven’t kept up with rent.
 Hoosiers working full-time are choosing between heating their homes and filling prescriptions.
 A family earning minimum wage would need to work 122 hours a week – that’s three full-time jobs – to make ends meet.
 And Representative Mark Messmer is helping the people who caused the problem.
-I will fight to build an economy that works for working people, not just the wealthy and well-connected through
-- Making homeownership more affordable through investments that build homes for working families, not luxury condos.
-- Lowering your rent by expanding affordable housing programs.
-- Making your groceries more affordable by removing tariffs on food and other essentials and stopping corporate price hikes.
-- No matter where we live or what we look like, most of us want to put in a good day’s work for a just wage and be able to have enough time to rest and spend time with our families and friends.
+I will fight to build an economy that works for working people, not just the wealthy and well-connected through Making homeownership more affordable through investments that build homes for working families, not luxury condos.
+Lowering your rent by expanding affordable housing programs.
+Making your groceries more affordable by removing tariffs on food and other essentials and stopping corporate price hikes.
+Good Jobs No matter where we live or what we look like, most of us want to put in a good day’s work for a just wage and be able to have enough time to rest and spend time with our families and friends.
 But while productivity is rising, corporations are making record profits, and CEOs of the biggest corporations are making nearly 300 times the median worker’s pay (on average), our real wages are declining and our jobs are taking more and more of our time.
-I will fight to make sure you have a good-paying, safe job through
-- Ensuring your paycheck covers your basic needs through a national minimum wage tied to inflation.
-- Protecting your right to join a union for better pay and working conditions.
-- Ensuring you have paid time off to care for your health or your loved ones.
-- Protecting your retirement.
-- Protecting you from unsafe and inhumane working conditions at your job.
-- Making community college, training, and apprenticeship programs affordable.
-- Families across Indiana’s 8th Congressional district want to work to provide for their families.
+I will fight to make sure you have a good-paying, safe job through Ensuring your paycheck covers your basic needs through a national minimum wage tied to inflation.
+Protecting your right to join a union for better pay and working conditions.
+Ensuring you have paid time off to care for your health or your loved ones.
+Protecting your retirement.
+Protecting you from unsafe and inhumane working conditions at your job.
+Making community college, training, and apprenticeship programs affordable.
+Childcare & Working Families Families across Indiana’s 8th Congressional district want to work to provide for their families.
 But unaffordable and inaccessible childcare is hurting families and communities across Indiana and around the country.
 You can’t work if you can’t find or afford childcare.
 That’s the reality for tens of thousands of Indiana families right now.
@@ -47,12 +43,11 @@ Indiana loses $4.2 billion every year because Congress treats childcare like a l
 Here’s the truth: Childcare workers earn $29,000 a year.
 Those are poverty wages for the people taking care of our children.
 No wonder we have a childcare shortage.
-I will fight to ensure every family can afford and access quality childcare through:
-- Federally supporting high-quality local childcare centers.
-- Ensuring no family pays more than 7% of their income for childcare.
-- Wages that ensure childcare workers can afford a decent life.
-- Universal Pre-K to ensure all of our students get off to a good educational start in life.
-- Every child, no matter their zip code, deserves a quality education.
+I will fight to ensure every family can afford and access quality childcare through: Federally supporting high-quality local childcare centers.
+Ensuring no family pays more than 7% of their income for childcare.
+Wages that ensure childcare workers can afford a decent life.
+Universal Pre-K to ensure all of our students get off to a good educational start in life.
+Public Education Every child, no matter their zip code, deserves a quality education.
 Public education is the foundation of everything – economic growth, opportunity, and democracy itself.
 It costs money to teach kids to read, to run a science lab, and to support kids with disabilities in the classroom.
 That’s what we’re supposed to be doing, and right now, we’re not doing it equally.
@@ -60,11 +55,10 @@ Indiana relies heavily on local property taxes to fund schools.
 That means that if you live in a wealthy neighborhood, your kid gets new computers and experienced teachers, while if you live in a county where factories have closed hollowing out the economic base, your kid gets hand-me-downs and teachers working two jobs.
 Federal funding helps to even out some of the disparities, but these programs are underfunded and under-resourced.
 And now they’re under attack, with the current administration dismantling the Department of Education and freezing already-approved funding our communities need.
-I will fight for high quality public education across Indiana through
-- Full funding for our schools so that all students can receive a high-quality education.
-- A living wage that ensures teachers can pay their bills and live a decent life.
-- Protecting the rights of your child to receive a quality education by protecting the Department of Education.
-- No matter where we were born or what our skin color is, most of us believe in building a good life for ourselves and our families and contributing to the world around us.
+I will fight for high quality public education across Indiana through Full funding for our schools so that all students can receive a high-quality education.
+A living wage that ensures teachers can pay their bills and live a decent life.
+Protecting the rights of your child to receive a quality education by protecting the Department of Education.
+Immigration No matter where we were born or what our skin color is, most of us believe in building a good life for ourselves and our families and contributing to the world around us.
 Like many of our ancestors, immigrants today come seeking a better life.
 They contribute to our communities as our neighbors, our children’s classmates, and people who serve us every day.
 Our immigration system has been broken for decades.
@@ -77,12 +71,11 @@ Meanwhile, they’re also cutting funds our community needs, taking food and hea
 In Indiana, Immigrants contribute $4.6 billion in taxes and generate $12.3 billion in spending power.
 They enrich our schools, fill jobs we need, and strengthen our communities.
 They’re Hoosiers.
-I will fight to protect families through:
-- Prioritizing immigration reform that is smart and humane, protecting current residents while providing pathways to entry and citizenship for those seeking to become Americans.
-- Keeping families together and supporting the right to seek safety from persecution.
-- Ensuring immigrant families can go to religious services, schools, and hospitals without fear.
-- Commonsense oversight of the Department of Homeland Security to protect all Americans’ right to protest and live in peace.
-- Supporting our military requires more than words of appreciation.
+I will fight to protect families through: Prioritizing immigration reform that is smart and humane, protecting current residents while providing pathways to entry and citizenship for those seeking to become Americans.
+Keeping families together and supporting the right to seek safety from persecution.
+Ensuring immigrant families can go to religious services, schools, and hospitals without fear.
+Commonsense oversight of the Department of Homeland Security to protect all Americans’ right to protest and live in peace.
+Military and Veterans Supporting our military requires more than words of appreciation.
 It requires sound policy decisions.
 Our veterans have made immense sacrifices to protect our freedoms.
 It is our shared responsibility that they receive care, respect, and opportunities they have earned.
@@ -90,11 +83,10 @@ This means protecting the integrity of their mission and ensuring timely access 
 Right now, we’re failing our veterans, with months-long waits to see a VA doctor, mental health services that are unavailable, and far too many veterans experiencing deep poverty and homelessness.
 Rural veterans in particular get left behind, with long drives to VA clinics, scarce mental health resources, and underfunded job training.
 We must strengthen the systems that help veterans transition successfully into civilian life.
-I will fight to protect members and veterans of our military through
-- Protecting the mission of the military: to protect and defend the United States, its citizens, and its allies.
-- Ensuring all veterans have access to health care (including mental health care), food, and housing.
-- Protecting peace at home and abroad.
-- Whether we have a billion dollars or are barely making ends meet, we deserve a say in the decisions that impact our lives.
+I will fight to protect members and veterans of our military through Protecting the mission of the military: to protect and defend the United States, its citizens, and its allies.
+Ensuring all veterans have access to health care (including mental health care), food, and housing.
+Protecting peace at home and abroad.
+A Government that Works for the People Whether we have a billion dollars or are barely making ends meet, we deserve a say in the decisions that impact our lives.
 But right now, billionaires are buying too many elected officials and using their paid-for representatives to build a government that they can control.
 In 2010, the Roberts Court decided a case that opened the floodgates for unlimited corporate spending in politics.
 Gerrymandered maps ensure that politicians choose their voters instead of voters choosing their representatives.
@@ -102,13 +94,12 @@ And members of Congress can get rich through trading stocks based on information
 It’s a rigged game.
 But we can reverse this.
 Even with a deck stacked against us, we can win the game by showing up to vote for candidates who will vote to fix this system and return our democracy to you, the citizens.
-I will fight to protect your right to have a say in the decisions that shape your life through
-- Ensuring all eligible voters can cast a ballot and have an equal say in political decisions.
-- Building a more equal playing field by getting corporate money out of politics.
-- Banning congressional stock trading.
-- Instituting term limits for members of Congress.
+I will fight to protect your right to have a say in the decisions that shape your life through Ensuring all eligible voters can cast a ballot and have an equal say in political decisions.
+Building a more equal playing field by getting corporate money out of politics.
+Banning congressional stock trading.
+Instituting term limits for members of Congress.
 Mary is a proud signatory of BAC - pledging to bring Balance and Accountability to Washington, D.C.
-- Farmers are the backbone of our society.
+Agriculture & Rural Economy Farmers are the backbone of our society.
 The work our farmers do feeds our families – and the world.
 But while our farmers do the work, Big Ag takes the profits.
 Indiana’s 8th District is built on agriculture, but our farmers are facing enormous challenges.
@@ -124,23 +115,21 @@ You should own it – and have the right to fix it without hacking a computer so
 Agriculture policy has let consolidation kill the family farm.
 We’ve lost thousands of dairy and hog operations in Indiana, replaced by massive industrial operations that don’t care about our land or our neighbors.
 It’s time to put the power back in the hands of the people who actually work the soil.
-I will fight to protect our farmers through
-- Ensuring fair, stable international markets for American harvests.
-- Ensuring fair markets for livestock and grain by breaking up Big Ag monopolies.
-- Ensuring farmers can fix their own equipment through a national Right to Repair law.
-- Passing a Farm Bill that prioritizes family operations over corporate conglomerates.
-- No matter where we live, we all deserve the right to breathe clean air and drink clean water.
+I will fight to protect our farmers through Ensuring fair, stable international markets for American harvests.
+Ensuring fair markets for livestock and grain by breaking up Big Ag monopolies.
+Ensuring farmers can fix their own equipment through a national Right to Repair law.
+Passing a Farm Bill that prioritizes family operations over corporate conglomerates.
+Environment and Energy No matter where we live, we all deserve the right to breathe clean air and drink clean water.
 But corporations have been fighting for decades for deregulation so they can dump their toxic waste in our backyards.
 Families across Indiana – and our nation – are turning on their taps and worrying about lead, PFAs (toxic “forever chemicals”), and industrial runoff.
 The current administration has further pulled back on regulations to protect our health, delaying regulation of coal ash and PFAs in drinking water, pulling back mercury and air toxin standards for power plants, and repealing methane emission standards for the oil and gas sector.
 Our kids are missing school because of rising asthma rates linked to outdated, polluting coal plants in our backyards.
 While surrounding super-polluters make massive profits, Hoosier families are left paying the price with our health, our medical bills, and our futures.
-I will fight to:
-- Protect clean air and water for every American by holding industrial polluters accountable and strictly enforcing EPA safety standards.
-- Lower energy costs, diversify our energy supply, and create thousands of local, clean-energy jobs by investing in wind, solar, and modern grid infrastructure.
-- Ensure our state parks, forests, and natural habitats remain protected from corporate exploitation.
-- Protect local communities and taxpayers from environmental impacts and skyrocketing utility bills by placing a federal moratorium on hyperscale AI data centers and developing comprehensive policy to protect residents and consumers from predatory corporations.
-- Across the district, I’ve heard concerns about data centers coming into our communities.
+I will fight to: Protect clean air and water for every American by holding industrial polluters accountable and strictly enforcing EPA safety standards.
+Lower energy costs, diversify our energy supply, and create thousands of local, clean-energy jobs by investing in wind, solar, and modern grid infrastructure.
+Ensure our state parks, forests, and natural habitats remain protected from corporate exploitation.
+Protect local communities and taxpayers from environmental impacts and skyrocketing utility bills by placing a federal moratorium on hyperscale AI data centers and developing comprehensive policy to protect residents and consumers from predatory corporations.
+Data Center Policy Across the district, I’ve heard concerns about data centers coming into our communities.
 I share those concerns, which go beyond political party identity.
 We all deserve clean and safe air and water and utility bills that we can afford.
 We deserve a say over the decisions that directly impact our lives.
@@ -152,10 +141,14 @@ More than a dozen data center projects across Indiana have already lost their re
 That’s why I know that when we come together to get the right representation at every level of government, we can regain control over the decisions that impact our lives.
 Together, we will defeat corporate interests that threaten our lives and our communities.
 When you elect me to represent you in Congress, I promise that I will fight for legislation that pauses data center projects until we ensure that communities across the country have proper safeguards to protect our citizens so that AI becomes a tool for building, not destruction.
-- Across Indiana, we rely on our neighbors and deserve good infrastructure to support communities – roads, schools, hospitals, and so much more.
+Taxes Across Indiana, we rely on our neighbors and deserve good infrastructure to support communities – roads, schools, hospitals, and so much more.
 But our public goods are under threat, as some politicians would rather keep giving tax breaks to the ultra-wealthy and corporations as they amass record amounts of wealth than invest in our families and our communities.
 We deserve better.
 We deserve tax dollars spent on public goods: roads and sidewalks, good public schools that inspire our students to learn, access to quality health care in every community, a safety net so that we’re not left destitute when we come across hard times.
-I will fight to ensure our tax dollars work to build the kind of future that we deserve through
-- Ensuring the ultra-wealthy and corporations pay their fair share in taxes.
-- Supporting U.S. jobs by removing corporate tax incentives that shift jobs overseas.
+I will fight to ensure our tax dollars work to build the kind of future that we deserve through Ensuring the ultra-wealthy and corporations pay their fair share in taxes.
+Supporting U.S. jobs by removing corporate tax incentives that shift jobs overseas.
+Affordability Part 1 Filing Day!
+Happy 250th!
+Affordability Part 2 SAVE Act Grief and Hope Immigration and Birthright Citizenship Let’s Choose Respect Redistricting Diversity and Community My Vote is Not for Sale Why are you supporting Mary?
+Data Center Policy This is what a War with no plan costs you.
+Affordability Part 3 REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

@@ -1,17 +1,94 @@
 [
-"http://mandatemedia.com/",
-"https://facebook.com/TeamMcGovern",
-"https://jimmcgovern.com/",
-"https://jimmcgovern.com/about",
-"https://jimmcgovern.com/contact",
-"https://jimmcgovern.com/donate",
-"https://jimmcgovern.com/facebook",
-"https://jimmcgovern.com/instagram",
-"https://jimmcgovern.com/latest",
-"https://jimmcgovern.com/mobile-donate",
-"https://jimmcgovern.com/privacy",
-"https://jimmcgovern.com/sign-up",
-"https://jimmcgovern.com/twitter",
-"https://jimmcgovern.com/volunteer",
-"https://secure.actblue.com/donate/stand-with-jim-mcgovern"
+{
+"text": "Contact",
+"href": "https://www.jimmcgovern.com/contact/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.jimmcgovern.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.jimmcgovern.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://www.jimmcgovern.com/mobile-donate/"
+},
+{
+"text": "Donate Now",
+"href": "https://www.jimmcgovern.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://www.jimmcgovern.com/"
+},
+{
+"text": "It's going to take action from all of us. So, will you chip in before tomorrow's FEC deadline?",
+"href": "https://secure.actblue.com/donate/stand-with-jim-mcgovern?refcode2=website"
+},
+{
+"text": "Join this effort to support Massachusetts families. Together we can make it happen.",
+"href": "https://www.jimmcgovern.com/donate/"
+},
+{
+"text": "Learn More",
+"href": "https://www.jimmcgovern.com/about/"
+},
+{
+"text": "Mandate Media",
+"href": "http://www.mandatemedia.com"
+},
+{
+"text": "Meet Jim",
+"href": "https://www.jimmcgovern.com/about/"
+},
+{
+"text": "News",
+"href": "https://www.jimmcgovern.com/latest/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jimmcgovern.com/privacy/"
+},
+{
+"text": "Sign Up",
+"href": "https://www.jimmcgovern.com/sign-up/"
+},
+{
+"text": "Team McGovern",
+"href": "https://www.facebook.com/TeamMcGovern/"
+},
+{
+"text": "Tomorrow is the biggest FEC deadline of 2026 — the last end-of-quarter deadline before Election Day.",
+"href": "https://secure.actblue.com/donate/stand-with-jim-mcgovern?refcode2=website"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jimmcgovern.com/volunteer/"
+},
+{
+"text": "Your support determines where and how we can help build the Democratic majority we need to take back the House.",
+"href": "https://secure.actblue.com/donate/stand-with-jim-mcgovern?refcode2=website"
+},
+{
+"text": "[image: Calendar graphic with FEC Deadline circled in red ]",
+"href": "https://secure.actblue.com/donate/stand-with-jim-mcgovern?refcode2=website"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.jimmcgovern.com/facebook/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.jimmcgovern.com/instagram/"
+},
+{
+"text": "[image: Jim McGovern for Congress]",
+"href": "https://www.jimmcgovern.com/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.jimmcgovern.com/twitter/"
+}
 ]

@@ -1,5 +1,4 @@
-Get to Know Daniel Elliott
-Daniel Elliott has called Forkland, Kentucky, home since 1993.
+Toggle navigation About Issues News COVID-19 Vote Donate About Get to Know Daniel Elliott Daniel Elliott has called Forkland, Kentucky, home since 1993.
 Raised in a Christian household, Daniel points to his upbringing as the foundation that has guided his life choices.
 Daniel Elliott became an attorney in 2011 after passing the Kentucky Bar Exam and is in private practice in Danville, Kentucky.
 His law degree was earned from the University of Louisville School of Law.
@@ -11,20 +10,11 @@ His practice areas have include: Criminal Defense, Domestic Relations, Estates, 
 In 2016, Daniel Elliott was nominated to run for a vacancy in the House of Representatives District 54.
 Since his election, Representative Elliott has fought to stand up for the working families of Boyle and Casey Counties.
 Daniel’s commonsense style of leadership has served our local families well, and he has made good on his promises to work towards a more efficient, responsive, transparent, and accountable state government.
-Daniel is a member of the Central Kentucky Caucus, Kentucky Sportsmen’s Caucus, and
-Pro-Life Caucus.
-He is also a member of the following House Session Standing Committees:
-- Economic Development & Workforce Investment (Vice Chair)
-- BR Sub. on Justice, Public Safety, & Judiciary (Liaison Member)
-- Health and Family Services (Member)
-- Natural Resources & Energy (Member)
-- Judiciary (H) (Member)
-Daniel Elliott attends Bradfordsville United Methodist Church, and has volunteered for many years in the Forkland Festival, in Forkland where he lives.
-Legislative Record
-Representative Elliott has sponsored and helped pass historic legislation for our Commonwealth.
+Daniel is a member of the Central Kentucky Caucus, Kentucky Sportsmen’s Caucus, and Pro-Life Caucus.
+He is also a member of the following House Session Standing Committees: Economic Development & Workforce Investment (Vice Chair) BR Sub. on Justice, Public Safety, & Judiciary (Liaison Member) Health and Family Services (Member) Natural Resources & Energy (Member) Judiciary (H) (Member) Daniel Elliott attends Bradfordsville United Methodist Church, and has volunteered for many years in the Forkland Festival, in Forkland where he lives.
+Legislative Record Representative Elliott has sponsored and helped pass historic legislation for our Commonwealth.
 He is a true workhorse, accomplishing real results for our local families.
-2020 Session: Sponsored Legislation that Passed into Law
-House Bill 8 – Signed into law.
+2020 Session: Sponsored Legislation that Passed into Law House Bill 8 – Signed into law.
 An act relating to ground ambulance service providers and creating the ambulance service assessment revenue fund.
 House Bill 12 – Signed into law.
 An act to cap the cost sharing requirements for prescription insulin.
@@ -38,8 +28,7 @@ House Bill 319 – Signed into law.
 An act relating to historical preservation of Revolutionary War battlefields, Civil War battlefields, and Underground Railroad sites, and allow the Kentucky Heritage Council to provide grants from the moneys deposited in the fund to private nonprofit organizations for the purchase of sites.
 House Bill 362 – Signed into law.
 An act relating to broadband deployment: to include moneys received as revenues of the Kentucky Infrastructure Authority, clarify that broadband deployment fund would be used to provide assistance to construct infrastructure for deployment of broadband service to underserved and unserved areas of the Commonwealth, and that the moneys are appropriated for those purposes.
-2019 Session: Sponsored Legislation that Passed into Law
-House Bill 2 – Signed into law.
+2019 Session: Sponsored Legislation that Passed into Law House Bill 2 – Signed into law.
 An act to establish a custodial, permanency, and service option assistance program for relative and fictive kin caregivers.
 House Bill 61 – Signed into law.
 An act relating to Kentucky educational excellence scholarships, allowing KEES funds to be used for qualified workforce training programs.
@@ -54,11 +43,9 @@ House Bill 274 – Signed into law.
 An act to give powers to conservation officers.
 House Bill 479 – Signed into law.
 An act to create the guardianship trust fund in the Cabinet for Health and Family Services.
-2018 Session: Sponsored Legislation that Passed into Law
-House Bill 191 – Signed into law.
+2018 Session: Sponsored Legislation that Passed into Law House Bill 191 – Signed into law.
 An act establishing safeguards and limitations on the use of online technology for assessing the eye and generating prescriptions for glasses and contact lenses.
-Kentucky consumers still have the freedom to choose where they purchase contacts or glasses, but this bill will ensure that patients have the same consumer protections as if they were seen for an in-person exam
-House Bill 207 – Signed into law.
+Kentucky consumers still have the freedom to choose where they purchase contacts or glasses, but this bill will ensure that patients have the same consumer protections as if they were seen for an in-person exam House Bill 207 – Signed into law.
 An act which allows attorneys to carry their smartphones into a jail or prison, to access the criminal file and do legal research in real time.
 House Bill 213 – Signed into law.
 An act relating to data-sharing of prescription drug monitoring information.
@@ -71,13 +58,11 @@ This law will prohibit a particularly gruesome type of abortion procedure, known
 This procedure was targeted due to the inhumane dismemberment that takes place.
 It will be remembered as one of the strongest pro-life measures that has ever passed in Kentucky history.
 House Bill 497 – Signed into law.
-A measure to include physician assistants in the definition of “qualified mental health professional.”
-House Bill 8 – Signed into law.
+A measure to include physician assistants in the definition of “qualified mental health professional.” House Bill 8 – Signed into law.
 A measure to provide better protections for partially disabled or disabled adult, particularly in regards to who is granted guardianship and removing custody when necessary.
 House Bill 93 – Signed into law.
 An act relating to prevention of exploitation in brokerage-financial accounts.
-2017 Session: Sponsored Legislation that Passed into Law
-House Bill 180 – Signed into law.
+2017 Session: Sponsored Legislation that Passed into Law House Bill 180 – Signed into law.
 Repeal and reenact KRS 199.011 to include definition of fictive kin, and to establish that the Cabinet for Health and Family Services may approve fictive kin as a placement for a child.
 House Bill 227 – Signed into law.
 An act relating to physical therapists and updating criteria for licensure.
@@ -85,8 +70,9 @@ House Bill 239 – An act relating to the Kentucky Board of Optometric Examiners
 House Bill 333 – An act related to controlled substances, defining fentanyl and to expand the authority of the Office of Drug Control Policy.
 House Bill 395 – Signed into law.
 AN ACT relating to the reorganization of the Finance and Administration Cabinet.
-2016 Session: Sponsored Legislation that Passed into Law:
-House Bill 183 – Signed into law.
+2016 Session: Sponsored Legislation that Passed into Law: House Bill 183 – Signed into law.
 An act to provide for a disabled veteran-owned business certification program.
 House Bill 529 – Signed into law.
 Establish the 11-member Kentucky Water Resources Board.
+Share this: Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Latest News Dakota Meyer Endorses Daniel Elliott February 3, 2016 Daniel B.
+Elliott Nominated to run for Vacancy in the Kentucky House of Representatives, 54th District January 10, 2016 First Name Last Name Email * ZIP Code * About News Volunteer Donate Paid for by Daniel Elliott for State Representative

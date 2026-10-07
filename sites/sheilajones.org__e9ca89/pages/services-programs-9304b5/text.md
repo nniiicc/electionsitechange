@@ -1,6 +1,6 @@
-Free Community
-Services & Programs
-Welcome to my community resource hub, dedicated to providing seniors and individuals with physical disabilities in Atlanta access to a variety of free and discounted services designed to enhance quality of life and promote independence.
+top of page DONATE Home About News & Announcements Community Awards District 60 | 2022 Race 2022 Endorsements Events Free Services & Programs Contact Free Community Services & Programs Welcome to my community resource hub, dedicated to providing seniors and individuals with physical disabilities in Atlanta access to a variety of free and discounted services designed to enhance quality of life and promote independence.
 Here, you'll find an array of carefully curated resources ranging from accessible transportation options and home health care services and educational programs specifically tailored for the senior and disabled community.
 My mission is to ensure that everyone, regardless of age or mobility, has the opportunity to live a fulfilling and active life without financial burden.
 At your own discretion, please explore these listings to discover the support and opportunities available in Atlanta, all aimed at fostering a supportive and inclusive community.
+Free Home Repair, Meals on Wheels, etc.
+Enhancing daily living with essential home-based services Explore Services Free Roof Replacement & LIHEAP Program Free furnace repair, plumbing, and minor flooring repair Explore Services Free Tax Preparation & Aging Services Reliable legal advice and healthcare services for all Explore Services Free Transportation and Commuting Services (MARTA, Uber, and Lyft) Efficient transport options for hassle-free commuting Explore Services Reach Out Call 404-542-8683 Email sheilajones_jones@yahoo.com Address 3246 Amhurst Drive NW Atlanta, GA 30318 bottom of page

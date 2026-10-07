@@ -1,9 +1,6 @@
-Part 1: Carba-Who?
-Our Congressman’s Identity Problem
-sbcurrent.com
-By Bob Smith, Commander, U.S.
-Navy (Ret.)
-Who is Salud Carbajal Politically?
+EN / ES Donate Why Bob Issues The Choice Op-Eds Get Involved Contact Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use CONTRIBUTE Part 1: Carba-Who?
+Our Congressman’s Identity Problem sbcurrent.com By Bob Smith, Commander, U.S.
+Navy (Ret.) Who is Salud Carbajal Politically?
 Members of Congress do more than vote.
 They join caucuses that signal how they operate and what kind of legislator they are.
 On the far left, you have The Squad.
@@ -17,8 +14,7 @@ They also generally get the most legislation done in Congress for the same reaso
 Rep.
 Carbajal is a member of that Caucus.
 What has that delivered for the Central Coast?
-The Gap Between Rhetoric and Results
-The Problem Solvers Caucus is built to move legislation forward.
+The Gap Between Rhetoric and Results The Problem Solvers Caucus is built to move legislation forward.
 We regularly hear about new proposals and policy ideas.
 But introducing a bill is not the same as advancing one.
 If you review Rep.
@@ -28,10 +24,8 @@ At some point, voters must ask a simple question: Is this producing results for 
 Carbajal?
 Just to be clear, we can make a comparison of Problem Solver members on each side of the aisle that were both first elected in the same year of 2016, Rep.
 Salud Carbajal (D-CA-24) and Rep.
-Brian Fitzpatrick (R-PA-01):
-New Democrat Coalition
-Rep.
-Carbajal is also a member of the New Democrat Coalition.
+Brian Fitzpatrick (R-PA-01): New Democrat Coalition Rep.
+Carbajal is also a member of the New Democrat Coalition .
 This is a left-of-center caucus designed for moderate voices within the Democrat Party, focusing on bipartisan problem-solving.
 This caucus promotes balanced energy policy, economic growth, secure borders, quality education, and relief for the middle class.
 How are those priorities performing on the Central Coast?
@@ -71,7 +65,7 @@ Has energy become more reliable or less expensive?
 Is it easier to build, hire, and grow?
 Are schools producing better outcomes?
 Is insurance more obtainable?
-If Congressman Carbajal were leading major legislation and shaping national policy discussions, we would probably see evidence of it beyond local press releases on Meet the Press, Bill Maher, CNN, or any mainstream show.
+If Congressman Carbajal were leading major legislation and shaping national policy discussions, we would probably see evidence of it beyond local press releases on Meet the Press, Bill Maher , CNN , or any mainstream show.
 We don’t.
 Fine.
 I’m perfectly okay with our congressman staying off television and keeping his head down in the Capitol if he were delivering results for the Central Coast.
@@ -82,4 +76,14 @@ If you are holding your breath for our congressman to solve big problems or emer
 The Central Coast does not need louder rhetoric, more partisan theater, or another decade of waiting for results that never arrive.
 It needs leadership that understands how to build coalitions, move legislation, attract investment, and deliver measurable outcomes for the people who live here.
 It needs an actual problem solver.
-Next Article: Part 2: The Solutions, in “What About Bob?”
+Next Article: Part 2: The Solutions, in “What About Bob?” Op-Eds Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use Contribute Campaigns are powered by grassroots supporters.
+Where's My Ballot Takes one minute to confirm your voter registration info.
+VOLUNTEER Winning this race will take a team across the Central Coast By entering your phone number and selecting to opt in, you consent to receive SMS/MMS marketing and polling text messages, donation requests, updates, and other important information to that number from Bob Smith For Congress.
+Msg&data rates may apply.
+Msg frequency varies.
+Reply HELP for help or STOP to opt-out at any time.
+SMS information is not rented, sold, or shared.
+View Privacy Policy and Terms & Conditions.
+Bob Smith is a retired member of the United States Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+Contact Bob’s Campaign Privacy Policy Paid for by Bob Smith for Congress Follow on Facebook Follow on LinkedIn Follow on X Follow on YouTube Follow on Instagram

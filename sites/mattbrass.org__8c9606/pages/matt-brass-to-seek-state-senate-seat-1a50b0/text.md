@@ -1,7 +1,4 @@
-Matt Brass to seek state senate seat
-March 7, 2016
-As published in the Newnan Times:
-Cowetan Matt Brass, who currently serves as chief of staff for Congressman Lynn Westmoreland, is the first official candidate for the Georgia Senate District 28 seat being vacated by Mike Crane.
+Home Meet Matt About Committee Service Sponsored Legislation Issues News Press Kit Newsletter Updates Volunteer News Matt Brass to seek state senate seat March 7, 2016 As published in the Newnan Times : Cowetan Matt Brass, who currently serves as chief of staff for Congressman Lynn Westmoreland, is the first official candidate for the Georgia Senate District 28 seat being vacated by Mike Crane.
 On Wednesday, Crane announced he is running for the U.S.
 Congressional seat – Third District that includes all of Coweta County – being vacated by Westmoreland, who is retiring.
 Brass had been mentioned as a possible congressional candidate himself.
@@ -13,10 +10,8 @@ Crane eventually won the election after a runoff with Duke Blackburn.
 Our veterans who bravely served and defended our nation are being cast aside and neglected,” the statement said.
 “Due to political correctness we have disarmed our law enforcement from their ordained duty to protect us and stripped all educators of their God given ability to teach our children.
 With failed policy continually being mandated from an out-of-control federal government, our state must step in where D.C. has fallen.
-If our federal government will not fight to protect all this then our state must.”
-The 28th District includes all of Coweta and Heard counties, and portions of south Fulton, Carroll and Troup counties.
+If our federal government will not fight to protect all this then our state must.” The 28th District includes all of Coweta and Heard counties, and portions of south Fulton, Carroll and Troup counties.
 Georgia is growing at a rapid pace, Brass said.
 “With such economic growth on the horizon, it will take solid, conservative, common sense policy to ensure Carroll, Coweta, Heard, South Fulton, and Troup counties prosper from these opportunities.
-This policy – above all – must also protect us as Christians, Constitutionalists, and Georgians.”
-Brass said he is proud and thankful to have “worked, learned and fought” alongside Westmoreland, “a man that has fought this fight for many years.
-I look forward to taking all I have learned and putting it towards serving Georgia’s 28th District in the State Senate.”
+This policy – above all – must also protect us as Christians, Constitutionalists, and Georgians.” Brass said he is proud and thankful to have “worked, learned and fought” alongside Westmoreland, “a man that has fought this fight for many years.
+I look forward to taking all I have learned and putting it towards serving Georgia’s 28th District in the State Senate.” Archives August 2020 June 2020 October 2019 September 2019 July 2019 April 2019 February 2019 January 2019 November 2018 September 2018 August 2018 July 2018 June 2018 May 2018 January 2018 March 2016 Categories Uncategorized Tags candidate District 28 election State Senate Home Meet Matt Issues News Volunteer

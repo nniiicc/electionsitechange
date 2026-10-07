@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Recurring+Tuesday+Phone+Banks&dates=20260922T230000Z%2F20261028T000000Z",
-"https://chrisfordformn.com/",
-"https://chrisfordformn.com/about",
-"https://chrisfordformn.com/about-1",
-"https://chrisfordformn.com/cart",
-"https://chrisfordformn.com/contact",
-"https://chrisfordformn.com/donate",
-"https://chrisfordformn.com/endorsements",
-"https://chrisfordformn.com/events",
-"https://chrisfordformn.com/events/chris-ford-chili-cook-off-fundraiser",
-"https://chrisfordformn.com/events/recurring-doorknocks",
-"https://chrisfordformn.com/events/recurring-tuesday-phone-banks?format=ical",
-"https://chrisfordformn.com/priorities",
-"https://facebook.com/people/Chris-Ford-for-Minnesota/61583983913457",
-"https://flickr.com/photos/204620145@N02",
-"https://instagram.com/chrisfordformn",
-"https://mobilize.us/s/UzjZsJ"
+{
+"text": "0",
+"href": "https://www.chrisfordformn.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.chrisfordformn.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.chrisfordformn.com/events"
+},
+{
+"text": "Donate",
+"href": "https://www.chrisfordformn.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chrisfordformn.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.chrisfordformn.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.chrisfordformn.com/contact"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Recurring+Tuesday+Phone+Banks&dates=20260922T230000Z%2F20261028T000000Z"
+},
+{
+"text": "Host a Yard Sign",
+"href": "https://www.chrisfordformn.com/about-1"
+},
+{
+"text": "ICS",
+"href": "https://www.chrisfordformn.com/events/recurring-tuesday-phone-banks?format=ical"
+},
+{
+"text": "Next Next October 9 Chris Ford Chili Cook-off Fundraiser",
+"href": "https://www.chrisfordformn.com/events/chris-ford-chili-cook-off-fundraiser"
+},
+{
+"text": "Previous Previous June 18 Recurring Doorknocks!",
+"href": "https://www.chrisfordformn.com/events/recurring-doorknocks"
+},
+{
+"text": "Priorities",
+"href": "https://www.chrisfordformn.com/priorities"
+},
+{
+"text": "[image: Chris Ford for MN]",
+"href": "https://www.chrisfordformn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Chris-Ford-for-Minnesota/61583983913457/"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/204620145@N02/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chrisfordformn/"
+},
+{
+"text": "https://mobilize.us/s/UzjZsJ",
+"href": "https://mobilize.us/s/UzjZsJ"
+}
 ]

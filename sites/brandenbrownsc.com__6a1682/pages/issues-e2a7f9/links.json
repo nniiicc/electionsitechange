@@ -1,35 +1,198 @@
 [
-"https://brandenbrownsc.com/",
-"https://brandenbrownsc.com/about",
-"https://brandenbrownsc.com/american-dream",
-"https://brandenbrownsc.com/border-security-immigration",
-"https://brandenbrownsc.com/contacts",
-"https://brandenbrownsc.com/cpt_services/12-energy-independence-and-infrastructure",
-"https://brandenbrownsc.com/cpt_services/borders",
-"https://brandenbrownsc.com/cpt_services/economy",
-"https://brandenbrownsc.com/cpt_services/education-system-reform",
-"https://brandenbrownsc.com/cpt_services/enacting-term-limits",
-"https://brandenbrownsc.com/cpt_services/one-nation-under-god",
-"https://brandenbrownsc.com/cpt_services/opposing-endless-wars",
-"https://brandenbrownsc.com/cpt_services/protecting-life",
-"https://brandenbrownsc.com/cpt_services/protecting-social-security-and-medicare",
-"https://brandenbrownsc.com/cpt_services/restoring-the-american-dream",
-"https://brandenbrownsc.com/cpt_services/second-amendment",
-"https://brandenbrownsc.com/cpt_services/veterans",
-"https://brandenbrownsc.com/economy",
-"https://brandenbrownsc.com/education",
-"https://brandenbrownsc.com/foreign-policy",
-"https://brandenbrownsc.com/god",
-"https://brandenbrownsc.com/infastructure",
-"https://brandenbrownsc.com/issues",
-"https://brandenbrownsc.com/pro-life",
-"https://brandenbrownsc.com/second-amendment",
-"https://brandenbrownsc.com/seniors-and-disability",
-"https://brandenbrownsc.com/term-limits",
-"https://brandenbrownsc.com/veterans",
-"https://brandenbrownsc.com/volunteer",
-"https://facebook.com/brandenbrownsc",
-"https://instagram.com/brandenbrownsc",
-"https://secure.winred.com/branden-brown-for-congress/donate-today",
-"https://x.com/brandenbrownsc"
+{
+"text": "About",
+"href": "https://brandenbrownsc.com/about/"
+},
+{
+"text": "BECOME A VOLUNTEER",
+"href": "https://brandenbrownsc.com/volunteer/"
+},
+{
+"text": "Border Security & Immigration",
+"href": "https://brandenbrownsc.com/border-security-immigration/"
+},
+{
+"text": "Branden Brown for Congress",
+"href": "https://brandenbrownsc.com/"
+},
+{
+"text": "Contact",
+"href": "https://brandenbrownsc.com/contacts/"
+},
+{
+"text": "Cutting Taxes, Spending, and Regulation",
+"href": "https://brandenbrownsc.com/cpt_services/economy/"
+},
+{
+"text": "Defending Our Gun Rights",
+"href": "https://brandenbrownsc.com/cpt_services/second-amendment/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/branden-brown-for-congress/donate-today"
+},
+{
+"text": "Economy",
+"href": "https://brandenbrownsc.com/economy/"
+},
+{
+"text": "Education",
+"href": "https://brandenbrownsc.com/education/"
+},
+{
+"text": "Education System Reform",
+"href": "https://brandenbrownsc.com/cpt_services/education-system-reform/"
+},
+{
+"text": "Enacting Term Limits",
+"href": "https://brandenbrownsc.com/cpt_services/enacting-term-limits/"
+},
+{
+"text": "Energy Independence and Infastructure",
+"href": "https://brandenbrownsc.com/infastructure/"
+},
+{
+"text": "Energy Independence and Infrastructure",
+"href": "https://brandenbrownsc.com/cpt_services/12-energy-independence-and-infrastructure/"
+},
+{
+"text": "Foreign Policy",
+"href": "https://brandenbrownsc.com/foreign-policy/"
+},
+{
+"text": "Home",
+"href": "https://brandenbrownsc.com"
+},
+{
+"text": "Issues",
+"href": "https://brandenbrownsc.com/issues/"
+},
+{
+"text": "One Nation Under God",
+"href": "https://brandenbrownsc.com/cpt_services/one-nation-under-god/"
+},
+{
+"text": "One Nation Under God",
+"href": "https://brandenbrownsc.com/god/"
+},
+{
+"text": "Opposing Endless Wars",
+"href": "https://brandenbrownsc.com/cpt_services/opposing-endless-wars/"
+},
+{
+"text": "Pro Life",
+"href": "https://brandenbrownsc.com/pro-life/"
+},
+{
+"text": "Programs to Reduce Veteran and First Responder Suicide",
+"href": "https://brandenbrownsc.com/cpt_services/veterans/"
+},
+{
+"text": "Protecting Life",
+"href": "https://brandenbrownsc.com/cpt_services/protecting-life/"
+},
+{
+"text": "Protecting Social Security and Medicare",
+"href": "https://brandenbrownsc.com/cpt_services/protecting-social-security-and-medicare/"
+},
+{
+"text": "Read More",
+"href": "https://brandenbrownsc.com/cpt_services/12-energy-independence-and-infrastructure/"
+},
+{
+"text": "Read More",
+"href": "https://brandenbrownsc.com/cpt_services/borders/"
+},
+{
+"text": "Read More",
+"href": "https://brandenbrownsc.com/cpt_services/economy/"
+},
+{
+"text": "Read More",
+"href": "https://brandenbrownsc.com/cpt_services/education-system-reform/"
+},
+{
+"text": "Read More",
+"href": "https://brandenbrownsc.com/cpt_services/enacting-term-limits/"
+},
+{
+"text": "Read More",
+"href": "https://brandenbrownsc.com/cpt_services/one-nation-under-god/"
+},
+{
+"text": "Read More",
+"href": "https://brandenbrownsc.com/cpt_services/opposing-endless-wars/"
+},
+{
+"text": "Read More",
+"href": "https://brandenbrownsc.com/cpt_services/protecting-life/"
+},
+{
+"text": "Read More",
+"href": "https://brandenbrownsc.com/cpt_services/protecting-social-security-and-medicare/"
+},
+{
+"text": "Read More",
+"href": "https://brandenbrownsc.com/cpt_services/restoring-the-american-dream/"
+},
+{
+"text": "Read More",
+"href": "https://brandenbrownsc.com/cpt_services/second-amendment/"
+},
+{
+"text": "Read More",
+"href": "https://brandenbrownsc.com/cpt_services/veterans/"
+},
+{
+"text": "Restore The American Dream",
+"href": "https://brandenbrownsc.com/american-dream/"
+},
+{
+"text": "Restoring The American Dream",
+"href": "https://brandenbrownsc.com/cpt_services/restoring-the-american-dream/"
+},
+{
+"text": "Second Amendment",
+"href": "https://brandenbrownsc.com/second-amendment/"
+},
+{
+"text": "Seniors and Disability",
+"href": "https://brandenbrownsc.com/seniors-and-disability/"
+},
+{
+"text": "Solving the Border Crisis",
+"href": "https://brandenbrownsc.com/cpt_services/borders/"
+},
+{
+"text": "Term Limits",
+"href": "https://brandenbrownsc.com/term-limits/"
+},
+{
+"text": "Veterans & First Responders",
+"href": "https://brandenbrownsc.com/veterans/"
+},
+{
+"text": "Volunteer",
+"href": "https://brandenbrownsc.com/volunteer/"
+},
+{
+"text": "[image: img]",
+"href": "https://brandenbrownsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/brandenbrownsc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/brandenbrownsc/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/brandenbrownsc"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0);"
+}
 ]

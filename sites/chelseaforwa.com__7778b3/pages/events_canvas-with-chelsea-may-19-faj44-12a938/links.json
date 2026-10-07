@@ -1,21 +1,90 @@
 [
-"http://facebook.com/chelseaforwa",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvas+with+Chelsea%21&dates=20240523T000000Z%2F20240523T020000Z&location=505+South+7th+Street%2C+Sunnyside%2C+WA%2C+98944%2C+United+States",
-"http://instagram.com/chelseaforwa",
-"http://maps.google.com/?q=505+South+7th+Street+Sunnyside%2C+WA%2C+98944+United+States",
-"http://squarespace.com/",
-"https://chelseaforwa.com/",
-"https://chelseaforwa.com/about",
-"https://chelseaforwa.com/cart",
-"https://chelseaforwa.com/endorsements",
-"https://chelseaforwa.com/events",
-"https://chelseaforwa.com/events/canvas-with-chelsea-may-19",
-"https://chelseaforwa.com/events/canvas-with-chelsea-may-19-faj44?format=ical",
-"https://chelseaforwa.com/events/juntos-somos-ms-campaign-kick-off-fundraiser-for-chelsea-dimas-for-state-rep",
-"https://chelseaforwa.com/events?tag=Canvassing",
-"https://chelseaforwa.com/events?tag=Volunteer",
-"https://chelseaforwa.com/news",
-"https://chelseaforwa.com/volunteer",
-"https://chelseaforwa.com/vote",
-"https://secure.actblue.com/donate/chelseaforwa"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=505+south+7th+street+sunnyside%2C+wa%2C+98944+united+states"
+},
+{
+"text": "0",
+"href": "https://www.chelseaforwa.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.chelseaforwa.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.chelseaforwa.com/events"
+},
+{
+"text": "Canvassing",
+"href": "https://www.chelseaforwa.com/events?tag=Canvassing"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chelseaforwa"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/chelseaforwa"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chelseaforwa.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.chelseaforwa.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.chelseaforwa.com/volunteer"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvas+with+Chelsea%21&dates=20240523T000000Z%2F20240523T020000Z&location=505+South+7th+Street%2C+Sunnyside%2C+WA%2C+98944%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/canvas-with-chelsea-may-19-faj44?format=ical"
+},
+{
+"text": "News",
+"href": "https://www.chelseaforwa.com/news"
+},
+{
+"text": "Next Next September 17 Juntos Somos Más: Campaign Kick-Off Fundraiser for Chelsea Dimas for State Rep",
+"href": "https://www.chelseaforwa.com/events/juntos-somos-ms-campaign-kick-off-fundraiser-for-chelsea-dimas-for-state-rep"
+},
+{
+"text": "Previous Previous May 19 Canvas with Chelsea!",
+"href": "https://www.chelseaforwa.com/events/canvas-with-chelsea-may-19"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.chelseaforwa.com/events?tag=Volunteer"
+},
+{
+"text": "Voting Info",
+"href": "https://www.chelseaforwa.com/vote"
+},
+{
+"text": "[image: Chelsea Dimas for State Rep (D)]",
+"href": "https://www.chelseaforwa.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/chelseaforwa"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/chelseaforwa"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@chelseaforwa.com"
+}
 ]

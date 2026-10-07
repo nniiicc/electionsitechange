@@ -1,6 +1,5 @@
-OP-ED | CAROLINA JOURNAL: Health care workers provide care, to everyone
-“Proximal control of bleeding, volume replacement, prevent hypothermia, economy of motion.”
-I had a habit of mumbling these principles to myself as I did the hardest part of an incoming casualty… waiting.
+top of page CHIP IN TO HELP RE-ELECT GRANT CAMPBELL >>> DONATE >>> HOME DONATE ABOUT ISSUES MEDIA NEWS More Use tab to navigate through the menu items.
+OP-ED | CAROLINA JOURNAL: Health care workers provide care, to everyone Feb 3 5 min read “Proximal control of bleeding, volume replacement, prevent hypothermia, economy of motion.” I had a habit of mumbling these principles to myself as I did the hardest part of an incoming casualty… waiting.
 I was standing in the receiving area of the Forward Surgical Team structure at Camp Dahlke, Afghanistan.
 This wasn’t remotely my first rodeo, and the reminders to myself were out of routine rather than fear of forgetting.
 About midway through my third, and final, overseas deployment as a Trauma Surgeon in the United States Army attached to the 3rd Group Special Forces, there wasn’t much left that could surprise me.
@@ -17,8 +16,7 @@ The difference this time was the casualty was a Taliban insurgent who had been s
 The enemy was inside the gate, and needed medical attention.
 It’s not everyday that you see a patient with their wrists and ankles zip-tied to a gurney, but this was combat medicine and you learn to expect the unusual.
 We were informed that our patient had tried to attack one of our soldiers in the vehicle on the way to our facility.
-As we started to cut away his clothing, assess his vital signs, and gain IV access, one of the SF soldiers leaned into my ear and said, “Doc, if he breaks out of those zip-ties he will try to kill you without hesitation.”
-I put it aside and went to work.
+As we started to cut away his clothing, assess his vital signs, and gain IV access, one of the SF soldiers leaned into my ear and said, “Doc, if he breaks out of those zip-ties he will try to kill you without hesitation.” I put it aside and went to work.
 I began my head-to-toe evaluation calling out the visible injuries to a scribe and making mental notes of the ones that were most threatening and, therefore, the ones that needed attention first.
 Vitals looked pretty good and, after evaluating, I decided a right-side chest tube would be the first intervention, and I started relaying my surgical plans to my anesthetist and bunkmate Randy.
 As we prepared to place him under anesthesia, the entire operating base began to reverberate with the repetitive staccato electronic clangs announcing incoming indirect fire (that’s mortars and rockets for you civilian folks).
@@ -33,9 +31,7 @@ War changes many things, but that isn’t one of them.
 Why, 11 years later, did that memory jump on the stage of my awareness today?
 Enter Erik Martindale: A nurse anesthetist from Miami who proclaimed, “I will not perform anesthesia for any surgeries or procedures for MAGA.
 It is my right, it is my ethical oath, and I stand behind my education.
-I own all of my businesses and I can refuse anyone!”
-It appears that Erik’s plan to refuse medical care to those who believe differently than him is not only right but required based on his “ethical oath.”
-Here’s to you keyboard crusader.
+I own all of my businesses and I can refuse anyone!” It appears that Erik’s plan to refuse medical care to those who believe differently than him is not only right but required based on his “ethical oath.” Here’s to you keyboard crusader.
 You likely accomplished your immediate goal: praise and affirmation from your like-minded peers, which, in the days of social media, seem to stand supreme over righteousness in the form of actual effort.
 But the problem with a desire for going viral… is sometimes your wish is granted.
 Erik’s electronic virtue signaling, like the firecracker that falls in dry grass, took on a life of its own and went worldwide.
@@ -62,3 +58,14 @@ It is the oath we take, and Twitter acclamation does not override that duty.
 So, Erik… if you want to claim the right of a business owner to refuse service to whomever you want, open a hot dog stand.
 But if you want to stay in this profession and enjoy the reverence and status that it can bring, do your job and put your personal judgement aside.
 There is a difference between fame and infamy, and neither should be a factor in your decision to aid the infirm.
+Recent Posts See All OP-ED | CAROLINA JOURNAL: Fauci chose silence when America needed an after-action review WBTV: ‘Lost kids in Mecklenburg County’: Lawmakers blast county officials in combative hearing about child’s death NC NEWSLINE: Republican lawmakers, advocates push to strengthen NC food systems, farms JOIN TEAM CAMPBELL Provide your information below to receive important e-mail updates from Team Campbell: SUBSCRIBE Thanks for submitting!
+About Grant Campbell for N.C.
+House Born and raised in North Carolina by a single mother, Grant learned early the value of hard work and education.
+He earned both his undergraduate and medical degrees from UNC-Chapel Hill before answering the call to serve after 9/11 as a U.S.
+Army physician.
+Grant completed three tours in the Middle East and retired from the Army as a lieutenant colonel before returning to private medical practice and serving his community and fellow veterans.
+Elected to the North Carolina House of Representatives in 2024, Grant proudly represents the people of Cabarrus and Rowan counties in House District 83.
+He is running for re-election to continue delivering conservative, common-sense leadership for his community.
+Learn More About the General Assembly House Members News & Media Resources Contact Us Press Inquiries Internships Constituent Services NCGA Live Stream Fin d Your Legislative District Help with a State A gency Capitol Building Tours Legislative Build ing Tours House Page Program Cong ress State Government State Constitution North Carolina General Assembly Bill Information State Agencies Governor's Office Lt.
+Governor's Office Secretary of State's Office Treasurer's Office North Carolina Courts COMMITTEE TO ELECT GRANT CAMPBELL P.O.
+Box 1350 Norwood, NC 28128 PAID FOR BY COMMITTEE TO ELECT GRANT CAMPBELL. © # by Capen Consulting, LLC | Email Webmaster bottom of page

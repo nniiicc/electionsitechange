@@ -1,21 +1,118 @@
 [
-"https://davisformontana.com/",
-"https://davisformontana.com/About",
-"https://davisformontana.com/Endorsements",
-"https://davisformontana.com/contact",
-"https://davisformontana.com/issues/A1",
-"https://davisformontana.com/issues/accessible-housing",
-"https://davisformontana.com/issues/increase-accessible-childcare",
-"https://davisformontana.com/issues/issue-1",
-"https://davisformontana.com/issues/issue-2",
-"https://davisformontana.com/issues/lowering-your-prices",
-"https://davisformontana.com/issues/protecting-public-lands-and-our-environment",
-"https://davisformontana.com/issues/strong-public-schools",
-"https://davisformontana.com/privacy-policy",
-"https://davisformontana.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/people/Ben-Davis-for-Montana/61585246460709",
-"https://facebook.com/profile.php?id=61585246460709",
-"https://secure.actblue.com/donate/ben-davis-1",
-"https://youtube.com/channel/UCLCHBi2bYwwjb6xTFOS6Wag"
+{
+"text": "About",
+"href": "https://www.davisformontana.com/About"
+},
+{
+"text": "Contact",
+"href": "https://www.davisformontana.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ben-davis-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.davisformontana.com/Endorsements"
+},
+{
+"text": "Expanding Affordable Housing",
+"href": "https://www.davisformontana.com/issues/accessible-housing"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Ben-Davis-for-Montana/61585246460709/"
+},
+{
+"text": "Home",
+"href": "https://www.davisformontana.com/"
+},
+{
+"text": "Increasing Accessible Childcare",
+"href": "https://www.davisformontana.com/issues/increase-accessible-childcare"
+},
+{
+"text": "Investing in Strong Public Schools",
+"href": "https://www.davisformontana.com/issues/strong-public-schools"
+},
+{
+"text": "Lowering Your Prices",
+"href": "https://www.davisformontana.com/issues/issue-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.davisformontana.com/privacy-policy"
+},
+{
+"text": "Promoting Healthy Children & Families",
+"href": "https://www.davisformontana.com/issues/issue-2"
+},
+{
+"text": "Protecting Our Public Lands and Environment",
+"href": "https://www.davisformontana.com/issues/protecting-public-lands-and-our-environment"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Reducing Property Taxes",
+"href": "https://www.davisformontana.com/issues/A1"
+},
+{
+"text": "Restoring Responsible Government",
+"href": "https://www.davisformontana.com/issues/lowering-your-prices"
+},
+{
+"text": "View more",
+"href": "https://www.davisformontana.com/issues/A1"
+},
+{
+"text": "View more",
+"href": "https://www.davisformontana.com/issues/accessible-housing"
+},
+{
+"text": "View more",
+"href": "https://www.davisformontana.com/issues/increase-accessible-childcare"
+},
+{
+"text": "View more",
+"href": "https://www.davisformontana.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.davisformontana.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.davisformontana.com/issues/lowering-your-prices"
+},
+{
+"text": "View more",
+"href": "https://www.davisformontana.com/issues/protecting-public-lands-and-our-environment"
+},
+{
+"text": "View more",
+"href": "https://www.davisformontana.com/issues/strong-public-schools"
+},
+{
+"text": "Volunteer",
+"href": "https://www.davisformontana.com/volunteer"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UCLCHBi2bYwwjb6xTFOS6Wag"
+},
+{
+"text": "[image: davisformontana.com logo]",
+"href": "https://www.davisformontana.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.davisformontana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61585246460709"
+}
 ]

@@ -1,11 +1,38 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/MattforNHsenate",
-"https://mclaughlin4nh.com/",
-"https://mclaughlin4nh.com/about",
-"https://mclaughlin4nh.com/contact",
-"https://mclaughlin4nh.com/priorities",
-"https://mclaughlin4nh.com/volunteer",
-"https://secure.actblue.com/donate/mattmclaughlinnh",
-"https://x.com/MclaughlinForNH"
+{
+"text": "About",
+"href": "https://www.mclaughlin4nh.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.mclaughlin4nh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mattmclaughlinnh"
+},
+{
+"text": "Priorities",
+"href": "https://www.mclaughlin4nh.com/priorities"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mclaughlin4nh.com/volunteer"
+},
+{
+"text": "[image: Matt McLaughlin for State Senate]",
+"href": "https://www.mclaughlin4nh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MattforNHsenate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MclaughlinForNH"
+}
 ]

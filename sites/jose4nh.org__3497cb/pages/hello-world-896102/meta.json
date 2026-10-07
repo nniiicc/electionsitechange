@@ -1,7 +1,17 @@
 {
  "description": "",
  "final_url": "https://jose4nh.org/hello-world/",
- "paid_for_by": null,
- "title": "Blog Post Title \u2013 New Hampshire State Rep. For Canterbury and Loudon 2020-2022 2023-2024 2025-2026",
- "years_mentioned": []
+ "fingerprint": "96999633694005f9aa1f4b9a8aa50e26ba8aa6ee",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Blog Post Title – New Hampshire State Rep. For Canterbury and Loudon 2020-2022 2023-2024 2025-2026",
+ "years_mentioned": [
+  "2018",
+  "2020",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

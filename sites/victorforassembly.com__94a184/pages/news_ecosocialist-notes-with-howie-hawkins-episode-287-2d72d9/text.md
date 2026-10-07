@@ -1,4 +1,2 @@
-Skip navigation menu
-EcoSocialist Notes with Howie Hawkins: Episode 287 with Special Guest Victor Hernandez
-Watch Howie Hawkins' live YouTube show, EcoSocialist Notes, as he speaks with Victor about his historic campaign for CA State Assembly.
-Podcast Interview
+Skip navigation menu Meet Victor Issues Events News Endorsements Volunteer Donate News Meet Victor Issues Events News Endorsements Volunteer Donate News Candidate Statement Ladera Ranch – Pesticides In Our Communities Podcast Interview EcoSocialist Notes with Howie Hawkins: Episode 287 with Special Guest Victor Hernandez PRESS RELEASE Assembly Candidate, Victor Hernandez, Advances to General Election in an Historic Primary Win in Competitive CA AD-59 Primary Press Release Assembly Candidate, Victor Hernandez, Responds to Escalating Wildfire Crisis Across the West – Emphasizes Local Threat to District 59 Jul 18 2026 Podcast Interview EcoSocialist Notes with Howie Hawkins: Episode 287 with Special Guest Victor Hernandez Watch Howie Hawkins' live YouTube show , EcoSocialist Notes, as he speaks with Victor about his historic campaign for CA State Assembly.
+Press Kit Contact Privacy Policy FPPC #1491723 Powered by RUN! website builder Paid by Victor Hernandez for Assembly 2026 You need to enable JavaScript to run this app.

@@ -1,3 +1,5 @@
-| In a radio address, Governor Mills spotlighted Senator Bailey's LD 2129 (An Act to Protect Maine People from the Harmful Impacts of Medical Debt) as a model of effective, people-centered legislation.
+SENATOR DONNA BAILEY Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5 Protecting Maine People from the Harmful Impacts of Medical Debt 6/13/2026 0 Comments In a radio address, Governor Mills spotlighted Senator Bailey's LD 2129 (An Act to Protect Maine People from the Harmful Impacts of Medical Debt) as a model of effective, people-centered legislation.
 The Governor's office highlighted stories of Maine residents who had faced the threat of losing their homes or having wages garnished due to medical bills, framing the new law as a crucial safety net for families navigating serious illness.
-Senator Bailey's work was recognized as central to Maine's strengthened consumer protection framework. | Blog Latest News Archives Categories |
+Senator Bailey's work was recognized as central to Maine's strengthened consumer protection framework.
+RADIO ADDRESS 0 Comments Leave a Reply.
+Blog Latest News Archives June 2026 February 2024 December 2023 June 2022 October 2020 September 2020 August 2020 June 2018 Categories All RSS Feed donate $5 207-284-9962 [email protected] Paid for and authorized by the candidate Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5

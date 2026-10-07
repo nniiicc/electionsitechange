@@ -1,15 +1,78 @@
 [
-"http://instagram.com/",
-"http://pinterest.com/",
-"http://yelp.com/biz",
-"https://facebook.com/profile.php?id=61588512504810",
-"https://irp.cdn-website.com/5a41b72c/files/uploaded/HD064_Landscape.pdf",
-"https://martinezforthepeople.com/",
-"https://martinezforthepeople.com/privacy-policy",
-"https://mtflg.org/",
-"https://mtredistricting.gov/state-legislative-maps-proposed-by-the-commission",
-"https://secure.anedot.com/martinez-for-the-people-4badfd37-04e7-4b32-aef8-eba874cbafdf/f815897b-b09c-48ca-adc1-6f21c5f2fcac",
-"https://sosmt.gov/elections",
-"https://voterportal.mt.gov/WhereToVote.aspx",
-"https://youtube.com/"
+{
+"text": "About Dan",
+"href": "https://www.martinezforthepeople.com/#AboutDan"
+},
+{
+"text": "Button",
+"href": "https://mtflg.org/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/martinez-for-the-people-4badfd37-04e7-4b32-aef8-eba874cbafdf/f815897b-b09c-48ca-adc1-6f21c5f2fcac"
+},
+{
+"text": "Issues",
+"href": "https://www.martinezforthepeople.com/#Issues"
+},
+{
+"text": "Montana District Maps",
+"href": "https://mtredistricting.gov/state-legislative-maps-proposed-by-the-commission/"
+},
+{
+"text": "Montana Election Info",
+"href": "https://sosmt.gov/elections/"
+},
+{
+"text": "My Voter Portal",
+"href": "https://voterportal.mt.gov/WhereToVote.aspx"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.martinezforthepeople.com/privacy-policy"
+},
+{
+"text": "Support Dan",
+"href": "https://secure.anedot.com/martinez-for-the-people-4badfd37-04e7-4b32-aef8-eba874cbafdf/f815897b-b09c-48ca-adc1-6f21c5f2fcac"
+},
+{
+"text": "[image: Map showing the boundaries of Legislative House District 64 for 2024-2032, highlighted in purple against a road network.]",
+"href": "https://irp.cdn-website.com/5a41b72c/files/uploaded/HD064_Landscape.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.martinezforthepeople.com/"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.martinezforthepeople.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "http://pinterest.com/"
+},
+{
+"text": "[no text]",
+"href": "http://yelp.com/biz/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61588512504810"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@martinezforthepeople.com"
+},
+{
+"text": "[no text]",
+"href": "mailto:dan@martinezforthepeople.com"
+}
 ]

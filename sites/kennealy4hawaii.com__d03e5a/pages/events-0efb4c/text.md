@@ -1,26 +1,2 @@
-Events
-More coming soon!
-8
-Oct
-Thursday, 4:00 PM – 6:00 PM
-Sign Waving
-307 Makaala St, Hilo, HI, 96720
-Add your event description here
-15
-Oct
-Thursday, 4:00 PM – 6:00 PM
-Sign Waving
-307 Makaala St, Hilo, HI, 96720
-Add your event description here
-22
-Oct
-Thursday, 4:00 PM – 6:00 PM
-Sign Waving
-307 Makaala St, Hilo, HI, 96720
-Add your event description here
-29
-Oct
-Thursday, 4:00 PM – 6:00 PM
-Sign Waving
-307 Makaala St, Hilo, HI, 96720
-Add your event description here
+Meet Jonathan Issues News Contribute Events More coming soon!
+#ago This Week This Month ‹ Previous Wed Oct 7 2026 - Thu Oct 7 2027 Next › 8 Oct Thursday, 4:00 PM – 6:00 PM Sign Waving 307 Makaala St, Hilo, HI, 96720 Add your event description here More info › 15 Oct Thursday, 4:00 PM – 6:00 PM Sign Waving 307 Makaala St, Hilo, HI, 96720 Add your event description here More info › 22 Oct Thursday, 4:00 PM – 6:00 PM Sign Waving 307 Makaala St, Hilo, HI, 96720 Add your event description here More info › 29 Oct Thursday, 4:00 PM – 6:00 PM Sign Waving 307 Makaala St, Hilo, HI, 96720 Add your event description here More info › Voter Information Yard Signs Events Contact Kennealy for Hawaii Powered by CampaignPartner.com - Political Campaign Websites Home Meet Jonathan Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,8 +1,30 @@
 [
-"https://facebook.com/profile.php?id=61579265202490",
-"https://justiceleeharris.com/",
-"https://justiceleeharris.com/aboutleeharris",
-"https://justiceleeharris.com/cart",
-"https://justiceleeharris.com/donate",
-"https://secure.anedot.com/justice-lee-harris-campaign-67c246db-b5fb-43ee-9d6c-f85aa10312ef/donate"
+{
+"text": "0",
+"href": "https://www.justiceleeharris.com/cart"
+},
+{
+"text": "About Justice Lee Harris",
+"href": "https://www.justiceleeharris.com/aboutleeharris"
+},
+{
+"text": "Connect on Facebook",
+"href": "https://www.facebook.com/profile.php?id=61579265202490"
+},
+{
+"text": "DONATE BY CREDIT CARD HERE",
+"href": "https://secure.anedot.com/justice-lee-harris-campaign-67c246db-b5fb-43ee-9d6c-f85aa10312ef/donate"
+},
+{
+"text": "DONATE HERE",
+"href": "https://www.justiceleeharris.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.justiceleeharris.com/donate"
+},
+{
+"text": "Justice Lee Harris",
+"href": "https://www.justiceleeharris.com/"
+}
 ]

@@ -1,3 +1,3 @@
-I was about to sit down with STLPR's Jason Rosenbaum on his podcast "Politically Speaking" and discuss how Democrats can win in West County in 2026.
+About Jaclyn Issues Get Involved Events Updates Donate Now Home About Jaclyn Issues Get Involved Events Updates Donate Now November 26, 2025 Jaclyn sits down with Politically Speaking I was about to sit down with STLPR's Jason Rosenbaum on his podcast "Politically Speaking" and discuss how Democrats can win in West County in 2026.
 You can listen to the interview here.
-November 26, 2025
+Listen now Support Jaclyn Zimmermann’s Campaign for Missouri Donate Now Zimmermann for Missouri PO Box 841 Manchester, MO 63021 tel:314-304-6442 | jaclyn4missouri@gmail.com Todd Zimmermann, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

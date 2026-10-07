@@ -1,10 +1,46 @@
 [
-"https://charlotteesau.com/m/account",
-"https://charlotteesau.com/privacy-policy",
-"https://facebook.com/Charlotte4KansasHouse",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://myvoteinfo.voteks.org/VoterView",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/charlotte4ks/2026"
+{
+"text": "Charlotte@CharlotteEsau.com",
+"href": "mailto:Charlotte@CharlotteEsau.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/charlotte4ks/2026"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Charlotte4KansasHouse"
+},
+{
+"text": "Look up your sample ballot, mail ballot status (if you request one), and Nov 3 polling place here.",
+"href": "https://myvoteinfo.voteks.org/VoterView"
+},
+{
+"text": "My Account",
+"href": "https://charlotteesau.com/m/account"
+},
+{
+"text": "Privacy Policy",
+"href": "https://charlotteesau.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Sign In",
+"href": "https://charlotteesau.com/m/account"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "View Privacy Policy - click here for more info.",
+"href": "https://charlotteesau.com/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

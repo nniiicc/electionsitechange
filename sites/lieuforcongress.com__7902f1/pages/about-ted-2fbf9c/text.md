@@ -1,5 +1,4 @@
-ABOUT TED
-Congressman Ted W.
+0 Skip to Content About Ted Volunteer Donate Open Menu Close Menu About Ted Volunteer Donate Open Menu Close Menu About Ted Volunteer Donate ABOUT TED Congressman Ted W.
 Lieu represents California’s 36th Congressional District.
 Serving his sixth term in Congress, Ted has made a significant impact in Washington.
 He was elected President of the Democratic Freshman Class by his colleagues during his first term.
@@ -11,7 +10,8 @@ California's 36th Congressional District includes the West Los Angeles VA Medica
 Ted helped secure $35 million for vital safety improvements at the West LA VA.
 He also successfully authored legislation to develop a Master Plan for the campus to provide critical housing for our homeless veterans.
 Through the chaos of the two Trump administrations, Ted has upheld the rule of law and called for more effective government oversight.
-Ted co-authored the Article of Impeachment advanced by the House, holding President Trump accountable for his role in the Jan. 6 insurrection.
+Ted co-authored the Article of Impeachment advanced by the House, holding President Trump accountable for his role in the Jan.
+6 insurrection.
 He then served as an Impeachment Manager for the second Senate impeachment trial.
 Ted is a leading voice in artificial intelligence and cybersecurity.
 In the 118th Congress, he was the Co-Chair of the House's Bipartisan Taskforce on Artificial Intelligence and introduced legislation to create a national AI Commission.
@@ -47,3 +47,4 @@ He served on the Torrance Environmental Quality and Energy Conservation Commissi
 Ted served for nearly a decade in the California State Legislature, representing Los Angeles County in both the State Assembly and the State Senate.
 Ted and his wife Betty, and their two sons Brennan and Austin are residents of Torrance.
 Betty is a member of the Torrance Board of Education, a member of California’s Commission on Special Education, and a former California Deputy Attorney General.
+Paid for by Ted Lieu for Congress

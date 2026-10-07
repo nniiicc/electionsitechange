@@ -1,6 +1,4 @@
-FOR IMMEDIATE RELEASE: February 1, 2023
-The following statement is from Assemblymember Michael Reilly (R,C-Staten Island) in response to Governor Kathy Hochul’s 2023 executive budget proposal:
-“At $227 billion, Governor Hochul’s budget proposal is the most expensive in state history and, if enacted, would be the largest in the nation, only second to California’s.
+Skip to Content Menu Menu Meet Mike Issues Newsroom Take Action Get Involved Request a Sign Contact Us Meet Mike Issues Newsroom Take Action Get Involved Request a Sign Contact Us Donate Now Statement from Assemblymember Reilly following Governor Kathy Hochul’s 2023 Executive Budget Proposal by Team Reilly on February 1, 2023 NEWS FOR IMMEDIATE RELEASE: February 1, 2023 The following statement is from Assemblymember Michael Reilly (R,C-Staten Island) in response to Governor Kathy Hochul’s 2023 executive budget proposal: “At $227 billion, Governor Hochul’s budget proposal is the most expensive in state history and, if enacted, would be the largest in the nation, only second to California’s.
 I’ve said it time and time again, we cannot continue down this path; we cannot continue to expect New York’s working families to shoulder an increased tax burden, the result of wasteful, reckless government spending, especially at a time when the cost of everyday supplies like groceries and fuel remain so inflated.
 Among the many concerns I have regarding the Governor’s proposal, the biggest red flag for me is her attempt to expand the infamous New York City speed camera program to enforce speed limits on all Triborough Bridge and Tunnel crossings.
 I’ve long believed that speed cameras have nothing to do with traffic safety and everything to do with generating revenue.
@@ -18,4 +16,10 @@ I successfully secured $10 million to fund this important program last year with
 The second public safety initiative I would like to see funding for is the installation of license plate readers on the New York side of all Port Authority (PANYNJ) crossings.
 With auto thefts on the rise in suburban neighborhoods like the ones I represent on Staten Island, license plate readers have become an essential tool for law enforcement agencies in tracking and recovering stolen vehicles.
 The Metropolitan Transportation Authority (MTA) fitted their crossings with them and it is now time for the Port Authority to do so as well.
-As the budget season begins in Albany, let’s make sure we have our priorities set straight so that the outcome is one that benefits the millions of everyday New Yorkers we were elected to fight for.”
+As the budget season begins in Albany, let’s make sure we have our priorities set straight so that the outcome is one that benefits the millions of everyday New Yorkers we were elected to fight for.” Share: 03.20.26 Reilly Introduces Bill to Cap E-ZPass Penalties and Strengthe...
+Read More > 03.07.26 Take Action: Sign the Petition Against the Proposed Homeless ...
+Read More > 09.22.23 Port Authority Acts on Reilly-Lanza Legislation to Study Alig...
+Read More > 06.06.23 Statement from Assemblymember Reilly regarding plan to house ...
+Read More > 05.23.23 Reilly’s Public Safety Proposals Sidelined by Assembly ...
+Read More > 05.15.23 Statement from Assemblymember Reilly on New York City’s...
+Read More > Meet Mike Issues Newsroom Get Involved Contact Us Paid for by Reilly for New York COPYRIGHT © # MICHAEL REILLY Privacy Policy Contact Us Political Website Design by Back to top

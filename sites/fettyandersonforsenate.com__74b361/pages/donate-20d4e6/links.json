@@ -1,30 +1,134 @@
 [
-"https://bsky.app/profile/fettyandersonforsenate.com",
-"https://facebook.com/profile.php?id=61586103667379",
-"https://fettyandersonforsenate.com/",
-"https://fettyandersonforsenate.com/about",
-"https://fettyandersonforsenate.com/contact",
-"https://fettyandersonforsenate.com/donate",
-"https://fettyandersonforsenate.com/events",
-"https://fettyandersonforsenate.com/events/county-journey",
-"https://fettyandersonforsenate.com/in-the-news",
-"https://fettyandersonforsenate.com/issues",
-"https://fettyandersonforsenate.com/platform",
-"https://fettyandersonforsenate.com/press-kit",
-"https://fettyandersonforsenate.com/privacy",
-"https://fettyandersonforsenate.com/supporter-toolkit",
-"https://fettyandersonforsenate.com/volunteer",
-"https://fettyandersonforsenate.com/vote",
-"https://instagram.com/rachelfettyanderson",
-"https://secure.actblue.com/donate/adifferentkindofblue",
-"https://secure.actblue.com/donate/rachel-fetty-anderson-2",
-"https://secure.actblue.com/donate/rachel-fetty-anderson-2?amount=10",
-"https://secure.actblue.com/donate/rachel-fetty-anderson-2?amount=100",
-"https://secure.actblue.com/donate/rachel-fetty-anderson-2?amount=25",
-"https://secure.actblue.com/donate/rachel-fetty-anderson-2?amount=250",
-"https://secure.actblue.com/donate/rachel-fetty-anderson-2?amount=50",
-"https://store.fettyandersonforsenate.com/",
-"https://tiktok.com/@rachel.fetty.ande",
-"https://youtube.com/@RachelFettyAnderson",
-"https://zoom.us/j/93378397409?pwd=A8bfX12Abs4icNwiXP8IfyI0b5NXk5.1"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/rachel-fetty-anderson-2?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/rachel-fetty-anderson-2?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/rachel-fetty-anderson-2?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/rachel-fetty-anderson-2?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/rachel-fetty-anderson-2?amount=50"
+},
+{
+"text": "55 counties. One WV. Watch the journey→",
+"href": "https://www.fettyandersonforsenate.com/events/county-journey"
+},
+{
+"text": "681-350-3804",
+"href": "tel:+16813503804"
+},
+{
+"text": "About",
+"href": "https://www.fettyandersonforsenate.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.fettyandersonforsenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.fettyandersonforsenate.com/donate"
+},
+{
+"text": "Donate on ActBlue",
+"href": "https://secure.actblue.com/donate/rachel-fetty-anderson-2"
+},
+{
+"text": "Events",
+"href": "https://www.fettyandersonforsenate.com/events"
+},
+{
+"text": "Health Care in WV: A Virtual Town Hall · Tonight · 7:00 PM ETJoin on Zoom →",
+"href": "https://zoom.us/j/93378397409?pwd=A8bfX12Abs4icNwiXP8IfyI0b5NXk5.1"
+},
+{
+"text": "In the News",
+"href": "https://www.fettyandersonforsenate.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://www.fettyandersonforsenate.com/issues"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/rachel-fetty-anderson-2"
+},
+{
+"text": "Platform",
+"href": "https://www.fettyandersonforsenate.com/platform"
+},
+{
+"text": "Press Kit",
+"href": "https://www.fettyandersonforsenate.com/press-kit"
+},
+{
+"text": "Privacy",
+"href": "https://www.fettyandersonforsenate.com/privacy"
+},
+{
+"text": "Shop the Store",
+"href": "https://store.fettyandersonforsenate.com"
+},
+{
+"text": "Store",
+"href": "https://store.fettyandersonforsenate.com"
+},
+{
+"text": "Support These Candidates",
+"href": "https://secure.actblue.com/donate/adifferentkindofblue"
+},
+{
+"text": "Supporter Toolkit",
+"href": "https://www.fettyandersonforsenate.com/supporter-toolkit"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fettyandersonforsenate.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.fettyandersonforsenate.com/vote"
+},
+{
+"text": "Voting Info",
+"href": "https://www.fettyandersonforsenate.com/vote"
+},
+{
+"text": "[image: Fetty Anderson]",
+"href": "https://www.fettyandersonforsenate.com/"
+},
+{
+"text": "[tooltip: Bluesky]",
+"href": "https://bsky.app/profile/fettyandersonforsenate.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61586103667379"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/rachelfettyanderson/"
+},
+{
+"text": "[tooltip: TikTok]",
+"href": "https://www.tiktok.com/@rachel.fetty.ande"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/@RachelFettyAnderson"
+},
+{
+"text": "contact@fettyandersonforsenate.com",
+"href": "mailto:contact@fettyandersonforsenate.com"
+}
 ]

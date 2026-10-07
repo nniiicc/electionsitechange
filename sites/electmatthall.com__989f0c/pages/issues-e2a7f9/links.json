@@ -1,20 +1,78 @@
 [
-"https://electmatthall.com/",
-"https://electmatthall.com/about",
-"https://electmatthall.com/issues",
-"https://electmatthall.com/issues/affordability",
-"https://electmatthall.com/issues/education",
-"https://electmatthall.com/issues/energy",
-"https://electmatthall.com/issues/ethics-accountability-transparency",
-"https://electmatthall.com/issues/foreign-influence",
-"https://electmatthall.com/issues/healthcare",
-"https://electmatthall.com/issues/tax-relief",
-"https://electmatthall.com/issues/taxes",
-"https://electmatthall.com/privacy-policy",
-"https://electmatthall.com/request-a-yard-sign",
-"https://electmatthall.com/terms-and-conditions",
-"https://facebook.com/",
-"https://instagram.com/",
-"https://secure.winred.com/matt-hall-for-state-representative/donate",
-"https://twitter.com/"
+{
+"text": "About",
+"href": "https://electmatthall.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/matt-hall-for-state-representative/donate"
+},
+{
+"text": "Home",
+"href": "https://electmatthall.com/"
+},
+{
+"text": "Issues",
+"href": "https://electmatthall.com/issues/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://electmatthall.com/privacy-policy"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://electmatthall.com/request-a-yard-sign/"
+},
+{
+"text": "TERMS AND CONDITIONS",
+"href": "https://electmatthall.com/terms-and-conditions"
+},
+{
+"text": "[image: GETTING VALUE FOR YOUR TAX DOLLARS]GETTING VALUE FOR YOUR TAX DOLLARS Matt Hall has led efforts to cut more than $3.5 billion in waste, fraud and abuse over the last two years while bringing Republicans and Democrats together to make state government more effective and efficient.READ MORE",
+"href": "https://electmatthall.com/issues/taxes/"
+},
+{
+"text": "[image: HALL ETHICS, ACCOUNTABILITY AND TRANSPARENCY PLAN]HALL ETHICS, ACCOUNTABILITY AND TRANSPARENCY PLAN Michigan taxpayers deserve to know where their money is going, and elected officials should be focused on serving the people—not special interests.READ MORE",
+"href": "https://electmatthall.com/issues/ethics-accountability-transparency/"
+},
+{
+"text": "[image: LOWERING YOUR ENERGY BILLS]LOWERING YOUR ENERGY BILLS When Matt Hall ran for state representative, he faced strong opposition from the utility industry. Organizations linked to Consumers Energy spent hundreds of thousands of dollars trying to defeat him. Matt Hall prevailed—and since then, he has remained a strong advocate for affordable, reliable energy, local control over wind and solar projects, and lower energy bills for Michigan families.READ MORE",
+"href": "https://electmatthall.com/issues/energy/"
+},
+{
+"text": "[image: MAKING LIFE MORE AFFORDABLE]MAKING LIFE MORE AFFORDABLE Michigan families are facing higher costs for the things they need every day. Matt Hall is working to lower those costs, help families afford homes and childcare, and connect more Michiganders to good-paying jobs.READ MORE",
+"href": "https://electmatthall.com/issues/affordability/"
+},
+{
+"text": "[image: Matt Hall]",
+"href": "https://electmatthall.com"
+},
+{
+"text": "[image: PREPARING MICHIGAN STUDENTS FOR SUCCESS]PREPARING MICHIGAN STUDENTS FOR SUCCESS Matt Hall delivered for our students, parents, and teachers with a bipartisan education budget that makes a record $19.8 billion investment in Michigan schools.READ MORE",
+"href": "https://electmatthall.com/issues/education/"
+},
+{
+"text": "[image: PUTTING MONEY BACK IN YOUR POCKET]PUTTING MONEY BACK IN YOUR POCKET Matt Hall believes Michigan families should be able to keep more of what they earn. He has worked across the aisle to lower taxes on working families and seniors while pursuing broader property tax relief.READ MORE",
+"href": "https://electmatthall.com/issues/tax-relief/"
+},
+{
+"text": "[image: SAVING YOU MONEY ON HEALTHCARE]SAVING YOU MONEY ON HEALTHCARE Matt Hall has brought Republicans and Democrats together to lower health care costs, protect federal Medicaid funding, and expand access to quality health care.READ MORE",
+"href": "https://electmatthall.com/issues/healthcare/"
+},
+{
+"text": "[image: STOPPING CHINESE AND FOREIGN INFLUENCE]STOPPING CHINESE AND FOREIGN INFLUENCE The Chinese Communist Party should not benefit from your tax dollars, own Michigan farmland, access your healthcare information or influence Michigan’s public education system. Matt Hall is working to ensure Michigan’s resources and institutions remain in the hands of Michiganders—not foreign adversaries.READ MORE",
+"href": "https://electmatthall.com/issues/foreign-influence/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com"
+}
 ]

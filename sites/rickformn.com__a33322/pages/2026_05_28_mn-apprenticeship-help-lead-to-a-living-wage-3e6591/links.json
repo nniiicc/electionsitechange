@@ -1,21 +1,94 @@
 [
-"https://capagency.org/",
-"https://dli.mn.gov/business/workforce/recognized-apprenticeship-preparation-programs",
-"https://docs.google.com/forms/d/e/1FAIpQLScVDaR-q2eS6A-xzDy0QJZAhVNPaE98iBJcj-OelZyCWepYKA/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSeplFBDPa7BNoGY0qt5rxznkLvBwEM4dX0TYXJf-HTKi0qfrg/viewform",
-"https://facebook.com/rickformn",
-"https://fishpartnernetwork.org/",
-"https://instagram.com/rickformn",
-"https://micasamn.org/",
-"https://nmcarpenters.com/training/michigan-pre-apprenticeship-programs",
-"https://rickformn.com/",
-"https://rickformn.com/about-rick",
-"https://rickformn.com/contact-us",
-"https://rickformn.com/issues",
-"https://rickformn.com/privacy-policy",
-"https://scottcountymn.gov/directory.aspx?did=17",
-"https://secure.actblue.com/donate/richard-olson-1",
-"https://shakopee.k12.mn.us/academics/academies-of-shakopee",
-"https://sos.state.mn.us/elections-voting/other-ways-to-vote/voting-locations-before-election-day",
-"https://youtube.com/@RickforMN"
+{
+"text": "About Rick",
+"href": "https://rickformn.com/about-rick/"
+},
+{
+"text": "Academies of Shakopee",
+"href": "https://www.shakopee.k12.mn.us/academics/academies-of-shakopee"
+},
+{
+"text": "CAP Agency",
+"href": "https://capagency.org/"
+},
+{
+"text": "CHIP IN $20 for RICK",
+"href": "https://secure.actblue.com/donate/richard-olson-1"
+},
+{
+"text": "Contact Us",
+"href": "https://rickformn.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/richard-olson-1"
+},
+{
+"text": "FISH Partner Network",
+"href": "https://www.fishpartnernetwork.org/"
+},
+{
+"text": "Health and Human Services Department of Scott County",
+"href": "https://www.scottcountymn.gov/directory.aspx?did=17"
+},
+{
+"text": "Issues",
+"href": "https://rickformn.com/issues/"
+},
+{
+"text": "Lawn Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScVDaR-q2eS6A-xzDy0QJZAhVNPaE98iBJcj-OelZyCWepYKA/viewform"
+},
+{
+"text": "Learn More About Rick Olson",
+"href": "https://rickformn.com/"
+},
+{
+"text": "MN Department of Labor and Industry",
+"href": "https://www.dli.mn.gov/business/workforce/recognized-apprenticeship-preparation-programs"
+},
+{
+"text": "Mi Casa",
+"href": "https://micasamn.org/"
+},
+{
+"text": "Midwest Regional Council of Carpenters",
+"href": "https://www.nmcarpenters.com/training/michigan-pre-apprenticeship-programs"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rickformn.com/privacy-policy/"
+},
+{
+"text": "Rick Olson for State Senate",
+"href": "https://rickformn.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeplFBDPa7BNoGY0qt5rxznkLvBwEM4dX0TYXJf-HTKi0qfrg/viewform"
+},
+{
+"text": "Volunteer Sign Up",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeplFBDPa7BNoGY0qt5rxznkLvBwEM4dX0TYXJf-HTKi0qfrg/viewform"
+},
+{
+"text": "Voting Locations",
+"href": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/voting-locations-before-election-day/"
+},
+{
+"text": "[image: Rick Olson for State Senate]",
+"href": "https://rickformn.com/"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/rickformn/"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/rickformn/"
+},
+{
+"text": "youtube",
+"href": "https://www.youtube.com/@RickforMN"
+}
 ]

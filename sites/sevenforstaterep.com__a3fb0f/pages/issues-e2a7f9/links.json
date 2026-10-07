@@ -1,9 +1,50 @@
 [
-"https://legislature.maine.gov/legis/bills/display_ps.asp?LD=2196&snum=132",
-"https://sevenforstaterep.com/",
-"https://sevenforstaterep.com/about",
-"https://sevenforstaterep.com/accessibility",
-"https://sevenforstaterep.com/issues",
-"https://sevenforstaterep.com/privacy",
-"https://sevenforstaterep.com/volunteer"
+{
+"text": "About",
+"href": "https://www.sevenforstaterep.com/about"
+},
+{
+"text": "Accessibility",
+"href": "https://www.sevenforstaterep.com/accessibility"
+},
+{
+"text": "Contact",
+"href": "https://www.sevenforstaterep.com/#contact"
+},
+{
+"text": "Issues",
+"href": "https://www.sevenforstaterep.com/issues"
+},
+{
+"text": "Join us",
+"href": "https://www.sevenforstaterep.com/volunteer"
+},
+{
+"text": "LD 2196",
+"href": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=2196&snum=132"
+},
+{
+"text": "Privacy",
+"href": "https://www.sevenforstaterep.com/privacy"
+},
+{
+"text": "SEVEN siegel for state rep",
+"href": "https://www.sevenforstaterep.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sevenforstaterep.com/volunteer"
+},
+{
+"text": "Volunteer →",
+"href": "https://www.sevenforstaterep.com/volunteer"
+},
+{
+"text": "Want to get involved? Sign up to volunteer here!",
+"href": "https://www.sevenforstaterep.com/volunteer"
+},
+{
+"text": "sevenRsiegel@gmail.com",
+"href": "mailto:sevenRsiegel@gmail.com"
+}
 ]

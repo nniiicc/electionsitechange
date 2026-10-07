@@ -1,72 +1,354 @@
 [
-"https://facebook.com/SimpsonforNYSAssemblyDistrict114",
-"https://simpsonforassembly.com/",
-"https://simpsonforassembly.com/2020/10",
-"https://simpsonforassembly.com/about",
-"https://simpsonforassembly.com/about-matt",
-"https://simpsonforassembly.com/category/news",
-"https://simpsonforassembly.com/category/uncategorized",
-"https://simpsonforassembly.com/contact",
-"https://simpsonforassembly.com/golf-outing",
-"https://simpsonforassembly.com/news",
-"https://simpsonforassembly.com/nyvt-video",
-"https://simpsonforassembly.com/tag/articles",
-"https://simpsonforassembly.com/unshackle-upstate-endorsement",
-"https://simpsonforassembly.com/why-matt",
-"https://simpsonforassembly.com/wp-admin/admin-ajax.php?action=cws_vc_shortcode_process_simple_like&post_id=2530&nonce=a44a72d330&is_comment=0&disabled=true",
-"https://simpsonforassembly.com/wp-admin/admin-ajax.php?action=cws_vc_shortcode_process_simple_like&post_id=2532&nonce=a44a72d330&is_comment=0&disabled=true",
-"https://simpsonforassembly.com/wp-admin/admin-ajax.php?action=cws_vc_shortcode_process_simple_like&post_id=2614&nonce=a44a72d330&is_comment=0&disabled=true",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0062.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0075.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0094.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0112.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0143.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0179.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0210.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0260.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0350.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0372.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0430.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0450.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0494.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0519.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_7833.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_7851.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_7861.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8149.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8362.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8375.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8502.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8610.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8629.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8645.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8661.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8683.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8713.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8746.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8833.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8921.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8946.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8965.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9030.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9061.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9064.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9066.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9090.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9111.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9191.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9253.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9313.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9420.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9459.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9496.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9539.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9543.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9570.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9653.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9703.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9793.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9879.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9931.jpg",
-"https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9947.jpg"
+{
+"text": "0",
+"href": "https://simpsonforassembly.com/golf-outing/#comments"
+},
+{
+"text": "0",
+"href": "https://simpsonforassembly.com/nyvt-video/#comments"
+},
+{
+"text": "0",
+"href": "https://simpsonforassembly.com/unshackle-upstate-endorsement/#comments"
+},
+{
+"text": "1",
+"href": "https://simpsonforassembly.com/2020/10/"
+},
+{
+"text": "61",
+"href": "https://simpsonforassembly.com/wp-admin/admin-ajax.php?action=cws_vc_shortcode_process_simple_like&post_id=2614&nonce=a44a72d330&is_comment=0&disabled=true"
+},
+{
+"text": "63",
+"href": "https://simpsonforassembly.com/wp-admin/admin-ajax.php?action=cws_vc_shortcode_process_simple_like&post_id=2532&nonce=a44a72d330&is_comment=0&disabled=true"
+},
+{
+"text": "67",
+"href": "https://simpsonforassembly.com/wp-admin/admin-ajax.php?action=cws_vc_shortcode_process_simple_like&post_id=2530&nonce=a44a72d330&is_comment=0&disabled=true"
+},
+{
+"text": "A Great day of golf!",
+"href": "https://simpsonforassembly.com/golf-outing/"
+},
+{
+"text": "About Matt",
+"href": "https://simpsonforassembly.com/about"
+},
+{
+"text": "About Matt",
+"href": "https://simpsonforassembly.com/about-matt/"
+},
+{
+"text": "Contact",
+"href": "https://simpsonforassembly.com/contact/"
+},
+{
+"text": "Contact Matt",
+"href": "https://simpsonforassembly.com/contact"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SimpsonforNYSAssemblyDistrict114"
+},
+{
+"text": "Home",
+"href": "https://simpsonforassembly.com"
+},
+{
+"text": "Home",
+"href": "https://simpsonforassembly.com/"
+},
+{
+"text": "Matt Simpson Interview with NYVT",
+"href": "https://simpsonforassembly.com/nyvt-video/"
+},
+{
+"text": "News",
+"href": "https://simpsonforassembly.com/news"
+},
+{
+"text": "News",
+"href": "https://simpsonforassembly.com/news/"
+},
+{
+"text": "October 4, 2020",
+"href": "https://simpsonforassembly.com/2020/10/"
+},
+{
+"text": "October 6, 2020",
+"href": "https://simpsonforassembly.com/2020/10/"
+},
+{
+"text": "October 8, 2020",
+"href": "https://simpsonforassembly.com/2020/10/"
+},
+{
+"text": "Uncategorized",
+"href": "https://simpsonforassembly.com/category/uncategorized/"
+},
+{
+"text": "Unshackle Upstate Endorsement",
+"href": "https://simpsonforassembly.com/unshackle-upstate-endorsement/"
+},
+{
+"text": "Why Matt?",
+"href": "https://simpsonforassembly.com/why-matt"
+},
+{
+"text": "Why Matt?",
+"href": "https://simpsonforassembly.com/why-matt/"
+},
+{
+"text": "[image: Endorsement from Unshackle Upstate]",
+"href": "https://simpsonforassembly.com/unshackle-upstate-endorsement/"
+},
+{
+"text": "[image: Matt Simpson for Assembly]",
+"href": "https://simpsonforassembly.com"
+},
+{
+"text": "[image: Matt Simpson for Assembly]",
+"href": "https://simpsonforassembly.com/golf-outing/"
+},
+{
+"text": "[image: Matt Simpson for Assembly][image: Matt Simpson for Assembly]",
+"href": "https://simpsonforassembly.com"
+},
+{
+"text": "[image: NYVT Interview]",
+"href": "https://simpsonforassembly.com/nyvt-video/"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0062.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0075.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0094.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0112.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0143.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0179.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0210.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0260.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0350.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0372.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0430.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0450.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0494.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_0519.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_7833.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_7851.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_7861.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8149.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8362.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8375.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8502.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8610.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8629.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8645.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8661.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8683.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8713.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8746.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8833.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8921.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8946.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_8965.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9030.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9061.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9064.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9066.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9090.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9111.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9191.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9253.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9313.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9420.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9459.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9496.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9539.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9543.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9570.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9653.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9703.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9793.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9879.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9931.jpg"
+},
+{
+"text": "[image]Zoom",
+"href": "https://simpsonforassembly.com/wp-content/uploads/2020/10/DSC_9947.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://simpsonforassembly.com/2020/10/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/SimpsonforNYSAssemblyDistrict114"
+},
+{
+"text": "articles",
+"href": "https://simpsonforassembly.com/tag/articles/"
+},
+{
+"text": "matt@simpsonforassembly.com",
+"href": "mailto:matt@simpsonforassembly.com"
+},
+{
+"text": "news",
+"href": "https://simpsonforassembly.com/category/news/"
+}
 ]

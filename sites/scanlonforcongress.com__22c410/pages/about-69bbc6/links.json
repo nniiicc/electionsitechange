@@ -1,10 +1,34 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSecqCLJtHZIlQ3YSTRMs5wO6x7ebgumCHWZk8hSKcZ5vRMx8Q/viewform",
-"https://scanlonforcongress.com/",
-"https://scanlonforcongress.com/about",
-"https://scanlonforcongress.com/contact",
-"https://scanlonforcongress.com/endorsements",
-"https://scanlonforcongress.com/news",
-"https://scanlonforcongress.com/vote",
-"https://secure.actblue.com/donate/socialmgs"
+{
+"text": "About",
+"href": "https://www.scanlonforcongress.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.scanlonforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/socialmgs"
+},
+{
+"text": "Endorsements",
+"href": "https://www.scanlonforcongress.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSecqCLJtHZIlQ3YSTRMs5wO6x7ebgumCHWZk8hSKcZ5vRMx8Q/viewform"
+},
+{
+"text": "Home",
+"href": "https://www.scanlonforcongress.com"
+},
+{
+"text": "News",
+"href": "https://www.scanlonforcongress.com/news"
+},
+{
+"text": "VOTE",
+"href": "https://www.scanlonforcongress.com/vote"
+}
 ]

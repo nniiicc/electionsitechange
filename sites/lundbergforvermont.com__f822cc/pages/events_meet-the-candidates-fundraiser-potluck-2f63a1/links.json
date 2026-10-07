@@ -1,12 +1,46 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+the+Candidates%3A+Fundraiser+%26amp%3B+Potluck+%28Brattleboro%29&dates=20260917T210000Z%2F20260917T223000Z",
-"https://facebook.com/profile.php?id=61590242772409",
-"https://lundbergforvermont.com/",
-"https://lundbergforvermont.com/cart",
-"https://lundbergforvermont.com/events",
-"https://lundbergforvermont.com/events/meet-greet-walk-with-amanda",
-"https://lundbergforvermont.com/events/meet-the-candidates-fundraiser-potluck?format=ical",
-"https://lundbergforvermont.com/events/vermont-primary-election",
-"https://secure.actblue.com/donate/chris-lundberg-1",
-"https://secure.actblue.com/donate/wcdcsept2026fundraiser"
+{
+"text": "0",
+"href": "https://www.lundbergforvermont.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.lundbergforvermont.com/events"
+},
+{
+"text": "Buy tickets",
+"href": "https://secure.actblue.com/donate/wcdcsept2026fundraiser"
+},
+{
+"text": "Contact",
+"href": "mailto:lundbergforvt@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chris-lundberg-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+the+Candidates%3A+Fundraiser+%26amp%3B+Potluck+%28Brattleboro%29&dates=20260917T210000Z%2F20260917T223000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.lundbergforvermont.com/events/meet-the-candidates-fundraiser-potluck?format=ical"
+},
+{
+"text": "Next Next September 18 Meet & Greet & Walk with Amanda (Bellows Falls)",
+"href": "https://www.lundbergforvermont.com/events/meet-greet-walk-with-amanda"
+},
+{
+"text": "Previous Previous August 11 VERMONT PRIMARY ELECTION",
+"href": "https://www.lundbergforvermont.com/events/vermont-primary-election"
+},
+{
+"text": "[image: Chris Lundberg for Vermont House of Representatives]",
+"href": "https://www.lundbergforvermont.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590242772409"
+}
 ]

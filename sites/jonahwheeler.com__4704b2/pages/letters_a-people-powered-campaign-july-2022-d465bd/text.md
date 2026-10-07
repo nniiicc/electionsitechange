@@ -1,5 +1,6 @@
-July 2022 Letter
-We began this month the same way last month ended.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all A People Powered Campaign A People Powered Campaign A People Powered Campaign Aug 1, 2022 Aug 1, 2022 July 2022 Letter State House Rally - 4 July 2022 - 13:36 - Concord, NH - Taken by Rep.
+Maria Elizabeth Perez State House Rally - 4 July 2022 - 13:36 - Concord, NH - Taken by Rep.
+Maria Elizabeth Perez We began this month the same way last month ended.
 Rallying against a Supreme Court which would rather be paid off by the pseudo-libertarian oligarchs’ fancy jets, dinners, and vacations; than they would serve the legal interests of the citizens protected under the constitution they swore an oath to serve.
 The Court, has once again been captured by those who wish to colloquially boil the frog in a pot of water.
 To slowly but surely dismantle what little of our great Republic that we have left.
@@ -63,4 +64,4 @@ I went to support my colleagues running for office.
 This was one busy month, but I wouldn’t have wanted it any other way.
 Putting the vision into action. and jumpstarting my campaign to be elected to the State legislature.
 I have no other words other than to say this is a privilege.
-Back to all
+Sunset after Filming - 8 July 2022 - 20:43 - Keene, NH - Taken by Jonah Sunset after Filming - 8 July 2022 - 20:43 - Keene, NH - Taken by Jonah ‹ The Whirlwind ‹ The Whirlwind ‹ The Whirlwind Running for the State House › Running for the State House › Running for the State House › Back to all

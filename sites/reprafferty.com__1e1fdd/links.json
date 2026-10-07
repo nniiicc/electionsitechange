@@ -1,25 +1,130 @@
 [
-"https://actionnetwork.org/forms/sign-up-for-rep-raffertys-newsletter",
-"https://facebook.com/RepRafferty",
-"https://instagram.com/reprafferty",
-"https://reprafferty.com/",
-"https://reprafferty.com/about",
-"https://reprafferty.com/about-2",
-"https://reprafferty.com/cart",
-"https://reprafferty.com/constituent-services",
-"https://reprafferty.com/contact",
-"https://reprafferty.com/get-involved",
-"https://reprafferty.com/healthcare",
-"https://reprafferty.com/legislation",
-"https://reprafferty.com/news-media",
-"https://reprafferty.com/opportunity",
-"https://reprafferty.com/priorities",
-"https://reprafferty.com/privacy-policy-and-terms-and-conditions",
-"https://reprafferty.com/s/aPR-RaffSCOTUS051126.pdf",
-"https://reprafferty.com/work",
-"https://secure.actblue.com/donate/neilraffertywebsite",
-"https://secure.actblue.com/donate/neilraffertywebsite?amount=100",
-"https://secure.actblue.com/donate/neilraffertywebsite?amount=25",
-"https://secure.actblue.com/donate/neilraffertywebsite?amount=50",
-"https://x.com/reprafferty"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/neilraffertywebsite?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/neilraffertywebsite?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/neilraffertywebsite?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.reprafferty.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.reprafferty.com/about"
+},
+{
+"text": "About Neil",
+"href": "https://www.reprafferty.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.reprafferty.com/"
+},
+{
+"text": "Build Economic Growth",
+"href": "https://www.reprafferty.com/work"
+},
+{
+"text": "Constituent Services",
+"href": "https://www.reprafferty.com/constituent-services"
+},
+{
+"text": "Contact",
+"href": "https://www.reprafferty.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/neilraffertywebsite"
+},
+{
+"text": "Expand Opportunity",
+"href": "https://www.reprafferty.com/opportunity"
+},
+{
+"text": "Expanding Opportunity",
+"href": "https://www.reprafferty.com/opportunity"
+},
+{
+"text": "Folder: About",
+"href": "https://www.reprafferty.com/about-2"
+},
+{
+"text": "Folder: Priorities",
+"href": "https://www.reprafferty.com/priorities"
+},
+{
+"text": "GET HELP TODAY",
+"href": "https://www.reprafferty.com/constituent-services"
+},
+{
+"text": "Get Involved",
+"href": "https://www.reprafferty.com/get-involved"
+},
+{
+"text": "Improve Healthcare",
+"href": "https://www.reprafferty.com/healthcare"
+},
+{
+"text": "Improving Healthcare",
+"href": "https://www.reprafferty.com/healthcare"
+},
+{
+"text": "Jobs & Economy",
+"href": "https://www.reprafferty.com/work"
+},
+{
+"text": "Legislation",
+"href": "https://www.reprafferty.com/legislation"
+},
+{
+"text": "Media",
+"href": "https://www.reprafferty.com/news-media"
+},
+{
+"text": "News & Media",
+"href": "https://www.reprafferty.com/news-media"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/neilraffertywebsite"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.reprafferty.com/privacy-policy-and-terms-and-conditions"
+},
+{
+"text": "Read Full Statement",
+"href": "https://www.reprafferty.com/s/aPR-RaffSCOTUS051126.pdf"
+},
+{
+"text": "Read Neil's Story",
+"href": "https://www.reprafferty.com/about"
+},
+{
+"text": "[image: RepRafferty.com]",
+"href": "https://www.reprafferty.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepRafferty/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/reprafferty/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/reprafferty"
+},
+{
+"text": "join the email list",
+"href": "https://actionnetwork.org/forms/sign-up-for-rep-raffertys-newsletter/"
+}
 ]

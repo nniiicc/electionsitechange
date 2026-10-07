@@ -1,4 +1,4 @@
-Campaign Principles We need to continue to fight to strengthen our economy, to protect our environment, to protect women’s rights to make their own health decisions...
+Home About News Volunteer Donate Contact Contribute Our Principles Home Our Principles Home About News Volunteer Donate Contact Campaign Principles We need to continue to fight to strengthen our economy, to protect our environment, to protect women’s rights to make their own health decisions...
 Jobs and Economy Jobs and Economy Socially, employment can promote social healing, and encourage the return of displaced persons.
 Medicare and Social Security Medicare and Social Security Social Security offers retirement, disability, and survivors benefits.
 Medicare provides health insurance.
@@ -14,4 +14,7 @@ T.
 Perez Burton Resident I like how you work across the party line to tackle the things we actually care about and get the job done!
 Debra Conner Flint Resident Blessed with a Kind Heart and a Passion to serve the community, Rep.
 Cynthia Neeley is The Choice for 2022 and beyond.
-Gerard Grifo Flint Resident Help us keep bringing the changes we need Genesee County is My Priority BECOME A VOLUNTEER view news & information
+Gerard Grifo Flint Resident Help us keep bringing the changes we need Genesee County is My Priority BECOME A VOLUNTEER view news & information Useful Links Home About Cynthia News Volunteer Privacy Policy Contact Contact Info 1809 James P Cole Blvd Flint, MI 48503 (810) 458-3936 cynthia@cynthianeeley.com Stay in Touch Paid for by Committee to Elect Cynthia R.
+Neeley, 2305 Begole St.
+Flint, MI 48504 | ©#.
+All Rights Reserved.

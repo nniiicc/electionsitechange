@@ -1,7 +1,9 @@
 {
  "description": "Sallie Fellows for NH House of Representatives",
  "final_url": "https://www.fellows4nh.com/",
- "paid_for_by": null,
+ "fingerprint": "0e4022d67f3dfd6def2cc185c99bc27a452b0621",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Sallie Fellows for NH House",
  "years_mentioned": [
   "2011",

@@ -1,40 +1,37 @@
-Husband - Father - Veteran - Volunteer
-I’m Michael Pierson, and I’m running to represent House District 22 because our community deserves a voice in Denver that puts people ahead of politics.
+Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Home Announcements Position Papers My Opponent Privacy Policy Fix Powers More Home Announcements Position Papers My Opponent Privacy Policy Fix Powers Home Announcements Position Papers My Opponent Privacy Policy Fix Powers Effective Leadership for HD-22 and Colorado Effective Leadership for HD-22 and Colorado Effective Leadership for HD-22 and Colorado Effective Leadership for HD-22 and Colorado Husband - Father - Veteran - Volunteer Get in Touch Donate About Mike I’m Michael Pierson, and I’m running to represent House District 22 because our community deserves a voice in Denver that puts people ahead of politic s.
 My wife and I have lived here since 2005, raising our kids at Jenkins Middle School and Doherty High, and I know the challenges families face—affording housing, keeping neighborhoods safe, and ensuring strong schools.
-Service has been my life’s work.
+Service has been my life’s work .
 I spent 20 years as an officer in the U.S.
-Air Force, 12 years as a federal civil servant, and today I volunteer with Care and Share Food Bank and the Space Foundation.
+Air Force, 12 years as a federal civil servant, and today I volunteer with Care and Share Food Bank and the Space Foundation .
 I've worked closely with local, county, state and federal agencies on many issues including roads and infrastructure, public safety and protecting our environment.
 I've also helped develop and manage multi-million-dollar budgets, handled crisis situations and led teams in the harshest environments.
-In the legislature, I’ll fight for real results for my district: improvements to Powers Boulevard, making housing more affordable, strengthening public schools, protecting healthcare access, supporting workers, and putting working families first.
+In the legislature, I’ll fight for real results for my district : improvements to Powers Boulevard , making housing more affordable , strengthening public schools, protecting healthcare access , supporting workers , and putting working families first.
 My opponent specializes in outrage.
 I’m running to deliver results.
 House District 22 needs someone focused on affordability, schools, safer roads, and working families—not another politician performing for social media.
 If you're tired of politicians who use their office to score points and you want someone who will do the work for you and your family, I'm the candidate for you.
-Mike as a unit commander in Germany in 2002.
-Video
+Mike at the "We got him!" announcement in Baghdad, 2003.
+Endorsed or Supported by Campaign Announcements and Blog Posts Video Service.
+Why I'm running.
 I've spent 30 years serving my country.
 Now I want to serve the people of House District 22.
-I was serving on Active Duty in Germany when the world changed on 9-11.
-Powers Blvd. is our major east-side arterial road, but no one is advocating for promised safety and traffic flow improvements.
+What 9-11 means to me I was serving on Active Duty in Germany when the world changed on 9-11.
+Finish Powers Blvd Powers Blvd. is our major east-side arterial road, but no one is advocating for promised safety and traffic flow improvements.
 I want to push CDOT and rally local officials to get Powers Blvd finished.
-This is a difficult race, but there are no unwinnable elections for Democrats in 2026.
+Remarks to suporters This is a difficult race, but there are no unwinnable elections for Democrats in 2026.
 I need your support.
-Mike answers questions on a local podcast.
-As Colorado Springs evolves, Mike discusses the necessity of economic incentives for builders to create affordable homes for essential workers like teachers and truck drivers.
+Podcast on HD22 Mike answers questions on a local podcast.
+Veterans Podcast As Colorado Springs evolves, Mike discusses the necessity of economic incentives for builders to create affordable homes for essential workers like teachers and truck drivers.
 He emphasizes the importance of efficient public transit systems and higher density in urban planning.
 We wrap up by reflecting on patriotism and public service, sharing Mike's military experiences and his vision for a safer, more inclusive world.
-Issues and Solutions for Today's Colorado
-Investing in Our Educators is Investing in Colorado's Future
-By supporting teachers and strengthening our public schools, we give every child—and our entire state—the tools to succeed.
+Issues and Solutions for Today's Colorado Education Economic Policy, Job Creation and Social Justice Economic Policy, Job Creation and Social Justice My support for D11 teachers Investing in Our Educators is Investing in Colorado's Future By supporting teachers and strengthening our public schools, we give every child—and our entire state—the tools to succeed.
 As the parent of two Colorado high school and college graduates, I know how much our educators shape the future of our state.
-Tea
+Tea Show More My support for D11 teachers Investing in Our Educators is Investing in Colorado's Future By supporting teachers and strengthening our public schools, we give every child—and our entire state—the tools to succeed.
 As the parent of two Colorado high school and college graduates, I know how much our educators shape the future of our state.
 Teachers deserve respect, resources, competitive pay, and safe classrooms so they can focus on what they do best: helping students learn and thrive.
 Strong public schools are the foundation of a healthy democracy, a strong economy, and vibrant communities.
 Every child deserves a well-rounded education that prepares them for success in college, the workforce, military service, or whatever path they choose.
-Choice, Career Readiness, and Higher Education
-Every family deserves educational freedom, and every child deserves access to an excellent public school system.
+Choice, Career Readiness, and Higher Education Every family deserves educational freedom, and every child deserves access to an excellent public school system.
 Parents should have the right to choose the learning environment that best fits their children—including public, private, parochial, charter, or homeschooling—while maintaining a meaningful voice in their children's education.
 At the same time, educational choice cannot replace the foundation of a well-funded public school system that guarantees every student, regardless of ZIP code or family income, access to a high-quality education.
 Education doesn't end with high school.
@@ -42,17 +39,13 @@ Colorado must continue investing in community colleges, trade schools, apprentic
 Not every student chooses a four-year degree, and that's okay.
 Careers in the skilled trades, healthcare, manufacturing, technology, public safety, and other essential professions deserve the same respect and support as traditional academic pathways.
 As your State Representative, I will support policies that strengthen public education, expand career and technical education, grow apprenticeship opportunities, improve workforce development, and ensure Colorado students graduate with the knowledge and skills they need to succeed in an ever-changing economy.
-Read my ideas for making CO Affordable
-Building an Economy That Works for Working Families
-Colorado's economy should work for everyone—not just those at the very top.
-Families should be able to find a good-paying job, afford a home, raise their children, save for retir
-Colorado's economy should work for everyone—not just those at the very top.
+Show Less Economic Policy, Job Creation and Social Justice Economic Policy, Job Creation and Social Justice Economic Policy, Job Creation and Social Justice Listen to my ideas on housing Housing for everyone Read my ideas for making CO Affordable Moving our economy ahead Building an Economy That Works for Working Families Colorado's economy should work for everyone—not just those at the very top.
+Families should be able to find a good-paying job, afford a home, raise their children, save for retir Show More Listen to my ideas on housing Housing for everyone Read my ideas for making CO Affordable Moving our economy ahead Building an Economy That Works for Working Families Colorado's economy should work for everyone—not just those at the very top.
 Families should be able to find a good-paying job, afford a home, raise their children, save for retirement, and enjoy a high quality of life without being priced out of the communities they love.
 Economic growth doesn't happen by accident.
 It requires smart investments in infrastructure, education, workforce development, and housing, while maintaining a business climate that encourages innovation and entrepreneurship.
 Government should be a responsible partner that removes unnecessary barriers, protects taxpayers, and helps create the conditions for long-term prosperity.
-Growing Colorado's Economy
-Colorado's future depends on attracting and retaining workers, supporting local businesses, and preparing the next generation for good-paying careers.
+Growing Colorado's Economy Colorado's future depends on attracting and retaining workers, supporting local businesses, and preparing the next generation for good-paying careers.
 That means investing in public education, community colleges, apprenticeship programs, career and technical education, and workforce training that meets the needs of today's employers.
 Affordable housing has become one of the greatest economic challenges facing Colorado.
 When teachers, nurses, first responders, military families, and young professionals cannot afford to live where they work, businesses struggle to fill jobs and communities suffer.
@@ -60,27 +53,20 @@ I support an all-of-the-above housing strategy that expands traditional homebuil
 Transportation infrastructure is also economic infrastructure.
 Improving corridors like Powers Boulevard, reducing congestion, and investing in roads, bridges, utilities, and broadband helps businesses grow, improves emergency response, and connects workers with jobs.
 As your State Representative, I will support policies that strengthen small businesses, encourage responsible economic development, invest in infrastructure, expand workforce opportunities, support organized labor and apprenticeship programs, and ensure Colorado remains a place where working families can build a secure future.
-Listen to my take on the environment and public health
-Protecting Colorado's Environment While Powering Our Future
-Colorado's natural beauty is one of our greatest assets.
-Protecting our mountains, forests, rivers, open spaces, clean air, and clean water is essential to preserving the quality of life that makes our state such a special
-Colorado's natural beauty is one of our greatest assets.
+Show Less Energy, Environment, and Climate Economic Policy, Job Creation and Social Justice Energy, Environment, and Climate Listen to my take on the environment and public health Protecting Colorado's Environment While Powering Our Future Colorado's natural beauty is one of our greatest assets.
+Protecting our mountains, forests, rivers, open spaces, clean air, and clean water is essential to preserving the quality of life that makes our state such a special Show More Listen to my take on the environment and public health Protecting Colorado's Environment While Powering Our Future Colorado's natural beauty is one of our greatest assets.
 Protecting our mountains, forests, rivers, open spaces, clean air, and clean water is essential to preserving the quality of life that makes our state such a special place to live, work, and raise a family.
 We have a responsibility to be good stewards of our environment while ensuring Colorado remains affordable and economically competitive.
 Protecting our environment and growing our economy are not competing priorities—they go hand in hand.
 Responsible development, thoughtful land-use planning, and investments in resilient infrastructure can help Colorado meet the needs of a growing population while preserving the landscapes and outdoor recreation opportunities that define our state.
-An All-of-the-Above Energy Strategy
-Colorado's energy future should be reliable, affordable, and increasingly clean.
+An All-of-the-Above Energy Strategy Colorado's energy future should be reliable, affordable, and increasingly clean.
 I support an all-of-the-above energy strategy that encourages renewable energy, energy efficiency, and emerging technologies while recognizing that Colorado's economy and electric grid require a dependable and diverse energy portfolio.
 We should continue investing in modernizing our electric grid, expanding energy storage, supporting innovation, and improving energy efficiency for homes and businesses.
 These investments can lower costs for consumers, strengthen energy reliability, and create good-paying jobs across Colorado.
 As your State Representative, I will support policies that protect Colorado's natural resources, promote responsible economic development, encourage clean and affordable energy, invest in wildfire mitigation and water conservation, and ensure environmental decisions are guided by science, long-term sustainability, and the needs of Colorado families.
 Protecting our environment should never come at the expense of working families, nor should economic growth come at the expense of the natural resources that make Colorado home.
-Standing up for Unions (video)
-Supporting Colorado's Workers and Strengthening Our Workforce
-Colorado's workers are the foundation of our economy.
-From teachers and nurses to construction workers, firefighters, skilled tradespeople, healthcare professionals, public em
-Colorado's workers are the foundation of our economy.
+Show Less Labor Healthcare Healthcare Standing with D11 teachers Supporting Organized Labor Standing up for Unions (video) Endorsed by Teamsters Supporting Colorado's Workers and Strengthening Our Workforce Colorado's workers are the foundation of our economy.
+From teachers and nurses to construction workers, firefighters, skilled tradespeople, healthcare professionals, public em Show More Standing with D11 teachers Supporting Organized Labor Standing up for Unions (video) Endorsed by Teamsters Supporting Colorado's Workers and Strengthening Our Workforce Colorado's workers are the foundation of our economy.
 From teachers and nurses to construction workers, firefighters, skilled tradespeople, healthcare professionals, public employees, service workers, and small business employees, hardworking Coloradans deserve safe workplaces, fair wages, good benefits, and the opportunity to build a secure future for themselves and their families.
 Throughout my military and public service career, I worked alongside people from every background and profession.
 I know that when workers are respected, properly trained, and given the tools to succeed, our communities and our economy become stronger.
@@ -91,13 +77,9 @@ It also means investing in apprenticeship programs, career and technical educati
 It means building the roads, bridges, utilities, and affordable housing that allow workers to live near their jobs and employers to attract and retain talent.
 As your State Representative, I will support policies that strengthen collective bargaining, expand apprenticeship opportunities, invest in workforce training, improve workplace safety, support responsible economic development, and ensure Colorado remains a place where working families can earn a good living, buy a home, and retire with dignity.
 A strong economy depends on strong workers, and Colorado succeeds when working families succeed.
-I'm a Mental Health Now candidate
-Read my position on Mental Health
-Expanding Access to Affordable, Quality Healthcare
-Access to quality healthcare should not depend on your ZIP code, your employer, or your income.
+Show Less Healthcare Healthcare Healthcare I'm a Mental Health Now candidate Read my position on Mental Health Expanding Access to Affordable, Quality Healthcare Access to quality healthcare should not depend on your ZIP code, your employer, or your income.
 Every Coloradan deserves timely, affordable care from qualified healthcare professionals in their own community.
-A healthier Co
-Access to quality healthcare should not depend on your ZIP code, your employer, or your income.
+A healthier Co Show More I'm a Mental Health Now candidate Read my position on Mental Health Expanding Access to Affordable, Quality Healthcare Access to quality healthcare should not depend on your ZIP code, your employer, or your income.
 Every Coloradan deserves timely, affordable care from qualified healthcare professionals in their own community.
 A healthier Colorado means stronger families, a stronger workforce, and a stronger economy.
 As our population continues to grow and age, Colorado must ensure that our healthcare system can meet the needs of every community.
@@ -110,12 +92,8 @@ Patients should also have access to evidence-based complementary and alternative
 Mental health is healthcare.
 Colorado must continue expanding access to behavioral health services, substance use treatment, and crisis intervention programs so that individuals and families can receive help before problems become emergencies.
 As your State Representative, I will support policies that strengthen Colorado's healthcare workforce, expand telehealth, protect access to preventive and reproductive healthcare, improve mental health services, reduce healthcare costs for working families and seniors, and ensure every Coloradan has access to safe, high-quality care close to home.
-Read my position on Public Safety and The Second Amendment
-I'm supported by Moms Demand Action and endorsed by Colorado Ceasefire
-Keeping Colorado Communities Safe
-Every Coloradan deserves to feel safe at home, at work, in school, and in their neighborhoods.
-Public safety is one of government's most fundamental responsibilities, and keeping
-Every Coloradan deserves to feel safe at home, at work, in school, and in their neighborhoods.
+Show Less Crime Healthcare Crime Read my position on Public Safety and The Second Amendment I'm supported by Moms Demand Action and endorsed by Colorado Ceasefire Keeping Colorado Communities Safe Every Coloradan deserves to feel safe at home, at work, in school, and in their neighborhoods.
+Public safety is one of government's most fundamental responsibilities, and keeping Show More Read my position on Public Safety and The Second Amendment I'm supported by Moms Demand Action and endorsed by Colorado Ceasefire Keeping Colorado Communities Safe Every Coloradan deserves to feel safe at home, at work, in school, and in their neighborhoods.
 Public safety is one of government's most fundamental responsibilities, and keeping our communities safe requires strong partnerships among law enforcement, firefighters, emergency medical personnel, educators, mental health professionals, and community organizations.
 Throughout my military career, I learned that the most effective security comes from preparation, teamwork, accountability, and leadership.
 Those same principles should guide public safety policy here in Colorado.
@@ -127,10 +105,10 @@ Colorado's justice system should be fair, effective, and accountable.
 Violent crime must be prosecuted aggressively, victims deserve compassion and support throughout the judicial process, and law enforcement agencies should maintain the trust of the communities they serve through professionalism, transparency, and accountability.
 As your State Representative, I will support policies that strengthen public safety, invest in first responders, improve emergency preparedness, expand mental health and crisis intervention services, support crime prevention programs, and ensure our justice system protects victims while respecting the rights of every Coloradan.
 Safe communities and strong communities go hand in hand.
-Secure Borders, Fair Laws, and Practical Immigration Reform
-The United States is a nation of immigrants and a nation of laws.
+Show Less Immigration and State's Rights National Security, Veterans and Families Immigration and State's Rights Secure Borders, Fair Laws, and Practical Immigration Reform The United States is a nation of immigrants and a nation of laws.
 We can honor both traditions by maintaining secure borders, enforcing our immigration laws fairly, and creating an immigration system that is orderly, efficient, and worthy of our nation's values.
-Border security is
+Border security is Show More Secure Borders, Fair Laws, and Practical Immigration Reform The United States is a nation of immigrants and a nation of laws.
+We can honor both traditions by maintaining secure borders, enforcing our immigration laws fairly, and creating an immigration system that is orderly, efficient, and worthy of our nation's values.
 Border security is a legitimate national security responsibility.
 The federal government must provide the personnel, technology, and resources necessary to secure our borders while disrupting human trafficking, drug trafficking, and other criminal activity.
 At the same time, our legal immigration system should be modernized so families, employers, and individuals can navigate it more efficiently and with greater certainty.
@@ -141,11 +119,9 @@ That means supporting local law enforcement, ensuring public safety, protecting 
 I believe Colorado should work cooperatively with federal authorities while avoiding unnecessary political conflict that distracts from solving real problems.
 As your State Representative, I will support policies that promote public safety, protect due process, strengthen workforce opportunities, and encourage practical, bipartisan solutions to immigration challenges.
 Colorado families deserve leadership focused on results rather than political rhetoric.
-Helping Colorado Seniors Age with Dignity, Independence, and Security
-Colorado's seniors helped build the communities we enjoy today.
+Show Less Senior Issues and Rights National Security, Veterans and Families Immigration and State's Rights My position on Senior Rights Helping Colorado Seniors Age with Dignity, Independence, and Security Colorado's seniors helped build the communities we enjoy today.
 They deserve the opportunity to retire with dignity, remain active in their communities, and continue living independently for as long as possible.
-As the cost of housing, health
-Colorado's seniors helped build the communities we enjoy today.
+As the cost of housing, health Show More My position on Senior Rights Helping Colorado Seniors Age with Dignity, Independence, and Security Colorado's seniors helped build the communities we enjoy today.
 They deserve the opportunity to retire with dignity, remain active in their communities, and continue living independently for as long as possible.
 As the cost of housing, healthcare, insurance, and everyday necessities continues to rise, many seniors are finding it increasingly difficult to remain in the communities they have called home for decades.
 Retirement should be a time to enjoy family, friends, and the rewards of a lifetime of hard work—not constant worry about whether rising costs will force someone to move or delay needed medical care.
@@ -155,10 +131,8 @@ Expanding telehealth services, supporting caregivers, increasing access to home-
 Colorado is home to thousands of military veterans, federal retirees, teachers, first responders, and public servants who chose to build their lives here after years of service.
 We should honor those contributions by protecting retirement security, supporting aging-in-place initiatives, and ensuring seniors have access to the healthcare, transportation, and community services they need.
 As your State Representative, I will support policies that protect retirement security, expand access to affordable healthcare, encourage the development of attainable senior housing, strengthen caregiver support, improve transportation options, combat fraud targeting older adults, and make Colorado a place where every senior can retire with dignity, independence, and peace of mind.
-Strengthening Colorado's Role in National Security
-Colorado plays a vital role in America's national defense.
-From Peterson Space Force Base, Schriever Space Force Base, Fort Carson, Buckley Space Force Base, the United States Air Force Academy, and NORAD-Northern Command, our state is home to some of the nation's m
-Colorado plays a vital role in America's national defense.
+Show Less National Security, Veterans and Families National Security, Veterans and Families National Security, Veterans and Families I'm endorsed by VoteVets Strengthening Colorado's Role in National Security Colorado plays a vital role in America's national defense.
+From Peterson Space Force Base, Schriever Space Force Base, Fort Carson, Buckley Space Force Base, the United States Air Force Academy, and NORAD-Northern Command, our state is home to some of the nation's m Show More I'm endorsed by VoteVets Strengthening Colorado's Role in National Security Colorado plays a vital role in America's national defense.
 From Peterson Space Force Base, Schriever Space Force Base, Fort Carson, Buckley Space Force Base, the United States Air Force Academy, and NORAD-Northern Command, our state is home to some of the nation's most important military installations and national security organizations.
 These missions protect our country while supporting thousands of Colorado jobs and billions of dollars in economic activity.
 After more than three decades of military and federal civilian service, I understand the importance of strong national defense, accountable leadership, and responsible stewardship of taxpayer dollars.
@@ -171,13 +145,20 @@ Homeland security begins at home.
 Colorado must continue preparing for natural disasters, cyber threats, and other emergencies by strengthening partnerships among state and local governments, emergency responders, public health agencies, and federal partners.
 Investing in emergency preparedness, resilient infrastructure, and coordinated response capabilities helps keep our communities safe.
 As your State Representative, I will advocate for policies that support Colorado's military communities, strengthen our defense and aerospace workforce, improve emergency preparedness, invest in resilient infrastructure, and ensure Colorado remains a national leader in defense, homeland security, and space innovation.
-Contact Mike
-Messaging & Data Rates apply.
+Show Less Contact Mike Want to volunteer or get our newsletter?
+Got a comment or question?
+Name Email* Where did you hear about us?
+Attach Files Attachments (0) Sign up for our email list for updates, promotions, and more.
+Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Important information on messaging Messaging & Data Rates apply.
 Message frequency may vary.
 Reply STOP to opt out of messaging.
 Reply HELP for Help with the messages you receive or your subscription.
 This site is managed by Pierson for Colorado.
 Addison Hill registered agent.
-https://ballotpedia.org/Michael_Pierson_(Colorado)
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Profile on Ballotpedia https://ballotpedia.org/Michael_Pierson_(Colorado) Connect With Us USE OF MILITARY RANK, JOB TITLES, PHOTOGRAPHS IN UNIFORM, AND THE APPEARANCE OF U.S.
+DEPARTMENT OF DEFENSE VISUAL INFORMATION DOES NOT IMPLY ENDORSEMENT BY THE U.S.
+DEPARTMENT OF DEFENSE OR ANY OF ITS BRANCHES.
+Copyright © # Pierson4Co - All Rights Reserved.
+Approved by Pierson for Colorado, Addison Hill, registered agent.
+Powered by

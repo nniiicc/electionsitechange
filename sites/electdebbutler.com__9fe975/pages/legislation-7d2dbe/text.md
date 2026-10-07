@@ -1,5 +1,4 @@
-2025–2026 Legislative Session
-I continue to work hard for my fellow North Carolinians during this 2025–2026 session of the General Assembly.
+Home Contribute Events Our Issues News Legislation Primary Sponsored Bills Votes Committees Contact 2025–2026 Legislative Session I continue to work hard for my fellow North Carolinians during this 2025–2026 session of the General Assembly.
 I am guided by the values and priorities of the people I represent—those being fairness, opportunity, accountability, and respect for all.
 This session, much of my work has focused on defending our civil liberties and strengthening protections for communities that have too often been marginalized or excluded.
 I cannot condone warrantless searches and confinements of our immigrant neighbors and I will not stand idly by while the LGBTQ community is vilified by our leaders in Raleigh.
@@ -24,3 +23,4 @@ Throughout this session, my approach has remained consistent: practical problem-
 I am proud of the work I am doing on behalf of House District 18 and all North Carolinians.
 I remain committed to showing up, speaking out, and fighting for policies that move our state forward—together.
 Deb.
+Contact Paid for By Elect Deb Butler Powered by CampaignPartner.com - Political Campaign Websites Home Contribute Events Our Issues News Legislation Primary Sponsored Bills Votes Committees Contact Close Menu

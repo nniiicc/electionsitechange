@@ -1,7 +1,11 @@
 {
  "description": "endorsement",
  "final_url": "https://votevarian2026.com/endorse.html",
- "paid_for_by": null,
+ "fingerprint": "7e7148011ae96bfa60bdda2b6b587cd702c91f65",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorse | VoteVarian2026",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

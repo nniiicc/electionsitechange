@@ -1,8 +1,30 @@
 [
-"https://facebook.com/profile.php?id=61577073056921",
-"https://jimavery.com/",
-"https://jimavery.com/cart",
-"https://jimavery.com/meet-jim",
-"https://jimavery.com/platform",
-"https://x.com/averyforsenate"
+{
+"text": "0",
+"href": "https://www.jimavery.com/cart"
+},
+{
+"text": "Home",
+"href": "https://www.jimavery.com/"
+},
+{
+"text": "Meet Jim",
+"href": "https://www.jimavery.com/meet-jim"
+},
+{
+"text": "Platform",
+"href": "https://www.jimavery.com/platform"
+},
+{
+"text": "[image: Avery for State Senate]",
+"href": "https://www.jimavery.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577073056921"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/averyforsenate"
+}
 ]

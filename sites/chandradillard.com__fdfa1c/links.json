@@ -1,8 +1,34 @@
 [
-"https://chandradillard.com/",
-"https://facebook.com/officialchandradillard",
-"https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=VoterInfo",
-"https://paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LNV98XYSZS2AW",
-"https://scstatehouse.gov/member.php?code=0479545397",
-"https://twitter.com/chandradillard"
+{
+"text": "Chandra Dillard",
+"href": "https://www.chandradillard.com"
+},
+{
+"text": "[image: Chandra Dillard]",
+"href": "https://www.chandradillard.com"
+},
+{
+"text": "[image: Donate now!]",
+"href": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LNV98XYSZS2AW"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/officialchandradillard"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/chandradillard"
+},
+{
+"text": "chandra@chandradillard.com",
+"href": "mailto:chandra@chandradillard.com"
+},
+{
+"text": "please click here",
+"href": "https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=VoterInfo"
+},
+{
+"text": "please click here",
+"href": "https://www.scstatehouse.gov/member.php?code=0479545397"
+}
 ]

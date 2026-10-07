@@ -1,16 +1,66 @@
 [
-"http://facebook.com/magwoodforpa",
-"https://instagram.com/magwoodforpa",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.magwoodforpa.com%2Fevent-details%2Fweekend-of-action",
-"https://magwoodforpa.com/",
-"https://magwoodforpa.com/about",
-"https://magwoodforpa.com/contact",
-"https://magwoodforpa.com/endorsements",
-"https://magwoodforpa.com/event-list",
-"https://magwoodforpa.com/get-involved",
-"https://magwoodforpa.com/issues",
-"https://magwoodforpa.com/vote",
-"https://secure.actblue.com/donate/davon-magwood-1",
-"https://tiktok.com/@nightvon1",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.magwoodforpa.com%2Fevent-details%2Fweekend-of-action&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "ABOUT",
+"href": "https://www.magwoodforpa.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.magwoodforpa.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/davon-magwood-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.magwoodforpa.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.magwoodforpa.com/event-list"
+},
+{
+"text": "HOME",
+"href": "https://www.magwoodforpa.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.magwoodforpa.com/issues"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.magwoodforpa.com/contact"
+},
+{
+"text": "See other events",
+"href": "https://www.magwoodforpa.com/event-list"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.magwoodforpa.com/get-involved"
+},
+{
+"text": "VOTE",
+"href": "https://www.magwoodforpa.com/vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/magwoodforpa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/magwoodforpa"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@nightvon1"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.magwoodforpa.com%2Fevent-details%2Fweekend-of-action&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.magwoodforpa.com%2Fevent-details%2Fweekend-of-action"
+}
 ]

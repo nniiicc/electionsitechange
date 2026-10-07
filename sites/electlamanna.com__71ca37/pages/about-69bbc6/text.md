@@ -1,15 +1,17 @@
-Meet Joe!
-Working class roots,
-world class experience
-Your candidate for NYS Assembly District 130
-Dear Neighbors,
-I am honored to introduce myself as a candidate for the New York State Assembly in District 130.
+Skip navigation menu Home About Priorities Endorsements Why I'm Running Media Volunteer Contact Donate About Joe Home About Priorities Endorsements Why I'm Running Media Volunteer Contact Donate About Joe From the Factory Floor to Strategic Leadership Joe is not a career politician.
+He is an engineer, labor leader, volunteer firefighter, local public servant and a term limits candidate who has spent decades fixing complex problems and standing up for working people.
+He knows Upstate communities need more than slogans and broken promises.
+They need leadership that understands jobs, taxes, emergency services, infrastructure, and the pressures facing families every day.
+Joe is running for Assembly to bring practical judgment, fiscal discipline, and a steady voice for Wayne County and Webster.
+Proven Leadership President/CEO, Advanced Innovative Solutions Strategic Planning Manager, FCA Assembly Engineer Engineering Delegate (National Negotiations) State C.A.P.
+Chairman (UAW, NY) Local Union President Meet Joe!
+Working class roots, world class experience Your candidate for NYS Assembly District 130 Joe and his Mother Dear Neighbors, I am honored to introduce myself as a candidate for the New York State Assembly in District 130.
 I am the proud son of Italian immigrants who came to the United States when I was six years old in search of opportunity and a better life.
 My parents taught me the value of hard work, personal responsibility, and perseverance.
 My father started as a barber before opening his own shop, and my mother worked long hours as a punch press operator.
 After school, I would go to my father’s barbershop to shine shoes and sweep floors.
 That small shop taught me the importance of showing up, earning respect, and taking pride in honest work.
-At 18, just before graduation, I was forced to leave home.
+Joe and his granddaughters At 18, just before graduation, I was forced to leave home.
 Instead of giving up, I went to work, opened Lamanna’s Auto, and studied for my GED at Holy Family Church in Camillus, NY.
 That experience shaped who I am.
 It taught me resilience, humility, and what it means to build something from the ground up.
@@ -20,7 +22,7 @@ While working full time, I earned degrees in Engineering and Political Science, 
 I am also the founder and president of Advanced Innovative Solutions; an engineering consulting firm focused on solving complex technical challenges.
 Throughout my career, I also served in leadership roles with several UAW locals, representing engineering, clerical, and administrative professionals.
 As a union steward, chairman, president, and Community Action Program Chairman, I helped negotiate labor agreements, advocate for workers, and work with local, state, and federal officials on legislative advocacy that strengthen communities and protect American jobs.
-Public service has always been personal to me.
+Joe at UAW negotiations Public service has always been personal to me.
 As a volunteer firefighter, I serve alongside my neighbors to help protect lives and property.
 I also serve on the Williamson Town Planning Board, Board of Assessment Review, and as an alternate member of the Zoning Board of Appeals.
 These roles have shown me how important local decisions are to families, neighborhoods, farms, small businesses, and the future of our communities.
@@ -32,7 +34,10 @@ You are the backbone of this district, and you deserve a representative who resp
 I am not a career politician.
 I am a problem solver with real-world experience, a record of service, and a deep commitment to this community.
 I am running to protect the character of our towns, support responsible development, strengthen our economy, and make sure Wayne County and Webster is heard in Albany.
-With your support, I will make sure District 130 is neither forgotten nor left behind by Albany.
+Joe and his wife Suzie With your support, I will make sure District 130 is neither forgotten nor left behind by Albany.
 Together, we can build a stronger, more prosperous, and more united future for our communities.
-With hope and determination,
-Joe
+With hope and determination, Joe Bargaining for America Joe was involved in the historic negotiations for workers on the national bargaining committee - his advocacy led to a contract that delivered on health care, economic gains, and workers' rights.
+Accomplishments & Results Salary Increases Pensions improved Health care protected $250 million new work Lamanna Family, Friends & Hobbies A path beyond polarization.
+Donate Here Contact Us Friends of Joseph Lamanna PO Box 307 Williamson, NY 14589 © # Friends of Joseph Lamanna.
+All rights reserved.
+Terms of Use | Privacy Policy Powered by RUN! website builder Paid For By Friends of Joseph Lamanna You need to enable JavaScript to run this app.

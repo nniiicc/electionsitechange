@@ -1,6 +1,34 @@
 [
-"https://facebook.com/NormanACrow",
-"https://normancrow.com/",
-"https://normancrow.com/home",
-"https://normancrow.com/privacy-policy"
+{
+"text": "About",
+"href": "https://normancrow.com/home#about"
+},
+{
+"text": "Contact",
+"href": "https://normancrow.com/home#contact"
+},
+{
+"text": "Experience",
+"href": "https://normancrow.com/home#experience"
+},
+{
+"text": "Norman Crow",
+"href": "https://normancrow.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://normancrow.com/privacy-policy/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NormanACrow/"
+},
+{
+"text": "info@normancrow.com",
+"href": "mailto:info@normancrow.com"
+},
+{
+"text": "norman.crow@alhouse.gov",
+"href": "mailto:norman.crow@alhouse.gov"
+}
 ]

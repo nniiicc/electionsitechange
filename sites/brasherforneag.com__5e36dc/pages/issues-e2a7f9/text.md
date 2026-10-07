@@ -1,6 +1,6 @@
-JOCELYN WILL BE THE PEOPLE’S LAWYER
-AND WILL FOCUS ON THE PEOPLE’S PRIORITIES
-- Protect Nebraska Consumers The AG has a duty and responsibility to protect consumers, not big corporations.
-- Strengthen Public Safety Strong and fair enforcement go hand in hand, and Nebraskans deserve both.
-- Respect Nebraska Voters The AG should serve and represent the people, not fight them every election cycle.
-- Restore Public Trust & Accountability Public service is built on public trust, when that trust is lost, the people pay the price.
+0 Skip to Content Home Priorities Get Involved Endorsements Yard Sign Request Event Calendar Voter Guide Our Ads Donate Now Open Menu Close Menu Home Priorities Get Involved Endorsements Yard Sign Request Event Calendar Voter Guide Our Ads Donate Now Open Menu Close Menu Home Priorities Get Involved Endorsements Yard Sign Request Event Calendar Voter Guide Our Ads Donate Now JOCELYN WILL BE THE PEOPLE’S LAWYER AND WILL FOCUS ON THE PEOPLE’S PRIORITIES Protect Nebraska Consumers The AG has a duty and responsibility to protect consumers, not big corporations.
+Read More Strengthen Public Safety Strong and fair enforcement go hand in hand, and Nebraskans deserve both.
+Read More Respect Nebraska Voters The AG should serve and represent the people, not fight them every election cycle.
+Read More Restore Public Trust & Accountability Public service is built on public trust, when that trust is lost, the people pay the price.
+Read More Connect with Jocelyn: Priorities Get Involved Contribution checks can be made payable to: Brasher for NE AG Address: P.O.
+Box 540098 Omaha, Nebraska 68154 CAMPAIGN EMAIL: vote@brasherforneag.com MEDIA INQUIRIES: media@brasherforneag.com PHONE: 402-739-9793 Paid for by BRASHER FOR NE AG Donate

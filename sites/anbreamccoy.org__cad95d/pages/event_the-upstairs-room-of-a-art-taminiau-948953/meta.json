@@ -1,10 +1,11 @@
 {
  "description": "This event is free and open to the public",
  "final_url": "https://anbreamccoy.org/event/the-upstairs-room-of-a-art-taminiau/",
- "paid_for_by": null,
+ "fingerprint": "ed42212d2604778eea30277eb6990b9ca33fa268",
+ "format": 3,
+ "paid_for_by": "",
  "title": "The Upstairs Room of A art Taminiau - Anbrea McCoy Delegate",
  "years_mentioned": [
-  "2024",
-  "2026"
+  "2024"
  ]
 }

@@ -1,14 +1,7 @@
-So what does Alex do for work?
-Alex works as a Land Surveyor, locating property lines, researching deeds, staking out small lots, measuring topography, locating wetlands, and producing site plans for a small family owned business.
-He works with civil engineers, real-estate attorneys, small builders, and homeowners all over Delaware as well as in Pennsylvania and Maryland.
-Career
-I am a Certified Survey Technican IV awarded by the National Society of Professional Surveyors.
-As a Project Manager working for a small family owned business I was able to develop skills that are similar to those needed in public office.
-Some skills and areas of expertise that I cultivated throughout my career include budgeting and financial responsibility, research methods, communication and cooperation, critical thinking and decision-making, government processes, and long-term planning habits.
-Working for a small family owned business and working with other small and medium sized firms I was able to realize the needs of everyday people in the community and how employment relates to the daily lives of individuals.
-Education
-Red Clay Consolidated School District K through 12th Grade.
-Began at West Virginia University as a Strategic Communications Major in the School of Journalism.
-Later switched to General Business and will graduate from West Virginia University with a BS in Business Administration from the College of Business and Economics this Summer.
-Maintain continuing education credits for professional career as a surveyor.
-Various other certifications.
+top of page DONATE Home Issues Political Career Professional Life Contact So what does Alex do for work?
+Alex works as a Land Surveyor, locating property lines, researching deeds, staking out small lots, measuring topography, locating wetlands, and producing site plans for a small family owned business. ​ He works with civil engineers, real-estate attorneys, small builders, and homeowners all over Delaware as well as in Pennsylvania and Maryland.
+Career I am a Certified Survey Technican IV awarded by the National Society of Professional Surveyors. ​ As a Project Manager working for a small family owned business I was able to develop skills that are similar to those needed in public office. ​ Some skills and areas of expertise that I cultivated throughout my career include budgeting and financial responsibility, research methods, communication and cooperation, critical thinking and decision-making, government processes, and long-term planning habits. ​ Working for a small family owned business and working with other small and medium sized firms I was able to realize the needs of everyday people in the community and how employment relates to the daily lives of individuals.
+Education Red Clay Consolidated School District K through 12th Grade. ​ Began at West Virginia University as a Strategic Communications Major in the School of Journalism. ​ Later switched to General Business and will graduate from West Virginia University with a BS in Business Administration from the College of Business and Economics this Summer. ​ Maintain continuing education credits for professional career as a surveyor. ​ Various other certifications.
+Some Jobs People Don't Know Need to be Done Until They Aren't Done.
+Donate Media Facts 302-743-2204 alex@alexgreenfordelaware.com P.O.
+Box 51 Hockessin, DE 19707 Paid for by Alexander Green for Delaware. bottom of page

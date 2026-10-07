@@ -1,83 +1,334 @@
 [
-"https://charlieforvermont.com/",
-"https://charlieforvermont.com/2017-legislative-session-wrap-up",
-"https://charlieforvermont.com/2018-legislative-session-summary",
-"https://charlieforvermont.com/2018-town-meeting-update",
-"https://charlieforvermont.com/2019-legislative-session-summary",
-"https://charlieforvermont.com/2021-legislative-session-summary",
-"https://charlieforvermont.com/2021townmeetingupdate",
-"https://charlieforvermont.com/2025-legislation-passed",
-"https://charlieforvermont.com/2025-legislative-updates",
-"https://charlieforvermont.com/2026legislationsummary",
-"https://charlieforvermont.com/background",
-"https://charlieforvermont.com/community-involvement",
-"https://charlieforvermont.com/donate",
-"https://charlieforvermont.com/events",
-"https://charlieforvermont.com/issues-facing-vermont-1",
-"https://charlieforvermont.com/pension-crisis",
-"https://charlieforvermont.com/rural-economic-development-working-group",
-"https://charlieforvermont.com/updates-from-the-dome",
-"https://legislature.vermont.gov/Documents/2026/Docs/ACTS/ACT076/ACT076%20As%20Enacted.pdf",
-"https://legislature.vermont.gov/Documents/2026/Docs/ACTS/ACT078/ACT078%20As%20Enacted.pdf",
-"https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0536/H-0536%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf",
-"https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0550/H-0550%20As%20Introduced.pdf",
-"https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0635/H-0635%20As%20Passed%20by%20Both%20House%20and%20Senate%20Official.pdf",
-"https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0657/H-0657%20Senate%20Proposal%20of%20Amendment%20Unofficial.pdf",
-"https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0739/H-0739%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf",
-"https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0938/H-0938%20Senate%20Proposal%20of%20Amendment%20Unofficial.pdf",
-"https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0198/S-0198%20House%20Proposal%20of%20Amendment%20Unofficial.pdf",
-"https://legislature.vermont.gov/Documents/2026/Workgroups/House%20Government%20Operations/Bills/S.278/Drafts,%20Amendments,%20and%20other%20Legal%20Documents/S.278~Tucker%20Anderson~As%20Passed%20by%20Senate~4-30-2026.pdf",
-"https://legislature.vermont.gov/Documents/2026/Workgroups/House%20Government%20Operations/Bills/S.298/Drafts,%20Amendments,%20and%20other%20Legal%20Documents/S.298~Tim%20Devlin~As%20Passed%20by%20Senate~4-1-2026.pdf",
-"https://legislature.vermont.gov/Documents/2026/Workgroups/Senate%20Health%20and%20Welfare/Bills/H.660/Committee%20of%20Conference/H.660~Katie%20McLinn~Committee%20of%20Conference%20Committee%20Report~5-20-2026.pdf",
-"https://legislature.vermont.gov/bill/status/2026/H.237",
-"https://legislature.vermont.gov/bill/status/2026/H.243",
-"https://legislature.vermont.gov/bill/status/2026/H.385",
-"https://legislature.vermont.gov/bill/status/2026/H.398",
-"https://legislature.vermont.gov/bill/status/2026/H.512",
-"https://legislature.vermont.gov/bill/status/2026/H.527",
-"https://legislature.vermont.gov/bill/status/2026/H.559",
-"https://legislature.vermont.gov/bill/status/2026/H.577",
-"https://legislature.vermont.gov/bill/status/2026/H.578",
-"https://legislature.vermont.gov/bill/status/2026/H.583",
-"https://legislature.vermont.gov/bill/status/2026/H.588",
-"https://legislature.vermont.gov/bill/status/2026/H.626",
-"https://legislature.vermont.gov/bill/status/2026/H.686",
-"https://legislature.vermont.gov/bill/status/2026/H.723",
-"https://legislature.vermont.gov/bill/status/2026/H.757",
-"https://legislature.vermont.gov/bill/status/2026/H.772",
-"https://legislature.vermont.gov/bill/status/2026/H.778",
-"https://legislature.vermont.gov/bill/status/2026/H.814",
-"https://legislature.vermont.gov/bill/status/2026/H.816",
-"https://legislature.vermont.gov/bill/status/2026/H.84",
-"https://legislature.vermont.gov/bill/status/2026/H.849",
-"https://legislature.vermont.gov/bill/status/2026/H.915",
-"https://legislature.vermont.gov/bill/status/2026/H.928",
-"https://legislature.vermont.gov/bill/status/2026/H.930",
-"https://legislature.vermont.gov/bill/status/2026/H.933",
-"https://legislature.vermont.gov/bill/status/2026/H.935",
-"https://legislature.vermont.gov/bill/status/2026/H.941",
-"https://legislature.vermont.gov/bill/status/2026/H.944",
-"https://legislature.vermont.gov/bill/status/2026/H.949",
-"https://legislature.vermont.gov/bill/status/2026/H.951",
-"https://legislature.vermont.gov/bill/status/2026/H.955",
-"https://legislature.vermont.gov/bill/status/2026/S.117",
-"https://legislature.vermont.gov/bill/status/2026/S.142",
-"https://legislature.vermont.gov/bill/status/2026/S.163",
-"https://legislature.vermont.gov/bill/status/2026/S.189",
-"https://legislature.vermont.gov/bill/status/2026/S.193",
-"https://legislature.vermont.gov/bill/status/2026/S.197",
-"https://legislature.vermont.gov/bill/status/2026/S.202",
-"https://legislature.vermont.gov/bill/status/2026/S.209",
-"https://legislature.vermont.gov/bill/status/2026/S.212",
-"https://legislature.vermont.gov/bill/status/2026/S.223",
-"https://legislature.vermont.gov/bill/status/2026/S.227",
-"https://legislature.vermont.gov/bill/status/2026/S.23",
-"https://legislature.vermont.gov/bill/status/2026/S.313",
-"https://legislature.vermont.gov/bill/status/2026/S.325",
-"https://legislature.vermont.gov/bill/status/2026/S.326",
-"https://legislature.vermont.gov/bill/status/2026/S.327",
-"https://legislature.vermont.gov/bill/status/2026/S.328",
-"https://legislature.vermont.gov/bill/status/2026/S.64",
-"https://legislature.vermont.gov/bill/status/2026/S.89",
-"https://secure.actblue.com/donate/charlieforvermont2026"
+{
+"text": "(“Miscellaneous DMV Bill”)",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.326"
+},
+{
+"text": "2017 Legislative Session Wrap Up",
+"href": "https://www.charlieforvermont.com/2017-legislative-session-wrap-up"
+},
+{
+"text": "2018 Legislative Session Summary",
+"href": "https://www.charlieforvermont.com/2018-legislative-session-summary"
+},
+{
+"text": "2018 Town Meeting Update",
+"href": "https://www.charlieforvermont.com/2018-town-meeting-update"
+},
+{
+"text": "2019 Legislative Session Summary",
+"href": "https://www.charlieforvermont.com/2019-legislative-session-summary"
+},
+{
+"text": "2021 Legislative Session Summary",
+"href": "https://www.charlieforvermont.com/2021-legislative-session-summary"
+},
+{
+"text": "2021 Town Meeting Update",
+"href": "https://www.charlieforvermont.com/2021townmeetingupdate"
+},
+{
+"text": "2025 Legislation Passed",
+"href": "https://www.charlieforvermont.com/2025-legislation-passed"
+},
+{
+"text": "2025 Legislative Updates",
+"href": "https://www.charlieforvermont.com/2025-legislative-updates"
+},
+{
+"text": "2026 Legislation Passed",
+"href": "https://www.charlieforvermont.com/2026legislationsummary"
+},
+{
+"text": "Background",
+"href": "https://www.charlieforvermont.com/background"
+},
+{
+"text": "Charlie Kimbell - Vermont Rep",
+"href": "https://www.charlieforvermont.com/"
+},
+{
+"text": "Community Involvement",
+"href": "https://www.charlieforvermont.com/community-involvement"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/charlieforvermont2026"
+},
+{
+"text": "Donate",
+"href": "https://www.charlieforvermont.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.charlieforvermont.com/events"
+},
+{
+"text": "H-237",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.237"
+},
+{
+"text": "H-588",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.588"
+},
+{
+"text": "H. 243",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.243"
+},
+{
+"text": "H. 385",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.385"
+},
+{
+"text": "H. 398 (Act 26)",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.398"
+},
+{
+"text": "H. 512",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.512"
+},
+{
+"text": "H. 772",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.772"
+},
+{
+"text": "H. 933 (Act 164)",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.933"
+},
+{
+"text": "H. 949",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.949"
+},
+{
+"text": "H. 951",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.951"
+},
+{
+"text": "H.527",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.527"
+},
+{
+"text": "H.536",
+"href": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0536/H-0536%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf"
+},
+{
+"text": "H.545",
+"href": "https://legislature.vermont.gov/Documents/2026/Docs/ACTS/ACT076/ACT076%20As%20Enacted.pdf"
+},
+{
+"text": "H.550 (Act 117)",
+"href": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0550/H-0550%20As%20Introduced.pdf"
+},
+{
+"text": "H.559",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.559"
+},
+{
+"text": "H.577",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.577"
+},
+{
+"text": "H.578",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.578"
+},
+{
+"text": "H.583",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.583"
+},
+{
+"text": "H.626 (Act 89",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.626"
+},
+{
+"text": "H.635",
+"href": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0635/H-0635%20As%20Passed%20by%20Both%20House%20and%20Senate%20Official.pdf"
+},
+{
+"text": "H.657",
+"href": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0657/H-0657%20Senate%20Proposal%20of%20Amendment%20Unofficial.pdf"
+},
+{
+"text": "H.660",
+"href": "https://legislature.vermont.gov/Documents/2026/Workgroups/Senate%20Health%20and%20Welfare/Bills/H.660/Committee%20of%20Conference/H.660~Katie%20McLinn~Committee%20of%20Conference%20Committee%20Report~5-20-2026.pdf"
+},
+{
+"text": "H.686",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.686"
+},
+{
+"text": "H.723",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.723"
+},
+{
+"text": "H.739",
+"href": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0739/H-0739%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf"
+},
+{
+"text": "H.757",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.757"
+},
+{
+"text": "H.778 (Act 114)",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.778"
+},
+{
+"text": "H.814",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.814"
+},
+{
+"text": "H.816",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.816"
+},
+{
+"text": "H.84",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.84"
+},
+{
+"text": "H.849 (Act 87)",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.849"
+},
+{
+"text": "H.915",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.915"
+},
+{
+"text": "H.928",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.928"
+},
+{
+"text": "H.935",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.935"
+},
+{
+"text": "H.938",
+"href": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0938/H-0938%20Senate%20Proposal%20of%20Amendment%20Unofficial.pdf"
+},
+{
+"text": "H.941 (Act 166)",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.941"
+},
+{
+"text": "H.944",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.944"
+},
+{
+"text": "H.955",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.955"
+},
+{
+"text": "H930",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.930"
+},
+{
+"text": "Home",
+"href": "https://www.charlieforvermont.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.charlieforvermont.com/issues-facing-vermont-1"
+},
+{
+"text": "Pension Crisis",
+"href": "https://www.charlieforvermont.com/pension-crisis"
+},
+{
+"text": "Rural Economic Development Working Group",
+"href": "https://www.charlieforvermont.com/rural-economic-development-working-group"
+},
+{
+"text": "S-163",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.163"
+},
+{
+"text": "S. 117 (Act 40)",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.117"
+},
+{
+"text": "S. 189",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.189"
+},
+{
+"text": "S. 278",
+"href": "https://legislature.vermont.gov/Documents/2026/Workgroups/House%20Government%20Operations/Bills/S.278/Drafts,%20Amendments,%20and%20other%20Legal%20Documents/S.278~Tucker%20Anderson~As%20Passed%20by%20Senate~4-30-2026.pdf"
+},
+{
+"text": "S. 298",
+"href": "https://legislature.vermont.gov/Documents/2026/Workgroups/House%20Government%20Operations/Bills/S.298/Drafts,%20Amendments,%20and%20other%20Legal%20Documents/S.298~Tim%20Devlin~As%20Passed%20by%20Senate~4-1-2026.pdf"
+},
+{
+"text": "S. 313",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.313"
+},
+{
+"text": "S. 327",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.327"
+},
+{
+"text": "S. 60 (Act 78)",
+"href": "https://legislature.vermont.gov/Documents/2026/Docs/ACTS/ACT078/ACT078%20As%20Enacted.pdf"
+},
+{
+"text": "S.142",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.142"
+},
+{
+"text": "S.193",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.193"
+},
+{
+"text": "S.197",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.197"
+},
+{
+"text": "S.198",
+"href": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0198/S-0198%20House%20Proposal%20of%20Amendment%20Unofficial.pdf"
+},
+{
+"text": "S.202 (Act 149)",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.202"
+},
+{
+"text": "S.209",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.209"
+},
+{
+"text": "S.212",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.212"
+},
+{
+"text": "S.223",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.223"
+},
+{
+"text": "S.227",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.227"
+},
+{
+"text": "S.23",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.23"
+},
+{
+"text": "S.325",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.325"
+},
+{
+"text": "S.326",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.326"
+},
+{
+"text": "S.328",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.328"
+},
+{
+"text": "S.64",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.64"
+},
+{
+"text": "S.89 (Act 102)",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.89"
+},
+{
+"text": "Updates from the Dome",
+"href": "https://www.charlieforvermont.com/updates-from-the-dome"
+}
 ]

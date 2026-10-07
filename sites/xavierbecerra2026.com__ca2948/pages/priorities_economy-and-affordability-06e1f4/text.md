@@ -1,5 +1,6 @@
-Economy and Affordability
-Lower Costs.
+Contribute Now This is a break-glass moment – for our families, our neighbors, and folks all across our great state.
+Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other About Bio Endorsements Issues Health Care Fighting Donald Trump Housing Economy & Affordability Energy & Utilities Disaster Preparedness Artificial Intelligence Homelessness Film Industry Power Hour Wildfires Take Action News Room Store Contribute Volunteer About Bio Endorsements Issues Health Care Fighting Donald Trump Housing Economy & Affordability Energy & Utilities Disaster Preparedness Artificial Intelligence Homelessness Film Industry Power Hour Wildfires Take Action News Room Store Volunteer Contribute Economy and Affordability Lower Costs.
 Raise Stability.
 Put Families First.
 Californians are being squeezed by rising costs—from insurance and childcare to groceries—and too many families are falling behind even while working hard.
@@ -11,3 +12,5 @@ And as U.S.
 Secretary for Health and Human Services, toughened Medicare drug price negotiations to secure significant discounts on high‑cost medicines, capped out‑of‑pocket costs for seniors, and launched innovative models aimed at lowering prescription drug costs and increasing access for Medicare and Medicaid beneficiaries.
 I’ve tackled affordability before to protect consumers, and will continue the fight as Governor of California.
 California should work for the people who live and work here, not just those at the top—and my administration will make affordability a top priority across every part of state government.
+Up Next Energy & Utilities Contribute Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other OR Volunteer About Issues Take Action News Room Store Privacy Policy Paid for by Becerra for Governor 2026

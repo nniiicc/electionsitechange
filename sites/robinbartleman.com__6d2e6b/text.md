@@ -1,5 +1,4 @@
-Dear Friends,
-It has been my honor to serve you.
+MEET ROBIN VOLUNTEER ENDORSEMENTS BILLS PASSED Our fight DONATE appropriations "Thank you for the opportunity to serve you." ROBIN BARTLEMAN, STATE REPRESENTATIVE, DISTRICT 103 DONATE VOLUNTEER Dear Friends, It has been my honor to serve you.
 Over the last 6 years as your state representative, my focus has been on you, not politics.
 I believe in putting the needs of my community over partisan politics.
 I have worked across the aisle and have had 17 pieces of legislation signed into law to keep you and your families safe (Serena’s Law), to protect renters and college students (Miya's Law), to ensure you have access to affordable healthcare (Kid Care Expansion), to protect our environment (Unlawful Dumping), to keep our first responders safe (Blue Lights), and help improve our schools (School Readiness).
@@ -8,5 +7,4 @@ Like many of you, my property and flood insurance continue to go up, my FPL bill
 I am fighting every day for practical solutions that make life more affordable for everyone, from lowering rising insurance costs, fighting for affordable housing, protecting our neighborhoods, ensuring a quality education for every learner, to stopping an incinerator from being placed in our community.
 I stay focused on what matters most, helping you solve problems, navigate government, and deliver real results.
 I humbly ask for your vote so we can keep moving our community forward.
-Robin Bartleman
-Political advertisement paid for and approved by Robin Bartleman, Democrat, for State Representative, District 103
+Robin A Note from Robin "People Over Politics." Robin Bartleman Robin is Proud to be Endorsed or Recognized by DONATE VOLUNTEER HOME MEET ROBIN VOLUNTEER FIGHTING FOR OUR COMMUNITY ENDORSEMENTS BILLS PASSED appropriations Political advertisement paid for and approved by Robin Bartleman, Democrat, for State Representative, District 103 DONATE HOME MEET ROBIN VOLUNTEER FIGHTING FOR OUR COMMUNITY ENDORSEMENTS BILLS PASSED Appropriations

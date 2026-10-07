@@ -1,21 +1,90 @@
 [
-"https://chesneyforillinois.com/",
-"https://chesneyforillinois.com/about_andrew",
-"https://chesneyforillinois.com/andrew-chesney-for-illinois-state-senator-of-the-45th-district-2",
-"https://chesneyforillinois.com/donate-andrew-chesney-for-illinois-state-senator-of-the-45th-district",
-"https://chesneyforillinois.com/endorsements-andrew-chesney-for-illinois-state-senator-of-the-45th-district",
-"https://chesneyforillinois.com/event/senator-chesney-inaugural-golf-outing",
-"https://chesneyforillinois.com/event/senator-chesneys-6th-annual-hog-roast",
-"https://chesneyforillinois.com/events",
-"https://chesneyforillinois.com/issues",
-"https://chesneyforillinois.com/press-releases",
-"https://chesneyforillinois.com/volunteer-for-the-chesney-fo-illinois-campaign",
-"https://facebook.com/chesneyforillinois",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20230825T170000%2F20230825T190000&text=An+Evening+at+Blaum+Brothers+Distilling&location=Blaum+Brothers+Distilling+Co.%2C+9380+W+US+Highway+20%2C+Galena%2C+IL&trp=false&ctz=UTC+0&sprop=website%3Ahttps%3A%2F%2Fchesneyforillinois.com",
-"https://instagram.com/aschesney",
-"https://linkedin.com/in/andrew-chesney-785328185",
-"https://maps.google.com/maps?f=q&hl=en&q=9380+W+US+Highway+20+Galena+IL",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2023-08-25T17%3A00%3A00%2B00%3A00&enddt=2023-08-25T19%3A00%3A00%2B00%3A00&location=Blaum+Brothers+Distilling+Co.%2C+9380+W+US+Highway+20%2C+Galena%2C+IL&subject=An+Evening+at+Blaum+Brothers+Distilling",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2023-08-25T17%3A00%3A00%2B00%3A00&enddt=2023-08-25T19%3A00%3A00%2B00%3A00&location=Blaum+Brothers+Distilling+Co.%2C+9380+W+US+Highway+20%2C+Galena%2C+IL&subject=An+Evening+at+Blaum+Brothers+Distilling",
-"https://twitter.com/AndrewChesneyIL"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=9380+W+US+Highway+20+Galena+IL"
+},
+{
+"text": "About Andrew",
+"href": "https://chesneyforillinois.com/about_andrew/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://chesneyforillinois.com/donate-andrew-chesney-for-illinois-state-senator-of-the-45th-district/"
+},
+{
+"text": "District",
+"href": "https://chesneyforillinois.com/andrew-chesney-for-illinois-state-senator-of-the-45th-district-2/"
+},
+{
+"text": "Endorsements",
+"href": "https://chesneyforillinois.com/endorsements-andrew-chesney-for-illinois-state-senator-of-the-45th-district/"
+},
+{
+"text": "Events",
+"href": "https://chesneyforillinois.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20230825T170000%2F20230825T190000&text=An+Evening+at+Blaum+Brothers+Distilling&location=Blaum+Brothers+Distilling+Co.%2C+9380+W+US+Highway+20%2C+Galena%2C+IL&trp=false&ctz=UTC+0&sprop=website%3Ahttps%3A%2F%2Fchesneyforillinois.com"
+},
+{
+"text": "Issues",
+"href": "https://chesneyforillinois.com/issues/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T17%3A00%3A00%2B00%3A00&enddt=%23T19%3A00%3A00%2B00%3A00&location=Blaum+Brothers+Distilling+Co.%2C+9380+W+US+Highway+20%2C+Galena%2C+IL&subject=An+Evening+at+Blaum+Brothers+Distilling&body="
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T17%3A00%3A00%2B00%3A00&enddt=%23T19%3A00%3A00%2B00%3A00&location=Blaum+Brothers+Distilling+Co.%2C+9380+W+US+Highway+20%2C+Galena%2C+IL&subject=An+Evening+at+Blaum+Brothers+Distilling&body="
+},
+{
+"text": "Press Releases",
+"href": "https://chesneyforillinois.com/press-releases/"
+},
+{
+"text": "Senator Chesney’s 6th Annual Hog Roast »",
+"href": "https://chesneyforillinois.com/event/senator-chesneys-6th-annual-hog-roast/"
+},
+{
+"text": "Volunteer",
+"href": "https://chesneyforillinois.com/volunteer-for-the-chesney-fo-illinois-campaign/"
+},
+{
+"text": "[image]",
+"href": "https://chesneyforillinois.com"
+},
+{
+"text": "[image]",
+"href": "https://chesneyforillinois.com/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://chesneyforillinois.com/event/an-evening-at-blaum-brothers-distilling/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://chesneyforillinois.com/events/"
+},
+{
+"text": "« Senator Chesney Inaugural Golf Outing",
+"href": "https://chesneyforillinois.com/event/senator-chesney-inaugural-golf-outing/"
+},
+{
+"text": "",
+"href": "https://facebook.com/chesneyforillinois"
+},
+{
+"text": "",
+"href": "https://www.instagram.com/aschesney"
+},
+{
+"text": "",
+"href": "https://www.linkedin.com/in/andrew-chesney-785328185"
+},
+{
+"text": "",
+"href": "https://twitter.com/AndrewChesneyIL"
+}
 ]

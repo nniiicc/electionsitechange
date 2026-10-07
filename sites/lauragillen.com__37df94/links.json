@@ -1,24 +1,98 @@
 [
-"https://facebook.com/LauraAGillen",
-"https://instagram.com/laura.a.gillen",
-"https://lauragillen.com/",
-"https://lauragillen.com/endorsements",
-"https://lauragillen.com/media",
-"https://lauragillen.com/meet-laura",
-"https://lauragillen.com/press",
-"https://lauragillen.com/privacy-policy",
-"https://lauragillen.com/volunteer",
-"https://secure.actblue.com/donate/laura-gillen-website",
-"https://secure.actblue.com/donate/laura-gillen-website&refcode=popup",
-"https://secure.actblue.com/donate/laura-gillen-website/&express_lane=true&amount=10&refcode=popup",
-"https://secure.actblue.com/donate/laura-gillen-website/&express_lane=true&amount=100&refcode=popup",
-"https://secure.actblue.com/donate/laura-gillen-website/&express_lane=true&amount=20&refcode=popup",
-"https://secure.actblue.com/donate/laura-gillen-website/&express_lane=true&amount=50&refcode=popup",
-"https://secure.actblue.com/donate/laura-gillen-website/&express_lane=true&amount=75&refcode=popup",
-"https://secure.actblue.com/donate/laura-gillen-website?amount=10&recurring=false",
-"https://secure.actblue.com/donate/laura-gillen-website?amount=100&recurring=false",
-"https://secure.actblue.com/donate/laura-gillen-website?amount=25&recurring=false",
-"https://secure.actblue.com/donate/laura-gillen-website?amount=5&recurring=false",
-"https://secure.actblue.com/donate/laura-gillen-website?amount=50&recurring=false",
-"https://twitter.com/LauraAGillen"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/laura-gillen-website/&express_lane=true&amount=10&refcode=popup"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/laura-gillen-website/&express_lane=true&amount=100&refcode=popup"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/laura-gillen-website/&express_lane=true&amount=20&refcode=popup"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/laura-gillen-website/&express_lane=true&amount=50&refcode=popup"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/laura-gillen-website/&express_lane=true&amount=75&refcode=popup"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/laura-gillen-website/?amount=10&recurring=false"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/laura-gillen-website/?amount=100&recurring=false"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/laura-gillen-website/?amount=25&recurring=false"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/laura-gillen-website/?amount=5&recurring=false"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/laura-gillen-website/?amount=50&recurring=false"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/laura-gillen-website"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/laura-gillen-website&refcode=popup"
+},
+{
+"text": "Endorsements",
+"href": "https://lauragillen.com/endorsements/"
+},
+{
+"text": "Media",
+"href": "https://lauragillen.com/media/"
+},
+{
+"text": "Meet Laura",
+"href": "https://lauragillen.com/meet-laura/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/laura-gillen-website/"
+},
+{
+"text": "Press",
+"href": "https://lauragillen.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://lauragillen.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://lauragillen.com/meet-laura/"
+},
+{
+"text": "Volunteer",
+"href": "https://lauragillen.com/volunteer/"
+},
+{
+"text": "[image: Laura for Congress Logo]",
+"href": "https://lauragillen.com/?no-popup="
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/LauraAGillen"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LauraAGillen/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/laura.a.gillen/"
+}
 ]

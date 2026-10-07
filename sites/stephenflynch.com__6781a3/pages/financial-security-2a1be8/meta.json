@@ -1,9 +1,13 @@
 {
  "description": "Visit the post for more.",
  "final_url": "https://www.stephenflynch.com/financial-security/",
- "paid_for_by": "Paid for by Lynch for Congress Contact Us Privacy Policy Copyright &copy;2020 All Rights Reserved Follow Follow",
+ "fingerprint": "844fa9b19611b6898c3720b33b93235af1dadfc2",
+ "format": 3,
+ "paid_for_by": "Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow",
  "title": "Financial Security | Stephen F Lynch",
  "years_mentioned": [
-  "2020"
+  "2020",
+  "2021",
+  "2022"
  ]
 }

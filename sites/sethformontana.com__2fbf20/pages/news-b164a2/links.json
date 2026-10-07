@@ -1,87 +1,338 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/sethformontanacampaign",
-"https://flickr.com/sethformontanacampaign",
-"https://instagram.com/sethbodnarcampaign",
-"https://sethformontana.com/",
-"https://sethformontana.com/About",
-"https://sethformontana.com/Platform",
-"https://sethformontana.com/contact",
-"https://sethformontana.com/donate",
-"https://sethformontana.com/endorsements",
-"https://sethformontana.com/events",
-"https://sethformontana.com/making-the-montana-way-of-life-a-reality-again.pdf",
-"https://sethformontana.com/media",
-"https://sethformontana.com/montana-first-agenda-healthcare.pdf",
-"https://sethformontana.com/montana-first-veterans-agenda.pdf",
-"https://sethformontana.com/news/air-force-veteran-and-country-first-leader-adam-kinzinger-endorses-seth-bodnar-for-us-senate",
-"https://sethformontana.com/news/bodnar-campaign-raises-nearly-19-million-in-q2-building-on-grassroots-coalition-momentum",
-"https://sethformontana.com/news/bodnar-campaign-releases-independent-first-tv-ad-of-independent-campaign-for-us-senate",
-"https://sethformontana.com/news/bodnar-campaign-releases-new-tv-ad-boxes",
-"https://sethformontana.com/news/bodnar-campaign-statement-on-puppet-almes-nomination",
-"https://sethformontana.com/news/bodnar-campaign-surpasses-20000-accepted-signatures-cementing-path-to-november-ballot",
-"https://sethformontana.com/news/bodnar-releases-making-themselves-rich-new-tv-ad-calling-out-the-monopolies-and-corruption",
-"https://sethformontana.com/news/bodnar-trade-war-with-canada-is-hurting-montana-and-kurt-alme-just-does-what-hes-told",
-"https://sethformontana.com/news/democrat-alani-bankhead-attended-pro-maga-megachurch-released-book-with-far-right-publisher",
-"https://sethformontana.com/news/dobbs-anniversary-seth-bodnar-commits-to-montanans-freedom-and-privacy",
-"https://sethformontana.com/news/end-citizens-united-endorses-independent-seth-bodnar-for-us-senate-in-montana",
-"https://sethformontana.com/news/former-montana-governor-steve-bullock-endorses-independent-candidate-seth-bodnar-for-us-senate",
-"https://sethformontana.com/news/headline-goes-here",
-"https://sethformontana.com/news/icymi-bankhead-and-alme-stay-silent-as-trumps-beef-import-plan-rankles-montana-farmers",
-"https://sethformontana.com/news/icymi-bodnar-campaign-outlines-path-to-victory-in-november",
-"https://sethformontana.com/news/icymi-independent-seth-bodnar-endorsed-by-planned-parenthood-action-fund",
-"https://sethformontana.com/news/icymi-independent-seth-bodnar-will-fight-ai-data-centers-hold-big-tech-accountable",
-"https://sethformontana.com/news/icymi-independent-seth-bodnars-wild-new-ad-turns-heads-online",
-"https://sethformontana.com/news/icymi-seiu-775-montana-members-endorse-independent-us-senate-candidate-seth-bodnar",
-"https://sethformontana.com/news/independent-seth-bodnar-blasts-kurt-almes-blind-support-for-costly-and-unauthorized-war-in-iran",
-"https://sethformontana.com/news/independent-seth-bodnar-joins-charlie-sykes-on-to-the-contrary",
-"https://sethformontana.com/news/independent-seth-bodnar-joins-jon-tester-and-maritsa-georgiou-on-grounded-podcast",
-"https://sethformontana.com/news/independent-seth-bodnar-joins-michael-smerconish-on-sirius-xm",
-"https://sethformontana.com/news/independent-seth-bodnar-opposes-sheep-creek-mine-not-going-to-stand-for-it",
-"https://sethformontana.com/news/independent-seth-bodnar-releases-dd-214-calls-for-full-transparency-in-montanas-senate-race",
-"https://sethformontana.com/news/independent-seth-bodnar-releases-his-montana-first-health-care-agenda",
-"https://sethformontana.com/news/independent-seth-bodnar-signs-protect-montana-ai-pledge",
-"https://sethformontana.com/news/independent-seth-bodnar-surges-as-montana-voters-reject-the-failed-two-party-status-quo",
-"https://sethformontana.com/news/independent-seth-bodnar-takes-aim-at-data-privacy-in-new-video",
-"https://sethformontana.com/news/independent-seth-bodnar-will-fight-to-end-the-va-hiring-crisis-in-montana",
-"https://sethformontana.com/news/independent-veterans-of-america-endorses-seth-bodnar-for-us-senate",
-"https://sethformontana.com/news/montana-afl-cio-endorses-independent-seth-bodnar-for-us-senate",
-"https://sethformontana.com/news/montana-author-and-former-us-ambassador-backs-bodnar-for-senateoes-here",
-"https://sethformontana.com/news/montana-federation-of-public-employees-endorses-independent-seth-bodnar-for-us-senate",
-"https://sethformontana.com/news/montana-voices-bodnar-positive-change-bankhead-ego-run-alme-forced-down-our-throats",
-"https://sethformontana.com/news/new-poll-independent-seth-bodnar-gaining-ground",
-"https://sethformontana.com/news/nrsc-tries-and-fails-to-censor-kurt-almes-shocking-record-of-refusing-to-prosecute-sex-crimes",
-"https://sethformontana.com/news/people-are-hungry-for-change-seth-bodnar-joins-money-power-politics-with-stephanie-ruhle",
-"https://sethformontana.com/news/planned-parenthood-action-fund-endorses-independent-seth-bodnar-for-senate",
-"https://sethformontana.com/news/racicot-tester-baucus-geise-bradley-buchanan-endorse-independent-seth-bodnar-for-us-senate",
-"https://sethformontana.com/news/reproductive-freedom-for-all-endorses-independent-seth-bodnar-for-us-senate-in-montana",
-"https://sethformontana.com/news/seth-bodnar-affirms-his-commitment-to-independent-campaign-for-montanas-us-senate-seat",
-"https://sethformontana.com/news/seth-bodnar-on-cnn-not-whats-good-for-republicans-or-democrats-but-whats-good-for-the-country",
-"https://sethformontana.com/news/seth-bodnar-on-meidastouch",
-"https://sethformontana.com/news/seth-bodnar-slams-beef-import-plan-outrageous-attack-on-montana-ranchers",
-"https://sethformontana.com/news/seth-bodnar-statement-on-labor-day",
-"https://sethformontana.com/news/seth-bodnar-statement-on-the-25th-anniversary-of-the-september-11-terrorist-attacks",
-"https://sethformontana.com/news/seth-bodnar-talks-with-alex-wagner-on-runaway-country",
-"https://sethformontana.com/news/statement-from-montanas-independent-us-senate-candidate-seth-bodnar",
-"https://sethformontana.com/news/statement-from-seth-bodnar-on-reporting-showing-destruction-at-us-bases-in-saudi-arabia-and-kuwait",
-"https://sethformontana.com/news/statement-from-the-campaign-of-independent-seth-bodnar",
-"https://sethformontana.com/news/the-monitor-after-tug-of-war-bodnar-calls-for-unity",
-"https://sethformontana.com/news/they-both-suck-disenchanted-with-the-two-party-system-voters-consider-seth-bodnars-pitch",
-"https://sethformontana.com/news/theyre-watching-independent-seth-bodnars-viral-video-sparks-national-debate-about-flock-cameras",
-"https://sethformontana.com/news/veterans-across-the-political-spectrum-back-independent-seth-bodnar",
-"https://sethformontana.com/news/veterans-for-all-voters-action-endorses-independent-seth-bodnar-for-us-senate-in-montana",
-"https://sethformontana.com/news/votevets-endorses-independent-seth-bodnar-for-us-senate",
-"https://sethformontana.com/news/we-are-gaining-momentum-independent-seth-bodnar-on-cnns-inside-politics",
-"https://sethformontana.com/privacy-policy",
-"https://sethformontana.com/protect-montana-ai-pledge.pdf",
-"https://sethformontana.com/seths-record-at-um",
-"https://sethformontana.com/volunteer",
-"https://sethformontana.substack.com/p/with-authority-must-come-responsibility?r=7u12n3&triedRedirect=true",
-"https://store.sethformontana.com/",
-"https://threads.net/@sethbodnarcampain",
-"https://us.list-manage.com/ZBKIeyezr4v?e=3204ae640b&c2id=6b2c18e3e41ae105e1ffccf204fb14f8",
-"https://x.com/SethBodnarForMT",
-"https://youtube.com/@SethForMontana",
-"https://youtube.com/watch?v=8ma9UTwmt5g",
-"https://youtube.com/watch?v=k4doJY5De2I&list=PLTXutoAoYTJfMenywl7NYxI-C9k9O411J&index=6"
+{
+"text": "About",
+"href": "https://www.sethformontana.com/About"
+},
+{
+"text": "Contact",
+"href": "https://www.sethformontana.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.sethformontana.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sethformontana.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.sethformontana.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sethformontana.com/volunteer"
+},
+{
+"text": "Issues",
+"href": "https://www.sethformontana.com/issues"
+},
+{
+"text": "MEDIA",
+"href": "https://www.sethformontana.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sethformontana.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://sethformontana.substack.com/p/with-authority-must-come-responsibility?r=7u12n3&triedRedirect=true"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/making-the-montana-way-of-life-a-reality-again.pdf"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/montana-first-agenda-healthcare.pdf"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/montana-first-veterans-agenda.pdf"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/air-force-veteran-and-country-first-leader-adam-kinzinger-endorses-seth-bodnar-for-us-senate"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/bodnar-campaign-raises-nearly-19-million-in-q2-building-on-grassroots-coalition-momentum"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/bodnar-campaign-releases-independent-first-tv-ad-of-independent-campaign-for-us-senate"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/bodnar-campaign-releases-new-tv-ad-boxes"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/bodnar-campaign-statement-on-puppet-almes-nomination"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/bodnar-campaign-surpasses-20000-accepted-signatures-cementing-path-to-november-ballot"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/bodnar-releases-making-themselves-rich-new-tv-ad-calling-out-the-monopolies-and-corruption"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/bodnar-trade-war-with-canada-is-hurting-montana-and-kurt-alme-just-does-what-hes-told"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/democrat-alani-bankhead-attended-pro-maga-megachurch-released-book-with-far-right-publisher"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/dobbs-anniversary-seth-bodnar-commits-to-montanans-freedom-and-privacy"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/end-citizens-united-endorses-independent-seth-bodnar-for-us-senate-in-montana"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/former-montana-governor-steve-bullock-endorses-independent-candidate-seth-bodnar-for-us-senate"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/headline-goes-here"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/icymi-bankhead-and-alme-stay-silent-as-trumps-beef-import-plan-rankles-montana-farmers"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/icymi-bodnar-campaign-outlines-path-to-victory-in-november"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/icymi-independent-seth-bodnar-endorsed-by-planned-parenthood-action-fund"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/icymi-independent-seth-bodnar-will-fight-ai-data-centers-hold-big-tech-accountable"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/icymi-independent-seth-bodnars-wild-new-ad-turns-heads-online"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/icymi-seiu-775-montana-members-endorse-independent-us-senate-candidate-seth-bodnar"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/independent-seth-bodnar-blasts-kurt-almes-blind-support-for-costly-and-unauthorized-war-in-iran"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/independent-seth-bodnar-joins-charlie-sykes-on-to-the-contrary"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/independent-seth-bodnar-joins-jon-tester-and-maritsa-georgiou-on-grounded-podcast"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/independent-seth-bodnar-joins-michael-smerconish-on-sirius-xm"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/independent-seth-bodnar-opposes-sheep-creek-mine-not-going-to-stand-for-it"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/independent-seth-bodnar-releases-dd-214-calls-for-full-transparency-in-montanas-senate-race"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/independent-seth-bodnar-releases-his-montana-first-health-care-agenda"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/independent-seth-bodnar-signs-protect-montana-ai-pledge"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/independent-seth-bodnar-surges-as-montana-voters-reject-the-failed-two-party-status-quo"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/independent-seth-bodnar-takes-aim-at-data-privacy-in-new-video"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/independent-seth-bodnar-will-fight-to-end-the-va-hiring-crisis-in-montana"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/independent-veterans-of-america-endorses-seth-bodnar-for-us-senate"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/montana-afl-cio-endorses-independent-seth-bodnar-for-us-senate"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/montana-author-and-former-us-ambassador-backs-bodnar-for-senateoes-here"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/montana-federation-of-public-employees-endorses-independent-seth-bodnar-for-us-senate"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/montana-voices-bodnar-positive-change-bankhead-ego-run-alme-forced-down-our-throats"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/new-poll-independent-seth-bodnar-gaining-ground"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/nrsc-tries-and-fails-to-censor-kurt-almes-shocking-record-of-refusing-to-prosecute-sex-crimes"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/people-are-hungry-for-change-seth-bodnar-joins-money-power-politics-with-stephanie-ruhle"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/planned-parenthood-action-fund-endorses-independent-seth-bodnar-for-senate"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/racicot-tester-baucus-geise-bradley-buchanan-endorse-independent-seth-bodnar-for-us-senate"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/reproductive-freedom-for-all-endorses-independent-seth-bodnar-for-us-senate-in-montana"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/seth-bodnar-affirms-his-commitment-to-independent-campaign-for-montanas-us-senate-seat"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/seth-bodnar-on-cnn-not-whats-good-for-republicans-or-democrats-but-whats-good-for-the-country"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/seth-bodnar-on-meidastouch"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/seth-bodnar-slams-beef-import-plan-outrageous-attack-on-montana-ranchers"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/seth-bodnar-statement-on-labor-day"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/seth-bodnar-statement-on-the-25th-anniversary-of-the-september-11-terrorist-attacks"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/seth-bodnar-talks-with-alex-wagner-on-runaway-country"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/statement-from-montanas-independent-us-senate-candidate-seth-bodnar"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/statement-from-seth-bodnar-on-reporting-showing-destruction-at-us-bases-in-saudi-arabia-and-kuwait"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/statement-from-the-campaign-of-independent-seth-bodnar"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/the-monitor-after-tug-of-war-bodnar-calls-for-unity"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/they-both-suck-disenchanted-with-the-two-party-system-voters-consider-seth-bodnars-pitch"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/theyre-watching-independent-seth-bodnars-viral-video-sparks-national-debate-about-flock-cameras"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/veterans-across-the-political-spectrum-back-independent-seth-bodnar"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/veterans-for-all-voters-action-endorses-independent-seth-bodnar-for-us-senate-in-montana"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/votevets-endorses-independent-seth-bodnar-for-us-senate"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/news/we-are-gaining-momentum-independent-seth-bodnar-on-cnns-inside-politics"
+},
+{
+"text": "Read more",
+"href": "https://www.sethformontana.com/protect-montana-ai-pledge.pdf"
+},
+{
+"text": "Read more",
+"href": "https://www.youtube.com/watch?v=8ma9UTwmt5g"
+},
+{
+"text": "Read more",
+"href": "https://www.youtube.com/watch?v=k4doJY5De2I&list=PLTXutoAoYTJfMenywl7NYxI-C9k9O411J&index=6"
+},
+{
+"text": "Seth's Record at UM",
+"href": "https://www.sethformontana.com/seths-record-at-um"
+},
+{
+"text": "Store",
+"href": "https://store.sethformontana.com/"
+},
+{
+"text": "[image: Seth Bodnar for Montana | Independent U.S. Senate Candidate]",
+"href": "https://www.sethformontana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/sethformontanacampaign"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/sethformontanacampaign"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/sethbodnarcampaign/"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@sethbodnarcampain"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@SethForMontana"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SethBodnarForMT"
+}
 ]

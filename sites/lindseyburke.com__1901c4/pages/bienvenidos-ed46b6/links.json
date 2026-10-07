@@ -1,8 +1,26 @@
 [
-"https://facebook.com/LindseyBurkeforKY",
-"https://instagram.com/lbforkentucky?hl=en",
-"https://lindseyburke.com/",
-"https://lindseyburke.com/bienvenidos",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms"
+{
+"text": "BIENVENIDOS!",
+"href": "https://lindseyburke.com/bienvenidos"
+},
+{
+"text": "Home",
+"href": "https://lindseyburke.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LindseyBurkeforKY/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lbforkentucky/?hl=en"
+}
 ]

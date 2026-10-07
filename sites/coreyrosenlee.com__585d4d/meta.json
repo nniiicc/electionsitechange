@@ -1,9 +1,12 @@
 {
  "description": "Official campaign website for Corey Rosenlee, candidate for the Hawai'i State House of Representatives.",
  "final_url": "https://www.coreyrosenlee.com/",
- "paid_for_by": null,
+ "fingerprint": "b7240921470599b154c2e108e846a1303c5643a0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Corey Rosenlee for Hawai'i",
  "years_mentioned": [
-  "2015"
+  "2015",
+  "2026"
  ]
 }

@@ -1,6 +1,5 @@
-meet
-kentucky 4th district
-Jeremy Todd was born and raised in the South, where he grew up in a hardworking family that taught him the importance of faith, perseverance, and personal responsibility.
+DONATE about issues shop news volunteer Request Yard sign meet JEREMY TODD LIBERTARIAN CANDIDATE FOR CONGRESS kentucky 4th district husband. father. christian. libertarian.
+JEREMY TODD Jeremy Todd was born and raised in the South, where he grew up in a hardworking family that taught him the importance of faith, perseverance, and personal responsibility.
 The son of a truck driver and a billing clerk, Jeremy learned early on the value of honest work, humility, and treating people with respect regardless of their background or station in life.
 Raised in a close-knit community and baptized in a small country church, his Christian faith became a guiding foundation that has shaped both his personal life and his leadership philosophy.
 Throughout his youth, Jeremy stood out not only for his determination but for his ability to lead and bring people together.
@@ -11,9 +10,10 @@ Whether working with small groups or managing large operations, he developed a r
 His experience in business gave him firsthand insight into the challenges facing working families, small businesses, and everyday Americans trying to build a better life in an increasingly difficult economy.
 Today, Jeremy is a proud husband and father who remains deeply committed to his faith, his family, and the values that shaped him growing up.
 As a Christian and a Libertarian, he believes in individual liberty, personal responsibility, limited government, and protecting the freedoms guaranteed to every American.
-Jeremy is passionate about restoring accountability in government, defending constitutional rights, and ensuring future generations inherit a country built on freedom, opportunity, and strong communities.
-donate »
-I believe in the grassroots, small donations from real, working people who want to bring our troops home, bring our money home, and send a big message to Washington donors: KENTUCKY ISN'T FOR SALE.
-anti-war,
-anti-spending,
-anti-establishment
+Jeremy is passionate about restoring accountability in government, defending constitutional rights, and ensuring future generations inherit a country built on freedom, opportunity, and strong communities. donate » I believe in the grassroots, small donations from real, working people who want to bring our troops home, bring our money home, and send a big message to Washington donors: KENTUCKY ISN'T FOR SALE.
+THE AMERICA FIRST CANDIDATE anti-war, anti-spending, anti-establishment PAID FOR BY JEREMY TODD FOR KENTUCKY follow: By submitting your cell phone number you are agreeing to receive periodic text messages from our campaign.
+Message and data rates may apply.
+Text HELP for more information.
+Text STOP to stop receiving messages.
+PO Box 176037, Lakeside Park, Kentucky 41017 SUBMIT thank you!
+COPYRIGHT ©# JEREMY TODD FOR KENTUCKY PRIVACY POLICY | CONTACT US about issues home donate » shop news volunteer Request Yard Sign about issues Shop news volunteer

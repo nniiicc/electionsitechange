@@ -1,10 +1,34 @@
 [
-"https://facebook.com/profile.php?id=61583609942272",
-"https://instagram.com/lloyd_for_alabama",
-"https://lloydforalabama.com/",
-"https://lloydforalabama.com/about",
-"https://lloydforalabama.com/getinvolved",
-"https://lloydforalabama.com/issues",
-"https://lloydforalabama.com/media",
-"https://secure.anedot.com/lloyd-for-alabama/fef97cf6-1322-40bf-b347-a9925539b137"
+{
+"text": "ABOUT",
+"href": "https://www.lloydforalabama.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/lloyd-for-alabama/fef97cf6-1322-40bf-b347-a9925539b137"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.lloydforalabama.com/getinvolved"
+},
+{
+"text": "HOME",
+"href": "https://www.lloydforalabama.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.lloydforalabama.com/issues"
+},
+{
+"text": "MEDIA",
+"href": "https://www.lloydforalabama.com/media"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61583609942272"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/lloyd_for_alabama/"
+}
 ]

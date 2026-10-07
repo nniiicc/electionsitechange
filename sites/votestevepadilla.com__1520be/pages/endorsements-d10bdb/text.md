@@ -1,22 +1,8 @@
-Skip navigation menu
-We Strongly Support State Senator Steve Padilla
-Adam Schiff
-U.S.
-Senator
-Juan Vargas
-U.S.
-Representative
-Raul Ruiz
-U.S.
-Representative
-Mike Levin
-U.S.
-Representative
-Sara Jacobs
-U.S.
-Representative
-Scott Peters
-U.S.
-Representative
-Individuals
-Organizations
+Skip navigation menu About News Endorsements Contact Donate We Strongly Support State Senator Steve Padilla About News Endorsements Contact Donate We Strongly Support State Senator Steve Padilla Adam Schiff U.S.
+Senator Juan Vargas U.S.
+Representative Raul Ruiz U.S.
+Representative Mike Levin U.S.
+Representative Sara Jacobs U.S.
+Representative Scott Peters U.S.
+Representative Individuals Catherine Blakespear, State Senator Akilah Weber, State Senator David Alvarez, State Assemblymember Chris Ward, State Assemblymember Tasha Boerner, State Assemblymember Darshana Patel, State Assemblymember LaShae Collins, State Assemblymember Paloma Aguirre, San Diego County Supervisor Terra Lawson-Remer, San Diego County Supervisor Todd Gloria, San Diego Mayor Ben Hueso, Former State Senator Toni Atkins, Former State Senator José Rodriguez, National City City Council Marcus Bush, National City City Council Marni von Wilpert San Diego City Council Raul Campillo, San Diego City Council Sean Elo-Rivera, San Diego City Council Dr.
+Jen Campbell, San Diego City Council Joe LaCava, San Diego City Council Stephen Whitburn, San Diego City Council Kent Lee, San Diego City Council Organizations California Democratic Party California Federation of Labor Unions, AFL-CIO San Diego County Democratic Party SEIU California and SEIU Local 221 National Union of Healthcare Workers United Farm Workers CAL FIRE Local 2881 California Teachers Association UDW/AFSCME Local 3930 California YIMBY California Association of Highway Patrolmen California State Retirees Professional Engineers in California Government Association of California State Supervisors San Diego Democrats for Equality Southern California Armenian Democrats UCSD Triton Democrats steve@votestevepadilla.com 5445 Madison Avenue Sacramento, CA 95841 FPPC ID#1457367 Powered by RUN! website builder You need to enable JavaScript to run this app.

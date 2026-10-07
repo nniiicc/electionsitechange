@@ -1,6 +1,26 @@
 [
-"https://electscottalexander.com/privacy-policy",
-"https://facebook.com/ElectScottAlexander",
-"https://lovable.dev/projects/lovp_260pwbcbjz8rqad7qr5p72txst",
-"https://secure.winred.com/the-committee-to-elect-scott-alexander/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/the-committee-to-elect-scott-alexander/donate-today"
+},
+{
+"text": "Edit with",
+"href": "https://lovable.dev/projects/lovp_260pwbcbjz8rqad7qr5p72txst"
+},
+{
+"text": "Facebook.com/ElectScottAlexander",
+"href": "https://www.facebook.com/ElectScottAlexander"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electscottalexander.com/privacy-policy"
+},
+{
+"text": "Scott@Electscottalexander.com",
+"href": "mailto:Scott@Electscottalexander.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectScottAlexander"
+}
 ]

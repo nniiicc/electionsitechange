@@ -1,16 +1,13 @@
-Donate by Mail
-Collins for Senator
-P.O.
-Box 1096
-Bangor, Maine 04402-1096
-Collins for Senator
-P.O.
-Box 1096
-Bangor, Maine 04402-1096
-Please provide your mobile phone to opt-in to Collins for Senator campaign alerts, updates and news.
+Skip to main content Skip to footer Opens in a new tab Home About Track Record News Vote Store Get Involved Donate Get Involved Donate The Team Collins Collection All items are proudly made in America Categories Filter by style Filter - Radio Accessories Beanies Hats Stickers Sweatshirts Tees The Pepper Collection USA Collection 207 Crewneck in Gray $50 Purchase 207 Baseball Cap $25 Purchase “Susan Collins, Our Senator” Boat Flags $25 Purchase Blueberry Flag T-Shirt $20 Purchase Susan Collins, Our Senator Baseball Cap in Red $25 Purchase Susan Collins, Our Senator Camo T-Shirt $20 Purchase Susan Collins, Our Senator T-Shirt in Red $20 Purchase Susan Collins America 250 T-Shirt in White $10 Purchase Susan Collins America 250 Crewneck in Red $50 Purchase Moose Pocket Tee in Red $20 Purchase Moose Logo Pocket Tee in White $20 Purchase “Susan Collins, Our Senator” Tote Bag $70 Purchase Moose Baseball Cap $25 Purchase “Susan Collins, Our Senator” Dog Bandanas $15 Purchase “Susan Collins, Our Senator” Bumper Sticker $10 Purchase The “Susan” Flag T-Shirt $20 Purchase The Maine Crew Long-Sleeve in Light Blue $35 Purchase The Maine Flag T-Shirt $20 Purchase The Pepper Beanie $35 Purchase The Official Collins Beanie $35 Purchase The Signature Moose Beanie $35 Purchase The Classic Maine Script Long-Sleeve Tee in Red $35 Purchase The Classic Maine Script Crewneck in Red $50 Purchase The Pine Tree Long-Sleeve in Forest Green $35 Purchase The Pine Tree Crewneck in Forest Green $50 Purchase Maine Sticker Sheet in Red $10 Purchase The Pepper Pocket Tee in Gray $20 Purchase The Pepper Signature Hat in Navy $25 Purchase Senator Collins 16-oz Tervis Tumbler $25 Purchase Join Our Team Sign Up Form - Vertical Full Name Email Zip Code Phone By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Collins for Senator.
+Reply HELP for help, STOP to end.
+Message frequency may vary.
+Message and data rates may apply.
+Terms & conditions / privacy policy apply .
+Sign Up Stand With Susan Join Team Collins Today! $25 $50 $100 $500 $1000 Other Home About Track Record News Store Get Involved Campaign Chairs Join a Coalition Donate by Mail Collins for Senator P.O.
+Box 1096 Bangor, Maine 04402-1096 Please provide your mobile phone to opt-in to Collins for Senator campaign alerts, updates and news.
 By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
 Message frequency may vary.
 Msg&Data Rates May Apply.
 Reply STOP to cancel.
 Reply HELP for help.
-Paid for by Collins for Senator
+Paid for by Collins for Senator Privacy Policy Terms and Conditions Media Kit FAQs

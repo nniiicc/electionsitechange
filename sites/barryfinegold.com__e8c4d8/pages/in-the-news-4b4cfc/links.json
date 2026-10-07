@@ -1,128 +1,530 @@
 [
-"http://homenewshere.com/tewksbury_town_crier/news/article_0a07afce-b2dd-11ed-9e53-5b68b63b6f7a.html",
-"http://homenewshere.com/wilmington_town_crier/news/article_d896d8cc-ad62-11ed-b16d-a324e18dca6b.html",
-"https://analyticsinsight.net/experimenting-with-chatgpt-insights-into-10-industries",
-"https://andovermanews.com/andover-getting-20k-from-state-for-flood-relief",
-"https://andovermanews.com/finegold-reappointed-to-economic-development-board",
-"https://andovertownsman.com/news/chatgpt-use-among-students-stirs-concerns/article_06deedca-bc3b-5132-8bb4-9a366c1b9b0d.html",
-"https://andovertownsman.com/news/library-hosts-courageous-conversations-series-a-rise-in-hate/article_0a9bba00-90f7-11ed-955f-fbca74b924b8.html",
-"https://andovertownsman.com/news/local_news/andover-briefly/article_d31afb12-b2e9-11ed-a2ea-2f8cd39bcc78.html",
-"https://andovertownsman.com/news/pedestrian-safety-projects-part-of-2023-participatory-capital-budgeting-program/article_e26a2592-fc96-11ed-8034-eb14cbddb1b9.html",
-"https://barryfinegold.com/",
-"https://barryfinegold.com/about-folder",
-"https://barryfinegold.com/cart",
-"https://barryfinegold.com/donate",
-"https://barryfinegold.com/in-the-news",
-"https://barryfinegold.com/meet-barry",
-"https://barryfinegold.com/new-dropdown",
-"https://barryfinegold.com/stay-connected-folder",
-"https://boston25news.com/news/local/suffolk-county/state-lawmakers-consider-oversight-youth-sports/Y4DHQDRSRVFHDATZ6S2KE6J7YU",
-"https://bostonglobe.com/2023/03/23/opinion/schools-need-standards-resources-improve-cybersecurity",
-"https://bostonglobe.com/2023/05/23/metro/hate-crimes-mass-grew-by-13-2022-adl-report-finds",
-"https://bostonglobe.com/2023/06/26/opinion/cell-data-privacy",
-"https://bostonglobe.com/2024/01/25/opinion/deepfake-ads-elections-regulation",
-"https://bostonglobe.com/2024/11/12/metro/long-awaited-legislative-compromise-economic-bill-paves-way-revs-soccer-stadium",
-"https://bostonherald.com/2023/02/09/police-investigating-deaths-of-3-shot-in-andover-home",
-"https://bostonherald.com/2023/10/12/regulating-youth-sports-in-massachusetts-a-possibility-as-lawmakers-float-governing-body",
-"https://bostonherald.com/2024/01/04/democrat-dylan-fernandes-draws-donations-from-beacon-hill-colleagues-in-senate-bid",
-"https://bostonherald.com/2024/11/12/beacon-hill-democrats-clear-way-for-everett-soccer-stadium-in-policy-packed-jobs-bill",
-"https://bunewsservice.com/state-senator-drafts-legislation-to-regulate-tools-like-chatgpt-with-the-help-of-chatgpt",
-"https://cbsnews.com/boston/news/lawmakers-explore-regulating-youth-sports-massachusetts",
-"https://cbsnews.com/boston/news/lawmakers-eye-regulation-chatgpt-artificial-intelligence-technology",
-"https://cfr.org/blog/cyber-week-review-december-8-2023",
-"https://eagletribune.com/bill-would-allow-gender-changes-on-marriage-licenses/article_dcdb05a8-f0b9-11ed-b6eb-0f01588e0ce8.html",
-"https://eagletribune.com/news/dedication-for-new-fountain-at-gale-park-this-saturday/article_3312ac7c-77f7-11ee-875b-77f7107ff782.html",
-"https://eagletribune.com/news/gale-park-fountain-flows-again-in-haverhill/article_80f33504-7c04-11ee-af0b-23bf18ecd4ed.html",
-"https://eagletribune.com/news/haverhill/democrat-of-the-year-honored-in-north-andover/article_a7139664-c437-11ed-bfbd-33e01b4fffc9.html",
-"https://eagletribune.com/news/haverhill/gov-healey-visits-haverhill-to-celebrate-new-tax-cuts-for-children-and-families/article_7b27ec6e-63bd-11ee-b0f5-5bdd223d8bb2.html",
-"https://eagletribune.com/news/haverhill/haverhill-celebrates-hispanic-heritage-month/article_f644c97a-6eb3-11ee-8f91-9bfd170a72e0.html",
-"https://eagletribune.com/news/lawmakers-seek-more-funds-for-school-building/article_ec0e03e4-f646-11ed-9fa1-d36e192d946c.html",
-"https://eagletribune.com/news/merrimack_valley/community-shows-its-support-for-veterans-at-ceremony/article_2ab9497e-a077-11ef-a7e1-6736e4984434.html",
-"https://eagletribune.com/news/merrimack_valley/lawmakers-seek-rules-for-artificial-intelligence/article_193cb38a-9e4d-11ed-b71d-27288044a116.html",
-"https://eagletribune.com/news/merrimack_valley/lawmakers-target-online-harassment/article_91bc087e-a893-11ed-9482-5f5c54bfaa6e.html",
-"https://eagletribune.com/news/merrimack_valley/mass-dot-launching-road-audit-following-fatal-accident-in-elm-square/article_6401abb2-f1c4-11ed-87bd-ffb1a9f58d1d.html",
-"https://eagletribune.com/news/senators-load-up-budget-with-local-earmarks/article_248ace94-f4c8-11ed-8bd7-e32478560a23.html",
-"https://eagletribune.com/news/we-must-take-each-one-of-these-seriously-police-schools-face-uptick-in-threats/article_58a996a4-0091-11ee-8ec0-1b96591eb418.html",
-"https://eagletribune.com/opinion/letters_to_the_editor/letter-concerning-andover-safety-a-picture-paints-1-000-words/article_e3d120c4-f59e-11ed-8d9f-979b29e17b17.html",
-"https://eagletribune.com/proposal-targets-deep-fake-political-advertising/article_3e9268fc-b173-11ee-9091-e75795c0ce66.html",
-"https://facebook.com/BarryFinegoldMA",
-"https://fallriverreporter.com/massachusetts-senate-democrats-push-to-lower-college-tuition-for-undocumented-immigrants",
-"https://franklinobserver.town.news/g/franklin-town-ma/n/219537/lawmakers-look-impact-sports-young",
-"https://govtech.com/artificial-intelligence/beyond-novelty-lawmakers-cautiously-add-chatgpt-to-their-toolbox",
-"https://hgazette.com/news/local_news/latino-coalition-to-encourage-residents-to-run-for-public-office/article_6038a2b1-c77b-5cab-83c7-1c233bf9e32f.html",
-"https://hgazette.com/news/the_lamp_post/the-lamp-post/article_32c8d66c-b6b2-11ed-a03c-5743f96b68ce.html",
-"https://high-profile.com/dellbrookjks-celebrates-progress-at-the-beck-in-haverhill",
-"https://homenewshere.com/tewksbury_town_crier/news/article_1bc0a9ae-aa81-11ee-9aa3-cf7ffe3fa6a6.html",
-"https://homenewshere.com/tewksbury_town_crier/news/article_f7493112-8fd3-11ee-9d34-b3e9e53f4d42.html",
-"https://instagram.com/barryfinegoldma",
-"https://japantoday.com/category/features/opinions/writer-adviser-poet-bot-how-chatgpt-could-transform-politics",
-"https://jdsupra.com/legalnews/proposed-state-privacy-law-update-june-1505450",
-"https://jdsupra.com/legalnews/proposed-state-privacy-law-update-may-5388011",
-"https://jgpr.net/2023/10/06/tewksbury-police-and-northern-middlesex-regional-emergency-communications-center-receive-over-400000-in-grants",
-"https://linkedin.com/in/barryfinegoldma",
-"https://lowellsun.com/2023/01/26/maura-healey-gets-glimpse-into-tomorrow-in-visit-to-wilmingtons-analog-devices",
-"https://lowellsun.com/2023/02/20/beacon-hill-roll-call-slow-week-for-legislature",
-"https://lowellsun.com/2023/04/04/tewksbury-planning-board-member-leaves-board-after-40-year-tenure",
-"https://lowellsun.com/2023/12/11/beacon-hill-roll-call-11",
-"https://lowellsun.com/2023/12/18/beacon-hill-roll-call-tracking-local-senators-party-line-votes",
-"https://mashable.com/article/chatgpt-openai-artificial-intelligence-ai-regulation",
-"https://masslive.com/politics/2023/01/mass-lawmaker-uses-chatgpt-to-help-write-legislation-limiting-the-program.html",
-"https://nbcboston.com/news/local/eversource-requests-natural-gas-rate-hike-for-mass-customers/3535289",
-"https://nbcboston.com/news/local/mass-legislators-weigh-youth-sports-regulations/3159301",
-"https://nerej.com/dellbrook-jks-celebrates-progress-at-the-beck-in-haverhill-ma",
-"https://newburyportnews.com/news/lawmakers-consider-covid-19-memorial-day/article_27a86cae-aef4-11ed-8e99-a7277f06a4a7.html",
-"https://newburyportnews.com/news/local_news/gove-pushes-for-increased-state-funding/article_57ecb990-e06a-11ed-80c2-4b9fcba12e29.html",
-"https://newburyportnews.com/news/local_news/lawmakers-seek-rules-for-artificial-intelligence/article_ec38668e-a0ba-11ed-856e-576a6de4e723.html",
-"https://newburyportnews.com/news/local_news/moulton-reardon-and-others-tour-whittier-tech/article_46ca6bf6-aeee-11ed-9eac-2bdf8f577bf3.html",
-"https://newburyportnews.com/news/local_news/veterans-fed-and-feted-during-annual-luncheon/article_d89a88b2-7e65-11ee-b7af-bbd645c97078.html",
-"https://patch.com/massachusetts/wilmington/ma-gov-maura-healey-visit-wilmingtons-analog-devices-tuesday",
-"https://politico.com/massachusettsplaybook",
-"https://politico.com/newsletters/massachusetts-playbook/2023/01/27/amplifying-latinos-priorities-00079844",
-"https://politico.com/newsletters/massachusetts-playbook/2023/06/05/keeping-t-progress-on-track-00100165",
-"https://politico.com/newsletters/massachusetts-playbook/2024/01/23/whats-at-stake-in-new-hampshires-primary-00137142",
-"https://rilawyersweekly.com/blog/2023/10/23/lawyers-taking-notice-of-emerging-nil-practice-niche",
-"https://rotaryandover.org/Speakers/34567ed7-93be-4e04-9e1b-0f7097c9c6de",
-"https://salemnews.com/news/north-shore-business-briefs/article_349addd8-c35e-11ed-abe9-ab30720cffee.html",
-"https://startribune.com/ai-chat-is-good-for-nothing-yet/600262002",
-"https://statehousenews.com/email/a/2023179?key=aabb20",
-"https://statehousenews.com/email/a/2023210?key=920550",
-"https://statehousenews.com/email/a/2023717?key=10b5d20",
-"https://statehousenews.com/email/a/2023853?key=b491d0",
-"https://techopedia.com/how-ai-could-make-our-laws-as-the-first-law-written-by-chatgpt-gets-approved",
-"https://telegram.com/story/news/state/2024/05/07/massachusetts-ai-political-ads-deepfakes/73599074007",
-"https://tewksburycarnation.org/2023/02/27/12-things-to-know-this-week-in-tewksbury-4",
-"https://tewksburycarnation.org/2023/03/28/robert-fowler-recognized-for-40-years-of-service-on-planning-board",
-"https://tuftsdaily.com/opinion/2023/02/09/lets-be-smart-about-regulating-ai",
-"https://voanews.com/a/writer-adviser-poet-bot-how-chatgpt-could-transform-politics-/7063907.html",
-"https://washingtonpost.com/politics/2023/01/23/chatgpt-is-now-writing-legislation-is-this-future?account_location=ONSITE_HEADER_ARTICLE&arcId=UYSNYBOTZBHHJA2EDGZPEZZCJQ&nid=top_pb_signin",
-"https://wbur.org/news/2023/02/10/massachusetts-senate-president-term-limit-remote",
-"https://wbur.org/news/2023/05/23/report-anti-semitism-lgbtq-white-supremacist-hate-crimes",
-"https://wbur.org/news/2023/06/16/massachusetts-senate-tax-relief-package",
-"https://wbznewsradio.iheart.com/content/mass-state-legislators-use-chatgpt-to-write-bill-about-regulating-ai-tech",
-"https://wcvb.com/article/barry-feingold-massachusetts-ban-on-fireworks-on-the-record/44409303",
-"https://wcvb.com/article/barry-finegold-scotus-decisions-on-the-record/44409315",
-"https://wcvb.com/article/otr-hosts-honored-with-proclamations-from-state-senate/44399995",
-"https://wgbh.org/news/local/2023-10-12/state-lawmakers-look-into-idea-of-governing-body-for-youth-sports",
-"https://wgbh.org/news/local/2024-10-10/ncaas-baker-opens-up-on-athlete-pay",
-"https://whav.net/2023/02/06/haverhills-state-legislators-hear-city-wish-list-admit-problem-with-paying-for-new-schools",
-"https://whav.net/2023/02/16/finegold-payano-and-tarr-to-address-merrimack-valley-chamber-on-their-senate-priorities",
-"https://whav.net/2023/02/20/local-state-federal-elected-officials-take-part-in-secret-whittier-tech-tour-hear-pitch-for-aid",
-"https://whav.net/2023/02/21/sen-finegold-reorganizes-staff-with-new-hires-promotion",
-"https://whav.net/2023/02/27/rep-vargas-sens-finegold-and-payano-note-current-legislative-assignments",
-"https://whav.net/2023/03/16/sens-finegold-and-payano-hail-senate-passage-of-housing-education-safety-net-bill",
-"https://whav.net/2023/05/08/gov-healeys-economic-development-planning-council-comes-to-haverhill-next-month",
-"https://whav.net/2023/10/24/haverhills-hispanic-heritage-month-draws-more-than-300-people-features-food-music",
-"https://whav.net/2023/11/08/sens-finegold-and-payano-seek-resident-input-at-tuesday-haverhill-conversation",
-"https://whav.net/2023/11/09/nurses-health-care-lobbyists-press-legislators-on-joining-nurse-licensure-compact",
-"https://whav.net/2023/11/16/sens-finegold-and-payano-praise-addition-of-15-million-for-storm-damage-aid-in-budget",
-"https://whav.net/2023/11/21/first-class-at-new-haverhill-consentino-school-in-2026-gets-early-welcome-at-ceremony",
-"https://whav.net/2023/12/14/new-whittier-tech-goes-before-voters-in-january-after-surviving-two-challenges-wednesday",
-"https://whav.net/2023/12/14/state-invites-haverhills-john-greenleaf-whittier-school-to-advance-plans-for-new-building",
-"https://whav.net/2024/01/15/state-senate-seeks-to-tap-rainy-day-fund-interest-to-meet-fed-matching-grant-rules",
-"https://whav.net/2024/01/25/finegold-bill-would-ban-deepfake-depictions-of-candidates-or-political-committees",
-"https://whav.net/2024/05/22/finegold-to-moderate-state-house-panel-today-on-deepfake-tech",
-"https://wpri.com/new-england/massachusetts/bill-in-massachusetts-would-require-seat-belts-on-school-buses",
-"https://wwlp.com/news/massachusetts/educators-wrestle-with-help-harm-of-ai",
-"https://wwlp.com/news/state-politics/senate-bringing-forward-2-8-billion-eco-dev-bill-thursday",
-"https://x.com/Barry_Finegold"
+{
+"text": "'An overwhelming amount of pride': Community shows its support for veterans at ceremony",
+"href": "https://www.eagletribune.com/news/merrimack_valley/community-shows-its-support-for-veterans-at-ceremony/article_2ab9497e-a077-11ef-a7e1-6736e4984434.html"
+},
+{
+"text": "0",
+"href": "https://www.barryfinegold.com/cart"
+},
+{
+"text": "12+ Things to Know This Week in Tewksbury",
+"href": "https://tewksburycarnation.org/2023/02/27/12-things-to-know-this-week-in-tewksbury-4/"
+},
+{
+"text": "2023 Select Board Year in Review",
+"href": "https://homenewshere.com/tewksbury_town_crier/news/article_1bc0a9ae-aa81-11ee-9aa3-cf7ffe3fa6a6.html"
+},
+{
+"text": "A Year Later, Tax Relief Bills Again Up For Negotiation",
+"href": "https://www.statehousenews.com/email/a/2023853?key=b491d0"
+},
+{
+"text": "AI chat is good for nothing — yet",
+"href": "https://www.startribune.com/ai-chat-is-good-for-nothing-yet/600262002/"
+},
+{
+"text": "Affirming the need for higher-ed action",
+"href": "https://www.politico.com/massachusettsplaybook"
+},
+{
+"text": "Andover Getting $20k From State for Flood Relief",
+"href": "https://andovermanews.com/andover-getting-20k-from-state-for-flood-relief/"
+},
+{
+"text": "Andover briefly",
+"href": "https://www.andovertownsman.com/news/local_news/andover-briefly/article_d31afb12-b2e9-11ed-a2ea-2f8cd39bcc78.html"
+},
+{
+"text": "Back",
+"href": "https://www.barryfinegold.com/"
+},
+{
+"text": "Beacon Hill Democrats clear way for Everett soccer stadium in policy-packed jobs bill",
+"href": "https://www.bostonherald.com/2024/11/12/beacon-hill-democrats-clear-way-for-everett-soccer-stadium-in-policy-packed-jobs-bill/"
+},
+{
+"text": "Beacon Hill Roll Call Tracking Local Senators Party Line Votes - Bob Katzen",
+"href": "https://www.lowellsun.com/2023/12/18/beacon-hill-roll-call-tracking-local-senators-party-line-votes/"
+},
+{
+"text": "Beacon Hill Roll Call: Senate attendance records for 2023 session",
+"href": "https://www.lowellsun.com/2023/12/11/beacon-hill-roll-call-11/"
+},
+{
+"text": "Beacon Hill Roll Call: Slow week for Legislature",
+"href": "https://www.lowellsun.com/2023/02/20/beacon-hill-roll-call-slow-week-for-legislature/"
+},
+{
+"text": "Beyond Novelty: Lawmakers (Cautiously) Add ChatGPT to Their Toolbox",
+"href": "https://www.govtech.com/artificial-intelligence/beyond-novelty-lawmakers-cautiously-add-chatgpt-to-their-toolbox"
+},
+{
+"text": "Bill in Massachusetts Would Require Seat Belts on School Buses",
+"href": "https://www.wpri.com/new-england/massachusetts/bill-in-massachusetts-would-require-seat-belts-on-school-buses/#:~:text=If%20passed%2C%20all%20permanent%20seats,the%20vehicle%20is%20in%20motion"
+},
+{
+"text": "Bill would allow gender changes on marriage licenses",
+"href": "https://www.eagletribune.com/bill-would-allow-gender-changes-on-marriage-licenses/article_dcdb05a8-f0b9-11ed-b6eb-0f01588e0ce8.html"
+},
+{
+"text": "ChatGPT could be a useful AI tool. So how are we regulating it?",
+"href": "https://mashable.com/article/chatgpt-openai-artificial-intelligence-ai-regulation"
+},
+{
+"text": "ChatGPT use among students stirs concerns",
+"href": "https://www.andovertownsman.com/news/chatgpt-use-among-students-stirs-concerns/article_06deedca-bc3b-5132-8bb4-9a366c1b9b0d.html"
+},
+{
+"text": "Commitment to Community: Sidney’s Rainbows honored with award named for Tucker",
+"href": "https://www.nbcboston.com/news/local/eversource-requests-natural-gas-rate-hike-for-mass-customers/3535289/"
+},
+{
+"text": "Cyber Week Review",
+"href": "https://www.cfr.org/blog/cyber-week-review-december-8-2023"
+},
+{
+"text": "DA: Andover father shoots wife, 12-year-old son in murder-suicide",
+"href": "https://www.bostonherald.com/2023/02/09/police-investigating-deaths-of-3-shot-in-andover-home/"
+},
+{
+"text": "Dedication for New Fountain at Gale Park This Saturday.",
+"href": "https://www.eagletribune.com/news/dedication-for-new-fountain-at-gale-park-this-saturday/article_3312ac7c-77f7-11ee-875b-77f7107ff782.html#:~:text=The%20Gale%20Park%20Neighborhood%20Association,4.&text=The%20large%2C%20cast%2Diron%20Carleton,to%20Winnekenni%20Park%20in%201914"
+},
+{
+"text": "Deepfake political messaging is light-years ahead of the law. It’s past time to change that - Boston Globe",
+"href": "https://www.bostonglobe.com/2024/01/25/opinion/deepfake-ads-elections-regulation/"
+},
+{
+"text": "Dellbrook|JKS celebrates progress at The Beck in Haverhill, MA",
+"href": "https://nerej.com/dellbrook-jks-celebrates-progress-at-the-beck-in-haverhill-ma"
+},
+{
+"text": "Dellbrook|JKS celebrates progress at The Beck in Haverhill, MA",
+"href": "https://www.high-profile.com/dellbrookjks-celebrates-progress-at-the-beck-in-haverhill/"
+},
+{
+"text": "Democrat Dylan Fernandes draws donations from Beacon Hill colleagues in Senate bid - Boston Herald",
+"href": "https://www.bostonherald.com/2024/01/04/democrat-dylan-fernandes-draws-donations-from-beacon-hill-colleagues-in-senate-bid/"
+},
+{
+"text": "Democrat of the Year honored in North Andover",
+"href": "https://www.eagletribune.com/news/haverhill/democrat-of-the-year-honored-in-north-andover/article_a7139664-c437-11ed-bfbd-33e01b4fffc9.html"
+},
+{
+"text": "Donate",
+"href": "https://www.barryfinegold.com/donate"
+},
+{
+"text": "Educators Wrestle With Help, Harm Of AI",
+"href": "https://www.statehousenews.com/email/a/2023179?key=aabb20"
+},
+{
+"text": "Educators Wrestle With Help, Harm Of AI",
+"href": "https://www.wwlp.com/news/massachusetts/educators-wrestle-with-help-harm-of-ai/"
+},
+{
+"text": "Elected officials address housing crisis",
+"href": "https://homenewshere.com/tewksbury_town_crier/news/article_f7493112-8fd3-11ee-9d34-b3e9e53f4d42.html"
+},
+{
+"text": "Eversouce requests natural gas hike for Mass. customers",
+"href": "https://www.nbcboston.com/news/local/eversource-requests-natural-gas-rate-hike-for-mass-customers/3535289/"
+},
+{
+"text": "Experimenting with ChatGPT: Insights into 10 Industries",
+"href": "https://www.analyticsinsight.net/experimenting-with-chatgpt-insights-into-10-industries/"
+},
+{
+"text": "Finegold Bill Would Ban ‘Deepfake’ Depictions of Candidates or Political Committees- Whav",
+"href": "https://whav.net/2024/01/25/finegold-bill-would-ban-deepfake-depictions-of-candidates-or-political-committees/"
+},
+{
+"text": "Finegold Serves as Moderator for State House Panel on \"Deepfake” Technology -",
+"href": "https://whav.net/2024/05/22/finegold-to-moderate-state-house-panel-today-on-deepfake-tech/"
+},
+{
+"text": "Finegold, Payano and Tarr to Address Merrimack Valley Chamber on Their Senate Priorities",
+"href": "https://whav.net/2023/02/16/finegold-payano-and-tarr-to-address-merrimack-valley-chamber-on-their-senate-priorities/"
+},
+{
+"text": "First Class at New Haverhill Consentino School in 2026 get Early Welcome at Ceremony",
+"href": "https://whav.net/2023/11/21/first-class-at-new-haverhill-consentino-school-in-2026-gets-early-welcome-at-ceremony/"
+},
+{
+"text": "Folder: About Barry",
+"href": "https://www.barryfinegold.com/about-folder/"
+},
+{
+"text": "Folder: Contribute",
+"href": "https://www.barryfinegold.com/new-dropdown"
+},
+{
+"text": "Folder: Stay Connected",
+"href": "https://www.barryfinegold.com/stay-connected-folder/"
+},
+{
+"text": "Gale Park Fountain Flows Again in Haverhill",
+"href": "https://www.eagletribune.com/news/gale-park-fountain-flows-again-in-haverhill/article_80f33504-7c04-11ee-af0b-23bf18ecd4ed.html"
+},
+{
+"text": "Globe article featured in the Massachusetts playbook",
+"href": "https://www.politico.com/newsletters/massachusetts-playbook/2023/01/27/amplifying-latinos-priorities-00079844"
+},
+{
+"text": "Gov Healey Visits Haverhill to Celebrate New Tax Cuts for Children and Families",
+"href": "https://www.eagletribune.com/news/haverhill/gov-healey-visits-haverhill-to-celebrate-new-tax-cuts-for-children-and-families/article_7b27ec6e-63bd-11ee-b0f5-5bdd223d8bb2.html"
+},
+{
+"text": "Gov. Healey’s Economic Development Planning Council Comes to Haverhill Next Month",
+"href": "https://whav.net/2023/05/08/gov-healeys-economic-development-planning-council-comes-to-haverhill-next-month/"
+},
+{
+"text": "Gove pushes for increased state funding",
+"href": "https://www.newburyportnews.com/news/local_news/gove-pushes-for-increased-state-funding/article_57ecb990-e06a-11ed-80c2-4b9fcba12e29.html"
+},
+{
+"text": "Hate crimes in Mass. grew by a third in 2022, ADL report finds",
+"href": "https://www.bostonglobe.com/2023/05/23/metro/hate-crimes-mass-grew-by-13-2022-adl-report-finds/"
+},
+{
+"text": "Hate crimes increased by 30% in 2022, ADL report finds",
+"href": "https://www.statehousenews.com/email/a/2023717?key=10b5d20"
+},
+{
+"text": "Hate crimes increased by 30% in 2022, ADL report finds",
+"href": "https://www.wbur.org/news/2023/05/23/report-anti-semitism-lgbtq-white-supremacist-hate-crimes"
+},
+{
+"text": "Haverhill Celebrates Hispanic Heritage Month",
+"href": "https://www.eagletribune.com/news/haverhill/haverhill-celebrates-hispanic-heritage-month/article_f644c97a-6eb3-11ee-8f91-9bfd170a72e0.html"
+},
+{
+"text": "Haverhill Hispanic Heritage Month Draws More Than 300 People Features Food Music",
+"href": "https://whav.net/2023/10/24/haverhills-hispanic-heritage-month-draws-more-than-300-people-features-food-music/"
+},
+{
+"text": "Haverhill’s State Legislators Hear City Wish List, Admit Problem With Paying for New Schools",
+"href": "https://whav.net/2023/02/06/haverhills-state-legislators-hear-city-wish-list-admit-problem-with-paying-for-new-schools/"
+},
+{
+"text": "How AI Could Make Our Laws: First Bill Written by ChatGPT Gets Approved - Techopedia",
+"href": "https://www.techopedia.com/how-ai-could-make-our-laws-as-the-first-law-written-by-chatgpt-gets-approved"
+},
+{
+"text": "In a new frontier, a state senator from Massachusetts has used the AI bot, ChatGPT, to write a bill aimed at restricting it. It helped create a draft to which the Finegold office refined and formatted the bill.",
+"href": "https://www.washingtonpost.com/politics/2023/01/23/chatgpt-is-now-writing-legislation-is-this-future/?account_location=ONSITE_HEADER_ARTICLE&arcId=UYSNYBOTZBHHJA2EDGZPEZZCJQ&nid=top_pb_signin"
+},
+{
+"text": "In the News",
+"href": "https://www.barryfinegold.com/in-the-news"
+},
+{
+"text": "Invading your privacy? There's an app for that",
+"href": "https://www.bostonglobe.com/2023/06/26/opinion/cell-data-privacy/"
+},
+{
+"text": "Keeping T Progress on Track",
+"href": "https://www.politico.com/newsletters/massachusetts-playbook/2023/06/05/keeping-t-progress-on-track-00100165"
+},
+{
+"text": "Latino Coalition to encourage residents to run for public office",
+"href": "https://www.hgazette.com/news/local_news/latino-coalition-to-encourage-residents-to-run-for-public-office/article_6038a2b1-c77b-5cab-83c7-1c233bf9e32f.html"
+},
+{
+"text": "Lawmakers Consider a Bill on Warning Labels for AI-Generated Campaign Material -",
+"href": "https://www.telegram.com/story/news/state/2024/05/07/massachusetts-ai-political-ads-deepfakes/73599074007/"
+},
+{
+"text": "Lawmakers Hear Testimony on Bill Banning Political Deepfakes -",
+"href": "https://andovermanews.com/finegold-reappointed-to-economic-development-board/"
+},
+{
+"text": "Lawmakers Look Impact Sports Young",
+"href": "https://franklinobserver.town.news/g/franklin-town-ma/n/219537/lawmakers-look-impact-sports-young"
+},
+{
+"text": "Lawmakers consider COVID-19 memorial day",
+"href": "https://www.newburyportnews.com/news/lawmakers-consider-covid-19-memorial-day/article_27a86cae-aef4-11ed-8e99-a7277f06a4a7.html"
+},
+{
+"text": "Lawmakers seek more funds for school building",
+"href": "https://www.eagletribune.com/news/lawmakers-seek-more-funds-for-school-building/article_ec0e03e4-f646-11ed-9fa1-d36e192d946c.html"
+},
+{
+"text": "Lawmakers seek rules for artificial intelligence",
+"href": "https://www.eagletribune.com/news/merrimack_valley/lawmakers-seek-rules-for-artificial-intelligence/article_193cb38a-9e4d-11ed-b71d-27288044a116.html"
+},
+{
+"text": "Lawmakers seek rules for artificial intelligence",
+"href": "https://www.newburyportnews.com/news/local_news/lawmakers-seek-rules-for-artificial-intelligence/article_ec38668e-a0ba-11ed-856e-576a6de4e723.html"
+},
+{
+"text": "Lawmakers target online harassment",
+"href": "https://www.eagletribune.com/news/merrimack_valley/lawmakers-target-online-harassment/article_91bc087e-a893-11ed-9482-5f5c54bfaa6e.html"
+},
+{
+"text": "Lawyers Explore Regulating Youth Sports Massachusetts",
+"href": "https://www.cbsnews.com/boston/news/lawmakers-explore-regulating-youth-sports-massachusetts/"
+},
+{
+"text": "Lawyers Taking Notice of Emerging NIL Practice Niche Rhode Island Lawyers Weekly",
+"href": "https://rilawyersweekly.com/blog/2023/10/23/lawyers-taking-notice-of-emerging-nil-practice-niche/"
+},
+{
+"text": "Legislative Update",
+"href": "https://rotaryandover.org/Speakers/34567ed7-93be-4e04-9e1b-0f7097c9c6de"
+},
+{
+"text": "Letter: Concerning Andover safety, a picture paints 1,000 words",
+"href": "https://www.eagletribune.com/opinion/letters_to_the_editor/letter-concerning-andover-safety-a-picture-paints-1-000-words/article_e3d120c4-f59e-11ed-8d9f-979b29e17b17.html"
+},
+{
+"text": "Let’s be smart about regulating AI",
+"href": "https://tuftsdaily.com/opinion/2023/02/09/lets-be-smart-about-regulating-ai/"
+},
+{
+"text": "Lloyd, Air Force veteran, seeks Housing Authority seat",
+"href": "http://homenewshere.com/tewksbury_town_crier/news/article_0a07afce-b2dd-11ed-9e53-5b68b63b6f7a.html"
+},
+{
+"text": "Local, State, Federal Elected Officials Take Part in Private Whittier Tech Tour; Hear Pitch for Aid",
+"href": "https://whav.net/2023/02/20/local-state-federal-elected-officials-take-part-in-secret-whittier-tech-tour-hear-pitch-for-aid/"
+},
+{
+"text": "Mass DOT launching road audit following fatal accident in Elm Square",
+"href": "https://www.eagletribune.com/news/merrimack_valley/mass-dot-launching-road-audit-following-fatal-accident-in-elm-square/article_6401abb2-f1c4-11ed-87bd-ffb1a9f58d1d.html"
+},
+{
+"text": "Mass Legislatures Weigh Youth Sports Regulations",
+"href": "https://www.nbcboston.com/news/local/mass-legislators-weigh-youth-sports-regulations/3159301/"
+},
+{
+"text": "Mass. Senate lifts 8-year limit on president's term",
+"href": "https://www.statehousenews.com/email/a/2023210?key=920550"
+},
+{
+"text": "Mass. Senate lifts 8-year limit on president's term",
+"href": "https://www.wbur.org/news/2023/02/10/massachusetts-senate-president-term-limit-remote"
+},
+{
+"text": "Mass. Senate unanimously approves nearly $590 million tax relief package",
+"href": "https://www.wbur.org/news/2023/06/16/massachusetts-senate-tax-relief-package"
+},
+{
+"text": "Mass. State Legislators Use ChatGPT To Write Bills About Regulating AI Tech",
+"href": "https://wbznewsradio.iheart.com/content/mass-state-legislators-use-chatgpt-to-write-bill-about-regulating-ai-tech/"
+},
+{
+"text": "Mass. lawmaker uses ChatGPT to help write legislation limiting the program",
+"href": "https://www.masslive.com/politics/2023/01/mass-lawmaker-uses-chatgpt-to-help-write-legislation-limiting-the-program.html"
+},
+{
+"text": "Mass. state senator reacts to SCOTUS decisions",
+"href": "https://www.wcvb.com/article/barry-finegold-scotus-decisions-on-the-record/44409315"
+},
+{
+"text": "Massachusetts Governer Maura Healey is set to visit Wilmington-based Analog Devices, Inc on tuesday morning. She is expected to be joined by Lt. Gov. Kim Discoll, Sec of Housing and economic development, Yvonne Hao, Secretary of Labor and Workforce Development, Lauren Jones, State Senator Barry Finegold, and State Representative David Roberston",
+"href": "https://patch.com/massachusetts/wilmington/ma-gov-maura-healey-visit-wilmingtons-analog-devices-tuesday"
+},
+{
+"text": "Massachusetts Playbook - Politico",
+"href": "https://www.politico.com/newsletters/massachusetts-playbook/2024/01/23/whats-at-stake-in-new-hampshires-primary-00137142"
+},
+{
+"text": "Massachusetts Senate Democrats Push To Lower College Tuition For Undocumented Immigrants",
+"href": "https://fallriverreporter.com/massachusetts-senate-democrats-push-to-lower-college-tuition-for-undocumented-immigrants/"
+},
+{
+"text": "Massachusetts lawmakers eye regulation of ChatGPT, artificial intelligence technology",
+"href": "https://www.cbsnews.com/boston/news/lawmakers-eye-regulation-chatgpt-artificial-intelligence-technology/"
+},
+{
+"text": "Maura Healey gets ‘glimpse into tomorrow’ in visit to Wilmington’s Analog Devices",
+"href": "https://www.lowellsun.com/2023/01/26/maura-healey-gets-glimpse-into-tomorrow-in-visit-to-wilmingtons-analog-devices/"
+},
+{
+"text": "Meet Barry",
+"href": "https://www.barryfinegold.com/meet-barry"
+},
+{
+"text": "Memorial Library and Courageous Conservations Merrimack Valley will soon be kicking off a five-part speaker series titled a \"Rise in Hate\" The talks will focus on the rise in hate towards Black and brown people, the LGBTQ+ community, the Jewish community, Asian Americans and immigrants, according to a press release from Courageous Conversations Merrimack Valley",
+"href": "https://www.andovertownsman.com/news/library-hosts-courageous-conversations-series-a-rise-in-hate/article_0a9bba00-90f7-11ed-955f-fbca74b924b8.html"
+},
+{
+"text": "Moulton, Reardon and others tour Whittier Tech",
+"href": "https://www.newburyportnews.com/news/local_news/moulton-reardon-and-others-tour-whittier-tech/article_46ca6bf6-aeee-11ed-9eac-2bdf8f577bf3.html"
+},
+{
+"text": "NCAA’s Baker opens up on athlete pay",
+"href": "https://www.wgbh.org/news/local/2024-10-10/ncaas-baker-opens-up-on-athlete-pay"
+},
+{
+"text": "New Whittier Tech Goes Before Voters in January After Surviving Two Challenges Wednesday",
+"href": "https://whav.net/2023/12/14/new-whittier-tech-goes-before-voters-in-january-after-surviving-two-challenges-wednesday/"
+},
+{
+"text": "North Shore Business Briefs",
+"href": "https://www.salemnews.com/news/north-shore-business-briefs/article_349addd8-c35e-11ed-abe9-ab30720cffee.html"
+},
+{
+"text": "Nurses Health Care Lobbyists Press Legislators on Joining Nurse Licensure Compact",
+"href": "https://whav.net/2023/11/09/nurses-health-care-lobbyists-press-legislators-on-joining-nurse-licensure-compact/"
+},
+{
+"text": "OTR hosts honored with proclamations from state senate",
+"href": "https://www.wcvb.com/article/otr-hosts-honored-with-proclamations-from-state-senate/44399995#:~:text=Massachusetts%20State%20Senator%20Barry%20Finegold,Ed%20Harding%20and%20Sharman%20Sacchetti.&text=NEEDHAM%2C%20Mass.%20%E2%80%94-,Massachusetts%20State%20Senator%20Barry%20Finegold%20presents%20proclamations%20honoring%20WCVB%20On,Ed%20Harding%20and%20Sharman%20Sacchetti."
+},
+{
+"text": "Proposal Targets Targets 'Deep Fake' Political Advertising- Eagle Tribune",
+"href": "https://www.eagletribune.com/proposal-targets-deep-fake-political-advertising/article_3e9268fc-b173-11ee-9091-e75795c0ce66.html"
+},
+{
+"text": "Proposed State Privacy Law Update",
+"href": "https://www.jdsupra.com/legalnews/proposed-state-privacy-law-update-june-1505450/"
+},
+{
+"text": "Proposed State Privacy Law Update",
+"href": "https://www.jdsupra.com/legalnews/proposed-state-privacy-law-update-may-5388011/"
+},
+{
+"text": "Regulating Youth Sports in Massachusetts a Possibility as Lawmakers Float Governing Body",
+"href": "https://www.bostonherald.com/2023/10/12/regulating-youth-sports-in-massachusetts-a-possibility-as-lawmakers-float-governing-body/"
+},
+{
+"text": "Rep. Vargas, Sens. Finegold and Payano Note Current Legislative Assignments",
+"href": "https://whav.net/2023/02/27/rep-vargas-sens-finegold-and-payano-note-current-legislative-assignments/"
+},
+{
+"text": "Robert Fowler Recognized for 40 Years of Service on Planning Board",
+"href": "https://tewksburycarnation.org/2023/03/28/robert-fowler-recognized-for-40-years-of-service-on-planning-board/"
+},
+{
+"text": "Schools need standards, resources to improve cybersecurity",
+"href": "https://www.bostonglobe.com/2023/03/23/opinion/schools-need-standards-resources-improve-cybersecurity/"
+},
+{
+"text": "Select Board receive updates on Olin, housing choice from Sen. Finegold, Rep. Roberston",
+"href": "http://homenewshere.com/wilmington_town_crier/news/article_d896d8cc-ad62-11ed-b16d-a324e18dca6b.html"
+},
+{
+"text": "Sen. Finegold Reorganizes Staff With New Hires, Promotion",
+"href": "https://whav.net/2023/02/21/sen-finegold-reorganizes-staff-with-new-hires-promotion/"
+},
+{
+"text": "Senate Bringing Forward $2.8B Economic Development Bill Thursday -",
+"href": "https://www.wwlp.com/news/state-politics/senate-bringing-forward-2-8-billion-eco-dev-bill-thursday/"
+},
+{
+"text": "Senator Finegold Reappointed to Economic Development Board -",
+"href": "https://andovermanews.com/finegold-reappointed-to-economic-development-board/"
+},
+{
+"text": "Senators load up budget with local earmarks",
+"href": "https://www.eagletribune.com/news/senators-load-up-budget-with-local-earmarks/article_248ace94-f4c8-11ed-8bd7-e32478560a23.html"
+},
+{
+"text": "Sens Finegold and Payano Praise Addition of 15 Million for Storm Damage Aid in Budget",
+"href": "https://whav.net/2023/11/16/sens-finegold-and-payano-praise-addition-of-15-million-for-storm-damage-aid-in-budget/"
+},
+{
+"text": "Sens Finegold and Payano Seek Resident Input at Tuesday Haverhill Conversation",
+"href": "https://whav.net/2023/11/08/sens-finegold-and-payano-seek-resident-input-at-tuesday-haverhill-conversation/"
+},
+{
+"text": "Sens. Finegold and Payano Hail Senate Passage of Housing, Education, Safety Net Bill",
+"href": "https://whav.net/2023/03/16/sens-finegold-and-payano-hail-senate-passage-of-housing-education-safety-net-bill/"
+},
+{
+"text": "Should Mass. end ban on fireworks? State senator weighs in",
+"href": "https://www.wcvb.com/article/barry-feingold-massachusetts-ban-on-fireworks-on-the-record/44409303%20"
+},
+{
+"text": "State Invites Haverhill's John Greenleaf Whittier School to Advance Plans for New Building",
+"href": "https://whav.net/2023/12/14/state-invites-haverhills-john-greenleaf-whittier-school-to-advance-plans-for-new-building/"
+},
+{
+"text": "State Lawmakers Consider Oversight Youth Sports",
+"href": "https://www.boston25news.com/news/local/suffolk-county/state-lawmakers-consider-oversight-youth-sports/Y4DHQDRSRVFHDATZ6S2KE6J7YU/"
+},
+{
+"text": "State Lawmakers Look into Idea of Governing Body for Youth Sports",
+"href": "https://www.wgbh.org/news/local/2023-10-12/state-lawmakers-look-into-idea-of-governing-body-for-youth-sports"
+},
+{
+"text": "State Senate Seeks to Tap Rainy Day Fund Interest to Meet Fed Matching Grant Rules - WHAV",
+"href": "https://whav.net/2024/01/15/state-senate-seeks-to-tap-rainy-day-fund-interest-to-meet-fed-matching-grant-rules/"
+},
+{
+"text": "State Senator Barry Finegold",
+"href": "https://www.barryfinegold.com/"
+},
+{
+"text": "State Senator Barry Finegold’s bill is one of the first “written using the generative artificial intelligence platform.”",
+"href": "https://www.washingtonpost.com/politics/2023/01/23/chatgpt-is-now-writing-legislation-is-this-future/?account_location=ONSITE_HEADER_ARTICLE&arcId=UYSNYBOTZBHHJA2EDGZPEZZCJQ&nid=top_pb_signin"
+},
+{
+"text": "State Senator drafts legislation to regulate tools like ChatGPT - with the help of ChatGPT",
+"href": "https://bunewsservice.com/state-senator-drafts-legislation-to-regulate-tools-like-chatgpt-with-the-help-of-chatgpt/"
+},
+{
+"text": "Tewksbury Planning Board member leaves after 40-year tenure",
+"href": "https://www.lowellsun.com/2023/04/04/tewksbury-planning-board-member-leaves-board-after-40-year-tenure/"
+},
+{
+"text": "Tewksbury Police and Northern Middlesex Regional Emergency Communications Center Receive Over $400,000 in Grants",
+"href": "https://jgpr.net/2023/10/06/tewksbury-police-and-northern-middlesex-regional-emergency-communications-center-receive-over-400000-in-grants/"
+},
+{
+"text": "The Lamp Post",
+"href": "https://www.hgazette.com/news/the_lamp_post/the-lamp-post/article_32c8d66c-b6b2-11ed-a03c-5743f96b68ce.html"
+},
+{
+"text": "Two elected officials drafted legislation to regulate artificial intelligence technology — with some help from ChatGPT",
+"href": "https://www.washingtonpost.com/politics/2023/01/23/chatgpt-is-now-writing-legislation-is-this-future/?account_location=ONSITE_HEADER_ARTICLE&arcId=UYSNYBOTZBHHJA2EDGZPEZZCJQ&nid=top_pb_signin"
+},
+{
+"text": "Veterans Fed and Feted During Annual Luncheon",
+"href": "https://www.newburyportnews.com/news/local_news/veterans-fed-and-feted-during-annual-luncheon/article_d89a88b2-7e65-11ee-b7af-bbd645c97078.html"
+},
+{
+"text": "We must take each one of these seriously': Police, schools, face uptick in threats",
+"href": "https://www.andovertownsman.com/news/pedestrian-safety-projects-part-of-2023-participatory-capital-budgeting-program/article_e26a2592-fc96-11ed-8034-eb14cbddb1b9.html%20"
+},
+{
+"text": "We must take each one of these seriously': Police, schools, face uptick in threats",
+"href": "https://www.eagletribune.com/news/we-must-take-each-one-of-these-seriously-police-schools-face-uptick-in-threats/article_58a996a4-0091-11ee-8ec0-1b96591eb418.html%20"
+},
+{
+"text": "Writer, Adviser, Poet, Bot: How ChatGPT Could Transform Politics",
+"href": "https://japantoday.com/category/features/opinions/writer-adviser-poet-bot-how-chatgpt-could-transform-politics"
+},
+{
+"text": "Writer, Adviser, Poet, Bot: How ChatGPT Could Transform Politics",
+"href": "https://www.voanews.com/a/writer-adviser-poet-bot-how-chatgpt-could-transform-politics-/7063907.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.barryfinegold.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BarryFinegoldMA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/barryfinegoldma"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/barryfinegoldma/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Barry_Finegold"
+},
+{
+"text": "‘Well worth the effort and wait’: Long-awaited legislative compromise on economic bill paves way for Revs soccer stadium",
+"href": "https://www.bostonglobe.com/2024/11/12/metro/long-awaited-legislative-compromise-economic-bill-paves-way-revs-soccer-stadium/"
+}
 ]

@@ -1,9 +1,2 @@
-Contact Us
-Contact Information
-Address:
-Karen for CO
-PO Box 326, Hygiene, CO, 80533
-Email: info@karenforco.com
-Phone: (720) 340-1725
-Contact Us
-Complete this form and a member of our team will be in touch soon!
+0 Skip to Content Home About Issues Issues Legislation Endorsements Updates Join Us Contact Donate Open Menu Close Menu Home About Issues Issues Legislation Endorsements Updates Join Us Contact Donate Open Menu Close Menu Home About Folder: Issues Back Issues Legislation Endorsements Updates Join Us Contact Donate Contact Us Contact Information Address: Karen for CO PO Box 326, Hygiene, CO, 80533 Email: info@karenforco.com Phone: (720) 340-1725 Contact Us Complete this form and a member of our team will be in touch soon!
+Paid for by Karen for CO Paid for by Karen for CO | Registered Agent Karen McCormick PO Box 326, Hygiene, CO 80533 info@karenforco.com — (720) 340-1725

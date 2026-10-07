@@ -1,15 +1,70 @@
 [
-"http://duffgraphics.com/",
-"https://drennan4house.com/",
-"https://drennan4house.com/about",
-"https://drennan4house.com/contact",
-"https://drennan4house.com/news",
-"https://drennan4house.com/the-issues",
-"https://facebook.com/DrennanForHouse",
-"https://secure.winred.com/sarah-drennan-for-house/donate-today",
-"https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=100",
-"https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=25",
-"https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=250",
-"https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=50",
-"https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=500"
+{
+"text": "$100",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=500"
+},
+{
+"text": "About",
+"href": "https://drennan4house.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://drennan4house.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today"
+},
+{
+"text": "Donate Now!",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DrennanForHouse/"
+},
+{
+"text": "Home",
+"href": "https://drennan4house.com/"
+},
+{
+"text": "News & Events",
+"href": "https://drennan4house.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today"
+},
+{
+"text": "The Issues",
+"href": "https://drennan4house.com/the-issues/"
+},
+{
+"text": "Website design by Duff Graphics",
+"href": "http://www.duffgraphics.com"
+},
+{
+"text": "[image: WinRed logo]",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today"
+},
+{
+"text": "sarah@drennan4house.com",
+"href": "mailto:sarah@drennan4house.com"
+}
 ]

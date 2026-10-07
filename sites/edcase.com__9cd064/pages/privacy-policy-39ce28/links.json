@@ -1,18 +1,78 @@
 [
-"https://edcase.com/",
-"https://edcase.com/agenda",
-"https://edcase.com/campaign-videos",
-"https://edcase.com/contact-us",
-"https://edcase.com/donate",
-"https://edcase.com/experience",
-"https://edcase.com/images",
-"https://edcase.com/kokua-ed",
-"https://edcase.com/privacy-policy",
-"https://edcase.com/snapshot",
-"https://edcase.com/story",
-"https://edcase.com/terms-and-conditions",
-"https://facebook.com/VoteEdCase",
-"https://instagram.com/edcasehawaii",
-"https://twitter.com/EdCaseHawaii",
-"https://youtube.com/@EdCaseforHawaii"
+{
+"text": "CONTACT",
+"href": "https://edcase.com/contact-us/"
+},
+{
+"text": "DONATE",
+"href": "https://www.edcase.com/donate/"
+},
+{
+"text": "ED’S AGENDA",
+"href": "https://edcase.com/agenda/"
+},
+{
+"text": "Experience",
+"href": "https://edcase.com/experience/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/EdCaseHawaii"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/VoteEdCase"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/edcasehawaii/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@EdCaseforHawaii"
+},
+{
+"text": "Images",
+"href": "https://edcase.com/images/"
+},
+{
+"text": "JOIN US",
+"href": "https://edcase.com/kokua-ed/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://edcase.com/privacy-policy/"
+},
+{
+"text": "Snapshot",
+"href": "https://edcase.com/snapshot/"
+},
+{
+"text": "Story",
+"href": "https://edcase.com/story/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://edcase.com/terms-and-conditions/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://edcase.com/terms-and-conditions/"
+},
+{
+"text": "UPDATES",
+"href": "https://edcase.com/campaign-videos/"
+},
+{
+"text": "[image]",
+"href": "https://edcase.com/"
+},
+{
+"text": "edcase@edcase.com",
+"href": "mailto:edcase@edcase.com"
+},
+{
+"text": "https://edcase.com/",
+"href": "https://edcase.com/"
+}
 ]

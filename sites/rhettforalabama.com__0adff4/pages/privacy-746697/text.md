@@ -1,37 +1,27 @@
-CHIP IN TODAY TO BRING ALABAMA VALUES TO WASHINGTON
-PRIVACY POLICY
-SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
+top of page CHIP IN TODAY TO BRING ALABAMA VALUES TO WASHINGTON DONATE ABOUT ISSUES NEWSROOM ENDORSEMENTS GET INVOLVED REQUEST A SIGN PRIVACY POLICY SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
 When you sign up on the RhettforAlabama.com website, we collect the personal information you give us such as your name, address, phone number and email address.
 Email marketing (if applicable): With your permission, we may send you emails about events, campaign activity and other updates.
-SECTION 2 – CONSENT
-How do you get my consent?
+SECTION 2 – CONSENT How do you get my consent?
 When you provide us with personal information to complete the signup process, you thereby give consent to our collecting it and using it for that specific reason only.
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 How do I withdraw my consent?
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by contacting us at contact@rhettforalabama.com.
-SECTION 3 – DISCLOSURE
-We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
-SECTION 4 – THIRD-PARTY SERVICES
-In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by contacting us at contact@rhettforalabama.com .
+SECTION 3 – DISCLOSURE We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
+SECTION 4 – THIRD-PARTY SERVICES In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 However, certain third-party service providers, have their own privacy policies in respect to the information we are required to provide to them.
 For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
 In particular, remember that certain providers may be located in or have facilities that are located in a different jurisdiction than either you or us.
 So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
 As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 Once you leave our website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
-LINKS
-When you click on the links on our website, they may direct you away from our site.
+LINKS When you click on the links on our website, they may direct you away from our site.
 We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
-SECTION 5 – TEXT MESSAGING OPT-IN DATA
-We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
+SECTION 5 – TEXT MESSAGING OPT-IN DATA We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
 Standard text/data messaging rates may apply.
-SECTION 6 – SECURITY
-To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
-SECTION 7 – AGE OF CONSENT
-By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
-SECTION 8 – CHANGES TO THIS PRIVACY POLICY
-We reserve the right to modify this privacy policy at any time, so please review it frequently.
+SECTION 6 – SECURITY To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+SECTION 7 – AGE OF CONSENT By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+SECTION 8 – CHANGES TO THIS PRIVACY POLICY We reserve the right to modify this privacy policy at any time, so please review it frequently.
 Changes and clarifications will take effect immediately upon their posting on the website.
 If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
-QUESTIONS AND CONTACT INFORMATION
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at contact@rhettforalabama.com.
+QUESTIONS AND CONTACT INFORMATION If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at contact@rhettforalabama.com .
+GET INVOLVED DONATE PAID FOR BY RHETT FOR ALABAMA RHETT FOR ALABAMA - PO BOX 311303 ENTERPRISE, AL 36331​ PRIVACY POLICY FOLLOW RHETT ON SOCIAL MEDIA bottom of page

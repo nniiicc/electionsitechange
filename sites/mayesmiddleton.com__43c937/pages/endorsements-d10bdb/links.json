@@ -1,13 +1,66 @@
 [
-"http://twitter.com/mayes_middleton",
-"https://facebook.com/mayesfortexas",
-"https://instagram.com/mayesmiddleton",
-"https://mayesmiddleton.com/",
-"https://mayesmiddleton.com/endorsements",
-"https://mayesmiddleton.com/join",
-"https://mayesmiddleton.com/news",
-"https://mayesmiddleton.com/policies/privacy",
-"https://mayesmiddleton.com/policies/terms",
-"https://mayesmiddleton.com/volunteer",
-"https://secure.winred.com/mayes-middleton-campaign/donatetoday"
+{
+"text": "About",
+"href": "https://mayesmiddleton.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/mayes-middleton-campaign/donatetoday"
+},
+{
+"text": "Endorsements",
+"href": "https://mayesmiddleton.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/mayesfortexas"
+},
+{
+"text": "Home",
+"href": "https://mayesmiddleton.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/mayesmiddleton"
+},
+{
+"text": "Join Our Team",
+"href": "https://mayesmiddleton.com/join"
+},
+{
+"text": "Join Our Team",
+"href": "https://mayesmiddleton.com/volunteer"
+},
+{
+"text": "Menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "News",
+"href": "https://mayesmiddleton.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://mayesmiddleton.com/#priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mayesmiddleton.com/policies/privacy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://mayesmiddleton.com/policies/terms"
+},
+{
+"text": "Twitter",
+"href": "http://twitter.com/mayes_middleton"
+},
+{
+"text": "[image: Logo]",
+"href": "https://mayesmiddleton.com/"
+},
+{
+"text": "[image: Mayes Middleton For Texas Attorney General Logo]",
+"href": "https://mayesmiddleton.com/"
+}
 ]

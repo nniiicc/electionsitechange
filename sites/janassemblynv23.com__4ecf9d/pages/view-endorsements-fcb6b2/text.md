@@ -1,5 +1,2 @@
-Endorsements
-Endorsement from Liz Luna, Executive Director/Nevada Assembly-Democratic Caucus for Science.
-Mothers Demand Action Gun Sense Candidate 2026
-Committee to Elect Jan Aspelund
-Powered by CampaignPartner.com - Political Websites
+Home Meet Jan Photos Issues News Volunteer Contribute Contact Endorsements Endorsement from Liz Luna, Executive Director/Nevada Assembly-Democratic Caucus for Science.
+Mothers Demand Action Gun Sense Candidate 2026 Click here to add your endorsement Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jan Aspelund Powered by CampaignPartner.com - Political Websites Home Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

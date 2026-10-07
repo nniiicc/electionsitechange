@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://votegloria.com/",
- "paid_for_by": "Paid for by Friends of Gloria Mendoza (R) | P",
+ "fingerprint": "cff9c2db0603971abdccbcc6feb155fa518146dd",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Gloria Mendoza (R)",
  "title": "Gloria Mendoza for State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

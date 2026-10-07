@@ -1,15 +1,62 @@
 [
-"https://votecampbell.org/",
-"https://votecampbell.org/about-me",
-"https://votecampbell.org/contact",
-"https://votecampbell.org/donate",
-"https://votecampbell.org/gallery",
-"https://votecampbell.org/issues",
-"https://votecampbell.org/news-from-the-state-house",
-"https://votecampbell.org/volunteer",
-"https://votecampbell.org/wp-content/uploads/2024/07/Copy-of-Endorse-Campbell-Instagram-Post-1.png",
-"https://votecampbell.org/wp-content/uploads/2024/07/For-Your-Endorseent-Twitter-Post-1.png",
-"https://votecampbell.org/wp-content/uploads/2024/07/IMG_20230914_142720729_PORTRAIT-scaled.jpg",
-"https://votecampbell.org/wp-content/uploads/2024/07/UAW-thanks-you-Twitter-Post-1.png",
-"https://wordpress.org/"
+{
+"text": "About",
+"href": "https://votecampbell.org/about-me/"
+},
+{
+"text": "Chris Campbell",
+"href": "https://votecampbell.org/"
+},
+{
+"text": "Contact",
+"href": "https://votecampbell.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://votecampbell.org/donate/"
+},
+{
+"text": "Gallery",
+"href": "https://votecampbell.org/gallery/"
+},
+{
+"text": "Home",
+"href": "https://votecampbell.org/"
+},
+{
+"text": "Issues",
+"href": "https://votecampbell.org/issues/"
+},
+{
+"text": "News from the State House",
+"href": "https://votecampbell.org/news-from-the-state-house/"
+},
+{
+"text": "Proudly powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://votecampbell.org/volunteer/"
+},
+{
+"text": "[image: Chris Campbell]",
+"href": "https://votecampbell.org/"
+},
+{
+"text": "[image]",
+"href": "https://votecampbell.org/wp-content/uploads/2024/07/Copy-of-Endorse-Campbell-Instagram-Post-1.png"
+},
+{
+"text": "[image]",
+"href": "https://votecampbell.org/wp-content/uploads/2024/07/For-Your-Endorseent-Twitter-Post-1.png"
+},
+{
+"text": "[image]",
+"href": "https://votecampbell.org/wp-content/uploads/2024/07/IMG_20230914_142720729_PORTRAIT-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votecampbell.org/wp-content/uploads/2024/07/UAW-thanks-you-Twitter-Post-1.png"
+}
 ]

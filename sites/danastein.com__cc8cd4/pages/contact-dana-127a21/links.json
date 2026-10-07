@@ -1,14 +1,62 @@
 [
-"https://danastein.com/",
-"https://danastein.com/citation-request",
-"https://danastein.com/contact-dana",
-"https://danastein.com/danas-newsletter",
-"https://danastein.com/endorsements-2026",
-"https://danastein.com/on-the-issues",
-"https://danastein.com/resources",
-"https://danastein.com/scholarship",
-"https://facebook.com/DelegateStein",
-"https://secure.actblue.com/donate/dana-stein-2",
-"https://twitter.com/DelDanaMStein1",
-"https://twitter.com/intent/user?screen_name=DelDanaMStein1"
+{
+"text": "Contact Dana",
+"href": "https://danastein.com/contact-dana/"
+},
+{
+"text": "Dana.Stein@house.maryland.gov",
+"href": "mailto:Dana.Stein@house.maryland.gov"
+},
+{
+"text": "Dana’s Newsletter",
+"href": "https://danastein.com/danas-newsletter/"
+},
+{
+"text": "Delegate Dana Stein",
+"href": "https://danastein.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dana-stein-2"
+},
+{
+"text": "Endorsements",
+"href": "https://danastein.com/endorsements-2026/"
+},
+{
+"text": "Legislative Scholarships",
+"href": "https://danastein.com/scholarship/"
+},
+{
+"text": "MGA Citation Request",
+"href": "https://danastein.com/citation-request/"
+},
+{
+"text": "Meet Dana",
+"href": "https://danastein.com/"
+},
+{
+"text": "On the Issues",
+"href": "https://danastein.com/on-the-issues/"
+},
+{
+"text": "Resources",
+"href": "https://danastein.com/resources/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DelegateStein"
+},
+{
+"text": "[image: Follow Me]",
+"href": "https://twitter.com/intent/user?screen_name=DelDanaMStein1"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/DelDanaMStein1"
+},
+{
+"text": "[image: Visit Us]",
+"href": "https://twitter.com/DelDanaMStein1"
+}
 ]

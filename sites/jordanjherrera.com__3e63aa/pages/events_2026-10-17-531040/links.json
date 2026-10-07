@@ -1,40 +1,202 @@
 [
-"https://bsky.app/profile/herreraformissouri.bsky.social",
-"https://cookiedatabase.org/tcf/purposes",
-"https://facebook.com/profile.php?id=61576755631122",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fjordanjherrera.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-10-17%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/jordanherreraforcongress",
-"https://jordanjherrera.com/",
-"https://jordanjherrera.com/about",
-"https://jordanjherrera.com/contact",
-"https://jordanjherrera.com/event/south-kc-democrats-club-meeting-2",
-"https://jordanjherrera.com/events",
-"https://jordanjherrera.com/events/2026-10-16",
-"https://jordanjherrera.com/events/2026-10-17",
-"https://jordanjherrera.com/events/2026-10-17?ical=1",
-"https://jordanjherrera.com/events/2026-10-17?outlook-ical=1",
-"https://jordanjherrera.com/events/2026-10-18",
-"https://jordanjherrera.com/events/list?tribe-bar-date=2026-10-17",
-"https://jordanjherrera.com/events/month/2026-10",
-"https://jordanjherrera.com/events/today",
-"https://jordanjherrera.com/home",
-"https://jordanjherrera.com/issues",
-"https://jordanjherrera.com/message-from-the-candidate",
-"https://jordanjherrera.com/privacy-statement-us",
-"https://jordanjherrera.com/terms-and-conditions",
-"https://jordanjherrera.com/volunteer",
-"https://jordanjherrera.com/vote",
-"https://linkedin.com/in/jordan-herrera-5a819a207",
-"https://nerotechsolutions.com/",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fjordanjherrera.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-10-17%26ical%3D1%26eventDisplay%3Dlist&name=Jordan+J+Herrera+Events+%E2%80%93+Jordan+J+Herrera",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fjordanjherrera.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-10-17%26ical%3D1%26eventDisplay%3Dlist&name=Jordan+J+Herrera+Events+%E2%80%93+Jordan+J+Herrera",
-"https://secure.actblue.com/donate/jordan-herrera-1",
-"https://secure.actblue.com/donate/jordan-herrera-1?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/jordan-herrera-1?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/jordan-herrera-1?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/jordan-herrera-1?amount=5&express_lane=true",
-"https://secure.actblue.com/donate/jordan-herrera-1?amount=50&express_lane=true",
-"https://store.jordanjherrera.com/",
-"https://threads.com/@jordanherreraforcongress",
-"https://tiktok.com/@herreraformissouri?lang=en"
+{
+"text": "#ago",
+"href": "https://jordanjherrera.com/events/today/"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1?amount=100&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1?amount=25&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1?amount=250&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1?amount=5&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1?amount=50&express_lane=true"
+},
+{
+"text": "About",
+"href": "https://jordanjherrera.com/about"
+},
+{
+"text": "About",
+"href": "https://jordanjherrera.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://jordanjherrera.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://jordanjherrera.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1"
+},
+{
+"text": "Day",
+"href": "https://jordanjherrera.com/events/2026-10-17/"
+},
+{
+"text": "Events",
+"href": "https://jordanjherrera.com/events"
+},
+{
+"text": "Events",
+"href": "https://jordanjherrera.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://jordanjherrera.com/events/2026-10-17/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://jordanjherrera.com/events/2026-10-17/?outlook-ical=1"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fjordanjherrera.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://jordanjherrera.com/home"
+},
+{
+"text": "Issues",
+"href": "https://jordanjherrera.com/issues"
+},
+{
+"text": "Issues",
+"href": "https://jordanjherrera.com/issues/"
+},
+{
+"text": "List",
+"href": "https://jordanjherrera.com/events/list/?tribe-bar-date=%23"
+},
+{
+"text": "Merch",
+"href": "https://store.jordanjherrera.com"
+},
+{
+"text": "Message from Jordan",
+"href": "https://jordanjherrera.com/message-from-the-candidate/"
+},
+{
+"text": "Message from the Candidate",
+"href": "https://jordanjherrera.com/message-from-the-candidate"
+},
+{
+"text": "Month",
+"href": "https://jordanjherrera.com/events/month/2026-10/"
+},
+{
+"text": "Nerotech Solutions LLC",
+"href": "https://nerotechsolutions.com"
+},
+{
+"text": "Next Day",
+"href": "https://jordanjherrera.com/events/2026-10-18/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fjordanjherrera.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist&name=Jordan+J+Herrera+Events+%E2%80%93+Jordan+J+Herrera"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fjordanjherrera.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist&name=Jordan+J+Herrera+Events+%E2%80%93+Jordan+J+Herrera"
+},
+{
+"text": "Phone: +1 816-287-2326",
+"href": "tel:+18162872326"
+},
+{
+"text": "Previous Day",
+"href": "https://jordanjherrera.com/events/2026-10-16/"
+},
+{
+"text": "Privacy Statement",
+"href": "https://jordanjherrera.com/privacy-statement-us"
+},
+{
+"text": "South KC Democrats Club Meeting",
+"href": "https://jordanjherrera.com/event/south-kc-democrats-club-meeting-2/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://jordanjherrera.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://jordanjherrera.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://jordanjherrera.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://jordanjherrera.com/vote"
+},
+{
+"text": "Vote",
+"href": "https://jordanjherrera.com/vote/"
+},
+{
+"text": "[image: Jordan J Herrera]",
+"href": "https://jordanjherrera.com"
+},
+{
+"text": "[image]",
+"href": "https://jordanjherrera.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/herreraformissouri.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576755631122"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jordanherreraforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/jordan-herrera-5a819a207"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@jordanherreraforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@herreraformissouri?lang=en"
+},
+{
+"text": "[tooltip: Next day]",
+"href": "https://jordanjherrera.com/events/2026-10-18/"
+},
+{
+"text": "[tooltip: Previous day]",
+"href": "https://jordanjherrera.com/events/2026-10-16/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://jordanjherrera.com/?post_type=tribe_events&tribe-bar-date=%23&ical=1&eventDisplay=list"
+}
 ]

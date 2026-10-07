@@ -1,4 +1,6 @@
-Warwick, RI March 31, 2026 : Warwick native and cybersecurity professional Dana James Traversie today announced their candidacy for State Representative, launching an “ACT for Warwick” agenda and calling for
-Category: Politics
-Political commentary and updates.
-Traversie statement on state-sanctioned Civil rights violation in rhode island Warwick, RI: Yesterday, the unlawful prohibition of magazines for firearms under the “Rhode Island Large Capacity Feeding Device Ban Act
+Skip to content Dana James Traversie A true representative of the people.
+Toggle menu visibility.
+Home About Issues Events News Support Contact Shop Vote Toggle menu visibility.
+Menu Item Menu Item Menu Item Menu Item Category: Politics Political commentary and updates.
+Traversie Announces Campaign for State Representative, Launches “ACT for Warwick” Agenda at a Critical Moment Posted on March 31, 2026 by Dana Warwick, RI March 31, 2026 : Warwick native and cybersecurity professional Dana James Traversie today announced their candidacy for State Representative, launching an “ACT for Warwick” agenda and calling for Read More News , Politics Press Release , Rhode Island , Warwick Traversie Statement on State-Sanctioned Civil Rights Violation in Rhode Island Posted on December 19, 2022 by Dana Traversie statement on state-sanctioned Civil rights violation in rhode island Warwick, RI: Yesterday, the unlawful prohibition of magazines for firearms under the “Rhode Island Large Capacity Feeding Device Ban Act Read More News , Politics 2A , Liberty , Press Release , Rhode Island , Warwick Toggle menu visibility.
+Menu Item Menu Item Menu Item Menu Item Contact Privacy Support Paid for by Friends of Dana James Traversie Built with BoldGrid Powered By DreamHost

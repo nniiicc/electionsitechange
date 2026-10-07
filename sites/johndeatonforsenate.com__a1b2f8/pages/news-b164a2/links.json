@@ -1,35 +1,282 @@
 [
-"http://5c1nke-qd.myshopify.com/",
-"http://instagram.com/johndeaton4senate",
-"https://5c1nke-qd.myshopify.com/",
-"https://contributions.shift4payments.com/johndeatonforsenate",
-"https://facebook.com/deatonforsenate",
-"https://johndeatonforsenate.com/",
-"https://johndeatonforsenate.com/contact",
-"https://johndeatonforsenate.com/deaton-accepts-22news-springfield-debate-agreed-to-all-four-tv-debate-offers",
-"https://johndeatonforsenate.com/deaton-calls-out-markey-to-debate",
-"https://johndeatonforsenate.com/deaton-markey-should-back-common-sense-nuclear-policy-as-healey-hosts-new-england-summit-in-lowell",
-"https://johndeatonforsenate.com/deaton-markey-was-silent-while-healey-handed-data-centers-a-20-year-50-million-tax-break",
-"https://johndeatonforsenate.com/deaton-massachusetts-needs-solutions-not-slogans",
-"https://johndeatonforsenate.com/deaton-statement-on-ed-markey-vote-against-ratepayer-protection-act",
-"https://johndeatonforsenate.com/deaton-statement-on-ed-markey-vote-against-stop-insider-trading-act",
-"https://johndeatonforsenate.com/deaton-to-massachusetts-media-set-the-debate-dates-now-if-markey-no-shows-roll-out-the-empty-podium",
-"https://johndeatonforsenate.com/events",
-"https://johndeatonforsenate.com/in-case-you-missed-it-deaton-op-ed-people-over-politics",
-"https://johndeatonforsenate.com/issues",
-"https://johndeatonforsenate.com/john-deaton-statement-on-u-s-senates-failure-to-advance-clarity-act",
-"https://johndeatonforsenate.com/john-deaton-statement-on-vance-s-intervention-to-aid-gold-star-wife-denied-death-benefits",
-"https://johndeatonforsenate.com/meet-john",
-"https://johndeatonforsenate.com/new-bedford-police-union-endorses-john-deaton-for-u-s-senate",
-"https://johndeatonforsenate.com/news",
-"https://johndeatonforsenate.com/photos-deaton-sends-ed-markey-a-message-at-his-maryland-home",
-"https://johndeatonforsenate.com/privacy",
-"https://johndeatonforsenate.com/statement-by-john-deaton-in-response-to-mike-minogue-calling-for-federal-investigation-into-governor-healey-s-springfield-courthouse-deal",
-"https://johndeatonforsenate.com/terms-of-service",
-"https://johndeatonforsenate.com/volunteer",
-"https://johndeatonforsenate.com/vote",
-"https://johndeatonforsenate.com/western-mass-deserves-debates-before-the-ballots-go-out",
-"https://secure.winred.com/john-deaton-for-senate-inc-8d46fe78/donate-today",
-"https://twitter.com/deatonforsenate",
-"https://youtube.com/@DeatonforSenate"
+{
+"text": "AI",
+"href": "https://www.johndeatonforsenate.com/issues#AI"
+},
+{
+"text": "CLEAN HANDS",
+"href": "https://www.johndeatonforsenate.com/issues#CLEANHANDS"
+},
+{
+"text": "Contact",
+"href": "https://www.johndeatonforsenate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/john-deaton-for-senate-inc-8d46fe78/donate-today"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/john-deaton-for-senate-inc-8d46fe78/donate-today"
+},
+{
+"text": "Deaton Accepts 22News Springfield Debate, Agreed to All Four TV Debate Offers",
+"href": "https://www.johndeatonforsenate.com/deaton-accepts-22news-springfield-debate-agreed-to-all-four-tv-debate-offers"
+},
+{
+"text": "Deaton Calls Out Markey to Debate",
+"href": "https://www.johndeatonforsenate.com/deaton-calls-out-markey-to-debate"
+},
+{
+"text": "Deaton Statement on Ed Markey Vote Against Ratepayer Protection Act",
+"href": "https://www.johndeatonforsenate.com/deaton-statement-on-ed-markey-vote-against-ratepayer-protection-act"
+},
+{
+"text": "Deaton Statement on Ed Markey Vote Against Stop Insider Trading Act",
+"href": "https://www.johndeatonforsenate.com/deaton-statement-on-ed-markey-vote-against-stop-insider-trading-act"
+},
+{
+"text": "Deaton to Massachusetts Media: Set the Debate Dates Now. If Markey No-Shows, Roll Out the Empty Podium",
+"href": "https://www.johndeatonforsenate.com/deaton-to-massachusetts-media-set-the-debate-dates-now-if-markey-no-shows-roll-out-the-empty-podium"
+},
+{
+"text": "Deaton: Markey Should Back Common-Sense Nuclear Policy as Healey Hosts New England Summit in Lowell",
+"href": "https://www.johndeatonforsenate.com/deaton-markey-should-back-common-sense-nuclear-policy-as-healey-hosts-new-england-summit-in-lowell"
+},
+{
+"text": "Deaton: Markey Was Silent While Healey Handed Data Centers a 20-Year, $50 Million Tax Break",
+"href": "https://www.johndeatonforsenate.com/deaton-markey-was-silent-while-healey-handed-data-centers-a-20-year-50-million-tax-break"
+},
+{
+"text": "Deaton: Massachusetts Needs Solutions, Not Slogans",
+"href": "https://www.johndeatonforsenate.com/deaton-massachusetts-needs-solutions-not-slogans"
+},
+{
+"text": "Events",
+"href": "https://www.johndeatonforsenate.com/events"
+},
+{
+"text": "Flock cams",
+"href": "https://www.johndeatonforsenate.com/issues#Flockcams"
+},
+{
+"text": "IN CASE YOU MISSED IT! Deaton Op-Ed: 'People Over Politics'",
+"href": "https://www.johndeatonforsenate.com/in-case-you-missed-it-deaton-op-ed-people-over-politics"
+},
+{
+"text": "Issues",
+"href": "https://www.johndeatonforsenate.com/issues"
+},
+{
+"text": "John Deaton Statement on U.S. Senates Failure to Advance Clarity Act",
+"href": "https://www.johndeatonforsenate.com/john-deaton-statement-on-u-s-senates-failure-to-advance-clarity-act"
+},
+{
+"text": "John Deaton Statement on Vance's Intervention to Aid Gold Star Wife Denied Death Benefits",
+"href": "https://www.johndeatonforsenate.com/john-deaton-statement-on-vance-s-intervention-to-aid-gold-star-wife-denied-death-benefits"
+},
+{
+"text": "Meet John",
+"href": "https://www.johndeatonforsenate.com/meet-john"
+},
+{
+"text": "New Bedford Police Union Endorses John Deaton for U.S. Senate",
+"href": "https://www.johndeatonforsenate.com/new-bedford-police-union-endorses-john-deaton-for-u-s-senate"
+},
+{
+"text": "News",
+"href": "https://www.johndeatonforsenate.com/news"
+},
+{
+"text": "PHOTOS: Deaton Sends Ed Markey a Message at his Maryland Home",
+"href": "https://www.johndeatonforsenate.com/photos-deaton-sends-ed-markey-a-message-at-his-maryland-home"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.johndeatonforsenate.com/privacy"
+},
+{
+"text": "Statement by John Deaton in Response to Mike Minogue Calling for Federal Investigation into Governor Healey's Springfield Courthouse Deal",
+"href": "https://www.johndeatonforsenate.com/statement-by-john-deaton-in-response-to-mike-minogue-calling-for-federal-investigation-into-governor-healey-s-springfield-courthouse-deal"
+},
+{
+"text": "Store",
+"href": "http://5c1nke-qd.myshopify.com"
+},
+{
+"text": "Store",
+"href": "https://5c1nke-qd.myshopify.com/"
+},
+{
+"text": "TERMS OF SERVICE",
+"href": "https://www.johndeatonforsenate.com/terms-of-service"
+},
+{
+"text": "Volunteer",
+"href": "https://www.johndeatonforsenate.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.johndeatonforsenate.com/vote"
+},
+{
+"text": "WE TAKE CRYPTO",
+"href": "https://contributions.shift4payments.com/johndeatonforsenate/"
+},
+{
+"text": "Western Mass Deserves Debates Before the Ballots Go Out",
+"href": "https://www.johndeatonforsenate.com/western-mass-deserves-debates-before-the-ballots-go-out"
+},
+{
+"text": "[image]",
+"href": "https://www.johndeatonforsenate.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.johndeatonforsenate.com/deaton-accepts-22news-springfield-debate-agreed-to-all-four-tv-debate-offers"
+},
+{
+"text": "[image]",
+"href": "https://www.johndeatonforsenate.com/deaton-calls-out-markey-to-debate"
+},
+{
+"text": "[image]",
+"href": "https://www.johndeatonforsenate.com/deaton-markey-should-back-common-sense-nuclear-policy-as-healey-hosts-new-england-summit-in-lowell"
+},
+{
+"text": "[image]",
+"href": "https://www.johndeatonforsenate.com/deaton-markey-was-silent-while-healey-handed-data-centers-a-20-year-50-million-tax-break"
+},
+{
+"text": "[image]",
+"href": "https://www.johndeatonforsenate.com/deaton-massachusetts-needs-solutions-not-slogans"
+},
+{
+"text": "[image]",
+"href": "https://www.johndeatonforsenate.com/deaton-statement-on-ed-markey-vote-against-ratepayer-protection-act"
+},
+{
+"text": "[image]",
+"href": "https://www.johndeatonforsenate.com/deaton-statement-on-ed-markey-vote-against-stop-insider-trading-act"
+},
+{
+"text": "[image]",
+"href": "https://www.johndeatonforsenate.com/deaton-to-massachusetts-media-set-the-debate-dates-now-if-markey-no-shows-roll-out-the-empty-podium"
+},
+{
+"text": "[image]",
+"href": "https://www.johndeatonforsenate.com/in-case-you-missed-it-deaton-op-ed-people-over-politics"
+},
+{
+"text": "[image]",
+"href": "https://www.johndeatonforsenate.com/john-deaton-statement-on-u-s-senates-failure-to-advance-clarity-act"
+},
+{
+"text": "[image]",
+"href": "https://www.johndeatonforsenate.com/john-deaton-statement-on-vance-s-intervention-to-aid-gold-star-wife-denied-death-benefits"
+},
+{
+"text": "[image]",
+"href": "https://www.johndeatonforsenate.com/new-bedford-police-union-endorses-john-deaton-for-u-s-senate"
+},
+{
+"text": "[image]",
+"href": "https://www.johndeatonforsenate.com/photos-deaton-sends-ed-markey-a-message-at-his-maryland-home"
+},
+{
+"text": "[image]",
+"href": "https://www.johndeatonforsenate.com/statement-by-john-deaton-in-response-to-mike-minogue-calling-for-federal-investigation-into-governor-healey-s-springfield-courthouse-deal"
+},
+{
+"text": "[image]",
+"href": "https://www.johndeatonforsenate.com/western-mass-deserves-debates-before-the-ballots-go-out"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/johndeaton4senate"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/deatonforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/deatonforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.johndeatonforsenate.com/deaton-accepts-22news-springfield-debate-agreed-to-all-four-tv-debate-offers"
+},
+{
+"text": "[no text]",
+"href": "https://www.johndeatonforsenate.com/deaton-calls-out-markey-to-debate"
+},
+{
+"text": "[no text]",
+"href": "https://www.johndeatonforsenate.com/deaton-markey-should-back-common-sense-nuclear-policy-as-healey-hosts-new-england-summit-in-lowell"
+},
+{
+"text": "[no text]",
+"href": "https://www.johndeatonforsenate.com/deaton-markey-was-silent-while-healey-handed-data-centers-a-20-year-50-million-tax-break"
+},
+{
+"text": "[no text]",
+"href": "https://www.johndeatonforsenate.com/deaton-massachusetts-needs-solutions-not-slogans"
+},
+{
+"text": "[no text]",
+"href": "https://www.johndeatonforsenate.com/deaton-statement-on-ed-markey-vote-against-ratepayer-protection-act"
+},
+{
+"text": "[no text]",
+"href": "https://www.johndeatonforsenate.com/deaton-statement-on-ed-markey-vote-against-stop-insider-trading-act"
+},
+{
+"text": "[no text]",
+"href": "https://www.johndeatonforsenate.com/deaton-to-massachusetts-media-set-the-debate-dates-now-if-markey-no-shows-roll-out-the-empty-podium"
+},
+{
+"text": "[no text]",
+"href": "https://www.johndeatonforsenate.com/in-case-you-missed-it-deaton-op-ed-people-over-politics"
+},
+{
+"text": "[no text]",
+"href": "https://www.johndeatonforsenate.com/john-deaton-statement-on-u-s-senates-failure-to-advance-clarity-act"
+},
+{
+"text": "[no text]",
+"href": "https://www.johndeatonforsenate.com/john-deaton-statement-on-vance-s-intervention-to-aid-gold-star-wife-denied-death-benefits"
+},
+{
+"text": "[no text]",
+"href": "https://www.johndeatonforsenate.com/new-bedford-police-union-endorses-john-deaton-for-u-s-senate"
+},
+{
+"text": "[no text]",
+"href": "https://www.johndeatonforsenate.com/photos-deaton-sends-ed-markey-a-message-at-his-maryland-home"
+},
+{
+"text": "[no text]",
+"href": "https://www.johndeatonforsenate.com/statement-by-john-deaton-in-response-to-mike-minogue-calling-for-federal-investigation-into-governor-healey-s-springfield-courthouse-deal"
+},
+{
+"text": "[no text]",
+"href": "https://www.johndeatonforsenate.com/western-mass-deserves-debates-before-the-ballots-go-out"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@DeatonforSenate"
+},
+{
+"text": "info@johndeatonforsenate.com",
+"href": "mailto:info@johndeatonforsenate.com"
+},
+{
+"text": "press@johndeatonforsenate.com",
+"href": "mailto:press@johndeatonforsenate.com"
+},
+{
+"text": "social security",
+"href": "https://www.johndeatonforsenate.com/issues#socialsecurity"
+}
 ]

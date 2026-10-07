@@ -1,4 +1,6 @@
-My November opponent and her allies will make SB 200 a campaign issue this fall.
+Meet Cory The Record Issues The 52 Report Donate Stand With Cory in November Meet Cory The Record Issues The 52 Report Donate Contact Stand With Cory in November ← The 52 Report Apr 20, 2026 · Elections They Called It Gerrymandering.
+Then a Judge Drew the Map.
+By Representative Cory Maloy Share Link copied My November opponent and her allies will make SB 200 a campaign issue this fall.
 That’s fine.
 I voted for it.
 I’m proud of it.
@@ -22,8 +24,7 @@ SB 200 was that defense.
 When one branch overreaches, the other branches have a duty to push back through every legitimate constitutional means available.
 That is not obstruction.
 That is the system working as designed.
-What Prop 4 Actually Was
-In 2018, Utah voters passed Proposition 4, also called “Better Boundaries,” by a margin of 50.3% to 49.7%.
+What Prop 4 Actually Was In 2018, Utah voters passed Proposition 4, also called “Better Boundaries,” by a margin of 50.3% to 49.7%.
 Less than one percent.
 It was one of the closest initiative votes in state history (1).
 The measure created an independent redistricting commission to recommend congressional and state legislative district maps to the Legislature.
@@ -34,8 +35,7 @@ That context matters when assessing the margin.
 Prop 4’s proponents described it as a straightforward good-government reform.
 Critics, including the official arguments published in the Utah Voter Information Pamphlet, raised a different concern: that Prop 4 was deliberately designed to invite litigation and eventually result in courts drawing district boundaries rather than elected legislators.
 In hindsight, that concern proved prescient.
-The Constitutional Problem No One Wants to Talk About
-The Utah Constitution is explicit.
+The Constitutional Problem No One Wants to Talk About The Utah Constitution is explicit.
 It states that the Legislature “shall divide the state into congressional, legislative and other districts.” That is not ambiguous language.
 Redistricting authority in Utah belongs to the Legislature as a constitutional matter.
 Prop 4, as originally written, created what the Legislature’s attorneys and legislators themselves described as a “constitutional conundrum.” The initiative didn’t just recommend a process.
@@ -43,28 +43,22 @@ It imposed binding standards on the Legislature and created enforcement mechanis
 The Legislature’s concern was not that it wanted to gerrymander.
 The concern was that Prop 4 as written would set up a situation where unelected judges, not the Legislature, would ultimately draw the maps.
 Senator Curtis Bramble, the bill’s Senate sponsor, said it plainly: “Better Boundaries had a vision and a goal they wanted to accomplish.
-The Legislature had a constitutional prerogative that we wanted to protect.”(2)
-That is not a statement of bad faith toward voters.
+The Legislature had a constitutional prerogative that we wanted to protect.”(2) That is not a statement of bad faith toward voters.
 That is a statement of constitutional responsibility.
-SB 200 Was a Negotiated Compromise, Not a Repeal
-Here is the part the opposition will never tell you.
+SB 200 Was a Negotiated Compromise, Not a Repeal Here is the part the opposition will never tell you.
 SB 200 was not dreamed up in a back room by Republican legislators trying to nullify a voter initiative.
 It was the product of more than a year of direct negotiations between the Legislature and Better Boundaries, the very organization that wrote and campaigned for Prop 4.
 Those negotiations were heated, broke down at least once, and ultimately produced a bill that Better Boundaries publicly and fully endorsed.
-(3)
-Better Boundaries co-chairman Jeff Wright stood at a joint press conference with legislators when the bill was unveiled and said: “Not everybody got everything they wanted, but that’s the democratic process.” (4) Better Boundaries executive director Rebecca Chavez-Houck, herself a former Democratic state legislator, said the compromise maintained the core principles of Prop 4 and acknowledged that her organization conceded on the constitutional questions in order to preserve the commission.
-(5)
-The House floor sponsor of SB 200 was Rep.
+(3) Better Boundaries co-chairman Jeff Wright stood at a joint press conference with legislators when the bill was unveiled and said: “Not everybody got everything they wanted, but that’s the democratic process.” (4) Better Boundaries executive director Rebecca Chavez-Houck, herself a former Democratic state legislator, said the compromise maintained the core principles of Prop 4 and acknowledged that her organization conceded on the constitutional questions in order to preserve the commission.
+(5) The House floor sponsor of SB 200 was Rep.
 Carol Spackman Moss, a Democrat from Holladay.
-House Minority Leader Brian King, also a Democrat, spoke in favor of the bill on the House floor, saying it maintained the “core of what we’re looking for” and represented “a significant improvement over the status quo.” (6)
-The final House vote was 67 to 4.
+House Minority Leader Brian King, also a Democrat, spoke in favor of the bill on the House floor, saying it maintained the “core of what we’re looking for” and represented “a significant improvement over the status quo.” (6) The final House vote was 67 to 4.
 The Senate vote was 25 to 0.
 This was not a partisan power grab.
 It was one of the most broadly supported bills of that session.
 I voted yes.
 I am not apologizing for it.
-What SB 200 Actually Did
-SB 200 preserved the independent redistricting commission created by Prop 4 and funded it with $1 million.
+What SB 200 Actually Did SB 200 preserved the independent redistricting commission created by Prop 4 and funded it with $1 million.
 It maintained requirements that the commission draw maps based on nonpartisan criteria.
 What it changed was this: it made the commission’s maps advisory to the Legislature rather than binding.
 It removed a requirement that the Legislature publicly explain its reasons for rejecting commission maps.
@@ -73,8 +67,7 @@ To critics on the progressive left, those were significant walkbacks.
 To the Legislature and to Better Boundaries itself at the time, they were reasonable accommodations of a genuine constitutional tension.
 The Utah Constitution says the Legislature draws the maps.
 SB 200 tried to honor what voters wanted while not surrendering the Legislature’s constitutional authority to a commission or, ultimately, to the courts.
-What Happened Next
-The commission did its work after the 2020 census.
+What Happened Next The commission did its work after the 2020 census.
 It proposed maps.
 The Legislature largely set them aside and drew its own congressional map, dividing Salt Lake County among four congressional districts.
 Critics argued the map cracked Democratic-leaning voters across districts.
@@ -85,8 +78,7 @@ In July 2024, the Utah Supreme Court unanimously ruled that voter-approved gover
 (7) In August 2025, the trial court applied that framework and ruled SB 200 unconstitutional, reinstated Prop 4, and ordered new congressional maps for the 2026 elections.
 The Legislature passed new maps in a special session.
 The court rejected those as well and implemented a plaintiff-drawn map creating one Democratic-leaning congressional district in Salt Lake County and three Republican-leaning districts elsewhere in the state.
-My Position Today
-As long as I hold public office I will follow the law as it stands.
+My Position Today As long as I hold public office I will follow the law as it stands.
 That is not the same thing as agreeing with every ruling.
 I believe in an independent judiciary.
 I believe in the separation of powers.
@@ -131,8 +123,7 @@ And the Legislature’s constitutional argument was serious enough that it took 
 What my opponents want to turn into a scandal is actually a story about how representative government is supposed to function: competing interests, genuine constitutional questions, good-faith negotiation, a bipartisan compromise, and a court that, in my view, went further than the constitution authorizes.
 Reasonable people can disagree about where that line is.
 I have been clear about where I stand.
-Why This Matters for District 52
-This entire fight has been about congressional redistricting, the four seats Utah sends to the U.S.
+Why This Matters for District 52 This entire fight has been about congressional redistricting, the four seats Utah sends to the U.S.
 House of Representatives.
 It has nothing to do with state legislative districts.
 District 52, the seat I hold and am asking you to let me continue holding, was not part of this lawsuit.
@@ -153,27 +144,33 @@ It is what I will keep doing.
 Rep.
 Cory Maloy represents House District 52, which covers Lehi west of I-15, a portion of American Fork, and a portion of Saratoga Springs.
 He chairs the House Business, Labor, and Commerce Committee.
-Sources
-1.
-Ballotpedia, “Utah Proposition 4, Independent Advisory Commission on Redistricting Initiative (2018).” ballotpedia.org/Utah_Proposition_4
-2.
-Deseret News, “Better Boundaries, Legislature present compromise on redistricting,” February 27, 2020. deseret.com — Feb. 27, 2020
-3.
-KSL.com, “Better Boundaries, Legislature present compromise on redistricting,” February 28, 2020. ksl.com/article/46723302
-4.
+Sources 1.
+Ballotpedia, “Utah Proposition 4, Independent Advisory Commission on Redistricting Initiative (2018).” ballotpedia.org/Utah_Proposition_4 2.
+Deseret News, “Better Boundaries, Legislature present compromise on redistricting,” February 27, 2020. deseret.com — Feb.
+27, 2020 3.
+KSL.com, “Better Boundaries, Legislature present compromise on redistricting,” February 28, 2020. ksl.com/article/46723302 4.
 Deseret News, February 27, 2020.
 See note 2.
 5.
-Salt Lake Tribune, “Anti-gerrymandering compromise garners unanimous support from Utah Senate,” March 4, 2020. sltrib.com — March 4, 2020
-6.
-Deseret News, “Utah Legislature approves Better Boundaries deal,” March 11, 2020. deseret.com — March 11, 2020
-7.
+Salt Lake Tribune, “Anti-gerrymandering compromise garners unanimous support from Utah Senate,” March 4, 2020. sltrib.com — March 4, 2020 6.
+Deseret News, “Utah Legislature approves Better Boundaries deal,” March 11, 2020. deseret.com — March 11, 2020 7.
 Utah Supreme Court, League of Women Voters v.
 Utah State Legislature, July 11, 2024.
 8.
-Utah News Dispatch, “Utah Supreme Court hands big win to plaintiffs in anti-gerrymandering lawsuit,” July 11, 2024. utahnewsdispatch.com — July 11, 2024
-9.
-Utah News Dispatch, “Judge orders Utah Legislature to draw new congressional maps,” August 25, 2025. utahnewsdispatch.com — Aug. 25, 2025
+Utah News Dispatch, “Utah Supreme Court hands big win to plaintiffs in anti-gerrymandering lawsuit,” July 11, 2024. utahnewsdispatch.com — July 11, 2024 9.
+Utah News Dispatch, “Judge orders Utah Legislature to draw new congressional maps,” August 25, 2025. utahnewsdispatch.com — Aug.
+25, 2025 © # Albert Cory Maloy.
+All rights reserved.
+Cory Maloy™ and the Cory Maloy campaign logo are trademarks of Albert Cory Maloy.
+Paid for by the Campaign to Elect Cory Maloy.
+Share Link copied ← To the Delegates of House District 52.
+They Answered the Call: A D-Day Tribute, 82 Years Later → Search Posts Recent Posts Sep 28, 2026 Utah Education Funding Is Up.
+Reading Isn't.
+Sep 28, 2026 School Choice in Utah Starts with the Parent Sep 11, 2026 A Day of Infamy at 25, and a Year Without Charlie Kirk Sep 8, 2026 My Principles Made Me a Republican.
+Not the Other Way Around.
+Jun 8, 2026 Where I Stand on the Stratos Data Center in Box Elder County Categories Community 4 Education 2 Elections 8 Legislation 36 Opinion 1 Popular Tags #Elections 27 #Education 19 #Budget 15 #Taxes 13 #Convention 12 #Growth 11 #Second Amendment 10 #Transparency 10 #Public Safety 8 #Water 8 #Healthcare 6 #Energy 5 #Housing 5 #Life 3 #Data Centers 2 #HB 120 2 #HB 143 2 #HB 146 2 #HB 180 2 #HB 184 2 District 52 Needs a Proven Conservative Voice at the Table.
+Stand With Cory in November Cory Maloy ™ Utah Values.
+Firmly Defended. [email protected] 801-477-0019 (call or text) Republican · Utah House District 52 The Campaign Meet Cory The Record Issues The 52 Report Blog Contact Stand Firm Stand With Cory in November Volunteer Donate © #–# Albert Cory Maloy.
 All rights reserved.
 Cory Maloy™ and the Cory Maloy campaign logo are trademarks of Albert Cory Maloy.
 Paid for by the Campaign to Elect Cory Maloy.

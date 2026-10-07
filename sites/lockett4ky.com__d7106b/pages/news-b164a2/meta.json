@@ -1,11 +1,14 @@
 {
  "description": "Matt Lockett in the News",
  "final_url": "https://www.lockett4ky.com/news",
+ "fingerprint": "f41e4a09b4d10f7d2470756603e05866e1f095c3",
+ "format": 3,
  "paid_for_by": "Paid for by Matt Lockett for State Representative Powered by CampaignPartner",
  "title": "Campaign News",
  "years_mentioned": [
   "2021",
   "2022",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

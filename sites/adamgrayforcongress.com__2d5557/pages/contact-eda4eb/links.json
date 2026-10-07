@@ -1,12 +1,50 @@
 [
-"https://adamgrayforcongress.com/",
-"https://adamgrayforcongress.com/about",
-"https://adamgrayforcongress.com/issues",
-"https://adamgrayforcongress.com/media",
-"https://adamgrayforcongress.com/news",
-"https://adamgrayforcongress.com/privacy-policy",
-"https://facebook.com/AdamGrayForCongress",
-"https://instagram.com/adamgrayca",
-"https://secure.actblue.com/donate/graywebsite",
-"https://x.com/adamgrayca"
+{
+"text": "About",
+"href": "https://www.adamgrayforcongress.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/graywebsite"
+},
+{
+"text": "Issues",
+"href": "https://www.adamgrayforcongress.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.adamgrayforcongress.com/media"
+},
+{
+"text": "News",
+"href": "https://www.adamgrayforcongress.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.adamgrayforcongress.com/privacy-policy"
+},
+{
+"text": "[image: Adam Gray for Congress]",
+"href": "https://www.adamgrayforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/AdamGrayForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/adamgrayca"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/adamgrayca"
+},
+{
+"text": "info@AdamGrayforCongress.com",
+"href": "mailto:info@AdamGrayforCongress.com"
+},
+{
+"text": "press@adamGrayforCongress.com",
+"href": "mailto:press@adamGrayforCongress.com"
+}
 ]

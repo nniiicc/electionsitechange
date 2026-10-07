@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://bakerforohio.com/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "eb53fd6a3e564bc7ee7d3b5d793457658749189f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": []
 }

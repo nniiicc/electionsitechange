@@ -1,4 +1,2 @@
-Jules Gets it Done for HD37 and Oregon
-Sign up for her newsletter
-As your State Representative, she stopped tolling in Clackamas County, provided funding for local housing and infrastructure projects, and supported Oregonians in recovery.
-She understands that skyrocketing prices are not sustainable and has worked to lower the cost of groceries, housing, health care and child care to help families make ends meet.
+0 Skip to Content About Issues Endorsements Yard Signs Volunteer DONATE Open Menu Close Menu About Issues Endorsements Yard Signs Volunteer DONATE Open Menu Close Menu About Issues Endorsements Yard Signs Volunteer DONATE Jules Gets it Done for HD37 and Oregon Sign up for her newsletter As your State Representative, she stopped tolling in Clackamas County, provided funding for local housing and infrastructure projects, and supported Oregonians in recovery.
+She understands that skyrocketing prices are not sustainable and has worked to lower the cost of groceries, housing, health care and child care to help families make ends meet. © #-# Jules Walters for State Representative Home About Jules The Issues Paid for by Friends of Jules Walters 19369

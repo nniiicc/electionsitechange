@@ -1,48 +1,8 @@
-Newsroom
-— FEATURED —
-CAMPAIGN NEWS — August 17, 2026
-DAVIS VANGUARD — August 17, 2026
-Campaign News
-In The News
-Daily Democrat - September 14, 2026
-Eric Jones calls for regulation of Flock camera network
-Vanguard News Group - September 14, 2026
-Congressional Candidate Eric Jones Calls for Federal Limits on Flock Surveillance Network
-Davis Enterprise - September 8, 2026
-League of Women Voters sets election forums
-Appeal Democrat - September 1, 2026
-Jones, Thompson speak out against data centers at Yuba-Sutter Farm Bureau forum
-The Sacramento Bee — August 17, 2026
-California Democrat gains backing of former GOP opponent in race for Congress
-Davis Vanguard — August 17, 2026
-Eric Jones Calls for a New Politics to Fight Corruption, Corporate Power and Rising Costs
-The Sacramento Bee — July 23, 2026
-Political newcomer Eric Jones challenges incumbent Mike Thompson to 9 debates
-The Sacramento Bee — June 12, 2026
-California’s 4th District race will be a November face-off between two Democrats
-Appeal Democrat — April 28, 2026
-Napa Valley Register — April 22, 2026
-Well-heeled challenger targets Mike Thompson
-Davis Vanguard — April 18, 2026
-Eric Jones Campaign Nears $3.3 Million, Claims Driven Entirely by Individual Donors
-Daily Democrat — April 5, 2026
-Eric Jones seeks to provide ‘American Dream’ in U.S.
-House
-Davis Enterprise — March 31, 2026
-Jones aims to take real-life experiences to Congress
-Sacramento Bee — March 27, 2026
-Worlds collide as wine-country Dems vie for conservative Yuba-Sutter voters
-Davis Vanguard — March 14, 2026
-Yolo County Pride Democratic Club Endorses Eric Jones for Congress
-Davis Enterprise — March 06, 2026
-Jones takes Indivisible Yolo straw poll after forum
-Davis Vanguard — January 29, 2026
-Op-ed | What I Saw in Minneapolis Should Alarm Every American
-US Term Limits — December 12, 2025
-Eric Jones Pledges to Support Congressional Term Limits
-Politico — December 01, 2025
-Democrats’ path back to power is littered with primaries
-Axios — October 16, 2025
-Older Democrats are getting crushed in the cash wars
-The Press Democrat — September 09, 2025
-Why rival Democrat Eric Jones thinks he can unseat Mike Thompson, North Bay’s senior congressman
+0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Newsroom — FEATURED — CAMPAIGN NEWS — August 17, 2026 Republican Primary Candidate Crosses Party Lines to Endorse Democrat Eric Jones, Leads Project to Mobilize Disenfranchised Voters in CA-04 DAVIS VANGUARD — August 17, 2026 Eric Jones Calls for a New Politics to Fight Corruption, Corporate Power and Rising Costs ABOUT ERIC & WHY HE’S RUNNING WATCH THE ‘NEW LEADERSHIP’ CAMPAIGN VIDEO VIEW OUR YOUTUBE CHANNEL FEATURED INSTAGRAM LINKS PG&E Corruption & Price Hikes Taking the Political Integrity Pledge Corporations Shouldn’t Own Starter Homes My Opponent Calling Democracy “A Disaster” Campaign News Featured August 25, 2026 Eric Jones Releases Comprehensive Agriculture and Water Platform Ahead of Farm Bureau Forum August 25, 2026 Read more → August 25, 2026 August 20, 2026 Eric Jones Accepts KCRA Debate Invitation, Calls on Thompson to Do the Same August 20, 2026 Read more → August 20, 2026 August 17, 2026 Republican Primary Candidate Crosses Party Lines to Endorse Democrat Eric Jones August 17, 2026 Read more → August 17, 2026 July 22, 2026 Eric Jones Challenges Mike Thompson to Debate in All Nine Counties of the District July 22, 2026 Read more → July 22, 2026 July 22, 2026 Letter to Thompson’s Campaign Issuing a Debate Challenge July 22, 2026 Dear Rep.
+Thompson, I'm writing to formally invite you to a series of debates ahead of the November election.
+We're proposing: Nine in-person debates, one in each county of the district.
+Every community in this newly drawn district deserves the same access to both candidates, not just the counties Congressman Thompson has represented for years.
+At least one televised debate for voters who aren't able to attend any of the in-person events, so that no one in the district is left out of the conversation.
+Read more → July 22, 2026 June 12, 2026 Eric Jones Advances to November General Election June 12, 2026 Read more → June 12, 2026 April 30, 2026 Statement on endorsement from the American Independent Party April 30, 2026 Read more → April 30, 2026 April 15, 2026 Eric Jones Campaign Tops $# Million Raised, With Nearly $# Million Cash on Hand — Powered by People, Not Special Interests April 15, 2026 Read more → April 15, 2026 March 19, 2026 ERIC JONES CONTINUES NEW DAY TOUR WITH NAPA TOWN HALL March 19, 2026 Read more → March 19, 2026 VIEW ALL CAMPAIGN NEWS In The News Daily Democrat - September 14, 2026 Eric Jones calls for regulation of Flock camera network Vanguard News Group - September 14, 2026 Congressional Candidate Eric Jones Calls for Federal Limits on Flock Surveillance Network Davis Enterprise - September 8, 2026 League of Women Voters sets election forums Appeal Democrat - September 1, 2026 Jones, Thompson speak out against data centers at Yuba-Sutter Farm Bureau forum The Sacramento Bee — August 17, 2026 California Democrat gains backing of former GOP opponent in race for Congress Davis Vanguard — August 17, 2026 Eric Jones Calls for a New Politics to Fight Corruption, Corporate Power and Rising Costs The Sacramento Bee — July 23, 2026 Political newcomer Eric Jones challenges incumbent Mike Thompson to 9 debates The Sacramento Bee — June 12, 2026 California’s 4th District race will be a November face-off between two Democrats Appeal Democrat — April 28, 2026 Congressional candidate Eric Jones, running to represent part of Yuba-Sutter, argues ‘The American dream is for everyone’ Napa Valley Register — April 22, 2026 Well-heeled challenger targets Mike Thompson Davis Vanguard — April 18, 2026 Eric Jones Campaign Nears $# Million, Claims Driven Entirely by Individual Donors Daily Democrat — April 5, 2026 Eric Jones seeks to provide ‘American Dream’ in U.S.
+House Davis Enterprise — March 31, 2026 Jones aims to take real-life experiences to Congress Sacramento Bee — March 27, 2026 Worlds collide as wine-country Dems vie for conservative Yuba-Sutter voters Davis Vanguard — March 14, 2026 Yolo County Pride Democratic Club Endorses Eric Jones for Congress Davis Enterprise — March 06, 2026 Jones takes Indivisible Yolo straw poll after forum Davis Vanguard — January 29, 2026 Op-ed | What I Saw in Minneapolis Should Alarm Every American US Term Limits — December 12, 2025 Eric Jones Pledges to Support Congressional Term Limits Politico — December 01, 2025 Democrats’ path back to power is littered with primaries Axios — October 16, 2025 Older Democrats are getting crushed in the cash wars The Press Democrat — September 09, 2025 Why rival Democrat Eric Jones thinks he can unseat Mike Thompson, North Bay’s senior congressman Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+No corporate PAC or special interest money accepted.

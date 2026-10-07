@@ -1,24 +1,9 @@
-Ming Zhang for MA state senate
-Worcester & middlesex
-Under construction
-Votemingzhang Accessibility Statement
-Under construction
-WEB ACCESSIBILITY FOR ALL
-At Votemingzhang, we are committed to making our website accessible to everyone, including those with disabilities.
+top of page Ming Zhang for MA state senate Worcester & middlesex Log In Home News About Get Involved Contact Under construction Votemingzhang Accessibility Statement Under construction WEB ACCESSIBILITY FOR ALL At Votemingzhang, we are committed to making our website accessible to everyone, including those with disabilities.
 We strive to ensure that all visitors can access and enjoy our site with ease.
-OUR ACCESSIBILITY EFFORTS
-We have taken steps to align our website with the Web Content Accessibility Guidelines (WCAG) [2.0 / 2.1 / 2.2 - select relevant option] to ensure accessibility to the level of [A / AA / AAA - select relevant option].
-Our efforts include adapting the site for use with assistive technologies, such as screen readers, and making various adjustments:
-- Under construction
-Under construction
-Under construction
-COMMITMENT TO ACCESSIBILITY
-At Votemingzhang, we are dedicated to ensuring accessibility in all aspects of our operations.
+OUR ACCESSIBILITY EFFORTS We have taken steps to align our website with the Web Content Accessibility Guidelines (WCAG) [2.0 / 2.1 / 2.2 - select relevant option] to ensure accessibility to the level of [A / AA / AAA - select relevant option].
+Our efforts include adapting the site for use with assistive technologies, such as screen readers, and making various adjustments: Under construction Under construction Under construction COMMITMENT TO ACCESSIBILITY At Votemingzhang, we are dedicated to ensuring accessibility in all aspects of our operations.
 We have implemented comprehensive accessibility arrangements in our physical offices to accommodate individuals with disabilities.
 Our commitment extends to providing accessible services and facilities for all.
-GET IN TOUCH
-For any accessibility concerns or assistance, please reach out to our accessibility coordinator:
-[Name of the accessibility coordinator]
-[Telephone number of the accessibility coordinator]
-[Email address of the accessibility coordinator]
-[Enter any additional contact details if relevant / available]
+GET IN TOUCH For any accessibility concerns or assistance, please reach out to our accessibility coordinator: [Name of the accessibility coordinator] [Telephone number of the accessibility coordinator] [Email address of the accessibility coordinator] [Enter any additional contact details if relevant / available] ​Support Our Cause When making a donation, please make sure that you are:​​ - At least eighteen years old. - The contribution is made from your own funds, and funds are not being provided to you by another person or entity for the purpose of making this contribution. - You are a U.S. citizen or permanent resident. - You are responsible for paying all charges incurred in using the debit or credit card to be charged, and that your personal funds will be the true source of the contribution. - You are making this contribution with your own personal credit card and not with a corporate or business credit card or a card issue to another person.
+Frequency One time One time Monthly Monthly Amount $10 $10 $50 $50 $100 $100 $200 $200 Other Other Donate $10 Monthly Newsletters Newsletter - April Issue 20 Hampshire Road Wayland, MA 01778.
+Newsletter - May Issue Newsletter - June Issue Newsletter - July Issue Newsletter - August Issue Home About Me Get Involved Contact Ming Zhang - FOR STATE SENATE- Terms & Conditions Privacy Policy Accessibility Statement ​ Zhang Committee, ngdddd Westford, MA 01886 mingzhang.for2026@gmail.com 617-460-1538 bottom of page

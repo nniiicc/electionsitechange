@@ -1,14 +1,70 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/datacenter/the-fix.html",
-"https://andycantwin.com/index.html",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/volunteer.html",
-"https://andycantwin.com/what-id-do.html",
-"https://andycantwin.com/workshop",
-"https://facebook.com/andycantwin",
-"https://games.andycantwin.com/codeblue",
-"https://games.andycantwin.com/teacherrun",
-"https://instagram.com/andycantwin",
-"https://secure.actblue.com/donate/andybowline"
+{
+"text": "$$$ Deep dive Data Centers: Cool. What Do We Get? →",
+"href": "https://andycantwin.com/datacenter/the-fix.html"
+},
+{
+"text": "03",
+"href": "https://andycantwin.com/index.html"
+},
+{
+"text": "04 Next up What I'll Do →",
+"href": "https://andycantwin.com/what-id-do.html"
+},
+{
+"text": "Bored?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "Read the full plan →",
+"href": "https://andycantwin.com/what-id-do.html#corporate"
+},
+{
+"text": "Read the full plan →",
+"href": "https://andycantwin.com/what-id-do.html#costliving"
+},
+{
+"text": "Read the full plan →",
+"href": "https://andycantwin.com/what-id-do.html#education"
+},
+{
+"text": "Read the full plan →",
+"href": "https://andycantwin.com/what-id-do.html#healthcare"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "Tinkering",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "🍎 Play the game Teacher Run →",
+"href": "https://games.andycantwin.com/teacherrun"
+},
+{
+"text": "🚑 Play the game Code Blue →",
+"href": "https://games.andycantwin.com/codeblue"
+}
 ]

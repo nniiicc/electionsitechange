@@ -1,12 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61588520167831",
-"https://friendsofianchamberlin.com/",
-"https://friendsofianchamberlin.com/about-1",
-"https://friendsofianchamberlin.com/cart",
-"https://friendsofianchamberlin.com/contact",
-"https://friendsofianchamberlin.com/issues",
-"https://friendsofianchamberlin.com/privacy-policy",
-"https://instagram.com/friendsofianchamberlin",
-"https://secure.winred.com/friends-of-ian-chamberlin/donate-today",
-"https://x.com/FriendsOfIanC"
+{
+"text": "0",
+"href": "https://www.friendsofianchamberlin.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.friendsofianchamberlin.com/about-1"
+},
+{
+"text": "Contact",
+"href": "https://www.friendsofianchamberlin.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-ian-chamberlin/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.friendsofianchamberlin.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.friendsofianchamberlin.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.friendsofianchamberlin.com/privacy-policy"
+},
+{
+"text": "[image: Friends of Ian Chamberlin]",
+"href": "https://www.friendsofianchamberlin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588520167831"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/friendsofianchamberlin/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/FriendsOfIanC"
+}
 ]

@@ -1,29 +1,138 @@
 [
-"http://benwest.us/terms-and-conditions",
-"https://accessibility-helper.co.il/",
-"https://angela4oregon.com/",
-"https://angela4oregon.com/about",
-"https://angela4oregon.com/cart",
-"https://angela4oregon.com/communitysupport",
-"https://angela4oregon.com/contact-page",
-"https://angela4oregon.com/donation-form",
-"https://angela4oregon.com/event-sign-up",
-"https://angela4oregon.com/press",
-"https://angela4oregon.com/priorities",
-"https://angela4oregon.com/privacypolicy",
-"https://angela4oregon.com/product/angela-plowhead-campaign-accent-mug-red-interior-handle",
-"https://angela4oregon.com/product/car-magnet",
-"https://angela4oregon.com/product/lets-fix-this-spiral-notebook",
-"https://angela4oregon.com/product/t-shirt-lets-fix-this",
-"https://angela4oregon.com/product/tote-bag-lets-fix-this-angela-plowhead",
-"https://angela4oregon.com/request-yard-sign",
-"https://angela4oregon.com/share-your-story",
-"https://angela4oregon.com/terms-and-conditions",
-"https://angela4oregon.com/volunteer-sign-up",
-"https://burnettmediagroup.com/",
-"https://facebook.com/angela4oregon",
-"https://hostdoodle.com/",
-"https://instagram.com/angelafororegon",
-"https://secure.anedot.com/angelafororegon/donate",
-"https://x.com/angelafororegon"
+{
+"text": "About",
+"href": "https://angela4oregon.com/about/"
+},
+{
+"text": "Accessibility by WAH",
+"href": "https://accessibility-helper.co.il/"
+},
+{
+"text": "Burnett Media Group",
+"href": "https://www.burnettmediagroup.com/"
+},
+{
+"text": "Contact",
+"href": "https://angela4oregon.com/contact-page/"
+},
+{
+"text": "Contact Angela",
+"href": "https://angela4oregon.com/contact-page/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/angelafororegon/donate"
+},
+{
+"text": "Donate",
+"href": "https://angela4oregon.com/donation-form/"
+},
+{
+"text": "Email:Communications@angela4oregon.com",
+"href": "mailto:Communications@angela4oregon.com"
+},
+{
+"text": "Event Sign-Up",
+"href": "https://angela4oregon.com/event-sign-up/"
+},
+{
+"text": "Events",
+"href": "https://angela4oregon.com/event-sign-up/"
+},
+{
+"text": "Hostdoodle",
+"href": "https://www.hostdoodle.com"
+},
+{
+"text": "News",
+"href": "https://angela4oregon.com/press/"
+},
+{
+"text": "Newsletter",
+"href": "https://angela4oregon.com/#newsletter"
+},
+{
+"text": "Priorities",
+"href": "https://angela4oregon.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://angela4oregon.com/privacypolicy/"
+},
+{
+"text": "Share Your Story",
+"href": "https://angela4oregon.com/share-your-story/"
+},
+{
+"text": "Site:www.Angela4Oregon.com",
+"href": "https://www.angela4oregon.com"
+},
+{
+"text": "Support",
+"href": "https://angela4oregon.com/communitysupport/"
+},
+{
+"text": "Terms and Conditions",
+"href": "http://benwest.us/terms-and-conditions/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://angela4oregon.com/terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://angela4oregon.com/volunteer-sign-up/"
+},
+{
+"text": "Yard Sign",
+"href": "https://angela4oregon.com/request-yard-sign/"
+},
+{
+"text": "[image: Angela Plowhead Campaign Accent Mug — Red Interior & Handle]Angela Plowhead Campaign Accent Mug — Red Interior & Handle $15.56 – $17.28Price range: $15.56 through $17.28",
+"href": "https://angela4oregon.com/product/angela-plowhead-campaign-accent-mug-red-interior-handle/"
+},
+{
+"text": "[image: Car Magnet]Car Magnet $3.90 – $5.14Price range: $3.90 through $5.14",
+"href": "https://angela4oregon.com/product/car-magnet/"
+},
+{
+"text": "[image: Let's Fix This Spiral Notebook]Let’s Fix This Spiral Notebook $10.36",
+"href": "https://angela4oregon.com/product/lets-fix-this-spiral-notebook/"
+},
+{
+"text": "[image: T-Shirt — \"Let’s Fix This\"]T-Shirt — “Let’s Fix This” $15.51 – $22.08Price range: $15.51 through $22.08",
+"href": "https://angela4oregon.com/product/t-shirt-lets-fix-this/"
+},
+{
+"text": "[image: Tote Bag — “Let’s Fix This” Angela Plowhead]Tote Bag — “Let’s Fix This” Angela Plowhead $15.48 – $21.11Price range: $15.48 through $21.11",
+"href": "https://angela4oregon.com/product/tote-bag-lets-fix-this-angela-plowhead/"
+},
+{
+"text": "[image: logo]",
+"href": "https://angela4oregon.com"
+},
+{
+"text": "[image]",
+"href": "https://angela4oregon.com"
+},
+{
+"text": "[no text]",
+"href": "https://angela4oregon.com/cart/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/angela4oregon"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/angelafororegon/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/angelafororegon"
+},
+{
+"text": "service_shop@hapigood.com",
+"href": "mailto:service_shop@hapigood.com"
+}
 ]

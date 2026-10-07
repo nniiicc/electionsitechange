@@ -1,34 +1,138 @@
 [
-"http:///",
-"https://addtoany.com/add_to/email?linkurl=https%3A%2F%2Florenlippincott.com%2Fnews%2F&linkname=News",
-"https://addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Florenlippincott.com%2Fnews%2F&linkname=News",
-"https://addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Florenlippincott.com%2Fnews%2F&linkname=News",
-"https://addtoany.com/share",
-"https://facebook.com/LorenLippincottNE",
-"https://lorenlippincott.com/",
-"https://lorenlippincott.com/about",
-"https://lorenlippincott.com/district-34",
-"https://lorenlippincott.com/get-involved",
-"https://lorenlippincott.com/issues",
-"https://lorenlippincott.com/lippincott-seeking-dist-34-senate-seat",
-"https://lorenlippincott.com/lippincott-wins-round-one-in-race-for-district-34-legislative-seat",
-"https://lorenlippincott.com/march-17-2023",
-"https://lorenlippincott.com/news",
-"https://lorenlippincott.com/real-top-gun-says-persistence-tenacity-needed-to-achieve-elite-ranking",
-"https://lorenlippincott.com/senator-lippincotts-weekly-column",
-"https://lorenlippincott.com/senator-lippincotts-weekly-column-10",
-"https://lorenlippincott.com/senator-lippincotts-weekly-column-11",
-"https://lorenlippincott.com/senator-lippincotts-weekly-column-12",
-"https://lorenlippincott.com/senator-lippincotts-weekly-column-13",
-"https://lorenlippincott.com/senator-lippincotts-weekly-column-14",
-"https://lorenlippincott.com/senator-lippincotts-weekly-column-2",
-"https://lorenlippincott.com/senator-lippincotts-weekly-column-3",
-"https://lorenlippincott.com/senator-lippincotts-weekly-column-4",
-"https://lorenlippincott.com/senator-lippincotts-weekly-column-5",
-"https://lorenlippincott.com/senator-lippincotts-weekly-column-6",
-"https://lorenlippincott.com/senator-lippincotts-weekly-column-7",
-"https://lorenlippincott.com/senator-lippincotts-weekly-column-8",
-"https://lorenlippincott.com/senator-lippincotts-weekly-column-9",
-"https://secure.winred.com/nebraskans-for-loren-lippincott-1d6ae1dd/donate-today",
-"https://youtube.com/channel/UCsD6T8-5_goGZxkurjCYbNw"
+{
+"text": "About",
+"href": "https://lorenlippincott.com/about/"
+},
+{
+"text": "District 34",
+"href": "https://lorenlippincott.com/district-34/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/nebraskans-for-loren-lippincott-1d6ae1dd/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://lorenlippincott.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://lorenlippincott.com/"
+},
+{
+"text": "Issues",
+"href": "https://lorenlippincott.com/issues/"
+},
+{
+"text": "Lippincott seeking Dist. 34 Senate seat",
+"href": "https://lorenlippincott.com/lippincott-seeking-dist-34-senate-seat/"
+},
+{
+"text": "Lippincott wins round one in race for District 34 legislative seat",
+"href": "https://lorenlippincott.com/lippincott-wins-round-one-in-race-for-district-34-legislative-seat/"
+},
+{
+"text": "News",
+"href": "https://lorenlippincott.com/news/"
+},
+{
+"text": "Senator Lippincott's Weekly Column",
+"href": "https://lorenlippincott.com/senator-lippincotts-weekly-column-10/"
+},
+{
+"text": "Senator Lippincott's Weekly Column",
+"href": "https://lorenlippincott.com/senator-lippincotts-weekly-column-11/"
+},
+{
+"text": "Senator Lippincott's Weekly Column",
+"href": "https://lorenlippincott.com/senator-lippincotts-weekly-column-12/"
+},
+{
+"text": "Senator Lippincott's Weekly Column",
+"href": "https://lorenlippincott.com/senator-lippincotts-weekly-column-13/"
+},
+{
+"text": "Senator Lippincott's Weekly Column",
+"href": "https://lorenlippincott.com/senator-lippincotts-weekly-column-14/"
+},
+{
+"text": "Senator Lippincott's Weekly Column",
+"href": "https://lorenlippincott.com/senator-lippincotts-weekly-column-2/"
+},
+{
+"text": "Senator Lippincott's Weekly Column",
+"href": "https://lorenlippincott.com/senator-lippincotts-weekly-column-3/"
+},
+{
+"text": "Senator Lippincott's Weekly Column",
+"href": "https://lorenlippincott.com/senator-lippincotts-weekly-column-4/"
+},
+{
+"text": "Senator Lippincott's Weekly Column",
+"href": "https://lorenlippincott.com/senator-lippincotts-weekly-column-5/"
+},
+{
+"text": "Senator Lippincott's Weekly Column",
+"href": "https://lorenlippincott.com/senator-lippincotts-weekly-column-6/"
+},
+{
+"text": "Senator Lippincott's Weekly Column",
+"href": "https://lorenlippincott.com/senator-lippincotts-weekly-column-7/"
+},
+{
+"text": "Senator Lippincott's Weekly Column",
+"href": "https://lorenlippincott.com/senator-lippincotts-weekly-column-8/"
+},
+{
+"text": "Senator Lippincott's Weekly Column",
+"href": "https://lorenlippincott.com/senator-lippincotts-weekly-column-9/"
+},
+{
+"text": "Senator Lippincott’s Weekly Column",
+"href": "https://lorenlippincott.com/march-17-2023/"
+},
+{
+"text": "Senator Lippincott’s Weekly Column",
+"href": "https://lorenlippincott.com/senator-lippincotts-weekly-column/"
+},
+{
+"text": "Share",
+"href": "https://www.addtoany.com/share"
+},
+{
+"text": "[image]",
+"href": "http://"
+},
+{
+"text": "[image]",
+"href": "https://lorenlippincott.com/"
+},
+{
+"text": "[no text]",
+"href": "http://"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LorenLippincottNE"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCsD6T8-5_goGZxkurjCYbNw"
+},
+{
+"text": "[tooltip: Email]",
+"href": "https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Florenlippincott.com%2Fnews%2F&linkname=News"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Florenlippincott.com%2Fnews%2F&linkname=News"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Florenlippincott.com%2Fnews%2F&linkname=News"
+},
+{
+"text": "‘Real’ Top Gun says persistence, tenacity needed to achieve elite ranking",
+"href": "https://lorenlippincott.com/real-top-gun-says-persistence-tenacity-needed-to-achieve-elite-ranking/"
+}
 ]

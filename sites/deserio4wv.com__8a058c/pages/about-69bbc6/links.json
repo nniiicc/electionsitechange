@@ -1,10 +1,42 @@
 [
-"https://constitutionpartywv.com/",
-"https://deserio4wv.com/",
-"https://deserio4wv.com/about",
-"https://deserio4wv.com/contact",
-"https://deserio4wv.com/vision",
-"https://deserio4wv.com/volunteer",
-"https://facebook.com/profile.php?id=61593171143691",
-"https://paypal.com/ncp/payment/X72EWDKN3X4XJ"
+{
+"text": "About",
+"href": "https://deserio4wv.com/about"
+},
+{
+"text": "Campaign Donation",
+"href": "https://www.paypal.com/ncp/payment/X72EWDKN3X4XJ"
+},
+{
+"text": "Contact",
+"href": "https://deserio4wv.com/contact"
+},
+{
+"text": "Home",
+"href": "https://deserio4wv.com/"
+},
+{
+"text": "Read Her Vision",
+"href": "https://deserio4wv.com/vision#platform-items"
+},
+{
+"text": "Vision",
+"href": "https://deserio4wv.com/vision"
+},
+{
+"text": "Volunteer",
+"href": "https://deserio4wv.com/volunteer"
+},
+{
+"text": "[image: Constitution Party of West Virginia logo has red and blue with an eagle three stars and the words life, liberty, integrity]",
+"href": "https://www.constitutionpartywv.com/"
+},
+{
+"text": "[image: DeSerio for WV HD-80 logo]",
+"href": "https://deserio4wv.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/profile.php?id=61593171143691"
+}
 ]

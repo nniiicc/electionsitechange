@@ -1,22 +1,98 @@
 [
-"https://bsky.app/profile/joemayesfortexas.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61584680458161",
-"https://instagram.com/joemayesfortexas",
-"https://joemayesfortexas.com/",
-"https://joemayesfortexas.com/about",
-"https://joemayesfortexas.com/contact",
-"https://joemayesfortexas.com/endorsements",
-"https://joemayesfortexas.com/events",
-"https://joemayesfortexas.com/news",
-"https://joemayesfortexas.com/volunteer",
-"https://secure.actblue.com/donate/joemayesfortexas",
-"https://sos.state.tx.us/",
-"https://threads.net/@joemayesfortexas",
-"https://votedenton.gov/",
-"https://votedenton.gov/election-day-information/current-and-upcoming-election-information",
-"https://votetexas.gov/register-to-vote/index.html",
-"https://wrm.capitol.texas.gov/fyiwebdocs/PDF/house/dist106/m1.pdf",
-"https://wrm.capitol.texas.gov/home",
-"https://x.com/JoeMayes4Texas"
+{
+"text": "About",
+"href": "https://www.joemayesfortexas.com/about"
+},
+{
+"text": "About Joe",
+"href": "https://www.joemayesfortexas.com/about"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://www.votetexas.gov/register-to-vote/index.html"
+},
+{
+"text": "Contact",
+"href": "https://www.joemayesfortexas.com/contact"
+},
+{
+"text": "Denton County Elections",
+"href": "https://www.votedenton.gov/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/joemayesfortexas"
+},
+{
+"text": "Early voting locations",
+"href": "https://www.votedenton.gov/election-day-information/current-and-upcoming-election-information/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.joemayesfortexas.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.joemayesfortexas.com/events"
+},
+{
+"text": "Find My Texas Representative",
+"href": "https://wrm.capitol.texas.gov/home"
+},
+{
+"text": "Find a Polling Place",
+"href": "https://www.votedenton.gov/election-day-information/current-and-upcoming-election-information/"
+},
+{
+"text": "Home",
+"href": "https://www.joemayesfortexas.com/"
+},
+{
+"text": "News",
+"href": "https://www.joemayesfortexas.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://www.votetexas.gov/register-to-vote/index.html"
+},
+{
+"text": "Texas Secretary of State",
+"href": "https://www.sos.state.tx.us/"
+},
+{
+"text": "View District Map",
+"href": "https://wrm.capitol.texas.gov/fyiwebdocs/PDF/house/dist106/m1.pdf"
+},
+{
+"text": "Volunteer",
+"href": "https://www.joemayesfortexas.com/volunteer"
+},
+{
+"text": "[image: Joe Mayes for Texas]",
+"href": "https://www.joemayesfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joemayesfortexas.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61584680458161"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/joemayesfortexas/"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@joemayesfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JoeMayes4Texas"
+}
 ]

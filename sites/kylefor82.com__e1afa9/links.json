@@ -1,11 +1,58 @@
 [
-"http://facebook.com/kylefor82",
-"https://kylefor82.com/",
-"https://kylefor82.com/donate",
-"https://kylefor82.com/election-information",
-"https://kylefor82.com/get-involved",
-"https://kylefor82.com/meet-kyle",
-"https://kylefor82.com/on-the-issues",
-"https://kylefor82.com/volunteer",
-"https://kylefor82.com/yard-sign-request"
+{
+"text": "Donate!",
+"href": "https://www.kylefor82.com/donate"
+},
+{
+"text": "ELECTION INFORMATION",
+"href": "https://www.kylefor82.com/election-information"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.kylefor82.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.kylefor82.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.kylefor82.com/on-the-issues"
+},
+{
+"text": "MEET KYLE",
+"href": "https://www.kylefor82.com/meet-kyle"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.kylefor82.com/yard-sign-request"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kylefor82.com/volunteer"
+},
+{
+"text": "YARD SIGN REQUEST",
+"href": "https://www.kylefor82.com/yard-sign-request"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/kylefor82"
+},
+{
+"text": "[image: Screen Shot 2020-07-03 at 1.48.26 PM cop]",
+"href": "https://www.kylefor82.com/volunteer"
+},
+{
+"text": "[image: Screen Shot 2020-07-03 at 1.49.15 PM.png]",
+"href": "https://www.kylefor82.com/yard-sign-request"
+},
+{
+"text": "[image: letter-2935365_1280.png]",
+"href": "https://www.kylefor82.com/election-information"
+},
+{
+"text": "millerfor82@gmail.com",
+"href": "mailto:millerfor82@gmail.com"
+}
 ]

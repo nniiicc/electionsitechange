@@ -1,4 +1,4 @@
-Who is Zach?
+top of page HOME About Connect Donate Who is Zach?
 Zach Mecham is an Iowa native who has managed to build a successful business, become an award-winning filmmaker, and travel the Midwest as a speaker and entertainer.
 He does all of this while navigating the world from his motorized wheelchair, and a super sexy minivan he calls “the swag wagon.” While Zach takes pride in where he is now, he’s committed to never forgetting where he came from.
 When he was 8, he lost his father to complications caused by drug abuse.
@@ -17,10 +17,15 @@ Zach’s goal is to make the kind of success he’s experienced possible for as 
 He wants to make sure that Iowans have access to the support structures and opportunities they need to thrive.
 He has done this through his work as a disability advocate and nonprofit professional.
 Now he wants to do it as an Iowa Senator.
-What Zach Believes
-Fighting for Hard-Working Iowans, Not for Special Interest.
+What Zach Believes Economic Fairness Education Clean Food and Water Public Supports Fighting for Hard-Working Iowans, Not for Special Interest.
 All over the state, hard-working Iowans are struggling to meet their most basic needs.
-Meanwhile, monopolies and Wall Street investors are buying up our resources and pricing out small businesses.
-- Iowa families should be able to buy Iowa businesses and Iowa land.
-- Large corporations shouldn’t be taxed less than Iowa households.
-- Good work deserves good pay and benefits.
+Meanwhile, monopolies and Wall Street investors are buying up our resources and pricing out small businesses. - Iowa families should be able to buy Iowa businesses and Iowa land. - Large corporations shouldn’t be taxed less than Iowa households. - Good work deserves good pay and benefits.
+Supporting The Institution That Supports All of Iowa's Kids As an Iowan with a disability, I am one of the many Iowans whom private schools want nothing to do with.
+I would not be where I am if it weren't for the public school system and the assistive technology I received through the AEA and my school's special education program.
+I will always be an advocate for the public school system because it refused to leave me and so many others behind. ​ - Public schools should be fully-funded. - Private schools receiving public dollars should be held to the same standard as public schools. - The AEA should have the funding it needs to fully support its students.
+Focused On a Healthier Iowa, Not Bigger Margins for the Biggest Corporations All over Iowa, local co-ops and grocery stores are being replaced by Dollar Generals and big ag.
+This is creating food deserts all over our state, and giving control of our farm land to companies that aren't effected by the environmental issues they create. - Every Iowan should have access to affordable, healthy food. - Iowa farmers should be supported in their work to prevent runoff. - Iowa farms should be owned and ran by Iowa families.
+Advocating for Iowa's Most Vulnerable, Not Iowa's Most Powerful Instead of advocating for big corporations and big tech, I intend to advocate for the Iowans who need it most.
+To be a voice for the ones that have been left behind and ignored.
+I will work tirelessly to ensure that they are being treated with dignity and respect. - Aging and disabled Iowans should be able to live in their communities. - Nursing homes, jails, and homeless shelters need better accountability. - All Iowans should have access to food and healthcare.
+Connect With Zach First name Last name Email Phone Address I'm Interested in: Updates Door Knocking Donating Event Support Making Calls Displaying Signs Submit bottom of page

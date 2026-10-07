@@ -1,33 +1,8 @@
-Embedded Files
-NEWS & SOCIAL MEDIA
-- Thus Spoke the Sages: Ayurveda on Environment and Dharma (download and listen to the talk).
-- Read Maryland's Constitution and learn about the Maryland General Assembly, legislation, budgeting, and more here.
-- Maryland's Legislative Process: a state guide from the Georgetown Law Library
-- Listen to the interview with Nancy Wallace, Green Party candidate for Maryland Governor.
-- Supreme Court curbs EPA’s ability to fight climate change (so we will have protect our own environment in Maryland)
-- Crops grown under solar panel arrays can grow better and need less watering, while the panels produce more electricity
-- Food Waste in America in 2022.
-A third of all food produced in the world is lost or wasted each year (1.3 billion tonnes)
-- Our local drinking water (WSSC Potomac Plant) contains 6 contaminants that exceed EWG guidelines (& 9 others).
-- A Look at Environmental Justice Issues in Maryland
-- 10 Billion Oysters for a Clean Chesapeake Bay: Chesapeake Oyster Alliance
-- Renaming Indian Head Highway seemed like a good idea.
-How did it go wrong?
-- Follow the path of a raindrop from anywhere in the watershed
-- Air Pollution in Maryland: The Invisible Threat
-- 2022 Juneteenth: Journey to Freedom.
-A celebration at the BlackRock Center for the Arts
-- Many Americans are scared of the Green New Deal.
-Learn the true story.
-- 'Forever chemicals’ found in more Maryland drinking water systems
-- Celebrate Chesapeake Bay Awareness Week
-- Support Grows for Lawsuit Over Conowingo Dam Pollution
-Share our campaign's information, website, and message via the social media links above.
+Search this site Embedded Files Skip to main content Skip to navigation Landman for Congress Home The Green Party 10 Key Values About Moshe Maryland The Issues News & Social Media The Green New Deal Documents & Evidence Vote & Support Us Contact Us Landman for Congress Home The Green Party 10 Key Values About Moshe Maryland The Issues News & Social Media The Green New Deal Documents & Evidence Vote & Support Us Contact Us More Home The Green Party 10 Key Values About Moshe Maryland The Issues News & Social Media The Green New Deal Documents & Evidence Vote & Support Us Contact Us Campaign to Elect Moshe Landman NEWS & SOCIAL MEDIA - Thus Spoke the Sages: Ayurveda on Environment and Dharma (download and listen to the talk). - Read Maryland's Constitution and learn about the Maryland General Assembly, legislation, budgeting, and more here . - Maryland's Legislative Process: a state guide from the Georgetown Law Library - Listen to the interview with Nancy Wallace, Green Party candidate for Maryland Governor . - Supreme Court curbs EPA’s ability to fight climate change (so we will have protect our own environment in Maryland) - Crops grown under solar panel arrays can grow better and need less watering, while the panels produce more electricity - Food Waste in America in 2022.
+A third of all food produced in the world is lost or wasted each year (1.3 billion tonnes) - Our local drinking water (WSSC Potomac Plant) contains 6 contaminants that exceed EWG guidelines (& 9 others). - A Look at Environmental Justice Issues in Maryland - 10 Billion Oysters for a Clean Chesapeake Bay: Chesapeake Oyster Alliance - Renaming Indian Head Highway seemed like a good idea.
+How did it go wrong? - Follow the path of a raindrop from anywhere in the watershed - Air Pollution in Maryland: The Invisible Threat - 2022 Juneteenth: Journey to Freedom.
+A celebration at the BlackRock Center for the Arts - Many Americans are scared of the Green New Deal.
+Learn the true story. - ' Forever chemicals’ found in more Maryland drinking water systems - Celebrate Chesapeake Bay Awareness Week - Support Grows for Lawsuit Over Conowingo Dam Pollution Share our campaign's information, website, and message via the social media links above.
 Please download the campaign summary image to the left, the digital yard sign and the email message pdf below, and share via any of your preferred social media outlets (no paper please, preserve the trees!).
-Campaign One Page Summary - Moshe Landman, US Congress, MD6.pdf
-This website, related communications, and solicitations are
-paid for by "The Campaign to Elect Moshe Y.
-Landman" (IRS EIN: 88-3270827)
-Page updated
-Google Sites
-Report abuse
+Campaign One Page Summary - Moshe Landman, US Congress, MD6.pdf © 202 4 Campaign to Elect Moshe Landman This website, related communications, and solicitations are paid for by "The Campaign to Elect Moshe Y.
+Landma n" (IRS EIN: 88-3270827 ) Google Sites Report abuse Page details Page updated Google Sites Report abuse

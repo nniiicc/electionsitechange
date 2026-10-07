@@ -1,22 +1,7 @@
-Los Angeles Times
-LA SENTINEL
-Exploring Future Growth in the 57th District with Highly Endorsed Candidate Sade Elhawary
-LA SENTINEL
-2 Urban Girls
-Asm.
-Tina McKinnor endorses in race to succeed Reggie Jones-Sawyer
-LA SENTINEL
-Elhawary Endorsed for Assembly by Leading L.A.-area Lawmakers
-California State Assembly Democratic Caucus
-LA Times
-For Black Angelenos, election of Karen Bass brings joy in a divisive time.
-But they want results
-California State Assembly Democratic Caucus
-Column: Amid the victory cheers, Bass knows she has her work cut out for her
-Unity Weekend
-Celebrating Harvard Alumni of Color: Unity Story Slam: Getting Real
-Community Coalition
-It’s Official, CoCo Owns 7514 S.
-Vermont — the Future Home of the Center for Community Organizing
-LA Times
-‘The music I grew up on’: For many Angelenos, halftime hip-hop show was Super Bowl MVP
+About Sade Priorities Media In the News Media Gallery About AD 57 Endorsements Volunteer Donate En español About Sade Priorities Media In the News Media Gallery About AD 57 Endorsements Volunteer Donate En español In the Press Los Angeles Times LA TIMES Endorsement: Sade Elhawary for State Assembly District 57 view more LA SENTINEL Exploring Future Growth in the 57th District with Highly Endorsed Candidate Sade Elhawary view more LA SENTINEL Young, Gifted & Black view more 2 Urban Girls Asm.
+Tina McKinnor endorses in race to succeed Reggie Jones-Sawyer view more LA SENTINEL Elhawary Endorsed for Assembly by Leading L.A.-area Lawmakers view more California State Assembly Democratic Caucus Jones-Sawyer Welcomes Sade Elhawary, Community Leader, as his Woman of the Year Honoree view more LA Times For Black Angelenos, election of Karen Bass brings joy in a divisive time.
+But they want results view more California State Assembly Democratic Caucus Column: Amid the victory cheers, Bass knows she has her work cut out for her view more Unity Weekend Celebrating Harvard Alumni of Color: Unity Story Slam: Getting Real view more Community Coalition It’s Official, CoCo Owns 7514 S.
+Vermont — the Future Home of the Center for Community Organizing view more LA Times ‘The music I grew up on’: For many Angelenos, halftime hip-hop show was Super Bowl MVP view more In the news Vitamin D September 20, 2022 Sade's First Impression of Congresswoman Karen Bass PAID FOR BY SADE ELHAWARY FOR ASSEMBLY 2024.
+FPPC ID #1458935.
+777 S.
+FIGUEROA ST., SUITE 4050, LOS ANGELES, CA 90017, 323-920-4416

@@ -1,8 +1,42 @@
 [
-"https://secure.actblue.com/donate/jim-vandyke-1",
-"https://vandyke4wyoming.com/",
-"https://vandyke4wyoming.com/contact",
-"https://vandyke4wyoming.com/events",
-"https://vandyke4wyoming.com/i-found-a-new-friend",
-"https://vandyke4wyoming.com/news"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jim-vandyke-1"
+},
+{
+"text": "Events",
+"href": "https://vandyke4wyoming.com/events"
+},
+{
+"text": "Get in Touch",
+"href": "https://vandyke4wyoming.com/contact"
+},
+{
+"text": "I Found a New Friend",
+"href": "https://vandyke4wyoming.com/i-found-a-new-friend/"
+},
+{
+"text": "Jim VanDyke",
+"href": "https://vandyke4wyoming.com"
+},
+{
+"text": "May 7, 2026",
+"href": "https://vandyke4wyoming.com/i-found-a-new-friend/"
+},
+{
+"text": "News",
+"href": "https://vandyke4wyoming.com/news"
+},
+{
+"text": "Read more…",
+"href": "https://vandyke4wyoming.com/i-found-a-new-friend/"
+},
+{
+"text": "Updates",
+"href": "https://vandyke4wyoming.com/"
+},
+{
+"text": "[image: Jim VanDyke]",
+"href": "https://vandyke4wyoming.com/"
+}
 ]

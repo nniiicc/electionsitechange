@@ -1,2 +1,1 @@
-Paid for by Matt Duffield for State Representative
-Copyright @ 2026 | Mattduffield.com | All Rights Reserved.
+Home Meet Matt House District 53 Tour the Capitol Gallery Videos Contact X Facebook Youtube Dive into Matt’s Gallery Paid for by Matt Duffield for State Representative Home Meet Matt House District 53 Tour the Capitol Gallery Videos Contact X Youtube Facebook Envelope Privacy Policy Copyright @ # | Mattduffield.com | All Rights Reserved.

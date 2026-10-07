@@ -1,11 +1,50 @@
 [
-"https://facebook.com/WixStudio",
-"https://facebook.com/joedelacruz4CT",
-"https://instagram.com/joedelacruzforct",
-"https://instagram.com/wixstudio",
-"https://joeforct.com/",
-"https://joeforct.com/about",
-"https://joeforct.com/platform",
-"https://joeforct.com/press",
-"https://twitter.com/WixStudio"
+{
+"text": "ABOUT",
+"href": "https://www.joeforct.com/about"
+},
+{
+"text": "CCESSIBILITY STATEMENT",
+"href": "https://www.joeforct.com"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://www.instagram.com/wixstudio"
+},
+{
+"text": "PRESS",
+"href": "https://www.joeforct.com/press"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.joeforct.com/platform"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.joeforct.com"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.joeforct.com"
+},
+{
+"text": "X",
+"href": "https://twitter.com/WixStudio"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/joedelacruz4CT"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/joedelacruzforct"
+},
+{
+"text": "[image: delaCruz_Logo_F.png]",
+"href": "https://www.joeforct.com"
+}
 ]

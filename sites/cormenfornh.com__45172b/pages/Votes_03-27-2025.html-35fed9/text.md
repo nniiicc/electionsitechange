@@ -1,100 +1,49 @@
-NH State Representative Tom Cormen
-of March 27, 2025
-| Bill | Motion | Type of vote | My vote | Result of vote | Notes |
-|---|---|---|---|---|---|
-| HB 361 | OTP | Roll call | Nay | OTP 203-164 | |
-| HB 431 | OTPA | Voice | Nay | OTPA | |
-| HB 446 | OTPA | Division | Nay | OTPA 204-166 | |
-| HB 557 | OTPA | Division | Nay | OTPA 202-166 | |
-| HB 699 | OTPA | Division | Nay | OTPA 200-168 | |
-| HB 741-FN | OTPA | Roll call | Nay | OTPA 198-174 | |
-| HB 254 | Remove from Table | Division | Yea | 169-205 | |
-| HB 749-FN | OTPA | Roll call | Nay | OTPA 200-173 | |
-| HB 768 | OTP | Division | Nay | OTP 202-170 | |
-| HB 141 | ITL | Voice | Nay | ITL | |
-| HB 217 | OTP | Voice | Nay | OTP | |
-| HB 274 | OTP | Roll call | Nay | OTP 200-174 | |
-| HB 311-FN | ITL | Voice | Nay | ITL | |
-| HB 356 | OTPA | Division | Nay | OTPA 200-173 | |
-| HB 363 | ITL | Roll call | Nay | ITL 203-167 | |
-| HB 367 | OTPA | Voice | Yea | OTPA | |
-| HB 385-FN | ITL | Voice | Nay | ITL | |
-| HB 357 | OTP | Roll call | Nay | OTP 195-174 | |
-| HB 358 | OTP | Roll call | Nay | OTP 206-169 | |
-| HB 377-FN | OTPA | Roll call | Nay | OTPA 197-167 | |
-| HB 548-FN | OTPA | Roll call | Nay | OTPA 200-157 | |
-| HB 559 | OTP | Division | Nay | OTP 216-149 | |
-| HB 679 | OTP | Roll call | Nay | OTP 204-165 | |
-| HB 712-FN | OTPA | Roll call | Nay | OTPA 200-165 | |
-| HB 584-FN | OTPA | Roll call | Nay | OTPA 198-162 | |
-| HB 614 | Remove from Table | Roll call | Nay | 76-287 | |
-| HB 620-FN | Table | Division | Yea | Table 290-72 | |
-| HB 666-FN | OTPA | Roll call | Nay | OTPA 189-172 | |
-| HB 687-FN | OTP | Roll call | Nay | OTP 198-165 | |
-| HB 200 | OTPA | Division | Nay | OTPA 195-165 | |
-| HB 284-FN | OTPA | Roll call | Nay | OTPA 198-160 | |
-| HB 372-LOCAL | Table | Division | Yea | Table 196-162 | |
-| HB 373-LOCAL | OTPA | Division | Nay | OTPA 190-167 | |
-| HB 374 | OTPA | Roll call | Nay | OTPA 195-159 | |
-| HB 413 | OTP | Division | Nay | OTP 185-167 | |
-| HB 432 | Table | Voice | Yea | Table | |
-| HB 475-LOCAL | OTPA | Roll call | Nay | OTPA 195-159 | |
-| HB 613 | OTPA | Roll call | Nay | OTPA 197-158 | |
-| HB 568 | Table | Voice | Yea | Table | |
-| HB 460-FN | Table | Division | Nay | Table 210-141 | |
-| HB 537 | Table | Division | Nay | Table 212-140 | |
-| HB 690-FN | OTP | Roll call | Nay | OTP 200-155 | |
-| HB 402 | Table | Division | Nay | Table 202-149 | |
-| HB 483-FN | Table | Division | Nay | Table 198-153 | |
-| HB 530-FN | Table | Voice | Nay | Table | |
-| HB 517-FN | OTPA | Roll call | Yea | OTPA 316-32 | Table motion failed on division vote 155-193; I voted Yea |
-| HB 251-FN | Table | Roll call | Yea | Table 226-115 | |
-This bill prohibits mandatory mask policies in public schools.
+Home About Votes Media Contact Donate NH State Representative Tom Cormen My votes in the NH House session of March 27, 2025 Bill Motion Type of vote My vote Result of vote Notes HB 361 OTP Roll call Nay OTP 203-164 HB 431 OTPA Voice Nay OTPA HB 446 OTPA Division Nay OTPA 204-166 HB 557 OTPA Division Nay OTPA 202-166 HB 699 OTPA Division Nay OTPA 200-168 HB 741-FN OTPA Roll call Nay OTPA 198-174 HB 254 Remove from Table Division Yea 169-205 HB 749-FN OTPA Roll call Nay OTPA 200-173 HB 768 OTP Division Nay OTP 202-170 HB 141 ITL Voice Nay ITL HB 217 OTP Voice Nay OTP HB 274 OTP Roll call Nay OTP 200-174 HB 311-FN ITL Voice Nay ITL HB 356 OTPA Division Nay OTPA 200-173 HB 363 ITL Roll call Nay ITL 203-167 HB 367 OTPA Voice Yea OTPA HB 385-FN ITL Voice Nay ITL HB 357 OTP Roll call Nay OTP 195-174 HB 358 OTP Roll call Nay OTP 206-169 HB 377-FN OTPA Roll call Nay OTPA 197-167 HB 548-FN OTPA Roll call Nay OTPA 200-157 HB 559 OTP Division Nay OTP 216-149 HB 679 OTP Roll call Nay OTP 204-165 HB 712-FN OTPA Roll call Nay OTPA 200-165 HB 584-FN OTPA Roll call Nay OTPA 198-162 HB 614 Remove from Table Roll call Nay 76-287 HB 620-FN Table Division Yea Table 290-72 HB 666-FN OTPA Roll call Nay OTPA 189-172 HB 687-FN OTP Roll call Nay OTP 198-165 HB 200 OTPA Division Nay OTPA 195-165 HB 284-FN OTPA Roll call Nay OTPA 198-160 HB 372-LOCAL Table Division Yea Table 196-162 HB 373-LOCAL OTPA Division Nay OTPA 190-167 HB 374 OTPA Roll call Nay OTPA 195-159 HB 413 OTP Division Nay OTP 185-167 HB 432 Table Voice Yea Table HB 475-LOCAL OTPA Roll call Nay OTPA 195-159 HB 613 OTPA Roll call Nay OTPA 197-158 HB 568 Table Voice Yea Table HB 460-FN Table Division Nay Table 210-141 HB 537 Table Division Nay Table 212-140 HB 690-FN OTP Roll call Nay OTP 200-155 HB 402 Table Division Nay Table 202-149 HB 483-FN Table Division Nay Table 198-153 HB 530-FN Table Voice Nay Table HB 517-FN OTPA Roll call Yea OTPA 316-32 Table motion failed on division vote 155-193; I voted Yea HB 251-FN Table Roll call Yea Table 226-115 HB 361 This bill prohibits mandatory mask policies in public schools.
 Because why would we want to protect kids during a pandemic?
-This bill allows parents to send their children to any school district they want, as long as the receiving district has space.
+HB 741-FN This bill allows parents to send their children to any school district they want, as long as the receiving district has space.
 As a school board member of a community neighboring Lebanon told me, it would eventually kill small rural schools, as parents send their children to larger schools with wider curricula.
 For now, this bill is stuck in the Senate.
-This bill would require high schools to include instruction on the nature and history of communism.
+HB 749-FN This bill would require high schools to include instruction on the nature and history of communism.
 I voted against it, but in retrospect, perhaps I should have voted for it.
 I say that based on comments I see online, where people call anyone to their left a communist.
 Maybe it would be better if people knew what communism really is, and that it’s not just anyone to your left.
 The Senate killed the bill.
-This bill allows public schools to send students to private schools and have the public school pay the private-school tuition.
+HB 768 This bill allows public schools to send students to private schools and have the public school pay the private-school tuition.
 Not only is it a bad idea, but it allows for the public to pay tuition to religious schools, violating the New Hampshire Constitution.
 As I write this, it has passed in the Senate with a minor amendment; I expect the House to concur with the Senate’s amendment and send the bill to Governor Ayotte.
-This bill would have eliminated the “LLC loophole” in campaign funding.
+HB 141 This bill would have eliminated the “LLC loophole” in campaign funding.
 Each LLC (limited liability corporation) has a limit for how much it can contribute to a candidate.
 But there is no limit on how much an individual can contribute to multiple LLCs.
 Therefore, someone can set up several LLCs, fund all of them, and have each one contribute to a candidate, which clearly goes against the intent of limiting an individual’s campaign contributions.
 Needless to say, this common-sense bill failed.
-The Senate killed this bill, which would have required proof of citizenship when requesting an absentee ballot.
-Because we don’t have enough partisan division in the country already, this bill allows school districts to have partisan school board elections.
+HB 217 The Senate killed this bill, which would have required proof of citizenship when requesting an absentee ballot.
+HB 356 Because we don’t have enough partisan division in the country already, this bill allows school districts to have partisan school board elections.
 The Senate passed it, and as I write this, it awaits the governor’s signature.
-This bill would have set stricter criteria for redistricting.
+HB 363 This bill would have set stricter criteria for redistricting.
 Of course it didn’t pass.
-Who knows more about vaccines than New Hampshire state legislators?
+HB 357 Who knows more about vaccines than New Hampshire state legislators?
 According to the House Republicans, no one.
 This bill moves the authority for vaccine mandates from the Department of Health and Human Services—where they actually know things—to the legislature—where they don’t.
 Fortunately, the Senate killed the bill.
-This bill prohibits all use of puberty blockers and hormone therapy for transgender minors.
+HB 377-FN This bill prohibits all use of puberty blockers and hormone therapy for transgender minors.
 Of course, the decision of whether to use such means is not to be taken lightly.
 And it is not.
 They are prescribed only after thorough evaluation by medical professionals and counselors, and they usually follow a non-medical stretch of social transition.
 The bill infringes on the rights of parents to participate in medical decisions for their children.
 It passed, and is currently in the hands of the Senate.
-Republicans who clearly have no idea what vaccines do introduced this bill, which would prohibit any childhood vaccines that have not been proven through clinical trials to prevent all transmission of the targeted disease.
+HB 679 Republicans who clearly have no idea what vaccines do introduced this bill, which would prohibit any childhood vaccines that have not been proven through clinical trials to prevent all transmission of the targeted disease.
 Guess what?
 No vaccine prevents all transmission.
 Vaccines mimic the infection and spur the body’s immune system into action, lessening the severity and prevalence of the disease.
 But they do not prevent transmission.
 Fortunately, the Senate killed the bill.
-The bill would prohibit breast surgeries for minors.
+HB 712 The bill would prohibit breast surgeries for minors.
 See HB 377-FN, above.
 The Senate might amend it to prohibit all gender reassignment surgeries for minors; stay tuned.
-This bill requires a 3/5 majority to override a multi-district school tax cap.
+HB 200 This bill requires a 3/5 majority to override a multi-district school tax cap.
 That makes it hard to reverse flawed policies and handle unexpected expenses.
 It passed with a slight amendment in the Senate.
-These are the two Democratic-sponsored bills from my committee (Science, Technology and Energy) that we agreed would have debate in exchange for tabling six bills on the previous day.
+HB 460-FN and HB 537 These are the two Democratic-sponsored bills from my committee (Science, Technology and Energy) that we agreed would have debate in exchange for tabling six bills on the previous day.
 Instead, the Republicans went back on their word and tabled both of them.
 I try to not take political setbacks personally.
 The Republicans have the numbers to roll over us, and they do.
@@ -103,7 +52,7 @@ Some of the bills they pass are terrible.
 If we could, we would pass bills that they think are terrible.
 But this was different.
 We had a deal, and they reneged.
-I was pissed off, to the point that I was seriously considering leaving the Granite Bridge Legislative Alliance.
+I was pissed off, to the point that I was seriously considering leaving the Granite Bridge Legislative Alliance .
 We don’t have to agree on policy, but we should be honest with each other.
 As I write this (May 18, 2025), I have not left the GBLA, but I have one foot out the door.
 Back to the bills.
@@ -117,7 +66,7 @@ This bill would have solved both problems.
 On the bright side, because the bill was tabled rather than killed, we can bring it back for 2026.
 Because Eversource and Unitil had some issues with the bill, Rep.
 Manos and I will work with the utilities to try to fashion a bill that solves the problems and that the utilities can live with.
-This was the one bill from my committee that was allowed to have debate and a vote.
+HB 690-FN This was the one bill from my committee that was allowed to have debate and a vote.
 Of course, it was a Republican-sponsored bill.
 And a ridiculous one at that.
 It creates a study within the Department of Energy to investigate whether New Hampshire should withdraw from ISO-NE, the regional electric grid operator.

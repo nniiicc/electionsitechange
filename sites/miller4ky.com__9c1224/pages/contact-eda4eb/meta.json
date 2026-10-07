@@ -1,7 +1,11 @@
 {
  "description": "Reach out to the L. Scott Miller campaign for Kentucky House District 88 with questions, ideas, or to get involved.",
  "final_url": "https://miller4ky.com/contact",
- "paid_for_by": null,
+ "fingerprint": "d56fbe739b26a282c556cc692b07c909be70f568",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact the Campaign | Scott Miller for KY House 88",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,4 +1,4 @@
-“A lifelong resident of Northeast Ohio, Dave Joyce has spent most of his life protecting his community.
+­ ­ ­­­ ­ ­ Skip to content Home Meet Dave Connect Connect With Dave In The News Voting Get Involved Volunteer Contact Donate ABOUT DAVE “A lifelong resident of Northeast Ohio, Dave Joyce has spent most of his life protecting his community.
 Dave spent more than 25 years as the prosecuting attorney of Geauga County helping to make the county one of the best places to raise a family.
 As a father and husband, Dave understands that decisions made in Washington have an immediate impact on families, and shape the world we will leave to our children.
 Dave’s formative years were molded by watching his dad who instilled in Dave the importance of family and hard work.
@@ -19,4 +19,6 @@ Together they discuss and distribute finances according to what is needed and ne
 Dave has brought this principle to Congress, proudly returning $100,000 of his office budget back to the U.S.
 Treasury.
 He knows it is only a small portion of the budget and deficit but he knows to achieve a balanced budget he must first lead by example in his own office.
-Dave Joyce is a representative for the 14th Congressional District of Ohio, and together like you, he is proud to call Northeast Ohio his home.”
+Dave Joyce is a representative for the 14th Congressional District of Ohio, and together like you, he is proud to call Northeast Ohio his home.” Click here to see photos of Dave in action.
+25 years in law enforcement Son of a WWII veteran Husband to a registered nurse Father to 3 children Protector of the Great Lakes Advocate for opioid relief Proven community leader follow dave on social media Paid for by Friends of Dave Joyce P.O.
+Box 516 , Painesville, OH 44077

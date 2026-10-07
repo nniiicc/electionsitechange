@@ -1,16 +1,58 @@
 [
-"http://support.microsoft.com/kb/278835",
-"https://facebook.com/NickAllenForMD",
-"https://freeprivacypolicy.com/blog/cookies",
-"https://instagram.com/nickallenformd",
-"https://nickallenformd.com/",
-"https://nickallenformd.com/cookie-policy",
-"https://nickallenformd.com/cookie-policy/nickallenformd.com",
-"https://nickallenformd.com/legislation",
-"https://nickallenformd.com/privacy-policy",
-"https://nickallenformd.com/terms-and-conditions",
-"https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac",
-"https://support.google.com/accounts/answer/32050",
-"https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored",
-"https://tiktok.com/@nickallenformd?lang=en"
+{
+"text": "Cookies: What Do They Do?",
+"href": "https://www.freeprivacypolicy.com/blog/cookies/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/NickAllenForMD/"
+},
+{
+"text": "Get Involved",
+"href": "https://nickallenformd.com/#get-involved"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/nickallenformd/"
+},
+{
+"text": "Legislation",
+"href": "https://nickallenformd.com/legislation/"
+},
+{
+"text": "Meet Nick",
+"href": "https://nickallenformd.com/#about-nick-allen"
+},
+{
+"text": "Priorities",
+"href": "https://nickallenformd.com/#priorities"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@nickallenformd?lang=en"
+},
+{
+"text": "[image]",
+"href": "https://nickallenformd.com"
+},
+{
+"text": "http://support.microsoft.com/kb/278835",
+"href": "http://support.microsoft.com/kb/278835"
+},
+{
+"text": "https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac",
+"href": "https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac"
+},
+{
+"text": "https://support.google.com/accounts/answer/32050",
+"href": "https://support.google.com/accounts/answer/32050"
+},
+{
+"text": "https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored",
+"href": "https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored"
+},
+{
+"text": "nickallenformd.com",
+"href": "https://nickallenformd.com/cookie-policy/nickallenformd.com"
+}
 ]

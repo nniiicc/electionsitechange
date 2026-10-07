@@ -1,12 +1,42 @@
 [
-"https://andrewsforvermont.com/",
-"https://andrewsforvermont.com/blog-1",
-"https://andrewsforvermont.com/cart",
-"https://andrewsforvermont.com/contact",
-"https://andrewsforvermont.com/endorsements",
-"https://andrewsforvermont.com/events",
-"https://docs.google.com/forms/d/e/1FAIpQLSda96Ft8kHdgMyTk_SFm1bJUZRCUMC7Qrat8lsqn48qh8u7SQ/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSda96Ft8kHdgMyTk_SFm1bJUZRCUMC7Qrat8lsqn48qh8u7SQ/viewform?usp=header",
-"https://facebook.com/andrewsforvermont",
-"https://secure.actblue.com/donate/andrews-2026"
+{
+"text": "0",
+"href": "https://www.andrewsforvermont.com/cart"
+},
+{
+"text": "ADD YOUR VOICE",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSda96Ft8kHdgMyTk_SFm1bJUZRCUMC7Qrat8lsqn48qh8u7SQ/viewform"
+},
+{
+"text": "Blog",
+"href": "https://www.andrewsforvermont.com/blog-1"
+},
+{
+"text": "Contact",
+"href": "https://www.andrewsforvermont.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/andrews-2026"
+},
+{
+"text": "Endorse Julia",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSda96Ft8kHdgMyTk_SFm1bJUZRCUMC7Qrat8lsqn48qh8u7SQ/viewform?usp=header"
+},
+{
+"text": "Endorsements",
+"href": "https://www.andrewsforvermont.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.andrewsforvermont.com/events"
+},
+{
+"text": "[image: Andrews for Vermont]",
+"href": "https://www.andrewsforvermont.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/andrewsforvermont/"
+}
 ]

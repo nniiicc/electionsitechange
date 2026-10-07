@@ -1,11 +1,6 @@
-Back to All Events
-We’re bringing the campaign to New Holland Brewing in Battle Creek!
+0 Skip to Content About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Back Donate Back to All Events Candidate Meet and Greet Saturday, May 9, 2026 1:00 PM 4:00 PM New Holland Brewing Co 64 West Michigan Avenue Battle Creek, MI, 49017 United States (map) Google Calendar ICS We’re bringing the campaign to New Holland Brewing in Battle Creek!
 Whether you have a specific question about the economy, education, or government accountability or just want to see if Anthony is the right fit for your vote, stop by on May 9th from 1:00PM-4:00PM.
 Sometimes the best conversations are over a pint!
-Previous
-Previous
-April 25
-Parent Choice Drag Story Hour Fundraiser
-Next
-Next
-June 6
+Previous Previous April 25 Parent Choice Drag Story Hour Fundraiser Next Next June 6 Lowell Pride Follow the Campaign BlueSky Donate by Mail P.O.
+Box 61 Battle Creek, MI 49016 info@ pennock4misenate.com This website is created. paid for, and managed by the Committee to Elect Anthony Pennock State Senator, P.O.
+Box 61, Battle Creek, MI 49016

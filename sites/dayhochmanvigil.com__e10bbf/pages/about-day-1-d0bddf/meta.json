@@ -1,6 +1,8 @@
 {
  "description": "",
  "final_url": "https://dayhochmanvigil.com/about-day-1",
+ "fingerprint": "c65ca7e82ea4353c2ea6f30a62b216115f1ac6d5",
+ "format": 3,
  "paid_for_by": "Paid for by A New Day For New Mexico",
  "title": "About Day",
  "years_mentioned": [
@@ -15,7 +17,6 @@
   "2021",
   "2023",
   "2024",
-  "2025",
-  "2026"
+  "2025"
  ]
 }

@@ -1,5 +1,4 @@
-About Travis
-My name is Travis Ismay I am a Christian man, I fear and love the Lord.
+Home About Campaign Platform Volunteer / Contact Follow Donate Home About Campaign Platform Volunteer / Contact About Travis My name is Travis Ismay I am a Christian man, I fear and love the Lord.
 I have six beautiful children and an awesome wife.
 I grew up near Vale, South Dakota on our family farm and ranch operation.
 My father is a veterinarian and practiced in Sturgis for years.
@@ -17,3 +16,13 @@ I believe in lowering taxes by reducing government bureaucracy and overreach.
 After researching many of the past legislative sessions, I noticed that rarely we need more laws, we just need to enforce the ones that we have and eliminate the ones we don’t need, which will be my goal.
 I humbly ask for your vote June 2nd to be your District 28B Representative.
 Thank you.
+Z Vote Follow Subscribe to Updates Δ First Name (Required) Last Name (Required) Zipcode (Required) Email (Required) Phone Consent I would like to receive text updates from Travis Ismay for South Dakota.
+By submitting this form and signing up for texts, I consent to receive recurring texts only from Travis Ismay for South Dakota to this number regarding legislation, events, organizational information, and other topics.
+We may use an automatic telephone dialing system to send texts.
+Message/data rates may apply.
+Text STOP to opt-out.
+Text HELP or contact [email protected] for assistance.
+Message frequency may vary per month.
+See our terms and conditions here.
+See our privacy policy here .
+Subscribe Donate Paid for by Travis Ismay for South Dakota Privacy Policy

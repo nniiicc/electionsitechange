@@ -1,5 +1,4 @@
-Health Care, Rising Cancer Rates, and Fixing Medicaid
-Affordable access to healthcare – physical and mental health – continues to be a challenge for so many Iowans.
+Heather Matson for Iowa Senate Open Menu Meet Heather Issues Endorsements Volunteer Contact Volunteer Donate Health Care, Rising Cancer Rates, and Fixing Medicaid Affordable access to healthcare – physical and mental health – continues to be a challenge for so many Iowans.
 I believe that healthcare is right, not a privilege.
 I am proud to serve as one of four legislative board members on the Council on Human Services, the overarching policy board for the Iowa Department of Health & Human Services.
 I believe we need to ensure all Iowans have access to medical care close to home and there are a few ways we can work to make that happen.
@@ -22,3 +21,6 @@ Iowa leads the nation in rising cancer rates, especially lung cancer.
 I’ve voted to increase radon mitigation, require written parental consent for tanning bed use under age 18, and provide funding for pediatric cancer research.
 To address nitrates, I co-sponsored the Iowa Healthy Water Act which proposed restoring the statewide water monitoring network and increasing nutrient reduction strategies.
 I support stronger regulations of vape products and we should consider raising the tobacco tax, which is proven effective to deter smoking and is supported by two-thirds of Iowa voters.
+Issues Voting Rights Transparency and Accountability Reproductive Freedom and Maternal Health Public Safety Health Care, Rising Cancer Rates, and Fixing Medicaid Economic Development, Workforce, and Lowering Costs for Iowans Clean Water, Conservation, and Climate Education Back to issues page Next: Public Safety Follow Heather on Facebook Follow Heather on Twitter Follow Heather on Instagram info@matsonforiowa.com | (515) 201-1877 © # Heather Matson for Iowa Senate.
+All rights reserved.
+Privacy Policy | Website built in Iowa by OVMM Paid for by Heather Matson for Iowa.

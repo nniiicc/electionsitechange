@@ -1,4 +1,4 @@
-Boosting job creation, reimagining our state’s education system and solving local issues are top priorities for Representative Jason Ortitay.
+About Local Impact Priorities Legislation Contact Volunteer Donate Boosting job creation, reimagining our state’s education system and solving local issues are top priorities for Representative Jason Ortitay.
 A native of Avella, Washington County, Jason graduated from Avella High School in 2002 and then earned his bachelor’s degree in business administration from Robert Morris University in 2004.
 He earned his MBA at Stetson University in Florida in 2005 and then returned to southwestern Pennsylvania to begin his career.
 As a member of the Legislature, Jason led the fight to stop Gov.
@@ -7,3 +7,4 @@ Back home in the district, Jason has helped solve many local problems ranging fr
 Jason worked in the banking industry for more than four years and has also been active in supporting the community.
 In 2012, he founded and ran Jason’s Cheesecake Company to aid local schools and other nonprofit organizations to raise money for their causes or functions.
 Currently, Jason resides in Cecil Township, Washington County, with his wife, Amanda, their daughters, Delaney and Isabella.
+Home About Local Impact Priorities Contact Donate © # Paid for by Citizens for Jason Ortitay Privacy Policy and Terms Foundational design crafted with True Fit Marketing Jason Ortitay Translate » < < < < < < < < < < < About Local Impact Priorities Legislation Contact Volunteer Donate

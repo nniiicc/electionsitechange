@@ -1,5 +1,4 @@
-Meet Josh
-Joshua Reagan Longmire was born in 1981 in Jonesboro, Arkansas and raised in Hoxie, Arkansas.
+Home Meet Josh Issues News Volunteer Donate Donate Meet Josh Joshua Reagan Longmire was born in 1981 in Jonesboro, Arkansas and raised in Hoxie, Arkansas.
 He was born to Bob Longmire Sr.
 (Deceased) and Lea Cohn of Monette, Arkansas.
 Josh attended and graduated from Hoxie High School in 1999.
@@ -30,3 +29,4 @@ Josh was tasked with starting a new division for The Systems Group in 2019.
 Josh began offering filtration systems to the steel mills to protect the air people breathe and to keep the metal dust out of critical equipment such as electrical rooms and various other areas.
 They opened an office in Jonesboro and support steel mills and other industrial facilities all around the world.
 A growing business segment, Josh is currently overseeing operations.
+Home Meet Josh Issues News Volunteer Donate Donate Paid for by Josh Longmire for State Representative Privacy Policy | Terms & Conditions

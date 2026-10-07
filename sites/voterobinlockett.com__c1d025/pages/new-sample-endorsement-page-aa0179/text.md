@@ -1,2 +1,2 @@
-Endorsements Who is endorsing Robin?
-Dianne Hart - Florida House Representative District 63 Guido Maniscalco Tampa City Councilman District 2 Naya Young - Tampa City Council District 5 Alan Clendenin - Tampa City Council District 1 & Council Chair Attorney Norman Harris - Law Firm Champions for Justice
+Home About Endorsements Supporters News Events Volunteer Photos Contact Us Donate Donate Endorsements Who is endorsing Robin?
+Dianne Hart - Florida House Representative District 63 Guido Maniscalco Tampa City Councilman District 2 Naya Young - Tampa City Council District 5 Alan Clendenin - Tampa City Council District 1 & Council Chair Attorney Norman Harris - Law Firm Champions for Justice Follow Follow Follow Political advertisment paid for and approved by Robin Lockett for State House District 63

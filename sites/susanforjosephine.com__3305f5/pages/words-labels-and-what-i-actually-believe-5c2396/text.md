@@ -1,6 +1,6 @@
-Question:
-Answer:
-This recent Facebook comment, I have received from current City of Grants Pass Council Member Victoria Marshall has compiled words I’ve used over the years—terms like equity, gender identity, cisgender, implicit bias, and harm reduction—along with references to my school board service, professional work, and campaign positions.
+Skip to content Home About Priorities Support Volunteer News Community Questions Contact Home About Priorities Support Volunteer News Community Questions Contact Donate Words, Labels, and What I Actually Believe I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Question: Answer: This recent Facebook comment, I have received from current City of Grants Pass Council Member Victoria Marshall has compiled words I’ve used over the years—terms like equity, gender identity, cisgender, implicit bias, and harm reduction —along with references to my school board service, professional work, and campaign positions.
 The conclusion seems to be that the use of this language is itself evidence of an ideological agenda.
 I find that argument a little absurd.
 I’ve spent years working in education, healthcare, community systems, and with state agencies.
@@ -40,3 +40,15 @@ So I’m happy for people to examine my record, including the words I’ve used.
 But if we’re going to debate my positions, let’s debate positions I actually hold rather than attempting to construct them from a vocabulary list.
 Ask me what I believe government should do, what policy I would vote for, or where I draw a line on a difficult issue.
 Those are questions worth answering.
+See the Latest News My Response to Rep.
+Yunker’s Attack Ad I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Read More » Representing Josephine County, Not a Party I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Read More » The Principles I’ll Take With Me to Salem.
+I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Read More » Why I’m Asking for Your Trust I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Read More » Home About Priorities Support Volunteer News Community Questions Contact Home About Priorities Support Volunteer News Community Questions Contact Facebook Instagram © # Susan for Josephine.
+All rights Reserved.

@@ -1,8 +1,6 @@
-top of page
-Request a Yard Sign
-Paid for by Committee to Elect Tanya Mirabal Moya, Jason Moya, Treasurer.
+top of page Priorities About Legislation DONATE Request a Yard Sign First name * Last name * Email * Phone * I understand the campaign will text or call me at this number to coordinate my yard sign delivery. * Multi-line address Country/Region * Address * City * Zip / Postal code * Getting Your Sign: * I'd also like to volunteer Yes, send me campaign updates from Tanya too.
+Submit Paid for by Committee to Elect Tanya Mirabal Moya, Jason Moya, Treasurer.
 By providing your phone number, you are consenting to receive calls and text messages, including autodialed and automated calls and texts, to that number from Committee to Elect Tanya Mirabal Moya.
 Message and data rates may apply.
 Reply “STOP” to opt-out.
-Terms & conditions/privacy policy apply: Privacy Policy & Terms of Use
-bottom of page
+Terms & conditions/privacy policy apply: Privacy Policy & Terms of Use bottom of page

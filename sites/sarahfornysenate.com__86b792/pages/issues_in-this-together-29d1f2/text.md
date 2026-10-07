@@ -1,5 +1,4 @@
-WE'RE IN THIS TOGETHER
-Everybody deserves to be treated with dignity and respect and to be able to be their full selves without suffering abuse or being closed out of access or opportunities.
+Skip navigation menu About Issues Endorsements Volunteer Contact Donate About Issues Endorsements Volunteer Contact Donate COST-OF-LIVING IN CRISIS PROTECTING OUR COMMUNITIES HEALTHCARE WITHOUT FEAR PLANNING FOR A CHANGING FUTURE WE'RE IN THIS TOGETHER WE'RE IN THIS TOGETHER Everybody deserves to be treated with dignity and respect and to be able to be their full selves without suffering abuse or being closed out of access or opportunities.
 I will always stand with LGBTQIA+ folks, especially now, when queer communities are increasingly threatened by empowered bigotry.
 Trans kids deserve the same care, protection, and opportunity to thrive that all our kids deserve.
 Everyone who puts their lives and wellbeing on the line to serve our communities deserves support and care.
@@ -9,3 +8,4 @@ These are funding choices made at the state level, and I would choose better sup
 Everyone who tries to grow a small business deserves a real shot at becoming a local success story because when our small businesses thrive, our communities thrive.
 We need robust and meaningful community economic development, including incentives for family-owned businesses in our most marginalized communities and substantial support for small farmers.
 Too often the real muscle behind calls for deregulation are massive corporations run by people who’ve never set foot in our communities, who want to pollute and extract and abuse, and I will never support removing those protections from our communities — but I absolutely support taking a hard look at red-tape regulations that needlessly hamper local business without providing significant protections.
+ELECTION DAY: November 3 EARLY VOTING: October 24 - November 1 We want to hear from you: info@sarahfornysenate.com Powered by RUN! website builder Paid for by Friends of Sarah Rogerson You need to enable JavaScript to run this app.

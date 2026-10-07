@@ -1,10 +1,34 @@
 [
-"https://facebook.com/ikaikamichaelhussey",
-"https://ikaikahussey.com/",
-"https://ikaikahussey.com/blog",
-"https://ikaikahussey.com/cart",
-"https://ikaikahussey.com/parking-survey",
-"https://ikaikahussey.com/volunteer",
-"https://instagram.com/ikaika.house",
-"https://secure.actblue.com/donate/ikaika-hussey-for-hawaii-2"
+{
+"text": "0",
+"href": "https://ikaikahussey.com/cart"
+},
+{
+"text": "Blog",
+"href": "https://ikaikahussey.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ikaika-hussey-for-hawaii-2"
+},
+{
+"text": "Parking Survey",
+"href": "https://ikaikahussey.com/parking-survey"
+},
+{
+"text": "Volunteer",
+"href": "https://ikaikahussey.com/volunteer"
+},
+{
+"text": "[image: Ikaika Hussey for Hawaii]",
+"href": "https://ikaikahussey.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ikaikamichaelhussey/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ikaika.house"
+}
 ]

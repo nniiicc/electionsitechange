@@ -1,9 +1,9 @@
 {
  "description": "Support Eric Foreman&#39;s campaign platform focused on Nebraska representation, government accountability, and reducing the cost of living.",
  "final_url": "https://foremantakebackourhouse.com/platform",
- "paid_for_by": null,
+ "fingerprint": "65aac961ae3656b845c57d6bdd5e8eaa719d0cd3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "PLATFORM",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

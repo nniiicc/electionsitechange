@@ -1,16 +1,70 @@
 [
-"https://edgallrein.com/",
-"https://edgallrein.com/media",
-"https://edgallrein.com/privacy-policy",
-"https://edgallrein.com/sms-terms-conditions",
-"https://edgallrein.com/text-message-policy",
-"https://facebook.com/EdGallreinforCongress?rdid=ZuGswivHgsrbhif0",
-"https://secure.winred.com/gallrein-for-congress/donate",
-"https://secure.winred.com/gallrein-for-congress/donate?amount=100",
-"https://secure.winred.com/gallrein-for-congress/donate?amount=25",
-"https://secure.winred.com/gallrein-for-congress/donate?amount=250",
-"https://secure.winred.com/gallrein-for-congress/donate?amount=50",
-"https://secure.winred.com/gallrein-for-congress/donate?amount=other",
-"https://secure.winred.com/gallrein-for-congress/storefront",
-"https://x.com/EdGallrein"
+{
+"text": "$100",
+"href": "https://secure.winred.com/gallrein-for-congress/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/gallrein-for-congress/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/gallrein-for-congress/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/gallrein-for-congress/donate?amount=50"
+},
+{
+"text": "Contact",
+"href": "mailto:info@edgallrein.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/gallrein-for-congress/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/EdGallreinforCongress/?rdid=ZuGswivHgsrbhif0"
+},
+{
+"text": "Media",
+"href": "https://www.edgallrein.com/media"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/gallrein-for-congress/donate?amount=other"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.edgallrein.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.edgallrein.com/text-message-policy"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/gallrein-for-congress/storefront/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.edgallrein.com/sms-terms-conditions"
+},
+{
+"text": "X",
+"href": "https://x.com/EdGallrein"
+},
+{
+"text": "[image]",
+"href": "https://www.edgallrein.com/"
+},
+{
+"text": "info@edgallrein.com",
+"href": "mailto:info@edgallrein.com"
+},
+{
+"text": "press@edgallrein.com",
+"href": "mailto:press@edgallrein.com"
+}
 ]

@@ -1,14 +1,54 @@
 [
-"https://boonecountyil.gov/government/departments/clerk___recorder/voting_options/index.php",
-"https://clerk.wincoil.gov/election-information",
-"https://facebook.com/joesosnowski",
-"https://joesosnowski.com/",
-"https://joesosnowski.com/about",
-"https://joesosnowski.com/cdn-cgi/l/email-protection",
-"https://joesosnowski.com/contribute",
-"https://joesosnowski.com/issues",
-"https://joesosnowski.com/vote",
-"https://mchenrycountyil.gov/county-government/departments-a-i/county-clerk/elections/voter-services",
-"https://ova.elections.il.gov/",
-"https://twitter.com/repsosnowski"
+{
+"text": "Boone County Voter Info",
+"href": "https://www.boonecountyil.gov/government/departments/clerk___recorder/voting_options/index.php"
+},
+{
+"text": "Contribute",
+"href": "https://joesosnowski.com/contribute/"
+},
+{
+"text": "Home",
+"href": "https://joesosnowski.com/"
+},
+{
+"text": "Issues",
+"href": "https://joesosnowski.com/issues/"
+},
+{
+"text": "McHenry County Voter Info",
+"href": "https://www.mchenrycountyil.gov/county-government/departments-a-i/county-clerk/elections/voter-services"
+},
+{
+"text": "Meet Joe",
+"href": "https://joesosnowski.com/about/"
+},
+{
+"text": "Register to Vote Online",
+"href": "https://ova.elections.il.gov/"
+},
+{
+"text": "Voter Info",
+"href": "https://joesosnowski.com/vote/"
+},
+{
+"text": "Winnebago County Voter Info",
+"href": "https://clerk.wincoil.gov/election-information"
+},
+{
+"text": "[image]",
+"href": "https://joesosnowski.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/repsosnowski"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/joesosnowski"
+},
+{
+"text": "[no text]",
+"href": "mailto:citizensforjoe@gmail.com"
+}
 ]

@@ -1,21 +1,86 @@
 [
-"https://dangreenfl.com/",
-"https://dangreenfl.com/donate",
-"https://dangreenfl.com/donate?amount=100",
-"https://dangreenfl.com/donate?amount=1000",
-"https://dangreenfl.com/donate?amount=250",
-"https://dangreenfl.com/donate?amount=50",
-"https://dangreenfl.com/donate?amount=500",
-"https://dangreenfl.com/endorsements",
-"https://dangreenfl.com/media",
-"https://dangreenfl.com/meet-dan",
-"https://dangreenfl.com/news",
-"https://dangreenfl.com/volunteer",
-"https://facebook.com/DanGreenForCongress",
-"https://floridapolitics.com/archives/806337-dan-green-debuts-conservative-warrior-ad-touts-1-14m-haul-in-cd-9",
-"https://floridapolitics.com/archives/811670-air-support-jim-jordan-mike-haridopolos-back-dan-green-in-cd-9",
-"https://flvoicenews.com/dan-green-lands-endorsements-from-sen-tim-sheehy-former-sen-connie-mack-in-fl-9-race",
-"https://flvoicenews.com/dan-green-outlines-campaign-priorities-says-affordability-tops-voter-concerns",
-"https://x.com/DanGreenFL",
-"https://youtube.com/@DanGreenFL"
+{
+"text": "$100",
+"href": "https://dangreenfl.com/donate/?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://dangreenfl.com/donate/?amount=1000"
+},
+{
+"text": "$250",
+"href": "https://dangreenfl.com/donate/?amount=250"
+},
+{
+"text": "$50",
+"href": "https://dangreenfl.com/donate/?amount=50"
+},
+{
+"text": "$500",
+"href": "https://dangreenfl.com/donate/?amount=500"
+},
+{
+"text": "Donate",
+"href": "https://dangreenfl.com/donate/"
+},
+{
+"text": "Donate Today",
+"href": "https://dangreenfl.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://dangreenfl.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://dangreenfl.com/"
+},
+{
+"text": "Media",
+"href": "https://dangreenfl.com/media/"
+},
+{
+"text": "Meet Dan",
+"href": "https://dangreenfl.com/meet-dan/"
+},
+{
+"text": "News",
+"href": "https://dangreenfl.com/news/"
+},
+{
+"text": "Read More",
+"href": "https://dangreenfl.com/meet-dan/"
+},
+{
+"text": "Volunteer",
+"href": "https://dangreenfl.com/volunteer/"
+},
+{
+"text": "[image] Air support: Jim Jordan, Mike Haridopolos back Dan Green in CD 9",
+"href": "https://floridapolitics.com/archives/811670-air-support-jim-jordan-mike-haridopolos-back-dan-green-in-cd-9/"
+},
+{
+"text": "[image] Dan Green worked in the Pentagon on 9/11, says courage he saw inspires him as he runs in CD 9",
+"href": "https://floridapolitics.com/archives/823292-dan-green-worked-in-the-pentagon-on-9-11-says-courage-he-saw-inspires-him-as-he-runs-in-cd-9/"
+},
+{
+"text": "[image] Florida PBA backs ‘devoted’ Dan Green for CD 9",
+"href": "https://floridapolitics.com/archives/822829-florida-pba-backs-devoted-dan-green-for-cd-9/"
+},
+{
+"text": "[image] ‘Hopeful of victory,’ Dan Green striving to be first Vero Beach resident to be sworn in as congressman",
+"href": "https://veronews.com/2026/08/27/hopeful-of-victory-dan-green-striving-to-be-first-vero-beach-resident-to-be-sworn-in-as-congressman/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DanGreenForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@DanGreenFL"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DanGreenFL"
+}
 ]

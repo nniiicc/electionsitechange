@@ -1,8 +1,46 @@
 [
-"https://kevinavard.com/",
-"https://kevinavard.com/about",
-"https://kevinavard.com/contact",
-"https://kevinavard.com/donate",
-"https://kevinavard.com/priorities",
-"https://lovable.dev/projects/lovp_5xqj0tm47x838rqqcy688ws0n6"
+{
+"text": "About Kevin",
+"href": "https://kevinavard.com/about"
+},
+{
+"text": "Contact",
+"href": "https://kevinavard.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://kevinavard.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://kevinavard.com/donate"
+},
+{
+"text": "Edit with",
+"href": "https://lovable.dev/projects/lovp_5xqj0tm47x838rqqcy688ws0n6"
+},
+{
+"text": "Home",
+"href": "https://kevinavard.com/"
+},
+{
+"text": "Priorities",
+"href": "https://kevinavard.com/priorities"
+},
+{
+"text": "Read Kevin's Story",
+"href": "https://kevinavard.com/about"
+},
+{
+"text": "See the Priorities",
+"href": "https://kevinavard.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://kevinavard.com/contact"
+},
+{
+"text": "[image: Kevin Avard for NH State Senate]",
+"href": "https://kevinavard.com/"
+}
 ]

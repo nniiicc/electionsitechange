@@ -1,21 +1,102 @@
 [
-"https://facebook.com/profile.php?id=61554997457236",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20240430T180000%2F20240430T200000&text=Owyhee+County+Republican+Central+Committee+Candidate+Forum&details=%3Cspan+style%3D%22font-weight%3A+400%3B%22%3ECandidate+Forum+Rimrock+High+School-+7pm+Rimrock+HS+Auditorium+39678+%3C%2Fspan%3E%3Cspan+style%3D%22font-weight%3A+400%3B%22%3EHwy+78+Bruneau%2C+ID%3C%2Fspan%3E&location=Owyhee+County+Republican+Central+Committee%2C+39678+Hwy+78%2C+Bruneau%2C+Idaho&trp=false&ctz=America%2FBoise&sprop=website%3Ahttps%3A%2F%2Fwww.shawndygert4idaho.com",
-"https://instagram.com/shawndygert4idaho",
-"https://maps.google.com/maps?f=q&hl=en&q=39678+Hwy+78+Bruneau+Idaho",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2024-04-30T18%3A00%3A00-06%3A00&enddt=2024-04-30T20%3A00%3A00-06%3A00&location=Owyhee+County+Republican+Central+Committee%2C+39678+Hwy+78%2C+Bruneau%2C+Idaho&subject=Owyhee+County+Republican+Central+Committee+Candidate+Forum&body=Candidate+Forum+Rimrock+High+School-+7pm+Rimrock+HS+Auditorium+39678+Hwy+78+Bruneau%2C+ID",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2024-04-30T18%3A00%3A00-06%3A00&enddt=2024-04-30T20%3A00%3A00-06%3A00&location=Owyhee+County+Republican+Central+Committee%2C+39678+Hwy+78%2C+Bruneau%2C+Idaho&subject=Owyhee+County+Republican+Central+Committee+Candidate+Forum&body=Candidate+Forum+Rimrock+High+School-+7pm+Rimrock+HS+Auditorium+39678+Hwy+78+Bruneau%2C+ID",
-"https://secure.anedot.com/shawn-dygert-4-idaho/donate",
-"https://shawndygert4idaho.com/",
-"https://shawndygert4idaho.com/about",
-"https://shawndygert4idaho.com/accomplishments",
-"https://shawndygert4idaho.com/contact",
-"https://shawndygert4idaho.com/event/meet-shawn-dygert-at-extreme-pizza-in-melba",
-"https://shawndygert4idaho.com/event/nampa-chamber-of-commerce-candidate-forum",
-"https://shawndygert4idaho.com/events",
-"https://shawndygert4idaho.com/issues",
-"https://shawndygert4idaho.com/supporters",
-"https://twitter.com/ShawnDygert23B",
-"https://voteidaho.gov/",
-"https://x.com/ShawnDygert4ID"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=39678+Hwy+78+Bruneau+Idaho"
+},
+{
+"text": "About",
+"href": "https://www.shawndygert4idaho.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.shawndygert4idaho.com/accomplishments/"
+},
+{
+"text": "Contact",
+"href": "https://www.shawndygert4idaho.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/shawn-dygert-4-idaho/donate"
+},
+{
+"text": "DONATE ONLINE",
+"href": "https://secure.anedot.com/shawn-dygert-4-idaho/donate"
+},
+{
+"text": "Events",
+"href": "https://www.shawndygert4idaho.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61554997457236"
+},
+{
+"text": "Facebook page opens in new window",
+"href": "https://www.facebook.com/profile.php?id=61554997457236"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20240430T180000%2F20240430T200000&text=Owyhee+County+Republican+Central+Committee+Candidate+Forum&details=%3Cspan+style%3D%22font-weight%3A+400%3B%22%3ECandidate+Forum+Rimrock+High+School-+7pm+Rimrock+HS+Auditorium+39678+%3C%2Fspan%3E%3Cspan+style%3D%22font-weight%3A+400%3B%22%3EHwy+78+Bruneau%2C+ID%3C%2Fspan%3E&location=Owyhee+County+Republican+Central+Committee%2C+39678+Hwy+78%2C+Bruneau%2C+Idaho&trp=false&ctz=America%2FBoise&sprop=website%3Ahttps%3A%2F%2Fwww.shawndygert4idaho.com"
+},
+{
+"text": "Home",
+"href": "https://www.shawndygert4idaho.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/shawndygert4idaho/"
+},
+{
+"text": "Instagram page opens in new window",
+"href": "https://www.instagram.com/shawndygert4idaho/"
+},
+{
+"text": "Issues",
+"href": "https://www.shawndygert4idaho.com/issues/"
+},
+{
+"text": "Meet Shawn Dygert at Extreme Pizza in Melba! »",
+"href": "https://www.shawndygert4idaho.com/event/meet-shawn-dygert-at-extreme-pizza-in-melba/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T18%3A00%3A00-06%3A00&enddt=%23T20%3A00%3A00-06%3A00&location=Owyhee+County+Republican+Central+Committee%2C+39678+Hwy+78%2C+Bruneau%2C+Idaho&subject=Owyhee+County+Republican+Central+Committee+Candidate+Forum&body=Candidate+Forum+Rimrock+High+School-+7pm+Rimrock+HS+Auditorium+39678+Hwy+78+Bruneau%2C+ID"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T18%3A00%3A00-06%3A00&enddt=%23T20%3A00%3A00-06%3A00&location=Owyhee+County+Republican+Central+Committee%2C+39678+Hwy+78%2C+Bruneau%2C+Idaho&subject=Owyhee+County+Republican+Central+Committee+Candidate+Forum&body=Candidate+Forum+Rimrock+High+School-+7pm+Rimrock+HS+Auditorium+39678+Hwy+78+Bruneau%2C+ID"
+},
+{
+"text": "Supporters",
+"href": "https://www.shawndygert4idaho.com/supporters/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ShawnDygert23B"
+},
+{
+"text": "X page opens in new window",
+"href": "https://x.com/ShawnDygert4ID"
+},
+{
+"text": "[image: Shawn Dygert 4 Idaho]",
+"href": "https://www.shawndygert4idaho.com/"
+},
+{
+"text": "[image]",
+"href": "https://voteidaho.gov/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.shawndygert4idaho.com/event/owyhee-county-republican-central-committee-candidate-forum/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://www.shawndygert4idaho.com/events/"
+},
+{
+"text": "« Nampa Chamber of Commerce Candidate Forum",
+"href": "https://www.shawndygert4idaho.com/event/nampa-chamber-of-commerce-candidate-forum/"
+}
 ]

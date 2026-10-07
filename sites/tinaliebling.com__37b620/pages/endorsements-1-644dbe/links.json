@@ -1,12 +1,54 @@
 [
-"https://facebook.com/LieblingforRep",
-"https://secure.actblue.com/donate/liebling-for-state-house",
-"https://tinaliebling.com/",
-"https://tinaliebling.com/about",
-"https://tinaliebling.com/endorsements-1",
-"https://tinaliebling.com/issues",
-"https://tinaliebling.com/request-a-lawn-sign",
-"https://tinaliebling.com/search",
-"https://tinaliebling.com/subscribe",
-"https://tinaliebling.com/volunteer"
+{
+"text": "507-289-4664",
+"href": "tel:507-289-4664"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/liebling-for-state-house"
+},
+{
+"text": "Email Signup",
+"href": "https://www.tinaliebling.com/subscribe"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tinaliebling.com/endorsements-1"
+},
+{
+"text": "Meet Tina",
+"href": "https://www.tinaliebling.com/about"
+},
+{
+"text": "On the Issues",
+"href": "https://www.tinaliebling.com/issues"
+},
+{
+"text": "Request Lawn Sign",
+"href": "https://www.tinaliebling.com/request-a-lawn-sign"
+},
+{
+"text": "Volunteer",
+"href": "https://www.tinaliebling.com/volunteer"
+},
+{
+"text": "Welcome",
+"href": "https://www.tinaliebling.com/"
+},
+{
+"text": "[image: Tina Liebling]",
+"href": "https://www.tinaliebling.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LieblingforRep"
+},
+{
+"text": "[no text]",
+"href": "https://www.tinaliebling.com/search"
+},
+{
+"text": "info@tinaliebling.com",
+"href": "mailto:info@tinaliebling.com"
+}
 ]

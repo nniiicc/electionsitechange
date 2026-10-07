@@ -1,19 +1,78 @@
 [
-"https://mnvotes.sos.mn.gov/voterstatuscheck/index",
-"https://pollfinder.sos.state.mn.us/",
-"https://repinskiforhouse.com/",
-"https://repinskiforhouse.com/about-me",
-"https://repinskiforhouse.com/accessibility-statement",
-"https://repinskiforhouse.com/author/ann",
-"https://repinskiforhouse.com/contact",
-"https://repinskiforhouse.com/issues",
-"https://repinskiforhouse.com/media",
-"https://repinskiforhouse.com/privacy-policy",
-"https://repinskiforhouse.com/volunteer",
-"https://secure.winred.com/aaron-repinski-for-house/donatetoday",
-"https://sos.state.mn.us/elections-voting/other-ways-to-vote/cities-and-towns-that-vote-by-mail",
-"https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail",
-"https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-in-person",
-"https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad",
-"https://sos.state.mn.us/elections-voting/whats-on-my-ballot"
+{
+"text": "Accessibility Statement",
+"href": "https://www.repinskiforhouse.com/accessibility-statement/"
+},
+{
+"text": "Am I registered to vote?",
+"href": "https://mnvotes.sos.mn.gov/voterstatuscheck/index"
+},
+{
+"text": "Ann Papenfuss",
+"href": "https://www.repinskiforhouse.com/author/ann/"
+},
+{
+"text": "Cities & towns that vote by mail",
+"href": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/cities-and-towns-that-vote-by-mail/"
+},
+{
+"text": "Contact",
+"href": "https://www.repinskiforhouse.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/aaron-repinski-for-house/donatetoday"
+},
+{
+"text": "Find your polling place",
+"href": "https://pollfinder.sos.state.mn.us"
+},
+{
+"text": "HOME",
+"href": "https://pollfinder.sos.state.mn.us"
+},
+{
+"text": "Home",
+"href": "https://www.repinskiforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.repinskiforhouse.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://www.repinskiforhouse.com/media/"
+},
+{
+"text": "Meet Aaron",
+"href": "https://www.repinskiforhouse.com/about-me/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.repinskiforhouse.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.repinskiforhouse.com/volunteer/"
+},
+{
+"text": "Vote early by mail",
+"href": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/"
+},
+{
+"text": "Vote early in person",
+"href": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-in-person/"
+},
+{
+"text": "Voting from military or abroad",
+"href": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/"
+},
+{
+"text": "What’s on my ballot?",
+"href": "https://www.sos.state.mn.us/elections-voting/whats-on-my-ballot/"
+},
+{
+"text": "[image: Aaron Repinski FINAL logo wht - Aaron Repinski for MN State House 26A]",
+"href": "https://www.repinskiforhouse.com/"
+}
 ]

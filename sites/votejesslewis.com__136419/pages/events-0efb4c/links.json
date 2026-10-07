@@ -1,75 +1,426 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Book+Exchange&dates=20260925T213000Z%2F20260925T233000Z&location=Robbinsdale",
-"http://google.com/calendar/event?action=TEMPLATE&text=Crystal+Frolics&dates=20260725T043000Z%2F20260726T053000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Donuts+%26+Democracy&dates=20261003T150000Z%2F20261004T043000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+in-person+voting+begins+at+local+city+halls+&dates=20261016T150000Z%2F20261103T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=General+Election%3A+Get+out+the+Vote%21&dates=20261103T140000Z%2F20261104T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Golden+Valley+Pride+Festival&dates=20260613T170000Z%2F20260613T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Mike+%26+Jess+Listening+Session&dates=20261020T234500Z%2F20261021T004500Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+Election%3A+early+voting+in-person+begins%21&dates=20260626T130000Z%2F20260810T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+Election&dates=20260811T130000Z%2F20260812T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Robbinsdale+Door+Knock+with+Jess+Lewis&dates=20260607T200000Z%2F20260607T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Robbinsdale+Door+Knock+with+Jess+Lewis&dates=20260616T220000Z%2F20260617T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Robbinsdale+Door+Knock+with+Jess+Lewis&dates=20260621T200000Z%2F20260621T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Robbinsdale+Whiz+Bang+Days+-+Walk+with+Team+Jess%2C+Ilhan+Omar%2C+%26+Cedrick+Frazier&dates=20260712T193000Z%2F20260712T213000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=SD+43+DFL+Lawn+Bowling&dates=20260930T230000Z%2F20261001T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Senate+District+43+DFL+Central+Committee+Meeting&dates=20260617T230000Z%2F20260618T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Summer+Solstice+Spritzer&dates=20260623T220000Z%2F20260624T000000Z",
-"http://maps.google.com/?q=+Robbinsdale",
-"http://maps.google.com/?q=Basset+Creek+Park",
-"http://maps.google.com/?q=Brookview+Park",
-"http://maps.google.com/?q=Crystal+City+Hall",
-"http://mnvotes.org/",
-"https://apps.apple.com/us/app/minivan-touch/id352087547",
-"https://bsky.app/profile/votejesslewis.com",
-"https://calendar.app.google/dXe3en1utZy9S9DR8",
-"https://facebook.com/share/17i8ckBwVv?mibextid=wwXlfr",
-"https://instagram.com/jesslewismn",
-"https://jess4mn.com/summerspritzer",
-"https://luma.com/d3da3ns0",
-"https://luma.com/yesforjess",
-"https://mobilize.us/mobilize/event/948075",
-"https://play.google.com/store/apps/details?id=com.voteractivationnetwork.minivan&hl=en_SG",
-"https://secure.actblue.com/donate/jess-lewis",
-"https://threads.com/@jesslewismn?igshid=NTc4MTIwNjQ2YQ%3D%3D",
-"https://votejesslewis.com/",
-"https://votejesslewis.com/cart",
-"https://votejesslewis.com/connect",
-"https://votejesslewis.com/endorsements",
-"https://votejesslewis.com/events",
-"https://votejesslewis.com/events/crystal-frolics",
-"https://votejesslewis.com/events/crystal-frolics?format=ical",
-"https://votejesslewis.com/events/dfl-working-families-picnic",
-"https://votejesslewis.com/events/dfl-working-families-picnic?format=ical",
-"https://votejesslewis.com/events/donuts-democracy",
-"https://votejesslewis.com/events/donuts-democracy?format=ical",
-"https://votejesslewis.com/events/early-in-person-voting-begins-at-local-city-halls",
-"https://votejesslewis.com/events/early-in-person-voting-begins-at-local-city-halls?format=ical",
-"https://votejesslewis.com/events/general-election-get-out-the-vote",
-"https://votejesslewis.com/events/general-election-get-out-the-vote?format=ical",
-"https://votejesslewis.com/events/golden-valley-door-knock-with-jess-lewis",
-"https://votejesslewis.com/events/golden-valley-door-knock-with-jess-lewis?format=ical",
-"https://votejesslewis.com/events/golden-valley-pride-festival",
-"https://votejesslewis.com/events/golden-valley-pride-festival?format=ical",
-"https://votejesslewis.com/events/mike-jess-listening-session",
-"https://votejesslewis.com/events/mike-jess-listening-session?format=ical",
-"https://votejesslewis.com/events/primary-election",
-"https://votejesslewis.com/events/primary-election-early-voting-in-person-begins",
-"https://votejesslewis.com/events/primary-election-early-voting-in-person-begins?format=ical",
-"https://votejesslewis.com/events/primary-election?format=ical",
-"https://votejesslewis.com/events/robbinsdale-door-knock-with-jess-lewis",
-"https://votejesslewis.com/events/robbinsdale-door-knock-with-jess-lewis-1",
-"https://votejesslewis.com/events/robbinsdale-door-knock-with-jess-lewis-1?format=ical",
-"https://votejesslewis.com/events/robbinsdale-door-knock-with-jess-lewis?format=ical",
-"https://votejesslewis.com/events/robbinsdale-whiz-bang-days",
-"https://votejesslewis.com/events/robbinsdale-whiz-bang-days?format=ical",
-"https://votejesslewis.com/events/sd-43-dfl-lawn-bowling",
-"https://votejesslewis.com/events/sd-43-dfl-lawn-bowling?format=ical",
-"https://votejesslewis.com/events/senate-district-43-dfl-central-committee-meeting",
-"https://votejesslewis.com/events/senate-district-43-dfl-central-committee-meeting?format=ical",
-"https://votejesslewis.com/events/summer-solstice-spritzer",
-"https://votejesslewis.com/events/summer-solstice-spritzer?format=ical",
-"https://votejesslewis.com/fuelthecampaign",
-"https://votejesslewis.com/vision",
-"https://votejesslewis.com/vote"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+robbinsdale+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=basset+creek+park"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=brookview+park"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=crystal+city+hall"
+},
+{
+"text": "0",
+"href": "https://www.votejesslewis.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.votejesslewis.com/"
+},
+{
+"text": "Apple MiniVan app",
+"href": "https://apps.apple.com/us/app/minivan-touch/id352087547"
+},
+{
+"text": "Click here to sign up",
+"href": "https://luma.com/yesforjess"
+},
+{
+"text": "Click here to sign up for a time!",
+"href": "https://calendar.app.google/dXe3en1utZy9S9DR8"
+},
+{
+"text": "Community Book Exchange",
+"href": "https://www.votejesslewis.com/events/dfl-working-families-picnic"
+},
+{
+"text": "Connect",
+"href": "https://www.votejesslewis.com/connect"
+},
+{
+"text": "Crystal Frolics",
+"href": "https://www.votejesslewis.com/events/crystal-frolics"
+},
+{
+"text": "Donate",
+"href": "https://www.votejesslewis.com/fuelthecampaign"
+},
+{
+"text": "Donate Online",
+"href": "https://secure.actblue.com/donate/jess-lewis"
+},
+{
+"text": "Donuts & Democracy",
+"href": "https://www.votejesslewis.com/events/donuts-democracy"
+},
+{
+"text": "Early in-person voting begins at local city halls",
+"href": "https://www.votejesslewis.com/events/early-in-person-voting-begins-at-local-city-halls"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejesslewis.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.votejesslewis.com/events"
+},
+{
+"text": "General Election: Get out the Vote!",
+"href": "https://www.votejesslewis.com/events/general-election-get-out-the-vote"
+},
+{
+"text": "Golden Valley Pride Festival",
+"href": "https://www.votejesslewis.com/events/golden-valley-pride-festival"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Book+Exchange&dates=20260925T213000Z%2F20260925T233000Z&location=Robbinsdale"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Crystal+Frolics&dates=20260725T043000Z%2F20260726T053000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Donuts+%26+Democracy&dates=20261003T150000Z%2F20261004T043000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+in-person+voting+begins+at+local+city+halls+&dates=20261016T150000Z%2F20261103T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=General+Election%3A+Get+out+the+Vote%21&dates=20261103T140000Z%2F20261104T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Golden+Valley+Pride+Festival&dates=20260613T170000Z%2F20260613T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Mike+%26+Jess+Listening+Session&dates=20261020T234500Z%2F20261021T004500Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+Election%3A+early+voting+in-person+begins%21&dates=20260626T130000Z%2F20260810T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+Election&dates=20260811T130000Z%2F20260812T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Robbinsdale+Door+Knock+with+Jess+Lewis&dates=20260607T200000Z%2F20260607T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Robbinsdale+Door+Knock+with+Jess+Lewis&dates=20260616T220000Z%2F20260617T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Robbinsdale+Door+Knock+with+Jess+Lewis&dates=20260621T200000Z%2F20260621T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Robbinsdale+Whiz+Bang+Days+-+Walk+with+Team+Jess%2C+Ilhan+Omar%2C+%26+Cedrick+Frazier&dates=20260712T193000Z%2F20260712T213000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=SD+43+DFL+Lawn+Bowling&dates=20260930T230000Z%2F20261001T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Senate+District+43+DFL+Central+Committee+Meeting&dates=20260617T230000Z%2F20260618T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Summer+Solstice+Spritzer&dates=20260623T220000Z%2F20260624T000000Z"
+},
+{
+"text": "Google Play Store: MiniVan app",
+"href": "https://play.google.com/store/apps/details?id=com.voteractivationnetwork.minivan&hl=en_SG"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/crystal-frolics?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/dfl-working-families-picnic?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/donuts-democracy?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/early-in-person-voting-begins-at-local-city-halls?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/general-election-get-out-the-vote?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/golden-valley-door-knock-with-jess-lewis?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/golden-valley-pride-festival?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/mike-jess-listening-session?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/primary-election-early-voting-in-person-begins?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/primary-election?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/robbinsdale-door-knock-with-jess-lewis-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/robbinsdale-door-knock-with-jess-lewis?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/robbinsdale-whiz-bang-days?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/sd-43-dfl-lawn-bowling?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/senate-district-43-dfl-central-committee-meeting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/summer-solstice-spritzer?format=ical"
+},
+{
+"text": "Mike & Jess Listening Session",
+"href": "https://www.votejesslewis.com/events/mike-jess-listening-session"
+},
+{
+"text": "Primary Election",
+"href": "https://www.votejesslewis.com/events/primary-election"
+},
+{
+"text": "Primary Election: early voting in-person begins!",
+"href": "https://www.votejesslewis.com/events/primary-election-early-voting-in-person-begins"
+},
+{
+"text": "Robbinsdale Door Knock with Jess Lewis",
+"href": "https://www.votejesslewis.com/events/golden-valley-door-knock-with-jess-lewis"
+},
+{
+"text": "Robbinsdale Door Knock with Jess Lewis",
+"href": "https://www.votejesslewis.com/events/robbinsdale-door-knock-with-jess-lewis"
+},
+{
+"text": "Robbinsdale Door Knock with Jess Lewis",
+"href": "https://www.votejesslewis.com/events/robbinsdale-door-knock-with-jess-lewis-1"
+},
+{
+"text": "Robbinsdale Whiz Bang Days - Walk with Team Jess, Ilhan Omar, & Cedrick Frazier",
+"href": "https://www.votejesslewis.com/events/robbinsdale-whiz-bang-days"
+},
+{
+"text": "SD 43 DFL Lawn Bowling",
+"href": "https://www.votejesslewis.com/events/sd-43-dfl-lawn-bowling"
+},
+{
+"text": "Senate District 43 DFL Central Committee Meeting",
+"href": "https://www.votejesslewis.com/events/senate-district-43-dfl-central-committee-meeting"
+},
+{
+"text": "Summer Solstice Spritzer",
+"href": "https://www.votejesslewis.com/events/summer-solstice-spritzer"
+},
+{
+"text": "View Event →",
+"href": "https://www.votejesslewis.com/events/crystal-frolics"
+},
+{
+"text": "View Event →",
+"href": "https://www.votejesslewis.com/events/dfl-working-families-picnic"
+},
+{
+"text": "View Event →",
+"href": "https://www.votejesslewis.com/events/donuts-democracy"
+},
+{
+"text": "View Event →",
+"href": "https://www.votejesslewis.com/events/early-in-person-voting-begins-at-local-city-halls"
+},
+{
+"text": "View Event →",
+"href": "https://www.votejesslewis.com/events/general-election-get-out-the-vote"
+},
+{
+"text": "View Event →",
+"href": "https://www.votejesslewis.com/events/golden-valley-door-knock-with-jess-lewis"
+},
+{
+"text": "View Event →",
+"href": "https://www.votejesslewis.com/events/golden-valley-pride-festival"
+},
+{
+"text": "View Event →",
+"href": "https://www.votejesslewis.com/events/mike-jess-listening-session"
+},
+{
+"text": "View Event →",
+"href": "https://www.votejesslewis.com/events/primary-election"
+},
+{
+"text": "View Event →",
+"href": "https://www.votejesslewis.com/events/primary-election-early-voting-in-person-begins"
+},
+{
+"text": "View Event →",
+"href": "https://www.votejesslewis.com/events/robbinsdale-door-knock-with-jess-lewis"
+},
+{
+"text": "View Event →",
+"href": "https://www.votejesslewis.com/events/robbinsdale-door-knock-with-jess-lewis-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.votejesslewis.com/events/robbinsdale-whiz-bang-days"
+},
+{
+"text": "View Event →",
+"href": "https://www.votejesslewis.com/events/sd-43-dfl-lawn-bowling"
+},
+{
+"text": "View Event →",
+"href": "https://www.votejesslewis.com/events/senate-district-43-dfl-central-committee-meeting"
+},
+{
+"text": "View Event →",
+"href": "https://www.votejesslewis.com/events/summer-solstice-spritzer"
+},
+{
+"text": "Vision",
+"href": "https://www.votejesslewis.com/vision"
+},
+{
+"text": "Vote",
+"href": "https://www.votejesslewis.com/vote"
+},
+{
+"text": "[image: Community Book Exchange]",
+"href": "https://www.votejesslewis.com/events/dfl-working-families-picnic"
+},
+{
+"text": "[image: Crystal Frolics]",
+"href": "https://www.votejesslewis.com/events/crystal-frolics"
+},
+{
+"text": "[image: Donuts & Democracy]",
+"href": "https://www.votejesslewis.com/events/donuts-democracy"
+},
+{
+"text": "[image: Early in-person voting begins at local city halls ]",
+"href": "https://www.votejesslewis.com/events/early-in-person-voting-begins-at-local-city-halls"
+},
+{
+"text": "[image: General Election: Get out the Vote!]",
+"href": "https://www.votejesslewis.com/events/general-election-get-out-the-vote"
+},
+{
+"text": "[image: Golden Valley Pride Festival]",
+"href": "https://www.votejesslewis.com/events/golden-valley-pride-festival"
+},
+{
+"text": "[image: Jess Lewis for MN 43B]",
+"href": "https://www.votejesslewis.com/"
+},
+{
+"text": "[image: Mike & Jess Listening Session]",
+"href": "https://www.votejesslewis.com/events/mike-jess-listening-session"
+},
+{
+"text": "[image: Primary Election: early voting in-person begins!]",
+"href": "https://www.votejesslewis.com/events/primary-election-early-voting-in-person-begins"
+},
+{
+"text": "[image: Primary Election]",
+"href": "https://www.votejesslewis.com/events/primary-election"
+},
+{
+"text": "[image: Robbinsdale Door Knock with Jess Lewis]",
+"href": "https://www.votejesslewis.com/events/golden-valley-door-knock-with-jess-lewis"
+},
+{
+"text": "[image: Robbinsdale Door Knock with Jess Lewis]",
+"href": "https://www.votejesslewis.com/events/robbinsdale-door-knock-with-jess-lewis"
+},
+{
+"text": "[image: Robbinsdale Door Knock with Jess Lewis]",
+"href": "https://www.votejesslewis.com/events/robbinsdale-door-knock-with-jess-lewis-1"
+},
+{
+"text": "[image: Robbinsdale Whiz Bang Days - Walk with Team Jess, Ilhan Omar, & Cedrick Frazier]",
+"href": "https://www.votejesslewis.com/events/robbinsdale-whiz-bang-days"
+},
+{
+"text": "[image: SD 43 DFL Lawn Bowling]",
+"href": "https://www.votejesslewis.com/events/sd-43-dfl-lawn-bowling"
+},
+{
+"text": "[image: Senate District 43 DFL Central Committee Meeting]",
+"href": "https://www.votejesslewis.com/events/senate-district-43-dfl-central-committee-meeting"
+},
+{
+"text": "[image: Summer Solstice Spritzer]",
+"href": "https://www.votejesslewis.com/events/summer-solstice-spritzer"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/votejesslewis.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/17i8ckBwVv/?mibextid=wwXlfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jesslewismn/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@jesslewismn?igshid=NTc4MTIwNjQ2YQ%3D%3D"
+},
+{
+"text": "https://jess4mn.com/summerspritzer",
+"href": "https://jess4mn.com/summerspritzer"
+},
+{
+"text": "https://luma.com/d3da3ns0",
+"href": "https://luma.com/d3da3ns0"
+},
+{
+"text": "https://www.mobilize.us/mobilize/event/948075/",
+"href": "https://www.mobilize.us/mobilize/event/948075/"
+},
+{
+"text": "mnvotes.org",
+"href": "http://mnvotes.org"
+}
 ]

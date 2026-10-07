@@ -1,20 +1,74 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=61575482270011",
-"https://helvyforgeorgia.com/",
-"https://helvyforgeorgia.com/contact",
-"https://helvyforgeorgia.com/contribute",
-"https://helvyforgeorgia.com/events",
-"https://helvyforgeorgia.com/home",
-"https://helvyforgeorgia.com/issues",
-"https://helvyforgeorgia.com/make-endorsement",
-"https://helvyforgeorgia.com/meet_eric",
-"https://helvyforgeorgia.com/news",
-"https://helvyforgeorgia.com/photos",
-"https://helvyforgeorgia.com/view-endorsements",
-"https://helvyforgeorgia.com/volunteer",
-"https://helvyforgeorgia.com/vote",
-"https://helvyforgeorgia.com/yard-sign",
-"https://instagram.com/helvyforgeorgia",
-"https://linkedin.com/in/eric-helvy-791b9111"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Click here to add your endorsement",
+"href": "https://www.helvyforgeorgia.com/make-endorsement"
+},
+{
+"text": "Contact",
+"href": "https://www.helvyforgeorgia.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.helvyforgeorgia.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.helvyforgeorgia.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.helvyforgeorgia.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.helvyforgeorgia.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.helvyforgeorgia.com/issues"
+},
+{
+"text": "Meet Eric",
+"href": "https://www.helvyforgeorgia.com/meet_eric"
+},
+{
+"text": "News",
+"href": "https://www.helvyforgeorgia.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.helvyforgeorgia.com/photos"
+},
+{
+"text": "Volunteer",
+"href": "https://www.helvyforgeorgia.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.helvyforgeorgia.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.helvyforgeorgia.com/yard-sign"
+},
+{
+"text": "[image: ERIC HELVY State Senator District 38]",
+"href": "https://www.helvyforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575482270011"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/helvyforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/eric-helvy-791b9111"
+}
 ]

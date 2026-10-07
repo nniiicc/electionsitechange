@@ -1,11 +1,70 @@
 [
-"https://facebook.com/SharpeforMissouri",
-"https://secure.winred.com/sharpe-for-missouri/donate-today",
-"https://sharpeformissouri.com/",
-"https://sharpeformissouri.com/contact",
-"https://sharpeformissouri.com/endorsements",
-"https://sharpeformissouri.com/get-involved",
-"https://sharpeformissouri.com/meet-greg",
-"https://sharpeformissouri.com/news",
-"https://sharpeformissouri.com/where-he-stands"
+{
+"text": "Contact",
+"href": "https://sharpeformissouri.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/sharpe-for-missouri/donate-today"
+},
+{
+"text": "Donate via WinRed",
+"href": "https://secure.winred.com/sharpe-for-missouri/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://sharpeformissouri.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SharpeforMissouri/"
+},
+{
+"text": "Get Involved",
+"href": "https://sharpeformissouri.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://sharpeformissouri.com/"
+},
+{
+"text": "Meet Greg",
+"href": "https://sharpeformissouri.com/meet-greg"
+},
+{
+"text": "News",
+"href": "https://sharpeformissouri.com/news"
+},
+{
+"text": "Read Greg's full story",
+"href": "https://sharpeformissouri.com/meet-greg"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://sharpeformissouri.com/get-involved#yard-sign"
+},
+{
+"text": "See the full platform",
+"href": "https://sharpeformissouri.com/where-he-stands"
+},
+{
+"text": "Team@SharpeForMissouri.com",
+"href": "mailto:Team@SharpeForMissouri.com"
+},
+{
+"text": "Volunteer",
+"href": "https://sharpeformissouri.com/get-involved"
+},
+{
+"text": "Where He Stands",
+"href": "https://sharpeformissouri.com/where-he-stands"
+},
+{
+"text": "[image: Sharpe for MO State Senate]",
+"href": "https://sharpeformissouri.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SharpeforMissouri/"
+}
 ]

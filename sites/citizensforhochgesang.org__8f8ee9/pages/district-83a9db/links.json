@@ -1,36 +1,194 @@
 [
-"https://citizensforhochgesang.org/",
-"https://citizensforhochgesang.org/cdn-cgi/l/email-protection",
-"https://citizensforhochgesang.org/district",
-"https://citizensforhochgesang.org/district/crawford-county",
-"https://citizensforhochgesang.org/district/crawford-county/english",
-"https://citizensforhochgesang.org/district/dubois-county",
-"https://citizensforhochgesang.org/district/dubois-county/huntingburg",
-"https://citizensforhochgesang.org/district/dubois-county/jasper",
-"https://citizensforhochgesang.org/district/gibson-county",
-"https://citizensforhochgesang.org/district/gibson-county/oakland-city",
-"https://citizensforhochgesang.org/district/gibson-county/princeton",
-"https://citizensforhochgesang.org/district/perry-county",
-"https://citizensforhochgesang.org/district/perry-county/cannelton",
-"https://citizensforhochgesang.org/district/perry-county/tell-city",
-"https://citizensforhochgesang.org/district/pike-county",
-"https://citizensforhochgesang.org/district/pike-county/petersburg",
-"https://citizensforhochgesang.org/district/spencer-county",
-"https://citizensforhochgesang.org/district/spencer-county/rockport",
-"https://citizensforhochgesang.org/events",
-"https://citizensforhochgesang.org/facts",
-"https://citizensforhochgesang.org/media",
-"https://citizensforhochgesang.org/news",
-"https://citizensforhochgesang.org/news?place=Crawford+County",
-"https://citizensforhochgesang.org/news?place=Dubois+County",
-"https://citizensforhochgesang.org/news?place=Gibson+County",
-"https://citizensforhochgesang.org/news?place=Perry+County",
-"https://citizensforhochgesang.org/news?place=Pike+County",
-"https://citizensforhochgesang.org/news?place=Spencer+County",
-"https://citizensforhochgesang.org/platform",
-"https://citizensforhochgesang.org/store",
-"https://citizensforhochgesang.org/support",
-"https://facebook.com/bradhochgesangforindianastatesenate",
-"https://instagram.com/bradhochgesang.official",
-"https://youtube.com/@CitizensforHochgesang"
+{
+"text": "About & Priorities",
+"href": "https://citizensforhochgesang.org/platform"
+},
+{
+"text": "Cannelton",
+"href": "https://citizensforhochgesang.org/district/perry-county/cannelton"
+},
+{
+"text": "Contact Us",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "County news",
+"href": "https://citizensforhochgesang.org/news?place=Crawford+County"
+},
+{
+"text": "County news",
+"href": "https://citizensforhochgesang.org/news?place=Dubois+County"
+},
+{
+"text": "County news",
+"href": "https://citizensforhochgesang.org/news?place=Gibson+County"
+},
+{
+"text": "County news",
+"href": "https://citizensforhochgesang.org/news?place=Perry+County"
+},
+{
+"text": "County news",
+"href": "https://citizensforhochgesang.org/news?place=Pike+County"
+},
+{
+"text": "County news",
+"href": "https://citizensforhochgesang.org/news?place=Spencer+County"
+},
+{
+"text": "County page",
+"href": "https://citizensforhochgesang.org/district/crawford-county"
+},
+{
+"text": "County page",
+"href": "https://citizensforhochgesang.org/district/dubois-county"
+},
+{
+"text": "County page",
+"href": "https://citizensforhochgesang.org/district/gibson-county"
+},
+{
+"text": "County page",
+"href": "https://citizensforhochgesang.org/district/perry-county"
+},
+{
+"text": "County page",
+"href": "https://citizensforhochgesang.org/district/pike-county"
+},
+{
+"text": "County page",
+"href": "https://citizensforhochgesang.org/district/spencer-county"
+},
+{
+"text": "Crawford",
+"href": "https://citizensforhochgesang.org/news?place=Crawford+County"
+},
+{
+"text": "Crawford County",
+"href": "https://citizensforhochgesang.org/district/crawford-county"
+},
+{
+"text": "Dubois",
+"href": "https://citizensforhochgesang.org/news?place=Dubois+County"
+},
+{
+"text": "Dubois County",
+"href": "https://citizensforhochgesang.org/district/dubois-county"
+},
+{
+"text": "English",
+"href": "https://citizensforhochgesang.org/district/crawford-county/english"
+},
+{
+"text": "Events",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bradhochgesangforindianastatesenate"
+},
+{
+"text": "Gibson",
+"href": "https://citizensforhochgesang.org/news?place=Gibson+County"
+},
+{
+"text": "Gibson County",
+"href": "https://citizensforhochgesang.org/district/gibson-county"
+},
+{
+"text": "Home",
+"href": "https://citizensforhochgesang.org/"
+},
+{
+"text": "Huntingburg",
+"href": "https://citizensforhochgesang.org/district/dubois-county/huntingburg"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bradhochgesang.official"
+},
+{
+"text": "Jasper",
+"href": "https://citizensforhochgesang.org/district/dubois-county/jasper"
+},
+{
+"text": "Media & Press",
+"href": "https://citizensforhochgesang.org/media"
+},
+{
+"text": "News",
+"href": "https://citizensforhochgesang.org/news"
+},
+{
+"text": "Oakland City",
+"href": "https://citizensforhochgesang.org/district/gibson-county/oakland-city"
+},
+{
+"text": "Our District",
+"href": "https://citizensforhochgesang.org/district"
+},
+{
+"text": "Perry",
+"href": "https://citizensforhochgesang.org/news?place=Perry+County"
+},
+{
+"text": "Perry County",
+"href": "https://citizensforhochgesang.org/district/perry-county"
+},
+{
+"text": "Petersburg",
+"href": "https://citizensforhochgesang.org/district/pike-county/petersburg"
+},
+{
+"text": "Pike",
+"href": "https://citizensforhochgesang.org/news?place=Pike+County"
+},
+{
+"text": "Pike County",
+"href": "https://citizensforhochgesang.org/district/pike-county"
+},
+{
+"text": "Princeton",
+"href": "https://citizensforhochgesang.org/district/gibson-county/princeton"
+},
+{
+"text": "Rockport",
+"href": "https://citizensforhochgesang.org/district/spencer-county/rockport"
+},
+{
+"text": "Shirts & Signs",
+"href": "https://citizensforhochgesang.org/store"
+},
+{
+"text": "Spencer",
+"href": "https://citizensforhochgesang.org/news?place=Spencer+County"
+},
+{
+"text": "Spencer County",
+"href": "https://citizensforhochgesang.org/district/spencer-county"
+},
+{
+"text": "Support",
+"href": "https://citizensforhochgesang.org/support"
+},
+{
+"text": "Tell City",
+"href": "https://citizensforhochgesang.org/district/perry-county/tell-city"
+},
+{
+"text": "The Record",
+"href": "https://citizensforhochgesang.org/facts"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@CitizensforHochgesang"
+},
+{
+"text": "[email protected]",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "[image: Brad Hochgesang for State Senate campaign logo]Brad Hochgesangfor State Senate",
+"href": "https://citizensforhochgesang.org/"
+}
 ]

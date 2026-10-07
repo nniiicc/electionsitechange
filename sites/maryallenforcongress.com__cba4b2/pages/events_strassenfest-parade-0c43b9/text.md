@@ -1,12 +1,5 @@
-Back to All Events
-Don’t let the parade pass you by!
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events Strassenfest parade Sunday, August 2, 2026 12:30 PM 2:00 PM Jasper, Indiana United States (map) Google Calendar ICS Don’t let the parade pass you by!
 Put on your red, white and blue (a Mary Allen tee fits the bill) and come show the community your support for this campaign by joining us in a parade!
 Line up for the parade at 12:30 EST, parade begins at 1pm.
 Click on the link below for more details.
-Previous
-Previous
-August 2
-Caravan from Evansville to Jasper for the Strassenfest parade
-Next
-Next
-August 10
+Source: https://www.mobilize.us/maryallenforcongress/?q=parade Previous Previous August 2 Caravan from Evansville to Jasper for the Strassenfest parade Next Next August 10 Virtual phone bank training (Every 4 wks) REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

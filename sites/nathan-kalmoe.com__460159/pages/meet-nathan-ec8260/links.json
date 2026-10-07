@@ -1,21 +1,90 @@
 [
-"http://google.com/url?q=http%3A%2F%2Ffacebook.com&sa=D&sntz=1&usg=AOvVaw3BCkRzU9i5zG3x7h_Z9aAv",
-"http://google.com/url?q=http%3A%2F%2Finstagram.com&sa=D&sntz=1&usg=AOvVaw1mw-jtMPJC-W0LFTWg7LnO",
-"https://docs.google.com/forms/d/e/1FAIpQLSeh07GRxcnA4FOhUG6K7d14P-SK7p_eDPJsLQCgLKoaA9kGnw/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSfKcx7CHE3we9CIBoqWNDXeJrm8rUZ7_Vvjd9JfrFH3thstIA/viewform?usp=dialog",
-"https://dropbox.com/scl/fi/55dbnl0v845ebzyeduvbk/Hesselbein-IHRA-Email.docx?rlkey=whpbtwi5ynapihv6shokyn1qr&dl=0",
-"https://dropbox.com/scl/fi/crd38gqhlx4rq5a2tth2w/UW-Research-Testing-IHRA-Definition.pdf?rlkey=lhoor5gnx11sq84ohqeeo1y3j&st=xksxgbiw&dl=0",
-"https://geo3550.org/",
-"https://goodauthority.org/news/us-survey-shows-that-anti-israel-views-dont-imply-antisemitism",
-"https://nathan-kalmoe.com/contact",
-"https://nathan-kalmoe.com/donate",
-"https://nathan-kalmoe.com/home",
-"https://nathan-kalmoe.com/listening-to-you",
-"https://nathan-kalmoe.com/meet-nathan",
-"https://nathan-kalmoe.com/news-videos",
-"https://nathan-kalmoe.com/scholarship",
-"https://nathan-kalmoe.com/take-action",
-"https://nathan-kalmoe.com/what-we-want",
-"https://nathan-kalmoe.com/wi-history",
-"https://vdlf.org/"
+{
+"text": "Ask me anything!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeh07GRxcnA4FOhUG6K7d14P-SK7p_eDPJsLQCgLKoaA9kGnw/viewform?usp=header"
+},
+{
+"text": "Contact",
+"href": "https://www.nathan-kalmoe.com/contact"
+},
+{
+"text": "Donate!",
+"href": "https://www.nathan-kalmoe.com/donate"
+},
+{
+"text": "GEO",
+"href": "https://www.geo3550.org/"
+},
+{
+"text": "Home",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "I emailed that research to Sen. Hesselbein",
+"href": "https://www.dropbox.com/scl/fi/55dbnl0v845ebzyeduvbk/Hesselbein-IHRA-Email.docx?rlkey=whpbtwi5ynapihv6shokyn1qr&dl=0"
+},
+{
+"text": "Listening to YOU",
+"href": "https://www.nathan-kalmoe.com/listening-to-you"
+},
+{
+"text": "Meet Nathan",
+"href": "https://www.nathan-kalmoe.com/meet-nathan"
+},
+{
+"text": "My academic research",
+"href": "https://www.dropbox.com/scl/fi/crd38gqhlx4rq5a2tth2w/UW-Research-Testing-IHRA-Definition.pdf?rlkey=lhoor5gnx11sq84ohqeeo1y3j&st=xksxgbiw&dl=0"
+},
+{
+"text": "Nathan for WI Senate",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "News & Videos",
+"href": "https://www.nathan-kalmoe.com/news-videos"
+},
+{
+"text": "Scholarship",
+"href": "https://www.nathan-kalmoe.com/scholarship"
+},
+{
+"text": "Take Action!",
+"href": "https://www.nathan-kalmoe.com/take-action"
+},
+{
+"text": "Voces de la Frontera",
+"href": "https://vdlf.org/"
+},
+{
+"text": "WI History",
+"href": "https://www.nathan-kalmoe.com/wi-history"
+},
+{
+"text": "What We Want",
+"href": "https://www.nathan-kalmoe.com/what-we-want"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Ffacebook.com&sa=D&sntz=1&usg=AOvVaw3BCkRzU9i5zG3x7h_Z9aAv"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Finstagram.com&sa=D&sntz=1&usg=AOvVaw1mw-jtMPJC-W0LFTWg7LnO"
+},
+{
+"text": "[image]",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "[image]Nathan for WI Senate",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfKcx7CHE3we9CIBoqWNDXeJrm8rUZ7_Vvjd9JfrFH3thstIA/viewform?usp=dialog"
+},
+{
+"text": "public-facing media",
+"href": "https://goodauthority.org/news/us-survey-shows-that-anti-israel-views-dont-imply-antisemitism/"
+}
 ]

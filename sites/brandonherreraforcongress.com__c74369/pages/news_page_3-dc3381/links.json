@@ -1,26 +1,214 @@
 [
-"https://brandonherreraforcongress.com/",
-"https://brandonherreraforcongress.com/endorsements",
-"https://brandonherreraforcongress.com/events",
-"https://brandonherreraforcongress.com/events/bexar-county-town-hall-parkers-ice-cream",
-"https://brandonherreraforcongress.com/events/sign-wave-sign-pickup-hosted-by-brandon-herrera-7",
-"https://brandonherreraforcongress.com/events/sign-wave-sign-pickup-hosted-by-brandon-herrera-8",
-"https://brandonherreraforcongress.com/issues",
-"https://brandonherreraforcongress.com/joint-fundraising-notice",
-"https://brandonherreraforcongress.com/meet-brandon",
-"https://brandonherreraforcongress.com/news",
-"https://brandonherreraforcongress.com/news/general-updates",
-"https://brandonherreraforcongress.com/news/general-updates/im-running-for-congress",
-"https://brandonherreraforcongress.com/news/page/2",
-"https://brandonherreraforcongress.com/news/press-releases",
-"https://brandonherreraforcongress.com/news/press-releases/brandon-herrera-breaks-800k-raised-for-congressional-campaign",
-"https://brandonherreraforcongress.com/news/press-releases/challenger-brandon-herrera-massively-outraises-incumbent-rino-tony-gonzales",
-"https://brandonherreraforcongress.com/news/volunteering/johns-first-day-knocking-doors-and-hes-on-fire",
-"https://brandonherreraforcongress.com/news/volunteering/join-team-herrera",
-"https://brandonherreraforcongress.com/veterans-for-brandon-herrera",
-"https://brandonherreraforcongress.com/vote",
-"https://herrera.cmpgn.to/donate",
-"https://herrera.cmpgn.to/fb",
-"https://herrera.cmpgn.to/ig",
-"https://herrera.cmpgn.to/volunteer"
+{
+"text": "1",
+"href": "https://brandonherreraforcongress.com/news/"
+},
+{
+"text": "2",
+"href": "https://brandonherreraforcongress.com/news/page/2/"
+},
+{
+"text": "Bexar County Town Hall – Parker’s Ice Cream Monday, October 19th, 2026 at 11:00 am CST",
+"href": "https://brandonherreraforcongress.com/events/bexar-county-town-hall-parkers-ice-cream/"
+},
+{
+"text": "Border Security",
+"href": "https://brandonherreraforcongress.com/issues/#border-security"
+},
+{
+"text": "Campaign Merch",
+"href": "https://brandonherreraforcongress.com/news/"
+},
+{
+"text": "Campaign News",
+"href": "https://brandonherreraforcongress.com/news/"
+},
+{
+"text": "Click here to read our joint fundraising notice.",
+"href": "https://brandonherreraforcongress.com/joint-fundraising-notice/"
+},
+{
+"text": "Donate",
+"href": "https://herrera.cmpgn.to/donate"
+},
+{
+"text": "Donate to help the campaign",
+"href": "https://herrera.cmpgn.to/donate"
+},
+{
+"text": "Economy",
+"href": "https://brandonherreraforcongress.com/issues/#economy"
+},
+{
+"text": "Education",
+"href": "https://brandonherreraforcongress.com/issues/#education"
+},
+{
+"text": "Endorsements",
+"href": "https://brandonherreraforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://brandonherreraforcongress.com/events/"
+},
+{
+"text": "Follow the campaign on Facebook",
+"href": "https://herrera.cmpgn.to/fb"
+},
+{
+"text": "Follow the campaign on Instagram",
+"href": "https://herrera.cmpgn.to/ig"
+},
+{
+"text": "Foreign Policy",
+"href": "https://brandonherreraforcongress.com/issues/#foreign-policy"
+},
+{
+"text": "General Updates",
+"href": "https://brandonherreraforcongress.com/news/general-updates"
+},
+{
+"text": "Healthcare",
+"href": "https://brandonherreraforcongress.com/issues/#healthcare"
+},
+{
+"text": "Home",
+"href": "https://brandonherreraforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://brandonherreraforcongress.com/issues/"
+},
+{
+"text": "Make America Healthy Again",
+"href": "https://brandonherreraforcongress.com/issues/#maha"
+},
+{
+"text": "Meet Brandon",
+"href": "https://brandonherreraforcongress.com/meet-brandon/"
+},
+{
+"text": "News",
+"href": "https://brandonherreraforcongress.com/news/"
+},
+{
+"text": "On The Issues",
+"href": "https://brandonherreraforcongress.com/issues/"
+},
+{
+"text": "Phone: (210) 940-9274",
+"href": "tel:+12109409274"
+},
+{
+"text": "Press Releases",
+"href": "https://brandonherreraforcongress.com/news/press-releases/"
+},
+{
+"text": "Previous",
+"href": "https://brandonherreraforcongress.com/news/page/2/"
+},
+{
+"text": "Pro-Life",
+"href": "https://brandonherreraforcongress.com/issues/#pro-life"
+},
+{
+"text": "Protecting Women’s Sports",
+"href": "https://brandonherreraforcongress.com/issues/#womens-sports"
+},
+{
+"text": "Second Amendment",
+"href": "https://brandonherreraforcongress.com/issues/#second-amendment"
+},
+{
+"text": "See Our Event Schedule",
+"href": "https://brandonherreraforcongress.com/events/"
+},
+{
+"text": "Serving Veterans",
+"href": "https://brandonherreraforcongress.com/issues/#serving-veterans"
+},
+{
+"text": "Sign Wave + Sign Pickup Hosted by Brandon Herrera Saturday, October 10th, 2026 at 10:00 am CST",
+"href": "https://brandonherreraforcongress.com/events/sign-wave-sign-pickup-hosted-by-brandon-herrera-7/"
+},
+{
+"text": "Sign Wave + Sign Pickup Hosted by Brandon Herrera Saturday, October 17th, 2026 at 10:00 am CST",
+"href": "https://brandonherreraforcongress.com/events/sign-wave-sign-pickup-hosted-by-brandon-herrera-8/"
+},
+{
+"text": "Supporting Trump",
+"href": "https://brandonherreraforcongress.com/issues/#supporting-trump"
+},
+{
+"text": "Term Limits",
+"href": "https://brandonherreraforcongress.com/issues/#term-limits"
+},
+{
+"text": "Upcoming Events",
+"href": "https://brandonherreraforcongress.com/events/"
+},
+{
+"text": "Veteran Endorsement",
+"href": "https://brandonherreraforcongress.com/veterans-for-brandon-herrera/"
+},
+{
+"text": "View Endorsements",
+"href": "https://brandonherreraforcongress.com/endorsements/"
+},
+{
+"text": "Volunteer",
+"href": "https://herrera.cmpgn.to/volunteer"
+},
+{
+"text": "Volunteer for the campaign",
+"href": "https://herrera.cmpgn.to/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://brandonherreraforcongress.com/vote/"
+},
+{
+"text": "Voting Information",
+"href": "https://brandonherreraforcongress.com/vote/"
+},
+{
+"text": "[image: Brandon Herrera Breaks $800K Raised for Congressional Campaign] Press Releases Brandon Herrera Breaks $# Raised for Congressional Campaign San Antonio, TX – Today, the Brandon Herrera campaign announced it has raised a total of $829,855.38 since launching in August. This nearly matches the amount raised during the entire primary campaign in the previous election cycle. This total includes $724,097.34 raised through the Brandon Herrera Victory Committee, as reported in filings today, plus an […] Read More Posted October 21, 2025",
+"href": "https://brandonherreraforcongress.com/news/press-releases/brandon-herrera-breaks-800k-raised-for-congressional-campaign/"
+},
+{
+"text": "[image: Challenger Brandon Herrera Massively Outraises Incumbent RINO Tony Gonzales] Press Releases Challenger Brandon Herrera Massively Outraises Incumbent RINO Tony Gonzales San Antonio, TX – According to FEC reports for the third quarter of 2025, fake Republican Congressman Tony Gonzales was outraised by pro-Trump, pro-Constitution challenger Brandon Herrera by a whopping 67%. While Herrera raised $305,271.99, Tony Gonzales brought in just $182,958.59. Even worse for Gonzales, he spent nearly everything he raised ($173,332.28). A closer look […] Read More Posted October 18, 2025",
+"href": "https://brandonherreraforcongress.com/news/press-releases/challenger-brandon-herrera-massively-outraises-incumbent-rino-tony-gonzales/"
+},
+{
+"text": "[image] General Updates I’m Running For Congress In the 1976 film Rocky, despite what people might remember, Sylvester Stallone’s character, Rocky Balboa, doesn’t actually win in the climax of the film. Instead, everyone is impressed that, despite going up against the current champion, this rough-around-the-edges everyman goes the distance, beating everyone’s expectations and almost winning. In fact, it’s not until the rematch […] Read More Posted August 9, 2025",
+"href": "https://brandonherreraforcongress.com/news/general-updates/im-running-for-congress/"
+},
+{
+"text": "[image] General Updates Running For Congress – The First 30 Days A Message from Brandon Thank you to everyone for your outpouring of support so far! This campaign is wasting no time getting into gear, and the response has been incredible. We have more momentum, better fundraising, more resources, and higher odds than ever before, and it’s all because of you. I have no doubt that […] Read More Posted October 22, 2025",
+"href": "https://brandonherreraforcongress.com/news/general-updates/running-for-congress-the-first-30-days/"
+},
+{
+"text": "[image] Volunteering Join Team Herrera! Join the movement to help elect Brandon Herrera to Congress! If you’ve been thinking about getting involved, now’s the time! Whether you’re new to canvassing or a seasoned pro, we’d love for you to join us. Together, we’re making a difference and having a great time doing it! 👉🏻 Sign up to volunteer today and […] Read More Posted October 17, 2025",
+"href": "https://brandonherreraforcongress.com/news/volunteering/join-team-herrera/"
+},
+{
+"text": "[image] Volunteering 🔥 John’s First Day Knocking Doors and He’s on Fire! 🔥 We’re excited to highlight John, one of our incredible volunteers, who hit the ground running over the weekend, on his very first day canvassing for Brandon Herrera for Congress (TX-23)! His energy, passion, and dedication are exactly what keeps this movement growing. We’re so grateful for volunteers like John who are helping us share Brandon’s message […] Read More Posted October 13, 2025",
+"href": "https://brandonherreraforcongress.com/news/volunteering/johns-first-day-knocking-doors-and-hes-on-fire/"
+},
+{
+"text": "[no text]",
+"href": "https://brandonherreraforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://herrera.cmpgn.to/fb"
+},
+{
+"text": "[no text]",
+"href": "https://herrera.cmpgn.to/ig"
+},
+{
+"text": "info@brandonherreraforcongress.com",
+"href": "mailto:info@brandonherreraforcongress.com"
+}
 ]

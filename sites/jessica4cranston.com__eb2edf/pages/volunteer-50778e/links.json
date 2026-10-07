@@ -1,10 +1,34 @@
 [
-"https://api.flowpro-crm.com/widget/form/ZdM7spzxelVLR8zj79sN",
-"https://cranstonri.gov/",
-"https://jessica4cranston.com/home-page",
-"https://jessica4cranston.com/issues",
-"https://jessica4cranston.com/meet-jessica",
-"https://jessica4cranston.com/volunteer",
-"https://oceanstatecurrent.com/letsgoletsgrow",
-"https://secure.winred.com/friends-of-jessica-gomes/donate-today?exitintent=true"
+{
+"text": "Cranston Resources",
+"href": "https://www.cranstonri.gov/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-jessica-gomes/donate-today?exitintent=true"
+},
+{
+"text": "Home",
+"href": "https://jessica4cranston.com/home-page"
+},
+{
+"text": "Issues",
+"href": "https://jessica4cranston.com/issues"
+},
+{
+"text": "Meet Jessica",
+"href": "https://jessica4cranston.com/meet-jessica"
+},
+{
+"text": "Sign Up to Volunteer",
+"href": "https://api.flowpro-crm.com/widget/form/ZdM7spzxelVLR8zj79sN"
+},
+{
+"text": "Videos",
+"href": "https://oceanstatecurrent.com/letsgoletsgrow/"
+},
+{
+"text": "Volunteer",
+"href": "https://jessica4cranston.com/volunteer"
+}
 ]

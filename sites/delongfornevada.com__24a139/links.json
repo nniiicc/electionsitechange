@@ -1,13 +1,62 @@
 [
-"https://delongfornevada.com/",
-"https://delongfornevada.com/about",
-"https://delongfornevada.com/contact",
-"https://delongfornevada.com/events",
-"https://delongfornevada.com/issues",
-"https://delongfornevada.com/news",
-"https://delongfornevada.com/so/5cOZ5NZlP/c?w=2CB3yV32F47eoR7gnfviSFA0WF3pEK139YcuTkSSiyo.eyJ1IjoiaHR0cHM6Ly9tYXBzLmdvb2dsZS5jb20vP3E9NTkrRGFtb250ZStSYW5jaCtQYXJrd2F5JTJDK1Jlbm8lMkMrTlYlMkMrVVNBIiwiciI6ImI2OTM2ZjY4LWEyZjgtNDIyYy0xOGVhLWNiZjE5ZWU2MjFiYiIsIm0iOiJscCJ9",
-"https://facebook.com/delong4nv",
-"https://linkedin.com/in/richard-delong-b5771319",
-"https://secure.winred.com/delongfornevada/donate",
-"https://twitter.com/delong4nv"
+{
+"text": "About",
+"href": "https://www.delongfornevada.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.delongfornevada.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/delongfornevada/donate"
+},
+{
+"text": "Events",
+"href": "https://www.delongfornevada.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.delongfornevada.com"
+},
+{
+"text": "Issues",
+"href": "https://www.delongfornevada.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.delongfornevada.com/news"
+},
+{
+"text": "Paid for by Delong for Nevada 59 Damonte Ranch Parkway, Reno, NV, US",
+"href": "https://www.delongfornevada.com/so/5cOZ5NZlP/c?w=2CB3yV32F47eoR7gnfviSFA0WF3pEK139YcuTkSSiyo.eyJ1IjoiaHR0cHM6Ly9tYXBzLmdvb2dsZS5jb20vP3E9NTkrRGFtb250ZStSYW5jaCtQYXJrd2F5JTJDK1Jlbm8lMkMrTlYlMkMrVVNBIiwiciI6ImI2OTM2ZjY4LWEyZjgtNDIyYy0xOGVhLWNiZjE5ZWU2MjFiYiIsIm0iOiJscCJ9"
+},
+{
+"text": "Rich@DeLongForNevada.com",
+"href": "mailto:Rich@DeLongForNevada.com"
+},
+{
+"text": "[image: Circular Mail Icon]",
+"href": "mailto:delongfornevada@gmail.com"
+},
+{
+"text": "[image: DeLongGE-1.png]",
+"href": "https://www.delongfornevada.com"
+},
+{
+"text": "[image: DelongGE-3.png]",
+"href": "https://www.delongfornevada.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/delong4nv"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/richard-delong-b5771319/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/delong4nv"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.brendaksanders.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "363ae2373261d215878699e74e03472f93f64431",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

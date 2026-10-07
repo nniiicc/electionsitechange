@@ -1,4 +1,4 @@
-In the Albany sewer and Washington swamp, displaying a mere ounce of integrity or ethics puts you on the fast-track to becoming a political outcast.
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Previous page No Silver linings for corrupt politicians Share June 2 2018 In the Albany sewer and Washington swamp, displaying a mere ounce of integrity or ethics puts you on the fast-track to becoming a political outcast.
 For the creatures of the sewer and swamp, success is often measured not by serving your constituents and taxpayers well, but by how much you can personally benefit from your elected position.
 Take exhibit A: Sheldon Silver.
 After serving nearly 40 years in one of New York’s most prestigious institutions, the state Assembly, he was invited by a jury of his peers to spend another 12 in a federal one – prison.
@@ -20,7 +20,8 @@ Following the Supreme Court’s ruling, this legislation is necessary to ensure 
 And with the federal corruption trials of Gov.
 Cuomo’s close associates and aides on the horizon, closing this loophole is now more important than ever.
 The consequences of political criminal activity have held New York and its people back for years.
-It’s time to give the Albany sewer a deep clean and drain the swamp by passing the “Upholding the Integrity of Public Officials Act” (H.R. 4218).
+It’s time to give the Albany sewer a deep clean and drain the swamp by passing the “Upholding the Integrity of Public Officials Act” (H.R.
+4218).
 A public servant should never personally benefit from public office, and, when they do, they should pay the price.
 Allowing corrupt politicians, like Sheldon Silver, who have been convicted in a court of law to go free, is an insult to the people of New York.
 It undermines the very pillars of oversight and transparency that are vital to our democracy.
@@ -28,3 +29,5 @@ It is a simple and fair standard that we should expect all “public servants”
 Power, influence, and access should not be reserved for those with the money to buy (or steal) it.
 The black market in political favors and gifts ends now.
 Our great democracy is not for sale.
+Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

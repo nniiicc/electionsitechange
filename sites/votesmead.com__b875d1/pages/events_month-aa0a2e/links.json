@@ -1,74 +1,314 @@
 [
-"https://bsky.app/profile/joshsmead.bsky.social",
-"https://facebook.com/profile.php?id=61574602100872",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/smead_for_missouri",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress",
-"https://secure.actblue.com/donate/votesmead",
-"https://store.votesmead.com/",
-"https://threads.com/@smead_for_missouri",
-"https://tiktok.com/@josh.smead",
-"https://votesmead.com/",
-"https://votesmead.com/event/audrain-county-democratic-club-dinner",
-"https://votesmead.com/event/brunswick-pecan-festival",
-"https://votesmead.com/event/kirksville-chamber-candidate-forum",
-"https://votesmead.com/event/league-of-women-voters-candidate-forum",
-"https://votesmead.com/event/meet-the-candidates-platte-county",
-"https://votesmead.com/event/missouri-press-roundtable",
-"https://votesmead.com/event/ongoing-phone-bank-for-josh",
-"https://votesmead.com/event/st-joseph-candidate-forum",
-"https://votesmead.com/event/whistlestop-bus-tour-oct-16-17",
-"https://votesmead.com/event/whistlestop-bus-tour-oct-9-10",
-"https://votesmead.com/events",
-"https://votesmead.com/events/2026-09-28",
-"https://votesmead.com/events/2026-09-29",
-"https://votesmead.com/events/2026-09-30",
-"https://votesmead.com/events/2026-10-01",
-"https://votesmead.com/events/2026-10-02",
-"https://votesmead.com/events/2026-10-03",
-"https://votesmead.com/events/2026-10-04",
-"https://votesmead.com/events/2026-10-05",
-"https://votesmead.com/events/2026-10-06",
-"https://votesmead.com/events/2026-10-07",
-"https://votesmead.com/events/2026-10-08",
-"https://votesmead.com/events/2026-10-09",
-"https://votesmead.com/events/2026-10-10",
-"https://votesmead.com/events/2026-10-11",
-"https://votesmead.com/events/2026-10-12",
-"https://votesmead.com/events/2026-10-13",
-"https://votesmead.com/events/2026-10-14",
-"https://votesmead.com/events/2026-10-15",
-"https://votesmead.com/events/2026-10-16",
-"https://votesmead.com/events/2026-10-17",
-"https://votesmead.com/events/2026-10-18",
-"https://votesmead.com/events/2026-10-19",
-"https://votesmead.com/events/2026-10-20",
-"https://votesmead.com/events/2026-10-21",
-"https://votesmead.com/events/2026-10-22",
-"https://votesmead.com/events/2026-10-23",
-"https://votesmead.com/events/2026-10-24",
-"https://votesmead.com/events/2026-10-25",
-"https://votesmead.com/events/2026-10-26",
-"https://votesmead.com/events/2026-10-27",
-"https://votesmead.com/events/2026-10-28",
-"https://votesmead.com/events/2026-10-29",
-"https://votesmead.com/events/2026-10-30",
-"https://votesmead.com/events/2026-10-31",
-"https://votesmead.com/events/2026-11-01",
-"https://votesmead.com/events/list",
-"https://votesmead.com/events/month",
-"https://votesmead.com/events/month/2026-09",
-"https://votesmead.com/events/month/2026-11",
-"https://votesmead.com/events/month?ical=1",
-"https://votesmead.com/events/month?outlook-ical=1",
-"https://votesmead.com/events/today",
-"https://votesmead.com/freedom",
-"https://votesmead.com/get-involved",
-"https://votesmead.com/media",
-"https://votesmead.com/meet-josh",
-"https://votesmead.com/privacy-policy",
-"https://votesmead.com/the-plan",
-"https://x.com/JoshSmead",
-"https://youtube.com/@JoshSmead"
+{
+"text": "1",
+"href": "https://votesmead.com/events/2026-10-01/"
+},
+{
+"text": "1",
+"href": "https://votesmead.com/events/2026-11-01/"
+},
+{
+"text": "10",
+"href": "https://votesmead.com/events/2026-10-10/"
+},
+{
+"text": "11",
+"href": "https://votesmead.com/events/2026-10-11/"
+},
+{
+"text": "12",
+"href": "https://votesmead.com/events/2026-10-12/"
+},
+{
+"text": "13",
+"href": "https://votesmead.com/events/2026-10-13/"
+},
+{
+"text": "14",
+"href": "https://votesmead.com/events/2026-10-14/"
+},
+{
+"text": "15",
+"href": "https://votesmead.com/events/2026-10-15/"
+},
+{
+"text": "16",
+"href": "https://votesmead.com/events/2026-10-16/"
+},
+{
+"text": "17",
+"href": "https://votesmead.com/events/2026-10-17/"
+},
+{
+"text": "18",
+"href": "https://votesmead.com/events/2026-10-18/"
+},
+{
+"text": "19",
+"href": "https://votesmead.com/events/2026-10-19/"
+},
+{
+"text": "2",
+"href": "https://votesmead.com/events/2026-10-02/"
+},
+{
+"text": "20",
+"href": "https://votesmead.com/events/2026-10-20/"
+},
+{
+"text": "21",
+"href": "https://votesmead.com/events/2026-10-21/"
+},
+{
+"text": "22",
+"href": "https://votesmead.com/events/2026-10-22/"
+},
+{
+"text": "23",
+"href": "https://votesmead.com/events/2026-10-23/"
+},
+{
+"text": "24",
+"href": "https://votesmead.com/events/2026-10-24/"
+},
+{
+"text": "25",
+"href": "https://votesmead.com/events/2026-10-25/"
+},
+{
+"text": "26",
+"href": "https://votesmead.com/events/2026-10-26/"
+},
+{
+"text": "27",
+"href": "https://votesmead.com/events/2026-10-27/"
+},
+{
+"text": "28",
+"href": "https://votesmead.com/events/2026-09-28/"
+},
+{
+"text": "28",
+"href": "https://votesmead.com/events/2026-10-28/"
+},
+{
+"text": "29",
+"href": "https://votesmead.com/events/2026-09-29/"
+},
+{
+"text": "29",
+"href": "https://votesmead.com/events/2026-10-29/"
+},
+{
+"text": "3",
+"href": "https://votesmead.com/events/2026-10-03/"
+},
+{
+"text": "30",
+"href": "https://votesmead.com/events/2026-09-30/"
+},
+{
+"text": "30",
+"href": "https://votesmead.com/events/2026-10-30/"
+},
+{
+"text": "31",
+"href": "https://votesmead.com/events/2026-10-31/"
+},
+{
+"text": "4",
+"href": "https://votesmead.com/events/2026-10-04/"
+},
+{
+"text": "5",
+"href": "https://votesmead.com/events/2026-10-05/"
+},
+{
+"text": "6",
+"href": "https://votesmead.com/events/2026-10-06/"
+},
+{
+"text": "7",
+"href": "https://votesmead.com/events/2026-10-07/"
+},
+{
+"text": "8",
+"href": "https://votesmead.com/events/2026-10-08/"
+},
+{
+"text": "9",
+"href": "https://votesmead.com/events/2026-10-09/"
+},
+{
+"text": "Audrain County Democratic Club Dinner",
+"href": "https://votesmead.com/event/audrain-county-democratic-club-dinner/"
+},
+{
+"text": "Brunswick Pecan Festival",
+"href": "https://votesmead.com/event/brunswick-pecan-festival/"
+},
+{
+"text": "Day",
+"href": "https://votesmead.com/events/today/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesmead"
+},
+{
+"text": "Events",
+"href": "https://votesmead.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://votesmead.com/events/month/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://votesmead.com/events/month/?outlook-ical=1"
+},
+{
+"text": "Get Involved",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Kirksville Chamber of Commerce Candidate Forum",
+"href": "https://votesmead.com/event/kirksville-chamber-candidate-forum/"
+},
+{
+"text": "League of Women Voters Candidate Forum",
+"href": "https://votesmead.com/event/league-of-women-voters-candidate-forum/"
+},
+{
+"text": "List",
+"href": "https://votesmead.com/events/list/"
+},
+{
+"text": "Media",
+"href": "https://votesmead.com/media/"
+},
+{
+"text": "Meet Josh",
+"href": "https://votesmead.com/meet-josh/"
+},
+{
+"text": "Meet the Candidates — Platte County Dems",
+"href": "https://votesmead.com/event/meet-the-candidates-platte-county/"
+},
+{
+"text": "Missouri Press Roundtable",
+"href": "https://votesmead.com/event/missouri-press-roundtable/"
+},
+{
+"text": "Month",
+"href": "https://votesmead.com/events/month/"
+},
+{
+"text": "Nov",
+"href": "https://votesmead.com/events/month/2026-11/"
+},
+{
+"text": "Ongoing: Phone Bank for Josh",
+"href": "https://votesmead.com/event/ongoing-phone-bank-for-josh/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votesmead.com/privacy-policy/"
+},
+{
+"text": "Sep",
+"href": "https://votesmead.com/events/month/2026-09/"
+},
+{
+"text": "St. Joseph Candidate Forum",
+"href": "https://votesmead.com/event/st-joseph-candidate-forum/"
+},
+{
+"text": "Store",
+"href": "https://store.votesmead.com/"
+},
+{
+"text": "The Plan",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "The Platform",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "This Month",
+"href": "https://votesmead.com/events/month/"
+},
+{
+"text": "Volunteer",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "What Freedom Means",
+"href": "https://votesmead.com/freedom/"
+},
+{
+"text": "Whistlestop Bus Tour — October 16–17",
+"href": "https://votesmead.com/event/whistlestop-bus-tour-oct-16-17/"
+},
+{
+"text": "Whistlestop Bus Tour — October 9–10",
+"href": "https://votesmead.com/event/whistlestop-bus-tour-oct-9-10/"
+},
+{
+"text": "[image: Josh Smead for Congress]",
+"href": "https://votesmead.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joshsmead.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61574602100872"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/smead_for_missouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@smead_for_missouri"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@josh.smead"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JoshSmead"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JoshSmead"
+},
+{
+"text": "[tooltip: Next month]",
+"href": "https://votesmead.com/events/month/2026-11/"
+},
+{
+"text": "[tooltip: Previous month]",
+"href": "https://votesmead.com/events/month/2026-09/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://votesmead.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

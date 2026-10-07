@@ -1,24 +1,106 @@
 [
-"https://ballotpedia.org/Party_control_of_New_Hampshire_state_government",
-"https://carsey.unh.edu/sites/default/files/media/2020/06/what_did_they_mean_by_cherish_short_version.pdf",
-"https://casetext.com/case/claremont-school-dist-v-governor-1",
-"https://courts.nh.gov/sites/g/files/ehbemt471/files/documents/2023-11/contoocook-valley-sch-dist-et-al-v-state-et-al-merits-to-dwr-002.pdf",
-"https://edlawcenter.org/assets/files/pdfs/EdJustice/ej_newsblast_161101_Dover_vs_Sta.pdf",
-"https://gc.nh.gov/bill_status/legacy/bs2016/bill_docket.aspx?lsr=2811&sy=2000&txtsessionyear=2000&txtbillnumber=CACR39",
-"https://gc.nh.gov/bill_status/legacy/bs2016/bill_docket.aspx?lsr=2923&sy=2008&sortoption=billnumber&txtsessionyear=2008&txtbillnumber=sb539",
-"https://legiscan.com/NH/bill/CACR12/2012",
-"https://nh.gov/glance/literature.htm",
-"https://secure.anedot.com/stephen-villee-for-governor/donate",
-"https://villee4nh.com/",
-"https://villee4nh.com/20000-activists.html",
-"https://villee4nh.com/article-83.html",
-"https://villee4nh.com/contact.html",
-"https://villee4nh.com/drugs.html",
-"https://villee4nh.com/end-of-life.html",
-"https://villee4nh.com/grandfathering.html",
-"https://villee4nh.com/libertarianism.html",
-"https://villee4nh.com/lpnh-tweets.html",
-"https://villee4nh.com/pandemic-response.html",
-"https://villee4nh.com/secession.html",
-"https://villee4nh.com/veto-list.html"
+{
+"text": "20,000 Activists",
+"href": "https://villee4nh.com/20000-activists.html"
+},
+{
+"text": "Article 83",
+"href": "https://villee4nh.com/article-83.html"
+},
+{
+"text": "Article 83",
+"href": "https://www.nh.gov/glance/literature.htm"
+},
+{
+"text": "CACR12",
+"href": "https://legiscan.com/NH/bill/CACR12/2012"
+},
+{
+"text": "CACR39",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_docket.aspx?lsr=2811&sy=2000&sortoption=&txtsessionyear=2000&txtbillnumber=CACR39"
+},
+{
+"text": "Contact",
+"href": "https://villee4nh.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/stephen-villee-for-governor/donate"
+},
+{
+"text": "Drugs",
+"href": "https://villee4nh.com/drugs.html"
+},
+{
+"text": "End of Life",
+"href": "https://villee4nh.com/end-of-life.html"
+},
+{
+"text": "Grandfathering",
+"href": "https://villee4nh.com/grandfathering.html"
+},
+{
+"text": "Home",
+"href": "https://villee4nh.com/"
+},
+{
+"text": "LPNH Tweets",
+"href": "https://villee4nh.com/lpnh-tweets.html"
+},
+{
+"text": "Libertarianism",
+"href": "https://villee4nh.com/libertarianism.html"
+},
+{
+"text": "Lose the Fear",
+"href": "https://villee4nh.com/#lose-the-fear"
+},
+{
+"text": "Lose the Hate",
+"href": "https://villee4nh.com/#lose-the-hate"
+},
+{
+"text": "Pandemic Response",
+"href": "https://villee4nh.com/pandemic-response.html"
+},
+{
+"text": "SB539",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_docket.aspx?lsr=2923&sy=2008&sortoption=billnumber&txtsessionyear=2008&txtbillnumber=sb539"
+},
+{
+"text": "Secession",
+"href": "https://villee4nh.com/secession.html"
+},
+{
+"text": "Veto List",
+"href": "https://villee4nh.com/veto-list.html"
+},
+{
+"text": "What Did They Mean By \"Cherish?\"",
+"href": "https://carsey.unh.edu/sites/default/files/media/2020/06/what_did_they_mean_by_cherish_short_version.pdf"
+},
+{
+"text": "[image: Stephen Villee for New Hampshire logo]",
+"href": "https://villee4nh.com/"
+},
+{
+"text": "grandfather",
+"href": "https://villee4nh.com/grandfathering.html"
+},
+{
+"text": "ruled",
+"href": "https://casetext.com/case/claremont-school-dist-v-governor-1"
+},
+{
+"text": "ruled",
+"href": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2023-11/contoocook-valley-sch-dist-et-al-v-state-et-al-merits-to-dwr-002.pdf"
+},
+{
+"text": "ruling",
+"href": "https://edlawcenter.org/assets/files/pdfs/EdJustice/ej_newsblast_161101_Dover_vs_Sta.pdf"
+},
+{
+"text": "trifecta",
+"href": "https://ballotpedia.org/Party_control_of_New_Hampshire_state_government"
+}
 ]

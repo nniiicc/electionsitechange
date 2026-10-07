@@ -1,7 +1,30 @@
 [
-"http://mattknickerbocker.com/privacy",
-"https://mattknickerbocker.com/",
-"https://mattknickerbocker.com/about-matt",
-"https://mattknickerbocker.com/priorities",
-"https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote"
+{
+"text": "About Matt",
+"href": "https://www.mattknickerbocker.com/about-matt"
+},
+{
+"text": "Home",
+"href": "https://www.mattknickerbocker.com"
+},
+{
+"text": "How to Vote",
+"href": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote"
+},
+{
+"text": "Learn more about Matt",
+"href": "https://www.mattknickerbocker.com/about-matt"
+},
+{
+"text": "Matt's Priorities",
+"href": "https://www.mattknickerbocker.com/priorities"
+},
+{
+"text": "View our privacy policy here",
+"href": "http://mattknickerbocker.com/privacy"
+},
+{
+"text": "[no text]",
+"href": "https://www.mattknickerbocker.com"
+}
 ]

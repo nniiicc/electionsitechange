@@ -1,11 +1,50 @@
 [
-"https://google.com/calendar/event?action=TEMPLATE&dates=20261103T000000%2F20261103T235959&text=General+election&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvanoortforvermont.com",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-11-03T00%3A00%3A00-05%3A00&enddt=2026-11-03T00%3A00%3A00&subject=General+election",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-11-03T00%3A00%3A00-05%3A00&enddt=2026-11-03T00%3A00%3A00&subject=General+election",
-"https://vanoortforvermont.com/",
-"https://vanoortforvermont.com/about",
-"https://vanoortforvermont.com/event/amanda-janoo-town-hall",
-"https://vanoortforvermont.com/events",
-"https://vanoortforvermont.com/get-involved",
-"https://vanoortforvermont.com/updates"
+{
+"text": "About",
+"href": "https://vanoortforvermont.com/about/"
+},
+{
+"text": "Events",
+"href": "https://vanoortforvermont.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://vanoortforvermont.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20261103T000000%2F20261103T235959&text=General+election&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvanoortforvermont.com"
+},
+{
+"text": "Home",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T00%3A00%3A00-05%3A00&enddt=%23T00%3A00%3A00&location=&subject=General+election&body="
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T00%3A00%3A00-05%3A00&enddt=%23T00%3A00%3A00&location=&subject=General+election&body="
+},
+{
+"text": "Updates",
+"href": "https://vanoortforvermont.com/updates/"
+},
+{
+"text": "[image: Dandelion logo]",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://vanoortforvermont.com/event/general-election/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://vanoortforvermont.com/events/"
+},
+{
+"text": "« Amanda Janoo town hall",
+"href": "https://vanoortforvermont.com/event/amanda-janoo-town-hall/"
+}
 ]

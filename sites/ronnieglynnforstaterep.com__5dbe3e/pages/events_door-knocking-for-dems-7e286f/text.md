@@ -1,14 +1,5 @@
-Back to All Events
-The best way to elect Democrats is to talk to voters about our candidates.
+0 Skip to Content Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Donate Open Menu Close Menu Open Menu Close Menu Donate Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Donate Back to All Events Door Knocking for Dems Thursday, September 8, 2022 5:00 PM Saturday, October 1, 2022 8:00 PM Google Calendar ICS The best way to elect Democrats is to talk to voters about our candidates.
 Join our door knocking team now through November as we get out the vote for Odessa Kelly and Ronnie Glynn.
 You will be trained on our message and how to talk to votes.
 Bring a friend if you want to door knock as a team!
-RSVP for any of our dates at the link below!
-https://www.mobilize.us/mobilize/event/495900/
-Previous
-Previous
-August 4
-Election Night Celebration
-Next
-Next
-August 3
+RSVP for any of our dates at the link below! https://www.mobilize.us/mobilize/event/495900/ Previous Previous August 4 Election Night Celebration Next Next August 3 Door Knock for Ronnie Glynn ‪ (931) 551-2397 ‬ | info@ronnieglynnforstaterep.com What Voters Need to Know

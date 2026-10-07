@@ -1,9 +1,1 @@
-Back to All Events
-This is another chance to meet the 2026 candidates for Sherburne County Auditor, Attorney, and District 3 Commissioner
-Previous
-Previous
-September 29
-Big Lake State Candidate Forum
-Next
-Next
-October 2
+0 Skip to Content Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Back to All Events Becker Election Roundtable Wednesday, September 30, 2026 5:30 PM 7:00 PM Pebble Creek Golf Club Becker, MN (map) Google Calendar ICS This is another chance to meet the 2026 candidates for Sherburne County Auditor, Attorney, and District 3 Commissioner Previous Previous September 29 Big Lake State Candidate Forum Next Next October 2 Big Lake Door Knocking Paid for by Davenport for Minnesota House 27A

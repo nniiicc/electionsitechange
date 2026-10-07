@@ -1,4 +1,4 @@
-One of the biggest misconceptions about newcomers to politics is that they lack an understanding of public policy and how government works.
+Home My Story Public Policy Goals News Connect Get Involved Join an Event Contribute News / Wednesdays With Will (June 3rd edition) 3 Jun Wednesday, 7:00 PM · 2026 Wednesdays With Will (June 3rd edition) One of the biggest misconceptions about newcomers to politics is that they lack an understanding of public policy and how government works.
 In my case, that couldn't be further from the truth.
 I hold a Master's Degree in Public Policy and have worked on campaigns at the local, state, and national levels.
 That experience means I will be ready on day one to begin delivering on my campaign promises, bringing greater transparency to government, and fighting for meaningful change in our Edgewater and Lakewood communities.
@@ -31,3 +31,4 @@ If you'd like to join us, I encourage you to sign up for one of our volunteer op
 Together, we can bring new leadership to House District 30 and build a stronger future for the communities of Edgewater and Lakewood.
 Let’s flip the HD30 seat for the future.
 Together, we can Move Colorado Forward.
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

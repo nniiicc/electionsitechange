@@ -1,5 +1,4 @@
-This op-ed by John Schneller appeared in the Union Leader on October 9, 2025
-CANDIDATES running to represent New Hampshire’s 1st Congressional District — where winters are dangerously cold, summers excessively hot and monthly energy prices skyrocket ever higher — have an important commitment to make: Will energy be at the center of their legislative platform?
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page Jones Act Change Can Lower Energy Costs in NH Oct 9, 2025 This op-ed by John Schneller appeared in the Union Leader on October 9, 2025 CANDIDATES running to represent New Hampshire’s 1st Congressional District — where winters are dangerously cold, summers excessively hot and monthly energy prices skyrocket ever higher — have an important commitment to make: Will energy be at the center of their legislative platform?
 Energy is not just another commodity; it is the ultimate consumer product.
 When the price of eggs, meat, or vegetables goes up, it hurts.
 But energy cost increases are more dangerous, more far-reaching, and more resistant to conventional inflation controls.
@@ -24,3 +23,6 @@ It is about using the resources we already have, safely, efficiently, and respon
 I call on all CD1 candidates: Will they support this common-sense fix?
 Will they put their fellow Granite Staters, who rely on affordable and available energy, before politics?
 The people of New Hampshire are listening, watching and will be voting.
+SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
+RECENT POSTS Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Apocalyptic Fantasies Harm Climate Discourse June 8, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

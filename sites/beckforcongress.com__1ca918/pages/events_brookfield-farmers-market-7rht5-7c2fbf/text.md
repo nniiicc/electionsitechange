@@ -1,9 +1,4 @@
-Back to All Events
-Come and meet our local farmers, producers, and the Waukesha County Democratic Party.
-Previous
-Previous
-August 12
-Forward for Wisconsin Rally: Milwaukee!
-Next
-Next
-August 16
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Back to All Events Brookfield Farmer's Market Saturday, August 15, 2026 7:30 AM 8:30 AM Brookfield Central HS 16900 Gebhardt Road Brookfield, Wisconsin, 53005 United States (map) Google Calendar ICS Come and meet our local farmers, producers, and the Waukesha County Democratic Party.
+Previous Previous August 12 Forward for Wisconsin Rally: Milwaukee!
+Next Next August 16 Forward for Wisconsin Rally: Waukesha!
+DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

@@ -1,19 +1,14 @@
-ABENA IN THE COMMUNITY
-A Covenant of Care.
-Real Solutions
-Defending the Maryland Medicaid Fortress
-I know the weight of raising young children while navigating a mother’s battle with cancer.
+top of page Donate now HOME MEET ABENA ISSUES ENDORSEMENTS NEWS DONATE GET INVOLVED WHERE TO VOTE MEET ABENA ABENA IN THE NEWS Southern Maryland News – McAllister Chosen as CCDCC Leader WJLA – Women of Action Town Hall Meeting organized by Abena McAllister Maryland Governor Wes Moore appoints Abena McAllister to Charles County Judicial Nominating Commission YouTube – Video Feature Charles County African Heritage Month: Abena McAllister Maryland Democrats – Abena Affum- McAllister chooses as Democratic National Convention Delegate Charles County Public Schools – Chronic Absenteeism Termination Program created by Abena McAllister Southern Maryland Chronicle – CAT Program Launch created by Abena McAllister Comptroller Brooke Lierman – Transition Team Abena honored as 2022 Maryland daily record leading women under 40 Charles County Juneteenth Foundation awards scholarships Abena McAllister and local women attend women's march Abena McAllister and women of action organize march in LaPLATA UDC LAW recognizes alumni Abena McAllister 13' ABENA IN THE COMMUNITY Previous 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 Next 01 / 46 Close Previous Next 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 A Covenant of Care.
+Real Solutions Defending the Maryland Medicaid Fortress I know the weight of raising young children while navigating a mother’s battle with cancer.
 I am running to defend the "Medicaid Fortress" that protects our healthcare funding from federal cuts and ensures the "Sandwich Generation" of caregivers gets the direct financial relief they deserve.
-Together, we will make sure no Marylander has to choose between their career and the dignity of their family.
-Education: Turning the "Blueprint" into Reality
-With two children in our public schools, I am personally committed to ensuring the Blueprint for Maryland’s Future is fully funded and successfully implemented.
+Together, we will make sure no Marylander has to choose between their career and the dignity of their family. ​ Education: Turning the "Blueprint" into Reality With two children in our public schools, I am personally committed to ensuring the Blueprint for Maryland’s Future is fully funded and successfully implemented.
 I will advocate for scaling proven programs like the CAT initiative to address the root causes of absenteeism and neurodivergent challenges.
 Our schools must be safe, well-resourced environments where every child—from pre-K to graduation—can thrive.
-Safety Through Justice Reform
-True community safety comes from proactive investment and early intervention, not just reactive policies.
+Safety Through Justice Reform True community safety comes from proactive investment and early intervention, not just reactive policies.
 I will bring my experience as a Justice Reform Director to Annapolis to scale mentorship programs that provide our youth with professional pipelines instead of legal hurdles.
 By working across agencies, we will build a justice system that is effective, equitable, and rooted in community trust.
-Shattering the "Connection Tax" (Diagnostic Equity)
-As a mother of a child with autism, I refuse to accept two-year waitlists for life-changing evaluations.
+Shattering the "Connection Tax" (Diagnostic Equity) As a mother of a child with autism, I refuse to accept two-year waitlists for life-changing evaluations.
 I will fight to eliminate the "connection tax" by unlocking state funding for private and telehealth diagnostics when public backlogs grow too long.
 We will ensure every child gets the early intervention they deserve, regardless of their family’s zip code or last name.
+By Auth: Friends of Abena Affum-McAllister, Omar Gardner , Treasurer Abena@MeetAbena.com P.O.
+Box 1009 Bryans Road, MD 20616 bottom of page

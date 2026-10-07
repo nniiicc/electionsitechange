@@ -1,8 +1,42 @@
 [
-"https://facebook.com/MarcLaHoodCampaign",
-"https://marclahood.com/",
-"https://marclahood.com/endorsements",
-"https://marclahood.com/legislative-wins",
-"https://secure.anedot.com/marc-lahood/donate",
-"https://x.com/lahood4texas"
+{
+"text": "About Marc",
+"href": "https://marclahood.com/#ABOUT"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/marc-lahood/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://marclahood.com/endorsements/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/MarcLaHoodCampaign/"
+},
+{
+"text": "Get Involved",
+"href": "https://marclahood.com/#CONTACT"
+},
+{
+"text": "Issues",
+"href": "https://marclahood.com/#ISSUES"
+},
+{
+"text": "Legislative Wins",
+"href": "https://marclahood.com/legislative-wins/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/lahood4texas"
+},
+{
+"text": "[image]",
+"href": "https://marclahood.com/"
+},
+{
+"text": "https://marclahood.com",
+"href": "https://marclahood.com"
+}
 ]

@@ -1,4 +1,4 @@
-Health care is not theoretical in rural Montana.
+Home About About Llew Awards Voting Record Issues Economic Development Education Energy Environmental Stewardship Rural Health Care Contact Donate Gallery Endorsements More Home About About Llew Awards Voting Record Issues Economic Development Education Energy Environmental Stewardship Rural Health Care Contact Donate Gallery Endorsements Home About About Llew Awards Voting Record Issues Economic Development Education Energy Environmental Stewardship Rural Health Care Contact Donate Gallery Endorsements Rural Health Care: Keeping Our Hospitals Open Health care is not theoretical in rural Montana.
 If you get hurt out working, or heaven forbid you have a heart attack, the nearest hospital can be sixty to ninety minutes away.
 That is not a policy debate.
 That is response time.
@@ -16,18 +16,17 @@ Ed Buttrey and I also wrote in a provision found nowhere else in the country: Hu
 More than 150 rural hospitals have closed across the country since 2010, most of them in states without expansion.
 Montana has not lost one.
 A responsible conservative doesn’t stand on the porch and watch the hospital close just to prove a political point.
-Coverage means nothing if there is no one there to see you.
+Training Our Own Doctors and Nurses Coverage means nothing if there is no one there to see you.
 Doctors who train in Montana tend to stay in Montana, which is why I have supported doctor residency training here at home.
 In 2017 the residency directors recognized that work with the Montana Medicine Residency Director’s Award.
 Nurses, CNAs, techs and EMTs matter just as much.
 I have spent time with our colleges on nurse training, like this visit to the Great Falls College simulation lab with Bob Mehlhoff.
 The STARS Act (HB 252, 2025) now rewards schools when students earn industry credentials, dual credit or apprenticeships.
 Health care is one of the best places for a rural kid to start, and one of the best reasons to come home.
-Out here, health care is also the volunteer EMT, the ambulance crew, and the neighbor who drives you to Great Falls for treatment.
+Neighbors Taking Care of Neighbors Out here, health care is also the volunteer EMT, the ambulance crew, and the neighbor who drives you to Great Falls for treatment.
 People up here want money treated as a scarce resource, and they also want somebody to answer the 9-1-1 call.
 I will keep standing up for both.
 And all of us can do our part.
 Giving blood takes a little time and helps a neighbor you may never meet.
 Watch for the next blood drive in your town and roll up your sleeve.
-Llew Jones for SD 9
-1102 4th Avenue Southwest, Conrad, Montana 59425, United States
+Donate Privacy Policy Llew Jones for SD 9 1102 4th Avenue Southwest, Conrad, Montana 59425, United States 4062713104 Paid for by Llew Jones for SD 9, Republican, Carole Jones Treasurer, 1102 4th Ave SW, Conrad, MT 59425 Powered by

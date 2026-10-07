@@ -1,7 +1,11 @@
 {
  "description": "Florida voter information and official-resource links.",
  "final_url": "https://russo2026.com/en/vote",
- "paid_for_by": null,
- "title": "Voter Information | Russo\u2013Rodriguez 2026",
- "years_mentioned": []
+ "fingerprint": "8977392499cef09898151b1c8880435f5c1e79d0",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Voter Information | Russo–Rodriguez 2026",
+ "years_mentioned": [
+  "2026"
+ ]
 }

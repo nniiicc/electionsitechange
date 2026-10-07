@@ -1,3 +1,3 @@
-Political advertisement paid for by Hamilton For Florida 2026, the authorized campaign committee of Michaelangelo Hamilton, write-in candidate for U.S.
+Meet Michaelangelo Find Your District Issues Contribute Volunteer News Yard Signs Events Photos Contact Home ❭ Issues ❭ Restore Accountability in Government Restore Accountability in Government Add your expanded detail here. « Previous: Secure the Border & Protect Our Communities Next: Insurance Reform & Medical Billing Accountability » Home Meet Michaelangelo Find Your District Issues Contribute Volunteer News Yard Signs Events Photos Contact Political advertisement paid for by Hamilton For Florida 2026, the authorized campaign committee of Michaelangelo Hamilton, write-in candidate for U.S.
 House of Representatives, Florida’s 25th Congressional District.
-Powered by CampaignPartner.com - Political Campaign Websites
+Powered by CampaignPartner.com - Political Campaign Websites Meet Michaelangelo Find Your District Issues Contribute Volunteer News Yard Signs Events Photos Contact Close Menu

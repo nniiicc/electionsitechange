@@ -1,15 +1,58 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://jeffpeckman.com/about-jeff",
-"https://jeffpeckman.com/ai-rankings",
-"https://jeffpeckman.com/candidate-q-%26-a",
-"https://jeffpeckman.com/contact",
-"https://jeffpeckman.com/election-fraud",
-"https://jeffpeckman.com/endorsements",
-"https://jeffpeckman.com/for-colorado-governor",
-"https://jeffpeckman.com/in-the-news",
-"https://jeffpeckman.com/press-releases",
-"https://jeffpeckman.com/solutions-blueprint",
-"https://jeffpeckman.com/volunteer",
-"https://powerupbooks.com/chapter-one"
+{
+"text": "AI Rankings",
+"href": "https://jeffpeckman.com/ai-rankings"
+},
+{
+"text": "About Jeff",
+"href": "https://jeffpeckman.com/about-jeff"
+},
+{
+"text": "Candidate Q & A",
+"href": "https://jeffpeckman.com/candidate-q-%26-a"
+},
+{
+"text": "Contact",
+"href": "https://jeffpeckman.com/contact"
+},
+{
+"text": "ELECTION FRAUD",
+"href": "https://jeffpeckman.com/election-fraud"
+},
+{
+"text": "Endorsements",
+"href": "https://jeffpeckman.com/endorsements"
+},
+{
+"text": "For Colorado Governor",
+"href": "https://jeffpeckman.com/for-colorado-governor"
+},
+{
+"text": "IN THE NEWS",
+"href": "https://jeffpeckman.com/in-the-news"
+},
+{
+"text": "PRESS RELEASES",
+"href": "https://jeffpeckman.com/press-releases"
+},
+{
+"text": "SOLUTIONS BLUEPRINT",
+"href": "https://jeffpeckman.com/solutions-blueprint"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://jeffpeckman.com/volunteer"
+},
+{
+"text": "[image: jeffpeckman.com]",
+"href": "https://jeffpeckman.com/for-colorado-governor"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "https://powerupbooks.com/chapter-one",
+"href": "https://powerupbooks.com/chapter-one"
+}
 ]

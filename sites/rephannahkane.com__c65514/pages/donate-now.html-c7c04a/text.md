@@ -1,7 +1,1 @@
-Donate Now
-Please help State Representative Hannah Kane to continue her important community work and outreach initiatives for the 11th Worcester District.
-Mail your campaign donation to:
-The Committee to Elect Hannah Kane
-PO Box 595
-Shrewsbury, MA 01545
-Thank you for your support!
+Home About Hannah Supporters Endorsements Updates From Hannah Social Media Minute Hannah Kane Charity Classic In The News Conversations With Hannah (shows) Donate Now Contact Hannah Donate Now Please help State Representative Hannah Kane to continue her important community work and outreach initiatives for the 11th Worcester District. ​ ​Mail your campaign donation to: The Committee to Elect Hannah Kane PO Box 595 Shrewsbury, MA 01545 Donate Here With Anedot ﻿ Thank you for your support! ﻿ Contact Hannah Follow Hannah Receive Hannah's Updates to Your Inbox * Indicates required field Email * I agree to receiving marketing and promotional materials * Subscribe to Newsletter ​©# The Committee to Elect State Representative Hannah Kane

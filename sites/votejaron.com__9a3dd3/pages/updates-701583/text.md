@@ -1,17 +1,3 @@
-Skip to content
-Facebook
-Instagram
-Linkedin
-Contribute
-Policies
-Shop
-Volunteer
-Endorsements
-All Endorsements
-Endorse Jaron
-About
-Get Updates
-Media
-Contact
-Get Signed Up For Updates!
+Skip to content Facebook Instagram Linkedin Contribute Policies Shop Volunteer Endorsements All Endorsements Endorse Jaron About Get Updates Media Contact Get Signed Up For Updates!
 Join our email list to stay up to date on the campaign!
+Facebook Instagram Linkedin Home Endorsements View All Endorse Jaron Contribute Volunteer About Get Updates Media Contact Privacy Policy Policies Home Endorsements View All Endorse Jaron Contribute Volunteer About Get Updates Media Contact Privacy Policy Policies (209) 770-5084 info@votejaron.com 371 Lakeport Blvd, #391 Lakeport, CA 95453 Paid For By The Committee to Elect Jaron Brandon For State Senate 2026 FPPC# 1479551 Site by Sierra Focus Media

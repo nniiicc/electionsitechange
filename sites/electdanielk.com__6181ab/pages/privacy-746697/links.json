@@ -1,10 +1,38 @@
 [
-"https://electdanielk.com/",
-"https://electdanielk.com/about",
-"https://electdanielk.com/contact",
-"https://electdanielk.com/issues",
-"https://electdanielk.com/privacy",
-"https://electdanielk.com/terms-and-conditions",
-"https://facebook.com/profile.php?id=61584187370484",
-"https://secure.winred.com/daniel-konstantopoulos-for-state-representative/donate-today"
+{
+"text": "About",
+"href": "https://electdanielk.com/about"
+},
+{
+"text": "Contact",
+"href": "https://electdanielk.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/daniel-konstantopoulos-for-state-representative/donate-today"
+},
+{
+"text": "Home",
+"href": "https://electdanielk.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://electdanielk.com/issues"
+},
+{
+"text": "Privacy",
+"href": "https://electdanielk.com/privacy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://electdanielk.com/terms-and-conditions"
+},
+{
+"text": "[image]",
+"href": "https://electdanielk.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584187370484"
+}
 ]

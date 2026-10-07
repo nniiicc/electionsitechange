@@ -1,8 +1,10 @@
 {
  "description": "A donation update from the NYS Public Campaign Finance Board",
  "final_url": "https://flemingforad131.com/blog/?viewDetailed=20260329912",
- "paid_for_by": null,
- "title": "Campaign Donation UpdateCampaign Donation Update",
+ "fingerprint": "df7624569a51ff08fcb18d0de332cf0d40f5e5d4",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Campaign Donation Update",
  "years_mentioned": [
   "2026"
  ]

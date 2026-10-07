@@ -1,10 +1,46 @@
 [
-"https://facebook.com/JillColeforOhio",
-"https://jillcoleforohio.com/",
-"https://jillcoleforohio.com/get-involved",
-"https://jillcoleforohio.com/meet-jill",
-"https://jillcoleforohio.com/priorities",
-"https://jillcoleforohio.com/privacy-policy",
-"https://jillcoleforohio.com/terms-of-service",
-"https://secure.anedot.com/jill-cole-for-ohio/donate"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/jill-cole-for-ohio/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.jillcoleforohio.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.jillcoleforohio.com"
+},
+{
+"text": "MEET JILL",
+"href": "https://www.jillcoleforohio.com/meet-jill"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.jillcoleforohio.com/priorities"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.jillcoleforohio.com/privacy-policy"
+},
+{
+"text": "TERMS OF SERVICE",
+"href": "https://www.jillcoleforohio.com/terms-of-service"
+},
+{
+"text": "[image: Cole_OH_Logo.png]",
+"href": "https://www.jillcoleforohio.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JillColeforOhio/"
+},
+{
+"text": "https://www.jillcoleforohio.com/privacy-policy",
+"href": "https://www.jillcoleforohio.com/privacy-policy"
+},
+{
+"text": "info@jillcoleforohio.com",
+"href": "mailto:info@jillcoleforohio.com"
+}
 ]

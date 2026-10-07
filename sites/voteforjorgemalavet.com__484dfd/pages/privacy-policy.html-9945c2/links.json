@@ -1,8 +1,38 @@
 [
-"https://voteforjorgemalavet.com/",
-"https://voteforjorgemalavet.com/about.html",
-"https://voteforjorgemalavet.com/index.html",
-"https://voteforjorgemalavet.com/policies.html",
-"https://voteforjorgemalavet.com/privacy-policy.html",
-"https://voteforjorgemalavet.com/terms-and-conditions.html"
+{
+"text": "About",
+"href": "https://voteforjorgemalavet.com/about.html"
+},
+{
+"text": "Donate",
+"href": "https://voteforjorgemalavet.com/index.html#donate"
+},
+{
+"text": "Policies",
+"href": "https://voteforjorgemalavet.com/policies.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://voteforjorgemalavet.com/privacy-policy.html"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://voteforjorgemalavet.com/terms-and-conditions.html"
+},
+{
+"text": "Volunteer",
+"href": "https://voteforjorgemalavet.com/index.html#sign-up"
+},
+{
+"text": "[image: Jorge Malavet for Congress logo]",
+"href": "https://voteforjorgemalavet.com/"
+},
+{
+"text": "[image: Jorge Malavet for Congress logo]",
+"href": "https://voteforjorgemalavet.com/index.html"
+},
+{
+"text": "contact@voteforjorgemalavet.com",
+"href": "mailto:contact@voteforjorgemalavet.com"
+}
 ]

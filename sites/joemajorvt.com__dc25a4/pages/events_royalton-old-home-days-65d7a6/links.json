@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Royalton+Old+Home+Days&dates=20260801T140000Z%2F20260801T150000Z&location=2+Park+Street%2C+South+Royalton+Green%2C+VT+05068%2C+United+States",
-"http://maps.google.com/?q=2+Park+Street+South+Royalton+Green%2C+VT+05068+United+States",
-"http://secure.actblue.com/entity/fundraisers/155469",
-"https://instagram.com/joemajor4vt_state_senate?igsh=MWlvNGV0NXFsZDZyMA%3D%3D",
-"https://joemajorvt.com/",
-"https://joemajorvt.com/about",
-"https://joemajorvt.com/cart",
-"https://joemajorvt.com/contact",
-"https://joemajorvt.com/events",
-"https://joemajorvt.com/events/royalton-old-home-days?format=ical",
-"https://joemajorvt.com/events/vt-primary-election-day",
-"https://joemajorvt.com/events/woodstock-candidate-forum",
-"https://joemajorvt.com/issues-priorities",
-"https://joemajorvt.com/news",
-"https://joemajorvt.com/results",
-"https://secure.actblue.com/entity/fundraisers/155469"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2+park+street+south+royalton+green%2C+vt+05068+united+states"
+},
+{
+"text": "0",
+"href": "https://www.joemajorvt.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.joemajorvt.com/about"
+},
+{
+"text": "Actblue.com",
+"href": "http://secure.actblue.com/entity/fundraisers/155469"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.joemajorvt.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.joemajorvt.com/contact"
+},
+{
+"text": "Donate Here: Act Blue",
+"href": "https://secure.actblue.com/entity/fundraisers/155469"
+},
+{
+"text": "Events",
+"href": "https://www.joemajorvt.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Royalton+Old+Home+Days&dates=20260801T140000Z%2F20260801T150000Z&location=2+Park+Street%2C+South+Royalton+Green%2C+VT+05068%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.joemajorvt.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.joemajorvt.com/events/royalton-old-home-days?format=ical"
+},
+{
+"text": "Legislative Results",
+"href": "https://www.joemajorvt.com/results"
+},
+{
+"text": "News",
+"href": "https://www.joemajorvt.com/news"
+},
+{
+"text": "Next Next August 11 VT Primary Election Day",
+"href": "https://www.joemajorvt.com/events/vt-primary-election-day"
+},
+{
+"text": "Previous Previous July 25 Woodstock Candidate Forum",
+"href": "https://www.joemajorvt.com/events/woodstock-candidate-forum"
+},
+{
+"text": "Priorities",
+"href": "https://www.joemajorvt.com/issues-priorities"
+},
+{
+"text": "[image: Joe Major for Windsor County Senate 2026]",
+"href": "https://www.joemajorvt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joemajor4vt_state_senate/?igsh=MWlvNGV0NXFsZDZyMA%3D%3D"
+}
 ]

@@ -1,15 +1,54 @@
 [
-"https://buchholzforsd.com/",
-"https://buchholzforsd.com/contact",
-"https://buchholzforsd.com/contribute",
-"https://buchholzforsd.com/events",
-"https://buchholzforsd.com/home",
-"https://buchholzforsd.com/make-endorsement",
-"https://buchholzforsd.com/meet_nick",
-"https://buchholzforsd.com/news",
-"https://buchholzforsd.com/view-endorsements",
-"https://buchholzforsd.com/volunteer",
-"https://buchholzforsd.com/yard-sign",
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=61573292725133"
+{
+"text": "Click here to add your endorsement",
+"href": "https://www.buchholzforsd.com/make-endorsement"
+},
+{
+"text": "Contact",
+"href": "https://www.buchholzforsd.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.buchholzforsd.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.buchholzforsd.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.buchholzforsd.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.buchholzforsd.com/home"
+},
+{
+"text": "Meet Nick",
+"href": "https://www.buchholzforsd.com/meet_nick"
+},
+{
+"text": "News",
+"href": "https://www.buchholzforsd.com/news"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.buchholzforsd.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.buchholzforsd.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://www.buchholzforsd.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61573292725133"
+}
 ]

@@ -1,18 +1,114 @@
 [
-"http://facebook.com/",
-"http://instagram.com/",
-"http://linkedin.com/",
-"http://tiktok.com/",
-"http://x.com/",
-"http://youtube.com/",
-"https://rayneikarobinson.com/",
-"https://rayneikarobinson.com/about",
-"https://rayneikarobinson.com/contact",
-"https://rayneikarobinson.com/contact-1",
-"https://rayneikarobinson.com/donate",
-"https://rayneikarobinson.com/endorsements",
-"https://rayneikarobinson.com/get-involved",
-"https://rayneikarobinson.com/issues",
-"https://rayneikarobinson.com/updates",
-"https://secure.actblue.com/donate/rayneika-robinson-1"
+{
+"text": "About",
+"href": "https://www.rayneikarobinson.com/about"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/rayneika-robinson-1"
+},
+{
+"text": "Contact",
+"href": "https://www.rayneikarobinson.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rayneika-robinson-1"
+},
+{
+"text": "Donate",
+"href": "https://www.rayneikarobinson.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rayneikarobinson.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.rayneikarobinson.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.rayneikarobinson.com"
+},
+{
+"text": "Issues",
+"href": "https://www.rayneikarobinson.com/issues"
+},
+{
+"text": "Join Movement",
+"href": "https://www.rayneikarobinson.com#volunteer"
+},
+{
+"text": "Learn More",
+"href": "https://www.rayneikarobinson.com/issues#Detailed%20Stance"
+},
+{
+"text": "Official Endorsements",
+"href": "https://www.rayneikarobinson.com/endorsements"
+},
+{
+"text": "The future of District 6 belongs to all of us. Rayneika is listening and wants to hear your vision for our community. Share your thoughts and help us build real solutions together.",
+"href": "https://www.rayneikarobinson.com/contact-1"
+},
+{
+"text": "Updates",
+"href": "https://www.rayneikarobinson.com/updates"
+},
+{
+"text": "Your Voice. Our District. Our Future.",
+"href": "https://www.rayneikarobinson.com/contact-1"
+},
+{
+"text": "[image: AFSCME Maryland Council 3 endorsement logo]",
+"href": "https://www.rayneikarobinson.com/endorsements#Organizational%20Endorsements"
+},
+{
+"text": "[image: Baltimore County Progressive Democrats Club endorsement logo]",
+"href": "https://www.rayneikarobinson.com/endorsements#Organizational%20Endorsements"
+},
+{
+"text": "[image: MSEA Apple teacher recommended candidate endorsement badge]",
+"href": "https://www.rayneikarobinson.com/endorsements#Organizational%20Endorsements"
+},
+{
+"text": "[image: Mental Health Now Badge 2026.png]",
+"href": "https://www.rayneikarobinson.com/endorsements#Organizational%20Endorsements"
+},
+{
+"text": "[image: Mental Health Now! endorsement logo]",
+"href": "https://www.rayneikarobinson.com/endorsements#Organizational%20Endorsements"
+},
+{
+"text": "[image: Moms Demand Action Gun Sense Candidate of Distinction logo]",
+"href": "https://www.rayneikarobinson.com/endorsements#Organizational%20Endorsements"
+},
+{
+"text": "[image: Red apple-shaped badge with white text EDUCATOR RECOMMENDED]",
+"href": "https://www.rayneikarobinson.com/endorsements#Organizational%20Endorsements"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+}
 ]

@@ -1,18 +1,9 @@
-top of page
-CAMPAIGN NEWS
-The Latest Updates
-Search
-Thomas West Earns Endorsement from Planned Parenthood Vermont Action Fund IE PAC
-Thomas West, Democratic candidate for Vermont House representing the Bennington-4 district, is proud to announce that his campaign has earned the endorsement of the Planned Parenthood Vermont Action Fund IE PAC (PPVTAF IE PAC) for the 2026 election.
-Jul 291 min read
-Thomas West Named a 2026 Moms Demand Action Gun Sense Candidate
-Thomas West, Democratic candidate for Vermont House representing the Bennington-4 district, has been recognized as a 2026 Moms Demand Action Gun Sense Candidate.
-Jul 281 min read
-Thomas West Earns Endorsement from VPIRG Votes
-Thomas West, Democratic candidate for Vermont House representing the Bennington-4 district, is proud to announce that his campaign has earned the endorsement of VPIRG Votes for the 2026 election.
-Jul 201 min read
-Army Veteran Thomas West Earns VoteVets Endorsement for State Representative
-VoteVets PAC has endorsed Army veteran Thomas West for Vermont State Representative, recognizing his lifelong commitment to public service and leadership on behalf of Vermont families.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE CAMPAIGN NEWS The Latest Updates All Posts Education Press Release Housing Service Endorsements Search Thomas West Earns Endorsement from Planned Parenthood Vermont Action Fund IE PAC Thomas West, Democratic candidate for Vermont House representing the Bennington-4 district, is proud to announce that his campaign has earned the endorsement of the Planned Parenthood Vermont Action Fund IE PAC (PPVTAF IE PAC) for the 2026 election.
+Jul 29 1 min read Thomas West Named a 2026 Moms Demand Action Gun Sense Candidate Thomas West, Democratic candidate for Vermont House representing the Bennington-4 district, has been recognized as a 2026 Moms Demand Action Gun Sense Candidate.
+Jul 28 1 min read Thomas West Earns Endorsement from VPIRG Votes Thomas West, Democratic candidate for Vermont House representing the Bennington-4 district, is proud to announce that his campaign has earned the endorsement of VPIRG Votes for the 2026 election.
+Jul 20 1 min read Army Veteran Thomas West Earns VoteVets Endorsement for State Representative VoteVets PAC has endorsed Army veteran Thomas West for Vermont State Representative, recognizing his lifelong commitment to public service and leadership on behalf of Vermont families.
 VoteVets is a national organization that works to elect veterans and national security professionals who will stand up for service members, veterans, military families, and the communities they call home.
-Jul 102 min read
-bottom of page
+Jul 10 2 min read Home Meet Thomas Issues Get Involved News Contact PAID FOR BY WEST FOR VERMONT PO BOX 1861 Manchester Center, VT 05255​ (802) 768-7801​​ thomas@ westforvermont.com Thomas West is a former member of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Army, the Department of Defense, or any branch of the U.S. government. bottom of page

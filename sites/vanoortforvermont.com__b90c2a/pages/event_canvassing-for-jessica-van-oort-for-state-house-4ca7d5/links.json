@@ -1,14 +1,62 @@
 [
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260923T150000%2F20260923T180000&text=Canvassing+for+Jessica+Van+Oort+for+State+House&details=Join+us+canvassing+for+Jessica+Van+Oort+for+State+House+in+RUT-BEN+district%2C+and+Democrats+up+and+down+the+ballot%21Wednesday%2C+September+23th+3%3A00-6%3A00pm.Materials%3A+Bring+a+good+pair+of+walking+shoes%2C+a+charged+cell+phone%2C+downloading+the+application+%22MiniVan+Touch%22%2C+and+a+bottle+of+water.+Everything+else+will+be+provided+during+the+shift.&location=Mineral+Springs+Park%2C+10+Burdock+Ave%2C+Middletown+Springs%2C+VT%2C+05757%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvanoortforvermont.com",
-"https://maps.google.com/maps?f=q&hl=en&q=10+Burdock+Ave+Middletown+Springs+VT+05757+United+States",
-"https://mobilize.us/mobilize/event/1031330",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-09-23T15%3A00%3A00-04%3A00&enddt=2026-09-23T18%3A00%3A00-04%3A00&location=Mineral+Springs+Park%2C+10+Burdock+Ave%2C+Middletown+Springs%2C+VT%2C+05757%2C+United+States&subject=Canvassing+for+Jessica+Van+Oort+for+State+House&body=Join+us+canvassing+for+Jessica+Van+Oort+for+State+House+in+RUT-BEN+district%2C+and+Democrats+up+and+down+the+ballot%21Wednesday%2C+September+23th+3%3A00-6%3A00pm.Materials%3A+Bring+a+good+pair+of+walking+shoes%2C+a+charged+cell+phone%2C+downloading+the+application+%22MiniVan+Touch%22%2C+and+a+bottle+of+water.+Everything+else+will+be+provided+during+the+shift.",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-09-23T15%3A00%3A00-04%3A00&enddt=2026-09-23T18%3A00%3A00-04%3A00&location=Mineral+Springs+Park%2C+10+Burdock+Ave%2C+Middletown+Springs%2C+VT%2C+05757%2C+United+States&subject=Canvassing+for+Jessica+Van+Oort+for+State+House&body=Join+us+canvassing+for+Jessica+Van+Oort+for+State+House+in+RUT-BEN+district%2C+and+Democrats+up+and+down+the+ballot%21Wednesday%2C+September+23th+3%3A00-6%3A00pm.Materials%3A+Bring+a+good+pair+of+walking+shoes%2C+a+charged+cell+phone%2C+downloading+the+application+%22MiniVan+Touch%22%2C+and+a+bottle+of+water.+Everything+else+will+be+provided+during+the+shift.",
-"https://vanoortforvermont.com/",
-"https://vanoortforvermont.com/about",
-"https://vanoortforvermont.com/event/pawlet-geothermal-groundbreaking",
-"https://vanoortforvermont.com/event/west-pawlet-house-party",
-"https://vanoortforvermont.com/events",
-"https://vanoortforvermont.com/get-involved",
-"https://vanoortforvermont.com/updates"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=10+Burdock+Ave+Middletown+Springs+VT+05757+United+States"
+},
+{
+"text": "About",
+"href": "https://vanoortforvermont.com/about/"
+},
+{
+"text": "Events",
+"href": "https://vanoortforvermont.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://vanoortforvermont.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260923T150000%2F20260923T180000&text=Canvassing+for+Jessica+Van+Oort+for+State+House&details=Join+us+canvassing+for+Jessica+Van+Oort+for+State+House+in+RUT-BEN+district%2C+and+Democrats+up+and+down+the+ballot%21Wednesday%2C+September+23th+3%3A00-6%3A00pm.Materials%3A+Bring+a+good+pair+of+walking+shoes%2C+a+charged+cell+phone%2C+downloading+the+application+%22MiniVan+Touch%22%2C+and+a+bottle+of+water.+Everything+else+will+be+provided+during+the+shift.&location=Mineral+Springs+Park%2C+10+Burdock+Ave%2C+Middletown+Springs%2C+VT%2C+05757%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvanoortforvermont.com"
+},
+{
+"text": "Home",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T15%3A00%3A00-04%3A00&enddt=%23T18%3A00%3A00-04%3A00&location=Mineral+Springs+Park%2C+10+Burdock+Ave%2C+Middletown+Springs%2C+VT%2C+05757%2C+United+States&subject=Canvassing+for+Jessica+Van+Oort+for+State+House&body=Join+us+canvassing+for+Jessica+Van+Oort+for+State+House+in+RUT-BEN+district%2C+and+Democrats+up+and+down+the+ballot%21Wednesday%2C+September+23th+3%3A00-6%3A00pm.Materials%3A+Bring+a+good+pair+of+walking+shoes%2C+a+charged+cell+phone%2C+downloading+the+application+%22MiniVan+Touch%22%2C+and+a+bottle+of+water.+Everything+else+will+be+provided+during+the+shift."
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T15%3A00%3A00-04%3A00&enddt=%23T18%3A00%3A00-04%3A00&location=Mineral+Springs+Park%2C+10+Burdock+Ave%2C+Middletown+Springs%2C+VT%2C+05757%2C+United+States&subject=Canvassing+for+Jessica+Van+Oort+for+State+House&body=Join+us+canvassing+for+Jessica+Van+Oort+for+State+House+in+RUT-BEN+district%2C+and+Democrats+up+and+down+the+ballot%21Wednesday%2C+September+23th+3%3A00-6%3A00pm.Materials%3A+Bring+a+good+pair+of+walking+shoes%2C+a+charged+cell+phone%2C+downloading+the+application+%22MiniVan+Touch%22%2C+and+a+bottle+of+water.+Everything+else+will+be+provided+during+the+shift."
+},
+{
+"text": "Updates",
+"href": "https://vanoortforvermont.com/updates/"
+},
+{
+"text": "West Pawlet House Party »",
+"href": "https://vanoortforvermont.com/event/west-pawlet-house-party/"
+},
+{
+"text": "[image: Dandelion logo]",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "https://www.mobilize.us/mobilize/event/1031330/",
+"href": "https://www.mobilize.us/mobilize/event/1031330/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://vanoortforvermont.com/event/canvassing-for-jessica-van-oort-for-state-house/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://vanoortforvermont.com/events/"
+},
+{
+"text": "« Pawlet Geothermal Groundbreaking",
+"href": "https://vanoortforvermont.com/event/pawlet-geothermal-groundbreaking/"
+}
 ]

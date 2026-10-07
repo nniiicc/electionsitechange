@@ -1,10 +1,7 @@
-Workgroup for Inclusive Workplace
-Bill Name
-Workgroup for Inclusive Workplace
-Bill Number
-HB 1248
-Year
-2026
-Priority Areas: Economic Opportunity & Vulnerable Communities
-HB 1248: Everyone deserves the opportunity to work but Marylanders with caregiving obligations, disabilities, or other circumstances often find full-time work inaccessible, leaving many out of the workforce altogether.
+0 Skip to Content Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Folder: Legislation Back Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants Folder: 2026 Election Back 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Folder: Opportunities Back Scholarships Volunteer Contact Workgroup for Inclusive Workplace Bill Name Workgroup for Inclusive Workplace Bill Number HB 1248 Year 2026 Priority Areas : Economic Opportunity & Vulnerable Communities Learn More HB 1248: Everyone deserves the opportunity to work but Marylanders with caregiving obligations, disabilities, or other circumstances often find full-time work inaccessible, leaving many out of the workforce altogether.
 The Workgroup for an Inclusive State Workplace will bring together representatives from different state agencies to outline what steps the State needs to take to offer more benefitted part-time employment opportunities in State government to build a more inclusive workforce.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Sarah Wolek Sign-up for an email newsletter from Delegate Wolek!
+First Name Last Name Email Address Join Now Thank you!
+By Authority: Friends of Sarah Wolek; Oliver Hanson, Treasurer.

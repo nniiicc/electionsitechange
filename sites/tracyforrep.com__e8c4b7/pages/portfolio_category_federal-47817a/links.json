@@ -1,7 +1,54 @@
 [
-"https://digital4dems.com/",
-"https://tracyforrep.com/",
-"https://tracyforrep.com/portfolio/congressman-brad-schneider",
-"https://tracyforrep.com/portfolio/congresswoman-jan-schakowsky",
-"https://tracyforrep.com/portfolio/senator-dick-durbin"
+{
+"text": "ABOUT",
+"href": "https://tracyforrep.com/#about"
+},
+{
+"text": "CAMPAIGN ISSUES",
+"href": "https://tracyforrep.com/#issues"
+},
+{
+"text": "CONTACT",
+"href": "https://tracyforrep.com/#contact"
+},
+{
+"text": "Congressman Brad Schneider",
+"href": "https://tracyforrep.com/portfolio/congressman-brad-schneider/"
+},
+{
+"text": "Congresswoman Jan Schakowsky",
+"href": "https://tracyforrep.com/portfolio/congresswoman-jan-schakowsky/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://tracyforrep.com/#endorsement"
+},
+{
+"text": "HOME",
+"href": "https://tracyforrep.com/#home"
+},
+{
+"text": "Senator Dick Durbin",
+"href": "https://tracyforrep.com/portfolio/senator-dick-durbin/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://tracyforrep.com/#volunteer"
+},
+{
+"text": "[image]",
+"href": "https://tracyforrep.com/portfolio/congressman-brad-schneider/"
+},
+{
+"text": "[image]",
+"href": "https://tracyforrep.com/portfolio/congresswoman-jan-schakowsky/"
+},
+{
+"text": "[image]",
+"href": "https://tracyforrep.com/portfolio/senator-dick-durbin/"
+},
+{
+"text": "© # Digital4Dems",
+"href": "https://digital4dems.com/"
+}
 ]

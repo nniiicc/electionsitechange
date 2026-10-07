@@ -1,7 +1,3 @@
-ENDORSEMENTS
-Jen is proud to be endorsed by the following leaders and organizations representing tens of thousands of Georgia voters:
-President Barack Obama
-Vice President Kamala Harris
-Senator Jon Ossoff
-Senator Rev.
-Raphael Warnock
+0 Skip to Content Home Meet Jen News Endorsements Media Resources Jen Jordan for Georgia Supreme Court DONATE Open Menu Close Menu Home Meet Jen News Endorsements Media Resources Jen Jordan for Georgia Supreme Court DONATE Open Menu Close Menu Home Meet Jen News Endorsements Media Resources DONATE ENDORSEMENTS Jen is proud to be endorsed by the following leaders and organizations representing tens of thousands of Georgia voters: President Barack Obama Vice President Kamala Harris Senator Jon Ossoff Senator Rev.
+Raphael Warnock DONATE PAID FOR BY FRIENDS OF JEN JORDAN, INC.
+POWERED BY FIRST EDITION STRATEGIES

@@ -1,10 +1,50 @@
 [
-"https://facebook.com/MyersForMo",
-"https://myers4mo.com/",
-"https://myers4mo.com/about-jeff",
-"https://myers4mo.com/contact-us",
-"https://myers4mo.com/upcoming-events",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/52da2caa-eb64-4c2f-a44c-b3f26733f3fe/donate"
+{
+"text": "636-486-6619",
+"href": "tel:6364866619"
+},
+{
+"text": "About Jeff",
+"href": "https://myers4mo.com/about-jeff"
+},
+{
+"text": "Contact Us",
+"href": "https://myers4mo.com/contact-us"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/52da2caa-eb64-4c2f-a44c-b3f26733f3fe/donate"
+},
+{
+"text": "Home",
+"href": "https://myers4mo.com/"
+},
+{
+"text": "MyersForMo@gmail.com",
+"href": "mailto:MyersForMo@gmail.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Subscribe",
+"href": "https://myers4mo.com/contact-us"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Upcoming Events",
+"href": "https://myers4mo.com/upcoming-events"
+},
+{
+"text": "[image]",
+"href": "https://myers4mo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MyersForMo"
+}
 ]

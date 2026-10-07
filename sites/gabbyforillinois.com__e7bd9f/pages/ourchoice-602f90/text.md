@@ -1,15 +1,10 @@
-Our Choice
-I'm Gabby Shanahan, and I’m running to bring integrity back to the office, so families like mine and yours can flourish.
+0 Skip to Content Home About Plan Our Choice 97th District Endorse Gabby Join Us Donate Open Menu Close Menu Home About Plan Our Choice 97th District Endorse Gabby Join Us Donate Open Menu Close Menu Home About Plan Our Choice 97th District Endorse Gabby Join Us Donate Our Choice I'm Gabby Shanahan, and I’m running to bring integrity back to the office, so families like mine and yours can flourish.
 My promise is simple: Lead with integrity.
 Deliver results.
 Politicians get rich while we struggle with rising prices and crushing property taxes.
 Haven’t you had enough?
 I’ll always be on your side.
-My Plan is SIMPLE and HONEST
-- Lower prices and the cost of living
-- Create REAL opportunities for our children
-- Honest leadership that drives our community forward
-I’m raising my family here in our community, working a couple of jobs to make ends meet.
+My Plan is SIMPLE and HONEST Lower prices and the cost of living Create REAL opportunities for our children Honest leadership that drives our community forward I’m raising my family here in our community, working a couple of jobs to make ends meet.
 It’s where I’ve built my life, and where I see the strength of working families every single day.
 My life has always been about service: at school, in non-profits, in the community, and as a mom.
 That’s who I am.
@@ -35,3 +30,6 @@ I’m a mom, a neighbor, and a fighter for working families.
 I’m running for State Representative because we deserve better.
 We deserve leaders who work for us, with honesty and integrity, on real plans to lower costs and build a future where families can thrive.
 So I am asking you to vote for Integrity First, because then lower prices, affordable living, and a bright future will follow.
+Privacy Policy and Terms of Use Copyright # Team Shanahan.
+All Rights Reserved.
+Paid for by Team Shanahan

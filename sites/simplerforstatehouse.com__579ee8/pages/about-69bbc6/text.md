@@ -1,5 +1,4 @@
-About me
-I grew up on Whidbey Island where my dad was a special education teacher.
+0 Skip to Content About Priorities Our District Get Involved Endorsements Donate Open Menu Close Menu About Priorities Our District Get Involved Endorsements Donate Open Menu Close Menu About Priorities Our District Get Involved Endorsements Donate About me I grew up on Whidbey Island where my dad was a special education teacher.
 He was born and raised in Whitehorse, Y.T. and my mom is from Cordova, AK.
 Together they raised my brother and I with what I call Northern Values: honesty, integrity, resilience, perseverance and grit.
 They taught us to help our neighbors and the value of team work.
@@ -27,3 +26,4 @@ I will listen, work hard, and show up every day for our communities.
 This is a working-class district, and our communities need good local jobs, reliable ferries, healthy fisheries, strong schools, affordable housing, dependable infrastructure, and a state budget that reflects our needs.
 I am ready to bring my experiences — and the same Northern Values I was raised with — to Juneau.
 I would be honored to earn your vote.
+Paid for by Simpler for State House, PO BOX 561 Kodiak, Alaska 99615 Media

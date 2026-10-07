@@ -1,7 +1,9 @@
 {
  "description": "Contact the Shawn Packard for District 64 campaign.",
  "final_url": "https://packardfor64.com/contact-us/",
- "paid_for_by": "Paid for by Shawn Packard for State Representative District 64 \u2014 All Rights Reserved",
+ "fingerprint": "5ba277bc5b36a5a571ce0b1372a878643e2777ba",
+ "format": 3,
+ "paid_for_by": "Paid for by Shawn Packard for State Representative District 64 — All Rights Reserved",
  "title": "Contact Us | Shawn Packard for District 64",
  "years_mentioned": []
 }

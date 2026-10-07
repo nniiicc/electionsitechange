@@ -1,7 +1,9 @@
 {
  "description": "SENATOR ORR IN THE NEWS See all news articles",
  "final_url": "https://arthurorr.com/news/",
- "paid_for_by": null,
+ "fingerprint": "93e960139df45f09619f4a65c0e73c6cdc107a01",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News - Arthur Orr",
  "years_mentioned": [
   "2026"

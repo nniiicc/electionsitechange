@@ -1,9 +1,11 @@
-Joshua Brant, independent candidate for Indiana State Senate District 23, discusses the challenges faced by the farming sector in Indiana, and how helping agriculture can be a catalyst for lowering the cost of living across the state.
+For Indiana State Senate District 23… Elect Joshua Brant Search News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH The Issues Summit Summation Part 2 Published by J.R.
+Brant on September 3, 2026 Joshua Brant, independent candidate for Indiana State Senate District 23, discusses the challenges faced by the farming sector in Indiana, and how helping agriculture can be a catalyst for lowering the cost of living across the state.
 Senate District 23 consists of the western half of Tippecanoe County, parts of Montgomery County, and all of Warren, Fountain, Vermillion, and Parke Counties.
 Corn and Soybeans make up about 2/3 of Indiana’s agricultural sector, which in and of itself is about 1/3 of the state’s overall economy.
 As part of his campaign, Joshua Brant has been trying to determine how to help farmers lower their costs and diversify their crops as a means to help lower food costs across the state.
 He has driven several hundred miles to attend summits like the ones mentioned in this video in an effort to educate himself on the growing needs of Hoosier farmers.
 None of the other candidates in the race for District 23 were in attendance at these events.
-For Joshua Brant’s economic and tax reform plan, check out: https://electjoshuabrant.org/cost-of-living/
-For Joshua Brant’s education plan, check out:
-https://electjoshuabrant.org/education/
+For Joshua Brant’s economic and tax reform plan, check out: https://electjoshuabrant.org/cost-of-living/ For Joshua Brant’s education plan, check out: https://electjoshuabrant.org/education/ Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply ← Previous: Hump Day Update (09/02/26) Next: Summit Summation Part 3 → Hi, I’m Joshua Brant Let’s connect Facebook TikTok Instagram X YouTube LinkedIn Reddit Nextdoor Discord Subscribe Enter your email below to receive updates.
+Type your email… Subscribe Recent posts Early Voting Message to Voters Prosperity Indiana Candidate Survey The Republican Primary Fight Continues Hump Day Update (09/09/26) Summit Summation Part 3 Summit Summation Part 2 Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Paid for by the Committee to Elect Joshua Brant .
+Discover more from Elect Joshua Brant Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading %d

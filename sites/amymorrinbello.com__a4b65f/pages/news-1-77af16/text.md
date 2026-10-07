@@ -1,9 +1,1 @@
-top of page
-Amy for State Rep
-Home
-News & Updates
-Endorsements
-Voting Information
-Get Involved
-News & Updates
-bottom of page
+top of page Amy for State Rep Home News & Updates Endorsements Voting Information Get Involved News & Updates Paid for by Amy for State Rep Steve Bobin, Treasurer Approved by Amy Morrin Bello Wethersfield Your Voice at the Capitol Democrat bottom of page

@@ -1,9 +1,34 @@
 [
-"https://cameraforsenate.com/",
-"https://cameraforsenate.com/endorsements",
-"https://secure.anedot.com/camera/contribute?amount=100",
-"https://secure.anedot.com/camera/contribute?amount=25",
-"https://secure.anedot.com/camera/contribute?amount=2500",
-"https://secure.anedot.com/camera/contribute?amount=50",
-"https://secure.anedot.com/camera/contribute?amount=other"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/camera/contribute?amount=100"
+},
+{
+"text": "$2,500",
+"href": "https://secure.anedot.com/camera/contribute?amount=2500"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/camera/contribute?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/camera/contribute?amount=50"
+},
+{
+"text": "OTHER AMOUNT",
+"href": "https://secure.anedot.com/camera/contribute?amount=other"
+},
+{
+"text": "VIEW ENDORSEMENTS",
+"href": "https://cameraforsenate.com/endorsements"
+},
+{
+"text": "View All Endorsements",
+"href": "https://cameraforsenate.com/endorsements"
+},
+{
+"text": "[image: Camera Bartolotta for senate logo]",
+"href": "https://cameraforsenate.com/"
+}
 ]

@@ -1,7 +1,4 @@
-For Immediate Release
-July 23, 2026
-Don Tracy Releases New Campaign Ad: “Keep It Simple”
-SPRINGFIELD — Republican U.S.
+Skip to content About Meet Don Contact Invite Don to an Event Newsroom Working For You American Dream Common Sense Solutions Lower the Cost of Living Represent Illinois Get Involved Volunteer Request Yard Sign Submit Your Story Voter Info Store Contribute About Meet Don Contact Invite Don to an Event Newsroom Working For You American Dream Common Sense Solutions Lower the Cost of Living Represent Illinois Get Involved Volunteer Request Yard Sign Submit Your Story Voter Info Store Contribute About Meet Don Contact Invite Don to an Event Newsroom Working For You American Dream Common Sense Solutions Lower the Cost of Living Represent Illinois Get Involved Volunteer Request Yard Sign Submit Your Story Voter Info Store Contribute About Meet Don Contact Invite Don to an Event Newsroom Working For You American Dream Common Sense Solutions Lower the Cost of Living Represent Illinois Get Involved Volunteer Request Yard Sign Submit Your Story Voter Info Store Contribute X-twitter Facebook Instagram Youtube PRESS RELEASE For Immediate Release July 23, 2026 Contact: Kathleen Murphy [email protected] 630-329-4680 Don Tracy Releases New Campaign Ad: “Keep It Simple” SPRINGFIELD — Republican U.S.
 Senate candidate Don Tracy today released a new statewide television and digital advertisement, Keep It Simple, contrasting his common sense approach to leadership with the costly consequences of Juliana Stratton’s extreme agenda.
 The ad highlights Tracy’s belief that while politicians like Lt.
 Governor Stratton continue to push bigger government, higher taxes, and more complicated policies, Illinois families are paying the price through higher costs and fewer opportunities.
@@ -19,30 +16,24 @@ Opening with Tracy’s trademark self-deprecating humor, the ad also gives voter
 They require more common sense.
 More freedom.
 More faith in the American people.
-It’s that simple.”
-Keep It Simple can be viewed here, and begins airing statewide today on streaming and digital platforms.
-+++
-Keep It Simple – Transcript
-I’m Don Tracy.
+It’s that simple.” Keep It Simple can be viewed here , and begins airing statewide today on streaming and digital platforms. +++ Keep It Simple – Transcript I’m Don Tracy.
 I’ve had this haircut… for many years.
 I keep it simple.
-Because when Extremists push crazy ideas…
-…life gets expensive.
+Because when Extremists push crazy ideas… …life gets expensive.
 Like Juliana Stratton.
-She attacked tax relief for
-hourly workers and seniors…
-…and wants to raise gas taxes every year… without
-anybody voting for it.
+She attacked tax relief for hourly workers and seniors… …and wants to raise gas taxes every year… without anybody voting for it.
 Illinois… it’s not complicated.
-Make Washington DC follow a budget…
-…and let workers keep more of what they earn.
+Make Washington DC follow a budget… …and let workers keep more of what they earn.
 I’m Don Tracy.
 I’m running for US Senate.
 Let’s keep it simple.
-###
-About Don Tracy:
-Don is Senior Counsel at Brown, Hay & Stephens, the oldest law firm in Illinois, where Abraham Lincoln famously practiced law for four years.
+### About Don Tracy: Don is Senior Counsel at Brown, Hay & Stephens, the oldest law firm in Illinois, where Abraham Lincoln famously practiced law for four years.
 Public service is important to Don, with a lifetime spent in community service, most often in volunteer positions.
 He has served as Chairman of the Illinois Republican Party, Chairman of the Illinois Gaming Board, Secretary of the Illinois Bar Foundation, President of the Sangamon County Bar Association, Chairman of the Illinois Corporate Acts Advisory Committee, and President of the Abraham Lincoln Association, President of the Oak Ridge Cemetery Board, among other community leadership positions.
 Born in Urbana, raised in Mt.
 Sterling in Western Illinois, and having raised his own family in Springfield in Central Illinois, Don has deep ties to “downstate Illinois.” As the oldest of 12 children, family has always been important to Don.
+BACK TO NEWSROOM Don Tracy is committed to strengthening Illinois by growing the economy, supporting small businesses, and making life more affordable for working families.
+With decades of leadership in business and public service, he believes in accountable government, safe communities, and practical, commonsense solutions that create opportunity for future generations.
+ABOUT Meet Don Contact Volunteer Newsroom CONTACT [email protected] (618) 417-7371 PO Box 135, Springfield, IL 62705 Paid for by Don Tracy For Illinois, NFP © # Don Tracy for Illinois.
+All rights reserved.
+Privacy Policy Texting Store

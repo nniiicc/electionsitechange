@@ -1,9 +1,14 @@
 {
  "description": "Check out the latest updates from Team Campbell. This page includes newsletters, press releases, opinion editorials, & more.",
  "final_url": "https://www.campbellfornc.com/news",
+ "fingerprint": "992db56f5724b2c0522fd99cd7a4934f99655374",
+ "format": 3,
  "paid_for_by": "PAID FOR BY COMMITTEE TO ELECT GRANT CAMPBELL",
- "title": "NEWS | Grant Campbell \u2013 N.C. House of Representatives",
+ "title": "NEWS | Grant Campbell – N.C. House of Representatives",
  "years_mentioned": [
-  "2024"
+  "2009",
+  "2023",
+  "2024",
+  "2025"
  ]
 }

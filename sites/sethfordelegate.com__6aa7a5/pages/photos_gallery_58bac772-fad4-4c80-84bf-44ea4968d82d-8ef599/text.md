@@ -1,4 +1,4 @@
-Trash clean up on Mayo Penninsula
-The rural nature and beauty of Soco is not just our way of life but it is also our gift to Anne Arundel Co and I'll always fight to keep it that way!
+Home About Seth On the Issues My Priorities News Events Photo Gallery Contact Endorsements Volunteer Voter Information Contribute Trash clean up on Mayo Penninsula The rural nature and beauty of Soco is not just our way of life but it is also our gift to Anne Arundel Co and I'll always fight to keep it that way!
 That's why I was one of the people on the side of the road picking up trash and clearing debris from wooded areas.
 We removed a lot of glass and metal from the wooded lot (which is really good since it was a feeder into the Bay).
+Home About Seth On the Issues My Priorities Endorsements Contact Events Copyright @ Seth for Delegate Citizens to Elect Seth Howard Authority: James Appel, Treasurer Powered by CampaignPartner.com - Political Campaign Websites Home About Seth On the Issues My Priorities Endorsements Events Contact Volunteer Close Menu

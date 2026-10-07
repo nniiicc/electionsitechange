@@ -1,7 +1,8 @@
-Yosemite National Park is the crown jewel of the National Park System that includes some of the most beautiful natural splendors in all the world.
+Home About Issues News Volunteer Donate Yosemite Yosemite National Park is the crown jewel of the National Park System that includes some of the most beautiful natural splendors in all the world.
 It was also the cornerstone of the National Parks System, being the first public land set aside in 1864 by the United States government for “public use, resort and recreation…for all time.” One of the greatest honors of representing the Fourth Congressional District of California is to defend the original intent of the Yosemite Grant Act and all that it means for the millions of park visitors who come here each year and the many gateway communities whose economies depend directly on the tourism that the park generates.
 Through the years, generations of Americans have come to Yosemite to take pleasure in those splendors while enjoying all varieties of outdoor activities amidst the park’s natural beauty, including camping and lodging, hiking and biking, horseback riding, river rafting, ice skating.
 Recent attempts to restrict access to the park and remove many of its amenities and activities undermines the original purpose of the Yosemite Grant Act.
 Yosemite is also threatened by years of neglect of its surrounding forests, which are now dangerously overgrown and are falling victim to disease, pestilence and ultimately, catastrophic wild fire.
 The Rough Fire in 2015 burned into the periphery of the Park.
 The next major fire could decimate the valley itself, a matter I discuss in length under Forest Policy.
+Thank you for your support! $5 $20 $50 $100 Other Contact the campaign Privacy Policy Terms and Conditions PAID FOR BY MCCLINTOCK FOR CONGRESS

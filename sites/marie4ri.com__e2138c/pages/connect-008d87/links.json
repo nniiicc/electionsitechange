@@ -1,17 +1,70 @@
 [
-"https://facebook.com/Marie4RI",
-"https://instagram.com/Marie_for_RI",
-"https://marie4ri.com/",
-"https://marie4ri.com/about",
-"https://marie4ri.com/connect",
-"https://marie4ri.com/donate-now",
-"https://marie4ri.com/email-us",
-"https://marie4ri.com/gallery",
-"https://marie4ri.com/how-marie-can-help",
-"https://marie4ri.com/primary-care-bills",
-"https://marie4ri.com/request-a-sign-district-21-map-1",
-"https://marie4ri.com/vision",
-"https://rihousegop.org/rephopkins.html",
-"https://rilegislature.gov/representatives/Hopkins/Pages/Biography.aspx",
-"https://twitter.com/MarieForRI"
+{
+"text": "...",
+"href": "https://www.marie4ri.com/"
+},
+{
+"text": "About",
+"href": "https://www.marie4ri.com/about"
+},
+{
+"text": "CONNECT",
+"href": "https://www.marie4ri.com/connect"
+},
+{
+"text": "DONATE NOW",
+"href": "https://www.marie4ri.com/donate-now"
+},
+{
+"text": "Email Us",
+"href": "https://www.marie4ri.com/email-us"
+},
+{
+"text": "Gallery",
+"href": "https://www.marie4ri.com/gallery"
+},
+{
+"text": "How Marie Can Help",
+"href": "https://www.marie4ri.com/how-marie-can-help"
+},
+{
+"text": "Primary Care Bills",
+"href": "https://www.marie4ri.com/primary-care-bills"
+},
+{
+"text": "Request a Sign / District 21 Map",
+"href": "https://www.marie4ri.com/request-a-sign-district-21-map-1"
+},
+{
+"text": "VISION",
+"href": "https://www.marie4ri.com/vision"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MarieForRI"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Marie4RI/"
+},
+{
+"text": "[tooltip: Facebook Marie4RI]",
+"href": "https://www.facebook.com/Marie4RI"
+},
+{
+"text": "[tooltip: Follow RI House Republicans on the Web]",
+"href": "https://www.rihousegop.org/rephopkins.html"
+},
+{
+"text": "[tooltip: Instagram Marie_for_RI]",
+"href": "https://www.instagram.com/Marie_for_RI/"
+},
+{
+"text": "[tooltip: RI Legislature, House]",
+"href": "https://www.rilegislature.gov/representatives/Hopkins/Pages/Biography.aspx"
+},
+{
+"text": "[tooltip: Request a Sign]",
+"href": "https://www.marie4ri.com/request-a-sign-district-21-map-1"
+}
 ]

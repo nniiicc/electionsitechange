@@ -1,8 +1,6 @@
-top of page
-PRIVACY POLICY - THE BASICS
-Text opt-in consent data will not be sold or shared with third parties for promotional or marketing purposes.
+top of page About Erika About Erika Contact About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog Menu Close Donate PRIVACY POLICY - THE BASICS Text opt-in consent data will not be sold or shared with third parties for promotional or marketing purposes.
 Except as otherwise stated in this Privacy Policy, we don’t sell, trade, rent, or otherwise share for marketing purposes your Personal Information with third parties without your consent.
 Our website may contain links to third-party websites or services.
 We are not responsible for the privacy practices or content of such third parties.
 We encourage you to review the privacy policies of those third parties when accessing their websites or services.
-bottom of page
+Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About Erika About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page

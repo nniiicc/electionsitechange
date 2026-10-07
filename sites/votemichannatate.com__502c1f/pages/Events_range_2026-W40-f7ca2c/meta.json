@@ -1,7 +1,11 @@
 {
  "description": "Michanna Tate Campaign Events",
  "final_url": "https://votemichannatate.com/Events?range=2026-W40",
- "paid_for_by": null,
+ "fingerprint": "13aae45af003a42968a0f3cdb33f1d8715e73e44",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Michanna Tate Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

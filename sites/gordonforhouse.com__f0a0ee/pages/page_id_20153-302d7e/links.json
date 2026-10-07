@@ -1,12 +1,50 @@
 [
-"https://gordonforhouse.com/",
-"https://gordonforhouse.com/?cat=14",
-"https://gordonforhouse.com/?p=21111",
-"https://gordonforhouse.com/?page_id=20147",
-"https://gordonforhouse.com/?page_id=20149",
-"https://gordonforhouse.com/?page_id=20153",
-"https://gordonforhouse.com/?page_id=21019",
-"https://gordonforhouse.com/?page_id=21021",
-"https://politigig.com/",
-"https://secure.anedot.com/team-gordon/donate"
+{
+"text": "About",
+"href": "https://gordonforhouse.com/?page_id=21019"
+},
+{
+"text": "Contact",
+"href": "https://gordonforhouse.com/?page_id=20149"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/team-gordon/donate"
+},
+{
+"text": "Home",
+"href": "https://gordonforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://gordonforhouse.com/?page_id=21021"
+},
+{
+"text": "News",
+"href": "https://gordonforhouse.com/?page_id=20153"
+},
+{
+"text": "Pamela Gordon Announces Candidacy for Oklahoma House District 18",
+"href": "https://gordonforhouse.com/?p=21111"
+},
+{
+"text": "Politigig",
+"href": "https://politigig.com/"
+},
+{
+"text": "Press Release",
+"href": "https://gordonforhouse.com/?cat=14"
+},
+{
+"text": "Volunteer",
+"href": "https://gordonforhouse.com/?page_id=20147"
+},
+{
+"text": "[image: Pamela Gordon Announces Candidacy for Oklahoma House District 18]",
+"href": "https://gordonforhouse.com/?p=21111"
+},
+{
+"text": "read more",
+"href": "https://gordonforhouse.com/?p=21111"
+}
 ]

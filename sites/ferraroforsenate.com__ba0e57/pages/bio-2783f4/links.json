@@ -1,5 +1,22 @@
 [
-"https://ferraroforsenate.com/",
-"https://ferraroforsenate.com/blog",
-"https://secure.anedot.com/ferraro-for-senate/ferraro-for-senate"
+{
+"text": "About",
+"href": "https://www.ferraroforsenate.com"
+},
+{
+"text": "Contact",
+"href": "https://www.ferraroforsenate.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ferraro-for-senate/ferraro-for-senate"
+},
+{
+"text": "Home",
+"href": "https://www.ferraroforsenate.com"
+},
+{
+"text": "In the News",
+"href": "https://www.ferraroforsenate.com/blog"
+}
 ]

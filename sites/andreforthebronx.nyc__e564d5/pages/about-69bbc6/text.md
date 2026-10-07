@@ -1,4 +1,4 @@
-Andre Easton was born to Jamaican immigrants in the Bronx, who taught him the importance of healthy, strong communities.
+0 Skip to Content News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Folder: Volunteer Back Events Join us Merch Donate Andre Easton was born to Jamaican immigrants in the Bronx, who taught him the importance of healthy, strong communities.
 From running cross country practice at Van Cortlandt Park, to grabbing a slice from Nick’s Pizza, Andre’s childhood experiences in the Bronx shaped who he is today.
 Witnessing the mental health challenges faced by his community inspired him to pursue college studies dedicated to community support and well-being.
 After graduating as a student athlete from Delaware State University with a BA in Psychology and a minor in English, Andre began working with youth in after school programs in the Bronx and Queens.
@@ -17,8 +17,7 @@ Andre spends time talking to his students, his family and his neighbors about th
 The African concept of “Ubuntu” is a guiding principle that teaches of the interconnected nature of humanity.
 With this approach, Andre recognizes that the value and quality of his life is directly tied to the value and quality of other human lives.
 He can often be found alongside his wife and sons at demonstrations against war and police violence, and in solidarity with Palestine, Haiti, and immigrant rights.
-THE PARTY FOR SOCIALISM AND LIBERATION
-The Party for Socialism and Liberation is fighting for the immediate needs of poor and working people and for the socialist transformation of society.
+THE PARTY FOR SOCIALISM AND LIBERATION The Party for Socialism and Liberation is fighting for the immediate needs of poor and working people and for the socialist transformation of society.
 Capitalism cannot and will not solve the crises that threaten to destroy humanity: catastrophic war with Russia and China, climate change and unmanaged artificial intelligence that will replace millions of jobs.
 The billionaires get richer, and the Senate, the Supreme Court and the banker-control of the Federal Reserve manage the affairs of the ultra-rich as millions continue to sink into debt and poverty.
 Poverty is now the fourth leading cause of death and 75% of all Americans between the ages of 20-75 will be among the “current” poor or near poverty, it is clear that vast majority of people in this country cannot have a future while capitalism allows the ruling elite to thrive and grow their profits while life and work worsen for the working class.
@@ -32,3 +31,8 @@ Join us in the ongoing fight.
 This is about more than one election or one campaign.
 It takes building an independent political organization.
 We are in over 50 cities across the United States and count with multinational and multigenerational leaders of key social movements engaged in the daily fight against exploitation and oppression and for the socialist reorganization of society.
+Apply to join the PSL Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Sign up with your email address to receive news and updates about the campaign.
+First Name Last Name Email Address Sign Up We respect your privacy.
+Thank you! info@andreforthebronx.nyc PAID FOR BY ANDRE EASTON FOR CONGRESS 2026

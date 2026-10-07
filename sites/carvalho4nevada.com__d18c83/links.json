@@ -1,10 +1,38 @@
 [
-"https://carvalho4nevada.com/",
-"https://carvalho4nevada.com/about",
-"https://carvalho4nevada.com/contact",
-"https://carvalho4nevada.com/issues",
-"https://carvalho4nevada.com/volunteer",
-"https://facebook.com/profile.php?id=61589978195476",
-"https://instagram.com/carvalho4nevada26",
-"https://x.com/PatsyCarvalho26"
+{
+"text": "ABOUT",
+"href": "https://www.carvalho4nevada.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.carvalho4nevada.com/contact"
+},
+{
+"text": "Carvalho4Nevada@gmail.com​",
+"href": "mailto:Carvalho4Nevada@gmail.com?subject=Reaching+out"
+},
+{
+"text": "HOME",
+"href": "https://www.carvalho4nevada.com"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.carvalho4nevada.com/issues"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.carvalho4nevada.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61589978195476"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/carvalho4nevada26/"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/PatsyCarvalho26"
+}
 ]

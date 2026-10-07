@@ -1,5 +1,4 @@
-About
-Brian arrived in Bozeman in the fall of 1994 for a Teaching Assistant job at MSU.
+Home About Issues Contact Us HD 65 Map DONATE Home About Issues Contact Us HD 65 Map DONATE About Brian arrived in Bozeman in the fall of 1994 for a Teaching Assistant job at MSU.
 In those first three years like many Bozemanites, he worked three jobs: building his practice; running the planetarium projector; and substitute maintenance for the Bozeman schools.
 He immediately became involved in the community by joining the GALAVAN Board.
 While with GALAVAN he pushed through a senior transportation levy to ensure GALAVAN's continued service to seniors.
@@ -16,3 +15,6 @@ As Chairman of the Bozeman Park & Recreation Board, he shepherded the creation o
 Brian attended the University of Chicago (graduating with General Honors), received his Master in Tax Law from New York University, and a Master in History from Montana State University.
 He has been a practicing tax attorney since 1987.
 He lives in a union household with his lovely librarian wife, Beth Boyson, and his trusty dog, Sam (and Sam's friend, Joey, occasionally).
+CONTACT OUR CAMPAIGN Brian Close for Montana HD 65 1140 Cherry Drive Bozeman, MT 59715 (406) 582-0478 brianclose4montana@gmail.com About Issues Volunteer Paid for by Brian Close, Democrat for House District 65 © # Brian Close For Montana | All rights reserved. | Contributions or gifts to Brian Close for Montana are not tax deductible.
+Powered by PoliEngine.com Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Save Changes

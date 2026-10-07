@@ -1,5 +1,4 @@
-Smith campaign: Announces campaign for Congress in Wisconsin’s 6th District
-PORT WASHINGTON, Wis. — Brad Smith, a Wisconsin National Guard veteran, business leader, and advocate for middle-class families, today announced his candidacy for the U.S.
+0 Skip to Content About Brad Learn More Hear from Brad Priorities and Positions Endorsements Press Releases Get Involved Volunteer Join an Event Request Yard Sign Shop Contact Us Donate Open Menu Close Menu About Brad Learn More Hear from Brad Priorities and Positions Endorsements Press Releases Get Involved Volunteer Join an Event Request Yard Sign Shop Contact Us Donate Open Menu Close Menu About Brad Folder: Learn More Back Hear from Brad Priorities and Positions Endorsements Press Releases Folder: Get Involved Back Volunteer Join an Event Request Yard Sign Shop Contact Us Donate Smith campaign: Announces campaign for Congress in Wisconsin’s 6th District Oct 29 Written By Brad Smith PORT WASHINGTON, Wis. — Brad Smith, a Wisconsin National Guard veteran, business leader, and advocate for middle-class families, today announced his candidacy for the U.S.
 House of Representatives in Wisconsin’s 6th Congressional District.
 Smith is running to protect Wisconsin’s middle class, strengthen family farms, expand access to healthcare and education, and ensure working people have a fair shot at prosperity.
 Smith’s story is rooted in Wisconsin’s rural and industrial traditions.
@@ -9,6 +8,6 @@ He and his wife, Jennifer, are raising their two sons in Mequon.
 “I’m running because the Wisconsin I love, the one that gave my family a vibrant future, is slipping away,” says Smith.
 “I’ll fight for affordable healthcare, good jobs with fair wages, and real access to education and training that help move us all Forward, Together.” Smith goes on to explain that “this campaign isn’t powered by corporate PACs or billionaires.
 It’s powered by Wisconsinites hungry for change; people who work hard, care for their families, and believe we do better when we work together.
-Because together, we can protect our Wisconsin way of life and prosper.”
-Smith emphasizes a bipartisan, problem-solving approach, focused on practical solutions that make life more affordable for Wisconsin families.
+Because together, we can protect our Wisconsin way of life and prosper.” Smith emphasizes a bipartisan, problem-solving approach, focused on practical solutions that make life more affordable for Wisconsin families.
 His top priorities include expanding access to education and job training so every worker can build a stable career, protecting and improving affordable healthcare for all, and growing good-paying jobs that keep our economy strong and local communities thriving.
+Brad Smith Previous Previous Wisconsin 6th District Candidate Takes Fight for Congressional Ethics to Washington Paid for by Citizens for Brad Smith Media Resources ‍ | ‍ Press Releases

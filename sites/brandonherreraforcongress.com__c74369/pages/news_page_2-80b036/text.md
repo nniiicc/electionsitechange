@@ -1,29 +1,17 @@
-Campaign News
-Latest news and updates from Brandon Herrera for Congress
-Brandon Herrera Statement on Earning the Republican Nomination
-San Antonio, TX – Brandon Herrera issued the following statement after finishing first in Tuesday’s Republican Primary and following the suspension of Congressman Tony Gonzales’ campaign: I am grateful for the opportunity to represent the Republican Party as our nominee for Congress in the November election.
-Over the past month, I traveled to every county […]
-Brandon Herrera Responds to Gonzales Affair Confirmation: “Resign.”
-San Antonio, TX – Brandon Herrera made the following statement after a story broke in the San Antonio Express-News confirming that Congressman Tony Gonzales not only had an affair with an employee who subsequently committed suicide, but also lied about it.
+Skip to content See Our Event Schedule Volunteer Donate Open main menu Issues Border Security Economy Serving Veterans Second Amendment Protecting Women’s Sports Pro-Life Term Limits Education Foreign Policy Make America Healthy Again Healthcare Supporting Trump Vote News General Updates Press Releases Events Endorsements View Endorsements Veteran Endorsement Volunteer Donate Donate Home Meet Brandon On The Issues Campaign News Upcoming Events Endorsements Veteran Endorsement Voting Information Donate to help the campaign Volunteer for the campaign Follow the campaign on Facebook Follow the campaign on Instagram Campaign News Latest news and updates from Brandon Herrera for Congress Press Releases Brandon Herrera Meets with White House, Department of Homeland Security, Advocates for Common-Sense Solution for Big Bend Border Security Washington, DC – Today, Brandon Herrera, the Republican nominee for Texas’s 23rd Congressional District, met with leaders at the White House and the Department of Homeland Security in Washington, DC, to discuss border security plans in the area of Big Bend National Park and Big Bend Ranch State Park.
+Herrera made the following statement: There […] Read More Posted March 20, 2026 Press Releases Brandon Herrera Statement on Earning the Republican Nomination San Antonio, TX – Brandon Herrera issued the following statement after finishing first in Tuesday’s Republican Primary and following the suspension of Congressman Tony Gonzales’ campaign: I am grateful for the opportunity to represent the Republican Party as our nominee for Congress in the November election.
+Over the past month, I traveled to every county […] Read More Posted March 6, 2026 Press Releases Brandon Herrera Responds to Gonzales Affair Confirmation: “Resign.” San Antonio, TX – Brandon Herrera made the following statement after a story broke in the San Antonio Express-News confirming that Congressman Tony Gonzales not only had an affair with an employee who subsequently committed suicide, but also lied about it.
 Tony Gonzales must resign.
-He not only broke House ethics rules by having an […]
-SHOT Show 2026 Fundraiser Brings Second Amendment Community Together to Support Brandon Herrera
-Brandon Herrera’s congressional campaign is hosting a major fundraising event tonight, Tuesday, January 20th, 2026, at the Trump Las Vegas during SHOT Show 2026—the world’s largest firearms industry trade show.
-The event is bringing together Second Amendment advocates, industry leaders, and grassroots supporters from across the country during one of the most significant gatherings in […]
-Update: My Election is in 52 Days
-The campaign against Tony Gonzales is coming down to the wire, here’s how the race is looking!
-Merry Christmas!
+He not only broke House ethics rules by having an […] Read More Posted February 18, 2026 General Updates SHOT Show 2026 Fundraiser Brings Second Amendment Community Together to Support Brandon Herrera Brandon Herrera’s congressional campaign is hosting a major fundraising event tonight, Tuesday, January 20th, 2026, at the Trump Las Vegas during SHOT Show 2026—the world’s largest firearms industry trade show.
+The event is bringing together Second Amendment advocates, industry leaders, and grassroots supporters from across the country during one of the most significant gatherings in […] Read More Posted January 20, 2026 General Updates Update: My Election is in # Days The campaign against Tony Gonzales is coming down to the wire, here’s how the race is looking!
+Read More Posted January 10, 2026 General Updates Merry Christmas!
 Wishing you and your family a season filled with joy, peace, and time with those you love.
 May the new year bring hope, gratitude, and continued blessings to our community.
-Brandon Herrera Breaks $1.1 Million Raised, Surpasses Total Raised for 2024 Primary
-Brandon Herrera on the Issues – Foreign Aid, Gun Violence, and More
-This was the speech and Q&A Brandon recently did at Texas A&M, answering direct questions about a multitude of policy related issues.
-If you’d like to be a part of making this election a landslide success, you can volunteer or donate here: https://brandonherreraforcongress.com/donate
-Veterans Day
-Brandon Herrera’s volunteer army has been honoring our Veterans all weekend!
+Read More Posted December 24, 2025 Press Releases Brandon Herrera Breaks $# Million Raised, Surpasses Total Raised for 2024 Primary San Antonio, TX – Today, the Brandon Herrera campaign announced that as of yesterday, the campaign has raised a total of $1,101,287.82, which is $100,000 more than the previous campaign had raised through the entire primary.
+This total includes $108,897.66 raised directly into the Brandon Herrera for Congress and $992,408.16 raised by the Brandon Herrera […] Read More Posted November 25, 2025 General Updates Brandon Herrera on the Issues – Foreign Aid, Gun Violence, and More This was the speech and Q&A Brandon recently did at Texas A&M, answering direct questions about a multitude of policy related issues.
+If you’d like to be a part of making this election a landslide success, you can volunteer or donate here: https://brandonherreraforcongress.com/donate Read More Posted November 14, 2025 General Updates Veterans Day Brandon Herrera’s volunteer army has been honoring our Veterans all weekend!
 Thank you for your service!
-Running For Congress – The First 30 Days
-A Message from Brandon Thank you to everyone for your outpouring of support so far!
-This campaign is wasting no time getting into gear, and the response has been incredible.
-We have more momentum, better fundraising, more resources, and higher odds than ever before, and it’s all because of you.
-I have no doubt that […]
+Read More Posted November 12, 2025 Previous 1 2 3 Next Signup for Updates Subscribe to our newsletter for the latest campaign updates.
+Subscribe Upcoming Events Sign Wave + Sign Pickup Hosted by Brandon Herrera Saturday, October 10th, 2026 at 10:00 am CST Sign Wave + Sign Pickup Hosted by Brandon Herrera Saturday, October 17th, 2026 at 10:00 am CST Bexar County Town Hall – Parker’s Ice Cream Monday, October 19th, 2026 at 11:00 am CST Campaign Merch No recent news available.
+Get Email Updates Subscribe Home Issues Vote News Events Volunteer Donate Paid for by the Brandon Herrera Victory Committee A Joint Fundraising Committee Including Brandon Herrera for Congress and BRANDON PAC Click here to read our joint fundraising notice.
+Brandon Herrera For Congress 11844 Bandera Rd, Box 499, Helotes, TX 78023 info@brandonherreraforcongress.com Phone: (210) 940-9274

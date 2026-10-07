@@ -1,5 +1,4 @@
-HOUSING:
-When I close my eyes, I still see myself as one of four kids, bouncing from house to house.
+0 Skip to Content About Issues & Our Wins Endorsements Volunteer In The News Media DONATE Open Menu Close Menu About Issues & Our Wins Endorsements Volunteer In The News Media DONATE Open Menu Close Menu About Issues & Our Wins Endorsements Volunteer In The News Media DONATE HOUSING: When I close my eyes, I still see myself as one of four kids, bouncing from house to house.
 I see my single mother, a childcare worker, struggling to stay afloat and relying on Section 8 to help keep a roof over our heads.
 Together, we are on a mission to end homelessness and guarantee housing for all.
 My mom died in 2020 while waiting for access to housing and struggling with mental health, addiction, and heart failure.
@@ -22,4 +21,4 @@ Local Government Aid dollars which will allow local governments to provide vital
 5.
 Expungement reform and landlord risk mitigation funds, which will help eliminate the barrier formerly incarcerated people face securing housing, and in preventing incarceration, gender-based violence, and substance abuse which are leading causes of homelessness.
 6.
-Housing accessibility for those with physical and sensory impairment, and cultural and gender affirming housing with supportive environment and services for unique needs of each community member.
+Housing accessibility for those with physical and sensory impairment, and cultural and gender affirming housing with supportive environment and services for unique needs of each community member. prepared and paid for by Liish for Duluth, PO Box 3234, Duluth, MN 55803 SHARKYLEMON© 2026

@@ -1,7 +1,12 @@
 {
  "description": "TP Nykoriak is running for U.S. Congress in Michigan's 13th District, serving Detroit and Wayne County. Read the agenda, volunteer, or contribute.",
  "final_url": "https://tp313.org/",
- "paid_for_by": "Paid for by TP for 313 Campaign Committee Visits Authorized and paid for by TP Nykoriak for Congress",
+ "fingerprint": "d215b06709072e86f980b3757ab76bda5c4c3f32",
+ "format": 3,
+ "paid_for_by": "authorized by law, provide retroactive relief for individuals convicted solely of non-violent, low-level federal marijuana possession offenses",
  "title": "TP Nykoriak for Congress | Michigan's 13th District",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2023"
+ ]
 }

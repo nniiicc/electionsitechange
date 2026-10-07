@@ -1,5 +1,4 @@
-Leading with Compassion
-Four years after the tragic Atlanta shootings on March 16, 2021, Asian Americans came together once again to honor the lives lost and reaffirm our commitment to justice and safety.
+0 Skip to Content About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu Folder: About Michelle Back Meet Michelle What Michelle Stands For Endorsements Folder: Get Involved Back Get Involved Mobilize Dashboard Donate Voter Resources Folder: Media Back Events In the News Interviews Blog Podcast 2026 Campaign Connect English Back Donate Leading with Compassion Mar 18 Written By Michelle Kang Four years after the tragic Atlanta shootings on March 16, 2021, Asian Americans came together once again to honor the lives lost and reaffirm our commitment to justice and safety.
 As we remember the pain of that day, we also recognize the power of compassion in healing, uniting, and driving meaningful change.
 This year’s commemoration was a solemn remembrance and a call to lead with empathy and action.
 We gathered with purpose, engaging in meaningful discussions and developing strategies to address the pressing challenges our communities face today.
@@ -21,5 +20,10 @@ We will continue to speak out, stand up, and fight to protect our children, comm
 By leading with compassion, we ensure that no one is left behind and that justice is built on the foundation of care and understanding.
 Thank you to everyone who continues to stand in solidarity with us.
 Together, we will keep pushing forward, demanding justice, and ensuring that tragedies like the Atlanta shootings never happen again.
-In unity,
-Michelle Kang
+In unity, Michelle Kang Michelle Kang Previous Previous Republicans Just Sold Out Everyday, Georgians!
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Keep in Touch Sign up with your email address to receive news and updates.
+Email Address Sign Up We respect your privacy.
+Thank you!
+Donate contact Volunteer Checks payable to: Friends of Michelle Kang, Inc Send checks to: PO Box 3772, Suwanee, GA 30024 For press or media inquiries, please contact press@michellekangforga.com Website by Blum Creative Privacy Policy | Terms of Use

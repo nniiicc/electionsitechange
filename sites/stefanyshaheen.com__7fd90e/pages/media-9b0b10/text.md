@@ -1,13 +1,3 @@
-Stefany Shaheen always fights for New Hampshire:
-Stefany Shaheen doesn’t take money from corporate PACs.
-And unlike others in this race, she didn’t take money from a Trump ICE contractor helping fill detention centers, or the Jeff Bezos family super PAC eyeing New Hampshire for big data centers.
-The people of New Hampshire are powering Stefany Shaheen’s campaign.
-More than 3,200 Granite Staters have contributed — a full three times more than any other candidate.
-Stefany is outraged by Donald Trump’s corruption and profiteering off the White House, the violence ICE is inflicting on American citizens, and the big drug and insurance companies denying people health care and ripping off working families.
-She’ll take them on to fight for Granite Staters.
-The people of the First District need a congresswoman fighting for them, not the same big corporate interests and billionaires that backed Donald Trump.
-###
-News reports and FEC records show Maura Sullivan pulled in more money from AIPAC donors – $300,000 – than she raised from people in New Hampshire.
-Maura Sullivan isn’t being honest with voters. 90% of her campaign money comes from out of state.
-She’s backed by Trump’s ICE contractor Palantir, has a secret bundling arrangement with AIPAC, and even got $380,000 in ads from a Bezos family SuperPAC.
-When voters get the facts about outside special interests funding Maura Sullivan’s campaign, they know that’s who she works for, not New Hampshire.
+Menu Meet Stefany Why I’m Running Priorities News Endorsements Events Volunteer Yard Sign Donate Meet Stefany Why I’m Running Priorities News Endorsements Events Volunteer Yard Sign Donate Media Media When New Hampshire voters read, hear, and see Anthony DiLorenzo’s own words about Donald Trump on YouTube and streaming platforms, as well as in mail, they know he’ll support Trump 100% of the time, even when it hurts New Hampshire: DiLorenzo backs Trump 100%: DiLorenzo even says he’d “vote for Trump 1,000 times in a row. ” Anthony DiLorenzo says Trump’s “ policies have been effective. ” On the Big Beautiful Bill, he proclaimed, “ I love it. ” DiLorenzo will continue Trump’s endless forever war, driving up gas and diesel prices, and jacking up home heating oil costs 50%.
+“I Would Support The President.” [WMUR – CloseUp, 3/22/26] “I’m supportive of it.” [Podcast, 4/2/26 ] DiLorenzo supports Trump’s devastating tariffs that are crushing local businesses and raising the costs of everything else, making life unaffordable for New Hampshire families: “Having tariffs creates more opportunity for job growth in the country.” [Conway Daily Sun, 4/9/26 ] Said tariffs and BBB are “a net win for consumers.” [Conway Daily Sun, 4/9/26 ] DiLorenzo backs Trump’s plan that increased health care costs and handed tax breaks to billionaires and insurance companies.
+“I love the big beautiful bill. [C-SPAN, 8/13/26 ] Said, “he wouldn’t vote to repeal” it. [Portsmouth Herald, 9/25/26 ] Download Photos Download Video Meet Stefany Why I’m Running Priorities News Endorsements Events Volunteer Yard Sign Donate Stefany Shaheen for Congress PO Box 193 Manchester, NH 03105 info@stefanyshaheen.com Privacy Policy © 2026 Paid for by Stefany Shaheen for Congress

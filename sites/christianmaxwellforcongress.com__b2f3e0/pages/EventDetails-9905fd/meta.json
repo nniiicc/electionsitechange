@@ -1,7 +1,9 @@
 {
  "description": "Event Details on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/EventDetails",
- "paid_for_by": null,
+ "fingerprint": "dc89ca4ece6eb16727ce3d49e1a17e2276c81d28",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Event Details | Maxwell for Congress",
  "years_mentioned": []
 }

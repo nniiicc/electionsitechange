@@ -1,67 +1,31 @@
-Upcoming Events
-Oct
-4
-Oct
-3
-Sep
-29
-Sep
-27
-Sep
-27
-Sep
-26
-Sep
-23
-Sep
-19
-Sep
-16
-Sep
-12
-Sep
-8
-Sep
-5
-Sep
-3
-Aug
-29
-Aug
-25
-Aug
-22
-Aug
-8
-Jul
-28
-Jul
-18
-Jul
-15
-Taylor Swift Themed Postcard Party
-Postcard Party!
+0 Skip to Content Home About Carina Issues Yard Signs Volunteer News + Events Resources Contact donate Open Menu Close Menu Home About Carina Issues Yard Signs Volunteer News + Events Resources Contact donate Open Menu Close Menu Home About Carina Issues Yard Signs Volunteer News + Events Resources Contact donate Upcoming Events Events Oct # October 10, 2026 Day of Action October 10, 2026 RSVP HERE Read more → October 10, 2026 Oct # October 17, 2026 Day of Action October 17, 2026 RSVP HERE Read more → October 17, 2026 Oct # October 31, 2026 Day of Action October 31, 2026 RSVP HERE Read more → October 31, 2026 Oct 10 Day of Action Saturday, October 10, 2026 1:00 PM 3:30 PM CSM HQ (map) Google Calendar ICS RSVP HERE View Event → Oct 17 Day of Action Saturday, October 17, 2026 1:00 PM 3:30 PM CSM HQ (map) Google Calendar ICS RSVP HERE View Event → Oct 31 Day of Action Saturday, October 31, 2026 1:00 PM 3:30 PM CSM HQ (map) Google Calendar ICS RSVP HERE View Event → Oct 4 Candidate Forum Hosted by LWV Sunday, October 4, 2026 1:00 PM 4:30 PM Arlington Heights Memorial Library (map) Google Calendar ICS RSVP HERE View Event → Oct 3 Day of Action Saturday, October 3, 2026 1:00 PM 3:30 PM CSM HQ (map) Google Calendar ICS RSVP HERE View Event → Sep 29 Hello, Fall Postcard Party Tuesday, September 29, 2026 6:30 PM 8:00 PM CSM Campaign HQ (map) Google Calendar ICS RSVP HERE View Event → Sep 27 Joint Day of Action with Ted Mason, Mary Beth Canty and Nicolle Grasse Sunday, September 27, 2026 1:00 PM 3:00 PM Busse Pocket Park (map) Google Calendar ICS RSVP HERE View Event → Sep 27 Month of Action KICKOFF Event Sunday, September 27, 2026 11:00 AM 1:00 PM Maple Park (map) Google Calendar ICS RSVP HERE View Event → Sep 26 Day of Action Saturday, September 26, 2026 1:00 PM 3:30 PM CSM HQ (map) Google Calendar ICS RSVP HERE View Event → Sep 23 Oktoberfest Themed Fall Fundraiser Wednesday, September 23, 2026 6:00 PM 9:00 PM Arlington Ale House (map) Google Calendar ICS GRAB A TICKET TODAY!
+View Event → Sep 19 Day of Action Saturday, September 19, 2026 1:00 PM 3:30 PM CSM HQ (map) Google Calendar ICS RSVP HERE View Event → Sep 16 Wine & Cheese Joint Postcard Party Wednesday, September 16, 2026 6:30 PM 8:00 PM CSM Campaign HQ (map) Google Calendar ICS RSVP HERE View Event → Sep 12 Day of Action Saturday, September 12, 2026 1:00 PM 3:30 PM CSM HQ (map) Google Calendar ICS RSVP HERE View Event → Sep 8 ABBA Postcard Party Tuesday, September 8, 2026 6:30 PM 8:00 PM CSM Campaign HQ (map) Google Calendar ICS RSVP HERE View Event → Sep 5 Day of Action Saturday, September 5, 2026 1:00 PM 3:30 PM CSM HQ (map) Google Calendar ICS RSVP HERE View Event → Sep 3 Let’s Talk Taxes Thursday, September 3, 2026 7:00 PM 8:30 PM CSM Campaign HQ (map) Google Calendar ICS RSVP HERE View Event → Aug 29 Day of Action Saturday, August 29, 2026 1:00 PM 3:30 PM CSM HQ (map) Google Calendar ICS RSVP HERE View Event → Aug 25 Taco Tuesday Postcard Party Tuesday, August 25, 2026 6:30 PM 8:00 PM CSM Campaign HQ (map) Google Calendar ICS Got concerns?
+Let’s TACO ‘BOUT IT.
+RSVP HERE View Event → Aug 22 Joint Day of Action with Mary Beth Canty and Nicolle Grasse Saturday, August 22, 2026 10:00 AM 12:30 PM CSM HQ (map) Google Calendar ICS RSVP HERE View Event → Aug 8 Day of Action Saturday, August 8, 2026 1:00 PM 3:30 PM CSM HQ (map) Google Calendar ICS RSVP HERE View Event → Jul 28 Free Narcan Training with Live4Lali Tuesday, July 28, 2026 6:00 PM 8:00 PM CSM Campaign HQ (map) Google Calendar ICS Learn a Skill That Could Save a Life.
+Free Narcan Training with Live4Lali .
+RSVP HERE View Event → Jul 18 Breakfast & Postcards with Ted Mason Saturday, July 18, 2026 10:30 AM 12:30 PM Address Provided Upon RSVP (map) Google Calendar ICS Join us for breakfast & postcards!
+RSVP HERE View Event → Jul 15 Taylor Swift Themed Postcard Party Wednesday, July 15, 2026 6:30 PM 8:00 PM CSM Campaign HQ (map) Google Calendar ICS Postcard Party!
 It's Me, Hi — I'm the Neighbor Writing to You.
-Jul
-7
-Jun
-20
-Grand Opening of Campaign Office
-We’re collecting cleaning supplies for families in our community with Good Neighbors Network!
-Jun
-17
-May
-25
-Apr
-18
-Mar
-28
-Mar
-7
-Mar
-6
-Feb
-6
-Jan
-19
-to Jan 22
+RSVP HERE View Event → Jul 7 Summer Reception Tuesday, July 7, 2026 5:30 PM 7:30 PM Beatrix (map) Google Calendar ICS RSVP TODAY!
+View Event → Jun 20 Grand Opening of Campaign Office Saturday, June 20, 2026 2:00 PM 5:00 PM Campaign Office (map) Google Calendar ICS We’re collecting cleaning supplies for families in our community with Good Neighbors Network !
+View Event → Jun 17 Summer Fundraiser Wednesday, June 17, 2026 6:30 PM 8:30 PM The Empty Corner (map) Google Calendar ICS GRAB A TICKET TODAY!
+View Event → May 25 Arlington Heights Memorial Day Parade Monday, May 25, 2026 9:00 AM 12:00 PM Arlington Heights, IL, 60005 United States (map) Google Calendar ICS Click Here to come walk with us in the parade!
+View Event → Apr 18 Day of Action Saturday, April 18, 2026 12:00 PM 4:00 PM 14 E Northwest Highway Arlington Heights, IL, 60005 United States (map) Google Calendar ICS Click Here to RSVP View Event → Mar 28 No Kings Protest Saturday, March 28, 2026 12:00 PM 2:00 PM Volunteer Plaza / Clock Tower (map) Google Calendar ICS RSVP Here View Event → Mar 7 Trivia Night!
+Celebrate.
+Connect.
+Build What’s Next — Together.
+Saturday, March 7, 2026 6:00 PM 8:00 PM HOME Bar (map) Google Calendar ICS RSVP TODAY!
+View Event → Mar 6 Protect Our Neighbors Solidarity Gathering Friday, March 6, 2026 4:00 PM 5:00 PM Corner of Dundee Rd and Baldwin Rd Palatine, IL, 60074 United States (map) Google Calendar ICS Sign Up for Updates!
+View Event → Feb 6 Meet & Greet - February 6th Friday, February 6, 2026 7:00 PM 9:00 PM Private Residence Arlington Heights, IL United States (map) Google Calendar ICS RSVP TODAY!
+View Event → Jan 19 to Jan 22 Martin Luther King Jr.
+Day Volunteer Event Mon, Jan 19, 2026 10:00 AM Thu, Jan 22, 2026 11:00 AM Campaign Office (map) Google Calendar ICS RSVP HERE to help us build whistle kits!
+View Event → HOME | ABOUT CARINA | ISSUES | VOLUNTEER | NEWS + EVENTS | RESOURCES | DISTRICT MAP | CONTACT (630) 788-1985 info@citizensforcarina.com PRIVACY POLICY Website paid for by Citizens for Carina Custom designed website by This Way to Fabulous Inc.
+DONATE NOW Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay Updated Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up We respect your privacy.
+By providing your email, you are opting into receiving emails from Citizens for Carina.
+You may opt out at anytime.
+If you have any questions, contact info@citizensforcarina.com.
+Thank you!
+FOLLOW ALONG @CSMFORILLINOIS

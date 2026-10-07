@@ -1,25 +1,122 @@
 [
-"https://calendar.google.com/calendar/render?action=TEMPLATE&text=Intro+to+LaRouche+Economics&dates=20251026T110000%2F20251026T130000&details=Join+Jose+Vega+for+an+introduction+to+Economics+from+the+standpoint+of+Lyndon+LaRouche.&location=Signup+for+details",
-"https://facebook.com/",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvotevega.nyc%2Fevents%2Fpolitical-education-class-series%2F",
-"https://instagram.com/votevega",
-"https://outlook.live.com/calendar/0/deeplink/compose?subject=Intro+to+LaRouche+Economics&startdt=2025-10-26T11%3A00%3A00&enddt=2025-10-26T13%3A00%3A00&body=Join+Jose+Vega+for+an+introduction+to+Economics+from+the+standpoint+of+Lyndon+LaRouche.&location=Signup+for+details",
-"https://secure.votevega.nyc/donate",
-"https://tiktok.com/@votevega",
-"https://twitter.com/votevega26",
-"https://votevega.nyc/",
-"https://votevega.nyc/es/events/political-education-class-series",
-"https://votevega.nyc/events",
-"https://votevega.nyc/meet-jose",
-"https://votevega.nyc/news",
-"https://votevega.nyc/policy",
-"https://votevega.nyc/policy/peace-through-development",
-"https://votevega.nyc/policy/real-medicare-for-all",
-"https://votevega.nyc/policy/robust-immigration-reform",
-"https://votevega.nyc/policy/space-ccc",
-"https://votevega.nyc/privacy-policy",
-"https://votevega.nyc/statements",
-"https://votevega.nyc/terms-and-conditions",
-"https://x.com/intent/tweet?url=https%3A%2F%2Fvotevega.nyc%2Fevents%2Fpolitical-education-class-series%2F&text=Intro+to+LaRouche+Economics",
-"https://youtube.com/@DeclaringIndependence"
+{
+"text": "A real medicare for all policy",
+"href": "https://votevega.nyc/policy/real-medicare-for-all/"
+},
+{
+"text": "A revolutionary approach to foreign policy: Peace through Development",
+"href": "https://votevega.nyc/policy/peace-through-development/"
+},
+{
+"text": "A robust immigration reform",
+"href": "https://votevega.nyc/policy/robust-immigration-reform/"
+},
+{
+"text": "All Policies",
+"href": "https://votevega.nyc/policy/"
+},
+{
+"text": "Back to All Events",
+"href": "https://votevega.nyc/events/"
+},
+{
+"text": "Campaign Statements",
+"href": "https://votevega.nyc/statements/"
+},
+{
+"text": "Donate",
+"href": "https://secure.votevega.nyc/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.votevega.nyc/donate"
+},
+{
+"text": "Esp",
+"href": "https://votevega.nyc/es/events/political-education-class-series/"
+},
+{
+"text": "Events",
+"href": "https://votevega.nyc/events/"
+},
+{
+"text": "Google Calendar",
+"href": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Intro+to+LaRouche+Economics&dates=20251026T110000%2F20251026T130000&details=Join+Jose+Vega+for+an+introduction+to+Economics+from+the+standpoint+of+Lyndon+LaRouche.&location=Signup+for+details"
+},
+{
+"text": "Make the Bronx the center for reindustrialization of the United States",
+"href": "https://votevega.nyc/policy/space-ccc/"
+},
+{
+"text": "Meet Jose",
+"href": "https://votevega.nyc/meet-jose/"
+},
+{
+"text": "News & Media",
+"href": "https://votevega.nyc/news/"
+},
+{
+"text": "Outlook",
+"href": "https://outlook.live.com/calendar/0/deeplink/compose?subject=Intro+to+LaRouche+Economics&startdt=%23T11%3A00%3A00&enddt=%23T13%3A00%3A00&body=Join+Jose+Vega+for+an+introduction+to+Economics+from+the+standpoint+of+Lyndon+LaRouche.&location=Signup+for+details"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votevega.nyc/privacy-policy/"
+},
+{
+"text": "Share Event",
+"href": "javascript:void(0)"
+},
+{
+"text": "Share on Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvotevega.nyc%2Fevents%2Fpolitical-education-class-series%2F"
+},
+{
+"text": "Share on X",
+"href": "https://x.com/intent/tweet?url=https%3A%2F%2Fvotevega.nyc%2Fevents%2Fpolitical-education-class-series%2F&text=Intro+to+LaRouche+Economics"
+},
+{
+"text": "Share via Email",
+"href": "mailto:?subject=Intro+to+LaRouche+Economics&body=Join+me+at+this+event%3A+https%3A%2F%2Fvotevega.nyc%2Fevents%2Fpolitical-education-class-series%2F"
+},
+{
+"text": "Sign Up",
+"href": "https://votevega.nyc/#volunteer"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://votevega.nyc/terms-and-conditions/"
+},
+{
+"text": "[image: Jose Vega for Congress]",
+"href": "https://votevega.nyc/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/votevega26"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votevega/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@votevega"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@DeclaringIndependence"
+},
+{
+"text": "info@votevega.nyc",
+"href": "mailto:info@votevega.nyc"
+},
+{
+"text": "press@votevega.nyc",
+"href": "mailto:press@votevega.nyc"
+}
 ]

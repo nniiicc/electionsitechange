@@ -1,7 +1,5 @@
-Legislative Update: Veto Overrides & Key Policy Decisions
-This week, we continue to look at several veto overrides that took place during the final week of the legislative session.
-HB 2329
-I supported the override of the Governor’s veto on House Bill 2329 because I believe our juvenile justice system must hold offenders accountable while also ensuring young people have the structure and services they need to turn their lives around.
+Legislative Update: Veto Overrides & Key Policy Decisions Legislative Updates | Policy Priorities | Personal Reflections April 26, 2026 • 6 min read This week, we continue to look at several veto overrides that took place during the final week of the legislative session.
+HB 2329 I supported the override of the Governor’s veto on House Bill 2329 because I believe our juvenile justice system must hold offenders accountable while also ensuring young people have the structure and services they need to turn their lives around.
 Previously, there were limits on how long serious or repeat offenders could be held, along with insufficient flexibility to respond when a young person posed a risk to others.
 At the same time, gaps remained in how we provide stabilization and treatment services for youth in crisis.
 This legislation takes a balanced approach to addressing those challenges.
@@ -18,8 +16,7 @@ It provides courts and professionals with more tools to respond appropriately—
 The Legislature ultimately voted to override the veto with strong support: 89–34 in the House and 29–10 in the Senate.
 For families in our community, this means a system that is more responsive, more accountable, and better equipped to address both public safety concerns and the needs of young people in crisis.
 I will continue working to ensure our laws strike the right balance between responsibility, safety, and giving young Kansans a real opportunity to get back on the right path.
-Immigration Enforcement and Support for Law Enforcement
-I supported the Legislature’s override of the Governor’s veto on House Bill 2372 because our law enforcement officers deserve clear authority—and strong protections—when working to keep our communities safe.
+Immigration Enforcement and Support for Law Enforcement I supported the Legislature’s override of the Governor’s veto on House Bill 2372 because our law enforcement officers deserve clear authority—and strong protections—when working to keep our communities safe.
 This bill provides needed clarity by allowing sheriffs to honor valid federal immigration detainer requests when supported by proper documentation and probable cause.
 It also establishes clear procedures to protect individual rights, including requirements to notify individuals and ensure their release if a detainer is found to be invalid or if lawful status is confirmed.
 A key reason for my support is the protection it offers to officers doing their jobs in good faith.
@@ -32,8 +29,7 @@ This measure helps ensure first responders have the space they need to operate s
 The Legislature ultimately voted to override the veto with strong bipartisan support—85–38 in the House and 31–9 in the Senate.
 For our community, this law means clearer guidelines for cooperation with federal partners, stronger support for law enforcement, and added protections for those on the front lines.
 I remain committed to ensuring our laws both support those who serve and protect and uphold accountability in how government operates.
-Student Walkouts & Line-Item Veto Override
-I supported the Legislature’s override of the Governor’s line-item veto on Sections 88(k) and 88(m) because maintaining accountability in our schools must go hand in hand with clear, responsible use of education funding.
+Student Walkouts & Line-Item Veto Override I supported the Legislature’s override of the Governor’s line-item veto on Sections 88(k) and 88(m) because maintaining accountability in our schools must go hand in hand with clear, responsible use of education funding.
 Section 88(k) directs funding toward key education priorities, including teacher professional development, mentoring, career readiness programs, and student support initiatives.
 These are practical, classroom-focused investments that strengthen both teaching and learning, and I believed it was important to ensure these efforts moved forward.
 Section 88(m) addresses student attendance and school accountability during organized walkouts.
@@ -41,8 +37,7 @@ It requires parental consent for students to leave school during the day and rei
 I supported this measure because parents deserve to know where their children are during school hours, and schools have a responsibility to provide a safe, structured learning environment.
 Students retain the ability to express their views, but it should be done in a way that does not disrupt learning or bypass parental involvement.
 The House and Senate successfully overrode the veto on both sections.
-Fiscal Transparency Line-Item Overrides
-I supported the override of the Governor’s line-item veto on Sections 54(u) and 54(y) because taxpayer dollars should be spent with clear accountability and strong oversight.
+Fiscal Transparency Line-Item Overrides I supported the override of the Governor’s line-item veto on Sections 54(u) and 54(y) because taxpayer dollars should be spent with clear accountability and strong oversight.
 Section 54(u) focused on improving the evaluation of state-funded programs.
 It required organizations seeking state funding to clearly define their purpose, establish measurable outcomes, and demonstrate results before receiving full funding.
 It also called for a review of past programs to better understand what has been effective—and what has not.
@@ -61,5 +56,7 @@ I strive to be your voice of reason and logic in Topeka.
 If you have any questions or concerns, please do not hesitate to reach out.
 I will be at the Baxter Springs Cowtown Celebration this weekend, May 1 and 2, if you would like to visit more.
 I hope you have a great week.
-In service,
-Dale Helwig
+In service, Dale Helwig veto override juvenile justice law enforcement immigration policy education policy fiscal responsibility public safety District 1 Kansas legislature Kansas Veto Override Dale Helwig Dale Helwig is the Kansas State Representative for District 1, dedicated to serving his constituents with transparency, integrity, and a commitment to reducing government overreach.
+A lifelong Kansan, Dale focuses on policies that improve lives, support local communities, and ensure responsible governance.
+When he’s not in Topeka, Dale enjoys connecting with residents and spending time with his family.
+Back to top Back to Blog

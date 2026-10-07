@@ -1,7 +1,4 @@
-Gun Safety, Gun Fear, Gun Control
-The Reduction of Gun Violence Act...and the Underlying Fear
-My NRA patch and a patch for hiking Oklahoma’s Chisholm Trail
-The effective date for 2022’s Question 114, Reduction of Gun Violence Act, was recently postponed until 2028.
+Donate Menu Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Gun Safety, Gun Fear, Gun Control The Reduction of Gun Violence Act...and the Underlying Fear My NRA patch and a patch for hiking Oklahoma’s Chisholm Trail The effective date for 2022’s Question 114, Reduction of Gun Violence Act, was recently postponed until 2028.
 It only passed by 1.3%, despite “YES” having spent almost 17x the money on it as “NO.” In Columbia County it lost 67.7% – 32.3%.
 In my Washington County precinct, 301, it lost 68.5% – 31.5%.
 If I’m elected and a gun control bill comes up, I’ll review it on the merits and check with you, my constituent.
@@ -11,18 +8,13 @@ The measure itself was kinda wonky.
 The part I liked best was the safety training.
 My father was a long-time NRA member (until it went all-in for Ruger, et al) and in the Army for 30 years – 13 on active duty.
 He wanted me and all my siblings to be able to shoot effectively.
-So as an eleven year old, I learned:
-– guns are designed to kill;
-– guns are not toys;
-– always assume a gun is loaded; and
-– never point a gun at anyone or anything unless you’re willing to shoot it.
+So as an eleven year old, I learned: – guns are designed to kill; – guns are not toys; – always assume a gun is loaded; and – never point a gun at anyone or anything unless you’re willing to shoot it.
 I practiced shooting targets with a single shot Anschutz .22 rifle for a few years and got NRA certifications, eventually getting an Expert Rifleman certification.
 My mother sewed the patch onto the back of one of my father’s jackets that I wore.
 I still have the jacket and the patch.
 In retrospect, target shooting seems like a meditation: noticing my breath going in and out, directing the inevitable motion to be vertical, and timing my trigger squeeze to hit the target.
 When I hear someone say, “Pull the trigger!” in any context, whether figurative or literal, I often think, “Oh no, you’ll miss!
-Squeeze, don’t pull!”
-The magazine restriction in Question 114 seems straightforward and has precedent in other states.
+Squeeze, don’t pull!” The magazine restriction in Question 114 seems straightforward and has precedent in other states.
 I’m not as fond of the other three provisions – per-sale background check, fingerprinting, and the disputed permit to purchase.
 I might have instead proposed requiring a renewable, biannual shooter’s license to buy a gun, but have no idea how that would go over.
 I would check first.
@@ -51,3 +43,5 @@ It’s a virtue signaling issue.
 It’s a high-effort, low-return, counterproductive, and politically polarizing issue to spend time on, and would be a low priority for me if elected.
 That’s my current read.
 What do you think?
+Stay up to date Follow me on the campaign trail!
+Email Subscribe Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Donate Accessibility Statement Contact Site Map Campaign Disclaimer TBD 123 Main Street Anytown, OR 12345 Going Deep for Oregon © #

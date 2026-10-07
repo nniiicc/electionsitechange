@@ -1,6 +1,5 @@
-Contribute
-Donate
-Support Cinquemani for Congress with a secure contribution through Stripe Checkout.
-Choose your campaign contribution
-Secure donation
-Federal law requires political committees to use best efforts to collect and report the name, mailing address, occupation, and employer of contributors whose aggregate contributions exceed reporting thresholds.
+Skip to main content Cinquemani for Congress MENU About Issues Get Involved Contact Donate About Issues Get Involved Contact Donate Ideas Not Ideology Direction not Destination Contribute Donate Support Cinquemani for Congress with a secure contribution through Stripe Checkout.
+Choose your campaign contribution Federal per-election maximum Max out the per-election limit and go all-in with Joe. $3,500 The Spirit of '76 Going strong for 250 years. $1,776 A whole lotta Lincolns Support voter outreach, events, and campaign materials. $555 110% effort Help fuel a full-effort campaign across the district. $110 The year we turn the tide Invest in the 2026 campaign. $26 NY-16's finest Bronx and Westchester neighbors standing together. $16 Secure donation Federal law requires political committees to use best efforts to collect and report the name, mailing address, occupation, and employer of contributors whose aggregate contributions exceed reporting thresholds.
+Amount $ I confirm that I am a U.S. citizen or lawful permanent resident; this contribution is made from my own funds; it is not made by a corporation, labor organization, foreign national, federal contractor, or another person; and I am at least 18 years old.
+Continue to Stripe Cinquemani for Congress Better ideas for New York's 16th Congressional District: tax relief, lower costs, good jobs, and a stronger future for Westchester and the Bronx.
+Navigate About Issues Get Involved Contact Privacy Contact Cinquemani for Congress 40 Memorial Highway, New Rochelle, NY 10801 (917) 582-3700 cinquemaniforcongress@gmail.com Paid for by Cinquemani for Congress.

@@ -1,20 +1,74 @@
 [
-"https://bekkibrewer.com/",
-"https://bekkibrewer.com/about",
-"https://bekkibrewer.com/accessibility-statement",
-"https://bekkibrewer.com/blog",
-"https://bekkibrewer.com/contact",
-"https://bekkibrewer.com/donate-page",
-"https://bekkibrewer.com/issues",
-"https://bekkibrewer.com/privacy-policy",
-"https://facebook.com/Brewerforthe44th",
-"https://instagram.com/bekkibrewerforthe44th",
-"https://secure.actblue.com/donate/bekkibrewer/refcode=website?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/bekkibrewer/refcode=website?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/bekkibrewer/refcode=website?amount=1000&express_lane=true",
-"https://secure.actblue.com/donate/bekkibrewer/refcode=website?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/bekkibrewer/refcode=website?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/bekkibrewer/refcode=website?amount=44&express_lane=true",
-"https://secure.actblue.com/donate/bekkibrewer/refcode=website?amount=50&express_lane=true",
-"https://secure.actblue.com/donate/bekkibrewer/refcode=website?amount=500&express_lane=true"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/bekkibrewer/refcode=website?amount=10&express_lane=true"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/bekkibrewer/refcode=website?amount=100&express_lane=true"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/bekkibrewer/refcode=website?amount=1000&express_lane=true"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/bekkibrewer/refcode=website?amount=25&express_lane=true"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/bekkibrewer/refcode=website?amount=250&express_lane=true"
+},
+{
+"text": "$44",
+"href": "https://secure.actblue.com/donate/bekkibrewer/refcode=website?amount=44&express_lane=true"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/bekkibrewer/refcode=website?amount=500&express_lane=true"
+},
+{
+"text": "About",
+"href": "https://www.bekkibrewer.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.bekkibrewer.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.bekkibrewer.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.bekkibrewer.com/donate-page"
+},
+{
+"text": "Events",
+"href": "https://www.bekkibrewer.com/blog"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Brewerforthe44th/"
+},
+{
+"text": "Home",
+"href": "https://www.bekkibrewer.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bekkibrewerforthe44th/"
+},
+{
+"text": "Issues",
+"href": "https://www.bekkibrewer.com/issues"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/bekkibrewer/refcode=website?amount=50&express_lane=true"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bekkibrewer.com/privacy-policy"
+}
 ]

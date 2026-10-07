@@ -1,5 +1,5 @@
-April 14, 2020
-Below are a few things I know about Governor Wolf's mysterious waivers for "non-life sustaining" businesses to continue operations.
+Home Donate Blog News About Connect GOVERNOR WOLF: PUBLISH THE WAIVER LIST!
+April 14, 2020 Below are a few things I know about Governor Wolf's mysterious waivers for "non-life sustaining" businesses to continue operations.
 The more I think about the many businesses owners desperate to work, and more than willing to adhere to social distancing and elevated hygiene and cleaning protocols but still idled under this system, the more ticked off I get.
 According to a letter sent to Governor Wolf by most of Pennsylvania's various Chambers of Commerce, over 30,000 waiver applications were filed before they closed the application window as of April 3.
 At that time, only 13,000 applications had even been processed and the application process was shut down.
@@ -31,4 +31,5 @@ Let the people of Pennsylvania decide for themselves if your system will stand a
 Opacity breeds corruption and allows bad decision-making to spread just like a virus.
 Transparency, on the other hand, is the great disinfectant for all governmental decisions.
 Whether you support or oppose the Great Shutdown of 2020, there is no good reason why this list should not be made public IMMEDIATELY.
-Get campaign updates sent directly to your inbox.
+Subscribe to Facets of Life Get campaign updates sent directly to your inbox.
+PAID FOR BY FRIENDS OF RUSS DIAMOND Privacy Policy

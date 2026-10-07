@@ -1,10 +1,9 @@
-Retired Rear Admiral Eileen Laubacher Visits All Fourteen Rural Hospitals in Colorado’s 4th District
-Highlands Ranch, CO – Last week, Retired Rear Admiral Eileen Laubacher visited Kit Carson County Hospital in Burlington.
+0 Skip to Content Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Folder: Press Back Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Retired Rear Admiral Eileen Laubacher Visits All Fourteen Rural Hospitals in Colorado’s 4th District Sep 3 Written By Natalie Stallings Highlands Ranch, CO – Last week, Retired Rear Admiral Eileen Laubacher visited Kit Carson County Hospital in Burlington.
 The visit marks her fourteenth rural hospital visit, and means that she has now traveled to and met with every rural hospital in Colorado’s 4th District.
 “When I visited my first rural hospital in this district over a year ago, I was told by the CEO there that when you’ve visited one rural hospital, you’ve visited one rural hospital, because each hospital is unique,” said Retired Rear Admiral Eileen Laubacher.
 “Since that visit, I’ve made it a priority to get out to each rural hospital to hear directly from them about the challenges they’re facing, the needs they have, and the ways their representative in Congress can better serve them.
-And, although they are all unique, they share many of the same pain points that can be addressed through good, bipartisan legislation.”Laubacher heard about many of the struggles rural hospitals are having, including those that come as a direct result of H.R.1, which Lauren Boebert supported and touts as a good thing for rural hospitals.
-The cuts to Medicaid in H.R.1 are actively bleeding these hospitals, in a “death by a thousand cuts,” which leaves rural hospitals weaker than ever.
+And, although they are all unique, they share many of the same pain points that can be addressed through good, bipartisan legislation.” Laubacher heard about many of the struggles rural hospitals are having, including those that come as a direct result of H.R.1, which Lauren Boebert supported and touts as a good thing for rural hospitals.
+The cuts to Medicaid in H.R.1 are actively bleeding these hospitals, in a “ death by a thousand cuts, ” which leaves rural hospitals weaker than ever.
 Medicaid is a critical source of revenue for rural hospitals and clinics, and these cuts will only increase uncompensated care.
 And many of the federal programs that have been proposed as funding solutions actually trap these hospitals – they’re structured by requirements that prohibit badly needed repairs or restorations to existing parts of the hospital.
 The Rural Health Transformation Program is one such example, with significant restrictions on funding and requirements that funded activities be innovative; a standard which means a damaged roof or general building repair is not approved, and larger development projects can’t be saved for over a longer period of time.
@@ -12,27 +11,22 @@ The Rural Health Transformation Program is one such example, with significant re
 “These are people who have dedicated their lives to serving their communities and caring for everyone who comes through their doors.
 They know more about the rural health care system than politicians in Washington ever will.
 We should be listening to them about what they need and what they want.
-And if what they want is to save five years’ worth of funding to break ground on a new hospital building because the current one was built in the 1930s, they should have the opportunity to do that without so many restrictions.”
-Laubacher also heard about the need for serious reform when it comes to insurance and pharmaceutical companies.
+And if what they want is to save five years’ worth of funding to break ground on a new hospital building because the current one was built in the 1930s, they should have the opportunity to do that without so many restrictions.” Laubacher also heard about the need for serious reform when it comes to insurance and pharmaceutical companies.
 Rural hospitals face higher costs and less bargaining power than their larger hospital and health system counterparts do when it comes to negotiating with insurance companies, and antitrust legislation is used against them to keep them from forming groups to collectively bargain.
 “This is not good-faith practice,” said Retired Rear Admiral Eileen Laubacher.
 “We need to work to level the playing field for rural hospitals, because they are taken advantage of time and time again.
 Independent rural hospitals should be allowed to band together and form groups so they have more ground to stand on when negotiating with insurance companies and medical suppliers.
 We need to ensure that reimbursement rates are fair, and that rural hospitals are given the same pricing point for medical supplies that their larger counterparts are given.
-And we need to seriously reform insurance companies, because the current system isn’t working for anyone – whether you’re a patient, a provider, or a hospital trying hard just to stay open.”
-Something Laubacher has heard across the 4th district is the importance of keeping health care affordable and accessible.
+And we need to seriously reform insurance companies, because the current system isn’t working for anyone – whether you’re a patient, a provider, or a hospital trying hard just to stay open.” Something Laubacher has heard across the 4th district is the importance of keeping health care affordable and accessible.
 Programs like the 340B Drug Pricing Program, which makes prescription medications more affordable, are crucial for rural communities.
 “We have to work to preserve access to discounted medications that help rural hospitals and other safety-net providers stretch limited resources and continue serving their communities,” said Retired Rear Admiral Eileen Laubacher.
-“Every American should have access to the medications that keep them healthy, and the 340B Drug Pricing Program is crucial in making these medications affordable.”
-Another key tool in keeping health care accessible, particularly in rural communities, is telehealth.
+“Every American should have access to the medications that keep them healthy, and the 340B Drug Pricing Program is crucial in making these medications affordable.” Another key tool in keeping health care accessible, particularly in rural communities, is telehealth.
 “When I’m in Congress, I’ll work to protect and expand telehealth access and require meaningful insurance coverage so rural Coloradans can see specialists and other providers without traveling hours for routine appointments,” said Retired Rear Admiral Eileen Laubacher.
-“We need to make sure people are getting the preventative and routine care they need in a way that works for them, so that less people end up getting so sick they need emergency care.”
-Several of the hospitals mentioned the importance of EMS to rural communities.
+“We need to make sure people are getting the preventative and routine care they need in a way that works for them, so that less people end up getting so sick they need emergency care.” Several of the hospitals mentioned the importance of EMS to rural communities.
 Rural emergency services are often also under incredible strain, as they cover large service areas while dealing with insufficient funding, and staffing and equipment challenges.
 “Rural communities cannot function without reliable emergency medical services,” said retired Rear Admiral Eileen Laubacher.
 “This is a matter of life and death.
-Federal policy should recognize EMS as essential infrastructure and provide sustainable support for staffing, equipment, and operations.”
-Rural hospitals are the backbone of their communities, and are imperative for the survival of rural America – not just from a health care standpoint, but an economic one, too.
+Federal policy should recognize EMS as essential infrastructure and provide sustainable support for staffing, equipment, and operations.” Rural hospitals are the backbone of their communities, and are imperative for the survival of rural America – not just from a health care standpoint, but an economic one, too.
 These hospitals are frequently among the top three employers in their towns.
 They understand the unique challenges and needs that each of their communities face, to an extent that no Washington representative could ever attest to.
 Legislation that is proposed as support for them should be informed by the input of the hospitals themselves.
@@ -41,6 +35,7 @@ And for Laubacher, their input doesn’t end after one visit.
 “I’m making a commitment to keep these lines of communication open.
 When I get to Congress, I will set up a Rural Health Advisory Council and continue to work with the good folks at each one of these hospitals to ensure that legislation passed through the House reflects their needs and goals, and sets rural communities up for future success.
 I will work with my colleagues on both sides of the aisle to restore the cuts to Medicaid that threaten our rural hospitals, and pass good, bipartisan legislation that will enable our hospitals to not only survive, but thrive.
-Rural America and rural health care is not a Republican issue, or a Democrat issue – it’s an American issue.”
-View Eileen’s plan to protect rural health care here
-###
+Rural America and rural health care is not a Republican issue, or a Democrat issue – it’s an American issue.” View Eileen’s plan to protect rural health care here ### Natalie Stallings Previous Previous Retired Rear Admiral Eileen Laubacher Launches New Ad, Promising Decency, Common Sense, and Service Next Next retired rear admiral eileen laubacher calls for long-term water planning at colorado water congress GET INVOLVED WITH TEAM EILEEN Donate Volunteer Contact Privacy Policy/Terms of Service Careers CHECKS CAN BE MAILED TO PO BOX: 9249 S Broadway, #200-172 Highlands Ranch, CO 80129 PAID FOR BY EILEEN FOR COLORADO REAR ADMIRAL EILEEN LAUBACHER (RET) IS A FORMER MEMBER OF THE U.S.
+NAVY.
+USE OF HER MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT FROM THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE. ©# Eileen for Colorado.
+All rights reserved.

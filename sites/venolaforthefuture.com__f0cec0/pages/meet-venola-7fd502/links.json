@@ -1,10 +1,34 @@
 [
-"https://facebook.com/venolaforhd94",
-"https://georgia.gov/register-vote",
-"https://linkedin.com/in/masonvenola",
-"https://venolaforthefuture.com/",
-"https://venolaforthefuture.com/donate",
-"https://venolaforthefuture.com/meet-venola",
-"https://venolaforthefuture.com/priorities-for-district-94",
-"https://venolaforthefuture.com/volunteer"
+{
+"text": "Donate",
+"href": "https://venolaforthefuture.com/donate/"
+},
+{
+"text": "Meet Venola",
+"href": "https://venolaforthefuture.com/meet-venola/"
+},
+{
+"text": "Priorities for District 94",
+"href": "https://venolaforthefuture.com/priorities-for-district-94/"
+},
+{
+"text": "Volunteer",
+"href": "https://venolaforthefuture.com/volunteer/"
+},
+{
+"text": "Voting Information",
+"href": "https://georgia.gov/register-vote"
+},
+{
+"text": "[image: Venola For House District 94]",
+"href": "https://venolaforthefuture.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/venolaforhd94"
+},
+{
+"text": "[tooltip: linkedin]",
+"href": "https://www.linkedin.com/in/masonvenola"
+}
 ]

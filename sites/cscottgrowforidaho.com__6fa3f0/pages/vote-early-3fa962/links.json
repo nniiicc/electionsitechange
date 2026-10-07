@@ -1,13 +1,46 @@
 [
-"https://cscottgrowforidaho.com/",
-"https://cscottgrowforidaho.com/bio",
-"https://cscottgrowforidaho.com/issues",
-"https://cscottgrowforidaho.com/volunteer",
-"https://cscottgrowforidaho.com/vote-early",
-"https://docs.google.com/forms/d/e/1FAIpQLSdlB6nfK0jCcg-lXOP7gpzfiqMeBNDzy44UN3_TxDVEHaOiLg/viewform",
-"https://facebook.com/cscottgrow.foridaho.1",
-"https://goo.gl/forms/Yt5wK7sJNjiWrR752",
-"https://idahovotes.gov/absentee-request",
-"https://idahovotes.gov/vote-early-idaho",
-"https://voteidaho.gov/"
+{
+"text": "Absentee Ballot Request",
+"href": "https://idahovotes.gov/absentee-request/"
+},
+{
+"text": "Bio",
+"href": "https://cscottgrowforidaho.com/bio/"
+},
+{
+"text": "Donate",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdlB6nfK0jCcg-lXOP7gpzfiqMeBNDzy44UN3_TxDVEHaOiLg/viewform"
+},
+{
+"text": "Donate",
+"href": "https://goo.gl/forms/Yt5wK7sJNjiWrR752"
+},
+{
+"text": "Issues",
+"href": "https://cscottgrowforidaho.com/issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://cscottgrowforidaho.com/volunteer/"
+},
+{
+"text": "Vote Early",
+"href": "https://cscottgrowforidaho.com/vote-early/"
+},
+{
+"text": "Vote Early",
+"href": "https://voteidaho.gov"
+},
+{
+"text": "Vote Early Idaho",
+"href": "https://idahovotes.gov/vote-early-idaho/"
+},
+{
+"text": "[image]",
+"href": "https://cscottgrowforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/cscottgrow.foridaho.1"
+}
 ]

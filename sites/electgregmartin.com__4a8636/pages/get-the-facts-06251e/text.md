@@ -1,12 +1,15 @@
-The Facts on Greg’s Voting Record
+Skip to content Home About Issues Volunteer News Home About Issues Volunteer News DONATE Home About Issues Volunteer News Home About Issues Volunteer News DONATE Home About Issues Volunteer News Home About Issues Volunteer News DONATE DONATE Issues The Facts On Greg Taxes Public Safety Education School Safety Immigration The Facts on Greg’s Voting Record Greg Martin is running against a Liberal Democrat on the November 5 ballot.
+Rather than focus on her progressive ideas for State Government , Greg’s opponent has now launched a baseless, negative attack on his voting record.
+Do not believe the rhetoric and misleading claims being made in this race.
+Now, more outside Progressive PACs and Liberal Groups are targeting District 26 with more negative rhetoric and misleading claims to convince you to vote for a Progressive Democrat who will take us backwards and reverse the conservative policies that have made Hamilton County and Tennessee one of the best places to live, work, play and retire.
+You can read more HERE .
 We created this page to help answer some questions we are getting about these misleading attacks and mischaracterizations of his views and voting record.
-As always, voters can reach Greg Martin directly via email at info@ElectGregMartin.com or (423) 596-7338.
-HB127: Expansion of restraints
-I am a product of Hamilton County Schools as are my children.
-My wife is a public school teacher, and almost every night we have a conversation about how we can help improve public school education.
-My wife and I know that the greatest schools are the schools where parents are engaged and involved in their child’s success.
+As always, voters can reach Greg Martin directly via email at info@ElectGregMartin.com or (423) 596-7338 .
+HB127: Expansion of restraints I am a product of Hamilton County Schools as are my children.
+My wife is a public school teacher , and almost every night we have a conversation about how we can help improve public school education.
+My wife and I know that the greatest schools are the schools where parents are engaged and involved in their child’s success .
 This past year, I supported and voted for legislation that brought the largest salary increase for teachers in our state’s history, directly impacting 7,588 teachers and raising the minimum salary from $28,000 to $50,000 by school year 2026-2027 — which will move Tennessee into the Top 10 states with the highest paid teachers.
-HB1202: AUTHORIZATION FOR TEACHERS TO CARRY HANDGUN ON SCHOOL GROUNDS.
+Click to Learn the Facts on HB127 Click to Learn the Facts on HB127 HB1202: AUTHORIZATION FOR TEACHERS TO CARRY HANDGUN ON SCHOOL GROUNDS.
 Yes, Representative Greg Martin did vote for HB1202 for several reasons but most of them had nothing to do with District 26.
 Greg’s opponent leaves out that this law is 100% voluntary and cannot be implemented without local control.
 Locally, Hamilton County Superintendent and our Hamilton County Sheriff have already stated they would not support arming teachers in Hamilton County.
@@ -18,10 +21,12 @@ As of today, 32 states have passed some type of law that allows teachers to carr
 And, there is no record of any accidents.
 We can all rally around PROTECTING CHILDREN and not allowing our schools to be the targets for the savage and deranged.
 And yes, we all want our students to just be kids, have fun, and learn in a safe place so they can get the education they deserve.
-Today, more than 500 schools across TN have the funds for an SRO but they can’t find
-sworn officers to take the job.
+Today, more than 500 schools across TN have the funds for an SRO but they can’t find sworn officers to take the job.
 This law is just another tool that local school districts can use if the sheriff, superintendent, and principals deem it necessary.
 We are fortunate in Hamilton County to have an abundance of SRO, and this option is not needed in our community.
 Greg’s wife, Sheila, works in education, including several years teaching your children in District 26 schools.
 I promise her and you that I will always do everything within my power to make sure our students, faculty, and administrators are safe and protected.
 You can count on Greg Martin to stand tall for the best policies and every resource necessary to protect our schools.
+The Facts on Greg Taxes Public Safety School Safety Immigration Education Home About Issues Volunteer News Home About Issues Volunteer News Home About Issues Volunteer News Home About Issues Volunteer News Contact: info@ElectGregMartin.com (423) 596-7338 © Copyright # Committee to Elect Greg Martin.
+All rights reserved.
+The Committee to Elect Greg Martin | Fred Decosimo, Treasurer Facebook Instagram X-twitter Youtube Home About Issues Volunteer News Home About Issues Volunteer News DONATE Facebook Instagram X-twitter Youtube Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

@@ -1,6 +1,4 @@
-About
-Congresswoman Mary Miller
-President Donald Trump endorsed Congresswoman Mary Miller for re-election in Illinois’ 15th District, calling her a “champion of our America First agenda.” Mary and her husband Chris run a third-generation family cattle and grain farm.
+About Volunteer Donate Follow Follow Follow Follow Store Donate About Congresswoman Mary Miller President Donald Trump endorsed Congresswoman Mary Miller for re-election in Illinois’ 15th District, calling her a “champion of our America First agenda.” Mary and her husband Chris run a third-generation family cattle and grain farm.
 She is the mother of seven, grandmother of eighteen, and a former Sunday school teacher.
 Mary is not a career politician and she has not spent her life in the DC swamp.
 Mary was inspired by President Trump to run for Congress in 2020 to be a voice for families and farmers ignored by Washingtin, DC elites.
@@ -19,4 +17,15 @@ She made national headlines for challenging President Biden’s Secretary of Edu
 Mary also advocates for businesses in Illinois who are being crushed by harmful labor regulations from the Biden Administration, including OSHA’s illegal and unconstitutional COVID vaccine mandate.
 Mary graduated from Eastern Illinois University with a B.S. in Business Management and also completed graduate coursework in education.
 She received her teaching certification from the State of Illinois.
-Join Us
+Join Us First Name (Required) Last Name (Required) Email (Required) Zip (Required) Consent I agree to receive text messages.
+By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+By participating, you agree to the terms & privacy policy for auto dialed messages from Mary Miller for Congress to the phone number you provide.
+Msg & data rates may apply & message frequency may vary.
+Reply HELP for help or STOP to opt-out at any time.
+SMS information is not rented, sold, or shared.
+View Privacy Policy and Terms & Conditions .
+Follow Follow Follow Follow Paid for by Mary Miller for Congress 3710 Broadway St, Box 102 • Quincy, IL 62305 Privacy Policy • Terms & Conditions Contact Us press@marymiller4congress.com Endorsed by President Trump — Endorsed By — President Trump January 1, 2022 Endorsement of Congresswoman Mary Miller Congresswoman Mary Miller is doing a fantastic job representing the people of Illinois!
+Strong on Election Security, the Second Amendment, and our Military and Vets, Mary is a champion of our America First agenda.
+She fights hard against Joe Biden’s open borders, runaway inflation, and the radical indoctrination of our children.
+Mary has my Complete and Total Endorsement!
+X

@@ -1,8 +1,8 @@
-Skip navigation menu
-Learn More
-About Dr.
-Ami Bera
-As a doctor, Ami Bera took an oath to put his patients first.
+Skip navigation menu About Dr.
+Bera On the Issues Endorsements The Latest Get Involved HOW TO VOTE Donate Learn More About Dr.
+Ami Bera About Dr.
+Bera On the Issues Endorsements The Latest Get Involved HOW TO VOTE Donate Learn More About Dr.
+Ami Bera As a doctor, Ami Bera took an oath to put his patients first.
 As a teacher, Bera made a commitment to put his students first.
 As your representative, Dr.
 Bera’s pledge has been, and will always be to put the people first.
@@ -24,17 +24,15 @@ He has seen firsthand how education can improve lives, and how too many cannot a
 He continues to put politics aside to rebuild an economy that values hard work and prioritizes the middle class.
 Dr.
 Bera would be honored to earn your vote.
-Since being elected to office, he has:
-Ami and his wife Janine live in Sacramento County with their daughter, Sydra.
-- Returned more than $23 million to Sacramento County taxpayers in benefits they’ve earned and helped more than 37,000 constituents.
-- Secured over $64,000,000 in Community Project Funding since 2022 to support 52 projects across Sacramento County
-- Voted to pass the America COMPETES Act in the House chamber, a bill that will bolster the R&D and manufacturing of the U.S. semiconductor industry and will increase the budgets of the National Science Foundation, Department of Energy Office of Science, and National Institute of Standards and Technology in order to expand existing research programs.
-- Ensured passage of the American Rescue Plan, bringing home millions in funding to Sacramento County that creates jobs, supports small businesses, and advances public health measures to keep our community safe.
-- Voted to pass the Bipartisan Infrastructure Bill, which provided federal funding for the greater Sacramento region to fix aging infrastructure and create good-paying jobs.
-- Championed efforts to strengthen investment in global health innovation and fought proposed cuts to vital funds that help fight future pandemics, and as a result, was given the 2021 Congressional Champion Award.
-- Introduced the Healthcare Innovation Act, which gives states the tools to experiment with new ways to get more Americans enrolled in health insurance thus lowering costs for all as more are enrolled.
-- Continued to lead bi-partisan efforts to achieve universal coverage and ensure everyone has access to quality, affordable healthcare.
-- Co-Sponsored bipartisan legislation to reduce wait times for veterans in need of medical care by increasing the number of doctors in VA Hospitals and recovered $2.2 million in veterans’ benefits.
-- Invested in bipartisan efforts in bringing 21st century jobs and training to Sacramento as well as tax relief for the small businesses in the region.
-- Stood up to efforts to privatize Medicare and Social Security, because he knows that after a lifetime of work and service to our community we owe it to hardworking men and women to fulfill that promise.
-- Supported bipartisan budgets and has worked to strategically balance the budget as well as implement commonsense tax reform that benefits our middle-class families.
+Since being elected to office, he has: Returned more than $23 million to Sacramento County taxpayers in benefits they’ve earned and helped more than 37,000 constituents.
+Secured over $64,000,000 in Community Project Funding since 2022 to support 52 projects across Sacramento County Voted to pass the America COMPETES Act in the House chamber, a bill that will bolster the R&D and manufacturing of the U.S. semiconductor industry and will increase the budgets of the National Science Foundation, Department of Energy Office of Science, and National Institute of Standards and Technology in order to expand existing research programs.
+Ensured passage of the American Rescue Plan, bringing home millions in funding to Sacramento County that creates jobs, supports small businesses, and advances public health measures to keep our community safe.
+Voted to pass the Bipartisan Infrastructure Bill, which provided federal funding for the greater Sacramento region to fix aging infrastructure and create good-paying jobs.
+Championed efforts to strengthen investment in global health innovation and fought proposed cuts to vital funds that help fight future pandemics, and as a result, was given the 2021 Congressional Champion Award.
+Introduced the Healthcare Innovation Act, which gives states the tools to experiment with new ways to get more Americans enrolled in health insurance thus lowering costs for all as more are enrolled.
+Continued to lead bi-partisan efforts to achieve universal coverage and ensure everyone has access to quality, affordable healthcare.
+Co-Sponsored bipartisan legislation to reduce wait times for veterans in need of medical care by increasing the number of doctors in VA Hospitals and recovered $2.2 million in veterans’ benefits.
+Invested in bipartisan efforts in bringing 21st century jobs and training to Sacramento as well as tax relief for the small businesses in the region.
+Stood up to efforts to privatize Medicare and Social Security, because he knows that after a lifetime of work and service to our community we owe it to hardworking men and women to fulfill that promise.
+Supported bipartisan budgets and has worked to strategically balance the budget as well as implement commonsense tax reform that benefits our middle-class families.
+Ami and his wife Janine live in Sacramento County with their daughter, Sydra. info@beraforcongress.com · 916-205-9171 Media Inquiries: press@beraforcongress.com PO Box 582496 Elk Grove, CA 95758 Powered by RUN! website builder Paid for by Bera for Congress You need to enable JavaScript to run this app.

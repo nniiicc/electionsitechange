@@ -1,43 +1,210 @@
 [
-"http://elections.delaware.gov/calendar/2016ElectionCalendar.pdf",
-"http://elections.delaware.gov/services/voter/absentee/index.shtml",
-"http://elections.delaware.gov/services/voter/placestoregister.shtml",
-"http://elections.delaware.gov/voter/specialneeds.shtml",
-"http://writersblockservices.com/",
-"https://facebook.com/NicolePooreSenate",
-"https://ivote.de.gov/voterlogin.aspx",
-"https://nicolepoore.com/",
-"https://nicolepoore.com/12th-district",
-"https://nicolepoore.com/about-nicole",
-"https://nicolepoore.com/about-senator-poore",
-"https://nicolepoore.com/accessibility",
-"https://nicolepoore.com/author/skendus",
-"https://nicolepoore.com/category/legislation",
-"https://nicolepoore.com/category/legislation/consumer_protection",
-"https://nicolepoore.com/category/legislation/crime",
-"https://nicolepoore.com/category/legislation/crime-and-public-safety",
-"https://nicolepoore.com/category/legislation/eco_policy",
-"https://nicolepoore.com/category/legislation/education",
-"https://nicolepoore.com/category/legislation/energy",
-"https://nicolepoore.com/category/legislation/guns",
-"https://nicolepoore.com/category/legislation/health",
-"https://nicolepoore.com/category/legislation/joint-sunset-committee",
-"https://nicolepoore.com/category/legislation/open_gov",
-"https://nicolepoore.com/category/legislation/social-policy",
-"https://nicolepoore.com/category/news",
-"https://nicolepoore.com/category/news/senator-poore-12th-district-newsletter",
-"https://nicolepoore.com/contact",
-"https://nicolepoore.com/delaware-democrat-values",
-"https://nicolepoore.com/delaware-voting-information",
-"https://nicolepoore.com/donate-2",
-"https://nicolepoore.com/emergency-closure-of-lorewood-grove-road",
-"https://nicolepoore.com/endorsements-2",
-"https://nicolepoore.com/home",
-"https://nicolepoore.com/legislative-recap-april-2026",
-"https://nicolepoore.com/new-air-quality-initiatives-launching-in-delaware-city",
-"https://nicolepoore.com/one-month-left-of-the-153rd-general-assembly",
-"https://nicolepoore.com/reflecting-on-progress-whats-next-for-us-2026-legislative-updates",
-"https://nicolepoore.com/volunteer",
-"https://twitter.com/NicolePoore12",
-"https://youtube.com/channel/UCFbf4tuyFYIBDtJino2CLJg?feature=watch"
+{
+"text": "12th District",
+"href": "https://nicolepoore.com/12th-district/"
+},
+{
+"text": "2016 Delaware Election Calendar",
+"href": "http://elections.delaware.gov/calendar/2016ElectionCalendar.pdf"
+},
+{
+"text": "About",
+"href": "https://nicolepoore.com/about-nicole/"
+},
+{
+"text": "About Senator Poore",
+"href": "https://nicolepoore.com/about-nicole/"
+},
+{
+"text": "Accessibility",
+"href": "https://nicolepoore.com/accessibility/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://nicolepoore.com/accessibility"
+},
+{
+"text": "Business & Economic Development/Policy",
+"href": "https://nicolepoore.com/category/legislation/eco_policy/"
+},
+{
+"text": "Consumer Protection",
+"href": "https://nicolepoore.com/category/legislation/consumer_protection/"
+},
+{
+"text": "Contact",
+"href": "https://nicolepoore.com/contact/"
+},
+{
+"text": "Contact Senator Poore",
+"href": "mailto:info@nicolepoore.com"
+},
+{
+"text": "Crime and Public Safety",
+"href": "https://nicolepoore.com/category/legislation/crime-and-public-safety/"
+},
+{
+"text": "Criminal Law and Courts",
+"href": "https://nicolepoore.com/category/legislation/crime/"
+},
+{
+"text": "Delaware Democrat Values",
+"href": "https://nicolepoore.com/delaware-democrat-values/"
+},
+{
+"text": "Delaware Polling Place Locator",
+"href": "https://ivote.de.gov/voterlogin.aspx"
+},
+{
+"text": "Delaware Voting Information",
+"href": "https://nicolepoore.com/delaware-voting-information/"
+},
+{
+"text": "Donate",
+"href": "https://nicolepoore.com/donate-2/"
+},
+{
+"text": "Education",
+"href": "https://nicolepoore.com/category/legislation/education/"
+},
+{
+"text": "Emergency Closure of Lorewood Grove Road",
+"href": "https://nicolepoore.com/emergency-closure-of-lorewood-grove-road/"
+},
+{
+"text": "Emergency Closure of Lorewood Grove…",
+"href": "https://nicolepoore.com/emergency-closure-of-lorewood-grove-road/"
+},
+{
+"text": "Endorsements",
+"href": "https://nicolepoore.com/endorsements-2/"
+},
+{
+"text": "Energy and Environment",
+"href": "https://nicolepoore.com/category/legislation/energy/"
+},
+{
+"text": "FAQs About Senator Poore",
+"href": "https://nicolepoore.com/about-senator-poore/"
+},
+{
+"text": "Guns",
+"href": "https://nicolepoore.com/category/legislation/guns/"
+},
+{
+"text": "Health and Social Services",
+"href": "https://nicolepoore.com/category/legislation/health/"
+},
+{
+"text": "Home",
+"href": "https://nicolepoore.com"
+},
+{
+"text": "Home",
+"href": "https://nicolepoore.com/home/"
+},
+{
+"text": "Joint Sunset Committee",
+"href": "https://nicolepoore.com/category/legislation/joint-sunset-committee/"
+},
+{
+"text": "Legislation",
+"href": "https://nicolepoore.com/category/legislation/"
+},
+{
+"text": "Legislative Recap: April 2026",
+"href": "https://nicolepoore.com/legislative-recap-april-2026/"
+},
+{
+"text": "New Air Quality Initiatives Launching in Delaware…",
+"href": "https://nicolepoore.com/new-air-quality-initiatives-launching-in-delaware-city/"
+},
+{
+"text": "New Air Quality Initiatives Launching…",
+"href": "https://nicolepoore.com/new-air-quality-initiatives-launching-in-delaware-city/"
+},
+{
+"text": "News",
+"href": "https://nicolepoore.com/category/news/"
+},
+{
+"text": "News/Blog",
+"href": "https://nicolepoore.com/category/news/"
+},
+{
+"text": "One Month Left of the 153rd General…",
+"href": "https://nicolepoore.com/one-month-left-of-the-153rd-general-assembly/"
+},
+{
+"text": "One Month Left of the…",
+"href": "https://nicolepoore.com/one-month-left-of-the-153rd-general-assembly/"
+},
+{
+"text": "Open Government/Government Operations",
+"href": "https://nicolepoore.com/category/legislation/open_gov/"
+},
+{
+"text": "Reflecting on Progress: What’s Next for Us?…",
+"href": "https://nicolepoore.com/reflecting-on-progress-whats-next-for-us-2026-legislative-updates/"
+},
+{
+"text": "Reflecting on Progress: What’s Next…",
+"href": "https://nicolepoore.com/reflecting-on-progress-whats-next-for-us-2026-legislative-updates/"
+},
+{
+"text": "Registering to Vote",
+"href": "http://elections.delaware.gov/services/voter/placestoregister.shtml"
+},
+{
+"text": "Senator Poore 12th District Newsletter",
+"href": "https://nicolepoore.com/category/news/senator-poore-12th-district-newsletter/"
+},
+{
+"text": "Social Policy",
+"href": "https://nicolepoore.com/category/legislation/social-policy/"
+},
+{
+"text": "The Writer's Block",
+"href": "http://writersblockservices.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://nicolepoore.com/volunteer/"
+},
+{
+"text": "Voters with Special Needs",
+"href": "http://elections.delaware.gov/voter/specialneeds.shtml"
+},
+{
+"text": "Voting by Absentee Ballot",
+"href": "http://elections.delaware.gov/services/voter/absentee/index.shtml"
+},
+{
+"text": "[image: Senator Nicole Poore - Delaware 12th District][image: Senator Nicole Poore - Delaware 12th District] [image: Senator Nicole Poore - Delaware 12th District][image: Senator Nicole Poore - Delaware 12th District]",
+"href": "https://nicolepoore.com/"
+},
+{
+"text": "[no text]",
+"href": "https://nicolepoore.com/donate-2/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/NicolePoore12"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NicolePooreSenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCFbf4tuyFYIBDtJino2CLJg?feature=watch"
+},
+{
+"text": "admin",
+"href": "https://nicolepoore.com/author/skendus/"
+},
+{
+"text": "info@nicolepoore.com",
+"href": "mailto:info@nicolepoore.com"
+}
 ]

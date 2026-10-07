@@ -1,7 +1,11 @@
 {
- "description": "Let\u2019s chat.",
+ "description": "Let’s chat.",
  "final_url": "https://www.dianafennell.com/contact",
- "paid_for_by": null,
- "title": "Contact \u2014 Friends of Diana Fennell",
- "years_mentioned": []
+ "fingerprint": "32eeab2eca406da0e3a06d42c62f6b2b82733d57",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Contact — Friends of Diana Fennell",
+ "years_mentioned": [
+  "2026"
+ ]
 }

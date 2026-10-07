@@ -1,8 +1,5 @@
-Mission Four: Supporting Veterans and Military Families
-Objective:
-Make Long Island a national model for veteran care with faster access, stronger mental health services, real housing support, and a Northport VA that finally lives up to what the men and women who served this country deserve.
-Why This Mission Matters:
-Chris Gallant didn’t just serve.
+Skip to content Chip in to support chris Instagram X-twitter Facebook-f Youtube Threads Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop donate Mission Four: Supporting Veterans and Military Families Mission Four: Supporting Veterans and Military Families Objective: Make Long Island a national model for veteran care with faster access, stronger mental health services, real housing support, and a Northport VA that finally lives up to what the men and women who served this country deserve.
+Why This Mission Matters: Chris Gallant didn’t just serve.
 He flew Black Hawk helicopters.
 He came home.
 He watched what happened next, to himself, and to the people he served alongside.
@@ -18,33 +15,22 @@ Chris Gallant knows that “thank you for your service” is not a policy.
 It’s a starting point.
 The mission doesn’t end when the uniform comes off.
 In Congress, he will fight to make sure it doesn’t.
-Congressional Action Plan:
-- Expand access to VA healthcare for Long Island veterans.
-- Fight to reduce wait times at VA facilities, including the Northport VA.
-- Secure federal funding to modernize and strengthen veteran healthcare infrastructure.
-- Improve mental health services, suicide prevention, trauma care, and substance abuse treatment.
-- Strengthen support for military spouses and families, including employment and childcare resources.
-- Protect veteran benefits from political cuts.
-- Increase funding for veteran housing initiatives and homelessness prevention.
-- Improve transportation access for veterans traveling to medical appointments.
-- Expand job training, apprenticeship, and transition programs for veterans entering civilian careers.
-- Support local veteran organizations across Suffolk County that provide direct assistance, community, and advocacy.
-- Ensure women veterans, LGBTQ+ veterans, disabled veterans, and younger post-9/11 veterans receive care that reflects their needs.
+Congressional Action Plan: Expand access to VA healthcare for Long Island veterans.
+Fight to reduce wait times at VA facilities, including the Northport VA .
+Secure federal funding to modernize and strengthen veteran healthcare infrastructure.
+Improve mental health services, suicide prevention, trauma care, and substance abuse treatment.
+Strengthen support for military spouses and families, including employment and childcare resources.
+Protect veteran benefits from political cuts.
+Increase funding for veteran housing initiatives and homelessness prevention.
+Improve transportation access for veterans traveling to medical appointments.
+Expand job training, apprenticeship, and transition programs for veterans entering civilian careers.
+Support local veteran organizations across Suffolk County that provide direct assistance, community, and advocacy.
+Ensure women veterans, LGBTQ+ veterans, disabled veterans, and younger post-9/11 veterans receive care that reflects their needs.
 The Northport VA should be a center of excellence for Long Island veterans.
 Chris will fight to ensure it has the staffing, resources, modernization funding, and accountability needed to serve veterans with dignity.
 Pushing Washington to invest in better facilities, faster appointments, expanded specialty care, stronger mental health services, and improved outreach so no veteran falls through the cracks.
 That means pushing Washington to invest in better facilities, faster appointments, expanded specialty care, stronger mental health services, and improved outreach so no veteran falls through the cracks.
-Mission Success Metrics:
-Better healthcare access
-Shorter VA wait times
-Stronger Northport VA services
-Expanded mental health care
-Reduced veteran homelessness
-More support for military families
-Improved transition to civilian careers
-Protected benefits for every veteran who earned them
-Mission Bottom Line:
-Chris Gallant knows what veterans are owed.
+Mission Success Metrics: Better healthcare access Shorter VA wait times Stronger Northport VA services Expanded mental health care Reduced veteran homelessness More support for military families Improved transition to civilian careers Protected benefits for every veteran who earned them Mission Bottom Line: Chris Gallant knows what veterans are owed.
 Not a parade.
 Not a bumper sticker.
 Healthcare that works.
@@ -53,3 +39,8 @@ Mental health support without shame.
 A government that shows up the way they showed up for it.
 Veterans kept their promise to this country.
 Chris Gallant will make sure Congress keeps its promise to them.
+This Campaign Needs You This race will be decided by the people who show up early.
+Whether you contribute, volunteer, or spread the word, you help power the campaign.
+Donate Volunteer Paid for by Gallant for Congress info@gallantny.com PO Box 574 Smithtown NY 11787 Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or any service branch.
+Use of fire department photographs in uniform does not constitute endorsement by the Copiague Fire Department.
+Privacy Policy | Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Donate Instagram Facebook-f X-twitter Youtube Threads Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop Donate Volunteer Instagram Facebook-f X-twitter Youtube

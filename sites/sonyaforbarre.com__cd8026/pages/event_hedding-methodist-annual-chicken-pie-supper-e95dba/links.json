@@ -1,18 +1,78 @@
 [
-"https://facebook.com/profile.php?id=61557905641953",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20261017T163000%2F20261017T183000&text=Hedding+Methodist+Annual+Chicken+Pie+Supper&details=%3Cp%3EContact+Lorna+at+802-309-9264+to+reserve+a+seat+for+the+4%3A30+pm+or+6%3A30+pm+seating.%3C%2Fp%3E+&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fsonyaforbarre.com",
-"https://instagram.com/sonyaspauldingforbarre",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-10-17T16%3A30%3A00-04%3A00&enddt=2026-10-17T18%3A30%3A00-04%3A00&subject=Hedding+Methodist+Annual+Chicken+Pie+Supper&body=%3Cp%3EContact+Lorna+at+802-309-9264+to+reserve+a+seat+for+the+4%3A30+pm+or+6%3A30+pm+seating.%3C%2Fp%3E",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-10-17T16%3A30%3A00-04%3A00&enddt=2026-10-17T18%3A30%3A00-04%3A00&subject=Hedding+Methodist+Annual+Chicken+Pie+Supper&body=%3Cp%3EContact+Lorna+at+802-309-9264+to+reserve+a+seat+for+the+4%3A30+pm+or+6%3A30+pm+seating.%3C%2Fp%3E",
-"https://secure.actblue.com/donate/sonya-for-barre",
-"https://sonyaforbarre.com/",
-"https://sonyaforbarre.com/contact-sonya",
-"https://sonyaforbarre.com/election-day-is-november-3rd-let-your-voice-be-heard",
-"https://sonyaforbarre.com/endorsements",
-"https://sonyaforbarre.com/event/election-day",
-"https://sonyaforbarre.com/event/empire-of-normality-book-discussion-barre-social-club",
-"https://sonyaforbarre.com/events",
-"https://sonyaforbarre.com/get-involved",
-"https://sonyaforbarre.com/priorities",
-"https://sonyaforbarre.com/volunteer"
+{
+"text": "CONTACT SONYA",
+"href": "https://sonyaforbarre.com/contact-sonya/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/sonya-for-barre"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://sonyaforbarre.com/endorsements/"
+},
+{
+"text": "EVENTS",
+"href": "https://sonyaforbarre.com/events/"
+},
+{
+"text": "Election Day! »",
+"href": "https://sonyaforbarre.com/event/election-day/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61557905641953"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://sonyaforbarre.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20261017T163000%2F20261017T183000&text=Hedding+Methodist+Annual+Chicken+Pie+Supper&details=%3Cp%3EContact+Lorna+at+802-309-9264+to+reserve+a+seat+for+the+4%3A30+pm+or+6%3A30+pm+seating.%3C%2Fp%3E+&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fsonyaforbarre.com"
+},
+{
+"text": "HOME",
+"href": "https://sonyaforbarre.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/sonyaspauldingforbarre/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T16%3A30%3A00-04%3A00&enddt=%23T18%3A30%3A00-04%3A00&location=&subject=Hedding+Methodist+Annual+Chicken+Pie+Supper&body=%3Cp%3EContact+Lorna+at+802-309-9264+to+reserve+a+seat+for+the+4%3A30+pm+or+6%3A30+pm+seating.%3C%2Fp%3E"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T16%3A30%3A00-04%3A00&enddt=%23T18%3A30%3A00-04%3A00&location=&subject=Hedding+Methodist+Annual+Chicken+Pie+Supper&body=%3Cp%3EContact+Lorna+at+802-309-9264+to+reserve+a+seat+for+the+4%3A30+pm+or+6%3A30+pm+seating.%3C%2Fp%3E"
+},
+{
+"text": "PRIORITIES",
+"href": "https://sonyaforbarre.com/priorities/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://sonyaforbarre.com/volunteer/"
+},
+{
+"text": "VOTE",
+"href": "https://sonyaforbarre.com/election-day-is-november-3rd-let-your-voice-be-heard/"
+},
+{
+"text": "[image: Sonya Spaulding for State Rep]",
+"href": "https://sonyaforbarre.com/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://sonyaforbarre.com/event/hedding-methodist-annual-chicken-pie-supper/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://sonyaforbarre.com/events/"
+},
+{
+"text": "« Candidate Forum Moderated by The Times Argus – Aldrich Public Library",
+"href": "https://sonyaforbarre.com/event/empire-of-normality-book-discussion-barre-social-club/"
+}
 ]

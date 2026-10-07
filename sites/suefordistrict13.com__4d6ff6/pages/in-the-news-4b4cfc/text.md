@@ -1,61 +1,45 @@
-IN THE NEWS
-List of Services
--
-GOAC Members Have Questions on Mail-in and Absentee Ballots PIERRE, S.D.
+Home Meet Sue Issues Endorsements In the News Donate Contact Us In the News Photo Gallery IN THE NEWS List of Services GOAC Members Have Questions on Mail-in and Absentee Ballots PIERRE, S.D.
 (WNAX) – Members of the Government Operations and Audit Committee had lots of questions during their meeting last week for South Dakota Secretary of State Steve Barnett about the security of mail in and absentee ballots.
--
-South Dakota Legislative Panel to Investigate Allegation Tied to Watertown Teacher's Worker's Comp Case PIERRE, S.D.
+Read More South Dakota Legislative Panel to Investigate Allegation Tied to Watertown Teacher's Worker's Comp Case PIERRE, S.D.
 (KELO) — A Watertown kindergarten teacher’s worker-compensation claim that has gone unresolved for five years now has the attention of some South Dakota lawmakers.
 State Representative Sue Peterson said Wednesday the Legislature’s Government Operations and Audit Committee would look into the allegations.
 The Sioux Falls Republican chairs the panel.
--
-Legislators want outside look at S.D.
+Read More Legislators want outside look at S.D.
 Department of Education PIERRE, S.D.
 (KELO) — Four state lawmakers want the Legislature’s professional staff to quickly seek proposals so a broad outside review of the South Dakota Department of Education can start as soon as possible.
 The Legislature’s Government Operations and Audit Committee set up the panel October 30 and named Representative Sue Peterson chairwoman.
 The Sioux Falls Republican said Monday the reviewer should have experience in education.
--
-Concerns Linger as South Dakota Universities Implement New Intellectual Diversity Law South Dakota universities are in the process of implementing intellectual diversity and free speech initiatives to comply with a new state law, but legislators have concerns about it.
+Read More Concerns Linger as South Dakota Universities Implement New Intellectual Diversity Law South Dakota universities are in the process of implementing intellectual diversity and free speech initiatives to comply with a new state law, but legislators have concerns about it.
 Officials from the six institutions spent 25 minutes of a two-hour discussion on Wednesday detailing their efforts to the legislative Government Operations and Audit Committee after Rep.
 Sue Peterson, the Sioux Falls Republican who spearheaded the intellectual diversity law during the 2019 session, alleged the Board of Regents wasn't taking the law seriously.
--
-Legislators Debate University Free Speech Members of the Government Operations and Audit Committee of the South Dakota legislature held a long discussion last week with university presidents and the Board of Regents about free speech and diversity on campus.
+Read More Legislators Debate University Free Speech Members of the Government Operations and Audit Committee of the South Dakota legislature held a long discussion last week with university presidents and the Board of Regents about free speech and diversity on campus.
 The legislature this year passed a bill outlining how the universities have to allow diverse opinions to be heard.
-Representative Sue Peterson of Sioux Falls says they want to avoid extremes seen in other places…
--
-South Dakota Legislator Suggests Board of Regents is ‘slow walking’ Free Speech Reform A Republican lawmaker in the South Dakota House of Representatives wrote a letter to the state’s Board of Regents, suggesting its members might be taking the “slow walk” on free speech and intellectual diversity reform on college campuses.
-In an Oct. 11 letter obtained by Campus Reform, Rep.
+Representative Sue Peterson of Sioux Falls says they want to avoid extremes seen in other places… Read More South Dakota Legislator Suggests Board of Regents is ‘slow walking’ Free Speech Reform A Republican lawmaker in the South Dakota House of Representatives wrote a letter to the state’s Board of Regents, suggesting its members might be taking the “slow walk” on free speech and intellectual diversity reform on college campuses.
+In an Oct.
+11 letter obtained by Campus Reform, Rep.
 Sue Peterson wrote the letter to Dr.
 Paul Beran, executive director of the South Dakota Board of Regents, and accused him of taking the slower path to implementing HB 1087, which is meant to improve free speech and intellectual diversity on college campuses.
--
-USD: "Hawiian Day" Leis Determined Inappropriate The decision to change the event Wednesday came on the same day that South Dakota lawmakers killed a bill that would have mandated free speech on the state’s college campuses and required the Board of Regents to promote intellectual diversity among college faculty and staffs.
--
-Home-schooled Students One Step Closer to Level Playing Field for Opportunity Scholarship Home-schooled students are one step closer to having a level playing field in applying for the South Dakota Opportunity Scholarship.
+Read More USD: "Hawiian Day" Leis Determined Inappropriate The decision to change the event Wednesday came on the same day that South Dakota lawmakers killed a bill that would have mandated free speech on the state’s college campuses and required the Board of Regents to promote intellectual diversity among college faculty and staffs.
+USD: "Hawiian Days" Home-schooled Students One Step Closer to Level Playing Field for Opportunity Scholarship Home-schooled students are one step closer to having a level playing field in applying for the South Dakota Opportunity Scholarship.
 House Bill 1040, a measure to bring the same scholarship requirements used for public and private school students to home-schooled students, passed unanimously out of the House Education Committee Monday morning.
--
-Trump Promises Executive Order that Could Strip Colleges of Funding if They Don’t ‘support free speech’ A new executive order from the White House will aim to make federal research funding for colleges and universities contingent on their support for “free speech,” President Trump said Saturday.
+Read More Trump Promises Executive Order that Could Strip Colleges of Funding if They Don’t ‘support free speech’ A new executive order from the White House will aim to make federal research funding for colleges and universities contingent on their support for “free speech,” President Trump said Saturday.
 The announcement, during Trump’s address to the Conservative Political Action Conference, appeared to target complaints by some university critics that institutions of higher education stifle right-wing viewpoints.
--
-Tweet by Rep.
+Read More Tweet by Rep.
 Sue Peterson on Twitter The final two bills I am prime sponsoring passed the House today.
 The Campus Free Speech bill (HB 1087) passed 44-24 and HB 1171 which expands Veterans tuition benefits to include Tech Schools passed 68-0.
-Learn more about these bills in the link below:
--
-Tweet by KELO Bob Mercer - Reports on Twitter Brandon Maddox of Dakota Silencer testified for legislation Wednesday to have S.D.
+Learn more about these bills in the link below: Read More Tweet by KELO Bob Mercer - Reports on Twitter Brandon Maddox of Dakota Silencer testified for legislation Wednesday to have S.D.
 AG take action against local governments on regulating firearms and ammo.
 SD Senate panel endorsed it.
 No one testified against.
 Representative Sue Peterson is prime sponsor.
 Senate takes it next.
--
-Revived after Hawaii Day Controversy, Free Speech Bill Advances South Dakota would require its public universities to promote “intellectual diversity” and free speech under a bill that passed a key committee vote Wednesday.
+Read More Revived after Hawaii Day Controversy, Free Speech Bill Advances South Dakota would require its public universities to promote “intellectual diversity” and free speech under a bill that passed a key committee vote Wednesday.
 The bill had been defeated, but it won a rare revival Monday and then approval Wednesday after a group of lawmakers and officials with the South Dakota Board of Regents crafted a compromise.
 “We think this is a good bill – a good compromise,” said Rep.
 Sue Peterson, a Sioux Falls Republican and the bill’s sponsor.
--
-Taxpayers Shouldn’t Fund Colleges that Don’t Protect Free Speech Why should we continue to help fund schools that don’t allow a free exchange of ideas?
+Read More Taxpayers Shouldn’t Fund Colleges that Don’t Protect Free Speech Why should we continue to help fund schools that don’t allow a free exchange of ideas?
 During a recent speech to the Conservative Political Action Conference, President Trump floated the idea of an executive order withholding federal research dollars from schools that don’t protect speech and free inquiry.
 Conservatives rightly cheered, but there’s more to be done to preserve and advance right-of-center views on the quad.
--
-Trump Promises Executive Order that Could Strip Colleges of Funding if they Don’t ‘Support free Speech’ A new executive order from the White House will aim to make federal research funding for colleges and universities contingent on their support for “free speech,” President Trump said Saturday.
+Read More Trump Promises Executive Order that Could Strip Colleges of Funding if they Don’t ‘Support free Speech’ A new executive order from the White House will aim to make federal research funding for colleges and universities contingent on their support for “free speech,” President Trump said Saturday.
 The announcement, during Trump’s address to the Conservative Political Action Conference, appeared to target complaints by some university critics that institutions of higher education stifle right-wing viewpoints.
+Read More Paid for by Sue Peterson District 13 Share by:

@@ -1,8 +1,3 @@
-Pop Up Meet and Greet St.
-Paul's Lutheran Church Chili Supper
-Lohman
-Pop Up event St Paul's Lutheran Church Chili Supper
-8618 Church Hill Drive
-Lohman, Missouri 65053
-This is their fundraising event.
-Stop in, eat and spend some money to support a local church
+About Becky Issues Get Involved Events Updates Donate Now Home About Becky Issues Get Involved Events Updates Donate Now Sunday, October 4 | 4:00pm-5:00pm Pop Up Meet and Greet St.
+Paul's Lutheran Church Chili Supper Lohman Pop Up event St Paul's Lutheran Church Chili Supper 8618 Church Hill Drive Lohman, Missouri 65053 This is their fundraising event.
+Stop in, eat and spend some money to support a local church Event Details Sunday, October 4 4:00 pm - 5:00 pm 8618 Church Hill Dr Lohman, MO 65053 Get Directions General Events More Information Facebook event Learn More Share This Event Support Becky Kroll’s Campaign for Missouri Donate Now Becky Kroll For Missouri 1603 Kroll Road, Lohman, Mo 65053 tel:573-690-3431 | becky@beckykrollformissouri.com Melba Price, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

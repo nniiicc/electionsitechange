@@ -1,6 +1,4 @@
-Virtual Town Hall will be via Zoom.
+Home About Rod Committees News Issues Contribute News / Virtual Town Hall: Thursday, March 25th from 7:00pm to 8:00pm *Click here for more information* 18 Mar Thursday, 2:07 PM · 2021 Virtual Town Hall: Thursday, March 25th from 7:00pm to 8:00pm *Click here for more information* Virtual Town Hall will be via Zoom.
 Link to join & Submit your Questions.
-Register in advance for this meeting, click the link below to have the link to join sent to your e-mail:
-Have questions?
-Submit your questions ahead of time by clicking the link below:
-Contact us at (303) 866-3706 or aide.house65@gmail.com
+Register in advance for this meeting, click the link below to have the link to join sent to your e-mail: https://us02web.zoom.us/meeting/register/tZUodOmsrTgiGNPfE-u2wVYqyfdPDEI21zxC Have questions?
+Submit your questions ahead of time by clicking the link below: https://docs.google.com/forms/d/e/1FAIpQLSekoF9gvQiLNy6t1B7YCVYa0aIcS6_-KosRXWnLKoB2CUNIcA/viewform?usp=sf_link Contact us at (303) 866-3706 or aide.house65@gmail.com Make Endorsement Paid for by the Committee to Elect Rod Pelton Powered by CampaignPartner.com - Political Websites Home About Rod Committees News Issues Contribute Close Menu

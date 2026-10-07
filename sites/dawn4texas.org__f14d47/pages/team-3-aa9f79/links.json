@@ -1,8 +1,34 @@
 [
-"https://dawn4texas.org/",
-"https://dawn4texas.org/about-me",
-"https://dawn4texas.org/donate",
-"https://dawn4texas.org/team-3",
-"https://forms.gle/JLq4pVy7VMBtMoF16",
-"https://forms.gle/zbN9V7AZXyESsU3K9"
+{
+"text": "ABOUT ME",
+"href": "https://www.dawn4texas.org/about-me"
+},
+{
+"text": "DONATE",
+"href": "https://www.dawn4texas.org/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.dawn4texas.org"
+},
+{
+"text": "INFO@DAWN4TX.ORG",
+"href": "mailto:INFO@DAWN4TX.ORG"
+},
+{
+"text": "Sign up here",
+"href": "https://forms.gle/zbN9V7AZXyESsU3K9"
+},
+{
+"text": "THE TEAM Alongside me stands a group of amazing individuals who work hard to ensure we win and your voices will be heard. TEXAS DESERVES A NEW DAWN!! We have a lot more to do, and we need YOU! Will you step up and JOIN the team?",
+"href": "https://forms.gle/zbN9V7AZXyESsU3K9"
+},
+{
+"text": "VOLUNTEER HERE!",
+"href": "https://www.dawn4texas.org/team-3"
+},
+{
+"text": "here",
+"href": "https://forms.gle/JLq4pVy7VMBtMoF16"
+}
 ]

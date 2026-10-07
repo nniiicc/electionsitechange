@@ -1,10 +1,8 @@
-2nd Lieutenant of the United States Marine Corps
-Kyle Breen is a 2nd Lieutenant of the United States Marine Corps.
+0 Skip to Content Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate Kyle breen 2nd Lieutenant of the United States Marine Corps Kyle Breen is a 2nd Lieutenant of the United States Marine Corps.
 A recent 2026 graduate of the University of Vermont Grossman School of Business, where he studied finance after attending both Phillips Exeter Academy and Proctor Academy.
 Last summer he went on to complete Officer Candidate School with the United States Marine Corps in Quantico, Virginia, an early chapter in a path shaped by discipline, academics, and service.
 For the last two years, he’s been coaching youth football with Javen at the South Burlington Dolphins Foundation.
-TRANSCRIPT
-Hello everyone.
+TRANSCRIPT Hello everyone.
 I'm Kyle Breen, I'm a very close friend of Javen Sears.
 He was actually one of the first people I met when I came to UVM, and I could not be happier that he's been with me on this journey.
 It's my honor to formally endorse Javen Sears and his campaign for the Vermont State Senate.
@@ -21,5 +19,7 @@ I have no doubt that he will bring the same level of dedication, integrity, and 
 He is someone who leads with conviction, listens with intent, and acts with purpose—qualities that are critically needed in public office today.
 I strongly and unequivocally support Javen Sears and encourage you to do the same.
 Thank you.
-Kyle Breen
-Tuesday, May 12th, 2026 | Javen Sears’ Campaign Launch Party
+Kyle Breen Tuesday, May 12th, 2026 | Javen Sears’ Campaign Launch Party S I G N U P UPDATES By providing your mobile number, you consent to receive periodic campaign updates from Javen Sears for Vermont State Senate.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Donate

@@ -1,11 +1,46 @@
 [
-"https://facebook.com/OrttforStateSenate",
-"https://robortt.com/",
-"https://robortt.com/about",
-"https://robortt.com/blog",
-"https://robortt.com/contact-4",
-"https://robortt.com/issues",
-"https://secure.winred.com/ortt-for-state-senate/donate",
-"https://twitter.com/OrttforSenate",
-"https://youtube.com/channel/UCl5a3CBPnaMsZndRYmmxq4w"
+{
+"text": "ABOUT",
+"href": "https://www.robortt.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.robortt.com/contact-4"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/ortt-for-state-senate/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.robortt.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.robortt.com/issues"
+},
+{
+"text": "NEWS",
+"href": "https://www.robortt.com/blog"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/OrttforStateSenate/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/OrttforSenate"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/channel/UCl5a3CBPnaMsZndRYmmxq4w"
+},
+{
+"text": "[image: new-ortt-logo2.png]",
+"href": "https://www.robortt.com"
+},
+{
+"text": "rob@robortt.com",
+"href": "mailto:rob@robortt.com?subject=Website+Contact"
+}
 ]

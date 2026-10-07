@@ -1,52 +1,21 @@
-On My Birthday, I Continue to Fight for Texas Children and Families
-[vc_row][vc_column][vc_column_text] Today on my birthday, I continue to fight for Texas students in releasing the below op-ed.
-Earlier this month, I joined with my colleagues,
-Skip to content
-In The News
-On My Birthday, I Continue to Fight for Texas Children and Families
-[vc_row][vc_column][vc_column_text] Today on my birthday, I continue to fight for Texas students in releasing the below op-ed.
-Earlier this month, I joined with my colleagues,
-Read More » Working Together – Let’s Re-elect Rhetta Andrews Bowers
-[vc_row][vc_column][vc_column_text] We Have 110 Days Until the General Election Let’s Roll Up Our Sleeves and Work Re-elect Rhetta Andrews Bowers Rep.
-Bowers has been a
-Read More » Community Service is a Part of Bowers DNA
-[vc_row][vc_column][vc_column_text] Community Service is a Part of Bowers DNA 20 years of working, volunteering, and serving within HD 113 Representative Bowers has a long
-Read More » Honoring the 5 fallen Officers in Dallas Four Years Later
-[vc_row][vc_column][vc_column_text] Remembering the Fallen Honoring their Bravery and Sacrifice Four Years Later On this date four years ago, my children and I participated in a
-Read More » Campaigning in the Age of COVID-19
-[vc_row][vc_column][vc_column_text] Campaigning in the Age of COVID-19 Jessica Montoya Coggins June 29, 2020 As COVID-19 cases continue to rise at alarmingly high rates in
-Read More » Tomorrow is the June Fundraising Deadline / Primary Runoff Early Voting Begins
-[vc_row][vc_column][vc_column_text] Tomorrow is the June Fundraising Deadline!
-In less than 36 hours, our report to the FEC on our campaign finances will be due We
-Read More » June 29, 2020
-Team Bowers Upcoming Events – Mark Your Calendars!
-[vc_row][vc_column][vc_column_text] Mark your calendars and share with your friends these Team Bowers upcoming events! *Please note: The Meet & Greet on June 30 occurs on
-Read More » Let’s Do This Team Bowers! – Help Us Maximize June Fundraising
-[vc_row][vc_column][vc_column_text] We have a HUGE opportunity to MAXIMIZE our fundraising before the June deadline!
-Our June Fundraising Deadline is Just 7 Days Away!
-We are
-Read More » Texas Gov.
-Greg Abbott forming work group for legislative responses to George Floyd’s death
-[vc_row][vc_column][vc_column_text] Texas Gov.
+Skip to content Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media Menu Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media Facebook Instagram Twitter DONATE Facebook Instagram Twitter Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media Menu Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media DONATE VOLUNTEER In The News Share on facebook Share on twitter Share on reddit On My Birthday, I Continue to Fight for Texas Children and Families [vc_row][vc_column][vc_column_text] Today on my birthday, I continue to fight for Texas students in releasing the below op-ed.
+Earlier this month, I joined with my colleagues, Read More » July 22, 2020 Working Together – Let’s Re-elect Rhetta Andrews Bowers [vc_row][vc_column][vc_column_text] We Have # Days Until the General Election Let’s Roll Up Our Sleeves and Work Re-elect Rhetta Andrews Bowers Rep.
+Bowers has been a Read More » July 17, 2020 Community Service is a Part of Bowers DNA [vc_row][vc_column][vc_column_text] Community Service is a Part of Bowers DNA 20 years of working, volunteering, and serving within HD 113 Representative Bowers has a long Read More » July 9, 2020 Honoring the 5 fallen Officers in Dallas Four Years Later [vc_row][vc_column][vc_column_text] Remembering the Fallen Honoring their Bravery and Sacrifice Four Years Later On this date four years ago, my children and I participated in a Read More » July 7, 2020 Campaigning in the Age of COVID-19 [vc_row][vc_column][vc_column_text] Campaigning in the Age of COVID-19 Jessica Montoya Coggins June 29, 2020 As COVID-19 cases continue to rise at alarmingly high rates in Read More » June 29, 2020 Tomorrow is the June Fundraising Deadline / Primary Runoff Early Voting Begins [vc_row][vc_column][vc_column_text] Tomorrow is the June Fundraising Deadline!
+In less than 36 hours, our report to the FEC on our campaign finances will be due We Read More » June 29, 2020 Team Bowers Upcoming Events – Mark Your Calendars! [vc_row][vc_column][vc_column_text] Mark your calendars and share with your friends these Team Bowers upcoming events! *Please note: The Meet & Greet on June 30 occurs on Read More » June 24, 2020 Let’s Do This Team Bowers! – Help Us Maximize June Fundraising [vc_row][vc_column][vc_column_text] We have a HUGE opportunity to MAXIMIZE our fundraising before the June deadline!
+Our June Fundraising Deadline is Just # Days Away!
+We are Read More » June 23, 2020 Texas Gov.
+Greg Abbott forming work group for legislative responses to George Floyd’s death [vc_row][vc_column][vc_column_text] Texas Gov.
 Greg Abbott forming work group for legislative responses to George Floyd’s death Abbott has called Reps.
-Nicole Collier and Harold Dutton, two
-Read More » Gov.
-Abbott Expands Testing | George Floyd and Peaceful Protests
-[vc_row][vc_column][vc_column_text] Tonight!
+Nicole Collier and Harold Dutton, two Read More » June 19, 2020 Gov.
+Abbott Expands Testing | George Floyd and Peaceful Protests [vc_row][vc_column][vc_column_text] Tonight!
 Representative Bowers to participate in Town hall sponsored by the Texas Legislative Black Caucus: 7:00 – 8:30 p.m.
-A community conversation hosted by
-Read More » About Rhetta
-Representative Bowers was elected to serve House District 113 in the Texas House of Representatives on November 8, 2018.
+A community conversation hosted by Read More » June 16, 2020 « Previous Page 1 Page 2 Page 3 Page 4 Page 5 Next » Share on facebook Share on twitter Share on linkedin Share on whatsapp About Rhetta Representative Bowers was elected to serve House District 113 in the Texas House of Representatives on November 8, 2018.
 She made history elected as the first African American to represent this district.
 House District 113 includes all or parts of Rowlett, Garland, Mesquite, Sunnyvale, Seagoville, Combine, Balch Springs, and Dallas.
-Recent Posts
-Help us deliver on our promises for the people of District 113
-July 22, 2020
-July 17, 2020
-July 9, 2020
-July 7, 2020
-June 29, 2020
-June 24, 2020
-June 23, 2020
-June 19, 2020
-June 16, 2020
+Facebook-f Twitter Instagram Recent Posts HD113 Coronavirus (COVID-19) Update | Resources for Small Business Read More » Rhetta is endorsed by STONEWALL Democrats of Dallas Read More » DMN Coverage of 4th Annual Dallas Women’s March Read More » Search Help us deliver on our promises for the people of District 113 Donate Join Our Campaign There are amazing opportunities to help your community when you join the Rhetta A.
+Bowers for HD113 team.
+Help your community.
+Join Our Campaign There are amazing opportunities to help your community when you join the Rhetta A.
+Bowers for HD113 team.
+Help your community.
+Email Join Now Email Join Now ISSUES VOTE ABOUT Facebook Instagram Twitter Copyright ©# | Political advertising paid for by the Rhetta Andrews Bowers Campaign Go to Top

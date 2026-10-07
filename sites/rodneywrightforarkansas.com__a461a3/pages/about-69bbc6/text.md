@@ -1,4 +1,5 @@
-A life-long resident of Saline County, Sheriff Rodney Wright has represented Saline County as Sheriff since January 2015.
+top of page Home News About Contact More Use tab to navigate through the menu items.
+DONATE A life-long resident of Saline County, Sheriff Rodney Wright has represented Saline County as Sheriff since January 2015.
 He is currently on the Arkansas State Crime Lab board appointed Governor Sara Sanders in 2023, and the Arkansas 911 board appointed by Governor Asa Hutchinson in 2019.
 He also is on the Arkansas Sheriff’s Executive board and served as president 2022-2023.
 Prior to being sheriff, Sheriff Wright was a police officer with the City of Benton from 1994-2014.
@@ -10,3 +11,6 @@ Sheriff Wright is a graduate of the FBI National Academy and the Arkansas Law En
 He received an Associate Degree in Electronics from Southern Technical College.
 He has a son and daughter.
 The Wright family resides in the city of Benton.
+PAID FOR BY RODNEY WRIGHT FOR ARKANSAS Your data will not be sold and will not be used for lead generation or affiliate marketing.
+See our complete Privacy Policy .
+JOIN THE TEAM bottom of page

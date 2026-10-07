@@ -1,18 +1,3 @@
-top of page
-Emily Everywhere Tour
-Blackduck Senior Citizen Center
-Thursday, October 15
-6:00 PM - 7:30 PM
-Kelliher - North Beltrami Community Center
-220 Main St E, Kelliher, MN 56650
-Thursday, October 8
-6:00 PM - 7:30 PM
-Cass Lake Senior Citizen Center
-Tuesday, October 20
-6:00 PM - 7:30 PM
-Turtle River Township Hall
-Monday, October 12
-6:00 PM - 7:30 PM
-Virtual
-Thursday, October 29 6:00 - 7:30 PM
-bottom of page
+top of page Home Everywhere Tour District Finder About Emily About Emily Endorsements My Own Words Roots of Obligation Support Emily Where's Emily?
+Calendar Volunteer Request Yard Signs Frankie DONATE Emily Everywhere Tour Bagley Public Library ​ ​ ​ 79 Spencer Ave SW, Bagley, MN ​ Tuesday, October 6 6:00 PM - 7:30 PM Blackduck Senior Citizen Center ​ ​ 24 1st St E, Blackduck, MN ​ ​ Thursday, October 15 6:00 PM - 7:30 PM Mahnomen Fire Hall ​ ​ 124 E Madison Ave, Mahnomen ​ Tuesday, October 27 6:00 PM - 7:30 PM Kelliher ​ - North Beltrami Community Center ​ 220 Main St E, Kelliher, MN 56650 ​ Thursday, October 8 6:00 PM - 7:30 PM Cass Lake Senior Citizen Center ​ ​ 219 Cedar Ave, Cass Lake, MN ​ ​ Tuesday, October 20 6:00 PM - 7:30 PM Walker - Onigum Center ​ ​ ​ 8826 Onigum Rd.
+NW, Walker ​ ​ Thursday, October 22 6:00 PM - 7:30 PM Turtle River Township Hall ​ ​ ​ ​ 9883 S Arm Ct NE, Bemidji, MN ​ Monday, October 12 6:00 PM - 7:30 PM Helga Township Hall ​ ​ ​ ​ 25895 County 9, Bemidji, MN​ ​ ​ Monday, October 26 6:00 PM - 7:30 PM Virtual ​ ​ ​ Thursday, October 29 6:00 - 7:30 PM Interdependence Day on Substack Emily's Voice for Democracy Campaign Contact Phone 218-308-6687 Chat Mail Like emily@emilythabesformn.com ​​ Campaign for Emily Thabes PO Box 93 Shevlin, MN 56676 ​ facebook.com/emilythabesformn DONATE Meet Frankie Info Paid for and prepared by the Campaign for Emily Thabes Home Privacy Policy Accessibility Statement bottom of page

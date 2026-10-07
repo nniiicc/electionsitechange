@@ -1,9 +1,34 @@
 [
-"https://dmv.gbh.mybluehost.me/",
-"https://dmv.gbh.mybluehost.me/about",
-"https://dmv.gbh.mybluehost.me/donate",
-"https://dmv.gbh.mybluehost.me/home",
-"https://dmv.gbh.mybluehost.me/issues",
-"https://dmv.gbh.mybluehost.me/solutions",
-"https://secure.actblue.com/donate/jennifer-cassidy-for-mo-1"
+{
+"text": "About",
+"href": "https://dmv.gbh.mybluehost.me/about/"
+},
+{
+"text": "Donate",
+"href": "https://dmv.gbh.mybluehost.me/donate/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/jennifer-cassidy-for-mo-1"
+},
+{
+"text": "Home",
+"href": "https://dmv.gbh.mybluehost.me/home/"
+},
+{
+"text": "Issues",
+"href": "https://dmv.gbh.mybluehost.me/issues/"
+},
+{
+"text": "Jennifer Cassidy for State Representative HD32",
+"href": "https://dmv.gbh.mybluehost.me"
+},
+{
+"text": "Solutions",
+"href": "https://dmv.gbh.mybluehost.me/solutions/"
+},
+{
+"text": "[image: Jennifer Cassidy for State Representative HD32]",
+"href": "https://dmv.gbh.mybluehost.me/"
+}
 ]

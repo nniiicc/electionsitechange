@@ -1,7 +1,8 @@
-Sen.
-McKenney 2026 Legislative Agenda
-Updated: Apr 20
-The people of Rhode Island are concerned about affordability.
+top of page Home About Meet Sen.
+McKenney Rhode Island Senate Accessibility Policy Meet Sen.
+McKenney Rhode Island Senate Accessibility Policy News & Press Press Releases Endorsements Social Media In the News Press Releases Endorsements Social Media In the News Events Campaign Trail Photo Gallery Community Calendar Campaign Trail Photo Gallery Community Calendar Get Involved General Contact Form Volunteer Form General Contact Form Volunteer Form Voter Information Menu Close Contribute All Posts Sen.
+McKenney 2026 Legislative Agenda Sen.
+Mark McKenney Feb 17 3 min read Updated: Apr 20 The people of Rhode Island are concerned about affordability.
 The Rhode Island General Assembly is looking to ease the cost of living in our state.
 For that reason, I am a strong supporter of initiatives dealing with housing, health coverage, and taxes.
 For healthcare, bills have been filed to reduce premiums for low- and moderate-income persons on the state’s healthcare exchange.
@@ -40,3 +41,9 @@ The vast majority of states require residency for years - 5, 7 or even 10!
 Rhode Island is small enough (unlike larger states such as California, where it simply can’t be done) that a person with sufficient wealth could simply waltz in and, with no connection to the state, at all … spend enough money to essentially “buy” a Rhode Island office.
 That’s not right.
 I’ve also continued to advocate for my bills seeking full funding of libraries and RIPTA, improved recycling, and reform of the CRMC.
+Recent Posts See All Dear Neighbor Newsletter (2026) Dear Neighbor (2022) My name is Mark McKenney, and I represented Warwick’s District 30 as a Democrat in the Rhode Island Senate in 2019-2020.
+Warwick deserves to be well-represented.
+We need a Senator who supports reaso Contact Us Volunteer Contribute Report an issue with the site: Click Here © # Mark McKenney for State Senate.
+All Rights Reserved.
+Paid for by Friends of Mark McKenney Privacy Policy Do Not Sell My Personal Information Home About Meet Sen.
+McKenney Rhode Island Senate Accessibility Policy News & Press Press Releases Endorsements Social Media In the News Events Campaign Trail Photo Gallery Community Calendar Get Involved General Contact Form Volunteer Form Voter Information bottom of page

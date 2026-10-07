@@ -1,9 +1,9 @@
-Anna Kelles
-NYS Assembly District 125
-Learn more about Dr.
+0 Skip to Content Home About Anna Issues Healthcare Childcare Housing for All Environment Rural Resources Improving Public Safety Protecting Immigrant Communities Strengthening Worker Rights Legislative Accomplishments Get Involved Voter Information Donate Open Menu Close Menu Home About Anna Issues Healthcare Childcare Housing for All Environment Rural Resources Improving Public Safety Protecting Immigrant Communities Strengthening Worker Rights Legislative Accomplishments Get Involved Voter Information Donate Open Menu Close Menu Home About Anna Folder: Issues Back Healthcare Childcare Housing for All Environment Rural Resources Improving Public Safety Protecting Immigrant Communities Strengthening Worker Rights Legislative Accomplishments Get Involved Voter Information Donate Anna Kelles NYS Assembly District 125 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe to Anna’s Newsletter Email Address Submit Thank you for joining us!
+We’ll be sure to keep you updated on the latest news and events.
+If you would like to help Anna get to Albany to represent the people of the 125th, please click here to make a contribution Learn more about Dr.
 Anna Kelles, a public health scientist and State Assemblymember working to build healthier communities, protect our environment, and make New York more affordable, equitable, and inclusive.
-About Anna
-Anna’s policy positions reflect a practical, evidence-based approach to building healthier communities, protecting our environment, and making New York more affordable, with a focus on healthcare, housing, childcare, energy, rural infrastructure, and justice.
-Anna’s Positions on State Issues
-Donate securely via ActBlue
-Help re-elect Anna to the NYS Assembly!
+About Anna Learn more Learn more Anna’s policy positions reflect a practical, evidence-based approach to building healthier communities, protecting our environment, and making New York more affordable, with a focus on healthcare, housing, childcare, energy, rural infrastructure, and justice.
+Anna’s Positions on State Issues Learn More Learn More Donate securely via ActBlue Help re-elect Anna to the NYS Assembly!
+Donate Donate Email: info@annakelles.com

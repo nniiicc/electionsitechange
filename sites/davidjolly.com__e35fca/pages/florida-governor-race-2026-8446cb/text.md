@@ -1,23 +1,15 @@
-The 2026 Florida Governor's Race
-Who is running, every date that matters, and how to make your voice count on November 3.
-Get involved
-Two candidates are running for Governor of Florida in 2026: David Jolly, the Democratic nominee running with Gwen Graham for Lieutenant Governor, and Byron Donalds, the Republican nominee.
-Both won their party primaries on August 18, 2026.[1] The general election is Tuesday, November 3, 2026, with early voting running statewide October 24 through October 31.[2][3]
-We change the world in...
-until Election Day
-Election Day is here.
+Skip to content Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact EN | ES | HT Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact Donate $5 $10 $20 $50 $100 $250 $500 Other EN | ES | HT The 2026 Florida Governor's Race Who is running, every date that matters, and how to make your voice count on November 3.
+Get involved In short Two candidates are running for Governor of Florida in 2026: David Jolly, the Democratic nominee running with Gwen Graham for Lieutenant Governor, and Byron Donalds, the Republican nominee.
+Both won their party primaries on August 18, 2026. [1] The general election is Tuesday, November 3, 2026, with early voting running statewide October 24 through October 31. [2] [3] We change the world in...
+# Days # Hours # Minutes # Seconds until Election Day Election Day is here.
 Go vote.
-What this race decides
-The governor signs or vetoes every state budget, appoints the heads of the agencies that run schools, health care, insurance regulation, and emergency response, and sets the direction of the state for four years.
-Property insurance costs, what public schools can teach, how Florida grows, and how it answers a hurricane all run through this one office.[4] That is why this is the most watched governor's race in the country.
-David Jolly and Gwen Graham.
+Oct 22 Vote-by-mail deadline Oct 24 Early voting begins Nov 3 election day What this race decides The governor signs or vetoes every state budget, appoints the heads of the agencies that run schools, health care, insurance regulation, and emergency response, and sets the direction of the state for four years.
+Property insurance costs, what public schools can teach, how Florida grows, and how it answers a hurricane all run through this one office. [4] That is why this is the most watched governor's race in the country.
+The Democratic ticket David Jolly and Gwen Graham.
 David Jolly is a fifth generation Floridian, a former Member of Congress, and an attorney who has spent the campaign holding town halls in every corner of the state, focused on the cost of living, property insurance, and public schools.
 His running mate Gwen Graham represented Florida's 2nd District in Congress and served as a public school advocate for decades.
 They are running to make Florida affordable for the people who make it work.
-The Republican nominee
-Byron Donalds is a Republican Member of Congress from Southwest Florida and won his party's nomination on August 18.[1] Voters comparing the two candidates' records on insurance, health care, and taxes can start with his voting record in Congress, which is public, and with where David stands on the same questions on this site.[5]
-Questions Floridians are asking
-Q.
+Where David stands, issue by issue → The Republican nominee Byron Donalds is a Republican Member of Congress from Southwest Florida and won his party's nomination on August 18. [1] Voters comparing the two candidates' records on insurance, health care, and taxes can start with his voting record in Congress, which is public, and with where David stands on the same questions on this site. [5] Questions Floridians are asking Q.
 When is the Florida governor election?
 Election Day is Tuesday, November 3, 2026.
 Early voting runs statewide October 24 through October 31, and counties may add extra days.
@@ -40,9 +32,16 @@ Governor DeSantis completes his second term in January 2027, so the office is op
 Q.
 Who is David Jolly's running mate?
 Gwen Graham, a former Member of Congress from Florida's 2nd District and a longtime public schools advocate, is the Democratic nominee for Lieutenant Governor.
-Make a plan to vote.
+Sources [1] Florida Division of Elections, certified 2026 primary results [2] Florida Statutes 100.011, Election Day and poll hours [3] Florida Statutes 101.657, the early voting window [4] Florida Constitution, Article IV, the office and its powers [5] U.S.
+House Clerk, roll call votes Make a plan to vote.
 Check your registration, request your ballot, or find your early voting site.
 It takes two minutes.
-Every date and deadline
-Florida chooses its direction on November 3.
+Every date and deadline Florida chooses its direction on November 3.
 This page stays current through Election Day: the candidates, the dates, the coverage, and how to be counted.
+Be part of it Explore this issue In depth Byron Donalds says I'm selling hope In depth David Jolly - Candidate for governor - The next 65 Days In depth David Jolly for Governor - Change is here...be a part of it!
+In depth How to Vote in Florida in 2026 In depth Florida Governor Polls 2026 In depth Who Is Byron Donalds?
+In depth David Jolly vs.
+Byron Donalds In depth Who is running for Florida governor?
+In depth Florida Election 2026: Every Date and Deadline About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
+All rights reserved.
+Built with AVM

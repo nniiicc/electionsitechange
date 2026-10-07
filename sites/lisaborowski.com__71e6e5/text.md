@@ -1,6 +1,7 @@
-Meet Lisa
-Over the course of Lisa’s more than 15 years in elected office, she’s always delivered for her constituents.
+0 Skip to Content Home Meet Lisa Get involved On the Issues On the Issues Public Education Common Sense Gun Reform Workers' Rights Infrastructure Protecting Healthcare Access Right to Choose Access to the Ballot Box Public Safety Protecting the Environment Endorsements Donate Open Menu Close Menu Home Meet Lisa Get involved On the Issues On the Issues Public Education Common Sense Gun Reform Workers' Rights Infrastructure Protecting Healthcare Access Right to Choose Access to the Ballot Box Public Safety Protecting the Environment Endorsements Donate Open Menu Close Menu Home Meet Lisa Get involved Folder: On the Issues Back On the Issues Public Education Common Sense Gun Reform Workers' Rights Infrastructure Protecting Healthcare Access Right to Choose Access to the Ballot Box Public Safety Protecting the Environment Endorsements Donate Meet Lisa Over the course of Lisa’s more than 15 years in elected office, she’s always delivered for her constituents.
 She’s running for re-election as State Representative to show up and stand up for the people of the 168th District, Delco, and the Commonwealth of Pennsylvania.
-Get involved!
+Learn more about Lisa Get involved!
 Lisa — and Pennsylvania — need you.
 Whether you can knock doors, make phone calls, or host an event, every little bit will help us win this race and allow Lisa to keep representing the 168th District.
+Get Involved Not sure if you live in the 168th?
+Find Your District Paid for and authorized by Friends of Lisa Borowski PO Box 92; Wallingford, PA 19063

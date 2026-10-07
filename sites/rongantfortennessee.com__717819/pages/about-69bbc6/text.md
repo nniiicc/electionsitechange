@@ -1,5 +1,4 @@
-Meet Ron
-A fifth-generation Tennessean, Ron was born and raised in the Rossville/Collierville area of southwest Tennessee.
+About Issues Join Donate Meet Ron A fifth-generation Tennessean, Ron was born and raised in the Rossville/Collierville area of southwest Tennessee.
 He learned the meaning of a hard day's work at a young age and what Tennessee conservative values mean - preserving and protecting our God-given freedom.
 As a graduate of Rossville Christian Academy and University of Tennessee Martin WestStar, Ron studied business at Liberty University.
 He started his career in the Rossville/Collierville area as an insurance agent - providing affordable personal and commercial insurance protection to West Tennesseans.
@@ -20,3 +19,6 @@ In the General Assembly, Ron is a member of the Finance, Ways, and Means Committ
 He is committed to ensuring Tennessee remains an economic leader in fiscal stability and creating jobs.
 He is a member of First Baptist Church Fisherville, Somerville Rotary Club, Fayette and McNairy County Chambers of Commerce.
 Ron is an active outdoorsman and enjoys hunting and fishing and attending sporting events with his kids.
+Join The Team Join Paid for by Friends to Elect Ron Gant.
+Treasurer, Betty Knox Salmon.
+About Issues Join

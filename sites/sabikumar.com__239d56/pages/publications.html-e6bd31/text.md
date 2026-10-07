@@ -1,224 +1,124 @@
-Sabi 'Doc' Kumar Tennessee State Representative - District 66 - Robertson County
-with the People
-of Robertson County
-My Thoughts in Press Articles Published in
-I am grateful to these Newspapers for Helping Us Keep in Touch!
-This is a List of Published Articles
-The Text is on the Right
-The Latest are at the Top
-The List
-87.
-Student Loans could be a Success Story
-86.
-Will Memphis Benefit from Re-Districting
-85.
-Elections have Become Complicated
-84.
-SNAP Benefits Problem
-83.
-TCAT Grant for Robertson County
-82.
-Voting Integrity in Tennessee
-81.
-Why Is My Insurance Going Up?:
-80.
-The 25th Amnd & Pres Joe Biden
-79.
-How the 2nd of July became the 4th 78.
-Tornado in Our Town
-77.
-Explaining The Expulsions
-76. 113the General assembly Opens
-75.
-Faith and Hope for 2022
-74.
-Healthcare Heroes Deserve Our Gratitude
-73.
-Vaccines are a Gift from God
-72.
-Uncle Joe is Sending Dough
-71.
-A Lemon Law for Tractors
-70.
-The Vaccine Story
-69.
-Speaking From the Heart!
-68.
-An Extraordinary Session
-67.
-The Mask, the Science and Liberty
-66.
+Home About Serving You Issues Publications ​ Sabi 'Doc' Kumar Tennessee State Representative - District 66 - Robertson County ​ To Keep In Touch with the People of Robertson County I have regularly expressed My Thoughts in Press Articles Published in The Robertson County Connection The Robertson County Times The Tennessean SmokeyBarn.com I am grateful to these Newspapers for Helping Us Keep in Touch!
+This is a List of Published Articles The Text is on the Right ​ The Latest are at the Top The List 87.
+Student Loans could be a Success Story 86.
+Will Memphis Benefit from Re-Districting 85.
+Elections have Become Complicated 84.
+SNAP Benefits Problem 83.
+TCAT Grant for Robertson County 82.
+Voting Integrity in Tennessee 81.
+Why Is My Insurance Going Up?: ​80.
+The 25th Amnd & Pres Joe Biden ​79.
+How the 2nd of July became the 4th ​ 78.
+Tornado in Our Town 77.
+Explaining The Expulsions 7 6 .
+113the General assembly Opens 75.
+Faith and Hope for 2022 74.
+Healthcare Heroes Deserve Our Gratitude ​73.
+Vaccines are a Gift from God 72.
+Uncle Joe is Sending Dough 71.
+A Lemon Law for Tractors 70.
+The Vaccine Story 69.
+Speaking From the Heart! ​68.
+An Extraordinary Session 67.
+The Mask, the Science and Liberty 66.
 To Mask or Not to Mask?
 65.
-Tennessee Fights the Corona Pandemic
-64.
-The Health of Our State
-63.
-Prayer at the Legislature
-62.
-Daylight Saving Time
-61.
-Robocalls
-60.
+Tennessee Fights the Corona Pandemic ​64.
+The Health of Our State 63.
+Prayer at the Legislature 6 2 .
+Daylight Saving Time 61.
+Robocalls 60.
 Do You Wanna Be the Speaker?
 59.
 They Aren't Working, Doc!
 58.
-Tumultuous Times in the House
-57.
-Faith and Addiction
-56.
-Prayer at The Legislature
-55.
-A Good Government
-54.
-The Slippery Slope of Negative Campaigning
-53.
-Six Reasons to Vote
-52.
-Legislation: Breast Cancer and
-Breast Density
-51.
-God Bless the Graduates!
-50.
-Thank you Robertson County
-49.
-Ken Gamble and the Orange Heart
-48.
-The Social Promotion Conundrum
-47.
-Scenes of Robertson County at the Legislature
-46.
-Pleasures of parades
-45.
-Me and My Shadow
-44.
-Christopher Columbus and the Eclipse
-43.
-The Story of Fourth of July
-42.
-A Memory That Brings Us Together
-41.
-Political Polarization and Our
-National Mood
-40.
-About The Gas Tax
-39.
-Eleven Myths of Medical Marijuana
-38.
-The State of Tennessee Has
-Money for You!
+Tumultuous Times in the House 57.
+Faith and Addiction ​56.
+Prayer at The Legislature ​ ​ 55.
+A Good Government 54.
+The Slip pery Slope of Negative Campaigning 53.
+Six Reasons to Vote 52.
+Legislation: Breast Cancer and Breast Density ​51.
+God Bless the Graduates! ​50.
+Thank you Robertson County 49.
+Ken Gamble and the Orange Heart 48.
+The Social Promotion Conundrum 47.
+Scenes of Robertson County at the Legislature​ 4 6.
+Pleasures of parades ​45.
+Me and My Shadow 44.
+Christopher Columbus and the Eclipse 43.
+The Story of Fourth of July 42.
+A Memory That Brings Us Together 41.
+Political Polarization and Our National Mood 40.
+About The Gas Tax 39.
+Eleven Myths of Medical Marijuana 38.
+The State of Tennessee Has Money for You!
 37.
-The 110th General Assembly
-36.
+The 110th General Assembly 36.
 The Anxiety of Election 2016!
 35.
-The Most Dangerous Traffic Spot
-in Robertson County
-34.
+The Most Dangerous Traffic Spot in Robertson County 34.
 Vote for Doc!
 33.
-Feeling Special at the Legislature
-32.
+Feeling Special at the Legislature 32.
 The Check From Uncle Sam!
 31.
 It is My Honor!
 30.
 Do Local Elections Really Matter?
 29.
-On Being American
-28.
-Obamacare Fails to Solve
-Healthcare Problems
-27.
-The 109th General Assembly
-Comes to A Close
-26.
+On Being American 28.
+Obamacare Fails to Solve Healthcare Problems 27.
+The 109th General Assembly Comes to A Close ​ 26.
 Bless My Heart!
 25.
-Death and Dignity
-24.
-Medical Marijuana Is
-Already Available
-23.
-The Dialogue of Democracy
-22.
-A Beautiful Storm
-21.
-Y'all Come!
-20.
-The Joy of Giving
-19.
-A Family Adventure
-18.
-Honoring Our Veterans
-17.
-Growth in Robertson County
-16.
-Your Opinion Matters
-15.
-Remembering 9/11
-14.
-Back to School in Robertson County
-13.
-Terror in Our Homeland
-12.
-Following the Money
-11.
-Turning of The Tassles
-10.
-Making Decisions in the Legislature
-9.
-Legislative Session of 2015
-8.
-The Making of A Law
-7.
-A Cure for the Common Core
-6.
-Who Decides Which Textbooks
-Our Children Read?
+Death and Dignity ​ 24.
+Medical Marijuana Is Already Available 23.
+The Dialogue of Democracy ​ 22.
+A Beautiful Storm 21.
+Y'all Come! ​ 20. ​The Joy of Giving 19.
+A Family Adventure 18.
+Honoring Our Veterans ​ 17.
+Growth in Robertson County ​ 16.
+Your Opinion Matters 15.
+Remembering 9/11 14.
+Back to School in Robertson County 13.
+Terror in Our Homeland ​ 12.
+Following the Money ​ 11.
+Turning of The Tassles 10.
+Making Decisions in the Legislature ​ 9.
+Legislative Session of 2015 8.
+The Making of A Law 7.
+A Cure for the Common Core 6.
+Who Decides Which Textbooks Our Children Read?
 5.
-Ready for the Education Committee
-4.
-Health Care Options
-3.
-Organization Week at the Legislature
-2.
-New Representative Thoughts
-1.
-The American Future.
-86
-Will Memphis Benefit from Redistricting?
-The Tennessean Jun 21, 2026
-Robertson County Connection May 20, 2026
-Rep Sabi ‘Doc’ Kumar MD
-On Thursday May 7, 2026, the Special Session of the 114the General Assembly of the Tennessee Legislature ended in a tumult.
+Ready for the Education Committee 4.
+Health Care Options 3.
+Organization Week at the Legislature 2.
+New Representative Thoughts 1.
+The American Future. ​ ​​​ 86 Will Memphis Benefit from Redistricting?
+The Tennessean Jun 21, 2026 Robertson County Connection May 20, 2026 Rep Sabi ‘Doc’ Kumar MD On Thursday May 7, 2026, the Special Session of the 114the General Assembly of the Tennessee Legislature ended in a tumult.
 Lady Liberty could smile at the tremendous liberty and freedom that even the dangerously unruly crowds and angry minority party Legislators enjoyed.
 Lady Liberty could also shed a tear for the violation of decorum and dis-respect shown towards an institute of democracy.
 Democracy and the freedoms it bestows are a blessing for humanity but subject to manipulation because of the same freedoms.
-About Districting and Redistricting
-Article I, Section 4 of the US Constitution grants that “"Times, Places and Manner of holding Elections... shall be prescribed in each State by the Legislature thereof." In 31 states, the ruling party has the authority to draw maps that create voting districts.
+About Districting and Redistricting Article I, Section 4 of the US Constitution grants that “"Times, Places and Manner of holding Elections... shall be prescribed in each State by the Legislature thereof." In 31 states, the ruling party has the authority to draw maps that create voting districts.
 As expected, these districts are drawn to favor the majority party.
 As early as 1812, Gov Elbridge Gerry of Massachusetts drew a district map to suit his party.
 The odd shape of the district map was likened to a salamander, hence the term ‘Gerrymander’!
 To overcome partisanship, some states have established nonpartisan or elected official commissions to perform redistricting.
 Districts are redrawn every 10 years, following release of the US Census data.
 This ensures that districts are adjusted to have near equal numbers of voters.
-The Big Fight in Washington
-Among our two dominant political parties, at this time, Republicans control the House of Representatives in US Congress by a margin of 218-212 over the Democrats.
+The Big Fight in Washington Among our two dominant political parties, at this time, Republicans control the House of Representatives in US Congress by a margin of 218-212 over the Democrats.
 Five seats are vacant.
 Both parties are fighting for control of the House after the general election in November.
 To gain advantage in the November election, many states, including Tennessee, have changed their state laws and proceeded with mid-decade redistricting.
 Both parties are in this game.
-SCOTUS Ruling
-The Voting Rights Act of 1965 and subsequent rulings required establishment of certain districts to allow election of minority candidates from these majority-minority districts.
+SCOTUS Ruling The Voting Rights Act of 1965 and subsequent rulings required establishment of certain districts to allow election of minority candidates from these majority-minority districts.
 On April 29, 2026, the Supreme Court of the US issued a landmark ruling in Louisiana v.
 Callais.
-It held that the 6th Congressional District of Louisiana was an unconstitutional ‘racial gerrymander.’
-This opened the door for race-based districts to be redrawn.
+It held that the 6th Congressional District of Louisiana was an unconstitutional ‘racial gerrymander.’ This opened the door for race-based districts to be redrawn.
 Memphis is an example.
-Possible Benefit for Black Memphians
-Tennessee Governor Bill Lee called upon the Legislature to meet in Special Session, starting May 5, 2026, to redistrict the now ‘illegal’ 9th Congressional district since it was a racial gerrymander.
+Possible Benefit for Black Memphians Tennessee Governor Bill Lee called upon the Legislature to meet in Special Session, starting May 5, 2026, to redistrict the now ‘illegal’ 9th Congressional district since it was a racial gerrymander.
 The 9th district comprised mostly the city of Memphis.
 In the 2020 census, Memphis had a population of 633,000, of which almost 400,000 citizens are Black (63%).
 With redistricting, citizens of the 9th Congressional District will be distributed into three newly revised 7th, 8th and 9th districts.
@@ -235,13 +135,7 @@ Let us be proud of it!
 Let us nurture it with Love, Respect and Honesty among us.
 God Bless our State!
 Sabi ‘Doc’ Kumar MD is a retired surgeon and represents Robertson County, District 66 in the Tennessee House of Representatives.
-Reach him at Rep.Sabi.Kumar@Capitol.tn.gov.
-_____________________________________________________________________________
-85
-Elections Have Become Complicated
-Sabi Doc Kumar MD
-Robertson County Connection Apr 27, 2026
-I remember the simpler times!
+Reach him at Rep.Sabi.Kumar@Capitol.tn.gov. _____________________________________________________________________________ 85 Elections Have Become Complicated Sabi Doc Kumar MD Robertson County Connection Apr 27, 2026 I remember the simpler times!
 We voted on the first Tuesday in November, every two years.
 We felt ‘civic’ and proud and patriotic.
 We had participated in something big along with millions of fellow Americans.
@@ -288,13 +182,7 @@ Let us vote to uphold the privilege.
 Let us work to bring a sense of duty, calm and pride to the election process.
 In these turbulent times, “God is watching us”!
 May He place His Hand on our shoulders and continue to Bless America!
-Sabi Doc Kumar is State Representative for District 66, Robertson County, in the Tennessee House of Representatives where he Chairs the Insurance Committee.
-__________________________________________________________________________________
-84
-The Problem with SNAP Benefits Today
-Sabi Doc Kumar MD
-Robertson County Connection May 2, 2025
-SNAP is an acronym for Supplement Nutritional Assistance Program of the United States Federal Government.
+Sabi Doc Kumar is State Representative for District 66, Robertson County, in the Tennessee House of Representatives where he Chairs the Insurance Committee. __________________________________________________________________________________ 84 The Problem with SNAP Benefits Today Sabi Doc Kumar MD Robertson County Connection May 2, 2025 SNAP is an acronym for Supplement Nutritional Assistance Program of the United States Federal Government.
 It is better known as Food Stamps.
 It is meant to provide food-purchasing “assistance” for our low income citizens to help them obtain food and nutrition.
 It is an aid program.
@@ -310,8 +198,7 @@ Recipients get monthly payments by an electronic benefits transfer (EBT) card.
 Restrictions are in place to avoid mis-use of these funds and cards.
 Purchase of certain items, such as alcohol, tobacco, illicit drugs, and in some states, unhealthy food options is prohibited.
 The goal and the obligation of the government under this program is to help our needy citizens maintain adequate nutrition.
-The Problem Today
-As we know, our federal government is extremely divided and polarized.
+The Problem Today As we know, our federal government is extremely divided and polarized.
 Deep disagreements on spending and other issues exist between our conservative Republican and liberal Democratic parties.
 This, in Washington, is called a ‘deadlock’ because even the needed programs do not get passed.
 Approval and passage of the yearly US Budget is among the most important functions for our US Congress.
@@ -326,8 +213,7 @@ Democrats have blocked the passage of that resolution in the Senate by ‘filibu
 This is a legislative maneuver in which instead of a simple majority (51 out of 100 votes), sixty votes are required for passage.
 Democrats want their priorities filled or the government stays shut.
 Their priorities do have merit but they should allow the government to function and not hold SNAP and other programs hostage while the two parties negotiate their disagreements.
-The Sky is Not Falling
-Our Liberal friends and the Media have created an unnecessary sense of Crisis!
+The Sky is Not Falling Our Liberal friends and the Media have created an unnecessary sense of Crisis!
 This is causing undue anxiety for our vulnerable citizens, the very people that we want to protect and help.
 First, we must note that during this government shutdown, SNAP funds are NOT CUT.
 When the government opens for business, which it will, the benefits due will be paid to the recipients in full.
@@ -344,22 +230,11 @@ Fourth, We Tennesseans are kind and generous.
 We are Volunteers.
 We are philanthropic.
 Our Houses of Worship and non-profits together will rise to the occasion.
-For those in need of immediate help, Robertson County Food Assistance sites are:
-Springfield: United Ministries, 808 South Main Street; Master's Table, 619 B Central Ave.
+For those in need of immediate help, Robertson County Food Assistance sites are: Springfield: United Ministries, 808 South Main Street; Master's Table, 619 B Central Ave.
 W; First Seventh Day Adventist Church, 3263 Tom Austin Highway; Mid-Cumberland Community Action, 505 Hill St; Purpose Life Church, 805 Memorial Blvd.
-24 Church, 1502 Substation Rd, Pleasant View;
-HOPE Food Pantry, 212 Portland Road White House.
+24 Church, 1502 Substation Rd, Pleasant View; HOPE Food Pantry, 212 Portland Road White House.
 Let us come together and help our State and Our People!
-God Bless!
-______________________________________________________________________________________________
-83
-A TCAT for Robertson County
-Page Viewer - Main Street Media of Tennessee - 2025-04-29
-82
-Voting Integrity in Tennessee
-Sabi Doc Kumar MD
-Robertson County Connection Nov 15, 2024
-Considering our current hyper-polarized election scene, citizens frequently ask me if our elections are secure.
+God Bless! ______________________________________________________________________________________________ 83 A TCAT for Robertson County Sabi Doc Kumar MD Robertson County Connection May 2, 2025 ​Page Viewer - Main Street Media of Tennessee - 2025-04-29 ____________________________________________________________________________________________ 82 Voting Integrity in Tennessee Sabi Doc Kumar MD Robertson County Connection Nov 15, 2024 Considering our current hyper-polarized election scene, citizens frequently ask me if our elections are secure.
 I share their concern.
 I have asked the same question.
 This question reflects a sense of anxiety among our voters.
@@ -379,21 +254,18 @@ The process is complex and there are many steps along the way.
 Our Constitution empowers each state to conduct elections and voting according to their own laws.
 This shows respect for “state sovereignty”.
 Let us review these steps and possible pitfalls along the path of voting as it is conducted in Tennessee.
-Voter Registration
-Accurate Voter rolls must be maintained by our state.
+Voter Registration Accurate Voter rolls must be maintained by our state.
 There was a recent furor when voter rolls were updated, as required by law.
 Citizens have a right to appeal and correct wrong information.
 Tennessee requirements for Voter Registration are that a person is 18 years of age, is a citizen of the United States, has completed and submitted an Application for Voter Registration, has submitted proof of residency to the County Election Office in the county where they reside and want to register to vote.
 Registration must be submitted thirty days prior to the election date.
 There is no Same-day or Automatic Registration.
 Certain legal and criminal disqualifications apply.
-Voting Options
-Photo ID, acceptable to the County Election Office is strictly required for in-person voting.
+Voting Options Photo ID, acceptable to the County Election Office is strictly required for in-person voting.
 Those holding work permit related Driver Licenses cannot use those as ID for Voter Registration First time voting must be in person.
 Absentee or mail-in ballots are not allowed for first- timers Early Voting is available for a period of 14 days, starting three weeks prior to Election date.
 These votes are cast at the County Election Office, within specified hours, Mon thru Sat for two weeks.
-Mail-in Voting and Absentee Voting
-This is a controversial method.
+M ail-in Voting and Absentee Voting This is a controversial method.
 It became more popular during the Covid-19 pandemic.
 Many states allow and encourage this form of voting.
 There are numerous pitfalls and concerns about authentication and reliability.
@@ -403,8 +275,7 @@ Between 2012 -2018 up to 22 million ballots are reported missing.
 Tennessee allows Mail-in or Absentee Voting only for special cases and for reasonable cause.
 There is no automatic mailing of ballots.
 Tennessee Ballots are protected by water-mark against copying and duplication.
-Voting Machine Protection and Reliability
-This is a critical part of Voting Integrity.
+Voting Machine Protection and Reliability This is a critical part of Voting Integrity.
 There were concerns about manipulation and hacking during the 2020 general elections.
 Tennessee Secretary of State Tre Hargett is very proud of our reliability and his work to make these machines secure.
 Efforts include: Pre-testing by Democratic and Republican appointed technicians, only proven vendors with a good record in other states, five separate vendors so that a problem with one vendor is not state-wide, no internet connection of voting machines so that these are protected from hacking or foreign intervention, no inter-connection between machines.
@@ -417,14 +288,9 @@ Let us pray for Wisdom of our decisions.
 Let us pray for Safety.
 Let Him Guide us.
 May God Bless America!
-Sabi Doc Kumar, MD is a retired surgeon and represents District 66 – Robertson County in the TN House of Representatives, where he is Chairman of the Insurance Committee
-81
-Why Is My Insurance Going Up?
-Sabi Doc Kumar MD
-Robertson County Connection Sep 24, 2024
-This is a question that, over the last few months, has been asked of me and by me!
-It is often preceded by a statement of the fact that ”I haven’t had a claim or an accident in a ‘hundred’ years!”
-I am grateful to Robertson County that you have chosen me as your State Representative to the Tennessee House of Representatives for the past ten years.
+Sabi Doc Kumar, MD is a retired surgeon and represents District 66 – Robertson County in the TN House of Representatives, where he is Chairman of the Insurance Committee _____________________________________________________________________________ 81 Why Is My Insurance Going Up?
+Sabi Doc Kumar MD Robertson County Connection Sep 24, 2024 This is a question that, over the last few months, has been asked of me and by me!
+It is often preceded by a statement of the fact that ”I haven’t had a claim or an accident in a ‘hundred’ years!” I am grateful to Robertson County that you have chosen me as your State Representative to the Tennessee House of Representatives for the past ten years.
 This has given me the seniority and the honor of being Chairman of the House Insurance Committee in Tennessee.
 The Insurance Committee passes laws that regulate the Insurance industry except for setting the rates.
 It is the duty of the Representatives who serve on my Insurance Committee, and of all members of the Legislature, to work to protect our citizens who purchase and carry insurance policies.
@@ -470,14 +336,7 @@ We will ask for possible solutions.
 We are interested and concerned.
 We are blessed to be Tennesseans.
 We ask for His hand upon us to make things better!
-Sabi Doc Kumar, MD is a retired surgeon and represents District 66 – Robertson County in the TN House of Representatives, where he is Chairman of the Insurance Committee.
-_______________________________________________________________________________________________________
-80
-The 25th Amendment and President Joe Biden
-Sabi Doc Kumar MD
-Robertson County Connection July 29, 2024
-The Tennessean Aug 2, 2024
-Yogi Barra famously said, “Predictions are hard to make, especially about the future!” Our forefathers, while crafting the Constitution of these United States, had the difficult task of anticipating future constitutional needs of our Republic, and proposing remedies therefor.
+Sabi Doc Kumar, MD is a retired surgeon and represents District 66 – Robertson County in the TN House of Representatives, where he is Chairman of the Insurance Committee. _______________________________________________________________________________________________________ 80 The 25th Amendment and President Joe Biden Sabi Doc Kumar MD Robertson County Connection July 29, 2024 ​The Tennessean Aug 2, 2024 Yogi Barra famously said, “Predictions are hard to make, especially about the future!” Our forefathers, while crafting the Constitution of these United States, had the difficult task of anticipating future constitutional needs of our Republic, and proposing remedies therefor.
 Despite years of diligent work and learned planning, the need for subsequent improvements (amendments) to the Constitution became apparent during the process of adopting of the Constitution by several states.
 The Bill of Rights, comprising the first ten amendments, was ratified at the 1789 Convention of the States in New York.
 More amendments have subsequently been added, bringing the current total to twenty-seven.
@@ -514,13 +373,9 @@ The security of our country is at stake.
 Our “Government of the people, by the people, for the People” must be protected.
 May God be with us and us with Him.
 Let us do the right thing even when it is the difficult thing!
-Sabi Doc Kumar, MD is a retired surgeon and represents District 66 – Robertson County in the TN House of Representatives where he is Chairman of the Insurance Committee.
-How the 2nd of July became the 4th of July!
-Sabi Doc Kumar MD
-Robertson County Connection July 2, 2024
-“The 2nd of July, 1776, will be the most memorable epoch in the history of America.
-I am apt to believe that it will be celebrated by succeeding generations as the great anniversary!”
-So wrote John Adams, a Founding Father of our nation, to his faithful wife Abigail on the evening of July 3, 1776.
+Sabi Doc Kumar, MD is a retired surgeon and represents District 66 – Robertson County in the TN House of Representatives where he is Chairman of the Insurance Committee. _________________________________________________________________________________________ How the 2nd of July became the 4th of July!
+Sabi Doc Kumar MD Robertson County Connection July 2, 2024 “The 2nd of July, 1776, will be the most memorable epoch in the history of America.
+I am apt to believe that it will be celebrated by succeeding generations as the great anniversary!” So wrote John Adams, a Founding Father of our nation, to his faithful wife Abigail on the evening of July 3, 1776.
 No, John Adams, the first Vice President and later, the second President of the United States, was not confused about the date of the Independence Day of our country!
 He wrote these words to his dear Abigail, after he voted in the Second Continental Congress to approve a Resolution for Independence of the United States.
 Let us explore history to learn why we celebrate the Independence Day on the 4th of July.
@@ -536,7 +391,7 @@ This committee included John Adams, Benjamin Franklin, Robert Livingston, Roger 
 Congress debated and revised the wording of the Declaration and approved it two days later on July 4, 1776.
 Although grateful for the approval, Thomas Jefferson agonized over the revisions to his masterful work.
 This historic document was actually signed on August 2, 1776.
-These happenings of 241 years ago are of great historic importance.
+These happenings of #ago are of great historic importance.
 Two members of the Committee of Five went on to be President of the United States.
 John Adams defeated Thomas Jefferson to become the second President, taking the place of George Washington.
 Four years later, Jefferson defeated Adams to become the 3rd President.
@@ -553,13 +408,8 @@ With such grand historical events, it is fitting that in modern America we have 
 The 4th of July is the biggest hot dog holiday of the year!
 We have also added fireworks, parades, barbecues, carnivals, fairs, picnics, concerts, baseball games, family reunions, political speeches and ceremonies!
 Happy Birthday America!
-God Bless!
-____________________________________________________________________________________
-78.
-A Tornado in Our Town
-Sabi Doc Kumar MD
-Robertson County Connection April 24, 2023
-Mother Nature's fury can be sudden and severe.
+God Bless! ____________________________________________________________________________________ 78.
+A Tornado in Our Town Sabi Doc Kumar MD Robertson County Connection April 24, 2023 Mother Nature's fury can be sudden and severe.
 Human life being fragile, the consequences can be serious or even deadly.
 We discovered this again in the disaster of Saturday December 9, 2023.
 The definition of a disaster being “a sudden overwhelming and unforeseen event”, was proven true on that day!
@@ -611,13 +461,8 @@ Recovery from disasters has many aspects and phases.
 It may take a long time.
 It may never be complete.
 We can derive comfort from the goodness of those around us.
-It warms our hearts to receive assistance, give assistance and do it all to the Glory of God, Almighty!
-__________________________________________________________________________________________________________________________
-77.
-Explaining The Expulsions
-Sabi Doc Kumar MD
-Robertson County Connection April 24, 2023
-On April 6, 2023 the Tennessee House of Representatives expelled Representatives Justin Jones (Nashville) and Justin Pearson (Memphis).
+It warms our hearts to receive assistance, give assistance and do it all to the Glory of God, Almighty! __________________________________________________________________________________________________________________________ ​ 77.
+Explaining The Expulsions ​Sabi Doc Kumar MD Robertson County Connection April 24, 2023 On April 6, 2023 the Tennessee House of Representatives expelled Representatives Justin Jones (Nashville) and Justin Pearson (Memphis).
 Rep Gloria Johnson (Knoxville) escaped expulsion by one vote.
 “Tennessee state Rep.
 Kumar on expelled lawmakers: 'They are speaking out of order” is the headline on a major national TV network, implying that it was the sole reason for expulsion of the two Legislators!
@@ -647,7 +492,7 @@ By this action, the Tennessee-3 became famous but they took attention away from 
 They made it about themselves.
 The community needed time to mourn and to heal.
 We needed to join and work together towards solutions.
-The Next Step: Legislatures function by strict rules and decorum.
+The Next Step : Legislatures function by strict rules and decorum.
 This assures that all voices and opinions are heard in an orderly manner with equal privilege of time on the microphones.
 That structure had been broken in the Tennessee People’s House.
 These three members took the House hostage.
@@ -676,7 +521,7 @@ She received 65 (of the 66 votes needed) to expel her.
 She escaped by one vote because two members had to leave due to health and family needs.
 Racism played no role.
 To use the race card while claiming to fight racism is dishonest.
-The National Leadership: I am disheartened to see that our national leaders have exploited this tragedy.
+The National Leadership : I am disheartened to see that our national leaders have exploited this tragedy.
 Vice-President Harris hurried to Nashville to “honor the Tennessee-3” but did not visit the Covenant Community to express sympathy and pay homage.
 Really!
 President Biden called Tennessee’s Legislative actions, “Shocking, undemocratic, and without precedent”.
@@ -693,14 +538,8 @@ Hope: It is my hope and prayer that lessons have been learned.
 I hope that these representatives will return to serve and represent their constituents, transition from being protestors to being representatives of the people who elected them.
 The Tennessee-3 are bright and intelligent Tennesseans.
 Their voices matter.
-They should listen to Justice Ruth Bader Ginsburg, who said, “Fight for the things that you care about, but do so in a way that will lead others to join you.”
-So, help us God!
-76.
-The 113th General Assembly Opens
-Sabi Doc Kumar MD
-Robertson County Connection Jan 29, 2023
-The 113th Tennessee General Assembly Opens
-It is a grand spectacle and a vibrant scene in our Capitol as the Tennessee General Assembly convenes on the 2nd Tuesday of January each year, as mandated by the State Constitution.
+They should listen to Justice Ruth Bader Ginsburg, who said, “Fight for the things that you care about, but do so in a way that will lead others to join you.” So, help us God! _____________________________________________________________________________________ 76.
+The 113th General Assembly Opens ​Sabi Doc Kumar MD Robertson County Connection Jan 29, 2023 The 113th Tennessee General Assembly Opens It is a grand spectacle and a vibrant scene in our Capitol as the Tennessee General Assembly convenes on the 2nd Tuesday of January each year, as mandated by the State Constitution.
 Having served in the Tennessee Legislature for the past eight years, I am still awed when I enter the majestic chambers of the Tennessee House of Representatives.
 The high ceilings, the columns, the chandeliers and the stately furnishings create an aura of power and authority.
 Yet, the gallery brimming with visiting citizens reminds us that it is the “People’s House” and we are here to serve only if the people allow us that privilege!
@@ -731,12 +570,8 @@ Our good economic fortunes impel us to do better in educating our children, cari
 Major infra-structure, educational, child care and other initiatives are under consideration by the General Assembly, working with our honorable Governor Bill Lee.
 Each session of the General Assembly opens with prayer by an invited community pastor, serving as the Chaplain of the Day.
 Tennesseans are assured that we seek guidance from God Almighty as we conduct the People’s business.
-Thanks be to God!
-________________________________________________________________________________________
-Sabi Doc Kumar MD
-Robertson County Connection Jan 4, 2022
-Faith and Hope for 2022
-As we welcome the ‘New’ Year, a part of us actually wishes for the ‘Old’!
+Thanks be to God! ________________________________________________________________________________________ 75.
+Faith and Hope for 2022 Sabi Doc Kumar MD Robertson County Connection Jan 4, 2022 Faith and Hope for 2022 As we welcome the ‘New’ Year, a part of us actually wishes for the ‘Old’!
 Today we are told to be with a ‘New Normal’ but a part of us wishes for the ‘Old Normal’!
 The Old Normal was a freedom to go places, visit family and friends and hug the strangers we met, without concern of catching Covid.
 While the virus is making its rounds, ‘changing its clothes’ by mutating, adapting new names from Greek alphabet, our scientists are coming up with great new treatments.
@@ -796,13 +631,9 @@ A new year provides new opportunities.
 Let us use our Faith and Hope to accomplish these four!
 Happy New Year and God Bless!
 Sabi ‘Doc’ Kumar, MD represents District 66 Robertson County in the Tennessee House of Representatives.
-He can be reached by email at Rep.Sabi.Kumar@Capitol.tn.gov Phone: 615- 741-2860
-Sabi Doc Kumar MD
-Robertson County Connection Oct 31, 2021
-The COVID-19 pandemic has caused unprecedented stress for medical workers that people outside the profession can't understand.
-Sabi "Doc" Kumar
-Guest columnist Online: oct 25, 2021 Paper edition: Oct 31, 2021
-Sabi "Doc" Kumar M.D. represents District 66 in the Tennessee House of Representatives.
+He can be reached by email at Rep.Sabi.Kumar@Capitol.tn.gov Phone: 615- 741-2860 ____________________________________________________________________________________ 74.
+Healthcare Heroes Deserve Our Gratitude Sabi Doc Kumar MD Robertson County Connection Oct 31, 2021 The COVID-19 pandemic has caused unprecedented stress for medical workers that people outside the profession can't understand.
+Sabi "Doc" Kumar Guest columnist Online: oct 25, 2021 Paper edition: Oct 31, 2021 Sabi "Doc" Kumar M.D. represents District 66 in the Tennessee House of Representatives.
 “Call your doctor right away!” This advice, often given, does not say to do this during business hours.
 Returning calls and caring for patients day or night is expected in medical practice.
 Despite the demands and inconveniences, most health care professionals find their work to be rewarding and satisfying.
@@ -815,15 +646,13 @@ One of my mentors taught me that we have a chance to help fellow human being eve
 This may be as small as getting a patient an additional pillow, a warm blanket or ice chips for a dry mouth.
 Or it may be a life-saving operation or time spent on the phone to resolve administrative and insurance issues.
 The opportunity to do such good is meaningful.
-Risk of exposure hangs over medical workers
-The COVID-19 pandemic has brought unprecedented stresses to life and work for these very essential workers.
+Risk of exposure hangs over medical workers The COVID-19 pandemic has brought unprecedented stresses to life and work for these very essential workers.
 Most significant has been the risk of exposure to serious illness for themselves and their families.
 This concern is magnified for those with elderly parents, grandparents or vulnerable friends and family.
 Having to scramble for protective equipment, and being unsure of its reliability, has added further anxiety.
 Great advances in medicine and science have made the curing of disease and saving of lives routine.
 COVID-19 has taken away that sense of comfort.
-The overwhelming number of deaths
-Loss of life is a traumatic event, even for professionals trained for these circumstances.
+The overwhelming number of deaths Loss of life is a traumatic event, even for professionals trained for these circumstances.
 With COVID-19, experienced professionals have been overwhelmed by the sheer numbers of deaths they've seen.
 I know of a nurse who in a single shift endured three deaths on her watch.
 Imagine her drive home.
@@ -846,19 +675,14 @@ Strength and understanding in these circumstances come from the support of frien
 I am grateful that the COVID pandemic has not taken away the missionary zeal among most.
 Considering the challenges and stresses, our health care heroes deserve our lasting gratitude.
 Let us remember to tell them every time we see them.
-God Bless!
-____________________________________________________________________
-73.
+God Bless! ____________________________________________________________________ 73.
 Vaccines are a Git from God!
-Sabi Doc Kumar MD
-Robertson County Connection Aug 17, 2021
-In an economic downturn, business activity slows.
+Sabi Doc Kumar MD Robertson County Connection Aug 17, 2021 In an economic downturn, business activity slows.
 Duh!
 Government income from sales tax revenue goes down.
 Costs of government programs go up because more people are unemployed and become dependent upon government aid.
 So, what should the government, and the elected officials, do when faced with such difficult times?
-As usual, there are three options:
-The first is to do nothing, just hope and pray for American ingenuity and early recovery.
+As usual, there are three options: The first is to do nothing, just hope and pray for American ingenuity and early recovery.
 The second is for government to cut expenses by reducing services and raise taxes to increase revenue.
 Folks don’t really like these actions because it makes life difficult.
 The third is the ‘Keynesian Approach’, based on the macroeconomic theories of English economist John Maynard Keynes (1833 – 1946).
@@ -879,8 +703,7 @@ This borrowing has caused our yearly budget deficit to increase from $585 billio
 Our total national debt stands at over $23 trillion.
 This equals almost 100% of our yearly gross domestic product (GDP) and is the highest since World War II.
 Most of the US Debt, in the form of Bonds, is owned by the public.
-China and Japan own about one trillion each.
-‘Uncle’ Joe, i.e. the federal government, is sending us a lot of money.
+China and Japan own about one trillion each. ‘Uncle’ Joe, i.e. the federal government, is sending us a lot of money.
 State of Tennessee will receive around $30 billion.
 This will add about 70% to our annual budget of $42 billion.
 Tennessee schools will receive almost $4 billion.
@@ -908,16 +731,64 @@ I pray that we use it wisely!
 I pray that we do not overstep the limits of safe debt!
 May God Protect and Bless our Nation!
 Sabi Doc Kumar MD is State Representative, District 66 - Robertson County.
-Reach him at Rep.Sabi.Kumar@Capitol.tn.gov.
-_________________________________________________________________________________________________________
-72.
-Uncle Joe is Sending Dough!
-Sabi Doc Kumar MD
-Robertson County Connection Jun 15, 2021
-71.
+Reach him at Rep.Sabi.Kumar@Capitol.tn.gov. _________________________________________________________________________________________________________ 72.
+Uncle Joe is Sending Dough! ​ Sabi Doc Kumar MD Robertson County Connection Jun 15, 2021 In an economic downturn, business activity slows.
+Duh!
+Government income from sales tax revenue goes down.
+Costs of government programs go up because more people are unemployed and become dependent upon government aid.
+So, what should the government, and the elected officials, do when faced with such difficult times?
+As usual, there are three options: The first is to do nothing, just hope and pray for American ingenuity and early recovery.
+The second is for government to cut expenses by reducing services and raise taxes to increase revenue.
+Folks don’t really like these actions because it makes life difficult.
+The third is the ‘Keynesian Approach’, based on the macroeconomic theories of English economist John Maynard Keynes (1833 – 1946).
+He advised that governments borrow money to pay for expenses of running the government, stimulate the economy and as the economy recovers, tax revenues will increase so that the debt can be paid off.
+Political demands being what they are, re-payment of debt does not happen because our elected officials get glory for doing things, which means spending money to do things and not paying off debt.
+Fiscal conservatives worry, seriously, about the tremendous national debt that we are placing upon the shoulders of the next generations.
+In ‘An Open Letter to President Roosevelt’, published in the New York Times on Dec 31, 1933, Keynes advocated his ideas to accomplish the “double task of Recovery and Reform” for America.
+The New Deal and Public Works Programs saved capitalism, restored faith in American economic system and revived hope among American people despite the Great Depression.
+Today, in response to the Covid-19 pandemic related economic downturn, a Keynesian approach ‘on steroids’ has been applied in full force.
+Americans have received Direct Payments of $1200, $600, $1400 in Rounds I, II and III at a cost of almost $900 billion.
+The CARES Act (Coronavirus Aid, Relief, & Economic Security Act) carried a $2.3 trillion price tag.
+The American Rescue Plan Act (ARPA) cost $1.9 trillion.
+These major initiatives include money for everything from health and education to state and local governments.
+We will spend $5-6 trillion on multiple programs.
+US government revenue (income) is about $3.5 trillion yearly.
+We will borrow the rest.
+This borrowing has caused our yearly budget deficit to increase from $585 billion in 2016 to $3.1 trillion in 2020.
+Our total national debt stands at over $23 trillion.
+This equals almost 100% of our yearly gross domestic product (GDP) and is the highest since World War II.
+Most of the US Debt, in the form of Bonds, is owned by the public.
+China and Japan own about one trillion each. ‘Uncle’ Joe, i.e. the federal government, is sending us a lot of money.
+State of Tennessee will receive around $30 billion.
+This will add about 70% to our annual budget of $42 billion.
+Tennessee schools will receive almost $4 billion.
+Robertson County Schools will receive over $21 million.
+Our County will receive $14 million and our cities will receive $13 million.
+This is real dough!
+Among the good things, extended and additional Unemployment Benefits from the federal government during the pandemic, were very helpful to our workers.
+These benefits were generous.
+As a result, some workers were actually earning more by staying on unemployment.
+Human nature being what it is, some workers were not inclined to go back to work.
+This created a shortage of workers that made it difficult for some businesses to operate or stay open.
+This situation is being corrected.
+Covid-19 took away precious lives.
+Families coped through faith and love for each other.
+Through many difficulties and disruptions, our local, state and federal governments have worked to help and protect citizens.
+Financial help was available.
+My office and I were able to help numerous citizens get state benefits.
+Americans have realized the Blessings and the responsibilities of financial rewards.
+They have spent prudently and supported our communities.
+They have saved money, with a realization that government was helpful this time but it is our responsibility to have savings available in case of a personal emergency.
+These are good lessons.
+As we return to a near normal life, we thank God for guiding us through these times.
+The large amount of borrowed money by the federal government is a Concern to many, a Blessing for some and a Responsibility for all.
+I pray that we use it wisely!
+I pray that we do not overstep the limits of safe debt!
+May God Protect and Bless our Nation!
+Sabi Doc Kumar MD is State Representative, District 66 - Robertson County.
+Reach him at Rep.Sabi.Kumar@Capitol.tn.gov. _______________________________________________________________________ 71.
 A Lemon Law for Tractors!
-Robertson County Connection Apr 27, 2021
-Mr Lynn Jones has put thousands of patients to sleep over a period extending beyond three decades at the old Jesse Holman Jones Hospital and, later, at the NorthCrest Medical Center, for the purpose of anesthesia.
+Sabi Doc Kumar MD Robertson County Connection Apr 27, 2021 Mr Lynn Jones has put thousands of patients to sleep over a period extending beyond three decades at the old Jesse Holman Jones Hospital and, later, at the NorthCrest Medical Center, for the purpose of anesthesia.
 Lynn is a certified Registered nurse Anesthetist (CRNA).
 It has been my good fortune to work with Lynn!
 Considering his western heritage from Oklahoma though, the cowboy in Lynn used his anesthesia income to support his urge to farm.
@@ -947,20 +818,15 @@ Senator Niceley, himself a farmer, is very influential in the Senate and he got 
 Governor Lee will sign it.
 And we have a law that protects our farmers from being stuck with a Lemon Tractor!
 Thanks to our farmers, who feed the world!
-God Bless!
-___________________________________________________________________________________________
-70.
-The Vaccine Story
-Robertson County Connection Jan 12, 2021
-My wife, Ms.
+God Bless! ___________________________________________________________________________________________ ​ 70.
+The Vaccine Story Sabi Doc Kumar MD Robertson County Connection Jan 12, 2021 My wife, Ms.
 Linda and I both remember the famous poster that hung in the medical clinics at my medical school and her nursing school.
 It portrayed the English physician Edward Jenner, in 1796, inoculating eight-year old James Phipps with pus scrapped from the cowpox infected hands of Sarah Nelmes, a milkmaid who caught the cowpox infection from Blossom, her beloved cow!
 It was folklore that milkmaids who get cowpox infection do not develop smallpox.
 Dr.
 Jenner wondered if this was true.
 He decided to follow the advice of his mentor, the famous John Hunter, physician to the King, who said, “Don’t think!
-Try!”
-It was thought that if a person recovers from an infection, they may become immune to future infections from the same organism.
+Try!” It was thought that if a person recovers from an infection, they may become immune to future infections from the same organism.
 In 1796, the science of vaccination did not exist.
 Antibody formation, or testing for it, were not known.
 Dr.
@@ -998,38 +864,16 @@ Certainly, they should be vaccinated and protected in the first phase.
 The assignment of phase numbers did get complicated.
 We should have called these Phase 1,2,3,4 and 5.
 But that would have been simple!
-So we have the following:
-Phase Eligible Populations https://covid19.tn.gov/covid-19-vaccines/vaccine-phases
-1a: 1a1 First responders
-Inpatient health care workers, workers with high-risk exposure to COVID-19
-Long-term health care facilities
-People age 18 and over who are not able to live independently
-1a2 All other health care workers, Funeral home and mortuary workers
-Seniors 75 Yrs age and over phased in
-1b School and child care facility workers
-First responder agency administration workers
-Seniors 65 Yrs age and over phased in
-1c People age 16 and over with high-risk health conditions
-Phase 2 a Critical infrastructure: Social, Commercial Ag and Food, Corrections Staff, Public Transit
-Age 55 Yrs and over phased in
-Phase 2 b Critical infrastructure: Transportation, Telecom, Utilities, Energy
-Phase 3 Congregate living facilities, Corrections, Grocery store workers
-Age based Phase in: 45 +, 35 +, 25+, 16+.
-Two logical Questions follow: “What Phase of Vaccination is my County in?” and "Can I get my Covid-19 Vaccine yet?" This online Link below should help in answering these questions.
-https://covid19.tn.gov/covid-19-vaccines/eligibility/
-You will be asked a few questions to determine Eligibility.
+So we have the following: Phase Eligible Populations https://covid19.tn.gov/covid-19-vaccines/vaccine-phases 1a: 1a1 First responders Inpatient health care workers, workers with high-risk exposure to COVID-19 Long-term health care facilities People age 18 and over who are not able to live independently 1a2 All other health care workers, Funeral home and mortuary workers Seniors 75 Yrs age and over phased in 1b School and child care facility workers First responder agency administration workers Seniors 65 Yrs age and over phased in 1c People age 16 and over with high-risk health conditions Phase 2 a Critical infrastructure: Social, Commercial Ag and Food, Corrections Staff, Public Transit Age 55 Yrs and over phased in Phase 2 b Critical infrastructure: Transportation, Telecom, Utilities, Energy Phase 3 Congregate living facilities, Corrections, Grocery store workers Age based Phase in: 45 +, 35 +, 25+, 16+.
+Two logical Questions follow: “What Phase of Vaccination is my County in?” and "Can I get my Covid-19 Vaccine yet?" This online Link below should help in answering these questions. https://covid19.tn.gov/covid-19-vaccines/eligibility/ You will be asked a few questions to determine Eligibility.
 Click on 'Next'.
 Then choose Robertson County from the Drop menu.
 Click 'Next' and continue answering the Questions until you get the information about your Vaccine Eligibility.
 If you find that you are eligible at this time, click on the red bar: 'Health Dept Vaccine Availability', check the situation for Robertson County and, if the vaccine is available, call the Health Dept number provided for an appointment.
 Considering the difficult times that we are living in, let us do our part to defeat Covid and reclaim our lives, and our American Dream!
-God Bless the USA!
-69.
+God Bless the USA! ___________________________________________________________________________________________________________ 69.
 Speaking From The Heart!
-Sabi Doc Kumar MD
-Robertson County Connection Dec 9, 2020
-Dear Robertson County,
-It has been the High Honor of my life to serve our community as a Surgeon for the past 43 years!
+Sabi Doc Kumar MD ​ Robertson County Connection Dec 9, 2020 Dear Robertson County, It has been the High Honor of my life to serve our community as a Surgeon for the past 43 years!
 My family and I are grateful for the kindness that you have shown and the confidence that you placed in me as a Surgeon.
 Mrs.
 Linda and I are Blessed to have raised our daughter Nina, who is now a real Legal Eagle with a serous job as a healthcare attorney!
@@ -1066,7 +910,7 @@ I was young!
 As we do not usually know, God had a different plan.
 Ms.
 Linda made her bright appearance in my life.
-To paraphrase Dave Loggins, she convinced me that, “Frisco ain't our kind of town / There ain't no gold and / There ain't nobody like me / I'm your number one gal in Tennessee." And, that was just 39 years ago!
+To paraphrase Dave Loggins, she convinced me that, “Frisco ain't our kind of town / There ain't no gold and / There ain't nobody like me / I'm your number one gal in Tennessee." And, that was just #ago!
 With establishment of good surgical practices, our medical community grew quickly with the arrivals of Drs.
 Bassel, Crunk, Dressler, Lewis, Bazaldua, Satpathy and Krueger.
 Moving from Jesse Holman Jones to build NorthCrest was the major step in 1995.
@@ -1090,25 +934,18 @@ I have taught a Sunday School Class, monthly, at Springfield First United Method
 It became a custom that I ended each class with a Limerick based on the scripture for the lesson.
 Over the years, I have created 130 plus Limericks.
 These are worthy of a book, I think!
-Here is an example:
-In Matthew 4:19, Jesus says to the Fishermen, “Follow Me”, in Matthew 5:13-16, Jesus tells them that they are the Salt (Knowledge) and the Light (Wisdom) of the earth.
-The Kumar Limerick summarizes:
-You Are Invited,
-Jesus is Excited,
-Follow Me, Says He.
-And You Will Be,
-Salted and Lighted!
+Here is an example: In Matthew 4:19, Jesus says to the Fishermen, “Follow Me”, in Matthew 5:13-16, Jesus tells them that they are the Salt (Knowledge) and the Light (Wisdom) of the earth.
+The Kumar Limerick summarizes: You Are Invited, Jesus is Excited, Follow Me, Says He.
+And You Will Be, Salted and Lighted!
 In the meanwhile, the Prayer from My Heart is that Covid goes away, soon.
 Lives are healed.
 I can visit all the Coffee Clubs, attend all the Social Functions and Fish Fries, ride in 4tth of July and Christmas Parades, shake hands and hug everyone!
 I am glad that I came and I stayed in our community.
 It was God’s plan.
-I just followed His command to “Bloom Where You Are Planted!” God Bless our People and our Nation!
-_________________________________________________________________________________
-68.
+I just followed His command to “Bloom Where You Are Planted!” God Bless our People and our Nation! _________________________________________________________________________________ 68.
 An Extraordinary Session for Extraordinary Times!
-Robertson County Connection Aug 25. 2020
-In the preamble, the first paragraph on page one the Constitution of the State of Tennessee states that it did “On the sixth day of February in the year of our Lord one thousand seven hundred and ninety-six ordain and establish a Constitution”.
+Sabi Doc Kumar MD ​ Robertson County Connection Aug 25.
+2020 In the preamble, the first paragraph on page one the Constitution of the State of Tennessee states that it did “On the sixth day of February in the year of our Lord one thousand seven hundred and ninety-six ordain and establish a Constitution”.
 Article II of this Constitution is devoted to the powers given to the General Assembly.
 This body is also called the Legislature and consists of two separate Chambers.
 The Tennessee House of Representatives is the larger body with 99 members.
@@ -1150,12 +987,9 @@ The First Amendment “right of the people peaceably to assemble, and to petitio
 Having secured the above objectives, the General Assembly adjourned sine die which, in Latin, means an adjournment without setting a date for return.
 I am proud to serve for you in the General Assembly.
 Thank you for the privilege!
-God Bless!
-_____________________________________________________________________________________________________
-67.
+God Bless!​ ​ _____________________________________________________________________________________________________ 67.
 The Mask, the Science and Liberty!
-Robertson County Connection July 14, 2020
-Living in Tennessee every winter, we see people’s breath when they are outside.
+Sabi Doc Kumar MD Robertson County Connection July 14, 2020 Living in Tennessee every winter, we see people’s breath when they are outside.
 We see it on TV among players on the football field.
 Tiny droplets of moisture in our breath become condensed to a cloudy mist as they cool down to 45 degrees or below.
 We can see that we breathe the same air into our lungs that came out of the lungs of the person next to us.
@@ -1195,20 +1029,17 @@ We also know that people are infectious to others even before they feel sick.
 Over half of the infections occur in this way.
 It is a moral duty for us to mask so that we do not spread the infection.
 We must protect others.
-A few common questions are:
-“I am healthy.
+A few common questions are: “I am healthy.
 I am strong.
 I can handle it.
 It is no more than a slight flu or not even that!
-Why do I need a mask?”
-This person is at a high risk for infection.
+Why do I need a mask?” This person is at a high risk for infection.
 By being infected, you become a “carrier” of the virus, even if you are not sick.
 You can pass this infection to a person who gets seriously sick.
 Corona is a “new” virus.
 We do not know the long-term behavior or consequences of this new infection, even for you.
 “I have certain rights guaranteed by the Constitution of the United States!
-The mask mandate takes away my Freedom and Liberty!”
-I have great respect for this statement.
+The mask mandate takes away my Freedom and Liberty!” I have great respect for this statement.
 As an immigrant, I am most grateful for the freedoms we enjoy in America!
 We do have a public health emergency.
 Generations before us went to wars to protect the freedoms that we enjoy.
@@ -1228,12 +1059,9 @@ We are faced with an uncertain future that no one has seen before, not even our 
 In John 13: 34, Christ tells us to love one another.
 This is an especially critical time for our nation.
 Let us follow His Command!
-God Bless!
-66.
+God Bless! _____________________________________________________________________________________________________________ ​ 66.
 To Mask or Not to Mask?
-Sabi 'Doc' Kumar MD
-Robertson County Connection May 20, 2020
-“At age 83, I never thought I’d drive up to a bank teller window, wearing a mask, and ask for money!” exclaims a beloved senior friend of ours.
+Sabi 'Doc' Kumar MD Robertson County Connection May 20, 2020 “At age 83, I never thought I’d drive up to a bank teller window, wearing a mask, and ask for money!” exclaims a beloved senior friend of ours.
 She reflects upon this unprecedented time we live in.
 Our lives, health, social and economic well-being are threatened by the Corona virus pandemic, also called Covid-19 (Corona Virus Disease 2019).
 Corona virus is highly infective and appears to spread quickly.
@@ -1263,9 +1091,7 @@ Depending on the thickness, several layers are needed.
 Quality of commercially available masks is variable and we may not know their test results or effectiveness.
 On a simple note, U.S.
 Surgeon General, Dr.
-Jerome Adams, has a useful ‘How to Make Your Own Face Covering Video’ that you can watch at:
-https://www.youtube.com/watch?v=tPx1yqvJgf4
-Second, it is most important that the mask fit properly.
+Jerome Adams, has a useful ‘How to Make Your Own Face Covering Video’ that you can watch at: https://www.youtube.com/watch?v=tPx1yqvJgf4 Second, it is most important that the mask fit properly.
 It should cover our nose and mouth.
 It should be snug and provide a seal all around the edges of the mask so that any virus in the air does not sneak into our breathing.
 Usually, the masks are loose and do not fit properly at the nose.
@@ -1281,12 +1107,7 @@ We should practice social distancing and good hygiene, as well!
 These practices do help to prevent the spread of Covid-19!
 Things appear to be improving.
 Let us do our part for us, our families and our fellow Tennesseans!
-God Bless!
-65
-Tennessee Fights the Corona Virus Pandemic
-Sabi 'Doc' Kumar MD
-Robertson County Connection Mar 22, 2020
-Corona Virus belongs to the family of influenza viruses.
+God Bless! _____________________________________________________________________________________________________________ 65 Tennessee Fights the Corona Virus Pandemic Sabi 'Doc' Kumar MD Robertson County Connection Mar 22, 2020 Corona Virus belongs to the family of influenza viruses.
 We confront the ‘flu’ season every year.
 We have vaccines to prevent it and anti-viral drugs to treat it.
 Yet, there were about 30,000 deaths from influenza during the 2018-19 season.
@@ -1300,12 +1121,12 @@ A Chinese physician, Li Wenliang, was the first to recognize this new viral dise
 Instead of being honored, he was jailed for reporting “false information” and causing panic.
 Sadly, Dr.
 Li died of pneumonia, due to Corona virus, in February 2020.
-United States began health checks on all travelers, coming from China, on Jan. 21, 2020.
+United States began health checks on all travelers, coming from China, on Jan.
+21, 2020.
 Four days later, a man in Washington State, who had recently returned from Wuhan, was found to be infected.
 Washington State and Federal authorities worked to contain spread.
 This virus spreads through contact with an infected person, exposure to cough or sneeze of an infected person, or virus contact from contaminated surfaces.
-What We Can Do:
-Distance Ourselves from others in public, by at least six feet.
+What We Can Do: Distance Ourselves from others in public, by at least six feet.
 In case we come across a person who is infected, we should be outside the range of their virus spray if they cough or sneeze.
 Wash our hands!
 Wash our hands!
@@ -1315,8 +1136,7 @@ Clean and disinfect surfaces around us where the virus might settle: tables, doo
 Cough (or sneeze) in a tissue and facing away from people.
 I do not agree with the advice that we cough on our sleeve and greet others with elbow bumps!
 We must wash our hands after coughing.
-Stay home if we are sick
-Wear a facemask when in public, or at home if family members need protection or are sick.
+Stay home if we are sick Wear a facemask when in public, or at home if family members need protection or are sick.
 Teach Children to take precautions depending on their age.
 Older Adults with underlying conditions are more vulnerable and should be particularly careful.
 Symptoms occur 2-14 days after exposure.
@@ -1340,8 +1160,7 @@ Hospitalization maybe needed in about 1 out of 10 cases.
 Our healthcare system is the best in the world.
 We have more hospital beds, Intensive Care beds and ventilators per capita than almost all other countries.
 Our industry can mobilize to manufacture respirators and we can improvise empty convention centers and other spaces to hospital beds.
-Effects on Our Lives
-The Economic Impact of the Corona virus is going to be very severe.
+Effects on Our Lives The Economic Impact of the Corona virus is going to be very severe.
 There will be loss of income for most families.
 Travel, hotel, restaurant, retail, manufacturing, education, sports, entertainment and almost all sectors of our economy are suffering.
 The financial markets are a measure of future economic activity and are in a major downturn.
@@ -1353,8 +1172,7 @@ The Social Impact of less personal contact with friends, and office co-workers, 
 The Stress of income loss, being confined to the home, caring for children out of school, concerns about their education, keeping the family engaged, possible interruptions in food and medical supplies and negative effects of the news media reports can cause personal difficulties.
 Cancellation of Church services is a deep loss at such times.
 But, God is always with us!
-What the Government Can Do
-At the federal level, President Trump and the political parties do appear to be moving towards a package of economic assistance for individuals and businesses.
+What the Government Can Do At the federal level, President Trump and the political parties do appear to be moving towards a package of economic assistance for individuals and businesses.
 Direct payments to citizens are expected within weeks.
 The State of Tennessee, Governor Bill Lee and the Legislature are committed to help Tennesseans through this difficult time.
 On Thursday, March 19, 2020, our Legislative Session ended at 11:19 pm after passing a balanced State Budget!
@@ -1373,11 +1191,8 @@ We have dedicated scientists and public servants.
 I have great faith in American ingenuity.
 With prayer and love for each other, we should overcome the challenges of this time.
 Let us join our Governor and leaders in prayer for our State and our Nation.
-God Bless!
-64
-The Health of Our State
-Robertson County Connection, Feb 28. 2020
-It is always great to hear the shout, “We are Number One!” There is a special joy when the subject of the shout is our great State of Tennessee.
+God Bless! ____________________________________________________________________________________________________________ 64 ​The Health of Our State Sabi 'Doc' Kumar MD Robertson County Connection, Feb 28.
+2020 It is always great to hear the shout, “We are Number One!” There is a special joy when the subject of the shout is our great State of Tennessee.
 We heard this shout recently when Tennessee was rated number one in the nation for financial soundness.
 We are, financially, the best managed and the best run state among all the fifty states in our great United States of America.
 We have no debt.
@@ -1413,11 +1228,7 @@ It should begin at home but our schools, too, should be the training grounds for
 As we provide good nutrition to our children, we must also assure that they learn about nutrition so that it becomes a way of life leading to good health for life!
 We have to overcome the difficulty that our southern cooking is sooo good and we eat tooo much!
 Help us, O God!
-Thus I pray!
-63
-Prayer at the Legislature
-Robertson County Connection, Jan 28, 2020
-The 111th General Assembly of the Great State of Tennessee convened, as required by the Tennessee Constitution, on January 8, 2019.
+Thus I pray! ____________________________________________________________________________________________________________________ ​ 63 Prayer at the Legislature Sabi 'Doc' Kumar MD Robertson County Connection, Jan 28, 2020 The 111th General Assembly of the Great State of Tennessee convened, as required by the Tennessee Constitution, on January 8, 2019.
 Legislative sessions always open with significant elements of pomp, ceremony and procedure that flavor the institution with an air of majesty and tradition.
 The spectacles of the opening ceremonies and rituals bring order and dignity to the proceedings.
 A very important part of these opening ceremonies is the offering of a prayer.
@@ -1439,32 +1250,18 @@ It is a virtue in the great State of Tennessee that each session of the Legislat
 This is the moment that we reflect upon the sacrifices of those who have, and those who continue, to defend our nation and our values.
 I was, truly, honored to be asked to be ‘The Chaplain of the Day’ on Friday, January 18, 2019.
 The Scripture tells us that God listens to Prayer.
-With the members of the Tennessee House of Representatives of the 111th General Assembly, valued staff and honored guests in the gallery, all standing, I prayed:
-Almighty God
-We thank you for the Gifts of Life and Liberty,
-Love & Family,
-And This Amazing Creation of Yours that We call Our Universe.
-We thank you for the Air that we Breathe, the Water that we Drink and
-the Earth that we walk upon.
+With the members of the Tennessee House of Representatives of the 111th General Assembly, valued staff and honored guests in the gallery, all standing, I prayed: Almighty God We thank you for the Gifts of Life and Liberty, Love & Family, And This Amazing Creation of Yours that We call Our Universe.
+We thank you for the Air that we Breathe, the Water that we Drink and the Earth that we walk upon.
 We Thank You for the Seed That we Sow and the Fruit that We Harvest.
-We are Grateful, O Lord, for the Gift of Democracy
-And a Republic that is Of the People, By the People and For the People.
-May we always remember that we are here to serve
-And Whom we serve.
-We pray for Wisdom that comes only from You
-And the Courage to follow your Command.
+We are Grateful, O Lord, for the Gift of Democracy And a Republic that is Of the People, By the People and For the People.
+May we always remember that we are here to serve And Whom we serve.
+We pray for Wisdom that comes only from You And the Courage to follow your Command.
 We pray that our actions, decisions and demeanors are pleasing to you!
-We know, O Lord, that we will disagree,
-Help us to remember Your Command to Love Each Other!
+We know, O Lord, that we will disagree, Help us to remember Your Command to Love Each Other!
 Thus, we Pray in the Name of your Son!
 Amen!
 Considering that this session marks a new beginning for our Legislature, our newly elected Governor and his administration, let us pray for all success for our state and her people!
-May God Bless!
-62
-Daylight Saving Time
-Sabi ‘Doc’ Kumar MD
-Robertson County Connection, Nov 26,, 2019
-If you could “save time in a bottle”, would it be Daylight Saving Time, also called DST?
+May God Bless! ___________________________________________________________________________________________________________ 62 Daylight Saving Time Sabi ‘Doc’ Kumar MD Robertson County Connection, Nov 26,, 2019 If you could “save time in a bottle”, would it be Daylight Saving Time, also called DST?
 In Robertson County, we are almost evenly divided about the benefits and the difficulties of this twice a year ritual in which we continue to ‘Spring Forward and Fall Back’.
 It all began with my favorite founding father, Ben Franklin, when he was the US Ambassador to France in 1778.
 Making fun of the late night habits of the Parisians, Franklin thought that they could save on candles by getting to bed early, and rising earlier in the morning to use more of the natural day light.
@@ -1490,12 +1287,7 @@ Employee work efficiency is known to fall.
 In 2017, researchers at the University of Washington and the University of Virginia reported that judges who experienced sleep deprivation, as a result of clock shift, tended to issue longer sentences!
 No wonder patients frequently ask me if I got a good night’s sleep when I see them before surgery!
 One fact is certain.
-No matter how or when we set the clock, there will always be 24 hours in a day!
-61
-The Real Solution to Robocalls
-Sabi ‘Doc’ Kumar MD
-Robertson County Connection, Sep 3, 2019
-A very dear friend of mine, recently, turned 65.
+No matter how or when we set the clock, there will always be 24 hours in a day! ___________________________________________________________________________________________ 61 The Real Solution to Robocalls Sabi ‘Doc’ Kumar MD Robertson County Connection, Sep 3, 2019 A very dear friend of mine, recently, turned 65.
 It is a milestone in our lives.
 It is a happy occasion, with mixed feelings about aging and times past.
 Of course there are, also, the obligatory jokes about wheelchairs and nursing homes.
@@ -1539,12 +1331,8 @@ Presently, we the citizens are paying for the lines, poles, equipment and person
 That is not fair.
 This idea has been encouraged by many.
 Pray that our Congress will listen.
-God Bless!
-_______________________________________________________________________________________
-60
-Do You Wanna Be The Speaker?
-Robertson County Connection, Jul 27, 2019
-Would you like to be the Speaker of the Tennessee House of Representatives?
+God Bless! _______________________________________________________________________________________ 60 Do You Wanna Be The Speaker?
+Sabi 'Doc' Kumar MD Robertson County Connection, Jul 27, 2019 Would you like to be the Speaker of the Tennessee House of Representatives?
 You may not make it, but you can certainly try!
 Surprisingly, the Constitution of our Great State does not list the qualifications for a Speaker of the Tennessee Legislature.
 Section 11, Article II states that, “ The Senate and the House of Representatives, when assembled, shall each choose a speaker and its other officers; be judges of the qualifications and election of its members..”.
@@ -1586,19 +1374,12 @@ I am certain that he will restore integrity and independence of our members.
 Speaker Sexton has strong moral values and principles.
 Let us wish the very best for him and his family.
 His success will also be success for Tennessee!
-God Bless!
-___________________________________________________________________________________________________________________
-59
-They Aren't Working Doc!
-Sabi 'Doc Kumar MD
-Robertson County Connection, Jul 2, 2019
-Smokey Barn News, Jun 30, 2019
-So said a ‘distinguished Southern Gentleman in overalls’, as he slid into the bench across the table from me, at the 63rd Annual Martin’s Chapel BBQ.
+God Bless! ___________________________________________________________________________________________________________________ 59 They Aren't Working Doc!
+Sabi 'Doc Kumar MD Robertson County Connection, Jul 2, 2019 Smokey Barn News, Jun 30, 2019 So said a ‘distinguished Southern Gentleman in overalls’, as he slid into the bench across the table from me, at the 63rd Annual Martin’s Chapel BBQ.
 I have heard this lament, off and on, and ever since I was able to get the Highway 431 South widening project started.
 The project had been on the books, and in somebody’s desk drawer, for years.
 As I have said before, road construction is harder than doing surgery!
-With time, the question has changed from, “When are they going to get started?” to “When are they going to finish?” This reminds me of a road trip with my family and the forever question, “Are we there yet?”
-As I prepared to answer the question, the ‘distinguished Southern Gentleman in overalls’, he engaged the folks in conversation about the severe winds, heavy rains, fallen trees and summer garden.
+With time, the question has changed from, “When are they going to get started?” to “When are they going to finish?” This reminds me of a road trip with my family and the forever question, “Are we there yet?” As I prepared to answer the question, the ‘distinguished Southern Gentleman in overalls’, he engaged the folks in conversation about the severe winds, heavy rains, fallen trees and summer garden.
 Then, he got busy with a few plates of barbecue.
 I can understand.
 It is very good barbecue and, after all, it is the reason we were there!
@@ -1627,12 +1408,7 @@ I want the folks at TDOT to be our friends!
 Many of them live in our county.
 We will need them to plow the snow off our roads every winter and repair the potholes every spring!
 “Appreciate what you are doing, Doc,” said the ‘distinguished Southern Gentleman in overalls,’ as we finished the chocolate, pecan and nuts pie.
-God Bless!
-58
-Tumultuous Times in the House
-Sabi 'Doc Kumar MD
-Robertson County Connection, Jun 11, 2019
-On June 1, 1796, Tennessee became the 16th state of these great United States of America!
+God Bless! _______________________________________________________________________________________________________________________ ​​ 58 Tumultuous Times in the House Sabi 'Doc Kumar MD Robertson County Connection, Jun 11, 2019 On June 1, 1796, Tennessee became the 16th state of these great United States of America!
 As my wife Linda and I celebrated the 223rd Birthday of our state, we looked back on the 2019 session of the Tennessee House of Representatives in the111th General Assembly.
 Despite good legislative achievements, the end of the session was marred by reports of offensive racial and sexual text messages between our Speaker and his chief of staff.
 It was tragic to witness the spectacular failure of these successful men.
@@ -1671,11 +1447,7 @@ We will elect a new Speaker.
 There are several good candidates.
 I pray that our integrity and good moral values will be restored and upheld.
 We owe it to our good citizens.
-God Bless Tennessee and the United States of America!
-57
-Faith and Addiction
-The Robertson County Connection, April 9, 2019
-When Stevie Wonder’s, “Signed, Sealed, Delivered, I’m Yours” becomes “Saved, Healed, Delivered, I’m Yours”, the church is rockin’!
+God Bless Tennessee and the United States of America! __________________________________________________________________________________ 57 Faith and Addiction Sabi 'Doc' Kumar MD The Robertson County Connection, April 9, 2019 When Stevie Wonder’s, “Signed, Sealed, Delivered, I’m Yours” becomes “Saved, Healed, Delivered, I’m Yours”, the church is rockin’!
 This congregation is different.
 The focus is on recovery from addiction, through faith and prayer.
 A few weeks ago, my wife and I visited the Covenant Confirmers Church in Springfield.
@@ -1725,10 +1497,7 @@ It was, truly, a spiritual experience!
 The road to recovery from addiction is complex and long.
 There are many options.
 For these bikers, and their families, the Covenant Confirmers Church provides a great promise with the love and support that they need.
-May God continue to bless this journey for all!
-56
-The Robertson County Connection, Jan 28, 2019
-The 111th General Assembly of the Great State of Tennessee convened, as required by the Tennessee Constitution, on January 8, 2019.
+May God continue to bless this journey for all!​​ ___________________________________________________________________________________________________________ 56 Prayer at the Legislature Sabi 'Doc' Kumar MD T he Robertson County Connection, Jan 28, 2019 The 111th General Assembly of the Great State of Tennessee convened, as required by the Tennessee Constitution, on January 8, 2019.
 Legislative sessions always open with significant elements of pomp, ceremony and procedure that flavor the institution with an air of majesty and tradition.
 The spectacles of the opening ceremonies and rituals bring order and dignity to the proceedings.
 A very important part of these opening ceremonies is the offering of a prayer.
@@ -1750,31 +1519,18 @@ It is a virtue in the great State of Tennessee that each session of the Legislat
 This is the moment that we reflect upon the sacrifices of those who have, and those who continue, to defend our nation and our values.
 I was, truly, honored to be asked to be ‘The Chaplain of the Day’ on Friday, January 18, 2019.
 The Scripture tells us that God listens to Prayer.
-With the members of the Tennessee House of Representatives of the 111th General Assembly, valued staff and honored guests in the gallery, all standing, I prayed:
-Almighty God
-We thank you for the Gifts of Life and Liberty,
-Love & Family,
-And This Amazing Creation of Yours that We call Our Universe.
-We thank you for the Air that we Breathe, the Water that we Drink and
-the Earth that we walk upon.
+With the members of the Tennessee House of Representatives of the 111th General Assembly, valued staff and honored guests in the gallery, all standing, I prayed: Almighty God We thank you for the Gifts of Life and Liberty, Love & Family, And This Amazing Creation of Yours that We call Our Universe.
+We thank you for the Air that we Breathe, the Water that we Drink and the Earth that we walk upon.
 We Thank You for the Seed That we Sow and the Fruit that We Harvest.
-We are Grateful, O Lord, for the Gift of Democracy
-And a Republic that is Of the People, By the People and For the People.
-May we always remember that we are here to serve
-And Whom we serve.
-We pray for Wisdom that comes only from You
-And the Courage to follow your Command.
+We are Grateful, O Lord, for the Gift of Democracy And a Republic that is Of the People, By the People and For the People.
+May we always remember that we are here to serve And Whom we serve.
+We pray for Wisdom that comes only from You And the Courage to follow your Command.
 We pray that our actions, decisions and demeanors are pleasing to you!
-We know, O Lord, that we will disagree,
-Help us to remember Your Command to Love Each Other!
+We know, O Lord, that we will disagree, Help us to remember Your Command to Love Each Other!
 Thus, we Pray in the Name of your Son!
 Amen!
 Considering that this session marks a new beginning for our Legislature, our newly elected Governor and his administration, let us pray for all success for our state and her people!
-May God Bless!
-55
-A Good Government
-The Robertson County Connection, Oct 23, 2018
-A government that is “of the people, for the people, by the people,” certainly, should listen to the people!
+May God Bless! _____________________________________________________________________________________________________________ 55 A Good Government Sabi 'Doc' Kumar MD The Robertson County Connection, Oct 23, 2018 A government that is “of the people, for the people, by the people,” certainly, should listen to the people!
 Otherwise, it has been called a government “of the asses, for the masses, by the classes!” Being a small part of the large enterprise, that is our government today, it is my hope that I am a part of the good government, a government that listens to the people!
 One form of listening is that voters convey their opinions to the government through voting.
 Voting, however, occurs every two years or later.
@@ -1814,12 +1570,7 @@ The design is changed and the concrete median will be replaced by a turn lane.
 It was a gratifying experience for me and the Highway 431 South business community.
 A high compliment to me from a member of this group was that I am a “Representative” and not a “politician”!
 I am thankful for the role these businessmen played in making our government good!
-God Bless!
-54
-The Slippery Slope of Negative Campaigning
-Sabi 'Doc' Kumar MD
-The Tennessean Sep 23, 2018
-The urge to attack an opponent is not a new disease!
+God Bless! ____________________________________________________________________________________________________ __________________ ​ 54 The Slippery Slope of Negative Campaigning Sabi 'Doc' Kumar​ MD The Tennessean Sep 23, 2018 The urge to attack an opponent is not a new disease!
 Candidates in the recent primary election season, however, seemed to be exceptionally prone to it.
 Tennessee voters saw an avalanche of negative campaign ads and mailings.
 Being a relative newcomer to politics, I was surprised that folks who know each other and see each other up close at various functions and forums, are able to attack each other, sometimes even with non-truths.
@@ -1852,13 +1603,7 @@ Never mind the ethics, the ratings are great!Considering that negative campaigni
 The best route to success should be the message of hope, service and the contribution that a candidate will make.
 Just old-fashioned goodness!
 It seems to work most of the time, but there are no guarantees.
-Its politics!
-_____________________________________________________________________________________
-53
-State Representative Report
-Sabi 'Doc' Kumar MD Robertson County Connection Jul 17, 2018
-Six Reasons to Vote
-As Linda and I went to the 4th of July activities around Robertson County, the spirit of America and American Democracy was vibrant indeed!
+Its politics! _____________________________________________________________________________________ 53 State Representative Report Sabi 'Doc' Kumar MD Robertson County Connection Jul 17, 2018 Six Reasons to Vote As Linda and I went to the 4th of July activities around Robertson County, the spirit of America and American Democracy was vibrant indeed!
 The ceremony at Thomas Kilgore cemetery honors a pioneer and veteran of the American Revolutionary War, who founded the town of Cross Plains.
 A re-enactment of the period, conducted in 18th century costumes, surrounded by the morning dew and the mist has a scenic quality that reminds us that a Republic was created and Monarchy was banished.
 When asked, “What have we got, a republic or a monarchy?” Ben Franklin answered, “A republic, if you can keep it!” The first reason to vote is to keep our republic and honor the founders of our nation.
@@ -1905,13 +1650,7 @@ Let us understand the candidates and support those who uphold our Tennessee valu
 Let us hope that our candidates are good and honest.
 Let us ask them to avoid mudslinging.
 Let us ask them to serve for the love of God and Our Country!
-Let us pray that God continue to Bless America and her people!
-_____________________________________________________________________________________
-52
-State Representative Report
-Robertson County Connection Jun 12, 2018
-Legislation: Breast Cancer and Breast Density
-As a surgeon, I see women with breast cancer.
+Let us pray that God continue to Bless America and her people! _____________________________________________________________________________________ 52 State Representative Report Sabi 'Doc' Kumar MD Robertson County Connection Jun 12, 2018 Legislation: Breast Cancer and Breast Density As a surgeon, I see women with breast cancer.
 They are often surprised and hurt when they are told of the diagnosis.
 It is a difficult task.
 Physicians take courses on how to deliver such news to patients.
@@ -1958,12 +1697,7 @@ Sen.
 Janice Bowling sponsored this legislation in the Senate.
 We wanted the letter to be clear, easy to understand and without medical jargon.
 Tennessee Radiological Society representatives, including the president, were most helpful.
-House Bill 2364 was passed into law and signed by Gov Bill Haslam on April 23, 2018 to become Public Chapter 750.
-_______________________________________________________________________________________
-51
-State Representative Report
-Sabi 'Doc' Kumar MD Robertson County Connection May 22, 2018
-God Bless the Graduates!
+House Bill 2364 was passed into law and signed by Gov Bill Haslam on April 23, 2018 to become Public Chapter 750. _______________________________________________________________________________________ 51 State Representative Report Sabi 'Doc' Kumar MD Robertson County Connection May 22, 2018 ​God Bless the Graduates!
 May is the month of flowers and spring plantings as we look forward to the joys of summer!
 It is, also, the month of Graduations.
 There are eight high school Graduations in our county and a host of Homeschoolers completing their high school studies!
@@ -1973,8 +1707,7 @@ They, also, get a lot of advice!
 A very wise old man once said, ”When you plan for a Day, Plant a Garden.
 When you plan for a Decade, Plant Trees.
 When you plan for Life, Get an Education!”.
-I follow this with a personal message:
-Congratulations Graduates!
+I follow this with a personal message: Congratulations Graduates!
 A high school graduation is an important milestone in your education and life.
 You have now started a journey.
 Please don’t ever stop learning.
@@ -2013,17 +1746,11 @@ Remember the special teachers who loved, taught and nurtured you.
 Stay in touch with friends.
 And, above all, may God be forever with you and you with Him!
 Congratulations Graduates of the Class of 2018!
-God Bless and Go get ‘em!
-__________________________________________________________________________________
-50
-State Representative Report
-Sabi 'Doc' Kumar MD SmokeyBarn News Apr 12, 2018
-Thank You Robertson County!
+God Bless and Go get ‘em! __________________________________________________________________________________ 50 State Representative Report Sabi 'Doc' Kumar MD SmokeyBarn News Apr 12, 2018 Thank You Robertson County!
 Yes, My Friends!
 I thank you for the honor to serve as your State Representative in the Tennessee Legislature, from District 66 since 2014.
 I am proud of my service and I wish to continue.
-I ask for Your Vote and Support because:
-1.
+I ask for Your Vote and Support because: 1.
 I Have Served the People.
 I always respond to all calls, messages, emails and letters.
 It is a habit because, as a surgeon, I have done this for my patients over the last 40 years.
@@ -2055,8 +1782,7 @@ I Give Back to Our Community.
 I donate my salary to local causes and civic organizations.
 This is my way to give back to a community that has given me everything that I have, including my wife Linda – 36 great years!
 5.
-Looking Ahead
-I have set a foundation of trust, friendship, and honesty with citizens and fellow legislators.
+Looking Ahead I have set a foundation of trust, friendship, and honesty with citizens and fellow legislators.
 They seek and value my opinions.
 My newspaper articles have regularly kept you informed.
 I have passed and supported meaningful laws.
@@ -2064,13 +1790,7 @@ I must thank my wife Linda and our daughter Nina for their love, support, help -
 My Friends, elections are key to our democracy.
 Please pray for God’s Guidance and think seriously.
 I ask for your vote and thank you for the trust you have placed in me!
-God Bless You and Our Nation!
-__________________________________________________________________________
-49
-State Representative Report
-Sabi 'Doc' Kumar MD Robertson County Connection Apr 3, 2018
-Ken Gamble and the Orange Heart
-Most of us know of a veteran who has received a Purple Heart.
+God Bless You and Our Nation! __________________________________________________________________________ 49 State Representative Report Sabi 'Doc' Kumar MD Robertson County Connection Apr 3, 2018 Ken Gamble and the Orange Heart Most of us know of a veteran who has received a Purple Heart.
 It is our nation’s expression of gratitude to the brave soldiers who have suffered an injury or made the ultimate sacrifice in service to our country.
 The 29th of March, last week, was remembered as Vietnam Veterans Day.
 When I meet with veterans in our community, memories of that war are painful.
@@ -2107,14 +1827,7 @@ Instead, they have created a caring community of veterans that continues to serv
 Thank you Ken.
 Thank you Veterans.
 God Bless!
-I invite you to visit and support the Orange Heart Medal Foundation at www.OrangeHeartMedal.org.
-_____________________________________________________________________________
-48
-State Representative Report
-Sabi 'Doc' Kumar MD Robertson County Connection Mar 23, 2018
-The Social Promotion Conundrum
-Sabi Doc Kumar MD
-Under the leadership of Governor Bill Haslam, our state has made significant progress in education.
+I invite you to visit and support the Orange Heart Medal Foundation at www.OrangeHeartMedal.org. _____________________________________________________________________________ 48 State Representative Report Sabi 'Doc' Kumar MD Robertson County Connection Mar 23, 2018 The Social Promotion Conundrum Sabi Doc Kumar MD Under the leadership of Governor Bill Haslam, our state has made significant progress in education.
 From perennially being in the second last spot (49 out of 50 states), Tennessee has moved to number 35 in National Assessment of Educational Progress (NAEP) ratings.
 In this report card, we are the fastest improving state!
 As a Legislator and a member of the Education Instruction & Programs Committee in the Tennessee House of Representatives, I am concerned about another statistic.
@@ -2146,12 +1859,7 @@ As we worry about the world that we will leave for our children and grandchildre
 Our state budget surpluses, have allowed us to invest the largest ever sums of money towards education.
 It is time to invest to eliminate social promotion that condemns so many lives.
 In Mark Twain’s Big River, mama knew the value of reading as she told Huck, “Looka here Huck, do you wanna go to heaven / If you don't learn to read then you can't read your Bible / And you'll never get to heaven cause you won't know how”.
-We should listen to mama!
-_________________________________________________________________________________
-47
-State Representative Report
-Sabi 'Doc' Kumar MD Robertson County Connection Jan 23, 2018
-Scenes of Robertson County at the Tennessee Legislature!
+We should listen to mama! _________________________________________________________________________________ 47 State Representative Report Sabi 'Doc' Kumar MD Robertson County Connection Jan 23, 2018 Scenes of Robertson County at the Tennessee Legislature!
 The cold weather of January also marks the beginning of the annual Legislative Session of the Tennessee General Assembly.
 A major change in the legislative scene this year is the move of the Legislator Offices from the historic War Memorial Building, (affectionately called the WMB) to the newly renovated Cordell Hull Building (affectionately to be called the CHB).
 It is a welcome move as the old WMB certainly needs repairs and re-assignment to a useful purpose.
@@ -2195,13 +1903,7 @@ Finally, let us not forget that these are critical times for our nation.
 Please join me in prayer.
 The Legislature will consider major issues that affect our lives and the lives of our fellow citizens.
 I pray that my fellow Legislators and I will work together to reach the best solutions.
-God Bless our State and our Nation!
-___________________________________________________________________________
-46
-State Representative Report
-Sabi 'Doc' Kumar MD Robertson County Connection Dec 12, 2017
-The Pleasures of Parades
-A parade is a ‘procession of people’ to celebrate an occasion!
+God Bless our State and our Nation!​ ___________________________________________________________________________ 46 State Representative Report Sabi 'Doc' Kumar MD Robertson County Connection Dec 12, 2017 The Pleasures of Parades A parade is a ‘procession of people’ to celebrate an occasion!
 Participants are often in costume, accompanied by marching bands, floats, antique or decorated vehicles and balloons.
 Sounds like fun!
 It is, indeed, a pleasure for Linda and me to participate in all eight Christmas Parades in Robertson County.
@@ -2240,13 +1942,7 @@ For Linda and me, a great memory is the scrambles and shrieks of excited kids as
 Indeed candy is dandy, but we must watch for the safety of these children!
 Let us remember that, in all these celebrations, the reason for the season is written on our hearts.
 Says Jesus, in John 15:12, “My command is this: Love each other as I have loved you”.
-Merry Christmas and God Bless!
-__________________________________________________________________________
-45
-State Representative Report
-Sabi 'Doc' Kumar MD Robertson County Connection, Aug 21, 2017
-Me and My Shadow
-As the fall semester ends, I think of our young students and hope that they are doing well in their studies.
+Merry Christmas and God Bless! __________________________________________________________________________ 45 State Representative Report Sabi 'Doc' Kumar MD Robertson County Connection, Aug 21, 2017 Me and My Shadow As the fall semester ends, I think of our young students and hope that they are doing well in their studies.
 As your State Representative, it has been a special privilege for Linda and me to attend High School Graduations in our county.
 Yes, we attend all eight graduations every year!
 When I speak, and present proclamations at these ceremonies, I invite the students to come and follow me for a day in my surgery practice.
@@ -2285,13 +1981,7 @@ Financial resources are available for technical, university and professional sch
 I caution them about student loans.
 I wish these bright, young students well as they embark on the journey of personal and professional success.
 I pray that they will be a blessing to our society.
-God Bless them all!
-__________________________________________________________________________________
-44
-State Representative Report
-Sabi 'Doc' Kumar MD Robertson County Connection, Aug 21, 2017
-Christopher Columbus and the Eclipse
-It is true that knowledge is power!
+God Bless them all! __________________________________________________________________________________ 4 4 State Representative Report Sabi 'Doc' Kumar MD Robertson County Connection, Aug 21, 2017 ​Christopher Columbus and the Eclipse It is true that knowledge is power!
 The knowledge of astrology and an almanac saved Christopher Columbus from starvation, in 1503, during his fourth and final voyage from Spain to the New World, that we call America today.
 Lost on the seas during his first voyage in 1492, Columbus came ashore an island that saved his life.
 He named it San Salvador, which means ‘Holy Savior’.
@@ -2305,7 +1995,8 @@ There were arguments and fights.
 A famine was also threatening!
 Because he had knowledge, Christopher Columbus had a plan.
 Like most sailors, he traveled with an almanac.
-As he studied the tables, he discovered that on the evening of Thursday, Feb. 29, 1504, a total lunar eclipse would occur.
+As he studied the tables, he discovered that on the evening of Thursday, Feb.
+29, 1504, a total lunar eclipse would occur.
 After confirming his facts, Columbus told the Arawak Chief that God was angry with him and his people.
 Three nights hence, Columbus said, God will obliterate the rising moon to show his wrath and more evils will soon be inflicted upon them.
 On the appointed evening, as the sun set in the west and the moon emerged from the eastern horizon, something was terribly wrong.
@@ -2327,15 +2018,8 @@ It is a known practice to ask an astrologer to draw the exact alignment of the p
 These tables are believed to offer predictions for the future.
 I hope that your eclipse experience was memorable.
 Let us remember to marvel at the immense beauty and mystery of God’s creation!
-Thanks be to God!
-__________________________________________________________________________________
-43
-State Representative Report
-Sabi 'Doc' Kumar MD Robertson County Connection, Jul 4, 2017
-The Story of the Fourth of July
-“The second day of July, 1776, will be the most memorable epoch in the history of America.
-I am apt to believe that it will be celebrated by succeeding generations as the great anniversary!”
-These words were written by John Adams, the first Vice President and later, the second President of the United States, in a letter to his wife, Abigail, on the 3rd of July, 1776.
+Thanks be to God! __________________________________________________________________________________ 43 State Representative Report Sabi 'Doc' Kumar MD Robertson County Connection, Jul 4, 2017 The Story of the Fourth of July “The second day of July, 1776, will be the most memorable epoch in the history of America.
+I am apt to believe that it will be celebrated by succeeding generations as the great anniversary!” These words were written by John Adams, the first Vice President and later, the second President of the United States, in a letter to his wife, Abigail, on the 3rd of July, 1776.
 No, President Adams was not confused about the date of the Independence Day of our country!
 He wrote these words to his dear Abigail, after he voted in the Second Continental Congress to approve a Resolution for Independence of the United States.
 Let us explore history to learn why we celebrate the Independence Day on the 4th of July.
@@ -2350,7 +2034,7 @@ This committee included John Adams, Benjamin Franklin, Robert Livingston, Roger 
 Congress debated and revised the wording of the Declaration and approved it two days later on July 4, 1776.
 Although grateful for the approval, Thomas Jefferson agonized over the revisions to his masterful work.
 This historic document was actually signed on August 2, 1776.
-These happenings of 241 years ago are of great historic interest.
+These happenings of #ago are of great historic interest.
 Two members of the Committee of Five went on to be President of the United States.
 John Adams defeated Thomas Jefferson to become the second President, taking the place of George Washington.
 Four years later, Jefferson defeated Adams to become the 3rd President.
@@ -2367,13 +2051,7 @@ With such grand historical events, it is fitting that modern America has added h
 The 4th of July is the biggest hot dog holiday of the year!
 We have also added fireworks, parades, barbecues, carnivals, fairs, picnics, concerts, baseball games, family reunions, political speeches and ceremonies!
 Happy Birthday America!
-God Bless!
-___________________________________________________________________________________________
-42
-State Representative Report
-Sabi 'Doc' Kumar MD Robertson County Connection, Jun 6, 2017
-A Memory That Brings Us Together
-Linda and I hope that you and your family had a great Memorial Day and weekend.
+God Bless! ___________________________________________________________________________________________ 42 State Representative Report Sabi 'Doc' Kumar MD Robertson County Connection, Jun 6, 2017 A Memory That Brings Us Together Linda and I hope that you and your family had a great Memorial Day and weekend.
 It is time that we spend with friends, family and neighbors, as we explore the joys of summer.
 It is also the time that we pause and reflect upon the meaning and the significance of Memorial Day.
 In these divisive times, Memorial Day is the memory that can bring us together as Americans.
@@ -2407,16 +2085,7 @@ On their grave the rain falls from the eyes of a grateful nation!
 The Glory is theirs.
 The Duty is ours!
 God Bless our heroes and their families.
-God Bless The United States of America!
-___________________________________________________________________________________________
-41
-State Representative Report
-Sabi 'Doc' Kumar MD The Tennessean, May 5, 2017
-Robertson County Connection, May 16, 2017
-The Robertson County Times, May 24, 2017
-Political Polarization and the National Mood
-Sabi ‘Doc’ Kumar MD
-For the past several years, we are aware of political polarization in Washington.
+God Bless The United States of America! ___________________________________________________________________________________________ 41 State Representative Report Sabi 'Doc' Kumar MD The Tennessean, May 5, 2017 Robertson County Connection, May 16, 2017 The Robertson County Times, May 24, 2017 Political Polarization and the National Mood Sabi ‘Doc’ Kumar MD For the past several years, we are aware of political polarization in Washington.
 Based on ideological grounds, there has been increasing separation among our elected and appointed elite.
 Sharing a meal, time at the gym or participation in groups including Bible study or a music band are known to have split along party lines.
 We heard about this divide, vaguely.
@@ -2463,13 +2132,7 @@ That is too much to ask of a 12 year old, I tell myself.
 But, I do know that, age 12 is an important time to teach her about respect.
 If she is not taught to respect age, authority or leadership, will she respect her parents?
 I hope that we will remember to teach our children the values that will serve them, and our nation, well.
-Sabi ‘Doc’ Kumar MD is State Representative from District 66, Robertson County.
-___________________________________________________________________________________________
-40
-State Representative Report
-Sabi 'Doc' Kumar MD The Robertson County Connection, Mar 30, 2017
-About The Gas Tax
-Our beloved state of Tennessee is blessed with good economic conditions at this time.
+Sabi ‘Doc’ Kumar MD is State Representative from District 66, Robertson County. ___________________________________________________________________________________________ 40 State Representative Report Sabi 'Doc' Kumar MD The Robertson County Connection, Mar 30, 2017 About The Gas Tax Our beloved state of Tennessee is blessed with good economic conditions at this time.
 We have a balanced budget, low unemployment, AAA credit rating and a well-funded retirement plan.
 This is the result of sound fiscal and conservative policies.
 One result of this economic boom is traffic congestion.
@@ -2515,16 +2178,7 @@ I hope that I have been able to inform you.
 It is my duty.
 Please Pray for Wisdom.
 And give me your opinion at 615-741-2860 or Rep.Sabi.Kumar@Capitol.tn.gov.
-God Bless!
-___________________________________________________________________________________________
-39
-State Representative Report
-Sabi 'Doc' Kumar MD The Tennessean Mar 7, 2017
-Robertson County Connection,
-The Robertson County Times
-Later Dates
-Eleven Myths of Medical Marijuana
-Tennessee lawmaker and physician addresses realities of medicinal pot.
+God Bless! ___________________________________________________________________________________________ 39 State Representative Report Sabi 'Doc' Kumar MD The Tennessean Mar 7, 2017 Robertson County Connection, The Robertson County Times Later Dates Eleven Myths of Medical Marijuana Tennessee lawmaker and physician addresses realities of medicinal pot.
 Sabi "Doc" Kumar is a surgeon and state representative from District 66, Robertson County.
 Marijuana has medical value in certain conditions.
 Benefits for many more conditions are claimed, but medical proof is lacking.
@@ -2538,8 +2192,7 @@ Sadly, a matter that should be medical has become political.
 Misunderstandings and myths prevail.
 We must balance patients’ needs with societal consequences of plant marijuana legalization.
 Expert testimony before the Ad Hoc Taskforce on Opioid Abuse last month provided valuable answers.
-Many myths (in italics) were clarified:
-1.
+Many myths (in italics) were clarified: 1.
 Marijuana is safe: In Colorado, marijuana-related traffic deaths increased from 10 percent to 21 percent in five years.
 Today, 77 percent of DUIDs (driving under the influence of drugs) involve marijuana.
 Marijuana contains 50 percent to 70 percent more carcinogens than tobacco.
@@ -2589,13 +2242,8 @@ The Entourage Effect: Because there are more than a hundred trace cannabinoids i
 There are also more than 70 carcinogens in marijuana.
 In the FDA approved pill form, these have been removed.
 I hope that we can serve our patients by providing them “medical” marijuana, under medical supervision, and not a street drug.
-Sabi "Doc" Kumar is a surgeon and State Representative from District 66, Robertson County.
-___________________________________________________________________________________________
-38
-State Representative Report
-Sabi 'Doc' Kumar MD The Robertson County Connection, Feb 21. 2017
-The State of Tennessee May Have Money For You
-Office of the Tennessee State Treasurer says that citizens of Robertson County have $ 6,574,147.68 in unclaimed property and funds that are being held by the Treasurer.
+Sabi "Doc" Kumar is a surgeon and State Representative from District 66, Robertson County. ___________________________________________________________________________________________ 38 State Representative Report Sabi 'Doc' Kumar MD The Robertson County Connection, Feb 21.
+2017 The State of Tennessee May Have Money For You Office of the Tennessee State Treasurer says that citizens of Robertson County have $ 6,574,147.68 in unclaimed property and funds that are being held by the Treasurer.
 This fortune is waiting to be claimed by our citizens.
 This is really true.
 You can check it out at: www.claimitttn.gov.
@@ -2636,13 +2284,7 @@ First, remember to send me a thank you note.
 Second, please donate a portion to your church or charity.
 Third, do something fun!
 May the good fortune be yours.
-God Bless!
-___________________________________________________________________________________________
-37
-State Representative Report
-Sabi 'Doc' Kumar MD The Robertson County Connection, Jan 7, 2017
-The 110th General Assembly
-Politically, 2016 was a year like none!
+God Bless! ___________________________________________________________________________________________ 37 State Representative Report Sabi 'Doc' Kumar MD The Robertson County Connection, Jan 7, 2017 The 110th General Assembly Politically, 2016 was a year like none!
 Our national scene was polarized.
 Opinions on the far sides of the political spectrum were extreme.
 Respect for the other opinion, art of listening, courtesy and civility were lost.
@@ -2681,13 +2323,7 @@ Restoration of Veteran’s benefits is a priority.
 Governor Bill Haslam has met with us in small groups and will formally submit the budget proposal later this month.
 We have to remember that good times do not last.
 We must be careful with the public money and commit wisely.
-I feel truly honored to represent you and pray to God that we will have the wisdom to justify the public trust!
-___________________________________________________________________________________________
-36
-State Representative Report
-Sabi 'Doc' Kumar MD The Robertson County Connection, Oct 28, 2016
-The Anxiety of Election 2016
-If shaking of our heads, from side to side, would work as exercise, we will be a very fit and healthy nation, indeed!
+I feel truly honored to represent you and pray to God that we will have the wisdom to justify the public trust! ___________________________________________________________________________________________ 36 State Representative Report Sabi 'Doc' Kumar MD The Robertson County Connection, Oct 28, 2016 The Anxiety of Election 2016 If shaking of our heads, from side to side, would work as exercise, we will be a very fit and healthy nation, indeed!
 I am certain that you, also, have noticed this to be the most common response among folks when the matter of Presidential election comes up.
 Almost all agree that, at the national level, this is the most unusual election of our lifetime.
 All other news, especially international news, has been replaced by the reality TV spectacle of the current election.
@@ -2719,12 +2355,7 @@ We need leaders who are role models for our young people.
 We want to be proud and be able to point towards our leaders as we tell our children, grandchildren and great grandchildren what they should grow up to be!
 The choices at the national level are difficult and we face critical decisions about the direction of our society and our country.
 My hope is that this national circumstance leads us toward prayer, and toward God, just as we do when faced with difficult choices in everyday life.
-God Bless Our Nation! ___________________________________________________________________________________________
-35
-State Representative Report
-Sabi 'Doc' Kumar MD The Robertson County Connection, Oct 26, 2016
-The Most Dangerous Traffic Spot in Robertson County
-Even before I was elected to be your State Representative, I knew that the intersection of Highways 49 and 257 was a dangerous spot.
+God Bless Our Nation! ___________________________________________________________________________________________ 35 State Representative Report Sabi 'Doc' Kumar MD The Robertson County Connection, Oct 26, 2016 The Most Dangerous Traffic Spot in Robertson County Even before I was elected to be your State Representative, I knew that the intersection of Highways 49 and 257 was a dangerous spot.
 We passed through it when we visited my wife Linda’s parents.
 Many accidents have occurred at this intersection.
 I have personally known people who were seriously injured.
@@ -2766,17 +2397,10 @@ The seventh and final step is installation.
 The TDOT Engineers, Legislative Liaison, the Chief Engineer and the Commissioner have really been helpful.
 These are good Tennesseans.
 But we do not have the traffic signal yet!
-I continue to work, and pray that another accident does not happen while the process is moving.
-___________________________________________________________________________________________
-34
-State Representative Report
-Sabi 'Doc' Kumar MD The Robertson County Connection, Oct 19,2016
-Vote for ‘Doc’
-Yes My Friends!
+I continue to work, and pray that another accident does not happen while the process is moving. ___________________________________________________________________________________________ 34 State Representative Report Sabi 'Doc' Kumar MD The Robertson County Connection, Oct 19,2016 Vote for ‘Doc’ Yes My Friends!
 It is my Honor to serve as your State Representative to the Tennessee Legislature.
 I have really enjoyed my service during the last two years.
-I certainly want to continue and I Ask for Your Vote because:
-I Have Served the People.
+I certainly want to continue and I Ask for Your Vote because: I Have Served the People.
 I have answered all calls, messages, emails and letters as your State Rep just as I have, as a surgeon, for the last 39 years.
 When I receive a call for help with a state matter, I am able to connect with the state official who can help.
 Life being what it is, not all problems can be solved.
@@ -2811,8 +2435,7 @@ I Have Given Back to Our Community.
 As you know, I ran for this office so I could give back to my community that has given me everything I have, including my wife Linda – 35 great years!
 I donate my legislative salary to local Charities.
 I do not accept expense money from state.
-Looking Ahead
-I have set a foundation of trust, friendship, intellectual depth and honesty with the citizens and fellow legislators.
+Looking Ahead I have set a foundation of trust, friendship, intellectual depth and honesty with the citizens and fellow legislators.
 I plan to build upon it.
 Fellow Legislators have sought and valued my opinions in matters of healthcare, business and education.
 My priorities for the next year include healthcare, education and a strong economy.
@@ -2820,13 +2443,8 @@ Restoration of tax assistance for our Veterans and the disabled is a priority!
 My Friends, this is a critical year and a critical election for our nation.
 Please pray for God’s Guidance and think seriously.
 I ask for your vote and thank you for the trust you have placed in me!
-God Bless You and Our Nation!
-________________________________________________________________________________________
-33
-State Representative Report
-Sabi 'Doc' Kumar MD Robertson County Connection Sep 26. 20
-Feeling Special at the Legislature
-Upon a Proclamation issued by Governor Bill Haslam, under Article 3 Section 9 of our state constitution, the 109th General Assembly of the Tennessee Legislature met for a Special Session on September 12-14, 2016.
+God Bless You and Our Nation! ________________________________________________________________________________________ 33 State Representative Report Sabi 'Doc' Kumar MD Robertson County Connection Sep 26.
+20 Feeling Special at the Legislature Upon a Proclamation issued by Governor Bill Haslam, under Article 3 Section 9 of our state constitution, the 109th General Assembly of the Tennessee Legislature met for a Special Session on September 12-14, 2016.
 The names given, to this event, were a ‘Special Session’ or ‘Extraordinary Session’.
 In reality, it was both.
 I have a special feeling each time I enter the majestic House Chamber.
@@ -2856,12 +2474,7 @@ On a sad note, while in session, we also acted to expel one of our members accus
 I noted, on the floor of the House, that the Federal Government is selective in enforcement of Laws and Constitutional demands.
 Federal marijuana, marriage, and immigration laws are openly ignored by states and cities without consequences.
 I pray that our nation will return to the respect and enforcement of law in a consistent and open manner.
-God Bless!
-___________________________________________________________________________________
-32
-State Representative Report
-Sabi 'Doc' Kumar MD The Robertson County Connection, Aug 30, 2016
-The Check from Uncle Sam!
+God Bless! ___________________________________________________________________________________ 32 State Representative Report Sabi 'Doc' Kumar MD The Robertson County Connection, Aug 30, 2016 The Check from Uncle Sam!
 As your state representative, I discovered that the United States government pays about forty percent of the annual Tennessee State Budget.
 That is about $ 14 billion of about $ 36 billion total expense, of our state government.
 I assumed that this money comes to us from the taxes paid by our citizens and businesses.
@@ -2899,18 +2512,12 @@ Federal money comes with strings that pull on our liberties, freedoms and moral 
 It is adding to our gigantic national debt, for which we will be accountable.
 Federal threats to ‘withhold funding’ if we do not obey their social agenda should give us serious pause.
 With the current conservative, business-friendly policies, our state economy and financials are strong.
-God Bless Tennessee and the hard working Tennesseans!
-__________________________________________________________________________________________
-31
-State Representative Report
-Sabi 'Doc' Kumar MD The Robertson County Connection, Jul 30, 2016
-It is My Honor!
+God Bless Tennessee and the hard working Tennesseans! __________________________________________________________________________________________ 31 State Representative Report Sabi 'Doc' Kumar MD The Robertson County Connection, Jul 30, 2016 It is My Honor!
 Yes, My Friends!
 It is my Honor to serve as your State Representative to the Tennessee Legislature from District 66, Robertson County.
 I have really enjoyed my service during the last two years.
 I certainly want to continue and I ask for your Vote!
-I ask for Your Vote because:
-I Have Served the People.
+I ask for Your Vote because: I Have Served the People.
 I am proud to claim that I have answered all calls, messages, emails and letters.
 It is a natural habit because I have done this, as a surgeon, for the last 39 years.
 When I receive a call for help with a state matter, I am able to help or connect with the right person who can help.
@@ -2952,8 +2559,7 @@ I do not accept expense money from the state.
 I am giving back and I am thankful for the privilege and the blessing that it is!
 I am grateful to the Robertson County Connection for allowing me to publish 30 (thirty) articles in this paper during the last year and a half.
 These have allowed me to communicate and be in touch with you!
-Looking Ahead
-I have set a foundation of trust, friendship, intellectual depth and honesty with the citizens and fellow legislators.
+Looking Ahead I have set a foundation of trust, friendship, intellectual depth and honesty with the citizens and fellow legislators.
 I plan to build upon it.
 Fellow Legislators have sought and valued my opinions in matters of healthcare, business and education.
 Some of my priorities for the next session include bills to assure continuity of medical care, medical care by volunteer providers for those without insurance, prevention of surprise medical bills in out of network situations, pilot Leader In Me educational programs, pilot Horizon summer educational programs, mandatory sobriety monitoring for repeat DUI offenders and for those who committed their offense while under the influence.
@@ -2961,11 +2567,7 @@ Restoration of tax assistance for our Veterans and the disabled is a priority!
 My Friends, this is a critical year and a critical election for our nation and for our society.
 Please pray for God’s Guidance and think seriously.
 I ask for your vote and thank you for the trust you have placed in me!
-God Bless You and Our Nation! _______________________________________________________________________________________
-30
-State Representative Report
-SABI 'DOC' KUMAR MD The Robertson County Connection, Jul 26, 2016
-Do Local Elections Really Matter?
+God Bless You and Our Nation! _______________________________________________________________________________________ 30 State Representative Report SABI 'DOC' KUMAR MD The Robertson County Connection, Jul 26, 2016 Do Local Elections Really Matter?
 “This is the Most Important Election of Our Lifetime!” This phrase has been used often.
 We have heard it often.
 Well, my friends, it appears that this time, it might really be true.
@@ -2974,8 +2576,7 @@ This is the time to pray deeply!
 With controversial nominees for both major political parties, the national election has captured our attention.
 National media has played up the controversies, conflicts and personal attacks to boost ratings and profits.
 For a while, world events were scarcely reported because the sensationalized national news was low cost, easy to report and generated the buzz.
-In the frenzy of the 2016 Presidential election, let us not forget the importance of local politics
-We are not likely to meet Obama, Clinton or Trump at the grocery store but we do come across our local officials.
+In the frenzy of the 2016 Presidential election, let us not forget the importance of local politics We are not likely to meet Obama, Clinton or Trump at the grocery store but we do come across our local officials.
 These include the mayors, county commissioners, aldermen, sheriff, court clerks, trustees, registrars and property assessors.
 Our School Board members make critical decisions about the education of our children.
 They decide how our $ 92 million budget is spent, which new schools are built, which schools are renovated, which text books our children read.
@@ -3000,14 +2601,7 @@ That is my reason to vote!
 God bless our local leaders and volunteers!
 Issues of concern to our communities have the potential to pique the interest at state and national levels.
 So, I ask you to express your commitment in local government and always vote in local elections.
-Folks, local elections do really matter!
-________________________________________________________________________________________
-29
-State Representative Report
-SABI 'DOC' KUMAR The Robertson County Times, Jun 29, 2016
-The Robertson County Connection, Jun 27, 2016
-On Being American
-Two hundred and forty years ago, on the 4th of July, our founding fathers established a new nation and became Americans.
+Folks, local elections do really matter! ________________________________________________________________________________________ 29 State Representative Report SABI 'DOC' KUMAR The Robertson County Times, Jun 29, 2016 The Robertson County Connection, Jun 27, 2016 On Being American Two hundred and forty years ago, on the 4th of July, our founding fathers established a new nation and became Americans.
 Today, it is an important time for us to renew our thinking and to understand what it means to be an American.
 To me, the advice on this matter was given to me by two mothers, my Indian mother and my American mother!
 I arrived in New York on December 3, 1970 from India.
@@ -3023,7 +2617,7 @@ I should belong and assimilate.
 I should honor the kindness that I have received".
 America is the Land of Opportunity, the Land of the Free and the Home of the Brave.
 I know this to be true.
-That is why I arrived in America 46 years ago with thirty seven dollars in my pocket.
+That is why I arrived in America #ago with thirty seven dollars in my pocket.
 I, also, had something of immense value.
 And that was a medical degree.
 I had an internship waiting for me in Miami and a local family who had accepted me to stay with them as a foreign student.
@@ -3044,15 +2638,8 @@ And she gave me plenty of advice!
 When I was leaving Miami to come to Springfield she said,”Sabi, don’t be concerned if people see you as a foreigner.
 You are.
 You have to realize that, to some people, a person coming to Springfield from Nashville is a foreigner.
-Be a part of the community and they will love you just as we do.”
-For me, being an American, means to belong and not demand.
-Thank You, America and God Bless!
-___________________________________________________________________________________________
-28
-State Representative Report
-SABI 'DOC' KUMAR MD The Tennessean: May 29, 2016
-Obamacare Fails to Solve Healthcare Problems
-In 2008, Presidential Candidate Barrack Obama promised, “If you don’t have health insurance, you’re going to be able to buy the same kind of insurance that Senator McCain and I enjoy as federal employees.
+Be a part of the community and they will love you just as we do.” For me, being an American, means to belong and not demand.
+Thank You, America and God Bless! ___________________________________________________________________________________________ ​ 28 State Representative Report SABI 'DOC' KUMAR MD The Tennessean: May 29, 2016 Obamacare Fails to Solve Healthcare Problems In 2008, Presidential Candidate Barrack Obama promised, “If you don’t have health insurance, you’re going to be able to buy the same kind of insurance that Senator McCain and I enjoy as federal employees.
 Because there’s a huge pool, we can drop the costs”.
 Considering a Democratic majority in Congress at the time, the promise was deliverable.
 Instead, we have a failed promise and numerous problems.
@@ -3101,16 +2688,8 @@ So far, 26 methods are being developed for a cost of $10 billion!
 Although insurance is no longer denied because of pre-existing conditions and lifelong medical expenses are no longer capped at $1,000,000, Obamacare has failed to provide Americans with insurance like the one President Obama and Senator McCain carry.
 Medical illness is a threat to our health, life and financial well-being.
 Insurance hassles add stress and impair recovery.
-As a physician and a State Representative, I say Obamacare has failed to provide a solution for America’s healthcare needs.
-Note: This Article was published by The Tennessean as a Point - Counter Point Feature in the Opinion Section of the Sunday May 29, 2016 edition.
-The Counter Point was written by
-Stephen Entman MD, Professor of Ob-Gyn at Vanderbilt University).
-________________________________________________________________________________
-27
-SABI 'DOC' KUMAR MD RC Connection: May 16, 2016
-RC Times: June 8, 2016
-109th General Assembly Comes to A Close
-Do you think that Tennesseans should be allowed to have pet skunks?
+As a physician and a State Representative, I say Obamacare has failed to provide a solution for America’s healthcare needs. ​ Note: This Article was published by The Tennessean as a Point - Counter Point Feature in the Opinion Section of the Sunday May 29, 2016 edition.
+The Counter Point was written by Stephen Entman MD, Professor of Ob-Gyn at Vanderbilt University). ________________________________________________________________________________ 27 State Representative Report SABI 'DOC' KUMAR MD RC Connection: May 16, 2016 RC Times: June 8, 2016 109th General Assembly Comes to A Close ​Do you think that Tennesseans should be allowed to have pet skunks?
 Do you think that fantasy sports are a game of skill or gambling?
 Let us also remember that Law is an instrument to create a just and a fair society!
 The 2016 session of the 109th Tennessee General Assembly ended April 22, one day earlier than last year.
@@ -3141,12 +2720,7 @@ We put $100 million in our rainy day fund, increased K-12 education funding by $
 No taxes were raised.
 The other remarkable event of the session was a veto of the bill naming the Bible to be the State Book of Tennessee because of constitutional concerns and a feeling that the word of God deserves a higher place.
 The true meaning of the Bible is in our hearts.
-Pray that we are all so blessed!
-__________________________________________________________________________________________________
-26
-State Representative Report
-SABI 'DOC' KUMAR MD Published: April 18, 2016
-Bless My Heart!
+Pray that we are all so blessed!​ __________________________________________________________________________________________________ 26 State Representative Report SABI 'DOC' KUMAR MD Published: April 18, 2016 ​Bless My Heart!
 As your State Representative, I am blessed to visit and meet with a lot of friends and citizens.
 I am invited to a lot of functions and events.
 It is frequent that I meet folks who have been my patients or someone in their family has been my patient.
@@ -3176,17 +2750,10 @@ Teachers had worked very hard to prepare students for the testing.
 The delivery of the paper test materials was also delayed.
 I felt sympathy for our teachers and students.
 In my sincere effort to express concern for their hard work, I used the phrase, "Bless your Heart!" To my surprise, I have learned, that there are different meanings to this phrase and one of these implies "stupidity".
-I have always used it as an expression of sincerity that, "May the Good Lord Place Blessings upon Your Heart."
-Recently, I heard Jay Johnson using this phrase in a very kind manner towards a waitress.
+I have always used it as an expression of sincerity that, "May the Good Lord Place Blessings upon Your Heart." Recently, I heard Jay Johnson using this phrase in a very kind manner towards a waitress.
 I told him of my quandary.
 He suggested that I write an article to explain it.
-So thank you, Jay, and sincerely "May God Bless your Heart!"
-Rep.Sabi.Kumar@Capitol.tn.gov; (615) 741-2860
-_________________________________________________________________________________________________
-25
-Sabi Doc Kumar, MD Published: March 22, 2016
-Death and Dignity
-As a member of the Tennessee House of Representatives, I first met John Jay Hooker in the Health Subcommittee hearing room.
+So thank you, Jay, and sincerely "May God Bless your Heart!" Rep.Sabi.Kumar@Capitol.tn.gov; (615) 741-2860 _________________________________________________________________________________________________ 25 State Representative Report Sabi Doc Kumar, MD Published: March 22, 2016 Death and Dignity As a member of the Tennessee House of Representatives, I first met John Jay Hooker in the Health Subcommittee hearing room.
 It was the early part of 2015.
 He was a commanding presence as he pleaded the case for a 'Death with Dignity' legislation.
 Previously such legislation was called 'Physician Assisted Suicide'.
@@ -3220,28 +2787,19 @@ An open discussion of expectations is possible.
 These Godly people have taught me that fear can be overcome by surrounding ourselves with loved ones, a caring medical team and blessings from our faith.
 A Hospice team can provide support and comfort.
 Feared indignities of tubes and incapacitation can be considered and possibly overcome.
-A Living will helps to express and document our wishes
-"Physician Assisted Suicide" is a contradiction of terms.
+A Living will helps to express and document our wishes "Physician Assisted Suicide" is a contradiction of terms.
 Physicians are not needed for administration of life ending medicines.
 Their purpose is to promote, maintain and restore our health.
 Death is more dignified, without suicide.
 Let us not allow the science of how to die outpace the blessing of life and faith.
-Email: Rep.Sabi.Kumar@Capitol.tn.gov / Phone: (615) 741-2860
-_____________________________________________________________________________
-24
-State Representative Report
-Sabi Doc Kumar MD
-November 23, 2015 THE TENNESSEAN
-'Medical' Marijuana is Already Available
-With options available by prescription of a physician, there is no need to make pot more accessible.
+Email: Rep.Sabi.Kumar@Capitol.tn.gov / Phone: (615) 741-2860 _____________________________________________________________________________ 24 State Representative Report Sabi Doc Kumar MD November 23, 2015 THE TENNESSEAN 'Medical' Marijuana is Already Available With options available by prescription of a physician, there is no need to make pot more accessible.
 As a physician, I am amazed by the miracle of healing when I see people recover from injury and illness.
 I am also touched by the sadness and misery of pain that illness brings.
 Medical use of marijuana plant as an appetite stimulant, muscle relaxant, anti-convulsant, and for relief of pain and vomiting was first discovered in 1839 by William O'Shaughnessy, an Irish physician working in India.
 It is, however, a mind-altering substance with major psychotropic effects, especially on the developing and teenage brain.It is also a gateway drug, leading to advanced drug use and addiction.
 Driving under its influence is hazardous.
 Societal consequences of marijuana prevalence are being discovered in states that have legalized it.
-Policy Statement of American Academy of Pediatrics “opposes legalization of marijuana because of potential harms to children and adolescents.”
-Studies of the medical uses of marijuana are not fully reliable because the accepted (and the gold standard) scientific method of a double-blind controlled trial cannot be applied to this research.
+Policy Statement of American Academy of Pediatrics “opposes legalization of marijuana because of potential harms to children and adolescents.” Studies of the medical uses of marijuana are not fully reliable because the accepted (and the gold standard) scientific method of a double-blind controlled trial cannot be applied to this research.
 The distinctive smell and the intoxicating effects of marijuana do not allow for a control or placebo group that can be compared to the therapy group.
 Anecdotal healing effects of marijuana have been claimed for many conditions.
 Recent reviews published in the Journal of the American Medical Association have shed light on this matter.
@@ -3260,13 +2818,7 @@ Cost of medical marijuana is comparable to the street price.
 Insurance plans may cover these costs.
 This prescription method places the decision to use “medical” marijuana securely in the hands of the patient and his doctor, who can determine the need and the dose.
 Considering this availability, marijuana plant growing facilities with the need for tracking of plants, potential of diversion and other law enforcement problems, do not appear to be necessary.
-Sabi ‘Doc’ Kumar is a Surgeon and State Representative from District 66, Robertson County.
-_____________________________________________________________________________
-23
-State Representative Report
-Sabi Doc Kumar MD Published: February 25, 2016
-The Dialogue of Democracy
-It is said often, during an election year, that "this is a critical time," and "this is the most important election of our lifetime." These pronouncements may really be true this year.
+Sabi ‘Doc’ Kumar is a Surgeon and State Representative from District 66, Robertson County. ​_____________________________________________________________________________ 23 State Representative Report ​Sabi Doc Kumar MD Published: February 25, 2016 The Dialogue of Democracy It is said often, during an election year, that "this is a critical time," and "this is the most important election of our lifetime." These pronouncements may really be true this year.
 Considering the domestic, economic and foreign policy challenges today, we, the citizens have a crucial responsibility to vote.
 To protect the future of our country and for the sake of our children and grandchildren, we must make the right choices.
 We need leaders who will make decisions based on strong moral values, seek guidance from God and adhere to the constitution.
@@ -3304,13 +2856,7 @@ These elections will determine the future of our state, country and indeed the w
 Pray for God's guidance.
 Choose wisely.
 Ask His blessings upon our great nation!
-Email: Rep.Sabi.Kumar@Capitol.tn.gov Phone: 615- 741-2860
-___________________________________________________________________________
-22
-State Representative Report
-SABI 'Doc' KUMAR MD Published: February 3, 2016
-A Beautiful Storm
-My first thought at the time of extreme weather, such as the heavy snow recently, is about safety of families and citizens.
+Email: Rep.Sabi.Kumar@Capitol.tn.gov Phone: 615- 741-2860 ​___________________________________________________________________________ 22 State Representative Report SABI 'Doc' KUMAR MD Published: February 3, 2016 A Beautiful Storm My first thought at the time of extreme weather, such as the heavy snow recently, is about safety of families and citizens.
 Our law enforcement, first-responders, road crews, healthcare workers and many others, risk their safety to go to work and help others at such times.
 City, county, state officials, and workers mobilize to assist those stranded in the snow, involved in accidents or in need of other assistance.
 These are the times that bring out the best of love and caring among our friends, neighbors and co-workers.
@@ -3342,12 +2888,7 @@ The sense of caring among co-workers was a thing of beauty.
 Instead of just saying bye, people reminded each other to "Be Safe".
 This is what I mean when I call it a "Beautiful Storm"!
 We thank God for the beauty of Nature, His Creation and His People!
-Rep.Sabi.Kumar@Capitol.tn.gov Phone: (615) 741-2860
-_________________________________________________________________________
-21
-State Representative Report
-SABI 'DOC' KUMAR MD Published: January 19, 2016
-Y'all Come!
+Rep.Sabi.Kumar@Capitol.tn.gov Phone: (615) 741-2860​ _________________________________________________________________________ 21 State Representative Report SABI 'DOC' KUMAR MD Published: January 19, 2016 Y'all Come!
 To add to the excitement of the New Year, the Tennessee Legislature will started the 2016 session on Tuesday, Jan 12.
 Long hallways at the Capitol, grand and ornate House and Senate Chambers, offices of the Representatives, Senators, legal and support services will all be filled with a buzz of activity.
 Advocacy groups, special interest groups, lobbyists, visitors, press and students will come from all parts of the state.
@@ -3389,13 +2930,7 @@ Emotions are played and manipulated.
 Personal and regional causes are advocated.
 Despite this, I have found my fellow legislators, legislative staff and leadership to be extremely courteous and responsive.
 Let us pray and seek God's guidance for a meaningful session as we tackle the important issues of our times!
-Email: Rep.Sabi.Kumar@Capitol.tn.gov / Phone: 615- 741-2860
-________________________________________________________________________________
-20
-State Representative Report
-SABI 'DOC' KUMAR MD Published: December 30, 2015
-The Joy of Giving
-"It is the most wonderful time of the year!" Indeed, the Christmas season brings out the Giving Spirit among us.
+Email: Rep.Sabi.Kumar@Capitol.tn.gov / Phone: 615- 741-2860​​ ________________________________________________________________________________ 20 State Representative Report SABI 'DOC' KUMAR MD Published: December 30, 2015 ​The Joy of Giving "It is the most wonderful time of the year!" Indeed, the Christmas season brings out the Giving Spirit among us.
 We buy gifts for our friends and family.
 There is the joy of finding a 'very good deal,' a great sale, or just the thing that we were looking for.
 The children wait eagerly for Santa, the greatest bringer of gifts!
@@ -3433,19 +2968,8 @@ God bless them and, please God, bless them again!
 I am privileged to help.
 I teach a Sunday School Class on every second Sunday at the First United Methodist Church.
 My lesson this month was, "Gifts Acceptable to God." I always end with a limerick.
-I am proud of this one:
-What Stands Apart,
-A Piece of Art,
-Golden Strands,
-Loving Hands,
-Or A Gift of The Heart!
-Email: Rep.Sabi.Kumar@Capitol.tn.gov /Phone: (615) 741-2860
-_________________________________________________________________________
-19
-State Representative Report
-SABI DOC' KUMAR MD Published: December 8, 2015
-A Family Adventure
-Holidays are here!
+I am proud of this one: What Stands Apart, A Piece of Art, Golden Strands, Loving Hands, Or A Gift of The Heart!
+Email: Rep.Sabi.Kumar@Capitol.tn.gov /Phone: (615) 741-2860 _________________________________________________________________________ 19 ​ State Representative Report SABI DOC' KUMAR MD Published: December 8, 2015 A Family Adventure Holidays are here!
 As we enjoy (or cope with) the commercial boom, shopping in congested stores, travel, traffic, budgeting our expenses and too much food, the most important things really are God and family.
 We thank God for our blessings, and family is the most important of those.
 It is very important that our government and Legislature promote family and family values.
@@ -3480,13 +3004,7 @@ They had a great discussion and I listened!
 As you can see, my job is easy because God has blessed me with love and family.
 For me family includes friends, co-workers, church members, patients and many, many fine folks throughout Robertson County.
 I pray the blessing of family for all!
-Rep.Sabi.Kumar@Capitol.tn.gov ; ( 615) 741-2860
-_________________________________________________________________________
-18
-State Representative Report
-SABI 'DOC' KUMAR MD Published Nov 11, 2015
-Remembering Our Veterans Every Day
-Wednesday, November 11 was Veteran’s Day.
+Rep.Sabi.Kumar@Capitol.tn.gov ; ( 615) 741-2860 _________________________________________________________________________ 18 State Representative Report SABI 'DOC' KUMAR MD Published Nov 11, 2015 Remembering Our Veterans Every Day Wednesday, November 11 was Veteran’s Day.
 It is a special and meaningful day that offers each of us a chance to thank our Veterans for their years of service and sacrifice on our behalf.
 However, we must remember that we owe our Veterans a tremendous debt of gratitude and thanks every day.
 On Thanksgiving, we thank God for the blessings we have.
@@ -3516,22 +3034,7 @@ They represent the very best of Robertson County, State of Tennessee and United 
 They are inspiring in their actions, sincerity and kindness.
 Their patriotism and love of country is an example for us to follow.
 Veterans make our world and community better.
-The following says it well:
-On Veterans Day We Honor All
-Who Answered to the Service Call
-Soldiers Young & Soldiers Old
-Fought for Freedom Brave & Bold
-They Left Their Friends and Family
-They Gave Up Normal Life
-To Serve Our God & Country
-Standing Up to Strife
-I hope you join me in saluting and thanking our American heroes and patriots every day!
-___________________________________________________________________________________
-17
-State Representative Report
-SABI 'DOC' KUMAR MD Published: October 27, 2015
-Growth in Robertson County
-What brought you to Robertson County?
+The following says it well: On Veterans Day We Honor All Who Answered to the Service Call Soldiers Young & Soldiers Old Fought for Freedom Brave & Bold They Left Their Friends and Family They Gave Up Normal Life To Serve Our God & Country Standing Up to Strife I hope you join me in saluting and thanking our American heroes and patriots every day! ___________________________________________________________________________________ 17 State Representative Report SABI 'DOC' KUMAR MD Published: October 27, 2015 Growth in Robertson County What brought you to Robertson County?
 Perhaps, you are like my wife, a local with family roots spanning many generations or even the founding of Robertson County!
 Or, perhaps you are like me.
 I came for a great career opportunity.
@@ -3568,13 +3071,7 @@ When you see things that we could improve in our state, let me know.
 Finally, we must remember that success in any area, including economic growth, will only come if we work together.
 We may not always agree, but if we work together we will find success.
 Let us pray that we plan well and promote positive, good growth in Robertson County!
-Sabi 'Doc' Kumar, Rep.Sabi.Kumar@Capitol.tn.gov/(615)- 741-2860
-____________________________________________________________________________________________________
-16
-State Representative Report
-SABI 'DOC' KUMAR MD Published: October 5, 2015
-Your Opinion Matters
-In 13 months, our country will elect a new President.
+Sabi 'Doc' Kumar, Rep.Sabi.Kumar@Capitol.tn.gov/(615)- 741-2860 ____________________________________________________________________________________________________ ​ 16 State Representative Report SABI 'DOC' KUMAR MD Published: October 5, 2015 Your Opinion Matters In 13 months, our country will elect a new President.
 It seems far away!
 But, as you undoubtedly know, the election season is already upon us.
 It is difficult to miss the latest news from the campaign trail on television, newspapers and internet.
@@ -3606,13 +3103,7 @@ Let us speak up and be involved and work to put our nation on the right course.
 If you just do not want to speak up, please join us in prayer.
 We need God's wisdom upon our great nation, our great state and our loving communities.
 By joining together, the possibilities for accomplishment and our abilities to solve problems are limitless.
-Rep.Sabi.Kumar@Capitol.tn.gov; (615) 741-2860
-_______________________________________________________________________________
-15
-State Representative Report
-SABI 'DOC' KUMAR MD Published: September 10, 2015
-Remembering 9/11
-September 11, 2001 could also, like Pearl Harbor, be described as “a day that will live in infamy”.
+Rep.Sabi.Kumar@Capitol.tn.gov; (615) 741-2860 _______________________________________________________________________________ 15 State Representative Report SABI 'DOC' KUMAR MD Published: September 10, 2015 Remembering 9/11 September 11, 2001 could also, like Pearl Harbor, be described as “a day that will live in infamy”.
 That is how President Franklin D.
 Roosevelt described the December 7, 1941 Japanese attack on Pearl Harbor.
 On both of these occasions, American homeland was attacked.
@@ -3655,13 +3146,7 @@ You and I believe in a God who commanded us to, “Love each other”.
 Luke 6:31 and Matthew 7:12 teach us the Golden Rule so that we treat others as we would want to be treated.
 Our challenge is to balance our love of God and humanity with a Position of Strength.
 God has made America a great nation.
-We must pray that His hand stays on our shoulder!
-_____________________________________________________________________________
-14
-State Representative Report
-SABI 'DOC' KUMAR MD Published: August 24, 2015
-Back to School in Robertson County
-This month - doesn't it seem earlier each year - our children in Robertson County and throughout Tennessee went back to school.
+We must pray that His hand stays on our shoulder! _____________________________________________________________________________ 14 State Representative Report SABI 'DOC' KUMAR MD Published: August 24, 2015 Back to School in Robertson County This month - doesn't it seem earlier each year - our children in Robertson County and throughout Tennessee went back to school.
 A new school year is an exciting time!
 Our children come home with new knowledge, learned from our teachers' finely crafted lesson plans.
 Old friendships are restored, and new friendships are found.
@@ -3700,13 +3185,7 @@ Along the way, each of us can remember the great, special teachers that we had.
 Thank you for what you do and for continuing an important legacy.
 You invest in our children and you give them the gift of education that is priceless in value.
 May God bless each of you in this coming school year!
-Rep.Sabi.Kumar@Capitol.tn.gov; (615) 741-2860.
-____________________________________________________________________________________
-13
-State Representative Report
-SABI 'DOC' KUMAR MD Published: July 28, 2015
-Terror in Our Homeland
-Certain events leave a permanent memory.
+Rep.Sabi.Kumar@Capitol.tn.gov; (615) 741-2860. ____________________________________________________________________________________ 13 ​State Representative Report SABI 'DOC' KUMAR MD Published: July 28, 2015 Terror in Our Homeland Certain events leave a permanent memory.
 We always remember how and when we learned about tragedies such as 9/11.
 My wife Linda and I were away from home last week.
 As your state representative, I try to keep in touch with happenings at home even when we are away.
@@ -3742,14 +3221,8 @@ Our leaders and legislators will work to protect our soldiers and citizens.
 A terrorist attack against any one of our citizens and soldiers is an attack against all of us.
 The goodness of America shall prevail.
 May God Bless America!
-Sabi 'Doc' Kumar - Rep.Sabi.Kumar@Capitol.tn.gov/ 615- 741-2860
-_____________________________________________________________________________
-12
-State Representative Report
-SABI 'DOC' KUMAR MD
-Following The Money!
-Published: June 30, 2015
-We are blessed with a vibrant community.
+Sabi 'Doc' Kumar - Rep.Sabi.Kumar@Capitol.tn.gov/ 615- 741-2860 ​ _____________________________________________________________________________ 12 State Representative Report SABI 'DOC' KUMAR MD Following The Money!
+Published: June 30, 2015 We are blessed with a vibrant community.
 There are many functions to attend each week and, sometimes, each day!
 Many of you have told me that you have enjoyed my articles in this paper.
 I encourage you to let the editors know.
@@ -3795,13 +3268,7 @@ The remaining 13¢ cover all the rest.
 This is a very simple look at the Tennessee State Budget.
 There are many layers to this onion!
 Pray that my eyes don't water as I peel further!
-Rep.Sabi.Kumar@Capitol.tn.gov; 615- 741- 2860
-___________________________________________________________________________________________
-11
-State Representative Report
-SABI 'DOC' KUMAR MD Published May 28, 2015
-Turning of the Tassels
-What a graduation season it has been in our beloved Robertson County!
+Rep.Sabi.Kumar@Capitol.tn.gov; 615- 741- 2860 ___________________________________________________________________________________________ 11 State Representative Report SABI 'DOC' KUMAR MD Published May 28, 2015 Turning of the Tassels What a graduation season it has been in our beloved Robertson County!
 My family and I are passionate about the need and value of education in our lives.
 As your State Representative, I serve on the Education Instruction and Programs Committee.
 We believe that “the cost of ignorance is much greater than the cost of education”.
@@ -3838,13 +3305,7 @@ Linda and I personally wish great success to all of our graduates.
 We ask them to remember their Robertson County roots.
 Be happy and make others happy.
 Love one another, as God calls us to do.
-God Bless each of you!
-___________________________________________________________________________________________
-10
-State Representative Report
-SABI "DOC" KUMAR MD Published: April 22, 2015
-Making Decisions in the Legislature
-We make decisions every day.
+God Bless each of you! ___________________________________________________________________________________________ 10 State Representative Report SABI "DOC" KUMAR MD Published: April 22, 2015 Making Decisions in the Legislature We make decisions every day.
 Some are trivial, others are crucial and the rest are in between.
 Most of our decisions affect our lives or the lives of our family, friends and co-workers.
 When you elected me as your State Representative and I arrived at the Legislature, making the right decisions became a very important responsibility.
@@ -3888,13 +3349,7 @@ Considering the difficult decisions we make at the Legislature, I welcome your i
 If you do not like a decision that I make, please tell me.
 Let us talk.But please be civil and do not call me animal names on your Facebook page!
 Rep.
-Sabi 'Doc' Kumar; Rep.Sabi.Kumar@Capitol.tn.gov; 615- 741-2860.
-____________________________________________________________________________
-9
-State Representative Report
-SABI 'DOC' KUMAR MD Published April 30, 2015
-The Legislative Session of 2015
-The 2015 session of the 109th General Assembly of the Tennessee State Legislature lasted from January 23 to April 23.
+Sabi 'Doc' Kumar; Rep.Sabi.Kumar@Capitol.tn.gov; 615- 741-2860. ____________________________________________________________________________ 9 State Representative Report SABI 'DOC' KUMAR MD Published April 30, 2015 The Legislative Session of 2015 The 2015 session of the 109th General Assembly of the Tennessee State Legislature lasted from January 23 to April 23.
 The start of the regular session, this year, was delayed because of the winter snows and the Special Session to consider the Governor Haslam’s Insure Tennessee proposal.
 The session lasted about 13 weeks.
 Despite the fact that we run on a platform of small government, the Legislators filed 1,402 bills!
@@ -3930,13 +3385,7 @@ A video of my speech is available online at Capitol.tn.gov.
 Go to Videos, House, On Demand Videos, April 15, 2015.
 My comments begin at 1 hour, 34 minutes into the video.
 It is my honor to be your State Rep.
-God Bless you, and God Bless Robertson County!
-_____________________________________________________________________________
-8
-State Representative Report
-SABI "DOC" KUMAR MD Published: April 7, 2015
-The Making of a Law
-The legislative sessions of the Tennessee General Assembly start every year in January.
+God Bless you, and God Bless Robertson County! ​_____________________________________________________________________________ 8 State Representative Report​ SABI "DOC" KUMAR MD Published: April 7, 2015 The Making of a Law The legislative sessions of the Tennessee General Assembly start every year in January.
 The session was delayed this year because of the snow, beautiful as it was.
 These sessions usually last to late April, depending upon the legislative load.
 When you, the citizens of Robertson County, elected me as your State Representative, I was excited and looked forward to representing you at the state level.
@@ -3973,13 +3422,7 @@ Upon passage in the, usually difficult, Finance Committee, the fifth step is the
 Most Bills (98 percent) that reach step six, the Chamber floors, pass and become a law if signed by the Governor.
 This signature is the seventh and final step.
 So the ideal bill is the one that everybody likes and it does not cost any money!
-Rep.Sabi.Kumar@Capitol.tn.gov/Phone: 615- 741-2860
-__________________________________________________________________________________
-7
-State Representative Report
-Sabi 'Doc' Kumar MD
-A Cure for the Common Core Published: March 17, 2015
-I have always said that I am where I am in life, because of my education.
+Rep.Sabi.Kumar@Capitol.tn.gov/Phone: 615- 741-2860 __________________________________________________________________________________ 7 State Representative Report Sabi 'Doc' Kumar MD A Cure for the Common Core Published: March 17, 2015 I have always said that I am where I am in life, because of my education.
 And that Education changes lives.
 I am committed to working with our local and state leaders to improve education in our state and in Robertson County.
 I have spoken with teachers and educators at the local and state level.
@@ -4014,12 +3457,7 @@ It is my duty to consider this enormous task with great care, analysis and praye
 I request that you do the same and join me in prayer.
 Your input and advice is always welcome.
 State Rep.
-Sabi Kumar represents District 66 including Robertson County/Rep.Sabi.Kumar@Capitol.tn.gov
-___________________________________________________________________________________________
-6
-State Representative Report
-Sabi 'Doc' Kumar MD Published: March 3, 2015
-Who Decides Which Textbooks Our Children Read?
+Sabi Kumar represents District 66 including Robertson County/Rep.Sabi.Kumar@Capitol.tn.gov ​ ___________________________________________________________________________________________ 6 State Representative Report Sabi 'Doc' Kumar MD Published: March 3, 2015 Who Decides Which Textbooks Our Children Read?
 When I am at the State Legislature, serving as your State Representative, many visitors come to “Meet and Greet”.
 All residents of Robertson County are welcome to come and visit me.
 I do suggest that you call and make an appointment so I can be there to greet you!
@@ -4052,18 +3490,13 @@ Life has taught me enough to know that no system is perfect but our understandin
 I firmly believe that education changes lives.
 The responsibility of choosing the books that our children will learn from is a tremendous responsibility.
 We must seek guidance through prayer!
-More information is at www.tennessee.gov/education/textbooks/adoption.shtml
-_____________________________________________________________________________________
-5.
-State Representative Report
-Sabi 'Doc' Kumar MD Published: February 23, 2015
-Preparing to Serve on the Education Committee
-"When you plan for a day, carry an umbrella.
+More information is at www.tennessee.gov/education/textbooks/adoption.shtml _____________________________________________________________________________________ 5.
+State Representative Report Sabi 'Doc' Kumar MD Published: February 23, 2015 ​Preparing to Serve on the Education Committee "When you plan for a day, carry an umbrella.
 When you plan for a year, plant a garden.
 When you plan for life, get an education." These words, anonymously written years ago, state an important truth.
 Throughout my campaign, I highlighted my commitment to improve education in Robertson County.
 Simply put, I am where I am in life because of education and, of course, what mom did for me!
-Education is an issue of great importance to me, because I came to this country 44 years ago with only $37 in my pocket.
+Education is an issue of great importance to me, because I came to this country #ago with only $37 in my pocket.
 But I had something of far greater value: a medical degree.
 Over the years, I have realized the great value of that education.
 It has given me the privilege of serving the people and the community.
@@ -4091,13 +3524,7 @@ There are three things that I believe any lawmaker should do before implementing
 Their classroom perspective and insight is invaluable.
 I am committed to helping our teachers.
 Let us work together to improve education and the future of children in our great County!
-Rep.Sabi.Kumar@Capitol.tn.gov; 615- 741-2860
-__________________________________________________________________________________________________________
-4
-State Representative Report
-SABI 'DOC' KUMAR MD Published: Feb 17, 2015
-Health Care Decisions
-I made a promise to you, the citizens of Robertson County, that as your Representative in the Tennessee Legislature, I will work to improve healthcare.
+Rep.Sabi.Kumar@Capitol.tn.gov; 615- 741-2860 __________________________________________________________________________________________________________ 4 State Representative Report SABI 'DOC' KUMAR MD ​Published: Feb 17, 2015 Health Care Decisions​ I made a promise to you, the citizens of Robertson County, that as your Representative in the Tennessee Legislature, I will work to improve healthcare.
 As a member of the Tennessee House of Representatives Health and Health Sub Committees, I plan to do exactly that.
 I did not get a chance to vote on Governor Haslam's Insure Tennessee Plan.
 It was defeated in the Senate Health & Welfare Committee by a vote of 7 to 4.
@@ -4128,13 +3555,7 @@ Tennesseans are lucky to have the spirit of volunteerism and compassion balanced
 Add to that the American ingenuity for creating solutions and finding opportunities to solve problems and we should be able to achieve accessible and affordable healthcare.
 Now is the time for us to help the present and secure our future!
 As a physician and your State Representative, I will continue to do all that I can to improve healthcare and explore all possibilities.
-Rep.Sabi.Kumar@Capitol.tn.gov
-________________________________________________________________________________________________________________
-3
-State Representative Report
-SABI 'DOC' KUMAR MD Published: February 3, 2015
-Organization Week at the Legislature
-What an Organization Week it was for the 109th General Assembly during the week of January 12!
+Rep.Sabi.Kumar@Capitol.tn.gov ________________________________________________________________________________________________________________ 3 State Representative Report SABI 'DOC' KUMAR MD Published: February 3, 2015 Organization Week at the Legislature​ ​What an Organization Week it was for the 109th General Assembly during the week of January 12!
 Although I have been serving as your State Rep for several weeks now, it was a truly amazing experience to stand on the floor of the Tennessee House of Representatives and take an oath to serve you, the people of Robertson County.
 Organization Week, as you can imagine, was a flurry of activities and events.
 I enjoyed getting to know many of my fellow Republicans and freshman legislators.
@@ -4159,15 +3580,8 @@ Now that the ceremonials are done, it is time to start the legislative work that
 Please join me in prayer each day for guidance as we, in the General Assembly, face many challenges and tough decisions during this Session.
 Please remember to contact me with your concerns and suggestions.
 Rep.Sabi.Kumar@Capitol.tn.gov.
-Phone: 615-741-2860.
-___________________________________________________________________________________________
-2
-State Representative Report
-State Rep.
-Sabi 'Doc' Kumar MD
-Published: December 29, 2014
-Thoughts From the New State Representative
-I hope that all of you had a wonderfully blessed Christmas!
+Phone: 615-741-2860. ​ ___________________________________________________________________________________________ 2 ​​ State Representative Report State Rep.
+Sabi 'Doc' Kumar MD Published: December 29, 2014 Thoughts From the New State Representative I hope that all of you had a wonderfully blessed Christmas!
 What a busy, exciting holiday season it has been in Robertson County!
 Thanksgiving and Christmas had an extra meaning this year, as I officially became your State Representative on November 5, 2014.
 Election as your State Representative is an honor and privilege.
@@ -4196,37 +3610,18 @@ These issues greatly affect our lives and the lives of our fellow citizens.
 I pray that my fellow Legislators and I will work together to reach the best solutions for the people.
 As a New Year dawns, I hope you enjoy time with family and friends.
 If you are looking for a place to worship, please join me and my family at First United Methodist Church in Springfield.
-From our family to yours, we wish you a healthy and happy 2015.
-___________________________________________________________________________________________
-1
-American Future
-(Not Published)
-America has been a dominant world power since the early part of the 20th century.
-'Gloom and Doom' is not a new disease but at certain times in history,
-this view becomes more prevalent.
-Lately there has been concern mixed with speculation that
-America has reached her zenith and is now on a course of decline.
-In a recent book titled 'Balance", Hubbard and Kane studied dominant powers in history,
-starting with Ancient Rome and progressing through Imperial China,
-the Spanish and the Ottoman Empires,
-Post 1858 Japan, Great Britain and California of the 60s.
-There appear to be 3 common features
-that lead to the decline of the great civilizations and dominant powers.
-In order of occurence, these are:
-1.
-Moral Decline
-2.
-Spending beyond means, leading to increasing Debt
-3.
+From our family to yours, we wish you a healthy and happy 2015. ___________________________________________________________________________________________ 1 American Future (Not Published) America has been a dominant world power since the early part of the 20th century.
+'Gloom and Doom' is not a new disease but at certain times in history, this view becomes more prevalent.​ Lately there has been concern mixed with speculation that America has reached her zenith and is now on a course of decline.
+In a recent book titled 'Balance", Hubbard and Kane studied dominant powers in history, starting with Ancient Rome and progressing through Imperial China, the Spanish and the Ottoman Empires, Post 1858 Japan, Great Britain and California of the 60s.
+T here appear to be 3 common features that lead to the decline of the great civilizations and dominant powers.
+In order of occurence, these are: ​ 1.
+Moral Decline 2.
+Spending beyond means, leading to increasing Debt 3.
 Centralization of Power in response to the economic chaos.
-Certainly we can identify the first two and a half of these in our society today.
-But
-There is an abundance of human capital (Skilled and Educated Citizens)
-in America today and that is our saving grace.
-We are also Fortunate that We are Able to Study History
-and Examine the Record of other Civilizations.
+Certainly we can identify the first two and a half of these in our society today. ​But There is an abundance of human capital (Skilled and Educated Citizens) in America today and that is our saving grace.
+We are also Fortunate that We are Able to Study History and Examine the Record of other Civilizations.
 The Romans did not have that available to them.
 For this reason, we should be Optimistic of the American Future.
 It only takes One Election to change direction in a Democracy.
 Let us work to accomplish just that!
-May God Bless America and her People!
+May God Bless America and her People! ​​ View on Mobile

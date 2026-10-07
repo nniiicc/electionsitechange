@@ -1,18 +1,16 @@
-He had previously served as the Lieutenant Governor of Idaho from 2003 to 2006, and again from 2007 to 2009
-BOISE, Idaho (KMVT/KSVT) — Idaho U.S.
+Skip to content About Issues News Volunteer Contact Endorsements About Issues News Volunteer Contact Endorsements Donate Jim Risch endorses Scott Bedke for Lieutenant Governor February 24, 2022 He had previously served as the Lieutenant Governor of Idaho from 2003 to 2006, and again from 2007 to 2009 BOISE, Idaho (KMVT/KSVT) — Idaho U.S.
 Senator Jim Risch has endorsed Speaker Scott Bedke in his bid to become Idaho’s Lieutenant Governor.
 Risch and Bedke have worked together in the past, passing a $260 million property tax cut in 2006.
 “Scott Bedke is the clear conservative voice needed to be Idaho’s next Lieutenant Governor,” said Senator Jim Risch.
 “Much like Vicki and me, Scott and Sarah’s life experiences as ranchers and small business owners make them a perfect fit to serve the people of Idaho.
 Scott’s conservative record of action and leadership as Speaker proves he is best suited to represent Idahoans as their next Lieutenant Governor.
-Vicki and I are proud to be on Team Bedke!”
-Bedke himself also welcomed the endorsement, saying; “Senator Risch and I have worked together on many policies that put Idahoans first.
+Vicki and I are proud to be on Team Bedke!” Bedke himself also welcomed the endorsement, saying; “Senator Risch and I have worked together on many policies that put Idahoans first.
 I am proud of the conservative leadership he displays in D.C., and I am grateful to have his vote of confidence to be Idaho’s next Lieutenant Governor,” said Speaker Scott Bedke.
-“Together, we will continue fighting to stop federal overreach from threatening our Idaho way of life.”
-Risch had previously served as the Lieutenant Governor of Idaho from 2003 to 2006, and again from 2007 to 2009.
-https://www.kmvt.com/2022/02/22/jim-risch-endorses-scott-bedke-lieutenant-governor/
-###
-For more coverage see also:
-https://spotonidaho.com/id-politics/602863/senator-risch-endorses-scott-bedke-for-lieutenant.html
-https://www.kboi.com/2022/02/23/senator-risch-endorses-scott-bedke-for-lieutenant-governor/
-https://cdapress.com/news/2022/feb/23/risch-endorses-bedke-lieutenant-governor/
+“Together, we will continue fighting to stop federal overreach from threatening our Idaho way of life.” Risch had previously served as the Lieutenant Governor of Idaho from 2003 to 2006, and again from 2007 to 2009. https://www.kmvt.com/2022/02/22/jim-risch-endorses-scott-bedke-lieutenant-governor/ ### For more coverage see also: https://darik.news/idaho/idaho-senator-jim-risk-endorses-speaker-scott-bedke-for-idaho-lieutenant-governor-idaho/202202493928.html Risch endorses Bedke for Idaho Lieutenant Governor https://spotonidaho.com/id-politics/602863/senator-risch-endorses-scott-bedke-for-lieutenant.html https://www.kboi.com/2022/02/23/senator-risch-endorses-scott-bedke-for-lieutenant-governor/ https://www.ktvb.com/video/news/local/jim-risch-endorses-scott-bedke-for-lt-governor/277-f77dc00f-76c0-4dd6-84f0-75329250c786 https://www.bigcountrynewsconnection.com/idaho/idaho-senator-jim-risch-endorses-speaker-scott-bedke-for-idaho-lieutenant-governor/article_42e4ce5c-9412-11ec-8cb5-cf0779b3f011.html https://cdapress.com/news/2022/feb/23/risch-endorses-bedke-lieutenant-governor/ Share This Story Facebook Twitter Prev Bedke: Let’s Secure Idaho’s Water for the Future Idahoans Beware – Washington State Imposing Taxes on Idaho Citizens is Wrong Next Social Media Facebook Instagram Join The Campaign " * " indicates required fields Name * First Last Email * Phone Consent * By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, marketing, polling, donation requests, event reminders) from (Scott Bedke for Idaho) at the number provided, including messages sent by autodialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy * Home About Issues News Volunteer Contact Donate Privacy Policy Home About Issues News Volunteer Contact Donate Privacy Policy Paid for by Bedke for Idaho.
+Margie Watson Treasurer.

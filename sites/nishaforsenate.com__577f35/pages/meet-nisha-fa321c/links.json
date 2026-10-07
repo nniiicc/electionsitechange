@@ -1,13 +1,58 @@
 [
-"https://facebook.com/profile.php?id=61587240287533",
-"https://instagram.com/nishaforsenate",
-"https://nishaforsenate.com/",
-"https://nishaforsenate.com/get-involved",
-"https://nishaforsenate.com/media",
-"https://nishaforsenate.com/meet-nisha",
-"https://nishaforsenate.com/on-the-issues",
-"https://nishaforsenate.com/privacy",
-"https://nishaforsenate.com/register-to-vote",
-"https://perspect.com/",
-"https://secure.actblue.com/donate/nisha-lodhavia-1?recurring=true"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nisha-lodhavia-1?refcode2=nav_button&recurring=true"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nisha-lodhavia-1?refcode2=nav_link&recurring=true"
+},
+{
+"text": "Endorsements",
+"href": "https://nishaforsenate.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://nishaforsenate.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://nishaforsenate.com/"
+},
+{
+"text": "Media",
+"href": "https://nishaforsenate.com/media"
+},
+{
+"text": "Meet Nisha",
+"href": "https://nishaforsenate.com/meet-nisha"
+},
+{
+"text": "On the Issues",
+"href": "https://nishaforsenate.com/on-the-issues"
+},
+{
+"text": "Powered by Perspect",
+"href": "https://perspect.com"
+},
+{
+"text": "Privacy",
+"href": "https://nishaforsenate.com/privacy"
+},
+{
+"text": "Register to Vote",
+"href": "https://nishaforsenate.com/register-to-vote"
+},
+{
+"text": "[image: Nisha Lodhavia for Delaware]",
+"href": "https://nishaforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587240287533"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nishaforsenate/"
+}
 ]

@@ -1,49 +1,282 @@
 [
-"https://facebook.com/shawnforgeorgia",
-"https://instagram.com/shawnforgeorgia",
-"https://shawnforgeorgia.com/",
-"https://shawnforgeorgia.com/accessibility-statement",
-"https://shawnforgeorgia.com/campaign-updates",
-"https://shawnforgeorgia.com/campaign-updates/2026-04-08-msnow-run-off",
-"https://shawnforgeorgia.com/campaign-updates/2026-04-09-ajc-run-off",
-"https://shawnforgeorgia.com/campaign-updates/2026-04-11-msnow-run-off",
-"https://shawnforgeorgia.com/campaign-updates/2026-04-12-msnow-run-off",
-"https://shawnforgeorgia.com/campaign-updates/2026-04-15-newsnation-iran",
-"https://shawnforgeorgia.com/campaign-updates/2026-04-24-newsnation-iran",
-"https://shawnforgeorgia.com/campaign-updates/2026-04-30-newsnation-iran",
-"https://shawnforgeorgia.com/campaign-updates/2026-05-12-newsnation-iran",
-"https://shawnforgeorgia.com/campaign-updates/2026-05-18-bloomberg-news-of-day",
-"https://shawnforgeorgia.com/campaign-updates/2026-05-23-gun-owners-radio-guns",
-"https://shawnforgeorgia.com/campaign-updates/in-the-news",
-"https://shawnforgeorgia.com/campaign-updates/in-the-news/page/2",
-"https://shawnforgeorgia.com/campaign-updates/mary-l-trump-endorses-shawn-harris-in-bid-to-defeat-marjorie-taylor-greene",
-"https://shawnforgeorgia.com/campaign-updates/press-releases",
-"https://shawnforgeorgia.com/campaign-updates/shawn-harris-outraises-marjorie-taylor-greene-signals-surging-momentum-in-ga-14",
-"https://shawnforgeorgia.com/cdn-cgi/l/email-protection",
-"https://shawnforgeorgia.com/donate",
-"https://shawnforgeorgia.com/donate?amount=10",
-"https://shawnforgeorgia.com/donate?amount=100",
-"https://shawnforgeorgia.com/donate?amount=25",
-"https://shawnforgeorgia.com/donate?amount=5",
-"https://shawnforgeorgia.com/donate?amount=50",
-"https://shawnforgeorgia.com/get-involved",
-"https://shawnforgeorgia.com/get-involved/get-updates",
-"https://shawnforgeorgia.com/get-involved/volunteer",
-"https://shawnforgeorgia.com/meet-shawn",
-"https://shawnforgeorgia.com/meet-shawn/why-im-running",
-"https://shawnforgeorgia.com/on-the-issues",
-"https://shawnforgeorgia.com/on-the-issues/accountability-and-reform",
-"https://shawnforgeorgia.com/on-the-issues/affordability",
-"https://shawnforgeorgia.com/on-the-issues/agriculture",
-"https://shawnforgeorgia.com/on-the-issues/education",
-"https://shawnforgeorgia.com/on-the-issues/healthcare",
-"https://shawnforgeorgia.com/on-the-issues/jobs",
-"https://shawnforgeorgia.com/on-the-issues/second-amendment",
-"https://shawnforgeorgia.com/on-the-issues/veterans",
-"https://shawnforgeorgia.com/on-the-issues/womens-health",
-"https://shawnforgeorgia.com/press-kit",
-"https://shawnforgeorgia.com/privacy-policy",
-"https://shawnforgeorgia.myshopify.com/password",
-"https://twitter.com/shawnforgeorgia",
-"https://youtube.com/@shawnforgeorgia"
+{
+"text": "$#",
+"href": "https://www.shawnforgeorgia.com/donate?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.shawnforgeorgia.com/donate?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.shawnforgeorgia.com/donate?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.shawnforgeorgia.com/donate?amount=5"
+},
+{
+"text": "$#",
+"href": "https://www.shawnforgeorgia.com/donate?amount=50"
+},
+{
+"text": "1",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/in-the-news/"
+},
+{
+"text": "2",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/in-the-news/page/2/"
+},
+{
+"text": "AJC: Run Off",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-04-09-ajc-run-off/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.shawnforgeorgia.com/accessibility-statement/"
+},
+{
+"text": "Accountability and Corruption",
+"href": "https://www.shawnforgeorgia.com/on-the-issues/accountability-and-reform/"
+},
+{
+"text": "Action Center",
+"href": "https://www.shawnforgeorgia.com/get-involved/"
+},
+{
+"text": "Action Center Action",
+"href": "https://www.shawnforgeorgia.com/get-involved/"
+},
+{
+"text": "All News",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/"
+},
+{
+"text": "Be a part of this historic campaign",
+"href": "https://www.shawnforgeorgia.com/donate"
+},
+{
+"text": "Bloomberg: Farmers are the Center of Gravity",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-05-18-bloomberg-news-of-day/"
+},
+{
+"text": "Campaign News",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/"
+},
+{
+"text": "Campaign News News",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/"
+},
+{
+"text": "Cost of Living",
+"href": "https://www.shawnforgeorgia.com/on-the-issues/affordability/"
+},
+{
+"text": "Donate Now",
+"href": "https://www.shawnforgeorgia.com/donate"
+},
+{
+"text": "Donate Now Donate",
+"href": "https://www.shawnforgeorgia.com/donate"
+},
+{
+"text": "Education",
+"href": "https://www.shawnforgeorgia.com/on-the-issues/education/"
+},
+{
+"text": "Farming",
+"href": "https://www.shawnforgeorgia.com/on-the-issues/agriculture/"
+},
+{
+"text": "Get Updates",
+"href": "https://www.shawnforgeorgia.com/get-involved/get-updates/"
+},
+{
+"text": "Get Updates Updates",
+"href": "https://www.shawnforgeorgia.com/get-involved/get-updates/"
+},
+{
+"text": "Gun Owners Radio: Shawn Discusses 2nd Amendment and Ownership",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-05-23-gun-owners-radio-guns/"
+},
+{
+"text": "Healthcare",
+"href": "https://www.shawnforgeorgia.com/on-the-issues/healthcare/"
+},
+{
+"text": "In the News",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/in-the-news/"
+},
+{
+"text": "Jobs",
+"href": "https://www.shawnforgeorgia.com/on-the-issues/jobs/"
+},
+{
+"text": "Learn More",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-04-08-msnow-run-off/"
+},
+{
+"text": "Learn More",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-04-09-ajc-run-off/"
+},
+{
+"text": "Learn More",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-04-11-msnow-run-off/"
+},
+{
+"text": "Learn More",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-04-12-msnow-run-off/"
+},
+{
+"text": "Learn More",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-04-15-newsnation-iran/"
+},
+{
+"text": "Learn More",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-04-24-newsnation-iran/"
+},
+{
+"text": "Learn More",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-04-30-newsnation-iran/"
+},
+{
+"text": "Learn More",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-05-12-newsnation-iran/"
+},
+{
+"text": "Learn More",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-05-18-bloomberg-news-of-day/"
+},
+{
+"text": "Learn More",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-05-23-gun-owners-radio-guns/"
+},
+{
+"text": "MSNOW: Run Off",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-04-08-msnow-run-off/"
+},
+{
+"text": "MSNOW: Run Off",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-04-11-msnow-run-off/"
+},
+{
+"text": "MSNOW: Run Off",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-04-12-msnow-run-off/"
+},
+{
+"text": "Meet Shawn",
+"href": "https://www.shawnforgeorgia.com/meet-shawn/"
+},
+{
+"text": "Meet Shawn Meet",
+"href": "https://www.shawnforgeorgia.com/meet-shawn/"
+},
+{
+"text": "NewsNation: Iran",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-04-15-newsnation-iran/"
+},
+{
+"text": "NewsNation: Iran",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-04-24-newsnation-iran/"
+},
+{
+"text": "NewsNation: Iran",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-04-30-newsnation-iran/"
+},
+{
+"text": "NewsNation: Iran Ceasefire Possible",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/2026-05-12-newsnation-iran/"
+},
+{
+"text": "Other",
+"href": "https://www.shawnforgeorgia.com/donate"
+},
+{
+"text": "Press Kit",
+"href": "https://www.shawnforgeorgia.com/press-kit/"
+},
+{
+"text": "Press Releases",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/press-releases/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.shawnforgeorgia.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/mary-l-trump-endorses-shawn-harris-in-bid-to-defeat-marjorie-taylor-greene/"
+},
+{
+"text": "Read More",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/shawn-harris-outraises-marjorie-taylor-greene-signals-surging-momentum-in-ga-14/"
+},
+{
+"text": "Second Amendment",
+"href": "https://www.shawnforgeorgia.com/on-the-issues/second-amendment/"
+},
+{
+"text": "Shawn’s Plans",
+"href": "https://www.shawnforgeorgia.com/on-the-issues/"
+},
+{
+"text": "Shawn’s Plans Plans",
+"href": "https://www.shawnforgeorgia.com/on-the-issues/"
+},
+{
+"text": "Store",
+"href": "https://shawnforgeorgia.myshopify.com/password"
+},
+{
+"text": "Store Store",
+"href": "https://shawnforgeorgia.myshopify.com/password"
+},
+{
+"text": "Veterans",
+"href": "https://www.shawnforgeorgia.com/on-the-issues/veterans/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.shawnforgeorgia.com/get-involved/volunteer/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://www.shawnforgeorgia.com/meet-shawn/why-im-running/"
+},
+{
+"text": "Women’s Health",
+"href": "https://www.shawnforgeorgia.com/on-the-issues/womens-health/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:renee@shawnforgeorgia.com"
+},
+{
+"text": "[image: Shawn Harris for Georgia Logo (inverted)]",
+"href": "https://www.shawnforgeorgia.com/"
+},
+{
+"text": "[image: Shawn Harris for Georgia Logo]",
+"href": "https://www.shawnforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/shawnforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/shawnforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/shawnforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.shawnforgeorgia.com/campaign-updates/in-the-news/page/2/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@shawnforgeorgia"
+}
 ]

@@ -1,12 +1,4 @@
-top of page
-Priorities
-Environment
-District 48 is bountiful in natural resources.
+top of page Home About Jennifer Accomplishments Priorities Infrastructure Environment Public Health Education Economy Events News Endorsements More Use tab to navigate through the menu items.
+Get Involved Donate Priorities Environment District 48 is bountiful in natural resources.
 Our district includes the Huron River, numerous lakes, recreation areas, agricultural farms, and open spaces.
-Jennifer wants to:
-- Protect and manage our parks and open spaces in sustainable ways
-- Upgrade our recreation spaces to be more accessible to families and seniors
-- Address PFAS in our natural spaces and support farmers who have been impacted by contamination
-- Hold chemical companies and polluters accountable
-- Create businesses and employment by investing in a greener future
-bottom of page
+Jennifer wants to: ​ Protect and manage our parks and open spaces in sustainable ways Upgrade our recreation spaces to be more accessible to families and seniors ​ Address PFAS in our natural spaces and support farmers who have been impacted by contamination Hold chemical companies and polluters accountable ​ Create businesses and employment by investing in a greener future Back to Priorities Privacy Policy Donate info@conlinforstaterep.com 734 - 904 - 6389 bottom of page

@@ -1,10 +1,50 @@
 [
-"http://facebook.com/ashleyforarkansas",
-"http://twitter.com/AshleyForAR",
-"https://ashleyforarkansas.com/",
-"https://ashleyforarkansas.com/get-updates",
-"https://ashleyforarkansas.com/signature-legislation",
-"https://ashleyforarkansas.com/volunteer",
-"https://forms.gle/R12b5FceyorfxG749",
-"https://goodchange.app/donate/ashle-0t"
+{
+"text": "ABOUT ASHLEY",
+"href": "https://www.ashleyforarkansas.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.ashleyforarkansas.com"
+},
+{
+"text": "DONATE",
+"href": "https://goodchange.app/donate/ashle-0t"
+},
+{
+"text": "GET UPDATES",
+"href": "https://www.ashleyforarkansas.com/get-updates"
+},
+{
+"text": "HOME",
+"href": "https://www.ashleyforarkansas.com"
+},
+{
+"text": "SIGNATURE LEGISLATION",
+"href": "https://www.ashleyforarkansas.com/signature-legislation"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.ashleyforarkansas.com/volunteer"
+},
+{
+"text": "Yard Sign!",
+"href": "https://forms.gle/R12b5FceyorfxG749"
+},
+{
+"text": "[image: AHWLogo_vFB-cover.jpg]",
+"href": "https://www.ashleyforarkansas.com"
+},
+{
+"text": "[image: Black Facebook Icon]",
+"href": "http://www.facebook.com/ashleyforarkansas"
+},
+{
+"text": "[image: Black Twitter Icon]",
+"href": "http://www.twitter.com/AshleyForAR"
+},
+{
+"text": "ashleyforarkansas@gmail.com",
+"href": "mailto:ashleyforarkansas@gmail.com"
+}
 ]

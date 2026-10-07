@@ -1,10 +1,50 @@
 [
-"https://facebook.com/share/1E1EwQnyZ1?mibextid=wwXIfr",
-"https://instagram.com/repraymondtx?igsh=MW1yaHkxMTEycDl4ag%3D%3D",
-"https://richardraymond.com/about",
-"https://richardraymond.com/cdn-cgi/l/email-protection",
-"https://richardraymond.com/donate",
-"https://richardraymond.com/events",
-"https://richardraymond.com/gallery",
-"https://richardraymond.com/home"
+{
+"text": "ABOUT",
+"href": "https://richardraymond.com/about"
+},
+{
+"text": "About Richard",
+"href": "https://richardraymond.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://richardraymond.com/donate"
+},
+{
+"text": "DONATE NOW",
+"href": "https://richardraymond.com/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://richardraymond.com/events"
+},
+{
+"text": "GALLERY",
+"href": "https://richardraymond.com/gallery"
+},
+{
+"text": "HOME",
+"href": "https://richardraymond.com/home"
+},
+{
+"text": "RICHARD PEÑA RAYMOND",
+"href": "https://richardraymond.com/home"
+},
+{
+"text": "VIEW GALLERY",
+"href": "https://richardraymond.com/gallery"
+},
+{
+"text": "[email protected]",
+"href": "https://richardraymond.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1E1EwQnyZ1/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/repraymondtx?igsh=MW1yaHkxMTEycDl4ag%3D%3D"
+}
 ]

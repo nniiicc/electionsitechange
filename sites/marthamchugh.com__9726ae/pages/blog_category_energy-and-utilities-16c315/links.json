@@ -1,45 +1,198 @@
 [
-"https://facebook.com/mchughforsenate",
-"https://instagram.com/mchughforsenate",
-"https://linkedin.com/in/martha-mchugh-847300127",
-"https://linktr.ee/mchughforsenate",
-"https://marthamchugh.com/",
-"https://marthamchugh.com/blog",
-"https://marthamchugh.com/blog?category=affordability",
-"https://marthamchugh.com/blog?category=campaign-updates",
-"https://marthamchugh.com/blog?category=community",
-"https://marthamchugh.com/blog?category=education",
-"https://marthamchugh.com/blog?category=endorsements",
-"https://marthamchugh.com/blog?category=energy-and-utilities",
-"https://marthamchugh.com/blog?category=field-notes",
-"https://marthamchugh.com/blog?category=healthcare",
-"https://marthamchugh.com/blog?category=housing",
-"https://marthamchugh.com/blog?category=infrastructure-and-transit",
-"https://marthamchugh.com/blog?category=labor-and-jobs",
-"https://marthamchugh.com/blog?category=local-government",
-"https://marthamchugh.com/blog?category=policy",
-"https://marthamchugh.com/blog?category=press-and-media",
-"https://marthamchugh.com/blog?category=public-safety",
-"https://marthamchugh.com/blog?category=seniors",
-"https://marthamchugh.com/blog?category=small-business",
-"https://marthamchugh.com/blog?category=taxes-and-budget",
-"https://marthamchugh.com/blog?category=veterans",
-"https://marthamchugh.com/blog?category=voting-and-election-day",
-"https://marthamchugh.com/contact",
-"https://marthamchugh.com/district",
-"https://marthamchugh.com/events",
-"https://marthamchugh.com/faq",
-"https://marthamchugh.com/get-updates",
-"https://marthamchugh.com/issues",
-"https://marthamchugh.com/leadership-in-action",
-"https://marthamchugh.com/press",
-"https://marthamchugh.com/privacy-policy",
-"https://marthamchugh.com/terms",
-"https://marthamchugh.com/the-state-budget",
-"https://marthamchugh.com/transparency",
-"https://marthamchugh.com/updates",
-"https://marthamchugh.com/volunteer",
-"https://marthamchugh.com/voter-resources",
-"https://secure.winred.com/friends-of-martha-mchugh/donate",
-"https://x.com/McHughforSenate"
+{
+"text": "Affordability",
+"href": "https://www.marthamchugh.com/blog?category=affordability"
+},
+{
+"text": "All posts",
+"href": "https://www.marthamchugh.com/blog"
+},
+{
+"text": "Blog",
+"href": "https://www.marthamchugh.com/blog"
+},
+{
+"text": "Campaign Updates",
+"href": "https://www.marthamchugh.com/blog?category=campaign-updates"
+},
+{
+"text": "Clear filters",
+"href": "https://www.marthamchugh.com/blog"
+},
+{
+"text": "Community",
+"href": "https://www.marthamchugh.com/blog?category=community"
+},
+{
+"text": "Contact",
+"href": "https://www.marthamchugh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-martha-mchugh/donate"
+},
+{
+"text": "Education",
+"href": "https://www.marthamchugh.com/blog?category=education"
+},
+{
+"text": "Email The Campaign→",
+"href": "https://secure.winred.com/friends-of-martha-mchugh/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.marthamchugh.com/blog?category=endorsements"
+},
+{
+"text": "Energy and Utilities",
+"href": "https://www.marthamchugh.com/blog?category=energy-and-utilities"
+},
+{
+"text": "Events",
+"href": "https://www.marthamchugh.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.marthamchugh.com/faq"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/mchughforsenate"
+},
+{
+"text": "Field Notes",
+"href": "https://www.marthamchugh.com/blog?category=field-notes"
+},
+{
+"text": "Get Updates",
+"href": "https://www.marthamchugh.com/get-updates"
+},
+{
+"text": "Healthcare",
+"href": "https://www.marthamchugh.com/blog?category=healthcare"
+},
+{
+"text": "Housing",
+"href": "https://www.marthamchugh.com/blog?category=housing"
+},
+{
+"text": "Infrastructure and Transit",
+"href": "https://www.marthamchugh.com/blog?category=infrastructure-and-transit"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/mchughforsenate"
+},
+{
+"text": "Issues",
+"href": "https://www.marthamchugh.com/issues"
+},
+{
+"text": "Labor and Jobs",
+"href": "https://www.marthamchugh.com/blog?category=labor-and-jobs"
+},
+{
+"text": "Leadership",
+"href": "https://www.marthamchugh.com/leadership-in-action"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/martha-mchugh-847300127/"
+},
+{
+"text": "Linktree",
+"href": "https://linktr.ee/mchughforsenate"
+},
+{
+"text": "Local Government",
+"href": "https://www.marthamchugh.com/blog?category=local-government"
+},
+{
+"text": "MARTHA McHUGH",
+"href": "https://www.marthamchugh.com/"
+},
+{
+"text": "Policy",
+"href": "https://www.marthamchugh.com/blog?category=policy"
+},
+{
+"text": "Press",
+"href": "https://www.marthamchugh.com/press"
+},
+{
+"text": "Press and Media",
+"href": "https://www.marthamchugh.com/blog?category=press-and-media"
+},
+{
+"text": "Privacy",
+"href": "https://www.marthamchugh.com/privacy-policy"
+},
+{
+"text": "Public Safety",
+"href": "https://www.marthamchugh.com/blog?category=public-safety"
+},
+{
+"text": "Seniors",
+"href": "https://www.marthamchugh.com/blog?category=seniors"
+},
+{
+"text": "Small Business",
+"href": "https://www.marthamchugh.com/blog?category=small-business"
+},
+{
+"text": "State Budget",
+"href": "https://www.marthamchugh.com/the-state-budget"
+},
+{
+"text": "Taxes and Budget",
+"href": "https://www.marthamchugh.com/blog?category=taxes-and-budget"
+},
+{
+"text": "Terms",
+"href": "https://www.marthamchugh.com/terms"
+},
+{
+"text": "The District",
+"href": "https://www.marthamchugh.com/district"
+},
+{
+"text": "Transparency",
+"href": "https://www.marthamchugh.com/transparency"
+},
+{
+"text": "Updates",
+"href": "https://www.marthamchugh.com/updates"
+},
+{
+"text": "Veterans",
+"href": "https://www.marthamchugh.com/blog?category=veterans"
+},
+{
+"text": "Volunteer",
+"href": "https://www.marthamchugh.com/volunteer"
+},
+{
+"text": "Volunteer→",
+"href": "https://www.marthamchugh.com/volunteer"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.marthamchugh.com/voter-resources"
+},
+{
+"text": "Voting and Election Day",
+"href": "https://www.marthamchugh.com/blog?category=voting-and-election-day"
+},
+{
+"text": "X",
+"href": "https://x.com/McHughforSenate"
+},
+{
+"text": "[image: Campaign supporters at a district event]",
+"href": "https://www.marthamchugh.com/blog"
+},
+{
+"text": "team@marthamchugh.com",
+"href": "mailto:team@marthamchugh.com"
+}
 ]

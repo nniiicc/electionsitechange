@@ -1,6 +1,4 @@
-AMATA COLEMAN RADEWAGEN
-(Uifa’atali Amata)
-Amata Coleman Radewagen, Republican, was elected as American Samoa’s third Member of Congress on November 4, 2014.
+Skip to content Home About Priorities Brochures Donations Contact Us Donate Now Home About Priorities Brochures Donations Contact Us Menu Donate Now AMATA COLEMAN RADEWAGEN (Uifa’atali Amata) Amata Coleman Radewagen, Republican, was elected as American Samoa’s third Member of Congress on November 4, 2014.
 She is the first woman elected to the U.S.
 House of Representatives from American Samoa.
 She is the first Republican woman of Samoan descent in Congress.
@@ -46,3 +44,4 @@ Amata has a bachelor’s degree from the University of Guam, with additional stu
 One of 13 children of the late Governor and Mrs.
 Peter Tali Coleman, she is married to Fred Radewagen.
 Together they have three grown children and two grandchildren.
+Copyright © # - John Newton Customize Reject All Accept All Powered by

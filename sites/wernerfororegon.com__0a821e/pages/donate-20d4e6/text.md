@@ -1,15 +1,5 @@
-Signed in as:
-filler@godaddy.com
-Sign out
-Signed in as:
-filler@godaddy.com
-Account
-Sign out
-Send checks to:
-WERNER FOR OREGON
-PO Box 542
-Silverton, OR 97381
-Paid for by Werner For Oregon.
+Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Home Values About News Contact Us Donate More Home Values About News Contact Us Donate Signed in as: filler@godaddy.com Home Values About News Contact Us Donate Account My Account Sign out Sign In My Account Donate Let's Change Salem TOGETHER!
+Send checks to: WERNER FOR OREGON PO Box 542 Silverton, OR 97381 Contact Us Privacy Policy Donate Paid for by Werner For Oregon.
 PAC ID 17892.
-Copyright © 2026 Werner For Oregon - All Rights Reserved.
+Copyright © # Werner For Oregon - All Rights Reserved.
 Powered by

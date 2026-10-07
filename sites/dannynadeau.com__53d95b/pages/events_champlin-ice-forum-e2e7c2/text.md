@@ -1,16 +1,11 @@
-Join Rep.
-Danny Nadeau for a Townhall
-Join me on Satuday afternoon, April 19th, 2025 and let’s talk about what’s happening at the Capitol.
+Home About Issues Endorsements Articles Events Photos Voting Suburbs Survey Contact Donate Join Rep.
+Danny Nadeau for a Townhall Join me on Satuday afternoon, April 19th, 2025 and let’s talk about what’s happening at the Capitol.
 Meeting, listening, and discussing issues important to us is a top priority and I always look forward to these meetings.
 Join Rep.
-Danny Nadeau for a Townhall
-Join me on Satuday afternoon, April 19th, 2025 and let’s talk about what’s happening at the Capitol.
+Danny Nadeau for a Townhall Join me on Satuday afternoon, April 19th, 2025 and let’s talk about what’s happening at the Capitol.
 Meeting, listening, and discussing issues important to us is a top priority and I always look forward to these meetings.
-When
-Saturday, April 19th
-Starting: 2:00 p.m.
+When Saturday, April 19th Starting: 2:00 p.m.
 Ending: 3:30 p.m.
-Where
-Champlin Ice Forum
-(Large Meeting Room)
-12165 Ensign Avenue North, Champlin, Minnesota 55316
+Where Champlin Ice Forum (Large Meeting Room) 12165 Ensign Avenue North, Champlin, Minnesota 55316 Follow Follow Follow Follow Prepared and Paid for by Danny Nadeau for House | P.O.
+Box 752 Rogers, MN 55374 Follow Follow Follow Follow Privacy Policy Prepared and Paid for by Danny Nadeau for House | P.O.
+Box 752 Rogers, MN 55374

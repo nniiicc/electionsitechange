@@ -1,31 +1,31 @@
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| Keep Heavy Trucks Off Legacy Parkway!
+Home About Melissa Platforms Results Endorsements In the News Volunteer Contact Donate Newsletters Back Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Back Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Back June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session Home About Melissa Platforms Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Results Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Endorsements In the News Volunteer Contact Donate Newsletters June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session *|MC_PREVIEW_TEXT|* Learn more about Melissa Ballard, visit her website here.
+Keep Heavy Trucks Off Legacy Parkway!
 Friends and Neighbors, When you elected me as your state representative I promised to uphold the values and priorities that are important to our communities.
 I promised I would represent your and your interests no matter how large the challenge in front of us.
 Legacy Parkway is an important travel corridor for our district.
 A key part of keeping Legacy Parkway flowing and commutable has been the ban on large semi trucks traveling on it.
-With this ban set to expire December 31st 2019, I am running a bill (HB339) to extend the ban on trucks and keep Legacy Parkway drivable for all of us.
+With this ban set to expire December 31st 2019, I am running a bill ( HB339 ) to extend the ban on trucks and keep Legacy Parkway drivable for all of us.
 The trucking lobbyists are pushing back hard and I need the help of our community to make this happen!
-Sign the petition below to show your support, and please come to the House Transportation Committee meeting, Monday at 4pm in the House building on Capitol Hill.
+Sign the petition below to show your support, and please come to the House Transportation Committee meeting , Monday at 4pm in the House building on Capitol Hill.
 I will be presenting the bill and committee members will be voting on it.
 This vote is crucial to our success.
 Please come join me, testify in favor of the ban, and make your voice heard!
-Representative Melissa Ballard Utah House District 20 |
-| |
-| |
-| Sign The Petition to Help Save Legacy Parkway! |
-| |
-| |
-| Councils and Cities that Support HB 339 Davis County Council of Governments (15 Mayors and 3 County Commissioners) Woods Cross North Salt Lake Centerville Farmington West Bountiful (Resolution Pending) Bountiful (Resolution Pending) |
-| |
-| |
-| Share Your Support for HB 339!
+Sincerely, Representative Melissa Ballard Utah House District 20 Sign The Petition to Help Save Legacy Parkway!
+Councils and Cities that Support HB 339 Davis County Council of Governments (15 Mayors and 3 County Commissioners) Woods Cross North Salt Lake Centerville Farmington West Bountiful (Resolution Pending) Bountiful (Resolution Pending) Share Your Support for HB 339!
 Members of the House Transportation Committee: Rep.
 Kay Christofferson, Chair kchristofferson@le.utah.gov Rep.
 Ken Ivory, Vice Chair kivory@le.utah.gov Rep.
@@ -37,21 +37,6 @@ Karen Kwan kkwan@le.utah.gov Rep.
 Merrill Nelson mnelson@le.utah.gov Rep.
 Adam Robertson adamrobertson@le.utah.gov Rep.
 Lawanna Shurtliff lmshurtliff@le.utah.gov Rep.
-Ray Ward rayward@le.utah.gov |
-| |
-| |
-| 10:00-11:30AM February 23rd, hosted by Senator Weiler March 2nd, hosted by Representative Ballard March 9th, hosted by Representative Ward Senator Todd Weiler 1248 West 1900 South Woods Cross UT 84087 Representative Ray Ward 954 E Millbrook Way Bountiful UT 84010 Representative Melissa Ballard 407 Elk Hollow Circle North Salt Lake UT 84054 |
-| |
-| |
-| Learn More about Melissa: You can learn more about Melissa and her take on the issues at her website: melissagarffballard.com |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| Sent by the Committee to Elect Melissa Garff Ballard |
+Ray Ward rayward@le.utah.gov 10:00-11:30AM February 23rd, hosted by Senator Weiler March 2nd, hosted by Representative Ballard March 9th, hosted by Representative Ward Senator Todd Weiler 1248 West 1900 South Woods Cross UT 84087 Representative Ray Ward 954 E Millbrook Way Bountiful UT 84010 Representative Melissa Ballard 407 Elk Hollow Circle North Salt Lake UT 84054 Learn More about Melissa: You can learn more about Melissa and her take on the issues at her website: melissagarffballard.com Sent by the Committee to Elect Melissa Garff Ballard Paid for By the Committee to Elect Melissa Garff Ballard Copyright # Register To Vote Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for Melissa's Newsletter Email Address Sign Up Thank you for signing up for Melissa’s newsletter!

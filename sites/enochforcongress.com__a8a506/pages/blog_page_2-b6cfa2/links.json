@@ -1,33 +1,214 @@
 [
-"https://campaignhq.app/volunteer",
-"https://enochforcongress.com/",
-"https://enochforcongress.com/2018/01/25/dr-enochs-powerful-speech-at-the-womens-march",
-"https://enochforcongress.com/2018/04/26/speech-in-darke-county",
-"https://enochforcongress.com/2018/05/01/i-took-the-pledge",
-"https://enochforcongress.com/2018/06/19/separating-families-at-the-border-is-immoral",
-"https://enochforcongress.com/2018/07/17/facebook-town-hall-health-care-chat",
-"https://enochforcongress.com/2018/07/20/facebook-town-hall-about-me",
-"https://enochforcongress.com/2018/07/22/i-signed-the-pro-truth-pledge",
-"https://enochforcongress.com/2018/07/24/facebook-town-hall-economic-development",
-"https://enochforcongress.com/about-ohios-8th-congressional-district",
-"https://enochforcongress.com/bio",
-"https://enochforcongress.com/blog",
-"https://enochforcongress.com/community-survey",
-"https://enochforcongress.com/contact",
-"https://enochforcongress.com/donate-now",
-"https://enochforcongress.com/endorsements",
-"https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such",
-"https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting",
-"https://enochforcongress.com/events",
-"https://enochforcongress.com/issue",
-"https://enochforcongress.com/product/free-yard-sign",
-"https://enochforcongress.com/shop",
-"https://enochforcongress.com/volunteer",
-"https://enochforcongress.com/volunteer-portal",
-"https://enochforcongress.com/voting-in-2026",
-"https://facebook.com/1DocEnoch",
-"https://instagram.com/doc.enoch",
-"https://linkedin.com/in/dr-vanessa-enoch",
-"https://pinterest.com/EnochforCongress",
-"https://twitter.com/DrVEnoch"
+{
+"text": "1",
+"href": "https://enochforcongress.com/blog/"
+},
+{
+"text": "About",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Biography",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Blog",
+"href": "https://enochforcongress.com/blog/"
+},
+{
+"text": "Contact",
+"href": "https://enochforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://enochforcongress.com/donate-now/"
+},
+{
+"text": "Dr. Enoch’s Powerful Speech at the Women’s March",
+"href": "https://enochforcongress.com/2018/01/25/dr-enochs-powerful-speech-at-the-womens-march/"
+},
+{
+"text": "Endorsements",
+"href": "https://enochforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/1DocEnoch/"
+},
+{
+"text": "Facebook Town Hall: About Me",
+"href": "https://enochforcongress.com/2018/07/20/facebook-town-hall-about-me/"
+},
+{
+"text": "Facebook Town Hall: Economic Development",
+"href": "https://enochforcongress.com/2018/07/24/facebook-town-hall-economic-development/"
+},
+{
+"text": "Facebook Town Hall: Health Care Chat",
+"href": "https://enochforcongress.com/2018/07/17/facebook-town-hall-health-care-chat/"
+},
+{
+"text": "Home",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "I Signed the Pro-Truth Pledge",
+"href": "https://enochforcongress.com/2018/07/22/i-signed-the-pro-truth-pledge/"
+},
+{
+"text": "I Took the Pledge",
+"href": "https://enochforcongress.com/2018/05/01/i-took-the-pledge/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/doc.enoch/"
+},
+{
+"text": "Issues",
+"href": "https://enochforcongress.com/issue/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/dr-vanessa-enoch/"
+},
+{
+"text": "October Meet & Greet with Dr. Vanessa Enoch @ Major Minor Books and Such",
+"href": "https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such/"
+},
+{
+"text": "October Wooster Corridor Democrats Meeting",
+"href": "https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting/"
+},
+{
+"text": "Ohio’s 8th Congressional District",
+"href": "https://enochforcongress.com/about-ohios-8th-congressional-district/"
+},
+{
+"text": "Order a Yard Sign",
+"href": "https://enochforcongress.com/product/free-yard-sign/"
+},
+{
+"text": "Pinterest",
+"href": "https://www.pinterest.com/EnochforCongress/"
+},
+{
+"text": "Read More about Dr. Enoch’s Powerful Speech at the Women’s March",
+"href": "https://enochforcongress.com/2018/01/25/dr-enochs-powerful-speech-at-the-womens-march/"
+},
+{
+"text": "Read More about Facebook Town Hall: About Me",
+"href": "https://enochforcongress.com/2018/07/20/facebook-town-hall-about-me/"
+},
+{
+"text": "Read More about Facebook Town Hall: Economic Development",
+"href": "https://enochforcongress.com/2018/07/24/facebook-town-hall-economic-development/"
+},
+{
+"text": "Read More about Facebook Town Hall: Health Care Chat",
+"href": "https://enochforcongress.com/2018/07/17/facebook-town-hall-health-care-chat/"
+},
+{
+"text": "Read More about I Signed the Pro-Truth Pledge",
+"href": "https://enochforcongress.com/2018/07/22/i-signed-the-pro-truth-pledge/"
+},
+{
+"text": "Read More about I Took the Pledge",
+"href": "https://enochforcongress.com/2018/05/01/i-took-the-pledge/"
+},
+{
+"text": "Read More about Separating Families at the Border is Immoral",
+"href": "https://enochforcongress.com/2018/06/19/separating-families-at-the-border-is-immoral/"
+},
+{
+"text": "Read More about Speech in Darke County",
+"href": "https://enochforcongress.com/2018/04/26/speech-in-darke-county/"
+},
+{
+"text": "Separating Families at the Border is Immoral",
+"href": "https://enochforcongress.com/2018/06/19/separating-families-at-the-border-is-immoral/"
+},
+{
+"text": "Share Your Opinion",
+"href": "https://enochforcongress.com/community-survey/"
+},
+{
+"text": "Shop",
+"href": "https://enochforcongress.com/shop/"
+},
+{
+"text": "Speech in Darke County",
+"href": "https://enochforcongress.com/2018/04/26/speech-in-darke-county/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/DrVEnoch"
+},
+{
+"text": "Upcoming Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "Volunteer",
+"href": "https://campaignhq.app/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://enochforcongress.com/volunteer/"
+},
+{
+"text": "Volunteer Portal",
+"href": "https://enochforcongress.com/volunteer-portal/"
+},
+{
+"text": "Voting in 2026",
+"href": "https://enochforcongress.com/voting-in-2026/"
+},
+{
+"text": "[image: Vanessa Enoch for Congress]",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/2018/01/25/dr-enochs-powerful-speech-at-the-womens-march/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/2018/04/26/speech-in-darke-county/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/2018/05/01/i-took-the-pledge/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/2018/06/19/separating-families-at-the-border-is-immoral/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/2018/07/17/facebook-town-hall-health-care-chat/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/2018/07/20/facebook-town-hall-about-me/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/2018/07/22/i-signed-the-pro-truth-pledge/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/2018/07/24/facebook-town-hall-economic-development/"
+},
+{
+"text": "dr.enoch@enochforcongress.com",
+"href": "mailto:dr.enoch@enochforcongress.com"
+},
+{
+"text": "« Previous",
+"href": "https://enochforcongress.com/blog/"
+}
 ]

@@ -1,4 +1,4 @@
-Baltimore: Let's Build a New Political Future!
+0 Skip to Content Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Open Menu Close Menu Open Menu Close Menu Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Home Folder: About Back Meet Andy Meet Owen Why We Are Running Campaign Plan Folder: Media Back News Livestream Podcast Folder: Get Involved Back Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Folder: Issues Back Priorities Platform Donate Back to All Events Baltimore Meet & Greet Thursday, August 27, 2026 6:00 PM 8:00 PM Peabody Heights Brewery - Pennant Room 401 East 30th Street Baltimore, Maryland, 21218 United States (map) Google Calendar ICS Baltimore: Let's Build a New Political Future!
 Are you ready to shake up Maryland politics?
 Join us in the Pennant Room at Peabody Heights Brewery to meet Andy Ellis, the Green Party candidate for Governor of Maryland.
 Meet Andy – Andy Ellis is running for Governor with Lt.
@@ -8,9 +8,8 @@ Ask Anything – This is not a pre-staged photo op.
 Bring your questions, your ideas, and the issues that matter most in Baltimore, and talk with a candidate who actually wants to hear them.
 Join the Campaign – Find out how you can be part of a people-powered run for Governor: volunteering, spreading the word, and helping build the campaign.
 Who should attend?
-- Anyone who wants to meet a candidate for Governor face to face
-- Independents searching for a real political home
-- Democrats and Republicans who want more choices on the ballot
-- Anyone fed up with politics as usual and ready to build something better
-RSVP now and join the conversation!
-* This event is not affiliated with Peabody Heights Brewery.
+Anyone who wants to meet a candidate for Governor face to face Independents searching for a real political home Democrats and Republicans who want more choices on the ballot Anyone fed up with politics as usual and ready to build something better RSVP now and join the conversation! * This event is not affiliated with Peabody Heights Brewery.
+Previous Previous August 23 No Data Centers in Baltimore City Rally Next Next August 29 Come See Us at Democracy Fest 2.0 Like what you see?
+Join the movement.
+DONATE volunteer Green Party Candidates for Governor & Lt.
+Governor 2026 Send us an email at andy@gogreen2026.com Contact News Press Kit Authority: Campaign Donations for Andy Ellis, Brian Bittner Treasurer

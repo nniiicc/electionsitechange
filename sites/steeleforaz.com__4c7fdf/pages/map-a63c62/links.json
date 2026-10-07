@@ -1,14 +1,62 @@
 [
-"https://facebook.com/FrankSteeleAZ",
-"https://instagram.com/steeleforazsenate",
-"https://steeleforaz.com/",
-"https://steeleforaz.com/about",
-"https://steeleforaz.com/cdn-cgi/l/email-protection",
-"https://steeleforaz.com/clean-elections",
-"https://steeleforaz.com/es/mapa",
-"https://steeleforaz.com/map",
-"https://steeleforaz.com/platform",
-"https://steeleforaz.com/privacy-policy",
-"https://steeleforaz.com/sms-terms",
-"https://steeleforaz.com/vote"
+{
+"text": "Clean Elections",
+"href": "https://steeleforaz.com/clean-elections/"
+},
+{
+"text": "Contact",
+"href": "mailto:frank@steeleforaz.com"
+},
+{
+"text": "District Map",
+"href": "https://steeleforaz.com/map/"
+},
+{
+"text": "EN",
+"href": "https://steeleforaz.com/map/"
+},
+{
+"text": "ES",
+"href": "https://steeleforaz.com/es/mapa/"
+},
+{
+"text": "Early Voting Starts October 7th – Make a Plan to Vote Frank!",
+"href": "https://steeleforaz.com/vote/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/FrankSteeleAZ/"
+},
+{
+"text": "Home",
+"href": "https://steeleforaz.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/steeleforazsenate/"
+},
+{
+"text": "Meet Frank",
+"href": "https://steeleforaz.com/about/"
+},
+{
+"text": "Platform",
+"href": "https://steeleforaz.com/platform/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://steeleforaz.com/privacy-policy/"
+},
+{
+"text": "SMS Terms",
+"href": "https://steeleforaz.com/sms-terms/"
+},
+{
+"text": "Vote",
+"href": "https://steeleforaz.com/vote/"
+},
+{
+"text": "[image: Frank Steele for LD24 State Senate Campaign Logo]",
+"href": "https://steeleforaz.com"
+}
 ]

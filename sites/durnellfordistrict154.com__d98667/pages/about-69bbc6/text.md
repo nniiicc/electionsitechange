@@ -1,4 +1,5 @@
-For those who don’t know me, allow me to introduce myself!
+Durnell For District 154 Facebook About Policy Positions Ways to Help!
+About For those who don’t know me, allow me to introduce myself!
 My name is Lisa Durnell and I am a life-long south-central Missouri resident.
 After attending Mountain View schools, I went on to graduate from the University of Missouri with Bachelor of Science in Ag Ed, but we won’t say how many years ago!
 I’ve worked privately as a residential appraiser, publicly as a certified right-of-way specialist for MODOT, and am currently holding a part-time position at the Howell County Collector’s office.
@@ -20,3 +21,10 @@ But please, cover me in prayer.
 I’ll need it.
 Our state needs it.
 Our country needs it.
+Quote of the week “For too long, we have allowed the left to chip away at the values we hold dear.
+I have watched the political processes in our state the last few years and feel that we really need a change toward true conservatism before we lose any more ground .” ~ Lisa Durnell Durnell For District 154 Lisa durnell It’s time for good people to step up and fight for Missouri and Howell County.
+Pages About Policy Positions Ways to Help!
+Follow Us Facebook Paid for by Committee to Elect Lisa Durnell – Lalah Gregory, Treasurer Blog at WordPress.com.
+Subscribe Subscribed Durnell For District 154 Sign me up Have a WordPress.com account?
+Log in now.
+Durnell For District 154 Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

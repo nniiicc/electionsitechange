@@ -1,8 +1,34 @@
 [
-"https://app.vivote.gov/registration/register",
-"https://docs.google.com/forms/d/e/1FAIpQLSfV5fQMd5lXoAbJdStl4MAG-s2KLrFu2hhsxcEH6m3PdOvvqQ/viewform",
-"https://facebook.com/profile.php?id=61587185685766",
-"https://josebessegonzalez.com/",
-"https://josebessegonzalez.com/about",
-"https://josebessegonzalez.com/platform"
+{
+"text": "About",
+"href": "https://josebessegonzalez.com/about"
+},
+{
+"text": "BESSE.",
+"href": "https://josebessegonzalez.com/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61587185685766"
+},
+{
+"text": "Follow Us on Facebook",
+"href": "https://www.facebook.com/profile.php?id=61587185685766"
+},
+{
+"text": "Join the Team →",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfV5fQMd5lXoAbJdStl4MAG-s2KLrFu2hhsxcEH6m3PdOvvqQ/viewform"
+},
+{
+"text": "Platform",
+"href": "https://josebessegonzalez.com/platform"
+},
+{
+"text": "info@josebessegonzalez.com",
+"href": "mailto:info@josebessegonzalez.com"
+},
+{
+"text": "🗓 Early Voting: October 12 – 26 · Register at vivote.gov",
+"href": "https://app.vivote.gov/registration/register"
+}
 ]

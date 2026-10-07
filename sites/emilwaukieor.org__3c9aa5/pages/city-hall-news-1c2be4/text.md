@@ -1,6 +1,23 @@
-Not to pat myself on my back, but I had one of the questions asked of Milwaukie candidates at Milwaukie's candidate forum.
-Here's my question that is asked of candidates at Milwaukie's candidate forum (9/28/26):
-1.
+Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes More Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes Anderson Accepts monies from Realtor group Here's selected campaign account info for Milwaukie Mayoral candidate Will Anerson: Milwaukie Mayoral candidate Will Anderson receives a $10,000 contribution from Portland Metropolitan Realtors political action committee.
+Anderson wants to push denser housing in Milwaukie, even after the financial shortfalls of the Short Stack government subsidized cottage cluster housing project financially assisted with City of Milwaukie dollars and now is in fire sale mode.
+(Photo above of selected large campaign donations for Anderson is his campaign finance account publicly available on the Oregon Secretary of State website.) You kind of have to wonder if $10,000 from a local realtor association could influence Anderson's decisions affecting Milwaukie System Development Charges, which currently are already below average relative to those of surrounding cities.
+Anderson is building a political career and so, this also could influence his want to keep realtors and developers happy, if you know what I mean.
+The other $1,000 listed is from a fireman's union.
+Not sure what the motivation is with this union.
+Maybe a downsizing of Milwaukie's urban renewal district, which would bring more money in for the Clackamas Fire District and also Milwaukie's General fund - which would help close some of Milwaukie's budget deficit in 2028 and 2029.
+That would be good.
+But this is just conjecture on my part.
+(Milwaukie's urban renewal district should be revised from covering Milwaukie Market Place and Milwaukie Downtown to just Milwaukie Downtown, in my opinion.
+This revision would bring in perhaps $100,000 more in Milwaukie's General Fund budget and still leave a lot of money left over in the urban renewal account for use in say paying for the Milwaukie Bay Park planned improvements.) Council candidate and current planning commissioner Nick Hess donated to Anderson's campaign; and so, you can see, the two want to pull Milwaukie in the same direction, more or less.
+I describe the Mayoral choice between Batey and Anderson, as Batey is incremental growth (good in most Milwaukiean minds) and Anderson and Hess are go-big growth.
+Currently, Anderson's campaign finance account shows $24,000 in total contributions and $22,000 in cash balance.
+Whereas Mayor Batey's campaign finance account shows $8,000 in contributions and $5,000 in cash balance.
+Batey's donations are mostly small and include herself and family plus Wilda Parks longtime stalwart in Milwaukie made a small donation as well.
+I admit that I plan to vote for Batey, and not Anderson, for Mayor in this upcoming November General Election. (posted by Elvis Clark on October 6, 2026) Milwaukie Candidate forum initial thoughts for taxpayers Milwaukie Mayor Lisa Batey seeks re-election and is challenged by a Milwaukie City Councilor Milwaukie Mayor Lisa Batey seeks re-election and is challenged by a Milwaukie City Councilor Milwaukie Mayor Lisa Batey seeks re-election and is challenged by a Milwaukie City Councilor Not to pat myself on my back, but I had one of the questions asked of Milwaukie candidates at Milwaukie's candidate forum.
+Here's my question that is asked of candidates at Milwaukie's candidate forum (9/28/26): 1.
 The Milwaukie City Finance Department is forecasting substantial Budget shortfalls over the next four years.
 Will you seek to balance the budget by cutting expenditures, raising taxes/fees, tapping budget reserves, or a combination of these three?
 Mayor Batey says she doesn't know how she would cut the City Budget to balance the City's budget.
@@ -10,9 +27,7 @@ I am not sure Mayor Batey won't instead seek to increase City fees, which would 
 Nonetheless, I recommend voting to re-elect Mayor Batey.
 She is much more measured on Milwaukie's growth and development than is her opponent Councilor Will Anderson.
 Here's the link to the 2026 Milwaukie City Council candidate forum - wow, it is over an hour and half long.
-Persevere:
-Milwaukie Council and Mayoral Candidates Forum, September 28, 2026
-Councilor Anderson answered my question about balancing the City Budget forecast to run into the red in a couple of years from now, by saying he would seek to grow the city's mixed-use buildings (buildings with retail business on first floor and apartments on above floors above).
+Persevere: Milwaukie Council and Mayoral Candidates Forum, September 28, 2026 Milwaukie Councilor, Will Anderson, also runs to be Milwaukie Mayor Milwaukie Mayor Lisa Batey seeks re-election and is challenged by a Milwaukie City Councilor Milwaukie Mayor Lisa Batey seeks re-election and is challenged by a Milwaukie City Councilor Councilor Anderson answered my question about balancing the City Budget forecast to run into the red in a couple of years from now, by saying he would seek to grow the city's mixed-use buildings (buildings with retail business on first floor and apartments on above floors above).
 This would grow the property tax base and bring in more tax property tax proceeds to help partially meet the City budget deficit.
 He contemplates that more taxes and/or fees would also be needed to fill the remaining budget deficit.
 The problem I see in Anderson's plan to grow the city with mixed-use buildings is that these type buildings are not probably economically viable - as, for instance, the City has been trying to turn the Coho property at Main and Washington into a cornerstone mixed-use building for the better part of the current decade and the developer of Coho says it does not come close to penciling out financially as a viable project.
@@ -26,12 +41,11 @@ Personnel costs seem out of control at Milwaukie City government - the Public Em
 Anderson blames the federal government for cutting Medicaid budgets and somehow links this to City personnel health care costs.
 This doesn't make sense, to me, as government employees are not on Medicaid but the state's healthcare insurance plan (which is like almost gold-plated healthcare, and not Medicaid).
 Well, more to come on the City Council candidate forum over the next several days or so.
-Allie Ball is a bright and beautiful young lady who communicates sharply and clearly - no word salads.
+Vote for Allie Ball -Milwaukie City Council position #2 Allie Ball is a bright and beautiful young lady who communicates sharply and clearly - no word salads.
 She catches my attention at the Milwaukie candidate forum held this past Monday, September 28, when she says: as Councilor she would require a public vote on new taxes if they were to become necessary for balancing the City budget.
 I wrote her an e-mail yesterday (9/30/26) asking if she would extend her policy of requiring a public vote on proposed taxes, and she responded today very articulately that she would want a public vote if a proposed new fee is substantive.
 She also wants the public to understand why the budget might require a proposed tax and/or fee.
-Here's her response to my e-mail about wanting a public vote on taxes and fees:
-"You are remembering correctly that my position is I would not support raising taxes without putting that question before Milwaukie voters.
+Here's her response to my e-mail about wanting a public vote on taxes and fees: " You are remembering correctly that my position is I would not support raising taxes without putting that question before Milwaukie voters.
 Under our city laws, tax increases have to have voter approval and cannot simply be enacted.
 Based on both our city laws and our adopted 27-28 Budget, a tax measure would most likely come before voters in 2028.
 Tax increases in the city of Milwaukie have to go before the voters.
@@ -47,26 +61,19 @@ To me, that would include exploring things like participatory budgeting, where r
 If I were to be elected, I will never treat this like a part-time job.
 My door will always be open and I will always be willing to meet.
 I want to hear from the people who live, work, and invest in Milwaukie, and I never want residents to feel like decisions are being made without them.
-I hope this better clarifies my position, and thank you again for reaching out."
-I am not sure Allie is correct about all taxes requiring a public vote - they do in the case of property taxes.
+I hope this better clarifies my position, and thank you again for reaching out." I am not sure Allie is correct about all taxes requiring a public vote - they do in the case of property taxes.
 But there is the matter of other types of taxes, like local sales taxes that don't seem to necessarily require a public vote.
-(I need to confirm by looking at the city charter.)
-The usual path of getting elected or appointed to City Council is being a City Planning Commission member.
+(I need to confirm by looking at the city charter.) Planning Commissioner Hess competes with Ball for City Council Seat #2 The usual path of getting elected or appointed to City Council is being a City Planning Commission member.
 This makes Hess the likely winner of Council seat #2 come this November's election.
-But, boy, I fear a combination of Will Anderson and Hess being both on Milwaukie City Council - they seem like they would just steamroll Milwaukie with the Go Big approach to Milwaukie's growth and development.
-(posted by Elvis Clark at close to the midnight hour on September 28, 2026 and updated for endorsement of Allie Ball for Milwaukie position #2 on October 1, 2026)
-(p.s.
+But, boy, I fear a combination of Will Anderson and Hess being both on Milwaukie City Council - they seem like they would just steamroll Milwaukie with the Go Big approach to Milwaukie's growth and development. (posted by Elvis Clark at close to the midnight hour on September 28, 2026 and updated for endorsement of Allie Ball for Milwaukie position #2 on October 1, 2026) (p.s.
 Councilor Massey says he actually reads this website, and so, maybe I continue on with this website after this November's elections.
-If I could get other conservative writers in Milwaukie to cover City Hall, it sure would be easier for me to continue on with this website.)
-It seems city councils like Milwaukie cannot stick to the basics - maybe because basic services are mostly boring and already performed by the City Manager - so City Councils like Milwaukie's dabble in things like Land Banking - where the city embarks on a token program of buying up urban land within the city limits with a plan to someday lord over its development into like housing.
+If I could get other conservative writers in Milwaukie to cover City Hall, it sure would be easier for me to continue on with this website.) 2 things discussed at Milwaukie city council on 1/6/26 City of Milwaukie toys with more land banking, as it sits on land held over 8 years now It seems city councils like Milwaukie cannot stick to the basics - maybe because basic services are mostly boring and already performed by the City Manager - so City Councils like Milwaukie's dabble in things like Land Banking - where the city embarks on a token program of buying up urban land within the city limits with a plan to someday lord over its development into like housing.
 Land Banking by cities is paying up for valuable urban land, making it unavailable for private development, and then with some frequency sitting on the undeveloped land/property for years.
 In the above photo, the city of Milwaukie government has owned this property called Coho Point, planning its development, since the year 2017, or now over 8 years.
 The travesty to Oregon's Urban Growth Boundary (UGB) is that if government must do Land Banking, it would be far cheaper to buy lands just outside the urban growth boundary; because land just outside the UGB is as much as ten times less expensive than lands inside urban areas like the City of Milwaukie - this according to the Oregon Property Owners Association.
 There is a big enough gap between current market value of land just outside the UGB and its prospective value as new housing development - that this big gap in economic value could give those owning the land just outside the UGB a modestly higher sale price and, at the same time, leave enough savings to fund building the public infrastructure (roads, sewer, water, etc) to access these lands for housing development.
 But Oregonians are stuck in a mindset fearing what is called "sprawl" - never mind that less than 4% of Oregon's land mass is developed at this point and has been for some 50 years now despite a doubling of Oregon's population.
-Oregon is very good at growing moss but not at building nice homes for its people.
-(posted by Elvis Clark on January 14, 2026)
-The City of Milwaukie has a goal this year to takeover Milwaukie Bay Park from North Clackamas Parks and Recreation District (NCPRD).
+Oregon is very good at growing moss but not at building nice homes for its people. (posted by Elvis Clark on January 14, 2026) Milwaukie sends proposal to take over Milwaukie Bay Park from Clackamas County The City of Milwaukie has a goal this year to takeover Milwaukie Bay Park from North Clackamas Parks and Recreation District (NCPRD).
 NCPRD is controlled ultimately by the Clackamas County Board of Commissioners.
 Milwaukie's grand plan for improving Milwaukie Bay Park (which is just across Milwaukie's downtown on the Willamette River) is expected to cost upwards of $10 million.
 Milwaukie's current proposal for taking over Milwaukie Bay Park from NCPRD asks that Milwaukie receive NCPRD System Development Charges (SDC) that are associated with development revenues located in the City of Milwaukie.
@@ -79,11 +86,10 @@ Or, this could instead be yet another water bill fee added to Milwaukie water bi
 I myself would vote No on such property tax increases.
 I think Milwaukie Bay Park is fine just as is, and besides, it is not all that accessible for many Milwaukians like myself, because there are two major freeways (HWY 224 and McLoughlin Blvd) between my home and Milwaukie Bay Park.
 I think I could mount a good argument against such property bond/tax measures by arguing that Milwaukie's Urban Renewal monies should fund Milwaukie Bay Park rather than another tax/fee on Milwaukians.
-Milwaukie City Councilor Will Anderson (photo to the right) and I have a conversation about transportation this last Friday.
+Milwaukie Councilor and I have a good conversation City Councilor Anderson is bright but suffers from an allegiance to Progressive Governance Milwaukie City Councilor Will Anderson (photo to the right) and I have a conversation about transportation this last Friday.
 Will Anderson strikes me as being pretty, pretty bright ...engaging and challenging.
 Unfortunately, Will Anderson, like many politicians in the Willamette Valley, must have an allegiance to Progressive idealism (lacking a good dose of realism) if he is to be allowed to become a successful Oregon politician.
-If you want to know what Progressive governance causes, you do not have look any further then the neighboring city of Portland - which a leading economist formerly of ECOnorthwest consulting firm (used by many governments for economic analysis including those in Portland) says: Portland is now in a "doom loop."
-Progressive governance depends on a heavy hand of government, both in taxation and ever tightening restrictions on commerce (and mobility).
+If you want to know what Progressive governance causes, you do not have look any further then the neighboring city of Portland - which a leading economist formerly of ECOnorthwest consulting firm (used by many governments for economic analysis including those in Portland) says: Portland is now in a "doom loop." Progressive governance depends on a heavy hand of government, both in taxation and ever tightening restrictions on commerce (and mobility).
 Portland began adopting progressive ideals in its governance probably beginning around the year 2005, when it adopts a plan called the "Ten Year Plan to End Homelessness." I participated in townhalls on this plan, and I knew then and there that I wanted to get out of Portland.
 The Plan makes the assumption that Portland simply spends its way out of homeless.
 The real world doesn't work this way, and it takes Progressive politicians and a coopted TV media to coax the electorate into sustaining these types of unrealistic, idealistic policies made law.
@@ -98,9 +104,7 @@ But hey, I am just one brain of many, so maybe I am being too extreme.
 One of the findings from my master's coursework in American Economic history is that America has a penchant for experimenting with grandiose plans, and sometimes big things fall out of this tendency to pursue grand plans.
 A current example might be the evolving battery technology for powering equipment like drones, bicycles, scooters, leaf blowers, hybrid and all-electric cars.
 Then again, this seeming fruit falling from America's splurge on the Green New Deal would maybe have come anyway - as it is now several decades ago that Toyota introduced the Prius car using the same battery technology and without government subsidization.
-That's all Folks, as Bugs Bunny would say ending his cartoons.
-(posted by Elvis Clark on October 19, 2025)
-Under the city codes adopted this last Tuesday (8/19/25, excerpt screen shot just above here), developers can cram more housing units onto a lot when the housing is restricted to those with low income, either in ownership or rental.
+That's all Folks, as Bugs Bunny would say ending his cartoons. (posted by Elvis Clark on October 19, 2025) Milwaukie city council votes 3 to 2 for more crammed infill Developers in Milwaukie can now eliminate most open space around new housing, setbacks reduced Under the city codes adopted this last Tuesday (8/19/25, excerpt screen shot just above here), developers can cram more housing units onto a lot when the housing is restricted to those with low income, either in ownership or rental.
 This low-income deed/rental restriction on these properties with little setbacks (open space between housing units) is for a term of 60 years.
 Cow-a-bunga, that's a long, long time for the City to continually check up on these type housing units to make sure they are actually owned or rented by those with low-income.
 The city manager admits that it will be a challenge to enforce these low-income deed/rental restrictions - which, to me, says these housing units will relatively quickly become rentals rather than owner occupied.
@@ -110,9 +114,7 @@ Low-income people are exempt from this new fee.
 Mayor Batey and Councilor Massey of Milwaukie City Council voted against this ordinance that sharply reduces setbacks while Councilors Khosroabadi, Anderson and Stavenjord voted to approve this ordinance.
 Batey and Massey - the older members of the Council and longtime residents of Milwaukie - voted against - because it is their belief that easing setbacks is likely to cause problems not anticipated by the ordinance.
 I can only think that Khosroabadi and Anderson (both relatively young politicians) are influenced to vote yes, because they are wanting to build their own Progressive resumes to seek higher elected office.
-And voting for infill will likely build their resumes for pursuing higher elected offices now dominated by Progressive politics.
-(posted by Elvis Clark on August 22, 2025)
-Milwaukie City Hall does not care about existing residents, as it is part of a cabal that seeks to remake Milwaukie into a place for those very dependent on government assistance.
+And voting for infill will likely build their resumes for pursuing higher elected offices now dominated by Progressive politics. (posted by Elvis Clark on August 22, 2025) Milwaukie city hall prostitutes itself, funding shack houses This Tuesday, Milwaukie City Council looks to enact law to speed building of poor houses Milwaukie City Hall does not care about existing residents, as it is part of a cabal that seeks to remake Milwaukie into a place for those very dependent on government assistance.
 This trend in Milwaukie governance repeats the same mistakes made by neighboring city of Portland, which used to be the place to move to but after adopting these government hand out programs (such as "affordable housing"), is now the place to avoid.
 The printed block outlined in red, above, is an ordinance that Milwaukie City Council is likely to pass this coming Tuesday, August 19, 2025.
 It makes it easier for Milwaukie City Hall to fund, with taxpayer monies, more "affordable" housing shacks like the one pictured in the panel just to the right of this panel.
@@ -121,31 +123,20 @@ Milwaukie City Hall is controlled by progressive politicians who simply to do no
 Milwaukie's politicians are dead set on increasing the population density of Milwaukie, designing in more poverty rather than protecting the interests of Milwaukie's existing middle class single-family neighborhoods.
 Before Milwaukie City Hall became controlled by progressive politicians, Milwaukie is a blue-collar type of town where hardworking people earned a piece of the rock, namely a single-family home with a yard.
 Now, Milwaukie's progressive-controlled city hall aims to prostitute its city by importing less ambitious people and those who are more prone to commit crime (statistically speaking).
-When you hear the government talk about affordable housing, it is housing that is funded by government via taxes on those who actually work hard and earn their own living.
-(posted by Elvis Clark on August 16, 2025)
-Pictured above is one of Milwaukie City Hall's newest "affordable" housing projects on Harvey Street and about 37th Avenue.
+When you hear the government talk about affordable housing, it is housing that is funded by government via taxes on those who actually work hard and earn their own living. (posted by Elvis Clark on August 16, 2025) Pictured above is one of Milwaukie City Hall's newest "affordable" housing projects on Harvey Street and about 37th Avenue.
 It crams 15 two-story shack-like houses onto a half-acre lot, leaving no open space and those who will live here will depend on parking their cars on the nearby street, which already has limited parking.
 If this were not enough, those who build their own home with their own monies in the city of Milwaukie pay a construction tax, that goes to Milwaukie City government and then is used to fund these crammed government funded shack houses.
 To add insult injury for existing residents, these dense developments do not have their own parking spaces but instead result in rows of parked cars on nearby streets.
 It gets even worse for existing residents of Milwaukie, because while the people living at these government funded houses will require more police services and other basic government services; these new residents of government funded houses will not pay much if any in property taxes to fund the basic services they will require.
 Instead, Milwaukie City Council is also planning to add a new fee onto water bills to fund the growing demands on the City's police department, caused by the growing population of Milwaukie, that Milwaukie City Hall bends over backwards to help cause.
-(This new fee is also scheduled for City Council's approval this coming Tuesday, August 19, 2025.)
-Low Income people will be exempt from paying this new water bill fee, euphemistically called a public safety fee.
+(This new fee is also scheduled for City Council's approval this coming Tuesday, August 19, 2025.) Low Income people will be exempt from paying this new water bill fee, euphemistically called a public safety fee.
 So, City Hall is imposing a new fee on the middle class while bending over backwards to bring in poorer people who do not pay much in taxes to pay for the police and other basic services they require.
 So, how can you think any differently: that Milwaukie's City Hall does not listen or care about its existing residents - as the electorate naively votes for a progressive city hall, not aware of an appointment system that favors continuing Progressive politician representation?
 You simply can't deny these conclusions.
-My testimony ("CouncilTest25Je17") is in response to Council President Will Anderson's June Milwaukie Pilot column, which came in the postal mail to Milwaukie residents in this last week.
+My testimony about the flaws in current housing policies My testimony ("CouncilTest25Je17") is in response to Council President Will Anderson's June Milwaukie Pilot column, which came in the postal mail to Milwaukie residents in this last week.
 I post photos of Anderson's column on middle housing posted in the next section down.
 It's kind of humorous that Council President Anderson talks how cramming houses together will provide efficiencies.
-This is pretty rich, considering that government most always - I mean almost always - takes any savings and spends it away in higher government salaries/perks or some pet project that helps but a few people looking for government pork.
-(posted by Elvis Clark on June 13, 2025)
-CouncilTest25Je17 (pdf)
-Download
-The above is a photo of a column written by Milwaukie Council President Will Anderson, appearing in the June 2025 "Milwaukie Pilot."
-The next column panel over is the second half of Anderson's column.
-(sorry about the fuzziness of the Milwaukie Pilot photos here.
-(posted by Elvis Clark on June 17, 2025)
-I testified at this Milwaukie Budget Committee meeting against the proposal to add a new $7 fixed fee onto Milwaukie's monthly water bills.
+This is pretty rich, considering that government most always - I mean almost always - takes any savings and spends it away in higher government salaries/perks or some pet project that helps but a few people looking for government pork. (posted by Elvis Clark on June 13, 2025) CouncilTest25Je17 (pdf) Download People mostly want single family houses not middle housing This message not getting through to progressive officials like Anderson The above is a photo of a column written by Milwaukie Council President Will Anderson, appearing in the June 2025 "Milwaukie Pilot." The next column panel over is the second half of Anderson's column. (sorry about the fuzziness of the Milwaukie Pilot photos here. (posted by Elvis Clark on June 17, 2025) for the rest of the story: MIlwaukie city staff recommends new water bill fee The following are excerpts from the Milwaukie Budget Committee meeting held May 12, 2025: I testified at this Milwaukie Budget Committee meeting against the proposal to add a new $7 fixed fee onto Milwaukie's monthly water bills.
 I argue that adding a new $7 per month fixed fee to Milwaukie water bills is not necessary at this time given that the Milwaukie Finance Department is projecting City general fund surpluses through June 2028.
 The City is actually doing a good job of holding down expenses, and this is the reason it is now projecting surplus general fund balances through June 2028, whereas last year at this time the projection is for general fund surpluses ending by June 2026.
 But despite having budget surpluses through June 2008, Milwaukie's City Councilors are deciding to add a new fixed fee onto Milwaukie's monthly water bills, pushing water bills for city residences higher by some 7.5%, sometime in the next 6 to 12 months.
@@ -159,15 +150,11 @@ And if this were not all, the Milwaukie City Council also intends to have the Po
 The radar would issue tickets for speeding on these two highways, with the City collecting the fines stemming from the tickets.
 This is what you get with Milwaukie's tax and spend City Councilors.
 Ironically, one of Milwaukie Council's stated goal is to make Milwaukie more "affordable." But you know government lies when it talks about affordability, because in the eyes of government in Oregon, affordability actually means higher taxes and fees on ordinary working stiffs.
-As the saying goes, especially in the case of Oregon: "Socialism works for those that don't,"
-(posted by Elvis Clark on May 14, 2025)
-Here's the link to Milwaukie's Survey for setting its new goals:
-City Council Goals (2025-2027) | Engage Milwaukie
-The Survey requires you to choose three new goals.
-So, I just checked the first three proposed goals, but for each of these goals I added a comment saying: "But do so without cost."
-Then there is a box for writing further comment on the City's push to expand.
-Here's what I wrote in this Goal Survey comment box:
-"I want the Council to focus on keeping down increases in taxes and fees while maintaining basic services, such as police, roads and public works.
+As the saying goes, especially in the case of Oregon: "Socialism works for those that don't," (posted by Elvis Clark on May 14, 2025) Beware: Milwaukie uses goals to become bigger, costlier When Milwaukie adds new goals, you are likely to end up paying more.
+So, don't help set city goals.
+Here's the link to Milwaukie's Survey for setting its new goals: City Council Goals (2025-2027) | Engage Milwaukie The Survey requires you to choose three new goals.
+So, I just checked the first three proposed goals, but for each of these goals I added a comment saying: "But do so without cost." Then there is a box for writing further comment on the City's push to expand.
+Here's what I wrote in this Goal Survey comment box: "I want the Council to focus on keeping down increases in taxes and fees while maintaining basic services, such as police, roads and public works.
 When the Council adopts new goals, it usually requires new taxes/fees either directly, such as the increased city franchise taxes on electric and natural gas utilities, or indirectly by robbing monies from the General fund.
 To me, Council Goals are Mission creep costing Milwaukie residents in new taxes and fees or loss of basic services.
 I support eliminating the Climate Action Plan and its costs to utility customers in the City.
@@ -175,28 +162,21 @@ When the Council promoted the Climate Action Plan to citizens it did not talk of
 The council and staff need to explain and note the costs of any goals it proposes to pursue.
 The Climate Action Plan no longer makes any sense since it is a national and international issue by hypothesis, and yet the U.S just voted to shelve Climate Change as a priority and the rest of the World only gives lip service to following any climate agreement.
 So, if the Council wants to adopt a new goal it should drop the Climate Action Plan, altogether.
+Milwaukie's last goal ended up costing Milwaukie residents in higher utility bills.
 The City of Milwaukie before last summer charged a right-of-way tax for Northwest Natural Gas and PGE electric utility bills of only 1.5%.
 But in order to fund its "Climate Action Plan," it hiked its right-of-way tax for these utilities to 5.5% in the case of natural gas service and 4.5% for electric utility service.
-(And so, Milwaukie residents are now paying three times and more for Milwaukie's tax on their utility bills, because of Milwaukie's Climate goal.)
-And what do we get for this extra cost burden?
+(And so, Milwaukie residents are now paying three times and more for Milwaukie's tax on their utility bills, because of Milwaukie's Climate goal.) And what do we get for this extra cost burden?
 We get to know that Milwaukie now employs a Climate czar to push paper pretending that Milwaukie is somehow changing the temperature of the earth in some discernable way.
-This Climate czar probably has a total cost exceeding $200,000 per year when factoring in salary and benefits, plus consultant contracts and travel to far away conferences flying on jet fueled planes.
-(posted by Elvis Clark on December 17, 2024)
-After I tell City Council back on December 19, 2023, that they are potentially causing much higher energy bills for the residents of Milwaukie by denying natural gas utility service, now Council is having some speaker come in from Lewis and Clark College to talk about natural gas policy and rates - this Tuesday evening.
+This Climate czar probably has a total cost exceeding $200,000 per year when factoring in salary and benefits, plus consultant contracts and travel to far away conferences flying on jet fueled planes. (posted by Elvis Clark on December 17, 2024) Head's Up milwaukie Council invites speaker against GAs?
+Below here is the first part of Milwaukie Council's meeting agenda for this coming Jan 2, 2024 After I tell City Council back on December 19, 2023, that they are potentially causing much higher energy bills for the residents of Milwaukie by denying natural gas utility service, now Council is having some speaker come in from Lewis and Clark College to talk about natural gas policy and rates - this Tuesday evening.
 I intend to listen to this next week and report back what I hear.
 Stay informed.
 It could cost you if you don't and don't speak up.
 In the name of Net Zero carbon emissions, we are going to pay $24 per month more on average for electricity starting this January 2024.
-Here's the link to OPB's reporting on this hike in our cost of living:
-Portland General Electric hikes residential rates by record 18% - OPB
-Does the Milwaukie City Council ever invite the natural gas company or Oregon Public Utility Commission come talk to them.
-Not very often, if at all.
-(posted by Elvis Clark on December 28, 2023)
-The thing that stands out about this city meeting on Milwaukie's Climate Action Plan is that no one mentions the Milwaukie City Council Resolution to ban new natural gas utility service hookups in the City, nor the ultimate goal of eliminating natural gas home heating in the City.
+Here's the link to OPB's reporting on this hike in our cost of living: Portland General Electric hikes residential rates by record 18% - OPB Does the Milwaukie City Council ever invite the natural gas company or Oregon Public Utility Commission come talk to them.
+Not very often, if at all. (posted by Elvis Clark on December 28, 2023) Milwaukie Council Climate Session - no mention of gas ban The Milwaukie Council and staff discussed the City's Climate Action Plan this past Tuesday- 12/12/23 The thing that stands out about this city meeting on Milwaukie's Climate Action Plan is that no one mentions the Milwaukie City Council Resolution to ban new natural gas utility service hookups in the City, nor the ultimate goal of eliminating natural gas home heating in the City.
 I am left wondering whether maybe if the City is not stepping back from its actual bans against natural gas utility service in the City.
-I plan to testify before Milwaukie Council this coming Tuesday asking that the Council adopt a less forceful policy that eliminates people's choice of fuels - for instance, asking that the City Council withdraw its Resolution to ban new natural gas utility service hookups.
-(posted by Elvis Clark on December 16, 2023)
-The Milwaukie City council continues to scheme on how to ban natural gas utility service in the City of Milwaukie, as I witness at its November 9th (2023) work session.
+I plan to testify before Milwaukie Council this coming Tuesday asking that the Council adopt a less forceful policy that eliminates people's choice of fuels - for instance, asking that the City Council withdraw its Resolution to ban new natural gas utility service hookups. (posted by Elvis Clark on December 16, 2023) Milwaukie councilor plots against natural gas utilities Councilor Stavenjord wants to pressure Clackamas County to call natural gas a health hazard The Milwaukie City council continues to scheme on how to ban natural gas utility service in the City of Milwaukie, as I witness at its November 9th (2023) work session.
 A Federal Court ruled earlier this year that cities could not ban natural gas, as Milwaukie resolved last December 2022 to do.
 But dadgummit, banning natural gas in the City of Milwaukie is still part of Milwaukie's Climate Action Plan.
 And all of Milwaukie's Councilors, Mayor, and staff are climate change plan robotic-like warriors; and so, they continue scheming other ways to deny City residents fuel choice that includes natural gas.
@@ -206,73 +186,41 @@ But other studies suggest that natural gas stoves are not causing health problem
 I find that a lot of the new gas stove installations are actually often chosen by upper income people who are more than capable of making intelligent choices.
 So, the public health argument in favor of banning gas stoves is largely a false argument, in my book.
 Because of Stavenjord's ruse to get gas called a public health risk, I am now planning to testify before the Clackamas County Commission alerting them to Stavenjord's backdoor way of restricting natural gas in Milwaukie, by having the Clackamas County public health authority declare natural gas a health risk.
-Stay tuned.
-(posted by Elvis Clark on November 17, 2023)
-This coming Monday evening the City of Milwaukie's Budget Committee is scheduled to meet.
-As part of this meeting, the Budget Committee is provided a Quarterly Financial Report by the City Finance Director, Toby LaFrance.
-The above chart introduces this Quarterly Financial Report.
-The Chart was created to appease former Mayor Gamba who complained, in effect, that the residents of Milwaukie do not pay enough in Property taxes.
-The Yellow Bars (that exceed the dark colored bars) are the City's General Fund Operating Costs in total.
-While the dark color bars represent the City's property tax proceeds.
-But I intend to question the fairness of this chart at this Monday evening's Budget Committee meeting.
-First off, in the latest year (FY23), the cost of operating the City's Library (the Ledding Library) is included in the Yellow Bar, which represents total City General Fund operating costs.
-However, the property taxes collected by the Clackamas Library District (which fund the bulk of the Ledding Library's operating costs) are not included in the dark colored bar.
-Instead, the property taxes collected by the Clackamas Library District are counted as an Intergovernmental Transfer (excluded from the Budget chart above here).
-This alone adds $2 million dollar to this year's reported gap between City Operating Costs and Property taxes collected.
-Secondarily, the City Council in the year 2016 under the leadership of then Mayor Gamba approved creating an Urban Renewal District largely for downtown Milwaukie.
-This Urban Renewal District diverts property taxes into a City slush fund of sorts, thereby reducing the City's property tax collections available for meeting General Fund Operating Costs.
-This raises the question: if the City Council felt ok with reducing property tax collections for the General Fund (what with its creation of an urban renewal district), how can it also subsequently demand higher property taxes.
-For more on the negative impact of Milwaukie's Urban Renewal District, click 'City Gov News' and then click 'MIlwaukie Urban Renewal.'
-If Gamba had his way, property tax limit laws would be repealed, and property taxes would be effectively doubled.
-Oregon Constitutional Measures 5 and 50 limit property taxes such that without them, property tax bills would be double current levels.
-Without Measures 5 and 50, property taxes would be based on the yellow line in the Chart above here (in other words, the market value of a home or other real property); and not the lower, darker colored line representing the tax assessed value of a home or other real property.
-(posted by Elvis Clark on November 9, 2023)
-The above table is from the Portland Bureau of Transportation, as reported by BikePortland organization.
+Stay tuned. (posted by Elvis Clark on November 17, 2023) Planners, anti-car people dominate Milwaukie Transport.Plan Even in a Bicycle City town like Portland, cars are still very much how folks get around The above table is from the Portland Bureau of Transportation, as reported by BikePortland organization.
 What it shows is that the percentage of people bicycling has been flat for over ten years now in Portland, despite Portland's addition of bicycle infrastructure.
 People commuting by car (either alone or in carpool) is still about two thirds of all commuting trips when including working at home (pre Covid-19 data or pre year 2020.
-If you exclude remote working as a form of commuting, then Auto commuting in the Covid year of 2021 is equal to 80% of all physical commuting trips.
-(46.8 plus 6.2, this sum divided by (1 minus 34.9%).)
+If you exclude remote working as a form of commuting, then Auto commuting in the Covid year of 2021 is equal to 80% of all physical commuting trips .
+(46.8 plus 6.2, this sum divided by (1 minus 34.9%).) Mayor Batey supports dropping neighborhood speed limits down to 20 mph, just like Portland.
 Milwaukie launched its Transportation Committee to update Milwaukie's Transportation System Plan, on October 19, 2023.
 Milwaukie Mayor Batey (photo above) spoke to this committee, and revealed that she supports dropping the speed limit for neighborhood streets down to 20 mph, from the current 25 mph.
 But what is most sad, in my books, is that the transportation committee is made up of people who are mostly wanting to make it more difficult for other people to drive cars.
 I come to this impression after hearing each of this committee's members mostly talk of their enthusiasm for bicycles and transit.
 But there needs to be people on this committee who are more representative of the broader community of Milwaukie.
 Seniors, for instance, for whom bicycling, walking and standing around for a bus; Or having to ride an unsafe Orange Max train; are not really options.
-Most folks as the data in the table to the left above demonstrates, commute and get around by car.
-(posted by Elvis Clark on October 20, 2023)
-Milwaukie City council has been wanting Milwaukie government to take over management of Milwaukie's parks from North Clackamas Parks and Recreation (NCPR) ever since last Fall of 2022.
+Most folks as the data in the table to the left above demonstrates, commute and get around by car. (posted by Elvis Clark on October 20, 2023) Judge blocks Milwaukie Council from taking back city parks Milwaukie City council has been wanting Milwaukie government to take over management of Milwaukie's parks from North Clackamas Parks and Recreation (NCPR) ever since last Fall of 2022.
 The key to doing this is getting Clackamas County government to shift Milwaukie's share of the County parks property tax levy to the city of Milwaukie.
 The Clackamas Board of County Commissioners refuses to let Milwaukie takes its share of the property tax levy.
 Milwaukie subsequently sued to effect the transfer of parks management and funding back to Milwaukie, but the Judge in this case says it is not legal to do so without approval from the Clackamas Board of County Commissioners who oversee NCPR and a vote of approval by voters in the NCPR District.
 Here's the bottom line per Clackamas Review newspaper reporting: "According to county officials and Circuit Judge Jeffrey S.
-Jones, the NCPRD Board of Directors (comprised of county commissioners) must agree to allow Milwaukie to withdraw and refer the question to voters districtwide."
-The plan to improve Milwaukie Bay Park has been delayed indefinitely until if and when the management and funding of Milwaukie's parks is resolved to Milwaukie's favor.
-Below is Clackamas Review's reporting on the judge blocking Milwaukie from taking control of its City parks from North Clackamas Parks and Recreation "NoWithdrw23Jul".
-(posted by Elvis Clark on July 20, 2023)
-NoWithdrw23Jul (pdf)
-Download
-This Tuesday Evening (6/20/23), Milwaukie City Council discusses its climate action plan which a year ago was being used to justify proposals to impose a new Milwaukie water bill fee and a City-wide ban on natural gas cooking and natural gas home heating.
+Jones, the NCPRD Board of Directors (comprised of county commissioners) must agree to allow Milwaukie to withdraw and refer the question to voters districtwide ." The plan to improve Milwaukie Bay Park has been delayed indefinitely until if and when the management and funding of Milwaukie's parks is resolved to Milwaukie's favor.
+Below is Clackamas Review's reporting on the judge blocking Milwaukie from taking control of its City parks from North Clackamas Parks and Recreation "NoWithdrw23Jul". (posted by Elvis Clark on July 20, 2023) NoWithdrw23Jul (pdf) Download 9th Federal Circuit rules against City natural gas bans So, we can keep our natural gas so far.
+Also, Water Bill Fee for Climate remains delayed (I think) This Tuesday Evening (6/20/23), Milwaukie City Council discusses its climate action plan which #ago was being used to justify proposals to impose a new Milwaukie water bill fee and a City-wide ban on natural gas cooking and natural gas home heating.
 I plan to review this discussion to hear if there is any new push to impose this climate fund fee on City water utility bills.
 The Ninth Circuit Court (Federal Appeals Court) ruled that City Natural gas bans are not permitted because such regulation is the principal jurisdiction of the federal government.
 We are not out of the clear though in being able to keep our natural gas space heating and cooking.
 The Biden administration is trying to restrict natural gas heating and cooking equipment.
-So, more lawsuits likely to come.
-(posted by Elvis Clark on June 20, 2023)
-The clip on the right here from the Clackamas Review newspaper is interesting because it could mean that Milwaukie doesn't want to take back its parks from North Clackamas Parks District, after saying it wanted to do so.
+So, more lawsuits likely to come. (posted by Elvis Clark on June 20, 2023) Milwaukie Mayor wants Parks Property Tax hike Sounds like Mayor Batey wants Clackamas Parks District to increase its Parks Levy for Milwaukie The clip on the right here from the Clackamas Review newspaper is interesting because it could mean that Milwaukie doesn't want to take back its parks from North Clackamas Parks District, after saying it wanted to do so.
 Now it seems Milwaukie wants North Clackamas Parks District to ask its voters for an increase in its property tax, and if voters approve such an increase; Milwaukie would want this increase in property taxes fund Milwaukie's Parks - such as Milwaukie Bay Park.
 What is also interesting is that I think North Clackamas Parks voters are more likely to reject a Parks tax increase than Milwaukie voters.
 So, this seeming move has a good chance of only delaying Milwaukie's achieving improvements in its parks.
-On the flip side, this would be good for Milwaukie tax payers as there is a higher chance that there is no property tax increase - with it going through the larger North Clackamas Parks District than the smaller more woke City of Milwaukie.
-(posted by Elvis Clark on March 24, 2023)
-Currently, North Clackamas Parks District manages Milwaukie's city parks.
+On the flip side, this would be good for Milwaukie tax payers as there is a higher chance that there is no property tax increase - with it going through the larger North Clackamas Parks District than the smaller more woke City of Milwaukie. (posted by Elvis Clark on March 24, 2023) Milwaukie plan to take-back parks would hike property taxes!
+Milwaukie home owners would pay $100/year in prop. taxes on average Currently, North Clackamas Parks District manages Milwaukie's city parks.
 Clackamas Parks charges the average home owner in Milwaukie about $135 per year, or a levy of 54 cents per $1,000 in tax assessed home value.
 Up until this week, Milwaukie City staff and City Council thought if Milwaukie took back the management of its parks from Clackamas Parks that the parks property tax would simply remain the same.
 But this week it is discovered that it would cost the City of Milwaukie 85% more to manage the City's Parks than it is cost Clackamas Parks District currently.
 So, Milwaukie City council has pulled back its take over of City Parks and a proposed May 2023 property tax levy renewal.
-The main reason it would be costly for the City of Milwaukie to take back the management of its parks from North Clackamas Parks District is the Milwaukie Community Center and surrounding Park.
-Clackamas Parks is subsidizing the large senior meals program provided by the Milwaukie Community Center and the maintenance of the surrounding park - by the tune of $1 million per year.
-(posted by Elvis Clark on February 17, 2023)
-The Council vote is split 3 to 2 in favor of taking away people's choice of what is only one of two established ways of heating one's home these days - that being natural gas.
+Milwaukie needs a lot more property taxes to run the Milwaukie Center The main reason it would be costly for the City of Milwaukie to take back the management of its parks from North Clackamas Parks District is the Milwaukie Community Center and surrounding Park.
+Clackamas Parks is subsidizing the large senior meals program provided by the Milwaukie Community Center and the maintenance of the surrounding park - by the tune of $1 million per year. (posted by Elvis Clark on February 17, 2023) Milwaukie city Council bans gas heating choice for new homes Milwaukie Council resolves to eliminate natural gas heating choice for new residences by Spring 2024 The Council vote is split 3 to 2 in favor of taking away people's choice of what is only one of two established ways of heating one's home these days - that being natural gas.
 For new homes/residences, people are made to be totally dependent for all of their home energy needs on PGE - Milwaukie's local electric utility monopoly.
 But Milwaukie Council and City staff are also eyeing taking away fuel choice for existing homes/residences, banning the use of natural gas for home use by the year 2035.
 PGE must be licking its chops at Milwaukie Council's elimination of its only primary competitor in Milwaukie - that being, natural gas for home heating.
@@ -282,5 +230,4 @@ But I wouldn't hold your breath on this emergency back-up option.
 Khosrobadi sounds tentative on this idea.
 You probably will see more polluted neighborhood air sheds now as people go towards burning more wood in wood stoves, so as to manage/reduce their electric utility bills.
 And while other states/nations at the vanguard of a more renewable electricity system ... experience increasing blackouts; Oregon is at increasing risk of duplicating these same states and nations black out experiences with electricity blackouts of its own - according to none other than the Northwest Power and Conservation Council - no doubt because of Oregon's push to eliminate around-the-clock natural gas and coal fired power supplies while increasingly relying on intermittent renewable electricity supplies from solar and wind (and these renewable forms of energy are not so environmentally benign as they are touted -as renewables largely represent, in reality, just the exporting of pollution to developing countries and often exploiting these same countries; what with the need for new mines and heavy diesel mining equipment creating pollution in these developing countries).
-Oregon voters have voted for Authoritarian government, and now we all will bear its excessive costs and loss of individual freedom - as this government action is but another example of Authoritarianism.
-(posted by Elvis Clark on December 9, 2022)
+Oregon voters have voted for Authoritarian government, and now we all will bear its excessive costs and loss of individual freedom - as this government action is but another example of Authoritarianism. ( posted by Elvis Clark on December 9, 2022) Powered by

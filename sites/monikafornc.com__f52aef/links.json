@@ -1,15 +1,58 @@
 [
-"http://facebook.com/TeamJacksonforNorthCarolina",
-"https://facebook.com/monikaforschools",
-"https://instagram.com/electmonika",
-"https://instagram.com/teamjacksonfornc",
-"https://monikafornc.com/",
-"https://secure.actblue.com/donate/monikaweb",
-"https://secure.actblue.com/donate/monikaweb?amount=10",
-"https://secure.actblue.com/donate/monikaweb?amount=100",
-"https://secure.actblue.com/donate/monikaweb?amount=25",
-"https://secure.actblue.com/donate/monikaweb?amount=250",
-"https://secure.actblue.com/donate/monikaweb?amount=50",
-"https://twitter.com/MJohnsonHostler",
-"https://twitter.com/TeamJackson4NC"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/monikaweb"
+},
+{
+"text": "DONATE $10",
+"href": "https://secure.actblue.com/donate/monikaweb?amount=10"
+},
+{
+"text": "DONATE $100",
+"href": "https://secure.actblue.com/donate/monikaweb?amount=100"
+},
+{
+"text": "DONATE $25",
+"href": "https://secure.actblue.com/donate/monikaweb?amount=25"
+},
+{
+"text": "DONATE $250",
+"href": "https://secure.actblue.com/donate/monikaweb?amount=250"
+},
+{
+"text": "DONATE $50",
+"href": "https://secure.actblue.com/donate/monikaweb?amount=50"
+},
+{
+"text": "Home",
+"href": "https://www.monikafornc.com"
+},
+{
+"text": "OTHER AMOUNT",
+"href": "https://secure.actblue.com/donate/monikaweb"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/TeamJacksonforNorthCarolina"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MJohnsonHostler"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/TeamJackson4NC"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/monikaforschools"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electmonika/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/teamjacksonfornc/"
+}
 ]

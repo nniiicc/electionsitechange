@@ -1,12 +1,11 @@
-Congressman Joe Courtney and Governor Ned Lamont recently hosted Secretary of Labor Marty Walsh to highlight the state’s recruitment and job training efforts, and announce a major new initiative.
+Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Campaign News September 5, 2022 LABOR DAY 2022: AMERICA’S WORKFORCE IS STRONGER THAN EVER Congressman Joe Courtney and Governor Ned Lamont recently hosted Secretary of Labor Marty Walsh to highlight the state’s recruitment and job training efforts, and announce a major new initiative.
 On Labor Day honor the achievements of America’s workers, and in 2022 we have a historic victory to celebrate.
 Our nation’s working people have come all the way back from the depths of a global pandemic, regaining every job lost and more.
 This milestone seemed impossible to reach on Labor Day two years ago.
 The pandemic was out of control.
 Millions of Americans were out of work, and economic forecasters said unemployment could remain elevated for years to come.
 Some commentators even lost faith in our national work ethic.
-Even today, some still say that Americans “don’t want to work anymore.”
-What nonsense.
+Even today, some still say that Americans “don’t want to work anymore.” What nonsense.
 This sour view of workers seems rooted in the belief that they should be happy with whatever they get.
 A deadly pandemic exposed the limits — and the disrespect — of that attitude.
 The truth is, Americans were eager and ready to get back to work.
@@ -48,3 +47,4 @@ Every recovery has a lesson to teach.
 Here’s one for this Labor Day: Never bet against America’s workers.
 Marty Walsh is the U.S.
 Secretary of Labor.
+Courtney for Congress PO Box 1372 Vernon CT 06066 PH: (860) 885-4052 Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Paid for and Authorized by Joe Courtney for Congress

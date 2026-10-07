@@ -1,10 +1,3 @@
-Back to All Events
-Join Brenda Bronson and Tom Walker in supporting Jefferson County candidates Sheila Lieder for Senate District 20 and Alexis Hoffkling for State Representative, District 23
-Location address will be sent upon RSVP
-Previous
-Previous
-August 26
-Party in the Park
-Next
-Next
-October 21
+0 Skip to Content Endorsements Events Voting Guide Media GIVE MONTHLY Open Menu Close Menu Endorsements Events Voting Guide Media GIVE MONTHLY Open Menu Close Menu Endorsements Events Voting Guide Media GIVE MONTHLY Back to All Events Fundraiser for Alexis and Sheila Lieder Saturday, September 27, 2025 1:00 PM 3:00 PM Google Calendar ICS Join Brenda Bronson and Tom Walker in supporting Jefferson County candidates Sheila Lieder for Senate District 20 and Alexis Hoffkling for State Representative, District 23 Location address will be sent upon RSVP RSVP: https://shorturl.at/nitRq Previous Previous August 26 Party in the Park Next Next October 21 Colorado Plus Brew Pub Community Event Contact Alexis Map of District 23 Register to Vote Donate Site paid for by Alexis for Colorado.
+Registered agent: Alexis Hoffkling.
+Website designed by MHW Consulting, L.L.C.

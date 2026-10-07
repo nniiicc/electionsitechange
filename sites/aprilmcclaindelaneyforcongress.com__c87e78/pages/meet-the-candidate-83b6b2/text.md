@@ -1,4 +1,6 @@
-April’s unique set of life experiences will make her an engaged, effective, and compassionate member of Congress.
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Toggle Mobile Menu Donate Now!
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer Home » Meet April Meet April McClain Delaney Watch the Video April’s unique set of life experiences will make her an engaged, effective, and compassionate member of Congress.
+Drawing on a blend of public and private sector work, April is prepared to leverage her experience, and address challenges through a “common-sense, common-ground” approach.
 Let’s start with April being born and raised in Buhl, Idaho – the second daughter of an Idaho potato farmer.
 In that rural, close-knit community, April watched both her Grandfather Chet and her dad Tom work long farming hours.
 April learned early on the importance of education, hard work, setting goals, and using your skills to give back to your local community.
@@ -17,3 +19,11 @@ April knows that innovations in technology open the door to economic growth, cre
 Finally, April believes we need to rebuild trust in our Democracy to create a stronger nation for our children and communities.
 In order to rebuild trust in government, we need leaders in Congress that are committed to our nation’s ideals and willing to work together in the best interest of all Americans.
 April will always champion progress over partisanship, defend and uplift our democratic institutions, and commit herself to the promise of America.
+Contribute Now Donate to the Campaign!
+We've launched our campaign and are looking for your support!
+Donate today to become a founding donor.
+Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Join Her Campaign!
+Meet April Endorsements Campaign News Get Involved April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Contact Us [email protected] Address April McClain Delaney for Congress PO Box 83940 Gaithersburg, MD 20883-83940 Accessibility Statement PAID FOR BY APRIL MCCLAIN DELANEY FOR CONGRESS Site made with ❤️ by Landslide Digital I'll never stop fighting for you.
+Donate now!
+Jump to Content Toggle High Contrast Toggle Font Size

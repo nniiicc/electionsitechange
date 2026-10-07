@@ -1,5 +1,4 @@
-Getting Through This Together
-As we sit on the precipice of our 250th anniversary in this country the American People’s social contract is faltering.
+0 Skip to Content Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home Folder: About Me Back My Story Core Issues Events Thoughts + Updates Services Getting Through This Together As we sit on the precipice of our 250th anniversary in this country the American People’s social contract is faltering.
 Killing citizens like Alex Pretti and Renee Good in Minnesota.
 Deporting unaccompanied minors.
 Detaining and disappearing people to third countries.
@@ -30,5 +29,6 @@ Let us learn from Minnesota’s example.
 Love, joy and community are acts of resistance in this moment.
 Lean into your values, lean on each other.
 We are America and we’ll get through this, together.
-Yours in Service and Solidarity
-Rep Emily Carris Duncan
+Yours in Service and Solidarity Rep Emily Carris Duncan Donate Wilmington.
+Whitingham.
+Halifax

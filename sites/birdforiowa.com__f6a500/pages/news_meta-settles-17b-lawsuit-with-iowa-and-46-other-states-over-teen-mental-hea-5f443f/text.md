@@ -1,5 +1,4 @@
-Meta settles $17B lawsuit with Iowa and 46 other states over teen mental health claims
-Meta, the parent company of Facebook and Instagram, has agreed to a $17 billion settlement with 47 states, including Iowa, to resolve claims that its platforms harmed teens' mental health and contributed to social media addiction.
+Donate Connect with Brenna News Donate News Meta settles $17B lawsuit with Iowa and 46 other states over teen mental health claims August 26, 2026 KCCI Meta, the parent company of Facebook and Instagram, has agreed to a $17 billion settlement with 47 states, including Iowa, to resolve claims that its platforms harmed teens' mental health and contributed to social media addiction.
 Iowa Attorney General Brenna Bird celebrated the settlement, which guarantees Iowa $126 million over the next 10 years.
 Iowa will receive another $9 million payment related to legal and other fees from the settlement, bringing the total to $135 million.
 "It's very important that we protect kids online," Bird said.
@@ -20,3 +19,4 @@ Bird expressed hope that the settlement would send a strong message to tech comp
 And if they don't do the right thing, we'll see them in court and hold them accountable," Bird said.
 As part of the agreement, Meta does not admit to any wrongdoing.
 Bird said she expects the changes to Facebook and Instagram to take effect within the next six months.
+Read More Here Share: Paid For By Bird For Iowa PRIVACY POLICY · TERMS & CONDITIONS · RESEARCH · INFORMATION

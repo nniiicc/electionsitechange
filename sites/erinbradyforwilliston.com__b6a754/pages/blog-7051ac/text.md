@@ -1,21 +1,6 @@
-top of page
-Use tab to navigate through the menu items.
-Search
-Final Legislative Update of the 2024 Session!
-(with Rep.
-Arsenault)
-Note: This final update was published in the Williston Observer as a two-part series.
-Article #1: Around 2:15 am on Saturday, May 11 the...
-ekmcguireMay 30, 202413 min read
-April 2024: Education Funding Update and School Budget Revote
-Introductory Post I support the revised CVSD school budget and look forward to voting for it on April 16.
-I appreciate the difficult...
-ekmcguireMay 8, 202414 min read
-Notes from Seat 146: March 2024 (mid-session) Legislative Update
-We want to start with gratitude to the Williston community members who joined us and Senator Ginny Lyons at the library last Saturday for...
-ekmcguireMay 8, 20246 min read
-Notes from Seat 146: January 2024 Legislative Update
-The 2024 legislative session began on January 3 and if the first few weeks are any indication, it stands to be a productive and dynamic...
-ekmcguireMay 8, 20244 min read
-Paid for by Erin Brady for Williston ~ 48 Brookside Drive, Williston VT 05495 ~
-bottom of page
+top of page Support Erin - donate now!
+Home About Erin Legislative Updates 2022 Campaign 2020 Campaign Support for Erin Get Involved More Use tab to navigate through the menu items.
+All Posts Search Final Legislative Update of the 2024 Session! (with Rep.
+Arsenault) Note: This final update was published in the Williston Observer as a two-part series.
+Article #1: Around 2:15 am on Saturday, May 11 the... ekmcguire May 30, 2024 13 min read April 2024: Education Funding Update and School Budget Revote Introductory Post I support the revised CVSD school budget and look forward to voting for it on April 16.
+I appreciate the difficult... ekmcguire May 8, 2024 14 min read Notes from Seat 146: March 2024 (mid-session) Legislative Update We want to start with gratitude to the Williston community members who joined us and Senator Ginny Lyons at the library last Saturday for... ekmcguire May 8, 2024 6 min read Notes from Seat 146: January 2024 Legislative Update The 2024 legislative session began on January 3 and if the first few weeks are any indication, it stands to be a productive and dynamic... ekmcguire May 8, 2024 4 min read Paid for by Erin Brady for Williston ~ 48 Brookside Drive, Williston VT 05495 ~ contact@erinbradyforwilliston.com bottom of page

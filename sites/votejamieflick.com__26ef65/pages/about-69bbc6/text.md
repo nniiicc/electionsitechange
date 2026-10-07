@@ -1,7 +1,6 @@
-A Lifelong Resident Of Our Area, Rep.
+0 Skip to Content Vote Jamie Flick Home About Team Work Contact Vote Jamie Flick Open Menu Close Menu Vote Jamie Flick Home About Team Work Contact Vote Jamie Flick Open Menu Close Menu Home About Team Work Contact Vote Jamie Flick A Lifelong Resident Of Our Area, Rep.
 Jamie Flick is Dedicated To Helping Our District Thrive.
-About Jamie
-State Representative Jamie Flick represents the 83rd Legislative District, which includes parts of Lycoming County and two northern townships in Union County.
+About Jamie State Representative Jamie Flick represents the 83rd Legislative District, which includes parts of Lycoming County and two northern townships in Union County.
 Rep.
 Flick brings his common-sense business practices and hard work ethic to Harrisburg to spend less, tax less, save more and grow the economy for his district by making the Commonwealth of Pennsylvania more attractive for businesses and working families.
 Specifically, Rep.
@@ -17,3 +16,4 @@ Some his volunteer roles include: Mentor and advocate for foster children as a C
 Rep.
 Flick credits being raised on his family’s farm with instilling both a strong work ethic and moral principles.
 He believes we need to teach our young people, by our own example, what can happen when you combine a strong work ethic and American pride.
+Learn More About The 83rd District Meet Jamie About Work Team Follow Fa cebook Paid for by Friends of Jamie Flick 445 Sylvan Dell Park Road, South Williamsport, PA 17702 Site designed by Ironcutter Creative.

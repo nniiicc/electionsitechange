@@ -1,21 +1,130 @@
 [
-"http://facebook.com/sununusenator",
-"http://instagram.com/sununusenator",
-"http://tiktok.com/@sununusenator",
-"http://x.com/sununusenator",
-"http://youtube.com/@sununusenator",
-"http://youtube.com/watch?v=1Q37WzSBhpw&feature=youtu.be",
-"https://secure.winred.com/sununu-senator/website-donate",
-"https://sununusenator.com/",
-"https://sununusenator.com/about",
-"https://sununusenator.com/endorsements",
-"https://sununusenator.com/join",
-"https://sununusenator.com/media",
-"https://sununusenator.com/news",
-"https://sununusenator.com/post/icymi-pappas-and-platner",
-"https://sununusenator.com/post/john-sununu-wins-republican-primary-for-u-s-senate",
-"https://sununusenator.com/post/on-graham-platner-others-lead-while-chris-pappas-waits-for-the-party-bosses",
-"https://sununusenator.com/privacy",
-"https://sununusenator.com/terms",
-"https://truthsocial.com/@SununuSenator"
+{
+"text": "ABOUT",
+"href": "https://www.sununusenator.com/about"
+},
+{
+"text": "CONTACT",
+"href": "mailto:info@sununusenator.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/sununu-senator/website-donate"
+},
+{
+"text": "DONATE NOW TO SEND JOHN SUNUNU TO THE SENATE",
+"href": "https://secure.winred.com/sununu-senator/website-donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.sununusenator.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.sununusenator.com"
+},
+{
+"text": "ICYMI: Pappas and Platner",
+"href": "https://www.sununusenator.com/post/icymi-pappas-and-platner"
+},
+{
+"text": "JOHN SUNUNU WINS REPUBLICAN PRIMARY FOR U.S. SENATE",
+"href": "https://www.sununusenator.com/post/john-sununu-wins-republican-primary-for-u-s-senate"
+},
+{
+"text": "JOIN",
+"href": "https://www.sununusenator.com/join"
+},
+{
+"text": "MEDIA",
+"href": "https://www.sununusenator.com/media"
+},
+{
+"text": "NEWS",
+"href": "https://www.sununusenator.com/news"
+},
+{
+"text": "On Graham Platner: Others Lead While Chris Pappas Waits for the Party Bosses",
+"href": "https://www.sununusenator.com/post/on-graham-platner-others-lead-while-chris-pappas-waits-for-the-party-bosses"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.sununusenator.com/privacy"
+},
+{
+"text": "See All",
+"href": "https://www.sununusenator.com/news"
+},
+{
+"text": "TERMS OF SERVICE",
+"href": "https://www.sununusenator.com/terms"
+},
+{
+"text": "[image: ICYMI: Pappas and Platner ]",
+"href": "https://www.sununusenator.com/post/icymi-pappas-and-platner"
+},
+{
+"text": "[image: JOHN SUNUNU WINS REPUBLICAN PRIMARY FOR U.S. SENATE]",
+"href": "https://www.sununusenator.com/post/john-sununu-wins-republican-primary-for-u-s-senate"
+},
+{
+"text": "[image: On Graham Platner: Others Lead While Chris Pappas Waits for the Party Bosses]",
+"href": "https://www.sununusenator.com/post/on-graham-platner-others-lead-while-chris-pappas-waits-for-the-party-bosses"
+},
+{
+"text": "[image: SUNUNU-LOGO-tp.png]",
+"href": "https://www.sununusenator.com"
+},
+{
+"text": "[image: Sununu Icon (13)]",
+"href": "http://facebook.com/sununusenator"
+},
+{
+"text": "[image: Sununu Icon (14)]",
+"href": "http://facebook.com/sununusenator"
+},
+{
+"text": "[image: Sununu Icon (15)]",
+"href": "http://x.com/sununusenator"
+},
+{
+"text": "[image: Sununu Icon (16)]",
+"href": "http://x.com/sununusenator"
+},
+{
+"text": "[image: Sununu Icon (17)]",
+"href": "http://instagram.com/sununusenator"
+},
+{
+"text": "[image: Sununu Icon (18)]",
+"href": "http://instagram.com/sununusenator"
+},
+{
+"text": "[image: Sununu Icon (19)]",
+"href": "http://youtube.com/@sununusenator"
+},
+{
+"text": "[image: Sununu Icon (20)]",
+"href": "http://youtube.com/@sununusenator"
+},
+{
+"text": "[image: Sununu Icon (21)]",
+"href": "https://truthsocial.com/@SununuSenator"
+},
+{
+"text": "[image: Sununu Icon (22)]",
+"href": "https://truthsocial.com/@SununuSenator"
+},
+{
+"text": "[image: Sununu Icon (23)]",
+"href": "http://tiktok.com/@sununusenator"
+},
+{
+"text": "[image: Sununu Icon (24)]",
+"href": "http://tiktok.com/@sununusenator"
+},
+{
+"text": "[image]",
+"href": "http://youtube.com/watch?v=1Q37WzSBhpw&feature=youtu.be"
+}
 ]

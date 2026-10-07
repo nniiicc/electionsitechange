@@ -1,9 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61580757320061",
-"https://instagram.com/tomforohio",
-"https://tomforohio.com/",
-"https://tomforohio.com/donate",
-"https://tomforohio.com/meet-tom",
-"https://tomforohio.com/volunteer",
-"https://tomforohio.com/vote"
+{
+"text": "Donate",
+"href": "https://tomforohio.com/donate/"
+},
+{
+"text": "Email Tom",
+"href": "mailto:contact@tomforohio.com"
+},
+{
+"text": "Meet Tom",
+"href": "https://tomforohio.com/meet-tom/"
+},
+{
+"text": "Priorities",
+"href": "https://tomforohio.com/#priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://tomforohio.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://tomforohio.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://tomforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php/?id=61580757320061"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tomforohio"
+}
 ]

@@ -1,38 +1,206 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Attorney+Fundraiser+-+06.26.25&dates=20250626T213000Z%2F20250626T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Kickoff+Fundraiser&dates=20250529T223000Z%2F20250530T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Eureka+Springs+Fundraiser&dates=20250731T230000Z%2F20250801T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Little+Rock+Fundraiser+for+Max+Deitchler&dates=20250917T221500Z%2F20250918T001500Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Neighborhood+Meet+%26+Greet&dates=20251023T223000Z%2F20251024T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Neighborhood+Meet+%26amp%3B+Greet+-+east+Fayetteville&dates=20250819T223000Z%2F20250820T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=University+of+Arkansas+Young+Dems%3A+Kickoff+Meeting%2C+Max+for+Arkansas&dates=20250908T220000Z%2F20250908T230000Z",
-"https://bsky.app/profile/maxforarkansas.bsky.social",
-"https://facebook.com/MaxforArkansas",
-"https://goodchange.app/donate/max-f-2d",
-"https://instagram.com/maxforar",
-"https://iwillvote.com/",
-"https://maxforarkansas.com/",
-"https://maxforarkansas.com/cart",
-"https://maxforarkansas.com/contact",
-"https://maxforarkansas.com/elections",
-"https://maxforarkansas.com/events",
-"https://maxforarkansas.com/events/attorney-fundraiser-062625",
-"https://maxforarkansas.com/events/attorney-fundraiser-062625?format=ical",
-"https://maxforarkansas.com/events/campaign-kickoff-fundraiser",
-"https://maxforarkansas.com/events/campaign-kickoff-fundraiser?format=ical",
-"https://maxforarkansas.com/events/little-rock-fundraiser-for-max-deitchler",
-"https://maxforarkansas.com/events/little-rock-fundraiser-for-max-deitchler?format=ical",
-"https://maxforarkansas.com/events/neighborhood-meet-greet",
-"https://maxforarkansas.com/events/neighborhood-meet-greet?format=ical",
-"https://maxforarkansas.com/events/qop3vinq701vdh6tx8w8cvp3lefg3f",
-"https://maxforarkansas.com/events/qop3vinq701vdh6tx8w8cvp3lefg3f?format=ical",
-"https://maxforarkansas.com/events/tkvndsf2beiupi9gvt6692cxfnocyb",
-"https://maxforarkansas.com/events/tkvndsf2beiupi9gvt6692cxfnocyb?format=ical",
-"https://maxforarkansas.com/events/university-of-arkansas-young-dems-kickoff-meeting-max-for-arkansas",
-"https://maxforarkansas.com/events/university-of-arkansas-young-dems-kickoff-meeting-max-for-arkansas?format=ical",
-"https://maxforarkansas.com/get-involved",
-"https://maxforarkansas.com/map-of-district-20",
-"https://maxforarkansas.com/meet",
-"https://maxforarkansas.com/volunteer",
-"https://tiktok.com/@maxforarkansas"
+{
+"text": "0",
+"href": "https://www.maxforarkansas.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.maxforarkansas.com/meet"
+},
+{
+"text": "Attorney Fundraiser - 06.26.25",
+"href": "https://www.maxforarkansas.com/events/attorney-fundraiser-062625"
+},
+{
+"text": "Back",
+"href": "https://www.maxforarkansas.com/"
+},
+{
+"text": "Campaign Kickoff Fundraiser",
+"href": "https://www.maxforarkansas.com/events/campaign-kickoff-fundraiser"
+},
+{
+"text": "Contact",
+"href": "https://www.maxforarkansas.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://goodchange.app/donate/max-f-2d"
+},
+{
+"text": "Eureka Springs Fundraiser",
+"href": "https://www.maxforarkansas.com/events/qop3vinq701vdh6tx8w8cvp3lefg3f"
+},
+{
+"text": "Events",
+"href": "https://www.maxforarkansas.com/events"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.maxforarkansas.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Attorney+Fundraiser+-+06.26.25&dates=20250626T213000Z%2F20250626T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Kickoff+Fundraiser&dates=20250529T223000Z%2F20250530T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Eureka+Springs+Fundraiser&dates=20250731T230000Z%2F20250801T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Little+Rock+Fundraiser+for+Max+Deitchler&dates=20250917T221500Z%2F20250918T001500Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Neighborhood+Meet+%26+Greet&dates=20251023T223000Z%2F20251024T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Neighborhood+Meet+%26amp%3B+Greet+-+east+Fayetteville&dates=20250819T223000Z%2F20250820T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=University+of+Arkansas+Young+Dems%3A+Kickoff+Meeting%2C+Max+for+Arkansas&dates=20250908T220000Z%2F20250908T230000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.maxforarkansas.com/events/attorney-fundraiser-062625?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.maxforarkansas.com/events/campaign-kickoff-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.maxforarkansas.com/events/little-rock-fundraiser-for-max-deitchler?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.maxforarkansas.com/events/neighborhood-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.maxforarkansas.com/events/qop3vinq701vdh6tx8w8cvp3lefg3f?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.maxforarkansas.com/events/tkvndsf2beiupi9gvt6692cxfnocyb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.maxforarkansas.com/events/university-of-arkansas-young-dems-kickoff-meeting-max-for-arkansas?format=ical"
+},
+{
+"text": "Little Rock Fundraiser for Max Deitchler",
+"href": "https://www.maxforarkansas.com/events/little-rock-fundraiser-for-max-deitchler"
+},
+{
+"text": "Map of District 20",
+"href": "https://www.maxforarkansas.com/map-of-district-20"
+},
+{
+"text": "Max's Election Work",
+"href": "https://www.maxforarkansas.com/elections"
+},
+{
+"text": "Neighborhood Meet & Greet",
+"href": "https://www.maxforarkansas.com/events/neighborhood-meet-greet"
+},
+{
+"text": "Neighborhood Meet & Greet - east Fayetteville",
+"href": "https://www.maxforarkansas.com/events/tkvndsf2beiupi9gvt6692cxfnocyb"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.iwillvote.com"
+},
+{
+"text": "University of Arkansas Young Dems: Kickoff Meeting, Max for Arkansas",
+"href": "https://www.maxforarkansas.com/events/university-of-arkansas-young-dems-kickoff-meeting-max-for-arkansas"
+},
+{
+"text": "View Event →",
+"href": "https://www.maxforarkansas.com/events/attorney-fundraiser-062625"
+},
+{
+"text": "View Event →",
+"href": "https://www.maxforarkansas.com/events/campaign-kickoff-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.maxforarkansas.com/events/little-rock-fundraiser-for-max-deitchler"
+},
+{
+"text": "View Event →",
+"href": "https://www.maxforarkansas.com/events/neighborhood-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.maxforarkansas.com/events/qop3vinq701vdh6tx8w8cvp3lefg3f"
+},
+{
+"text": "View Event →",
+"href": "https://www.maxforarkansas.com/events/tkvndsf2beiupi9gvt6692cxfnocyb"
+},
+{
+"text": "View Event →",
+"href": "https://www.maxforarkansas.com/events/university-of-arkansas-young-dems-kickoff-meeting-max-for-arkansas"
+},
+{
+"text": "Volunteer",
+"href": "https://www.maxforarkansas.com/volunteer"
+},
+{
+"text": "[image: Attorney Fundraiser - 06.26.25]",
+"href": "https://www.maxforarkansas.com/events/attorney-fundraiser-062625"
+},
+{
+"text": "[image: Campaign Kickoff Fundraiser]",
+"href": "https://www.maxforarkansas.com/events/campaign-kickoff-fundraiser"
+},
+{
+"text": "[image: Eureka Springs Fundraiser]",
+"href": "https://www.maxforarkansas.com/events/qop3vinq701vdh6tx8w8cvp3lefg3f"
+},
+{
+"text": "[image: Little Rock Fundraiser for Max Deitchler]",
+"href": "https://www.maxforarkansas.com/events/little-rock-fundraiser-for-max-deitchler"
+},
+{
+"text": "[image: Max for Arkansas]",
+"href": "https://www.maxforarkansas.com/"
+},
+{
+"text": "[image: Neighborhood Meet & Greet]",
+"href": "https://www.maxforarkansas.com/events/neighborhood-meet-greet"
+},
+{
+"text": "[image: Neighborhood Meet &amp; Greet - east Fayetteville]",
+"href": "https://www.maxforarkansas.com/events/tkvndsf2beiupi9gvt6692cxfnocyb"
+},
+{
+"text": "[image: University of Arkansas Young Dems: Kickoff Meeting, Max for Arkansas]",
+"href": "https://www.maxforarkansas.com/events/university-of-arkansas-young-dems-kickoff-meeting-max-for-arkansas"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/maxforarkansas.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MaxforArkansas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maxforar/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@maxforarkansas"
+}
 ]

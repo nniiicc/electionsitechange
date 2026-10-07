@@ -1,16 +1,4 @@
-CONTACT
-Yolanda Jaramillo
-Committee to Elect Yolanda Jaramillo
-P.O.
-Box 338
-Dixon, NM 87527
-yolanda@electyolandajaramillo.com
-Cell: 505/423-5366
-Neri Holguin
-Campaign Manager
-neriholguin@gmail.com
-Cell: 505/217-8705
-Carlos Trujillo
-Political Director
-carloselectyolandajaramillo@gmail.com
-Cell: 505/918-6736
+0 Skip to Content About Yolanda District 41 Priorities Endorsements Events In the News Get Involved Candidate Comparison Voting Contact CONTRIBUTE Open Menu Close Menu About Yolanda District 41 Priorities Endorsements Events In the News Get Involved Candidate Comparison Voting Contact CONTRIBUTE Open Menu Close Menu Folder: About Back Yolanda District 41 Priorities Endorsements Events In the News Get Involved Candidate Comparison Voting Contact CONTRIBUTE CONTACT Yolanda Jaramillo Committee to Elect Yolanda Jaramillo P.O.
+Box 338 Dixon, NM 87527 yolanda@electyolandajaramillo.com Cell: 505/423-5366 Neri Holguin Campaign Manager neriholguin@gmail.com Cell: 505/217-8705 Carlos Trujillo Political Director carloselectyolandajaramillo@gmail.com Cell: 505/918-6736 Vote Yolanda “Pancha” Jaramillo Democratic Primary, June 2, 2026 Rooted in Our Communities.
+Moving Northern New Mexico Forward.
+CONTRIBUTE Website Design | BGC

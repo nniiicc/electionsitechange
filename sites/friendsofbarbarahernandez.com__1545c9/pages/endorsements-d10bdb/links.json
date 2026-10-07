@@ -1,26 +1,110 @@
 [
-"http://hslf.org/",
-"http://momsdemandaction.org/",
-"https://abate-il.org/",
-"https://affi1935.org/",
-"https://committeetoprotect.org/",
-"https://equalityillinois.us/",
-"https://friendsofbarbarahernandez.com/calendar",
-"https://friendsofbarbarahernandez.com/endorsements",
-"https://friendsofbarbarahernandez.com/home",
-"https://friendsofbarbarahernandez.com/issues",
-"https://friendsofbarbarahernandez.com/meet-barbara",
-"https://friendsofbarbarahernandez.com/request-a-sign",
-"https://friendsofbarbarahernandez.com/team",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Ffriends-of-barbara-hernandez-1&sa=D&sntz=1&usg=AOvVaw2Wc6S6AksPVa2WLykF2mGs",
-"https://google.com/url?q=https%3A%2F%2Fwww.ilafl-cio.org&sa=D&sntz=1&usg=AOvVaw1nLX99Bmml_nepf7FvCyef",
-"https://google.com/url?q=https%3A%2F%2Fwww.personalpac.org&sa=D&sntz=1&usg=AOvVaw13jDDU5fwwTIq1KYb3n3Et",
-"https://gpacillinois.com/",
-"https://ieanea.org/legislative/ipace-recommended-candidates",
-"https://ift-aft.org/",
-"https://ilafl-cio.org/",
-"https://irtaonline.org/",
-"https://personalpac.org/",
-"https://sierraclub.org/illinois",
-"https://stand.org/"
+{
+"text": "ABATE",
+"href": "https://www.abate-il.org"
+},
+{
+"text": "AFL-CIO Illinois",
+"href": "https://www.ilafl-cio.org"
+},
+{
+"text": "Association of Firefighters of Illinois",
+"href": "https://www.affi1935.org"
+},
+{
+"text": "Barbara For State Representative",
+"href": "https://www.friendsofbarbarahernandez.com/home"
+},
+{
+"text": "Calendar",
+"href": "https://www.friendsofbarbarahernandez.com/calendar"
+},
+{
+"text": "Committee to Protect Health Care",
+"href": "https://committeetoprotect.org"
+},
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Ffriends-of-barbara-hernandez-1&sa=D&sntz=1&usg=AOvVaw2Wc6S6AksPVa2WLykF2mGs"
+},
+{
+"text": "Endorsements",
+"href": "https://www.friendsofbarbarahernandez.com/endorsements"
+},
+{
+"text": "Equality Illinois",
+"href": "https://www.equalityillinois.us"
+},
+{
+"text": "GPac",
+"href": "https://gpacillinois.com"
+},
+{
+"text": "Home",
+"href": "https://www.friendsofbarbarahernandez.com/home"
+},
+{
+"text": "Humane Society",
+"href": "http://hslf.org"
+},
+{
+"text": "IEA IPACE Recommendation",
+"href": "https://ieanea.org/legislative/ipace-recommended-candidates/"
+},
+{
+"text": "Illinois Federation of Teachers (IFT)",
+"href": "https://www.ift-aft.org"
+},
+{
+"text": "Illinois Retired Teachers PAC",
+"href": "https://www.irtaonline.org"
+},
+{
+"text": "Issues",
+"href": "https://www.friendsofbarbarahernandez.com/issues"
+},
+{
+"text": "Meet Barbara",
+"href": "https://www.friendsofbarbarahernandez.com/meet-barbara"
+},
+{
+"text": "Moms Demand Action",
+"href": "http://momsdemandaction.org"
+},
+{
+"text": "Personal Pac",
+"href": "https://www.personalpac.org"
+},
+{
+"text": "Request a sign",
+"href": "https://www.friendsofbarbarahernandez.com/request-a-sign"
+},
+{
+"text": "Sierra Club",
+"href": "https://www.sierraclub.org/illinois"
+},
+{
+"text": "Stand For Children IL",
+"href": "https://stand.org"
+},
+{
+"text": "Team",
+"href": "https://www.friendsofbarbarahernandez.com/team"
+},
+{
+"text": "[image]",
+"href": "https://www.friendsofbarbarahernandez.com/home"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.ilafl-cio.org&sa=D&sntz=1&usg=AOvVaw1nLX99Bmml_nepf7FvCyef"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.personalpac.org&sa=D&sntz=1&usg=AOvVaw13jDDU5fwwTIq1KYb3n3Et"
+},
+{
+"text": "[image]Barbara For State Representative",
+"href": "https://www.friendsofbarbarahernandez.com/home"
+}
 ]

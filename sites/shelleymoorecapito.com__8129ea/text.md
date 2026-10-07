@@ -1,6 +1,6 @@
-WEST VIRGINIA’S
-CONSERVATIVE CHAMPION
-From her first days in public office, U.S.
+Skip to content Home Endorsements WV Veterans For Capito Facebook Instagram X Donate Donate Join the team!
+Notice: JavaScript is required for this content.
+Facebook Instagram X WEST VIRGINIA’S CONSERVATIVE CHAMPION From her first days in public office, U.S.
 Senator Shelley Moore Capito has listened and focused her work in Congress on the concerns and needs of West Virginians.
 That understanding has enabled her to champion solutions that advance growth and opportunity and protect Mountaineer values and culture.
 In 2014, voters not only elected the first woman and first Republican in over fifty years to the U.S.
@@ -11,8 +11,7 @@ Senate with 70% of the vote set a new record for total votes and resulted in Rep
 House races, delivering up a supermajority in both the state Senate and House, and for the first time in modern history winning all six statewide executive offices.
 President Donald Trump endorsed her as “a rock-solid conservative and a fierce advocate for West Virginia” because of her support for his tax cuts and votes to confirm all three of his U.S.
 Supreme Court nominees that delivered a conservative majority.
-Read More
-Her Republican Senate colleagues unanimously elected her to fill the fourth highest position in Senate leadership, the Chair of the Republican Policy Committee.
+Read More Her Republican Senate colleagues unanimously elected her to fill the fourth highest position in Senate leadership, the Chair of the Republican Policy Committee.
 As Chair, Capito works closely with President Trump to pass his agenda for which he endorsed her again for re-election – calling her a “tireless” champion for tax cuts, border security, and the Second Amendment.
 In the 119th Congress, Capito serves as a member of the Senate’s Appropriations, Commerce, and Environment and Public Works committees to help West Virginia overcome the opioid crisis and expand broadband access.
 As Chair of the Environment and Public Works Committee, she helps set policy on public infrastructure projects and roll back regulatory overreach such as ending California’s electric vehicle mandate.
@@ -25,4 +24,4 @@ Capito grew up in West Virginia’s Northern Panhandle before earning a B.S. in 
 She and her husband, Charles L.
 Capito, Jr., live in Charleston, where they raised their three children, Charles (Laura), Moore (Liberty), and Shelley (Colin Macleod).
 They are the proud grandparents to Celia, Charlie, Eliza, Rose, Arch, Macaulay, Lewis, Thomas, and Holt.
-Read Less
+Read Less Senator Capito Meeting with Voters PAID FOR BY CAPITO FOR WEST VIRGINIA Privacy Policy

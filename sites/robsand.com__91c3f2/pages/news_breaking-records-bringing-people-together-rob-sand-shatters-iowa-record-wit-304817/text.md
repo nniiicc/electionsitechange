@@ -1,5 +1,4 @@
-Breaking Records, Bringing People Together: Rob Sand Shatters Iowa Record with 24,756 Petition Signatures
-DES MOINES, IA – Yesterday, candidate for governor Rob Sand hand-delivered eight banker’s boxes filled with 24,756 petition signatures to the Secretary of State’s office, surrounded by family members and supporters.
+Skip to main Become a Sustaining Donor Donate now Volunteer Donate Return to all news Breaking Records, Bringing People Together: Rob Sand Shatters Iowa Record with 24,756 Petition Signatures For Immediate Release Contact: press@robsand.com Rob Sand for Iowa 3/10/2026 DES MOINES, IA – Yesterday, candidate for governor Rob Sand hand-delivered eight banker’s boxes filled with 24,756 petition signatures to the Secretary of State’s office, surrounded by family members and supporters.
 This was a new record in Iowa, and was more than seven times the minimum required and surpassed the state’s previous gubernatorial campaign record by nearly 9,000 signatures.
 After submitting a historic haul of petition signatures to the Secretary of State’s office, Rob headed to Twisted Vine Brewery in Des Moines for a live interview with the Pints and Diplomacy Podcast.
 During the event, Rob talked about the heart of the campaign: bringing Iowans together to build a state that’s not redder or bluer, but better and truer.

@@ -1,16 +1,13 @@
-MEET TERESA
-I am a daughter of rural New Mexico, and I am here to represent New Mexico’s Third Congressional District with a deep understanding of what New Mexico’s communities need.
-I am the girl who went to Head Start and fell in love with learning; who wants every child to have access to early childhood education and public schools that inspire them to achieve their potential.
+top of page About Endorsements Issues Media News Press Releases Photos Videos Volunteer Contribute More Use tab to navigate through the menu items.
+MEET TERESA I am a daughter of rural New Mexico, and I am here to represent New Mexico’s Third Congressional District with a deep understanding of what New Mexico’s communities need.
+I am the girl who went to Head Start and fell in love with learning ; who wants every child to have access to early childhood education and public schools that inspire them to achieve their potential.
 The pre-teen who flipped burgers at her uncle’s rodeo and wants our ranchers and farmers to stay on their land and help build a green rural economy.
 The advocate who helped build health clinics, businesses, infrastructure and affordable housing who wants our country to invest in the 21st century infrastructure of broadband, transportation, housing and clean energy that we need for our communities and businesses to prosper.
-The former acequia commissioner who fought to keep water running in our valley who wants to make sure New Mexico’s water does not disappear because we did not act to save our planet and build a strong renewable energy economy.
-The Obama appointee and Clinton White House Fellow who knows the importance of marshalling smart federal policy on behalf of our local communities and our world.
+The former acequia commissioner who fought to keep water running in our valley who wants to make sure New Mexico’s water does not disappear because we did not act to save our planet and build a strong renewable energy economy. ​ The Obama appointee and Clinton White House Fellow who knows the importance of marshalling smart federal policy on behalf of our local communities and our world.
 The mother of amazing children who wants our state to build a dynamic and innovative economy that creates fulfilling, well-paying jobs for all our kids here in New Mexico.
-The cancer survivor whose health coverage could be denied for pre-existing conditions who wants every person to have affordable and accessible health care.
-The advocate who helped build health clinics, businesses and infrastructure who wants our country to invest in 21st-century infrastructure so our communities and businesses can thrive.
-The family-member that hikes in our beautiful mountains and wilderness…who wants to keep our public lands pristine and protected for generations to come.
-The former attorney for tribal sovereignty and the advocate for Hispanic cultural expression...who knows New Mexico’s multicultural understanding is a model for the nation.
-A proud daughter of rural New Mexico who grew up in Las Vegas as part of a big family who taught me that now is always the time to be of service to our communities.
-AND
-The first Congresswoman to represent New Mexico’s Third Congressional District, who is grateful for the opportunity to serve the communities that I love and have dedicated my life to.
+The cancer survivor whose health coverage could be denied for pre-existing conditions who wants every person to have affordable and accessible health care. ​ The advocate who helped build health clinics, businesses and infrastructure who wants our country to invest in 21st-century infrastructure so our communities and businesses can thrive.
+The family-member that hikes in our beautiful mountains and wilderness… who wants to keep our public lands pristine and protected for generations to come.
+The former attorney for tribal sovereignty and the advocate for Hispanic cultural expression... who knows New Mexico’s multicultural understanding is a model for the nation.
+A proud daughter of rural New Mexico who grew up in Las Vegas as part of a big family who taught me that now is always the time to be of service to our communities. ​ AND The first Congresswoman to represent New Mexico’s Third Congressional District, who is grateful for the opportunity to serve the communities that I love and have dedicated my life to.
 I am running for reelection to continue delivering for our state on the issues that matter most so that our communities can not just survive - but thrive.
+PAID FOR BY TERESA FOR ALL bottom of page

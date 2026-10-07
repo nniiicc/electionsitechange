@@ -1,4 +1,5 @@
-Small businesses cannot thrive if they are choked with regulations that impede their growth.
-A bill introduced by Representative Aaron Bean (R-FL) has recently passed the House Small Business Committee, requiring a more democratic regulatory process that allows small businesses to raise their voices before implementing new policies.
+Skip to content Facebook-f Twitter Youtube Meet Aaron The New 4th District Donate News & Updates Meet Aaron The New 4th District Donate News & Updates Bean Bill to Democratize Small Business Regulations Passes Committee September 11, 2024 The Floridian Small businesses cannot thrive if they are choked with regulations that impede their growth.
+A bill introduced by Representative Aaron Bean ( R-FL ) has recently passed the House Small Business Committee, requiring a more democratic regulatory process that allows small businesses to raise their voices before implementing new policies.
 Named the “Let American Businesses be On Record” (LABOR) Act, Rep.
 Bean’s bill would allow small business owners to speak with the Department of Labor through the Small Business Regulatory Enforcement Fairness Act (SBREFA) before new regulations are introduced so that changes can be made before their implementation and enforcement.
+Read more> Share This Facebook-f Twitter Youtube Paid for by Aaron Bean for Congress Media Inquiries: Sarah Bascom | Kelsey Deasy Copyright # Aaron Bean for Congress

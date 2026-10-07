@@ -1,17 +1,6 @@
-DAVID
-SOLANA
-INDEPENDENT FOR CONGRESS
-Let's rock the boat!
-District of Columbia ·
-US House of Representatives
-DAVID
-SOLANA
-INDEPENDENT FOR CONGRESS
-Let's rock the boat!
-Hi, I'm David
-MEET
-DAVID SOLANA
-Hi, I'm David Solana, and I would love to receive your vote to represent you and the District of Columbia in Congress as our Delegate to the US House of Representatives.
+DAVID SOLANA INDEPENDENT FOR CONGRESS Let's rock the boat!
+Join the Campaign Meet David District of Columbia · US House of Representatives DAVID SOLANA INDEPENDENT FOR CONGRESS Let's rock the boat!
+Join the Campaign Meet David Hi, I'm David MEET DAVID SOLANA Hi, I'm David Solana , and I would love to receive your vote to represent you and the District of Columbia in Congress as our Delegate to the US House of Representatives.
 I'm frustrated that our two-party system is not working for us.
 I'm here to fight for the changes we deserve.
 Only one other time have I lived in a city where armed troops patrolled the streets.
@@ -26,13 +15,10 @@ Let's get away from big donors and counting who has the most money in election c
 It's time to fight for the changes We the People need.
 My campaign is Our Campaign – for the people of DC to have a voice that represents US.
 Together we will take on our biggest problems: the ongoing threats to home rule, rising prices and the lack of affordability, health care, an unsustainable national debt, wealth inequality, education, and our aging infrastructure.
-It's time to fight to make our government work for everyone, and to get the value we deserve for the taxes we pay.
+It's time to fight to make our government work for everyone, and to get the value we deserve for the taxes we pay .
 It's long past time for us to have the same voting representation in Congress that every other tax-paying US Citizen has.
 It's time to rock the boat!
-"MY CAMPAIGN IS
-OUR CAMPAIGN"
-The Two-Party System Is Broken
-WHY AN INDEPENDENT?
+Read David's Full Story "MY CAMPAIGN IS OUR CAMPAIGN" — For the people of DC to have a voice that represents US The Two-Party System Is Broken WHY AN INDEPENDENT?
 There has never been a better or more important time to vote for an Independent candidate than right now.
 Our electoral system has been hijacked by the wealthiest.
 Our politicians make choices that serve their donors instead of you.
@@ -46,10 +32,6 @@ I have heard the old fear that voting for an Independent candidate is "throwing 
 Let's break free from the two-party system that has been failing us for years.
 Let's work together for the America we deserve.
 IT'S TIME TO ROCK THE BOAT!
-Join the Movement
-A Core Priority
-DC HOME
-RULE
-Being forced to watch our tax dollars pay to occupy our home is the biggest insult to DC Home Rule.
+Join the Movement A Core Priority DC HOME RULE Being forced to watch our tax dollars pay to occupy our home is the biggest insult to DC Home Rule.
 David will work tirelessly to send the National Guard home and build the coalition that finally delivers DC Statehood — giving DC residents the full representation every tax-paying American citizen deserves.
 David's Plan for Home Rule →

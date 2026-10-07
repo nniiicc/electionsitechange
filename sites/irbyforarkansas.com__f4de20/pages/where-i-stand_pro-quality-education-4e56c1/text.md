@@ -1,37 +1,37 @@
-Pro-Quality Education
-Every child deserves a strong foundation for a successful future.
+top of page Contact Donate NEWS & INSIGHTS PRESS RELEASE ANNOUNCEMENTS PERSONAL REFLECTIONS BEHIND THE PLATFORM EVENTS UPCOMING EVENTS INVITE JOSHUA TO YOUR EVENT ABOUT ME MY VALUES MY CIVIC BELIEF MY PLEDGE WHERE I STAND PRO-LOCAL CONTROL PRO-FREEDOM & RESPONSIBILITY PRO-INFRASTRUCTURE GROWTH PRO-2ND AMENDMENT PRO-QUALITY EDUCATION PRO-FAIR ELECTIONS AFP-AR CANDIDATE SURVEY REAL SOLUTIONS Civic Education Act Ballot Measure Rights Amendment Fair & Open Primaries Act Infrastructure Investment & Renewal Act Job Creation & Retention Tax Credit Act Parental Responsibility Act Criminal Firearm Law Enforcement Act Arkansas Firearm Safety Funding Act Health Transparency & Choice Act VOTE VOTER REGISTRATION EARLY VOTING ELECTION DAY Pro-Quality Education Facebook X (Twitter) Copy link Every child deserves a strong foundation for a successful future.
 That begins with a public education system focused on core learning, real-world skills, and meaningful civic understanding.
 I believe Arkansas students should leave school not just prepared for the workforce—but ready for the responsibilities of self-government.
-That’s why I’ll champion policies that restore academic excellence, expand career pathways, and support those who shape our children’s future: teachers and parents.
-Empowering Students
-Through Core Academic Excellence and Civic Engagement
-A strong educational foundation is essential for preparing students to become informed citizens and successful members of society.
+That’s why I’ll champion policies that restore academic excellence, expand career pathways, and support those who shape our children’s future: teachers and parents. ​ Empowering Students Through Core Academic Excellence and Civic Engagement A strong educational foundation is essential for preparing students to become informed citizens and successful members of society.
 That’s why I am committed to strengthening literacy, math, history, and science education in our schools.
 These core subjects are critical for both personal development and workforce readiness.
 Additionally, an emphasis on civic education will be a cornerstone of our approach, focusing on the history of our nation, the rights and responsibilities of citizens, and the importance of active participation in the democratic process.
 Through the development of a rigorous civic education curriculum, we will ensure that students gain a comprehensive understanding of the Constitution, the Bill of Rights, and the rule of law.
 By teaching students about their rights and responsibilities as citizens, we will equip them with the knowledge and skills necessary to contribute positively to society.
-This educational approach will lay the groundwork for a generation of engaged citizens, ready to participate in shaping their communities and the future of our country.
-Expanding Access to Practical Pathways: Vocational Education and Workforce Preparation
-While academic excellence is important, it is equally essential to provide pathways for students to succeed in the workforce.
+This educational approach will lay the groundwork for a generation of engaged citizens, ready to participate in shaping their communities and the future of our country. ​ Expanding Access to Practical Pathways: Vocational Education and Workforce Preparation While academic excellence is important, it is equally essential to provide pathways for students to succeed in the workforce.
 A robust education system must include vocational training and technical education that provide students with hands-on skills needed for careers in high-demand industries such as healthcare, manufacturing, technology, and construction.
 These practical pathways should be accessible to all students, ensuring that regardless of whether they pursue higher education or enter the workforce directly, they have a clear path to success.
 Additionally, I will work to expand apprenticeship programs and industry partnerships to align with local workforce needs, ensuring our students are not just prepared to enter the job market, but are equipped with the skills employers are looking for.
-By offering diverse educational options, we can build a skilled workforce and strengthen Arkansas's economy.
-Supporting Teachers and Parents:
-Streamlining Education to Focus on What Matters Most
-The foundation of any strong education system rests with teachers and parents.
+By offering diverse educational options, we can build a skilled workforce and strengthen Arkansas's economy. ​ Supporting Teachers and Parents: Streamlining Education to Focus on What Matters Most The foundation of any strong education system rests with teachers and parents.
 We must reduce bureaucratic barriers and simplify processes to ensure educators have the time and resources to focus on what they do best: teaching.
 By doing so, we can empower teachers to provide high-quality, personalized education while enabling parents to play an active role in their children’s learning.
 Additionally, I will support the implementation of interactive teaching methods, including simulations and case studies, that engage students in real-world applications of their learning, especially in civics and social studies.
 Together, teachers and parents will be equipped to foster critical thinking, problem-solving, and emotional intelligence in students.
-This collaborative approach will also promote the development of self-discipline, creativity, and teamwork, ensuring that students are not only academically prepared but also personally and socially developed.
-The Trifecta of Education:
-Guiding Future Leaders
-A strong education system succeeds when students, parents, and teachers work together as a system of checks and balances.
+This collaborative approach will also promote the development of self-discipline, creativity, and teamwork, ensuring that students are not only academically prepared but also personally and socially developed. ​ The Trifecta of Education: Guiding Future Leaders A strong education system succeeds when students, parents, and teachers work together as a system of checks and balances.
 Students are expected to engage fully, make thoughtful choices about their learning, and develop the skills and character needed for the future—they are tomorrow’s leaders, innovators, and citizens.
 This higher standard is not applied because we forget students are children, but because they will not be children forever, and preparing them for life requires teaching responsibility, resilience, and civic engagement.
 Teachers guide, implement strategies, and provide tools and mentorship to help students achieve their potential, while parents actively support, reinforce, and monitor habits of learning and personal growth at home, working alongside teachers to align guidance and expectations.
 Through this collaboration, students, parents, and teachers collectively foster critical thinking, problem-solving, teamwork, and leadership skills.
-By setting these expectations and equipping students with guidance and oversight from both school and home, we ensure every child has the opportunity to thrive academically, personally, and civically, ready to contribute meaningfully to their communities and the future of our state and nation.
-Strong minds build strong communities—and strong citizens protect the republic.
+By setting these expectations and equipping students with guidance and oversight from both school and home, we ensure every child has the opportunity to thrive academically, personally, and civically, ready to contribute meaningfully to their communities and the future of our state and nation. ​ Strong minds build strong communities—and strong citizens protect the republic. ​ “I don’t see sides—I see people.
+Neighbors.
+Fellow citizens.” Joshua Irby has taken the Principles of Service Pledge —committing to lead with integrity, unity, and a deep duty to the people, not politics.
+Contact Joshua First name * Last name * Organization (if applicable) Email * Phone (Optional) Your Message * I’m Interested In: Volunteering Hosting an Event Donating Yes, subscribe me for updates I agree to be contacted by phone, text, or email regarding campaign updates.
+Submit 501-943-5804 irbyforarkansas@gmail.com P.O.
+Box 490 Bryant, AR 72089 A Promise for Arkansas JOSHUA IRBY for Donate News & Insights Events About Me Where I Stand Vote AN INDIVIDUAL OR PAC MAY CONTRIBUTE UP TO $3,500 PER ELECTION.
+BUSINESS AND CORPORATE CONTRIBUTIONS ARE PROHIBITED.
+PLEASE MAKE CHECKS PAYABLE TO CITIZENS FOR JOSHUA IRBY Paid for by Joshua Irby "I’m not running for office to recite slogans — I’m running because I believe Arkansas deserves leadership rooted in respect, driven by resolve, and committed to renewal.
+Respect means every Arkansan, no matter where they live or who they are, is treated with dignity and heard with intention.
+Resolve means we don’t shy away from hard truths — we face them with courage and clarity.
+Renewal means we rebuild trust in our institutions and restore hope in our communities. ​ I believe in Common Ground because we’re stronger when we listen before we argue.
+I believe in Common Sense because good policy should be practical, not partisan.
+And I believe in the Common Good because public service should serve all, not just a few. ​ This isn’t just a campaign — it’s a call to come together.
+This is our moment." ​ - Joshua Irby bottom of page

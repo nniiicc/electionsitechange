@@ -1,7 +1,2 @@
-top of page
-Come Meet Jay at the Jasper County Lincoln - Reagan Dinner
-Sat, Apr 25
-|Jasper County Fairgrounds
-Come out and support the Jasper County Republican Party and meet Jay at the Lake County Right to Life Banquet!
-Registration is closed
-bottom of page
+top of page Menu Close Home Meet Jay Platform Volunteer Donate Contact Home Meet Jay Platform Volunteer Donate Contact Menu Close Come Meet Jay at the Jasper County Lincoln - Reagan Dinner Sat, Apr 25 | Jasper County Fairgrounds Come out and support the Jasper County Republican Party and meet Jay at the Lake County Right to Life Banquet!
+Registration is closed See other events Time & Location Apr 25, 2026, 5:00 PM – 9:00 PM CDT Jasper County Fairgrounds, 2671 W Clark St, Rensselaer, IN 47978 Share this event ​ Paid for by Committee to Elect James "Jay" Starkey Privacy Policy Home Meet Jay Platform Volunteer Donate Contact bottom of page

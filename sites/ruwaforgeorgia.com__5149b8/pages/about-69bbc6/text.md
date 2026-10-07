@@ -1,5 +1,4 @@
-About RUWA
-Georgia State Representative Ruwa Romman is not only a legislator—she is also an organizer, a policy strategist, and a bridge builder.
+0 Skip to Content Home About Policy Endorsements Contact Updates Voting Resources Open Menu Close Menu Open Menu Close Menu Home About Policy Endorsements Contact Updates Voting Resources Home About Policy Endorsements Contact Updates Voting Resources About RUWA Georgia State Representative Ruwa Romman is not only a legislator—she is also an organizer, a policy strategist, and a bridge builder.
 Born in Jordan and the granddaughter of Palestinian refugees, Ruwa moved to Georgia with her family when she was just eight years old.
 Growing up as a Muslim girl in post-9/11 America, she learned early on what it meant to be misunderstood—and what it would take to be heard.
 She’s carried that lesson with her into every aspect of her work.
@@ -13,4 +12,5 @@ And from day one, she’s fought to take homes back from corporate landlords, lo
 She leads with compassion, conviction, and clarity—and she’s a fierce example of what’s possible when you stay rooted in your values and strive for systemic change.
 Ruwa is now running for State Senate District 7 because the old playbook has failed too many times.
 At a moment of fear and uncertainty, Ruwa deeply believes that when we all collectively organize, we can build a better future.
-It’s time for fighters, not folders.
+It’s time for fighters, not folders. @ruwaromman HOME ABOUT POLICIES VOLUNTEER CONTACT MEDIA Join Our Email List!
+Made with Squarespace • Privacy Policy DONATE

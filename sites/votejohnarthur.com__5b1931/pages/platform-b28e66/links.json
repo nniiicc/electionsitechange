@@ -1,15 +1,62 @@
 [
-"https://facebook.com/profile.php?id=61555715998689",
-"https://instagram.com/votejohnarthur",
-"https://secure.actblue.com/donate/john-arthur-1",
-"https://votejohnarthur.com/",
-"https://votejohnarthur.com/about",
-"https://votejohnarthur.com/accelerate-academic-growth",
-"https://votejohnarthur.com/endorsements",
-"https://votejohnarthur.com/increase-job-satisfaction",
-"https://votejohnarthur.com/platform",
-"https://votejohnarthur.com/privacy-policy-1",
-"https://votejohnarthur.com/revitalize-our-public-education",
-"https://votejohnarthur.com/strengthen-partnerships",
-"https://x.com/9thEvermore?s=20"
+{
+"text": "ABOUT",
+"href": "https://www.votejohnarthur.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/john-arthur-1/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.votejohnarthur.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.votejohnarthur.com"
+},
+{
+"text": "JOHN@VOTEJOHNARTHUR.COM",
+"href": "mailto:info@votejohnarthur.com"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.votejohnarthur.com/accelerate-academic-growth"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.votejohnarthur.com/increase-job-satisfaction"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.votejohnarthur.com/revitalize-our-public-education"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.votejohnarthur.com/strengthen-partnerships"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.votejohnarthur.com/platform"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.votejohnarthur.com/privacy-policy-1"
+},
+{
+"text": "[image: John Arthur Logo (2)_edited.jpg]",
+"href": "https://www.votejohnarthur.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/9thEvermore?s=20"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61555715998689"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/votejohnarthur"
+}
 ]

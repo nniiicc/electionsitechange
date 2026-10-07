@@ -1,7 +1,9 @@
 {
  "description": "Darren Hamilton's Personal Opinions",
  "final_url": "https://www.hamiltonfortexas.com/opinions",
- "paid_for_by": null,
+ "fingerprint": "289ea55dddcd9dbb487a5f1bff05ee466799d096",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Personal Opinions",
  "years_mentioned": [
   "2024"

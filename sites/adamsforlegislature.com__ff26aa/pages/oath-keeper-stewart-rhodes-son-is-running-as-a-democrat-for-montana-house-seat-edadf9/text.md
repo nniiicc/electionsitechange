@@ -1,12 +1,12 @@
-Oath Keeper Stewart Rhodes’ son is running as a Democrat for Montana House seat
-Dakota Adams is a 27-year-old college student, volunteer firefighter and a Democratic candidate for the Montana state legislature.
-He’s also the estranged son of convicted seditionist Stewart Rhodes, founder of the far-right extremist Oath Keepers.
+Skip to content Register to Vote in Montana Home About Issues In the News Events Donate Contact In the Press Oath Keeper Stewart Rhodes’ son is running as a Democrat for Montana House seat April 10, 2024 November 3, 2024 Dakota Adams is a 27-year-old college student, volunteer firefighter and a Democratic candidate for the Montana state legislature.
+He’s also the estranged son of convicted seditionist Stewart Rhodes , founder of the far-right extremist Oath Keepers .
 Adams, who uses his mother’s maiden name, says he’s still working to shake a childhood he’s described as abusive, paranoid, isolated and fueled with conspiracy theories.
 But he also believes that he’s uniquely positioned to help people sympathetic to extremist groups see things differently.
 Adams joins host Robin Young to talk about his father, his past and his hope to help safeguard democracy.
 Dakota Adams as a child, training for combat with father, Stewart Rhodes.
-(Courtesy of Dakota Adams)
-Teenage Dakota Adams, dressed in military gear.
-(Courtesy of Dakota Adams)
-This article was originally published on WBUR.org.
+(Courtesy of Dakota Adams) Teenage Dakota Adams, dressed in military gear.
+(Courtesy of Dakota Adams) This article was originally published on WBUR.org.
+Copyright # NPR.
 To see more, visit https://www.npr.org.
+Source Post navigation Previous Dakota Adams, son of Oath Keepers founder, runs as a democrat in MT State House District 1 Next Now This: Oath Keepers Founder’s Son Runs for Office as a Democrat Similar Posts In the Press Dakota Adams goes from extremist militia upbringing to progressive Dem in red district October 18, 2024 November 3, 2024 Read More Dakota Adams goes from extremist militia upbringing to progressive Dem in red district In the Press Now This: Oath Keepers Founder’s Son Runs for Office as a Democrat April 30, 2024 November 3, 2024 Read More Now This: Oath Keepers Founder’s Son Runs for Office as a Democrat In the Press Dakota Adams at the DNC August 19, 2024 November 3, 2024 Read More Dakota Adams at the DNC In the Press Stewart Rhodes’ son: ‘How I escaped my father’s militia’ – BBC News November 29, 2022 November 3, 2024 Read More Stewart Rhodes’ son: ‘How I escaped my father’s militia’ – BBC News In the Press Dakota Adams, son of Oath Keepers founder Stewart Rhodes, talks about being at the DNC August 18, 2024 November 3, 2024 Read More Dakota Adams, son of Oath Keepers founder Stewart Rhodes, talks about being at the DNC In the Press The ‘weirdo progressive’ son of the Oath Keepers founder running for office in Montana June 19, 2024 August 27, 2026 Read More The ‘weirdo progressive’ son of the Oath Keepers founder running for office in Montana Leave a Reply Cancel reply You must be logged in to post a comment.
+Explore About Issues Contact Information Privacy Policy Opt-out preferences Terms and Conditions Links Register to Vote in Montana Lincoln County Democrats Montana Democrats © #-# Adams for Legislature | Lincoln County, Montana | HD 1 Home About Issues In the News Events Donate Contact Search for:

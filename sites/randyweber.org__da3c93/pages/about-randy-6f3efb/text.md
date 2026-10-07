@@ -1,7 +1,4 @@
-About
-Randy Weber
-Christian | Texan | Conservative
-Randy Weber is a Christian, conservative, pro-life, anti-socialist and second amendment supporter fighting to make our Texas values heard in Washington, D.C.
+0 Skip to Content About Randy Videos Contact Us Storefront Contribute Open Menu Close Menu About Randy Videos Contact Us Storefront Contribute Open Menu Close Menu About Randy Videos Contact Us Storefront Contribute About Randy Weber Christian | Texan | Conservative Randy Weber is a Christian, conservative, pro-life, anti-socialist and second amendment supporter fighting to make our Texas values heard in Washington, D.C.
 Randy is a third-generation Texan who has called the Gulf Coast home for nearly 70 years.
 He has lived in a 20-mile radius his entire life.
 He is a graduate of Ross Sterling High School, Alvin Community College, and the University of Houston Clear Lake.
@@ -18,3 +15,4 @@ House of Representatives to serve Texas’ Fourteenth Congressional District.
 Since taking office, Weber has brought Texas pride and conservative values to Congress and worked tirelessly to ensure your voice is heard and fight to uphold the Constitution.
 In Congress, he serves on the powerful Energy and Commerce Committee, which is vested with the broadest jurisdiction of any congressional authorizing committee.
 He also serves on the Science, Space and Technology Committee.
+Contribute Weber for Congress 133 N Friendswood Dr, #353 Friendswood, TX 77546 campaign@randyweber.org Paid for by Weber for Congress

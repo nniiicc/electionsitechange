@@ -1,28 +1,110 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Coffee+with+a+Candidate&dates=20260417T180000Z%2F20260417T193000Z&location=1393+IN-57%2C+Washington%2C+IN+47501",
-"http://maps.google.com/?q=+1393+IN-57%2C+Washington%2C+IN+47501",
-"https://bsky.app/profile/maryallen4congress.bsky.social",
-"https://facebook.com/share/1Chr644Ucy",
-"https://indianavoters.in.gov/",
-"https://instagram.com/maryallenforcongress",
-"https://maryallenforcongress.com/",
-"https://maryallenforcongress.com/cart",
-"https://maryallenforcongress.com/events",
-"https://maryallenforcongress.com/events/coffee-with-a-candidate?format=ical",
-"https://maryallenforcongress.com/events/meet-mary-at-the-library-greene-county",
-"https://maryallenforcongress.com/events/vanderburgh-canvassing-gpwkh-prlzn",
-"https://maryallenforcongress.com/eventsvolunteer",
-"https://maryallenforcongress.com/knowyourvote",
-"https://maryallenforcongress.com/meetmary",
-"https://maryallenforcongress.com/press-releases-1",
-"https://maryallenforcongress.com/priorities",
-"https://mobilize.us/maryallenforcongress/event/938147",
-"https://secure.actblue.com/donate/mary-allen-1",
-"https://secure.actblue.com/donate/marymerch",
-"https://secure.ngpvan.com/nsziOJ9h4Ueq4u2mFDoNAg2",
-"https://secure.ngpvan.com/o5fGkWx1RkaFX7i1q4lN7w2",
-"https://take-bac-congress.us/",
-"https://threads.net/maryallenforcongress",
-"https://tiktok.com/@maryallen4congress",
-"https://youtube.com/@MaryAllenForCongress/videos"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+1393+in-57%2C+washington%2C+in+47501+"
+},
+{
+"text": "0",
+"href": "https://www.maryallenforcongress.com/cart"
+},
+{
+"text": "ActBlue",
+"href": "https://secure.actblue.com/donate/mary-allen-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.maryallenforcongress.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mary-allen-1"
+},
+{
+"text": "Events",
+"href": "https://www.maryallenforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coffee+with+a+Candidate&dates=20260417T180000Z%2F20260417T193000Z&location=1393+IN-57%2C+Washington%2C+IN+47501"
+},
+{
+"text": "ICS",
+"href": "https://www.maryallenforcongress.com/events/coffee-with-a-candidate?format=ical"
+},
+{
+"text": "Know Your Vote",
+"href": "https://www.maryallenforcongress.com/knowyourvote"
+},
+{
+"text": "Learn More",
+"href": "https://www.take-bac-congress.us/"
+},
+{
+"text": "Meet Mary",
+"href": "https://www.maryallenforcongress.com/meetmary"
+},
+{
+"text": "Merch",
+"href": "https://secure.actblue.com/donate/marymerch"
+},
+{
+"text": "Next Next April 18 Vanderburgh County Canvassing - Phonebanking is also an option.",
+"href": "https://www.maryallenforcongress.com/events/vanderburgh-canvassing-gpwkh-prlzn"
+},
+{
+"text": "Press Releases",
+"href": "https://www.maryallenforcongress.com/press-releases-1"
+},
+{
+"text": "Previous Previous April 17 Meet Mary at the Library- Greene County",
+"href": "https://www.maryallenforcongress.com/events/meet-mary-at-the-library-greene-county"
+},
+{
+"text": "Priorities",
+"href": "https://www.maryallenforcongress.com/priorities"
+},
+{
+"text": "Register",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Sign up",
+"href": "https://secure.ngpvan.com/o5fGkWx1RkaFX7i1q4lN7w2"
+},
+{
+"text": "[image: Mary Allen for Congress]",
+"href": "https://www.maryallenforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/maryallen4congress.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1Chr644Ucy/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maryallenforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/maryallenforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@maryallen4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MaryAllenForCongress/videos"
+},
+{
+"text": "https://www.mobilize.us/maryallenforcongress/event/938147/",
+"href": "https://www.mobilize.us/maryallenforcongress/event/938147/"
+},
+{
+"text": "mary@maryallenforcongress.com",
+"href": "mailto:mary@maryallenforcongress.com"
+}
 ]

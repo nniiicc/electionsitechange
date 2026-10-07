@@ -1,6 +1,22 @@
 [
-"https://mooreforfairbanks.com/",
-"https://mooreforfairbanks.com/contact",
-"https://mooreforfairbanks.com/contribute",
-"https://snappages.com/"
+{
+"text": "CONTRIBUTE",
+"href": "https://www.mooreforfairbanks.com/contribute"
+},
+{
+"text": "Contact",
+"href": "https://www.mooreforfairbanks.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.mooreforfairbanks.com/"
+},
+{
+"text": "MooreforFairbanks@gmail.com",
+"href": "mailto:MooreforFairbanks@gmail.com?subject="
+},
+{
+"text": "powered by SnapPages",
+"href": "https://snappages.com"
+}
 ]

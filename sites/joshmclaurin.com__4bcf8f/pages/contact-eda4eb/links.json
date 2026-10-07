@@ -1,16 +1,66 @@
 [
-"https://bsky.app/profile/joshforgeorgia.bsky.social",
-"https://facebook.com/JoshMcLaurinForGA",
-"https://instagram.com/josh__mclaurin",
-"https://joshmclaurin.com/",
-"https://joshmclaurin.com/about",
-"https://joshmclaurin.com/cart",
-"https://joshmclaurin.com/contact",
-"https://joshmclaurin.com/endorsements",
-"https://joshmclaurin.com/home",
-"https://joshmclaurin.com/priorities",
-"https://joshmclaurin.com/privacy-policy",
-"https://secure.actblue.com/donate/jm2026",
-"https://threads.com/@josh__mclaurin",
-"https://tiktok.com/@josh.mclaurin"
+{
+"text": "0",
+"href": "https://www.joshmclaurin.com/cart"
+},
+{
+"text": "About Josh",
+"href": "https://www.joshmclaurin.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.joshmclaurin.com/contact"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@joshforgeorgia.com?body="
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jm2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.joshmclaurin.com/endorsements"
+},
+{
+"text": "Priorities",
+"href": "https://www.joshmclaurin.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.joshmclaurin.com/privacy-policy"
+},
+{
+"text": "[image: Josh McLaurin for Georgia Lieutenant Governor]",
+"href": "https://www.joshmclaurin.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.joshmclaurin.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joshforgeorgia.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoshMcLaurinForGA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/josh__mclaurin"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@josh__mclaurin"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@josh.mclaurin"
+},
+{
+"text": "info@joshforgeorgia.com",
+"href": "mailto:info@joshforgeorgia.com"
+}
 ]

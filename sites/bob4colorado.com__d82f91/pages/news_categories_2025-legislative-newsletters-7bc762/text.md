@@ -1,11 +1,6 @@
-top of page
-CAMPAIGN NEWS
-The Latest Updates
-Search
-December Newsletter
-Rep.
+top of page About Platform News Events HD43 Canvass Contact More Use tab to navigate through the menu items.
+DONATE CAMPAIGN NEWS The Latest Updates All Posts 2026 Campaign Re-Elect Bob Marshall 2026 Legislative Newsletters 2025 Legislative Newsletters Search December Newsletter Rep.
 Marshall writes several newsletter through the year, frequency is based on what is happening at the capitol and locally.
 You can see all past issues here .
-December Newsletter 12/19/2026 Table of Contents 2026 Legislative Priorities County Commissioner Elections Air Emissions Records Accessibility PERA Service Credit Disabled Veterans – Registration & License Plates Medical Provider Insurance Notification Transparency Issues in Special Districts & Charter Schools Up
-Dec 19, 20251 min read
-bottom of page
+December Newsletter 12/19/2026 Table of Contents 2026 Legislative Priorities County Commissioner Elections Air Emissions Records Accessibility PERA Service Credit Disabled Veterans – Registration & License Plates Medical Provider Insurance Notification Transparency Issues in Special Districts & Charter Schools Up Dec 19, 2025 1 min read Paid for by Bob4Colorado ​ Registered Agent: Robert Marshall DONATE BOB MARSHALL IS A RETIRED MARINE CORPS OFFICER.
+USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY, MARINE CORPS OR DEPARTMENT OF DEFENSE. bottom of page

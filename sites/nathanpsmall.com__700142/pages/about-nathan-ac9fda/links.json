@@ -1,14 +1,50 @@
 [
-"https://biogeocreations.com/",
-"https://facebook.com/NathanForNM",
-"https://instagram.com/nathanfornm",
-"https://nathanpsmall.com/",
-"https://nathanpsmall.com/about-nathan",
-"https://nathanpsmall.com/cart",
-"https://nathanpsmall.com/contact",
-"https://nathanpsmall.com/get-involved",
-"https://nathanpsmall.com/the-district",
-"https://nathanpsmall.com/voting",
-"https://secure.numero.ai/contribute/nathansmall",
-"https://twitter.com/nathanlcnm"
+{
+"text": "0",
+"href": "https://www.nathanpsmall.com/cart"
+},
+{
+"text": "ABOUT NATHAN",
+"href": "https://www.nathanpsmall.com/about-nathan"
+},
+{
+"text": "BGC",
+"href": "https://www.biogeocreations.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.nathanpsmall.com/contact"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.numero.ai/contribute/nathansmall"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.nathanpsmall.com/get-involved"
+},
+{
+"text": "THE DISTRICT",
+"href": "https://www.nathanpsmall.com/the-district"
+},
+{
+"text": "VOTING",
+"href": "https://www.nathanpsmall.com/voting"
+},
+{
+"text": "[image: Nathan Small]",
+"href": "https://www.nathanpsmall.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/nathanlcnm"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NathanForNM"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nathanfornm/"
+}
 ]

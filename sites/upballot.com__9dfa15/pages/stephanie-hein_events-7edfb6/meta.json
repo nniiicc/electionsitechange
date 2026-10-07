@@ -1,7 +1,11 @@
 {
- "description": "See Stephanie\u2019s upcoming campaign events happening near you.",
+ "description": "See Stephanie’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/stephanie-hein/events/",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "32ced5f8665467d3e3e01eb7261f2f70a7d4c8be",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Upcoming Stephanie Hein Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

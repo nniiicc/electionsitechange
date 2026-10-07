@@ -1,15 +1,70 @@
 [
-"https://facebook.com/SenatorGeneDornink",
-"https://genedorninkforsenate.com/",
-"https://genedorninkforsenate.com/about",
-"https://genedorninkforsenate.com/accomplishments",
-"https://genedorninkforsenate.com/donate",
-"https://genedorninkforsenate.com/endorsements",
-"https://genedorninkforsenate.com/platform",
-"https://genedorninkforsenate.com/privacy-policy",
-"https://genedorninkforsenate.com/radio-scripts",
-"https://genedorninkforsenate.com/terms-of-service",
-"https://genedorninkforsenate.com/volunteer",
-"https://secure.anedot.com/gene-dornink-for-senate/donate",
-"https://twitter.com/GeneDornink"
+{
+"text": "About",
+"href": "https://genedorninkforsenate.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://genedorninkforsenate.com/accomplishments/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/gene-dornink-for-senate/donate"
+},
+{
+"text": "Donate",
+"href": "https://genedorninkforsenate.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://genedorninkforsenate.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/GeneDornink"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/SenatorGeneDornink"
+},
+{
+"text": "Home",
+"href": "https://genedorninkforsenate.com/"
+},
+{
+"text": "Platform",
+"href": "https://genedorninkforsenate.com/platform/"
+},
+{
+"text": "READ MORE",
+"href": "https://genedorninkforsenate.com/about/"
+},
+{
+"text": "Radio Scripts",
+"href": "https://genedorninkforsenate.com/radio-scripts/"
+},
+{
+"text": "Terms & conditions",
+"href": "https://genedorninkforsenate.com/terms-of-service"
+},
+{
+"text": "Volunteer",
+"href": "https://genedorninkforsenate.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/GeneDornink"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/SenatorGeneDornink"
+},
+{
+"text": "[no text]",
+"href": "https://www.genedorninkforsenate.com/"
+},
+{
+"text": "privacy policy",
+"href": "https://genedorninkforsenate.com/privacy-policy"
+}
 ]

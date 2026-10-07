@@ -1,9 +1,13 @@
 {
  "description": "Michele is a Maine Clean Election candidate, pledging to take no money from special interests. If you are a registered State Senate District 35 voter, please support her campaign",
  "final_url": "https://www.micheleformaine.com/contribute",
- "paid_for_by": null,
+ "fingerprint": "d7e9dfcb7e61a4aee8633dc342854d8d053c2d3a",
+ "format": 3,
+ "paid_for_by": "authorized by Michele for Maine bottom of page",
  "title": "Contribute | Senate District 35 | Michele for Maine House of Reps",
  "years_mentioned": [
+  "1996",
+  "2000",
   "2015"
  ]
 }

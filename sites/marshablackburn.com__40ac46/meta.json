@@ -1,7 +1,11 @@
 {
  "description": "Marsha is running for Governor! Support her campaign now!",
  "final_url": "https://marshablackburn.com/",
- "paid_for_by": null,
+ "fingerprint": "067fe8489e154c1a04bd2e9ff62423543b5cfac1",
+ "format": 3,
+ "paid_for_by": "authorized by Marsha for Governor -- Treasurer Glenn Jacobs Please provide your mobile phone to opt-in to Marsha for Governor’s campaign alerts, updates and news",
  "title": "Marsha Blackburn for Governor",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

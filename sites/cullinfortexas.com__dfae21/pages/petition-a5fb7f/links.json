@@ -1,8 +1,30 @@
 [
-"https://cullinfortexas.com/",
-"https://cullinfortexas.com/cart",
-"https://cullinfortexas.com/donations",
-"https://cullinfortexas.com/petition",
-"https://cullinfortexas.com/positions",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.cullinfortexas.com/cart"
+},
+{
+"text": "Donations",
+"href": "https://www.cullinfortexas.com/donations"
+},
+{
+"text": "Home",
+"href": "https://www.cullinfortexas.com/"
+},
+{
+"text": "Positions",
+"href": "https://www.cullinfortexas.com/positions"
+},
+{
+"text": "SIGN OUR PETITION",
+"href": "https://www.cullinfortexas.com/petition"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: Cullin Knutson for State Representative ]",
+"href": "https://www.cullinfortexas.com/"
+}
 ]

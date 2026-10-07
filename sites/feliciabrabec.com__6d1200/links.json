@@ -1,15 +1,62 @@
 [
-"https://facebook.com/feliciabrabec",
-"https://feliciabrabec.com/",
-"https://feliciabrabec.com/endorsements",
-"https://feliciabrabec.com/issues",
-"https://feliciabrabec.com/legislative-history",
-"https://feliciabrabec.com/meet-felicia",
-"https://instagram.com/feliciabrabec",
-"https://michigan.gov/sos/elections/voting/absentee-voting",
-"https://michigan.gov/sos/elections/voting/register-to-vote",
-"https://mvic.sos.state.mi.us/",
-"https://mvic.sos.state.mi.us/Voter/Index",
-"https://secure.actblue.com/donate/felicia-brabec-website2",
-"https://secure.ngpvan.com/iJs-_pvANEmJkwdt4-vEQQ2"
+{
+"text": "Am I Registered to Vote?",
+"href": "https://mvic.sos.state.mi.us/Voter/Index"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/felicia-brabec-website2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.feliciabrabec.com/endorsements/"
+},
+{
+"text": "Find My Polling Location",
+"href": "https://mvic.sos.state.mi.us/"
+},
+{
+"text": "Issues",
+"href": "https://www.feliciabrabec.com/issues/"
+},
+{
+"text": "Legislative History",
+"href": "https://www.feliciabrabec.com/legislative-history/"
+},
+{
+"text": "Meet Felicia",
+"href": "https://www.feliciabrabec.com/meet-felicia/"
+},
+{
+"text": "Need an Absentee Ballot?",
+"href": "https://www.michigan.gov/sos/elections/voting/absentee-voting"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.michigan.gov/sos/elections/voting/register-to-vote"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/iJs-_pvANEmJkwdt4-vEQQ2"
+},
+{
+"text": "[image: Felicia Brabec for Michigan State Senate]",
+"href": "https://www.feliciabrabec.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/feliciabrabec"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/feliciabrabec"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/feliciabrabec/"
+},
+{
+"text": "teambrabec@gmail.com",
+"href": "mailto:teambrabec@gmail.com"
+}
 ]

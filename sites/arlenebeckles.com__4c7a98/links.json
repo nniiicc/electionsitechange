@@ -1,33 +1,210 @@
 [
-"http://linkedin.com/in/drarlenebecklespmp",
-"http://tiktok.com/@becklesforgeorgia",
-"https://314action.org/endorsed-candidates/state-legislative-municipal",
-"https://arlenebeckles.com/",
-"https://arlenebeckles.com/about",
-"https://arlenebeckles.com/event-details/meet-the-candidates",
-"https://arlenebeckles.com/event-details/tea-and-talk-with-state-rep-dr-arlene-beckles-friends-3",
-"https://arlenebeckles.com/event-details/tea-and-talk-with-state-rep-dr-arlene-beckles-friends-4",
-"https://arlenebeckles.com/event-list",
-"https://arlenebeckles.com/privacy",
-"https://arlenebeckles.com/resources",
-"https://arlenebeckles.com/volunteer",
-"https://arlenebeckles.com/voting",
-"https://facebook.com/arlenebecklesforgeorgia",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Fmeet-the-candidates&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Ftea-and-talk-with-state-rep-dr-arlene-beckles-friends-3&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Ftea-and-talk-with-state-rep-dr-arlene-beckles-friends-4&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://instagram.com/drapbeckles",
-"https://legis.ga.gov/members/house/5076",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Fmeet-the-candidates",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Ftea-and-talk-with-state-rep-dr-arlene-beckles-friends-3",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Ftea-and-talk-with-state-rep-dr-arlene-beckles-friends-4",
-"https://secure.actblue.com/donate/becklesforgeorgia",
-"https://secure.actblue.com/donate/becklesforgeorgia?amount=100",
-"https://secure.actblue.com/donate/becklesforgeorgia?amount=25",
-"https://secure.actblue.com/donate/becklesforgeorgia?amount=50",
-"https://secure.actblue.com/donate/becklesforgeorgia?amount=75",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Fmeet-the-candidates&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Ftea-and-talk-with-state-rep-dr-arlene-beckles-friends-3&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Ftea-and-talk-with-state-rep-dr-arlene-beckles-friends-4&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://x.com/Dr_APBeckles"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/becklesforgeorgia?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/becklesforgeorgia?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/becklesforgeorgia?amount=50"
+},
+{
+"text": "$75",
+"href": "https://secure.actblue.com/donate/becklesforgeorgia?amount=75"
+},
+{
+"text": "404-781-9330",
+"href": "tel:404-781-9330"
+},
+{
+"text": "@drapbeckles",
+"href": "https://www.instagram.com/drapbeckles"
+},
+{
+"text": "ABOUT",
+"href": "https://www.arlenebeckles.com/about"
+},
+{
+"text": "About Dr. Beckles",
+"href": "https://www.arlenebeckles.com/about"
+},
+{
+"text": "BecklesDistrict96@gmail.com",
+"href": "mailto:BecklesDistrict96@gmail.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.arlenebeckles.com"
+},
+{
+"text": "Custom Amount",
+"href": "https://secure.actblue.com/donate/becklesforgeorgia"
+},
+{
+"text": "DONATE",
+"href": "https://www.arlenebeckles.com"
+},
+{
+"text": "Details",
+"href": "https://www.arlenebeckles.com/event-details/meet-the-candidates"
+},
+{
+"text": "Details",
+"href": "https://www.arlenebeckles.com/event-details/tea-and-talk-with-state-rep-dr-arlene-beckles-friends-3"
+},
+{
+"text": "Details",
+"href": "https://www.arlenebeckles.com/event-details/tea-and-talk-with-state-rep-dr-arlene-beckles-friends-4"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.arlenebeckles.com"
+},
+{
+"text": "EVENTS",
+"href": "https://www.arlenebeckles.com/event-list"
+},
+{
+"text": "OUTREACH",
+"href": "https://www.arlenebeckles.com"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.arlenebeckles.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.arlenebeckles.com/privacy"
+},
+{
+"text": "RESOURCES",
+"href": "https://www.arlenebeckles.com/resources"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.arlenebeckles.com/volunteer"
+},
+{
+"text": "VOTING",
+"href": "https://www.arlenebeckles.com/voting"
+},
+{
+"text": "Vew All Events",
+"href": "https://www.arlenebeckles.com/event-list"
+},
+{
+"text": "[image: Arlene-Endorsement-314.png]",
+"href": "https://314action.org/endorsed-candidates/state-legislative-municipal/"
+},
+{
+"text": "[image: Arlene-Endorsement-AFL CIO.png]",
+"href": "https://314action.org/endorsed-candidates/state-legislative-municipal/"
+},
+{
+"text": "[image: Arlene-Endorsement-CN.png]",
+"href": "https://314action.org/endorsed-candidates/state-legislative-municipal/"
+},
+{
+"text": "[image: Arlene-Endorsement-GW.png]",
+"href": "https://314action.org/endorsed-candidates/state-legislative-municipal/"
+},
+{
+"text": "[image: Arlene-Endorsement-JB.png]",
+"href": "https://314action.org/endorsed-candidates/state-legislative-municipal/"
+},
+{
+"text": "[image: Arlene-Endorsement-MG.png]",
+"href": "https://314action.org/endorsed-candidates/state-legislative-municipal/"
+},
+{
+"text": "[image: Arlene-Endorsement-NLH.png]",
+"href": "https://314action.org/endorsed-candidates/state-legislative-municipal/"
+},
+{
+"text": "[image: Arlene-Endorsement-Ubig.png]",
+"href": "https://314action.org/endorsed-candidates/state-legislative-municipal/"
+},
+{
+"text": "[image: Arlene-Endorsement-WB.png]",
+"href": "https://314action.org/endorsed-candidates/state-legislative-municipal/"
+},
+{
+"text": "[image: Arlene-Endorsement-WN.png]",
+"href": "https://314action.org/endorsed-candidates/state-legislative-municipal/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/arlenebecklesforgeorgia"
+},
+{
+"text": "[image: GA Equality.png]",
+"href": "https://314action.org/endorsed-candidates/state-legislative-municipal/"
+},
+{
+"text": "[image: GA General Assembly]",
+"href": "https://www.legis.ga.gov/members/house/5076"
+},
+{
+"text": "[image: Gun Sense.png]",
+"href": "https://314action.org/endorsed-candidates/state-legislative-municipal/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/drapbeckles/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "http://www.linkedin.com/in/drarlenebecklespmp"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://www.tiktok.com/@becklesforgeorgia"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/Dr_APBeckles"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Fmeet-the-candidates&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Ftea-and-talk-with-state-rep-dr-arlene-beckles-friends-3&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Ftea-and-talk-with-state-rep-dr-arlene-beckles-friends-4&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.arlenebeckles.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Fmeet-the-candidates&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Ftea-and-talk-with-state-rep-dr-arlene-beckles-friends-3&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Ftea-and-talk-with-state-rep-dr-arlene-beckles-friends-4&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Fmeet-the-candidates"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Ftea-and-talk-with-state-rep-dr-arlene-beckles-friends-3"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.arlenebeckles.com%2Fevent-details%2Ftea-and-talk-with-state-rep-dr-arlene-beckles-friends-4"
+}
 ]

@@ -1,10 +1,7 @@
-FOR IMMEDIATE RELEASE
-December 2, 2014
-Rouzer Selected to Serve on Transportation & Infrastructure and Agriculture Committees
-Wilmington, NC – Representative-elect David Rouzer (NC-07) released the following statement today after being selected to serve on both the U.S.
-House of Representatives Committee on Transportation & Infrastructure and the Committee on Agriculture for the 114th Congress:
-“It will be an honor to serve on these two committees, which are vitally important to North Carolina.
+Skip to content Home Meet David Issues News Coalitions Contact Volunteer Contribute Sign Up for Updates Email (Required) Zip (Required) Subscribe Join Our Fight Today!
+Contribute Rouzer Selected to Serve on Transportation & Infrastructure and Agriculture Committees December 2, 2014 FOR IMMEDIATE RELEASE December 2, 2014 Rouzer Selected to Serve on Transportation & Infrastructure and Agriculture Committees Wilmington, NC – Representative-elect David Rouzer (NC-07) released the following statement today after being selected to serve on both the U.S.
+House of Representatives Committee on Transportation & Infrastructure and the Committee on Agriculture for the 114th Congress: “It will be an honor to serve on these two committees, which are vitally important to North Carolina.
 “If we are going to get our economy humming again and create high paying jobs, we must find long-term solutions for building and repairing our roadways and bridges, for the dredging of our waterways and inlets, and for our beach nourishment and re-nourishment needs.
 As a member of the Transportation & Infrastructure Committee, I will be a strong advocate for improving and modernizing our highways and ports and protecting our beautiful coastal communities.
 “It is equally important that North Carolina agriculture has a voice in Washington.
-Representing the top agricultural district in the North Carolina Delegation, I look forward to serving all of North Carolina’s farm families on the House Agriculture Committee.”
+Representing the top agricultural district in the North Carolina Delegation, I look forward to serving all of North Carolina’s farm families on the House Agriculture Committee.” Contribute Meet David Issues News Coalitions Contact Volunteer PAID FOR BY DAVID ROUZER FOR CONGRESS PO BOX 3142, WILMINGTON, NC 28406 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

@@ -1,8 +1,4 @@
-top of page
-Upcoming Events
-- IUK Meet The CandidatesTue, Apr 28Indiana University Kokomo
-- Community Cook Out with Jackson FranklinSun, Apr 12Gardens of Matter Park
-- No Kings Day - Meet The CandidatesSat, Mar 28Democrat Headquarters
-- No Kings Day 3.0Sat, Mar 28Grant County Court House
-- Get Crafty With KatieFri, Mar 27Marion Public Library
-bottom of page
+top of page KATIE ROBINS FOR INDIANA Home District 31 Events Shop Volunteer Contact About Donate More Use tab to navigate through the menu items.
+Upcoming Events IUK Meet The Candidates Tue, Apr 28 Indiana University Kokomo More info Details Earth Day Wed, Apr 22 Matter Park More info Details Community Cook Out with Jackson Franklin Sun, Apr 12 Gardens of Matter Park More info Details No Kings Day - Meet The Candidates Sat, Mar 28 Democrat Headquarters More info Details No Kings Day 3.0 Sat, Mar 28 Grant County Court House More info Details Get Crafty With Katie Fri, Mar 27 Marion Public Library More info Details Stay Connected With the Campaign Email * Yes, subscribe me to your newsletter.
+Subscribe View District Map krobinsmedia@outlook.com P.O.
+Box 105 Marion, IN 46952 Privacy Policy Accessibility Statement Paid for by Katie Robins For Indiana bottom of page

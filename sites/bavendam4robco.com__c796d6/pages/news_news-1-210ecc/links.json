@@ -1,16 +1,66 @@
 [
-"https://bavendam4robco.com/",
-"https://bavendam4robco.com/about",
-"https://bavendam4robco.com/contact",
-"https://bavendam4robco.com/endorsements",
-"https://bavendam4robco.com/events",
-"https://bavendam4robco.com/issues",
-"https://bavendam4robco.com/news",
-"https://bavendam4robco.com/volunteer",
-"https://bavendam4robco.com/vote",
-"https://designedtorun.com/",
-"https://facebook.com/bavendam4robco",
-"https://instagram.com/bavendam4robco",
-"https://secure.actblue.com/donate/tamara-bavendam-1",
-"https://tiktok.com/@bavendam4robco"
+{
+"text": "About",
+"href": "https://www.bavendam4robco.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.bavendam4robco.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tamara-bavendam-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bavendam4robco.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bavendam4robco.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.bavendam4robco.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.bavendam4robco.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.bavendam4robco.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bavendam4robco.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.bavendam4robco.com/vote"
+},
+{
+"text": "[image: Tamara Bavendam For State House]",
+"href": "https://www.bavendam4robco.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/bavendam4robco"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/bavendam4robco"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@bavendam4robco"
+},
+{
+"text": "[no text]",
+"href": "https://www.bavendam4robco.com/"
+}
 ]

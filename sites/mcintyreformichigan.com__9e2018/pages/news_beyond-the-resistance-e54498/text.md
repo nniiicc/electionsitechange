@@ -1,5 +1,7 @@
-Beyond the Resistance
-In this episode of Beyond Resistance, we sit down with Lisa McIntyre, candidate for Michigan State House (District 22), therapist, school board leader, mom of three, and all-around proof that local politics is where the real action happens.
+0 Skip to Content Meet Lisa Priorities Endorsements Get Involved Media News Open Menu Close Menu Meet Lisa Priorities Endorsements Get Involved Media News Open Menu Close Menu Meet Lisa Priorities Endorsements Get Involved Media News Beyond the Resistance Podcast Apr 16 Written By Lisa McIntyre In this episode of Beyond Resistance, we sit down with Lisa McIntyre, candidate for Michigan State House (District 22), therapist, school board leader, mom of three, and all-around proof that local politics is where the real action happens.
 If you’re into progressive political podcasts, grassroots organizing, or conversations about how to actually win elections in swingy districts, this one’s for you.
 Lisa shares how her background in mental health, public education, and crisis management shaped her leadership during the chaos of COVID and why those skills matter more than ever in state-level politics.
 We talk about building transformational (not transactional) relationships with voters, using data and empathy to make decisions, and why showing up—again and again—is the secret sauce of effective campaigning.
+Lisa McIntyre Previous Previous Friday & Saturday Canvassing Next Next Beyond the Campaign Podcast Meet Lisa Priorities Endorsements Get Involved News Donate Privacy Donate Now Lisa McIntyre is a candidate running for State Representative for Michigan House District 22 Copyright © #.
+All Rights Reserved.
+Paid for by Friends of Lisa McIntyre for Michigan - PO Box 641 - Northville MI 48167

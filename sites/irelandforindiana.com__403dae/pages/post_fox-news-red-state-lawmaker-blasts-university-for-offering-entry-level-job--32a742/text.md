@@ -1,31 +1,26 @@
-EXCLUSIVE: An Indiana Republican lawmaker is speaking out against Indiana University after the school posted a job listing advertising the position to be filled by an H-1B visa holder, rather than a graduate or Indiana resident.
+Skip to content Stand with Andrew — donate today → Meet Andrew Record Priorities News Take Action ☰ Donate Team Ireland · Nov 12, 2025 · 3 min read Fox News: Red state lawmaker blasts university for offering entry-level job to foreign workers, not grads EXCLUSIVE: An Indiana Republican lawmaker is speaking out against Indiana University after the school posted a job listing advertising the position to be filled by an H-1B visa holder, rather than a graduate or Indiana resident.
 “One of the whole points of a state university is to educate the next generation so they can get jobs here in Indiana and, amazingly, that same school then turns around and says, 'Except when we hire people, we're going to hire people from foreign countries instead of our own graduates,'” state Rep.
 Andrew Ireland told Fox News Digital.
-In a Tuesday post on X, Ireland took issue with a job posting on the IU website for a “marketing generalist” that pays $68,000 per year that was classified as a “notice of intent to hire H-1B/E-3 Employee 2.”
-His criticism quickly spread on social media and Ireland told Fox News Digital it was “frustrating” to see the “flagship” university in the state offer that job to a foreign worker rather than a student or graduate of the school.
-At the same time, Ireland told Fox News Digital the job posting is “not a surprise.”
-“I think more than 220 H-1B applications were filed this year for opportunities with different universities and colleges in the state of Indiana,” Ireland explained.
+In a Tuesday post on X , Ireland took issue with a job posting on the IU website for a “marketing generalist” that pays $68,000 per year that was classified as a “notice of intent to hire H-1B/E-3 Employee 2.” His criticism quickly spread on social media and Ireland told Fox News Digital it was “frustrating” to see the “flagship” university in the state offer that job to a foreign worker rather than a student or graduate of the school.
+At the same time, Ireland told Fox News Digital the job posting is “not a surprise.” “I think more than 220 H-1B applications were filed this year for opportunities with different universities and colleges in the state of Indiana,” Ireland explained.
 “These are public universities, public institutions, or the state government in some cases itself, that are using H-1B visas to fill positions.
 But frankly, very few of which seem to be actually technical or unique in nature.
 There's no specialization to a marketing generalist or a librarian, a marketing instructor.
-Some of these roles are being filled right now in the state of Indiana with H-1B workers.”
-Ireland, a graduate of Indiana University, said there has been a “longtime struggle” with the university’s “political bend” and reflected on a situation when he was a student where he says a journalism professor suggested to him that GOP Sen.
-Ted Cruz, who Ireland worked for as a student, was “the devil.”
-“I got thick skin, you can give it to me as much as you want,” Ireland told Fox News Digital.
-“But I think it's really indicative of what's going on on campus there at Indiana University and many other schools across the country, is that I think you really do have the infection from the woke mind virus.”
-Ireland continued, “I think there's a good case to be made that this sort of H-1B abuse certainly plays a part in that, too, where, you know, again, instead of really saying that our own best and brightest here in Indiana should have opportunities, that we really want to focus on merit, we're going to go and search outside of this country, even for some relatively low-skilled roles.
-Very frustrating, to say the least.”
-Fox News Digital reached out to Indiana University for comment.
+Some of these roles are being filled right now in the state of Indiana with H-1B workers.” Ireland, a graduate of Indiana University, said there has been a “longtime struggle” with the university’s “political bend” and reflected on a situation when he was a student where he says a journalism professor suggested to him that GOP Sen.
+Ted Cruz, who Ireland worked for as a student, was “the devil.” “I got thick skin, you can give it to me as much as you want,” Ireland told Fox News Digital.
+“But I think it's really indicative of what's going on on campus there at Indiana University and many other schools across the country, is that I think you really do have the infection from the woke mind virus.” Ireland continued, “I think there's a good case to be made that this sort of H-1B abuse certainly plays a part in that, too, where, you know, again, instead of really saying that our own best and brightest here in Indiana should have opportunities, that we really want to focus on merit, we're going to go and search outside of this country, even for some relatively low-skilled roles.
+Very frustrating, to say the least.” Fox News Digital reached out to Indiana University for comment.
 The Trump administration has made efforts since January to crack down on H-1B visa abuse, both by putting financial incentives on companies to hire Americans rather than overseas workers and by investigating companies who are potentially abusing the system.
 Last week, Fox News Digital first reported that Trump’s Department of Labor has launched at least 175 ongoing investigations targeting potential abuses within the H-1B visa program.
-Ireland says he applauds the Trump administration for “taking the issue seriously.”
-“But what I'm really focused on as a state lawmaker in Indiana is reining in what we can through state government, our own state institutions that are funded and subsidized by tax dollars to make sure we're putting our money where our mouth is,” Ireland told Fox News Digital.
+Ireland says he applauds the Trump administration for “taking the issue seriously.” “But what I'm really focused on as a state lawmaker in Indiana is reining in what we can through state government, our own state institutions that are funded and subsidized by tax dollars to make sure we're putting our money where our mouth is,” Ireland told Fox News Digital.
 “If we're America first, that means that we're going to hire American workers to fill American jobs, not foreigners.
-And I think that's something we can do even without the federal government, regardless of who's in the White House, that we should really be focused on that here in the state of Indiana.”
-In terms of what Ireland can do about H-1B visas at the state level in his capacity as a lawmaker, he pointed to the upcoming legislative session in the state and suggested he has some plans in the works.
+And I think that's something we can do even without the federal government, regardless of who's in the White House, that we should really be focused on that here in the state of Indiana.” In terms of what Ireland can do about H-1B visas at the state level in his capacity as a lawmaker, he pointed to the upcoming legislative session in the state and suggested he has some plans in the works.
 “I'm working to put a bill hopefully together for exactly this issue,” Ireland said.
-“Short of outright banning H-1B visas, and I think there's a strong case for that, is at least, require more transparency around this.”
-“It's one thing when we're talking about the Elon Musks of the world.
+“Short of outright banning H-1B visas, and I think there's a strong case for that, is at least, require more transparency around this.” “It's one thing when we're talking about the Elon Musks of the world.
 You know these high-skilled foreign individuals who bring a skillset that we simply just don't have in our own workforce.
 But I gotta tell you, there's plenty of people who can make PowerPoints and graphics and post on Facebook for Indiana University.
-We don't need to hire somebody for $68,000 a year to do the job that an American worker can do.”
+We don't need to hire somebody for $68,000 a year to do the job that an American worker can do.” ← Back to all news Keep conservative leadership working for District 90.
+Join Team Ireland, request a yard sign, or help Andrew reach more Hoosier voters.
+Take action Donate Meet Andrew Record Priorities News Take Action Request a yard sign Contact Privacy Terms Donate Questions, press inquiries, or ready to volunteer? team@irelandforindiana.com X f PAID FOR BY IRELAND FOR INDIANA INC. © # Ireland for Indiana Inc.
+All rights reserved. × Keep District 90 conservative Help Andrew keep delivering.
+Your contribution helps Team Ireland reach more Southside voters, defend Andrew’s conservative record, and win this November. $10 $25 $50 $100 $250 Other amount Continue to website → Donate

@@ -1,4 +1,2 @@
-The Latest from Team Neylon
-Follow the campaign, hear directly from Adam, and stay informed on the ideas, announcements, and conversations shaping the future of Waukesha County.
-Adam for Waukesha County
-Powered by CampaignPartner.com - Political Websites
+Meet Adam The Plan News Volunteer Contribute The Latest from Team Neylon Follow the campaign, hear directly from Adam, and stay informed on the ideas, announcements, and conversations shaping the future of Waukesha County.
+Voter Information Yard Signs Contact Adam for Waukesha County Powered by CampaignPartner.com - Political Websites Home Meet Adam The Plan Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

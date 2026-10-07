@@ -1,9 +1,38 @@
 [
-"https://ellisky66.com/",
-"https://ellisky66.com/about",
-"https://ellisky66.com/calendar",
-"https://ellisky66.com/donate",
-"https://ellisky66.com/news",
-"https://ellisky66.com/policy",
-"https://godaddy.com/websites/website-builder?isc=pwugc"
+{
+"text": "About",
+"href": "https://ellisky66.com/about"
+},
+{
+"text": "Calendar",
+"href": "https://ellisky66.com/calendar"
+},
+{
+"text": "Donate",
+"href": "https://ellisky66.com/donate"
+},
+{
+"text": "Find out more",
+"href": "https://ellisky66.com/about"
+},
+{
+"text": "Home",
+"href": "https://ellisky66.com/"
+},
+{
+"text": "News",
+"href": "https://ellisky66.com/news"
+},
+{
+"text": "Policy",
+"href": "https://ellisky66.com/policy"
+},
+{
+"text": "[image: Jason Ellis for Kentucky House 66th District]",
+"href": "https://ellisky66.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

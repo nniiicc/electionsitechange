@@ -1,13 +1,10 @@
-August 25, 2026
-Auburn, NY — House Republican leadership is putting its weight behind Kailee Buller in New York’s 22nd Congressional District, issuing a joint endorsement as national attention continues to build around the race.
-In a statement, Speaker Mike Johnson, Majority Leader Steve Scalise, Majority Whip Tom Emmer, and House Republican Conference Chair Lisa McClain said, “Kailee Buller is an America First patriot who will help us continue to deliver safe streets, secure borders, a strong economy, and peace through strength.
+Kitchen Table Solutions Tour Media Blog Issues Volunteer Yard Sign Request Newsletter Sign Up Donate House Republican Leadership Backs Kailee Buller as NY-22 Race Heats Up Aug 25, 2026 Back to Blog August 25, 2026 Auburn, NY — House Republican leadership is putting its weight behind Kailee Buller in New York’s 22nd Congressional District, issuing a joint endorsement as national attention continues to build around the race.
+In a statement, Speaker Mike Johnson , Majority Leader Steve Scalise , Majority Whip Tom Emmer, and House Republican Conference Chair Lisa McClain said , “Kailee Buller is an America First patriot who will help us continue to deliver safe streets, secure borders, a strong economy, and peace through strength.
 She is a proven leader who has delivered for central New York families and will support our farmers, veterans, and all the principles that have made America the greatest nation on Earth.
-We are proud to ENDORSE Kailee Buller for New York’s 22nd District, and look forward to working with her to defend and grow our House Republican majority and CONTINUE our American comeback!”
-“Thank you Speaker Mike Johnson, Majority Leader Steve Scalise, Majority Whip Tom Emmer, and Conference Chair Lisa McClain!
+We are proud to ENDORSE Kailee Buller for New York’s 22nd District, and look forward to working with her to defend and grow our House Republican majority and CONTINUE our American comeback!” “Thank you Speaker Mike Johnson, Majority Leader Steve Scalise, Majority Whip Tom Emmer, and Conference Chair Lisa McClain!
 This race is in play and House leadership knows we can win it,” said Buller.
 “Central New Yorkers are ready to move on from my do-nothing opponent, John Mannion.
-When I’m elected, I’ll fight to lower taxes, lower utility bills, and make Washington work for Central New York families again.”
-Background:
-Kailee Buller is an Auburn native, working mother of three, and former Chief of Staff at the U.S.
+When I’m elected, I’ll fight to lower taxes, lower utility bills, and make Washington work for Central New York families again.” Background: Kailee Buller is an Auburn native, working mother of three, and former Chief of Staff at the U.S.
 Department of Agriculture, where she helped lead a department of more than 100,000 employees and a budget exceeding $200 billion.
 She is running for Congress to lower costs, support working families and farmers, and bring accountability and common sense back to Washington.
+Donate Follow Follow Follow Follow PAID FOR BY Kailee for Congress Privacy Policy | Terms & Conditions Contact us: [email protected]

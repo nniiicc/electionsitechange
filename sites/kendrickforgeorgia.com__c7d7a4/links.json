@@ -1,70 +1,354 @@
 [
-"http://bsky.app/profile/darshunkendrick.bsky.social",
-"https://calendly.com/dkendrick-kendrickforgeorgia/15min",
-"https://calendly.com/dkendrick-kendrickforgeorgia/campaign-call",
-"https://facebook.com/StateRepDarshunKendrick",
-"https://forms.gle/VkMRoJJFnxJ3Wour9",
-"https://forms.gle/kBPtNktfF7iXQtZF7",
-"https://forms.gle/q5UY5HiB6wzE5HhHA",
-"https://instagram.com/darshunkendrick",
-"https://kendrickforgeorgia.com/",
-"https://kendrickforgeorgia.com/_files/ugd/00a16a_313583a6b2174e339cf1db2f9e76f57e.pdf",
-"https://kendrickforgeorgia.com/_files/ugd/00a16a_80f4ceeffa864d15a32bb63bd8184831.pdf",
-"https://kendrickforgeorgia.com/_files/ugd/00a16a_a531caf2d6ff46e4a34c0f92fbbd5189.pdf",
-"https://kendrickforgeorgia.com/about",
-"https://kendrickforgeorgia.com/contact",
-"https://kendrickforgeorgia.com/privacy-policy",
-"https://kendrickforgeorgia.com/volunteer",
-"https://legis.ga.gov/legislation/33284",
-"https://legis.ga.gov/legislation/38934",
-"https://legis.ga.gov/legislation/47511",
-"https://legis.ga.gov/legislation/54330",
-"https://legis.ga.gov/legislation/54427",
-"https://legis.ga.gov/legislation/54676",
-"https://legis.ga.gov/legislation/54854",
-"https://legis.ga.gov/legislation/54879",
-"https://legis.ga.gov/legislation/58791",
-"https://legis.ga.gov/legislation/58801",
-"https://legis.ga.gov/legislation/58802",
-"https://legis.ga.gov/legislation/58806",
-"https://legis.ga.gov/legislation/59181",
-"https://legis.ga.gov/legislation/63469",
-"https://legis.ga.gov/legislation/63495",
-"https://legis.ga.gov/legislation/63496",
-"https://legis.ga.gov/legislation/63636",
-"https://legis.ga.gov/legislation/63838",
-"https://legis.ga.gov/legislation/64352",
-"https://legis.ga.gov/legislation/64627",
-"https://legis.ga.gov/legislation/64736",
-"https://legis.ga.gov/legislation/65481",
-"https://legis.ga.gov/legislation/66574",
-"https://legis.ga.gov/legislation/66693",
-"https://legis.ga.gov/legislation/66694",
-"https://legis.ga.gov/legislation/66815",
-"https://legis.ga.gov/legislation/66970",
-"https://legis.ga.gov/legislation/66971",
-"https://legis.ga.gov/legislation/69278",
-"https://legis.ga.gov/legislation/69287",
-"https://legis.ga.gov/legislation/69288",
-"https://legis.ga.gov/legislation/69316",
-"https://legis.ga.gov/legislation/70102",
-"https://legis.ga.gov/legislation/70109",
-"https://legis.ga.gov/legislation/70394",
-"https://legis.ga.gov/legislation/70395",
-"https://legis.ga.gov/legislation/70420",
-"https://legis.ga.gov/legislation/70421",
-"https://legis.ga.gov/legislation/70719",
-"https://legis.ga.gov/legislation/71101",
-"https://legis.ga.gov/legislation/71264",
-"https://legis.ga.gov/legislation/72344",
-"https://legis.ga.gov/legislation/72345",
-"https://legis.ga.gov/legislation/72346",
-"https://legis.ga.gov/legislation/72348)/HB",
-"https://legis.ga.gov/legislation/72349)/HB",
-"https://secure.actblue.com/donate/general2026",
-"https://secure.actblue.com/donate/post2026fr",
-"https://slideshare.net/slideshow/hd-95-with-streets-pdfpdf/265129993",
-"https://slideshare.net/slideshow/summary-of-georgia-general-statutes-enacted-in-2026-legislative-session/288356520",
-"https://tiktok.com/@darshunkendrick",
-"https://youtube.com/@KendrickForGeorgia"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/general2026"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/general2026"
+},
+{
+"text": "$2000",
+"href": "https://secure.actblue.com/donate/general2026"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/general2026"
+},
+{
+"text": "$3300",
+"href": "https://secure.actblue.com/donate/general2026"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/general2026"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/general2026"
+},
+{
+"text": "ABOUT",
+"href": "https://www.kendrickforgeorgia.com/about"
+},
+{
+"text": "Book time to speak (constituents)",
+"href": "https://calendly.com/dkendrick-kendrickforgeorgia/15min"
+},
+{
+"text": "CALENDAR",
+"href": "https://www.kendrickforgeorgia.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.kendrickforgeorgia.com/contact"
+},
+{
+"text": "Communications Director/In Office Constituent Services",
+"href": "https://www.kendrickforgeorgia.com/_files/ugd/00a16a_80f4ceeffa864d15a32bb63bd8184831.pdf"
+},
+{
+"text": "DKForGeorgia@Gmail.com",
+"href": "mailto:DKForGeorgia@Gmail.com"
+},
+{
+"text": "DKendrick@KendrickForGeorgia.com",
+"href": "mailto:DKendrick@KendrickForGeorgia.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/general2026"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/post2026fr"
+},
+{
+"text": "DONATE",
+"href": "https://www.kendrickforgeorgia.com"
+},
+{
+"text": "Discuss the Campaign with Dar'shun",
+"href": "https://calendly.com/dkendrick-kendrickforgeorgia/campaign-call"
+},
+{
+"text": "Download Report Here",
+"href": "https://www.slideshare.net/slideshow/summary-of-georgia-general-statutes-enacted-in-2026-legislative-session/288356520"
+},
+{
+"text": "Email Inquiry",
+"href": "mailto:chief@kendrickforgeorgia.com?subject=Legislative+Aide+Inquiry"
+},
+{
+"text": "Follow us on Instagram!",
+"href": "https://www.instagram.com/darshunkendrick/"
+},
+{
+"text": "HB 1",
+"href": "https://www.legis.ga.gov/legislation/63469"
+},
+{
+"text": "HB 1016",
+"href": "https://www.legis.ga.gov/legislation/72344"
+},
+{
+"text": "HB 1017",
+"href": "https://www.legis.ga.gov/legislation/72345"
+},
+{
+"text": "HB 1018",
+"href": "https://www.legis.ga.gov/legislation/72346"
+},
+{
+"text": "HB 1110",
+"href": "https://www.legis.ga.gov/legislation/66574"
+},
+{
+"text": "HB 1137",
+"href": "https://www.legis.ga.gov/legislation/66693"
+},
+{
+"text": "HB 1138",
+"href": "https://www.legis.ga.gov/legislation/66694"
+},
+{
+"text": "HB 1195",
+"href": "https://www.legis.ga.gov/legislation/66815"
+},
+{
+"text": "HB 1257",
+"href": "https://www.legis.ga.gov/legislation/66970"
+},
+{
+"text": "HB 1258",
+"href": "https://www.legis.ga.gov/legislation/66971"
+},
+{
+"text": "HB 14",
+"href": "https://www.legis.ga.gov/legislation/63495"
+},
+{
+"text": "HB 15",
+"href": "https://www.legis.ga.gov/legislation/63496"
+},
+{
+"text": "HB 16",
+"href": "https://www.legis.ga.gov/legislation/58801"
+},
+{
+"text": "HB 17",
+"href": "https://www.legis.ga.gov/legislation/58802"
+},
+{
+"text": "HB 171",
+"href": "https://www.legis.ga.gov/legislation/63838"
+},
+{
+"text": "HB 191",
+"href": "https://www.legis.ga.gov/legislation/54676"
+},
+{
+"text": "HB 21",
+"href": "https://www.legis.ga.gov/legislation/58806"
+},
+{
+"text": "HB 219",
+"href": "https://www.legis.ga.gov/legislation/59181"
+},
+{
+"text": "HB 258",
+"href": "https://www.legis.ga.gov/legislation/54854"
+},
+{
+"text": "HB 275",
+"href": "https://www.legis.ga.gov/legislation/54879"
+},
+{
+"text": "HB 345",
+"href": "https://www.legis.ga.gov/legislation/70102"
+},
+{
+"text": "HB 347",
+"href": "https://www.legis.ga.gov/legislation/70109"
+},
+{
+"text": "HB 394",
+"href": "https://www.legis.ga.gov/legislation/64352"
+},
+{
+"text": "HB 419",
+"href": "https://www.legis.ga.gov/legislation/33284"
+},
+{
+"text": "HB 477",
+"href": "https://www.legis.ga.gov/legislation/70394"
+},
+{
+"text": "HB 478",
+"href": "https://www.legis.ga.gov/legislation/70395"
+},
+{
+"text": "HB 496",
+"href": "https://www.legis.ga.gov/legislation/70420"
+},
+{
+"text": "HB 497",
+"href": "https://www.legis.ga.gov/legislation/70421"
+},
+{
+"text": "HB 512",
+"href": "https://www.legis.ga.gov/legislation/64627"
+},
+{
+"text": "HB 561",
+"href": "https://www.legis.ga.gov/legislation/64736"
+},
+{
+"text": "HB 57",
+"href": "https://www.legis.ga.gov/legislation/54330"
+},
+{
+"text": "HB 598",
+"href": "https://www.legis.ga.gov/legislation/70719"
+},
+{
+"text": "HB 7",
+"href": "https://www.legis.ga.gov/legislation/69287"
+},
+{
+"text": "HB 715",
+"href": "https://www.legis.ga.gov/legislation/71101"
+},
+{
+"text": "HB 75",
+"href": "https://www.legis.ga.gov/legislation/63636"
+},
+{
+"text": "HB 795",
+"href": "https://www.legis.ga.gov/legislation/65481"
+},
+{
+"text": "HB 8",
+"href": "https://www.legis.ga.gov/legislation/69288"
+},
+{
+"text": "HB 88",
+"href": "https://www.legis.ga.gov/legislation/54427"
+},
+{
+"text": "HB 903",
+"href": "https://www.legis.ga.gov/legislation/38934"
+},
+{
+"text": "HR 10",
+"href": "https://www.legis.ga.gov/legislation/69316"
+},
+{
+"text": "HR 1046",
+"href": "https://www.legis.ga.gov/legislation/72348)/HB"
+},
+{
+"text": "HR 1047,",
+"href": "https://www.legis.ga.gov/legislation/72349)/HB"
+},
+{
+"text": "HR 1053",
+"href": "https://www.legis.ga.gov/legislation/47511"
+},
+{
+"text": "HR 557",
+"href": "https://www.legis.ga.gov/legislation/71264"
+},
+{
+"text": "HR 6",
+"href": "https://www.legis.ga.gov/legislation/58791"
+},
+{
+"text": "HR 6",
+"href": "https://www.legis.ga.gov/legislation/69278"
+},
+{
+"text": "In District Constituent Services",
+"href": "https://www.kendrickforgeorgia.com/_files/ugd/00a16a_a531caf2d6ff46e4a34c0f92fbbd5189.pdf"
+},
+{
+"text": "Kristen Rafuse",
+"href": "mailto:chief@kendrickforgeorgia.com?subject=Legislative+Aide+Inquiry"
+},
+{
+"text": "Legislative Aide",
+"href": "https://www.kendrickforgeorgia.com/_files/ugd/00a16a_313583a6b2174e339cf1db2f9e76f57e.pdf"
+},
+{
+"text": "MEET THE TEAM",
+"href": "https://www.kendrickforgeorgia.com/contact"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.kendrickforgeorgia.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kendrickforgeorgia.com/privacy-policy"
+},
+{
+"text": "Register HERE",
+"href": "https://forms.gle/kBPtNktfF7iXQtZF7"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.kendrickforgeorgia.com"
+},
+{
+"text": "Sign Up Here!",
+"href": "https://forms.gle/q5UY5HiB6wzE5HhHA"
+},
+{
+"text": "Step 1: Download map to see if your precinct needs a Member",
+"href": "https://www.slideshare.net/slideshow/hd-95-with-streets-pdfpdf/265129993"
+},
+{
+"text": "Step 2: Get More Info + Apply (if interested)",
+"href": "https://forms.gle/VkMRoJJFnxJ3Wour9"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.kendrickforgeorgia.com/volunteer"
+},
+{
+"text": "[image: Bluesky]",
+"href": "http://bsky.app/profile/darshunkendrick.bsky.social"
+},
+{
+"text": "[image: Darshun-social-blusky]",
+"href": "http://bsky.app/profile/darshunkendrick.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/StateRepDarshunKendrick"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/darshunkendrick/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@darshunkendrick"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@KendrickForGeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.kendrickforgeorgia.com"
+},
+{
+"text": "[no text]",
+"href": "mailto:chief@kendrickforgeorgia.com?subject=Legislative+Aide+Inquiry"
+},
+{
+"text": "chief@kendrickforgeorgia.com",
+"href": "mailto:chief@kendrickforgeorgia.com"
+}
 ]

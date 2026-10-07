@@ -1,15 +1,62 @@
 [
-"https://facebook.com/p/McLaughlin-For-Montana-61581400267408",
-"https://instagram.com/k84mt",
-"https://mclaughlinformontana.com/about",
-"https://mclaughlinformontana.com/contact-kate",
-"https://mclaughlinformontana.com/endorse-k84mt",
-"https://mclaughlinformontana.com/events",
-"https://mclaughlinformontana.com/issues-hd9",
-"https://mclaughlinformontana.com/k84mt",
-"https://mclaughlinformontana.com/our/rep",
-"https://mclaughlinformontana.com/vol_today",
-"https://mclaughlinformontana.com/vote",
-"https://secure.actblue.com/donate/kate-mclaughlin",
-"https://tiktok.com/@k84mt"
+{
+"text": "About",
+"href": "https://mclaughlinformontana.com/about"
+},
+{
+"text": "Check Your Voting Registration",
+"href": "https://mclaughlinformontana.com/vote"
+},
+{
+"text": "Click to use Contact Form",
+"href": "https://mclaughlinformontana.com/contact-kate"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.actblue.com/donate/kate-mclaughlin"
+},
+{
+"text": "DonateEvery donation helps us reach more voters",
+"href": "https://secure.actblue.com/donate/kate-mclaughlin"
+},
+{
+"text": "Endorsements",
+"href": "https://mclaughlinformontana.com/endorse-k84mt"
+},
+{
+"text": "Events",
+"href": "https://mclaughlinformontana.com/events"
+},
+{
+"text": "Home",
+"href": "https://mclaughlinformontana.com/k84mt"
+},
+{
+"text": "Issues",
+"href": "https://mclaughlinformontana.com/issues-hd9"
+},
+{
+"text": "Our Rep",
+"href": "https://mclaughlinformontana.com/our/rep"
+},
+{
+"text": "Paid For By Mclaughlin For Montana",
+"href": "https://secure.actblue.com/donate/kate-mclaughlin"
+},
+{
+"text": "Volunteer",
+"href": "https://mclaughlinformontana.com/vol_today"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.facebook.com/p/McLaughlin-For-Montana-61581400267408/"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.instagram.com/k84mt"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.tiktok.com/@k84mt"
+}
 ]

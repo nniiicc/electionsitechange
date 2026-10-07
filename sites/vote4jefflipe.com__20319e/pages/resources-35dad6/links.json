@@ -1,17 +1,62 @@
 [
-"http://facebook.com/vote4lipe",
-"https://ballotpedia.org/Jeffrey_Lipe",
-"https://calendar.google.com/calendar/embed?src=jeff4hd74%40gmail.com&ctz=America%2FDenver",
-"https://instagram.com/vote4jefflipeuhd74",
-"https://le.utah.gov/GIS/findDistrict.jsp",
-"https://sites.google.com/view/st-goerge-hai/home",
-"https://vote.utah.gov/",
-"https://vote4jefflipe.com/",
-"https://vote4jefflipe.com/about",
-"https://vote4jefflipe.com/cart",
-"https://vote4jefflipe.com/contact",
-"https://vote4jefflipe.com/donate",
-"https://vote4jefflipe.com/my-platform",
-"https://vote4jefflipe.com/resources",
-"https://wcdpu.com/"
+{
+"text": "0",
+"href": "https://www.vote4jefflipe.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.vote4jefflipe.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.vote4jefflipe.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.vote4jefflipe.com/donate"
+},
+{
+"text": "Find your Utah State Legislators",
+"href": "https://le.utah.gov/GIS/findDistrict.jsp"
+},
+{
+"text": "Jeff Lipe for Utah House District 74",
+"href": "https://www.vote4jefflipe.com/"
+},
+{
+"text": "My Ballotpedia Profile",
+"href": "https://ballotpedia.org/Jeffrey_Lipe"
+},
+{
+"text": "Platform",
+"href": "https://www.vote4jefflipe.com/my-platform"
+},
+{
+"text": "Resources",
+"href": "https://www.vote4jefflipe.com/resources"
+},
+{
+"text": "St George Housing Affordability Initiative",
+"href": "https://sites.google.com/view/st-goerge-hai/home"
+},
+{
+"text": "Utah Voting Website",
+"href": "https://vote.utah.gov"
+},
+{
+"text": "Visit my Campaign Google Calendar",
+"href": "https://calendar.google.com/calendar/embed?src=jeff4hd74%40gmail.com&ctz=America%2FDenver"
+},
+{
+"text": "Washington County Democratic Party",
+"href": "https://www.wcdpu.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/vote4lipe"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vote4jefflipeuhd74"
+}
 ]

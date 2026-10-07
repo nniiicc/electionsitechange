@@ -1,7 +1,6 @@
-CHICAGO – Illinois Attorney General-elect Kwame Raoul issued the following statement regarding a federal judge’s decision finding the entire Affordable Care Act unconstitutional:
-“The District Court’s decision jeopardizes healthcare access for more than one million Illinoisans, including children, seniors and people with pre-existing conditions.
-Upon taking office, I will continue our current attorney general’s work by partnering with attorneys general around the country to challenge this ruling and fight for the healthcare access Illinoisans need and deserve.”
-A coalition of state attorneys general, including current Illinois Attorney General Lisa Madigan, intervened in the case, Texas v.
-U.S., to defend the ACA when its constitutionality was challenged.
+About Kwame On the Issues Fighting Crime in Our Communities Advocating for Women Supporting Survivors Protecting Children Fighting for Affordable Healthcare Protecting Voting Rights Standing with Workers News Press Releases In the News Get Involved Get Updates Volunteer Contact Us Donate Now About Kwame On the Issues News Get Involved Contact Us News | Press Releases | 12/17/18 Raoul to join in challenging ACA decision, protect Illinoisans’ healthcare as AG Share CHICAGO – Illinois Attorney General-elect Kwame Raoul issued the following statement regarding a federal judge’s decision finding the entire Affordable Care Act unconstitutional: “The District Court’s decision jeopardizes healthcare access for more than one million Illinoisans, including children, seniors and people with pre-existing conditions.
+Upon taking office, I will continue our current attorney general’s work by partnering with attorneys general around the country to challenge this ruling and fight for the healthcare access Illinoisans need and deserve.” A coalition of state attorneys general, including current Illinois Attorney General Lisa Madigan, intervened in the case, Texas v.
+U.S. , to defend the ACA when its constitutionality was challenged.
 While healthcare access is at risk for 133 million Americans with pre-existing conditions and 10 million people who have purchased health insurance through ACA exchanges, the law remains in effect pending further legal action.
-# # #
+# # # Share Stay Up-to-Date Privacy Policy Copyright Kwame Raoul #, All Rights Reserved.
+Paid for by Raoul for Illinois Get Involved

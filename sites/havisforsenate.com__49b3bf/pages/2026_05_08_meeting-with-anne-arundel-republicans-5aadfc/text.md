@@ -1,4 +1,5 @@
-On May 6, 2026, the Anne Arundel Republican Central Committee met in Pasadena, Maryland for their regular monthly meeting to organize Republican activities in Anne Arundel County.
+Skip to content Havis For Senate Menu Close Donate Testimonials Issues News Events Open menu Lincoln Day Dinner with Cong.
+Jim Jordan Contact Us Open menu Join the team Meeting with Anne Arundel Republicans On May 6, 2026, the Anne Arundel Republican Central Committee met in Pasadena, Maryland for their regular monthly meeting to organize Republican activities in Anne Arundel County.
 Before their meeting, a time was set aside to meet with and help support local Re;publican candidates in the country.
 Since Lee’s Legislative District 21 includes a number of precincts in the western part of Anne Arundel County, he was invited to attend.
 At the meeting, Lee spoke with members of the committee to learn some ways to improve his voter outreach in the county.
@@ -9,3 +10,5 @@ He also noted how the regular public school system could bring far better result
 Lee also had a chance to meet other Republican candidates in the county as well.
 For example, he met Sonya Dunn, candidate for Maryland Comptroller.
 In the picture, Lee is shown with Sonya at this event.
+Published May 8, 2026 By Lee Havis Categorized as news Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Δ Post navigation Previous post Candidate Forum in Laurel Next post Red, White and Blue Dinner in Anne Arundel County Archives Select Month August 2026 July 2026 May 2026 April 2026 October 2022 September 2022 August 2022 May 2022 December 2018 October 2018 September 2018 August 2018 July 2018 June 2018 April 2018 March 2018 January 2018 September 2017 July 2017 Search Search X Facebook LinkedIn Mail HAVIS FOR SENATE • Lee Havis, Republican Candidate, LD 21 • Maryland State Senate • lee@havisforsenate.com by authority, Havis for Senate, Glenn Davis, Treasurer Privacy Policy

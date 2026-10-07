@@ -1,7 +1,28 @@
 {
  "description": "Official webpage of Massachusetts State Representative James O'Day, who represents the Fourteenth Worcester District.",
  "final_url": "https://www.repjimoday.com/",
- "paid_for_by": null,
+ "fingerprint": "209dbcdc44e6f5a44d143aaec3687d2ae88a48e4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Representative James O'Day | 14th Worcester District",
- "years_mentioned": []
+ "years_mentioned": [
+  "2009",
+  "2010",
+  "2011",
+  "2012",
+  "2013",
+  "2014",
+  "2015",
+  "2016",
+  "2017",
+  "2018",
+  "2019",
+  "2020",
+  "2021",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

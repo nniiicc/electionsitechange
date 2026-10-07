@@ -1,12 +1,58 @@
 [
-"https://facebook.com/profile.php?id=61589620405994",
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://maliformnhouse.com/",
-"https://maliformnhouse.com/about-mali",
-"https://maliformnhouse.com/contact",
-"https://maliformnhouse.com/general-4",
-"https://maliformnhouse.com/platform",
-"https://mnvotes.sos.mn.gov/VoterRegistration/index",
-"https://secure.actblue.com/donate/mali-anderson-1"
+{
+"text": "About Mali",
+"href": "https://www.maliformnhouse.com/about-mali"
+},
+{
+"text": "Contact",
+"href": "https://www.maliformnhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mali-anderson-1"
+},
+{
+"text": "Fundraising Link",
+"href": "https://secure.actblue.com/donate/mali-anderson-1"
+},
+{
+"text": "Home",
+"href": "https://www.maliformnhouse.com"
+},
+{
+"text": "Mali Anderson for Mn State House Representative 17A",
+"href": "https://www.maliformnhouse.com"
+},
+{
+"text": "Platform",
+"href": "https://www.maliformnhouse.com/platform"
+},
+{
+"text": "Press Releases",
+"href": "https://www.maliformnhouse.com/general-4"
+},
+{
+"text": "Register to vote",
+"href": "https://mnvotes.sos.mn.gov/VoterRegistration/index"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61589620405994"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image]",
+"href": "https://www.maliformnhouse.com"
+},
+{
+"text": "malianderson4mnhouse17a@gmail.com",
+"href": "mailto:malianderson4mnhouse17a@gmail.com"
+}
 ]

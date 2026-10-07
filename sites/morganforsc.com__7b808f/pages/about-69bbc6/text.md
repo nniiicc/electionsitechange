@@ -1,4 +1,4 @@
-Alan moved to Greer as a High School student over 20 years ago and fell in love with the area.
+Skip to content Menu Home Legislative Updates About Positions Contact Me Request a Sign Donate Alan Morgan For State House District 18 Donate Now About Alan moved to Greer as a High School student over #ago and fell in love with the area.
 He purchased and renovated his current home near downtown Greer in 2015, and he resides there with the love of his life, his wife Karis.
 He is a graduate of Bob Jones University in Greenville.
 Karis is a teacher in Greenville County Schools.
@@ -17,3 +17,5 @@ Alan firmly believes that more money should remain in the hands of the taxpayers
 Alan was re-elected overwhelmingly to his first full term in office in November of 2022 and has continued to fight for less government bureaucracy, lower taxes, 2nd amendment rights, the right to life, and much more.
 As a result of the Conservative stands Alan has taken this session, he and other members of the SC Freedom Caucus have been the target of an array of text message, email, social media, and mailed attack ads.
 Alan refuses to kowtow to the left and will continue to fight for Conservative values as long as the great people of District 18 choose to allow him to be their voice in Columbia.
+Alan discusses his faith: Search Search © Alan Morgan 2026.
+Powered by WordPress

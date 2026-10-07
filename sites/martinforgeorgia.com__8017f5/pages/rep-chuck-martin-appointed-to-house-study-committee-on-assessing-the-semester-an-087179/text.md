@@ -1,9 +1,16 @@
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
 Rep.
-Chuck Martin Appointed to House Study Committee on Assessing the Semester and Quarter Systems at USG and TCSG Institutions
-July 10, 2024
+Chuck Martin Appointed to House Study Committee on Assessing the Semester and Quarter Systems at USG and TCSG Institutions July 10, 2024 “I am grateful to be selected by Speaker Burns to work on this study committee with my fellow House members and leaders from TCSG and USG,” said Chairman Martin. ﻿ PRESS RELEASE FOR IMMEDIATE RELEASE: Contact: Betsy Theroux Thursday, June 20, 2024 (404) 656-3996 Rep.
+Chuck Martin Appointed to House Study Committee on Assessing the Semester and Quarter Systems at USG and TCSG Institutions ATLANTA – State Representative Chuck Martin (R-Alpharetta), Chairman of the House Committee on Higher Education, was recently named by Speaker Jon Burns (R-Newington) to serve on the House Study Committee on Assessing the Semester and Quarter Systems at USG and TCSG Institutions.
 “I am grateful to be selected by Speaker Burns to work on this study committee with my fellow House members and leaders from TCSG and USG,” said Chairman Martin.
-PRESS RELEASE
-FOR IMMEDIATE RELEASE:
-Contact: Betsy Theroux
-Thursday, June 20, 2024
-(404) 656-3996
+“We have seen that the conversion from quarter to semester systems has resulted in longer terms with more classes and fewer graduation cycles.
+In some cases, this has been a burden on students and the education system.
+I am eager to further study the options available to ensure that we best support our students throughout their pursuit of higher education.” Created by House Resolution 1384 , the House Study Committee on Assessing the Semester and Quarter Systems at USG and TCSG Institutions will examine the respective advantages and disadvantages of semesters and quarters for institutions of the University System of Georgia and the Technical College System of Georgia and whether the anticipated benefits of converting to the semester system have been realized.
+The study committee will have the opportunity to submit their findings into proposed legislation during the 2025 legislative session.
+Speaker Burns also appointed the following legislative members to this study committee: State Representatives Shaw Blackmon (R-Bonaire), Ginny Ehrhart (R-Marietta), Mike Cheokas (R-Americus), and Stacey Evans (D-Atlanta).
+Representative Chuck Martin represents the citizens of District 49, which includes portions of Fulton County.
+He was elected to the House of Representatives in 2002 and currently serves as Chairman of the Higher Education Committee.
+He also serves on the Appropriations Subcommittee on Higher Education and the Budget and Fiscal Affairs Oversight, Creative Arts & Entertainment, Energy, Utilities and Telecommunications, Regulated Industries, Retirement, Rules, Ways & Means, and Technology and Infrastructure Innovation committees.
+### < Older Post Newer Post > Share Tweet Share Mail Updates from Chuck Listening First on Local Taxes July 27, 2026 The first meeting of the Blue-Ribbon Study Committee on Local Government Taxation, Funding, and Budgeting.
+University of North Georgia STEM Excellence Center Groundbreaking By Chuck Martin • July 14, 2026 University of North Georgia - STEM Excellence Center Groundbreaking 1 (current) 2 3 ...
+8 HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:

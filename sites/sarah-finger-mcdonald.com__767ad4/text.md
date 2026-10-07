@@ -1,2 +1,3 @@
-Reelect Sarah for State Representative Sarah is fighting to create a better future for her kids — and yours.
+0 Skip to Content Home About Sarah Accomplishments In The News Get Involved DONATE Open Menu Close Menu Home About Sarah Accomplishments In The News Get Involved DONATE Open Menu Close Menu Home About Sarah Accomplishments In The News Get Involved DONATE Reelect Sarah for State Representative Sarah is fighting to create a better future for her kids — and yours.
 Sarah began her advocacy by promising her child, “I will work hard to make things better for you.” She will continue to work hard for District 16 and all Oregonians.
+Donate Paid for by Sarah 4 OR House PAC ID 23262 info@sarah-finger-mcdonald.com

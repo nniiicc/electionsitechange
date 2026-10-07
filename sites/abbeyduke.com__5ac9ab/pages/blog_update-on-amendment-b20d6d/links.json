@@ -1,14 +1,54 @@
 [
-"https://abbeyduke.com/",
-"https://abbeyduke.com/about",
-"https://abbeyduke.com/blog",
-"https://abbeyduke.com/blog/activist-or-public-servant",
-"https://abbeyduke.com/blog/its-the-economy",
-"https://abbeyduke.com/blog?author=665cbb81277a9332cfc1dd7e",
-"https://abbeyduke.com/cart",
-"https://abbeyduke.com/contact",
-"https://abbeyduke.com/private-policy-1",
-"https://facebook.com/abbeydukevt",
-"https://instagram.com/abbeydukevt",
-"https://secure.actblue.com/donate/abbey-duke-for-vermont-1"
+{
+"text": "0",
+"href": "https://www.abbeyduke.com/cart"
+},
+{
+"text": "Abbey Duke",
+"href": "https://www.abbeyduke.com/blog?author=665cbb81277a9332cfc1dd7e"
+},
+{
+"text": "About",
+"href": "https://www.abbeyduke.com/about"
+},
+{
+"text": "Blog",
+"href": "https://www.abbeyduke.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://www.abbeyduke.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/abbey-duke-for-vermont-1"
+},
+{
+"text": "Home",
+"href": "https://www.abbeyduke.com/"
+},
+{
+"text": "Next Next Activists And Public Servants",
+"href": "https://www.abbeyduke.com/blog/activist-or-public-servant"
+},
+{
+"text": "Previous Previous It’s the Economy…",
+"href": "https://www.abbeyduke.com/blog/its-the-economy"
+},
+{
+"text": "Private Policy",
+"href": "https://www.abbeyduke.com/private-policy-1"
+},
+{
+"text": "[image: Abbey Duke for Vermont House]",
+"href": "https://www.abbeyduke.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/abbeydukevt"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/abbeydukevt/"
+}
 ]

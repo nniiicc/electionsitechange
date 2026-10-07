@@ -1,17 +1,6 @@
-Endorsements and Trusted Leaders:
-Trusted Leaders
-- Governor Gretchen Whitmer
-- Westland Mayor Kevin Coleman
-- Wayne Mayor John Rhaesa
-- Senator Dayna Polehanki
-- State Representative Will Snyder
-- State Representative Angela Witwer
-- Speaker of the House Joe Tate
-- Fmr.
-Representative & current Wayne County Commissioner Alex Garza
-- Fmr.
-Representative & current Washtenaw County Commissioner Yousef Rabhi
-- Wayne City Councilwoman Pamela Dobrowolski (1993-2013)
-- Westland’s First Mayor Gene McKinney (50+ Years Public Service Experience)
-- Deputy Mayor James Godbout (25+ Years Experience)
-Paid for by Peter Herzberg for State Rep, 33016 Lynx St, Westland, MI 48185
+Skip to content Peter Herzberg for State Rep Learn More, Donate, Request a Yard Sign Menu + × expanded collapsed Home Peter’s District Priorities Endorsements Contact Peter Endorsements Endorsements and Trusted Leaders : Westland Police Officers Association MI Nurses Association UAW Region 1A Small Business Association of Michigan Wayne-Westland Teachers & School Staff League of Conservation Voters Michigan Regional Council of Carpenters & Millwrights LiUNA Local 1191 Sheet Metal Workers Local 80 AFL-CIO Planned Parenthood of Michigan IBEW Local 58 SEIU of Michigan Trusted Leaders Governor Gretchen Whitmer Westland Mayor Kevin Coleman Wayne Mayor John Rhaesa Senator Dayna Polehanki State Representative Will Snyder State Representative Angela Witwer Speaker of the House Joe Tate Fmr.
+Representative & current Wayne County Commissioner Alex Garza Fmr.
+Representative & current Washtenaw County Commissioner Yousef Rabhi Wayne City Councilwoman Pamela Dobrowolski (1993-2013) Westland’s First Mayor Gene McKinney (50+ Years Public Service Experience) Deputy Mayor James Godbout (25+ Years Experience) Paid for by Peter Herzberg for State Rep, 33016 Lynx St, Westland, MI 48185 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Home Peter’s District Priorities Endorsements Contact Peter Peter Herzberg for State Rep , Blog at WordPress.com.
+Peter Herzberg for State Rep Copy shortlink Manage subscriptions Sign up Log in Report this content Loading Comments...
+You must be logged in to post a comment. %d

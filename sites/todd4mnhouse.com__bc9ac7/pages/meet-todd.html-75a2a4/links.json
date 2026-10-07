@@ -1,11 +1,46 @@
 [
-"https://buzz360.app/",
-"https://facebook.com/todd4mnhouse",
-"https://secure.winred.com/hesemann-campaign-committee/donate-today",
-"https://todd4mnhouse.com/",
-"https://todd4mnhouse.com/home.html",
-"https://todd4mnhouse.com/join-us.html",
-"https://todd4mnhouse.com/meet-todd.html",
-"https://todd4mnhouse.com/on-the-issues.html",
-"https://x.com/todd4mnhouse"
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/hesemann-campaign-committee/donate-today"
+},
+{
+"text": "Home",
+"href": "https://todd4mnhouse.com/home.html"
+},
+{
+"text": "Join Us",
+"href": "https://todd4mnhouse.com/join-us.html"
+},
+{
+"text": "Meet Todd",
+"href": "https://todd4mnhouse.com/meet-todd.html"
+},
+{
+"text": "On the Issues",
+"href": "https://todd4mnhouse.com/on-the-issues.html"
+},
+{
+"text": "[image: Todd for MN House]",
+"href": "https://todd4mnhouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://buzz360.app/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/todd4mnhouse"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/todd4mnhouse"
+},
+{
+"text": "[no text]",
+"href": "mailto:todd@todd4mnhouse.com"
+},
+{
+"text": "[no text]",
+"href": "tel:6125878340"
+}
 ]

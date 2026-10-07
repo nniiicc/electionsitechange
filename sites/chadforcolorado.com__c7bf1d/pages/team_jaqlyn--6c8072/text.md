@@ -1,7 +1,3 @@
-top of page
-Jacqueline Stephenson
-Intern
-Jacqueline is a second year graduate student studying International Security at the University of Denver (DU).
+top of page Meet Chad Team Endorsements Priorities Creating Leaders PAC Newsletters Subscribe District 37 Contact Get Involved Events Donate < Back Jacqueline Stephenson Intern Jacqueline is a second year graduate student studying International Security at the University of Denver (DU).
 She graduated Magna Cum Laude from DU in 2024, majoring in International Studies and History.
-In her free time, she loves to hike, rock climb, and craft.
-bottom of page
+In her free time, she loves to hike, rock climb, and craft. cap.office@chadforcolorado.com C H A D C L I F F O R D - State Representative- C H A D C L I F F O R D - State Representative- © # Paid for by Chad for Colorado, Registered Agent Chad Clifford bottom of page

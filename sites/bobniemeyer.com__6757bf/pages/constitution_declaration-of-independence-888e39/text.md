@@ -1,4 +1,4 @@
-There are several truths that have become self-evident since the founding of the State of Oregon.
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer State of Oregon Declaration of Independence Bob Niemeyer District 25, Oregon House of Representatives Tigard, Metzger, Beaverton There are several truths that have become self-evident since the founding of the State of Oregon.
 Chief among these are that the laws and responsibilities, set forth in the State Constitution for the Government, have become nothing more than an easily avoided obstacle for corruption, misuse of authority, and power without responsibility.
 Further, a remarkably small number of nefarious individuals have developed new technologies to make corruption easy, hidden, and profitable.
 State Government is no longer “Of the People, by the People, and for the People.” Since 1859, many amendments to the Constitution of Oregon have left to many opportunities for those that have been able to twist the meaning for their own benefit and tyranny.
@@ -19,4 +19,4 @@ Further, the current Constitution has be confounded is ways that will take years
 Re-Founding of the State of Oregon has become the only option to return to a responsible government.
 To that end, We-The-People offer a new Oregon State Constitution designed to give back power over our government to the People.
 This the Right of the People as written is the Bill of Rights of the current Constitution of the State of Oregon.
-And for the support of this Declaration, with a firm reliance on the protection of divine Providence and the Truth, we mutually pledge to each other our Lives, our Fortunes, and our sacred Honor.
+And for the support of this Declaration, with a firm reliance on the protection of divine Providence and the Truth, we mutually pledge to each other our Lives, our Fortunes, and our sacred Honor. © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign

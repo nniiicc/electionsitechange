@@ -1,5 +1,4 @@
-By Jeff Bahr, Grand Island Independent —
-In the first of two races between Loren Lippincott and Michael Reimers for the District 34 legislative seat, Lippincott easily came out ahead in Tuesday’s primary.
+Home About District 34 Issues News Get Involved Donate Donate Home About District 34 Issues News Get Involved News May 12, 2022 Lippincott wins round one in race for District 34 legislative seat By Jeff Bahr, Grand Island Independent — In the first of two races between Loren Lippincott and Michael Reimers for the District 34 legislative seat, Lippincott easily came out ahead in Tuesday’s primary.
 Lippincott captured 69.7% of the vote while Reimers had 30.3%.
 The two men will face each other again in November for the right to succeed Curt Friesen of Henderson, who was term-limited.
 In all legislative races, the top two finishers run off against each other in the general election.
@@ -17,5 +16,6 @@ An Aurora native, he has also farmed and raised livestock.
 He served for 26 years in the Nebraska Air National Guard at Lincoln.
 While Reimers has not served in government or been elected to public office before, he has been active in the American Legion as a district and state level commander.
 District 34 consists of Hamilton, Merrick and Nance counties and a portion of Hall County, including part of the city of Grand Island.
-Paid for by Nebraskans for Loren Lippincott, 2611 Highway 14, Central City, NE 68826.
+Read more: https://theindependent.com/news/local/lippincott-wins-round-one-in-race-for-district-34-legislative-seat/article_e79ebdc4-d0e2-11ec-9207-9f05a9fe4fb8.html Donate Paid for by Nebraskans for Loren Lippincott, 2611 Highway 14, Central City, NE 68826.
 All rights reserved.
+Share

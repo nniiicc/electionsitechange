@@ -1,6 +1,4 @@
-On the Issues
-Core principles
-God – our founding fathers based the design of our government on Biblical principles, and they warned the fledgling nation that our rights and freedoms were contingent on remaining a moral people.
+Skip to Content Open Menu Close Menu Home About Issues News Volunteer Contact Events Store 0 0 CONTRIBUTE Home About Issues News Volunteer Contact Events Store 0 0 CONTRIBUTE Open Menu Close Menu Home About Issues News Volunteer Contact Events Store CONTRIBUTE On the Issues Core principles God – our founding fathers based the design of our government on Biblical principles, and they warned the fledgling nation that our rights and freedoms were contingent on remaining a moral people.
 As we abandon God and His principles, we forfeit His blessings – only by restoring our commitment to His teachings and leadership can we enjoy “God bless America”, without which we are truly lost.
 Family – the traditional family, designed and equipped to conceive, protect and develop the next generation, is the absolute foundation of our state and nation.
 The forces working within our culture to redefine and dismantle this critical component of our society imperil our future and degrade our present.
@@ -8,8 +6,7 @@ We must not shirk our responsibility to defend the family as our most critical i
 State – Iowa has led the nation in many ways over the years, and never more critically than in my lifetime, as “progressives” work to ignore the Constitution and seize ever more power, with a resultant loss of opportunity, personal liberty, and self-determination.
 Iowa has an obligation to oppose this massive federal government overreach, and reclaim our critical role as a constitutional check on the power of the federal government – a process we have started and must faithfully pursue.
 Country – having served in the armed forces for over 27 years, I have a love for this nation, have the utmost respect for those that have sacrificed and died for our freedoms, and absolutely believe we are blessed beyond measure to be citizens of the United States – but that dream is not permanent and many are zealous in their desire to destroy this nation as we know it – it is worth fighting for!
-Core Issues
-Right-to-life - abortion is a blight on our nation and our state, has compromised the value of all life, and destroys beautiful life in God’s image.
+Core Issues Right-to-life - abortion is a blight on our nation and our state, has compromised the value of all life, and destroys beautiful life in God’s image.
 Brought upon us through unconstitutional judicial activism, first by the Federal Supreme Court via Roe-vs-Wade, recently our state Supreme Court followed suit, perverting justice in our great state – which must be addressed by ratifying the Life Amendment.
 2nd Amendment – “the right to bear arms shall not be infringed” – Iowans understand this fundamental right and I commit to vigorously defending it.
 Agriculture – Iowa is an agricultural state – we truly feed the nation and the world!
@@ -27,3 +24,5 @@ Community – Iowa is widely recognized for being an innovative, family friendly
 Nothing shows this more than how we honor and protect our elderly, disabled and those who need a helping hand.
 This is best done in partnership with non-government organizations, including our churches and other non-profits – who can bring true help and healing where the government is not able.
 Defense – we must do all we can to strengthen Iowa's National Guard units for their continued contribution to the nation, state and community.
+Help me fight for conservative values today!
+Contribute Alons for Iowa Senate PAID FOR BY ALONS FOR SENATE About Issues News Volunteer Contact Contribute

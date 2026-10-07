@@ -1,14 +1,58 @@
 [
-"https://action.electjudgepenny.com/a/volunteer",
-"https://facebook.com/profile.php?id=61581090206520",
-"https://instagram.com/judgepennyforga",
-"https://pennyforgeorgia.com/",
-"https://pennyforgeorgia.com/_files/ugd/d29e02_e0052fcbe1c94381a890be92b5d8ffae.pdf",
-"https://pennyforgeorgia.com/endorsements",
-"https://pennyforgeorgia.com/home-old",
-"https://pennyforgeorgia.com/meet-judge-penny",
-"https://pennyforgeorgia.com/priorities",
-"https://secure.actblue.com/donate/penny-brown-reynolds-1",
-"https://tiktok.com/@judgepennyforga?is_from_webapp=1&sender_device=pc",
-"https://youtube.com/@judgepennyforgeorgia"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/penny-brown-reynolds-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.pennyforgeorgia.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.pennyforgeorgia.com"
+},
+{
+"text": "Learn More",
+"href": "https://www.pennyforgeorgia.com/priorities"
+},
+{
+"text": "Meet Judge Penny",
+"href": "https://www.pennyforgeorgia.com/meet-judge-penny"
+},
+{
+"text": "Priorities",
+"href": "https://www.pennyforgeorgia.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://action.electjudgepenny.com/a/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61581090206520"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/judgepennyforga/"
+},
+{
+"text": "[image: Judge Penny Brown Reynolds Campaign logo]",
+"href": "https://www.pennyforgeorgia.com/home-old"
+},
+{
+"text": "[image: Judge Penny Brown Reynolds favicon ]",
+"href": "https://www.pennyforgeorgia.com/home-old"
+},
+{
+"text": "[image: Privacy Policy for Judge Penny Brown Reynolds Campaign.pdf]Privacy Policy for Judge Penny Brown Reynolds Campaign.pdf",
+"href": "https://www.pennyforgeorgia.com/_files/ugd/d29e02_e0052fcbe1c94381a890be92b5d8ffae.pdf"
+},
+{
+"text": "[image: TikTok ]",
+"href": "https://www.tiktok.com/@judgepennyforga?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@judgepennyforgeorgia"
+}
 ]

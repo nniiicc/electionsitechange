@@ -1,8 +1,10 @@
 {
  "description": "Find key election dates for Missouri, including primary and general elections, with details on absentee voting and ballot measures. Stay informed and participate.",
  "final_url": "https://www.caseyscottformissouri.com/election-dates",
- "paid_for_by": null,
- "title": "Election Dates | Get Election Dates Now \u2014 Stay Informed and Vote \u2014 Casey Scott For Missouri",
+ "fingerprint": "d2f9c99b491de75f1bfd0907550b0bba06c4f0bf",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Election Dates | Get Election Dates Now — Stay Informed and Vote — Casey Scott For Missouri",
  "years_mentioned": [
   "2026"
  ]

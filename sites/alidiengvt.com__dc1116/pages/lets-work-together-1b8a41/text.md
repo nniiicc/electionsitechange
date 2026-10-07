@@ -1,4 +1,4 @@
-In these times of deep political discord, anger and confusion along with rising hatred and sometimes silence in response, we can each individually grow, learn from our mistakes, take responsibility for our judgment, and hold each other accountable while also striving to do better for the sake of future generations.
+Menu Ali Dieng For Vermont House of Representatives – Chittenden 18 Primary Menu Skip to content Home Our Priorities Donate Get Involved Blog Media Search Search for: Let’s Work Together Posted on August 24, 2020 January 6, 2021 Author steve In these times of deep political discord, anger and confusion along with rising hatred and sometimes silence in response, we can each individually grow, learn from our mistakes, take responsibility for our judgment, and hold each other accountable while also striving to do better for the sake of future generations.
 The killing of George Floyd in Minnesota and the momentum for change that has followed has moved the needle in the right direction by allowing us as human beings to take the time to reflect on our actions, then work to dismantle the systems of inequity and provide opportunities for everyone.
 Recently in my city we have perhaps inaccurately framed the discussion of change that is needed in our community.
 It seems as if the discussion is framed as either ‘pro-police’ or ‘anti-police.’ It is unfortunate that we are not really talking about the much needed deep culture change we need in our local police department.
@@ -29,8 +29,7 @@ And we can make progress.
 Let’s work together to build the police department and the fair, inclusive Burlington that we all want and need.
 Let’s do it together.
 Mr.
-Ali Dieng
-Burlington Ward 7 City Councilor
-alidiengvt.com
-diengali9@gmail.com
-802-318-2527
+Ali Dieng Burlington Ward 7 City Councilor alidiengvt.com diengali9@gmail.com 802-318-2527 Categories Ali , blog Post navigation ← Previous Previous post: Bike Lane Proposal Next → Next post: Call to protestors to pause the protest and organize for long-term systemic change DONATE I am running for the Vermont House of Representitives - Chittenden 18.
+Please consider making a donation to help our campaign.
+Search for: RESOLUTION Parks Arts and Cutlure Committee To Create A Dog Task Force Priorities Donate Volunteer Media ©# Ali Dieng, All rights reserved.
+Website hosting by Champlain Hosting Scroll Up Home Our Priorities Donate Get Involved Blog Media

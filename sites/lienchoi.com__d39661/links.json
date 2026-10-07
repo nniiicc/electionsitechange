@@ -1,20 +1,82 @@
 [
-"https://facebook.com/profile.php?id=61556134772217",
-"https://instagram.com/leanonmechicago",
-"https://instagram.com/lienchoi_il",
-"https://lienchoi.com/",
-"https://lienchoi.com/about",
-"https://lienchoi.com/blog",
-"https://lienchoi.com/contact",
-"https://lienchoi.com/donate",
-"https://lienchoi.com/non-profit-initiatives",
-"https://lienchoi.com/plan",
-"https://lienchoi.com/store",
-"https://lienchoi.com/volunteer",
-"https://lienchoi.com/why-me",
-"https://lienchoi.com/why-the-7th",
-"https://linktr.ee/lienchoi",
-"https://tiktok.com/",
-"https://twitter.com/LienChoi_IL",
-"https://youtube.com/channel/UCrMHT2tOQcg3RKU8GwpuE_w"
+{
+"text": "Store",
+"href": "https://lienchoi.com/store"
+},
+{
+"text": "[image: Lienonme for Congress logo]",
+"href": "https://lienchoi.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/profile.php?id=61556134772217"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/leanonmechicago/"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/lienchoi_il"
+},
+{
+"text": "[tooltip: Go to Linktree page]",
+"href": "https://linktr.ee/lienchoi"
+},
+{
+"text": "[tooltip: Go to Tiktok page]",
+"href": "https://tiktok.com/"
+},
+{
+"text": "[tooltip: Go to Twitter page]",
+"href": "https://twitter.com/LienChoi_IL"
+},
+{
+"text": "[tooltip: Go to Youtube page]",
+"href": "https://www.youtube.com/channel/UCrMHT2tOQcg3RKU8GwpuE_w"
+},
+{
+"text": "about",
+"href": "https://lienchoi.com/about"
+},
+{
+"text": "blog",
+"href": "https://lienchoi.com/blog"
+},
+{
+"text": "contact",
+"href": "https://lienchoi.com/contact"
+},
+{
+"text": "donate",
+"href": "https://lienchoi.com/donate"
+},
+{
+"text": "donate",
+"href": "tel:"
+},
+{
+"text": "home",
+"href": "https://lienchoi.com/"
+},
+{
+"text": "non-Profit Initiatives",
+"href": "https://lienchoi.com/non-profit-initiatives"
+},
+{
+"text": "plan",
+"href": "https://lienchoi.com/plan"
+},
+{
+"text": "volunteer",
+"href": "https://lienchoi.com/volunteer"
+},
+{
+"text": "why me?",
+"href": "https://lienchoi.com/why-me"
+},
+{
+"text": "why the 7th?",
+"href": "https://lienchoi.com/why-the-7th"
+}
 ]

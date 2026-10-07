@@ -1,10 +1,4 @@
-BLACK EXCELLENCE AWARDS GALA 2020 Celebrating Black Entrepreneurs & Business Owners of Lake County Feb 29, 2020, 5:30PM – 9:00PM […]
-Category: news
-Waukegan rejects taller emissions stack for Medline plant that uses ethylene oxide
-Opponents of the taller stack — including state Rep.
-Rita Mayfield, D-Waukegan, who asked to make a rare-but-not-unprecedented speech ahead […]
-State Rep.
-Rita Mayfield and CUB Hold Utility-Bill Clinic
-When: Thursday, October 10, 2019, 6:00 – 8:00pm Where: Waukegan Public Library, Meeting Room A, 128 North County Street, Waukegan […]
-CPLC Celebrates as Governor Signs Milestone Coal Ash Cleanup Bill Into Law
-For years, Clean Power Lake County has called for state action on toxic pollution from two unlined coal ash ponds […]
+Skip to content Toggle mobile menu Home About Rita Endorsements Issues News Take Action Donate Volunteer Get Your Rita Mayfield Yard Sign Contact Search for: Category: news December 9, 2019 December 9, 2019 2/29/2020 – Please Join Us! news by staff 0 comments BLACK EXCELLENCE AWARDS GALA 2020 Celebrating Black Entrepreneurs & Business Owners of Lake County Feb 29, 2020, 5:30PM – 9:00PM […] Read more >> September 4, 2019 September 7, 2019 Waukegan rejects taller emissions stack for Medline plant that uses ethylene oxide news by staff 0 comments Opponents of the taller stack — including state Rep.
+Rita Mayfield, D-Waukegan, who asked to make a rare-but-not-unprecedented speech ahead […] Read more >> September 3, 2019 September 7, 2019 State Rep.
+Rita Mayfield and CUB Hold Utility-Bill Clinic news by staff 0 comments When: Thursday, October 10, 2019, 6:00 – 8:00pm Where: Waukegan Public Library, Meeting Room A, 128 North County Street, Waukegan […] Read more >> July 31, 2019 September 7, 2019 CPLC Celebrates as Governor Signs Milestone Coal Ash Cleanup Bill Into Law news by staff 0 comments For years, Clean Power Lake County has called for state action on toxic pollution from two unlined coal ash ponds […] Read more >> Posts navigation Newer posts Latest News Please Join Us On June 10th!
+I Will Always Stand Up For The Rights Of People Sierra Club Endorsed @2024 Friends of Rita Mayfield Contact us Email: info@voteritamayfield.com Address: 118 N Genesee Waukegan, IL 60079 Quick links About Rita Contact Issues Volunteer Endorsements Follow us Facebook Twitter Linkedin Proudly powered by WordPress | Theme: Airi by aThemes.

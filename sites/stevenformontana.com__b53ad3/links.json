@@ -1,8 +1,46 @@
 [
-"https://facebook.com/stevenformontana",
-"https://secure.winred.com/galloway4mt/donate",
-"https://stevenformontana.com/",
-"https://stevenformontana.com/learnmore",
-"https://stevenformontana.com/volunteer",
-"https://wordpress.org/"
+{
+"text": "About",
+"href": "https://www.stevenformontana.com/learnmore/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/galloway4mt/donate"
+},
+{
+"text": "Email",
+"href": "mailto:galloway@stevenformontana.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/stevenformontana/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stevenformontana.com/volunteer/"
+},
+{
+"text": "Home",
+"href": "https://www.stevenformontana.com/"
+},
+{
+"text": "Proudly powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "[image: Link to donation page with graphic of suggested donation amounts]",
+"href": "https://secure.winred.com/galloway4mt/donate"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/galloway4mt/donate"
+},
+{
+"text": "[image]",
+"href": "https://www.stevenformontana.com/learnmore/"
+},
+{
+"text": "[image]",
+"href": "https://www.stevenformontana.com/volunteer/"
+}
 ]

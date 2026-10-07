@@ -1,5 +1,4 @@
-ABOUT KEITH
-Keith has served as attorney general since Minnesotans first elected him in 2018.
+0 Skip to Content About Endorsements Volunteer Keith’s Priorities DONATE Open Menu Close Menu About Endorsements Volunteer Keith’s Priorities DONATE Open Menu Close Menu About Endorsements Volunteer Keith’s Priorities DONATE ABOUT KEITH Keith has served as attorney general since Minnesotans first elected him in 2018.
 As the People’s Lawyer, Keith’s job is to help Minnesotans afford their lives and live with dignity, safety, and respect.
 Under Keith’s leadership, the Attorney General’s office has taken on the powerful on behalf of Minnesotans, lowering costs for Minnesotans by reducing the cost of insulin to $35, fighting price-gouging by greedy corporations, tackling medical debt, and holding opioid companies accountable for the deadly opioid epidemic.
 He is protecting tenants from exploitation, keeping Minnesotans safe from scammers and abuse, standing up for student borrowers, and holding greedy corporations accountable for screwing over Minnesotans.
@@ -12,3 +11,4 @@ Before entering Congress, Keith served in the Minnesota House of Representatives
 He practiced law as a criminal defense and civil rights attorney for 16 years, including five years as executive director of the Legal Rights Center.
 Keith earned his law degree from the University of Minnesota in 1990.
 He is the father of four adult children: Isaiah, a County prosecutor; Jeremiah, a Minneapolis City Council member; Elijah, an Army veteran and nurse; and Amirah, a lawyer.
+About Endorsements Volunteer Donate campaign@keithellison.org Prepared and paid for by the Keith Ellison for Attorney General committee, PO Box 17224, Minneapolis, MN 55417

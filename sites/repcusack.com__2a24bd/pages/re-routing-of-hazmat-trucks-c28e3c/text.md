@@ -1,10 +1,9 @@
-For immediate release: August 25, 2011
-(BOSTON) –The City of Boston has proposed a new plan that will no longer allow Hazmat trucks to drive on its streets unless a shipment is to be made within the city.
+Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Facebook Twitter Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Re-Routing of Hazmat Trucks For immediate release: August 25, 2011 (BOSTON) –The City of Boston has proposed a new plan that will no longer allow Hazmat trucks to drive on its streets unless a shipment is to be made within the city.
 The suggested route will force the trucks to drive through the suburban areas on I-95 and I-93, greatly increasing the distance that they will be traveling.
 “The route proposed by the City of Boston is irresponsible and fails to recognize the impact that it will have on the communities along I-95, I-93 and the Mass Pike,” said Representative Cusack.
-“Our safety should not matter less than the residents of Boston.”
-The use of I-95 and I-93 will also force the trucks to travel at greater speeds, therefore increasing the probability of more serious accidents.
+“Our safety should not matter less than the residents of Boston.” The use of I-95 and I-93 will also force the trucks to travel at greater speeds, therefore increasing the probability of more serious accidents.
 The proposal has faced opposition from the Trucking Industry as well as citizens that live along the proposed route.
 Representative Cusack would like to notify the public that if anyone would like to provide written testimony concerning this issue, please have it postmarked by September 23, 2011 and address it Thomas F.
 Broderick, P.E., Acting Chief Engineer, MassDOT, 10 Park Plaza, Suite 4160, Boston, MA 02116, ATTN: BOSTON HAZMAT ROUTE.
-###
+### Newsroom Press Releases Previous Legislators File Bill for the Allowance of a Design and Build Contract for New Recreational Center in Braintree Next Governor Patrick signs Pool/Rink Legislation paving the way for the Petersen Pool to be built in Braintree Related Posts ...
+House Passes FY22 ; Cusack Secures $62 Million in Local Aid for Braintree, Holbrook & Randolph Newsroom , Press Releases House Passes Fiscal Year 2019 Supplemental Budget; Cusack Secures $200,000 for Traffic Mitigation in Braintree Newsroom , Press Releases House and Senate Pass FY20 Budget; Cusack Secures $400,000 directed towards improvements in Braintree Newsroom , Press Releases Take Action Donate Join Mark’s Team Stay Informed Facebook Twitter 2020 - Paid for by the Committee to Elect Mark Cusack 74 Brow Avenue Braintree MA 02184

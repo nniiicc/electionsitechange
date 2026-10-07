@@ -1,7 +1,8 @@
+Skip to content Home Bio Contact Endorsements/Testimonials In the news Nuclear power a clean energy option?
+Newsletter Opioid Coalition Photos/Video Priorities Economy and Jobs Education Civility in Government Strategic planning Speeches A farm story – Six Pillars 2006 Adaptation to Life – Bates College Class Speech (1983) Americans look out for one another – graduation 2010 Arts Advocacy Day in Franklin Creativity, civility and responsibility – graduation 2011 Floor remarks on Healthcare reform Franklin Memorial Day Ceremony – 2014 Genocide Education Act – 2021 HMMS All In Reading and Veteran’s Day Event – 2014 Horace Mann dedication remarks Library dedications Maiden speech on H1566 – online legal notices Manufacturing Roundtable at Worcester Regional Chamber of Commerce Medway High Civics Day Remarks Next-generation roadmap for Massachusetts climate policy Offshore wind and clean energy act Pay it forward – Six Pillar Induction Remarks on Step therapy and patient safety Tear down some more walls – Graduation 2008 The Pluto Class – Graduation 2007 What are you doing for justice? – Six Pillars 2010 State House Tours Blog posts Donate Tear down some more walls – Graduation 2008 Giving a diploma to my daughter Alicia, a member of the class of 2008.
 Fellow school committee members, Mr.
 Ogden, Ms.
-Gould, members of the faculty, graduates, parents, and honored guests:
-It gives me great pleasure to be here as a School Committee member.
+Gould, members of the faculty, graduates, parents, and honored guests: It gives me great pleasure to be here as a School Committee member.
 Today, I have the added treat of being here also as a parent of a graduate.
 On behalf of the School Committee, I first want to thank you all for your continued commitment to, faith in, and support for, the public school system in this town.
 On behalf of the parents, grandparents and friends in the room, I want to tell you graduates how proud we are to be here.
@@ -31,8 +32,7 @@ You will face walls every day, but you have the historical context for tearing t
 There are walls between young and old, black & white, rich & poor, right and left, east & west, north & south.
 But like the Berlin Wall, those too can crumble.
 The vision that brought the Berlin Wall down started with a concept of unification.
-As one grafitti artist wrote on it: “This wall is only a manifestation of what our societies have built… Will we ever tear down all our walls?”
-Don’t get me wrong.
+As one grafitti artist wrote on it: “This wall is only a manifestation of what our societies have built… Will we ever tear down all our walls?” Don’t get me wrong.
 There are some good walls.
 Indeed, if it rains today, we will all be greatful for the walls that support this roof that keeps us dry.
 But it’s a paradox in human nature.
@@ -52,3 +52,11 @@ It wasn’t on MCAS, but it’s far more important.
 Class of 2008, will you take your tools and tear down some more walls?
 Again, class of 2008, will you take your tools and tear down some more walls?
 Good luck class of 2008 and keep in touch.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Like Loading...
+Leave a comment Cancel reply Δ Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
+Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?
+Log in now. jeffreyroy.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

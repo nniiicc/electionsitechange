@@ -1,39 +1,24 @@
-Proclamation & Letter Requests
-Honoring the individuals, organizations, and milestones that make District 91 and Tennessee shine.
+Chip in $20 today to support Rep.
+Torrey C.
+Harris’ re-election campaign → About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Early Voting Locations Sample Ballot Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Community Resources Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Early Voting Locations Sample Ballot Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Community Resources Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate ← Stay Informed Office of Rep.
+Torrey C.
+Harris Proclamation & Letter Requests Honoring the individuals, organizations, and milestones that make District 91 and Tennessee shine.
 Representative Harris is proud to recognize the people, organizations, and events that embody the spirit and progress of our community.
 Let's celebrate what makes District 91 bold, brilliant, and one-of-a-kind.
 The guidelines below outline the criteria for requesting a proclamation or a letter from our office.
-Proclamations
-Purpose: Ceremonial documents that recognize special events, initiatives, individuals, or milestones — or a great act of service that positively impacts our community.
-Examples Include
-- Awareness campaigns or heritage months
-- Milestone anniversaries (business, non-profit, civic)
-- Community events or charitable efforts
-Criteria
-- Must reflect positive civic, cultural, educational, or charitable contributions
-- Must not be for personal, commercial, or political promotion
-- Requests must be submitted at least 2 weeks in advance
-Letters of Merit or Awards
-Purpose: Awarded to individuals, groups, or institutions that have made significant contributions to our community — in education, public service, the arts, athletics, innovation, or humanitarian efforts.
-Examples Include
-- Outstanding educators or students
-- Public servants going above and beyond
-- Local heroes or volunteers
-Criteria
-- Must demonstrate exceptional service, achievement, or impact
-- May be issued posthumously or as part of a ceremony
-- Nominations from officials or community organizations welcome
-Letters of Recognition
-Purpose: Awarded to individuals, groups, or institutions celebrating milestone events, anniversaries, or convenings in District 91.
-Examples Include
-- Conferences & convenings
-- Wedding anniversaries
-- School events
-Criteria
-- Anniversary or event must be celebrated in the district or state
-- The event or anniversary must align with our community's values
-General Guidelines for All Requests
-- All requests must include supporting details describing the achievement, event, or impact.
-- The office reserves the right to deny or modify any request that does not meet the spirit of these honors.
-- These recognitions are non-commercial and non-partisan in nature.
-- Please allow at least two weeks for processing.
+Proclamations Purpose: Ceremonial documents that recognize special events, initiatives, individuals, or milestones — or a great act of service that positively impacts our community.
+Examples Include Awareness campaigns or heritage months Milestone anniversaries (business, non-profit, civic) Community events or charitable efforts Criteria Must reflect positive civic, cultural, educational, or charitable contributions Must not be for personal, commercial, or political promotion Requests must be submitted at least 2 weeks in advance Letters of Merit or Awards Purpose: Awarded to individuals, groups, or institutions that have made significant contributions to our community — in education, public service, the arts, athletics, innovation, or humanitarian efforts.
+Examples Include Outstanding educators or students Public servants going above and beyond Local heroes or volunteers Criteria Must demonstrate exceptional service, achievement, or impact May be issued posthumously or as part of a ceremony Nominations from officials or community organizations welcome Letters of Recognition Purpose: Awarded to individuals, groups, or institutions celebrating milestone events, anniversaries, or convenings in District 91.
+Examples Include Conferences & convenings Wedding anniversaries School events Criteria Anniversary or event must be celebrated in the district or state The event or anniversary must align with our community's values General Guidelines for All Requests All requests must include supporting details describing the achievement, event, or impact.
+The office reserves the right to deny or modify any request that does not meet the spirit of these honors.
+These recognitions are non-commercial and non-partisan in nature.
+Please allow at least two weeks for processing.
+Submit a Request Complete the form below and it will be sent directly to our office.
+Fields marked * are required.
+Request Type * Select one… Proclamation Letter of Merit or Award Letter of Recognition Date Needed By * Your First Name * Your Last Name * Email * Phone * Organization (if applicable) Who or what is being honored? * Event / Presentation Date Event Location Details & Supporting Information * How should the honoree's name appear? * Submit Request Prefer to email us directly?
+Write to rep.torrey.harris@capitol.tn.gov or call the Nashville office at 615-741-2239 .
+Torrey C.
+Harris Tennessee House · District 91 Let's Keep Tennessee Moving.
+Explore Why I'm Running About Torrey Endorsements Issues The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Gallery 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Take Action Vote 2026 Volunteer Request Help Donate Offices Nashville: 615-741-2239 Memphis: 901-232-9498 rep.torrey.harris@capitol.tn.gov All contact info → Donate Please Mail Check Contributions to: Committee to Elect Torrey Harris 1387 Central Avenue # 906 Memphis, Tennessee 38104 EIN #: 82-3293908 PAID FOR BY COMMITTEE TO ELECT TORREY HARRIS. © # Committee to Elect Torrey Harris.
+All rights reserved.
+Privacy Policy · SMS Opt-In Form . · Español

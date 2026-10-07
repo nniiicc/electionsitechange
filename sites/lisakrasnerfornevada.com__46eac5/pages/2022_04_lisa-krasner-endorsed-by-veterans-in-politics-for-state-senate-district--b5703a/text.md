@@ -1,2 +1,2 @@
-I am proud to be ENDORSED by Veterans In Politics, International.
-“Dear Lisa Krasner, The Board of Directors of Veterans In Politics voted to endorse you in the 2022 Election for State Senate District 16.”
+Home Donate Meet Lisa Issues Contact Lisa BLOG Lisa Krasner for Nevada NV State Senator Lisa Krasner Home Donate Meet Lisa Issues Contact Lisa BLOG Lisa Krasner Endorsed by Veterans In Politics for State Senate District 16 Saturday, April 30 th, 2022 I am proud to be ENDORSED by Veterans In Politics, International.
+“Dear Lisa Krasner, The Board of Directors of Veterans In Politics voted to endorse you in the 2022 Election for State Senate District 16.” Endorsed by Veterans In Politics International PAID FOR BY LISA KRASNER FOR NEVADA

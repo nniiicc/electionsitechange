@@ -1,9 +1,82 @@
 [
-"https://facebook.com/fairlyfortexas",
-"https://fairlyfortexas.com/",
-"https://fairlyfortexas.com/newpage",
-"https://instagram.com/fairlyfortexas",
-"https://secure.anedot.com/caroline-fairly-for-texas/donate",
-"https://twitter.com/FairlyForTexas",
-"https://youtube.com/@CarolineFairlyforTexas"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/caroline-fairly-for-texas/donate"
+},
+{
+"text": "$1000",
+"href": "https://secure.anedot.com/caroline-fairly-for-texas/donate"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/caroline-fairly-for-texas/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/caroline-fairly-for-texas/donate"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/caroline-fairly-for-texas/donate"
+},
+{
+"text": "About",
+"href": "https://www.fairlyfortexas.com/#About"
+},
+{
+"text": "DONATE →",
+"href": "https://secure.anedot.com/caroline-fairly-for-texas/donate"
+},
+{
+"text": "Home",
+"href": "https://www.fairlyfortexas.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.fairlyfortexas.com/#Issues"
+},
+{
+"text": "Learn More →",
+"href": "https://www.fairlyfortexas.com/#About"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/caroline-fairly-for-texas/donate"
+},
+{
+"text": "Privacy Policy & Terms of Use.",
+"href": "https://www.fairlyfortexas.com/newpage"
+},
+{
+"text": "Request a Yard Sign →",
+"href": "https://www.fairlyfortexas.com/#Volunteer"
+},
+{
+"text": "Use my name →",
+"href": "https://www.fairlyfortexas.com/#Volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fairlyfortexas.com/#Volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.fairlyfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/FairlyForTexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/fairlyfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/fairlyfortexas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@CarolineFairlyforTexas"
+}
 ]

@@ -1,10 +1,4 @@
-Back to All Events
-Fort Wayne Pride is the largest area celebration of the LGBTQ community and includes live entertainment, a vendor market, nonprofit resource fair, food, a beer tent, trivia, KidSpace and Pride March.
+0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Back to All Events Ft Wayne Pride Saturday, July 25, 2026 2:00 PM 6:00 PM Headwaters Park 333 South Clinton Street Fort Wayne, Indiana, 46802 United States (map) Google Calendar ICS Fort Wayne Pride is the largest area celebration of the LGBTQ community and includes live entertainment, a vendor market, nonprofit resource fair, food, a beer tent, trivia, KidSpace and Pride March.
 All supporters are welcome to join us for one of the best parties of the year!
-Previous
-Previous
-July 18
-Wayne County Candidates Day
-Next
-Next
-August 1
+Previous Previous July 18 Wayne County Candidates Day Next Next August 1 Wingate Sweet Corn Festival Media & Press Inquiry Sign up for our newsletter Stay Connected!
+Paid for by Lauri for Liberty.

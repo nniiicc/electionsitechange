@@ -1,7 +1,5 @@
-Meet Don
-My name is Donald J.
-Mottern,
-I have proudly called this state my home for nearly my entire life.
+Home About Issues News Volunteer Contact Donate Home About Issues News Volunteer Contact Donate Meet Don My name is Donald J.
+Mottern, I have proudly called this state my home for nearly my entire life.
 I was born in Mobile and raised in the suburbs of Birmingham.
 I spent my summers digging holes, for fun, right next to Fort Morgan in Gulf Shores.
 I graduated from high school in Alabaster and I left the University of Alabama in Tuscaloosa with a bachelors degree in public relations and two minors in political science and history.
@@ -27,4 +25,5 @@ Not more division, but a return to dignity, responsibility, and a local guidance
 It’s going to be an uphill fight, but it's a fight that I intend to win in 2026, with your help.
 "I have never been a partisan of party politics.
 I have always been a partisan of principles.
-Principles that unite all of us."
+Principles that unite all of us." Paid for by Mottern For Alabama Home Issues Meet Volunteer Privacy Policy Home Issues Meet Volunteer Privacy Policy Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Save Changes

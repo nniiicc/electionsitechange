@@ -1,24 +1,10 @@
-Equality Florida Action PAC
-FL AFL-CIO
-IBEW Local 915
-Engage Y’all
-VoteVets
-Florida Rising
-Hillsborough County LGBTQ+ Caucus
-Florida Nurses Association
-Florida Education Association
-Democratic Women’s Club of Florida
-Florida High School Democrats
-SEIU
-Congresswoman Kathy Castor
-State Senator Elect Fentrice Driskell
-Hillsborough County Democratic Black Caucus
-Democratic Veterans Caucus of Florida
-Join the campaign
-Get voting reminders and updates straight from Brian.
-- A reminder before every voting deadline, so you don’t miss one
-- Where Brian stands, in his own words — not a press release
-- Ways to help near you, whenever you have time
-Chip in to keep up the fight
-This campaign is powered by people — not special interests.
+Skip to main content Menu Home About Brian Endorsements Get Involved Media Vote Working Families Agenda Donate Polls close November 3 -- Days : -- Hours : -- Minutes : -- Seconds Make your plan → Endorsements The labor, community, and elected leaders standing with Brian.
+AFSCME Florida AFSCME Florida Equality Florida Action PAC Equality Florida Action PAC FL AFL-CIO FL AFL-CIO IBEW Local 915 IBEW Local 915 Engage Y’all Engage Y’all VoteVets VoteVets Florida Rising Florida Rising Hillsborough County LGBTQ+ Caucus Hillsborough County LGBTQ+ Caucus Florida Nurses Association Florida Nurses Association Florida Education Association Florida Education Association Democratic Women’s Club of Florida Democratic Women’s Club of Florida Florida High School Democrats Florida High School Democrats SEIU SEIU Congresswoman Kathy Castor Congresswoman Kathy Castor State Senator Elect Fentrice Driskell State Senator Elect Fentrice Driskell Hillsborough County Democratic Black Caucus Hillsborough County Democratic Black Caucus Democratic Veterans Caucus of Florida Democratic Veterans Caucus of Florida Join the campaign Get voting reminders and updates straight from Brian.
+A reminder before every voting deadline, so you don’t miss one Where Brian stands, in his own words — not a press release Ways to help near you, whenever you have time Email ZIP code Count Me In We’ll only email about the campaign, and you can unsubscribe any time.
+Message and data rates may apply.
+Chip in to keep up the fight This campaign is powered by people — not special interests.
 Every dollar goes toward reaching working families and seniors across Hillsborough County.
+Donate Now Brian Nathan Victory Fund 7028 W Waters Ave, Box 369 Tampa, FL 33634 Explore About Brian Endorsements Get Involved Media Vote Working Families Agenda Donate Contact For press inquiries and interview requests, please contact info@brianforsenate.us Donate Disclaimer: Political advertisement paid for and approved by Brian Nathan, Democrat, for State Senate District 14.
+Brian Nathan is a United States Navy Veteran.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the United States Navy or the Department of Defense. © # Brian Nathan Victory Fund.
+All rights reserved.

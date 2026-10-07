@@ -1,21 +1,3 @@
-On The Issues
-- Pro Gun
-- Property & Water Rights
-- Pro Agriculture
-- Limited Government/Taxes
-- Pro Business
-- Pro Life
-- Pro Constitution
-- Pro Family
-- Dual Federalism
-- State Sovereignty
-- Local Control
-- Quality Education
-- School Choice
-- Health Freedom
-- Federal Education/Common Core
-- Obamacare/Ottercare
-- Illegal Immigration
-- Federal Infringement on States Rights
-- Government Overreach
-- Burdensome Regulations
+Home About Issues & Record Issues My Record Voter Information Media Photos Newsletters Endorsements & Awards Contact Contact DONATE Follow Follow Follow On The Issues Z Pro Gun Property & Water Rights Pro Agriculture Limited Government/Taxes Pro Business Pro Life Pro Constitution Pro Family Dual Federalism State Sovereignty Local Control Quality Education School Choice Health Freedom  Federal Education/Common Core Obamacare/Ottercare Illegal Immigration Federal Infringement on States Rights Government Overreach Burdensome Regulations Social Media Comment Policy Copyright © # Tammy Nichols, All Rights Reserved.
+10 S.
+Hawthorne Drive, Suite 651, Middleton , ID 83644 – (208) 917-2409 Paid for by Nichols for Idaho | Susan Wonnacott, Treasurer

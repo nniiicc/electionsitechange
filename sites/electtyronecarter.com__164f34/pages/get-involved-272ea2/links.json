@@ -1,12 +1,50 @@
 [
-"https://2020census.gov/?cid=24481%3Acensus+2020%3Asem.ga%3Ap%3Adm%3Aen%3A",
-"https://electtyronecarter.com/",
-"https://electtyronecarter.com/get-involved",
-"https://electtyronecarter.com/meet-tyrone",
-"https://electtyronecarter.com/platform",
-"https://facebook.com/carter4Detroit",
-"https://michigan.gov/sos/0,4670,7-127-1633_8716_8726_47669---,00.html",
-"https://secure.actblue.com/donate/carterapril26",
-"https://twitter.com/calltyrone6?lang=en",
-"https://youtube.com/results?search_query=rep.+tyrone+carter"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/carterapril26"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.electtyronecarter.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.electtyronecarter.com"
+},
+{
+"text": "LEGISLATIVE PRIORITIES",
+"href": "https://www.electtyronecarter.com/platform"
+},
+{
+"text": "MEET TYRONE",
+"href": "https://www.electtyronecarter.com/meet-tyrone"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8726_47669---,00.html"
+},
+{
+"text": "Stay Connected.",
+"href": "https://2020census.gov/?cid=24481%3Acensus+2020%3Asem.ga%3Ap%3Adm%3Aen%3A"
+},
+{
+"text": "Tyrone Carter",
+"href": "https://www.electtyronecarter.com"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/carter4Detroit/"
+},
+{
+"text": "[image: Twitter Social Icon]",
+"href": "https://twitter.com/calltyrone6?lang=en"
+},
+{
+"text": "[image: YouTube Social Icon]",
+"href": "https://www.youtube.com/results?search_query=rep.+tyrone+carter"
+},
+{
+"text": "for Detroit City Council",
+"href": "https://www.electtyronecarter.com"
+}
 ]

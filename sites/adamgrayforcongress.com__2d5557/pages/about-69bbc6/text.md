@@ -1,7 +1,5 @@
-Skip navigation menu
-"Putting the Valley first is not an empty promise.
-It’s something I am working to prove everyday."
-Born and raised in Merced, Adam Gray grew up working in his family’s dairy supply and feed store, where he learned firsthand the values of hard work, integrity, and looking out for your neighbors.
+Skip navigation menu About News Take Action Issues Contact Media Donate About Adam Gray About News Take Action Issues Contact Media Donate About Adam Gray "Putting the Valley first is not an empty promise.
+It’s something I am working to prove everyday." Born and raised in Merced, Adam Gray grew up working in his family’s dairy supply and feed store, where he learned firsthand the values of hard work, integrity, and looking out for your neighbors.
 His family has lived and worked in the Central Valley for generations, and Adam attended local schools before building a career dedicated to serving the region he calls home.
 Today, Adam represents California’s 13th Congressional District in the United States House of Representatives, where he is focused on lowering costs for Valley families, strengthening the region’s water supply, supporting agriculture, and expanding access to healthcare.
 Adam serves on the House Agriculture Committee and the House Natural Resources Committee, two key assignments that allow him to advocate directly for Valley farmers, water resources, and rural communities.
@@ -20,4 +18,4 @@ Before serving in Congress, Adam represented Merced and Stanislaus Counties in t
 Adam helped secure more than $200 million to establish a joint medical school in Merced to train doctors in the Valley and address the region’s longstanding shortage of healthcare providers.
 He also secured billions in investments to strengthen the Valley’s water supply, including funding for new water storage, repairs to aging canals, and improvements to groundwater basins.
 Adam led the fight against the State Water Grab and organized the largest water rights rally in State Capitol history to defend the Valley’s water.
-Adam lives in Merced, where he helps lead a small business and teaches a course on the California Legislature at UC Merced.
+Adam lives in Merced, where he helps lead a small business and teaches a course on the California Legislature at UC Merced. info@AdamGrayforCongress.com If donating by mail, make checks payable to: Adam Gray for Congress | PO Box 1229 Merced, CA 95341 Privacy Policy Press Inquires: press@adamGrayforCongress.com Paid for by Adam Gray for Congress You need to enable JavaScript to run this app.

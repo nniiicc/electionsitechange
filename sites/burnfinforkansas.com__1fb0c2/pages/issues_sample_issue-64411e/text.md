@@ -1,5 +1,4 @@
-Strong Public Schools
-Kansas should expect strong academic outcomes from its schools, and improving student achievement must remain a priority.
+Meet Becca Issues Photos News Volunteer Yard Signs Contribute Strong Public Schools Kansas should expect strong academic outcomes from its schools, and improving student achievement must remain a priority.
 Test scores provide one measure of student learning and can help identify areas where additional support is needed.
 However, we should not define student success solely through standardized testing.
 We should also examine indicators such as graduation rates, industry-recognized credentials, college enrollment and completion, military service, apprenticeships, and workforce readiness.
@@ -10,3 +9,4 @@ We must also recognize the unique challenges facing rural schools.
 Rural districts often face teacher shortages, declining enrollment, transportation challenges, and limited access to specialized programs and services.
 Every student deserves access to a high-quality education regardless of where they live.
 That means investing in rural schools, supporting educators, expanding educational opportunities, and ensuring rural communities have the resources necessary to prepare students for success after graduation.
+Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com - Political Websites Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu

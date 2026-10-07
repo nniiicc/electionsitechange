@@ -1,52 +1,31 @@
-July 2, 2024
-Ready Report: Independence Day, Fighting Sanctuary Policies, Education Advisory Board Opportunity & More…
-This week we will be celebrating Independence Day.
-No matter what our feelings sometimes are about the problems and direction in America that we see that need to be changed, the date of the 4th of July and time set apart to be thankful for and celebrate our freedom always fills me with a sense of hope and optimism.
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate July 2, 2024 Ready Report: Independence Day, Fighting Sanctuary Policies, Education Advisory Board Opportunity & More… This week we will be celebrating Independence Day.
+No matter what our feelings sometimes are about the problems and direction in America that we see that need to be changed, the date of the 4 th of July and time set apart to be thankful for and celebrate our freedom always fills me with a sense of hope and optimism.
 We can be concerned about a lot of things in our country but still be confident of a bright future.
 My family and I are thankful to all who have given their lives in service to our country throughout the 248 years of our existence – and to the military members, first responders and so many others who put their lives on the line for us and our nation.
 God bless America!
 I hope you and your family have a great Independence Day and weekend.
-Republican Caucus calls for Moore to Roll Back Sanctuary Policies
-Following the capture, extradition, and charging of an undocumented immigrant with the rape and murder of Harford County resident Rachel Morin, the members of the Joint House and Senate Republican Caucuses today called on Governor Moore to roll back the public policies that have made Maryland a sanctuary state and give law enforcement clear guidance for how to cooperate with ICE to deport illegal immigrants who commit additional crimes.
+Republican Caucus calls for Moore to Roll Back Sanctuary Policies Following the capture, extradition, and charging of an undocumented immigrant with the rape and murder of Harford County resident Rachel Morin, the members of the Joint House and Senate Republican Caucuses today called on Governor Moore to roll back the public policies that have made Maryland a sanctuary state and give law enforcement clear guidance for how to cooperate with ICE to deport illegal immigrants who commit additional crimes.
 You can read the full letter to Governor Moore by clicking here.
-Traffic Alert – July 4th Fireworks at Carroll County Farm Museum
-The Carroll County Farm Museum will host the July 4th Celebration and fireworks on Tuesday, July 4th with a rain date of Wednesday, July 5th.
-To facilitate a safe and orderly traffic flow from the event the following roadways will be closed to all traffic at 8:30 pm and will remain closed until all the traffic has cleared at the conclusion of the fireworks:
-- Center Street – From MD 140 to MD 32
-- Gist Road – From MD 32 to Kate Wagner Road
-- Kate Wagner Road – From MD 32 to MD 27
-- Hook Road – From MD 32 to the High School Entrance
-- Smith Avenue – From MD 32 to Gist Road
-All traffic exiting the Farm Museum grounds will utilize Center Street from the Farm Museum to Maryland 140.
+Traffic Alert – July 4 th Fireworks at Carroll County Farm Museum The Carroll County Farm Museum will host the July 4 th Celebration and fireworks on Tuesday, July 4 th with a rain date of Wednesday, July 5 th .
+To facilitate a safe and orderly traffic flow from the event the following roadways will be closed to all traffic at 8:30 pm and will remain closed until all the traffic has cleared at the conclusion of the fireworks: Center Street – From MD 140 to MD 32 Gist Road – From MD 32 to Kate Wagner Road Kate Wagner Road – From MD 32 to MD 27 Hook Road – From MD 32 to the High School Entrance Smith Avenue – From MD 32 to Gist Road All traffic exiting the Farm Museum grounds will utilize Center Street from the Farm Museum to Maryland 140.
 All traffic exiting the Agricultural Center will utilize Gist Road to Kate Wagner Road to MD 27 or MD 32/MD 97.
 Access to the Carroll Hospital Emergency Room shall be made from the intersection of Gist Road and Maryland 32.
 Law Enforcement will be at this intersection to assist persons needing access to the emergency room.
-AIB Seeking Applications for Advisory Committees to Support Implementation of the Blueprint for Maryland’s Future
-The Accountability and Implementation Board (AIB) is seeking applications from the public for a role on its advisory committees to provide input on implementation of the Blueprint for Maryland’s Future, a once-in-a-generation opportunity to provide a world class education to Maryland students regardless of their zip code, race, gender, or learning ability.
+AIB Seeking Applications for Advisory Committees to Support Implementation of the Blueprint for Maryland’s Future The Accountability and Implementation Board (AIB) is seeking applications from the public for a role on its advisory committees to provide input on implementation of the Blueprint for Maryland’s Future, a once-in-a-generation opportunity to provide a world class education to Maryland students regardless of their zip code, race, gender, or learning ability.
 A fifth advisory committee is launching this year to support Pillar 5 – Governance and Accountability.
 The topics within Pillar 5 serve to monitor the effective implementation of the Blueprint in terms of accountability, governance, and oversight.
 Overall, this advisory committee would maintain the comprehensive view of broadscale Blueprint implementation.
 Ideal candidates for this advisory committee would bring strong education background knowledge including Maryland specific experience, deep understanding of the Blueprint’s goals, intentions, and implementation efforts, and a diverse array of specific skill sets (K-12 accountability, research, data, finance, school improvement, systems level change, county government, etc.).
 Interested applicants are encouraged to apply, and can find more information by clicking here.
-ICYMI: New Electrical Transmission Line in Northern Carroll County – Informational Meeting July 11th
-The Public Service Enterprise Group (PSEG), an independent organization that is authorized by the Federal Government – (the Federal Energy Regulatory Commission) – to plan regional electric transmission grids, has announced the Maryland Piedmont Reliability Project, which plans to build a 70-mile transmission route which would run through northern Baltimore County, Northern Carroll County and over into Frederick County.
+ICYMI: New Electrical Transmission Line in Northern Carroll County – Informational Meeting July 11 th The Public Service Enterprise Group (PSEG), an independent organization that is authorized by the Federal Government – (the Federal Energy Regulatory Commission) – to plan regional electric transmission grids, has announced the Maryland Piedmont Reliability Project, which plans to build a 70-mile transmission route which would run through northern Baltimore County, Northern Carroll County and over into Frederick County.
 This electric transmission line will not be the large, wide power lines you often see going up the sides of mountains or off of I-95 – the technology has changed signifcantly to be thinner, more blended in color and not need as many poles – but it will still be something that has some level of disruption.
 Make no mistake – This is happening because the Maryland General Assembly over a number of years has passed policies that make energy and electric generation inside the state much more difficult, from closing power plants over coal to limiting natural gas.
 Maryland citizens have also been saddled with irresponsible energy goals.
 Our state does not have the energy generation here in the state needed to meet our demands – much less future electrification requirements. now must meet energy needs that are dramatically increasing each year.
 That’s why there have to be more electric lines run from out of state.
-There is an upcoming Carroll County informational meeting in Westminster for all who are interested:
-July 11, 2024 –Westminster Senior & Community Center
-125 Stoner Avenue Westminster, Maryland 21157
-Session 1: 2 p.m. – 4 p.m.
+There is an upcoming Carroll County informational meeting in Westminster for all who are interested : July 11, 2024 – Westminster Senior & Community Center 125 Stoner Avenue Westminster, Maryland 21157 Session 1: 2 p.m. – 4 p.m.
 Session 2: 6 p.m. – 8 p.m.
-Support Local Volunteer Fire Department Carnivals
-Over the summer, several local volunteer fire departments host excellent carnivals throughout Carroll County.
+Support Local Volunteer Fire Department Carnivals Over the summer, several local volunteer fire departments host excellent carnivals throughout Carroll County.
 This is a great opportunity to show support for the men and women who will run into a burning building to save people they do not even know.
-Below are a list of all the summer carnivals coming to Carroll County:
-7/01 – 7/06 Manchester Fire Company
-7/08 – 7/13 Winfield Community Fire Company
-7/29 – 8/03 Mount Airy Fire Company
-8/05 – 8/10 Hampstead Fire Company
-Have a great week ahead!
-Return To News >
+Below are a list of all the summer carnivals coming to Carroll County: 7/01 – 7/06 Manchester Fire Company 7/08 – 7/13 Winfield Community Fire Company 7/29 – 8/03 Mount Airy Fire Company 8/05 – 8/10 Hampstead Fire Company Have a great week ahead!
+Return To News > Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer

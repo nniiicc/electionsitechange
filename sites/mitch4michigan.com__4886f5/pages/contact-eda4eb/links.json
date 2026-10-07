@@ -1,15 +1,58 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/mitchformichigan",
-"https://https://substack.com/@mitchellryandistinphd",
-"https://instagram.com/mitch4michigan",
-"https://mitch4michigan.com/",
-"https://mitch4michigan.com/about",
-"https://mitch4michigan.com/distin-v-roth",
-"https://mitch4michigan.com/donate",
-"https://mitch4michigan.com/events",
-"https://mitch4michigan.com/issues",
-"https://mitch4michigan.com/news",
-"https://mitch4michigan.com/volunteer",
-"https://youtube.com/channel/UCxHtGa6DaC9ZYaRhGDHIrYg"
+{
+"text": "Distin V. Roth",
+"href": "https://www.mitch4michigan.com/distin-v-roth"
+},
+{
+"text": "Donate",
+"href": "https://www.mitch4michigan.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.mitch4michigan.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.mitch4michigan.com/"
+},
+{
+"text": "Meet Mitch",
+"href": "https://www.mitch4michigan.com/about"
+},
+{
+"text": "Policy",
+"href": "https://www.mitch4michigan.com/issues"
+},
+{
+"text": "Press",
+"href": "https://www.mitch4michigan.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mitch4michigan.com/volunteer"
+},
+{
+"text": "[image: Mitch for Michigan]",
+"href": "https://www.mitch4michigan.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/mitchformichigan/"
+},
+{
+"text": "[no text]",
+"href": "https://https://substack.com/@mitchellryandistinphd"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/mitch4michigan/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCxHtGa6DaC9ZYaRhGDHIrYg"
+}
 ]

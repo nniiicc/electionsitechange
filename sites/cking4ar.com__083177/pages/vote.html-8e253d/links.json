@@ -1,60 +1,298 @@
 [
-"http://sos.arkansas.gov/elections/for-voters",
-"https://866ourvote.org/state/arkansas",
-"https://acluarkansas.org/",
-"https://advance.lexis.com/container?config=00JAA3ZTU0NTIzYy0zZDEyLTRhYmQtYmRmMS1iMWIxNDgxYWMxZTQKAFBvZENhdGFsb2cubRW4ifTiwi5vLw6cI1uX&crid=b5d9ed3f-2c36-48fd-8ed9-20df4d578b01&prid=e5f9004f-aa60-4ce5-abf6-71b17affb561",
-"https://ar.accessgov.com/election-commissioners/Forms/Page/election-commissioners/sbec",
-"https://arkaction.net/resources",
-"https://arkansashouse.org/",
-"https://arkansashouse.org/storage/8054/92nd%20General%20Assembly_There%20oughta%20be%20a%20law_sized.pdf",
-"https://arkansasredistricting.org/maps-2",
-"https://arkdems.org/",
-"https://arkleg.state.ar.us/",
-"https://arkleg.state.ar.us/Bills",
-"https://arkleg.state.ar.us/Bills/TrackingLogin",
-"https://arkleg.state.ar.us/Bureau",
-"https://arkleg.state.ar.us/Committees",
-"https://arkleg.state.ar.us/Committees/BillsHouse",
-"https://arkleg.state.ar.us/Committees/BillsSenate",
-"https://cking4ar.com/",
-"https://cking4ar.com/about.html",
-"https://cking4ar.com/calendar.html",
-"https://cking4ar.com/contact.html",
-"https://cking4ar.com/dist-25.html",
-"https://cking4ar.com/donate.html",
-"https://cking4ar.com/endorsements.html",
-"https://cking4ar.com/press-release-11325.html",
-"https://cking4ar.com/volunteer.html",
-"https://cking4ar.com/vote.html",
-"https://courtneyking.store/",
-"https://docs.google.com/forms/d/e/1FAIpQLSczQdzKSvbFyjbOpn69L1qJtK5Tr6y1cNrbLj6QH9c7C7iQlg/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSddwb7da-YsUXVTJsOCb2xiQ9yp83XG5eIPT6EPbgz0dS0nUg/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSf6kcgyVZcXGGsZR9lFyLtFEy-Bc0wyBWu5Gqr1qJdZiPbKQg/viewform?usp=publish-editor",
-"https://forarpeople.org/",
-"https://getloudarkansas.org/",
-"https://goodchange.app/donate/cking-ca",
-"https://myarkansaspbs.org/arcan",
-"https://nationalvotereducationweek.org/",
-"https://ourlittlerock.org/",
-"https://secure.actblue.com/donate/cking4arhouse",
-"https://senate.arkansas.gov/",
-"https://senate.arkansas.gov/todays-live-stream-meetings",
-"https://sos.arkansas.gov/elections",
-"https://sos.arkansas.gov/elections/elected-officials",
-"https://sos.arkansas.gov/elections/voter-information/absentee-voting",
-"https://sos.arkansas.gov/elections/voter-information/voter-registration-information",
-"https://sos.arkansas.gov/elections/voter-information/voter-registration-information/request-for-a-voter-registration-application",
-"https://sos.arkansas.gov/elections/voter-information/voter-registration-information/voting-in-arkansas",
-"https://sos.arkansas.gov/uploads/elections/2021Congressional_Custom_36x40.pdf",
-"https://sos.arkansas.gov/uploads/elections/ARCountyClerks.pdf",
-"https://sos.arkansas.gov/uploads/elections/ArkansasVoterRegistrationApplication.pdf",
-"https://sos.arkansas.gov/uploads/elections/Voter_Reg_App._8-2023_.pdf",
-"https://sos.arkansas.gov/uploads/elections/voter_drive_9-2025.pdf",
-"https://sos.arkansas.gov/uploads/elections/voter_reg_ap_ar_spanish.pdf",
-"https://vote.org/register-to-vote/arkansas",
-"https://voteearlyday.org/",
-"https://votefromabroad.org/",
-"https://voterizer.org/voter-info.html?state=Arkansas&stateId=7620b062-78d7-407a-b74b-e021d965cd69",
-"https://voterview.ar-nova.org/VoterView",
-"https://voterview.ar-nova.org/voterview"
+{
+"text": "ACLU Arkansas",
+"href": "https://www.acluarkansas.org/"
+},
+{
+"text": "AR Voter Registration",
+"href": "https://www.sos.arkansas.gov/uploads/elections/Voter_Reg_App._8-2023_.pdf"
+},
+{
+"text": "AR Voter Registration (en)",
+"href": "https://www.sos.arkansas.gov/uploads/elections/Voter_Reg_App._8-2023_.pdf"
+},
+{
+"text": "AR Voter Registration Request",
+"href": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/request-for-a-voter-registration-application"
+},
+{
+"text": "About",
+"href": "https://www.cking4ar.com/about.html"
+},
+{
+"text": "Absentee ballot tracker tool",
+"href": "https://www.voterview.ar-nova.org/voterview"
+},
+{
+"text": "ActBlue",
+"href": "https://secure.actblue.com/donate/cking4arhouse"
+},
+{
+"text": "Arkansas House of Representatives",
+"href": "https://www.arkansashouse.org/"
+},
+{
+"text": "Arkansas Senate",
+"href": "https://senate.arkansas.gov/"
+},
+{
+"text": "Arkansas Voter Registration Deadlines",
+"href": "https://www.sos.arkansas.gov/elections"
+},
+{
+"text": "Arkansas Voter Registration Rules",
+"href": "https://www.sos.arkansas.gov/elections"
+},
+{
+"text": "Become a poll worker (Statewide)",
+"href": "https://ar.accessgov.com/election-commissioners/Forms/Page/election-commissioners/sbec/"
+},
+{
+"text": "Bill Tracking",
+"href": "https://www.arkleg.state.ar.us/Bills"
+},
+{
+"text": "Bills in House Committees",
+"href": "https://www.arkleg.state.ar.us/Committees/BillsHouse"
+},
+{
+"text": "Bills in Joint Committees",
+"href": "https://www.arkleg.state.ar.us/Committees/BillsSenate"
+},
+{
+"text": "Bills in Senate Committees",
+"href": "https://www.arkleg.state.ar.us/Committees/BillsSenate"
+},
+{
+"text": "Bureau of Legislative Research",
+"href": "https://www.arkleg.state.ar.us/Bureau"
+},
+{
+"text": "Calendar",
+"href": "https://www.cking4ar.com/calendar.html"
+},
+{
+"text": "Click here",
+"href": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/request-for-a-voter-registration-application"
+},
+{
+"text": "Congressional District Maps",
+"href": "https://www.sos.arkansas.gov/uploads/elections/2021Congressional_Custom_36x40.pdf"
+},
+{
+"text": "Contact",
+"href": "https://www.cking4ar.com/contact.html"
+},
+{
+"text": "Democratic Party of Arkansas",
+"href": "https://www.arkdems.org/"
+},
+{
+"text": "Dist 25",
+"href": "https://www.cking4ar.com/dist-25.html"
+},
+{
+"text": "Donate",
+"href": "https://goodchange.app/donate/cking-ca"
+},
+{
+"text": "Donate",
+"href": "https://www.cking4ar.com/donate.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cking4ar.com/endorsements.html"
+},
+{
+"text": "Find your polling place",
+"href": "https://www.voterview.ar-nova.org/voterview"
+},
+{
+"text": "For AR People",
+"href": "https://forarpeople.org/"
+},
+{
+"text": "Get Loud Arkansas",
+"href": "https://getloudarkansas.org/"
+},
+{
+"text": "Get a Voter Registration Form in the Mail",
+"href": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/request-for-a-voter-registration-application"
+},
+{
+"text": "GoodChange",
+"href": "https://goodchange.app/donate/cking-ca"
+},
+{
+"text": "Guest Speaker @ Our Meetings",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSczQdzKSvbFyjbOpn69L1qJtK5Tr6y1cNrbLj6QH9c7C7iQlg/viewform?usp=header"
+},
+{
+"text": "Handbook of the Arkansas House of Representatives",
+"href": "https://www.arkansashouse.org/storage/8054/92nd%20General%20Assembly_There%20oughta%20be%20a%20law_sized.pdf"
+},
+{
+"text": "Have you moved?",
+"href": "https://866ourvote.org/state/arkansas/"
+},
+{
+"text": "Home",
+"href": "https://www.cking4ar.com/"
+},
+{
+"text": "How to Vote?",
+"href": "https://www.voterizer.org/voter-info.html?state=Arkansas&stateId=7620b062-78d7-407a-b74b-e021d965cd69"
+},
+{
+"text": "Learn more about absentee voting",
+"href": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting"
+},
+{
+"text": "Learn more about early voting",
+"href": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/voting-in-arkansas"
+},
+{
+"text": "Learn more about voter ID",
+"href": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information"
+},
+{
+"text": "Legislative Committees",
+"href": "https://www.arkleg.state.ar.us/Committees"
+},
+{
+"text": "Local Election Office",
+"href": "https://www.sos.arkansas.gov/uploads/elections/ARCountyClerks.pdf"
+},
+{
+"text": "Maps by House District",
+"href": "https://arkansasredistricting.org/maps-2/"
+},
+{
+"text": "Maps by Senate District",
+"href": "https://arkansasredistricting.org/maps-2/"
+},
+{
+"text": "Meeting Schedule",
+"href": "https://www.arkleg.state.ar.us/"
+},
+{
+"text": "Merch/Signs",
+"href": "https://courtneyking.store/"
+},
+{
+"text": "My Elected Officials",
+"href": "https://www.sos.arkansas.gov/elections/elected-officials/"
+},
+{
+"text": "National Vote Early Day",
+"href": "https://voteearlyday.org/"
+},
+{
+"text": "National Voter Education Week",
+"href": "https://nationalvotereducationweek.org/"
+},
+{
+"text": "Our Little Rock",
+"href": "https://ourlittlerock.org/"
+},
+{
+"text": "Personalized Bill Tracking",
+"href": "https://www.arkleg.state.ar.us/Bills/TrackingLogin"
+},
+{
+"text": "Press Release 11/3/25",
+"href": "https://www.cking4ar.com/press-release-11325.html"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.vote.org/register-to-vote/arkansas/"
+},
+{
+"text": "Request Guest Appearence",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf6kcgyVZcXGGsZR9lFyLtFEy-Bc0wyBWu5Gqr1qJdZiPbKQg/viewform?usp=publish-editor"
+},
+{
+"text": "Resources:",
+"href": "https://www.sos.arkansas.gov/elections"
+},
+{
+"text": "Sample Ballot",
+"href": "https://www.voterview.ar-nova.org/VoterView"
+},
+{
+"text": "Senate Meetings",
+"href": "https://senate.arkansas.gov/todays-live-stream-meetings/"
+},
+{
+"text": "Solicitud de Inscripción de Votante",
+"href": "https://www.sos.arkansas.gov/uploads/elections/voter_reg_ap_ar_spanish.pdf"
+},
+{
+"text": "State Election Code",
+"href": "https://advance.lexis.com/container?config=00JAA3ZTU0NTIzYy0zZDEyLTRhYmQtYmRmMS1iMWIxNDgxYWMxZTQKAFBvZENhdGFsb2cubRW4ifTiwi5vLw6cI1uX&crid=b5d9ed3f-2c36-48fd-8ed9-20df4d578b01&prid=e5f9004f-aa60-4ce5-abf6-71b17affb561"
+},
+{
+"text": "State Election Website",
+"href": "https://www.sos.arkansas.gov/elections"
+},
+{
+"text": "Statewide House District Map",
+"href": "https://arkansasredistricting.org/maps-2/"
+},
+{
+"text": "Statewide Senate District Map",
+"href": "https://arkansasredistricting.org/maps-2/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cking4ar.com/volunteer.html"
+},
+{
+"text": "Vote",
+"href": "https://www.cking4ar.com/vote.html"
+},
+{
+"text": "Voter Registration Abroad",
+"href": "https://www.votefromabroad.org/"
+},
+{
+"text": "Voter Registration Drive",
+"href": "https://www.sos.arkansas.gov/uploads/elections/voter_drive_9-2025.pdf"
+},
+{
+"text": "Voter Registration Form (EN)",
+"href": "https://www.sos.arkansas.gov/uploads/elections/ArkansasVoterRegistrationApplication.pdf"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.arkaction.net/resources#:~:text=League%20of%20Women%20Voters%20of,in%20elections%20across%20the%20state."
+},
+{
+"text": "Voter View",
+"href": "https://www.voterview.ar-nova.org/VoterView"
+},
+{
+"text": "VoterView (Arkansas)",
+"href": "https://www.voterview.ar-nova.org/VoterView"
+},
+{
+"text": "Watch the Legislature Live",
+"href": "https://www.myarkansaspbs.org/arcan"
+},
+{
+"text": "[image: MY SITE]",
+"href": "https://www.cking4ar.com/"
+},
+{
+"text": "[image: Picture]",
+"href": "http://www.sos.arkansas.gov/elections/for-voters"
+},
+{
+"text": "[image: Picture]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSddwb7da-YsUXVTJsOCb2xiQ9yp83XG5eIPT6EPbgz0dS0nUg/viewform"
+},
+{
+"text": "live",
+"href": "https://senate.arkansas.gov/todays-live-stream-meetings/"
+}
 ]

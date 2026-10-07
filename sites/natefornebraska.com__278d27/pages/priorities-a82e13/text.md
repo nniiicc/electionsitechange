@@ -1,5 +1,3 @@
-Together, we can move Nebraska forward by focusing on the issues that affect all of us.
+Skip navigation menu Meet Nate Priorities Volunteer Yard Sign Contact Donate Meet Nate Priorities Volunteer Yard Sign Contact Donate Let's move nebraska forward NATE'S PRIORITIES Together, we can move Nebraska forward by focusing on the issues that affect all of us.
 Here are a few of Nate's priorities in the Legislature.
-Communities We Can Afford
-Getting Money Out of Politics
-Investing in our Next Generation
+Put Nebraskans First Communities We Can Afford Fight Corruption Getting Money Out of Politics A Future for us Investing in our Next Generation nate@natefornebraska.com Powered by RUN! website builder Paid for by Nate Ostdiek for Nebraska Legislature 9380 Western Ave Apt 108 Omaha NE 68114 You need to enable JavaScript to run this app.

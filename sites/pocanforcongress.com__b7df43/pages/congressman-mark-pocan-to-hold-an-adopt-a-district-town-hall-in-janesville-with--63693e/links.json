@@ -1,22 +1,86 @@
 [
-"http://townhallproject.com/",
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fpocanforcongress.com%2Fcongressman-mark-pocan-to-hold-an-adopt-a-district-town-hall-in-janesville-with-candidate-randy-bryce-at-1pm-saturday%2F",
-"https://facebook.com/MarkPocan",
-"https://facebook.com/events/230449777506117",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fpocanforcongress.com%2Fcongressman-mark-pocan-to-hold-an-adopt-a-district-town-hall-in-janesville-with-candidate-randy-bryce-at-1pm-saturday%2F&t=Congressman+Mark+Pocan+to+hold+an+Adopt-a-District+Town+Hall+in+Janesville+with+Candidate+Randy+Bryce+at+1pm+Saturday",
-"https://linkedin.com/shareArticle?mini=true&title=Congressman+Mark+Pocan+to+hold+an+Adopt-a-District+Town+Hall+in+Janesville+with+Candidate+Randy+Bryce+at+1pm+Saturday&url=https%3A%2F%2Fpocanforcongress.com%2Fcongressman-mark-pocan-to-hold-an-adopt-a-district-town-hall-in-janesville-with-candidate-randy-bryce-at-1pm-saturday%2F",
-"https://pinterest.com/pin/create/button?url=https%3A%2F%2Fpocanforcongress.com%2Fcongressman-mark-pocan-to-hold-an-adopt-a-district-town-hall-in-janesville-with-candidate-randy-bryce-at-1pm-saturday%2F&description=Congressman+Mark+Pocan+to+hold+an+Adopt-a-District+Town+Hall+in+Janesville+with+Candidate+Randy+Bryce+at+1pm+Saturday&media=https%3A%2F%2Fpocanforcongress.com%2Fwp-content%2Fuploads%2F2018%2F10%2FSauk-Dems-brunch-1-705x529.jpg",
-"https://pocanforcongress.com/",
-"https://pocanforcongress.com/cdn-cgi/l/email-protection",
-"https://pocanforcongress.com/contact",
-"https://pocanforcongress.com/get-involved",
-"https://pocanforcongress.com/join-the-team",
-"https://pocanforcongress.com/meet-mark",
-"https://pocanforcongress.com/news",
-"https://pocanforcongress.com/privacy-policy",
-"https://pocanforcongress.com/wp-content/uploads/2018/10/Sauk-Dems-brunch-1-1030x773.jpg",
-"https://pocanforcongress.com/wp-content/uploads/2026/04/118295Ver3-copy.pdf",
-"https://secure.actblue.com/contribute/page/pocanwebsite",
-"https://twitter.com/MarkPocan",
-"https://twitter.com/share?text=Congressman+Mark+Pocan+to+hold+an+Adopt-a-District+Town+Hall+in+Janesville+with+Candidate+Randy+Bryce+at+1pm+Saturday&url=https%3A%2F%2Fpocanforcongress.com%2F%3Fp%3D1024"
+{
+"text": "Contact",
+"href": "https://pocanforcongress.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/contribute/page/pocanwebsite"
+},
+{
+"text": "Get Involved",
+"href": "https://pocanforcongress.com/get-involved/"
+},
+{
+"text": "Join The Team",
+"href": "https://pocanforcongress.com/join-the-team/"
+},
+{
+"text": "Link to Facebook",
+"href": "https://facebook.com/MarkPocan"
+},
+{
+"text": "Link to X",
+"href": "https://twitter.com/MarkPocan"
+},
+{
+"text": "Meet Mark",
+"href": "https://pocanforcongress.com/meet-mark/"
+},
+{
+"text": "News",
+"href": "https://pocanforcongress.com/news/"
+},
+{
+"text": "Nomination Papers",
+"href": "https://pocanforcongress.com/wp-content/uploads/2026/04/118295Ver3-copy.pdf"
+},
+{
+"text": "Privacy Policy",
+"href": "https://pocanforcongress.com/privacy-policy/"
+},
+{
+"text": "Share by Mail",
+"href": "mailto:?subject=Congressman+Mark+Pocan+to+hold+an+Adopt-a-District+Town+Hall+in+Janesville+with+Candidate+Randy+Bryce+at+1pm+Saturday#038;body=https://pocanforcongress.com/congressman-mark-pocan-to-hold-an-adopt-a-district-town-hall-in-janesville-with-candidate-randy-bryce-at-1pm-saturday/"
+},
+{
+"text": "Share on Facebook",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpocanforcongress.com%2Fcongressman-mark-pocan-to-hold-an-adopt-a-district-town-hall-in-janesville-with-candidate-randy-bryce-at-1pm-saturday%2F&t=Congressman+Mark+Pocan+to+hold+an+Adopt-a-District+Town+Hall+in+Janesville+with+Candidate+Randy+Bryce+at+1pm+Saturday"
+},
+{
+"text": "Share on LinkedIn",
+"href": "https://linkedin.com/shareArticle?mini=true&title=Congressman+Mark+Pocan+to+hold+an+Adopt-a-District+Town+Hall+in+Janesville+with+Candidate+Randy+Bryce+at+1pm+Saturday&url=https%3A%2F%2Fpocanforcongress.com%2Fcongressman-mark-pocan-to-hold-an-adopt-a-district-town-hall-in-janesville-with-candidate-randy-bryce-at-1pm-saturday%2F"
+},
+{
+"text": "Share on Pinterest",
+"href": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fpocanforcongress.com%2Fcongressman-mark-pocan-to-hold-an-adopt-a-district-town-hall-in-janesville-with-candidate-randy-bryce-at-1pm-saturday%2F&description=Congressman+Mark+Pocan+to+hold+an+Adopt-a-District+Town+Hall+in+Janesville+with+Candidate+Randy+Bryce+at+1pm+Saturday&media=https%3A%2F%2Fpocanforcongress.com%2Fwp-content%2Fuploads%2F2018%2F10%2FSauk-Dems-brunch-1-705x529.jpg"
+},
+{
+"text": "Share on WhatsApp",
+"href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fpocanforcongress.com%2Fcongressman-mark-pocan-to-hold-an-adopt-a-district-town-hall-in-janesville-with-candidate-randy-bryce-at-1pm-saturday%2F"
+},
+{
+"text": "Share on X",
+"href": "https://twitter.com/share?text=Congressman+Mark+Pocan+to+hold+an+Adopt-a-District+Town+Hall+in+Janesville+with+Candidate+Randy+Bryce+at+1pm+Saturday&url=https%3A%2F%2Fpocanforcongress.com%2F%3Fp%3D1024"
+},
+{
+"text": "[email protected]",
+"href": "https://pocanforcongress.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Mark Pocan for Wisconsin US House of Representatives]",
+"href": "https://pocanforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://pocanforcongress.com/wp-content/uploads/2018/10/Sauk-Dems-brunch-1-1030x773.jpg"
+},
+{
+"text": "register here",
+"href": "https://www.facebook.com/events/230449777506117/"
+},
+{
+"text": "www.TownHallProject.com",
+"href": "http://www.townhallproject.com"
+}
 ]

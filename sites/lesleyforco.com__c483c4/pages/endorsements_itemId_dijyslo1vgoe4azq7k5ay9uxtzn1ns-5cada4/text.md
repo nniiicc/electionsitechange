@@ -1,3 +1,2 @@
-Endorsements
-- "I am proud to endorse Lesley Smith for State House.
-Lesley is a true public servant, who will work tirelessly to protect our climate, strengthen public education and promote affordability on a number of fronts." Congressman Joe Neguse
+0 Skip to Content About DONATE Open Menu Close Menu Open Menu Close Menu DONATE About About DONATE Endorsements "I am proud to endorse Lesley Smith for State House.
+Lesley is a true public servant, who will work tirelessly to protect our climate, strengthen public education and promote affordability on a number of fronts." Congressman Joe Neguse View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize Lesley is endorsed by leaders across the district and beyond Add Your Name Contact Lesley Lesley for Colorado 2525 Arapahoe Ave, Unit E4-234 Boulder, CO 80302 Email lesley@lesleyforco.com GET IN TOUCH DONATE Paid for by Lesley for Colorado, registered agent Lesley Smith

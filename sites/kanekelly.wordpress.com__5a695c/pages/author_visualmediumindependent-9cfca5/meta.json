@@ -1,8 +1,10 @@
 {
  "description": "Read all of the posts by VMI on kanekelly.com",
  "final_url": "https://kanekelly.wordpress.com/author/visualmediumindependent/",
- "paid_for_by": null,
- "title": "VMI \u2013 kanekelly.com",
+ "fingerprint": "d0c1aad23b17e62d92aaba9598c270e83cf874f4",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "VMI – kanekelly.com",
  "years_mentioned": [
   "2026"
  ]

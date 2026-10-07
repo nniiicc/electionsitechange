@@ -1,5 +1,4 @@
-August 2025 Letter
-Usually I am not particularly opinionated about the changing of the seasons.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Spare ‘oom Spare ‘oom Spare ‘oom Sep 1, 2025 Sep 1, 2025 August 2025 Letter Smoggy sunset - 4 August 2025 - 18:29 - Peterborough, NH - Taken by Jonah Smoggy sunset - 4 August 2025 - 18:29 - Peterborough, NH - Taken by Jonah Usually I am not particularly opinionated about the changing of the seasons.
 I have my favorites but I’ve lived where there are four seasons all my life no matter where in the country we found ourselves.
 I’d like to believe I am used to it.
 Although this year, I bemoan the bite of the winds of August as it gets sharper with every passing day.
@@ -17,8 +16,7 @@ Should all the people of Gaza be condemned to the most brutal of what a military
 It is sickening and incredibly disheartening to see the citizenry of the nations of the world, and most of their leaders, stand up to the horror we see here and yet, nothing changes.
 The same can be said for all those in the world facing the horror of modern war in Congo, Yemen, Sudan, Ethiopia, Ukraine, and all the other nations undergoing brutal gang and military conflicts.
 War is and always has been a profitable business beyond belief.
-As the rap group ‘Cunninglynguists’ wrote, “War brings profits, and I don’t mean Moses.”
-There are people who look at all this death, destruction, starvation, occupation, and chaos; and see gold.
+As the rap group ‘Cunninglynguists’ wrote, “War brings profits, and I don’t mean Moses.” There are people who look at all this death, destruction, starvation, occupation, and chaos; and see gold.
 They revel in the chaos.
 They get off on the horror of it all.
 There are incredibly sick people in this world, and unfortunately we have had our eyes wide shut.
@@ -52,7 +50,7 @@ If we all start doing that.
 Taking care of that which is immediately in front of us.
 Being vigilant for the forces of subversion and division, standing strong for our homes, we can climb ourselves out of the pit.
 We can tune into a different frequency and begin the walk towards a better world.
-Thus, why I do not use these letters to ponder the ails of the world.
+Dems Bake sale & Puppy Parade - 23 August 2025 - 11:06 - Peterborough, NH - Taken by Jonah Dems Bake sale & Puppy Parade - 23 August 2025 - 11:06 - Peterborough, NH - Taken by Jonah Thus, why I do not use these letters to ponder the ails of the world.
 Not just because I could go on forever about saving humanity from forcible extinction, but because we all need to focus on that which we can have an immediate impact on; and that is the policy put in place by those who we elect here in New Hampshire.
 That requires learning about the processes which make up the policy in our State.
 Learning the ins and outs of municipal and state government so that when something comes up, everyone of us will know how to address it in whatever way is appropriate at the time.
@@ -97,8 +95,8 @@ Though maybe that’s me explaining away the perfection thoughts that come with 
 The “well this could use a little more here and a little more there” thought that is natural when doing something that’s important to you.
 Learning when to say “okay, it’s good enough”.
 Is something I have not quite yet mastered, but I am happy to say that with this one - it is good enough.
-Another one of the major tasks I was able to complete over my ‘work-cation’ was moving out of my house.
-As I wrote about in last months letter ‘Quintilis’, I have lived splitting the rent burden with my Mother and a couple of different roommates of ours for the last few years.
+Night Market - 8 August 2025 - 18:51 - Peterborough, NH - Taken by Jonah Night Market - 8 August 2025 - 18:51 - Peterborough, NH - Taken by Jonah Another one of the major tasks I was able to complete over my ‘work-cation’ was moving out of my house.
+As I wrote about in last months letter ‘ Quintilis ’, I have lived splitting the rent burden with my Mother and a couple of different roommates of ours for the last few years.
 In 2024, I was the one left with the empty nest as both my Mother and Sister flew the coop.
 My Mother returned from her job on the Mississippi River at the beginning of this year to be the Executive Chef of a brunch restaurant in Keene called the Yellowbell.
 As a shameless plug for her, they were just awarded the best breakfast in Keene by the Sentinel.
@@ -116,7 +114,7 @@ They are simply the coolest of people who retrofitted a spare room in their ranc
 After over a decade being a West Peterboroian, in far more than just the house I’ve left, I have officially left West Peterborough.
 Does this mean I have to pay to get into Stonehenge park now?
 I’m on the northern end of town now off Old Dublin Road.
-In a spare ‘oom, as they called it in ‘The Lion, the Witch, and the Wardrobe’.
+In a spare ‘oom, as they called it in ‘ The Lion, the Witch, and the Wardrobe’.
 I am still looking around the house for the room that’ll take me to Narnia, but for now I’ve got all my items and furniture settled, and I can celebrate a much needed change of pace in the place I rest my head at night.
 “Are you not ashamed you have to live with roommates?”.
 No, there are many people in our communities who are forced to live with other people because of how stupidly expensive our economy has become while the value of the dollar wains.
@@ -155,4 +153,4 @@ Don’t cave to the world being built for you.
 The veil is lifting.
 A world of harmony is on the horizon, waiting for us to grab it.
 Grab it.
-Back to all
+Movin' Day - 31 August 2025 - 17:16 - Peterborough, NH - Taken by Jonah Movin' Day - 31 August 2025 - 17:16 - Peterborough, NH - Taken by Jonah ‹ Resolution for Peace in Gaza ‹ Resolution for Peace in Gaza ‹ Resolution for Peace in Gaza Quintilis › Quintilis › Quintilis › Back to all

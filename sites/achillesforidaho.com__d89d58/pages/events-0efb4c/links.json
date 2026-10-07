@@ -1,168 +1,954 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Ada+County+Sign+Waving+-+Boise&dates=20260929T133000Z%2F20260929T143000Z&location=13th+%26amp%3B+the+Connector%2C+Boise%2C+ID",
-"http://google.com/calendar/event?action=TEMPLATE&text=Ada+County+Sign+Waving+-+Boise+&dates=20260915T230000Z%2F20260916T000000Z&location=7499+West+Overland+Road%2C+Boise%2C+Idaho%2C+83709%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Ada+County+Sign+Waving+-+Garden+City&dates=20260922T230000Z%2F20260923T000000Z&location=4971+North+Glenwood+Street%2C+Garden+City%2C+Idaho%2C+83714%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Air+Force+Appreciation+Day++Parade+-+Mountain+Home&dates=20260912T163000Z%2F20260912T183000Z&location=Mountain+Home%2C+ID",
-"http://google.com/calendar/event?action=TEMPLATE&text=County+Fair+-+Twin+Falls&dates=20260907T190000Z%2F20260907T220000Z&location=215+Fair+Avenue%2C+Filer%2C+Idaho%2C+83328%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Grand+Opening+Campaign+Office+-+Canyon+County&dates=20260905T190000Z%2F20260905T210000Z&location=2205+North+Cassia+Street%2C+Nampa%2C+Idaho%2C+83651%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Hispanic+Heritage+Month+-+Bellevue&dates=20260919T200000Z%2F20260920T020000Z&location=N+3rd+St+%2C+Bellevue%2C+ID+83313",
-"http://google.com/calendar/event?action=TEMPLATE&text=Hispanic+Heritage+Month+-+Hailey&dates=20260912T160000Z%2F20260913T020000Z&location=S+3rd+Ave%2C+Hailey%2C+ID+83333",
-"http://google.com/calendar/event?action=TEMPLATE&text=Hispanic+Heritiage+Month+-+Carey&dates=20260926T180000Z%2F20260926T230000Z&location=20494+North+Main+Street%2C+Carey%2C+Idaho%2C+83320%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Independent+Candidate+Forum+-+Coeur+d%27Alene&dates=20260910T220000Z%2F20260911T000000Z&location=411+North+15th+Street%2C+Coeur+d%26%2339%3BAlene%2C+Idaho%2C+83814%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Latah+County+Fair++-+Moscow&dates=20260917T190000Z%2F20260918T030000Z&location=1021+Harold+Avenue%2C+Moscow%2C+Idaho%2C+83843%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Latah+County+Fair+-+Moscow&dates=20260918T170000Z%2F20260919T030000Z&location=1021+Harold+Avenue%2C+Moscow%2C+Idaho%2C+83843%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Latah+County+Fair+-+Moscow&dates=20260920T170000Z%2F20260920T230000Z&location=1021+Harold+Avenue%2C+Moscow%2C+Idaho%2C+83843%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Latah+County+Fair+-+Moscow+&dates=20260919T170000Z%2F20260920T030000Z&location=1021+Harold+Avenue%2C+Moscow%2C+Idaho%2C+83843%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Latino+Fest+-+Boise&dates=20260905T220000Z%2F20260906T040000Z&location=601+West+Jefferson+Street%2C+Boise%2C+Idaho%2C+83702%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet++-+MYS+Cafe+%40+The+Verve&dates=20260909T000000Z%2F20260909T020000Z&location=2001+West+Boise+Avenue%2C+Boise%2C+Idaho%2C+83706%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+-+Coeur+d%27Alene&dates=20260909T173000Z%2F20260909T193000Z&location=702+East+Front+Avenue%2C+Coeur+d%26%2339%3BAlene%2C+Idaho%2C+83814%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+-+Garden+City&dates=20260915T233000Z%2F20260916T013000Z&location=6515+West+State+Street%2C+Garden+City%2C+Idaho%2C+83714%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+-+Garden+City&dates=20260920T230000Z%2F20260921T010000Z&location=114+East+32nd+Street%2C+Garden+City%2C+Idaho%2C+83714%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Todd+-+Candidate+Forum+-+Caldwell&dates=20260930T230000Z%2F20261001T003000Z&location=205+South+6th+Avenue%2C+Caldwell%2C+Idaho%2C+83605%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Todd+-+Rally+-+Garden+City&dates=20261001T220000Z%2F20261001T233000Z&location=5181+North+Glenwood+Street%2C+Garden+City%2C+Idaho%2C+83714%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Todd+-+Veterans+Flapjack+Breakfast+Morning+Briefing+-+Garden+City&dates=20261001T150000Z%2F20261001T170000Z&location=5181+North+Glenwood+Street%2C+Garden+City%2C+Idaho%2C+83714%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+the+Candidates+-+Caldwell&dates=20260927T190000Z%2F20260927T210000Z&location=619+Irving+Street%2C+Caldwell%2C+Idaho%2C+83605%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Postcard+Writing+Event+-+Boise&dates=20260914T180000Z%2F20260914T220000Z&location=2206+North+Cole+Road%2C+Boise%2C+Idaho%2C+83704%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Spud+Day+-+Shelley&dates=20260919T150000Z%2F20260919T230000Z&location=230+North+Park%2C+Shelley%2C+Idaho%2C+83274%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Street+Rallies+-+Hailey&dates=20260909T220000Z%2F20260910T000000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID",
-"http://google.com/calendar/event?action=TEMPLATE&text=Street+Rallies+-+Hailey&dates=20260916T220000Z%2F20260916T230000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID",
-"http://google.com/calendar/event?action=TEMPLATE&text=Street+Rallies+-+Hailey+&dates=20260923T220000Z%2F20260923T230000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID",
-"http://google.com/calendar/event?action=TEMPLATE&text=Third+Thursday+Street+Festival+-+Nampa%E2%80%99s+Birthday+Bash&dates=20260918T000000Z%2F20260918T030000Z&location=Nampa%2C+ID",
-"http://google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Indepedent+Voter+BSU+Townhall+-+Boise&dates=20261012T233000Z%2F20261013T010000Z&location=1700+West+University+Drive%2C+Boise%2C+Idaho%2C+83725%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Meet+the+Candidate+-+Payette&dates=20261016T000000Z%2F20261016T020000Z&location=127+North+Main+Street%2C+Payette%2C+Idaho%2C+83661%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Voter+Information+Forum+-+Rexburg&dates=20261006T003000Z%2F20261006T013000Z&location=2+East+Main+Street%2C+Rexburg%2C+Idaho%2C+83440%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Volunteer+Event+-+Street+Rallies+-+Hailey&dates=20260930T220000Z%2F20260930T230000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID",
-"http://google.com/calendar/event?action=TEMPLATE&text=Volunteer+Event+-+Street+Rallies+-+Hailey&dates=20261007T220000Z%2F20261007T230000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID",
-"http://google.com/calendar/event?action=TEMPLATE&text=Volunteer+Event+-+Street+Rallies+-+Hailey&dates=20261014T220000Z%2F20261014T230000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID",
-"http://google.com/calendar/event?action=TEMPLATE&text=Volunteer+Event+-+Street+Rallies+-+Hailey&dates=20261021T220000Z%2F20261021T230000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID",
-"http://google.com/calendar/event?action=TEMPLATE&text=Volunteer+Event+-+Street+Rallies+-+Hailey&dates=20261028T220000Z%2F20261028T230000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID",
-"http://maps.google.com/?q=+Mountain+Home%2C+ID",
-"http://maps.google.com/?q=+Nampa%2C+ID",
-"http://maps.google.com/?q=1021+Harold+Avenue+Moscow%2C+Idaho%2C+83843+United+States",
-"http://maps.google.com/?q=114+East+32nd+Street+Garden+City%2C+Idaho%2C+83714+United+States",
-"http://maps.google.com/?q=127+North+Main+Street+Payette%2C+Idaho%2C+83661+United+States",
-"http://maps.google.com/?q=13th+",
-"http://maps.google.com/?q=1700+West+University+Drive+Boise%2C+Idaho%2C+83725+United+States",
-"http://maps.google.com/?q=2+East+Main+Street+Rexburg%2C+Idaho%2C+83440+United+States",
-"http://maps.google.com/?q=2001+West+Boise+Avenue+Boise%2C+Idaho%2C+83706+United+States",
-"http://maps.google.com/?q=20494+North+Main+Street+Carey%2C+Idaho%2C+83320+United+States",
-"http://maps.google.com/?q=205+South+6th+Avenue+Caldwell%2C+Idaho%2C+83605+United+States",
-"http://maps.google.com/?q=215+Fair+Avenue+Filer%2C+Idaho%2C+83328+United+States",
-"http://maps.google.com/?q=2205+North+Cassia+Street+Nampa%2C+Idaho%2C+83651+United+States",
-"http://maps.google.com/?q=2206+North+Cole+Road+Boise%2C+Idaho%2C+83704+United+States",
-"http://maps.google.com/?q=230+North+Park+Shelley%2C+Idaho%2C+83274+United+States",
-"http://maps.google.com/?q=411+North+15th+Street+Coeur+d%27Alene%2C+Idaho%2C+83814+United+States",
-"http://maps.google.com/?q=4971+North+Glenwood+Street+Garden+City%2C+Idaho%2C+83714+United+States",
-"http://maps.google.com/?q=5181+North+Glenwood+Street+Garden+City%2C+Idaho%2C+83714+United+States",
-"http://maps.google.com/?q=601+West+Jefferson+Street+Boise%2C+Idaho%2C+83702+United+States",
-"http://maps.google.com/?q=619+Irving+Street+Caldwell%2C+Idaho%2C+83605+United+States",
-"http://maps.google.com/?q=6515+West+State+Street+Garden+City%2C+Idaho%2C+83714+United+States",
-"http://maps.google.com/?q=702+East+Front+Avenue+Coeur+d%27Alene%2C+Idaho%2C+83814+United+States",
-"http://maps.google.com/?q=7499+West+Overland+Road+Boise%2C+Idaho%2C+83709+United+States",
-"http://maps.google.com/?q=Main+Street+-+Between+Sturtevants+",
-"http://maps.google.com/?q=N+3rd+St++Bellevue%2C+ID+83313",
-"http://maps.google.com/?q=S+3rd+Ave+Hailey%2C+ID+83333",
-"https://achillesforidaho.com/",
-"https://achillesforidaho.com/assert-your-independence",
-"https://achillesforidaho.com/boletn",
-"https://achillesforidaho.com/cart",
-"https://achillesforidaho.com/endorsements",
-"https://achillesforidaho.com/espanol",
-"https://achillesforidaho.com/events",
-"https://achillesforidaho.com/events/0qqb1z0tm4wxb6dqsvg29weehq14b6",
-"https://achillesforidaho.com/events/0qqb1z0tm4wxb6dqsvg29weehq14b6?format=ical",
-"https://achillesforidaho.com/events/6u8gti056cpzv9jkjyh4qtvyugot7m",
-"https://achillesforidaho.com/events/6u8gti056cpzv9jkjyh4qtvyugot7m?format=ical",
-"https://achillesforidaho.com/events/ada-county-sign-waving-boise",
-"https://achillesforidaho.com/events/ada-county-sign-waving-boise-8re2h",
-"https://achillesforidaho.com/events/ada-county-sign-waving-boise-8re2h?format=ical",
-"https://achillesforidaho.com/events/ada-county-sign-waving-boise?format=ical",
-"https://achillesforidaho.com/events/ada-county-sign-waving-garden-city",
-"https://achillesforidaho.com/events/ada-county-sign-waving-garden-city?format=ical",
-"https://achillesforidaho.com/events/air-force-appreciation-day-mountain-home",
-"https://achillesforidaho.com/events/air-force-appreciation-day-mountain-home?format=ical",
-"https://achillesforidaho.com/events/candidate-forum-caldwell",
-"https://achillesforidaho.com/events/candidate-forum-caldwell?format=ical",
-"https://achillesforidaho.com/events/county-fair-twin-falls",
-"https://achillesforidaho.com/events/county-fair-twin-falls?format=ical",
-"https://achillesforidaho.com/events/grand-opening-campaign-office-canyon-county",
-"https://achillesforidaho.com/events/grand-opening-campaign-office-canyon-county?format=ical",
-"https://achillesforidaho.com/events/hispanic-heritage-month-bellevue",
-"https://achillesforidaho.com/events/hispanic-heritage-month-bellevue?format=ical",
-"https://achillesforidaho.com/events/hispanic-heritiage-month-carey",
-"https://achillesforidaho.com/events/hispanic-heritiage-month-carey?format=ical",
-"https://achillesforidaho.com/events/independent-candidate-forum-coeur-dalene",
-"https://achillesforidaho.com/events/independent-candidate-forum-coeur-dalene?format=ical",
-"https://achillesforidaho.com/events/latah-county-fair-moscow",
-"https://achillesforidaho.com/events/latah-county-fair-moscow-2ez4k",
-"https://achillesforidaho.com/events/latah-county-fair-moscow-2ez4k-5nscb",
-"https://achillesforidaho.com/events/latah-county-fair-moscow-2ez4k-5nscb-5gnzg",
-"https://achillesforidaho.com/events/latah-county-fair-moscow-2ez4k-5nscb-5gnzg?format=ical",
-"https://achillesforidaho.com/events/latah-county-fair-moscow-2ez4k-5nscb?format=ical",
-"https://achillesforidaho.com/events/latah-county-fair-moscow-2ez4k?format=ical",
-"https://achillesforidaho.com/events/latah-county-fair-moscow?format=ical",
-"https://achillesforidaho.com/events/latino-fest-boise",
-"https://achillesforidaho.com/events/latino-fest-boise?format=ical",
-"https://achillesforidaho.com/events/meet-greet-coeur-dalene",
-"https://achillesforidaho.com/events/meet-greet-coeur-dalene?format=ical",
-"https://achillesforidaho.com/events/meet-greet-garden-city-1",
-"https://achillesforidaho.com/events/meet-greet-garden-city-1?format=ical",
-"https://achillesforidaho.com/events/meet-greet-garden-city-2",
-"https://achillesforidaho.com/events/meet-greet-garden-city-2?format=ical",
-"https://achillesforidaho.com/events/meet-greet-mys-cafe-the-verve",
-"https://achillesforidaho.com/events/meet-greet-mys-cafe-the-verve?format=ical",
-"https://achillesforidaho.com/events/meet-the-candidate-payette",
-"https://achillesforidaho.com/events/meet-the-candidate-payette?format=ical",
-"https://achillesforidaho.com/events/meet-the-candidates-caldwell",
-"https://achillesforidaho.com/events/meet-the-candidates-caldwell?format=ical",
-"https://achillesforidaho.com/events/meet-todd-veterans-flapjack-breakfast-morning-briefing",
-"https://achillesforidaho.com/events/meet-todd-veterans-flapjack-breakfast-morning-briefing-s4d7a",
-"https://achillesforidaho.com/events/meet-todd-veterans-flapjack-breakfast-morning-briefing-s4d7a?format=ical",
-"https://achillesforidaho.com/events/meet-todd-veterans-flapjack-breakfast-morning-briefing?format=ical",
-"https://achillesforidaho.com/events/postcard-writing-event-boise",
-"https://achillesforidaho.com/events/postcard-writing-event-boise?format=ical",
-"https://achillesforidaho.com/events/street-rallies-hailey",
-"https://achillesforidaho.com/events/street-rallies-hailey-f94z2",
-"https://achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g",
-"https://achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy",
-"https://achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2",
-"https://achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy",
-"https://achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy-9lbzs",
-"https://achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy-9lbzs-hka67",
-"https://achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy-9lbzs-hka67?format=ical",
-"https://achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy-9lbzs?format=ical",
-"https://achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy?format=ical",
-"https://achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2?format=ical",
-"https://achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy?format=ical",
-"https://achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g?format=ical",
-"https://achillesforidaho.com/events/street-rallies-hailey-f94z2?format=ical",
-"https://achillesforidaho.com/events/street-rallies-hailey?format=ical",
-"https://achillesforidaho.com/events/third-thursday-street-festival-nampa",
-"https://achillesforidaho.com/events/third-thursday-street-festival-nampa?format=ical",
-"https://achillesforidaho.com/events/todd-event-ndepedent-voter-bsu-townhall-boise",
-"https://achillesforidaho.com/events/todd-event-ndepedent-voter-bsu-townhall-boise?format=ical",
-"https://achillesforidaho.com/events/todd-event-voter-information-forum-rexburg",
-"https://achillesforidaho.com/events/todd-event-voter-information-forum-rexburg?format=ical",
-"https://achillesforidaho.com/inicio",
-"https://achillesforidaho.com/interviews",
-"https://achillesforidaho.com/media-1",
-"https://achillesforidaho.com/merch",
-"https://achillesforidaho.com/merch-1",
-"https://achillesforidaho.com/news-articles",
-"https://achillesforidaho.com/newsletter",
-"https://achillesforidaho.com/newsroom",
-"https://achillesforidaho.com/policies",
-"https://achillesforidaho.com/polticas",
-"https://achillesforidaho.com/privacy-policy",
-"https://achillesforidaho.com/voluntariado",
-"https://achillesforidaho.com/volunteer",
-"https://achillesforidaho.com/volunteerform",
-"https://bsky.app/profile/achillesid.bsky.social",
-"https://facebook.com/achilles4idaho",
-"https://instagram.com/toddachillesforidaho",
-"https://secure.numero.ai/contribute/Achilles-For-Idaho",
-"https://threads.com/@toddachillesforidaho",
-"https://tiktok.com/@toddachillesforidaho",
-"https://x.com/Achilles4Idaho",
-"https://youtube.com/@ToddAchillesforU.S.Senate"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+mountain+home%2C+id+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+nampa%2C+id+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1021+harold+avenue+moscow%2C+idaho%2C+83843+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=114+east+32nd+street+garden+city%2C+idaho%2C+83714+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=127+north+main+street+payette%2C+idaho%2C+83661+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=13th+&+the+connector+boise%2C+id+="
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1700+west+university+drive+boise%2C+idaho%2C+83725+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2+east+main+street+rexburg%2C+idaho%2C+83440+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2001+west+boise+avenue+boise%2C+idaho%2C+83706+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=20494+north+main+street+carey%2C+idaho%2C+83320+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=205+south+6th+avenue+caldwell%2C+idaho%2C+83605+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=215+fair+avenue+filer%2C+idaho%2C+83328+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2206+north+cole+road+boise%2C+idaho%2C+83704+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=230+north+park+shelley%2C+idaho%2C+83274+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=411+north+15th+street+coeur+d%27alene%2C+idaho%2C+83814+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4971+north+glenwood+street+garden+city%2C+idaho%2C+83714+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5181+north+glenwood+street+garden+city%2C+idaho%2C+83714+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=601+west+jefferson+street+boise%2C+idaho%2C+83702+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=619+irving+street+caldwell%2C+idaho%2C+83605+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=6515+west+state+street+garden+city%2C+idaho%2C+83714+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=702+east+front+avenue+coeur+d%27alene%2C+idaho%2C+83814+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7499+west+overland+road+boise%2C+idaho%2C+83709+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=main+street+-+between+sturtevants+&+wafd+bank+hailey%2C+id+="
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=n+3rd+st++bellevue%2C+id+83313+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=s+3rd+ave+hailey%2C+id+83333+"
+},
+{
+"text": "0",
+"href": "https://www.achillesforidaho.com/cart"
+},
+{
+"text": "Ada County Sign Waving - Boise",
+"href": "https://www.achillesforidaho.com/events/ada-county-sign-waving-boise"
+},
+{
+"text": "Ada County Sign Waving - Boise",
+"href": "https://www.achillesforidaho.com/events/ada-county-sign-waving-boise-8re2h"
+},
+{
+"text": "Ada County Sign Waving - Garden City",
+"href": "https://www.achillesforidaho.com/events/ada-county-sign-waving-garden-city"
+},
+{
+"text": "Air Force Appreciation Day Parade - Mountain Home",
+"href": "https://www.achillesforidaho.com/events/air-force-appreciation-day-mountain-home"
+},
+{
+"text": "Assert Your Independence",
+"href": "https://www.achillesforidaho.com/assert-your-independence"
+},
+{
+"text": "Back",
+"href": "https://www.achillesforidaho.com/"
+},
+{
+"text": "Boletín",
+"href": "https://www.achillesforidaho.com/boletn"
+},
+{
+"text": "Contact US",
+"href": "mailto:info@achillesforidaho.com"
+},
+{
+"text": "County Fair - Twin Falls",
+"href": "https://www.achillesforidaho.com/events/county-fair-twin-falls"
+},
+{
+"text": "Donate",
+"href": "https://secure.numero.ai/contribute/Achilles-For-Idaho"
+},
+{
+"text": "Endorsements",
+"href": "https://www.achillesforidaho.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.achillesforidaho.com/events"
+},
+{
+"text": "Folder: ESPANOL",
+"href": "https://www.achillesforidaho.com/espanol"
+},
+{
+"text": "Folder: Media",
+"href": "https://www.achillesforidaho.com/media-1"
+},
+{
+"text": "Folder: Merch",
+"href": "https://www.achillesforidaho.com/merch-1"
+},
+{
+"text": "Folder: Volunteer",
+"href": "https://www.achillesforidaho.com/volunteer"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ada+County+Sign+Waving+-+Boise&dates=20260929T133000Z%2F20260929T143000Z&location=13th+%26amp%3B+the+Connector%2C+Boise%2C+ID"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ada+County+Sign+Waving+-+Boise+&dates=20260915T230000Z%2F20260916T000000Z&location=7499+West+Overland+Road%2C+Boise%2C+Idaho%2C+83709%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ada+County+Sign+Waving+-+Garden+City&dates=20260922T230000Z%2F20260923T000000Z&location=4971+North+Glenwood+Street%2C+Garden+City%2C+Idaho%2C+83714%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Air+Force+Appreciation+Day++Parade+-+Mountain+Home&dates=20260912T163000Z%2F20260912T183000Z&location=Mountain+Home%2C+ID"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=County+Fair+-+Twin+Falls&dates=20260907T190000Z%2F20260907T220000Z&location=215+Fair+Avenue%2C+Filer%2C+Idaho%2C+83328%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hispanic+Heritage+Month+-+Bellevue&dates=20260919T200000Z%2F20260920T020000Z&location=N+3rd+St+%2C+Bellevue%2C+ID+83313"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hispanic+Heritage+Month+-+Hailey&dates=20260912T160000Z%2F20260913T020000Z&location=S+3rd+Ave%2C+Hailey%2C+ID+83333"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hispanic+Heritiage+Month+-+Carey&dates=20260926T180000Z%2F20260926T230000Z&location=20494+North+Main+Street%2C+Carey%2C+Idaho%2C+83320%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Independent+Candidate+Forum+-+Coeur+d%27Alene&dates=20260910T220000Z%2F20260911T000000Z&location=411+North+15th+Street%2C+Coeur+d%26%2339%3BAlene%2C+Idaho%2C+83814%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Latah+County+Fair++-+Moscow&dates=20260917T190000Z%2F20260918T030000Z&location=1021+Harold+Avenue%2C+Moscow%2C+Idaho%2C+83843%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Latah+County+Fair+-+Moscow&dates=20260918T170000Z%2F20260919T030000Z&location=1021+Harold+Avenue%2C+Moscow%2C+Idaho%2C+83843%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Latah+County+Fair+-+Moscow&dates=20260920T170000Z%2F20260920T230000Z&location=1021+Harold+Avenue%2C+Moscow%2C+Idaho%2C+83843%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Latah+County+Fair+-+Moscow+&dates=20260919T170000Z%2F20260920T030000Z&location=1021+Harold+Avenue%2C+Moscow%2C+Idaho%2C+83843%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Latino+Fest+-+Boise&dates=20260905T220000Z%2F20260906T040000Z&location=601+West+Jefferson+Street%2C+Boise%2C+Idaho%2C+83702%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet++-+MYS+Cafe+%40+The+Verve&dates=20260909T000000Z%2F20260909T020000Z&location=2001+West+Boise+Avenue%2C+Boise%2C+Idaho%2C+83706%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+-+Coeur+d%27Alene&dates=20260909T173000Z%2F20260909T193000Z&location=702+East+Front+Avenue%2C+Coeur+d%26%2339%3BAlene%2C+Idaho%2C+83814%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+-+Garden+City&dates=20260915T233000Z%2F20260916T013000Z&location=6515+West+State+Street%2C+Garden+City%2C+Idaho%2C+83714%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+-+Garden+City&dates=20260920T230000Z%2F20260921T010000Z&location=114+East+32nd+Street%2C+Garden+City%2C+Idaho%2C+83714%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Todd+-+Candidate+Forum+-+Caldwell&dates=20260930T230000Z%2F20261001T003000Z&location=205+South+6th+Avenue%2C+Caldwell%2C+Idaho%2C+83605%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Todd+-+Rally+-+Garden+City&dates=20261001T220000Z%2F20261001T233000Z&location=5181+North+Glenwood+Street%2C+Garden+City%2C+Idaho%2C+83714%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Todd+-+Veterans+Flapjack+Breakfast+Morning+Briefing+-+Garden+City&dates=20261001T150000Z%2F20261001T170000Z&location=5181+North+Glenwood+Street%2C+Garden+City%2C+Idaho%2C+83714%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+the+Candidates+-+Caldwell&dates=20260927T190000Z%2F20260927T210000Z&location=619+Irving+Street%2C+Caldwell%2C+Idaho%2C+83605%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Postcard+Writing+Event+-+Boise&dates=20260914T180000Z%2F20260914T220000Z&location=2206+North+Cole+Road%2C+Boise%2C+Idaho%2C+83704%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Spud+Day+-+Shelley&dates=20260919T150000Z%2F20260919T230000Z&location=230+North+Park%2C+Shelley%2C+Idaho%2C+83274%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Street+Rallies+-+Hailey&dates=20260909T220000Z%2F20260910T000000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Street+Rallies+-+Hailey&dates=20260916T220000Z%2F20260916T230000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Street+Rallies+-+Hailey+&dates=20260923T220000Z%2F20260923T230000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Third+Thursday+Street+Festival+-+Nampa%E2%80%99s+Birthday+Bash&dates=20260918T000000Z%2F20260918T030000Z&location=Nampa%2C+ID"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Indepedent+Voter+BSU+Townhall+-+Boise&dates=20261012T233000Z%2F20261013T010000Z&location=1700+West+University+Drive%2C+Boise%2C+Idaho%2C+83725%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Meet+the+Candidate+-+Payette&dates=20261016T000000Z%2F20261016T020000Z&location=127+North+Main+Street%2C+Payette%2C+Idaho%2C+83661%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Todd+Event+-+Voter+Information+Forum+-+Rexburg&dates=20261006T003000Z%2F20261006T013000Z&location=2+East+Main+Street%2C+Rexburg%2C+Idaho%2C+83440%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Volunteer+Event+-+Street+Rallies+-+Hailey&dates=20260930T220000Z%2F20260930T230000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Volunteer+Event+-+Street+Rallies+-+Hailey&dates=20261007T220000Z%2F20261007T230000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Volunteer+Event+-+Street+Rallies+-+Hailey&dates=20261014T220000Z%2F20261014T230000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Volunteer+Event+-+Street+Rallies+-+Hailey&dates=20261021T220000Z%2F20261021T230000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Volunteer+Event+-+Street+Rallies+-+Hailey&dates=20261028T220000Z%2F20261028T230000Z&location=Main+Street+-+Between+Sturtevants+%26amp%3B+WAFD+Bank%2C+Hailey%2C+ID"
+},
+{
+"text": "Hispanic Heritage Month - Bellevue",
+"href": "https://www.achillesforidaho.com/events/hispanic-heritage-month-bellevue"
+},
+{
+"text": "Hispanic Heritage Month - Hailey",
+"href": "https://www.achillesforidaho.com/events/0qqb1z0tm4wxb6dqsvg29weehq14b6"
+},
+{
+"text": "Hispanic Heritiage Month - Carey",
+"href": "https://www.achillesforidaho.com/events/hispanic-heritiage-month-carey"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/0qqb1z0tm4wxb6dqsvg29weehq14b6?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/6u8gti056cpzv9jkjyh4qtvyugot7m?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/ada-county-sign-waving-boise-8re2h?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/ada-county-sign-waving-boise?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/ada-county-sign-waving-garden-city?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/air-force-appreciation-day-mountain-home?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/candidate-forum-caldwell?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/county-fair-twin-falls?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/hispanic-heritage-month-bellevue?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/hispanic-heritiage-month-carey?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/independent-candidate-forum-coeur-dalene?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow-2ez4k-5nscb-5gnzg?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow-2ez4k-5nscb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow-2ez4k?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/latino-fest-boise?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/meet-greet-coeur-dalene?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/meet-greet-garden-city-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/meet-greet-garden-city-2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/meet-greet-mys-cafe-the-verve?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/meet-the-candidate-payette?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/meet-the-candidates-caldwell?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/meet-todd-veterans-flapjack-breakfast-morning-briefing-s4d7a?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/meet-todd-veterans-flapjack-breakfast-morning-briefing?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/postcard-writing-event-boise?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy-9lbzs-hka67?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy-9lbzs?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/third-thursday-street-festival-nampa?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/todd-event-ndepedent-voter-bsu-townhall-boise?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.achillesforidaho.com/events/todd-event-voter-information-forum-rexburg?format=ical"
+},
+{
+"text": "Independent Candidate Forum - Coeur d'Alene",
+"href": "https://www.achillesforidaho.com/events/independent-candidate-forum-coeur-dalene"
+},
+{
+"text": "Inicio",
+"href": "https://www.achillesforidaho.com/inicio"
+},
+{
+"text": "Interviews",
+"href": "https://www.achillesforidaho.com/interviews"
+},
+{
+"text": "Latah County Fair - Moscow",
+"href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow"
+},
+{
+"text": "Latah County Fair - Moscow",
+"href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow-2ez4k"
+},
+{
+"text": "Latah County Fair - Moscow",
+"href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow-2ez4k-5nscb"
+},
+{
+"text": "Latah County Fair - Moscow",
+"href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow-2ez4k-5nscb-5gnzg"
+},
+{
+"text": "Latino Fest - Boise",
+"href": "https://www.achillesforidaho.com/events/latino-fest-boise"
+},
+{
+"text": "Meet & Greet - Coeur d'Alene",
+"href": "https://www.achillesforidaho.com/events/meet-greet-coeur-dalene"
+},
+{
+"text": "Meet & Greet - Garden City",
+"href": "https://www.achillesforidaho.com/events/meet-greet-garden-city-1"
+},
+{
+"text": "Meet & Greet - Garden City",
+"href": "https://www.achillesforidaho.com/events/meet-greet-garden-city-2"
+},
+{
+"text": "Meet & Greet - MYS Cafe @ The Verve",
+"href": "https://www.achillesforidaho.com/events/meet-greet-mys-cafe-the-verve"
+},
+{
+"text": "Meet Todd - Candidate Forum - Caldwell",
+"href": "https://www.achillesforidaho.com/events/candidate-forum-caldwell"
+},
+{
+"text": "Meet Todd - Rally - Garden City",
+"href": "https://www.achillesforidaho.com/events/meet-todd-veterans-flapjack-breakfast-morning-briefing-s4d7a"
+},
+{
+"text": "Meet Todd - Veterans Flapjack Breakfast Morning Briefing - Garden City",
+"href": "https://www.achillesforidaho.com/events/meet-todd-veterans-flapjack-breakfast-morning-briefing"
+},
+{
+"text": "Meet the Candidates - Caldwell",
+"href": "https://www.achillesforidaho.com/events/meet-the-candidates-caldwell"
+},
+{
+"text": "NEWS ARTICLES",
+"href": "https://www.achillesforidaho.com/news-articles"
+},
+{
+"text": "Newsletter",
+"href": "https://www.achillesforidaho.com/newsletter"
+},
+{
+"text": "Newsroom",
+"href": "https://www.achillesforidaho.com/newsroom"
+},
+{
+"text": "Policies",
+"href": "https://www.achillesforidaho.com/policies"
+},
+{
+"text": "Políticas",
+"href": "https://www.achillesforidaho.com/polticas"
+},
+{
+"text": "Postcard Writing Event - Boise",
+"href": "https://www.achillesforidaho.com/events/postcard-writing-event-boise"
+},
+{
+"text": "Press Inquiry‍ ‍",
+"href": "mailto:press@achillesforidaho.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.achillesforidaho.com/privacy-policy"
+},
+{
+"text": "Spud Day - Shelley",
+"href": "https://www.achillesforidaho.com/events/6u8gti056cpzv9jkjyh4qtvyugot7m"
+},
+{
+"text": "Street Rallies - Hailey",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey"
+},
+{
+"text": "Street Rallies - Hailey",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2"
+},
+{
+"text": "Street Rallies - Hailey",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g"
+},
+{
+"text": "Supporter Merch",
+"href": "https://www.achillesforidaho.com/merch"
+},
+{
+"text": "Third Thursday Street Festival - Nampa’s Birthday Bash",
+"href": "https://www.achillesforidaho.com/events/third-thursday-street-festival-nampa"
+},
+{
+"text": "Todd Event - Indepedent Voter BSU Townhall - Boise",
+"href": "https://www.achillesforidaho.com/events/todd-event-ndepedent-voter-bsu-townhall-boise"
+},
+{
+"text": "Todd Event - Meet the Candidate - Payette",
+"href": "https://www.achillesforidaho.com/events/meet-the-candidate-payette"
+},
+{
+"text": "Todd Event - Voter Information Forum - Rexburg",
+"href": "https://www.achillesforidaho.com/events/todd-event-voter-information-forum-rexburg"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/0qqb1z0tm4wxb6dqsvg29weehq14b6"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/6u8gti056cpzv9jkjyh4qtvyugot7m"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/ada-county-sign-waving-boise"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/ada-county-sign-waving-boise-8re2h"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/ada-county-sign-waving-garden-city"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/air-force-appreciation-day-mountain-home"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/candidate-forum-caldwell"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/county-fair-twin-falls"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/hispanic-heritage-month-bellevue"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/hispanic-heritiage-month-carey"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/independent-candidate-forum-coeur-dalene"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow-2ez4k"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow-2ez4k-5nscb"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow-2ez4k-5nscb-5gnzg"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/latino-fest-boise"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/meet-greet-coeur-dalene"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/meet-greet-garden-city-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/meet-greet-garden-city-2"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/meet-greet-mys-cafe-the-verve"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/meet-the-candidate-payette"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/meet-the-candidates-caldwell"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/meet-todd-veterans-flapjack-breakfast-morning-briefing"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/meet-todd-veterans-flapjack-breakfast-morning-briefing-s4d7a"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/postcard-writing-event-boise"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy-9lbzs"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy-9lbzs-hka67"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/third-thursday-street-festival-nampa"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/todd-event-ndepedent-voter-bsu-townhall-boise"
+},
+{
+"text": "View Event →",
+"href": "https://www.achillesforidaho.com/events/todd-event-voter-information-forum-rexburg"
+},
+{
+"text": "Voluntariado",
+"href": "https://www.achillesforidaho.com/voluntariado"
+},
+{
+"text": "Volunteer",
+"href": "https://www.achillesforidaho.com/volunteerpage"
+},
+{
+"text": "Volunteer Event - Street Rallies - Hailey",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy"
+},
+{
+"text": "Volunteer Event - Street Rallies - Hailey",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2"
+},
+{
+"text": "Volunteer Event - Street Rallies - Hailey",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy"
+},
+{
+"text": "Volunteer Event - Street Rallies - Hailey",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy-9lbzs"
+},
+{
+"text": "Volunteer Event - Street Rallies - Hailey",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy-9lbzs-hka67"
+},
+{
+"text": "[image: Ada County Sign Waving - Boise ]",
+"href": "https://www.achillesforidaho.com/events/ada-county-sign-waving-boise-8re2h"
+},
+{
+"text": "[image: Ada County Sign Waving - Boise]",
+"href": "https://www.achillesforidaho.com/events/ada-county-sign-waving-boise"
+},
+{
+"text": "[image: Air Force Appreciation Day Parade - Mountain Home]",
+"href": "https://www.achillesforidaho.com/events/air-force-appreciation-day-mountain-home"
+},
+{
+"text": "[image: County Fair - Twin Falls]",
+"href": "https://www.achillesforidaho.com/events/county-fair-twin-falls"
+},
+{
+"text": "[image: Hispanic Heritage Month - Bellevue]",
+"href": "https://www.achillesforidaho.com/events/hispanic-heritage-month-bellevue"
+},
+{
+"text": "[image: Hispanic Heritage Month - Hailey]",
+"href": "https://www.achillesforidaho.com/events/0qqb1z0tm4wxb6dqsvg29weehq14b6"
+},
+{
+"text": "[image: Hispanic Heritiage Month - Carey]",
+"href": "https://www.achillesforidaho.com/events/hispanic-heritiage-month-carey"
+},
+{
+"text": "[image: Independent Candidate Forum - Coeur d'Alene]",
+"href": "https://www.achillesforidaho.com/events/independent-candidate-forum-coeur-dalene"
+},
+{
+"text": "[image: Latah County Fair - Moscow ]",
+"href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow-2ez4k-5nscb"
+},
+{
+"text": "[image: Latah County Fair - Moscow]",
+"href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow"
+},
+{
+"text": "[image: Latah County Fair - Moscow]",
+"href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow-2ez4k"
+},
+{
+"text": "[image: Latah County Fair - Moscow]",
+"href": "https://www.achillesforidaho.com/events/latah-county-fair-moscow-2ez4k-5nscb-5gnzg"
+},
+{
+"text": "[image: Latino Fest - Boise]",
+"href": "https://www.achillesforidaho.com/events/latino-fest-boise"
+},
+{
+"text": "[image: Meet & Greet - Coeur d'Alene]",
+"href": "https://www.achillesforidaho.com/events/meet-greet-coeur-dalene"
+},
+{
+"text": "[image: Meet & Greet - Garden City]",
+"href": "https://www.achillesforidaho.com/events/meet-greet-garden-city-2"
+},
+{
+"text": "[image: Meet & Greet - MYS Cafe @ The Verve]",
+"href": "https://www.achillesforidaho.com/events/meet-greet-mys-cafe-the-verve"
+},
+{
+"text": "[image: Meet Todd - Candidate Forum - Caldwell]",
+"href": "https://www.achillesforidaho.com/events/candidate-forum-caldwell"
+},
+{
+"text": "[image: Meet Todd - Rally - Garden City]",
+"href": "https://www.achillesforidaho.com/events/meet-todd-veterans-flapjack-breakfast-morning-briefing-s4d7a"
+},
+{
+"text": "[image: Meet Todd - Veterans Flapjack Breakfast Morning Briefing - Garden City]",
+"href": "https://www.achillesforidaho.com/events/meet-todd-veterans-flapjack-breakfast-morning-briefing"
+},
+{
+"text": "[image: Postcard Writing Event - Boise]",
+"href": "https://www.achillesforidaho.com/events/postcard-writing-event-boise"
+},
+{
+"text": "[image: Spud Day - Shelley]",
+"href": "https://www.achillesforidaho.com/events/6u8gti056cpzv9jkjyh4qtvyugot7m"
+},
+{
+"text": "[image: Street Rallies - Hailey ]",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g"
+},
+{
+"text": "[image: Street Rallies - Hailey]",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey"
+},
+{
+"text": "[image: Street Rallies - Hailey]",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2"
+},
+{
+"text": "[image: Todd Achilles for Idaho]",
+"href": "https://www.achillesforidaho.com/"
+},
+{
+"text": "[image: Todd Event - Indepedent Voter BSU Townhall - Boise]",
+"href": "https://www.achillesforidaho.com/events/todd-event-ndepedent-voter-bsu-townhall-boise"
+},
+{
+"text": "[image: Todd Event - Meet the Candidate - Payette]",
+"href": "https://www.achillesforidaho.com/events/meet-the-candidate-payette"
+},
+{
+"text": "[image: Todd Event - Voter Information Forum - Rexburg]",
+"href": "https://www.achillesforidaho.com/events/todd-event-voter-information-forum-rexburg"
+},
+{
+"text": "[image: Volunteer Event - Street Rallies - Hailey]",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy"
+},
+{
+"text": "[image: Volunteer Event - Street Rallies - Hailey]",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2"
+},
+{
+"text": "[image: Volunteer Event - Street Rallies - Hailey]",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy"
+},
+{
+"text": "[image: Volunteer Event - Street Rallies - Hailey]",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy-9lbzs"
+},
+{
+"text": "[image: Volunteer Event - Street Rallies - Hailey]",
+"href": "https://www.achillesforidaho.com/events/street-rallies-hailey-f94z2-nm63g-9mdpy-tpde2-57rjy-9lbzs-hka67"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/achillesid.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.achillesforidaho.com/events/ada-county-sign-waving-garden-city"
+},
+{
+"text": "[no text]",
+"href": "https://www.achillesforidaho.com/events/meet-greet-garden-city-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.achillesforidaho.com/events/meet-the-candidates-caldwell"
+},
+{
+"text": "[no text]",
+"href": "https://www.achillesforidaho.com/events/third-thursday-street-festival-nampa"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/achilles4idaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/toddachillesforidaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@toddachillesforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@toddachillesforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ToddAchillesforU.S.Senate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Achilles4Idaho"
+},
+{
+"text": "[no text]",
+"href": "mailto:press@achillesforidaho.com"
+}
 ]

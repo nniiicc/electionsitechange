@@ -1,4 +1,4 @@
-As the years go by this day seems to become harder and harder to celebrate.
+Skip to content About Issues Endorsements Get Involved Contact RSVP News Donate About Issues Endorsements Get Involved Contact RSVP News Donate Back to News July 4, 2022 Updates Fourth of July As the years go by this day seems to become harder and harder to celebrate.
 Every year I reflect on what this country is becoming and what it means to my family.
 As a child of immigrants I’m so grateful for the privileges I’m afforded including my right to vote and have my voice heard without fear of retaliation by the government.
 But as I write this today I’m feeling less and less sure about this right and this is deeply saddening.
@@ -12,5 +12,4 @@ Today I’m feeling grateful that I’m able to run for office in the community 
 I’m even grateful that I spent this weekend doorbelling in the rain, with a good friend, meeting my potential constituents and learning about what they need.
 And despite the path we are going down, I’m grateful that my grandparents chose to take a chance and move their families to the United States all those years ago.
 So today I rest and celebrate the good, and tomorrow I get back to changing the bad.
-In solidarity,
-Darya
+In solidarity, Darya Donate Now Get Involved — Paid for by Friends of Darya Farivar — PO Box 20664 Seattle, WA 98102 Facebook X-twitter Linkedin-in Accessibility Statement

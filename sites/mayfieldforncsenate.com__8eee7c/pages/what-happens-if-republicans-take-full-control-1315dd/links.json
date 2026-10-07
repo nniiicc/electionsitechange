@@ -1,29 +1,134 @@
 [
-"https://bode4senate.com/",
-"https://electmarkspeed.com/",
-"https://facebook.com/MayfieldforNCSenate",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmayfieldforncsenate.com%2Fwhat-happens-if-republicans-take-full-control%2F",
-"https://gibsonfornc.com/",
-"https://instagram.com/mayfield4ncsenate",
-"https://linkedin.com/shareArticle?url=https%3A%2F%2Fmayfieldforncsenate.com%2Fwhat-happens-if-republicans-take-full-control%2F&title=What+happens+if+Republicans+take+full+control%3F",
-"https://marciamorganforncsenate.com/",
-"https://mayfieldforncsenate.com/",
-"https://mayfieldforncsenate.com/about",
-"https://mayfieldforncsenate.com/blog",
-"https://mayfieldforncsenate.com/donate",
-"https://mayfieldforncsenate.com/endorsements",
-"https://mayfieldforncsenate.com/issues",
-"https://mayfieldforncsenate.com/lets-be-transparent-about-our-donors",
-"https://mayfieldforncsenate.com/majoritymaker",
-"https://mayfieldforncsenate.com/mayfield-files-for-re-election-to-senate-district-49",
-"https://mayfieldforncsenate.com/privacy",
-"https://mayfieldforncsenate.com/thank-you",
-"https://mayfieldforncsenate.com/wp-content/uploads/2019/02/footer-logo.png",
-"https://mcneillfornc.com/",
-"https://ncsenate.org/",
-"https://rachelhunt.com/",
-"https://sydneybatch.com/",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fmayfieldforncsenate.com%2Fwhat-happens-if-republicans-take-full-control%2F&text=What+happens+if+Republicans+take+full+control%3F",
-"https://valeriejordan.com/",
-"https://x.com/MayfieldforNC"
+{
+"text": "ABOUT",
+"href": "https://mayfieldforncsenate.com/about/"
+},
+{
+"text": "About",
+"href": "https://mayfieldforncsenate.com/about/"
+},
+{
+"text": "BECOME A MAYFIELD MAJORITY MAKER!",
+"href": "https://mayfieldforncsenate.com/majoritymaker/"
+},
+{
+"text": "DONATE",
+"href": "https://mayfieldforncsenate.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://mayfieldforncsenate.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://mayfieldforncsenate.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://mayfieldforncsenate.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://mayfieldforncsenate.com/issues/"
+},
+{
+"text": "Issues",
+"href": "https://mayfieldforncsenate.com/issues/"
+},
+{
+"text": "News",
+"href": "https://mayfieldforncsenate.com/blog/"
+},
+{
+"text": "Next Post Mayfield files for re-election to Senate District 49 [image]",
+"href": "https://mayfieldforncsenate.com/mayfield-files-for-re-election-to-senate-district-49/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mayfieldforncsenate.com/privacy/"
+},
+{
+"text": "Senate Democrats",
+"href": "https://ncsenate.org/"
+},
+{
+"text": "Thank You",
+"href": "https://mayfieldforncsenate.com/thank-you/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://mayfieldforncsenate.com/#volunteer"
+},
+{
+"text": "[image: Julie Mayfield for NC Senate]",
+"href": "https://mayfieldforncsenate.com/"
+},
+{
+"text": "[image]",
+"href": "https://mayfieldforncsenate.com/wp-content/uploads/2019/02/footer-logo.png"
+},
+{
+"text": "[image] Previous Post Let's be transparent about our donors",
+"href": "https://mayfieldforncsenate.com/lets-be-transparent-about-our-donors/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fmayfieldforncsenate.com%2Fwhat-happens-if-republicans-take-full-control%2F&text=What+happens+if+Republicans+take+full+control%3F"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MayfieldforNCSenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmayfieldforncsenate.com%2Fwhat-happens-if-republicans-take-full-control%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mayfield4ncsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fmayfieldforncsenate.com%2Fwhat-happens-if-republicans-take-full-control%2F&title=What+happens+if+Republicans+take+full+control%3F"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MayfieldforNC"
+},
+{
+"text": "https://mcneillfornc.com/",
+"href": "https://mcneillfornc.com/"
+},
+{
+"text": "https://sydneybatch.com/",
+"href": "https://sydneybatch.com/"
+},
+{
+"text": "https://valeriejordan.com/",
+"href": "https://valeriejordan.com/"
+},
+{
+"text": "https://www.bode4senate.com/",
+"href": "https://www.bode4senate.com/"
+},
+{
+"text": "https://www.electmarkspeed.com/",
+"href": "https://www.electmarkspeed.com/"
+},
+{
+"text": "https://www.gibsonfornc.com/",
+"href": "https://www.gibsonfornc.com/"
+},
+{
+"text": "https://www.marciamorganforncsenate.com/",
+"href": "https://www.marciamorganforncsenate.com/"
+},
+{
+"text": "https://www.rachelhunt.com",
+"href": "https://www.rachelhunt.com"
+},
+{
+"text": "to me",
+"href": "https://mayfieldforncsenate.com/donate/"
+}
 ]

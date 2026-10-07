@@ -1,5 +1,10 @@
-Baltimore County Public Schools
-Allison Myers is the Executive Director of Special Education of Baltimore County Public Schools and can be reached at 443-809-9982 or by email at amyers2@bcps.org.
-Maryland Department of Education
-Teresa Dantzler is the Ombudsman of the Maryland Department of Education and worked directly with Local Education Agencies to assists parents with their education concerns and resolve issues.
-She can be reached at 410-767-0480 or by email at teresa.dantzler1@maryland.gov.
+0 Skip to Content Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Get Involved August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Open Menu Close Menu Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Get Involved August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Open Menu Close Menu Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Folder: Get Involved Back August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign WrightsLaw Provides up-to-date information about special education law and advocacy for children with disabilities for parents, advocates, teachers, and attorneys.
+The ARC Maryland The ARC is the largest statewide nonprofit organization dedicated to the rights and quality of life of persons with intellectual and developmental disabilities and their families.
+Disability Rights Maryland Disability Rights Maryland works to advance the legal rights of people with disabilities, provides free legal services to Marylanders of any age with all types of disabilities.
+Pathfinders for Autism Pathfinders for Autism supports individuals with autism through expansive, customized programming and provides resources, training and information free of charge.
+Maryland Infants & Toddlers Program The Maryland Infants and Toddlers Program directs a family-centered system of early intervention services for young children with developmental delays and disabilities and their families.
+Baltimore County Public Schools Allison Myers is the Executive Director of Special Education of Baltimore County Public Schools and can be reached at 443-809-9982 or by email at amyers2@bcps.org .
+Maryland Department of Education Teresa Dantzler is the Ombudsman of the Maryland Department of Education and worked directly with Local Education Agencies to assists parents with their education concerns and resolve issues.
+She can be reached at 410-767-0480 or by email at teresa.dantzler1@maryland.gov .
+Are You in District 42B?
+Get Your District Info View District Map By Authority: Michele Guyton for Baltimore County | Manda Simon, Treasurer

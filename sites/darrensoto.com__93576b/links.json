@@ -1,46 +1,198 @@
 [
-"http://x.com/darrensoto",
-"https://darrensoto.com/",
-"https://darrensoto.com/issues",
-"https://darrensoto.com/media",
-"https://darrensoto.com/new-map",
-"https://darrensoto.com/privacy-policy",
-"https://darrensoto.com/spanish",
-"https://darrensoto.com/support",
-"https://darrensoto.com/volunteer",
-"https://darrensoto.com/volunteer-1",
-"https://darrensoto.com/vote",
-"https://facebook.com/DarrenSotoFlorida",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093592286-GANCNQOEOIU7NCOFNBAH/League_of_Conservation_Voters_logo.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093592604-RFXK7ROCG0Y33UEWY75H/iaff-logo.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093593510-OX5V1HEMC68QBHT22OZL/Across+the+Aisle+PAC.jpeg",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093593590-42PPD8S5PF8I4JL3Z6N3/IW+%28Ironworkers%29.jpg",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093594747-88WFLRB47RNY6HKX45XS/IBEW+%28Electrical+Workers%29.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093595694-MEDWPBPB06WGPJ2Z3YVQ/AFT+%3A+NEA.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093596686-9GG28ES887D71CBOILI6/17a49171-2b09-4145-b1b6-74b82066b137.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093597330-J6OEOVLDC15SYOGZ90P5/UAW.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093737001-89QJ86NV25ZVAF3ZFOBE/SMART_logo.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093737020-KRBD5XYIBM8OW7LU4DPE/BAC.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093738004-RV6H4WK1O27XVHYKSJ7V/ua.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093738009-J6FMRQUHJ0IJTTGJAASM/twu-logo.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093739028-X29VRICPDRU88D0NP6XD/SEIU%2BFL%2BLogo.webp",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093739048-TDNAL2HMYDJ6V4SYB5SL/Teamsters_Union_Logo.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093740250-HZSIBZFB140TDWLVY9W6/NRLCA-Logo-color.jpg",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093741122-9271OJFF5YLN8MF2UK91/NATCA_Logo-1.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093741651-3Z30W7BOL0BS4NBA3R8O/NALC-color-logo.jpg",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093742162-6ZE4YHJTD7JZXO1IIR2S/LiUNA-Logo.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093742705-4FTZHKP4NH3VCHD08RY2/IUPAT_Logo_color.jpg",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093743130-CO8LLGEO0EDCHEVVQQAK/IUOE-logo.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093743830-8OGPBUMFHBO9PZDZ60WJ/IUEC+%28Elevator+Constructors%29.jpg",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093744183-6HYCYBOX0D4MH9U8L86E/ICSC-logo-tag-full-color.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093745010-G48P1XQHEUGQ2FK67IUO/IATSE_logo.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093745175-LR0GFZJFCL1DRRJWYD7A/IAMLogo_Gear__FullColor.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093746009-WR7OKIU766S2XRPO5R4Z/Communications_Workers_of_America.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093746102-HAPQ7B4YUUJWANLPCJOC/AFSCME+%28State%2C+County+and+Municipal+Employees%29.jpg",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093747100-5MP29WLP1BWR0G1FXKS9/Amalgamated+Transit+Union+-+COPE.jpeg",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093747169-HSZEK1S3YQGP9055F665/Actors%E2%80%99+Equity+Association+PAC.jpg",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1788892379382-A9TLQ8S4DYI0P049F0UJ/PAC.png",
-"https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1789076883260-YO2YMCMBOQCHBPUGDWA3/FLCM-PAC.png",
-"https://secure.actblue.com/contribute/page/soto?amount=9",
-"https://youtube.com/channel/UCMPJK6_8Qou5dZnmNPhk2gg"
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/contribute/page/soto?amount=9"
+},
+{
+"text": "Canvassing",
+"href": "https://www.darrensoto.com/volunteer"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/soto?amount=9"
+},
+{
+"text": "En Español",
+"href": "https://www.darrensoto.com/spanish"
+},
+{
+"text": "FOR FL-09 VOTERS",
+"href": "https://www.darrensoto.com/issues"
+},
+{
+"text": "Home",
+"href": "https://www.darrensoto.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.darrensoto.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.darrensoto.com/media"
+},
+{
+"text": "New FL-9 District Map",
+"href": "https://www.darrensoto.com/new-map"
+},
+{
+"text": "Organizational Support",
+"href": "https://www.darrensoto.com/support"
+},
+{
+"text": "Phone Banking",
+"href": "https://www.darrensoto.com/volunteer-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.darrensoto.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.darrensoto.com/volunteer"
+},
+{
+"text": "View fullsize [image: 17a49171-2b09-4145-b1b6-74b82066b137.png][image: 17a49171-2b09-4145-b1b6-74b82066b137.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093596686-9GG28ES887D71CBOILI6/17a49171-2b09-4145-b1b6-74b82066b137.png"
+},
+{
+"text": "View fullsize [image: AFSCME (State, County and Municipal Employees).jpg][image: AFSCME (State, County and Municipal Employees).jpg]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093746102-HAPQ7B4YUUJWANLPCJOC/AFSCME+%28State%2C+County+and+Municipal+Employees%29.jpg"
+},
+{
+"text": "View fullsize [image: AFT : NEA.png][image: AFT : NEA.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093595694-MEDWPBPB06WGPJ2Z3YVQ/AFT+%3A+NEA.png"
+},
+{
+"text": "View fullsize [image: Across the Aisle PAC.jpeg][image: Across the Aisle PAC.jpeg]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093593510-OX5V1HEMC68QBHT22OZL/Across+the+Aisle+PAC.jpeg"
+},
+{
+"text": "View fullsize [image: Actors’ Equity Association PAC.jpg][image: Actors’ Equity Association PAC.jpg]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093747169-HSZEK1S3YQGP9055F665/Actors%E2%80%99+Equity+Association+PAC.jpg"
+},
+{
+"text": "View fullsize [image: Amalgamated Transit Union - COPE.jpeg][image: Amalgamated Transit Union - COPE.jpeg]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093747100-5MP29WLP1BWR0G1FXKS9/Amalgamated+Transit+Union+-+COPE.jpeg"
+},
+{
+"text": "View fullsize [image: BAC.png][image: BAC.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093737020-KRBD5XYIBM8OW7LU4DPE/BAC.png"
+},
+{
+"text": "View fullsize [image: Communications_Workers_of_America.png][image: Communications_Workers_of_America.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093746009-WR7OKIU766S2XRPO5R4Z/Communications_Workers_of_America.png"
+},
+{
+"text": "View fullsize [image: FLCM-PAC.png][image: FLCM-PAC.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1789076883260-YO2YMCMBOQCHBPUGDWA3/FLCM-PAC.png"
+},
+{
+"text": "View fullsize [image: IAMLogo_Gear__FullColor.png][image: IAMLogo_Gear__FullColor.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093745175-LR0GFZJFCL1DRRJWYD7A/IAMLogo_Gear__FullColor.png"
+},
+{
+"text": "View fullsize [image: IATSE_logo.png][image: IATSE_logo.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093745010-G48P1XQHEUGQ2FK67IUO/IATSE_logo.png"
+},
+{
+"text": "View fullsize [image: IBEW (Electrical Workers).png][image: IBEW (Electrical Workers).png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093594747-88WFLRB47RNY6HKX45XS/IBEW+%28Electrical+Workers%29.png"
+},
+{
+"text": "View fullsize [image: ICSC-logo-tag-full-color.png][image: ICSC-logo-tag-full-color.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093744183-6HYCYBOX0D4MH9U8L86E/ICSC-logo-tag-full-color.png"
+},
+{
+"text": "View fullsize [image: IUEC (Elevator Constructors).jpg][image: IUEC (Elevator Constructors).jpg]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093743830-8OGPBUMFHBO9PZDZ60WJ/IUEC+%28Elevator+Constructors%29.jpg"
+},
+{
+"text": "View fullsize [image: IUOE-logo.png][image: IUOE-logo.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093743130-CO8LLGEO0EDCHEVVQQAK/IUOE-logo.png"
+},
+{
+"text": "View fullsize [image: IUPAT_Logo_color.jpg][image: IUPAT_Logo_color.jpg]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093742705-4FTZHKP4NH3VCHD08RY2/IUPAT_Logo_color.jpg"
+},
+{
+"text": "View fullsize [image: IW (Ironworkers).jpg][image: IW (Ironworkers).jpg]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093593590-42PPD8S5PF8I4JL3Z6N3/IW+%28Ironworkers%29.jpg"
+},
+{
+"text": "View fullsize [image: League_of_Conservation_Voters_logo.png][image: League_of_Conservation_Voters_logo.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093592286-GANCNQOEOIU7NCOFNBAH/League_of_Conservation_Voters_logo.png"
+},
+{
+"text": "View fullsize [image: LiUNA-Logo.png][image: LiUNA-Logo.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093742162-6ZE4YHJTD7JZXO1IIR2S/LiUNA-Logo.png"
+},
+{
+"text": "View fullsize [image: NALC-color-logo.jpg][image: NALC-color-logo.jpg]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093741651-3Z30W7BOL0BS4NBA3R8O/NALC-color-logo.jpg"
+},
+{
+"text": "View fullsize [image: NATCA_Logo-1.png][image: NATCA_Logo-1.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093741122-9271OJFF5YLN8MF2UK91/NATCA_Logo-1.png"
+},
+{
+"text": "View fullsize [image: NRLCA-Logo-color.jpg][image: NRLCA-Logo-color.jpg]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093740250-HZSIBZFB140TDWLVY9W6/NRLCA-Logo-color.jpg"
+},
+{
+"text": "View fullsize [image: PAC.png][image: PAC.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1788892379382-A9TLQ8S4DYI0P049F0UJ/PAC.png"
+},
+{
+"text": "View fullsize [image: SEIU+FL+Logo.webp][image: SEIU+FL+Logo.webp]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093739028-X29VRICPDRU88D0NP6XD/SEIU%2BFL%2BLogo.webp"
+},
+{
+"text": "View fullsize [image: SMART_logo.png][image: SMART_logo.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093737001-89QJ86NV25ZVAF3ZFOBE/SMART_logo.png"
+},
+{
+"text": "View fullsize [image: Teamsters_Union_Logo.png][image: Teamsters_Union_Logo.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093739048-TDNAL2HMYDJ6V4SYB5SL/Teamsters_Union_Logo.png"
+},
+{
+"text": "View fullsize [image: UAW.png][image: UAW.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093597330-J6OEOVLDC15SYOGZ90P5/UAW.png"
+},
+{
+"text": "View fullsize [image: iaff-logo.png][image: iaff-logo.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093592604-RFXK7ROCG0Y33UEWY75H/iaff-logo.png"
+},
+{
+"text": "View fullsize [image: twu-logo.png][image: twu-logo.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093738009-J6FMRQUHJ0IJTTGJAASM/twu-logo.png"
+},
+{
+"text": "View fullsize [image: ua.png][image: ua.png]",
+"href": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/1787093738004-RV6H4WK1O27XVHYKSJ7V/ua.png"
+},
+{
+"text": "Voting Information",
+"href": "https://www.darrensoto.com/vote"
+},
+{
+"text": "[image: Darren Soto]",
+"href": "https://www.darrensoto.com/"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/darrensoto"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DarrenSotoFlorida/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCMPJK6_8Qou5dZnmNPhk2gg"
+},
+{
+"text": "contribute",
+"href": "https://secure.actblue.com/contribute/page/soto?amount=9"
+}
 ]

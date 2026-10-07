@@ -1,5 +1,18 @@
 [
-"https://leerend.com/legal-notice",
-"https://leerend.com/privacy",
-"https://secure.winred.com/jon-lee-for-nd-house-district-47/donate-today"
+{
+"text": "Donate Now - Lee for ND",
+"href": "https://secure.winred.com/jon-lee-for-nd-house-district-47/donate-today"
+},
+{
+"text": "Legal Notice",
+"href": "https://leerend.com/legal-notice"
+},
+{
+"text": "Privacy Policy",
+"href": "https://leerend.com/privacy"
+},
+{
+"text": "[no text]",
+"href": "tel:"
+}
 ]

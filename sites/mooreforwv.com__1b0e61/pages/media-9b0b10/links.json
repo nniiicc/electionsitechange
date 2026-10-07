@@ -1,34 +1,130 @@
 [
-"http://x.com/rileymoorewv",
-"https://facebook.com/MooreforWV",
-"https://flickr.com/photos/200264091@N07",
-"https://flickr.com/photos/200264091@N07/53596866022",
-"https://flickr.com/photos/200264091@N07/53596866982",
-"https://flickr.com/photos/200264091@N07/53596867367",
-"https://flickr.com/photos/200264091@N07/53597740816",
-"https://flickr.com/photos/200264091@N07/53597741876",
-"https://flickr.com/photos/200264091@N07/53597742206",
-"https://flickr.com/photos/200264091@N07/53597951323",
-"https://flickr.com/photos/200264091@N07/53597951808",
-"https://flickr.com/photos/200264091@N07/53597954553",
-"https://flickr.com/photos/200264091@N07/53597955203",
-"https://flickr.com/photos/200264091@N07/53598069169",
-"https://flickr.com/photos/200264091@N07/53598069199",
-"https://flickr.com/photos/200264091@N07/53598069779",
-"https://flickr.com/photos/200264091@N07/53598070439",
-"https://flickr.com/photos/200264091@N07/53598197800",
-"https://flickr.com/photos/200264091@N07/53598197975",
-"https://flickr.com/photos/200264091@N07/53598198680",
-"https://flickr.com/photos/200264091@N07/53598199270",
-"https://flickr.com/photos/200264091@N07/53598200690",
-"https://flickr.com/photos/200264091@N07/53598201165",
-"https://instagram.com/moore4wv",
-"https://mooreforwv.com/",
-"https://mooreforwv.com/about",
-"https://mooreforwv.com/cart",
-"https://mooreforwv.com/contact",
-"https://mooreforwv.com/issues",
-"https://mooreforwv.com/media",
-"https://secure.winred.com/rileymoore/9693c415-c4aa-480e-9180-4dbc229c674b",
-"https://secure.winred.com/rileymoore/storefront"
+{
+"text": "0",
+"href": "https://www.mooreforwv.com/cart"
+},
+{
+"text": "Contact Us",
+"href": "https://www.mooreforwv.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/rileymoore/9693c415-c4aa-480e-9180-4dbc229c674b"
+},
+{
+"text": "Issues",
+"href": "https://www.mooreforwv.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.mooreforwv.com/media"
+},
+{
+"text": "Meet Riley",
+"href": "https://www.mooreforwv.com/about"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/rileymoore/storefront/"
+},
+{
+"text": "[image: 1][image: 1]",
+"href": "https://www.flickr.com/photos/200264091@N07/53598201165"
+},
+{
+"text": "[image: 2][image: 2]",
+"href": "https://www.flickr.com/photos/200264091@N07/53596866022"
+},
+{
+"text": "[image: DSC05462][image: DSC05462]",
+"href": "https://www.flickr.com/photos/200264091@N07/53598199270"
+},
+{
+"text": "[image: DSC05468][image: DSC05468]",
+"href": "https://www.flickr.com/photos/200264091@N07/53598070439"
+},
+{
+"text": "[image: DSC08462][image: DSC08462]",
+"href": "https://www.flickr.com/photos/200264091@N07/53598200690"
+},
+{
+"text": "[image: DSC08807][image: DSC08807]",
+"href": "https://www.flickr.com/photos/200264091@N07/53598069169"
+},
+{
+"text": "[image: DSC09359][image: DSC09359]",
+"href": "https://www.flickr.com/photos/200264091@N07/53598069199"
+},
+{
+"text": "[image: DSC09394][image: DSC09394]",
+"href": "https://www.flickr.com/photos/200264091@N07/53597951323"
+},
+{
+"text": "[image: DSC09399][image: DSC09399]",
+"href": "https://www.flickr.com/photos/200264091@N07/53598197800"
+},
+{
+"text": "[image: DSC09581][image: DSC09581]",
+"href": "https://www.flickr.com/photos/200264091@N07/53597740816"
+},
+{
+"text": "[image: FOP-Police Week 1_051622][image: FOP-Police Week 1_051622]",
+"href": "https://www.flickr.com/photos/200264091@N07/53597742206"
+},
+{
+"text": "[image: IMG_0311][image: IMG_0311]",
+"href": "https://www.flickr.com/photos/200264091@N07/53597741876"
+},
+{
+"text": "[image: MMC-3][image: MMC-3]",
+"href": "https://www.flickr.com/photos/200264091@N07/53596866982"
+},
+{
+"text": "[image: Moore for West Virginia]",
+"href": "https://www.mooreforwv.com/"
+},
+{
+"text": "[image: PB 1][image: PB 1]",
+"href": "https://www.flickr.com/photos/200264091@N07/53597954553"
+},
+{
+"text": "[image: PB 2][image: PB 2]",
+"href": "https://www.flickr.com/photos/200264091@N07/53597951808"
+},
+{
+"text": "[image: PB 3][image: PB 3]",
+"href": "https://www.flickr.com/photos/200264091@N07/53598197975"
+},
+{
+"text": "[image: Pierpont Jumpstart Trip-1_100622][image: Pierpont Jumpstart Trip-1_100622]",
+"href": "https://www.flickr.com/photos/200264091@N07/53598198680"
+},
+{
+"text": "[image: Pierpont Jumpstart Trip-2_100622][image: Pierpont Jumpstart Trip-2_100622]",
+"href": "https://www.flickr.com/photos/200264091@N07/53598069779"
+},
+{
+"text": "[image: WIGU 2022-3][image: WIGU 2022-3]",
+"href": "https://www.flickr.com/photos/200264091@N07/53597955203"
+},
+{
+"text": "[image: WVSTO Pregame 3][image: WVSTO Pregame 3]",
+"href": "https://www.flickr.com/photos/200264091@N07/53596867367"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/rileymoorewv"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MooreforWV"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/moore4wv"
+},
+{
+"text": "please click here.",
+"href": "https://flickr.com/photos/200264091@N07/"
+}
 ]

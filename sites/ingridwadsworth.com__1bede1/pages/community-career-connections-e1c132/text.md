@@ -1,7 +1,2 @@
-- Member of Impact100 Pensacola Bay
-- Member of Rotary Club of Navarre (and overall member for 23+ years)
-- Member of Milton Garden Club
-- Featured in the July 2025 edition of Pensacola Bella Magazine
-- Featured as one of Florida's most Influential Women 2026
-- Parishioner of St.
-Mary's Catholic Church, Fort Walton Beach
+Home Meet Ingrid Issues Community & Career Connections News Contribute Endorsements Member of Impact100 Pensacola Bay Member of Rotary Club of Navarre (and overall member for 23+ years) Member of Milton Garden Club Featured in the July 2025 edition of Pensacola Bella Magazine Featured as one of Florida's most Influential Women 2026 Parishioner of St.
+Mary's Catholic Church, Fort Walton Beach Voter Information Endorsements Yard Signs Photos Contact Ingrid Wadsworth for Florida House District 3 Powered by CampaignPartner.com - Political Websites Home Meet Ingrid Issues Endorsements Contribute News Yard Signs Contact Voter Information Close Menu

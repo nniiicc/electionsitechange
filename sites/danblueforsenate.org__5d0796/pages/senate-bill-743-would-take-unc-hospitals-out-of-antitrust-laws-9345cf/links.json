@@ -1,17 +1,66 @@
 [
-"https://axios.com/2023/05/03/north-carolina-bill-unc-hospitals-antitrust",
-"https://danblueforsenate.org/",
-"https://danblueforsenate.org/about",
-"https://danblueforsenate.org/category/bills",
-"https://danblueforsenate.org/category/news",
-"https://danblueforsenate.org/category/sourced",
-"https://danblueforsenate.org/issues",
-"https://danblueforsenate.org/news-and-events",
-"https://danblueforsenate.org/volunteer",
-"https://facebook.com/danbluenc",
-"https://medium.com/@DanBlueNC",
-"https://ncleg.gov/Sessions/2023/Bills/Senate/PDF/S743v2.pdf",
-"https://northcarolinahealthnews.org/2023/05/02/proposed-bill-unc-health-restructure-antitrust",
-"https://secure.actblue.com/donate/dan-blue-1",
-"https://twitter.com/DanBlueNC"
+{
+"text": "Bills",
+"href": "https://danblueforsenate.org/category/bills/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dan-blue-1"
+},
+{
+"text": "Follow",
+"href": "https://medium.com/@DanBlueNC"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/DanBlueNC"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/danbluenc"
+},
+{
+"text": "Home",
+"href": "https://danblueforsenate.org/"
+},
+{
+"text": "Issues",
+"href": "https://danblueforsenate.org/issues/"
+},
+{
+"text": "Meet Dan Blue",
+"href": "https://danblueforsenate.org/about/"
+},
+{
+"text": "NC Health News",
+"href": "https://www.northcarolinahealthnews.org/2023/05/02/proposed-bill-unc-health-restructure-antitrust/"
+},
+{
+"text": "News",
+"href": "https://danblueforsenate.org/category/news/"
+},
+{
+"text": "News and Events",
+"href": "https://danblueforsenate.org/news-and-events/"
+},
+{
+"text": "Read Article",
+"href": "https://www.axios.com/2023/05/03/north-carolina-bill-unc-hospitals-antitrust"
+},
+{
+"text": "SB 743",
+"href": "https://www.ncleg.gov/Sessions/2023/Bills/Senate/PDF/S743v2.pdf"
+},
+{
+"text": "Sourced",
+"href": "https://danblueforsenate.org/category/sourced/"
+},
+{
+"text": "Volunteer",
+"href": "https://danblueforsenate.org/volunteer/"
+},
+{
+"text": "[image: Dan Blue For Senate]",
+"href": "https://danblueforsenate.org/"
+}
 ]

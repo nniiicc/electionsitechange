@@ -1,11 +1,42 @@
 [
-"https://facebook.com/perrystambaugh",
-"https://voteperrystambaugh.com/",
-"https://voteperrystambaugh.com/86th-district",
-"https://voteperrystambaugh.com/about",
-"https://voteperrystambaugh.com/contact-us",
-"https://voteperrystambaugh.com/donate",
-"https://voteperrystambaugh.com/meet-perry",
-"https://voteperrystambaugh.com/search",
-"https://voteperrystambaugh.com/volunteer"
+{
+"text": "86th District",
+"href": "https://voteperrystambaugh.com/86th-district"
+},
+{
+"text": "About",
+"href": "https://voteperrystambaugh.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://voteperrystambaugh.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://voteperrystambaugh.com/donate"
+},
+{
+"text": "Home",
+"href": "https://voteperrystambaugh.com/"
+},
+{
+"text": "Meet Perry",
+"href": "https://voteperrystambaugh.com/meet-perry"
+},
+{
+"text": "Volunteer",
+"href": "https://voteperrystambaugh.com/volunteer"
+},
+{
+"text": "[image: Perry Stambaugh for State Representative]",
+"href": "https://voteperrystambaugh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://voteperrystambaugh.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/perrystambaugh"
+}
 ]

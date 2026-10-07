@@ -1,4 +1,4 @@
-When I ran for office in 2022, my campaign managers told me I’d be out knocking on thousands of doors over the coming months.
+Skip to content Home Biography The Issues The Facts Blog News FAQs Home Biography The Issues The Facts Blog News FAQs Home Biography The Issues The Facts Blog News FAQs CONTRIBUTE SHARE THIS POST: Facebook LinkedIn X Email Door Stories When I ran for office in 2022, my campaign managers told me I’d be out knocking on thousands of doors over the coming months.
 I said (and I quote), “WHAAAT?!” Maybe they didn’t realize that I went to school so that I wouldn’t have to earn a living going door to door, but here I am!
 The reality is that few constituents actually reach out to me to ask my position on a matter, to share their positions, or simply to get to know their representative.
 Since constituents don’t often come to me, I need to go to them.
@@ -26,3 +26,17 @@ I hope I steward those opportunities well.
 Tell me your story.
 Email me at brad.vongillern@leg.ne.gov and tell me what matters to you and your home.
 I’m glad to hear from you.
+VOLUNTEER DONATE Contact STAY INFORMED!
+You agree to receive text messages from Brad Von Gillern.
+Message & data rates may apply.
+Message frequency varies.
+Donations may be solicited.
+Reply STOP to opt-out, reply HELP for help.
+Subscribe Paid for by: von Gillern for Nebraska 18370 Honeysuckle Drive Elkhorn, NE 68022 www.vongillern4ne.com Facebook Copyright © # von Gillern for Nebraska.
+All rights reserved PRIVACY POLICY | TERMS & CONDITIONS Scroll Up JOIN THE TEAM!
+You agree to receive text messages from Brad Von Gillern.
+Message & data rates may apply.
+Message frequency varies.
+Donations may be solicited.
+Reply STOP to opt-out, reply HELP for help.
+JOIN

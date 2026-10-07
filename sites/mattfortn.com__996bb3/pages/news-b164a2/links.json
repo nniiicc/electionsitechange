@@ -1,47 +1,190 @@
 [
-"https://axios.com/local/nashville/2025/06/12/tennessee-district-seven-congress-mark-green",
-"https://axios.com/local/nashville/2025/10/03/on-eve-of-election-trump-backs-matt-van-epps-in-district-7-race",
-"https://clarksvillenow.com/local/congress-candidate-matt-van-epps-endorsed-by-trump-he-will-never-let-you-down",
-"https://clarksvillenow.com/local/mark-green-endorses-matt-van-epps-for-his-seat-in-congress-i-know-he-will-stand-up-for-tennessee-families",
-"https://clarksvillenow.com/local/rep-jay-reedy-wont-run-for-congress-mark-green-endorses-matt-van-epps",
-"https://clarksvilleonline.com/2025/08/28/montgomery-county-commissioner-michael-lankford-endorses-matt-van-epps-for-congress",
-"https://clarksvilleonline.com/2025/09/11/tennessee-district-attorney-robert-nash-endorses-matt-van-epps-says-border-security-key-to-tennessee-safety",
-"https://clarksvilleonline.com/2025/09/14/matt-van-epps-and-congressman-mark-green-host-meet-and-greet-at-clarksville-country-club",
-"https://facebook.com/p/Matt-Van-Epps-for-Congress-61576937085790",
-"https://fox17.com/news/local/mark-green-endorses-matt-van-epps-in-tennessee-race",
-"https://fox17.com/news/local/trumps-endorsement-of-van-epps-shakes-up-tennessees-7th-district-gop-primary-race",
-"https://foxnews.com/politics/mark-green-resigns-from-congress-further-shrinking-house-gop-majority",
-"https://foxnews.com/politics/tennessee-governor-backs-military-veteran-just-days-before-crowded-primary-election",
-"https://mattfortn.com/",
-"https://mattfortn.com/election-info",
-"https://mattfortn.com/endorsements",
-"https://mattfortn.com/issues",
-"https://mattfortn.com/meet-matt",
-"https://mattfortn.com/news",
-"https://mattfortn.com/press-releases/congressman-mark-green-endorses-matt-van.pdf",
-"https://mattfortn.com/press-releases/governor-bill-lee-endorses-matt-van.pdf",
-"https://mattfortn.com/press-releases/lee-julie-beaman-named-co-chairs-for.pdf",
-"https://mattfortn.com/press-releases/matt-van-epps-announces-run-for.pdf",
-"https://mattfortn.com/press-releases/matt-van-epps-assembles-battle-tested-ca.pdf",
-"https://mattfortn.com/privacy",
-"https://mattfortn.com/volunteer",
-"https://nashvillebanner.com/2025/06/11/van-epps-green-congressional-seat",
-"https://nashvillebanner.com/2025/09/12/tennessee-republican-campaign-ads-district-7",
-"https://nashvillebanner.com/2025/10/01/gov-bill-lee-matt-van-epps-endorsement",
-"https://nashvillepost.com/politics/elections/trump-endorses-van-epps-in-7th-congressional-district-race/article_1a00e1ff-f473-4a3b-8b1d-ba656ecb907f.html",
-"https://newsbreak.com/fort-worth-llc-333211895/4124699278749-rep-mark-green-resigns-from-congress-tightening-gop-house-majority",
-"https://newschannel5.com/news/president-trump-endorses-matt-van-epps-in-tennessees-7th-congressional-district-race",
-"https://pro.stateaffairs.com/tn/elections/7th-district-endorsement",
-"https://pro.stateaffairs.com/tn/news/campaign-trail-7th-district",
-"https://pro.stateaffairs.com/tn/news/van-epps-cabinet",
-"https://secure.winred.com/matt-van-epps-for-congress/donate",
-"https://tennessean.com/story/news/politics/2025/10/03/donald-trump-matt-van-epps-endorsement-congress/86501554007",
-"https://tennesseelookout.com/2025/06/10/potential-replacements-for-tennessee-u-s-rep-green-line-up",
-"https://tennesseelookout.com/briefs/trump-endorses-van-epps-in-middle-tennessee-u-s-house-race-reeves-drops-out",
-"https://tennesseestar.com/news/matt-van-epps-steps-away-from-lee-administration-to-run-for-tn-7-u-s-house-seat/khousler/2025/06/12",
-"https://thehill.com/homenews/campaign/5344370-jason-knight-mark-green-seat-tennessee",
-"https://theleafchronicle.com/story/opinion/contributors/2025/10/03/tennessee-7th-congressional-district-matt-van-epps/86485879007",
-"https://washingtonexaminer.com/news/campaigns/3470259/mark-green-endorses-matt-van-epps-congressional-seat",
-"https://williamsonscene.com/mark-green-stumps-for-van-epps-as-7th-congressional-district-early-voting-nears/article_c720865b-4dd5-4b9e-9586-b990ac8c0ab6.html",
-"https://x.com/MattForTN"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/matt-van-epps-for-congress/donate"
+},
+{
+"text": "Election Info",
+"href": "https://www.mattfortn.com/election-info"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mattfortn.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.mattfortn.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.mattfortn.com/issues"
+},
+{
+"text": "Meet Matt",
+"href": "https://www.mattfortn.com/meet-matt"
+},
+{
+"text": "News",
+"href": "https://www.mattfortn.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mattfortn.com/privacy"
+},
+{
+"text": "Read Article",
+"href": "https://clarksvillenow.com/local/congress-candidate-matt-van-epps-endorsed-by-trump-he-will-never-let-you-down/"
+},
+{
+"text": "Read Article",
+"href": "https://clarksvillenow.com/local/mark-green-endorses-matt-van-epps-for-his-seat-in-congress-i-know-he-will-stand-up-for-tennessee-families/"
+},
+{
+"text": "Read Article",
+"href": "https://clarksvillenow.com/local/rep-jay-reedy-wont-run-for-congress-mark-green-endorses-matt-van-epps/"
+},
+{
+"text": "Read Article",
+"href": "https://fox17.com/news/local/mark-green-endorses-matt-van-epps-in-tennessee-race"
+},
+{
+"text": "Read Article",
+"href": "https://fox17.com/news/local/trumps-endorsement-of-van-epps-shakes-up-tennessees-7th-district-gop-primary-race"
+},
+{
+"text": "Read Article",
+"href": "https://nashvillebanner.com/2025/06/11/van-epps-green-congressional-seat/"
+},
+{
+"text": "Read Article",
+"href": "https://nashvillebanner.com/2025/09/12/tennessee-republican-campaign-ads-district-7/"
+},
+{
+"text": "Read Article",
+"href": "https://nashvillebanner.com/2025/10/01/gov-bill-lee-matt-van-epps-endorsement/"
+},
+{
+"text": "Read Article",
+"href": "https://pro.stateaffairs.com/tn/elections/7th-district-endorsement"
+},
+{
+"text": "Read Article",
+"href": "https://pro.stateaffairs.com/tn/news/campaign-trail-7th-district"
+},
+{
+"text": "Read Article",
+"href": "https://pro.stateaffairs.com/tn/news/van-epps-cabinet"
+},
+{
+"text": "Read Article",
+"href": "https://tennesseelookout.com/2025/06/10/potential-replacements-for-tennessee-u-s-rep-green-line-up/"
+},
+{
+"text": "Read Article",
+"href": "https://tennesseelookout.com/briefs/trump-endorses-van-epps-in-middle-tennessee-u-s-house-race-reeves-drops-out/"
+},
+{
+"text": "Read Article",
+"href": "https://tennesseestar.com/news/matt-van-epps-steps-away-from-lee-administration-to-run-for-tn-7-u-s-house-seat/khousler/2025/06/12/"
+},
+{
+"text": "Read Article",
+"href": "https://thehill.com/homenews/campaign/5344370-jason-knight-mark-green-seat-tennessee/"
+},
+{
+"text": "Read Article",
+"href": "https://www.axios.com/local/nashville/2025/06/12/tennessee-district-seven-congress-mark-green"
+},
+{
+"text": "Read Article",
+"href": "https://www.axios.com/local/nashville/2025/10/03/on-eve-of-election-trump-backs-matt-van-epps-in-district-7-race"
+},
+{
+"text": "Read Article",
+"href": "https://www.clarksvilleonline.com/2025/08/28/montgomery-county-commissioner-michael-lankford-endorses-matt-van-epps-for-congress/"
+},
+{
+"text": "Read Article",
+"href": "https://www.clarksvilleonline.com/2025/09/11/tennessee-district-attorney-robert-nash-endorses-matt-van-epps-says-border-security-key-to-tennessee-safety/"
+},
+{
+"text": "Read Article",
+"href": "https://www.clarksvilleonline.com/2025/09/14/matt-van-epps-and-congressman-mark-green-host-meet-and-greet-at-clarksville-country-club"
+},
+{
+"text": "Read Article",
+"href": "https://www.foxnews.com/politics/mark-green-resigns-from-congress-further-shrinking-house-gop-majority"
+},
+{
+"text": "Read Article",
+"href": "https://www.foxnews.com/politics/tennessee-governor-backs-military-veteran-just-days-before-crowded-primary-election"
+},
+{
+"text": "Read Article",
+"href": "https://www.nashvillepost.com/politics/elections/trump-endorses-van-epps-in-7th-congressional-district-race/article_1a00e1ff-f473-4a3b-8b1d-ba656ecb907f.html"
+},
+{
+"text": "Read Article",
+"href": "https://www.newsbreak.com/fort-worth-llc-333211895/4124699278749-rep-mark-green-resigns-from-congress-tightening-gop-house-majority"
+},
+{
+"text": "Read Article",
+"href": "https://www.newschannel5.com/news/president-trump-endorses-matt-van-epps-in-tennessees-7th-congressional-district-race"
+},
+{
+"text": "Read Article",
+"href": "https://www.tennessean.com/story/news/politics/2025/10/03/donald-trump-matt-van-epps-endorsement-congress/86501554007/"
+},
+{
+"text": "Read Article",
+"href": "https://www.theleafchronicle.com/story/opinion/contributors/2025/10/03/tennessee-7th-congressional-district-matt-van-epps/86485879007/"
+},
+{
+"text": "Read Article",
+"href": "https://www.washingtonexaminer.com/news/campaigns/3470259/mark-green-endorses-matt-van-epps-congressional-seat/"
+},
+{
+"text": "Read Article",
+"href": "https://www.williamsonscene.com/mark-green-stumps-for-van-epps-as-7th-congressional-district-early-voting-nears/article_c720865b-4dd5-4b9e-9586-b990ac8c0ab6.html"
+},
+{
+"text": "View PDF",
+"href": "https://www.mattfortn.com/press-releases/congressman-mark-green-endorses-matt-van.pdf"
+},
+{
+"text": "View PDF",
+"href": "https://www.mattfortn.com/press-releases/governor-bill-lee-endorses-matt-van.pdf"
+},
+{
+"text": "View PDF",
+"href": "https://www.mattfortn.com/press-releases/lee-julie-beaman-named-co-chairs-for.pdf"
+},
+{
+"text": "View PDF",
+"href": "https://www.mattfortn.com/press-releases/matt-van-epps-announces-run-for.pdf"
+},
+{
+"text": "View PDF",
+"href": "https://www.mattfortn.com/press-releases/matt-van-epps-assembles-battle-tested-ca.pdf"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mattfortn.com/volunteer"
+},
+{
+"text": "[image: Matt Van Epps for Congress Logo]",
+"href": "https://www.mattfortn.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/p/Matt-Van-Epps-for-Congress-61576937085790/"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://x.com/MattForTN"
+},
+{
+"text": "alex@mattfortn.com",
+"href": "mailto:alex@mattfortn.com"
+}
 ]

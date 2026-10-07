@@ -1,51 +1,218 @@
 [
-"http://event/",
-"https://calendar.google.com/calendar/r/eventedit?text=Campaign+Kickoff&details=Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Som&location=+1+E+Edenton+St%2C+Raleigh%2C+NC+27601&sf=true&dates=20240222T230000%2F20261006T000000",
-"https://calendar.yahoo.com/?v=60&view=d&type=20&title=Campaign+Kickoff&st=20240222T230000&et=20261006T000000&desc=Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Som&in_loc=+1+E+Edenton+St%2C+Raleigh%2C+NC+27601",
-"https://facebook.com/LPofNC",
-"https://facebook.com/people/Jonathan-Miller-for-Liberty/100072275899477",
-"https://instagram.com/jonathan_the_politician",
-"https://lp.org/",
-"https://lpnc.org/",
-"https://miller.wakeupliberty.com/news",
-"https://miller.wakeupliberty.com/privacy-policy",
-"https://miller.wakeupliberty.com/take-action/donate",
-"https://miller.wakeupliberty.com/take-action/volunteer",
-"https://miller4ncsenate.org/",
-"https://miller4ncsenate.org/?etn_action=download_ics&event_id=1901",
-"https://miller4ncsenate.org/cookie-policy",
-"https://miller4ncsenate.org/etn_category/campaign",
-"https://miller4ncsenate.org/etn_category/fundraiser",
-"https://miller4ncsenate.org/events",
-"https://miller4ncsenate.org/meet",
-"https://miller4ncsenate.org/meet/district",
-"https://miller4ncsenate.org/meet/people-not-politics",
-"https://miller4ncsenate.org/news",
-"https://miller4ncsenate.org/priorities",
-"https://miller4ncsenate.org/priorities/abolish-the-abc",
-"https://miller4ncsenate.org/priorities/cost-effective-conservation",
-"https://miller4ncsenate.org/priorities/cost-effective-healthcare",
-"https://miller4ncsenate.org/priorities/defend-the-guard",
-"https://miller4ncsenate.org/priorities/electoral-reform-gerrymandering",
-"https://miller4ncsenate.org/priorities/electoral-reform-independent-voters",
-"https://miller4ncsenate.org/priorities/electoral-reform-instant-runoff-voting",
-"https://miller4ncsenate.org/priorities/expanded-housing-market",
-"https://miller4ncsenate.org/priorities/restorative-justice",
-"https://miller4ncsenate.org/priorities/smarter-education",
-"https://miller4ncsenate.org/priorities/stronger-economy",
-"https://miller4ncsenate.org/take-action",
-"https://miller4ncsenate.org/take-action/donate",
-"https://miller4ncsenate.org/take-action/volunteer",
-"https://miller4ncsenate.org/take-action/when-where-to-vote",
-"https://ncsbe.gov/voting/upcoming-election",
-"https://ncsbe.gov/voting/vote-early-person",
-"https://ncsbe.gov/voting/voter-lookup",
-"https://outlook.live.com/calendar/0/deeplink/compose?rru=addevent&startdt=2024-02-22T22%3A00%3A00&allday=false&subject=Campaign+Kickoff&body=Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Som",
-"https://tiktok.com/@miller4ncsenate",
-"https://twitter.com/LPNC",
-"https://vote.gov/register/nc",
-"https://vt.ncsbe.gov/pplkup",
-"https://wakelp.org/",
-"https://x.com/JDM4NC",
-"https://youtube.com/@miller4ncsenate"
+{
+"text": "Abolish the ABC!",
+"href": "https://miller4ncsenate.org/priorities/abolish-the-abc/"
+},
+{
+"text": "Apple",
+"href": "https://miller4ncsenate.org/?etn_action=download_ics&event_id=1901"
+},
+{
+"text": "Campaign",
+"href": "https://miller4ncsenate.org/etn_category/campaign/"
+},
+{
+"text": "Contribute",
+"href": "https://miller.wakeupliberty.com/take-action/donate/"
+},
+{
+"text": "Cost-effective Conservation",
+"href": "https://miller4ncsenate.org/priorities/cost-effective-conservation/"
+},
+{
+"text": "Cost-effective Healthcare",
+"href": "https://miller4ncsenate.org/priorities/cost-effective-healthcare/"
+},
+{
+"text": "Defend The Guard",
+"href": "https://miller4ncsenate.org/priorities/defend-the-guard/"
+},
+{
+"text": "Donate",
+"href": "https://miller4ncsenate.org/take-action/donate/"
+},
+{
+"text": "Donate Go",
+"href": "https://miller4ncsenate.org/take-action/donate"
+},
+{
+"text": "Early Voting",
+"href": "https://www.ncsbe.gov/voting/vote-early-person"
+},
+{
+"text": "Election Day",
+"href": "https://www.ncsbe.gov/voting/upcoming-election"
+},
+{
+"text": "Electoral Reform — Gerrymandering",
+"href": "https://miller4ncsenate.org/priorities/electoral-reform-gerrymandering/"
+},
+{
+"text": "Electoral Reform — Independent Voters",
+"href": "https://miller4ncsenate.org/priorities/electoral-reform-independent-voters/"
+},
+{
+"text": "Electoral Reform — Instant Runoff Voting",
+"href": "https://miller4ncsenate.org/priorities/electoral-reform-instant-runoff-voting/"
+},
+{
+"text": "Envelope",
+"href": "mailto:contact@miller4ncsenate.org"
+},
+{
+"text": "Events",
+"href": "http://event"
+},
+{
+"text": "Events",
+"href": "https://miller4ncsenate.org/events/"
+},
+{
+"text": "Expanded Housing Market",
+"href": "https://miller4ncsenate.org/priorities/expanded-housing-market/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/people/Jonathan-Miller-for-Liberty/100072275899477/"
+},
+{
+"text": "Fundraiser",
+"href": "https://miller4ncsenate.org/etn_category/fundraiser/"
+},
+{
+"text": "Google",
+"href": "https://calendar.google.com/calendar/r/eventedit?text=Campaign+Kickoff&details=Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Som&location=+1+E+Edenton+St%2C+Raleigh%2C+NC+27601&sf=true&dates=20240222T230000%2F20261008T000000"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/jonathan_the_politician/"
+},
+{
+"text": "LP National website",
+"href": "https://www.lp.org"
+},
+{
+"text": "LPNC Facebook",
+"href": "https://www.facebook.com/LPofNC/"
+},
+{
+"text": "LPNC Twitter",
+"href": "https://twitter.com/LPNC"
+},
+{
+"text": "LPNC website",
+"href": "https://www.lpnc.org"
+},
+{
+"text": "Meet",
+"href": "https://miller4ncsenate.org/meet/"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://miller4ncsenate.org/meet/"
+},
+{
+"text": "NC Senate 16",
+"href": "https://miller4ncsenate.org/meet/district/"
+},
+{
+"text": "News",
+"href": "https://miller.wakeupliberty.com/news/"
+},
+{
+"text": "News",
+"href": "https://miller4ncsenate.org/news/"
+},
+{
+"text": "Outlook",
+"href": "https://outlook.live.com/calendar/0/deeplink/compose?rru=addevent&enddt=&startdt=%23T22%3A00%3A00&allday=false&subject=Campaign+Kickoff&body=Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Som"
+},
+{
+"text": "People. not Politics.",
+"href": "https://miller4ncsenate.org/meet/people-not-politics/"
+},
+{
+"text": "Polling Stations",
+"href": "https://vt.ncsbe.gov/pplkup/"
+},
+{
+"text": "Priorities",
+"href": "https://miller4ncsenate.org/priorities/"
+},
+{
+"text": "Restorative Justice",
+"href": "https://miller4ncsenate.org/priorities/restorative-justice/"
+},
+{
+"text": "Smarter Education",
+"href": "https://miller4ncsenate.org/priorities/smarter-education/"
+},
+{
+"text": "Stronger Economy",
+"href": "https://miller4ncsenate.org/priorities/stronger-economy/"
+},
+{
+"text": "Take Action",
+"href": "https://miller4ncsenate.org/take-action/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@miller4ncsenate"
+},
+{
+"text": "Volunteer",
+"href": "https://miller.wakeupliberty.com/take-action/volunteer/"
+},
+{
+"text": "Volunteer",
+"href": "https://miller4ncsenate.org/take-action/volunteer/"
+},
+{
+"text": "Voter Lookup",
+"href": "https://www.ncsbe.gov/voting/voter-lookup"
+},
+{
+"text": "Voter Registration",
+"href": "https://vote.gov/register/nc/"
+},
+{
+"text": "WakeLP website",
+"href": "https://wakelp.org"
+},
+{
+"text": "When & Where to Vote",
+"href": "https://miller4ncsenate.org/take-action/when-where-to-vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/JDM4NC"
+},
+{
+"text": "Yahoo",
+"href": "https://calendar.yahoo.com/?v=60&view=d&type=20&title=Campaign+Kickoff&st=20240222T230000&et=20261008T000000&desc=Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Some+info+for+campaign+event+Som&in_loc=+1+E+Edenton+St%2C+Raleigh%2C+NC+27601"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@miller4ncsenate"
+},
+{
+"text": "[image]",
+"href": "https://miller4ncsenate.org"
+},
+{
+"text": "[image]",
+"href": "https://miller4ncsenate.org/"
+},
+{
+"text": "[no text]",
+"href": "tel:%E2%80%AA919-298-0240%E2%80%AC"
+},
+{
+"text": "contact@miller4ncsenate.org",
+"href": "mailto:contact@miller4ncsenate.org"
+},
+{
+"text": "‪919-298-0240‬",
+"href": "tel:%E2%80%AA919-298-0240%E2%80%AC"
+}
 ]

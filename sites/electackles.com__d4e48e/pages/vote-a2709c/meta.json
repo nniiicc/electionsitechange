@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://electackles.com/vote",
- "paid_for_by": null,
+ "fingerprint": "2b5b0adadbca9667d18e578d5675a6a897dcef39",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

@@ -1,9 +1,6 @@
-A Proven Champion for Middle and Southwest Georgia
-Congressman Sanford Bishop is serving his sixteenth term in the United States House of Representatives, representing the constituents of the Second Congressional District of Georgia.
+28th Annual Sanford Bishop Golf Classic About Issues Videos News Volunteer About Issues Videos News Volunteer Get Involved Donate Golf classic About Congressman Bishop A Proven Champion for Middle and Southwest Georgia Congressman Sanford Bishop is serving his sixteenth term in the United States House of Representatives, representing the constituents of the Second Congressional District of Georgia.
 A consensus builder that works with members on both sides of the aisle, Congressman Bishop is uniquely dedicated to his constituents and has demonstrated himself as a leader inside of Congress.
-Representing Middle and Southwest Georgia, Congressman Bishop defines his goal in public service as “seeking a higher, better quality of life for all citizens by promoting jobs and a stronger, more diversified economy, a better educated population, safe and secure communities free of crime and drugs, a clean environment, affordable and accessible health care, a safe food supply, energy independence, and a strong national defense — all within the context of a balanced budget.”
-A Moderating Voice in Congress
-Congressman Bishop serves as a senior member of the powerful House Committee on Appropriations.
+Representing Middle and Southwest Georgia, Congressman Bishop defines his goal in public service as “seeking a higher, better quality of life for all citizens by promoting jobs and a stronger, more diversified economy, a better educated population, safe and secure communities free of crime and drugs, a clean environment, affordable and accessible health care, a safe food supply, energy independence, and a strong national defense — all within the context of a balanced budget.” A Moderating Voice in Congress Congressman Bishop serves as a senior member of the powerful House Committee on Appropriations.
 In 2019, at the beginning of the 116th Congress, he was elected by his colleagues to serve as the Chairman of the House Appropriations Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies.
 In the 118th Congress, he now serves as the top Democrat and Ranking member on this subcommittee.
 Congressman Bishop also serves on the House Appropriations Subcommittee on Military Construction, Veterans Affairs, and Related Agencies Appropriations Subcommittee.
@@ -26,15 +23,13 @@ King and legislation to rename the main post office in Albany for Dr.
 Walter Carl Gordon, Jr.
 He has supported bills to expand and improve the Andersonville and Jimmy Carter Historic Sites, as well as efforts to sustain and build new structures at the Second District’s military installations, including Fort Benning in Columbus and the Marine Corps Logistics Base (MCLB) in Albany.
 He supported the minting of a commemorative coin honoring the United States Army Infantry, with a portion of the proceeds supporting Columbus’ National Infantry Museum and Soldier Center.
-History of Experience
-For more than three decades, Bishop has served the people of Georgia as an elected official, first in the Georgia House of Representatives from 1977 to 1990, followed by the Georgia Senate from 1991-1992, and currently in the U.S.
+History of Experience For more than three decades, Bishop has served the people of Georgia as an elected official, first in the Georgia House of Representatives from 1977 to 1990, followed by the Georgia Senate from 1991-1992, and currently in the U.S.
 House of Representatives since his election in 1992.
 A graduate of Morehouse College and Emory Law School, Congressman Bishop is an Eagle Scout, as well as a recipient of the Distinguished Eagle Scout Award, a 33rd Degree Mason (PHA), and a Shriner.
 He enlisted into the U.S.
 Army in 1969 and successfully completed basic training at Fort Benning, Georgia.
 He then enrolled in Advanced Reserve Officer Training Corps (ROTC) training and later received an Honorable Discharge in 1971.
-Family and Heritage
-Bishop is a resident of Albany, Georgia, where he is a Deacon and Trustee of the Mount Zion Baptist Church.
+Family and Heritage Bishop is a resident of Albany, Georgia, where he is a Deacon and Trustee of the Mount Zion Baptist Church.
 He is the son of the late Dr.
 Sanford D.
 Bishop, Sr., the first president of Bishop State Community College in Mobile, Alabama, and the late Mrs.
@@ -43,3 +38,5 @@ Bishop, a librarian.
 Congressman Sanford Bishop is married to the Honorable Vivian Creighton Bishop, who is serving as the elected Clerk of the Municipal Court of Columbus, Georgia (court administrator).
 They have a daughter, Aayesha J.
 Reese and a granddaughter, Londyn.
+Join Our Campaign Return Home Home About Issues Videos News Volunteer Home About Issues Videos News Volunteer Donate Facebook Twitter Paid for by Sanford Bishop for Congress P.o.
+Box 909 Columbus, GA 31902 Privacy Policy © # Site by BCom Solutions, LLC About Issues Videos News Volunteer About Issues Videos News Volunteer Golf Classic rsvp Get Involved Donate

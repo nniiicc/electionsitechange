@@ -1,2 +1,5 @@
-María Elvira Salazar, legisladora del Partido Republicano, publicó varios mensajes lamentando la elección de Gustavo Petro como presidente de Colombia.
+English Seguirnos en las redes sociales: In English Donar Biografía Políticas Donde Votar Únete al Equipo Noticias Tienda Online Biografía Políticas Donde Votar Únete al Equipo Noticias Tienda Online In English Donar En las Noticias: Legisladora republicana María Elvira Salazar arremete contra Petro September 29 2022 Compartir CNN en Español María Elvira Salazar, legisladora del Partido Republicano, publicó varios mensajes lamentando la elección de Gustavo Petro como presidente de Colombia .
 Juan Carlos López dialoga con Michael Shifter, expresidente del centro de pensamiento Diálogo Interamericano, sobre el alcance de estas declaraciones.
+Biografía Políticas Donde Votar Únete al Equipo Noticias Tienda Online Donar Name * First Correo Electrónico * Número de Teléfono * Ciudad Δ This iframe contains the logic required to handle Ajax powered Gravity Forms.
+Seguirnos en las redes sociales: © # Maria Elvira Salazar for Congress PO Box 3725 West Flagler St.
+#281 Miami, FL 33134 General Information: +1 (305) 338-3586 Contributions: +1 (305) 713-4327 Email: info@salazar27.com Press: press@salazar27.com POLÍTICA DE PRIVACIDAD Pagado por Salazar for Congress

@@ -1,15 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Online+Town+Hall%2FQ%26amp%3BA&dates=20260527T230000Z%2F20260528T000000Z",
-"https://secure.anedot.com/friends-of-zebulon-featherly",
-"https://zebulonforcongress.com/",
-"https://zebulonforcongress.com/cart",
-"https://zebulonforcongress.com/contact-us",
-"https://zebulonforcongress.com/events",
-"https://zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n-y2f82-5y9bk-fjtxb-dl8g8",
-"https://zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n-y2f82-5y9bk-fjtxb-dl8g8-5zk3b",
-"https://zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n-y2f82-5y9bk?format=ical",
-"https://zebulonforcongress.com/my-story",
-"https://zebulonforcongress.com/statements",
-"https://zebulonforcongress.com/transparency",
-"https://zebulonforcongress.com/where-i-stand"
+{
+"text": "0",
+"href": "https://www.zebulonforcongress.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Contact Us",
+"href": "https://www.zebulonforcongress.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-zebulon-featherly"
+},
+{
+"text": "Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Online+Town+Hall%2FQ%26amp%3BA&dates=20260527T230000Z%2F20260528T000000Z"
+},
+{
+"text": "Home",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n-y2f82-5y9bk?format=ical"
+},
+{
+"text": "My Story",
+"href": "https://www.zebulonforcongress.com/my-story"
+},
+{
+"text": "Next Next June 10 CANCELED Online Town Hall",
+"href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n-y2f82-5y9bk-fjtxb-dl8g8-5zk3b"
+},
+{
+"text": "No Party Just People",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "Previous Previous May 13 Online Town Hall/Q&A",
+"href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n-y2f82-5y9bk-fjtxb-dl8g8"
+},
+{
+"text": "Statements",
+"href": "https://www.zebulonforcongress.com/statements"
+},
+{
+"text": "Transparency",
+"href": "https://www.zebulonforcongress.com/transparency"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.zebulonforcongress.com/where-i-stand"
+}
 ]

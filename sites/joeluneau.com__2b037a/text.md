@@ -1,6 +1,5 @@
-top of page
-Meet Joe
-Joe Luneau is a lifelong resident of the City of St.
+top of page Home Issues News Get Involved Donate More Use tab to navigate through the menu items.
+Meet Joe Joe Luneau is a lifelong resident of the City of St.
 Albans.
 He attended St.
 Albans City School, graduated from BFA St.
@@ -13,4 +12,6 @@ Joe is a Trustee and Treasurer of the St.
 Albans Museum and was appointed by Governor Scott to the Vermont Advisory Council on Historical Preservation.
 Joe is the Director of Operations for a family-owned business and lives in St.
 Albans with his sons Charlie and Sam.
-bottom of page
+Sign up for Updates from Joe Join Paid for by Joe Luneau for State Representative | 60 Smith Street, St.
+Albans, VT 05478 ©# by Joe Luneau for State Rep.
+Proudly created with Wix.com bottom of page

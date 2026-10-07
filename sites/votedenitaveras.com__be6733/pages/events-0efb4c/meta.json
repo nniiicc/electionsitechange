@@ -1,7 +1,19 @@
 {
  "description": "Find out what Deni's up to and what you can do to help!",
  "final_url": "https://votedenitaveras.com/events",
- "paid_for_by": null,
- "title": "EVENTS \u2014 Vote Deni Taveras 2026",
- "years_mentioned": []
+ "fingerprint": "7df50df55fc70e9904d43238bb25f4fb3ecfaf0c",
+ "format": 3,
+ "paid_for_by": "sponsored by the beautiful ladies of the Alpha Kappa Alpha Sorority, Iota Gamma Omega Chapter, and the wonderful gentlemen of the Alpha Phi Alpha Fraternity, Pi Upsilon Lam",
+ "title": "EVENTS — Vote Deni Taveras 2026",
+ "years_mentioned": [
+  "2014",
+  "2015",
+  "2016",
+  "2017",
+  "2021",
+  "2022",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

@@ -1,4 +1,8 @@
-Endorsed by American Federation of Teachers-New Hampshire on July 29,2026.
+Skip to content Facebook Twitter Home Legislative Community In the News Endorsements Blog Home Legislative Community In the News Endorsements Blog Close Donate Endorsements Endorsed by American Federation of Teachers-New Hampshire on July 29,2026.
 The AFT, an affiliate of the AFL-CIO, was founded in 1916 and today represents 1.875 million members in more than 3,000 local affiliates nationwide.
 The AFT is a union of professionals that champions fairness; democracy; economic opportunity; and high-quality public education, healthcare and public services for our students, their families and our communities.
-Read here 2026 American Federation of Teachers-NH – Endorsement Questionnaire Response
+Read here 2026 American Federation of Teachers-NH – Endorsement Questionnaire Response Endorsed by 314 Action on July 22, 2026 314 Action is a national organization working to elect scientists across all evels of government—from the Senate down to local school boards.
+Theorganization is powered by a grassroots community of over six million peoplesupporting scientists, doctors, and STEM professionals who will use science and facts to address our most pressing issues like climate change and health care.
+Endorsed by Impact on September 25, 2026 “ Manoj Chourasia has spent decades giving back to Nashua, from his work with the Nashua Soup Kitchen and Homeless Shelter to two decades of leadership with the India Association of New Hampshire.
+In the legislature, he’s brought that same neighbor-to-neighbor focus to lowering costs, strengthening public education, and expanding housing for working families.
+We’re proud to endorse Manoj for re-election to the New Hampshire House, and confident he’ll keep delivering for Nashua’s diverse communities.” – Chintan Patel, Executive Director, Indian American Impact Facebook Twitter YouTube Paid for by Chourasia for NH, Manoj Chourasia, Fiscal Agent : 43 Scott Ave, Nashua, NH

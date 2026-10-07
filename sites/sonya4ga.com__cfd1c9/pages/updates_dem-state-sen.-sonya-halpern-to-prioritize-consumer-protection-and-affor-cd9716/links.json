@@ -1,14 +1,62 @@
 [
-"http://linkedin.com/in/sonyahalpern",
-"https://facebook.com/sonya4GA",
-"https://instagram.com/sonyahalpern_",
-"https://secure.ngpvan.com/tVnkNvizTku2eLZU7dQG_A2",
-"https://sonyahalpern.com/",
-"https://sonyahalpern.com/connect",
-"https://sonyahalpern.com/leadership",
-"https://sonyahalpern.com/meet-sonya-1",
-"https://sonyahalpern.com/news-2",
-"https://sonyahalpern.com/priorities",
-"https://sonyahalpern.com/vote",
-"https://x.com/SonyaHalpern_"
+{
+"text": "Connect",
+"href": "https://www.sonyahalpern.com/connect"
+},
+{
+"text": "DONATE",
+"href": "https://secure.ngpvan.com/tVnkNvizTku2eLZU7dQG_A2"
+},
+{
+"text": "Home",
+"href": "https://www.sonyahalpern.com"
+},
+{
+"text": "Leadership",
+"href": "https://www.sonyahalpern.com/leadership"
+},
+{
+"text": "Meet Sonya",
+"href": "https://www.sonyahalpern.com/meet-sonya-1"
+},
+{
+"text": "Priorities",
+"href": "https://www.sonyahalpern.com/priorities"
+},
+{
+"text": "Read Original Article",
+"href": "https://www.commondreams.org/opinion/leaders-are-stewards"
+},
+{
+"text": "Updates",
+"href": "https://www.sonyahalpern.com/news-2"
+},
+{
+"text": "Vote",
+"href": "https://www.sonyahalpern.com/vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/sonya4GA"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/sonyahalpern_/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "http://linkedin.com/in/sonyahalpern"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/SonyaHalpern_"
+},
+{
+"text": "[no text]",
+"href": "https://www.sonyahalpern.com"
+},
+{
+"text": "sonya@sonya4ga.com",
+"href": "mailto:sonya@sonya4ga.com"
+}
 ]

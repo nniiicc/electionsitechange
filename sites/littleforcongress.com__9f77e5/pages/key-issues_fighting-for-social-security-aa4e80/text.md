@@ -1,7 +1,9 @@
-Securing for Our Seniors
-For as long as I have been alive, out-of-touch politicians have been trying to gut our Social Security and Medicare to fund tax cuts for the wealthy; today is no different.
+Skip to main content Skip to header right navigation Skip to site footer The ONLY CD2 candidate endorsed by the Minnesota DFL – Democratic Party Matt Little for Congress District 2 Minnesota Search...
+Search site Submit search Menu Meet Matt Endorsements Key Issues About District 2 Get Involved For Media Yard Sign Donate Fighting for Social Security Securing for Our Seniors For as long as I have been alive, out-of-touch politicians have been trying to gut our Social Security and Medicare to fund tax cuts for the wealthy; today is no different.
 Despite repeated promises they won’t touch Social Security or Medicare, recent staff cuts have crippled services for Social Security, and refused to allow Medicare to negotiate drug prices on behalf of our seniors—the people who paid into the system and deserve the benefit.
 It is time to raise the cap on Social Security taxation to stabilize the trust fund and guarantee that Social Security will be truly secure for generations.
 If we allow Medicare to negotiate with big pharma over drug prices, we will lower the deficit and inflation at the same time.
 And on Medicaid, I will oppose any effort to throw the over 100,000 residents of CD2 off a system helping them survive and keeping our rural hospitals afloat.
 If we manage our federal debt through a balance of economic growth, changes to the tax code, and a more efficient government, we can protect these vital programs and make them stronger for the future.
+More Key Issues Fighting for Fair Student Loans I’m running to fix our broken student loan system, fighting for fairness, accountability, and real … Fighting for Safe Neighborhoods I’m supporting the brave individuals who keep our neighborhoods safe while ensuring they have the … Fighting for Rural America I’m standing up for family farmers who feed our nation but are too often undercut by policies that … Join Matt’s campaign today.
+Donate Facebook Instagram X TikTok Bluesky Paid for by Matt Little for Congress Copyright © # | Privacy Policy | Contact Us Matt Little for Congress – PO Box 397 – Lakeville, MN 55044

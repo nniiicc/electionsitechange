@@ -1,27 +1,4 @@
-Labor Unions:
-| APWU Local 7098 | Plumbers Local 690 |
-| Boilermakers Local 13 | Operating Engineers |
-| Bricklayers Local 1 | PGW Local 686 |
-| Communication Workers Local 13000 | Sheet Metal Workers |
-| FOP Lodge 5 | Sprinkler Fitters Local 692 |
-| FOP Lodge 37 | Steamfitters Local 420 |
-| IATSE Local 8 | Teamsters |
-| IBEW Local 98 | Transport Workers Union Local 234 |
-| Insulators Local 14 | UNITE HERE |
-| Iron Workers Local 401 | United Steel Workers |
-| Iron Workers Local 405 | |
-Elected Official Endorsements:
-| Philadelphia Controller Alan Butkovitz |
-| Congressional Black Caucus Chair, Congressman Gregory Meeks |
-| U.S.
-House Democratic Caucus Chair, Congressman Hakeem Jeffries |
-| Congressman Bob Brady |
-| State Representative Ed Neilson |
-| State Representative Kevin Boyle |
-Local Committees:
-Philadelphia City Democratic Committee
-Other Organizations:
-Congressional Black Caucus PAC
-Sierra Club
-Planned Parenthood Action Fund
-Progressive Turnout Project
+Skip to content Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Brendan F.
+Boyle | U.S.
+Congress Representing Pennsylvania's 2nd District Facebook Twitter YouTube Instagram Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Endorsements Labor Unions: APWU Local 7098 Plumbers Local 690 Boilermakers Local 13 Operating Engineers Bricklayers Local 1 PGW Local 686 Communication Workers Local 13000 Sheet Metal Workers FOP Lodge 5 Sprinkler Fitters Local 692 FOP Lodge 37 Steamfitters Local 420 IATSE Local 8 Teamsters IBEW Local 98 Transport Workers Union Local 234 Insulators Local 14 UNITE HERE Iron Workers Local 401 United Steel Workers Iron Workers Local 405 Elected Official Endorsements: Philadelphia Controller Alan Butkovitz Congressional Black Caucus Chair, Congressman Gregory Meeks U.S.
+House Democratic Caucus Chair, Congressman Hakeem Jeffries Congressman Bob Brady State Representative Ed Neilson State Representative Kevin Boyle Local Committees: Philadelphia City Democratic Committee Other Organizations: Congressional Black Caucus PAC Sierra Club Planned Parenthood Action Fund Progressive Turnout Project Search Search Keep Up with Brendan First Name Last Name Email Back to Top Facebook Twitter YouTube Instagram Paid for by Citizens for Boyle Powered by Fluida & WordPress.

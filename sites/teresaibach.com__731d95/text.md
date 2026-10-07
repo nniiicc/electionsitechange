@@ -1,3 +1,3 @@
-“I will bring a conservative perspective to the Legislature and will focus my efforts on issues impacting rural Nebraska, especially those of agriculture, natural resources and water, property tax relief and reform, education, and rural health care.
-I will be an advocate for our rural communities and for the families that live and work in those communities across District 44.”
-–Teresa
+Home About Issues District 44 News DONATE Teresa Ibach for Legislature “I will bring a conservative perspective to the Legislature and will focus my efforts on issues impacting rural Nebraska, especially those of agriculture, natural resources and water, property tax relief and reform, education, and rural health care.
+I will be an advocate for our rural communities and for the families that live and work in those communities across District 44.” –Teresa Contact Teresa Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * Phone Comment or Message * Submit DONATE Home About Issues District 44 News Paid for by Teresa Ibach for Legislature

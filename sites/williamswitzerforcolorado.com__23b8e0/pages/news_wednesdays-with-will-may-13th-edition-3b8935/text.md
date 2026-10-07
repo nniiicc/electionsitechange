@@ -1,5 +1,4 @@
-The Rumble Strips Moment
-In my mid-20s, I worked my way up in the music industry to tour with an A-list artist.
+Home My Story Public Policy Goals News Connect Get Involved Join an Event Contribute News / Wednesdays With Will (May 13th edition) 13 May Wednesday, 2:14 PM · 2026 Wednesdays With Will (May 13th edition) The Rumble Strips Moment In my mid-20s, I worked my way up in the music industry to tour with an A-list artist.
 That experience took me across the country and around the world, teaching me lessons I still carry with me today about hard work, teamwork, and building something bigger than yourself.
 Life on the road is unlike anything else.
 You move from city to city, building an entire operation at each stop and tearing it down within 48 hours, all so thousands of fans can experience what many call the best day of their lives.
@@ -30,5 +29,4 @@ I’m a builder.
 I’ve spent my life creating, scaling, and fixing real systems where results matter and accountability is immediate, not theoretical.
 My campaign is about restoring balance, bringing common sense back into government, refocusing on growth and opportunity, and making sure working families have a real voice again.
 Colorado is at a moment in history where we can either ignore the rumble strips or respond to them.
-I believe it’s time to respond and build something better together before it is too late.
--William Switzer
+I believe it’s time to respond and build something better together before it is too late. -William Switzer Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

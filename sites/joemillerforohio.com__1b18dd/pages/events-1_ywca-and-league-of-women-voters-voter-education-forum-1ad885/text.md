@@ -1,12 +1,5 @@
-Back to All Events
-Doors will open at 6:30 p.m., and the formal program will begin at 7:00 p.m.
+0 Skip to Content Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Back to All Events YWCA and League of Women Voters Voter Education Forum Tuesday, October 13, 2026 6:30 PM 8:30 PM 423 Washington Avenue Lorain, Ohio, 44052 United States (map) Google Calendar ICS Doors will open at 6:30 p.m., and the formal program will begin at 7:00 p.m.
 The forum will include candidate opening and closing statements and questions prepared by the sponsoring organizations and audience members.
 The formal program will conclude by 8:00 p.m., followed by refreshments and an opportunity to speak with attendees until 8:30 p.m.
 The program is also expected to be livestreamed.
-Previous
-Previous
-October 8
-Wellington Kiwanis Candidates Night
-Next
-Next
-October 17
+Previous Previous October 8 Wellington Kiwanis Candidates Night Next Next October 17 Goods in the Woods Craft Fair DONATE Paid for by Friends of Joe Miller ©# FRIENDS OF JOE MILLER PRIVACY POLICY

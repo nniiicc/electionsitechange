@@ -1,30 +1,162 @@
 [
-"https://campbellfornc.com/",
-"https://campbellfornc.com/about",
-"https://campbellfornc.com/issues",
-"https://campbellfornc.com/media",
-"https://campbellfornc.com/news",
-"https://campbellfornc.com/post/nc-newsline-republican-lawmakers-advocates-push-to-strengthen-nc-food-systems-farms",
-"https://campbellfornc.com/post/north-state-journal-lawmakers-probe-medicaid-fraud-in-nc",
-"https://campbellfornc.com/post/op-ed-carolina-journal-fauci-chose-silence-when-america-needed-an-after-action-review",
-"https://campbellfornc.com/post/wbtv-lost-kids-in-mecklenburg-county-lawmakers-blast-county-officials-in-combative-hearing-about",
-"https://capenconsulting.com/",
-"https://congress.gov/",
-"https://facebook.com/GrantCampbellNC",
-"https://governor.nc.gov/",
-"https://ltgov.nc.gov/",
-"https://nc.gov/agencies",
-"https://nccourts.gov/",
-"https://ncleg.gov/",
-"https://ncleg.gov/About",
-"https://ncleg.gov/FindYourLegislators",
-"https://ncleg.gov/House/PageProgram",
-"https://ncleg.gov/Laws/Constitution",
-"https://ncleg.gov/Legislation",
-"https://ncleg.gov/Members/MemberList/H",
-"https://nctreasurer.com/",
-"https://secure.anedot.com/c1eea47d-987d-4a8c-b6d8-26186f58299d/donate",
-"https://sosnc.gov/",
-"https://twitter.com/CampbellforNC",
-"https://youtube.com/channel/UC-MHnEY6_Ha-PrivtOcofaw"
+{
+"text": "ABOUT",
+"href": "https://www.campbellfornc.com/about"
+},
+{
+"text": "About the General Assembly",
+"href": "https://www.ncleg.gov/About"
+},
+{
+"text": "Bill Information",
+"href": "https://ncleg.gov/Legislation"
+},
+{
+"text": "CHIP IN TO HELP RE-ELECT GRANT CAMPBELL >>>",
+"href": "https://secure.anedot.com/c1eea47d-987d-4a8c-b6d8-26186f58299d/donate"
+},
+{
+"text": "Capen Consulting, LLC",
+"href": "https://www.capenconsulting.com/"
+},
+{
+"text": "Capitol Building Tours",
+"href": "mailto:Grant.Campbell@ncleg.gov?subject=CAMPBELL%3A+I%27d+like+to+tour+the+Old+Capitol+Building"
+},
+{
+"text": "Congress",
+"href": "https://www.congress.gov/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:grant@campbellfornc.com?subject=Contact+Us+%5BGrant+Campbell%5D"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/c1eea47d-987d-4a8c-b6d8-26186f58299d/donate"
+},
+{
+"text": "DONATE >>>",
+"href": "https://secure.anedot.com/c1eea47d-987d-4a8c-b6d8-26186f58299d/donate"
+},
+{
+"text": "Email Webmaster",
+"href": "mailto:info@capenconsulting.com"
+},
+{
+"text": "Find Your Legislative District",
+"href": "https://ncleg.gov/FindYourLegislators"
+},
+{
+"text": "Governor's Office",
+"href": "https://governor.nc.gov/"
+},
+{
+"text": "HOME",
+"href": "https://www.campbellfornc.com"
+},
+{
+"text": "Help with a State Agency",
+"href": "mailto:Grant.Campbell@ncleg.gov?subject=CAMPBELL%3A+Need+help+with+a+State+Agency"
+},
+{
+"text": "House Members",
+"href": "https://www.ncleg.gov/Members/MemberList/H"
+},
+{
+"text": "House Page Program",
+"href": "https://www.ncleg.gov/House/PageProgram"
+},
+{
+"text": "ISSUES",
+"href": "https://www.campbellfornc.com/issues"
+},
+{
+"text": "Internships",
+"href": "mailto:grant@campbellfornc.com?subject=Grant+Campbell+Internship+Opportunities"
+},
+{
+"text": "Legislative Building Tours",
+"href": "mailto:Grant.Campbell@ncleg.gov?subject=CAMPBELL%3A+I%27d+like+a+tour+of+the+Legislative+Building"
+},
+{
+"text": "Lt. Governor's Office",
+"href": "https://ltgov.nc.gov/"
+},
+{
+"text": "MEDIA",
+"href": "https://www.campbellfornc.com/media"
+},
+{
+"text": "NC NEWSLINE: Republican lawmakers, advocates push to strengthen NC food systems, farms",
+"href": "https://www.campbellfornc.com/post/nc-newsline-republican-lawmakers-advocates-push-to-strengthen-nc-food-systems-farms"
+},
+{
+"text": "NCGA Live Stream",
+"href": "https://www.youtube.com/channel/UC-MHnEY6_Ha-PrivtOcofaw"
+},
+{
+"text": "NEWS",
+"href": "https://www.campbellfornc.com/news"
+},
+{
+"text": "NORTH STATE JOURNAL: Lawmakers probe Medicaid fraud in NC",
+"href": "https://www.campbellfornc.com/post/north-state-journal-lawmakers-probe-medicaid-fraud-in-nc"
+},
+{
+"text": "News & Media Resources",
+"href": "https://www.campbellfornc.com/media"
+},
+{
+"text": "North Carolina Courts",
+"href": "https://www.nccourts.gov/"
+},
+{
+"text": "North Carolina General Assembly",
+"href": "https://ncleg.gov/"
+},
+{
+"text": "OP-ED | CAROLINA JOURNAL: Fauci chose silence when America needed an after-action review",
+"href": "https://www.campbellfornc.com/post/op-ed-carolina-journal-fauci-chose-silence-when-america-needed-an-after-action-review"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:grant@campbellfornc.com?subject=GRANT+CAMPBELL%3A+Press+Inquiry"
+},
+{
+"text": "Secretary of State's Office",
+"href": "https://www.sosnc.gov/"
+},
+{
+"text": "State Agencies",
+"href": "https://www.nc.gov/agencies"
+},
+{
+"text": "State Constitution",
+"href": "https://www.ncleg.gov/Laws/Constitution"
+},
+{
+"text": "Treasurer's Office",
+"href": "https://www.nctreasurer.com/"
+},
+{
+"text": "WBTV: ‘Lost kids in Mecklenburg County’: Lawmakers blast county officials in combative hearing about child’s death",
+"href": "https://www.campbellfornc.com/post/wbtv-lost-kids-in-mecklenburg-county-lawmakers-blast-county-officials-in-combative-hearing-about"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/GrantCampbellNC"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/CampbellforNC"
+},
+{
+"text": "[image: logo (1)_edited.png]",
+"href": "https://www.campbellfornc.com"
+},
+{
+"text": "[image]",
+"href": "https://www.capenconsulting.com/"
+}
 ]

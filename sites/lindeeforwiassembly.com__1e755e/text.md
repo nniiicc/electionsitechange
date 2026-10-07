@@ -1,5 +1,5 @@
-Why I'm Running for Re-Election
-I am truly honored to have been given the opportunity to serve Wisconsinites in the 27th Assembly District as their representative.
+top of page Lindee for WI Assembly Home Donate District Map More Use tab to navigate through the menu items.
+Log In Why I'm Running for Re-Election ​ I am truly honored to have been given the opportunity to serve Wisconsinites in the 27th Assembly District as their representative.
 My first term in the Assembly has certainly been a learning experience, from my attempts during the state budget process to limit the growth of government, to working with constituents who needed help with state agencies or regulators, to my time as Chair of the Speaker’s Task Force on Protecting Kids.
 It hasn’t been a walk in the park, but I have always sought to infuse time-tested conservative philosophy and strong Christian values into my every action as an elected official.
 I am proud of the legislative record that I have developed with the help of my staff and stakeholders throughout this session.
@@ -17,3 +17,4 @@ I look forward to engaging with Wisconsinites across my district over the coming
 Thank you to my family and friends for their love and to all who have been involved in making my service possible, your efforts and support are deeply treasured.
 To God be the Glory.
 Let’s get to work!
+Lindee Brill for WI Assembly MENU Home Donate District Map SOCIALS Authorized by and Paid for by Lindee for WI Assembly bottom of page

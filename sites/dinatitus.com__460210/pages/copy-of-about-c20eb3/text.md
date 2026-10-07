@@ -1,41 +1,28 @@
+top of page Donate HOME ABOUT EN ESPANOL NEWS ENDORSEMENTS VOLUNTEER Menu Use tab to navigate through the menu items.
 Dina Titus ha dedicado su vida profesional a la educación y al servicio público.
 Ella ha enseñado clases sobre política y gobierno estadounidense y de Nevada en la Universidad de Nevada, Las Vegas (UNLV), por más de 30 años.
-Representó a la gente del Distrito Senatorial 7 en la Legislatura de Nevada desde 1988 y fue líder de la bancada demócrata desde 1993 hasta 2008.
-Demócrata de toda la vida, Dina fue elegida a la Cámara de Representantes de EE.UU. por el Tercer Distrito de Nevada en noviembre de 2008.
-Ella es miembro del Comité de Transporte e Infraestructura, así como el Comité de Educación y Trabajo, y el Comité de Seguridad Nacional.
-Dina siempre se ha esforzado para proteger a los ciudadanos más vulnerables de Nevada - niños, ancianos y discapacitados.
+Representó a la gente del Distrito Senatorial 7 en la Legislatura de Nevada desde 1988 y fue líder de la bancada demócrata desde 1993 hasta 2008. ​Demócrata de toda la vida, Dina fue elegida a la Cámara de Representantes de EE.UU. por el Tercer Distrito de Nevada en noviembre de 2008.
+Ella es miembro del Comité de Transporte e Infraestructura, así como el Comité de Educación y Trabajo, y el Comité de Seguridad Nacional. ​ Dina siempre se ha esforzado para proteger a los ciudadanos más vulnerables de Nevada - niños, ancianos y discapacitados.
 Ella patrocinó la legislación que creó el programa “Nevada Check-Up” para cubrir a los niños sin seguro.
 También patrocinó la ley que permite a los ancianos y otros residentes de Nevada comprar los medicamentos recetados más baratos de Canadá.
 Además aprobó legislación que duplica los castigos para los criminales que cometen crímenes contra las personas con discapacidad.
-Campeona de la educación en todos los niveles, Dina ha luchado para mantener clases de tamaño reducido (class size reduction) en los primeros grados y ha patrocinado legislación para el kindergarten de día completo.
-Uno de los momentos más orgullosos de la carrera de Dina ocurrió en 2006 con la dedicación de “Dina Titus Estates,” un innovador complejo de vivienda accesible para personas con discapacidad, en reconocimiento de la defensa incansable de Dina a favor de las personas con discapacidad.
-Entre sus logros legislativos cuenta con la ley que manda castigos más severos para los criminales que cometen robo de identidad.
+Campeona de la educación en todos los niveles, Dina ha luchado para mantener clases de tamaño reducido (class size reduction) en los primeros grados y ha patrocinado legislación para el kindergarten de día completo. ​ Uno de los momentos más orgullosos de la carrera de Dina ocurrió en 2006 con la dedicación de “Dina Titus Estates,” un innovador complejo de vivienda accesible para personas con discapacidad, en reconocimiento de la defensa incansable de Dina a favor de las personas con discapacidad. ​ Entre sus logros legislativos cuenta con la ley que manda castigos más severos para los criminales que cometen robo de identidad.
 Para proteger a las familias de Nevada contra el aumento de impuestos a la propiedad que amenazaba con hacer los dueños perder su casa, Dina propuso la congelación de los impuestos a la propiedad, lo que condujo a la Legislatura a limitar el aumento a solo 3%, una acción elogiada por ambos partidos políticos.
-Dina tuvo éxito con la legislación para proteger el ecológicamente frágil Red Rock Canyon, nuestro mayor tesoro natural ubicado aquí en el sur de Nevada.
-El desarrollo de la energía renovable, o verde, ha sido una de las prioridades de Dina.
+Dina tuvo éxito con la legislación para proteger el ecológicamente frágil Red Rock Canyon, nuestro mayor tesoro natural ubicado aquí en el sur de Nevada. ​ El desarrollo de la energía renovable, o verde, ha sido una de las prioridades de Dina.
 Ella patrocinó con éxito la legislación para establecer un estándar de renovables que requieren que las empresas de servicios públicos como NV Energy adquieran un determinado porcentaje de energía verde.
 Ella defendió los incentivos fiscales para las empresas que desarrollan la generación de energía solar y eólica (de viento).
-Dina también patrocinó la legislación exitosa para crear un inventorio y registro de empresas en Nevada que emiten gases de efecto invernadero para reducir las emisiones y ayudar a contrarrestar los efectos del cambio climático.
-Dina también lideró los esfuerzos contra los depredadores sexuales con la legislación que aumenta los castigos para los delincuentes sexuales que requieren la supervisión de por vida por su conducta.
+Dina también patrocinó la legislación exitosa para crear un inventorio y registro de empresas en Nevada que emiten gases de efecto invernadero para reducir las emisiones y ayudar a contrarrestar los efectos del cambio climático. ​ Dina también lideró los esfuerzos contra los depredadores sexuales con la legislación que aumenta los castigos para los delincuentes sexuales que requieren la supervisión de por vida por su conducta.
 También estableció un sitio web estatal que permite a los ciudadanos interesados identificar los lugares en los barrios donde viven los delincuentes sexuales en libertad condicional.
 Su ley de 2007 prohíbe que los delincuentes sexuales registrados vivan cerca de escuelas, parques y otros lugares donde se reúnen los niños.
-Una familia anclada en el servicio público
-Dina se crió en la pequeña comunidad de Tifton, Georgia, donde su abuelo inmigrante tenía un restaurante.
+Una familia anclada en el servicio público Dina se crió en la pequeña comunidad de Tifton, Georgia, donde su abuelo inmigrante tenía un restaurante.
 Dina aprendió de su familia muy unida el valor de la participación comunitaria y fue introducido a la política a una edad temprana.
 Su tío sirvió en la Legislatura de Georgia y su padre se postuló para un escaño en el Consejo de la Ciudad de Tifton.
-Su padre, un veterano militar, luego pasó a servir como jefe del departamento de construcción en Tifton y luego en Henderson, Nevada.
-Durante sus años de secundaria, Dina hacía muchas actividades incluyendo el baile “tap,” además de sus estudios.
+Su padre, un veterano militar, luego pasó a servir como jefe del departamento de construcción en Tifton y luego en Henderson, Nevada. ​ Durante sus años de secundaria, Dina hacía muchas actividades incluyendo el baile “tap,” además de sus estudios.
 Una estudiante dedicada, Dina asistió a un programa de verano en el histórico College of William and Mary y fue tan buena que fue admitida a tiempo completo para el otoño.
-Asistir a la escuela en la cuna de la democracia estadounidense durante el apogeo del movimiento de derechos civiles y la guerra de
-Vietnam convenció Dina de la necesidad de estudiar ciencias políticas e involucrarse en las cuestiones fundamentales de un mundo cambiante—lo que le condujo al servicio público aquí en Nevada.
-Después de obtener su licenciatura de William y Mary, Dina llegó a ganar un título de maestría de la Universidad de Georgia y un doctorado de la Universidad Estatal de Florida.
-Enseñó un año en la North Texas State University en Denton y luego se mudó a Nevada para aceptar un puesto docente en UNLV.
-En los últimos 30 años, muchas personalidades en el gobierno, el servicio público y los círculos jurídicos han estudiado con la profesora Titus, cuyas clases siempre se encuentran entre las ofertas más populares en el campus.
-En 1987, Dina decidió poner en la práctica las teorías que enseñaba cuando lanzó su candidatura al Senado Estatal de Nevada.
-Su experiencia de 20 años en el Senado Estatal enriqueció los conocimientos que ofrece a sus estudiantes de UNLV .
-Dina también creó el Programa de Internado Legislativo en UNLV, que cada sesión legislativa ofrece la oportunidad a un grupo de estudiantes para trabajar en la Legislatura en Carson City.
-Dina conoce América Latina
-Dina está casada con el profesor Thomas C.
+Asistir a la escuela en la cuna de la democracia estadounidense durante el apogeo del movimiento de derechos civiles y la guerra de Vietnam convenció Dina de la necesidad de estudiar ciencias políticas e involucrarse en las cuestiones fundamentales de un mundo cambiante—lo que le condujo al servicio público aquí en Nevada. ​ Después de obtener su licenciatura de William y Mary, Dina llegó a ganar un título de maestría de la Universidad de Georgia y un doctorado de la Universidad Estatal de Florida. ​ Enseñó un año en la North Texas State University en Denton y luego se mudó a Nevada para aceptar un puesto docente en UNLV.
+En los últimos 30 años, muchas personalidades en el gobierno, el servicio público y los círculos jurídicos han estudiado con la profesora Titus, cuyas clases siempre se encuentran entre las ofertas más populares en el campus. ​ En 1987, Dina decidió poner en la práctica las teorías que enseñaba cuando lanzó su candidatura al Senado Estatal de Nevada.
+Su experiencia de 20 años en el Senado Estatal enriqueció los conocimientos que ofrece a sus estudiantes de UNLV . ​ Dina también creó el Programa de Internado Legislativo en UNLV, que cada sesión legislativa ofrece la oportunidad a un grupo de estudiantes para trabajar en la Legislatura en Carson City.
+Dina conoce América Latina Dina está casada con el profesor Thomas C.
 Wright desde hace más de 30 años.
 El doctor Wright es profesor de historia en UNLV y es especialista en la historia de América Latina.
 El ha publicado media docena de libros sobre Latinoamérica en inglés y español.
@@ -43,9 +30,7 @@ Conoce casi todos los países del hemisferio y ha vivido en México, Costa Rica,
 Dina le ha acompañado en muchos de sus viajes, así que ella conoce bien a América Latina desde México hasta Chile y Argentina.
 Dina habla español (ella dice “solo un poquito”) y aprecia mucho la cultura y la gente de Latinoamérica.
 El doctor Wright recibió el prestigioso título de “Profesor Distinguido” de UNLV en 2008.
-John Wright Hall en el campus de UNLV lleva el nombre de su padre, un profesor pionero que vino a UNLV en 1956.
-Dina “atómica”
-Una destacada autora, Dina publicó Bombs in the Backyard: Atomic Testing and American Politics (University of Nevada Press, revised edition 2001) y Battle Born: Federal-State Conflict during the Twentieth Century (Kendall-Hunt, 1989).
-También ha publicado numerosos artículos académicos sobre asuntos atómicos y sobre política y gobierno de Nevada y Estados Unidos.
-Dina es conocida internacionalmente por sus conocimientos y escritos sobre la historia y las políticas relacionadas con la energía y los armamentos nucleares y la llamada “cultura atómica." Ella apareció en el documental de PBS “The American Experience: Las Vegas, an Unconventional History”(2006) dirigido por el aclamado director Steven Ives.
+John Wright Hall en el campus de UNLV lleva el nombre de su padre, un profesor pionero que vino a UNLV en 1956. ​ Dina “atómica” Una destacada autora, Dina publicó Bombs in the Backyard: Atomic Testing and American Politics (University of Nevada Press, revised edition 2001) y Battle Born: Federal-State Conflict during the Twentieth Century (Kendall-Hunt, 1989).
+También ha publicado numerosos artículos académicos sobre asuntos atómicos y sobre política y gobierno de Nevada y Estados Unidos. ​ Dina es conocida internacionalmente por sus conocimientos y escritos sobre la historia y las políticas relacionadas con la energía y los armamentos nucleares y la llamada “cultura atómica." Ella apareció en el documental de PBS “The American Experience: Las Vegas, an Unconventional History”(2006) dirigido por el aclamado director Steven Ives.
 El Atomic Testing Museum (Museo de las Pruebas Atómicas) en Las Vegas cuenta con el Dina Titus Reading Room (Sala de Lectura Dina Titus) en reconocimiento a sus logros académicos en el campo.
+GET INVOLVED ENDORSEMENTS NEWS Donate EN ESPANOL PRIVACY POLICY PO Box 19232 Las Vegas, NV 89132 ​ Paid for by Titus for Congress bottom of page

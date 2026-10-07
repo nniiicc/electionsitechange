@@ -1,17 +1,86 @@
 [
-"https://brownfor99.com/",
-"https://brownfor99.com/about",
-"https://brownfor99.com/contact",
-"https://brownfor99.com/endorsements",
-"https://brownfor99.com/issues",
-"https://brownfor99.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/brownfor99",
-"https://instagram.com/brownfor99",
-"https://secure.actblue.com/donate/ws_main",
-"https://secure.actblue.com/donate/ws_main?amount=10",
-"https://secure.actblue.com/donate/ws_main?amount=100",
-"https://secure.actblue.com/donate/ws_main?amount=25",
-"https://secure.actblue.com/donate/ws_main?amount=250",
-"https://secure.actblue.com/donate/ws_main?amount=50"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/ws_main?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/ws_main?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/ws_main?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/ws_main?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/ws_main?amount=50"
+},
+{
+"text": "About me",
+"href": "https://www.brownfor99.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.brownfor99.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ws_main"
+},
+{
+"text": "Endorsements",
+"href": "https://www.brownfor99.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.brownfor99.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://secure.actblue.com/donate/ws_main"
+},
+{
+"text": "Join Us",
+"href": "https://www.brownfor99.com/volunteer"
+},
+{
+"text": "Meet Dr. Brown",
+"href": "https://www.brownfor99.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/ws_main"
+},
+{
+"text": "Priorities",
+"href": "https://www.brownfor99.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.brownfor99.com/volunteer"
+},
+{
+"text": "[image: Dr. Brown for House District 99 logo]",
+"href": "https://www.brownfor99.com/"
+},
+{
+"text": "[image: Dr. Brown for House District 99]",
+"href": "https://www.brownfor99.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/brownfor99"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/brownfor99"
+}
 ]

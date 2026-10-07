@@ -1,3 +1,3 @@
-Get Involved Join the team working towards better jobs, better healthcare, and better schools here in Southeastern North Carolina.
+0 Skip to Content Meet Kimberly Priorities Media Hub Get Involved Endorsements Donate Open Menu Close Menu Meet Kimberly Priorities Media Hub Get Involved Endorsements Donate Open Menu Close Menu Meet Kimberly Priorities Media Hub Get Involved Endorsements Donate Get Involved Join the team working towards better jobs, better healthcare, and better schools here in Southeastern North Carolina.
 Ready to show your support for Kimberly’s campaign?
-Order your lawn sign and t-shirt here. t-shirt Lawn Sign Sign up to volunteer Donate Donate to support Kimberly Hardy
+Order your lawn sign and t-shirt here. t-shirt Lawn Sign Sign up to volunteer Donate Donate to support Kimberly Hardy Contact us: info@KimberlyHardyforCongress.com Campaign Address PO BOX 85, Linden, NC 28356 Paid for by Kimberly Hardy for Congress

@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.votebybee.com/",
- "paid_for_by": null,
+ "fingerprint": "d54e6d94571add9ec8d24f0152d5e796e8857225",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Vote Bybee",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025"
+ ]
 }

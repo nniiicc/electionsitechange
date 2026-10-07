@@ -1,5 +1,4 @@
-November 2022 Letter
-The final eight days of the campaign season have begun with the toll of the bell on the first of November.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all The End of the Campaign The End of the Campaign The End of the Campaign Dec 2, 2022 Dec 2, 2022 November 2022 Letter Sunrise Over the Election - 8 November 2022 - 06:44 - Peterborough, NH - Taken by Jonah Sunrise Over the Election - 8 November 2022 - 06:44 - Peterborough, NH - Taken by Jonah The final eight days of the campaign season have begun with the toll of the bell on the first of November.
 One hundred and forty seven days since signing up to run for office.
 A whirlwind primary campaign, running around to support good candidates in districts across the State, preparing myself to serve the people in an austere legislative body for the 168th General Court of the State of New Hampshire.
 On Election Day I made myself a hearty breakfast, and took a walk outside before the sun rose.
@@ -15,8 +14,7 @@ People offered me food and treats.
 Hand warmers and hugs.
 It was as incredible a day as I hoped it would be.
 The reading of the results was less of an immediate shock than it was in November.
-After all the excitement of the night ended and I got home from celebrating with friends, I laid in bed and that’s when it hit me:
-It all changes now.
+After all the excitement of the night ended and I got home from celebrating with friends, I laid in bed and that’s when it hit me: It all changes now.
 Shortly after getting the results I got a call from Representative Matthew Wilhelm of Manchester.
 Congratulating me on a victory and welcoming me to the State House.
 I was surprised by how fast I got that call.
@@ -51,13 +49,14 @@ It was a good conference of people committed to strengthening our public educati
 We exchanged ideas and tactics to make ourselves better organizers coming back to our communities.
 It was great to get to meet people doing similar work all across the country.
 Hearing about the challenges they face in their own school districts made it clear to me that these are local issues, with national implications.
-It also hit me that I should probably stop wearing the ill-fitting suit jacket I’ve worn since the seventh grade.
+Leadership Speech - 17 November 2022 - Taken by Rep.
+Jodi Newell Leadership Speech - 17 November 2022 - Taken by Rep.
+Jodi Newell It also hit me that I should probably stop wearing the ill-fitting suit jacket I’ve worn since the seventh grade.
 That slate gray jacket served me well for several years, but its time to treat myself to a tad bit of a better wardrobe.
 I was excited to buy a nice cotton suit, and then I looked up the prices.
 Whew!
 How do people afford anything these days?
-(They don’t.)
-Anyway, I found a good deal on Mens Wearhouse of a group of suits from a company called Paisley and Gray.
+(They don’t.) Anyway, I found a good deal on Mens Wearhouse of a group of suits from a company called Paisley and Gray.
 They weren’t your average black and white suit.
 I thought that the funkiness of the suits served as a good allegory to the er of uniqueness I am attempting to bring to the State House.
 Not to mention I got them cheap because they’re all polyester.
@@ -82,7 +81,7 @@ Removing Fentanyl and Xylazine testing strips from the definition of drug paraph
 Appropriating the State General Fund surplus toward the retirement systems billion dollar unfunded accrued liability.
 This is the work I was running so hard to do.
 Working on the actual legislation which could make a positive impact on our State and its citizens.
-Yesterday we began our official House Freshman Orientation.
+Arizona Sunset - 18 November 2022 - 17:20 - Phoenix, AZ - Taken by Jonah Arizona Sunset - 18 November 2022 - 17:20 - Phoenix, AZ - Taken by Jonah Yesterday we began our official House Freshman Orientation.
 Our first full introduction to the State House as newly elected members.
 It is a program run by the Speaker of the House for the session that is wrapping up prior to our session being sworn in.
 The Speaker for the 167th Congress was a man named Sherman Packard.
@@ -114,4 +113,4 @@ We have our problems here in New Hampshire but at least the House makes somewhat
 Its getting late and there is much to read over in preparation for the beginning of the session.
 So I will end it here but I must say, I will take this responsibility with great care, and I am grateful to the people for giving me their confidence to serve.
 Thank you all.
-Back to all
+Election Day - Taken by Kath Allen Election Day - Taken by Kath Allen ‹ So Begins the Real Work ‹ So Begins the Real Work ‹ So Begins the Real Work The Same Fight › The Same Fight › The Same Fight › Back to all

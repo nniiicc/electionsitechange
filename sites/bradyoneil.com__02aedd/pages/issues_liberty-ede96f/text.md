@@ -1,7 +1,6 @@
-I’m a paragraph.
+Welcome What I'm About Issues Minnesota's Promise Exploitation Homelessness Liberty Contribute I’m a paragraph.
 Drag me to add paragraph to your block, write your own text and edit me.
-On Arms, Liberty, and the American Covenant
-In the year 2024, more than half a million Minnesotans purchased a hunting license.
+On Arms, Liberty, and the American Covenant In the year 2024, more than half a million Minnesotans purchased a hunting license.
 Across this nation, nearly 16 million Americans did the same.
 In Minnesota alone, nearly four in ten households keep a firearm.
 In 2025, Minnesota issued 820,140 total background checks for purchases on new firearms.
@@ -24,5 +23,4 @@ A covenant between a free people and the republic they created, a permanent and 
 An armed people is not a threat to good governance.
 It is the very condition that makes good governance necessary.
 Let those who hold power be reminded quietly, constitutionally, and without hesitation of who placed it in their hands.
-And let them never forget who can take it back.
-(Pics are links)
+And let them never forget who can take it back. ﻿ (Pics are links)

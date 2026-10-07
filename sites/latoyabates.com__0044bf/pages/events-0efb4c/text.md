@@ -1,9 +1,3 @@
-Embedded Files
-Birthday FUNdraiser
-Saturday, October 10th at 11 am
-Ooga Brewery
-301 S.
-Spring Street, Beaver Dam
-Join me for my birthday celebration!
-Google Sites
-Report abuse
+Search this site Embedded Files Skip to main content Skip to navigation LaToya for Us Home Right For Us Policy Endorsements Volunteer Donate Events Campaign Store Contact Us LaToya for Us Home Right For Us Policy Endorsements Volunteer Donate Events Campaign Store Contact Us More Home Right For Us Policy Endorsements Volunteer Donate Events Campaign Store Contact Us Events Birthday FUNdraiser Saturday, October 10th at 11 am Ooga Brewery 3 01 S.
+Spring Street, Beaver Dam Join me for my birthday celebration!
+Support Our Campaign By Making a Donation Today $# $# $# $# $# $# Other Amount Donations may also be mailed to LaToya Bates for State Assembly, PO Box 95, Mayville, WI 53050 Paid for by LaToya Bates for State Assembly PO Box 95, Mayville, WI 53050 Google Sites Report abuse Google Sites Report abuse

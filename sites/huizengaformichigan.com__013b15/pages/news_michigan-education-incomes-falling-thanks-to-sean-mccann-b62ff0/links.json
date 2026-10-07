@@ -1,17 +1,66 @@
 [
-"https://detroitnews.com/story/news/politics/2026/05/26/michigan-voters-unaware-of-state-education-income-struggles/90157250007",
-"https://facebook.com/BillHuizenga",
-"https://huizengaformichigan.com/",
-"https://huizengaformichigan.com/about",
-"https://huizengaformichigan.com/issues",
-"https://huizengaformichigan.com/join",
-"https://huizengaformichigan.com/news",
-"https://huizengaformichigan.com/privacy-policy",
-"https://huizengaformichigan.com/terms-and-conditions",
-"https://instagram.com/billhuizenga",
-"https://michiganadvance.com/2021/02/22/bills-you-may-have-missed-from-limiting-whitmers-powers-to-stopping-school-lunch-shaming",
-"https://michiganvotes.org/votes/2023/senate/roll-call-20",
-"https://secure.winred.com/huizenga-for-congress/contribute",
-"https://twitter.com/billhuizenga",
-"https://youtube.com/@HuizengaForCongress"
+{
+"text": "About",
+"href": "https://huizengaformichigan.com/about/"
+},
+{
+"text": "Back to News",
+"href": "https://huizengaformichigan.com/news"
+},
+{
+"text": "Detroit News reports",
+"href": "https://www.detroitnews.com/story/news/politics/2026/05/26/michigan-voters-unaware-of-state-education-income-struggles/90157250007/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/huizenga-for-congress/contribute"
+},
+{
+"text": "Issues",
+"href": "https://huizengaformichigan.com/issues/"
+},
+{
+"text": "Join",
+"href": "https://huizengaformichigan.com/join/"
+},
+{
+"text": "News",
+"href": "https://huizengaformichigan.com/news/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://huizengaformichigan.com/privacy-policy"
+},
+{
+"text": "TERMS AND CONDITIONS",
+"href": "https://huizengaformichigan.com/terms-and-conditions"
+},
+{
+"text": "[image: Huizenga for Congress]",
+"href": "https://huizengaformichigan.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/billhuizenga"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BillHuizenga"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/billhuizenga/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@HuizengaForCongress"
+},
+{
+"text": "sponsored",
+"href": "https://michiganadvance.com/2021/02/22/bills-you-may-have-missed-from-limiting-whitmers-powers-to-stopping-school-lunch-shaming/"
+},
+{
+"text": "voted",
+"href": "https://www.michiganvotes.org/votes/2023/senate/roll-call-20"
+}
 ]

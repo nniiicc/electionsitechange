@@ -1,29 +1,7 @@
-Michael Whatley Announces Completion of 100 County Tour
-Michael Whatley hit the 100 county milestone on Saturday.
-When he announced for US Senate, Whatley made a commitment to hit all 100 counties and
-Endorsed by president Trump
-Get the latest news from the campaign trail.
-Press Release
-July 13, 2026
-Michael Whatley today hosted a press conference with Congressman Mark Harris (R-NC), and women’s sports activist Payton McNabb to highlight the importance of protecting women’s
-July 11, 2026
-Today, Michael Whatley formally accepted the unanimous endorsement of the North Carolina Police Benevolent Association (PBA) during a press conference in Raleigh.
-Whatley was
-July 9, 2026
-Today, Michael Whatley released the following statement celebrating the one year anniversary of the landmark Working Families Tax Cuts being signed into law.
-Marking
-July 4, 2026
-NPR Mistake Reminds NC Victims How Dangerous It Would Be If Roy Cooper’s Soft-On-Criminals Litmus Test Were the Standard for the Next SCOTUS Nominee
-June 30, 2026
-News
-Last week, the Washington Free Beacon revealed that as governor, Roy Cooper hosted a secret dinner in 2018 that included an Imam with close ties
-June 23, 2026
-Today, Michael Whatley welcomed seniors and local officials to a roundtable in Wilmington focused on the No Tax on Social Security provision of the Working
-June 18, 2026
-Unlike 25 of their murdered victims the Cooper’s Killers website is now live.
-The website details the violent offenders Roy Cooper released early from prison
-June 16, 2026
-GREENSBORO – Today, Michael Whatley welcomed hard-working North Carolinians and job creators to a roundtable in Greensboro focused on the No Tax on Overtime provision
-June 12, 2026
-WAKE COUNTY – Today, Michael Whatley spoke with hard-working North Carolinians at a roundtable in Zebulon focused on the No Tax on Tips provision of
-June 3, 2026
+DONATE Endorsed by president Trump Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE News Get the latest news from the campaign trail.
+X-twitter Facebook Instagram Press Release Michael Whatley Announces Completion of 100 County Tour Michael Whatley hit the 100 county milestone on Saturday.
+When he announced for US Senate, Whatley made a commitment to hit all 100 counties and Read More » July 13, 2026 Press Release Michael Whatley, Women’s Sports Activist Payton McNabb, and Congressman Mark Harris Host Press Conference on Roy Cooper’s Failure to Protect our Daughters Michael Whatley today hosted a press conference with Congressman Mark Harris (R-NC), and women’s sports activist Payton McNabb to highlight the importance of protecting women’s Read More » July 11, 2026 Press Release Michael Whatley Receives Unanimous Endorsement from North Carolina Police Benevolent Association Today, Michael Whatley formally accepted the unanimous endorsement of the North Carolina Police Benevolent Association (PBA) during a press conference in Raleigh.
+Whatley was Read More » July 9, 2026 Press Release Whatley On The One Year Anniversary of the Working Families Tax Cuts Being Signed Into Law Today, Michael Whatley released the following statement celebrating the one year anniversary of the landmark Working Families Tax Cuts being signed into law.
+Marking Read More » July 4, 2026 Press Release NPR Usually Helps Roy Cooper but Hurts Him Today!
+NPR Mistake Reminds NC Victims How Dangerous It Would Be If Roy Cooper’s Soft-On-Criminals Litmus Test Were the Standard for the Next SCOTUS Nominee Read More » June 30, 2026 News ICYMI- Roy Cooper Hosted a Secret Dinner at the Governor’s Mansion with an Imam Closely Tied to Hamas Last week, the Washington Free Beacon revealed that as governor, Roy Cooper hosted a secret dinner in 2018 that included an Imam with close ties Read More » June 23, 2026 Press Release Michael Whatley Hosts No Tax on Social Security Roundtable in Wilmington Today, Michael Whatley welcomed seniors and local officials to a roundtable in Wilmington focused on the No Tax on Social Security provision of the Working Read More » June 18, 2026 Press Release NEW WEBSITE: Unlike Their Murdered Victims, “Cooper’s Killers” Website is Now Live Unlike 25 of their murdered victims the Cooper’s Killers website is now live.
+The website details the violent offenders Roy Cooper released early from prison Read More » June 16, 2026 Press Release Michael Whatley Hosts No Tax on Overtime Roundtable in Greensboro GREENSBORO – Today, Michael Whatley welcomed hard-working North Carolinians and job creators to a roundtable in Greensboro focused on the No Tax on Overtime provision Read More » June 12, 2026 Press Release Michael Whatley Hosts No Tax on Tips Roundtable in Zebulon WAKE COUNTY – Today, Michael Whatley spoke with hard-working North Carolinians at a roundtable in Zebulon focused on the No Tax on Tips provision of Read More » June 3, 2026 Page 1 Page 2 Page 3 Page 4 X-twitter Facebook Instagram Privacy Policy Terms of Use Mobile Terms Media Tool Kit Privacy Policy Terms of Use Mobile Terms Media Tool Kit Paid for by Whatley for Senate

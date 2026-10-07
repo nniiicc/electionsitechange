@@ -1,12 +1,21 @@
-In key “Toss-Up” district, Whitesides maintains largest cash advantage over an incumbent nationwide with over $3 million on hand
-AGUA DULCE, CA – Former NASA Chief of Staff and aerospace businessman George Whitesides left March with a $1.3 million cash-on-hand advantage over Rep.
+Back to Site Donate The House majority is on the line.
+Donate now: Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other George Whitesides Meet George Endorsements Policies Media Latest News Photos & B-Roll YouTube Take Action Voter Info Donate George Whitesides for Congress Meet George Endorsements Policies Media Latest News Photos & B-Roll YouTube Take Action Voter Info Donate George Whitesides for Congress Meet George Endorsements Policies Media Latest News Photos & B-Roll YouTube Take Action Voter Info Donate Whitesides Doubles Rep.
+Garcia’s Q1 Fundraising Haul, Reports $1.3 Million Cash-On-Hand Advantage April 16, 2024 In key “Toss-Up” district, Whitesides maintains largest cash advantage over an incumbent nationwide with over $3 million on hand AGUA DULCE, CA – Former NASA Chief of Staff and aerospace businessman George Whitesides left March with a $1.3 million cash-on-hand advantage over Rep.
 Mike Garcia, marking the largest cash advantage of any candidate challenging an incumbent nationwide.
 Whitesides left the first quarter with over $3 million on hand, while Garcia had $1.7 million.
 Whitesides’ commanding fundraising lead – doubling what Garcia brought in this quarter – comes on the heels of his top-two victory in the March 5 primary, making Whitesides the Democratic nominee for California’s 27th congressional district.
+Whitesides raised over $# million in the first quarter of 2024, bringing his total raised to over $# million for the election cycle.
+Meanwhile, Garcia raised only $# in the same period, and has only raised $# million for the cycle.
 Garcia is widely seen as one of the most vulnerable Republican incumbents in the nation, given that President Biden carried CA-27 by 12.4%.
 In 2020 – when Garcia’s district was drawn to contain more Republicans – Garcia narrowly won by only 333 votes.
-Every non-partisan rater of congressional campaigns ranks the Whitesides-Garcia contest as a “Toss-Up.”
-“Voters in this district deserve better than Rep.
+Every non-partisan rater of congressional campaigns ranks the Whitesides-Garcia contest as a “Toss-Up.” “Voters in this district deserve better than Rep.
 Mike Garcia.
 We deserve a representative who is going to solve problems and deliver for this district instead of benefiting himself, and that’s why I’m running,” said George Whitesides.
 “I couldn’t be more grateful for this strong show of support, and I’m proud of the grassroots support we are building from the Antelope Valley to Santa Clarita to the San Fernando Valley,” Whitesides said.
+Volunteer Take Action Meet George Endorsements Policies Media Take Action Voter Info Donate Now George Whitesides for Congress P.O.
+Box 221776 Newhall, CA 91322 [email protected] By providing your cell phone number, you are consenting to receive recurring automated text messages & automated calls from George Whitesides for Congress with news, updates, and information about the campaign and related issues.
+Message frequency will vary.
+Message and data rates may apply.
+Text STOP to stop receiving messages.
+Privacy Policy En Español Paid for by George Whitesides for Congress

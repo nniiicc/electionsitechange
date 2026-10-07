@@ -1,13 +1,11 @@
-Iowa Caucus Summary
-I participated in the 2026 Democratic Caucus, my first ever, since Independents in Iowa are not given this opportunity.
+top of page PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close Bill Owen Bill Owen Bill Owen Bill Owen District 11 Map Donate All Posts News Iowa Caucus Summary Feb 18 2 min read I participated in the 2026 Democratic Caucus, my first ever, since Independents in Iowa are not given this opportunity.
 As I’ve said before, I just recently joined the Democrats, among other reasons to get on the ballot and exercise my right and responsibility to lead.
 Here are some of the things I heard at the caucus.
 I don’t think any of these are closely guarded secrets of the Democratic Party, as most candidates, including me, have listed most of the issues under concerns or priorities of our campaigns.
 However, I did hear a few things I hadn’t heard before.
 I understand it is my responsibility, or it will be if I’m elected, to address the concerns of the people District 11.
 The PEOPLE of District11!
-Not my
-constituents or the voters or the Democrats.
+Not my constituents or the voters or the Democrats .
 The people of District 11 include my family; our friends, our neighbors and I will represent their concerns and yours.
 Here are some of those issues and concerns recorded as accurately as possible without edits.
 Tariffs are hurting farmers and consumers.
@@ -53,3 +51,7 @@ I have a method for understanding complex issues and making those decisions.
 With your input, we are off to a good start.
 Join me.
 Join us.
+News Recent Posts See All Bill Owen Talks Education, Skilled Trades, and Wages in Coon Rapids USA!
+USA!
+USA!
+Making Sense of Cancer and Your Water PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close (712) 571-8544 billowenforiowahouse@gmail.com Design by SPB Website Designs Paid for by Bill Owen for Iowa House Privacy Policy PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

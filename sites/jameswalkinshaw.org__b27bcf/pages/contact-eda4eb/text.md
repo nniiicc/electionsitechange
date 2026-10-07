@@ -1,3 +1,4 @@
-(703) 375-9374
-PO Box 583, Merrifield, VA 22116
-You can send us an email message using the contact form below.
+Skip to content Endorsements Contact Us Meet James Vote Priorities Endorsements Contact Us Meet James Vote Priorities Donate Meet James Donate Endorsements Vote Priorities Contact Us Contact Us Campaign Telephone: (703) 375-9374 Campaign Address: PO Box 583, Merrifield, VA 22116 You can send us an email message using the contact form below.
+Name Email Subject Message I'd like to volunteer by: Displaying a yard sign Knocking on doors Making phone calls Hosting a fundraiser Supporting YES on Question #1 - Reproductive Freedom Supporting YES on Question #2 - Marriage Equality Supporting YES on Question #3 - Voting Rights Restoration Send Chip In to Fight Back.
+It’s up to all of us to stop Donald Trump’s corrupt and dangerous agenda.
+Donate today, and let’s take back Congress. $5 $25 $50 $250 $500 Other Contact Facebook X-twitter Instagram Youtube Threads Tiktok Paid for and Authorized by Walkinshaw for Congress Website built by BCom

@@ -1,8 +1,34 @@
 [
-"https://facebook.com/",
-"https://facebook.com/profile.php?id=61575290576803",
-"https://instagram.com/blackwell4delegates?igsh=MTBvNHhtYWNkajBkag%3D%3D",
-"https://jocelyn.blackwell4hod.com/",
-"https://secure.actblue.com/donate/jocelyn-blackwell-1",
-"https://tiktok.com/@jocelynrachele?_r=1&_t=ZT-917W9guipwL"
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/jocelyn-blackwell-1"
+},
+{
+"text": "Home",
+"href": "https://jocelyn.blackwell4hod.com/"
+},
+{
+"text": "[image: Jocelyn Blackwell 4 House of Delegates logo]",
+"href": "https://jocelyn.blackwell4hod.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/jocelyn-blackwell-1"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/profile.php?id=61575290576803"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/blackwell4delegates?igsh=MTBvNHhtYWNkajBkag%3D%3D"
+},
+{
+"text": "[tooltip: Go to Tiktok page]",
+"href": "https://www.tiktok.com/@jocelynrachele?_r=1&_t=ZT-917W9guipwL"
+}
 ]

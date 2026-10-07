@@ -1,7 +1,5 @@
-Let us know and we'll get back to you soon
-Email [email protected]
-Or call us at (262) 249-6972
-We’ve been through some difficult years here in Wisconsin.
+Why She's Running About Her The Issues Election Info Donate Reelect Greta Neubauer Democrat for the 66th Assembly District Want to get involved?
+Let us know and we'll get back to you soon Email [email protected] Or call us at (262) 249-6972 Take Action Donate Get Info On How to Vote Get A Yard Sign Volunteer With Us Why She's Running For Reelection We’ve been through some difficult years here in Wisconsin.
 Families are working hard to make ends meet and continuing to struggle.
 I understand why so many people are frustrated with government, and I believe you deserve better than you’ve gotten from the Republican-led legislature here in Wisconsin.
 With new and competitive legislative maps, the people of Wisconsin are finally able to make their voices heard in our Capitol.
@@ -15,7 +13,7 @@ And I will always work to restore and protect your rights.
 I look forward to connecting with constituents new and old throughout this campaign.
 Thank you for your trust and your partnership in the important work of building a Wisconsin where everyone can thrive.
 I’m excited to see what we can accomplish together in the years ahead.
-Greta Neubauer was born and raised in Racine, Wisconsin.
+About Her Learn more about Greta: Greta Neubauer was born and raised in Racine, Wisconsin.
 She is a fifth generation Racine resident and welcomed her first child, the sixth generation, this summer!
 She can’t wait to teach her daughter to swim in Lake Michigan.
 Growing up in a political family, Greta learned about the importance of service at an early age and started volunteering for political candidates in high school.
@@ -27,15 +25,17 @@ She is working to win the first Democratic trifecta in Wisconsin in 15 years and
 During her time in office, she has fought tirelessly for the people of Racine, Mt.
 Pleasant, Elmwood Park, and Sturtevant, focusing on strengthening our democracy and building a state where we all can thrive.
 She was a Victory Institute Bohnett Fellow at the Harvard Kennedy School, serves on the Democratic Legislative Campaign Committee Board, and is a Rodel Fellow.
-We must adequately fund and support our public schools so every kid can get a great reading and math education and be prepared for their future careers!
-Wisconsinites are struggling to make ends meet while the rich continue to get richer.
+The Issues Strengthening Our Public Schools We must adequately fund and support our public schools so every kid can get a great reading and math education and be prepared for their future careers!
+Fighting for Working Families Wisconsinites are struggling to make ends meet while the rich continue to get richer.
 We must lower the cost of healthcare, groceries, childcare, and housing.
-We can create good jobs and reduce inequality while cutting our carbon footprint.
+COMBATING CLIMATE CHANGE We can create good jobs and reduce inequality while cutting our carbon footprint.
 We owe this to future generations!
-We have a duty to make sure everyone has the opportunity to live up to their greatest potential, regardless of the color of their skin, who they love, or which neighborhood they are from.
-I believe that healthcare is a right, not a luxury, and we need to expand access and ensure affordability for every family.
+REDUCING DISPARITIES We have a duty to make sure everyone has the opportunity to live up to their greatest potential, regardless of the color of their skin, who they love, or which neighborhood they are from.
+SUPPORTING COMPREHENSIVE HEALTH CARE ACCESS I believe that healthcare is a right, not a luxury, and we need to expand access and ensure affordability for every family.
 If and when to end a pregnancy is a deeply personal decision and should not be up to politicians.
-We must ensure every eligible voter is able to cast their ballot and have their vote count.
+PROTECTING OUR DEMOCRACY We must ensure every eligible voter is able to cast their ballot and have their vote count.
 We must push back against politicians’ efforts to consolidate power by breaking the rules and ignoring the will of the people.
-In recent years, right-wing Republicans have ramped up the culture wars in an attempt to divide us.
+BUILDING SAFE AND WELCOMING COMMUNITIES In recent years, right-wing Republicans have ramped up the culture wars in an attempt to divide us.
 All Wisconsinites deserve to feel welcomed and supported in the communities they call home.
+Vote in the General Election on November 3rd Can I Vote For Greta?
+Click here to find your polling place Click here to make sure you are registered to vote Follow Greta on social media Donate Get Info On How to Vote Get A Yard Sign Volunteer With Us CONTACT INFO Phone: (262) 249-6972 email: [email protected] Authorized and Paid for by Friends of Greta Neubauer

@@ -1,8 +1,1 @@
-Contact
-Please direct mail to:
-Harris for House
-PO Box 171566
-Spartanburg, SC 29301
-Phone numbers:
-State House Office: 803-212-6788
-Personal Cell: 864-542-5036
+0 Skip to Content Home About Issues Record Survey Contact CONTRIBUTE Open Menu Close Menu Home About Issues Record Survey Contact CONTRIBUTE Open Menu Close Menu Home About Issues Record Survey Contact CONTRIBUTE Contact Please direct mail to: Harris for House PO Box 171566 Spartanburg, SC 29301 Phone numbers: State House Office: 803-212-6788 Personal Cell: 864-542-5036 © # HarrisForSC.com | Paid for by Harris for House Privacy Policy Terms and Conditions

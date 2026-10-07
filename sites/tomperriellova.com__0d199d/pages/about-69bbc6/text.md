@@ -1,6 +1,4 @@
-Skip navigation menu
-About
-At a moment when Washington is making it harder for families to afford the American dream, our communities deserve a trusted leader who’s proven that he will fight for the people over the powerful, and will defend our Constitutional rights against all threats, foreign and domestic.
+Skip navigation menu Home About Issues and Priorities Students Contact More Donate About Home About Issues and Priorities Students Contact More Donate About At a moment when Washington is making it harder for families to afford the American dream, our communities deserve a trusted leader who’s proven that he will fight for the people over the powerful, and will defend our Constitutional rights against all threats, foreign and domestic.
 Tom Perriello has spent 25 years winning tough fights — taking on corporate lobbyists, electric utility monopolies, and the Trump administration – and pushing for our country to go bigger and be bolder to deliver results that bring down costs, raise paychecks, and protect our democracy.
 Born in the shadow of the Blue Ridge Mountains and educated in Albemarle County public schools, Tom flipped one of Virginia's most conservative congressional districts in 2008 — a seat the pundits had written off.
 He cast the key vote to pass the Affordable Care Act, fought for Wall Street accountability, and earned an A+ from Iraq and Afghanistan veterans.
@@ -17,3 +15,8 @@ Tom has faced down threats to democracy, at home and abroad, even in the face of
 He spent four years fighting the abuses of the Trump Administration, stood against hate groups in the streets of Charlottesville, and rallied support for voting rights, civil liberties, and reproductive freedoms.
 In Congress, Tom held over 100 hours of town halls because he believes you can't represent people without listening to them first.
 Later, he served on the Boards of Indivisible and the Virginia League for Planned Parenthood, as well as co-founding Bird of Light Ukraine and MutualAidSudan.org.
+The son of Linda and Vito Perriello, Tom still lives outside Charlottesville.
+He is an Eagle Scout from Troop 114 and a graduate of Yale College and Yale Law School.
+His parents and his parish taught him to live a life of service, to treat compassion as a verb, and to understand that love of neighbor does not stop at the end of your street.
+Tom has 7 godchildren and is the proud uncle of 10 nieces and nephews.
+Privacy Policy Terms & Conditions Media Kit P.O Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.

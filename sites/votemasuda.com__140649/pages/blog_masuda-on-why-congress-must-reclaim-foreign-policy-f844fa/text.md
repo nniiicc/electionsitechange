@@ -1,5 +1,4 @@
-Congress Must Reclaim Foreign Policy
-We are witnessing an unprecedented era of 'diplomacy by whim' that erodes our Constitution, drains our Treasury, and leaves our allies in the dark.
+0 Skip to Content Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home Folder: About Back About CA5 Folder: Español Back Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Congress Must Reclaim Foreign Policy Feb 4 Written By Leah Waters We are witnessing an unprecedented era of 'diplomacy by whim' that erodes our Constitution, drains our Treasury, and leaves our allies in the dark.
 It is time to stop treating our world like a game of monopoly and start treating our foreign policy like the serious responsibility it is.
 The current administration is pursuing a senseless and dangerous foreign policy that will leave us weaker and alone in the years to come.
 Tom McClintock’s inaction undermines the checks and balances in the Constitution, and will leave us weaker and alone in the decades ahead.
@@ -16,12 +15,10 @@ Meanwhile, our wavering support for Ukraine undermines negotiations, emboldens R
 Diplomacy is based on trust, and violating that trust makes it even harder, if not impossible, for the United States to make new deals on issues like reducing nuclear stockpiles, foreign trade, intelligence sharing, and other work that protects the United States every day.
 The billions spent on military positioning and the inflation caused by trade disruptions are real.
 But the true cost of this 'imperial' foreign policy isn't just measured in dollars.
-The cost is:
-- Economic Risk: Global markets uncertainty hurting your 401(k) and retirement savings
-- Local Economies: Fewer foreign tourists visiting California, less money going to small businesses, and trade wars impacting our farmers and local businesses.
-- Nuclear Risk: Regional escalation that encourages non-nuclear states to develop their own nuclear weapons as their only safety guarantee
-- National Security: Making the United States less safe from war and terrorist threats as allies stop sharing intelligence.
-- Constitutional Erosion: Every presidential action without Congress silences the voice of the American people.
+The cost is: Economic Risk : Global markets uncertainty hurting your 401(k) and retirement savings Local Economies: Fewer foreign tourists visiting California, less money going to small businesses, and trade wars impacting our farmers and local businesses.
+Nuclear Risk: Regional escalation that encourages non-nuclear states to develop their own nuclear weapons as their only safety guarantee National Security: Making the United States less safe from war and terrorist threats as allies stop sharing intelligence.
+Constitutional Erosion: Every presidential action without Congress silences the voice of the American people.
 As a former public servant, I know that real strength requires military capability, respect for constitutional limits, and international cooperation.
 I am running to ensure that no President can commit American troops or taxpayer dollars to foreign conflicts without explicit, public consent of Congress.
 It is time to bring stability back to our shores and respect back to our Constitution.
+Leah Waters Previous Previous ICE shooting in backyard of House Immigration Subcommittee Chair Next Next ICE Navigation Media Issues Volunteer California District 05 Endorsements Blog Contact Us Proudly paid for by Masuda for Congress‍ Committee ID #C00905133 Privacy Policy and Terms & Conditions

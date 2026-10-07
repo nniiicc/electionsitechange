@@ -1,13 +1,7 @@
-Back to All Events
-There is nothing quite like the energy of our hometown coming together in unity, color, and joy!
+0 Skip to Content About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Back Donate Back to All Events Battle Creek Pride Parade Friday, July 17, 2026 6:30 PM 8:00 PM Downtown Battle Creek (map) Google Calendar ICS There is nothing quite like the energy of our hometown coming together in unity, color, and joy!
 Anthony and Team Pennock are absolutely thrilled to be marching in the annual Battle Creek Pride Parade, and we want you to grab a shirt, grab a flag, and walk right alongside us through the heart of downtown!
 Want to walk with Anthony, wave to neighbors, and help pass out Team Pennock materials?
 We want a big, energetic crew!
-Sign up below to get the exact staging area details and lineup times.
-Previous
-Previous
-June 20
-Battle Creek Juneteenth Celebration
-Next
-Next
-July 18
+Sign up below to get the exact staging area details and lineup times. https://forms.gle/eZSBGScfHpwJ6yTP9 Previous Previous June 20 Battle Creek Juneteenth Celebration Next Next July 18 Battle Creek Pride Festival Follow the Campaign BlueSky Donate by Mail P.O.
+Box 61 Battle Creek, MI 49016 info@ pennock4misenate.com This website is created. paid for, and managed by the Committee to Elect Anthony Pennock State Senator, P.O.
+Box 61, Battle Creek, MI 49016

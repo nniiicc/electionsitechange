@@ -1,7 +1,9 @@
 {
  "description": "Contribute to the campaign",
  "final_url": "https://www.riker4pg.com/contribute?amount=1000",
- "paid_for_by": null,
+ "fingerprint": "4ba169e7aaefafe5b55dd83ac0bfa88c8a835af2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contribute",
  "years_mentioned": []
 }

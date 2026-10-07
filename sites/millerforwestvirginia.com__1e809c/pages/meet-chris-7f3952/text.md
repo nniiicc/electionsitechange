@@ -1,4 +1,4 @@
-Chris Miller isn't a career politician.
+Home Meet Chris Volunteer for Chris Endorse Chris Contact Us Donate DONATE Meet Chris Chris Miller isn't a career politician.
 He's a businessman, employing 500 West Virginians, who believes government should solve problems, not create them.
 Chris got his first job delivering newspapers when he was ten years old.
 By fifteen, he was working on a bison farm.
@@ -20,3 +20,6 @@ And he sees a government in Charleston that too often forgets who it works for.
 That's why Chris is running.
 Not to become another politician.
 To put West Virginia first every day by building the infrastructure West Virginia deserves, keeping West Virginians in West Virginia, preparing our kids for success, and cleaning up Charleston.
+DONATE VIA CHECK Miller for WV PO Box 328 Huntington, WV 25708 DONATE ONLINE Paid for by Miller for State Senate WV Copyright #.
+Miller for State Senate WV.
+All rights reserved.

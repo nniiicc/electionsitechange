@@ -1,4 +1,26 @@
 [
-"https://pizzutoforrep.com/",
-"https://pizzutoforrep.com/home"
+{
+"text": "About",
+"href": "https://pizzutoforrep.com/home#about"
+},
+{
+"text": "Bill Pizzuto",
+"href": "https://pizzutoforrep.com/"
+},
+{
+"text": "Contact",
+"href": "https://pizzutoforrep.com/home#contact"
+},
+{
+"text": "Election",
+"href": "https://pizzutoforrep.com/home#primary"
+},
+{
+"text": "Get Involved",
+"href": "https://pizzutoforrep.com/home#contact"
+},
+{
+"text": "Record",
+"href": "https://pizzutoforrep.com/home#record"
+}
 ]

@@ -1,2 +1,2 @@
-Contribute to the Campaign Support my effort to bring effective leadership to Bismarck for District 15 by clicking below.
-DONATE Learn More About Corry Learn How to Vote Contact Me
+0 Skip to Content Home About Corry How to Vote Get In Touch Donate Open Menu Close Menu Home About Corry How to Vote Get In Touch Donate Open Menu Close Menu Home About Corry How to Vote Get In Touch Donate Contribute to the Campaign Support my effort to bring effective leadership to Bismarck for District 15 by clicking below.
+DONATE Learn More About Corry Learn How to Vote Contact Me Paid for by Candidate

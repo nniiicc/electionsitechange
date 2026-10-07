@@ -1,7 +1,11 @@
 {
  "description": "Bryan Hopkins Campaign Events",
  "final_url": "https://www.bryanhopkins4idaho.com/Events?range=2026-W42",
- "paid_for_by": null,
+ "fingerprint": "e53fad7922e2b1a0cc428cf27000e36618b9915b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Bryan Hopkins Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

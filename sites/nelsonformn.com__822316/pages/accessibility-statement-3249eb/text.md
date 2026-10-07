@@ -1,34 +1,16 @@
-As a Democratic State Senator, Angela Nelson is committed to ensuring accessibility and inclusion for all.
+top of page Home Meet Angela Priorities Endorsements Get Involved Events Newsroom More Use tab to navigate through the menu items.
+DONATE As a Democratic State Senator, Angela Nelson is committed to ensuring accessibility and inclusion for all.
 The purpose of this statement is to affirm our dedication to making our website accessible to all individuals, including those with disabilities.
 We are continuously working to ensure that our site complies with the latest accessibility standards and guidelines.
-Accessibility Statement
-This statement reflects our ongoing efforts to improve the accessibility of our website.
+Accessibility Statement This statement reflects our ongoing efforts to improve the accessibility of our website.
 We strive to provide a seamless and enjoyable browsing experience for all visitors, regardless of their abilities.
-OUR COMMITMENT TO WEB ACCESSIBILITY
-At Angela Nelson for State Senate, we believe that web accessibility is essential.
+OUR COMMITMENT TO WEB ACCESSIBILITY At Angela Nelson for State Senate, we believe that web accessibility is essential.
 Our goal is to create a website that allows individuals with disabilities to navigate, understand, and interact with the content effectively, ensuring they have the same opportunities to engage with our campaign.
-ACCESSIBILITY INITIATIVES ON THIS SITE
-Our website conforms to the WCAG 2.1 guidelines at the AA level, ensuring that it is accessible to a wide range of assistive technologies.
-We have implemented various adjustments to enhance accessibility, including:
-- Used the Accessibility Wizard to find and fix potential accessibility issues
-- Set the language of the site
-- Set the content order of the site’s pages
-- Defined clear heading structures on all of the site’s pages
-- Added alternative text to images
-- Implemented color combinations that meet the required color contrast
-- Reduced the use of motion on the site
-- Ensured all videos, audio, and files on the site are accessible
-DECLARATION OF PARTIAL COMPLIANCE WITH THE STANDARD DUE TO THIRD-PARTY CONTENT [ONLY ADD IF RELEVANT]
-The accessibility of certain pages on the site depend on contents that do not belong to the organization, and instead belong to [enter relevant third-party name].
-The following pages are affected by this: [list the URLs of the pages].
+ACCESSIBILITY INITIATIVES ON THIS SITE Our website conforms to the WCAG 2.1 guidelines at the AA level, ensuring that it is accessible to a wide range of assistive technologies.
+We have implemented various adjustments to enhance accessibility, including: Used the Accessibility Wizard to find and fix potential accessibility issues Set the language of the site Set the content order of the site’s pages Defined clear heading structures on all of the site’s pages Added alternative text to images Implemented color combinations that meet the required color contrast Reduced the use of motion on the site Ensured all videos, audio, and files on the site are accessible DECLARATION OF PARTIAL COMPLIANCE WITH THE STANDARD DUE TO THIRD-PARTY CONTENT [ONLY ADD IF RELEVANT] The accessibility of certain pages on the site depend on contents that do not belong to the organization, and instead belong to [enter relevant third-party name] .
+The following pages are affected by this: [list the URLs of the pages] .
 We therefore declare partial compliance with the standard for these pages.
-ACCESSIBILITY ARRANGEMENTS IN THE ORGANIZATION [ONLY ADD IF RELEVANT]
-[Enter a description of the accessibility arrangements in the physical offices / branches of your site's organization or business.
+ACCESSIBILITY ARRANGEMENTS IN THE ORGANIZATION [ONLY ADD IF RELEVANT] [Enter a description of the accessibility arrangements in the physical offices / branches of your site's organization or business.
 The description can include all current accessibility arrangements - starting from the beginning of the service (e.g., the parking lot and / or public transportation stations) to the end (such as the service desk, restaurant table, classroom etc.).
-It is also required to specify any additional accessibility arrangements, such as disabled services and their location, and accessibility accessories (e.g. in audio inductions and elevators) available for use]
-REQUESTS, ISSUES, AND SUGGESTIONS
-If you find an accessibility issue on the site, or if you require further assistance, you are welcome to contact us through the organization's accessibility coordinator:
-- [Name of the accessibility coordinator]
-- [Telephone number of the accessibility coordinator]
-- [Email address of the accessibility coordinator]
-- [Enter any additional contact details if relevant / available]
+It is also required to specify any additional accessibility arrangements, such as disabled services and their location, and accessibility accessories (e.g. in audio inductions and elevators) available for use] REQUESTS, ISSUES, AND SUGGESTIONS If you find an accessibility issue on the site, or if you require further assistance, you are welcome to contact us through the organization's accessibility coordinator: [Name of the accessibility coordinator] [Telephone number of the accessibility coordinator] [Email address of the accessibility coordinator] [Enter any additional contact details if relevant / available] Terms & Conditions ​ ​ ​ ​​Prepared and Paid for by Campaign for Angela Nelson P.O.
+Box 48028 Coon Rapids, MN, 55433 nelsonformn@gmail.com Privacy Policy Accessibility Statement bottom of page

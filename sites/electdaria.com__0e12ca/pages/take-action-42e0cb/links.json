@@ -1,19 +1,110 @@
 [
-"https://electdaria.com/",
-"https://electdaria.com/cart",
-"https://electdaria.com/endorse",
-"https://electdaria.com/endorsements",
-"https://electdaria.com/media",
-"https://electdaria.com/meet-daria",
-"https://electdaria.com/platform",
-"https://electdaria.com/policies",
-"https://electdaria.com/privacy-policy",
-"https://electdaria.com/take-action",
-"https://electdaria.com/volunteer-1",
-"https://electdaria.com/yard-sign",
-"https://facebook.com/share/182BDtFdA6?mibextid=wwXIfr",
-"https://instagram.com/elect_daria",
-"https://linkedin.com/in/dilgen",
-"https://secure.actblue.com/donate/dariailgen",
-"https://secure.anedot.com/electdaria/donate"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/dariailgen"
+},
+{
+"text": "$1200",
+"href": "https://secure.actblue.com/donate/dariailgen"
+},
+{
+"text": "$23 for the 23rd Legislative District",
+"href": "https://secure.actblue.com/donate/dariailgen"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/dariailgen"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/dariailgen"
+},
+{
+"text": "$67 (in case you're unsure like my kids)",
+"href": "https://secure.actblue.com/donate/dariailgen"
+},
+{
+"text": "0",
+"href": "https://www.electdaria.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.electdaria.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dariailgen"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/electdaria/donate"
+},
+{
+"text": "Endorse Daria",
+"href": "https://www.electdaria.com/endorse"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electdaria.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.electdaria.com/"
+},
+{
+"text": "Media",
+"href": "https://www.electdaria.com/media"
+},
+{
+"text": "Meet Daria",
+"href": "https://www.electdaria.com/meet-daria"
+},
+{
+"text": "Other amount...",
+"href": "https://secure.actblue.com/donate/dariailgen"
+},
+{
+"text": "Platform",
+"href": "https://www.electdaria.com/platform"
+},
+{
+"text": "Policies",
+"href": "https://www.electdaria.com/policies"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electdaria.com/privacy-policy"
+},
+{
+"text": "Request a sign",
+"href": "https://www.electdaria.com/yard-sign"
+},
+{
+"text": "Take Action",
+"href": "https://www.electdaria.com/take-action"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electdaria.com/volunteer-1"
+},
+{
+"text": "[image: Daria Ilgen for State Rep]",
+"href": "https://www.electdaria.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/182BDtFdA6/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/elect_daria"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/dilgen"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@electdaria.com"
+}
 ]

@@ -1,25 +1,102 @@
 [
-"https://ehrforcongress.us/",
-"https://ehrforcongress.us/fl-28-debates",
-"https://ehrforcongress.us/meet-phil",
-"https://ehrforcongress.us/meet-phil?share=facebook",
-"https://ehrforcongress.us/meet-phil?share=x",
-"https://ehrforcongress.us/press",
-"https://ehrforcongress.us/privacy-policy",
-"https://ehrforcongress.us/volunteer",
-"https://ehrforcongress.us/voter-information",
-"https://facebook.com/PhilEhrFlorida",
-"https://instagram.com/phil.ehr?hl=en",
-"https://linkedin.com/in/philehr",
-"https://secure.actblue.com/donate/phil-ehr",
-"https://secure.actblue.com/donate/phil-ehr-for-congress",
-"https://secure.actblue.com/donate/phil-ehr-for-congress?amount=100",
-"https://secure.actblue.com/donate/phil-ehr-for-congress?amount=1000",
-"https://secure.actblue.com/donate/phil-ehr-for-congress?amount=25",
-"https://secure.actblue.com/donate/phil-ehr-for-congress?amount=250",
-"https://secure.actblue.com/donate/phil-ehr-for-congress?amount=5",
-"https://secure.actblue.com/donate/phil-ehr-for-congress?amount=500",
-"https://secure.actblue.com/donate/phil-ehr-for-congress?amount=750",
-"https://twitter.com/PhilEhr",
-"https://youtube.com/channel/UCdVj9vxDJrebsj433sViJIA"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/phil-ehr-for-congress?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/phil-ehr-for-congress?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/phil-ehr-for-congress?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/phil-ehr-for-congress?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/phil-ehr-for-congress?amount=5"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/phil-ehr-for-congress?amount=500"
+},
+{
+"text": "$750",
+"href": "https://secure.actblue.com/donate/phil-ehr-for-congress?amount=750"
+},
+{
+"text": "CLICK HERE",
+"href": "https://www.linkedin.com/in/philehr"
+},
+{
+"text": "Custom",
+"href": "https://secure.actblue.com/donate/phil-ehr-for-congress"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/phil-ehr"
+},
+{
+"text": "FL-28 Debate Request: Two Public Debates in Miami-Dade and Monroe",
+"href": "https://ehrforcongress.us/fl-28-debates/"
+},
+{
+"text": "Home",
+"href": "https://ehrforcongress.us/"
+},
+{
+"text": "Meet Phil",
+"href": "https://ehrforcongress.us/meet-phil/"
+},
+{
+"text": "Press",
+"href": "https://ehrforcongress.us/press/"
+},
+{
+"text": "Priorities",
+"href": "https://ehrforcongress.us/meet-phil/#priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ehrforcongress.us/privacy-policy/"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://ehrforcongress.us/meet-phil/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://ehrforcongress.us/meet-phil/?share=x"
+},
+{
+"text": "Volunteer",
+"href": "https://ehrforcongress.us/volunteer/"
+},
+{
+"text": "Voter Information",
+"href": "https://ehrforcongress.us/voter-information/"
+},
+{
+"text": "[image: Vote Phil Ehr]",
+"href": "https://ehrforcongress.us/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/PhilEhr"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/PhilEhrFlorida"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/phil.ehr/?hl=en"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/channel/UCdVj9vxDJrebsj433sViJIA"
+}
 ]

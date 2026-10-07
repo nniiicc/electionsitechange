@@ -1,10 +1,19 @@
 {
  "description": "",
  "final_url": "https://samzurier.com/public-service-record/",
- "paid_for_by": null,
+ "fingerprint": "54e4b5042212db7f34773cbf44f8679575a80ae2",
+ "format": 3,
+ "paid_for_by": "Authorized by Friends of Sam Zurier, Sam Zurier, Treasurer",
  "title": "Public Service Record | Sam Zurier New Site",
  "years_mentioned": [
+  "2000",
+  "2006",
+  "2009",
   "2011",
-  "2019"
+  "2019",
+  "2022",
+  "2024",
+  "2025",
+  "2026"
  ]
 }

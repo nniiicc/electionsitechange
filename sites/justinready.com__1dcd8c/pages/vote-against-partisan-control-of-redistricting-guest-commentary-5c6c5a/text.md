@@ -1,6 +1,4 @@
-October 5, 2026
-Vote against partisan control of redistricting | GUEST COMMENTARY
-The 2026 Election is here – early voting starts this month, October 22nd.
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate October 5, 2026 Vote against partisan control of redistricting | GUEST COMMENTARY The 2026 Election is here – early voting starts this month, October 22 nd .
 Maryland voters have grown accustomed to having ballot initiatives, sometimes high profile and controversial, while other times they get little attention.
 This year, there is a profoundly consequential constitutional change being proposed – Question 3.
 Question 3 affects fundamental individual rights under the Maryland Declaration of Rights in our state constitution.
@@ -9,8 +7,7 @@ Maryland voters should vote “Against” Question 3 because it would place too 
 At its core, this amendment is not a mere “clarification” of the law as claimed by its supporters — it is a scheme to erase state constitutional limits on congressional mapmaking, entrenching extreme gerrymandering – even more than has already happened – in Marylaned.
 Approval of Question 3 would grant a permanent, unchecked and unlimited license to gerrymander, pure and simple and freeze out ALL minority party representation in our 10 member U.S.
 Congressional delegation.
-Here are specific reasons why I’m voting against Question 3 and believe it must be rejected by Maryland voters:
-First, politicians should not be able to draw their own district lines without enforceable limits.
+Here are specific reasons why I’m voting against Question 3 and believe it must be rejected by Maryland voters: First, politicians should not be able to draw their own district lines without enforceable limits.
 That is an obvious conflict of interest.
 Congressional maps determine which communities are grouped together and whether voters have a meaningful opportunity to choose their representatives.
 This is not a Democrat vs.
@@ -29,13 +26,13 @@ Third, every Maryland voter deserves a meaningful voice in choosing a representa
 Gerrymandering can predetermine elections before a single vote is cast.
 By carefully arranging district boundaries, politicians can pack opposing voters into a small number of districts or divide them among several districts where they cannot elect a candidate of their choice.
 Finally, Maryland’s record on gerrymandering is already among the worst in the country.
-Over the past two decades, congressional maps have helped transform Maryland’s delegation from an even 4–4 split in 2002 to seven Democrats and one Republican in 2012, 14 years ago.
+Over the past two decades, congressional maps have helped transform Maryland’s delegation from an even 4–4 split in 2002 to seven Democrats and one Republican in 2012, #ago.
 And make no mistake, the supporters of Question 3 hope and believe that it will take the delegation split to 8-0.
 Clearly, this initiative would not correct Maryland’s history of partisan gerrymandering.
 It would lock it in stone.
 Most concerning of all, in my view, is if Question 3 is approved, then these Constitutional protections are likely gone forever, because voters would have little practical way to restore them: Maryland law does not allow for citizens to place constitutional amendments on the ballot through a petition process.
 Any reform restoring limitations on partisan mapmaking would first need approval from the General Assembly — the very body that removed the limits and benefits most from their absence.
-Please join me in voting Against Question 3 on your ballot this November 3rd.
+Please join me in voting Against Question 3 on your ballot this November 3 rd .
 Keep constitutional safeguards in place and protect every voter’s voice.
-Justin Ready
-The writer is a State Senator, representing District 5 (Carroll & Frederick Counties).
+Justin Ready The writer is a State Senator, representing District 5 (Carroll & Frederick Counties).
+Return To News > Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer

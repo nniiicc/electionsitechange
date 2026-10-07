@@ -1,50 +1,242 @@
 [
-"https://constitution.congress.gov/browse/amendment-1",
-"https://constitution.congress.gov/browse/amendment-14/section-1",
-"https://constitution.congress.gov/browse/amendment-15",
-"https://constitution.congress.gov/browse/amendment-19",
-"https://constitution.congress.gov/browse/amendment-22",
-"https://constitution.congress.gov/browse/amendment-26",
-"https://constitution.congress.gov/browse/amendment-4",
-"https://constitution.congress.gov/browse/amendment-5",
-"https://constitution.congress.gov/browse/article-1/section-2",
-"https://constitution.congress.gov/browse/article-1/section-8",
-"https://coraandkrist.com/",
-"https://erikosberg4congres.com/",
-"https://erikosberg4congress.com/",
-"https://erikosberg4congress.com/38doors",
-"https://erikosberg4congress.com/38phones",
-"https://erikosberg4congress.com/accessibility",
-"https://erikosberg4congress.com/events",
-"https://erikosberg4congress.com/get-involved",
-"https://erikosberg4congress.com/join-the-team",
-"https://erikosberg4congress.com/media-toolkit",
-"https://erikosberg4congress.com/meet-erik",
-"https://erikosberg4congress.com/priorities",
-"https://erikosberg4congress.com/priorities/agriculture-the-farm-bill",
-"https://erikosberg4congress.com/priorities/defend-the-constitution",
-"https://erikosberg4congress.com/priorities/environmental-stewardship",
-"https://erikosberg4congress.com/priorities/equal-rights-no-exceptions",
-"https://erikosberg4congress.com/priorities/fighting-fraud-waste-in-government",
-"https://erikosberg4congress.com/priorities/firearms-gun-safety",
-"https://erikosberg4congress.com/priorities/get-corporate-money-out-of-politics",
-"https://erikosberg4congress.com/priorities/healthcare-for-everyone",
-"https://erikosberg4congress.com/priorities/honoring-our-veterans",
-"https://erikosberg4congress.com/priorities/housing-homelessness",
-"https://erikosberg4congress.com/priorities/protecting-our-seniors",
-"https://erikosberg4congress.com/priorities/reproductive-rights",
-"https://erikosberg4congress.com/priorities/strengthening-public-education",
-"https://erikosberg4congress.com/priorities/with-liberty-and-justice-for-all",
-"https://erikosberg4congress.com/priorities/workers-rights-union-protections",
-"https://erikosberg4congress.com/privacy-policy-terms-of-use",
-"https://erikosberg4congress.com/updates",
-"https://erikosberg4congress.com/volunteer-hub",
-"https://erikosberg4congress.com/voting",
-"https://facebook.com/ErikOsbergForCongress",
-"https://instagram.com/ErikOsbergMN",
-"https://secure.actblue.com/donate/erik-osberg",
-"https://store.erikosberg4congress.com/",
-"https://tiktok.com/@erikosbergmn",
-"https://x.com/ErikOsbergMN",
-"https://youtube.com/@ErikOsbergForCongress"
+{
+"text": "38 Door Club",
+"href": "https://www.erikosberg4congress.com/38doors/"
+},
+{
+"text": "38 Phones Club",
+"href": "https://www.erikosberg4congress.com/38phones/"
+},
+{
+"text": "Accessibility",
+"href": "https://www.erikosberg4congress.com/accessibility/"
+},
+{
+"text": "Agriculture & the Farm Bill",
+"href": "https://www.erikosberg4congress.com/priorities/agriculture-the-farm-bill/"
+},
+{
+"text": "Article I, Section 2: Apportionment",
+"href": "https://constitution.congress.gov/browse/article-1/section-2/"
+},
+{
+"text": "Article I, Section 8: Powers of Congress",
+"href": "https://constitution.congress.gov/browse/article-1/section-8/"
+},
+{
+"text": "Cora+Krist",
+"href": "https://coraandkrist.com"
+},
+{
+"text": "Defend The Constitution",
+"href": "https://www.erikosberg4congress.com/priorities/defend-the-constitution/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/erik-osberg"
+},
+{
+"text": "Environmental Stewardship",
+"href": "https://www.erikosberg4congress.com/priorities/environmental-stewardship/"
+},
+{
+"text": "Equal Rights. No Exceptions.",
+"href": "https://www.erikosberg4congress.com/priorities/equal-rights-no-exceptions/"
+},
+{
+"text": "Erik Osberg for Congress",
+"href": "https://www.erikosberg4congress.com"
+},
+{
+"text": "Events",
+"href": "https://www.erikosberg4congress.com/events"
+},
+{
+"text": "Events",
+"href": "https://www.erikosberg4congress.com/events/"
+},
+{
+"text": "Fifteenth Amendment: Right to Vote Regardless of Race",
+"href": "https://constitution.congress.gov/browse/amendment-15/"
+},
+{
+"text": "Fifth Amendment: Due Process",
+"href": "https://constitution.congress.gov/browse/amendment-5/"
+},
+{
+"text": "Fighting Fraud & Waste in Government",
+"href": "https://www.erikosberg4congress.com/priorities/fighting-fraud-waste-in-government/"
+},
+{
+"text": "Firearms & Gun Safety",
+"href": "https://www.erikosberg4congress.com/priorities/firearms-gun-safety/"
+},
+{
+"text": "First Amendment: Speech, Press, Religion, Assembly & Petition",
+"href": "https://constitution.congress.gov/browse/amendment-1/"
+},
+{
+"text": "Fourteenth Amendment, Section 1: Citizenship, Due Process & Equal Protection",
+"href": "https://constitution.congress.gov/browse/amendment-14/section-1/"
+},
+{
+"text": "Fourth Amendment: Protection from Unreasonable Search and Seizure",
+"href": "https://constitution.congress.gov/browse/amendment-4/"
+},
+{
+"text": "GET IN TOUCH",
+"href": "mailto:info@erikosberg4congress.com"
+},
+{
+"text": "Get Corporate Money Out of Politics",
+"href": "https://www.erikosberg4congress.com/priorities/get-corporate-money-out-of-politics/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.erikosberg4congress.com/get-involved/"
+},
+{
+"text": "Healthcare for Everyone",
+"href": "https://www.erikosberg4congress.com/priorities/healthcare-for-everyone/"
+},
+{
+"text": "Home",
+"href": "https://erikosberg4congres.com/"
+},
+{
+"text": "Honoring Our Veterans",
+"href": "https://www.erikosberg4congress.com/priorities/honoring-our-veterans/"
+},
+{
+"text": "Housing & Homelessness",
+"href": "https://www.erikosberg4congress.com/priorities/housing-homelessness/"
+},
+{
+"text": "JOIN THE CAMPAIGN",
+"href": "https://www.erikosberg4congress.com/get-involved/"
+},
+{
+"text": "Join The Team",
+"href": "https://www.erikosberg4congress.com/join-the-team/"
+},
+{
+"text": "Media Toolkit",
+"href": "https://www.erikosberg4congress.com/media-toolkit/"
+},
+{
+"text": "Meet Erik",
+"href": "https://www.erikosberg4congress.com/meet-erik"
+},
+{
+"text": "Meet Erik",
+"href": "https://www.erikosberg4congress.com/meet-erik/"
+},
+{
+"text": "Nineteenth Amendment: Women’s Right to Vote",
+"href": "https://constitution.congress.gov/browse/amendment-19/"
+},
+{
+"text": "Priorities",
+"href": "https://www.erikosberg4congress.com/priorities/"
+},
+{
+"text": "Privacy Policy & Terms of Use",
+"href": "https://www.erikosberg4congress.com/privacy-policy-terms-of-use/"
+},
+{
+"text": "Privacy Policy and Terms & Conditions.",
+"href": "https://www.erikosberg4congress.com/privacy-policy-terms-of-use/"
+},
+{
+"text": "Protecting Our Seniors",
+"href": "https://www.erikosberg4congress.com/priorities/protecting-our-seniors/"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://www.erikosberg4congress.com/priorities/reproductive-rights/"
+},
+{
+"text": "Store",
+"href": "https://store.erikosberg4congress.com"
+},
+{
+"text": "Store",
+"href": "https://store.erikosberg4congress.com/"
+},
+{
+"text": "Strengthening Public Education",
+"href": "https://www.erikosberg4congress.com/priorities/strengthening-public-education/"
+},
+{
+"text": "Twenty-Second Amendment: Presidential Term Limits",
+"href": "https://constitution.congress.gov/browse/amendment-22/"
+},
+{
+"text": "Twenty-Sixth Amendment: Right to Vote at Age 18",
+"href": "https://constitution.congress.gov/browse/amendment-26/"
+},
+{
+"text": "Updates",
+"href": "https://www.erikosberg4congress.com/updates"
+},
+{
+"text": "Updates",
+"href": "https://www.erikosberg4congress.com/updates/"
+},
+{
+"text": "Volunteer Hub",
+"href": "https://www.erikosberg4congress.com/volunteer-hub/"
+},
+{
+"text": "Voting",
+"href": "https://www.erikosberg4congress.com/voting"
+},
+{
+"text": "Voting",
+"href": "https://www.erikosberg4congress.com/voting/"
+},
+{
+"text": "With Liberty & Justice for All",
+"href": "https://www.erikosberg4congress.com/priorities/with-liberty-and-justice-for-all/"
+},
+{
+"text": "With Liberty and Justice for All",
+"href": "https://www.erikosberg4congress.com/priorities/with-liberty-and-justice-for-all/"
+},
+{
+"text": "Workers’ Rights & Union Protections",
+"href": "https://www.erikosberg4congress.com/priorities/workers-rights-union-protections/"
+},
+{
+"text": "[image: Erik Osberg for Congress]",
+"href": "https://www.erikosberg4congress.com"
+},
+{
+"text": "[image]",
+"href": "hhttps://bsky.app/profile/erikosbergmn.bsky.social"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/ErikOsbergForCongress/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/ErikOsbergMN"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@erikosbergmn"
+},
+{
+"text": "[image]",
+"href": "https://www.x.com/ErikOsbergMN"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@ErikOsbergForCongress"
+},
+{
+"text": "info@erikosberg4congress.com",
+"href": "mailto:info@erikosberg4congress.com"
+}
 ]

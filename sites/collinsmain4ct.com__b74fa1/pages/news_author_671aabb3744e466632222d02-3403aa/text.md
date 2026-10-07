@@ -1,4 +1,3 @@
-Press Release: State Representative Eilish Collins Main Announces Candidacy for Reelection
-First-Term Lawmaker Ready to Continue Delivering for Stamford Constituents
-The Stamford Current: Collins Main, Stamford Delegation Obtain Funding for Pacific House
-“The funding for Pacific House is a major win to help the shelter expand its services and continue to provide quality support to those experiencing homelessness in Fairfield County, especially going into the winter season,” Collins Main said.
+0 Skip to Content Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Eilish Main 5/26/26 Eilish Main 5/26/26 Press Release: State Representative Eilish Collins Main Announces Candidacy for Reelection First-Term Lawmaker Ready to Continue Delivering for Stamford Constituents Read More Eilish Main 12/5/25 Eilish Main 12/5/25 The Stamford Current: Collins Main, Stamford Delegation Obtain Funding for Pacific House “The funding for Pacific House is a major win to help the shelter expand its services and continue to provide quality support to those experiencing homelessness in Fairfield County, especially going into the winter season,” Collins Main said.
+Read More Privacy Policy Paid for by Eilish Collins Main for CT, Christopher Brown, Treasurer.
+Approved by Eilish Collins Main.

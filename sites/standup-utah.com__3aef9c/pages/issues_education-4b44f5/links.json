@@ -1,20 +1,106 @@
 [
-"https://facebook.com/",
-"https://gardner.utah.edu/",
-"https://instagram.com/",
-"https://nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank",
-"https://secure.actblue.com/donate/nicole-melling-1",
-"https://sltrib.com/news/education",
-"https://standup-utah.com/",
-"https://standup-utah.com/contact",
-"https://standup-utah.com/issues",
-"https://standup-utah.com/issues/affordable-housing",
-"https://standup-utah.com/issues/legislative-accountability",
-"https://standup-utah.com/meet-nicole",
-"https://standup-utah.com/news",
-"https://standup-utah.com/volunteer",
-"https://standup-utah.com/vote",
-"https://standup-utah.com/your-voice",
-"https://twitter.com/",
-"https://utahfoundation.org/"
+{
+"text": "Affordable Housing",
+"href": "https://standup-utah.com/issues/affordable-housing"
+},
+{
+"text": "All Issues",
+"href": "https://standup-utah.com/issues"
+},
+{
+"text": "Contact",
+"href": "https://standup-utah.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/nicole-melling-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nicole-melling-1"
+},
+{
+"text": "Gardner Policy Institute",
+"href": "https://gardner.utah.edu"
+},
+{
+"text": "Home",
+"href": "https://standup-utah.com/"
+},
+{
+"text": "Issues",
+"href": "https://standup-utah.com/issues"
+},
+{
+"text": "Issues & Priorities",
+"href": "https://standup-utah.com/issues"
+},
+{
+"text": "Join the Team",
+"href": "https://standup-utah.com/volunteer"
+},
+{
+"text": "Legislative Accountability",
+"href": "https://standup-utah.com/issues/legislative-accountability"
+},
+{
+"text": "Meet Nicole",
+"href": "https://standup-utah.com/meet-nicole"
+},
+{
+"text": "NEA – Educator Pay Report",
+"href": "https://www.nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank"
+},
+{
+"text": "News",
+"href": "https://standup-utah.com/news"
+},
+{
+"text": "Salt Lake Tribune – Education Coverage",
+"href": "https://www.sltrib.com/news/education/"
+},
+{
+"text": "Source: Gardner Policy Institute",
+"href": "https://gardner.utah.edu"
+},
+{
+"text": "Source: NEA Educator Pay Report",
+"href": "https://www.nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank"
+},
+{
+"text": "Source: Utah Foundation",
+"href": "https://www.utahfoundation.org"
+},
+{
+"text": "Utah Foundation – Education Funding",
+"href": "https://www.utahfoundation.org"
+},
+{
+"text": "Vote",
+"href": "https://standup-utah.com/vote"
+},
+{
+"text": "Your Voice",
+"href": "https://standup-utah.com/your-voice"
+},
+{
+"text": "[image: Stand Up Utah]STAND UP UTAHNicole Melling for Utah House",
+"href": "https://standup-utah.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com"
+},
+{
+"text": "info@standup-utah.com",
+"href": "mailto:info@standup-utah.com"
+}
 ]

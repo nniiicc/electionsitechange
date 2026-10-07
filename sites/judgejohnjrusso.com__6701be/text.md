@@ -1,4 +1,5 @@
-Cuyahoga County Common Pleas Court Judge John J.
+Judge John J.
+Russo Cuyahoga County Common Pleas Court Judge John J.
 Russo, who has presided over thousands of complex civil and serious criminal cases since being elected to the Court in 2004, is widely regarded as one of Ohio’s most knowledgeable, effective, and experienced jurists.
 During his time on the bench his impartiality, exemplary judicial temperament, adherence to the highest ethical standards, and unwavering commitment to upholding the rule of law and the Constitution have earned the respect and admiration of his fellow judges, the legal community, and the public.
 Judge Russo’s standing among his colleagues is reflected in the fact that they unanimously elected him to lead the Court as its Administrative and Presiding Judge from 2014 through 2019.

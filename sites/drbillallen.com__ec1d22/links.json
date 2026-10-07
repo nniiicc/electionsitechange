@@ -1,7 +1,38 @@
 [
-"https://drbillallen.com/",
-"https://drbillallen.com/promises",
-"https://facebook.com/BillAllenforMO",
-"https://flic.kr/s/aHBqjD3WMF",
-"https://secure.anedot.com/billallenformo/donate"
+{
+"text": "BillAllenForMO@gmail.com",
+"href": "mailto:BillAllenForMO@gmail.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.drbillallen.com"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/billallenformo/donate"
+},
+{
+"text": "DONATE NOW!",
+"href": "https://secure.anedot.com/billallenformo/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.drbillallen.com"
+},
+{
+"text": "PROMISES KEPT",
+"href": "https://www.drbillallen.com/promises"
+},
+{
+"text": "Photos",
+"href": "https://flic.kr/s/aHBqjD3WMF"
+},
+{
+"text": "Read More",
+"href": "https://www.drbillallen.com/promises"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BillAllenforMO/"
+}
 ]

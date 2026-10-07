@@ -1,37 +1,6 @@
-Proud Of Our
-Endorsements
-Across Anne Arundel County and Maryland, we're garnering community support for our campaign
-MSEA
-Pam Beidle
-Senator; District 32
-Mark Chang
-Delegate; District 32
-Jasmine M.
-Jackson
-Register of Wills; Anne Arundel County
-*Gun Sense Candidate designation, not an endorsement
-Dawn Gile
-Senator; District 33
-Heather Bagnall
-Delegate; District 33
-Ben Barnes
-Delegate, District 21
-Mary A.
-Lehman
-Delegate, District 21
-Julie Hummer
-Councilmember and Chair; District 4
-Allison Pickard
-Councilmember; District 2
-*Mental Health Candidate designation, not an endorsement
-Harry Dunn
-Fmr.
-Capitol Police Officer
-Will Shorter
-Community Leader; Councilmember Candidate
-Nick Allen
-Delegate; District 8
-Bonnie L.
-Cullison
-Delegate; District 19
-Reproductive Justice Maryland
+Donate Menu Home Meet Spencer Endorsements Vision Donate Voting Info Volunteer Follow us Proud Of Our Endorsements Across Anne Arundel County and Maryland, we're garnering community support for our campaign MSEA Pam Beidle Senator; District 32 Mark Chang Delegate; District 32 Jasmine M.
+Jackson Register of Wills; Anne Arundel County *Gun Sense Candidate designation, not an endorsement Dawn Gile Senator; District 33 Heather Bagnall Delegate; District 33 Ben Barnes Delegate, District 21 Mary A.
+Lehman Delegate, District 21 Julie Hummer Councilmember and Chair; District 4 Allison Pickard Councilmember; District 2 *Mental Health Candidate designation, not an endorsement Harry Dunn Fmr.
+Capitol Police Officer Will Shorter Community Leader; Councilmember Candidate Nick Allen Delegate; District 8 Bonnie L.
+Cullison Delegate; District 19 Economic Action Maryland Reproductive Justice Maryland Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Meet Spencer Endorsements Vision Donate Voting Info Volunteer Donate Follow us Accessibility Statement Authority Contact Authority: Dixon for MD - Treasurer: Thomas Yabroff 8604 Lark Place Laurel, MD 20724 Spencer Dixon - Democrat for Delegate © #

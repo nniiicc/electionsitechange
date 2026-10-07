@@ -1,16 +1,3 @@
-Currently resides outside Rogers, AR.
+Michael Kalagias For LT Governor Menu Home Bio Issues Media Contact Donate Bio Currently resides outside Rogers, AR.
 Resident of Benton County for 23 years.
-Bachelors degree from Wayland Baptist University 1990
-Teaching certification from Northeastern State University 1997
-US Navy 1992-1997, deployed to Persian Gulf in 1994, 1996
-Public School Teacher, Substitute Teacher, and School Security 1998-2018
-Volunteer Firefighter 2014-2022
-Current Vice Chair Board of Directors for Avoca Volunteer Fire/Rescue Department
-Current Board of Directors for Benton County Water District #1
-Married to 1st and only wife Cecilia Kalagias for 20 years and counting
-Former candidate for Arkansas state representative
-Former candidate for US Representative for Arkansas’ 3rd District
-Former Executive Committee member LPAR Former Chair, BCLP
-Life member of DAV
-Life member of VFW
-Member Gun Owners of Arkansas
+Bachelors degree from Wayland Baptist University 1990 Teaching certification from Northeastern State University 1997 US Navy 1992-1997, deployed to Persian Gulf in 1994, 1996 Public School Teacher, Substitute Teacher, and School Security 1998-2018 Volunteer Firefighter 2014-2022 Current Vice Chair Board of Directors for Avoca Volunteer Fire/Rescue Department Current Board of Directors for Benton County Water District #1 Married to 1st and only wife Cecilia Kalagias for 20 years and counting Former candidate for Arkansas state representative Former candidate for US Representative for Arkansas’ 3rd District Former Executive Committee member LPAR Former Chair, BCLP Life member of DAV Life member of VFW Member Gun Owners of Arkansas Paid for by Kalagias for AR

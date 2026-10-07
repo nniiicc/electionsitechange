@@ -1,8 +1,3 @@
-Contact Us
-We’d love to hear from you!
+0 Skip to Content Home Meet Grace Endorsements Policy District 27 Contact Us Donate Vote VOLUNTEER Open Menu Close Menu Home Meet Grace Endorsements Policy District 27 Contact Us Donate Vote VOLUNTEER Open Menu Close Menu Home Meet Grace Endorsements Policy District 27 Contact Us Donate Vote VOLUNTEER Contact Us We’d love to hear from you!
 Email us at info@graceleefornyc.com or share your contact information below, and a member of our team will be in touch soon.
-Office Locations
-Visit us in-person at our campaign offices across the district:
-Chinatown: 41 Mott Street, Fl 5
-East Village: 304 E 8th St
-Hours: 11 AM — 5 PM, Monday — Friday
+Office Locations Visit us in-person at our campaign offices across the district: Chinatown: 41 Mott Street, Fl 5 East Village: 304 E 8th St Hours: 11 AM — 5 PM, Monday — Friday Paid for by Grace Lee for New York Meet Grace Endorsements Policy Contact Donate Media Kit Privacy Policy and Terms & Conditions

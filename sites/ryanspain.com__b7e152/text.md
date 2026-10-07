@@ -1,7 +1,4 @@
-top of page
-About Ryan
-Ryan Spain has spent his life serving the community he calls home.
-As a lifelong Peorian,
-husband, father, economic development leader, and public servant, Ryan understands the
-challenges facing Central Illinois families because he has seen them firsthand.
-bottom of page
+top of page VOLUNTEER DONATE Menu Close HOME ABOUT RYAN THE DISTRICT ON THE ISSUES GET INVOLVED Donate About Ryan Ryan Spain has spent his life serving the community he calls home.
+As a lifelong Peorian, husband, father, economic development leader, and public servant, Ryan understands the challenges facing Central Illinois families because he has seen them firsthand.
+Learn More About Ryan → GET UPDATES FROM THE CAMPAIGN PAID FOR BY FRIENDS OF RYAN SPAIN ​ A copy of our report filed with the State Board Elections is or will be available on the Board's official website www.elections.il.gov or for purchase from the State Board of Elections, Springfield, Illinois.
+CONTACT THE TEAM ​ Friends of Ryan Spain PO Box 1575 Peoria, IL 61655-1575 Submit ©# FRIENDS OF RYAN SPAIN COMMITTEE bottom of page

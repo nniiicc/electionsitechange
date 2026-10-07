@@ -1,4 +1,4 @@
-Brad Noll represents you in District 92.
+0 Skip to Content HOME ISSUES ABOUT BRAD ENDORSEMENTS NEWS CONTACT Donate Open Menu Close Menu HOME ISSUES ABOUT BRAD ENDORSEMENTS NEWS CONTACT Donate Open Menu Close Menu HOME ISSUES ABOUT BRAD ENDORSEMENTS NEWS CONTACT Donate Brad Noll represents you in District 92.
 A Neighbor Running for Neighbors — Berkeley County First.
 WHY AM I RUNNING?
 Berkeley County is one of the fastest-growing counties in West Virginia.
@@ -9,22 +9,14 @@ I’m a citizen first and a Democrat second.
 I show up to the meetings, don’t accept money from lobbyists or special interest groups, which is probably why I don’t have any (please donate!) and I don’t owe the current legislature a favor.
 Mike Hite has run unopposed long enough.
 It's time to send representation to Charleston that shows up and answers to Berkeley County first.
-THE ISSUES
-- SAFETY AND IMPACT FEES We don't need a new fee.
-We need our impact fee on developers brought up to Jefferson County's level, and
-we need the state to fund locality pay for everybody that works for our county.
+More About Me THE ISSUES SAFETY AND IMPACT FEES We don't need a new fee.
+We need our impact fee on developers brought up to Jefferson County's level, and we need the state to fund locality pay for everybody that works for our county.
 Locality pays locality pay. period.
-- Data Center / HB 2014 Berkeley County keeps roughly 30% of the data center tax revenue.
+Data Center / HB 2014 Berkeley County keeps roughly 30% of the data center tax revenue.
 The state takes 70%.
 That MUST change.
-- THE RAIN TAX Berkeley County is the only county in West Virginia paying a stormwater fee.
+THE RAIN TAX Berkeley County is the only county in West Virginia paying a stormwater fee.
 A duck is a duck.
 A fee is a tax.
-- SCHOOLS & GROWTH We're paying to build infrastructure for growth we never approved while developers get away with an almost-nothing impact fee.
-ENDORSEMENTS
-West Virginia Farm Bureau
-United Mine Workers of America
-Berkeley County Education Association
-Eastern Panhandle Central Labor Council
-Communication Workers of America
-West Virginia Farm Bureau United Mine Workers of America Berkeley County Education Association Eastern Panhandle Central Labor Council Communication Workers of America
+SCHOOLS & GROWTH We're paying to build infrastructure for growth we never approved while developers get away with an almost-nothing impact fee.
+CLICK FOR MORE INFORMATION ENDORSEMENTS West Virginia Farm Bureau United Mine Workers of America Berkeley County Education Association Eastern Panhandle Central Labor Council Communication Workers of America West Virginia Farm Bureau United Mine Workers of America Berkeley County Education Association Eastern Panhandle Central Labor Council Communication Workers of America West Virginia Farm Bureau United Mine Workers of America Berkeley County Education Association Eastern Panhandle Central Labor Council Communication Workers of America Paid for by Brad Noll for WV House of Delegates, District 92 · Hedgesville, WV BRAD@NOLL4WV.COM

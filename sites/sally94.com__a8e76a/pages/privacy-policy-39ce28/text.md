@@ -1,34 +1,14 @@
-Privacy Policy
-This privacy notice discloses the privacy practices for this website.
+Sally!
+Issues District Map News Volunteer Photos Contribute Privacy Policy This privacy notice discloses the privacy practices for this website.
 This privacy notice applies solely to information collected by this website.
-Information Collection, Use, and Sharing
-We collect information you provide directly to us.
+Information Collection, Use, and Sharing We collect information you provide directly to us.
 For example, we collect information when you sign up to receive updates, request information, fill out a form, sign a petition, sign up as a volunteer, sign up for an event, participate in a contest or promotion, make a donation or purchase, communicate with us via third party social media sites, request support, send us an email, or otherwise communicate with us.
 The types of information we may collect include your name, email address, address, phone number, credit card and other payment information (although payment information is generally collected directly by a third-party processor), and any other information you choose to provide.
-Use of Information
-We may use the information we collect to:
-- Provide, maintain and improve our website
-- Provide and deliver the information you request, process donations and transactions and send you related information, including confirmations and receipts
-- Respond to your emails, submissions, comments, questions and requests; request feedback or support, and otherwise contact you about your participation in the campaign and the use of the site
-- Communicate with you about the campaign, such as sending you information to keep you informed about various issues, events, activities, and volunteer opportunities, and provide news and information we think will be of interest to you
-- To solicit volunteers, donations and support for the Campaign and for other candidates, issues and organizations that we support and to connect you with other volunteers
-- Contact you if election laws require us to request additional information from you
-- Remind you to vote and register to vote and assist you in finding your registration information, polling location and campaign events near you
-- Monitor and analyze trends, usage, and activities in connection with our site
-Sharing of Information
-We may share information about you:
-- With vendors, service providers, volunteers, and consultants who need access to such information to carry out work on our behalf
-- To report required contribution information as necessary
-- In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet law enforcement requirements; When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders
-- If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property, and safety of the campaign, its volunteers, constituents, or others
-We may also share aggregated or de-identified information that cannot reasonably be used by those third parties to identify you.
-Security
-The campaign takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
-We use "cookies" on this site.
-A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site.
-Most web browsers are set to accept cookies by default.
-If you prefer, you can usually choose to set your browser to remove or reject browser cookies.
+Use of Information We may use the information we collect to: Provide, maintain and improve our website Provide and deliver the information you request, process donations and transactions and send you related information, including confirmations and receipts Respond to your emails, submissions, comments, questions and requests; request feedback or support, and otherwise contact you about your participation in the campaign and the use of the site Communicate with you about the campaign, such as sending you information to keep you informed about various issues, events, activities, and volunteer opportunities, and provide news and information we think will be of interest to you To solicit volunteers, donations and support for the Campaign and for other candidates, issues and organizations that we support and to connect you with other volunteers Contact you if election laws require us to request additional information from you Remind you to vote and register to vote and assist you in finding your registration information, polling location and campaign events near you Monitor and analyze trends, usage, and activities in connection with our site Sharing of Information We may share information about you: With vendors, service providers, volunteers, and consultants who need access to such information to carry out work on our behalf To report required contribution information as necessary In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet law enforcement requirements; When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property, and safety of the campaign, its volunteers, constituents, or others We may also share aggregated or de-identified information that cannot reasonably be used by those third parties to identify you.
+Security The campaign takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 This web site contains links to other sites.
 Please be aware that we are not responsible for the content or privacy practices of such other sites.
 We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 If you have any questions about this Privacy Policy, please contact us.
+Yard Signs Issues Contact Privacy Policy Paid For By Sally For SC Powered by CampaignPartner.com - Political Campaign Websites Home Sally!
+Issues Contribute Volunteer District Map News Yard Signs Contact Close Menu

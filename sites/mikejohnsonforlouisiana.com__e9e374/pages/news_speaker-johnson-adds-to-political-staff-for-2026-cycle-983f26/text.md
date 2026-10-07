@@ -1,9 +1,6 @@
-Speaker Johnson Adds to Political Staff for 2026 Cycle
-January 24, 2025
-WASHINGTON, D.C. - Speaker Mike Johnson announced his political staff on Team Johnson for the 2026 election cycle as he leads efforts to defend and grow the House Republican majority.
+0 Skip to Content VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Speaker Johnson Adds to Political Staff for 2026 Cycle Jan 24 Written By Greg Steele January 24, 2025 WASHINGTON, D.C. - Speaker Mike Johnson announced his political staff on Team Johnson for the 2026 election cycle as he leads efforts to defend and grow the House Republican majority.
 "Our team made history in the last election by hitting the ground mid-cycle, raising record funds, and keeping our House Republican majority," said Speaker Mike Johnson.
-"With our expanded staff in place, I'm confident Team Johnson can lead the effort to stay on offense and grow our majority in 2026."
-Billy Constangy will continue as Executive Director.
+"With our expanded staff in place, I'm confident Team Johnson can lead the effort to stay on offense and grow our majority in 2026." Billy Constangy will continue as Executive Director.
 Previously, Constangy served as leadership chief of staff to Representative Richard Hudson (R-NC), Chairman of the NRCC.
 Constangy also previously served as Hudson’s personal office chief of staff, district director, and as an aide to North Carolina Governor Pat McCrory (R-NC) and former Congresswoman Sue Myrick (R-NC).
 Hunter Mullis will serve as Deputy Executive Director.
@@ -36,3 +33,9 @@ Haley Lively will be Regional Finance Director.
 Most recently, Lively served as northeast regional finance coordinator at the NRSC in the last election cycle and worked as a professional volunteer on both the 2024 Republican National Convention and the 60th Presidential Inauguration.
 Last week, Speaker Johnson released his updated Grow the Majority Joint Fundraising Committee for this cycle that will stay on offense to raise up to $1 million for House Republicans across the country.
 Grow the Majority is comprised of over 70 entities and is the largest JFC this cycle and in history for House Republicans.
+Greg Steele Previous Previous ICYMI: 'Johnson kicks off 2026 cycle with $# million donation to House Republicans' Next Next ICYMI: "Mike Johnson looks ahead to 2026 fundraising with House majority on the line" Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
+Box 6075 Bossier City, LA 71171 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+PAID FOR BY MIKE JOHNSON FOR LOUISIANA Privacy Policy Notice of Collection of Personal Information Do Not Sell My Personal Information

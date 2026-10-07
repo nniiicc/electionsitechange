@@ -1,14 +1,78 @@
 [
-"https://secure.anedot.com/waltonforvermont",
-"https://waltonforvermont.com/",
-"https://waltonforvermont.com/about",
-"https://waltonforvermont.com/accessibility",
-"https://waltonforvermont.com/contact",
-"https://waltonforvermont.com/events",
-"https://waltonforvermont.com/news",
-"https://waltonforvermont.com/privacy",
-"https://waltonforvermont.com/projects",
-"https://waltonforvermont.com/projects/independent-vermont",
-"https://waltonforvermont.com/projects/who-governs-vermont",
-"https://waltonforvermont.com/terms"
+{
+"text": "$250 Standard",
+"href": "https://secure.anedot.com/waltonforvermont/"
+},
+{
+"text": "About",
+"href": "https://www.waltonforvermont.com/about"
+},
+{
+"text": "Accessibility",
+"href": "https://www.waltonforvermont.com/accessibility"
+},
+{
+"text": "All projects",
+"href": "https://www.waltonforvermont.com/projects"
+},
+{
+"text": "Build With Us",
+"href": "https://www.waltonforvermont.com/#participate"
+},
+{
+"text": "Contact",
+"href": "https://www.waltonforvermont.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/waltonforvermont/"
+},
+{
+"text": "Events",
+"href": "https://www.waltonforvermont.com/events"
+},
+{
+"text": "Independent Vermont",
+"href": "https://www.waltonforvermont.com/projects/independent-vermont"
+},
+{
+"text": "Journal",
+"href": "https://www.waltonforvermont.com/news"
+},
+{
+"text": "Privacy",
+"href": "https://www.waltonforvermont.com/privacy"
+},
+{
+"text": "Projects",
+"href": "https://www.waltonforvermont.com/#projects"
+},
+{
+"text": "Projects",
+"href": "https://www.waltonforvermont.com/projects"
+},
+{
+"text": "Terms",
+"href": "https://www.waltonforvermont.com/terms"
+},
+{
+"text": "The Campaign",
+"href": "https://www.waltonforvermont.com/#campaign"
+},
+{
+"text": "Volunteer",
+"href": "https://www.waltonforvermont.com/#participate"
+},
+{
+"text": "WALTON FOR VERMONTIndependent for U.S. House · Vermont",
+"href": "https://www.waltonforvermont.com/"
+},
+{
+"text": "Who Governs Vermont",
+"href": "https://www.waltonforvermont.com/projects/who-governs-vermont"
+},
+{
+"text": "Why Independent",
+"href": "https://www.waltonforvermont.com/#independent"
+}
 ]

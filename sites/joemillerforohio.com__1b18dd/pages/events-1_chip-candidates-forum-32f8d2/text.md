@@ -1,9 +1,2 @@
-Back to All Events
-The Coalition for Hispanic/Latino Issues & Progress (CHIP) hosts regular candidate forums in Lorain, Ohio, to connect local voters with contested election candidates.
-Previous
-Previous
-October 5
-Town Hall on Data Centers with Representative Rader
-Next
-Next
-October 7
+0 Skip to Content Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Back to All Events CHIP Candidates Forum Tuesday, October 6, 2026 6:30 PM 9:30 PM Lorain High School 2600 Ashland Avenue Lorain, Ohio, 44052 United States (map) Google Calendar ICS The Coalition for Hispanic/Latino Issues & Progress (CHIP) hosts regular candidate forums in Lorain, Ohio, to connect local voters with contested election candidates.
+Previous Previous October 5 Town Hall on Data Centers with Representative Rader Next Next October 7 Early Voting Rally and Fundraiser DONATE Paid for by Friends of Joe Miller ©# FRIENDS OF JOE MILLER PRIVACY POLICY

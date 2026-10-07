@@ -1,19 +1,94 @@
 [
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votejoetimmons.com%2Flatest-news%2Fyou%E2%80%99re-invited%253A-campaign-kickoff-with-special-guest-laurie-jinkins-on-june-4th",
-"https://facebook.com/votejoetimmons",
-"https://instagram.com/vote.joetimmons",
-"https://linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fwww.votejoetimmons.com%2Flatest-news%2Fyou%E2%80%99re-invited%253A-campaign-kickoff-with-special-guest-laurie-jinkins-on-june-4th",
-"https://secure.actblue.com/donate/joetimmons",
-"https://threads.net/intent/post?text=Vote+Joe+Timmons+https%3A%2F%2Fwww.votejoetimmons.com%2Flatest-news%2Fyou%E2%80%99re-invited%253A-campaign-kickoff-with-special-guest-laurie-jinkins-on-june-4th",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votejoetimmons.com%2Flatest-news%2Fyou%E2%80%99re-invited%253A-campaign-kickoff-with-special-guest-laurie-jinkins-on-june-4th&text=Vote+Joe+Timmons",
-"https://votejoetimmons.com/",
-"https://votejoetimmons.com/code-of-conduct",
-"https://votejoetimmons.com/endorsements",
-"https://votejoetimmons.com/events",
-"https://votejoetimmons.com/latest-news",
-"https://votejoetimmons.com/media-gallery",
-"https://votejoetimmons.com/meet-joe",
-"https://votejoetimmons.com/priorities",
-"https://votejoetimmons.com/privacy-policy",
-"https://votejoetimmons.com/volunteer"
+{
+"text": "Code of Conduct",
+"href": "https://www.votejoetimmons.com/code-of-conduct"
+},
+{
+"text": "Contact Joe",
+"href": "mailto:hello@votejoetimmons.com?subject=Joe%21+I+have+a+question"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/joetimmons"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejoetimmons.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.votejoetimmons.com/events"
+},
+{
+"text": "Joe Timmons",
+"href": "https://www.votejoetimmons.com/meet-joe"
+},
+{
+"text": "Latest News",
+"href": "https://www.votejoetimmons.com/latest-news"
+},
+{
+"text": "Like",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votejoetimmons.com%2Flatest-news%2Fyou%E2%80%99re-invited%253A-campaign-kickoff-with-special-guest-laurie-jinkins-on-june-4th&text=Vote+Joe+Timmons"
+},
+{
+"text": "Like",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votejoetimmons.com%2Flatest-news%2Fyou%E2%80%99re-invited%253A-campaign-kickoff-with-special-guest-laurie-jinkins-on-june-4th"
+},
+{
+"text": "Like",
+"href": "https://www.facebook.com/votejoetimmons"
+},
+{
+"text": "Like",
+"href": "https://www.instagram.com/vote.joetimmons"
+},
+{
+"text": "Like",
+"href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.votejoetimmons.com%2Flatest-news%2Fyou%E2%80%99re-invited%253A-campaign-kickoff-with-special-guest-laurie-jinkins-on-june-4th"
+},
+{
+"text": "Like",
+"href": "https://www.threads.net/intent/post?text=Vote+Joe+Timmons+https%3A%2F%2Fwww.votejoetimmons.com%2Flatest-news%2Fyou%E2%80%99re-invited%253A-campaign-kickoff-with-special-guest-laurie-jinkins-on-june-4th"
+},
+{
+"text": "Media Gallery",
+"href": "https://www.votejoetimmons.com/media-gallery"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.votejoetimmons.com/meet-joe"
+},
+{
+"text": "Priorities",
+"href": "https://www.votejoetimmons.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejoetimmons.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votejoetimmons.com/volunteer"
+},
+{
+"text": "[image: Joe Timmons Logo - Cream Background.png]",
+"href": "https://www.votejoetimmons.com"
+},
+{
+"text": "[image: Joe Timmons Logo - White Background.png]",
+"href": "https://www.votejoetimmons.com"
+},
+{
+"text": "hello@votejoetimmons.com",
+"href": "mailto:hello@votejoetimmons.com"
+},
+{
+"text": "making a contribution",
+"href": "https://secure.actblue.com/donate/joetimmons"
+},
+{
+"text": "signing up to volunteer",
+"href": "https://www.votejoetimmons.com/volunteer"
+}
 ]

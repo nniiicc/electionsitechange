@@ -1,2 +1,2 @@
-PRESS RELEASES.
-- 12/1/2025 Representative Rebecca Reimer Announces Candidacy for State Senate in District 26
+0 Skip to Content Home Meet Rebecca Policy Priorities Take Action Endorsements Press DONATE Open Menu Close Menu Home Meet Rebecca Policy Priorities Take Action Endorsements Press DONATE Open Menu Close Menu Home Meet Rebecca Policy Priorities Take Action Endorsements Press DONATE PRESS RELEASES.
+12/1/2025 Representative Rebecca Reimer Announces Candidacy for State Senate in District 26 READ MORE DONATE PAID FOR BY FRIENDS OF REBECCA REIMER Privacy Policy﻿

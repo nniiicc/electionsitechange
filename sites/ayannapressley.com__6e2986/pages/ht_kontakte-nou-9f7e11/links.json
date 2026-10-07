@@ -1,24 +1,102 @@
 [
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=10",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=100",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53",
-"https://ayannapressley.com/",
-"https://ayannapressley.com/cdn-cgi/l/email-protection",
-"https://ayannapressley.com/es",
-"https://ayannapressley.com/ht",
-"https://ayannapressley.com/ht/enfomasyon-pou-elekte-yo",
-"https://ayannapressley.com/ht/kontakte-nou",
-"https://ayannapressley.com/ht/pwoblem",
-"https://ayannapressley.com/ht/rankontre-ayanna",
-"https://ayannapressley.com/ht/volonte",
-"https://ayannapressley.com/privacy-policy",
-"https://ayannapressley.com/zh",
-"https://facebook.com/ayannapressley2",
-"https://instagram.com/ayannapressley",
-"https://middleseat.co/",
-"https://mobilize.us/ayannapressley",
-"https://secure.actblue.com/donate/ayannapressleysite1",
-"https://store.ayannapressley.com/",
-"https://twitter.com/AyannaPressley",
-"https://twitter.com/ayannapressley"
+{
+"text": "$10",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=10"
+},
+{
+"text": "$100",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=100"
+},
+{
+"text": "$20.53",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com/ht"
+},
+{
+"text": "Don",
+"href": "https://secure.actblue.com/donate/ayannapressleysite1"
+},
+{
+"text": "EN",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "ES",
+"href": "https://ayannapressley.com/es"
+},
+{
+"text": "Enfòmasyon pou elektè yo",
+"href": "https://ayannapressley.com/ht/enfomasyon-pou-elekte-yo/"
+},
+{
+"text": "Evenman",
+"href": "https://www.mobilize.us/ayannapressley/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ayannapressley2/"
+},
+{
+"text": "HT",
+"href": "https://ayannapressley.com/ht"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ayannapressley/"
+},
+{
+"text": "Konfidansyalite",
+"href": "https://ayannapressley.com/privacy-policy/"
+},
+{
+"text": "Kontakte",
+"href": "https://ayannapressley.com/ht/kontakte-nou/"
+},
+{
+"text": "Kontakte Nou",
+"href": "https://ayannapressley.com/ht/kontakte-nou/"
+},
+{
+"text": "Magazen",
+"href": "https://store.ayannapressley.com/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Pwoblem",
+"href": "https://ayannapressley.com/ht/pwoblem/"
+},
+{
+"text": "Rankontre Ayanna",
+"href": "https://ayannapressley.com/ht/rankontre-ayanna/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AyannaPressley"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ayannapressley"
+},
+{
+"text": "Volontè",
+"href": "https://ayannapressley.com/ht/volonte/"
+},
+{
+"text": "ZH",
+"href": "https://ayannapressley.com/zh"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@ayannapresley.com"
+}
 ]

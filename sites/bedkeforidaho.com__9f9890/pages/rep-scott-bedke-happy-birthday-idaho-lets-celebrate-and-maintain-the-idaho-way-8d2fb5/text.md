@@ -1,4 +1,5 @@
-There is no better place to live, work and raise a family than Idaho.
+Skip to content About Issues News Volunteer Contact Endorsements About Issues News Volunteer Contact Endorsements Donate Rep.
+Scott Bedke: Happy Birthday, Idaho – Let’s celebrate and maintain the Idaho way July 6, 2021 There is no better place to live, work and raise a family than Idaho.
 As a proud Idaho native who believes, promotes and lives our conservative ideals, I have known this my whole life.
 Now others from all over the country are discovering what we’ve always known.
 We are seeing unprecedented population growth as individuals and families move to all corners of our state.
@@ -26,4 +27,12 @@ We need to continue our work to maintain limited regulation, vast economic oppor
 Let’s make sure our grandchildren – and their grandchildren – will inherit the same great state we inherited, as they celebrate her birthday in the future.
 Happy birthday, Idaho!
 Bedke is a member of the Idaho House of Representatives representing District 27 in the A seat since 2001.
-Read the full article in The Spokesman-Review
+Read the full article in The Spokesman-Review Share This Story Facebook Twitter Prev Scott Bedke Announces Candidacy for Lt.
+Governor of Idaho Bedke: Let’s Secure Idaho’s Water for the Future Next Social Media Facebook Instagram Join The Campaign " * " indicates required fields Name * First Last Email * Phone Consent * By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, marketing, polling, donation requests, event reminders) from (Scott Bedke for Idaho) at the number provided, including messages sent by autodialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy * Home About Issues News Volunteer Contact Donate Privacy Policy Home About Issues News Volunteer Contact Donate Privacy Policy Paid for by Bedke for Idaho.
+Margie Watson Treasurer.

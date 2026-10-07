@@ -1,7 +1,9 @@
 {
  "description": "Support Chestek for HD 13 - a political campaign focused on Wyoming House District 13 with a commitment to policies, not politics!",
  "final_url": "https://chestekforhd13.com/",
- "paid_for_by": null,
+ "fingerprint": "c5475bf6adf9a15a6392a50c76156ac0604a4f3a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Chestek for HD 13",
  "years_mentioned": []
 }

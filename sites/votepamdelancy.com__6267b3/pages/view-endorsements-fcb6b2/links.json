@@ -1,17 +1,62 @@
 [
-"https://campaignpartner.com/",
-"https://secure.actblue.com/donate/pamela-delancy-2",
-"https://votepamdelancy.com/",
-"https://votepamdelancy.com/contact",
-"https://votepamdelancy.com/home",
-"https://votepamdelancy.com/home-2",
-"https://votepamdelancy.com/issues",
-"https://votepamdelancy.com/make-endorsement",
-"https://votepamdelancy.com/meet_pamela",
-"https://votepamdelancy.com/news",
-"https://votepamdelancy.com/nurse",
-"https://votepamdelancy.com/photos",
-"https://votepamdelancy.com/view-endorsements",
-"https://votepamdelancy.com/volunteer",
-"https://votepamdelancy.com/vote"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Click here to add your endorsement",
+"href": "https://www.votepamdelancy.com/make-endorsement"
+},
+{
+"text": "Contact",
+"href": "https://www.votepamdelancy.com/contact"
+},
+{
+"text": "DONATIONS",
+"href": "https://secure.actblue.com/donate/pamela-delancy-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votepamdelancy.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.votepamdelancy.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.votepamdelancy.com/issues"
+},
+{
+"text": "Meet Pam",
+"href": "https://www.votepamdelancy.com/meet_pamela"
+},
+{
+"text": "News",
+"href": "https://www.votepamdelancy.com/news"
+},
+{
+"text": "Nurse",
+"href": "https://www.votepamdelancy.com/nurse"
+},
+{
+"text": "Photos",
+"href": "https://www.votepamdelancy.com/photos"
+},
+{
+"text": "The Veteran",
+"href": "https://www.votepamdelancy.com/home-2"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votepamdelancy.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.votepamdelancy.com/vote"
+},
+{
+"text": "[image: Pamela DeLancy]",
+"href": "https://www.votepamdelancy.com/"
+}
 ]

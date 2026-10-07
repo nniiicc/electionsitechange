@@ -1,9 +1,34 @@
 [
-"http://paypal.me/VoteBollerHD52",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://votebollerhd52.com/",
-"https://votebollerhd52.com/contact-me",
-"https://votebollerhd52.com/meet-ronda"
+{
+"text": "Contact Me",
+"href": "https://votebollerhd52.com/contact-me"
+},
+{
+"text": "Contribute",
+"href": "http://paypal.me/VoteBollerHD52"
+},
+{
+"text": "Home",
+"href": "https://votebollerhd52.com/"
+},
+{
+"text": "Meet Ronda",
+"href": "https://votebollerhd52.com/meet-ronda"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Ronda Boller for Wyoming House District 52]",
+"href": "https://votebollerhd52.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

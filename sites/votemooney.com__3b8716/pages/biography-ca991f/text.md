@@ -1,6 +1,9 @@
-General Election Day: Nov. 3, 2026 ~ NH House Organization Day: Dec. 2, 2026
-Biography
-Maureen Mooney has resided in Merrimack for over two decades.
+General Election Day: Nov.
+3, 2026 ~ NH House Organization Day: Dec.
+2, 2026 Home Biography On the Issues N.H.
+House Bills Endorsement Testimonials Contact Contribute Merrimack Voter Info More Home Biography On the Issues N.H.
+House Bills Endorsement Testimonials Contact Contribute Merrimack Voter Info Home Biography On the Issues N.H.
+House Bills Endorsement Testimonials Contact Contribute Merrimack Voter Info Biography Maureen Mooney Maureen Mooney has resided in Merrimack for over two decades.
 She is in her sixth term representing Merrimack in the New Hampshire House of Representatives (2002-2008 and 2020-present).
 Currently, Maureen serves on the Finance Committee (Chairman, Division III).
 Additionally, she is a co-chair of the Speaker's Advisory Group, and on the Fiscal Committee.
@@ -22,3 +25,6 @@ In 2006, she was named one of the New Hampshire Union Leader’s “40 Under For
 In 2012, she was named a "40 Under Forty" in Merrimack Valley Business Magazine.
 She is also featured in the book, "Women at the Table: 40 Intimate Profiles of Political Women of the Northeast" published by L&L Dreamspell in 2008.
 She is a member and past president of the Rotary Club of Merrimack and a member of the Equestrian Order of the Holy Sepulchre of Jerusalem.
+Copyright © # Paid for by Maureen Mooney for State Representative, P.O.
+Box 1676, Merrimack, NH 03054 - All Rights Reserved.
+Powered by

@@ -1,21 +1,90 @@
 [
-"https://mk4ar.org/",
-"https://mk4ar.org/bio",
-"https://mk4ar.org/contact",
-"https://mk4ar.org/donate",
-"https://mk4ar.org/event/baxter-county-farm-bureau-candidate-forum",
-"https://mk4ar.org/event/garland-county-candidate-forum",
-"https://mk4ar.org/event/meet-the-candidates",
-"https://mk4ar.org/event/pea-ridge-mule-jump",
-"https://mk4ar.org/events/2026-09-29",
-"https://mk4ar.org/events/2026-10-06",
-"https://mk4ar.org/events/2026-10-08",
-"https://mk4ar.org/events/2026-10-10",
-"https://mk4ar.org/events/list",
-"https://mk4ar.org/events/month",
-"https://mk4ar.org/events/month/2026-09",
-"https://mk4ar.org/events/month?ical=1",
-"https://mk4ar.org/events/today",
-"https://mk4ar.org/issues-2",
-"https://mk4ar.org/media"
+{
+"text": "#ago",
+"href": "https://mk4ar.org/events/month/"
+},
+{
+"text": "10",
+"href": "https://mk4ar.org/events/2026-10-10/"
+},
+{
+"text": "29",
+"href": "https://mk4ar.org/events/2026-09-29/"
+},
+{
+"text": "6",
+"href": "https://mk4ar.org/events/2026-10-06/"
+},
+{
+"text": "8",
+"href": "https://mk4ar.org/events/2026-10-08/"
+},
+{
+"text": "Baxter County Farm Bureau Candidate Forum",
+"href": "https://mk4ar.org/event/baxter-county-farm-bureau-candidate-forum/"
+},
+{
+"text": "Bio",
+"href": "https://mk4ar.org/bio/"
+},
+{
+"text": "Contact",
+"href": "https://mk4ar.org/contact/"
+},
+{
+"text": "Day",
+"href": "https://mk4ar.org/events/today/"
+},
+{
+"text": "Donate",
+"href": "https://mk4ar.org/donate/"
+},
+{
+"text": "Export Events",
+"href": "https://mk4ar.org/events/month/?ical=1"
+},
+{
+"text": "Garland County Candidate Forum",
+"href": "https://mk4ar.org/event/garland-county-candidate-forum/"
+},
+{
+"text": "Home",
+"href": "https://mk4ar.org/"
+},
+{
+"text": "Issues",
+"href": "https://mk4ar.org/issues-2/"
+},
+{
+"text": "List",
+"href": "https://mk4ar.org/events/list/"
+},
+{
+"text": "Media",
+"href": "https://mk4ar.org/media/"
+},
+{
+"text": "Meet the Candidates",
+"href": "https://mk4ar.org/event/meet-the-candidates/"
+},
+{
+"text": "Michael Kalagias For LT Governor",
+"href": "https://mk4ar.org/"
+},
+{
+"text": "Month",
+"href": "https://mk4ar.org/events/month/"
+},
+{
+"text": "Pea Ridge Mule Jump",
+"href": "https://mk4ar.org/event/pea-ridge-mule-jump/"
+},
+{
+"text": "Sep",
+"href": "https://mk4ar.org/events/month/2026-09/"
+},
+{
+"text": "[tooltip: Previous month]",
+"href": "https://mk4ar.org/events/month/2026-09/"
+}
 ]

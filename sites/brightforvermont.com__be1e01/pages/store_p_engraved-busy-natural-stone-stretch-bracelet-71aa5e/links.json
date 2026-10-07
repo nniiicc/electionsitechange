@@ -1,11 +1,42 @@
 [
-"https://brightforvermont.com/",
-"https://brightforvermont.com/about",
-"https://brightforvermont.com/cart",
-"https://brightforvermont.com/contact",
-"https://brightforvermont.com/endorsements",
-"https://brightforvermont.com/store",
-"https://brightforvermont.com/store/p/engraved-busy-natural-stone-stretch-bracelet",
-"https://brightforvermont.com/support",
-"https://brightforvermont.com/the-issues"
+{
+"text": "(0)",
+"href": "https://www.brightforvermont.com/cart"
+},
+{
+"text": "About Caroline",
+"href": "https://www.brightforvermont.com/about"
+},
+{
+"text": "Caroline Bright for Vermont State House",
+"href": "https://www.brightforvermont.com/"
+},
+{
+"text": "Cart (0)",
+"href": "https://www.brightforvermont.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.brightforvermont.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.brightforvermont.com/endorsements"
+},
+{
+"text": "Engraved 'Busy' Natural Stone Stretch Bracelet",
+"href": "https://www.brightforvermont.com/store/p/engraved-busy-natural-stone-stretch-bracelet"
+},
+{
+"text": "Store",
+"href": "https://www.brightforvermont.com/store"
+},
+{
+"text": "Support",
+"href": "https://www.brightforvermont.com/support"
+},
+{
+"text": "The Issues",
+"href": "https://www.brightforvermont.com/the-issues"
+}
 ]

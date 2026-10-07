@@ -1,21 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=EARLY+VOTING+STARTS&dates=20261024T123000Z%2F20261024T133000Z",
-"https://amgforcongress.com/",
-"https://amgforcongress.com/about",
-"https://amgforcongress.com/calendar",
-"https://amgforcongress.com/calendar/early-voting-starts-rwh89",
-"https://amgforcongress.com/calendar/early-voting-starts-rwh89-rg3np?format=ical",
-"https://amgforcongress.com/calendar/king-tree-parade",
-"https://amgforcongress.com/cart",
-"https://amgforcongress.com/endorsements",
-"https://amgforcongress.com/get-involved",
-"https://amgforcongress.com/media-statements",
-"https://amgforcongress.com/top-priorities",
-"https://bsky.app/profile/amgforcongress.bsky.social",
-"https://facebook.com/profile.php?id=61581474694195",
-"https://instagram.com/amgforcongress",
-"https://reddit.com/user/amgforcongress_fl02",
-"https://secure.actblue.com/donate/amanda-green-1",
-"https://tiktok.com/@amgforcongress",
-"https://x.com/AMGforCongress"
+{
+"text": "0",
+"href": "https://www.amgforcongress.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.amgforcongress.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.amgforcongress.com/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.amgforcongress.com/calendar"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/amanda-green-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.amgforcongress.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.amgforcongress.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=EARLY+VOTING+STARTS&dates=20261024T123000Z%2F20261024T133000Z"
+},
+{
+"text": "Home",
+"href": "https://www.amgforcongress.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.amgforcongress.com/calendar/early-voting-starts-rwh89-rg3np?format=ical"
+},
+{
+"text": "INFO@AMGFORCONGRESS.COM",
+"href": "mailto:info@amgforcongress.com"
+},
+{
+"text": "Media",
+"href": "https://www.amgforcongress.com/media-statements"
+},
+{
+"text": "Next Next October 24 King Tree Parade",
+"href": "https://www.amgforcongress.com/calendar/king-tree-parade"
+},
+{
+"text": "Previous Previous October 22 EARLY VOTING STARTS",
+"href": "https://www.amgforcongress.com/calendar/early-voting-starts-rwh89"
+},
+{
+"text": "Priorities",
+"href": "https://www.amgforcongress.com/top-priorities"
+},
+{
+"text": "[image: Amanda Marie Green for Congress]",
+"href": "https://www.amgforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/amgforcongress.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61581474694195"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/amgforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.reddit.com/user/amgforcongress_fl02/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@amgforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/AMGforCongress"
+}
 ]

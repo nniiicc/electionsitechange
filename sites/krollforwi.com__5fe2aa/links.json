@@ -1,16 +1,82 @@
 [
-"https://facebook.com/krollforwiAD85",
-"https://instagram.com/krollforwi",
-"https://krollforwi.com/",
-"https://krollforwi.com/about",
-"https://krollforwi.com/connect",
-"https://krollforwi.com/issues",
-"https://krollforwi.com/privacy-policy",
-"https://maps.legis.wisconsin.gov/Home/SingleEmbed?house=a&district=85",
-"https://myvote.wi.gov/en-us",
-"https://myvote.wi.gov/en-us/Find-My-Polling-Place",
-"https://myvote.wi.gov/en-us/Register-To-Vote",
-"https://myvote.wi.gov/en-us/Vote-Absentee-By-Mail",
-"https://secure.actblue.com/donate/jk-website",
-"https://x.com/krollforwi"
+{
+"text": "ABOUT",
+"href": "https://www.krollforwi.com/about"
+},
+{
+"text": "Back to Top",
+"href": "https://www.krollforwi.com"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://myvote.wi.gov/en-us/Register-To-Vote"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://myvote.wi.gov/en-us/Vote-Absentee-By-Mail"
+},
+{
+"text": "CLICKING HERE.",
+"href": "https://myvote.wi.gov/en-us/Find-My-Polling-Place"
+},
+{
+"text": "CONNECT",
+"href": "https://www.krollforwi.com/connect"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jk-website"
+},
+{
+"text": "HOME",
+"href": "https://www.krollforwi.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.krollforwi.com/issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.krollforwi.com/issues"
+},
+{
+"text": "MEET JOHN",
+"href": "https://www.krollforwi.com/about"
+},
+{
+"text": "MORE INFO",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.krollforwi.com/privacy-policy"
+},
+{
+"text": "READ MORE",
+"href": "https://www.krollforwi.com/about"
+},
+{
+"text": "VIEW MAP",
+"href": "https://maps.legis.wisconsin.gov/Home/SingleEmbed/?house=a&district=85"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/krollforwiAD85"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/krollforwi/"
+},
+{
+"text": "[image: John Kroll for Assembly - blue background logo]",
+"href": "https://www.krollforwi.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/krollforwi"
+}
 ]

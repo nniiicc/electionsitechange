@@ -1,3 +1,8 @@
-Endorsements
-Kyle Clayton is proud to have earned the support of labor leaders, educators, elected officials, community advocates, and organizations fighting for Arizona's future.
+0 Skip to Content About Join Us Endorsements Donate Open Menu Close Menu About Join Us Endorsements Donate Open Menu Close Menu About Join Us Endorsements Donate Endorsements Kyle Clayton is proud to have earned the support of labor leaders, educators, elected officials, community advocates, and organizations fighting for Arizona's future.
 Together, we're building a coalition focused on strong public schools, affordable living, and accountable government.
+View fullsize Attorney General Kris Mayes View fullsize Lela Alston, State Senate LD5 View fullsize Priya Sundareshan, State Senate LD18 View fullsize Catherine Miranda, State Senator LD 11 View fullsize Flavio Bravo, State Senator LD26 View fullsize Lauren Kuby State Senator LD 8 View fullsize Oscar De Los Santos, State Representative LD 11 View fullsize Nancy Gutierrez, State Representative LD18 View fullsize Stephanie Simacek, State Representative LD2 View fullsize Cesar Aguilar, State Representative LD26 View fullsize Aaron Márquez, State Representative LD5 View fullsize Brian Garcia, State Representative LD 8 View fullsize Debra Stark, Phoenix City Council Member District 3 View fullsize Laura Pastor, Phoenix City Council District 4 View fullsize Judy Schwiebert, Former State Representative View fullsize Tim Stringham, Community Leader Kyle Clayton for Arizona 24 W Camelback Rd A509 Phoenix, AZ 85013 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Newsletter Sign Up Get updates on our campaign!
+Email Address Sign Up Thank you for signing up!
+Paid for by Kyle Clayton for Arizona.
+Authorized by Kyle Clayton About Get Involved

@@ -1,10 +1,3 @@
-Back to All Events
-Join me for a live online Town Hall & Q&A.
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate Back to All Events Online Town Hall/Q&A Wednesday, March 18, 2026 7:00 PM 8:00 PM Youtube Live (map) Google Calendar ICS Join me for a live online Town Hall & Q&A.
 This is an open conversation about the issues that matter to you — where I stand, how I think through policy, and what you want to see change.
-Previous
-Previous
-March 11
-Candidate Forum
-Next
-Next
-March 19
+Previous Previous March 11 Candidate Forum Next Next March 19 Candidate Forum

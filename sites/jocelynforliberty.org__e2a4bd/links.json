@@ -1,5 +1,14 @@
 [
-"http://facebook.com/@jocelynforliberty",
-"http://x.com/jocelyn4liberty",
-"https://politiclywp.wowtheme7.com/"
+{
+"text": "Facebook",
+"href": "http://facebook.com/@jocelynforliberty"
+},
+{
+"text": "X-twitter",
+"href": "http://x.com/jocelyn4liberty"
+},
+{
+"text": "[no text]",
+"href": "https://politiclywp.wowtheme7.com/"
+}
 ]

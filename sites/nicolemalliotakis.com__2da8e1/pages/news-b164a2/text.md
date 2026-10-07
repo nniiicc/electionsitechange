@@ -1,52 +1,23 @@
-Uniformed Fire Officers Assoc.
-Endorse Congresswoman Nicole Malliotakis
-Congresswoman Nicole Malliotakis (NY-11, Staten Island-Southern Brooklyn) was endorsed for a fourth term in Congress by the Uniformed Fire Officer Association (UFOA) of the FDNY.
-READ post
-Malliotakis Endorsed by Correction Officers Benevolent Association
-With 15,000 active and retired members, COBA is the second-largest municipal jail union in the nation and the second-largest law enforcement union in New York City.
-READ post
-Malliotakis Endorsed by FDNY EMTs, Paramedics and Fire Inspectors
-Congresswoman Nicole Malliotakis received the endorsement of the Uniformed EMT’s, Paramedics and Fire Inspectors (UEPFI), Local 2507-FDNY.
-READ post
-Malliotakis Endorsed by Transport Workers Union – TWU
-Congresswoman Nicole Malliotakis received the endorsement of the Transport Workers Union of America (TWU), AFL-CIO, which represents more than 165,000 members nationwide, including 40,000 workers at the Metropolitan Transportation Authority (MTA).
-READ post
-Port Authority PBA Endorses Malliotakis for Fourth Term
-Representative Nicole Malliotakis has been endorsed for a fourth term in Congress by the Port Authority Police Benevolent Association (PAPBA).
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Nicole Malliotakis Press Releases Wed, Sep 23 2026 Uniformed Fire Officers Assoc.
+Endorse Congresswoman Nicole Malliotakis Congresswoman Nicole Malliotakis (NY-11, Staten Island-Southern Brooklyn) was endorsed for a fourth term in Congress by the Uniformed Fire Officer Association (UFOA) of the FDNY.
+READ post share Wed, Jun 24 2026 Malliotakis Endorsed by Correction Officers Benevolent Association With 15,000 active and retired members, COBA is the second-largest municipal jail union in the nation and the second-largest law enforcement union in New York City.
+READ post share Mon, Jun 22 2026 Malliotakis Endorsed by FDNY EMTs, Paramedics and Fire Inspectors Congresswoman Nicole Malliotakis received the endorsement of the Uniformed EMT’s, Paramedics and Fire Inspectors (UEPFI), Local 2507-FDNY.
+READ post share Wed, Jun 03 2026 Malliotakis Endorsed by Transport Workers Union – TWU Congresswoman Nicole Malliotakis received the endorsement of the Transport Workers Union of America (TWU), AFL-CIO, which represents more than 165,000 members nationwide, including 40,000 workers at the Metropolitan Transportation Authority (MTA).
+READ post share Thu, Apr 23 2026 Port Authority PBA Endorses Malliotakis for Fourth Term Representative Nicole Malliotakis has been endorsed for a fourth term in Congress by the Port Authority Police Benevolent Association (PAPBA).
 The PAPBA represents over 3,700 active and retired members.
-READ post
-Four Maritime Unions Endorse Malliotakis for Fourth Term
-Unions are “honored to offer our strong, uniformed endorsement”.
+READ post share Mon, Apr 20 2026 Four Maritime Unions Endorse Malliotakis for Fourth Term Unions are “honored to offer our strong, uniformed endorsement”.
 Congresswoman Nicole Malliotakis received the joint endorsement of four maritime unions whose members are active in and around New York Harbor.
-READ post
-Malliotakis Op-Ed: Staten Island families seeing bigger refunds thanks to GOP tax relief measures
-Tax Day is here, and Staten Island residents are seeing significant savings as a result of the provisions we fought to secure.
-READ post
-Malliotakis Endorsed by Captains Endowment Association of NYPD
-Congresswoman Nicole Malliotakis was endorsed for a fourth term in Congress by the Captains Endowment Association (CEA) of the NYPD.
-READ post
-Watch: Malliotakis Blasts Schumer & Democrats For Refusing to Fund Homeland Security 25 years After 9/11
-Rep.
+READ post share Thu, Apr 16 2026 Malliotakis Op-Ed: Staten Island families seeing bigger refunds thanks to GOP tax relief measures Tax Day is here, and Staten Island residents are seeing significant savings as a result of the provisions we fought to secure.
+READ post share Wed, Apr 15 2026 Malliotakis Endorsed by Captains Endowment Association of NYPD Congresswoman Nicole Malliotakis was endorsed for a fourth term in Congress by the Captains Endowment Association (CEA) of the NYPD.
+READ post share Wed, Apr 15 2026 Watch: Malliotakis Blasts Schumer & Democrats For Refusing to Fund Homeland Security 25 years After 9/11 Rep.
 Nicole Malliotakis appeared on FOX5 GoodDay New York and called out Democrats for refusing to fund Homeland Security.
-READ post
-Malliotakis Endorsed by Port Authority Sergeants & Retired NYPD Sergeants
-Congresswoman Nicole Malliotakis was endorsed for a fourth term in Congress by the Port Authority Sergeants Benevolent Association (PASBA) and the Retired Sergeants Association of the NYPD (RSANYPD).
-READ post
-Malliotakis Receives Endorsements of Sergeants & Lieutenants Benevolent Associations of the NYPD
-The SBA, which represents 13,000 active and retired members, and the LBA, which represents 5,200 active and retired members, both cited Rep.
+READ post share Thu, Apr 09 2026 Malliotakis Endorsed by Port Authority Sergeants & Retired NYPD Sergeants Congresswoman Nicole Malliotakis was endorsed for a fourth term in Congress by the Port Authority Sergeants Benevolent Association (PASBA) and the Retired Sergeants Association of the NYPD (RSANYPD).
+READ post share Tue, Mar 24 2026 Malliotakis Receives Endorsements of Sergeants & Lieutenants Benevolent Associations of the NYPD The SBA, which represents 13,000 active and retired members, and the LBA, which represents 5,200 active and retired members, both cited Rep.
 Malliotakis’ longtime non-wavering support of law enforcement as key reasons for their endorsements.
-READ post
-Detectives’ Endowment Association Endorses Malliotakis
-Congresswoman Nicole Malliotakis was endorsed for a fourth term in Congress by the Detectives’ Endowment Association of the NYPD (DEA).
+READ post share Thu, Mar 19 2026 Detectives’ Endowment Association Endorses Malliotakis Congresswoman Nicole Malliotakis was endorsed for a fourth term in Congress by the Detectives’ Endowment Association of the NYPD (DEA).
 The DEA is the labor union that represents over 20,000 active and retired NYPD Detectives.
-READ post
-Delivering tax relief for Brooklyn families: What the new tax provisions mean for your refund this year
-Last year, the Executive Branch and supporters in the House delivered the largest tax cut for working Americans, middle-class families and senior citizens here in Brooklyn and across America.
-READ post
-Malliotakis: We’re taking our redistricting fight to the US Supreme Court
-Nicole Malliotakis the ONLY Republican member of Congress from New York City.
+READ post share Wed, Mar 04 2026 Delivering tax relief for Brooklyn families: What the new tax provisions mean for your refund this year Last year, the Executive Branch and supporters in the House delivered the largest tax cut for working Americans, middle-class families and senior citizens here in Brooklyn and across America.
+READ post share Wed, Feb 18 2026 Malliotakis: We’re taking our redistricting fight to the US Supreme Court Nicole Malliotakis the ONLY Republican member of Congress from New York City.
 They cannot beat her on merit, debate or policy, so they are trying to silence our voice by changing our map so another Republican can NEVER get elected.
-READ post
-Op-Ed: A $12 billion alarm for Mayor Mamdani
-The recent news that New York City is facing a $12 billion budget gap is a dose of reality to the fledgling Mamdani administration, which seems to think money grows on trees.
-READ post
+READ post share Tue, Feb 10 2026 Op-Ed: A $12 billion alarm for Mayor Mamdani The recent news that New York City is facing a $12 billion budget gap is a dose of reality to the fledgling Mamdani administration, which seems to think money grows on trees.
+READ post share Posts pagination 1 2 … 22 Next page STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

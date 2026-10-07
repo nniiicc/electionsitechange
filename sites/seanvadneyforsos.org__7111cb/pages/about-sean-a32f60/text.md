@@ -1,4 +1,10 @@
-I was born in a Denver suburb, raised by a working class single mother who instilled into me many of the values that I hold dear.
+Home About Sean Why Vote Libertarian?
+Register to Vote!
+Videos More Home About Sean Why Vote Libertarian?
+Register to Vote!
+Videos Home About Sean Why Vote Libertarian?
+Register to Vote!
+Videos About Sean I was born in a Denver suburb, raised by a working class single mother who instilled into me many of the values that I hold dear.
 I have always had a love of music, picking up piano when I was five and participating in many musical ventures throughout my life.
 I discovered a love of politics around the age of ten when I became more aware of the world’s vast injustice.
 I dabbled in a plethora of political philosophies, eventually finding my intellectual home in the values that founded this nation: life, liberty, and the pursuit of happiness.
@@ -13,5 +19,5 @@ As a business owner myself, I have personally experienced the unnecessary red ta
 We can do better.
 If you are tired of the status quo, I am asking for your vote.
 It would be an honor and a privilege to serve you as Colorado’s Secretary of State.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Sean Vadney for Colorado Secretary of State Copyright © # Sean Vadney for Colorado Secretary of State - All Rights Reserved.
+Powered by

@@ -1,27 +1,114 @@
 [
-"http://x.com/darrensoto",
-"https://darrensoto.com/",
-"https://darrensoto.com/affordable-housing",
-"https://darrensoto.com/agriculture",
-"https://darrensoto.com/conservation",
-"https://darrensoto.com/healthcare",
-"https://darrensoto.com/immigration-reform",
-"https://darrensoto.com/infrastructure",
-"https://darrensoto.com/issues",
-"https://darrensoto.com/jobs-and-economy",
-"https://darrensoto.com/media",
-"https://darrensoto.com/military-and-veterans",
-"https://darrensoto.com/new-map",
-"https://darrensoto.com/privacy-policy",
-"https://darrensoto.com/protect-social-security",
-"https://darrensoto.com/puerto-rico",
-"https://darrensoto.com/spanish",
-"https://darrensoto.com/stop-corruption",
-"https://darrensoto.com/support",
-"https://darrensoto.com/volunteer",
-"https://darrensoto.com/volunteer-1",
-"https://darrensoto.com/vote",
-"https://facebook.com/DarrenSotoFlorida",
-"https://secure.actblue.com/contribute/page/soto?amount=9",
-"https://youtube.com/channel/UCMPJK6_8Qou5dZnmNPhk2gg"
+{
+"text": "Affordable Housing",
+"href": "https://www.darrensoto.com/affordable-housing"
+},
+{
+"text": "Agriculture",
+"href": "https://www.darrensoto.com/agriculture"
+},
+{
+"text": "Canvassing",
+"href": "https://www.darrensoto.com/volunteer"
+},
+{
+"text": "Conservation",
+"href": "https://www.darrensoto.com/conservation"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/soto?amount=9"
+},
+{
+"text": "En Español",
+"href": "https://www.darrensoto.com/spanish"
+},
+{
+"text": "Home",
+"href": "https://www.darrensoto.com/"
+},
+{
+"text": "IMMIGRATION REFORm AND Border security",
+"href": "https://www.darrensoto.com/immigration-reform"
+},
+{
+"text": "Infrastructure",
+"href": "https://www.darrensoto.com/infrastructure"
+},
+{
+"text": "Issues",
+"href": "https://www.darrensoto.com/issues"
+},
+{
+"text": "Lower Costs and Create More Jobs for Florida",
+"href": "https://www.darrensoto.com/jobs-and-economy"
+},
+{
+"text": "Media",
+"href": "https://www.darrensoto.com/media"
+},
+{
+"text": "Military and Veterans",
+"href": "https://www.darrensoto.com/military-and-veterans"
+},
+{
+"text": "New FL-9 District Map",
+"href": "https://www.darrensoto.com/new-map"
+},
+{
+"text": "Organizational Support",
+"href": "https://www.darrensoto.com/support"
+},
+{
+"text": "PROTECT OUR HEALTH CARE",
+"href": "https://www.darrensoto.com/healthcare"
+},
+{
+"text": "PUERTO RICO",
+"href": "https://www.darrensoto.com/puerto-rico"
+},
+{
+"text": "Phone Banking",
+"href": "https://www.darrensoto.com/volunteer-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.darrensoto.com/privacy-policy"
+},
+{
+"text": "Protect Social Security",
+"href": "https://www.darrensoto.com/protect-social-security"
+},
+{
+"text": "Stop Corruption",
+"href": "https://www.darrensoto.com/stop-corruption"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.darrensoto.com/volunteer"
+},
+{
+"text": "Voting Information",
+"href": "https://www.darrensoto.com/vote"
+},
+{
+"text": "[image: Darren Soto]",
+"href": "https://www.darrensoto.com/"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/darrensoto"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DarrenSotoFlorida/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCMPJK6_8Qou5dZnmNPhk2gg"
+},
+{
+"text": "contribute",
+"href": "https://secure.actblue.com/contribute/page/soto?amount=9"
+}
 ]

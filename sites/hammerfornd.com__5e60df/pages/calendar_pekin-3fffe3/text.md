@@ -1,9 +1,2 @@
-Mailing Address:
-Hammer for ND
-PO Box 58
-Minot, ND 58702
-General Inquiries: info@hammerfornd.com
-Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
-Paid for by Hammer for ND
-Follow Trygve on
-Social Media
+0 Skip to Content Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Back to All Events meet the candidate Thursday, February 19, 2026 5:30 PM 8:00 PM Pekin Community Center 204 Main St N, Pekin, ND (map) Google Calendar ICS Next Next February 28 District 2 Meeting Mailing Address: Hammer for ND PO Box 58 Minot, ND 58702 General Inquiries: info@hammerfornd.com Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
+Paid for by Hammer for ND Follow Trygve on Social Media

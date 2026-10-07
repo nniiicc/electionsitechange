@@ -1,29 +1,28 @@
-Dr.
-Kim Thomas Smith
-Candidate for Georgia House District 117
-Dr.
+Home Meet Dr.
+Kim One Henry Top Priorities Endorsements Donate Contact Us Select Page Dr.
+Kim Thomas Smith Candidate for Georgia House District 117 Dr.
 Kim Thomas Smith is a Georgia native, raised with deep Southern roots and values centered on responsibility—when you see a need, you step in.
 Drawn to Henry County’s unity and small-town feel, she made it her home—and it became her calling.
-For decades, Kim has served Henry County through hands-on community work: coordinating volunteer programs and processing hundreds of monthly requests for rent, mortgage, and utility assistance through Samaritans Together of Henry County; supporting food distribution and family programs through Helping In His Name Ministries; and providing wellness calls to seniors through the One2One Telephone Assurance Program.
+For decades, Kim has served Henry County through hands-on community work: coordinating volunteer programs and processing hundreds of monthly requests for rent, mortgage, and utility assistance through Samaritans Together of Henry County ; supporting food distribution and family programs through Helping In His Name Ministries ; and providing wellness calls to seniors through the One2One Telephone Assurance Program .
 She has also mentored students and supported literacy and youth programs while organizing community safety and beautification efforts like shred events, cleanups, and recycling initiatives.
 Kim earned her Doctorate in Organizational Leadership and leads with servant leadership—showing up, listening first, and building practical solutions that prioritize people.
-campaign endorsements
-endorse dr. kim thomas smith for ga house district 117
-Top priorities
-What Dr.
-Kim Will Fight For In The Legislature
-“This campaign is about service, not ambition.
-Kim is running so seniors are not left waiting and every resident of Henry County feels seen, heard, and supported.”
-SELECT TO LEARN MORE
-Housing Affordability & Stability
-Rising housing and utility costs are pushing families and seniors to the edge.
-Seniors & Healthcare Access
-Georgia’s seniors often face delays and confusion accessing benefits and care due to underfunded systems and lack of oversight.
-Strong Public Schools & Student Support
-The state controls school funding formulas and education policy that directly affect Henry County classrooms.
-Public Safety & Neighborhood Stability
-Public safety depends on prevention, accountability, and coordination between the state and local agencies.
-Food Security & Community Support
-Food insecurity is directly affected by state funding decisions and program eligibility rules.
-Transportation & Smart Growth
-The state legislature controls transportation funding and long-term infrastructure planning.
+LEARN MORE One Voice.
+One Vote.
+One Henry.
+OUR MESSAGE Every person has a story.
+Every vote matters.
+Henry County is one community.
+For Dr.
+Kim Thomas Smith, this is not a phrase—it is how she has lived and served for decades: listening first, building trust, and making sure everyday people are represented.
+SELECT TO LEARN MORE & Learn More & Learn More & Learn More campaign endorsements endorse dr. kim thomas smith for ga house district 117 Top priorities What Dr.
+Kim Will Fight For In The Legislature “This campaign is about service, not ambition.
+Kim is running so seniors are not left waiting and every resident of Henry County feels seen, heard, and supported.” SELECT TO LEARN MORE Housing Affordability & Stability Rising housing and utility costs are pushing families and seniors to the edge.
+Seniors & Healthcare Access Georgia’s seniors often face delays and confusion accessing benefits and care due to underfunded systems and lack of oversight.
+Strong Public Schools & Student Support The state controls school funding formulas and education policy that directly affect Henry County classrooms.
+Public Safety & Neighborhood Stability Public safety depends on prevention, accountability, and coordination between the state and local agencies.
+Food Security & Community Support Food insecurity is directly affected by state funding decisions and program eligibility rules.
+Transportation & Smart Growth The state legislature controls transportation funding and long-term infrastructure planning. support our campaign get involved Help spread this message across District 117 to Support Dr.
+Kim’s Campaign: DONATE to power outreach, materials, and voter contact VOLUNTEER to canvass, call, text, and host events REGISTER / CHECK YOUR REGISTRATION and make a voting plan Select how to help  DONATE  VOLUNTEER  REGISTER TO VOTE  REQUEST A YARD SIGN  HOST AN EVENT RUNOFF VOTING DATES Early Voting: June 8 - 12, 2026 Runoff Election Day: Tuesday, June 16, 2026 Contact COMMITTEE TO ELECT DR.
+KIM THOMAS SMITH PHONE: 470.832.9299 EMAIL: info@votedrkim.com Follow Follow Follow © Committee To Elect Dr.
+Kim Thomas Smith #.
+Developed by The Consulting Firm, Inc.

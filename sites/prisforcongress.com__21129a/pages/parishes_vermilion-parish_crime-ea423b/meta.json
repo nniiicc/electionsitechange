@@ -1,7 +1,9 @@
 {
- "description": "The crime rate in Vermilion Parish, Louisiana, is relatively high. The annual crime rate is 119.6 per 1,000 population and includes both violent and property crimes. Violent offenses are substantially lower, at 3.503 per 1,000 residents, earning the area an A+ for violent crime. Property crime is a significant concern,\u2026",
+ "description": "The crime rate in Vermilion Parish, Louisiana, is relatively high. The annual crime rate is 119.6 per 1,000 population and includes both violent and property crimes. Violent offenses are substantially lower, at 3.503 per 1,000 residents, earning the area an A+ for violent crime. Property crime is a significant concern,…",
  "final_url": "https://prisforcongress.com/parishes/vermilion-parish/crime/",
- "paid_for_by": null,
+ "fingerprint": "6c581335688b8d4bdc21dd11b1db527ad78d7285",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Crime in Vermilion Parish",
  "years_mentioned": []
 }

@@ -1,12 +1,7 @@
-Let Me Introduce Myself
-I served on the Whittier City Council, and was the Mayor Pro-Tem for the city.
+Skip to content Facebook Mail Instagram X News About Contact Me Gallery Give About Let Me Introduce Myself I served on the Whittier City Council, and was the Mayor Pro-Tem for the city.
 I am the wife of a veteran, a mother of five grown children, and an active member of my church and community.
 I am an educator with a Juris Doctorate Degree from Trinity Law School, a Bachelor’s Degree in Political Science from LMU, and Master’s Degrees in both International Human Rights and Bio-Ethics.
-I will:
-Protect our FAITH
-Protect our FAMILIES
-Protect our FREEDOM, and
-Protect us from THE MARCH TOWARDS SOCIALISM!
+I will: Protect our FAITH Protect our FAMILIES Protect our FREEDOM, and Protect us from THE MARCH TOWARDS SOCIALISM!
 I am a Christian and follow the Bible’s teachings.
 I am pro-life and believe every life has purpose, is precious, and must be protected.
 As a devoted Christian, I believe in the Bible and its teachings.
@@ -35,24 +30,7 @@ I am also a member of the Republican Party of Los Angeles County and am a delega
 I am a proud supporter of Prop 13 and believe the constraints it places on taxing agencies is appropriate.
 This proposition has reduced the number of forced evictions of people on fixed incomes (mostly seniors and the disabled) and made the annual property tax bill more stable.
 Prior to Prop 13, taxing agencies simply set the rate at what the agency felt was needed to operate the government rather setting government budgets in accordance with available and reasonable property taxes.
-About the 56th Assembly District
-Created by Re-districting Commission in December, 2021
-Population: 493,302
-Registered voters: 283,119
-Includes all or portions of the cities and unincorporated L.A.
-County areas of:
-Avocado Heights
-La Habra Heights
-Rowland Heights
-Diamond Bar
-La Puente
-South El Monte
-El Monte
-Los Nietos
-Walnut
-Hacienda Heights
-North Whittier
-West Whittier
-Industry
-Pico Rivera
-Whittier
+About the 56th Assembly District Created by Re-districting Commission in December, 2021 Population: 493,302 Registered voters: 283,119 Includes all or portions of the cities and unincorporated L.A.
+County areas of: Avocado Heights La Habra Heights Rowland Heights Diamond Bar La Puente South El Monte El Monte Los Nietos Walnut Hacienda Heights North Whittier West Whittier Industry Pico Rivera Whittier Leave a Reply Cancel reply You must be logged in to post a comment.
+WHAT’S GOING ON?
+Ballot Statement – English Do NOT vote for me if you want: High taxesHigh… Read more : Ballot Statement – English Ballot Statement – Spanish NO vote por mí si desea: Impuestos altosAlta tasa de… Read more : Ballot Statement – Spanish SOCIAL MEDIA Facebook Mail Instagram X Email: martinezforassembly@gmail.com Phone: (562) 347-7202 Home About News Paid for by: Jessica Martinez for 56th Assembly 2026 FPPC #: 1479619

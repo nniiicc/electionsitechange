@@ -1,9 +1,34 @@
 [
-"https://facebook.com/voteforJackson",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/voteforjackson",
-"https://tiktok.com/@voteforjackson0",
-"https://votematthewjackson.com/",
-"https://votematthewjackson.com/contact",
-"https://votematthewjackson.com/gallery"
+{
+"text": "Contact",
+"href": "https://votematthewjackson.com/contact"
+},
+{
+"text": "Gallery",
+"href": "https://votematthewjackson.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://votematthewjackson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/voteforJackson"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/voteforjackson"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@voteforjackson0"
+},
+{
+"text": "jackson for actionjackson for actionjackson for actionjackson for action",
+"href": "https://votematthewjackson.com/"
+}
 ]

@@ -1,38 +1,166 @@
 [
-"https://accessibility-helper.co.il/",
-"https://burnettmediagroup.com/",
-"https://facebook.com/people/Glenn-Lancaster-for-Mayor/61561177884105",
-"https://glennlancaster.com/",
-"https://glennlancaster.com/about",
-"https://glennlancaster.com/cart",
-"https://glennlancaster.com/communitysupport",
-"https://glennlancaster.com/contact-page",
-"https://glennlancaster.com/donation-form",
-"https://glennlancaster.com/event-sign-up-get-invited",
-"https://glennlancaster.com/issues2",
-"https://glennlancaster.com/news",
-"https://glennlancaster.com/privacypolicy",
-"https://glennlancaster.com/product-category/uncategorized",
-"https://glennlancaster.com/product/high-lakes-coffee-blend-light-roast",
-"https://glennlancaster.com/product/love-where-you-live-unisex-t-shirt-heart-design",
-"https://glennlancaster.com/product/mens-polo-shirt",
-"https://glennlancaster.com/product/mens-polo-shirt-2",
-"https://glennlancaster.com/product/unisex-heavy-blend-crewneck-sweatshirt-3",
-"https://glennlancaster.com/shop",
-"https://glennlancaster.com/terms-and-conditions",
-"https://glennlancaster.com/volunteer-sign-up",
-"https://glennlancaster.com/wp-content/uploads/2026/02/11131308715644255880_2048.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/02/14696075136964170883_2048.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/02/14976251941184245987_2048.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/02/15973372660069513196_2048.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/02/17090144056446139301_2048.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/02/2647334006647504528_2048.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/02/3125829300603430622_2048.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/02/3980758170914098199_2048.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/02/5624284723620861061_2048.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/02/7709626753624523284_2048.jpeg",
-"https://hostdoodle.com/",
-"https://instagram.com/glennlancasterfororegon",
-"https://linkedin.com/company/glennlancaster",
-"https://x.com/Lancaster4Or"
+{
+"text": "About",
+"href": "https://glennlancaster.com/about/"
+},
+{
+"text": "Accessibility by WAH",
+"href": "https://accessibility-helper.co.il/"
+},
+{
+"text": "Cancel reply",
+"href": "https://glennlancaster.com/product/unisex-heavy-blend-crewneck-sweatshirt-3/#respond"
+},
+{
+"text": "Contact",
+"href": "https://glennlancaster.com/contact-page/"
+},
+{
+"text": "Contribute",
+"href": "https://glennlancaster.com/donation-form/"
+},
+{
+"text": "Event Sign-Up",
+"href": "https://glennlancaster.com/event-sign-up-get-invited/"
+},
+{
+"text": "Glenn's Personal Phone: 971.396.6610 [call or text]",
+"href": "tel:Glenn's%20Personal%20Phone:%20971.396.6610%20%5Bcall%20or%20text%5D"
+},
+{
+"text": "Glenn@GlennLancaster.com",
+"href": "mailto:Glenn@GlennLancaster.com"
+},
+{
+"text": "GlennLancaster.com",
+"href": "https://glennlancaster.com"
+},
+{
+"text": "Hostdoodle",
+"href": "https://www.hostdoodle.com/"
+},
+{
+"text": "News",
+"href": "https://glennlancaster.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://glennlancaster.com/issues2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://glennlancaster.com/privacypolicy/"
+},
+{
+"text": "Shop",
+"href": "https://glennlancaster.com/shop/"
+},
+{
+"text": "Support",
+"href": "https://glennlancaster.com/communitysupport/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://glennlancaster.com/terms-and-conditions/"
+},
+{
+"text": "Terms and conditions",
+"href": "https://glennlancaster.com/terms-and-conditions/"
+},
+{
+"text": "Uncategorized",
+"href": "https://glennlancaster.com/product-category/uncategorized/"
+},
+{
+"text": "Volunteer",
+"href": "https://glennlancaster.com/volunteer-sign-up/"
+},
+{
+"text": "[image: Ceramic Mug - \"Love Where You Live\" - Perfect Gift for Coffee Lovers]Ceramic Mug – “Love Where You Live” – Perfect Gift for Coffee Lovers $6.24 – $8.14Price range: $6.24 through $8.14",
+"href": "https://glennlancaster.com/product/ceramic-mug-love-where-you-lice-perfect-gift-for-coffee-lovers/"
+},
+{
+"text": "[image: Glenn Lancaster]",
+"href": "https://glennlancaster.com"
+},
+{
+"text": "[image: High Lakes Coffee Blend (Light Roast)]High Lakes Coffee Blend (Light Roast) $19.54",
+"href": "https://glennlancaster.com/product/high-lakes-coffee-blend-light-roast/"
+},
+{
+"text": "[image: Love Where You Live Baseball Cap - Stylish Low Profile Hat for Community Pride]Love Where You Live Baseball Cap – Stylish Low Profile Hat for Community Pride $17.74",
+"href": "https://glennlancaster.com/product/love-where-you-live-baseball-cap-stylish-low-profile-hat-for-community-pride/"
+},
+{
+"text": "[image: Men's Polo Shirt]Men’s Polo Shirt $35.65 – $39.55Price range: $35.65 through $39.55",
+"href": "https://glennlancaster.com/product/mens-polo-shirt/"
+},
+{
+"text": "[image: Unisex Heavy Blend™ Crewneck Sweatshirt]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/02/11131308715644255880_2048.jpeg"
+},
+{
+"text": "[image: Unisex Heavy Blend™ Crewneck Sweatshirt]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/02/14696075136964170883_2048.jpeg"
+},
+{
+"text": "[image: Unisex Heavy Blend™ Crewneck Sweatshirt]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/02/14976251941184245987_2048.jpeg"
+},
+{
+"text": "[image: Unisex Heavy Blend™ Crewneck Sweatshirt]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/02/15973372660069513196_2048.jpeg"
+},
+{
+"text": "[image: Unisex Heavy Blend™ Crewneck Sweatshirt]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/02/17090144056446139301_2048.jpeg"
+},
+{
+"text": "[image: Unisex Heavy Blend™ Crewneck Sweatshirt]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/02/2647334006647504528_2048.jpeg"
+},
+{
+"text": "[image: Unisex Heavy Blend™ Crewneck Sweatshirt]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/02/3125829300603430622_2048.jpeg"
+},
+{
+"text": "[image: Unisex Heavy Blend™ Crewneck Sweatshirt]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/02/3980758170914098199_2048.jpeg"
+},
+{
+"text": "[image: Unisex Heavy Blend™ Crewneck Sweatshirt]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/02/5624284723620861061_2048.jpeg"
+},
+{
+"text": "[image: Unisex Heavy Blend™ Crewneck Sweatshirt]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/02/7709626753624523284_2048.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://glennlancaster.com"
+},
+{
+"text": "[no text]",
+"href": "https://glennlancaster.com/cart/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Glenn-Lancaster-for-Mayor/61561177884105/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/glennlancasterfororegon/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/company/glennlancaster/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Lancaster4Or"
+},
+{
+"text": "burnett media group",
+"href": "https://burnettmediagroup.com/"
+}
 ]

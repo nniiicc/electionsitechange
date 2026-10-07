@@ -1,7 +1,9 @@
 {
  "description": "Contact the John Sjaarda Campaign",
  "final_url": "https://www.johnsjaarda.net/contact",
- "paid_for_by": null,
+ "fingerprint": "a7b004b551de54d8c09fc5d420218ba763428d4a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact the John Sjaarda Campaign",
  "years_mentioned": []
 }

@@ -1,8 +1,38 @@
 [
-"https://alexfinkelman.com/",
-"https://alexfinkelman.com/about",
-"https://alexfinkelman.com/contact",
-"https://alexfinkelman.com/platform",
-"https://facebook.com/finkelmanalex",
-"https://secure.actblue.com/donate/friends-of-alex-finkelman-1"
+{
+"text": "About Alex",
+"href": "https://alexfinkelman.com/about/"
+},
+{
+"text": "Close Menu",
+"href": "https://alexfinkelman.com/#sidr-menu-close"
+},
+{
+"text": "Contact",
+"href": "https://alexfinkelman.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/friends-of-alex-finkelman-1"
+},
+{
+"text": "Home",
+"href": "https://alexfinkelman.com/"
+},
+{
+"text": "Menu Close",
+"href": "https://alexfinkelman.com/#mobile-menu-toggle"
+},
+{
+"text": "Platform",
+"href": "https://alexfinkelman.com/platform/"
+},
+{
+"text": "[image]",
+"href": "https://alexfinkelman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/finkelmanalex"
+}
 ]

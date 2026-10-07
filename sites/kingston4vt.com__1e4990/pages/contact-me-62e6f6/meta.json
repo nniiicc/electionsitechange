@@ -1,9 +1,9 @@
 {
  "description": "Contact John Kingston, Vermont State Representative, via our contact form or reach out directly via email or phone.",
  "final_url": "https://kingston4vt.com/contact-me",
- "paid_for_by": null,
+ "fingerprint": "790250223ad3ffe4af1a57c9b8d5946cd0a428e2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact Me",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

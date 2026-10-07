@@ -1,5 +1,4 @@
-Matters
-Committed to addressing key issues that matter to Washington families.
+DONATE Yuri Marinchik Home Meet Yuri Matters Donate Contact Yuri Marinchik Home Meet Yuri Matters Donate Contact Matters Committed to addressing key issues that matter to Washington families.
 After we moved to Washington, we were genuinely happy.
 We were comfortable, exploring the state, and believed it was a great place to start a business, buy a home, and raise a family.
 The state seemed full of opportunity and thriving.
@@ -48,3 +47,6 @@ They have already lost our trust.
 This growing list of problems pushed me to run.
 Today I choose change for myself, right now.
 Support my campaign in this election if you also believe that you and your community deserve better.
+Contact Reach out with questions or support.
+Email YuriHR@proton.me © #.
+All rights reserved.

@@ -1,2 +1,3 @@
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Home Announcements Position Papers My Opponent Privacy Policy Fix Powers More Home Announcements Position Papers My Opponent Privacy Policy Fix Powers Home Announcements Position Papers My Opponent Privacy Policy Fix Powers Announcements and News Copyright © # Pierson4Co - All Rights Reserved.
+Approved by Pierson for Colorado, Addison Hill, registered agent.
+Powered by

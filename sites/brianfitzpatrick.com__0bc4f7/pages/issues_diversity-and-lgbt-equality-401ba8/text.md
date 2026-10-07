@@ -1,4 +1,4 @@
-The quintessential adjective used around the world to describe what it means to be an American is the word, ‘free.’ Freedom means freedom for everybody.
+Brian Fitzpatrick For Congress Home Bio Issues Contact Media Vote by Mail Endorsements Header Buttons Donate Protecting our Families Opportunity for All Government Reform Protecting Medicare & Social Security A Health Care System That Works for Everyone An Immigration System That Works for Everyone Opioid Addiction and Mental Health Workforce Training and Development Empowering Women Protecting our Environment and Clean Water Protecting our Animals Equality and Diversity Promoting Education and Affordability Supporting our Veterans and Law Enforcement Equality and Diversity The quintessential adjective used around the world to describe what it means to be an American is the word, ‘free.’ Freedom means freedom for everybody.
 Our country and our community is also made stronger by our diversity, citizens of different backgrounds coming together to make our country stronger and even better.
 LGBTQ Americans are part of the fabric of our society and should be free to exercise the rights guaranteed to every American by the Constitution to participate fully in our society and pursue every opportunity.
 That is why I co-led and voted for the Equality Act, which would protect Americans from discrimination on the basis of sexual orientation and gender identity.
@@ -9,3 +9,6 @@ Hate and intolerance have no home in our community.
 I have supported bipartisan legislative efforts, like the National Opposition to Hate, Assault, and Threats to Equality (NO HATE) Act, to strengthen federal laws against hate speech, threats, and attacks, and improve reporting and expand assistance and resources for victims of hate crimes.
 We must do whatever we can to close gaps in existing hate crime reporting and strengthen the national response to these despicable crimes.
 Do you support legislation that will protect Americans from discrimination on the basis of sexual orientation and gender identity?
+Yes No Email Quotes “Rep.
+Brian Fitzpatrick earned the highest Bipartisan Index score we have ever recorded by a House member,” - Dan Diller, Policy Director, The Lugar Center, Georgetown University, 5/12/20 "Pa's Fitzpatrick Leads U.S.
+House in Bipartisan, New Rankings Show" - Pennsylvania Capital-Star, 2/21/2020 Paid for by Brian Fitzpatrick for All of Us Privacy Policy Terms and Conditions PO Box 939 Langhorne, PA 19047 info@brianfitzpatrick.com

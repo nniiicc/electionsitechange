@@ -1,17 +1,14 @@
-LIVE at 5PM ET - UAW Rally to save the American Dream
-Marlin Stutzman is a fourth-generation farmer, business owner, and former U.S.
+Home Meet Marlin The Issues Endorsements Store Team Marlin Menu Donate Help us continue the fight and send Marlin back to Indiana's 3rd District! $# $# $# other All donations are processed securely through WinRed.
+LIVE at 5PM ET - UAW Rally to save the American Dream Meet Marlin Marlin Stutzman is a fourth-generation farmer, business owner, and former U.S.
 Congressman from Howe, Indiana.
 Marlin and his wife, Christy, have two sons, Payton and Preston.
 Marlin is currently Managing Partner at The Stutzman Group, Co-owner of Show Hauler RV and past President of WishBone Medical, Inc.
 Marlin and Christy are also co-owners of Stutzman Brothers Meats, The Barns At Nappanee, & The Round Barn Theatre.
-The Stutzmans continue to maintain their family farm, Schönbrook Farm, in Howe where they raise Wagyu Beef for their farm to fork restaurant, Stutzman Brothers Steakhouse.
-Marlin's first experience in business was at the age of 16 when he started his own beef cattle operation.
+The Stutzmans continue to maintain their family farm, Schönbrook Farm, in Howe where they raise Wagyu Beef for their farm to fork restaurant, Stutzman Brothers Steakhouse. ‍ Marlin's first experience in business was at the age of 16 when he started his own beef cattle operation.
 At the age of 18, he became a partner with his father Albert and other family members, helping to build Stutzman Family Farms into a multi-million dollar operation.
-Growing seed corn, green beans, corn, soybeans, and venturing into organic crop production, Marlin soon added a trucking company to the family operation to complement the needs of their crop production.
-At the age of 25, Marlin was elected to the Indiana State House, working part-time as the youngest serving state legislator for 8 years while still working full-time with the family business.
+Growing seed corn, green beans, corn, soybeans, and venturing into organic crop production, Marlin soon added a trucking company to the family operation to complement the needs of their crop production. ‍ At the age of 25, Marlin was elected to the Indiana State House, working part-time as the youngest serving state legislator for 8 years while still working full-time with the family business.
 He helped Governor Mitch Daniels take the state from a $1 billion deficit to more than a $1 billion surplus with a 10 year fully-funded roads program and did it all without raising taxes.
-He was elected to the Indiana State Senate in 2008, representing a large portion of the counties in Northeast Indiana.
-Elected to the US House of Representatives in November, 2010, U.S.
+He was elected to the Indiana State Senate in 2008, representing a large portion of the counties in Northeast Indiana. ‍ Elected to the US House of Representatives in November, 2010, U.S.
 Congressman Marlin Stutzman quickly emerged as a pro-business, pro-family, conservative leader for Northeast Indiana.
 As a member of the Financial Services Committee, Agriculture Committee, the Budget Committee, Veterans Affairs Committee, and the Dean of Indiana’s Republican delegation in the House, Marlin worked hard to bring common sense to an out-of-control federal government.
 He authored the Conservative Congressional Budget and was the original author the Right to Try legislation signed into law by President Trump.
@@ -22,3 +19,5 @@ Congressman Stutzman was proud to serve the needs of the hardworking Hoosier fam
 Marlin graduated from Lake Area Christian School and attended Trine University where he served on the Board of Trustees for several years.
 The Stutzmans attend Grace Bible Church and Marlin’s heart for mission work has led him to travel on short-term mission trips to Haiti, Mexico, Russia and Guatemala.
 Marlin is a member of the LaGrange Chamber of Commerce, NFIB, ARC of Indiana, the Indiana Farm Bureau, the Howe Community Association, the NRA, and several Hoosier right-to-life organizations.
+Learn Meet Marlin The Issues Endorsements Privacy Policy Terms & Conditions ORGANIZE Get Involved Contribute SOCIAL MEDIA Facebook Instagram TikTok Truth Social X / Twitter YouTube ABOUT Contact Store Press Media Kit Team Marlin Stutzman for Congress P.O.
+Box 339 Howe, Indiana 46746 © Stutzman for Congress PAID FOR BY STUTZMAN FOR CONGRESS Courageous Leadership.

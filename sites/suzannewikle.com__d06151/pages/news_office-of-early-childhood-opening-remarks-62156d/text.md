@@ -1,8 +1,8 @@
-Office of Early Childhood Opening remarks
-Thank you, Kari.
+0 Skip to Content Meet Suzanne Issues Get Involved News Newsletter DONATE Open Menu Close Menu Open Menu Close Menu Meet Suzanne Issues Get Involved News Newsletter DONATE Meet Suzanne Issues Get Involved News Newsletter DONATE Office of Early Childhood Opening remarks Blog Jul 1 Written By Suzanne Wikle Thank you, Kari.
 And, thank you to the Governor for inviting me.
 Today is a good day for Kansas kids and families!
-The evidence is clear - investing in the youngest children is one of the smartest policy decisions we can make. 90 percent of brain development happens before a child’s fifth birthday and their experiences in those first five years shape the trajectory of their life.
+The evidence is clear - investing in the youngest children is one of the smartest policy decisions we can make.
+90 percent of brain development happens before a child’s fifth birthday and their experiences in those first five years shape the trajectory of their life.
 Decisions we make in Topeka affect our constituents’ lives everyday.
 We talk about infrastructure - roads, water, and internet - recognizing that the state has a role to play to facilitate these services for communities and Kansans.
 Child care and investments in our early childhood system is critical infrastructure too.
@@ -22,3 +22,6 @@ Investments in the youngest Kansans and the systems that provide services to fam
 But perhaps most importantly, today marks the day that the state says unequivocally - young children matter, they are worth investing in and we want families who are doing the hard work of raising little Kansans to have a dedicated and streamlined office when they are looking for information and assistance.
 In my work representing House District 10 there is one question I always judge policy proposals by - Is it good for the kids?
 Without doubt, this is good for the kids; it’s good for families; and it’s good for our state.
+Suzanne Wikle Previous Previous Lawrence Journal World Primary Voter Guide Next Next Representative Suzanne Wikle Kicks Off Re-Election Campaign for House District 10 Paid for by Suzanne Wikle for Kansas.
+Allison Marker, treasurer.
+Meet Suzanne Issues Get Involved DONATE

@@ -1,11 +1,10 @@
-About Me
-My name is Alex Pereszlenyi.
+0 Skip to Content Home About Me Issues Volunteer Community Events Donate Open Menu Close Menu Donate Home About Me Issues Volunteer Community Events Open Menu Close Menu Home About Me Issues Volunteer Community Events Donate About Me My name is Alex Pereszlenyi.
 I’m a 33-year-old, data analyst and software developer.
 I’m a proud dog dad to an energetic labradoodle named Charlie.
 I was born and raised in this very district and this community.
 I’ve experienced the joy, the heartbreak, and the growing challenges this community faces.
 I love sports and grew up as a huge UNLV sports fan and Angels baseball fan.
-As a hopeless romantic, I have embraced the guilty pleasure of watching reality TV like Love is Blind and Love Island.
+As a hopeless romantic, I have embraced the guilty pleasure of watching reality TV like Love is Blind and Love Island .
 AND, I’m not afraid to channel my inner Backstreet Boy or Miley Cyrus at my local karaoke bar to put on a show you’d never forget.
 My parents worked really hard to give my younger sister and me a good life.
 My mom was a sonographer, often sharing exciting pregnancy news with growing families.
@@ -25,3 +24,7 @@ Every time we survived these harsh events, the average Nevadan was left poorer, 
 It’s why I am done watching from the sidelines, while the same people in power fail to tackle the problems we face.
 It’s time for new, tireless voices in our politics that won’t bow down to corporations and special interests.
 I am running because Nevadans deserve better, and it’s time to bully the bullies until we get it.
+Questions?
+Concerns?
+Food Recs?
+Hit me up Email: AlexPereszlenyi@alexfornevada.com My Phone: 702-577-6391 213 North Stephanie Street, Ste G #362 Paid For By Alex For Nevada Donate Privacy Policy

@@ -1,6 +1,4 @@
-Jess Rivera
-In My Own Words
-I’m Jess Rivera.
+Skip to Content Open Menu Close Menu Home Volunteer About Platform Ledger Donate English 0 0 Home Volunteer About Platform Ledger Donate English 0 0 Open Menu Close Menu Home Volunteer About Platform Ledger Donate English Back Jess Rivera In My Own Words I’m Jess Rivera.
 I’m a Marine veteran, a barber, and a small business owner.
 I’m also the oldest of six kids from a Mexican-Irish, working-class family.
 Where I come from, you pull your weight.
@@ -41,11 +39,13 @@ I believe strength comes through community.
 And I believe public systems, when they work the way they should alongside private enterprise, can transform lives.
 I’m living proof of that.
 I’m running for State Senate because I know what it’s like to fall through the cracks.
-And I know how much it matters when someone reaches out and says, “I see you.”
-This campaign isn’t about me.
+And I know how much it matters when someone reaches out and says, “I see you.” This campaign isn’t about me.
 It’s about what my people need.
 What they want from their elected officials.
 Not what I think is best, but what they’ve been saying for years.
 I’m here to carry that forward with them.
 A vote for me is a vote for you.
 For our shared future and for the working communities that keep North Carolina going strong.
+NO CORPORATE PACS Call or Text: (252)292-9575 e-mail: team@jessfornc.com Checks mailed to: PO Box 3274, Wilson, NC 27895 Paid for by Jess Rivera For North Carolina Use of titles and photographs in uniform does not imply endorsement by the U.S.
+Marine Corps or U.S.
+Department of Defense.

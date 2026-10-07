@@ -1,13 +1,66 @@
 [
-"http://secure.actblue.com/donate/jonah-garson-1",
-"http://twitter.com/jonahgarsonnc",
-"https://facebook.com/jonahgarsonnc",
-"https://instagram.com/jonahgarsonnc",
-"https://jonahgarson.com/",
-"https://jonahgarson.com/about-me",
-"https://jonahgarson.com/endorsements",
-"https://jonahgarson.com/events",
-"https://jonahgarson.com/on-the-issues",
-"https://jonahgarson.com/the-news",
-"https://tiktok.com/@jonahgarsonnc"
+{
+"text": "ABOUT ME",
+"href": "https://www.jonahgarson.com/about-me"
+},
+{
+"text": "CONTACT",
+"href": "https://www.jonahgarson.com"
+},
+{
+"text": "DONATE",
+"href": "http://secure.actblue.com/donate/jonah-garson-1/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.jonahgarson.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.jonahgarson.com/events"
+},
+{
+"text": "HOME",
+"href": "https://www.jonahgarson.com"
+},
+{
+"text": "Jonah@jonahgarson.com",
+"href": "mailto:Jonah@jonahgarson.com"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "THE NEWS",
+"href": "https://www.jonahgarson.com/the-news"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/jonahgarsonnc"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jonahgarsonnc"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@jonahgarsonnc"
+},
+{
+"text": "[image: X]",
+"href": "http://twitter.com/jonahgarsonnc"
+},
+{
+"text": "here",
+"href": "http://secure.actblue.com/donate/jonah-garson-1/"
+},
+{
+"text": "here",
+"href": "https://www.jonahgarson.com"
+},
+{
+"text": "here",
+"href": "https://www.jonahgarson.com/endorsements"
+}
 ]

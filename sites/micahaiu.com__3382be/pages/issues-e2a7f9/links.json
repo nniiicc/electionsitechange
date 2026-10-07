@@ -1,11 +1,54 @@
 [
-"https://micahaiu.com/",
-"https://micahaiu.com/about-micah",
-"https://micahaiu.com/contact",
-"https://micahaiu.com/contribute",
-"https://micahaiu.com/issues",
-"https://micahaiu.com/photos",
-"https://micahaiu.com/privacy",
-"https://micahaiu.com/terms",
-"https://micahaiu.com/volunteer"
+{
+"text": "About Micah",
+"href": "https://www.micahaiu.com/about-micah"
+},
+{
+"text": "Contact",
+"href": "https://www.micahaiu.com/contact"
+},
+{
+"text": "Contact Micah",
+"href": "https://www.micahaiu.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.micahaiu.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://www.micahaiu.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.micahaiu.com/issues"
+},
+{
+"text": "Photos",
+"href": "https://www.micahaiu.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.micahaiu.com/privacy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.micahaiu.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.micahaiu.com/volunteer"
+},
+{
+"text": "[image: Micah Poʻokela Kim Aiu, House District 32]Hawaiʻi State HouseDistrict 32 · 2026",
+"href": "https://www.micahaiu.com/"
+},
+{
+"text": "vote@micahaiu.com",
+"href": "mailto:vote@micahaiu.com"
+},
+{
+"text": "www.micahaiu.com",
+"href": "https://www.micahaiu.com/"
+}
 ]

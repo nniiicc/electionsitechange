@@ -1,86 +1,342 @@
 [
-"http://repheatherscott.com/feed",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/1e57d04",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/1f5701e",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/1faeb56",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/1fd227f",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/204a6c0",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/20bfe22",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/212f259",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/21d5224",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2249ad3",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/227aef5",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/22b1262",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/22e9bc8",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/231c939",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/235a64b",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2392174",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/23daa48",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2415516",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/248a86a",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/24d2373",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/24ed51d",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2510a8f",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2597060",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2600d02",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2681dde",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2681e47",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2713621",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/275c99c",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2782d3f",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/278dced",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/27c02b5",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/27e56bc",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2846d53",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/285cd8c",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2888b5c",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2915b5d",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/291d173",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2940996",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/29816ae",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/298fafe",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2a26ca1",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2a3123b",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2ab9f57",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2ae3cfb",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2b2d045",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2b9ca0b",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2bfd9dc",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2c183eb",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2c45140",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2c5c0a1",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2c5ffd6",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2c63dcc",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2c71e0c",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2cc5d67",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2cdaac9",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2d0ad62",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2e5f182",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2eac5e1",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2ee7925",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2f0cbb0",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2f12129",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2f41751",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2f8c2b8",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2fc218f",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/3018083",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/3026b07",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/30731b2",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/3083a99",
-"https://facebook.com/RepHeatherScott",
-"https://growingfreedomidaho.com/all-bills",
-"https://idahocps.org/",
-"https://repheatherscott.com/",
-"https://repheatherscott.com/abortion",
-"https://repheatherscott.com/archive",
-"https://repheatherscott.com/category/updates",
-"https://repheatherscott.com/contact",
-"https://repheatherscott.com/covid",
-"https://repheatherscott.com/gender",
-"https://repheatherscott.com/government-101",
-"https://repheatherscott.com/maps",
-"https://repheatherscott.com/photos",
-"https://repheatherscott.com/rules-regulations",
-"https://repheatherscott.com/smelter",
-"https://twitter.com/HeatherScottID"
+{
+"text": "110 Ways Citizens Can Make a Difference in Idaho Now!",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2a3123b"
+},
+{
+"text": "2019 End of Session Summary",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2415516"
+},
+{
+"text": "2019 Legislative Session Starts!",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/227aef5"
+},
+{
+"text": "2021 Comprehensive Update",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2e5f182"
+},
+{
+"text": "A Brief Update From Last Week",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2f41751"
+},
+{
+"text": "A Freedom Note from Rep. Heather Scott",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2940996"
+},
+{
+"text": "A quick reminder from Rep. Heather Scott.",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/24ed51d"
+},
+{
+"text": "A quick update on available funding",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2915b5d"
+},
+{
+"text": "A short but very important update from Rep. Heather Scott",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/298fafe"
+},
+{
+"text": "ALERT! PRIVACY BREACH of YOUR DATA PLEASE READ!",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/3083a99"
+},
+{
+"text": "Abortion",
+"href": "https://repheatherscott.com/abortion/"
+},
+{
+"text": "Alert-House Bill 314 and the Creative Language to Avoid the Constitution",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2c71e0c"
+},
+{
+"text": "Archived Updates",
+"href": "https://repheatherscott.com/archive/"
+},
+{
+"text": "Audio update from Rep. Heather Scott",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2ee7925"
+},
+{
+"text": "BILLS ⇨",
+"href": "https://growingfreedomidaho.com/all-bills/"
+},
+{
+"text": "COVID",
+"href": "https://repheatherscott.com/covid/"
+},
+{
+"text": "CPS ⇨",
+"href": "https://idahocps.org/"
+},
+{
+"text": "Citizen Alert! New Vehicle Insurance Law goes into effect January 1, 2020",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2681dde"
+},
+{
+"text": "Contact",
+"href": "https://repheatherscott.com/contact/"
+},
+{
+"text": "Exemption Form – Why We are in this Mess – and Idaho Solutions",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2fc218f"
+},
+{
+"text": "Facebook[image]",
+"href": "https://www.facebook.com/RepHeatherScott/"
+},
+{
+"text": "February 15 Legislative Update from Rep. Heather Scott",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/27c02b5"
+},
+{
+"text": "Federal Mandates Versus the Idaho Citizen-Who is Influencing your Legislators?",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2f12129"
+},
+{
+"text": "Gender / Birth Certificates",
+"href": "https://repheatherscott.com/gender/"
+},
+{
+"text": "Gov 101",
+"href": "https://repheatherscott.com/government-101/"
+},
+{
+"text": "Handing Over Idaho on a Silver Platter (Part 1)",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2681e47"
+},
+{
+"text": "Handing Over Idaho on a Silver Platter (Part 2)",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2713621"
+},
+{
+"text": "Happy Thanksgiving from Representative Heather Scott",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/21d5224"
+},
+{
+"text": "Home",
+"href": "https://repheatherscott.com/"
+},
+{
+"text": "House Bill 288 and 195",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2c5c0a1"
+},
+{
+"text": "How to End the Emergency",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2b9ca0b"
+},
+{
+"text": "Idaho Rules & Regs. for October",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/212f259"
+},
+{
+"text": "Idaho Voting Integrity, Potential Cheating and Forensic Audits",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2f8c2b8"
+},
+{
+"text": "Idaho administrative government growth for July",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/1fd227f"
+},
+{
+"text": "Idaho’s new proposed rules, regulations, and fees JUNE",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/1f5701e"
+},
+{
+"text": "Important Timely Update from Representative Heather Scott. Please read!",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2eac5e1"
+},
+{
+"text": "July 3rd is the deadline to submit written comments or request oral presentations/pulic hearings for admin. rules.",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/24d2373"
+},
+{
+"text": "Know your rights or lose them! Call to action",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2392174"
+},
+{
+"text": "Legislative Update: Fantasy vs. Reality",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/20bfe22"
+},
+{
+"text": "Live call in",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2c183eb"
+},
+{
+"text": "Many citizens visit the Capitol daily to share information. Last week STEM students showed off their works!",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/22b1262"
+},
+{
+"text": "Maps",
+"href": "https://repheatherscott.com/maps/"
+},
+{
+"text": "Merry Christmas & Happy New Year from Rep. Heather Scott",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2249ad3"
+},
+{
+"text": "Merry Christmas and Happy New Year from Rep. Heather Scott",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/3026b07"
+},
+{
+"text": "Merry Christmas from Rep. Heather Scott",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2b2d045"
+},
+{
+"text": "New administrative rules regulations and fees for Idaho citizens",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/204a6c0"
+},
+{
+"text": "News & Updates",
+"href": "https://repheatherscott.com/category/updates/"
+},
+{
+"text": "Our Republic—Your Voice",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/231c939"
+},
+{
+"text": "Partial Victory",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2c5ffd6"
+},
+{
+"text": "Phase One-How to Fix Idaho Government Before it is Too Late",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/248a86a"
+},
+{
+"text": "Photos",
+"href": "https://repheatherscott.com/photos/"
+},
+{
+"text": "Please consider participating to help stop the out of control gender agenda occurring in our state.",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2600d02"
+},
+{
+"text": "Pornography in Idaho schools, constitutional rights, hemp, daylight savings time and more!",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/22e9bc8"
+},
+{
+"text": "RSS[image]",
+"href": "http://repheatherscott.com/feed"
+},
+{
+"text": "Redistricting in Idaho",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/3018083"
+},
+{
+"text": "Rep. Heather Scott",
+"href": "https://repheatherscott.com/"
+},
+{
+"text": "Rep. Heather Scott 2018 Idaho Legislature Recap-Report from the Boise Capitol",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/1e57d04"
+},
+{
+"text": "Rep. Heather Scott Legislative Update Week 1 Boise",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/275c99c"
+},
+{
+"text": "Rep. Heather Scott Week 2&3 Update – Time to Start Paying Attention!",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2782d3f"
+},
+{
+"text": "Rules & Regulations",
+"href": "https://repheatherscott.com/rules-regulations/"
+},
+{
+"text": "Silicon Smelter",
+"href": "https://repheatherscott.com/smelter/"
+},
+{
+"text": "Situation Update: Idaho House Legislators Will Return to Boise on Wednesday",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2f0cbb0"
+},
+{
+"text": "Social Justice Indoctrination for Idaho Children Age 0-5 Action Alert!",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2cdaac9"
+},
+{
+"text": "Special Session Update – Important Ballot Information for Election",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2a26ca1"
+},
+{
+"text": "Special Update on Executive Branch Actions",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/291d173"
+},
+{
+"text": "Such a Time as This",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2c45140"
+},
+{
+"text": "Thank you Veterans!",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2ab9f57"
+},
+{
+"text": "The Coming Avalanche",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2cc5d67"
+},
+{
+"text": "The Emperor’s Clothes and Homeland Security Extremism",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/278dced"
+},
+{
+"text": "The Era of Confusion",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/27e56bc"
+},
+{
+"text": "The Great Reset and Idaho’s Future",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2ae3cfb"
+},
+{
+"text": "The Orchestrated Circus, Weeks 1-2",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/30731b2"
+},
+{
+"text": "The Real Emergency",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2bfd9dc"
+},
+{
+"text": "The Virus that Tried to Kill the Constitution-COVID, The Constitution and Cause for Concern",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2846d53"
+},
+{
+"text": "The citizens spoke and the Idaho Executive Branch listened… a little.",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2597060"
+},
+{
+"text": "The end is near…",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/23daa48"
+},
+{
+"text": "To the Edge and Back – Idaho’s Journey Through Tyranny",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2888b5c"
+},
+{
+"text": "Twitter[image]",
+"href": "https://twitter.com/HeatherScottID"
+},
+{
+"text": "Update from Rep. Heather Scott",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/29816ae"
+},
+{
+"text": "Victory! House Bill 195 Killed on House Floor!",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2c63dcc"
+},
+{
+"text": "Vote tomorrow on school levies",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/235a64b"
+},
+{
+"text": "What’s Happening in the Legislature and Will it Ever End?",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2d0ad62"
+},
+{
+"text": "What’s Next?",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/285cd8c"
+},
+{
+"text": "When will enough be enough? Where do you draw the line? Please get involved!",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2510a8f"
+},
+{
+"text": "White House Conference Update for Idaho Legislators",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/1faeb56"
+}
 ]

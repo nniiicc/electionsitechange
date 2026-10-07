@@ -1,81 +1,530 @@
 [
-"https://facebook.com/junie4boulder",
-"https://junie4colorado.com/",
-"https://junie4colorado.com/about",
-"https://junie4colorado.com/blog",
-"https://junie4colorado.com/get-involved",
-"https://junie4colorado.com/issues",
-"https://junie4colorado.com/legislation",
-"https://junie4colorado.com/more",
-"https://junie4colorado.com/picturegallery",
-"https://junie4colorado.com/services-9",
-"https://leg.colorado.gov/bills/HB26-1044",
-"https://leg.colorado.gov/bills/HB26-1109",
-"https://leg.colorado.gov/bills/HB26-1127",
-"https://leg.colorado.gov/bills/HB26-1135",
-"https://leg.colorado.gov/bills/HB26-1139",
-"https://leg.colorado.gov/bills/HB26-1143",
-"https://leg.colorado.gov/bills/HB26-1196",
-"https://leg.colorado.gov/bills/HB26-1244",
-"https://leg.colorado.gov/bills/HB26-1269",
-"https://leg.colorado.gov/bills/HB26-1283",
-"https://leg.colorado.gov/bills/HB26-1288",
-"https://leg.colorado.gov/bills/SB26-050",
-"https://leg.colorado.gov/bills/SB26-109",
-"https://leg.colorado.gov/bills/SB26-132",
-"https://leg.colorado.gov/bills/SB26-142",
-"https://leg.colorado.gov/bills/hb23-1027",
-"https://leg.colorado.gov/bills/hb23-1033",
-"https://leg.colorado.gov/bills/hb23-1120",
-"https://leg.colorado.gov/bills/hb23-1157",
-"https://leg.colorado.gov/bills/hb23-1168",
-"https://leg.colorado.gov/bills/hb23-1280",
-"https://leg.colorado.gov/bills/hb23-1291",
-"https://leg.colorado.gov/bills/hb24-1009",
-"https://leg.colorado.gov/bills/hb24-1031",
-"https://leg.colorado.gov/bills/hb24-1115",
-"https://leg.colorado.gov/bills/hb24-1118",
-"https://leg.colorado.gov/bills/hb24-1142",
-"https://leg.colorado.gov/bills/hb24-1147",
-"https://leg.colorado.gov/bills/hb24-1170",
-"https://leg.colorado.gov/bills/hb24-1240",
-"https://leg.colorado.gov/bills/hb24-1286",
-"https://leg.colorado.gov/bills/hb24-1291",
-"https://leg.colorado.gov/bills/hb24-1449",
-"https://leg.colorado.gov/bills/hb25-1009",
-"https://leg.colorado.gov/bills/hb25-1030",
-"https://leg.colorado.gov/bills/hb25-1117",
-"https://leg.colorado.gov/bills/hb25-1153",
-"https://leg.colorado.gov/bills/hb25-1159",
-"https://leg.colorado.gov/bills/hb25-1175",
-"https://leg.colorado.gov/bills/hb25-1204",
-"https://leg.colorado.gov/bills/hb25-1215",
-"https://leg.colorado.gov/bills/hb25-1234",
-"https://leg.colorado.gov/bills/hb25-1238",
-"https://leg.colorado.gov/bills/hb25-1240",
-"https://leg.colorado.gov/bills/hb25-1292",
-"https://leg.colorado.gov/bills/hb25-1294",
-"https://leg.colorado.gov/bills/sb23-017",
-"https://leg.colorado.gov/bills/sb23-035",
-"https://leg.colorado.gov/bills/sb23-173",
-"https://leg.colorado.gov/bills/sb23-279",
-"https://leg.colorado.gov/bills/sb23-288",
-"https://leg.colorado.gov/bills/sb24-113",
-"https://leg.colorado.gov/bills/sb24-200",
-"https://leg.colorado.gov/bills/sb24-202",
-"https://leg.colorado.gov/bills/sb24-216",
-"https://leg.colorado.gov/bills/sb25-001",
-"https://leg.colorado.gov/bills/sb25-009",
-"https://leg.colorado.gov/bills/sb25-017",
-"https://leg.colorado.gov/bills/sb25-026",
-"https://leg.colorado.gov/bills/sb25-027",
-"https://leg.colorado.gov/bills/sb25-053",
-"https://leg.colorado.gov/bills/sb25-055",
-"https://leg.colorado.gov/bills/sb25-061",
-"https://leg.colorado.gov/bills/sb25-082",
-"https://leg.colorado.gov/bills/sb25-129",
-"https://leg.colorado.gov/bills/sb25-321",
-"https://leg.colorado.gov/legislators/junie-joseph",
-"https://secure.actblue.com/donate/friends-of-junie-joseph-1",
-"https://twitter.com/Junie4Colorado"
+{
+"text": "About Junie",
+"href": "https://www.junie4colorado.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-junie-joseph-1"
+},
+{
+"text": "General Assembly website",
+"href": "https://leg.colorado.gov/legislators/junie-joseph"
+},
+{
+"text": "Get Involved",
+"href": "https://www.junie4colorado.com/get-involved"
+},
+{
+"text": "Gun Show Requirements",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "HB23-1027: Parent And Child Family Time",
+"href": "https://leg.colorado.gov/bills/hb23-1027"
+},
+{
+"text": "HB23-1033:",
+"href": "https://leg.colorado.gov/bills/hb23-1291"
+},
+{
+"text": "HB23-1157: Uniform Unregulated Child Custody Transfer Act",
+"href": "https://leg.colorado.gov/bills/hb23-1157"
+},
+{
+"text": "HB24-1009:",
+"href": "https://leg.colorado.gov/bills/hb23-1168"
+},
+{
+"text": "HB24-1031:",
+"href": "https://leg.colorado.gov/bills/hb23-1291"
+},
+{
+"text": "HB24-1115:",
+"href": "https://leg.colorado.gov/bills/hb23-1120"
+},
+{
+"text": "HB24-1118:",
+"href": "https://leg.colorado.gov/bills/hb23-1120"
+},
+{
+"text": "HB24-1142:",
+"href": "https://leg.colorado.gov/bills/hb23-1120"
+},
+{
+"text": "HB24-1147:",
+"href": "https://leg.colorado.gov/bills/hb23-1120"
+},
+{
+"text": "HB24-1170:",
+"href": "https://leg.colorado.gov/bills/hb23-1291"
+},
+{
+"text": "HB24-1240:",
+"href": "https://leg.colorado.gov/bills/hb23-1120"
+},
+{
+"text": "HB24-1286:",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "HB24-1291:",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "HB24-1449:",
+"href": "https://leg.colorado.gov/bills/hb23-1120"
+},
+{
+"text": "HB25-1009: Vegetative Fuel Mitigation",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "HB25-1030: Accessibility Standards in Building Codes",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "HB25-1117:",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "HB25-1153: Statewide Government Language Access Assessment",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "HB25-1159: Child Support Commission Recommendations",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "HB25-1175: Smart Meter Opt-In Program",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "HB25-1204: Colorado Indian Child Welfare Act",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "HB25-1215: Redistribution of Lottery Fund",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "HB25-1234: Utility Consumer Protection",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "HB25-1238:",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "HB25-1240: Protections for Tenants with Housing Subsidies",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "HB25-1292: Transmission Lines in State Highway Rights-of-Way",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "HB25-1294: Court Costs Assessed to Juveniles",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "HB26-1044: Measures to Improve Black Maternal Health Equity",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "HB26-1109: Sign Language Consumer Protection Study",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "HB26-1127: Reporting After",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "HB26-1135: Transparency of Chemicals Used in Hair Products",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "HB26-1139: Use of Artificial Intelligence in Health Care",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "HB26-1143: Non-Employment Education Opportunities Background Check Information",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "HB26-1196: Tenant Data Information",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "HB26-1244: CDPHE Nursing Home Penalty Fund",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "HB26-1269: Transit Access",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "HB26-1283: Protections Regarding Seizures of Identification Documents",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "HB26-1288: Jury Selection Requirements",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "Home",
+"href": "https://www.junie4colorado.com"
+},
+{
+"text": "JunieForHD10@gmail.com",
+"href": "mailto:JunieforHD10@gmail.com"
+},
+{
+"text": "Legislation",
+"href": "https://www.junie4colorado.com/legislation"
+},
+{
+"text": "Newsroom",
+"href": "https://www.junie4colorado.com/blog"
+},
+{
+"text": "Photo & Video Gallery",
+"href": "https://www.junie4colorado.com/picturegallery"
+},
+{
+"text": "Read More",
+"href": "https://www.junie4colorado.com/more"
+},
+{
+"text": "SB23-017: Additional Uses Paid Sick Leave",
+"href": "https://leg.colorado.gov/bills/sb23-017"
+},
+{
+"text": "SB23-035: Middle-income Housing Authority Act",
+"href": "https://leg.colorado.gov/bills/sb23-035"
+},
+{
+"text": "SB23-173: Colorado Child Support Commission Recommendations",
+"href": "https://leg.colorado.gov/bills/sb23-173"
+},
+{
+"text": "SB23-279: Unserialized Firearms And Firearm Components",
+"href": "https://leg.colorado.gov/bills/sb23-279"
+},
+{
+"text": "SB23-288: Coverage for Doula Services",
+"href": "https://leg.colorado.gov/bills/sb23-288"
+},
+{
+"text": "SB24-113:",
+"href": "https://leg.colorado.gov/bills/hb23-1291"
+},
+{
+"text": "SB24-200:",
+"href": "https://leg.colorado.gov/bills/hb23-1291"
+},
+{
+"text": "SB24-202:",
+"href": "https://leg.colorado.gov/bills/hb23-1291"
+},
+{
+"text": "SB24-216:",
+"href": "https://leg.colorado.gov/bills/hb23-1120"
+},
+{
+"text": "SB25-001: Colorado Voting Rights Act",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "SB25-009: Recognition of Tribal Court Orders",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "SB25-017: Measures to Support Early Childhood Health",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "SB25-026: Adjusting Certain Tax Expenditures",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "SB25-027: Trauma-Informed School Safety Practices",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "SB25-053: Protect Wild Bison",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "SB25-055: Youth Involvement in Environmental Justice",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "SB25-061: Federally Recognized Tribes and Construction of Laws",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "SB25-082: Enactment of CRS 2024",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "SB25-129: Legally Protected Health-Care Activity Protections",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "SB25-321: Motor Vehicle Emissions Inspection Facilities",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "SB26-050: Child Care Center Required Policy Disclosures",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "SB26-109: Building Code Accessibility",
+"href": "https://leg.colorado.gov/bills/hb23-1033"
+},
+{
+"text": "SB26-132: Voluntary Alcohol Breath Test",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "SB26-142: Development of Thermal Energy Resources",
+"href": "https://leg.colorado.gov/bills/hb23-1280"
+},
+{
+"text": "Stances",
+"href": "https://www.junie4colorado.com/issues"
+},
+{
+"text": "Your Community",
+"href": "https://www.junie4colorado.com/services-9"
+},
+{
+"text": "[image: Facebook ]",
+"href": "https://www.facebook.com/junie4boulder"
+},
+{
+"text": "[image: One.A.png]",
+"href": "https://www.junie4colorado.com/"
+},
+{
+"text": "[image: alt.text.label.Twitter]",
+"href": "https://twitter.com/Junie4Colorado"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/HB26-1044"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/HB26-1109"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/HB26-1127"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/HB26-1135"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/HB26-1139"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/HB26-1143"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/HB26-1196"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/HB26-1244"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/HB26-1269"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/HB26-1283"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/HB26-1288"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/SB26-050"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/SB26-109"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/SB26-132"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/SB26-142"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb24-1009"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb24-1031"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb24-1115"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb24-1118"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb24-1142"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb24-1147"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb24-1170"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb24-1240"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb24-1449"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb25-1009"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb25-1030"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb25-1117"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb25-1153"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb25-1159"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb25-1175"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb25-1204"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb25-1215"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb25-1234"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb25-1238"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb25-1240"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb25-1292"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/hb25-1294"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/sb24-113"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/sb24-200"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/sb24-202"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/sb24-216"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/sb25-001"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/sb25-009"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/sb25-017"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/sb25-026"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/sb25-027"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/sb25-053"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/sb25-055"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/sb25-061"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/sb25-082"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/sb25-129"
+},
+{
+"text": "here",
+"href": "https://leg.colorado.gov/bills/sb25-321"
+},
+{
+"text": "here.",
+"href": "https://leg.colorado.gov/bills/hb24-1286"
+},
+{
+"text": "here.",
+"href": "https://leg.colorado.gov/bills/hb24-1291"
+}
 ]

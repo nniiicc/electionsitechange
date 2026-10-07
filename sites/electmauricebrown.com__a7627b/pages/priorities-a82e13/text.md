@@ -1,11 +1,9 @@
-Priorities & Issues
-Before getting into the details, we need to start with my #1 priority which is Equity.
+0 Skip to Content Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Open Menu Close Menu Donate Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Open Menu Close Menu Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Priorities & Issues Before getting into the details, we need to start with my #1 priority which is Equity.
 Equity needs to be included in everything we do, and equity principles must be adhered to with every decision we make.
-We must always work to make sure our policies ensure everyone gets what they need.
+We must always work to make sure our policies ensure everyone gets what they need .
 I believe that the government should work for all of us, not just the well-connected.
-In Albany, I will keep fighting so that all Central New Yorkers have access to affordable housing, feel safe, and have the ability to earn a living wage.
-Affordability:
-Syracuse has become unaffordable for the average family.
+In Albany, I will keep fighting so that all Central New Yorkers have access to affordable housing, feel safe , and have the ability to earn a living wage.
+Affordability: Syracuse has become unaffordable for the average family.
 National Grid bills, Eggs, Childcare are just a few of the everyday expenses that have ballooned over the last decade.
 I will work every day to ensure more money is in the pockets of working families while fighting against corporate greed.
 Lowering utility costs and expanding clean energy access.
@@ -28,19 +26,16 @@ We should not cut Medicaid to pay for housing.
 We should not take from one struggling group just to help another.
 Many families are already having a hard time.
 By asking big corporations and the top 1 percent to pay a little more in taxes, we can fund important programs that help families now and for many years to come.
-Housing:
-Everyone deserves safe, stable, and affordable housing.
+Housing: Everyone deserves safe, stable, and affordable housing.
 New York is in the midst of a deepening housing crisis.
 Rents, evictions, homelessness, housing shortages, and housing prices have reached historic highs.
 We need real solutions that help working families remain in their homes while increasing the supply of truly affordable housing.
 Housing is a Human Right, and I see the consequences of this crisis every day.
 Both a former OCC Student Advisor and now as a County Legislator, I witness how housing instability and decades of disinvestment harm families,.
-The harm is felt by all of us, from students in the classroom, families in our neighborhoods, and everyone across Central New York
-Fighting for affordable housing for all.
+The harm is felt by all of us, from students in the classroom, families in our neighborhoods, and everyone across Central New York Fighting for affordable housing for all.
 In the Assembly, I will champion legislation and budget priorities that strengthen tenant protections, expand access to safe and habitable housing, and support pathways to homeownership for working families.
 I have been a vocal advocate for fully funding right-to-counsel for tenants facing eviction and homeowners facing foreclosure, expanding affordable housing production, and ensuring that state investments prioritize communities facing displacement.
-Public Safety:
-Everyone deserves to feel safe in our community and real public safety starts by investing in Syracuse.
+Public Safety: Everyone deserves to feel safe in our community and real public safety starts by investing in Syracuse.
 We make our community safer by addressing the root causes of crime, not by relying on outdated systems that criminalize poverty, illness, and instability.
 As a County Legislator, I’ve advocated for creating more “third-spaces” where our children can feel safe and welcomed.
 Libraries, after-school programs, youth sports.
@@ -55,8 +50,7 @@ I supported the 2019 bail reform law, and I continue to oppose harmful rollbacks
 No one should sit in jail simply because they don’t have the money to pay bail.
 I will continue fighting for holistic, community-based public safety solutions, these are investments in mental health care, youth opportunities, stable housing, and diversion programs that address the causes of harm before it happens.
 That is how we keep our neighborhoods safe and move toward a justice system rooted in dignity and fairness.
-Transportation:
-Everyone deserves safe, reliable, and affordable transportation.
+Transportation: Everyone deserves safe, reliable, and affordable transportation.
 In Syracuse and across Onondaga County, too many residents are cut off from opportunity because getting to work, school, childcare, or the grocery store is slow, expensive, or unsafe.
 If we are serious about affordability and economic mobility, we must treat transportation as essential infrastructure that connects people to opportunity.
 Transportation is about access and dignity.
@@ -72,8 +66,7 @@ We must explore innovative and flexible mobility options that complement public 
 When paired with stronger transit service, these tools can help residents move efficiently across neighborhoods and throughout the county.
 A modern transportation network reduces costs for families, lowers emissions, strengthens local businesses, and connects people to jobs.
 I will work to ensure that Central New York builds a system that moves all of us forward.
-Education:
-Children of all ages and from every ZIP code deserve access to a safe, equitable, and robust public education.
+Education: Children of all ages and from every ZIP code deserve access to a safe, equitable, and robust public education.
 I firmly believe that prioritizing our children’s future is paramount.
 Expanding Universal Pre-K.
 Universal Pre-K is one of the most effective investments we can make in our children’s futures.
@@ -88,8 +81,7 @@ Making higher education affordable, accessible, and supportive.
 Everyone should have the opportunity to attend a high-quality public college or university, regardless of financial background.
 I will fight ensure college is tuition free.
 In the interim, we have to explore ways to expand financial aid availability, increase mental health resources, and ensure our students have the tools they need to thrive on campus and beyond.
-Enviornmental Justice:
-Everyone deserves clean air, safe water, and a healthy neighborhood.
+Enviornmental Justice: Everyone deserves clean air, safe water, and a healthy neighborhood.
 Yet in Syracuse and across Central New York, environmental burdens are not shared equally.
 Low income communities and communities of color are more likely to live near highways, industrial sites, aging housing stock with lead hazards, and neighborhoods lacking tree cover.
 Environmental justice means correcting those inequities and ensuring that no community is treated as disposable.
@@ -104,8 +96,7 @@ We must also ensure that residents have a meaningful voice in land use decisions
 Environmental justice is not an abstract concept.
 It is about whether a child can drink from the tap safely, whether a senior can breathe clean air, and whether a neighborhood can thrive without being sacrificed for someone else’s convenience.
 I will work to ensure that every community in Central New York is healthy, resilient, and protected.
-Workers’ Rights:
-We must stand in solidarity with workers and the organized labor movement at every opportunity.
+Workers’ Rights: We must stand in solidarity with workers and the organized labor movement at every opportunity.
 The strength of our communities depends on the strength of our workforce!
 Championing workers in the Assembly.
 Representing Syracuse, a proud union town, I will consistently champion legislation and budget priorities that strengthen worker protections, defend collective bargaining rights, and expand access to great-paying union jobs.
@@ -119,31 +110,26 @@ I believe every big project that uses public money should have a Project Labor A
 These agreements make sure workers earn fair wages, have safe job sites, and get good benefits.
 They also create training and apprenticeship opportunities for local workers.
 Project Labor Agreements help strengthen our workforce and make sure public money supports the families and communities who keep Syracuse strong.
-Supporting Veterans
-I’m proud to be a Veteran.
+Supporting Veterans I’m proud to be a Veteran.
 Before serving in elected office, I served in the United States Army Reserve as a Military Police Officer.
 That experience shaped how I think about responsibility, public service, and what government owes the people who answer the call to serve.
 Too often, politicians talk about supporting veterans while leaving people to navigate impossible housing markets, long waits for care, and confusing systems alone.
 Supporting veterans should mean making life easier after service, not thanking people and moving on.
 My approach to supporting veterans is simple: if we ask people to serve, we should make sure they can afford to live, access care, build a future, and remain connected to their communities.
-Housing Stability for Veterans
-I support expanding affordable housing options for veterans and military families.
+Housing Stability for Veterans I support expanding affordable housing options for veterans and military families.
 I also support strengthening tenant protections and preventing unnecessary displacement, my office with work in partnership with Clear Path for Veterans and other groups that connect veterans to supportive housing and wraparound services.
 I think we need to work on increasing investment in housing rehabilitation and homeownership opportunities for Veterans and their families.
-Access to Healthcare and Mental Health Services
-Service does not end when the uniform comes off, and neither should support.
+Access to Healthcare and Mental Health Services Service does not end when the uniform comes off, and neither should support.
 Veterans deserve timely access to healthcare, including mental healthcare and crisis services.
 I support making it easier to navigate benefits systems, strengthening partnerships between providers and veteran-serving organizations, and treating mental health and substance use as healthcare issues.
 No one should have to fight bureaucracy while already carrying the weight of service.
-Government That Works
-Veterans earned their benefits and should not need to become experts in paperwork to access them.
+Government That Works Veterans earned their benefits and should not need to become experts in paperwork to access them.
 I support making public services easier to use, improving coordination between agencies, and ensuring veterans know what opportunities and support already exist.
 Government should meet people where they are and deliver results instead of creating barriers.
 Supporting veterans is not separate from my broader vision for affordability, healthcare, education, and housing.
 Veterans live in every neighborhood and face many of the same challenges as everyone else.
 Building a society that works for working people is one of the best ways we can support those who served.
-Frequently Asked Questions:
-What are Mo Brown’s top priorities in Albany?
+Frequently Asked Questions: What are Mo Brown’s top priorities in Albany?
 Mo Brown’s priorities are centered on affordability, housing, public safety, transportation, education, environmental justice, and workers’ rights.
 His approach is rooted in equity — ensuring that people of all incomes and ZIP codes can thrive in Central New York.
 How does this campaign define affordability?
@@ -153,4 +139,6 @@ Mo believes public safety is about prevention, community investment, accountabil
 His platform emphasizes expanding mental health care, youth programs, and community-based responses rather than simply increasing punishment.
 How does the campaign approach transportation and infrastructure?
 Reliable, safe, and affordable transportation connects people to jobs, school, healthcare, and opportunity.
-Mo will advocate for increased funding for public transit, safer streets, bike and pedestrian infrastructure, and innovative mobility options that complement traditional transit systems.
+Mo will advocate for increased funding for public transit, safer streets, bike and pedestrian infrastructure, and innovative mobility options that complement traditional transit systems. ***Military Images and Information Do Not Imply Endorsement by DoD or Service Branch Maurice Brown is a Veteran and a Homeowner in the University Neighborhood of the City of Syracuse and the Legislator for the 15th district of Onondaga County.
+Priorities Press Clips Fun FAQs Donate About Mo Get Involved Local Voices FAQs Paid for by the People for Mo Brown Phone/Text: 315-313-5717.
+Email: Maurice@ElectMauriceBrown.com Mail: 530 Buckingham Ave Syracuse NY 13210

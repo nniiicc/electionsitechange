@@ -1,9 +1,34 @@
 [
-"https://seyartoforsenate.com/",
-"https://seyartoforsenate.com/about",
-"https://seyartoforsenate.com/accomplishments",
-"https://seyartoforsenate.com/endorsements",
-"https://seyartoforsenate.com/media",
-"https://seyartoforsenate.com/news",
-"https://seyartoforsenate.com/sd32-2"
+{
+"text": "About",
+"href": "https://seyartoforsenate.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://seyartoforsenate.com/accomplishments/"
+},
+{
+"text": "Endorsements",
+"href": "https://seyartoforsenate.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://seyartoforsenate.com/"
+},
+{
+"text": "Media",
+"href": "https://seyartoforsenate.com/media/"
+},
+{
+"text": "News",
+"href": "https://seyartoforsenate.com/news"
+},
+{
+"text": "SD32",
+"href": "https://seyartoforsenate.com/sd32-2/"
+},
+{
+"text": "[no text]",
+"href": "https://seyartoforsenate.com/"
+}
 ]

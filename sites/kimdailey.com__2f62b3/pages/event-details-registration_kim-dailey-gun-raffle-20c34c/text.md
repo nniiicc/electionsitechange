@@ -1,9 +1,4 @@
-top of page
-KIM DAILEY * HOUSE DISTRICT 85 * REPUBLICAN
-ENDORSED BY:
-Kim Dailey Gun Raffle
-Tue, May 05
-|Location is TBD
-We’re excited to announce the Kim Dailey Gun Raffle!
+top of page KIM DAILEY * HOUSE DISTRICT 85 * REPUBLICAN HOME MEET KIM ON THE ISSUES EVENTS UPDATES GET INVOLVED CONTACT MEDIA KIT DONATE ENDORSED BY: Endorsed by: Montanans for Limited Government, Montana Conservative Alliance, Montana Freedom Caucus PAC, and the Americans for Prosperity- Montana Kim Dailey Gun Raffle Tue, May 05 | Location is TBD We’re excited to announce the Kim Dailey Gun Raffle!
 This is your chance to win one of TWO firearms while supporting Kim’s campaign and connecting with your community.
-bottom of page
+Time & Location May 05, 2026, 12:00 PM – 12:05 PM Location is TBD About the event The Prizes Walther PPX 9MM Semi-Auto Pistol Includes: One (15-round) magazine One (16-round) magazine Tickets for Walther: Show More Share this event Join Team Kim: Stay Informed, Stay Involved Email * Name Last name Phone Zip Code Submit Paid for by: Kim Dailey Campaign, P.O.
+Box 193, Florence MT 59833 DONATE HOME MEET KIM ON THE ISSUES EVENTS UPDATES GET INVOLVED CONTACT MEDIA KIT bottom of page

@@ -1,7 +1,6 @@
-20
-Sep
-Wednesday, 10:10 AM · 2017
-Senator Clyde Chambliss receives Legislative Conservationist of the Year Award
+Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact News / Senator Clyde Chambliss receives Legislative Conservationist of the Year Award 20 Sep Wednesday, 10:10 AM · 2017 Senator Clyde Chambliss receives Legislative Conservationist of the Year Award Senator Clyde Chambliss of Prattville was recently awarded the Legislative Conservationist of the Year Award at the 2017 Alabama Wildlife Federation Governor’s Conservation Achievement Awards banquet.
+The Alabama Wildlife Federation (AWF) held the banquet, co-sponsored by Alabama Power Company and PowerSouth Energy on Friday, August 4, 2017 at The Marriott Legends at Capitol Hill in Prattville.
+Governor Kay Ivey provided opening remarks and assisted with presentation of the awards.
 The AWF Governor’s Conservation Achievement Awards (GCAA) are the most respected conservation honors in the state of Alabama.
 Over the past 40 years, AWF has presented these awards to individuals and organizations that make great contributions to the conservation of Alabama’s wildlife and related natural resources.
 Senator Chambliss represents District 30; Autauga, Chilton, Coosa, Elmore, and Tallapoosa counties.
@@ -19,3 +18,5 @@ The program is designed to bring about a greater knowledge and awareness of cons
 The Alabama Wildlife Federation, established by sportsmen in 1935, is the state’s oldest and largest citizens’ conservation organization.
 The mission of the Alabama Wildlife Federation, a 501(c) 3 non-profit group supported by membership dues and donations, is to promote conservation and wise use of Alabama’s wildlife and related natural resources as a basis for economic and social prosperity.
 To learn more about AWF, including membership details, programs and projects, contact Alabama Wildlife Federation at 1-800-822-WILD or visit www.alabamawildlife.org.
+Paid for By Clyde Chambliss Jr.
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

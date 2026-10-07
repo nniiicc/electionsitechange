@@ -1,8 +1,38 @@
 [
-"https://jeffcrankforcongress.com/",
-"https://jeffcrankforcongress.com/contact",
-"https://jeffcrankforcongress.com/privacy-policy",
-"https://jeffcrankforcongress.com/resources",
-"https://jeffcrankforcongress.com/terms-of-service",
-"https://secure.winred.com/jeff-crank-for-congress/donate-today"
+{
+"text": "Contact",
+"href": "https://jeffcrankforcongress.com/contact/"
+},
+{
+"text": "Contact us",
+"href": "https://jeffcrankforcongress.com/contact/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/jeff-crank-for-congress/donate-today"
+},
+{
+"text": "Home",
+"href": "https://jeffcrankforcongress.com/"
+},
+{
+"text": "Privacy policy",
+"href": "https://jeffcrankforcongress.com/privacy-policy/"
+},
+{
+"text": "Resources",
+"href": "https://jeffcrankforcongress.com/resources/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://jeffcrankforcongress.com/terms-of-service/"
+},
+{
+"text": "Terms and Service",
+"href": "https://jeffcrankforcongress.com/terms-of-service/"
+},
+{
+"text": "[image]",
+"href": "https://jeffcrankforcongress.com"
+}
 ]

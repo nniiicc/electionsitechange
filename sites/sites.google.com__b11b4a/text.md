@@ -1,10 +1,2 @@
-DEMOCRAT
-Embedded Files
-"Competency, Determination, and Skills to move all of House District 72 Ahead!"
-TAKING THE OATH OF OFFICE - NOVEMBER 9TH, 2022
-My nieces, LaMiyah, NaMiyah, & Hailee are supporting their uncle on the campaign trail!
-Travis Campaign Final.mp4
-Paid for by The Committee to Elect Curtis Travis HD72
-Page updated
-Google Sites
-Report abuse
+Search this site Embedded Files Skip to main content Skip to navigation CURTIS TRAVIS - ALABAMA HD72 Home BIO PLATFORM DISTRICT MAP FUNDRAISING CURTIS TRAVIS - ALABAMA HD72 DEMOCRAT "Competency, Determination, and Skills to move all of House District 72 Ahead!" TAKING THE OATH OF OFFICE - NOVEMBER 9TH, 2022 My nieces, LaMiyah, NaMiyah, & Hailee are supporting their uncle on the campaign trail!
+Travis Campaign Final.mp4 Twitter Instagram Facebook Paid for by The Committee to Elect Curtis Travis HD72 Google Sites Report abuse Page details Page updated Google Sites Report abuse

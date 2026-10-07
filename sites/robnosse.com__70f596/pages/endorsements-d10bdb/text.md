@@ -1,16 +1,2 @@
-Skip navigation menu
-Endorsements
-Rob Nosse’s supporters in past elections have included:
-- NARAL Pro-Choice Oregon PAC
-- Basic Rights Oregon Equality PAC
-- Oregon Nurses Association
-- Oregon League of Conservation Voters
-- United Food and Commercial Workers Local 555
-- Planned Parenthood Advocates of Oregon
-- Teamsters Joint Council 37
-- Oregon Federation of Nurses And Health professionals
-- Oregon State Building and Construction Trades Council
-- Oregon Retailers of Cannabis Association
-- Service Employees Internation Union Local 49 and 503
-- American Federation of State, County and Municipal Employees Council 75
-- International Brotherhood of Electrical Workers Local 48
+Skip navigation menu About Issues Endorsements Contact Donate Endorsements About Issues Endorsements Contact Donate Endorsements Rob Nosse’s supporters in past elections have included: Ron Wyden , U.S Senator Jeff Merkley , U.S Senator Val Hoyle , Former Oregon Labor Commissioner and current U.S Congresswoman Eddy Morales , Gresham City Council Jessica Vega Pederson , Multnomah County Chair Susheela Jayapal , Former Multnomah County Commissioner Deborah Kafoury , Former Multnomah County Chair Jules Bailey , Former Multnomah County Commissioner and former State Representative for HD 42 Diane Rosenbaum , Former Oregon State Senate Majority Leader NARAL Pro-Choice Oregon PAC Basic Rights Oregon Equality PAC Oregon Nurses Association Oregon League of Conservation Voters United Food and Commercial Workers Local 555 Planned Parenthood Advocates of Oregon Teamsters Joint Council 37 Oregon Federation of Nurses And Health professionals Oregon State Building and Construction Trades Council Oregon Retailers of Cannabis Association Service Employees Internation Union Local 49 and 503 American Federation of State, County and Municipal Employees Council 75 International Brotherhood of Electrical Workers Local 48 House District 42 includes portions of Southeast & Northeast Portland.
+Friends of Rob Nosse - PO Box 42307 - Portland, Oregon 97242 Powered by RUN! website builder PAID FOR BY FRIENDS OF ROB NOSSE (16459) You need to enable JavaScript to run this app.

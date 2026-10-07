@@ -1,13 +1,46 @@
 [
-"https://facebook.com/senheathersomers",
-"https://heathersomers.com/",
-"https://heathersomers.com/2022/08/26/heather-somers-announces-2022-re-election-bid-for-state-senate",
-"https://heathersomers.com/about-heather",
-"https://heathersomers.com/issues",
-"https://heathersomers.com/news",
-"https://heathersomers.com/qubemod/heather",
-"https://heathersomers.com/sms-opt-in",
-"https://secure.anedot.com/somers-for-senate-2026/somerssenate",
-"https://twitter.com/heatherssomers?lang=en",
-"https://youtube.com/user/TheSomersheather"
+{
+"text": "About Heather",
+"href": "https://www.heathersomers.com/about-heather/"
+},
+{
+"text": "August 26, 2022",
+"href": "https://www.heathersomers.com/2022/08/26/heather-somers-announces-2022-re-election-bid-for-state-senate/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/somers-for-senate-2026/somerssenate"
+},
+{
+"text": "Heather Somers",
+"href": "https://www.heathersomers.com/qubemod/heather/"
+},
+{
+"text": "Home",
+"href": "https://www.heathersomers.com/"
+},
+{
+"text": "Issues & Record",
+"href": "https://www.heathersomers.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.heathersomers.com/news/"
+},
+{
+"text": "SMS Opt-In",
+"href": "https://www.heathersomers.com/sms-opt-in/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/heatherssomers?lang=en"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/senheathersomers/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/user/TheSomersheather"
+}
 ]

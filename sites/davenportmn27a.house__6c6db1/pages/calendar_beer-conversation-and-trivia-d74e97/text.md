@@ -1,15 +1,3 @@
-Back to All Events
-Come join SD27 for beer and conversation...and then stay for some trivia!
-Mobilize Sign Up / Facebook Event Page
-📍 Location: Lupulin Brewing
-📅 Date: Tuesday, March 31st
-⏰ Time: 6:00 PM
-Trivia: 7:00 PM
-EVERYONE is welcome.
-Previous
-Previous
-August 16
-SD27 Phone Bank (Virtual)
-Next
-Next
-August 21
+0 Skip to Content Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Back to All Events Beer, Conversation, and Trivia Wednesday, August 19, 2026 6:00 PM 8:00 PM Lupulin Brewing Company 570 Humboldt Drive Big Lake, Minnesota, 55309 United States (map) Google Calendar ICS Come join SD27 for beer and conversation...and then stay for some trivia!
+Mobilize Sign Up / Facebook Event Page 📍 Location: Lupulin Brewing 📅 Date: Tuesday, March 31st ⏰ Time: 6:00 PM Trivia: 7:00 PM EVERYONE is welcome.
+Source: https://www.facebook.com/share/1ExyCmpYrh/ Previous Previous August 16 SD27 Phone Bank (Virtual) Next Next August 21 SD27 Phone Bank (Virtual) Paid for by Davenport for Minnesota House 27A

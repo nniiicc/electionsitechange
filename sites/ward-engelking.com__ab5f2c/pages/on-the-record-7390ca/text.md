@@ -1,7 +1,8 @@
-Quality Public Education: Businesses need a highly skilled workforce and well-funded research and development programs.
+Janie Ward-Engelking Idaho State Senator - District 18 Donate Facebook Twitter A Message From Janie About Janie On The Record Contact Janie / Get Involved!
+Get Janie’s Newsletter On The Record Quality Public Education: Businesses need a highly skilled workforce and well-funded research and development programs.
 Since 2018, I have served on Governor Little’s “Our Kids, Idaho’s Future” Education Task Force, Higher Education Working Group, Early Childhood Grant Application Committee, Idaho Early Childhood Advisory Council, Reopening Schools Digital Divide Committee and Standards Review Committee.
 Though much work has been done there is still much to do to ensure Idaho can recruit and retain highly skilled educators.
-It is important to point out that Idaho is last in the nation in per pupil expenditures.
+It is important to point out that Idaho is last in the nation in per pupil expenditures .
 This is unacceptable.
 Our children and grandchildren are counting on us to do better.
 With hard work and adequate state funding, we can ensure Idaho businesses prosper and our children can stay in Idaho to raise their children.
@@ -17,3 +18,9 @@ Supporting our Military: It is imperative we continue to support our service mem
 Working for Tax Fairness: Our tax policies must be fair and equitable for Idaho families.
 The legislature must also address our rising property taxes.
 Health Care: We need a health care plan that will provide quality care at an affordable price for all Idahoans.
+VOTING INFORMATION Voting by mail will be the easiest and safest way to vote this year.
+Request your mail-in ballot.
+Not sure if you're registered to vote?
+Check your registration status.
+Register to vote.
+2020-2022 Committee Assignments - Joint Finance-Appropriations Committee - Commerce and Human Resources Committee - Education Committee -“Our Kids, Idaho’s Future” Education Task Force - Governor’s Higher Education Task Force - Ad Hoc Joint Advisory Committee on Technology - Change in Employee Compensation - Idaho Commission on Hispanic Affairs - Idaho Food Quality Assurance Laboratory - Idaho Technology Authority - Joint Millennium Fund Committee - Public School Funding Formula Interim Committee - Broadband Access Study - Idaho Early Learning Advisory Council - Reopening Digital Divide Committee - Idaho State Standards Review Committee Copyright © # Paid for by Ward-Engelking for Senate | Treasurer Dave Spurgeon | 208.385.9564 | 3578 South Crosspoint | Boise ID, 83706 | janie@ward-engelking.com

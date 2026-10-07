@@ -1,5 +1,4 @@
-National Security
-As Chairman of the Oversight Subcommittee on National Security, Stephen Lynch is tackling some of the biggest national security issues our nation has faced.
+Meet Stephen Our Priorities News & Updates Join the Team Donate Select Page National Security As Chairman of the Oversight Subcommittee on National Security, Stephen Lynch is tackling some of the biggest national security issues our nation has faced.
 With American troops still engaged in active operations in Iraq, Afghanistan, Mali and Somalia, Stephen is keeping a close eye on every aspect, conducting oversight hearings on our military and reconstruction operations, and the continued peace talks.
 His oversight work has brought him to Iraq and Afghanistan 28 times to meet with our troops, military and civil leaders to discuss the situation on the ground and perform oversight duties.
 With a strong sense that the American people have a right to know what the plan and progress is pertaining to the war and the reconstruction of Afghanistan, Stephen has introduced legislation requiring that previously public quarterly reports on our progress be once again declassified so we all know the true facts about what is going on on the ground.
@@ -15,43 +14,24 @@ In direct response to the COVID-19 pandemic, Stephen has focused on the need to 
 He authored and introduced legislation – the Strategic National Stockpile Enhancement and Transparency Act – that would improve federal response by creating a national biodefense stockpile network with real time inventory to ensure health care professionals and first responders have the personal protective equipment and the critical supplies to treat the public.
 Stephen is focused on ensuring that the almost immediate critical shortages we faced do not happen again.
 As your Congressman, Stephen will continue to ensure Congress is focused on our nation’s security, preparedness and commitment to our troops.
-Congressman Lynch questions U.S. gains in Iran conflict
-Updated: 5:37 PM EDT Apr 10, 2026 Sharman Sacchetti Political Reporter and Co-Host of WCVB’s “On The Record” NEEDHAM, Mass. — Massachusetts Democratic Congressman Stephen Lynch questioned the United States' gains from its involvement in the Iran conflict during an...
-Boston protesters condemn U.S. attack in Iran as Rep.
-Lynch criticizes president’s decision
-By Logan Hall WBZ NEWS Updated on: June 23, 2025 / 7:49 AM EDT / CBS Boston A crowd of approximately 500 demonstrators took to the streets of downtown Boston Sunday to protest recent U.S. military strikes against Iran, while Gov.
-Maura Healey was briefed by...
-US representatives, union workers warn ‘critical’ Boston Ship Repair vanishing without investment, work
-Rep.
-Stephen Lynch and others called for support of the US’s shipbuilding and repair assets By GRACE ZOKOVITCH | gzokovitch@bostonherald.com UPDATED: June 17, 2025 at 7:43 PM EDT U.S. representatives and Boston Ship Repair workers gathered at one...
-Rep.
-Lynch blasts Trump as ‘wannabe gangster’ in immigration hearing
-Rep.
+Congressman Lynch questions U.S. gains in Iran conflict Apr 10, 2026 | 8th Congressional District , National Security , News & Updates Updated: 5:37 PM EDT Apr 10, 2026 Sharman Sacchetti Political Reporter and Co-Host of WCVB’s “On The Record” NEEDHAM, Mass. — Massachusetts Democratic Congressman Stephen Lynch questioned the United States' gains from its involvement in the Iran conflict during an... read more Boston protesters condemn U.S. attack in Iran as Rep.
+Lynch criticizes president’s decision Jun 24, 2025 | National Security , News & Updates , Uncategorized By Logan Hall WBZ NEWS Updated on: June 23, 2025 / 7:49 AM EDT / CBS Boston A crowd of approximately 500 demonstrators took to the streets of downtown Boston Sunday to protest recent U.S. military strikes against Iran, while Gov.
+Maura Healey was briefed by... read more US representatives, union workers warn ‘critical’ Boston Ship Repair vanishing without investment, work Jun 18, 2025 | 8th Congressional District , Essential Infrastructure , Jobs & Economic Opportunity , National Security , News & Updates Rep.
+Stephen Lynch and others called for support of the US’s shipbuilding and repair assets By GRACE ZOKOVITCH | gzokovitch@bostonherald.com UPDATED: June 17, 2025 at 7:43 PM EDT U.S. representatives and Boston Ship Repair workers gathered at one... read more Rep.
+Lynch blasts Trump as ‘wannabe gangster’ in immigration hearing Jun 13, 2025 | National Security , News & Updates Rep.
 Stephen Lynch, D-Mass., delivered his remarks at a hearing conducted by the House Oversight Committee.
-June 12, 2025 Watch the full video here: https://abcnews.go.com/Politics/video/rep-lynch-blasts-trump-wannabe-gangster-immigration-hearing-122776768
-OTR: Mass.
+June 12, 2025 Watch the full video here: https://abcnews.go.com/Politics/video/rep-lynch-blasts-trump-wannabe-gangster-immigration-hearing-122776768 read more OTR: Mass.
 Rep.
-Stephen Lynch on immigration
-Congressman Lynch sat with Ed Harding and Sharman Sacchetti to discuss the issues effecting our district.
-Watch the OTR interview here: https://www.wcvb.com/article/otr-mass-rep-stephen-lynch-on-immigration/60628614
-Massachusetts congressman calls for aid to Ukraine during Boston rally
-WCVB Boston Channel 5 • Updated: 6:30 PM EST Feb 24, 2024 BOSTON — A Massachusetts congressman is calling for the United States to send aid to Ukraine, as two years have passed since Russia invaded its neighbor in Eastern Europe.
+Stephen Lynch on immigration May 15, 2024 | 8th Congressional District , National Security , News & Updates Congressman Lynch sat with Ed Harding and Sharman Sacchetti to discuss the issues effecting our district.
+Watch the OTR interview here: https://www.wcvb.com/article/otr-mass-rep-stephen-lynch-on-immigration/60628614 read more Massachusetts congressman calls for aid to Ukraine during Boston rally Feb 24, 2024 | 8th Congressional District , National Security , News & Updates WCVB Boston Channel 5 • Updated: 6:30 PM EST Feb 24, 2024 BOSTON — A Massachusetts congressman is calling for the United States to send aid to Ukraine, as two years have passed since Russia invaded its neighbor in Eastern Europe.
 U.S.
 Rep.
-Stephen Lynch was among the...
-Keller@Large: Congressman Lynch discusses Ukraine aid
-BOSTON – Congressional leaders left Washington for the weekend without an agreement that would continue aid to Ukraine, though discussions are expected to continue.
-President Biden and Ukrainian President Volodymyr Zelenskyy met with lawmakers Tuesday,...
-Rep.
-Stephen Lynch on trip to Ukraine, how US should respond to Israel-Hamas war
-WGBH Jeremy Siegel November 03, 2023 A more than $14 billion aid bill that provides military support for Israel, but not Ukraine, is now headed to the U.S.
+Stephen Lynch was among the... read more Keller@Large: Congressman Lynch discusses Ukraine aid Dec 20, 2023 | National Security , News & Updates BOSTON – Congressional leaders left Washington for the weekend without an agreement that would continue aid to Ukraine, though discussions are expected to continue.
+President Biden and Ukrainian President Volodymyr Zelenskyy met with lawmakers Tuesday,... read more Rep.
+Stephen Lynch on trip to Ukraine, how US should respond to Israel-Hamas war Nov 4, 2023 | National Security , News & Updates WGBH Jeremy Siegel November 03, 2023 A more than $14 billion aid bill that provides military support for Israel, but not Ukraine, is now headed to the U.S.
 Senate.
-The GOP-led House passed the measure yesterday along party lines, despite the objection of Democrats....
-OTR: Is there path to peace in Ukraine?
-Massachusetts congressman weighs in
-WCVB-TV BOSTON-OTR: Is there path to peace in Ukraine?
-Massachusetts congressman weighs in Click here to watch interview.
-Rep.
-Stephen Lynch: Influence of NRA preventing gun control legislation
-WBZ-TV BOSTON – Following the deadly shooting at Robb Elementary School in Uvalde, Texas this week, many around the country are calling for federal lawmakers to pass gun control legislation.
-There have been similar calls for action in the past after tragedies....
+The GOP-led House passed the measure yesterday along party lines, despite the objection of Democrats.... read more OTR: Is there path to peace in Ukraine?
+Massachusetts congressman weighs in Aug 21, 2022 | National Security , News & Updates WCVB-TV BOSTON-OTR: Is there path to peace in Ukraine?
+Massachusetts congressman weighs in Click here to watch interview. read more Rep.
+Stephen Lynch: Influence of NRA preventing gun control legislation May 29, 2022 | 8th Congressional District , National Security , News & Updates WBZ-TV BOSTON – Following the deadly shooting at Robb Elementary School in Uvalde, Texas this week, many around the country are calling for federal lawmakers to pass gun control legislation.
+There have been similar calls for action in the past after tragedies.... read more « Older Entries Read about additional priorities get email updates from stephen Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow

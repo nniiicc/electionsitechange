@@ -1,5 +1,6 @@
-Contribution rules
-- I am a U.S. citizen or lawfully admitted permanent resident (i.e., green card holder).
-- This contribution is made from my own funds, and funds are not being provided to me by another person or entity for the purpose of making this contribution.
-- I am making this contribution with my own personal credit card and not with a corporate or business credit card or a card issued to another person.
-- I am at least eighteen years old.
+Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources Donate Contribution rules I am a U.S. citizen or lawfully admitted permanent resident (i.e., green card holder).
+This contribution is made from my own funds, and funds are not being provided to me by another person or entity for the purpose of making this contribution.
+I am making this contribution with my own personal credit card and not with a corporate or business credit card or a card issued to another person.
+I am at least eighteen years old.
+Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

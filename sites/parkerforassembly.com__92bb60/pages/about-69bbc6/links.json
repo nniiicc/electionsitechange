@@ -1,9 +1,34 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://parkerforassembly.com/",
-"https://parkerforassembly.com/4th-quarter-feast",
-"https://parkerforassembly.com/about",
-"https://parkerforassembly.com/contribute",
-"https://parkerforassembly.com/lawn-signs",
-"https://parkerforassembly.com/volunteer"
+{
+"text": "4th Quarter Feast",
+"href": "https://parkerforassembly.com/4th-quarter-feast"
+},
+{
+"text": "About",
+"href": "https://parkerforassembly.com/about"
+},
+{
+"text": "Contribute",
+"href": "https://parkerforassembly.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://parkerforassembly.com/"
+},
+{
+"text": "Lawn Signs",
+"href": "https://parkerforassembly.com/lawn-signs"
+},
+{
+"text": "Volunteer",
+"href": "https://parkerforassembly.com/volunteer"
+},
+{
+"text": "[image: Parker for Assembly]",
+"href": "https://parkerforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

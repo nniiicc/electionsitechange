@@ -1,8 +1,26 @@
 [
-"https://aaron4az.com/",
-"https://aaron4az.com/about-aaron",
-"https://aaron4az.com/cart",
-"https://aaron4az.com/contact",
-"https://aaron4az.com/volunteer",
-"https://secure.actblue.com/donate/aaron-lieberman-1"
+{
+"text": "0",
+"href": "https://www.aaron4az.com/cart"
+},
+{
+"text": "About Aaron",
+"href": "https://www.aaron4az.com/about-aaron"
+},
+{
+"text": "Contact",
+"href": "https://www.aaron4az.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/aaron-lieberman-1"
+},
+{
+"text": "Learn More",
+"href": "https://www.aaron4az.com/volunteer"
+},
+{
+"text": "[image: Aaron4AZ]",
+"href": "https://www.aaron4az.com/"
+}
 ]

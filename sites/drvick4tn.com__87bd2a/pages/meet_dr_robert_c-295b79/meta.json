@@ -1,7 +1,14 @@
 {
  "description": "Dr. Robert C. Vick, candidate for Governor",
  "final_url": "https://drvick4tn.com/meet_dr_robert_c",
- "paid_for_by": null,
+ "fingerprint": "da963c2860c44647ebcba67378990d94abb287fd",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet Dr. Robet C. Vick",
- "years_mentioned": []
+ "years_mentioned": [
+  "1986",
+  "1996",
+  "1997",
+  "2004"
+ ]
 }

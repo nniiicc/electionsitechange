@@ -1,9 +1,14 @@
 {
  "description": "Some information on Sean Lynn. Sean Lynn is running on the Democratic ticket to represent 31st District of Delaware.",
  "final_url": "https://winwithlynn.org/about_sean.html",
- "paid_for_by": null,
+ "fingerprint": "f4caa974a1962179229497c2d1f610239138e9e0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Sean - Sean Lynn for 31st Representative",
  "years_mentioned": [
-  "2011"
+  "2005",
+  "2006",
+  "2011",
+  "2018"
  ]
 }

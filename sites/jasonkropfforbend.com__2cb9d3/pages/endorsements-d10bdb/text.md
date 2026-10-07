@@ -1,66 +1,9 @@
-leaders across bend support Jason kropf
-ORGANIZATIONS
-Oregon State Fire Fighters Council
-North Coast States Carpenters Union
-Laborers’ International Union of North America (LiUNA)
-Oregon Labor Federation, Oregon AFL-CIO
-Oregon League of Conservation Voters
-Oregon Nurses Association
-Oregon State Building & Construction Trades Council
-SEIU Local 503
-Alliance for Gun Safety
-Stand for Children
-Leaders
-U.S.
-Senator Jeff Merkley
-U.S.
-Senator Ron Wyden
-Attorney General Dan Rayfield
-State Senator Anthony Broadman
-Melanie Kebler, Mayor of Bend
-Phil Chang, County Commissioner
-Natasha Bellis,
-Water Conservation Professional
-Sally Brown, Physician’s Assistant
-Barb Campbell, Bend City Council
-Jim Clinton, COCC Board /
-Former Mayor of Bend
-James Cook, Advocate for
-People Experiencing Homelessness
-Mike Dugan, Former Deschutes Co.
-District Attorney
-Sarah Durfee, Teacher
-Kate Fitzpatrick,
-Water Conservation Professional
-David Giessler, Registered Nurse CNOR
-Jen Goodman, Teacher
-Frank Heimerdinger, Teacher
-Nathan Hovekamp,
-Bend Park and Recreation Board /
-Former Bend-La Pine School Board
-Azure Karli, Bend Naturopathic Clinic
-Ryan Kelling, School Administrator
-Lauren Kelling, Oregon Body and Bath
-Matt Killebrew, Teacher
-Callie Killebrew, Founder,
-Bend Immigration Group
-Mark Lehner, Fisheries Biologist
-Van McIver, former Naval Aviator
-Ariel Méndez,
-Bend City Councilor
-Gavin Meyers, Teacher
-Travis Overley, Teacher
-Mathias Perle, Hydrologist
-Eric Power, Owner, Bend Velo
-Sarah Prudhomme, Teacher
-Dean Prudhomme, Teacher
-Steven Remer, Teacher
-Deb Schoen,
-Bend Park and Recreation Board
-Erica Skatvold, COCC Board
-Caroline Skidmore, Bend-La Pine School Board
-Judy Steigler,
-Former State Representative
-Hannah Steiner, Registered Nurse
-Mary Thomas, School Administrator
-James Williams, Teacher
+0 Skip to Content Meet Jason Endorsements Join Us Donate Open Menu Close Menu Meet Jason Endorsements Join Us Donate Open Menu Close Menu Meet Jason Endorsements Join Us Donate leaders across bend support Jason kropf “ Jason is a trusted advocate for youth and their families in our community.
+I know Jason will fight for every student to have a bright future by removing barriers and ensuring access to the opportunities provided by high-quality education. ” — Rev.
+Shimiko Montgomery, Bend-La Pine School Board Member “ I’m proud to support Jason Kropf for State Representative.
+Jason has spent his entire career in public service, making Oregon a more safe and just place.
+I know that Bend families can count on Jason to stand up and do the right thing. ” — John Hummel, Deschutes County District Attorney “ Jason knows that Bend’s natural environment and clean water are key to our quality of life here in Central Oregon.
+I trust him to take the climate crisis seriously and act on it, so we can protect our earth for generations to come. ” — Kate Fitzpatrick, Water Conservation and River Restoration Professional “ As a small business owner, I’m supporting Jason because we need a leader who will fight to grow our economy by investing in small businesses and creating local jobs right here in Bend. ” — Eric Power, Owner, Bend Velo ORGANIZATIONS Oregon State Fire Fighters Council North Coast States Carpenters Union Laborers’ International Union of North America (LiUNA) Oregon Labor Federation, Oregon AFL-CIO Oregon League of Conservation Voters Oregon Nurses Association Oregon State Building & Construction Trades Council SEIU Local 503 Alliance for Gun Safety Stand for Children Leaders U.S.
+Senator Jeff Merkley U.S.
+Senator Ron Wyden Attorney General Dan Rayfield State Senator Anthony Broadman Melanie Kebler, Mayor of Bend Phil Chang, County Commissioner Natasha Bellis, Water Conservation Professional Sally Brown, Physician’s Assistant Barb Campbell, Bend City Council Jim Clinton, COCC Board / Former Mayor of Bend James Cook, Advocate for People Experiencing Homelessness Mike Dugan, Former Deschutes Co.
+District Attorney Sarah Durfee, Teacher Kate Fitzpatrick, Water Conservation Professional David Giessler, Registered Nurse CNOR Jen Goodman, Teacher Frank Heimerdinger, Teacher Nathan Hovekamp, Bend Park and Recreation Board / Former Bend-La Pine School Board Azure Karli, Bend Naturopathic Clinic Ryan Kelling, School Administrator Lauren Kelling, Oregon Body and Bath Matt Killebrew, Teacher Callie Killebrew, Founder, Bend Immigration Group Mark Lehner, Fisheries Biologist Van McIver, former Naval Aviator Ariel Méndez, Bend City Councilor Gavin Meyers, Teacher Travis Overley, Teacher Mathias Perle, Hydrologist Eric Power, Owner, Bend Velo Sarah Prudhomme, Teacher Dean Prudhomme, Teacher Steven Remer, Teacher Deb Schoen, Bend Park and Recreation Board Erica Skatvold, COCC Board Caroline Skidmore, Bend-La Pine School Board Judy Steigler, Former State Representative Hannah Steiner, Registered Nurse Mary Thomas, School Administrator James Williams, Teacher ‍ ‍ Paid for by Jason for Bend PAC (18661) 3321 SE 20th Ave, Portland OR 97202 503 805 4381

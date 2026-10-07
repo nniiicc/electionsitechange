@@ -1,15 +1,98 @@
 [
-"https://bsky.app/profile/jamieforlouisiana.bsky.social",
-"https://facebook.com/jamieforlouisiana",
-"https://instagram.com/jamieforlouisiana",
-"https://jamieforlouisiana.com/",
-"https://jamieforlouisiana.com/issues",
-"https://jamieforlouisiana.com/privacy",
-"https://jamieforlouisiana.com/terms",
-"https://mobilize.us/jamieforlouisiana",
-"https://secure.actblue.com/donate/sendafarmertowashington?amount=25&recurring=true",
-"https://secure.actblue.com/donate/sendafarmertowashington?recurring=true",
-"https://store.jamieforlouisiana.com/",
-"https://threads.com/@jamieforlouisiana",
-"https://tiktok.com/@jamieforlouisiana"
+{
+"text": "64 Parishes",
+"href": "https://jamieforlouisiana.com/#map"
+},
+{
+"text": "Campaign Store",
+"href": "https://store.jamieforlouisiana.com/"
+},
+{
+"text": "Chip In $25 →",
+"href": "https://secure.actblue.com/donate/sendafarmertowashington?amount=25&recurring=true"
+},
+{
+"text": "Chip In $25 →",
+"href": "https://secure.actblue.com/donate/sendafarmertowashington?recurring=true"
+},
+{
+"text": "Chip In →",
+"href": "https://secure.actblue.com/donate/sendafarmertowashington?recurring=true"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/jamieforlouisiana/"
+},
+{
+"text": "Get Involved",
+"href": "https://jamieforlouisiana.com/#join"
+},
+{
+"text": "Issues",
+"href": "https://jamieforlouisiana.com/issues"
+},
+{
+"text": "On the Trail",
+"href": "https://jamieforlouisiana.com/#trail"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jamieforlouisiana.com/privacy"
+},
+{
+"text": "Store",
+"href": "https://store.jamieforlouisiana.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://jamieforlouisiana.com/terms"
+},
+{
+"text": "The 5 Big Issues",
+"href": "https://jamieforlouisiana.com/issues"
+},
+{
+"text": "The Choice",
+"href": "https://jamieforlouisiana.com/#choice"
+},
+{
+"text": "The Letter",
+"href": "https://jamieforlouisiana.com/#letter"
+},
+{
+"text": "Vote",
+"href": "https://jamieforlouisiana.com/#vote"
+},
+{
+"text": "Where to Vote",
+"href": "https://jamieforlouisiana.com/#vote"
+},
+{
+"text": "[image: Jamie Davis for U.S. Senate]",
+"href": "https://jamieforlouisiana.com/"
+},
+{
+"text": "[tooltip: Bluesky]",
+"href": "https://bsky.app/profile/jamieforlouisiana.bsky.social"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/jamieforlouisiana"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/jamieforlouisiana"
+},
+{
+"text": "[tooltip: Threads]",
+"href": "https://www.threads.com/@jamieforlouisiana"
+},
+{
+"text": "[tooltip: TikTok]",
+"href": "https://www.tiktok.com/@jamieforlouisiana"
+},
+{
+"text": "info@jamieforlouisiana.com",
+"href": "mailto:info@jamieforlouisiana.com"
+}
 ]

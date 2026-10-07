@@ -1,4 +1,4 @@
-A Fighter for District 78.
+0 Skip to Content English Donate Open Menu Close Menu English Donate Open Menu Close Menu English Back Donate A Fighter for District 78.
 Meet Matt.
 I have dedicated my adult life to public service – both in and out of uniform.
 For eight years, I served as an Army Reserve paralegal, working on missions ranging from will preparation for deploying Soldiers to national security law matters at the Pentagon.
@@ -14,3 +14,5 @@ I’ve served drinks, I’ve served my country, and now I’m ready to serve the
 Matt Borja is a U.S.
 Army veteran.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or Department of Defense.
+I’m running for NC House District 78 because our community deserves a representative who works just as hard for our community as those who work everyday to make ends meet.
+Matt Borja for State House Paid for by Matt Borja for NC

@@ -1,5 +1,4 @@
-Advancing Equality & Opportunity
-While our country is based on the values of liberty and justice for all, the fact is systemic racism, discrimination and injustice remain a part of our reality.
+Meet Stephen Our Priorities News & Updates Join the Team Donate Select Page Advancing Equality & Opportunity While our country is based on the values of liberty and justice for all, the fact is systemic racism, discrimination and injustice remain a part of our reality.
 Stephen believes that every American is entitled to the fundamental rights of equality and that we must fight to eliminate discrimination in every form.
 As a Member of the Committee on Oversight Reform, Stephen is working to reform our criminal justice system and address racial disparities across government services like healthcare, housing, education, employment, and other areas.
 Joining constituents throughout the 8th District, he has stood with residents to fight against racism.
@@ -11,41 +10,22 @@ He has also been a co-signer on the amicus brief submitted to the Supreme Court 
 Constitution and civil rights laws include protections for citizens against discrimination based on gender identity or sexual orientation.
 In recognition of his efforts for equality, he has received the endorsement of the Human Rights Campaign.
 Stephen has stood up in Congress to fight for gender equity, supporting legislation to address sexual harrassment and discrimination, to ensure equal pay for equal work, to improve paid family and medical leave and stregthen laws to combat viloence against women.
-Stephen supports the Equal Rights Amendment and proudly fought for the Lilly Ledbetter Fair Pay Act and co-sponsored the Paycheck Fairness Act, which further addressed income disparities between men and women.
+Stephen supports the Equal Rights Amendment and proudly fought for the Lilly Ledbetter Fair Pay Act and co-sponsored the Paycheck Fairness Act , which further addressed income disparities between men and women.
 When Republicans tried to defund women’s health organizations, like Planned Parenthood, Stephen stood on the floor of the House of Representatives to fight the legislation.
 As your Congressman, Stephen will continue be a strong voice against discrimination and for equal rights for all.
 Rep.
-Lynch Announces Child Tax Credits to Help Over 70% of Children in MA-08 and Will Be Distributed to Families Next Month
-Boston, MA – U.S.
+Lynch Announces Child Tax Credits to Help Over 70% of Children in MA-08 and Will Be Distributed to Families Next Month Jun 28, 2021 | 8th Congressional District , Advancing Equality , Financial Security , News & Updates Boston, MA – U.S.
 Representative Stephen F.
-Lynch (MA-08), announced that the Child Tax Credit will begin monthly payments to eligible families starting mid-July, benefiting 110,100 children living in the 8th Congressional District of Massachusetts....
-Massachusetts politicians react to guilty verdict in Derek Chauvin trial
-WCVB-TV BOSTON —Elected officials in Massachusetts are reacting to the news that former Minneapolis police Officer Derek Chauvin has been convicted of murder and manslaughter in the death of George Floyd.
-The explosive case that triggered worldwide protests, violence...
-Asian Americans share experiences of hate, local officials vow solidarity at Quincy rally
-By Valeria Vazquez, Patriot Ledger QUINCY — Sharon Mann, a Quincy resident and nurse, says she has already been accosted twice this year because she's Asian.
+Lynch (MA-08), announced that the Child Tax Credit will begin monthly payments to eligible families starting mid-July, benefiting 110,100 children living in the 8th Congressional District of Massachusetts.... read more Massachusetts politicians react to guilty verdict in Derek Chauvin trial Apr 20, 2021 | Advancing Equality , News & Updates WCVB-TV BOSTON —Elected officials in Massachusetts are reacting to the news that former Minneapolis police Officer Derek Chauvin has been convicted of murder and manslaughter in the death of George Floyd.
+The explosive case that triggered worldwide protests, violence... read more Asian Americans share experiences of hate, local officials vow solidarity at Quincy rally Apr 10, 2021 | 8th Congressional District , Advancing Equality , National Security , News & Updates By Valeria Vazquez, Patriot Ledger QUINCY — Sharon Mann, a Quincy resident and nurse, says she has already been accosted twice this year because she's Asian.
 Once in New York on a family trip and again in Boston's Chinatown when she was picking up food.
-While in...
-Trump’s envoy grilled by lawmakers over women’s rights in Afghanistan
-NBC News By Dan De Luce and Abigail Williams President Donald Trump’s envoy to Afghanistan faced tough questioning on Tuesday by Democratic lawmakers who accused the administration of jeopardizing the rights of Afghan women in pursuit of a peace deal.
-The grilling of...
-Chairman Lynch And Subcommittee Press For Inclusion Of Women In National Security Policymaking
-Washington, D.C. — Today, U.S.
+While in... read more Trump’s envoy grilled by lawmakers over women’s rights in Afghanistan Sep 22, 2020 | Advancing Equality , News & Updates NBC News By Dan De Luce and Abigail Williams President Donald Trump’s envoy to Afghanistan faced tough questioning on Tuesday by Democratic lawmakers who accused the administration of jeopardizing the rights of Afghan women in pursuit of a peace deal.
+The grilling of... read more Chairman Lynch And Subcommittee Press For Inclusion Of Women In National Security Policymaking Sep 10, 2020 | 8th Congressional District , Advancing Equality , National Security , News & Updates Washington, D.C. — Today, U.S.
 Representative Stephen F.
-Lynch, Chairman of the Subcommittee on National Security, held a hybrid hearing to examine the Trump Administration’s implementation of the United States Strategy on Women, Peace, and Security (WPS Strategy)....
-Editorial: Congress must protect mail-in voting, even if it means going to court
-Concern over the US Postal Service comes as Trump has railed against absentee voting by mail for months, calling it “fraudulent,” and even drawing a fact-checking rebuke from Twitter for making the false claim.
-Boston Globe By The Editorial Board It seems...
-Tribute honors civil rights leader John Lewis at Brockton City Hall
-Brockton Enterprise August 1, 2020 Click here to view photos
-Chairman Lynch And Subcommittee Press For Inclusion Of Women In National Security Policymaking
-Today, U.S.
+Lynch, Chairman of the Subcommittee on National Security, held a hybrid hearing to examine the Trump Administration’s implementation of the United States Strategy on Women, Peace, and Security (WPS Strategy).... read more Editorial: Congress must protect mail-in voting, even if it means going to court Aug 6, 2020 | 8th Congressional District , Advancing Equality , COVID-19 , News & Updates , Protecting the Post Office Concern over the US Postal Service comes as Trump has railed against absentee voting by mail for months, calling it “fraudulent,” and even drawing a fact-checking rebuke from Twitter for making the false claim.
+Boston Globe By The Editorial Board It seems... read more Tribute honors civil rights leader John Lewis at Brockton City Hall Aug 1, 2020 | 8th Congressional District , Advancing Equality , News & Updates Brockton Enterprise August 1, 2020 Click here to view photos read more Chairman Lynch And Subcommittee Press For Inclusion Of Women In National Security Policymaking Jul 23, 2020 | Advancing Equality , National Security , News & Updates Today, U.S.
 Representative Stephen F.
 Lynch, Chairman of the Subcommittee on National Security, held a hybrid hearing to examine the Trump Administration’s implementation of the United States Strategy on Women, Peace, and Security (WPS Strategy).
-“The consequences for...
-Human Rights Campaign Endorses Massachusetts Champions of Equality
-Human Rights Campaign Press Release By Lucas Acosta Today, the Human Rights Campaign (HRC), the nation’s largest lesbian, gay, bisexual, transgender and queer (LGBTQ) civil rights organization announced a series of endorsements of U.S.
+“The consequences for... read more Human Rights Campaign Endorses Massachusetts Champions of Equality Jul 9, 2020 | Advancing Equality , News & Updates Human Rights Campaign Press Release By Lucas Acosta Today, the Human Rights Campaign (HRC), the nation’s largest lesbian, gay, bisexual, transgender and queer (LGBTQ) civil rights organization announced a series of endorsements of U.S.
 Reps.
-Katherine...
-Black Lives Matter Rally & Vigil at Memorial Field in Abington
-Brockton Enterprise Click here to view photos https://www.enterprisenews.com/photogallery/WL/20200629/NEWS/628009986/PH/1
+Katherine... read more Black Lives Matter Rally & Vigil at Memorial Field in Abington Jun 29, 2020 | 8th Congressional District , Advancing Equality , News & Updates Brockton Enterprise Click here to view photos https://www.enterprisenews.com/photogallery/WL/20200629/NEWS/628009986/PH/1 read more « Older Entries Read about additional priorities get email updates from stephen Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow

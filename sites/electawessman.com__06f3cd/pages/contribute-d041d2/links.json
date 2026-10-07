@@ -1,7 +1,30 @@
 [
-"https://electawessman.com/",
-"https://electawessman.com/contribute",
-"https://electawessman.com/principles-and-policy",
-"https://generatepress.com/",
-"https://secure.anedot.com/friends-of-alan-wessman/donate"
+{
+"text": "Contribute",
+"href": "https://electawessman.com/contribute/"
+},
+{
+"text": "GeneratePress",
+"href": "https://generatepress.com"
+},
+{
+"text": "Principles and Policy",
+"href": "https://electawessman.com/principles-and-policy/"
+},
+{
+"text": "Vote for Alan",
+"href": "https://electawessman.com/"
+},
+{
+"text": "[image: Alan Wessman – Utah House 64]",
+"href": "https://electawessman.com/"
+},
+{
+"text": "alan@electawessman.com",
+"href": "mailto:alan@electawessman.com"
+},
+{
+"text": "https://secure.anedot.com/friends-of-alan-wessman/donate",
+"href": "https://secure.anedot.com/friends-of-alan-wessman/donate"
+}
 ]

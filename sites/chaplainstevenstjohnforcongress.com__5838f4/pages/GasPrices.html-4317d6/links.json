@@ -1,7 +1,30 @@
 [
-"https://chaplainstevenstjohnforcongress.com/HealthcareForum.html",
-"https://chaplainstevenstjohnforcongress.com/News Articles/New version.html",
-"https://chaplainstevenstjohnforcongress.com/Why.html",
-"https://chaplainstevenstjohnforcongress.com/index.html",
-"https://chaplainstevenstjohnforcongress.com/whatcanbedone.html"
+{
+"text": "Healthcare Forum",
+"href": "https://chaplainstevenstjohnforcongress.com/HealthcareForum.html"
+},
+{
+"text": "Home",
+"href": "https://chaplainstevenstjohnforcongress.com/index.html"
+},
+{
+"text": "Interviews",
+"href": "https://chaplainstevenstjohnforcongress.com/News%20Articles/New%20version.html"
+},
+{
+"text": "Lets Hear From You",
+"href": "https://chaplainstevenstjohnforcongress.com/index.html#lets-hear"
+},
+{
+"text": "No Donors. Why?",
+"href": "https://chaplainstevenstjohnforcongress.com/Why.html"
+},
+{
+"text": "Return Home",
+"href": "https://chaplainstevenstjohnforcongress.com/index.html"
+},
+{
+"text": "What Can Be Done?",
+"href": "https://chaplainstevenstjohnforcongress.com/whatcanbedone.html"
+}
 ]

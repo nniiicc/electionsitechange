@@ -1,21 +1,106 @@
 [
-"http://bentoncreative.com/",
-"https://dekalbcountyga.gov/voter-registration-elections/early-voting",
-"https://facebook.com/sallyharrellga",
-"https://gwinnettcounty.com/web/gwinnett/departments/elections/absenteevoting-civilians/advancevoting",
-"https://mvp.sos.ga.gov/MVP/mvp.do",
-"https://sallyharrell.org/",
-"https://sallyharrell.org/2020-endorsements",
-"https://sallyharrell.org/2022-endorsements",
-"https://sallyharrell.org/2024-endorsements",
-"https://sallyharrell.org/about-sally",
-"https://sallyharrell.org/contact",
-"https://sallyharrell.org/events",
-"https://sallyharrell.org/newsletters",
-"https://sallyharrell.org/priorities",
-"https://sallyharrell.org/priorities/2018-endorsements",
-"https://sallyharrell.org/vote",
-"https://secure.actblue.com/contribute/page/sallyharrell-sd40",
-"https://securemyabsenteeballot.sos.ga.gov/s",
-"https://twitter.com/sallyharrellga"
+{
+"text": "2018 Endorsements",
+"href": "https://sallyharrell.org/priorities/2018-endorsements"
+},
+{
+"text": "2020 Endorsements",
+"href": "https://sallyharrell.org/2020-endorsements/"
+},
+{
+"text": "2022 Endorsements",
+"href": "https://sallyharrell.org/2022-endorsements/"
+},
+{
+"text": "2024 Endorsements",
+"href": "https://sallyharrell.org/2024-endorsements/"
+},
+{
+"text": "About Sally",
+"href": "https://sallyharrell.org/about-sally/"
+},
+{
+"text": "Benton Creative.",
+"href": "http://bentoncreative.com"
+},
+{
+"text": "Contact",
+"href": "https://sallyharrell.org/contact/"
+},
+{
+"text": "Criminal Justice & Police Reform",
+"href": "https://sallyharrell.org/priorities/#criminal-justice"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/contribute/page/sallyharrell-sd40"
+},
+{
+"text": "DeKalb Information and Locations",
+"href": "https://www.dekalbcountyga.gov/voter-registration-elections/early-voting"
+},
+{
+"text": "Education",
+"href": "https://sallyharrell.org/priorities/#education"
+},
+{
+"text": "Environment",
+"href": "https://sallyharrell.org/priorities/#environment"
+},
+{
+"text": "Events",
+"href": "https://sallyharrell.org/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sallyharrellga/"
+},
+{
+"text": "Gwinnett Information and Locations",
+"href": "https://www.gwinnettcounty.com/web/gwinnett/departments/elections/absenteevoting-civilians/advancevoting"
+},
+{
+"text": "Healthcare",
+"href": "https://sallyharrell.org/priorities/#healthcare"
+},
+{
+"text": "MY VOTER PAGE",
+"href": "https://www.mvp.sos.ga.gov/MVP/mvp.do"
+},
+{
+"text": "Mail",
+"href": "mailto:sally@sallyharrell.org"
+},
+{
+"text": "Newsletters",
+"href": "https://sallyharrell.org/newsletters/"
+},
+{
+"text": "Other Issues",
+"href": "https://sallyharrell.org/priorities/#other-issues"
+},
+{
+"text": "Priorities",
+"href": "https://sallyharrell.org/priorities/"
+},
+{
+"text": "Transportation",
+"href": "https://sallyharrell.org/priorities/#transportation"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/sallyharrellga"
+},
+{
+"text": "Voter Info",
+"href": "https://sallyharrell.org/vote/"
+},
+{
+"text": "[image: Elect Sally Harrell]",
+"href": "https://sallyharrell.org/"
+},
+{
+"text": "https://securemyabsenteeballot.sos.ga.gov",
+"href": "https://securemyabsenteeballot.sos.ga.gov/s/"
+}
 ]

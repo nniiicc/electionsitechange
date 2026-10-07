@@ -1,10 +1,46 @@
 [
-"https://benydewalker.com/",
-"https://benydewalker.com/about",
-"https://benydewalker.com/cart",
-"https://benydewalker.com/contact",
-"https://benydewalker.com/keyissues",
-"https://benydewalker.com/volunteer",
-"https://instagram.com/benydewalker",
-"https://secure.actblue.com/donate/benyde-walker-1"
+{
+"text": "0",
+"href": "https://www.benydewalker.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.benydewalker.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.benydewalker.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/benyde-walker-1"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/benyde-walker-1"
+},
+{
+"text": "Home",
+"href": "https://www.benydewalker.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/benydewalker/"
+},
+{
+"text": "Key Issues",
+"href": "https://www.benydewalker.com/keyissues"
+},
+{
+"text": "More Key Issues",
+"href": "https://www.benydewalker.com/keyissues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.benydewalker.com/volunteer"
+},
+{
+"text": "[image: Benyde Walker]",
+"href": "https://www.benydewalker.com/"
+}
 ]

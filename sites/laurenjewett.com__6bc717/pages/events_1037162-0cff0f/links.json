@@ -1,25 +1,158 @@
 [
-"https://bsky.app/profile/doitjewett.bsky.social",
-"https://docs.google.com/forms/d/e/1FAIpQLScjW7jw_HJbn1SID7BwG_IV_gjStSjfoCibQCosi-OLK8vKeg/viewform",
-"https://facebook.com/electlaurenjewett",
-"https://instagram.com/electlaurenjewett",
-"https://laurenjewett.com/",
-"https://laurenjewett.com/about",
-"https://laurenjewett.com/accessibility",
-"https://laurenjewett.com/contact",
-"https://laurenjewett.com/district-voting",
-"https://laurenjewett.com/endorsements",
-"https://laurenjewett.com/events",
-"https://laurenjewett.com/issues",
-"https://laurenjewett.com/privacy-policy",
-"https://laurenjewett.com/volunteer",
-"https://mobilize.us/jamieforlouisiana/event/1037162",
-"https://secure.numero.ai/contribute/laurenjewett",
-"https://secure.numero.ai/contribute/laurenjewett?amount=100",
-"https://secure.numero.ai/contribute/laurenjewett?amount=25",
-"https://secure.numero.ai/contribute/laurenjewett?amount=250",
-"https://secure.numero.ai/contribute/laurenjewett?amount=50",
-"https://tiktok.com/@electlaurenjewett",
-"https://x.com/ElectLJewett",
-"https://youtube.com/@ElectLaurenJewett"
+{
+"text": "$100",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=50"
+},
+{
+"text": "Accessibility",
+"href": "https://www.laurenjewett.com/accessibility"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.numero.ai/contribute/laurenjewett"
+},
+{
+"text": "Contact",
+"href": "https://www.laurenjewett.com/contact"
+},
+{
+"text": "District & Voting",
+"href": "https://www.laurenjewett.com/district-voting"
+},
+{
+"text": "Endorsements",
+"href": "https://www.laurenjewett.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.laurenjewett.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.laurenjewett.com/issues"
+},
+{
+"text": "Lauren Jewett for Congress - Return to homepage[image: Lauren Jewett for Congress LA-01 campaign logo]",
+"href": "https://www.laurenjewett.com/"
+},
+{
+"text": "Lauren Jewett for Congress[image: Lauren Jewett for Congress LA-01]",
+"href": "https://www.laurenjewett.com/"
+},
+{
+"text": "Meet Lauren",
+"href": "https://www.laurenjewett.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.laurenjewett.com/privacy-policy"
+},
+{
+"text": "RSVP on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/jamieforlouisiana/event/1037162/"
+},
+{
+"text": "Saturday, Oct 10, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/jamieforlouisiana/event/1037162/"
+},
+{
+"text": "Saturday, Oct 10, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/jamieforlouisiana/event/1037162/"
+},
+{
+"text": "Saturday, Oct 17, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/jamieforlouisiana/event/1037162/"
+},
+{
+"text": "Saturday, Oct 17, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/jamieforlouisiana/event/1037162/"
+},
+{
+"text": "Saturday, Oct 24, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/jamieforlouisiana/event/1037162/"
+},
+{
+"text": "Saturday, Oct 24, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/jamieforlouisiana/event/1037162/"
+},
+{
+"text": "Saturday, Oct 3, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/jamieforlouisiana/event/1037162/"
+},
+{
+"text": "Saturday, Oct 3, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/jamieforlouisiana/event/1037162/"
+},
+{
+"text": "Saturday, Oct 31, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/jamieforlouisiana/event/1037162/"
+},
+{
+"text": "Saturday, Oct 31, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/jamieforlouisiana/event/1037162/"
+},
+{
+"text": "Saturday, Sep 19, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/jamieforlouisiana/event/1037162/"
+},
+{
+"text": "Saturday, Sep 19, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/jamieforlouisiana/event/1037162/"
+},
+{
+"text": "Saturday, Sep 26, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/jamieforlouisiana/event/1037162/"
+},
+{
+"text": "Saturday, Sep 26, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/jamieforlouisiana/event/1037162/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.laurenjewett.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScjW7jw_HJbn1SID7BwG_IV_gjStSjfoCibQCosi-OLK8vKeg/viewform"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/doitjewett.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ElectLaurenJewett"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ElectLJewett"
+},
+{
+"text": "← All events",
+"href": "https://www.laurenjewett.com/events"
+}
 ]

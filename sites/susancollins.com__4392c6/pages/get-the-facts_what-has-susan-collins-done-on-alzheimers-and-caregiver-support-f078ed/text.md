@@ -1,4 +1,5 @@
-Susan is a recognized leader in the fight against dementia, and her leadership has contributed to historic increases in research investment, the creation of a national strategy, and expanded support systems for patients and caregivers.
+Skip to main content Skip to footer Opens in a new tab Home About Track Record News Vote Store Get Involved Donate Get Involved Donate What has Susan Collins done on Alzheimer’s and caregiver support?
+Get the Facts Susan is a recognized leader in the fight against dementia, and her leadership has contributed to historic increases in research investment, the creation of a national strategy, and expanded support systems for patients and caregivers.
 As co-chair of the Congressional Task Force on Alzheimer’s Disease, in 2011, Susan worked across the aisle to author the National Alzheimer’s Project Act (NAPA) and, in 2024, she secured its reauthorization through 2035.
 NAPA is the first coordinated plan to concentrate federal efforts on defeating Alzheimer’s disease.
 Susan led efforts to increase federal funding for Alzheimer’s research, surpassing the $2 billion threshold for the first time in 2018 and maintaining historic increases in investments every year since.
@@ -8,16 +9,23 @@ To ensure America’s caregivers receive the long-term support they deserve, Sus
 These legislative victories deliver meaningful, direct relief to the estimated 29,000 Mainers living with Alzheimer’s and the thousands of families who care for them.
 By securing a 10 percent funding increase for the Lifespan Respite Care program, this regular, reliable federal support helps ease caregiver burnout for the 166,000 unpaid family caregivers across our state.
 Furthermore, expanding the BOLD Act ensures the Maine CDC has the robust public health resources necessary to drive early detection, local memory care awareness, and localized brain health initiatives across all 16 counties.
-FAQs
-Susan Collins is a national leader for those living with Alzheimer’s and their families.
+FAQs What has Susan Collins done for those with Alzheimer’s + Susan Collins is a national leader for those living with Alzheimer’s and their families.
 Collins authored the National Alzheimer’s Project Act (NAPA) in 2011 and, in 2024, she secured its reauthorization through 2035.
 Susan also authored the Alzheimer’s Accountability and Investment Act, which was signed into law.
 These bipartisan laws legally mandate a coordinated national strategy and ensure optimal federal budget estimates for specialized biomedical research.
-Susan Collins co-authored the Lifespan Respite Care Reauthorization Act, a signed law extending vital caregiver relief programs through FY2030.
-Susan Collins’ enacted legislative record includes authoring the National Alzheimer’s Project Act (NAPA) in 2011, its Reauthorization in 2024, and the Alzheimer’s Accountability and Investment Act.
+How has Susan Collins helped Alzheimer’s caregivers? + Susan Collins co-authored the Lifespan Respite Care Reauthorization Act, a signed law extending vital caregiver relief programs through FY2030.
+What legislation has Susan Collins passed on Alzheimer’s? + Susan Collins’ enacted legislative record includes authoring the National Alzheimer’s Project Act (NAPA) in 2011, its Reauthorization in 2024, and the Alzheimer’s Accountability and Investment Act.
 She also authored and championed the BOLD Infrastructure for Alzheimer’s Reauthorization Act, legally securing sustained public health infrastructure for early detection, brain health, and dementia caregiving across the country.
-Yes.
+Does Susan Collins support respite care? + Yes.
 Susan Collins is a leading congressional champion for respite care to prevent family caregiver burnout.
 She successfully passed the Lifespan Respite Care Reauthorization Act to secure federal respite program access through FY2030 and utilized her senior position on the Appropriations Committee to target a 10% funding increase for the program.
-Susan Collins authored the BOLD Infrastructure for Alzheimer’s Reauthorization Act, which directly delivers federal resources to public health systems like the Maine DHHS to implement the state’s dementia response plan.
+How has Susan Collins helped with dementia care in Maine? + Susan Collins authored the BOLD Infrastructure for Alzheimer’s Reauthorization Act, which directly delivers federal resources to public health systems like the Maine DHHS to implement the state’s dementia response plan.
 This funding expands early detection, cognitive health initiatives, and memory care awareness across all 16 Maine counties to support the state’s 29,000 residents living with Alzheimer’s.
+Home About Track Record News Store Get Involved Campaign Chairs Join a Coalition Donate by Mail Collins for Senator P.O.
+Box 1096 Bangor, Maine 04402-1096 Please provide your mobile phone to opt-in to Collins for Senator campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Paid for by Collins for Senator Privacy Policy Terms and Conditions Media Kit FAQs

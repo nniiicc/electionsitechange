@@ -1,20 +1,74 @@
 [
-"https://absentee.vote.org/",
-"https://brendaksanders.com/",
-"https://brendaksanders.com/contact",
-"https://brendaksanders.com/contribute",
-"https://brendaksanders.com/events",
-"https://brendaksanders.com/issues",
-"https://brendaksanders.com/meet_brenda_k",
-"https://brendaksanders.com/news",
-"https://brendaksanders.com/photos",
-"https://brendaksanders.com/privacy-policy",
-"https://brendaksanders.com/view-endorsements",
-"https://brendaksanders.com/volunteer",
-"https://brendaksanders.com/vote",
-"https://brendaksanders.com/yard-sign",
-"https://campaignpartner.com/",
-"https://campaignpartner.com/state_election_information.html",
-"https://register.vote.org/",
-"https://verify.vote.org/"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.brendaksanders.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.brendaksanders.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.brendaksanders.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.brendaksanders.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.brendaksanders.com/issues"
+},
+{
+"text": "Meet Brenda K. Sanders",
+"href": "https://www.brendaksanders.com/meet_brenda_k"
+},
+{
+"text": "News",
+"href": "https://www.brendaksanders.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.brendaksanders.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.brendaksanders.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://register.vote.org/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://absentee.vote.org/"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://verify.vote.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.brendaksanders.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.brendaksanders.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.brendaksanders.com/yard-sign"
+},
+{
+"text": "[image: Brenda K. Sanders]",
+"href": "https://www.brendaksanders.com/"
+},
+{
+"text": "click here to find your state",
+"href": "https://www.campaignpartner.com/state_election_information.html"
+}
 ]

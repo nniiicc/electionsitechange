@@ -1,15 +1,70 @@
 [
-"https://facebook.com/junie4boulder",
-"https://instagram.com/junie4colorado",
-"https://junie4colorado.com/",
-"https://junie4colorado.com/about",
-"https://junie4colorado.com/blog",
-"https://junie4colorado.com/get-involved",
-"https://junie4colorado.com/issues",
-"https://junie4colorado.com/legislation",
-"https://junie4colorado.com/more",
-"https://junie4colorado.com/picturegallery",
-"https://junie4colorado.com/services-9",
-"https://secure.actblue.com/donate/friends-of-junie-joseph-1",
-"https://twitter.com/Junie4Colorado"
+{
+"text": "About Junie",
+"href": "https://www.junie4colorado.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-junie-joseph-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/junie4boulder"
+},
+{
+"text": "Get Involved",
+"href": "https://www.junie4colorado.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.junie4colorado.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/junie4colorado/"
+},
+{
+"text": "JunieForHD10@gmail.com",
+"href": "mailto:JunieforHD10@gmail.com"
+},
+{
+"text": "Legislation",
+"href": "https://www.junie4colorado.com/legislation"
+},
+{
+"text": "Newsroom",
+"href": "https://www.junie4colorado.com/blog"
+},
+{
+"text": "Photo & Video Gallery",
+"href": "https://www.junie4colorado.com/picturegallery"
+},
+{
+"text": "Read More",
+"href": "https://www.junie4colorado.com/more"
+},
+{
+"text": "Stances",
+"href": "https://www.junie4colorado.com/issues"
+},
+{
+"text": "X",
+"href": "https://twitter.com/Junie4Colorado"
+},
+{
+"text": "Your Community",
+"href": "https://www.junie4colorado.com/services-9"
+},
+{
+"text": "[image: Facebook ]",
+"href": "https://www.facebook.com/junie4boulder"
+},
+{
+"text": "[image: One.A.png]",
+"href": "https://www.junie4colorado.com/"
+},
+{
+"text": "[image: alt.text.label.Twitter]",
+"href": "https://twitter.com/Junie4Colorado"
+}
 ]

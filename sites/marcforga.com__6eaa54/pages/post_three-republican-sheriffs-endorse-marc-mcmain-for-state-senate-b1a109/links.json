@@ -1,9 +1,42 @@
 [
-"http://marcforga.com/",
-"https://facebook.com/mcmainforga",
-"https://instagram.com/marcmcmain",
-"https://marcforgeorgia.com/",
-"https://marcforgeorgia.com/endorsements",
-"https://marcforgeorgia.com/privacy-policy",
-"https://secure.psqimpact.com/donate/marc-for-georgia/donate"
+{
+"text": "DONATE",
+"href": "https://secure.psqimpact.com/donate/marc-for-georgia/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.marcforgeorgia.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.marcforgeorgia.com"
+},
+{
+"text": "MarcForGA.com",
+"href": "http://marcforga.com"
+},
+{
+"text": "News",
+"href": "https://www.marcforgeorgia.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.marcforgeorgia.com"
+},
+{
+"text": "Privacy",
+"href": "https://www.marcforgeorgia.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.marcforgeorgia.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/mcmainforga"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/marcmcmain/"
+}
 ]

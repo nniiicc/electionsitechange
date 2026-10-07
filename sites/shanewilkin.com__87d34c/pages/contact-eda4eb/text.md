@@ -1,7 +1,2 @@
-Contact
-Us
-Get in Touch with Our Team
-Use the Form Below
-Members of the media can reach us at: Press@shanewilkin.com
-Us
-Use the Form Below
+0 Skip to Content Home About Contact Us Donate Open Menu Close Menu Home About Contact Us Donate Open Menu Close Menu Home About Contact Us Donate Contact Us Get in Touch with Our Team Use the Form Below Members of the media can reach us at: Press@shanewilkin.com Privacy Policy PAID FOR BY WILKIN FOR OHIO By providing your phone number, you are consenting to receive calls and SMS/MMS messages, including autodialed and automated calls and texts, to that number from Wilkin for Ohio.
+Msg & data rates may apply.

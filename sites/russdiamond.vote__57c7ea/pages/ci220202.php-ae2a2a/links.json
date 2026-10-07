@@ -1,20 +1,82 @@
 [
-"http://russdiamond.vote/ci210123a.php",
-"http://russdiamond.vote/docs/act77ccopinion.pdf",
-"https://facebook.com/friendsofrussdiamond",
-"https://facebook.com/repdiamond/reels",
-"https://instagram.com/russdiamond",
-"https://legis-pahousegop.msappproxy.net/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2021&sessInd=0&billBody=H&billTyp=B&billNbr=1717&pn=1938",
-"https://legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2019&sInd=0&body=S&type=B&bn=48",
-"https://legis.state.pa.us/cfdocs/legis/cl/public/ViewVetoMessage.cfm?sessyr=2019&sessInd=0&billbody=S&billtype=B&billnbr=48&pn=1080&vetonbr=3",
-"https://repdiamond.com/",
-"https://russdiamond.vote/about.php",
-"https://russdiamond.vote/blog.php",
-"https://russdiamond.vote/connect.php",
-"https://russdiamond.vote/contribute.php",
-"https://russdiamond.vote/index.php",
-"https://russdiamond.vote/privacy.php",
-"https://russdiamond.vote/updates.php",
-"https://web.archive.org/web/20220202140342/https://www.legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2019&sInd=0&body=S&type=B&bn=421",
-"https://x.com/russdiamond"
+{
+"text": "About",
+"href": "https://russdiamond.vote/about.php"
+},
+{
+"text": "Blog",
+"href": "https://russdiamond.vote/blog.php"
+},
+{
+"text": "Connect",
+"href": "https://russdiamond.vote/connect.php"
+},
+{
+"text": "Donate",
+"href": "https://russdiamond.vote/contribute.php"
+},
+{
+"text": "Home",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "House Bill 1717",
+"href": "https://legis-pahousegop.msappproxy.net/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2021&sessInd=0&billBody=H&billTyp=B&billNbr=1717&pn=1938"
+},
+{
+"text": "News",
+"href": "https://russdiamond.vote/updates.php"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.russdiamond.vote/privacy.php"
+},
+{
+"text": "SB421",
+"href": "https://web.archive.org/web/20220202140342/https://www.legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2019&sInd=0&body=S&type=B&bn=421"
+},
+{
+"text": "SB48",
+"href": "https://www.legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2019&sInd=0&body=S&type=B&bn=48"
+},
+{
+"text": "You can read that post here.",
+"href": "http://russdiamond.vote/ci210123a.php"
+},
+{
+"text": "[image: Captiol Insights - State Representative Russ Diamond's Blog]",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "[image: Click to email my campaign.]",
+"href": "mailto:russdiamond4pa@gmail.com?Subject=Campaign+page+viewer+message"
+},
+{
+"text": "[image: Click to follow Friends of Russ Diamond on Facebook.]",
+"href": "https://www.facebook.com/friendsofrussdiamond"
+},
+{
+"text": "[image: Click to follow me on Instagram.]",
+"href": "https://www.instagram.com/russdiamond"
+},
+{
+"text": "[image: Click to follow me on X (Twitter}.]",
+"href": "https://www.x.com/russdiamond"
+},
+{
+"text": "[image: Click to view videos of Russ.]",
+"href": "https://www.facebook.com/repdiamond/reels/"
+},
+{
+"text": "[image: Click to visit Russ's legislative page.]",
+"href": "https://www.repdiamond.com/"
+},
+{
+"text": "an opinion overturning Act 77's no-excuse mail-in voting",
+"href": "http://russdiamond.vote/docs/act77ccopinion.pdf"
+},
+{
+"text": "vetoed it on July 5th",
+"href": "https://www.legis.state.pa.us/cfdocs/legis/cl/public/ViewVetoMessage.cfm?sessyr=2019&sessInd=0&billbody=S&billtype=B&billnbr=48&pn=1080&vetonbr=3"
+}
 ]

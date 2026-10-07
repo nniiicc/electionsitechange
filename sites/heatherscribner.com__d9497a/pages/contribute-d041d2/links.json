@@ -1,9 +1,34 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://heatherscribner.com/",
-"https://heatherscribner.com/about-heather",
-"https://heatherscribner.com/contribute",
-"https://heatherscribner.com/lawn-signs",
-"https://img1.wsimg.com/blobby/go/afe3d2dd-982d-431a-9b7a-7625339194d4/Scribner%20PCF%20Contribution%20Reply%20Card.pdf",
-"https://secure.winred.com/heather-scribner-for-ny/saveny"
+{
+"text": "About Heather",
+"href": "https://heatherscribner.com/about-heather"
+},
+{
+"text": "CONTRIBUTE NOW",
+"href": "https://secure.winred.com/heather-scribner-for-ny/saveny"
+},
+{
+"text": "Contribute",
+"href": "https://heatherscribner.com/contribute"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/afe3d2dd-982d-431a-9b7a-7625339194d4/Scribner%20PCF%20Contribution%20Reply%20Card.pdf"
+},
+{
+"text": "Home",
+"href": "https://heatherscribner.com/"
+},
+{
+"text": "Lawn Signs",
+"href": "https://heatherscribner.com/lawn-signs"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/afe3d2dd-982d-431a-9b7a-7625339194d4/Scribner%20PCF%20Contribution%20Reply%20Card.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

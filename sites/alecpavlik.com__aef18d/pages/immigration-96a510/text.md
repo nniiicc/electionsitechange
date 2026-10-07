@@ -1,5 +1,6 @@
-Immigration
-Article 4 Section 4 of the United States Constitution states, “The United States shall guarantee to every State in this Union a Republican Form of Government, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.” Meaning, the Federal Government has a responsibly to protect the States from invasion.
+top of page For U.S.
+House Home About Issues Get Involved Contact Other Projects More Use tab to navigate through the menu items.
+Alec Pavlik Immigration Article 4 Section 4 of the United States Constitution states, “The United States shall guarantee to every State in this Union a Republican Form of Government, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.” Meaning, the Federal Government has a responsibly to protect the States from invasion.
 This is one of the things the Trump Administration has been taking care of.
 That being said, what qualifies as an Invasion?
 Judging by the inclusion of domestic Violence in this clause, one could assume an Invasion is when any entity is attempting to forcibly enter the United States to commit violence.
@@ -24,3 +25,8 @@ If the United States truly returned to a free-market economy, immigration would 
 In the meantime, I support an immigration policy that deports violent illegal immigrants and prevents further illegal border crossings, while streamlining legal immigration for those who love and respect America.
 I cannot see our current immigration policy being enforceable without placing every citizen on a federal list—which is something I morally, legally, and personally detest.
 In short, I am pro-borders and pro-immigration.
+Home About Me Issues Get Involved Contact Save America.
+Restore the Constitution.
+Alec Pavlik Terms & Conditions / Accessibility Financial Disclosure © # by Alec Pavlik.
+Powered and secured by Wix Write-In Alec Pavlik for U.S.
+House of Representatives District 6 (FL-06) PavlikCampaign@protonmail.com ​ bottom of page

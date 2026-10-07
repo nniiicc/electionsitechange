@@ -1,8 +1,38 @@
 [
-"https://docs.google.com/forms/d/1B80zWiiCzRLWcw6vGtuooi74LczfWClyarPLyxuH1tI/edit",
-"https://givebutter.com/KSforKS",
-"https://ksforks.com/",
-"https://ksforks.com/blank",
-"https://ksforks.com/blank-1",
-"https://ksforks.com/privacy-policy"
+{
+"text": "About Me",
+"href": "https://www.ksforks.com"
+},
+{
+"text": "Contribute",
+"href": "https://givebutter.com/KSforKS"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ksforks.com/blank"
+},
+{
+"text": "Get Involved",
+"href": "https://docs.google.com/forms/d/1B80zWiiCzRLWcw6vGtuooi74LczfWClyarPLyxuH1tI/edit"
+},
+{
+"text": "Home",
+"href": "https://www.ksforks.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.ksforks.com/blank-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ksforks.com/privacy-policy"
+},
+{
+"text": "Subscribe to Newsletter",
+"href": "https://www.ksforks.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.ksforks.com/privacy-policy"
+}
 ]

@@ -1,10 +1,6 @@
-Reps speak out against proposal to grant electoral votes to Trump without counting votes
-Source: Independent Tribune
-Oct 29, 2024 (Updated Dec 5, 2025)
-By: Rep.
+Issues Resume Photos Videos Media NC Senate Contact VOLUNTEER DONATE Issues Resume Photos Videos Media NC Senate Contact Home Issues Resume Photos Videos Media NC Senate Contact Donate Volunteer Issues Resume Photos Videos Media NC Senate Contact VOLUNTEER DONATE Home Issues Resume Photos Videos Media NC Senate Contact Donate Volunteer Media Reps speak out against proposal to grant electoral votes to Trump without counting votes Source: Independent Tribune Oct 29, 2024 (Updated Dec 5, 2025) By: Rep.
 Kevin Crutchfield and Rep.
-David Willis
-As elected Republicans serving North Carolina, we are compelled to speak out against a proposal that could undermine one of the core tenets of our democracy: the people’s right to vote.
+David Willis As elected Republicans serving North Carolina, we are compelled to speak out against a proposal that could undermine one of the core tenets of our democracy: the people’s right to vote.
 Recent comments from Rep.
 Andy Harris, head of the House Freedom Caucus, suggesting that North Carolina’s legislature should consider awarding its electoral votes to Donald Trump before the votes are even counted, are troubling and antithetical to conservative principles.
 We say this as staunch supporters of President Trump and as individuals who believe in his vision for America’s future.
@@ -43,22 +39,12 @@ We count votes, we follow the law, and we uphold the Constitution — no matter 
 That’s how Republicans should win elections: not by changing the rules, but by earning the trust and support of the people we serve.
 In recent headlines...
 KEVIN CRUTCHFIELD: Benefits of federal infrastructure law coming to N.C.
-IndependentTribune.com
-June 21, 2023
-Crutchfield discusses first five months as a lawmaker
-SalisburyPost.com
-May 4, 2023
-Bill with bipartisan support could help clear NC autopsy backlog
-WSOCTV.com
-April 27, 2023
-Lawmakers voice support for bill aiming to ban transgender females from participating in women’s sports
-SalisburyPost.com
-April 25, 2023
-Rep.
+IndependentTribune.com June 21, 2023 Crutchfield discusses first five months as a lawmaker SalisburyPost.com May 4, 2023 Bill with bipartisan support could help clear NC autopsy backlog WSOCTV.com April 27, 2023 Lawmakers voice support for bill aiming to ban transgender females from participating in women’s sports SalisburyPost.com April 25, 2023 Rep.
 Bradford and Rep.
-Crutchfield launch small business caucus
-BusinessTodayNC.com
-March 17, 2023
-Cabarrus County Board of Education could become partisan
-IndependentTribune.com
-March 6, 2023
+Crutchfield launch small business caucus BusinessTodayNC.com March 17, 2023 Cabarrus County Board of Education could become partisan IndependentTribune.com March 6, 2023 PRIMARY ELECTION DAY Tuesday, March 3rd, 2026 Find Your Polling Place.
+Need an Absentee or Mail-In Ballot?
+KEVIN CRUTCHFIELD FOR SENATE 9817 Mount Pleasant Rd S Midland, NC 28107 (704) 309-5076 GET IN TOUCH [email protected] Have questions or would like to volunteer?
+Email Kevin © # KEVIN CRUTCHFIELD FOR NC.
+ALL RIGHTS RESERVED.
+PAID FOR BY KEVIN CRUTCHFIELD FOR NC.
+WEBSITES FOR CANDIDATES BY WEBPRO360.COM, LLC

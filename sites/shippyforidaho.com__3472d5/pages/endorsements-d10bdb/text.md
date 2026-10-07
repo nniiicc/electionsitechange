@@ -1,10 +1,4 @@
-Endorsements
-The Idaho Farm Bureau PAC endorses Brandon
-The Idaho Fraternal Order of Police endorses Brandon
-Conservatives of: IDAHO endorses Brandon
-The National Rifle Association endorses Brandon
-The Idaho First Responders endorses Brandon
-Former Idaho Senator for District 9 Monte Pearce endorses Brandon Shippy
-Local farmer Geo McClelland endorses Brandon Shippy
-Payette County GOP chair Howard Rynearson endorses Brandon Shippy
-Eric and Jessica Paulson of Agape Coffeehouse endorse Brandon Shippy
+Contact News About Brandon About the Issues Endorsements Donate Store Endorsements The Idaho Farm Bureau PAC endorses Brandon The Idaho Fraternal Order of Police endorses Brandon Conservatives of: IDAHO endorses Brandon The National Rifle Association endorses Brandon The Idaho First Responders endorses Brandon Former Idaho Senator for District 9 Monte Pearce endorses Brandon Shippy Local farmer Geo McClelland endorses Brandon Shippy Payette County GOP chair Howard Rynearson endorses Brandon Shippy Eric and Jessica Paulson of Agape Coffeehouse endorse Brandon Shippy Paid for by Shippy For Idaho.
+Mark Steinmeyer, Treasurer Donate Now Follow Follow Privacy Policy Paid for by Shippy For Idaho.
+Mark Steinmeyer, Treasurer Donate Now Privacy Policy Follow Follow Paid for by Shippy For Idaho.
+Mark Steinmeyer, Treasurer Donate Now Privacy Policy Follow Follow

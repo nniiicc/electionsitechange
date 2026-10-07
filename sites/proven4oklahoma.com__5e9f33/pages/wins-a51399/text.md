@@ -1,27 +1,5 @@
-Melissa's Key Wins
-FIGHTING CORRUPTION
-- Served on LOFT (Legislative Office of Fiscal Transparency) to act as watchdog for state agency spending
-- Stopped Abuse of Education Dollars by Epic Charter School founders
-- Reigned in back door deals at the State Department of Education
-EDUCATION
-- Career Teachers: Allow these educators to carry their Career status to a new school district, if that district agrees.
-- Streamlining of Excessive Teacher training - capped at 150 hr/5 years - allowing teachers more time in the classroom to prepare for students
-- Increased School Bond Transparency
-- Student Loan Borrower's Bill of Rights
-HEALTH CARE and MENTAL HEALTH CARE
-- Diagnostic Mammograms - Now Fully Covered by Insurance 2025: Further Expanded to include more machines!
-- Board Member Attorney General's Sexual Assault Forensic Board (SAFE)
-- Health and Mental Health Care: Cost transparency for common procedures and prior authorizations
-- Funding to increase Oklahoma's Psychiatric Residencies by 30%
-MAKING ENDS MEET
-- Occupational Licenses - Renewal no longer tied to tax status
-- Electricians licensure - streamline renewal and reinstatement requirements to bring more electricians back into the Oklahoma workforce
-- Grocery Tax Cut - State portion of the grocery tax eliminated!
-- Landlord Tenant Act Updates - Increasing the Right to Repair Amount
-- Property Tax Exemptions for Full Disabled Homeowners
-PUBLIC SAFETY
-- Child safety - updated law to better encompass dangerous online and digital imagery
-- Anti-dox laws - provided protections for municipal officials to online death threats
-- Increasing Stability for Law Enforcement jobs
-- Stabilized police pension system benefits
-- 9/11 Flag of Remembrance
+Home Bio Issues Key Wins Capitol Updates Contact Melissa's Key Wins FIGHTING CORRUPTION Served on LOFT (Legislative Office of Fiscal Transparency) to act as watchdog for state agency spending Stopped Abuse of Education Dollars by Epic Charter School founders Reigned in back door deals at the State Department of Education EDUCATION Career Teachers: Allow these educators to carry their Career status to a new school district, if that district agrees.
+Streamlining of Excessive Teacher training - capped at 150 hr/5 years - allowing teachers more time in the classroom to prepare for students Increased School Bond Transparency Student Loan Borrower's Bill of Rights HEALTH CARE and MENTAL HEALTH CARE Diagnostic Mammograms - Now Fully Covered by Insurance 2025: Further Expanded to include more machines!
+Board Member Attorney General's Sexual Assault Forensic Board (SAFE) Health and Mental Health Care: Cost transparency for common procedures and prior authorizations Funding to increase Oklahoma's Psychiatric Residencies by 30% MAKING ENDS MEET Occupational Licenses - Renewal no longer tied to tax status Electricians licensure - streamline renewal and reinstatement requirements to bring more electricians back into the Oklahoma workforce Grocery Tax Cut - State portion of the grocery tax eliminated!
+Landlord Tenant Act Updates - Increasing the Right to Repair Amount Property Tax Exemptions for Full Disabled Homeowners PUBLIC SAFETY Child safety - updated law to better encompass dangerous online and digital imagery Anti-dox laws - provided protections for municipal officials to online death threats Increasing Stability for Law Enforcement jobs Stabilized police pension system benefits 9/11 Flag of Remembrance VOLUNTEER VOTING INFO CONTRIBUTE YARD SIGN Get Updates Thank you for signing up!
+News Provenzano Appointed to LOFT Commission Provenzano Appointed to House Democratic Leadership Team Full Coverage for Diagnostic Mammograms now law Diagnostic Mammogram Bill Passes the Senate Diagnostic Mammogram Bill Passes the House Provenzano for House District 79 2026 Powered by CampaignPartner.com - Political Campaign Websites Home Bio Issues Key Wins YARD SIGN (Free!) Volunteer Contribute Voter Information Contact Close Menu

@@ -1,11 +1,6 @@
-- Home
-- Working Families
-Maryland working families deserve fair wages and benefits for a fair day’s work.
-As primary sponsor, I
-have successfully increased wages for Maryland transportation workers, building trades and repair
-workers and voted for an increase minimum wage to improve the living standards of all Marylanders.
-I
-was also the House sponsor of the Time to Care Act of 2022 which will provide paid time off when you
-or a family member faces a serious medical or family emergency.
-These improvements will help
-Maryland stay competitive in today’s global economy.
+Home Biography Issues News Scholarships Get Involved Contact Home Biography Issues News Scholarships Get Involved Contact Contribute Working Families Home Working Families 10 Feb’22 Issues stan 0 Comment Maryland working families deserve fair wages and benefits for a fair day’s work.
+As primary sponsor, I have successfully increased wages for Maryland transportation workers, building trades and repair workers and voted for an increase minimum wage to improve the living standards of all Marylanders.
+I was also the House sponsor of the Time to Care Act of 2022 which will provide paid time off when you or a family member faces a serious medical or family emergency.
+These improvements will help Maryland stay competitive in today’s global economy.
+Twitter Facebook Dribbble Youtube Pinterest Medium Twitch Linkedin Home Biography Useful Links Gallery News Newsletter Issues Bills Passed Contact Email Facebook Instagram By authority citizens for Kris Valderrama Treasurer: Abraham Lobo Website Developed by Core Digital Expansion Copyright # Home Biography Useful Links Gallery News Newsletter Issues Bills Passed Contact Email Facebook Instagram BY AUTHORITY: Citizens for Kris Valderrama, Abraham Lobo, Treasurer.
+Website Developed by Core Digital Expansion Copyright #

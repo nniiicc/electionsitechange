@@ -1,4 +1,7 @@
-ADRIAN SMITH: Stagflation 2.0
-By Adrian Smith, U.S.
+Skip to content Phone 308-220-3211 | committee@joinadrian.com Facebook DONATE TODAY!
+Search for: Home About Issues Media News Photos Donate Volunteer Contact Search for: Home About Issues Media News Photos Donate Volunteer Contact Home About Issues Media News Photos Donate Volunteer Contact Adrian Smith for Congress About Adrian Smith for Congress This author has not yet filled in any details.
+So far Adrian Smith for Congress has created 21 blog entries.
+ADRIAN SMITH: Stagflation 2.0 By Adrian Smith, U.S.
 Representative, Star-Herald Op-Ed, August 8, 2021 — Since President Biden took office inflation has increased every single month.
-At a time when our nation is trying to rebuild and recover in response to COVID-19, the Biden Administration and Congressional Democrats don’t seem to mind that the price of everyday goods and [...]
+At a time when our nation is trying to rebuild and recover in response to COVID-19, the Biden Administration and Congressional Democrats don’t seem to mind that the price of everyday goods and [...] Adrian Smith for Congress 2022-01-18T08:58:12-06:00 August 9th, 2021 | Media coverage | Read More Previous 2 3 1126 Avenue A, #6 Scottsbluff, NE 69361 Phone: 308-220-3211 Fax: 308-635-7412 Email: committee@joinadrian.com Web: http://joinadrian.com Recent News Congressman Smith welcomes President Trump to Grand Island October 5, 2026 We’ve delivered results, and we’ll keep working until the job is done!
+May 8, 2026 “Ranchers for Adrian” joins growing list of Endorsements for Proven Conservative Nebraska Congressman Adrian Smith May 8, 2026 Adrian Smith Files for Re-election to Defend Conservative Leadership and Advance President Trump’s Agenda January 16, 2026 President Trump endorses Adrian Smith re-election in 2026 to Nebraska’s Third Congressional District November 4, 2025 Follow Adrian on Facebook Paid for by Adrian Smith for Congress | All Rights Reserved Facebook Page load link Go to Top

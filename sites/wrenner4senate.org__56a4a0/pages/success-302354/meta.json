@@ -1,9 +1,15 @@
 {
  "description": "Wrenner has led nine issue campaigns. We have written about a few of them here.",
  "final_url": "https://www.wrenner4senate.org/success",
- "paid_for_by": null,
+ "fingerprint": "5a24edfee87d86b5ed6cd1d927c96ef67800e3ac",
+ "format": 3,
+ "paid_for_by": "",
  "title": "SUCCESS | issue campaigns",
  "years_mentioned": [
+  "1958",
+  "2005",
+  "2006",
+  "2008",
   "2017",
   "2019",
   "2020",
@@ -11,6 +17,7 @@
   "2022",
   "2023",
   "2024",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

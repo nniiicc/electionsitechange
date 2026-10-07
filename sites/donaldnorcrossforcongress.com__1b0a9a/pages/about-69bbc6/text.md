@@ -1,5 +1,6 @@
-A fighter for New Jersey's working families
-Donald Norcross is an electrician by trade who has dedicated his life to fighting for New Jersey’s working families.
+Press enter to search Home Meet Donald Our District Issues Volunteer News Vote Donate Contact Donate Meet Donald Our District Issues Volunteer News Vote Share Meet Donald Donald Norcross is an electrician by trade who has dedicated his life to fighting for New Jersey’s working families.
+He is a champion for good jobs and fair wages, accessible and affordable higher education options, a strong nation and safe neighborhoods.
+A fighter for New Jersey's working families Donald Norcross is an electrician by trade who has dedicated his life to fighting for New Jersey’s working families.
 He is a champion for good jobs and fair wages, healthcare for all, accessible and affordable higher education options, equality for women, quality health care for our veterans, a strong nation and safe neighborhoods.
 Donald was born and raised in South Jersey.
 He began his career in organized labor in 1979, working as an electrical apprentice, connecting and restoring power for homes and businesses across the region.
@@ -25,3 +26,6 @@ He led an historic effort to modernize our state’s higher education system tha
 And he successfully reformed our state’s bail system to keep violent offenders out of our communities.
 Donald and his wife live in the City of Camden.
 He is the father of three and grandfather of three.
+Meet Donald Our District Issues Volunteer News Vote Privacy Policy Contact us ©# Donald Norcross for Congress.
+All rights reserved.
+Paid for by Norcross for Congress Donate Join our campaign

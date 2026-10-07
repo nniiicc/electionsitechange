@@ -1,36 +1,158 @@
 [
-"https://14news.com/",
-"https://14news.com/2025/01/16/this-town-needs-get-it-together-winslow-residents-left-questions-after-explosive-town-hall-meeting",
-"https://aesindiana.com/press-release/aes-indiana-accelerates-future-energy-11-billion-investments-pike-county",
-"https://aesindiana.com/press-release/aes-indiana-announces-petersburg-energy-center-now-service-delivering-balanced",
-"https://citizensforhochgesang.org/",
-"https://citizensforhochgesang.org/cdn-cgi/l/email-protection",
-"https://citizensforhochgesang.org/district",
-"https://citizensforhochgesang.org/district/pike-county/petersburg",
-"https://citizensforhochgesang.org/events",
-"https://citizensforhochgesang.org/facts",
-"https://citizensforhochgesang.org/media",
-"https://citizensforhochgesang.org/news",
-"https://citizensforhochgesang.org/platform",
-"https://citizensforhochgesang.org/platform/data-centers",
-"https://citizensforhochgesang.org/platform/property-taxes",
-"https://citizensforhochgesang.org/store",
-"https://citizensforhochgesang.org/support",
-"https://duboiscountyfreepress.com/",
-"https://earthjustice.org/feature/coal-ash-states/indiana",
-"https://engineering.purdue.edu/SafeWater/watershed/Pike.pdf",
-"https://epa.gov/coal-combustion-residuals/forms/public-hearing-indianas-coal-combustion-residuals-permit-program",
-"https://epa.gov/coal-combustion-residuals/us-state-indiana-coal-combustion-residuals-permit-program",
-"https://facebook.com/bradhochgesangforindianastatesenate",
-"https://ibj.com/articles/aes-indiana-power-plant-discharging-millions-of-gallons-of-toxic-water-into-white-river-group-says",
-"https://in.gov/dlgf/files/2026-reports/2026-budget-orders/Pike-251230-2026-Budget-Order.pdf",
-"https://in.gov/dnr/reclamation/indiana-coal/about-us/awards/midwestern-abandoned-mine-land-reclamation-project",
-"https://in.gov/oucc/electric/key-cases-by-utility/vectren-electric-rates/centerpoint-energy-electric-rate-case",
-"https://instagram.com/bradhochgesang.official",
-"https://sec.gov/Archives/edgar/data/0000728391/000072839126000027/cik0000728391-20260331.htm",
-"https://suncommercial.com/press_dispatch",
-"https://wfyi.org/news/articles/how-a-coal-plants-closures-could-affect-one-indiana-town-and-what-it-plans-to-do-about-it",
-"https://wfyi.org/news/articles/indiana-senate-bill-1-house-amended-property-tax-impact-on-schools",
-"https://witzamfm.com/news/vincennes-university-secures-almost-1-71-million-in-federal-funding-to-expand-project-aspiree-across-southern-indiana",
-"https://youtube.com/@CitizensforHochgesang"
+{
+"text": "14 News",
+"href": "https://www.14news.com/"
+},
+{
+"text": "14 News, Winslow town hall on water rates",
+"href": "https://www.14news.com/2025/01/16/this-town-needs-get-it-together-winslow-residents-left-questions-after-explosive-town-hall-meeting/"
+},
+{
+"text": "AES Indiana, 1.1 billion dollar Pike County investment",
+"href": "https://www.aesindiana.com/press-release/aes-indiana-accelerates-future-energy-11-billion-investments-pike-county"
+},
+{
+"text": "AES Indiana, Petersburg Energy Center in service",
+"href": "https://www.aesindiana.com/press-release/aes-indiana-announces-petersburg-energy-center-now-service-delivering-balanced"
+},
+{
+"text": "About & Priorities",
+"href": "https://citizensforhochgesang.org/platform"
+},
+{
+"text": "Contact Us",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "DLGF, Pike County 2026 budget order",
+"href": "https://www.in.gov/dlgf/files/2026-reports/2026-budget-orders/Pike-251230-2026-Budget-Order.pdf"
+},
+{
+"text": "District",
+"href": "https://citizensforhochgesang.org/district"
+},
+{
+"text": "Dubois County Free Press",
+"href": "https://duboiscountyfreepress.com/"
+},
+{
+"text": "EPA proposal",
+"href": "https://www.epa.gov/coal-combustion-residuals/us-state-indiana-coal-combustion-residuals-permit-program"
+},
+{
+"text": "Earthjustice, toxic coal ash in Indiana",
+"href": "https://earthjustice.org/feature/coal-ash-states/indiana"
+},
+{
+"text": "Events",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bradhochgesangforindianastatesenate"
+},
+{
+"text": "Home",
+"href": "https://citizensforhochgesang.org/"
+},
+{
+"text": "IPALCO Q1 2026 SEC filing (conversion schedule)",
+"href": "https://www.sec.gov/Archives/edgar/data/0000728391/000072839126000027/cik0000728391-20260331.htm"
+},
+{
+"text": "Indiana DNR, abandoned mine land reclamation on the Patoka",
+"href": "https://www.in.gov/dnr/reclamation/indiana-coal/about-us/awards/midwestern-abandoned-mine-land-reclamation-project/"
+},
+{
+"text": "Indianapolis Business Journal, discharge into the White River",
+"href": "https://www.ibj.com/articles/aes-indiana-power-plant-discharging-millions-of-gallons-of-toxic-water-into-white-river-group-says"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bradhochgesang.official"
+},
+{
+"text": "Media & Press",
+"href": "https://citizensforhochgesang.org/media"
+},
+{
+"text": "Meet me in person",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "News",
+"href": "https://citizensforhochgesang.org/news"
+},
+{
+"text": "OUCC, CenterPoint electric rate case",
+"href": "https://www.in.gov/oucc/electric/key-cases-by-utility/vectren-electric-rates/centerpoint-energy-electric-rate-case/"
+},
+{
+"text": "Our District",
+"href": "https://citizensforhochgesang.org/district"
+},
+{
+"text": "PetersburgPetersburg hosts the plant, the batteries, the solar farms, and now the pitch for data centers. The people who live here should be the first ones asked about any of it, not the last.",
+"href": "https://citizensforhochgesang.org/district/pike-county/petersburg"
+},
+{
+"text": "Public hearing information",
+"href": "https://www.epa.gov/coal-combustion-residuals/forms/public-hearing-indianas-coal-combustion-residuals-permit-program"
+},
+{
+"text": "Purdue, water resources of Pike County",
+"href": "https://engineering.purdue.edu/SafeWater/watershed/Pike.pdf"
+},
+{
+"text": "Read where I stand →",
+"href": "https://citizensforhochgesang.org/platform/data-centers"
+},
+{
+"text": "Read where I stand →",
+"href": "https://citizensforhochgesang.org/platform/property-taxes"
+},
+{
+"text": "September 18 program announcement — WITZ",
+"href": "https://www.witzamfm.com/news/vincennes-university-secures-almost-1-71-million-in-federal-funding-to-expand-project-aspiree-across-southern-indiana"
+},
+{
+"text": "Shirts & Signs",
+"href": "https://citizensforhochgesang.org/store"
+},
+{
+"text": "Support",
+"href": "https://citizensforhochgesang.org/support"
+},
+{
+"text": "Tell me what I'm missing",
+"href": "mailto:campaign@citizensforhochgesang.org?subject=From+Pike+County"
+},
+{
+"text": "The Press-Dispatch",
+"href": "https://www.suncommercial.com/press_dispatch/"
+},
+{
+"text": "The Record",
+"href": "https://citizensforhochgesang.org/facts"
+},
+{
+"text": "WFYI, how the closure could affect Petersburg",
+"href": "https://www.wfyi.org/news/articles/how-a-coal-plants-closures-could-affect-one-indiana-town-and-what-it-plans-to-do-about-it"
+},
+{
+"text": "WFYI, property tax impact on schools",
+"href": "https://www.wfyi.org/news/articles/indiana-senate-bill-1-house-amended-property-tax-impact-on-schools"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@CitizensforHochgesang"
+},
+{
+"text": "[email protected]",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "[image: Brad Hochgesang for State Senate campaign logo]Brad Hochgesangfor State Senate",
+"href": "https://citizensforhochgesang.org/"
+}
 ]

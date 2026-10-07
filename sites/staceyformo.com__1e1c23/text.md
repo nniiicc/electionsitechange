@@ -1,6 +1,5 @@
-Stacey Hagen
-Missouri is in critical condition.
-I'm here to shock the system.
+top of page Stacey Hagen for MO House District 111 Donate Request a Yard Sign Home Ballot Guides About Info Support Contact Events More Use tab to navigate through the menu items.
+Stacey Hagen Missouri is in critical condition.​​ I'm here to shock the system.
 Hello, I'm Stacey Hagen.
 I'm asking for your vote for State Representative in MO House District 111 because we deserve better than we're getting from our Missouri lawmakers.
 I am not a politician.
@@ -14,10 +13,7 @@ Not make-believe problems designed to divide and distract us.
 MO politicians have us feeling like our voice, our vote, and our needs don't matter.
 That's wrong.
 I'm here to fill the people's house with the people's voice because your voice matters.
-Photo by Olive Juice Productions
-About Stacey Hagen
-Photo by Olive Juice Productions
-I was born in St.
+Photo by Olive Juice Productions About Stacey Hagen Photo by Olive Juice Productions I was born in St.
 Louis, MO.
 My family lived below the poverty line and moved around a lot during my childhood, but I lived in North County most of my life.
 I moved to Byrnes Mill, MO in 2012 and still live there with my husband and 2 very spoiled rescue dogs.
@@ -39,8 +35,7 @@ Being a nurse and an educator has taught me to solve problems efficiently, with 
 My desire to help others extends to my community.
 I have spent time as a volunteer in multiple roles.
 From trail building, fostering dogs, helping adaptive athletes challenge themselves, and organizing to stand up for the rights of Missourians, I understand the importance of putting the work in and filling the gaps were the needs exist.
-Missourians Deserve Better
-There are a lot of people in Missouri who are worried about where things are headed in our state.
+Donate Missourians Deserve Better There are a lot of people in Missouri who are worried about where things are headed in our state.
 Hospitals are closing, schools are shortening the school week, kids are going hungry, people are struggling to pay their bills and can't afford housing.
 All because of politicians who think their job is to parent us rather than represent us.
 Who has been running the Show Me State for the past 20 plus years?
@@ -48,8 +43,7 @@ It's time to invest in us.
 And that starts with a shift in leadership.
 It's madness to continue to do what we've been doing and expect change.
 The time to do something is now.
-Missouri's Backbone
-I want to be clear about something.
+Missouri's Backbone I want to be clear about something.
 What lifted me out of poverty was a good education.
 Hard work and quality education lead to citizens who thrive rather than struggling just to survive.
 A good education, hard work, and discipline allowed me to become the nurse leader I am today.
@@ -61,10 +55,8 @@ That all starts with funding our public schools.
 Public schools are the backbone of our towns.
 Every one of our children, regardless of where they live or their life circumstances deserves a quality education.
 Working families pay taxes so that their children, through hard work and dedication, have the same start in life no matter their zip code.
-Ask yourself, are the rich kids in MO asked to go to school 4 days a week?
-Our children deserve better.
-The American Dream
-I don’t have to tell you.
+Ask yourself, are the rich kids in MO asked to go to school 4 days a week? ​ Our children deserve better.
+The American Dream I don’t have to tell you.
 You already know.
 Life is expensive.
 And, it’s only getting worse.
@@ -75,20 +67,17 @@ Clothing costs more.
 Household goods cost more.
 As we walk through the store aisles or scroll those previously bought items on our phone, we see it with our own eyes.
 Prices on things we have been buying, our staple goods, they’re going up.
-Car parts, home repairs/projects, utilities, rent, they all cost more.
-The nurse in me can't ignore the impact rising costs have on people's health.
+Car parts, home repairs/projects, utilities, rent, they all cost more. ​ The nurse in me can't ignore the impact rising costs have on people's health.
 I saw firsthand what happens when people put off going to the doctor.
 Delays in care mean people get sicker, have worse outcomes, and higher costs.
 That affects all of us.
 Sick employees affect businesses.
-Sick family members can have financial consequences for the family, not to mention the emotional toll.
-The reality right now, for many people, is we are delaying our healthcare.
+Sick family members can have financial consequences for the family, not to mention the emotional toll. ​ The reality right now, for many people, is we are delaying our healthcare.
 I hear friends and family talk about not getting the recommended checkups they need because of rising costs.
 How many times have you put off going to the doctor because you can’t afford getting another bill in the mail?
 The rising cost of living, along with rising healthcare costs, have us prioritizing one need over another.
 Checkups are not a priority when you’re struggling to put food on the table.
-Getting a much needed prescription filled is much harder to do when you're watching the numbers on the gas pump tick higher and higher.
-And what are MO lawmakers doing about it?
+Getting a much needed prescription filled is much harder to do when you're watching the numbers on the gas pump tick higher and higher. ​ And what are MO lawmakers doing about it?
 What have they done to protect the hardworking people in this state who struggle every day to keep up with the burden of the high cost of living?
 They told us too bad.
 You want a liveable wage?
@@ -98,17 +87,13 @@ Last year, our MO lawmakers worked really hard to ensure people don’t earn a l
 Their policies are making us sicker.
 Then they had the audacity to use our tax dollars to make sure we can't have EARNED paid sick time.
 Ask yourself, who does this serve?
-Who is really running the Show Me State?
-The American Dream means prosperity for hard work.
+Who is really running the Show Me State? ​ The American Dream means prosperity for hard work.
 We are doing our part.
-How can we pull ourselves up by our bootstraps when we can’t earn enough to afford the damn boots.
-The government owes us the protection of our life, liberty, & the pursuit of happiness.
+How can we pull ourselves up by our bootstraps when we can’t earn enough to afford the damn boots.​ ​ The government owes us the protection of our life, liberty, & the pursuit of happiness.
 It's not a favor.
 It’s their damn job!
-MO lawmakers are robbing us of our liberty, our pursuit of happiness, and our freedom.
-We deserve better.
-Dark Money
-We have a big problem with dark money paying off our politicians in Missouri.
+MO lawmakers are robbing us of our liberty, our pursuit of happiness, and our freedom. ​ We deserve better.
+Dark Money We have a big problem with dark money paying off our politicians in Missouri.
 One example is our lawmakers accepting money from organizations funded by billionaires.
 Their main goal is to take money from our kids' public schools and give it to private & religious schools.
 One of those billionaire funded organizations paid a lot of money to remove the last Rep. in my district who supported public schools.
@@ -131,10 +116,7 @@ They're putting dark money first.
 They're putting billionaires first.
 And we are left to fend for ourselves.
 Our lawmakers should be looking out for OUR best interests.
-They are not.
-We deserve better.
-People Power
-Are you tired of Missouri politicians treating you like you need permission from them to live your life?
+They are not. ​ We deserve better. ​ ​ Read More People Power Are you tired of Missouri politicians treating you like you need permission from them to live your life?
 Are you tired of them using confusing language on the ballot so you vote the way they want you to rather than how you want to vote based on your values?
 One Missouri Rep. went as far as to liken us to teenagers who shouldn't be allowed access to the checking account.
 Excuse me.
@@ -145,10 +127,22 @@ We don't always agree on everything, but as patriotic Americans, we all can agre
 That's the reason I've spent the last year working in the community to safeguard the voice of the people.
 I worked with several organizations gathering signatures to prevent lawmakers from overturning our vote, trying to confuse us on the ballot, and to protect our state from gerrymandering, which should hold no place in a fair democracy.
 I have worked with thousands of volunteers to safeguard the power of the people.
-I will continue to uphold the voice of the people as state rep.
-Voters deserve better.
-It's time to demand better.
-Stand with Stacey
-This is a moment that calls on all of us to get more involved, disrupt the status quo, and bring real change to Missouri.
+I will continue to uphold the voice of the people as state rep. ​ Voters deserve better. ​ It's time to demand better.
+Stand with Stacey This is a moment that calls on all of us to get more involved, disrupt the status quo, and bring real change to Missouri.
 I am eager to put in the hard work out on the campaign trail, but I'm going to need your support along the way.
 Folks, help me introduce these crooked politicians to the "Find Out" phase.
+Donate Volunteer Contact Get in Touch with Stacey For inquiries or to learn more about Stacey's work, feel free to reach out using the form below.
+First name * Last name * Email * Phone Message Send This site paid for by The Committee to Elect Stacey Hagen, David Hagen, Treasurer.
+Events Click on flyer to view Jefferson County Growth Association Candidate Forum Speech Full Transparency © # by Hanna L.
+Kim.
+Powered and secured by Wix Just a reminder.
+I am not a politician.
+I haven’t been groomed to campaign for this seat.
+I’m just a regular person living in JeffCo who has had it with MO politicians.
+I may not say everything perfectly, but I’m going to show up in this campaign the way I wish the people who represent us would show up, as my authentic self.
+I’m a direct person.
+If you think I’m going to walk a line to earn a vote, you’re about to get your feelings hurt.
+I’m not interested in holding back.
+I’m not about the bullshit.
+The people of MO are pissed.
+I am too and I’m not here to play games. bottom of page

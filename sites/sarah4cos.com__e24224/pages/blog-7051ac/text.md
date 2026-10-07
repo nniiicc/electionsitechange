@@ -1,41 +1,9 @@
-top of page
-Home
-About
-Sarah's Why
-Endorsements
-Sarah's Social Media
-The Issues
-Public Education
-Data Centers and AI
-TABOR
-Cost of Living
-Veterans and Military Families
-Water, Power, and Infrastructure
-Public Safety
-Campaign Finance
-Immigration
-Government Accountability
-Get Involved
-HD14 Map
-Newsletter
-More
-Use tab to navigate through the menu items.
-DONATE
-Stay in the KNOW
-All Articles
-The 👩🏻⚖️Official🇺🇸 Announcement🎉
-Sarah4COS
-Jan 26
-The Final Push is Approaching
-Sarah4COS
-Sep 8
-We Need You!
-Sarah4COS
-Aug 31
-Endorsements are coming in!
-Sarah4COS
-Aug 21
-Colorado Challengers
-Sarah4COS
-Aug 12
-bottom of page
+top of page Home About Sarah's Why Endorsements Sarah's Social Media The Issues Public Education Data Centers and AI TABOR Cost of Living Veterans and Military Families Water, Power, and Infrastructure Public Safety Campaign Finance Immigration Government Accountability Get Involved HD14 Map Newsletter More Use tab to navigate through the menu items.
+DONATE Stay in the KNOW All Articles The 👩🏻‍⚖️Official🇺🇸 Announcement🎉 Sarah4COS Jan 26 The Final Push is Approaching Sarah4COS Sep 8 We Need You!
+Sarah4COS Aug 31 Endorsements are coming in!
+Sarah4COS Aug 21 Colorado Challengers Sarah4COS Aug 12 Help Even The ODDS EVERY DONATION COUNTS Turns out yard signs, business cards, and democracy all cost money.
+I’m showing up anyway and if you believe in doing the hard thing, I hope you’ll donate and help keep this campaign alive.
+DONATE Stay In The KNOW SUBSCRIBE TO OUR UPDATES * Enter your email here * First name * Last name * Yes, subscribe me to your updates.
+SUBSCRIBE I WANT TO GET INVOLVED Home About Me Get Involved Contact Paid for by the Committee to Elect Sarah Emery.
+Registered Agent: Sarah Emery.
+REACH ME For more information: info@sarah4cos.com (719) 203-1143 ​ bottom of page

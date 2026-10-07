@@ -1,6 +1,4 @@
-STATEMENT ON LABOR
-2022
-‘An injury to one is an injury to all’.
+0 Skip to Content About Platform Issues Statement on Labor Endorsements Volunteer Contact Donate Open Menu Close Menu Open Menu Close Menu About Platform Issues Statement on Labor Endorsements Volunteer Contact Donate About Folder: Platform Back Issues Statement on Labor Endorsements Volunteer Contact Donate STATEMENT ON LABOR 2022 ‘An injury to one is an injury to all’.
 That’s the motto from the Industrial Workers of the World, founded in 1905, and has become prevalent once again for millennial and Generation Z workers.
 This motto must guide the labor movement as it confronts LGBTQIA discrimination at the workplace and within the broader political sphere.
 In a recent YPULSE survey, up to 20 percent of millennials identify as LGBTQIA.
@@ -24,4 +22,4 @@ I’m running because I want every Minnesotan to have a living wage, good benefi
 I want to workers to become empowered and bring democracy to their jobs and to their communities.
 I am a candidate who believes an injury to one is an injury to all, and worker solidarity must go beyond the workplace.
 It must go to the State Capitol and it must be for all workers.
-Please join with my campaign and together we can build an intersectional unionism to protect LGBTQIA workers in the twenty first century.
+Please join with my campaign and together we can build an intersectional unionism to protect LGBTQIA workers in the twenty first century. don’t miss a thing Sign up to receive news and updates about Leigh for 66A. prepared and paid for by Leigh Finke for Minnesota PO Box 40206, Saint Paul, MN 55104 leighformn@gmail.com

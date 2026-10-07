@@ -1,19 +1,16 @@
-por Peter Abbarno | Jun 29, 2026 | Elegir a Peter Abbarno
-En la Cámara de Comercio de Centralia-Chehalis, por el diputado Peter Abbarno En el condado de Lewis, nuestros bosques son mucho más que un simple paisaje.
+Familias más fuertes.
+Comunidades más fuertes.
+Un Washington más fuerte Sobre Peter Cuestiones Artículos de interés LEGISLATURE VOTER INFO Blog de Peter DONATE Seguir Seguir Seguir Mantengamos los bosques en funcionamiento por el bien del condado de Lewis por Peter Abbarno | Jun 29, 2026 | Elegir a Peter Abbarno En la Cámara de Comercio de Centralia-Chehalis, por el diputado Peter Abbarno En el condado de Lewis, nuestros bosques son mucho más que un simple paisaje.
 Son la piedra angular de nuestra economía, una fuente de empleos con un sueldo que permite mantener a una...
-por Peter Abbarno | Jun 25, 2026 | Elegir a Peter Abbarno
-La puesta en servicio de la nueva subestación del Distrito de Servicios Públicos del Condado de Lewis, cerca de Winlock, es más que un hito para el sur del condado de Lewis.
+Una infraestructura energética fiable impulsa el futuro de Washington por Peter Abbarno | Jun 25, 2026 | Elegir a Peter Abbarno La puesta en servicio de la nueva subestación del Distrito de Servicios Públicos del Condado de Lewis, cerca de Winlock, es más que un hito para el sur del condado de Lewis.
 Es un ejemplo del tipo de inversiones en infraestructuras a largo plazo que Washington debe...
-por Peter Abbarno | Jun 25, 2026 | Elegir a Peter Abbarno
-Una de las responsabilidades más importantes de un cargo electo es unir a la gente para resolver problemas.
+Abbarno recibe un amplio abanico de apoyos para su reelección por Peter Abbarno | Jun 25, 2026 | Elegir a Peter Abbarno Una de las responsabilidades más importantes de un cargo electo es unir a la gente para resolver problemas.
 En el clima político tan polarizado de hoy en día, eso puede resultar difícil.
 Con demasiada frecuencia, los debates sobre políticas públicas se plantean como...
-por Peter Abbarno | Jun 11, 2026 | Elegir a Peter Abbarno
-Junio es el Mes de la Concienciación sobre el TEPT, un momento para reconocer el impacto del trastorno por estrés postraumático (TEPT), apoyar a las personas afectadas y fomentar el acceso al tratamiento y la recuperación.
+Mes de concienciación sobre el TEPT: reconocer las heridas invisibles por Peter Abbarno | Jun 11, 2026 | Elegir a Peter Abbarno Junio es el Mes de la Concienciación sobre el TEPT, un momento para reconocer el impacto del trastorno por estrés postraumático (TEPT), apoyar a las personas afectadas y fomentar el acceso al tratamiento y la recuperación.
 Como abogado de Althauser Rayan Abbarno y...
-por Peter Abbarno | Jun 4, 2026 | Elegir a Peter Abbarno
-Junio es un mes especial para las familias.
+Peter Abbarno Regala lectura en el Día del Padre por Peter Abbarno | Jun 4, 2026 | Elegir a Peter Abbarno Junio es un mes especial para las familias.
 Al celebrar el Día del Padre y reconocer el papel que desempeñan los padres, abuelos, padrastros y modelos masculinos positivos en la formación de la próxima generación, también es un recordatorio importante de una de las...
-por Peter Abbarno | May 16, 2026 | Elegir a Peter Abbarno
-Durante años, el representante estatal Peter Abbarno ha apoyado con orgullo a los atletas y familias de las Olimpiadas Especiales del condado de Lewis y de todo el estado de Washington.
-Ya sea participando en la Carrera de la Antorcha de las Fuerzas de Seguridad,...
+Carrera de la Antorcha de las Fuerzas de Seguridad por los Juegos Olímpicos Especiales por Peter Abbarno | May 16, 2026 | Elegir a Peter Abbarno Durante años, el representante estatal Peter Abbarno ha apoyado con orgullo a los atletas y familias de las Olimpiadas Especiales del condado de Lewis y de todo el estado de Washington.
+Ya sea participando en la Carrera de la Antorcha de las Fuerzas de Seguridad,... « Entradas más antiguas Mantente al día de las últimas noticias de Olimpia.
+Recibe el boletín de Peter Pagado por el comité para la elección de Peter Abbarno | Diseñado por The Silver Agency English ( Inglés ) Español

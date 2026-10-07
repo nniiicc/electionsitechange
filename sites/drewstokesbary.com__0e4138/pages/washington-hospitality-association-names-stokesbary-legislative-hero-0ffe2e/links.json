@@ -1,20 +1,82 @@
 [
-"https://drewstokesbary.com/",
-"https://drewstokesbary.com/blog",
-"https://drewstokesbary.com/category/awards",
-"https://drewstokesbary.com/category/endorsements",
-"https://drewstokesbary.com/category/in-the-news",
-"https://drewstokesbary.com/donate",
-"https://drewstokesbary.com/endorsed-stand-for-children",
-"https://drewstokesbary.com/endorsements",
-"https://drewstokesbary.com/get-involved",
-"https://drewstokesbary.com/issues",
-"https://drewstokesbary.com/meet-drew",
-"https://drewstokesbary.com/privacy-policy",
-"https://drewstokesbary.com/rep-stokesbary-updates-city-of-sumner-on-state-issues",
-"https://drewstokesbary.com/tri-city-herald-agrees-rep-stokesbary",
-"https://facebook.com/drewstokesbary",
-"https://twitter.com/stokesbary",
-"https://wahospitality.org/",
-"https://wahospitality.org/blog/association-applauds-2020-legislative-heroes"
+{
+"text": "About",
+"href": "https://drewstokesbary.com/meet-drew/"
+},
+{
+"text": "Awards",
+"href": "https://drewstokesbary.com/category/awards/"
+},
+{
+"text": "Blog",
+"href": "https://drewstokesbary.com/blog/"
+},
+{
+"text": "Donate",
+"href": "https://drewstokesbary.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://drewstokesbary.com/category/endorsements/"
+},
+{
+"text": "Endorsements",
+"href": "https://drewstokesbary.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://drewstokesbary.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://drewstokesbary.com/"
+},
+{
+"text": "In the News",
+"href": "https://drewstokesbary.com/category/in-the-news/"
+},
+{
+"text": "Issues",
+"href": "https://drewstokesbary.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://drewstokesbary.com/privacy-policy"
+},
+{
+"text": "Washington Hospitality Association",
+"href": "https://wahospitality.org"
+},
+{
+"text": "[image: Stokesbary Logo]",
+"href": "https://drewstokesbary.com/"
+},
+{
+"text": "[image: Washington Hospitality Association Logo]",
+"href": "https://wahospitality.org"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/endorsed-wsp-troopers/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/lawmakers-concerned-about-auditor-probe/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/stokesbary-launches-campaign-for-31st-district-state-representative/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/drewstokesbary"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/stokesbary"
+},
+{
+"text": "selected as a “2020 Legislative Hero” by the Washington Hospitality Association,",
+"href": "https://wahospitality.org/blog/association-applauds-2020-legislative-heroes/"
+}
 ]

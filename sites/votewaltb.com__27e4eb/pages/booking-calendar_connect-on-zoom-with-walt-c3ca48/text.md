@@ -1,19 +1,3 @@
-HOME
-WALT'S STORY
-WALT'S VISION FOR ARIZONA
-WALT'S POLICIES & ISSUES
-ENDORSEMENTS
-WALT'S VOTING RECORD
-PROJECTS
-AZ GOP Links
-JLBC Budget
-Walt's Legistrative Summary
-BOOK ONLINE
-WALT'S PODCAST
-WALT'S BLOG
-CONTACT WALT
-Blog
-Events
-More
-Zoom with Walt
-Check out our availability and book the date and time that works for you
+top of page DONATE HERE!
+HOME WALT'S STORY WALT'S VISION FOR ARIZONA WALT'S POLICIES & ISSUES BORDER SECURITY ENDORSEMENTS WALT'S VOTING RECORD PROJECTS AZ GOP Links JLBC Budget Walt's Legistrative Summary BOOK ONLINE WALT'S PODCAST WALT'S BLOG LD7 NewsLetter CONTACT WALT Privacy Disclaimer Blog Events More Use tab to navigate through the menu items.
+WALT BLACKMAN REPIBLICAN FOR ARZONIA Please Sign My Pettion Schedule your service Zoom with Walt Check out our availability and book the date and time that works for you GET INVOLVED: INFO@WALTBFORLD7.COM PAID FOR BY BLACKMAN.VOTE PRIVACY POLICY FUNDED BY THE COMMITTEE SUPPORTING WALT BLACKMAN'S CANDIDACY. bottom of page

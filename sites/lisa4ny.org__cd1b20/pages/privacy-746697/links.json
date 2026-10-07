@@ -1,7 +1,26 @@
 [
-"https://facebook.com/LisaKaul4NY",
-"https://instagram.com/lisakaul4ny",
-"https://lisa4ny.org/",
-"https://lisa4ny.org/press-kit",
-"https://lisa4ny.org/privacy"
+{
+"text": "Press Kit",
+"href": "https://www.lisa4ny.org/press-kit"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lisa4ny.org/privacy"
+},
+{
+"text": "[image: Lisa Kaul Campaign Logo][image: Lisa Kaul Campaign Logo]",
+"href": "https://www.lisa4ny.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LisaKaul4NY/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lisakaul4ny/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@lisa4ny.org"
+}
 ]

@@ -1,11 +1,6 @@
-Back to All Events
-Juneteenth is a powerful celebration of freedom, resilience, and the rich history of our community.
+0 Skip to Content About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Back Donate Back to All Events Battle Creek Juneteenth Celebration Saturday, June 20, 2026 10:00 AM 5:00 PM Claude Evans Park 320 North Washington Avenue Battle Creek, Michigan, 49037 United States (map) Google Calendar ICS Juneteenth is a powerful celebration of freedom, resilience, and the rich history of our community.
 Battle Creek has a deep legacy of standing up for human dignity—from our roots on the Underground Railroad to the generations of advocates who shape our city today.
 Anthony is thrilled to join neighbors, local families, and organizers for the annual Juneteenth Family Day celebration at Claude Evans Park, and he wants you there celebrating alongside him!
-Previous
-Previous
-June 17
-Kalamazoo County Democratic Party Monthly Meeting
-Next
-Next
-July 17
+Previous Previous June 17 Kalamazoo County Democratic Party Monthly Meeting Next Next July 17 Battle Creek Pride Parade Follow the Campaign BlueSky Donate by Mail P.O.
+Box 61 Battle Creek, MI 49016 info@ pennock4misenate.com This website is created. paid for, and managed by the Committee to Elect Anthony Pennock State Senator, P.O.
+Box 61, Battle Creek, MI 49016

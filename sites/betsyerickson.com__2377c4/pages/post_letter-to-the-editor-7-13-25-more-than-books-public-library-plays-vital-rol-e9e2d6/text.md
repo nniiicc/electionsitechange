@@ -1,6 +1,5 @@
-Letter to the Editor 7/13/25: More than books: Public library plays vital role in community life
-Dear Casper,
-I am writing to you today in support of libraries.
+top of page Erickson for House District 37 Home About Why I am Running Endorsements Blog JOIN THE MOVEMENT More Use tab to navigate through the menu items.
+Donate All Posts Search Letter to the Editor 7/13/25: More than books: Public library plays vital role in community life ericksonforhd37 Feb 11 3 min read Dear Casper, I am writing to you today in support of libraries.
 Specifically, I am writing in support of public libraries.
 As a bibliophile it is easy to look at a library and only see the books.
 The library is a portal into multiple worlds, perspectives, and vast vocabularies and languages.
@@ -50,8 +49,7 @@ Now I say to all the bibliophobes, perhaps your life would be more satisfying if
 Utilize all that this social structure has to offer.
 There are skills, programs, and yes, books to discover.
 Perhaps opening a book will help open your mind and your heart as well.
-Writing in solidarity for a better Wyoming future,
-Betsy Erickson
-Casper
-P.S.
+Writing in solidarity for a better Wyoming future, Betsy Erickson Casper P.S.
 It is not lost on me that the first draft of this letter was written in the notebook I received from the library when I completed the first leg of the summer reading challenge.
+Oil City News Recent Posts See All Wyoming’s ‘old man’ government isn’t just a myth (3/15/2026) Rep.
+Harriet Hageman Bill Targets Wyoming Public Lands (5/31/2026) Letter to the Editor 6/29/2025: Wyoming’s school voucher law is unconstitutional Erickson for House District 37 ericksonforhd37@yahoo.com PO Box 452 Casper Wy 82602 Wyoming, USA Paid for by Erickson for HD 37 bottom of page

@@ -1,4 +1,5 @@
-As a 21-year-old Texan, I know firsthand the challenges young people face when entering the workforce.
+Donate Today To Support Change In TX HD-20!
+Home Donate About Candidate Bio About TX HD-20 Contact Issues Affordable Healthcare Education Investment Workforce Development Take Action Endorsements Voter Info Press More Home Donate About Candidate Bio About TX HD-20 Contact Issues Affordable Healthcare Education Investment Workforce Development Take Action Endorsements Voter Info Press Home Donate About Candidate Bio About TX HD-20 Contact Issues Affordable Healthcare Education Investment Workforce Development Take Action Endorsements Voter Info Press Job Training Today for Tomorrow's Leaders As a 21-year-old Texan, I know firsthand the challenges young people face when entering the workforce.
 Too many young Texans are stuck with low wages, limited benefits, and few opportunities to advance.
 The promise of the American Dream feels out of reach for so many of us, and that’s unacceptable.
 We need workforce development policies that create good-paying, entry-level jobs and give young Texans the tools they need to thrive.
@@ -8,10 +9,7 @@ We also need to incentivize industries to partner with schools and colleges to e
 Every young Texan deserves the chance to earn a living wage and start building a future.
 By prioritizing workforce development, we can create an economy that works for everyone, not just the wealthy few.
 Together, we can make Texas a place where young people don’t just survive, but thrive.
-Sign up for our newsletter and join our campaign as we fight for positive change.
-Vote Matthias Early
-PO Box 2209, Georgetown, TX 78627
-Pol.
+Join Our Movement Sign up for our newsletter and join our campaign as we fight for positive change.
+Subscribe Together, we can build an economy that works for everyone.
+More Issues Affordable Healthcare Education Investment Donate Candidate Bio Contact Take Action Endorsements Voter Info Press Vote Matthias Early PO Box 2209, Georgetown, TX 78627 Pol.
 Ad Paid For By Matthias Early for Texas HD 20
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.

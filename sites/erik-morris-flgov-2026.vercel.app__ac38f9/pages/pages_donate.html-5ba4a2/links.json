@@ -1,5 +1,14 @@
 [
-"https://erik-morris-flgov-2026.vercel.app/pages/ama.html",
-"https://erik-morris-flgov-2026.vercel.app/pages/platform.html",
-"https://erik-morris-flgov-2026.vercel.app/pages/volunteer.html"
+{
+"text": "Ask Erik Anything",
+"href": "https://erik-morris-flgov-2026.vercel.app/pages/ama.html"
+},
+{
+"text": "Sign Up to Volunteer",
+"href": "https://erik-morris-flgov-2026.vercel.app/pages/volunteer.html"
+},
+{
+"text": "← Back to Platform",
+"href": "https://erik-morris-flgov-2026.vercel.app/pages/platform.html"
+}
 ]

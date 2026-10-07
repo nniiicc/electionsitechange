@@ -1,19 +1,10 @@
-Common Sense for North Carolina
-Lower Costs
-Stronger Voice
-|
-Lynne Russo for NC House District 117
-Fighting for Western North Carolina's recovery after Hurricane Helene while lowering costs for families, strengthening public schools, and ensuring mountain communities have a stronger voice in Raleigh.
-Please watch the video for more on her plan to fight for WNC.
+0 Skip to Content Home Priorities Cost of Living Plan Rebuild WNC Activities & Events Meet Lynne About Values Get Involved Volunteer Newsletter Host a Coffee Talk Host an Event Voter Registration News Donate Open Menu Close Menu Home Priorities Cost of Living Plan Rebuild WNC Activities & Events Meet Lynne About Values Get Involved Volunteer Newsletter Host a Coffee Talk Host an Event Voter Registration News Donate Open Menu Close Menu Home Priorities Cost of Living Plan Rebuild WNC Activities & Events Folder: Meet Lynne Back About Values Folder: Get Involved Back Volunteer Newsletter Host a Coffee Talk Host an Event Voter Registration News Donate Common Sense for North Carolina Lower Costs Stronger Voice | Lynne Russo for NC House District 117 Fighting for Western North Carolina's recovery after Hurricane Helene while lowering costs for families, strengthening public schools, and ensuring mountain communities have a stronger voice in Raleigh.
+Donate Today EVEnts Priorities Please watch the video for more on her plan to fight for WNC.
 Lynne Russo is a WNC advocate and small business owner dedicated to helping Western North Carolina recover, grow, and thrive.
 As your state representative, she’ll take on the real issues facing Western North Carolina, and bring real solutions to the table.
-Priorities
-- Hurricane Helene Recovery
-Accelerate recovery efforts, rebuild infrastructure, support small businesses, and ensure Western North Carolina receives the resources it needs to fully recover.
-- Invest in Public Schools
-Support teachers, strengthen public schools, and ensure every child has access to the education they deserve.
-- Lower Costs for Families
-Fight for practical solutions that make healthcare, housing, groceries, and everyday necessities more affordable.
-- Your Community.
+An Evening with NC Supreme Court Justice Allison Riggs Benefiting Lynne Russo for NC House, District 117 and Mary Ellen Kustin for Henderson County Board of Education Friday, October 9 | 6:00 to 8:00 PM Get Tickets Priorities Hurricane Helene Recovery Accelerate recovery efforts, rebuild infrastructure, support small businesses, and ensure Western North Carolina receives the resources it needs to fully recover.
+Invest in Public Schools Support teachers, strengthen public schools, and ensure every child has access to the education they deserve.
+Lower Costs for Families Fight for practical solutions that make healthcare, housing, groceries, and everyday necessities more affordable.
+Your Community.
 Your Call.
-Protect local decision-making, listen to the people most affected by policy decisions, and ensure communities have a real voice in shaping their future.
+Protect local decision-making, listen to the people most affected by policy decisions, and ensure communities have a real voice in shaping their future. “ I'm running to ensure every family in Henderson County and Western North Carolina , that’s our teachers, farmers, veterans, and students have the tools they need to thrive, and not just survive.” Get Involved Donate Today EVEnts Newsletter Sign Up Host A Coffee Talk Volunteer DONATE VOLUNTEER contact@lynnerussofornc.com Friends of Lynne Russo | PO Box 92, Horse Shoe, NC 28742 PRIVACY POLICY Paid for by Friends of Lynne Russo

@@ -1,19 +1,20 @@
-PRESS RELEASE
-California Farm Bureau Endorses Adam Gray for Re-Election in CA-13
-MERCED, CA – Today, Congressman Adam Gray announced receiving the endorsement of the California Farm Bureau in his re-election campaign for California’s 13th Congressional District.
+Skip navigation menu About News Take Action Issues Contact Media Donate About News Take Action Issues Contact Media Donate PRESS RELEASE ICYMI, Sacramento Bee: Adam Gray Discusses immigration, Socialism and Trump.
+PRESS RELEASE ADAM GRAY SECURES ENDORSEMENT FROM CALIFORNIA FRATERNAL ORDER OF POLICE PRESS RELEASE Modesto Police Officers' Association Endorses Congressman Adam Gray for Re-Election Op-ED, The Washington Post Rep.
+Gray's Op-Ed: My Purple District Can Tell You What The Democratic Autopsy Left Out PRESS RELEASE Adam Gray Issues Statement on CA-13 Primary Election Results PRESS RELEASE Central Valley Local Leaders Endorse Adam Gray's Re-Election PRESS RELEASE Central Valley Mayors Endorse Adam Gray's Re-Election PRESS RELEASE California Farm Bureau Endorses Adam Gray for Re-Election in CA-13 NEWS ARTICLE, TURLOCK JOURNAL Gray Earns Key Endorsement From California Farm Bureau NEWS ARTICLE, your central valley Congressman Gray says he would not vote to support Iran War, discusses reelection NEWS ARTICLE: Turlock Journal Gray officially kicks off re-election campaign for CA-13 NEWS ARTICLE, KCRA 3 Congressman Adam Gray announces re-election for competitive Central Valley seat PRESS RELEASE Rep.
+Adam Gray Launches Re-Election Campaign in California’s 13th Congressional District NEWS ARTICLE: Turlock Journal Gray helps Farm Bill move along NEWS ARTICLE: Fresno Bee State of the Union guest list included Madera Republican.
+Why did a Democrat invite him?
+NEWS ARTICLE: ABC 30 Valley Congressman proposes new bipartisan effort to crack down on fentanyl crisis NEWS ARTICLE: SACRAMENTO BEE Central Valley congressman caught in the middle in a bitterly divided Washington NEWS ARTICLE: Turlock Journal Gray brings growers to the table, hears big concerns NEWS ARTICLE: Turlock Journal Congressman Gray talks Trump, tariffs and immigration NEWS ARTICLE Congressman Gray introduces Valley Water Protection Act NEWS ARTICLE: Turlock Journal Congressman Gray suits up with the Blue Devils OP-ED BY ADAM GRAY: FResno Bee Adam Gray: Farmers are the ones taking the bullets in Trump’s on-again, off-again trade wars NEWS ARTICLE: Fresno Bee Editorial House Democrat Adam Gray of Merced is ready to solve problems.
+The GOP, not so much NEWS ARTICLE: CNN State of the Union What four freshman members hope to accomplish in the narrowly divided House Apr 24 2026 PRESS RELEASE California Farm Bureau Endorses Adam Gray for Re-Election in CA-13 MERCED, CA – Today, Congressman Adam Gray announced receiving the endorsement of the California Farm Bureau in his re-election campaign for California’s 13th Congressional District.
 The California Farm Bureau is the state’s leading voice in the agricultural sector and a champion for farmers and ranchers across the Central Valley.
 The California Farm Bureau’s President, Shannon Douglass, said, “No one works harder to deliver for Central Valley families than Adam Gray.
-When results matter, Adam is the one who puts politics aside and makes sure that farmers and ranchers benefit from the decisions happening in Washington, D.C.”
-“I’m proud to represent one of the world’s largest agricultural regions – a community made up of farmers, ranchers, dairymen, and their families,” said Rep.
-Adam Gray.
+When results matter, Adam is the one who puts politics aside and makes sure that farmers and ranchers benefit from the decisions happening in Washington, D.C.” “I’m proud to represent one of the world’s largest agricultural regions – a community made up of farmers, ranchers, dairymen, and their families,” said Rep.
+Adam Gray .
 “These are the hardworking people who feed our country, and yet too often are treated as an afterthought in Washington.
-I’m working to make sure their voices are heard, and I’m grateful to have the support and partnership of the California Farm Bureau as I continue to work for the Valley.”
-“Making sure our farmers can succeed and get ahead is personal for me.
+I’m working to make sure their voices are heard, and I’m grateful to have the support and partnership of the California Farm Bureau as I continue to work for the Valley.” “Making sure our farmers can succeed and get ahead is personal for me.
 I was raised working in my family's dairy supply business; I built a record working across the aisle to deliver real wins for our agricultural community, from water access to funding farming technology.
-I’m proud to have led on a number of bipartisan bills that strengthen our farms and ensure farmers have the resources, support, and certainty they need to continue feeding the country.”
-Gray has been a leading voice for agricultural workers in Congress.
+I’m proud to have led on a number of bipartisan bills that strengthen our farms and ensure farmers have the resources, support, and certainty they need to continue feeding the country.” Gray has been a leading voice for agricultural workers in Congress.
 He recently was one of seven Democrats to advance the bipartisan “Farm Bill” (The Farm, Food, and National Security Act of 2026) through the House Agriculture Committee.
 He has been working to ensure fair market value of livestock for ranchers, cut red tape around access to water, push back against reckless tariffs that hurt agricultural trade partners, and authorize new projects to expand water infrastructure across the Central Valley.
 Gray also reintroduced the DIGNITY Act, a comprehensive immigration reform bill that provides a pathway to citizenship for Dreamers, grants targeted protection to specific undocumented immigrants already living in the U.S., invests in border security infrastructure, mandates accountability from ICE, and overhauls our visa and asylum systems to relieve the backlog.
-To learn more about Gray, his agenda, and the accomplishments he has brought to the region, visit AdamGrayForCongress.com.
-###
+To learn more about Gray, his agenda, and the accomplishments he has brought to the region, visit AdamGrayForCongress.com .
+### info@AdamGrayforCongress.com If donating by mail, make checks payable to: Adam Gray for Congress | PO Box 1229 Merced, CA 95341 Privacy Policy Press Inquires: press@adamGrayforCongress.com Put your “paid for” disclaimer here You need to enable JavaScript to run this app.

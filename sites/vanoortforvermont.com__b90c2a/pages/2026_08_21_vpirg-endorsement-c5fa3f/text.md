@@ -1,2 +1,5 @@
-I've received my first endorsement!
+Skip to content Jessica Van Oort for State Representative Home Get Involved About Events Updates Home Get Involved About Events Updates VPIRG endorsement I've received my first endorsement!
 VPIRG Votes endorses candidates who "have demonstrated a commitment to putting people ahead of powerful special interests and protecting Vermont’s consumers, environment, democracy, and locally based economy." I've pledged not to take any corporate or PAC money, and my values are right in line with those of VPIRG so I'm proud to receive their endorsement.
+Tagged updates One Response James Bruner says: September 29, 2026 at 10:43 am I think it is wonderful and impressive that Jessica has been endorsed by the Vermont Public Interest Research Group.
+Reply Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Jessica Van Oort for State Representative Home Get Involved About Events Updates © # All Rights Reserved

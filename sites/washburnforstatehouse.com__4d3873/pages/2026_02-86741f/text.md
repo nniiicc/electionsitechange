@@ -1,13 +1,10 @@
-by Dale Washburn | Feb 23, 2026 | News
-The Georgia House of Representatives reconvened on Tuesday, February 17, 2026, to begin the sixth week of the legislative session following the President’s Day holiday.
+888.888.8888 name@email.com Facebook Instagram Facebook Instagram MEET DALE PRIORITIES Public Office NEWS Contact Sign Up for Capitol Updates Select Page Week 6 Legislative Session Recap 2026 by Dale Washburn | Feb 23, 2026 | News The Georgia House of Representatives reconvened on Tuesday, February 17, 2026, to begin the sixth week of the legislative session following the President’s Day holiday.
 This week marked an important milestone in our work under the Gold Dome.
 By the end of the week, we...
-by Dale Washburn | Feb 17, 2026 | News
-On Monday, February 9, we returned to the State Capitol to kick off the fifth week of the legislative session.
+Week 5 Legislative Session Recap 2026 by Dale Washburn | Feb 17, 2026 | News On Monday, February 9, we returned to the State Capitol to kick off the fifth week of the legislative session.
 We passed and adopted a total of 23 bills and resolutions.
 As the legislative session continues, our days on the House floor will get busier and longer as we...
-by Dale Washburn | Feb 10, 2026 | News
-The Georgia House of Representatives returned to the Gold Dome on Monday, February 2, 2026, for Legislative Day 10 as the General Assembly entered a busy fourth week of legislative activity.
+Week 4 Legislative Session Recap 2026 by Dale Washburn | Feb 10, 2026 | News The Georgia House of Representatives returned to the Gold Dome on Monday, February 2, 2026, for Legislative Day 10 as the General Assembly entered a busy fourth week of legislative activity.
 Now more than a quarter of the way through the session, momentum continues to...
-by Dale Washburn | Feb 2, 2026 | News
-Following “budget week,” the Georgia House of Representatives began the third week of the 2026 legislative session on Monday, January 26, with a pro forma session due to Governor Brian Kemp’s State of Emergency declaration after Winter Storm Fern swept across much of...
+Week 3 Legislative Session Recap 2026 by Dale Washburn | Feb 2, 2026 | News Following “budget week,” the Georgia House of Representatives began the third week of the 2026 legislative session on Monday, January 26, with a pro forma session due to Governor Brian Kemp’s State of Emergency declaration after Winter Storm Fern swept across much of...
+Search for: Recent Posts Week 12 Legislative Session Recap 2026 Week 11 Legislative Session Recap 2026 Week 10 Legislative Session Recap 2026 Week 9 Legislative Session Recap 2026 Week 8 Legislative Session Recap 2026 Recent Comments Archives April 2026 March 2026 February 2026 January 2026 April 2025 March 2025 February 2025 January 2025 December 2024 April 2024 March 2024 February 2024 January 2024 April 2023 March 2023 February 2023 January 2023 April 2022 March 2022 February 2022 January 2022 March 2020 February 2020 March 2019 February 2019 January 2019 Categories News Uncategorized Meta Log in Entries feed Comments feed WordPress.org Facebook Instagram © # Dale Washburn for State House | Website by Pipeline Social Media

@@ -1,4 +1,14 @@
 [
-"https://marko4nh.org/llms.txt",
-"https://secure.actblue.com/donate/marko4nh"
+{
+"text": "Donate via ActBlue",
+"href": "https://secure.actblue.com/donate/marko4nh"
+},
+{
+"text": "Machine-readable campaign summary",
+"href": "https://marko4nh.org/llms.txt"
+},
+{
+"text": "hello@marko4nh.org",
+"href": "mailto:hello@marko4nh.org"
+}
 ]

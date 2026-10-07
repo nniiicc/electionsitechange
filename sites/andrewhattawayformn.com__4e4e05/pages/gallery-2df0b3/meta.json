@@ -1,7 +1,9 @@
 {
  "description": "Explore the Andrew Hattaway Gallery showcasing community events and political art that inspires a better tomorrow.",
  "final_url": "https://andrewhattawayformn.com/gallery",
- "paid_for_by": "paid for by Andrew Hattaway for MN | P",
+ "fingerprint": "c17ded259a8318b60ee9e4cdebc4fe69f99caf55",
+ "format": 3,
+ "paid_for_by": "paid for by Andrew Hattaway for MN",
  "title": "Andrew Hattaway Gallery - Community Events &amp; Politics",
  "years_mentioned": []
 }

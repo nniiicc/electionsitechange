@@ -1,3 +1,5 @@
+Content on this page requires a newer version of Adobe Flash Player.
+Home Meet Frank Committee Assignments 4 Way Test Priorities Endorsements Contact District Map Content on this page requires a newer version of Adobe Flash Player.
 I believe local taxpayers should be empowered and not over taxed.
 As your Senator, I have been a defender of local taxpayers against an endless stream of state regulations.
 With my experience as a problem solver I will continue to look for innovative ways to help our state and local governments run with greater efficiency.
@@ -6,3 +8,4 @@ It is a great honor and pleasure for me to win your support and serve as the new
 Thank you for your support!
 Please let me know your concerns and issues so that I can best represent you at our State Capitol.
 I look forward to hearing from you soon.
+Sign up for email updates Name : Email Address : Paid for by Friends of Frank Ginn Home | About Frank | Committee Assignments | 4 Way Test | Priorities | Endorsements | Contact | District Map Join © # FrankGinn.com

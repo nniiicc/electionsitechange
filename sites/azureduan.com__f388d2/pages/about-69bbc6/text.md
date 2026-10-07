@@ -1,10 +1,9 @@
-ABOUT AZURE DUAN
-When Azure Duan first came to America as a young student, she had nothing but determination and a dream.
+top of page DONATE NOW TO SEND AZURE TO THE STATE HOUSE HOME ABOUT ISSUES JOIN DONATE ABOUT AZURE DUAN When Azure Duan first came to America as a young student, she had nothing but determination and a dream.
 She arrived from China on an F-1 student visa, enrolled at Minnesota State University in Mankato as an undergrad, and quickly discovered how she could live out her very own American dream.
 She worked hard, often taking on a full course load earning her masters degree and a full-time job in IT, to build a life here.
 While working, she earned her green card, proving that through hard work and doing things the right way, the American Dream is still possible.
 Along the way, a professor who encouraged her during a tough season told her: “Young lady, I believe someday you will become a great citizen.” That moment planted a seed in her heart — a belief in what America stands for and a commitment to give back.
-Nearly 15 years ago, Azure moved to Johns Creek, Georgia, to be near family.
+Nearly #ago, Azure moved to Johns Creek, Georgia, to be near family.
 Following in the footsteps of her father, a respected physician in China, she pursued her true passion: helping people live healthier lives.
 She earned a Ph.D. in integrative medicine and founded Harmony Acupuncture & TCM, a small business serving neighbors across North Fulton.
 Azure’s leadership extends far beyond her practice.
@@ -13,3 +12,4 @@ She has also been a member of the Arts, Culture, & Entertainment Committee for J
 During a time when police officers across America were under attack, Azure rallied support for the Johns Creek Police Department, raising money to show her community stood behind their heroes in uniform.
 Azure and her husband, Max Tian, met at the University of Minnesota.
 They live in Johns Creek with their two children, Erica and Calvin.
+DONATE PRIVACY POLICY TERMS & CONDITIONS CONTACT PAID FOR BY AZURE DUAN FOR STATE HOUSE bottom of page 💬 ✕

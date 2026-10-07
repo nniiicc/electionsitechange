@@ -1,7 +1,9 @@
 {
  "description": "The PACT Act, or the \"Promise to Address Comprehensive Toxics Act,\" was enacted to expand healthcare and benefits for veterans.",
  "final_url": "https://prisforcongress.com/pact-act/",
- "paid_for_by": null,
+ "fingerprint": "6f29370c49a676e2b6c2f2db875cd642eacd6193",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Supporting the PACT Act: Funding and Awareness Initiatives",
  "years_mentioned": [
   "2022"

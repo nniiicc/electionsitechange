@@ -1,29 +1,14 @@
-Category Archives: Bills
-2025 Budget (HB1 & HB2) Passed
-At first we failed to pass HB1, requiring us to table HB2, then had to pass a continuing resolution (CR) to keep the government operational for 6 months.
+Tom Mannion for New Hampshire Search Primary Menu Skip to content Bills Roll Calls Hearing Alert Testimonies Bills Passed On The Issues Lockdowns/Health Mandates Taxation Firearms Crypto Energy Education Marijuana Surveys & Interviews Endorsements About Me Donate Search for: Category Archives: Bills Hearing Alert Hearing Alert – HB104 Defend the Guard Image February 10, 2026 Tom Mannion Leave a comment 10th Amendment Defend the Guard Nullification Bill Passed 2025 Budget (HB1 & HB2) Passed June 27, 2025 Tom Mannion Leave a comment At first we failed to pass HB1, requiring us to table HB2, then had to pass a continuing resolution (CR) to keep the government operational for 6 months.
 Had that been our final path, the budget would be a Senate + House Democrat written budget, since it became obvious that a small faction of the Republican Party could not be reasoned with.
 While the debate for the CR occurred, several members were whipped to flip their vote, one of those members negotiated with House leadership to address a big ask he made made for the budget since day 1, and will now have the backing of the Majority Office behind his cause (talk about negotiation skills!) I also intend to work with those that voted “no” on legislation next year to address their concerns, because I agree that there’s always room for improvement!
 We reconsidered the failed vote on HB1, and it passed by 5 votes.
 We removed HB2 from the table, moved the question (skipping 9 speeches that would not change the outcome), and passed it by the Speaker’s tie-breaking vote!
-Now, things that made are in the budget that will be signed by Ayotte:
-- Reigning in DHHS rulemaking authority over vaccines
-- Special education reform
-- DEI ban within State agencies similar to Trump’s
-- Cuts to bloated UNH budget
-- Increased transparency and removal of partisan power inside of the Office of the Child Advocate
-- Full repeal of automobile inspections – we will now join the 39 other states that do not have them.
-- Funding Northern Border Alliance for border security
-- Added work requirement to State Medicaid – no more hands outs for those that can, but refuse to work
-- More funding for the developmentally disabled
-- Bell-to-bell cell phone bans in classrooms
-- Certificate of need improvements, allowing critical care facilities to be built to meet market demand and not just outside an arbitrary, protectionist exclusion radius
-All of this occurred without increasing or creating any new taxes, despite the wishes of the Democrats and some bills filed by the Senate.
-Bill Signed – HB230
-I’m pleased to announce HB230 – relative to the adoption of public health ordinances by municipalities was signed by the Governor!
+Now, things that made are in the budget that will be signed by Ayotte: Reigning in DHHS rulemaking authority over vaccines Special education reform DEI ban within State agencies similar to Trump’s Cuts to bloated UNH budget Increased transparency and removal of partisan power inside of the Office of the Child Advocate Full repeal of automobile inspections – we will now join the 39 other states that do not have them.
+Funding Northern Border Alliance for border security Added work requirement to State Medicaid – no more hands outs for those that can, but refuse to work More funding for the developmentally disabled Bell-to-bell cell phone bans in classrooms Certificate of need improvements, allowing critical care facilities to be built to meet market demand and not just outside an arbitrary, protectionist exclusion radius All of this occurred without increasing or creating any new taxes, despite the wishes of the Democrats and some bills filed by the Senate.
+Budget car inspections DHHS education health care medicaid vaccines Bill Passed Bill Signed – HB230 June 6, 2025 Tom Mannion Leave a comment I’m pleased to announce HB230 – relative to the adoption of public health ordinances by municipalities was signed by the Governor!
 I co-sponsored this legislation to fix flaws that were exposed during COVID tyranny.
 This is a bill designed to reign in health officers that took it upon themselves to impose mandates outside of their scope.
-Testimony – HB104 Defend the Guard
-Thank you Mr.
+COVID health Local tyranny Testimony Testimony – HB104 Defend the Guard January 18, 2025 Tom Mannion Leave a comment Thank you Mr.
 Chair, members of the committee.
 For the record, I’m Tom Mannion, representing Hillsborough 1 – Pelham.
 I’m also a United States Marine Corps Infantry combat veteran that deployed twice to Iraq.
@@ -58,13 +43,10 @@ In 2023, the Lousianna Guard came under rocket attacks in Northeastern Syria whi
 And, it is my understanding through the Lance Corporal underground, that the NH National Guard had returned home from that base only weeks prior to the attack.
 It could have easily been our guys coming home in boxes.
 In closing, the most important development has occurred since we passed Defend the Guard out of the House last year: the nomination of Pete Hegseth for Secretary of Defense.
-A few days after we took that bipartisan vote, Hegseth said this on Fox and Friends:
-“New Hampshire is simply pointing out that it’s supposed to be Congress that declares war.
+A few days after we took that bipartisan vote, Hegseth said this on Fox and Friends: “New Hampshire is simply pointing out that it’s supposed to be Congress that declares war.
 It has become an executive branch function, and as a result, unless Congress declares war, New Hampshire doesn’t have to send troops for foreign wars.
 To me it makes a lot of sense… I love this idea.” It’s my understanding he has since intensified his support for the bill, so the funding fears are more unfounded than ever before, when the guy in charge of the DoD supports this bill.
-And with that, I’m open to any questions.
-Testimony – HB55 Repealing the Selective Service Compliance Act
-Thank Mr.
+And with that, I’m open to any questions. constitution Defend the Guard history military News politics Testimony Testimony – HB55 Repealing the Selective Service Compliance Act January 18, 2025 Tom Mannion Leave a comment Thank Mr.
 Chair, members of the committee.
 For the record, my name is Tom Mannion, representing Hillsborough 1, Pelham.
 I’m a United State Marine Corps infantry combat veteran with two deployments to Iraq.
@@ -78,23 +60,18 @@ The Selective Service Compliance Act is a hindrance in this process.
 We limit the talent pool, unnecessarily, by putting hurdles in our own way.
 The Federal government already has steep penalties should someone fail to comply with the draft, should it be started up again, it doesn’t make sense to me that we, as a State, put ourselves and our citizens at a disadvantage when the draft has not been active for 50 years.
 I ask that you vote OTP on HB55 and with that I’m happy to take any questions.
-HEARING ALERT – HB240 Removing the penalty of forfeiture for non-payment of dog licenses
-My 3rd and final prime-sponsored bill has been scheduled for Tuesday, January 21st at 1pm in room 301 at the Legislative Office Building in Concord!
+Selective Service Hearing Alert HEARING ALERT – HB240 Removing the penalty of forfeiture for non-payment of dog licenses January 14, 2025 Tom Mannion Leave a comment My 3rd and final prime-sponsored bill has been scheduled for Tuesday, January 21st at 1pm in room 301 at the Legislative Office Building in Concord!
 This bill simply removes the ability for cities and towns to seize your dog for failure to pay a license fee.
-It does NOT remove licenses, nor fines, nor the ability for towns to refer the issue to the court system to force payment.
-Hearing Alerts – HB 104 Defend the Guard, HB55 Repealing Selective Service Compliance Act
-The heavy-hitting Defend the Guard is already scheduled for a hearing, Friday January 17 at 1:30pm at the Legislative Office Building in Concord NH, Room 206!
+It does NOT remove licenses, nor fines, nor the ability for towns to refer the issue to the court system to force payment. animals Dogs Hearing Hearing Alert Hearing Alerts – HB 104 Defend the Guard, HB55 Repealing Selective Service Compliance Act January 8, 2025 Tom Mannion Leave a comment The heavy-hitting Defend the Guard is already scheduled for a hearing, Friday January 17 at 1:30pm at the Legislative Office Building in Concord NH, Room 206!
 Preceding that is my bill to prune out Selective Service Compliance Act from RSA at 1pm.
 If you can make it, please show up to testify!
-LSR 25-0017 – Repealing the Selective Service Compliance Act
-Similar to HB1338 from last session, I filed the repeal of New Hampshire’s Selective Service Compliance Act.
+Defend the Guard Hearing LSR LSR 25-0017 – Repealing the Selective Service Compliance Act October 9, 2024 Tom Mannion Leave a comment Similar to HB1338 from last session, I filed the repeal of New Hampshire’s Selective Service Compliance Act.
 The current law forbids individuals from enrolling in college, or receiving financial assistance for that education, or ever being permitted to be employed by the state in any capacity unless they have registered in compliance with the Federal Selective Service Act.
 As an Iraq war combat veteran, I’ve become incredibly skeptical of United States’ foreign policy of the last several decades – between destabilization of Iraq, Syria, Yemen, and Libya, and the disregard for the lives of the Ukrainian and Russian conscripts dying for a proxy war at the behest of the military industrial complex puppet masters behind the Biden administration, and of course the 20-year occupation of Afghanistan that ultimately resulted in thousands of lives lost to transfer the country from the Taliban to the Taliban.
 I no longer trust that bringing forth the draft would be in the best interests of the United States, especially at the expense of the lives of the next generation, and I will not allow New Hampshire to be a facilitator through coercion with the existing compliance act.
 And from a federalism standpoint, it is simply not the role of New Hampshire to be enforcing Federal law.
 As such, I have filed a repeal of the existing statute.
-Testimony – HB229 Defend the Guard (Senate Finance)
-Thank you Mr.
+25-0017.0 – Reviewed Download 10th Amendment Nullification Selective Service Testimony Testimony – HB229 Defend the Guard (Senate Finance) April 10, 2024 Tom Mannion Leave a comment Thank you Mr.
 Chair, members of the committee.
 I’m Representative Tom Mannion, representing the town of Pelham.
 I’m also a United State Marine Corps Infantry Veteran, where I deployed with 3rd Battalion, 6th Marines to two combat deployments in Iraq.
@@ -135,10 +112,10 @@ We are no better off as a nation, no safer whatsoever from these sacrifices.
 And Congress will never change course until individuals like us, at the state level, force them to.
 Please, as a combat veteran of these pointless conflicts, with invisible scars of my own, I ask that you vote OTP on HB229, and protect our State’s service members from the exploitation of DC.
 I’m happy to take any questions.
-Hearing Alert – HB229 Defend the Guard
-Defend the Guard has its Senate hearing scheduled:
-Tuesday, April 9, 2pm
-State House Room 103
-Concord, NH
-We need all hands on deck.
+Defend the Guard middle-east military News politics Senate Testimony Veterans Hearing Alert Hearing Alert – HB229 Defend the Guard April 3, 2024 Tom Mannion Leave a comment Defend the Guard has its Senate hearing scheduled: Tuesday, April 9, 2pm State House Room 103 Concord, NH We need all hands on deck.
 GWOT Veterans come with stories about your service.
+Defend the Guard Hearing Senate Posts navigation 1 2 3 Next → State Representative – Hillsborough County District 01 (Pelham) Paid for by Tom Mannion for New Hampshire Create a website or blog at WordPress.com Subscribe Subscribed Tom Mannion for New Hampshire Sign me up Have a WordPress.com account?
+Log in now.
+Tom Mannion for New Hampshire View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

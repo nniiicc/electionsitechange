@@ -1,8 +1,82 @@
 [
-"https://facebook.com/friendsofmarklawson",
-"https://secure.anedot.com/marklawson/donate",
-"https://votemarklawson.com/",
-"https://votemarklawson.com/contact",
-"https://votemarklawson.com/privacy-policy",
-"https://votemarklawson.com/terms-and-conditions"
+{
+"text": "$ 10",
+"href": "https://secure.anedot.com/marklawson/donate"
+},
+{
+"text": "$ 100",
+"href": "https://secure.anedot.com/marklawson/donate"
+},
+{
+"text": "$ 25",
+"href": "https://secure.anedot.com/marklawson/donate"
+},
+{
+"text": "$ 250",
+"href": "https://secure.anedot.com/marklawson/donate"
+},
+{
+"text": "$ 50",
+"href": "https://secure.anedot.com/marklawson/donate"
+},
+{
+"text": "CONTACT",
+"href": "https://votemarklawson.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/marklawson/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/friendsofmarklawson"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://votemarklawson.com/contact/"
+},
+{
+"text": "HOME",
+"href": "https://votemarklawson.com/"
+},
+{
+"text": "Join The Team",
+"href": "https://votemarklawson.com/contact/"
+},
+{
+"text": "MEET MARK",
+"href": "https://votemarklawson.com/#meet"
+},
+{
+"text": "Mark Lawson for State Representative",
+"href": "https://votemarklawson.com/privacy-policy/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/marklawson/donate"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://votemarklawson.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votemarklawson.com/privacy-policy"
+},
+{
+"text": "RESULTS",
+"href": "https://votemarklawson.com/#results"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://votemarklawson.com/terms-and-conditions/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://votemarklawson.com/terms-and-conditions"
+},
+{
+"text": "[image]",
+"href": "https://votemarklawson.com"
+}
 ]

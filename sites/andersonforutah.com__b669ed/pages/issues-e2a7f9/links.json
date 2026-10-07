@@ -1,11 +1,46 @@
 [
-"https://andersonforutah.com/",
-"https://andersonforutah.com/cart",
-"https://andersonforutah.com/contact",
-"https://andersonforutah.com/issues",
-"https://andersonforutah.com/meet-shana",
-"https://andersonforutah.com/volunteer",
-"https://secure.actblue.com/donate/Anderson-19",
-"https://secure.actblue.com/donate/anderson-19",
-"https://vote.utah.gov/"
+{
+"text": "0",
+"href": "https://www.andersonforutah.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.andersonforutah.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/anderson-19"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/Anderson-19"
+},
+{
+"text": "Go Vote",
+"href": "https://vote.utah.gov/"
+},
+{
+"text": "Home",
+"href": "https://www.andersonforutah.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.andersonforutah.com/issues"
+},
+{
+"text": "Meet Shana",
+"href": "https://www.andersonforutah.com/meet-shana"
+},
+{
+"text": "Read More",
+"href": "https://www.andersonforutah.com/meet-shana"
+},
+{
+"text": "Volunteer",
+"href": "https://www.andersonforutah.com/volunteer"
+},
+{
+"text": "[image: Anderson for State Senate 19]",
+"href": "https://www.andersonforutah.com/"
+}
 ]

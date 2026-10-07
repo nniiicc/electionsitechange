@@ -1,16 +1,62 @@
 [
-"http://aboutads.info/choices",
-"http://adobe.com/products/flashplayer/security",
-"https://facebook.com/electraymondsmithjr",
-"https://instagram.com/raymondsmith4congress",
-"https://raymondsmithfornc.com/",
-"https://raymondsmithfornc.com/about",
-"https://raymondsmithfornc.com/endorsements",
-"https://raymondsmithfornc.com/media",
-"https://raymondsmithfornc.com/platform",
-"https://raymondsmithfornc.com/privacy",
-"https://raymondsmithfornc.com/volunteer",
-"https://secure.actblue.com/donate/rsnc-web",
-"https://x.com/RayESmithJr",
-"https://xpslane.com/"
+{
+"text": "About",
+"href": "https://raymondsmithfornc.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rsnc-web"
+},
+{
+"text": "Endorsements",
+"href": "https://raymondsmithfornc.com/endorsements"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Home",
+"href": "https://raymondsmithfornc.com/"
+},
+{
+"text": "Media",
+"href": "https://raymondsmithfornc.com/media"
+},
+{
+"text": "Platform",
+"href": "https://raymondsmithfornc.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://raymondsmithfornc.com/privacy"
+},
+{
+"text": "Team@RaymondSmithForNC.com",
+"href": "mailto:Martin@RaymondSmithForNC.com"
+},
+{
+"text": "Volunteer",
+"href": "https://raymondsmithfornc.com/volunteer"
+},
+{
+"text": "[image: Dr. Raymond E. Smith for Congress]",
+"href": "https://raymondsmithfornc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electraymondsmithjr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/raymondsmith4congress/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/RayESmithJr"
+},
+{
+"text": "www.aboutads.info/choices",
+"href": "http://www.aboutads.info/choices"
+}
 ]

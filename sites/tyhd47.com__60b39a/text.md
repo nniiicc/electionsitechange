@@ -1,11 +1,3 @@
-HOME
-MEET TY
-PLATFORM
-ENDORSEMENTS
-SESSION 2026
-SESSION 2025
-SESSION 2024
-SESSION 2023
-GET INVOLVED
-More
-Las Animas, Baca, Prowers, Bent, Otero, Crowley, and Kiowa counties, along with part of Pueblo and Huerfano counties
+top of page DONATE HOME MEET TY PLATFORM ENDORSEMENTS SESSION 2026 SESSION 2025 SESSION 2024 SESSION 2023 GET INVOLVED More Use tab to navigate through the menu items.
+"I will continue to fight for rural Coloradans so we may preserve our faith, family values and our rural way of living." Las Animas, Baca, Prowers, Bent, Otero, Crowley, and Kiowa counties, along with part of Pueblo and Huerfano counties IMG_3149 press to zoom press to zoom press to zoom IMG_3149 press to zoom 1/95 HOME MEET TY PLATFORM ENDORSEMENTS SESSION 2026 SESSION 2025 SESSION 2024 SESSION 2023 GET INVOLVED More Use tab to navigate through the menu items.
+Paid for by: Winter for HD47 Registered Agent: Marge Klein Contact: Ty@tyhd47.com (719) 680-0346 bottom of page

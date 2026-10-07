@@ -1,31 +1,122 @@
 [
-"http://facebook.com/jennyforcolorado",
-"http://tiktok.com/jennyforcolorado",
-"https://instagram.com/JennyforColorado",
-"https://jennyforcolorado.com/",
-"https://jennyforcolorado.com/about-1",
-"https://jennyforcolorado.com/about-3",
-"https://jennyforcolorado.com/about-7",
-"https://jennyforcolorado.com/book-online",
-"https://jennyforcolorado.com/copy-of-caucus",
-"https://jennyforcolorado.com/copy-of-economy",
-"https://jennyforcolorado.com/copy-of-economy-1",
-"https://jennyforcolorado.com/copy-of-economy-2",
-"https://jennyforcolorado.com/copy-of-education",
-"https://jennyforcolorado.com/issues",
-"https://jennyforcolorado.com/jenny-on-the-issues",
-"https://jennyforcolorado.com/legislative-priorities",
-"https://jennyforcolorado.com/meet-jenny",
-"https://jennyforcolorado.com/press-inquiries",
-"https://jennyforcolorado.com/transparency",
-"https://jennyforcolorado.com/volunteer",
-"https://leg.colorado.gov/bills/hb23-1005",
-"https://leg.colorado.gov/bills/hb23-1161",
-"https://leg.colorado.gov/bills/hb23-1294",
-"https://leg.colorado.gov/bills/hb24-1341",
-"https://leg.colorado.gov/bills/hb24-1370",
-"https://leg.colorado.gov/bills/sb23-186",
-"https://leg.colorado.gov/bills/sb24-229",
-"https://secure.actblue.com/donate/jw4co2024nov",
-"https://youtube.com/@JennyforColorado"
+{
+"text": "Affordability",
+"href": "https://www.jennyforcolorado.com/about-7"
+},
+{
+"text": "Book Online",
+"href": "https://www.jennyforcolorado.com/book-online"
+},
+{
+"text": "Contact",
+"href": "https://www.jennyforcolorado.com/issues"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jw4co2024nov"
+},
+{
+"text": "Education",
+"href": "https://www.jennyforcolorado.com/copy-of-economy-1"
+},
+{
+"text": "Environment",
+"href": "https://www.jennyforcolorado.com/copy-of-economy"
+},
+{
+"text": "Environmental Standards For Appliances",
+"href": "https://leg.colorado.gov/bills/hb23-1161"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jennyforcolorado.com/volunteer"
+},
+{
+"text": "Health Care",
+"href": "https://www.jennyforcolorado.com/copy-of-economy-2"
+},
+{
+"text": "House District 34",
+"href": "https://www.jennyforcolorado.com/about-3"
+},
+{
+"text": "Legislature",
+"href": "https://www.jennyforcolorado.com/legislative-priorities"
+},
+{
+"text": "Media Inquiries",
+"href": "https://www.jennyforcolorado.com/press-inquiries"
+},
+{
+"text": "Meet Jenny",
+"href": "https://www.jennyforcolorado.com/meet-jenny"
+},
+{
+"text": "New Energy Improvement Program Changes",
+"href": "https://leg.colorado.gov/bills/hb23-1005"
+},
+{
+"text": "Newsroom",
+"href": "https://www.jennyforcolorado.com/copy-of-caucus"
+},
+{
+"text": "Oil And Gas Commission Study Methane Seepage Raton Basin",
+"href": "https://leg.colorado.gov/bills/sb23-186"
+},
+{
+"text": "Older Adults",
+"href": "https://www.jennyforcolorado.com/copy-of-education"
+},
+{
+"text": "Ozone Mitigation Measures",
+"href": "https://leg.colorado.gov/bills/sb24-229"
+},
+{
+"text": "Pollution Protection Measures",
+"href": "https://leg.colorado.gov/bills/hb23-1294"
+},
+{
+"text": "Priorities / Issues",
+"href": "https://www.jennyforcolorado.com/jenny-on-the-issues"
+},
+{
+"text": "Reduce Cost of Use of Natural Gas",
+"href": "https://leg.colorado.gov/bills/hb24-1370"
+},
+{
+"text": "Speeches & Videos",
+"href": "https://www.jennyforcolorado.com/about-1"
+},
+{
+"text": "State Vehicle Idling Standard",
+"href": "https://leg.colorado.gov/bills/hb24-1341"
+},
+{
+"text": "Transparency",
+"href": "https://www.jennyforcolorado.com/transparency"
+},
+{
+"text": "[image: 1500x500.jpg]",
+"href": "https://www.jennyforcolorado.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/jennyforcolorado"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/JennyforColorado/"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://www.tiktok.com/jennyforcolorado"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@JennyforColorado"
+},
+{
+"text": "jenny.willford.house@coleg.gov",
+"href": "mailto:jenny.willford.house@coleg.gov"
+}
 ]

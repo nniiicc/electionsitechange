@@ -1,17 +1,78 @@
 [
-"https://facebook.com/votesueshink",
-"https://instagram.com/votesueshink",
-"https://michigan.mydistricting.com/legdistricting/comments/plan/281/23",
-"https://mvic.sos.state.mi.us/AVApplication/Index",
-"https://mvic.sos.state.mi.us/RegisterVoter/Index",
-"https://mvic.sos.state.mi.us/Voter/Index",
-"https://secure.actblue.com/donate/shinkwebsite",
-"https://twitter.com/shinksue",
-"https://votesueshink.com/",
-"https://votesueshink.com/about",
-"https://votesueshink.com/cart",
-"https://votesueshink.com/endorsements",
-"https://votesueshink.com/priorities",
-"https://votesueshink.com/priorities-1",
-"https://votesueshink.com/volunteer"
+{
+"text": "0",
+"href": "https://www.votesueshink.com/cart"
+},
+{
+"text": "CHECK YOUR VOTER REGISTRATION",
+"href": "https://mvic.sos.state.mi.us/Voter/Index"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/shinkwebsite"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/shinkwebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votesueshink.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/votesueshink"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votesueshink.com/volunteer"
+},
+{
+"text": "HERE",
+"href": "https://michigan.mydistricting.com/legdistricting/comments/plan/281/23"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/votesueshink"
+},
+{
+"text": "LOCATE YOUR POLLING PLACE",
+"href": "https://mvic.sos.state.mi.us/Voter/Index/#yourclerk"
+},
+{
+"text": "Meet Sue",
+"href": "https://www.votesueshink.com/about"
+},
+{
+"text": "Meet Sue Shink",
+"href": "https://www.votesueshink.com/about"
+},
+{
+"text": "Priorities",
+"href": "https://www.votesueshink.com/priorities"
+},
+{
+"text": "Priorities",
+"href": "https://www.votesueshink.com/priorities-1"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://mvic.sos.state.mi.us/RegisterVoter/Index"
+},
+{
+"text": "REQUEST AN ABSENTEE BALLOT",
+"href": "https://mvic.sos.state.mi.us/AVApplication/Index"
+},
+{
+"text": "SUE HAS OUR BACK & WE HAVE HERS",
+"href": "https://www.votesueshink.com/endorsements"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/shinksue"
+},
+{
+"text": "[image: Sue Shink for State Senate]",
+"href": "https://www.votesueshink.com/"
+}
 ]

@@ -1,17 +1,74 @@
 [
-"https://bronkeforcongress.org/",
-"https://bronkeforcongress.org/about-us",
-"https://bronkeforcongress.org/contact",
-"https://bronkeforcongress.org/info",
-"https://bronkeforcongress.org/jim-bronke",
-"https://bronkeforcongress.org/resume",
-"https://facebook.com/",
-"https://facebook.com/jvbronke",
-"https://instagram.com/",
-"https://instagram.com/jimbronke?hl=en",
-"https://linkedin.com/in/james-bronke-4164958",
-"https://paulbeckwith.net/about",
-"https://science.nasa.gov/climate-change",
-"https://science.nasa.gov/earth/earth-observatory/anticipating-future-sea-levels-148494",
-"https://x.com/"
+{
+"text": "About us",
+"href": "https://www.bronkeforcongress.org/about-us/"
+},
+{
+"text": "About | Paul Beckwith, Climate System Scientist",
+"href": "https://paulbeckwith.net/about/"
+},
+{
+"text": "Anticipating Future Sea Levels - NASA Science",
+"href": "https://science.nasa.gov/earth/earth-observatory/anticipating-future-sea-levels-148494/"
+},
+{
+"text": "Climate Change - NASA Science",
+"href": "https://science.nasa.gov/climate-change/"
+},
+{
+"text": "Contact",
+"href": "https://www.bronkeforcongress.org/contact/"
+},
+{
+"text": "Home",
+"href": "https://www.bronkeforcongress.org/"
+},
+{
+"text": "Info",
+"href": "https://www.bronkeforcongress.org/info/"
+},
+{
+"text": "Jim Bronke",
+"href": "https://www.bronkeforcongress.org/jim-bronke/"
+},
+{
+"text": "Resume",
+"href": "https://www.bronkeforcongress.org/resume/"
+},
+{
+"text": "[image]",
+"href": "https://www.bronkeforcongress.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jvbronke"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jimbronke/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/james-bronke-4164958/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/"
+},
+{
+"text": "[no text]",
+"href": "mailto:jim@bronkeforcongress.org"
+},
+{
+"text": "[no text]",
+"href": "mailto:mail@example.com"
+}
 ]

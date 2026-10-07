@@ -1,49 +1,354 @@
 [
-"https://bsky.app/profile/zickusfor89th.bsky.social",
-"https://facebook.com/profile.php?id=61590208576269",
-"https://instagram.com/zickusfor89th",
-"https://zickusfor89th.com/accessibility.html",
-"https://zickusfor89th.com/affordability-housing.html",
-"https://zickusfor89th.com/campaign-comparison.html",
-"https://zickusfor89th.com/can-families-still-afford-ottawa-county.html",
-"https://zickusfor89th.com/childcare-family-economic-issue.html",
-"https://zickusfor89th.com/cost-of-living.html",
-"https://zickusfor89th.com/get-involved.html",
-"https://zickusfor89th.com/headlines-and-reports.html",
-"https://zickusfor89th.com/healthcare-shouldnt-be-this-hard.html",
-"https://zickusfor89th.com/house-bill-positions.html",
-"https://zickusfor89th.com/index.html",
-"https://zickusfor89th.com/issues-archive.html",
-"https://zickusfor89th.com/issues.html",
-"https://zickusfor89th.com/joe-moss-positions.html",
-"https://zickusfor89th.com/joe-moss-record.html",
-"https://zickusfor89th.com/local-issues.html",
-"https://zickusfor89th.com/meet-meegan.html",
-"https://zickusfor89th.com/moss-costs-what-did-taxpayers-get.html",
-"https://zickusfor89th.com/moss-ottawa-county-overhaul-families.html",
-"https://zickusfor89th.com/ottawa-county-growing-are-we-ready.html",
-"https://zickusfor89th.com/ottawa-county-growth-infrastructure.html",
-"https://zickusfor89th.com/ottawa-county-healthcare-navigation.html",
-"https://zickusfor89th.com/ottawa-county-property-taxes.html",
-"https://zickusfor89th.com/ottawa-county-schools-future-paths.html",
-"https://zickusfor89th.com/preparing-kids-for-jobs.html",
-"https://zickusfor89th.com/priorities.html",
-"https://zickusfor89th.com/privacy.html",
-"https://zickusfor89th.com/pro-life-pro-family-pro-science.html",
-"https://zickusfor89th.com/property-rights-pa233.html",
-"https://zickusfor89th.com/public-record.html",
-"https://zickusfor89th.com/schools-education.html",
-"https://zickusfor89th.com/small-business-working-families.html",
-"https://zickusfor89th.com/stable-life-ottawa-county.html",
-"https://zickusfor89th.com/tariff-costs.html",
-"https://zickusfor89th.com/the-choice.html",
-"https://zickusfor89th.com/things-meegan-is-thinking-about.html",
-"https://zickusfor89th.com/top-10-priorities.html",
-"https://zickusfor89th.com/two-candidates-two-sets-of-priorities.html",
-"https://zickusfor89th.com/voter-information.html",
-"https://zickusfor89th.com/water-land-community.html",
-"https://zickusfor89th.com/why-is-it-so-hard-to-buy-a-home-here.html",
-"https://zickusfor89th.com/working-together-on-what-matters.html",
-"https://zickusfor89th.com/your-property-your-community-who-should-decide.html",
-"https://zickusfor89th.com/your-tax-dollars-accountability.html"
+{
+"text": "Accessibility",
+"href": "https://zickusfor89th.com/accessibility.html"
+},
+{
+"text": "Affordability & Housing",
+"href": "https://zickusfor89th.com/affordability-housing.html"
+},
+{
+"text": "Are We Preparing Our Kids for the Jobs That Actually Exist?",
+"href": "https://zickusfor89th.com/preparing-kids-for-jobs.html"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/zickusfor89th.bsky.social"
+},
+{
+"text": "Can Families Still Afford to Live in Ottawa County?",
+"href": "https://zickusfor89th.com/can-families-still-afford-ottawa-county.html"
+},
+{
+"text": "Can Small Business and Working Families Both Get Ahead?",
+"href": "https://zickusfor89th.com/small-business-working-families.html"
+},
+{
+"text": "Childcare Isn’t Just a Family Issue. It’s an Economic Issue.",
+"href": "https://zickusfor89th.com/childcare-family-economic-issue.html"
+},
+{
+"text": "Compare",
+"href": "https://zickusfor89th.com/campaign-comparison.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61590208576269"
+},
+{
+"text": "Get Involved",
+"href": "https://zickusfor89th.com/get-involved.html"
+},
+{
+"text": "Headlines & Linked Reports",
+"href": "https://zickusfor89th.com/headlines-and-reports.html"
+},
+{
+"text": "Healthcare Shouldn’t Be This Hard",
+"href": "https://zickusfor89th.com/healthcare-shouldnt-be-this-hard.html"
+},
+{
+"text": "Home",
+"href": "https://zickusfor89th.com/index.html"
+},
+{
+"text": "How does Michigan policy affect household costs?",
+"href": "https://zickusfor89th.com/cost-of-living.html"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/zickusfor89th/"
+},
+{
+"text": "Issue & article archive",
+"href": "https://zickusfor89th.com/issues-archive.html"
+},
+{
+"text": "Issues",
+"href": "https://zickusfor89th.com/issues.html"
+},
+{
+"text": "Issues Library",
+"href": "https://zickusfor89th.com/issues-archive.html"
+},
+{
+"text": "Joe Moss: “Leadership”",
+"href": "https://zickusfor89th.com/joe-moss-record.html"
+},
+{
+"text": "Local Issues",
+"href": "https://zickusfor89th.com/local-issues.html"
+},
+{
+"text": "MEEGAN ZICKUSFOR THE 89TH",
+"href": "https://zickusfor89th.com/index.html"
+},
+{
+"text": "Meegan Zickus and Joe Moss: Compare the Candidates",
+"href": "https://zickusfor89th.com/campaign-comparison.html"
+},
+{
+"text": "Meet Meegan",
+"href": "https://zickusfor89th.com/meet-meegan.html"
+},
+{
+"text": "Navigating Healthcare in Ottawa County: Making the System Easier for Families",
+"href": "https://zickusfor89th.com/ottawa-county-healthcare-navigation.html"
+},
+{
+"text": "Ottawa County Is Growing. Are We Ready?",
+"href": "https://zickusfor89th.com/ottawa-county-growing-are-we-ready.html"
+},
+{
+"text": "Ottawa County Schools: Building More Paths to a Good Future",
+"href": "https://zickusfor89th.com/ottawa-county-schools-future-paths.html"
+},
+{
+"text": "Ottawa County families got the bill.",
+"href": "https://zickusfor89th.com/moss-ottawa-county-overhaul-families.html"
+},
+{
+"text": "Positions",
+"href": "https://zickusfor89th.com/issues.html"
+},
+{
+"text": "Priorities",
+"href": "https://zickusfor89th.com/priorities.html"
+},
+{
+"text": "Privacy",
+"href": "https://zickusfor89th.com/privacy.html"
+},
+{
+"text": "Pro Life By Being Pro Family and Pro Science",
+"href": "https://zickusfor89th.com/pro-life-pro-family-pro-science.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/affordability-housing.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/campaign-comparison.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/can-families-still-afford-ottawa-county.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/childcare-family-economic-issue.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/cost-of-living.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/headlines-and-reports.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/healthcare-shouldnt-be-this-hard.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/house-bill-positions.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/joe-moss-positions.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/joe-moss-record.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/local-issues.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/moss-costs-what-did-taxpayers-get.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/moss-ottawa-county-overhaul-families.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/ottawa-county-growing-are-we-ready.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/ottawa-county-growth-infrastructure.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/ottawa-county-healthcare-navigation.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/ottawa-county-property-taxes.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/ottawa-county-schools-future-paths.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/preparing-kids-for-jobs.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/priorities.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/pro-life-pro-family-pro-science.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/property-rights-pa233.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/public-record.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/schools-education.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/small-business-working-families.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/stable-life-ottawa-county.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/tariff-costs.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/things-meegan-is-thinking-about.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/top-10-priorities.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/two-candidates-two-sets-of-priorities.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/water-land-community.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/why-is-it-so-hard-to-buy-a-home-here.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/working-together-on-what-matters.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/your-property-your-community-who-should-decide.html"
+},
+{
+"text": "Read article →",
+"href": "https://zickusfor89th.com/your-tax-dollars-accountability.html"
+},
+{
+"text": "Send a correction",
+"href": "mailto:ZickusJD@gmail.com"
+},
+{
+"text": "State Issues",
+"href": "https://zickusfor89th.com/house-bill-positions.html"
+},
+{
+"text": "The Choice",
+"href": "https://zickusfor89th.com/the-choice.html"
+},
+{
+"text": "Things Meegan is Thinking About",
+"href": "https://zickusfor89th.com/things-meegan-is-thinking-about.html"
+},
+{
+"text": "Top 10 Priorities",
+"href": "https://zickusfor89th.com/top-10-priorities.html"
+},
+{
+"text": "Two Candidates. Two Sets of Priorities. You Decide.",
+"href": "https://zickusfor89th.com/two-candidates-two-sets-of-priorities.html"
+},
+{
+"text": "Voter Info",
+"href": "https://zickusfor89th.com/voter-information.html"
+},
+{
+"text": "Water, Land & Community",
+"href": "https://zickusfor89th.com/water-land-community.html"
+},
+{
+"text": "We Don’t Have to Agree on Everything to Work Together on What Matters",
+"href": "https://zickusfor89th.com/working-together-on-what-matters.html"
+},
+{
+"text": "What Did Ottawa County Taxpayers Get for Their Money?",
+"href": "https://zickusfor89th.com/moss-costs-what-did-taxpayers-get.html"
+},
+{
+"text": "What Does a Family Need to Build a Stable Life in Ottawa County?",
+"href": "https://zickusfor89th.com/stable-life-ottawa-county.html"
+},
+{
+"text": "What Tariffs Mean for Your Budget",
+"href": "https://zickusfor89th.com/tariff-costs.html"
+},
+{
+"text": "What are the education issues in House District 89?",
+"href": "https://zickusfor89th.com/schools-education.html"
+},
+{
+"text": "What does Joe Moss support?",
+"href": "https://zickusfor89th.com/joe-moss-positions.html"
+},
+{
+"text": "What growth and infrastructure issues face Ottawa County?",
+"href": "https://zickusfor89th.com/ottawa-county-growth-infrastructure.html"
+},
+{
+"text": "What has happened with Ottawa County legal costs and settlements?",
+"href": "https://zickusfor89th.com/public-record.html"
+},
+{
+"text": "What is Michigan Public Act 233?",
+"href": "https://zickusfor89th.com/property-rights-pa233.html"
+},
+{
+"text": "Why are property taxes changing in Ottawa County?",
+"href": "https://zickusfor89th.com/ottawa-county-property-taxes.html"
+},
+{
+"text": "Why is it so hard to buy a home in Allendale and Ottawa County?",
+"href": "https://zickusfor89th.com/why-is-it-so-hard-to-buy-a-home-here.html"
+},
+{
+"text": "Your Property. Your Community. Who Should Decide?",
+"href": "https://zickusfor89th.com/your-property-your-community-who-should-decide.html"
+},
+{
+"text": "Your Tax Dollars: Who Is Accountable for the Money?",
+"href": "https://zickusfor89th.com/your-tax-dollars-accountability.html"
+},
+{
+"text": "ZickusJD@gmail.com",
+"href": "mailto:ZickusJD@gmail.com"
+}
 ]

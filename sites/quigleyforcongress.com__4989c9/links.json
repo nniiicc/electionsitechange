@@ -1,14 +1,70 @@
 [
-"https://buildthis.com/",
-"https://facebook.com/QuigleyForCongress",
-"https://quigleyforcongress.com/",
-"https://quigleyforcongress.com/about",
-"https://quigleyforcongress.com/author/buildthis_admin",
-"https://quigleyforcongress.com/contact",
-"https://quigleyforcongress.com/endorsements",
-"https://quigleyforcongress.com/get-involved",
-"https://quigleyforcongress.com/illinois-5th-district",
-"https://quigleyforcongress.com/issues",
-"https://quigleyforcongress.com/news",
-"https://secure.actblue.com/donate/mq-website?amount=25.00&recurring=true"
+{
+"text": "ABOUT MIKE",
+"href": "https://quigleyforcongress.com/about/"
+},
+{
+"text": "CONTACT US",
+"href": "https://quigleyforcongress.com/contact/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/mq-website?amount=25.00&recurring=true"
+},
+{
+"text": "Chicago Web Design",
+"href": "https://buildthis.com/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://quigleyforcongress.com/endorsements/"
+},
+{
+"text": "FOLLOW US",
+"href": "https://www.facebook.com/QuigleyForCongress/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://quigleyforcongress.com/get-involved/"
+},
+{
+"text": "HOME",
+"href": "https://quigleyforcongress.com/"
+},
+{
+"text": "IL 5TH DISTRICT",
+"href": "https://quigleyforcongress.com/illinois-5th-district/"
+},
+{
+"text": "ISSUES",
+"href": "https://quigleyforcongress.com/issues/"
+},
+{
+"text": "NEWS",
+"href": "https://quigleyforcongress.com/news/"
+},
+{
+"text": "READ MORE",
+"href": "https://quigleyforcongress.com/issues/"
+},
+{
+"text": "SIGN UP",
+"href": "https://quigleyforcongress.com/get-involved/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://quigleyforcongress.com/get-involved/"
+},
+{
+"text": "[image: Quigley Logo] [image: Quigley Logo]",
+"href": "https://quigleyforcongress.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/QuigleyForCongress/"
+},
+{
+"text": "buildthis_admin",
+"href": "https://quigleyforcongress.com/author/buildthis_admin/"
+}
 ]

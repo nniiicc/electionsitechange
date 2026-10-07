@@ -1,8 +1,10 @@
 {
  "description": "The official website of Ned Lamont's campaign for Connecticut Governor.",
  "final_url": "https://www.nedlamont.com/privacy/",
+ "fingerprint": "87a283a3e43f1cb721e016649a0407fd09a7144d",
+ "format": 3,
  "paid_for_by": "Paid for by Ned for CT",
- "title": "Privacy PolicyFacebookXInstagramBlueskyTikTok",
+ "title": "Privacy Policy",
  "years_mentioned": [
   "2025"
  ]

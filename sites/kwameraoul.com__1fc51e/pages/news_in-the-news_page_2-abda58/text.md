@@ -1,11 +1,7 @@
-Illinois accuses Bridgeview construction company of stealing wages from union carpenters
-Drive Construction allegedly funneled payments to carpenters through sham subcontractors to pay less than what the state’s overtime and prevailing wage laws require
-Illinois suing Monsanto over cancer-causing PCBs
-The state of Illinois is suing Monsanto and two affiliates over chemicals made at Bayer’s Sauget plant decades ago.
-4 charged in statewide burglary ring targeting video gaming machines, netting $400K, IL AG says
-Illinois Attorney General Kwame Raoul said police have broken up a statewide burglary ring targeting video gaming machines.
-State of Illinois announces plan for $760 million in opioid settlement money
-SPRINGFIELD | August 1, 2022 Gov.
+About Kwame On the Issues Fighting Crime in Our Communities Advocating for Women Supporting Survivors Protecting Children Fighting for Affordable Healthcare Protecting Voting Rights Standing with Workers News Press Releases In the News Get Involved Get Updates Volunteer Contact Us Donate Now About Kwame On the Issues News Get Involved Contact Us Recent News In the News See All Press Releases In the News In the News | 09/02/22 Illinois accuses Bridgeview construction company of stealing wages from union carpenters Drive Construction allegedly funneled payments to carpenters through sham subcontractors to pay less than what the state’s overtime and prevailing wage laws require In the News | 08/30/22 Illinois suing Monsanto over cancer-causing PCBs The state of Illinois is suing Monsanto and two affiliates over chemicals made at Bayer’s Sauget plant decades ago.
+In the News | 08/25/22 4 charged in statewide burglary ring targeting video gaming machines, netting $400K, IL AG says Illinois Attorney General Kwame Raoul said police have broken up a statewide burglary ring targeting video gaming machines.
+In the News | 08/01/22 State of Illinois announces plan for $760 million in opioid settlement money SPRINGFIELD | August 1, 2022 Gov.
 J.B.
 Pritzker and Attorney General Kwame Raoul announced plans Friday for how the state will distribute its share of funds from a national settlement with opioid companies.
-Illinois expects to receive approximately $760 million over 18 years from a $26 billion national settlement with three opioid distributers — Cardinal, […]
+Illinois expects to receive approximately $760 million over 18 years from a $26 billion national settlement with three opioid distributers — Cardinal, […] 01 02 03 04 Stay Up-to-Date Privacy Policy Copyright Kwame Raoul #, All Rights Reserved.
+Paid for by Raoul for Illinois Get Involved

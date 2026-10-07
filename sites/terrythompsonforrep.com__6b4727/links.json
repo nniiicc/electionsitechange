@@ -1,5 +1,30 @@
 [
-"https://facebook.com/ThompsonForStateRep",
-"https://secure.anedot.com/friends-of-terry-thompson/donate",
-"https://terrythompsonforrep.com/"
+{
+"text": "DONATE NOW!",
+"href": "https://secure.anedot.com/friends-of-terry-thompson/donate"
+},
+{
+"text": "DONATE!",
+"href": "https://secure.anedot.com/friends-of-terry-thompson/donate"
+},
+{
+"text": "FOLLOW ON FACEBOOK!",
+"href": "https://www.facebook.com/ThompsonForStateRep/"
+},
+{
+"text": "GET IN TOUCH",
+"href": "https://www.terrythompsonforrep.com"
+},
+{
+"text": "MEET TERRY",
+"href": "https://www.terrythompsonforrep.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ThompsonForStateRep/"
+},
+{
+"text": "tmthompson@embarqmail.com",
+"href": "mailto:tmthompson@embarqmail.com"
+}
 ]

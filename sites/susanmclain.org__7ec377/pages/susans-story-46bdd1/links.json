@@ -1,13 +1,58 @@
 [
-"https://facebook.com/SusanMcLainforOregon",
-"https://secure.actblue.com/contribute/page/McLain2016",
-"https://susanmclain.org/",
-"https://susanmclain.org/endorse",
-"https://susanmclain.org/legislative-work",
-"https://susanmclain.org/priorities",
-"https://susanmclain.org/susans-story",
-"https://susanmclain.org/wp-content/uploads/2022/09/susans-story-1.jpg",
-"https://susanmclain.org/wp-content/uploads/2022/09/susans-story-2.jpg",
-"https://susanmclain.org/wp-content/uploads/2022/09/susans-story-3.jpg",
-"https://youtube.com/channel/UCBdxjCCNoj8vtRVEv0KUUgQ"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/McLain2016"
+},
+{
+"text": "Endorsements",
+"href": "https://www.susanmclain.org/endorse/"
+},
+{
+"text": "Home",
+"href": "https://www.susanmclain.org/"
+},
+{
+"text": "Legislative Work",
+"href": "https://www.susanmclain.org/legislative-work/"
+},
+{
+"text": "Priorities",
+"href": "https://www.susanmclain.org/priorities/"
+},
+{
+"text": "Susan’s Story",
+"href": "https://www.susanmclain.org/susans-story/"
+},
+{
+"text": "[image: Susan McLain] [image: Susan McLain]",
+"href": "https://www.susanmclain.org"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/SusanMcLainforOregon"
+},
+{
+"text": "[image]",
+"href": "https://www.susanmclain.org/wp-content/uploads/2022/09/susans-story-1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://www.susanmclain.org/wp-content/uploads/2022/09/susans-story-2.jpg"
+},
+{
+"text": "[image]",
+"href": "https://www.susanmclain.org/wp-content/uploads/2022/09/susans-story-3.jpg"
+},
+{
+"text": "email",
+"href": "mailto:info@susanmclain.com"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/SusanMcLainforOregon"
+},
+{
+"text": "youtube",
+"href": "https://www.youtube.com/channel/UCBdxjCCNoj8vtRVEv0KUUgQ"
+}
 ]

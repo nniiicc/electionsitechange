@@ -1,17 +1,74 @@
 [
-"https://dredesignpro.com/",
-"https://raulortizforassembly.com/",
-"https://raulortizforassembly.com/a/login?site_return_path=%2Fespanol",
-"https://raulortizforassembly.com/a/password_reset/new",
-"https://raulortizforassembly.com/about",
-"https://raulortizforassembly.com/contact-us",
-"https://raulortizforassembly.com/donate",
-"https://raulortizforassembly.com/espanol",
-"https://raulortizforassembly.com/events",
-"https://raulortizforassembly.com/gallery",
-"https://raulortizforassembly.com/media",
-"https://raulortizforassembly.com/news-links",
-"https://raulortizforassembly.com/privacy-policy",
-"https://raulortizforassembly.com/support",
-"https://raulortizforassembly.com/volunteer"
+{
+"text": "(562) 619-0183",
+"href": "tel:%28562%29%20619-0183"
+},
+{
+"text": "About",
+"href": "https://www.raulortizforassembly.com/about"
+},
+{
+"text": "Call",
+"href": "tel:+15626190183"
+},
+{
+"text": "Contact Us",
+"href": "https://www.raulortizforassembly.com/contact-us"
+},
+{
+"text": "Designed by Dré Design Pro",
+"href": "https://dredesignpro.com"
+},
+{
+"text": "Donate",
+"href": "https://www.raulortizforassembly.com/donate"
+},
+{
+"text": "Español",
+"href": "https://www.raulortizforassembly.com/espanol"
+},
+{
+"text": "Events",
+"href": "https://www.raulortizforassembly.com/events"
+},
+{
+"text": "Forgot Password?",
+"href": "https://www.raulortizforassembly.com/a/password_reset/new"
+},
+{
+"text": "Gallery",
+"href": "https://www.raulortizforassembly.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.raulortizforassembly.com/"
+},
+{
+"text": "Login",
+"href": "https://www.raulortizforassembly.com/a/login?site_return_path=%2Fespanol"
+},
+{
+"text": "Media",
+"href": "https://www.raulortizforassembly.com/media"
+},
+{
+"text": "News/Links",
+"href": "https://www.raulortizforassembly.com/news-links"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.raulortizforassembly.com/privacy-policy"
+},
+{
+"text": "Support",
+"href": "https://www.raulortizforassembly.com/support"
+},
+{
+"text": "Volunteer",
+"href": "https://www.raulortizforassembly.com/volunteer"
+},
+{
+"text": "[image] Raul Ortiz",
+"href": "https://www.raulortizforassembly.com/"
+}
 ]

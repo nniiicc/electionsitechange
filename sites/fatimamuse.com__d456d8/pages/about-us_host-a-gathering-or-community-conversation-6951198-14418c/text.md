@@ -1,8 +1,2 @@
-Host a Gathering or Community Conversation
-Bring together neighbors, friends, or members of your community for a conversation with Fatima about District 2.
-Contact the Campaign
-Have a question, want to share something happening in your community, or want to invite Fatima to an event or meeting?
-Send the campaign a message.
-Contact
-Address
-PO Box 495, Commerce, Texas
+Home About Priorities En Español Get Involved Contact DONATE DONATE Home About Priorities En Español Get Involved Contact Host a Gathering or Community Conversation Bring together neighbors, friends, or members of your community for a conversation with Fatima about District 2.
+Contact Address PO Box 495, Commerce, Texas Email [email protected] Follow Me Merchant Policies Legal Notice Paid for by Muse for TX HD 2

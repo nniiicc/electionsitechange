@@ -1,15 +1,74 @@
 [
-"https://facebook.com/TrevorDoironMaine",
-"https://instagram.com/TrevorDoironME",
-"https://trevordoiron.com/",
-"https://trevordoiron.com/blank",
-"https://trevordoiron.com/blog",
-"https://trevordoiron.com/donate-1",
-"https://trevordoiron.com/get-involved",
-"https://trevordoiron.com/meet-trevor",
-"https://trevordoiron.com/post/honoring-our-veterans",
-"https://trevordoiron.com/post/managing-cost-of-living-in-our-community",
-"https://trevordoiron.com/post/supporting-jobs-and-economic-growth-in-maine",
-"https://trevordoiron.com/priorities",
-"https://youtube.com/@TrevorDoironME"
+{
+"text": "All Posts",
+"href": "https://www.trevordoiron.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://www.trevordoiron.com/donate-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.trevordoiron.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.trevordoiron.com"
+},
+{
+"text": "Honor Our Veterans",
+"href": "https://www.trevordoiron.com/post/honoring-our-veterans"
+},
+{
+"text": "Lower the Cost of Living",
+"href": "https://www.trevordoiron.com/post/managing-cost-of-living-in-our-community"
+},
+{
+"text": "Meet Trevor",
+"href": "https://www.trevordoiron.com/meet-trevor"
+},
+{
+"text": "Paid for and Authorized by Trevor Doiron for Maine House",
+"href": "https://www.trevordoiron.com/blank"
+},
+{
+"text": "Priorities",
+"href": "https://www.trevordoiron.com/priorities"
+},
+{
+"text": "See All",
+"href": "https://www.trevordoiron.com/blog"
+},
+{
+"text": "Support Local Jobs and Small Business",
+"href": "https://www.trevordoiron.com/post/supporting-jobs-and-economic-growth-in-maine"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/TrevorDoironMaine"
+},
+{
+"text": "[image: Honor Our Veterans]",
+"href": "https://www.trevordoiron.com/post/honoring-our-veterans"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/TrevorDoironME"
+},
+{
+"text": "[image: Lower the Cost of Living]",
+"href": "https://www.trevordoiron.com/post/managing-cost-of-living-in-our-community"
+},
+{
+"text": "[image: Support Local Jobs and Small Business]",
+"href": "https://www.trevordoiron.com/post/supporting-jobs-and-economic-growth-in-maine"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@TrevorDoironME"
+},
+{
+"text": "trevor@trevordoiron.com",
+"href": "mailto:trevor@trevordoiron.com"
+}
 ]

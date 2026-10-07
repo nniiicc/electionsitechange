@@ -1,12 +1,74 @@
 [
-"https://facebook.com/RichforGA",
-"https://friends-of-mccormick.revv.co/storefront",
-"https://richmccormick.us/index.html",
-"https://richmccormick.us/news.html",
-"https://richmccormick.us/press.html",
-"https://richmccormick.us/privacy.html",
-"https://richmccormick.us/terms.html",
-"https://richmccormick.us/volunteer.html",
-"https://secure.anedot.com/friends-of-mccormick/61af7e83-0216-4518-b49c-d2ad5d3896dd",
-"https://twitter.com/richforga"
+{
+"text": "About",
+"href": "https://www.richmccormick.us/index.html#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-mccormick/61af7e83-0216-4518-b49c-d2ad5d3896dd"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RichforGA/"
+},
+{
+"text": "Gear",
+"href": "https://friends-of-mccormick.revv.co/storefront/"
+},
+{
+"text": "News",
+"href": "https://www.richmccormick.us/news.html"
+},
+{
+"text": "Press",
+"href": "https://www.richmccormick.us/press.html"
+},
+{
+"text": "Priorities",
+"href": "https://www.richmccormick.us/index.html#priorities"
+},
+{
+"text": "Privacy",
+"href": "https://www.richmccormick.us/privacy.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.richmccormick.us/privacy.html"
+},
+{
+"text": "Terms",
+"href": "https://www.richmccormick.us/terms.html"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.richmccormick.us/terms.html"
+},
+{
+"text": "The Journey",
+"href": "https://www.richmccormick.us/index.html#service-record"
+},
+{
+"text": "Volunteer",
+"href": "https://www.richmccormick.us/volunteer.html"
+},
+{
+"text": "X",
+"href": "https://twitter.com/richforga"
+},
+{
+"text": "[image: Dr. Rich McCormick for Congress]",
+"href": "https://www.richmccormick.us/index.html"
+},
+{
+"text": "[image] Dr. Rich McCormick for Congress",
+"href": "https://www.richmccormick.us/index.html"
+},
+{
+"text": "info@richmccormick.us",
+"href": "mailto:info@richmccormick.us"
+},
+{
+"text": "rich@richmccormick.us",
+"href": "mailto:rich@richmccormick.us"
+}
 ]

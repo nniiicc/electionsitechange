@@ -1,2 +1,2 @@
-The Cost of Government in Maryland
-Tracking every legislative tax increase, regulatory fee increase, and their estimated impact on Maryland residents, households, businesses, and taxpayers.
+endorsements about issues events blog contact menu endorsements about issues events contact blog MD Taxpayer Cost Tracker Maryland Taxpayer Cost Tracker The Cost of Government in Maryland Tracking every legislative tax increase, regulatory fee increase, and their estimated impact on Maryland residents, households, businesses, and taxpayers.
+2025 Legislative Increases download file 2024 Vehicle Registration Increases download file download file Legislative Increases Authority: Friends of Glen Geelhaar, Brianna Geelhaar Treasurer

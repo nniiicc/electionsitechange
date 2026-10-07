@@ -1,9 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61588323936286",
-"https://mebruerforcongress.com/",
-"https://mebruerforcongress.com/about",
-"https://mebruerforcongress.com/cart",
-"https://mebruerforcongress.com/contact",
-"https://squarespace.com/",
-"https://x.com/MebruerforLA5"
+{
+"text": "0",
+"href": "https://www.mebruerforcongress.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.mebruerforcongress.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.mebruerforcongress.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.mebruerforcongress.com/"
+},
+{
+"text": "Learn more",
+"href": "https://www.mebruerforcongress.com/about"
+},
+{
+"text": "Mebruer For Congress",
+"href": "https://www.mebruerforcongress.com/"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588323936286"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MebruerforLA5"
+}
 ]

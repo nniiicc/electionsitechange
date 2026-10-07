@@ -1,8 +1,5 @@
-ONE DOLPHIN IS TOO MANY
-The Author's Edition
-Originally published in The Columbus Dispatch and subsequently featured in The Conversation section on July 28, 2026.
-(This edition reflects the author's complete text and subsequent revisions.)
-On an evening earlier this month, I watched a father walk out of the Butler County Jail and, two and a half hours later, embrace his wife and young children after more than six months apart.
+0 Skip to Content Home Meet Mark Issues Community Service Blog Join Us Donate Open Menu Close Menu Home Meet Mark Issues Community Service Blog Join Us Donate Open Menu Close Menu Home Meet Mark Issues Community Service Blog Join Us Donate ONE DOLPHIN IS TOO MANY Sep 4 Written By Leslie Anderson The Author's Edition Originally published in The Columbus Dispatch and subsequently featured in The Conversation section on July 28, 2026.
+(This edition reflects the author's complete text and subsequent revisions.) On an evening earlier this month, I watched a father walk out of the Butler County Jail and, two and a half hours later, embrace his wife and young children after more than six months apart.
 That should never have taken so long to resolve.
 For that family, it was a day of overwhelming joy.
 For me, it raised difficult questions about how our immigration system is functioning.
@@ -18,12 +15,9 @@ Then, just days before Christmas, ICE officers arrested him.
 He remained in the Butler County Jail for more than half a year while his wife worked full time, cared for their children and, uncertain of the future, desperately tried to hold her family together.
 An independent federal judge ordered his immediate release earlier this month, concluding that his continued detention violated his constitutional right to due process.
 Whether one agrees with every aspect of the court's legal reasoning is beside the point.
-The point is this:
-Our courts exist because governmental power cannot be limitless.
+The point is this: Our courts exist because governmental power cannot be limitless.
 When an independent federal judge concludes that someone should not have remained in detention for six months while his legal case proceeds, we should all pause and ask how we got there.
-I have often heard the saying,
-"Power corrupts, and absolute power corrupts absolutely."
-Over the past several months, I have found myself reflecting on a different thought.
+I have often heard the saying, "Power corrupts, and absolute power corrupts absolutely." Over the past several months, I have found myself reflecting on a different thought.
 Power reveals.
 It reveals what we value.
 It reveals the judgments we make.
@@ -70,3 +64,4 @@ So does the privilege, and the responsibility of leaving it better than we found
 The measure of self-government isn't whether we avoid difficult decisions.
 It's whether we remain curious enough to reason together in search of the next right thing.
 Because even one dolphin is too many.
+Leslie Anderson Previous Previous The Gemba Next Next Why I Chose to Serve Mark Sigrist for State House Representative | District 10 | Paid for by Friends of Mark Sigrist

@@ -1,18 +1,78 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScZE6l2MBj7QvReLE2rZNsvU-Gb4WuN-apz7XaDyPI2-WVgKw/viewform",
-"https://facebook.com/kassayforassembly",
-"https://instagram.com/kassayforassembly",
-"https://kassayforassembly.com/",
-"https://kassayforassembly.com/endorsements",
-"https://kassayforassembly.com/events",
-"https://kassayforassembly.com/issues",
-"https://kassayforassembly.com/news",
-"https://kassayforassembly.com/privacy-policy",
-"https://kassayforassembly.com/volunteer",
-"https://kassayforassembly.com/voter-resources",
-"https://nyassembly.gov/mem/search",
-"https://politico.com/newsletters/new-york-playbook/2023/11/17/nys-santos-dilemma-00127752?nname=new-york-playbook&nid=0000014f-1646-d88f-a1cf-5f46b74f0000&nrid=5556187c-869c-4500-a644-29f0a279b8ab&nlid=630317",
-"https://secure.actblue.com/donate/rebecca-kassay-1",
-"https://tbrnewsmedia.com/rebecca-kassay-announces-candidacy-for-new-york-state-assembly",
-"https://youtube.com/@kassayforassembly"
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/rebecca-kassay-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kassayforassembly.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.kassayforassembly.com"
+},
+{
+"text": "INFO@KASSAYFORASSEMBLY.COM",
+"href": "mailto:INFO@KASSAYFORASSEMBLY.COM"
+},
+{
+"text": "In the News",
+"href": "https://www.kassayforassembly.com/news"
+},
+{
+"text": "Issues",
+"href": "https://www.kassayforassembly.com/issues"
+},
+{
+"text": "REQUEST A LAWN SIGN",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScZE6l2MBj7QvReLE2rZNsvU-Gb4WuN-apz7XaDyPI2-WVgKw/viewform"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.kassayforassembly.com/events"
+},
+{
+"text": "View Privacy Policy",
+"href": "https://www.kassayforassembly.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kassayforassembly.com/volunteer"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.kassayforassembly.com/voter-resources"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/kassayforassembly"
+},
+{
+"text": "[image: IMG_1734.png]",
+"href": "https://www.kassayforassembly.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/kassayforassembly/"
+},
+{
+"text": "[image: Lawn sign featuring large text in shades of purple and white stating Re-elect Rebecca Kassay for New York State Assembly Vote Nov 3rd]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScZE6l2MBj7QvReLE2rZNsvU-Gb4WuN-apz7XaDyPI2-WVgKw/viewform"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@kassayforassembly"
+},
+{
+"text": "[image: playbook_edited_edited.png]",
+"href": "https://www.politico.com/newsletters/new-york-playbook/2023/11/17/nys-santos-dilemma-00127752?nname=new-york-playbook&nid=0000014f-1646-d88f-a1cf-5f46b74f0000&nrid=5556187c-869c-4500-a644-29f0a279b8ab&nlid=630317"
+},
+{
+"text": "[image]",
+"href": "https://tbrnewsmedia.com/rebecca-kassay-announces-candidacy-for-new-york-state-assembly/"
+},
+{
+"text": "https://nyassembly.gov/mem/search/",
+"href": "https://nyassembly.gov/mem/search/"
+}
 ]

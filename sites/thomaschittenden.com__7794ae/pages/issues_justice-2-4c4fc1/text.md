@@ -1,4 +1,7 @@
-The tragic events that continue to happen shake the very fabric of our society, awakening us to the persistent and real problem of injustice in the United States.
+About Get Involved Issues Donate Justice Donate issues Justice Black lives matter.
+And we have a lot of work to do.
+Thomas Chittenden Read more posts by this author.
+Thomas Chittenden 5 Jun 2022 • 2 min read The tragic events that continue to happen shake the very fabric of our society, awakening us to the persistent and real problem of injustice in the United States.
 And Vermont is not immune from this issue.
 Vermont is not insulated from the novel coronavirus nor from the virus of racism.
 Both are crises facing our nation and we need to employ similar techniques to both.
@@ -18,4 +21,7 @@ But we can not escape the moral stain on the soul of America that the institutio
 We cannot rewind time but we can acknowledge what time has done.
 Studying the past will help rectify the long standing effects of immoral governance.
 While our nation shows its undeniable strength of spirit across the country, with peaceful protests in all fifty states, it’s time for Vermont to show what it really means when we say “Black Lives Matter”.
-Thomas Chittenden
+Thomas Chittenden More in issues Growth 5 Jun 2022 – # min read Regionalization 5 Jun 2022 – # min read Affordability 5 Jun 2022 – # min read See all 4 posts → issues Climate We are in a climate emergency and we need our state strategies to support our people and our planet by reducing our CO2 emissions.
+Thomas Chittenden Thomas Chittenden 5 Jun 2022 • 2 min read READ MORE ▶ newsletter Say Hello @ Church Street Tavern this Saturday The best part of public office is talking with voters.
+I work hard to keep open and ongoing conversations with the people I serve.
+To help do that this Saturday, June 20th, from 1 pm to 4 pm, I'll be outside of the Church Thomas Chittenden Thomas Chittenden 17 Jun 2020 • 1 min read READ MORE ▶ Paid for by Thomas Chittenden for State Senate 1600 Dorset Street, South Burlington, VT 05403 thomas@thomaschittenden.com (802) 233 1913 Privacy Policy Facebook Twitter

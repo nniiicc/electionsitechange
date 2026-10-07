@@ -1,7 +1,11 @@
 {
- "description": "Explore organizations, unions, leaders, and elected officials endorsing Ed Markey\u2019s re-election and his fight for affordable health care, climate action, and workers\u2019 rights.",
+ "description": "Explore organizations, unions, leaders, and elected officials endorsing Ed Markey’s re-election and his fight for affordable health care, climate action, and workers’ rights.",
  "final_url": "https://www.edmarkey.com/endorsements/",
- "paid_for_by": "Paid For By The Markey Committee &copy; 2026 - Ed Markey",
+ "fingerprint": "28eb0e866168fb23559a5ef5552bba317a0e382e",
+ "format": 3,
+ "paid_for_by": "Paid For By The Markey Committee © # - Ed Markey",
  "title": "Ed Markey Endorsements - Ed Markey for Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

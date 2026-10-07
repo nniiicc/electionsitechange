@@ -1,14 +1,14 @@
-Advancing Social Justice
-We can never let up in the fight to advance equality, fairness and inclusivity of all individuals.
+top of page Donate Home Page Meet LaMonica Stand with LaMonica Endorsements Priorities Investing in Families Safeguarding Our Communities Preserving Our Environment Creating Jobs & Supporting Small Bus Protecting Reproductive Rights Strengthening Infrastructure & Transport Serving Our Veterans & Seniors Advancing Social Justice Providing Equitable Access to High Quali Promoting Educational Opportunity Terms & conditions Join Our Campaign Privacy Policy Events ​ Advancing Social Justice We can never let up in the fight to advance equality, fairness and inclusivity of all individuals.
 We must continue to advance policies that tackle the root causes of injustice and create opportunities for marginalized communities to thrive.
-This includes:
-- Advancing Social Justice: Criminal Justice Reform: Address mass incarceration, promote alternatives to incarceration, invest in rehabilitation programs, and prioritize restorative justice.
-- Police Accountability: Support community policing, transparency, accountability, and oversight
-of law enforcement departments.
-- Economic Equity: Promote economic equity through raising the minimum wage, investing in
-affordable housing, expanding access to healthcare, addressing disparities in education funding,
-and implementing progressive taxation.
-- Protecting Civil Rights: Fight against discrimination and protect voting rights, reproductive
-rights, LGBTQ+ rights, and immigrant rights.
-- Comprehensive Immigration Reform: Provide a pathway to citizenship for undocumented
-immigrants, protect immigrant families, and uphold due process and human rights.
+This includes: Advancing Social Justice: Criminal Justice Reform: Address mass incarceration, promote alternatives to incarceration, invest in rehabilitation programs, and prioritize restorative justice.
+Police Accountability: Support community policing, transparency, accountability, and oversight of law enforcement departments.
+Economic Equity: Promote economic equity through raising the minimum wage, investing in affordable housing, expanding access to healthcare, addressing disparities in education funding, and implementing progressive taxation.
+Protecting Civil Rights: Fight against discrimination and protect voting rights, reproductive rights, LGBTQ+ rights, and immigrant rights.
+Comprehensive Immigration Reform: Provide a pathway to citizenship for undocumented immigrants, protect immigrant families, and uphold due process and human rights.
+Priorities Providing Equitable Access to High Quality Healthcare Creating Jobs & Supporting Small Business Preserving Reproductive Rights Promoting Educational Opportunity Safeguarding Our Communities Investing in Families Protecting Our Environment Serving Our Veterans & Seniors J oin Our 2026 Campaign Sign up for email updates so you can stay in the loop.
+Thank you for wanting to be a part of Team McIver.
+By volunteering your time to this great journey, together we can continue to move our community forward.
+First name Last name Email Zip/Postal Code Phone number Join Now Thank you!
+We'll be in touch soon Chip In Every donation makes a big difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Donate Endorsements Priorities Campaign Updates Contact LaMonica For Congress P.O.
+Box 25585 Newark, NJ 07101 info@LaMonicaForCongress.com ​ ​ For Press Inquiries/Media Requests, please contact: LaMonicaMcIverForCongress@gmail.com ​ For Finance Inquiries/Questions, please contact: LaMonicaMcIverForCongress@gmail.com ​ ​ ​ Follow us on Social Media ​ ©# LaMonica For Congress | Website Designed/Created by I con Media Group Paid For By LaMonica McIver For Congress bottom of page

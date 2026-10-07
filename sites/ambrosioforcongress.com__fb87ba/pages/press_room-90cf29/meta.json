@@ -1,12 +1,24 @@
 {
  "description": "Press for RALPH AMBROSIO, candidate for House Representative for NY-20",
  "final_url": "https://ambrosioforcongress.com/press_room",
- "paid_for_by": null,
+ "fingerprint": "92310f0a5a312d518dbd03d90df7424ac6900897",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Press Room | RALPH AMBROSIO",
  "years_mentioned": [
+  "1970",
+  "1976",
+  "1977",
+  "1983",
+  "1985",
+  "1989",
+  "1996",
+  "1999",
   "2010",
   "2024",
   "2025",
-  "2026"
+  "2026",
+  "2031",
+  "2040"
  ]
 }

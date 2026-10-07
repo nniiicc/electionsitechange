@@ -1,10 +1,46 @@
 [
-"https://bit.ly/SpencerYardSign",
-"https://facebook.com/Spencer4Florida",
-"https://instagram.com/spencer4florida",
-"https://leonardspencerfl.com/",
-"https://leonardspencerfl.com/news",
-"https://leonardspencerfl.com/privacy-policy",
-"https://secure.actblue.com/donate/leonardspencer",
-"https://x.com/Spencer4Florida"
+{
+"text": "About",
+"href": "https://leonardspencerfl.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/leonardspencer"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/Spencer4Florida"
+},
+{
+"text": "Get Involved",
+"href": "https://leonardspencerfl.com/#get-involved"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://bit.ly/SpencerYardSign"
+},
+{
+"text": "His Issues",
+"href": "https://leonardspencerfl.com/#issues"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/spencer4florida/"
+},
+{
+"text": "Newsroom",
+"href": "https://leonardspencerfl.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://leonardspencerfl.com/privacy-policy/"
+},
+{
+"text": "Support the Campaign",
+"href": "https://secure.actblue.com/donate/leonardspencer"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/Spencer4Florida"
+}
 ]

@@ -1,18 +1,78 @@
 [
-"http://adrianboafo.com/",
-"https://adrianboafo.com/",
-"https://adrianboafo.com/adrian",
-"https://adrianboafo.com/disclaimers/privacy-policy",
-"https://adrianboafo.com/endorsements",
-"https://adrianboafo.com/issues",
-"https://adrianboafo.com/news",
-"https://adrianboafo.com/volunteer",
-"https://adrianboafo.com/vote",
-"https://bsky.app/profile/adrianboafo.bsky.social",
-"https://facebook.com/AdrianBoafo",
-"https://forms.gle/ABQuFW68hQ59M7eo8",
-"https://instagram.com/adrianboafo?hl=en",
-"https://secure.actblue.com/donate/ab-website26",
-"https://secure.ngpvan.com/xp8zVf6qB0WGsqYWwgCCiA2",
-"https://x.com/AdrianBoafoMD"
+{
+"text": "Contact us",
+"href": "mailto:info@adrianboafo.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ab-website26"
+},
+{
+"text": "Endorsements",
+"href": "https://www.adrianboafo.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.adrianboafo.com"
+},
+{
+"text": "Issues",
+"href": "https://www.adrianboafo.com/issues"
+},
+{
+"text": "Meet Adrian",
+"href": "https://www.adrianboafo.com/adrian"
+},
+{
+"text": "News",
+"href": "https://www.adrianboafo.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.adrianboafo.com/disclaimers/privacy-policy"
+},
+{
+"text": "See all news",
+"href": "https://www.adrianboafo.com/news"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/xp8zVf6qB0WGsqYWwgCCiA2"
+},
+{
+"text": "Volunteer",
+"href": "https://www.adrianboafo.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.adrianboafo.com/vote"
+},
+{
+"text": "Yard Sign",
+"href": "https://forms.gle/ABQuFW68hQ59M7eo8"
+},
+{
+"text": "[image: Bluesky]",
+"href": "https://bsky.app/profile/adrianboafo.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/AdrianBoafo/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/adrianboafo/?hl=en"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/AdrianBoafoMD"
+},
+{
+"text": "[no text]",
+"href": "https://www.adrianboafo.com"
+},
+{
+"text": "adrianboafo.com",
+"href": "http://adrianboafo.com"
+}
 ]

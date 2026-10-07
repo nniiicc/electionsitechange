@@ -1,10 +1,34 @@
 [
-"http://autobotit.com/",
-"http://rodneykingforcongress.com/",
-"https://rodneykingforcongress.com/",
-"https://rodneykingforcongress.com/about",
-"https://rodneykingforcongress.com/cart",
-"https://rodneykingforcongress.com/contact",
-"https://secure.anedot.com/committee-to-elect-rodney-joe-king-for-congress-tn-3rd-district/donate",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.rodneykingforcongress.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.rodneykingforcongress.com/about"
+},
+{
+"text": "Autobotit.com",
+"href": "http://autobotit.com"
+},
+{
+"text": "Contact",
+"href": "https://www.rodneykingforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/committee-to-elect-rodney-joe-king-for-congress-tn-3rd-district/donate"
+},
+{
+"text": "Rodney Joe King for Congress",
+"href": "https://www.rodneykingforcongress.com/"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "rodneykingforcongress",
+"href": "http://rodneykingforcongress.com"
+}
 ]

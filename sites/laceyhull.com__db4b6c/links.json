@@ -1,14 +1,70 @@
 [
-"http://facebook.com/LaceyHullForTexas",
-"http://instagram.com/LaceyHullforTexas",
-"https://laceyhull.com/",
-"https://laceyhull.com/about-lacey",
-"https://laceyhull.com/donate",
-"https://laceyhull.com/endorsements",
-"https://laceyhull.com/issues",
-"https://laceyhull.com/our-district",
-"https://laceyhull.com/privacy-policy",
-"https://laceyhull.com/termsandconditions",
-"https://laceyhull.com/volunteer",
-"https://twitter.com/LaceyHullTx"
+{
+"text": "ABOUT",
+"href": "https://www.laceyhull.com/about-lacey"
+},
+{
+"text": "CLICK HERE TO MAKE A CONTRibUTION",
+"href": "https://www.laceyhull.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.laceyhull.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.laceyhull.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.laceyhull.com/issues"
+},
+{
+"text": "Learn more about lacey",
+"href": "https://www.laceyhull.com/about-lacey"
+},
+{
+"text": "Make a contribution",
+"href": "https://www.laceyhull.com/donate"
+},
+{
+"text": "Privacy Policies",
+"href": "https://www.laceyhull.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.laceyhull.com/termsandconditions"
+},
+{
+"text": "VIEW Our district",
+"href": "https://www.laceyhull.com/our-district"
+},
+{
+"text": "View Privacy Policy",
+"href": "https://laceyhull.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.laceyhull.com/volunteer"
+},
+{
+"text": "Volunteer or request a yard Sign",
+"href": "https://www.laceyhull.com/volunteer"
+},
+{
+"text": "[image: Lacey Hull for State Representative]",
+"href": "https://www.laceyhull.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/LaceyHullForTexas"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/LaceyHullforTexas"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/LaceyHullTx"
+}
 ]

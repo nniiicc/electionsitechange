@@ -1,5 +1,6 @@
-Previous
-Previous
-Texas Democrats abandon House floor, blocking passage of voting bill before final deadline
-Next
-Next
+0 Skip to Content Home About Issues Endorsements Get Involved In The News CONTRIBUTE Open Menu Close Menu Open Menu Close Menu Home About Issues Endorsements Get Involved In The News CONTRIBUTE Home About Issues Endorsements Get Involved In The News CONTRIBUTE Texas Gov.
+Threatens Paychecks After Democrats Walk Out to Block Voter Suppression Bill May 31 Written By Drew Corbitt Rolling Stone Drew Corbitt Previous Previous Texas Democrats abandon House floor, blocking passage of voting bill before final deadline Next Next GOP Texas House speaker: Democrats had a right to bust quorum over elections bill Pol.
+Adv.
+Paid by Jessica González Campaign.
+P.O.
+Box 224392 Dallas, TX 75222-4392 View our Terms of Service and Privacy Policy by clicking here.

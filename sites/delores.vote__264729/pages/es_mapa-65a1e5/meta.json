@@ -1,7 +1,9 @@
 {
- "description": "Consulta el mapa del Distrito Legislativo 24 de Arizona y los l\u00edmites del distrito de la candidatura de Delores McLaughlin.",
+ "description": "Consulta el mapa del Distrito Legislativo 24 de Arizona y los límites del distrito de la candidatura de Delores McLaughlin.",
  "final_url": "https://delores.vote/es/mapa/",
- "paid_for_by": null,
+ "fingerprint": "9d920e28e72bb29aa926aa0347f9f73978a31d35",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mapa de LD24, Arizona | Delores McLaughlin",
  "years_mentioned": []
 }

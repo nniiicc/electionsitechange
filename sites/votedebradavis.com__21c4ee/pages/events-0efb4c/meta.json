@@ -1,7 +1,9 @@
 {
  "description": "Debra Davis Campaign Events",
  "final_url": "https://www.votedebradavis.com/events",
- "paid_for_by": null,
+ "fingerprint": "50844c5ac6f7c64cfb631b91af6dbbf1d5fc6d2f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events",
  "years_mentioned": [
   "2025"

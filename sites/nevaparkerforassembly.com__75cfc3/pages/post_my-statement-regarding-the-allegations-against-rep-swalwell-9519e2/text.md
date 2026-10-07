@@ -1,6 +1,6 @@
-My Statement Regarding the Allegations Against Rep.
-Swalwell
-Today, several women came forward with allegations of rape and sexual misconduct against Re.
+top of page HOME MEET NEVA ISSUES ENDORSEMENTS NEWS VOLUNTEER & EVENTS GET YOUR TEAM NEVA T-SHIRT GET YOUR YARD SIGN INTERNSHIP THE DISTRICT More Use tab to navigate through the menu items.
+DONATE All Posts Search My Statement Regarding the Allegations Against Rep.
+Swalwell Neva Parker Apr 10 1 min read Today, several women came forward with allegations of rape and sexual misconduct against Re.
 Eric Swalwell.
 I’d like everyone to remember that it is not easy to come forward about sexual abuse.
 And that women don’t often do things just for themselves.
@@ -18,3 +18,6 @@ As for Rep.
 Swalwell, despite the veracity of the allegations, out of respect for our institutions and for the offices of Governor and Member of Congress, and for the women who have come forward, he should withdraw from the race for Governor and resign as congressman.
 If he intends to fight, he should do so privately.
 We deserve - and really need right now - a Governor or a congressman who is focused on us and not exonerating himself.
+Recent Posts See All Doodling with Derwinne Team Member Tuesday: Meet Atticus!
+Team Member Tuesday: Meet Lauren!
+Paid for by Neva Parker for Assembly 2026 FPPC #1481228 bottom of page

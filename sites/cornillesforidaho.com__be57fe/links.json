@@ -1,11 +1,50 @@
 [
-"https://cornillesforidaho.com/",
-"https://cornillesforidaho.com/about",
-"https://cornillesforidaho.com/contact",
-"https://cornillesforidaho.com/issues",
-"https://cornillesforidaho.com/privacy-policy",
-"https://cornillesforidaho.com/volunteer",
-"https://facebook.com/cornillesforidaho",
-"https://ryvall.com/",
-"https://secure.winred.com/cornilles-for-idaho/donate-today"
+{
+"text": "About",
+"href": "https://www.cornillesforidaho.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.cornillesforidaho.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/cornilles-for-idaho/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.cornillesforidaho.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.cornillesforidaho.com/issues"
+},
+{
+"text": "Powered by Ryvall",
+"href": "https://ryvall.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cornillesforidaho.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cornillesforidaho.com/volunteer"
+},
+{
+"text": "[image: Jeff Cornilles website banner]",
+"href": "https://www.cornillesforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/cornillesforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/cornilles-for-idaho/donate-today"
+},
+{
+"text": "[no text]",
+"href": "https://www.cornillesforidaho.com/"
+}
 ]

@@ -1,7 +1,26 @@
 [
-"https://dillonfordelegate.org/",
-"https://dillonfordelegate.org/contribute",
-"https://dillonfordelegate.org/governor-s-response-to-dillon",
-"https://dillonfordelegate.org/volunteer",
-"https://dillonfordelegate.org/why-the-house-"
+{
+"text": "Contribute",
+"href": "https://www.dillonfordelegate.org/contribute"
+},
+{
+"text": "Governor's Response to Dillon",
+"href": "https://www.dillonfordelegate.org/governor-s-response-to-dillon"
+},
+{
+"text": "The Challenge",
+"href": "https://www.dillonfordelegate.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dillonfordelegate.org/volunteer"
+},
+{
+"text": "Why The House?",
+"href": "https://www.dillonfordelegate.org/why-the-house-"
+},
+{
+"text": "[image]",
+"href": "https://www.dillonfordelegate.org/"
+}
 ]

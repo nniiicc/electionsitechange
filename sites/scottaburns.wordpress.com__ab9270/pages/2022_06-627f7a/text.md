@@ -1,17 +1,5 @@
-- Recent Tweets Tweets by sbpres
-- EventsJune 2022 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
-- Recent Posts
-- Archives
-- Categories
-- Meta
-Monthly Archives: June 2022
-In new lawsuit, 3 taxpayers argue N.H. school funding remains unfair
-New Hampshire Public Radio | By Laura Bratton Published June 30, 2022 at 1:05 PM EDT There’s yet another school-funding lawsuit in New Hampshire.
-Three taxpayers from Plymouth and Penacook are arguing the state has failed to abide by a constitutional requirement … Continue reading
-Posted in Uncategorized
-Leave a comment
-Council approves provider contract for paid leave program amid some skepticism from Republicans
-BY: ETHAN DEWITT – JUNE 30, 2022 5:41 AM One year after the Legislature added a paid family and medical leave program to the state budget, the state has found a partner to launch the plans.
-Officials with the Department of Administrative Services … Continue reading
-Posted in Uncategorized
-Leave a comment
+scottaburns Running for State Representataive Skip to content Home About Contact Donate Endorsements Events Moving Forward Organizations Monthly Archives: June 2022 In new lawsuit, 3 taxpayers argue N.H. school funding remains unfair Posted on June 30, 2022 by Scott Burns for State Representative New Hampshire Public Radio | By Laura Bratton Published June 30, 2022 at 1:05 PM EDT There’s yet another school-funding lawsuit in New Hampshire.
+Three taxpayers from Plymouth and Penacook are arguing the state has failed to abide by a constitutional requirement … Continue reading → Posted in Uncategorized | Leave a comment Council approves provider contract for paid leave program amid some skepticism from Republicans Posted on June 30, 2022 by Scott Burns for State Representative BY: ETHAN DEWITT – JUNE 30, 2022 5:41 AM One year after the Legislature added a paid family and medical leave program to the state budget, the state has found a partner to launch the plans.
+Officials with the Department of Administrative Services … Continue reading → Posted in Uncategorized | Leave a comment Recent Tweets Tweets by sbpres Events June 2022 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 « Nov May » Search for: Recent Posts (no title) I am Running Moving Forward In new lawsuit, 3 taxpayers argue N.H. school funding remains unfair Council approves provider contract for paid leave program amid some skepticism from Republicans Archives October 2026 June 2026 May 2026 June 2022 November 2020 October 2020 September 2020 August 2020 February 2020 November 2018 October 2018 September 2018 August 2018 March 2018 June 2016 April 2016 December 2015 November 2015 August 2015 July 2015 June 2015 April 2015 March 2015 January 2015 December 2014 November 2014 October 2014 September 2014 April 2014 March 2014 December 2013 November 2013 August 2013 July 2013 January 2013 December 2012 November 2012 October 2012 September 2012 June 2012 May 2012 Categories Uncategorized Meta Create account Log in Entries feed Comments feed WordPress.com scottaburns Create a free website or blog at WordPress.com.
+Subscribe Subscribed scottaburns Sign me up Have a WordPress.com account?
+Log in now. scottaburns View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Design a site like this with WordPress.com Get started

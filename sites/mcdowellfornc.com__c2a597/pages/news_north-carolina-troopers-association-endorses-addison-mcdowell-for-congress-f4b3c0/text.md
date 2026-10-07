@@ -1,18 +1,14 @@
-North Carolina Troopers Association Endorses Addison McDowell for Congress
-NCTA Had Previously Endorsed Castelli, Hines, and Walker but Believe McDowell is the Best Candidate for Law Enforcement for NC-06
-February 6, 2024
-(Arcadia) – The North Carolina Troopers Association (NCTA) today endorsed Addison McDowell for the 6th Congressional District of North Carolina.
+0 Skip to Content ISSUES NEWS SHOP DONATE Open Menu Close Menu Open Menu Close Menu ISSUES NEWS SHOP DONATE ISSUES NEWS SHOP DONATE North Carolina Troopers Association Endorses Addison McDowell for Congress Feb 6 Written By Kate Karnes NCTA Had Previously Endorsed Castelli, Hines, and Walker but Believe McDowell is the Best Candidate for Law Enforcement for NC-06 February 6, 2024 (Arcadia) – The North Carolina Troopers Association (NCTA) today endorsed Addison McDowell for the 6th Congressional District of North Carolina.
 In previous years, the NCTA had endorsed (in alphabetical order) Christian Castelli, Bo Hines, and Mark Walker so the organization is very familiar with all of their records and with that knowledge, the NCTA chose Addison McDowell as the candidate they believe will be the biggest fighter for law enforcement.
 “Addison is a hardworking, focused man with impeccable character and integrity, and he is exactly the type of person North Carolinians should send to DC if we want a Congressman who is going to fight for law enforcement officers,” said NCTA President Ben Kral.
 “If you ever thought Defund the Police was a good idea, then you probably don’t care what I have to say and McDowell might not be right for you.
 Our NC Troopers patrol our interstates and highways every day, never knowing when the next person they pull over is going to be a heavily armed cartel member smuggling illegal opioids up and down the Eastern seaboard.
 If you believe our NC Troopers deserve a Congressman who will fight for them, then Addison McDowell is your man.
-Please vote for Addison McDowell on Tuesday, March 5th!”
-“The NC State Troopers put their lives at risk every day due to how easily drug cartels are able to get criminals, and illegal opioids across our Southern border thanks to the disaster that is the Obama and Biden open-border policies,” said McDowell.
+Please vote for Addison McDowell on Tuesday, March 5th!” “The NC State Troopers put their lives at risk every day due to how easily drug cartels are able to get criminals, and illegal opioids across our Southern border thanks to the disaster that is the Obama and Biden open-border policies,” said McDowell.
 “President Trump and the NCTA know that securing our Southern border is personal to me.
 I lost my younger brother to illegal fentanyl smuggled across the border.
 We gotta shut it down.
-I’m proud the NCTA singled me out to endorse my campaign for Congress!”
-This is the second major law enforcement organization in NC to endorse McDowell for Congress.
+I’m proud the NCTA singled me out to endorse my campaign for Congress!” This is the second major law enforcement organization in NC to endorse McDowell for Congress.
 McDowell is is also endorsed by the North Carolina Police Benevolent Association, President Donald Trump, Senator Ted Budd, and dozens of local conservative leaders across North Carolina.
 The North Carolina Troopers Association was formed in 1977 and is made up of more than 2500 active and retired NCSHP employees, with the mission advance the principles of proper law enforcement and support the continuing betterment of criminaljustice in the state of North Carolina and the United States of America.
+MORE NEWS Kate Karnes Previous Previous Grass Roots North Carolina Recommends Addison McDowell for Congress Next Next Addison McDowell’s First TV Ad Tells Voters About Losing His Younger Brother to Fentanyl Paid for by McDowell for Congress 4170 Clemmons Rd, #291, Clemmons, NC 27012 Privacy Policy

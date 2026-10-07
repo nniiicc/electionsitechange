@@ -1,10 +1,34 @@
 [
-"http://instagram.com/CherylBeanTX",
-"https://cherylbeanfortexas.com/",
-"https://cherylbeanfortexas.com/about",
-"https://cherylbeanfortexas.com/news",
-"https://cherylbeanfortexas.com/servicesfb9c0cc0",
-"https://facebook.com/CherylBeanTX",
-"https://secure.winred.com/cheryl-bean-campaign/hd94",
-"https://twitter.com/CherylBeanTX"
+{
+"text": "About",
+"href": "https://www.cherylbeanfortexas.com/about"
+},
+{
+"text": "FUND THE FIGHT →",
+"href": "https://secure.winred.com/cheryl-bean-campaign/hd94"
+},
+{
+"text": "Home",
+"href": "https://www.cherylbeanfortexas.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.cherylbeanfortexas.com/servicesfb9c0cc0"
+},
+{
+"text": "News",
+"href": "https://www.cherylbeanfortexas.com/news"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/CherylBeanTX"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/CherylBeanTX"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/CherylBeanTX"
+}
 ]

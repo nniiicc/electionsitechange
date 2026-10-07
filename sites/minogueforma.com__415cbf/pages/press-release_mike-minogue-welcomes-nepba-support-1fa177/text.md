@@ -1,18 +1,16 @@
-HAMILTON, Mass. — Candidate for governor Mike Minogue welcomed the New England Police Benevolent Association’s decision to support his campaign for Governor of Massachusetts.
+Skip to main content Skip to footer Opens in a new tab Donate Days since Maura Healey promised a gas-tax suspension: Days Hours Min Sec Demand Action!
+Home Meet Mike Meet Renee Blueprint for a Better Future In The News Get Involved Make a Plan to Vote Store Donate Mike Minogue Welcomes NEPBA Support Press Release | September 15, 2026 HAMILTON, Mass. — Candidate for governor Mike Minogue welcomed the New England Police Benevolent Association’s decision to support his campaign for Governor of Massachusetts.
 NEPBA represents more than 5,000 law enforcement professionals throughout New England and cited public safety, accountability, leadership, recruitment and retention, and support for law enforcement among the reasons for its decision.
 “Law enforcement officers put themselves on the line every day to protect our communities, and I am grateful for the support of the men and women who serve,” said Mike Minogue.
 “The fundamental role of the governor is to keep our communities safe and uphold the law.
 Maura Healey’s failed leadership has made the Commonwealth less safe.
-We must return to prioritizing the safety of our people and law enforcement.”
-In making their announcement, NEPBA said they were proud to offer their strong support to Mike Minogue.
+We must return to prioritizing the safety of our people and law enforcement.” In making their announcement, NEPBA said they were proud to offer their strong support to Mike Minogue.
 “At a time when the men and women of law enforcement are being asked to do more with fewer resources, when departments across Massachusetts continue to confront serious recruitment and retention challenges, and when public safety professionals too often feel that their voices are an afterthought on Beacon Hill, Massachusetts needs a Governor who understands that safe communities begin with supporting the people who protect them.
 NEPBA believes Mike Minogue is that leader,” the organization said.
 Minogue says the support of NEPBA reinforces his commitment to working with law enforcement to remove violent criminals and drug dealers from our communities.
 He will appoint a strong parole board that prioritizes public safety, supports mandatory jail time for convictions involving violence against law enforcement officers, and protects constitutional rights.
 Minogue also pledges to fully fund and protect qualified immunity for law enforcement while respecting citizens’ privacy and ensuring that communities remain safe.
-NEPBA showed its support for Minogue by issuing the following statement:
-NEPBA PROUDLY ENDORSES MIKE MINOGUE FOR GOVERNOR OF MASSACHUSETTS
-The New England Police Benevolent Association is proud to announce our strong endorsement of Mike Minogue for Governor of the Commonwealth of Massachusetts.
+NEPBA showed its support for Minogue by issuing the following statement: NEPBA PROUDLY ENDORSES MIKE MINOGUE FOR GOVERNOR OF MASSACHUSETTS The New England Police Benevolent Association is proud to announce our strong endorsement of Mike Minogue for Governor of the Commonwealth of Massachusetts.
 At a time when the men and women of law enforcement are being asked to do more with fewer resources, when departments across Massachusetts continue to confront serious recruitment and retention challenges, and when public safety professionals too often feel that their voices are an afterthought on Beacon Hill, Massachusetts needs a Governor who understands that safe communities begin with supporting the people who protect them.
 NEPBA believes Mike Minogue is that leader.
 Mike has built his life around service, leadership and accountability.
@@ -41,3 +39,18 @@ Our more than 5,000 members throughout New England know what leadership looks li
 They demonstrate it every day when they put on the uniform and report for duty.
 We believe Mike Minogue will bring that same commitment to service, accountability and results to the Governor’s Office.
 The New England Police Benevolent Association is proud to stand with Mike Minogue, and we strongly encourage our members, their families and supporters of law enforcement across Massachusetts to support him for Governor.
+Join Team Minogue Sign Up Form - Vertical First Name Email Zip Code Phone By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Mike Minogue for Governor.
+Reply HELP for help, STOP to end.
+Message frequency may vary.
+Message and data rates may apply.
+Terms & conditions / privacy policy apply.
+Join The Team $5 $25 $50 $100 $250 $500 $1,000 Other Meet Mike In The News Get Involved Donate Paid for by Mike Minogue for Governor Use of military images or rank does not imply endorsement by the U.S.
+Department of War or the U.S.
+Army.
+Please provide your mobile phone to opt-in to Mike Minogue for Governor campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy Terms & Conditions

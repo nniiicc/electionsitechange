@@ -1,10 +1,14 @@
 {
  "description": "Clyde Chambliss in the News",
  "final_url": "https://www.clydechambliss.com/news",
+ "fingerprint": "6d06ab0696b7a07057c0ebcf6dbc0a3b74f9777b",
+ "format": 3,
  "paid_for_by": "Paid for By Clyde Chambliss Jr",
  "title": "News",
  "years_mentioned": [
   "2017",
+  "2018",
+  "2019",
   "2020"
  ]
 }

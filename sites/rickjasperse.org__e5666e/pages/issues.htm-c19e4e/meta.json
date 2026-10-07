@@ -1,9 +1,15 @@
 {
  "description": "Values and issue stance of Rick Jasperse, Georgia House of Representative for District 11, by volunteering or contributing to his campaign. Serving Murray, Gordon, and Pickens counties.",
  "final_url": "https://www.rickjasperse.org/issues.htm",
- "paid_for_by": null,
+ "fingerprint": "2c7323f6e3f3065668d0dd12041868890719bdda",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Values and Issue Stance of Rick Jasperse House of Representatives GA District 11",
  "years_mentioned": [
+  "1982",
+  "2000",
+  "2003",
+  "2008",
   "2010",
   "2014",
   "2015",
@@ -12,6 +18,7 @@
   "2018",
   "2019",
   "2020",
-  "2022"
+  "2022",
+  "2039"
  ]
 }

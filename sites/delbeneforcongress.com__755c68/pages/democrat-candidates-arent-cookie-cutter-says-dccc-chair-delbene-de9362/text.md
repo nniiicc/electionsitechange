@@ -1,6 +1,3 @@
-DEMOCRAT CANDIDATES AREN’T ‘COOKIE CUTTER,’ SAYS DCCC CHAIR DELBENE
-August 10, 2026
-From Bloomberg:
-Representative Suzan DelBene, who heads the Democratic Congressional Campaign Committee, said Democratic candidates aren’t ‘cookie-cutter’ and that they reflect their communities and the issues that matter to voters in their home districts.
-DelBene said that the path to winning back the house runs through purple districts around the country and that candidates running in those districts have ‘crossover appeal.’
-Watch the full interview here.
+Explore → Donate Home Issues About News Endorsements 1st Congressional District Donate Volunteer Sign Up ← Close News DEMOCRAT CANDIDATES AREN’T ‘COOKIE CUTTER,’ SAYS DCCC CHAIR DELBENE August 10, 2026 From Bloomberg: Representative Suzan DelBene, who heads the Democratic Congressional Campaign Committee, said Democratic candidates aren’t ‘cookie-cutter’ and that they reflect their communities and the issues that matter to voters in their home districts.
+DelBene said that the path to winning back the house runs through purple districts around the country and that candidates running in those districts have ‘crossover appeal.’ Watch the full interview here .
+Home Issues About News Endorsements 1st Congressional District Donate Volunteer Sign Up Privacy Policy Paid for by DelBene for Congress PO Box 477 Kirkland, WA 98083 (425) 483-1500

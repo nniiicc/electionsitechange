@@ -1,13 +1,58 @@
 [
-"https://facebook.com/VoteMalagari",
-"https://instagram.com/steve_malagari",
-"https://secure.actblue.com/donate/malagari-2022",
-"https://techforcampaigns.org/",
-"https://twitter.com/Steve_Malagari",
-"https://votemalagari.com/",
-"https://votemalagari.com/about",
-"https://votemalagari.com/endorsements",
-"https://votemalagari.com/get-involved",
-"https://votemalagari.com/priorities",
-"https://votemalagari.com/vote"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/malagari-2022"
+},
+{
+"text": "Endorsements",
+"href": "https://votemalagari.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/VoteMalagari"
+},
+{
+"text": "Get Involved",
+"href": "https://votemalagari.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://votemalagari.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/steve_malagari/"
+},
+{
+"text": "Meet Steve",
+"href": "https://votemalagari.com/about/"
+},
+{
+"text": "Priorities",
+"href": "https://votemalagari.com/priorities/"
+},
+{
+"text": "Steve Malagari",
+"href": "https://votemalagari.com/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Steve_Malagari"
+},
+{
+"text": "Voting Information",
+"href": "https://votemalagari.com/vote/"
+},
+{
+"text": "[image: Steve Malagari logo]",
+"href": "https://votemalagari.com/"
+},
+{
+"text": "info@votemalagari.com",
+"href": "mailto:info@votemalagari.com"
+}
 ]

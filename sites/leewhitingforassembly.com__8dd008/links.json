@@ -1,7 +1,30 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://legis.wisconsin.gov/ltsb/gisdocs/WI2023Act94/ASM_Districts/ASM07_WI2023Act94_Poster_Map.pdf",
-"https://twitter.com/wix",
-"https://zeffy.com/en-US/donation-form/elect-lee-for-state-assembly"
+{
+"text": "CC CONTRIBUTION",
+"href": "https://www.zeffy.com/en-US/donation-form/elect-lee-for-state-assembly"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.zeffy.com/en-US/donation-form/elect-lee-for-state-assembly"
+},
+{
+"text": "Here",
+"href": "https://legis.wisconsin.gov/ltsb/gisdocs/WI2023Act94/ASM_Districts/ASM07_WI2023Act94_Poster_Map.pdf"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/wix"
+},
+{
+"text": "leewhitingjr@gmail.com",
+"href": "mailto:leewhitingjr@gmail.com"
+}
 ]

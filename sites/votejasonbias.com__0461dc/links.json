@@ -1,11 +1,42 @@
 [
-"https://facebook.com/profile.php?id=61583593396376",
-"https://instagram.com/biasjason",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/jason-bias-for-house-district-54/donate",
-"https://votejasonbias.com/",
-"https://votejasonbias.com/endorsements",
-"https://votejasonbias.com/meet-jason",
-"https://youtube.com/@jasonbiasHD54"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jason-bias-for-house-district-54/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://votejasonbias.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://votejasonbias.com/"
+},
+{
+"text": "Let’s have the conversation?",
+"href": "mailto:jason@votejasonbias.com?subject=Jason+Bias+for+House+District+54"
+},
+{
+"text": "Meet Jason",
+"href": "https://votejasonbias.com/meet-jason"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583593396376"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/biasjason/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@jasonbiasHD54"
+}
 ]

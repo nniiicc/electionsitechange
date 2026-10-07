@@ -1,9 +1,14 @@
 {
  "description": "",
  "final_url": "https://havisforsenate.com/events/",
- "paid_for_by": null,
- "title": "Events \u2013 Havis For Senate",
+ "fingerprint": "cc7776b1137fc0cb3b1126ea8a65f70e0d47c1be",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Events – Havis For Senate",
  "years_mentioned": [
+  "2017",
+  "2018",
+  "2022",
   "2026"
  ]
 }

@@ -1,40 +1,214 @@
 [
-"http://electbarnhill.net/about/feed",
-"http://electbarnhill.net/announcements/feed",
-"http://electbarnhill.net/commentary/feed",
-"http://electbarnhill.net/policy-positions/feed",
-"https://electbarnhill.net/",
-"https://electbarnhill.net/about/about-brad",
-"https://electbarnhill.net/announcements/announcement-of-candidacy",
-"https://electbarnhill.net/announcements/nevada-voter-roll-lawsuit",
-"https://electbarnhill.net/author/electbarnhill",
-"https://electbarnhill.net/blog-with-left-sidebar",
-"https://electbarnhill.net/category/announcements",
-"https://electbarnhill.net/category/commentary",
-"https://electbarnhill.net/commentary/question-7-nevada-voter-id",
-"https://electbarnhill.net/contact",
-"https://electbarnhill.net/donation-page",
-"https://electbarnhill.net/endorsements",
-"https://electbarnhill.net/event",
-"https://electbarnhill.net/events",
-"https://electbarnhill.net/get-involved",
-"https://electbarnhill.net/policy-positions",
-"https://electbarnhill.net/policy-positions/consistent-county-election-standards-nevada",
-"https://electbarnhill.net/policy-positions/nevada-election-audits",
-"https://electbarnhill.net/policy-positions/nevada-election-cybersecurity-plan",
-"https://electbarnhill.net/policy-positions/nevada-voter-roll-maintenance",
-"https://electbarnhill.net/policy-positions/paper-records-for-nevada-elections",
-"https://electbarnhill.net/policy-positions/results-not-noise-20-20-plan-nevada-secretary-of-state",
-"https://electbarnhill.net/policy-positions/rural-nevada-voting-access",
-"https://electbarnhill.net/policy-positions/secure-ballot-counting-nevada",
-"https://electbarnhill.net/promise-kept",
-"https://facebook.com/profile.php?id=100066477946991",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectbarnhill.net%2Fcommentary%2Fwhat-nevada-secretary-of-state-candidates-owe-voters%2F",
-"https://instagram.com/electbarnhill",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Felectbarnhill.net%2Fcommentary%2Fwhat-nevada-secretary-of-state-candidates-owe-voters%2F&title=What+Nevada+Secretary+of+State+Candidates+Owe+Voters",
-"https://maps.google.com/?q=8104+Defiance+Ave.%0ALas+Vegas%2C+NV+89129",
-"https://twitter.com/share?url=https%3A%2F%2Felectbarnhill.net%2Fcommentary%2Fwhat-nevada-secretary-of-state-candidates-owe-voters%2F&text=What+Nevada+Secretary+of+State+Candidates+Owe+Voters",
-"https://vwthemes.com/",
-"https://x.com/electbarnhill",
-"https://youtube.com/@nevadansforbarnhill"
+{
+"text": "702-613-2576",
+"href": "tel:%20702-613-2576"
+},
+{
+"text": "702-613-2576",
+"href": "tel:702-613-2576"
+},
+{
+"text": "8104 Defiance Ave. Las Vegas, NV 89129",
+"href": "https://maps.google.com/?q=8104+Defiance+Ave.%0ALas+Vegas%2C+NV+89129"
+},
+{
+"text": "About",
+"href": "http://electbarnhill.net/about/feed"
+},
+{
+"text": "About",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
+"text": "Announcements",
+"href": "http://electbarnhill.net/announcements/feed"
+},
+{
+"text": "Announcements",
+"href": "https://electbarnhill.net/category/announcements/"
+},
+{
+"text": "Blog",
+"href": "https://electbarnhill.net/blog-with-left-sidebar/"
+},
+{
+"text": "Commentary",
+"href": "http://electbarnhill.net/commentary/feed"
+},
+{
+"text": "Commentary",
+"href": "https://electbarnhill.net/category/commentary/"
+},
+{
+"text": "Contact",
+"href": "https://electbarnhill.net/contact/"
+},
+{
+"text": "Donate",
+"href": "https://electbarnhill.net/donation-page/"
+},
+{
+"text": "Endorsements",
+"href": "https://electbarnhill.net/endorsements/"
+},
+{
+"text": "Event",
+"href": "https://electbarnhill.net/event/"
+},
+{
+"text": "Events",
+"href": "https://electbarnhill.net/events/"
+},
+{
+"text": "Home",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "Independent",
+"href": "https://electbarnhill.net/promise-kept/"
+},
+{
+"text": "Next Next post: Secure Ballot Counting in Nevada Starts Here",
+"href": "https://electbarnhill.net/policy-positions/secure-ballot-counting-nevada/"
+},
+{
+"text": "Policies",
+"href": "https://electbarnhill.net/policy-positions/"
+},
+{
+"text": "Policy",
+"href": "https://electbarnhill.net/policy-positions/"
+},
+{
+"text": "Policy Positions",
+"href": "http://electbarnhill.net/policy-positions/feed"
+},
+{
+"text": "Previous Previous post: How Nevada Election Audits Build Voter Confidence",
+"href": "https://electbarnhill.net/policy-positions/nevada-election-audits/"
+},
+{
+"text": "VW Themes",
+"href": "https://www.vwthemes.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://electbarnhill.net/get-involved/"
+},
+{
+"text": "[image: Footer Logo]footer logo image",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[image: Nevadans for Barnhill site icon]",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[image: Nevadans for Barnhill]",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/share?url=https%3A%2F%2Felectbarnhill.net%2Fcommentary%2Fwhat-nevada-secretary-of-state-candidates-owe-voters%2F&text=What+Nevada+Secretary+of+State+Candidates+Owe+Voters"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100066477946991"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectbarnhill.net%2Fcommentary%2Fwhat-nevada-secretary-of-state-candidates-owe-voters%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electbarnhill"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Felectbarnhill.net%2Fcommentary%2Fwhat-nevada-secretary-of-state-candidates-owe-voters%2F&title=What+Nevada+Secretary+of+State+Candidates+Owe+Voters"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/electbarnhill"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@nevadansforbarnhill"
+},
+{
+"text": "brad@electbarnhill.net",
+"href": "mailto: brad@electbarnhill.net"
+},
+{
+"text": "brad@electbarnhill.net",
+"href": "mailto:brad@electbarnhill.net"
+},
+{
+"text": "close menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "close menu",
+"href": "javascript:void(0);"
+},
+{
+"text": "consistent standards in every county",
+"href": "https://electbarnhill.net/policy-positions/consistent-county-election-standards-nevada/"
+},
+{
+"text": "electbarnhill",
+"href": "https://electbarnhill.net/author/electbarnhill/"
+},
+{
+"text": "election cybersecurity plan",
+"href": "https://electbarnhill.net/policy-positions/nevada-election-cybersecurity-plan/"
+},
+{
+"text": "get to know me",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
+"text": "how secure ballot counting works in Nevada",
+"href": "https://electbarnhill.net/policy-positions/secure-ballot-counting-nevada/"
+},
+{
+"text": "independent candidate",
+"href": "https://electbarnhill.net/announcements/announcement-of-candidacy/"
+},
+{
+"text": "join the campaign",
+"href": "https://electbarnhill.net/get-involved/"
+},
+{
+"text": "more about me here",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
+"text": "paper records for Nevada elections",
+"href": "https://electbarnhill.net/policy-positions/paper-records-for-nevada-elections/"
+},
+{
+"text": "srcoll arrow",
+"href": "javascript:"
+},
+{
+"text": "the 20/20 plan",
+"href": "https://electbarnhill.net/policy-positions/results-not-noise-20-20-plan-nevada-secretary-of-state/"
+},
+{
+"text": "voter ID",
+"href": "https://electbarnhill.net/commentary/question-7-nevada-voter-id/"
+},
+{
+"text": "voter roll maintenance",
+"href": "https://electbarnhill.net/policy-positions/nevada-voter-roll-maintenance/"
+},
+{
+"text": "voter rolls",
+"href": "https://electbarnhill.net/announcements/nevada-voter-roll-lawsuit/"
+},
+{
+"text": "why a voter in Ely shouldn’t have a harder path to the ballot",
+"href": "https://electbarnhill.net/policy-positions/rural-nevada-voting-access/"
+}
 ]

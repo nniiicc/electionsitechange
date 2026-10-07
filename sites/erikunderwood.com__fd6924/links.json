@@ -1,58 +1,510 @@
 [
-"https://erikunderwood.com/",
-"https://erikunderwood.com/about-erik",
-"https://erikunderwood.com/analyzing-policy-shifts-in-contemporary-politics",
-"https://erikunderwood.com/category/news",
-"https://erikunderwood.com/category/party",
-"https://erikunderwood.com/contact-us",
-"https://erikunderwood.com/donation-form",
-"https://erikunderwood.com/endorsements",
-"https://erikunderwood.com/event/building-tomorrows-politicians",
-"https://erikunderwood.com/event/from-revolution-to-representation",
-"https://erikunderwood.com/events/list",
-"https://erikunderwood.com/general-election-message",
-"https://erikunderwood.com/impact-of-economic-policies-on-governance",
-"https://erikunderwood.com/issues",
-"https://erikunderwood.com/landmark-treaties-that-altered-global-politics",
-"https://erikunderwood.com/media",
-"https://erikunderwood.com/news",
-"https://erikunderwood.com/powerful-movements-for-social-justice-equality",
-"https://erikunderwood.com/privacy-policy",
-"https://erikunderwood.com/services/affordable-homes",
-"https://erikunderwood.com/services/ai-data-centers",
-"https://erikunderwood.com/services/aipac-policy",
-"https://erikunderwood.com/services/child-care-program",
-"https://erikunderwood.com/services/colorado-springs-airport-cos-expansion",
-"https://erikunderwood.com/services/colorado-universal-healthcare",
-"https://erikunderwood.com/services/economic-development",
-"https://erikunderwood.com/services/end-tabor",
-"https://erikunderwood.com/services/environmental-policy",
-"https://erikunderwood.com/services/free-college-trade-school",
-"https://erikunderwood.com/services/grand-junction-airport-expansion",
-"https://erikunderwood.com/services/hemp-manufacturing",
-"https://erikunderwood.com/services/high-speed-rail",
-"https://erikunderwood.com/services/homelessness-policy",
-"https://erikunderwood.com/services/issues-charts-and-graphs",
-"https://erikunderwood.com/services/justice-human-rights",
-"https://erikunderwood.com/services/lgbtq-policy",
-"https://erikunderwood.com/services/lower-grocery-prices",
-"https://erikunderwood.com/services/mental-health-policy-plan",
-"https://erikunderwood.com/services/people-are-being-ignored",
-"https://erikunderwood.com/services/the-colorado-space-initiative",
-"https://erikunderwood.com/services/timeline-for-action",
-"https://erikunderwood.com/services/water-policy",
-"https://erikunderwood.com/services/youth-violence-policy",
-"https://erikunderwood.com/services/youth-voting",
-"https://erikunderwood.com/terms-condition",
-"https://erikunderwood.com/volunteer",
-"https://facebook.com/Erik4CO",
-"https://instagram.com/erik_underwood",
-"https://secure.actblue.com/donate/underwood-303",
-"https://secure.actblue.com/donate/underwood-303?amount=10",
-"https://secure.actblue.com/donate/underwood-303?amount=15",
-"https://secure.actblue.com/donate/underwood-303?amount=20",
-"https://secure.actblue.com/donate/underwood-303?amount=25",
-"https://tiktok.com/@erikmunderwood",
-"https://x.com/ErikMUnderwood",
-"https://youtube.com/@erikmunderwood"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/underwood-303/?amount=10"
+},
+{
+"text": "$15",
+"href": "https://secure.actblue.com/donate/underwood-303/?amount=15"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/underwood-303/?amount=20"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/underwood-303/?amount=25"
+},
+{
+"text": "$30",
+"href": "https://secure.actblue.com/donate/underwood-303/?amount=25"
+},
+{
+"text": "+1(720)-722-9404",
+"href": "tel:+17207229404"
+},
+{
+"text": "AI Data Centers",
+"href": "https://erikunderwood.com/services/ai-data-centers/"
+},
+{
+"text": "AIPAC Policy",
+"href": "https://erikunderwood.com/services/aipac-policy/"
+},
+{
+"text": "About Erik",
+"href": "https://erikunderwood.com/about-erik/"
+},
+{
+"text": "Affordable Homes",
+"href": "https://erikunderwood.com/services/affordable-homes/"
+},
+{
+"text": "Analyzing policy shifts in contemporary politics",
+"href": "https://erikunderwood.com/analyzing-policy-shifts-in-contemporary-politics/"
+},
+{
+"text": "April 14, 2024",
+"href": "https://erikunderwood.com/analyzing-policy-shifts-in-contemporary-politics/"
+},
+{
+"text": "Building tomorrow’s politicians",
+"href": "https://erikunderwood.com/event/building-tomorrows-politicians/"
+},
+{
+"text": "Child Care Program",
+"href": "https://erikunderwood.com/services/child-care-program/"
+},
+{
+"text": "Colorado Springs Airport (COS) Expansion",
+"href": "https://erikunderwood.com/services/colorado-springs-airport-cos-expansion/"
+},
+{
+"text": "Colorado Universal Healthcare",
+"href": "https://erikunderwood.com/services/colorado-universal-healthcare/"
+},
+{
+"text": "Contact",
+"href": "https://erikunderwood.com/contact-us/"
+},
+{
+"text": "December 17, 2024",
+"href": "https://erikunderwood.com/impact-of-economic-policies-on-governance/"
+},
+{
+"text": "December 17, 2024",
+"href": "https://erikunderwood.com/landmark-treaties-that-altered-global-politics/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/underwood-303"
+},
+{
+"text": "Donate Now",
+"href": "https://erikunderwood.com/donation-form/"
+},
+{
+"text": "Economic Development",
+"href": "https://erikunderwood.com/services/economic-development/"
+},
+{
+"text": "End Tabor",
+"href": "https://erikunderwood.com/services/end-tabor/"
+},
+{
+"text": "Endorsements",
+"href": "https://erikunderwood.com/endorsements/"
+},
+{
+"text": "Environmental Policy",
+"href": "https://erikunderwood.com/services/environmental-policy/"
+},
+{
+"text": "Events",
+"href": "https://erikunderwood.com/events/list/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/Erik4CO/"
+},
+{
+"text": "Free College & Trade School",
+"href": "https://erikunderwood.com/services/free-college-trade-school/"
+},
+{
+"text": "From revolution to representation",
+"href": "https://erikunderwood.com/event/from-revolution-to-representation/"
+},
+{
+"text": "General Election Message",
+"href": "https://erikunderwood.com/general-election-message/"
+},
+{
+"text": "Grand Junction Airport Expansion",
+"href": "https://erikunderwood.com/services/grand-junction-airport-expansion/"
+},
+{
+"text": "Hemp Manufacturing",
+"href": "https://erikunderwood.com/services/hemp-manufacturing/"
+},
+{
+"text": "High Speed Rail",
+"href": "https://erikunderwood.com/services/high-speed-rail/"
+},
+{
+"text": "Home",
+"href": "https://erikunderwood.com/"
+},
+{
+"text": "Homelessness Policy",
+"href": "https://erikunderwood.com/services/homelessness-policy/"
+},
+{
+"text": "Impact of economic policies on governance",
+"href": "https://erikunderwood.com/impact-of-economic-policies-on-governance/"
+},
+{
+"text": "Issues",
+"href": "https://erikunderwood.com/issues/"
+},
+{
+"text": "Issues Charts & Graphs",
+"href": "https://erikunderwood.com/services/issues-charts-and-graphs/"
+},
+{
+"text": "Justice & Human Rights",
+"href": "https://erikunderwood.com/services/justice-human-rights/"
+},
+{
+"text": "LGBTQ+ Policy",
+"href": "https://erikunderwood.com/services/lgbtq-policy/"
+},
+{
+"text": "Landmark treaties that altered global politics",
+"href": "https://erikunderwood.com/landmark-treaties-that-altered-global-politics/"
+},
+{
+"text": "Lower Grocery Prices",
+"href": "https://erikunderwood.com/services/lower-grocery-prices/"
+},
+{
+"text": "March 14, 2024",
+"href": "https://erikunderwood.com/powerful-movements-for-social-justice-equality/"
+},
+{
+"text": "Media",
+"href": "https://erikunderwood.com/media/"
+},
+{
+"text": "Mental Health Policy & Plan",
+"href": "https://erikunderwood.com/services/mental-health-policy-plan/"
+},
+{
+"text": "News",
+"href": "https://erikunderwood.com/category/news/"
+},
+{
+"text": "News",
+"href": "https://erikunderwood.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/underwood-303/"
+},
+{
+"text": "Party",
+"href": "https://erikunderwood.com/category/party/"
+},
+{
+"text": "Powerful movements for social justice equality",
+"href": "https://erikunderwood.com/powerful-movements-for-social-justice-equality/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://erikunderwood.com/privacy-policy/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/affordable-homes/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/ai-data-centers/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/aipac-policy/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/child-care-program/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/colorado-springs-airport-cos-expansion/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/colorado-universal-healthcare/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/economic-development/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/end-tabor/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/environmental-policy/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/free-college-trade-school/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/grand-junction-airport-expansion/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/hemp-manufacturing/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/high-speed-rail/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/homelessness-policy/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/issues-charts-and-graphs/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/justice-human-rights/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/lgbtq-policy/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/lower-grocery-prices/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/mental-health-policy-plan/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/people-are-being-ignored/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/the-colorado-space-initiative/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/timeline-for-action/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/water-policy/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/youth-violence-policy/"
+},
+{
+"text": "Read more",
+"href": "https://erikunderwood.com/services/youth-voting/"
+},
+{
+"text": "Send Brief",
+"href": "https://erikunderwood.com/contact-us/"
+},
+{
+"text": "Terms & Condition",
+"href": "https://erikunderwood.com/terms-condition/"
+},
+{
+"text": "The Colorado Space Initiative",
+"href": "https://erikunderwood.com/services/the-colorado-space-initiative/"
+},
+{
+"text": "The People Want to Be Heard",
+"href": "https://erikunderwood.com/services/people-are-being-ignored/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@erikmunderwood"
+},
+{
+"text": "Timeline for Action",
+"href": "https://erikunderwood.com/services/timeline-for-action/"
+},
+{
+"text": "View More",
+"href": "https://erikunderwood.com/events/list/"
+},
+{
+"text": "Volunteer",
+"href": "https://erikunderwood.com/volunteer/"
+},
+{
+"text": "Water Policy",
+"href": "https://erikunderwood.com/services/water-policy/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/ErikMUnderwood"
+},
+{
+"text": "Youth Violence Policy",
+"href": "https://erikunderwood.com/services/youth-violence-policy/"
+},
+{
+"text": "Youth Voting",
+"href": "https://erikunderwood.com/services/youth-voting/"
+},
+{
+"text": "Youtube",
+"href": "https://youtube.com/@erikmunderwood"
+},
+{
+"text": "[image: Erik Underwood]",
+"href": "https://erikunderwood.com/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/analyzing-policy-shifts-in-contemporary-politics/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/event/building-tomorrows-politicians/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/event/from-revolution-to-representation/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/impact-of-economic-policies-on-governance/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/landmark-treaties-that-altered-global-politics/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/powerful-movements-for-social-justice-equality/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/affordable-homes/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/ai-data-centers/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/aipac-policy/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/child-care-program/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/colorado-springs-airport-cos-expansion/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/colorado-universal-healthcare/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/economic-development/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/end-tabor/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/environmental-policy/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/free-college-trade-school/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/grand-junction-airport-expansion/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/hemp-manufacturing/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/high-speed-rail/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/homelessness-policy/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/issues-charts-and-graphs/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/justice-human-rights/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/lgbtq-policy/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/lower-grocery-prices/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/mental-health-policy-plan/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/people-are-being-ignored/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/the-colorado-space-initiative/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/timeline-for-action/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/water-policy/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/youth-violence-policy/"
+},
+{
+"text": "[no text]",
+"href": "https://erikunderwood.com/services/youth-voting/"
+},
+{
+"text": "facebook-1",
+"href": "https://www.facebook.com/Erik4CO/"
+},
+{
+"text": "info@website.com",
+"href": "mailto:info@website.com"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/erik_underwood"
+},
+{
+"text": "team@erikunderwood.com",
+"href": "mailto:team@erikunderwood.com"
+},
+{
+"text": "tik-tok",
+"href": "https://www.tiktok.com/@erikmunderwood"
+},
+{
+"text": "twitter-x",
+"href": "https://x.com/ErikMUnderwood"
+}
 ]

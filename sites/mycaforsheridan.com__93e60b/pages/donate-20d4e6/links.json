@@ -1,12 +1,58 @@
 [
-"https://facebook.com/MycaforSheridan2026",
-"https://instagram.com/mycaforsheridan",
-"https://mycaforsheridan.com/",
-"https://mycaforsheridan.com/author/meldbutcher",
-"https://mycaforsheridan.com/donate",
-"https://mycaforsheridan.com/volunteer",
-"https://mycaforsheridan.com/what-matters-in-sheridan",
-"https://mycaforsheridan.com/what-matters-to-myca",
-"https://mycaforsheridan.nationbuilder.com/donate",
-"https://theswagcellar.chipply.com/myca-for-sheridan?action=viewall"
+{
+"text": "ABOUT",
+"href": "https://mycaforsheridan.com/what-matters-to-myca/"
+},
+{
+"text": "Click here to make an online gift",
+"href": "https://mycaforsheridan.nationbuilder.com/donate"
+},
+{
+"text": "DONATE",
+"href": "https://mycaforsheridan.com/donate/"
+},
+{
+"text": "Donate Online",
+"href": "https://mycaforsheridan.nationbuilder.com/donate"
+},
+{
+"text": "HOME",
+"href": "https://mycaforsheridan.com/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://mycaforsheridan.com/what-matters-in-sheridan/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://mycaforsheridan.com/volunteer/"
+},
+{
+"text": "Vote for Myca – Merch",
+"href": "https://theswagcellar.chipply.com/myca-for-sheridan/?action=viewall"
+},
+{
+"text": "[no text]",
+"href": "https://mycaforsheridan.com/"
+},
+{
+"text": "[tooltip: Email]",
+"href": "mailto:mycaforsheridan@gmail.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/MycaforSheridan2026/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/mycaforsheridan/"
+},
+{
+"text": "[tooltip: Phone]",
+"href": "tel:(307)%20752-6040"
+},
+{
+"text": "meldbutcher",
+"href": "https://mycaforsheridan.com/author/meldbutcher/"
+}
 ]

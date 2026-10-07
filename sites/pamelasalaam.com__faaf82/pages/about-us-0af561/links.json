@@ -1,11 +1,50 @@
 [
-"https://facebook.com/profile.php?id=61583433765729",
-"https://ivote.de.gov/VoterView",
-"https://legis.delaware.gov/Chambers/House/District",
-"https://pamelasalaam.com/",
-"https://pamelasalaam.com/about-us",
-"https://pamelasalaam.com/contact",
-"https://pamelasalaam.com/mobile-terms-of-service",
-"https://pamelasalaam.com/privacy-policy",
-"https://secure.actblue.com/donate/pamela-salaam-1"
+{
+"text": "About Us",
+"href": "https://pamelasalaam.com/about-us/"
+},
+{
+"text": "Contact",
+"href": "https://pamelasalaam.com/contact/"
+},
+{
+"text": "Delaware General Assembly",
+"href": "https://legis.delaware.gov/Chambers/House/District"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/pamela-salaam-1"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/profile.php?id=61583433765729"
+},
+{
+"text": "Home",
+"href": "https://pamelasalaam.com"
+},
+{
+"text": "Home",
+"href": "https://pamelasalaam.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://pamelasalaam.com/privacy-policy/"
+},
+{
+"text": "Register to Vote",
+"href": "https://ivote.de.gov/VoterView"
+},
+{
+"text": "Terms",
+"href": "https://pamelasalaam.com/mobile-terms-of-service/"
+},
+{
+"text": "Terms of Service",
+"href": "https://pamelasalaam.com/mobile-terms-of-service/"
+},
+{
+"text": "Voter Info & Mail Voting",
+"href": "https://ivote.de.gov/VoterView"
+}
 ]

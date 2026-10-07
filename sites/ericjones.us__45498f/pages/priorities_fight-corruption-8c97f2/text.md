@@ -1,59 +1,20 @@
-For too long, Washington has worked for corporations and career politicians instead of the people.
+0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES Fight Corruption Accountability and Results for Our Community For too long, Washington has worked for corporations and career politicians instead of the people.
 Money from corporations and special interests floods elections, lobbyists write policy behind closed doors, and billion-dollar companies exploit loopholes to skip their taxes — while families pay the price in higher costs, unsafe infrastructure, and broken trust.
 Eric believes corruption is the root of the affordability crisis.
 You can't lower costs until you change who government answers to.
 This isn't a left or right issue — Democrats, Republicans, and Independents are all getting squeezed by the same insiders.
 Eric is running against them.
-THE PROBLEM: A System Rigged for the Powerful
-Today, powerful corporations use campaign cash, lobbying, and loopholes to tilt the system in their favor:
-- Utility monopolies like PG&E raise rates while dodging accountability for safety failures.
-- Big Pharma price-gouges families and blocks the reforms that would lower costs.
-- The largest corporations pay little or nothing while working families pay their full share.
-- Politicians take corporate cash, trade stocks on inside information, and then say nothing can change.
+THE PROBLEM: A System Rigged for the Powerful Today, powerful corporations use campaign cash, lobbying, and loopholes to tilt the system in their favor: Utility monopolies like PG&E raise rates while dodging accountability for safety failures.
+Big Pharma price-gouges families and blocks the reforms that would lower costs.
+The largest corporations pay little or nothing while working families pay their full share.
+Politicians take corporate cash, trade stocks on inside information, and then say nothing can change.
 The result is a system where families work harder every year — and still fall behind.
-Eric’s Plan to End Corruption
-Get the Corruption and Money Out of Politics
-Eric will not take money from corporations, special interests, or lobbyists — and he will fight to ban it altogether.
+Eric’s Plan to End Corruption Get the Corruption and Money Out of Politics Eric will not take money from corporations, special interests, or lobbyists — and he will fight to ban it altogether.
 Elected officials should answer to voters, not corporate donors with armies of lobbyists.
 Ending corruption means changing how Washington works.
-Eric supports:
-- Strengthen ethics rules so elected officials can’t use public office for personal gain
-- Ban all money from corporations, special interests, and lobbyists — Eric takes none, and will fight to ban it in our politics
-- Ban members of Congress from trading stocks while in office
-- Overturn Citizens United and get corporate and special-interest money out of elections
-- Ban lobbyist money and close the revolving door — a two-year ban on direct lobbying, five years on behind-the-scenes influence
-Term Limits and Real Accountability
-- 12-year term limits for everyone — public service shouldn't be a 28-year career
-- Corporate welfare gets an expiration date — every corporate subsidy, every tax carve-out, and every major federal contract gets a fixed expiration date and has to prove it still works before it is renewed
-- Strengthen ethics rules so no official can use public office for private gain
-- Real-time disclosure of financial conflicts of interest
-End Gerrymandering — Everywhere
-Politicians shouldn't pick their own voters.
-- Independent redistricting commissions in every state — California included, because the maps should be drawn by citizens, not by either party protecting itself
-- Ban mid-decade redistricting everywhere — neither California nor Texas should have been allowed to change their maps and steal representation for political gain or retribution, no matter who started it, no matter if it was the right thing to do — redistricting should be Census-based
-Make Corporations Pay Their Fair Share
-- Go after the corporate tax cheats — Big Pharma, insurance, and Big Tech
-- Restore fair corporate tax rates and close the zero-tax loopholes
-- Use that revenue to lower costs, fund healthcare, reduce taxes for working Americans, and invest in housing and infrastructure
-- Bar senior officials from cashing in with the industries they once regulated
-Hold PG&E and the Monopolies Accountable
-- End PG&E’s monopoly and allow municipal utility providers — driven by federal regulation
-- End the bailouts that pass costs to ratepayers
-- Tie executive pay to safety and affordability
-- Push for stronger federal oversight
-- Explore public and cooperative alternatives
-- Hold PG&E accountable for preventing wildfires — and empowering CalFire to lead wildfire prevention instead of a for-profit monopoly
-End Big Pharma Price Gouging
-- Take on Big Pharma’s lobbying power — so we can provide free generic prescription drugs
-- Lower prescription drug prices through negotiation and competition
-- Close loopholes that protect monopolies instead of patients
-- Stop foreign countries from screwing us on drug prices
-- Keep biotech jobs in America — preventing Big Pharma from shipping these jobs abroad to save them some money
-Shine a Spotlight on Money and Influence
-- Full disclosure of all political spending — including dark money and shell groups
-- Require candidates and elected officials to disclose financial conflicts of interest in real time
-- Real accountability for anyone hiding donors or misleading the public
-THE BOTTOM LINE
-Ending corruption isn't symbolic — it's how we lower costs, protect public safety, and rebuild trust.
+Eric supports: Strengthen ethics rules so elected officials can’t use public office for personal gain Ban all money from corporations, special interests, and lobbyists — Eric takes none, and will fight to ban it in our politics Ban members of Congress from trading stocks while in office Overturn Citizens United and get corporate and special-interest money out of elections Ban lobbyist money and close the revolving door — a two-year ban on direct lobbying, five years on behind-the-scenes influence Read Full Policy Term Limits and Real Accountability 12-year term limits for everyone — public service shouldn't be a 28-year career Corporate welfare gets an expiration date — every corporate subsidy, every tax carve-out, and every major federal contract gets a fixed expiration date and has to prove it still works before it is renewed Strengthen ethics rules so no official can use public office for private gain Real-time disclosure of financial conflicts of interest Read Full Policy End Gerrymandering — Everywhere Politicians shouldn't pick their own voters.
+Independent redistricting commissions in every state — California included , because the maps should be drawn by citizens, not by either party protecting itself Ban mid-decade redistricting everywhere — neither California nor Texas should have been allowed to change their maps and steal representation for political gain or retribution, no matter who started it, no matter if it was the right thing to do — redistricting should be Census-based Read Full Policy Make Corporations Pay Their Fair Share Go after the corporate tax cheats — Big Pharma , insurance , and Big Tech Restore fair corporate tax rates and close the zero-tax loopholes Use that revenue to lower costs, fund healthcare, reduce taxes for working Americans, and invest in housing and infrastructure Bar senior officials from cashing in with the industries they once regulated Read Full Policy Hold PG&E and the Monopolies Accountable End PG&E’s monopoly and allow municipal utility providers — driven by federal regulation End the bailouts that pass costs to ratepayers Tie executive pay to safety and affordability Push for stronger federal oversight Explore public and cooperative alternatives Hold PG&E accountable for preventing wildfires — and empowering CalFire to lead wildfire prevention instead of a for-profit monopoly Read Full Policy End Big Pharma Price Gouging Take on Big Pharma’s lobbying powe r — so we can provide free generic prescription drugs Lower prescription drug prices through negotiation and competition Close loopholes that protect monopolies instead of patients Stop foreign countries from screwing us on drug prices Keep biotech jobs in America — preventing Big Pharma from shipping these jobs abroad to save them some money Read Full Policy Shine a Spotlight on Money and Influence Full disclosure of all political spending — including dark money and shell groups Require candidates and elected officials to disclose financial conflicts of interest in real time Real accountability for anyone hiding donors or misleading the public Read Full Policy THE BOTTOM LINE Ending corruption isn't symbolic — it's how we lower costs, protect public safety, and rebuild trust.
 Change who government answers to, and everything else becomes possible.
-Read about Eric’s plan to Lower the Cost of Living!
+Read about Eric’s plan to Lower the Cost of Living !
+Join the Fight Contribute Return to Top of Page Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+No corporate PAC or special interest money accepted.

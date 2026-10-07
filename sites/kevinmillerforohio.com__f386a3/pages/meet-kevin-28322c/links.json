@@ -1,7 +1,30 @@
 [
-"https://facebook.com/kevinmillerohio",
-"https://kevinmillerforohio.com/",
-"https://kevinmillerforohio.com/meet-kevin",
-"https://mobile.twitter.com/kevinmillerohio",
-"https://secure.anedot.com/miller-for-ohio/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/miller-for-ohio/donate"
+},
+{
+"text": "Home",
+"href": "https://kevinmillerforohio.com/"
+},
+{
+"text": "Meet Kevin",
+"href": "https://kevinmillerforohio.com/meet-kevin/"
+},
+{
+"text": "[image: facebook icon]",
+"href": "https://www.facebook.com/kevinmillerohio/"
+},
+{
+"text": "[image: facebook]",
+"href": "https://www.facebook.com/kevinmillerohio/"
+},
+{
+"text": "[image: twitter icon]",
+"href": "https://mobile.twitter.com/kevinmillerohio/"
+},
+{
+"text": "[image: twitter]",
+"href": "https://mobile.twitter.com/kevinmillerohio/"
+}
 ]

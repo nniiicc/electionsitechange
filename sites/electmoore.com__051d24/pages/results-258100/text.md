@@ -1,93 +1,26 @@
-Results
-Blake Moore has built one of the most effective records of any member of Congress in his class.
+0 Skip to Content Home Meet Blake Fighting for Utah Families Results Support Contact Donate Open Menu Close Menu Open Menu Close Menu Home Meet Blake Fighting for Utah Families Results Support Contact Donate Home Meet Blake Fighting for Utah Families Results Support Contact Donate Results Blake Moore has built one of the most effective records of any member of Congress in his class.
 He has passed significant legislation, secured wins for Utah families and small businesses, protected Hill Air Force Base, strengthened America’s supply chains, advanced conservation priorities, and delivered millions of dollars in federal investments for northern Utah communities.
 His work has earned national recognition, including being named the 2025 Best of Constituent Service winner by the Congressional Management Foundation.
-Legislation
-Signed Into Law
-- Blake has advanced key provisions that keep America safe and support servicemembers and their families.
-- Provisions for Hill Air Force Base (FY25 NDAA)
-- Secured significant military construction funding, Sentinel program support, protections for KC-135 tankers, new supply chain responsibilities for Air Force depots, and quality of life improvements for military families.
-- Hazardous Duty Tax Relief
-- Provided income tax exemption for servicemembers deployed in dangerous regions, including the Sinai Peninsula and Sahel.
-- Afghanistan Accountability Act (provisions in NDAA)
-- Required an examination of failures surrounding the Afghanistan withdrawal to strengthen future decision-making.
-- Blake is improving access to public lands while protecting Utah’s natural resources.
-- MAPLand Act
-- Digitized federal land access data to help hunters, anglers, hikers, and recreationists navigate public lands.
-- MAPWaters Act
-- Standardizes and modernizes waterway access data so anglers and boaters can easily understand rules, restrictions, and access points.
-- Range Access Act
-- Increases the availability of free public shooting ranges on federal lands and supports conservation through Pittman Robertson funding.
-- Saline Lake Ecosystems Act
-- Created a scientific monitoring program to help protect the Great Salt Lake and other western saline lakes.
-- Blake is working to strengthen families and expand opportunity for children.
-- Money Accounts for Growth and Advancement Act
-- Created early life investment accounts to promote financial literacy and long-term savings for American children.
-- Charitable Act
-- Reinstated a charitable deduction for non-itemizers so Utahns who tithe or donate can benefit even while taking the standard deduction.
-- Court Improvement Program Enhancement Act
-- Improved child welfare court processes, remote hearing capacity, and foster and adoption case safeguards.
-- Small Business Growth Act
-- Increased Section 179 expensing to $2.5 million to help small businesses purchase equipment, hire workers, and expand operations.
-- Better Cybercrime Metrics Act
-- Improved federal tracking and reporting of cybercrime to protect families and businesses.
-- National Medal of Honor Monument Act
-- Authorized the construction of a national monument in Washington to honor fewer than 4,000 Medal of Honor recipients.
-- Modernizing Access to Our Public Land (MAPLand) Act
-- Expanded and standardized outdoor access data for millions of land users nationwide.
-Leadership Roles
-Blake plays a key role in advancing conservative priorities in Congress.
-House Republican Leadership
-- Vice Chair, House Republican Conference
-- First Utahn ever elected to House or Senate leadership
-- Founder, Debt and Deficit Task Force
-- Created a Utah-driven model for federal fiscal reforms using four pillars:
-- grow the economy, strengthen vital programs, focus spending, and fix the budget process.
-- Assistant Whip on the Republican Whip Team
-- Vice Chair, Republican Governance Group
-Committee Leadership
-- First Utah Republican to serve on the House Ways and Means Committee
-- Serves on the Health, Trade, and Social Security subcommittees
-- House Armed Services Committee Representative on the House Budget Committee
-- House Armed Services Committee Conferee on the China legislation conference committee
-Caucus Leadership
-- Co-Chair, Air Force Caucus
-- Co-Chair, AUKUS Working Group
-- Co-Chair, Congressional Future Caucus
-- Co-Chair, Congressional What-Works Caucus
-- Co-Chair, DOGE Caucus
-- Co-Chair, House Military Depot, Arsenal, Ammunition Plant, and Industrial Facilities Caucus
-- Vice Chair, House Republican Conference
-- Conference Vice Chair, House Republican Steering Committee
-- Co-Chair, Military Depot and Industrial Facilities Caucus
-- Co-Chair, Ski and Snowboard Caucus
-- And membership on almost 40 other Republican and bipartisan caucuses and committees
-Awards and Recognition
-- A+ Rating, Susan B.
-Anthony Pro Life America
-- 2022 Fiscal Hero, Committee for a Responsible Federal Budget
-- PROMISE Award, National Head Start Association
-- 2022 NFIB Guardian of Small Business
-- Advocate for American Business, U.S.
-Chamber of Commerce
-- Conservation Leadership Recognition, Theodore Roosevelt Conservation Partnership
-- Bronze Minuteman Award, Utah National Guard and Honorary Colonels Corps of Utah
-Delivering For Northern Utah Communities
-Blake has worked closely with local leaders to secure federal investments that strengthen infrastructure, transportation, water systems, public safety, higher education, workforce development, outdoor recreation, and military readiness.
-These include:
-- $1 million for the Boys and Girls Club of Northern Utah’s community campus
-- $1 million for Summit County watershed resilience
-- $5 million for Logan’s biodigester expansion
-- $2.5 million to replace septic systems in Millville
-- $1.5 million for Weber State University’s Physician Assistant Program
-- $2 million for Ogden’s shared-use trail along the Ogden River
-- $2 million for the Young Street Bridge in Morgan City
-- $1.354 million for Mantua’s Main Street improvements
-- $1.5 million for Weber Housing Authority’s affordable housing site acquisition
-- $3.5 million for Manila’s sewage project
-- $515,000 for Uintah Basin Technical College equipment and training
-- $1 million for University of Utah programs serving foster youth
-- $585,000 for Utah State University research and career development
-- $3 million for Utah Military Installation Development Authority’s 3-Gate Trail
-- $3 million for Cache Valley Transit District’s bus tracking app
-- $1.2 million for Vernal’s historic Main Street improvements
+Legislation Signed Into Law National Defense, Security, and Veterans Blake has advanced key provisions that keep America safe and support servicemembers and their families.
+Provisions for Hill Air Force Base (FY25 NDAA) Secured significant military construction funding, Sentinel program support, protections for KC-135 tankers, new supply chain responsibilities for Air Force depots, and quality of life improvements for military families.
+Hazardous Duty Tax Relief Provided income tax exemption for servicemembers deployed in dangerous regions, including the Sinai Peninsula and Sahel.
+Afghanistan Accountability Act (provisions in NDAA) Required an examination of failures surrounding the Afghanistan withdrawal to strengthen future decision-making.
+Public Lands and Outdoor Access Blake is improving access to public lands while protecting Utah’s natural resources.
+MAPLand Act Digitized federal land access data to help hunters, anglers, hikers, and recreationists navigate public lands.
+MAPWaters Act Standardizes and modernizes waterway access data so anglers and boaters can easily understand rules, restrictions, and access points.
+Range Access Act Increases the availability of free public shooting ranges on federal lands and supports conservation through Pittman Robertson funding.
+Saline Lake Ecosystems Act Created a scientific monitoring program to help protect the Great Salt Lake and other western saline lakes.
+Supporting Families and Children Blake is working to strengthen families and expand opportunity for children.
+Money Accounts for Growth and Advancement Act Created early life investment accounts to promote financial literacy and long-term savings for American children.
+Charitable Act Reinstated a charitable deduction for non-itemizers so Utahns who tithe or donate can benefit even while taking the standard deduction.
+Court Improvement Program Enhancement Act Improved child welfare court processes, remote hearing capacity, and foster and adoption case safeguards.
+Small Business and Economic Growth Small Business Growth Act Increased Section 179 expensing to $2.5 million to help small businesses purchase equipment, hire workers, and expand operations.
+Cybersecurity and Technology Better Cybercrime Metrics Act Improved federal tracking and reporting of cybercrime to protect families and businesses.
+National Patriotism and Heritage National Medal of Honor Monument Act Authorized the construction of a national monument in Washington to honor fewer than 4,000 Medal of Honor recipients.
+Modernizing Access to Our Public Land (MAPLand) Act Expanded and standardized outdoor access data for millions of land users nationwide.
+Leadership Roles Blake plays a key role in advancing conservative priorities in Congress.
+House Republican Leadership Vice Chair, House Republican Conference First Utahn ever elected to House or Senate leadership Founder, Debt and Deficit Task Force Created a Utah-driven model for federal fiscal reforms using four pillars: grow the economy, strengthen vital programs, focus spending, and fix the budget process.
+Assistant Whip on the Republican Whip Team Vice Chair, Republican Governance Group Committee Leadership First Utah Republican to serve on the House Ways and Means Committee Serves on the Health, Trade, and Social Security subcommittees House Armed Services Committee Representative on the House Budget Committee House Armed Services Committee Conferee on the China legislation conference committee Caucus Leadership Co-Chair, Air Force Caucus Co-Chair, AUKUS Working Group Co-Chair, Congressional Future Caucus Co-Chair, Congressional What-Works Caucus Co-Chair, DOGE Caucus Co-Chair, House Military Depot, Arsenal, Ammunition Plant, and Industrial Facilities Caucus Vice Chair, House Republican Conference Conference Vice Chair, House Republican Steering Committee Co-Chair, Military Depot and Industrial Facilities Caucus Co-Chair, Ski and Snowboard Caucus And membership on almost 40 other Republican and bipartisan caucuses and committees Awards and Recognition A+ Rating, Susan B.
+Anthony Pro Life America 2022 Fiscal Hero, Committee for a Responsible Federal Budget PROMISE Award, National Head Start Association 2022 NFIB Guardian of Small Business Advocate for American Business, U.S.
+Chamber of Commerce Conservation Leadership Recognition, Theodore Roosevelt Conservation Partnership Bronze Minuteman Award, Utah National Guard and Honorary Colonels Corps of Utah Delivering For Northern Utah Communities Blake has worked closely with local leaders to secure federal investments that strengthen infrastructure, transportation, water systems, public safety, higher education, workforce development, outdoor recreation, and military readiness.
+These include: $1 million for the Boys and Girls Club of Northern Utah’s community campus $1 million for Summit County watershed resilience $5 million for Logan’s biodigester expansion $2.5 million to replace septic systems in Millville $1.5 million for Weber State University’s Physician Assistant Program $2 million for Ogden’s shared-use trail along the Ogden River $2 million for the Young Street Bridge in Morgan City $1.354 million for Mantua’s Main Street improvements $1.5 million for Weber Housing Authority’s affordable housing site acquisition $3.5 million for Manila’s sewage project $515,000 for Uintah Basin Technical College equipment and training $1 million for University of Utah programs serving foster youth $585,000 for Utah State University research and career development $3 million for Utah Military Installation Development Authority’s 3-Gate Trail $3 million for Cache Valley Transit District’s bus tracking app $1.2 million for Vernal’s historic Main Street improvements Contact the Campaign: (801) 900-3213‬ Terms and Conditions | Privacy Policy Paid for by Blake Moore for Congress All Rights Reserved

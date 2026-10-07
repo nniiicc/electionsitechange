@@ -1,9 +1,30 @@
 [
-"https://begoleforstaterep.com/",
-"https://begoleforstaterep.com/about",
-"https://begoleforstaterep.com/endorsements",
-"https://begoleforstaterep.com/events",
-"https://begoleforstaterep.com/events-1",
-"https://begoleforstaterep.com/get-involved",
-"https://secure.anedot.com/brian-begole-for-state-rep/donate"
+{
+"text": "About",
+"href": "https://www.begoleforstaterep.com/about"
+},
+{
+"text": "Donations",
+"href": "https://secure.anedot.com/brian-begole-for-state-rep/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.begoleforstaterep.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.begoleforstaterep.com/events-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.begoleforstaterep.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.begoleforstaterep.com"
+},
+{
+"text": "Issues",
+"href": "https://www.begoleforstaterep.com/events"
+}
 ]

@@ -1,2 +1,2 @@
-Join The Team Notice: JavaScript is required for this content.
-To contact Trey, please email trey@whartonfortexas.com or call (936) 661-5863
+Skip to content Skip to footer Home About Trey Clay Shoot 2026 Endorsements Join Us News Newsletter donate Home About Trey Clay Shoot 2026 Endorsements Join Us News Newsletter donate Home About Trey Clay Shoot 2026 Endorsements Join Us News Newsletter Join The Team Notice: JavaScript is required for this content.
+To contact Trey, please email trey@whartonfortexas.com or call (936) 661-5863 Contact Trey at trey@whartonfortexas.com or (936) 661-5863 Campaign Address: PO Box 1242 Huntsville TX 77342 pd pol ad • Trey Wharton Campaign Privacy Policy

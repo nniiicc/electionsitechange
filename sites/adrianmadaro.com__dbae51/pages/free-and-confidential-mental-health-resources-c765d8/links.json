@@ -1,79 +1,334 @@
 [
-"http://aaspe.net/",
-"http://deedeescry.com/",
-"http://leahjeanphoto.com/",
-"https://aahiinfo.org/aahi-resources",
-"https://adolescentselfinjuryfoundation.com/things-to-do-besides-self-harm",
-"https://adrianmadaro.com/",
-"https://adrianmadaro.com/contact",
-"https://adrianmadaro.com/get-involved",
-"https://adrianmadaro.com/meet-adrian",
-"https://adrianmadaro.com/news-events",
-"https://adrianmadaro.com/resources",
-"https://afsp.org/military-and-veteran-suicide-prevention",
-"https://afsp.org/story/10-ways-to-support-a-loved-one-who-has-lost-someone-to-suicide",
-"https://afsp.org/story/if-someone-tells-you-they-re-thinking-about-suicide-a-realconvo-guide-from-afsp",
-"https://atask.org/site",
-"https://bagly.org/",
-"https://blackandpinkma.org/programs/pen-pals",
-"https://calmharm.co.uk/",
-"https://cardinalatwork.stanford.edu/faculty-staff-help-center/resources/work-related/coping-traumatic-stress",
-"https://crisistextline.org/text-us",
-"https://facebook.com/adrianforrep",
-"https://fenwayhealth.org/info/locations/the-borum",
-"https://findtreatment.samhsa.gov/",
-"https://friendsforsurvival.org/",
-"https://goingclear.com/",
-"https://hopkinsguides.com/hopkins/view/Johns_Hopkins_Psychiatry_Guide/787393/all/Suicide_Risk_in_the_COVID_19_Pandemic",
-"https://instagram.com/adrianmadaro",
-"https://instagram.com/asianwomenforhealth",
-"https://itgetsbetter.org/",
-"https://jnj.com/caring-and-giving/7-statistics-about-veteran-suicide-be-there",
-"https://kff.org/coronavirus-covid-19/issue-brief/the-implications-of-covid-19-for-mental-health-and-substance-use",
-"https://maketheconnection.net/conditions/suicide",
-"https://mass.gov/service-details/statewide-advocacy-for-veterans-empowerment-save",
-"https://medium.com/racial-battle-fatigue/racial-battle-fatigue-what-is-it-and-what-are-the-symptoms-84f79f49ee1e",
-"https://mentalhealthfirstaid.org/2019/09/how-to-ask-an-adult-for-help",
-"https://mghclaycenter.org/self-care",
-"https://mhanational.org/events/building-resiliency-isolation-loneliness-how-increase-our-resiliency-during-covid-19-crisis",
-"https://mhanational.org/issues/latinxhispanic-communities-and-mental-health",
-"https://mindonmentalhealth.podbean.com/",
-"https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&lvlid=39",
-"https://nami.org/NAMI/media/NAMI-Media/Infographics/NAMI-Suicide-FINAL.pdf",
-"https://nami.org/blogs/nami-blog/october-2017/9-ways-to-fight-mental-health-stigma",
-"https://nicoa.org/national-american-indian-and-alaska-native-hope-for-life-day",
-"https://nimh.nih.gov/health/publications/warning-signs-of-suicide",
-"https://notokapp.com/",
-"https://nyc3.digitaloceanspaces.com/caih-rl-media/2021/02/Staying-Safe-and-Mentally-Well-During-COVID-19.pdf",
-"https://prisonbookprogram.org/about/who-we-are",
-"https://psychalive.org/tips-for-coping-with-coronovirus-stress",
-"https://psychology.uga.edu/coping-racial-trauma",
-"https://psychology.uga.edu/sites/default/files/Slide1_4.png",
-"https://samaritanshope.org/",
-"https://save.org/about-suicide/suicide-facts",
-"https://save.org/peersupport",
-"https://secure.actblue.com/donate/adrianmadaro",
-"https://sprc.org/scope/racial-ethnic-disparities",
-"https://stevefund.org/",
-"https://store.samhsa.gov/product/A-Journey-Toward-Health-and-Hope-Your-Handbook-for-Recovery-After-a-Suicide-Attempt/SMA15-4419",
-"https://store.samhsa.gov/sites/default/files/d7/priv/sma16-4935.pdf",
-"https://strongheartshelpline.org/",
-"https://suicideinfo.ca/ask-help-feeling-suicidal",
-"https://suicidepreventionlifeline.org/",
-"https://suicidepreventionlifeline.org/help-yourself",
-"https://suicidepreventionlifeline.org/help-yourself/loss-survivors",
-"https://teenvogue.com/gallery/meditation-apps-to-try-now",
-"https://therapyforblackgirls.com/about",
-"https://theschwartzcenter.org/webinar/managing-our-fears-and-stress-strategies-to-cultivate-emotional-agility",
-"https://thetrevorproject.org/get-help-now",
-"https://thetrevorproject.org/resources/trevor-support-center",
-"https://translifeline.org/hotline",
-"https://twitter.com/adrianmadaro",
-"https://veteranscrisisline.net/",
-"https://wernative.org/articles/wanting-to-end-your-life",
-"https://youmatter.suicidepreventionlifeline.org/about-you-matter-2",
-"https://youngminds.org.uk/blog/how-racism-impacts-my-mental-health",
-"https://youngminds.org.uk/blog/racism-and-my-mental-health",
-"https://yourlifeyourvoice.org/pages/home.aspx",
-"https://youtube.com/watch?v=WuAvRlMVmC4"
+{
+"text": "(53% vs. 31%)",
+"href": "https://www.kff.org/coronavirus-covid-19/issue-brief/the-implications-of-covid-19-for-mental-health-and-substance-use/"
+},
+{
+"text": "1.5 times higher",
+"href": "https://afsp.org/military-and-veteran-suicide-prevention"
+},
+{
+"text": "2.5 times higher",
+"href": "https://www.nicoa.org/national-american-indian-and-alaska-native-hope-for-life-day/"
+},
+{
+"text": "22%",
+"href": "https://www.jnj.com/caring-and-giving/7-statistics-about-veteran-suicide-be-there"
+},
+{
+"text": "2nd leading cause of death",
+"href": "https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&lvlid=39"
+},
+{
+"text": "A Journey Toward Health and Hope: Your Handbook for Recovery After a Suicide Attempt",
+"href": "https://store.samhsa.gov/product/A-Journey-Toward-Health-and-Hope-Your-Handbook-for-Recovery-After-a-Suicide-Attempt/SMA15-4419"
+},
+{
+"text": "A list of meditation and mindfulness apps",
+"href": "https://www.teenvogue.com/gallery/meditation-apps-to-try-now"
+},
+{
+"text": "Asian LifeNet Hotline",
+"href": "http://aaspe.net/"
+},
+{
+"text": "Asian Task Force Against Domestic Violence",
+"href": "https://www.atask.org/site/"
+},
+{
+"text": "Asian Women for Health",
+"href": "https://www.instagram.com/asianwomenforhealth/"
+},
+{
+"text": "BAGLY",
+"href": "https://www.bagly.org/"
+},
+{
+"text": "Black and Pink",
+"href": "https://www.blackandpinkma.org/programs/pen-pals"
+},
+{
+"text": "Blog",
+"href": "https://youngminds.org.uk/blog/racism-and-my-mental-health/"
+},
+{
+"text": "Boston Web Design",
+"href": "https://goingclear.com"
+},
+{
+"text": "Calm Harm",
+"href": "https://calmharm.co.uk/"
+},
+{
+"text": "Connections",
+"href": "https://save.org/peersupport/"
+},
+{
+"text": "Contact",
+"href": "https://www.adrianmadaro.com/contact/"
+},
+{
+"text": "Coping with Traumatic Stress",
+"href": "https://cardinalatwork.stanford.edu/faculty-staff-help-center/resources/work-related/coping-traumatic-stress"
+},
+{
+"text": "Crisis Text Line",
+"href": "https://www.crisistextline.org/text-us/"
+},
+{
+"text": "Data",
+"href": "https://www.kff.org/coronavirus-covid-19/issue-brief/the-implications-of-covid-19-for-mental-health-and-substance-use/"
+},
+{
+"text": "Dee Dee’s Cry",
+"href": "http://www.deedeescry.com/"
+},
+{
+"text": "Different ways",
+"href": "https://suicidepreventionlifeline.org/help-yourself/loss-survivors/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adrianmadaro"
+},
+{
+"text": "Donate Give. If you can.",
+"href": "https://secure.actblue.com/donate/adrianmadaro"
+},
+{
+"text": "Follow us on Instagram",
+"href": "https://www.instagram.com/adrianmadaro/"
+},
+{
+"text": "Follow us on Twitter",
+"href": "https://twitter.com/adrianmadaro"
+},
+{
+"text": "Friends for Survival",
+"href": "https://friendsforsurvival.org/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.adrianmadaro.com/get-involved/"
+},
+{
+"text": "Get Involved We’d Love to Have your Support.",
+"href": "https://www.adrianmadaro.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.adrianmadaro.com"
+},
+{
+"text": "Home",
+"href": "https://www.adrianmadaro.com/"
+},
+{
+"text": "How to",
+"href": "https://afsp.org/story/10-ways-to-support-a-loved-one-who-has-lost-someone-to-suicide"
+},
+{
+"text": "How to cope with racial trauma or be a better ally",
+"href": "https://psychology.uga.edu/sites/default/files/Slide1_4.png"
+},
+{
+"text": "Ideas for self care activities",
+"href": "https://www.mghclaycenter.org/self-care/"
+},
+{
+"text": "It Gets Better Project",
+"href": "https://itgetsbetter.org/"
+},
+{
+"text": "Leah Jean Photography",
+"href": "http://leahjeanphoto.com/"
+},
+{
+"text": "Lifeline",
+"href": "https://suicidepreventionlifeline.org/"
+},
+{
+"text": "Like us on Facebook",
+"href": "https://www.facebook.com/adrianforrep/"
+},
+{
+"text": "Making the connection",
+"href": "https://www.maketheconnection.net/conditions/suicide/"
+},
+{
+"text": "Meet Adrian",
+"href": "https://www.adrianmadaro.com/meet-adrian/"
+},
+{
+"text": "News & Events",
+"href": "https://www.adrianmadaro.com/news-events/"
+},
+{
+"text": "Not OK App",
+"href": "https://www.notokapp.com/"
+},
+{
+"text": "Racial Battle Fatigue: What is it and What are the Symptoms?",
+"href": "https://medium.com/racial-battle-fatigue/racial-battle-fatigue-what-is-it-and-what-are-the-symptoms-84f79f49ee1e"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianmadaro.com/resources/"
+},
+{
+"text": "Samaritans",
+"href": "https://samaritanshope.org/"
+},
+{
+"text": "Statewide Advocacy for Veterans Empowerment (SAVE)",
+"href": "https://www.mass.gov/service-details/statewide-advocacy-for-veterans-empowerment-save"
+},
+{
+"text": "StrongHearts Native Helpline",
+"href": "https://strongheartshelpline.org/"
+},
+{
+"text": "The Mind on Mental Health Podcast",
+"href": "https://mindonmentalhealth.podbean.com/"
+},
+{
+"text": "The National Suicide Prevention Hotline",
+"href": "https://suicidepreventionlifeline.org/"
+},
+{
+"text": "The Prison Book Program",
+"href": "https://prisonbookprogram.org/about/who-we-are/"
+},
+{
+"text": "The Steve Fund",
+"href": "https://www.stevefund.org/"
+},
+{
+"text": "The Sydney Borum, Jr. Health Center at Fenway Health",
+"href": "https://fenwayhealth.org/info/locations/the-borum/"
+},
+{
+"text": "The Trevor Project",
+"href": "https://www.thetrevorproject.org/get-help-now/"
+},
+{
+"text": "Therapy For Black Girls",
+"href": "https://therapyforblackgirls.com/about/"
+},
+{
+"text": "Things you can do instead of self-harming.",
+"href": "https://www.adolescentselfinjuryfoundation.com/things-to-do-besides-self-harm"
+},
+{
+"text": "This infosheet",
+"href": "https://nyc3.digitaloceanspaces.com/caih-rl-media/2021/02/Staying-Safe-and-Mentally-Well-During-COVID-19.pdf"
+},
+{
+"text": "This page",
+"href": "https://www.mhanational.org/issues/latinxhispanic-communities-and-mental-health"
+},
+{
+"text": "This tip sheet",
+"href": "https://www.psychalive.org/tips-for-coping-with-coronovirus-stress/"
+},
+{
+"text": "This webinar",
+"href": "https://mhanational.org/events/building-resiliency-isolation-loneliness-how-increase-our-resiliency-during-covid-19-crisis"
+},
+{
+"text": "This webinar",
+"href": "https://www.theschwartzcenter.org/webinar/managing-our-fears-and-stress-strategies-to-cultivate-emotional-agility/"
+},
+{
+"text": "This webinar",
+"href": "https://www.youtube.com/watch?v=WuAvRlMVmC4"
+},
+{
+"text": "Trans Lifeline",
+"href": "https://translifeline.org/hotline/"
+},
+{
+"text": "Veterans crisis line",
+"href": "https://www.veteranscrisisline.net/"
+},
+{
+"text": "We R Native",
+"href": "https://www.wernative.org/articles/wanting-to-end-your-life"
+},
+{
+"text": "You Matter",
+"href": "https://youmatter.suicidepreventionlifeline.org/about-you-matter-2/"
+},
+{
+"text": "Your Life Your Voice",
+"href": "https://www.yourlifeyourvoice.org/pages/home.aspx"
+},
+{
+"text": "[image]",
+"href": "https://www.adrianmadaro.com/"
+},
+{
+"text": "disproportionately high",
+"href": "https://sprc.org/scope/racial-ethnic-disparities"
+},
+{
+"text": "elevated risk",
+"href": "https://store.samhsa.gov/sites/default/files/d7/priv/sma16-4935.pdf"
+},
+{
+"text": "here",
+"href": "https://afsp.org/story/if-someone-tells-you-they-re-thinking-about-suicide-a-realconvo-guide-from-afsp"
+},
+{
+"text": "here",
+"href": "https://findtreatment.samhsa.gov/"
+},
+{
+"text": "here",
+"href": "https://psychology.uga.edu/coping-racial-trauma"
+},
+{
+"text": "here",
+"href": "https://www.nami.org/blogs/nami-blog/october-2017/9-ways-to-fight-mental-health-stigma"
+},
+{
+"text": "here",
+"href": "https://www.nimh.nih.gov/health/publications/warning-signs-of-suicide"
+},
+{
+"text": "here",
+"href": "https://www.suicideinfo.ca/ask-help-feeling-suicidal/"
+},
+{
+"text": "high risk",
+"href": "https://www.nami.org/NAMI/media/NAMI-Media/Infographics/NAMI-Suicide-FINAL.pdf"
+},
+{
+"text": "how and when to ask for help",
+"href": "https://www.mentalhealthfirstaid.org/2019/09/how-to-ask-an-adult-for-help/"
+},
+{
+"text": "mental health resources",
+"href": "https://aahiinfo.org/aahi-resources/"
+},
+{
+"text": "posts",
+"href": "https://youngminds.org.uk/blog/how-racism-impacts-my-mental-health/"
+},
+{
+"text": "resources and FAQs",
+"href": "https://www.thetrevorproject.org/resources/trevor-support-center/"
+},
+{
+"text": "safety plan and r",
+"href": "https://suicidepreventionlifeline.org/help-yourself/"
+},
+{
+"text": "tenth leading",
+"href": "https://save.org/about-suicide/suicide-facts/"
+},
+{
+"text": "vulnerable",
+"href": "https://www.hopkinsguides.com/hopkins/view/Johns_Hopkins_Psychiatry_Guide/787393/all/Suicide_Risk_in_the_COVID_19_Pandemic"
+}
 ]

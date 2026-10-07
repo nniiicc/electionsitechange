@@ -1,18 +1,102 @@
 [
-"https://facebook.com/GraceLeeforNYC",
-"https://graceleefornyc.com/",
-"https://graceleefornyc.com/about",
-"https://graceleefornyc.com/cart",
-"https://graceleefornyc.com/contact",
-"https://graceleefornyc.com/district",
-"https://graceleefornyc.com/endorsements",
-"https://graceleefornyc.com/media-kit",
-"https://graceleefornyc.com/policy",
-"https://graceleefornyc.com/vote",
-"https://instagram.com/graceleefornyc",
-"https://mobilize.us/graceleeforstatesenate",
-"https://oneswitchboard.com/privacy-policy/grace-lee-for-new-york",
-"https://secure.actblue.com/donate/g4nywebsite",
-"https://secure.actblue.com/donate/grace-lee-2",
-"https://x.com/graceleefornyc?lang=en"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/g4nywebsite"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/g4nywebsite"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/g4nywebsite"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/g4nywebsite"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/g4nywebsite"
+},
+{
+"text": "0",
+"href": "https://www.graceleefornyc.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.graceleefornyc.com/contact"
+},
+{
+"text": "Contact Us",
+"href": "https://www.graceleefornyc.com/contact"
+},
+{
+"text": "District 27",
+"href": "https://www.graceleefornyc.com/district"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/grace-lee-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.graceleefornyc.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.graceleefornyc.com/"
+},
+{
+"text": "Learn more",
+"href": "https://www.graceleefornyc.com/about"
+},
+{
+"text": "Media Kit",
+"href": "https://www.graceleefornyc.com/media-kit"
+},
+{
+"text": "Meet Grace",
+"href": "https://www.graceleefornyc.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/g4nywebsite"
+},
+{
+"text": "Policy",
+"href": "https://www.graceleefornyc.com/policy"
+},
+{
+"text": "Privacy Policy Here",
+"href": "https://oneswitchboard.com/privacy-policy/grace-lee-for-new-york"
+},
+{
+"text": "Privacy Policy and Terms & Conditions",
+"href": "https://oneswitchboard.com/privacy-policy/grace-lee-for-new-york"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.mobilize.us/graceleeforstatesenate/"
+},
+{
+"text": "Vote",
+"href": "https://www.graceleefornyc.com/vote"
+},
+{
+"text": "[image: Grace Lee for Senate]",
+"href": "https://www.graceleefornyc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/GraceLeeforNYC/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/graceleefornyc/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/graceleefornyc?lang=en"
+}
 ]

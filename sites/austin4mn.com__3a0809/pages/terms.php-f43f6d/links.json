@@ -1,12 +1,58 @@
 [
-"https://austin4mn.com/",
-"https://austin4mn.com/about.php",
-"https://austin4mn.com/development.php",
-"https://austin4mn.com/events.php",
-"https://austin4mn.com/privacy.php",
-"https://austin4mn.com/sign.php",
-"https://austin4mn.com/terms.php",
-"https://facebook.com/profile.php?id=61586177847909",
-"https://instagram.com/peterson4mn",
-"https://secure.winred.com/austin-peterson-for-senate/donate"
+{
+"text": "About",
+"href": "https://austin4mn.com/about.php"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/austin-peterson-for-senate/donate"
+},
+{
+"text": "Economic Development",
+"href": "https://austin4mn.com/development.php"
+},
+{
+"text": "Events",
+"href": "https://austin4mn.com/events.php"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61586177847909"
+},
+{
+"text": "Get a Sign",
+"href": "https://austin4mn.com/sign.php"
+},
+{
+"text": "Home",
+"href": "https://austin4mn.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/peterson4mn/"
+},
+{
+"text": "Learn More",
+"href": "https://austin4mn.com/about.php"
+},
+{
+"text": "Privacy Statement",
+"href": "https://austin4mn.com/privacy.php"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://austin4mn.com/terms.php"
+},
+{
+"text": "[image: Austin Peterson for Senate]",
+"href": "https://austin4mn.com/"
+},
+{
+"text": "[image]",
+"href": "https://austin4mn.com/"
+},
+{
+"text": "info@austin4mn.com",
+"href": "mailto:info@austin4mn.com"
+}
 ]

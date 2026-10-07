@@ -1,11 +1,42 @@
 [
-"https://app.mikedovilla.com/landing/contact",
-"https://app.mikedovilla.com/landing/request-a-yard-sign",
-"https://app.mikedovilla.com/landing/volunteer-with-team-dovilla",
-"https://checkbook.ohio.gov/",
-"https://facebook.com/dovillaforohio",
-"https://mikedovilla.com/",
-"https://ohiohouse.gov/members/michael-d-dovilla",
-"https://secure.winred.com/mike-dovilla-for-ohio/donate-today",
-"https://twitter.com/mikedovilla"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/mike-dovilla-for-ohio/donate-today#new_tab"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikedovilla.com/#MeetMike"
+},
+{
+"text": "Message Mike",
+"href": "https://app.mikedovilla.com/landing/contact"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://app.mikedovilla.com/landing/request-a-yard-sign"
+},
+{
+"text": "Volunteer",
+"href": "https://app.mikedovilla.com/landing/volunteer-with-team-dovilla"
+},
+{
+"text": "[image][image] [image][image] [image][image]",
+"href": "https://mikedovilla.com/"
+},
+{
+"text": "facebook",
+"href": "https://facebook.com/dovillaforohio"
+},
+{
+"text": "https://checkbook.ohio.gov",
+"href": "https://checkbook.ohio.gov"
+},
+{
+"text": "twitter",
+"href": "https://twitter.com/mikedovilla"
+},
+{
+"text": "website",
+"href": "https://ohiohouse.gov/members/michael-d-dovilla"
+}
 ]

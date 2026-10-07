@@ -1,16 +1,78 @@
 [
-"http://ellieforidaho.com/",
-"https://ellieforidaho.com/",
-"https://ellieforidaho.com/events",
-"https://ellieforidaho.com/join-the-campaign",
-"https://ellieforidaho.com/merch",
-"https://ellieforidaho.com/policies",
-"https://ellieforidaho.com/press",
-"https://ellieforidaho.com/privacy-policy",
-"https://ellieforidaho.com/yard-sign-request",
-"https://facebook.com/profile.php?id=61583905597891",
-"https://instagram.com/ellieforidaho",
-"https://linkedin.com/in/ellienewman",
-"https://policies.google.com/privacy",
-"https://secure.actblue.com/donate/ellieforidaho"
+{
+"text": "About Ellie Gilbreath",
+"href": "https://ellieforidaho.com/#about-ellie-gilbreath"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ellieforidaho"
+},
+{
+"text": "Events",
+"href": "https://ellieforidaho.com/events/"
+},
+{
+"text": "Google’s Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Join Us",
+"href": "https://ellieforidaho.com/join-the-campaign/"
+},
+{
+"text": "Merch",
+"href": "https://ellieforidaho.com/merch/"
+},
+{
+"text": "My Priorities",
+"href": "https://ellieforidaho.com/#my-priorities"
+},
+{
+"text": "Policies",
+"href": "https://ellieforidaho.com/policies/"
+},
+{
+"text": "Press",
+"href": "https://ellieforidaho.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ellieforidaho.com/privacy-policy/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://ellieforidaho.com/#why-im-running"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://ellieforidaho.com/yard-sign-request/"
+},
+{
+"text": "[image: Ellie For Idaho]",
+"href": "https://ellieforidaho.com/"
+},
+{
+"text": "[image: email]info@ellieforidaho.com",
+"href": "mailto:info@ellieforidaho.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583905597891"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ellieforidaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/ellienewman/"
+},
+{
+"text": "ellieforidaho.com",
+"href": "http://ellieforidaho.com/"
+},
+{
+"text": "info@ellieforidaho.com",
+"href": "mailto:info@ellieforidaho.com"
+}
 ]

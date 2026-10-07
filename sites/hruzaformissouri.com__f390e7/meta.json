@@ -1,9 +1,13 @@
 {
  "description": "George Hruza is running for Missouri State House of Representatives District 89 in St. Louis County. Click to learn about George.",
  "final_url": "https://hruzaformissouri.com/",
- "paid_for_by": null,
+ "fingerprint": "d7bfe5af846572643e26ac7570dc9b6b07fb752b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "George Hruza for State Representative",
  "years_mentioned": [
+  "2022",
+  "2023",
   "2026"
  ]
 }

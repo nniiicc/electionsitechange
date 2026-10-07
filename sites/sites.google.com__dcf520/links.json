@@ -1,8 +1,38 @@
 [
-"https://sites.google.com/view/allenforthepeople/about",
-"https://sites.google.com/view/allenforthepeople/behind-the-campaign",
-"https://sites.google.com/view/allenforthepeople/community-help-resources",
-"https://sites.google.com/view/allenforthepeople/gallery",
-"https://sites.google.com/view/allenforthepeople/home",
-"https://sites.google.com/view/allenforthepeople/why-im-running"
+{
+"text": "About",
+"href": "https://sites.google.com/view/allenforthepeople/about"
+},
+{
+"text": "Behind the Campaign",
+"href": "https://sites.google.com/view/allenforthepeople/behind-the-campaign"
+},
+{
+"text": "Community Help Resources",
+"href": "https://sites.google.com/view/allenforthepeople/community-help-resources"
+},
+{
+"text": "Gallery",
+"href": "https://sites.google.com/view/allenforthepeople/gallery"
+},
+{
+"text": "Home",
+"href": "https://sites.google.com/view/allenforthepeople/home"
+},
+{
+"text": "Why I'm running",
+"href": "https://sites.google.com/view/allenforthepeople/why-im-running"
+},
+{
+"text": "[image]",
+"href": "https://sites.google.com/view/allenforthepeople/home"
+},
+{
+"text": "[image]allenforthepeople",
+"href": "https://sites.google.com/view/allenforthepeople/home"
+},
+{
+"text": "allenforthepeople",
+"href": "https://sites.google.com/view/allenforthepeople/home"
+}
 ]

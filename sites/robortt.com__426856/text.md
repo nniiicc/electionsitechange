@@ -1,7 +1,8 @@
-top of page
-BATTLE-TESTED LEADERSHIP
-“New York's socialist and progressive leadership is failing our great state.
-To Save New York we need reliable, battle-tested leadership in Albany.”
-– Rob Ortt
-KEEP UP WITH ROB
-bottom of page
+top of page HOME ABOUT NEWS ISSUES CONTACT More Use tab to navigate through the menu items.
+DONATE BATTLE-TESTED LEADERSHIP “New York's socialist and progressive leadership is failing our great state.
+To Save New York we need reliable, battle-tested leadership in Albany.” – Rob Ortt KEEP UP WITH ROB First Name Last Name Email Zip Code Subscribe I accept terms & conditions Thanks for submitting!
+LATEST NEWS ABOUT ROB ISSUES CONTACT New York State Senator Rob Ortt, Assembly Members Mike Norris, and Angelo Morinello Advocate for Lockport Cave Legislation Lockport, NY – Today, New York State Senator Rob Ortt, alongside Assembly Members Mike Norris and Angello Morinello, discussed the...
+Jun 12, 2024 Statement From Senate Republican Leader Rob Ortt On End Of 2024 Legislative Session As we come to the end of the legislative session, once again Albany Democrats failed to take action on the most important issues facing...
+Jun 7, 2024 New York State Senate Minority Leader Rob Ortt Hosts Small Business Roundtable Discussion with local small business owners to improve Western New York’s Business Climate Kendall, NY – Today, New York State Senator...
+Apr 29, 2024 STAND WITH ROB DONATE TODAY PO Box 1279 North Tonawanda, NY 14120 Paid for by Rob Ortt for New York HOME ABOUT NEWS ISSUES CONTACT Subscribe to Our Newsletter I accept terms & conditions Sign me up!
+Submit Thanks for submitting! bottom of page

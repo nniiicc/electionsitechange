@@ -1,11 +1,50 @@
 [
-"https://alyciaforamerica.com/",
-"https://alyciaforamerica.com/contact",
-"https://alyciaforamerica.com/donate-now",
-"https://alyciaforamerica.com/views",
-"https://facebook.com/arg4usa",
-"https://instagram.com/arg4usa",
-"https://linkedin.com/company/alycia4usa",
-"https://x.com/alycia4usa",
-"https://youtube.com/@arg4usa"
+{
+"text": "Alycia Gruenhagen",
+"href": "https://www.alyciaforamerica.com"
+},
+{
+"text": "Contact",
+"href": "https://www.alyciaforamerica.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.alyciaforamerica.com/donate-now"
+},
+{
+"text": "Home",
+"href": "https://www.alyciaforamerica.com"
+},
+{
+"text": "My Views",
+"href": "https://www.alyciaforamerica.com/views"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.alyciaforamerica.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/arg4usa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/arg4usa"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/company/alycia4usa"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/alycia4usa"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@arg4usa"
+},
+{
+"text": "info@agformn.com",
+"href": "mailto:info@agformn.com"
+}
 ]

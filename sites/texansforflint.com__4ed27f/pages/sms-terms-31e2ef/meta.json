@@ -1,7 +1,12 @@
 {
  "description": "Text message program terms for George Flint Campaign for HD 70.",
  "final_url": "https://www.texansforflint.com/sms-terms/",
+ "fingerprint": "0aa615d53df532094fb09bc9240cc52884cc082d",
+ "format": 3,
  "paid_for_by": "paid for by George Flint Campaign for HD 70",
  "title": "SMS Terms | George Flint HD 70",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024",
+  "2026"
+ ]
 }

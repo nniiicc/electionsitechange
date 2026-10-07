@@ -1,11 +1,14 @@
 {
  "description": "",
  "final_url": "https://www.votebobbrinson.com/meet-bob",
- "paid_for_by": null,
+ "fingerprint": "49f326344bac7f9a0cf57d788e42ce5a678e73b4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "MEET BOB | Vote Bob Brinson 1",
  "years_mentioned": [
   "2011",
   "2022",
-  "2023"
+  "2023",
+  "2026"
  ]
 }

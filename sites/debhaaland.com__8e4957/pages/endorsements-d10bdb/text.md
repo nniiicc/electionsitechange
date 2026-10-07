@@ -1,100 +1,40 @@
-Endorsements
-Deb Haaland has a proven track record of delivering for New Mexico.
+Donate to a Campaign for All New Mexicans New Mexicans are facing tough challenges and Deb Haaland is the leader we need to challenge the status quo and move us toward a future where everyone can thrive.
+Do what you can today to help us win! $# $# $# $# $# Other amount Close Facebook Instagram X TikTok Bluesky YouTube Deb Haaland for New Mexico Menu News Home Meet Deb Deb’s Plan Endorsements Events Store Donate Endorsements Deb Haaland has a proven track record of delivering for New Mexico.
 Small-town farmers, hardworking New Mexicans, and proven leaders in our state and across the country are backing Deb to be the next Governor of New Mexico.
-- Ben Ray Luján U.S.
-Senator
-- Martin Heinrich U.S.
-Senator
-- Teresa Leger Fernández U.S.
-Representative
-- Melanie Stansbury U.S.
-Representative
-- Gabe Vasquez U.S.
-Representative
-- Paulene Abeyta State Representative
-- Marianna Anaya State Representative
-- Janelle Anyanonu State Representative
-- Clara Apodoca Former First Lady of New Mexico
-- Joaquin Baca Albuquerque City Councilor
-- Barbara Baca Bernalillo County Commissioner
-- Adriann Barboa Bernalillo County Commissioner
-- Hakim Bellamy Inaugural Poet Laureate of Albuquerque
-- Johana Bencomo Las Cruces Mayor Pro Tem
-- Cynthia Borrego State Representative
-- Charles Becknell Sr.
-Reverend
-- Alma Castro Santa Fe City Councilor
-- Kathleen Cates State Representative
-- Angel Charley State Senator
-- Gail Chasey Former State Representative
-- Marty Chavez Former Albuquerque Mayor
-- Eleanor Chavez State Representative
-- Brian Colón Former New Mexico Auditor
-- Pam Cordova Former Valenica County Chair
-- Becky Corran Las Cruces City Councilor
-- Siah Correa Hemphill Former State Sentator
-- Deborah Dapson Rio Rancho City Councilor
-- Brian Egolf Former State Representative
-- Dede Feldman Former State Senator
-- Joanne Ferrary State Representative
-- Tammy Fibelkorn Albuquerque City Councilor
-- Mike Garcia Mayor of Santa Fe
-- Paula Garcia Former Mora County Commissioner
-- Stephanie Garcia Richard New Mexico Land Commissioner
-- Anita Gonzales State Representative
-- Becki Graham Las Cruces City Councilor
-- Yanira Gurrola State Representative
-- Carrie Hamblen State Senator
-- Joseph Hernandez State Representative
-- Day Hochman-Vigil State Representative
-- Hank Hughes Santa Fe County Commissioner
-- Jemez Pueblo Federally Recognized Tribe
-- Josh Jones Sandoval County Commissioner
-- Charlotte Little State Representative
-- Linda Lopez State Senator
-- Tara Lujan State Representative
-- Javier Martínez Speaker of the New Mexico House
-- Brenda G.
-McKenna Former State Senator
-- Patricia Michaels Fashion Designer from Taos Pueblo
-- Cindy Nava State Senator
-- Jonathan Nez Former Navajo Nation President
-- Eric Olivas Bernalillo County Commissioner
-- Kristina Ortez State Representative
-- Michael Padilla State Senator
-- Klarissa Peña Albuquerque City Councilor
-- Picuris Pueblo Federally Recognized Tribe
-- Shannon Pinto State Senator
-- Steven Michael Quezada Former County Commissioner
-- Shannon Reynolds Doña Ana County Commissioner
-- Becki Roan Graham Las Cruces City Councilor
-- Nichole Rogers Albuquerque City Councilor
-- Andres Romero State Representative
-- Patricia Roybal-Caballero State Representative
-- Angelica Rubio State Representative
-- Santo Domingo Pueblo Federally Recognized Tribe
-- Debbie Sariñana State Representative
-- Antoinette Sedillo Lopez State Senator
-- Linda Serrato State Representative
-- Nathan Small NM House Appropriations and Finance Chair
-- Bill Soules State Senator
-- Liz Stefanics State Senator
-- Reena Szczepanski NM House Majority Leader
-- Liz Thomson State Representative
-- Diane Torres-Velásquez State Representative
-- Jack Torres Mayor of the Town of Bernalillo
-- Linda Trujillo State Senator
-- Lynn Trujillo Former NM Secretary of Indian Affairs
-- Rock G.
-Ulibarri Educator, Artist, Historian
-- Renee Villarreal Former Santa Fe City Councilor
-- Alvin Warren Former NM Secretary of Indian Affairs
-- Bill Woldman Corrales Town Councilor
-- Pueblo of Zuni Federally Recognized Tribe
-- Mimi Stewart New Mexico Senate President Pro Tempore
-- Jeff Steinborn State Senator
-- Leo Jaramillo State Senator
-- Dolores Huerta Civil Rights Leader, President of the Dolores Huerta Foundation, co-founder of the United Farm Workers
-- Tom Udall Former U.S.
+Ben Ray Luján U.S.
+Senator Martin Heinrich U.S.
+Senator Teresa Leger Fernández U.S.
+Representative Melanie Stansbury U.S.
+Representative Gabe Vasquez U.S.
+Representative Paulene Abeyta State Representative Marianna Anaya State Representative Janelle Anyanonu State Representative Clara Apodoca Former First Lady of New Mexico Joaquin Baca Albuquerque City Councilor Barbara Baca Bernalillo County Commissioner Adriann Barboa Bernalillo County Commissioner Hakim Bellamy Inaugural Poet Laureate of Albuquerque Johana Bencomo Las Cruces Mayor Pro Tem Cynthia Borrego State Representative Charles Becknell Sr.
+Reverend Alma Castro Santa Fe City Councilor Kathleen Cates State Representative Angel Charley State Senator Gail Chasey Former State Representative Marty Chavez Former Albuquerque Mayor Eleanor Chavez State Representative Brian Colón Former New Mexico Auditor Pam Cordova Former Valenica County Chair Becky Corran Las Cruces City Councilor Siah Correa Hemphill Former State Sentator Deborah Dapson Rio Rancho City Councilor Brian Egolf Former State Representative Dede Feldman Former State Senator Joanne Ferrary State Representative Tammy Fibelkorn Albuquerque City Councilor Mike Garcia Mayor of Santa Fe Paula Garcia Former Mora County Commissioner Stephanie Garcia Richard New Mexico Land Commissioner Anita Gonzales State Representative Becki Graham Las Cruces City Councilor Yanira Gurrola State Representative Carrie Hamblen State Senator Joseph Hernandez State Representative Day Hochman-Vigil State Representative Hank Hughes Santa Fe County Commissioner Jemez Pueblo Federally Recognized Tribe Josh Jones Sandoval County Commissioner Charlotte Little State Representative Linda Lopez State Senator Tara Lujan State Representative Javier Martínez Speaker of the New Mexico House Brenda G.
+McKenna Former State Senator Patricia Michaels Fashion Designer from Taos Pueblo Cindy Nava State Senator Jonathan Nez Former Navajo Nation President Eric Olivas Bernalillo County Commissioner Kristina Ortez State Representative Michael Padilla State Senator Klarissa Peña Albuquerque City Councilor Picuris Pueblo Federally Recognized Tribe Shannon Pinto State Senator Steven Michael Quezada Former County Commissioner Shannon Reynolds Doña Ana County Commissioner Becki Roan Graham Las Cruces City Councilor Nichole Rogers Albuquerque City Councilor Andres Romero State Representative Patricia Roybal-Caballero State Representative Angelica Rubio State Representative Santo Domingo Pueblo Federally Recognized Tribe Debbie Sariñana State Representative Antoinette Sedillo Lopez State Senator Linda Serrato State Representative Nathan Small NM House Appropriations and Finance Chair Bill Soules State Senator Liz Stefanics State Senator Reena Szczepanski NM House Majority Leader Liz Thomson State Representative Diane Torres-Velásquez State Representative Jack Torres Mayor of the Town of Bernalillo Linda Trujillo State Senator Lynn Trujillo Former NM Secretary of Indian Affairs Rock G.
+Ulibarri Educator, Artist, Historian Renee Villarreal Former Santa Fe City Councilor Alvin Warren Former NM Secretary of Indian Affairs Bill Woldman Corrales Town Councilor Pueblo of Zuni Federally Recognized Tribe Mimi Stewart New Mexico Senate President Pro Tempore Jeff Steinborn State Senator Leo Jaramillo State Senator Dolores Huerta Civil Rights Leader, President of the Dolores Huerta Foundation, co-founder of the United Farm Workers Tom Udall Former U.S.
 Senator and U.S.
-Ambassador
+Ambassador Organizations American Federation of Teachers New Mexico Conservation Voters New Mexico Elect Democratic Women Emilys List Moms Fed Up Native Organizers Alliance Action Fund Common Defense The nation’s largest grassroots membership organization of Progressive veterans.
+Committee of Interns and Residents of the Service Employees International Union (SEIU) the leading healthcare labor organization in New Mexico representing hundreds of frontline health care and essential service workers across New Mexico and thousands more across the nation New Mexico Native Vote Mobilizing a informed, active, and empowered Native electorate at the ballot box and in the legislature to deliver an agenda that serves our communities.
+Advance Native Political Leadership Advance Native Political Leadership (Advance) is the first and only national Native-led organization working to build a complete ecosystem approach to political power building in Native communities – leadership recruitment and support, civic engagement, data and research, and state and national coordination.
+Jane Fonda Climate PAC Since their founding, JanePAC has helped elect 170 climate candidates nationwide.
+Planned Parenthood Votes New Mexico Planned Parenthood Votes New Mexico (PPVNM) is committed to protecting and expanding New Mexicans’ access to reproductive and sexual health care through policy, grassroots organizing, and electing reproductive health care champions across all levels of government.
+NM Wild Action Fund The New Mexico Wild Action Fund is a 501 (C)4 non-profit dedicated to advancing policies that protect New Mexico’s Wilderness, wildlife, and water.
+Democrats Work for America Democrats listen to the people actually on the ground — local activists, organizers, and voters — to understand how candidates are really landing in their districts.
+That grassroots intelligence gives us a strategic edge national operatives often miss.
+Communications Workers of America Local 7076 Local 7076 represents public employees with members in the State of New Mexico, University of New Mexico (UNM), University of New Mexico Hospital (UNMH), Central New Mexico Community College (CNM), Timberon Water and Sanitation Department, and Albuquerque Community Safety.
+New Mexico Voices for Children Action Fund To advance child and family-centered policies and leadership that support measurable and meaningful improvements in the well-being of New Mexico’s families through policy and electoral advocacy.
+OLÉ OLÉ fights to enrich and empower New Mexico’s working families.
+350 Santa Fe, inc.
+The mission of 350 Santa Fe is to promote rapid and just reductions in greenhouse gas emissions through education and advocacy in Santa Fe and throughout New Mexico.
+Animal Protection Voters NM Animal Protection Voters is a 501(c)(4) social welfare organization with a mission to: Actively promote and support animal-friendly legislation at the local, state and federal levels; Build an effective political voice for animal advocacy in New Mexico; and Hold New Mexico’s elected officials accountable on animal issues.
+Semilla Action At Semilla Action, we believe we can advance and achieve equity, justice, wellbeing, and opportunities for our families and communities by empowering and activating the BIPOC, Immigrant, LGBTQ+, Workers, Youth & Women electorate in New Mexico.
+End Citizens United Fixing our democracy by getting big money out of politics and protecting the right to vote.
+One Fair Wage One Fair Wage (OFW) fights for fair wages on behalf of the more than 13.6 million restaurant workers nationwide, including our 300,000 restaurant worker members and over 2500 ‘high road’ restaurant employers.
+New Mexico Working Families Party SMART Local 49 Communications Workers of America NM Legislative Council Western States Regional Council of Carpenters National Education Association New Mexico New Mexico State College Democrats Young Democrats of New Mexico Equality New Mexico Sierra Club Rio Grande Chapter Santa Fe New Mexican Moms Demand Action Gun Sense Candidate Reproductive Freedom for All GIFFORDS PAC New Mexico Professional Fire Fighters Association UA Local 412 Plumbers & Pipefitters AFSCME Council 18 UNM College Democrats Law Democrats New Mexico State Council of Machinists and Aerospace Workers New Mexico Federation of Labor Democrats Abroad Veterans and Military Families Caucus Join Deb’s Campaign Deb Haaland is running for Governor because she’s lived the struggles of New Mexicans.
+She understands that crime, homelessness, addiction, and high prices are putting success out of reach for many families in our state and Deb is determined to face those challenges head-on.
+First name Email address * Zip code * Mobile number By submitting this form and providing your mobile number, you consent to receive voter contact, donation asks, and informational messages from Deb for New Mexico.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Text HELP for help.
+Privacy Policy and Terms.
+Sign Up!
+Give Do what you can today to help us win! $10 $25 $100 $250 $500 Other amount Deb Haaland for New Mexico Home The Latest Meet Deb Deb’s Plan Endorsements Follow Us: Facebook Instagram X TikTok Bluesky YouTube Donate By Mail Deb for New Mexico PO Box 25024 Albuquerque, NM 87125 Paid for and authorized by Deb for New Mexico Contact Privacy Policy Made with Middle Seat

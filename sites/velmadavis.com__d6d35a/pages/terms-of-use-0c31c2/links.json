@@ -1,13 +1,54 @@
 [
-"http://velmadavis.com/PrivacyPolicy",
-"https://facebook.com/profile.php?id=61582422245043",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/vdavis4kansas",
-"https://velmadavis.com/",
-"https://velmadavis.com/about",
-"https://velmadavis.com/contact",
-"https://velmadavis.com/donate",
-"https://velmadavis.com/privacy-policy",
-"https://velmadavis.com/terms-of-use",
-"https://velmadavis.com/voting"
+{
+"text": "About",
+"href": "https://velmadavis.com/about"
+},
+{
+"text": "Contact",
+"href": "https://velmadavis.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://velmadavis.com/donate"
+},
+{
+"text": "Home",
+"href": "https://velmadavis.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://velmadavis.com/privacy-policy"
+},
+{
+"text": "Terms of Use",
+"href": "https://velmadavis.com/terms-of-use"
+},
+{
+"text": "Velma Davis for KS House of Rep - Dist 91Velma Davis for KS House of Rep - Dist 91Velma Davis for KS House of Rep - Dist 91Velma Davis for KS House of Rep - Dist 91",
+"href": "https://velmadavis.com/"
+},
+{
+"text": "Voting",
+"href": "https://velmadavis.com/voting"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582422245043"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vdavis4kansas/"
+},
+{
+"text": "https://www.velmadavis.com/privacy-policy",
+"href": "http://www.velmadavis.com/PrivacyPolicy"
+},
+{
+"text": "velma@velmadavis.com",
+"href": "mailto:velma@velmadavis.com"
+}
 ]

@@ -1,13 +1,54 @@
 [
-"https://adrbms.com/",
-"https://billmorrisforstaterep.com/",
-"https://billmorrisforstaterep.com/about",
-"https://billmorrisforstaterep.com/contact",
-"https://billmorrisforstaterep.com/contribute",
-"https://billmorrisforstaterep.com/volunteer",
-"https://billmorrisforstaterep.com/website-policies",
-"https://facebook.com/votebillmorris",
-"https://instagram.com/votebillmorris",
-"https://secure.anedot.com/bill-morris-for-state-house-district-50/bill-morris-for-alabama",
-"https://youtube.com/"
+{
+"text": "(Privacy & Website Policies)",
+"href": "https://billmorrisforstaterep.com/website-policies/"
+},
+{
+"text": "(opens in new tab)",
+"href": "https://facebook.com/votebillmorris"
+},
+{
+"text": "(opens in new tab)",
+"href": "https://instagram.com/votebillmorris"
+},
+{
+"text": "About",
+"href": "https://billmorrisforstaterep.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://billmorrisforstaterep.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://billmorrisforstaterep.com/contribute/"
+},
+{
+"text": "Donate",
+"href": "https://billmorrisforstaterep.com/contribute/"
+},
+{
+"text": "Donate Now(opens in new tab)",
+"href": "https://secure.anedot.com/bill-morris-for-state-house-district-50/bill-morris-for-alabama"
+},
+{
+"text": "Volunteer",
+"href": "https://billmorrisforstaterep.com/volunteer/"
+},
+{
+"text": "Website Policies |",
+"href": "https://billmorrisforstaterep.com/website-policies/"
+},
+{
+"text": "Website by adrBMS.com",
+"href": "https://adrbms.com"
+},
+{
+"text": "[image: Bill Morris for State Representative]",
+"href": "https://billmorrisforstaterep.com/"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com"
+}
 ]

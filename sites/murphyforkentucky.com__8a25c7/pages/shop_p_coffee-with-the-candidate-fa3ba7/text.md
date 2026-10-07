@@ -1,2 +1,2 @@
-Shop › Coffee with the Candidate Image 1 of 1 Coffee with the Candidate $0.00 Coffee with the Candidate Coffee with the Candidate Added!
-Coffee with the Candidate
+Skip to Content Open Menu Close Menu Donate Substack Shop Contact About ( 0 ) Cart ( 0 ) DONATE ( 0 ) Cart ( 0 ) DONATE Donate Substack Shop Contact About Open Menu Close Menu Donate Substack Shop Contact About DONATE Shop › Coffee with the Candidate Image 1 of 1 Coffee with the Candidate $0.00 Coffee with the Candidate Coffee with the Candidate Added!
+Coffee with the Candidate BRAVE 2026 - MURPHY FOR KENTUCKY Made with Squarespace brave2026@murphyforkentucky.com 502-BRAVE-KY

@@ -1,10 +1,13 @@
 {
  "description": "Check any address against the new 2026 OH-13 lines: all of Summit County (Akron), northern Stark County (Canton), plus Kent and Streetsboro in Portage County.",
  "final_url": "https://www.sandeepdixit.com/district",
+ "fingerprint": "ed60448d77ab8ff9eedc60fbea1b545955fed366",
+ "format": 3,
  "paid_for_by": "Paid for by Sandeep Dixit for Congress",
  "title": "Am I in Ohio's 13th Congressional District? 2026 OH-13 Map | Sandeep Dixit for Congress",
  "years_mentioned": [
   "2025",
-  "2026"
+  "2026",
+  "2032"
  ]
 }

@@ -1,6 +1,8 @@
-Why Quentin Wittrock Has No Business Running as a Republican in CD3
-By Tyler Bass | Bass for Congress | Vote August 11th — Republican Primary
-Let me be straightforward with you, because that’s the only way I know how to operate.
+Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin NO MORE RINOS June 1, 2026 No Comments Why Quentin Wittrock Has No Business Running as a Republican in CD3 By Tyler Bass | Bass for Congress | Vote August 11th — Republican Primary Let me be straightforward with you, because that’s the only way I know how to operate.
 Minnesota’s 3rd Congressional District deserves a true Republican in Congress.
 Someone who voted for Donald Trump.
 Someone who believes in secure borders, American workers, and common-sense conservative values.
@@ -35,8 +37,7 @@ Just a stare.
 If what I said wasn’t true, he had every opportunity to stand up and say so.
 He chose not to.
 I’ll let you draw your own conclusions about what that silence means.
-The Pressure Campaign to Clear the Field
-Before we get into Quentin’s policy positions — and we will, because they’re just as troubling as his voting record — I want to talk about what happened behind the scenes of this race, because the people of CD3 deserve to know how their Republican Party has been operating.
+The Pressure Campaign to Clear the Field Before we get into Quentin’s policy positions — and we will, because they’re just as troubling as his voting record — I want to talk about what happened behind the scenes of this race, because the people of CD3 deserve to know how their Republican Party has been operating.
 Early in my congressional campaign, I was approached by people in positions of influence within the GOP structure and told, point blank, to drop out.
 Or at the very least, to step back and run for state house instead.
 Why?
@@ -64,8 +65,7 @@ Quentin Wittrock is a lawyer.
 He knows how systems work.
 He knows how to work a room, work a process, and work relationships.
 That’s exactly what concerns me about sending him to Washington.
-His Policy Positions Are Not Republican Positions
-Setting aside his voting record and the convention situation — let’s talk about what Quentin actually believes, because his policy positions are about as far from the Republican mainstream as you can get while still calling yourself a Republican.
+His Policy Positions Are Not Republican Positions Setting aside his voting record and the convention situation — let’s talk about what Quentin actually believes, because his policy positions are about as far from the Republican mainstream as you can get while still calling yourself a Republican.
 On immigration: Quentin supports open borders and wants to expand the H1B visa program.
 In a congressional district where working-class Minnesotans are already struggling to find good-paying jobs in construction, manufacturing, and the trades, his answer is to bring in more foreign workers to compete for those jobs.
 I’ve written at length about the immigration crisis in this district — the cartel pipeline that runs through our labor market, the way undocumented workers are being exploited in roofing crews and restaurant kitchens, the impact on wages and job availability for American workers.
@@ -130,8 +130,7 @@ They’ve watched their kids leave the state.
 They’ve watched an establishment political class — in both parties — make decisions that benefit insiders while working people absorb the consequences.
 They don’t need another insider.
 They need a fighter.
-I Am That Fighter
-I came to the Twin Cities in 2013 with nothing but a work ethic and a belief that Minnesota would reward honest effort.
+I Am That Fighter I came to the Twin Cities in 2013 with nothing but a work ethic and a belief that Minnesota would reward honest effort.
 I built companies.
 I created jobs.
 I learned this district from the ground up — not from a law office billing $600 an hour, but from job sites, gym floors, and conversations with real people about real problems.
@@ -143,3 +142,22 @@ They can vote for a Never Trumper RINO who was handed the race by party insiders
 Or they can vote for a job creator, a business owner, a true conservative, and a genuine Republican who has been fighting for this district from day one.
 The choice is clear.
 Vote Bass for Congress — August 11th Republican Primary.
+Share: Facebook Twitter Pinterest LinkedIn Tyler Bass Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Social Media Facebook-f Youtube Twitter Instagram Most Popular Voter ID October 2, 2026 Americans Should Always Come First October 2, 2026 “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” October 1, 2026 Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+September 6, 2026 Get The Latest Updates Subscribe To Our Weekly Newsletter No spam, notifications only about news & updates.
+Email Address Phone # Name subscribe Categories Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Prev Previous Make Minnesota Affordable Again Next 180 Visa Types, One Broken System: Next On Key Related Posts Voter ID Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Americans Should Always Come First Who Stands for Lizbeth Medina?
+Lizbeth Medina was 16, a cheerleader at Edna High School in Texas.
+In December 2023 she was supposed to perform “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” Where Is the Money Going?
+What I Saw Outside Autism Sibs Universe By Ty Bass, Republican candidate for Congress, Minnesota’s 3rd District First, I want Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+What I Saw Inside Autism Sibs Universe — And Why I’m Calling for Accountability I don’t usually talk about my contracting work on the campaign Let's work together to tackle the fraud!
+Paid for by Tyler Bass For Congress Menu Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved

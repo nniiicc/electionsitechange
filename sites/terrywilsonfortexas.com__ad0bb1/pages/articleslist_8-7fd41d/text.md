@@ -1,4 +1,4 @@
-As we come to the close of the 85th Texas Legislative Session, some of the larger issues that have been under consideration are finally coming up for a hearing; most importantly, Senate Bill 2 (SB2), which would make large scale changes to the state’s property tax system.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements May 26, 2017 Jeff Frazier Sit-Rep #8 - SB 2 and Property Tax Reform May 26, 2017 Jeff Frazier As we come to the close of the 85th Texas Legislative Session, some of the larger issues that have been under consideration are finally coming up for a hearing; most importantly, Senate Bill 2 (SB2), which would make large scale changes to the state’s property tax system.
 I want to take a moment to go over some of the provisions in both the House and Senate versions of this bill and how they would affect our district.
 The key difference between the House and Senate versions of SB2 is how much a city or county can raise its property tax without an expensive election.
 At the core of the property tax discussion is the “effective tax rate” which the house version will re-name the “no new revenue rate”.
@@ -28,3 +28,15 @@ Even though the original bill exempted nearly all cities in our district from it
 As a result, I like the changes the House made to SB2, eliminating the automatic elections, keeping the tax rate increase cap at 8%, and adding in provisions to keep taxpayers in the loop about how their local governments are handling their tax rates.
 The original provisions from the Senate are excellent ideas for Houston, Dallas, and other big cities.
 But when it comes to rural and suburban Texas, we should be able to handle these things on our own.
+May 26, 2017 Jeff Frazier Jeff Frazier Sit-Rep #9 - The Good - Coming to A Budget Agreement Sit-Rep #7 - Budgets (part 2) & School Finance Reform Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

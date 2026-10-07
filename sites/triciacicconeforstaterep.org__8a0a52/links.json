@@ -1,8 +1,34 @@
 [
-"https://facebook.com/profile.php?id=61589251727900",
-"https://instagram.com/triciacicconeforstaterep",
-"https://secure.anedot.com/tricia-ciccone-for-state-representative/donate",
-"https://triciacicconeforstaterep.org/",
-"https://triciacicconeforstaterep.org/about-tricia",
-"https://triciacicconeforstaterep.org/blank"
+{
+"text": "About Tricia",
+"href": "https://www.triciacicconeforstaterep.org/about-tricia"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/tricia-ciccone-for-state-representative/donate"
+},
+{
+"text": "Home",
+"href": "https://www.triciacicconeforstaterep.org"
+},
+{
+"text": "Priorities",
+"href": "https://www.triciacicconeforstaterep.org/blank"
+},
+{
+"text": "[image: Tricia-Ciccone-for-State-Representative-logo]",
+"href": "https://www.triciacicconeforstaterep.org"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61589251727900"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/triciacicconeforstaterep/"
+},
+{
+"text": "tricia@triciacicconeforstaterep.org",
+"href": "mailto:tricia@triciacicconeforstaterep.org"
+}
 ]

@@ -1,4 +1,4 @@
-The more things change, the more they stay the same.
+Why I Serve News Donate Why I Serve News Donate Dennis Malloy August 7, 2026 The Danger of CACR 12 Dennis Malloy August 7, 2026 Greenland/Rye State Representative Dennis Malloy Deputy Ranking Member of House Ways and Means Committee The more things change, the more they stay the same.
 For over 200 years, New Hampshire has thrived as a state.
 Every two years, we come together as a legislature and pass a balanced budget to keep our state running for the next biennium.
 The amount of spending will change, the things we fund will change, and the way we raise revenue will change.
@@ -27,11 +27,10 @@ So why the push for this now?
 That’s a great question.
 Last fall, members of this body filed over 800 bills for the legislature to consider in the 2026 session.
 This proposal was not one of them.
-It showed up as a nongermane amendment to a Senate bill a month ago.
+It showed up as a nongermane amendment to a Senate bill #ago.
 Amending the constitution is a big deal and should require a high bar.
 Based on the rhetoric I’ve heard surrounding this CACR, you’d think we pass every Constitutional Amendment onto the voters because it’s simply the right thing to do.
-“Just let the people decide.”
-We all know that’s not how it actually works.
+“Just let the people decide.” We all know that’s not how it actually works.
 We’ve taken up 24 Constitutional Amendment proposals in the House alone this year.
 On subjects ranging from the right to fish to the right to vote.
 And the only one of those 24 amendments that we’ve seen fit to pass onto the voters is one eliminating the Register of Probate.
@@ -40,3 +39,6 @@ A proposal that may be new to us but also resembles amendments this body rejecte
 Amending the constitution to ban a tax that doesn’t exist will do nothing to reduce the burden of property taxes and the rising cost of essentials like food, housing, and childcare that voters are repeatedly voicing today.
 This amendment is poorly written, unnecessary, and performative.
 I urge my colleagues to press the RED button to defeat this motion.
+Newer Post BIA Legislator Ratings for 2026 Older Post Concord Has Failed to Lower Costs Have a question or comment for Dennis Malloy?
+Contact information: dennis@dennismalloy.com 10 Van Etten Drive Greenland, NH 03840 603 970 1827 Dennis Malloy, Rockingham District 24, NH House of Representatives.
+Back to Top Donate dennis@dennismalloy.com Powered by Squarespace

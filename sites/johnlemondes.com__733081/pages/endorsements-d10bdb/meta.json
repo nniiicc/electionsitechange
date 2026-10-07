@@ -1,7 +1,9 @@
 {
  "description": "Explore John Lemondes endorsements for his 2024 New York State Assembly reelection campaign from key supporters and organizations.",
  "final_url": "https://johnlemondes.com/endorsements",
- "paid_for_by": null,
+ "fingerprint": "15eb581d886cc72a9ecdadf65d79e127454580ec",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements",
  "years_mentioned": [
   "2024"

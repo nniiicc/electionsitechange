@@ -1,10 +1,38 @@
 [
-"https://cairaction.org/",
-"https://colinforcalifornia.com/",
-"https://colinforcalifornia.com/?page_id=174",
-"https://dsa-la.org/wp-content/uploads/2026/05/2026_primary_voter_guide-1.pdf",
-"https://instagram.com/p/DYDXkNtCesz?img_index=1",
-"https://instagram.com/progressivevotersnetwork",
-"https://knock-la.com/knock-la-progressive-voter-guide-june-2026-primary-election",
-"https://secure.actblue.com/donate/colinforcad51"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/colinforcad51"
+},
+{
+"text": "DSA-LA",
+"href": "https://dsa-la.org/wp-content/uploads/2026/05/2026_primary_voter_guide-1.pdf"
+},
+{
+"text": "ISSUES",
+"href": "https://colinforcalifornia.com/?page_id=174"
+},
+{
+"text": "ISSUES",
+"href": "https://colinforcalifornia.com/?page_id=174%09"
+},
+{
+"text": "Knock LA",
+"href": "https://knock-la.com/knock-la-progressive-voter-guide-june-2026-primary-election/#state"
+},
+{
+"text": "Travis Helwig",
+"href": "https://www.instagram.com/p/DYDXkNtCesz/?img_index=1"
+},
+{
+"text": "[image]",
+"href": "https://cairaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://colinforcalifornia.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/progressivevotersnetwork/"
+}
 ]

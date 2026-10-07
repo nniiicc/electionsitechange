@@ -1,13 +1,70 @@
 [
-"https://alangordonri.com/",
-"https://alangordonri.com/bio",
-"https://alangordonri.com/contact",
-"https://alangordonri.com/donations",
-"https://alangordonri.com/investigations-and-initiatives",
-"https://alangordonri.com/minority-constitutional-advocate",
-"https://alangordonri.com/platform",
-"https://alangordonri.com/survey.html",
-"https://riag.ri.gov/about-our-office/history",
-"https://rilegislature.gov/riconstitution/Constitution/ConstFull.aspx",
-"https://vote.sos.ri.gov/Candidates/AreYouEligible"
+{
+"text": "About the office’s authority →",
+"href": "https://riag.ri.gov/about-our-office/history"
+},
+{
+"text": "Alan Gordon for Attorney General",
+"href": "https://alangordonri.com/"
+},
+{
+"text": "Alan GordonFor Attorney General",
+"href": "https://alangordonri.com/"
+},
+{
+"text": "Contact",
+"href": "https://alangordonri.com/contact/"
+},
+{
+"text": "Contact the campaign",
+"href": "https://alangordonri.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://alangordonri.com/donations/"
+},
+{
+"text": "Donations",
+"href": "https://alangordonri.com/donations/"
+},
+{
+"text": "Explore the platform",
+"href": "https://alangordonri.com/platform/"
+},
+{
+"text": "Home",
+"href": "https://alangordonri.com/"
+},
+{
+"text": "Initiatives",
+"href": "https://alangordonri.com/investigations-and-initiatives/"
+},
+{
+"text": "Meet Alan",
+"href": "https://alangordonri.com/bio/"
+},
+{
+"text": "Neutrality Guarantee",
+"href": "https://alangordonri.com/minority-constitutional-advocate/"
+},
+{
+"text": "Platform",
+"href": "https://alangordonri.com/platform/"
+},
+{
+"text": "Read the platform",
+"href": "https://alangordonri.com/platform/"
+},
+{
+"text": "Rhode Island Constitution, Article III →",
+"href": "https://www.rilegislature.gov/riconstitution/Constitution/ConstFull.aspx"
+},
+{
+"text": "Secretary of State eligibility chart →",
+"href": "https://vote.sos.ri.gov/Candidates/AreYouEligible"
+},
+{
+"text": "Voter Survey",
+"href": "https://alangordonri.com/survey.html"
+}
 ]

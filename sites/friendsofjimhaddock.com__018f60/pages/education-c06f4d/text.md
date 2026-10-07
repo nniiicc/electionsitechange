@@ -1,5 +1,5 @@
-EDUCATION
-Jim Haddock knows our public schools, and he knows what they need to provide quality education.
+Skip to content Home About Jim Issues Women’s Rights Education Standing Up for Our Community Fighting for Hardworking Pennsylvanians Standing Up for the Environment Get Involved Upcoming Events DONATE 0 Cart No products in the cart.
+Return to shop DONATE DONATE EDUCATION Jim Haddock knows our public schools, and he knows what they need to provide quality education.
 Unfortunately, extremists on the ballot this November want to drastically reduce funding for our public schools for unaccountable schools run by for-profit organizations, hurting our teachers and diminishing the quality of our children’s education.
 Jim supported Gov.
 Shapiro’s historic increase of 1.1 billion in state funding to our local school districts.
@@ -16,3 +16,4 @@ Jim is endorsed by the American Federation of Teachers and will work with school
 What should not be forgotten is the importance and essentiality of our trade and vocational schools.
 These schools can provide training for good-paying careers for students, including our electricians, carpenters, masons, plumbers, technicians, and so much more.
 As State Representative, I will be an advocate and supporter of partnerships between our vocational schools and our local businesses to establish pathways to employment.
+Home About Jim Issues Get Involved Upcoming Events DONATE Search for: Home About Jim Issues Women’s Rights Education Standing Up for Our Community Fighting for Hardworking Pennsylvanians Standing Up for the Environment Get Involved Upcoming Events DONATE Login Newsletter

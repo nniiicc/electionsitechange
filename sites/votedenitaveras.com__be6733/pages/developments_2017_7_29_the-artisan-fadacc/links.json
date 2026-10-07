@@ -1,18 +1,78 @@
 [
-"http://facebook.com/10154924738362252",
-"http://landex.org/portfolio/artists-row-studio-3807-artisan",
-"http://mygatewayarts.org/",
-"http://usgbc.org/",
-"https://route1reporter.com/2021/04/14/on-hyattsville-forum-deleted-endorsement-is-latest-city-election-controversy",
-"https://votedenitaveras.com/",
-"https://votedenitaveras.com/about-deni",
-"https://votedenitaveras.com/achievements",
-"https://votedenitaveras.com/developments/2017/7/29/rainier-manor-ii",
-"https://votedenitaveras.com/developments/2017/7/29/studio-3807",
-"https://votedenitaveras.com/developments/2017/7/29/the-artisan",
-"https://votedenitaveras.com/developments?author=5224d394e4b07f56d0a1f07d",
-"https://votedenitaveras.com/donate",
-"https://votedenitaveras.com/events",
-"https://votedenitaveras.com/issues",
-"https://votedenitaveras.com/news"
+{
+"text": "ABOUT DENI",
+"href": "https://votedenitaveras.com/about-deni"
+},
+{
+"text": "ACHIEVEMENTS",
+"href": "https://votedenitaveras.com/achievements"
+},
+{
+"text": "Comment",
+"href": "https://votedenitaveras.com/developments/2017/7/29/the-artisan#commenting"
+},
+{
+"text": "DONATE",
+"href": "https://votedenitaveras.com/donate"
+},
+{
+"text": "Deni Taveras",
+"href": "https://votedenitaveras.com/developments?author=5224d394e4b07f56d0a1f07d"
+},
+{
+"text": "EVENTS",
+"href": "https://votedenitaveras.com/events"
+},
+{
+"text": "Gateway Arts District",
+"href": "http://mygatewayarts.org/"
+},
+{
+"text": "HOME",
+"href": "https://votedenitaveras.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://votedenitaveras.com/issues"
+},
+{
+"text": "July 29, 2017",
+"href": "https://votedenitaveras.com/developments/2017/7/29/the-artisan"
+},
+{
+"text": "NEWS",
+"href": "https://votedenitaveras.com/news"
+},
+{
+"text": "Rainier Manor II",
+"href": "https://votedenitaveras.com/developments/2017/7/29/rainier-manor-ii"
+},
+{
+"text": "Source",
+"href": "http://www.landex.org/portfolio/artists-row-studio-3807-artisan/"
+},
+{
+"text": "Studio 3807",
+"href": "https://votedenitaveras.com/developments/2017/7/29/studio-3807"
+},
+{
+"text": "The Artisan",
+"href": "https://votedenitaveras.com/developments/2017/7/29/the-artisan"
+},
+{
+"text": "U.S. Green Building Council",
+"href": "http://www.usgbc.org/"
+},
+{
+"text": "Vote Deni Taveras 2026",
+"href": "https://votedenitaveras.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/10154924738362252"
+},
+{
+"text": "the most consequential politician in the last 20 years in Hyattsville",
+"href": "https://route1reporter.com/2021/04/14/on-hyattsville-forum-deleted-endorsement-is-latest-city-election-controversy/"
+}
 ]

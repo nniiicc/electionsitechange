@@ -1,11 +1,3 @@
-Back to All Events
-It’s the final month of the campaign and the weather is perfect for door knocking!
+0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Back to All Events Door Knocking with Joseph McClusky Wednesday, October 7, 2026 3:00 PM 6:00 PM Google Calendar ICS It’s the final month of the campaign and the weather is perfect for door knocking!
 Come out to join us to get our message to voters.
-Training and a walking buddy can be provided!
-Previous
-Previous
-October 3
-Door Knock with Joseph McClusky
-Next
-Next
-October 8
+Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1055505/ Previous Previous October 3 Door Knock with Joseph McClusky Next Next October 8 Door Knocking with Joseph McClusky Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy

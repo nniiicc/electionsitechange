@@ -1,20 +1,102 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/duke",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/volunteer.html",
-"https://andycantwin.com/workshop",
-"https://duke-energy.com/-/media/pdfs/bill-examples/240428-bill-tutorial-handout-dec-nc.pdf",
-"https://duke-energy.com/home/billing/reading-your-bill",
-"https://facebook.com/andycantwin",
-"https://governor.nc.gov/news/press-releases/2026/04/15/governor-stein-reacts-duke-energy-efforts-charge-ratepayers-additional-800-million",
-"https://instagram.com/andycantwin",
-"https://ncdoj.gov/no-deal-attorney-general-jackson-wont-sign-duke-energy-settlement-that-raises-families-bills-about-9-5",
-"https://ncdor.gov/taxes-forms/sales-and-use-tax/taxable-items/electricity",
-"https://news.duke-energy.com/releases/duke-energy-carolinas-customer-rates-drop-6-2-on-jan-1-due-to-falling-fuel-prices",
-"https://news.duke-energy.com/releases/duke-energy-carolinas-proposes-annual-adjustment-for-fuel-and-other-riders-with-north-carolina-utilities-commission",
-"https://prnewswire.com/news-releases/duke-energy-carolinas-reaches-agreement-with-north-carolina-public-staff-and-other-stakeholders-to-deliver-a-lower-cost-path-to-power-north-carolinas-future-302828900.html",
-"https://secure.actblue.com/donate/andybowline",
-"https://wccbcharlotte.com/2026/07/22/nc-attorney-general-jeff-jackson-says-dukes-lower-rate-hike-proposal-still-isnt-low-enough",
-"https://wunc.org/2026-07-20/duke-energy-carolinas-halves-its-rate-hike-request-in-new-settlement"
+{
+"text": "AG Jackson's July 21 statement",
+"href": "https://ncdoj.gov/no-deal-attorney-general-jackson-wont-sign-duke-energy-settlement-that-raises-families-bills-about-9-5/"
+},
+{
+"text": "Bored?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Duke's Reading Your Bill page and FAQ",
+"href": "https://www.duke-energy.com/home/billing/reading-your-bill"
+},
+{
+"text": "Duke's published sample-bill guide",
+"href": "https://www.duke-energy.com/-/media/pdfs/bill-examples/240428-bill-tutorial-handout-dec-nc.pdf"
+},
+{
+"text": "Duke's sample-bill guide (DEC-NC residential)",
+"href": "https://www.duke-energy.com/-/media/pdfs/bill-examples/240428-bill-tutorial-handout-dec-nc.pdf"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Get the updates",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "Gov. Stein on the announced $800M fuel-cost request",
+"href": "https://governor.nc.gov/news/press-releases/2026/04/15/governor-stein-reacts-duke-energy-efforts-charge-ratepayers-additional-800-million"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "NCDOR on the 7% rate for electricity",
+"href": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax/taxable-items/electricity"
+},
+{
+"text": "Read the full guide",
+"href": "https://andycantwin.com/duke/"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "Tinkering",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "WCCB's July 22 interview",
+"href": "https://www.wccbcharlotte.com/2026/07/22/nc-attorney-general-jeff-jackson-says-dukes-lower-rate-hike-proposal-still-isnt-low-enough/"
+},
+{
+"text": "WUNC on the ROE terms",
+"href": "https://www.wunc.org/2026-07-20/duke-energy-carolinas-halves-its-rate-hike-request-in-new-settlement"
+},
+{
+"text": "Why is my power bill so damn high?",
+"href": "https://andycantwin.com/duke/"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "the Jan 2025 fuel decrease",
+"href": "https://news.duke-energy.com/releases/duke-energy-carolinas-customer-rates-drop-6-2-on-jan-1-due-to-falling-fuel-prices"
+},
+{
+"text": "the July 17, 2026 comprehensive settlement",
+"href": "https://www.prnewswire.com/news-releases/duke-energy-carolinas-reaches-agreement-with-north-carolina-public-staff-and-other-stakeholders-to-deliver-a-lower-cost-path-to-power-north-carolinas-future-302828900.html"
+},
+{
+"text": "the Sept 2023 fuel adjustment",
+"href": "https://news.duke-energy.com/releases/duke-energy-carolinas-proposes-annual-adjustment-for-fuel-and-other-riders-with-north-carolina-utilities-commission"
+},
+{
+"text": "the main guide",
+"href": "https://andycantwin.com/duke/"
+},
+{
+"text": "the main guide's Part 2",
+"href": "https://andycantwin.com/duke/#machine"
+},
+{
+"text": "← back to the power bill guide",
+"href": "https://andycantwin.com/duke/"
+}
 ]

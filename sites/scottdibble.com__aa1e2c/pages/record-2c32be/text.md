@@ -1,64 +1,7 @@
-A Record of Getting Things Done
-Scott authored the landmark law bringing marriage equality to Minnesota in 2013 and has since helped lead some of the most consequential legislative victories in state history—from transportation investments and clean energy to free school meals, paid family leave, and reproductive freedom.
-Transforming Transportation & Infrastructure
-- Chief author of the historic 2023 Transportation Bill, the most comprehensive in state history
-- Fully funds public transit, safer biking and pedestrian routes, and repairs roads and bridges
-- Stabilizes Metro Mobility for Minnesotans with disabilities
-- Secured suicide-prevention safety improvements on the University of Minnesota’s Washington Avenue Bridge
-- Led the first-ever state investment in skate parks, expanding youth recreation statewide
-Housing, Safety, and Dignity
-- Won historic funding for youth experiencing homelessness and survivors of sexual exploitation
-- Passed protections for renters, including fair utility billing and basic service guarantees
-- Authored Minnesota’s comprehensive housing cooperative law—creating a lower-cost path to homeownership
-- Strengthened protections for seniors and adults with disabilities in long-term care, including safeguards against private-equity abuses
-- Advanced anti-displacement investments to protect communities near transit corridors
-Health, Equity, and Civil Rights
-- Expanded statewide access to HIV prevention, treatment, and services
-- Banned conversion therapy
-- Guaranteed insurance coverage for gender-affirming care
-- Improved tax policy to protect conservation lands in Hennepin County
-- Supported grants and financing to stabilize small businesses and strengthen commercial corridors
-Leadership in Minnesota’s Historic 2023 Legislative Session
-Scott played a key leadership role in one of the most transformational sessions in state history.
-Putting People First
-- Paid family and medical leave
-- Universal free school meals
-- Earned sick and safe time
-- Expanded childcare access and tax credits
-- Lower prescription drug costs and medical debt relief
-- Over $1 billion invested in housing
-Education & Economic Opportunity
-- Historic K-12 funding
-- Tuition-free college through the North Star Promise for low and middle-income families
-- Investments in teachers of color and Indigenous educators
-Climate & Clean Energy
-- 100% clean electricity by 2040
-- Statewide EV incentives and charging infrastructure
-- Nation-leading PFAS protections
-Public Safety & Justice
-- Red-flag laws and strengthened background checks
-- Criminal justice reforms and support for victims
-- Stronger resources for law enforcement and public defenders
-Freedom, Rights, and Equality
-Scott has been a national leader in advancing LGBTQ+ equality and personal freedom:
-- Marriage equality author
-- Take Pride Act modernizing the Human Rights Act
-- Gender-Affirming Care Refuge Law
-- Conversion therapy ban
-- Parentage Modernization Act recognizing LGBTQ families
-- Repealed outdated laws used to criminalize LGBTQ people
-- Established the LGBTQIA2S+ Council
-- Banned the "panic defense"
-- Protected against book bans and censorship
-- Enshrined reproductive freedom in state law
-Tax Relief for Working Families
-- Middle-class tax cuts
-- Social Security tax exemption for most retirees
-- Child tax credit cutting child poverty by one-third
-- Small business and farm tax relief
-Animal Policy
-- Authored Humane Pet Shops Act
-- Required allowing adoption of retired research dogs and cats through rescue organizations
-- Prohibited landlords from requiring declawing or devocalizing pets in rental housing
-- Strengthened penalties for animal fighting
-- Created requirements for bird-safe glass in public buildings
+Vision Meet Scott Record Endorsements Facebook Donate Vision Meet Scott Record Endorsements Facebook Donate A Record of Getting Things Done Scott authored the landmark law bringing marriage equality to Minnesota in 2013 and has since helped lead some of the most consequential legislative victories in state history—from transportation investments and clean energy to free school meals, paid family leave, and reproductive freedom.
+Transforming Transportation & Infrastructure Chief author of the historic 2023 Transportation Bill, the most comprehensive in state history Fully funds public transit, safer biking and pedestrian routes, and repairs roads and bridges Stabilizes Metro Mobility for Minnesotans with disabilities Secured suicide-prevention safety improvements on the University of Minnesota’s Washington Avenue Bridge Led the first-ever state investment in skate parks, expanding youth recreation statewide Housing, Safety, and Dignity Won historic funding for youth experiencing homelessness and survivors of sexual exploitation Passed protections for renters, including fair utility billing and basic service guarantees Authored Minnesota’s comprehensive housing cooperative law—creating a lower-cost path to homeownership Strengthened protections for seniors and adults with disabilities in long-term care, including safeguards against private-equity abuses Advanced anti-displacement investments to protect communities near transit corridors Health, Equity, and Civil Rights Expanded statewide access to HIV prevention, treatment, and services Banned conversion therapy Guaranteed insurance coverage for gender-affirming care Improved tax policy to protect conservation lands in Hennepin County Supported grants and financing to stabilize small businesses and strengthen commercial corridors Leadership in Minnesota’s Historic 2023 Legislative Session Scott played a key leadership role in one of the most transformational sessions in state history.
+Putting People First Paid family and medical leave Universal free school meals Earned sick and safe time Expanded childcare access and tax credits Lower prescription drug costs and medical debt relief Over $1 billion invested in housing Education & Economic Opportunity Historic K-12 funding Tuition-free college through the North Star Promise for low and middle-income families Investments in teachers of color and Indigenous educators Climate & Clean Energy 100% clean electricity by 2040 Statewide EV incentives and charging infrastructure Nation-leading PFAS protections Public Safety & Justice Red-flag laws and strengthened background checks Criminal justice reforms and support for victims Stronger resources for law enforcement and public defenders Moms Demand Action has recognized Scott as a 2026 Gun Sense Candidate.
+Freedom, Rights, and Equality Scott has been a national leader in advancing LGBTQ+ equality and personal freedom: Marriage equality author Take Pride Act modernizing the Human Rights Act Gender-Affirming Care Refuge Law Conversion therapy ban Parentage Modernization Act recognizing LGBTQ families Repealed outdated laws used to criminalize LGBTQ people Established the LGBTQIA2S+ Council Banned the "panic defense" Protected against book bans and censorship Enshrined reproductive freedom in state law Tax Relief for Working Families Middle-class tax cuts Social Security tax exemption for most retirees Child tax credit cutting child poverty by one-third Small business and farm tax relief Animal Policy Authored Humane Pet Shops Act Required allowing adoption of retired research dogs and cats through rescue organizations Prohibited landlords from requiring declawing or devocalizing pets in rental housing Strengthened penalties for animal fighting Created requirements for bird-safe glass in public buildings SCOTT IS RUNNING... because Minnesota can—and must—become a state where everyone has a fair shot and a stable foundation to build their dreams.
+He has delivered before.
+And he’s ready to lead Minnesota into its next era of shared prosperity.
+Scott's Vision Donate Scott on Facebook Prepared and paid for by Volunteers for Dibble 2801 Hennepin Ave, Unit 26 Minneapolis, MN 55408-1907 Contact | Donate at ActBlue

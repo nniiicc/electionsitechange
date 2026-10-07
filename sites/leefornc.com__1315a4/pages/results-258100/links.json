@@ -1,11 +1,46 @@
 [
-"https://leefornc.com/",
-"https://leefornc.com/get-involved",
-"https://leefornc.com/meet-michael",
-"https://leefornc.com/news",
-"https://leefornc.com/priorities",
-"https://leefornc.com/privacy-policy",
-"https://leefornc.com/results",
-"https://leefornc.com/terms",
-"https://secure.anedot.com/michaellee/contribute"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/michaellee/contribute"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.leefornc.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.leefornc.com"
+},
+{
+"text": "Join Team Lee",
+"href": "https://www.leefornc.com/get-involved"
+},
+{
+"text": "MEET MICHAEL",
+"href": "https://www.leefornc.com/meet-michael"
+},
+{
+"text": "NEWS & MEDIA",
+"href": "https://www.leefornc.com/news"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.leefornc.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.leefornc.com/privacy-policy"
+},
+{
+"text": "RESULTS",
+"href": "https://www.leefornc.com/results"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.leefornc.com/terms"
+},
+{
+"text": "[image: Lee for NC Senate.png]",
+"href": "https://www.leefornc.com"
+}
 ]

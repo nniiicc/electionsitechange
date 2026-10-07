@@ -1,7 +1,11 @@
 {
  "description": "Where is House District 19B?",
  "final_url": "https://www.meymanformn.com/where-do-i-vote",
+ "fingerprint": "f8466f24c5cbeb9ded5aa3f7a08e39abb5c2c93e",
+ "format": 3,
  "paid_for_by": "paid for by Meyman for MN Committee PO Box 128 Waseca MN 5 60 93 2026 Google Sites Report abuse Page details Page updated Google Sites Report abuse",
  "title": "Meyman for MN - Where Do I Vote?",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

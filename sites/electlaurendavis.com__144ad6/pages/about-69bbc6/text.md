@@ -1,6 +1,5 @@
-Lauren brings dedication, experience, and passion for public service in order to help those most in need.
-Meet Lauren
-Lauren Davis grew up in King County and is a proud product of the public school system.
+0 Skip to Content Home Meet Lauren Priorities Endorsements Volunteer/Contact Us Donate Open Menu Close Menu Home Meet Lauren Priorities Endorsements Volunteer/Contact Us Donate Open Menu Close Menu Home Meet Lauren Priorities Endorsements Volunteer/Contact Us Donate Lauren brings dedication, experience, and passion for public service in order to help those most in need.
+Meet Lauren Lauren Davis grew up in King County and is a proud product of the public school system.
 Lauren’s first job was teaching at a Head Start program and so she has a particular passion for early childhood education.
 After college, she spent several years working in global development, as a Fulbright Fellow in Ghana, West Africa, and a consultant at the Bill & Melinda Gates Foundation.
 While at the Gates Foundation, Lauren served as the primary caregiver to her best friend Ricky Garcia, who was gravely ill with untreated alcohol and opiate addiction.
@@ -20,3 +19,5 @@ She also serves on the Public Policy Committee for the National Alliance on Ment
 Lauren recently taught a mental health policy course in the Masters in Social Work program at the University of Washington.
 She is a strong champion for mental health and addiction recovery, strengthening our schools, reforming the criminal justice system, and affordable housing.
 Lauren resides in Shoreline, is a member of Grace United Methodist Church, and plays goalkeeper in a recreational soccer league.
+Click here to watch Lauren discuss her journey to passing Ricky’s Law.
+Paid for by Elect Lauren Davis | PO Box 9100 | Seattle, WA 98109 lauren@electlaurendavis.com

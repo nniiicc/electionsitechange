@@ -1,27 +1,114 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Kickoff+Hispanic+Heritage+Month%21&dates=20250918T000000Z%2F20250918T020000Z&location=3202+East+104th+Avenue%2C+Denver%2C+CO%2C+80233%2C+United+States",
-"http://maps.google.com/?q=3202+East+104th+Avenue+Denver%2C+CO%2C+80233+United+States",
-"https://bsky.app/profile/goftcer.bsky.social",
-"https://facebook.com/profile.php?id=61575900556515",
-"https://fb.me/e/5ZvqcJCMe",
-"https://gabrielforcolorado.com/",
-"https://gabrielforcolorado.com/cart",
-"https://gabrielforcolorado.com/contact-connect",
-"https://gabrielforcolorado.com/endorsements-leaders",
-"https://gabrielforcolorado.com/event-media",
-"https://gabrielforcolorado.com/events",
-"https://gabrielforcolorado.com/events/jmsept29",
-"https://gabrielforcolorado.com/events/kickoff-hispanic-heritage-month?format=ical",
-"https://gabrielforcolorado.com/events/meet-greet-with-mariscos-sinaloa",
-"https://gabrielforcolorado.com/issues",
-"https://gabrielforcolorado.com/media",
-"https://gabrielforcolorado.com/meet-gabriel",
-"https://gabrielforcolorado.com/new-dropdown",
-"https://gabrielforcolorado.com/organizations",
-"https://gabrielforcolorado.com/our-team",
-"https://gabrielforcolorado.com/press-releases",
-"https://instagram.com/goft_cer?igsh=MWljbzIwNG1mZ2I1NQ%3D%3D",
-"https://secure.actblue.com/donate/gc4co",
-"https://threads.net/@goft_cer",
-"https://x.com/goft_cer?t=LrR0b0KFxmbo50SOcBXxXA&s=09"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3202+east+104th+avenue+denver%2C+co%2C+80233+united+states"
+},
+{
+"text": "0",
+"href": "https://www.gabrielforcolorado.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.gabrielforcolorado.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.gabrielforcolorado.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/gc4co"
+},
+{
+"text": "Donate💵",
+"href": "https://secure.actblue.com/donate/gc4co"
+},
+{
+"text": "Event Media",
+"href": "https://www.gabrielforcolorado.com/event-media"
+},
+{
+"text": "Events 🗓️",
+"href": "https://www.gabrielforcolorado.com/events"
+},
+{
+"text": "Folder: Endorsements 📣",
+"href": "https://www.gabrielforcolorado.com/new-dropdown"
+},
+{
+"text": "Folder: Media 📷",
+"href": "https://www.gabrielforcolorado.com/media"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Kickoff+Hispanic+Heritage+Month%21&dates=20250918T000000Z%2F20250918T020000Z&location=3202+East+104th+Avenue%2C+Denver%2C+CO%2C+80233%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/kickoff-hispanic-heritage-month?format=ical"
+},
+{
+"text": "Issues ✊",
+"href": "https://www.gabrielforcolorado.com/issues"
+},
+{
+"text": "Join us 🫂 | Reach out 📞",
+"href": "https://www.gabrielforcolorado.com/contact-connect"
+},
+{
+"text": "Leaders",
+"href": "https://www.gabrielforcolorado.com/endorsements-leaders"
+},
+{
+"text": "Meet Gabriel 🤝",
+"href": "https://www.gabrielforcolorado.com/meet-gabriel"
+},
+{
+"text": "Next Next October 13 Legislators’ Fundraiser",
+"href": "https://www.gabrielforcolorado.com/events/jmsept29"
+},
+{
+"text": "Organizations",
+"href": "https://www.gabrielforcolorado.com/organizations"
+},
+{
+"text": "Our Team",
+"href": "https://www.gabrielforcolorado.com/our-team"
+},
+{
+"text": "Press Releases",
+"href": "https://www.gabrielforcolorado.com/press-releases"
+},
+{
+"text": "Previous Previous July 27 Meet & Greet with Mariscos Sinaloa",
+"href": "https://www.gabrielforcolorado.com/events/meet-greet-with-mariscos-sinaloa"
+},
+{
+"text": "[image: gabrielforcolorado]",
+"href": "https://www.gabrielforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/goftcer.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575900556515"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/goft_cer?igsh=MWljbzIwNG1mZ2I1NQ%3D%3D"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@goft_cer"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/goft_cer?t=LrR0b0KFxmbo50SOcBXxXA&s=09"
+},
+{
+"text": "https://fb.me/e/5ZvqcJCMe",
+"href": "https://fb.me/e/5ZvqcJCMe"
+}
 ]

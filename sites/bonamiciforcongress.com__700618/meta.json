@@ -1,7 +1,9 @@
 {
  "description": "Suzanne Bonamici is a Democrat from Oregon, representing the state's first district in Congress.",
  "final_url": "https://www.bonamiciforcongress.com/",
- "paid_for_by": null,
+ "fingerprint": "5019db8e7e29d09ea4b7f930c9163023f32a0832",
+ "format": 3,
+ "paid_for_by": "authorized by Bonamici for Congress",
  "title": "Suzanne Bonamici for Congress",
  "years_mentioned": []
 }

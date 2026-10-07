@@ -1,12 +1,10 @@
-ABOUT ME
-Putting My Experience to Work
-BIOGRAPHY
-John T.
-McDonald III, RPh has served in the New York State Assembly representing the 108th Assembly District since 2013, which consists of parts of Albany, Rensselaer, and Saratoga counties, including the City of Cohoes, his hometown where he previously served as Mayor for 13 years, and the communities of Green Island, North Greenbush, East Greenbush, Rensselaer, Waterford, and the cities of Troy and Watervliet.A life-long resident of Cohoes, John is a graduate of Keveny Memorial Academy and the Albany College of Pharmacy where he received a BS in Pharmaceutical Sciences in 1985 and was awarded an Honorary Doctorate of Humanities.
-John is a practicing pharmacist and an experienced small businessman as the previous owner of Marra's Pharmacy, his family business now celebrating 92 years in downtown Cohoes and serving the Capital Region.As Mayor of the City of Cohoes, John focused on financial accountability, improving quality of life, and expanding economic opportunity.
+top of page DONATE SUBSCRIBE MY FINANCIAL DISCLOSURE Home About Me Accomplishments 108th District Endorsements Videos Contact Voter Information Events More Use tab to navigate through the menu items.
+ABOUT ME Putting My Experience to Work BIOGRAPHY John T.
+McDonald III, RPh has served in the New York State Assembly representing the 108th Assembly District since 2013, which consists of parts of Albany, Rensselaer, and Saratoga counties, including the City of Cohoes, his hometown where he previously served as Mayor for 13 years, and the communities of Green Island, North Greenbush, East Greenbush, Rensselaer, Waterford, and the cities of Troy and Watervliet.​A life-long resident of Cohoes, John is a graduate of Keveny Memorial Academy and the Albany College of Pharmacy where he received a BS in Pharmaceutical Sciences in 1985 and was awarded an Honorary Doctorate of Humanities.
+John is a practicing pharmacist and an experienced small businessman as the previous owner of Marra's Pharmacy, his family business now celebrating 92 years in downtown Cohoes and serving the Capital Region.​As Mayor of the City of Cohoes, John focused on financial accountability, improving quality of life, and expanding economic opportunity.
 He pursued an aggressive economic development agenda centered on downtown revitalization, adaptive reuse of historic buildings, Hudson and Mohawk Riverfront developments and gateway improvements.
 John created a platform for a more transparent and open process for conducting city business, which increased the city's financial stability when he left office in 2012.
-Just as importantly during John's tenure, the City of Cohoes' population grew by more than 8% which was the first population increase for the City of Cohoes since 1930.John has also been an active member of the New York State Conference of Mayors where he previously served as President of the statewide organization.
+Just as importantly during John's tenure, the City of Cohoes' population grew by more than 8% which was the first population increase for the City of Cohoes since 1930.​John has also been an active member of the New York State Conference of Mayors where he previously served as President of the statewide organization.
 He has also chaired the Capital District Transportation Committee, RiverSpark, the Cohoes Industrial Development Agency and the Cohoes Local Development Corporation.
 John has served on the boards of the New York State Heritage Areas Advisory Board, New York State Workforce Investment Board, State Comptroller's Local Advisory Team, the NYS Local Government Records Management Council and the Board of Governors for the New York State Municipal Insurance Reciprocal, and many other regional councils and commissions.
 John currently serves on the board of the Albany Convention Center Authority and is a member of the NYS Department of Financial Services Drug Accountability Board.
@@ -14,21 +12,4 @@ John also serves as an at-large Executive Committee member for the National Conf
 As a member of the NYS Assembly, John serves as the Chair of the Governmental Operations Committee.
 John is a member of the following NYS Assembly Committees: Alcoholism & Drug Abuse, Health, Higher Education, and Ways and Means.
 John focuses on his strengths in local government, health care, and small business.
-John has sponsored and passed legislation into law to reduce unfunded mandates to local governments, control the cost of property taxes, support job growth and workforce development, strengthen access to health care, and address the opioid crisis.
-<!-- Facebook Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '666687927500698');
-fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=666687927500698&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
+John has sponsored and passed legislation into law to reduce unfunded mandates to local governments, control the cost of property taxes, support job growth and workforce development, strengthen access to health care, and address the opioid crisis. <!-- Facebook Pixel Code --> <script> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', ' https://connect.facebook.net/en_US/fbevents.js' ); fbq('init', '666687927500698'); fbq('track', 'PageView'); </script> <noscript><img height="1" width="1" style="display:none" src=" https://www.facebook.com/tr?id=666687927500698&ev=PageView&noscript=1 " /></noscript> <!-- End Facebook Pixel Code --> John McDonald - NYS ASSEMBLY - 108th DISTRICT • Cohoes • Green Island • East Greenbush • North Greenbush • Rensselaer • Troy • Waterford • Watervliet Paid for by McDonald for Assembly bottom of page

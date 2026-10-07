@@ -1,23 +1,102 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Coffee+in+Aguanga+&dates=20260714T130000Z%2F20260714T150000Z",
-"https://dropbox.com/scl/fo/wqr4xtv0o7c7u81x8ihtm/ACYg7LThSpMtm-m5R1iV4to?rlkey=b0cr4vub5kie2iqaosvgyyy9s&st=xw16wngm&dl=0",
-"https://efundraisingconnections.com/c/JeffGonzalezforAssembly2026",
-"https://facebook.com/gonzalez4assembly",
-"https://gonzalez4assembly.com/",
-"https://gonzalez4assembly.com/about",
-"https://gonzalez4assembly.com/cart",
-"https://gonzalez4assembly.com/contact",
-"https://gonzalez4assembly.com/contact-1",
-"https://gonzalez4assembly.com/endorsements",
-"https://gonzalez4assembly.com/events",
-"https://gonzalez4assembly.com/events/community-coffee-in-aguanga-5wyrk",
-"https://gonzalez4assembly.com/events/community-coffee-in-aguanga?format=ical",
-"https://gonzalez4assembly.com/events/end-of-summer-w3ysm",
-"https://gonzalez4assembly.com/issues",
-"https://gonzalez4assembly.com/media-1",
-"https://gonzalez4assembly.com/news",
-"https://gonzalez4assembly.com/privacy-policy",
-"https://gonzalez4assembly.com/yard-sign-request",
-"https://instagram.com/gonzalez4assembly",
-"https://twitter.com/Gonzalez4AD36"
+{
+"text": "0",
+"href": "https://www.gonzalez4assembly.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.gonzalez4assembly.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.gonzalez4assembly.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.gonzalez4assembly.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://www.efundraisingconnections.com/c/JeffGonzalezforAssembly2026"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.gonzalez4assembly.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.gonzalez4assembly.com/events"
+},
+{
+"text": "Folder: MEDIA",
+"href": "https://www.gonzalez4assembly.com/media-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Coffee+in+Aguanga+&dates=20260714T130000Z%2F20260714T150000Z"
+},
+{
+"text": "HOST AN EVENT",
+"href": "https://www.gonzalez4assembly.com/contact"
+},
+{
+"text": "ICS",
+"href": "https://www.gonzalez4assembly.com/events/community-coffee-in-aguanga?format=ical"
+},
+{
+"text": "ISSUES",
+"href": "https://www.gonzalez4assembly.com/issues"
+},
+{
+"text": "MAKE A SECURE DONATION",
+"href": "https://www.efundraisingconnections.com/c/JeffGonzalezforAssembly2026"
+},
+{
+"text": "NEWS",
+"href": "https://www.gonzalez4assembly.com/news"
+},
+{
+"text": "Next Next July 15 Community Coffee in Needles",
+"href": "https://www.gonzalez4assembly.com/events/community-coffee-in-aguanga-5wyrk"
+},
+{
+"text": "PHOTOS",
+"href": "https://www.dropbox.com/scl/fo/wqr4xtv0o7c7u81x8ihtm/ACYg7LThSpMtm-m5R1iV4to?rlkey=b0cr4vub5kie2iqaosvgyyy9s&st=xw16wngm&dl=0"
+},
+{
+"text": "PRIVACY POLICY & TERMS AND CONDITIONS",
+"href": "https://www.gonzalez4assembly.com/privacy-policy"
+},
+{
+"text": "Previous Previous October 10 Campaign Finale Event!",
+"href": "https://www.gonzalez4assembly.com/events/end-of-summer-w3ysm"
+},
+{
+"text": "RSVP",
+"href": "mailto:contact@gonzalez4assembly.com?subject=RSVP+&body=I+would+like+to+RSVP+for+the+Community+Coffee+in+Aguanga."
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.gonzalez4assembly.com/contact-1"
+},
+{
+"text": "YARD SIGN REQUEST",
+"href": "https://www.gonzalez4assembly.com/yard-sign-request"
+},
+{
+"text": "[image: Jeff Gonzalez for Assembly]",
+"href": "https://www.gonzalez4assembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Gonzalez4AD36"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/gonzalez4assembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/gonzalez4assembly"
+}
 ]

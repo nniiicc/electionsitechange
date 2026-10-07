@@ -1,11 +1,50 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSfOUyY91MykOVETXyBUrlYiJpaS2E8oXf1KZuxtlIzu7e2fBg/viewform",
-"https://friendsofbarbarahernandez.com/calendar",
-"https://friendsofbarbarahernandez.com/endorsements",
-"https://friendsofbarbarahernandez.com/home",
-"https://friendsofbarbarahernandez.com/issues",
-"https://friendsofbarbarahernandez.com/meet-barbara",
-"https://friendsofbarbarahernandez.com/request-a-sign",
-"https://friendsofbarbarahernandez.com/team",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Ffriends-of-barbara-hernandez-1&sa=D&sntz=1&usg=AOvVaw2Wc6S6AksPVa2WLykF2mGs"
+{
+"text": "Barbara For State Representative",
+"href": "https://www.friendsofbarbarahernandez.com/home"
+},
+{
+"text": "Calendar",
+"href": "https://www.friendsofbarbarahernandez.com/calendar"
+},
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Ffriends-of-barbara-hernandez-1&sa=D&sntz=1&usg=AOvVaw2Wc6S6AksPVa2WLykF2mGs"
+},
+{
+"text": "Endorsements",
+"href": "https://www.friendsofbarbarahernandez.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.friendsofbarbarahernandez.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.friendsofbarbarahernandez.com/issues"
+},
+{
+"text": "Meet Barbara",
+"href": "https://www.friendsofbarbarahernandez.com/meet-barbara"
+},
+{
+"text": "Request a sign",
+"href": "https://www.friendsofbarbarahernandez.com/request-a-sign"
+},
+{
+"text": "Team",
+"href": "https://www.friendsofbarbarahernandez.com/team"
+},
+{
+"text": "[image]",
+"href": "https://www.friendsofbarbarahernandez.com/home"
+},
+{
+"text": "[image]Barbara For State Representative",
+"href": "https://www.friendsofbarbarahernandez.com/home"
+},
+{
+"text": "[tooltip: Open Google Forms, Campaign Sign Request in new window]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfOUyY91MykOVETXyBUrlYiJpaS2E8oXf1KZuxtlIzu7e2fBg/viewform"
+}
 ]

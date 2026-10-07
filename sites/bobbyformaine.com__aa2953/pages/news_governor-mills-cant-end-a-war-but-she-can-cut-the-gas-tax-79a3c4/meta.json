@@ -1,7 +1,11 @@
 {
  "description": "- Read the latest news and updates from Bobby Charles for Maine Governor campaign.",
  "final_url": "https://www.bobbyformaine.com/news/governor-mills-cant-end-a-war-but-she-can-cut-the-gas-tax",
- "paid_for_by": null,
+ "fingerprint": "06a677e4fb71b21c27ebaf431a039e6835cc8c4a",
+ "format": 3,
+ "paid_for_by": "authorized by Bobby Charles for Maine Governor Campaign Committee",
  "title": "| Bobby Charles for Maine",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

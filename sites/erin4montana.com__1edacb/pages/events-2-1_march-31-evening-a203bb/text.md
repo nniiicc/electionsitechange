@@ -1,14 +1,6 @@
-Back to All Events
-Tuesday, March 31st
-5:00–6:30 pm
-Hosted at the home of Sam Sanchez & Tim Coulter.
+0 Skip to Content Home About Contact Endorsements Priorities Neighborhood Notes What's Cookin' Donate Here Open Menu Close Menu Open Menu Close Menu Donate Here Home About Contact Endorsements Priorities Neighborhood Notes What's Cookin' Home About Contact Endorsements Priorities Neighborhood Notes What's Cookin' Donate Here Back to All Events An Evening with Erin Farris-Olsen Tuesday, March 31, 2026 5:00 PM 6:30 PM Google Calendar ICS Tuesday, March 31st 5:00–6:30 pm Hosted at the home of Sam Sanchez & Tim Coulter.
 Co Hosts: Kathy Bramer, Rusty & Pat Harper, Tim Speyer, Ann Brodsky, Jeff Sherlock, Rock Ringling, Bobbi Uecker, Kim Wilson, Ginnie Talley, Jane Smilie, Cheryl & Mike Lamb, Ron & Connie Bergum, Emily Harris & Jon Motl.
 The evening will feature a brief introduction from Erin about why she’s running, followed by open conversation and connection with neighbors and community members.
-Previous
-Previous
-March 24
-Meet & Greet @ Mt.
-Ascension Brewery
-Next
-Next
-April 7
+Previous Previous March 24 Meet & Greet @ Mt.
+Ascension Brewery Next Next April 7 April Tuesdays: Hang Out @ Ten Mile Creek Brewery erin4montana@gmail.com www.erin4montana.com Jon Motl, Treasurer Erin Farris-Olsen is running for Senate District 41 Paid for by Erin 4 Montana Democrat P.O.
+Box 141 Helena, MT 59624 Additional Terms and Conditions

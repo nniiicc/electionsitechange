@@ -1,16 +1,62 @@
 [
-"https://facebook.com/profile.php?id=61582997855213",
-"https://instagram.com/natefor38",
-"https://marchofdimes.org/peristats/reports/indiana/report-card",
-"https://natefor38.com/",
-"https://natefor38.com/about-me",
-"https://natefor38.com/endorsements",
-"https://natefor38.com/policy",
-"https://natefor38.com/privacy-policy",
-"https://natefor38.com/volunteer",
-"https://npr.org/2023/11/03/1210440222/indiana-abortion-todd-rokita-reprimand-caitlin-barnard",
-"https://policyinstitute.iu.edu/doc/maternal-mortality-brief-2025.pdf",
-"https://policyinstitute.iu.edu/research-analysis/research-findings/maternal-mortality.html",
-"https://tiktok.com/@natefor38",
-"https://wishtv.com/news/multicultural-news/indiana-maternal-mortality-rates"
+{
+"text": "About Me",
+"href": "https://natefor38.com/about-me"
+},
+{
+"text": "Endorsements",
+"href": "https://natefor38.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://natefor38.com/"
+},
+{
+"text": "Policy",
+"href": "https://natefor38.com/policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://natefor38.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://natefor38.com/volunteer"
+},
+{
+"text": "[image: Hoosiers to Elect Nate Stout]",
+"href": "https://natefor38.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582997855213"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/natefor38"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@natefor38"
+},
+{
+"text": "https://policyinstitute.iu.edu/doc/maternal-mortality-brief-2025.pdf",
+"href": "https://policyinstitute.iu.edu/doc/maternal-mortality-brief-2025.pdf"
+},
+{
+"text": "https://policyinstitute.iu.edu/research-analysis/research-findings/maternal-mortality.html",
+"href": "https://policyinstitute.iu.edu/research-analysis/research-findings/maternal-mortality.html%C2%A0"
+},
+{
+"text": "https://www.marchofdimes.org/peristats/reports/indiana/report-card",
+"href": "https://www.marchofdimes.org/peristats/reports/indiana/report-card"
+},
+{
+"text": "https://www.npr.org/2023/11/03/1210440222/indiana-abortion-todd-rokita-reprimand-caitlin-barnard",
+"href": "https://www.npr.org/2023/11/03/1210440222/indiana-abortion-todd-rokita-reprimand-caitlin-barnard"
+},
+{
+"text": "https://www.wishtv.com/news/multicultural-news/indiana-maternal-mortality-rates/",
+"href": "https://www.wishtv.com/news/multicultural-news/indiana-maternal-mortality-rates/"
+}
 ]

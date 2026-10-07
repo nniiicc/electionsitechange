@@ -1,11 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61553801980620",
-"https://instagram.com/luciavalentine?hl=en",
-"https://secure.actblue.com/donate/valentine26",
-"https://valentineforwv.com/",
-"https://valentineforwv.com/cart",
-"https://valentineforwv.com/endorsements",
-"https://valentineforwv.com/get-involved",
-"https://valentineforwv.com/issues",
-"https://valentineforwv.com/meet-lucia"
+{
+"text": "0",
+"href": "https://www.valentineforwv.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/valentine26"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.valentineforwv.com/endorsements"
+},
+{
+"text": "Email Lucia",
+"href": "mailto:valentineforwv@gmail.com"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.valentineforwv.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.valentineforwv.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.valentineforwv.com/issues"
+},
+{
+"text": "MEET LUCIA",
+"href": "https://www.valentineforwv.com/meet-lucia"
+},
+{
+"text": "[image: Lucia Valentine]",
+"href": "https://www.valentineforwv.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61553801980620"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/luciavalentine/?hl=en"
+}
 ]

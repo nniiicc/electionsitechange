@@ -1,6 +1,5 @@
-Legislative Update from Rep.
-Iler — March 31, 2025
-Last week at the General Assembly we saw important bills for education, illegal drug control, and many local bills.
+Skip to content Common Sense - Competent - Conservative Home About Frank Iler Accomplishments Issues News Legislative Updates Donate Contact Legislative Update from Rep.
+Iler — March 31, 2025 By Frank Iler | April 3, 2025 Last week at the General Assembly we saw important bills for education, illegal drug control, and many local bills.
 There were plenty of lobbyist groups and other visitors calling on our offices.
 House Bill 87 – Cell Phone-Free Education came to the House floor for a vote on Tuesday.
 It requires local school boards to come up with a local plan to eliminate or limit cell phone use during school hours or at least in class.
@@ -19,3 +18,5 @@ She also deals with many dozens of phone calls and call-back messages every day.
 She has long experience working with Brunswick County issues with both my predecessor and me.
 I get many compliments on her handling of our constituents’ issues.
 This week is the deadline for filing most types of bills, so we expect more bills being filed, as well as bills moving through committees and to the floor of the House and Senate.
+Posted in Legislative Updates © # Frank Iler for N.C.
+House – Brunswick County, N.C. | Powered by Beaver Builder

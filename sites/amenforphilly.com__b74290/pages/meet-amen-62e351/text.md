@@ -1,9 +1,7 @@
-For the people.
+HOME ABOUT AMEN ISSUES ENDORSEMENTS MEDIA GET INVOLVED ✕ About Amen CONTRIBUTE Meet Amen CONTRIBUTE For the people.
 For the community.
 For Philadelphia.
-State Representative
-Amen Brown is a lifelong Philadelphian who is standing up for working families,
-economic opportunity, and real investment for every neighborhood.
+State Representative Amen Brown is a lifelong Philadelphian who is standing up for working families, economic opportunity, and real investment for every neighborhood.
 As State Representative for Philadelphia’s 10th Legislative District, Amen Brown is a fearless advocate committed to delivering real results for the people he serves.
 He fights every day to bring critical resources home—strengthening public safety, expanding job opportunities, supporting seniors, investing in education, and working to end gun violence.
 Amen leads with courage and conviction, always putting community first.
@@ -17,3 +15,6 @@ In 2023 alone, Rep.
 Amen brought back almost $10 million to the district, which included funds for affordable housing, infrastructure, programming for those that are unhoused, and more.
 Before public office, Amen was an entrepreneur who operated daycares and afterschool programs, creating safe spaces and opportunities for young people.
 Born and raised in Philadelphia and a graduate of Overbrook High School, he remains deeply connected to the community that shaped him—committed to building a safer, stronger future for every family.
+JOIN THE TEAM Paid for by Citizens For Amen Brown P.O.
+Box 42857 Philadelphia, PA 19101 Donate here to join #TeamBrown!
+To reach out directly to the campaign, email: citizensforamenbrown@gmail.com © # GET INVOLVED

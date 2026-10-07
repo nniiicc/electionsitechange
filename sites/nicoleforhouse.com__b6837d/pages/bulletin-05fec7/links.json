@@ -1,43 +1,270 @@
 [
-"http://nicoleforhouse.com/contact-your-legislators",
-"https://facebook.com/RepNicoleUhreBalk",
-"https://instagram.com/nicoleforhouse",
-"https://nicoleforhouse.com/",
-"https://nicoleforhouse.com/about",
-"https://nicoleforhouse.com/bulletin",
-"https://nicoleforhouse.com/bulletin/highs-and-lows-with-education-bills",
-"https://nicoleforhouse.com/bulletin/investing-in-rapid-citys-future-why-sb-127-deserves-our-support",
-"https://nicoleforhouse.com/bulletin/looking-back-first-legislative-session",
-"https://nicoleforhouse.com/bulletin/mining-reform",
-"https://nicoleforhouse.com/bulletin/sd-k12-funding-formula-moves-forward",
-"https://nicoleforhouse.com/bulletin/south-dakota-budget-wins-losses-2025",
-"https://nicoleforhouse.com/bulletin/south-dakota-needs-justice-reform-not-just-another-prison",
-"https://nicoleforhouse.com/bulletin/thank-you-district-32-first-year-reflection",
-"https://nicoleforhouse.com/bulletin/what-will-south-dakota-be-talking-about-in-2076",
-"https://nicoleforhouse.com/bulletin/where-we-are-after-week-1-2026",
-"https://nicoleforhouse.com/bulletin/why-i-voted-yes-on-the-prison",
-"https://nicoleforhouse.com/calendar",
-"https://nicoleforhouse.com/cart",
-"https://nicoleforhouse.com/contact",
-"https://nicoleforhouse.com/contact-your-legislators",
-"https://nicoleforhouse.com/donate",
-"https://nicoleforhouse.com/endorsements-2026",
-"https://nicoleforhouse.com/get-involved",
-"https://nicoleforhouse.com/home",
-"https://nicoleforhouse.com/host-a-yard-sign",
-"https://nicoleforhouse.com/legislative-work",
-"https://nicoleforhouse.com/media",
-"https://nicoleforhouse.com/meet-nicole",
-"https://nicoleforhouse.com/scorecards",
-"https://nicoleforhouse.com/take-action",
-"https://nicoleforhouse.com/vision-for-south-dakota",
-"https://sdlegislature.gov/Legislators/Profile/4693/Detail",
-"https://secure.actblue.com/donate/nicoleforhouse",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=100",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=25",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=250",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=50",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=500",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=75",
-"https://youtube.com/@nicoleforhouse"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=500"
+},
+{
+"text": "$75",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=75"
+},
+{
+"text": "0",
+"href": "https://www.nicoleforhouse.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.nicoleforhouse.com/"
+},
+{
+"text": "Bulletin",
+"href": "https://www.nicoleforhouse.com/bulletin"
+},
+{
+"text": "Calendar & Events",
+"href": "https://www.nicoleforhouse.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.nicoleforhouse.com/contact"
+},
+{
+"text": "Contact Me",
+"href": "https://www.nicoleforhouse.com/contact"
+},
+{
+"text": "Contact Me →",
+"href": "https://www.nicoleforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nicoleforhouse"
+},
+{
+"text": "Donate now. →",
+"href": "https://secure.actblue.com/donate/nicoleforhouse"
+},
+{
+"text": "Donate →",
+"href": "https://secure.actblue.com/donate/nicoleforhouse"
+},
+{
+"text": "Donating by mail? Click here. →",
+"href": "https://www.nicoleforhouse.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nicoleforhouse.com/endorsements-2026"
+},
+{
+"text": "Folder: About",
+"href": "https://www.nicoleforhouse.com/about"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://www.nicoleforhouse.com/take-action"
+},
+{
+"text": "Get Involved",
+"href": "https://www.nicoleforhouse.com/get-involved"
+},
+{
+"text": "HB 1273: Why Mining Law Reform Matters in 2026",
+"href": "https://www.nicoleforhouse.com/bulletin/mining-reform"
+},
+{
+"text": "Home",
+"href": "https://www.nicoleforhouse.com/home"
+},
+{
+"text": "Host a Yard Sign",
+"href": "https://www.nicoleforhouse.com/host-a-yard-sign"
+},
+{
+"text": "Investing in Rapid City’s Future: Why SB 127 Deserves Our Support",
+"href": "https://www.nicoleforhouse.com/bulletin/investing-in-rapid-citys-future-why-sb-127-deserves-our-support"
+},
+{
+"text": "Legislative Work",
+"href": "https://www.nicoleforhouse.com/legislative-work"
+},
+{
+"text": "Media",
+"href": "https://www.nicoleforhouse.com/media"
+},
+{
+"text": "Meet Nicole",
+"href": "https://www.nicoleforhouse.com/meet-nicole"
+},
+{
+"text": "NicoleForHouse.com/contact-your-legislators",
+"href": "http://nicoleforhouse.com/contact-your-legislators"
+},
+{
+"text": "Rapid City Journal: Highs and lows with education bills | Rep. Nicole Uhre-Balk",
+"href": "https://www.nicoleforhouse.com/bulletin/highs-and-lows-with-education-bills"
+},
+{
+"text": "Rapid City Journal: Looking back on my first legislative session",
+"href": "https://www.nicoleforhouse.com/bulletin/looking-back-first-legislative-session"
+},
+{
+"text": "Rapid City Journal: The South Dakota Legislature session ends | Rep. Nicole Uhre-Balk",
+"href": "https://www.nicoleforhouse.com/bulletin/south-dakota-budget-wins-losses-2025"
+},
+{
+"text": "Read More",
+"href": "https://www.nicoleforhouse.com/bulletin/highs-and-lows-with-education-bills"
+},
+{
+"text": "Read More",
+"href": "https://www.nicoleforhouse.com/bulletin/investing-in-rapid-citys-future-why-sb-127-deserves-our-support"
+},
+{
+"text": "Read More",
+"href": "https://www.nicoleforhouse.com/bulletin/looking-back-first-legislative-session"
+},
+{
+"text": "Read More",
+"href": "https://www.nicoleforhouse.com/bulletin/mining-reform"
+},
+{
+"text": "Read More",
+"href": "https://www.nicoleforhouse.com/bulletin/sd-k12-funding-formula-moves-forward"
+},
+{
+"text": "Read More",
+"href": "https://www.nicoleforhouse.com/bulletin/south-dakota-budget-wins-losses-2025"
+},
+{
+"text": "Read More",
+"href": "https://www.nicoleforhouse.com/bulletin/south-dakota-needs-justice-reform-not-just-another-prison"
+},
+{
+"text": "Read More",
+"href": "https://www.nicoleforhouse.com/bulletin/thank-you-district-32-first-year-reflection"
+},
+{
+"text": "Read More",
+"href": "https://www.nicoleforhouse.com/bulletin/what-will-south-dakota-be-talking-about-in-2076"
+},
+{
+"text": "Read More",
+"href": "https://www.nicoleforhouse.com/bulletin/where-we-are-after-week-1-2026"
+},
+{
+"text": "Read More",
+"href": "https://www.nicoleforhouse.com/bulletin/why-i-voted-yes-on-the-prison"
+},
+{
+"text": "Scorecards",
+"href": "https://www.nicoleforhouse.com/scorecards"
+},
+{
+"text": "South Dakota Needs Justice Reform, Not Just Another Prison",
+"href": "https://www.nicoleforhouse.com/bulletin/south-dakota-needs-justice-reform-not-just-another-prison"
+},
+{
+"text": "South Dakota’s K–12 funding formula bill moves forward",
+"href": "https://www.nicoleforhouse.com/bulletin/sd-k12-funding-formula-moves-forward"
+},
+{
+"text": "Thank you, District 32: Reflections from my first year in the Legislature",
+"href": "https://www.nicoleforhouse.com/bulletin/thank-you-district-32-first-year-reflection"
+},
+{
+"text": "Vision For South Dakota",
+"href": "https://www.nicoleforhouse.com/vision-for-south-dakota"
+},
+{
+"text": "What Will South Dakota Be Talking About in 2076?",
+"href": "https://www.nicoleforhouse.com/bulletin/what-will-south-dakota-be-talking-about-in-2076"
+},
+{
+"text": "Where we are after Week No. 1 | Rep. Nicole Uhre-Balk",
+"href": "https://www.nicoleforhouse.com/bulletin/where-we-are-after-week-1-2026"
+},
+{
+"text": "Why I Voted Yes on the Prison",
+"href": "https://www.nicoleforhouse.com/bulletin/why-i-voted-yes-on-the-prison"
+},
+{
+"text": "[image: HB 1273: Why Mining Law Reform Matters in 2026]",
+"href": "https://www.nicoleforhouse.com/bulletin/mining-reform"
+},
+{
+"text": "[image: Investing in Rapid City’s Future: Why SB 127 Deserves Our Support]",
+"href": "https://www.nicoleforhouse.com/bulletin/investing-in-rapid-citys-future-why-sb-127-deserves-our-support"
+},
+{
+"text": "[image: Rapid City Journal: Looking back on my first legislative session]",
+"href": "https://www.nicoleforhouse.com/bulletin/looking-back-first-legislative-session"
+},
+{
+"text": "[image: South Dakota’s K–12 funding formula bill moves forward]",
+"href": "https://www.nicoleforhouse.com/bulletin/sd-k12-funding-formula-moves-forward"
+},
+{
+"text": "[image: Thank you, District 32: Reflections from my first year in the Legislature]",
+"href": "https://www.nicoleforhouse.com/bulletin/thank-you-district-32-first-year-reflection"
+},
+{
+"text": "[image: What Will South Dakota Be Talking About in 2076?]",
+"href": "https://www.nicoleforhouse.com/bulletin/what-will-south-dakota-be-talking-about-in-2076"
+},
+{
+"text": "[image: Where we are after Week No. 1 | Rep. Nicole Uhre-Balk]",
+"href": "https://www.nicoleforhouse.com/bulletin/where-we-are-after-week-1-2026"
+},
+{
+"text": "[image: Why I Voted Yes on the Prison]",
+"href": "https://www.nicoleforhouse.com/bulletin/why-i-voted-yes-on-the-prison"
+},
+{
+"text": "[image: nicoleforhouse.com]",
+"href": "https://www.nicoleforhouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.nicoleforhouse.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/nicoleforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://sdlegislature.gov/Legislators/Profile/4693/Detail"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepNicoleUhreBalk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@nicoleforhouse"
+},
+{
+"text": "[no text]",
+"href": "mailto:nicole.uhre-balk@sdlegislature.gov"
+},
+{
+"text": "to urge support for this necessary investm",
+"href": "https://www.nicoleforhouse.com/contact-your-legislators"
+}
 ]

@@ -1,4 +1,4 @@
-Becky Kroll was born and raised in Lohman, Missouri, and still lives in the same house she grew up in, on the last acre of what was once her family's dairy farm.
+About Becky Issues Get Involved Events Updates Donate Now Home About Becky Issues Get Involved Events Updates Donate Now About Becky Kroll Becky Kroll was born and raised in Lohman, Missouri, and still lives in the same house she grew up in, on the last acre of what was once her family's dairy farm.
 Today, she works full time and helps care for her mom.
 She understands what it means to balance work and family while watching groceries, utilities, healthcare, and just about everything else take a bigger bite out of the paycheck.
 Becky is a graduate of Lincoln University, where she earned a degree in history with a minor in elementary education.
@@ -32,3 +32,4 @@ Trust isn't built by telling people their vote matters and then looking for ways
 Becky is running for Missouri House District 59 because she believes this district deserves a representative who will show up, do the homework, ask the questions, and remember who sent her there.
 She isn't running to represent a political party.
 She's running to represent her neighbors.
+Donate Now Make a Donation Volunteer Now Attend an Event Campaign News & Updates September 7 Labor Day Read More August 22 When Strong People Are Struggling Read More August 4 Rural Spaces Aren't Wasted Space Read More See All Updates Support Becky Kroll’s Campaign for Missouri Donate Now Becky Kroll For Missouri 1603 Kroll Road, Lohman, Mo 65053 tel:573-690-3431 | becky@beckykrollformissouri.com Melba Price, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

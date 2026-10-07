@@ -1,19 +1,82 @@
 [
-"https://bit.ly/GracielaElectionDay",
-"https://bit.ly/GracielaEvents",
-"https://chicago.councilmatic.org/legislation/r2023-0005730",
-"https://elections.il.gov/",
-"https://facebook.com/GracielaGuzmanFor20",
-"https://gracielafor20.nationbuilder.com/",
-"https://gracielafor20.nationbuilder.com/events",
-"https://gracielafor20.org/",
-"https://gracielafor20.org/endorsements",
-"https://gracielafor20.org/meet-graciela",
-"https://gracielafor20.org/news",
-"https://gracielafor20.org/platform",
-"https://gracielafor20.org/testimonials",
-"https://gracielafor20.org/vote",
-"https://instagram.com/gracielaforsenate",
-"https://kenbarrios.com/",
-"https://twitter.com/graciela4senate"
+{
+"text": "Calendar",
+"href": "https://bit.ly/GracielaEvents"
+},
+{
+"text": "Campaign Events",
+"href": "https://gracielafor20.nationbuilder.com/events"
+},
+{
+"text": "Designed and Developed by Ken Barrios",
+"href": "https://kenbarrios.com"
+},
+{
+"text": "Donate",
+"href": "https://gracielafor20.nationbuilder.com/"
+},
+{
+"text": "Election Day Volunteer",
+"href": "https://bit.ly/GracielaElectionDay"
+},
+{
+"text": "Endorsements",
+"href": "https://gracielafor20.org/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://gracielafor20.nationbuilder.com/events"
+},
+{
+"text": "Introduction",
+"href": "https://gracielafor20.org/meet-graciela/"
+},
+{
+"text": "Meet Graciela",
+"href": "https://gracielafor20.org/meet-graciela/"
+},
+{
+"text": "News",
+"href": "https://gracielafor20.org/news/"
+},
+{
+"text": "Platform",
+"href": "https://gracielafor20.org/platform/"
+},
+{
+"text": "Testimonials",
+"href": "https://gracielafor20.org/testimonials/"
+},
+{
+"text": "Vote",
+"href": "https://gracielafor20.org/vote/"
+},
+{
+"text": "[image]",
+"href": "https://gracielafor20.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/graciela4senate"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/GracielaGuzmanFor20"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/GracielaGuzmanFor20/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/gracielaforsenate/"
+},
+{
+"text": "https://chicago.councilmatic.org/legislation/r2023-0005730/",
+"href": "https://chicago.councilmatic.org/legislation/r2023-0005730/"
+},
+{
+"text": "www.elections.il.gov",
+"href": "https://www.elections.il.gov"
+}
 ]

@@ -1,5 +1,4 @@
-Meet Mark
-I was born and raised in Fayetteville, North Carolina, the fourth child of five born to Ruth Marguerite Rogers, a waitress, and Samuel Penn Carver, a building contractor.
+Meet Mark Issues News Volunteer Contribute Meet Mark I was born and raised in Fayetteville, North Carolina, the fourth child of five born to Ruth Marguerite Rogers, a waitress, and Samuel Penn Carver, a building contractor.
 During WWII my mother worked in a defense plant in Baltimore and my father served in the Navy in the European theatre.
 My mother was diagnosed with breast cancer and had a radical mastectomy in 1973.
 I was 15 years old when my mom passed away and I had just started my junior year of high school.
@@ -27,3 +26,4 @@ This year I have been teaching college for 22 years with 20 of those at Gaston C
 In July of 2022 Lori and I became grandparents, we are Mimi and Papa.
 Our daughter, Lindsay and son-in-law Michael, brought Hazel Amelia Stockman into this world.
 We are so proud of Lindsay and Michael, and cherish the family time we spend with them and our Hazel.
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Mark Carver Powered by CampaignPartner.com - Political Websites Home Meet Mark Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

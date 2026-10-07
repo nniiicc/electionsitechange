@@ -1,19 +1,78 @@
 [
-"https://bsky.app/profile/kelso4wa.bsky.social",
-"https://facebook.com/profile.php?id=100082634871974",
-"https://facebook.com/reel/1297624312204533",
-"https://issuu.com/westplainsstream/docs/2026_july_stream",
-"https://kelso4wa.com/",
-"https://kelso4wa.com/about",
-"https://kelso4wa.com/contact",
-"https://kelso4wa.com/donate",
-"https://kelso4wa.com/endorsements",
-"https://kelso4wa.com/issues",
-"https://kelso4wa.com/news",
-"https://kelso4wa.com/privacy-policy",
-"https://progressivevoters.guide/washington/2026/primary/ld/6",
-"https://secure.actblue.com/donate/friends-of-michaela-kelso-1",
-"https://spokanepublicradio.org/regional-news/2026-07-26/spokane-democrat-takes-a-third-run-for-the-legislature",
-"https://spokesman.com/stories/2026/jul/06/voters-have-many-choices-to-replace-state-rep-mike",
-"https://youtube.com/watch?v=fUtvienFwsA"
+{
+"text": "+1 (509) 609-4155",
+"href": "tel:+1%20(509)%20609-4155"
+},
+{
+"text": "About",
+"href": "https://www.kelso4wa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.kelso4wa.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-michaela-kelso-1"
+},
+{
+"text": "Donate",
+"href": "https://www.kelso4wa.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kelso4wa.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.kelso4wa.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kelso4wa.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.kelso4wa.com/news"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.kelso4wa.com/privacy-policy"
+},
+{
+"text": "[image: Elect Michaela Kelso for WA 6LD logo]",
+"href": "https://www.kelso4wa.com/"
+},
+{
+"text": "[image]",
+"href": "https://issuu.com/westplainsstream/docs/2026_july_stream"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/reel/1297624312204533"
+},
+{
+"text": "[image]",
+"href": "https://www.progressivevoters.guide/washington/2026/primary/ld/6"
+},
+{
+"text": "[image]",
+"href": "https://www.spokanepublicradio.org/regional-news/2026-07-26/spokane-democrat-takes-a-third-run-for-the-legislature"
+},
+{
+"text": "[image]",
+"href": "https://www.spokesman.com/stories/2026/jul/06/voters-have-many-choices-to-replace-state-rep-mike/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/watch?v=fUtvienFwsA"
+},
+{
+"text": "[tooltip: Go to Bluesky page]",
+"href": "https://bsky.app/profile/kelso4wa.bsky.social"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/profile.php?id=100082634871974"
+}
 ]

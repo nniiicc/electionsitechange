@@ -1,7 +1,5 @@
-top of page
-GET INVOLVED
-Join Christy, Sign Up Now
-This campaign is ALL about engaging the good folks in our community.
+top of page Meet Christy Community Issues Become a Volunteer Contact More Use tab to navigate through the menu items.
+DONATE GET INVOLVED Join Christy, Sign Up Now This campaign is ALL about engaging the good folks in our community.
 We want to connect with as many residents in Senate District 14 (ʻĀlewa, Kapālama, Kalihi, Ft.
 Shafter, Moanalua, Red Hill) as possible, and we could use your help!
 Canvassing is really interesting and easier than you think!
@@ -11,4 +9,6 @@ If canvassing is not your thing, we would love for you to join us for community 
 It will no doubt be lotsa fun!!
 Please sign up to volunteer and see our calendar of events!
 Mahalo nui!
-bottom of page
+VOLUNTEER Follow me on STAND WITH CHRISTY MACPHERSON Be a founding supporter of Christy’s State Senate campaign!
+DONATE BECOME A VOLUNTEER Be the Change - Connect with YOUR Community!
+VOLUNTEER Home ​ ​ Meet Christy ​ ​ Community Issues ​ ​ Become a Volunteer ​ ​ Contact Terms & Conditions Privacy Policy Accessibility Statement © # by Christy Kikue MacPherson ​ PO Box 17026 Honolulu, HI 96817 ​ ​ info@christymacpherson.com bottom of page

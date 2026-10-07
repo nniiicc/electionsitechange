@@ -1,18 +1,70 @@
 [
-"https://friendsofjohnnyhorne.com/",
-"https://friendsofjohnnyhorne.com/blank-12",
-"https://friendsofjohnnyhorne.com/blog",
-"https://friendsofjohnnyhorne.com/event-details/community-town-hall-with-rep-johnny-horne",
-"https://friendsofjohnnyhorne.com/event-list",
-"https://friendsofjohnnyhorne.com/groups",
-"https://friendsofjohnnyhorne.com/my-groups",
-"https://friendsofjohnnyhorne.com/notifications",
-"https://static.wixstatic.com/media/c67478_2db223fc6fd5479288272546781dab04~mv2.webp",
-"https://static.wixstatic.com/media/c67478_322a5ac12dba4b6da105c84691c7d3d7~mv2.jpeg",
-"https://static.wixstatic.com/media/c67478_67af8305fa2947e5baf1b4888c6eb2cb~mv2.jpeg",
-"https://static.wixstatic.com/media/c67478_7cb940058734442bbb71343bc26b0a4c~mv2.png",
-"https://static.wixstatic.com/media/c67478_bb9f4c14dcb740c0ad6a08a142f1da03~mv2.jpeg",
-"https://static.wixstatic.com/media/c67478_cc78d7ae03534dee96d63d1e767cf7b2~mv2.jpeg",
-"https://static.wixstatic.com/media/c67478_ce66bec73df2450385acceaf8f27fc8b~mv2.jpeg",
-"https://static.wixstatic.com/media/c67478_f59e989f6065493ea7fdaff15e864112~mv2.png"
+{
+"text": "Blog",
+"href": "https://www.friendsofjohnnyhorne.com/blog"
+},
+{
+"text": "Events",
+"href": "https://www.friendsofjohnnyhorne.com/event-list"
+},
+{
+"text": "Groups",
+"href": "https://www.friendsofjohnnyhorne.com/groups"
+},
+{
+"text": "Home",
+"href": "https://www.friendsofjohnnyhorne.com"
+},
+{
+"text": "Notifications",
+"href": "https://www.friendsofjohnnyhorne.com/notifications"
+},
+{
+"text": "Portfolio",
+"href": "https://www.friendsofjohnnyhorne.com/blank-12"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.friendsofjohnnyhorne.com/event-details/community-town-hall-with-rep-johnny-horne"
+},
+{
+"text": "Voter Info",
+"href": "https://www.friendsofjohnnyhorne.com/my-groups"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.friendsofjohnnyhorne.com"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/c67478_2db223fc6fd5479288272546781dab04~mv2.webp"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/c67478_322a5ac12dba4b6da105c84691c7d3d7~mv2.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/c67478_67af8305fa2947e5baf1b4888c6eb2cb~mv2.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/c67478_7cb940058734442bbb71343bc26b0a4c~mv2.png"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/c67478_bb9f4c14dcb740c0ad6a08a142f1da03~mv2.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/c67478_cc78d7ae03534dee96d63d1e767cf7b2~mv2.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/c67478_ce66bec73df2450385acceaf8f27fc8b~mv2.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/c67478_f59e989f6065493ea7fdaff15e864112~mv2.png"
+}
 ]

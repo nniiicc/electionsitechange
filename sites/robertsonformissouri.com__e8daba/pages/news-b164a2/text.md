@@ -1,9 +1,4 @@
-Home
-Mission
-Tribute to a Hero
-Issues
-Events
-News
-Feature Event : Trivia Night Fundraiser
-Jan 28, 2026
-What are the true motives of the Democrat Party today?
+top of page Home Mission Tribute to a Hero Issues Events News Use tab to navigate through the menu items.
+DONATE Feature Event : Trivia Night Fundraiser All Videos All Categories Play Video Play Video 04:55 Door to Door Stories by David Robertson for State Rep District 97 Door to Door Stories by David Robertson for State Rep District 97 north central Jefferson County, Missouri Play Video Play Video 05:34 The Candidacy by David Robertson for State Rep #97 The Candidacy by David Robertson for State Rep #97.
+Dave discusses why he is running at trivia night fundraiser. https://www.davidrobertsonformissouri.com/issues Play Video Play Video 03:40 Election Integrity & Supporting Jaclyn Riebold for JeffCo Clerk -David Robertson David Robertson for State Rep #97 Election Integrity & Supporting Jaclyn Riebold for JeffCo Clerk. https://www.jaclynforjeffco.com/ Play Video Play Video 06:33 Initiative Petition Reform Part Two David Robertson for State Rep #97 David Robertson for State Rep #97 Initiative Petition Reform Part Two https://www.davidrobertsonformissouri.com/issues Play Video Play Video 06:36 Iran Statement and Initiative Petition Reform David Robertson Part One David Robertson for State Rep #97 Iran Statement and Initiative Petition Reform in Missouri Part One Mar 04, 2026 https://www.davidrobertsonformissouri.com/issues Robertson News & Interviews Jan 28, 2026 What are the true motives of the Democrat Party today?
+Read More David Robertson for Missouri 314-807-4759 provinse7@gmail.com PO Box 179 High Ridge, MO 63049 DONATE Privacy Policy Terms & Conditions Accessibility Statement Paid for by Robertson for Missouri, Ken Merrill, Treasurer ​ © #-26 David Robertson for Missouri bottom of page

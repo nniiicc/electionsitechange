@@ -1,46 +1,17 @@
-Endorsements For Wendy McNamara
-State Officials
-Mike Pence – Governor of Indiana
-Suzanne Crouch – Indiana Auditor of State
-Jim Tomes – State Senator from Posey, Vanderburgh and Gibson Counties
-Vaneta Becker – State Senator from Vanderburgh and Warrick Counties
-Ron Bacon – State Representative from Warrick, Spencer and Pike Counties
-Holli Sullivan – State Representative from Vanderburgh and Warrick Counties
-Tom Washburne – State Representative from Gibson, Knox, Pike, Vanderburgh and Posey Counties
-Local Officials
-Lloyd Winnecke – Mayor of Evansville
-Marsha Abell – Former County Commissioner from Vanderburgh County
-Joe Kiefer – Vanderburgh Country Commissioner
-Bruce Ungethiem – Vanderburgh Country Commissioner
-Tom Shetler – Vanderburgh County Council
-Angela Koehler Lindsey – Vanderburgh County Council
-James B.
-Raben – Vanderburgh County Council
-John Montrastelle – Vanderburgh County Council
-Nick Hermann – Vanderburgh County Prosecutor
-Federal Officials
-Dan Coats – US Senate from Indiana
-Dr.
-Larry Bucshon – US Congressman from Indiana’s 8th District
-Party Officials
-Wayne E Parke – Chairman Vanderburgh County Republican Party
-Mary Jo Kaiser – Vice Chairman Vanderburgh County Republican Party
-E.
+Volunteer Donate Now Donate Volunteer About Wendy Home About About Wendy Endorsements Issues Events Gallery Press Press Releases Media Photos Donate Contact Contact Us Volunteer Contribute Home » Endorsements Endorsements Endorsements For Wendy McNamara Wendy McNamara has received the following Endorsements for her re-election campaign: State Officials Mike Pence – Governor of Indiana Suzanne Crouch – Indiana Auditor of State Jim Tomes – State Senator from Posey, Vanderburgh and Gibson Counties Vaneta Becker – State Senator from Vanderburgh and Warrick Counties Ron Bacon – State Representative from Warrick, Spencer and Pike Counties Holli Sullivan – State Representative from Vanderburgh and Warrick Counties Tom Washburne – State Representative from Gibson, Knox, Pike, Vanderburgh and Posey Counties Local Officials Lloyd Winnecke – Mayor of Evansville Marsha Abell – Former County Commissioner from Vanderburgh County Joe Kiefer – Vanderburgh Country Commissioner Bruce Ungethiem – Vanderburgh Country Commissioner Tom Shetler – Vanderburgh County Council Angela Koehler Lindsey – Vanderburgh County Council James B.
+Raben – Vanderburgh County Council John Montrastelle – Vanderburgh County Council Nick Hermann – Vanderburgh County Prosecutor Federal Officials Dan Coats – US Senate from Indiana Dr.
+Larry Bucshon – US Congressman from Indiana’s 8th District Party Officials Wayne E Parke – Chairman Vanderburgh County Republican Party Mary Jo Kaiser – Vice Chairman Vanderburgh County Republican Party E.
 L.
-“Lon” Walters – Secretary Vanderburgh County Republican Party
-Farley Smith – Treasurer Vanderburgh County Republican Party
-Gregory Newman – Chairman Posey County Republican Party
-Nancy Hoehn – Vice Chairman Posey County Republican Party
-Judy Whitten – Secretary Posey County Republican Party
-Kay Kilgore – Treasurer Posey County Republican Party
-Community Leaders
-John Dunn – Chief Executive Officer of the Evansville-based Dunn Hospitality Group
-Theresa L Boots – Homemaker from Vanderburgh County
-Bill Gillenwater – President at Anodyne Plastic, Inc.
-Organizations:
-Associated Builders & Contractors Of Indiana
-Indiana Association Of Realtors
-Insurance Institute Of Indiana
-Professional Fire Fighters Union Of Indiana
-Indiana Bankers Association
-Indiana Trial Lawyers Association
+“Lon” Walters – Secretary Vanderburgh County Republican Party Farley Smith – Treasurer Vanderburgh County Republican Party Gregory Newman – Chairman Posey County Republican Party Nancy Hoehn – Vice Chairman Posey County Republican Party Judy Whitten – Secretary Posey County Republican Party Kay Kilgore – Treasurer Posey County Republican Party Community Leaders John Dunn – Chief Executive Officer of the Evansville-based Dunn Hospitality Group Theresa L Boots – Homemaker from Vanderburgh County Bill Gillenwater – President at Anodyne Plastic, Inc.
+Organizations: Associated Builders & Contractors Of Indiana Indiana Association Of Realtors Insurance Institute Of Indiana Professional Fire Fighters Union Of Indiana Indiana Bankers Association Indiana Trial Lawyers Association Join The Campaign Loading...
+Issues Control Government Spending Wendy McNamara believes that since Hoosiers all around the state are tightening their family budgets,… Curbing Illegal Drugs It can be said that there is a growing drug epidemic in Indiana considering that… Improving Public Safety Wendy McNamara fights for improvements in public safety.
+She believes in allowing the Department of… Education A strong belief in students and education is very close to Wendy McNamara’s heart.
+With… --> Expanding Economic Development Wendy McNamara believes that we are and need to continue to be open for business.… News Latest Legislation Most recent bills and legislation.
+Caucus Updates See the most recent developments in Indiana House of Representatives Caucus.
+Facebook Updates Indiana House Republicans Tweets Tweets by INHouseGOP About Be a part of the movement and participate in building a better future for our state!
+Make a difference.
+Paid for by Wendy McNamara for State Representative Committee.
+Home About Wendy Volunteer Issues Copyright © #.
+Paid for by Wendy McNamara for State Representative Committee.
+All Rights Reserved.
+Site by Tyler Reifsteck 2016 Edits made by Kanin Bender 2019

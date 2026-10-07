@@ -1,6 +1,5 @@
-Ward 1 City Councilwoman Lammis Vargas, who was worked in the Rhode Island general treasurer’s office since 2015, has been promoted to the title of deputy treasurer.
+Skip to content Skip to footer Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact donate Posted July 17, 2024 Vargas Named Deputy Treasurer Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact Ward 1 City Councilwoman Lammis Vargas, who was worked in the Rhode Island general treasurer’s office since 2015, has been promoted to the title of deputy treasurer.
 Click here to read more.
-You May Also Like
-Posted August 27, 2024
-Press Release: Vargas adds three key labor unions to list of supporters for District 28 bid
-Posted October 3, 2024
+You May Also Like Posted August 27, 2024 Press Release: Vargas adds three key labor unions to list of supporters for District 28 bid Posted October 3, 2024 Vargas and team reopen Edgewood Highland Playground Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
+#teamlammis Facebook Instagram X-twitter Get Involved Meet Lammis Endorsements Platform Volunteer Contribute Contact Stay Tuned for Updates I have read and agree to the terms & conditions Leave this field empty if you're human: Copyright ©️ # Friends of Lammis J.
+Vargas | All Rights Reserved | Website Development & Design by J&R Marketing | Privacy Policy

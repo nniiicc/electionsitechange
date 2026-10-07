@@ -1,15 +1,58 @@
 [
-"http://squarespace.com/",
-"https://facebook.com/votevotakristaperez",
-"https://instagram.com/votekristaperez",
-"https://secure.anedot.com/kristaperez/donate",
-"https://votekristaperez.org/",
-"https://votekristaperez.org/about",
-"https://votekristaperez.org/about-1",
-"https://votekristaperez.org/cart",
-"https://votekristaperez.org/contact",
-"https://votekristaperez.org/endorsements",
-"https://votekristaperez.org/gallery",
-"https://votekristaperez.org/issues",
-"https://votekristaperez.org/new-page"
+{
+"text": "0",
+"href": "https://www.votekristaperez.org/cart"
+},
+{
+"text": "2026 Endorsements",
+"href": "https://www.votekristaperez.org/endorsements"
+},
+{
+"text": "About",
+"href": "https://www.votekristaperez.org/about"
+},
+{
+"text": "Back",
+"href": "https://www.votekristaperez.org/"
+},
+{
+"text": "Canvass with us!",
+"href": "https://www.votekristaperez.org/new-page"
+},
+{
+"text": "Contact",
+"href": "https://www.votekristaperez.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/kristaperez/donate"
+},
+{
+"text": "Gallery",
+"href": "https://www.votekristaperez.org/gallery"
+},
+{
+"text": "Priorities",
+"href": "https://www.votekristaperez.org/issues"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.votekristaperez.org/about-1"
+},
+{
+"text": "[image: People for Krista Perez]",
+"href": "https://www.votekristaperez.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votevotakristaperez"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votekristaperez/"
+},
+{
+"text": "info@votekristaperez.com",
+"href": "http://squarespace.com"
+}
 ]

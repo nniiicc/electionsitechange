@@ -1,9 +1,12 @@
 {
  "description": "Stay updated on West Virginia legislation with Mike Oliverio's news and legislative highlights.",
  "final_url": "https://mikeoliverioforwv.com/news-and-legislation",
+ "fingerprint": "ec32157cb285a07c0b95922ad1fec5e2f3843ec0",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Mike Oliverio Chase F",
  "title": "News and Legislation",
  "years_mentioned": [
+  "2025",
   "2026"
  ]
 }

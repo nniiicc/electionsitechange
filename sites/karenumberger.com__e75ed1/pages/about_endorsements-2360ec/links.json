@@ -1,18 +1,78 @@
 [
-"https://atr.org/pledge-database",
-"https://cnht.org/news/about/the-pledge",
-"https://facebook.com/karenumbergerfornhrep",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkarenumberger.com%2Fabout%2Fendorsements%2F&t=ENDORSEMENTS",
-"https://karenumberger.com/",
-"https://karenumberger.com/about",
-"https://karenumberger.com/about/endorsements",
-"https://karenumberger.com/donate",
-"https://karenumberger.com/issues",
-"https://karenumberger.com/links",
-"https://karenumberger.com/news",
-"https://karenumberger.com/wp-content/uploads/2024/10/NHFC_Carroll.pdf",
-"https://karenumberger.com/wp-content/uploads/2026/09/ayotte_end_umberger.jpg",
-"https://nhhra.org/hra/wp-content/uploads/2022/07/Score_Name_07-21-2022.pdf",
-"https://nhrtlpac.org/wp-content/uploads/2024/10/2024-general-voting-guide-v4.pdf",
-"https://x.com/intent/tweet?text=ENDORSEMENTS&url=https%3A%2F%2Fkarenumberger.com%2Fabout%2Fendorsements%2F"
+{
+"text": "ABOUT",
+"href": "https://karenumberger.com/about/"
+},
+{
+"text": "Americans for Tax Reform (ATR Pledge)",
+"href": "https://www.atr.org/pledge-database/"
+},
+{
+"text": "Coalition of NH Taxpayers Anti-Broadbased Tax Pledge (CNHT)",
+"href": "https://www.cnht.org/news/about/the-pledge/"
+},
+{
+"text": "DONATE",
+"href": "https://karenumberger.com/donate/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://karenumberger.com/about/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/karenumbergerfornhrep/"
+},
+{
+"text": "HOME",
+"href": "https://karenumberger.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://karenumberger.com/issues/"
+},
+{
+"text": "LINKS",
+"href": "https://karenumberger.com/links/"
+},
+{
+"text": "NEWS",
+"href": "https://karenumberger.com/news/"
+},
+{
+"text": "NH Firearms Coalition (NHFC) – A",
+"href": "https://karenumberger.com/wp-content/uploads/2024/10/NHFC_Carroll.pdf"
+},
+{
+"text": "NH House Republican Alliance (HRA-2022) – 79.0%",
+"href": "https://nhhra.org/hra/wp-content/uploads/2022/07/Score_Name_07-21-2022.pdf"
+},
+{
+"text": "NH Right to Life (NHRTL)",
+"href": "https://nhrtlpac.org/wp-content/uploads/2024/10/2024-general-voting-guide-v4.pdf"
+},
+{
+"text": "[image: Karen Umberger for State Representative]",
+"href": "https://karenumberger.com/"
+},
+{
+"text": "[image]",
+"href": "https://karenumberger.com/wp-content/uploads/2026/09/ayotte_end_umberger.jpg"
+},
+{
+"text": "[tooltip: Send over email]",
+"href": "mailto:?subject=ENDORSEMENTS&body=https%3A%2F%2Fkarenumberger.com%2Fabout%2Fendorsements%2F"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkarenumberger.com%2Fabout%2Fendorsements%2F&t=ENDORSEMENTS"
+},
+{
+"text": "[tooltip: Share on X]",
+"href": "https://x.com/intent/tweet?text=ENDORSEMENTS&url=https%3A%2F%2Fkarenumberger.com%2Fabout%2Fendorsements%2F"
+},
+{
+"text": "karen@karenumberger.com",
+"href": "mailto:karen@karenumberger.com"
+}
 ]

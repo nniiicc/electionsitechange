@@ -1,14 +1,70 @@
 [
-"https://facebook.com/JackZforGA",
-"https://instagram.com/JackZforGA",
-"https://jackzforsenate.com/",
-"https://jackzforsenate.com/newsletter",
-"https://jackzforsenate.com/volunteer",
-"https://secure.actblue.com/donate/jackzforsenate",
-"https://secure.actblue.com/donate/jackzforsenate?amount=10",
-"https://secure.actblue.com/donate/jackzforsenate?amount=100",
-"https://secure.actblue.com/donate/jackzforsenate?amount=1000",
-"https://secure.actblue.com/donate/jackzforsenate?amount=250",
-"https://secure.actblue.com/donate/jackzforsenate?amount=50",
-"https://webvolve.com/"
+{
+"text": "Contribute to Jack",
+"href": "https://secure.actblue.com/donate/jackzforsenate"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jackzforsenate"
+},
+{
+"text": "Donate $1,000",
+"href": "https://secure.actblue.com/donate/jackzforsenate?amount=1000"
+},
+{
+"text": "Donate $10",
+"href": "https://secure.actblue.com/donate/jackzforsenate?amount=10"
+},
+{
+"text": "Donate $100",
+"href": "https://secure.actblue.com/donate/jackzforsenate?amount=100"
+},
+{
+"text": "Donate $250",
+"href": "https://secure.actblue.com/donate/jackzforsenate?amount=250"
+},
+{
+"text": "Donate $50",
+"href": "https://secure.actblue.com/donate/jackzforsenate?amount=50"
+},
+{
+"text": "Donate Custom Amt",
+"href": "https://secure.actblue.com/donate/jackzforsenate"
+},
+{
+"text": "Get Involved with Jack’s Campaign",
+"href": "https://www.jackzforsenate.com/volunteer/"
+},
+{
+"text": "Issues",
+"href": "https://www.jackzforsenate.com/#issues"
+},
+{
+"text": "Meet Jack",
+"href": "https://www.jackzforsenate.com/#about_jack"
+},
+{
+"text": "Sign Up for Updates",
+"href": "https://www.jackzforsenate.com/newsletter/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jackzforsenate.com/volunteer/"
+},
+{
+"text": "Webvolve",
+"href": "https://www.webvolve.com"
+},
+{
+"text": "[image: Jack Zibluk for State Senate]",
+"href": "https://www.jackzforsenate.com"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/JackZforGA"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/JackZforGA"
+}
 ]

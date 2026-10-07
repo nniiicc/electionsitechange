@@ -1,21 +1,98 @@
 [
-"http://campaignverify.org/",
-"https://darrylblock.com/",
-"https://darrylblock.com/accessibility-statement",
-"https://darrylblock.com/accessibility-statement-1",
-"https://darrylblock.com/contact",
-"https://darrylblock.com/endorsements",
-"https://darrylblock.com/events",
-"https://darrylblock.com/meet-darryl",
-"https://darrylblock.com/privacy-policy",
-"https://facebook.com/DarrylBlockFL",
-"https://instagram.com/blockfor36",
-"https://linkedin.com/in/theresakinter",
-"https://lp.constantcontactpages.com/sl/VRoRWMZ",
-"https://registertovoteflorida.gov/home",
-"https://registration.dos.fl.gov/CheckVoterStatus",
-"https://secure.actblue.com/donate/db-web",
-"https://tiktok.com/@blockfor36",
-"https://voteseminole.gov/how-to-vote/vote-by-mail",
-"https://youtube.com/@BlockFor36"
+{
+"text": "Accessibility Statement",
+"href": "https://www.darrylblock.com/accessibility-statement-1"
+},
+{
+"text": "CONTACT",
+"href": "https://www.darrylblock.com/contact"
+},
+{
+"text": "CampaignVerify.org",
+"href": "http://campaignverify.org"
+},
+{
+"text": "Clover’s Creative Strategy & Design",
+"href": "https://www.linkedin.com/in/theresakinter/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.darrylblock.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/db-web"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.darrylblock.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.darrylblock.com/events"
+},
+{
+"text": "MEET DARRYL",
+"href": "https://www.darrylblock.com/meet-darryl"
+},
+{
+"text": "NEWSLETTER",
+"href": "https://lp.constantcontactpages.com/sl/VRoRWMZ"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.darrylblock.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovoteflorida.gov/home"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.darrylblock.com/accessibility-statement"
+},
+{
+"text": "Vote by Mail",
+"href": "https://voteseminole.gov/how-to-vote/vote-by-mail/"
+},
+{
+"text": "[image: DARRYL-BLOCK-LOGO-WHITE.png]",
+"href": "https://www.darrylblock.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DarrylBlockFL"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/blockfor36/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@blockfor36"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@BlockFor36"
+},
+{
+"text": "check registration",
+"href": "https://registration.dos.fl.gov/CheckVoterStatus"
+},
+{
+"text": "https://www.blockfor36.com",
+"href": "https://www.darrylblock.com"
+},
+{
+"text": "info@blockfor36.com",
+"href": "mailto:info@blockfor36.com?subject=Data+Deletion+Request"
+},
+{
+"text": "info@blockfor36.com",
+"href": "mailto:info@blockfor36.com?subject=Privacy+Related+Inquiry"
+},
+{
+"text": "where to vote",
+"href": "https://registration.dos.fl.gov/CheckVoterStatus"
+}
 ]

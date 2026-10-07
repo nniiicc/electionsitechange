@@ -1,16 +1,82 @@
 [
-"https://facebook.com/taylorjroyal",
-"https://royalforlegislature.com/",
-"https://royalforlegislature.com/cart",
-"https://royalforlegislature.com/donate",
-"https://royalforlegislature.com/endorsements",
-"https://royalforlegislature.com/homepage",
-"https://royalforlegislature.com/news",
-"https://royalforlegislature.com/privacy",
-"https://secure.anedot.com/taylor-royal-for-legislature/donate?amount=10",
-"https://secure.anedot.com/taylor-royal-for-legislature/donate?amount=100",
-"https://secure.anedot.com/taylor-royal-for-legislature/donate?amount=20",
-"https://secure.anedot.com/taylor-royal-for-legislature/donate?amount=5",
-"https://secure.anedot.com/taylor-royal-for-legislature/donate?amount=50",
-"https://youtube.com/@Taylor_Royal"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/taylor-royal-for-legislature/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/taylor-royal-for-legislature/donate?amount=100"
+},
+{
+"text": "$20",
+"href": "https://secure.anedot.com/taylor-royal-for-legislature/donate?amount=20"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/taylor-royal-for-legislature/donate?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/taylor-royal-for-legislature/donate?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.royalforlegislature.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.royalforlegislature.com/homepage#about"
+},
+{
+"text": "Contribute",
+"href": "https://www.royalforlegislature.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.royalforlegislature.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.royalforlegislature.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://www.royalforlegislature.com/homepage#endorsements"
+},
+{
+"text": "Meet Taylor",
+"href": "https://www.royalforlegislature.com/homepage#about"
+},
+{
+"text": "News",
+"href": "https://www.royalforlegislature.com/news"
+},
+{
+"text": "Platform",
+"href": "https://www.royalforlegislature.com/homepage#platform"
+},
+{
+"text": "Privacy",
+"href": "https://www.royalforlegislature.com/privacy"
+},
+{
+"text": "Read More",
+"href": "https://www.royalforlegislature.com/endorsements"
+},
+{
+"text": "Vision & Platform",
+"href": "https://www.royalforlegislature.com/homepage#platform"
+},
+{
+"text": "[image: Taylor Royal for Legislature]",
+"href": "https://www.royalforlegislature.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/taylorjroyal"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Taylor_Royal"
+}
 ]

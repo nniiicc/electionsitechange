@@ -1,13 +1,46 @@
 [
-"https://andyzahn.com/",
-"https://andyzahn.com/2026/06/22/cutting-the-cost-of-your-commute",
-"https://andyzahn.com/2026/06/22/cutting-the-cost-of-your-commute?share=facebook",
-"https://andyzahn.com/2026/06/22/cutting-the-cost-of-your-commute?share=twitter",
-"https://andyzahn.com/about",
-"https://andyzahn.com/platform",
-"https://bsky.app/profile/electandy.bsky.social",
-"https://facebook.com/people/Elect-Andy-Zahn/61560679994242",
-"https://newsroom.aaa.com/wp-content/uploads/2024/09/YDC_Fact-Sheet-FINAL-9.2024.pdf",
-"https://substack.com/@andyzahn1",
-"https://youtube.com/@AndyZahn"
+{
+"text": "About",
+"href": "https://andyzahn.com/about/"
+},
+{
+"text": "According to AAA",
+"href": "https://newsroom.aaa.com/wp-content/uploads/2024/09/YDC_Fact-Sheet-FINAL-9.2024.pdf"
+},
+{
+"text": "Andy Zahn",
+"href": "https://andyzahn.com"
+},
+{
+"text": "Cancel reply",
+"href": "https://andyzahn.com/2026/06/22/cutting-the-cost-of-your-commute/#respond"
+},
+{
+"text": "Platform",
+"href": "https://andyzahn.com/platform/"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://andyzahn.com/2026/06/22/cutting-the-cost-of-your-commute/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://andyzahn.com/2026/06/22/cutting-the-cost-of-your-commute/?share=twitter"
+},
+{
+"text": "https://bsky.app/profile/electandy.bsky.social",
+"href": "https://bsky.app/profile/electandy.bsky.social"
+},
+{
+"text": "https://substack.com/@andyzahn1",
+"href": "https://substack.com/@andyzahn1"
+},
+{
+"text": "https://www.facebook.com/people/Elect-Andy-Zahn/61560679994242/",
+"href": "https://www.facebook.com/people/Elect-Andy-Zahn/61560679994242/"
+},
+{
+"text": "https://www.youtube.com/@AndyZahn",
+"href": "https://www.youtube.com/@AndyZahn"
+}
 ]

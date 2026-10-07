@@ -1,18 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Summer+Canvass+Calendar&dates=20250703T000000Z%2F20250806T030000Z",
-"https://debkforsenate.com/",
-"https://debkforsenate.com/cart",
-"https://debkforsenate.com/endorsements",
-"https://debkforsenate.com/events",
-"https://debkforsenate.com/events/campaign-kickoff",
-"https://debkforsenate.com/events/summer-canvass-calendar?format=ical",
-"https://debkforsenate.com/events/tz4vg5vz1juqq496sr5m8zo8jndxt3",
-"https://debkforsenate.com/issues",
-"https://debkforsenate.com/news",
-"https://facebook.com/profile.php?id=61575289710681",
-"https://flickr.com/photos/203048066@N04",
-"https://forms.gle/xzortGKB7kkXnJ2H8",
-"https://instagram.com/debkforsenate",
-"https://secure.actblue.com/donate/debk",
-"https://secure.ngpvan.com/yAKbUs3-KEO9cqDZWxm0CA2"
+{
+"text": "0",
+"href": "https://www.debkforsenate.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.debkforsenate.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/debk"
+},
+{
+"text": "Endorse Deb",
+"href": "https://secure.ngpvan.com/yAKbUs3-KEO9cqDZWxm0CA2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.debkforsenate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.debkforsenate.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://forms.gle/xzortGKB7kkXnJ2H8"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Summer+Canvass+Calendar&dates=20250703T000000Z%2F20250806T030000Z"
+},
+{
+"text": "Home",
+"href": "https://www.debkforsenate.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.debkforsenate.com/events/summer-canvass-calendar?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.debkforsenate.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.debkforsenate.com/news"
+},
+{
+"text": "Next Next September 13 Fall Doorbelling Kickoff",
+"href": "https://www.debkforsenate.com/events/tz4vg5vz1juqq496sr5m8zo8jndxt3"
+},
+{
+"text": "Previous Previous June 24 Campaign Kickoff!",
+"href": "https://www.debkforsenate.com/events/campaign-kickoff"
+},
+{
+"text": "[image: Deb Krishnadasan, Democrat for State Senate]",
+"href": "https://www.debkforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575289710681"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/203048066@N04/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/debkforsenate/"
+},
+{
+"text": "zach@debkforsenate.com",
+"href": "mailto:zach@debkforsenate.com"
+}
 ]

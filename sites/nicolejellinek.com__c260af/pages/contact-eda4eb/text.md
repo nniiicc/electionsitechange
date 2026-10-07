@@ -1,5 +1,1 @@
-Contact Me:
-Email: jellinek67@gmail.com
-Phone: (401) 646-9233
-Instagram: @nicolejellinek
-Facebook: Nicole Jellinek for State Rep
+0 Skip to Content Home About Issues Volunteer Contact Open Menu Close Menu Home About Issues Volunteer Contact Open Menu Close Menu Home About Issues Volunteer Contact Contact Me: Email: jellinek67@gmail.com Phone: (401) 646-9233 Instagram: @nicolejellinek Facebook: Nicole Jellinek for State Rep Election Day: November 3rd Early Voting starts October 14 Campaign Here: Donate to Nicole’s Visit the RI Voter Information Center for info

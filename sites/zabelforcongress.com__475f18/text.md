@@ -1,7 +1,9 @@
-31-Year Veteran.
+0 Skip to Content Home Who I Am What I Stand For News Connect Volunteer Events Merch Donate Open Menu Close Menu Home Who I Am What I Stand For News Connect Volunteer Events Merch Donate Open Menu Close Menu Home Who I Am What I Stand For News Connect Volunteer Events Merch Donate 31-Year Veteran.
 Retired Air Force Major General.
-Neighbor.Still serving.
-Idaho is bearing the costs of a Congress that works for party leaders, not for us.
+Neighbor.
+Still serving.
+Sarah Zabel — Independent for U.S.
+Congress in Idaho's First District Idaho is bearing the costs of a Congress that works for party leaders, not for us.
 I'm running to change that.
 I spent decades in the military, where politics had to stay out of the room.
 I was a Republican throughout that time, but I never told anyone that and they never told me what they were.
@@ -21,33 +23,33 @@ I work for Idaho.
 You don't serve your country for 31 years just to watch it fall apart.
 Watch this short video: Why I'm Running.
 Here are my top priorities.
-- Fix Social Security before the funds run out.
+Fix Social Security before the funds run out.
 This calls for a balanced approach: raise revenue and reduce payouts for the highest earners while extending the program to more people.
-- Get the national debt under control.
+Get the national debt under control.
 Last year we paid more in interest than we spent on defense, and the consequences are landing on every family.
 Raise revenue and reduce expenditures while we grow the economy.
-- Bring down the cost of health care.
+Bring down the cost of health care.
 Premiums keep rising and too many Idahoans are one bill away from a crisis.
 Attack the waste in all cost areas—including hospital services, physician services, and prescription drugs—not just insurance.
-- Protect our public lands.
+Protect our public lands.
 Keep Idaho's public lands public.
 They belong to all of us, and I'll oppose efforts to sell them off or use them destructively.
 That's just the start.
-See more priorities
-Stand with Sarah
-Give, volunteer, or just stay in touch.
-Every dollar donated helps Sarah reach five Idaho voters.
-Contributions are not tax-deductible.
+See more priorities Stand with Sarah Give, volunteer, or just stay in touch.
+Every dollar donated helps Sarah reach five Idaho voters. $25 $50 $100 Other amount Contributions are not tax-deductible.
 U.S. citizens and permanent residents only.
-Proudly endorsed by
-- Veterans for Idaho Voters
-- Independent Veterans of America
-- Reform Party USA
--
-Idaho American Federation of Teachers—Local #3215
-How to vote
-Ballots are going out now.
+Volunteer Join the team helping Sarah reach Idaho voters.
+Sign up to volunteer Stay in touch Get campaign updates by email. ✓ You're signed up.
+Thank you for joining us.
+Sign Up Proudly endorsed by Veterans for Idaho Voters Independent Veterans of America Reform Party USA Idaho American Federation of Teachers—Local #3215 How to vote Ballots are going out now.
 Look for U.S.
 Congress, District 1, and mark Sarah Zabel, Independent.
-Check your registration, order an absentee ballot, or find your polling place at VoteIdaho.gov.
+Check your registration, order an absentee ballot, or find your polling place at VoteIdaho.gov .
 Election Day is November 3rd.
+Go to VoteIdaho.gov Sarah Zabel is a retired member of the U.S.
+Air Force.
+Use of her military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of Defense.
+Paid for by Zabel for Congress P.O.
+Box 510, Athol ID 83801 info@zabelforcongress.com Terms and Conditions × Zabel for Congress No party machine. $25 $50 $100 Other amount Contributions are not tax-deductible.
+U.S. citizens and permanent residents only.
+Paid for by Zabel for Congress.

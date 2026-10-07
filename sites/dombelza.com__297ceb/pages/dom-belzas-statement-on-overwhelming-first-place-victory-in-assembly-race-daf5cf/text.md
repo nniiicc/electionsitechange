@@ -1,4 +1,4 @@
-Tonight, I am honored and humbled by the trust voters across the North State have placed in me.
+Home About Issues Media News Volunteer Endorsements Contact Us Home About Issues Media News Volunteer Endorsements Contact Us DONATE ENDORSE DOM BELZA Dom Belza’s Statement on Overwhelming First Place Victory in Assembly Race Tonight, I am honored and humbled by the trust voters across the North State have placed in me.
 While votes are still being counted, the results so far are incredibly encouraging.
 If these numbers hold, our campaign will advance to the November runoff as the clear first-place finisher.
 In a crowded field of candidates, this is a significant result.
@@ -12,4 +12,4 @@ Tonight is not the finish line.
 We have important work ahead, and I will continue working every day to earn the support of voters throughout the district between now and November.
 Thank you for your trust, your support, and your confidence.
 I’m grateful for the opportunity to continue this campaign and earn the privilege of serving as your next Assemblyman.
-###
+### Share the Post: Facebook Instagram Youtube Privacy Policy Paid for by Belza for Assembly 2026 FPPC# 1477103 Endorse Dom Belza First Name Last Name Email Address Title Submit

@@ -1,6 +1,8 @@
-MEET BRYAN
-Senator Bryan Hughes
-Senator Bryan Hughes is serving his third term in the Texas Senate, representing one million people across 19 counties in beautiful East Texas.
+Home About Endorsements Take Action Welcome News Donate Home About Endorsements Take Action Welcome News Donate Proven Conservative Bryan Hughes Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+First Name Last Name Email Address Sign Up or sign up to join the team here!
+Thank you!
+MEET BRYAN Senator Bryan Hughes Senator Bryan Hughes is serving his third term in the Texas Senate, representing one million people across 19 counties in beautiful East Texas.
 During the 2025 legislative session, he carried Senate Bill 29 - the DEXIT bill, which modernized Texas corporate law and led to companies like Exxon, Dell, and many more choosing Texas for their state of incorporation.
 Along with the creation of the Texas Business Courts, which Senator Hughes also carried, these landmark reforms have helped create more jobs and more opportunities for Texas families.
 Dubbed “one of the most effective legislators in the country” by Governing magazine, Senator Hughes has built a proven record of delivering results for Texas.
@@ -18,3 +20,7 @@ He also serves on the Senate Committees on Health & Human Services, Natural Reso
 He was recently appointed to the Sunset Advisory Commission and the Texas Bicentennial Commission.
 In his free time, Senator Hughes enjoys serving in his church, bird hunting, hiking, and spending time with family.
 He and his wife, Leyla, live in Tyler.
+Endorsements VIEW ALL ENDORSEMENTS HERE!
+Endorse Bryan Hughes for Texas Senate!
+Take Action!
+Back To Top Donate Political advertisement paid for by the Bryan Hughes Campaign, PO Box 450, Mineola, Texas 75773

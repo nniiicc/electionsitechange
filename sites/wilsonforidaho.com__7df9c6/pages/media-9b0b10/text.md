@@ -1,4 +1,4 @@
-Pam Wilson is a retired small business owner, longtime community volunteer, and candidate for the Idaho State Senate in District 20.
+× Donate Home About Endorsements Events Get Involved Contact Media Voter Info Media & Press Bio Short Full Pam Wilson is a retired small business owner, longtime community volunteer, and candidate for the Idaho State Senate in District 20.
 She is running to invest in public education, responsible growth, health care, and Idaho's public lands, with transparency and accountability for every tax dollar.
 Pam Wilson is not a career politician.
 Raised in Twin Falls on her parents' values of honesty and hard work, she learned early that Idaho's strength is found in its families, the people who work the land, fix the trucks, and look out for their neighbors.
@@ -7,3 +7,6 @@ Balancing a budget, managing a team, and listening to decades of clients gave he
 Service has always been central to who Pam is, from fourteen years on the National Ski Patrol at Bogus Basin to caring for her aging parents.
 Now she is running for the Idaho State Senate in District 20 to invest in public education, responsible growth, health care, and public lands, with transparency and accountability for every tax dollar.
 Having knocked on more than a thousand doors, she is ready to bring her neighbors' voices to the Senate.
+Logos Full Color (PNG) Download 2400 × 1388 · 316 KB Full Color (Vector / SVG) Download Scalable SVG · 15 KB Black (PNG) Download 2400 × 1388 · 78 KB Black (Vector / SVG) Download Scalable SVG · 15 KB White / Reversed (PNG) Download 2400 × 1388 · 80 KB White / Reversed (Vector / SVG) Download Scalable SVG · 15 KB Photos Pam Wilson overlooking Boise Download 1920 × 2560 · 627 KB Pam Wilson, official headshot Download 300 × 264 · 19 KB Pam Wilson Download 1707 × 2560 · 1.2 MB Pam Wilson Door Knocking Download 1920 × 2560 · 698 KB Pam Wilson at the Idaho State Capitol Download 800 × 533 · 891 KB Pam Wilson out in the community Download 858 × 1063 · 122 KB Pam Wilson at the Idaho Statehouse Download 1806 × 2048 · 1.0 MB Pam Wilson Family Photo Download 2048 × 2560 · 816 KB Shareable Graphics Conservation Voters for Idaho Endorsement Download 1080 × 1350 · 419 KB Press Contact Melinda Bodine Stevens, Campaign Manager mbodinestevens@yahoo.com Ⓒ Pam Wilson for Idaho.
+All rights reserved.
+Paid for by Pam Wilson for Idaho PO Box: 13601 W McMillan Rd, Ste 102-241 Boise, ID 83713 Facebook-f Instagram Tiktok × Support Pam Choose how you'd like to give Location:

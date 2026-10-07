@@ -1,19 +1,70 @@
 [
-"https://corlforsenate.com/",
-"https://corlforsenate.com/about-1",
-"https://corlforsenate.com/blank",
-"https://corlforsenate.com/endorsements",
-"https://corlforsenate.com/going-the-extra-mile-tour",
-"https://corlforsenate.com/hope-for-home",
-"https://corlforsenate.com/newsroom",
-"https://corlforsenate.com/platform",
-"https://corlforsenate.com/volunteer-2",
-"https://corlforsenate.com/yard-signs",
-"https://facebook.com/profile.php?id=61584779167057",
-"https://facebook.com/reel/1069047515791854?s=fb_shorts_profile&stack_idx=0",
-"https://facebook.com/reel/2109667459612467?s=fb_shorts_profile&stack_idx=0",
-"https://facebook.com/reel/2174431143398884?s=fb_shorts_profile&stack_idx=0",
-"https://instagram.com/corlforsenate",
-"https://linkedin.com/in/james-corl",
-"https://secure.winred.com/corl-for-senate/donate"
+{
+"text": "About",
+"href": "https://www.corlforsenate.com/about-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/corl-for-senate/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.corlforsenate.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.corlforsenate.com/volunteer-2"
+},
+{
+"text": "Going The Extra Mile Tour",
+"href": "https://www.corlforsenate.com/going-the-extra-mile-tour"
+},
+{
+"text": "Home",
+"href": "https://www.corlforsenate.com"
+},
+{
+"text": "Hope For Home",
+"href": "https://www.corlforsenate.com/hope-for-home"
+},
+{
+"text": "Newsroom",
+"href": "https://www.corlforsenate.com/newsroom"
+},
+{
+"text": "Platform",
+"href": "https://www.corlforsenate.com/platform"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://www.corlforsenate.com/blank"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.corlforsenate.com/yard-signs"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61584779167057"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/corlforsenate/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/james-corl/"
+},
+{
+"text": "[image: Screenshot 2026-06-23 140059.png]",
+"href": "https://www.facebook.com/reel/2174431143398884/?s=fb_shorts_profile&stack_idx=0"
+},
+{
+"text": "[image: Screenshot 2026-06-23 142240.png]",
+"href": "https://www.facebook.com/reel/2109667459612467/?s=fb_shorts_profile&stack_idx=0"
+},
+{
+"text": "[image: Screenshot 2026-06-23 142622.png]",
+"href": "https://www.facebook.com/reel/1069047515791854/?s=fb_shorts_profile&stack_idx=0"
+}
 ]

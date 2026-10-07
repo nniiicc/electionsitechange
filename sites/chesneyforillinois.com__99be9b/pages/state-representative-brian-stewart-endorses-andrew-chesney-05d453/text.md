@@ -1,4 +1,4 @@
-Freeport—89th District State Representative Brian Stewart is announcing his endorsement of Andrew Chesney’s campaign for the 89th District seat.
+About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY STATE REPRESENTATIVE BRIAN STEWART ENDORSES ANDREW CHESNEY STATE REPRESENTATIVE BRIAN STEWART ENDORSES ANDREW CHESNEY Freeport—89th District State Representative Brian Stewart is announcing his endorsement of Andrew Chesney’s campaign for the 89th District seat.
 If elected, Chesney will succeed Stewart who is running for the State Senate.
 Stewart’s endorsement in the March 20th Primary is a significant development in the race.
 “My decision to run for the State Senate was in part based on making sure that the 89th District remained in the Republican column and that my constituents would continue to be served well in Springfield.
@@ -12,4 +12,4 @@ A native of Shannon, Illinois, Chesney is the current alderman at large in the c
 He is also the current chairman of the Stephenson County Republican Central Committee.
 He and his wife Kelly live in Freeport.
 The 89th Illinois House District is made up of parts of Carroll, Jo Daviess, Ogle, Stephenson, Whiteside, and Winnebago Counties.
-###
+### #© Paid for by Chesney for Illinois    

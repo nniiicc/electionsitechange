@@ -1,5 +1,4 @@
-Cultivating Education
-I believe we owe it to our children to provide them with a practical and quality public education that positions them for life-long success.
+0 Skip to Content About About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Open Menu Close Menu About About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Open Menu Close Menu Folder: About Back About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Cultivating Education I believe we owe it to our children to provide them with a practical and quality public education that positions them for life-long success.
 That is why I strongly support our investments in public education, because I see how it positively impacts individuals, families, and further strengthens our community.
 I’m proud to say that my family went to public schools and I understand how that knowledge and experience served to unlock doors of opportunity for all of us.
 That’s why we must safeguard and expand Alabama’s world class pre-kindergarten program, as well as ensure that every child also attends kindergarten.
@@ -13,5 +12,5 @@ As we look to cultivate education in Alabama, it means pruning away the distract
 Let’s pay teachers and retirees what they deserve.
 Let’s create the type of effective learning environments that attract the very best and brightest educators to our state!
 That’s how we can raise scores and close the educational achievement gap for Alabama students.
-“An investment in knowledge pays the best interest.”
-— Benjamin Franklin
+“An investment in knowledge pays the best interest.” — Benjamin Franklin Constituent Resources Contact Rep.
+Lands Issues Legislative News News & Media Website designed and created by Clete Wetli & Tektite.Digital

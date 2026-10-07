@@ -1,36 +1,146 @@
 [
-"http://annandale.org/",
-"http://pawsandstarsrescue.rescueme.org/",
-"http://specialkneadsandtreats.org/",
-"http://thequinnhouse.com/",
-"http://ushomelessvets.org/index.html",
-"http://villageofhopelawrenceville.org/index.html",
-"https://advancingjustice-atlanta.org/clinics",
-"https://bgcma.org/club/lawrenceville",
-"https://creativeenterprises.org/",
-"https://facebook.com/samforgeorgia",
-"https://freerefugees.org/",
-"https://guideinc.org/",
-"https://gwinnettcoalition.org/",
-"https://hihopecenter.org/",
-"https://instagram.com/repsampark",
-"https://mannafund.org/",
-"https://navigaterecoverygwinnett.org/",
-"https://positivepasstime.org/",
-"https://rainbowvillage.org/",
-"https://samforgeorgia.com/",
-"https://samforgeorgia.com/cart",
-"https://samforgeorgia.com/contact",
-"https://samforgeorgia.com/dfp",
-"https://samforgeorgia.com/home",
-"https://samforgeorgia.com/meet-sam",
-"https://samforgeorgia.com/priorities",
-"https://samforgeorgia.com/privacy-policy",
-"https://samforgeorgia.com/resources",
-"https://samforgeorgia.com/volunteer",
-"https://samforgeorgia.com/voting",
-"https://secure.actblue.com/donate/sampark24",
-"https://streetwisegeorgia.org/",
-"https://thelaa.org/",
-"https://twitter.com/samforgeorgia"
+{
+"text": "0",
+"href": "https://www.samforgeorgia.com/cart"
+},
+{
+"text": "404-890-5655",
+"href": "tel:+14048905655"
+},
+{
+"text": "Annandale Village",
+"href": "http://annandale.org/"
+},
+{
+"text": "Asian Americans Advancing Justice",
+"href": "https://www.advancingjustice-atlanta.org/clinics"
+},
+{
+"text": "Boys and Girls Club of Lawrenceville",
+"href": "https://www.bgcma.org/club/lawrenceville/"
+},
+{
+"text": "Contact",
+"href": "https://www.samforgeorgia.com/contact"
+},
+{
+"text": "Creative Enterprises",
+"href": "https://www.creativeenterprises.org/"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.actblue.com/donate/sampark24"
+},
+{
+"text": "Fellowship Program",
+"href": "https://www.samforgeorgia.com/dfp"
+},
+{
+"text": "Friends of Refugees Providing Education and Empowerment",
+"href": "https://freerefugees.org"
+},
+{
+"text": "GUIDE Inc.",
+"href": "https://guideinc.org"
+},
+{
+"text": "Gwinnett Coalition for Health & Human Services",
+"href": "https://www.gwinnettcoalition.org/"
+},
+{
+"text": "Hi-Hope Service Center",
+"href": "https://hihopecenter.org/"
+},
+{
+"text": "Latin American Association",
+"href": "https://thelaa.org"
+},
+{
+"text": "Meet Sam",
+"href": "https://www.samforgeorgia.com/meet-sam"
+},
+{
+"text": "Navigate Recovery Gwinnett",
+"href": "https://www.navigaterecoverygwinnett.org"
+},
+{
+"text": "Paws and Stars Animal Shelter",
+"href": "http://pawsandstarsrescue.rescueme.org"
+},
+{
+"text": "Positive Passtime",
+"href": "https://positivepasstime.org/"
+},
+{
+"text": "Priorities",
+"href": "https://www.samforgeorgia.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.samforgeorgia.com/privacy-policy"
+},
+{
+"text": "Rainbow Village",
+"href": "https://rainbowvillage.org"
+},
+{
+"text": "Resources",
+"href": "https://www.samforgeorgia.com/resources"
+},
+{
+"text": "Special Kneads and Treats",
+"href": "http://www.specialkneadsandtreats.org/"
+},
+{
+"text": "StreetWise Georgia",
+"href": "https://www.streetwisegeorgia.org/"
+},
+{
+"text": "The Manna Fund",
+"href": "https://www.mannafund.org"
+},
+{
+"text": "The Quinn House",
+"href": "http://www.thequinnhouse.com"
+},
+{
+"text": "U.S Military Homeless Veterans Association Group",
+"href": "http://www.ushomelessvets.org/index.html"
+},
+{
+"text": "Village of Hope Lawrenceville",
+"href": "http://villageofhopelawrenceville.org/index.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.samforgeorgia.com/volunteer"
+},
+{
+"text": "Voting",
+"href": "https://www.samforgeorgia.com/voting"
+},
+{
+"text": "[image: Sam Park for Georgia]",
+"href": "https://www.samforgeorgia.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.samforgeorgia.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/samforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/samforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/repsampark/"
+},
+{
+"text": "contact",
+"href": "mailto:sam@samforgeorgia.com"
+}
 ]

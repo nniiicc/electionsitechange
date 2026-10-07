@@ -1,10 +1,34 @@
 [
-"https://electphiloehlerking.com/",
-"https://electphiloehlerking.com/get-involved",
-"https://electphiloehlerking.com/platform",
-"https://electphiloehlerking.com/privacy-policy",
-"https://facebook.com/profile.php?id=100076136233151",
-"https://photos.app.goo.gl/LNFJEKVgxubTG8TH7",
-"https://secure.winred.com/elect-philip-oehlerking/donate-today",
-"https://twitter.com/missouri4philip"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/elect-philip-oehlerking/donate-today"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.electphiloehlerking.com/get-involved"
+},
+{
+"text": "MEET PHILIP",
+"href": "https://www.electphiloehlerking.com"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.electphiloehlerking.com/platform"
+},
+{
+"text": "Paid for by Committee to Elect Philip Oehlerking, Charles S. Barker - Treasurer",
+"href": "https://photos.app.goo.gl/LNFJEKVgxubTG8TH7"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electphiloehlerking.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100076136233151"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/missouri4philip"
+}
 ]

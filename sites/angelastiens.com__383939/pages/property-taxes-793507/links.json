@@ -1,5 +1,22 @@
 [
-"https://angelastiens.com/",
-"https://angelastiens.com/voting",
-"https://secure.anedot.com/angela-stiens-for-kansas-house/donate?exitIntent=true"
+{
+"text": "About Angela",
+"href": "https://angelastiens.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/angela-stiens-for-kansas-house/donate?exitIntent=true"
+},
+{
+"text": "Issues",
+"href": "https://angelastiens.com/#issues"
+},
+{
+"text": "Voting",
+"href": "https://angelastiens.com/voting/"
+},
+{
+"text": "[image: Angela Stiens - State Representative]",
+"href": "https://angelastiens.com/"
+}
 ]

@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.arthodgesforsenate.com/events/0qc3x2ysfyzbu5j58b5nm4ck75cvt1",
- "paid_for_by": "Paid for by Art Hodges for Senate 2026 FPPC ID: 1482587 Copyright \u00a9 2026",
- "title": "%i \u2014 ArtHodgesForSenate",
+ "fingerprint": "2306b7e3cd95ae45476e5fdb4f3e31b7b284704e",
+ "format": 3,
+ "paid_for_by": "Paid for by Art Hodges for Senate 2026 FPPC ID: 1482587 Copyright © #",
+ "title": "%i — ArtHodgesForSenate",
  "years_mentioned": [
-  "2025"
+  "2025",
+  "2026"
  ]
 }

@@ -1,27 +1,30 @@
-The Latest
-From the Campaign Trail
-- Texas Signal
-Nathan Johnson is the latest candidate to unveil a political ad in the closing weeks of an election cycle going down to the wire in Texas With less than a month until Election Day, candidates across Texas are taking their...
-- WFAA
-DALLAS — Nathan Johnson, the Democratic nominee for Texas Attorney General, is going on TV today with a major ad buy, two weeks before early voting begins.
+Skip to content Facebook X-twitter Instagram Menu Contribute The Latest From the Campaign Trail Austin American-Statesman Johnson would return the attorney general’s office to its mission October 6, 2026 Given the fiercely partisan nature of Attorney General Ken Paxton’s 12-year tenure — challenging the 2020 presidential election results, suing a COVID vaccine manufacturer, antagonizing Muslims and investigating whether schools are “teaching woke critical race theory” — Texans could be...
+Read More Texas Signal Candidates Make Final Moves Across Texas October 5, 2026 Nathan Johnson is the latest candidate to unveil a political ad in the closing weeks of an election cycle going down to the wire in Texas With less than a month until Election Day, candidates across Texas are taking their...
+Read More WFAA Democrat Nathan Johnson unleashes seven-figure ad blitz in close race for Texas Attorney General October 5, 2026 DALLAS — Nathan Johnson, the Democratic nominee for Texas Attorney General, is going on TV today with a major ad buy, two weeks before early voting begins.
 “Twelve years of Ken Paxton turned the Attorney General’s office into a political...
-- San Antonio Current
-State Sen.
+Read More San Antonio Current Democratic Texas AG candidate Nathan Johnson makes seven-figure ad buy October 5, 2026 State Sen.
 Nathan Johnson, D-Dallas, on Monday launched the first general election ad of his campaign for Texas attorney general, a seven-figure media buy that will run statewide through Election Day.
 The 30-second spot skewers his opponent, state Sen.
 Mayes...
-The Democratic candidate for Texas Attorney General launched a seven-figure television ad buy on Monday amid signs of the party’s momentum in the red Lone Star State.
+Read More The Hill Democrat drops 7-figure ad buy in Texas attorney general race October 5, 2026 The Democratic candidate for Texas Attorney General launched a seven-figure television ad buy on Monday amid signs of the party’s momentum in the red Lone Star State.
 Nathan Johnson, a Democratic state senator, argues in the ad that “Texas could...
-- More Perfect Union
-The U.S. was supposed to spend $40 billion to build internet in rural America, then Elon Musk got a huge chunk of that money redirected to Starlink.
+Read More More Perfect Union We Investigated Starlink.
+The Corruption We Found Will Shock You.
+October 2, 2026 The U.S. was supposed to spend $40 billion to build internet in rural America, then Elon Musk got a huge chunk of that money redirected to Starlink.
 He made hundreds of millions, while countless people still don’t have good internet....
-- Press Release
-Democratic AG nominee says the Deloitte failure indicates the pitfalls of outsourcing core government services to private contractors DALLAS, Texas — State Senator Nathan Johnson, the Democratic nominee for Texas Attorney General, said today the failure by a private vendor...
-Nathan Johnson, a Texas state senator and the Democratic candidate for attorney general, announced that, if elected, he plans to investigate Deloitte and other state vendor contracts in the wake of a software error that resulted in a failure to...
-Tom Phillips, a former Republican chief justice on the Texas Supreme Court, said Paxton’s politicization of the office was a factor in his decision to endorse the Democratic candidate, state Sen.
+Read More Press Release Nathan Johnson Announces Intention to Review Texas State Vendor Contracts After 178,000 Voter Registrations Go Missing October 2, 2026 Democratic AG nominee says the Deloitte failure indicates the pitfalls of outsourcing core government services to private contractors DALLAS, Texas — State Senator Nathan Johnson, the Democratic nominee for Texas Attorney General, said today the failure by a private vendor...
+Read More CNBC Democratic Texas AG candidate vows to probe Deloitte’s role in voter registration delay October 2, 2026 Nathan Johnson, a Texas state senator and the Democratic candidate for attorney general, announced that, if elected, he plans to investigate Deloitte and other state vendor contracts in the wake of a software error that resulted in a failure to...
+Read More AP Paxton has been an ‘activist’ attorney general October 1, 2026 Tom Phillips, a former Republican chief justice on the Texas Supreme Court, said Paxton’s politicization of the office was a factor in his decision to endorse the Democratic candidate, state Sen.
 Nathan Johnson, in the race to succeed him as...
-- Dallas Observer
-Democratic attorney general candidate Nathan Johnson said his opponent is trying to steer the narrative with “dishonest campaign advertising” rather than speaking to voters directly.
+Read More Dallas Observer Ken Paxton, GOP candidates are avoiding ‘risky’ debates with their Democratic opponents September 30, 2026 Democratic attorney general candidate Nathan Johnson said his opponent is trying to steer the narrative with “dishonest campaign advertising” rather than speaking to voters directly.
 “The Attorney General represents 31 million Texans, not one party and not one movement,” Johnson...
-- Aaron Parnas
-Aaron Parnas reports on breaking news of Texas Republican exposed as democrats set to flip the state blue, including an exclusive interview with state senator Nathan Johnson to discuss his upcoming race for Texas AG, what he would do differently...
+Read More Let's Meet This Moment Together First Name Last Name Email Zip Code Cell Phone Join The Team By submitting your cell phone number you are agreeing to receive periodic text messages from this organization.
+Message and data rates may apply.
+Text HELP for more information.
+Text STOP to stop receiving messages.
+Contribute Volunteer Meet Nathan Priorities Recent News Volunteer Contact Us Store Meet Nathan Priorities Recent News Volunteer Contact Us Store Meet Nathan Priorities Recent News Volunteer Contact Us Store Meet Nathan Priorities Recent News Volunteer Contact Us Store Get your yard sign today!
+Shop for yard signs, shirts, stickers, and more on our online store!
+Shop Now Senator Nathan Johnson is running for Attorney General because Texans deserve a legal leader who gets things done.
+Over four sessions in the State Senate, he’s passed 134 bills into law — defending constitutional principles and holding government accountable.
+Support his campaign by making a donation .
+Reach out to his campaign by emailing [email protected] Nathan Johnson Campaign PO Box 5325 • Austin, TX 78763 Paid for by the Nathan Johnson campaign Meet Nathan Priorities Recent News Volunteer Contact Us Store Meet Nathan Priorities Recent News Volunteer Contact Us Store Contribute Volunteer Close Menu

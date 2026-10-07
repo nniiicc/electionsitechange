@@ -1,29 +1,150 @@
 [
-"https://facebook.com/karlbohnak",
-"https://instagram.com/votebohnak",
-"https://secure.winred.com/karl-bohnak-4-state-rep/donate-today",
-"https://twitter.com/votebohnak",
-"https://votebohnak.com/",
-"https://votebohnak.com/about-karl",
-"https://votebohnak.com/about-us",
-"https://votebohnak.com/author/votebohnakadmin",
-"https://votebohnak.com/bohnak-announces-campaign",
-"https://votebohnak.com/bohnak-hosts-the-up200-fundraiser",
-"https://votebohnak.com/bohnak-opens-campaign-hq",
-"https://votebohnak.com/category/uncategorized",
-"https://votebohnak.com/contact-us",
-"https://votebohnak.com/issues",
-"https://votebohnak.com/join-the-team",
-"https://votebohnak.com/karl-bohnak-hosts-terri-lynn-land-and-pete-hoekstra-for-meet-and-greet",
-"https://votebohnak.com/karls-record",
-"https://votebohnak.com/wp-content/uploads/2022/06/aonang-bangkok-tour.jpg",
-"https://votebohnak.com/wp-content/uploads/2022/06/asia-tour.jpg",
-"https://votebohnak.com/wp-content/uploads/2022/06/dubai-tour.jpg",
-"https://votebohnak.com/wp-content/uploads/2022/06/maldives-tour.jpg",
-"https://votebohnak.com/wp-content/uploads/2022/06/swiss-tour.jpg",
-"https://votebohnak.com/wp-content/uploads/2022/11/europe-travel-.jpg",
-"https://votebohnak.com/wp-content/uploads/2023/12/BohnakNewsPic-R1.png",
-"https://votebohnak.com/wp-content/uploads/2024/03/BohnakLogo-R1.jpg",
-"https://votebohnak.com/wp-content/uploads/2024/04/image2-3-scaled.jpeg",
-"https://votebohnak.com/wp-content/uploads/2024/06/image1-4-scaled.jpeg"
+{
+"text": "About Karl",
+"href": "https://votebohnak.com/about-karl/"
+},
+{
+"text": "Bohnak Announces Campaign for State Representative",
+"href": "https://votebohnak.com/bohnak-announces-campaign/"
+},
+{
+"text": "Bohnak Hosts the UP200 Fundraiser",
+"href": "https://votebohnak.com/bohnak-hosts-the-up200-fundraiser/"
+},
+{
+"text": "Bohnak Opens Campaign Headquarters in Marquette",
+"href": "https://votebohnak.com/bohnak-opens-campaign-hq/"
+},
+{
+"text": "Contact Us",
+"href": "https://votebohnak.com/contact-us/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/karl-bohnak-4-state-rep/donate-today"
+},
+{
+"text": "Gallery",
+"href": "https://votebohnak.com/wp-content/uploads/2023/12/BohnakNewsPic-R1.png"
+},
+{
+"text": "Gallery",
+"href": "https://votebohnak.com/wp-content/uploads/2024/03/BohnakLogo-R1.jpg"
+},
+{
+"text": "Gallery",
+"href": "https://votebohnak.com/wp-content/uploads/2024/04/image2-3-scaled.jpeg"
+},
+{
+"text": "Gallery",
+"href": "https://votebohnak.com/wp-content/uploads/2024/06/image1-4-scaled.jpeg"
+},
+{
+"text": "Home",
+"href": "https://votebohnak.com/"
+},
+{
+"text": "Issues",
+"href": "https://votebohnak.com/issues/"
+},
+{
+"text": "Join The Team",
+"href": "https://votebohnak.com/join-the-team/"
+},
+{
+"text": "KARL’S RECORD",
+"href": "https://votebohnak.com/karls-record/"
+},
+{
+"text": "Karl Bohnak hosts Terri Lynn Land and Pete Hoekstra for Meet and Greet",
+"href": "https://votebohnak.com/karl-bohnak-hosts-terri-lynn-land-and-pete-hoekstra-for-meet-and-greet/"
+},
+{
+"text": "Read More",
+"href": "https://votebohnak.com/bohnak-announces-campaign/"
+},
+{
+"text": "Read More",
+"href": "https://votebohnak.com/bohnak-hosts-the-up200-fundraiser/"
+},
+{
+"text": "Read More",
+"href": "https://votebohnak.com/bohnak-opens-campaign-hq/"
+},
+{
+"text": "Read More",
+"href": "https://votebohnak.com/karl-bohnak-hosts-terri-lynn-land-and-pete-hoekstra-for-meet-and-greet/"
+},
+{
+"text": "Team@VoteBohnak.com",
+"href": "mailto:Team@VoteBohnak.com"
+},
+{
+"text": "Uncategorized",
+"href": "https://votebohnak.com/category/uncategorized/"
+},
+{
+"text": "[image]",
+"href": "https://votebohnak.com/"
+},
+{
+"text": "[image]",
+"href": "https://votebohnak.com/wp-content/uploads/2022/06/aonang-bangkok-tour.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votebohnak.com/wp-content/uploads/2022/06/asia-tour.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votebohnak.com/wp-content/uploads/2022/06/dubai-tour.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votebohnak.com/wp-content/uploads/2022/06/maldives-tour.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votebohnak.com/wp-content/uploads/2022/06/swiss-tour.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votebohnak.com/wp-content/uploads/2022/11/europe-travel-.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://votebohnak.com/bohnak-announces-campaign/"
+},
+{
+"text": "[no text]",
+"href": "https://votebohnak.com/bohnak-hosts-the-up200-fundraiser/"
+},
+{
+"text": "[no text]",
+"href": "https://votebohnak.com/bohnak-opens-campaign-hq/"
+},
+{
+"text": "[no text]",
+"href": "https://votebohnak.com/karl-bohnak-hosts-terri-lynn-land-and-pete-hoekstra-for-meet-and-greet/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/karlbohnak"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/votebohnak"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://www.twitter.com/votebohnak"
+},
+{
+"text": "read more",
+"href": "https://votebohnak.com/about-us/"
+},
+{
+"text": "votebohnakadmin",
+"href": "https://votebohnak.com/author/votebohnakadmin/"
+}
 ]

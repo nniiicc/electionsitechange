@@ -1,16 +1,2 @@
-Skip to content
-State Representative Dave Severin
-Paid for by Friends of Dave Severin
-Menu
-Meet Dave
-Photos
-News
-Volunteer
-Facebook
-Donate
-Jefferson County Sheriff Jeff Bullard Endorses Dave Severin
-Post navigation
-Previous
-Previous post:
-Severin Endorsed by Several Jefferson County and Mt.
-Vernon Officials
+Skip to content State Representative Dave Severin Paid for by Friends of Dave Severin Menu Meet Dave Photos News Volunteer Facebook Donate Jefferson County Sheriff Jeff Bullard Endorses Dave Severin Author Matt Eddy Posted on March 10, 2024 Post navigation Previous Previous post: Severin Endorsed by Several Jefferson County and Mt.
+Vernon Officials Meet Dave Photos News Volunteer Facebook Donate State Representative Dave Severin Proudly powered by WordPress

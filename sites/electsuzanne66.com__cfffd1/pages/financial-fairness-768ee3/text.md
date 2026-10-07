@@ -1,4 +1,6 @@
-Why are our towns not receiving their fair share of support from the state?
+Sign Up for Office Hours Home About What I Stand For Contact What’s Cooking?
+Announcements & Upcoming Events Home About What I Stand For Contact What’s Cooking?
+Announcements & Upcoming Events Financial Fairness Why are our towns not receiving their fair share of support from the state?
 It’s a question that deserves clear answers.
 Our communities depend on state resources—grants, program support, and other funding streams—to maintain strong schools, infrastructure, and local services.
 Yet too often, it feels as though our towns are being left behind.
@@ -12,3 +14,6 @@ If we don’t get our fair share from the State, we end up paying for it with ou
 Until we clearly understand the scope of the problem, we cannot effectively solve it.
 Our towns deserve clarity, fairness, and a strong voice in Hartford—and that begins with asking the right questions and demanding accurate data needed to move forward.
 Suzanne will ask the hard questions and seek answers to bring dollars into our district.
+I Want To Hear From You ← Back I Want to Hear From You Thank you for reaching out.
+You'll hear from us soon.
+Sincerely, Suzanne and the Campaign Team Name (required) Email (required) Phone number ​ ​ Message SUBMIT Paid for by ElectSuzanne66, John Piacenza Treasurer Sign Up for Office Hours

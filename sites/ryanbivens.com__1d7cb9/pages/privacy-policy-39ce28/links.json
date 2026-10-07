@@ -1,8 +1,34 @@
 [
-"https://facebook.com/profile.php?id=61555409187327",
-"https://ryanbivens.com/",
-"https://ryanbivens.com/privacy-policy",
-"https://ryanbivens.com/terms-of-service",
-"https://ryvall.com/",
-"https://secure.winred.com/bivens-for-state-rep/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/bivens-for-state-rep/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Home",
+"href": "https://www.ryanbivens.com/"
+},
+{
+"text": "Powered by Ryvall",
+"href": "https://ryvall.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ryanbivens.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.ryanbivens.com/terms-of-service"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61555409187327"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/bivens-for-state-rep/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "[no text]",
+"href": "https://www.ryanbivens.com/privacy-policy"
+}
 ]

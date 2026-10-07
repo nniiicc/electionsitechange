@@ -1,14 +1,3 @@
-Mike Scala in His Own Words
-- 05.14 2026 Op-Ed: The Return of Democracy
-- 04.23 2026 Op-Ed: When Politics Becomes Politricks
-News & Media Coverage
-- July 22, 2022
-- May 19, 2022
-- June 18, 2021
-- June 18, 2021
-- June 17, 2021
-- June 10, 2021
-- June 10, 2021
-- June 4, 2021
-- May 27, 2021
-- May 6, 2021
+Facebook Instagram Twitter Queens, NY Home Meet Mike Issues Press Room Contribute Skip to content Press Room Mike Scala in His Own Words 05.14 2026 Op-Ed: The Return of Democracy 04.23 2026 Op-Ed: When Politics Becomes Politricks 03.26 2026 Close the Loophole That Shortchanges Our Workers Next Page News & Media Coverage July 22, 2022 Scala’s Rap June 3, 2022 Judge Dismisses Case From Dayton Beach Park Board of Directors May 19, 2022 Rockaway to NYC Parks—‘Do Better’ June 18, 2021 Ranked Choice Voting June 18, 2021 Editorial: The Wave Endorses… June 17, 2021 Primary Day – June 22 June 10, 2021 It’s My Turn June 10, 2021 Seven compete for District 32 June 7, 2021 Five Democrats Look to Flip Queens’ Last GOP Seat Blue June 4, 2021 District 32 Democratic Debate Recap May 27, 2021 D32 race hinges on expanding electorate May 27, 2021 Editorial: City Council Candidate Says Commuters Need Help May 10, 2021 Uniformed Fire Officers Association Endorses Mike Scala for City Council May 7, 2021 And Then There Was One: G.O.P.
+Defends Its Last Seat in Queens May 6, 2021 Leadership Counts Previous Page 1 2 3 4 5 6 … 17 Next Page Search for: New York State Assembly District 23 includes all or parts of Arverne, Bayswater, Belle Harbor, Breezy Point, Broad Channel, Edgemere, Far Rockaway, Hamilton Beach, Howard Beach, Lindenwood, Ozone Park, Neponsit, Rockaway Beach, Rockaway Park and Roxbury in Queens.
+Paid for by Scala for New York

@@ -1,5 +1,5 @@
-Paying for Gold, Getting Dirt?
-The “three-acre rule” is a single paragraph added in the Clean Water Act, 10 VSA 1264(c)(7).
+0 Skip to Content Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact Paying for Gold, Getting Dirt?
+Mar 10 Written By North for VT House The “three-acre rule” is a single paragraph added in the Clean Water Act, 10 VSA 1264(c)(7).
 It requires existing property owners with a total of 3 or more impervious acres on their property permitted before 2002 to get a new storm water permit to remediate the runoff from their property at their own expense and usually on their own property.
 Based on testimony taken in the House Environment Committee, the 677 affected sites which include residential developments, commercial properties, schools, and four of our popular fairgrounds only represent about 3% of all properties in Vermont.
 Moreover, this 3-acre mechanism accounts for only 0.8% of the total Phosphorus reduction into Lake Champlain.
@@ -20,10 +20,16 @@ Contact your Representatives, Senators, and the Chairs of the respective Committ
 Longer term, be prepared to promote even more republicans in the House and Senate.
 With a majority in one or the other we could begin to accomplish much more to bring affordability to Vermont.
 If you have any questions on how to do this, let me know.
-The link to all House bills is HERE and Senate bills are HERE.
+The link to all House bills is HERE and Senate bills are HERE .
 Heading into town meeting break the Legislature had passed, and the Governor signed, just two bills into law: Bill H.78 became Act 1 that defines the use of the Australian ballot system in local elections; and Bill H.35 became Act 2 which unmerged the individual and small group health insurance markets.
 This is a win for Vermont’s small businesses, correcting a misguided aspect of the Vermont HealthBenefit Exchange.
 With Town Meetings behind us, I expect the activity on bills to significantly increase.
-I remain honored to be your Representative,
-Rob North
-Addison, Ferrisburgh, New Haven, Panton, Vergennes, and Waltham.
+I remain honored to be your Representative, Rob North www.NorthForVTHouse.com Addison, Ferrisburgh, New Haven, Panton, Vergennes, and Waltham.
+North for VT House Previous Previous Is There a 3-Acre Alternative?
+Next Next Gov.
+Scott Press Release on Education Rob North for a Change Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Paid for by North for State Representative Committee, Warren VanWyck, Treas.
+3502 Middlebrook Rd, Ferrisburgh, VT 05456 info@NorthForVTHouse.com

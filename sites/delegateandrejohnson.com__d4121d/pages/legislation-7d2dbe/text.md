@@ -1,4 +1,3 @@
-LEGISLATION
-Check out the tab below to learn more about Delegate Johnson’s legislation and the work he’s doing to make a difference in our community.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+HOME ABOUT ANDRE OUR CAMPAIGN PRIORITIES GET INVOLVED DONATE EVENTS PHOTO GALLERY LEGISLATION HOME ABOUT ANDRE OUR CAMPAIGN PRIORITIES GET INVOLVED DONATE EVENTS PHOTO GALLERY LEGISLATION More HOME ABOUT ANDRE OUR CAMPAIGN PRIORITIES GET INVOLVED DONATE EVENTS PHOTO GALLERY LEGISLATION HOME ABOUT ANDRE OUR CAMPAIGN PRIORITIES GET INVOLVED DONATE EVENTS PHOTO GALLERY LEGISLATION LEGISLATION Check out the tab below to learn more about Delegate Johnson’s legislation and the work he’s doing to make a difference in our community.
+Find out more FRIENDS TO ELECT ANDRE V JOHNSON PO 1155 EDGEWOOD MARYLAND 21040 Copyright © # DELEGATE ANDRE JOHNSON - All Rights Reserved.
+FRIENDS TO ELECT ANDRE V JOHNSON, SHAWNNA JOHNSON TREASURER Powered by

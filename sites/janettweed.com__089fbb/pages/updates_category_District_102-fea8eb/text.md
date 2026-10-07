@@ -1,6 +1,4 @@
-A gigantic perk…
-A gigantic perk of living in NYS's 102nd district is our access to year-round farmer's markets
-District 102
-Heather Phelps-Lipton
-District 102
-Heather Phelps-Lipton
+0 Skip to Content Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved District 102 Heather Phelps-Lipton 5/12/26 District 102 Heather Phelps-Lipton 5/12/26 A gigantic perk… A gigantic perk of living in NYS's 102nd district is our access to year-round farmer's markets Read More Meet Janet / Priorities / Events / News / Get Involved ‍ ‍ Donate Healthy People, Stronger Communities Janet Tweed for NYS Assembly 102 Our Privacy Policy.
+We do not share mobile contact information with third parties or affiliates for marketing or promotional purposes.
+Information may be shared with subcontractors in support services, such as customer service.
+All other categories exclude text messaging originator opt-in data and consent; this information will be not shared with any third parties. info@janettweed.com Paid for by Friends of Janet Tweed

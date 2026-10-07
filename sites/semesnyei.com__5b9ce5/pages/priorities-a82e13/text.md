@@ -1,7 +1,5 @@
-Amesbury – Andover – Haverhill – Merrimac – North Andover – Tewksbury – Wilmington
-Transparency -- Cost of Living -- Increased State Tax Dollars Back to the Town Level
-Dear Voters of the Second Essex and Middlesex District as well as Potential Supporters:
-Massachusetts is at a clear crossroads.
+contribute today to help bring transparency and accountability to Massachusetts!
+Home About Ted Priorities Sign Up/Contact Donate Events News More Home About Ted Priorities Sign Up/Contact Donate Events News Home About Ted Priorities Sign Up/Contact Donate Events News I would Love to work with YOU and FOR YOU A Fighter who will Restore Strong and Commonsense Leadership to the District Amesbury – Andover – Haverhill – Merrimac – North Andover – Tewksbury – Wilmington Transparency -- Cost of Living -- Increased State Tax Dollars Back to the Town Level Dear Voters of the Second Essex and Middlesex District as well as Potential Supporters: Massachusetts is at a clear crossroads.
 Local citizens are begging for action, with the winds of change in the air nationally.
 Running as a political candidate, you inevitably either become an establishment politician who ultimately defends business as usual or you are a candidate that actually challenges the status quo, not only from the other party but importantly your own party as well.
 Political campaigns and races importantly are about figuring out if a candidate is strong enough to stick with his or her principles when the pressure inevitably intensifies to conform to the desires and thoughts of the traditional political power players.
@@ -38,5 +36,4 @@ We look forward to building momentum with YOU!
 I am proudly running for the Second Essex and Middlesex Senate seat as a Republican for the November 2026 election cycle to help bring more transparency and commonsense leadership to our state’s political system and I welcome working with other candidates who feel the same way.
 The time is now.
 Let’s do this.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Semesnyei for MA Senate Paid for by the Committee to Elect Ted Semesnyei

@@ -1,9 +1,42 @@
 [
-"https://vanoortforvermont.com/",
-"https://vanoortforvermont.com/2026/08/21/vpirg-endorsement",
-"https://vanoortforvermont.com/2026/09/03/borscht-recipe",
-"https://vanoortforvermont.com/about",
-"https://vanoortforvermont.com/events",
-"https://vanoortforvermont.com/get-involved",
-"https://vanoortforvermont.com/updates"
+{
+"text": "About",
+"href": "https://vanoortforvermont.com/about/"
+},
+{
+"text": "Borscht recipe",
+"href": "https://vanoortforvermont.com/2026/09/03/borscht-recipe/"
+},
+{
+"text": "Events",
+"href": "https://vanoortforvermont.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://vanoortforvermont.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "Updates",
+"href": "https://vanoortforvermont.com/updates/"
+},
+{
+"text": "VPIRG endorsement",
+"href": "https://vanoortforvermont.com/2026/08/21/vpirg-endorsement/"
+},
+{
+"text": "[image: An endorsement badge from VPIRG Votes that says \"Jessica Van Oort for VT House\"]",
+"href": "https://vanoortforvermont.com/2026/08/21/vpirg-endorsement/"
+},
+{
+"text": "[image: Dandelion logo]",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "[image: Hands holding a red soup pot]",
+"href": "https://vanoortforvermont.com/2026/09/03/borscht-recipe/"
+}
 ]

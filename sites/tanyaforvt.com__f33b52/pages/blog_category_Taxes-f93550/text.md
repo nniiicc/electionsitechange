@@ -1,10 +1,6 @@
-News and Updates
-Categories
-2025 Mid-Session Update
-As we pass "crossover", the mid-point of the session, I wanted to share an update on the Senate's work, the bills discussed in the two committees I sit on, an upcoming event, my legislative priorities, and a list of bills that I have I sponsored so far.
+0 Skip to Content Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now News and Updates Categories Democracy Education Housing Lawsuit Safety Session Preview Taxes Town Meeting Day Report Uncategorized Education , Housing , Taxes , Town Meeting Day Report 3/15/25 Education , Housing , Taxes , Town Meeting Day Report 3/15/25 2025 Mid-Session Update As we pass "crossover", the mid-point of the session, I wanted to share an update on the Senate's work, the bills discussed in the two committees I sit on, an upcoming event, my legislative priorities, and a list of bills that I have I sponsored so far.
 The report is available as both a PDF and in plain text ODF format.
-A Look at the 2024 Yield Bill
-I’ve heard considerable fear and misinformation being shared about the “yield” bill that sets the sources of education funding, so I wanted to take the time to explain the bill, the veto override, the Governor’s plan, and what we’re doing going forward.
+2025 Mid Session Report Download 2025 Mid Session Report Plain Text Download Read More Education , Taxes 6/27/24 Education , Taxes 6/27/24 A Look at the 2024 Yield Bill I’ve heard considerable fear and misinformation being shared about the “yield” bill that sets the sources of education funding, so I wanted to take the time to explain the bill, the veto override, the Governor’s plan, and what we’re doing going forward.
 Each year, school districts prepare budgets that they present to their community, the community votes on those budgets, and then the total amount of all the budgets that have been passed across the state is sent to the Legislature.
 The House and Senate don’t determine how much it will cost to run all the schools in the state – all the communities that voted on their budgets do that – but they are required to create and pass a bill that figures out where that money to fund those schools will come from.
 That bill is referred to as a “yield” bill.
@@ -17,7 +13,7 @@ Senator Gulick and I were proposing amendments to cut costs in the budget litera
 While any tax increase is too much given how many people are struggling, I want to make sure to explain that the 13.8% increase is the average across the state, not what each community will face.
 The total property tax each homeowner will pay is determined by a combination of town calculations including the Common Level of Appraisal (CLA), state formulas, and income sensitivity adjustments and can't be determined by the yield bill alone.
 If the Legislature had not voted to override the Governor’s veto and let the next fiscal year start without a yield bill, several problems would have come up.
-The non-partisan Joint Fiscal Office did the research (read their report) and informed us that 1.
+The non-partisan Joint Fiscal Office did the research ( read their report ) and informed us that 1.
 We would have created an $82 million education fund deficit, 2.
 The non-homestead tax rate would have gone through the roof to an estimated 30%, and 3.
 Even if we had allowed those two catastrophic issues to come to pass, the property tax rate would have only gone down slightly.
@@ -35,10 +31,5 @@ While I am usually skeptical of bills that use studies to delay needed action, i
 I’m hopeful we can make lasting, meaningful change.
 It’s long past due.
 I am happy to discuss these facts and data with anyone who would like to and hope this helps community members understand more about education taxes for the 2025 fiscal year.
-If you're in the Chittenden Central district and would like to you look at the school budget that passed this year in your community, here are links to the reports:
-- Burlington School District
-- Winooski School District
-- Essex Westford School District
-- Colchester School District
-As always please reach out if you would like to discuss anything here or anything from the legislative session.
-My legislative email address is tvyhovsky@leg.state.vt.us
+If you're in the Chittenden Central district and would like to you look at the school budget that passed this year in your community, here are links to the reports: - Burlington School District - Winooski School District - Essex Westford School District - Colchester School District As always please reach out if you would like to discuss anything here or anything from the legislative session.
+My legislative email address is tvyhovsky@leg.state.vt.us Read More Tanya Vyhovsky for Chittenden Central Senate PO Box 8376 Essex VT 05451 Paid for by Tanya V for VT

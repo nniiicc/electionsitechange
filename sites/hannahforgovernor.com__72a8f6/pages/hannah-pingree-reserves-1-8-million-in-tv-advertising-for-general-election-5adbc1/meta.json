@@ -1,7 +1,11 @@
 {
- "description": "MAINE \u2014 Hannah Pingree, Democratic nominee for Governor, announced her campaign has reserved more than $1.8 million to secure eight weeks of broadcast",
+ "description": "MAINE — Hannah Pingree, Democratic nominee for Governor, announced her campaign has reserved more than $1.8 million to secure eight weeks of broadcast",
  "final_url": "https://hannahforgovernor.com/hannah-pingree-reserves-1-8-million-in-tv-advertising-for-general-election/",
- "paid_for_by": null,
+ "fingerprint": "adb50aa9d89a4094a3bc63d702ae56b0415e2305",
+ "format": 3,
+ "paid_for_by": "authorized by Hannah Pingree for Governor All Rights Reserved",
  "title": "Hannah Pingree Reserves $1.8 million in TV Advertising for General Election - Hannah Pingree for Governor",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

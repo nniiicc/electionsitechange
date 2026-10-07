@@ -1,3 +1,4 @@
-Rep.
+Skip to content Click here to sign my petition to get on the Ballot Truth Rumble GETTR Gab Telegram Facebook X Home About Issues Endorsements News Contact Donate Donate Click here to sign my petition to get on the Ballot Donate Donate Home About Issues Endorsements News Contact Truth Rumble GETTR Gab Telegram Facebook X Mark Finchem Interview on American Agenda (11/3/2022) November 4, 2022 Rep.
 Mark Finchem, Republican nominee for Arizona Secretary of State, speaks to Newsmax about consolidating support for Republicans in Arizona, security issues with ballot drop boxes, and steps he would take in restoring confidence in elections.
-Watch now:
+Watch now: Paid for and Authorized by Mark Finchem for AZ Senate This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Site by Go Right Strategies

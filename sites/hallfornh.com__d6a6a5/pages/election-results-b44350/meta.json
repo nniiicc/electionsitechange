@@ -1,9 +1,14 @@
 {
  "description": "ELECTION RESULTS",
  "final_url": "https://www.hallfornh.com/election-results",
- "paid_for_by": null,
+ "fingerprint": "de28bf515788e81b3846f678d17fb1f3bd42d4a8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Muriel Hall for NH - Election Results",
  "years_mentioned": [
+  "1963",
+  "1974",
+  "1980",
   "2021",
   "2022",
   "2024",

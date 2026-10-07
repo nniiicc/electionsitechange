@@ -1,9 +1,6 @@
-Nancy Lacore for Congress: Leadership for SC-01
-Nancy is the Democratic candidate for South Carolina’s 1st District.
-Chip in to support our campaign!
-Nancy Lacore is running for Congress in SC-01.
-Chip in to support our campaign!
-“I’ve served my whole life — and I’m not done yet.”
-— Nancy Lacore
-Nancy Lacore served our nation for 35 years in the Navy, a career that began as a helicopter pilot and culminated as a three star admiral and the Chief of Navy Reserve where she was entrusted to lead more than 60,000 sailors.
+0 Skip to Content Home About Nancy Priorities Endorsements Media Voting Resources Get Involved Host an Event Volunteer Contact Donate Open Menu Close Menu Home About Nancy Priorities Endorsements Media Voting Resources Get Involved Host an Event Volunteer Contact Donate Open Menu Close Menu Home About Nancy Priorities Endorsements Media Voting Resources Folder: Get Involved Back Host an Event Volunteer Contact Donate Nancy Lacore for Congress: Leadership for SC-01 Nancy is the Democratic candidate for South Carolina’s 1st District.
+Chip in to support our campaign! $10 $50 $250 $25 $100 Other Nancy Lacore is running for Congress in SC-01.
+Chip in to support our campaign! $10 $50 $250 $25 $100 Other “I’ve served my whole life — and I’m not done yet.” — Nancy Lacore Nancy Lacore served our nation for 35 years in the Navy, a career that began as a helicopter pilot and culminated as a three star admiral and the Chief of Navy Reserve where she was entrusted to lead more than 60,000 sailors.
 Now, Nancy is running for Congress to put her experience, her values, and her voice to work for South Carolina's 1st District.
+Learn more Join Nancy’s campaign today Support Nancy today! $10 $25 $50 $100 $250 Other For press inquiries, email press@nancylacore.com For all other inquiries, email info@nancylacore.com Checks may be made out to "Nancy Lacore for Congress" and mailed to: PO Box 1006, 1000 Palm Blvd, Isle of Palms, SC 29451-9998 Privacy Policy Terms and Conditions Paid for by Nancy Lacore for Congress Use of military rank, titles, insignia, marks, or photographs in uniform does not imply endorsement by the U.S.
+Navy or the Department of Defense.

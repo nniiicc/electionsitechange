@@ -1,10 +1,3 @@
-top of page
-No events at the moment
-Re-Elect Josh Tarsky for the13th Norfolk District
-Paid For By The Committee to Elect Joshua Tarsky
-PO Box 920581
-Needham, MA 02492
-JOSH TARSKY IS A FORMER MEMBER OF THE US ARMY AND A CURRENT MEMBER OF THE MASSACHUSETTS NATIONAL GUARD.
-USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY AN ENDORSEMENT BY THE ARMY OR THE DEPARTMENT OF DEFENSE.
-Get Campaign Updates
-bottom of page
+top of page VOLUNTEER DONATE Home About Issues Events & Fundraisers Connect Contact Facebook News Endorsements 2024 Press Releases 2024 Media More Use tab to navigate through the menu items.
+No events at the moment Re-Elect Josh Tarsky for the13th Norfolk District Paid For By The Committee to Elect Joshua Tarsky PO Box 920581 Needham, MA 02492 ​ info@joshtarsky.com JOSH TARSKY IS A FORMER MEMBER OF THE US ARMY AND A CURRENT MEMBER OF THE MASSACHUSETTS NATIONAL GUARD.
+USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY AN ENDORSEMENT BY THE ARMY OR THE DEPARTMENT OF DEFENSE. ​ © # Committee to Elect Joshua Tarsky Get Campaign Updates Join our mailing list Email * Subscribe I want to subscribe to your mailing list. bottom of page

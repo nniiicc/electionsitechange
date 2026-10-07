@@ -1,7 +1,38 @@
 [
-"https://chloepierce.com/",
-"https://chloepierce.com/cart",
-"https://facebook.com/profile.php?id=61554833902455",
-"https://instagram.com/chloepierceforny",
-"https://secure.actblue.com/donate/chloepierceforny"
+{
+"text": "0",
+"href": "https://www.chloepierce.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.chloepierce.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chloepierceforny"
+},
+{
+"text": "Issues",
+"href": "https://www.chloepierce.com/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.chloepierce.com/#volunteer"
+},
+{
+"text": "[image: Chloe Pierce]",
+"href": "https://www.chloepierce.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61554833902455"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chloepierceforny/"
+},
+{
+"text": "teamchloeforny@gmail.com",
+"href": "mailto:teamchloeforny@gmail.com"
+}
 ]

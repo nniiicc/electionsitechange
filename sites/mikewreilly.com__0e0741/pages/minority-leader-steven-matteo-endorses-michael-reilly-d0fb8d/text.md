@@ -1,10 +1,14 @@
-Citing his long history of public service, Matteo notes Reilly’s knowledge of the most important issues facing the 62nd District
-New York City Council Minority Leader Steven Matteo today endorsed Michael Reilly in his bid to become the next Assembly Member from the 62nd Assembly District.
+Skip to Content Menu Menu Meet Mike Issues Newsroom Take Action Get Involved Request a Sign Contact Us Meet Mike Issues Newsroom Take Action Get Involved Request a Sign Contact Us Donate Now Minority Leader Steven Matteo Endorses Michael Reilly by Team Reilly on May 15, 2018 Endorsements Citing his long history of public service, Matteo notes Reilly’s knowledge of the most important issues facing the 62nd District New York City Council Minority Leader Steven Matteo today endorsed Michael Reilly in his bid to become the next Assembly Member from the 62nd Assembly District.
 Reilly is running for the seat that is being vacated by current Assemblyman Ron Castorina who is running for Surrogate Judge.
 “Mike’s long history of public service and his knowledge of the important issues facing the South Shore, including education, criminal justice, opioids, transportation, and transit, make him by far the best candidate to represent the people of the 62nd Assembly District in Albany.
 Mike is knowledgeable, passionate about community service, and ready to get to work.
-That is why I wholeheartedly endorse him to succeed Assembly Member Castorina, and I look forward to working with him.”
-Reilly said, “I thank Minority Leader Matteo for his strong support.
+That is why I wholeheartedly endorse him to succeed Assembly Member Castorina, and I look forward to working with him.” Reilly said, “I thank Minority Leader Matteo for his strong support.
 Steve is an elected official who recognizes problems and then goes out and gets things done for his constituents.
 From e-Waste pickups to AED’s at little league fields to revitalizing our commercial corridors to the thousands of constituents he has helped on a variety of local issues, Steve does his job effectively.
-I look forward to partnering with Steve to help our Staten Island community.”
+I look forward to partnering with Steve to help our Staten Island community.” Share: 03.20.26 Reilly Introduces Bill to Cap E-ZPass Penalties and Strengthe...
+Read More > 03.07.26 Take Action: Sign the Petition Against the Proposed Homeless ...
+Read More > 09.22.23 Port Authority Acts on Reilly-Lanza Legislation to Study Alig...
+Read More > 06.06.23 Statement from Assemblymember Reilly regarding plan to house ...
+Read More > 05.23.23 Reilly’s Public Safety Proposals Sidelined by Assembly ...
+Read More > 05.15.23 Statement from Assemblymember Reilly on New York City’s...
+Read More > Meet Mike Issues Newsroom Get Involved Contact Us Paid for by Reilly for New York COPYRIGHT © # MICHAEL REILLY Privacy Policy Contact Us Political Website Design by Back to top

@@ -1,200 +1,168 @@
-FOR
-REAL CHOICE
-REAL CHANGE
-Elias Henry Montgomery
-High prices and disappearing housing options aren't an accident—they are driven by a broken political system that values party power over people.
+0 Skip to Content English Español Contact Open Menu Close Menu English Español Contact Open Menu Close Menu English Español Contact FOR REAL CHOICE REAL CHANGE Elias Henry Montgomery High prices and disappearing housing options aren't an accident—they are driven by a broken political system that values party power over people.
 As an Independent candidate for Congress, I am stepping outside the traditional red and blue dividing lines to offer a genuine choice.
 My campaign focuses on structural, practical solutions designed to organically lower the cost of living and ensure your vote directly impacts the balance of power.
-- Lower Everyday Costs: Breaking down artificial market barriers to bring relief to housing and essential goods.
-- Real Systemic Accountability: Stripping away arbitrary political rules and insider corporate favoritism.
-- A Government That Serves the People: Establishing an objective, steady framework where our communities can actually thrive.
-My Policy
-Agenda
-🏠 Put Local Buyers First: Discourage large-scale institutional purchase of single-family homes and prioritize owner-occupants.
-The Goal: Prevent Utah families from being outbid by distant corporate investors.
-🏗️ Build Homes Normal Paychecks Can Afford: Legalize and streamline "missing-middle" housing like duplexes, townhomes, and small apartments.
-The Goal: Add practical, affordable supply instead of only luxury units.
-🗳️ Fair Ballots via Proportional Nominations: Prevent party monopolies by requiring political parties to only nominate candidates in proportion to their statewide voter affiliation.
-The Goal: End single-party monopolies, break hyper-partisan gridlock, and ensure every Utahn's vote directly impacts the final balance of power.
-🗺️ End Gerrymandering with Independent Maps: Shift redistricting power entirely away from politicians.
-The Goal: Use independent boundaries to make Salt Lake County elections genuinely competitive again.
-💰 Invest in Savings, Not Slogans: Prioritize infrastructure and resilience projects like energy efficiency, water security, and transit.
-The Goal: Lower long-term household bills, measured by real-world results rather than politics.
-🛡️ Local Control with Consistent Protection: Move legislative decisions closer to local communities.
-The Goal: Protect local decision-making without sacrificing equal rights, due process, or uniform statewide standards.
-Economic Inequality
-A balanced approach to economic fairness requires an objective equilibrium between free-market flexibility and foundational marketplace safeguards.
+Lower Everyday Costs: Breaking down artificial market barriers to bring relief to housing and essential goods.
+Real Systemic Accountability: Stripping away arbitrary political rules and insider corporate favoritism.
+A Government That Serves the People: Establishing an objective, steady framework where our communities can actually thrive.
+My Policy Agenda 🏠 Put Local Buyers First: Discourage large-scale institutional purchase of single-family homes and prioritize owner-occupants.
+The Goal: Prevent Utah families from being outbid by distant corporate investors. 🏗️ Build Homes Normal Paychecks Can Afford: Legalize and streamline "missing-middle" housing like duplexes, townhomes, and small apartments.
+The Goal: Add practical, affordable supply instead of only luxury units. 🗳️ Fair Ballots via Proportional Nominations: Prevent party monopolies by requiring political parties to only nominate candidates in proportion to their statewide voter affiliation.
+The Goal: End single-party monopolies, break hyper-partisan gridlock, and ensure every Utahn's vote directly impacts the final balance of power. 🗺️ End Gerrymandering with Independent Maps: Shift redistricting power entirely away from politicians.
+The Goal: Use independent boundaries to make Salt Lake County elections genuinely competitive again. 💰 Invest in Savings, Not Slogans: Prioritize infrastructure and resilience projects like energy efficiency, water security, and transit.
+The Goal: Lower long-term household bills, measured by real-world results rather than politics. 🛡️ Local Control with Consistent Protection: Move legislative decisions closer to local communities.
+The Goal: Protect local decision-making without sacrificing equal rights, due process, or uniform statewide standards. 📉 Economic Inequality 🩺 Healthcare 💸 Fiscal Responsibility ⚖️ Abortion 🎓 Education 🛑 Gun Rights 📋 Police Reform 🏳️‍🌈 LGBTQ+ & Faith 🤝 Immigration 🛂 ICE Enforcement 🌳 Climate Policy 🏞️ Air & Water 🌐 Tech Privacy Economic Inequality A balanced approach to economic fairness requires an objective equilibrium between free-market flexibility and foundational marketplace safeguards.
 When that balance breaks down, our economy defaults to arbitrary governance, where partisan factions use financial strain as a weaponized political asset—either pushing top-down bureaucratic control or writing specialized loopholes for massive monopolies, completely ignoring the root structural costs and market barriers that everyday working families face.
-The Policy Compass at work
-Policy Alignment
-Establishing a clear, steady marketplace where the rules are exactly the same for everyone, ensuring the government acts as an objective referee.
+The Policy Compass at work Liberty Side (Freedom): Individual economic freedom, market deregulation, private resource allocation, capital competition, and personal choice regarding labor and entrepreneurship.
+Structure Side (Rules): Baseline public safeguards, community infrastructure funding frameworks, foundational consumer protections, and marketplace regulatory baselines to maintain stability. ⚠️ Arbitrary Governance (Rigged Rules): A system of crony capitalism where the rules change depending on political access and lobbying power.
+Wall Street giants receive massive federal bailouts while local Main Street shops are forced to close, and specialized corporate loopholes are written directly into law while working families face inflation.
+Policy Alignment Establishing a clear, steady marketplace where the rules are exactly the same for everyone, ensuring the government acts as an objective referee.
 We must secure a level playing field by separating the treatment of personal individual labor from the scale of high-capacity platform infrastructure.
 This protects individual free-market competition from insider favoritism while enforcing transparent legal parameters to keep the game fair.
-To end arbitrary governance and rebuild a marketplace that rewards hard work, we must implement an objective economic framework:
-- Deregulate and Unshackle Personal Labor: Shift marketplace rules away from the regulatory penalty of direct taxation on personal work.
+Applied Plan To end arbitrary governance and rebuild a marketplace that rewards hard work, we must implement an objective economic framework: Deregulate and Unshackle Personal Labor: Shift marketplace rules away from the regulatory penalty of direct taxation on personal work.
 Decentralize tax collection away from direct income tax so that lower income individuals and families are more capable to provide cost-of-living expenses.
 Rather than routing local wealth through a bloated government spending bureau, this model keeps capital in the private economy where it acts as a permanent, non-inflationary buffer for everyday citizens.
-- Stop Over-Spending: Halt the reckless federal money-printing that drives up the daily cost of gas, groceries, and housing.
-- Enforce Proportional Platform Utility Standards: Apply a consistent, uniform rule for high-capacity enterprise networks, requiring them to fund our public framework in direct proportion to the massive scale at which they utilize our legal systems, shipping corridors, and financial grids.
+Stop Over-Spending: Halt the reckless federal money-printing that drives up the daily cost of gas, groceries, and housing.
+Enforce Proportional Platform Utility Standards: Apply a consistent, uniform rule for high-capacity enterprise networks, requiring them to fund our public framework in direct proportion to the massive scale at which they utilize our legal systems, shipping corridors, and financial grids.
 This is not wealth redistribution; it is an infrastructure maintenance fee ensuring that massive entities pay the true commercial utility cost of the platform they profit from.
-- Protect Local Small Businesses: Cut the mountain of expensive paperwork that stops local entrepreneurs from competing with giant corporations.
-Healthcare
-A functional healthcare system requires an honest balance between individual choice and foundational safety nets.
+Protect Local Small Businesses: Cut the mountain of expensive paperwork that stops local entrepreneurs from competing with giant corporations.
+Healthcare A functional healthcare system requires an honest balance between individual choice and foundational safety nets.
 When that balance breaks down, our medical options default to arbitrary governance, where corporate insurance monopolies and government administrators constantly shift the goalposts to protect hidden profits while squeezing everyday patients.
-The Policy Compass at work
-Policy Alignment
-Establishing a universal safety net for major medical emergencies while keeping everyday care open to honest, competitive choice, and ensuring baseline public health rules apply uniformly to protect community stability.
+The Policy Compass at work Liberty Side (Freedom): Private medical options, doctor-patient autonomy, open-market care competition, pharmaceutical innovation tracks, and personal wellness choice.
+Structure Side (Rules): Public safety net baselines, emergency stabilization infrastructure, consumer resource protections, and institutional public health parameters. ⚠️ Arbitrary Governance (Rigged Rules): A lawless market with zero consumer protections where out-of-state monopolies gouge patients, or a socialized system that outlaws private selection and drives wait times up.
+It includes corporate groups masking costs to run predatory surprise billings, or drawing administrative lines at a triage door that treat a physical crisis as a legal debate.
+Policy Alignment Establishing a universal safety net for major medical emergencies while keeping everyday care open to honest, competitive choice, and ensuring baseline public health rules apply uniformly to protect community stability.
 The law must act as an objective, consistent referee—enforcing transparent pricing rules on clinical groups to spark competition, while securing predictable emergency floors to shield local families from bankruptcy.
-To guarantee health access without consolidating power under centralized federal control, our focus addresses structural adjustments:
-- Catastrophic Healthcare Floor: Pass a universal catastrophic healthcare floor to shield every family from medical bankruptcy.
-- Universal Emergency Baseline: Maintain the federal EMTALA baseline to ensure immediate, life-saving medical stabilization for anyone at the brink of death.
-- Taxpayer Cost Protection: Prevent untreated crises from fracturing community health and forcing hospitals to quietly shift uncompensated costs onto Utah families.
-- Rigid Residency Boundaries: Restrict long-term, non-emergency care subsidies and public wellness benefits strictly to lawful residents.
-- Upfront Transparent Pricing: Mandate upfront, transparent pricing for all hospitals and clinics so they are forced to compete for your business.
-- Break Up Monopolies: Fast-track approval for generic drugs to break up pharmaceutical monopolies and drive down everyday prescription costs.
-Fiscal Responsibility & Government Transparency
-Responsible spending requires unyielding structural guardrails.
+Applied Plan To guarantee health access without consolidating power under centralized federal control, our focus addresses structural adjustments: Catastrophic Healthcare Floor: Pass a universal catastrophic healthcare floor to shield every family from medical bankruptcy.
+Universal Emergency Baseline: Maintain the federal EMTALA baseline to ensure immediate, life-saving medical stabilization for anyone at the brink of death.
+Taxpayer Cost Protection: Prevent untreated crises from fracturing community health and forcing hospitals to quietly shift uncompensated costs onto Utah families.
+Rigid Residency Boundaries: Restrict long-term, non-emergency care subsidies and public wellness benefits strictly to lawful residents.
+Upfront Transparent Pricing: Mandate upfront, transparent pricing for all hospitals and clinics so they are forced to compete for your business.
+Break Up Monopolies: Fast-track approval for generic drugs to break up pharmaceutical monopolies and drive down everyday prescription costs.
+Fiscal Responsibility & Government Transparency Responsible spending requires unyielding structural guardrails.
 Right now, centralized federal bureaucracies levy direct taxes on everyday citizens while hiding multi-trillion-dollar spending packages behind closed doors.
 This insider favoritism protects well-connected corporate groups while forcing everyday families to foot the bill through persistent, hidden inflation.
-The Policy Compass at work
-Policy Alignment
-Shifting tax collection entirely closer to home over a strict, phased horizon, anchoring federal contributions strictly to state economic capacity, and establishing objective fiscal relief valves to shield local commerce from emergency economic shocks.
+The Policy Compass at work Liberty Side (Freedom): The defense of individual financial sovereignty, transaction privacy, and the right of communities to retain wealth under minimal tax demands.
+Liberty centers on fiscal agility, budget flexibility, and resource adaptability.
+Structure Side (Rules): The commitment to an institutional architecture, predictable funding formulas, and objective national appropriations.
+Structure provides the guardrails needed to govern national infrastructure and stabilize revenue mechanisms. ⚠️ Arbitrary Governance (Rigged Rules): The collision of structural coercion and unchecked flexibility stripped of consistency and transparency.
+This manifests as central bureaucracies levying income taxes and omnibus spending packages behind closed doors—fueling a national debt that shifts liabilities to future generations through inflation.
+Policy Alignment Shifting tax collection entirely closer to home over a strict, phased horizon, anchoring federal contributions strictly to state economic capacity, and establishing objective fiscal relief valves to shield local commerce from emergency economic shocks.
 Your tax dollars are a sacred trust.
 The law must act as an objective, consistent referee—eliminating direct federal extraction from personal individual labor while realigning state-level revenue collection with proportional platform usage and diversified consumption.
-To systematically transition tax collection away from centralized federal bureaucracies without triggering economic instability, our focus executes a structured, multi-phase realignment:
-- Decentralized State-Led Revenue: End federal income taxation on individual citizens over a locked 10-year horizon, restoring the original constitutional design by shifting revenue authority entirely back to the states.
+Applied Plan To systematically transition tax collection away from centralized federal bureaucracies without triggering economic instability, our focus executes a structured, multi-phase realignment: Decentralized State-Led Revenue: End federal income taxation on individual citizens over a locked 10-year horizon, restoring the original constitutional design by shifting revenue authority entirely back to the states.
 This effectively realigns financial power, leaving states fully sovereign over their own internal revenue models while completely halting direct federal overreach into personal labor.
-- GDP-Proportioned State Dues: Require the federal government to operate solely on uniform dues paid directly by the states to maintain essential national programs, calculated strictly as a fixed percentage of each state's Gross Domestic Product (State GDP) to match real-world fiscal capacity.
-- Production-Neutral Local Frameworks: Leverage localized autonomy to rebalance internal tax mixes away from crushing individual work and primary homeownership.
+GDP-Proportioned State Dues: Require the federal government to operate solely on uniform dues paid directly by the states to maintain essential national programs, calculated strictly as a fixed percentage of each state's Gross Domestic Product (State GDP) to match real-world fiscal capacity.
+Production-Neutral Local Frameworks: Leverage localized autonomy to rebalance internal tax mixes away from crushing individual work and primary homeownership.
 By minimizing the tax weight on low- and middle-class households, funding shifts seamlessly to diversified consumption, natural resource royalties, and high-capacity commercial utility fees paid directly by the enterprise networks utilizing local infrastructure at scale.
-- Automated Escrow Offsets: Replace heavy-handed political penalties with a neutral Federal-State Escrow Account.
+Automated Escrow Offsets: Replace heavy-handed political penalties with a neutral Federal-State Escrow Account.
 If a state falls into a multi-year funding default, the federal government is legally authorized to automatically intercept a corresponding percentage of that state’s locally generated commercial revenues to balance the ledger directly, completely protecting the state's constitutional Senate representation from partisan overreach.
-- Emergency Stabilization Relief Valves: Build an automated macroeconomic safeguard into the framework.
+Emergency Stabilization Relief Valves: Build an automated macroeconomic safeguard into the framework.
 During a certified national crisis, states are granted an automatic, temporary 15% reduction in their federal dues for that fiscal year, funded by a mathematically capped emergency currency expansion to keep local commerce from grinding to a halt.
-- Algorithmic Central Bank Cap: Strip discretionary money-printing power from central bank bureaucrats by placing the Federal Reserve under a permanent, automated algorithmic growth cap.
-- Ban Omnibus Packaging: Enforce a strict single-subject legislative tracking rule, requiring every single spending item to stand or fall on its own individual public vote.
-- Enforce True Government Transparency: Force federal agencies to hand over completely unedited, unredacted records and travel logs to investigators within 30 days.
-- Track Your Tax Dollars Online: Launch a real-time, public tracking system on the internet so citizens can see exactly where every federal agency transaction over $25,000 is going.
-Abortion
-A principled approach to reproductive policy requires an honest, objective balance between personal autonomy and protecting developing human life.
+Algorithmic Central Bank Cap: Strip discretionary money-printing power from central bank bureaucrats by placing the Federal Reserve under a permanent, automated algorithmic growth cap.
+Ban Omnibus Packaging: Enforce a strict single-subject legislative tracking rule, requiring every single spending item to stand or fall on its own individual public vote.
+Enforce True Government Transparency: Force federal agencies to hand over completely unedited, unredacted records and travel logs to investigators within 30 days.
+Track Your Tax Dollars Online: Launch a real-time, public tracking system on the internet so citizens can see exactly where every federal agency transaction over $25,000 is going.
+Abortion A principled approach to reproductive policy requires an honest, objective balance between personal autonomy and protecting developing human life.
 When that balance breaks down, our laws default to arbitrary governance, where hyper-partisan lawmakers treat a profound moral question as a weaponized political asset—constantly flip-flopping legal goalposts during election seasons to rally bases while completely ignoring the real-world healthcare and social crises that vulnerable families face.
-The Policy Compass at work
-Policy Alignment
-Abortion is a deeply personal and social issue, not a bureaucratic one.
+The Policy Compass at work Liberty Side: Personal self-determination, individual bodily agency, and absolute privacy from state intrusion.
+Structure Side: Protecting the worth of human life, defending developing children, and building stable social safety nets. ⚠️ Arbitrary Governance (Rigged Rules): The Pro-Life AND Pro-Choice notions both miss the mark on this issue.
+It has nothing to do with the life status of the embrio, nor with the mother's body granting any merit of choice.
+Reguardless of the morality, there IS a developing human, yet there are many reasons abortion may be considered the viable choice.
+Policy Alignment Abortion is a deeply personal and social issue, not a bureaucratic one.
 While my compass provides an ethical ideal (to actively mitigate abortion), true progress does not come from a politician's pen or a criminal ban—it comes from teaching the value of life and building a society where abortion is unnecessary.
-Criminalizing abortion does not work to eradicate the practice.
-To reduce abortion through compassionate, practical support rather than police power, our focus centers on root-cause solutions:
-- Focus on Root Causes: Shift away from weaponized criminal systems and invest heavily in vulnerable families and local foster care models.
-- Protect Tragic Exceptions: Secure permanent legal protections for medical emergencies, rape, incest, and structural maternal health risks.
-- Expand Real Community Support: Grow access to prenatal healthcare, simplify parental leave rules, and build supported local adoption networks.
-Education
-Education thrives when there is a clear balance between parental oversight, teacher independence, and secure local resources.
+Applied Plan Criminalizing abortion does not work to eradicate the practice.
+To reduce abortion through compassionate, practical support rather than police power, our focus centers on root-cause solutions: Focus on Root Causes: Shift away from weaponized criminal systems and invest heavily in vulnerable families and local foster care models.
+Protect Tragic Exceptions: Secure permanent legal protections for medical emergencies, rape, incest, and structural maternal health risks.
+Expand Real Community Support: Grow access to prenatal healthcare, simplify parental leave rules, and build supported local adoption networks.
+Education Education thrives when there is a clear balance between parental oversight, teacher independence, and secure local resources.
 When that balance is severed by federal overreach, our schools default to arbitrary governance, where shifting bureaucratic mandates and partisan culture wars displace foundational learning and strip families of their educational choice.
-The Policy Compass at work
-Policy Alignment
-Blending a shared, objective academic structure with transparent, consistently enforced rules that guarantee absolute parental transparency and protect individual liberty.
+The Policy Compass at work Liberty Side (Freedom): Decentralized educational pathways, absolute parental authority over data exposure, customizable learning tracks, and an open marketplace of competitive school choice without uniform state dictation.
+In a library setting, it values open access without state-mandated age screenings.
+Structure Side (Rules): Institutional academic benchmarks, shared community learning baselines, stable facility funding assets, collective oversight systems, and age-appropriateness thresholds for library material curation to preserve community standards. ⚠️ Arbitrary Governance (Rigged Rules): D.C. bureaucrats forcing uniform curriculum frameworks onto distinct neighborhoods, or heavy-handed state boards running non-transparent reviews that ban books based solely on shifting political viewpoints, identity framing, or partisan group-guilt.
+Policy Alignment Blending a shared, objective academic structure with transparent, consistently enforced rules that guarantee absolute parental transparency and protect individual liberty.
 The law must act as an unyielding referee—shielding families with full transparency tools while ensuring school library curation is bound to fixed, objective developmental metrics rather than weaponized partisan view-purges.
-To eliminate arbitrary political overreach and establish a transparent, balanced school framework:
-- Establish Factual Baselines: Focus public school core curriculum metrics tightly on essential, foundational academics, including math, science, reading, history, and civics.
-- Objective Curation Standards: Keep school library book curation strictly tied to explicit, objective criteria (like age-appropriate sexual content or developmental suitability), completely removing partisan viewpoint review tracks.
-- Give Parents Full Access: Implement simple, online public portals that guarantee parents immediate access to review all school lessons, textbooks, and library catalogs seamlessly before they are introduced.
-- Return Control to Utah: Systematically wind down federal overreach from the D.C.
+Applied Plan To eliminate arbitrary political overreach and establish a transparent, balanced school framework: Establish Factual Baselines: Focus public school core curriculum metrics tightly on essential, foundational academics, including math, science, reading, history, and civics.
+Objective Curation Standards: Keep school library book curation strictly tied to explicit, objective criteria (like age-appropriate sexual content or developmental suitability), completely removing partisan viewpoint review tracks.
+Give Parents Full Access: Implement simple, online public portals that guarantee parents immediate access to review all school lessons, textbooks, and library catalogs seamlessly before they are introduced.
+Return Control to Utah: Systematically wind down federal overreach from the D.C.
 Department of Education and clear away compliance red tape so local teachers can focus on teaching.
-Gun Rights & Gun Regulation
-Protecting our communities requires an objective balance between Second Amendment constitutional protections and individual accountability.
+Gun Rights & Gun Regulation Protecting our communities requires an objective balance between Second Amendment constitutional protections and individual accountability.
 When that balance breaks down, our laws default to arbitrary governance, where hyper-partisan politicians weaponize tragic events to push top-down restrictions on law-abiding citizens, completely ignoring the root economic, environmental, and mental health stressors that drive violent crime and self-inflicted crises.
-The Policy Compass at work
-Policy Alignment
-Maintaining an unyielding, permanent constitutional baseline that protects individual liberty, while focusing public policy on resolving the root economic, social, and psychological causes of community instability.
+The Policy Compass at work Liberty Side (Freedom): The unyielding defense of the individual right to keep and bear arms, personal self-defense sovereignty, absolute financial privacy in firearms transactions, and complete freedom from invasive government tracking loop registries or weaponized property freezes.
+Structure Side (Rules): Uncompromising criminal prosecution for violent offenders, statutory protections for lawful property owners, and targeted structural safety infrastructure to secure public facilities and hold federal agencies to clear legislative limits. ⚠️ Arbitrary Governance (Rigged Rules): Passing sweeping, heavy-handed property bans or forced buybacks that disarm peaceful citizens while failing to enforce laws against violent criminals, or enacting restrictions that react to symptoms while refusing to address the underlying socioeconomic and mental health crises fracturing our neighborhoods.
+Policy Alignment Maintaining an unyielding, permanent constitutional baseline that protects individual liberty, while focusing public policy on resolving the root economic, social, and psychological causes of community instability.
 Real progress does not come from a politician's pen or regulatory overreach; it comes from easing household financial stress, fixing broken local environments, and clearing the logjam in our mental health support systems.
 When our communities are economically secure, physically revitalized, and mentally supported, violent crime and self-inflicted tragedies naturally recede.
-To reduce violence by treating root environmental and psychological causes while completely protecting your Second Amendment rights:
-- Address Economic Stressors First: Lower the cost of living by executing our primary Policy Agenda—stabilizing housing supply, prioritizing local buyers, and stopping reckless spending to halt the inflation eating away family savings.
-- Revitalize the Local Environment: Invest in structural neighborhood safety and clean urban design—like the Rio Grande Plan—because research proves that rehabilitating disinvested public spaces and expanding community connectivity organically drops regional violence.
-- Target the True Mental Health Crisis: Tackle the primary driver of Utah firearm fatalities by expanding community-based mental health resources, cutting waitlists for crisis intervention, and backing voluntary, secure off-site storage networks for families navigating temporary psychological crises.
-- Enforce Hard Rules on Illegal Supply Chains: Shift law enforcement focus away from penalizing lawful gun owners and redirect resources to aggressively tracking and prosecuting violent felons, straw-purchasers, and criminal syndicates running black-market weapon networks.
-- Protect Financial and Legal Privacy: Ban the use of specific merchant category codes by corporate data brokers or banks to secretly track legal firearms purchases, and outlaw forced property seizures that bypass upfront constitutional due process.
-- Secure Clear Appeals Tracks: Ensure instant background check pipelines operate with high-speed accuracy, backed by swift, transparent appeal lanes to instantly rectify database errors that mistakenly penalize innocent citizens.
-Police Reform & Public Safety
-Real public safety requires a professional, well-supported police force that is fully accountable to the citizens they protect.
+Applied Plan To reduce violence by treating root environmental and psychological causes while completely protecting your Second Amendment rights: Address Economic Stressors First: Lower the cost of living by executing our primary Policy Agenda—stabilizing housing supply, prioritizing local buyers, and stopping reckless spending to halt the inflation eating away family savings.
+Revitalize the Local Environment: Invest in structural neighborhood safety and clean urban design—like the Rio Grande Plan—because research proves that rehabilitating disinvested public spaces and expanding community connectivity organically drops regional violence.
+Target the True Mental Health Crisis: Tackle the primary driver of Utah firearm fatalities by expanding community-based mental health resources, cutting waitlists for crisis intervention, and backing voluntary, secure off-site storage networks for families navigating temporary psychological crises.
+Enforce Hard Rules on Illegal Supply Chains: Shift law enforcement focus away from penalizing lawful gun owners and redirect resources to aggressively tracking and prosecuting violent felons, straw-purchasers, and criminal syndicates running black-market weapon networks.
+Protect Financial and Legal Privacy: Ban the use of specific merchant category codes by corporate data brokers or banks to secretly track legal firearms purchases, and outlaw forced property seizures that bypass upfront constitutional due process.
+Secure Clear Appeals Tracks: Ensure instant background check pipelines operate with high-speed accuracy, backed by swift, transparent appeal lanes to instantly rectify database errors that mistakenly penalize innocent citizens.
+Police Reform & Public Safety Real public safety requires a professional, well-supported police force that is fully accountable to the citizens they protect.
 True stability fails when public trust breaks down or vital officer resources are completely stripped away by political mandate.
-The Policy Compass at work
-Policy Alignment
-Securing a fully funded, professional law enforcement structure as a community safety baseline, while wrapping that power inside objective constitutional boundaries and transparent citizen oversight to preserve individual liberty.
+The Policy Compass at work Liberty Side (Freedom): Defense of individual civil liberties, civilian privacy protections, ironclad constitutional due process requirements, and direct legal recourse against actors who abuse state authority.
+Structure Side (Rules): Institutional agency funding, operational tactical training frameworks, competitive officer retention pay models, and emergency rescue resource networks to protect community stability. ⚠️ Arbitrary Governance (Rigged Rules): Defunding law enforcement entirely and abandoning neighborhoods to chaos, or operating an unchecked police apparatus that uses non-transparent legal loopholes to shield bad actors from scrutiny and exploits asset forfeiture rules to seize citizen property without a criminal conviction.
+Policy Alignment Securing a fully funded, professional law enforcement structure as a community safety baseline, while wrapping that power inside objective constitutional boundaries and transparent citizen oversight to preserve individual liberty.
 The law must act as a reliable referee—backing our officers with the training and competitive resources required to stop crime, while enforcing consistent, uniform body-camera metrics and independent local tracking to preserve public trust.
-To build maximum community safety alongside ironclad civil liberties protection, our agenda implements direct standards:
-- Support Our Officers: Provide robust community funding for advanced law enforcement training, mental health resources, and competitive retention pay.
-- Demand Complete Accountability: Require uniform body-camera operation across all deployments and support independent citizen oversight boards to review critical events.
-LGBTQ+ Rights & Religious Liberty
-Civil rights and religious freedom are not opposing values—they are parallel expressions of the exact same constitutional right to self-determination.
+Applied Plan To build maximum community safety alongside ironclad civil liberties protection, our agenda implements direct standards: Support Our Officers: Provide robust community funding for advanced law enforcement training, mental health resources, and competitive retention pay.
+Demand Complete Accountability: Require uniform body-camera operation across all deployments and support independent citizen oversight boards to review critical events.
+LGBTQ+ Rights & Religious Liberty Civil rights and religious freedom are not opposing values—they are parallel expressions of the exact same constitutional right to self-determination.
 True community peace fractures when shifting majorities treat basic rights as a zero-sum political game.
-The Policy Compass at work
-Policy Alignment
-Guaranteeing strict, permanent protections for religious institutions to guide their internal doctrines without federal interference, while securing uniform civil protections for LGBTQ+ individuals in the marketplace.
+The Policy Compass at work Liberty Side (Freedom): Universal public dignity, marketplace housing and employment non-discrimination safeguards, and individual personal autonomy to live authentically.
+Structure Side (Rules): Institutional faith-community sovereignty, traditional freedom of conscience protections for churches, and legal protections for religious educational assets. ⚠️ Arbitrary Governance (Rigged Rules): Shifting local ordinances that treat fundamental civil rights as temporary permissions, demanding total state-forced ideological conformity, or using the weight of law to completely exclude peaceful citizens or faith communities from public spaces.
+Policy Alignment Guaranteeing strict, permanent protections for religious institutions to guide their internal doctrines without federal interference, while securing uniform civil protections for LGBTQ+ individuals in the marketplace.
 The law must act as an objective referee—ensuring that protections for faith and identity are applied consistently and transparently, so no community is targeted or disadvantaged by the shifting winds of political power.
-To protect pluralism and conscience without expanding invasive federal oversight, our platform outlines specific parameters:
-- Protect Houses of Worship: Secure explicit statutory guarantees that faith institutions retain total, absolute sovereignty over internal codes and teachings.
-- Secure Equal Marketplace Access: Enforce steady, predictable non-discrimination baselines to protect citizens from arbitrary eviction or job loss based on identity.
-- Keep Medical Choices Local: Reject heavy-handed federal intervention in deeply personal healthcare spaces, ensuring choices stay balanced by family and clinical data.
-Immigration (Non-ICE Border Care)
-A healthy, secure sovereign nation requires a practical balance between ironclad checkpoint enforcement and responsive economic pathways.
+Applied Plan To protect pluralism and conscience without expanding invasive federal oversight, our platform outlines specific parameters: Protect Houses of Worship: Secure explicit statutory guarantees that faith institutions retain total, absolute sovereignty over internal codes and teachings.
+Secure Equal Marketplace Access: Enforce steady, predictable non-discrimination baselines to protect citizens from arbitrary eviction or job loss based on identity.
+Keep Medical Choices Local: Reject heavy-handed federal intervention in deeply personal healthcare spaces, ensuring choices stay balanced by family and clinical data.
+Immigration (Non-ICE Border Care) A healthy, secure sovereign nation requires a practical balance between ironclad checkpoint enforcement and responsive economic pathways.
 When the framework fractures, we face border gridlock that harms national security and halts legal processing channels.
-The Policy Compass at work
-Policy Alignment
-Securing physical ports of entry with modern infrastructure while replacing black-market crossings with an orderly, fast, and transparent legal visa pipeline.
+The Policy Compass at work Liberty Side (Freedom): Legal immigration pathways, workforce access for agricultural and technical sectors, and family tracking mechanisms to facilitate labor mobility.
+Structure Side (Rules): National border sovereignty, physical barrier infrastructure, asset investments at ports of entry, and baseline background screenings. ⚠️ Arbitrary Governance (Rigged Rules): Open border chaos that strains local municipal resources, mixed with an outdated, sluggish bureaucracy that traps legal visa applicants in administrative limbo for decades while domestic industries face critical labor shortfalls.
+Policy Alignment Securing physical ports of entry with modern infrastructure while replacing black-market crossings with an orderly, fast, and transparent legal visa pipeline.
 The law must act as an objective, consistent referee—enforcing clear sovereignty rules at our border boundaries while managing incoming labor through a predictable framework that responds directly to real economic data rather than political rhetoric.
-To protect our borders while honoring practical market demands, our immigration blueprint implements structural adjustments:
-- Secure All Checkpoints: Deploy advanced screening technologies and increase personnel assets to fully secure physical entry ports.
-- Streamline the Legal Queue: Replace broken back-alley processing channels with efficient, automated background check pipelines for legal applicants.
-- Align Visas with Real Market Needs: Dynamically adjust annual labor visa thresholds to match real-time workforce shortages across our agricultural and technical sectors.
-Immigration Enforcement (ICE)
-Enforcing immigration law requires an agency focused on genuine safety threats, tracking bad actors without fracturing stable local neighborhoods or overwhelming municipal law enforcement.
-The Policy Compass at work
-Policy Alignment
-Refocusing federal enforcement assets on tracking down cartels, drug runners, and violent felons while keeping domestic municipal police free to focus on local public safety.
+Applied Plan To protect our borders while honoring practical market demands, our immigration blueprint implements structural adjustments: Secure All Checkpoints: Deploy advanced screening technologies and increase personnel assets to fully secure physical entry ports.
+Streamline the Legal Queue: Replace broken back-alley processing channels with efficient, automated background check pipelines for legal applicants.
+Align Visas with Real Market Needs: Dynamically adjust annual labor visa thresholds to match real-time workforce shortages across our agricultural and technical sectors.
+Immigration Enforcement (ICE) Enforcing immigration law requires an agency focused on genuine safety threats, tracking bad actors without fracturing stable local neighborhoods or overwhelming municipal law enforcement.
+The Policy Compass at work Liberty Side (Freedom): Community trust, constitutional due process protections, and municipal police independence from centralized mandates.
+Structure Side (Rules): Counter-trafficking operations, intelligence synchronization channels, and gang interdiction tracking frameworks to maintain public safety. ⚠️ Arbitrary Governance (Rigged Rules): Utilizing domestic enforcement assets to run indiscriminate sweeps through peaceful neighborhoods, or completely abolishing enforcement rules and letting criminal networks exploit local communities without legal consequence.
+Policy Alignment Refocusing federal enforcement assets on tracking down cartels, drug runners, and violent felons while keeping domestic municipal police free to focus on local public safety.
 The law must act as an objective referee—enforcing consistent, transparent judicial processing rules on federal agencies, while protecting the independent authority of local officers to preserve community stability and individual liberty.
-To optimize domestic safety without turning local municipalities into federal outposts, our approach sets firm operational boundaries:
-- Target Violent Security Threats: Redirect enforcement assets entirely to high-impact tracking models targeting violent transnational syndicates and cartels.
-- Maintain Judicial Accountability: Enforce steady judicial processing requirements rather than using sweeping, unvetted community roundups.
-- Protect Local Police Autonomy: Oppose top-down federal mandates that force local Utah police departments to divert resources toward executing civil border checks.
-Climate Policy
-Protecting our global environment requires strict pollution accountability for massive corporations while completely empowering small-business and community-level energy innovation.
+Applied Plan To optimize domestic safety without turning local municipalities into federal outposts, our approach sets firm operational boundaries: Target Violent Security Threats: Redirect enforcement assets entirely to high-impact tracking models targeting violent transnational syndicates and cartels.
+Maintain Judicial Accountability: Enforce steady judicial processing requirements rather than using sweeping, unvetted community roundups.
+Protect Local Police Autonomy: Oppose top-down federal mandates that force local Utah police departments to divert resources toward executing civil border checks.
+Climate Policy Protecting our global environment requires strict pollution accountability for massive corporations while completely empowering small-business and community-level energy innovation.
 True progress stalls under heavy-handed federal restrictions or hidden, closed-door industrial development deals.
-The Policy Compass at work
-Policy Alignment
-Ensuring energy development is completely transparent, holding polluters directly liable for any ecological damage they cause, and cutting red tape for clean, decentralized power solutions.
+The Policy Compass at work Liberty Side (Freedom): Energy market competition, technological development models, and community choices for solar, wind, and next-generation nuclear power options.
+Structure Side (Rules): Corporate environmental liabilities, baseline emissions monitoring frameworks, and resource conservation parameters. ⚠️ Arbitrary Governance (Rigged Rules): Top-down federal mandates that attempt to pick winning and losing energy technologies overnight—which breaks our electrical grid—or backroom state boards fast-tracking massive corporate data center operations without giving local communities a public voice.
+Policy Alignment Ensuring energy development is completely transparent, holding polluters directly liable for any ecological damage they cause, and cutting red tape for clean, decentralized power solutions.
 The law must act as an objective, consistent referee—protecting individual community innovation and free-market exploration, while enforcing clear, transparent corporate liability rules to safeguard our shared environment.
-To reduce environmental impacts while keeping Utah’s economic grid secure and affordable, our platform establishes direct checks:
-- Oppose the Box Elder Data Center: Actively block closed-door corporate infrastructure deals that bypass standard public environmental impact hearings.
-- Cut Local Clean Energy Red Tape: Empower communities to develop advanced small-scale nuclear and solar setups without waiting through multi-year federal administrative freezes.
-- Enforce Direct Environmental Liability: Pass rules ensuring out-of-state entities pay directly for their ecological waste footprints rather than leaving the cleanup bill to local taxpayers.
-Air Quality, Water Security, & Public Space
-True conservation does not come from distant federal edicts in Washington D.C., nor does it come from ignoring toxic lake dust blowing across our valleys.
+Applied Plan To reduce environmental impacts while keeping Utah’s economic grid secure and affordable, our platform establishes direct checks: Oppose the Box Elder Data Center: Actively block closed-door corporate infrastructure deals that bypass standard public environmental impact hearings.
+Cut Local Clean Energy Red Tape: Empower communities to develop advanced small-scale nuclear and solar setups without waiting through multi-year federal administrative freezes.
+Enforce Direct Environmental Liability: Pass rules ensuring out-of-state entities pay directly for their ecological waste footprints rather than leaving the cleanup bill to local taxpayers.
+Air Quality, Water Security, & Public Space True conservation does not come from distant federal edicts in Washington D.C., nor does it come from ignoring toxic lake dust blowing across our valleys.
 It requires localized, clear, and unyielding laws to protect our shared lifelines.
-The Policy Compass at work
-Policy Alignment
-Protecting our essential natural resources through clear, predictable regional standards while funding infrastructure that opens up public space for housing and conservation.
+The Policy Compass at work Liberty Side (Freedom): Municipal land control, property optimization mechanisms, and infrastructure development pathways to facilitate community growth.
+Structure Side (Rules): Regional water table boundaries, airshed preservation baselines, and public land assets held in trust for the community. ⚠️ Arbitrary Governance (Rigged Rules): Allowing massive industrial mining operations to completely bypass local pollution liabilities, or having distant federal agencies lock up Utah public lands away from balanced recreational use and community conservation efforts.
+Policy Alignment Protecting our essential natural resources through clear, predictable regional standards while funding infrastructure that opens up public space for housing and conservation.
 The law must act as an objective, consistent referee—enforcing transparent environmental safety limits on commercial waste footprints, while protecting local property development rights to secure long-term public well-being.
-To secure our physical health and natural landscape, our campaign focuses on practical, regional investments:
-- Fund the Rio Grande Plan: Secure infrastructure grants to move downtown rail underground, freeing up 50 blocks of urban space for walkable housing and clean parks.
-- Save the Great Salt Lake: Tie state infrastructure funding directly to measurable, objective lake refilling checkmarks to stop toxic dust storms.
-- Stop Secret Subsidies: Ban federal energy grants for data centers unless those projects are explicitly cleared by local public utility hearings.
-Digital Privacy, AI, & Tech Privacy
-Digital privacy is a fundamental constitutional right.
+Applied Plan To secure our physical health and natural landscape, our campaign focuses on practical, regional investments: Fund the Rio Grande Plan: Secure infrastructure grants to move downtown rail underground, freeing up 50 blocks of urban space for walkable housing and clean parks.
+Save the Great Salt Lake: Tie state infrastructure funding directly to measurable, objective lake refilling checkmarks to stop toxic dust storms.
+Stop Secret Subsidies: Ban federal energy grants for data centers unless those projects are explicitly cleared by local public utility hearings.
+Digital Privacy, AI, & Tech Privacy Digital privacy is a fundamental constitutional right.
 Your internet data, online browsing footprint, and personal biometric markers are your private personal property—period.
 The current system treats consumer records as an open marketplace for corporate cartels and data brokers.
-The Policy Compass at work
-Policy Alignment
-Legally establishing digital data as physical personal property and shutting down the secret loop where corporate tech giants sell your information to federal law enforcement.
+The Policy Compass at work Liberty Side (Freedom): Open-source tech development paths, decentralized server architectures, and freedom of digital expression.
+Structure Side (Rules): Consumer data-harvesting restrictions, biometric boundary frameworks, and anti-monopoly fair trade regulations. ⚠️ Arbitrary Governance (Rigged Rules): Tech monopolies scraping public creative work and private consumer data without paying creators or obtaining consent, building closed corporate paywalls, and working hand-in-hand with federal agencies to censor user speech without warrants.
+Policy Alignment Legally establishing digital data as physical personal property and shutting down the secret loop where corporate tech giants sell your information to federal law enforcement.
 The law must act as an objective referee—ensuring that protections for personal digital assets and private communication are applied consistently and transparently, so your constitutional rights are never bypassed by corporate data tracking systems or government agencies.
-To give individuals complete control over their digital lives, our platform implements clear legal guardrails:
-- Ban Public Mass Surveillance: Pass strict bans preventing state or federal agencies from deploying automated facial recognition and licence plate tracking in public city squares.
-- Own Your Personal Data: Legally define tracking cookies, biometric data, and browsing profiles as private personal property that cannot be taken without explicit consent.
-- Oppose Reckless Tech Developement: I actively oppose data centers when they eat environmental resources or when they act as hubs of personal data (this is most often the case).
+Applied Plan To give individuals complete control over their digital lives, our platform implements clear legal guardrails: Ban Public Mass Surveillance: Pass strict bans preventing state or federal agencies from deploying automated facial recognition and licence plate tracking in public city squares.
+Oppose Reckless Tech Developement: I actively oppose data centers when they eat environmental resources or when they act as hubs of personal data (this is most often the case).
 Safeguard laws must be enacted to protect consumer data and prevent unwaranted tracking.
-- Close the Warrant Loophole: Stop agencies like the FBI from bypassing the Fourth Amendment by buying private citizen phone-tracking datasets directly from corporate brokers.
-My Standard
-This compass guides how I evaluate policy across every issue below.
+Close the Warrant Loophole: Stop agencies like the FBI from bypassing the Fourth Amendment by buying private citizen phone-tracking datasets directly from corporate brokers.
+My Standard This compass guides how I evaluate policy across every issue below.
 Good government balances personal freedom with steady rules.
 When rules change based on who is in power, the system becomes corrupt and divisive.
 When rules are transparent and apply equally to everyone, we get real, consistent justice.
@@ -202,22 +170,19 @@ We reach the Objective and Principled zone only when interventions are applied C
 True consistency requires treating entities uniformly based on their structural scale: enforcing an identical baseline rule for all people, while applying a proportional utility standard for massive commercial platforms that utilize our shared public infrastructure.
 This ensures that government power is never used to target or disadvantage any community—and that government neglect never abandons them.
 My vision is simple: governance that restrains power through consistent principles.
-What ties this entire platform together is a simple commitment to consistency.
+What ties this entire platform together is a simple commitment to consistency .
 I am not promising easy answers, but I am committing to rules that do not change based on party pressure, donor influence, or who holds power.
 When government intervenes, it should do so openly, fairly, and in ways everyday people can actually live under.
 That is how we lower real costs, protect your rights, and restore trust.
-The Compass In
-Action
-A Practical Plan for Utah
-- The Goal: Enforcing clear, steady rules to stop big corporations from manipulating our markets.
-- Affordable Housing: Prioritizing local buyers and owner-occupants over institutional corporate speculators.
-- Transparent Healthcare: Outlawing surprise billing and forcing monopolies to publish upfront prices.
-- Honest Markets: Stripping away arbitrary shortcuts that crush local small business competition.
-- The Goal: Throwing out rigged political rules designed to protect single-party monopolies.
-- End Gerrymandering: Using fully independent maps so politicians cannot pick their own voters.
-- Independent Voices: Opening the ballot to break hyper-partisan legislative gridlock.
-- Proportional Math: Realigning party nominations directly with real voter data, not just redrawn districts.
-- The Goal: Securing reliable public baselines while keeping actual decisions close to home.
-- Local Zoning: Giving neighborhoods a real voice over their own growth and supply.
-- Smart Infrastructure: Investing in long-term, cost-cutting regional energy and water security.
-- Rooted Opportunity: Building localized economic stability so families can stay in Utah.
+The Compass In Action A Practical Plan for Utah Lowering Everyday Costs 📉 The Goal: Enforcing clear, steady rules to stop big corporations from manipulating our markets.
+Affordable Housing : Prioritizing local buyers and owner-occupants over institutional corporate speculators.
+Transparent Healthcare : Outlawing surprise billing and forcing monopolies to publish upfront prices.
+Honest Markets : Stripping away arbitrary shortcuts that crush local small business competition.
+Fixing a Broken System ⚙️ The Goal: Throwing out rigged political rules designed to protect single-party monopolies.
+End Gerrymandering : Using fully independent maps so politicians cannot pick their own voters.
+Independent Voices : Opening the ballot to break hyper-partisan legislative gridlock.
+Proportional Math : Realigning party nominations directly with real voter data, not just redrawn districts.
+Strong & Resilient Communities 🏡 The Goal: Securing reliable public baselines while keeping actual decisions close to home.
+Local Zoning : Giving neighborhoods a real voice over their own growth and supply.
+Smart Infrastructure : Investing in long-term, cost-cutting regional energy and water security.
+Rooted Opportunity : Building localized economic stability so families can stay in Utah. $#.# $#.# $#.# $#.# Custom Amount Please enter an amount $ One-Time Donation Weekly Donation Monthly Donation Quarterly Donation Annual Donation Support us by covering the fees we have to pay #% Cover the Fee Donate Donate

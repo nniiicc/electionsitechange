@@ -1,21 +1,78 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=61590532234569",
-"https://linkedin.com/in/bradleytrahan",
-"https://maps.google.com/maps?daddr=1775+Lake+Shady+Avenue+South%2C+Oronoco%2C+MN&z=15",
-"https://trahanmn25a.com/",
-"https://trahanmn25a.com/contact",
-"https://trahanmn25a.com/contribute",
-"https://trahanmn25a.com/events",
-"https://trahanmn25a.com/events/24cn36kg.ics?s=20261014T173000Z",
-"https://trahanmn25a.com/home",
-"https://trahanmn25a.com/issues",
-"https://trahanmn25a.com/meet_brad",
-"https://trahanmn25a.com/news",
-"https://trahanmn25a.com/photos",
-"https://trahanmn25a.com/view-endorsements",
-"https://trahanmn25a.com/volunteer",
-"https://trahanmn25a.com/vote",
-"https://trahanmn25a.com/yard-sign",
-"https://x.com/home"
+{
+"text": "Add to calendar",
+"href": "https://www.trahanmn25a.com/events/24cn36kg.ics?s=20261014T173000Z"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.trahanmn25a.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.trahanmn25a.com/contribute"
+},
+{
+"text": "Directions →",
+"href": "https://maps.google.com/maps?daddr=1775+Lake+Shady+Avenue+South%2C+Oronoco%2C+MN&z=15"
+},
+{
+"text": "Endorsements",
+"href": "https://www.trahanmn25a.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.trahanmn25a.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.trahanmn25a.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.trahanmn25a.com/issues"
+},
+{
+"text": "Meet Brad",
+"href": "https://www.trahanmn25a.com/meet_brad"
+},
+{
+"text": "News",
+"href": "https://www.trahanmn25a.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.trahanmn25a.com/photos"
+},
+{
+"text": "Volunteer",
+"href": "https://www.trahanmn25a.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.trahanmn25a.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.trahanmn25a.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://www.trahanmn25a.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590532234569"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/bradleytrahan/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/home"
+}
 ]

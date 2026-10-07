@@ -1,10 +1,46 @@
 [
-"http://news/",
-"https://jonathanchavezforcongress.com/",
-"https://jonathanchavezforcongress.com/?page_id=133",
-"https://jonathanchavezforcongress.com/?page_id=134",
-"https://jonathanchavezforcongress.com/?page_id=135",
-"https://jonathanchavezforcongress.com/?page_id=136",
-"https://jonathanchavezforcongress.com/wp-login.php?redirect_to=https%3A%2F%2Fjonathanchavezforcongress.com%2F",
-"https://secure.winred.com/jonathan-chavez-for-u-s-congress/donate-today"
+{
+"text": "Donate",
+"href": "https://jonathanchavezforcongress.com/?page_id=133"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/jonathan-chavez-for-u-s-congress/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://jonathanchavezforcongress.com/?page_id=136"
+},
+{
+"text": "Home",
+"href": "https://jonathanchavezforcongress.com"
+},
+{
+"text": "Issues",
+"href": "https://jonathanchavezforcongress.com/?page_id=135"
+},
+{
+"text": "Jonathan Chavez for Congress",
+"href": "https://jonathanchavezforcongress.com"
+},
+{
+"text": "Log in",
+"href": "https://jonathanchavezforcongress.com/wp-login.php?redirect_to=https%3A%2F%2Fjonathanchavezforcongress.com%2F"
+},
+{
+"text": "Meet Jonathan",
+"href": "https://jonathanchavezforcongress.com/?page_id=134"
+},
+{
+"text": "News",
+"href": "http://news"
+},
+{
+"text": "[image: Jonathan Chavez for Congress]",
+"href": "https://jonathanchavezforcongress.com/"
+},
+{
+"text": "jchavez@chavezforcongress.com",
+"href": "mailto:info@example.com"
+}
 ]

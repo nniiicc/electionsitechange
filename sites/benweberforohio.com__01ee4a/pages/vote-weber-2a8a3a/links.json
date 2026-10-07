@@ -1,7 +1,26 @@
 [
-"https://benweberforohio.com/about",
-"https://benweberforohio.com/cart",
-"https://docs.google.com/forms/d/e/1FAIpQLSen8PY4xIY8yP5GH7Yp8MS2P8XoVl9j4yOMgEnGt43qic9Zug/viewform?usp=dialog",
-"https://facebook.com/profile.php?id=61573898973002",
-"https://secure.winred.com/ben-weber-for-ohio/donate-today"
+{
+"text": "0",
+"href": "https://www.benweberforohio.com/cart"
+},
+{
+"text": "CLICK HERE FOR YARD SIGN DELIVERY FORM",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSen8PY4xIY8yP5GH7Yp8MS2P8XoVl9j4yOMgEnGt43qic9Zug/viewform?usp=dialog"
+},
+{
+"text": "DONATE!",
+"href": "https://secure.winred.com/ben-weber-for-ohio/donate-today"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/ben-weber-for-ohio/donate-today"
+},
+{
+"text": "Learn More",
+"href": "https://www.benweberforohio.com/about"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61573898973002"
+}
 ]

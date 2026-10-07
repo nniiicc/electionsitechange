@@ -1,21 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Plants+%26+Petitions&dates=20260510T150000Z%2F20260510T170000Z&location=217+East+Brodway%2C+Monticello%2C+NY+12750%2C+United+States",
-"http://maps.google.com/?q=217+East+Brodway+Monticello%2C+NY+12750+United+States",
-"https://facebook.com/paulaforassembly",
-"https://instagram.com/paulaforassembly",
-"https://paulaforassembly100.com/",
-"https://paulaforassembly100.com/cart",
-"https://paulaforassembly100.com/contact",
-"https://paulaforassembly100.com/district-100",
-"https://paulaforassembly100.com/endorsements",
-"https://paulaforassembly100.com/events",
-"https://paulaforassembly100.com/events/bagels-and-ballots",
-"https://paulaforassembly100.com/events/everyone-loves-a-diner",
-"https://paulaforassembly100.com/events/plants-petitions?format=ical",
-"https://paulaforassembly100.com/home",
-"https://paulaforassembly100.com/news",
-"https://paulaforassembly100.com/privacy-policy",
-"https://paulaforassembly100.com/volunteer",
-"https://secure.actblue.com/donate/paula-kay",
-"https://voterreg.dmv.ny.gov/MotorVoter"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=217+east+brodway+monticello%2C+ny+12750+united+states"
+},
+{
+"text": "0",
+"href": "https://paulaforassembly100.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://paulaforassembly100.com/events"
+},
+{
+"text": "Contact",
+"href": "https://paulaforassembly100.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/paula-kay"
+},
+{
+"text": "District 100",
+"href": "https://paulaforassembly100.com/district-100"
+},
+{
+"text": "Donate",
+"href": "https://paulaforassembly100.com/home#Donate"
+},
+{
+"text": "Endorsements",
+"href": "https://paulaforassembly100.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://paulaforassembly100.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Plants+%26+Petitions&dates=20260510T150000Z%2F20260510T170000Z&location=217+East+Brodway%2C+Monticello%2C+NY+12750%2C+United+States"
+},
+{
+"text": "HOME",
+"href": "https://paulaforassembly100.com/home"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/plants-petitions?format=ical"
+},
+{
+"text": "News",
+"href": "https://paulaforassembly100.com/news"
+},
+{
+"text": "Next Next September 14 Everyone Loves a Diner",
+"href": "https://paulaforassembly100.com/events/everyone-loves-a-diner"
+},
+{
+"text": "Previous Previous October 27 Bagels and Ballots",
+"href": "https://paulaforassembly100.com/events/bagels-and-ballots"
+},
+{
+"text": "Privacy Policy",
+"href": "https://paulaforassembly100.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://voterreg.dmv.ny.gov/MotorVoter/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://paulaforassembly100.com/volunteer"
+},
+{
+"text": "We respect your privacy.",
+"href": "https://paulaforassembly100.com/privacy-policy"
+},
+{
+"text": "[image: Paula for Assembly]",
+"href": "https://paulaforassembly100.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/paulaforassembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/paulaforassembly"
+}
 ]

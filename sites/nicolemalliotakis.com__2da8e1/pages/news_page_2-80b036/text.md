@@ -1,56 +1,26 @@
-One year in: America is winning again — and we’re just getting started (Op-Ed)
-One year ago this week, President Donald Trump was sworn in with a Republican trifecta.
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Nicole Malliotakis Press Releases Sat, Jan 24 2026 One year in: America is winning again — and we’re just getting started (Op-Ed) #ago this week, President Donald Trump was sworn in with a Republican trifecta.
 In our first 12 months, we’ve delivered on multiple promises, including border security, lower gas prices, economic growth and historic tax cuts.
-READ post
-Malliotakis Op-Ed: Time for Democrats to end the shutdown shenanigans
-One year ago this week, President Donald Trump was sworn in with a Republican trifecta.
+READ post share Wed, Oct 15 2025 Malliotakis Op-Ed: Time for Democrats to end the shutdown shenanigans #ago this week, President Donald Trump was sworn in with a Republican trifecta.
 In our first 12 months, we’ve delivered on multiple promises, including border security, lower gas prices, economic growth and historic tax cuts.
-READ post
-Malliotakis Op-Ed: One Big Beautiful Law is a win for hard-working Staten Islanders
-One year ago this week, President Donald Trump was sworn in with a Republican trifecta.
+READ post share Thu, Jul 24 2025 Malliotakis Op-Ed: One Big Beautiful Law is a win for hard-working Staten Islanders #ago this week, President Donald Trump was sworn in with a Republican trifecta.
 In our first 12 months, we’ve delivered on multiple promises, including border security, lower gas prices, economic growth and historic tax cuts.
-READ post
-Malliotakis Op-Ed: Rooting out fraud is essential to preserve Medicaid, Medicare
-For too long, Washington’s reckless spending has gone unchecked, driving up deficits year after year with little accountability or oversight.
+READ post share Thu, May 08 2025 Malliotakis Op-Ed: Rooting out fraud is essential to preserve Medicaid, Medicare For too long, Washington’s reckless spending has gone unchecked, driving up deficits year after year with little accountability or oversight.
 That era is coming to an end.
-An Op-Ed by […]
-READ post
-Malliotakis Op-Ed: Rooting out fraud is essential to preserve Medicaid, Medicare
-One year ago this week, President Donald Trump was sworn in with a Republican trifecta.
+An Op-Ed by […] READ post share Thu, May 08 2025 Malliotakis Op-Ed: Rooting out fraud is essential to preserve Medicaid, Medicare #ago this week, President Donald Trump was sworn in with a Republican trifecta.
 In our first 12 months, we’ve delivered on multiple promises, including border security, lower gas prices, economic growth and historic tax cuts.
-READ post
-Watch: Malliotakis talks tax deductions of FOX5 Good Day New York
-Representative Nicole Malliotakis joins Good Day New York.
-READ post
-Malliotakis Op-Ed: President Trump and I are committed to delivering middle class tax relief
-One of the biggest tasks before Congress this year will be to ensure President Trump’s historic 2017 tax cuts don’t expire, something that would hurt our families, our economy and result in a $4 trillion tax increase on American families and businesses.
-READ post
-Op-Ed: Here’s how Trump 2.0 can cut $20 billion in spending, wipe out Fauci’s leftover bloat — and save animals
-President-elect Donald Trump’s Department of Government Efficiency has elevated the problem of wasteful spending from think-tank white papers to a national cover story.
+READ post share Mon, May 05 2025 Watch: Malliotakis talks tax deductions of FOX5 Good Day New York Representative Nicole Malliotakis joins Good Day New York.
+READ post share Sat, Jan 18 2025 Malliotakis Op-Ed: President Trump and I are committed to delivering middle class tax relief One of the biggest tasks before Congress this year will be to ensure President Trump’s historic 2017 tax cuts don’t expire, something that would hurt our families, our economy and result in a $4 trillion tax increase on American families and businesses.
+READ post share Thu, Jan 16 2025 Op-Ed: Here’s how Trump 2.0 can cut $20 billion in spending, wipe out Fauci’s leftover bloat — and save animals President-elect Donald Trump’s Department of Government Efficiency has elevated the problem of wasteful spending from think-tank white papers to a national cover story.
 With $36 trillion in national debt — more than $300,000 per taxpayer — there’s a lot of spending to slash.
-READ post
-Op-Ed: VA halts cat and dog research, a win for animal advocates
-After years of persistent advocacy from Congress, organizations and animal lovers across the country, the Department of Veterans Affairs (VA) just confirmed, “We are no longer conducting any feline testing and are now bringing an end to animal research on sensitive species,” meaning cats, dogs, and non-human primates.
-READ post
-NYC PBA Endorses Congresswoman Malliotakis for Third Term
-Nicole for New York announced today that the Police Benevolent Association of the City of New York (NYC PBA) has endorsed Rep.
+READ post share Wed, Sep 18 2024 Op-Ed: VA halts cat and dog research, a win for animal advocates After years of persistent advocacy from Congress, organizations and animal lovers across the country, the Department of Veterans Affairs (VA) just confirmed, “We are no longer conducting any feline testing and are now bringing an end to animal research on sensitive species,” meaning cats, dogs, and non-human primates.
+READ post share Tue, Sep 17 2024 NYC PBA Endorses Congresswoman Malliotakis for Third Term Nicole for New York announced today that the Police Benevolent Association of the City of New York (NYC PBA) has endorsed Rep.
 Nicole Malliotakis’ bid for a third term.
-READ post
-Humane Society Legislative Fund Endorses Congresswoman Nicole Malliotakis
-Nicole for New York, the campaign of Congresswoman Nicole Malliotakis, announced today that the Humane Society Legislative Fund has endorsed her in her bid for a third term.
+READ post share Wed, Aug 14 2024 Humane Society Legislative Fund Endorses Congresswoman Nicole Malliotakis Nicole for New York, the campaign of Congresswoman Nicole Malliotakis, announced today that the Humane Society Legislative Fund has endorsed her in her bid for a third term.
 The Humane Society Legislative Fund (HSLF) is the nation’s leading animal protection organization.
-READ post
-Malliotakis: President Trump Will Make America Safe, Affordable & Prosperous Again
-President Trump is the one who is going to secure our border, restore our economy, get this country back on track, and make our cities safe again.
-READ post
-Malliotakis: President Trump Is Uniting Americans Across the Political Spectrum
-President Trump is uniting Republicans AND Americans across the political spectrum who want secure borders, safe cities and economic prosperity.
-READ post
-Malliotakis on Newsmax: Republican Convention is uniting Republicans & Americans
-Rep.
+READ post share Sat, Jul 20 2024 Malliotakis: President Trump Will Make America Safe, Affordable & Prosperous Again President Trump is the one who is going to secure our border, restore our economy, get this country back on track, and make our cities safe again.
+READ post share Thu, Jul 18 2024 Malliotakis: President Trump Is Uniting Americans Across the Political Spectrum President Trump is uniting Republicans AND Americans across the political spectrum who want secure borders, safe cities and economic prosperity.
+READ post share Thu, Jul 18 2024 Malliotakis on Newsmax: Republican Convention is uniting Republicans & Americans Rep.
 Nicole Malliotakis appeared on Newsmax to discuss the 2024 Republican National Convention.
-READ post
-Malliotakis and Bellotti: When It Comes To Gov’t Animal Abuse, Fauci Was Just The Tip Of The Iceberg
-Dr.
+READ post share Fri, Jun 14 2024 Malliotakis and Bellotti: When It Comes To Gov’t Animal Abuse, Fauci Was Just The Tip Of The Iceberg Dr.
 Fauci’s wasteful spending on cruel animal testing was front and center recently as Congress grilled him on the COVID-era catastrophes he caused, from risky gain-of-function research to BeagleGate.
-READ post
+READ post share Posts pagination Previous page 1 2 3 … 22 Next page STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

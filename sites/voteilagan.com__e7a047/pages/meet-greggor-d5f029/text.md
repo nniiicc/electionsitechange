@@ -1,5 +1,4 @@
-Meet Greggor
-In 2020, Greggor was elected as a Hawaiʻi State Representative in District 4.
+Skip to content Home Meet Greggor Priorities Support Donate Home Meet Greggor Priorities Support Donate Home Meet Greggor Priorities Support Donate Meet Greggor Meet Greggor In 2020, Greggor was elected as a Hawaiʻi State Representative in District 4.
 Although he has only just completed his freshman year in the state House of Representatives, he has already inspired his constituents to more actively engage in the legislative process.
 It was evident by the increase in the number of testimonials submitted during the most recent Legislative session.
 In addition, he was able to pass six bills that he sponsored in his short tenure.
@@ -25,3 +24,4 @@ He is still pushing for it to be built.
 In 2021, Greggor started the Puna Community Cleanup to encourage the community to come together to keep Puna beautiful.
 Together, they filled over 100 trash bags to keep the roadways in Puna clean.
 He stays focused on serving his community – in December 2021, Greggor hosted Puna’s first annual “12 Days of Town Halls” to hear directly from the community about how he can served them at the Hawaiʻi State Legislature.
+Greggor Ilagan 2026-06-08T09:41:27-10:00 Greggor Ilagan State House, District 4 (808) 557-5819 aloha@voteilagan.com Vote for Ilagan HC3 Box 14048 Keaau, HI 96749 Primary: Saturday, August 8, 2026 © Copyright | Vote for Ilagan, HC3 Box 14048, Keaau, HI 96749 Facebook Instagram Page load link Go to Top

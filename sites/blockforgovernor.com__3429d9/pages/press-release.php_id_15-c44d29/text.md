@@ -1,11 +1,3 @@
-Barrington, Rhode Island —
-WHO:
-Ken Block, Independent candidate for Governor of Rhode Island
-WHAT:
-In-person press conference followed by availability for one-on-one interviews with reporters
-WHERE:
-Rhode Island State House
-82 Smith St
-Providence, RI 02903
-WHEN:
-Thursday, October 1 at 10:30 a.m.
+★ November 3, 2026 Countdown to Election Day # Days # Hours # Minutes # Seconds Home About Issues Appearances Media & Press Ken I Be Honest Polls Donate Donate ← Media & Press Official Press Release ﻿Ken Block to Hold Press Conference at the Rhode Island State House to Unveil Energy Policy Plan BARRINGTON, RI – Tomorrow morning (Thursday, October 1 at 10:30 a.m.), Independent candidate for Governor Ken Block will hold a press conference at the Rhode Island State House to unveil his plan for energy policy, a crucial issue that affects virtually every facet of Rhode Island's economy and significantly contributes to the affordability crisis currently facing the state.
+Release Date October 1, 2026 Location Barrington, Rhode Island Media Contact michelle@blockforgovernor.com Barrington, Rhode Island — WHO: ﻿ Ken Block, Independent candidate for Governor of Rhode Island WHAT: In-person press conference followed by availability for one-on-one interviews with reporters WHERE: ﻿ ﻿Rhode Island State House 82 Smith St﻿ ﻿Providence, RI 02903 WHEN: ﻿ ﻿Thursday, October 1 at 10:30 a.m. ← Back to Media & Press ✉ Media Contact For questions, interviews, or additional information, contact Michelle Conway. michelle@blockforgovernor.com ★ About Ken Block Ken Block is an independent candidate for Governor of Rhode Island focused on accountable, effective government that works for every resident.
+Learn more about Ken → Privacy Policy Terms of Use Copyright ©# blockforgovernor All Rights Reserved.

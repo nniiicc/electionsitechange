@@ -1,15 +1,66 @@
 [
-"https://elijahforcongress.com/about.html",
-"https://elijahforcongress.com/contact.html",
-"https://elijahforcongress.com/endorsements.html",
-"https://elijahforcongress.com/index.html",
-"https://elijahforcongress.com/issues.html",
-"https://elijahforcongress.com/news.html",
-"https://elijahforcongress.com/privacy.html",
-"https://elijahforcongress.com/terms.html",
-"https://elijahforcongress.com/volunteer.html",
-"https://elijahforcongress.com/vote.html",
-"https://leg.colorado.gov/bills/sb21-190",
-"https://oag.ca.gov/privacy/ccpa",
-"https://secure.anedot.com/ryan-elijah-for-congress/general-election-fund"
+{
+"text": "About",
+"href": "https://elijahforcongress.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://elijahforcongress.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ryan-elijah-for-congress/general-election-fund"
+},
+{
+"text": "Endorsements",
+"href": "https://elijahforcongress.com/endorsements.html"
+},
+{
+"text": "Issues",
+"href": "https://elijahforcongress.com/issues.html"
+},
+{
+"text": "Mobile Messaging Terms and Conditions",
+"href": "https://elijahforcongress.com/terms.html"
+},
+{
+"text": "News",
+"href": "https://elijahforcongress.com/news.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://elijahforcongress.com/privacy.html"
+},
+{
+"text": "Ryan Elijah for Congress home page",
+"href": "https://elijahforcongress.com/index.html"
+},
+{
+"text": "Team@ElijahForCongress.com",
+"href": "mailto:Team@ElijahForCongress.com"
+},
+{
+"text": "Volunteer",
+"href": "https://elijahforcongress.com/volunteer.html"
+},
+{
+"text": "Vote",
+"href": "https://elijahforcongress.com/vote.html"
+},
+{
+"text": "Website Terms of Use",
+"href": "https://elijahforcongress.com/terms.html"
+},
+{
+"text": "[image: Ryan Elijah for Congress]",
+"href": "https://elijahforcongress.com/index.html"
+},
+{
+"text": "https://leg.colorado.gov/bills/sb21-190",
+"href": "https://leg.colorado.gov/bills/sb21-190"
+},
+{
+"text": "https://oag.ca.gov/privacy/ccpa",
+"href": "https://oag.ca.gov/privacy/ccpa"
+}
 ]

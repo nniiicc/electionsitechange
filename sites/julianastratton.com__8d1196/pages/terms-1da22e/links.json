@@ -1,19 +1,86 @@
 [
-"http://secure.actblue.com/donate/jfi-landingpage?amount=25&express_lane=true",
-"http://secure.actblue.com/donate/jfi-landingpage?amount=50&express_lane=true",
-"https://bsky.app/profile/julianastratton.bsky.social",
-"https://facebook.com/JulianaForIL",
-"https://gpo.gov/fdsys/pkg/USCODE-2011-title17/pdf/USCODE-2011-title17-chap5-sec512.pdf",
-"https://instagram.com/julianaforillinois",
-"https://julianastratton.com/",
-"https://julianastratton.com/privacy",
-"https://julianastratton.com/terms",
-"https://secure.actblue.com/donate/jfi-landingpage",
-"https://secure.actblue.com/donate/jfi-landingpage?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/jfi-landingpage?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/jfi-landingpage?amount=5&express_lane=true",
-"https://secure.ngpvan.com/OncS4AwCY0iH3IcE37gs3Q2",
-"https://tiktok.com/@julianaforil",
-"https://x.com/JulianaStratton",
-"https://youtube.com/@Juliana_Stratton"
+{
+"text": "$#",
+"href": "http://secure.actblue.com/donate/jfi-landingpage?amount=25&express_lane=true"
+},
+{
+"text": "$#",
+"href": "http://secure.actblue.com/donate/jfi-landingpage?amount=50&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jfi-landingpage?amount=10&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jfi-landingpage?amount=100&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jfi-landingpage?amount=5&express_lane=true"
+},
+{
+"text": "17 U.S.C. § 512(c)(3)",
+"href": "https://www.gpo.gov/fdsys/pkg/USCODE-2011-title17/pdf/USCODE-2011-title17-chap5-sec512.pdf"
+},
+{
+"text": "CHIP IN",
+"href": "https://secure.actblue.com/donate/jfi-landingpage"
+},
+{
+"text": "Contact: info@julianastratton.com",
+"href": "mailto:info@julianastratton.com?subject=Contact+Juliana+for+Illinois"
+},
+{
+"text": "Press InquirIES: press@julianastratton.com",
+"href": "mailto:press@julianastratton.com?subject=Press+Inquiry+for+Juliana+for+Illinois"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.julianastratton.com/privacy"
+},
+{
+"text": "See our privacy policy",
+"href": "https://www.julianastratton.com/privacy"
+},
+{
+"text": "Sign up",
+"href": "https://secure.ngpvan.com/OncS4AwCY0iH3IcE37gs3Q2"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.julianastratton.com/terms"
+},
+{
+"text": "[image: Juliana-Stratton-Logo-Dark.png]",
+"href": "https://www.julianastratton.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@julianaforil"
+},
+{
+"text": "[image: bluesky-icon-dark]",
+"href": "https://bsky.app/profile/julianastratton.bsky.social"
+},
+{
+"text": "[image: facebook-icon-dark]",
+"href": "https://www.facebook.com/JulianaForIL"
+},
+{
+"text": "[image: instagram-icon-dark]",
+"href": "https://www.instagram.com/julianaforillinois/"
+},
+{
+"text": "[image: x-icon-dark]",
+"href": "https://x.com/JulianaStratton"
+},
+{
+"text": "[image: youtube-icon-dark]",
+"href": "https://www.youtube.com/@Juliana_Stratton"
+},
+{
+"text": "info@julianastratton.com",
+"href": "mailto:info@julianastratton.com"
+}
 ]

@@ -1,4 +1,4 @@
-Nick Schultz was elected to serve the 44th District in the California State Assembly in November 2024, where he currently serves as the Chair of the Assembly Public Safety Committee.
+Meet Nick Get Involved Endorsements District 44 Media Contact Donate About Nick Schultz was elected to serve the 44th District in the California State Assembly in November 2024, where he currently serves as the Chair of the Assembly Public Safety Committee.
 Previously, Nick served on the Burbank City Council as a Mayor and Councilmember.
 On the Council, he was instrumental in implementing policies that increased economic opportunity, reduced crime, expanded environmental protections, and expanded affordable housing.
 Nick has devoted his professional career to public service.
@@ -13,3 +13,6 @@ Growing up, Nick’s maternal grandparents were a big part of his life.
 In particular, his grandfather, Bernie, was a role model in Nick’s formative years.
 Bernie was a union member with IAM (machinist and aerospace workers), and he helped instill in Nick an ironclad belief in the ability of working people coming together and changing the world.
 Nick took to heart these early lessons and has applied them to a career of public service for the betterment of his community.
+Home Register To Vote © Copyright # Nick Schultz.
+All rights reserved Paid for by Nick Schultz for Assembly 2026 ID#1477852.
+Site design by W&WDS .

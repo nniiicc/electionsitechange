@@ -1,5 +1,4 @@
-Education
-Every child deserves the right to a free and high quality public education regardless of economic status.
+Skip navigation menu Home About Issues Donate Home About Issues Donate Education Dear Republicans Role of Government Crime Rigged System Wealth Inequality AI and Data Centers The Promise: Education Every child deserves the right to a free and high quality public education regardless of economic status.
 Public education is the backbone of society and the school is the centerpiece of a community and should be funded as well as we can.
 Stop giving public money to private schools and make public schools better.
 Update the curriculum for the new world of technology.
@@ -61,3 +60,5 @@ I look forward to meeting with the leaders of the schools.
 I would like to know more about their challenges and the best way to address them.
 I’d like to hear from teachers, principals, superintendents, parents, students, PTO members, and school boards to listen to their concerns and solutions.
 They are the experts and I want to listen to them.
+Luke.r.rae@gmail.com P.O.
+Box 135 716 SE Grand DD Faucett, MO 64448 Powered by RUN! website builder Paid for by Committee to Elect Luke Rae, Robert Bergland Treasurer You need to enable JavaScript to run this app.

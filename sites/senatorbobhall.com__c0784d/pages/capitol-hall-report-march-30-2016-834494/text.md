@@ -1,11 +1,10 @@
-Time to audit unaccountable transportation agencies
-Texas’ first public-private toll road on SH 130 recently went bankrupt.
+Home About News Priorities and Issues Videos Endorsements Get Involved Contact Us Endorse Senator Bob Hall!
+CHR $ Capitol Hall Report- March 30, 2016 March 30, 2016 Tweet Time to audit unaccountable transportation agencies Texas’ first public-private toll road on SH 130 recently went bankrupt.
 However, rather than be released from the controversial public private partnership contract, the Texas taxpayers are being asked to endure the possibility of yet another private entity taking over the debt-laden project.
 Many Texans were hoping to finally have SH 130 back under the state’s control as a free road.
 In spite of this desire, Texas Department of Transportation (TxDOT) spokesperson Veronica Beyer made clear that it is not going to happen: “The SH 130 Concession Company filing for bankruptcy should have no impact on Texas taxpayers or the traveling public.
 No state money was used to build the portion from SH 45SE south to Seguin operated by the SH 130 Concession Company, and the state is not liable for any of its outstanding debt.
-SH 130 continues to be a viable alternative for drivers who want to bypass Austin and avoid congestion on Interstate 35.”
-No impact?
+SH 130 continues to be a viable alternative for drivers who want to bypass Austin and avoid congestion on Interstate 35.” No impact?
 Really?
 The project tapped into federal money and secured a $438 million TIFIA loan that is backed by the federal taxpayer.
 We are all federal taxpayers.
@@ -31,9 +30,13 @@ TxDOT and MPO documents reveal that not a single toll project left in the state�
 Yet these boards continue to give them a green light, knowing they are not fiscally feasible nor sustainable.
 So while Cintra’s stretch of SH 130 may not saddle the state of Texas with its debt as a result of the private concessionaire’s bankruptcy, virtually every other toll project that has come online or that will be online in short order, will indeed have major fiscal implications for all Texas taxpayers.
 Last year, I authored the senate version of the bill (HB 2612) to study how to eliminate tolls across Texas.
-With passage of HB 2612, which commissioned a study to eliminate tolls from state-funded toll projects, we moved the goalposts in the taxpayers’ direction.
+With passage of HB 2612 , which commissioned a study to eliminate tolls from state-funded toll projects, we moved the goalposts in the taxpayers’ direction.
 But there is clearly more work to be accomplished.
 I strongly advocate removing tolls from the state-operated northern segment of SH 130 in order to immediately provide traffic relief on I-35 through downtown Austin, and I urge the same on Cintra’s southern leg, but not if it requires the Texas taxpayer to take on any of its $1.3 billion in outstanding debt.
 Texans should be liberated from this bad contract on SH 130 and allowed to be back in the driver’s seat, not only on this roadway, but every public highway across Texas.
 This cannot be accomplished until transportation decision-makers are held accountable and their books and contracts are subject to independent and thorough public scrutiny.
 The economic impacts of this debt, tax burden, and the hindrances to our freedom of mobility, dictate that we must end the era of toll roads.
+Get the Capitol Hall Report Email Address Zip Code Keep me informed Thanks for subscribing! * Valid Email Address required.
+Home CHR About Priorities and Issues Endorsements News Trusted Conservative Get Involved Get Involved Endorse Senator Hall!
+Contact Us Privacy $ Email Address Zip Code Sign up Thanks for subscribing! * Valid Email Address required Political Advertising Paid for by Texans for Bob Hall, P.O.
+Box 513, Canton, Texas 75103, Mike Slaton, Treasurer Site by Vici Media Group

@@ -1,5 +1,7 @@
-Why am I running for Kansas House District 103?
-Embedded Files
+Search this site Embedded Files Skip to main content Skip to navigation Support Jordan Chessher!
+Chessher for Kansas Home Why am I Running?
+Endorsements Contribute Contact GET YOUR FREE SIGN!
+Chessher for Kansas Why am I running for Kansas House District 103?
 My name is Jordan Chessher.
 I’m a husband, a father of six children ranging from a newborn to seventeen, and a working Kansan who has spent nearly twenty years in aviation manufacturing and quality control.
 I currently work as a Quality Inspector at Boeing, where attention to detail, accountability, and doing things the right way are not optional.
@@ -32,7 +34,4 @@ I’m coming from the shop floor, from raising a family, and from seeing firstha
 I’m ready to get to work for District 103 from day one.
 As a father, a worker, and a community advocate, I care deeply about the future of this district and this state.
 I believe we can build safer communities, stronger families, and greater opportunity for the next generation.
-That’s the perspective I would bring to the Kansas Statehouse.
-Page updated
-Google Sites
-Report abuse
+That’s the perspective I would bring to the Kansas Statehouse. © 2026, PAID F OR BY: CHESSHER FOR KANSAS JASMINE CHESSHER : TREASURER Google Sites Report abuse Page details Page updated Google Sites Report abuse

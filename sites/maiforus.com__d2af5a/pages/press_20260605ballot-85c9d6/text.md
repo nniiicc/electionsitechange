@@ -1,7 +1,4 @@
-Press Release - Councilmember Mai Vang Surges in Latest Count, Moves Into First in Sacramento County
-Grassroots campaign closes to within two points districtwide as thousands of ballots remain to be counted
-FOR IMMEDIATE RELEASE - June 5, 2026
-SACRAMENTO, CA. — Councilmember Mai Vang's campaign for California's 7th Congressional District surged with the latest ballot drop, moving into first place in Sacramento County and closing to within two points districtwide — with thousands of votes still left to count.
+0 Skip to Content About Mai Mai's Story Endorsements District 7 Fact Check Platform Vote Get Involved 8/27 - CA7 Debate Volunteer Host A House Party Field Activations Get A Yard Sign Job Opportunities DONATE Open Menu Close Menu About Mai Mai's Story Endorsements District 7 Fact Check Platform Vote Get Involved 8/27 - CA7 Debate Volunteer Host A House Party Field Activations Get A Yard Sign Job Opportunities DONATE Open Menu Close Menu Folder: About Mai Back Mai's Story Endorsements District 7 Fact Check Platform Vote Folder: Get Involved Back 8/27 - CA7 Debate Volunteer Host A House Party Field Activations Get A Yard Sign Job Opportunities DONATE Press Release - Councilmember Mai Vang Surges in Latest Count, Moves Into First in Sacramento County Jun 5 Written By Jonathan Tran Grassroots campaign closes to within two points districtwide as thousands of ballots remain to be counted FOR IMMEDIATE RELEASE - June 5, 2026 SACRAMENTO, CA. — Councilmember Mai Vang's campaign for California's 7th Congressional District surged with the latest ballot drop, moving into first place in Sacramento County and closing to within two points districtwide — with thousands of votes still left to count.
 The result marks a dramatic development in a race where Vang was outspent nearly 3-to-1.
 The 21-year incumbent spent $1.4 million of her own money while asking her super PAC allies to boost a Republican candidate in the closing weeks.
 Vang's campaign, by contrast, was powered by a grassroots movement of volunteers, working families, and voters ready for a new generation of leadership who knocked doors and made calls across the district.
@@ -10,6 +7,6 @@ Vang's campaign, by contrast, was powered by a grassroots movement of volunteers
 Every door we knocked, every conversation we had, every neighbor who wanted a new generation of leadership — it's showing up in these numbers.
 We're not done.
 There are thousands of votes still to count, and we're going to honor every single one of them.
-But tonight, I am filled with gratitude and more fired up than ever."
-The campaign said it would keep its focus on the ongoing count while continuing to organize, and thanked the volunteers and supporters who fueled the surge.
-###
+But tonight, I am filled with gratitude and more fired up than ever." The campaign said it would keep its focus on the ongoing count while continuing to organize, and thanked the volunteers and supporters who fueled the surge.
+### Jonathan Tran Previous Previous Press Release: Councilmember Mai Vang Overtakes Doris Matsui in CA-07, Officially Secures Spot on November Ballot Next Next Press Release - Matsui Drops $1.4 Million of Personal Wealth Into Her Campaign While Allied Super PAC Boosts Trump Republican Into November CONTACT MEDIA FEC C00918037 - 1700 Tribute Rd.
+Suite 201, Sacramento, CA 95815

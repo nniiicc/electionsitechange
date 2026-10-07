@@ -1,10 +1,14 @@
 {
  "description": "Report from the Capitol - WEEK 5: Monday, Feb. 6, marked the 15th Legislative Day of the Regular Session of the Georgia Gener ...",
  "final_url": "https://www.rickjasperse.org/article.php?news=12",
- "paid_for_by": null,
+ "fingerprint": "86011cb602d9dc97961315523bf1d185d42a8720",
+ "format": 3,
+ "paid_for_by": "",
  "title": "REPORT FROM THE CAPITOL - Report from the Capitol",
  "years_mentioned": [
+  "1994",
   "2011",
-  "2012"
+  "2012",
+  "2039"
  ]
 }

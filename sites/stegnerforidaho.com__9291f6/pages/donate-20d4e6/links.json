@@ -1,15 +1,66 @@
 [
-"http://instagram.com/stegnerforidaho",
-"https://facebook.com/StegnerforIdaho",
-"https://stegnerforidaho.com/",
-"https://stegnerforidaho.com/cart",
-"https://stegnerforidaho.com/contact",
-"https://stegnerforidaho.com/donate",
-"https://stegnerforidaho.com/events",
-"https://stegnerforidaho.com/get-involved",
-"https://stegnerforidaho.com/media",
-"https://stegnerforidaho.com/meet-john",
-"https://stegnerforidaho.com/priorities",
-"https://stegnerforidaho.com/privacy-policy",
-"https://stegnerforidaho.com/terms"
+{
+"text": "0",
+"href": "https://www.stegnerforidaho.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://www.stegnerforidaho.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.stegnerforidaho.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stegnerforidaho.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "Media",
+"href": "https://www.stegnerforidaho.com/media"
+},
+{
+"text": "Meet John",
+"href": "https://www.stegnerforidaho.com/meet-john"
+},
+{
+"text": "Priorities",
+"href": "https://www.stegnerforidaho.com/priorities"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.stegnerforidaho.com/privacy-policy"
+},
+{
+"text": "Terms & conditions",
+"href": "https://www.stegnerforidaho.com/terms"
+},
+{
+"text": "[image: John Stegner for Governor]",
+"href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/stegnerforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StegnerforIdaho"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@stegnerforidaho.com"
+},
+{
+"text": "info@stegnerforidaho.com",
+"href": "mailto:info@stegnerforidaho.com"
+},
+{
+"text": "this form",
+"href": "https://www.stegnerforidaho.com/contact"
+}
 ]

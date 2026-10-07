@@ -1,8 +1,50 @@
 [
-"https://luisterrazas4nm.com/",
-"https://luisterrazas4nm.com/about",
-"https://luisterrazas4nm.com/contact",
-"https://luisterrazas4nm.com/get-involved",
-"https://luisterrazas4nm.com/give-me-five",
-"https://secure.anedot.com/luis-terrazas/donate"
+{
+"text": "About",
+"href": "https://www.luisterrazas4nm.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.luisterrazas4nm.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.luisterrazas4nm.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/luis-terrazas/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.luisterrazas4nm.com/get-involved"
+},
+{
+"text": "Give Me Five",
+"href": "https://www.luisterrazas4nm.com/give-me-five"
+},
+{
+"text": "Home",
+"href": "https://www.luisterrazas4nm.com"
+},
+{
+"text": "Home",
+"href": "https://www.luisterrazas4nm.com/about"
+},
+{
+"text": "Re-Elect Luis Terrazas",
+"href": "https://www.luisterrazas4nm.com"
+},
+{
+"text": "State Representative",
+"href": "https://www.luisterrazas4nm.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.luisterrazas4nm.com/get-involved"
+},
+{
+"text": "contactus@luisterrazas4nm.com",
+"href": "mailto:contactus@luisterrazas4nm.com"
+}
 ]

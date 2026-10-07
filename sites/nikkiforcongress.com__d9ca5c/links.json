@@ -1,26 +1,150 @@
 [
-"http://apolloartistry.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSf7zW1e5x8VoIcGduFWV_xVkD5DlTSn_voXT0PcwJYMnR0obw/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSf7zW1e5x8VoIcGduFWV_xVkD5DlTSn_voXT0PcwJYMnR0obw/viewform?usp=sharing",
-"https://nikkiforcongress.com/",
-"https://nikkiforcongress.com/about",
-"https://nikkiforcongress.com/accessibility",
-"https://nikkiforcongress.com/cdn-cgi/l/email-protection",
-"https://nikkiforcongress.com/donate",
-"https://nikkiforcongress.com/endorsements",
-"https://nikkiforcongress.com/facebook",
-"https://nikkiforcongress.com/instagram",
-"https://nikkiforcongress.com/issues",
-"https://nikkiforcongress.com/media-center",
-"https://nikkiforcongress.com/news",
-"https://nikkiforcongress.com/privacy-policy",
-"https://nikkiforcongress.com/take-action",
-"https://nikkiforcongress.com/twitter",
-"https://nikkiforcongress.com/youtube",
-"https://secure.actblue.com/donate/nikkiforcongress?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/nikkiforcongress?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/nikkiforcongress?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/nikkiforcongress?amount=5&express_lane=true",
-"https://secure.actblue.com/donate/nikkiforcongress?amount=50&express_lane=true",
-"https://secure.actblue.com/donate/nikkiforcongress?express_lane=true"
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/nikkiforcongress?amount=100&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/nikkiforcongress?amount=25&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/nikkiforcongress?amount=250&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/nikkiforcongress?amount=5&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/nikkiforcongress?amount=50&express_lane=true"
+},
+{
+"text": "Accessibility",
+"href": "https://nikkiforcongress.com/accessibility"
+},
+{
+"text": "Contact",
+"href": "mailto:field@nikkiforcongress.com"
+},
+{
+"text": "DONATE TODAY DONATE TODAY",
+"href": "https://secure.actblue.com/donate/nikkiforcongress?express_lane=true"
+},
+{
+"text": "Donate",
+"href": "https://nikkiforcongress.com/donate"
+},
+{
+"text": "Donate Donate",
+"href": "https://nikkiforcongress.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://nikkiforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://nikkiforcongress.com/facebook"
+},
+{
+"text": "Home",
+"href": "https://nikkiforcongress.com"
+},
+{
+"text": "Home",
+"href": "https://nikkiforcongress.com/"
+},
+{
+"text": "Instagram",
+"href": "https://nikkiforcongress.com/instagram"
+},
+{
+"text": "Issues",
+"href": "https://nikkiforcongress.com/issues"
+},
+{
+"text": "Issues",
+"href": "https://nikkiforcongress.com/issues/"
+},
+{
+"text": "LEARN MORE LEARN MORE",
+"href": "https://nikkiforcongress.com/about"
+},
+{
+"text": "Media",
+"href": "https://nikkiforcongress.com/media-center"
+},
+{
+"text": "Meet Nikki",
+"href": "https://nikkiforcongress.com/about"
+},
+{
+"text": "Meet Nikki",
+"href": "https://nikkiforcongress.com/about/"
+},
+{
+"text": "News",
+"href": "https://nikkiforcongress.com/news"
+},
+{
+"text": "News",
+"href": "https://nikkiforcongress.com/news/"
+},
+{
+"text": "On the Issues On the Issues",
+"href": "https://nikkiforcongress.com/issues"
+},
+{
+"text": "Organize",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf7zW1e5x8VoIcGduFWV_xVkD5DlTSn_voXT0PcwJYMnR0obw/viewform?usp=sharing"
+},
+{
+"text": "POWERED BY APOLLO",
+"href": "http://apolloartistry.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nikkiforcongress.com/privacy-policy"
+},
+{
+"text": "Share Nikki’s Work on Social Media",
+"href": "https://nikkiforcongress.com/#social"
+},
+{
+"text": "Take Action",
+"href": "https://nikkiforcongress.com/take-action"
+},
+{
+"text": "Take Action Take Action",
+"href": "https://nikkiforcongress.com/take-action"
+},
+{
+"text": "VISIT OUR ACTION CENTER",
+"href": "https://nikkiforcongress.com/take-action"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf7zW1e5x8VoIcGduFWV_xVkD5DlTSn_voXT0PcwJYMnR0obw/viewform"
+},
+{
+"text": "X-twitter",
+"href": "https://nikkiforcongress.com/twitter"
+},
+{
+"text": "Youtube",
+"href": "https://nikkiforcongress.com/youtube"
+},
+{
+"text": "[email protected]",
+"href": "https://nikkiforcongress.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "https://nikkiforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://nikkiforcongress.com/twitter"
+}
 ]

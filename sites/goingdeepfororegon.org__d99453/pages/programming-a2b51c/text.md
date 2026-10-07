@@ -1,14 +1,11 @@
-A Nerd's Nerd
-My Life as a Programmer
-Relentless Logic
-I started programming long ago, in 1975.
+Donate Menu Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map A Nerd's Nerd My Life as a Programmer Relentless Logic I started programming long ago, in 1975.
 I wrote a lunar lander program in Basic on a teletype terminal (probably ASR-33) to a minicomputer (PDP-8) at Hillsboro High School.
 My first programming class at MIT was in FORTRAN, using punch cards.
-The Internet’s predecessor, Arpanet, was at MIT already.
+The Internet’s predecessor, Arpanet , was at MIT already.
 I spent too many hours playing Zork, and chatting with people like Science Fiction legend Jerry Pournelle; I still have the green bar paper output from one of our chats in 1979.
 Of course, it wasn’t on a phone.
 To be online I had to be at the LA 36 terminal in my dormitory.
-In 1981, I had a job as a computer operator for the EPA, backing up PDP-11 data onto reel-to-reel tapes and swapping out Bundt-cake sized hard disk arrays that contained… five megabytes.
+Jerry Pournelle’s ARPANET account info In 1981, I had a job as a computer operator for the EPA, backing up PDP-11 data onto reel-to-reel tapes and swapping out Bundt-cake sized hard disk arrays that contained… five megabytes.
 By 1985 I had a job as a business manager, with a 640K RAM i80186 [yes, 80186] PC clone running DOS 3.1 with a 30 MB hard drive.
 In 1995 I designed and built my first website for Natural MicroSystems.
 I spent most of the next quarter century designing and building custom web applications for in-house use by Intel, PGE, Vestas, Nike, FEI, and Radisys.
@@ -35,3 +32,5 @@ I’m having to run faster and faster to stay in place.
 If I turn off the automatic updates, I get annoying pop-ups urging me to upgrade until the old version is de-supported and fails to work altogether.
 While a long-term problem, the upgrade cycle is the software version of pebbles in your shoes – annoying, but rarely causing serious harm.
 It does take mindshare, though, that used to be spent elsewhere in real life.
+Stay up to date Follow me on the campaign trail!
+Email Subscribe Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Donate Accessibility Statement Contact Site Map Campaign Disclaimer TBD 123 Main Street Anytown, OR 12345 Going Deep for Oregon © #

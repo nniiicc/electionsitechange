@@ -1,4 +1,4 @@
-Florida Chamber of Commerce Endorses Liesa Priddy for Florida House
-The Florida Chamber of Commerce has rolled out its second round of 2026 legislative endorsements.
-“We believe these candidates possess the leadership needed to continue Florida’s economic momentum and execute our blueprint to build a top 10 global economy and deliver the more than 785,000 new jobs needed by 2030,” said Florida Chamber President and CEO Mark Wilson.
-The House endorsements include…Liesa Priddy (HD 82).
+0 Skip to Content Home Q & A with Liesa Priddy News Endorsements Photo Gallery Join Liesa Donate Open Menu Close Menu Home Q & A with Liesa Priddy News Endorsements Photo Gallery Join Liesa Donate Open Menu Close Menu Home Q & A with Liesa Priddy News Endorsements Photo Gallery Join Liesa Donate Florida Chamber of Commerce Endorses Liesa Priddy for Florida House Jul 13 Written By JJ Whitson The Florida Chamber of Commerce has rolled out its second round of 2026 legislative endorsements.
+“We believe these candidates possess the leadership needed to continue Florida’s economic momentum and execute our blueprint to build a top 10 global economy and deliver the more than 785,000 new jobs needed by 2030,” said Florida Chamber President and CEO Mark Wilson .
+The House endorsements include… Liesa Priddy (HD 82).
+Read more JJ Whitson Previous Previous SWFL rancher, Florida House candidate Liesa Priddy shares vision, focus on affordability Next Next Wilton Simpson backs ‘principled conservative’ Liesa Priddy in HD 82 Privacy Policy Terms & Conditions Paid by Liesa Priddy, Republican, for Florida House Facebook Subscribe to Texts ‍

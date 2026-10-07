@@ -1,1 +1,1 @@
-“The Professional Firefighters of Nevada proudly Endorse Lisa Krasner for the NV State Senate District 16 Seat.”
+Home Donate Meet Lisa Issues Contact Lisa BLOG Lisa Krasner for Nevada NV State Senator Lisa Krasner Home Donate Meet Lisa Issues Contact Lisa BLOG ENDORSED- Lisa Krasner is Endorsed By The Professional FireFighters of Nevada Tuesday, May 17 th, 2022 “The Professional Firefighters of Nevada proudly Endorse Lisa Krasner for the NV State Senate District 16 Seat.” PAID FOR BY LISA KRASNER FOR NEVADA

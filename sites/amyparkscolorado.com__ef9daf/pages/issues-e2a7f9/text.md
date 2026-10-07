@@ -1,5 +1,4 @@
-- L O V E L A N D On the Issues
-- Why I'm Running Colorado is at a crossroads.
+Home Endorsements Meet Amy Issues Volunteer Opportunities … Home Endorsements Meet Amy Issues Volunteer Opportunities Donate Home Endorsements Meet Amy Issues Volunteer Opportunities … Home Endorsements Meet Amy Issues Volunteer Opportunities Donate L O V E L A N D On the Issues Why I'm Running Colorado is at a crossroads.
 After years of single-party control at the Capitol, families, employers, and entire industries are feeling the consequences.
 The cost of living continues to climb.
 Good-paying jobs are leaving.
@@ -24,7 +23,7 @@ I'm running because water, agriculture, and oil & gas are essential to Colorado'
 These industries feed our families, power our homes, and sustain communities.
 They deserve support, not policies that push them toward extinction and drive up costs for families.
 Loveland deserves a steady, reliable voice at the Capitol.
-- Issues Affordability This will be my highest priority as your representative.
+Issues Affordability This will be my highest priority as your representative.
 I will fight to keep the government out of your pocket.
 You, not politicians, should decide how to spend your hard-earned money.
 Bad policy has led to a bloated government and higher prices for everything, including the food on your table, heat for your home, and the roof over your head.

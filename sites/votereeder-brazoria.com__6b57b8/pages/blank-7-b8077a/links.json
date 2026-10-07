@@ -1,10 +1,74 @@
 [
-"https://app.smartsheet.com/b/form/12377c9c74cb48cd9908177b6f95e53f",
-"https://app.smartsheet.com/b/form/d6a8eb145e534f89a2e65eb0f33c4f20",
-"https://secure.actblue.com/donate/votereeder",
-"https://votereeder-brazoria.com/",
-"https://votereeder-brazoria.com/blank-1",
-"https://votereeder-brazoria.com/blank-6",
-"https://votereeder-brazoria.com/blank-7",
-"https://votereeder-brazoria.com/event-list"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/votereeder"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/votereeder"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/votereeder"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/votereeder"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/votereeder"
+},
+{
+"text": "CONTACT US",
+"href": "https://app.smartsheet.com/b/form/d6a8eb145e534f89a2e65eb0f33c4f20"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/votereeder"
+},
+{
+"text": "Donate",
+"href": "https://www.votereeder-brazoria.com/blank-7"
+},
+{
+"text": "EVENTS",
+"href": "https://www.votereeder-brazoria.com/event-list"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://app.smartsheet.com/b/form/12377c9c74cb48cd9908177b6f95e53f"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.votereeder-brazoria.com/blank-7"
+},
+{
+"text": "HOME",
+"href": "https://www.votereeder-brazoria.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.votereeder-brazoria.com/blank-1"
+},
+{
+"text": "MEET KAREN",
+"href": "https://www.votereeder-brazoria.com/blank-6"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/votereeder"
+},
+{
+"text": "Sign Up Now",
+"href": "https://app.smartsheet.com/b/form/12377c9c74cb48cd9908177b6f95e53f"
+},
+{
+"text": "[image: KAREN_FINAL_LOGOS.png]",
+"href": "https://www.votereeder-brazoria.com"
+},
+{
+"text": "info@votereeder-brazoria.com",
+"href": "mailto:info@votereeder-brazoria.com"
+}
 ]

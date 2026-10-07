@@ -1,87 +1,40 @@
-Kimberly Overman
-for Congress
-Privacy Policy & Terms of Service
-Privacy Policy & Terms of Service
-Last Updated: May 4, 2026
-This Privacy Policy explains how Overman for Congress (“Campaign”, “we” or “us”) collects, uses, and discloses information about you when you access or use our websites, mobile sites, and mobile applications that link to this Privacy Policy (collectively, the “Site”).
+Skip to content Skip to content Skip to footer Home Meet Kimberly The Issues Kimberly On Substack News & Events In the News Press Releases Endorsements Events Contact Home Meet Kimberly The Issues Kimberly On Substack News & Events In the News Press Releases Endorsements Events Contact Facebook Linkedin X-twitter Volunteer Contribute Home Meet Kimberly The Issues Kimberly On Substack News & Events In the News Press Releases Endorsements Events Contact Home Meet Kimberly The Issues Kimberly On Substack News & Events In the News Press Releases Endorsements Events Contact Kimberly Overman for Congress Privacy Policy & Terms of Service Privacy Policy & Terms of Service Last Updated: May 4, 2026 This Privacy Policy explains how Overman for Congress (“Campaign”, “we” or “us”) collects, uses, and discloses information about you when you access or use our websites, mobile sites, and mobile applications that link to this Privacy Policy (collectively, the “Site”).
 This Privacy Policy applies to SMS and MMS texts from the Campaign.
 We may change this Privacy Policy from time to time.
 If we make changes, we will notify you by revising the date at the top of the policy, and, in some cases, we may provide you with additional notice (such as adding a statement to our website homepage or sending you a notification).
 We encourage you to review the Privacy Policy whenever you access the Site or otherwise interact with us to stay informed about our information practices and the choices available to you.
-Collection of Information
-Information You Provide to Us
-We collect information you provide directly to us.
+Collection of Information Information You Provide to Us We collect information you provide directly to us.
 For example, we collect information when you sign up to receive updates, request information, fill out a form, sign a petition, sign up as a volunteer, sign up for an event, make a donation or purchase, send us an email, or otherwise communicate with us.
 The types of information we may collect include your name, contact information (such as email address, postal address, and phone number), credit card and other payment information (although payment information may be collected directly by a third-party processor), and any other information you choose to provide.
 In addition, the Federal Election Commission (FEC) may require us to collect certain personal information from donors.
 For example, the FEC requires us to collect (and disclose to them) the name, mailing address, occupation, and employer of all individuals whose donations to the Campaign exceed $200 per election cycle.
-Automatically Collected Information
-When you access or use our Site, we automatically collect information about you, including:
-- Log and Usage Information: We collect information related to your access to and use of the Site, including the type of browser you use, app version, access times, pages viewed, your IP address, and the page you visited before navigating to our Site.
-- Device Information: We collect information about the computer or mobile device you use to access our Site, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
-- Transactional Information: If you make a donation or purchase, we may collect information about the transaction, such as donation amount, purchase price, product details, and date and location of the transaction.
-- Location Information: We may derive the approximate location of your device, such as from your IP address.
-- Information Collected by Cookies and Similar Tracking Technologies: We (and our service providers) use different technologies to collect information, including cookies and web beacons.
+Automatically Collected Information When you access or use our Site, we automatically collect information about you, including: Log and Usage Information : We collect information related to your access to and use of the Site, including the type of browser you use, app version, access times, pages viewed, your IP address, and the page you visited before navigating to our Site.
+Device Information : We collect information about the computer or mobile device you use to access our Site, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
+Transactional Information : If you make a donation or purchase, we may collect information about the transaction, such as donation amount, purchase price, product details, and date and location of the transaction.
+Location Information : We may derive the approximate location of your device, such as from your IP address.
+Information Collected by Cookies and Similar Tracking Technologies : We (and our service providers) use different technologies to collect information, including cookies and web beacons.
 Cookies are small data files stored on your hard drive or in device memory that help us improve our Site and your experience, see which areas and features of our Site are popular, and count visits.
 Web beacons (also known as “pixel tags” or “clear GIFs”) are electronic images that may be used in our Site or emails and help deliver cookies, count visits, and understand usage and campaign effectiveness.
 For more information about cookies and how to disable them, see Your Choices below.
-Information We Collect From Other Sources
-We and our service providers may also obtain information about you from other sources and combine that with information we collect about you on our Site.
+Information We Collect From Other Sources We and our service providers may also obtain information about you from other sources and combine that with information we collect about you on our Site.
 We may collect your name, phone number, and indication of consent to receive text (SMS and MMS).
-Use of Information
-We may use the information we collect to:
-- Provide, maintain and improve our Site;
-- Provide and deliver the information you request, process donations and transactions, and send you related information;
-- Send you technical notices, updates, security alerts, and support and administrative messages and provide technical support;
-- Respond to your emails, comments, questions and requests; request feedback or support, and otherwise contact you about your participation in the campaign and use of the Site;
-- Communicate with you about the campaign, such as sending you information to keep you informed about various issues, events, activities, and volunteer opportunities and soliciting volunteers, donations and support for the Campaign;
-- Provide news and information we think will be of interest to you, remind you to vote and register to vote, and assist you in finding your registration information and polling location;
-- Comply with our legal and financial obligations, including contacting you if Federal election laws require us to request additional information from you;
-- Facilitate contests, sweepstakes, and promotions and process and deliver entries and rewards;
-- Monitor and analyze trends, usage, and activities in connection with our Site, personalize the Site, and provide advertisements, content or features based on your preferences, interests, browsing and online activities;
-- Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of the Campaign and others; and
-- Carry out any other purpose described to you at the time the information was collected.
-Sharing of Information
-We may share information about you as follows or as otherwise described in this Privacy Policy:
-- With vendors, service providers, volunteers, and consultants who need access to such information to carry out work on our behalf;
-- With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals and with organizations that facilitate communications and information sharing among such groups (provided this does not apply to opt-in information for SMS text programs);
-- To report required information to the Federal Elections Commission, including name, mailing address, occupation, and name of employers of individuals whose contributions exceed $200 in an election cycle (for additional information, visit the FEC website at https://www.fec.gov);
-- To confirm consent to receive text (SMS and MMS);
-- In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process;
-- When we believe in good faith that disclosure is necessary to comply with law or respond to lawful requests;
-- If we believe your actions are inconsistent with our policies, or to protect the rights, property, and safety of the Campaign or others;
-- In connection with any reorganization, successor organization, or asset transfer;
-- With your consent or at your direction.
+Use of Information We may use the information we collect to: Provide, maintain and improve our Site; Provide and deliver the information you request, process donations and transactions, and send you related information; Send you technical notices, updates, security alerts, and support and administrative messages and provide technical support; Respond to your emails, comments, questions and requests; request feedback or support, and otherwise contact you about your participation in the campaign and use of the Site; Communicate with you about the campaign, such as sending you information to keep you informed about various issues, events, activities, and volunteer opportunities and soliciting volunteers, donations and support for the Campaign; Provide news and information we think will be of interest to you, remind you to vote and register to vote, and assist you in finding your registration information and polling location; Comply with our legal and financial obligations, including contacting you if Federal election laws require us to request additional information from you; Facilitate contests, sweepstakes, and promotions and process and deliver entries and rewards; Monitor and analyze trends, usage, and activities in connection with our Site, personalize the Site, and provide advertisements, content or features based on your preferences, interests, browsing and online activities; Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of the Campaign and others; and Carry out any other purpose described to you at the time the information was collected.
+Sharing of Information We may share information about you as follows or as otherwise described in this Privacy Policy: With vendors, service providers, volunteers, and consultants who need access to such information to carry out work on our behalf; With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals and with organizations that facilitate communications and information sharing among such groups (provided this does not apply to opt-in information for SMS text programs); To report required information to the Federal Elections Commission, including name, mailing address, occupation, and name of employers of individuals whose contributions exceed $200 in an election cycle (for additional information, visit the FEC website at https://www.fec.gov); To confirm consent to receive text (SMS and MMS); In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process; When we believe in good faith that disclosure is necessary to comply with law or respond to lawful requests; If we believe your actions are inconsistent with our policies, or to protect the rights, property, and safety of the Campaign or others; In connection with any reorganization, successor organization, or asset transfer; With your consent or at your direction.
 We may also share aggregated or de-identified information that cannot reasonably be used to identify you.
-Mobile Terms of Service
-If you subscribe to any text program that the Campaign makes available:
-- The Campaign provides subscribers with periodic campaign updates and fundraising asks.
-- You can cancel at any time by texting “STOP.”
-- For help, reply “HELP” or email vote@kimberlyoverman.com.
-- Message and data rates may apply.
-- Carriers are not liable for delayed or undelivered messages.
-Your Choices
-Account Information
-You may request that we update, correct, or delete the information you provide to us by emailing us at vote@kimberlyoverman.com.
-Cookies
-Most browsers accept cookies by default.
-You may adjust settings to remove or reject them.
-Promotional Communications
-You may opt out of promotional emails or texts by following the instructions in those communications.
-Mobile Push Notifications/Alerts
-With your consent, we may send notifications.
+Mobile Terms of Service If you subscribe to any text program that the Campaign makes available: The Campaign provides subscribers with periodic campaign updates and fundraising asks.
+You can cancel at any time by texting “STOP.” For help, reply “HELP” or email vote@kimberlyoverman.com .
+Message and data rates may apply.
+Carriers are not liable for delayed or undelivered messages.
+Your Choices Account Information You may request that we update, correct, or delete the information you provide to us by emailing us at vote@kimberlyoverman.com .
+Cookies Promotional Communications You may opt out of promotional emails or texts by following the instructions in those communications.
+Mobile Push Notifications/Alerts With your consent, we may send notifications.
 You can disable these in your device settings.
-Contact Us
-If you have any questions about this Privacy Policy and Terms of Service, please contact us at:
-Overman for Congress
-4610 Central Avenue
-Tampa, FL 33603-3904
-Telephone: 813-720-7719
-email: vote@kimberlyoverman.com
-Fuel a campaign powered by people, not special interests.
+Contact Us If you have any questions about this Privacy Policy and Terms of Service, please contact us at: Overman for Congress 4610 Central Avenue Tampa, FL 33603-3904 Telephone: 813-720-7719 email: vote@kimberlyoverman.com Fuel a campaign powered by people, not special interests.
 Your support helps us connect with voters, grow our movement, and deliver real change.
 Chip in today to help Kimberly fight for Florida’s families and future.
-This movement starts
-with you.
+Contribute This movement starts with you.
 Whether you can knock doors, make calls, or share our message online—there’s a place for you on Team Overman.
 Sign up and help us bring integrity and results back to Congress.
+Volunteer Stay Informed Florida District 12 Linkedin Instagram Links Home Meet Kimberly Issues In the News Kimberly on Substack Press Releases Events Contact Contribute Privacy Get in touch vote@KimberlyOverman.com Overman for Congress 4610 Central Avenue Tampa, FL 33603-3904 813-720-7719 © #.
+All Rights Reserved.
+Paid For by Overman for Congress English Español

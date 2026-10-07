@@ -1,26 +1,106 @@
 [
-"https://google.com/maps/d/u/0/viewer?mid=1L7I2r4gat9nRWx9wfaizpn7XkA7i1qL4&shorturl=1&ll=42.05425811045367%2C-87.98704242750844&z=12",
-"https://google.com/url?q=https%3A%2F%2Fova.elections.il.gov%2FRegistrationLookup.aspx&sa=D&sntz=1&usg=AOvVaw0HwHsawAz-98whPYIbfmle",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fnicolle-grasse-for-state-representative-1&sa=D&sntz=1&usg=AOvVaw0Ejmhvi0WlNQsXS6IARGpI",
-"https://google.com/url?q=https%3A%2F%2Fwww.chicagotribune.com%2F2024%2F06%2F06%2Farlington-heights-trustee-to-also-serve-as-53rd-district-state-rep-after-being-appointed-to-the-post%2F&sa=D&sntz=1&usg=AOvVaw3favxXHDc4hdjVPTq23ANn",
-"https://google.com/url?q=https%3A%2F%2Fwww.chicagotribune.com%2F2024%2F10%2F25%2Feditorial-illinois-house-endorsements-election-3%2F&sa=D&sntz=1&usg=AOvVaw3SKdGAqA9GCyas3LmQ393d",
-"https://google.com/url?q=https%3A%2F%2Fwww.dailyherald.com%2F20241010%2Fendorsements%2Fendorsement-grasse-for-illinois-house-district-53%2F&sa=D&sntz=1&usg=AOvVaw1qB-Zdp1X9tyUuodqgs9v9",
-"https://google.com/url?q=https%3A%2F%2Fwww.dailyherald.com%2F20260603%2Fnews%2Fbears-budget-and-other-bills-legislators-discuss-recent-session-at-mount-prospect-chamber-event%2F&sa=D&sntz=1&usg=AOvVaw13kJsZlzT8pnq_krqsvOYm",
-"https://google.com/url?q=https%3A%2F%2Fwww.dailyherald.com%2F20260928%2Fsubmitted-content%2Fleague-to-host-candidate-forum-for-state-legislative-races%2F&sa=D&sntz=1&usg=AOvVaw1UseQPjif99-1-Xzr1MjeB",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61563474395072&sa=D&sntz=1&usg=AOvVaw2DVrwc-hbf-1dKpdjsLH7u",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fgrasseforstaterep%2F&sa=D&sntz=1&usg=AOvVaw1WYWukEDV_xlBUEF9gyOnr",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fp%2FDWcrx7dEZqe%2F%3Futm_source%3Dig_web_copy_link%26igsh%3DMzRlODBiNWFlZA%3D%3D&sa=D&sntz=1&usg=AOvVaw076SG2Z4sao93IAxSuU8S_",
-"https://google.com/url?q=https%3A%2F%2Fwww.journal-topics.com%2Farticles%2Fjournal-topics-endorsements-for-congress-illinois-house-senate%2F&sa=D&sntz=1&usg=AOvVaw3hReJh7h908zwV0qRscnvA",
-"https://google.com/url?q=https%3A%2F%2Fwww.threads.net%2F%40grasseforstaterep5353&sa=D&sntz=1&usg=AOvVaw0uQIEb7Hq4E4WOoig1BUNz",
-"https://grasseforstaterep.com/about",
-"https://grasseforstaterep.com/about/about-nicolle",
-"https://grasseforstaterep.com/about/qualifications",
-"https://grasseforstaterep.com/beliefs-to-action",
-"https://grasseforstaterep.com/endorsements",
-"https://grasseforstaterep.com/get-involved",
-"https://grasseforstaterep.com/get-involved/request-a-yard-sign",
-"https://grasseforstaterep.com/get-involved/volunteer",
-"https://grasseforstaterep.com/home",
-"https://grasseforstaterep.com/legislation",
-"https://grasseforstaterep.com/privacy-policy"
+{
+"text": "About",
+"href": "https://www.grasseforstaterep.com/about"
+},
+{
+"text": "About Nicolle",
+"href": "https://www.grasseforstaterep.com/about/about-nicolle"
+},
+{
+"text": "Beliefs to Action",
+"href": "https://www.grasseforstaterep.com/beliefs-to-action"
+},
+{
+"text": "Check My Voter Registration",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fova.elections.il.gov%2FRegistrationLookup.aspx&sa=D&sntz=1&usg=AOvVaw0HwHsawAz-98whPYIbfmle"
+},
+{
+"text": "Chicago Tribune Oct. 25, 2024",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.chicagotribune.com%2F2024%2F10%2F25%2Feditorial-illinois-house-endorsements-election-3%2F&sa=D&sntz=1&usg=AOvVaw3SKdGAqA9GCyas3LmQ393d"
+},
+{
+"text": "Daily Herald Oct. 10, 2024",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.dailyherald.com%2F20241010%2Fendorsements%2Fendorsement-grasse-for-illinois-house-district-53%2F&sa=D&sntz=1&usg=AOvVaw1qB-Zdp1X9tyUuodqgs9v9"
+},
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fnicolle-grasse-for-state-representative-1&sa=D&sntz=1&usg=AOvVaw0Ejmhvi0WlNQsXS6IARGpI"
+},
+{
+"text": "Endorsements",
+"href": "https://www.grasseforstaterep.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.grasseforstaterep.com/get-involved"
+},
+{
+"text": "GrasseForStateRep",
+"href": "https://www.grasseforstaterep.com/home"
+},
+{
+"text": "Home",
+"href": "https://www.grasseforstaterep.com/home"
+},
+{
+"text": "Journal & Topics Oct. 30, 2024",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.journal-topics.com%2Farticles%2Fjournal-topics-endorsements-for-congress-illinois-house-senate%2F&sa=D&sntz=1&usg=AOvVaw3hReJh7h908zwV0qRscnvA"
+},
+{
+"text": "Legislation",
+"href": "https://www.grasseforstaterep.com/legislation"
+},
+{
+"text": "Nicolle Grasse on Instagram: \"To me, “No Kings” means upholding the fundamental belief on which our country was founded: that we do not bow to a king. We live in a democracy, and we will not be intimidated by the Trump Administration’s tactics. Arlington Heights, Mount Prospect, and Palatine showed up in huge crowds, and I am proud of our community for coming together in peaceful protest. #nokings\"grasseforstaterep on March 28, 2026: \"To me, “No Kings” means upholding the fundamental belief on which our country was founded: that we do not bow to a king. We live in a democracy, and we will not be intimidated by the Trump Administration’s tactics. Arlington Heights, Mount Prospect, and Palatine showed up in huge crowds, and I am proud of our community for coming together in peaceful protest. #nokings\".",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fp%2FDWcrx7dEZqe%2F%3Futm_source%3Dig_web_copy_link%26igsh%3DMzRlODBiNWFlZA%3D%3D&sa=D&sntz=1&usg=AOvVaw076SG2Z4sao93IAxSuU8S_"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.grasseforstaterep.com/privacy-policy"
+},
+{
+"text": "Qualifications",
+"href": "https://www.grasseforstaterep.com/about/qualifications"
+},
+{
+"text": "Request A Yard Sign",
+"href": "https://www.grasseforstaterep.com/get-involved/request-a-yard-sign"
+},
+{
+"text": "Volunteer",
+"href": "https://www.grasseforstaterep.com/get-involved/volunteer"
+},
+{
+"text": "[image: Email]",
+"href": "mailto:grasseforstaterep@gmail.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61563474395072&sa=D&sntz=1&usg=AOvVaw2DVrwc-hbf-1dKpdjsLH7u"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fgrasseforstaterep%2F&sa=D&sntz=1&usg=AOvVaw1WYWukEDV_xlBUEF9gyOnr"
+},
+{
+"text": "[image: Link]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.threads.net%2F%40grasseforstaterep5353&sa=D&sntz=1&usg=AOvVaw0uQIEb7Hq4E4WOoig1BUNz"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/maps/d/u/0/viewer?mid=1L7I2r4gat9nRWx9wfaizpn7XkA7i1qL4&shorturl=1&ll=42.05425811045367%2C-87.98704242750844&z=12"
+},
+{
+"text": "[image]Arlington Heights trustee to also serve as 53rd District state rep after being appointed to the postAnother Arlington Heights trustee will exit the Village Board headed for the General Assembly, with Nicolle Grasse picked Wednesday to replace Mark Walker as state representative of the 53rd Distri…",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.chicagotribune.com%2F2024%2F06%2F06%2Farlington-heights-trustee-to-also-serve-as-53rd-district-state-rep-after-being-appointed-to-the-post%2F&sa=D&sntz=1&usg=AOvVaw3favxXHDc4hdjVPTq23ANn"
+},
+{
+"text": "[image]Bears, budget and other bills: Legislators discuss recent session at Mount Prospect chamber eventA trio of legislators spoke about the recent General Assembly session at a breakfast Wednesday hosted by the Mount Prospect Chamber of Commerce at the Old Orchard Country Club. Not surprisingly, the B...",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.dailyherald.com%2F20260603%2Fnews%2Fbears-budget-and-other-bills-legislators-discuss-recent-session-at-mount-prospect-chamber-event%2F&sa=D&sntz=1&usg=AOvVaw13kJsZlzT8pnq_krqsvOYm"
+},
+{
+"text": "[image]League to host candidate forum for state legislative racesThe League of Women Voters of the Arlington Heights, Mount Prospect, Buffalo Grove Area is hosting candidate forums for the state House of Representatives Districts 53 and 54 and the state Senate Di...",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.dailyherald.com%2F20260928%2Fsubmitted-content%2Fleague-to-host-candidate-forum-for-state-legislative-races%2F&sa=D&sntz=1&usg=AOvVaw1UseQPjif99-1-Xzr1MjeB"
+}
 ]

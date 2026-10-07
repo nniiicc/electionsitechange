@@ -1,16 +1,62 @@
 [
-"https://burkeforpa147.vote/",
-"https://burkeforpa147.vote/endorsements",
-"https://burkeforpa147.vote/pa-147",
-"https://burkeforpa147.vote/priorities",
-"https://burkeforpa147.vote/volunteer",
-"https://burkeforpa147.vote/voting-1",
-"https://facebook.com/profile.php?id=61584455714544",
-"https://instagram.com/burkeforpa",
-"https://mobilize.us/mobilize/event/979768",
-"https://mobilize.us/montgomerycountydemocraticcommittee/event/989474?referring_vol=1231719&share_context=dashboard-event-details&sharer_role=2",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/friends-of-margaret-burke-1",
-"https://x.com/burkeforPA"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-margaret-burke-1"
+},
+{
+"text": "Endorsements",
+"href": "https://burkeforpa147.vote/endorsements"
+},
+{
+"text": "Home",
+"href": "https://burkeforpa147.vote/"
+},
+{
+"text": "PA 147",
+"href": "https://burkeforpa147.vote/pa-147"
+},
+{
+"text": "Priorities",
+"href": "https://burkeforpa147.vote/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://burkeforpa147.vote/volunteer"
+},
+{
+"text": "Voting",
+"href": "https://burkeforpa147.vote/voting-1"
+},
+{
+"text": "[image: Friends of Margaret Burke]",
+"href": "https://burkeforpa147.vote/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584455714544"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/burkeforpa/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/burkeforPA"
+},
+{
+"text": "https://www.mobilize.us/mobilize/event/979768/",
+"href": "https://www.mobilize.us/mobilize/event/979768/"
+},
+{
+"text": "https://www.mobilize.us/montgomerycountydemocraticcommittee/event/989474/?referring_vol=1231719&share_context=dashboard-event-details&sharer_role=2",
+"href": "https://www.mobilize.us/montgomerycountydemocraticcommittee/event/989474/?referring_vol=1231719&share_context=dashboard-event-details&sharer_role=2"
+}
 ]

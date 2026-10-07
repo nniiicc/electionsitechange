@@ -1,70 +1,278 @@
 [
-"https://bernieperryman.com/",
-"https://bernieperryman.com/about",
-"https://bernieperryman.com/articles",
-"https://bernieperryman.com/articles/2026-legislative-session",
-"https://bernieperryman.com/articles/accountability-in-state-programs",
-"https://bernieperryman.com/articles/aed-bill",
-"https://bernieperryman.com/articles/affordability-bills",
-"https://bernieperryman.com/articles/affordability-for-minnesotans",
-"https://bernieperryman.com/articles/affordability-package",
-"https://bernieperryman.com/articles/affordable-minnesota",
-"https://bernieperryman.com/articles/anti-fraud-bill-passes-house",
-"https://bernieperryman.com/articles/bills-on-affordability",
-"https://bernieperryman.com/articles/bipartisan-budget-agreement",
-"https://bernieperryman.com/articles/bringing-balance-to-the-capitol",
-"https://bernieperryman.com/articles/budget-notes",
-"https://bernieperryman.com/articles/candidacy-for-minnesota-senate",
-"https://bernieperryman.com/articles/combating-fraud-in-state-programs",
-"https://bernieperryman.com/articles/confidentially-report-suspected-fraud",
-"https://bernieperryman.com/articles/education-rally",
-"https://bernieperryman.com/articles/emergency-powers",
-"https://bernieperryman.com/articles/happy-easter-2026",
-"https://bernieperryman.com/articles/make-minnesota-affordable",
-"https://bernieperryman.com/articles/make-minnesota-affordable-package",
-"https://bernieperryman.com/articles/minnesota-fraud-whistleblower-portal",
-"https://bernieperryman.com/articles/new-economic-forecast",
-"https://bernieperryman.com/articles/new-session",
-"https://bernieperryman.com/articles/new-whistleblower-website",
-"https://bernieperryman.com/articles/oath-of-office",
-"https://bernieperryman.com/articles/oig-bill",
-"https://bernieperryman.com/articles/operation-christmas-card",
-"https://bernieperryman.com/articles/oversight-problems-and-patterns",
-"https://bernieperryman.com/articles/paid-leave-impacting-businesses",
-"https://bernieperryman.com/articles/preparing-for-new-worker-leave-program",
-"https://bernieperryman.com/articles/preserving-girls-sports-act",
-"https://bernieperryman.com/articles/program-oversight",
-"https://bernieperryman.com/articles/protecting-our-communities",
-"https://bernieperryman.com/articles/protecting-our-local-communities",
-"https://bernieperryman.com/articles/public-schools-week",
-"https://bernieperryman.com/articles/ready-to-roll",
-"https://bernieperryman.com/articles/state-economic-forecast",
-"https://bernieperryman.com/articles/state-of-the-state",
-"https://bernieperryman.com/articles/stop-the-fraud",
-"https://bernieperryman.com/articles/summary-of-pfml",
-"https://bernieperryman.com/articles/supporting-women-and-children",
-"https://bernieperryman.com/articles/surplus-dollars-to-taxpayers",
-"https://bernieperryman.com/articles/tax-relief",
-"https://bernieperryman.com/articles/trusted-contact",
-"https://bernieperryman.com/articles/virtual-currency-bill",
-"https://bernieperryman.com/articles/whistleblower-protection-bill",
-"https://bernieperryman.com/audio-ad-transcripts",
-"https://bernieperryman.com/bills",
-"https://bernieperryman.com/contact",
-"https://bernieperryman.com/donate",
-"https://bernieperryman.com/events",
-"https://bernieperryman.com/photos",
-"https://bernieperryman.com/priorities-survey",
-"https://bernieperryman.com/voting",
-"https://facebook.com/bernieforsenate",
-"https://flickr.com/photos/196266196@N04/with/54942125272",
-"https://house.mn.gov/members/profile/news/15599/50281",
-"https://instagram.com/bernieforsenate",
-"https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.house.mn.gov%2Fcco%2Fgeneralreg.asp/1/0100019d9bd9ed2e-e4a1c5db-5d9d-4dfa-b3f9-460903795a15-000000/8AB8Y7UVsOEBGgDqlu5mLz6NF-tloSrvDkqN1K5Zv4o=452",
-"https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.revisor.mn.gov%2Fbills%2F94%2F2026%2F0%2FHF%2F3709%2F%3Fbody=House/1/0100019de3f8bc11-f0e7dc94-1905-4065-b81a-2236b8a9a95a-000000/954uctRqeAkIdPd7O8GpEAczZKz5oEjQsf1_awYj_Vc=452",
-"https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.revisor.mn.gov%2Fbills%2F94%2F2026%2F0%2FHF%2F4502%2F%3Fbody=House/1/0100019dc10c846d-8ec14db0-ad58-419a-8832-c53bc206ae1b-000000/Q790lnzAG0_-EZ6lFSPKaA8fwScJi24s8k6VVo4lvjs=452",
-"https://mnhouserepublicans.com/whistleblower-portal",
-"https://x.com/bernieforsenate",
-"https://youtu.be/FDCJdKhqB9E?si=KxCSEqtF6FkgWWe5&t=7529",
-"https://youtube.com/@BerniePerryman"
+{
+"text": "2026 Legislative Session",
+"href": "https://bernieperryman.com/articles/2026-legislative-session/"
+},
+{
+"text": "About",
+"href": "https://bernieperryman.com/about/"
+},
+{
+"text": "Accountability in State Programs",
+"href": "https://bernieperryman.com/articles/accountability-in-state-programs/"
+},
+{
+"text": "Affordability bills",
+"href": "https://bernieperryman.com/articles/affordability-bills/"
+},
+{
+"text": "Affordability package",
+"href": "https://bernieperryman.com/articles/affordability-package/"
+},
+{
+"text": "Anti-Fraud Bill Passes House",
+"href": "https://bernieperryman.com/articles/anti-fraud-bill-passes-house/"
+},
+{
+"text": "Articles",
+"href": "https://bernieperryman.com/articles/"
+},
+{
+"text": "Audio Ad Transcripts",
+"href": "https://bernieperryman.com/audio-ad-transcripts/"
+},
+{
+"text": "Bills",
+"href": "https://bernieperryman.com/bills/"
+},
+{
+"text": "Bills on Affordability",
+"href": "https://bernieperryman.com/articles/bills-on-affordability/"
+},
+{
+"text": "Contact",
+"href": "https://bernieperryman.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://bernieperryman.com/donate/"
+},
+{
+"text": "Economic Forecast",
+"href": "https://bernieperryman.com/articles/affordability-for-minnesotans/"
+},
+{
+"text": "Events",
+"href": "https://bernieperryman.com/events/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/bernieforsenate"
+},
+{
+"text": "Follow",
+"href": "https://www.flickr.com/photos/196266196@N04/with/54942125272/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/bernieforsenate/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@BerniePerryman"
+},
+{
+"text": "Follow",
+"href": "https://x.com/bernieforsenate"
+},
+{
+"text": "General Register",
+"href": "https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.house.mn.gov%2Fcco%2Fgeneralreg.asp/1/0100019d9bd9ed2e-e4a1c5db-5d9d-4dfa-b3f9-460903795a15-000000/8AB8Y7UVsOEBGgDqlu5mLz6NF-tloSrvDkqN1K5Zv4o=452"
+},
+{
+"text": "H.F. 3709",
+"href": "https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.revisor.mn.gov%2Fbills%2F94%2F2026%2F0%2FHF%2F3709%2F%3Fbody=House/1/0100019de3f8bc11-f0e7dc94-1905-4065-b81a-2236b8a9a95a-000000/954uctRqeAkIdPd7O8GpEAczZKz5oEjQsf1_awYj_Vc=452"
+},
+{
+"text": "H.F. 4502",
+"href": "https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.revisor.mn.gov%2Fbills%2F94%2F2026%2F0%2FHF%2F4502%2F%3Fbody=House/1/0100019dc10c846d-8ec14db0-ad58-419a-8832-c53bc206ae1b-000000/Q790lnzAG0_-EZ6lFSPKaA8fwScJi24s8k6VVo4lvjs=452"
+},
+{
+"text": "Happy Easter!",
+"href": "https://bernieperryman.com/articles/happy-easter-2026/"
+},
+{
+"text": "Home",
+"href": "https://bernieperryman.com/"
+},
+{
+"text": "House File 4425 Bill Reading",
+"href": "https://youtu.be/FDCJdKhqB9E?si=KxCSEqtF6FkgWWe5&t=7529"
+},
+{
+"text": "Legislative Update - April 11th, 2025",
+"href": "https://bernieperryman.com/articles/aed-bill/"
+},
+{
+"text": "Legislative Update - April 25th, 2025",
+"href": "https://bernieperryman.com/articles/state-of-the-state/"
+},
+{
+"text": "Legislative Update - April 4th, 2025",
+"href": "https://bernieperryman.com/articles/bipartisan-budget-agreement/"
+},
+{
+"text": "Legislative Update - August 1st, 2025",
+"href": "https://bernieperryman.com/articles/protecting-our-communities/"
+},
+{
+"text": "Legislative Update - February 14th, 2025",
+"href": "https://bernieperryman.com/articles/surplus-dollars-to-taxpayers/"
+},
+{
+"text": "Legislative Update - February 28th, 2025",
+"href": "https://bernieperryman.com/articles/emergency-powers/"
+},
+{
+"text": "Legislative Update - January 17th, 2025",
+"href": "https://bernieperryman.com/articles/stop-the-fraud/"
+},
+{
+"text": "Legislative Update - January 24th, 2025",
+"href": "https://bernieperryman.com/articles/affordable-minnesota/"
+},
+{
+"text": "Legislative Update - January 30th, 2025",
+"href": "https://bernieperryman.com/articles/make-minnesota-affordable/"
+},
+{
+"text": "Legislative Update - March 14th, 2025",
+"href": "https://bernieperryman.com/articles/supporting-women-and-children/"
+},
+{
+"text": "Legislative Update - March 21st, 2025",
+"href": "https://bernieperryman.com/articles/budget-notes/"
+},
+{
+"text": "Legislative Update - March 28th, 2025",
+"href": "https://bernieperryman.com/articles/new-whistleblower-website/"
+},
+{
+"text": "Legislative Update - March 7th, 2025",
+"href": "https://bernieperryman.com/articles/new-economic-forecast/"
+},
+{
+"text": "Legislative Update - May 9th, 2025",
+"href": "https://bernieperryman.com/articles/education-rally/"
+},
+{
+"text": "Legislative Update - November 21st, 2025",
+"href": "https://bernieperryman.com/articles/summary-of-pfml/"
+},
+{
+"text": "Legislative Update - October 24th, 2025",
+"href": "https://bernieperryman.com/articles/preparing-for-new-worker-leave-program/"
+},
+{
+"text": "MNFraud.com",
+"href": "https://mnhouserepublicans.com/whistleblower-portal/"
+},
+{
+"text": "Merry Christmas & Happy New Year",
+"href": "https://bernieperryman.com/articles/operation-christmas-card/"
+},
+{
+"text": "Minnesota Fraud Whistleblower Portal",
+"href": "https://bernieperryman.com/articles/minnesota-fraud-whistleblower-portal/"
+},
+{
+"text": "New Session",
+"href": "https://bernieperryman.com/articles/new-session/"
+},
+{
+"text": "OIG Bill Finally Moving in House",
+"href": "https://bernieperryman.com/articles/oig-bill/"
+},
+{
+"text": "Oversight problems and patterns",
+"href": "https://bernieperryman.com/articles/oversight-problems-and-patterns/"
+},
+{
+"text": "Paid Leave Impacting Businesses",
+"href": "https://bernieperryman.com/articles/paid-leave-impacting-businesses/"
+},
+{
+"text": "Perryman Announces Bid for State Senate",
+"href": "https://bernieperryman.com/articles/candidacy-for-minnesota-senate/"
+},
+{
+"text": "Perryman Looks for Big Things in 2025 Legislative Session",
+"href": "https://bernieperryman.com/articles/oath-of-office/"
+},
+{
+"text": "Perryman bill to address sex trafficking clears House",
+"href": "https://bernieperryman.com/articles/protecting-our-local-communities/"
+},
+{
+"text": "Perryman renews call for greater state program oversight amid reports of fraud, waste",
+"href": "https://bernieperryman.com/articles/program-oversight/"
+},
+{
+"text": "Perryman: Budget agreement shows House Republicans bringing balance to Capitol",
+"href": "https://bernieperryman.com/articles/bringing-balance-to-the-capitol/"
+},
+{
+"text": "Perryman: House Democrats block Preserving Girls Sports Act",
+"href": "https://bernieperryman.com/articles/preserving-girls-sports-act/"
+},
+{
+"text": "Perryman: House GOP assembles ‘Make Minnesota Affordable’ package",
+"href": "https://bernieperryman.com/articles/make-minnesota-affordable-package/"
+},
+{
+"text": "Perryman: House Republicans unveil legislation to combat fraud in state programs",
+"href": "https://bernieperryman.com/articles/combating-fraud-in-state-programs/"
+},
+{
+"text": "Perryman: New website for citizens to report fraud, waste, abuse in Minn.",
+"href": "https://bernieperryman.com/articles/confidentially-report-suspected-fraud/"
+},
+{
+"text": "Perryman: State economic forecast underscores need for more balanced approach to budget",
+"href": "https://bernieperryman.com/articles/state-economic-forecast/"
+},
+{
+"text": "Perryman: Whistleblower protection bill passes House",
+"href": "https://bernieperryman.com/articles/whistleblower-protection-bill/"
+},
+{
+"text": "Perryman: ‘We’re ready to roll’",
+"href": "https://bernieperryman.com/articles/ready-to-roll/"
+},
+{
+"text": "Photos",
+"href": "https://bernieperryman.com/photos/"
+},
+{
+"text": "Priorities Survey",
+"href": "https://bernieperryman.com/priorities-survey/"
+},
+{
+"text": "Public Schools Week",
+"href": "https://bernieperryman.com/articles/public-schools-week/"
+},
+{
+"text": "Tax Relief",
+"href": "https://bernieperryman.com/articles/tax-relief/"
+},
+{
+"text": "Trusted Contact",
+"href": "https://bernieperryman.com/articles/trusted-contact/"
+},
+{
+"text": "Virtual Currency Bill",
+"href": "https://bernieperryman.com/articles/virtual-currency-bill/"
+},
+{
+"text": "Voting",
+"href": "https://bernieperryman.com/voting/"
+},
+{
+"text": "[image: Bernie Perryman for Senate]",
+"href": "https://bernieperryman.com"
+},
+{
+"text": "here",
+"href": "https://www.house.mn.gov/members/profile/news/15599/50281"
+}
 ]

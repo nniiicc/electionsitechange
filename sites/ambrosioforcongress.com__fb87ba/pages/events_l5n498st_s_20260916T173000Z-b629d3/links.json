@@ -1,14 +1,54 @@
 [
-"https://ambrosioforcongress.com/",
-"https://ambrosioforcongress.com/contribute",
-"https://ambrosioforcongress.com/events",
-"https://ambrosioforcongress.com/events/l5n498st.ics?s=20260916T173000Z",
-"https://ambrosioforcongress.com/home",
-"https://ambrosioforcongress.com/issues",
-"https://ambrosioforcongress.com/press_room",
-"https://ambrosioforcongress.com/volunteer",
-"https://campaignpartner.com/",
-"https://facebook.com/ralphambrosioforcongress",
-"https://maps.google.com/maps?daddr=4+4th+St%2C+Troy+%2C+NY&z=15",
-"https://secure.anedot.com/ralph-ambrosio-for-congress/events/sept16"
+{
+"text": "Add to calendar",
+"href": "https://ambrosioforcongress.com/events/l5n498st.ics?s=20260916T173000Z"
+},
+{
+"text": "Contribute",
+"href": "https://ambrosioforcongress.com/contribute"
+},
+{
+"text": "Events",
+"href": "https://ambrosioforcongress.com/events"
+},
+{
+"text": "Events & Appearances",
+"href": "https://ambrosioforcongress.com/events"
+},
+{
+"text": "Get Driving Directions",
+"href": "https://maps.google.com/maps?daddr=4+4th+St%2C+Troy+%2C+NY&z=15"
+},
+{
+"text": "Home",
+"href": "https://ambrosioforcongress.com/home"
+},
+{
+"text": "Issues",
+"href": "https://ambrosioforcongress.com/issues"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Press Room",
+"href": "https://ambrosioforcongress.com/press_room"
+},
+{
+"text": "Volunteer",
+"href": "https://ambrosioforcongress.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://ambrosioforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ralphambrosioforcongress/"
+},
+{
+"text": "https://secure.anedot.com/ralph-ambrosio-for-congress/events/sept16",
+"href": "https://secure.anedot.com/ralph-ambrosio-for-congress/events/sept16"
+}
 ]

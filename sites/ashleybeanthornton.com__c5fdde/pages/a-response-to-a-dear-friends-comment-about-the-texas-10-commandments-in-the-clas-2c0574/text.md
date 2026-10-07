@@ -1,26 +1,17 @@
-A response to a dear friend's Comment
-About the Texas 10 Commandments in the Classroom LAW
-This post originally appeared on Dead Dillo.
+Skip to content Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Ashley Bean Thornton for Texas House District 56 A response to a dear friend's Comment About the Texas 10 Commandments in the Classroom LAW This post originally appeared on Dead Dillo .
 I frequently post about how much I do not like the Texas Law that requires the 10 Commandments be posted in all public school classrooms.
 My dear friend, Robert, disagrees with me about this.
-Here is a recent comment of his regarding the conversation:
-I’m for this one [10 Commandments in the Classroom] because of the assumed/desired outcome.
+Here is a recent comment of his regarding the conversation: I’m for this one [10 Commandments in the Classroom] because of the assumed/desired outcome.
 We hope that it’s one way to begin to put lessons of morality back into our classrooms.
 One thing I think would benefit your campaign and effort is to not only oppose something you disagree with but maybe to add a petition for an alternative that would meet or exceed the same objective.
 I would listen to your argument because I know your heart and intention would be in line with the same objective.
 It’s about benefiting the next generation and leaving this place better than we found it.
 I think this is a beautiful comment and a wonderful example of how we should be conducting our political conversations.
-Here is my response…too long for the Facebook feed… — ABT
-Thank you friend!
+Here is my response…too long for the Facebook feed… — ABT Thank you friend!
 That is a terrific idea!
 If the concern is that our kids are growing up without the moral guidance they need, there are definitely some things that I think are a better option than 10 Commandments in the classroom, and I’ll share them below.
-First, for context, Texas Education Code already requires “Character Development” be taught in Public Schools:
-From Texas Education Code § 29.906:
-(a) The State Board of Education shall integrate positive character traits and personal skills into the essential knowledge and skills adopted for kindergarten through grade 12, as appropriate.
-(b) The State Board of Education must include the following positive character traits and personal skills: … (listing courage; trustworthiness, including honesty, reliability, punctuality, and loyalty; integrity; respect and courtesy; responsibility … fairness … caring … good citizenship … school pride; and gratitude).
-(c) Each school district and open-enrollment charter school must adopt a character education program that includes the positive character traits and personal skills listed in Subsection (b).
-In developing or selecting a character education program under this section, a school district shall consult with a committee … parents of district students; educators; and other members of the community …
-(d) This section does not require or authorize proselytizing or indoctrinating concerning any specific religious or political belief.
+First, for context, Texas Education Code already requires “Character Development” be taught in Public Schools: From Texas Education Code § 29.906: (a) The State Board of Education shall integrate positive character traits and personal skills into the essential knowledge and skills adopted for kindergarten through grade 12, as appropriate. (b) The State Board of Education must include the following positive character traits and personal skills: … (listing courage; trustworthiness, including honesty, reliability, punctuality, and loyalty; integrity; respect and courtesy; responsibility … fairness … caring … good citizenship … school pride; and gratitude). (c) Each school district and open-enrollment charter school must adopt a character education program that includes the positive character traits and personal skills listed in Subsection (b).
+In developing or selecting a character education program under this section, a school district shall consult with a committee … parents of district students; educators; and other members of the community … (d) This section does not require or authorize proselytizing or indoctrinating concerning any specific religious or political belief.
 I am a little skeptical about how useful it is, since I think it tends to be a bit of a “canned curriculum,” but it’s almost certainly more useful than a poster on the wall.
 I believe most moral development is passed down to children from a caring adult, through direct instruction sometimes, but most importantly through being a good role model and by treating the child in the way we want the child to treat others.
 This hopefully happens at home, but it can also happen at church, through organizations like scouts or sports teams, and of course, from teachers.
@@ -39,3 +30,5 @@ I believe freedom of religion is important for honest pursuit of faith and for f
 I think having our government “take sides” when it comes to religion is a greater risk to our morality than any gains we would get in moral improvement by having a poster of the 10 Commandments on the wall.
 I believe the best thing to do would be to fund our schools properly so that each child can get the attention and guidance he/she needs from the teachers, counselors and other adults at school.
 I believe as individuals we can volunteer to help with tutoring and coaching teams and mentoring and working with student groups — and yes, by reaching out from our churches and faith based organizations to provide a positive environment and positive role models for kids.
+More Posts on Managing our Freedoms Wisely What’s my “Why?” Part 2: What’s my problem with the 10 Commandments?
+Read More » July 20, 2025 Signs of the times… Read More » April 30, 2025 A tale of two posters… Read More » April 6, 2025 Fear of the One True Way… (2023) Read More » November 11, 2023 Tagged Managing our Freedoms Wisely Join the Campaign Donate Join the Newsletter Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Facebook Instagram Info@AshleyBeanThornton.com Political Advertising Paid for ABT for TEX 4300 W Waco Drive Suite 2B Box 193 • Waco, Texas 76710 © #-# Thornton for Texas Campaign Terms of Service | Privacy Policy | Disclaimer | Website by Digital Media Butterfly

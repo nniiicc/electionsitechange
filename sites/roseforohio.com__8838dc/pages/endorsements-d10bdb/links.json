@@ -1,40 +1,190 @@
 [
-"http://facebook.com/roseforohio",
-"http://instagram.com/roseforohio",
-"https://afscmecouncil8.org/",
-"https://buckeyeveteranscoalition.org/",
-"https://ibew82.org/",
-"https://iue-cwa.org/about",
-"https://matriotsohio.com/",
-"https://mentalhealthnow.us/",
-"https://momsdemandaction.org/",
-"https://naswoh.org/page/pace",
-"https://oapse.org/",
-"https://ocsea.org/",
-"https://oft-aft.org/",
-"https://ohea.org/",
-"https://ohioaflcio.org/",
-"https://ohiolegislativeblackcaucus.org/",
-"https://ohiopride.org/",
-"https://ohslb.org/",
-"https://roseforohio.com/",
-"https://roseforohio.com/about",
-"https://roseforohio.com/cart",
-"https://roseforohio.com/contact",
-"https://roseforohio.com/endorsements",
-"https://roseforohio.com/events",
-"https://roseforohio.com/home",
-"https://roseforohio.com/platform",
-"https://roseforohio.com/volunteer",
-"https://saveohioparks.org/",
-"https://secure.actblue.com/donate/friends-of-rose-lounsbury-1",
-"https://seiu1199.org/",
-"https://sierraclub.org/ohio",
-"https://stateswin.org/",
-"https://store.roseforohio.com/",
-"https://theoecactionfund.org/",
-"https://tiktok.com/@roseforohio",
-"https://uawlocal402.org/",
-"https://votemamapac.org/candidates",
-"https://workingfamilies.org/state/ohio"
+{
+"text": "0",
+"href": "https://www.roseforohio.com/cart"
+},
+{
+"text": ">",
+"href": "https://uawlocal402.org/"
+},
+{
+"text": "About",
+"href": "https://www.roseforohio.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.roseforohio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-rose-lounsbury-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.roseforohio.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.roseforohio.com/events"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.roseforohio.com/volunteer"
+},
+{
+"text": "Get Involved",
+"href": "https://www.roseforohio.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.roseforohio.com/"
+},
+{
+"text": "MERCH",
+"href": "https://store.roseforohio.com/"
+},
+{
+"text": "Platform",
+"href": "https://www.roseforohio.com/platform"
+},
+{
+"text": "Read",
+"href": "https://ibew82.org/"
+},
+{
+"text": "Read more >",
+"href": "https://afscmecouncil8.org/"
+},
+{
+"text": "Read more >",
+"href": "https://ibew82.org/"
+},
+{
+"text": "Read more >",
+"href": "https://matriotsohio.com/"
+},
+{
+"text": "Read more >",
+"href": "https://mentalhealthnow.us/"
+},
+{
+"text": "Read more >",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "Read more >",
+"href": "https://ohslb.org/"
+},
+{
+"text": "Read more >",
+"href": "https://workingfamilies.org/state/ohio/"
+},
+{
+"text": "Read more >",
+"href": "https://www.iue-cwa.org/about"
+},
+{
+"text": "Read more >",
+"href": "https://www.ocsea.org/"
+},
+{
+"text": "Read more >",
+"href": "https://www.oft-aft.org/"
+},
+{
+"text": "Read more >",
+"href": "https://www.ohea.org/"
+},
+{
+"text": "Read more >",
+"href": "https://www.ohioaflcio.org/"
+},
+{
+"text": "Read more >",
+"href": "https://www.seiu1199.org/"
+},
+{
+"text": "Read more >",
+"href": "https://www.votemamapac.org/candidates"
+},
+{
+"text": "[image: Rose Lounsbury for Ohio House]",
+"href": "https://www.roseforohio.com/"
+},
+{
+"text": "[image]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.ohioaflcio.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.ohiopride.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.roseforohio.com/home"
+},
+{
+"text": "[image]",
+"href": "https://www.seiu1199.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.sierraclub.org/ohio"
+},
+{
+"text": "[image]",
+"href": "https://www.votemamapac.org/candidates"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/roseforohio"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/roseforohio"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@roseforohio"
+},
+{
+"text": "more",
+"href": "https://www.ohiopride.org/"
+},
+{
+"text": "more >",
+"href": "https://buckeyeveteranscoalition.org/"
+},
+{
+"text": "more >",
+"href": "https://oapse.org/"
+},
+{
+"text": "more >",
+"href": "https://ohiolegislativeblackcaucus.org/"
+},
+{
+"text": "more >",
+"href": "https://saveohioparks.org/"
+},
+{
+"text": "more >",
+"href": "https://stateswin.org/"
+},
+{
+"text": "more >",
+"href": "https://theoecactionfund.org/"
+},
+{
+"text": "more >",
+"href": "https://uawlocal402.org/"
+},
+{
+"text": "more >",
+"href": "https://www.naswoh.org/page/pace"
+}
 ]

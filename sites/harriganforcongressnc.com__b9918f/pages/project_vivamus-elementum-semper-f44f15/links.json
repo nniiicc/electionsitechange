@@ -1,20 +1,86 @@
 [
-"https://app.frame.io/presentations/98f38d0c-929e-4f89-85ef-033272ba7f31",
-"https://facebook.com/PatHarriganNC",
-"https://harriganforcongress.com/privacy-policy",
-"https://harriganforcongressnc.com/",
-"https://harriganforcongressnc.com/about-pat",
-"https://harriganforcongressnc.com/checkout",
-"https://harriganforcongressnc.com/issues",
-"https://harriganforcongressnc.com/media-kit",
-"https://harriganforcongressnc.com/privacy-policy",
-"https://harriganforcongressnc.com/project/pendisse-pulvinar",
-"https://harriganforcongressnc.com/project/sed-lectus",
-"https://harriganforcongressnc.com/store",
-"https://harriganforcongressnc.com/volunteer",
-"https://instagram.com/Patharrigannc",
-"https://secure.anedot.com/9ddbe3d3-0e27-48cb-93e9-d2ec720eab9c/donate?pk_vid=532a74a460ad723716946234248ce980",
-"https://secure.winred.com/the-pat-harrigan-committee/92017a22-12c0-4a5a-8fff-99865430b58f?recurring=true&amount=50",
-"https://secure.winred.com/the-pat-harrigan-committee/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://twitter.com/PatHarriganNC"
+{
+"text": "About Pat",
+"href": "https://www.harriganforcongressnc.com/about-pat"
+},
+{
+"text": "Continue to Checkout",
+"href": "https://www.harriganforcongressnc.com/checkout"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/9ddbe3d3-0e27-48cb-93e9-d2ec720eab9c/donate?pk_vid=532a74a460ad723716946234248ce980"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/the-pat-harrigan-committee/92017a22-12c0-4a5a-8fff-99865430b58f?recurring=true&amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/the-pat-harrigan-committee/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "E: info@harriganforcongress.com",
+"href": "mailto:info@harriganforcongress.com?subject=Hello%21"
+},
+{
+"text": "Home",
+"href": "https://www.harriganforcongressnc.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.harriganforcongressnc.com/issues"
+},
+{
+"text": "Media Kit",
+"href": "https://www.harriganforcongressnc.com/media-kit"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.harriganforcongress.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.harriganforcongressnc.com/privacy-policy"
+},
+{
+"text": "Public Footage",
+"href": "https://app.frame.io/presentations/98f38d0c-929e-4f89-85ef-033272ba7f31"
+},
+{
+"text": "Store",
+"href": "https://www.harriganforcongressnc.com/store"
+},
+{
+"text": "View All Work",
+"href": "https://www.harriganforcongressnc.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.harriganforcongressnc.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.harriganforcongressnc.com/"
+},
+{
+"text": "[image]Facebook",
+"href": "https://www.facebook.com/PatHarriganNC"
+},
+{
+"text": "[image]Instagram",
+"href": "https://www.instagram.com/Patharrigannc/"
+},
+{
+"text": "[image]Pendisse pulvinarConcept, Marketing",
+"href": "https://www.harriganforcongressnc.com/project/pendisse-pulvinar"
+},
+{
+"text": "[image]Sed lectusVideo, Movie, Marketing",
+"href": "https://www.harriganforcongressnc.com/project/sed-lectus"
+},
+{
+"text": "[image]Twitter",
+"href": "https://twitter.com/PatHarriganNC"
+}
 ]

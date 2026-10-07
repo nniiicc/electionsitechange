@@ -1,6 +1,8 @@
-Plank 4: Affordability — And the Right to Own What You Buy
-Pillar: Caring
-What’s broken: Everyone running for office says “prices are too high,” and they’re right, and it’s not enough.
+Skip to content The URL says Tucson.
+The campaign says all of District 6.
+Home Why Me?
+The Platform How To Write Me In The Ledger Help Wanted About Contact Privacy Policy Home Why Me?
+The Platform How To Write Me In The Ledger Help Wanted About Contact Privacy Policy ← Back to The Platform Plank 4: Affordability — And the Right to Own What You Buy Pillar: Caring What’s broken: Everyone running for office says “prices are too high,” and they’re right, and it’s not enough.
 Because affordability isn’t just prices going up.
 It’s ownership going away.
 You buy a tractor you’re not allowed to repair.
@@ -11,8 +13,7 @@ You hit “buy” on a movie or a game, and what you actually bought was a revoc
 Fan communities that keep abandoned games alive get cease-and-desist letters for the crime of preservation.
 “You’ll own nothing and be happy” was supposed to be a conspiracy theory.
 Instead it’s a business model — and it’s a tax on being alive that hits hardest at the people with the least.
-What I’d push for:
-A federal Right to Repair — parts, tools, and documentation available to owners and independent shops, for everything from phones to tractors to wheelchairs.
+What I’d push for: A federal Right to Repair — parts, tools, and documentation available to owners and independent shops, for everything from phones to tractors to wheelchairs.
 Truth in “Buy” — if it can be remotely disabled, revoked, or shut down, it’s a rental and must be labeled one.
 And if a company bricks something you paid for, you’re owed a refund.
 Full stop.
@@ -22,6 +23,5 @@ Housing people can actually afford — build non-luxury supply, and stop letting
 Honest pricing — shrinkflation disclosure, junk-fee bans, and antitrust enforcement with actual teeth, because “the market” can’t fix what four companies quietly agree on.
 (And yes, somewhere in here is my formal position that you shouldn’t need a small loan to keep playing the games you already paid for.
 We told you we take absurdity seriously.
-This is what that looks like as policy.)
-Sources
-Windows 10 end of support: October 14, 2025 (Microsoft lifecycle documentation; widely reported estimates of 200–400M PCs unable to meet Windows 11 hardware requirements).
+This is what that looks like as policy.) Sources Windows 10 end of support: October 14, 2025 (Microsoft lifecycle documentation; widely reported estimates of 200–400M PCs unable to meet Windows 11 hardware requirements). ← Back to The Platform Paid for by Michael Dorland, out of his own pocket, which is why the site has a weird mixture of pictures on it.
+Currently not authorized by any candidate committee or party — mainly because we have no money to spend. © # Michael Dorland Connect With Us Facebook Youtube Instagram Twitch

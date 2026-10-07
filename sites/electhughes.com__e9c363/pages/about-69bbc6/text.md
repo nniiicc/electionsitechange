@@ -1,6 +1,4 @@
-About
-Frank Patton Hughes III
-Frank Patton Hughes III was born in Iredell county and has lived all over our great state of North Carolina.
+top of page Home About Vote Platform Platform Policy Positions Contact Events DONATE About Frank Patton Hughes III Frank Patton Hughes III was born in Iredell county and has lived all over our great state of North Carolina.
 He has enjoyed time spent in Statesville, Union Grove, Norlina, Greensboro, Kings Mountain, Winston-Salem, and across Avery County where he spent most of his life.
 Growing up Frank had the opportunity to attend Montesorri preschool and kindergarten, and was homeschooled until entering fourth grade at Riverside Elementary in Avery County, continuing on to graduate from Western Guilford High School.
 He pursued higher education at Cleveland Community College, Caldwell Community College, and Appalachian State University, where he earned a Bachelors of Science.
@@ -19,3 +17,4 @@ He deeply feels a responsibility to serve as a steward of our forests, rivers, a
 In his spare time, Frank runs the McDowell High School Chess Team.
 He is an active member of the United States Chess Federation and a regular attendee of the McDowell Chess Club at the Senior Center.
 He plays saxophone in the Avery County Community Band and is an avid gardener, specifically enjoying bonsai history, creation, and education.
+Paid for by Frank Hughes for NC Senate bottom of page

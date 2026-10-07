@@ -1,4 +1,4 @@
-Ken Calvert is a former small business owner from Corona and current U.S.
+Contribute today to help send Ken back to Congress Home Meet Ken Ken's Record Endorsements NEWS MEDIA Myth vs Fact Contact Us Volunteer VOTE More Home Meet Ken Ken's Record Endorsements NEWS MEDIA Myth vs Fact Contact Us Volunteer VOTE Home Meet Ken Ken's Record Endorsements NEWS MEDIA Myth vs Fact Contact Us Volunteer VOTE Meet Ken Calvert Ken Calvert is a former small business owner from Corona and current U.S.
 Representative for the 41st Congressional District.
 Following the passage of Prop 50, Ken is running for election int the 40th District.
 Ken is a lifelong resident of Corona, which is the largest city in the 40th District.
@@ -12,5 +12,7 @@ Ken was the author of legislation that created the E-Verify system, which is use
 While the free, Internet-based system is currently used on a voluntary basis by businesses around the nation, Ken is a leading advocate for legislation to make the use of E-Verify mandatory.
 As our Congressman, Ken has successfully secured more than a billion dollars in federal funding for transportation, water, and clean air projects for Riverside County.
 Ken and his office have helped thousands of constituents to ensure veterans and seniors receive the benefits they deserve.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Connect With my campaign Paid for by the Calvert for Congress Committee FEC ID: C00257337 Copyright © # Calvert For Congress - All Rights Reserved.
+Powered by Privacy Policy Get Involved!
+Sign up to join our campaign and learn about exciting events!
+Join Team Calvert

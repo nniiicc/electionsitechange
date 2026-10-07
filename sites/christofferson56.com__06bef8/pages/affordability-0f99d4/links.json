@@ -1,11 +1,42 @@
 [
-"https://house.utleg.gov/utahs-tax-cut-streak-six-years-and-1-5-billion",
-"https://kaychristofferson.com/",
-"https://kaychristofferson.com/affordability",
-"https://kaychristofferson.com/donate",
-"https://kaychristofferson.com/families",
-"https://kaychristofferson.com/government",
-"https://kaychristofferson.com/issues",
-"https://kaychristofferson.com/transportation",
-"https://kaychristofferson.com/water"
+{
+"text": "Donate",
+"href": "https://kaychristofferson.com/donate/"
+},
+{
+"text": "Families",
+"href": "https://kaychristofferson.com/families/"
+},
+{
+"text": "Home",
+"href": "https://kaychristofferson.com"
+},
+{
+"text": "Issues",
+"href": "https://kaychristofferson.com/issues/"
+},
+{
+"text": "Keeping Utah Affordable",
+"href": "https://kaychristofferson.com/affordability/"
+},
+{
+"text": "Limited Government",
+"href": "https://kaychristofferson.com/government/"
+},
+{
+"text": "Representative Kay Christofferson",
+"href": "https://kaychristofferson.com"
+},
+{
+"text": "Transportation",
+"href": "https://kaychristofferson.com/transportation/"
+},
+{
+"text": "View the Tax Relief Record",
+"href": "https://house.utleg.gov/utahs-tax-cut-streak-six-years-and-1-5-billion/"
+},
+{
+"text": "Water",
+"href": "https://kaychristofferson.com/water/"
+}
 ]

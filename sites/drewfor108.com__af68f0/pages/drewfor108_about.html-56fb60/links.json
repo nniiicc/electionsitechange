@@ -1,8 +1,42 @@
 [
-"https://calendar.google.com/calendar/u/0?cid=ZHJld2ZvcjEwOEBnbWFpbC5jb20",
-"https://drewfor108-cmyk.github.io/drewfor108/about.html",
-"https://drewfor108-cmyk.github.io/drewfor108/index.html",
-"https://drewfor108-cmyk.github.io/drewfor108/nominate.html",
-"https://forms.gle/41TgrmfoEq3uop7M8",
-"https://zeffy.com/en-US/donation-form/donate-to-the-drew-bingaman-campaign"
+{
+"text": "About",
+"href": "https://drewfor108-cmyk.github.io/drewfor108/about.html"
+},
+{
+"text": "Calendar",
+"href": "https://calendar.google.com/calendar/u/0?cid=ZHJld2ZvcjEwOEBnbWFpbC5jb20"
+},
+{
+"text": "Donate",
+"href": "https://www.zeffy.com/en-US/donation-form/donate-to-the-drew-bingaman-campaign"
+},
+{
+"text": "Donate Now",
+"href": "https://www.zeffy.com/en-US/donation-form/donate-to-the-drew-bingaman-campaign"
+},
+{
+"text": "Get on the Ballot",
+"href": "https://drewfor108-cmyk.github.io/drewfor108/nominate.html"
+},
+{
+"text": "Home",
+"href": "https://drewfor108-cmyk.github.io/drewfor108/index.html"
+},
+{
+"text": "Platform",
+"href": "https://drewfor108-cmyk.github.io/drewfor108/index.html#platform"
+},
+{
+"text": "See Platform",
+"href": "https://drewfor108-cmyk.github.io/drewfor108/index.html"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/41TgrmfoEq3uop7M8"
+},
+{
+"text": "drewfor108@gmail.com",
+"href": "mailto:drewfor108@gmail.com"
+}
 ]

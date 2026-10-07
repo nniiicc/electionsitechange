@@ -1,10 +1,42 @@
 [
-"https://christierinni4ct.com/",
-"https://christierinni4ct.com/about",
-"https://christierinni4ct.com/contact",
-"https://christierinni4ct.com/get-involved",
-"https://christierinni4ct.com/news",
-"https://christierinni4ct.com/privacy-policy",
-"https://facebook.com/profile.php?id=61558178154092",
-"https://youtube.com/@christierinni4ct"
+{
+"text": "About",
+"href": "https://www.christierinni4ct.com/about"
+},
+{
+"text": "Chris@ChrisTierinni4ct.com",
+"href": "mailto:chris@christierinni4ct.com?subject=Website+Comments%2FQuestions"
+},
+{
+"text": "Contact",
+"href": "https://www.christierinni4ct.com/contact"
+},
+{
+"text": "Get Involved",
+"href": "https://www.christierinni4ct.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.christierinni4ct.com"
+},
+{
+"text": "News",
+"href": "https://www.christierinni4ct.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.christierinni4ct.com/privacy-policy"
+},
+{
+"text": "[image: Chris Tierinni LOGO 300px.jpg]",
+"href": "https://www.christierinni4ct.com"
+},
+{
+"text": "[image: YouTube ICON.jpg]",
+"href": "https://www.youtube.com/@christierinni4ct"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61558178154092"
+}
 ]

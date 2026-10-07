@@ -1,4 +1,8 @@
+Skip to content Havis For Senate Menu Close Donate Testimonials Issues News Events Open menu Lincoln Day Dinner with Cong.
+Jim Jordan Contact Us Open menu Join the team Visit to First Baptist Church of Laurel l to r, Lee Havis, Barbara Scott, and Pastor Brent Brewer at First Baptist Church of Laurel on July 29, 2018.
 On Sunday, July 29, 2018, I visited the First Baptist Church of Laurel to attend worship services and enjoy the company of members of the congregation.
 Havis campaign supporter, Barbara Scott, was in the choir, and helped me get acquainted with various members of the church family, including the senior pastor, Brent Brewer, shown in the picture with Barbara and me.
 This large church is also the home of a private school, and non-English church families for Hispanic, Vietnamese, and Korean.
-In the other picture, I’m shown with pastor Gus Suarez, a native of Cuba, who is the Hispanic pastor.
+In the other picture, I’m shown with pastor Gus Suarez, a native of Cuba, who is the Hispanic pastor. l to r, Lee Havis, Barbara Scott, and Pastor Brent Brewer at First Baptist Church of Laurel on July 29, 2018.
+Lee Havis, left and Hispanic pastor Gus Suarez at the First Baptist Church of Laurel Published July 29, 2018 By Lee Havis Categorized as news Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Δ Post navigation Previous post Dialogo en America Next post Odenton Sign Wave – August 1, 2018 Archives Select Month August 2026 July 2026 May 2026 April 2026 October 2022 September 2022 August 2022 May 2022 December 2018 October 2018 September 2018 August 2018 July 2018 June 2018 April 2018 March 2018 January 2018 September 2017 July 2017 Search Search X Facebook LinkedIn Mail HAVIS FOR SENATE • Lee Havis, Republican Candidate, LD 21 • Maryland State Senate • lee@havisforsenate.com by authority, Havis for Senate, Glenn Davis, Treasurer Privacy Policy

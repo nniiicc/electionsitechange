@@ -1,2 +1,1 @@
-Sign Request Phone This field is for validation purposes and should be left unchanged.
-Name First Last Phone Address Street Address Address Line 2 City ZIP Code How many signs do you need?
+Skip to content Home Meet Jay Experience Endorsements News Sign Request Voter Information Contact © # Jay Adams for NC House.

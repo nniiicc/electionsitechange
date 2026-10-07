@@ -1,8 +1,7 @@
-'The new Utah' demographic report says we're growing, more diverse and facing some big challenges
-By: Ben WinslowPosted at 3:47 PM, Oct 09, 2023 and last updated 5:58 PM, Oct 09, 2023
-SALT LAKE CITY — A major new demographic and economic report released on Monday shows significant changes in Utah.
+top of page Home About Rosalba Newsletter Sign Up Map Endorsements In the News More Use tab to navigate through the menu items.
+All Posts Search 'The new Utah' demographic report says we're growing, more diverse and facing some big challenges Rosalba Dominguez Oct 9, 2023 1 min read By: Ben WinslowPosted at 3:47 PM, Oct 09, 2023 and last updated 5:58 PM, Oct 09, 2023 SALT LAKE CITY — A major new demographic and economic report released on Monday shows significant changes in Utah.
 The report, prepared by the Kem C.
 Gardner Policy Institute at the University of Utah, said the state is now 30th in population size, making us a mid-sized state with 61% of our growth now coming from out-of-state migration.
 Utah is aging, becoming more multicultural with a powerful economy but an affordable housing crisis.
 "We do have an aging population and a diversifying population," said Natalie Gochnour, the director of the Gardner Policy Institute.
-"And I will also add, it’s not in the report, an urbanizing population."
+"And I will also add, it’s not in the report, an urbanizing population." Recent Posts See All Utah bill requiring ID for ballot drop boxes clears committee Utah Business Magazine: Government | Rosalba Dominguez | City Council Member | Murray City, District 3 Utahns rally for health officials — not politicians — to determine COVID policies Email : me@voterosalba.com ​ Address: PO Box 571015 Murray, UT 84157 Phone: 801.382.9674 © # by Friends of Rosalba Dominguez bottom of page

@@ -1,22 +1,90 @@
 [
-"http://audreyforarkansas.com/",
-"http://audreypwillis.com/",
-"http://facebook.com/audreyforarkansas",
-"https://audreyforarkansas.com/",
-"https://audreyforarkansas.com/about-1",
-"https://audreyforarkansas.com/blog",
-"https://audreyforarkansas.com/category/all-products",
-"https://audreyforarkansas.com/donation",
-"https://audreyforarkansas.com/get-involved",
-"https://audreyforarkansas.com/meet-audrey",
-"https://audreyforarkansas.com/notifications",
-"https://audreyforarkansas.com/platform",
-"https://audreyforarkansas.com/qualifications",
-"https://audreyforarkansas.com/team-4",
-"https://audreyforarkansas.com/terms-and-conditions",
-"https://instagram.com/audreyforarkansas",
-"https://linkedin.com/in/audreypwillis",
-"https://tiktok.com/@audreyforarkansas",
-"https://x.com/audreyforAR",
-"https://youtube.com/@AudreyForArkansas"
+{
+"text": "DISTRICT 35",
+"href": "https://www.audreyforarkansas.com/blog"
+},
+{
+"text": "DONATE",
+"href": "https://www.audreyforarkansas.com/donation"
+},
+{
+"text": "DONATION",
+"href": "https://www.audreyforarkansas.com/donation"
+},
+{
+"text": "EVENTS",
+"href": "https://www.audreyforarkansas.com/team-4"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.audreyforarkansas.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.audreyforarkansas.com"
+},
+{
+"text": "MEDIA",
+"href": "https://www.audreyforarkansas.com/about-1"
+},
+{
+"text": "MEET AUDREY",
+"href": "https://www.audreyforarkansas.com/meet-audrey"
+},
+{
+"text": "Notifications",
+"href": "https://www.audreyforarkansas.com/notifications"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.audreyforarkansas.com/platform"
+},
+{
+"text": "QUALIFICATIONS",
+"href": "https://www.audreyforarkansas.com/qualifications"
+},
+{
+"text": "Shop",
+"href": "https://www.audreyforarkansas.com/category/all-products"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.audreyforarkansas.com/terms-and-conditions"
+},
+{
+"text": "Terms & Conditions | Privacy Policy | Accessibility Statement",
+"href": "https://www.audreyforarkansas.com/terms-and-conditions"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@audreyforarkansas"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/audreyforAR"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@AudreyForArkansas"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/audreyforarkansas"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/audreyforarkansas/"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/audreypwillis/"
+},
+{
+"text": "www.audreyforarkansas.com",
+"href": "http://www.audreyforarkansas.com"
+},
+{
+"text": "www.audreypwillis.com",
+"href": "http://www.audreypwillis.com"
+}
 ]

@@ -1,6 +1,7 @@
-The Bennington Banner, July 8
-These are the issues that I see as important:
-Two things:
+Tom Blakely Candidate for State Representative Bennington-5 tfb@tomblakely.com Read my op-ed from The Bennington Banner, July 8 Home About Me About My Candidacy Key Issues News and Events Contact Me Newsletters Music Donate Join Our Team These are the issues that I see as important: Health Care: Too expensive, too hard to find a doctor Housing: Too expensive buying or renting Affordability: Why is everything too expensive?
+Threats to our rights and to our democracy: Is our democracy safe?
+Two things: The United States has the most expensive healthcare in the world, but does not have the best healthcare outcomes.
+The United States is the only developed, industrialized country in the world that does not provide universal healthcare for its citizens.
 Those two items are inextricably related.
 The price of your healthcare insurance is directly related to the number of people who are insured.
 There are two reasons for that.
@@ -28,10 +29,9 @@ We have put huge barriers in the way of the people we need the most: medical pro
 There are some programs that provide tuition forgiveness for medical professionals who agree to practice for a period of time in areas of most need, but there aren't nearly enough.
 A few medical schools, usually those with large endowments, offer free or low-cost tuition.
 But even with free tuition, the cost of a medical degree is beyond what many qualified and motivated students can afford.
-(As a side note, Governor Scott's recent proposed budget eliminated funding for medical tuition forgiveness.)
-A better idea: pay tuition for qualified students in advance, including stipends for their living expenses, if they agree to work for some number of years in an area of high need.
+(As a side note, Governor Scott's recent proposed budget eliminated funding for medical tuition forgiveness.) A better idea: pay tuition for qualified students in advance, including stipends for their living expenses, if they agree to work for some number of years in an area of high need.
 If they fail to do that, they then owe the full tuition and other costs.
-Not only is housing expensive -- rent or own -- but in much of Vermont there simply isn't enough housing.
+Back to top Not only is housing expensive -- rent or own -- but in much of Vermont there simply isn't enough housing.
 High demand raises the cost even more.
 Bennington has made strides in rehabilitating older houses and converting former commercial and municipal buildings into apartments and condos.
 While those efforts are commendable, much more is needed.
@@ -39,7 +39,7 @@ We need to look at other options such as manufactured housing units and other wa
 This is a case where the Federal Government needs to take the lead in increasing funding and affordability.
 Once we have a functioning Federal Government, I hope to see that happen.
 Until then it is up to us to look for creative solutions.
-The middle class is under threat.
+Back to top The middle class is under threat.
 My parents raised five kids on just my Dad's salary.
 He had a steady job -- a union job -- as a skilled worker.
 We weren't rich but we never lacked for anything.
@@ -64,8 +64,16 @@ We need to strengthen labor unions so that workers can fight for a living wage a
 People should earn enough to pay their bills, feed their families, and save for retirement.
 We need to ensure the future of Social Security so that our seniors can afford a decent life.
 Fix the Social Security Trust Fund!
-Every day it seems like there is another assault on our civil rights and personal liberties.
+Back to top Every day it seems like there is another assault on our civil rights and personal liberties.
+Masked police acting like thugs, rounding up citizens and legal immigrants and holding them without due process.
+Reproductive rights quashed.
+Voting rights curtailed.
+Freedom of speech suppressed.
 We have all seen the brutality of ICE, carrying out executions in Minneapolis and elsewhere.
 We wonder not so much who will win the midterm elections, but whether we will even have midterm elections.
-Let me again be blunt:
+Let me again be blunt: Our rights, guaranteed by the Constitution and the Bill of Rights, cannot be curtailed!
+The right to peacefully protest the excesses and overreaches of this (or any other) administration cannot be removed.
+We must be allowed to criticize the government in speech or in writing without fear of retaliation.
+We do not want, nor will we tolerate, authoritarian rule and we will do everything necessary to stop it.
 No kings in America, as it has been since 1776!
+Back to top

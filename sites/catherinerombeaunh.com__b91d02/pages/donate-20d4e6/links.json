@@ -1,16 +1,66 @@
 [
-"http://facebook.com/10155287561827553",
-"https://catherinerombeaunh.com/",
-"https://catherinerombeaunh.com/about",
-"https://catherinerombeaunh.com/contact-1",
-"https://catherinerombeaunh.com/donate",
-"https://catherinerombeaunh.com/https/marble-sea-s5k4squarespacecom/config/pages",
-"https://catherinerombeaunh.com/new-page",
-"https://catherinerombeaunh.com/new-page-1",
-"https://catherinerombeaunh.com/our-vision",
-"https://catherinerombeaunh.com/search",
-"https://catherinerombeaunh.com/specialelection-is-september-7",
-"https://facebook.com/CatherineRombeauNH",
-"https://facebook.com/CatherineRombeauNH?modal=admin_todo_tour",
-"https://secure.actblue.com/donate/friends-of-catherine-rombeau-1"
+{
+"text": "About",
+"href": "https://www.catherinerombeaunh.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.catherinerombeaunh.com/contact-1"
+},
+{
+"text": "Donate",
+"href": "https://www.catherinerombeaunh.com/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/friends-of-catherine-rombeau-1"
+},
+{
+"text": "Follow Catherine on Facebook",
+"href": "https://www.facebook.com/CatherineRombeauNH"
+},
+{
+"text": "Follow Catherine on Facebook",
+"href": "https://www.facebook.com/CatherineRombeauNH/?modal=admin_todo_tour"
+},
+{
+"text": "Join the Team",
+"href": "https://www.catherinerombeaunh.com/new-page"
+},
+{
+"text": "Meet Catherine",
+"href": "https://www.catherinerombeaunh.com/our-vision"
+},
+{
+"text": "My Goals in Concord",
+"href": "https://www.catherinerombeaunh.com/new-page-1"
+},
+{
+"text": "Priorities",
+"href": "https://www.catherinerombeaunh.com/https/marble-sea-s5k4squarespacecom/config/pages"
+},
+{
+"text": "Rombeau for Rep",
+"href": "https://www.catherinerombeaunh.com/"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.catherinerombeaunh.com/donate"
+},
+{
+"text": "Thank you for voting",
+"href": "https://www.catherinerombeaunh.com/specialelection-is-september-7"
+},
+{
+"text": "[image: CATHERINE ROMBEAU]",
+"href": "https://www.catherinerombeaunh.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/10155287561827553"
+},
+{
+"text": "[no text]",
+"href": "https://www.catherinerombeaunh.com/search"
+}
 ]

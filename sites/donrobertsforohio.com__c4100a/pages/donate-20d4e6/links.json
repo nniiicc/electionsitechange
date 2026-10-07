@@ -1,10 +1,54 @@
 [
-"https://cookieadmin.net/",
-"https://donrobertsforohio.com/",
-"https://donrobertsforohio.com/donate",
-"https://donrobertsforohio.com/events",
-"https://donrobertsforohio.com/meet-don",
-"https://donrobertsforohio.com/photos",
-"https://donrobertsforohio.com/priorities",
-"https://donrobertsforohio.com/volunteer"
+{
+"text": "Donate Now",
+"href": "https://www.donrobertsforohio.com/donate/"
+},
+{
+"text": "Equal Parental Rights",
+"href": "https://www.donrobertsforohio.com/priorities/"
+},
+{
+"text": "Events",
+"href": "https://www.donrobertsforohio.com/events/"
+},
+{
+"text": "Expungement Expansion",
+"href": "https://www.donrobertsforohio.com/priorities/"
+},
+{
+"text": "Home",
+"href": "https://www.donrobertsforohio.com/"
+},
+{
+"text": "Kitchen Table Economics",
+"href": "https://www.donrobertsforohio.com/priorities/"
+},
+{
+"text": "Meet Don",
+"href": "https://www.donrobertsforohio.com/meet-don/"
+},
+{
+"text": "Photos",
+"href": "https://www.donrobertsforohio.com/photos/"
+},
+{
+"text": "Powered by",
+"href": "https://cookieadmin.net/"
+},
+{
+"text": "Priorities",
+"href": "https://www.donrobertsforohio.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.donrobertsforohio.com/volunteer/"
+},
+{
+"text": "[image: blank]",
+"href": "https://www.donrobertsforohio.com/"
+},
+{
+"text": "[image: img-2]",
+"href": "https://www.donrobertsforohio.com/"
+}
 ]

@@ -1,5 +1,4 @@
-Conoce a JB
-La lucha por las familias de Illinois y colocar de primero a la gente, ha sido el trabajo de mi vida.
+Saltar al contenido principal Saltar al pie de página ÚNASE AL EQUIPO PARA REELEGIR A JB Conoce a JB Pritzker Logros Conoce a Christian Mitchell Noticias y actualizaciones Conoce a JB Pritzker Logros Conoce a Christian Mitchell Noticias y actualizaciones Regístrese English Conoce a JB Pritzker Logros Conoce a Christian Mitchell Noticias y actualizaciones Regístrese English Conoce a JB La lucha por las familias de Illinois y colocar de primero a la gente, ha sido el trabajo de mi vida.
 Llegue a la gobernación como un forastero, pero con experiencia exitosa como creador de empleos y con dedicación para hacer que la gente viviera mejor.
 Tuve suerte de venir de una familia que ha servido en el ejército y luego pasaron a ser empresarios exitosos; y a pesar de haber perdido a mis dos padres a una edad temprana, quise seguir sus pasos en servir a nuestra nación.
 Hemos conseguido hacer bastante durante mi tiempo en la oficina.
@@ -29,10 +28,9 @@ Como Gobernador he hecho la mayor inversión al expandir el acceso a una educaci
 Hemos convertido a Illinois en una barrera contra los ataques de Donald Trump.
 Desde libertad reproductiva hasta el derecho al voto, derechos civiles e igualdad LGBTQ – Illinois es un faro de esperanza y libertad para toda la nación.
 Mientras Donald Trump elimina la asistencia sanitaria para darle a los ricos un recorte de impuestos y hace la vida más difícil y más cara para las familias trabajadoras yo me enfrenté a él por los habitantes de Illinois.
-Como dije después de la reelección de Donald Trump: “Usted viene por mi pueblo, lo harás a través de mí.”
-Únete a #TeamJB
-Regístrese para unirse al equipo hoy mismo y recibir actualizaciones de la campaña, informarse sobre las oportunidades de voluntariado y mucho más.
+Como dije después de la reelección de Donald Trump: “Usted viene por mi pueblo, lo harás a través de mí.” Únete a #TeamJB Regístrese para unirse al equipo hoy mismo y recibir actualizaciones de la campaña, informarse sobre las oportunidades de voluntariado y mucho más.
 Al enviar su número de teléfono móvil, acepta recibir mensajes de texto periódicos de esta organización.
 Se pueden aplicar tarifas de mensajes y datos.
 Envíe HELP por mensaje de texto para obtener más información.
 Envíe STOP por mensaje de texto para dejar de recibir mensajes.
+Conoce a JB Pritzker Logros Conoce a Christian Mitchell Noticias y actualizaciones Inscribirse Contacto Poliza de Privacidad Términos y condiciones Pagado por JB para Gobernador español 中文 Polski español 中文 Polski

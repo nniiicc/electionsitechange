@@ -1,12 +1,66 @@
 [
-"https://facebook.com/profile.php?id=61591681192152",
-"https://linkedin.com/in/chris-wedum-8512761",
-"https://secure.anedot.com/wedum4mn/donate",
-"https://wedum4mn.com/",
-"https://wedum4mn.com/about-chris",
-"https://wedum4mn.com/donate",
-"https://wedum4mn.com/events",
-"https://wedum4mn.com/volunteer",
-"https://wix.com/",
-"https://x.com/cwedum"
+{
+"text": "About Chris",
+"href": "https://www.wedum4mn.com/about-chris"
+},
+{
+"text": "Contact Us",
+"href": "https://www.wedum4mn.com"
+},
+{
+"text": "Donate",
+"href": "https://www.wedum4mn.com/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/wedum4mn/donate"
+},
+{
+"text": "Donate here",
+"href": "https://secure.anedot.com/wedum4mn/donate"
+},
+{
+"text": "Events",
+"href": "https://www.wedum4mn.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.wedum4mn.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.wedum4mn.com/volunteer"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Chris Wedum for House 50A]",
+"href": "https://www.wedum4mn.com"
+},
+{
+"text": "[image: Chris Wedum for House]",
+"href": "https://secure.anedot.com/wedum4mn/donate"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61591681192152"
+},
+{
+"text": "[image: Linkedin]",
+"href": "https://www.linkedin.com/in/chris-wedum-8512761/"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/cwedum"
+},
+{
+"text": "[no text]",
+"href": "https://www.wedum4mn.com/donate"
+},
+{
+"text": "info@wedum4mn.com",
+"href": "mailto:info@wedum4mn.com"
+}
 ]

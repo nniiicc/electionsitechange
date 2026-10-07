@@ -1,12 +1,50 @@
 [
-"https://clevelandforindiana.com/privacy.html",
-"https://facebook.com/clevelandforindiana",
-"https://secure.winred.com/cleveland-for-indiana/main",
-"https://secure.winred.com/cleveland-for-indiana/main?amount=100",
-"https://secure.winred.com/cleveland-for-indiana/main?amount=1000",
-"https://secure.winred.com/cleveland-for-indiana/main?amount=25",
-"https://secure.winred.com/cleveland-for-indiana/main?amount=5",
-"https://secure.winred.com/cleveland-for-indiana/main?amount=50",
-"https://secure.winred.com/cleveland-for-indiana/main?amount=500",
-"https://secure.winred.com/cleveland-for-indiana/main?amount=other"
+{
+"text": "$100",
+"href": "https://secure.winred.com/cleveland-for-indiana/main?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/cleveland-for-indiana/main?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/cleveland-for-indiana/main?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.winred.com/cleveland-for-indiana/main?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/cleveland-for-indiana/main?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/cleveland-for-indiana/main?amount=500"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/cleveland-for-indiana/main"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/cleveland-for-indiana/main?amount=other"
+},
+{
+"text": "Privacy Policy",
+"href": "https://clevelandforindiana.com/privacy.html"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://clevelandforindiana.com/privacy.html"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/clevelandforindiana"
+},
+{
+"text": "contact@clevelandforindiana.com",
+"href": "mailto:contact@clevelandforindiana.com"
+}
 ]

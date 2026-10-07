@@ -1,7 +1,9 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://metzgerformissouri.com/photos",
- "paid_for_by": null,
+ "fingerprint": "7e7e859d51c96a8a4e4557132085fac476b8191f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": [
   "2026"

@@ -1,4 +1,4 @@
-No surprise here.
+Skip to content Main Menu Home Blog Advocacy Endorsements Contact Donate Donate notes of a freshman legislator By Tom France / February 8, 2021 No surprise here.
 Democrats and our good positions on many pieces of legislation were pounded again this past week.
 On the floor, and over the votes of every Democrat, the Republican majority passed anti-immigration legislation and ended same day voter registration while the Fish Wildlife and Parks Committee passed two anti-wolf, pro-trapping bills.
 Fortunately, my third committee, House Natural Resources didn’t meet.
@@ -25,4 +25,4 @@ Jon Tester was an A rated NRA Senator until he voted against Brett Kavanaugh’s
 Most recently, Steve Bullock stepped away from his previously staunch advocacy of gun rights when he ran for President and his shift in position was a campaign issue when he ran for the Senate in 2020.
 By way of thoughtful policy, Democrats may have the right position on concealed carry in the 2021 Legislature and regulating guns by way of public safety is broadly supported in most districts that elect Democratic legislators.
 But it’s also a position that will weigh down Democrats seeking election to the Legislature in rural and semi-rural districts across the state and fails to acknowledge that Democrats who run state need will need recognize that Montanans like their guns.
-As the electorate has grown more polarized and wedge uses like guns more important, the gun issue and others will continue to be a challenge for Democrats outside our most urban districts.
+As the electorate has grown more polarized and wedge uses like guns more important, the gun issue and others will continue to be a challenge for Democrats outside our most urban districts. ← Previous Post Next Post → Facebook-f Copyright © # Tom France Representing Montana House District 99 Powered by Tom France Representing Montana House District 99

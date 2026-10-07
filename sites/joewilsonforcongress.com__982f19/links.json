@@ -1,15 +1,82 @@
 [
-"https://facebook.com/joewilsonforcongress",
-"https://joewilsonforcongress.com/",
-"https://joewilsonforcongress.com/get-involved",
-"https://joewilsonforcongress.com/issues",
-"https://joewilsonforcongress.com/meet-joe-wilson",
-"https://joewilsonforcongress.com/privacy-policy",
-"https://secure.winred.com/joewilson/donate",
-"https://secure.winred.com/joewilson/donate?amount=10",
-"https://secure.winred.com/joewilson/donate?amount=100",
-"https://secure.winred.com/joewilson/donate?amount=25",
-"https://secure.winred.com/joewilson/donate?amount=50",
-"https://secure.winred.com/joewilson/storefront",
-"https://x.com/TeamJoeWilson"
+{
+"text": "$10",
+"href": "https://secure.winred.com/joewilson/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/joewilson/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/joewilson/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/joewilson/donate?amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/joewilson/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/joewilson/donate"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/joewilsonforcongress/"
+},
+{
+"text": "Get Involved",
+"href": "https://joewilsonforcongress.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://joewilsonforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://joewilsonforcongress.com/issues"
+},
+{
+"text": "Join the Team",
+"href": "https://joewilsonforcongress.com/get-involved"
+},
+{
+"text": "Learn More",
+"href": "https://joewilsonforcongress.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://joewilsonforcongress.com/meet-joe-wilson"
+},
+{
+"text": "Meet Joe",
+"href": "https://joewilsonforcongress.com/meet-joe-wilson"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/joewilson/donate"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://joewilsonforcongress.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/joewilson/storefront"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/TeamJoeWilson"
+},
+{
+"text": "[image]",
+"href": "https://joewilsonforcongress.com"
+},
+{
+"text": "info@joewilsonforcongress.com",
+"href": "mailto:info@joewilsonforcongress.com"
+}
 ]

@@ -1,7 +1,4 @@
-About
-State Representative
-Jeff Keicher
-Jeff Keicher stands out as the ideal candidate for State Representative for Illinois’ 70th District.
+Skip to content About Volunteer Contact Photos About Volunteer Contact Photos Donations About State Representative Jeff Keicher Jeff Keicher stands out as the ideal candidate for State Representative for Illinois’ 70th District.
 Since being sworn in in July 2018, Jeff has leveraged his extensive private sector experience and deep-rooted community involvement to become a respected leader in Springfield.
 His reputation as a problem-solver underscores his commitment to effective governance.
 From the onset of his tenure, Representative Keicher has achieved significant legislative successes that resonate across party lines.
@@ -34,3 +31,9 @@ Jeff Keicher’s deep family roots in the community and his life lessons from a 
 As a small business owner and committed family man, Jeff is devoted to enhancing the quality of life for local families and making Illinois a prime destination for living, working, and retiring with dignity and financial security.
 In Jeff Keicher, the 70th District has a representative who not only understands the needs of his constituents but also has the proven ability to deliver results.
 His comprehensive approach to governance, rooted in compassion and pragmatism, makes him the best choice for state representative.
+Fairness, Justice, and Constitutional Principals Paid for by Friends of Jeff Keicher.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, IL.
+About Volunteer Contact Photos About Volunteer Contact Photos Join our Newsletter Subscription Form Δ Subscribe Contact PO Box 477 Sycamore, IL 60178 connect@keicherforrep.com Donate Copyright © # Friends of Jeff Keicher, All rights reserved.
+No part of this website, including text, images, and any other content, may be reproduced, copied, or transmitted in any form or by any means without the express written permission of the Friends of Jeff Keicher campaign.
+This site is not affiliated with any government entity and is the official campaign website for Jeff Keicher.
+Privacy Policy Facebook-f

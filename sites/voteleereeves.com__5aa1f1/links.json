@@ -1,7 +1,22 @@
 [
-"https://facebook.com/LeeReevesTN",
-"https://forms.gle/oVREJzJ8zCR4fEGK8",
-"https://leereeves.com/",
-"https://leereeves.com/cart",
-"https://secure.anedot.com/lee-reeves-for-state-house/donate"
+{
+"text": "0",
+"href": "https://www.leereeves.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/lee-reeves-for-state-house/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://forms.gle/oVREJzJ8zCR4fEGK8"
+},
+{
+"text": "[image: Lee Reeves for State House]",
+"href": "https://www.leereeves.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LeeReevesTN"
+}
 ]

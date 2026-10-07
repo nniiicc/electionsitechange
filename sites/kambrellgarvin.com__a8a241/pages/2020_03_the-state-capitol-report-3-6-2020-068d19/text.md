@@ -1,4 +1,4 @@
-The House of Representatives and the Senate adopted the conference committee report on S.16, legislation that relates to EMERGENCY REFILLS OF PRESCRIPTIONS BY PHARMACISTS, and the bill was enrolled for ratification.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate The State Capitol Report – 3/6/2020 Kambrell Garvin March 17, 2020 Comments Off on The State Capitol Report – 3/6/2020 Uncategorized The House of Representatives and the Senate adopted the conference committee report on S.16, legislation that relates to EMERGENCY REFILLS OF PRESCRIPTIONS BY PHARMACISTS, and the bill was enrolled for ratification.
 Current law provides authority for pharmacists to dispense an emergency prescription refill of up to a ten-day supply of a medication once within a twelve-month period.
 The bill increases the maximum amount of a medication that may be dispensed for an emergency prescription refill to a fourteen-day supply.
 If the qualifying medication is packaged in a way that it is not possible to dispense a fourteen-day supply, the pharmacist may dispense up to a thirty-day supply.
@@ -18,8 +18,7 @@ The House approved and sent the Senate H.4694, a bill EASING SCHOOL BUS TRAVEL R
 The legislation revises the blanket prohibition that makes it unlawful for a school bus to pass another school bus by establishing an exception which provides that a school bus may pass another school bus on a multilane highway.
 The legislation also eliminates a provision that sets maximum speed limits for school buses.
 The House amended, approved, and sent the Senate H.4454, a bill that revises the criminal offense that applies to drivers ENDANGERING EMERGENCY SERVICES PERSONNEL at accident scenes so that tow truck operators responding to emergency incidents are included among the emergency services personnel.
-2
-The House amended, approved, and sent the Senate H.4938, a bill addressing EXEMPTIONS FROM ELECTRONIC PRESCRIPTION REQUIREMENTS FOR CONTROLLED SUBSTANCES included in Schedules II, III, IV, and V.
+2 The House amended, approved, and sent the Senate H.4938, a bill addressing EXEMPTIONS FROM ELECTRONIC PRESCRIPTION REQUIREMENTS FOR CONTROLLED SUBSTANCES included in Schedules II, III, IV, and V.
 The legislation adds to the electronic prescription requirements exemptions list: a practitioner who writes a prescription for a controlled substance included in Schedules II through V that does not exceed a five-day supply for the patient; and, a practitioner who issues an oral authorization in the case of an emergency situation.
 The legislation revises an existing exemption that addresses hospital discharges so that it also applies to state mental health facilities.
 Another existing exemption is revised so that it also applies to controlled substances administered in a home infusion pharmacy.
@@ -37,4 +36,6 @@ The legislation implements a recommendation arising from the House Legislative O
 The House gave Special Order status to H.5201, the General Appropriation Bill, and H.5202, the joint resolution making appropriations from the Capital Reserve Fund, so that consideration of the FISCAL YEAR 2020-2021 STATE GOVERNMENT BUDGET is set to begin on Monday, March 9.
 If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
 Box 292434, Columbia, SC 29229.
-Thank you for the opportunity to serve you in the House of Representatives.
+Thank you for the opportunity to serve you in the House of Representatives. « The State Capitol Report – 2/28/2020 The State Capitol Report – 3/13/2020 » Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020

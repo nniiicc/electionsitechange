@@ -1,43 +1,174 @@
 [
-"http://facebook.com/chelseaforwa",
-"http://instagram.com/chelseaforwa",
-"http://squarespace.com/",
-"https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=1213&initiative=False",
-"https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=1875&initiative=False",
-"https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=1903&initiative=False",
-"https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=1971&initiative=False",
-"https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=2015&initiative=False",
-"https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=2105&initiative=False",
-"https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=2242&initiative=False",
-"https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=2294&initiative=False",
-"https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=2464&initiative=False",
-"https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=2515&initiative=False",
-"https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=5917&initiative=False",
-"https://app.leg.wa.gov/billsummary?BillNumber=2515&Year=2025",
-"https://chelseaforwa.com/",
-"https://chelseaforwa.com/about",
-"https://chelseaforwa.com/cart",
-"https://chelseaforwa.com/endorsements",
-"https://chelseaforwa.com/events",
-"https://chelseaforwa.com/news",
-"https://chelseaforwa.com/volunteer",
-"https://chelseaforwa.com/vote",
-"https://instagram.com/p/Dc2WsjHhCwP",
-"https://instagram.com/p/DcKnQuwFJYx",
-"https://instagram.com/p/DcSTf2slCOd",
-"https://instagram.com/p/DceXhC3D-CQ",
-"https://instagram.com/p/Dch1o-CtTlR",
-"https://instagram.com/p/DczdRfMvVOq",
-"https://instagram.com/p/DdCzHIPD3WL",
-"https://instagram.com/p/DdDYoniOEWp",
-"https://insurance.wa.gov/about-us/news/2026/preventive-services-protections-bill-passes-washington-state-house-representatives",
-"https://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bill%20Reports/House/5917-S%20HBR%20APH%2026.htm",
-"https://lawfilesext.leg.wa.gov/biennium/2025-26/Htm/Bill%20Reports/House/1971%20HBA%20HCW%2025.htm",
-"https://lawfilesext.leg.wa.gov/biennium/2025-26/Htm/Bill%20Reports/House/2015-S.E%20HBR%20PL%2025.htm",
-"https://lawfilesext.leg.wa.gov/biennium/2025-26/Htm/Bill%20Reports/House/2105-S2%20HBR%20PL%2026.htm",
-"https://lawfilesext.leg.wa.gov/biennium/2025-26/Htm/Bill%20Reports/House/2464%20HBR%20APH%2026.htm",
-"https://lawfilesext.leg.wa.gov/biennium/2025-26/Htm/Bills/Session%20Laws/House/1213-S2.SL.htm",
-"https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bill%20Reports/House/1903-S2.E%20HBR%20PL%2026.pdf",
-"https://secure.actblue.com/donate/chelseaforwa",
-"https://washingtonstatestandard.com/2026/02/11/how-wa-lawmakers-are-trying-to-regulate-data-centers"
+{
+"text": "0",
+"href": "https://www.chelseaforwa.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.chelseaforwa.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chelseaforwa"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/chelseaforwa"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chelseaforwa.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.chelseaforwa.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.chelseaforwa.com/volunteer"
+},
+{
+"text": "HB 1213 official roll calls",
+"href": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=1213&initiative=False"
+},
+{
+"text": "HB 1875 official roll calls",
+"href": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=1875&initiative=False"
+},
+{
+"text": "HB 1903 official roll calls",
+"href": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=1903&initiative=False"
+},
+{
+"text": "HB 1971 official roll calls",
+"href": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=1971&initiative=False"
+},
+{
+"text": "HB 2015 official roll calls",
+"href": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=2015&initiative=False"
+},
+{
+"text": "HB 2105 official roll calls",
+"href": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=2105&initiative=False"
+},
+{
+"text": "HB 2242 official roll calls",
+"href": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=2242&initiative=False"
+},
+{
+"text": "HB 2294 official roll calls",
+"href": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=2294&initiative=False"
+},
+{
+"text": "HB 2464 official roll call",
+"href": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=2464&initiative=False"
+},
+{
+"text": "HB 2515 bill history",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2515&Year=2025"
+},
+{
+"text": "House bill report",
+"href": "https://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Bill%20Reports/House/5917-S%20HBR%20APH%2026.htm"
+},
+{
+"text": "House bill report",
+"href": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Htm/Bill%20Reports/House/2464%20HBR%20APH%2026.htm"
+},
+{
+"text": "House roll-call record",
+"href": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=2515&initiative=False"
+},
+{
+"text": "News",
+"href": "https://www.chelseaforwa.com/news"
+},
+{
+"text": "SB 5917 official roll calls",
+"href": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=5917&initiative=False"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Voting Info",
+"href": "https://www.chelseaforwa.com/vote"
+},
+{
+"text": "Washington State Standard summary of the legislation",
+"href": "https://washingtonstatestandard.com/2026/02/11/how-wa-lawmakers-are-trying-to-regulate-data-centers/"
+},
+{
+"text": "[image: Back on the doors y de verdad..this is what it's all about! Being met with warm hugs, real conversations, and comunidad genuinely excited about what we're building together. &quot;Vas a ganar esta vez, mija. You're gonna win this time.&quot; 🥹😭🙏][image: Back on the doors y de verdad..this is what it's all about! Being met with warm hugs, real conversations, and comunidad genuinely excited about what we're building together. &quot;Vas a ganar esta vez, mija. You're gonna win this time.&quot; 🥹😭🙏]",
+"href": "https://www.instagram.com/p/Dc2WsjHhCwP/"
+},
+{
+"text": "[image: Chelsea Dimas for State Rep (D)]",
+"href": "https://www.chelseaforwa.com/"
+},
+{
+"text": "[image: Kinda chic to keep proving what's possible when comunidad shows up. Next stop, the GENERAL. 😏😎][image: Kinda chic to keep proving what's possible when comunidad shows up. Next stop, the GENERAL. 😏😎]",
+"href": "https://www.instagram.com/p/DcSTf2slCOd/"
+},
+{
+"text": "[image: MI GENTE, ES HORA! IT'S TIME TO HIT DOORS!!! 🏃🏽&zwj;♀️🚪 We're kicking off our first canvassing event of the general szn right here at HOME in Sunnyside! Annddd we're teaming up with amazing leaders from the Yakima Valley: Dr. Theresa Hernandez &][image: MI GENTE, ES HORA! IT'S TIME TO HIT DOORS!!! 🏃🏽&zwj;♀️🚪 We're kicking off our first canvassing event of the general szn right here at HOME in Sunnyside! Annddd we're teaming up with amazing leaders from the Yakima Valley: Dr. Theresa Hernandez &]",
+"href": "https://www.instagram.com/p/DczdRfMvVOq/"
+},
+{
+"text": "[image: Spent some time in Klickitat County this weekend! 🫶🏽✨️ Mil gracias to everyone who stopped by the booth or came up to say hi while I walked around the fair. I loved getting to chat and hear from so many of y&rsquo;all! MUY excited to be back out ][image: Spent some time in Klickitat County this weekend! 🫶🏽✨️ Mil gracias to everyone who stopped by the booth or came up to say hi while I walked around the fair. I loved getting to chat and hear from so many of y&rsquo;all! MUY excited to be back out ]",
+"href": "https://www.instagram.com/p/DcKnQuwFJYx/"
+},
+{
+"text": "[image: The rights we have today weren&rsquo;t given to us. Workers fought for them. ✊🏽 They organized, marched, went on strike, and stood together because they knew the power was con la gente, con los trabajadores. Y esa lucha sigue, and that fight conti][image: The rights we have today weren&rsquo;t given to us. Workers fought for them. ✊🏽 They organized, marched, went on strike, and stood together because they knew the power was con la gente, con los trabajadores. Y esa lucha sigue, and that fight conti]",
+"href": "https://www.instagram.com/p/DdCzHIPD3WL/"
+},
+{
+"text": "[image: WE BACK OUT IN COMUNIDAD 😎 Last night&rsquo;s healthcare forum brought together community members, partner organizations, and a panel of experts around one shared vision: accessible, quality healthcare for ALL. I&rsquo;m incredibly orgullosa to sh][image: WE BACK OUT IN COMUNIDAD 😎 Last night&rsquo;s healthcare forum brought together community members, partner organizations, and a panel of experts around one shared vision: accessible, quality healthcare for ALL. I&rsquo;m incredibly orgullosa to sh]",
+"href": "https://www.instagram.com/p/DceXhC3D-CQ/"
+},
+{
+"text": "[image: 🚨 8 WEEKS TO FLIP THE 14TH!!! 🚨 Yeah..we&rsquo;re THAT close 👀 Now we need comunidad to bring it home! Knock doors. Talk to your neighbors. Be part of history. Can we count on y'all?! Dont stay home..sign up NOW: bit.ly/chelseaforwa VAMOS CON ][image: 🚨 8 WEEKS TO FLIP THE 14TH!!! 🚨 Yeah..we&rsquo;re THAT close 👀 Now we need comunidad to bring it home! Knock doors. Talk to your neighbors. Be part of history. Can we count on y'all?! Dont stay home..sign up NOW: bit.ly/chelseaforwa VAMOS CON ]",
+"href": "https://www.instagram.com/p/DdDYoniOEWp/"
+},
+{
+"text": "[image: 🚨 TEAM CHELSEA JUST LEVELED TF UP!!! 🚨 Mi gente, meet our new Campaign Manager: Elijah Gutierrez-Prieto! Growing up in the Tri-Cities and Yakima area, Elijah knows the 14th because this is HOME. He&rsquo;s a proud Pasco High Bulldog and UW Tacoma][image: 🚨 TEAM CHELSEA JUST LEVELED TF UP!!! 🚨 Mi gente, meet our new Campaign Manager: Elijah Gutierrez-Prieto! Growing up in the Tri-Cities and Yakima area, Elijah knows the 14th because this is HOME. He&rsquo;s a proud Pasco High Bulldog and UW Tacoma]",
+"href": "https://www.instagram.com/p/Dch1o-CtTlR/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/chelseaforwa"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/chelseaforwa"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@chelseaforwa.com"
+},
+{
+"text": "enacted legislation",
+"href": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Htm/Bills/Session%20Laws/House/1213-S2.SL.htm"
+},
+{
+"text": "final legislative bill report",
+"href": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Htm/Bill%20Reports/House/2015-S.E%20HBR%20PL%2025.htm"
+},
+{
+"text": "final legislative bill report",
+"href": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Htm/Bill%20Reports/House/2105-S2%20HBR%20PL%2026.htm"
+},
+{
+"text": "final legislative bill report",
+"href": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bill%20Reports/House/1903-S2.E%20HBR%20PL%2026.pdf"
+},
+{
+"text": "official bill analysis",
+"href": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Htm/Bill%20Reports/House/1971%20HBA%20HCW%2025.htm"
+},
+{
+"text": "preventive-services legislation summary",
+"href": "https://www.insurance.wa.gov/about-us/news/2026/preventive-services-protections-bill-passes-washington-state-house-representatives"
+}
 ]

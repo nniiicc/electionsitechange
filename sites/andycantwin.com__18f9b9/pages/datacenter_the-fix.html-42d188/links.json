@@ -1,60 +1,346 @@
 [
-"https://americanactionforum.org/insight/virginias-new-data-center-electricity-rate-class",
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/county",
-"https://andycantwin.com/datacenter",
-"https://andycantwin.com/datacenter/impact.html",
-"https://andycantwin.com/datacenter/raleigh.html",
-"https://andycantwin.com/datacenter/the-fix.html",
-"https://andycantwin.com/datacenter/the-thing.html",
-"https://andycantwin.com/datacenter/the-vote.html",
-"https://andycantwin.com/datacenter/who-pays.html",
-"https://andycantwin.com/duke",
-"https://andycantwin.com/leandro",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/volunteer.html",
-"https://andycantwin.com/workshop",
-"https://axios.com/local/raleigh/2026/02/23/data-center-opposition-grows-across-north-carolina",
-"https://azluminaria.org/2025/08/06/tucson-city-council-rejects-project-blue-amid-intense-community-pressure",
-"https://brookings.edu/articles/why-community-benefit-agreements-are-necessary-for-data-centers",
-"https://businessnc.com/charlotte-groups-data-center-plan-wins-stokes-county-rezoning",
-"https://cleanenergytransition.org/post/oregons-power-act-addresses-ratepayer-impact-of-large-energy-users",
-"https://co.stokes.nc.us/news_detail_T1_R140.php",
-"https://datacenterdynamics.com/en/news/georgia-governor-vetoes-bill-to-pause-data-center-tax-breaks",
-"https://energync.org/blog/new-study-finds-eliminating-nc-carbon-target-could-cost-ratepayers-23-billion-by-2050",
-"https://energync.org/north-carolina-senate-bill-266",
-"https://facebook.com/andycantwin",
-"https://foodandwaterwatch.org/2026/01/07/new-research-debunks-data-center-industry-job-claims",
-"https://fortune.com/2026/07/24/trump-data-center-pledge-governors-nonbinding",
-"https://goodjobsfirst.org/data-centers-best-reforms-for-state-subsidy-legislation",
-"https://governing.com/infrastructure/virginias-data-center-tax-breaks-cost-the-state-1-billion",
-"https://insideclimatenews.org/news/19032026/north-carolina-county-data-center-rezoning-lawsuit",
-"https://instagram.com/andycantwin",
-"https://ipm.org/news/2026-02-04/house-bill-could-provide-benefit-to-communities-that-host-data-centers",
-"https://jlarc.virginia.gov/landing-2024-data-centers-in-virginia.asp",
-"https://journalnow.com/with-dell-done-what-does-n-c-get-back/article_134c2285-c693-5dec-9612-9264ca809a4a.html",
-"https://multistate.us/insider/2026/2/20/state-data-center-legislation-in-2026-tackles-energy-and-tax-issues",
-"https://myfox8.com/news/north-carolina/stokes/proposed-data-center-in-walnut-cove-set-back-to-public-hearing-stage",
-"https://ncacc.org/wp-content/uploads/2024/11/2025-26_NCACC-Legislative-Goals-Package-final.pdf",
-"https://ncjustice.org/ncjc-urges-gov-stein-to-veto-sb-266",
-"https://ncnewsline.com/2025/07/01/ncsu-analysts-duke-energy-bill-lifting-carbon-reduction-goal-will-cost-households-billions",
-"https://ncnewsline.com/2026/03/13/community-groups-sue-over-planned-data-center-in-stokes-county",
-"https://northcarolinahealthnews.org/2026/03/25/nc-communities-push-back-ai-data-centers-project-delta-lawsuit",
-"https://nysenate.gov/legislation/bills/2025/S9144",
-"https://secure.actblue.com/donate/andybowline",
-"https://selc.org/press-release/community-groups-residents-file-lawsuit-over-stokes-county-data-center-rezoning",
-"https://stateline.org/2026/02/24/data-center-tax-breaks-are-on-the-chopping-block-in-some-states",
-"https://technical.ly/civics/maryland-data-center-impact-study-veto-override",
-"https://thegazette.com/local-government/cedar-rapids-city-council-approves-data-center-agreement-calling-it-an-investment-in-the-future",
-"https://virginiamercury.com/2026/02/24/senators-propose-phasing-out-data-center-tax-credit-house-budget-keeps-it",
-"https://wfdd.org/politics-government/2026-07-30/forsyth-commission-votes-down-rural-hall-data-center-proposal",
-"https://wfdd.org/politics-government/2026-09-04/report-challenges-tax-revenue-projections-for-stokes-county-data-center",
-"https://wfdd.org/politics-government/2026-09-14/stokes-county-votes-clear-the-way-for-massive-controversial-data-center-in-walnut-cove",
-"https://whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-advances-energy-affordability-with-the-ratepayer-protection-pledge",
-"https://whitehouse.gov/releases/2026/07/president-trumps-ratepayer-protection-pledge-secures-american-ai-dominance-protects-consumers",
-"https://whyy.org/articles/pennsylvania-electricity-costs-data-centers",
-"https://wral.com/business/story/6156112",
-"https://wral.com/story/6292306",
-"https://wunc.org/2026-01-12/stokes-county-approves-data-center-rezoning-after-heated-meeting",
-"https://wwaytv3.com/dell_pay_back_26m_incentives_nc_plant-10-2009"
+{
+"text": "$1.5 million of the $8.5 million",
+"href": "https://www.wral.com/story/6292306/"
+},
+{
+"text": "$20 to $40 million over ten years",
+"href": "https://www.wfdd.org/politics-government/2026-09-04/report-challenges-tax-revenue-projections-for-stokes-county-data-center"
+},
+{
+"text": "$40 million a year in tax revenue",
+"href": "https://myfox8.com/news/north-carolina/stokes/proposed-data-center-in-walnut-cove-set-back-to-public-hearing-stage/"
+},
+{
+"text": "$400,000/year for 15 years",
+"href": "https://www.thegazette.com/local-government/cedar-rapids-city-council-approves-data-center-agreement-calling-it-an-investment-in-the-future/"
+},
+{
+"text": "1",
+"href": "https://andycantwin.com/datacenter/the-thing.html"
+},
+{
+"text": "2",
+"href": "https://andycantwin.com/datacenter/impact.html"
+},
+{
+"text": "2025-2026 Legislative Goals Package · NC Association of County Commissioners, Nov 2024",
+"href": "https://www.ncacc.org/wp-content/uploads/2024/11/2025-26_NCACC-Legislative-Goals-Package-final.pdf"
+},
+{
+"text": "3",
+"href": "https://andycantwin.com/datacenter/who-pays.html"
+},
+{
+"text": "4",
+"href": "https://andycantwin.com/datacenter/the-vote.html"
+},
+{
+"text": "5",
+"href": "https://andycantwin.com/datacenter/raleigh.html"
+},
+{
+"text": "6",
+"href": "https://andycantwin.com/datacenter/the-fix.html"
+},
+{
+"text": "Analysts on the nonbinding pledge, bills could still jump · Fortune, Jul 2026",
+"href": "https://fortune.com/2026/07/24/trump-data-center-pledge-governors-nonbinding/"
+},
+{
+"text": "Best reforms for data center subsidies · Good Jobs First",
+"href": "https://goodjobsfirst.org/data-centers-best-reforms-for-state-subsidy-legislation/"
+},
+{
+"text": "Bored?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "Cedar Rapids Community Betterment Fund · The Gazette",
+"href": "https://www.thegazette.com/local-government/cedar-rapids-city-council-approves-data-center-agreement-calling-it-an-investment-in-the-future/"
+},
+{
+"text": "County statement voiding the January vote · Stokes County, Apr 2026",
+"href": "https://www.co.stokes.nc.us/news_detail_T1_R140.php"
+},
+{
+"text": "Data center industry job claims debunked · Food & Water Watch, Jan 2026",
+"href": "https://www.foodandwaterwatch.org/2026/01/07/new-research-debunks-data-center-industry-job-claims/"
+},
+{
+"text": "Data center opposition grows across NC · Axios Raleigh, Feb 2026",
+"href": "https://www.axios.com/local/raleigh/2026/02/23/data-center-opposition-grows-across-north-carolina"
+},
+{
+"text": "Data center tax breaks on the chopping block · Stateline, Feb 2026",
+"href": "https://stateline.org/2026/02/24/data-center-tax-breaks-are-on-the-chopping-block-in-some-states/"
+},
+{
+"text": "Data centers in Virginia · JLARC, 2024",
+"href": "https://jlarc.virginia.gov/landing-2024-data-centers-in-virginia.asp"
+},
+{
+"text": "Dell repays $26M in local incentives · WWAY, Oct 2009",
+"href": "https://www.wwaytv3.com/dell_pay_back_26m_incentives_nc_plant-10-2009/"
+},
+{
+"text": "Dell returns $1.5M in state JDIG grants · WRAL, 2009",
+"href": "https://www.wral.com/story/6292306/"
+},
+{
+"text": "Dell/Forsyth County · WRAL, Oct 2009",
+"href": "https://www.wral.com/business/story/6156112/"
+},
+{
+"text": "Dell/Forsyth County · Winston-Salem Journal",
+"href": "https://journalnow.com/with-dell-done-what-does-n-c-get-back/article_134c2285-c693-5dec-9612-9264ca809a4a.html"
+},
+{
+"text": "Developer's jobs and tax revenue pitch · FOX8/WGHP, June 2026",
+"href": "https://myfox8.com/news/north-carolina/stokes/proposed-data-center-in-walnut-cove-set-back-to-public-hearing-stage/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Food & Water Watch analysis",
+"href": "https://www.foodandwaterwatch.org/2026/01/07/new-research-debunks-data-center-industry-job-claims/"
+},
+{
+"text": "Forsyth commissioners deny Project Iron Spur, 5-2 · WFDD, Jul 2026",
+"href": "https://www.wfdd.org/politics-government/2026-07-30/forsyth-commission-votes-down-rural-hall-data-center-proposal"
+},
+{
+"text": "HB 1333",
+"href": "https://www.ipm.org/news/2026-02-04/house-bill-could-provide-benefit-to-communities-that-host-data-centers"
+},
+{
+"text": "Indiana HB 1333 (1% revenue sharing) · IPM News, Feb 2026",
+"href": "https://www.ipm.org/news/2026-02-04/house-bill-could-provide-benefit-to-communities-that-host-data-centers"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "July 2026",
+"href": "https://www.whitehouse.gov/releases/2026/07/president-trumps-ratepayer-protection-pledge-secures-american-ai-dominance-protects-consumers/"
+},
+{
+"text": "Maryland data center impact study veto override · Technical.ly, 2025",
+"href": "https://technical.ly/civics/maryland-data-center-impact-study-veto-override/"
+},
+{
+"text": "NC State analysis: eliminating carbon target could cost $23B · NCSEA, 2025",
+"href": "https://www.energync.org/blog/new-study-finds-eliminating-nc-carbon-target-could-cost-ratepayers-23-billion-by-2050/"
+},
+{
+"text": "NC data center pushback · NC Health News, Mar 2026",
+"href": "https://www.northcarolinahealthnews.org/2026/03/25/nc-communities-push-back-ai-data-centers-project-delta-lawsuit/"
+},
+{
+"text": "Oregon POWER Act · Clean Energy Transition Institute, 2025",
+"href": "https://www.cleanenergytransition.org/post/oregons-power-act-addresses-ratepayer-impact-of-large-energy-users"
+},
+{
+"text": "Over 300 data center bills",
+"href": "https://www.multistate.us/insider/2026/2/20/state-data-center-legislation-in-2026-tackles-energy-and-tax-issues"
+},
+{
+"text": "POWER Act",
+"href": "https://www.cleanenergytransition.org/post/oregons-power-act-addresses-ratepayer-impact-of-large-energy-users"
+},
+{
+"text": "Pennsylvania PPL data center settlement · WHYY, 2026",
+"href": "https://whyy.org/articles/pennsylvania-electricity-costs-data-centers/"
+},
+{
+"text": "Pledge expanded to utilities + governors · White House, Jul 2026",
+"href": "https://www.whitehouse.gov/releases/2026/07/president-trumps-ratepayer-protection-pledge-secures-american-ai-dominance-protects-consumers/"
+},
+{
+"text": "Power Bill guide",
+"href": "https://andycantwin.com/duke/"
+},
+{
+"text": "Report challenges the revenue projections · WFDD, Sep 2026",
+"href": "https://www.wfdd.org/politics-government/2026-09-04/report-challenges-tax-revenue-projections-for-stokes-county-data-center"
+},
+{
+"text": "SB 266 NCSU analysis · NC Newsline, July 2025",
+"href": "https://ncnewsline.com/2025/07/01/ncsu-analysts-duke-energy-bill-lifting-carbon-reduction-goal-will-cost-households-billions/"
+},
+{
+"text": "SB 266 · NC Justice Center, June 2025",
+"href": "https://www.ncjustice.org/ncjc-urges-gov-stein-to-veto-sb-266/"
+},
+{
+"text": "SB 266 · NC Sustainable Energy Association",
+"href": "https://www.energync.org/north-carolina-senate-bill-266/"
+},
+{
+"text": "SB 730",
+"href": "https://andycantwin.com/datacenter/raleigh.html#sb730"
+},
+{
+"text": "SB 730's",
+"href": "https://andycantwin.com/datacenter/raleigh.html#sb730"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "Stokes County lawsuit · Inside Climate News, Mar 2026",
+"href": "https://insideclimatenews.org/news/19032026/north-carolina-county-data-center-rezoning-lawsuit/"
+},
+{
+"text": "Stokes County lawsuit · NC Newsline, Mar 2026",
+"href": "https://ncnewsline.com/2026/03/13/community-groups-sue-over-planned-data-center-in-stokes-county/"
+},
+{
+"text": "Stokes County lawsuit · SELC, Mar 2026",
+"href": "https://www.selc.org/press-release/community-groups-residents-file-lawsuit-over-stokes-county-data-center-rezoning/"
+},
+{
+"text": "Stokes County rezoning · Business North Carolina, Jan 2026",
+"href": "https://businessnc.com/charlotte-groups-data-center-plan-wins-stokes-county-rezoning/"
+},
+{
+"text": "Stokes County rezoning · WUNC, Jan 2026",
+"href": "https://www.wunc.org/2026-01-12/stokes-county-approves-data-center-rezoning-after-heated-meeting"
+},
+{
+"text": "Stokes approves the rezoning, 3-2 · WFDD, Sep 2026",
+"href": "https://www.wfdd.org/politics-government/2026-09-14/stokes-county-votes-clear-the-way-for-massive-controversial-data-center-in-walnut-cove"
+},
+{
+"text": "Stop 2 has the neighbors' version.",
+"href": "https://andycantwin.com/datacenter/impact.html"
+},
+{
+"text": "Tinkering",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "Trump Ratepayer Protection Pledge · White House, Mar 2026",
+"href": "https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-advances-energy-affordability-with-the-ratepayer-protection-pledge/"
+},
+{
+"text": "Tucson council unanimously rejects Project Blue · AZ Luminaria, Aug 2025",
+"href": "https://azluminaria.org/2025/08/06/tucson-city-council-rejects-project-blue-amid-intense-community-pressure/"
+},
+{
+"text": "Virginia GS-5 data center rate class · American Action Forum",
+"href": "https://www.americanactionforum.org/insight/virginias-new-data-center-electricity-rate-class/"
+},
+{
+"text": "Virginia data center tax breaks cost $1B · Governing, 2024",
+"href": "https://www.governing.com/infrastructure/virginias-data-center-tax-breaks-cost-the-state-1-billion"
+},
+{
+"text": "Virginia phasing out data center tax credit · Virginia Mercury, Feb 2026",
+"href": "https://virginiamercury.com/2026/02/24/senators-propose-phasing-out-data-center-tax-credit-house-budget-keeps-it/"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "Why CBAs are necessary for data centers · Brookings Institution",
+"href": "https://www.brookings.edu/articles/why-community-benefit-agreements-are-necessary-for-data-centers/"
+},
+{
+"text": "approved the rezoning over two separate denial recommendations from its own planning board",
+"href": "https://andycantwin.com/datacenter/the-vote.html#stokes"
+},
+{
+"text": "asks for this every session",
+"href": "https://www.ncacc.org/wp-content/uploads/2024/11/2025-26_NCACC-Legislative-Goals-Package-final.pdf"
+},
+{
+"text": "cost the state $1 billion in FY2024",
+"href": "https://www.governing.com/infrastructure/virginias-data-center-tax-breaks-cost-the-state-1-billion"
+},
+{
+"text": "denied the rezoning 5 to 2",
+"href": "https://andycantwin.com/datacenter/the-vote.html#forsyth"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "mandatory data center impact study",
+"href": "https://technical.ly/civics/maryland-data-center-impact-study-veto-override/"
+},
+{
+"text": "missing from Delta's filings",
+"href": "https://andycantwin.com/datacenter/the-thing.html"
+},
+{
+"text": "new GS-5 rate class",
+"href": "https://www.americanactionforum.org/insight/virginias-new-data-center-electricity-rate-class/"
+},
+{
+"text": "next · that is the loopBack to the whole picture",
+"href": "https://andycantwin.com/datacenter/"
+},
+{
+"text": "paid back $26.1 million",
+"href": "https://www.wwaytv3.com/dell_pay_back_26m_incentives_nc_plant-10-2009/"
+},
+{
+"text": "property tax guide",
+"href": "https://andycantwin.com/county/"
+},
+{
+"text": "proposing to phase out the exemption",
+"href": "https://virginiamercury.com/2026/02/24/senators-propose-phasing-out-data-center-tax-credit-house-budget-keeps-it/"
+},
+{
+"text": "repeal the incentives entirely",
+"href": "https://stateline.org/2026/02/24/data-center-tax-breaks-are-on-the-chopping-block-in-some-states/"
+},
+{
+"text": "settlement",
+"href": "https://whyy.org/articles/pennsylvania-electricity-costs-data-centers/"
+},
+{
+"text": "since 2013",
+"href": "https://www.brookings.edu/articles/why-community-benefit-agreements-are-necessary-for-data-centers/"
+},
+{
+"text": "statewide moratorium",
+"href": "https://www.nysenate.gov/legislation/bills/2025/S9144"
+},
+{
+"text": "suspend new data center tax exemptions",
+"href": "https://www.datacenterdynamics.com/en/news/georgia-governor-vetoes-bill-to-pause-data-center-tax-breaks/"
+},
+{
+"text": "the Leandro plan",
+"href": "https://andycantwin.com/leandro/"
+},
+{
+"text": "unanimously rejected \"Project Blue\"",
+"href": "https://azluminaria.org/2025/08/06/tucson-city-council-rejects-project-blue-amid-intense-community-pressure/"
+},
+{
+"text": "with no vote",
+"href": "https://andycantwin.com/datacenter/the-vote.html"
+},
+{
+"text": "← back to the whole picture",
+"href": "https://andycantwin.com/datacenter/"
+},
+{
+"text": "← the whole picture",
+"href": "https://andycantwin.com/datacenter/"
+}
 ]

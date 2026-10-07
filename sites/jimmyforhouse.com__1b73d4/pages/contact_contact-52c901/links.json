@@ -1,17 +1,70 @@
 [
-"https://jimmyforhouse.com/",
-"https://jimmyforhouse.com/cdn-cgi/l/email-protection",
-"https://jimmyforhouse.com/contact/contact/about-jimmy",
-"https://jimmyforhouse.com/contact/contact/accessibility-statement",
-"https://jimmyforhouse.com/contact/contact/contact",
-"https://jimmyforhouse.com/contact/contact/donate",
-"https://jimmyforhouse.com/contact/contact/mobile-terms-and-conditions",
-"https://jimmyforhouse.com/contact/contact/my-principles",
-"https://jimmyforhouse.com/contact/contact/privacy-policy",
-"https://jimmyforhouse.com/contact/contact/terms-of-use",
-"https://jimmyforhouse.com/contact/contact/volunteer",
-"https://jimmyforhouse.com/contact/contact/yard-sign",
-"https://jimmyforhouse.com/mobile-terms-and-conditions",
-"https://pollfinder.sos.mn.gov/",
-"https://userway.org/"
+{
+"text": "763-587-5633",
+"href": "tel:763-587-5633"
+},
+{
+"text": "About Jimmy",
+"href": "https://www.jimmyforhouse.com/contact/contact/about-jimmy/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.jimmyforhouse.com/contact/contact/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "https://www.jimmyforhouse.com/contact/contact/contact/"
+},
+{
+"text": "Contact Info",
+"href": "https://www.jimmyforhouse.com/contact/contact/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.jimmyforhouse.com/contact/contact/donate/"
+},
+{
+"text": "Find My Polling Location",
+"href": "https://pollfinder.sos.mn.gov/"
+},
+{
+"text": "Mobile Terms and Conditions",
+"href": "https://www.jimmyforhouse.com/contact/contact/mobile-terms-and-conditions/"
+},
+{
+"text": "My Principles",
+"href": "https://www.jimmyforhouse.com/contact/contact/my-principles/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jimmyforhouse.com/contact/contact/privacy-policy/"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.jimmyforhouse.com/contact/contact/terms-of-use/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jimmyforhouse.com/contact/contact/volunteer/"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.jimmyforhouse.com/contact/contact/yard-sign/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@jimmyforhouse.com"
+},
+{
+"text": "[image: Jimmy Gordon for House]",
+"href": "https://www.jimmyforhouse.com/"
+},
+{
+"text": "https://www.jimmyforhouse.com/mobile-terms-and-conditions/",
+"href": "https://www.jimmyforhouse.com/mobile-terms-and-conditions/"
+},
+{
+"text": "website accessibility",
+"href": "https://userway.org"
+}
 ]

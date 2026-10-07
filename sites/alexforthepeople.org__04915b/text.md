@@ -1,12 +1,15 @@
+About Platform Get Involved Donate!
+We deserve better.
+Let’s start acting like it.
 For too long, corporations and billionaires have corrupted our political system.
 Neither Republicans nor Democrats are willing to fight for the working class, they only represent their mega-donors.
 With this campaign for Congress, we can take a stand against corruption and the erosion of our democracy.
 Help us fight political corruption by showing that people-powered politics is possible.
 Together, we will make history!
-| Laura Palmer | $ 211.18 |
-| Tammie Rochester | $ 100 |
-| Alfred Molison | $ 158.47 |
-I was born in Tomball 27 years ago and have lived in the area for most of my life.
+Thank You to Our Recent Supporters!
+Laura Palmer $ 211.18 Tammie Rochester $ 100 Alfred Molison $ 158.47 Join them and hundreds more in supporting democracy!
+Meet Alex!
+Alex McMenemy Green Party Candidate for Congress TX-38 I was born in Tomball #ago and have lived in the area for most of my life.
 My family didn’t have much when I was growing up, usually we were lucky just to keep the lights on.
 As the youngest of three boys born to parents who worked too hard for too little pay, I always knew that we were one missed paycheck away from homelessness.
 For many families, including mine, there was nothing to do but rely on credit, dig a deeper hole, and hope for a miracle.
@@ -28,18 +31,21 @@ Everything I do and believe is for the betterment of others.
 I’m a vegan because I believe in animal rights and a healthy environment, I’m a cyclist because I believe in human-centric infrastructure, I’m a musician because I believe that music is a universal language, and I’m a democratic socialist because I believe that we all deserve to live with dignity!
 I promise to continue to fight the corruption of our healthcare system, our political system, and our country as a whole.
 I am the only candidate running in this race to fight for you, your family, your friends, your neighbors, and a better future for all.
+What are the PROBLEMS?
 “We can see what happens when the average person’s voice is ignored.
-It leads us to this moment, where we have to struggle for basic human rights, like food, healthcare, and a decent wage.” – Alex McMenemy
-Our “leaders” in D.C. can’t be trusted to carry out the will of the people.
+It leads us to this moment, where we have to struggle for basic human rights, like food, healthcare, and a decent wage.” – Alex McMenemy Our “leaders” in D.C. can’t be trusted to carry out the will of the people.
 Our healthcare is privatized, our environment is increasingly unsafe to live in, and our democracy is sold to the highest bidder.
 We send poor Americans to die overseas to pump up the stock prices of oil companies, and terrorize innocent people here at home with ICE.
 Our wages are stagnating and there are people dying on the streets while the billionaires are amassing the most wealth in the history of mankind.
+What can we DO about it?
 We need a candidate that isn’t going to be bought out by big corporations or entities like AIPAC.
 Well, my integrity isn’t for sale and I will reject any financial contributions from these organizations.
 We have the chance in this election to steer this country in the right direction.
 We need to demand a better future!
-- Demand Free, Universal Healthcare and Education
-- Demand More Democracy, the Removal of Money from Politics, and the Protection of Human Rights
-- Demand Peace both at home and abroad
-Subscribe to Alex’s weekly mailing list and you’ll see how hard we’re working to bring you the government you deserve:
-Follow the campaign on social media for updates!
+Demand Free, Universal Healthcare and Education Demand More Democracy, the Removal of Money from Politics, and the Protection of Human Rights Demand Peace both at home and abroad Demand for the life you deserve.
+Vote your worth.
+Stay In Touch!
+Subscribe to Alex’s weekly mailing list and you’ll see how hard we’re working to bring you the government you deserve: ← Back Thank you for your response. ✨ Name (required) Email (required) Message Sign me up! Δ Follow the campaign on social media for updates!
+TikTok X Instagram Facebook Donate Today!
+Join the Campaign!
+ALEX FOR THE PEOPLE View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

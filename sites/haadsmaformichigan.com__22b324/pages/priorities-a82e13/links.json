@@ -1,13 +1,54 @@
 [
-"https://facebook.com/Haadsma4House",
-"https://haadsmaformichigan.com/",
-"https://haadsmaformichigan.com/about",
-"https://haadsmaformichigan.com/endorsements",
-"https://haadsmaformichigan.com/get-involved",
-"https://haadsmaformichigan.com/priorities",
-"https://mobilize.us/haadsmaformichigan",
-"https://mobilize.us/jimhaadsma",
-"https://secure.actblue.com/donate/jimhaadsma",
-"https://techforcampaigns.org/",
-"https://twitter.com/JimHaadsma"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jimhaadsma"
+},
+{
+"text": "Endorsements",
+"href": "https://haadsmaformichigan.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://haadsmaformichigan.com/get-involved/"
+},
+{
+"text": "Jim Haadsma | MI State House District 44",
+"href": "https://haadsmaformichigan.com/"
+},
+{
+"text": "Join Our Events",
+"href": "https://www.mobilize.us/jimhaadsma/"
+},
+{
+"text": "Join our Events",
+"href": "https://www.mobilize.us/haadsmaformichigan/"
+},
+{
+"text": "Meet Jim",
+"href": "https://haadsmaformichigan.com/about/"
+},
+{
+"text": "Priorities",
+"href": "https://haadsmaformichigan.com/priorities/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "[image: Jim Haadsma | MI State House District 44]",
+"href": "https://haadsmaformichigan.com/"
+},
+{
+"text": "[tooltip: Contact]",
+"href": "mailto:info@haadsmaformichigan.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/Haadsma4House"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/JimHaadsma"
+}
 ]

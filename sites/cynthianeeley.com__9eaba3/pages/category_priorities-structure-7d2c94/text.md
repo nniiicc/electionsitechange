@@ -1,16 +1,18 @@
-Representative Cynthia Neeley is #ThrivingTogether with the Flint and Saginaw Branch of the NAACP.
-It is an honor to come together and break bread with such an array of amazing of women.
-State Rep.
-Cythia Neely (D-Flint) will host a stop on the Energy Reliability, Resilience and Accountability Task Force Listening Tour on Wednesday, Aug. 16, from…
-TODAY!!!
+Home About News Volunteer Donate Contact Contribute Priorities & Structure Home All Posts Priorities & Structure Home About News Volunteer Donate Contact Priorities & Structure Rights & Obligations October 16, 2023 Rep.
+Cynthia Neeley Thriving Together with the NAACP by webmaster 0 Comments Representative Cynthia Neeley is #ThrivingTogether with the Flint and Saginaw Branch of the NAACP.
+Continue reading News Priorities & Structure October 13, 2023 Black Women in Michigan Politics Luncheon 2023 by webmaster 0 Comments It is an honor to come together and break bread with such an array of amazing of women.
+Continue reading News Priorities & Structure August 1, 2023 State Rep.
+Cythia Neely (D-Flint) will host a stop on the Energy Reliability, Resilience and Accountability Task Force Listening Tour by webmaster 0 Comments State Rep.
+Cythia Neely (D-Flint) will host a stop on the Energy Reliability, Resilience and Accountability Task Force Listening Tour on Wednesday, Aug.
+16, from… Continue reading Family News Priorities & Structure June 8, 2022 Introducing the 4 Pillars Project. by webmaster 0 Comments TODAY!!!
 History was MADE!!
 Cathedral of Faith Church, Grace Emmanuel Baptist Church, Mt.
-Carmel Baptist Church in partnership with GHS and the City of Flint…
-Bringing a vision into reality by transforming one of Flint’s oldest manufacturing sites into a recreational opportunity for families.
-Yesterday, the governor and Flint Mayor…
-Today as we presented HR 256 (KUPPA), Michigan Water Day and World Water Day, we were honored to acknowledge water warriors from our communities.
-Thank…
-March is National Reading Month, encouraging all children to pickup a book and read at least 20 minutes a day. https://www.facebook.com/100006646232583/videos/378544920761248/
-Today I cast many vote on a package that will LOWER prescription drugs!
-Please join Representative Cynthia Neeley for coffee and conversation on Monday, March 15th at 9:30 a.m. at Dom’s Diner located at 3833 Corunna Road in…
-Letter to the Editor: The appalling defense of ex-Governor Synder; Crains Detroit. https://www.crainsdetroit.com/letter-editor/letter-editor-appalling-defense-ex-gov-snyder?fbclid=IwAR2iV365sMy9mzOZ1RkWTwUtE-GFsn4wVAcLTP2Rp-vMQSBn71xIM1UzYzU
+Carmel Baptist Church in partnership with GHS and the City of Flint… Continue reading News Priorities & Structure Rights & Obligations April 1, 2022 Recognizing Civil Rights leader and Union organizer Cesar Chavez by webmaster 0 Comments Bringing a vision into reality by transforming one of Flint’s oldest manufacturing sites into a recreational opportunity for families.
+Yesterday, the governor and Flint Mayor… Continue reading News Priorities & Structure March 22, 2022 Michigan Water Day and World Water Day by webmaster 0 Comments Today as we presented HR 256 (KUPPA), Michigan Water Day and World Water Day, we were honored to acknowledge water warriors from our communities.
+Thank… Continue reading Family News Priorities & Structure March 9, 2022 Encouraging all children to read… by webmaster 0 Comments March is National Reading Month, encouraging all children to pickup a book and read at least 20 minutes a day. https://www.facebook.com/100006646232583/videos/378544920761248/ Continue reading Family News Priorities & Structure March 24, 2021 Voting to lower prescriptions by webmaster 0 Comments Today I cast many vote on a package that will LOWER prescription drugs!
+Continue reading Family News Priorities & Structure March 8, 2021 Coffee & Conversation with Representative Cynthia Neeley by webmaster 0 Comments Please join Representative Cynthia Neeley for coffee and conversation on Monday, March 15th at 9:30 a.m. at Dom’s Diner located at 3833 Corunna Road in… Continue reading News Priorities & Structure February 23, 2021 Letter to the Editor: by webmaster 0 Comments Letter to the Editor: The appalling defense of ex-Governor Synder; Crains Detroit. https://www.crainsdetroit.com/letter-editor/letter-editor-appalling-defense-ex-gov-snyder?fbclid=IwAR2iV365sMy9mzOZ1RkWTwUtE-GFsn4wVAcLTP2Rp-vMQSBn71xIM1UzYzU Continue reading Posts pagination Page 1 Page 2 > Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
+Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.
+October 7, 2024 Election, News Attending the 2024 Democratic National Convention August 26, 2024 Tags articles law news Opinions politics Topics Calendar October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Oct twitter facebook youtube Useful Links Home About Cynthia News Volunteer Privacy Policy Contact Contact Info 1809 James P Cole Blvd Flint, MI 48503 (810) 458-3936 cynthia@cynthianeeley.com Stay in Touch Paid for by Committee to Elect Cynthia R.
+Neeley, 2305 Begole St.
+Flint, MI 48504 | ©#.
+All Rights Reserved.

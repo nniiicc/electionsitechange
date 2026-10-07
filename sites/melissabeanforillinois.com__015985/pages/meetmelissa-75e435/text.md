@@ -1,4 +1,6 @@
-Meet Melissa!
+Skip navigation menu Meet Melissa!
+Volunteer Issues Endorsements Donate Meet Melissa!
+Volunteer Issues Endorsements Donate Meet Melissa!
 A proven leader.
 Melissa Bean is a proven leader for Illinois’ 8th District.
 Whether in her three terms serving in the US House of Representatives, in her leadership roles in business, or as a leader in her community – Melissa has always been known for getting things done and delivering real results.
@@ -34,3 +36,4 @@ Along with being a check on this rogue administration and absent Republican majo
 She’s got big plans to bring opportunity back to America, including her Empowering Young Americans Plan to restore the lower rungs on the ladder of economic mobility.
 Just like Melissa has always done, she plans to listen, learn, problem solve, collaborate, write, amend, and pass legislation that centers on your priorities.
 From home ownership to healthcare, business ownership to retirement, and the wellbeing of future generations and the planet – Melissa plans to hit the ground running on day one to get to work delivering for you.
+Privacy Policy Powered by RUN! website builder Paid for by Melissa Bean for Congress You need to enable JavaScript to run this app.

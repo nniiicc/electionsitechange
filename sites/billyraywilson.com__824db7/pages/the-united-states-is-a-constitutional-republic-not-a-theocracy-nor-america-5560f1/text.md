@@ -1,11 +1,11 @@
-With the current Trump Administration’s handling of the Iran Conflict, I must respond with the truth.
-The truth is that this centuries-old conflict began in the 900s BCE, according to the World Book Encyclopedia, when Hebrew groups departed Mesopotamia to establish One God instead of the multiple gods worshiped by the citizens of Mesopotamia, the Levant (attached history summary), and other populated areas in the Middle East region.
+Skip to content Home About Blog Books Contact Home About Blog Books Contact The United States is a Constitutional Republic, Not a Theocracy Nor America / Blog Post / By Billy Ray Wilson With the current Trump Administration’s handling of the Iran Conflict , I must respond with the truth.
+The truth is that this centuries-old conflict began in the 900s BCE, according to the World Book Encyclopedia , when Hebrew groups departed Mesopotamia to establish One God instead of the multiple gods worshiped by the citizens of Mesopotamia, the Levant ( attached history summary ), and other populated areas in the Middle East region.
 The Hebrew effort was successful with the establishment of the God of Abraham, which became the God for those of Judaism, Christianity, and Islam.
 One example I find noteworthy is the story of Esther, a Hebrew residing in Persia, and her influence on King Cyrus of Persia to free all Hebrews in Babylon.
 King Cyrus was successful, and the elite Hebrews moved to the Kingdom of Judea and the Kingdom of Samaria.
 In fact, during the time the Hebrews were in Babylon, they learned of established laws that became Moses’ Ten Commandments; they learned of the planets (including Planet Nine, which science is confirming); they learned about creation myths; they learned of a great flood which became Noah and his Ark; and they learned of the Tower of Babel and so many other wonders which the scribes used to falsify the religion allegedly established by the fictitious Abraham, the Hebrew.
-Interesting to me were the views of former Israeli Prime Minister Ariel Sharon on Judea and Samaria, which are attached to this blog, and the current conflict in the Middle East.
-Also attached is an article by Sarah Helm, dated 16 November 1993, with the subject: ‘Sharon renews offensive against self-rule: Israel’s ‘most dangerous hawk’ tells the ‘Independent’ of his opposition to government accords with the Palestinians.’ For example, General Sharon calls Judea and Samaria the land of “Eretz Israel,” which explains the centuries-old quest by the Hebrews.
+Interesting to me were the views of former Israeli Prime Minister Ariel Sharon on Judea and Samaria , which are attached to this blog, and the current conflict in the Middle East .
+Also attached is an article by Sarah Helm, dated 16 November 1993, with the subject: ‘ Sharon renews offensive against self-rule: Israel’s ‘most dangerous hawk’ tells the ‘Independent’ of his opposition to government accords with the Palestinians. ’ For example, General Sharon calls Judea and Samaria the land of “ Eretz Israel ,” which explains the centuries-old quest by the Hebrews.
 The Hebrews, aka Jews, Zionists, and Israelis, will continue this quest until their Biblical Kingdoms and Judaism untruths are fulfilled—or, most probably, the world will become involved in World War III and possibly render the earth uninhabitable.
 Note: “Eretz Ha-Ivrim” means land of the Hebrews and is close to the covenantal promise God made to Abraham and his descendants, extending from the river of Egypt to the Euphrates.
 “Israel” refers to the descendants of Jacob, who was also known as Israel.
@@ -23,7 +23,6 @@ However, too many people allow politicians and the clergy to deny them their bir
 Hebrews and Christian Nationalists are destroying our Republic in the name of a non-existing entity.
 If you want the United States to remain free and equal, then vote for US citizens in November 2026, not those Republicans who became Trump litter.
 Thank you for your attention.
-With respect, I remain,
-BILLY RAY WILSON
-DEFENDER OF THE US CONSTITUTION
-WRITE-IN CANDIDATE FOR THE US HOUSE OF REPRESENTATIVES, KY’S FIFTH CONGRESSIONAL DISTRICT
+With respect, I remain, BILLY RAY WILSON DEFENDER OF THE US CONSTITUTION WRITE-IN CANDIDATE FOR THE US HOUSE OF REPRESENTATIVES, KY’S FIFTH CONGRESSIONAL DISTRICT blog new US constitutional republic not theocracy ← Previous Post Next Post → Home About Blog Books Contact Copyright © # Billy Ray Wilson.
+All Rights Reserved.
+Scroll to Top

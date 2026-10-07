@@ -1,30 +1,134 @@
 [
-"http://elections.il.gov/",
-"http://facebook.com/vote4maura",
-"http://google.com/calendar/event?action=TEMPLATE&text=Day+of+Action+w%2F+Yeena+Yoo+for+DuPage+Treasurer&dates=20261005T040000Z%2F20261005T230000Z&location=946+North+Neltnor+Boulevard+%23112%2C+West+Chicago%2C+IL%2C+United+States",
-"http://instagram.com/votemaura",
-"http://maps.google.com/?q=946+North+Neltnor+Boulevard+",
-"https://docs.google.com/forms/d/1AIQYLXxdJ5SprgGoKj3iGly373UNB9rtrajKsmEqbmI/viewform",
-"https://facebook.com/vote4maura",
-"https://instagram.com/votemaura",
-"https://secure.actblue.com/donate/gomauraweb22",
-"https://twitter.com/votemaura",
-"https://votemaura.com/",
-"https://votemaura.com/about-maura",
-"https://votemaura.com/about-me",
-"https://votemaura.com/contact",
-"https://votemaura.com/contactmenu",
-"https://votemaura.com/events",
-"https://votemaura.com/events/day-of-action-w-yeena-yoo-for-dupage-treasurer?format=ical",
-"https://votemaura.com/events/fundraiser-sidecar",
-"https://votemaura.com/events?view=calendar&month=10-2026",
-"https://votemaura.com/illinois-district-49",
-"https://votemaura.com/issues",
-"https://votemaura.com/mediaresources",
-"https://votemaura.com/privacy-policy",
-"https://votemaura.com/search",
-"https://votemaura.com/volunteer",
-"https://votemaura.com/vote",
-"https://votemaura.com/yard-signs",
-"https://youtube.com/channel/UCljpDnTO-R3_SKcP893U-8g"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=946+north+neltnor+boulevard+#112%20west%20chicago,%20il%20united%20states"
+},
+{
+"text": "About",
+"href": "https://www.votemaura.com/about-maura"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.votemaura.com/events?view=calendar&month=10-2026"
+},
+{
+"text": "Candidate Endorsement Questionnaire",
+"href": "https://docs.google.com/forms/d/1AIQYLXxdJ5SprgGoKj3iGly373UNB9rtrajKsmEqbmI/viewform"
+},
+{
+"text": "Contact",
+"href": "https://www.votemaura.com/contactmenu"
+},
+{
+"text": "Contact Maura",
+"href": "https://www.votemaura.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/gomauraweb22"
+},
+{
+"text": "Events",
+"href": "https://www.votemaura.com/events"
+},
+{
+"text": "Facebook",
+"href": "http://www.facebook.com/vote4maura"
+},
+{
+"text": "Fundraiser @ Sidecar",
+"href": "https://www.votemaura.com/events/fundraiser-sidecar"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Day+of+Action+w%2F+Yeena+Yoo+for+DuPage+Treasurer&dates=20261005T040000Z%2F20261005T230000Z&location=946+North+Neltnor+Boulevard+%23112%2C+West+Chicago%2C+IL%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.votemaura.com/events/day-of-action-w-yeena-yoo-for-dupage-treasurer?format=ical"
+},
+{
+"text": "Illinois District 49",
+"href": "https://www.votemaura.com/illinois-district-49"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/votemaura"
+},
+{
+"text": "Issues",
+"href": "https://www.votemaura.com/issues"
+},
+{
+"text": "Maura's Story",
+"href": "https://www.votemaura.com/about-me"
+},
+{
+"text": "Media Resources",
+"href": "https://www.votemaura.com/mediaresources"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votemaura.com/privacy-policy"
+},
+{
+"text": "Twitter",
+"href": "https://www.twitter.com/votemaura"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votemaura.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.votemaura.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.votemaura.com/yard-signs"
+},
+{
+"text": "YouTube",
+"href": "https://youtube.com/channel/UCljpDnTO-R3_SKcP893U-8g"
+},
+{
+"text": "[image: Maura for 49]",
+"href": "https://www.votemaura.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/votemaura"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/vote4maura"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votemaura/"
+},
+{
+"text": "[no text]",
+"href": "https://www.votemaura.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/channel/UCljpDnTO-R3_SKcP893U-8g"
+},
+{
+"text": "email",
+"href": "mailto:hello@VoteMaura.com"
+},
+{
+"text": "hello@votemaura.com",
+"href": "mailto:hello@votemaura.com"
+},
+{
+"text": "volunteer registration",
+"href": "https://www.votemaura.com/volunteer"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov/"
+}
 ]

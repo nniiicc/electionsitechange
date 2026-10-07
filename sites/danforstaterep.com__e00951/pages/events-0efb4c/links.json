@@ -1,11 +1,54 @@
 [
-"https://danforstaterep.com/",
-"https://danforstaterep.com/about",
-"https://danforstaterep.com/cart",
-"https://danforstaterep.com/contact",
-"https://danforstaterep.com/events",
-"https://facebook.com/DanForPA",
-"https://instagram.com/pahdcc",
-"https://mobilize.us/?q=Dan+Goughnour",
-"https://secure.actblue.com/donate/dan-goughnour-1"
+{
+"text": "0",
+"href": "https://danforstaterep.com/cart"
+},
+{
+"text": "About",
+"href": "https://danforstaterep.com/about"
+},
+{
+"text": "About us",
+"href": "https://danforstaterep.com/about"
+},
+{
+"text": "Contact",
+"href": "https://danforstaterep.com/contact"
+},
+{
+"text": "Dan Goughnour for Pennsylvania House district 35",
+"href": "https://danforstaterep.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dan-goughnour-1"
+},
+{
+"text": "Email",
+"href": "mailto:email@example.com"
+},
+{
+"text": "Events",
+"href": "https://danforstaterep.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DanForPA"
+},
+{
+"text": "Home",
+"href": "https://danforstaterep.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/pahdcc/"
+},
+{
+"text": "THIS LINK HERE",
+"href": "https://www.mobilize.us/?q=Dan+Goughnour"
+},
+{
+"text": "https://www.mobilize.us/?q=Dan%20Goughnour",
+"href": "https://www.mobilize.us/?q=Dan+Goughnour"
+}
 ]

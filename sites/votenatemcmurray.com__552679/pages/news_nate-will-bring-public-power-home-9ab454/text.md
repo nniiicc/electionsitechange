@@ -1,6 +1,7 @@
-NATE WILL BRING PUBLIC POWER HOME
-NATE WILL BRING PUBLIC POWER HOME
-Walk down Main Street in Niagara Falls.
+0 Skip to Content HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES Folder: ISSUES Back Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER NATE WILL BRING PUBLIC POWER HOME Feb 16 Written By Nathan McMurray NATE WILL BRING PUBLIC POWER HOME Walk down Main Street in Niagara Falls.
 Be honest about what you see.
 Boarded storefronts.
 Empty windows.
@@ -30,8 +31,7 @@ It needs payroll.
 It needs daily professionals walking to lunch, buying coffee, renting apartments, hiring local firms, attending local events, sending their kids to local schools.
 Executive headquarters are not symbolic.
 They are economic engines.
-Relocate NYPA’s executive offices to newly assembled land near downtown Niagara Falls, and you change the trajectory overnight:
-Hundreds of professional jobs.
+Relocate NYPA’s executive offices to newly assembled land near downtown Niagara Falls, and you change the trajectory overnight: Hundreds of professional jobs.
 Six-figure salaries.
 Year-round stability.
 Institutional gravity.
@@ -54,3 +54,6 @@ We don’t need symbolism.
 We need alignment.
 Niagara Falls powered New York.
 Now it’s time New York powers Niagara Falls.
+Nathan McMurray Previous Previous Sign our Petition to Stop Data Centers on the Niagara River Next Next No Gatekeepers.
+No Spin.
+LIVE Conversations at 8 PM Volunteer and Sign Up for Updates!

@@ -1,18 +1,17 @@
-MY POSITIONS
-Responsibility.
+0 Skip to Content About Steve My Platform My Positions Voter Info Join Me RSVP English Donate Open Menu Close Menu About Steve My Platform My Positions Voter Info Join Me RSVP English Donate Open Menu Close Menu About Steve My Platform My Positions Voter Info Join Me RSVP English Back Donate MY POSITIONS Responsibility.
 Friendship.
 Liberty.
 We live in the best times in human history.
 We are better housed, better fed, and better informed.
-We enjoy technologies that people even 50 years ago would have thought miraculous.
+We enjoy technologies that people even #ago would have thought miraculous.
 Here in America, we do not face the horrors of living in a war zone; we do not face the crushing poverty of a country where the average person gets by on less than a dollar a day.
 These are the blessings of liberty that our founders pledged themselves to in the Preamble to our Constitution.
 I am devoted to expanding and extending those blessings to our children and our children’s children.
-My Guiding Principles
-We should work together toward common goals.
+My Guiding Principles We should work together toward common goals.
 Our military should defend, not direct.
 Let’s leave our children a country that is fiscally strong, at peace at home and abroad, and leads by example.
-- Balance our federal budget The big problem with the Federal government is too much spending.
+Donate!
+Government Spending Balance our federal budget The big problem with the Federal government is too much spending.
 Reducing it should be our number one priority.
 Things like regulating which sports teams trans girls play on may seem critically important to some people, but it's not like the Federal debt crisis.
 When I view these issues as a physician, I see the Federal debt as a serious disease; like lung cancer, it needs to be addressed now, before it spreads any further and kills the patient.
@@ -32,24 +31,24 @@ It is a tax on everyone because it causes inflation, making our money worth less
 As noted by Manhattan Institute senior fellow Brian M.
 Riedel in the Wall Street Journal, raising taxes on the wealthiest Americans won’t nearly be enough to solve our debt crisis.
 We must cut spending.
-- Simplify the system A simpler system, with minimal rates and no deductions, would promote confidence by being more transparent.
+Taxes Simplify the system A simpler system, with minimal rates and no deductions, would promote confidence by being more transparent.
 One simple, transparent approach would be a flat tax and sales tax, with a full rebate for everyone on all income up to the poverty level–and no other taxes.
-- Our military should defend our borders, not tell others how to live We must defend our country, and we must always have the military strength our defense requires.
+National Defense Our military should defend our borders, not tell others how to live We must defend our country, and we must always have the military strength our defense requires.
 We will be more secure at home if we kill fewer people abroad.
 If we focus on defending our borders and get our military out of the business of forcing people in other countries to live as we do, we can maintain a strong defense and reduce the cost of government.
 We will have fewer enemies, if we stop doing to others what we wouldn’t want done to us: • Stop imposing sanctions that kill their children • Stop supporting dictators in their countries • Stop supporting Israel's mistreatment and killing of Palestinian families; as an American Jew who lost family in the Holocaust, I passionately believe that the Israeli government's current policy is morally and strategically wrong We can better influence how other people live by being the best role model we can be.
 Spending some of what we save by focusing our military on defense, we can use our Peace Corps as a role model for peace.
 In addition to improving our relations with other countries, this will improve our human capital by training our young people in productive skills–such as construction, teaching, and health care–rather than teaching them how to kill.
 Over the long term, this will lead to economic growth that is consistent with our values and can reduce our federal debt.
-- Build a solid financial foundation to ensure the future of these programs Both programs are going broke.
+Social Security and Medicare Build a solid financial foundation to ensure the future of these programs Both programs are going broke.
 Once they are out of money, they won’t work for anyone.
 Let’s work together to find and implement the best solution to keeping them viable.
 People live longer, healthier lives than they used to.
 We should consider raising the eligibility age for Medicare and Social Security, particularly for healthy, working people.
 In The Dispatch, Manhattan Institute senior fellow Brian M.
-Riedel makes the case that, if we want to get serious about balancing the federal budget, we have to consider changes to Social Security and Medicare.
+Riedel makes the case that, if we want to get serious about balancing the federal budget, we have to consider changes to Social Security and Medicare .
 In a white paper for the Manhattan Institute, senior fellow Chris Pope outlines a plan to keep Medicare affordable.
-- Put the power of markets to work There is no best healthcare system because we don’t have unlimited resources.
+Healthcare Put the power of markets to work There is no best healthcare system because we don’t have unlimited resources.
 Our current third-party payment system can provide miracles, but it is extraordinarily costly and not accessible to everyone.
 As a physician caring for patients, I see how the limitations of our current system lead to higher costs and restricted access.
 Patients don’t have an incentive to choose low cost options.
@@ -76,7 +75,7 @@ While these are my preferences, they will not create a perfect system.
 Some people might choose less care than others think best.
 That should be their right.
 There is no perfect system.
-- End the prohibition Government should restrict people from hurting others, but let them live their own lives as they choose.
+Drugs End the prohibition Government should restrict people from hurting others, but let them live their own lives as they choose.
 Legalizing or decriminalizing drugs at the federal level would: • Allow us to rely on personal & family responsibility, rather than government force • Reduce imprisonment and its associated costs • Save tens of billions of dollars in direct government spending on the drug war, plus hundreds of billions of indirect costs • End the destruction of communities caused by illegal drug traffic and government efforts to control it • Reduce racial disparity • Reduce the violence involved in drug prosecution • Drive enforcement decisions to the local level, where people have a better understanding of their community’s situation and needs • Eliminate drug cartels and drug violence • Reduce problems at our southern border High taxes on recreational drugs are not the solution.
 The experience in Colorado shows that high taxes create a black market.
 Our experience with alcohol has shown that legalization is better than prohibition.
@@ -89,7 +88,7 @@ Legalizing drugs would reduce fentanyl deaths by helping people avoid illegal op
 Plus, it would allow us to address overdose at the point of sale.
 For example, NARCAN® (naloxone nasal spray) is an approved over-the-counter opioid overdose treatment.
 If drug use were legal, fentanyl and other opioids could be sold in a package with Narcan, reducing the number of deaths by overdose.
-- Work together to create a balanced policy Abortion or reproductive rights is an issue for which there is no reasonable compromise.
+Abortion and Reproductive Rights Work together to create a balanced policy Abortion or reproductive rights is an issue for which there is no reasonable compromise.
 The government should—absolutely—not try to control women’s bodies.
 The government—absolutely—should not condone murder.
 These two “no compromise is possible” principles are at odds, and some balance must be found.
@@ -101,25 +100,24 @@ I agree with the pro-Choice position that the government should not be in the bu
 I agree with the pro-Life position that the rights of the fetus must also be considered; a woman does not have the right to indiscriminately end a pregnancy (kill her baby) at any time, for any reason.
 Clearly, we should minimize the number of unwanted pregnancies.
 Once a pregnancy has occurred, I don’t think there’s any one correct answer.
-I do think we could craft a reasonable, balanced policy that includes • Keeping government out of funding abortions • Making abortion illegal after a certain period of gestation, with proper consideration for the health of the mother • Allowing different states to adopt different regulations, based on the views of the people in those different states
-- The government has no place telling individuals who they can marry or telling religious organizations who they must marry For some of us, marriage is sacred.
+I do think we could craft a reasonable, balanced policy that includes • Keeping government out of funding abortions • Making abortion illegal after a certain period of gestation, with proper consideration for the health of the mother • Allowing different states to adopt different regulations, based on the views of the people in those different states Marriage Equality The government has no place telling individuals who they can marry or telling religious organizations who they must marry For some of us, marriage is sacred.
 Religious institutions should be free to define marriage as they please and choose who to marry without government interference.
 Personally, I respect the marriages of all people equally.
 With my Jewish background and having had family members killed in the Holocaust, I am particularly sensitive to discrimination and don’t want to make life harder than it already is for anyone.
 Any two people who wish to marry should be able to do so without government interference.
-- Government should treat each person as an individual; it should never discriminate based on gender, skin color, or sexual preference We are all one race.
+Discrimination Government should treat each person as an individual; it should never discriminate based on gender, skin color, or sexual preference We are all one race.
 “Racial” preference should not be permitted in government-funded endeavors.
 It is, however, entirely reasonable to address past discrimination.
 If someone, regardless of so-called “race,” was personally disadvantaged because of past discrimination, appropriate redress is reasonable.
 Publicly funded colleges should not discriminate based on so-called “race,” but can consider the effects of past discrimination on individuals.
 For example, there is no basis for giving an advantage to a recent immigrant from Africa who has darkly pigmented skin but no personal or family history of discrimination in the U.S.
 However, it is entirely reasonable to consider an individual’s economic and educational background—including discrimination their family endured in education or economy—when making admission decisions.
-- Let’s create a system that allows all eligible voters — and only eligible voters — to vote We all want fair elections.
+Voter ID Let’s create a system that allows all eligible voters — and only eligible voters — to vote We all want fair elections.
 Voter ID cards ensure that everyone who casts a vote is eligible to vote and keeps ineligible voters from committing voter fraud.
 However, voter ID cards can make elections less fair by placing an undue burden on those eligible voters who may have difficulty obtaining a valid ID.
 Recognizing the well-meaning motivations of people on both sides, I encourage us to come together and agree on a system that allows all eligible voters–and only eligible voters–to vote.
 Libertarians don’t care for government ID’s, but I personally believe that requiring a voter ID is entirely reasonable, if we make sure that all eligible voters are given or can easily obtain an ID.
-- Let’s direct our foreign policy toward peace, commerce, and honest friendship with all nations Punishing other nations for choosing to govern themselves in ways we do not like or having values that differ from ours has proven to be counterproductive.
+Foreign Relations Let’s direct our foreign policy toward peace, commerce, and honest friendship with all nations Punishing other nations for choosing to govern themselves in ways we do not like or having values that differ from ours has proven to be counterproductive.
 Our most successful foreign policies have been based on peaceful engagement with other nations.
 Policies that could foster peaceful relations include • Ending sanctions on Iran and Cuba; those sanctions hurt the people in those countries and have had no beneficial effect on the policies of their governments • Ending our support for dictators in other countries • Expanding our Peace Corps activities The current conflict between Russia and Ukraine could be ended by peaceful means.
 Russia’s invasion was fueled, in part, by the effort to expand NATO to the Russian border.
@@ -137,7 +135,7 @@ We don’t need to be seen as a threat by Russia.
 Ukraine gains nothing by being on the front line of a presumed conflict between Russia and the NATO alliance.
 It is in everyone’s interest to find a peaceful resolution.
 Also take a moment to review the position statement from the Libertarian Party of North Carolina about funding foreign wars and the situation in Israel and Palestine.
-- The best way to reduce violence is to make our culture less violent, not to take guns from law-abiding citizens I don’t own a gun.
+Gun Rights & School Shootings The best way to reduce violence is to make our culture less violent, not to take guns from law-abiding citizens I don’t own a gun.
 I believe having a gun in my home would bring more risks than benefits, but that is only my personal perception.
 I don’t want to force my preferences on anyone else.
 The government should NOT take guns away from law-abiding citizens.
@@ -153,7 +151,7 @@ Other gun owners tell me that better enforcement of gun crimes, background check
 Gun enthusiasts should be involved in the development of these regulations so that we can maximize the intended benefits and minimize the undesirable secondary effects.
 It is also reasonable to have different rules in different states, within the constraints of Constitutional law.
 This allows each state’s laws to reflect the will of the people in that state.
-- Give parents the tools to give their children a great education Education is one key to prosperity.
+Education Give parents the tools to give their children a great education Education is one key to prosperity.
 I would like to promote a culture that values education more and violence less.
 We can create that culture by being role models for learning, not by forcing education on people.
 Our policies should recognize that a university degree in the arts or sciences is not for everyone.
@@ -161,10 +159,10 @@ Policies that create greater career and technical education opportunities would 
 The federal government should get out of the business of subsidizing colleges and universities.
 These subsidies only drive up the price of a college education.
 We can bring the price down dramatically—and expand access—by reducing subsidies and encouraging greater use of online education.
-- Openness in government encourages decisions that are consistent with our values As citizens of a democracy, it is our responsibility to vote for the people and policies that we think will best meet our nation’s needs.
+Government Transparency Openness in government encourages decisions that are consistent with our values As citizens of a democracy, it is our responsibility to vote for the people and policies that we think will best meet our nation’s needs.
 The less we know about the policies our legislature is developing and the ways in which our executive branch implements those policies, the less able we are to meet that responsibility.
 Our politicians and administrators should be as open as possible about what they are doing and how they are doing it.
-- Our current policies have failed; it’s time for a fresh perspective Generally, immigration to America has been very good for us over the past 250 years.
+Immigration Our current policies have failed; it’s time for a fresh perspective Generally, immigration to America has been very good for us over the past 250 years.
 Young families contribute to the working population and help to grow the overall economy.
 However, the influx of new workers can have unacceptable effects on wages.
 Our policies need to balance these good and bad effects.
@@ -175,19 +173,26 @@ Ending the drug war would end the drug smuggling cartels.
 It would be a start toward making life better in Mexico and Central America—and reducing the number of families seeking to move here.
 Changes to other policies could also improve the lives of people in countries to our south.
 For example, ending our current sanctions on Venezuela would make families there less desperate to leave.
-- We know global warming is real; we cannot know its ultimate effects or how to solve them Global warming is occurring, and some of that is due to industrial CO2 production.
+Climate We know global warming is real; we cannot know its ultimate effects or how to solve them Global warming is occurring, and some of that is due to industrial CO2 production.
 Science has limitations when it comes to predicting the future.
 We can know that temperatures are rising, but we cannot know how much they will change in the future or the full impact of that increase.
 Market forces have already led to the development of technologies and processes that generate cleaner energy, will allow us to adapt to climate changes, and can mitigate some of their effects.
 We can expect the power of the market to continue to drive new responses.
 Government should encourage, but not attempt to direct, these responses.
-- To honor our flag is to honor each other To many people in the United States, our flag represents our highest ideals, our Constitution, and our founding.
+Our Nation’s Flag To honor our flag is to honor each other To many people in the United States, our flag represents our highest ideals, our Constitution, and our founding.
 To some, it also represents those who gave their lives in support of our country.
 People with those beliefs cannot fathom why anyone would disrespect the flag in any way.
 Others—who may also see our flag as the symbol of our highest ideals, our Constitution, and our founding—believe that protest in support of those values is the best way to honor our flag and those who gave their lives to defend our country.
 I believe we should always listen deeply to understand the intentions of people who do things we disagree with.
 At the same time, we should always think carefully about how other people will interpret the things we do.
 While I support the right of people to disrespect or even desecrate the flag, I have tremendous respect for those who would like to do so but who choose not to because they know that their neighbors revere the flag as a symbol of our nation, its ideals, and the people who gave their lives to defend our freedoms.
-- I support the right of people to fly the Confederate flag and deeply respect those who choose not to because others see it as a symbol of racism and slavery To many people the Confederate flag represents slavery and racism.
+The Confederate Flag I support the right of people to fly the Confederate flag and deeply respect those who choose not to because others see it as a symbol of racism and slavery To many people the Confederate flag represents slavery and racism.
 However, to the people who fly that flag, it may simply represent their southern heritage, a heritage of hospitality, pork barbecue with hushpuppies, a rural way of life, and patriotism.
 While I support the right of people to fly the Confederate flag, I have tremendous respect for those who would like to fly it, but who choose not to, because they know that some of their neighbors see it as a symbol of slavery and racism.
+Learn more: My Platform About Steve Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you for your interest in my campaign!
+You have been added to my mailing list.
+Donate Volunteer!
+Mailing Address: 1959 N Peace Haven Road, PMB #327, Winston-Salem, NC 27106-4850 About Steve My Platform My Positions Voter Information Paid for by Steve Feldman for Congress, © #-#

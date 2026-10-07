@@ -1,6 +1,4 @@
-Rx Kids Expands to Galesburg, Oshtemo Township, and Wakeshma Township
-"County Commission Chair Jen Strebs framed the expansion as a test of whether political commitments translate to action.
+0 Skip to Content About Jen Issues Endorsements News Text Opt-In Contribute Open Menu Close Menu About Jen Issues Endorsements News Text Opt-In Contribute Open Menu Close Menu About Jen Issues Endorsements News Text Opt-In Contribute Rx Kids Expands to Galesburg, Oshtemo Township, and Wakeshma Township Jun 12 Written By Sam Longlet "County Commission Chair Jen Strebs framed the expansion as a test of whether political commitments translate to action.
 “Political talk can be cheap when it’s not followed up by actions,” she said.
 “When we’re gonna stand up and say investing in young people, supporting families matters, but we don’t move forward investments that actually make that happen — they’re empty words.
-What we see here today is a collaboration with state government, local partners, our philanthropic community, community advocates, thought leaders, public health officials and experts that bring forward actual meaningful solutions.”
-Read More Here →
+What we see here today is a collaboration with state government, local partners, our philanthropic community, community advocates, thought leaders, public health officials and experts that bring forward actual meaningful solutions.” Read More Here → Sam Longlet Previous Previous Plan to reduce road deaths by removing trees draws pushback Next Next Homelessness 5 years from now: Kalamazoo leaders share visions Paid for by Committee to Elect Jen Strebs P.O Box 20061, Kalamazoo MI 49009

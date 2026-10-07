@@ -1,7 +1,26 @@
 [
-"https://pironiforny.com/",
-"https://pironiforny.com/meet-paolo",
-"https://pironiforny.com/sign",
-"https://pironiforny.com/volunteer",
-"https://secure.winred.com/pironi-for-ny-assembly/district15"
+{
+"text": "About",
+"href": "https://www.pironiforny.com/meet-paolo"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/pironi-for-ny-assembly/district15"
+},
+{
+"text": "Home",
+"href": "https://www.pironiforny.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.pironiforny.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.pironiforny.com/sign"
+},
+{
+"text": "[image: Logo.png]",
+"href": "https://www.pironiforny.com"
+}
 ]

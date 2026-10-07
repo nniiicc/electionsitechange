@@ -1,7 +1,2 @@
-top of page
-Community Town Hall & Discussion Event
-Fri, Mar 20
-|District 12 Community Center
-Join us for an informative dialogue about the campaign's vision and objectives for the future of Oklahoma House District 12.
-Registration is closed
-bottom of page
+top of page Home About Me Search Results DONATE Donate Community Town Hall & Discussion Event Fri, Mar 20 | District 12 Community Center Join us for an informative dialogue about the campaign's vision and objectives for the future of Oklahoma House District 12.
+Registration is closed See other events Time & Location Mar 20, 2026, 10:29 AM – 12:29 PM District 12 Community Center, Tulsa, OK 74134, USA About the event Engage with voters and share campaign vision Show More Share this event Oklahoma House District 12 • Wagoner County • praterforok@gmail.com © # Paid for by Tiffany Prater for Oklahoma 2026 bottom of page

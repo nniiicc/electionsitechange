@@ -1,10 +1,34 @@
 [
-"https://aboutads.info/choices",
-"https://adobe.com/products/flashplayer/security",
-"https://facebook.com/StockforNC",
-"https://instagram.com/stockfornc",
-"https://marketingplatform.google.com/about",
-"https://secure.anedot.com/friends-of-chris-stock/support",
-"https://stockfornc.com/",
-"https://stockfornc.com/privacy-policy"
+{
+"text": "<< Back to site",
+"href": "https://www.stockfornc.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-chris-stock/support"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.stockfornc.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/StockforNC"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/stockfornc/"
+},
+{
+"text": "this Google page.",
+"href": "https://marketingplatform.google.com/about/"
+},
+{
+"text": "www.aboutads.info/choices",
+"href": "https://www.aboutads.info/choices"
+},
+{
+"text": "www.adobe.com/products/flashplayer/security",
+"href": "https://www.adobe.com/products/flashplayer/security"
+}
 ]

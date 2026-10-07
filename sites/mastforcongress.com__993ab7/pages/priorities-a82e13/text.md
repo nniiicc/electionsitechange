@@ -1,13 +1,14 @@
-Drain The Swamp
-Washington, D.C. wastes far too much money on programs that either don’t work, have outlived their usefulness, or should never have existed in the first place.
+Thanks for your interest in our AMERICA FIRST movement.
+Will you please take a moment to join our team?
+Donate Now Email Updates Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities Shop Donate Priorities Drain The Swamp Defending Life Safer Communities Second Amendment Supporting our Ally Israel America First Tax Cuts And Jobs Veterans Ensuring Care for Seniors Affordable Healthcare Fighting For Clean Water Drain The Swamp Washington, D.C. wastes far too much money on programs that either don’t work, have outlived their usefulness, or should never have existed in the first place.
 Members of Congress love to create programs, but they don’t spend much time checking to see if taxpayers are getting their money’s worth.
 I pride myself on being a taxpayer watchdog and supporting efforts to make the federal government more efficient, effective, and accountable.
-Among others, I strongly support the following policies to drain the swamp:
-CUTTING TAXES: I oppose tax increases, and I fight with everything I’ve got to cut your taxes.
+Among others, I strongly support the following policies to drain the swamp: CUTTING TAXES: I oppose tax increases, and I fight with everything I’ve got to cut your taxes.
 Politicians in Washington, D.C. far too often forget that the dollars they are spending are not theirs: they belong to you.
 That means every dollar less the federal government spends is a dollar more that stays in your pocket where it belongs.
 TERM LIMITS: I support term limits for politicians and have co-sponsored legislation implementing a cap of three terms for members of the House of Representatives and two terms for members of the Senate.
-BALANCED BUDGET AMENDMENT: Every year families and small businesses across the country are forced to set and live by a budget. 46 states are required to have balanced budgets, but the federal government has no such requirement.
+BALANCED BUDGET AMENDMENT: Every year families and small businesses across the country are forced to set and live by a budget.
+46 states are required to have balanced budgets, but the federal government has no such requirement.
 As a result, Congress regularly passes budgets that never balance, put us into even more debt and mortgage our children’s future.
 I support and have voted in favor of a balanced budget amendment to the Constitution to fix this problem, and I’ll keep fighting to get it across the finish line!
 WHISTLEBLOWER PROTECTIONS: One of the best ways we can prevent fraud and abuse in the federal government is to strengthen whistleblower protections.
@@ -15,19 +16,13 @@ Specifically, I’ve helped pass legislation to strengthen protections for whist
 Sadly, the policies proposed by Democrats in Washington, D.C. seem designed to achieve the exact opposite: more power for them, their special interest allies and their political operatives.
 Recently, they’ve sought to manipulate the federal election system to funnel taxpayer dollars into their own campaigns, turn Washington, D.C. into a state, raise taxes, spend trillions of dollars we don’t have and force their radical social agenda on all of us.
 I strongly oppose their embrace of socialist policies, and I’ll do everything in my power to stop it from happening!
-Sign Up Here To Learn More About My Fight To Drain The Swamp
-Take The Issue Survey
-Defending Life
-As a father of four beautiful children, I’m a strong supporter of the right to life.
+Sign Up Here To Learn More About My Fight To Drain The Swamp Take The Issue Survey Defending Life As a father of four beautiful children, I’m a strong supporter of the right to life.
 I believe we must defend life at every stage and protect the most vulnerable members of our society.
 After serving in the Army for more than 12 years, I know what it means to protect life and see life lost.
 Our priority should always be to protect the innocent.
 That’s why during my time in Congress I have supported legislation to protect the unborn, prohibit taxpayer funding for abortion and increase protections for infants born alive after a failed abortion procedure.
 I will keep fighting to protect all lives!
-Sign Up To Learn More About My Fight To Defend Life
-Take The Issue Survey
-Safer And Stronger Communities
-I see my mission in Congress the same way I saw it in the military: keeping Americans safe.
+Sign Up To Learn More About My Fight To Defend Life Take The Issue Survey Safer And Stronger Communities I see my mission in Congress the same way I saw it in the military: keeping Americans safe.
 That’s why I’ve made community safety, health and strength top priorities during my time in Congress.
 That means equipping our local law enforcement with the support they need to fight crime, prevent terrorism, reduce violence, stop domestic violence, prevent opioid overdose and much more.
 I strongly oppose radical efforts to defund the police.
@@ -37,27 +32,18 @@ In addition to improving community safety, strong communities rely on having exc
 I believe Washington, D.C. should not be mandating curriculum for states.
 Instead, each state should be a laboratory for innovation so states compete with each other for the best results and parents maintain a strong say in their children’s’ education.
 School choice is a very important issue for me, and I will continue advocating for dollars to follow students so parents can decide which school is best for their children.
-Sign Up To Learn More About My Fight For Safer And Stronger Communities
-Take The Issue Survey
-Protecting The Second Amendment
-I have carried a rifle and a pistol for most of my adult life and fired both in defense of every American and myself.
+Sign Up To Learn More About My Fight For Safer And Stronger Communities Take The Issue Survey Protecting The Second Amendment I have carried a rifle and a pistol for most of my adult life and fired both in defense of every American and myself.
 The right to defend ourselves is God-given.
 It is not a right provided to us by our federal government, but rather, the right to keep and bear arms is a right the federal government is sworn to protect.
 That’s why during my time in Congress I’ve helped pass legislation to protect the 2nd Amendment rights of concealed carry permit holders, and I have opposed efforts by Nancy Pelosi and her allies to erode the 2nd Amendment by giving unelected bureaucrats more control over firearm laws in the United States.
 As your representative in Congress, I will continue to uphold the oath I took to support and defend the Constitution of the United States against all enemies, and I will fight to protect our Second Amendment from all attempts to erode it.
-Sign Up To Learn More About My Fight To Defend The Second Amendment
-Take The Issue Survey
-Supporting our Ally Israel
-As a strong supporter of the state of Israel, it was a great honor to volunteer alongside the Israeli Defense Force (IDF) following my service in the Army.
+Sign Up To Learn More About My Fight To Defend The Second Amendment Take The Issue Survey Supporting our Ally Israel As a strong supporter of the state of Israel, it was a great honor to volunteer alongside the Israeli Defense Force (IDF) following my service in the Army.
 The United States and Israel share common values like freedom and respect for human dignity, which is why we make natural and strong allies.
 As a member of the Foreign Affairs Committee since my first day in Congress, I have worked to oppose the dangerous BDS movement, support Israel’s efforts to counter instability in the Middle East and prevent a nuclear-armed Iran.
 Specifically, I introduced and passed legislation to combat radical Islamic terrorism, cut off U.S. aid funds being used to reward anti-Israel terrorists, increase U.S. – Israel joint missile defense activities and more.
 I also strongly opposed the Iran Nuclear Deal and supported President Trump’s withdrawal from the agreement.
 Now, as Chairman of this important committee, I will do everything within my power to support President Trump’s remarkable efforts in the Middle East and our ally Israel!
-Sign Up To Learn More About My Fight To Support Our Ally Israel
-Take The Issue Survey
-America First
-I became a bomb technician because I wanted to save lives and serve a cause greater than myself.
+Sign Up To Learn More About My Fight To Support Our Ally Israel Take The Issue Survey America First I became a bomb technician because I wanted to save lives and serve a cause greater than myself.
 I nearly gave my own life for that — I lost both my legs and a finger when a roadside bomb detonated beneath me — and have known more heroes than I can count who died defending others.
 I remember the day I was injured — September 19, 2010 — very clearly.
 What I remember most, though, isn’t the bomb detonating.
@@ -77,10 +63,7 @@ For far too long, politicians in Washington haven’t had the will to fix it.
 For starters, we must secure the border and prevent visa overstays.
 We must also reform our legal immigration system to end arbitrary policies that continue to hurt our economy so we can be welcoming to those who want to be in the United States and follow our laws.
 The time is long overdue for Congress to lead on this issue by fixing the crisis on the border and strengthening the rule of law.
-Sign Up To Learn More About My Fight For America First Policies
-Take The Issue Survey
-Tax Cuts And Jobs
-We must fight for working families by expanding opportunities and creating an economic environment that allows for job growth!
+Sign Up To Learn More About My Fight For America First Policies Take The Issue Survey Tax Cuts And Jobs We must fight for working families by expanding opportunities and creating an economic environment that allows for job growth!
 First and foremost, that means cutting taxes so every American can keep more of the money they worked hard to earn.
 Far too often politicians in D.C. forget that the dollars they spend are not theirs.
 Every dollar spent by the federal government belongs to the American people, and I will keep fighting to return these dollars to where they came from.
@@ -91,13 +74,11 @@ Now, we must continue working to close special interest loopholes and lobbyist-d
 The explosive growth of government regulations during the Obama Administration also hurt both economic growth and job creation, and the Biden Administration is repeating these mistakes.
 Making life work for families in our community starts with reducing government interference in every-day life, reducing government-imposed costs and increasing individual liberty.
 To that end, our current spending is unsustainable, which is why I’ve voted against irresponsible spending packages and why I believe we must pass a Balanced Budget Amendment.
-Every year families and small businesses across the country are forced to set and live by a budget. 46 states are required to have balanced budgets, but the federal government has no such requirement.
+Every year families and small businesses across the country are forced to set and live by a budget.
+46 states are required to have balanced budgets, but the federal government has no such requirement.
 As a result, Congress regularly passes budgets that never balance, put us into even more debt and mortgage our children’s future.
 I support and have voted in favor of a balanced budget amendment to the Constitution to fix this problem, and I’ll keep fighting to get it across the finish line!
-Sign Up To Learn More About My Fight To Cut Taxes
-Take The Issue Survey
-Improving Care for Veterans
-Every veteran who the VA serves must be treated as the most important veteran to ever be served.
+Sign Up To Learn More About My Fight To Cut Taxes Take The Issue Survey Improving Care for Veterans Every veteran who the VA serves must be treated as the most important veteran to ever be served.
 Anything less is unacceptable because every veteran who has sworn the oath, worn the uniform and offered to give the last beat of their heart cannot be taken for granted.
 As someone who gets my own care through the VA I know that there are many passionate men and women who dedicate their lives to serving veterans.
 I also know, unfortunately, that oftentimes veterans do not receive the quality of care that they have earned.
@@ -107,10 +88,7 @@ These benefits were at risk of expiring, but thanks to bipartisan legislation th
 During my time in Congress, we’ve also helped pass legislation to increase access to GI bill benefits, protect whistleblowers at the VA and expand healthcare choice.
 The bottom line is that veterans gave every American their best and deserve the best care our nation has to offer in return.
 I will continue fighting to make that a reality!
-Sign Up To Learn More About My Fight For Veterans
-Take The Issue Survey
-Ensuring Care for Seniors
-I will always protect Social Security and Medicare, ensuring our government keeps the promises it has made to current retirees and those planning to retire.
+Sign Up To Learn More About My Fight For Veterans Take The Issue Survey Ensuring Care for Seniors I will always protect Social Security and Medicare, ensuring our government keeps the promises it has made to current retirees and those planning to retire.
 I absolutely do not support cutting benefits for current retirees or anybody nearing retirement.
 In order to accomplish difficult objectives in times of crisis, I know that we must work together.
 So, I will continue to be a leading voice for addressing the critical solvency issue of Social Security and Medicare in a bipartisan way that protects care for seniors.
@@ -118,10 +96,7 @@ In order to accomplish these goals, I’ve helped pass legislation to strengthen
 We also passed a new law to crack down on fraud that disproportionately targets seniors, and as a member of the Congressional Task Force on Alzheimer’s Disease, I have helped pass legislation to increase support for Alzheimer’s patients.
 I am also particularly proud of a law that I wrote to protect benefits like nursing home care for veterans.
 These benefits were at risk of expiring, but thanks to bipartisan legislation that I wrote and passed, veterans of retirement age will continue to have access to these services.
-Sign Up To Learn More About My Fight To Defend Care For Seniors
-Take The Issue Survey
-Making Healthcare More Affordable
-There’s no doubt the rising cost of healthcare caused by Obamacare has burdened American families and created a massive increase in bureaucracy resulting in less choice.
+Sign Up To Learn More About My Fight To Defend Care For Seniors Take The Issue Survey Making Healthcare More Affordable There’s no doubt the rising cost of healthcare caused by Obamacare has burdened American families and created a massive increase in bureaucracy resulting in less choice.
 Unfortunately, the far left’s plan to enact socialized medicine would drastically reduce the quality of care while skyrocketing taxes.
 I am fighting to stop that from happening and instead implement a healthcare system founded on the idea that you should have the ultimate freedom to choose the plan that works best for your family.
 Specifically, we need healthcare in the United States that increases choice and enables Americans to choose the doctors and plans that fit their specific needs while still protecting individuals with pre-existing conditions and drastically lowering costs.
@@ -130,11 +105,8 @@ I also helped successfully eliminate Obamacare’s individual mandate tax and ex
 There’s no doubt we also need to eliminate red tape to speed up the development of life saving cures and drive down costs for prescription drugs.
 To that end, I helped pass new legislation to lower prescription drug costs, secured more than $6 billion to combat the opioid epidemic, increased support for Alzheimer’s patients and funded new cancer research.
 Of course, no conversation about healthcare is complete without discussing critical needs for Medicare beneficiaries and veterans.
-To learn more about my work on behalf of seniors click here and to learn more about my work on behalf of veterans click here.
-Sign Up To Learn More About My Fight For Affordable Healthcare
-Take The Issue Survey
-Fighting For Clean Water
-Florida’s outdoor experience is the very cornerstone of the economy and quality of life for 20 million residents, supporting a $58 billion industry and 485,000 direct jobs.
+To learn more about my work on behalf of seniors click here and to learn more about my work on behalf of veterans click here .
+Sign Up To Learn More About My Fight For Affordable Healthcare Take The Issue Survey Fighting For Clean Water Florida’s outdoor experience is the very cornerstone of the economy and quality of life for 20 million residents, supporting a $58 billion industry and 485,000 direct jobs.
 There is no greater crisis facing our state than that of polluted waterways, eroding ecology and the destruction of public lands like the Everglades.
 Environmental collapse in Florida leads immediately to economic collapse and devastating public health consequences.
 The fight to prevent this from happening is an all-hands-on-deck five alarm fire because on the Treasure Coast and in the Palm Beaches, this impacts everyone: businesses forced to close, people getting sick, animals killed, and our environment destroyed.
@@ -165,8 +137,11 @@ That’s why I’ve helped introduce and pass legislation to increase funding fo
 The bottom line is that nearly every facet of Florida’s waterways has been manipulated to benefit for-profit industries at the expense of everybody else.
 The result has been an increase in pollution, added costs for taxpayers, a massive public health crisis and the destruction of the Everglades.
 It is well past time to flip the script and reclaim Florida’s waterways for the people.
-Sign Up Here To Learn More About My Fight For Clean Water
-Take The Issue Survey
-Our elected “leaders” spend far too much time talking and not nearly enough time listening.
+Sign Up Here To Learn More About My Fight For Clean Water Take The Issue Survey Our elected “leaders” spend far too much time talking and not nearly enough time listening.
 This has led to a failed status quo that puts self-interest ahead of what’s in the best American interests.
 I want to hear from you about the issues that matter most to your daily life so that I can be the best representative for our community possible!
+What Issues Are Most Important To You?
+Issues * Fighting for Clean Water & Protecting the Environment Making Healthcare More Affordable Ensuring Care for Seniors Improving Care for Veterans Boosting the Economy Cutting Taxes and Balancing the Budget Strengthening National Security and Rebuilding Our Military Supporting Our Ally Israel Securing the Border & Fixing Immigration Protecting Our 2nd Amendment Working for Safer Communities Defending the Lives of the Unborn Making Education Work for Everybody Increasing Accountability in Government Securing Our Elections Fighting Socialism Expanding Energy Independence Other (My issue isn’t listed here) Other Issue Name First Name Last Name Email Phone Donate Now Follow Contact Privacy Policy Paid for by Mast for Congress Hon.
+Brian Mast is a retired member of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.

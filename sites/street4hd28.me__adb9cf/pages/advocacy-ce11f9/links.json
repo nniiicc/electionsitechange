@@ -1,10 +1,38 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://img1.wsimg.com/blobby/go/bc95e152-753a-4ec6-812e-c22a9ddf8b9f/downloads/89ecf80f-e72e-4411-b6bd-6a35ec651ddc/Resolve%20-%20Economic%20Development.pdf?ver=1786671365410",
-"https://img1.wsimg.com/blobby/go/bc95e152-753a-4ec6-812e-c22a9ddf8b9f/downloads/f378d7be-bc1f-4b34-bf7f-3294aa2e337a/Resolve%20-%20EV%20Charging%20Stations.pdf?ver=1786671365410",
-"https://street4hd28.me/",
-"https://street4hd28.me/about",
-"https://street4hd28.me/advocacy",
-"https://street4hd28.me/in-the-news",
-"https://street4hd28.me/personal-endorsements"
+{
+"text": "About",
+"href": "https://street4hd28.me/about"
+},
+{
+"text": "Advocacy",
+"href": "https://street4hd28.me/advocacy"
+},
+{
+"text": "Download",
+"href": "https://img1.wsimg.com/blobby/go/bc95e152-753a-4ec6-812e-c22a9ddf8b9f/downloads/89ecf80f-e72e-4411-b6bd-6a35ec651ddc/Resolve%20-%20Economic%20Development.pdf?ver=1786671365410"
+},
+{
+"text": "Download",
+"href": "https://img1.wsimg.com/blobby/go/bc95e152-753a-4ec6-812e-c22a9ddf8b9f/downloads/f378d7be-bc1f-4b34-bf7f-3294aa2e337a/Resolve%20-%20EV%20Charging%20Stations.pdf?ver=1786671365410"
+},
+{
+"text": "Home",
+"href": "https://street4hd28.me/"
+},
+{
+"text": "In The News",
+"href": "https://street4hd28.me/in-the-news"
+},
+{
+"text": "Personal Endorsements",
+"href": "https://street4hd28.me/personal-endorsements"
+},
+{
+"text": "[image]",
+"href": "https://street4hd28.me/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

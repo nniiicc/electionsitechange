@@ -1,19 +1,6 @@
-Economic Opportunity for All
-Supporting policies that drive economic stability & growth
-Skip navigation menu
-celeste rodriguez's
-Priorities for Our Communities
-Growing up with a single parent, Celeste experienced economic, housing, and food insecurity firsthand.
+Skip navigation menu About Issues News Endorsements Events Join Us Donate Celeste's Priorities About Issues News Endorsements Events Join Us Donate Celeste's Priorities celeste rodriguez's Priorities for Our Communities Growing up with a single parent, Celeste experienced economic, housing, and food insecurity firsthand.
 She has dedicated her life to public service because she doesn't want anyone to struggle to have their basic needs met.
 As our State Assemblymember, Celeste has passed legislation to keep families together, help people recover from crisis, and open pathways to opportunity for young people.
 She’s working to make sure families in the Northeast Valley have the same shot at stability and opportunity as everyone else in California.
-Economic Opportunity for All
-Supporting policies that drive economic stability & growth
-Education and Safe Learning Environments
-Environmental Equity
-Protecting the environment & combatting climate change
-Family Stability, Maternal Health, and Childcare
-Homelessness and Affordable Housing
-Making strides in addressing California’s housing crisis
-Investing in education & career training programs
-Families deserve support to build a foundation
+Economic Opportunity for All Education and Safe Learning Environments Environmental Equity Family Stability, Maternal Health, and Childcare Homelessness and Affordable Housing Economic Opportunity for All Supporting policies that drive economic stability & growth View more Education and Safe Learning Environments Investing in education & career training programs View more Environmental Equity Protecting the environment & combatting climate change View more Family Stability, Maternal Health, and Childcare Families deserve support to build a foundation View more Homelessness and Affordable Housing Making strides in addressing California’s housing crisis View more Privacy Policy Connect with the campaign: celeste@votecelesterodriguez.com Powered by RUN! website builder Paid for by Celeste Rodriguez for Assembly 2026 FPPC #1477040 1700 Tribute Rd., Ste.
+201, Sacramento, CA 95815 You need to enable JavaScript to run this app.

@@ -1,12 +1,62 @@
 [
-"https://facebook.com/kilmerforkansas",
-"https://forms.gle/p5YpMxpaqDwChPXN7",
-"https://kilmerforkansas.com/",
-"https://kilmerforkansas.com/about-me",
-"https://kilmerforkansas.com/contact",
-"https://kilmerforkansas.com/endorsements",
-"https://kilmerforkansas.com/get-involved",
-"https://kilmerforkansas.com/platform",
-"https://secure.actblue.com/donate/kylie-kilmer-1",
-"https://tiktok.com/@kylie.kilmer"
+{
+"text": "@gmail.com",
+"href": "mailto:Kylie.c.kilmer@gmail.com"
+},
+{
+"text": "About Me",
+"href": "https://www.kilmerforkansas.com/about-me"
+},
+{
+"text": "Contact",
+"href": "https://www.kilmerforkansas.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kylie-kilmer-1"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/kylie-kilmer-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kilmerforkansas.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kilmerforkansas.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.kilmerforkansas.com"
+},
+{
+"text": "Platform",
+"href": "https://www.kilmerforkansas.com/platform"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.kilmerforkansas.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/kilmerforkansas"
+},
+{
+"text": "[image: Kilmer for Kansas Campaign Logo which is a sunflower with the letter K in the middle]",
+"href": "https://www.kilmerforkansas.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@kylie.kilmer"
+},
+{
+"text": "https://forms.gle/p5YpMxpaqDwChPXN7",
+"href": "https://forms.gle/p5YpMxpaqDwChPXN7"
+},
+{
+"text": "https://secure.actblue.com/donate/kylie-kilmer-1",
+"href": "https://secure.actblue.com/donate/kylie-kilmer-1"
+}
 ]

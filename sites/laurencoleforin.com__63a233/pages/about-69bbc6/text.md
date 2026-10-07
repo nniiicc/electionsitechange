@@ -1,34 +1,9 @@
-ABOUT LAUREN
-Lauren Cole is a scientist, community advocate, and Hoosier running for Indiana House District 37 because she believes everyday people deserve leadership that understands the challenges families and communities are facing.
-Raised on values of kindness, hard work, and standing up for others, Lauren believes real change begins when people come together, listen to one another, and build stronger communities from the ground up.
-The future is ours to shape, and Lauren believes we can build it together.
-ROOTS & FAMILY
-Lauren was raised in a family that believed kindness matters.
+top of page Home ABOUT PLATFORM GET INVOLVED BLOG DONATE DONATE NOW ABOUT LAUREN Lauren Cole is a scientist, community advocate, and Hoosier running for Indiana House District 37 because she believes everyday people deserve leadership that understands the challenges families and communities are facing. ​ Raised on values of kindness, hard work, and standing up for others, Lauren believes real change begins when people come together, listen to one another, and build stronger communities from the ground up. ​ The future is ours to shape, and Lauren believes we can build it together.
+ROOTS & FAMILY Lauren was raised in a family that believed kindness matters.
 As the daughter of proud Democrats, the granddaughter of an immigrant, and part of a family rooted in both Midwest farming and global conservation work, she learned early the importance of compassion, community, and treating others with dignity.
-Her parents emphasized values that continue to guide her today:
-• Do unto others as you’d have done unto you
-• Stand up for others
-• Work hard
-• Always leave things better than you found them
-Lauren is also an identical twin, which taught her early on the importance of collaboration, compromise, and always showing up for the people around you.
-Those values shaped who she is long before politics ever entered the picture.
-Science, Healthcare & Accessibility
-Science and healthcare have shaped both Lauren’s career and her perspective on public service.
-Lauren graduated from Earlham College with a degree in Biochemistry and a minor in Music.
-Today, she works in cancer clinical trials helping support patients around the globe.
-During the COVID-19 pandemic, Lauren worked in a testing lab where she helped develop a saliva-based testing process after recognizing how difficult nasal swabs could be for elderly patients and young children.
-That experience reinforced something she believes deeply: systems should work for everyone, especially people facing the greatest challenges.
-Living with a chronic illness has also given Lauren firsthand experience navigating complicated healthcare systems, rising medical costs, and the stress many Hoosier families experience when trying to access care.
-She believes healthcare should be accessible, affordable, and centered around people’s real needs.
-SERVICE & COMMUNITY
-One of the most impactful experiences of Lauren’s life was spending time in Alajuelita, Costa Rica during college.
-While there, she had the opportunity to travel with mobile healthcare clinics that brought medical care and education directly into underserved communities.
-The experience reinforced a belief that continues to shape her work today:
-Healthcare, education, and opportunity should never depend on your zip code or income.
-For Lauren, service means listening first and leading second.
-That belief continues to guide how she approaches both community work and public service.
-LIFE OUTSIDE POLITICS
-Outside of work and campaigning, Lauren is still just a regular Hoosier who loves spending time outdoors and connecting with her community.
-She enjoys fishing, music, Indiana Fever games, IndyCar racing (Go O’Ward!), and exploring Indiana’s natural beauty.
-Fishing has deepened Lauren’s appreciation for conservation and protecting the environment for future generations.
-She also plays both guitar and piano and has spent years making music independently and alongside her twin sister.
+Her parents emphasized values that continue to guide her today: • Do unto others as you’d have done unto you • Stand up for others • Work hard • Always leave things better than you found them Lauren is also an identical twin, which taught her early on the importance of collaboration, compromise, and always showing up for the people around you. ​ Those values shaped who she is long before politics ever entered the picture.
+Science, Healthcare & Accessibility Science and healthcare have shaped both Lauren’s career and her perspective on public service. ​ Lauren graduated from Earlham College with a degree in Biochemistry and a minor in Music.
+Today, she works in cancer clinical trials helping support patients around the globe. ​ During the COVID-19 pandemic, Lauren worked in a testing lab where she helped develop a saliva-based testing process after recognizing how difficult nasal swabs could be for elderly patients and young children. ​ That experience reinforced something she believes deeply: systems should work for everyone, especially people facing the greatest challenges. ​ Living with a chronic illness has also given Lauren firsthand experience navigating complicated healthcare systems, rising medical costs, and the stress many Hoosier families experience when trying to access care. ​ She believes healthcare should be accessible, affordable, and centered around people’s real needs.
+SERVICE & COMMUNITY One of the most impactful experiences of Lauren’s life was spending time in Alajuelita, Costa Rica during college. ​ While there, she had the opportunity to travel with mobile healthcare clinics that brought medical care and education directly into underserved communities. ​ The experience reinforced a belief that continues to shape her work today: ​ Healthcare, education, and opportunity should never depend on your zip code or income. ​ For Lauren, service means listening first and leading second. ​ That belief continues to guide how she approaches both community work and public service.
+LIFE OUTSIDE POLITICS Outside of work and campaigning, Lauren is still just a regular Hoosier who loves spending time outdoors and connecting with her community. ​ She enjoys fishing, music, Indiana Fever games, IndyCar racing (Go O’Ward!), and exploring Indiana’s natural beauty. ​ Fishing has deepened Lauren’s appreciation for conservation and protecting the environment for future generations. ​ She also plays both guitar and piano and has spent years making music independently and alongside her twin sister.
+BUILDING A BETTER FUTURE TOGETHER Paid for and authorized by the Committee to Elect Lauren Cole bottom of page

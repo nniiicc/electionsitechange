@@ -1,8 +1,34 @@
 [
-"https://palmeriforassembly.com/",
-"https://palmeriforassembly.com/about",
-"https://palmeriforassembly.com/connect",
-"https://palmeriforassembly.com/issues",
-"https://palmeriforassembly.com/privacy-policy",
-"https://secure.actblue.com/donate/palmeriforassembly"
+{
+"text": "ABOUT",
+"href": "https://www.palmeriforassembly.com/about"
+},
+{
+"text": "Back to Top",
+"href": "https://www.palmeriforassembly.com/issues"
+},
+{
+"text": "CONNECT",
+"href": "https://www.palmeriforassembly.com/connect"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/palmeriforassembly"
+},
+{
+"text": "HOME",
+"href": "https://www.palmeriforassembly.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.palmeriforassembly.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.palmeriforassembly.com/privacy-policy"
+},
+{
+"text": "[image: Campaign logo for Lori Palmeri]",
+"href": "https://www.palmeriforassembly.com"
+}
 ]

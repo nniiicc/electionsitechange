@@ -1,7 +1,11 @@
 {
- "description": "<p>I\u2019m an event description. Click here to open up the Event Editor and change my text. Simply click me, Manage Event and start editing your event. I\u2019m a great place for you to say a little more about your upcoming event. People like to know what they are getting before they show up to an event so use this space to give people a reason to come!</p>",
+ "description": "<p>I’m an event description. Click here to open up the Event Editor and change my text. Simply click me, Manage Event and start editing your event. I’m a great place for you to say a little more about your upcoming event. People like to know what they are getting before they show up to an event so use this space to give people a reason to come!</p>",
  "final_url": "https://www.stevengoforth.com/events/volunteer-meetup",
+ "fingerprint": "2aa8c75715200c4ea4a3cf57a7792267c954177f",
+ "format": 3,
  "paid_for_by": "Paid for by Steven Goforth for Congress",
  "title": "Volunteer Meetup | Steven Goforth for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2035"
+ ]
 }

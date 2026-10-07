@@ -1,7 +1,12 @@
 {
  "description": "Ritesh Tandon, a Democratic candidate is running for election to the U.S. House to represent California's 17th Congressional District.",
  "final_url": "https://www.tandonforcongress.com/about-me/",
+ "fingerprint": "c8625020b34bb0d155d055949157095624a3d68f",
+ "format": 3,
  "paid_for_by": "PAID FOR BY TANDON FOR CONGRESS Contact 1-800-700-600 ritesh@tandonforcongress",
  "title": "About Ritesh Tandon - Congressional Candidate of the U.S.",
- "years_mentioned": []
+ "years_mentioned": [
+  "2001",
+  "2004"
+ ]
 }

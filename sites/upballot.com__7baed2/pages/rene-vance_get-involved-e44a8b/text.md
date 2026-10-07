@@ -1,25 +1,2 @@
-About
-Rene
-Issues
-Get Involved
-Events
-Updates
-Donate Now
-Home
-About Rene
-Issues
-Get Involved
-Events
-Updates
-Donate Now
-GET INVOLVED
-See how you can support Rene’s campaign today.
-Volunteer for Rene’s campaign
-Reach Out
-Make a
-donation
-Donate now
-Attend an event near you
-View Events
-Register to vote in Missouri
-Visit Site
+About Rene Issues Get Involved Events Updates Donate Now Home About Rene Issues Get Involved Events Updates Donate Now GET INVOLVED See how you can support Rene’s campaign today.
+Volunteer for Rene’s campaign Reach Out Make a donation Donate now Attend an event near you View Events Register to vote in Missouri Visit Site Support Rene Vance’s Campaign for Missouri Donate Now Rene Vance for MO PO Box 691, Sedalia, MO 65302-0691 tel:660-281-9486 | charlotte@renevanceformo.com Karen Franklin, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

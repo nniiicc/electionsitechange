@@ -1,11 +1,58 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://paulfornh.com/about-paul",
-"https://paulfornh.com/contact",
-"https://paulfornh.com/home-1",
-"https://paulfornh.com/my-priorities",
-"https://paulfornh.com/news",
-"https://paulfornh.com/our-district",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms"
+{
+"text": "About Paul",
+"href": "https://paulfornh.com/about-paul"
+},
+{
+"text": "Contact",
+"href": "https://paulfornh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://paulfornh.com/contact"
+},
+{
+"text": "Home",
+"href": "https://paulfornh.com/home-1"
+},
+{
+"text": "My Priorities",
+"href": "https://paulfornh.com/my-priorities"
+},
+{
+"text": "News",
+"href": "https://paulfornh.com/news"
+},
+{
+"text": "Our District",
+"href": "https://paulfornh.com/our-district"
+},
+{
+"text": "Paul For NHPaul For NHPaul For NHPaul For NH",
+"href": "https://paulfornh.com/home-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Scenic view of a mountain range with forested foreground under cloudy sky.]",
+"href": "https://paulfornh.com/about-paul"
+},
+{
+"text": "[image]",
+"href": "https://paulfornh.com/contact"
+},
+{
+"text": "[image]",
+"href": "https://paulfornh.com/my-priorities"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

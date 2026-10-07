@@ -1,10 +1,13 @@
 {
  "description": "SPECIAL LEGISLATIVE SESSION - Right after Thanksgiving, the Georgia General Assembly returned to the Gold Dome and convened for a ...",
  "final_url": "https://www.rickjasperse.org/article.php?news=130",
- "paid_for_by": null,
+ "fingerprint": "30d9cace70194221683131704e8b0fb5021fbfe1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "REPORT FROM THE CAPITOL - SPECIAL LEGISLATIVE SESSION",
  "years_mentioned": [
   "2023",
-  "2024"
+  "2024",
+  "2039"
  ]
 }

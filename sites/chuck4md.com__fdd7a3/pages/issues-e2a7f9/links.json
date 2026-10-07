@@ -1,19 +1,102 @@
 [
-"https://bsky.app/profile/chuck4md.bsky.social",
-"https://chuck4md.com/",
-"https://chuck4md.com/about-chuck-borges",
-"https://chuck4md.com/family-support",
-"https://chuck4md.com/housing",
-"https://chuck4md.com/issues",
-"https://chuck4md.com/jobs-in-southern-md",
-"https://chuck4md.com/meet-chuck",
-"https://chuck4md.com/need-help",
-"https://chuck4md.com/privacy-policy",
-"https://facebook.com/Chuck4MD",
-"https://instagram.com/chuck4md",
-"https://secure.actblue.com/donate/chuck-borges-1",
-"https://secure.actblue.com/donate/chuck-borges-2",
-"https://tiktok.com/@chuck4md",
-"https://voterservices.elections.maryland.gov/votersearch",
-"https://wearyourspiritwarehouse.com/chuckb/shop/home"
+{
+"text": "About Chuck",
+"href": "https://chuck4md.com/about-chuck-borges/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chuck-borges-1"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/chuck-borges-2"
+},
+{
+"text": "Family Support",
+"href": "https://chuck4md.com/family-support/"
+},
+{
+"text": "Get Help Now",
+"href": "https://chuck4md.com/need-help/"
+},
+{
+"text": "Home",
+"href": "https://chuck4md.com/"
+},
+{
+"text": "Housing",
+"href": "https://chuck4md.com/housing/"
+},
+{
+"text": "Jobs in Southern MD",
+"href": "https://chuck4md.com/jobs-in-southern-md/"
+},
+{
+"text": "Learn More",
+"href": "https://chuck4md.com/family-support/"
+},
+{
+"text": "Learn More",
+"href": "https://chuck4md.com/housing/"
+},
+{
+"text": "Learn More",
+"href": "https://chuck4md.com/jobs-in-southern-md/"
+},
+{
+"text": "Meet Chuck",
+"href": "https://chuck4md.com/meet-chuck/"
+},
+{
+"text": "Need Help?",
+"href": "https://chuck4md.com/need-help/"
+},
+{
+"text": "Our Issues",
+"href": "https://chuck4md.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chuck4md.com/privacy-policy/"
+},
+{
+"text": "Shop",
+"href": "https://wearyourspiritwarehouse.com/chuckb/shop/home"
+},
+{
+"text": "Voter Registration",
+"href": "https://voterservices.elections.maryland.gov/votersearch"
+},
+{
+"text": "[image: Chuck for Maryland]",
+"href": "https://chuck4md.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/chuck-borges-1"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/chuck4md.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://chuck4md.com/privacy-policy/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Chuck4MD/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chuck4md/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@chuck4md"
+},
+{
+"text": "info@chuck4md.com",
+"href": "mailto:info@chuck4md.com"
+}
 ]

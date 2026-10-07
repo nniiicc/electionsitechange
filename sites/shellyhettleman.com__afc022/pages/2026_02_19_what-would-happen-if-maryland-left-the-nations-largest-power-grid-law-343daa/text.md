@@ -1,9 +1,10 @@
-WYPR
-FEBRUARY 19, 2026
-Maryland lawmakers are considering a bill that would explore the impact of leaving the regional power grid operator, known as the PJM Interconnection.
+Support Shelly About Shelly Issues Better Public Education Public Safety & Criminal Justice Health & Wellness Jobs, Housing & Economic Development Our Debt to Seniors Protecting the Environment & Our Democracy Resources & Scholarships Events Latest News Shelly in the News Updates from Shelly Stay in Touch Select Page What would happen if Maryland left the nation’s largest power grid?
+Lawmakers want to find out Feb 19, 2026 BY SARAH PETROWICH WYPR FEBRUARY 19, 2026 Maryland lawmakers are considering a bill that would explore the impact of leaving the regional power grid operator, known as the PJM Interconnection.
 The legislation joins a myriad of proposals that aim to lower skyrocketing utility bills for Maryland ratepayers — a declared top priority for lawmakers this legislative session.
 The PJM is the largest regional transmission organization in the country, managing the flow of electricity for 13 states, including Maryland.
 The Old Line State has been a member of the PJM since 1956, but criticisms over the grid operator’s management tactics have surged in recent years.
 The strife largely began following a record-high capacity auction in the summer of 2024 — a mechanism that allows utilities and energy providers to purchase electricity from power generators years in advance to ensure there is enough electricity for future demand.
 PJM capacity costs jumped from $2.2 billion in 2023 to a whopping $14.7 billion in 2024 and surged again to $16.1 billion in 2025.
 These exorbitant prices have widely been attributed to the rise in data centers and a lack of regional energy generation to keep up with their large-load demand.
+Read the full article Search for: Recent Posts Maryland prisons rank among nation’s worst for killings APG Federal Credit Union Hosts Ribbon-Cutting Ceremony for Third Baltimore County Branch Wrapping it Up Legislature Passes Bill for Jewish & Muslim Heritage Months Maryland climate-aligned transportation bill gains momentum in Senate Recent Comments Facebook Twitter © # Shelly Hettleman.
+Web Design by Web Interactive Technologies Paid by Friends of Shelly Hettleman, Caren Lichter, Treasurer.

@@ -1,8 +1,4 @@
-Public Service Announcement:
-Onondaga County Democratic Committee: Candidate Information Session
-December 12th 2025
-A Step in the Right Direction from the Onondaga County Democratic Committee
-The Onondaga County Democratic Committee recently announced a Candidate Information Session for people who are considering running for office in 2026.
+0 Skip to Content Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Open Menu Close Menu Donate Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Open Menu Close Menu Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Public Service Announcement: Onondaga County Democratic Committee: Candidate Information Session December 12th 2025 A Step in the Right Direction from the Onondaga County Democratic Committee The Onondaga County Democratic Committee recently announced a Candidate Information Session for people who are considering running for office in 2026.
 While this may sound routine in some places, it is worth acknowledging that this type of proactive, public facing candidate education has not always been common locally.
 Because of that, it deserves recognition.
 The session will take place on Wednesday, December 17th at 6:30 pm at OCDC headquarters, located at 615 West Genesee Street in Syracuse.
@@ -21,3 +17,6 @@ Even if you ultimately decide to chart your own path, understanding the system a
 Credit should be given when it is due.
 Hosting a candidate information session, advertising it openly, and putting the process on the table is a positive move.
 It is not the finish line, but it is a step in the right direction.
+Read More of My Thoughts on Current Events ***Military Images and Information Do Not Imply Endorsement by DoD or Service Branch Maurice Brown is a Veteran and a Homeowner in the University Neighborhood of the City of Syracuse and the Legislator for the 15th district of Onondaga County.
+Priorities Press Clips Fun FAQs Donate About Mo Get Involved Local Voices FAQs Paid for by the People for Mo Brown Phone/Text: 315-313-5717.
+Email: Maurice@ElectMauriceBrown.com Mail: 530 Buckingham Ave Syracuse NY 13210

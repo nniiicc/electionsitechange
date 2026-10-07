@@ -1,8 +1,30 @@
 [
-"https://nozellfornh.com/",
-"https://nozellfornh.com/about",
-"https://nozellfornh.com/cart",
-"https://nozellfornh.com/contact",
-"https://nozellfornh.com/endorsements",
-"https://secure.actblue.com/donate/marc-nozell-for-nh-1"
+{
+"text": "0",
+"href": "https://www.nozellfornh.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.nozellfornh.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.nozellfornh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/marc-nozell-for-nh-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nozellfornh.com/endorsements"
+},
+{
+"text": "Learn more",
+"href": "https://www.nozellfornh.com/about"
+},
+{
+"text": "Nozell for NH",
+"href": "https://www.nozellfornh.com/"
+}
 ]

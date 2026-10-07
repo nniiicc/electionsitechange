@@ -1,6 +1,30 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSdKXAlEPO5LeZYT1p3X8AnX7wOVA88C2695K-VoXADKkhsrzw/viewform",
-"https://votebromley.com/contact",
-"https://votebromley.com/donate",
-"https://votebromley.com/home"
+{
+"text": "Donate",
+"href": "https://www.votebromley.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votebromley.com/home"
+},
+{
+"text": "Mark Bromley",
+"href": "https://www.votebromley.com/home"
+},
+{
+"text": "[image]",
+"href": "https://www.votebromley.com/home"
+},
+{
+"text": "[image]Mark Bromley",
+"href": "https://www.votebromley.com/home"
+},
+{
+"text": "[tooltip: Open Google Forms, Vote Bromley needs you!!! in new window]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdKXAlEPO5LeZYT1p3X8AnX7wOVA88C2695K-VoXADKkhsrzw/viewform"
+},
+{
+"text": "contact",
+"href": "https://www.votebromley.com/contact"
+}
 ]

@@ -1,9 +1,38 @@
 [
-"http://mvp.sos.ga.gov/",
-"https://berryforga.com/",
-"https://berryforga.com/join-the-believers",
-"https://berryforga.com/meet-bryce",
-"https://berryforga.com/platform",
-"https://forms.gle/BvRTSHcUgjrBiMMPA",
-"https://secure.actblue.com/donate/bryce-berry-for-hd-56-1"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bryce-berry-for-hd-56-1"
+},
+{
+"text": "JOIN US",
+"href": "https://www.berryforga.com/join-the-believers"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.berryforga.com/platform"
+},
+{
+"text": "MEET BRYCE",
+"href": "https://www.berryforga.com/meet-bryce"
+},
+{
+"text": "My Voter Page.",
+"href": "http://mvp.sos.ga.gov/"
+},
+{
+"text": "REQUEST A YARD SIGN!",
+"href": "https://forms.gle/BvRTSHcUgjrBiMMPA"
+},
+{
+"text": "VISION",
+"href": "https://www.berryforga.com/platform"
+},
+{
+"text": "[image: BRYCE BERRY - 1.PNG]",
+"href": "https://www.berryforga.com"
+},
+{
+"text": "bryce@berryforga.com",
+"href": "mailto:bryce@berryforga.com"
+}
 ]

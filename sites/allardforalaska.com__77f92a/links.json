@@ -1,12 +1,78 @@
 [
-"https://allardforalaska.com/",
-"https://allardforalaska.com/donate",
-"https://allardforalaska.com/endorsements",
-"https://allardforalaska.com/events",
-"https://allardforalaska.com/issues",
-"https://allardforalaska.com/jamie",
-"https://allardforalaska.com/quiz",
-"https://allardforalaska.com/record",
-"https://allardforalaska.com/sign",
-"https://allardforalaska.com/wall"
+{
+"text": "01 TAKE THE QUIZ 5 statements from her actual record. Where do you stand?",
+"href": "https://allardforalaska.com/quiz"
+},
+{
+"text": "02 READ THE RECORD Sponsored and cosponsored — every line verifiable at akleg.gov.",
+"href": "https://allardforalaska.com/record"
+},
+{
+"text": "03 CLAIM YOUR STREET Yard sign or bumper sticker. Put your street on the board.",
+"href": "https://allardforalaska.com/sign"
+},
+{
+"text": "04 SHOW UP Coffee stops, sign waves, town halls. RSVP in one tap.",
+"href": "https://allardforalaska.com/events"
+},
+{
+"text": "05 JOIN THE ROSTER Stand up and be counted with your neighbors.",
+"href": "https://allardforalaska.com/wall"
+},
+{
+"text": "06 FUEL THE FIGHT $25 puts a sign on a street that didn't have one.",
+"href": "https://allardforalaska.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://allardforalaska.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://allardforalaska.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://allardforalaska.com/events"
+},
+{
+"text": "Home",
+"href": "https://allardforalaska.com/"
+},
+{
+"text": "JAMIE ALLARD HD 23 · EAGLE RIVER",
+"href": "https://allardforalaska.com/"
+},
+{
+"text": "Meet Jamie",
+"href": "https://allardforalaska.com/jamie"
+},
+{
+"text": "Quiz",
+"href": "https://allardforalaska.com/quiz"
+},
+{
+"text": "Read her story →",
+"href": "https://allardforalaska.com/jamie"
+},
+{
+"text": "Roster",
+"href": "https://allardforalaska.com/wall"
+},
+{
+"text": "See the whole roster →",
+"href": "https://allardforalaska.com/wall"
+},
+{
+"text": "Signs",
+"href": "https://allardforalaska.com/sign"
+},
+{
+"text": "The Fights",
+"href": "https://allardforalaska.com/issues"
+},
+{
+"text": "The Record",
+"href": "https://allardforalaska.com/record"
+}
 ]

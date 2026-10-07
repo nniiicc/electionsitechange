@@ -1,18 +1,74 @@
 [
-"https://cookcountyclerkil.gov/elections/your-voter-information",
-"https://elections.il.gov/ElectionOperations/VotingByMailAgreement.aspx",
-"https://facebook.com/JulieForSenate",
-"https://juliemorrisonforsenate.com/",
-"https://juliemorrisonforsenate.com/about",
-"https://juliemorrisonforsenate.com/contact",
-"https://juliemorrisonforsenate.com/endorsements",
-"https://juliemorrisonforsenate.com/issues",
-"https://juliemorrisonforsenate.com/news",
-"https://juliemorrisonforsenate.com/privacy-policy",
-"https://juliemorrisonforsenate.com/voter-resources",
-"https://lakecountyil.gov/351/Voter-Power-for-Registered-Voters",
-"https://secure.actblue.com/donate/julie-morrison-for-state-senate-1",
-"https://vote411.org/ballot",
-"https://vote411.org/check-registration",
-"https://vote411.org/register"
+{
+"text": "About",
+"href": "https://juliemorrisonforsenate.com/about/"
+},
+{
+"text": "Check your registration",
+"href": "https://www.vote411.org/check-registration"
+},
+{
+"text": "Contact",
+"href": "https://juliemorrisonforsenate.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/julie-morrison-for-state-senate-1"
+},
+{
+"text": "Endorsements",
+"href": "https://juliemorrisonforsenate.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JulieForSenate"
+},
+{
+"text": "Find Your Voting Location- Cook County",
+"href": "https://www.cookcountyclerkil.gov/elections/your-voter-information"
+},
+{
+"text": "Find Your Voting Location- Lake County",
+"href": "https://www.lakecountyil.gov/351/Voter-Power-for-Registered-Voters"
+},
+{
+"text": "Find out what is on your ballot",
+"href": "https://www.vote411.org/ballot"
+},
+{
+"text": "Home",
+"href": "https://juliemorrisonforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://juliemorrisonforsenate.com/issues/"
+},
+{
+"text": "News",
+"href": "https://juliemorrisonforsenate.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://juliemorrisonforsenate.com/privacy-policy/"
+},
+{
+"text": "Register to vote",
+"href": "https://www.vote411.org/register"
+},
+{
+"text": "Request a Mail-In Ballot",
+"href": "https://www.elections.il.gov/ElectionOperations/VotingByMailAgreement.aspx"
+},
+{
+"text": "Send a Message",
+"href": "https://juliemorrisonforsenate.com/contact/"
+},
+{
+"text": "Voter Resources",
+"href": "https://juliemorrisonforsenate.com/voter-resources/"
+},
+{
+"text": "[image]",
+"href": "https://juliemorrisonforsenate.com"
+}
 ]

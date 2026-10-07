@@ -1,8 +1,2 @@
-About District 24
-California Senate District 24 includes the cities of…
-Agoura Hills ● Beverly Hills ● Calabasas ● El Segundo ● Gardena ● Hermosa Beach ● Hidden Hills ● Lomita ● Malibu ● Manhattan Beach ● Palos Verdes Estates ● Rancho Palos Verdes ● Redondo Beach ● Rolling Hills ● Rolling Hills Estates ● Santa Monica ● Torrance ● West Hollywood ● Westlake Village
-The Los Angeles neighborhoods of…
-Bel Air ● Beverly Grove ● Brentwood ● Fairfax ● Holmby Hills ● Hollywood ● Hollywood Hills ● Little Holmby ● Mid City West ● Pacific Palisades ● Playa del Rey ● Sunset Hills ● Venice ● Westwood ● Westwood Village
-And the unincorporated Los Angeles County communities of…
-Santa Monica Mountains ● Marina Del Rey
-To learn about Brian’s positions on the issues that matter to District 24, click here.
+0 Skip to Content Home Endorsements Issues District 24 News Resources DONATE Open Menu Close Menu Home Endorsements Issues District 24 News Resources DONATE Open Menu Close Menu Home Endorsements Issues District 24 News Resources DONATE About District 24 FIND OUT IF YOU LIVE IN DISTRICT 24 California Senate District 24 includes the cities of… Agoura Hills ● Beverly Hills ● Calabasas ● El Segundo ● Gardena ● Hermosa Beach ● Hidden Hills ● Lomita ● Malibu ● Manhattan Beach ● Palos Verdes Estates ● Rancho Palos Verdes ● Redondo Beach ● Rolling Hills ● Rolling Hills Estates ● Santa Monica ● Torrance ● West Hollywood ● Westlake Village ‍ ‍ The Los Angeles neighborhoods of… Bel Air ● Beverly Grove ● Brentwood ● Fairfax ● Holmby Hills ● Hollywood ● Hollywood Hills ● Little Holmby ● Mid City West ● Pacific Palisades ● Playa del Rey ● Sunset Hills ● Venice ● Westwood ● Westwood Village And the unincorporated Los Angeles County communities of… Santa Monica Mountains ● Marina Del Rey To learn about Brian’s positions on the issues that matter to District 24, click here.
+EMAIL BRIAN Paid for by Brian Goldsmith for State Senate 2026, FPPCID #1480404

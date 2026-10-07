@@ -1,5 +1,4 @@
-ABOUT ALEX
-Alex Mealer is a wife and mother, West Pointer and combat veteran, Harvard JD/MBA and former oil & gas finance executive and current small business owner, who is proud to be raising the next generation of Texans.
+DONATE  About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex a    DONATE  About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex a    About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex ABOUT ALEX Alex Mealer is a wife and mother, West Pointer and combat veteran, Harvard JD/MBA and former oil & gas finance executive and current small business owner, who is proud to be raising the next generation of Texans.
 After graduating from the United States Military Academy at West Point, Alex volunteered and was ultimately selected to serve as an Explosive Ordnance Disposal officer (bomb squad) in the Army.
 Through her experience leading soldiers in combat and defusing bombs in Afghanistan, Alex has proven she has the skills necessary to lead during times of crisis.
 Following her honorable service to our country, Alex graduated from Harvard Business School and Harvard Law School where she was an active member of the Federalist Society and the Adam Smith Society before moving to Houston to pursue a career in energy finance, where she worked on the execution of billion dollar transactions as a strategic advisor on mergers & acquisitions and capital markets financing for public and private companies.
@@ -11,3 +10,4 @@ Alex remains active in the fight for Harris County, supporting strong candidates
 Regardless of the role or position, Alex demonstrates she will always seize the opportunity to lead from the front.
 Alex and her husband Clay (also a West Point graduate) have been married for over 17 years and have two precocious children.
 They are proud members of the Second Baptist family where they worship and their children attend school.
+About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex a About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex a About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex Follow Follow Follow

@@ -1,6 +1,22 @@
 [
-"http://dryenh.com/",
-"http://dryenh.com/cdn-cgi/l/email-protection",
-"http://dryenh.com/issues",
-"http://dryenh.com/support"
+{
+"text": "(603)-443-2125",
+"href": "tel:(603)-443-2125"
+},
+{
+"text": "Home Page",
+"href": "http://dryenh.com/"
+},
+{
+"text": "On the Issues",
+"href": "http://dryenh.com/issues"
+},
+{
+"text": "Support",
+"href": "http://dryenh.com/support"
+},
+{
+"text": "[email protected]",
+"href": "http://dryenh.com/cdn-cgi/l/email-protection"
+}
 ]

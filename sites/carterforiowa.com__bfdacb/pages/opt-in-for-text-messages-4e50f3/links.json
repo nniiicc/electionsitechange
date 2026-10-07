@@ -1,15 +1,74 @@
 [
-"https://carterforiowa.com/",
-"https://carterforiowa.com/about-carter",
-"https://carterforiowa.com/carter-in-the-news",
-"https://carterforiowa.com/debate-clock",
-"https://carterforiowa.com/opt-in-for-text-messages",
-"https://carterforiowa.com/privacy-policy",
-"https://carterforiowa.com/resources",
-"https://carterforiowa.com/terms-of-service",
-"https://carterforiowa.com/video",
-"https://carterforiowa.com/volunteer",
-"https://docs.google.com/forms/d/e/1FAIpQLSfWMxtkknQRJWMO5CggoLV3-XOlFju1d_-e7xy08b2vUKJr5A/viewform?usp=sf_link",
-"https://facebook.com/CarterForIowa",
-"https://secure.winred.com/carternordman/donate"
+{
+"text": "About Carter",
+"href": "https://www.carterforiowa.com/about-carter"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.carterforiowa.com"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/carternordman/donate"
+},
+{
+"text": "Carter in the news",
+"href": "https://www.carterforiowa.com/carter-in-the-news"
+},
+{
+"text": "Carter@carterforiowa.com",
+"href": "mailto:Carter@carterforiowa.com"
+},
+{
+"text": "Debate Clock",
+"href": "https://www.carterforiowa.com/debate-clock"
+},
+{
+"text": "Home",
+"href": "https://www.carterforiowa.com"
+},
+{
+"text": "Meet Carter",
+"href": "https://www.carterforiowa.com"
+},
+{
+"text": "Opt-in for text messages",
+"href": "https://www.carterforiowa.com/opt-in-for-text-messages"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.carterforiowa.com/privacy-policy"
+},
+{
+"text": "Resources",
+"href": "https://www.carterforiowa.com/resources"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.carterforiowa.com/terms-of-service"
+},
+{
+"text": "Video",
+"href": "https://www.carterforiowa.com/video"
+},
+{
+"text": "Volunteer",
+"href": "https://www.carterforiowa.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfWMxtkknQRJWMO5CggoLV3-XOlFju1d_-e7xy08b2vUKJr5A/viewform?usp=sf_link"
+},
+{
+"text": "[Privacy Policy]",
+"href": "https://www.carterforiowa.com/privacy-policy"
+},
+{
+"text": "[Terms and Conditions]",
+"href": "https://www.carterforiowa.com/terms-of-service"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/CarterForIowa/"
+}
 ]

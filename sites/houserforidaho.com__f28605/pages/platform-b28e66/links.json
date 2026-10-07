@@ -1,13 +1,46 @@
 [
-"https://bsky.app/profile/houserforidaho.bsky.social",
-"https://courthousenews.com/irs-launches-crackdown-on-125000-wealthy-non-filers",
-"https://facebook.com/houserforidaho",
-"https://houserforidaho.com/",
-"https://houserforidaho.com/about",
-"https://houserforidaho.com/contact",
-"https://houserforidaho.com/donate",
-"https://houserforidaho.com/platform",
-"https://instagram.com/houserforidaho",
-"https://threads.com/@houserforidaho",
-"https://whitehouse.gov/presidential-actions/2026/01/stopping-wall-street-from-competing-with-main-street-homebuyers"
+{
+"text": "About",
+"href": "https://www.houserforidaho.com/about"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/houserforidaho.bsky.social"
+},
+{
+"text": "Contact",
+"href": "https://www.houserforidaho.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.houserforidaho.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/houserforidaho/"
+},
+{
+"text": "Home",
+"href": "https://www.houserforidaho.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/houserforidaho/"
+},
+{
+"text": "Platform",
+"href": "https://www.houserforidaho.com/platform/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@houserforidaho"
+},
+{
+"text": "https://courthousenews.com/irs-launches-crackdown-on-125000-wealthy-non-filers/",
+"href": "https://courthousenews.com/irs-launches-crackdown-on-125000-wealthy-non-filers/"
+},
+{
+"text": "https://www.whitehouse.gov/presidential-actions/2026/01/stopping-wall-street-from-competing-with-main-street-homebuyers/",
+"href": "https://www.whitehouse.gov/presidential-actions/2026/01/stopping-wall-street-from-competing-with-main-street-homebuyers/"
+}
 ]

@@ -1,4 +1,6 @@
-President Donald Trump endorses Tom Cole for Oklahoma’s Fourth District following weekend rally in Tulsa and citing Cole’s proven record of fighting for the people of Oklahoma.
-Skip to content
-President Donald Trump endorses Tom Cole for Oklahoma’s Fourth District following weekend rally in Tulsa and citing Cole’s proven record of fighting for the people of Oklahoma.
-Keep up with the Campaign via Email
+Skip to content Tom Cole For Congress About About Tom About the District Press Packet News Room Connect On The Issues All Issues Growing the Economy Debt and Spending Securing Our Border Preserving our Second Amendment Protecting the Unborn National Security American Energy Independence Veterans News Room Trump Endorses Tom Cole for Oklahoma’s Fourth District June 22, 2020 June 29, 2021 Donate President Donald Trump endorses Tom Cole for Oklahoma’s Fourth District following weekend rally in Tulsa and citing Cole’s proven record of fighting for the people of Oklahoma.
+Post navigation Previous: Tom Cole Launches TV Ad Next: Tom Cole Wins Oklahoma’s Fourth District Republican Primary Connect Recent Posts Tom Cole Announces For Re-Election Breaking: President Trump Endorses Congressman Tom Cole Cole: Promises Made, Promises Kept Tom Cole Is Endorsed By the Republican Jewish Coalition Tom Cole Is Endorsed By The State Chamber of Oklahoma PAC Keep up with the Campaign via Email Name First Last Email Phone (Required) (Required) By providing your phone number, you agree to receive text messages from Cole for Congress.
+Message & data rates may apply.
+Message frequency varies. donations may be solicited.
+Reply STOP to opt out, reply HELP for help.
+Privacy Policy About Tom On The Issues News Room Connect Privacy Policy Donate Paid for by Cole for Congress Powered By Push Digital © #

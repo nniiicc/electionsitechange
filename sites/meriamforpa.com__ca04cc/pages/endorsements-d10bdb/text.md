@@ -1,16 +1,12 @@
-Who is Standing
-With Meriam
-Workers, teachers, health care groups, gun safety leaders, and local Democrats are standing with Meriam.
-Labor
-The Pennsylvania AFL-CIO, SEIU Pennsylvania State Council, AFT Pennsylvania, and PSEA have endorsed Meriam.
-Healthcare and Reproductive Rights
-Planned Parenthood PA PAC, Vote Pro Choice, Her Bold Move, PASNAP, and the Committee to Protect Health Care are backing Meriam.
-Gun Safety
-Moms Demand Action backs Meriam because she supports clear, common-sense gun safety laws.
-Environment and Climate
-Conservation Voters of Pennsylvania, Climate Cabinet, and Lead Locally are with Meriam.
-Democratic Committees
-Democrats in all three counties are working for Meriam.
+Skip to main content Home Meet Meriam Issues ▾ Affordability Data Centers Healthcare Access Education Environment Gun Safety Compare Vote Endorsements Donate Home Meet Meriam Issues Affordability Data Centers Healthcare Access Education Environment Gun Safety Compare Vote Endorsements Donate Who is Standing With Meriam Workers, teachers, health care groups, gun safety leaders, and local Democrats are standing with Meriam.
+Labor The Pennsylvania AFL-CIO, SEIU Pennsylvania State Council, AFT Pennsylvania, and PSEA have endorsed Meriam.
+UAW Region 9 Pennsylvania AFL-CIO SEIU Pennsylvania State Council AFT Pennsylvania Pennsylvania State Education Association Healthcare and Reproductive Rights Planned Parenthood PA PAC, Vote Pro Choice, Her Bold Move, PASNAP, and the Committee to Protect Health Care are backing Meriam.
+EMILY’s List Planned Parenthood PA PAC Vote Pro Choice Her Bold Move Pennsylvania Association of Staff Nurses & Allied Professionals Committee to Protect Health Care Gun Safety Moms Demand Action backs Meriam because she supports clear, common-sense gun safety laws.
+Moms Demand Action Environment and Climate Conservation Voters of Pennsylvania, Climate Cabinet, and Lead Locally are with Meriam.
+Conservation Voters of Pennsylvania Climate Cabinet Lead Locally Democratic Committees Democrats in all three counties are working for Meriam.
 Local groups in Southern Lehigh and Upper Perkiomen are with her too.
-Leadership and Democracy
-New American Leaders Action Fund, Indian American Impact, NDRC, Represent PA, Vote Mama PAC, and young Democrats back the campaign too.
+Lehigh County Democratic Committee Montgomery County Democratic Committee Northampton County Democratic Committee Lehigh Valley for All Southern Lehigh Democrats Upper Perkiomen Democrats Leadership and Democracy New American Leaders Action Fund, Indian American Impact, NDRC, Represent PA, Vote Mama PAC, and young Democrats back the campaign too.
+Working Families For the People Action New American Leaders Action Fund Indian American Impact NDRC — National Democratic Redistricting Committee Represent PA Vote Mama PAC High School Democrats of PA Join the team Add your name to the team Volunteer for a shift, make calls, or chip in.
+Pick the job that works for you.
+Get Involved Donate Meriam Sabih for Pennsylvania House of Representatives, District 131 Campaign Meet Meriam Endorsements Get Involved Issues Affordability Data Centers Healthcare Access Education Environment Gun Safety Information Vote Compare Candidates FAQ Contact contact@meriamforpa.com Prepared and Paid for by Friends of Meriam Sabih.
+Privacy Policy Accessibility

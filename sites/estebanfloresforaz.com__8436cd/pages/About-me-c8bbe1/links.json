@@ -1,10 +1,34 @@
 [
-"https://donate.stripe.com/6oEeVV24h3kIczSfYY",
-"https://estebanfloresforaz.com/",
-"https://estebanfloresforaz.com/About-me/About-me",
-"https://estebanfloresforaz.com/About-me/Contacts",
-"https://estebanfloresforaz.com/About-me/Donate",
-"https://estebanfloresforaz.com/About-me/Endorsements-1",
-"https://estebanfloresforaz.com/About-me/Issues",
-"https://estebanfloresforaz.com/About-me/Public-Forums-Media"
+{
+"text": "About me",
+"href": "https://estebanfloresforaz.com/About-me/About-me/"
+},
+{
+"text": "Contacts",
+"href": "https://estebanfloresforaz.com/About-me/Contacts/"
+},
+{
+"text": "Donate",
+"href": "https://estebanfloresforaz.com/About-me/Donate/"
+},
+{
+"text": "Donate to the Esteban Flores For Arizona Campaign",
+"href": "https://donate.stripe.com/6oEeVV24h3kIczSfYY"
+},
+{
+"text": "Endorsements",
+"href": "https://estebanfloresforaz.com/About-me/Endorsements-1/"
+},
+{
+"text": "Home",
+"href": "https://estebanfloresforaz.com/"
+},
+{
+"text": "Issues",
+"href": "https://estebanfloresforaz.com/About-me/Issues/"
+},
+{
+"text": "Public Forums & Media",
+"href": "https://estebanfloresforaz.com/About-me/Public-Forums-Media/"
+}
 ]

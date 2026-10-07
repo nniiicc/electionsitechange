@@ -1,8 +1,34 @@
 [
-"https://chuckforhouse.com/",
-"https://chuckforhouse.com/about",
-"https://chuckforhouse.com/issues",
-"https://facebook.com/RepChuckEfstration",
-"https://secure.anedot.com/efstration-for-house/cfc86e1a-c40c-4985-80b6-11504b6f127f",
-"https://twitter.com/ChuckEfstration"
+{
+"text": "ABOUT",
+"href": "https://www.chuckforhouse.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.chuckforhouse.com/#VOLUNTEER"
+},
+{
+"text": "DONATE →",
+"href": "https://secure.anedot.com/efstration-for-house/cfc86e1a-c40c-4985-80b6-11504b6f127f"
+},
+{
+"text": "HOME",
+"href": "https://www.chuckforhouse.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.chuckforhouse.com/issues"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ChuckEfstration"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepChuckEfstration"
+},
+{
+"text": "chuckefstration@gmail.com",
+"href": "mailto:chuckefstration@gmail.com"
+}
 ]

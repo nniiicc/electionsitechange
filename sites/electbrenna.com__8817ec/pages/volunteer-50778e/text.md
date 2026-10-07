@@ -1,4 +1,5 @@
-This campaign is powered by neighbors stepping up for their community.
+0 Skip to Content Home About District 13 Platform Support Volunteer Donate Open Menu Close Menu Home About District 13 Platform Support Volunteer Donate Open Menu Close Menu Home About District 13 Platform Support Volunteer Donate This campaign is powered by neighbors stepping up for their community.
 When you volunteer, you’re helping spread the word, talk to voters, show up at local events, and build real momentum from the ground up.
 Whether that means knocking doors, making calls, putting a yard sign in your front lawn, or lending a hand however you can, every action counts.
 Sign up and be part of a grassroots team working together to create change right here at home.
+Volunteer Democratic Candidate for Indiana State Representative - District 13 This website is paid for by Supporters of Brenna.

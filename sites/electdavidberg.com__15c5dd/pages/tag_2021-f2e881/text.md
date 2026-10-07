@@ -1,9 +1,9 @@
-I have loved seeing all the different, amazingly creative, ways that PTAs and Booster Clubs have found to show their appreciation for teachers this week.
-I’ve also loved the notes from teachers asking parents to update them on how the…
-Read More
-We like to think about Puyallup as a small town, right up until the time that we’re stuck in traffic on Meridian, on 94th, or on Shaw Road.
-We also like to think about our school district as being small,…
-Read More
-The past few years have been challenging for our school community and it’s time to rebuild the relationships that allow us to work together to best serve each of our kids.
-I want to hear what you want to see…
-Read More
+Elect David Berg State Representative, 25th LD, Pos.
+1 Menu Home About David The Issues Endorsements Make A Donation Find Your Drop Box Archives Teacher Appreciation Week Posted on May 7, 2021 by David Berg Leave a Comment I have loved seeing all the different, amazingly creative, ways that PTAs and Booster Clubs have found to show their appreciation for teachers this week.
+I’ve also loved the notes from teachers asking parents to update them on how the… Read More Category: Latest Articles Tags: 2021 , David Berg , Election , Equity , Puyallup School Board , Puyallup School District , Support , Teacher Appreciation Week Puyallup School District by the Numbers Posted on May 5, 2021 by David Berg 1 Comment We like to think about Puyallup as a small town, right up until the time that we’re stuck in traffic on Meridian, on 94th, or on Shaw Road.
+We also like to think about our school district as being small,… Read More Category: Latest Articles Tags: 2021 , David Berg , Demographics , Diversity , Election , Growth , Puyallup School Board , Puyallup School District Allow Me to Introduce Myself Posted on April 27, 2021 by David Berg Leave a Comment The past few years have been challenging for our school community and it’s time to rebuild the relationships that allow us to work together to best serve each of our kids.
+I want to hear what you want to see… Read More Category: Latest Articles Tags: 2021 , David Berg , Election , Puyallup School Board , Puyallup School District Translate Countdown to the General Ballots are Due - Use a Drop Box!
+November 3, 2026 # days to go.
+Paid for by Citizens for David Berg 1410 24TH AVE CT SW Puyallup, WA 98373 Archives July 2026 October 2021 June 2021 May 2021 April 2021 Like me on Facebook Like me on Facebook Facebook Twitter Email Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

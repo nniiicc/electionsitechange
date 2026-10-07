@@ -1,13 +1,6 @@
-Brenda Steady
-Vermont House
-Chittenden-25
-Embedded Files
-Vermont House
-I'm Running for Re-Election in 2026
-Brenda earned the endorsement of Governor Phil Scott.
+Search this site Embedded Files Skip to main content Skip to navigation SteadyForVTHouse.org Home Endorsements Legislature Key Issues Donate About Community Contact Highlights SteadyForVTHouse.org Home Endorsements Legislature Key Issues Donate About Community Contact Highlights More Home Endorsements Legislature Key Issues Donate About Community Contact Highlights Brenda Steady Vermont House Chittenden-25 I'm Running for Re-Election in 2026 Brenda earned the endorsement of Governor Phil Scott.
 "Brenda Steady has been a voice for affordability in the Legislature and a vote against the 7% property tax increase the majority tried to pass on to Vermonters who are already struggling from years of unsustainable property tax increases.
-I'm proud to endorse her for reelection." -- Governor Phil Scott
-The Westford Meet & Greet on Sunday, September 13th
+I'm proud to endorse her for reelection." -- Governor Phil Scott Click here to learn more about Brenda’s endorsements The Westford Mee t & Greet on Sunday, September 13th was a great afternoon at the Red Brick Meeting House !
 Brenda was there, running for re-election as State Representative, along with Representative Ashley Bartley, running for the State Senate, and Lieutenant Governor John Rodgers as the special guest, who is also running for re‑election.
 Snapshots from recent gatherings.
 Welcome, neighbors.
@@ -29,7 +22,10 @@ Vermont can move forward in a way that is both fiscally responsible and fair, an
 I would be honored to earn your support in November.
 Brenda believes in responsible governance—always balancing necessary services with affordability, local resilience, and respectful dialogue.
 She listens carefully, acts thoughtfully, and works hard to represent the real needs of her district.
-For her position on Key Issues (Click Here)
-For legislative updates during the 2026 session (Click Here).
-Page updated
-Report abuse
+For her position on Key Issues ( C lick Here) For legislative updates during the 2026 session (Click Here).
+For Recent Homepage Highlights (Click Here).
+Vermont House of Representatives District Chittenden-25 East Milton and Westford Please feel free to contact me: 802-338- 8374 bsteady@leg.state.vt.us PO Box 324 Milton, VT 05468 Paid for by Steady for House Copyright © 2026, Brenda Steady for VT House Campaign.
+All rights reserved.
+Together, we’re building a Vermont where families can thrive.
+Your donation keeps the momentum going.
+Donate Report abuse Page details Page updated Report abuse

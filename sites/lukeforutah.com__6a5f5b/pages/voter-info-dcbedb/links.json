@@ -1,17 +1,70 @@
 [
-"http://facebook.com/",
-"http://instagram.com/",
-"https://lukeforutah.com/",
-"https://lukeforutah.com/about",
-"https://lukeforutah.com/blog",
-"https://lukeforutah.com/cart",
-"https://lukeforutah.com/contact",
-"https://lukeforutah.com/donate",
-"https://lukeforutah.com/endorsements",
-"https://lukeforutah.com/home",
-"https://lukeforutah.com/issues",
-"https://lukeforutah.com/record",
-"https://lukeforutah.com/voter-info",
-"https://summitcountyutah.gov/281/Voter-Registration-Elections",
-"https://wasatchcounty.gov/275/Election-Voter-Information"
+{
+"text": "0",
+"href": "https://www.lukeforutah.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lukeforutah.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.lukeforutah.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://www.lukeforutah.com/home#contact"
+},
+{
+"text": "Donate",
+"href": "https://www.lukeforutah.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lukeforutah.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.lukeforutah.com/"
+},
+{
+"text": "Home",
+"href": "https://www.lukeforutah.com/home"
+},
+{
+"text": "Issues & Priorities",
+"href": "https://www.lukeforutah.com/issues"
+},
+{
+"text": "Record & Results",
+"href": "https://www.lukeforutah.com/record"
+},
+{
+"text": "Summit County Voting Information",
+"href": "https://www.summitcountyutah.gov/281/Voter-Registration-Elections"
+},
+{
+"text": "Updates",
+"href": "https://www.lukeforutah.com/blog"
+},
+{
+"text": "Voter Info",
+"href": "https://www.lukeforutah.com/voter-info"
+},
+{
+"text": "Wasatch County Voting Information",
+"href": "https://www.wasatchcounty.gov/275/Election-Voter-Information"
+},
+{
+"text": "[image: Vote Luke Searle for Utah House District 59]",
+"href": "https://www.lukeforutah.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com"
+}
 ]

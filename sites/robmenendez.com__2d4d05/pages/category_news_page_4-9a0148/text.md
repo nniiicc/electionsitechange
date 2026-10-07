@@ -1,8 +1,4 @@
-Stay Updated
-Latest News
-Latest News
-Teamsters Joint Council 73 Endorses Representative Rob Menendez for Re-Election to Congress in 2024
-Latest News
-New Jersey State Council of Machinists Supports Congressman Rob Menendez for Re-Election in 2024
-Latest News
-Communications Workers of America Endorse Rob Menendez for Re-Election to Congress in 2024
+Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Priorities Meet Rob Latest News Endorsements Get Involved Donate Toggle Mobile Menu Priorities Meet Rob Latest News Endorsements Get Involved Donate Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Language Stay Updated Latest News Latest News Latino Victory Fund Endorses Rob Menendez for Re-Election to Congress in 2024 May 17, 2024 Read More Latest News Teamsters Joint Council 73 Endorses Representative Rob Menendez for Re-Election to Congress in 2024 May 16, 2024 Read More Latest News New Jersey State Council of Machinists Supports Congressman Rob Menendez for Re-Election in 2024 May 13, 2024 Read More Latest News U.S.
+Senator Cory Booker Endorses Congressman Rob Menendez for Re-Election in 2024 May 10, 2024 Read More Latest News NOW PAC Backs Congressman Rob Menendez for Re-Election in 2024 May 8, 2024 Read More Latest News Communications Workers of America Endorse Rob Menendez for Re-Election to Congress in 2024 May 7, 2024 Read More Latest News Menendez for Congress Campaign Launches First English and Spanish Video Ads May 7, 2024 Read More Latest News Statement of ILA President Harold J.
+Daggett Supporting Reelection of Congressman Robert J.
+Menendez to New Jersey’s Eighth Congressional District May 3, 2024 Read More Latest News IBEW Local 164 Endorses Congressman Menendez for Re-Election in 2024 April 18, 2024 Read More Latest News Congressman Rob Menendez Hosts Democratic Caucus Chair in Jersey City April 15, 2024 Read More 1 2 3 4 5 6 7 … 12 Empower Our Communities Strengthen Our Families Priorities Meet Rob Latest News Endorsements Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter [email protected] 123 Town Square Place #515 Jersey City, NJ 07310 Voting Info Privacy Policy Accessibility Statement What Voters Need to Know Paid for by Menendez for Congress

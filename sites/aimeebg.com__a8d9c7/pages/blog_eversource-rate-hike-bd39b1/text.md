@@ -1,4 +1,4 @@
-I strongly oppose Eversource’s proposal to increase electric bills for Connecticut residents by approximately $25 per month.
+Aimee Berger-Girvalo State Representative · 111th District About Record Ask Aimee What Matters to Ridgefield Get Involved About Record Ask Aimee What Matters to Ridgefield Get Involved What Matters to Ridgefield Standing Against the Eversource Rate Hike May 4, 2026 · By Aimee Berger-Girvalo I strongly oppose Eversource’s proposal to increase electric bills for Connecticut residents by approximately $25 per month.
 At a time when working families, seniors, and small businesses are already being squeezed from every direction, asking them to pay even more for electricity is simply wrong.
 Residents deserve reliability and fairness from their utility provider, not repeated rate hikes while corporate profits remain strong.
 This audacious proposal once again brings into sharp focus the urgent need for greater accountability and transparency in how utility rates are set in Connecticut.
@@ -12,3 +12,10 @@ We need long-term reforms that deliver affordable, reliable energy and restore p
 I remain committed to working with my legislative colleagues, regulators, and consumer advocates to protect ratepayers from excessive costs and pursue structural reforms that put consumers ahead of corporate gain.
 The proposed increase must still be reviewed and approved by the Public Utilities Regulatory Authority before taking effect.
 They have the only authority to stop this, and they need to prioritize Connecticut residents over Eversource shareholders, full stop.
+Aimee Berger-Girvalo State Representative, 111th District ← More from What Matters to Ridgefield Aimee Berger-Girvalo State Representative · 111th District · Ridgefield, CT Fighting for Ridgefield.
+Fighting for you.
+Quick Links About Aimee Her Record Ask Aimee What Matters to Ridgefield Volunteer Connect Contact Aimee Contact the Campaign Paid for by AimeeBG2026, Michael J.
+Donnelly, Treasurer.
+Approved by Aimee Berger-Girvalo.
+Website hosted under an unlimited hosting account paid for by the Ridgefield Democratic Town Committee.
+Copyright © # AimeeBG2026 Scroll to Top

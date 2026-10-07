@@ -1,15 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Medina+Maven%E2%80%99s+Meet+the+Candidates&dates=20260917T213000Z%2F20260917T233000Z",
-"https://curtin4judge.com/",
-"https://curtin4judge.com/calendar",
-"https://curtin4judge.com/calendar/mn7gtn6ym4zyavra1dre7lere9kyf3?format=ical",
-"https://curtin4judge.com/calendar/stow-steps-up-candidate-forum",
-"https://curtin4judge.com/calendar/wooster-welcomes-curtin",
-"https://curtin4judge.com/campaign-committee",
-"https://curtin4judge.com/cart",
-"https://curtin4judge.com/endorsements",
-"https://curtin4judge.com/help-the-campaign",
-"https://curtin4judge.com/meet-cynthia",
-"https://curtin4judge.com/meet-the-candidate",
-"https://facebook.com/people/Cynthia-Curtin-for-Judge/61577337141123"
+{
+"text": "0",
+"href": "https://curtin4judge.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://curtin4judge.com/calendar"
+},
+{
+"text": "Campaign Committee",
+"href": "https://curtin4judge.com/campaign-committee"
+},
+{
+"text": "Endorsements",
+"href": "https://curtin4judge.com/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Medina+Maven%E2%80%99s+Meet+the+Candidates&dates=20260917T213000Z%2F20260917T233000Z"
+},
+{
+"text": "Help the Campaign",
+"href": "https://curtin4judge.com/help-the-campaign"
+},
+{
+"text": "ICS",
+"href": "https://curtin4judge.com/calendar/mn7gtn6ym4zyavra1dre7lere9kyf3?format=ical"
+},
+{
+"text": "Meet Cynthia Curtin",
+"href": "https://curtin4judge.com/meet-cynthia"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://curtin4judge.com/meet-the-candidate"
+},
+{
+"text": "Next Next September 23 Stow Steps Up: Candidate Forum",
+"href": "https://curtin4judge.com/calendar/stow-steps-up-candidate-forum"
+},
+{
+"text": "Previous Previous September 9 Wooster Welcomes Curtin: A Fundraiser Event",
+"href": "https://curtin4judge.com/calendar/wooster-welcomes-curtin"
+},
+{
+"text": "Upcoming Events",
+"href": "https://curtin4judge.com/calendar"
+},
+{
+"text": "[image: Cynthia Curtin for Judge]",
+"href": "https://curtin4judge.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Cynthia-Curtin-for-Judge/61577337141123"
+},
+{
+"text": "[no text]",
+"href": "mailto:curtin4judge@gmail.com"
+}
 ]

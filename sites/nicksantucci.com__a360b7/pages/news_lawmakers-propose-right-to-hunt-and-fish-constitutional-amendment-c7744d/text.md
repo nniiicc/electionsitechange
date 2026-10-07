@@ -1,5 +1,1 @@
-Previous
-Previous
-Mahoning Matters: Possible Kimberly-Clark manufacturing plant in Warren could bring hundreds of new area jobs
-Next
-Next
+0 Skip to Content About 64th District News Events Shop Donate Open Menu Close Menu About 64th District News Events Shop Donate Open Menu Close Menu About 64th District News Events Shop Donate WFMJ: Lawmakers propose right to hunt and fish constitutional amendment Oct 11 Written By Tex Fischer Tex Fischer Previous Previous Mahoning Matters: Possible Kimberly-Clark manufacturing plant in Warren could bring hundreds of new area jobs Next Next Spectrum News: Vice chair of Economic, Workforce Development committee discusses Ohio's workforce PAID FOR BY FRIENDS OF NICK SANTUCCI

@@ -1,11 +1,5 @@
-CLICK HERE TO REGISTER TO VOTE
-MEET CECIL INCE
-Cecil is dedicated to community, family and faith.
+Skip to content Home Candidate Bio Platform Issues Donate Volunteer Campaign Calendar In the News Endorsements Adopt-a-street Links Contact Us Cecil Ince for Missouri State Senate Vote November 3rd CLICK HERE TO REGISTER TO VOTE MEET CECIL INCE Cecil is dedicated to community, family and faith.
 As State Senator, Cecil will restore common sense in Jefferson City, starting with working to abolish personal and real property taxes, and bringing integrity and accountability into law enforcement.
 Cecil will also work to pass a ‘Missouri Children’s Bill of Rights’ to guarantee that our children have protections under the law.
-Cecil’s Bio
-Cecil’s Priorities
-Work for a “Missouri Children’s Bill of Rights”
-Law Enforcement Integrity and Accountability
-Reduce Government wasteful spending
-Represent all Missourians
+Cecil’s Bio Cecil’s Priorities Reform Missouri’s Tax System Work for a “Missouri Children’s Bill of Rights” Law Enforcement Integrity and Accountability Reduce Government wasteful spending Represent all Missourians Campaign Platform CLICK HERE TO VOLUNTEER MEDIA CONTACT PAID FOR BY THE COMMITTEE TO ELECT CECIL INCE Toggle Statistics Statistics Toggle Google Analytics Google Analytics Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.
+Service URL: policies.google.com (opens in a new window) Accept All Close Save and Close Powered by (opens in a new window) Home Candidate Bio Platform Issues Donate Volunteer Campaign Calendar In the News Endorsements Adopt-a-street Links Contact Us

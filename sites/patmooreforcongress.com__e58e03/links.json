@@ -1,12 +1,54 @@
 [
-"https://facebook.com/RepPatMoore",
-"https://facebook.com/sharer/sharer.php",
-"https://house.louisiana.gov/H_Reps/members?ID=17",
-"https://monroefreepress.com/tag/rep-pat-moore",
-"https://patmooreforcongress.com/get-involved.html",
-"https://secure.actblue.com/donate/patmooreforcongress?amount=100",
-"https://secure.actblue.com/donate/patmooreforcongress?amount=25",
-"https://secure.actblue.com/donate/patmooreforcongress?amount=250",
-"https://secure.actblue.com/donate/patmooreforcongress?amount=50",
-"https://twitter.com/intent/tweet"
+{
+"text": "$#Become a Founding Donor",
+"href": "https://secure.actblue.com/donate/patmooreforcongress?amount=250"
+},
+{
+"text": "$#Fund yard signs",
+"href": "https://secure.actblue.com/donate/patmooreforcongress?amount=50"
+},
+{
+"text": "$#Power canvassing",
+"href": "https://secure.actblue.com/donate/patmooreforcongress?amount=100"
+},
+{
+"text": "$#Spread the word",
+"href": "https://secure.actblue.com/donate/patmooreforcongress?amount=25"
+},
+{
+"text": "(318) 857-6100",
+"href": "tel:3188576100"
+},
+{
+"text": "Coverage & updates Monroe Free Press",
+"href": "https://www.monroefreepress.com/tag/rep-pat-moore/"
+},
+{
+"text": "Get Involved",
+"href": "https://patmooreforcongress.com/get-involved.html"
+},
+{
+"text": "Join the Movement",
+"href": "https://patmooreforcongress.com/get-involved.html#volunteer"
+},
+{
+"text": "Official Louisiana House profile house.louisiana.gov",
+"href": "https://house.louisiana.gov/H_Reps/members?ID=17"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?text="
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepPatMoore"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u="
+},
+{
+"text": "info@patmooreforcongress.com",
+"href": "mailto:info@patmooreforcongress.com"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "David Fabrikant Campaign Events",
  "final_url": "https://www.electdavidfabrikant.com/Events?range=2026-W40",
- "paid_for_by": null,
+ "fingerprint": "b8bc852dfdcf7f1825f47cc0812953a2e3c336fc",
+ "format": 3,
+ "paid_for_by": "",
  "title": "David Fabrikant Campaign Events",
  "years_mentioned": [
   "2026"

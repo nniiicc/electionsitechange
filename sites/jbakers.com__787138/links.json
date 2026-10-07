@@ -1,13 +1,50 @@
 [
-"https://facebook.com/profile.php?id=61556006790631",
-"https://instagram.com/therealjbakers?lang=en",
-"https://jbakers.com/",
-"https://jbakers.com/about",
-"https://jbakers.com/contact",
-"https://jbakers.com/issues",
-"https://jbakers.com/privacy-policy",
-"https://jbakers.com/volunteer",
-"https://ryvall.com/",
-"https://secure.winred.com/jb-akers-for-wv/donate",
-"https://twitter.com/https://twitter.com/therealjbakers?lang=en"
+{
+"text": "About",
+"href": "https://www.jbakers.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.jbakers.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/jb-akers-for-wv/donate"
+},
+{
+"text": "Home",
+"href": "https://www.jbakers.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.jbakers.com/issues"
+},
+{
+"text": "Powered by Ryvall",
+"href": "https://ryvall.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jbakers.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jbakers.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61556006790631"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/therealjbakers?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/jb-akers-for-wv/donate"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/https://twitter.com/therealjbakers?lang=en"
+}
 ]

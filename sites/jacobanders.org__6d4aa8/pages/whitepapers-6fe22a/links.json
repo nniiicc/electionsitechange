@@ -1,11 +1,42 @@
 [
-"https://ballotpedia.org/Jacob_Anders",
-"https://facebook.com/jacobanders.gov",
-"https://jacobanders.org/",
-"https://jacobanders.org/aboutme",
-"https://jacobanders.org/press",
-"https://jacobanders.org/support",
-"https://paypal.me/redwolf915",
-"https://x.com/jacobkanders",
-"https://youtube.com/@jacob-anders"
+{
+"text": "Ballotpedia",
+"href": "https://ballotpedia.org/Jacob_Anders"
+},
+{
+"text": "Donate",
+"href": "https://www.paypal.me/redwolf915"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/jacobanders.gov"
+},
+{
+"text": "Meet Jacob (About)",
+"href": "https://jacobanders.org/aboutme"
+},
+{
+"text": "Press",
+"href": "https://jacobanders.org/press"
+},
+{
+"text": "Supporters & Endorsements",
+"href": "https://jacobanders.org/support"
+},
+{
+"text": "Want A Free Yard Sign? Email Me",
+"href": "mailto:Anders4USA@gmail.com"
+},
+{
+"text": "X (Twitter)",
+"href": "https://x.com/jacobkanders"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@jacob-anders"
+},
+{
+"text": "← Back to Home",
+"href": "https://jacobanders.org/"
+}
 ]

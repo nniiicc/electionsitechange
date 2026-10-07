@@ -1,18 +1,70 @@
 [
-"https://facebook.com/mikebareforassembly",
-"https://instagram.com/MikeBareforStateAssembly",
-"https://instagram.com/mikebareforstateassembly",
-"https://secure.actblue.com/donate/reelectmikebare",
-"https://twitter.com/BareMike",
-"https://twitter.com/baremike",
-"https://votebare.com/",
-"https://votebare.com/about",
-"https://votebare.com/accomplishments",
-"https://votebare.com/contact",
-"https://votebare.com/endorsements",
-"https://votebare.com/in-the-news",
-"https://votebare.com/priorities",
-"https://votebare.com/subscribe",
-"https://votebare.com/vote",
-"https://votebare.com/yardsign"
+{
+"text": "About",
+"href": "https://www.votebare.com/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.votebare.com/accomplishments"
+},
+{
+"text": "Contact",
+"href": "https://www.votebare.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/reelectmikebare"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votebare.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.votebare.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.votebare.com/priorities"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.votebare.com/subscribe"
+},
+{
+"text": "Updates",
+"href": "https://www.votebare.com/in-the-news"
+},
+{
+"text": "Vote",
+"href": "https://www.votebare.com/vote"
+},
+{
+"text": "YARD SIGN",
+"href": "https://www.votebare.com/yardsign"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/mikebareforassembly"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/MikeBareforStateAssembly/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mikebareforstateassembly/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/BareMike"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/baremike"
+},
+{
+"text": "[image]",
+"href": "https://www.votebare.com"
+}
 ]

@@ -1,19 +1,102 @@
 [
-"https://facebook.com/BentonforRep",
-"https://harrybenton.com/",
-"https://harrybenton.com/about",
-"https://harrybenton.com/contactus",
-"https://harrybenton.com/endorsements",
-"https://harrybenton.com/issues",
-"https://harrybenton.com/meet-harry",
-"https://harrybenton.com/privacypolicy",
-"https://harrybenton.com/search",
-"https://harrybenton.com/volunteer",
-"https://harrybenton.com/vote-by-mail",
-"https://harrybenton.com/yard-sign",
-"https://instagram.com/bentonforrep",
-"https://logwork.com/countdown-timer",
-"https://ova.elections.il.gov/",
-"https://secure.actblue.com/donate/bentonforrep",
-"https://twitter.com/bentonforrep"
+{
+"text": "Click Here",
+"href": "https://harrybenton.com/endorsements"
+},
+{
+"text": "Click Here",
+"href": "https://www.harrybenton.com/about"
+},
+{
+"text": "Click Here",
+"href": "https://www.harrybenton.com/issues"
+},
+{
+"text": "Contact Us",
+"href": "https://www.harrybenton.com/contactus"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bentonforrep"
+},
+{
+"text": "Election Day Countdown",
+"href": "https://logwork.com/countdown-timer"
+},
+{
+"text": "Endorsements",
+"href": "https://www.harrybenton.com/endorsements"
+},
+{
+"text": "HERE",
+"href": "https://www.harrybenton.com/yard-sign"
+},
+{
+"text": "Home",
+"href": "https://www.harrybenton.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.harrybenton.com/issues"
+},
+{
+"text": "Meet Harry",
+"href": "https://www.harrybenton.com/about"
+},
+{
+"text": "Meet Harry",
+"href": "https://www.harrybenton.com/meet-harry"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.harrybenton.com/privacypolicy"
+},
+{
+"text": "Register to Vote",
+"href": "https://ova.elections.il.gov"
+},
+{
+"text": "Request Vote By Mail",
+"href": "https://www.harrybenton.com/vote-by-mail"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://www.harrybenton.com/yard-sign"
+},
+{
+"text": "Volunteer",
+"href": "https://www.harrybenton.com/volunteer"
+},
+{
+"text": "[image: Harry Benton For State Representative]",
+"href": "https://www.harrybenton.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.harrybenton.com/about"
+},
+{
+"text": "[image]",
+"href": "https://www.harrybenton.com/endorsements"
+},
+{
+"text": "[image]",
+"href": "https://www.harrybenton.com/issues"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/bentonforrep"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BentonforRep"
+},
+{
+"text": "[no text]",
+"href": "https://www.harrybenton.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bentonforrep/"
+}
 ]

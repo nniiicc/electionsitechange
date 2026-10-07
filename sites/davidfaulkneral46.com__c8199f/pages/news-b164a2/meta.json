@@ -1,7 +1,17 @@
 {
  "description": "Read the latest legislative updates, announcements, and community news from Alabama State Representative David Faulkner.",
  "final_url": "https://www.davidfaulkneral46.com/news",
- "paid_for_by": null,
+ "fingerprint": "9d7efe0a4a781316fb9b1a629dca74f6eb099d9b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News & Updates | David Faulkner District 46",
- "years_mentioned": []
+ "years_mentioned": [
+  "2017",
+  "2018",
+  "2020",
+  "2021",
+  "2022",
+  "2023",
+  "2026"
+ ]
 }

@@ -1,14 +1,58 @@
 [
-"http://facebook.com/blong4md",
-"https://blong4md.com/",
-"https://blong4md.com/about",
-"https://blong4md.com/blog",
-"https://blong4md.com/contact-us",
-"https://blong4md.com/donate",
-"https://blong4md.com/gallery",
-"https://blong4md.com/issues",
-"https://blong4md.com/m/account",
-"https://blong4md.com/m/create-account",
-"https://blong4md.com/my-work",
-"https://godaddy.com/websites/website-builder?isc=pwugc"
+{
+"text": "About",
+"href": "https://blong4md.com/about"
+},
+{
+"text": "Blog",
+"href": "https://blong4md.com/blog"
+},
+{
+"text": "Contact Us",
+"href": "https://blong4md.com/contact-us"
+},
+{
+"text": "Create Account",
+"href": "https://blong4md.com/m/create-account"
+},
+{
+"text": "Donate",
+"href": "https://blong4md.com/donate"
+},
+{
+"text": "Gallery",
+"href": "https://blong4md.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://blong4md.com/"
+},
+{
+"text": "Issues",
+"href": "https://blong4md.com/issues"
+},
+{
+"text": "Keep up-to-date with the campaign on Facebook!",
+"href": "http://www.facebook.com/blong4md"
+},
+{
+"text": "My Account",
+"href": "https://blong4md.com/m/account"
+},
+{
+"text": "My Work",
+"href": "https://blong4md.com/my-work"
+},
+{
+"text": "Sign In",
+"href": "https://blong4md.com/m/account"
+},
+{
+"text": "[image: Bob Long 2018]",
+"href": "https://blong4md.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

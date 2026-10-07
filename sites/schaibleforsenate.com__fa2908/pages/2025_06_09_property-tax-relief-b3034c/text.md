@@ -1,5 +1,6 @@
-It was in the early hours of Saturday morning of May 3rd that the property tax relief and reform bill was passed.
+DONATE District 31 Team Request Absentee Ballot Latest Updates FOLLOW Property Tax Relief by Don Schaible | Jun 9, 2025 | Uncategorized | 0 comments It was in the early hours of Saturday morning of May 3 rd that the property tax relief and reform bill was passed.
 With the whole session of this bill being considered and massaged, it did not really have a whole lot of changes.
+Beginning in tax year of 2025, primary home tax credit will be raised from $500 that was passed last session to $1600.
 This tax relief will be funded by earnings from the state’s Legacy savings account to offset the burden of North Dakota homeowners’ property tax at a cost of $478 million.
 This property tax relief does not include bond issues that were voted on by the public or special assessments.
 That was the relief part with the reform policy coming in the form of a 3% cap on the annual growth of local property tax levels.
@@ -21,4 +22,5 @@ I had brought this issue up all session, and it seemed that if the state is goin
 The easiest way to do that was to exempt the 60 mills from the 3% cap.
 That did not happen because of decision was more for political reason and not what was best for the state.
 It looks like further work will be needed in tax relief and reform in the next few sessions.
-Senator Don Schaible dgschaible@ndlegis.gov
+Senator Don Schaible dgschaible@ndlegis.gov Search Search Recent Posts A Firsthand Look at a Critical Defense Mission Senator Don Schaible Announces Re-Election Campaign for North Dakota Senate, District 31 EMS Study Property Tax Relief End of Session 2025 Recent Comments No comments to show.
+PAID FOR BY SCHAIBLE FOR SENATE © # COPYRIGHT | SCHAIBLE FOR SENATE CREATED BY ELEVATED IMPACT

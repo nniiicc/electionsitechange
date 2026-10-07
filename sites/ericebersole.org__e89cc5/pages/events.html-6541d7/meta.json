@@ -1,7 +1,9 @@
 {
  "description": "Eric Ebersole",
  "final_url": "https://www.ericebersole.org/events.html",
- "paid_for_by": null,
+ "fingerprint": "a80d2864e3ce92736f00e5e7e2ac6cdae8c6f84f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events - Eric Ebersole",
  "years_mentioned": []
 }

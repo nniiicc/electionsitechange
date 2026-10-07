@@ -1,8 +1,26 @@
 [
-"http://wix.com/templateslp/links",
-"https://rhondastaylor.org/",
-"https://rhondastaylor.org/donate",
-"https://rhondastaylor.org/get-involved",
-"https://rhondastaylor.org/meet-rhonda",
-"https://rhondastaylor.org/pledge"
+{
+"text": "Donate",
+"href": "https://www.rhondastaylor.org/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.rhondastaylor.org/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.rhondastaylor.org"
+},
+{
+"text": "Pledge",
+"href": "https://www.rhondastaylor.org/pledge"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "http://www.wix.com/templateslp/links"
+},
+{
+"text": "Rhonda",
+"href": "https://www.rhondastaylor.org/meet-rhonda"
+}
 ]

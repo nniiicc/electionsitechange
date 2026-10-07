@@ -1,7 +1,9 @@
 {
  "description": "Support Justin Griffis for Michigan State Representative. Secure donations via Stripe.",
  "final_url": "https://justin47.com/donate",
- "paid_for_by": "Paid for by Justin Griffis for State Representative &middot; 9175 Dogwood Ln, Dexter, MI 48130 &copy; 2026 Justin Griffis for State Representative",
- "title": "Donate \u2014 Justin Griffis for State Representative",
+ "fingerprint": "628bb769d0603f9b7e16f7f03be60016e331c574",
+ "format": 3,
+ "paid_for_by": "Paid for by Justin Griffis for State Representative · 9175 Dogwood Ln, Dexter, MI 48130 © # Justin Griffis for State Representative",
+ "title": "Donate — Justin Griffis for State Representative",
  "years_mentioned": []
 }

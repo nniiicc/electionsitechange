@@ -1,69 +1,314 @@
 [
-"http://google.com/url?q=http%3A%2F%2Fwww.facebook.com%2Fgroups%2Falaskawomenandchildrenfirst&sa=D&sntz=1&usg=AOvVaw1LhlPV54U9_1qhbKRQ-gwm",
-"https://alaskaquinn.com/donate",
-"https://alaskaquinn.com/freedom",
-"https://alaskaquinn.com/help",
-"https://alaskaquinn.com/helpcontribute",
-"https://alaskaquinn.com/how-to-stand",
-"https://alaskaquinn.com/how-to-stand/other",
-"https://alaskaquinn.com/image",
-"https://alaskaquinn.com/image/logo",
-"https://alaskaquinn.com/language",
-"https://alaskaquinn.com/language/chinese",
-"https://alaskaquinn.com/language/dutch",
-"https://alaskaquinn.com/language/french",
-"https://alaskaquinn.com/language/german",
-"https://alaskaquinn.com/language/hindi",
-"https://alaskaquinn.com/language/hongkong",
-"https://alaskaquinn.com/language/italian",
-"https://alaskaquinn.com/language/japanese",
-"https://alaskaquinn.com/language/polish",
-"https://alaskaquinn.com/language/portuguese",
-"https://alaskaquinn.com/language/russian",
-"https://alaskaquinn.com/language/spanish",
-"https://alaskaquinn.com/language/turkish",
-"https://alaskaquinn.com/language/ukrainian",
-"https://alaskaquinn.com/logo-use",
-"https://alaskaquinn.com/mighty-quinn",
-"https://alaskaquinn.com/social-media",
-"https://alaskaquinn.com/solutions",
-"https://alaskaquinn.com/team-feedback",
-"https://alaskaquinn.com/team-feedback/link",
-"https://alaskaquinn.com/thought-virus",
-"https://alaskaquinn.com/thought-virus/propaganda",
-"https://alaskaquinn.com/video",
-"https://alaskaquinn.com/video/search-video",
-"https://alaskaquinn.com/welcome",
-"https://alaskaquinn.com/what-if",
-"https://alaskaquinn.com/who-is-quinn",
-"https://ballotpedia.org/Amy_Klobuchar_presidential_campaign,_2020",
-"https://ballotpedia.org/Andrew_Yang_presidential_campaign,_2020",
-"https://ballotpedia.org/Bernie_Sanders_presidential_campaign,_2020",
-"https://ballotpedia.org/Bill_Weld_presidential_campaign,_2020",
-"https://ballotpedia.org/Cory_Booker_presidential_campaign,_2020",
-"https://ballotpedia.org/Deval_Patrick_presidential_campaign,_2020",
-"https://ballotpedia.org/Donald_Trump_presidential_campaign,_2020",
-"https://ballotpedia.org/Elizabeth_Warren_presidential_campaign,_2020",
-"https://ballotpedia.org/Joe_Biden_presidential_campaign,_2020",
-"https://ballotpedia.org/Joe_Walsh_presidential_campaign,_2020",
-"https://ballotpedia.org/John_Delaney_presidential_campaign,_2020",
-"https://ballotpedia.org/Marianne_Williamson_presidential_campaign,_2020",
-"https://ballotpedia.org/Michael_Bennet_presidential_campaign,_2020",
-"https://ballotpedia.org/Michael_Bloomberg_presidential_campaign,_2020",
-"https://ballotpedia.org/Pete_Buttigieg_presidential_campaign,_2020",
-"https://ballotpedia.org/Presidential_candidates,_2020?adgroupid=71036258323",
-"https://ballotpedia.org/Roque_De_La_Fuente_presidential_campaign,_2020",
-"https://ballotpedia.org/Tom_Steyer_presidential_campaign,_2020",
-"https://ballotpedia.org/Tulsi_Gabbard_presidential_campaign,_2020",
-"https://drive.google.com/drive/folders/1ayNmUcWcS9Tl6hcRew2jay226z4sbsw3?usp=drive_link",
-"https://facebook.com/ElizabethWarren",
-"https://facebook.com/HopeAlaskaQuinn",
-"https://facebook.com/berniesanders",
-"https://facebook.com/corybooker",
-"https://facebook.com/joebiden",
-"https://facebook.com/petebuttigieg1",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Falaskawomenandchildrenfirst&sa=D&sntz=1&usg=AOvVaw0WFszZImvN89UtphcASUfC",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Falaskawomenandchildrenfirst%2F&sa=D&sntz=1&usg=AOvVaw0agpK6Gt6Cxq4rlzg0NmgU",
-"https://paypal.com/donate?token=4G12EBmRg2Hac7qUvqBC6dg0jO8WRh1L3SqBQRoVlCa5ToLHrIou_mxdTw10wrpiVpjGWm&country.x=US&locale.x=US",
-"https://youtube.com/@AlaskaWomenChildrenFirst"
+{
+"text": "AlaskaQuinn",
+"href": "https://www.alaskaquinn.com/welcome"
+},
+{
+"text": "Amy Klobuchar",
+"href": "https://ballotpedia.org/Amy_Klobuchar_presidential_campaign,_2020"
+},
+{
+"text": "Andrew Yang",
+"href": "https://ballotpedia.org/Andrew_Yang_presidential_campaign,_2020"
+},
+{
+"text": "Bernie Sanders",
+"href": "https://ballotpedia.org/Bernie_Sanders_presidential_campaign,_2020"
+},
+{
+"text": "Bill Weld",
+"href": "https://ballotpedia.org/Bill_Weld_presidential_campaign,_2020"
+},
+{
+"text": "Chinese",
+"href": "https://www.alaskaquinn.com/language/chinese"
+},
+{
+"text": "Click Here To Help",
+"href": "https://www.alaskaquinn.com/help"
+},
+{
+"text": "Contact/Feedback",
+"href": "https://www.alaskaquinn.com/team-feedback"
+},
+{
+"text": "Cory Booker",
+"href": "https://ballotpedia.org/Cory_Booker_presidential_campaign,_2020"
+},
+{
+"text": "Deval Patrick",
+"href": "https://ballotpedia.org/Deval_Patrick_presidential_campaign,_2020"
+},
+{
+"text": "Donald Trump",
+"href": "https://ballotpedia.org/Donald_Trump_presidential_campaign,_2020"
+},
+{
+"text": "Donate",
+"href": "https://www.alaskaquinn.com/donate"
+},
+{
+"text": "Dutch",
+"href": "https://www.alaskaquinn.com/language/dutch"
+},
+{
+"text": "Elizabeth Warren",
+"href": "https://ballotpedia.org/Elizabeth_Warren_presidential_campaign,_2020"
+},
+{
+"text": "Freedom",
+"href": "https://www.alaskaquinn.com/freedom"
+},
+{
+"text": "French",
+"href": "https://www.alaskaquinn.com/language/french"
+},
+{
+"text": "Full list of 1000+ declared candidates for President",
+"href": "https://ballotpedia.org/Presidential_candidates,_2020?adgroupid=71036258323"
+},
+{
+"text": "German",
+"href": "https://www.alaskaquinn.com/language/german"
+},
+{
+"text": "Help",
+"href": "https://www.alaskaquinn.com/help"
+},
+{
+"text": "Help/Contribute",
+"href": "https://www.alaskaquinn.com/helpcontribute"
+},
+{
+"text": "Hindi",
+"href": "https://www.alaskaquinn.com/language/hindi"
+},
+{
+"text": "Home",
+"href": "https://www.alaskaquinn.com/welcome"
+},
+{
+"text": "HongKong",
+"href": "https://www.alaskaquinn.com/language/hongkong"
+},
+{
+"text": "How To",
+"href": "https://www.alaskaquinn.com/how-to-stand"
+},
+{
+"text": "How To Stand",
+"href": "https://www.alaskaquinn.com/how-to-stand"
+},
+{
+"text": "Image",
+"href": "https://www.alaskaquinn.com/image"
+},
+{
+"text": "Images",
+"href": "https://www.alaskaquinn.com/image"
+},
+{
+"text": "Italian",
+"href": "https://www.alaskaquinn.com/language/italian"
+},
+{
+"text": "Japanese",
+"href": "https://www.alaskaquinn.com/language/japanese"
+},
+{
+"text": "Joe Biden",
+"href": "https://ballotpedia.org/Joe_Biden_presidential_campaign,_2020"
+},
+{
+"text": "Joe Walsh",
+"href": "https://ballotpedia.org/Joe_Walsh_presidential_campaign,_2020"
+},
+{
+"text": "John Delaney",
+"href": "https://ballotpedia.org/John_Delaney_presidential_campaign,_2020"
+},
+{
+"text": "Language",
+"href": "https://www.alaskaquinn.com/language"
+},
+{
+"text": "Logo",
+"href": "https://www.alaskaquinn.com/image/logo"
+},
+{
+"text": "Logo Use",
+"href": "https://www.alaskaquinn.com/logo-use"
+},
+{
+"text": "Marianne Williamson",
+"href": "https://ballotpedia.org/Marianne_Williamson_presidential_campaign,_2020"
+},
+{
+"text": "Michael Bennet",
+"href": "https://ballotpedia.org/Michael_Bennet_presidential_campaign,_2020"
+},
+{
+"text": "Michael Bloomberg",
+"href": "https://ballotpedia.org/Michael_Bloomberg_presidential_campaign,_2020"
+},
+{
+"text": "Mighty Quinn",
+"href": "https://www.alaskaquinn.com/mighty-quinn"
+},
+{
+"text": "Other",
+"href": "https://www.alaskaquinn.com/how-to-stand/other"
+},
+{
+"text": "Pete Buttigieg",
+"href": "https://ballotpedia.org/Pete_Buttigieg_presidential_campaign,_2020"
+},
+{
+"text": "Polish",
+"href": "https://www.alaskaquinn.com/language/polish"
+},
+{
+"text": "Portuguese",
+"href": "https://www.alaskaquinn.com/language/portuguese"
+},
+{
+"text": "Propaganda",
+"href": "https://www.alaskaquinn.com/thought-virus/propaganda"
+},
+{
+"text": "Roque De La Fuente",
+"href": "https://ballotpedia.org/Roque_De_La_Fuente_presidential_campaign,_2020"
+},
+{
+"text": "Russian",
+"href": "https://www.alaskaquinn.com/language/russian"
+},
+{
+"text": "Search Video",
+"href": "https://www.alaskaquinn.com/video/search-video"
+},
+{
+"text": "Social Media",
+"href": "https://www.alaskaquinn.com/social-media"
+},
+{
+"text": "Solutions",
+"href": "https://www.alaskaquinn.com/solutions"
+},
+{
+"text": "Spanish",
+"href": "https://www.alaskaquinn.com/language/spanish"
+},
+{
+"text": "Team Feedback",
+"href": "https://www.alaskaquinn.com/team-feedback"
+},
+{
+"text": "Thank you",
+"href": "https://www.paypal.com/donate/?token=4G12EBmRg2Hac7qUvqBC6dg0jO8WRh1L3SqBQRoVlCa5ToLHrIou_mxdTw10wrpiVpjGWm&country.x=US&locale.x=US"
+},
+{
+"text": "Thought Virus",
+"href": "https://www.alaskaquinn.com/thought-virus"
+},
+{
+"text": "Tom Steyer",
+"href": "https://ballotpedia.org/Tom_Steyer_presidential_campaign,_2020"
+},
+{
+"text": "Tulsi Gabbard",
+"href": "https://ballotpedia.org/Tulsi_Gabbard_presidential_campaign,_2020"
+},
+{
+"text": "Turkish",
+"href": "https://www.alaskaquinn.com/language/turkish"
+},
+{
+"text": "Ukrainian",
+"href": "https://www.alaskaquinn.com/language/ukrainian"
+},
+{
+"text": "Video",
+"href": "https://www.alaskaquinn.com/video"
+},
+{
+"text": "Videos",
+"href": "https://www.alaskaquinn.com/video"
+},
+{
+"text": "Welcome",
+"href": "https://www.alaskaquinn.com/welcome"
+},
+{
+"text": "What If",
+"href": "https://www.alaskaquinn.com/what-if"
+},
+{
+"text": "Who Is Quinn",
+"href": "https://www.alaskaquinn.com/who-is-quinn"
+},
+{
+"text": "[1]",
+"href": "https://ballotpedia.org/Presidential_candidates,_2020?adgroupid=71036258323#cite_note-Disclaimer-1"
+},
+{
+"text": "[image]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Fwww.facebook.com%2Fgroups%2Falaskawomenandchildrenfirst&sa=D&sntz=1&usg=AOvVaw1LhlPV54U9_1qhbKRQ-gwm"
+},
+{
+"text": "[image]",
+"href": "https://drive.google.com/drive/folders/1ayNmUcWcS9Tl6hcRew2jay226z4sbsw3?usp=drive_link"
+},
+{
+"text": "[image]",
+"href": "https://www.alaskaquinn.com/welcome"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Falaskawomenandchildrenfirst&sa=D&sntz=1&usg=AOvVaw0WFszZImvN89UtphcASUfC"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Falaskawomenandchildrenfirst%2F&sa=D&sntz=1&usg=AOvVaw0agpK6Gt6Cxq4rlzg0NmgU"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@AlaskaWomenChildrenFirst"
+},
+{
+"text": "[image]AlaskaQuinn",
+"href": "https://www.alaskaquinn.com/welcome"
+},
+{
+"text": "click here",
+"href": "https://www.alaskaquinn.com/how-to-stand"
+},
+{
+"text": "https://www.facebook.com/ElizabethWarren/",
+"href": "https://www.facebook.com/ElizabethWarren/"
+},
+{
+"text": "https://www.facebook.com/HopeAlaskaQuinn",
+"href": "https://www.facebook.com/HopeAlaskaQuinn"
+},
+{
+"text": "https://www.facebook.com/berniesanders/",
+"href": "https://www.facebook.com/berniesanders/"
+},
+{
+"text": "https://www.facebook.com/corybooker/",
+"href": "https://www.facebook.com/corybooker/"
+},
+{
+"text": "https://www.facebook.com/joebiden/",
+"href": "https://www.facebook.com/joebiden/"
+},
+{
+"text": "https://www.facebook.com/petebuttigieg1",
+"href": "https://www.facebook.com/petebuttigieg1"
+},
+{
+"text": "link",
+"href": "https://www.alaskaquinn.com/team-feedback/link"
+}
 ]

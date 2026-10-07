@@ -1,5 +1,4 @@
-Fully Funding Public Education and Modernizing Schools
-Public education serves as our most powerful engine of economic mobility and community resilience.
+0 Skip to Content Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Fully Funding Public Education and Modernizing Schools May 28 Written By Apple User Public education serves as our most powerful engine of economic mobility and community resilience.
 I view education funding as a core national security imperative.
 During my twenty years of active military duty, I learned that a nation derives its enduring strength from an educated, capable populace.
 We must fund our public school systems with the same urgency, discipline, and strategic focus we apply to national defense.
@@ -21,3 +20,8 @@ We must also protect educators and support staff.
 I support an Education Support Professionals Bill of Rights to guarantee living wages, healthcare, and dignity for bus drivers, paraprofessionals, and cafeteria workers.
 Furthermore, I will protect the 120 million dollar annual baseline for school-based behavioral health programs, ensuring students can access qualified counselors, psychologists, and social workers.
 Safe, modern, and fully funded schools anchor our communities, attract durable employers, and prepare the next generation to lead.
+Apple User Previous Previous Expanding Healthcare Access and Behavioral Health Resources Next Next Responsible Growth, Rural Conservation, and Agricultural Preservation Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Contact General Inquiries: inquiries@alleria4statedelegate.org Press : press@alleria4statedelegate.org Phone: (202) 838-7503 Authorized by Citizens for Alleria Stanley, Elizabeth Meier, Treasurer.

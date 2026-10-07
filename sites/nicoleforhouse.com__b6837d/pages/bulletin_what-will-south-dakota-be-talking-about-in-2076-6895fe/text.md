@@ -1,7 +1,6 @@
-What Will South Dakota Be Talking About in 2076?
-Rep.
-Nicole Uhre-Balk for Re-election to SD House of Representatives District 32
-As the banners come down and the 250th anniversary celebrations conclude, I keep thinking less about 1776 and more about 2076.
+0 Skip to Content About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu Folder: About Back Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Folder: Take Action Back Contact Me Get Involved Host a Yard Sign Donate → What Will South Dakota Be Talking About in 2076?
+Jul 30 Written By Forest B Rep.
+Nicole Uhre-Balk for Re-election to SD House of Representatives District 32 As the banners come down and the 250th anniversary celebrations conclude, I keep thinking less about 1776 and more about 2076.
 What will South Dakota look like when our country celebrates its 300th anniversary?
 What progress will people celebrate?
 What problems will they be surprised we were still struggling to solve in 2026?
@@ -39,3 +38,8 @@ Sharing food creates space for stories, concerns, and ideas about the policies s
 Those conversations help us understand one another and remind us that lasting change is built through relationships, not just speeches or votes.
 At a time when politics can feel increasingly divided and distant, coming together is more important than ever.
 The South Dakota that people inherit in 2076 will be shaped not only by what happens in the Capitol, but by the people who keep participating, asking questions, and working together to build something better.
+Forest B Next Next South Dakota’s K–12 funding formula bill moves forward Will you chip in and support our vision?
+Every contribution helps me communicate with voters, distribute campaign materials, organize volunteers, and build the campaign we need to win re-election.
+Whether you give $25, $50, or another amount, your support helps ensure District 32 continues to have a thoughtful and effective voice in Pierre.
+Donate now. → Donating by mail?
+Click here. → $25 $50 $75 $100 $250 $500 Home | Donate | Contact

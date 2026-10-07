@@ -1,21 +1,94 @@
 [
-"https://facebook.com/profile.php?id=61586552040656",
-"https://mariaforuscongress.com/",
-"https://mariaforuscongress.com/about-the-campaign",
-"https://mariaforuscongress.com/category/campaign",
-"https://mariaforuscongress.com/category/election",
-"https://mariaforuscongress.com/category/leadership",
-"https://mariaforuscongress.com/category/politics",
-"https://mariaforuscongress.com/category/voting",
-"https://mariaforuscongress.com/donate",
-"https://mariaforuscongress.com/events-campaigns",
-"https://mariaforuscongress.com/future-of-healthcare-the-reforms-proposal",
-"https://mariaforuscongress.com/latest-news",
-"https://mariaforuscongress.com/leadership-that-helps-you-revolutionize-the-future",
-"https://mariaforuscongress.com/meet-the-candidate",
-"https://mariaforuscongress.com/our-policies-are-designed-to-uplift-all-communities",
-"https://mariaforuscongress.com/streamline-the-process-of-voting-campaign",
-"https://mariaforuscongress.com/tag/health",
-"https://mariaforuscongress.com/tag/politics",
-"https://secure.anedot.com/maria-for-u-s-congress/donate"
+{
+"text": "About The Campaign",
+"href": "https://mariaforuscongress.com/about-the-campaign/"
+},
+{
+"text": "Campaign",
+"href": "https://mariaforuscongress.com/category/campaign/"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/maria-for-u-s-congress/donate"
+},
+{
+"text": "Election",
+"href": "https://mariaforuscongress.com/category/election/"
+},
+{
+"text": "Events",
+"href": "https://mariaforuscongress.com/events-campaigns/"
+},
+{
+"text": "Future of healthcare: The reforms proposal",
+"href": "https://mariaforuscongress.com/future-of-healthcare-the-reforms-proposal/"
+},
+{
+"text": "HOME",
+"href": "https://mariaforuscongress.com/"
+},
+{
+"text": "Health",
+"href": "https://mariaforuscongress.com/tag/health/"
+},
+{
+"text": "Latest News",
+"href": "https://mariaforuscongress.com/latest-news/"
+},
+{
+"text": "Leadership",
+"href": "https://mariaforuscongress.com/category/leadership/"
+},
+{
+"text": "Leadership that helps you revolutionize the future",
+"href": "https://mariaforuscongress.com/leadership-that-helps-you-revolutionize-the-future/"
+},
+{
+"text": "MEET MARIA",
+"href": "https://mariaforuscongress.com/meet-the-candidate/"
+},
+{
+"text": "Our policies are designed to uplift all communities",
+"href": "https://mariaforuscongress.com/our-policies-are-designed-to-uplift-all-communities/"
+},
+{
+"text": "Politics",
+"href": "https://mariaforuscongress.com/category/politics/"
+},
+{
+"text": "Politics",
+"href": "https://mariaforuscongress.com/tag/politics/"
+},
+{
+"text": "Streamline the process of voting & campaign",
+"href": "https://mariaforuscongress.com/streamline-the-process-of-voting-campaign/"
+},
+{
+"text": "Take Action",
+"href": "https://mariaforuscongress.com/donate/"
+},
+{
+"text": "Voting",
+"href": "https://mariaforuscongress.com/category/voting/"
+},
+{
+"text": "[image: Crowd with Posters]",
+"href": "https://mariaforuscongress.com/leadership-that-helps-you-revolutionize-the-future/"
+},
+{
+"text": "[image: Father and Son in Street Holding up a Sign]",
+"href": "https://mariaforuscongress.com/our-policies-are-designed-to-uplift-all-communities/"
+},
+{
+"text": "[image: Microscope and Vials]",
+"href": "https://mariaforuscongress.com/future-of-healthcare-the-reforms-proposal/"
+},
+{
+"text": "[image: Voting Stickers 1]",
+"href": "https://mariaforuscongress.com/streamline-the-process-of-voting-campaign/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61586552040656"
+}
 ]

@@ -1,2 +1,4 @@
-Skip to content
-CALIFORNIA PROFESSIONAL FIREFIGHTERS ENDORSE MICHELLE RODRIGUEZ FOR ASSEMBLY DISTRICT 53
+Skip to content Toll-free: 800-2345-6789 Login | Register Twitter Facebook-f Youtube Linkedin Home Meet Michelle Priorities Safe Neighborhoods Cleaner Air and Water Healthcare for All Jobs and the Economy Women’s Equality Homelessness Schools and Higher Education News Join Team Michelle!
+Supporters Gallery DONATE CALIFORNIA PROFESSIONAL FIREFIGHTERS ENDORSE MICHELLE RODRIGUEZ FOR ASSEMBLY DISTRICT 53 By admin In Uncategorized Posted May 31, 2024 (Pomona, CA) – Michelle Rodriguez’s campaign announced today that the California Professional Firefighters have endorsed her candidacy for the 53rd Assembly District.
+The 53rd District includes the cities of Pomona, Chino, Ontario, Upland, and Montclair.
+View press release Post navigation Previous Previous MICHELLE RODRIGUEZ EARNS ENDORSEMENT FROM ONTARIO PROFESSIONAL FIREFIGHTERS IN AD53 Contact Michelle info@michelleforassembly.com 2063 Rancho Valley Dr., Ste 320, #154, Pomona, CA, 91766 Join the Movement Join Team Michelle Endorse Michelle Donate • Paid for by Michelle Rodriguez for Assembly 2026 • FPPC ID 1477034 • 2063 Rancho Valley Dr., Ste 320, #154, Pomona, California, 91766 Twitter Facebook-f

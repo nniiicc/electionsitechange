@@ -1,13 +1,6 @@
-Your Voice in Charleston — Rooted in District 51
-Cy Persinger is a lifelong resident of Fayette County and a Republican candidate for the West Virginia House of Delegates in District 51.
+0 Skip to Content Persingerforwv.com Home About FAQ Donate Contact Open Menu Close Menu Persingerforwv.com Home About FAQ Donate Contact Open Menu Close Menu Home About FAQ Donate Contact Your Voice in Charleston — Rooted in District 51 Cy Persinger is a lifelong resident of Fayette County and a Republican candidate for the West Virginia House of Delegates in District 51.
 He believes that representation should be rooted in the communities it serves and that elected officials should listen first and lead with integrity.
 Cy earned both a Master of Business Administration and a Bachelor of Science in Business Administration and Economics from West Virginia Wesleyan College.
 He currently serves as a Business Analyst at Rainelle Medical Center, where he works to support financial stability and improve access to healthcare services across southern West Virginia.
 Through his work and community involvement, Cy has seen firsthand the challenges families face — from healthcare access to economic opportunity — and he is committed to being a strong, effective voice for District 51 in Charleston.
-Cy’s Commitment to District 51
-- Community-first representation
-- Listening to constituents
-- Strengthening rural healthcare
-- Supporting working families and local businesses
-- Investing in education and workforce development
-- Transparent and accountable leadership
+Cy’s Commitment to District 51 Community-first representation Listening to constituents Strengthening rural healthcare Supporting working families and local businesses Investing in education and workforce development Transparent and accountable leadership PersingerForWV Made with Squarespace

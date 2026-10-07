@@ -1,46 +1,190 @@
 [
-"http://facebook.com/JessHansonMN",
-"http://x.com/JessHansonMN",
-"https://bsky.app/profile/jesshansonmn.bsky.social",
-"https://house.mn.gov/Committees/Home/94003",
-"https://house.mn.gov/Committees/Home/94004",
-"https://house.mn.gov/Committees/Home/94012",
-"https://house.mn.gov/Committees/Home/94022",
-"https://house.mn.gov/Committees/archives/92001",
-"https://house.mn.gov/Committees/archives/92013",
-"https://house.mn.gov/Committees/archives/92014",
-"https://house.mn.gov/Committees/archives/92015",
-"https://house.mn.gov/Committees/archives/93005",
-"https://house.mn.gov/Committees/archives/93006",
-"https://house.mn.gov/Committees/archives/93011",
-"https://house.mn.gov/Committees/archives/93014",
-"https://instagram.com/JessHansonMN",
-"https://jesshansonforhouse.com/",
-"https://jesshansonforhouse.com/about-jess",
-"https://jesshansonforhouse.com/cart",
-"https://jesshansonforhouse.com/committeesbills",
-"https://jesshansonforhouse.com/contact-us",
-"https://jesshansonforhouse.com/contactjess",
-"https://jesshansonforhouse.com/donate",
-"https://jesshansonforhouse.com/door-knock",
-"https://jesshansonforhouse.com/endorsements-2024",
-"https://jesshansonforhouse.com/endorsements-2026",
-"https://jesshansonforhouse.com/events",
-"https://jesshansonforhouse.com/get-involved",
-"https://jesshansonforhouse.com/getnewsletters",
-"https://jesshansonforhouse.com/houseparty",
-"https://jesshansonforhouse.com/join-email-list",
-"https://jesshansonforhouse.com/lawnsign",
-"https://jesshansonforhouse.com/learn-more",
-"https://jesshansonforhouse.com/photos",
-"https://jesshansonforhouse.com/politics-of-care-about",
-"https://jesshansonforhouse.com/volunteer",
-"https://jesshansonforhouse.com/whoisjess",
-"https://leg.mn.gov/leg/cc/Default?type=bill&year=2023-93&bill=HF-100",
-"https://leg.mn.gov/leg/cc/Default?type=bill&year=2024-93&bill=HF-4757",
-"https://leg.mn.gov/leg/cc/Default?type=bill&year=2025-94&bill=SF-2370",
-"https://revisor.mn.gov/bills/status_result.php?body=House&search=basic&session=0922021&location=House&bill_type=bill&keyword_type=all&keyword_field_text=1&author1%5B%5D=42195&submit_author1=GO",
-"https://revisor.mn.gov/bills/status_result.php?body=House&search=basic&session=0932023&location=House&bill_type=bill&keyword_type=all&keyword_field_text=1&author1%5B%5D=42308&submit_author1=GO",
-"https://revisor.mn.gov/bills/status_result.php?body=House&search=basic&session=0942025&location=House&bill_type=bill&keyword_type=all&keyword_field_text=1&author1%5B%5D=42381&submit_author1=GO",
-"https://secure.actblue.com/donate/jesshansonforhouse55a"
+{
+"text": "0",
+"href": "https://www.jesshansonforhouse.com/cart"
+},
+{
+"text": "2023 Cannabis Finance & Policy Bill (HF100)",
+"href": "https://www.leg.mn.gov/leg/cc/Default?type=bill&year=2023-93&bill=HF-100"
+},
+{
+"text": "2024 Cannabis Policy Bill (HF4757)",
+"href": "https://www.leg.mn.gov/leg/cc/Default?type=bill&year=2024-93&bill=HF-4757"
+},
+{
+"text": "2025 Cannabis Finance & Policy Bill (HF1615)",
+"href": "https://www.leg.mn.gov/leg/cc/Default?type=bill&year=2025-94&bill=SF-2370"
+},
+{
+"text": "Agriculture Finance & Policy",
+"href": "https://www.house.mn.gov/Committees/archives/92001"
+},
+{
+"text": "Back",
+"href": "https://www.jesshansonforhouse.com/"
+},
+{
+"text": "Behavioral Health Policy Division",
+"href": "https://www.house.mn.gov/Committees/archives/92014"
+},
+{
+"text": "Bills Introduced:",
+"href": "https://www.revisor.mn.gov/bills/status_result.php?body=House&search=basic&session=0922021&location=House&bill=&bill_type=bill&rev_number=&keyword_type=all&keyword=&keyword_field_text=1&author1%5B%5D=42195&submit_author1=GO&titleword="
+},
+{
+"text": "Bills Introduced:",
+"href": "https://www.revisor.mn.gov/bills/status_result.php?body=House&search=basic&session=0932023&location=House&bill=&bill_type=bill&rev_number=&keyword_type=all&keyword=&keyword_field_text=1&author1%5B%5D=42308&submit_author1=GO&titleword="
+},
+{
+"text": "Bills Introduced:",
+"href": "https://www.revisor.mn.gov/bills/status_result.php?body=House&search=basic&session=0942025&location=House&bill=&bill_type=bill&rev_number=&keyword_type=all&keyword=&keyword_field_text=1&author1%5B%5D=42381&submit_author1=GO&titleword="
+},
+{
+"text": "Children & Families Finance & Policy",
+"href": "https://www.house.mn.gov/Committees/archives/93005"
+},
+{
+"text": "Children & Families Finance & Policy (co-vice chair)",
+"href": "https://www.house.mn.gov/Committees/Home/94003"
+},
+{
+"text": "Click Here to Donate on ActBlue Today!",
+"href": "https://secure.actblue.com/donate/jesshansonforhouse55a"
+},
+{
+"text": "Commerce Finance & Policy (2026)",
+"href": "https://www.house.mn.gov/Committees/Home/94004"
+},
+{
+"text": "Committees & Bills",
+"href": "https://www.jesshansonforhouse.com/committeesbills"
+},
+{
+"text": "Contact Jess",
+"href": "https://www.jesshansonforhouse.com/contactjess"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jesshansonforhouse55a"
+},
+{
+"text": "Donate",
+"href": "https://www.jesshansonforhouse.com/donate"
+},
+{
+"text": "Door Knock",
+"href": "https://www.jesshansonforhouse.com/door-knock"
+},
+{
+"text": "Economic Development (vice chair)",
+"href": "https://www.house.mn.gov/Committees/archives/93006"
+},
+{
+"text": "Endorsements (2024)",
+"href": "https://www.jesshansonforhouse.com/endorsements-2024"
+},
+{
+"text": "Endorsements (2026)",
+"href": "https://www.jesshansonforhouse.com/endorsements-2026"
+},
+{
+"text": "Events",
+"href": "https://www.jesshansonforhouse.com/events"
+},
+{
+"text": "Folder: Contact Us",
+"href": "https://www.jesshansonforhouse.com/contact-us"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.jesshansonforhouse.com/get-involved"
+},
+{
+"text": "Folder: Learn More",
+"href": "https://www.jesshansonforhouse.com/learn-more"
+},
+{
+"text": "Get Email Updates",
+"href": "https://www.jesshansonforhouse.com/join-email-list"
+},
+{
+"text": "Get Newsletters",
+"href": "https://www.jesshansonforhouse.com/getnewsletters"
+},
+{
+"text": "Get a Lawn Sign",
+"href": "https://www.jesshansonforhouse.com/lawnsign"
+},
+{
+"text": "Higher Education Finance & Policy (2nd term)",
+"href": "https://www.house.mn.gov/Committees/archives/93011"
+},
+{
+"text": "Higher Education Finance & Policy (3rd term)",
+"href": "https://www.house.mn.gov/Committees/Home/94012"
+},
+{
+"text": "Higher Education Finance and Policy",
+"href": "https://www.house.mn.gov/Committees/archives/92015"
+},
+{
+"text": "Home",
+"href": "https://www.jesshansonforhouse.com/"
+},
+{
+"text": "Host a House Party",
+"href": "https://www.jesshansonforhouse.com/houseparty"
+},
+{
+"text": "Human Services Finance & Policy",
+"href": "https://www.house.mn.gov/Committees/archives/92013"
+},
+{
+"text": "Human Services Policy (2nd term)",
+"href": "https://www.house.mn.gov/Committees/archives/93014"
+},
+{
+"text": "Photos",
+"href": "https://www.jesshansonforhouse.com/photos"
+},
+{
+"text": "Taxes (2025)",
+"href": "https://www.house.mn.gov/Committees/Home/94022"
+},
+{
+"text": "The Politics of Care",
+"href": "https://www.jesshansonforhouse.com/politics-of-care-about"
+},
+{
+"text": "The Story",
+"href": "https://www.jesshansonforhouse.com/about-jess"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jesshansonforhouse.com/volunteer"
+},
+{
+"text": "Who is Jess?",
+"href": "https://www.jesshansonforhouse.com/whoisjess"
+},
+{
+"text": "[image: VOTE FOR JESS BY NOV 3]",
+"href": "https://www.jesshansonforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/JessHansonMN"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com/JessHansonMN"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jesshansonmn.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/JessHansonMN"
+}
 ]

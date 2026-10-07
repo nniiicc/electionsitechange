@@ -1,49 +1,202 @@
 [
-"http://pipelinesocialmedia.com/",
-"https://facebook.com/WashburnforStateHouse",
-"https://instagram.com/washburnforga",
-"https://lp.constantcontactpages.com/sl/cSoLS0W/DaleWashburnSignUp",
-"https://washburnforstatehouse.com/",
-"https://washburnforstatehouse.com/2019/01",
-"https://washburnforstatehouse.com/2019/02",
-"https://washburnforstatehouse.com/2019/03",
-"https://washburnforstatehouse.com/2020/02",
-"https://washburnforstatehouse.com/2020/03",
-"https://washburnforstatehouse.com/2022/01",
-"https://washburnforstatehouse.com/2022/02",
-"https://washburnforstatehouse.com/2022/03",
-"https://washburnforstatehouse.com/2022/04",
-"https://washburnforstatehouse.com/2023/01",
-"https://washburnforstatehouse.com/2023/02",
-"https://washburnforstatehouse.com/2023/03",
-"https://washburnforstatehouse.com/2023/04",
-"https://washburnforstatehouse.com/2024/01",
-"https://washburnforstatehouse.com/2024/02",
-"https://washburnforstatehouse.com/2024/03",
-"https://washburnforstatehouse.com/2024/04",
-"https://washburnforstatehouse.com/2024/12",
-"https://washburnforstatehouse.com/2025/01",
-"https://washburnforstatehouse.com/2025/02",
-"https://washburnforstatehouse.com/2025/03",
-"https://washburnforstatehouse.com/2025/04",
-"https://washburnforstatehouse.com/2026/01",
-"https://washburnforstatehouse.com/2026/02",
-"https://washburnforstatehouse.com/2026/03",
-"https://washburnforstatehouse.com/2026/04",
-"https://washburnforstatehouse.com/author/taylor-pipeline",
-"https://washburnforstatehouse.com/category/news",
-"https://washburnforstatehouse.com/category/uncategorized",
-"https://washburnforstatehouse.com/comments/feed",
-"https://washburnforstatehouse.com/feed",
-"https://washburnforstatehouse.com/home",
-"https://washburnforstatehouse.com/news",
-"https://washburnforstatehouse.com/public-office",
-"https://washburnforstatehouse.com/week-10-legislative-session-recap-2026",
-"https://washburnforstatehouse.com/week-11-legislative-session-recap-2026",
-"https://washburnforstatehouse.com/week-12-legislative-session-recap-2026",
-"https://washburnforstatehouse.com/week-7-legislative-session-recap-2026",
-"https://washburnforstatehouse.com/week-8-legislative-session-recap",
-"https://washburnforstatehouse.com/week-9-legislative-session-recap-2026",
-"https://washburnforstatehouse.com/wp-login.php",
-"https://wordpress.org/"
+{
+"text": "April 2022",
+"href": "https://www.washburnforstatehouse.com/2022/04/"
+},
+{
+"text": "April 2023",
+"href": "https://www.washburnforstatehouse.com/2023/04/"
+},
+{
+"text": "April 2024",
+"href": "https://www.washburnforstatehouse.com/2024/04/"
+},
+{
+"text": "April 2025",
+"href": "https://www.washburnforstatehouse.com/2025/04/"
+},
+{
+"text": "April 2026",
+"href": "https://www.washburnforstatehouse.com/2026/04/"
+},
+{
+"text": "Comments feed",
+"href": "https://www.washburnforstatehouse.com/comments/feed/"
+},
+{
+"text": "Contact",
+"href": "https://www.washburnforstatehouse.com/home#contact"
+},
+{
+"text": "Dale Washburn",
+"href": "https://www.washburnforstatehouse.com/author/taylor-pipeline/"
+},
+{
+"text": "December 2024",
+"href": "https://www.washburnforstatehouse.com/2024/12/"
+},
+{
+"text": "Entries feed",
+"href": "https://www.washburnforstatehouse.com/feed/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/WashburnforStateHouse/"
+},
+{
+"text": "February 2019",
+"href": "https://www.washburnforstatehouse.com/2019/02/"
+},
+{
+"text": "February 2020",
+"href": "https://www.washburnforstatehouse.com/2020/02/"
+},
+{
+"text": "February 2022",
+"href": "https://www.washburnforstatehouse.com/2022/02/"
+},
+{
+"text": "February 2023",
+"href": "https://www.washburnforstatehouse.com/2023/02/"
+},
+{
+"text": "February 2024",
+"href": "https://www.washburnforstatehouse.com/2024/02/"
+},
+{
+"text": "February 2025",
+"href": "https://www.washburnforstatehouse.com/2025/02/"
+},
+{
+"text": "February 2026",
+"href": "https://www.washburnforstatehouse.com/2026/02/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/washburnforga/"
+},
+{
+"text": "January 2019",
+"href": "https://www.washburnforstatehouse.com/2019/01/"
+},
+{
+"text": "January 2022",
+"href": "https://www.washburnforstatehouse.com/2022/01/"
+},
+{
+"text": "January 2023",
+"href": "https://www.washburnforstatehouse.com/2023/01/"
+},
+{
+"text": "January 2024",
+"href": "https://www.washburnforstatehouse.com/2024/01/"
+},
+{
+"text": "January 2025",
+"href": "https://www.washburnforstatehouse.com/2025/01/"
+},
+{
+"text": "January 2026",
+"href": "https://www.washburnforstatehouse.com/2026/01/"
+},
+{
+"text": "Log in",
+"href": "https://www.washburnforstatehouse.com/wp-login.php"
+},
+{
+"text": "MEET DALE",
+"href": "https://www.washburnforstatehouse.com/home#meet-dale"
+},
+{
+"text": "March 2019",
+"href": "https://www.washburnforstatehouse.com/2019/03/"
+},
+{
+"text": "March 2020",
+"href": "https://www.washburnforstatehouse.com/2020/03/"
+},
+{
+"text": "March 2022",
+"href": "https://www.washburnforstatehouse.com/2022/03/"
+},
+{
+"text": "March 2023",
+"href": "https://www.washburnforstatehouse.com/2023/03/"
+},
+{
+"text": "March 2024",
+"href": "https://www.washburnforstatehouse.com/2024/03/"
+},
+{
+"text": "March 2025",
+"href": "https://www.washburnforstatehouse.com/2025/03/"
+},
+{
+"text": "March 2026",
+"href": "https://www.washburnforstatehouse.com/2026/03/"
+},
+{
+"text": "NEWS",
+"href": "https://www.washburnforstatehouse.com/news/"
+},
+{
+"text": "News",
+"href": "https://www.washburnforstatehouse.com/category/news/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.washburnforstatehouse.com/home#priorities"
+},
+{
+"text": "Pipeline Social Media",
+"href": "http://pipelinesocialmedia.com/"
+},
+{
+"text": "Public Office",
+"href": "https://www.washburnforstatehouse.com/public-office/"
+},
+{
+"text": "Sign Up for Capitol Updates",
+"href": "https://lp.constantcontactpages.com/sl/cSoLS0W/DaleWashburnSignUp"
+},
+{
+"text": "Uncategorized",
+"href": "https://www.washburnforstatehouse.com/category/uncategorized/"
+},
+{
+"text": "Week 10 Legislative Session Recap 2026",
+"href": "https://www.washburnforstatehouse.com/week-10-legislative-session-recap-2026/"
+},
+{
+"text": "Week 11 Legislative Session Recap 2026",
+"href": "https://www.washburnforstatehouse.com/week-11-legislative-session-recap-2026/"
+},
+{
+"text": "Week 12 Legislative Session Recap 2026",
+"href": "https://www.washburnforstatehouse.com/week-12-legislative-session-recap-2026/"
+},
+{
+"text": "Week 7 Legislative Session Recap 2026",
+"href": "https://www.washburnforstatehouse.com/week-7-legislative-session-recap-2026/"
+},
+{
+"text": "Week 8 Legislative Session Recap 2026",
+"href": "https://www.washburnforstatehouse.com/week-8-legislative-session-recap/"
+},
+{
+"text": "Week 9 Legislative Session Recap 2026",
+"href": "https://www.washburnforstatehouse.com/week-9-legislative-session-recap-2026/"
+},
+{
+"text": "WordPress.org",
+"href": "https://wordpress.org/"
+},
+{
+"text": "[image: Dale Washburn for State House]",
+"href": "https://www.washburnforstatehouse.com/"
+},
+{
+"text": "name@email.com",
+"href": "mailto:name@email.com"
+}
 ]

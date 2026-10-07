@@ -1,6 +1,4 @@
-Signed in as:
-filler@godaddy.com
-My name is Jay Xiong, and I am a State Representative in House District 67B on the East Side of St.
+Home About DONATE More Home About DONATE Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Door Knock Events Signed in as: filler@godaddy.com Home About DONATE Account My Account Sign out Sign In My Account Door Knock Events About Me DFL & LABOR ENDORSED My name is Jay Xiong, and I am a State Representative in House District 67B on the East Side of St.
 Paul.
 I currently chair the Veterans and Military Affairs Division.
 Fifty years ago, my family came to this country as immigrants and refugees.
@@ -28,5 +26,5 @@ That's how I ended up running for office myself.
 In the years since, I've organized voter registration drives, organized our community for civic engagement, run political campaigns, and — most proudly — had the honor of serving the people of our state, first on legislative staff and now as their State Representative.
 Unlike many of my colleagues who have the privilege of not needing a job during the interim — or who were born into wealth — I'm like most working people in our district: holding down two jobs just to make ends meet.
 Between teaching citizenship classes, working evenings as a janitor, and serving as a cultural coordinator during interim, I'm out there doing what so many of you do every day — juggling multiple jobs to build a life for your family.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+About DONATE Prepared & paid for by Jay for MN House Committee PO BOX 600264, St.
+Paul, MN 55106 Copyright © # Jay for MN House - All Rights Reserved.

@@ -1,13 +1,46 @@
 [
-"https://cisconv.co/",
-"https://cisconv.co/about",
-"https://cisconv.co/cdn-cgi/l/email-protection",
-"https://cisconv.co/contact-us",
-"https://cisconv.co/endorsements",
-"https://cisconv.co/record-and-plan",
-"https://cisconv.co/things-nevada-voters-need-to-know",
-"https://facebook.com/CiscoForNevada",
-"https://instagram.com/ciscofornevada",
-"https://secure.actblue.com/donate/ca-website",
-"https://x.com/CiscoForNevada"
+{
+"text": "About Cisco",
+"href": "https://cisconv.co/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://cisconv.co/contact-us/"
+},
+{
+"text": "Contribute to the Campaign",
+"href": "https://secure.actblue.com/donate/ca-website"
+},
+{
+"text": "Endorsements",
+"href": "https://cisconv.co/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/CiscoForNevada/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ciscofornevada/"
+},
+{
+"text": "Record",
+"href": "https://cisconv.co/record-and-plan/"
+},
+{
+"text": "Things Nevada Voters Need to Know",
+"href": "https://cisconv.co/things-nevada-voters-need-to-know/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/CiscoForNevada"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@cisconv.co"
+},
+{
+"text": "[image]",
+"href": "https://cisconv.co"
+}
 ]

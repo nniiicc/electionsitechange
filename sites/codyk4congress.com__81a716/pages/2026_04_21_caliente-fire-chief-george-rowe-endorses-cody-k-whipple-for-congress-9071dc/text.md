@@ -1,11 +1,10 @@
-HIKO, NV – Cody K Whipple for Congress proudly announced today the endorsement of Caliente Fire Chief George Rowe, a respected public safety leader with deep roots in Lincoln County and a longstanding commitment to serving Nevada communities.
+Skip to content About Endorsements Get Involved News Issues Store Donate Latest News Caliente Fire Chief George Rowe Endorses Cody K Whipple for Congress April 21, 2026 HIKO, NV – Cody K Whipple for Congress proudly announced today the endorsement of Caliente Fire Chief George Rowe, a respected public safety leader with deep roots in Lincoln County and a longstanding commitment to serving Nevada communities.
 Chief Rowe’s endorsement adds to the growing momentum behind Whipple’s campaign, which is focused on putting Nevada First by lowering the cost of living, strengthening public safety, and standing up for working families across the state.
 “As Fire Chief, I’ve dedicated my life to protecting our community and ensuring families are safe,” said George Rowe.
 “Cody Whipple understands the challenges facing rural Nevada and has the leadership, experience, and work ethic to deliver real results.
 He will be a strong advocate for our first responders, small towns, and the hardworking people who keep Nevada moving forward.
-I’m proud to endorse Cody K Whipple for Congress.”
-Whipple, a businessman and longtime advocate for Nevada families and small businesses, welcomed the endorsement and emphasized the importance of supporting those who serve on the front lines.
+I’m proud to endorse Cody K Whipple for Congress.” Whipple, a businessman and longtime advocate for Nevada families and small businesses, welcomed the endorsement and emphasized the importance of supporting those who serve on the front lines.
 “Chief Rowe represents the very best of Nevada—selfless service, leadership, and a deep commitment to community,” said Cody K Whipple.
-“I’m honored to have his support and will continue fighting to ensure our first responders have the resources they need, our communities are safe, and Nevada families can thrive.”
-Cody K Whipple’s Nevada First campaign continues to gain support from leaders across the state who are ready for a change in Washington and a renewed focus on the issues that matter most to Nevadans.
-To learn more or get involved, visit codyk4congress.com.
+“I’m honored to have his support and will continue fighting to ensure our first responders have the resources they need, our communities are safe, and Nevada families can thrive.” Cody K Whipple’s Nevada First campaign continues to gain support from leaders across the state who are ready for a change in Washington and a renewed focus on the issues that matter most to Nevadans.
+To learn more or get involved, visit codyk4congress.com .
+4004 Whipple Ranch Road, Hiko, NV 89017 – 702-914-8072 – info@codyk4congress.com Paid for by Cody K 4 Congress Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

@@ -1,4 +1,6 @@
-First, I was extremely surprised but pleased and excited the Herald-Leader was once again printing articles that effect the U.S.
+Skip to content Home About Blog Books Contact Home About Blog Books Contact Response to Ms.
+Teri Anderson’s Article, “President Trump Promised War on U.S.
+Citizens, KY Politicians Stayed Silent” / Blog Post / By Billy Ray Wilson First, I was extremely surprised but pleased and excited the Herald-Leader was once again printing articles that effect the U.S.
 Constitution.
 As a native of Laurel County, the Commonwealth of Kentucky, I recall on September 30, 1960, multiple Kentuckians and I, draftees and volunteers, were processed at Louisville, KY Military Entrance Processing Station (MEPS) and then transported to our applicable military training installations.
 My training base was Lackland Air Force Base, San Antonio, Texas, some Army at Fort Knox, KY, Navy and Marines at other US locations.
@@ -13,7 +15,8 @@ At the end of an honorable Air Force career of 20 years and 1 day, I was hired, 
 My position was as the Northrop Supervisor at the Royal Saudi Air Force ‘s (RSAF) No 15teen, F-5 Squadron where we were contracted to upgrade RSAF Warrant Officers in the Air Operations Vocation.
 We were successful.
 We upgraded two Warrant Officers, which were certified by the US Air Force Administrators of the US State Department’s Foreign Sales Program, prior to my medical termination incurred from career medical ailment and returned to the United States, unemployed.
-The next US State Department, Department of Defense employment, same air base, but with McDonnell Douglas Aircraft Service, F-15 Aircraft, RSAF’s No. 6 F-15 Squadron however we had no Warrant Office trainees.
+The next US State Department, Department of Defense employment, same air base, but with McDonnell Douglas Aircraft Service, F-15 Aircraft, RSAF’s No.
+6 F-15 Squadron however we had no Warrant Office trainees.
 We, McDonnell Douglas employees, were US military retirees maintaining a Royal Saudi Air Force F-15 Squadron engaged in Air Defense and Combat Air Missions against Iran and Iraq Air Resources and Yemen Armed Forces and Yemen militias.
 Two United States Air Force Instructor Pilots assigned to the squadron.
 After receiving a high-profile senior Pentagon team at the Squadron Facility, I suspected, the United States was going to war against Iraq, I resigned and returned to the United States blacklisted by McDonnell Douglas.
@@ -25,8 +28,6 @@ My opinion result is to seek the addresses wise decision to deliver to the peopl
 Regarding life on earth, I will provide a quote from NASA’s famous working definition of Life: “a self-sustaining chemical system capable of Darwin evolution.” The will of the citizens of the United States will determine if the United States remains a Constitutional Republic or a theocracy.
 Theocracies for approximately six thousand years of history are responsible for destruction of civilizations and the establishment of socialist societies.
 Please save the United States.
-With respect, I remain,
-BILLY RAY WILSON
-MASTER SERGEANT, USAF – RETIRED
-AIR OPERATIONS SUPERINTENDENT
-DEFENDER OF THE US CONSTITUTION
+With respect, I remain, BILLY RAY WILSON MASTER SERGEANT, USAF – RETIRED AIR OPERATIONS SUPERINTENDENT DEFENDER OF THE US CONSTITUTION ← Previous Post Next Post → Home About Blog Books Contact Copyright © # Billy Ray Wilson.
+All Rights Reserved.
+Scroll to Top

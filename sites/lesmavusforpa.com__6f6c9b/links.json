@@ -1,7 +1,22 @@
 [
-"https://facebook.com/lesmavusforpa",
-"https://instagram.com/lesmavusforpa",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/les-mavus-1"
+{
+"text": "Donate Now with ActBlue",
+"href": "https://secure.actblue.com/donate/les-mavus-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lesmavusforpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lesmavusforpa"
+}
 ]

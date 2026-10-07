@@ -1,5 +1,5 @@
-Thank you!
-I am humbled and honored to have been one of two elected to serve as your Representatives in the Vermont House.
+top of page HOME ABOUT ASHLEY WHY I RAN CONTACT SIGN-UP FOR UPDATES CAMPAIGN UPDATES DONATE More Use tab to navigate through the menu items.
+All Posts Campaign Affordability Crisis Childcare Crisis Working Families Affordable Housing Legislative Updates Education Search Thank you! info4075055 Nov 9, 2022 1 min read I am humbled and honored to have been one of two elected to serve as your Representatives in the Vermont House.
 Carolyn Branagan and I look forward to serving you and Representing your voice in Montpelier.
 I also want to also thank and congratulate Al Maynard and Rev.
 Devon Thomas on their campaigns.
@@ -12,21 +12,5 @@ Thank you!
 Finally, thank you Rep.
 Barbara Murphy and Rep.
 Carl Rosenquist for your dedication to our communities.
-UNOFFICIAL RESULTS
-| FAIRFAX RESULTS | |
-| Maynard | 1,231 |
-| Bartley | 1,136 |
-| Branagan | 1,046 |
-| Thomas | 771 |
-| | |
-| GEORGIA RESULTS | |
-| Branagan | 1,203 |
-| Bartley | 873 |
-| Thomas | 638 |
-| Maynard | 586 |
-| | |
-| TOTALS | |
-| Branagan | 2,248 |
-| Bartley | 2,009 |
-| Maynard | 1,817 |
-| Thomas | 1,409 |
+UNOFFICIAL RESULTS FAIRFAX RESULTS ​ Maynard 1,231 Bartley 1,136 Branagan 1,046 Thomas 771 ​ ​ GEORGIA RESULTS ​ Branagan 1,203 Bartley 873 Thomas 638 Maynard 586 ​ ​ TOTALS ​ Branagan 2,248 Bartley 2,009 Maynard 1,817 Thomas 1,409 Campaign Recent Posts See All As your Senator, I’ll continue to leave it on the field THANK YOU!
+Who's Supporting Ashley Bartley Paid for by Ashley Bartley for State Senate Jeff Bartley, Treasurer ​ CONTACT: ashley@ashleybartley.org 802-310-0400 ​ PO Box 432 Fairfax, VT 05454 ​ ​ DONATE TO ASHLEY! bottom of page

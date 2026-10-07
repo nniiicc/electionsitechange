@@ -1,12 +1,102 @@
 [
-"https://action.butcherforwyomingsenate.com/volunteer",
-"https://butcherforwyomingsenate.com/",
-"https://butcherforwyomingsenate.com/author/mdbutcher",
-"https://butcherforwyomingsenate.com/donate",
-"https://butcherforwyomingsenate.com/melissas-story",
-"https://butcherforwyomingsenate.com/my-pledge-to-wyoming",
-"https://butcherforwyomingsenate.com/support-from-across-wyoming",
-"https://butcherforwyomingsenate.com/updates",
-"https://butcherforwyomingsenate.com/where-i-stand",
-"https://facebook.com/profile.php?id=61583041353865"
+{
+"text": "About",
+"href": "https://butcherforwyomingsenate.com/melissas-story/"
+},
+{
+"text": "Accessible Healthcare",
+"href": "https://butcherforwyomingsenate.com/where-i-stand/#healthcare"
+},
+{
+"text": "Clear Priorities",
+"href": "https://butcherforwyomingsenate.com/where-i-stand/#government"
+},
+{
+"text": "Contact",
+"href": "https://action.butcherforwyomingsenate.com/volunteer"
+},
+{
+"text": "Disciplined Government",
+"href": "https://butcherforwyomingsenate.com/where-i-stand/#government"
+},
+{
+"text": "Donate",
+"href": "https://butcherforwyomingsenate.com/donate/"
+},
+{
+"text": "Education for Opportunity",
+"href": "https://butcherforwyomingsenate.com/where-i-stand/#education"
+},
+{
+"text": "Energy Leadership",
+"href": "https://butcherforwyomingsenate.com/where-i-stand/#energy"
+},
+{
+"text": "JOIN THE CAMPAIGN",
+"href": "https://action.butcherforwyomingsenate.com/volunteer"
+},
+{
+"text": "Jobs You Can Build a Life On",
+"href": "https://butcherforwyomingsenate.com/where-i-stand/#economy"
+},
+{
+"text": "Land Stewardship",
+"href": "https://butcherforwyomingsenate.com/where-i-stand/#energy"
+},
+{
+"text": "Local Control",
+"href": "https://butcherforwyomingsenate.com/where-i-stand/#community"
+},
+{
+"text": "Pledge",
+"href": "https://butcherforwyomingsenate.com/my-pledge-to-wyoming/"
+},
+{
+"text": "Predictable Taxes",
+"href": "https://butcherforwyomingsenate.com/where-i-stand/#government"
+},
+{
+"text": "Protected Rights",
+"href": "https://butcherforwyomingsenate.com/where-i-stand/#values"
+},
+{
+"text": "READ MELISSA’S STORY",
+"href": "https://butcherforwyomingsenate.com/melissas-story/"
+},
+{
+"text": "Strong Communities",
+"href": "https://butcherforwyomingsenate.com/where-i-stand/#community"
+},
+{
+"text": "Support",
+"href": "https://butcherforwyomingsenate.com/support-from-across-wyoming/"
+},
+{
+"text": "Updates",
+"href": "https://butcherforwyomingsenate.com/updates/"
+},
+{
+"text": "Volunteer",
+"href": "https://action.butcherforwyomingsenate.com/volunteer"
+},
+{
+"text": "Where I Stand",
+"href": "https://butcherforwyomingsenate.com/where-i-stand/"
+},
+{
+"text": "Work That Pays Off",
+"href": "https://butcherforwyomingsenate.com/where-i-stand/#economy"
+},
+{
+"text": "[image]",
+"href": "https://butcherforwyomingsenate.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61583041353865"
+},
+{
+"text": "mdbutcher",
+"href": "https://butcherforwyomingsenate.com/author/mdbutcher/"
+}
 ]

@@ -1,13 +1,1 @@
-Endorsed By Your
-State Representative
-& Chief Petitioner of the Gas Tax Referral
-State Representative
-- Republican State Representative Virgle Osborne
-- Oregon Right to Life
-- Marion County Commissioner Colm Willis
-- The Honorable Raquel Moore-Green
-- Young Republicans of Oregon
-- Republican State Representative Rick Lewis
-- Linn County Commissioner Will Tucker
-- Polk County Commissioner Lyle Mordhorst
-- Realtor Sandi Hunsaker
+0 Skip to Content Home Issues Endorsements Volunteer Contact Donate Open Menu Close Menu Home Issues Endorsements Volunteer Contact Donate Open Menu Close Menu Home Issues Endorsements Volunteer Contact Donate Endorsed By Your State Representative & Chief Petitioner of the Gas Tax Referral Ed Diehl Republican State Representative Virgle Osborne Oregon Right to Life Marion County Commissioner Colm Willis The Honorable Raquel Moore-Green Young Republicans of Oregon Republican State Representative Rick Lewis Linn County Commissioner Will Tucker Polk County Commissioner Lyle Mordhorst Realtor Sandi Hunsaker Home ‍ ‍ Issues ‍ ‍ Volunteer ‍ ‍ Contact ‍ ‍ Privacy Policy Paid for by Farrington for Oregon

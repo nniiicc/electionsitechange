@@ -1,19 +1,98 @@
 [
-"http://equalitync.org/",
-"https://conservationpac.org/vote/endorsements/2018-elections",
-"https://facebook.com/reivesfornchouse54",
-"https://naswnc.org/page/Voting2018",
-"https://ncaevotes.org/",
-"https://reivesforhouse.com/",
-"https://reivesforhouse.com/about",
-"https://reivesforhouse.com/endorsements",
-"https://reivesforhouse.com/issues",
-"https://reivesforhouse.com/leadership",
-"https://reivesforhouse.com/news",
-"https://reivesforhouse.com/sign-up",
-"https://reivesforhouse.com/volunteer",
-"https://seanc.org/empac",
-"https://secure.actblue.com/donate/committee-to-elect-robert-t-reives-ii-1",
-"https://sierraclub.org/north-carolina/endorsements-2018",
-"https://twitter.com/electreives"
+{
+"text": "About",
+"href": "https://www.reivesforhouse.com/about/"
+},
+{
+"text": "About Robert Reives",
+"href": "https://www.reivesforhouse.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/committee-to-elect-robert-t-reives-ii-1"
+},
+{
+"text": "EQUALITY NC",
+"href": "http://equalitync.org/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.reivesforhouse.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/reivesfornchouse54"
+},
+{
+"text": "Issues",
+"href": "https://www.reivesforhouse.com/issues/"
+},
+{
+"text": "Join",
+"href": "https://www.reivesforhouse.com/sign-up/"
+},
+{
+"text": "Leadership",
+"href": "https://www.reivesforhouse.com/leadership/"
+},
+{
+"text": "NC LEAGUE OF CONSERVATION VOTERS PAC",
+"href": "https://conservationpac.org/vote/endorsements/2018-elections/"
+},
+{
+"text": "NORTH CAROLINA ASSOCIATION OF EDUCATORS",
+"href": "https://ncaevotes.org/"
+},
+{
+"text": "News",
+"href": "https://www.reivesforhouse.com/news/"
+},
+{
+"text": "SIERRA CLUB – NC CHAPTER",
+"href": "https://www.sierraclub.org/north-carolina/endorsements-2018"
+},
+{
+"text": "STATE EMPLOYEES ASSOCIATION OF NORTH CAROLINA",
+"href": "https://www.seanc.org/empac"
+},
+{
+"text": "Sign Up",
+"href": "https://www.reivesforhouse.com/sign-up/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.reivesforhouse.com/volunteer/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/electreives"
+},
+{
+"text": "[image: Robert Reives for NC House]",
+"href": "https://www.reivesforhouse.com/"
+},
+{
+"text": "[image]",
+"href": "http://equalitync.org/"
+},
+{
+"text": "[image]",
+"href": "https://conservationpac.org/vote/endorsements/2018-elections/"
+},
+{
+"text": "[image]",
+"href": "https://ncaevotes.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.naswnc.org/page/Voting2018"
+},
+{
+"text": "[image]",
+"href": "https://www.seanc.org/empac"
+},
+{
+"text": "[image]",
+"href": "https://www.sierraclub.org/north-carolina/endorsements-2018"
+}
 ]

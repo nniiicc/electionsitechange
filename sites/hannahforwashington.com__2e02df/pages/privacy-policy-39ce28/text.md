@@ -1,8 +1,5 @@
-Skip to main content
-Skip to footer
-Privacy Policy
-- Hannah for Washington maintains strict privacy policies, ensuring that personal information of our users and members is not sold, rented, released, or traded to others without prior consent or a legal obligation.
-Personal information includes name, email address, phone number, and other contact information.”
-- SMS Opt-Out: If you are receiving text messages from us and wish to stop receiving them, simply respond with “STOP” to the number from which you received the message.
+Skip to main content Skip to footer Don't wait!
+Register to vote today 🔗↗ Issues About Me Endorsements Endorsements Open Letter Events Press In The Media Press Releases Issues About Me Endorsements Endorsements Open Letter Events Press In The Media Press Releases Donate Privacy Policy Hannah for Washington maintains strict privacy policies, ensuring that personal information of our users and members is not sold, rented, released, or traded to others without prior consent or a legal obligation.
+Personal information includes name, email address, phone number, and other contact information.” SMS Opt-Out: If you are receiving text messages from us and wish to stop receiving them, simply respond with “STOP” to the number from which you received the message.
 Once we receive your message, you will no longer receive further text messages from us.
-Text messaging opt-in data and consent will not be sold or shared with third parties or affiliates for their marketing or promotional purposes
+Text messaging opt-in data and consent will not be sold or shared with third parties or affiliates for their marketing or promotional purposes Facebook Bluesky Instagram TikTok YouTube [email protected] | (360) 602-2794 | Privacy Policy | Press Kit Paid for by Hannah for Washington (D) PO Box 20655, Seattle, WA 98102 © # Hannah Sabio-Howell for State Senate | Washington's 43rd Legislative District

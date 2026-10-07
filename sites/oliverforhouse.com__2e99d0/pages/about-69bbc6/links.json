@@ -1,13 +1,46 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/oliverforhouse",
-"https://instagram.com/oliverforhouse",
-"https://oliverforhouse.com/",
-"https://oliverforhouse.com/TakeAction",
-"https://oliverforhouse.com/contact",
-"https://oliverforhouse.com/events",
-"https://oliverforhouse.com/issues",
-"https://oliverforhouse.com/volunteer",
-"https://secure.actblue.com/donate/indigo-oliver-1",
-"https://tiktok.com/@oliverforhouse"
+{
+"text": "Contact",
+"href": "https://www.oliverforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/indigo-oliver-1"
+},
+{
+"text": "Events",
+"href": "https://www.oliverforhouse.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.oliverforhouse.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://www.oliverforhouse.com/volunteer"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Take Action",
+"href": "https://www.oliverforhouse.com/TakeAction"
+},
+{
+"text": "[image: Indigo Oliver for State House]",
+"href": "https://www.oliverforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/oliverforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/oliverforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@oliverforhouse"
+}
 ]

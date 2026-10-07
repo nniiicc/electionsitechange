@@ -1,7 +1,9 @@
 {
  "description": "Explore Max Burns&#39; platform for the Georgia State Senate, focusing on critical issues like education funding, healthcare, and infrastructure development.",
  "final_url": "https://maxburns.com/issues",
- "paid_for_by": null,
+ "fingerprint": "52374ca62186799543f51c65ccdde4b5ea2b8f91",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Issues",
  "years_mentioned": []
 }

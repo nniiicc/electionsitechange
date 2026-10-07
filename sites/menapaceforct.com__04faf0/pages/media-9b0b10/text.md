@@ -1,19 +1,5 @@
-top of page
-Letters to the Editor
-2023
-The Day: Prioritize walkable communities.
-The Day - Defending liberty means protecting the rights of all
-CT Examiner - Holding all accountable
-The Day - Our veterans deserve better
-CT Mirror - Early voting can strengthen election integrity
-The Day - Demand real solutions for Gardner State Park
-CT Examiner - Cut to Registrar of Voters in East Lyme an attack on democracy
-The Day - State GOP won't help children
-The Day - Support Senate Bill 7
-The Day - Connecticut Republicans’ negativity over progress
-The Day - Menapace throws hat in the ring for 37th District state rep seat
-The Day - A vote for Republicans is a vote against democracy
-2024
-2022
-The Day: Pick Nick on Election Day
-bottom of page
+top of page HOME Planning Commision Letters to the Editor Around Town ABOUT PLATFORM VOLUNTEER More Use tab to navigate through the menu items.
+Letters to the Editor 2023 CT Examiner: East Lyme Democrats will Represent Residents The Day: Prioritize walkable communities.
+The Day: Lower the voting age to 16 The Day - Defending liberty means protecting the rights of all CT Examiner - Holding all accountable The Day - Our veterans deserve better CT Mirror - Early voting can strengthen election integrity The Day - Demand real solutions for Gardner State Park CT Examiner - Cut to Registrar of Voters in East Lyme an attack on democracy The Day - State GOP won't help children The Day - Support Senate Bill 7 The Day - Connecticut Republicans’ negativity over progress The Day - Menapace throws hat in the ring for 37th District state rep seat The Day - A vote for Republicans is a vote against democracy 2024 The Day: Connecticut deserves better than fear-mongering on climate The Day: Preserve open space The Day: Don't blur the lines between religion and government The Day: GOP should stop using LGBTQ+ to scare residents The Day: Role of Board of Pardons and Parole The Day: Will Niantic still be a community?
+The Day: A great country needs great school systems The Day: Widespread Benefits by expanding Shoreline East 2022 The Day: Menapace will bring "fresh energy" The Day: Menapace will address high cost of living CT Examiner: Menapace will "produce results which will improve our lives" CT Examiner: Menapace for Addressing Climate Change and the Environment The Day: Pick Nick on Election Day The Day: "We need real investment, not empty words and promises" The Day: Menapace will address affordable housing 860-333-6084 nickmenapace@outlook.com Paid for by Menapace for CT 2026, Katherine Thuma, Treasurer.
+Approved by Nick Menapace. bottom of page

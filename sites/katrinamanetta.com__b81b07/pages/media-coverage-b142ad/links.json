@@ -1,81 +1,302 @@
 [
-"https://ballotready.org/people/katrina-manetta",
-"https://dlcc.org/news/press/target-race-launch-dlcc-announces-next-slate-of-targets-in-michigan",
-"https://facebook.com/profile.php?id=61587009242659",
-"https://instagram.com/katrinamanetta?hl=en",
-"https://katrinamanetta.com/",
-"https://katrinamanetta.com/about",
-"https://katrinamanetta.com/accessibility-statement",
-"https://katrinamanetta.com/am/media-coverage",
-"https://katrinamanetta.com/ar/media-coverage",
-"https://katrinamanetta.com/bn/media-coverage",
-"https://katrinamanetta.com/bs/media-coverage",
-"https://katrinamanetta.com/contact",
-"https://katrinamanetta.com/cookie-policy",
-"https://katrinamanetta.com/cs/media-coverage",
-"https://katrinamanetta.com/de/media-coverage",
-"https://katrinamanetta.com/el/media-coverage",
-"https://katrinamanetta.com/endorsements",
-"https://katrinamanetta.com/es/media-coverage",
-"https://katrinamanetta.com/fa/media-coverage",
-"https://katrinamanetta.com/fr/media-coverage",
-"https://katrinamanetta.com/gu-in/media-coverage",
-"https://katrinamanetta.com/hi/media-coverage",
-"https://katrinamanetta.com/hmn/media-coverage",
-"https://katrinamanetta.com/hr/media-coverage",
-"https://katrinamanetta.com/issues",
-"https://katrinamanetta.com/it/media-coverage",
-"https://katrinamanetta.com/ja/media-coverage",
-"https://katrinamanetta.com/kmr/media-coverage",
-"https://katrinamanetta.com/ko/media-coverage",
-"https://katrinamanetta.com/ku/media-coverage",
-"https://katrinamanetta.com/media-coverage",
-"https://katrinamanetta.com/mk/media-coverage",
-"https://katrinamanetta.com/mr/media-coverage",
-"https://katrinamanetta.com/mt/media-coverage",
-"https://katrinamanetta.com/pa/media-coverage",
-"https://katrinamanetta.com/pl/media-coverage",
-"https://katrinamanetta.com/press-releases",
-"https://katrinamanetta.com/privacy-policy",
-"https://katrinamanetta.com/prs/media-coverage",
-"https://katrinamanetta.com/ps/media-coverage",
-"https://katrinamanetta.com/pt-br/media-coverage",
-"https://katrinamanetta.com/pt-pt/media-coverage",
-"https://katrinamanetta.com/ro/media-coverage",
-"https://katrinamanetta.com/ru/media-coverage",
-"https://katrinamanetta.com/rw/media-coverage",
-"https://katrinamanetta.com/sd/media-coverage",
-"https://katrinamanetta.com/sk/media-coverage",
-"https://katrinamanetta.com/so/media-coverage",
-"https://katrinamanetta.com/sq/media-coverage",
-"https://katrinamanetta.com/sr/media-coverage",
-"https://katrinamanetta.com/subscribe",
-"https://katrinamanetta.com/sw/media-coverage",
-"https://katrinamanetta.com/ta/media-coverage",
-"https://katrinamanetta.com/te/media-coverage",
-"https://katrinamanetta.com/terms-conditions",
-"https://katrinamanetta.com/ti/media-coverage",
-"https://katrinamanetta.com/tl/media-coverage",
-"https://katrinamanetta.com/tr/media-coverage",
-"https://katrinamanetta.com/uk/media-coverage",
-"https://katrinamanetta.com/ur/media-coverage",
-"https://katrinamanetta.com/vi/media-coverage",
-"https://katrinamanetta.com/vote",
-"https://katrinamanetta.com/zh-hans/media-coverage",
-"https://katrinamanetta.com/zh-hant/media-coverage",
-"https://leaderswedeserve.substack.com/p/lwd-candidates-general-election-voting",
-"https://macombdaily.com/2026/08/05/macomb-couty-aug-4-2026-election-results",
-"https://manisteenews.com/projects/2026/primary-election-results-manistee-michigan",
-"https://michiganadvance.com/2026/08/21/your-weekly-michigan-political-brief-45",
-"https://michiganadvance.com/2026/08/28/your-weekly-michigan-political-brief-46",
-"https://michiganindependent.com/politics/michigan-house-candidate-katrina-manetta-talks-about-healthcare-access-and-affordability",
-"https://mlcmi.com/general-election-overview-58th-house-district",
-"https://mobilize.us/katrinamanetta",
-"https://mobilize.us/katrinamanetta/event/892052",
-"https://nytimes.com/interactive/2026/08/04/us/elections/results-michigan-primary.html",
-"https://secure.numero.ai/contribute/Chip-in-and-help-flip-HD-58-b4f52fd1-7cdd-49a9-bd1c-6b78117c960b",
-"https://shyft.wtf/",
-"https://store.katrinamanetta.com/",
-"https://threads.com/@katrinamanetta",
-"https://youtube.com/@katrinamanetta"
+{
+"text": "About",
+"href": "https://katrinamanetta.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://katrinamanetta.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.numero.ai/contribute/Chip-in-and-help-flip-HD-58-b4f52fd1-7cdd-49a9-bd1c-6b78117c960b"
+},
+{
+"text": "Endorsements",
+"href": "https://katrinamanetta.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/katrinamanetta/"
+},
+{
+"text": "Home",
+"href": "https://katrinamanetta.com/"
+},
+{
+"text": "Issues",
+"href": "https://katrinamanetta.com/issues/"
+},
+{
+"text": "Media Coverage",
+"href": "https://katrinamanetta.com/media-coverage/"
+},
+{
+"text": "News",
+"href": "https://katrinamanetta.com/press-releases/"
+},
+{
+"text": "Store",
+"href": "https://store.katrinamanetta.com/"
+},
+{
+"text": "Subscribe",
+"href": "https://katrinamanetta.com/subscribe/"
+},
+{
+"text": "View",
+"href": "https://leaderswedeserve.substack.com/p/lwd-candidates-general-election-voting"
+},
+{
+"text": "View",
+"href": "https://michiganadvance.com/2026/08/21/your-weekly-michigan-political-brief-45/"
+},
+{
+"text": "View",
+"href": "https://michiganadvance.com/2026/08/28/your-weekly-michigan-political-brief-46/"
+},
+{
+"text": "View",
+"href": "https://michiganindependent.com/politics/michigan-house-candidate-katrina-manetta-talks-about-healthcare-access-and-affordability/"
+},
+{
+"text": "View",
+"href": "https://mlcmi.com/general-election-overview-58th-house-district/"
+},
+{
+"text": "View",
+"href": "https://www.ballotready.org/people/katrina-manetta"
+},
+{
+"text": "View",
+"href": "https://www.dlcc.org/news/press/target-race-launch-dlcc-announces-next-slate-of-targets-in-michigan/"
+},
+{
+"text": "View",
+"href": "https://www.macombdaily.com/2026/08/05/macomb-couty-aug-4-2026-election-results/"
+},
+{
+"text": "View",
+"href": "https://www.manisteenews.com/projects/2026/primary-election-results-manistee-michigan/"
+},
+{
+"text": "View",
+"href": "https://www.nytimes.com/interactive/2026/08/04/us/elections/results-michigan-primary.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/katrinamanetta/event/892052/"
+},
+{
+"text": "Vote",
+"href": "https://katrinamanetta.com/vote/"
+},
+{
+"text": "[image: Text-based graphic featuring the name \"Katrina\" in a bold, blue font at the top, with the word \"candidates\" in a larger, white font below, and the phrase \"for state rep\" in blue below that, all on a transparent background.]",
+"href": "https://katrinamanetta.com"
+},
+{
+"text": "[image]Bosanski (Bosnian)",
+"href": "https://katrinamanetta.com/bs/media-coverage/"
+},
+{
+"text": "[image]Deutsch (German)",
+"href": "https://katrinamanetta.com/de/media-coverage/"
+},
+{
+"text": "[image]Español (Spanish)",
+"href": "https://katrinamanetta.com/es/media-coverage/"
+},
+{
+"text": "[image]Français (French)",
+"href": "https://katrinamanetta.com/fr/media-coverage/"
+},
+{
+"text": "[image]Hmoob (Hmong)",
+"href": "https://katrinamanetta.com/hmn/media-coverage/"
+},
+{
+"text": "[image]Hrvatski (Croatian)",
+"href": "https://katrinamanetta.com/hr/media-coverage/"
+},
+{
+"text": "[image]Ikinyarwanda (Kinyarwanda)",
+"href": "https://katrinamanetta.com/rw/media-coverage/"
+},
+{
+"text": "[image]Italiano (Italian)",
+"href": "https://katrinamanetta.com/it/media-coverage/"
+},
+{
+"text": "[image]Kiswahili (Swahili)",
+"href": "https://katrinamanetta.com/sw/media-coverage/"
+},
+{
+"text": "[image]Kurdî (Kurmancî) (Kurdish (Kurmanji))",
+"href": "https://katrinamanetta.com/kmr/media-coverage/"
+},
+{
+"text": "[image]Malti (Maltese)",
+"href": "https://katrinamanetta.com/mt/media-coverage/"
+},
+{
+"text": "[image]Polski (Polish)",
+"href": "https://katrinamanetta.com/pl/media-coverage/"
+},
+{
+"text": "[image]Português (Brasil) (Portuguese (Brazil))",
+"href": "https://katrinamanetta.com/pt-br/media-coverage/"
+},
+{
+"text": "[image]Português (Portugal) (Portuguese (Portugal))",
+"href": "https://katrinamanetta.com/pt-pt/media-coverage/"
+},
+{
+"text": "[image]Română (Romanian)",
+"href": "https://katrinamanetta.com/ro/media-coverage/"
+},
+{
+"text": "[image]Shqip (Albanian)",
+"href": "https://katrinamanetta.com/sq/media-coverage/"
+},
+{
+"text": "[image]Slovenčina (Slovak)",
+"href": "https://katrinamanetta.com/sk/media-coverage/"
+},
+{
+"text": "[image]Soomaali (Somali)",
+"href": "https://katrinamanetta.com/so/media-coverage/"
+},
+{
+"text": "[image]Tagalog",
+"href": "https://katrinamanetta.com/tl/media-coverage/"
+},
+{
+"text": "[image]Tiếng Việt (Vietnamese)",
+"href": "https://katrinamanetta.com/vi/media-coverage/"
+},
+{
+"text": "[image]Türkçe (Turkish)",
+"href": "https://katrinamanetta.com/tr/media-coverage/"
+},
+{
+"text": "[image]Čeština (Czech)",
+"href": "https://katrinamanetta.com/cs/media-coverage/"
+},
+{
+"text": "[image]Ελληνικά (Greek)",
+"href": "https://katrinamanetta.com/el/media-coverage/"
+},
+{
+"text": "[image]Македонски (Macedonian)",
+"href": "https://katrinamanetta.com/mk/media-coverage/"
+},
+{
+"text": "[image]Русский (Russian)",
+"href": "https://katrinamanetta.com/ru/media-coverage/"
+},
+{
+"text": "[image]Српски (Serbian)",
+"href": "https://katrinamanetta.com/sr/media-coverage/"
+},
+{
+"text": "[image]Українська (Ukrainian)",
+"href": "https://katrinamanetta.com/uk/media-coverage/"
+},
+{
+"text": "[image]اردو (Urdu)",
+"href": "https://katrinamanetta.com/ur/media-coverage/"
+},
+{
+"text": "[image]العربية (Arabic)",
+"href": "https://katrinamanetta.com/ar/media-coverage/"
+},
+{
+"text": "[image]دری (Dari)",
+"href": "https://katrinamanetta.com/prs/media-coverage/"
+},
+{
+"text": "[image]سنڌي (Sindhi)",
+"href": "https://katrinamanetta.com/sd/media-coverage/"
+},
+{
+"text": "[image]فارسی (Persian)",
+"href": "https://katrinamanetta.com/fa/media-coverage/"
+},
+{
+"text": "[image]پښتو (Pashto)",
+"href": "https://katrinamanetta.com/ps/media-coverage/"
+},
+{
+"text": "[image]کوردی (سۆرانی) (Kurdish (Sorani))",
+"href": "https://katrinamanetta.com/ku/media-coverage/"
+},
+{
+"text": "[image]मराठी (Marathi)",
+"href": "https://katrinamanetta.com/mr/media-coverage/"
+},
+{
+"text": "[image]हिन्दी (Hindi)",
+"href": "https://katrinamanetta.com/hi/media-coverage/"
+},
+{
+"text": "[image]বাংলা (Bengali)",
+"href": "https://katrinamanetta.com/bn/media-coverage/"
+},
+{
+"text": "[image]ਪੰਜਾਬੀ (Punjabi)",
+"href": "https://katrinamanetta.com/pa/media-coverage/"
+},
+{
+"text": "[image]ગુજરાતી (Gujarati)",
+"href": "https://katrinamanetta.com/gu-in/media-coverage/"
+},
+{
+"text": "[image]தமிழ் (Tamil)",
+"href": "https://katrinamanetta.com/ta/media-coverage/"
+},
+{
+"text": "[image]తెలుగు (Telugu)",
+"href": "https://katrinamanetta.com/te/media-coverage/"
+},
+{
+"text": "[image]ትግርኛ (Tigrinya)",
+"href": "https://katrinamanetta.com/ti/media-coverage/"
+},
+{
+"text": "[image]አማርኛ (Amharic)",
+"href": "https://katrinamanetta.com/am/media-coverage/"
+},
+{
+"text": "[image]日本語 (Japanese)",
+"href": "https://katrinamanetta.com/ja/media-coverage/"
+},
+{
+"text": "[image]简体中文 (Chinese (Simplified))",
+"href": "https://katrinamanetta.com/zh-hans/media-coverage/"
+},
+{
+"text": "[image]繁體中文 (Chinese (Traditional))",
+"href": "https://katrinamanetta.com/zh-hant/media-coverage/"
+},
+{
+"text": "[image]한국어 (Korean)",
+"href": "https://katrinamanetta.com/ko/media-coverage/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587009242659"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/katrinamanetta/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@katrinamanetta"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@katrinamanetta"
+}
 ]

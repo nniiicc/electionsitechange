@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://www.alecpavlik.com/about",
- "paid_for_by": null,
+ "fingerprint": "222bed26a26ffdb22e14e50daffd5308cc1d4eca",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About | Alec Pavlik",
  "years_mentioned": [
   "2017"

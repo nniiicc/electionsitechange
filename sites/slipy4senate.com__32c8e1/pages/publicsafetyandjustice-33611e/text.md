@@ -1,6 +1,4 @@
-Public Safety & Justice
-Liberty and Justice for All
-All Minnesotan’s have a fundamental right to grow up and live in a safe community.
+0 Skip to Content Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise Folder: What I'll Fight For Back Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Folder: Get Involved Back Events Join Team Slipy Contact Donate Public Safety & Justice Liberty and Justice for All All Minnesotan’s have a fundamental right to grow up and live in a safe community.
 But for too many families, crime has become an all too familiar concern.
 I will be squarely focused on keeping our towns and cities safe.
 As a mother and grandmother, I know the toll that the threat of gun violence continues to have on our kids and our communities.
@@ -16,3 +14,10 @@ A conviction isn’t a life sentence, but we know that recidivism rates are too 
 To meaningfully address this, we must ensure that individuals gain real skills, and we must strengthen mental health care and treatment while incarcerated so that they have real educational, housing, and employment opportunities when they reenter our communities.
 I want individuals returning to their communities to set positive examples of what it means to not be defined by our worst mistakes.
 The residents of this district deserve a senator who will prioritize their safety and ensure access to justice for everyone.
+Donate Today Together, We Can Build a Better Future!
+Have a question, idea, or concern?
+I want to hear from you!
+Your input is vital in shaping the future of our community.
+Whether it’s a suggestion, a concern, or a topic you're passionate about, together we can make a real difference.
+Reach out today and be part of the change we need to see!
+Website Designed by Local Artist, Heidi Jeub , From Do-Somthing-Creative Prepared and Paid for by Slipy4Senate Campaign Committee PO Box 254 Brainerd, MN 56401

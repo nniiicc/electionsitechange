@@ -1,17 +1,70 @@
 [
-"https://google.com/url?q=https%3A%2F%2Fwww.efundraisingconnections.com%2Fc%2FTATE&sa=D&sntz=1&usg=AOvVaw3HpB_QlYIlRiqkI5wRsj-h",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2FDrTateforSateSenate&sa=D&sntz=1&usg=AOvVaw1xpEEKktHEQJNdmhEQ3I4a",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fvotedrtate%2F&sa=D&sntz=1&usg=AOvVaw0oRc3mGp6llJHq100xaJDi",
-"https://votedrtate.com/about",
-"https://votedrtate.com/contact",
-"https://votedrtate.com/donate",
-"https://votedrtate.com/endorsements",
-"https://votedrtate.com/events",
-"https://votedrtate.com/home",
-"https://votedrtate.com/issues",
-"https://votedrtate.com/media",
-"https://votedrtate.com/media-stock",
-"https://votedrtate.com/publications",
-"https://votedrtate.com/the-politicians-creed",
-"https://votedrtate.com/translate"
+{
+"text": "About",
+"href": "https://www.votedrtate.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votedrtate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.efundraisingconnections.com%2Fc%2FTATE&sa=D&sntz=1&usg=AOvVaw3HpB_QlYIlRiqkI5wRsj-h"
+},
+{
+"text": "Donate",
+"href": "https://www.votedrtate.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votedrtate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.votedrtate.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.votedrtate.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.votedrtate.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.votedrtate.com/media"
+},
+{
+"text": "Media Stock",
+"href": "https://www.votedrtate.com/media-stock"
+},
+{
+"text": "Publications",
+"href": "https://www.votedrtate.com/publications"
+},
+{
+"text": "The Politicians Creed",
+"href": "https://www.votedrtate.com/the-politicians-creed"
+},
+{
+"text": "Translate",
+"href": "https://www.votedrtate.com/translate"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2FDrTateforSateSenate&sa=D&sntz=1&usg=AOvVaw1xpEEKktHEQJNdmhEQ3I4a"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fvotedrtate%2F&sa=D&sntz=1&usg=AOvVaw0oRc3mGp6llJHq100xaJDi"
+},
+{
+"text": "[image]",
+"href": "https://www.votedrtate.com/home"
+},
+{
+"text": "[image]Home",
+"href": "https://www.votedrtate.com/home"
+}
 ]

@@ -1,23 +1,102 @@
 [
-"https://b51815cb-70c2-4d2b-84d3-97302b5b7479.sitesab.com/events",
-"https://b51815cb-70c2-4d2b-84d3-97302b5b7479.sitesab.com/volunteer",
-"https://facebook.com/profile.php?id=61563492839457",
-"https://heyvictor.com/",
-"https://instagram.com/mattschlinkermi?igsh=ZDNlZDc0MzIxNw%3D%3D",
-"https://mattschlinker4rep.com/",
-"https://mattschlinker4rep.com/accessibility-statement",
-"https://mattschlinker4rep.com/endorsements",
-"https://mattschlinker4rep.com/events",
-"https://mattschlinker4rep.com/meet-candidate",
-"https://mattschlinker4rep.com/news",
-"https://mattschlinker4rep.com/priorities",
-"https://mattschlinker4rep.com/terms-of-service",
-"https://mattschlinker4rep.com/volunteer",
-"https://mattschlinker4rep.com/voter-101",
-"https://michigan.gov/sos/elections/voting/early-in-person-voting",
-"https://michigan.gov/sos/elections/voting/register-to-vote",
-"https://mvic.sos.state.mi.us/Home/VoteAtHome",
-"https://mvic.sos.state.mi.us/Home/VoteInPerson",
-"https://mvic.sos.state.mi.us/Voter/Index",
-"https://secure.actblue.com/donate/schlinkerweb"
+{
+"text": "Accessibility Statement",
+"href": "https://mattschlinker4rep.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/schlinkerweb?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://mattschlinker4rep.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://mattschlinker4rep.com/events/"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://mvic.sos.state.mi.us/Voter/Index"
+},
+{
+"text": "Home",
+"href": "https://mattschlinker4rep.com/"
+},
+{
+"text": "In the News",
+"href": "https://mattschlinker4rep.com/news/"
+},
+{
+"text": "In-Person Early Voting Location Search",
+"href": "https://mvic.sos.state.mi.us/Voter/Index#early-voting-search-section"
+},
+{
+"text": "Meet Matt",
+"href": "https://mattschlinker4rep.com/meet-candidate/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://mattschlinker4rep.com/priorities/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.michigan.gov/sos/elections/voting/register-to-vote"
+},
+{
+"text": "Tell A Friend!",
+"href": "https://b51815cb-70c2-4d2b-84d3-97302b5b7479.sitesab.com/volunteer/"
+},
+{
+"text": "Terms of Service",
+"href": "https://mattschlinker4rep.com/terms-of-service/"
+},
+{
+"text": "Use an accepted form of ID",
+"href": "https://mvic.sos.state.mi.us/Home/VoteInPerson/#id-required"
+},
+{
+"text": "VOTER 101",
+"href": "https://mattschlinker4rep.com/voter-101/"
+},
+{
+"text": "Volunteer",
+"href": "https://mattschlinker4rep.com/volunteer/"
+},
+{
+"text": "Volunteer with our team on election day",
+"href": "https://b51815cb-70c2-4d2b-84d3-97302b5b7479.sitesab.com/events/"
+},
+{
+"text": "Vote By Mail",
+"href": "https://mvic.sos.state.mi.us/Home/VoteAtHome"
+},
+{
+"text": "Vote Early In-Person",
+"href": "https://www.michigan.gov/sos/elections/voting/early-in-person-voting"
+},
+{
+"text": "[image] [image]",
+"href": "https://mattschlinker4rep.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61563492839457"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/mattschlinkermi?igsh=ZDNlZDc0MzIxNw%3D%3D"
+},
+{
+"text": "check your polling location",
+"href": "https://mvic.sos.state.mi.us/Voter/Index#early-voting-search-section"
+}
 ]

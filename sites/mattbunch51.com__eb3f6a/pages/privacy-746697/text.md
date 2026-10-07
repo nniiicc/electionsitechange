@@ -1,48 +1,10 @@
-Privacy Policy
-Friends of Matt Bunch
-Friends of Matt Bunch (“we,” “our,” or “us”) respects your privacy and is committed to protecting your personal information.
+0 Skip to Content Home About Issues News Contact DONATE Open Menu Close Menu Open Menu Close Menu Home About Issues News Contact DONATE Home About Issues News Contact DONATE Privacy Policy Friends of Matt Bunch Friends of Matt Bunch (“we,” “our,” or “us”) respects your privacy and is committed to protecting your personal information.
 This Privacy Policy explains how we collect, use, and safeguard your information.
-Information We Collect
-We may collect personal information you voluntarily provide, including:
-- Name
-- Email address
-- Phone number
-- Mailing address
-- Donation information (if applicable)
-- Any other information submitted through forms on our website
-How We Use Your Information
-We use your information to:
-- Share campaign updates, news, and events
-- Provide opportunities to volunteer or get involved
-- Send email and text message communications (if you opt in)
-- Process donations and maintain required records
-- Respond to inquiries
-- Improve our website and outreach efforts
-Text Messaging (SMS)
-If you opt in to receive text messages from Friends of Matt Bunch:
-- You consent to receive campaign-related messages, including updates, event information, volunteer opportunities, and donation requests
-- Message frequency may vary
-- Message & data rates may apply
-- Reply STOP to opt out at any time
-- Reply HELP for assistance
-Text Messaging Opt-In Data
-We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
-Sharing of Information
-We do not sell, rent, or share your personal information with third parties for marketing or promotional purposes.
+Information We Collect We may collect personal information you voluntarily provide, including: Name Email address Phone number Mailing address Donation information (if applicable) Any other information submitted through forms on our website How We Use Your Information We use your information to: Share campaign updates, news, and events Provide opportunities to volunteer or get involved Send email and text message communications (if you opt in) Process donations and maintain required records Respond to inquiries Improve our website and outreach efforts Text Messaging (SMS) If you opt in to receive text messages from Friends of Matt Bunch: You consent to receive campaign-related messages, including updates, event information, volunteer opportunities, and donation requests Message frequency may vary Message & data rates may apply Reply STOP to opt out at any time Reply HELP for assistance Text Messaging Opt-In Data We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
+Sharing of Information We do not sell, rent, or share your personal information with third parties for marketing or promotional purposes .
 We may share information with trusted service providers (such as email and text messaging platforms) solely to support campaign operations and communications.
 We may also disclose information as required by law, including compliance with applicable campaign finance regulations.
-Data Security
-We take reasonable measures to protect your personal information from unauthorized access, disclosure, or misuse.
-Your Choices
-- You may unsubscribe from emails at any time using the link provided
-- You may opt out of text messages by replying STOP
-- You may contact us to update or request deletion of your information
-Cookies & Website Tracking
-Our website may use basic cookies or analytics tools to improve user experience and understand website traffic.
-This information does not personally identify you.
-Changes to This Policy
-We may update this Privacy Policy from time to time.
+Data Security We take reasonable measures to protect your personal information from unauthorized access, disclosure, or misuse.
+Your Choices You may unsubscribe from emails at any time using the link provided You may opt out of text messages by replying STOP You may contact us to update or request deletion of your information Changes to This Policy We may update this Privacy Policy from time to time.
 Updates will be posted on this page with a revised effective date.
-Contact Us
-If you have questions about this Privacy Policy, please contact:
-matt.bunch@mattbunch51.com
+Contact Us If you have questions about this Privacy Policy, please contact: matt.bunch@mattbunch51.com HOME ABOUT ISSUES NEWS CONTACT PRIVACY DONATE PAID FOR BY FRIENDS OF MATT BUNCH PAC#23161

@@ -1,14 +1,58 @@
 [
-"http://facebook.com/christianforky",
-"http://instagram.com/christianforky",
-"https://bsky.app/profile/christianforky.bsky.social",
-"https://christianforky.com/",
-"https://christianforky.com/about",
-"https://christianforky.com/cart",
-"https://christianforky.com/events",
-"https://christianforky.com/support",
-"https://civicvoicepartners.com/",
-"https://secure.actblue.com/donate/christian-furman",
-"https://tiktok.com/@christianforky",
-"https://x.com/christianforky"
+{
+"text": "0",
+"href": "https://christianforky.com/cart"
+},
+{
+"text": "About",
+"href": "https://christianforky.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/christian-furman"
+},
+{
+"text": "Donate →",
+"href": "https://secure.actblue.com/donate/christian-furman"
+},
+{
+"text": "Events",
+"href": "https://christianforky.com/events"
+},
+{
+"text": "Learn More About Christian",
+"href": "https://christianforky.com/about"
+},
+{
+"text": "Support",
+"href": "https://christianforky.com/support"
+},
+{
+"text": "[image: Christian Furman for Kentucky State Senate]",
+"href": "https://christianforky.com/"
+},
+{
+"text": "[image]",
+"href": "https://civicvoicepartners.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/christianforky"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/christianforky"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/christianforky.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@christianforky"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/christianforky"
+}
 ]

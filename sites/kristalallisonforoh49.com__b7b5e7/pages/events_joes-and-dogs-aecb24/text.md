@@ -1,14 +1,4 @@
-Back to All Events
-Join us for Joes & Dogs
-Come grab some food and get ready to cheer on the Buckeyes!
+0 Skip to Content Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Open Menu Close Menu Donate Home About Krista Media What Krista Believes Endorsements Learn More Events Open Menu Close Menu Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Back to All Events Joes and Dogs Saturday, October 17, 2026 11:00 AM 2:00 PM Plumbers & Pipefitters 3919 13th Street Southwest Canton, Ohio, 44710 United States (map) Google Calendar ICS Join us for Joes & Dogs Come grab some food and get ready to cheer on the Buckeyes!
 O-H-I-O!
-Where: Plumbers & Pipefitters 3919 13th Street SW
-When: Saturday October 17 11am-2pm
-- 25$ for 2 dogs/sloppy joes + chips + dessert
-Previous
-Previous
-October 17
-Calling All Divine Nine
-Next
-Next
-October 31
+Where: Plumbers & Pipefitters 3919 13th Street SW When: Saturday October 17 11am-2pm 25$ for 2 dogs/sloppy joes + chips + dessert Previous Previous October 17 Calling All Divine Nine Next Next October 31 Calling All Friends & Family Contact Us | Privacy Policy Stay Up-To Date Paid for by Community for Krista L.
+Allison //

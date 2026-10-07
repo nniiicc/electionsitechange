@@ -1,10 +1,50 @@
 [
-"http://facebook.com/camilleforidaho",
-"https://camilleforidaho.com/",
-"https://camilleforidaho.com/donate",
-"https://camilleforidaho.com/services-3",
-"https://camilleforidaho.com/voting-record",
-"https://instagram.com/camilleforidaho",
-"https://substack.com/@camilleblaylock",
-"https://x.com/CamBlaylockID"
+{
+"text": "ABOUT",
+"href": "https://www.camilleforidaho.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.camilleforidaho.com"
+},
+{
+"text": "DONATE $",
+"href": "https://www.camilleforidaho.com/donate"
+},
+{
+"text": "ISSUES",
+"href": "https://www.camilleforidaho.com/services-3"
+},
+{
+"text": "UPDATES",
+"href": "https://substack.com/@camilleblaylock"
+},
+{
+"text": "VOTING RECORD",
+"href": "https://www.camilleforidaho.com/voting-record"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://facebook.com/camilleforidaho"
+},
+{
+"text": "[image: Idaho Blaylock Logo]",
+"href": "https://www.camilleforidaho.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/camilleforidaho"
+},
+{
+"text": "[image: Senator Blaylock Logo]",
+"href": "https://www.camilleforidaho.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/CamBlaylockID"
+},
+{
+"text": "camille@camilleforidaho.com",
+"href": "mailto:camille@camilleforidaho.com"
+}
 ]

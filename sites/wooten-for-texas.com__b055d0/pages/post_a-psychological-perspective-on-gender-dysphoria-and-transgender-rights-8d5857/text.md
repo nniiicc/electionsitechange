@@ -1,5 +1,6 @@
-A PSYCHOLOGIST'S PERSPECTIVE ON GENDER DYSPHORIA AND TRANSGENDER RIGHTS
-As a psychologist, I see the sadness, worry, angst, and anxiety that children and families have when the child finally gathers the courage to tell their parents how long they have been experiencing gender dysphoria.
+top of page Dr.
+Denise Wooten Advocacy for All Texans DONATE Home About Issues Events Voter Information Election Information HD-63 Map Register to Vote Get Involved Endorsements Articles Contact More Use tab to navigate through the menu items.
+DONATE SUBSCRIBE All Articles Search A PSYCHOLOGIST'S PERSPECTIVE ON GENDER DYSPHORIA AND TRANSGENDER RIGHTS wootenfor63 Mar 10, 2022 3 min read As a psychologist, I see the sadness, worry, angst, and anxiety that children and families have when the child finally gathers the courage to tell their parents how long they have been experiencing gender dysphoria.
 Gender Dysphoria involves extreme distress or discomfort caused by the discrepancy between experiencing oneself as a different gender than that assigned at birth.
 People should understand that these children and adolescents, along with their parents, are genuinely affected by gender dysphoria.
 Parents know this is a much harder path for their children to follow.
@@ -27,3 +28,7 @@ When government mandates prohibit the rights of sexual minorities, it goes beyon
 Is this the kind of state Texans want?
 Is this the kind of country to which we should aspire?
 Acceptance of differences of all kinds should be the aspirational goal, not persecution of others.
+Recent Posts See All GUN SAFETY: SENSIBLE SOLUTIONS Gun Safety: Sane and Sensible Regulations Everyone, no matter their political persuasion, should agree that mass shootings are out of...
+Women's Right to Choose Reproductive Options Controversy about Abortion Rights for Women On the 49th Anniversary of Roe V.
+Wade, which established women’s federal right to secure an...
+STOP THE INSANITY Stop the Insane Political Polarization and Divisiveness After amusing myself by using the word “insane,” as I am, after all, a... bottom of page

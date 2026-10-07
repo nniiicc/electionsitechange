@@ -1,7 +1,11 @@
 {
  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi...",
  "final_url": "https://mikecollinsga.com/news/demo-news/",
+ "fingerprint": "ac44bceb57137196b2c727015a8f06ae6cfaa4a2",
+ "format": 3,
  "paid_for_by": "PAID FOR BY MIKE COLLINS FOR SENATE PO Box 2184 Alpharetta, GA 30005",
- "title": "Ut enim ad minim veniam, quis nostrud exercitation \u2013 Mike Collins for Senate",
- "years_mentioned": []
+ "title": "Ut enim ad minim veniam, quis nostrud exercitation – Mike Collins for Senate",
+ "years_mentioned": [
+  "2025"
+ ]
 }

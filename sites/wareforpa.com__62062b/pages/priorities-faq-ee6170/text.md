@@ -1,5 +1,8 @@
-ZACH'S PRIORITIES
-District 67 deserves leadership that listens, shows up, and fights for the people who call this place home.
+This is a search field with an auto-suggest feature attached.
+There are no suggestions because the search field is empty.
+PRIORITIES CONTACT DONATE This is a search field with an auto-suggest feature attached.
+There are no suggestions because the search field is empty.
+ZACH'S PRIORITIES District 67 deserves leadership that listens, shows up, and fights for the people who call this place home.
 Here’s where Zach stands on some of the issues that matter most to our communities.
 Why Are You Running?
 I’m running because I believe rural Pennsylvania deserves better than being ignored, managed, or left behind.
@@ -39,3 +42,5 @@ I don't care.
 I want to represent you and the issues that matter most to you.
 This campaign is about building something together.
 Every conversation, every contribution, and every person who gets involved helps move District 67 forward.
+Authorized and paid for by Zachary Ware and Friends of Zachary Ware.
+Privacy Policy | Terms of Use

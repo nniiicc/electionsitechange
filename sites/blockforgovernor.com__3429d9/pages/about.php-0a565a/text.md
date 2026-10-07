@@ -1,5 +1,4 @@
-Ken Block Bio
-Ken Block is a Rhode Island businessman, data expert, and two-time candidate for governor who has spent his career building companies, solving complex problems, and fighting for better government.
+★ November 3, 2026 Countdown to Election Day # Days # Hours # Minutes # Seconds Home About Issues Appearances Media & Press Ken I Be Honest Polls Donate Donate Ken Block Bio Ken Block is a Rhode Island businessman, data expert, and two-time candidate for governor who has spent his career building companies, solving complex problems, and fighting for better government.
 Ken and his wife, Jennifer, have raised their two children, Sam and Anna, here, and remain deeply committed to the state’s future.
 Early in his career, Ken worked at GTECH, helping modernize technology systems and contributing to the development of one of the country’s first electronic benefits systems.
 His work helped the state of Texas eliminate waste and fraud in its social services programs—saving taxpayers over $1 billion.
@@ -15,3 +14,4 @@ His work was later reviewed in multiple high-profile investigations.
 To document his findings and ensure transparency, Ken authored the book Disproven, published in 2024.
 Ken believes Rhode Island government should work better for its citizens.
 He is focused on improving accountability, fixing broken systems, and delivering results for the people of this state.
+Donate Privacy Policy Terms of Use Copyright ©# blockforgovernor All Rights Reserved.

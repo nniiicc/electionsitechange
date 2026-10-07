@@ -1,5 +1,4 @@
-About Nathan
-Nathan was born and raised in Cincinnati's historic East End.
+top of page Donate to Weise for Congress Home About Issues Media Donate Volunteer Donate to Weise for Congress About Nathan Nathan was born and raised in Cincinnati's historic East End.
 A proud graduate of Cincinnati Public Schools, he went on to attend the University of Cincinnati, where he earned a Bachelor of Organizational Leadership in 2013.
 Go Bearcats!
 During his time at UC, Nathan became actively involved in politics.
@@ -14,4 +13,4 @@ Libertarianism is a political philosophy founded on the belief that individuals 
 Libertarians emphasize personal responsibility, individual liberty, and limited government, trusting people and communities to make decisions for themselves rather than relying on government mandates.
 In practice, libertarians seek to maximize freedom in both personal and economic matters.
 They support free speech, privacy, property rights, free markets, and equal treatment under the law, while advocating for a government focused on protecting individual rights rather than controlling personal choices.
-At its core, libertarianism is guided by a simple idea: a freer society is a more prosperous, innovative, and just society.
+At its core, libertarianism is guided by a simple idea: a freer society is a more prosperous, innovative, and just society. © # Weise for Congress Get in Touch! support@weiseforcongress.com Follow Us! bottom of page

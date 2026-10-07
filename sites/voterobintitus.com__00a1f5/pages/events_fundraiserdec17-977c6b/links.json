@@ -1,14 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=December+17th&dates=20211217T193000Z%2F20211217T210000Z&location=7111+South+Virginia+Street+B%2C+Reno%2C+NV%2C+89511%2C+United+States",
-"http://maps.google.com/?q=7111+South+Virginia+Street+B+Reno%2C+NV%2C+89511+United+States",
-"https://facebook.com/robin.titus.526",
-"https://secure.winred.com/robin-titus-for-nevada/donate",
-"https://voterobintitus.com/",
-"https://voterobintitus.com/about",
-"https://voterobintitus.com/campaignnews",
-"https://voterobintitus.com/cart",
-"https://voterobintitus.com/events",
-"https://voterobintitus.com/events/fundraiserdec17?format=ical",
-"https://voterobintitus.com/newsletter-signup",
-"https://x.com/drrobintitus"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7111+south+virginia+street+b+reno%2C+nv%2C+89511+united+states"
+},
+{
+"text": "0",
+"href": "https://www.voterobintitus.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.voterobintitus.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.voterobintitus.com/events"
+},
+{
+"text": "Campaign News",
+"href": "https://www.voterobintitus.com/campaignnews"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/robin-titus-for-nevada/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/robin-titus-for-nevada/donate"
+},
+{
+"text": "Events",
+"href": "https://www.voterobintitus.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=December+17th&dates=20211217T193000Z%2F20211217T210000Z&location=7111+South+Virginia+Street+B%2C+Reno%2C+NV%2C+89511%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.voterobintitus.com/events/fundraiserdec17?format=ical"
+},
+{
+"text": "Newsletter Signup",
+"href": "https://www.voterobintitus.com/newsletter-signup"
+},
+{
+"text": "[image: Dr. Robin Titus for State Senate District 17]",
+"href": "https://www.voterobintitus.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/robin.titus.526"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/drrobintitus"
+},
+{
+"text": "[no text]",
+"href": "mailto:dr.robin@voterobintitus.com"
+}
 ]

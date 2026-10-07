@@ -1,11 +1,42 @@
 [
-"https://afcguam.com/",
-"https://afcguam.com/about",
-"https://afcguam.com/author/afcadmin",
-"https://afcguam.com/category/press-releases",
-"https://afcguam.com/contact",
-"https://afcguam.com/events",
-"https://afcguam.com/platform",
-"https://afcguam.com/volunteer-sign-up",
-"https://guampdn.com/election/2026/limtiaco-torres-share-visions-for-guam-voice-in-congress-at-womens-chamber-of-commerce-forum/article_6476d93c-7b7a-4b22-a47e-3cd9066af51b.html"
+{
+"text": "AFC Team",
+"href": "https://afcguam.com/author/afcadmin/"
+},
+{
+"text": "About",
+"href": "https://afcguam.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://afcguam.com/contact/"
+},
+{
+"text": "Events",
+"href": "https://afcguam.com/events/"
+},
+{
+"text": "Home",
+"href": "https://afcguam.com/"
+},
+{
+"text": "Join the Campaign",
+"href": "https://afcguam.com/volunteer-sign-up/"
+},
+{
+"text": "Platform",
+"href": "https://afcguam.com/platform/"
+},
+{
+"text": "Press Releases",
+"href": "https://afcguam.com/category/press-releases/"
+},
+{
+"text": "[image: Alicia for Congress]",
+"href": "https://afcguam.com/"
+},
+{
+"text": "https://www.guampdn.com/election/2026/limtiaco-torres-share-visions-for-guam-voice-in-congress-at-womens-chamber-of-commerce-forum/article_6476d93c-7b7a-4b22-a47e-3cd9066af51b.html",
+"href": "https://www.guampdn.com/election/2026/limtiaco-torres-share-visions-for-guam-voice-in-congress-at-womens-chamber-of-commerce-forum/article_6476d93c-7b7a-4b22-a47e-3cd9066af51b.html"
+}
 ]

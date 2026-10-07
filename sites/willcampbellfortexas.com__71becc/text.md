@@ -1,47 +1,39 @@
-Protecting Law Enforcement From False Narratives and Media Agendas
-The Critical Incident Truth and First Responder Protection Act provides key protections for first responders to include establishing an enforceable safe perimeter around scenes and mandatory release of body cam footage to get ahead of false media to ensure protection of our law enforcement and our citizens.
-Protecting Families From Corrupt Probate Courts.
+0 Skip to Content About Will Solutions Relief for Sand Branch and Seagoville End Property Taxes TPTRP Constitutional Amendment Breakdown Holding AI Companies Accountable Restricting ALPR Cameras Protecting First Responders Securing Texas Elections and Closed Primaries Protecting Truth and Identity Prohibiting the Kill Switch in Texas Solving For Energy, Water, and Data Centers.
+TPTRP Freeing Business - Reducing Taxes Ending Birth Tourism Protecting Heirs Rights Enforcing Parental Rights and Local Accountability Female First Responder Cancer Protections Ending Corruption in Guardianship Cases Proposed Laws AI Accountability Act TPTRP Constitutional Amendment TPTRP The Sales and Use Tax Act TPTRP Tax Abolition and Conformity Act TPTRP Remote Seller and Foreign Entity Act TPTRP The TLES Act TPTRP Bond Management Act TPTRP The Fund System Act TPTRP Transition Board Act Water for Sand Branch Act The Protecting Truth and Identity Act Texas Data Center Transparency and Standards Act Texas Distributed Power Generation Act Texas Energy and Intelligence Infrastructure Security Board Act Prohibiting The Kill Switch in Texas Birth Tourism Criminalization Act Protecting Heirs' Rights Family First Guardianship Accountability Protecting First Responders Texas Election Integrity and Party Association Act HJR For Electing SOS Enforcing Parental Rights and Child Protections Protecting Texans From Surveillance Female First Responder Cancer Coverage Releases Volunteer Data CONTRIBUTE Open Menu Close Menu About Will Solutions Relief for Sand Branch and Seagoville End Property Taxes TPTRP Constitutional Amendment Breakdown Holding AI Companies Accountable Restricting ALPR Cameras Protecting First Responders Securing Texas Elections and Closed Primaries Protecting Truth and Identity Prohibiting the Kill Switch in Texas Solving For Energy, Water, and Data Centers.
+TPTRP Freeing Business - Reducing Taxes Ending Birth Tourism Protecting Heirs Rights Enforcing Parental Rights and Local Accountability Female First Responder Cancer Protections Ending Corruption in Guardianship Cases Proposed Laws AI Accountability Act TPTRP Constitutional Amendment TPTRP The Sales and Use Tax Act TPTRP Tax Abolition and Conformity Act TPTRP Remote Seller and Foreign Entity Act TPTRP The TLES Act TPTRP Bond Management Act TPTRP The Fund System Act TPTRP Transition Board Act Water for Sand Branch Act The Protecting Truth and Identity Act Texas Data Center Transparency and Standards Act Texas Distributed Power Generation Act Texas Energy and Intelligence Infrastructure Security Board Act Prohibiting The Kill Switch in Texas Birth Tourism Criminalization Act Protecting Heirs' Rights Family First Guardianship Accountability Protecting First Responders Texas Election Integrity and Party Association Act HJR For Electing SOS Enforcing Parental Rights and Child Protections Protecting Texans From Surveillance Female First Responder Cancer Coverage Releases Volunteer Data CONTRIBUTE Open Menu Close Menu About Will Folder: Solutions Back Relief for Sand Branch and Seagoville End Property Taxes TPTRP Constitutional Amendment Breakdown Holding AI Companies Accountable Restricting ALPR Cameras Protecting First Responders Securing Texas Elections and Closed Primaries Protecting Truth and Identity Prohibiting the Kill Switch in Texas Solving For Energy, Water, and Data Centers.
+TPTRP Freeing Business - Reducing Taxes Ending Birth Tourism Protecting Heirs Rights Enforcing Parental Rights and Local Accountability Female First Responder Cancer Protections Ending Corruption in Guardianship Cases Folder: Proposed Laws Back AI Accountability Act TPTRP Constitutional Amendment TPTRP The Sales and Use Tax Act TPTRP Tax Abolition and Conformity Act TPTRP Remote Seller and Foreign Entity Act TPTRP The TLES Act TPTRP Bond Management Act TPTRP The Fund System Act TPTRP Transition Board Act Water for Sand Branch Act The Protecting Truth and Identity Act Texas Data Center Transparency and Standards Act Texas Distributed Power Generation Act Texas Energy and Intelligence Infrastructure Security Board Act Prohibiting The Kill Switch in Texas Birth Tourism Criminalization Act Protecting Heirs' Rights Family First Guardianship Accountability Protecting First Responders Texas Election Integrity and Party Association Act HJR For Electing SOS Enforcing Parental Rights and Child Protections Protecting Texans From Surveillance Female First Responder Cancer Coverage Releases Volunteer Data CONTRIBUTE Protecting Law Enforcement From False Narratives and Media Agendas The Critical Incident Truth and First Responder Protection Act provides key protections for first responders to include establishing an enforceable safe perimeter around scenes and mandatory release of body cam footage to get ahead of false media to ensure protection of our law enforcement and our citizens.
+Read About The Bill Here Protecting Families From Corrupt Probate Courts.
 There a many guardianship cases that occur in Texas that go unresolved for long periods of time, and cases where the ward placed under protection is in situations where abuse and corruption are rampant, this happens in Dallas County as well.
 The Texas Family First Guardianship Act is designed to stop the corruption, and give power to families to protect their family members and hold courts accountable.
-Holding AI Companies Responsible Without Stifling Innovation
-The AI Accountability Act holds AI companies and developers accountable when their automated technologies, whatever they may be called, perform actions that violate law, and sets the standard for determining liability when users abuse AI tools in the commission of crimes.
+Learn More About The Bill Holding AI Companies Responsible Without Stifling Innovation The AI Accountability Act holds AI companies and developers accountable when their automated technologies, whatever they may be called, perform actions that violate law, and sets the standard for determining liability when users abuse AI tools in the commission of crimes.
 Its about hold AI companies accountable for the tools they create, and protecting your rights in the process.
-Enforcing Your Rights and Restraining Government.
+Read About The Bill Here Enforcing Your Rights and Restraining Government.
 TheTexas legislature has worked hard under Republican majority to pass laws the restrain local government in order to protect your rights.
 I’ve drafted a bill that gives YOU the power to force local governments and ISDs to actually implement the policies these laws put into place to protect your rights, and your family!
-Protecting Your Rights While Giving Law Enforcement Real Tools to Reduce Crime
-Texans across the state have expressed their legitimate concerns about modern technology like ALPR/Flock cameras, while law enforcement has reported real benefits this technology brings for reducing crime.
+Learn More About The Bill Protecting Your Rights While Giving Law Enforcement Real Tools to Reduce Crime Texans across the state have expressed their legitimate concerns about modern technology like ALPR/Flock cameras, while law enforcement has reported real benefits this technology brings for reducing crime.
 This bill protects Texans from government overreach while retaining the tools lawful, practical use to make our communities safer.
 Restrict government while protecting your rights.
-Equal Cancer Protection for Female First Responders & Texas First Responder Research Program
-This bill not only adds to the presumptive cancer list those female specific cancers that have been added to such presumptive lists federally and in other states already, but it also creates the Texas First Responder Health Research Program in order to establish longitudinal studies to improve the health and safety of our first responder departments in Texas.
-We Can Abolish Property Taxes!
+Read About The Bill Here Equal Cancer Protection for Female First Responders & Texas First Responder Research Program This bill not only adds to the presumptive cancer list those female specific cancers that have been added to such presumptive lists federally and in other states already, but it also creates the Texas First Responder Health Research Program in order to establish longitudinal studies to improve the health and safety of our first responder departments in Texas.
+Learn More About The Bill We Can Abolish Property Taxes!
 The Texas Property Tax Replacement Plan (TPTRP) will abolish property taxes, replacing it with a 3.25% sales tax on all non cost of living sales, saving Texas households thousands each year while fully funding our Cities, Counties, and ISDs.
-Protecting Your Online Property
-The Protecting Truth and Identity Act will extend your property rights to your Data, Content, Identity, Image, and Likeness online, requiring AI and other data collectors get your permission first before using or collecting your property, else face criminal prosecution for theft.
-Prohibiting Third Party Vehicle Shutdown Devices
-The Infrastructure Investment and Jobs Act (IIJA), P.L. 117-58.
-Buried inside this 2,700-page law is Section 24220, instructing a rule to be made requiring a “Kill Switch” to be installed in vehicles.
+Learn More about TPTRP here Protecting Your Online Property The Protecting Truth and Identity Act will extend your property rights to your Data, Content, Identity, Image, and Likeness online, requiring AI and other data collectors get your permission first before using or collecting your property, else face criminal prosecution for theft.
+Learn More about PTIA Here Prohibiting Third Party Vehicle Shutdown Devices The Infrastructure Investment and Jobs Act (IIJA) , P.L.
+117-58.
+Buried inside this 2,700-page law is Section 24220 , instructing a rule to be made requiring a “Kill Switch” to be installed in vehicles.
 The rule has not been made yet, so we will stop it before an administration attempts to invade your privacy and give power to third parties to shutdown your vehicle without your permission!
-Solving the Data Center, Energy, and Water Problem
-The advent of AI and growth of Data Centers in Texas gives many of our citizens concern over their impact on our energy grid & water resources.
+Learn More About the Act Here Solving the Data Center, Energy, and Water Problem The advent of AI and growth of Data Centers in Texas gives many of our citizens concern over their impact on our energy grid & water resources.
 I’ve drafted legislation to require Data Centers to work with Power Companies to cover cost of infrastructure, increase grid capacity, increase water preservation, & protect Texas’ intelligence and information infrastructure to protect our rural communities & strengthen our state’s independence.
-Freeing Texas Business Large & Small By Ending Franchise Tax and BPP Tax
-The TPTRP will also abolish the Franchise Tax and Business Personal Property Tax along with other state level taxes, freeing up Texas businesses large and small from the burden of this alternative form of income taxation, reducing their costs and making it even easier to operate in Texas.
-Protecting the Rights of Heirs
-The existing legislation designed to protect the rights of Heirs is in need of improvements to protect heirs from unnecessary burdens placed upon them by probate courts and to remove current loopholes that allow for corruption and fraud in the probate system.
+Learn More About The 3 Bills Here Freeing Texas Business Large & Small By Ending Franchise Tax and BPP Tax The TPTRP will also abolish the Franchise Tax and Business Personal Property Tax along with other state level taxes, freeing up Texas businesses large and small from the burden of this alternative form of income taxation, reducing their costs and making it even easier to operate in Texas.
+Learn More About the TPTRP Impact Here Protecting the Rights of Heirs The existing legislation designed to protect the rights of Heirs is in need of improvements to protect heirs from unnecessary burdens placed upon them by probate courts and to remove current loopholes that allow for corruption and fraud in the probate system.
 We must protect the rights of Texans to have their final wishes honored and to strengthen generational wealth for all Texans.
-Stopping “Birth Tourism” in Texas
-After the US Supreme Court passed the terrible ruling on the subject of “Birthright citizenship” it is more important now than ever to end the abuse of our citizenship laws via “birth tourism” - businesses offering protection and citizenship to babies born in the US to foreign nationals who are not immigrants.
+Learn More About The Bill Here Stopping “Birth Tourism” in Texas After the US Supreme Court passed the terrible ruling on the subject of “Birthright citizenship” it is more important now than ever to end the abuse of our citizenship laws via “birth tourism” - businesses offering protection and citizenship to babies born in the US to foreign nationals who are not immigrants.
 This bill will criminalize the practice and hold accountable those who would devalue what it is to be a citizen of Texas, and of America.
-Additional Legislative Priorities For Texas House District 109
-- It is time to return the freedom of education to the people, so parents have authority and responsibility over their own children, and education can finally advance to keep Texas strong.
-I will author, promote, and vote in favor of any legislation that will
-- Increase school choice and freedom to choose your child’s education, improving SB2 to bring real school choice to students and families.
-- Remove the age restriction from the GED program, allowing students to get their high school equivalency as early as possible.
-- Give power and authority over school districts to the local communities.
-- End state governance of education.
-- We are seeing activist judges stall lawful and constitutional actions by various branches of government.
+Learn More about the Bill Here Additional Legislative Priorities For Texas House District 109 Freedom of Education It is time to return the freedom of education to the people, so parents have authority and responsibility over their own children, and education can finally advance to keep Texas strong.
+I will author, promote, and vote in favor of any legislation that will Increase school choice and freedom to choose your child’s education, improving SB2 to bring real school choice to students and families.
+Remove the age restriction from the GED program, allowing students to get their high school equivalency as early as possible.
+Give power and authority over school districts to the local communities.
+End state governance of education.
+Enforce the Law We are seeing activist judges stall lawful and constitutional actions by various branches of government.
 We also see criminals being released without facing any punishment as defined in the law.
 These judges must be held accountable and we must end the abuse of the bench by their political biases. n order to stop rogue judges, those who have failed to properly enforce the law, resulting in the severe injury or death of a citizen, should be held accountable through impeachment.
 I will vote in favor of any legislation that in a constitutional manner ends the political election of judges, giving appointment powers to a balance between the legislature and the executive.
@@ -50,46 +42,42 @@ No one is above the law.
 Everyone should be treated equally under the law.
 There are no special classes of citizens who get favor over others when facing punishment for the same crimes.
 Therefore our laws must reflect this motif to keep Texas strong.
-- Across the nation we have witnessed actions being taken to obstruct justice by groups of activists working in close coordination under a distributed command structure and organization that provides training, direction, and control.
+Support Federal Law Enforcement Across the nation we have witnessed actions being taken to obstruct justice by groups of activists working in close coordination under a distributed command structure and organization that provides training, direction, and control.
 These gangs are actively operating to impede the lawful enforcement of Federal laws, most prominently in matters of deportation orders.
 There have been efforts by local government officials and even within police departments to render no aid or support to federal agents.
 Instead, these officials choose to support and even promote the unlawful behavior of these activist gangs.
 This has created a terrible environment of hostility and distrust.
 This must end.
 I will author, promote, and vote for legislation that will make it mandatory for all Texas local governments as well as state and local law enforcement to support the lawful efforts of Federal agencies in enforcing Federal law in the state of Texas, and that will enforce punishment on municipalities and law enforcement departments that fail to comply and/or actively support the illegal activities of these activist gangs in Texas.
-- Texas is strong because of her people, and our people stay strong because of our first responders.
+Caring for our First Responders Texas is strong because of her people, and our people stay strong because of our first responders.
 Law enforcement, Firefighters, Paramedics, and various specialized first responders across this state spend their freedom protecting our lives and property.
 I will author and vote for legislation that improves how we give back to these brave men and women, who put their lives on the line for us everyday.
-- Make sure that disability benefit covers cancers unique to our female first responders.
-- Fund through existing programs better mental health support activities for departments across the state.
-- Pass laws that jail persons who interfere with first responders in the performance of their duties, putting their lives at risk.
-- While the best guarantee of freedom in our education system is the removal of government control, we must take into consideration the reality that we may have to continue with government having control for a while longer.
+Make sure that disability benefit covers cancers unique to our female first responders.
+Fund through existing programs better mental health support activities for departments across the state.
+Pass laws that jail persons who interfere with first responders in the performance of their duties, putting their lives at risk.
+Religious Freedom in Schools While the best guarantee of freedom in our education system is the removal of government control, we must take into consideration the reality that we may have to continue with government having control for a while longer.
 Given this reality, we must pursue legislation that will guarantee the freedom of religious life in schools.
 I will work with our state’s attorney general and the legislature to take whatever action is necessary, whether through passing legislation or filing suits, to guarantee the freedom of religious observance in our schools.
 It is wrong to prohibit students from using their time in school each day to learn about their family’s beliefs.
 To uphold the constitution, we must permit local religious educators to use classrooms space in schools and be paid teachers in schools, making classes available to students for learning and growing in their faith.
 Faith is essential to a strong people, and to keep Texas strong, we must end this unconstitutional discrimination in the classroom, and bring back the bible and God to the classroom for those who believe, and those who feel the call to faith in Christ.
-- Life begins at conception.
+Protect Life Life begins at conception.
 We are created in that moment as either male or female, regardless of any defect that may develop due to either natural or human causes.
 Babies in their mother’s womb have the same rights to life, liberty, and property as all other humans, and are worthy of having their lives protected.
 Therefore, I will vote in favor of all legislation that ends abortion in the state of Texas.
 In addition, I will author, promote, and vote in favor of any legislation that improves existing laws to ensure clarity for healthcare providers and women in tragic circumstances that the law may not provide clear direction on, in order to protect the life of the mother and the child.
 Also, I will support any legislation that makes certain that under every circumstance where good parents who are caring for their children properly do not have their children taken from them by CPS or other agencies purely by the whim and wish of those who do not have the child’s best interest at heart.
 To keep Texas strong, our laws must reinforce, strengthen, and promote the family, and that requires protecting life.
-- The proliferation of pornography online in ways that permit children to be exposed to it involuntarily, by accident, or against their will has done tremendous harm to Texas children.
-As part of legislation to protect truth on the internet, I will author, promote, and support legislation that does the following:
-- Sets that all internet service providers, web hosts, application, and website owners be held responsible for exposing minors to pornography.
-- Requires these gate keepers of the internet to use whatever means necessary to prevent pornography from being made available on any website or web accessible service without verification of identity and age, most especially on social media platforms.
-- How these entities achieve this is up to them, they are the technology experts.
+Protecting Children Online The proliferation of pornography online in ways that permit children to be exposed to it involuntarily, by accident, or against their will has done tremendous harm to Texas children.
+As part of legislation to protect truth on the internet, I will author, promote, and support legislation that does the following: Sets that all internet service providers, web hosts, application, and website owners be held responsible for exposing minors to pornography.
+Requires these gate keepers of the internet to use whatever means necessary to prevent pornography from being made available on any website or web accessible service without verification of identity and age, most especially on social media platforms.
+How these entities achieve this is up to them, they are the technology experts.
 This can and should be done.
-- All across the country we are seeing activist judges give activist attorneys power over the will of the people in enforcing the law.
+Remove Rogue Judges All across the country we are seeing activist judges give activist attorneys power over the will of the people in enforcing the law.
 We must prevent this from occurring in Texas.
-I will vote for legislation that will improve the ability of the state government to remove judges who:
-- Fail to implement lawful minimum sentences,
-- Abuse the power of the bench for special interests,
-- Put foreign interests above the will of Texans.
-Contact Me
-More than happy to answer any questions you may have.
+I will vote for legislation that will improve the ability of the state government to remove judges who: Fail to implement lawful minimum sentences, Abuse the power of the bench for special interests, Put foreign interests above the will of Texans.
+Contact Me More than happy to answer any questions you may have.
 Please use this form to send me an email and I will follow up with you as soon as I can.
 We need Volunteers!
 Just select “YES” on the “I’D LIKE TO VOLUNTEER” option and send us your contact information and we’ll follow up with you on how best you can help us out!
+Will Campbell for Texas House of Representatives District 109 South Grand Prairie Cedar Hill East De Soto Lancaster North Glenn Heights Texas House of Representatives District 109 Hutchins Wilmer Seagoville Combine North Ferris South Dallas CONTRIBUTE Official campaign website Cedar Hill, TX 75104 817-313-2927 communication@willcampbellfortexas.com Made with Squarespace Will Campbell for Texas

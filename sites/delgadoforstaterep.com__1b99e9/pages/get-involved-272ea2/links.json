@@ -1,16 +1,70 @@
 [
-"http://elections.il.gov/",
-"https://delgadoforstaterep.com/",
-"https://delgadoforstaterep.com/accomplishments",
-"https://delgadoforstaterep.com/endorsements",
-"https://delgadoforstaterep.com/events",
-"https://delgadoforstaterep.com/get-involved",
-"https://delgadoforstaterep.com/how-to-vote",
-"https://delgadoforstaterep.com/issues",
-"https://delgadoforstaterep.com/meet-eva-dina",
-"https://facebook.com/EvaDina4Rep",
-"https://forms.gle/2eahatyzpfbFmdVv9",
-"https://instagram.com/evadina4staterep",
-"https://secure.actblue.com/donate/friends-for-eva-dina-delgado-1",
-"https://twitter.com/delgadorep"
+{
+"text": "Accomplishments",
+"href": "https://www.delgadoforstaterep.com/accomplishments"
+},
+{
+"text": "BECOME A VOLUNTEER",
+"href": "https://forms.gle/2eahatyzpfbFmdVv9"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-for-eva-dina-delgado-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.delgadoforstaterep.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.delgadoforstaterep.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.delgadoforstaterep.com/get-involved"
+},
+{
+"text": "HOST A HOUSE PARTY",
+"href": "https://forms.gle/2eahatyzpfbFmdVv9"
+},
+{
+"text": "Home",
+"href": "https://www.delgadoforstaterep.com"
+},
+{
+"text": "Issues",
+"href": "https://www.delgadoforstaterep.com/issues"
+},
+{
+"text": "MAKE A DONATION",
+"href": "https://secure.actblue.com/donate/friends-for-eva-dina-delgado-1"
+},
+{
+"text": "Meet Eva-Dina",
+"href": "https://www.delgadoforstaterep.com/meet-eva-dina"
+},
+{
+"text": "Voter Information",
+"href": "https://www.delgadoforstaterep.com/how-to-vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/EvaDina4Rep"
+},
+{
+"text": "[image: Instagram ]",
+"href": "https://www.instagram.com/evadina4staterep/"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/delgadorep"
+},
+{
+"text": "evadina@delgadoforstaterep.com",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov/"
+}
 ]

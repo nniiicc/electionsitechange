@@ -1,9 +1,8 @@
-Meet Holly
-Holly has the experience and values needed to serve on the Court of Criminal Appeals—she is a criminal defense attorney who spent over 17 years as a prosecutor.
+0 Skip to Content Why I'm Running Values Experience Bio Endorsements Calendar News + Media Tours es Inicio Por qué me postulo Valores Experiencia Biografía Respaldos Calendario Noticias y medios Privacidad zh 首页 我为什么竞选 价值观 经验 个人简介 竞选背书 日程 新闻与媒体 隐私 DONATE Open Menu Close Menu Open Menu Close Menu Why I'm Running Values Experience Bio Endorsements Calendar News + Media Tours es Inicio Por qué me postulo Valores Experiencia Biografía Respaldos Calendario Noticias y medios Privacidad zh 首页 我为什么竞选 价值观 经验 个人简介 竞选背书 日程 新闻与媒体 隐私 DONATE Why I'm Running Values Experience Bio Endorsements Calendar News + Media Tours Folder: es Back Inicio Por qué me postulo Valores Experiencia Biografía Respaldos Calendario Noticias y medios Privacidad Folder: zh Back 首页 我为什么竞选 价值观 经验 个人简介 竞选背书 日程 新闻与媒体 隐私 DONATE Meet Holly Holly has the experience and values needed to serve on the Court of Criminal Appeals—she is a criminal defense attorney who spent over 17 years as a prosecutor .
 She recently served as the Director of the Public Integrity and Complex Crimes Division of the Travis County District Attorney's Office, which included the Public Integrity Unit, White Collar Crime Unit, Appeals and Complex Litigation Support Team, Insurance Fraud Teams, Disclosures Unit, Open Records Unit, and Wage Theft Team.
 She served on the office’s Senior Leadership Team.
-She previously served as Assistant Director for Post-Conviction Matters and Complex Litigation Support in the Civil Rights Division.
-In this position, Holly worked in a supervisory capacity with the Office’s Appeals Team, the Civil Rights Unit, and the Conviction Integrity Unit, which seeks to remedy wrongful convictions.
+She previously served as Assistant Director for Post-Conviction Matters and Complex Litigation Support in the Civil Rights Division .
+In this position, Holly worked in a supervisory capacity with the Office’s Appeals Team, the Civil Rights Unit, and the Conviction Integrity Unit , which seeks to remedy wrongful convictions .
 Holly also led the Office’s Appeals Team and served as an attorney in the Public Integrity Unit working to prosecute fraud and corruption impacting government agencies.
 Previously, Holly served as a staff attorney and as the Rules Attorney for the CCA and is a member of the Court’s Rules Committee.
 From 2018-2020, Holly taught an advanced legal writing class as an adjunct professor at the University of Texas School of Law.
@@ -20,3 +19,5 @@ They still enjoy listening to live music together and have been longtime members
 Holly and John have raised four children, who all attended Austin public schools, and hosted three foreign exchange students.
 Holly and John have served as PTA officers and Holly was president of the high school band parent booster club.
 She also coached her children’s soccer teams for many years.
+Why I’m Running Values Experience Bio Endorsements Calendar News + Media Political advertisement paid for by the Holly Taylor campaign.
+Privacy Policy ©#-#

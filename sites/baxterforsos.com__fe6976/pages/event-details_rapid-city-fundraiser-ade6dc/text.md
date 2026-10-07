@@ -1,8 +1,3 @@
-top of page
-Rapid City Fundraiser
-Thu, Aug 27
-|Hotel Alex Johnson Rapid City
-Join Heather at the Hotel Alex Johnson for a campaign fundraiser!
-Hosted by: Caleb & Amy Arceneaux Paul & Kirsten Bradsky Michael D'Urso & Stephanie Lein D'Urso Justin McNeal Rich & Gayla Meyer Donnie & Elizabeth Patton Rockwell Peterson Cody & Nikki Work
-Registration is closed
-bottom of page
+top of page HOME EVENTS PRESS RELEASES GET INVOLVED Privacy Policy Terms & Conditions DONATE Rapid City Fundraiser Thu, Aug 27 | Hotel Alex Johnson Rapid City Join Heather at the Hotel Alex Johnson for a campaign fundraiser!
+Hosted by: Caleb & Amy Arceneaux Paul & Kirsten Bradsky Michael D'Urso & Stephanie Lein D'Urso Justin McNeal Rich & Gayla Meyer Donnie & Elizabeth Patton Rockwell Peterson Cody & Nikki Work Registration is closed See other events Time & Location Aug 27, 2026, 6:00 PM – 9:00 PM Hotel Alex Johnson Rapid City, 523 6th St, Rapid City, SD 57701, USA Guests + 2 other guests Share this event HOME EVENTS PRESS RELEASES GET INVOLVED Privacy Policy Terms & Conditions More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: © # Paid for by The Friends of Heather Baxter. bottom of page

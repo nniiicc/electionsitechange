@@ -1,9 +1,12 @@
 {
- "description": "If you want to link an external news source, use the \u201clink\u201d icons on the sidebar. Anything linked externally will automatically be listed as \u201cnews\u201d and any article you create on the site itself will\u2026",
+ "description": "If you want to link an external news source, use the “link” icons on the sidebar. Anything linked externally will automatically be listed as “news” and any article you create on the site itself will…",
  "final_url": "https://www.votepaulaswift.com/news/dr-paula-swift-announces-campaign-for-californias-70th-assembly-district",
+ "fingerprint": "cc51a65c732028e8836d179237160ec6e4e608e1",
+ "format": 3,
  "paid_for_by": "Paid for by Swift for Assembly 2026 FPPC #1485309 1 W",
- "title": "Dr. Paula Swift Announces Campaign for California\u2019s 70th Assembly District",
+ "title": "Dr. Paula Swift Announces Campaign for California’s 70th Assembly District",
  "years_mentioned": [
+  "2025",
   "2026"
  ]
 }

@@ -1,4 +1,5 @@
-Former City of Dallas Judge Cheryl Williams is seeking the Democratic nomination to be the next Judge of County Court of Criminal Appeals No. 2.
+Home Donate Contact About RSVP Voting Info Privacy Policy More Home Donate Contact About RSVP Voting Info Privacy Policy Home Donate Contact About RSVP Voting Info Privacy Policy judicial experience and Community SErvice Former City of Dallas Judge Cheryl Williams is seeking the Democratic nomination to be the next Judge of County Court of Criminal Appeals No.
+2.
 This court handles many appeals cases from municipal courts, making Williams' background ideal to preside over this court from day one with knowledge and efficiency.
 Williams received her bachelor’s degree in political science from Sam Houston State University, and earned her doctor of jurisprudence from the University of Missouri School of Law.
 Immediately after law school, she served as an Enforcement Attorney for the U.S.
@@ -20,6 +21,4 @@ Williams is involved with women's and children’s issues and has been honored b
 Young Award and the Silver Beaver Award.
 Williams enjoys being a speaker for bar associations, conferences, schools, community-based organizations, and social and religious groups.
 She frequently discusses juveniles in municipal court, the role of community courts, and substance abuse treatment courts.
-Copyright © 2025 Pol. adv. paid by Cheryl Williams for Judge - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Copyright © # Pol. adv. paid by Cheryl Williams for Judge - All Rights Reserved.

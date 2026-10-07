@@ -1,16 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Becker+Election+Roundtable&dates=20260930T223000Z%2F20261001T000000Z&location=Becker%2C+MN",
-"http://maps.google.com/?q=+Becker%2C+MN",
-"https://davenportmn27a.house/",
-"https://davenportmn27a.house/calendar",
-"https://davenportmn27a.house/calendar/big-lake-block-party-eperk?format=ical",
-"https://davenportmn27a.house/calendar/big-lake-candidate-forum-pj2nb",
-"https://davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj-7xl2m-9phnl",
-"https://davenportmn27a.house/campaign-priorities",
-"https://davenportmn27a.house/cart",
-"https://davenportmn27a.house/endorsements",
-"https://davenportmn27a.house/our-district",
-"https://davenportmn27a.house/the-patriot-newspaper-articles",
-"https://davenportmn27a.house/the-patriot-newspaper-articles-1",
-"https://facebook.com/profile.php?id=61586379279340"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+becker%2C+mn+"
+},
+{
+"text": "0",
+"href": "https://www.davenportmn27a.house/cart"
+},
+{
+"text": "About",
+"href": "https://www.davenportmn27a.house/the-patriot-newspaper-articles-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.davenportmn27a.house/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.davenportmn27a.house/calendar"
+},
+{
+"text": "Campaign Priorities",
+"href": "https://www.davenportmn27a.house/campaign-priorities"
+},
+{
+"text": "Davenport for Minnesota House 27A",
+"href": "https://www.davenportmn27a.house/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.davenportmn27a.house/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Becker+Election+Roundtable&dates=20260930T223000Z%2F20261001T000000Z&location=Becker%2C+MN"
+},
+{
+"text": "Home",
+"href": "https://www.davenportmn27a.house/"
+},
+{
+"text": "ICS",
+"href": "https://www.davenportmn27a.house/calendar/big-lake-block-party-eperk?format=ical"
+},
+{
+"text": "Next Next October 2 Big Lake Door Knocking",
+"href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj-7xl2m-9phnl"
+},
+{
+"text": "Our District",
+"href": "https://www.davenportmn27a.house/our-district"
+},
+{
+"text": "Previous Previous September 29 Big Lake State Candidate Forum",
+"href": "https://www.davenportmn27a.house/calendar/big-lake-candidate-forum-pj2nb"
+},
+{
+"text": "The Patriot Newspaper",
+"href": "https://www.davenportmn27a.house/the-patriot-newspaper-articles"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61586379279340"
+},
+{
+"text": "[no text]",
+"href": "mailto:vanessa@davenportmn27a.house"
+}
 ]

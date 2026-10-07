@@ -1,7 +1,11 @@
 {
  "description": "The state of current Vermont State politics and governance.",
  "final_url": "https://www.culpforvermont.com/press",
- "paid_for_by": "PAID FOR BY CULP FOR VERMONT Share &copy; 2026 by Culp for Vermont",
+ "fingerprint": "d16fffc45484bdc4951644d923551c497bfd5b3b",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY CULP FOR VERMONT Share © # by Culp for Vermont",
  "title": "Press | Culp For Vermont",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

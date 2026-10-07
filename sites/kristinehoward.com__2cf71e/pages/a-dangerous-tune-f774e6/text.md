@@ -1,4 +1,4 @@
-| Greetings Marty, Republicans in the Pennsylvania Senate are singing a dangerous tune.
+Meet Kristine Endorsements News & Events Get Involved Select Page A dangerous tune! by Kristine Howard | Apr 16, 2023 | News | 0 comments Greetings Marty, Republicans in the Pennsylvania Senate are singing a dangerous tune.
 It is an old song and not limited to Pennsylvania GOPers.
 Republicans in Washington, Harrisburg and state capitols across the country are all part of the deregulation chorus.
 What is unique about Pennsylvania is that the Republican majority state senate is holding hostage a constitutional amendment designed to bring justice to adult victims of childhood sexual abuse.
@@ -16,11 +16,16 @@ Just ask the people of East Palestine if the Norfolk and Southern train was carr
 Silicon Valley Bank The collapse of the banking industry in 2008 led to the 2010 Dodd Frank reforms intended to prevent any such catastrophic banking failure in the future.
 However, in the face of intense lobbying from the banking industry, in 2018 the deregulation chorus in Congress and President Trump exempted smaller local and regional banks from a number of the safeguards the law required.
 The Silicon Valley Bank failure nearly led to a cascading event that threatened our entire banking system.
-Senator Elizabeth Warren got it right when she said, “These recent bank failures are the direct result of leaders in Washington weakening the financial rules.” A blind obsession with deregulation is indeed dangerous.
+Senator Elizabeth Warren got it right when she said, “ These recent bank failures are the direct result of leaders in Washington weakening the financial rules.” A blind obsession with deregulation is indeed dangerous.
 GOP deregulation mania In my 4-plus years in Harrisburg, I have witnessed Republican crusades to eliminate the power of the executive branch to impose regulations on a wide variety of issues affecting our health and safety.
 Republicans in the House refused to move my bills establishing stricter safety guidelines on pipeline construction and operations.
-They have opposed extending OSHA safety protection to public workers.
-They have passed legislation to prevent important environmental regulations intended to give us cleaner air and water and fight climate change.
+They have opposed extending OSHA safety protection to public workers .
+They have passed legislation to prevent important environmental regulations intended to give us cleaner air and water and fight climate change .
 They even sued the Governor to limit his ability to protect us from COVID.
 We cannot allow a heavily gerrymandered Republican State Senate majority to bully us into putting a constitutional amendment on the ballot that would give future legislatures the power to deregulate at will.
-Thanks for reading, |
+Thanks for reading, Search for: Latest News Don’t fix what’s not broke!
+April 28, 2023 It’s Child Abuse Prevention Month – again.
+Has anything changed since last year?
+April 28, 2023 A dangerous tune!
+April 16, 2023 You are the first to know… March 17, 2023 When will the empty chair be at our table?
+November 30, 2022 Facebook Twitter Instagram ©# Paid for and authorized by Committee to Elect Kristine.

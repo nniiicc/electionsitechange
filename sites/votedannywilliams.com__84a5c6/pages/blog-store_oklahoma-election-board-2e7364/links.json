@@ -1,18 +1,90 @@
 [
-"http://instagram.com/squarespace",
-"http://twitter.com/squarespace",
-"https://ballotpedia.org/State_legislature",
-"https://facebook.com/VoteDannyWilliams",
-"https://oklahoma.gov/",
-"https://oklahoma.gov/elections/voters/voting-101.html",
-"https://secure.anedot.com/friends-of-danny-williams/donate",
-"https://votedannywilliams.com/",
-"https://votedannywilliams.com/about",
-"https://votedannywilliams.com/blog-store/danny-williams-a-dedicated-advocate-for-oklahomas-district-28",
-"https://votedannywilliams.com/blog-store/oklahoma-house-of-representatives",
-"https://votedannywilliams.com/blog-store?author=664eadd2d5ddce31de6488ed",
-"https://votedannywilliams.com/cart",
-"https://votedannywilliams.com/contact",
-"https://votedannywilliams.com/events",
-"https://votedannywilliams.com/home"
+{
+"text": "0",
+"href": "https://www.votedannywilliams.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.votedannywilliams.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votedannywilliams.com/contact"
+},
+{
+"text": "Contact us",
+"href": "https://www.votedannywilliams.com/contact"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/friends-of-danny-williams/donate"
+},
+{
+"text": "Events",
+"href": "https://www.votedannywilliams.com/events"
+},
+{
+"text": "Faq's",
+"href": "https://www.votedannywilliams.com/home#faq"
+},
+{
+"text": "Gallery",
+"href": "https://www.votedannywilliams.com/home#Gallery"
+},
+{
+"text": "Home",
+"href": "https://www.votedannywilliams.com/"
+},
+{
+"text": "Md. Rahamat Ali",
+"href": "https://www.votedannywilliams.com/blog-store?author=664eadd2d5ddce31de6488ed"
+},
+{
+"text": "News",
+"href": "https://www.votedannywilliams.com/home#news"
+},
+{
+"text": "Next Next Danny Williams: A Dedicated Advocate for Oklahoma’s District 28",
+"href": "https://www.votedannywilliams.com/blog-store/danny-williams-a-dedicated-advocate-for-oklahomas-district-28"
+},
+{
+"text": "Previous Previous Championing Progress: Representative Danny Williams' Vision for Oklahoma's Future",
+"href": "https://www.votedannywilliams.com/blog-store/oklahoma-house-of-representatives"
+},
+{
+"text": "State Senate",
+"href": "https://ballotpedia.org/State_legislature"
+},
+{
+"text": "VOTE DANNY WILLIAMS",
+"href": "https://www.votedannywilliams.com/home"
+},
+{
+"text": "[image: Vote Danny Williams]",
+"href": "https://www.votedannywilliams.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteDannyWilliams/"
+},
+{
+"text": "donate",
+"href": "https://secure.anedot.com/friends-of-danny-williams/donate"
+},
+{
+"text": "https://oklahoma.gov/",
+"href": "https://oklahoma.gov/"
+},
+{
+"text": "voting laws",
+"href": "https://oklahoma.gov/elections/voters/voting-101.html"
+}
 ]

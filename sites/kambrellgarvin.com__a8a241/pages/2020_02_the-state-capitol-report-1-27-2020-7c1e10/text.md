@@ -1,4 +1,4 @@
-The House of Representatives amended, approved, and sent the Senate H.4404, a bill enacting the “VETERANS NURSING DEGREE OPPORTUNITY ACT” as a means of both addressing the state’s nurse shortage and smoothing the transition for veterans from military life to professional civilian careers.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate The State Capitol Report – 1/27/2020 Kambrell Garvin February 1, 2020 Comments Off on The State Capitol Report – 1/27/2020 Uncategorized The House of Representatives amended, approved, and sent the Senate H.4404, a bill enacting the “VETERANS NURSING DEGREE OPPORTUNITY ACT” as a means of both addressing the state’s nurse shortage and smoothing the transition for veterans from military life to professional civilian careers.
 The legislation establishes programs to enable veteran military clinical personnel, such as medics and corpsmen, to accelerate the process at participating South Carolina public and independent colleges and institutions for obtaining associate’s degrees and bachelor’s degrees in nursing by awarding academic and clinical credit or waivers for relevant education, experience, and skills acquired from their military service.
 The House amended, approved, and sent the Senate H.3199, a bill REQUIRING INSTRUCTION ON STUDENT LOANS IN HIGH SCHOOL FINANCIAL LITERACY PROGRAMS.
 The legislation expands high school financial literacy program requirements so that they also include instruction on college and education loans, key loan terms, monthly payment obligations, repayment options, credit, and education loan debt.
@@ -20,12 +20,10 @@ Board or commission members are not eligible to receive mileage, subsistence, or
 Repeated refusal to sign the required documents constitutes grounds for removal from office by the Governor for persistent neglect of duty.
 The bill implements recommendations arising from the House Legislative Oversight Committee’s study of the South Carolina Commission on Indigent Defense.
 The House amended and gave second reading approval to S.996, a joint resolution authorizing an EXTENSION OF SOUTH CAROLINA PUBLIC SERVICE COMMISSION CANDIDATE SCREENING to provide an opportunity to find additional qualified candidates to present to the General Assembly for election to the commission that oversees public utilities.
-The legislation authorizes an extension in screening for candidates for PSC Seats 1, 3,
-5, and 7 that allows the Public Utilities Review Committee to accept applications for a time period beginning Monday, February 3, 2020, through noon on Friday, February 28, 2020.
+The legislation authorizes an extension in screening for candidates for PSC Seats 1, 3, 5, and 7 that allows the Public Utilities Review Committee to accept applications for a time period beginning Monday, February 3, 2020, through noon on Friday, February 28, 2020.
 Provisions are made for advertising these positions.
 In screening candidates for the Commission and making its findings, the Review Committee is directed to give due consideration to race, gender, and other demographic factors to assure nondiscrimination, inclusion, and representation to the greatest extent possible of all segments of the population of this state.
-The House amended, approved, and sent the Senate H.4504, a bill to provide the Department of Health and Environmental Control with more effective means of regulating WASTE TIRE FACILITIES, particularly those facilities that amass large quantities of tires without
-recycling them in a timely manner.
+The House amended, approved, and sent the Senate H.4504, a bill to provide the Department of Health and Environmental Control with more effective means of regulating WASTE TIRE FACILITIES, particularly those facilities that amass large quantities of tires without recycling them in a timely manner.
 The legislation authorizes DHEC to promulgate regulations to protect human health and safety of the environment from the adverse effects of improper, inadequate, or unsound management of waste tires.
 DHEC is authorized to conduct inspections and investigations, obtain records of waste tire processing, storage, or hauling activities, obtain samples, and conduct research regarding the operation and maintenance of any waste tire management facility.
 A protocol is established for DHEC to place a facility under a suspension when it exceeds its permitted capacity and to sanction a facility that violates a suspension by accepting additional waste tires.
@@ -38,4 +36,6 @@ The House appointed a conference committee to address its differences with the S
 If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
 Box 292434, Columbia, SC 29229.
 Thank you for the opportunity to serve you in the House of Representatives.
-KHG/jhm
+KHG/jhm « The State Capitol Report – 1/17/2020 The State Capitol Report – 1/31/2020 » Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020

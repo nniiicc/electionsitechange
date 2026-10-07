@@ -1,5 +1,8 @@
-Gary Swing for Progress Platform
-Updated: May 6
+top of page This website was built on Wix.
+Create yours today.
+Get Started It don't mean a thing, if it ain't got that Swing!
+Home Blog Blank Page More Use tab to navigate through the menu items.
+All Posts Search Gary Swing for Progress Platform Gary Swing May 5 2 min read Updated: May 6 Gary Swing at the OK Corral in Tombstone, Arizona.
 Human rights first.
 Uphold the Kellogg-Briand Pact, which outlaws war as a tool of foreign policy.
 End US foreign military interventions and restrict the US armed forces to non-offensive defense of US territory.
@@ -42,3 +45,6 @@ End livestock grazing on public lands.
 Eliminate federal subsidies for animal agriculture.
 Extend animal cruelty laws to farmed animals.
 Support equal rights regardless of gender or sexual orientation.
+Recent Posts See All Proportional Representation of Diverse Populations Supporting My Candidacy Post: Blog2_Post Subscribe Form Submit Thanks for submitting!
+Colyleft by Gary Swing.
+Created with Wix.com bottom of page

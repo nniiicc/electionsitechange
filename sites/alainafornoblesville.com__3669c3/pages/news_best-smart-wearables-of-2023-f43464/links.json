@@ -1,14 +1,54 @@
 [
-"http://in.gov/h29",
-"https://alainafornoblesville.com/",
-"https://alainafornoblesville.com/about",
-"https://alainafornoblesville.com/contact",
-"https://alainafornoblesville.com/news",
-"https://des05.com/t/47223515/1524767492/104100854/0/60330?x=8cdbf955",
-"https://des05.com/t/47223515/1524767492/104100855/0/60330?x=71ba906c",
-"https://des05.com/t/47223515/1524767492/104129107/2/60330?x=6f09fb6b",
-"https://facebook.com/profile.php?id=100093393183942",
-"https://secure.winred.com/alaina-for-noblesville/donate-today",
-"https://twitter.com/ShonkwilerIN29",
-"https://wix.com/"
+{
+"text": "< Back",
+"href": "https://www.alainafornoblesville.com/news"
+},
+{
+"text": "About",
+"href": "https://www.alainafornoblesville.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.alainafornoblesville.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/alaina-for-noblesville/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.alainafornoblesville.com"
+},
+{
+"text": "News",
+"href": "https://www.alainafornoblesville.com/news"
+},
+{
+"text": "Wix.",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100093393183942"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/ShonkwilerIN29"
+},
+{
+"text": "here",
+"href": "https://www.des05.com/t/47223515/1524767492/104100854/0/60330/?x=8cdbf955"
+},
+{
+"text": "here",
+"href": "https://www.des05.com/t/47223515/1524767492/104100855/0/60330/?x=71ba906c"
+},
+{
+"text": "here",
+"href": "https://www.des05.com/t/47223515/1524767492/104129107/2/60330/?x=6f09fb6b"
+},
+{
+"text": "in.gov/h29",
+"href": "http://in.gov/h29"
+}
 ]

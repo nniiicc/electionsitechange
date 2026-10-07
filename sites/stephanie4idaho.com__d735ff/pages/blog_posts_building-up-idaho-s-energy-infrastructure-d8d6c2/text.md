@@ -1,11 +1,11 @@
-Building up Idaho's energy infrastructure
-No matter where you live in Idaho, the odds are high that you depend on some form of energy.
+Skip to main content Stephanie Mickelsen Menu Home About Endorsements Volunteer Blog Contact Donate Search the site Expand Search Building up Idaho's energy infrastructure No matter where you live in Idaho, the odds are high that you depend on some form of energy.
 You may be tied to the grid or totally offline with a generator.
 But you require power to handle necessary tasks.
 Energy demands have only increased as more devices make their way from research labs into our homes.
 A 2023 consumer survey estimated an average of 17 connected devices per U.S. home with internet access.
 Think of your smartphone, your smartwatch or your security system.
-Extending those numbers out a bit across homes with broadband (approx. 117 million), and you’re looking at close to 2 billion devices just in the U.S.
+Extending those numbers out a bit across homes with broadband (approx.
+117 million), and you’re looking at close to 2 billion devices just in the U.S.
 All those devices require energy to function, and the numbers don’t account for appliances and other electronics in the home.
 We need and use a lot of energy, which means what happens on our energy grid matters.
 In 2024, we consumed 4.1 billion kilowatt hours of electricity, an estimated 4.2 billion kWh in 2025, and a projected 4.3 billion kWh in 2026.
@@ -25,3 +25,4 @@ We need that type of innovation and investment to help increase the resiliency o
 Idaho has a bright future with so much potential.
 We must take steps now to advance those opportunities and ensure we have invested in the necessary resources.
 I look forward to working on energy issues during the next legislative session and finding ways to build up Idaho’s energy infrastructure.
+January 05, 2026 Home Blog Building up Idaho's energy infrastructure Paid for by Stephanie Mickelsen For Idaho © # Copyright Stephanie Mickelsen for Idaho | Mario Hernandez - Treasurer Back to top

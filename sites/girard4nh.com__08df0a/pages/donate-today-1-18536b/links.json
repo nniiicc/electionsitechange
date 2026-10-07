@@ -1,8 +1,30 @@
 [
-"https://girard4nh.com/",
-"https://girard4nh.com/about",
-"https://girard4nh.com/blog",
-"https://girard4nh.com/contact",
-"https://girard4nh.com/donate-today-1",
-"https://secure.actblue.com/donate/girard4nh-1"
+{
+"text": "About",
+"href": "https://girard4nh.com/about"
+},
+{
+"text": "Blog",
+"href": "https://girard4nh.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://girard4nh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/girard4nh-1"
+},
+{
+"text": "Donate Today!",
+"href": "https://girard4nh.com/donate-today-1"
+},
+{
+"text": "Girard4NHDale GirardNH House Sullivan 6Claremont CroydonGirard4NH Dale Girard NH House Sullivan 6 Claremont CroydonGirard4NH Dale Girard NH House Sullivan 6 Claremont CroydonGirard4NH Dale Girard NH House Sullivan 6 Claremont Croydon",
+"href": "https://girard4nh.com/"
+},
+{
+"text": "Home",
+"href": "https://girard4nh.com/"
+}
 ]

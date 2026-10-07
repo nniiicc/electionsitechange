@@ -1,31 +1,130 @@
 [
-"https://en.wikipedia.org/wiki/Maryland%27s_3rd_congressional_district",
-"https://en.wikipedia.org/wiki/Public-private_partnerships_in_the_United_States",
-"https://endhomelessness.org/",
-"https://fiscaldata.treasury.gov/americas-finance-guide/national-debt",
-"https://google.com/url?q=https%3A%2F%2Fballotpedia.org%2FMoshe_Landman&sa=D&sntz=1&usg=AOvVaw1CPLuPZpPsr8uh3aBFjjYV",
-"https://google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSeal_of_Maryland&sa=D&sntz=1&usg=AOvVaw3EuY51slqPIbq4OgK5kEZy",
-"https://google.com/url?q=https%3A%2F%2Fwww.ballotready.org%2Fv%2Fpositions%2Fmaryland-maryland-state-senate-district-39&sa=D&sntz=1&usg=AOvVaw14qyE4-3Zk3B3CkVZj4726",
-"https://gp.org/economic_justice_and_sustainability_2016",
-"https://greenmaps.us/moshe-landman",
-"https://moshelandman.us/10-key-values",
-"https://moshelandman.us/about-moshe",
-"https://moshelandman.us/contact-us",
-"https://moshelandman.us/documents-evidence",
-"https://moshelandman.us/home",
-"https://moshelandman.us/maryland",
-"https://moshelandman.us/news-social-media",
-"https://moshelandman.us/the-green-new-deal",
-"https://moshelandman.us/the-green-party",
-"https://moshelandman.us/the-issues",
-"https://moshelandman.us/vote-support-us",
-"https://nationalgrid.com/stories/energy-explained/what-are-greenhouse-gases",
-"https://peacecorps.gov/",
-"https://pgpf.org/blog/2023/04/the-united-states-spends-more-on-defense-than-the-next-10-countries-combined",
-"https://senate.gov/index.htm",
-"https://usaregenalliance.org/",
-"https://usip.org/",
-"https://who.int/health-topics/universal-health-coverage",
-"https://youtube.com/watch?v=DCGDDq8gghY",
-"https://youtube.com/watch?v=Q_m_0UPOzuI"
+{
+"text": "$40.1T",
+"href": "https://fiscaldata.treasury.gov/americas-finance-guide/national-debt/"
+},
+{
+"text": "10 Key Values",
+"href": "https://www.moshelandman.us/10-key-values"
+},
+{
+"text": "About Moshe",
+"href": "https://www.moshelandman.us/about-moshe"
+},
+{
+"text": "America's defense spending",
+"href": "https://www.pgpf.org/blog/2023/04/the-united-states-spends-more-on-defense-than-the-next-10-countries-combined"
+},
+{
+"text": "Campaign to Elect Moshe Landman",
+"href": "https://greenmaps.us/moshe-landman"
+},
+{
+"text": "Contact Us",
+"href": "https://www.moshelandman.us/contact-us"
+},
+{
+"text": "Documents & Evidence",
+"href": "https://www.moshelandman.us/documents-evidence"
+},
+{
+"text": "End homelessness in America",
+"href": "https://endhomelessness.org/"
+},
+{
+"text": "GHG emissions",
+"href": "https://www.nationalgrid.com/stories/energy-explained/what-are-greenhouse-gases#:~:text=Greenhouse%20gases%20%28also%20known%20as,atmosphere%2C%20warming%20the%20earth%27s%20surface."
+},
+{
+"text": "Home",
+"href": "https://www.moshelandman.us/home"
+},
+{
+"text": "Landman for Congress",
+"href": "https://www.moshelandman.us/home"
+},
+{
+"text": "Maryland",
+"href": "https://www.moshelandman.us/maryland"
+},
+{
+"text": "Maryland District 6",
+"href": "https://en.wikipedia.org/wiki/Maryland%27s_3rd_congressional_district"
+},
+{
+"text": "News & Social Media",
+"href": "https://www.moshelandman.us/news-social-media"
+},
+{
+"text": "Peace Corp",
+"href": "https://www.peacecorps.gov/"
+},
+{
+"text": "The Green New Deal",
+"href": "https://www.moshelandman.us/the-green-new-deal"
+},
+{
+"text": "The Green Party",
+"href": "https://www.moshelandman.us/the-green-party"
+},
+{
+"text": "The Issues",
+"href": "https://www.moshelandman.us/the-issues"
+},
+{
+"text": "USIP",
+"href": "https://www.usip.org/"
+},
+{
+"text": "United States",
+"href": "https://www.senate.gov/index.htm"
+},
+{
+"text": "Vote & Support Us",
+"href": "https://www.moshelandman.us/vote-support-us"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fballotpedia.org%2FMoshe_Landman&sa=D&sntz=1&usg=AOvVaw1CPLuPZpPsr8uh3aBFjjYV"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSeal_of_Maryland&sa=D&sntz=1&usg=AOvVaw3EuY51slqPIbq4OgK5kEZy"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.ballotready.org%2Fv%2Fpositions%2Fmaryland-maryland-state-senate-district-39&sa=D&sntz=1&usg=AOvVaw14qyE4-3Zk3B3CkVZj4726"
+},
+{
+"text": "[image]",
+"href": "https://www.moshelandman.us/home"
+},
+{
+"text": "[image]Landman for Congress",
+"href": "https://www.moshelandman.us/home"
+},
+{
+"text": "fair tax system",
+"href": "https://www.gp.org/economic_justice_and_sustainability_2016"
+},
+{
+"text": "grow food forests nationwide",
+"href": "https://www.youtube.com/watch?v=Q_m_0UPOzuI"
+},
+{
+"text": "public-private partnerships",
+"href": "https://en.wikipedia.org/wiki/Public-private_partnerships_in_the_United_States"
+},
+{
+"text": "regenerative and holistic practices",
+"href": "https://usaregenalliance.org/"
+},
+{
+"text": "sustainable and ethical animal husbandry",
+"href": "https://www.youtube.com/watch?v=DCGDDq8gghY"
+},
+{
+"text": "universal healthcare system",
+"href": "https://www.who.int/health-topics/universal-health-coverage"
+}
 ]

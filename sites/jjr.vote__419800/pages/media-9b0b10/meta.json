@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://www.jjr.vote/media",
- "paid_for_by": null,
+ "fingerprint": "42da4ec3d2a89e719d9315140dc77892536bfd76",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Media",
  "years_mentioned": [
   "2025",

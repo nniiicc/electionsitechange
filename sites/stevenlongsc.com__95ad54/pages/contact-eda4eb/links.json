@@ -1,11 +1,42 @@
 [
-"https://donorbox.org/stevenlongsc",
-"https://facebook.com/StevenLongSC",
-"https://stevenlongsc.com/",
-"https://stevenlongsc.com/about",
-"https://stevenlongsc.com/cart",
-"https://stevenlongsc.com/contact",
-"https://stevenlongsc.com/issues",
-"https://stevenlongsc.com/privacypolicy",
-"https://twitter.com/stevenlongsc"
+{
+"text": "0",
+"href": "https://www.stevenlongsc.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.stevenlongsc.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.stevenlongsc.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://donorbox.org/stevenlongsc"
+},
+{
+"text": "Home",
+"href": "https://www.stevenlongsc.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.stevenlongsc.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.stevenlongsc.com/privacypolicy"
+},
+{
+"text": "[image: Steven Long for State House]",
+"href": "https://www.stevenlongsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/stevenlongsc"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StevenLongSC"
+}
 ]

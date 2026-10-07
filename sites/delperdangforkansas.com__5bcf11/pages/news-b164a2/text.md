@@ -1,10 +1,3 @@
-top of page
+top of page Kansas State Representative Leo Delperdang DONATE HOME ABOUT LEO NEWS PLATFORM GET INVOLVED More Use tab to navigate through the menu items.
 In a consistent effort to supply the residents of District 94 and other Kansans communication from Topeka, newsletters are emailed to those who have subscribed to our website.
-Representative Delperdang at the Legislature:
-Room 458-W
-State Capitol Building
-300 SW 10th
-Topeka, Ks 66617
-Phone: 785-296-7663
-leo.delperdang@house.ks.gov
-bottom of page
+Representative Delperdang at the Legislature: Room 458-W State Capitol Building 300 SW 10th Topeka, Ks 66617 Phone: 785-296-7663 leo.delperdang@house.ks.gov ​ Paid for by Leo Delperdang for State Representative, Leo Delperdang, Treasurer HOME ABOUT LEO NEWS PLATFORM GET INVOLVED More Use tab to navigate through the menu items. bottom of page

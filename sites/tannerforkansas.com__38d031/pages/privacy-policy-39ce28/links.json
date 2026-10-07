@@ -1,12 +1,66 @@
 [
-"https://facebook.com/tannerforkansas",
-"https://pickmosaic.com/",
-"https://secure.actblue.com/donate/tannerforkansas",
-"https://tannerforkansas.com/",
-"https://tannerforkansas.com/background",
-"https://tannerforkansas.com/get-involved",
-"https://tannerforkansas.com/his-story",
-"https://tannerforkansas.com/news",
-"https://tannerforkansas.com/priorities",
-"https://tannerforkansas.com/privacy-policy"
+{
+"text": "About Chris",
+"href": "https://www.tannerforkansas.com/background"
+},
+{
+"text": "Background",
+"href": "https://www.tannerforkansas.com/background"
+},
+{
+"text": "Campaign News",
+"href": "https://www.tannerforkansas.com/news"
+},
+{
+"text": "Chris' Story",
+"href": "https://www.tannerforkansas.com/his-story"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tannerforkansas"
+},
+{
+"text": "Get Involved",
+"href": "https://www.tannerforkansas.com/get-involved"
+},
+{
+"text": "His Story",
+"href": "https://www.tannerforkansas.com/his-story"
+},
+{
+"text": "Home",
+"href": "https://www.tannerforkansas.com"
+},
+{
+"text": "News",
+"href": "https://www.tannerforkansas.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.tannerforkansas.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tannerforkansas.com/privacy-policy"
+},
+{
+"text": "The Mosaic Group",
+"href": "https://www.pickmosaic.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/tannerforkansas"
+},
+{
+"text": "[image: Tanner for Kansas Logo Wide]",
+"href": "https://www.tannerforkansas.com"
+},
+{
+"text": "info@tannerforkansas.com",
+"href": "mailto:info@laurenforkansas.com?subject=Privacy+Policy"
+},
+{
+"text": "info@tannerforkansas.com",
+"href": "mailto:info@tannerforkansas.com"
+}
 ]

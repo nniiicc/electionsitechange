@@ -1,0 +1,7 @@
+0 Skip to Content Meet Gabriel 🤝 Issues ✊ Endorsements 📣 Leaders Organizations Events 🗓️ Media 📷 Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Open Menu Close Menu Meet Gabriel 🤝 Issues ✊ Endorsements 📣 Leaders Organizations Events 🗓️ Media 📷 Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Open Menu Close Menu Meet Gabriel 🤝 Issues ✊ Folder: Endorsements 📣 Back Leaders Organizations Events 🗓️ Folder: Media 📷 Back Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate The American People’s Compact (APC) The APC is a research-backed, nationally tested policy platform to rebuild and renew America.
+It’s rooted in our shared values and offers practical, common-sense solutions that lower health care and housing costs, raise wages, strengthen schools, deliver reliable and cleaner energy, make communities safer, and ensure transparent and accountable government Previous Previous CBWPA Next Next NASW, Colorado Chapter PACE Meet Gabriel 👋 Connect/Contact 🤝 Donate💵 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign-Up Sign up with your email address to receive campaign updates and information about events!
+Email Address Sign Up Thank you!
+Paid for by Gabriel for Colorado Gabriel Cervantes Registered Agent: Roberta Ayala 12470 York St.
+#404 Eastlake, CO 80614

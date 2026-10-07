@@ -1,29 +1,190 @@
 [
-"https://facebook.com/whatleyfornc",
-"https://instagram.com/whatleyfornc",
-"https://michaelwhatley.com/",
-"https://michaelwhatley.com/about",
-"https://michaelwhatley.com/icymi-washington-reporter-michael-whatley-was-instrumental-to-western-north-carolina-receiving-billions-of-dollars-in-federal-aid-following-hurricane-helene",
-"https://michaelwhatley.com/icymi-whatley-oped-in-washington-times-iryna-zarutska-would-be-alive-today-if-not-for-roy-cooper",
-"https://michaelwhatley.com/issues",
-"https://michaelwhatley.com/media-tool-kit",
-"https://michaelwhatley.com/michael-whatley-accepts-endorsement-of-national-border-patrol-council",
-"https://michaelwhatley.com/michael-whatley-and-law-enforcement-officials-speak-on-the-one-year-anniversary-of-iryna-zarutskas-horrific-murder",
-"https://michaelwhatley.com/michael-whatley-endorsed-by-the-u-s-chamber-of-commerce",
-"https://michaelwhatley.com/michael-whatley-hosts-make-more-keep-more-press-conference-in-greensboro",
-"https://michaelwhatley.com/michael-whatley-hosts-protecting-law-and-order-press-conference-in-fayetteville",
-"https://michaelwhatley.com/michael-whatley-hosts-protecting-our-kids-press-conference",
-"https://michaelwhatley.com/michael-whatley-slams-roy-coopers-soft-on-crime-agenda-and-record-of-raising-costs-at-republican-midterm-convention",
-"https://michaelwhatley.com/mobile-terms",
-"https://michaelwhatley.com/news",
-"https://michaelwhatley.com/news/page/2",
-"https://michaelwhatley.com/news/page/3",
-"https://michaelwhatley.com/news/page/4",
-"https://michaelwhatley.com/privacy-policy",
-"https://michaelwhatley.com/terms-and-conditions",
-"https://michaelwhatley.com/vice-president-jd-vance-and-michael-whatley-slam-roy-coopers-far-left-record-at-rally-in-greensboro",
-"https://michaelwhatley.com/volunteer",
-"https://secure.winred.com/whatley-for-senate/donate",
-"https://secure.winred.com/whatley-for-senate/storefront",
-"https://x.com/WhatleyNC"
+{
+"text": "About",
+"href": "https://michaelwhatley.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/whatley-for-senate/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/whatleyfornc"
+},
+{
+"text": "Home",
+"href": "https://michaelwhatley.com/"
+},
+{
+"text": "ICYMI- Whatley Oped in Washington Times: Iryna Zarutska Would Be Alive Today If Not For Roy Cooper",
+"href": "https://michaelwhatley.com/icymi-whatley-oped-in-washington-times-iryna-zarutska-would-be-alive-today-if-not-for-roy-cooper/"
+},
+{
+"text": "ICYMI: Washington Reporter- Michael Whatley Was Instrumental to Western North Carolina Receiving Billions of Dollars in Federal Aid Following Hurricane Helene",
+"href": "https://michaelwhatley.com/icymi-washington-reporter-michael-whatley-was-instrumental-to-western-north-carolina-receiving-billions-of-dollars-in-federal-aid-following-hurricane-helene/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/whatleyfornc/"
+},
+{
+"text": "Issues",
+"href": "https://michaelwhatley.com/issues/"
+},
+{
+"text": "Media Tool Kit",
+"href": "https://michaelwhatley.com/media-tool-kit/"
+},
+{
+"text": "Michael Whatley Accepts Endorsement of National Border Patrol Council",
+"href": "https://michaelwhatley.com/michael-whatley-accepts-endorsement-of-national-border-patrol-council/"
+},
+{
+"text": "Michael Whatley Endorsed by the U.S. Chamber of Commerce",
+"href": "https://michaelwhatley.com/michael-whatley-endorsed-by-the-u-s-chamber-of-commerce/"
+},
+{
+"text": "Michael Whatley Hosts Make More, Keep More Press Conference in Greensboro",
+"href": "https://michaelwhatley.com/michael-whatley-hosts-make-more-keep-more-press-conference-in-greensboro/"
+},
+{
+"text": "Michael Whatley Hosts Protecting Law and Order Press Conference in Fayetteville",
+"href": "https://michaelwhatley.com/michael-whatley-hosts-protecting-law-and-order-press-conference-in-fayetteville/"
+},
+{
+"text": "Michael Whatley Hosts Protecting Our Kids Press Conference",
+"href": "https://michaelwhatley.com/michael-whatley-hosts-protecting-our-kids-press-conference/"
+},
+{
+"text": "Michael Whatley Slams Roy Cooper’s Soft-on-Crime Agenda and Record of Raising Costs at Republican Midterm Convention",
+"href": "https://michaelwhatley.com/michael-whatley-slams-roy-coopers-soft-on-crime-agenda-and-record-of-raising-costs-at-republican-midterm-convention/"
+},
+{
+"text": "Michael Whatley and Law Enforcement Officials Speak on the One-Year-Anniversary of Iryna Zarutska’s Horrific Murder",
+"href": "https://michaelwhatley.com/michael-whatley-and-law-enforcement-officials-speak-on-the-one-year-anniversary-of-iryna-zarutskas-horrific-murder/"
+},
+{
+"text": "Mobile Terms",
+"href": "https://michaelwhatley.com/mobile-terms/"
+},
+{
+"text": "News",
+"href": "https://michaelwhatley.com/news/"
+},
+{
+"text": "Page2",
+"href": "https://michaelwhatley.com/news/page/2/"
+},
+{
+"text": "Page3",
+"href": "https://michaelwhatley.com/news/page/3/"
+},
+{
+"text": "Page4",
+"href": "https://michaelwhatley.com/news/page/4/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://michaelwhatley.com/privacy-policy/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/icymi-washington-reporter-michael-whatley-was-instrumental-to-western-north-carolina-receiving-billions-of-dollars-in-federal-aid-following-hurricane-helene/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/icymi-whatley-oped-in-washington-times-iryna-zarutska-would-be-alive-today-if-not-for-roy-cooper/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/michael-whatley-accepts-endorsement-of-national-border-patrol-council/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/michael-whatley-and-law-enforcement-officials-speak-on-the-one-year-anniversary-of-iryna-zarutskas-horrific-murder/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/michael-whatley-endorsed-by-the-u-s-chamber-of-commerce/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/michael-whatley-hosts-make-more-keep-more-press-conference-in-greensboro/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/michael-whatley-hosts-protecting-law-and-order-press-conference-in-fayetteville/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/michael-whatley-hosts-protecting-our-kids-press-conference/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/michael-whatley-slams-roy-coopers-soft-on-crime-agenda-and-record-of-raising-costs-at-republican-midterm-convention/"
+},
+{
+"text": "Read More »",
+"href": "https://michaelwhatley.com/vice-president-jd-vance-and-michael-whatley-slam-roy-coopers-far-left-record-at-rally-in-greensboro/"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/whatley-for-senate/storefront/"
+},
+{
+"text": "Terms of Use",
+"href": "https://michaelwhatley.com/terms-and-conditions/"
+},
+{
+"text": "Vice President JD Vance and Michael Whatley Slam Roy Cooper’s Far-Left Record at Rally in Greensboro",
+"href": "https://michaelwhatley.com/vice-president-jd-vance-and-michael-whatley-slam-roy-coopers-far-left-record-at-rally-in-greensboro/"
+},
+{
+"text": "Volunteer",
+"href": "https://michaelwhatley.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/WhatleyNC"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/icymi-washington-reporter-michael-whatley-was-instrumental-to-western-north-carolina-receiving-billions-of-dollars-in-federal-aid-following-hurricane-helene/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/icymi-whatley-oped-in-washington-times-iryna-zarutska-would-be-alive-today-if-not-for-roy-cooper/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/michael-whatley-accepts-endorsement-of-national-border-patrol-council/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/michael-whatley-and-law-enforcement-officials-speak-on-the-one-year-anniversary-of-iryna-zarutskas-horrific-murder/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/michael-whatley-endorsed-by-the-u-s-chamber-of-commerce/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/michael-whatley-hosts-make-more-keep-more-press-conference-in-greensboro/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/michael-whatley-hosts-protecting-law-and-order-press-conference-in-fayetteville/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/michael-whatley-slams-roy-coopers-soft-on-crime-agenda-and-record-of-raising-costs-at-republican-midterm-convention/"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com/vice-president-jd-vance-and-michael-whatley-slam-roy-coopers-far-left-record-at-rally-in-greensboro/"
+}
 ]

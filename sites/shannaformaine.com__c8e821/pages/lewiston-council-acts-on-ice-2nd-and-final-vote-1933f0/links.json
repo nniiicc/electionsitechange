@@ -1,19 +1,78 @@
 [
-"https://drive.google.com/file/d/1WFICzg7oxu-pjkFydfKS6fpKmuY2v2fb/view?usp=sharing",
-"https://facebook.com/shannaformaine",
-"https://instagram.com/shannaformaine",
-"https://lewistonmaine.gov/ArchiveCenter/ViewFile/Item/6742",
-"https://secure.actblue.com/donate/shannaformaine",
-"https://shannaformaine.com/",
-"https://shannaformaine.com/endorsements",
-"https://shannaformaine.com/endorsements/endorse-shanna",
-"https://shannaformaine.com/get-involved",
-"https://shannaformaine.com/get-involved/contact",
-"https://shannaformaine.com/get-involved/events",
-"https://shannaformaine.com/get-involved/volunteer",
-"https://shannaformaine.com/get-involved/voting-info",
-"https://shannaformaine.com/issues",
-"https://shannaformaine.com/meet-shanna",
-"https://shannaformaine.com/news",
-"https://tidepoolcreative.com/"
+{
+"text": "Contact",
+"href": "https://shannaformaine.com/get-involved/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shannaformaine"
+},
+{
+"text": "Endorse Shanna",
+"href": "https://shannaformaine.com/endorsements/endorse-shanna/"
+},
+{
+"text": "Endorsements",
+"href": "https://shannaformaine.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://shannaformaine.com/get-involved/events/"
+},
+{
+"text": "Follow",
+"href": "https://facebook.com/shannaformaine"
+},
+{
+"text": "Follow",
+"href": "https://instagram.com/shannaformaine"
+},
+{
+"text": "Get Involved",
+"href": "https://shannaformaine.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://shannaformaine.com/"
+},
+{
+"text": "ICE Ordinance Agenda item can be found here",
+"href": "https://drive.google.com/file/d/1WFICzg7oxu-pjkFydfKS6fpKmuY2v2fb/view?usp=sharing"
+},
+{
+"text": "Issues",
+"href": "https://shannaformaine.com/issues/"
+},
+{
+"text": "Meet Shanna",
+"href": "https://shannaformaine.com/meet-shanna/"
+},
+{
+"text": "News",
+"href": "https://shannaformaine.com/news/"
+},
+{
+"text": "Tide Pool Creative",
+"href": "https://tidepoolcreative.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://shannaformaine.com/get-involved/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://shannaformaine.com/get-involved/voting-info/"
+},
+{
+"text": "[image]",
+"href": "https://shannaformaine.com/"
+},
+{
+"text": "here",
+"href": "https://www.lewistonmaine.gov/ArchiveCenter/ViewFile/Item/6742"
+},
+{
+"text": "publiccomments@lewistonmaine.gov",
+"href": "mailto:publiccomments@lewistonmaine.gov"
+}
 ]

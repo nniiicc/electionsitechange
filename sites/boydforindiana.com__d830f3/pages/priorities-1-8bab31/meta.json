@@ -1,9 +1,9 @@
 {
  "description": "Discover the David Boyd campaign for Indiana. Learn about Indiana priorities and join the movement for positive change with Boyd for Indiana.",
  "final_url": "https://boydforindiana.com/priorities-1",
- "paid_for_by": null,
+ "fingerprint": "874b735f891b58eb29db11155193f0c9f7fe8ae4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Priorities",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

@@ -1,15 +1,5 @@
-Embedded Files
-WHY I'M RUNNING
-District 22 is filled with hardworking families, thriving small businesses, dedicated educators, and engaged community leaders.
-But too many residents are concerned about:
-- Public safety
-- Affordable housing
-- Transportation and infrastructure
-- Economic opportunity
-- Quality education
-- Environmental sustainability
-I am running because I believe the government works best when it listens to people and delivers real solutions.
+Search this site Embedded Files Skip to main content Skip to navigation VOTE TRACY GANT 2026 Home MEET TRACY DISTRICT 22 VOTE PRIORITIES WHY I'M RUNNING ENDORSEMENTS CONTACT GET INVOLVED DONATE VOTE TRACY GANT 2026 Home MEET TRACY DISTRICT 22 VOTE PRIORITIES WHY I'M RUNNING ENDORSEMENTS CONTACT GET INVOLVED DONATE More Home MEET TRACY DISTRICT 22 VOTE PRIORITIES WHY I'M RUNNING ENDORSEMENTS CONTACT GET INVOLVED DONATE WHY I'M RUNNING District 22 is filled with hardworking families, thriving small businesses, dedicated educators, and engaged community leaders.
+But too many residents are concerned about: Public safety Affordable housing Transportation and infrastructure Economic opportunity Quality education Environmental sustainability I am running because I believe the government works best when it listens to people and delivers real solutions.
 Together, we can continue to have a District 22 where every resident has the opportunity to succeed.
-Page updated
-Google Sites
-Report abuse
+TRACY GANT FOR MD DELEGATE tracygant4maryland@tracygant4maryland.com Copyright © # By Authority of Friends of Tracy Gant, Bridgette Gant, Treasurer.
+Google Sites Report abuse Page details Page updated Google Sites Report abuse

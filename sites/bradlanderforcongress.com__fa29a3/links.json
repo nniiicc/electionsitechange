@@ -1,25 +1,102 @@
 [
-"https://bradlander.substack.com/",
-"https://bradlanderforcongress.com/",
-"https://bradlanderforcongress.com/42ce6cb1-ac9e-41a3-bccc-70194d57f47a",
-"https://bradlanderforcongress.com/8e4b53fe-9087-4145-b077-8b7a97db4077",
-"https://bradlanderforcongress.com/about",
-"https://bradlanderforcongress.com/endorsements",
-"https://bradlanderforcongress.com/issues",
-"https://bsky.app/profile/bradlander.bsky.social",
-"https://designedtorun.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSf-3ez9Rk003xNxQD3SI395bGCpW_N-aFJcPRdEMfi_d41qNw/viewform",
-"https://facebook.com/bradlander",
-"https://instagram.com/brad.lander",
-"https://secure.actblue.com/donate/bl4cweb",
-"https://secure.actblue.com/donate/bl4cweb?amount=10",
-"https://secure.actblue.com/donate/bl4cweb?amount=100",
-"https://secure.actblue.com/donate/bl4cweb?amount=25",
-"https://secure.actblue.com/donate/bl4cweb?amount=250",
-"https://secure.actblue.com/donate/bl4cweb?amount=50",
-"https://store.landerfornyc.com/",
-"https://threads.net/@brad.lander",
-"https://tiktok.com/@bradlandernyc",
-"https://x.com/bradlander",
-"https://youtube.com/@landerfornyc"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/bl4cweb?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/bl4cweb?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/bl4cweb?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/bl4cweb?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/bl4cweb?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.bradlanderforcongress.com/about"
+},
+{
+"text": "Apply for a Role",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf-3ez9Rk003xNxQD3SI395bGCpW_N-aFJcPRdEMfi_d41qNw/viewform"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bl4cweb"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bradlanderforcongress.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.bradlanderforcongress.com/issues"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/bl4cweb"
+},
+{
+"text": "Privacy Notice",
+"href": "https://www.bradlanderforcongress.com/42ce6cb1-ac9e-41a3-bccc-70194d57f47a"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Shop",
+"href": "https://store.landerfornyc.com/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.bradlanderforcongress.com/8e4b53fe-9087-4145-b077-8b7a97db4077"
+},
+{
+"text": "[image: Brad Lander for Congress]",
+"href": "https://www.bradlanderforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bradlander.substack.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/bradlander.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/bradlander"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/brad.lander"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@brad.lander"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@bradlandernyc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@landerfornyc"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/bradlander"
+},
+{
+"text": "brad@landerfornyc.com",
+"href": "mailto:brad@landerfornyc.com"
+}
 ]

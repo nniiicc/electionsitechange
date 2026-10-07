@@ -1,7 +1,2 @@
-Meet the candidates: Mayor Chaz Molder discusses his campaign for TN’s 5th Congressional District
-June 4, 2026
-Columbia Mayor Chaz Molder sits down with ABC24’s Pepper Baker to discuss his run for Tennessee’s 5th Congressional District.
-Skip to content
-Meet the candidates: Mayor Chaz Molder discusses his campaign for TN’s 5th Congressional District
-June 4, 2026
-Columbia Mayor Chaz Molder sits down with ABC24’s Pepper Baker to discuss his run for Tennessee’s 5th Congressional District.
+Skip to content Chaz Molder for Congress Meet Chaz News Issues Yard Sign Store Stay Informed Donate Meet the candidates: Mayor Chaz Molder discusses his campaign for TN’s 5th Congressional District June 4, 2026 Columbia Mayor Chaz Molder sits down with ABC24’s Pepper Baker to discuss his run for Tennessee’s 5th Congressional District.
+Posts navigation Previous Next Meet Chaz Issues Stay Informed Donate Resources Facebook Instagram Twitter X Threads Tik Tok Paid for by Molder for Congress Molder for CongressPO Box 1468Columbia, TN 38402 Privacy Policy

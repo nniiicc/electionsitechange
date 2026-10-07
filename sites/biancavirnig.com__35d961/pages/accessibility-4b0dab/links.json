@@ -1,13 +1,54 @@
 [
-"https://biancavirnig.com/",
-"https://biancavirnig.com/accessibility",
-"https://biancavirnig.com/contact-8",
-"https://biancavirnig.com/copy-of-how-to-vote",
-"https://biancavirnig.com/endorsements",
-"https://biancavirnig.com/get-involved",
-"https://biancavirnig.com/privacy-policy",
-"https://facebook.com/profile.php?id=61550611067374",
-"https://google.com/url?q=https%3A%2F%2Fwww.w3.org%2FWAI%2Fstandards-guidelines%2Fwcag%2F&ust=1630764993236000&usg=AFQjCNFUuYKrMB505zrHE_pMY_JzSS-BnQ",
-"https://instagram.com/biancavirnig",
-"https://secure.actblue.com/donate/2024virnigbasicform"
+{
+"text": "Accessibility Statement",
+"href": "https://www.biancavirnig.com/accessibility"
+},
+{
+"text": "Contact",
+"href": "https://www.biancavirnig.com/contact-8"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/2024virnigbasicform"
+},
+{
+"text": "Endorsements",
+"href": "https://www.biancavirnig.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.biancavirnig.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.biancavirnig.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.biancavirnig.com/privacy-policy"
+},
+{
+"text": "Vote",
+"href": "https://www.biancavirnig.com/copy-of-how-to-vote"
+},
+{
+"text": "Web Content Accessibility Guidelines (WCAG)",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.w3.org%2FWAI%2Fstandards-guidelines%2Fwcag%2F&ust=1630764993236000&usg=AFQjCNFUuYKrMB505zrHE_pMY_JzSS-BnQ"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61550611067374"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/biancavirnig/"
+},
+{
+"text": "biancaforhouse@gmail.com",
+"href": "mailto:biancaforhouse@gmail.com"
+},
+{
+"text": "biancaforhouse@gmail.com",
+"href": "mailto:biancaforhouse@gmail.com?subject=Accessibility"
+}
 ]

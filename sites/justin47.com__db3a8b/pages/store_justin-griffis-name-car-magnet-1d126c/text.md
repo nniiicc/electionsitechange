@@ -1,18 +1,6 @@
-$8.99
-This durable car magnet brings a clean, professional look to vehicles, bumpers, or any magnetic surface.
+Justin Griffis State Representative · MI 47 Home About Platform District Events Volunteer Vote Store Contact Donate ← Back to Store Justin Griffis Name Car Magnet $8.99 This durable car magnet brings a clean, professional look to vehicles, bumpers, or any magnetic surface.
 Printed on white vinyl with a matte finish, the design sits crisp against the white base, while a strong black magnetic backing keeps the piece securely in place through daily driving and changing weather.
 Available in three sizes and made in the USA from globally sourced materials, it’s a straightforward way to display a name, logo, or message with subtle presence rather than permanent commitment.
-Product features
-- 100% vinyl construction with matte white base
-- All-weather durability for outdoor use
-- Black magnetic backing for secure attachment
-- Available in three sizes to fit different surfaces
-- Digital-direct printing (DDP) for crisp, long-lasting print
-Care instructions
-- Wipe the dust off gently with a soft, dry cloth.
-Product features
-- 100% vinyl construction with matte white base
-- All-weather durability for outdoor use
-- Black magnetic backing for secure attachment
-Care instructions
-- Wipe the dust off gently with a soft, dry cloth.
+Product features - 100% vinyl construction with matte white base - All-weather durability for outdoor use - Black magnetic backing for secure attachment - Available in three sizes to fit different surfaces - Digital-direct printing (DDP) for crisp, long-lasting print Care instructions - Wipe the dust off gently with a soft, dry cloth.
+Option * 7.5'' × 4.5'' / Rectangle / 1 pc — $8.99 Quantity Add to Cart Justin Griffis Common-sense Republican running for Michigan State Representative in the 47th District. f X IG Campaign About Justin Platform The 47th District Events Get Involved Donate Volunteer Voter Info Contact Contact General: [email protected] Press: [email protected] Paid for by Justin Griffis for State Representative · 9175 Dogwood Ln, Dexter, MI 48130 © # Justin Griffis for State Representative.
+All rights reserved.

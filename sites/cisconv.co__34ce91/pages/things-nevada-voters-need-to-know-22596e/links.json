@@ -1,80 +1,522 @@
 [
-"http://nevadaconcernedcitizens.org/wp-content/uploads/2016/10/VG-general-2016-Federal-State-4-pgs.pdf",
-"https://cisconv.co/",
-"https://cisconv.co/about",
-"https://cisconv.co/cdn-cgi/l/email-protection",
-"https://cisconv.co/contact-us",
-"https://cisconv.co/endorsements",
-"https://cisconv.co/record-and-plan",
-"https://cisconv.co/things-nevada-voters-need-to-know",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-1-066.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-1-071.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-1-118.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-1-178.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-10-2006.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-10-2018.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-10-2056.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-10-2241.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-2-225.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-2-243.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-2-251.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-2-288.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-475.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-503.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-516.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-526.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-605.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-677.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-724.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-822.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-5-851.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-5-873.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-5-911.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-5-962.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-5-972.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1022.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1113.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1116.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1159.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1200.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1214.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-986.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1281.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1286.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1329.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1540.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1546.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1553.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1560.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1580.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1585.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-8-1770.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-8-1777.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-8-1786.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-8-1824.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-8-1913.webp",
-"https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-9-1923.webp",
-"https://doi.nv.gov/Healthcare-Reform/Individuals-Families/Preventive-Care",
-"https://facebook.com/CiscoForNevada",
-"https://instagram.com/ciscofornevada",
-"https://ivoterguide.com/candidate?elecK=696&raceK=2147&primarypartyk=R&canK=50551",
-"https://leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7741/Overview",
-"https://lwv.org/newsroom/news-clips/save-act-how-donald-trumps-voting-bill-may-impact-2026-midterm-elections",
-"https://mediamatters.org/voter-fraud-and-suppression/nevada-radio-secretary-state-candidate-jim-marchant-said-he-supports-re",
-"https://nbcnews.com/politics/2022-election/election-denier-jim-marchant-wins-nevada-republican-secretary-state-pr-rcna33638",
-"https://nevadacurrent.com/2026/07/02/the-courts-wouldnt-end-nevadas-mail-voting-the-republican-secretary-of-state-nominee-would",
-"https://news3lv.com/news/local/judge-rejects-federal-government-lawsuit-doj-nevada-voter-data-francisco-aguilar-las-vegas-reno-carson-city",
-"https://news3lv.com/news/local/nv-secretary-of-state-opponents-sharing-strong-differences-on-scotus-mail-in-ballot-ruling",
-"https://nvictor.sfo2.cdn.digitaloceanspaces.com/cisconv/videos/Cisco%20Aguilar%20for%20NV%20SOS.mp4",
-"https://rgj.com/story/news/politics/elections/2026/09/08/election-denier-jim-marchant-nevada-secretary-state-race/91598529007",
-"https://secure.actblue.com/donate/ca-website",
-"https://secure.actblue.com/donate/ca-website?amount=100",
-"https://secure.actblue.com/donate/ca-website?amount=1000",
-"https://secure.actblue.com/donate/ca-website?amount=25",
-"https://secure.actblue.com/donate/ca-website?amount=250",
-"https://secure.actblue.com/donate/ca-website?amount=500",
-"https://x.com/CiscoForNevada",
-"https://x.com/VoteJimMarchant/status/2085389817853157520",
-"https://youtube.com/shorts/BLtW8t32UUo",
-"https://youtube.com/watch?v=wO_F2WD-hGk"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/ca-website?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/ca-website?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/ca-website?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/ca-website?amount=250"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/ca-website?amount=500"
+},
+{
+"text": "About Cisco",
+"href": "https://cisconv.co/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://cisconv.co/contact-us/"
+},
+{
+"text": "Contribute to the Campaign",
+"href": "https://secure.actblue.com/donate/ca-website"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-1-066.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-1-071.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-1-118.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-1-178.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-10-2006.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-10-2018.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-10-2056.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-10-2241.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-2-225.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-2-243.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-2-251.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-2-288.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-475.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-503.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-516.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-526.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-605.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-677.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-724.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-822.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-5-851.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-5-873.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-5-911.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-5-962.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-5-972.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1022.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1113.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1116.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1159.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1200.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1214.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-986.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1281.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1286.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1329.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1540.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1546.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1553.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1560.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1580.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1585.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-8-1770.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-8-1777.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-8-1786.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-8-1824.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-8-1913.webp"
+},
+{
+"text": "Download",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-9-1923.webp"
+},
+{
+"text": "Download video (MP4)",
+"href": "https://nvictor.sfo2.cdn.digitaloceanspaces.com/cisconv/videos/Cisco%20Aguilar%20for%20NV%20SOS.mp4"
+},
+{
+"text": "Endorsements",
+"href": "https://cisconv.co/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/CiscoForNevada/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ciscofornevada/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/ca-website?amount=100"
+},
+{
+"text": "Record",
+"href": "https://cisconv.co/record-and-plan/"
+},
+{
+"text": "Things Nevada Voters Need to Know",
+"href": "https://cisconv.co/things-nevada-voters-need-to-know/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/CiscoForNevada"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@cisconv.co"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 1-066]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-1-066.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 1-071]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-1-071.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 1-118]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-1-118.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 1-178]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-1-178.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 10-2006]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-10-2006.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 10-2018]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-10-2018.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 10-2056]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-10-2056.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 10-2241]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-10-2241.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 2-225]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-2-225.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 2-243]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-2-243.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 2-251]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-2-251.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 2-288]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-2-288.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 4-475]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-475.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 4-503]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-503.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 4-516]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-516.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 4-526]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-526.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 4-605]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-605.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 4-677]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-677.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 4-724]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-724.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 4-822]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-4-822.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 5-851]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-5-851.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 5-873]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-5-873.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 5-911]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-5-911.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 5-962]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-5-962.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 5-972]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-5-972.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 6-1022]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1022.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 6-1113]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1113.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 6-1116]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1116.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 6-1159]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1159.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 6-1200]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1200.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 6-1214]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-1214.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 6-986]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-6-986.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 7-1281]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1281.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 7-1286]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1286.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 7-1329]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1329.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 7-1540]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1540.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 7-1546]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1546.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 7-1553]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1553.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 7-1560]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1560.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 7-1580]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1580.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 7-1585]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-7-1585.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 8-1770]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-8-1770.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 8-1777]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-8-1777.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 8-1786]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-8-1786.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 8-1824]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-8-1824.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 8-1913]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-8-1913.webp"
+},
+{
+"text": "[image: Cisco Aguilar campaign photo 9-1923]",
+"href": "https://cisconv.co/wp-content/uploads/2026/09/2026-015-cisco-aguilar-9-1923.webp"
+},
+{
+"text": "[image]",
+"href": "https://cisconv.co"
+},
+{
+"text": "a bipartisan law",
+"href": "https://www.youtube.com/shorts/BLtW8t32UUo"
+},
+{
+"text": "election denier",
+"href": "https://www.rgj.com/story/news/politics/elections/2026/09/08/election-denier-jim-marchant-nevada-secretary-state-race/91598529007/"
+},
+{
+"text": "end early voting",
+"href": "https://www.youtube.com/watch?v=wO_F2WD-hGk"
+},
+{
+"text": "even to save the life of the mother",
+"href": "http://nevadaconcernedcitizens.org/wp-content/uploads/2016/10/VG-general-2016-Federal-State-4-pgs.pdf"
+},
+{
+"text": "fought back in the courts",
+"href": "https://news3lv.com/news/local/judge-rejects-federal-government-lawsuit-doj-nevada-voter-data-francisco-aguilar-las-vegas-reno-carson-city"
+},
+{
+"text": "freedom to vote",
+"href": "https://news3lv.com/news/local/nv-secretary-of-state-opponents-sharing-strong-differences-on-scotus-mail-in-ballot-ruling"
+},
+{
+"text": "freedom to vote early, before Election Day by mail, or in a drop box",
+"href": "https://news3lv.com/news/local/nv-secretary-of-state-opponents-sharing-strong-differences-on-scotus-mail-in-ballot-ruling"
+},
+{
+"text": "has also said he would like to cancel every Nevadan’s voter registration and force them to re-register",
+"href": "https://www.mediamatters.org/voter-fraud-and-suppression/nevada-radio-secretary-state-candidate-jim-marchant-said-he-supports-re"
+},
+{
+"text": "he supports radical changes that would make voting less accessible",
+"href": "https://www.nbcnews.com/politics/2022-election/election-denier-jim-marchant-wins-nevada-republican-secretary-state-pr-rcna33638"
+},
+{
+"text": "passing a bipartisan law",
+"href": "https://www.youtube.com/shorts/BLtW8t32UUo"
+},
+{
+"text": "personally endorsed by Donald Trump",
+"href": "https://x.com/VoteJimMarchant/status/2085389817853157520"
+},
+{
+"text": "radical plan to completely destroy Nevada’s elections, and he would cancel everyone's voter registration and force them to re-register and end voting by mail.",
+"href": "https://www.mediamatters.org/voter-fraud-and-suppression/nevada-radio-secretary-state-candidate-jim-marchant-said-he-supports-re"
+},
+{
+"text": "still supports bans so extreme",
+"href": "https://ivoterguide.com/candidate?elecK=696&raceK=2147&primarypartyk=R&canK=50551"
+},
+{
+"text": "strip voting rights from millions of women",
+"href": "https://www.lwv.org/newsroom/news-clips/save-act-how-donald-trumps-voting-bill-may-impact-2026-midterm-elections"
+},
+{
+"text": "vote by mail",
+"href": "https://nevadacurrent.com/2026/07/02/the-courts-wouldnt-end-nevadas-mail-voting-the-republican-secretary-of-state-nominee-would/"
+},
+{
+"text": "voted against legislation",
+"href": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7741/Overview"
+},
+{
+"text": "women’s health care and contraception",
+"href": "https://doi.nv.gov/Healthcare-Reform/Individuals-Families/Preventive-Care/#AB_249"
+},
+{
+"text": "“I’m still a staunch election denier.”",
+"href": "https://www.rgj.com/story/news/politics/elections/2026/09/08/election-denier-jim-marchant-nevada-secretary-state-race/91598529007/"
+}
 ]

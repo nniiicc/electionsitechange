@@ -1,19 +1,70 @@
 [
-"https://columbiaheightsmn.gov/departments/index.php",
-"https://columbiaheightsmn.gov/government/mayor_and_city_council/index.php",
-"https://facebook.com/voteamada",
-"https://instagram.com/amadaformnhouse",
-"https://pollfinder.sos.mn.gov/assets/maps/legislative/39B.pdf",
-"https://twitter.com/AmadaMarquezS",
-"https://voteamada.com/",
-"https://voteamada.com/about",
-"https://voteamada.com/contact",
-"https://voteamada.com/contact/campaign",
-"https://voteamada.com/contact/meeting",
-"https://voteamada.com/donate",
-"https://voteamada.com/faq",
-"https://voteamada.com/issues",
-"https://voteamada.com/join",
-"https://voteamada.com/press",
-"https://voteamada.com/privacy-policy-2"
+{
+"text": "About",
+"href": "https://www.voteamada.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.voteamada.com/contact/"
+},
+{
+"text": "Contact Columbia Heights City Staff",
+"href": "https://www.columbiaheightsmn.gov/departments/index.php"
+},
+{
+"text": "Contact Mayor Amáda Márquez Simula",
+"href": "https://www.columbiaheightsmn.gov/government/mayor_and_city_council/index.php"
+},
+{
+"text": "Donate",
+"href": "https://www.voteamada.com/donate/"
+},
+{
+"text": "Email the Campaign Team",
+"href": "https://www.voteamada.com/contact/campaign/"
+},
+{
+"text": "FAQ",
+"href": "https://www.voteamada.com/faq/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteamada.com/issues/"
+},
+{
+"text": "Join the Campaign Team",
+"href": "https://www.voteamada.com/join/"
+},
+{
+"text": "Map",
+"href": "https://pollfinder.sos.mn.gov/assets/maps/legislative/39B.pdf"
+},
+{
+"text": "Press Kit",
+"href": "https://www.voteamada.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteamada.com/privacy-policy-2/"
+},
+{
+"text": "Schedule a Meeting",
+"href": "https://www.voteamada.com/contact/meeting/"
+},
+{
+"text": "[image: Vote Amáda]",
+"href": "https://www.voteamada.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/voteamada/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/amadaformnhouse/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/AmadaMarquezS"
+}
 ]

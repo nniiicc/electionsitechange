@@ -1,8 +1,7 @@
-THE BANNER
-JULY 22, 2026
-Since 2023, more incarcerated people have been killed in Maryland prisons than in all neighboring states combined
-Prisoners are more likely to be killed in Maryland than in nearly any other state, with a homicide rate last year that was nearly four times the national average, based on available data gathered by The Banner.
+Support Shelly About Shelly Issues Better Public Education Public Safety & Criminal Justice Health & Wellness Jobs, Housing & Economic Development Our Debt to Seniors Protecting the Environment & Our Democracy Resources & Scholarships Events Latest News Shelly in the News Updates from Shelly Stay in Touch Select Page Maryland prisons rank among nation’s worst for killings Jul 22, 2026 THE BANNER JULY 22, 2026 Since 2023, more incarcerated people have been killed in Maryland prisons than in all neighboring states combined Prisoners are more likely to be killed in Maryland than in nearly any other state, with a homicide rate last year that was nearly four times the national average, based on available data gathered by The Banner.
 Since 2023, 32 incarcerated people in state-run correctional facilities have been killed.
 That’s more than all of Maryland’s neighboring states combined.
 State correctional leaders largely frame the problem of prisoners killing other prisoners as a national one, describing Maryland’s facilities as beset by a population increasingly made up of people serving long sentences for violent crimes.
 The corrections department’s top official said she has made changes to its senior leadership, stepped up efforts to keep drugs out of prisons and rolled out body cameras for its officers, among other measures.
+Read the full article Search for: Recent Posts Maryland prisons rank among nation’s worst for killings APG Federal Credit Union Hosts Ribbon-Cutting Ceremony for Third Baltimore County Branch Wrapping it Up Legislature Passes Bill for Jewish & Muslim Heritage Months Maryland climate-aligned transportation bill gains momentum in Senate Recent Comments Facebook Twitter © # Shelly Hettleman.
+Web Design by Web Interactive Technologies Paid by Friends of Shelly Hettleman, Caren Lichter, Treasurer.

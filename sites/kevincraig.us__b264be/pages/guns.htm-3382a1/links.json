@@ -1,53 +1,222 @@
 [
-"http://209.212.93.14/doc.mhtml?i=w070319&s=wittes031907",
-"http://209.212.93.14/showBio.mhtml?pid=1025&sa=1",
-"http://apll.freeyellow.com/elneil.html",
-"http://brookings.edu/opinions/2007/0319governance_wittes.aspx",
-"http://ca.lp.org/platform/trtkaba.html",
-"http://cato.org/ccs/2nd-amendment.html",
-"http://cato.org/pubs/handbook/hb107/hb107-23.pdf",
-"http://cato.org/pubs/handbook/hb108/hb108-18.pdf",
-"http://cato.org/research/con-st2.html",
-"http://constitution.org/js/js_001.htm",
-"http://examiner.com/x-5619-Atlanta-Gun-Rights-Examiner~y2009m12d31-Court-upholds-police-pointing-gun-at-lawful-carriers",
-"http://fee.org/PUBLICATIONS/THE-FREEMAN/article.asp?aid=3230",
-"http://fee.org/in_brief/default.asp?id=2188",
-"http://fff.org/",
-"http://fff.org/aboutUs/bios/bxf.asp",
-"http://fff.org/freedom/fd0703d.asp",
-"http://fff.org/issues/guncontrol.asp",
-"http://free-market.net/directorybytopic/gunlawsuits",
-"http://free-market.net/directorybytopic/guns",
-"http://free-market.net/spotlight/emerson",
-"http://free-market.net/spotlight/gunlawsuits",
-"http://free-market.net/spotlight/gunshift",
-"http://free-market.net/spotlight/minguns",
-"http://free-market.net/spotlight/womenandguns",
-"http://frontpagemag.com/archives/gun_rights/index.htm",
-"http://gmu.edu/departments/economics/wew/quotes/arms.html",
-"http://isil.org/resources/lit/guns-safer.html",
-"http://jewishworldreview.com/cols/williams012401.asp",
-"http://kevincraig.us/",
-"http://kevincraig.us/tyranny.htm",
-"http://kevinforcongress.blogspot.com/2010/06/i-repudiate-second-amendment.html",
-"http://laissezfairebooks.com/index.cfm?tid=21&aid=VFT&RequestTimeout=500",
-"http://libertysoft.com/liberty/features/69goushaw.html",
-"http://lp.org/issues/gun-rights.html",
-"http://lp.org/issues/platform/righkeep.html",
-"http://lp.org/press/archive.php?function=list&type=topic&topic=Right+to+Keep+and+Bear+Arms",
-"http://press-pubs.uchicago.edu/founders/documents/amendIIs10.html",
-"http://public-action.com/SkyWriter/WacoMuseum/war/page/w_i.html",
-"http://reason.com/0211/fe.jm.gun.shtml",
-"http://reason.com/bi/guns.html",
-"http://thenewamerican.com/focus/gun_control/index.htm",
-"http://vftonline.org/XianAnarch/cause/1776.htm",
-"http://vftonline.org/XianAnarch/pacifism/index.htm",
-"http://web.archive.org/web/20080610132136/http://www.jbs.org/node/6062",
-"http://worldnetdaily.com/news/article.asp?ARTICLE_ID=13236",
-"http://worldnetdaily.com/news/article.asp?ARTICLE_ID=16217",
-"http://youtube.com/profile?user=jpfo1776",
-"https://kevincraig.us/contents.htm",
-"https://kevincraig.us/liberty.htm",
-"https://kevincraig.us/oath.htm",
-"https://kevincraig.us/patents.htm"
+{
+"text": "2nd Amendment (right to bear arms)",
+"href": "http://www.cato.org/ccs/2nd-amendment.html"
+},
+{
+"text": "An Open Letter to High-School Students: Pay Attention to Government",
+"href": "http://www.fff.org/freedom/fd0703d.asp"
+},
+{
+"text": "Anti-Gun Lawsuits (21)",
+"href": "http://www.free-market.net/directorybytopic/gunlawsuits/"
+},
+{
+"text": "Anti-Gun Lawsuits: Stop or I'll sue!",
+"href": "http://www.free-market.net/spotlight/gunlawsuits/"
+},
+{
+"text": "Anti-gun lawsuits",
+"href": "http://www.free-market.net/spotlight/gunlawsuits/"
+},
+{
+"text": "Bart Frazier",
+"href": "http://www.fff.org/aboutUs/bios/bxf.asp"
+},
+{
+"text": "Benjamin Wittes",
+"href": "http://209.212.93.14/showBio.mhtml?pid=1025&sa=1"
+},
+{
+"text": "Commentaries on the Constitution 3:�� 1890-91",
+"href": "http://press-pubs.uchicago.edu/founders/documents/amendIIs10.html"
+},
+{
+"text": "Constitutional Ignorance",
+"href": "http://www.jewishworldreview.com/cols/williams012401.asp"
+},
+{
+"text": "Court upholds police pointing gun at lawful carrier",
+"href": "http://www.examiner.com/x-5619-Atlanta-Gun-Rights-Examiner~y2009m12d31-Court-upholds-police-pointing-gun-at-lawful-carriers"
+},
+{
+"text": "Domestic",
+"href": "https://kevincraig.us/contents.htm#Domestic"
+},
+{
+"text": "For Safety's Sake, Repeal All the Gun Laws",
+"href": "http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=13236"
+},
+{
+"text": "Foreign",
+"href": "https://kevincraig.us/contents.htm#Foreign"
+},
+{
+"text": "Government",
+"href": "https://kevincraig.us/contents.htm#Government"
+},
+{
+"text": "Gun Control",
+"href": "http://www.cato.org/pubs/handbook/hb107/hb107-23.pdf"
+},
+{
+"text": "Gun Control",
+"href": "http://www.fff.org/issues/guncontrol.asp"
+},
+{
+"text": "Gun Control",
+"href": "http://www.thenewamerican.com/focus/gun_control/index.htm"
+},
+{
+"text": "Gun Control and Self Defense",
+"href": "http://www.cato.org/research/con-st2.html#guncontrol"
+},
+{
+"text": "Gun Control�s Twisted Outcome",
+"href": "http://www.reason.com/0211/fe.jm.gun.shtml"
+},
+{
+"text": "Gun Laws",
+"href": "http://www.lp.org/issues/gun-rights.html"
+},
+{
+"text": "Gun Rights",
+"href": "http://www.frontpagemag.com/archives/gun_rights/index.htm"
+},
+{
+"text": "Gun Rights",
+"href": "http://www.laissezfairebooks.com/index.cfm?tid=21&aid=VFT&RequestTimeout=500"
+},
+{
+"text": "Gun Rights (268)",
+"href": "http://www.free-market.net/directorybytopic/guns/"
+},
+{
+"text": "Gun Shy",
+"href": "http://209.212.93.14/doc.mhtml?i=w070319&s=wittes031907"
+},
+{
+"text": "Guns",
+"href": "http://reason.com/bi/guns.html"
+},
+{
+"text": "Guns and Women & Minorities: The equalizer",
+"href": "http://www.free-market.net/spotlight/womenandguns/"
+},
+{
+"text": "Handguns Are a Girl's Best Friend",
+"href": "http://www.libertysoft.com/liberty/features/69goushaw.html"
+},
+{
+"text": "How to Sell Gun Rights",
+"href": "http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=16217"
+},
+{
+"text": "I repudiate the Second Amendment",
+"href": "http://kevinforcongress.blogspot.com/2010/06/i-repudiate-second-amendment.html"
+},
+{
+"text": "Intellectual Property",
+"href": "https://kevincraig.us/patents.htm"
+},
+{
+"text": "Jews for the Preservation of Firearms Ownership",
+"href": "http://www.youtube.com/profile?user=jpfo1776"
+},
+{
+"text": "Joseph Story",
+"href": "http://www.constitution.org/js/js_001.htm"
+},
+{
+"text": "Kevin Craig opposes all armed revolution",
+"href": "http://vftonline.org/XianAnarch/cause/1776.htm"
+},
+{
+"text": "Liberty Under God",
+"href": "https://kevincraig.us/liberty.htm"
+},
+{
+"text": "Minorities and guns",
+"href": "http://www.free-market.net/spotlight/minguns/"
+},
+{
+"text": "Morality and Culture",
+"href": "https://kevincraig.us/contents.htm#Culture"
+},
+{
+"text": "Murder by Gun Control",
+"href": "http://apll.freeyellow.com/elneil.html"
+},
+{
+"text": "Quotes from America's Founding Fathers",
+"href": "http://www.gmu.edu/departments/economics/wew/quotes/arms.html"
+},
+{
+"text": "Reading the Second Amendment",
+"href": "http://www.fee.org/PUBLICATIONS/THE-FREEMAN/article.asp?aid=3230"
+},
+{
+"text": "Restoring the Right to Bear Arms",
+"href": "http://www.cato.org/pubs/handbook/hb108/hb108-18.pdf"
+},
+{
+"text": "Right to Keep and Bear Arms",
+"href": "http://www.lp.org/press/archive.php?function=list&type=topic&topic=Right+to+Keep+and+Bear+Arms"
+},
+{
+"text": "Second Amendment",
+"href": "http://www.free-market.net/spotlight/emerson/"
+},
+{
+"text": "Seven Year Old Suspended for Drawing of Water Pistol",
+"href": "http://web.archive.org/web/20080610132136/http://www.jbs.org/node/6062"
+},
+{
+"text": "Shifting gun debate",
+"href": "http://www.free-market.net/spotlight/gunshift/"
+},
+{
+"text": "THE RIGHT TO KEEP AND BEAR ARMS",
+"href": "http://www.ca.lp.org/platform/trtkaba.html"
+},
+{
+"text": "THE RIGHT TO KEEP AND BEAR ARMS",
+"href": "http://www.lp.org/issues/platform/righkeep.html"
+},
+{
+"text": "The Brookings Institution",
+"href": "http://www.brookings.edu/opinions/2007/0319governance_wittes.aspx"
+},
+{
+"text": "The Future of Freedom Foundation",
+"href": "http://www.fff.org/"
+},
+{
+"text": "The Goal Is Freedom: Getting Rights Wrong",
+"href": "http://www.fee.org/in_brief/default.asp?id=2188"
+},
+{
+"text": "Will You Be Safer If Guns Are Banned?",
+"href": "http://www.isil.org/resources/lit/guns-safer.html"
+},
+{
+"text": "[no text]",
+"href": "http://kevincraig.us"
+},
+{
+"text": "a gun-control law",
+"href": "http://www.public-action.com/SkyWriter/WacoMuseum/war/page/w_i.html"
+},
+{
+"text": "an oath",
+"href": "https://kevincraig.us/oath.htm"
+},
+{
+"text": "pacifist",
+"href": "http://vftonline.org/XianAnarch/pacifism/index.htm"
+},
+{
+"text": "tyranny",
+"href": "http://kevincraig.us/tyranny.htm"
+}
 ]

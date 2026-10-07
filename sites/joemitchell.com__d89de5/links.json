@@ -1,15 +1,70 @@
 [
-"https://facebook.com/profile.php?id=61580346786195",
-"https://joemitchell.com/",
-"https://joemitchell.com/about",
-"https://joemitchell.com/issues",
-"https://joemitchell.com/news",
-"https://joemitchell.com/privacy-policy",
-"https://secure.winred.com/joe-mitchell-for-congress/donate-today/donate",
-"https://secure.winred.com/joe-mitchell-for-congress/donate-today/donate?amount=100",
-"https://secure.winred.com/joe-mitchell-for-congress/donate-today/donate?amount=1000",
-"https://secure.winred.com/joe-mitchell-for-congress/donate-today/donate?amount=25",
-"https://secure.winred.com/joe-mitchell-for-congress/donate-today/donate?amount=250",
-"https://secure.winred.com/joe-mitchell-for-congress/donate-today/donate?amount=3500",
-"https://x.com/joemitchelliowa"
+{
+"text": "$100",
+"href": "https://secure.winred.com/joe-mitchell-for-congress/donate-today/donate?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/joe-mitchell-for-congress/donate-today/donate?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/joe-mitchell-for-congress/donate-today/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/joe-mitchell-for-congress/donate-today/donate?amount=250"
+},
+{
+"text": "$3500",
+"href": "https://secure.winred.com/joe-mitchell-for-congress/donate-today/donate?amount=3500"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/joe-mitchell-for-congress/donate-today/donate"
+},
+{
+"text": "GIVE $25 TO SUPPORT JOE'S CAMPAIGN >>",
+"href": "https://secure.winred.com/joe-mitchell-for-congress/donate-today/donate"
+},
+{
+"text": "Issues",
+"href": "https://www.joemitchell.com/issues"
+},
+{
+"text": "Learn More ",
+"href": "https://www.joemitchell.com/about"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.joemitchell.com/about"
+},
+{
+"text": "Meet Joe ",
+"href": "https://www.joemitchell.com/about"
+},
+{
+"text": "News",
+"href": "https://www.joemitchell.com/news"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/joe-mitchell-for-congress/donate-today/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.joemitchell.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://www.joemitchell.com/"
+},
+{
+"text": "",
+"href": "https://x.com/joemitchelliowa"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/profile.php?id=61580346786195"
+}
 ]

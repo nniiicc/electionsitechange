@@ -1,11 +1,8 @@
-Bill Sayre
-Radio Host, Vermont Political Commentator
-Bill Sayre is a prominent Vermont conservative commentator, economist, and business leader who is widely known as the host of Common Sense Radio on The Notch FM and formally was with WDEV, a public affairs program presented by the Ethan Allen Institute.
+0 Skip to Content Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate Bill Sayre Radio Host, Vermont Political Commentator Bill Sayre is a prominent Vermont conservative commentator, economist, and business leader who is widely known as the host of Common Sense Radio on The Notch FM and formally was with WDEV, a public affairs program presented by the Ethan Allen Institute.
 A former Federal Reserve economist, Sayre has spent decades advocating for free-market principles, economic affordability, and fiscal responsibility in Vermont.
 Beyond his media presence, he has deep roots in the state's working landscape as a long-time partner in the A.
 Johnson Company, a historic lumber mill and timberland management firm based in Bristol, and has served as past chairman of the Associated Industries of Vermont and as a board member for the Vermont Woodlands Association.
-TRANSCRIPT
-It's mighty good to be here with so many friends and supporters—parents who believe in common sense.
+TRANSCRIPT It's mighty good to be here with so many friends and supporters—parents who believe in common sense.
 All of us are together this evening on such a beautiful Vermont evening, in the sunshine.
 A few weeks ago, I got a call from someone that perhaps most of you know...
 Coach Rene.
@@ -29,5 +26,7 @@ We are in a purple state at best, somewhat blue, or perhaps deep blue.
 That's not the end of the world; it just means we have to work a little longer and work a little harder to turn this around and get people thinking about what it takes to sustain a free society.
 We can do it here in Vermont, and Javen can help us do it.
 Thank you very much.
-Bill Sayre
-Tuesday, May 12th, 2026, Javen Sears’ Campaign Launch Party
+Bill Sayre Tuesday, May 12th, 2026, Javen Sears’ Campaign Launch Party S I G N U P UPDATES By providing your mobile number, you consent to receive periodic campaign updates from Javen Sears for Vermont State Senate.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Donate

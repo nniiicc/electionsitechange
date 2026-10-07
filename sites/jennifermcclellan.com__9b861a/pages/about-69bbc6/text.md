@@ -1,5 +1,5 @@
-Meet Jenn
-Congresswoman Jennifer McClellan has dedicated her life to serving the people of Virginia and ensuring that all Virginians have their voices heard in government.
+Chip in Today Donate anything you can, we will need all the help on this campaign to fight for working people. $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Close Facebook Instagram YouTube Twitter Threads Jennifer McClellan for Congress – Menu Meet Jennifer Issues Donate Meet Jenn Congresswoman Jennifer McClellan has dedicated her life to serving the people of Virginia and ensuring that all Virginians have their voices heard in government.
 Congresswoman McClellan has served the greater Richmond area in elected office for over 20 years, first in the Virginia General Assembly and now in Congress.
 She has earned a reputation as a legislative champion who gets results and strong voice for all Virginians.
 In the General Assembly, McClellan passed over 370 pieces of legislation, including landmark bills to protect and expand voting rights, combat climate change, preserve reproductive health care, and enhance workers’ protections and labor rights.
@@ -12,3 +12,8 @@ At a young age, McClellan dedicated herself to ensuring government was that forc
 Congresswoman McClellan has channeled those values into her commitment for progress, equity, and justice in the Commonwealth and beyond.
 She has implemented those values as a leader in the community, the Democratic Party, and as a legislator.
 Congresswoman McClellan lives in Richmond with her husband, David Mills, and their two children.
+Endorse Sign up as a supporter of Rep.
+McClellan’s grassroots-powered campaign.
+Thank you for your support and endorsement.
+Contribute Will you chip in to support our grassroots campaign today? $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Jennifer McClellan for Congress – Meet Jennifer Issues Endorsements Donate Follow Us Facebook Instagram YouTube Twitter Threads Paid for by McClellan for Congress Contact Privacy Policy Made with Middle Seat

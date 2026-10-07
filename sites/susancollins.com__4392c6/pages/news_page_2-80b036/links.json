@@ -1,38 +1,166 @@
 [
-"https://facebook.com/collins4senator",
-"https://instagram.com/susancollinsforsenate",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=100&web_id=susancollins_news_donatebar100",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=1000&web_id=susancollins_news_donatebar1000",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=25&web_id=susancollins_news_donatebar25",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=50&web_id=susancollins_news_donatebar50",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=500&web_id=susancollins_news_donatebar500",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?web_id=susancollins_news_donatebar",
-"https://secure.winred.com/susan-collins/moose-wink",
-"https://susancollins.com/",
-"https://susancollins.com/about",
-"https://susancollins.com/faq",
-"https://susancollins.com/get-involved",
-"https://susancollins.com/get-involved/campaign-chairs",
-"https://susancollins.com/get-involved/coalitions",
-"https://susancollins.com/letter-to-the-editor/im-supporting-susan-collins-due-to-her-hard-work",
-"https://susancollins.com/media-kit",
-"https://susancollins.com/news",
-"https://susancollins.com/news/collins-attends-blue-mass-in-lewiston",
-"https://susancollins.com/news/collins-attends-lewiston-blue-mass-continuing-decades-of-support-for-law-enforcement",
-"https://susancollins.com/news/maine-ems-programs-awarded-combined-600k-in-federal-funding",
-"https://susancollins.com/news/new-balance-gets-military-contract-for-athletic-shoes-made-in-skowhegan",
-"https://susancollins.com/news/page/22",
-"https://susancollins.com/news/page/3",
-"https://susancollins.com/news/page/4",
-"https://susancollins.com/op-ed/replacing-a-respected-effective-senator-like-susan-collins-will-hurt-maine",
-"https://susancollins.com/op-ed/susan-collins-seniority-pays-off-for-maine",
-"https://susancollins.com/press-release/photo-release-team-collins-goes-apple-picking",
-"https://susancollins.com/privacy-policy",
-"https://susancollins.com/store",
-"https://susancollins.com/terms-and-conditions",
-"https://susancollins.com/track-record",
-"https://susancollins.com/vote",
-"https://x.com/SenSusanCollins",
-"https://youtube.com/@susancollins4senator"
+{
+"text": "$100",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=100&web_id=susancollins_news_donatebar100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=1000&web_id=susancollins_news_donatebar1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=25&web_id=susancollins_news_donatebar25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=50&web_id=susancollins_news_donatebar50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=500&web_id=susancollins_news_donatebar500"
+},
+{
+"text": "1",
+"href": "https://susancollins.com/news/"
+},
+{
+"text": "22",
+"href": "https://susancollins.com/news/page/22/"
+},
+{
+"text": "3",
+"href": "https://susancollins.com/news/page/3/"
+},
+{
+"text": "4",
+"href": "https://susancollins.com/news/page/4/"
+},
+{
+"text": "About",
+"href": "https://susancollins.com/about/"
+},
+{
+"text": "Campaign Chairs",
+"href": "https://susancollins.com/get-involved/campaign-chairs/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026"
+},
+{
+"text": "FAQs",
+"href": "https://susancollins.com/faq/"
+},
+{
+"text": "Get Involved",
+"href": "https://susancollins.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://susancollins.com/"
+},
+{
+"text": "Join a Coalition",
+"href": "https://susancollins.com/get-involved/coalitions/"
+},
+{
+"text": "Media Kit",
+"href": "https://susancollins.com/media-kit/"
+},
+{
+"text": "News",
+"href": "https://susancollins.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?web_id=susancollins_news_donatebar"
+},
+{
+"text": "Privacy Policy",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Read MoreSeptember 20, 2026Collins attends ‘Blue Mass’ in LewistonNews",
+"href": "https://susancollins.com/news/collins-attends-blue-mass-in-lewiston/"
+},
+{
+"text": "Read MoreSeptember 20, 2026PHOTO RELEASE: Team Collins Goes Apple PickingPress Release",
+"href": "https://susancollins.com/press-release/photo-release-team-collins-goes-apple-picking/"
+},
+{
+"text": "Read MoreSeptember 21, 2026Collins Attends Lewiston Blue Mass, Continuing Decades of Support for Law EnforcementNews",
+"href": "https://susancollins.com/news/collins-attends-lewiston-blue-mass-continuing-decades-of-support-for-law-enforcement/"
+},
+{
+"text": "Read MoreSeptember 21, 2026I’m supporting Susan Collins due to her hard workLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/im-supporting-susan-collins-due-to-her-hard-work/"
+},
+{
+"text": "Read MoreSeptember 21, 2026Maine EMS Programs Awarded Combined $600k in Federal FundingNews",
+"href": "https://susancollins.com/news/maine-ems-programs-awarded-combined-600k-in-federal-funding/"
+},
+{
+"text": "Read MoreSeptember 21, 2026New Balance gets military contract for athletic shoes made in SkowheganNews",
+"href": "https://susancollins.com/news/new-balance-gets-military-contract-for-athletic-shoes-made-in-skowhegan/"
+},
+{
+"text": "Read MoreSeptember 21, 2026Susan Collins’ seniority pays off for MaineOp Ed",
+"href": "https://susancollins.com/op-ed/susan-collins-seniority-pays-off-for-maine/"
+},
+{
+"text": "Read MoreSeptember 22, 2026Susan Collins is the best choice to lead Maine in troubled timesLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/susan-collins-is-the-best-choice-to-lead-maine-in-troubled-times/"
+},
+{
+"text": "Store",
+"href": "https://susancollins.com/store/"
+},
+{
+"text": "Terms & conditions / privacy policy apply",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://susancollins.com/terms-and-conditions/"
+},
+{
+"text": "Track Record",
+"href": "https://susancollins.com/track-record/"
+},
+{
+"text": "Vote",
+"href": "https://susancollins.com/vote/"
+},
+{
+"text": "[image: Collins for Senator]",
+"href": "https://susancollins.com"
+},
+{
+"text": "[image: TV Starter 3.0]",
+"href": "https://secure.winred.com/susan-collins/moose-wink"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/collins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/susancollinsforsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@susancollins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SenSusanCollins"
+},
+{
+"text": "←",
+"href": "https://susancollins.com/news/"
+},
+{
+"text": "→",
+"href": "https://susancollins.com/news/page/3/"
+}
 ]

@@ -1,6 +1,6 @@
-U.S.
+Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Campaign News May 19, 2022 U.S. energy chief heading to Connecticut to push nuclear, wind power as alternatives to carbon-based energy U.S.
 Energy Secretary Jennifer Granholm is scheduled Friday to visit Connecticut to highlight federal and state efforts to advance nuclear and wind power alternatives to carbon-based energy and tout the federal infrastructure bill pushed by President Joe Biden.
-Energy prices across the board — at the gas pump and heating homes and businesses — are skyrocketing, adding to the fastest pace of inflation in more than 40 years and complicating efforts by Democrats to hold or expand their slim congressional majorities in November elections.
+Energy prices across the board — at the gas pump and heating homes and businesses — are skyrocketing , adding to the fastest pace of inflation in more than 40 years and complicating efforts by Democrats to hold or expand their slim congressional majorities in November elections.
 Granholm, a former Democratic governor of Michigan, will be joined by several members of Connecticut’s all-Democratic congressional delegation.
 The Department of Energy said her visit will underscore collaboration among the public and private sectors to accelerate America’s clean energy initiatives and decarbonize the U.S. economy.
 Granholm is scheduled to tour a Department of Energy facility in Storrs, the Millstone Nuclear Power Station in Waterford and State Pier in New London.
@@ -14,3 +14,4 @@ She will end her visit at the State Pier with Blumenthal and U.S.
 Sen.
 Chris Murphy, D-Conn. Ørsted, a Danish wind energy company, and Eversource Energy are partners in a wind energy program using the State Pier to assemble turbines.
 Eversource said recently it’s considering selling its wind power stake to capitalize on valuable offshore leases.
+Read more: https://www.courant.com/news/connecticut/hc-news-energy-secretary-connecticut-visit-20220519-6rrrhxh4sjamlbu6ukftux6mdm-story.html Courtney for Congress PO Box 1372 Vernon CT 06066 PH: (860) 885-4052 Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Paid for and Authorized by Joe Courtney for Congress

@@ -1,9 +1,42 @@
 [
-"https://marksylvia.com/",
-"https://marksylvia.com/about-mark",
-"https://marksylvia.com/events",
-"https://marksylvia.com/join-team-sylvia",
-"https://marksylvia.com/news-in-the-10th",
-"https://secure.actblue.com/donate/2026marksylvia",
-"https://secure.actblue.com/donate/mds26clamboil"
+{
+"text": "About Mark",
+"href": "https://www.marksylvia.com/about-mark"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/2026marksylvia"
+},
+{
+"text": "Events",
+"href": "https://www.marksylvia.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.marksylvia.com"
+},
+{
+"text": "Join Team Sylvia",
+"href": "https://www.marksylvia.com/join-team-sylvia"
+},
+{
+"text": "MARK SYLVIA",
+"href": "https://www.marksylvia.com"
+},
+{
+"text": "News in the 10th",
+"href": "https://www.marksylvia.com/news-in-the-10th"
+},
+{
+"text": "RE-ELECT",
+"href": "https://www.marksylvia.com"
+},
+{
+"text": "[image: MDS 2nd Clamfest (1).png]",
+"href": "https://secure.actblue.com/donate/mds26clamboil"
+},
+{
+"text": "sylvia4rep@gmail.com",
+"href": "mailto:sylvia4rep@gmail.com"
+}
 ]

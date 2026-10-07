@@ -1,8 +1,34 @@
 [
-"https://donate.stripe.com/14A4gs8QDe2y4Lbc2pbsc05",
-"https://ronrule.com/",
-"https://ronrule.com/about",
-"https://ronrule.com/contact",
-"https://ronrule.com/donate",
-"https://ronrule.com/issues"
+{
+"text": "$#",
+"href": "https://ronrule.com/donate"
+},
+{
+"text": "About Ron",
+"href": "https://ronrule.com/about"
+},
+{
+"text": "Contact",
+"href": "https://ronrule.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://ronrule.com/donate"
+},
+{
+"text": "Home",
+"href": "https://ronrule.com/"
+},
+{
+"text": "Issues",
+"href": "https://ronrule.com/issues"
+},
+{
+"text": "Other Amount",
+"href": "https://ronrule.com/donate"
+},
+{
+"text": "Ron Rule For NH State House · Sullivan District 4",
+"href": "https://ronrule.com/"
+}
 ]

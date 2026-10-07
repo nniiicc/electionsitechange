@@ -1,7 +1,12 @@
 {
  "description": "Beaufort County news from Rep. Bill Herbkersman, Republican, District 118",
  "final_url": "https://repbillherbkersman.com/news",
+ "fingerprint": "a54aabe428d0a22045fd326dac6c4459d622b5cd",
+ "format": 3,
  "paid_for_by": "Paid for by Herbkersman for the House Powered by Home Legislation News Issues DONATE Contact Us",
  "title": "Bill Herbkersman - Bill Herbkersman, Beaufort County News, Republican",
- "years_mentioned": []
+ "years_mentioned": [
+  "2023",
+  "2024"
+ ]
 }

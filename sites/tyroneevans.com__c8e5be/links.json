@@ -1,16 +1,74 @@
 [
-"https://onlinecandidate.com/",
-"https://tyroneevans.com/",
-"https://tyroneevans.com/about.html",
-"https://tyroneevans.com/cgi-bin/privacy.cgi",
-"https://tyroneevans.com/cgi-bin/terms.cgi",
-"https://tyroneevans.com/contact.html",
-"https://tyroneevans.com/volunteer.html",
-"https://zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128",
-"https://zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128?amount=100",
-"https://zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128?amount=25",
-"https://zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128?amount=250",
-"https://zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128?amount=50",
-"https://zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128?amount=500",
-"https://zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128?amount=75"
+{
+"text": "$100",
+"href": "https://www.zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128?amount=100"
+},
+{
+"text": "$25",
+"href": "https://www.zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128?amount=25"
+},
+{
+"text": "$250",
+"href": "https://www.zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128?amount=250"
+},
+{
+"text": "$50",
+"href": "https://www.zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128?amount=50"
+},
+{
+"text": "$500",
+"href": "https://www.zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128?amount=500"
+},
+{
+"text": "$75",
+"href": "https://www.zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128?amount=75"
+},
+{
+"text": "About",
+"href": "https://www.tyroneevans.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://www.tyroneevans.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://www.zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128"
+},
+{
+"text": "Home",
+"href": "https://www.tyroneevans.com/"
+},
+{
+"text": "OTHER",
+"href": "https://www.zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128"
+},
+{
+"text": "OnlineCandidate.com",
+"href": "https://www.onlinecandidate.com/"
+},
+{
+"text": "Privacy",
+"href": "https://www.tyroneevans.com/cgi-bin/privacy.cgi"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128"
+},
+{
+"text": "Terms",
+"href": "https://www.tyroneevans.com/cgi-bin/terms.cgi"
+},
+{
+"text": "Top",
+"href": "javascript:void(0);"
+},
+{
+"text": "Volunteer",
+"href": "https://www.tyroneevans.com/volunteer.html"
+},
+{
+"text": "[image]",
+"href": "https://tyroneevans.com"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Carrie Truitt Campaign Events",
  "final_url": "https://votetruittforsenate.com/Events?range=2026-8",
+ "fingerprint": "6a0816d584354f04d779021926cb2be56d33d96b",
+ "format": 3,
  "paid_for_by": "Paid for by Carrie Gribbins Truitt, PO Box 463, Lebanon, KY 40033 Powered by CampaignPartner",
  "title": "Carrie Truitt Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

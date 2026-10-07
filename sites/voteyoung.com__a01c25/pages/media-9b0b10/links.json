@@ -1,22 +1,90 @@
 [
-"http://facebook.com/martyyoungforcongress",
-"http://instagram.com/",
-"http://instagram.com/youngforcongress",
-"https://facebook.com/",
-"https://twitter.com/",
-"https://voteyoung.com/",
-"https://voteyoung.com/conversations-with-constituents",
-"https://voteyoung.com/copy-of-openchair",
-"https://voteyoung.com/donate",
-"https://voteyoung.com/events",
-"https://voteyoung.com/fellowship-program",
-"https://voteyoung.com/fix-consumer-debt",
-"https://voteyoung.com/fix-healthcare",
-"https://voteyoung.com/fix-housing",
-"https://voteyoung.com/get-updates",
-"https://voteyoung.com/media",
-"https://voteyoung.com/priorities",
-"https://voteyoung.com/privacy-and-terms",
-"https://voteyoung.com/volunteer",
-"https://x.com/votemartyyoung"
+{
+"text": "CONVERSATIONS WITH CONSTITUENTS",
+"href": "https://www.voteyoung.com/conversations-with-constituents"
+},
+{
+"text": "Connect with Marty",
+"href": "http://instagram.com/youngforcongress"
+},
+{
+"text": "Connect with Marty",
+"href": "http://www.facebook.com/martyyoungforcongress"
+},
+{
+"text": "Connect with Marty",
+"href": "https://x.com/votemartyyoung"
+},
+{
+"text": "DONATE",
+"href": "https://www.voteyoung.com/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://www.voteyoung.com/events"
+},
+{
+"text": "FELLOWSHIP PROGRAM",
+"href": "https://www.voteyoung.com/fellowship-program"
+},
+{
+"text": "FIX HEALTHCARE",
+"href": "https://www.voteyoung.com/fix-healthcare"
+},
+{
+"text": "FIX HOUSING",
+"href": "https://www.voteyoung.com/fix-housing"
+},
+{
+"text": "FIX PERSONAL DEBT",
+"href": "https://www.voteyoung.com/fix-consumer-debt"
+},
+{
+"text": "HOME",
+"href": "https://www.voteyoung.com/"
+},
+{
+"text": "MEDIA",
+"href": "https://www.voteyoung.com/media"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.voteyoung.com/priorities"
+},
+{
+"text": "PRIVACY & TERMS",
+"href": "https://www.voteyoung.com/privacy-and-terms"
+},
+{
+"text": "THE OPEN CHAIR",
+"href": "https://www.voteyoung.com/copy-of-openchair"
+},
+{
+"text": "UPDATES",
+"href": "https://www.voteyoung.com/get-updates"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.voteyoung.com/volunteer"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.voteyoung.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/"
+},
+{
+"text": "info@voteyoung.com",
+"href": "mailto:info@voteyoung.com"
+}
 ]

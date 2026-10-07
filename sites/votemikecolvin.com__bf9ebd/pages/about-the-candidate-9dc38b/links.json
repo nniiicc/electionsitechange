@@ -1,11 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61555289498557&mibextid=LQQJ4d",
-"https://godaddy.com/websites/web-design",
-"https://instagram.com/votecolvinnchouse",
-"https://secure.actblue.com/donate/colvinnchouse",
-"https://votemikecolvin.com/",
-"https://votemikecolvin.com/about-the-candidate",
-"https://votemikecolvin.com/contact-us",
-"https://votemikecolvin.com/platform-issues",
-"https://x.com/mikecolvinfornc?s=21&t=uJN6A6qpADx-7baWVPLOdw+"
+{
+"text": "About The Candidate",
+"href": "https://votemikecolvin.com/about-the-candidate/"
+},
+{
+"text": "Contact Us",
+"href": "https://votemikecolvin.com/contact-us/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/colvinnchouse/"
+},
+{
+"text": "Get in Touch",
+"href": "https://votemikecolvin.com/contact-us"
+},
+{
+"text": "Home",
+"href": "https://votemikecolvin.com/"
+},
+{
+"text": "Platform Issues",
+"href": "https://votemikecolvin.com/platform-issues/"
+},
+{
+"text": "[image: A blue sign with white lettering that says \" colvin nc house \".]",
+"href": "https://votemikecolvin.com"
+},
+{
+"text": "[image: GoDaddy Web Design]",
+"href": "https://www.godaddy.com/websites/web-design"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61555289498557&mibextid=LQQJ4d"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://instagram.com/votecolvinnchouse"
+},
+{
+"text": "[tooltip: X (Twitter)]",
+"href": "https://x.com/mikecolvinfornc?s=21&t=uJN6A6qpADx-7baWVPLOdw+"
+}
 ]

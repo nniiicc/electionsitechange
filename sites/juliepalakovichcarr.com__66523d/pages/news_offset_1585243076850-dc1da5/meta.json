@@ -1,11 +1,20 @@
 {
  "description": "News",
  "final_url": "https://www.juliepalakovichcarr.com/news?offset=1585243076850",
- "paid_for_by": null,
- "title": "News \u2014 Julie Palakovich Carr",
+ "fingerprint": "004e04a19ba67d0689065fe642d667797b3ae5d5",
+ "format": 3,
+ "paid_for_by": "sponsored by Julie Palakovich Carr",
+ "title": "News — Julie Palakovich Carr",
  "years_mentioned": [
   "2010",
+  "2013",
   "2016",
-  "2020"
+  "2017",
+  "2018",
+  "2019",
+  "2020",
+  "2021",
+  "2025",
+  "2030"
  ]
 }

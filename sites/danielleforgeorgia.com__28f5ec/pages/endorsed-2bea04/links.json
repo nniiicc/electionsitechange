@@ -1,28 +1,114 @@
 [
-"https://danielleforgeorgia.com/",
-"https://danielleforgeorgia.com/about",
-"https://danielleforgeorgia.com/contact-us",
-"https://danielleforgeorgia.com/endorsed",
-"https://danielleforgeorgia.com/gallery",
-"https://danielleforgeorgia.com/policy",
-"https://democraticredistricting.com/",
-"https://dlcc.org/",
-"https://facebook.com/danilelleforgahd44",
-"https://gawinlist.com/",
-"https://georgiaequality.org/",
-"https://georgiamajority.org/about",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://inseparable.us/",
-"https://instagram.com/daniellebell4ga",
-"https://linkedin.com/in/danielle-bell-9a818759",
-"https://mobilize.us/cherokeecountydemocraticcommittee/event/999858",
-"https://runforsomething.net/",
-"https://secure.actblue.com/donate/daniellebell2026",
-"https://secure.actblue.com/donate/webpopup",
-"https://thirdact.org/georgia/about",
-"https://tiktok.com/@daniellebell4ga",
-"https://votecommongood.com/what-and-why",
-"https://votemamapac.org/",
-"https://x.com/danielle4gahd44",
-"https://youtube.com/channel/UCfPOccacrm_UIZNUgeVSK-A"
+{
+"text": "About",
+"href": "https://danielleforgeorgia.com/about"
+},
+{
+"text": "Contact us",
+"href": "https://danielleforgeorgia.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/daniellebell2026"
+},
+{
+"text": "Endorsed",
+"href": "https://danielleforgeorgia.com/endorsed"
+},
+{
+"text": "Gallery",
+"href": "https://danielleforgeorgia.com/gallery"
+},
+{
+"text": "Give",
+"href": "https://secure.actblue.com/donate/webpopup"
+},
+{
+"text": "Home",
+"href": "https://danielleforgeorgia.com/"
+},
+{
+"text": "Policy",
+"href": "https://danielleforgeorgia.com/policy"
+},
+{
+"text": "Volunteer!",
+"href": "https://www.mobilize.us/cherokeecountydemocraticcommittee/event/999858/"
+},
+{
+"text": "[image]",
+"href": "https://danielleforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/danilelleforgahd44"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/daniellebell4ga/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/danielle-bell-9a818759/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@daniellebell4ga"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/danielle4gahd44"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCfPOccacrm_UIZNUgeVSK-A"
+},
+{
+"text": "danielle@danielleforgeorgia.com",
+"href": "mailto:danielle@danielleforgeorgia.com"
+},
+{
+"text": "https://democraticredistricting.com",
+"href": "https://democraticredistricting.com"
+},
+{
+"text": "https://georgiaequality.org",
+"href": "https://georgiaequality.org"
+},
+{
+"text": "https://runforsomething.net",
+"href": "https://runforsomething.net"
+},
+{
+"text": "https://thirdact.org/georgia/about/",
+"href": "https://thirdact.org/georgia/about/"
+},
+{
+"text": "https://votemamapac.org",
+"href": "https://votemamapac.org"
+},
+{
+"text": "https://www.dlcc.org",
+"href": "https://www.dlcc.org"
+},
+{
+"text": "https://www.gawinlist.com/",
+"href": "https://www.gawinlist.com/"
+},
+{
+"text": "https://www.georgiamajority.org/about",
+"href": "https://www.georgiamajority.org/about"
+},
+{
+"text": "https://www.inseparable.us/",
+"href": "https://www.inseparable.us/"
+},
+{
+"text": "https://www.votecommongood.com/what-and-why/",
+"href": "https://www.votecommongood.com/what-and-why/"
+}
 ]

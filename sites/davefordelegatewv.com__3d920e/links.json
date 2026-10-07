@@ -1,12 +1,54 @@
 [
-"https://apps.sos.wv.gov/Elections/Voter/AmIRegisteredToVote",
-"https://davefordelegatewv.com/",
-"https://davefordelegatewv.com/cart",
-"https://davefordelegatewv.com/donate",
-"https://davefordelegatewv.com/events",
-"https://davefordelegatewv.com/join-the-winning-team",
-"https://davefordelegatewv.com/jointhewinningteam",
-"https://facebook.com/profile.php?id=61555372478427",
-"https://instagram.com/cantrellforwv",
-"https://paypal.com/donate?hosted_button_id=8PDSH8G2J9J4A"
+{
+"text": "0",
+"href": "https://www.davefordelegatewv.com/cart"
+},
+{
+"text": "CHECK YOUR",
+"href": "https://apps.sos.wv.gov/Elections/Voter/AmIRegisteredToVote"
+},
+{
+"text": "DONATE",
+"href": "https://www.davefordelegatewv.com/donate"
+},
+{
+"text": "DONATE",
+"href": "https://www.paypal.com/donate/?hosted_button_id=8PDSH8G2J9J4A"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=61555372478427"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://www.instagram.com/cantrellforwv/"
+},
+{
+"text": "JOIN THE WINNING TEAM",
+"href": "https://www.davefordelegatewv.com/jointhewinningteam"
+},
+{
+"text": "LET'S GO",
+"href": "https://www.davefordelegatewv.com/jointhewinningteam"
+},
+{
+"text": "VOTER REGISTRATION",
+"href": "https://apps.sos.wv.gov/Elections/Voter/AmIRegisteredToVote"
+},
+{
+"text": "[image: Dave for Delegate]",
+"href": "https://www.davefordelegatewv.com/"
+},
+{
+"text": "→ Donate",
+"href": "https://www.davefordelegatewv.com/donate"
+},
+{
+"text": "→ Events",
+"href": "https://www.davefordelegatewv.com/events"
+},
+{
+"text": "→ Join the Winning Team",
+"href": "https://www.davefordelegatewv.com/join-the-winning-team"
+}
 ]

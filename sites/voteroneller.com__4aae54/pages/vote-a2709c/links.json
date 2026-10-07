@@ -1,27 +1,106 @@
 [
-"https://absentee.vote.org/",
-"https://campaignpartner.com/",
-"https://facebook.com/VoteRonEller",
-"https://instagram.com/voteroneller",
-"https://linkedin.com/in/ron-eller-912008116",
-"https://register.vote.org/",
-"https://sos.ms.gov/index.php/yall-vote",
-"https://threads.net/@voteroneller",
-"https://tiktok.com/@ronellerforcongress",
-"https://verify.vote.org/",
-"https://voteroneller.com/",
-"https://voteroneller.com/contact",
-"https://voteroneller.com/contribute",
-"https://voteroneller.com/home",
-"https://voteroneller.com/issues",
-"https://voteroneller.com/meet_ron",
-"https://voteroneller.com/news",
-"https://voteroneller.com/photos",
-"https://voteroneller.com/swag",
-"https://voteroneller.com/view-endorsements",
-"https://voteroneller.com/volunteer",
-"https://voteroneller.com/vote",
-"https://voteroneller.com/yard-sign",
-"https://x.com/VoteRon",
-"https://youtube.com/watch?v=f2NjBBRSP6g"
+{
+"text": ".",
+"href": "https://www.sos.ms.gov/index.php/yall-vote"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.voteroneller.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.voteroneller.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteroneller.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.voteroneller.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.voteroneller.com/issues"
+},
+{
+"text": "Meet Ron",
+"href": "https://www.voteroneller.com/meet_ron"
+},
+{
+"text": "News",
+"href": "https://www.voteroneller.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.voteroneller.com/photos"
+},
+{
+"text": "Register to Vote",
+"href": "https://register.vote.org/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://absentee.vote.org/"
+},
+{
+"text": "Swag",
+"href": "https://www.voteroneller.com/swag"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://verify.vote.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteroneller.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.voteroneller.com/vote"
+},
+{
+"text": "Y'all Vote, courtesy of Secretary of State Michael Watson",
+"href": "https://www.sos.ms.gov/index.php/yall-vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.voteroneller.com/yard-sign"
+},
+{
+"text": "[image: Ron Eller for Congress]",
+"href": "https://www.voteroneller.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteRonEller"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/voteroneller/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/ron-eller-912008116/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@voteroneller"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ronellerforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=f2NjBBRSP6g"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VoteRon"
+}
 ]

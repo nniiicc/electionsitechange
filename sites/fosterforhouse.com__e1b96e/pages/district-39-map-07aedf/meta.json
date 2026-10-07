@@ -1,9 +1,9 @@
 {
  "description": "Explore the District 39 Map to learn about Neal Foster&#39;s campaign for State House and important election information.",
  "final_url": "https://fosterforhouse.com/district-39-map",
- "paid_for_by": null,
+ "fingerprint": "e7dfef4dbecdca900c6b598aaf066fd54358e2e5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "District 39 Map",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

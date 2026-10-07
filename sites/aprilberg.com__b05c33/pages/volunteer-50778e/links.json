@@ -1,16 +1,62 @@
 [
-"https://aprilberg.com/",
-"https://aprilberg.com/about-the-44th",
-"https://aprilberg.com/calendar",
-"https://aprilberg.com/copy-of-meet-april",
-"https://aprilberg.com/endorsements",
-"https://aprilberg.com/espanol",
-"https://aprilberg.com/kitchenconversations",
-"https://aprilberg.com/meet-april",
-"https://aprilberg.com/platform",
-"https://aprilberg.com/volunteer",
-"https://instagram.com/repberg",
-"https://secure.ngpvan.com/dQlSvlcWy0iXLS5RHbkBlQ2",
-"https://twitter.com/electapril",
-"https://youtube.com/channel/UCpR2qwp7mcWQUAqcqGkw1Ig"
+{
+"text": "About the 44th",
+"href": "https://www.aprilberg.com/about-the-44th"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.aprilberg.com/copy-of-meet-april"
+},
+{
+"text": "Calendar",
+"href": "https://www.aprilberg.com/calendar"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/dQlSvlcWy0iXLS5RHbkBlQ2"
+},
+{
+"text": "En español",
+"href": "https://www.aprilberg.com/espanol"
+},
+{
+"text": "Endorsements",
+"href": "https://www.aprilberg.com/endorsements"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/repberg"
+},
+{
+"text": "Kitchen Conversations",
+"href": "https://www.aprilberg.com/kitchenconversations"
+},
+{
+"text": "Meet April",
+"href": "https://www.aprilberg.com/meet-april"
+},
+{
+"text": "Platform",
+"href": "https://www.aprilberg.com/platform"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/electapril"
+},
+{
+"text": "Volunteer",
+"href": "https://www.aprilberg.com/volunteer"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/channel/UCpR2qwp7mcWQUAqcqGkw1Ig"
+},
+{
+"text": "[image: BergLogo_UpdatedWhite.png]",
+"href": "https://www.aprilberg.com"
+},
+{
+"text": "info@aprilberg.com",
+"href": "mailto:info@aprilberg.com"
+}
 ]

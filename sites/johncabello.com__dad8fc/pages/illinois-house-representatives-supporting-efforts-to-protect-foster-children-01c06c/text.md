@@ -1,7 +1,6 @@
-ROCKFORD (WREX) –
-Lawmakers want to keep foster children out of foster homes longer if they lose their license.
+Facebook Twitter Contact Donate About Media Videos Recent Posts Endorsements Events Get Involved Voter Info Voter Registration Select Page Illinois House Representatives supporting efforts to protect foster children by | Jun 23, 2016 | Media | ROCKFORD (WREX) – Lawmakers want to keep foster children out of foster homes longer if they lose their license.
 “We’re talking about the most vulnerable kids in the state of Illinois,” Marissa Allen said.
-Allen works with Our Children’s Homestead, a foster care and adoption agency that serves about 150 kids in Northern Illinois.
+Allen works with Our Children’s Homestead , a foster care and adoption agency that serves about 150 kids in Northern Illinois.
 She said foster care agencies must make sure children are well taken care of by safe families.
 “We’re talking about kids who have been traumatized abused and neglected, and we want to make sure, and it is our responsibility when the state steps in as their guardians to make sure they are safe,” Allen said.
 Representative John Cabello said abuse is something he saw frequently in law enforcement, but lawmakers want to end it.
@@ -13,6 +12,6 @@ The law also allows a guardian or an attorney representing a child to request in
 Our Children’s Homestead is contracted through Department of Children and Family Services to provide care for foster children 10 and older diagnosed with a disability.
 Allen said its not an easy process to revoke a foster home license which is why she does not think it would change their process.
 “Once a foster home license is revoked I have not had a foster home that has approached us for re-licensing,” Allen said.
-“Our agency would be very very cautious, regardless of any bill that is in place right now, re-licensing a foster home that had their license revoked or even relinquished it voluntarily if there were some significant safety issues in that home.”
-The bill will next go before the Senate.
-http://www.wrex.com/story/31729614/2016/04/14/illinois-house-representatives-supporting-efforts-to-protect-foster-children
+“Our agency would be very very cautious, regardless of any bill that is in place right now, re-licensing a foster home that had their license revoked or even relinquished it voluntarily if there were some significant safety issues in that home.” The bill will next go before the Senate. http://www.wrex.com/story/31729614/2016/04/14/illinois-house-representatives-supporting-efforts-to-protect-foster-children About Media Endorsements Events Get Involved Voter Info Paid for by Citizens for John M.
+Cabello.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.

@@ -1,21 +1,94 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/fieldsforflorida",
-"https://fieldsforflorida.com/",
-"https://fieldsforflorida.com/Press",
-"https://fieldsforflorida.com/endorsements",
-"https://fieldsforflorida.com/get-involved-2",
-"https://fieldsforflorida.com/platform",
-"https://fieldsforflorida.com/resources",
-"https://fieldsforflorida.com/vote",
-"https://fieldsforflorida.com/why-im-running",
-"https://instagram.com/fieldsforflorida",
-"https://mobilize.us/fieldsforflorida",
-"https://secure.actblue.com/donate/fieldsforflorida-web",
-"https://secure.actblue.com/donate/fieldsforflorida-web?amount=100",
-"https://secure.actblue.com/donate/fieldsforflorida-web?amount=25",
-"https://secure.actblue.com/donate/fieldsforflorida-web?amount=250",
-"https://secure.actblue.com/donate/fieldsforflorida-web?amount=50",
-"https://secure.actblue.com/donate/fieldsforflorida-web?amount=500",
-"https://tiktok.com/@antionefieldsfl"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/fieldsforflorida-web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/fieldsforflorida-web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/fieldsforflorida-web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/fieldsforflorida-web?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/fieldsforflorida-web?amount=500"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/fieldsforflorida-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fieldsforflorida.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.fieldsforflorida.com/get-involved-2"
+},
+{
+"text": "Learn More",
+"href": "https://www.fieldsforflorida.com/why-im-running"
+},
+{
+"text": "News",
+"href": "https://www.fieldsforflorida.com/Press"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/fieldsforflorida-web"
+},
+{
+"text": "Platform",
+"href": "https://www.fieldsforflorida.com/platform"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Resources",
+"href": "https://www.fieldsforflorida.com/resources"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/fieldsforflorida/"
+},
+{
+"text": "Vote",
+"href": "https://www.fieldsforflorida.com/vote"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.fieldsforflorida.com/why-im-running"
+},
+{
+"text": "[image: Antione Fields | Florida House District 21]",
+"href": "https://www.fieldsforflorida.com/"
+},
+{
+"text": "[image: Fields for Florida logo]",
+"href": "https://www.fieldsforflorida.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/fieldsforflorida"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/fieldsforflorida"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@antionefieldsfl"
+},
+{
+"text": "info@fieldsforflorida.com",
+"href": "mailto:info@fieldsforflorida.com"
+}
 ]

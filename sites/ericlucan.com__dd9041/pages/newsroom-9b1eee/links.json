@@ -1,40 +1,234 @@
 [
-"http://instagram.com/ericlucan",
-"https://californiacouncil.org/news/ccah-pac-endorses-eric-lucan-for-state-assembly-district-12",
-"https://connolly.asmdc.org/district-map",
-"https://ericlucan.com/",
-"https://ericlucan.com/about",
-"https://ericlucan.com/cart",
-"https://ericlucan.com/contact",
-"https://ericlucan.com/contribute",
-"https://ericlucan.com/district-voting",
-"https://ericlucan.com/endorsements",
-"https://ericlucan.com/media-resources",
-"https://ericlucan.com/newsroom",
-"https://ericlucan.com/newsroom/campaign-years-first-in-playbook",
-"https://ericlucan.com/newsroom/ccah-pac-endorses-eric-lucan-for-state-assembly-district-12",
-"https://ericlucan.com/newsroom/democrats-jackie-elward-and-eric-lucan-headed-for-runoff-in-race-for-californias-assembly-district-12-seat",
-"https://ericlucan.com/newsroom/editorial-in-close-race-lucans-experience-makes-him-choice-for-assembly",
-"https://ericlucan.com/newsroom/editorial-in-tight-race-ij-recommends-lucan-for-assembly",
-"https://ericlucan.com/newsroom/eric-lucan-appointed-marin-county-board-of-supervisors-president",
-"https://ericlucan.com/newsroom/how-four-marin-leaders-see-the-future-of-workforce-housing-in-marin",
-"https://ericlucan.com/newsroom/marin-candidates-crowd-assembly-race",
-"https://ericlucan.com/newsroom/marin-weighs-in-against-ice-lockup-in-bay-area",
-"https://ericlucan.com/newsroom/smart-to-continue-free-rides-for-youths-seniors",
-"https://ericlucan.com/priorities",
-"https://facebook.com/ericlucan",
-"https://marincounty.gov/departments/board/district-5/eric-lucan",
-"https://marincounty.gov/news-releases/eric-lucan-appointed-marin-county-board-supervisors-president",
-"https://marinij.com/2025/04/08/marin-candidates-crowd-assembly-race",
-"https://marinij.com/2026/03/26/smart-to-continue-free-rides-for-youths-seniors",
-"https://marinij.com/2026/05/09/editorial-it-tight-race-ij-recommends-lucan-for-assembly",
-"https://marinij.com/2026/06/28/marin-weighs-in-against-ice-lockup-in-bay-area",
-"https://marinij.com/2026/09/05/editorial-in-close-race-lucans-experience-makes-him-choice-for-assembly",
-"https://marinmagazine.com/community/how-four-marin-leaders-see-the-future-of-workforce-housing-in-marin",
-"https://politico.com/newsletters/californiaplaybook",
-"https://pressdemocrat.com/2026/05/08/pd-editorial-connolly-and-lucan-are-top-legislative-picks?clearUserState=true",
-"https://pressdemocrat.com/2026/06/11/democrats-jackie-elward-and-eric-lucan-headed-for-runoff-in-race-for-californias-assembly-district-12-seat",
-"https://tiktok.com/@ericlucan",
-"https://twitter.com/ericlucan",
-"https://youtube.com/@EricLucanForAssembly/playlists"
+{
+"text": "0",
+"href": "https://www.ericlucan.com/cart"
+},
+{
+"text": "12th Assembly District",
+"href": "https://connolly.asmdc.org/district-map"
+},
+{
+"text": "About",
+"href": "https://www.ericlucan.com/about"
+},
+{
+"text": "CCAH",
+"href": "https://californiacouncil.org/news/ccah-pac-endorses-eric-lucan-for-state-assembly-district-12"
+},
+{
+"text": "CCAH PAC endorses Eric Lucan for State Assembly – District 12",
+"href": "https://californiacouncil.org/news/ccah-pac-endorses-eric-lucan-for-state-assembly-district-12"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.ericlucan.com/contribute"
+},
+{
+"text": "Campaign Years – First in Playbook",
+"href": "https://www.politico.com/newsletters/californiaplaybook"
+},
+{
+"text": "Contact",
+"href": "https://www.ericlucan.com/contact"
+},
+{
+"text": "County of Marin",
+"href": "https://www.marincounty.gov/news-releases/eric-lucan-appointed-marin-county-board-supervisors-president"
+},
+{
+"text": "Democrats Jackie Elward and Eric Lucan headed for runoff in race for California’s Assembly District 12 seat",
+"href": "https://www.pressdemocrat.com/2026/05/08/pd-editorial-connolly-and-lucan-are-top-legislative-picks/?clearUserState=true"
+},
+{
+"text": "District & Voting",
+"href": "https://www.ericlucan.com/district-voting"
+},
+{
+"text": "District 5 Supervisor Eric Lucan, who repr",
+"href": "https://www.marincounty.gov/departments/board/district-5/eric-lucan"
+},
+{
+"text": "Editorial: In tight race, IJ recommends Lucan for Assembly",
+"href": "https://www.marinij.com/2026/05/09/editorial-it-tight-race-ij-recommends-lucan-for-assembly/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ericlucan.com/endorsements"
+},
+{
+"text": "Eric Lucan Appointed Marin County Board of Supervisors President",
+"href": "https://www.marincounty.gov/news-releases/eric-lucan-appointed-marin-county-board-supervisors-president"
+},
+{
+"text": "How Four Marin Leaders See the Future of Workforce Housing in Marin",
+"href": "https://marinmagazine.com/community/how-four-marin-leaders-see-the-future-of-workforce-housing-in-marin/"
+},
+{
+"text": "In close race, Lucan’s experience makes him choice for Assembly",
+"href": "https://www.marinij.com/2026/09/05/editorial-in-close-race-lucans-experience-makes-him-choice-for-assembly/"
+},
+{
+"text": "Marin Magazine",
+"href": "https://marinmagazine.com/community/how-four-marin-leaders-see-the-future-of-workforce-housing-in-marin/"
+},
+{
+"text": "Marin candidates crowd Assembly race",
+"href": "https://www.marinij.com/2025/04/08/marin-candidates-crowd-assembly-race/"
+},
+{
+"text": "Marin weighs in against ICE lockup in Bay Area",
+"href": "https://www.marinij.com/2026/06/28/marin-weighs-in-against-ice-lockup-in-bay-area/"
+},
+{
+"text": "MarinIJ",
+"href": "https://www.marinij.com/2025/04/08/marin-candidates-crowd-assembly-race/"
+},
+{
+"text": "MarinIJ",
+"href": "https://www.marinij.com/2026/03/26/smart-to-continue-free-rides-for-youths-seniors/"
+},
+{
+"text": "MarinIJ",
+"href": "https://www.marinij.com/2026/05/09/editorial-it-tight-race-ij-recommends-lucan-for-assembly/"
+},
+{
+"text": "MarinIJ",
+"href": "https://www.marinij.com/2026/06/28/marin-weighs-in-against-ice-lockup-in-bay-area/"
+},
+{
+"text": "MarinIJ",
+"href": "https://www.marinij.com/2026/09/05/editorial-in-close-race-lucans-experience-makes-him-choice-for-assembly/"
+},
+{
+"text": "Media Resources",
+"href": "https://www.ericlucan.com/media-resources"
+},
+{
+"text": "Newsroom",
+"href": "https://www.ericlucan.com/newsroom"
+},
+{
+"text": "Politico",
+"href": "https://www.politico.com/newsletters/californiaplaybook"
+},
+{
+"text": "Priorities",
+"href": "https://www.ericlucan.com/priorities"
+},
+{
+"text": "Read More",
+"href": "https://californiacouncil.org/news/ccah-pac-endorses-eric-lucan-for-state-assembly-district-12"
+},
+{
+"text": "Read More",
+"href": "https://marinmagazine.com/community/how-four-marin-leaders-see-the-future-of-workforce-housing-in-marin/"
+},
+{
+"text": "Read More",
+"href": "https://www.marincounty.gov/news-releases/eric-lucan-appointed-marin-county-board-supervisors-president"
+},
+{
+"text": "Read More",
+"href": "https://www.marinij.com/2025/04/08/marin-candidates-crowd-assembly-race/"
+},
+{
+"text": "Read More",
+"href": "https://www.marinij.com/2026/03/26/smart-to-continue-free-rides-for-youths-seniors/"
+},
+{
+"text": "Read More",
+"href": "https://www.marinij.com/2026/05/09/editorial-it-tight-race-ij-recommends-lucan-for-assembly/"
+},
+{
+"text": "Read More",
+"href": "https://www.marinij.com/2026/06/28/marin-weighs-in-against-ice-lockup-in-bay-area/"
+},
+{
+"text": "Read More",
+"href": "https://www.marinij.com/2026/09/05/editorial-in-close-race-lucans-experience-makes-him-choice-for-assembly/"
+},
+{
+"text": "Read More",
+"href": "https://www.politico.com/newsletters/californiaplaybook"
+},
+{
+"text": "Read More",
+"href": "https://www.pressdemocrat.com/2026/05/08/pd-editorial-connolly-and-lucan-are-top-legislative-picks/?clearUserState=true"
+},
+{
+"text": "SMART to continue free rides for youths, seniors",
+"href": "https://www.marinij.com/2026/03/26/smart-to-continue-free-rides-for-youths-seniors/"
+},
+{
+"text": "The Press Democrat",
+"href": "https://www.pressdemocrat.com/2026/06/11/democrats-jackie-elward-and-eric-lucan-headed-for-runoff-in-race-for-californias-assembly-district-12-seat/"
+},
+{
+"text": "[image: CCAH PAC endorses Eric Lucan for State Assembly – District 12]",
+"href": "https://www.ericlucan.com/newsroom/ccah-pac-endorses-eric-lucan-for-state-assembly-district-12"
+},
+{
+"text": "[image: Campaign Years – First in Playbook]",
+"href": "https://www.ericlucan.com/newsroom/campaign-years-first-in-playbook"
+},
+{
+"text": "[image: Democrats Jackie Elward and Eric Lucan headed for runoff in race for California’s Assembly District 12 seat]",
+"href": "https://www.ericlucan.com/newsroom/democrats-jackie-elward-and-eric-lucan-headed-for-runoff-in-race-for-californias-assembly-district-12-seat"
+},
+{
+"text": "[image: Editorial: In tight race, IJ recommends Lucan for Assembly]",
+"href": "https://www.ericlucan.com/newsroom/editorial-in-tight-race-ij-recommends-lucan-for-assembly"
+},
+{
+"text": "[image: Eric Lucan Appointed Marin County Board of Supervisors President]",
+"href": "https://www.ericlucan.com/newsroom/eric-lucan-appointed-marin-county-board-of-supervisors-president"
+},
+{
+"text": "[image: Eric Lucan for State Assembly 2026]",
+"href": "https://www.ericlucan.com/"
+},
+{
+"text": "[image: How Four Marin Leaders See the Future of Workforce Housing in Marin]",
+"href": "https://www.ericlucan.com/newsroom/how-four-marin-leaders-see-the-future-of-workforce-housing-in-marin"
+},
+{
+"text": "[image: In close race, Lucan’s experience makes him choice for Assembly]",
+"href": "https://www.ericlucan.com/newsroom/editorial-in-close-race-lucans-experience-makes-him-choice-for-assembly"
+},
+{
+"text": "[image: Marin candidates crowd Assembly race]",
+"href": "https://www.ericlucan.com/newsroom/marin-candidates-crowd-assembly-race"
+},
+{
+"text": "[image: Marin weighs in against ICE lockup in Bay Area]",
+"href": "https://www.ericlucan.com/newsroom/marin-weighs-in-against-ice-lockup-in-bay-area"
+},
+{
+"text": "[image: SMART to continue free rides for youths, seniors]",
+"href": "https://www.ericlucan.com/newsroom/smart-to-continue-free-rides-for-youths-seniors"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/ericlucan/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ericlucan"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ericlucan"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ericlucan"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@EricLucanForAssembly/playlists"
+},
+{
+"text": "campaign",
+"href": "https://www.ericlucan.com/"
+}
 ]

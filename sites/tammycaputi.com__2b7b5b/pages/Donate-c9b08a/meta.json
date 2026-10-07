@@ -1,7 +1,9 @@
 {
  "description": "Donate on Caputi for Arizona. The official platform for Tammy Caputi's campaign for State Representative.",
  "final_url": "https://tammycaputi.com/Donate",
- "paid_for_by": null,
+ "fingerprint": "16bcb0656cd26ec9ab66987afe104f8700a369bb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate | Caputi for Arizona",
  "years_mentioned": []
 }

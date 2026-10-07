@@ -1,5 +1,7 @@
-About
-Julie Fedorchak is a fourth generation North Dakotan with deep roots in our state.
+Thank you for visiting my campaign website.
+If your intention was to visit my official U.S.
+House of Representatives website, please click here.
+Home About Leadership Get Involved News DONATE About Julie Fedorchak is a fourth generation North Dakotan with deep roots in our state.
 The youngest of eight kids, Julie was born in Williston, grew up in Fargo, graduated from high school in Bismarck and earned her bachelor’s degree from UND.
 She spent many summers growing up on their family farm near Belden, N.D.
 Her parents, Duane and Dorie Liffrig, were children of the Great Depression.
@@ -28,4 +30,6 @@ Mike and Julie have three children and live in Mandan.
 They have been members of Cathedral of the Holy Spirit church for 30 years.
 They volunteer in a number of community organizations including the University of Mary, where Julie is a member of the Board of Trustees.
 In their free time, the Fedorchaks love hosting dinner and game nights for friends and family, golfing, hunting, traveling, watching sports and competing in just about anything.
-Learn more about Julie’s stance on the issues here: https://bismarcktribune.com/news/state-regional/government-politics/elections/julie-fedorchak-us-house-qa/article_9fc3b4b0-0eec-11ef-b405-b7efee7a7571.html#tracking-source=home-top-story
+Learn more about Julie’s stance on the issues here: https://bismarcktribune.com/news/state-regional/government-politics/elections/julie-fedorchak-us-house-qa/article_9fc3b4b0-0eec-11ef-b405-b7efee7a7571.html#tracking-source=home-top-story Julie in Action Help Out Get Involved Issues Issues Social Follow Follow Follow Paid for by Fedorchak for ND | PO Box 2422, Bismarck ND 58502 Join Team Julie Today!
+Subscribe to our newsletter for the latest updates directly from the campaign trail!
+First name (Required) * Last name (Required) City (Required) Email (Required) Subscribe ×

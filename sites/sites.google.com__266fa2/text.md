@@ -1,13 +1,12 @@
-Working Class Party is on the Ballot in Maryland for 2026
-Embedded Files
-Working Class Party of Maryland, with a few dozen volunteers, won ballot status by turning in over 12,000 signatures to the Board of Elections for the 2026 elections.
+Search this site Embedded Files Skip to main content Skip to navigation WCP of MD Home Events Contribute Register Docs and Links Videos WCP of MD Home Events Contribute Register Docs and Links Videos More Home Events Contribute Register Docs and Links Videos Working Class Party is on the Ballot in Maryland for 2026 Working Class Party of Maryland, with a few dozen volunteers, won ballot status by turning in over 12,000 signatures to the Board of Elections for the 2026 elections.
 We are putting up a candidate for governor, Cathy White, and a candidate for lieutenant governor, Cathy Permut.
 This year we are also running a candidate for the Maryland Senate, Alan Rebar, and a candidate for the House of Delegates, Bob White.
-We think the two-party system serves only the rich.
+Contact us to get involved!
+Email workingclasspartymd@gmail.com We think the two-party system serves only the rich.
 The working class is not represented by either party, and will have to fight to win a way forward toward a decent life for ourselves and our children.
 Below, we have posted the statement presented by our candidate for governor, Cathy White, at the Working Class Party state convention in April 2026.
-Also, see her Aug. 17 interview on MPT
-I am putting myself forward as the Working Class Party candidate for governor in the 2026 election.
+Also, see her Aug.
+17 interview on MPT I am putting myself forward as the Working Class Party candidate for governor in the 2026 election.
 I am not a professional politician.
 For the last 40 years I have worked in a factory as a production worker.
 More than ever, I think the working class needs its own political organization.
@@ -55,7 +54,4 @@ NOT the billionaires.
 The billionaires have two political parties.
 The workers – none.
 It is past time to change that.
-FOR A WORKING CLASS FIGHT
-Page updated
-Google Sites
-Report abuse
+FOR A WORKING CLASS FIGHT Authorized by and paid for by Working Class Party Daniel Plattner, Treasurer PO Box 11023, Baltimore, MD 21212 Email: workingclasspartyMD@gmail.com Google Sites Report abuse Page details Page updated Google Sites Report abuse

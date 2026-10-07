@@ -1,20 +1,78 @@
 [
-"https://facebook.com/lauriebuckhout",
-"https://instagram.com/lauriebuckhout",
-"https://lauriebuckhoutforcongress.com/",
-"https://lauriebuckhoutforcongress.com/about",
-"https://lauriebuckhoutforcongress.com/cart",
-"https://lauriebuckhoutforcongress.com/get-involved",
-"https://lauriebuckhoutforcongress.com/issues",
-"https://lauriebuckhoutforcongress.com/media-kit",
-"https://lauriebuckhoutforcongress.com/privacy-policy",
-"https://lauriebuckhoutforcongress.com/terms",
-"https://lauriebuckhoutforcongress.com/yard-sign",
-"https://secure.winred.com/laurie-buckhout-for-congress/donate-today-2026",
-"https://secure.winred.com/laurie-buckhout-for-congress/donate-today-2026?amount=100",
-"https://secure.winred.com/laurie-buckhout-for-congress/donate-today-2026?amount=15",
-"https://secure.winred.com/laurie-buckhout-for-congress/donate-today-2026?amount=25",
-"https://secure.winred.com/laurie-buckhout-for-congress/donate-today-2026?amount=50",
-"https://secure.winred.com/laurie-buckhout-for-congress/storefront",
-"https://twitter.com/lauriebuckhout"
+{
+"text": "$100",
+"href": "https://secure.winred.com/laurie-buckhout-for-congress/donate-today-2026?amount=100"
+},
+{
+"text": "$15",
+"href": "https://secure.winred.com/laurie-buckhout-for-congress/donate-today-2026?amount=15"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/laurie-buckhout-for-congress/donate-today-2026?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/laurie-buckhout-for-congress/donate-today-2026?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.lauriebuckhoutforcongress.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.lauriebuckhoutforcongress.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/laurie-buckhout-for-congress/donate-today-2026"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.lauriebuckhoutforcongress.com/get-involved"
+},
+{
+"text": "ISSUES",
+"href": "https://www.lauriebuckhoutforcongress.com/issues"
+},
+{
+"text": "Media Kit",
+"href": "https://www.lauriebuckhoutforcongress.com/media-kit"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lauriebuckhoutforcongress.com/privacy-policy"
+},
+{
+"text": "STOREFRONT",
+"href": "https://secure.winred.com/laurie-buckhout-for-congress/storefront/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.lauriebuckhoutforcongress.com/terms"
+},
+{
+"text": "YARD SIGN",
+"href": "https://www.lauriebuckhoutforcongress.com/yard-sign"
+},
+{
+"text": "[image: Laurie Buckhout]",
+"href": "https://www.lauriebuckhoutforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lauriebuckhout"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lauriebuckhout/"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/lauriebuckhout"
+},
+{
+"text": "press@lauriebuckhout.com",
+"href": "mailto:press@lauriebuckhout.com"
+}
 ]

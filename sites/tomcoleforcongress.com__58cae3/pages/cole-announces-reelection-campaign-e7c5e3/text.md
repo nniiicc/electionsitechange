@@ -1,11 +1,10 @@
-Moore, OK – Tom Cole formally announced today that he will seek reelection to represent the Fourth District of Oklahoma in the U.S.
+Skip to content Tom Cole For Congress About About Tom About the District Press Packet News Room Connect On The Issues All Issues Growing the Economy Debt and Spending Securing Our Border Preserving our Second Amendment Protecting the Unborn National Security American Energy Independence Veterans News Room Cole Announces Reelection Campaign April 8, 2020 June 29, 2021 Donate Contact: Scott Chance – (405) 620-6397 For Immediate Release: April 8, 2020 Moore, OK – Tom Cole formally announced today that he will seek reelection to represent the Fourth District of Oklahoma in the U.S.
 House of Representatives.
 “We are living in unprecedented times, and together, we are travelling uncharted waters.
 But America has seen and conquered greater challenges, and I know that we will win this battle as well,” stated Cole.
 “From those on the front lines, to those doing their part by staying at home, Americans and Oklahomans will band together and see this through.
 “Today’s challenges require strong and unwavering leadership that is always looking forward and preparing,” said Cole.
-“In representing the people of the Fourth District, I have proudly fought to protect and advance commonsense conservative values while also ensuring that we are investing in the future and are ready to face challenges, both foreign and domestic, and both man-made and natural.”
-“Prioritizing funding for biomedical disease research and readiness is one of the most important investments we can make in our collective future.
+“In representing the people of the Fourth District, I have proudly fought to protect and advance commonsense conservative values while also ensuring that we are investing in the future and are ready to face challenges, both foreign and domestic, and both man-made and natural.” “Prioritizing funding for biomedical disease research and readiness is one of the most important investments we can make in our collective future.
 Over the last five years, I have proudly championed and helped secure historic increases for the National Institutes of Health.
 In the last couple of years and long before the world heard of COVID-19, I was proud to lead the effort to establish the Infectious Disease Rapid Response Reserve Fund – an emergency fund that I proposed to immediately respond to dangerous infectious diseases like Ebola, Zika and COVID-19.
 Certainly, when we prioritize the public health, we can be better prepared for the future – and healthier and safer for it.
@@ -17,4 +16,8 @@ Along with President Trump, I was proud to help deliver the largest pay increase
 “While I am proud of my record, there is still important work ahead,” continued Cole.
 “I am running for re-election to build on the significant strides taken and to usher in solutions that help Americans and our economy recover from the damage caused by the COVID-19 pandemic, further support and strengthen our military’s readiness and capabilities, and help set future generations on firm financial footing.
 “It is a great honor to represent the people of the Fourth District.
-I look forward to being of service, earning the vote over the coming months and continuing to fight for our conservative ideals and principles.”
+I look forward to being of service, earning the vote over the coming months and continuing to fight for our conservative ideals and principles.” ### Post navigation Previous: Release: Tom Cole General Election Statement Next: Trump Campaign Announces Top Surrogates for Tulsa Rally Connect Recent Posts Tom Cole Announces For Re-Election Breaking: President Trump Endorses Congressman Tom Cole Cole: Promises Made, Promises Kept Tom Cole Is Endorsed By the Republican Jewish Coalition Tom Cole Is Endorsed By The State Chamber of Oklahoma PAC Keep up with the Campaign via Email Name First Last Email Phone (Required) (Required) By providing your phone number, you agree to receive text messages from Cole for Congress.
+Message & data rates may apply.
+Message frequency varies. donations may be solicited.
+Reply STOP to opt out, reply HELP for help.
+Privacy Policy About Tom On The Issues News Room Connect Privacy Policy Donate Paid for by Cole for Congress Powered By Push Digital © #

@@ -1,9 +1,15 @@
 {
  "description": "Housing Affordability",
  "final_url": "https://www.toddforfl4.com/issues/housing-affordability",
- "paid_for_by": null,
+ "fingerprint": "21bc9d6553b107beae96841e89f135c7f9a43b0f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Housing Affordability",
  "years_mentioned": [
+  "1970",
+  "1971",
+  "1986",
+  "2008",
   "2012"
  ]
 }

@@ -1,6 +1,3 @@
-Hello, I'm Matthew Adams!
+Search this site Embedded Files Skip to main content Skip to navigation Adams for Assembly Home About Priorities Donate Endorsements & Pledges Media Adams for Assembly Home About Priorities Donate Endorsements & Pledges Media More Home About Priorities Donate Endorsements & Pledges Media Hello, I'm Matthew Adams!
 I’m running for Assembly to put the community, not corporate interests, at the center of our democracy, because until we fix the corruption of big money, nothing will truly change.
-Embedded Files
-Page updated
-Google Sites
-Report abuse
+Read about me Read my legislative priorities Support the campaign through a donation Check out the media coverage of the campaign so far Join our mailing list Get in touch at adams4assembly@gmail.com Google Sites Report abuse Page details Page updated Google Sites Report abuse

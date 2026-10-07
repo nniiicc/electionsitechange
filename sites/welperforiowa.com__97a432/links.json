@@ -1,10 +1,58 @@
 [
-"https://facebook.com/welperforiowa",
-"https://instagram.com/welperforiowa",
-"https://secure.actblue.com/donate/welperforiowa",
-"https://welperforiowa.com/",
-"https://welperforiowa.com/contact",
-"https://welperforiowa.com/platform-about-me",
-"https://welperforiowa.com/volunteer",
-"https://wix.com/"
+{
+"text": "Contact",
+"href": "https://www.welperforiowa.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/welperforiowa"
+},
+{
+"text": "For Iowa House District 59",
+"href": "https://www.welperforiowa.com"
+},
+{
+"text": "Home",
+"href": "https://www.welperforiowa.com"
+},
+{
+"text": "Jacob Welper",
+"href": "https://www.welperforiowa.com"
+},
+{
+"text": "Platform/About Me",
+"href": "https://www.welperforiowa.com/platform-about-me"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.welperforiowa.com"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.welperforiowa.com/contact"
+},
+{
+"text": "Volunteer",
+"href": "https://www.welperforiowa.com/volunteer"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/welperforiowa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/welperforiowa"
+},
+{
+"text": "https://secure.actblue.com/donate/welperforiowa",
+"href": "https://secure.actblue.com/donate/welperforiowa"
+},
+{
+"text": "info@welperforiowa.com",
+"href": "mailto:info@welperforiowa.com"
+}
 ]

@@ -1,11 +1,42 @@
 [
-"http://weiland4wv.com/",
-"https://dol.gov/agencies/whd/minimum-wage/state",
-"https://labor.wv.gov/Wage-Hour/Minimum_Wage/Documents/Fact%20Sheets/FACT%20SHEET%203%20-%20TIP%20CREDIT%202017.pdf",
-"https://nmececd.org/child-care-assistance",
-"https://weiland4wv.com/",
-"https://weiland4wv.com/about-2",
-"https://weiland4wv.com/contact",
-"https://weiland4wv.com/donate",
-"https://weiland4wv.com/get-involved-2"
+{
+"text": "About",
+"href": "https://weiland4wv.com/about-2/"
+},
+{
+"text": "Care Assistance Program",
+"href": "https://www.nmececd.org/child-care-assistance/"
+},
+{
+"text": "Contact",
+"href": "https://weiland4wv.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://weiland4wv.com/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://weiland4wv.com/get-involved-2/"
+},
+{
+"text": "HOME",
+"href": "http://www.weiland4wv.com"
+},
+{
+"text": "Home",
+"href": "https://weiland4wv.com/"
+},
+{
+"text": "New Mexico, the Child",
+"href": "https://www.nmececd.org/child-care-assistance/"
+},
+{
+"text": "West Virginia’s minimum wage is $8.75/hour",
+"href": "https://www.dol.gov/agencies/whd/minimum-wage/state"
+},
+{
+"text": "tipped minimum wage",
+"href": "https://labor.wv.gov/Wage-Hour/Minimum_Wage/Documents/Fact%20Sheets/FACT%20SHEET%203%20-%20TIP%20CREDIT%202017.pdf"
+}
 ]

@@ -1,6 +1,5 @@
-Dr.
-Kasie Whitener is the First Official Candidate for US Senate in the 2026 General Election
-April 14, 2026 (Columbia, South Carolina) – The South Carolina Libertarian Party has selected Dr.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now Dr.
+Kasie Whitener is the First Official Candidate for US Senate in the 2026 General Election South Carolina Libertarian Party Confirms Nomination at April 11th Convention April 14, 2026 (Columbia, South Carolina) – The South Carolina Libertarian Party has selected Dr.
 Kasie Whitener to represent the party in the November 3, 2026 General Election for the US Senate.
 The South Carolina Libertarian Party selects candidates by delegate votes at their convention, rather than by Primary Election, making Dr.
 Whitener the first official candidate for the US Senate seat up for election this year.
@@ -9,8 +8,7 @@ Whitener’s campaign slogan is “One Million Know,” a call to mobilize one m
 “This was a big milestone,” Dr.
 Whitener said, “I’m proud to have earned the trust and endorsement of the Libertarians, but I’m not just a candidate for Libertarian voters.
 I am the candidate for all South Carolinians who see that our government is gridlocked by a two-party struggle that enriches the powerful and leaves the rest of us worse off, and believe we need someone new, not the same old party tricks.
-As US Senator, I will bring independent, accessible representation for all South Carolinians.”
-The Kasie, South Carolina campaign officially launched on March 29, 2025 at Steel Hands Brewing in Cayce, S.C.
+As US Senator, I will bring independent, accessible representation for all South Carolinians.” The Kasie, South Carolina campaign officially launched on March 29, 2025 at Steel Hands Brewing in Cayce, S.C.
 This year, the campaign celebrated its one-year anniversary at the same location, on a beautiful spring day, March 29, 2026.
 Dr.
 Whitener filed with the Elections Commission for the election on March 17, 2026.
@@ -25,3 +23,6 @@ She will be at Claflin University on Tuesday, April 14, 2026, and the HWF Champi
 Whitener said in her speech on the convention floor.
 “And the response has been overwhelmingly positive.” Dr.
 Whitener is seeking volunteers to support her campaign.
+Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

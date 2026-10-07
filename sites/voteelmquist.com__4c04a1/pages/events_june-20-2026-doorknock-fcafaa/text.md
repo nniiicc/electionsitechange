@@ -1,9 +1,5 @@
-Back to All Events
-Join the Elmquist Campaign to doorknock ahead of the August 11 Primary.
-Previous
-Previous
-June 6
-Doorknock Kickoff
-Next
-Next
-June 25
+0 Skip to Content Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Folder: Take Action Back Immigration and Community Resources Contact CONTRIBUTE Back to All Events June 20 Doorknock Saturday, June 20, 2026 10:30 AM 1:00 PM Sunny Square Park 2200 Sunnyside Terrace New Brighton, Minnesota, 55112 United States (map) Google Calendar ICS Join the Elmquist Campaign to doorknock ahead of the August 11 Primary.
+RSVP Here Posted In: Talk to Voters Previous Previous June 6 Doorknock Kickoff Next Next June 25 June 25 Phonebank Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for campaign updates and news: Email Address Sign Up Thank you!
+Contribute Paid for by Neighbors for Aisha Elmquist PO Box 120195, New Brighton, MN 55112 Top

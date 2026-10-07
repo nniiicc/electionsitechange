@@ -1,13 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61573300979835",
-"https://javensears.com/",
-"https://javensears.com/about",
-"https://javensears.com/cart",
-"https://javensears.com/contact",
-"https://javensears.com/donate",
-"https://javensears.com/news",
-"https://javensears.com/priorities",
-"https://linkedin.com/in/javensears",
-"https://linkedin.com/in/kylembreen",
-"https://x.com/JavenSears"
+{
+"text": "0",
+"href": "https://www.javensears.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.javensears.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.javensears.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.javensears.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.javensears.com/"
+},
+{
+"text": "Kyle breen",
+"href": "https://www.linkedin.com/in/kylembreen/"
+},
+{
+"text": "Media",
+"href": "https://www.javensears.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.javensears.com/priorities"
+},
+{
+"text": "[image: Javen Sears | Candidate for Vermont State Senate]",
+"href": "https://www.javensears.com/"
+},
+{
+"text": "[image]",
+"href": "https://javensears.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61573300979835"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/javensears/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JavenSears"
+}
 ]

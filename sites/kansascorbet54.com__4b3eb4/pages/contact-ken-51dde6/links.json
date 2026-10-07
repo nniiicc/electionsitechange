@@ -1,8 +1,30 @@
 [
-"https://facebook.com/KenCorbet54",
-"https://kansascorbet54.com/",
-"https://kansascorbet54.com/contact-ken",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://x.com/KSCorbet54"
+{
+"text": "Contact Ken",
+"href": "https://kansascorbet54.com/contact-ken"
+},
+{
+"text": "Home",
+"href": "https://kansascorbet54.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Ken Corbet for Kansas House]",
+"href": "https://kansascorbet54.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KenCorbet54"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/KSCorbet54"
+}
 ]

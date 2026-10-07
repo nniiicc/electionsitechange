@@ -1,12 +1,50 @@
 [
-"https://charityforpa.com/",
-"https://charityforpa.com/about",
-"https://charityforpa.com/contact",
-"https://charityforpa.com/issues",
-"https://charityforpa.com/privacy-policy",
-"https://charityforpa.com/volunteer",
-"https://facebook.com/charityforpa",
-"https://instagram.com/charityforpa",
-"https://ryvall.com/",
-"https://secure.winred.com/charity-for-pa-rep/donate-today"
+{
+"text": "About",
+"href": "https://www.charityforpa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.charityforpa.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/charity-for-pa-rep/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.charityforpa.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.charityforpa.com/issues"
+},
+{
+"text": "Powered by Ryvall",
+"href": "https://ryvall.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.charityforpa.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.charityforpa.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/charityforpa"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/charityforpa"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/charity-for-pa-rep/donate-today"
+},
+{
+"text": "[no text]",
+"href": "https://www.charityforpa.com/about"
+}
 ]

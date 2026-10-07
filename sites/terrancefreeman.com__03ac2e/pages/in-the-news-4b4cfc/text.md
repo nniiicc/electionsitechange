@@ -1,15 +1,2 @@
-The Florida Times Union
-Police union ‘proud to endorse’ Terrance Freeman in HD 12
-The Florida Times Union
-'Baby boxes' for surrendering infants could be coming to Jacksonville
-WOKV
-‘Sounded like a second chance at life’: Jax Council Member’s journey at Proton Therapy Institute
-Florida Politics
-Sheriff T.K.
-Waters Endorses Terrance Freeman
-Florida Politics
-AIF, the ‘Voice of Florida Business’, endorses Terrance Freeman for Florida House
-WOKV
-Conservative Jacksonville City Councilman Terrance Freeman Announces Campaign For State Office
-Florida's Voice
-Terrance Freeman Launches Bid for Florida House District 12
+Skip to content Home About Priorities Endorsements Register to Vote District 12 In The News Home About Priorities Endorsements Register to Vote District 12 In The News X-twitter Facebook Contribute In The News The Florida Times Union Police union ‘proud to endorse’ Terrance Freeman in HD 12 Read More The Florida Times Union 'Baby boxes' for surrendering infants could be coming to Jacksonville Read More WOKV ‘Sounded like a second chance at life’: Jax Council Member’s journey at Proton Therapy Institute Read More Florida Politics Sheriff T.K.
+Waters Endorses Terrance Freeman Read More Florida Politics AIF, the ‘Voice of Florida Business’, endorses Terrance Freeman for Florida House Read More WOKV Conservative Jacksonville City Councilman Terrance Freeman Announces Campaign For State Office Read More Florida's Voice Terrance Freeman Launches Bid for Florida House District 12 Read More Facebook X-twitter Paid by Terrance Freeman, Republican, for State Representative

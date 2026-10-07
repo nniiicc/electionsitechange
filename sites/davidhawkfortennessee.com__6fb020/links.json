@@ -1,5 +1,14 @@
 [
-"https://davidhawkfortennessee.com/privacy-policy",
-"https://facebook.com/davidhawkforstaterep",
-"https://secure.winred.com/fund-to-elect-david-hawk-daniel-hawk-treasurer/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/fund-to-elect-david-hawk-daniel-hawk-treasurer/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.davidhawkfortennessee.com/privacy-policy"
+},
+{
+"text": "[image: facebook icon]",
+"href": "https://www.facebook.com/davidhawkforstaterep/"
+}
 ]

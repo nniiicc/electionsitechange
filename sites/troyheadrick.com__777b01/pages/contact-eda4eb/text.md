@@ -1,8 +1,1 @@
-for Vermont House, Chittenden 15
-About Troy
-Contact
-Donate
-Blog
-Contact
-Send me an email, and I’ll get back to you as soon as possible:
-troyheadrickvt@gmail.com
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Contact Send me an email, and I’ll get back to you as soon as possible: troyheadrickvt@gmail.com Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

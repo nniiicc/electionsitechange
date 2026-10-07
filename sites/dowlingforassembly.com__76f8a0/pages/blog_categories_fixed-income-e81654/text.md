@@ -1,3 +1,5 @@
-That is why affordability has become one of the issues I hear about most often.
-It’s also why I believe one of the most important questions we can ask in government is incredibly simple:
-What can we do to leave more money in the pockets of the people who earned it?
+top of page hello@dowlingforassembly.com (920) 268-4734‬ Home WI Assembly District 53 About Endorsements Proven Record Experience Contact Video Message Merch Events & Community Conversations Request A Yard Sign File Share Notifications Members Blog More Use tab to navigate through the menu items.
+Flock Cameras Data Centers Housing Fixed Income Fixed Income We’re All on a Fixed Income That is why affordability has become one of the issues I hear about most often.
+It’s also why I believe one of the most important questions we can ask in government is incredibly simple: What can we do to leave more money in the pockets of the people who earned it?
+Rachael Dowling Sep 12 4 min read CONTACT Please contact Rachael Dowling by using this form: First Name * Last Name * Email * Subject Leave us a message...
+Submit hello@dowlingforassembly.com (920) 268-4734‬ JOIN THE MAILING LIST Enter your email here * Yes, subscribe me to your newsletter. * Subscribe Treasurer Debra Wenzel ​ Paid For By Rachael Dowling © # by Rachael Dowling bottom of page

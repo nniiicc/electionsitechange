@@ -1,7 +1,7 @@
-During the COVID-19 pandemic, as America was seeing a rise in anti-Asian violence, Democratic incumbent Jennifer Gong-Gershowitz of Glenview stewarded legislation that made Illinois the first state to require Asian American history to be taught in public schools.
+P.O.
+Box 3042 Glenview, Illinois 60025 Email: Jen@JenGGforRep.com Home About Jen Issues News Take Action Donate Volunteer Yard Sign Contact Yearly Archives: 2022 Home 2022 Editorial: For Illinois House: Jennifer Gong-Gershowitz staff November 1, 2022 During the COVID-19 pandemic, as America was seeing a rise in anti-Asian violence, Democratic incumbent Jennifer Gong-Gershowitz of Glenview stewarded legislation that made Illinois the first state to require Asian American history to be taught in public schools.
 “Empathy comes from understanding,” Gong-Gershowitz told us.
 Her grandparents emigrated from China in the 1920s and feared deportation under the Chinese Exclusion Acts.
-“A lack of
-Speaker Emanuel “Chris” Welch and President Don Harmon invite you to support Asian American Legislative members and candidates on Thursday August 25th from 5:30pm to 7:30pm at New Furama Restaurant, 2828 S Wentworth Ave, Chicago.
-Theresa Mah, 24th House District Friends of Theresa Mah 3500 N Lakewood Avenue #3 – S Chicago, IL 60657-1488 contribute online www.theresamah.com Azam Nizamuddin, 48th House District Friends of
-Sign up for several safe options to get involved in our petition gathering: Online Sign Up
+“A lack of Read More Please Support Asian American Candidates on August 25th staff August 8, 2022 Speaker Emanuel “Chris” Welch and President Don Harmon invite you to support Asian American Legislative members and candidates on Thursday August 25th from 5:30pm to 7:30pm at New Furama Restaurant, 2828 S Wentworth Ave, Chicago.
+Theresa Mah, 24th House District Friends of Theresa Mah 3500 N Lakewood Avenue #3 – S Chicago, IL 60657-1488 contribute online www.theresamah.com Azam Nizamuddin, 48th House District Friends of Read More Join Us Sunday for a Campaign Launch staff January 6, 2022 Sign up for several safe options to get involved in our petition gathering: Online Sign Up Read More 1 2 Latest News Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Socials Recent Posts Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Contact Info Jen@JenGGforRep.com P.O.
+Box 3042 Glenview, Illinois 60025 Take Action Donate Volunteer Yard Sign 2022 Paid for by Friends for Jennifer All rights reserved.

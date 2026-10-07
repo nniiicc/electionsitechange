@@ -1,9 +1,8 @@
-The Unacceptable Tragedy of State Neglect
-“There has been some conversation about whether 50 children died in the last year or 90 children died.
+Josh Penner For Representative R The Record The Briefing Submit an Idea Support Record Briefings Idea Support Pillar: Child Welfare Target: Child Safety The Unacceptable Tragedy of State Neglect “ There has been some conversation about whether 50 children died in the last year or 90 children died.
 It doesn't matter if it's 50 or 90.
-We should be crawling out of our skin if it's one.”
-The Human Cost of Bad Policy
-The debate on the House floor during the 2026 session marked one of the darkest moments in our state's history.
+We should be crawling out of our skin if it's one. ” Watch the Full Floor Speech → “ There has been some conversation about whether 50 children died in the last year or 90 children died.
+It doesn't matter if it's 50 or 90.
+We should be crawling out of our skin if it's one. ” The Human Cost of Bad Policy The debate on the House floor during the 2026 session marked one of the darkest moments in our state's history.
 We were not just discussing policy.
 We were arguing over the body count of our own failures.
 The root of the crisis was the "Keeping Families Together Act" (KFTA).
@@ -12,12 +11,9 @@ It elevated the standard for removing a child to "imminent physical harm." In pr
 We tied the hands of our protectors.
 We left children in toxic, lethal environments in the name of bureaucratic family preservation.
 When the inevitable tragedies occurred, the legislature engaged in a sickening debate over the exact number of fatalities.
-I refused to let my colleagues hide behind a spreadsheet.
-“There has been some conversation about whether 50 children died in the last year or 90 children died.
+I refused to let my colleagues hide behind a spreadsheet. “ There has been some conversation about whether 50 children died in the last year or 90 children died.
 It doesn't matter if it's 50 or 90.
-We should be crawling out of our skin if it's one.”
-Fighting for Accountability
-The opposition deflected.
+We should be crawling out of our skin if it's one. ” Fighting for Accountability The opposition deflected.
 They defended the KFTA.
 They prioritized an extreme, academic view of child welfare over the visceral reality of babies dying from fentanyl poisoning.
 I led the charge to dismantle this deadly standard.
@@ -36,9 +32,22 @@ We need common sense to dictate our laws, not radical ideology.
 We need accountability, action, and unyielding protection for the most vulnerable among us.
 Stand with me.
 Join the coalition to protect our children and bring sanity back to our government.
-Watch the Floor Speech
-VIDEO | Rep.
-Joshua Penner demands action for children exposed to fentanyl | Amendment 2105 to SB 5998
-Watch Testimony on YouTube ↗
-Join The Fight For Accountability
-Help us hold the line against bad policy and runaway spending.
+Watch the Floor Speech Outbound Testimony Link Testimony Highlight VIDEO | Rep.
+Joshua Penner demands action for children exposed to fentanyl | Amendment 2105 to SB 5998 Watch Testimony on YouTube ↗ Join The Fight For Accountability Help us hold the line against bad policy and runaway spending.
+Support the Fight Related Briefings Failing Backwards: How Olympia’s "Gotcha" Game Drives Up Your Utility Bills Olympia passes complex utility mandates, withholds clear guidance, then lets local providers take the blame.
+The result is higher compliance costs and higher power bills for working families.
+Read full breakdown → The Truth About Olympia's Failure on the Fentanyl Crisis A Silent Killer in Our Living Rooms Every parent knows the drill.
+You watch your toddler's every move.
+You check the floor for small toys or stray pie...
+Read full breakdown → The Washington Accountability Index Select an issue to see how Olympia's spending measures up against reality.
+Child Welfare Fiscal Responsibility State Overreach Sound Transit Disability Care State Failure The Tragedy of State Neglect The 'Keeping Families Together Act' elevated standards for child removal so high that caseworkers were unable to rescue infants from lethal fentanyl-exposed environments.
+My Direct Action Demanding Immediate Action Led the charge on the House floor to dismantle this deadly standard so our caseworkers can intervene proactively and save children's lives.
+Read the briefing and watch the speech → Help me demand ROI and accountability.
+Support the Fight The Briefing.
+Unfiltered updates from the front lines in Olympia.
+No spam, just the reality of what's happening in Washington State.
+Join your neighbors across the 31st District Email address Subscribe Your information is securely processed via Beehiiv and never shared.
+Josh Penner For Representative R PAID FOR BY VOTE PENNER (R) PO BOX 664, ORTING, WA 98360 Dedicated to pragmatic leadership, compassionate outcomes, and rigorous accountability for the people of Washington State.
+Facebook Twitter The Briefing © # Vote Penner.
+All rights reserved.
+Accessibility Statement

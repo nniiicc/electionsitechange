@@ -1,13 +1,78 @@
 [
-"https://facebook.com/TriciaForNC",
-"https://ncsbe.gov/registering/how-register",
-"https://ncsbe.gov/voting/vote-mail",
-"https://secure.winred.com/tricia-cotham-committee/donate",
-"https://triciacotham.net/",
-"https://triciacotham.net/cart",
-"https://triciacotham.net/leadership",
-"https://triciacotham.net/sign-up",
-"https://vt.ncsbe.gov/PPLkup",
-"https://vt.ncsbe.gov/RegLkup",
-"https://x.com/triciacotham"
+{
+"text": "$100",
+"href": "https://secure.winred.com/tricia-cotham-committee/donate"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/tricia-cotham-committee/donate"
+},
+{
+"text": "$3200",
+"href": "https://secure.winred.com/tricia-cotham-committee/donate"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/tricia-cotham-committee/donate"
+},
+{
+"text": "$5000",
+"href": "https://secure.winred.com/tricia-cotham-committee/donate"
+},
+{
+"text": "$6400",
+"href": "https://secure.winred.com/tricia-cotham-committee/donate"
+},
+{
+"text": "0",
+"href": "https://www.triciacotham.net/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/tricia-cotham-committee/donate"
+},
+{
+"text": "Find Your polling place",
+"href": "https://vt.ncsbe.gov/PPLkup/"
+},
+{
+"text": "Leadership",
+"href": "https://www.triciacotham.net/leadership"
+},
+{
+"text": "Learn more",
+"href": "https://www.triciacotham.net/leadership"
+},
+{
+"text": "OTHER AMOUNT",
+"href": "https://secure.winred.com/tricia-cotham-committee/donate"
+},
+{
+"text": "Register to vote",
+"href": "https://www.ncsbe.gov/registering/how-register"
+},
+{
+"text": "Request an absentee ballot",
+"href": "https://www.ncsbe.gov/voting/vote-mail"
+},
+{
+"text": "Sign Up",
+"href": "https://www.triciacotham.net/sign-up"
+},
+{
+"text": "VOTER LOOKUP",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "[image: Tricia Cotham for NC House]",
+"href": "https://www.triciacotham.net/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/TriciaForNC/"
+},
+{
+"text": "[image]",
+"href": "https://x.com/triciacotham"
+}
 ]

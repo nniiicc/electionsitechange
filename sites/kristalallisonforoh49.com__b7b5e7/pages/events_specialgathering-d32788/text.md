@@ -1,36 +1,3 @@
-Back to All Events
-Please fill out the form below to RSVP
-#block-yui_3_17_2_1_1713918297926_1846 {
---stroke-style: none;--stroke-thickness: 6px;
-}
-#block-yui_3_17_2_1_1713918297926_1846 .sqs-html-content {
---tweak-text-block-padding: 6% 6% 6% 6%;
---tweak-text-block-padding: initial;
-}
-#block-yui_3_17_2_1_1713918297926_1846 {
-mix-blend-mode: var(--tweak-text-block-blend
-);
-border-radius: var(--tweak-text-block-radius);
-}
-#block-yui_3_17_2_1_1713918297926_1846 {
---tweak-text-block-radius: 0px 0px 0px 0px;
-}
-#block-yui_3_17_2_1_1713918297926_1846 {
-}
-@media screen and (max-width: 767px) {
-#block-yui_3_17_2_1_1713918297926_1846 {
-}
-}
-@media screen and (max-width: 767px) {
-#block-yui_3_17_2_1_1713918297926_1846 .sqs-html-content {
-}
-}
-@media screen and (max-width: 767px) {
-}
-Previous
-Previous
-April 13
-Spaghetti Dinner Fundraiser
-Next
-Next
-May 4
+0 Skip to Content Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Open Menu Close Menu Donate Home About Krista Media What Krista Believes Endorsements Learn More Events Open Menu Close Menu Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Back to All Events Krista L.
+Allison Special Gathering Thursday, May 2, 2024 4:00 PM 7:00 PM 91 Wood Fired Oven 5570 Fulton Drive Northwest Canton, OH, 44718 United States (map) Google Calendar ICS Please fill out the form below to RSVP Previous Previous April 13 Spaghetti Dinner Fundraiser Next Next May 4 Spaghetti Dinner Fundraiser Contact Us | Privacy Policy Stay Up-To Date Paid for by Community for Krista L.
+Allison //

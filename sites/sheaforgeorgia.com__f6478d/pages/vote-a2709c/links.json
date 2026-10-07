@@ -1,20 +1,82 @@
 [
-"http://mvp.sos.ga.gov/",
-"https://ballotrequest.sos.ga.gov/",
-"https://facebook.com/sheaforgeorgia",
-"https://fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/absentee-ballot-box",
-"https://fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/early-voting-locations",
-"https://instagram.com/sheaforgeorgia",
-"https://mvp.sos.ga.gov/MVP/mvp.do",
-"https://secure.ngpvan.com/LTI_3nP0rUu67bOxAuOhPg2",
-"https://sheaforgeorgia.com/",
-"https://sheaforgeorgia.com/cart",
-"https://sheaforgeorgia.com/contact-forms",
-"https://sheaforgeorgia.com/get-updates",
-"https://sheaforgeorgia.com/home",
-"https://sheaforgeorgia.com/meet-shea",
-"https://sheaforgeorgia.com/platform",
-"https://sheaforgeorgia.com/search",
-"https://sheaforgeorgia.com/vote",
-"https://twitter.com/sheaforgeorgia"
+{
+"text": "Cart 0",
+"href": "https://www.sheaforgeorgia.com/cart"
+},
+{
+"text": "Check Registration Status",
+"href": "https://www.mvp.sos.ga.gov/MVP/mvp.do"
+},
+{
+"text": "Contact Us",
+"href": "https://www.sheaforgeorgia.com/contact-forms"
+},
+{
+"text": "Contribute",
+"href": "https://secure.ngpvan.com/LTI_3nP0rUu67bOxAuOhPg2"
+},
+{
+"text": "Drop Box Locations",
+"href": "https://fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/absentee-ballot-box"
+},
+{
+"text": "Early Voting Locations",
+"href": "https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/early-voting-locations"
+},
+{
+"text": "Get Updates",
+"href": "https://www.sheaforgeorgia.com/get-updates"
+},
+{
+"text": "Meet Shea",
+"href": "https://www.sheaforgeorgia.com/meet-shea"
+},
+{
+"text": "Platform",
+"href": "https://www.sheaforgeorgia.com/platform"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://ballotrequest.sos.ga.gov/"
+},
+{
+"text": "Vote",
+"href": "https://www.sheaforgeorgia.com/vote"
+},
+{
+"text": "[image: Shea Roberts Campaign Logo]",
+"href": "https://www.sheaforgeorgia.com/home"
+},
+{
+"text": "[image: Shea Roberts for GA House 52]",
+"href": "https://www.sheaforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/sheaforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sheaforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sheaforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.sheaforgeorgia.com/search"
+},
+{
+"text": "mvp.sos.ga.gov",
+"href": "http://mvp.sos.ga.gov/"
+},
+{
+"text": "shea.roberts@house.ga.gov",
+"href": "mailto:shea.roberts@house.ga.gov"
+},
+{
+"text": "shea@sheaforgeorgia.com",
+"href": "mailto:"
+}
 ]

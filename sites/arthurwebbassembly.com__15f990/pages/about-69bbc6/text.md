@@ -1,3 +1,4 @@
-Please hover over the About tab and choose from the popup submenu.
-Paid for by Arthur Webb for Assembly 2026 FPPC #1490039
-Powered by CampaignPartner.com - Political Campaign Websites
+Issues Propositions News Guiding Principles About Contact Us Why Am I Running?
+Meet Arthur Yard Signs Volunteer Contribute Please hover over the About tab and choose from the popup submenu.
+District 15 Map Voter Information Contact Us Privacy Policy Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner.com - Political Campaign Websites Home Issues Propositions News Volunteer Contribute Guiding Principles Contact Us Why Am I Running?
+Meet Arthur Yard Signs Voter Information District 15 Map Close Menu

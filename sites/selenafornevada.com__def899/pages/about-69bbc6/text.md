@@ -1,7 +1,6 @@
-Meet Selena
-"I have spent my life in the service of others, primarily as a teacher and champion for kids and our public schools"
-Meet Selena
-Selena is a fourth-generation Nevadan who grew up on a cattle ranch near Pyramid Lake.
+Skip to content Facebook Instagram Volunteer Events Donate Meet Selena Legislative Wins Issues Endorsements Constituents What is the State Assembly?
+Bill Tracker How to give public comment in NELIS How to give testimony Press & Media Center Meet Selena Legislative Wins Issues Endorsements Constituents What is the State Assembly?
+Bill Tracker How to give public comment in NELIS How to give testimony Press & Media Center Issues Meet Selena Endorsements Donate Events Press & Media Center Issues Meet Selena Endorsements Donate Events Press & Media Center Meet Selena "I have spent my life in the service of others, primarily as a teacher and champion for kids and our public schools" Meet Selena Selena is a fourth-generation Nevadan who grew up on a cattle ranch near Pyramid Lake.
 Her playground was a wide-open field of alfalfa and wildflowers and ever since Selena has maintained a deep love for nature and the environment.
 Growing up, Selena’s grandmother taught her the value of service to her community.
 Selena’s grandmother operated an in-home daycare for children of first responders and Selena helped her care for those children before she was even out of elementary school.
@@ -10,9 +9,7 @@ Selena’s grandmother taught her that even the smallest actions can make the wo
 Selena has always endeavored to follow in her grandmother’s footsteps and live a life of service.
 That’s how she knew she was destined to be a teacher.
 Selena started by teaching the children in her grandmother’s daycare, then tutored her classmates through school, and by high school was involved in just about every service organization she could join.
-In her words, “I have always wanted to make a positive impact on my community and have dedicated my life to helping those around me.”
-“I have always wanted to make a positive impact on my community and have dedicated my life to helping those around me.”
-Selena moved away for college and attained a Bachelor of Arts in History, with a minor in political science, from Boston University, but she never lost her calling to service.
+In her words, “I have always wanted to make a positive impact on my community and have dedicated my life to helping those around me.” “I have always wanted to make a positive impact on my community and have dedicated my life to helping those around me.” Selena moved away for college and attained a Bachelor of Arts in History, with a minor in political science, from Boston University, but she never lost her calling to service.
 After college Selena decided to return home to Reno in order to give back to the community that raised her.
 Shortly after her return, she enrolled at the University of Nevada to earn her teaching credential and Master of Education degree.
 Today Selena lives in Northwest Reno with her husband Stephen, their daughter Abigail, and their dogs Luna and Freya.
@@ -22,3 +19,11 @@ The realities of what educators have faced over the last several years inspired 
 Selena was first elected as the Assemblymember for District 25 in 2022 and served in the Nevada Legislature for two regular and three special sessions.
 Throughout her legislative service, she has sponsored bills to improve our schools, provide paid leave for working families, make housing more affordable, and protect the basic rights of all Nevadans.
 As an Assemblymember and classroom teacher, she has always been a fierce advocate for her community and fights every day to ensure that her constituents are heard in the halls of power.
+Let's build a Brighter Nevada , TOGETHER!
+Join the team! $# $# $# Other Click on an option to get started.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Meet with Selena Please note, the meeting may be either virtual or in-person depending on Selena’s availability.
+Name Email Phone Zip Message By providing your cell phone number, you agree to receive calls and texts to your number from Selena for Nevada on issues and ways to get involved.
+Msg frequency varies.
+STOP to quit.
+Msg and data rates may apply. https://selenafornevada.com/privacy-policy/ Request Meeting Close Skip to content Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

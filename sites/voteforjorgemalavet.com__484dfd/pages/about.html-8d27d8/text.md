@@ -1,5 +1,4 @@
-MEET JORGE MALAVET
-I was born in Ponce, Puerto Rico, and raised by my grandparents until I was a teenager.
+Skip to main content About Policies Volunteer Donate MEET JORGE MALAVET I was born in Ponce, Puerto Rico, and raised by my grandparents until I was a teenager.
 From them I learned the values that guide my life today: faith, family, hard work, and service.
 My grandfather, an Army veteran and machinist, taught me that character matters, responsibility matters, and you don’t wait for opportunity; you prepare for it.
 I still remember wearing a guayabera to Mass on Sundays, waking up early to help him on weekends, and learning what it means to live with purpose.
@@ -25,13 +24,11 @@ I learned that resilience and perseverance aren’t slogans; they are a way of l
 I came out of difficult moments with deeper gratitude, stronger discipline, and a clearer commitment to serving others.
 After my military service, I continued serving our country in federal service.
 I’m running for State Representative because Florida’s 43rd District deserves a representative who understands our community and will fight for working families, not political insiders.
-Opportunity through education and work
-I believe education should be rigorous, merit-based, and accessible to every student willing to put in the effort.
+Opportunity through education and work I believe education should be rigorous, merit-based, and accessible to every student willing to put in the effort.
 That means expanding pathways to success through affordable and flexible options, strengthening apprenticeships and workforce training aligned with family-supporting wages, and maintaining performance-driven school standards that empower teachers and help students reach their full potential.
 If we invest in character, discipline, and critical thinking, we expand economic mobility and keep our communities competitive.
 Access to opportunity should be earned through effort and merit, not by mandates or shortcuts.
-Stronger families and safer communities
-Family has always been my north star.
+Stronger families and safer communities Family has always been my north star.
 I learned resilience from my grandparents, and I lived it alongside my late wife Ana, who lost her battle with breast cancer in 2006, and gave me a model of steadfast faith and care.
 Those experiences deepened my commitment to honoring responsibilities and protecting the vulnerable.
 As a State Representative, I’ll champion policies that strengthen families, ensure affordable and dependable work, support schools that value character and excellence, and support a lawful immigration system that welcomes those who pursue the American dream while keeping our state and communities secure.

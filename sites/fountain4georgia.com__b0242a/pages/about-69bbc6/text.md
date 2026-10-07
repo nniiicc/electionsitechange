@@ -1,5 +1,4 @@
-Who I am
-I was born and raised in Ball Ground.
+0 Skip to Content Home About Policies Contact Donate Now Open Menu Close Menu Home About Policies Contact Donate Now Open Menu Close Menu Home About Policies Contact Donate Now Who I am I was born and raised in Ball Ground.
 I am proud to have spent my entire life in Georgia, and seeing the cultural diversity of our state, from the Blue Ridge to Savannah, taught me early on that despite our differences, Georgians know how to work together.
 I grew up in a household led by a single mother of four.
 As the oldest, I stepped up to look after my siblings while my mother worked tirelessly to provide for us.
@@ -17,10 +16,10 @@ Enough is enough.
 I am running for the State House because we need fresh perspectives and real-world ideas.
 I’m bringing an honest Georgia work ethic, a commitment to collaboration, and the stubbornness required to right this ship.
 It’s time for a representative who actually knows what it’s like to live the life they’re legislating.
-Contact me
-Real change starts with a conversation.
+Contact me Real change starts with a conversation.
 Whether you’re looking to join our team as a volunteer or you simply want to share what’s on your mind, I am here to listen.
 My goal is to represent every Georgian in our district, including those who may disagree with me.
 I value honest dialogue and want to hear your concerns, your hopes, and even your critiques.
 Please reach out today; I believe that by listening to one another, we can find the common ground necessary to move our community forward.
 I personally read every message that comes through, so please allow a little time for a response.
+Ryan Fountain - Too Stubborn to Let “Enough” Be Enough Made with Squarespace Mailing Address PO Box 4, 180 Valley St, Ball Ground, GA 30107 Contact Information Fountainforgeorgia@gmail.com

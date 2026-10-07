@@ -1,14 +1,74 @@
 [
-"https://biscardiforok.com/",
-"https://biscardiforok.com/about",
-"https://biscardiforok.com/contact",
-"https://biscardiforok.com/issues/affordability",
-"https://biscardiforok.com/issues/families",
-"https://biscardiforok.com/issues/healthcare",
-"https://biscardiforok.com/privacy-policy",
-"https://biscardiforok.com/ways-to-donate",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61588897354356",
-"https://instagram.com/biscardi4ok",
-"https://secure.actblue.com/donate/andrea-biscardi-1"
+{
+"text": "About",
+"href": "https://www.biscardiforok.com/about"
+},
+{
+"text": "Affordable healthcare for all",
+"href": "https://www.biscardiforok.com/issues/healthcare"
+},
+{
+"text": "Cost of Living",
+"href": "https://www.biscardiforok.com/issues/affordability"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andrea-biscardi-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.biscardiforok.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.biscardiforok.com/"
+},
+{
+"text": "Improving our children's future",
+"href": "https://www.biscardiforok.com/issues/families"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.biscardiforok.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "View more",
+"href": "https://www.biscardiforok.com/issues/affordability"
+},
+{
+"text": "View more",
+"href": "https://www.biscardiforok.com/issues/families"
+},
+{
+"text": "View more",
+"href": "https://www.biscardiforok.com/issues/healthcare"
+},
+{
+"text": "Ways to Donate",
+"href": "https://www.biscardiforok.com/ways-to-donate"
+},
+{
+"text": "[image: Andrea Biscardi for House logo]",
+"href": "https://www.biscardiforok.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.biscardiforok.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61588897354356"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/biscardi4ok"
+},
+{
+"text": "biscardi4ok@gmail.com",
+"href": "mailto:biscardi4ok@gmail.com"
+}
 ]

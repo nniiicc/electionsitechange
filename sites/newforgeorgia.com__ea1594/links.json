@@ -1,7 +1,30 @@
 [
-"https://newforgeorgia.com/",
-"https://newforgeorgia.com/cart",
-"https://newforgeorgia.com/home",
-"https://secure.winred.com/committee-to-elect-kimberly-new/donate-today",
-"https://sos.ga.gov/how-to-guide/how-guide-registering-vote"
+{
+"text": "0",
+"href": "https://www.newforgeorgia.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.newforgeorgia.com/home#Contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-kimberly-new/donate-today"
+},
+{
+"text": "Issues",
+"href": "https://www.newforgeorgia.com/#Issues"
+},
+{
+"text": "Meet Kimberly",
+"href": "https://www.newforgeorgia.com/home#MeetKimberly"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://sos.ga.gov/how-to-guide/how-guide-registering-vote"
+},
+{
+"text": "[image: Kimberly New For State House]",
+"href": "https://www.newforgeorgia.com/"
+}
 ]

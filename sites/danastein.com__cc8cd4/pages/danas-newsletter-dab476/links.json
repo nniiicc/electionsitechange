@@ -1,31 +1,134 @@
 [
-"https://app.indigov.com/pub/outreach/08293c10-7a79-4595-9282-19d28b238c90",
-"https://app.indigov.com/pub/outreach/17c0995a-c2c2-4753-a07f-24b78a620938",
-"https://app.indigov.com/pub/outreach/20293c4b-2007-419e-9dd4-eb087bd85057",
-"https://app.indigov.com/pub/outreach/23ca5b27-46c2-4b5d-8028-00fea52b9fa1",
-"https://app.indigov.com/pub/outreach/2682e134-b89b-4a80-a5bb-21a51d48eb3b",
-"https://app.indigov.com/pub/outreach/3ef71908-ec58-4cb9-8ab9-ae9ea9c472e9",
-"https://app.indigov.com/pub/outreach/4c8017ec-f813-40cd-8048-38c1c8d38052",
-"https://app.indigov.com/pub/outreach/61387932-9459-4d52-b32e-a7767f0b98fb",
-"https://app.indigov.com/pub/outreach/75e43dd2-2a4e-4326-83b2-1f00b90a9d86",
-"https://app.indigov.com/pub/outreach/7b5989d4-d253-477a-8c4c-ed4aa02bf045",
-"https://app.indigov.com/pub/outreach/7dee5fc6-aac4-459f-b7ea-1e54b663e999",
-"https://app.indigov.com/pub/outreach/8ceb0dfe-010c-4fbd-9bf1-dcef5d865c7f",
-"https://app.indigov.com/pub/outreach/c30c2ef9-6c6d-49f4-ac57-5bbd37735a93",
-"https://app.indigov.com/pub/outreach/e6efd976-9c8c-4629-a5b2-327339c8f2ea",
-"https://danastein.com/",
-"https://danastein.com/citation-request",
-"https://danastein.com/contact-dana",
-"https://danastein.com/danas-newsletter",
-"https://danastein.com/endorsements-2026",
-"https://danastein.com/on-the-issues",
-"https://danastein.com/resources",
-"https://danastein.com/scholarship",
-"https://danastein.com/wp-content/uploads/2026/02/Newsletter-1-23-26.pdf",
-"https://danastein.com/wp-content/uploads/2026/02/Newsletter-2-5-26-1.pdf",
-"https://danastein.com/wp-content/uploads/2026/02/newsletter-2-17-26.pdf",
-"https://facebook.com/DelegateStein",
-"https://secure.actblue.com/donate/dana-stein-2",
-"https://twitter.com/DelDanaMStein1",
-"https://twitter.com/intent/user?screen_name=DelDanaMStein1"
+{
+"text": "Contact Dana",
+"href": "https://danastein.com/contact-dana/"
+},
+{
+"text": "Dana’s News from Annapolis Week – Feb 19, 2024",
+"href": "https://app.indigov.com/pub/outreach/3ef71908-ec58-4cb9-8ab9-ae9ea9c472e9"
+},
+{
+"text": "Dana’s News from Annapolis Week – Jan 29, 2024",
+"href": "https://app.indigov.com/pub/outreach/8ceb0dfe-010c-4fbd-9bf1-dcef5d865c7f"
+},
+{
+"text": "Dana’s News from Annapolis Week – Mar 04, 2024",
+"href": "https://app.indigov.com/pub/outreach/2682e134-b89b-4a80-a5bb-21a51d48eb3b"
+},
+{
+"text": "Dana’s News from Annapolis Week – Mar 20, 2024",
+"href": "https://app.indigov.com/pub/outreach/08293c10-7a79-4595-9282-19d28b238c90"
+},
+{
+"text": "Dana’s Newsletter",
+"href": "https://danastein.com/danas-newsletter/"
+},
+{
+"text": "Delegate Dana Stein",
+"href": "https://danastein.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dana-stein-2"
+},
+{
+"text": "Download",
+"href": "https://danastein.com/wp-content/uploads/2026/02/newsletter-2-17-26.pdf"
+},
+{
+"text": "End of Session Letter",
+"href": "https://app.indigov.com/pub/outreach/75e43dd2-2a4e-4326-83b2-1f00b90a9d86"
+},
+{
+"text": "End of Session Newsletter",
+"href": "https://app.indigov.com/pub/outreach/7b5989d4-d253-477a-8c4c-ed4aa02bf045"
+},
+{
+"text": "Endorsements",
+"href": "https://danastein.com/endorsements-2026/"
+},
+{
+"text": "February 11 Newsletter",
+"href": "https://app.indigov.com/pub/outreach/7dee5fc6-aac4-459f-b7ea-1e54b663e999"
+},
+{
+"text": "February 17 Newsletter",
+"href": "https://danastein.com/wp-content/uploads/2026/02/newsletter-2-17-26.pdf"
+},
+{
+"text": "February 21 Newsletter",
+"href": "https://app.indigov.com/pub/outreach/e6efd976-9c8c-4629-a5b2-327339c8f2ea"
+},
+{
+"text": "February 3 Newsletter",
+"href": "https://app.indigov.com/pub/outreach/23ca5b27-46c2-4b5d-8028-00fea52b9fa1"
+},
+{
+"text": "February 5 Newsletter",
+"href": "https://danastein.com/wp-content/uploads/2026/02/Newsletter-2-5-26-1.pdf"
+},
+{
+"text": "Francis Scott Key Bridge Response",
+"href": "https://app.indigov.com/pub/outreach/20293c4b-2007-419e-9dd4-eb087bd85057"
+},
+{
+"text": "January 23 Newsletter",
+"href": "https://danastein.com/wp-content/uploads/2026/02/Newsletter-1-23-26.pdf"
+},
+{
+"text": "January Newsletter",
+"href": "https://app.indigov.com/pub/outreach/4c8017ec-f813-40cd-8048-38c1c8d38052"
+},
+{
+"text": "Legislative Scholarships",
+"href": "https://danastein.com/scholarship/"
+},
+{
+"text": "MGA Citation Request",
+"href": "https://danastein.com/citation-request/"
+},
+{
+"text": "March 24 Newsletter",
+"href": "https://app.indigov.com/pub/outreach/c30c2ef9-6c6d-49f4-ac57-5bbd37735a93"
+},
+{
+"text": "Meet Dana",
+"href": "https://danastein.com/"
+},
+{
+"text": "October Newsletter",
+"href": "https://app.indigov.com/pub/outreach/61387932-9459-4d52-b32e-a7767f0b98fb"
+},
+{
+"text": "On the Issues",
+"href": "https://danastein.com/on-the-issues/"
+},
+{
+"text": "Resources",
+"href": "https://danastein.com/resources/"
+},
+{
+"text": "September Newsletter",
+"href": "https://app.indigov.com/pub/outreach/17c0995a-c2c2-4753-a07f-24b78a620938"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DelegateStein"
+},
+{
+"text": "[image: Follow Me]",
+"href": "https://twitter.com/intent/user?screen_name=DelDanaMStein1"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/DelDanaMStein1"
+},
+{
+"text": "[image: Visit Us]",
+"href": "https://twitter.com/DelDanaMStein1"
+},
+{
+"text": "newsletter-2-17-26",
+"href": "https://danastein.com/wp-content/uploads/2026/02/newsletter-2-17-26.pdf"
+}
 ]

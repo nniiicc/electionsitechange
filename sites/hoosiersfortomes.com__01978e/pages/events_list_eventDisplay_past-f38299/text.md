@@ -1,21 +1,11 @@
-River Days Parade
-On Saturday September 11 MT Vernon is having their River days parade.
+Skip to content Menu Close Vote For Freedom, Vote For Indiana Vote JIM TOMES Elect Jim Tomes Indiana State Senate District 49 Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Search for: Menu Contribute Elect Jim Tomes Indiana State Senate District 49 Search for: Menu Vote For Freedom, Vote For Indiana Vote JIM TOMES Search for: Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Contribute Archives: Events 7 events found.
+Events Events Search and Views Navigation Search Enter Keyword.
+Search for Events by Keyword.
+Find Events Event Views Navigation List List Month Day #ago 9/11/2021 September 11, 2021 - 10/7/2026 Now Select date.
+September 2021 Sat 11 River Days Parade September 11, 2021 @ 3:00 pm - 6:00 pm UTC+0 Parade Staging @ Mt Vernon Junior High School 701 Tile Factory Rd, Mt Vernon, Indiana, United States On Saturday September 11 MT Vernon is having their River days parade.
 We’re inviting you to join us- Jim and Margie Tomes.
-Lineup is at…
-Skip to content
-Menu
-Close
-Events
-7 events found.
-- River Days Parade Parade Staging @ Mt Vernon Junior High School 701 Tile Factory Rd, Mt Vernon, Indiana, United States On Saturday September 11 MT Vernon is having their River days parade.
-We’re inviting you to join us- Jim and Margie Tomes.
-Lineup is at…
-- River Days Parade Parade Staging @ Mt Vernon Junior High School 701 Tile Factory Rd, Mt Vernon, Indiana, United States Walk with us in the Mt.
+Lineup is at… September 2022 Sat 10 River Days Parade September 10, 2022 @ 2:30 pm - 4:30 pm UTC+0 Parade Staging @ Mt Vernon Junior High School 701 Tile Factory Rd, Mt Vernon, Indiana, United States Walk with us in the Mt.
 Vernon River Days Parade.
-- Poseyville Autumnfest Parade Join us for the Poseyville Autumnfest parade and show your support for State Senator Jim Tomes!
-We ask everyone to arrive around 2pm on Pine…
-- Meet Your Legislature EVPL Central - Browning Event Rooms A And B 200 SE Martin Luther King Jr Blvd., Evansville, IN 47713, Indiana, United States Local Forum allows county residents to interface with Indiana state legislators in a moderated Q&A environment.
-"Meet Your Legislators" dates have been set for 2026…
-- 2026 Campaign Kickoff Senator Jim Tomes and his wife Margie invite you to join them for Jim’s Campaign Kick Off. * Snacks, Refreshments, Admission Free* Hosted by the…
-- SHOTGUN SHOWDOWN Evansville Gun Club 2010 County Rd 1150 S, Haubstadt, IN, United States Save the date!!Saturday, August 1, 2026SHOTGUN SHOWDOWN for 12 gauge shotgunsFundraiser for Senator Jim TomesEvansville Gun Club2010 County Rd 1150 S, Haubstadt, IN 47639 Sporting… $25
-- Re-Elect Jim Tomes Fundraiser The Foundry on Main 100 N Main St, Evansville, Indiana, United States$30
+Sun 25 Poseyville Autumnfest Parade September 25, 2022 @ 2:00 pm - 4:00 pm UTC+0 Join us for the Poseyville Autumnfest parade and show your support for State Senator Jim Tomes!
+We ask everyone to arrive around 2pm on Pine… February 2026 Sat 14 Meet Your Legislature February 14 @ 9:15 am - 11:00 am UTC+0 EVPL Central - Browning Event Rooms A And B 200 SE Martin Luther King Jr Blvd., Evansville, IN 47713, Indiana, United States Local Forum allows county residents to interface with Indiana state legislators in a moderated Q&A environment.
+"Meet Your Legislators" dates have been set for 2026… March 2026 Sat 14 2026 Campaign Kickoff March 14 @ 1:00 pm - 3:00 pm UTC+0 Senator Jim Tomes and his wife Margie invite you to join them for Jim’s Campaign Kick Off. * Snacks, Refreshments, Admission Free* Hosted by the… August 2026 Sat 1 SHOTGUN SHOWDOWN August 1 @ 7:30 am - 4:00 pm UTC+0 Evansville Gun Club 2010 County Rd 1150 S, Haubstadt, IN, United States Save the date!!Saturday, August 1, 2026SHOTGUN SHOWDOWN for 12 gauge shotgunsFundraiser for Senator Jim TomesEvansville Gun Club2010 County Rd 1150 S, Haubstadt, IN 47639 Sporting… $25 Sat 22 Re-Elect Jim Tomes Fundraiser August 22 @ 1:00 pm - 3:00 pm UTC+0 The Foundry on Main 100 N Main St, Evansville, Indiana, United States $30 Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul News The Data Center Issue Indiana State AFL-CIO endorses State Senator Tomes for 2026 Re-election SHOTGUN SHOWDOWN GROUNDBREAKING OF NEW CGB EXPANSION Expanded Indiana Early Voting Indiana Senate District 49 Copyright © # Elect Jim Tomes – Powered by My Campaign Web. *Paid for by Committee to Elect Jim Tomes, Treasurer Margie Tomes

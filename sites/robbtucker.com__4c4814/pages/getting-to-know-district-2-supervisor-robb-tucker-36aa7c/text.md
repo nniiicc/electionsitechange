@@ -1,5 +1,5 @@
-IN THE NEWS Getting to know District 2 Supervisor Robb Tucker
-Months after winning the Primary Election, Robb Tucker was sworn in to office as District 2 Supervisor on Monday, Jan. 6, alongside his colleagues District 1 Supervisor Heidi Hall and District 5 Supervisor Hardy Bullock.
+Skip to content Home About Platform Endorsements News and Events Gallery Contact DONATE IN THE NEWS Getting to know District 2 Supervisor Robb Tucker The Union | January 7, 2025 Months after winning the Primary Election, Robb Tucker was sworn in to office as District 2 Supervisor on Monday, Jan.
+6, alongside his colleagues District 1 Supervisor Heidi Hall and District 5 Supervisor Hardy Bullock.
 Tucker will be replacing Ed Scofield who held the post for 16 years.
 Tucker will be the youngest member on the board, serving communities of Lake of the Pines, Alta Sierra and unincorporated areas along Highway 49.
 A Nevada County native and business owner, this will be Tucker’s first time in a governance position.
@@ -15,8 +15,5 @@ I hope to be known as a servant leader, who leads by example with integrity and 
 Tucker grew up in Nevada County, attending Tall Pines Nursery School, Pleasant Ridge Elementary, and Magnolia Intermediate School.
 He was part of the first graduating class to attend all four years at Bear River High School.
 For 30 years, his father commuted to the Bay Area as a United Airlines pilot based at San Francisco International Airport.
-His mother was elected and served on the Pleasant Ridge Union School District Board of Trustees from 1989-2002
-Today, Tucker is very involved in local schools, youth sports and church.
-He lives on acreage in South Nevada County with his wife Kristy and three children, Samara, Sela and Ethan.
-…
-View Original Publication: The Union
+His mother was elected and served on the Pleasant Ridge Union School District Board of Trustees from 1989-2002 Today, Tucker is very involved in local schools, youth sports and church.
+He lives on acreage in South Nevada County with his wife Kristy and three children, Samara, Sela and Ethan. … View Original Publication: The Union TAKE ACTION DONATE Quickly & Securely Online JOIN ROBB Endorse | Volunteer | Yard Sign LATEST NEWS Fundraising Reception – October 8th Fundraising Reception – September 24th Fundraising Reception – August 20th Fundraising Reception – August 30th Robb Tucker Condemns Ami Bera’s Comments on the Rise of Socialism Fundraising Reception – July 17th All News DONATE JOIN ROBB Paid for by Robb Tucker for Congress Privacy Policy | Terms of Use Scroll To Top

@@ -1,3 +1,7 @@
+Home About Platform News Support DONATE DONATE Home About Platform News Support DONATE Lowcountry Strong.
+America First.
+Lowcountry Strong.
+America First.
 Jenny Costa Honeycutt is a lifelong Lowcountry resident and unapologetic conservative running for Congress to serve the people and protect the place she loves.
 Growing up on James Island before the Connector existed, Jenny’s childhood was spent surfing on Folly Beach, fishing near the Morris Island Lighthouse, swimming for the Fort Johnson Swim Team, hunting the Dill Tract with her father, and spending weekends on Lake Moultrie with her great grandparents in Bonneau – experiences that fostered her deep appreciation for the Lowcountry’s natural beauty and unique quality of life.
 Her upbringing and experience raising her own three children drives Jenny’s commitment to preserving the character of the Lowcountry for future generations.
@@ -16,3 +20,5 @@ In Congress, Jenny will fight to preserve what makes the Lowcountry special, str
 Jenny and her husband, Trey, have three children.
 They attend James Island Christian Church and remain deeply involved in community service, including Jenny’s work with the Junior League of Charleston to support vulnerable families and combat poverty.
 Grounded in faith, family, and the Lowcountry values that shaped her life, Jenny Costa Honeycutt is ready to serve South Carolina’s Lowcountry in Washington.
+Jenny Costa Honeycutt Media Gallery PAID FOR BY JENNY FOR CONGRESS.
+Post Office Box 13823, Charleston, SC 29422 Privacy Policy Share by:

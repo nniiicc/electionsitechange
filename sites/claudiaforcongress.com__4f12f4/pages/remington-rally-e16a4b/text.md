@@ -1,17 +1,13 @@
-At Ilion Rally, Tenney Stands Up for Remington Workers
-Tenney Working with Trump Administration to Help Laid-Off Employees
-Ilion, NY — Today, Claudia Tenney joined Remington workers and their families at a rally and protest outside the Remington Arms plant in Ilion organized by the United Mine Workers of America (UMWA) Local 717.
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Previous page At Rally, Claudia Tenney Stands with Remington Workers Share October 28 2020 At Ilion Rally, Tenney Stands Up for Remington Workers T enney Working with Trump Administration to Help Laid-Off Employees Ilion, NY — Today, Claudia Tenney joined Remington workers and their families at a rally and protest outside the Remington Arms plant in Ilion organized by the United Mine Workers of America (UMWA) Local 717.
 Tenney updated the workers about her ongoing discussions with the White House, Treasury Department, and Department of Labor to intervene on behalf of the workers at America’s oldest continuously operating manufacturing facility, founded in Ilion in 1816.
-The UMWA 717- endorsed candidate for Congress in New York’s 22nddistrict, Claudia Tenney told the crowd of workers and their supporters:
-“I want to say to the Remington workers – you’ve always had my backand I will always have yours.
+The UMWA 717- endorsed candidate for Congress in New York’s 22nddistrict, Claudia Tenney told the crowd of workers and their supporters: “I want to say to the Remington workers – you’ve always had my backand I will always have yours.
 You have made firearms of the highest craftsmanship for generations and you are the heart of our community.
-This is a tragedy of epic proportions but we will keep fighting for you, your families, and your rights and we will come out stronger.”
-Upon hearing the news on Saturday, Tenney acted immediately and contacted the White House, Treasury Department, and Department of Labor to make them aware and ask for their help securing the workers’ rights under their contract including receiving the severance payments due to the Remington workers.
+This is a tragedy of epic proportions but we will keep fighting for you, your families, and your rights and we will come out stronger. ” Upon hearing the news on Saturday, Tenney acted immediately and contacted the White House, Treasury Department, and Department of Labor to make them aware and ask for their help securing the workers’ rights under their contract including receiving the severance payments due to the Remington workers.
 “I’ve spoken to White House officials and they are on top of it.
 The message has gotten to President Trump.
-The Treasury Department and Department of Labor are engaged.You will not be forgotten and I will keep fighting for your livelihoods, rights, and our community because it’s the right thing to do.”
-Tenney, who has endorsed by UMWA 717 in every campaign since 2012, stood with workers against the mistreatment and union contract violations.
+The Treasury Department and Department of Labor are engaged.
+You will not be forgotten and I will keep fighting for your livelihoods, rights, and our community because it’s the right thing to do. ” Tenney, who has endorsed by UMWA 717 in every campaign since 2012, stood with workers against the mistreatment and union contract violations.
 Claudia spoke to the gathered crowd in support of the workers and pledged to fight to ensure the terms of the union contract were fulfilled.
-Tenney said:
-“I’ve reviewed the union contract and it looks clear to me, as an attorney, that the terms of this agreement must be satisfied.”
-Over the weekend, nearly 600 Remington employees received notice that they were laid-off permanently and their healthcare, severance, and other benefits were terminated as of October 31, 2020.
+Tenney said: “I’ve reviewed the union contract and it looks clear to me, as an attorney, that the terms of this agreement must be satisfied.” Over the weekend, nearly 600 Remington employees received notice that they were laid-off permanently and their healthcare, severance, and other benefits were terminated as of October 31, 2020.
+Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

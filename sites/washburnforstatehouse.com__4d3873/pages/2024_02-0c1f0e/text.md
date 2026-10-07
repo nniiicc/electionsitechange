@@ -1,12 +1,9 @@
-by Dale Washburn | Feb 26, 2024 | News
-On Tuesday, February 20, my House colleagues and I reconvened for another productive week of the 2024 legislative session.
+888.888.8888 name@email.com Facebook Instagram Facebook Instagram MEET DALE PRIORITIES Public Office NEWS Contact Sign Up for Capitol Updates Select Page Week 7 Legislative Session Recap 2024 by Dale Washburn | Feb 26, 2024 | News On Tuesday, February 20, my House colleagues and I reconvened for another productive week of the 2024 legislative session.
 During week seven of the session, we met in the House Chamber for three days and continued to do the people’s business by voting on key...
-by Dale Washburn | Feb 21, 2024 | News
-The Georgia House of Representatives kicked off the sixth week of the 2024 legislative session on Monday, February 12.
+Week 6 Legislative Session Recap 2024 by Dale Washburn | Feb 21, 2024 | News The Georgia House of Representatives kicked off the sixth week of the 2024 legislative session on Monday, February 12.
 We convened in the House Chamber for four days and made significant progress as we passed 34 bills and resolutions by the end of the week to send to...
-by Dale Washburn | Feb 12, 2024 | News
-The Georgia General Assembly returned to the State Capitol on Tuesday, February 6 for a busy fifth week of the 2024 legislative session.
+Week 5 Legislative Session Recap 2024 by Dale Washburn | Feb 12, 2024 | News The Georgia General Assembly returned to the State Capitol on Tuesday, February 6 for a busy fifth week of the 2024 legislative session.
 The House assembled for four days, and our days are certainly getting longer and busier as we move further along in the session....
-by Dale Washburn | Feb 5, 2024 | News
-On Monday, January 29, the Georgia General Assembly reconvened at the State Capitol for the fourth week of the 2024 legislative session.
+Week 4 Legislative Session Recap 2024 by Dale Washburn | Feb 5, 2024 | News On Monday, January 29, the Georgia General Assembly reconvened at the State Capitol for the fourth week of the 2024 legislative session.
 This week, the House convened for four days and reached Legislative Day 14 by the end of our week, which means we are now more than...
+Search for: Recent Posts Week 12 Legislative Session Recap 2026 Week 11 Legislative Session Recap 2026 Week 10 Legislative Session Recap 2026 Week 9 Legislative Session Recap 2026 Week 8 Legislative Session Recap 2026 Recent Comments Archives April 2026 March 2026 February 2026 January 2026 April 2025 March 2025 February 2025 January 2025 December 2024 April 2024 March 2024 February 2024 January 2024 April 2023 March 2023 February 2023 January 2023 April 2022 March 2022 February 2022 January 2022 March 2020 February 2020 March 2019 February 2019 January 2019 Categories News Uncategorized Meta Log in Entries feed Comments feed WordPress.org Facebook Instagram © # Dale Washburn for State House | Website by Pipeline Social Media

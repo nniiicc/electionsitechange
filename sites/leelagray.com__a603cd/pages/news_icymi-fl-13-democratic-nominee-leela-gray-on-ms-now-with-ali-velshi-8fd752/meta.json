@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.leelagray.com/news/icymi-fl-13-democratic-nominee-leela-gray-on-ms-now-with-ali-velshi",
- "paid_for_by": "PAID FOR BY LEELA J GRAY FOR CONGRESS INC",
+ "fingerprint": "7386bba780390ccc5f60dbec1ecd57fbfa772975",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY LEELA J GRAY FOR CONGRESS INC You need to enable JavaScript to run this app",
  "title": "ICYMI: FL-13 Democratic Nominee Leela Gray on MS NOW With Ali Velshi",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

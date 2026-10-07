@@ -1,9 +1,7 @@
-MICHAEL WEBBER’S PRIORITIES TO HELP SOUTHEAST MICHIGAN
-Issues
-Lowering the cost of living by making energy, insurance, government, and health care more affordable.
-Senator Webber successfully helped end surprise medical billing and eliminate taxes on tips, Social Security, and overtime.
-Improving education results by encouraging parental involvement, supporting tutoring and reading scholarships for children who have fallen behind, promoting the trades, and resourcing local schools and quality teachers.
-Michael is working to ensure students are prepared for a meaningful career.
-Serving as an effective mental health care advocate by writing the bill to restore school mental health funding, securing more resources for autism support services, and leading efforts to fix the state’s psychiatric children’s care system.
+top of page Home About Michael Issues Endorsements Join The District DONATE MICHAEL WEBBER’S PRIORITIES TO HELP SOUTHEAST MICHIGAN Issues Lowering the cost of living by making energy, insurance, government, and health care more affordable.
+Senator Webber successfully helped end surprise medical billing and eliminate taxes on tips, Social Security, and overtime. ​ Improving education results by encouraging parental involvement, supporting tutoring and reading scholarships for children who have fallen behind, promoting the trades, and resourcing local schools and quality teachers.
+Michael is working to ensure students are prepared for a meaningful career. ​ Serving as an effective mental health care advocate by writing the bill to restore school mental health funding, securing more resources for autism support services, and leading efforts to fix the state’s psychiatric children’s care system.
 Senator Webber was named a Champion by Mental Health America.
 Supporting local jobs and infrastructure, including our growing advanced manufacturing sector, preserving service jobs that were at risk of being lost, supporting our growing aerospace and defense industry, securing funding for the sound wall on I-75 in Troy, and working to rebuild our local roads and bridges.
+THANK YOU FOR YOUR SUPPORT!
+Stronger Families, Stronger Communities PAID FOR BY THE COMMITTEE TO ELECT MICHAEL WEBBER PO BOX 70461 | ROCHESTER HILLS, MI 48307 Home About Issues Case Studies Endorsements The District Yard Signs Donate bottom of page

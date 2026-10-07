@@ -1,10 +1,9 @@
-We can achieve the goals of state lands and State Board of Land Commissioners (SBLC) while maintaining the community character of these parcels.
+About Positions Endorsements Voter Info News Contact Support About Positions Endorsements Voter Info News Contact Support Posts by Frederick Mountain Group Appropriations Committee - August and September Updates Frederick Mountain Group September 15, 2022 Select Water Committee - August & September Updates Frederick Mountain Group September 15, 2022 Travel and Recreation Committee - August & September Updates Frederick Mountain Group September 15, 2022 Global Strategy for State Lands Use and Preservation We can achieve the goals of state lands and State Board of Land Commissioners (SBLC) while maintaining the community character of these parcels.
 We know land values in Teton County are among the highest in the U.S.
 This presents a unique opportunity to generate revenue for Wyoming schools.
 Our open spaces, scenic vistas, wildlife, and clean rivers are a major draw for tourist.
 “In fiscal year 2020, Teton County welcomed 1.5 million overnight visitors.
 Travelers spent $1.1 billion, which generated $55.2 million in state and local tax receipts.” That’s a heck of a lot more than the $600,000 the state will receive annually for the leases on 390 and Munger.
-Read More
-I have been working on several programs and initiatives to keep property taxes manageable for residents, especially families on a fixed income and retirees.
+Read More Frederick Mountain Group August 27, 2022 How to Reduce Property Taxes I have been working on several programs and initiatives to keep property taxes manageable for residents, especially families on a fixed income and retirees.
 To deliver financial support to those who need it most we have to fund the programs we have and expand legislation that defers gains until the time of sale or transfer.
-Read More
+Read More Frederick Mountain Group August 27, 2022 From JH News and Guide: CWC Outreach Campus Frederick Mountain Group August 27, 2022 Fundamental Rights Taken Away Frederick Mountain Group August 27, 2022 From JH News and Guide: Mike Gierau to run for Senate District 17 Frederick Mountain Group August 27, 2022 ©# Paid for by the Committee to Elect Mike Gierau PO 2975 Jackson, WY 83001

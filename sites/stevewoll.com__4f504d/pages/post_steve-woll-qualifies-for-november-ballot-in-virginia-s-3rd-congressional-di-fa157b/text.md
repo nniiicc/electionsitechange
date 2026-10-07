@@ -1,6 +1,4 @@
-Steve Woll Qualifies for November Ballot in Virginia's 3rd Congressional District
-Navy veteran, scientist, and businessman collects 1,600 signatures in roughly one month, mounting the strongest independent challenge Hampton Roads has seen in years
-Norfolk, Virginia, 08-26-2026 — Voters in Virginia's 3rd Congressional District will have a serious independent alternative on the ballot this November.
+top of page Donate Now ABOUT Issues Press Get Involved Menu Close ABOUT Issues Press Get Involved DONATE ABOUT Issues Press Get Involved Menu Close DONATE All Posts From The Blog Podcasts Press Releases Steve Woll Qualifies for November Ballot in Virginia's 3rd Congressional District ah-consults Sep 20 2 min read Steve Woll Qualifies for November Ballot in Virginia's 3rd Congressional District Navy veteran, scientist, and businessman collects 1,600 signatures in roughly one month, mounting the strongest independent challenge Hampton Roads has seen in years Norfolk, Virginia, 08-26-2026 — Voters in Virginia's 3rd Congressional District will have a serious independent alternative on the ballot this November.
 Steve Woll, a 21-year U.S.
 Navy veteran, scientist, small business owner, and independent, officially qualified for the November general election after his campaign collected 1,600 signatures from qualified district voters in roughly one month — well above the 1,000 signatures required by the Commonwealth.
 Woll's qualification is the strongest challenge the district has seen in recent memory.
@@ -11,12 +9,9 @@ The district covers Norfolk, Portsmouth, Newport News, Hampton, and portions of 
 "Voters in this district are tired of a broken two-party system that has failed to deliver yet - on both sides - has treated the 3rd like a district that safely belonged to one party, instead of a dynamic community that needs dynamic Congressional representation.
 Thousands of them signed our petitions because they wanted a choice — and they wanted that choice on this ballot.
 That's not a small thing.
-That's a mandate to get to work."
-Woll spent 21 years in the U.S.
+That's a mandate to get to work." Woll spent 21 years in the U.S.
 Navy as a meteorology and oceanography officer, deploying in support of Operation Iraqi Freedom and commanding the teams that provided at-sea support for the dozen aircraft carriers and large-deck amphibious ships across the Atlantic Fleet.
 After retiring from active duty, he has worked in the private sector on data, technology, and public-private partnerships in Hampton Roads and nationally, and with veteran-led civic organizations focused on bridging political divides.
 "Both parties have spent so long fighting each other that they've forgotten how to serve the people who sent them to Washington," Woll said.
 "This district has been left waiting long enough.
-We're running to win in November, and we're running to prove that a serious independent — with a career of solving hard problems under pressure — is exactly what Hampton Roads has been asking for."
-###
-Contact: press@stevewoll.com
+We're running to win in November, and we're running to prove that a serious independent — with a career of solving hard problems under pressure — is exactly what Hampton Roads has been asking for." ### Contact: press@stevewoll.com stevewoll.com Press Releases ABOUT Issues Press Get Involved ABOUT Issues Press Get Involved Menu Close DONATE ABOUT Issues Press Get Involved STAY UPDATED - SIGN UP FOR OUR OFFICIAL CAMPAIGN NEWSLETTER Email * Yes, subscribe me to your newsletter. * SUBMIT Paid for by Steve Woll For Congress USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY Terms & Conditions | Privacy Policy | Accessibility Statement ABOUT Issues Press Get Involved bottom of page

@@ -1,13 +1,46 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/IanforCNY",
-"https://ianforcny.com/",
-"https://ianforcny.com/about",
-"https://ianforcny.com/contact",
-"https://ianforcny.com/endorsements-copy",
-"https://ianforcny.com/issues",
-"https://ianforcny.com/media",
-"https://ianforcny.com/news",
-"https://secure.actblue.com/donate/ian4cny_website",
-"https://secure.ngpvan.com/EzTYRpN1mU2mLvDuFXFTEA2"
+{
+"text": "About",
+"href": "https://www.ianforcny.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.ianforcny.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ian4cny_website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ianforcny.com/endorsements-copy"
+},
+{
+"text": "Issues",
+"href": "https://www.ianforcny.com/issues"
+},
+{
+"text": "MEDIA",
+"href": "https://www.ianforcny.com/media"
+},
+{
+"text": "News",
+"href": "https://www.ianforcny.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/EzTYRpN1mU2mLvDuFXFTEA2"
+},
+{
+"text": "[image: Ian for Central New York]",
+"href": "https://www.ianforcny.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/IanforCNY"
+}
 ]

@@ -1,4 +1,4 @@
-My entire career has been shaped by a simple pattern: I see a problem, and then I jump in to solve it.
+Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Metagenix Breaking Down the Silos × My entire career has been shaped by a simple pattern: I see a problem, and then I jump in to solve it.
 That is exactly what happened after my time working on 911 dispatch systems.
 I took a leap and started a new business called Metagenix because I saw a massive information bottleneck that was draining millions of dollars from companies.
 Big corporations were trying to bring all their information together to make smart business decisions, but they were running into a major roadblock.
@@ -22,4 +22,6 @@ We need leaders who look at a broken process, jump in to fix or replace it, and 
 Let's bring that practical, builder approach to our state capitol.
 That's Montana common sense.
 These career stories were originally posted on Facebook.
-You can follow the entire story at facebook.com/leman4mt.
+You can follow the entire story at facebook.com/leman4mt . ← Back to Greg's Story Donate to the Campaign Contact Montana House District 60 Quick Links Home Issues Volunteer Donate Follow Paid for by Greg Leman for Montana -R- PO Box 494 Gallatin Gateway, MT 59730 © # Greg Leman for Montana.
+All rights reserved.
+Terms of Service · Privacy Policy

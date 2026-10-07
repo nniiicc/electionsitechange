@@ -1,3 +1,2 @@
-Search the map below to see if you live in the 23rd Representative District (RD)
-to Find Your Polling Place
-& Check Your Registration
+Meet Dave Issues Endorsements Endorsements Neighbor Endorsements Events News The 23rd RD Contact Yard Signs Get Involved Volunteer Election Day Poll Greeter UDave Contribute Meet Dave Issues Endorsements Endorsements Neighbor Endorsements Events News The 23rd RD Contact Yard Signs Get Involved Volunteer Election Day Poll Greeter UDave Contribute Your Page Header Title Join Now ARE YOU IN DAVE'S DISTRICT?
+Search the map below to see if you live in the 23rd Representative District (RD) CLICK HERE to Find Your Polling Place & Check Your Registration English PAID FOR BY COMMITTEE TO ELECT DAVID REDLAWSK Made in Solidarity Tech

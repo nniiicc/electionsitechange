@@ -1,7 +1,2 @@
-BLACK EXCELLENCE AWARDS GALA 2020
-Celebrating Black Entrepreneurs & Business Owners of Lake County
-Feb 29, 2020, 5:30PM – 9:00PM
-Voting for Award Categories is open at: www.beawardsgala.com
-Skip to content
-2/29/2020 – Please Join Us!
-Voting for Award Categories is open at: www.beawardsgala.com
+Skip to content Toggle mobile menu Home About Rita Endorsements Issues News Take Action Donate Volunteer Get Your Rita Mayfield Yard Sign Contact Search for: December 9, 2019 December 9, 2019 2/29/2020 – Please Join Us! news by staff BLACK EXCELLENCE AWARDS GALA 2020 Celebrating Black Entrepreneurs & Business Owners of Lake County Feb 29, 2020, 5:30PM – 9:00PM Voting for Award Categories is open at: www.beawardsgala.com Post navigation Waukegan rejects taller emissions stack for Medline plant that uses ethylene oxide Endorsed by AFSCME Council 31 Latest News Please Join Us On June 10th!
+I Will Always Stand Up For The Rights Of People Sierra Club Endorsed @2024 Friends of Rita Mayfield Contact us Email: info@voteritamayfield.com Address: 118 N Genesee Waukegan, IL 60079 Quick links About Rita Contact Issues Volunteer Endorsements Follow us Facebook Twitter Linkedin Proudly powered by WordPress | Theme: Airi by aThemes.

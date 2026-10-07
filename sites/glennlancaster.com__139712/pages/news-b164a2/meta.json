@@ -1,7 +1,9 @@
 {
- "description": "Stay updated with the latest news, updates, and announcements from Glenn Lancaster\u2019s campaign and community activities.",
+ "description": "Stay updated with the latest news, updates, and announcements from Glenn Lancaster’s campaign and community activities.",
  "final_url": "https://glennlancaster.com/news/",
- "paid_for_by": "Paid for by Love Where You Live #23304 | PO BOX 512 Independence, OR 97351",
+ "fingerprint": "a45efb9860e966aa70cf75f1dc5ab11b6ab5f3a3",
+ "format": 3,
+ "paid_for_by": "Paid for by Love Where You Live #23304",
  "title": "News from the desk of Glenn Lancaster - Glenn Lancaster",
  "years_mentioned": [
   "2026"

@@ -1,14 +1,8 @@
-top of page
-DONATE TO BOBBIE'S CAMPAIGN
-AND . . .
+top of page HOME ABOUT ISSUES ENDORSEMENTS GALLERY DONATE CONTACT More Use tab to navigate through the menu items.
+DONATE TO BOBBIE'S CAMPAIGN Support Our Campaign First Name Last Name Email Street Address Street Address Line 2 City Region/State/Province Postal / Zip code Donate AND . . .
 GET A REFUND!
 Donate to Bobbie's campaign and get a refund!
 Each year, you can contribute $75/person or $150/couple to the campaign and within 3-5 weeks receive a FULL refund from the State.
 This program was established to enable Minnesota citizens to participate in the electoral process, at no cost to them.
-Learn more here.
-Donations can also be made with personal checks.
-Send your donation to:
-Campaign fund of Bobbie Harder
-PO Box 303
-Henderson, MN 56044
-bottom of page
+Learn more here . ​ Donations can also be made with personal checks.
+Send your donation to: Campaign fund of Bobbie Harder PO Box 303 Henderson, MN 56044 ​ harderforhouse@gmail.com Prepared and paid for by Harder For House Committee, PO Box 303, Henderson, MN , USA 56044 bottom of page

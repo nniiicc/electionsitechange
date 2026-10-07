@@ -1,9 +1,5 @@
-Back to All Events
-Join us for food, music and fun as Jeff & the Village of Elburn officially open the newly expanded Village Hall and celebrate America’s 250th birthday.
-Previous
-Previous
-September 24
-Java with Jeff
-Next
-Next
-September 29
+0 Skip to Content About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Back Donate Back to All Events Village of Elburn America 250 Celebration & Open House Saturday, September 26, 2026 11:00 AM 3:00 PM Village of Elburn 300 East North Street Elburn, Illinois, 60119 United States (map) Google Calendar ICS Join us for food, music and fun as Jeff & the Village of Elburn officially open the newly expanded Village Hall and celebrate America’s 250th birthday.
+Previous Previous September 24 Java with Jeff Next Next September 29 Java with Jeff Donate Today Shop About District Contact Paid for by Walter for Congress Campaign Mailing Address: PO Box 411, Elburn, IL 60119 Campaign Phone: 630.286.9068 Jeff Walter is a retired member of the U.S.
+Navy.
+Use of or reference to his military rank, job titles and photographs in uniform does not imply endorsement by the Department of the Navy, or Department of Defense.
+Privacy Policy

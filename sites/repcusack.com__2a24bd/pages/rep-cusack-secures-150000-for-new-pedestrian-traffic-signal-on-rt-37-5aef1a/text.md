@@ -1,5 +1,6 @@
-For immediate release: March 14, 2016
-(BOSTON) – State Representative Mark J.
+Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Facebook Twitter Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Rep.
+Cusack Secures $150,000 for New Pedestrian Traffic Signal on Rt.
+37 For immediate release: March 14, 2016 (BOSTON) – State Representative Mark J.
 Cusack (D-Braintree) has announced that he has secured $150,000 within the commonwealth’s FY16 budget to improve public safety for the community.
 These funds have been released by the state to the town of Braintree for the construction of a pedestrian traffic signal on Route 37.
 The crossing signal will be installed on Route 37 near the Highlands Community Playground, the Braintree Community Arts Center, and the soon to be open CATs Academy.
@@ -11,6 +12,6 @@ A traffic signal was installed shortly afterwards.
 “As we have added the Highlands Playground and the Community Arts Center at this property over the past several years, and with CATs Academy bringing 400 students to this site in the near future, pedestrian safety is a major issue especially along Route 37.
 This traffic signal will allow our residents to safely cross this heavily traveled road,” said Representative Cusack.
 “I am hopeful that this improvement will prevent the tragedies we have seen along this busy state road.
-I want to thank Governor Baker for releasing these funds from the FY16 budget along with the Mass DOT and the town of Braintree for making this improvement in public safety a soon-to-be reality.”
-The installation of the new pedestrian traffic signal by the town of Braintree will take place within the upcoming months.
-####
+I want to thank Governor Baker for releasing these funds from the FY16 budget along with the Mass DOT and the town of Braintree for making this improvement in public safety a soon-to-be reality.” The installation of the new pedestrian traffic signal by the town of Braintree will take place within the upcoming months.
+#### Newsroom Press Releases Previous House Passes Substance Addiction Legislation to Enhance Continuum of Care and Prevention Efforts Next Legislature Authorizes Funding for Municipal Roads and Bridges Related Posts ...
+House Passes FY22 ; Cusack Secures $62 Million in Local Aid for Braintree, Holbrook & Randolph Newsroom , Press Releases House Passes Fiscal Year 2019 Supplemental Budget; Cusack Secures $200,000 for Traffic Mitigation in Braintree Newsroom , Press Releases House and Senate Pass FY20 Budget; Cusack Secures $400,000 directed towards improvements in Braintree Newsroom , Press Releases Take Action Donate Join Mark’s Team Stay Informed Facebook Twitter 2020 - Paid for by the Committee to Elect Mark Cusack 74 Brow Avenue Braintree MA 02184

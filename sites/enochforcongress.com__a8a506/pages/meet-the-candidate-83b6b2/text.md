@@ -1,7 +1,5 @@
-Meet the Candidate
-Dr.
-Vanessa Enoch
-The following Q&A is from Ballotpedia's Candidate Connections survey with candidate for the the U.S.
+Skip to content Facebook Twitter Pinterest Instagram LinkedIn Home Endorsements About Biography Issues Ohio’s 8th Congressional District Voting in 2026 Blog Events Contact Contact Share Your Opinion Donate Order a Yard Sign Volunteer Meet the Candidate Dr.
+Vanessa Enoch The following Q&A is from Ballotpedia's Candidate Connections survey with candidate for the the U.S.
 House of Representatives, Vanessa Enoch.
 Who are you?
 Tell us about yourself.
@@ -19,9 +17,11 @@ Enoch worked alongside State Senators Thomas and two State Court Judges on judic
 She has advocated for the working poor, for childcare benefits, and much of her work has involved dismantling the school-to-prison pipeline and issues facing children within the juvenile justice system.
 Please list below 3 key messages of your campaign.
 What are the main points you want voters to remember about your goals for your time in office?
+Enoch believes that all Americans should have equal access and the opportunity to succeed, no matter their background and socioeconomic status.
+As an experienced community and economic developer, Enoch understands what is necessary to build and develop strong communities.
+Enoch will continue to fight in US Congress, to restore the government back to the people and to give them a voice in government.
 What areas of public policy are you personally passionate about?
-The top three areas of public policy I'm passionate about are:
-1) Economic Development- Which includes supporting small business growth and development, stabilizing markets for domestic family farmers (i.e. saving our safety net that feeds the nation's most needy populations, opening new markets such as hemp and medicinal marijuana), promoting fair pay and new industry and development in rural areas.
+The top three areas of public policy I'm passionate about are: 1) Economic Development- Which includes supporting small business growth and development, stabilizing markets for domestic family farmers (i.e. saving our safety net that feeds the nation's most needy populations, opening new markets such as hemp and medicinal marijuana), promoting fair pay and new industry and development in rural areas.
 2) Providing Affordable Healthcare: I support a public Medicare option that leaves private insurance intact.
 3) Saving Social Security, which includes ending mass incarceration (which takes millions of non-violent offenders out of the job market, who could be earning wages and paying into the social security system) and fixing the immigration system to encourage new tax revenue.
 Who do you look up to?
@@ -79,8 +79,7 @@ I would be Superman.
 I really like his concern for making the world right and how he balanced that with his career as a journalist and his romantic love for Lois Lane.
 I am happy to be the woman version of Superman, but Superwoman is not as appealing as a superhero as superman.
 What was the last song that got stuck in your head?
-"If it had not been for the Lord on our side, tell me where would I be"
-What is something that has been a struggle in your life?
+"If it had not been for the Lord on our side, tell me where would I be" What is something that has been a struggle in your life?
 My greatest struggle in life has been single parenting my daughters after the loss of my husband.
 Parenting should be a two person job.
 Financially, it is a significant strain on one person.
@@ -120,22 +119,8 @@ We need to open new markets for trade with African countries and those with unta
 We also need to redevelop our infrastructure to prepare for global warming and the need to move populations to higher ground, as our coastal cities are eroding and will soon be uninhabitable.
 If you are not a current representative, are there certain committees that you would want to be a part of?
 I would be proud to serve on any committee that would benefit the 8th Congressional District.
-I think the following committees would best serve the interests of our district:
-- Agriculture
-- Appropriations
-- Budget
-- Education and Labor
-- Financial Services
-- Foreign Affairs
-- Judiciary Oversight and Government Reform
-- Science, Space, and Technology
-- Small Business
-- Transportation and Infrastructure
-- Veterans' Affairs
-- Ways and Means
-If you are a current representative, why did you join your current committees?
-N/A
-Do you believe that two years is the right term length for representatives?
+I think the following committees would best serve the interests of our district: Agriculture Appropriations Budget Education and Labor Financial Services Foreign Affairs Judiciary Oversight and Government Reform Science, Space, and Technology Small Business Transportation and Infrastructure Veterans' Affairs Ways and Means If you are a current representative, why did you join your current committees?
+N/A Do you believe that two years is the right term length for representatives?
 No, I believe that a more appropriate term is 4 years.
 This would allow a Representative to demonstrate that they can be effective in the role.
 What are your thoughts on term limits?
@@ -153,3 +138,21 @@ Is there a story that you’ve heard that you found particularly touching, memor
 The stories that touch my heart the most are the cancer stories and the stories that parents tell me about the loss of their children.
 The most disheartening stories are the tragedies that could have been preventable.
 In 2018, a mother in Middletown told me the story of her son had died of an opioid addiction, and the story of a father that lost his daughter to opioid addiction two days before Easter and then a son two days before Christmas the same year.
+Search Search field required with a minimum length of 3 characters Search Search Search field required with a minimum length of 3 characters Enoch for Congress U.S.
+House of Representatives, Ohio's 8th District (OH-08) Contact P.O.
+Box 1362 West Chester, OH 45071 (513) 486-4829 dr.enoch@enochforcongress.com Get the Latest Name Please enter your name.
+Email Address Please enter a valid email address.
+Subscribe!
+Thanks for subscribing!
+We'll be in touch soon!
+Something went wrong.
+Please check your entries and try again.
+Contribute Be a part of the movement and participate in building a better future for our country!
+Join this historical campaign and stand up for the values that make our country great.
+Make a difference.
+The Campaign is paid for by the Committee to Elect Enoch.
+Donate Volunteer Upcoming Events October Meet & Greet with Dr.
+Vanessa Enoch @ Major Minor Books and Such October 11 @ 3:00 pm - 5:00 pm October Wooster Corridor Democrats Meeting October 14 @ 6:00 pm - 8:00 pm Doc Enoch on Twitter Twitter feed is not available at the moment.
+Home Upcoming Events Blog Shop Contact Facebook Twitter Pinterest Instagram LinkedIn ©# Enoch for Congress.
+All Rights Reserved.
+Volunteer Portal Scroll To Top

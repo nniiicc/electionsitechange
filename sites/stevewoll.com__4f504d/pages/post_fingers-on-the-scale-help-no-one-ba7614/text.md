@@ -1,7 +1,8 @@
-Fingers on the scale help no one
-Disturbing reporting today from the New York Times regarding the suppression of reports that indicated the Covid vaccine was effective in reducing Covid's effects on those had received the vaccine.
+top of page Donate Now ABOUT Issues Press Get Involved Menu Close ABOUT Issues Press Get Involved DONATE ABOUT Issues Press Get Involved Menu Close DONATE All Posts From The Blog Podcasts Press Releases Fingers on the scale help no one Steve Woll May 5 1 min read Disturbing reporting today from the New York Times regarding the suppression of reports that indicated the Covid vaccine was effective in reducing Covid's effects on those had received the vaccine.
 Obviously many people during and after the pandemic accused the Biden adminstration of suppressing negative information about the vaccine.
 Yet here we are several years later, when peer-reviewed journal articles (the standard for scientific articles) were pulled, apparently because they displeased senior officials in the Department of Health and Human Services and contradicted their agenda.
 Exactly what they accused the Biden era HHS of doing.
 If it was wrong in the Biden administration, it is equally wrong in the Trump administration.
 But don't expect to hear that from either side.
+From The Blog Recent Posts See All A Chance to Recommit Meeting Hampton Roads Why I'm Stepping Forward...
+ABOUT Issues Press Get Involved ABOUT Issues Press Get Involved Menu Close DONATE ABOUT Issues Press Get Involved STAY UPDATED - SIGN UP FOR OUR OFFICIAL CAMPAIGN NEWSLETTER Email * Yes, subscribe me to your newsletter. * SUBMIT Paid for by Steve Woll For Congress USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY Terms & Conditions | Privacy Policy | Accessibility Statement ABOUT Issues Press Get Involved bottom of page

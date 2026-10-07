@@ -1,7 +1,13 @@
-JOIN TEAM TANO
-Join the campaign today to receive updates, volunteer opportunities, and important election information.
-Contact Us
+ABOUT ISSUES NEWS ENDORSEMENTS DONATE JOIN TEAM T ﻿ ANO Join the campaign today to receive updates, volunteer opportunities, and important election information.
+Contact Us First Name: Last Name: Email: Phone: Texting Opt-in By checking this box and submitting this form, you consent to receive recurring text messages (event reminders, issue updates, volunteer opportunities, and donation requests) from Tano Tijerina For Congress at the number provided.
+Message frequency varies.
+Msg & data rates may apply.
+Reply HELP for assistance.
+Reply STOP to opt out at any time.
+Terms & Conditions + Privacy Policy apply.
+Thank you for contacting us.
 We will get back to you as soon as possible.
+Oops, there was an error sending your message.
 Please try again later.
 I'm Tano Tijerina—a husband, father, and follower of Christ.
 South Texas raised me.
@@ -26,3 +32,4 @@ My wife and I have deep roots in Laredo and it’s where we chose to raise our k
 This campaign is about faith.
 It is about family.
 It is about fighting for the place we call home.
+I am proud of where I come from and I am ready to give everything I have to make sure South Texas has the voice it deserves in Washington In THE NEWS PRIVACY POLICY PAID FOR BY TANO TIJERINA FOR CONGRESS Share by:

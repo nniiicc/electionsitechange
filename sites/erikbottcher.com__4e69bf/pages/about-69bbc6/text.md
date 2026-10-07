@@ -1,5 +1,4 @@
-Skip navigation menu
-It is time for a new generation of leaders who are ready and know how to win tough fights.
+Skip navigation menu Home About Events Volunteer Contact Donate My Story Home About Events Volunteer Contact Donate My Story It is time for a new generation of leaders who are ready and know how to win tough fights.
 Erik Bottcher is a public servant and activist guided by a simple belief: that government should make people’s lives better.
 Representing New York City Council District 3—which includes the West Village, Chelsea, Hell’s Kitchen, Times Square, Hudson Square, Flatiron, and the Garment District—Erik has spent his career fighting for equality, serving his community, and ensuring that government works for the people it serves.
 Raised in a small Adirondack town as the only gay person he knew, Erik’s struggles with depression gave him a deep understanding of the challenges facing marginalized people.
@@ -13,6 +12,5 @@ Erik currently serves as Co-Chair of both the Manhattan Delegation and the LGBTQ
 His leadership reflects a steadfast belief that policy must both meet people’s needs and affirm their dignity.
 Erik’s work demonstrates a central conviction.
 New Yorkers deserve a government that solves problems, lifts up every community, and protects the values that make this city a beacon of possibility.
-"I believe New Yorkers deserve a government that solves problems, lifts up every community, and protects the values that make this city a beacon of possibility."
-"In New York, we stand up to bullies.
-We can stand up to Trump and rebuild a country that works for everyone."
+"I believe New Yorkers deserve a government that solves problems, lifts up every community, and protects the values that make this city a beacon of possibility." " In New York, we stand up to bullies.
+We can stand up to Trump and rebuild a country that works for everyone." Powered by RUN! website builder Paid for by Bottcher For Senate You need to enable JavaScript to run this app.

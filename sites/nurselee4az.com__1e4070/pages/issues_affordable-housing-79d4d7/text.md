@@ -1,36 +1,12 @@
-elizabeth believes in
-AFFORDABLE HOUSING
-Housing is healthcare because the conditions in which people live directly shape their physical and mental health.
+Skip navigation menu About Issues News Endorsements Events Volunteer Resources Your Voice Socials Contact Donate About Issues News Endorsements Events Volunteer Resources Your Voice Socials Contact Donate HEALTHCARE IS A HUMAN RIGHT FULLY FUNDING PUBLIC EDUCATION AFFORDABLE HOUSING ECONOMIC EQUITY PRO-FAMILY MEANS ALL FAMILIES PROTECTING DEMOCRACY + VOTING RIGHTS WATER SECURITY & ENVIRONMENTAL PROTECTION REPRODUCTIVE FREEDOM & FERTILITY CARE ACCESS GUN VIOLENCE PREVENTION IMMIGRATION REFORM & BORDER SECURITY INTERNATIONAL JUSTICE GOVERNMENT THAT WORKS FOR THE PEOPLE elizabeth believes in AFFORDABLE HOUSING Housing is healthcare because the conditions in which people live directly shape their physical and mental health.
 Safe, stable and affordable housing reduces exposure to environmental hazards, lowers rates of chronic illness, supports medication adherence and decreases costly emergency care and hospitalizations.
-When people are forced into housing instability or homelessness, health outcomes decline and healthcare costs rise for everyone.
-Researchers now link housing instability directly to what are known as “deaths of despair” — suicide, overdose, and alcohol-related illness.
+When people are forced into housing instability or homelessness, health outcomes decline and healthcare costs rise for everyone .
+Researchers now link housing instability directly to what are known as “deaths of despair” — suicide, overdose, and alcohol-related illness .
 When people are forced to choose between rent, food, and healthcare, the result is chronic stress, hopelessness, and, too often, tragedy.
 People without stable housing get sicker, die younger, and fall through the cracks of systems never built to catch them.
 As is so often the case, the root issue is not an individual failure but a policy failure.
 Investing in accessible housing is not separate from healthcare policy, it is a foundational strategy to improve population health, reduce inequities, and build a system that actually prevents illness instead of just reacting to it.
-What Elizabeth Will Do
-Make Housing Affordable Again
-- Crack down on corporate landlords and investment firms buying up single-family homes
-- Provide first-time homebuyer assistance and down payment support
-- Expand affordable housing development through federal grants
-- Strengthen renter protections against predatory practices
-- Cap rent increases to prevent price gouging
-- Expand federal investment in affordable housing development
-- Incentivize local governments to increase supply
-- Protect and preserve existing affordable units
-- Why it matters: Corporate greed has turned the American Dream into the American Nightmare.
-Homes should be for families, not Wall Street portfolios.
-prevent evictions before they happen
-- Fund legal assistance for tenants
-- Support emergency rental assistance programs
-- Encourage policies that stabilize housing during economic shocks
-- Why it matters: Without stable housing, families cannot
-references
-https://pmc.ncbi.nlm.nih.gov/articles/PMC6980955/
-https://www.youtube.com/watch?v=NcDQyZByJfQ
-https://jech.bmj.com/content/jech/77/2/65.full.pdf
-https://pmc.ncbi.nlm.nih.gov/articles/PMC6980953/
-http://publichealth.lacounty.gov/ha/reports/LAHealthBrief2011/HousingHealth/SD_Housing_Fs.pdf
-https://pmc.ncbi.nlm.nih.gov/articles/PMC9934450/
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281912
-https://wtamu-ir.tdl.org/items/686ab021-0b1d-4dec-a139-15357d75e561
+What Elizabeth Will Do Make Housing Affordable Again Crack down on corporate landlords and investment firms buying up single-family homes Provide first-time homebuyer assistance and down payment support Expand affordable housing development through federal grants Strengthen renter protections against predatory practices Cap rent increases to prevent price gouging Expand federal investment in affordable housing development Incentivize local governments to increase supply Protect and preserve existing affordable units Why it matters: Corporate greed has turned the American Dream into the American Nightmare.
+Homes should be for families, not Wall Street portfolios. prevent evictions before they happen Fund legal assistance for tenants Support emergency rental assistance programs Encourage policies that stabilize housing during economic shocks Why it matters: Without stable housing, families cannot references https://pmc.ncbi.nlm.nih.gov/articles/PMC6980955/ https://www.youtube.com/watch?v=NcDQyZByJfQ https://jech.bmj.com/content/jech/77/2/65.full.pdf https://pmc.ncbi.nlm.nih.gov/articles/PMC6980953/ http://publichealth.lacounty.gov/ha/reports/LAHealthBrief2011/HousingHealth/SD_Housing_Fs.pdf https://pmc.ncbi.nlm.nih.gov/articles/PMC9934450/ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281912 https://wtamu-ir.tdl.org/items/686ab021-0b1d-4dec-a139-15357d75e561 https://www.ncbi.nlm.nih.gov/search/research-news/17769/ https://schaeffer.usc.edu/research/what-is-driving-deaths-of-despair-deaton-and-case-point-to-the-way-we-pay-for-healthcare/ PRO- FAMILY | PRO- LIBERTY | PRO- ARIZONA Powered by RUN! website builder PAID FOR BY ELIZABETH LEE FOR CONGRESS.
+AUTHORIZED BY ELIZABETH LEE.
+You need to enable JavaScript to run this app.

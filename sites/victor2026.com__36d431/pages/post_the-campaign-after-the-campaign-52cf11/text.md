@@ -1,6 +1,4 @@
-The Campaign After the Campaign
-By Buddy Jericho
-A few nights after the primary, we opened a Zoom call with GOP county leaders and grassroots Republicans expecting a normal campaign update.
+top of page DONATE MEET VICTOR POLICIES Policies My Priorities Policies My Priorities PRESS MEDIA ALL POSTS PRESS RELEASES NEWSLETTERS OP-EDS MEDIA ALL POSTS PRESS RELEASES NEWSLETTERS OP-EDS EVENTS ENDORSEMENTS CWB PLAN CONTACT Menu Close DONATE All Posts Press Releases Newsletters Op-Eds The Campaign After the Campaign Victor Marx for Governor Jul 27 4 min read By Buddy Jericho A few nights after the primary, we opened a Zoom call with GOP county leaders and grassroots Republicans expecting a normal campaign update.
 Instead, people kept joining.
 Questions kept coming.
 Some were about strategy.
@@ -69,3 +67,10 @@ I plan to keep writing these notes because people deserve an honest look at what
 The primary is over.
 The campaign after the campaign has begun.
 And from what I am seeing on the ground, a lot of people are ready to fight for Colorado.
+Op-Eds Recent Posts See All When Government Goes Dark, Taxpayers Lose Control By Buddy Jericho Across Colorado, I hear from people who did what they were told responsible citizens should do.
+They worked, saved, bought a home and, in some cases, paid it off.
+Yet they still worry Don't Blame Young Coloradans for Socialism.
+Give Them Their Future Back.
+By Buddy Jericho I recently returned from traveling across Colorado’s Western Slope with gubernatorial candidate Victor Marx and his lieutenant governor running mate, George Markert.
+Along the way, I A Voter’s Guide to Misinformation Buddy Jericho shares a practical framework for spotting misleading claims and responding with calm, source-backed facts.
+MEET VICTOR POLICIES Policies My Priorities PRESS MEDIA ALL POSTS PRESS RELEASES NEWSLETTERS OP-EDS EVENTS ENDORSEMENTS CWB PLAN CONTACT ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

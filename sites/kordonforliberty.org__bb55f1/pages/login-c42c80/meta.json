@@ -1,7 +1,9 @@
 {
  "description": "Login Register Lost your password? Registration currently disabled and this form will not be visible for guest users. Please, enable registration in Settings/General or remove this widget from the page. Lost your password? Registration currently disabled and this form will not be visible for guest users. Please, enable",
  "final_url": "https://kordonforliberty.org/login/",
- "paid_for_by": null,
+ "fingerprint": "67312571025ac85447f2352574c70aae798bd1a3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Login/Register | Elect Matthew Kordon",
  "years_mentioned": []
 }

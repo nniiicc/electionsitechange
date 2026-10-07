@@ -1,5 +1,4 @@
-Privacy Policy
-Welcome to Dustyforcolorado.com, located at Fort Morgan, Colorado.
+Home About News Awards & Support Community Resources Contact Donate Terms of Service Privacy Policy Welcome to Dustyforcolorado.com , located at Fort Morgan, Colorado.
 By using the website, the related mobile website, and the mobile application (collectively, the “Websites”), you agree to be bound by these Terms of Service (this “Terms of Service” or “Agreement”), whether or not you register as a member of Dustyforcolorado.com ("Member").
 If you wish to become a Member and/or make use of the service (the “Service”), please read this Agreement.
 If you object to anything in this Agreement or the Dustyforcolorado.com Privacy Policy, do not use the Service.
@@ -18,12 +17,9 @@ Please print a copy of this document for your records.
 To retain an electronic copy of this Agreement, you may save it into any word processing program.
 2.
 Commercial Use of Service.
-If you are using the Service and/or accessing the Websites on behalf of a company, entity, or organization (collectively, a “Subscribing Entity”), you represent and warrant that:
-a.
-You are an authorized representative of the Subscribing Entity, and that you have the authority to bind the Subscribing Entity to this Terms of Service;
-b.
-You have read and understand this Terms of Service; and
-c.
+If you are using the Service and/or accessing the Websites on behalf of a company, entity, or organization (collectively, a “Subscribing Entity”), you represent and warrant that: a.
+You are an authorized representative of the Subscribing Entity, and that you have the authority to bind the Subscribing Entity to this Terms of Service; b.
+You have read and understand this Terms of Service; and c.
 You agree to this Terms of Service on behalf of the Subscribing Entity.
 Illegal and/or unauthorized uses of the Websites include, but are not limited to, browsing or downloading illegal content, collecting usernames and/or email addresses of members by electronic or other means for the purpose of sending unsolicited email, unauthorized framing of or linking to the Websites, sharing or disclosing your username or password to any third party or permitting any third party to access your account, attempting to impersonate another user or person, use of the Websites in any fraudulent or misleading manner, any automated use of the system, such as scraping the Websites, automated scripts, spiders, robots, crawlers, data mining tools or the like, interfering with, disrupting, or creating an undue burden on the Websites or the networks or services connected to the Websites, and using the Websites in a manner inconsistent with any and all applicable laws and regulations.
 Illegal and/or unauthorized use of the Websites may be investigated, and appropriate legal action may be taken, including without limitation, civil, criminal, and injunctive redress.
@@ -36,61 +32,35 @@ Dustyforcolorado.com will not be liable for any loss or damage arising from your
 You should use particular caution when accessing your account from a public or shared computer so that others are not able to view or record your password or other personal information.
 If you share your computer with others, you may wish to consider disabling your auto-login feature if you have it linked to your Dustyforcolorado.com account.
 4.
-Your Use of the Websites
-a.
-You may not browse or download illegal content.
-b.
-You must not copy or capture, or attempt to copy or capture, any content from the Websites (the “Content”) or any part of the Websites, unless given express permission by Dustyforcolorado.com.
-c.
-You must not copy, republish, adapt, make available or otherwise communicate to the public, display, perform, transfer, share, distribute or otherwise use or exploit any Content on or from the Platform, except (i) where such Content is created by you (such content, “Your Content”), or (ii) as permitted under these Terms of Service, and within the parameters set by the person or entity that uploaded the Content (the “Uploader”) (for example, under the terms of Creative Commons licenses selected by the Uploader).
-d.
-You must not use any Content (other than Your Content) in any way that is designed to create a separate content service or that replicates any part of the Websites’ offering.
-e.
-You must not employ scraping or similar techniques to aggregate, repurpose, republish or otherwise make use of any Content.
-f.
+Your Use of the Websites a.
+You may not browse or download illegal content. b.
+You must not copy or capture, or attempt to copy or capture, any content from the Websites (the “Content”) or any part of the Websites, unless given express permission by Dustyforcolorado.com. c.
+You must not copy, republish, adapt, make available or otherwise communicate to the public, display, perform, transfer, share, distribute or otherwise use or exploit any Content on or from the Platform, except (i) where such Content is created by you (such content, “Your Content”), or (ii) as permitted under these Terms of Service, and within the parameters set by the person or entity that uploaded the Content (the “Uploader”) (for example, under the terms of Creative Commons licenses selected by the Uploader). d.
+You must not use any Content (other than Your Content) in any way that is designed to create a separate content service or that replicates any part of the Websites’ offering. e.
+You must not employ scraping or similar techniques to aggregate, repurpose, republish or otherwise make use of any Content. f.
 You must not employ the use of bots, botnets, scripts, apps, plugins, extensions or other automated means to register accounts, log-in, post comments, or otherwise to act on your behalf, particularly where such activity occurs in a multiple or repetitive fashion.
-You must not offer or promote the availability of any such techniques or services to any other users of the Websites.
-g.
-You must not alter or remove, or attempt to alter or remove, any trademark, copyright or other proprietary or legal notices contained in, or appearing on, the Websites or any Content appearing on the Websites (other than Your Content).
-h.
-You must not, and must not permit any third party to, copy or adapt the object code of the Websites, or reverse engineer, reverse assemble, decompile, modify or attempt to discover any source or object code of any part of the Websites, or circumvent or attempt to circumvent or copy any copy protection mechanism or access any rights management information pertaining to Content other than Your Content.
-i.
-You must not use the Websites to upload, post, store, transmit, display, copy, distribute, promote, make available or otherwise communicate to the public:
-● any Content that is offensive, abusive, libelous, defamatory, obscene, racist, sexually explicit, ethnically or culturally offensive, indecent, that promotes violence, terrorism, or illegal acts, incites hatred on grounds of race, gender, religion or sexual orientation, or is otherwise objectionable in Dustyforcolorado.com’s sole and reasonable discretion;
-● any information, Content or other material that violates, plagiarizes, misappropriates or infringes the rights of third parties including, without limitation, copyright, trademark rights, rights of privacy or publicity, confidential information or any other right; or
-● any Content that violates, breaches or is contrary to any law, rule, regulation, court order or is otherwise is illegal or unlawful in Dustyforcolorado.com’s sole and reasonable opinion;
-● any material of any kind that contains any virus, Trojan horse, spyware, adware, malware, bot, time bomb, worm, or other harmful or malicious component, which will or might overburden, impair or disrupt the Websites or servers or networks forming part of, or connected to, the Websites, or which does or might restrict or inhibit any other user's use and enjoyment of the Websites; or
-● any unsolicited or unauthorized advertising, promotional messages, spam or any other form of solicitation.
-j.
-You must not commit or engage in, or encourage, induce, solicit or promote, any conduct that would constitute a criminal offense, give rise to civil liability or otherwise violate any law or regulation.
-k.
-You must not rent, sell or lease access to the Websites, or any Content on the Websites, although this will not prevent you from including links from Your Content to any legitimate online download store from where any item of Your Content may be purchased.
-l.
-You must not deliberately impersonate any person or entity or otherwise misrepresent your affiliation with a person or entity, for example, by registering an account in the name of another person or company, or sending messages or making comments using the name of another person.
-m.
+You must not offer or promote the availability of any such techniques or services to any other users of the Websites. g.
+You must not alter or remove, or attempt to alter or remove, any trademark, copyright or other proprietary or legal notices contained in, or appearing on, the Websites or any Content appearing on the Websites (other than Your Content). h.
+You must not, and must not permit any third party to, copy or adapt the object code of the Websites, or reverse engineer, reverse assemble, decompile, modify or attempt to discover any source or object code of any part of the Websites, or circumvent or attempt to circumvent or copy any copy protection mechanism or access any rights management information pertaining to Content other than Your Content. i.
+You must not use the Websites to upload, post, store, transmit, display, copy, distribute, promote, make available or otherwise communicate to the public: ● any Content that is offensive, abusive, libelous, defamatory, obscene, racist, sexually explicit, ethnically or culturally offensive, indecent, that promotes violence, terrorism, or illegal acts, incites hatred on grounds of race, gender, religion or sexual orientation, or is otherwise objectionable in Dustyforcolorado.com’s sole and reasonable discretion; ● any information, Content or other material that violates, plagiarizes, misappropriates or infringes the rights of third parties including, without limitation, copyright, trademark rights, rights of privacy or publicity, confidential information or any other right; or ● any Content that violates, breaches or is contrary to any law, rule, regulation, court order or is otherwise is illegal or unlawful in Dustyforcolorado.com’s sole and reasonable opinion; ● any material of any kind that contains any virus, Trojan horse, spyware, adware, malware, bot, time bomb, worm, or other harmful or malicious component, which will or might overburden, impair or disrupt the Websites or servers or networks forming part of, or connected to, the Websites, or which does or might restrict or inhibit any other user's use and enjoyment of the Websites; or ● any unsolicited or unauthorized advertising, promotional messages, spam or any other form of solicitation. j.
+You must not commit or engage in, or encourage, induce, solicit or promote, any conduct that would constitute a criminal offense, give rise to civil liability or otherwise violate any law or regulation. k.
+You must not rent, sell or lease access to the Websites, or any Content on the Websites, although this will not prevent you from including links from Your Content to any legitimate online download store from where any item of Your Content may be purchased. l.
+You must not deliberately impersonate any person or entity or otherwise misrepresent your affiliation with a person or entity, for example, by registering an account in the name of another person or company, or sending messages or making comments using the name of another person. m.
 You must not stalk, exploit, threaten, abuse or otherwise harass another user, or any Dustyforcolorado.com employee.
-If we feel that your behavior towards any of our employees is at any time threatening or offensive, we reserve the right to immediately terminate your membership and you will not be entitled to any refund of unused subscription fees.
-n.
-You must not sell or transfer, or offer to sell or transfer, any Dustyforcolorado.com account to any third party without the prior written approval of Dustyforcolorado.com.
-o.
-You must not collect or attempt to collect personal data, or any other kind of information about other users, including without limitation, through spidering or any form of scraping.
-p.
+If we feel that your behavior towards any of our employees is at any time threatening or offensive, we reserve the right to immediately terminate your membership and you will not be entitled to any refund of unused subscription fees. n.
+You must not sell or transfer, or offer to sell or transfer, any Dustyforcolorado.com account to any third party without the prior written approval of Dustyforcolorado.com. o.
+You must not collect or attempt to collect personal data, or any other kind of information about other users, including without limitation, through spidering or any form of scraping. p.
 You must not violate, circumvent or attempt to violate or circumvent any data security measures employed by Dustyforcolorado.com or any Uploader; access or attempt to access data or materials which are not intended for your use; log into, or attempt to log into, a server or account which you are not authorized to access; attempt to scan or test the vulnerability of Dustyforcolorado.com’s servers, system or network or attempt to breach Dustyforcolorado.com’s data security or authentication procedures; attempt to interfere with the Websites or the Services by any means including, without limitation, hacking Dustyforcolorado.com’s servers or systems, submitting a virus, overloading, mail-bombing or crashing.
 Without limitation to any other rights or remedies of Dustyforcolorado.com under these Terms of Service, Dustyforcolorado.com reserves the right to investigate any situation that appears to involve any of the above, and may report such matters to, and cooperate with, appropriate law enforcement authorities in prosecuting any users who have participated in any such violations.
 You agree to comply with the above conditions, and acknowledge and agree that Dustyforcolorado.com has the right, in its sole discretion, to terminate your account or take such other action as we see fit if you breach any of the above conditions or any of the other terms of these Terms of Service.
 This may include taking court action and/or reporting offending users to the relevant authorities.
 5.
 Representations and Warranties.
-You hereby represent and warrant to Dustyforcolorado.com as follows:
-a.
-Your Content, and each and every part thereof, is an original work by you, or you have obtained all rights, licenses, consents and permissions necessary in order to use, and (if and where relevant) to authorize Dustyforcolorado.com to use, Your Content pursuant to these Terms of Service, including, without limitation, the right to upload, reproduce, store, transmit, distribute, share, publicly display, publicly perform, make available and otherwise communicate to the public Your Content, and each and every part thereof, on, through or via the Websites, any and all Services and any third party services.
-b.
-Your Content and the availability thereof on the Platform does not and will not infringe or violate the rights of any third party, including, without limitation, any intellectual property rights, performers' rights, rights of privacy or publicity, or rights in confidential information.
-c.
-You have obtained any and all necessary consents, permissions and/or releases from any and all persons appearing in Your Content in order to include their name, voice, performance or likeness in Your Content and to publish the same on the Websites and via any third party services.
-d.
-Your Content, including any comments that you may post on the Websites, is not and will not be unlawful, offensive, abusive, libelous, defamatory, obscene, racist, sexually explicit, ethnically or culturally offensive, indecent, will not promote violence, terrorism, or illegal acts, or incite hatred on grounds of race, gender, religion or sexual orientation.
-e.
+You hereby represent and warrant to Dustyforcolorado.com as follows: a.
+Your Content, and each and every part thereof, is an original work by you, or you have obtained all rights, licenses, consents and permissions necessary in order to use, and (if and where relevant) to authorize Dustyforcolorado.com to use, Your Content pursuant to these Terms of Service, including, without limitation, the right to upload, reproduce, store, transmit, distribute, share, publicly display, publicly perform, make available and otherwise communicate to the public Your Content, and each and every part thereof, on, through or via the Websites, any and all Services and any third party services. b.
+Your Content and the availability thereof on the Platform does not and will not infringe or violate the rights of any third party, including, without limitation, any intellectual property rights, performers' rights, rights of privacy or publicity, or rights in confidential information. c.
+You have obtained any and all necessary consents, permissions and/or releases from any and all persons appearing in Your Content in order to include their name, voice, performance or likeness in Your Content and to publish the same on the Websites and via any third party services. d.
+Your Content, including any comments that you may post on the Websites, is not and will not be unlawful, offensive, abusive, libelous, defamatory, obscene, racist, sexually explicit, ethnically or culturally offensive, indecent, will not promote violence, terrorism, or illegal acts, or incite hatred on grounds of race, gender, religion or sexual orientation. e.
 Your Content does not and will not create any liability on the part of Dustyforcolorado.com, its subsidiaries, affiliates, successors, and assigns, and their respective employees, agents, directors, officers and/or shareholders.
 Dustyforcolorado.com reserves the right to remove Your Content, suspend or terminate your access to the Platform and/or pursue all legal remedies if we believe that any of Your Content breaches any of the foregoing representations or warranties, or otherwise infringes another person's rights or violates any law, rule or regulation.
 6.
@@ -113,8 +83,7 @@ You agree that Dustyforcolorado.com shall not be liable to you or to any third p
 Blocking of IP Addresses.
 In order to protect the integrity of the Services, Dustyforcolorado.com reserves the right at any time in its sole discretion to block Members from certain IP addresses from accessing the Websites.
 9.
-Content.
-a.
+Content. a.
 Proprietary Rights.
 Dustyforcolorado.com retains all proprietary rights in the Websites and the Service.
 The Websites contains the copyrighted material, trademarks, and other proprietary information of Dustyforcolorado.com, and its licensors.
@@ -124,8 +93,7 @@ Except where otherwise specified in this Agreement, all Content is copyrighted m
 Distribution of Content to others is strictly prohibited.
 You agree that Dustyforcolorado.com would be irreparably harmed by any violation or threatened violation of this section and that, therefore, Dustyforcolorado.com shall be entitled to an injunction prohibiting you from any violation or threatened violation of this section, without posting bond, in addition to any other right or remedy it may have.
 We may provide links to third party websites, and some of the content appearing on Dustyforcolorado.com may be supplied by third parties.
-Dustyforcolorado.com has no responsibility for these third party websites nor for their content, which is subject to and governed by the Terms of Service and/or privacy policies, if any, of the applicable third party content providers.
-b.
+Dustyforcolorado.com has no responsibility for these third party websites nor for their content, which is subject to and governed by the Terms of Service and/or privacy policies, if any, of the applicable third party content providers. b.
 Ownership of Your Content; Licenses.
 You agree that any content you upload to the Websites and/or the Service (“Your Content”) shall become the property of Dustyforcolorado.com.
 This shall have no effect on Sections ___ (Copyright Policy), _____ (Limitation of Liability), and _____ (Indemnity by You) of this Agreement.
@@ -145,16 +113,9 @@ Modification of the Intellectual Property or use of the Intellectual Property fo
 11.
 Copyright Policy.
 Dustyforcolorado.com prohibits the submission or posting of any information that infringes or violates the copyright rights and/or other intellectual property rights (including rights of privacy and publicity) of any person or entity.
-Pursuant to Title 17, United States Code, Section 512(c)(2) or for any other claim of copyright infringement, you hereby agree that notifications of claimed copyright infringement be sent by certified mail to:
-Fort Morgan, Colorado
-If you believe that your intellectual property right (or such a right that you are responsible for enforcing) is infringed by any content on the Site, please write to Dustyforcolorado.com at the address shown above, giving a written statement that contains:
-a. identification of the copyrighted work and/or intellectual property right claimed to have been infringed;
-b. identification of the allegedly infringing material on the Site that is requested to be removed;
-c. your name, address, and daytime telephone number, and an e-mail address if available;
-d. a statement that you have a good faith belief that the use of the copyrighted work and/or exercise of the intellectual property right is not authorized by the owner, its agent, or the law;
-e. a statement that the information in the notification is accurate, and, under penalty of perjury, that the signatory is authorized to act on behalf of the owner of the right that is allegedly infringed; and
-f. the signature of the intellectual property right owner or someone authorized on the owner's behalf to assert infringement of the right.
-Dustyforcolorado.com will process any notice of alleged infringement which it receives and will take appropriate action as required by the Digital Millennium Copyright Act (DMCA) 17 U.S.C. 512(c)(3) or other applicable copyright law.
+Pursuant to Title 17, United States Code, Section 512(c)(2) or for any other claim of copyright infringement, you hereby agree that notifications of claimed copyright infringement be sent by certified mail to: Fort Morgan, Colorado If you believe that your intellectual property right (or such a right that you are responsible for enforcing) is infringed by any content on the Site, please write to Dustyforcolorado.com at the address shown above, giving a written statement that contains: a. identification of the copyrighted work and/or intellectual property right claimed to have been infringed; b. identification of the allegedly infringing material on the Site that is requested to be removed; c. your name, address, and daytime telephone number, and an e-mail address if available; d. a statement that you have a good faith belief that the use of the copyrighted work and/or exercise of the intellectual property right is not authorized by the owner, its agent, or the law; e. a statement that the information in the notification is accurate, and, under penalty of perjury, that the signatory is authorized to act on behalf of the owner of the right that is allegedly infringed; and f. the signature of the intellectual property right owner or someone authorized on the owner's behalf to assert infringement of the right.
+Dustyforcolorado.com will process any notice of alleged infringement which it receives and will take appropriate action as required by the Digital Millennium Copyright Act (DMCA) 17 U.S.C.
+512(c)(3) or other applicable copyright law.
 U.S. law provides significant penalties for submitting such a statement falsely.
 Under appropriate circumstances, persons who repeatedly submit infringing or unlawful material will be prohibited from posting further submissions.
 12.
@@ -183,10 +144,7 @@ TO THE GREATEST EXTENT PERMITTED BY LAW, YOU AGREE THAT IN NO EVENT WILL Dustyfo
 In the event that any of the foregoing limitations are deemed to be unenforceable, to the greatest extent permitted by law, you agree that the entire aggregate liability of Dustyforcolorado.com and sole remedy available to any Member in any case in any way arising out of or relating to the Agreement, Websites or the Service shall be limited to monetary damages that in the aggregate may not exceed the greater of $500.00 or the sum of any amount paid by the Member or user to Dustyforcolorado.com during the six months prior to notice to Dustyforcolorado.com of the dispute for which the remedy is sought.
 15.
 Indemnity by You.
-You agree to indemnify and hold Dustyforcolorado.com, its subsidiaries, affiliates, officers, agents, and other partners and employees, harmless from any loss, liability, claim, or demand, including reasonable attorneys' fees, arising out of or related to:
-a. your use of the Service and/or Websites in violation of this Agreement and/or arising from a breach of this Agreement including without limitation your representations and warranties set forth above;
-b. any third party claim of infringement of copyright or other intellectual property rights or invasion of privacy arising from the hosting of Your Content on the Websites, and/or your making available thereof to other users of the Websites, and/or the actual use of Your Content by other users of the Websites or related services in accordance with these Terms of Service and the parameters set by you with respect to the distribution and sharing of Your Content;
-c. any activity related to your account, either by you or by any other person accessing your account with or without your consent unless such activity was caused by the act of Dustyforcolorado.com.
+You agree to indemnify and hold Dustyforcolorado.com, its subsidiaries, affiliates, officers, agents, and other partners and employees, harmless from any loss, liability, claim, or demand, including reasonable attorneys' fees, arising out of or related to: a. your use of the Service and/or Websites in violation of this Agreement and/or arising from a breach of this Agreement including without limitation your representations and warranties set forth above; b. any third party claim of infringement of copyright or other intellectual property rights or invasion of privacy arising from the hosting of Your Content on the Websites, and/or your making available thereof to other users of the Websites, and/or the actual use of Your Content by other users of the Websites or related services in accordance with these Terms of Service and the parameters set by you with respect to the distribution and sharing of Your Content; c. any activity related to your account, either by you or by any other person accessing your account with or without your consent unless such activity was caused by the act of Dustyforcolorado.com.
 16.
 Attorney Fees.
 In the event that Dustyforcolorado.com is successful in whole or in part in any action or proceeding related to or arising from this Agreement, you shall be responsible for Dustyforcolorado.com’s attorneys' fees and costs.
@@ -196,8 +154,7 @@ Some of the Content on the Websites may not be appropriate for children.
 CHILDREN UNDER THE AGE OF 17 ARE NOT PERMITTED TO USE THE WEBSITES UNLESS A SUPERVISING PARENT OR GUARDIAN IS PRESENT.
 18.
 Privacy.
-Use of the Websites and/or the Service is also governed by our Privacy Policy, located at [/privacy-policy]
-19.
+Use of the Websites and/or the Service is also governed by our Privacy Policy, located at [/privacy-policy] 19.
 Jurisdiction and Choice of Law; Dispute Resolution.
 If there is any dispute arising out of the Websites and/or the Service, by using the Websites and/or Service, you expressly agree that any such dispute shall be governed by the laws of the State of Colorado, without regard to its conflict of law provisions, and you expressly agree and consent to the exclusive jurisdiction and venue of the state and federal courts of the State of New York, for the resolution of any such dispute.
 Acceptance of the terms and conditions of this Agreement constitutes your consent to be sued in such courts and to accept service of process outside the State of Colorado with the same force and effect as if such service had been made within the State of Colorado.
@@ -229,4 +186,4 @@ In addition, Dustyforcolorado.com’s failure to enforce any term of this Agreem
 Headings.
 The section headings contained in this Agreement are for reference purposes only and shall not in any way affect the meaning or interpretation of this Agreement.
 Please contact us with any questions regarding this agreement.
-I HAVE READ THIS AGREEMENT AND AGREE TO ALL OF THE PROVISIONS CONTAINED ABOVE.
+I HAVE READ THIS AGREEMENT AND AGREE TO ALL OF THE PROVISIONS CONTAINED ABOVE. © # All Rights Reserved | Dusty For Colorado Privacy Policy | Terms of Service Share by:

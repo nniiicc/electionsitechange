@@ -1,11 +1,3 @@
-For those who are overwhelmed by Honolulu’s high cost of living,
-who struggle to live paycheck-to-paycheck,
-who are forced to take on more and more debt,
-who simply cannot afford to get sick or injured -
-Fully Funded Quality Education
-Exposing Government Corruption and Waste
-Sufficient shelters & social workers to address our homelessness crisis
-Housing security: Truly affordable housing to prevent families and elderly from slipping into homelessness
-Stronger consumer protections for condominium owners
-A vibrant economy that offers green jobs, locally-grown food, & clean energy
-Safe streets, smart traffic lights & clear signage
+Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me For those who are overwhelmed by Honolulu’s high cost of living, who struggle to live paycheck-to-paycheck, who are forced to take on more and more debt, who simply cannot afford to get sick or injured - Fully Funded Quality Education Exposing Government Corruption and Waste Sufficient shelters & social workers to address our homelessness crisis Housing security: Truly affordable housing to prevent families and elderly from slipping into homelessness Stronger consumer protections for condominium owners A vibrant economy that offers green jobs, locally-grown food, & clean energy Safe streets, smart traffic lights & clear signage Learn More Campaign Headquarters: (808) 664-3830* • KimCoco@KimCoco.com *If you choose to text Friends of Kim Coco at this number, please indicate SUBSCRIBE, or we will not be able to reply via text.
+You may unsubscribe at any time with STOP Paid for by Friends of Kim Coco • P.O.
+Box 22136 • Honolulu, HI 96823

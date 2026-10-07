@@ -1,6 +1,4 @@
-Signed in as:
-filler@godaddy.com
-Born in 1956 at St.
+Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Home Meet Rob Priorities BOSTON FORGE/BOXER WORKS Contact DONATE More Home Meet Rob Priorities BOSTON FORGE/BOXER WORKS Contact DONATE Signed in as: filler@godaddy.com Home Meet Rob Priorities BOSTON FORGE/BOXER WORKS Contact DONATE Account My Account Sign out Sign In My Account Rob Burke for MA-8 About Rob Born in 1956 at St.
 Margaret’s Hospital in Boston, I come from a family wired for duty.
 My dad, a Dorchester kid who bled purple at Holy Cross, served as a federal probation officer.
 My mom, a WWII naval veteran and officer commissioned by Eleanor Roosevelt, was a true pioneer and trailblazer who worked at Archbishop Williams for three decades.
@@ -11,7 +9,7 @@ Anselm’s, then England in ’78.
 Dove into the telecom grind during the Bell breakup—Boston, Long Island, California.
 Lived in Annapolis with my Marine brother, launched All American Cleaning.
 Returned to Boston in 1985, retired on injury, and now live in Dedham.
-In my retirement, I took up videography; man-on-the-street style, focusing on high school, prep, and college sports gigs.
+FROM MAN-ON-THE-STREET TO CONGRESSIONAL CANDIDATE In my retirement, I took up videography; man-on-the-street style, focusing on high school, prep, and college sports gigs.
 Hit the gig economy in 2015 delivering packages in Boston—saw folks on the streets, heard their stories, and I realized anyone could fall through the cracks.
 I started to feel compelled to take action.
 Then the CCP bioweapon hit in 2020.
@@ -28,5 +26,5 @@ One key economic idea: BoxerWorks is my flagship economic initiative to revitali
 As your American Citizens First candidate, I’ll fight to establish this facility right in the heart of Brockton, transforming underused industrial spaces into state-of-the-art training centers for young people.
 I’ll be a servant leader—one term, then make room for the next.
 Truth, trust, traditions.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+DONATE BURKE4CONGRESS Copyright © # BURKE4CONGRESS - All Rights Reserved.
+Powered by

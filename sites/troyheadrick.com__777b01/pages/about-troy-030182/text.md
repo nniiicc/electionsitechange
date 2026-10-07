@@ -1,5 +1,4 @@
-About Troy
-I have lived in the Chittenden-15 district with Marianne, since 2001.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog About Troy I have lived in the Chittenden-15 district with Marianne, since 2001.
 Together, we raised our two daughters in Burlington, where they attended Burlington public schools before graduating from the University of Vermont.
 Over more than two decades, we have built deep connections with our neighbors and this community, and I continue to feel incredibly fortunate to call Burlington home.
 For four years, the people of Chittenden-15 have placed their trust in me to represent them in Montpelier.
@@ -26,3 +25,4 @@ That independence does not mean working alone.
 Effective legislating requires relationships, collaboration, compromise, and the willingness to work with anyone who is serious about making Vermont better.
 After two terms, I remain grateful that the people of Chittenden-15 have given me the opportunity to do this work.
 I hope to continue earning that trust by listening, asking hard questions, building relationships, and representing our community with independence, transparency, and integrity.
+Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

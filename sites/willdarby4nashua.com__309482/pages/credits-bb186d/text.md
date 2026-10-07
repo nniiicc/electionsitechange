@@ -1,1 +1,1 @@
-Credits Photography: Jessica Coughlin Logos: Sarah Coughlin Icons: Icons by svgrepo.com Hosting: greengeeks.com
+Skip to content Will Darby for Nashua Ward 8 State Representative Meet Will On the Issues Blog Acknowledgements and Endorsements Get Involved Donate Facebook Credits Photography: Jessica Coughlin Logos: Sarah Coughlin Icons: Icons by svgrepo.com Hosting: greengeeks. com Paid for by Friends of Will Darby, William Darby, Fiscal Agent 13 Jensen St., Nashua, NH Website Credits

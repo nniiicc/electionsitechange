@@ -1,4 +1,5 @@
-| Most Americans have heard of data breaches — when a company gets hacked and your credit card or password leaks online.
+Home Why I'm Running Issues Two Americas Contact Donate Volunteer #TwoAmericas We live in #TwoAmericas the Extreme Rich and Everybody else who is the #workingclass.
+DOGE: The Biggest Data Breach You’ve Never Heard Of 10/15/2025 Most Americans have heard of data breaches — when a company gets hacked and your credit card or password leaks online.
 But what if I told you that a new federal program called DOGE may have already exposed something far worse — the personal data of every single American?
 That’s not an exaggeration.
 A new Senate report by Senator Gary Peters, who chairs the Homeland Security and Governmental Affairs Committee, shows that DOGE has been collecting and storing our most private information — including Social Security numbers, work history, and personal files — in a system with little to no cybersecurity protection.
@@ -24,13 +25,17 @@ The system holding your identity, your history, and your future could already be
 It’s national.
 We’d be trying to rebuild the digital DNA of 330 million people. --- What Needs to Happen Now 1.
 Suspend DOGE’s access immediately.
-Freeze all data uploads until security is verified. 2.
+Freeze all data uploads until security is verified.
+2.
 Independent cybersecurity audit.
-Let outside experts examine every server and access log. 3.
+Let outside experts examine every server and access log.
+3.
 Transparency.
-Americans deserve to know who accessed their data — and when. 4.
+Americans deserve to know who accessed their data — and when.
+4.
 Criminal accountability.
-If insiders or contractors broke the law, prosecute them. 5.
+If insiders or contractors broke the law, prosecute them.
+5.
 Emergency planning.
 Start building a national plan for reissuing Social Security numbers — before the worst happens. --- This Crosses Every Party Line It doesn’t matter if you’re Republican or Democrat — this is about you.
 From the President to a high school student opening a bank account, we’re all part of the same data pool.
@@ -41,7 +46,13 @@ If the government doesn’t act now, DOGE could become the single greatest data 
 It’s time to pull the plug and protect the people.
 Scott Huffman is an Information Technology professional, U.S.
 Navy veteran, and community leader from Salisbury, North Carolina.
-He has worked in IT for more than 30 years and writes about cybersecurity, democracy, and public accountability. | Posts from before 2025 were written during Scott's campaigns for U.S.
+He has worked in IT for more than 30 years and writes about cybersecurity, democracy, and public accountability.
+Comments are closed.
+Posts from before 2025 were written during Scott's campaigns for U.S.
 Congress and are kept here as part of his public record.
 Author Scott Huffman Concerned Citizen, Small Business Entrepreneur, Veteran, turned Activist who ran for U.S.
-Congress Archives Categories |
+Congress Archives October 2026 September 2026 July 2026 May 2026 April 2026 October 2025 September 2025 June 2025 November 2021 September 2021 August 2021 February 2021 January 2021 November 2020 November 2019 September 2019 August 2019 July 2019 April 2019 March 2019 February 2019 May 2018 April 2016 Categories All RSS Feed × Before you go, can you donate $10?
+Donate $10 Not Now Paid for by Scott Huffman for NC House 76 Follow Scott on @TikTok at HuffmanForNC Use of Scott's military rank, titles, or photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+For inquiries, please contact [email protected] © COPYRIGHT #.
+Scott Huffman.
+ALL RIGHTS RESERVED Home Why I'm Running Issues Two Americas Contact Donate Volunteer Scott Huffman for NC

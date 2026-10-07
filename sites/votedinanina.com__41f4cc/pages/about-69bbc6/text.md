@@ -1,4 +1,4 @@
-MY NAME IS DINA NINA.
+0 Skip to Content Home About Policy Endorsements Yard Signs Volunteer Mutual Aid Donate Open Menu Close Menu Home About Policy Endorsements Yard Signs Volunteer Mutual Aid Donate Open Menu Close Menu Home About Policy Endorsements Yard Signs Volunteer Mutual Aid Donate MY NAME IS DINA NINA.
 I’m a food service worker and small business owner who made history as the first transgender woman elected to the Madison Common Council.
 I’m also a longtime comedian, community advocate, and proud former union member.
 I don't have the typical background of someone who runs for the State Assembly.
@@ -19,3 +19,5 @@ The 76th District has a long history of progressive leadership.
 We stand up for our neighbors and help those in need.
 I'm running to bring those same values to the State Capitol and build a government that works for working people – not billionaires.
 Will you join me?
+DONATE Paid for by Dina Nina for Wisconsin PO Box 1834 Madison WI 53701 Dina Nina for Wisconsin is a grassroots, people-powered campaign.
+We do not accept contributions from corporations or corporate PACs.

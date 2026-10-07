@@ -1,6 +1,5 @@
-Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of Defense.
-Fighting for Ohio Families
-John Boccieri is a commercial airline pilot and an Air Force Colonel currently based in the Pentagon as a Senior Military Advisor for the Reserves.
+0 Skip to Content Home Endorsements DONATE Open Menu Close Menu Home Endorsements DONATE Open Menu Close Menu Home Endorsements DONATE Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of Defense .
+Fighting for Ohio Families John Boccieri is a commercial airline pilot and an Air Force Colonel currently based in the Pentagon as a Senior Military Advisor for the Reserves.
 He deployed eleven times in operations around the globe to support our troops, including Operations Iraqi Freedom and Enduring Freedom.
 Boccieri has served our nation in over 40 countries and has 32 years of service in the U.S.
 Military.
@@ -15,3 +14,4 @@ While on active duty, he received master’s degrees in public administration an
 In addition to wearing the uniform and serving our country, Colonel Boccieri served as a United States Congressman, Ohio State Senator and an Ohio State Representative.
 As a State Legislator, Boccieri is most proud of the Military Injury Relief Fund which helps Ohio veterans injured in Iraq and Afghanistan with medical costs.
 John is happily married to Stacey Kennedy-Boccieri and blessed to have 5 beautiful children.
+Paid for by John Boccieri for Ohio

@@ -1,5 +1,4 @@
-Vote Diane Papan For State Assembly
-Jul 14, 2022
-Editor,
-Living in San Mateo and teaching in local schools for over the past two decades I have seen our community change and grow while remaining a vibrant, diverse and welcoming place.
+top of page HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items.
+DONATE All Posts Search Vote Diane Papan For State Assembly Jul 14, 2022 1 min read Editor, Living in San Mateo and teaching in local schools for over the past two decades I have seen our community change and grow while remaining a vibrant, diverse and welcoming place.
 A great deal of the credit for the success of our community is the leadership of San Mateo Deputy Mayor Diane Papan.
+Read more Recent Posts See All San Mateo Deputy Mayor Diane Papan Decisively Wins June Primary By A 2:1 Margin Vote For Papan Papan Takes On Tough Issues HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items. © PAPAN FOR ASSEMBLY # 5445 Madison Ave Sacramento CA 95841 | FPPC ID 1477408 Join Team Papan bottom of page

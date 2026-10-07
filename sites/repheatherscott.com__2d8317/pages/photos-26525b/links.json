@@ -1,69 +1,274 @@
 [
-"http://repheatherscott.com/feed",
-"https://facebook.com/RepHeatherScott",
-"https://growingfreedomidaho.com/all-bills",
-"https://idahocps.org/",
-"https://repheatherscott.com/",
-"https://repheatherscott.com/abortion",
-"https://repheatherscott.com/archive",
-"https://repheatherscott.com/category/updates",
-"https://repheatherscott.com/contact",
-"https://repheatherscott.com/covid",
-"https://repheatherscott.com/gender",
-"https://repheatherscott.com/government-101",
-"https://repheatherscott.com/maps",
-"https://repheatherscott.com/photos",
-"https://repheatherscott.com/rules-regulations",
-"https://repheatherscott.com/smelter",
-"https://repheatherscott.com/wp-content/uploads/2017/07/20160221_02.jpg",
-"https://repheatherscott.com/wp-content/uploads/2017/07/20160221_04.jpg",
-"https://repheatherscott.com/wp-content/uploads/2017/07/20160221_05.jpg",
-"https://repheatherscott.com/wp-content/uploads/2017/07/20160221_06.jpg",
-"https://repheatherscott.com/wp-content/uploads/2017/07/20160221_07.jpg",
-"https://repheatherscott.com/wp-content/uploads/2017/07/20160221_08.jpg",
-"https://repheatherscott.com/wp-content/uploads/2017/07/20160221_09.jpg",
-"https://repheatherscott.com/wp-content/uploads/2017/07/20160221_11.jpg",
-"https://repheatherscott.com/wp-content/uploads/2017/07/20160221_12.jpg",
-"https://repheatherscott.com/wp-content/uploads/2017/07/4H-ers-Pic.jpg",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_02.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_03.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_04.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_05.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_06.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_07.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_08.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_09.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_10.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_11.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_12.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_13.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_14.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_15.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_17.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_18.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_19.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_20.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_21.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_22.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_23.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_24.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_25.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_26.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_27.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_28.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_29.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_31.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_32.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_33.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_34.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_36.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_37.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_38.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_39.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_40.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_41.png",
-"https://repheatherscott.com/wp-content/uploads/2017/07/HScottPix_StatePrayerBreakfast.jpg",
-"https://repheatherscott.com/wp-content/uploads/2017/07/IMG_2414.jpg",
-"https://repheatherscott.com/wp-content/uploads/2017/07/Legislators-of-the-Year_02.jpg",
-"https://twitter.com/HeatherScottID"
+{
+"text": "Abortion",
+"href": "https://repheatherscott.com/abortion/"
+},
+{
+"text": "Archived Updates",
+"href": "https://repheatherscott.com/archive/"
+},
+{
+"text": "BILLS ⇨",
+"href": "https://growingfreedomidaho.com/all-bills/"
+},
+{
+"text": "COVID",
+"href": "https://repheatherscott.com/covid/"
+},
+{
+"text": "CPS ⇨",
+"href": "https://idahocps.org/"
+},
+{
+"text": "Contact",
+"href": "https://repheatherscott.com/contact/"
+},
+{
+"text": "Facebook[image]",
+"href": "https://www.facebook.com/RepHeatherScott/"
+},
+{
+"text": "Gender / Birth Certificates",
+"href": "https://repheatherscott.com/gender/"
+},
+{
+"text": "Gov 101",
+"href": "https://repheatherscott.com/government-101/"
+},
+{
+"text": "Home",
+"href": "https://repheatherscott.com/"
+},
+{
+"text": "Maps",
+"href": "https://repheatherscott.com/maps/"
+},
+{
+"text": "News & Updates",
+"href": "https://repheatherscott.com/category/updates/"
+},
+{
+"text": "Photos",
+"href": "https://repheatherscott.com/photos/"
+},
+{
+"text": "RSS[image]",
+"href": "http://repheatherscott.com/feed"
+},
+{
+"text": "Rep. Heather Scott",
+"href": "https://repheatherscott.com/"
+},
+{
+"text": "Rules & Regulations",
+"href": "https://repheatherscott.com/rules-regulations/"
+},
+{
+"text": "Silicon Smelter",
+"href": "https://repheatherscott.com/smelter/"
+},
+{
+"text": "Twitter[image]",
+"href": "https://twitter.com/HeatherScottID"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/20160221_02.jpg"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/20160221_04.jpg"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/20160221_05.jpg"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/20160221_06.jpg"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/20160221_07.jpg"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/20160221_08.jpg"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/20160221_09.jpg"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/20160221_11.jpg"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/20160221_12.jpg"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/4H-ers-Pic.jpg"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_02.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_03.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_04.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_05.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_06.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_07.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_08.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_09.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_10.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_11.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_12.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_13.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_14.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_15.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_17.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_18.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_19.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_20.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_21.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_22.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_23.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_24.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_25.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_26.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_27.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_28.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_29.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_31.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_32.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_33.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_34.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_36.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_37.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_38.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_39.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_40.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HS_InAction_41.png"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/HScottPix_StatePrayerBreakfast.jpg"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/IMG_2414.jpg"
+},
+{
+"text": "[image]",
+"href": "https://repheatherscott.com/wp-content/uploads/2017/07/Legislators-of-the-Year_02.jpg"
+}
 ]

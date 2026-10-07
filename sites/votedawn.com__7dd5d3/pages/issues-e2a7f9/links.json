@@ -1,8 +1,34 @@
 [
-"https://facebook.com/VoteDawn",
-"https://twitter.com/VoteDawn",
-"https://votedawn.com/",
-"https://votedawn.com/about",
-"https://votedawn.com/issues",
-"https://votedawn.com/privacy-policy"
+{
+"text": "About",
+"href": "https://www.votedawn.com/about"
+},
+{
+"text": "Boro-Bash Tickets",
+"href": "https://www.votedawn.com/boro-bash"
+},
+{
+"text": "Home",
+"href": "https://www.votedawn.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votedawn.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votedawn.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/VoteDawn"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/VoteDawn/"
+},
+{
+"text": "[image]",
+"href": "https://www.votedawn.com/"
+}
 ]

@@ -1,16 +1,58 @@
 [
-"https://aaronforrep.com/",
-"https://aaronforrep.com/about",
-"https://aaronforrep.com/contact-aaron",
-"https://aaronforrep.com/issues",
-"https://aaronforrep.com/news",
-"https://malegislature.gov/Bills",
-"https://malegislature.gov/ClerksOffice/House",
-"https://malegislature.gov/Committees/Detail/H34",
-"https://malegislature.gov/Events",
-"https://malegislature.gov/Laws/GeneralLaws",
-"https://malegislature.gov/Laws/SessionLaws",
-"https://malegislature.gov/Legislators/Profile/AMM1/194/Bills/Cosponsored",
-"https://malegislature.gov/Legislators/Profile/AMM1/194/Bills/Sponsored",
-"https://secure.actblue.com/donate/aaron-michlewitz"
+{
+"text": "About",
+"href": "https://aaronforrep.com/about/"
+},
+{
+"text": "Click here for a list of bills co-sponsored by Aaron",
+"href": "https://malegislature.gov/Legislators/Profile/AMM1/194/Bills/Cosponsored"
+},
+{
+"text": "Click here for a list of bills sponsored by Aaron",
+"href": "https://malegislature.gov/Legislators/Profile/AMM1/194/Bills/Sponsored"
+},
+{
+"text": "Committee Hearings",
+"href": "https://malegislature.gov/Events"
+},
+{
+"text": "Contact",
+"href": "https://aaronforrep.com/contact-aaron/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/aaron-michlewitz"
+},
+{
+"text": "House Clerk’s Office",
+"href": "https://malegislature.gov/ClerksOffice/House"
+},
+{
+"text": "Issues",
+"href": "https://aaronforrep.com/issues/"
+},
+{
+"text": "Learn more about the House Committee on Ways and Means",
+"href": "https://malegislature.gov/Committees/Detail/H34/"
+},
+{
+"text": "Mass. General Laws",
+"href": "https://malegislature.gov/Laws/GeneralLaws"
+},
+{
+"text": "News",
+"href": "https://aaronforrep.com/news/"
+},
+{
+"text": "Search Bills",
+"href": "https://malegislature.gov/Bills"
+},
+{
+"text": "Session Laws",
+"href": "https://malegislature.gov/Laws/SessionLaws"
+},
+{
+"text": "[image: Representative Aaron Michlewitz]",
+"href": "https://aaronforrep.com/"
+}
 ]

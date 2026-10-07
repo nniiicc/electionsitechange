@@ -1,4 +1,6 @@
-SPRINGFIELD – Following yesterday’s passage of House Floor Amendment 2 to Senate Bill 2412 through the House, State Representative Bradley Fritts (R-Dixon) released the following statement.
+Skip to content Home Meet Brad The Issues Agriculture Public Safety Local Control Affordability Get Involved Newsroom Contact Donate 0 0 Blog Home > Press Release > Rep.
+Fritts Condemns Senate Bill 2412 Rep.
+Fritts Condemns Senate Bill 2412 SPRINGFIELD – Following yesterday’s passage of House Floor Amendment 2 to Senate Bill 2412 through the House, State Representative Bradley Fritts (R-Dixon) released the following statement.
 “Yesterday’s passage of Senate Bill 2412 is yet another sneaky move by the majority party to grab more power and interfere with our electoral process,” said Rep.
 Fritts.
 “This bill, which was amended and voted on within hours of filing, will completely upend the current rules we have for running for legislative office and being appointed to fill vacancies by one’s political party.
@@ -8,5 +10,11 @@ This is an unacceptable attempt at swaying election results in a year where they
 “This legislation is a blatant political move by the majority to put the minority party in a ‘trick box’.
 As a member of the minority party, I was proud to stand with all forty of my colleagues in a unanimous ‘Present’ vote.
 I am tired of the tricks and when one of the countless pieces of legislation filed actually secures elections, empowers families, protects poll workers, and lowers property taxes; I will be a proud supporter.
-It is time to drop the politics and tricks and work for real results.”
-###
+It is time to drop the politics and tricks and work for real results.” ### You Might Also Like Rep.
+Fritts Responds to State of the State and Budget Address February 22, 2024 Rep.
+Fritts Completes Summer Tour; Continues Efforts to Meet Every Constituent in District 74 September 13, 2023 Fritts Seeks Third Term in Illinois House July 14, 2025 Young Conservative Voice Fighting for Common Sense Values.
+Facebook Instagram Home Meet Brad The Issues Agriculture Public Safety Local Control Affordability Get Involved Newsroom Contact Donate Hamburger Toggle Menu Address Citizens for Bradley J.
+Fritts P.O.
+Box 1014 Dixon, IL 61021 Paid for by Citizens for Bradley J.
+Fritts.
+Copyright © # Close Menu Home Meet Brad The Issues Agriculture Public Safety Local Control Affordability Get Involved Newsroom Contact Donate 0 × × Cart

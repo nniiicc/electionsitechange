@@ -1,5 +1,14 @@
 [
-"https://harrisforiowa.com/index.php",
-"https://harrisforiowa.com/volunteer.php",
-"https://secure.winred.com/harris-for-iowa/donate"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/harris-for-iowa/donate%0D%0A"
+},
+{
+"text": "Volunteer",
+"href": "https://www.harrisforiowa.com/volunteer.php"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.harrisforiowa.com/index.php"
+}
 ]

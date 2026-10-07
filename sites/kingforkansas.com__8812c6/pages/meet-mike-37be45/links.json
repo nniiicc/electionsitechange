@@ -1,12 +1,46 @@
 [
-"https://facebook.com/kingforkansas",
-"https://kingforkansas.com/",
-"https://kingforkansas.com/contact",
-"https://kingforkansas.com/e-mail-updates",
-"https://kingforkansas.com/endorsements",
-"https://kingforkansas.com/meet-mike",
-"https://kingforkansas.com/newsroom",
-"https://kingforkansas.com/volunteer",
-"https://kslegislature.gov/b2025_26/legislators/rep_king_mike_1",
-"https://secure.winred.com/mikeking/donate"
+{
+"text": "Contact",
+"href": "https://kingforkansas.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/mikeking/donate"
+},
+{
+"text": "E-Mail Updates",
+"href": "https://kingforkansas.com/e-mail-updates/"
+},
+{
+"text": "Endorsements",
+"href": "https://kingforkansas.com/endorsements/"
+},
+{
+"text": "Financial Institutions and Pensions Committee",
+"href": "https://www.kslegislature.gov/b2025_26/legislators/rep_king_mike_1/"
+},
+{
+"text": "Latest News",
+"href": "https://kingforkansas.com/newsroom/"
+},
+{
+"text": "Meet Mike",
+"href": "https://kingforkansas.com/meet-mike/"
+},
+{
+"text": "Newsroom",
+"href": "https://kingforkansas.com/newsroom/"
+},
+{
+"text": "Volunteer",
+"href": "https://kingforkansas.com/volunteer/"
+},
+{
+"text": "[image: Mike King for State Representative]",
+"href": "https://kingforkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kingforkansas"
+}
 ]

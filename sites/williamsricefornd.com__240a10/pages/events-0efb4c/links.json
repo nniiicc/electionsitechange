@@ -1,14 +1,58 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61588069089386",
-"https://instagram.com/tiffanywilliamsricefornd",
-"https://linktree.com/TiffanyWiliamsRiceforND",
-"https://williamsricefornd.com/",
-"https://williamsricefornd.com/about",
-"https://williamsricefornd.com/contact",
-"https://williamsricefornd.com/donate",
-"https://williamsricefornd.com/endorsement",
-"https://williamsricefornd.com/issues",
-"https://williamsricefornd.com/news",
-"https://williamsricefornd.com/volunteer"
+{
+"text": "About",
+"href": "https://www.williamsricefornd.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.williamsricefornd.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.williamsricefornd.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.williamsricefornd.com/endorsement"
+},
+{
+"text": "Home",
+"href": "https://www.williamsricefornd.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.williamsricefornd.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.williamsricefornd.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.williamsricefornd.com/volunteer"
+},
+{
+"text": "[image: Tiffany Williams-Rice for ND logo]",
+"href": "https://www.williamsricefornd.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.williamsricefornd.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61588069089386"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/tiffanywilliamsricefornd/"
+},
+{
+"text": "[no text]",
+"href": "https://linktree.com/TiffanyWiliamsRiceforND"
+}
 ]

@@ -1,11 +1,50 @@
 [
-"https://derekforcongress.com/",
-"https://derekforcongress.com/category/all-products",
-"https://derekforcongress.com/donations",
-"https://derekforcongress.com/learn-about-the-candidate",
-"https://derekforcongress.com/structural-reform",
-"https://derekforcongress.com/viewsontheissues",
-"https://derekforcongress.com/volunteer-sign-up",
-"https://maps.app.goo.gl/DXXnNLynsiHuuJtW8",
-"https://sec.state.ma.us/OVR"
+{
+"text": "About the Candidate",
+"href": "https://www.derekforcongress.com/learn-about-the-candidate"
+},
+{
+"text": "About the Issues",
+"href": "https://www.derekforcongress.com/viewsontheissues"
+},
+{
+"text": "Donations",
+"href": "https://www.derekforcongress.com/donations"
+},
+{
+"text": "Get Directions",
+"href": "https://maps.app.goo.gl/DXXnNLynsiHuuJtW8"
+},
+{
+"text": "Get involved",
+"href": "https://www.derekforcongress.com/volunteer-sign-up"
+},
+{
+"text": "Home",
+"href": "https://www.derekforcongress.com"
+},
+{
+"text": "Join the team",
+"href": "https://www.derekforcongress.com/volunteer-sign-up"
+},
+{
+"text": "Learn More",
+"href": "https://www.derekforcongress.com/structural-reform"
+},
+{
+"text": "Read Full Bio",
+"href": "https://www.derekforcongress.com/learn-about-the-candidate"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sec.state.ma.us/OVR/"
+},
+{
+"text": "Shop",
+"href": "https://www.derekforcongress.com/category/all-products"
+},
+{
+"text": "View Schedule",
+"href": "https://www.derekforcongress.com"
+}
 ]

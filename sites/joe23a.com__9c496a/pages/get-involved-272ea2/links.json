@@ -1,12 +1,50 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScsNlLPa0gp2ta7uSGUx7S-0w-Q2ZrUt_mkg-7gFJlO1PxJ2Q/viewform?usp=publish-editor",
-"https://facebook.com/JoeforMN26a",
-"https://joe23a.com/",
-"https://joe23a.com/accessibility",
-"https://joe23a.com/get-involved",
-"https://joe23a.com/meetjoe",
-"https://joe23a.com/priorities",
-"https://joe23a.com/privacy-policy",
-"https://secure.actblue.com/donate/joe-for-mn",
-"https://wix.com/"
+{
+"text": "Accessibility",
+"href": "https://www.joe23a.com/accessibility"
+},
+{
+"text": "Campaign Committee",
+"href": "https://www.wix.com"
+},
+{
+"text": "Contact",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScsNlLPa0gp2ta7uSGUx7S-0w-Q2ZrUt_mkg-7gFJlO1PxJ2Q/viewform?usp=publish-editor"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/joe-for-mn"
+},
+{
+"text": "Get Involved",
+"href": "https://www.joe23a.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.joe23a.com"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.joe23a.com/meetjoe"
+},
+{
+"text": "Priorities",
+"href": "https://www.joe23a.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.joe23a.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JoeforMN26a/"
+},
+{
+"text": "[image: donate to Joe QR Code]",
+"href": "https://secure.actblue.com/donate/joe-for-mn"
+},
+{
+"text": "info@joe23a.com",
+"href": "mailto:info@joe23a.com"
+}
 ]

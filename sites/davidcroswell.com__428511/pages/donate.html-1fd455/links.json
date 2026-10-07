@@ -1,9 +1,54 @@
 [
-"https://davidcroswell.com/donate.html",
-"https://davidcroswell.com/index.html",
-"https://davidcroswell.com/meet-david.html",
-"https://davidcroswell.com/podcasts.html",
-"https://davidcroswell.com/priorities.html",
-"https://davidcroswell.com/volunteer.html",
-"https://secure.anedot.com/friends-of-david-croswell/support"
+{
+"text": "$100Help fund neighborhood outreach",
+"href": "https://secure.anedot.com/friends-of-david-croswell/support"
+},
+{
+"text": "$250Help send mail to voters",
+"href": "https://secure.anedot.com/friends-of-david-croswell/support"
+},
+{
+"text": "$25Help reach voters online",
+"href": "https://secure.anedot.com/friends-of-david-croswell/support"
+},
+{
+"text": "$500Help reach voters across the district",
+"href": "https://secure.anedot.com/friends-of-david-croswell/support"
+},
+{
+"text": "$50Help print campaign materials",
+"href": "https://secure.anedot.com/friends-of-david-croswell/support"
+},
+{
+"text": "Contact",
+"href": "https://davidcroswell.com/index.html#contact"
+},
+{
+"text": "David A. Croswell State Senate District 9 Diamond Head to Hawaiʻi Kai",
+"href": "https://davidcroswell.com/index.html#home"
+},
+{
+"text": "Donate",
+"href": "https://davidcroswell.com/donate.html"
+},
+{
+"text": "Donate securely",
+"href": "https://secure.anedot.com/friends-of-david-croswell/support"
+},
+{
+"text": "Meet David",
+"href": "https://davidcroswell.com/meet-david.html"
+},
+{
+"text": "Podcasts",
+"href": "https://davidcroswell.com/podcasts.html"
+},
+{
+"text": "Priorities",
+"href": "https://davidcroswell.com/priorities.html"
+},
+{
+"text": "Volunteer",
+"href": "https://davidcroswell.com/volunteer.html"
+}
 ]

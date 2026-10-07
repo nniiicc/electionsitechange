@@ -1,13 +1,58 @@
 [
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260928T160000%2F20260928T190000&text=Virtual+Phone+Bank+for+Jessica+Van+Oort&details=Join+the+Vermont+Democratic+Party+phone+bank+to+elect+Jessica+Van+Oort+for+VT+House+in+Rutland-Bennington+and+other+Democrats+up+and+down+the+ballot+this+year.The+shift+will+start+with+a+quick+training+on+the+VDP+Coordinated+Campaign%2C+phone+banking%2C+and+the+dialer+system+we+will+use.+Join+one+or+both%21Monday%2C+September+28+4%3A00+%E2%80%93+7%3A00pmWednesday%2C+September+30+4%3A00+%E2%80%93+7%3A00pmMaterials%3A+Just+a+computer+for+a+quick+virtual+training+on+the+script+and+the+Scale+to+Win+software.+A+link+will+be+sent+at+the+beginning+of+each+shift+and+will+open+for+48+hours.&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvanoortforvermont.com",
-"https://mobilize.us/mobilize/event/1031339",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-09-28T16%3A00%3A00-04%3A00&enddt=2026-09-28T19%3A00%3A00-04%3A00&subject=Virtual+Phone+Bank+for+Jessica+Van+Oort&body=Join+the+Vermont+Democratic+Party+phone+bank+to+elect+Jessica+Van+Oort+for+VT+House+in+Rutland-Bennington+and+other+Democrats+up+and+down+the+ballot+this+year.The+shift+will+start+with+a+quick+training+on+the+VDP+Coordinated+Campaign%2C+phone+banking%2C+and+the+dialer+system+we+will+use.+Join+one+or+both%21Monday%2C+September+28+4%3A00+%E2%80%93+7%3A00pmWednesday%2C+September+30+4%3A00+%E2%80%93+7%3A00pmMaterials%3A+Just+a+computer+for+a+quick+virtual+training+on+the+script+and+the+Scale+to+Win+software.+A+link+will+be+sent+at+the+beginning+of+each+shift+and+will+open+for+48+hours.",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-09-28T16%3A00%3A00-04%3A00&enddt=2026-09-28T19%3A00%3A00-04%3A00&subject=Virtual+Phone+Bank+for+Jessica+Van+Oort&body=Join+the+Vermont+Democratic+Party+phone+bank+to+elect+Jessica+Van+Oort+for+VT+House+in+Rutland-Bennington+and+other+Democrats+up+and+down+the+ballot+this+year.The+shift+will+start+with+a+quick+training+on+the+VDP+Coordinated+Campaign%2C+phone+banking%2C+and+the+dialer+system+we+will+use.+Join+one+or+both%21Monday%2C+September+28+4%3A00+%E2%80%93+7%3A00pmWednesday%2C+September+30+4%3A00+%E2%80%93+7%3A00pmMaterials%3A+Just+a+computer+for+a+quick+virtual+training+on+the+script+and+the+Scale+to+Win+software.+A+link+will+be+sent+at+the+beginning+of+each+shift+and+will+open+for+48+hours.",
-"https://vanoortforvermont.com/",
-"https://vanoortforvermont.com/about",
-"https://vanoortforvermont.com/event/virtual-phone-bank-for-jessica-van-oort-2",
-"https://vanoortforvermont.com/event/west-pawlet-house-party",
-"https://vanoortforvermont.com/events",
-"https://vanoortforvermont.com/get-involved",
-"https://vanoortforvermont.com/updates"
+{
+"text": "About",
+"href": "https://vanoortforvermont.com/about/"
+},
+{
+"text": "Events",
+"href": "https://vanoortforvermont.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://vanoortforvermont.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260928T160000%2F20260928T190000&text=Virtual+Phone+Bank+for+Jessica+Van+Oort&details=Join+the+Vermont+Democratic+Party+phone+bank+to+elect+Jessica+Van+Oort+for+VT+House+in+Rutland-Bennington+and+other+Democrats+up+and+down+the+ballot+this+year.The+shift+will+start+with+a+quick+training+on+the+VDP+Coordinated+Campaign%2C+phone+banking%2C+and+the+dialer+system+we+will+use.+Join+one+or+both%21Monday%2C+September+28+4%3A00+%E2%80%93+7%3A00pmWednesday%2C+September+30+4%3A00+%E2%80%93+7%3A00pmMaterials%3A+Just+a+computer+for+a+quick+virtual+training+on+the+script+and+the+Scale+to+Win+software.+A+link+will+be+sent+at+the+beginning+of+each+shift+and+will+open+for+48+hours.&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvanoortforvermont.com"
+},
+{
+"text": "Home",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T16%3A00%3A00-04%3A00&enddt=%23T19%3A00%3A00-04%3A00&location=&subject=Virtual+Phone+Bank+for+Jessica+Van+Oort&body=Join+the+Vermont+Democratic+Party+phone+bank+to+elect+Jessica+Van+Oort+for+VT+House+in+Rutland-Bennington+and+other+Democrats+up+and+down+the+ballot+this+year.The+shift+will+start+with+a+quick+training+on+the+VDP+Coordinated+Campaign%2C+phone+banking%2C+and+the+dialer+system+we+will+use.+Join+one+or+both%21Monday%2C+September+28+4%3A00+%E2%80%93+7%3A00pmWednesday%2C+September+30+4%3A00+%E2%80%93+7%3A00pmMaterials%3A+Just+a+computer+for+a+quick+virtual+training+on+the+script+and+the+Scale+to+Win+software.+A+link+will+be+sent+at+the+beginning+of+each+shift+and+will+open+for+48+hours."
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T16%3A00%3A00-04%3A00&enddt=%23T19%3A00%3A00-04%3A00&location=&subject=Virtual+Phone+Bank+for+Jessica+Van+Oort&body=Join+the+Vermont+Democratic+Party+phone+bank+to+elect+Jessica+Van+Oort+for+VT+House+in+Rutland-Bennington+and+other+Democrats+up+and+down+the+ballot+this+year.The+shift+will+start+with+a+quick+training+on+the+VDP+Coordinated+Campaign%2C+phone+banking%2C+and+the+dialer+system+we+will+use.+Join+one+or+both%21Monday%2C+September+28+4%3A00+%E2%80%93+7%3A00pmWednesday%2C+September+30+4%3A00+%E2%80%93+7%3A00pmMaterials%3A+Just+a+computer+for+a+quick+virtual+training+on+the+script+and+the+Scale+to+Win+software.+A+link+will+be+sent+at+the+beginning+of+each+shift+and+will+open+for+48+hours."
+},
+{
+"text": "Updates",
+"href": "https://vanoortforvermont.com/updates/"
+},
+{
+"text": "Virtual Phone Bank for Jessica Van Oort »",
+"href": "https://vanoortforvermont.com/event/virtual-phone-bank-for-jessica-van-oort-2/"
+},
+{
+"text": "[image: Dandelion logo]",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "https://www.mobilize.us/mobilize/event/1031339/",
+"href": "https://www.mobilize.us/mobilize/event/1031339/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://vanoortforvermont.com/event/virtual-phone-bank-for-jessica-van-oort/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://vanoortforvermont.com/events/"
+},
+{
+"text": "« West Pawlet House Party",
+"href": "https://vanoortforvermont.com/event/west-pawlet-house-party/"
+}
 ]

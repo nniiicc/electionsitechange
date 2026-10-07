@@ -1,3 +1,4 @@
+207-400-6846 samzager@gmail.com CONTRIBUTE VOLUNTEER 207-400-6846 samzager@gmail.com Home About Sam Ballotpedia Survey What Others Say Endorsers Priorities Experience Taking a Stand Leadership and Education News Home About Sam Ballotpedia Survey What Others Say Endorsers Priorities Experience Taking a Stand Leadership and Education News Show your support Home About Sam Ballotpedia Survey What Others Say Endorsers Priorities Experience Taking a Stand Leadership and Education News Show Your Support Home About Sam Ballotpedia Survey What Others Say Endorsers Priorities Experience Taking a Stand Leadership and Education News Show Your Support Opinion: Sensible tax reforms will drive Maine forward Sasha Leland Maine Democrats’ proposed progressive tax reforms aim to reduce household costs, strengthen public services, and create a fairer, more resilient economy that benefits working families statewide.
 Without tax reform that puts working Mainers first, we will not achieve the systemic change we need.
 Gov.
 Janet Mills delivered her final State of the State address to the Maine Legislature in January, and a group of progressive lawmakers immediately met to discuss its relevance to this year’s budget.
@@ -11,11 +12,11 @@ Our current tax structure requires teachers, nurses, construction workers and sm
 In what world does that make sense for the average Maine family?
 We must stop balancing budgets on those who can least afford it.
 Here’s the good news: The Democratic caucus in the Legislature has put forward progressive tax bills that will allow more Mainers to keep more money in their wallets.
-- Rep.
+Rep.
 Ann Matlack’s LD 229 will adjust the tax brackets so that the majority of Mainers who earn less than $300,000 will see their income tax go down.
-- Rep.
+Rep.
 Bill Pluecker’s LD 1879 will increase the tax on corporations making more than $3.5 million and raise millions for agriculture, forestry and the general fund.
-- Rep.
+Rep.
 Cheryl Golek’s LD 1089 will place a 2% surcharge on incomes in excess of $1 million to fully fund the state’s portion of K-12 education.
 These bills will generate revenue and relieve the strain on municipal governments and property tax-payers while helping everyday Mainers with the cost of living.
 A fairer tax structure also responds to the mess that congressional Republicans created when they passed HR 1 last year.
@@ -29,6 +30,12 @@ Rep.
 Sam Zager represents part of Portland.
 Rep.
 Julie McCabe represents part of Lewiston.
-Zager, S.
-(2026) ‘Opinion: Sensible tax reforms will drive Maine forward’, Portland Press Herald, March 11.
-Available at https://www.pressherald.com/2026/03/11/sensible-tax-reforms-will-drive-maine-forward-opinion/ (Accessed: August 7, 2026)
+Read full article Zager, S.
+(2026) ‘Opinion: Sensible tax reforms will drive Maine forward’, Portland Press Herald , March 11.
+Available at https://www.pressherald.com/2026/03/11/sensible-tax-reforms-will-drive-maine-forward-opinion/ (Accessed: August 7, 2026) Share this post Back to NEWS page I would be honored to represent Maine House District 116 as a Democrat to help cultivate our brightest possible future.
+While I would faithfully represent our neighborhoods in Augusta, I am rooted in our community and committed to serving others.
+Menu Home Ballotpedia Survey What Others Say Endorsers Priorities Taking a Stand Leadership and Education News Show Your Support Please consider contributing $5 to the Maine Clean Election Act.
+Paid for and authorized by the Committee to Elect Sam Zager.
+Leah Koch, Treasurer ©# samzager.org.
+All Rights Reserved.
+Site ignited by Sparks and Fuel

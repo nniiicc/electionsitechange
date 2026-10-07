@@ -1,8 +1,82 @@
 [
-"https://facebook.com/citizensforsimmons",
-"https://house.mo.gov/bill.aspx?bill=HB126&code=R&year=2019",
-"https://johnsimmons.org/",
-"https://johnsimmons.org/about-john-simmons",
-"https://johnsimmons.org/contact-john-simmons",
-"https://johnsimmons.org/frequently-asked-questions"
+{
+"text": "- FAQ -",
+"href": "https://www.johnsimmons.org/frequently-asked-questions"
+},
+{
+"text": "- Facebook -",
+"href": "https://www.facebook.com/citizensforsimmons/"
+},
+{
+"text": "About",
+"href": "https://www.johnsimmons.org/about-john-simmons"
+},
+{
+"text": "Campaign Page",
+"href": "https://www.facebook.com/citizensforsimmons/"
+},
+{
+"text": "Contact John",
+"href": "https://www.johnsimmons.org/contact-john-simmons"
+},
+{
+"text": "Crime",
+"href": "https://www.johnsimmons.org/#crime-section"
+},
+{
+"text": "Economy",
+"href": "https://www.johnsimmons.org/#economy-section"
+},
+{
+"text": "Education",
+"href": "https://www.johnsimmons.org/#education-section"
+},
+{
+"text": "Election Integrity",
+"href": "https://www.johnsimmons.org/#election-integrity-section"
+},
+{
+"text": "Eliminate Taxes",
+"href": "https://www.johnsimmons.org/#eliminate-taxes-section"
+},
+{
+"text": "FAQ",
+"href": "https://www.johnsimmons.org/frequently-asked-questions"
+},
+{
+"text": "Facebook Page Website",
+"href": "https://www.johnsimmons.org/#facebook-page-website-section"
+},
+{
+"text": "HB126 “Heartbeat Bill”",
+"href": "https://house.mo.gov/bill.aspx?bill=HB126&code=R&year=2019"
+},
+{
+"text": "Home",
+"href": "https://www.johnsimmons.org/"
+},
+{
+"text": "John Simmons for State Rep.",
+"href": "https://www.johnsimmons.org/#john-simmons-for-109th-state-rep-section"
+},
+{
+"text": "John Simmons for State Representative",
+"href": "https://www.johnsimmons.org/"
+},
+{
+"text": "Parental Rights",
+"href": "https://www.johnsimmons.org/#parental-rights-section"
+},
+{
+"text": "Pro Second Amendment",
+"href": "https://www.johnsimmons.org/#second-amendment-section"
+},
+{
+"text": "Pro-Life",
+"href": "https://www.johnsimmons.org/#pro-life-section"
+},
+{
+"text": "U.S. Border",
+"href": "https://www.johnsimmons.org/#united-states-border-section"
+}
 ]

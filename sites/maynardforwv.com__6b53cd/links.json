@@ -1,6 +1,18 @@
 [
-"https://facebook.com/delegatemaynard",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/vote.zackmaynard",
-"https://secure.winred.com/friends-of-maynard/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-maynard/donate-today"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/delegatemaynard"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vote.zackmaynard"
+}
 ]

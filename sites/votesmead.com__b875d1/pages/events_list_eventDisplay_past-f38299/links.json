@@ -1,38 +1,174 @@
 [
-"https://bsky.app/profile/joshsmead.bsky.social",
-"https://facebook.com/profile.php?id=61574602100872",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/smead_for_missouri",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress",
-"https://secure.actblue.com/donate/votesmead",
-"https://store.votesmead.com/",
-"https://threads.com/@smead_for_missouri",
-"https://tiktok.com/@josh.smead",
-"https://votesmead.com/",
-"https://votesmead.com/event/audrain-county-democratic-club-dinner",
-"https://votesmead.com/event/brunswick-pecan-festival",
-"https://votesmead.com/event/democrat-candidates-picnic",
-"https://votesmead.com/event/hannibal-indivisible",
-"https://votesmead.com/event/holt-county-autumn-festival-parade-2",
-"https://votesmead.com/event/jesse-james-days-parade",
-"https://votesmead.com/event/knox-county-corn-festival",
-"https://votesmead.com/event/liberty-fall-festival",
-"https://votesmead.com/event/liberty-fall-festival-parade",
-"https://votesmead.com/event/terra-vox-winery-fundraiser",
-"https://votesmead.com/events",
-"https://votesmead.com/events/list",
-"https://votesmead.com/events/list/page/2?eventDisplay=past",
-"https://votesmead.com/events/list?eventDisplay=past&ical=1",
-"https://votesmead.com/events/list?eventDisplay=past&outlook-ical=1",
-"https://votesmead.com/events/month",
-"https://votesmead.com/events/today",
-"https://votesmead.com/freedom",
-"https://votesmead.com/get-involved",
-"https://votesmead.com/media",
-"https://votesmead.com/meet-josh",
-"https://votesmead.com/privacy-policy",
-"https://votesmead.com/the-plan",
-"https://x.com/JoshSmead",
-"https://youtube.com/@JoshSmead"
+{
+"text": "#ago",
+"href": "https://votesmead.com/events/list/"
+},
+{
+"text": "Audrain County Democratic Club Dinner",
+"href": "https://votesmead.com/event/audrain-county-democratic-club-dinner/"
+},
+{
+"text": "Brunswick Pecan Festival",
+"href": "https://votesmead.com/event/brunswick-pecan-festival/"
+},
+{
+"text": "Day",
+"href": "https://votesmead.com/events/today/"
+},
+{
+"text": "Democrat Candidates Picnic",
+"href": "https://votesmead.com/event/democrat-candidates-picnic/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesmead"
+},
+{
+"text": "Events",
+"href": "https://votesmead.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://votesmead.com/events/list/?eventDisplay=past&ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://votesmead.com/events/list/?eventDisplay=past&outlook-ical=1#038;ical=1"
+},
+{
+"text": "Get Involved",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Hannibal Indivisible",
+"href": "https://votesmead.com/event/hannibal-indivisible/"
+},
+{
+"text": "Holt County Autumn Festival Parade",
+"href": "https://votesmead.com/event/holt-county-autumn-festival-parade-2/"
+},
+{
+"text": "Jesse James Days Parade",
+"href": "https://votesmead.com/event/jesse-james-days-parade/"
+},
+{
+"text": "Kirksville Chamber of Commerce Candidate Forum",
+"href": "https://votesmead.com/event/kirksville-chamber-candidate-forum/"
+},
+{
+"text": "Liberty Fall Festival",
+"href": "https://votesmead.com/event/liberty-fall-festival/"
+},
+{
+"text": "Liberty Fall Festival Parade",
+"href": "https://votesmead.com/event/liberty-fall-festival-parade/"
+},
+{
+"text": "List",
+"href": "https://votesmead.com/events/list/"
+},
+{
+"text": "Media",
+"href": "https://votesmead.com/media/"
+},
+{
+"text": "Meet Josh",
+"href": "https://votesmead.com/meet-josh/"
+},
+{
+"text": "Month",
+"href": "https://votesmead.com/events/month/"
+},
+{
+"text": "Next Events",
+"href": "https://votesmead.com/events/list/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress"
+},
+{
+"text": "Previous Events",
+"href": "https://votesmead.com/events/list/page/2/?eventDisplay=past"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votesmead.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://store.votesmead.com/"
+},
+{
+"text": "Terra Vox Winery Fundraiser",
+"href": "https://votesmead.com/event/terra-vox-winery-fundraiser/"
+},
+{
+"text": "The Plan",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "The Platform",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "Volunteer",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "What Freedom Means",
+"href": "https://votesmead.com/freedom/"
+},
+{
+"text": "[image: Josh Smead for Congress]",
+"href": "https://votesmead.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joshsmead.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61574602100872"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/smead_for_missouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@smead_for_missouri"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@josh.smead"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JoshSmead"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JoshSmead"
+},
+{
+"text": "[tooltip: Next Events]",
+"href": "https://votesmead.com/events/list/"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://votesmead.com/events/list/page/2/?eventDisplay=past"
+},
+{
+"text": "iCalendar",
+"href": "webcal://votesmead.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

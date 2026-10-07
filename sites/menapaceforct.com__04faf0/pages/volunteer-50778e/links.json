@@ -1,14 +1,54 @@
 [
-"https://facebook.com/menapaceforct",
-"https://forms.gle/RNF3Chd1hz1ym1es8",
-"https://instagram.com/menapaceforct",
-"https://menapaceforct.com/",
-"https://menapaceforct.com/about",
-"https://menapaceforct.com/media",
-"https://menapaceforct.com/planning-board",
-"https://menapaceforct.com/platform",
-"https://menapaceforct.com/s-projects-basic",
-"https://menapaceforct.com/volunteer",
-"https://mobile.twitter.com/menapaceforct",
-"https://tiktok.com/@menapaceforct"
+{
+"text": "ABOUT",
+"href": "https://www.menapaceforct.com/about"
+},
+{
+"text": "Around Town",
+"href": "https://www.menapaceforct.com/s-projects-basic"
+},
+{
+"text": "HOME",
+"href": "https://www.menapaceforct.com"
+},
+{
+"text": "Letters to the Editor",
+"href": "https://www.menapaceforct.com/media"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.menapaceforct.com/platform"
+},
+{
+"text": "Planning Commision",
+"href": "https://www.menapaceforct.com/planning-board"
+},
+{
+"text": "SIGN UP HERE!",
+"href": "https://forms.gle/RNF3Chd1hz1ym1es8"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.menapaceforct.com/volunteer"
+},
+{
+"text": "[image: Facebook ]",
+"href": "https://www.facebook.com/menapaceforct"
+},
+{
+"text": "[image: Instagram ]",
+"href": "https://www.instagram.com/menapaceforct"
+},
+{
+"text": "[image: TikTok ]",
+"href": "https://www.tiktok.com/@menapaceforct"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://mobile.twitter.com/menapaceforct"
+},
+{
+"text": "nickmenapace@outlook.com",
+"href": "mailto:nickmenapace@outlook.com"
+}
 ]

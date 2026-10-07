@@ -1,13 +1,7 @@
-Campaign kick off meeting scheduled!
-COMMITTEE TO ELECT CAROLE FIOLA
-STATE REPRESENTATIVE
-Your Experienced, Dedicated Advocate
-HELLO ALL!
+Skip to content Menu Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole Campaign kick off meeting scheduled!
+February 10, 2013 COMMITTEE TO ELECT CAROLE FIOLA STATE REPRESENTATIVE Your Experienced, Dedicated Advocate HELLO ALL!
 WE ARE OFF AND RUNNING!!
 WHILE WE STILL HAVE NO ELECTION DATE WE WILL KICK OFF OUR CAMPAIGN !!!!
-TUESDAY, MARCH 5 AT MESA 21
-6:30pm – 8:00pm
-21 Lindsey Street, Fall River
-FREE * REFRESHMENTS * CASH BAR
-EVERYONE WELCOME!!
+TUESDAY, MARCH 5 AT MESA 21 6:30pm – 8:00pm 21 Lindsey Street, Fall River FREE * REFRESHMENTS * CASH BAR EVERYONE WELCOME!!
 PLEASE BRING YOUR FRIENDS AND FAMILY!!!
+Share this: Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Related Posted in News Sitemap Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole Tweets by @CaroleFiola Sign up to the Newsletter Email Address Sitemap Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole Recent Posts 10/5/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 9/28/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 9/15/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 8/31/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 4/6/2026 Weekly Hot Jobs from the Fall River MassHire Career Center Sign up to the Newsletter Email Address Find it 2016 Carole Fiola State Representative, The 6th Bristol District Fall River Marketing

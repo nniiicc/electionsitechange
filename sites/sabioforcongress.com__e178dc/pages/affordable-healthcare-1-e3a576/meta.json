@@ -1,7 +1,11 @@
 {
  "description": "Explore affordable healthcare solutions like the American Health Freedom Plan for more choices, lower costs, and improved healthcare transparency.",
  "final_url": "https://sabioforcongress.com/affordable-healthcare-1",
- "paid_for_by": null,
+ "fingerprint": "ead30c29694f58e6f58b29dc0a90a64b8fe43a3d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Affordable Healthcare",
- "years_mentioned": []
+ "years_mentioned": [
+  "2011"
+ ]
 }

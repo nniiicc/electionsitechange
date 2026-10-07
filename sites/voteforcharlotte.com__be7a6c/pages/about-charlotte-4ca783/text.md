@@ -1,5 +1,4 @@
-ABOUT CHARLOTTE
-Our Community.
+0 Skip to Content Home About Charlotte Priorities Get Involved Scholarship Contact DONATE Open Menu Close Menu Home About Charlotte Priorities Get Involved Scholarship Contact DONATE Open Menu Close Menu Home About Charlotte Priorities Get Involved Scholarship Contact DONATE ABOUT CHARLOTTE Our Community.
 Our Voice.
 Delegate Charlotte A.
 Crutchfield was elected to the Maryland House of Delegates in 2018, where she served for seven years on the Judiciary Committee and was Chair of the Family and Juvenile Law Subcommittee.
@@ -14,3 +13,4 @@ She has been a member of various Democratic clubs in Montgomery County (MD) to i
 Her commitment to her community has included service as Parliamentarian for the Potomac Valley Section, National Council of Negro Women, Inc., President of Glenallan Elementary School PTA, member of the Board of Directors of Tivoli Homeowners Association, member of Kemp Mill Toastmasters, and the N.A.A.C.P Parent’s Council Representative for John F.
 Kennedy HS, PTSA.
 Delegate Crutchfield is a member of the Montgomery County Alumnae Chapter (MD) of Delta Sigma Theta Sorority, Inc., a widow, mother of two adult children and resides in Silver Spring, MD.
+Vote for Charlotte Crutchfield By Authority: Friends of Charlotte Crutchfield, Jeffrey Groce, Treasurer.

@@ -1,12 +1,58 @@
 [
-"http://instagram.com/",
-"https://facebook.com/",
-"https://facebook.com/profile.php?id=100095209045835",
-"https://instagram.com/juliafornm",
-"https://juliafornm.com/",
-"https://juliafornm.com/endorsements",
-"https://juliafornm.com/press-releases",
-"https://secure.anedot.com/julia-ruiz-for-nm/donate",
-"https://tiktok.com/@juliafornm",
-"https://twitter.com/"
+{
+"text": "ABOUT",
+"href": "https://www.juliafornm.com/#About"
+},
+{
+"text": "DONATE",
+"href": "https://www.juliafornm.com/#DONATE"
+},
+{
+"text": "DONATE →",
+"href": "https://secure.anedot.com/julia-ruiz-for-nm/donate"
+},
+{
+"text": "DONATE →",
+"href": "https://www.juliafornm.com/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.juliafornm.com/endorsements"
+},
+{
+"text": "PRESS RELEASES",
+"href": "https://www.juliafornm.com/press-releases"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.juliafornm.com/#VOLUNTEER"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100095209045835"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/juliafornm/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@juliafornm"
+},
+{
+"text": "juliafornm@protonmail.com",
+"href": "mailto:juliafornm@protonmail.com"
+}
 ]

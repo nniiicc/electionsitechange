@@ -1,5 +1,4 @@
-Dear Constituents of SC House District 93:
-These are undoubtedly challenging times.
+Home Meet Jerry Media Contact Us More Home Meet Jerry Media Contact Us Home Meet Jerry Media Contact Us About Representative Jerry Govan Dear Constituents of SC House District 93: These are undoubtedly challenging times.
 Unfortunately, due to redistricting, our district has experienced a loss of vital resources and funding.
 This has highlighted the disparities we face in various aspects of our community.
 It is essential that we address these issues with urgency and determination.
@@ -13,9 +12,8 @@ Together, we can create meaningful change and shape the future we desire for our
 Will you join me on this journey?
 Jerry N.
 Govan Jr.
-President John F.
-Kennedy
-An Orangeburg native educated in the public schools, Former Representative Govan is a 1982 graduate of South Carolina State University, where he earned his bachelor's degree in political science, Master of Arts in Teaching with a focus in Early Childhood Education, and the Ed Specialist Degree with a focus on Educational Leadership.
+Donate The best way to tell what a person will do, is to look at what they've done President John F.
+Kennedy An Orangeburg native educated in the public schools, Former Representative Govan is a 1982 graduate of South Carolina State University, where he earned his bachelor's degree in political science, Master of Arts in Teaching with a focus in Early Childhood Education, and the Ed Specialist Degree with a focus on Educational Leadership.
 Additionally, he has an Honorary Doctor of Divinity.
 Govan has twenty-seven years educational experience working in several administrative leadership capacities including parenting, afterschool, adult literacy, dropout prevention and county attendance programs.
 His other work experiences include personnel, pre-trial intervention, and small business management.
@@ -24,5 +22,6 @@ Jerry is married to the former Wanda E.
 Gibson of Estill, SC and they have four children, and seven grandchildren.
 He and his wife are members of the Historic Mt.
 Pisgah Baptist Church of Orangeburg where he is an Associate Minister.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Home Meet Jerry Media Contact Us Govan For SC Copyright © # Govan For SC - All Rights Reserved.
+Powered by Give $24 Today!
+Donate

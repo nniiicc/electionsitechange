@@ -1,2 +1,4 @@
-Thank you for your interest in supporting my efforts to serve the citizens of the 28th District and the state of North Carolina.
+0 Skip to Content MEET GLADYS ABOUT GLADYS GALLERY GLADYS' RECORD DONATE NEWS VOLUNTEER Donate Open Menu Close Menu MEET GLADYS ABOUT GLADYS GALLERY GLADYS' RECORD DONATE NEWS VOLUNTEER Donate Open Menu Close Menu Folder: MEET GLADYS Back ABOUT GLADYS GALLERY GLADYS' RECORD DONATE NEWS VOLUNTEER Donate Donate Thank you for your interest in supporting my efforts to serve the citizens of the 28th District and the state of North Carolina.
 Your donations will help keep me in a position to continue to provide leadership on issues that are of importance to Guilford County and North Carolina and enable me to communicate with constituents about my activities as state Senator.
+Click Here to Donate PO Box 20627, Greensboro, NC 27420 COMMITTEE TO RE-ELECT GLADYS A.
+ROBINSON Senate28@GladysARobinson.com

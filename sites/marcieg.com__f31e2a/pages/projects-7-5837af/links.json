@@ -1,8 +1,42 @@
 [
-"http://facebook.com/marciegforsenate",
-"https://instagram.com/wix",
-"https://marcieg.com/",
-"https://marcieg.com/privacy-policy",
-"https://marcieg.com/projects-7",
-"https://secure.anedot.com/friends-to-elect-marcie-grzywacz/donate"
+{
+"text": "About Marcie",
+"href": "https://www.marcieg.com"
+},
+{
+"text": "Contact Us",
+"href": "https://www.marcieg.com"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/friends-to-elect-marcie-grzywacz/donate"
+},
+{
+"text": "Events",
+"href": "https://www.marcieg.com"
+},
+{
+"text": "Gallery",
+"href": "https://www.marcieg.com/projects-7"
+},
+{
+"text": "Join Team Marcie",
+"href": "https://www.marcieg.com"
+},
+{
+"text": "MarcieGforSenate@yahoo.com",
+"href": "mailto:MarcieGforSenate@yahoo.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.marcieg.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/marciegforsenate"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/wix/"
+}
 ]

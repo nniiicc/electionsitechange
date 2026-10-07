@@ -1,20 +1,82 @@
 [
-"https://demayforhouse.com/",
-"https://demayforhouse.com/about",
-"https://demayforhouse.com/about?itemId=2tcqlfrhn64l8mz41nr2xt9wce366q",
-"https://demayforhouse.com/about?itemId=57iwfg6kcufiqzokf1zgbc86ii7jaj",
-"https://demayforhouse.com/about?itemId=hcllq8e68matg4jgdwu34bg8q37ep4",
-"https://demayforhouse.com/about?itemId=jgdcjab8gli52wgr7xm85u2y582l1d",
-"https://demayforhouse.com/about?itemId=jot1dnnlkj0k17iz6x9gj8ldi8ey2f",
-"https://demayforhouse.com/about?itemId=keq76guvb7e5huylknzzeer1tnz1oe",
-"https://demayforhouse.com/about?itemId=pg2x1yepm6381vislr4vlb9f1evbvc",
-"https://demayforhouse.com/cart",
-"https://demayforhouse.com/contact",
-"https://demayforhouse.com/endorsements",
-"https://demayforhouse.com/events",
-"https://demayforhouse.com/priorities",
-"https://demayforhouse.com/volunteer",
-"https://facebook.com/demayforhouse",
-"https://instagram.com/demayforhouse",
-"https://secure.actblue.com/donate/demayforhouse.com"
+{
+"text": "0",
+"href": "https://www.demayforhouse.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.demayforhouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.demayforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/demayforhouse.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.demayforhouse.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.demayforhouse.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.demayforhouse.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.demayforhouse.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.demayforhouse.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.demayforhouse.com/volunteer"
+},
+{
+"text": "[image: Arcand_IG1.png] View fullsize",
+"href": "https://www.demayforhouse.com/about?itemId=57iwfg6kcufiqzokf1zgbc86ii7jaj"
+},
+{
+"text": "[image: Bartholomay_IG1.png] View fullsize",
+"href": "https://www.demayforhouse.com/about?itemId=hcllq8e68matg4jgdwu34bg8q37ep4"
+},
+{
+"text": "[image: Choi_IG1.png] View fullsize",
+"href": "https://www.demayforhouse.com/about?itemId=pg2x1yepm6381vislr4vlb9f1evbvc"
+},
+{
+"text": "[image: Endorsement_Tara_IG1.png] View fullsize",
+"href": "https://www.demayforhouse.com/about?itemId=jgdcjab8gli52wgr7xm85u2y582l1d"
+},
+{
+"text": "[image: Gardner_IG1.png] View fullsize",
+"href": "https://www.demayforhouse.com/about?itemId=2tcqlfrhn64l8mz41nr2xt9wce366q"
+},
+{
+"text": "[image: Miller_IG1.png] View fullsize",
+"href": "https://www.demayforhouse.com/about?itemId=keq76guvb7e5huylknzzeer1tnz1oe"
+},
+{
+"text": "[image: Minnesota House District 36A]",
+"href": "https://www.demayforhouse.com/"
+},
+{
+"text": "[image: StieffOji_IG1.png] View fullsize",
+"href": "https://www.demayforhouse.com/about?itemId=jot1dnnlkj0k17iz6x9gj8ldi8ey2f"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/demayforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/demayforhouse/"
+}
 ]

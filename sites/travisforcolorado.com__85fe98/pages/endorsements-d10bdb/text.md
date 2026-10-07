@@ -1,17 +1,5 @@
-ENDORSEMENTS
-Dan Corsentino
-CEO
-DC Security
-Tyler Gibson
-Mayor
-Springfield, Colorado
-Walsenburg Eagles #1187
-Officers
-Walsenburg, Colorado
-Vernon Thorn
-Council Member
-Aguilar, Colorado
-It is my honor to endorse my good friend Travis!
+top of page DONATE HOME MEET TRAVIS PLATFORM ENDORSEMENTS GET INVOLVED MEDIA LAST DITCH HOMESTEAD More Use tab to navigate through the menu items.
+ENDORSEMENTS Dan Corsentino CEO DC Security ​ Tyler Gibson Mayor Springfield, Colorado ​ Walsenburg Eagles #1187 Officers Walsenburg, Colorado ​ Vernon Thorn Council Member Aguilar , Colorado ​ It is my honor to endorse my good friend Travis!
 Travis is a man of the people!
 He knows the land and has an intimate lifelong relationship with the water that “weaves the web that ties the west together!” He grew up in rural Huerfano County Colorado!
 He knows waters scarcity and he knows it’s what our farmers and ranchers need!
@@ -22,14 +10,9 @@ His quiet confidence and subject matter expertise would positively impact his co
 Travis is a trustworthy post partisan and will bring independence and expertise to the Colorado Senate Seat.
 District #35 2026.
 "Travis For Colorado" deserves your #1vote .
-If you can make a contribution to Travis’s campaign for Colorado Senate at:
-https://politics.raisethemoney.com/en/tnelsonEVy2RpEI7dm6NjPfsZP30g
-Travis has my wholehearted support and endorsement!
+If you can make a contribution to Travis’s campaign for Colorado Senate at: https://politics.raisethemoney.com/en/tnelsonEVy2RpEI7dm6NjPfsZP30g Travis has my wholehearted support and endorsement!
 Travis is dedicated to common sense solutions and honesty!
 I am Ike and I approve this message.
-Ike McCorkle
-Candidate U.S.
-Congress CD04
-Combat Wounded
-USMC Retired
-Alexa Young, CA
+Ike McCorkle Candidate U.S.
+Congress CD04 Combat Wounded USMC Retired Alexa Young, CA HOME MEET TRAVIS PLATFORM ENDORSEMENTS GET INVOLVED MEDIA LAST DITCH HOMESTEAD More Use tab to navigate through the menu items.
+PAID FOR BY TRAVIS FOR COLORADO DESIGNATED AGENT TRAVIS NELSON 612 Park Street, Trinidad, CO 81082 (719)890-4424 bottom of page

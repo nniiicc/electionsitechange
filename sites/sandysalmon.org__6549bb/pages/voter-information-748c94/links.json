@@ -1,36 +1,150 @@
 [
-"http://butlercounty.iowa.gov/departments/auditor",
-"http://floydcoia.org/159/Auditor-Elections",
-"http://iowa.gov/",
-"http://iowasenaterepublicans.com/",
-"http://legis.iowa.gov/",
-"http://with1vision.com/",
-"http://www2.co.black-hawk.ia.us/website/bhmap/pollingplaces.htm",
-"https://bremercounty.iowa.gov/government/auditor/index.php",
-"https://butlercounty.iowa.gov/departments/elections/precinctinfo",
-"https://chickasawcounty.iowa.gov/auditor",
-"https://chickasawcountyelections.iowa.gov/elections/info/2022_general_election_2022_11_08",
-"https://facebook.com/RepSandySalmon?fref=ts",
-"https://fvap.gov/military-voter",
-"https://irp.cdn-website.com/c2e95eab/files/uploaded/2022%20Precincts%20Bremer%20County%20-%20Poll%20Places.pdf",
-"https://irp.cdn-website.com/c2e95eab/files/uploaded/Charles%20City%20Precincts.pdf",
-"https://irp.cdn-website.com/c2e95eab/files/uploaded/Plan2Senate_29.pdf",
-"https://irp.cdn-website.com/c2e95eab/files/uploaded/Voting%20Precincts-Polling%20Places-Supervisor%20Districts%20Map.pdf",
-"https://legis.iowa.gov/law/statutory/constitution",
-"https://sandysalmon.org/",
-"https://sandysalmon.org/about",
-"https://sandysalmon.org/complex-page",
-"https://sandysalmon.org/contact1",
-"https://sandysalmon.org/donate",
-"https://sandysalmon.org/endorsements1",
-"https://sandysalmon.org/events",
-"https://sandysalmon.org/gallery",
-"https://sandysalmon.org/list",
-"https://sandysalmon.org/newsletters",
-"https://sandysalmon.org/voter-information",
-"https://sos.iowa.gov/elections/absenteeballotstatus/search.aspx",
-"https://sos.iowa.gov/elections/auditors/auditorslist.html",
-"https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html",
-"https://sos.iowa.gov/elections/voterinformation/index.html",
-"https://sos.iowa.gov/elections/voterinformation/voterregistration.html"
+{
+"text": "1Vision",
+"href": "http://www.with1vision.com"
+},
+{
+"text": "ABOUT",
+"href": "https://www.sandysalmon.org/about"
+},
+{
+"text": "Bremer County",
+"href": "https://irp.cdn-website.com/c2e95eab/files/uploaded/2022%20Precincts%20Bremer%20County%20-%20Poll%20Places.pdf"
+},
+{
+"text": "Bremer County",
+"href": "https://www.bremercounty.iowa.gov/government/auditor/index.php"
+},
+{
+"text": "Butler County",
+"href": "http://www.butlercounty.iowa.gov/departments/auditor"
+},
+{
+"text": "Butler County",
+"href": "https://butlercounty.iowa.gov/departments/elections/precinctinfo"
+},
+{
+"text": "CONTACT",
+"href": "https://www.sandysalmon.org/contact1"
+},
+{
+"text": "Charles City",
+"href": "https://irp.cdn-website.com/c2e95eab/files/uploaded/Charles%20City%20Precincts.pdf"
+},
+{
+"text": "Chickasaw County",
+"href": "https://chickasawcounty.iowa.gov/auditor/"
+},
+{
+"text": "Chickasaw County",
+"href": "https://chickasawcountyelections.iowa.gov/elections/info/2022_general_election_2022_11_08/"
+},
+{
+"text": "Click Here",
+"href": "https://sos.iowa.gov/elections/auditors/auditorslist.html"
+},
+{
+"text": "Click here for Iowa Senate District #29 Map",
+"href": "https://irp.cdn-website.com/c2e95eab/files/uploaded/Plan2Senate_29.pdf"
+},
+{
+"text": "Contact Sandy",
+"href": "https://www.sandysalmon.org/contact1"
+},
+{
+"text": "DONATE",
+"href": "https://www.sandysalmon.org/donate"
+},
+{
+"text": "District #29 Map",
+"href": "https://irp.cdn-website.com/c2e95eab/files/uploaded/Plan2Senate_29.pdf"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.sandysalmon.org/endorsements1"
+},
+{
+"text": "EVENTS",
+"href": "https://www.sandysalmon.org/events"
+},
+{
+"text": "Floyd County",
+"href": "http://www.floydcoia.org/159/Auditor-Elections"
+},
+{
+"text": "Floyd County",
+"href": "https://irp.cdn-website.com/c2e95eab/files/uploaded/Voting%20Precincts-Polling%20Places-Supervisor%20Districts%20Map.pdf"
+},
+{
+"text": "GALLERY",
+"href": "https://www.sandysalmon.org/gallery"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.sandysalmon.org/complex-page"
+},
+{
+"text": "HOME",
+"href": "https://www.sandysalmon.org/"
+},
+{
+"text": "How To Register to Vote",
+"href": "https://sos.iowa.gov/elections/voterinformation/voterregistration.html"
+},
+{
+"text": "How To Vote Absentee",
+"href": "https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html"
+},
+{
+"text": "ISSUES",
+"href": "https://www.sandysalmon.org/list"
+},
+{
+"text": "Information for Voters",
+"href": "https://sos.iowa.gov/elections/voterinformation/index.html"
+},
+{
+"text": "Iowa Constitution",
+"href": "https://www.legis.iowa.gov/law/statutory/constitution"
+},
+{
+"text": "Iowa Legislature",
+"href": "http://www.legis.iowa.gov/"
+},
+{
+"text": "Iowa Senate Republicans",
+"href": "http://www.iowasenaterepublicans.com/"
+},
+{
+"text": "Military Registration",
+"href": "https://www.fvap.gov/military-voter"
+},
+{
+"text": "NEWSLETTERS",
+"href": "https://www.sandysalmon.org/newsletters"
+},
+{
+"text": "State of Iowa",
+"href": "http://www.iowa.gov"
+},
+{
+"text": "Track the Progress of Your Absentee Ballot",
+"href": "https://sos.iowa.gov/elections/absenteeballotstatus/search.aspx"
+},
+{
+"text": "VOTER INFORMATION",
+"href": "https://www.sandysalmon.org/voter-information"
+},
+{
+"text": "[no text]",
+"href": "http://www2.co.black-hawk.ia.us/website/bhmap/pollingplaces.htm"
+},
+{
+"text": "[no text]",
+"href": "https://sos.iowa.gov/elections/voterinformation/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepSandySalmon/?fref=ts"
+}
 ]

@@ -1,9 +1,15 @@
 {
  "description": "I'm running for re-election to continue being your State Representative for House District 16, which covers the Town of Jackson.",
  "final_url": "https://electmikeyin.com/index.html",
- "paid_for_by": null,
+ "fingerprint": "aaf3e65a9e8522180702d8f7fbc5cdbc953a7686",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mike Yin for WY HD-16 State Representative",
  "years_mentioned": [
-  "2019"
+  "2018",
+  "2019",
+  "2020",
+  "2022",
+  "2026"
  ]
 }

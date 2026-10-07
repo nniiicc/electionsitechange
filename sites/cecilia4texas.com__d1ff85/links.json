@@ -1,7 +1,22 @@
 [
-"https://cecilia4texas.com/",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/cecilia-castellano-for-texas-house-district-80-1"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cecilia-castellano-for-texas-house-district-80-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Texas House District 80Texas House District 80Texas House District 80Texas House District 80",
+"href": "https://cecilia4texas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

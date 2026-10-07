@@ -1,27 +1,110 @@
 [
-"https://aflcionc.org/",
-"https://collegedemocratsofamerica.com/",
-"https://dcabp.org/",
-"https://downhomenc.org/",
-"https://equalitync.org/",
-"https://facebook.com/JudgeTobyHampson",
-"https://instagram.com/tobyhampson4nc",
-"https://judgetobyhampson.com/",
-"https://judgetobyhampson.com/about",
-"https://judgetobyhampson.com/endorsements",
-"https://judgetobyhampson.com/privacy-policy",
-"https://judgetobyhampson.com/volunteer",
-"https://ncaatinaction.org/",
-"https://ncnowpac.org/",
-"https://peoplesalliancepac.org/",
-"https://plannedparenthood.org/",
-"https://secure.actblue.com/donate/tobyhampsonwebsite",
-"https://sierraclub.org/",
-"https://socialworkers.org/",
-"https://sspba.org/gen/chapters/North_Carolina_Division_11.jsp",
-"https://threads.com/@tobyhampson4nc",
-"https://tiktok.com/@tobyhampson4nc",
-"https://transcaucusncdp.org/",
-"https://x.com/TobyHampson4NC",
-"https://xpslane.com/"
+{
+"text": "About",
+"href": "https://judgetobyhampson.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tobyhampsonwebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://judgetobyhampson.com/endorsements"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JudgeTobyHampson"
+},
+{
+"text": "Home",
+"href": "https://judgetobyhampson.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/tobyhampson4nc/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://judgetobyhampson.com/privacy-policy"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@tobyhampson4nc"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@tobyhampson4nc"
+},
+{
+"text": "Volunteer",
+"href": "https://judgetobyhampson.com/volunteer"
+},
+{
+"text": "X",
+"href": "https://x.com/TobyHampson4NC"
+},
+{
+"text": "[image: Re-Elect Judge Toby Hampson]",
+"href": "https://judgetobyhampson.com/"
+},
+{
+"text": "[image]",
+"href": "https://aflcionc.org/"
+},
+{
+"text": "[image]",
+"href": "https://downhomenc.org/"
+},
+{
+"text": "[image]",
+"href": "https://equalitync.org/"
+},
+{
+"text": "[image]",
+"href": "https://ncaatinaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://ncnowpac.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.collegedemocratsofamerica.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.dcabp.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.peoplesalliancepac.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.plannedparenthood.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.sierraclub.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.socialworkers.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.sspba.org/gen/chapters/North_Carolina_Division_11.jsp"
+},
+{
+"text": "[image]",
+"href": "https://www.transcaucusncdp.org/"
+},
+{
+"text": "toby@judgetobyhampson.com",
+"href": "mailto:toby@judgetobyhampson.com"
+}
 ]

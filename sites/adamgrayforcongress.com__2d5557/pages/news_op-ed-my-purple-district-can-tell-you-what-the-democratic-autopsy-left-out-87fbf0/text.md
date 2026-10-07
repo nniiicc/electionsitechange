@@ -1,7 +1,11 @@
-Op-ED, The Washington Post
-Rep.
-Gray's Op-Ed: My Purple District Can Tell You What The Democratic Autopsy Left Out
-People in districts like mine need a helping hand, not a lecture.
+Skip navigation menu About News Take Action Issues Contact Media Donate About News Take Action Issues Contact Media Donate PRESS RELEASE ICYMI, Sacramento Bee: Adam Gray Discusses immigration, Socialism and Trump.
+PRESS RELEASE ADAM GRAY SECURES ENDORSEMENT FROM CALIFORNIA FRATERNAL ORDER OF POLICE PRESS RELEASE Modesto Police Officers' Association Endorses Congressman Adam Gray for Re-Election Op-ED, The Washington Post Rep.
+Gray's Op-Ed: My Purple District Can Tell You What The Democratic Autopsy Left Out PRESS RELEASE Adam Gray Issues Statement on CA-13 Primary Election Results PRESS RELEASE Central Valley Local Leaders Endorse Adam Gray's Re-Election PRESS RELEASE Central Valley Mayors Endorse Adam Gray's Re-Election PRESS RELEASE California Farm Bureau Endorses Adam Gray for Re-Election in CA-13 NEWS ARTICLE, TURLOCK JOURNAL Gray Earns Key Endorsement From California Farm Bureau NEWS ARTICLE, your central valley Congressman Gray says he would not vote to support Iran War, discusses reelection NEWS ARTICLE: Turlock Journal Gray officially kicks off re-election campaign for CA-13 NEWS ARTICLE, KCRA 3 Congressman Adam Gray announces re-election for competitive Central Valley seat PRESS RELEASE Rep.
+Adam Gray Launches Re-Election Campaign in California’s 13th Congressional District NEWS ARTICLE: Turlock Journal Gray helps Farm Bill move along NEWS ARTICLE: Fresno Bee State of the Union guest list included Madera Republican.
+Why did a Democrat invite him?
+NEWS ARTICLE: ABC 30 Valley Congressman proposes new bipartisan effort to crack down on fentanyl crisis NEWS ARTICLE: SACRAMENTO BEE Central Valley congressman caught in the middle in a bitterly divided Washington NEWS ARTICLE: Turlock Journal Gray brings growers to the table, hears big concerns NEWS ARTICLE: Turlock Journal Congressman Gray talks Trump, tariffs and immigration NEWS ARTICLE Congressman Gray introduces Valley Water Protection Act NEWS ARTICLE: Turlock Journal Congressman Gray suits up with the Blue Devils OP-ED BY ADAM GRAY: FResno Bee Adam Gray: Farmers are the ones taking the bullets in Trump’s on-again, off-again trade wars NEWS ARTICLE: Fresno Bee Editorial House Democrat Adam Gray of Merced is ready to solve problems.
+The GOP, not so much NEWS ARTICLE: CNN State of the Union What four freshman members hope to accomplish in the narrowly divided House Jun 8 2026 Op-ED, The Washington Post Rep.
+Gray's Op-Ed: My Purple District Can Tell You What The Democratic Autopsy Left Out People in districts like mine need a helping hand, not a lecture.
 My 2024 congressional race was the closest in America, decided by 187 votes out of more than 200,000.
 The same group of voters who elected me also went for Donald Trump, making our district one of only a handful in the nation to collectively split their ticket between a Republican for president and a Democrat for Congress.
 Maybe that’s why the party interviewed me for its post-election “autopsy.” Regardless, I’m not sure everybody actually wants to hear what I think.
@@ -47,5 +51,4 @@ Citizens don’t want politics to dominate every corner of their lives.
 They want affordable homes, functioning institutions, opportunities for their children, time with family and something to look forward to on the weekend.
 Politics can and should help make those things possible.
 Which is another way of saying that Democrats should skip the postmortems and work on improving everyday life.
-And, along the way, maybe make America fun again.
-https://www.washingtonpost.com/opinions/2026/06/08/democrats-dont-understand-everyday-life/
+And, along the way, maybe make America fun again. https://www.washingtonpost.com/opinions/2026/06/08/democrats-dont-understand-everyday-life/ info@AdamGrayforCongress.com If donating by mail, make checks payable to: Adam Gray for Congress | PO Box 1229 Merced, CA 95341 Privacy Policy Press Inquires: press@adamGrayforCongress.com Put your “paid for” disclaimer here You need to enable JavaScript to run this app.

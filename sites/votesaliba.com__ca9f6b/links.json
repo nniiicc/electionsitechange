@@ -1,9 +1,46 @@
 [
-"https://theadvocates.org/quiz",
-"https://votesaliba.com/",
-"https://votesaliba.com/contact",
-"https://votesaliba.com/donation",
-"https://votesaliba.com/endorsements",
-"https://votesaliba.com/issues",
-"https://votesaliba.com/legislation"
+{
+"text": "Contact",
+"href": "https://votesaliba.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://votesaliba.com/donation/"
+},
+{
+"text": "Endorsements",
+"href": "https://votesaliba.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://votesaliba.com/"
+},
+{
+"text": "Issues",
+"href": "https://votesaliba.com/issues/"
+},
+{
+"text": "Learn More",
+"href": "https://votesaliba.com/issues/"
+},
+{
+"text": "Learn More",
+"href": "https://votesaliba.com/legislation/"
+},
+{
+"text": "Legislation",
+"href": "https://votesaliba.com/legislation/"
+},
+{
+"text": "Libertarian",
+"href": "https://www.theadvocates.org/quiz/"
+},
+{
+"text": "Mike Saliba",
+"href": "https://votesaliba.com"
+},
+{
+"text": "[image]",
+"href": "https://votesaliba.com"
+}
 ]

@@ -1,5 +1,5 @@
-An Opposition in Turmoil?
-Today at the gym I listened to an interview of Democratic National Committe chair Ken Martin on Pod Save America.
+top of page Donate Now ABOUT Issues Press Get Involved Menu Close ABOUT Issues Press Get Involved DONATE ABOUT Issues Press Get Involved Menu Close DONATE All Posts From The Blog Podcasts Press Releases An Opposition in Turmoil?
+Steve Woll May 3 1 min read Today at the gym I listened to an interview of Democratic National Committe chair Ken Martin on Pod Save America .
 I'd heard references to it on other shows, so I wanted to check it out for myself.
 Let's just say, it wasn't the kind of discussion to fill Democrats with confidence.
 The main topic was the release of the DNC's "autopsy" report on the 2024 election, which Martin had promised to release.
@@ -7,3 +7,5 @@ However, he has only released the "lessons learned" from the report - certainly 
 Pressed by the interviewer, he was defensive and borderline dismissive, contending that the DNC leadership was sharing what it knew was important and didn't feel compelled to release the whole report.
 Not a great look, and reenforced two (valid?) stereotypes about the Democratic party - that they are elitists who feel fine telling other people what they should think, and that they aren't up for truly transparent and clear-headed leadership.
 Not a good look heading into the most consequential midterm elections in recent history.
+From The Blog Recent Posts See All A Chance to Recommit Meeting Hampton Roads Why I'm Stepping Forward...
+ABOUT Issues Press Get Involved ABOUT Issues Press Get Involved Menu Close DONATE ABOUT Issues Press Get Involved STAY UPDATED - SIGN UP FOR OUR OFFICIAL CAMPAIGN NEWSLETTER Email * Yes, subscribe me to your newsletter. * SUBMIT Paid for by Steve Woll For Congress USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY Terms & Conditions | Privacy Policy | Accessibility Statement ABOUT Issues Press Get Involved bottom of page

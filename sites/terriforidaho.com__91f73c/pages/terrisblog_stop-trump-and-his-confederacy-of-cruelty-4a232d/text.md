@@ -1,5 +1,4 @@
-Stop Trump and His Confederacy of Cruelty
-Today, Trump’s shock troops killed another person in Minnesota.
+0 Skip to Content Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Folder: Learn More Back Issues About Terri Terri's Blog Endorsements Media Folder: Get Involved Back Events Volunteer Voting Yard Signs Events Contact Us Store English Back Donate Stop Trump and His Confederacy of Cruelty Jan 24 Written By Elle Casner Today, Trump’s shock troops killed another person in Minnesota.
 After the killing of Renee Good, I cannot trust federal government statements about the killing any more than I can trust what Chinese or Russian governments say about killing their own people.
 Government-sanctioned killings and internments of “undesirables” and political prisoners is now an American reality.
 And look how we’ve been groomed for it after years of being force-fed one “new normal” after another.
@@ -27,3 +26,4 @@ Brad Little borrow a backbone and stop groveling to Trump.
 Let the nation and world know that we Idahoans choose to stand tall, defiant and free, eyes open to truth, resolute against this bold Confederacy of Cruelty.
 We stand armored by courage and kindness and love.
 We stand now, or never.
+Donate Elle Casner Previous Previous Governor Gaslights Us to Protect Predatory Republican Budgeting Next Next State of the State Response TERRI PICKENS FOR GOVERNOR Paid for by Terri for Idaho PO Box 2128 Boise, ID 83701

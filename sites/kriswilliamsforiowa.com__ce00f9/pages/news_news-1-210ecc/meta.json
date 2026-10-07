@@ -1,7 +1,11 @@
 {
  "description": "Official Campaign Announcment",
  "final_url": "https://www.kriswilliamsforiowa.com/news/news-1",
- "paid_for_by": "Paid for by Kris Williams for Iowa",
+ "fingerprint": "58cbeeccb0bf725c7c145532b7304b13ff2f03e6",
+ "format": 3,
+ "paid_for_by": "Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app",
  "title": "Campaign On!",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

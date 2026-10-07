@@ -1,13 +1,9 @@
-Back to All Events
-Come grab a coffee with Rick Bennett, ask your questions, and hear why he's running for Governor of Maine.
+0 Skip to Content Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine Folder: The Issues Back Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Back to All Events Coffee and Questions with Rick Tuesday, June 23, 2026 7:00 AM 9:00 AM Google Calendar ICS Come grab a coffee with Rick Bennett, ask your questions, and hear why he's running for Governor of Maine.
 Practical leadership.
 Real solutions.
 A Governor who answers only to Mainers.
-Click here for more information and to RSVP here: https://www.supportrickbennett.com/eastport
-Previous
-Previous
-June 20
-Walk with Rick in the Portland Pride Parade
-Next
-Next
-July 4
+Click here for more information and to RSVP here: https://www.supportrickbennett.com/eastport Previous Previous June 20 Walk with Rick in the Portland Pride Parade Next Next July 4 Bangor 4th of July Parade Contact Bennett for Governor info@BennettForGovernor.com P.O.
+Box 35 | Raymond, ME 04071 Privacy Policy | Terms of Use Paid for and authorized by Bennett for Governor. × Support Rick Bennett Your Help Matters.
+This is your movement.
+We can’t do it without your help.
+Rick’s campaign for Governor is building real momentum across Maine — chip in today and help us keep growing. $25 $50 $100 Donate Now See All Donation Options Choose an amount above or continue to the full donation page.

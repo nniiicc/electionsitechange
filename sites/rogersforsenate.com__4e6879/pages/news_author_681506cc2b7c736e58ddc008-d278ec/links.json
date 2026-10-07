@@ -1,37 +1,238 @@
 [
-"https://bitpay.com/487423/donate",
-"https://facebook.com/MikeRogersForMI",
-"https://instagram.com/mikerogersformi",
-"https://rogersforsenate.com/",
-"https://rogersforsenate.com/cart",
-"https://rogersforsenate.com/contact",
-"https://rogersforsenate.com/do-not-sell-my-personal-information",
-"https://rogersforsenate.com/family-of-service",
-"https://rogersforsenate.com/healthplan",
-"https://rogersforsenate.com/home",
-"https://rogersforsenate.com/housingplan",
-"https://rogersforsenate.com/howtovote",
-"https://rogersforsenate.com/meet-mike",
-"https://rogersforsenate.com/news",
-"https://rogersforsenate.com/news/a-battle-for-the-soul-of-our-country",
-"https://rogersforsenate.com/news/ad-abdul-threatens-our-nations-values-and-security",
-"https://rogersforsenate.com/news/ad-mike-rogers-will-take-on-big-pharma-make-healthcare-more-affordable",
-"https://rogersforsenate.com/news/ad-rogers-hunted-terrorists-abduls-running-mate-sympathizes-with-them",
-"https://rogersforsenate.com/news/fact-check-conman-abdul-el-sayed-caught-red-handed-in-fox2-debate",
-"https://rogersforsenate.com/news/michiganders-deserve-answers-will-roop-ask-the-pressing-questions",
-"https://rogersforsenate.com/news/mike-rogers-on-fox-abdul-el-sayed-had-a-no-good-very-bad-week",
-"https://rogersforsenate.com/news/return-the-money-abdul",
-"https://rogersforsenate.com/news/rogers-calls-out-abdul-el-sayed-for-disparaging-911",
-"https://rogersforsenate.com/news/rogers-talks-building-unlocking-homeownership-in-downtown-detroit",
-"https://rogersforsenate.com/news/rogers-talks-restoring-the-american-dream-encourages-early-voting",
-"https://rogersforsenate.com/news/stolen-valor",
-"https://rogersforsenate.com/news?offset=1788453761708&author=681506cc2b7c736e58ddc008",
-"https://rogersforsenate.com/notice-at-collection-of-personal-information",
-"https://rogersforsenate.com/privacy-policy",
-"https://rogersforsenate.com/volunteer",
-"https://rogersforsenate.com/what-michiganders-need-to-know",
-"https://secure.winred.com/rogers/storefront",
-"https://secure.winred.com/team-rogers/donate?recurring=true&money_pledge=false&amount=50",
-"https://x.com/MikeRogersForMI",
-"https://youtube.com/@MikeRogersForMI"
+{
+"text": "0",
+"href": "https://rogersforsenate.com/cart"
+},
+{
+"text": "A BATTLE FOR THE SOUL OF OUR COUNTRY",
+"href": "https://rogersforsenate.com/news/a-battle-for-the-soul-of-our-country"
+},
+{
+"text": "AD: ABDUL THREATENS OUR NATION’S VALUES AND SECURITY",
+"href": "https://rogersforsenate.com/news/ad-abdul-threatens-our-nations-values-and-security"
+},
+{
+"text": "AD: MIKE ROGERS WILL TAKE ON BIG PHARMA, MAKE HEALTHCARE MORE AFFORDABLE",
+"href": "https://rogersforsenate.com/news/ad-mike-rogers-will-take-on-big-pharma-make-healthcare-more-affordable"
+},
+{
+"text": "AD: ROGERS HUNTED TERRORISTS, ABDUL’S RUNNING MATE SYMPATHIZES WITH THEM",
+"href": "https://rogersforsenate.com/news/ad-rogers-hunted-terrorists-abduls-running-mate-sympathizes-with-them"
+},
+{
+"text": "CONTACT",
+"href": "https://rogersforsenate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/team-rogers/donate?recurring=true&money_pledge=false&amount=50"
+},
+{
+"text": "DONATE VIA BITPAY",
+"href": "https://bitpay.com/487423/donate/"
+},
+{
+"text": "Do Not Sell My Personal Information",
+"href": "https://rogersforsenate.com/do-not-sell-my-personal-information"
+},
+{
+"text": "FACT CHECK: CONMAN ABDUL EL-SAYED CAUGHT RED-HANDED IN FOX2 DEBATE",
+"href": "https://rogersforsenate.com/news/fact-check-conman-abdul-el-sayed-caught-red-handed-in-fox2-debate"
+},
+{
+"text": "FAMILY OF SERVICE",
+"href": "https://rogersforsenate.com/family-of-service"
+},
+{
+"text": "HEALTHCARE PLAN",
+"href": "https://rogersforsenate.com/healthplan"
+},
+{
+"text": "HOUSING PLAN",
+"href": "https://rogersforsenate.com/housingplan"
+},
+{
+"text": "HOW TO VOTE",
+"href": "https://rogersforsenate.com/howtovote"
+},
+{
+"text": "MEET MIKE",
+"href": "https://rogersforsenate.com/meet-mike"
+},
+{
+"text": "MERCH",
+"href": "https://secure.winred.com/rogers/storefront/"
+},
+{
+"text": "MICHIGANDERS DESERVE ANSWERS. WILL ROOP ASK THE PRESSING QUESTIONS?",
+"href": "https://rogersforsenate.com/news/michiganders-deserve-answers-will-roop-ask-the-pressing-questions"
+},
+{
+"text": "MIKE ROGERS ON FOX: ABDUL EL-SAYED HAD A NO GOOD, VERY BAD WEEK",
+"href": "https://rogersforsenate.com/news/mike-rogers-on-fox-abdul-el-sayed-had-a-no-good-very-bad-week"
+},
+{
+"text": "NEWS",
+"href": "https://rogersforsenate.com/news"
+},
+{
+"text": "Notice at Collection of Personal Information",
+"href": "https://rogersforsenate.com/notice-at-collection-of-personal-information"
+},
+{
+"text": "Older Posts",
+"href": "https://rogersforsenate.com/news?offset=1788453761708&author=681506cc2b7c736e58ddc008"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rogersforsenate.com/privacy-policy"
+},
+{
+"text": "RETURN THE MONEY, ABDUL",
+"href": "https://rogersforsenate.com/news/return-the-money-abdul"
+},
+{
+"text": "ROGERS CALLS OUT ABDUL EL-SAYED FOR DISPARAGING 9/11",
+"href": "https://rogersforsenate.com/news/rogers-calls-out-abdul-el-sayed-for-disparaging-911"
+},
+{
+"text": "ROGERS TALKS BUILDING, UNLOCKING HOMEOWNERSHIP IN DOWNTOWN DETROIT",
+"href": "https://rogersforsenate.com/news/rogers-talks-building-unlocking-homeownership-in-downtown-detroit"
+},
+{
+"text": "ROGERS TALKS RESTORING THE AMERICAN DREAM, ENCOURAGES EARLY VOTING",
+"href": "https://rogersforsenate.com/news/rogers-talks-restoring-the-american-dream-encourages-early-voting"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/a-battle-for-the-soul-of-our-country"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/ad-abdul-threatens-our-nations-values-and-security"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/ad-mike-rogers-will-take-on-big-pharma-make-healthcare-more-affordable"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/ad-rogers-hunted-terrorists-abduls-running-mate-sympathizes-with-them"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/fact-check-conman-abdul-el-sayed-caught-red-handed-in-fox2-debate"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/michiganders-deserve-answers-will-roop-ask-the-pressing-questions"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/mike-rogers-on-fox-abdul-el-sayed-had-a-no-good-very-bad-week"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/return-the-money-abdul"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/rogers-calls-out-abdul-el-sayed-for-disparaging-911"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/rogers-talks-building-unlocking-homeownership-in-downtown-detroit"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/rogers-talks-restoring-the-american-dream-encourages-early-voting"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/stolen-valor"
+},
+{
+"text": "STOLEN VALOR",
+"href": "https://rogersforsenate.com/news/stolen-valor"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://rogersforsenate.com/volunteer"
+},
+{
+"text": "WHAT MICHIGANDERS NEED TO KNOW",
+"href": "https://rogersforsenate.com/what-michiganders-need-to-know"
+},
+{
+"text": "[image: A BATTLE FOR THE SOUL OF OUR COUNTRY]",
+"href": "https://rogersforsenate.com/news/a-battle-for-the-soul-of-our-country"
+},
+{
+"text": "[image: AD: ABDUL THREATENS OUR NATION’S VALUES AND SECURITY]",
+"href": "https://rogersforsenate.com/news/ad-abdul-threatens-our-nations-values-and-security"
+},
+{
+"text": "[image: AD: MIKE ROGERS WILL TAKE ON BIG PHARMA, MAKE HEALTHCARE MORE AFFORDABLE]",
+"href": "https://rogersforsenate.com/news/ad-mike-rogers-will-take-on-big-pharma-make-healthcare-more-affordable"
+},
+{
+"text": "[image: AD: ROGERS HUNTED TERRORISTS, ABDUL’S RUNNING MATE SYMPATHIZES WITH THEM]",
+"href": "https://rogersforsenate.com/news/ad-rogers-hunted-terrorists-abduls-running-mate-sympathizes-with-them"
+},
+{
+"text": "[image: FACT CHECK: CONMAN ABDUL EL-SAYED CAUGHT RED-HANDED IN FOX2 DEBATE]",
+"href": "https://rogersforsenate.com/news/fact-check-conman-abdul-el-sayed-caught-red-handed-in-fox2-debate"
+},
+{
+"text": "[image: MICHIGANDERS DESERVE ANSWERS. WILL ROOP ASK THE PRESSING QUESTIONS?]",
+"href": "https://rogersforsenate.com/news/michiganders-deserve-answers-will-roop-ask-the-pressing-questions"
+},
+{
+"text": "[image: MIKE ROGERS ON FOX: ABDUL EL-SAYED HAD A NO GOOD, VERY BAD WEEK]",
+"href": "https://rogersforsenate.com/news/mike-rogers-on-fox-abdul-el-sayed-had-a-no-good-very-bad-week"
+},
+{
+"text": "[image: Mike Rogers for Senate]",
+"href": "https://rogersforsenate.com/"
+},
+{
+"text": "[image: RETURN THE MONEY, ABDUL]",
+"href": "https://rogersforsenate.com/news/return-the-money-abdul"
+},
+{
+"text": "[image: ROGERS CALLS OUT ABDUL EL-SAYED FOR DISPARAGING 9/11]",
+"href": "https://rogersforsenate.com/news/rogers-calls-out-abdul-el-sayed-for-disparaging-911"
+},
+{
+"text": "[image: ROGERS TALKS BUILDING, UNLOCKING HOMEOWNERSHIP IN DOWNTOWN DETROIT]",
+"href": "https://rogersforsenate.com/news/rogers-talks-building-unlocking-homeownership-in-downtown-detroit"
+},
+{
+"text": "[image: ROGERS TALKS RESTORING THE AMERICAN DREAM, ENCOURAGES EARLY VOTING]",
+"href": "https://rogersforsenate.com/news/rogers-talks-restoring-the-american-dream-encourages-early-voting"
+},
+{
+"text": "[image: STOLEN VALOR]",
+"href": "https://rogersforsenate.com/news/stolen-valor"
+},
+{
+"text": "[image]",
+"href": "https://rogersforsenate.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MikeRogersForMI"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mikerogersformi/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MikeRogersForMI"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MikeRogersForMI"
+}
 ]

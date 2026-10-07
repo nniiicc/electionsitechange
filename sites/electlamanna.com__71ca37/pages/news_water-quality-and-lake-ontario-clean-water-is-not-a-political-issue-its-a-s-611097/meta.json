@@ -1,9 +1,12 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.electlamanna.com/news/water-quality-and-lake-ontario-clean-water-is-not-a-political-issue-its-a-survival-issue",
- "paid_for_by": "Paid For By Friends of Joseph Lamanna",
+ "fingerprint": "5f1fef453b4660ecb77399027eb3e79e331b76c1",
+ "format": 3,
+ "paid_for_by": "Paid For By Friends of Joseph Lamanna You need to enable JavaScript to run this app",
  "title": "Water Quality and Lake Ontario - Clean Water Is Not a Political Issue. It's a Survival Issue.",
  "years_mentioned": [
-  "2014"
+  "2014",
+  "2026"
  ]
 }

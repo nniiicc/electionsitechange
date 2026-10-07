@@ -1,11 +1,46 @@
 [
-"https://charlesforassembly.com/",
-"https://charlesforassembly.com/blank",
-"https://charlesforassembly.com/home-1-1-1-1",
-"https://charlesforassembly.com/home-1-1-1-2",
-"https://charlesforassembly.com/privacy-policy",
-"https://charlesforassembly.com/terms-and-conditions",
-"https://facebook.com/profile.php?id=61584921111031",
-"https://secure.winred.com/friends-of-charles-potter/donate-today",
-"https://twitter.com/WixStudio"
+{
+"text": "About Charlie",
+"href": "https://www.charlesforassembly.com/blank"
+},
+{
+"text": "Charlie for Assembly",
+"href": "https://www.charlesforassembly.com"
+},
+{
+"text": "Contact Us",
+"href": "https://www.charlesforassembly.com/home-1-1-1-2"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-charles-potter/donate-today"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=61584921111031"
+},
+{
+"text": "HOME",
+"href": "https://www.charlesforassembly.com"
+},
+{
+"text": "Platform",
+"href": "https://www.charlesforassembly.com/home-1-1-1-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.charlesforassembly.com/privacy-policy"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.charlesforassembly.com/terms-and-conditions"
+},
+{
+"text": "[no text]",
+"href": "https://www.charlesforassembly.com"
+},
+{
+"text": "​",
+"href": "https://twitter.com/WixStudio"
+}
 ]

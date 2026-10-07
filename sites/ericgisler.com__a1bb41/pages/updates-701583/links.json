@@ -1,41 +1,270 @@
 [
-"https://ericgisler.com/",
-"https://ericgisler.com/about",
-"https://ericgisler.com/contact",
-"https://ericgisler.com/endorsements",
-"https://ericgisler.com/get-involved",
-"https://ericgisler.com/issues",
-"https://ericgisler.com/post/hb-1001-vote-explainer-income-tax-cut",
-"https://ericgisler.com/post/hb-1022-vote-explainer-unnecessary-traffic-offenses",
-"https://ericgisler.com/post/hb-1023-vote-explainer-mandated---but-not-funded---weapons-detection-systems-in-schools",
-"https://ericgisler.com/post/hb-1076-vote-explainer-obstructing-law-enforcement-with-a-vehicle",
-"https://ericgisler.com/post/hb-1185-vote-explainer-changes-to-georgias-business-court-and-shareholder-laws",
-"https://ericgisler.com/post/hb-1247-vote-explainer-georgia-bureaucratic-deference-elimination-act",
-"https://ericgisler.com/post/hb-1324-vote-explainer-repealing-georgias-gun-silencer-ban",
-"https://ericgisler.com/post/hb-295-vote-explainer-property-lawsuits-homelessness-and-local-government",
-"https://ericgisler.com/post/hb-297-vote-explainer-statewide-control-of-transit-governance",
-"https://ericgisler.com/post/hb-328-vote-explainer-expanding-tax-credits-for-private-school-scholarships",
-"https://ericgisler.com/post/hb-369-vote-explainer-food-trucks-partisan-attacks-on-metro-atlanta-das",
-"https://ericgisler.com/post/hb-651-vote-explainer-school-speed-limits-automatic-enforcement",
-"https://ericgisler.com/post/hb-880-vote-explainer-income-tax-cuts",
-"https://ericgisler.com/post/hb-987-vote-explainer-voluntary-portable-benefits",
-"https://ericgisler.com/post/hb1020-vote-explainer-da-compensation-reform-act",
-"https://ericgisler.com/post/hr-450-vote-explainer-legalized-mobile-sports-betting",
-"https://ericgisler.com/post/mailer-support-commonsense-policies",
-"https://ericgisler.com/post/new-website-and-new-politics",
-"https://ericgisler.com/post/pre-emptive-statement-on-the-presidents-announcement-tonight",
-"https://ericgisler.com/post/sb-179-vote-explainer-expanding-computer-science-education",
-"https://ericgisler.com/post/sb-33-vote-explainer-local-homestead-option-sales-tax-lhost",
-"https://ericgisler.com/post/sb-442-explainer-cdls-for-legal-immigrants",
-"https://ericgisler.com/post/sb-472-vote-explainer-school-oversight",
-"https://ericgisler.com/post/special-session-redistricting-georgia",
-"https://ericgisler.com/post/watkinsville-bypass-updates",
-"https://ericgisler.com/post/why-i-voted-no-property-tax-elimination",
-"https://ericgisler.com/sponsored-legislation",
-"https://ericgisler.com/updates",
-"https://ericgisler.com/voting-record",
-"https://facebook.com/gislerforgeorgia",
-"https://instagram.com/emgisler",
-"https://secure.actblue.com/donate/2026-gisler-main",
-"https://tiktok.com/@ericgisler"
+{
+"text": "About",
+"href": "https://www.ericgisler.com/about"
+},
+{
+"text": "About Eric",
+"href": "https://www.ericgisler.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.ericgisler.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/2026-gisler-main"
+},
+{
+"text": "HB 1001 Vote Explainer: Income Tax Cut",
+"href": "https://www.ericgisler.com/post/hb-1001-vote-explainer-income-tax-cut"
+},
+{
+"text": "HB 1020 Vote Explainer: DA Compensation Reform Act",
+"href": "https://www.ericgisler.com/post/hb1020-vote-explainer-da-compensation-reform-act"
+},
+{
+"text": "HB 1022 Vote Explainer: Unnecessary Traffic Offenses",
+"href": "https://www.ericgisler.com/post/hb-1022-vote-explainer-unnecessary-traffic-offenses"
+},
+{
+"text": "HB 1023 Vote Explainer: Weapons Detection Systems in Schools",
+"href": "https://www.ericgisler.com/post/hb-1023-vote-explainer-mandated---but-not-funded---weapons-detection-systems-in-schools"
+},
+{
+"text": "HB 1076 Vote Explainer: Obstructing Law Enforcement with a Vehicle",
+"href": "https://www.ericgisler.com/post/hb-1076-vote-explainer-obstructing-law-enforcement-with-a-vehicle"
+},
+{
+"text": "HB 1185 Vote Explainer: Changes to Georgia’s Business Court and Shareholder Laws",
+"href": "https://www.ericgisler.com/post/hb-1185-vote-explainer-changes-to-georgias-business-court-and-shareholder-laws"
+},
+{
+"text": "HB 1247 Vote Explainer: Georgia Bureaucratic Deference Elimination Act",
+"href": "https://www.ericgisler.com/post/hb-1247-vote-explainer-georgia-bureaucratic-deference-elimination-act"
+},
+{
+"text": "HB 1324 Vote Explainer: Repealing Georgia's Gun Silencer Ban",
+"href": "https://www.ericgisler.com/post/hb-1324-vote-explainer-repealing-georgias-gun-silencer-ban"
+},
+{
+"text": "HB 295 Vote Explainer: Property Lawsuits, Homelessness, and Local Government",
+"href": "https://www.ericgisler.com/post/hb-295-vote-explainer-property-lawsuits-homelessness-and-local-government"
+},
+{
+"text": "HB 297 Vote Explainer: Statewide Control of Transit Governance",
+"href": "https://www.ericgisler.com/post/hb-297-vote-explainer-statewide-control-of-transit-governance"
+},
+{
+"text": "HB 328 Vote Explainer: Expanding Tax Credits for Private School Scholarships",
+"href": "https://www.ericgisler.com/post/hb-328-vote-explainer-expanding-tax-credits-for-private-school-scholarships"
+},
+{
+"text": "HB 369 Vote Explainer: Food Trucks > Partisan Attacks on Metro Atlanta DAs",
+"href": "https://www.ericgisler.com/post/hb-369-vote-explainer-food-trucks-partisan-attacks-on-metro-atlanta-das"
+},
+{
+"text": "HB 651 Vote Explainer: School Speed Limits Automatic Enforcement",
+"href": "https://www.ericgisler.com/post/hb-651-vote-explainer-school-speed-limits-automatic-enforcement"
+},
+{
+"text": "HB 880 & HB 463 Vote Explainer: Income Tax Cuts",
+"href": "https://www.ericgisler.com/post/hb-880-vote-explainer-income-tax-cuts"
+},
+{
+"text": "HB 987 Vote Explainer: Voluntary Portable Benefits",
+"href": "https://www.ericgisler.com/post/hb-987-vote-explainer-voluntary-portable-benefits"
+},
+{
+"text": "HR 1114 & HB 1116 Explainer: Property Tax Elimination",
+"href": "https://www.ericgisler.com/post/why-i-voted-no-property-tax-elimination"
+},
+{
+"text": "HR 450 Vote Explainer: Legalized Mobile Sports Betting",
+"href": "https://www.ericgisler.com/post/hr-450-vote-explainer-legalized-mobile-sports-betting"
+},
+{
+"text": "Mailer: Support Commonsense Policies!",
+"href": "https://www.ericgisler.com/post/mailer-support-commonsense-policies"
+},
+{
+"text": "New Website! Accountability, Transparency, and A New Politics",
+"href": "https://www.ericgisler.com/post/new-website-and-new-politics"
+},
+{
+"text": "Pre-Emptive Statement On The President's Announcement Tonight",
+"href": "https://www.ericgisler.com/post/pre-emptive-statement-on-the-presidents-announcement-tonight"
+},
+{
+"text": "Record",
+"href": "https://www.ericgisler.com/voting-record"
+},
+{
+"text": "SB 179 Vote Explainer: Expanding Computer Science Education",
+"href": "https://www.ericgisler.com/post/sb-179-vote-explainer-expanding-computer-science-education"
+},
+{
+"text": "SB 33 Vote Explainer: Local Homestead Option Sales Tax (LHOST)",
+"href": "https://www.ericgisler.com/post/sb-33-vote-explainer-local-homestead-option-sales-tax-lhost"
+},
+{
+"text": "SB 442 Vote Explainer: CDLs for Legal Immigrants",
+"href": "https://www.ericgisler.com/post/sb-442-explainer-cdls-for-legal-immigrants"
+},
+{
+"text": "SB 472 Vote Explainer: School Oversight",
+"href": "https://www.ericgisler.com/post/sb-472-vote-explainer-school-oversight"
+},
+{
+"text": "Special Session June 17",
+"href": "https://www.ericgisler.com/post/special-session-redistricting-georgia"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://www.ericgisler.com/sponsored-legislation"
+},
+{
+"text": "VOTING Record",
+"href": "https://www.ericgisler.com/voting-record"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ericgisler.com/get-involved"
+},
+{
+"text": "Watkinsville Bypass Updates",
+"href": "https://www.ericgisler.com/post/watkinsville-bypass-updates"
+},
+{
+"text": "[image]",
+"href": "https://www.ericgisler.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/gislerforgeorgia"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/emgisler/"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@ericgisler"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/hb-1001-vote-explainer-income-tax-cut"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/hb-1022-vote-explainer-unnecessary-traffic-offenses"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/hb-1023-vote-explainer-mandated---but-not-funded---weapons-detection-systems-in-schools"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/hb-1076-vote-explainer-obstructing-law-enforcement-with-a-vehicle"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/hb-1185-vote-explainer-changes-to-georgias-business-court-and-shareholder-laws"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/hb-1247-vote-explainer-georgia-bureaucratic-deference-elimination-act"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/hb-1324-vote-explainer-repealing-georgias-gun-silencer-ban"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/hb-295-vote-explainer-property-lawsuits-homelessness-and-local-government"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/hb-297-vote-explainer-statewide-control-of-transit-governance"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/hb-328-vote-explainer-expanding-tax-credits-for-private-school-scholarships"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/hb-369-vote-explainer-food-trucks-partisan-attacks-on-metro-atlanta-das"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/hb-651-vote-explainer-school-speed-limits-automatic-enforcement"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/hb-880-vote-explainer-income-tax-cuts"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/hb-987-vote-explainer-voluntary-portable-benefits"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/hb1020-vote-explainer-da-compensation-reform-act"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/hr-450-vote-explainer-legalized-mobile-sports-betting"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/mailer-support-commonsense-policies"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/new-website-and-new-politics"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/pre-emptive-statement-on-the-presidents-announcement-tonight"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/sb-179-vote-explainer-expanding-computer-science-education"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/sb-33-vote-explainer-local-homestead-option-sales-tax-lhost"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/sb-442-explainer-cdls-for-legal-immigrants"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/sb-472-vote-explainer-school-oversight"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/special-session-redistricting-georgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/watkinsville-bypass-updates"
+},
+{
+"text": "[no text]",
+"href": "https://www.ericgisler.com/post/why-i-voted-no-property-tax-elimination"
+},
+{
+"text": "endorsements",
+"href": "https://www.ericgisler.com/endorsements"
+},
+{
+"text": "issues",
+"href": "https://www.ericgisler.com/issues"
+},
+{
+"text": "updates",
+"href": "https://www.ericgisler.com/updates"
+}
 ]

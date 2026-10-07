@@ -1,19 +1,74 @@
 [
-"https://deploymalloy.com/",
-"https://deploymalloy.com/compliance",
-"https://deploymalloy.com/kurt-and-anthony-7-22-24",
-"https://deploymalloy.com/landing",
-"https://deploymalloy.com/landing/about",
-"https://deploymalloy.com/landing/album",
-"https://deploymalloy.com/landing/email-signup",
-"https://deploymalloy.com/landing/events",
-"https://deploymalloy.com/landing/positions",
-"https://deploymalloy.com/landing/qanda",
-"https://deploymalloy.com/landing/request-a-sign",
-"https://deploymalloy.com/shop",
-"https://facebook.com/geraldmalloyvt",
-"https://reflect-northwest-access.cablecast.tv/cablecastapi/embed?show_id=18739",
-"https://rumble.com/v1l9q0d-howie-carr-show-sept-23-2022.html?start=10977",
-"https://secure.anedot.com/gerald-malloy-for-u-s-congress-limited/geraldmalloy",
-"https://youtube.com/watch?v=vb28Fwc_j3g"
+{
+"text": "About",
+"href": "https://www.deploymalloy.com/landing/about/"
+},
+{
+"text": "Album",
+"href": "https://www.deploymalloy.com/landing/album/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/gerald-malloy-for-u-s-congress-limited/geraldmalloy"
+},
+{
+"text": "Events",
+"href": "https://www.deploymalloy.com/landing/events/"
+},
+{
+"text": "Gerald Malloy joins WVMT Morning Drive with Kurt & Anthony. Listen here.",
+"href": "https://www.deploymalloy.com/kurt-and-anthony-7-22-24/"
+},
+{
+"text": "Media Request",
+"href": "mailto:mediarequests@deploymalloy.com"
+},
+{
+"text": "Positions",
+"href": "https://www.deploymalloy.com/landing/positions/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.deploymalloy.com/compliance/"
+},
+{
+"text": "Q&A",
+"href": "https://www.deploymalloy.com/landing/qanda/"
+},
+{
+"text": "Shop",
+"href": "https://www.deploymalloy.com/shop/"
+},
+{
+"text": "Signs",
+"href": "https://www.deploymalloy.com/landing/request-a-sign/"
+},
+{
+"text": "Subscribe",
+"href": "https://www.deploymalloy.com/landing/email-signup/"
+},
+{
+"text": "[image]",
+"href": "https://reflect-northwest-access.cablecast.tv/cablecastapi/embed?show_id=18739"
+},
+{
+"text": "[image]",
+"href": "https://rumble.com/v1l9q0d-howie-carr-show-sept-23-2022.html?start=10977"
+},
+{
+"text": "[image]",
+"href": "https://www.deploymalloy.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.deploymalloy.com/landing/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/geraldmalloyvt"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/watch?v=vb28Fwc_j3g"
+}
 ]

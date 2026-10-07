@@ -1,8 +1,10 @@
-The political action committee for the National Federation of Independent Business (NFIB), Washington state’s leading small business association, announced it is endorsing Rep.
+Menu Close Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Awards “Voice of Small Business” backs Stokesbary (2022) The political action committee for the National Federation of Independent Business (NFIB), Washington state’s leading small business association, announced it is endorsing Rep.
 Drew Stokesbary for the 2022 primary election.
-“In the wake of government-mandated pandemic restrictions from an unending ‘state of emergency’ that shuttered thousands of small businesses – many permanently – and legislation imposing enormous new energy and transportation costs that are hindering Main Street’s economic recovery, it is essential voters know which lawmakers truly stand with small business based on their actions, not just hollow campaign promises.”
-Patrick Connor, Washington state director for NFIB
-NFIB endorsed Drew based on his 100% NFIB voting record this term, his sponsorship of NFIB-request legislation and amendments, and his “outreach and accessibility” to NFIB’s members and staff.
-Earlier this year, NFIB awarded Drew with their “Guardian of Small Business” award, which is “reserved for those lawmakers who most reliably support small business.” It is the second time Drew has won this award.
+“In the wake of government-mandated pandemic restrictions from an unending ‘state of emergency’ that shuttered thousands of small businesses – many permanently – and legislation imposing enormous new energy and transportation costs that are hindering Main Street’s economic recovery, it is essential voters know which lawmakers truly stand with small business based on their actions, not just hollow campaign promises.” Patrick Connor, Washington state director for NFIB NFIB endorsed Drew based on his 100% NFIB voting record this term, his sponsorship of NFIB-request legislation and amendments, and his “outreach and accessibility” to NFIB’s members and staff.
+Earlier this year, NFIB awarded Drew with their “ Guardian of Small Business ” award, which is “reserved for those lawmakers who most reliably support small business.” It is the second time Drew has won this award.
 NFIB is a nonprofit, nonpartisan, and member-driven association that is exclusively dedicated to small and independent businesses and has been advocating on their behalf for nearly 80 years.
 NFIB has more than 7,000 members in Washington.
+Awards Endorsements endorsement small business More For You The News Tribune endorses Stokesbary Endorsements Tacoma News Tribune profiles Rep.
+Stokesbary’s efforts to relieve Sumner traffic In the News Editorial: Lawmakers should ban campaign fundraising prior to special sessions In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

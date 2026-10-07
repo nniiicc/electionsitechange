@@ -1,6 +1,8 @@
-Supporting Our Most Experienced Citizens
-Our seniors are the longest-serving taxpayers in the state, we need to make sure that they are able to retire right here in Minnesota.
+Skip to main content Skip to header right navigation Skip to site footer The ONLY CD2 candidate endorsed by the Minnesota DFL – Democratic Party Matt Little for Congress District 2 Minnesota Search...
+Search site Submit search Menu Meet Matt Endorsements Key Issues About District 2 Get Involved For Media Yard Sign Donate Fighting for Seniors Supporting Our Most Experienced Citizens Our seniors are the longest-serving taxpayers in the state, we need to make sure that they are able to retire right here in Minnesota.
 As a member of city government, I worked to open the Heritage Center to expand senior services in Lakeville.
 In 2019, after six years of work, expanding Metro Mobility to Lakeville, providing affordable transportation that enables seniors to live comfortable, dignified lives.
 I co-sponsored bipartisan legislation to make Social Security tax-exempt, putting more money in the pockets of seniors.
 I also consistently supported the efforts to reform elder care across the state to keep seniors safe.
+More Key Issues Fighting for Safe Neighborhoods I’m supporting the brave individuals who keep our neighborhoods safe while ensuring they have the … Fighting for Rural America I’m standing up for family farmers who feed our nation but are too often undercut by policies that … Fighting for Social Security I’m committed to securing our safety net because Americans who’ve paid into these systems deserve … Join Matt’s campaign today.
+Donate Facebook Instagram X TikTok Bluesky Paid for by Matt Little for Congress Copyright © # | Privacy Policy | Contact Us Matt Little for Congress – PO Box 397 – Lakeville, MN 55044

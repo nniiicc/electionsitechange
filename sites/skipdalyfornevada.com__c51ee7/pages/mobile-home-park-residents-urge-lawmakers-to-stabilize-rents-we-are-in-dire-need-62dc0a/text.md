@@ -1,4 +1,5 @@
-Article originally published on https://www.nevadacurrent.com.
+(775) 722-6534 skipd@sbcglobal.net Facebook X Facebook X SKIP IS RUNNING AGAIN IN NOV 2026!
+HOME MEET SKIP GOALS NEWS CONTACT DONATE Select Page Daly Introduces Bill to Stabilize Rents Mar 28, 2023 | News Article originally published on https://www.nevadacurrent.com .
 When she first started living there a decade ago, Jeanneil Marzan paid $645 a month to rent a space for her manufactured home at Sierra Royal Mobile Park.
 Overtime, rent slowly increased to the current price of $790, which the Sparks resident found reasonable even living on a fixed income.
 Everything changed in December after a multi-billion dollar global private equity investor, Carlyle Group, bought the park and notified its residents of the 151-home community that rent for new spaces would be $1,010 per month.
@@ -7,17 +8,15 @@ Marzan, along with residents of her community, pleaded with state lawmakers Mond
 “Quite frankly, our legislature is our lifeline because we have nowhere else we can go,” Marzan said.
 “We have no control over what is happening to us.
 I implore the legislature to look at this closely.
-We are in dire need.”
-Senate Bill 275, brought forth by Democratic state Sen.
-Skip Daly, would prevent landlords of manufactured home parks from raising rents higher than the “maximum annual rent increase percentage calculated by the (Nevada) Housing Division.”
-The bill, which was heard by the Senate Committee on Commerce and Labor on Monday, limits annual increases to be 60% of the yearly Consumer Price Index, the main measure of inflation.
+We are in dire need.” Senate Bill 275 , brought forth by Democratic state Sen.
+Skip Daly, would prevent landlords of manufactured home parks from raising rents higher than the “maximum annual rent increase percentage calculated by the (Nevada) Housing Division.” The bill, which was heard by the Senate Committee on Commerce and Labor on Monday, limits annual increases to be 60% of the yearly Consumer Price Index, the main measure of inflation.
 Landlords could apply for exemptions and the cap wouldn’t apply to “pass-through expenses,” such as the cost residents pay for sewer and garbage services.
-While SB 275 currently has an effective date of Jan. 1 2024, Daly said he plans to introduce an amendment to move that date up to July 1 of this year.
+While SB 275 currently has an effective date of Jan.
+1 2024, Daly said he plans to introduce an amendment to move that date up to July 1 of this year.
 Daly said in the past many of the manufactured home parks in Nevada have been managed by smaller companies and families.
 More parks, he said, are being bought by corporate investors who “are only looking at the bottom line and not the effects” rent increases have on the residents.
 “The people we are talking about in these mobile home parks are often seniors, (people with) single incomes and the most vulnerable people unable to adjust unless they get some help from the legislature,” Daly said.
-“Without some help from the legislature, the most vulnerable people are going to be pushed out of these places.”
-Jonathan Norman, the statewide advocacy, outreach and policy director for Nevada Coalition of Legal Service Providers, told lawmakers there is a rising national trend of private investors purchasing mobile home parks.
+“Without some help from the legislature, the most vulnerable people are going to be pushed out of these places.” Jonathan Norman, the statewide advocacy, outreach and policy director for Nevada Coalition of Legal Service Providers, told lawmakers there is a rising national trend of private investors purchasing mobile home parks.
 Those purchases are driving up rents and forcing people out of housing.
 “I think with this type of investing if we don’t put a stop to it now it’s just going to increase,” said Norman, testifying in support of the bill.
 Nationwide, mobile home parks have been getting gobbled up by investors because land is increasingly in demand for other projects.
@@ -33,7 +32,6 @@ She and her husband have become recently stretched thin financially after needin
 “We are cutting back, not traveling, not eating out and not buying things other than necessities,” she said.
 “Is that going to be enough?
 “What happens when we are forced out of our homes and there is nowhere else to go in this economy?
-This is what we live with every day.”
-The legislation was opposed by the Manufactured Home Community Owners Association.
-Mackenzie Warren Kay, a lobbyist for the group, said that rent stabilization policies “may provide quick relief at the onset but ultimately could quickly lead to downstream economic consequences that harm housing markets.”
-This story has been corrected to reflect the amount of rent for Sierra Royal Mobile Park.
+This is what we live with every day.” The legislation was opposed by the Manufactured Home Community Owners Association.
+Mackenzie Warren Kay, a lobbyist for the group, said that rent stabilization policies “may provide quick relief at the onset but ultimately could quickly lead to downstream economic consequences that harm housing markets.” This story has been corrected to reflect the amount of rent for Sierra Royal Mobile Park.
+Search for: Recent Posts Senate Democrats Highlight Key Legislation of the 2025 Session Nevada’s workers’ compensation system may see some changes Nevada workers could sue over bad-faith insurance denials Daly Introduces Bill to Stabilize Rents Senate committee hears proposal to make fake electoral certificates a felony Archives September 2025 April 2023 March 2023 February 2023 November 2022 November 2021 Categories News CONTACT (775) 722-6534 skipd@sbcglobal.net Follow Follow MEET SKIP GOALS NEWS Donate PAID FOR AND AUTHORIZED BY DALY FOR SENATE DISTRICT 13 • 2180 4TH STREET, SPARKS, NV 89431 POWERED BY NERD POWER MEDIA Automated page speed optimizations for fast site performance

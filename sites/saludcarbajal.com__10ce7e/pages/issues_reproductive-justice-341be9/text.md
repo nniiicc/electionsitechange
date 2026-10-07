@@ -1,5 +1,4 @@
-Reproductive Justice
-As a former Planned Parenthood California Central Coast Board Member, I am a staunch supporter of expanding women's access to health care and defending reproductive justice and the right to choose.
+Skip to primary navigation Skip to content × Close Meet Salud En Español Get Involved Join the Team Endorsements Contact × Close Meet Salud En Español Get Involved Join the Team Endorsements Contact x x search x MENU Contribute Facebook icon Twitter icon Flickr icon Home Issues Reproductive Justice As a former Planned Parenthood California Central Coast Board Member, I am a staunch supporter of expanding women's access to health care and defending reproductive justice and the right to choose.
 And I know that, in the face of the erosion of decades of legal protection provided by Roe v.
 Wade and Planned Parenthood v.
 Casey, more must be done to codify a woman’s Constitutional right to choose into law.
@@ -12,3 +11,7 @@ Every day, we face blatant attacks on reproductive health.
 From President Trump’s anti-choice Supreme Court justices and draconian new state laws in places like Texas and Florida, to global and domestic gag rules to attempts at banning abortion, stripping health center resources and limiting available contraception—we have much to protect and much to improve.
 As your member of Congress, I will never sit silently when reproductive justice is on the line.
 I will always stand up for reproductive rights because they are human rights.
+Need more information?
+Give us a Call!
+Our phone number is (805) 845-9745 Contribute Meet Salud En Español Issues Get Involved Contact Privacy Policy Salud Carbajal for Congress P.O.
+Box 1290 Santa Barbara, CA, 93102 (805) 845-9745 Facebook icon Twitter icon Flickr icon Paid for by Salud Carbajal for Congress

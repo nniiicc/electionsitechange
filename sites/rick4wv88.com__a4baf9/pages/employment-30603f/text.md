@@ -1,15 +1,3 @@
-Employment
-Promoted from Ensign through Commander 1978-98 US Navy, Engineering Duty Officer previously qualified in Submarines (Unrestricted Line).
-Significant Duty Stations:
-- USS SPADEFISH (SSN 668)
-- Massachusetts Institute of Technology
-- Portsmouth Naval Shipyard
-- Engineering Duty Officer School staff
-- Commander in Chief, US Atlantic Fleet staff
-- Norfolk Naval Shipyard
-- Chief of Naval Operations staff
-M.
-Rosenblatt & Son, an AMSEC LLC Group, Arlington, VA 1998-2002 Senior Project Engineer
-Booz, Allen & Hamilton, Inc., McLean, VA 2002-11 Senior Associate, Supply Chain & Logistics Center of Excellence
-American Woodmark, Moorefield, WV 2011-2 Plant Facilities Maintenance Manager
-Luke Paper, a NewPage Corporation, Luke, MD 2012-4 Pulp Engineer / Unbleached Supervisor
+top of page Donate ABOUT Endorsement and Rankings Employment Education & Licenses Civic Involvement Major Accomplishments/Recognitions ISSUES Veteran Affairs VFDs and EMS Infrastructure & Technology COLAs for WV State Retirees Jobs Education Youth Illegal Drugs/Drug Abuse Elections & Term Limits Energy Government Health Public Safety & Consumer Protection Social Security & Taxation PHOTOS "On the Job" Photos Legislative Photos General Photos Family Photos Employment Promoted from Ensign through Commander 1978-98 US Navy, Engineering Duty Officer previously qualified in Submarines (Unrestricted Line).
+Significant Duty Stations: ​ USS SPADEFISH (SSN 668) Massachusetts Institute of Technology Portsmouth Naval Shipyard Engineering Duty Officer School staff Commander in Chief, US Atlantic Fleet staff Norfolk Naval Shipyard Chief of Naval Operations staff M.
+Rosenblatt & Son, an AMSEC LLC Group, Arlington, VA 1998-2002 Senior Project Engineer Booz, Allen & Hamilton, Inc., McLean, VA 2002-11 Senior Associate, Supply Chain & Logistics Center of Excellence ​ American Woodmark, Moorefield, WV 2011-2 Plant Facilities Maintenance Manager Luke Paper, a NewPage Corporation, Luke, MD 2012-4 Pulp Engineer / Unbleached Supervisor · Paid for by The Committee to Elect Rick Hillenbrand · © # All rights reserved – Privacy Policy Hosted and Maintained by WV Printing | Mineral County Print Shop LLC bottom of page

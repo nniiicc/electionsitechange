@@ -1,9 +1,30 @@
 [
-"https://andrewmorrisonfororegon.com/",
-"https://andrewmorrisonfororegon.com/cart",
-"https://andrewmorrisonfororegon.com/endorsements",
-"https://facebook.com/andrewmorrisonfororegon",
-"https://instagram.com/andrewmorrisonfororegon",
-"https://secure.anedot.com/andrew-morrison-for-oregon/donate",
-"https://x.com/@morrison4oregon"
+{
+"text": "0",
+"href": "https://www.andrewmorrisonfororegon.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/andrew-morrison-for-oregon/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.andrewmorrisonfororegon.com/endorsements"
+},
+{
+"text": "[image: Andrew Morrison for Oregon]",
+"href": "https://www.andrewmorrisonfororegon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/andrewmorrisonfororegon"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andrewmorrisonfororegon/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/@morrison4oregon"
+}
 ]

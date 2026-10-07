@@ -1,10 +1,1 @@
-Blue Logo
-White Logo
-Logo with blue background
-Democrat Logo - White
-Headshot #1
-Headshot #2
-Family photo option #1
-Family photo option #2
-Auto guy
-Ranjeev with Kristy Pagan
+Ranjeev 2025 Meet Ranjeev Issues News Endorsements Contact Volunteer Contribute Ranjeev 2025 #BELIEVEINRANJEEV Meet Ranjeev Issues News Endorsements Contact Volunteer Contribute Media Kit Logos Blue Logo White Logo Logo with blue background Democrat Logo - White Photos Headshot #1 Headshot #2 Family photo option #1 Family photo option #2 Auto guy Ranjeev with Kristy Pagan Volunteer Contribute Media Kit Contact Us Paid for by Friends of Ranjeev Puri PO Box 871007 Canton, MI 48187 © Copyright #

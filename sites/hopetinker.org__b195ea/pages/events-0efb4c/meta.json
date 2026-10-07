@@ -1,7 +1,11 @@
 {
  "description": "Join us for the HOPE Campaign Kick Off and other community events at Hope Tinker. Engage with meaningful activities for a brighter future.",
  "final_url": "https://hopetinker.org/events",
- "paid_for_by": null,
+ "fingerprint": "ca1d577d97fa21b8c92ca541527ad3f542556c36",
+ "format": 3,
+ "paid_for_by": "",
  "title": "EVENTS",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

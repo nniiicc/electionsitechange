@@ -1,24 +1,98 @@
 [
-"https://bsky.app/profile/wilfredmbah.bsky.social",
-"https://censusreporter.org/profiles/62000US25092-34th-middlesex-district-ma",
-"https://facebook.com/WillMbah",
-"https://instagram.com/will_mbah?igshid=16888w6qgh88z",
-"https://malegislature.gov/Search/FindMyLegislator",
-"https://sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote",
-"https://share.google/GGBEFhXGl018lzybT",
-"https://share.google/QEdhxtoXOBXvawVNM",
-"https://twitter.com/MbahCouncilor?s=20",
-"https://willmbah.com/",
-"https://willmbah.com/canvass",
-"https://willmbah.com/cart",
-"https://willmbah.com/donate",
-"https://willmbah.com/endorsements",
-"https://willmbah.com/get-involved",
-"https://willmbah.com/in-the-community",
-"https://willmbah.com/issues",
-"https://willmbah.com/issues-1",
-"https://willmbah.com/issues/gaza",
-"https://willmbah.com/issues/tps-ruling",
-"https://willmbah.com/the-district",
-"https://willmbah.com/wills-story"
+{
+"text": "0",
+"href": "https://www.willmbah.com/cart"
+},
+{
+"text": "34th Middlesex District",
+"href": "https://censusreporter.org/profiles/62000US25092-34th-middlesex-district-ma/"
+},
+{
+"text": "Back",
+"href": "https://www.willmbah.com/"
+},
+{
+"text": "Canvassing & Phonebanking",
+"href": "https://www.willmbah.com/canvass"
+},
+{
+"text": "Donate",
+"href": "https://www.willmbah.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.willmbah.com/endorsements"
+},
+{
+"text": "Find your state legislator",
+"href": "https://malegislature.gov/Search/FindMyLegislator"
+},
+{
+"text": "Find your voting location",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.willmbah.com/issues-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.willmbah.com/get-involved"
+},
+{
+"text": "In the Community",
+"href": "https://www.willmbah.com/in-the-community"
+},
+{
+"text": "Issues",
+"href": "https://www.willmbah.com/issues"
+},
+{
+"text": "Medford Ward Map",
+"href": "https://share.google/QEdhxtoXOBXvawVNM"
+},
+{
+"text": "On The Supreme Court's TPS Ruling",
+"href": "https://www.willmbah.com/issues/tps-ruling"
+},
+{
+"text": "On the Ongoing Genocide in Gaza",
+"href": "https://www.willmbah.com/issues/gaza"
+},
+{
+"text": "Somerville Ward Map",
+"href": "https://share.google/GGBEFhXGl018lzybT"
+},
+{
+"text": "The District",
+"href": "https://www.willmbah.com/the-district"
+},
+{
+"text": "Will's Story",
+"href": "https://www.willmbah.com/wills-story"
+},
+{
+"text": "[image: Map of the 34th Middlesex district in Massachusetts covering West Somerville, Winter Hill, and Ten Hills in Somerville and South Medford.]",
+"href": "https://censusreporter.org/profiles/62000US25092-34th-middlesex-district-ma/"
+},
+{
+"text": "[image: Will Mbah for State Representative]",
+"href": "https://www.willmbah.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/wilfredmbah.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/will_mbah?igshid=16888w6qgh88z"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MbahCouncilor?s=20"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WillMbah"
+}
 ]

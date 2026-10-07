@@ -1,30 +1,146 @@
 [
-"http://twitter.com/loritrahanma",
-"https://facebook.com/loriforuscongress",
-"https://instagram.com/loriforuscongress",
-"https://iwillvote.com/register?lang=en&state=MA",
-"https://loritrahan.com/",
-"https://loritrahan.com/education-2",
-"https://loritrahan.com/election-and-political-reform",
-"https://loritrahan.com/energy-and-the-environment",
-"https://loritrahan.com/gun-reform",
-"https://loritrahan.com/healthcare",
-"https://loritrahan.com/immigration",
-"https://loritrahan.com/jobs-and-economy",
-"https://loritrahan.com/lori-trahan-campaign-announces-endorsement-international-association-iron-workers-local-7",
-"https://loritrahan.com/lori-trahan-campaign-announces-endorsement-methuen-mayor-stephen-n-zanni",
-"https://loritrahan.com/lori-trahan-campaign-raises-550k-2017",
-"https://loritrahan.com/media-2",
-"https://loritrahan.com/media-2?tb-infinite=1",
-"https://loritrahan.com/media-2?tb-infinite=14",
-"https://loritrahan.com/media-2?tb-infinite=16",
-"https://loritrahan.com/media-2?tb-infinite=17",
-"https://loritrahan.com/media-2?tb-infinite=18",
-"https://loritrahan.com/meet-lori",
-"https://loritrahan.com/opioids-and-substance-abuse",
-"https://loritrahan.com/volunteer-2",
-"https://loritrahan.com/womens-rights",
-"https://loritrahan.com/zanni-endorses-trahan-3rd-district-race-eagle-tribune",
-"https://loritrahan.com/zanni-endorses-trahan-third-district-congress-race",
-"https://secure.actblue.com/donate/loritrahan?amount=5"
+{
+"text": "14",
+"href": "https://loritrahan.com/media-2/?tb-infinite=14"
+},
+{
+"text": "16",
+"href": "https://loritrahan.com/media-2/?tb-infinite=16"
+},
+{
+"text": "17",
+"href": "https://loritrahan.com/media-2/?tb-infinite=17"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/loritrahan?amount=5"
+},
+{
+"text": "Education",
+"href": "https://loritrahan.com/education-2/"
+},
+{
+"text": "Election Reform",
+"href": "https://loritrahan.com/election-and-political-reform/"
+},
+{
+"text": "Energy and the Environment",
+"href": "https://loritrahan.com/energy-and-the-environment/"
+},
+{
+"text": "Gun Reform",
+"href": "https://loritrahan.com/gun-reform/"
+},
+{
+"text": "Healthcare",
+"href": "https://loritrahan.com/healthcare/"
+},
+{
+"text": "Home",
+"href": "https://loritrahan.com/"
+},
+{
+"text": "Immigration Reform",
+"href": "https://loritrahan.com/immigration/"
+},
+{
+"text": "Jobs & The Economy",
+"href": "https://loritrahan.com/jobs-and-economy/"
+},
+{
+"text": "Lori Trahan Campaign Announces Endorsement of International Association of Iron Workers Local 7",
+"href": "https://loritrahan.com/lori-trahan-campaign-announces-endorsement-international-association-iron-workers-local-7/"
+},
+{
+"text": "Lori Trahan Campaign Announces Endorsement of Methuen Mayor Stephen N. Zanni",
+"href": "https://loritrahan.com/lori-trahan-campaign-announces-endorsement-methuen-mayor-stephen-n-zanni/"
+},
+{
+"text": "Lori Trahan Campaign Raises $550K in 2017",
+"href": "https://loritrahan.com/lori-trahan-campaign-raises-550k-2017/"
+},
+{
+"text": "Media",
+"href": "https://loritrahan.com/media-2/"
+},
+{
+"text": "Meet Lori",
+"href": "https://loritrahan.com/meet-lori/"
+},
+{
+"text": "Opioids & Substance Abuse",
+"href": "https://loritrahan.com/opioids-and-substance-abuse/"
+},
+{
+"text": "Read More",
+"href": "https://loritrahan.com/lori-trahan-campaign-announces-endorsement-international-association-iron-workers-local-7/"
+},
+{
+"text": "Read More",
+"href": "https://loritrahan.com/lori-trahan-campaign-announces-endorsement-methuen-mayor-stephen-n-zanni/"
+},
+{
+"text": "Read More",
+"href": "https://loritrahan.com/lori-trahan-campaign-raises-550k-2017/"
+},
+{
+"text": "Read More",
+"href": "https://loritrahan.com/zanni-endorses-trahan-3rd-district-race-eagle-tribune/"
+},
+{
+"text": "Read More",
+"href": "https://loritrahan.com/zanni-endorses-trahan-third-district-congress-race/"
+},
+{
+"text": "Register to Vote",
+"href": "https://iwillvote.com/register/?lang=en&state=MA"
+},
+{
+"text": "Volunteer",
+"href": "https://loritrahan.com/volunteer-2/"
+},
+{
+"text": "Women’s Rights",
+"href": "https://loritrahan.com/womens-rights/"
+},
+{
+"text": "Zanni Endorses Trahan In Third District Congress Race",
+"href": "https://loritrahan.com/zanni-endorses-trahan-third-district-congress-race/"
+},
+{
+"text": "Zanni endorses Trahan in 3rd District race / Eagle Tribune",
+"href": "https://loritrahan.com/zanni-endorses-trahan-3rd-district-race-eagle-tribune/"
+},
+{
+"text": "[image: Representative Lori Trahan]",
+"href": "https://loritrahan.com"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/loritrahanma"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/loriforuscongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/loriforuscongress/"
+},
+{
+"text": "«",
+"href": "https://loritrahan.com/media-2/?tb-infinite=1"
+},
+{
+"text": "»",
+"href": "https://loritrahan.com/media-2/?tb-infinite=18"
+},
+{
+"text": "‹",
+"href": "https://loritrahan.com/media-2/?tb-infinite=14"
+},
+{
+"text": "›",
+"href": "https://loritrahan.com/media-2/?tb-infinite=16"
+}
 ]

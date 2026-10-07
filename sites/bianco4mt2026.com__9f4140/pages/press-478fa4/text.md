@@ -1,9 +1,5 @@
-Bianco Launches Campaign for Montana House District 1
-Montana Talks
-Michelle Bianco Joined Aaron Flint on Montana Talks on October 16, 2025.
-Letter to the Editor
-Tobacco Valley News | October 15, 2025
-Affordable housing?
+Skip to content (406)916-1041 bianco4mt@gmail.com Facebook Bianco For Montana Home Press Contact VOLUNTEER NEWSLETTER Shop DONATE NOW Press & Media Bianco Launches Campaign for Montana House District 1 PR_Bianco_Announce Download Montana Talks Michelle Bianco Joined Aaron Flint on Montana Talks on October 16, 2025.
+Letter to the Editor Tobacco Valley News | October 15, 2025 Affordable housing?
 For some, that means a wish for a three-bedroom home that they can actually afford the payment.
 For others, that means a price tag of $600,000!
 That’s right!
@@ -29,5 +25,8 @@ In North Lincoln County, insurance companies are cancelling policies due to fire
 Lincoln County has 22,000 residents, and no one even mentioned us in these court cases.
 The most dangerous part is the lack of local knowledge.
 Attorneys argue our fate: no jobs, increased fire dangers, and increased lumber costs, but not one of them has ever walked a logging skid.
-Michelle Bianco
-Fortine, Montana
+Michelle Bianco Fortine, Montana Donate Now Volunteering Newsletter Bianco For Montana Contact Info P.O.
+Box 266, Fortine, MT 59918 bianco4mt@gmail.com (406) 916-1041 Popular Links Donate Now Volunteering Newsletter PAID FOR BY MICHELLE BIANCO FOR HD1.
+All Rights Reserved Scroll To Top Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

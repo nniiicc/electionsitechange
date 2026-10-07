@@ -1,6 +1,4 @@
-Ana Maria Rodriguez:
-A Principled, Independent Voice for South Florida
-Ana Maria Rodriguez is running for re-election to the Florida State Senate.
+Home About Ana Maria District 40 Miami-Dade County Monroe County Donate Miami-Dade Hurricane Preparedness Monroe Hurricane Preparedness Español Ana Maria Rodriguez: A Principled, Independent Voice for South Florida Ana Maria Rodriguez is running for re-election to the Florida State Senate.
 After serving one term in the Florida House of Representatives from 2018 to 2020, she successfully ran for the Florida Senate, where she has built a strong record focused on improving quality of life for South Florida families, seniors, homeowners, small businesses, and working residents.
 She was also elected by her peers to serve as Chair of the Miami-Dade Legislative Delegation, a leadership role she continues to hold today.
 Born in Miami to Cuban parents, Ana Maria understands the value of opportunity, hard work, safe communities, and a government that respects the people it serves.
@@ -22,3 +20,5 @@ Theresa Catholic School, graduated from Our Lady of Lourdes Academy, earned a B.
 Her husband, Dr.
 Clemente Canabal, is a native of Cartagena, Colombia.
 They live in Miami-Dade County with their two sons, Hermes and Eros.
+Ana Maria Rodriguez Contact Us Email us amr@electanamaria.com Links Home About Ana Maria District 40 Miami-Dade County Monroe County Donate Miami-Dade Hurricane Preparedness Monroe Hurricane Preparedness Español Political Advertisement Paid for and approved by Ana Maria Rodriguez for Florida State Senate District 40.
+Terms of Use Privacy Policy

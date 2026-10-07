@@ -1,5 +1,4 @@
-About John Brown
-I was born in Franklin, North Carolina, into a family of hard-working people who taught me the value of earning an honest living.
+0 Skip to Content John Brown for Georgia 2026 Home About Issues Donate Volunteer Open Menu Close Menu John Brown for Georgia 2026 Home About Issues Donate Volunteer Open Menu Close Menu Home About Issues Donate Volunteer About John Brown I was born in Franklin, North Carolina, into a family of hard-working people who taught me the value of earning an honest living.
 My father worked at the Fruit of the Loom plant in Rabun Gap before becoming a small business owner.
 My grandfather drove trucks hauling stone and dirt, while my grandmother drove a school bus.
 My mother and her mother both worked as café waitresses.
@@ -12,8 +11,7 @@ The skills I’ve gained in the shop continue to serve me as I build homes, pavi
 In 2014, my family moved to Rabun Gap, and in 2016 we were blessed to find our dream home near Clayton, where we live with our three dogs, our cat, and three rabbits.
 In 2017, I helped organize a volunteer effort to rebuild the Wayah Bald Fire Tower on the Appalachian Trail after it was damaged in the Camp Branch Fire.
 Today, I continue to timber frame and spend time in my shop at home, doing the work I love.
-Why I’m Running
-I’m running for Georgia State House District 10, which serves Rabun and Habersham counties, because I believe our state and our country are on the wrong path—and it’s time for leaders who will put working families first.
+Why I’m Running I’m running for Georgia State House District 10, which serves Rabun and Habersham counties, because I believe our state and our country are on the wrong path—and it’s time for leaders who will put working families first.
 Too many Georgians are struggling to afford the basics.
 I want to lower the cost of everyday necessities like food, healthcare, and housing.
 I support raising the minimum wage and advancing policies that make life more affordable for families and small businesses.
@@ -23,3 +21,4 @@ Finally, I’m running because I’m tired of the hate and division being fueled
 We are all human.
 We all make mistakes.
 And we are stronger when we listen to one another, work together, and focus on building a better future for our children and grandchildren.
+John Brown for Georgia johnbrownforgeorgia@gmail.com Made with Squarespace

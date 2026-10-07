@@ -1,10 +1,2 @@
-Back to All Events
-Come out and support Roth in his bid for State Representative.
-RSVP to 573-248-6899
-Previous
-Previous
-March 19
-Hannibal Meet & Greet
-Next
-Next
-August 4
+0 Skip to Content Home About Me Endorsements Contact Events Facebook Donate Now Open Menu Close Menu Home About Me Endorsements Contact Events Facebook Donate Now Open Menu Close Menu Home About Me Endorsements Contact Events Facebook Donate Now Back to All Events Cocktail Fundraiser Thursday, May 7, 2026 6:00 PM 10:30 PM Google Calendar ICS Come out and support Roth in his bid for State Representative.
+RSVP to 573-248-6899 Previous Previous March 19 Hannibal Meet & Greet Next Next August 4 Republican Primary Election Day Paid for by Committee to Elect Roth McElvain, Treasurer Chad Englehardt mcelvainformissouri@gmail.com

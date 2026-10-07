@@ -1,22 +1,118 @@
 [
-"http://markfornebraska.org/",
-"https://facebook.com/profile.php?id=61581549796742",
-"https://instagram.com/mark_for_nebraska?igsh=MnlweGFpaXh0YjBu",
-"https://markfornebraska.org/",
-"https://markfornebraska.org/about-mark",
-"https://markfornebraska.org/blog",
-"https://markfornebraska.org/cart",
-"https://markfornebraska.org/contact",
-"https://markfornebraska.org/events",
-"https://markfornebraska.org/faq",
-"https://markfornebraska.org/issues",
-"https://markfornebraska.org/press",
-"https://markfornebraska.org/privacy-policy",
-"https://markfornebraska.org/terms-of-use",
-"https://markfornebraska.org/volunteer",
-"https://nebraska.gov/apps-sos-voter-registration",
-"https://politics.raisethemoney.com/en/mark-for-nebraska",
-"https://tiktok.com/@markfornebraska",
-"https://x.com/MarkForNebraska",
-"https://youtube.com/@MarkForNebraskaCampaign"
+{
+"text": "$10",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$100",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$25",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$5",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$50",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "0",
+"href": "https://www.markfornebraska.org/cart"
+},
+{
+"text": "About Mark",
+"href": "https://www.markfornebraska.org/about-mark"
+},
+{
+"text": "Contact",
+"href": "https://www.markfornebraska.org/contact"
+},
+{
+"text": "Continue to website →",
+"href": "https://www.markfornebraska.org/"
+},
+{
+"text": "DONATE",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "Events",
+"href": "https://www.markfornebraska.org/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.markfornebraska.org/faq"
+},
+{
+"text": "Home",
+"href": "https://www.markfornebraska.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.markfornebraska.org/issues"
+},
+{
+"text": "News",
+"href": "https://www.markfornebraska.org/blog"
+},
+{
+"text": "Other",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "Press",
+"href": "https://www.markfornebraska.org/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.markfornebraska.org/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.nebraska.gov/apps-sos-voter-registration/"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.markfornebraska.org/terms-of-use"
+},
+{
+"text": "Volunteer",
+"href": "https://www.markfornebraska.org/volunteer"
+},
+{
+"text": "[image: Mark for Nebraska]",
+"href": "https://www.markfornebraska.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61581549796742"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mark_for_nebraska?igsh=MnlweGFpaXh0YjBu"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@markfornebraska"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MarkForNebraskaCampaign"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MarkForNebraska"
+},
+{
+"text": "info@markfornebraska.org",
+"href": "mailto:info@markfornebraska.org"
+},
+{
+"text": "www.markfornebraska.org",
+"href": "http://www.markfornebraska.org"
+}
 ]

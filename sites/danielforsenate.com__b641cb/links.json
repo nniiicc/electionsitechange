@@ -1,8 +1,42 @@
 [
-"https://danielforsenate.com/",
-"https://danielforsenate.com/bio",
-"https://danielforsenate.com/contact",
-"https://danielforsenate.com/issues",
-"https://danielforsenate.com/search",
-"https://secure.winred.com/warren-daniel-for-nc-senate/donate-today"
+{
+"text": "Bio",
+"href": "https://www.danielforsenate.com/bio"
+},
+{
+"text": "Biography",
+"href": "https://www.danielforsenate.com/bio"
+},
+{
+"text": "Contact",
+"href": "https://www.danielforsenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/warren-daniel-for-nc-senate/donate-today"
+},
+{
+"text": "Issues",
+"href": "https://www.danielforsenate.com/issues"
+},
+{
+"text": "View All",
+"href": "https://www.danielforsenate.com/issues"
+},
+{
+"text": "[image: Warren Daniel]",
+"href": "https://www.danielforsenate.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.danielforsenate.com/issues"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/warren-daniel-for-nc-senate/donate-today"
+},
+{
+"text": "[no text]",
+"href": "https://www.danielforsenate.com/search"
+}
 ]

@@ -1,15 +1,8 @@
-Fischbach Statement on Peterson Announcement
-LITCHFIELD, MN – Following the news that Collin Peterson will seek reelection in Minnesota’s 7th District, Trump endorsed candidate and former Lt.
-Governor Michelle Fischbach released the following statement: “I look forward to holding Collin Peterson accountable over the … Continue reading Fischbach Statement on Peterson Announcement
-President Trump Endorses Fischbach in Minnesota’s 7th District Race
-LITCHFIELD, MN – Michelle Fischbach, the former Lt.
+About Issues Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press April 6, 2020 Fischbach Statement on Peterson Announcement LITCHFIELD, MN – Following the news that Collin Peterson will seek reelection in Minnesota’s 7th District, Trump endorsed candidate and former Lt.
+Governor Michelle Fischbach released the following statement: “I look forward to holding Collin Peterson accountable over the … Continue reading Fischbach Statement on Peterson Announcement March 3, 2020 President Trump Endorses Fischbach in Minnesota’s 7th District Race LITCHFIELD, MN – Michelle Fischbach, the former Lt.
 Governor of Minnesota, today picked up the biggest endorsement any Republican candidate running for office can hope for: the endorsement of President Donald J.
-Trump, the 45th President of the … Continue reading President Trump Endorses Fischbach in Minnesota’s 7th District Race
-Minnesota’s Largest Pro-Life Group Endorses Michelle Fischbach in 7th District Race
-LITCHFIELD, MN – Minnesota Citizens Concerned for Life (MCCL), the largest pro-life group in Minnesota, today officially endorsed former Lt.
+Trump, the 45th President of the … Continue reading President Trump Endorses Fischbach in Minnesota’s 7th District Race January 15, 2020 Minnesota’s Largest Pro-Life Group Endorses Michelle Fischbach in 7th District Race LITCHFIELD, MN – Minnesota Citizens Concerned for Life (MCCL), the largest pro-life group in Minnesota, today officially endorsed former Lt.
 Governor Michelle Fischbach in her bid for Minnesota’s 7th District.
-In response to their endorsement, Michelle Fischbach released the … Continue reading Minnesota’s Largest Pro-Life Group Endorses Michelle Fischbach in 7th District Race
-National Right to Life Endorses Michelle Fischbach in Minnesota’s 7th District Race
-LITCHFIELD, MN – National Right to Life Committee, the largest pro-life group in the United States, today officially endorsed former Lt.
+In response to their endorsement, Michelle Fischbach released the … Continue reading Minnesota’s Largest Pro-Life Group Endorses Michelle Fischbach in 7th District Race January 14, 2020 National Right to Life Endorses Michelle Fischbach in Minnesota’s 7th District Race LITCHFIELD, MN – National Right to Life Committee, the largest pro-life group in the United States, today officially endorsed former Lt.
 Governor Michelle Fischbach in her bid for Minnesota’s 7th District.
-In response to their endorsement, Michelle Fischbach released … Continue reading National Right to Life Endorses Michelle Fischbach in Minnesota’s 7th District Race
+In response to their endorsement, Michelle Fischbach released … Continue reading National Right to Life Endorses Michelle Fischbach in Minnesota’s 7th District Race Posts pagination Previous page Page 1 … Page 8 Page 9 Page 10 Next page Add Me To The Press List DONATE Paid for by Fischbach for Congress Privacy Policy | © All Rights Reserved Donate

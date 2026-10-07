@@ -1,5 +1,23 @@
-ON THE FIFTH ANNIVERSARY OF ABBEY GATE, BIDEN NSC COUNTERTERRORISM DIRECTOR CAIT CONLEY SAID NOTHING
-August 27, 2026
-Thirteen American service members were murdered by an ISIS-K suicide bomber at Kabul airport on August 26, 2021, while Cait Conley was serving as a director for counterterrorism on President Biden’s National Security Council staff.
+Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate News ON THE FIFTH ANNIVERSARY OF ABBEY GATE, BIDEN NSC COUNTERTERRORISM DIRECTOR CAIT CONLEY SAID NOTHING August 27, 2026 Thirteen American service members were murdered by an ISIS-K suicide bomber at Kabul airport on August 26, 2021, while Cait Conley was serving as a director for counterterrorism on President Biden’s National Security Council staff.
 Yesterday, as the White House proclaimed a national day of commemoration and the country honored the fallen, Conley said nothing.
 Five years on, she has never publicly addressed the Biden administration’s handling of the withdrawal.
+SHOCKING REPORT: CAIT CONLEY TOOK TENS OF THOUSANDS FROM COMMITTEES FUNDED BY CORPORATE PACS, DESPITE HER PLEDGE TO REFUSE CORPORATE CASH August 26, 2026 NOTUS reports that Cait Conley pledged not to accept corporate PAC money, yet nearly half of the contributions she received from federal PACs came from committees that took corporate PAC money.
+Conley’s campaign did not respond to the outlet’s request for comment.
+LAWLER CAMPAIGN THANKS CAIT CONLEY AND HER WELL-PAID CONSULTANTS FOR ENDORSING MIKE LAWLER’S AGENDA IN HER NEW AD August 19, 2026 In a thirty-second spot released Wednesday, Cait Conley announced she is running to ban congressional stock trading, enact term limits, and end corruption.
+Congressman Lawler co-sponsored the stock trading ban and voted to pass it four weeks ago, has backed a term limits amendment and pledged to enact term limits since 2022, and voted to expel a corrupt member of his own party from Congress.
+CAIT CONLEY MAKES IT OFFICIAL, FULLY EMBRACING THE WORKING FAMILIES PARTY, WHICH HAS CALLED TO DEFUND THE POLICE AND ABOLISH ICE August 18, 2026 Conley, who touts herself as a “moderate,” is joining forces with a party that wants to defund the police, abolish ICE, end military aid to Israel, and spent millions helping elect the Socialist Mayor of New York City – Zohran Mamdani.
+LAW ENFORCEMENT FOR LAWLER: ELEVEN POLICE UNIONS ENDORSE CONGRESSMAN MIKE LAWLER FOR REELECTION August 17, 2026 Presidents and officers representing law enforcement across the Hudson Valley, New York City, and New York State stood with Lawler in Rockland County to formally announce their support.
+CAIT CONLEY CHICKENS OUT OF BOTH NATIONAL DEBATES, HIDES UNTIL SEPTEMBER 28 August 14, 2026 After telling a national cable audience that Mike Lawler was “scared” to face her, and that she would “kick [Lawler’s] ass”, Conley ducked Meet the Press and State of the Union, and stalled for 52 days to agree to just two debates, fewer than this district got in 2024 and none before September 28.
+Lawler has accepted four and is ready for all six.
+The candidates’ first forum is on Wednesday morning in Poughkeepsie and is open to the press.
+UNPREPARED CAIT CONLEY HIDES FROM DEBATES August 12, 2026 This morning, the Lawler campaign announced four accepted debates and called on Cait Conley to stop playing chicken.
+Conley’s response?
+Refusing to debate on NBC’s Meet the Press and CNN’s State of the Union, two of the biggest stages in this race.
+Pearl River, NY — August 12, 2026… This morning, the Lawler for Congress campaign announced […] LAWLER FOR CONGRESS CAMPAIGN ANNOUNCES FOUR DEBATES, WITH TWO MORE BEING FINALIZED, AND CALLS ON CAIT CONLEY AND HER DC CONSULTANTS TO STOP PLAYING CHICKEN August 12, 2026 Seven weeks after Congressman Mike Lawler challenged Cait Conley to six televised debates, he has accepted four of them, from NBC, CNN, News 12, and Pix11.
+Two more are waiting on her.
+Conley has agreed to nothing, and voters begin casting ballots in seventy-three days.
+LAWLER FOR CONGRESS LAUNCHES $5 MILLION AD CAMPAIGN, MARKING THE BEGINNING OF SIGNIFICANT SPEND IN TOP SWING SEAT August 11, 2026 The opening ad, “Solutions,” shows Hudson Valley voters describing what Lawler’s tax work has meant for their households.
+It goes up with Republicans holding a better-than-20-to-1 advantage over Cait Conley in reserved fall airtime, and Lawler leading independents by 15 points.
+LAWLER EARNS TOP MARKS FOR BIPARTISANSHIP IN THE 119TH CONGRESS August 4, 2026 The nonpartisan report card gave Lawler a score of 99.2, grading him an “A” for the 119th Congress, placing him in the top 10 among House members graded.
+Lawler also scored the highest among any in New York’s Congressional delegation. « Previous Next » Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
+Privacy Policy | Terms & Conditions | Accessibility Statement

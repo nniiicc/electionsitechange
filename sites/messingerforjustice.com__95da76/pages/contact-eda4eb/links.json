@@ -1,22 +1,86 @@
 [
-"https://addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com",
-"https://addtoany.com/add_to/email?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com",
-"https://addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com",
-"https://addtoany.com/add_to/facebook_messenger?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com",
-"https://addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com",
-"https://addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com",
-"https://addtoany.com/add_to/snapchat?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com",
-"https://addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com",
-"https://addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com",
-"https://addtoany.com/add_to/x?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com",
-"https://addtoany.com/share",
-"https://electiondaystrategies.com/",
-"https://messingerforjustice.com/",
-"https://messingerforjustice.com/about-john",
-"https://messingerforjustice.com/contact",
-"https://messingerforjustice.com/endorsements",
-"https://messingerforjustice.com/newsletter",
-"https://messingerforjustice.com/volunteer",
-"https://messingerforjustice.com/voting-info",
-"https://secure.winred.com/john-messinger/donate-today"
+{
+"text": "ABOUT JOHN",
+"href": "https://messingerforjustice.com/about-john/"
+},
+{
+"text": "CONTACT",
+"href": "https://messingerforjustice.com/contact/"
+},
+{
+"text": "DONATE TODAY!",
+"href": "https://secure.winred.com/john-messinger/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://messingerforjustice.com/endorsements/"
+},
+{
+"text": "Election Day Strategies",
+"href": "https://electiondaystrategies.com"
+},
+{
+"text": "HOME",
+"href": "https://messingerforjustice.com/"
+},
+{
+"text": "NEWS",
+"href": "https://messingerforjustice.com/newsletter/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://messingerforjustice.com/volunteer/"
+},
+{
+"text": "VOTING INFO",
+"href": "https://messingerforjustice.com/voting-info/"
+},
+{
+"text": "[image: MessingerForJustice.com]",
+"href": "https://messingerforjustice.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.addtoany.com/share"
+},
+{
+"text": "[tooltip: Copy Link]",
+"href": "https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com"
+},
+{
+"text": "[tooltip: Email]",
+"href": "https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com"
+},
+{
+"text": "[tooltip: LinkedIn]",
+"href": "https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com"
+},
+{
+"text": "[tooltip: Mastodon]",
+"href": "https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com"
+},
+{
+"text": "[tooltip: Messenger]",
+"href": "https://www.addtoany.com/add_to/facebook_messenger?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com"
+},
+{
+"text": "[tooltip: Snapchat]",
+"href": "https://www.addtoany.com/add_to/snapchat?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com"
+},
+{
+"text": "[tooltip: WhatsApp]",
+"href": "https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://www.addtoany.com/add_to/x?linkurl=https%3A%2F%2Fmessingerforjustice.com%2Fcontact%2F&linkname=CONTACT+-+MessingerForJustice.com"
+}
 ]

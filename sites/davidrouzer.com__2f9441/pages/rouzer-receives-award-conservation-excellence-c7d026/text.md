@@ -1,18 +1,13 @@
-Via The Johnston County Report
-This week Congressman David Rouzer received the Award for Conservative Excellence by the American Conservative Union (ACU) for his leadership and conservative voting record for the first session of the 114th Congress.
+Skip to content Home Meet David Issues News Coalitions Contact Volunteer Contribute Sign Up for Updates Email (Required) Zip (Required) Subscribe Join Our Fight Today!
+Contribute ROUZER RECEIVES AWARD FOR CONSERVATION EXCELLENCE April 28, 2016 Via The Johnston County Report This week Congressman David Rouzer received the Award for Conservative Excellence by the American Conservative Union (ACU) for his leadership and conservative voting record for the first session of the 114 th Congress.
 This is the ACU’s top award for Members of Congress who vote most consistently with the ideals articulated in the U.S.
 Constitution: limited and transparent government, individual rights, personal responsibility, and a healthy culture.
 Adhering to this approach every year since 1971, the ACU ratings are the most consistent measure of Congress.
 “Our Founding Fathers established our Republic on the principles embodied by our Constitution to help ensure that our God-given and inalienable rights would be protected.
 The ideals of limited government, individual rights, personal responsibility and a strong national defense must be fought for every single day,” Congressman Rouzer (R-NC-07) said.
-“I am honored to receive the Award for Conservative Excellence by the American Conservative Union, and I look forward to continuing to advocate for these conservative principles which made this country great.”
-ACU researched and selected a range of bills before the first session of the 114th Congress to determine a member’s adherence to conservative principles, specifically the economic and fiscal outlook, social and cultural values and preserving our national security through a strong defense.
+“I am honored to receive the Award for Conservative Excellence by the American Conservative Union, and I look forward to continuing to advocate for these conservative principles which made this country great.” ACU researched and selected a range of bills before the first session of the 114 th Congress to determine a member’s adherence to conservative principles, specifically the economic and fiscal outlook, social and cultural values and preserving our national security through a strong defense.
 The votes selected by the ACU were chosen to provide citizens with an accurate reflection of how Members of Congress best defend principles of a free society.
-In addition to Rouzer’s very high ranking with the ACU, the following groups have endorsed him:
-- National Right to Life
-- National Federation of Independent Businesses
-- North Carolina Association of Realtors
-- U.S.
-Chamber of Commerce
-Rouzer is also ranked an “A rated candidate” by the National Rifle Association with a 100% voting record and has received the U.S.
+In addition to Rouzer’s very high ranking with the ACU, the following groups have endorsed him: National Right to Life National Federation of Independent Businesses North Carolina Association of Realtors U.S.
+Chamber of Commerce Rouzer is also ranked an “A rated candidate” by the National Rifle Association with a 100% voting record and has received the U.S.
 Chamber of Commerce’s Spirit of Enterprise Award for his consistent and strong voting record in favor of free enterprise.
+Contribute Meet David Issues News Coalitions Contact Volunteer PAID FOR BY DAVID ROUZER FOR CONGRESS PO BOX 3142, WILMINGTON, NC 28406 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

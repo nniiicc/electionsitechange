@@ -1,7 +1,9 @@
 {
- "description": "Learn more about Andy Biggs\u2019 priorities.",
+ "description": "Learn more about Andy Biggs’ priorities.",
  "final_url": "https://biggsforarizona.com/issues/",
- "paid_for_by": null,
+ "fingerprint": "1ca14d89a3e1d299f87016a1a052ffa5065a5a09",
+ "format": 3,
+ "paid_for_by": "authorized by Biggs for Arizona By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number",
  "title": "Issues - Andy Biggs for Governor",
  "years_mentioned": []
 }

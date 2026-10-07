@@ -1,38 +1,198 @@
 [
-"https://aguiar-curry.asmdc.org/",
-"https://bsky.app/profile/fionamacpa.bsky.social",
-"https://cta.org/",
-"https://facebook.com/CA.FionaMa",
-"https://fionama.com/",
-"https://fionama.com/2026/07/03",
-"https://fionama.com/about",
-"https://fionama.com/agricultural-tours",
-"https://fionama.com/awards",
-"https://fionama.com/california-teachers-association-endorses-fiona-ma-for-lieutenant-governor",
-"https://fionama.com/endorse-fiona",
-"https://fionama.com/endorsements",
-"https://fionama.com/happy-independence-day",
-"https://fionama.com/my-story",
-"https://fionama.com/news",
-"https://fionama.com/newsletter",
-"https://fionama.com/press-releases",
-"https://fionama.com/privacy-policy",
-"https://fionama.com/recycling-tours",
-"https://fionama.com/seiu-1021-endorses-fiona-ma-for-lieutenant-governor",
-"https://fionama.com/tell-fiona-what-matters",
-"https://fionama.com/u-s-senators-adam-schiff-and-alex-padilla-endorse-fiona-ma-for-lieutenant-governor",
-"https://fionama.com/videos",
-"https://fionama.com/why-i-am-running",
-"https://flickr.com/photos/fionama",
-"https://instagram.com/fionamacpa",
-"https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1",
-"https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=100",
-"https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=1000",
-"https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=250",
-"https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=2500",
-"https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=5000",
-"https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=50000",
-"https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=9800",
-"https://x.com/fionama",
-"https://youtube.com/@fionama"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=100"
+},
+{
+"text": "$2,500",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=2500"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=250"
+},
+{
+"text": "$5,000",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=5000"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=50000"
+},
+{
+"text": "$9,800",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1?amount=9800"
+},
+{
+"text": "About Fiona",
+"href": "https://fionama.com/about/"
+},
+{
+"text": "Agricultural Tours",
+"href": "https://fionama.com/agricultural-tours/"
+},
+{
+"text": "Agriculture Tours",
+"href": "https://fionama.com/agricultural-tours/"
+},
+{
+"text": "Assemblymember Cecilia Aguiar-Curry",
+"href": "https://aguiar-curry.asmdc.org/"
+},
+{
+"text": "Awards",
+"href": "https://fionama.com/awards/"
+},
+{
+"text": "California Teachers Association",
+"href": "https://www.cta.org/"
+},
+{
+"text": "California’s Official Voter Guide Publishes Fiona Ma Candidate Statement",
+"href": "https://fionama.com/californias-official-voter-guide-publishes-fiona-ma-candidate-statement/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:fiona@fionama.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1"
+},
+{
+"text": "Endorse Fiona",
+"href": "https://fionama.com/endorse-fiona/"
+},
+{
+"text": "Endorsements",
+"href": "https://fionama.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/CA.FionaMa"
+},
+{
+"text": "Fiona@FionaMa.com",
+"href": "mailto:fiona@fionama.com"
+},
+{
+"text": "Home",
+"href": "https://fionama.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/fionamacpa/"
+},
+{
+"text": "July 3, 2026",
+"href": "https://fionama.com/2026/07/03/"
+},
+{
+"text": "La Defensa Recommends Fiona Ma for Lieutenant Governor",
+"href": "https://fionama.com/la-defensa-recommends-fiona-ma-for-lieutenant-governor/"
+},
+{
+"text": "My Story",
+"href": "https://fionama.com/my-story/"
+},
+{
+"text": "News",
+"href": "https://fionama.com/news/"
+},
+{
+"text": "Newsletter",
+"href": "https://fionama.com/newsletter/"
+},
+{
+"text": "Next",
+"href": "https://fionama.com/happy-independence-day/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1"
+},
+{
+"text": "Photos",
+"href": "https://www.flickr.com/photos/fionama/"
+},
+{
+"text": "Press Releases",
+"href": "https://fionama.com/press-releases/"
+},
+{
+"text": "Previous",
+"href": "https://fionama.com/california-teachers-association-endorses-fiona-ma-for-lieutenant-governor/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://fionama.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://fionama.com/californias-official-voter-guide-publishes-fiona-ma-candidate-statement/"
+},
+{
+"text": "Read More",
+"href": "https://fionama.com/la-defensa-recommends-fiona-ma-for-lieutenant-governor/"
+},
+{
+"text": "Recycling Tours",
+"href": "https://fionama.com/recycling-tours/"
+},
+{
+"text": "Support Fiona Ma for Lieutenant Governor",
+"href": "https://secure.actblue.com/donate/fiona-ma-for-lieutenant-governor-2026-1"
+},
+{
+"text": "Tell Fiona What Matters",
+"href": "https://fionama.com/tell-fiona-what-matters/"
+},
+{
+"text": "Videos",
+"href": "https://fionama.com/videos/"
+},
+{
+"text": "Why I Am Running",
+"href": "https://fionama.com/why-i-am-running/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/fionama"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@fionama"
+},
+{
+"text": "[image: Fiona Ma for Lieutenant Governor]",
+"href": "https://fionama.com/"
+},
+{
+"text": "[image]",
+"href": "https://fionama.com/californias-official-voter-guide-publishes-fiona-ma-candidate-statement/"
+},
+{
+"text": "[image]",
+"href": "https://fionama.com/la-defensa-recommends-fiona-ma-for-lieutenant-governor/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/fionamacpa.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CA.FionaMa"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/fionamacpa/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/fionama"
+}
 ]

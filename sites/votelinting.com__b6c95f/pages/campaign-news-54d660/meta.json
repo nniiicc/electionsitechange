@@ -1,7 +1,11 @@
 {
  "description": "Rylee Linting for Michigan State Representative News Rylee is running to represent Michigan's 27th District.",
  "final_url": "https://votelinting.com/campaign-news/",
+ "fingerprint": "148e3c8e7b5f7aa2461c6d977935af255b4a65ba",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Rylee Linting, PO Box 13, Wyandotte, MI",
- "title": "News \u2013 VoteLinting.com",
- "years_mentioned": []
+ "title": "News – VoteLinting.com",
+ "years_mentioned": [
+  "2024"
+ ]
 }

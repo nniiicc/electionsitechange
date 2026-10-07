@@ -1,12 +1,46 @@
 [
-"https://facebook.com/BillDriscollJr",
-"https://facebook.com/vote4driscoll",
-"https://vote4driscoll.com/",
-"https://vote4driscoll.com/2026-endorsements",
-"https://vote4driscoll.com/copy-of-get-involved",
-"https://vote4driscoll.com/copy-of-meet-bill",
-"https://vote4driscoll.com/donate",
-"https://vote4driscoll.com/lwvforum",
-"https://vote4driscoll.com/news",
-"https://vote4driscoll.com/voting-info"
+{
+"text": "< Back",
+"href": "https://www.vote4driscoll.com/news"
+},
+{
+"text": "DONATE",
+"href": "https://www.vote4driscoll.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.vote4driscoll.com/2026-endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.vote4driscoll.com/copy-of-get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.vote4driscoll.com"
+},
+{
+"text": "MEET BILL",
+"href": "https://www.vote4driscoll.com/copy-of-meet-bill"
+},
+{
+"text": "RESULTS",
+"href": "https://www.vote4driscoll.com/news"
+},
+{
+"text": "VIDEOS",
+"href": "https://www.vote4driscoll.com/lwvforum"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.vote4driscoll.com/voting-info"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/BillDriscollJr"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/vote4driscoll"
+}
 ]

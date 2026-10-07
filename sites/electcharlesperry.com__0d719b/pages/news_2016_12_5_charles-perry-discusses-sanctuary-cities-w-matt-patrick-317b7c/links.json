@@ -1,13 +1,54 @@
 [
-"https://electcharlesperry.com/",
-"https://electcharlesperry.com/about",
-"https://electcharlesperry.com/contact",
-"https://electcharlesperry.com/donate",
-"https://electcharlesperry.com/issuses",
-"https://electcharlesperry.com/news",
-"https://electcharlesperry.com/news/2016/11/21/sen-perry-joins-fox-news-to-discuss-sanctuary-cities",
-"https://electcharlesperry.com/news/2016/12/5/charles-perry-discusses-sanctuary-cities-w-matt-patrick",
-"https://electcharlesperry.com/news?author=54f73a41e4b067f71ea31f6c",
-"https://electcharlesperry.com/take-action",
-"https://facebook.com/ElectCharlesPerry"
+{
+"text": "About",
+"href": "https://www.electcharlesperry.com/about"
+},
+{
+"text": "Charles Perry Discusses Sanctuary Cities w/ Matt Patrick",
+"href": "https://www.electcharlesperry.com/news/2016/12/5/charles-perry-discusses-sanctuary-cities-w-matt-patrick"
+},
+{
+"text": "Contact",
+"href": "https://www.electcharlesperry.com/contact"
+},
+{
+"text": "December 5, 2016",
+"href": "https://www.electcharlesperry.com/news/2016/12/5/charles-perry-discusses-sanctuary-cities-w-matt-patrick"
+},
+{
+"text": "Donate",
+"href": "https://www.electcharlesperry.com/donate"
+},
+{
+"text": "ELIZABETH CUSTY",
+"href": "https://www.electcharlesperry.com/news?author=54f73a41e4b067f71ea31f6c"
+},
+{
+"text": "Home",
+"href": "https://www.electcharlesperry.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.electcharlesperry.com/issuses"
+},
+{
+"text": "News",
+"href": "https://www.electcharlesperry.com/news"
+},
+{
+"text": "Sen Perry Joins Fox News to Discuss Sanctuary Cities",
+"href": "https://www.electcharlesperry.com/news/2016/11/21/sen-perry-joins-fox-news-to-discuss-sanctuary-cities"
+},
+{
+"text": "Take Action",
+"href": "https://www.electcharlesperry.com/take-action"
+},
+{
+"text": "[image: Elect Charles Perry]",
+"href": "https://www.electcharlesperry.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectCharlesPerry"
+}
 ]

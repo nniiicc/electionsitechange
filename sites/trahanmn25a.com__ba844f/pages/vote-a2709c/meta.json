@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.trahanmn25a.com/vote",
- "paid_for_by": null,
+ "fingerprint": "2b7fae4459d65eecd5bd64d816bfa715f81b037b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

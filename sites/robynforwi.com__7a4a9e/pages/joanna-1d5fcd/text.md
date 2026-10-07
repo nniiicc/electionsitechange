@@ -1,5 +1,4 @@
-Joanna
-“I am one of the volunteers helping to bring these Faces of the 14th stories to social media, and it has been one of the brightest points in this challenging year.
+District Map Voting Merch Gallery Press Home Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care For Our Climate Violence Prevention Justice for All Working Together Endorsements Endorsements Faces of the District Awards Meet Robyn Get Involved Merch Volunteer Knock Doors Request a Yard Sign Reading Wins Contact Donate Select Page Joanna More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett “I am one of the volunteers helping to bring these Faces of the 14th stories to social media, and it has been one of the brightest points in this challenging year.
 I believe that Robyn and leaders like her can truly change this world.
 Being able to help amplify the work she is doing, and the impact it has made across our community, is one of the most rewarding things I’ve done this year.
 Through collecting and listening to your stories, I get to see so much love, so much care, and so much hope for the future.
@@ -18,4 +17,4 @@ Robyn leads by listening and caring.
 It doesn’t matter who you are – Robyn will stop and listen to your story.
 She will really, truly listen and then she’ll turn around and advocate for you.
 I think this is unique, but I also think it’s essential.
-We elect our representatives to represent us, and I am proud to have Rep Robyn representing us so well in Madison.” – Joanna
+We elect our representatives to represent us, and I am proud to have Rep Robyn representing us so well in Madison.” – Joanna More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

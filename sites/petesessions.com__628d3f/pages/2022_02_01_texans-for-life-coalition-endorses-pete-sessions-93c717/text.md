@@ -1,5 +1,4 @@
-Texans For Life Coalition Endorses Pete Sessions
-February 1, 2022
-Texans for Life Coalition is proud to endorse Pete Sessions to continue representing the 17th District of Texas in Congress.
-Kyleen Wright, President of Texans for Life Coalition, notes that “Pete Sessions has a long history of faithful, exemplary service to this state and nation, and has faithfully stood for protecting life.
-We are proud to call him our friend and urge our pro-life friends in Central Texas to vote for him.”
+Toggle navigation Home Home Meet Pete Endorsements Issues TX-17 In the News Media Videos Press Releases In the News Get Involved Contact Donate Texans For Life Coalition Endorses Pete Sessions February 1, 2022 Texans for Life Coalition is proud to endorse Pete Sessions to continue representing the 17th District of Texas in Congress.
+Kyleen Wright , President of Texans for Life Coalition, notes that “Pete Sessions has a long history of faithful, exemplary service to this state and nation, and has faithfully stood for protecting life.
+We are proud to call him our friend and urge our pro-life friends in Central Texas to vote for him.” P.O.
+Box 7754 Waco, TX 76714-7754 [email protected] Home Home Meet Pete Endorsements Issues TX-17 In the News Media Videos Press Releases In the News Get Involved Contact Donate Paid for by Pete Sessions for Congress Privacy Policy

@@ -1,11 +1,46 @@
 [
-"https://cart/",
-"https://mb4nc.com/",
-"https://mb4nc.com/cases",
-"https://mb4nc.com/endorsements",
-"https://mb4nc.com/michael-byrne",
-"https://mb4nc.com/michael-byrne-court-of-appeals",
-"https://mb4nc.com/videos",
-"https://ncvalues.org/vote/endorsements",
-"https://secure.anedot.com/elect-michael-c-byrne/donate"
+{
+"text": "Cases",
+"href": "https://mb4nc.com/cases"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/elect-michael-c-byrne/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://mb4nc.com/endorsements"
+},
+{
+"text": "Help Support Michael Send checks to Elect Michael C. Byrne, P.O. Box 97275, Raleigh, NC 27624",
+"href": "https://secure.anedot.com/elect-michael-c-byrne/donate"
+},
+{
+"text": "Home",
+"href": "https://mb4nc.com/michael-byrne-court-of-appeals"
+},
+{
+"text": "Issues",
+"href": "https://mb4nc.com/#issues"
+},
+{
+"text": "Meet Me",
+"href": "https://mb4nc.com/michael-byrne"
+},
+{
+"text": "NC Values Coalition",
+"href": "https://ncvalues.org/vote/endorsements/#iLightbox%5Bgallery_image_4%5D/2"
+},
+{
+"text": "Videos",
+"href": "https://mb4nc.com/videos"
+},
+{
+"text": "[image: Elect Michael C. Byrne]",
+"href": "https://mb4nc.com"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+}
 ]

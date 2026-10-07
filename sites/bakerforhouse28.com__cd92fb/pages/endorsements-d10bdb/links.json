@@ -1,23 +1,86 @@
 [
-"http://glclc.com/",
-"https://bakerforhouse28.com/",
-"https://bakerforhouse28.com/cart",
-"https://bakerforhouse28.com/endorsements",
-"https://bakerforhouse28.com/voting-and-district-28-info",
-"https://betterschoolsky.org/",
-"https://boldprogressives.org/",
-"https://cwalocal3310.org/",
-"https://fairness.org/cfair",
-"https://ibewlocal369.com/",
-"https://ironworkers.org/s",
-"https://ky.aflcio.org/",
-"https://kywomensnetwork.com/kwnpac",
-"https://liuna.org/",
-"https://momsdemandaction.org/",
-"https://plannedparenthood.org/",
-"https://secure.actblue.com/donate/team-baker-1",
-"https://sierraclub.org/",
-"https://teamsters89.com/",
-"https://uawlocal862.org/",
-"https://ufcw227.org/"
+{
+"text": "0",
+"href": "https://www.bakerforhouse28.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/team-baker-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bakerforhouse28.com/endorsements"
+},
+{
+"text": "Voting and District Info",
+"href": "https://www.bakerforhouse28.com/voting-and-district-28-info"
+},
+{
+"text": "[image: A circular sticker with a red background and white border. Inside, an illustration of a hand holding a pencil and book is central. The text around the circle reads 'MOMS DEMAND ACTION GUN SENSE CANDIDATE' in bold red letters.]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image: Almaria Baker for Kentucky State House of Representatives District 28]",
+"href": "https://www.bakerforhouse28.com/"
+},
+{
+"text": "[image: Bold colorful letters spell out 'O-FAIR' with each letter featuring a different rainbow or pride flag pattern. Below, there is a black strip with white text that reads 'Committee for Fairness and Individual Rights' and underneath it in smaller text, 'The Political Action Committee of the Fairness Campaign'.]",
+"href": "https://www.fairness.org/cfair/"
+},
+{
+"text": "[image: Circular logo with diverse people holding hands around a yellow gear, featuring the text 'Local UAW 862' in the center.]",
+"href": "https://uawlocal862.org/"
+},
+{
+"text": "[image: GLLC logo for Greater Louisville Central Labor Council with American flag circle and the slogan 'working for a better life'.]",
+"href": "http://www.glclc.com/"
+},
+{
+"text": "[image: Logo featuring two horse heads above a circular emblem with number 89, surrounded by the text 'Teamsters Local 89 Louisville, KY' in black and yellow.]",
+"href": "https://www.teamsters89.com/"
+},
+{
+"text": "[image: Logo for Progressive Change Campaign Committee with the organization's website boldprogressives.org.]",
+"href": "https://www.boldprogressives.org/"
+},
+{
+"text": "[image: Logo of BSK with the state outline of Kentucky]",
+"href": "https://betterschoolsky.org/"
+},
+{
+"text": "[image: Logo of Communications Workers of America Local 4310, featuring a black and white illustration of a crossed hammer and wrench within a circle, with red text around the circle reading 'Communications Workers of America' and 'Local 4310'.]",
+"href": "https://cwalocal3310.org/"
+},
+{
+"text": "[image: Logo of Kentucky Women's Network Political Action Committee with red, white, and blue design elements.]",
+"href": "https://kywomensnetwork.com/kwnpac/"
+},
+{
+"text": "[image: Logo of the International Association of Bridge, Structural, Ornamental, and Reinforcing Iron Workers, featuring stars and stripes of the American flag background with a circular metal border and large initials IAW.]",
+"href": "https://www.ironworkers.org/s/"
+},
+{
+"text": "[image: Logo of the International Brotherhood of Electrical Workers featuring a clenched fist surrounded by lightning and text about its organization, affiliation, and history.]",
+"href": "https://www.ibewlocal369.com/"
+},
+{
+"text": "[image: Logo of the Laborers' International Union of North America showing a globe with grid lines surrounded by the union's name and motto.]",
+"href": "https://www.liuna.org/"
+},
+{
+"text": "[image: Planned Parenthood logo with text 'Act. No matter what.' and 'Planned Parenthood Action Fund' in pink.]",
+"href": "https://www.plannedparenthood.org/"
+},
+{
+"text": "[image: Seal of Kentucky State AFL-CIO with text and an image of two workers holding tools.]",
+"href": "https://ky.aflcio.org/"
+},
+{
+"text": "[image: Sierra Club logo featuring a green tree inside an oval and the text \"SIERRA CLUB\" with \"FOUNDED 1892\" underneath.]",
+"href": "https://www.sierraclub.org/"
+},
+{
+"text": "[image: UFCW 227 logo with the tagline 'A Voice for Working America' and 'Since 1902' underneath.]",
+"href": "https://www.ufcw227.org/"
+}
 ]

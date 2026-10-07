@@ -1,38 +1,114 @@
 [
-"http://event/",
-"https://census.gov/mycd?st=37&cd=04",
-"https://facebook.com/LPofNC",
-"https://facebook.com/profile.php?id=100068513959266",
-"https://guy4nc.org/",
-"https://guy4nc.org/cookie-policy",
-"https://guy4nc.org/events",
-"https://guy4nc.org/meet",
-"https://guy4nc.org/meet/people-not-politics",
-"https://guy4nc.org/meet/us-house-district-4",
-"https://guy4nc.org/news",
-"https://guy4nc.org/priorities",
-"https://guy4nc.org/priorities/cost-effective-conservation",
-"https://guy4nc.org/priorities/cost-effective-healthcare",
-"https://guy4nc.org/priorities/defend-the-guard",
-"https://guy4nc.org/priorities/electoral-reform-independent-voters",
-"https://guy4nc.org/priorities/electoral-reform-instant-runoff-voting",
-"https://guy4nc.org/priorities/expanded-housing-market",
-"https://guy4nc.org/priorities/restorative-justice",
-"https://guy4nc.org/priorities/smarter-education",
-"https://guy4nc.org/priorities/stronger-economy",
-"https://guy4nc.org/privacy-policy",
-"https://guy4nc.org/take-action",
-"https://guy4nc.org/take-action/donate",
-"https://guy4nc.org/take-action/volunteer",
-"https://guy4nc.org/take-action/when-where-to-vote",
-"https://lp.org/",
-"https://lpnc.org/",
-"https://ncsbe.gov/voting/upcoming-election",
-"https://ncsbe.gov/voting/vote-early-person",
-"https://ncsbe.gov/voting/voter-lookup",
-"https://twitter.com/LPNC",
-"https://vote.gov/register/nc",
-"https://vt.ncsbe.gov/pplkup",
-"https://wakelp.org/",
-"https://x.com/GuyMeilleur"
+{
+"text": "919-213-9099",
+"href": "tel:919-213-9099"
+},
+{
+"text": "Cost-effective Conservation",
+"href": "https://guy4nc.org/priorities/cost-effective-conservation/"
+},
+{
+"text": "Cost-effective Healthcare",
+"href": "https://guy4nc.org/priorities/cost-effective-healthcare/"
+},
+{
+"text": "Defend The Guard",
+"href": "https://guy4nc.org/priorities/defend-the-guard/"
+},
+{
+"text": "Donate",
+"href": "https://guy4nc.org/take-action/donate/"
+},
+{
+"text": "Donate Go",
+"href": "https://guy4nc.org/take-action/donate"
+},
+{
+"text": "Electoral Reform — Independent Voters",
+"href": "https://guy4nc.org/priorities/electoral-reform-independent-voters/"
+},
+{
+"text": "Electoral Reform — Instant Runoff Voting",
+"href": "https://guy4nc.org/priorities/electoral-reform-instant-runoff-voting/"
+},
+{
+"text": "Envelope",
+"href": "mailto:guy@guy4nc.org"
+},
+{
+"text": "Events",
+"href": "https://guy4nc.org/events/"
+},
+{
+"text": "Expanded Housing Market",
+"href": "https://guy4nc.org/priorities/expanded-housing-market/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/profile.php?id=100068513959266"
+},
+{
+"text": "Meet",
+"href": "https://guy4nc.org/meet/"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://guy4nc.org/meet/"
+},
+{
+"text": "News",
+"href": "https://guy4nc.org/news/"
+},
+{
+"text": "People Not Politics",
+"href": "https://guy4nc.org/meet/people-not-politics/"
+},
+{
+"text": "Priorities",
+"href": "https://guy4nc.org/priorities/"
+},
+{
+"text": "Restorative Justice",
+"href": "https://guy4nc.org/priorities/restorative-justice/"
+},
+{
+"text": "Smarter Education",
+"href": "https://guy4nc.org/priorities/smarter-education/"
+},
+{
+"text": "Stronger Economy",
+"href": "https://guy4nc.org/priorities/stronger-economy/"
+},
+{
+"text": "Take Action",
+"href": "https://guy4nc.org/take-action/"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/GuyMeilleur"
+},
+{
+"text": "US House District 4",
+"href": "https://guy4nc.org/meet/us-house-district-4/"
+},
+{
+"text": "Volunteer",
+"href": "https://guy4nc.org/take-action/volunteer/"
+},
+{
+"text": "When & Where to Vote",
+"href": "https://guy4nc.org/take-action/when-where-to-vote/"
+},
+{
+"text": "[image: Guy Meilleur - Libertarian Party Candidate - logo]",
+"href": "https://guy4nc.org"
+},
+{
+"text": "[image: Libertarian Party North Carolina - Vision]",
+"href": "https://lpnc.org"
+},
+{
+"text": "[no text]",
+"href": "tel:919-213-9099"
+}
 ]

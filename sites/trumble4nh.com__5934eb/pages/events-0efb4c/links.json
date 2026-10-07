@@ -1,16 +1,62 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/trumble4nh",
-"https://instagram.com/trumble4nh",
-"https://secure.actblue.com/donate/david-trumble-1",
-"https://secure.actblue.com/donate/fdc-2026-trumble-fundraiser",
-"https://trumble4nh.com/",
-"https://trumble4nh.com/about",
-"https://trumble4nh.com/contact",
-"https://trumble4nh.com/district-8",
-"https://trumble4nh.com/endorsements",
-"https://trumble4nh.com/events",
-"https://trumble4nh.com/priorities",
-"https://trumble4nh.com/videos",
-"https://trumble4nh.com/volunteer"
+{
+"text": "About",
+"href": "https://www.trumble4nh.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.trumble4nh.com/contact"
+},
+{
+"text": "District 8",
+"href": "https://www.trumble4nh.com/district-8"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/david-trumble-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.trumble4nh.com/endorsements"
+},
+{
+"text": "Priorities",
+"href": "https://www.trumble4nh.com/priorities"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Trumble4NH@gmail.com",
+"href": "mailto:Trumble4NH@gmail.com"
+},
+{
+"text": "Videos",
+"href": "https://www.trumble4nh.com/videos"
+},
+{
+"text": "View More",
+"href": "https://www.trumble4nh.com/events"
+},
+{
+"text": "Volunteer",
+"href": "https://www.trumble4nh.com/volunteer"
+},
+{
+"text": "[image: David Trumble for New Hampshire State Senate, District 8]",
+"href": "https://www.trumble4nh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/trumble4nh"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/trumble4nh"
+},
+{
+"text": "https://secure.actblue.com/donate/fdc-2026-trumble-fundraiser",
+"href": "https://secure.actblue.com/donate/fdc-2026-trumble-fundraiser"
+}
 ]

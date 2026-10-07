@@ -1,15 +1,70 @@
 [
-"http://facebook.com/wix",
-"http://twitter.com/wix",
-"http://youtube.com/user/wixmypage",
-"https://kathiehesscrouse.wixsite.com/kathieforwv",
-"https://kathiehesscrouse.wixsite.com/kathieforwv/coffee-with-kathie",
-"https://kathiehesscrouse.wixsite.com/kathieforwv/endorsements",
-"https://kathiehesscrouse.wixsite.com/kathieforwv/get-involved",
-"https://kathiehesscrouse.wixsite.com/kathieforwv/meet-kathie",
-"https://kathiehesscrouse.wixsite.com/kathieforwv/platform",
-"https://ovr.sos.wv.gov/Register/Landing",
-"https://secure.anedot.com/kathieforwv/donate",
-"https://secure.winred.com/kathie/donate-today",
-"https://wix.com/lpviral/enviral?adsVersion=banner_2024&orig_msid=aa99f552-cce6-4d9b-96f0-a304175f7068&orig_msid=49d87ed4-1292-48a3-b7f4-a565358f8c57&adsVersion=banner_2024"
+{
+"text": "Coffee With Kathie",
+"href": "https://kathiehesscrouse.wixsite.com/kathieforwv/coffee-with-kathie"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/kathieforwv/donate"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/kathie/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://kathiehesscrouse.wixsite.com/kathieforwv/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://kathiehesscrouse.wixsite.com/kathieforwv/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://kathiehesscrouse.wixsite.com/kathieforwv"
+},
+{
+"text": "Kathie Hess Crouse",
+"href": "https://kathiehesscrouse.wixsite.com/kathieforwv"
+},
+{
+"text": "KathieForWV@gmail.com",
+"href": "mailto:KathieForWV@gmail.com"
+},
+{
+"text": "MEET KATHIE",
+"href": "https://kathiehesscrouse.wixsite.com/kathieforwv/meet-kathie"
+},
+{
+"text": "PLATFORM",
+"href": "https://kathiehesscrouse.wixsite.com/kathieforwv/platform"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://ovr.sos.wv.gov/Register/Landing"
+},
+{
+"text": "This website was built on Wix. Create yours today.Get Started",
+"href": "https://www.wix.com/lpviral/enviral?adsVersion=banner_2024&orig_msid=aa99f552-cce6-4d9b-96f0-a304175f7068&orig_msid=49d87ed4-1292-48a3-b7f4-a565358f8c57&adsVersion=banner_2024"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "http://www.facebook.com/wix"
+},
+{
+"text": "[image: Twitter Social Icon]",
+"href": "http://www.twitter.com/wix"
+},
+{
+"text": "[image: YouTube Social Icon]",
+"href": "http://www.youtube.com/user/wixmypage"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/kathie/donate-today"
+},
+{
+"text": "for WV",
+"href": "https://kathiehesscrouse.wixsite.com/kathieforwv"
+}
 ]

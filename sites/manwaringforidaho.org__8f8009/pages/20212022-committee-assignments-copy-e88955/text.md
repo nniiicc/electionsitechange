@@ -1,6 +1,4 @@
-Revenue & Taxation
-Manwaring serves on the House Revenue and Taxation committee that is responsible for sales, property, and income taxes in Idaho.
-Resources & Conservation
-Manwaring serves on the House Resources & Conservation Committee that is responsible for water quality/rights, fish & game, river restoration, and the Department of Water Resources.
-Transportation & Defense
-Manwaring serves on the House Transportation & Defense Committee that is responsible for fuel taxes, state/local highways, motor vehicle issues, state military, and civil air patrol.
+Home Meet Dustin Bio Wikipedia Bio Contact Media 2021-2022 Committee Assignments (Copy) 2017-2018 Committee Assignments Issues News Volunteer Donate Home Meet Dustin Bio Wikipedia Bio Contact Media 2021-2022 Committee Assignments (Copy) 2017-2018 Committee Assignments Issues News Volunteer Donate Meet Dustin Bio Wikipedia Bio Contact Media 2021-2022 Committee Assignments (Copy) 2017-2018 Committee Assignments Revenue & Taxation Manwaring serves on the House Revenue and Taxation committee that is responsible for sales, property, and income taxes in Idaho.
+Resources & Conservation Manwaring serves on the House Resources & Conservation Committee that is responsible for water quality/rights, fish & game, river restoration, and the Department of Water Resources.
+Transportation & Defense Manwaring serves on the House Transportation & Defense Committee that is responsible for fuel taxes, state/local highways, motor vehicle issues, state military, and civil air patrol.
+Back to Top (208) 252-5295 dustin@manwaringforidaho.org Paid for by Manwaring for Idaho

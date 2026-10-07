@@ -1,4 +1,4 @@
-I’m a proud South Bay native, born and raised in the best place to live in Southern California.
+Solutions Solutions CA-36 CA-36 JOIN US JOIN US I’m a proud South Bay native, born and raised in the best place to live in Southern California.
 I joined the Marine Corps right out of high school because I wanted to be part of the best.
 I served two tours in Iraq fighting against terrorists, and that experience immensely shaped how I see the world.
 What matters, what doesn't, and what's worth fighting for.
@@ -21,3 +21,5 @@ This is about changing the conversation and building something better for our co
 If you're ready for a representative who lives our values, serves our community, and will make your goals my goals, join me.
 Let's make the American Dream real again for the South Bay.
 Let’s Dream Big.
+# Days 00 : 58 : 35 # Days 00 : 58 : 35 # Days 00 : 58 : 35 November 3, 2026 Midterm Election November 3, 2026 Midterm Election First Name * Last Name * Email * Phone Send Me Text Messages* Send Me Text Messages* How are you willing to help?
+Constituent of Congressional District 36 Constituent of District CA-36 Submit JOIN THE CAMPAIGN JOIN THE CAMPAIGN DONATE DONATE Paid for by Houston Brignano for Congress Houston Brignano for Congress 25626 1/2 Narbonne Ave Lomita, CA 90717 (310) 742-1825 hello@voteforhouston.com Privacy Policy

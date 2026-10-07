@@ -1,10 +1,42 @@
 [
-"https://paulcumings.com/",
-"https://paulcumings.com/about",
-"https://paulcumings.com/better-offer",
-"https://paulcumings.com/cart",
-"https://paulcumings.com/endorsements",
-"https://paulcumings.com/get-involved",
-"https://paulcumings.com/pauls-agenda",
-"https://secure.actblue.com/donate/paul-cumings-2"
+{
+"text": "0",
+"href": "https://www.paulcumings.com/cart"
+},
+{
+"text": "About Paul",
+"href": "https://www.paulcumings.com/about"
+},
+{
+"text": "Better Offer",
+"href": "https://www.paulcumings.com/better-offer"
+},
+{
+"text": "Contact Us",
+"href": "mailto:paulcumings4senate@gmail.com?subject=Contact+Paul+Cumings+for+Minnesota+Senate+Campaign+Committee"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/paul-cumings-2"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/paul-cumings-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.paulcumings.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.paulcumings.com/get-involved"
+},
+{
+"text": "Paul's Agenda",
+"href": "https://www.paulcumings.com/pauls-agenda"
+},
+{
+"text": "[image: Paul Cumings for MN Senate]",
+"href": "https://www.paulcumings.com/"
+}
 ]

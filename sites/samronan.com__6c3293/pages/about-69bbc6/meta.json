@@ -1,9 +1,13 @@
 {
- "description": "Meet Sam Ronan \u2014 Air Force veteran, community advocate, and Republican candidate for Congress in Ohio's 15th District. Learn about his story and his vision for OH-15.",
+ "description": "Meet Sam Ronan — Air Force veteran, community advocate, and Republican candidate for Congress in Ohio's 15th District. Learn about his story and his vision for OH-15.",
  "final_url": "https://www.samronan.com/about",
- "paid_for_by": null,
+ "fingerprint": "0928384ad4853080493f54dfadd05e512452185d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Sam Ronan | Veteran Running for Congress OH-15",
  "years_mentioned": [
-  "2013"
+  "2009",
+  "2013",
+  "2017"
  ]
 }

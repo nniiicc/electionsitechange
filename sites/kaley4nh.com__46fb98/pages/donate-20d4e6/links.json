@@ -1,8 +1,38 @@
 [
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fkaley-dvorak&sa=D&sntz=1&usg=AOvVaw22-Vmdzb5TQnk2MC3RKQdZ",
-"https://kaley4nh.com/about-kaley",
-"https://kaley4nh.com/contact",
-"https://kaley4nh.com/donate",
-"https://kaley4nh.com/events",
-"https://kaley4nh.com/home"
+{
+"text": "About Kaley",
+"href": "https://www.kaley4nh.com/about-kaley"
+},
+{
+"text": "Contact",
+"href": "https://www.kaley4nh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.kaley4nh.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.kaley4nh.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.kaley4nh.com/home"
+},
+{
+"text": "Kaley Dvorak for State Rep",
+"href": "https://www.kaley4nh.com/home"
+},
+{
+"text": "[image]",
+"href": "https://www.kaley4nh.com/home"
+},
+{
+"text": "[image]Donate to Kaley Dvorak",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fkaley-dvorak&sa=D&sntz=1&usg=AOvVaw22-Vmdzb5TQnk2MC3RKQdZ"
+},
+{
+"text": "[image]Kaley Dvorak for State Rep",
+"href": "https://www.kaley4nh.com/home"
+}
 ]

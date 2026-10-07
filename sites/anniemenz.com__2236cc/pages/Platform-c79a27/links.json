@@ -1,18 +1,98 @@
 [
-"https://anniemenz.com/",
-"https://anniemenz.com/about",
-"https://anniemenz.com/contact",
-"https://anniemenz.com/how-to-contact-rep-annie-menz",
-"https://anniemenz.com/issues/conserving-oklahomas-natural-resources",
-"https://anniemenz.com/issues/honest-government-that-listens",
-"https://anniemenz.com/issues/investing-in-our-children",
-"https://anniemenz.com/issues/issue-1",
-"https://anniemenz.com/issues/issue-2",
-"https://anniemenz.com/issues/protecting-property-rights-and-oklahoma-values",
-"https://anniemenz.com/issues/supporting-veterans-and-public-servants",
-"https://anniemenz.com/news",
-"https://anniemenz.com/privacy-policy",
-"https://designedtorun.com/",
-"https://facebook.com//annieforhouse",
-"https://secure.actblue.com/donate/menz_calltime?amount=100"
+{
+"text": "About",
+"href": "https://www.anniemenz.com/about"
+},
+{
+"text": "Conserving Oklahoma's Natural Resources",
+"href": "https://www.anniemenz.com/issues/conserving-oklahomas-natural-resources"
+},
+{
+"text": "Contact",
+"href": "https://www.anniemenz.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/menz_calltime?amount=100"
+},
+{
+"text": "Home",
+"href": "https://www.anniemenz.com/"
+},
+{
+"text": "Honest Government That Listens",
+"href": "https://www.anniemenz.com/issues/honest-government-that-listens"
+},
+{
+"text": "How to Contact Rep. Annie Menz",
+"href": "https://www.anniemenz.com/how-to-contact-rep-annie-menz"
+},
+{
+"text": "Investing in Our Children",
+"href": "https://www.anniemenz.com/issues/investing-in-our-children"
+},
+{
+"text": "Lower Costs",
+"href": "https://www.anniemenz.com/issues/issue-1"
+},
+{
+"text": "News",
+"href": "https://www.anniemenz.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.anniemenz.com/privacy-policy"
+},
+{
+"text": "Protecting Health Care Access",
+"href": "https://www.anniemenz.com/issues/issue-2"
+},
+{
+"text": "Protecting Property Rights and Oklahoma Values",
+"href": "https://www.anniemenz.com/issues/protecting-property-rights-and-oklahoma-values"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Supporting Veterans and Public Servants",
+"href": "https://www.anniemenz.com/issues/supporting-veterans-and-public-servants"
+},
+{
+"text": "View more",
+"href": "https://www.anniemenz.com/issues/conserving-oklahomas-natural-resources"
+},
+{
+"text": "View more",
+"href": "https://www.anniemenz.com/issues/honest-government-that-listens"
+},
+{
+"text": "View more",
+"href": "https://www.anniemenz.com/issues/investing-in-our-children"
+},
+{
+"text": "View more",
+"href": "https://www.anniemenz.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.anniemenz.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.anniemenz.com/issues/protecting-property-rights-and-oklahoma-values"
+},
+{
+"text": "View more",
+"href": "https://www.anniemenz.com/issues/supporting-veterans-and-public-servants"
+},
+{
+"text": "[image: Annie Menz for State House]",
+"href": "https://www.anniemenz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//annieforhouse"
+}
 ]

@@ -1,27 +1,146 @@
 [
-"https://c.org/MGMW8rJFTQ",
-"https://roccoforstatesenate.com/",
-"https://roccoforstatesenate.com/category/homepage",
-"https://roccoforstatesenate.com/category/news",
-"https://roccoforstatesenate.com/donate-for-free",
-"https://roccoforstatesenate.com/news",
-"https://roccoforstatesenate.com/restore-the-flag-minnesota-actually-loved",
-"https://roccoforstatesenate.com/tag/attorney-general",
-"https://roccoforstatesenate.com/tag/chief-justice",
-"https://roccoforstatesenate.com/tag/democrats",
-"https://roccoforstatesenate.com/tag/governor",
-"https://roccoforstatesenate.com/tag/j-alexander-kueng",
-"https://roccoforstatesenate.com/tag/judge-west",
-"https://roccoforstatesenate.com/tag/keith-ellison",
-"https://roccoforstatesenate.com/tag/let-cops-be-cops",
-"https://roccoforstatesenate.com/tag/marco-rubio",
-"https://roccoforstatesenate.com/tag/mary-moriarty",
-"https://roccoforstatesenate.com/tag/natalie-hudson",
-"https://roccoforstatesenate.com/tag/the-war-on-cops",
-"https://roccoforstatesenate.com/tag/thomas-lane",
-"https://roccoforstatesenate.com/tag/tim-walz",
-"https://roccoforstatesenate.com/tag/tou-thao-derek-chauvin-george-floyd-abdifatah-yusuf-tou-lue-vang-fraud",
-"https://roccoforstatesenate.com/the-war-on-cops-let-cops-be-cops-again",
-"https://roccoforstatesenate.com/transportation-proposal-restoring-sanity-to-minnesotas-commuter-routes",
-"https://secure.winred.com/rocco-for-state-senate"
+{
+"text": "About",
+"href": "https://roccoforstatesenate.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://roccoforstatesenate.com/#contact"
+},
+{
+"text": "DONATE $75 for FREE",
+"href": "https://roccoforstatesenate.com/donate-for-free/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/rocco-for-state-senate/#donate"
+},
+{
+"text": "Donate $75 for Free",
+"href": "https://roccoforstatesenate.com/donate-for-free/"
+},
+{
+"text": "Get Involved",
+"href": "https://roccoforstatesenate.com/#involved"
+},
+{
+"text": "Homepage",
+"href": "https://roccoforstatesenate.com/category/homepage/"
+},
+{
+"text": "Issues",
+"href": "https://roccoforstatesenate.com/#issues"
+},
+{
+"text": "J. Alexander Kueng",
+"href": "https://roccoforstatesenate.com/tag/j-alexander-kueng/"
+},
+{
+"text": "Judge West",
+"href": "https://roccoforstatesenate.com/tag/judge-west/"
+},
+{
+"text": "Learn How It Works",
+"href": "https://roccoforstatesenate.com/donate-for-free/"
+},
+{
+"text": "Marco Rubio",
+"href": "https://roccoforstatesenate.com/tag/marco-rubio/"
+},
+{
+"text": "Natalie Hudson",
+"href": "https://roccoforstatesenate.com/tag/natalie-hudson/"
+},
+{
+"text": "News",
+"href": "https://roccoforstatesenate.com/category/news/"
+},
+{
+"text": "News",
+"href": "https://roccoforstatesenate.com/news/"
+},
+{
+"text": "R Rocco for State Senate SD65",
+"href": "https://roccoforstatesenate.com/"
+},
+{
+"text": "Restore the Flag Minnesota Actually Loved",
+"href": "https://roccoforstatesenate.com/restore-the-flag-minnesota-actually-loved/"
+},
+{
+"text": "Restore the Flag Minnesota Actually Loved →",
+"href": "https://roccoforstatesenate.com/restore-the-flag-minnesota-actually-loved/"
+},
+{
+"text": "See all news →",
+"href": "https://roccoforstatesenate.com/news/"
+},
+{
+"text": "The War on Cops: Let Cops Be Cops Again",
+"href": "https://roccoforstatesenate.com/the-war-on-cops-let-cops-be-cops-again/"
+},
+{
+"text": "Thomas Lane",
+"href": "https://roccoforstatesenate.com/tag/thomas-lane/"
+},
+{
+"text": "Tou Thao Derek Chauvin George Floyd Abdifatah Yusuf Tou Lue Vang fraud",
+"href": "https://roccoforstatesenate.com/tag/tou-thao-derek-chauvin-george-floyd-abdifatah-yusuf-tou-lue-vang-fraud/"
+},
+{
+"text": "Transportation Proposal: Restoring Sanity to Minnesota’s Commuter Routes",
+"href": "https://roccoforstatesenate.com/transportation-proposal-restoring-sanity-to-minnesotas-commuter-routes/"
+},
+{
+"text": "WHAT'S NEW!?!",
+"href": "https://roccoforstatesenate.com/news/"
+},
+{
+"text": "[image: Officer Chauvin case dismissed]",
+"href": "https://c.org/MGMW8rJFTQ"
+},
+{
+"text": "[image: Rocco State Senate]",
+"href": "https://roccoforstatesenate.com/"
+},
+{
+"text": "attorney general",
+"href": "https://roccoforstatesenate.com/tag/attorney-general/"
+},
+{
+"text": "chief justice",
+"href": "https://roccoforstatesenate.com/tag/chief-justice/"
+},
+{
+"text": "democrats",
+"href": "https://roccoforstatesenate.com/tag/democrats/"
+},
+{
+"text": "governor",
+"href": "https://roccoforstatesenate.com/tag/governor/"
+},
+{
+"text": "keith ellison",
+"href": "https://roccoforstatesenate.com/tag/keith-ellison/"
+},
+{
+"text": "let cops be cops",
+"href": "https://roccoforstatesenate.com/tag/let-cops-be-cops/"
+},
+{
+"text": "mary moriarty",
+"href": "https://roccoforstatesenate.com/tag/mary-moriarty/"
+},
+{
+"text": "the war on cops",
+"href": "https://roccoforstatesenate.com/tag/the-war-on-cops/"
+},
+{
+"text": "tim walz",
+"href": "https://roccoforstatesenate.com/tag/tim-walz/"
+},
+{
+"text": "← Transportation Proposal: Restoring Sanity to Minnesota’s Commuter Routes",
+"href": "https://roccoforstatesenate.com/transportation-proposal-restoring-sanity-to-minnesotas-commuter-routes/"
+}
 ]

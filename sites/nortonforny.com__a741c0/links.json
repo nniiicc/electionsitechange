@@ -1,14 +1,54 @@
 [
-"https://broomevotes.com/earlyvoting",
-"https://facebook.com/NortonforNY",
-"https://forms.gle/XWitq3L5oNwxcYfN8",
-"https://instagram.com/nortonforny",
-"https://nortonforny.com/cdn-cgi/l/email-protection",
-"https://nortonforny.com/issues.html",
-"https://nortonforny.com/privacy-policy.html",
-"https://secure.actblue.com/donate/nortonforny",
-"https://tiktok.com/@nortonforny",
-"https://vic.ntsdata.com/home/Broome",
-"https://x.com/nortonforny",
-"https://youtube.com/@nortonforny"
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/nortonforny"
+},
+{
+"text": "Early Voting October 24th – November 1st See early voting info →",
+"href": "https://www.broomevotes.com/earlyvoting"
+},
+{
+"text": "Polling Place Lookup Find your polling place →",
+"href": "https://vic.ntsdata.com/home/Broome"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nortonforny.com/privacy-policy.html"
+},
+{
+"text": "See Where Dan Stands",
+"href": "https://nortonforny.com/issues.html"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/XWitq3L5oNwxcYfN8"
+},
+{
+"text": "[email protected]",
+"href": "mailto:dan@nortonforny.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@nortonforny.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/nortonforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NortonforNY"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@nortonforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/nortonforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@nortonforny"
+}
 ]

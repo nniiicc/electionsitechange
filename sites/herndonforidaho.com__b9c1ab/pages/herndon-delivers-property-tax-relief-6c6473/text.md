@@ -1,4 +1,5 @@
-$317.4 million of property tax relief is on the way.
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page Herndon Delivers Property Tax Relief Sep 6, 2023 | Breaking News , Legislative News , Policy Analysis $317.4 million of property tax relief is on the way.
 A lot of bills were important last session.
 Yes, we needed a bill limiting boys bathrooms at schools to biological males.
 Girls will use the biological girls’ bathroom, and no, it is not possible to convert a boy to a girl and vice versa.
@@ -22,3 +23,5 @@ The Boundary County School District has 1,381 average daily students and will re
 West Bonner County School District has an average daily 1,131 students and will receive $422,039.56.
 H292 also eliminated the March school election date.
 Schools can still run levy elections in May, August and November, but this property tax relief will provide some of what they may otherwise come and ask for from the property taxpayer.
+Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

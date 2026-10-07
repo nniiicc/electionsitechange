@@ -1,5 +1,14 @@
 [
-"https://davidblom.com/",
-"https://davidblom.com/cart",
-"https://davidblom.com/home"
+{
+"text": ".",
+"href": "https://www.davidblom.com/"
+},
+{
+"text": "0",
+"href": "https://www.davidblom.com/cart"
+},
+{
+"text": "home page",
+"href": "https://www.davidblom.com/home"
+}
 ]

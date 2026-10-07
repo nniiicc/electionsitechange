@@ -1,11 +1,38 @@
 [
-"http://aboutads.info/choices",
-"http://aboutads.info/choices.",
-"https://kellyesti4congress.com/",
-"https://kellyesti4congress.com/about-9",
-"https://kellyesti4congress.com/contact",
-"https://kellyesti4congress.com/endorsements",
-"https://kellyesti4congress.com/photos-videos",
-"https://kellyesti4congress.com/privacy-policy",
-"https://kellyesti4congress.com/terms-services"
+{
+"text": "About Kelly",
+"href": "https://www.kellyesti4congress.com/about-9"
+},
+{
+"text": "Contact",
+"href": "https://www.kellyesti4congress.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kellyesti4congress.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.kellyesti4congress.com"
+},
+{
+"text": "KellyEsti4Congress@gmail.com",
+"href": "mailto:KellyEsti4Congress@gmail.com"
+},
+{
+"text": "Photos & Videos",
+"href": "https://www.kellyesti4congress.com/photos-videos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kellyesti4congress.com/privacy-policy"
+},
+{
+"text": "Terms & Services",
+"href": "https://www.kellyesti4congress.com/terms-services"
+},
+{
+"text": "www.aboutads.info/choices",
+"href": "http://www.aboutads.info/choices"
+}
 ]

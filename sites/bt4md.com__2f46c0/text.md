@@ -1,12 +1,8 @@
-Brandon Thompson for District 2A
-Veteran - Neighbor - Fighting for Individual Liberty
-My Story
-I grew up conservative in Minneapolis, served five years in the Army as a Satellite Controller, and built a decade-long career in satellite communications — work that taught me precision, accountability, and what it means to serve something bigger than yourself.
+0 Skip to Content Learn More Get Involved Donate Open Menu Close Menu Learn More Get Involved Donate Open Menu Close Menu Learn More Get Involved Donate Brandon Thompson for District 2A Veteran - Neighbor - Fighting for Individual Liberty My Story I grew up conservative in Minneapolis, served five years in the Army as a Satellite Controller, and built a decade-long career in satellite communications — work that taught me precision, accountability, and what it means to serve something bigger than yourself.
 I've called Maryland home for fifteen years, and Sharpsburg home for the last four.
 I'm running for District 2A because this community deserves a delegate who leads with empathy instead of fear, who respects the Constitution in full, and who actually lives the values they campaign on.
 Washington County doesn't need another politician — it needs a neighbor.
-Why I'm Running
-Both parties are failing you on the Constitution — and nobody is protecting all of it at once.
+Why I'm Running Both parties are failing you on the Constitution — and nobody is protecting all of it at once.
 First Amendment.
 Second Amendment.
 Fourth, Fifth, due process, birthright citizenship.
@@ -22,9 +18,5 @@ That's not limited government.
 That's the opposite of it.
 Washington County and Frederick County deserve a representative who reads the whole Constitution — and follows the text, not the party.
 The Constitution protects everyone — or it protects no one.
-Contact
-Feel free to contact us with any questions.
-Email
-info@bt4md.com
-Phone
-(301) 660-1921
+Contact Feel free to contact us with any questions.
+Email info@bt4md.com Phone (301) 660-1921 Social Media Paid for by Friends of Brandon Thompson © # Brandon Thompson for Delegate

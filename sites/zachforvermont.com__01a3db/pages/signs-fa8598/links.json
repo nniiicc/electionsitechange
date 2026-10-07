@@ -1,30 +1,154 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSdRF5omHwWfT4QxvjX_Qvoxqe_8ixWf_248ACXA6jffdeZz7Q/viewform?usp=pp_url&entry.1239853342=Contact",
-"https://docs.google.com/forms/d/e/1FAIpQLSdRF5omHwWfT4QxvjX_Qvoxqe_8ixWf_248ACXA6jffdeZz7Q/viewform?usp=pp_url&entry.1239853342=Host+a+Party",
-"https://docs.google.com/forms/d/e/1FAIpQLSdRF5omHwWfT4QxvjX_Qvoxqe_8ixWf_248ACXA6jffdeZz7Q/viewform?usp=pp_url&entry.1239853342=Text+Friends",
-"https://docs.google.com/forms/d/e/1FAIpQLSdRF5omHwWfT4QxvjX_Qvoxqe_8ixWf_248ACXA6jffdeZz7Q/viewform?usp=pp_url&entry.1239853342=Write+Letters",
-"https://docs.google.com/forms/d/e/1FAIpQLSfJpOSwfkzKphuZsm-0cgr19DS2F2jMXmUWWOuKZ5WGAltkbQ/viewform",
-"https://forms.gle/YSxomUJ3kthfKxwt7",
-"https://google.com/maps/d/edit?mid=1exMcynE_GbX7k26a-u2zx5crtI3X3Ns&ll=44.79647371517733%2C-73.08511767839074&z=15",
-"https://google.com/url?q=https%3A%2F%2Ffacebook.com%2Fzachforvermont&sa=D&sntz=1&usg=AOvVaw3uS0M8N_issusOED249XV7",
-"https://google.com/url?q=https%3A%2F%2Finstagram.com%2Fzachforvermont&sa=D&sntz=1&usg=AOvVaw0lDG-Y8vj4EDFVi8jqAXno",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fzachforvermont&sa=D&sntz=1&usg=AOvVaw3iy5CM5QcOORqzUE-uD_S3",
-"https://google.com/url?q=https%3A%2F%2Fwww.mobilize.us%2Fvdp2026coordinatedcampaign%2Fevent%2F999187%2F&sa=D&sntz=1&usg=AOvVaw3PDH7SQS_j_rOx8tLEy-43",
-"https://secure.actblue.com/donate/zachforvermont",
-"https://secure.actblue.com/donate/zachforvermont?amount=10",
-"https://secure.actblue.com/donate/zachforvermont?amount=100",
-"https://secure.actblue.com/donate/zachforvermont?amount=20",
-"https://secure.actblue.com/donate/zachforvermont?amount=250",
-"https://secure.actblue.com/donate/zachforvermont?amount=8.02",
-"https://youtube.com/@zachforvermont",
-"https://zachforvermont.com/",
-"https://zachforvermont.com/about",
-"https://zachforvermont.com/accessibility",
-"https://zachforvermont.com/action",
-"https://zachforvermont.com/home",
-"https://zachforvermont.com/priorities",
-"https://zachforvermont.com/privacy",
-"https://zachforvermont.com/signs",
-"https://zachforvermont.com/signup",
-"https://zachforvermont.com/vote"
+{
+"text": "802-393-8121",
+"href": "tel:+18023938121"
+},
+{
+"text": "ACTION",
+"href": "https://www.zachforvermont.com/action"
+},
+{
+"text": "About",
+"href": "https://www.zachforvermont.com/about"
+},
+{
+"text": "Accessibility",
+"href": "https://www.zachforvermont.com/accessibility"
+},
+{
+"text": "Become a Volunteer",
+"href": "https://www.zachforvermont.com/action"
+},
+{
+"text": "CHIP IN $10",
+"href": "https://secure.actblue.com/donate/zachforvermont?amount=10"
+},
+{
+"text": "CHIP IN $100",
+"href": "https://secure.actblue.com/donate/zachforvermont?amount=100"
+},
+{
+"text": "CHIP IN $20",
+"href": "https://secure.actblue.com/donate/zachforvermont?amount=20"
+},
+{
+"text": "CHIP IN $250",
+"href": "https://secure.actblue.com/donate/zachforvermont?amount=250"
+},
+{
+"text": "CHIP IN $8.02",
+"href": "https://secure.actblue.com/donate/zachforvermont?amount=8.02"
+},
+{
+"text": "CUSTOMIZE",
+"href": "https://secure.actblue.com/donate/zachforvermont"
+},
+{
+"text": "Contact Us",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdRF5omHwWfT4QxvjX_Qvoxqe_8ixWf_248ACXA6jffdeZz7Q/viewform?usp=pp_url&entry.1239853342=Contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/zachforvermont"
+},
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fzachforvermont&sa=D&sntz=1&usg=AOvVaw3iy5CM5QcOORqzUE-uD_S3"
+},
+{
+"text": "Early Voter Guide",
+"href": "https://www.zachforvermont.com/vote"
+},
+{
+"text": "Get Emails",
+"href": "https://www.zachforvermont.com/signup"
+},
+{
+"text": "Get a Sign",
+"href": "https://www.zachforvermont.com/signs"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://www.zachforvermont.com/signs"
+},
+{
+"text": "Home",
+"href": "https://www.zachforvermont.com/home"
+},
+{
+"text": "Host a Party",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdRF5omHwWfT4QxvjX_Qvoxqe_8ixWf_248ACXA6jffdeZz7Q/viewform?usp=pp_url&entry.1239853342=Host+a+Party"
+},
+{
+"text": "Knock Doors",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.mobilize.us%2Fvdp2026coordinatedcampaign%2Fevent%2F999187%2F&sa=D&sntz=1&usg=AOvVaw3PDH7SQS_j_rOx8tLEy-43"
+},
+{
+"text": "Priorities",
+"href": "https://www.zachforvermont.com/priorities"
+},
+{
+"text": "Privacy",
+"href": "https://www.zachforvermont.com/privacy"
+},
+{
+"text": "Take Action",
+"href": "https://www.zachforvermont.com/action"
+},
+{
+"text": "Text Friends",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdRF5omHwWfT4QxvjX_Qvoxqe_8ixWf_248ACXA6jffdeZz7Q/viewform?usp=pp_url&entry.1239853342=Text+Friends"
+},
+{
+"text": "Voter Guide",
+"href": "https://www.zachforvermont.com/vote"
+},
+{
+"text": "Write Posts",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdRF5omHwWfT4QxvjX_Qvoxqe_8ixWf_248ACXA6jffdeZz7Q/viewform?usp=pp_url&entry.1239853342=Write+Letters"
+},
+{
+"text": "Zach Scheffler for State Representative — St. Albans, Vermont (FRA-8)",
+"href": "https://www.zachforvermont.com/home"
+},
+{
+"text": "Zach for Vermont",
+"href": "https://zachforvermont.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Ffacebook.com%2Fzachforvermont&sa=D&sntz=1&usg=AOvVaw3uS0M8N_issusOED249XV7"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Finstagram.com%2Fzachforvermont&sa=D&sntz=1&usg=AOvVaw0lDG-Y8vj4EDFVi8jqAXno"
+},
+{
+"text": "[image: Newsletter]",
+"href": "https://forms.gle/YSxomUJ3kthfKxwt7"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@zachforvermont"
+},
+{
+"text": "[image]",
+"href": "https://www.zachforvermont.com/home"
+},
+{
+"text": "[image]Zach Scheffler for State Representative — St. Albans, Vermont (FRA-8)",
+"href": "https://www.zachforvermont.com/home"
+},
+{
+"text": "[tooltip: Open Google Forms, [Campaign] Yard Sign Request in new window]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfJpOSwfkzKphuZsm-0cgr19DS2F2jMXmUWWOuKZ5WGAltkbQ/viewform"
+},
+{
+"text": "the Franklin-8 district",
+"href": "https://www.google.com/maps/d/edit?mid=1exMcynE_GbX7k26a-u2zx5crtI3X3Ns&ll=44.79647371517733%2C-73.08511767839074&z=15"
+},
+{
+"text": "zachforvermont@gmail.com",
+"href": "mailto:zachforvermont@gmail.com"
+}
 ]

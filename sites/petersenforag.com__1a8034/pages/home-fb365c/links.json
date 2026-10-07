@@ -1,21 +1,98 @@
 [
-"https://facebook.com/votewarrenpetersen",
-"https://instagram.com/warrenpetersenag",
-"https://petersenforag.com/",
-"https://petersenforag.com/accomplishments",
-"https://petersenforag.com/bio",
-"https://petersenforag.com/cart",
-"https://petersenforag.com/endorsements",
-"https://petersenforag.com/get-involved",
-"https://petersenforag.com/home",
-"https://petersenforag.com/issues",
-"https://petersenforag.com/media",
-"https://petersenforag.com/privacy-policy",
-"https://secure.winred.com/friends-of-warren-petersen/donate",
-"https://secure.winred.com/friends-of-warren-petersen/donate/website?amount=%24250",
-"https://secure.winred.com/friends-of-warren-petersen/donate/website?amount=100",
-"https://secure.winred.com/friends-of-warren-petersen/donate/website?amount=25",
-"https://secure.winred.com/friends-of-warren-petersen/donate/website?amount=50",
-"https://secure.winred.com/friends-of-warren-petersen/storefront",
-"https://x.com/votewarren"
+{
+"text": "$100",
+"href": "https://secure.winred.com/friends-of-warren-petersen/donate/website?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/friends-of-warren-petersen/donate/website?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/friends-of-warren-petersen/donate/website?amount=%24250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/friends-of-warren-petersen/donate/website?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.petersenforag.com/cart"
+},
+{
+"text": "Bio",
+"href": "https://www.petersenforag.com/bio"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-warren-petersen/donate"
+},
+{
+"text": "Defending the Rule of Law",
+"href": "https://www.petersenforag.com/issues"
+},
+{
+"text": "Endorsements",
+"href": "https://www.petersenforag.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.petersenforag.com/get-involved"
+},
+{
+"text": "Get Merch",
+"href": "https://secure.winred.com/friends-of-warren-petersen/storefront"
+},
+{
+"text": "Issues",
+"href": "https://www.petersenforag.com/issues"
+},
+{
+"text": "Keeping Our Communities Safe",
+"href": "https://www.petersenforag.com/issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.petersenforag.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.petersenforag.com/media"
+},
+{
+"text": "Privacy PoliCY",
+"href": "https://www.petersenforag.com/privacy-policy"
+},
+{
+"text": "Record",
+"href": "https://www.petersenforag.com/accomplishments"
+},
+{
+"text": "Request a yard sign!",
+"href": "mailto:chad@petersenforag.com?subject=I+want+a+Warren+Petersen+Yard+Sign%21&body=Please+send+or+deliver+a+yard+sign.+My+address+is%3AMy+name+is%3AMy+phone+number+is%3A"
+},
+{
+"text": "Restoring Trust in the Attorney General’s Office",
+"href": "https://www.petersenforag.com/issues"
+},
+{
+"text": "[image: Petersen for Attorney General]",
+"href": "https://www.petersenforag.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.petersenforag.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votewarrenpetersen"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/warrenpetersenag/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/votewarren"
+}
 ]

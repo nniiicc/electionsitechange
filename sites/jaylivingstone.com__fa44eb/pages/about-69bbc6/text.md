@@ -1,5 +1,7 @@
-Meet Jay
-Hi, I'm Jay.
+0 Skip to Content About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Donate Open Menu Close Menu About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Donate Open Menu Close Menu About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Back Donate Meet Jay Hi, I'm Jay.
 I'm a State Representative representing Back Bay, Beacon Hill, Fenway, and the West End.
 I was elected to the Massachusetts State Legislature in 2013 and have been in the State House since then advocating for the people of the 8th Suffolk District.
 I was born and raised in North Attleboro, where I was educated in public schools and worked as a cashier at the town pharmacy all through high school.
@@ -32,3 +34,4 @@ Together we have two boys.
 We live in the Back Bay and we love to take walks around our neighborhood and take trips to the Esplanade and the Museum of Science among other places.
 It has been a true joy to show our boys all that the district has to offer.
 I feel incredibly lucky to have such a fantastic family.
+Blog Contact Donate State Representative Jay Livingstone 8th Suffolk District, MA

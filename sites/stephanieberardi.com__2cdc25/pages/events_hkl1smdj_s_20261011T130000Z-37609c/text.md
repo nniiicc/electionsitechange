@@ -1,21 +1,6 @@
-Sunday Funday Fundraiser at the Keep Easy
-Time
-Sunday, Oct 11, 2026
-1:00 PM – 4:00 PM
-Location
-747 Yorkway Pl,, Jenkintown, PA, 19046
-About this event
-Keep it fun, keep it easy!
+Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Events / Sunday Funday Fundraiser at the Keep Easy Sunday Funday Fundraiser at the Keep Easy Time Sunday, Oct 11, 2026 1:00 PM – 4:00 PM Location 747 Yorkway Pl,, Jenkintown, PA, 19046 About this event Keep it fun, keep it easy!
 Join us at Yorkway place in Jenkintown for a Sunday Funday Fundraiser at the coolest ally in the 154th!
 Suggested tickets $35.
 Guests will enjoy live music, a complimentary drink from the Keep Easy and a free gelato from Carminati Creamery.
-Tickets can be purchased in advance online or checks can be made payable to Friends of Stephanie Berardi at the registration table.
-$20- just coming for fun
-$35- Keepin' it Easy
-$50 - Make a change
-$75 - Making progess
-$100- Making changes
-Location
-747 Yorkway Pl,
-Jenkintown, PA 19046
-(610) 247-3965
+Tickets can be purchased in advance online or checks can be made payable to Friends of Stephanie Berardi at the registration table. $20- just coming for fun $35- Keepin' it Easy $50 - Make a change $75 - Making progess $100- Making changes Location 747 Yorkway Pl, Jenkintown, PA 19046 (610) 247-3965 Get Driving Directions Add to calendar Sign up for this event First Name Last Name Email Phone Address City/Town State Alabama Alaska American Samoa Arizona Arkansas Armed Forces Americas Armed Forces Europe Armed Forces Pacific California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Marshall Islands Maryland Massachusetts Michigan Micronesia Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Palau Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virgin Islands Virginia Washington West Virginia Wisconsin Wyoming Zip RSVP Share on Facebook Share via email Copy invite link Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Friends of Stephanie Berardi.
+Powered by CampaignPartner.com - Political Campaign Websites Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu

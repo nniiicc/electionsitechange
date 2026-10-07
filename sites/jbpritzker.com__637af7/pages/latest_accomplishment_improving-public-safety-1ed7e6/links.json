@@ -1,24 +1,110 @@
 [
-"https://action.jbpritzker.com/a/teamjb",
-"https://bsky.app/profile/jbpritzker.bsky.social",
-"https://facebook.com/jbpritzker",
-"https://instagram.com/jbpritzker",
-"https://jbpritzker.com/",
-"https://jbpritzker.com/accomplishments",
-"https://jbpritzker.com/cn",
-"https://jbpritzker.com/es",
-"https://jbpritzker.com/es/latest/accomplishment/mejorando-la-seguridad-publica",
-"https://jbpritzker.com/latest/accomplishment/growing-the-agriculture-industry",
-"https://jbpritzker.com/latest/accomplishment/improving-education-from-cradle-to-career",
-"https://jbpritzker.com/meet-christian-mitchell",
-"https://jbpritzker.com/meet-jb-pritzker",
-"https://jbpritzker.com/news-updates",
-"https://jbpritzker.com/pl",
-"https://jbpritzker.com/privacy-policy",
-"https://jbpritzker.com/terms-conditions",
-"https://jbpritzker.com/wp-content/uploads/2025/06/JB_Social_Graphic_Update_V2_ACC-5.png",
-"https://threads.net/@jbpritzker",
-"https://tiktok.com/@teamjb_hq",
-"https://x.com/jbpritzker",
-"https://youtube.com/channel/UCI8FbW3Sm5y_3eP2g8kyXHg"
+{
+"text": "Accomplishments",
+"href": "https://jbpritzker.com/accomplishments/"
+},
+{
+"text": "Contact",
+"href": "mailto:hello@jbpritzkercampaign.com"
+},
+{
+"text": "Download Graphic",
+"href": "https://jbpritzker.com/wp-content/uploads/2025/06/JB_Social_Graphic_Update_V2_ACC-5.png"
+},
+{
+"text": "Español",
+"href": "https://jbpritzker.com/es/latest/accomplishment/mejorando-la-seguridad-publica/"
+},
+{
+"text": "Growing The Agriculture Industry",
+"href": "https://jbpritzker.com/latest/accomplishment/growing-the-agriculture-industry/"
+},
+{
+"text": "Improving Education from Cradle to Career",
+"href": "https://jbpritzker.com/latest/accomplishment/improving-education-from-cradle-to-career/"
+},
+{
+"text": "Join the team to re-elect JB",
+"href": "https://action.jbpritzker.com/a/teamjb"
+},
+{
+"text": "Meet Christian",
+"href": "https://jbpritzker.com/meet-christian-mitchell/"
+},
+{
+"text": "Meet JB",
+"href": "https://jbpritzker.com/meet-jb-pritzker/"
+},
+{
+"text": "Meet JB Pritzker",
+"href": "https://jbpritzker.com/meet-jb-pritzker/"
+},
+{
+"text": "News & Updates",
+"href": "https://jbpritzker.com/news-updates/"
+},
+{
+"text": "Polski",
+"href": "https://jbpritzker.com/pl"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jbpritzker.com/privacy-policy/"
+},
+{
+"text": "Sign Up",
+"href": "https://action.jbpritzker.com/a/teamjb"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://jbpritzker.com/terms-conditions/"
+},
+{
+"text": "[image: JB for Governor]",
+"href": "https://jbpritzker.com/"
+},
+{
+"text": "[image]",
+"href": "https://jbpritzker.com/wp-content/uploads/2025/06/JB_Social_Graphic_Update_V2_ACC-5.png"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jbpritzker.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jbpritzker"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jbpritzker"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@jbpritzker"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@jbpritzker"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@teamjb_hq"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCI8FbW3Sm5y_3eP2g8kyXHg"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/jbpritzker"
+},
+{
+"text": "español",
+"href": "https://jbpritzker.com/es"
+},
+{
+"text": "中文",
+"href": "https://jbpritzker.com/cn"
+}
 ]

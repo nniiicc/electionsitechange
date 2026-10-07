@@ -1,11 +1,46 @@
 [
-"https://facebook.com/VoteCarlFord",
-"https://ncleg.gov/Members/Biography/S/410",
-"https://secure.anedot.com/comm2electcford/donate",
-"https://twitter.com/VoteCarlFord",
-"https://votecarlford.com/",
-"https://votecarlford.com/contact",
-"https://votecarlford.com/events",
-"https://votecarlford.com/issues",
-"https://votecarlford.com/meet-carl"
+{
+"text": "Carl Ford",
+"href": "https://www.votecarlford.com/"
+},
+{
+"text": "Click here to check out Senator Ford’s Biography, Introduced Bills, Votes and Committees",
+"href": "https://www.ncleg.gov/Members/Biography/S/410"
+},
+{
+"text": "Contact",
+"href": "https://www.votecarlford.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/comm2electcford/donate"
+},
+{
+"text": "Events",
+"href": "https://www.votecarlford.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.votecarlford.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votecarlford.com/issues"
+},
+{
+"text": "Meet Carl",
+"href": "https://www.votecarlford.com/meet-carl"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/VoteCarlFord"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteCarlFord/"
+},
+{
+"text": "fordla@ncleg.net",
+"href": "mailto:fordla@ncleg.net"
+}
 ]

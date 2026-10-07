@@ -1,4 +1,4 @@
-As this legislative session winds down, I look at the week ahead and see many consequential bills still in play and much work to be done in the remaining days.
+Home Priorities Martine Legislation Endorsements Events Contact DONATE Menu Martine Laroque Gulick for Vermont State Senate Menu Secondary Menu Skip to content Home Priorities Martine Legislation Endorsements Events Contact DONATE A Step Toward Education Reform Posted on June 10, 2026 June 19, 2026 Author Steve As this legislative session winds down, I look at the week ahead and see many consequential bills still in play and much work to be done in the remaining days.
 Today we voted on H.955, the education bill.
 As someone who voted “no” on Act 73 last year, it took time to get to a “yes” vote this year, but I was happy to see much of the work I’ve engaged in the last three and half years included in the bill.
 Having served on two State Aid for School Construction working groups, it is great to see school construction play a prominent role in the bill.
@@ -15,3 +15,4 @@ Vermont can’t afford this.
 Attempting a fix to the system, when the undergirding is still shaky, and the very structure is riddled with inequality will be a challenge.
 We have a bifurcated system where not everyone is playing by the same rules, and it is inevitable that some will be favored over others.
 Still, this bill represents a step toward regionalization, to getting to scale and to building a more predictable, affordable system for Vermonters.
+Categories Uncategorized Post navigation Next → Next post: Campaign Kickoff DONATE Georgia Lavigne, Treasurer PO Box 3359 Burlington, VT 05408 ©# Martine Gulick for State Senate Instagram Facebook Scroll Up Home 2024 End of Session Report Contact Education Reform and Act 73 School Redistricting Endorsements Events Healthcare Reform Legislative Updates Meet Martine Priorities Home Priorities Martine Legislation Endorsements Events Contact DONATE

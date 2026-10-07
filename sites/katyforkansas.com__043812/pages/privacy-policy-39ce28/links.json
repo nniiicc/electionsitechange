@@ -1,20 +1,74 @@
 [
-"http://aboutads.info/choices",
-"http://fec.gov/",
-"https://adobe.com/products/flashplayer/security",
-"https://facebook.com/katyforkansas",
-"https://google.com/maps/search?api=1&query=7803+E+Osie+St+Suite+110+Wichita+KS+67207",
-"https://instagram.com/katyforkansas",
-"https://katyforkansas.com/",
-"https://katyforkansas.com/events",
-"https://katyforkansas.com/in-the-news",
-"https://katyforkansas.com/issues",
-"https://katyforkansas.com/privacy-policy",
-"https://katyforkansas.com/vote",
-"https://katyforkansas.substack.com/",
-"https://kineticstrategies.us/",
-"https://secure.actblue.com/donate/tyndell_web",
-"https://store.katyforkansas.com/",
-"https://tiktok.com/@katyforkansas",
-"https://youtube.com/@KatyforKansas"
+{
+"text": "7803 E Osie St, Suite 110 Wichita, KS 67207",
+"href": "https://www.google.com/maps/search/?api=1&query=7803+E+Osie+St+Suite+110+Wichita+KS+67207"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tyndell_web"
+},
+{
+"text": "Events",
+"href": "https://katyforkansas.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/katyforkansas/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/katyforkansas/"
+},
+{
+"text": "Issues",
+"href": "https://katyforkansas.com/issues/"
+},
+{
+"text": "Kinetic Strategies",
+"href": "https://kineticstrategies.us"
+},
+{
+"text": "News",
+"href": "https://katyforkansas.com/in-the-news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://katyforkansas.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://store.katyforkansas.com/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@katyforkansas"
+},
+{
+"text": "Vote",
+"href": "https://katyforkansas.com/vote/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@KatyforKansas"
+},
+{
+"text": "[image]",
+"href": "https://katyforkansas.com"
+},
+{
+"text": "[no text]",
+"href": "https://katyforkansas.substack.com/"
+},
+{
+"text": "http://www.aboutads.info/choices",
+"href": "http://www.aboutads.info/choices"
+},
+{
+"text": "http://www.fec.gov",
+"href": "http://www.fec.gov"
+},
+{
+"text": "info@katyforkansas.com",
+"href": "mailto:info@katyforkansas.com"
+}
 ]

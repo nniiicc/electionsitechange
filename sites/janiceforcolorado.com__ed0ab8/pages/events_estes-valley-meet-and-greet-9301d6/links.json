@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Estes+Valley+Meet+and+Greet&dates=20260425T223000Z%2F20260426T000000Z&location=Boulder%2C+CO",
-"http://maps.google.com/?q=+Boulder%2C+CO",
-"https://facebook.com/janiceforcolorado",
-"https://instagram.com/senatorjanicemarchman",
-"https://janiceforcolorado.com/",
-"https://janiceforcolorado.com/about",
-"https://janiceforcolorado.com/cart",
-"https://janiceforcolorado.com/contact",
-"https://janiceforcolorado.com/events",
-"https://janiceforcolorado.com/events/allenspark-meet-greet",
-"https://janiceforcolorado.com/events/boulder-valley-april-meet-greet",
-"https://janiceforcolorado.com/events/estes-valley-meet-and-greet?format=ical",
-"https://janiceforcolorado.com/get-involved",
-"https://janiceforcolorado.com/media",
-"https://janiceforcolorado.com/priorities",
-"https://secure.actblue.com/donate/estesevent",
-"https://secure.actblue.com/donate/janice-marchman-for-colorado-senate-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+boulder%2C+co+"
+},
+{
+"text": "0",
+"href": "https://www.janiceforcolorado.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.janiceforcolorado.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.janiceforcolorado.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.janiceforcolorado.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/janice-marchman-for-colorado-senate-1"
+},
+{
+"text": "Events",
+"href": "https://www.janiceforcolorado.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.janiceforcolorado.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Estes+Valley+Meet+and+Greet&dates=20260425T223000Z%2F20260426T000000Z&location=Boulder%2C+CO"
+},
+{
+"text": "Home",
+"href": "https://www.janiceforcolorado.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/estes-valley-meet-and-greet?format=ical"
+},
+{
+"text": "Media",
+"href": "https://www.janiceforcolorado.com/media"
+},
+{
+"text": "Next Next May 23 Allenspark Meet & Greet",
+"href": "https://www.janiceforcolorado.com/events/allenspark-meet-greet"
+},
+{
+"text": "Previous Previous April 18 Boulder Valley April Meet + Greet",
+"href": "https://www.janiceforcolorado.com/events/boulder-valley-april-meet-greet"
+},
+{
+"text": "Priorities",
+"href": "https://www.janiceforcolorado.com/priorities"
+},
+{
+"text": "[image: Janice Marchman for Colorado State Senate]",
+"href": "https://www.janiceforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/janiceforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/senatorjanicemarchman/"
+},
+{
+"text": "https://secure.actblue.com/donate/estesevent",
+"href": "https://secure.actblue.com/donate/estesevent"
+}
 ]

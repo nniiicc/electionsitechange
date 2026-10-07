@@ -1,37 +1,15 @@
-Growing up in California, our culture was one of optimism and independence within a diverse society.
-I found comfort and stability knowing we lived in a state where opportunity, prosperity and a balance of life were possible.
-Between meeting responsibilities and pursuing our dreams, we played among the beautiful landscape.
-Today, we find Our California is a much more challenging field to navigate and preserve.
-Our elected officials have failed to protect our public institutions, money, and precious resources.
-We know that special interests are at the helm and steering this ship.
-We know the challenges before us.
-Together, we can and must rescue California.
-I am in FULL SUPPORT of the California Voter ID Initiative #1984.
-There needs to be a “FULL AUDIT” of ALL Secretary of State Voter Data in order to clean our California Voter Rolls.
-Repeal the Motor Voter Act which allows for automatic voter registration upon driver license application or change of address.
-ALL Voter registration should take place at the County Registrar of Voters office with proof of citizenship.
-Polls show overwhelming bi-partisan support for Voter ID.
-Support Your Local Sheriff and Police!
-Support vagrancy laws and guardianship
-protection for the addicted and mentally ill.
-Audits with Accountability – Any allocation of the People’s Money MUST BE systematically reconciled including appropriated funds for NGO’s (non-government organizations) and non-profits.
-CORRUPTION MUST BE EXTINGUISHED on all fronts!
-Restore Our Middle-Class Working Economy.
-Reform our current “Hour-Glass Economy” which squeezes the middle class and transfers wealth to the Elites and those who capitalize on the poor, homeless, mentally ill, and addicted.
-Return to Reading, Writing and Arithmetic!
-Re-Establish Trade Education at
-the High School Level.
-Return the University of California and the CSU systems to an educational-research and credential focus and NOT a Real Estate development concentration.
-Increase water storage statewide, especially in the Northern and Central regions.
-We need to work with the Federal Government to repair antiquated water infrastructure and water retention systems.
-Develop water resources to prioritize our People and Agriculture.
-Preserve established power infrastructure!
-Cease closing natural gas and nuclear plants and petroleum refineries.
-Stop energy agendas which dramatically curtail our power options and therefore our ability to cool and heat our homes, fill our gas tanks and meet our business and agricultural needs.
-Stop the toxic sewage from Mexico from poisoning our coastline.
-PROTECT OUR AIR, WATER and LAND from geoengineering.
-Manage our fire
-vulnerable forest and wildlands to protect lives and property.
-Your support and contributions will enable us to meet our goals and fund the campaign.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Home The Issues About Me Our District Current Representation Donate Assembly District 20 The Issues A clear platform built on the real challenges facing our district.
+Where Patricia Stands Patricia Muga's platform isn't written by consultants or special interests.
+It comes from decades of striving for the California Dream.
+These are the issues that matter most to our neighbors — and here is exactly what Patricia will do about them in Sacramento.
+Public Safety Cost of Living & Housing Education & Parental Rights Small Business & Jobs Water & Infrastructure Government Accountability Public Safety Public Safety The Problem Repeat offenders cycle through a broken system with little consequence, while law-abiding residents and small business owners bear the cost.
+Sacramento has responded by weakening penalties, defunding programs, and tying the hands of local law enforcement.
+Patricia's Position Every resident of AD-20 deserves to feel safe in their home, on their street, and in their community.
+Patricia believes in fully funding law enforcement, holding criminals accountable, and restoring the tools prosecutors need to keep dangerous individuals off our streets.
+What She'll Do in Sacramento Oppose any legislation that reduces penalties for violent or repeat offenders Support full funding for local law enforcement agencies Restore prosecutorial tools weakened by recent Sacramento legislation Advocate for mental health and addiction diversion programs that keep communities safe Cost of Living & Housing Education & Parental Rights Small Business & Jobs Water & Infrastructure Government Accountability Public Safety The Problem Repeat offenders cycle through a broken system with little consequence, while law-abiding residents and small business owners bear the cost.
+Sacramento has responded by weakening penalties, defunding programs, and tying the hands of local law enforcement.
+Patricia's Position Every resident of AD-20 deserves to feel safe in their home, on their street, and in their community.
+Patricia believes in fully funding law enforcement, holding criminals accountable, and restoring the tools prosecutors need to keep dangerous individuals off our streets.
+What She'll Do in Sacramento Oppose any legislation that reduces penalties for violent or repeat offenders Support full funding for local law enforcement agencies Restore prosecutorial tools weakened by recent Sacramento legislation Advocate for mental health and addiction diversion programs that keep communities safe "Sacramento needs representatives who answer to the people — not the party." Ready to Make a Difference?
+Join Patricia's campaign and help bring common sense back to Sacramento.
+Donate Now Get in Touch Patricia Muga for Assembly District 20 925-551-1734 Quick Links Home The Issues About Me Our District Current Representation Donate Legal Copyright © # · Paid for by Patricia Muga for Assembly · All Rights Reserved · ID# 1487632

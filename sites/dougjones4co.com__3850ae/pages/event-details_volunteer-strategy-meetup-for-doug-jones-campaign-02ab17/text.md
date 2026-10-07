@@ -1,5 +1,3 @@
-Sat, May 23
-Community Engagement Center
-A meetup for volunteers to collaborate on campaign strategies and outreach plans.
-May 23, 2026, 12:52 PM – 2:52 PM
-Community Engagement Center, Hill Ln, Colorado Springs, CO 80904, USA
+top of page Home Events Blog Notifications Volunteer DONATE Volunteer Strategy Meetup for Doug Jones Campaign Sat, May 23 | Community Engagement Center A meetup for volunteers to collaborate on campaign strategies and outreach plans.
+Registration is closed See other events Time & Location May 23, 2026, 12:52 PM – 2:52 PM Community Engagement Center, Hill Ln, Colorado Springs, CO 80904, USA About the event Meetup to strategize campaign efforts Show More Share this event Colorado Springs, CO | Doug Jones for Colorado House District 15 © # All Rights Reserved.
+Paid for by Doug Jones for Colorado. bottom of page

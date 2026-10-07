@@ -1,22 +1,18 @@
-RELEASE, Oregon Nurses Association Endorses Representative Smith
-RELEASE, ONA Endorses Rep.
-Smith
-OREGON NURSES ASSOCIATION ENDORSES REPRESENTATIVE GREG SMITH
-RECOGNIZING HIS COMMITMENT TO RURAL HEALTH CARE AND STRONG COMMUNITIES
-HEPPNER, OR. – Representative Greg Smith (R-Heppner) received the endorsement of the Oregon Nurses Association (ONA) in the upcoming 2026 primary election.
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu RELEASE, Oregon Nurses Association Endorses Representative Smith March 10, 2026 / in News RELEASE, ONA Endorses Rep.
+Smith OREGON NURSES ASSOCIATION ENDORSES REPRESENTATIVE GREG SMITH RECOGNIZING HIS COMMITMENT TO RURAL HEALTH CARE AND STRONG COMMUNITIES HEPPNER, OR. – Representative Greg Smith (R-Heppner) received the endorsement of the Oregon Nurses Association (ONA) in the upcoming 2026 primary election.
 This endorsement recognizes Smith’s continued efforts to support rural health care access and the medical professionals who serve communities across Eastern Oregon.
 “ONA is proud to endorse Rep.
 Smith.
-He’s a strong advocate for Eastern Oregon and has shown he listens to nurses and healthcare workers,” said Tamie Cline, RN, President of the Oregon Nurses Association and a resident of Umatilla.
+He’s a strong advocate for Eastern Oregon and has shown he listens to nurses and healthcare workers,” said Tamie Cline , RN, President of the Oregon Nurses Association and a resident of Umatilla.
 The Oregon Nurses Association represents thousands of nurses across the state who work on the front lines of patient care.
 Their support reflects Representative Smith’s commitment to strengthening health care access, supporting local hospitals, and ensuring rural communities are not left behind when it comes to critical medical services.
-Nyla Bennett, a nursing student at Eastern Oregon University and a Mitchell High School graduate, also emphasized the importance of strengthening the rural health care workforce.
+Nyla Bennett , a nursing student at Eastern Oregon University and a Mitchell High School graduate, also emphasized the importance of strengthening the rural health care workforce.
 “I am going to nursing school to ensure that small towns like Mitchell have quality health care,” Bennett said.
 “Representative Smith understands how important nurses are to Eastern Oregon.
-I am proud to support Greg Smith along with the Oregon Nurses Association.”
-Throughout his legislative service, Representative Smith has worked to highlight the unique challenges rural communities face in maintaining reliable health care systems.
+I am proud to support Greg Smith along with the Oregon Nurses Association.” Throughout his legislative service, Representative Smith has worked to highlight the unique challenges rural communities face in maintaining reliable health care systems.
 From workforce shortages to long travel distances for care, Smith has emphasized the need for policies that strengthen rural health infrastructure and support the professionals who provide essential care.
 Representative Smith expressed appreciation for the endorsement, stating, “I am honored to receive the support of the Oregon Nurses Association.
 Nurses are essential to the health and well-being of our communities, especially in rural areas where access to care can be limited.
-I will continue working to support our health care workforce and ensure families across Eastern Oregon have access to the care they deserve.”
-This endorsement reflects growing support for Representative Smith’s work to strengthen rural communities and advocate for the resources necessary to maintain strong local health systems across District 57.
+I will continue working to support our health care workforce and ensure families across Eastern Oregon have access to the care they deserve.” This endorsement reflects growing support for Representative Smith’s work to strengthen rural communities and advocate for the resources necessary to maintain strong local health systems across District 57.
+Share this entry Share on Facebook Share on X Share by Mail https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2026-03-10 16:36:19 2026-04-12 17:32:57 RELEASE, Oregon Nurses Association Endorses Representative Smith July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

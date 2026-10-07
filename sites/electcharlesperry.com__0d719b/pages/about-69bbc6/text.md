@@ -1,5 +1,4 @@
-ABOUT CHARLES PERRY:
-Charles Perry, a practicing CPA from Lubbock, was first elected to the Texas Senate in 2014 after serving two terms in the Texas House of Representatives.
+Home About Issues News Take Action Contact Donate Home About Issues News Take Action Contact Donate Meet Senator Charles Perry ABOUT CHARLES PERRY: Charles Perry, a practicing CPA from Lubbock, was first elected to the Texas Senate in 2014 after serving two terms in the Texas House of Representatives.
 A life-long West Texan, Perry is a movement conservative seeking to reduce waste and inefficiencies in government.
 Perry has been married to his wonderful wife, Jacklyn for over 32 years and together they have a daughter, Jordan, and a son, Matthew.
 The entire family graduated from Texas Tech University.
@@ -15,12 +14,16 @@ He is also a deacon at his church, Southcrest Baptist.
 Perry grew up in in the district he currently represents, graduating from Sweetwater High School in 1980.
 In 1984, he earned his Bachelor of Business Administration in accounting and management information systems from Texas Tech University.
 Senator Perry represents the largest Senate District in the State of Texas.
-There are a total of 51 counties in the district: Lubbock, Tom Green, Childress, Lamb, Hale, Floyd, Motley, Cottle, Hardeman, Foard, Wilbarger, Hockley, Crosby, Dickens, King, Knox, Baylor, Terry, Lynn, Garza, Kent, Stonewall, Haskell, Throckmorton, Dawson, Borden, Scurry, Fisher, Jones, Shackelford, Stephens, Mitchell, Nolan, Eastland, Sterling, Coke, Runnels, Coleman, Mcculloch, Concho, Irion, Reagan, Upton, Crane, Ward, Mason, Kimble, Menard, Schleicher, Sutton and Taylor (partial).
-Perry has a proven record for fighting for:
-- Tax-relief for Hardworking Texans
-- Placing Fiscal Restraints on Government Growth and Spending
-- Unborn Life and Our Second Amendment Rights
-- Increase Border Security and Stop the Magnets that Encourage Illegal Immigration
-- Traditional Family Values
-- West Texas Water and Agriculture
-- Reducing Regulations on Both Individuals and Businesses
+There are a total of 51 counties in the district: Lubbock, Tom Green, Childress, Lamb, Hale, Floyd, Motley, Cottle, Hardeman, Foard, Wilbarger, Hockley, Crosby, Dickens, King, Knox, Baylor, Terry, Lynn, Garza, Kent, Stonewall, Haskell, Throckmorton, Dawson, Borden, Scurry, Fisher, Jones, Shackelford, Stephens, Mitchell, Nolan, Eastland, Sterling, Coke, Runnels, Coleman, Mcculloch, Concho, Irion, Reagan, Upton, Crane, Ward, Mason, Kimble, Menard, Schleicher, Sutton and Taylor (partial). “ As a State Representative, Perry successfully carried legislation important to gun owners and was always a vote TSRA could count on.
+His rating of A+ was more than earned.
+We look forward to enjoying this type of relationship with Charles Perry as the next Senator from Texas Senate District 28. ” — Texas State Rifle Association Perry has a proven record for fighting for: Tax-relief for Hardworking Texans Placing Fiscal Restraints on Government Growth and Spending Unborn Life and Our Second Amendment Rights Increase Border Security and Stop the Magnets that Encourage Illegal Immigration Traditional Family Values West Texas Water and Agriculture Reducing Regulations on Both Individuals and Businesses Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+First Name Last Name Email Address Get Updates!
+Thank you!
+Back to Top © Copyright # Charles Perry for State Senate.
+All rights reserved.
+NOT CREATED AT STATE EXPENSE.
+Pol.
+Adv.
+Pd. for by Charles Perry Campaign P.O.
+Box 94806 Lubbock, Texas 79493

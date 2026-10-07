@@ -1,78 +1,314 @@
 [
-"https://brooksformaryland.org/",
-"https://brooksformaryland.org/about",
-"https://brooksformaryland.org/contact",
-"https://brooksformaryland.org/gallery",
-"https://brooksformaryland.org/issues",
-"https://brooksformaryland.org/news-updates",
-"https://brooksformaryland.org/testimonials",
-"https://brooksformaryland.org/voting",
-"https://brooksformaryland.org/wp-content/uploads/2022/03/6a500594a02c266b9085be9cd4b39571.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2022/04/AmyBrooksDelegate04.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2023/03/AmyBrooks-OpelJones-1.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland03.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland04.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland05.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland06.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland08.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland11.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland13.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/Group-AmyBrooksDelegate.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/09/Amy-Brooks-Delegate-Supporters-1.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/09/AmyBrooks-Delegate.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-004.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-02.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-05.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-09.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-10.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-111.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-12.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-13.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-14.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-16.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-17.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-18.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-19.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-20.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/11/SlatePhoto-AmyBrooksforMaryland.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01843.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01845.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01854.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01857.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01859.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01867.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01869.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01875.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01879.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01881.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01889.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01890.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01907.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01909.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01911.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01915.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01923.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01924.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01951.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01956.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01960.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01981.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01994.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD02008.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD02011.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5096.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5098.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5119.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5135.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5136.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5141.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5176.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5178.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5180.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5202.jpg",
-"https://docs.google.com/forms/d/e/1FAIpQLSd4S7wo014V1xKp_e7YxeTlsRi0dnzLzVIIbCQSEykQA0U71A/viewform",
-"https://facebook.com/BrooksforMaryland",
-"https://instagram.com/brooksformaryland",
-"https://secure.actblue.com/donate/amy-brooks-delegate",
-"https://tiktok.com/@amy.b9640"
+{
+"text": "About",
+"href": "https://brooksformaryland.org/about/"
+},
+{
+"text": "Contact",
+"href": "https://brooksformaryland.org/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/amy-brooks-delegate"
+},
+{
+"text": "Gallery",
+"href": "https://brooksformaryland.org/gallery/"
+},
+{
+"text": "Issues",
+"href": "https://brooksformaryland.org/issues/"
+},
+{
+"text": "Updates",
+"href": "https://brooksformaryland.org/news-updates/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd4S7wo014V1xKp_e7YxeTlsRi0dnzLzVIIbCQSEykQA0U71A/viewform"
+},
+{
+"text": "Voting",
+"href": "https://brooksformaryland.org/voting/"
+},
+{
+"text": "Why Amy?",
+"href": "https://brooksformaryland.org/testimonials/"
+},
+{
+"text": "[image: Amy Brooks Delegate Supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2022/04/AmyBrooksDelegate04.jpg"
+},
+{
+"text": "[image: Amy Brooks and Open Jones smiling with 3 smaller kids standing and smiling in front of them.]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2023/03/AmyBrooks-OpelJones-1.jpg"
+},
+{
+"text": "[image: Amy Brooks for Delegate Supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-004.jpg"
+},
+{
+"text": "[image: Amy Brooks for Delegate Supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-02.jpg"
+},
+{
+"text": "[image: Amy Brooks for Delegate Supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-05.jpg"
+},
+{
+"text": "[image: Amy Brooks for Delegate Supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-09.jpg"
+},
+{
+"text": "[image: Amy Brooks for Delegate Supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-10.jpg"
+},
+{
+"text": "[image: Amy Brooks for Delegate Supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-111.jpg"
+},
+{
+"text": "[image: Amy Brooks for Delegate Supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-12.jpg"
+},
+{
+"text": "[image: Amy Brooks for Delegate Supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-13.jpg"
+},
+{
+"text": "[image: Amy Brooks for Delegate Supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-14.jpg"
+},
+{
+"text": "[image: Amy Brooks for Delegate Supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-16.jpg"
+},
+{
+"text": "[image: Amy Brooks for Delegate Supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-17.jpg"
+},
+{
+"text": "[image: Amy Brooks for Delegate Supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-18.jpg"
+},
+{
+"text": "[image: Amy Brooks for Delegate Supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-19.jpg"
+},
+{
+"text": "[image: Amy Brooks for Delegate Supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/11/AmyBrooksforDelegate-20.jpg"
+},
+{
+"text": "[image: Amy Brooks for Delegate]",
+"href": "https://brooksformaryland.org"
+},
+{
+"text": "[image: Amy Brooks for Delegate]",
+"href": "https://brooksformaryland.org/"
+},
+{
+"text": "[image: Amy Brooks signing up to run as Delegate with a group of supporters standing in behind her.]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/09/AmyBrooks-Delegate.jpg"
+},
+{
+"text": "[image: Amy Brooks walking the parade, smiling at people]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland11.jpg"
+},
+{
+"text": "[image: Amy Brooks with fellow supporters wearing Amy Brooks for Delegate shirts.]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/09/Amy-Brooks-Delegate-Supporters-1.jpg"
+},
+{
+"text": "[image: Amy fist bumping a constituent]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland08.jpg"
+},
+{
+"text": "[image: Brooks for Maryland sign]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland06.jpg"
+},
+{
+"text": "[image: Brooks for Maryland supporter chanting in a bullhorn in parade]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland05.jpg"
+},
+{
+"text": "[image: Group of Supporters marching in teh parade in Brooks for Maryland shirts]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland13.jpg"
+},
+{
+"text": "[image: Group of supporters carrying a Brooks for Delegate sign]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland04.jpg"
+},
+{
+"text": "[image: Group photo of Brooks for Maryland supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/Group-AmyBrooksDelegate.jpg"
+},
+{
+"text": "[image: Supporter chanting in the parade]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland03.jpg"
+},
+{
+"text": "[image: Team 13 group photo with (left to right) Senator Guy Guzzone, Amy Brooks, Gabriel Moreno and Delegate Pam Lanman Guzzone]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/11/SlatePhoto-AmyBrooksforMaryland.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2022/03/6a500594a02c266b9085be9cd4b39571.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01843.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01845.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01854.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01857.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01859.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01867.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01869.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01875.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01879.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01881.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01889.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01890.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01907.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01909.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01911.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01915.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01923.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01924.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01951.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01956.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01960.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01981.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01994.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD02008.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD02011.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5096.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5098.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5119.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5135.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5136.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5141.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5176.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5178.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5180.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/IMG_5202.jpg"
+},
+{
+"text": "email",
+"href": "mailto:info@brooksformaryland.org"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/BrooksforMaryland"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/brooksformaryland"
+},
+{
+"text": "instagram",
+"href": "https://www.tiktok.com/@amy.b9640"
+}
 ]

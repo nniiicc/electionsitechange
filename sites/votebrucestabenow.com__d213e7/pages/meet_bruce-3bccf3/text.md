@@ -1,5 +1,4 @@
-Meet Bruce
-I am a lifelong resident of western Wisconsin, born in Eau Claire and proud to have spent my entire life in the communities of Assembly District 91.
+Meet Bruce Issues News Volunteer Contribute Meet Bruce I am a lifelong resident of western Wisconsin, born in Eau Claire and proud to have spent my entire life in the communities of Assembly District 91.
 I currently live in Augusta with my wife, Carla, where we've built our life together raising a family and staying deeply connected to the area we call home.
 I am a father of six and a proud grandfather of nineteen, and family remains at the center of everything I do.
 Carla and I also share our home with our two dogs, Kirby, and Pup.
@@ -9,4 +8,5 @@ I have served my community in the past, including time on the Augusta City Counc
 I am an active member of Osseo Community Church and a dedicated Wisconsin sports fan.
 GO PACK GO!
 My roots run deep in this district, and my life, work, and service reflect a strong commitment to the people and communities I've always called home.
-Paid for by Bruce Stabenow for Assembly District 91
+Paid for by Bruce Stabenow for Assembly District 91 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+News Bruce Stabenow Launches Facebook Site Bruce Stabenow Launches Campaign for the 91st assembly district Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Bruce Stabenow for Assembly District 91 Powered by CampaignPartner.com - Political Websites Home Meet Bruce Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

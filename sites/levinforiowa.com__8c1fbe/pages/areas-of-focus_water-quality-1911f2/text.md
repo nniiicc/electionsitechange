@@ -1,5 +1,6 @@
-Water Quality
-There are a few facets to this issue, but it really comes down to this; water is the thing that connects every living thing on the planet.
+0 Skip to Content Home Get Involved Areas of Focus Media Recommendations Press Español/Français/Swahili Endorsements DONATE Open Menu Close Menu Open Menu Close Menu Home Get Involved Areas of Focus Media Recommendations Press Español/Français/Swahili Endorsements DONATE Home Get Involved Areas of Focus Media Recommendations Press Español/Français/Swahili Endorsements DONATE Water Quality Nov 14 Written By Elinor Levin There are a few facets to this issue, but it really comes down to this; water is the thing that connects every living thing on the planet.
 The way we treat our water not only impacts the drinking fountains in our public schools and the irrigation of the food we grow, but also the biological diversity of the Mississippi River, and even the fishing industry in the Gulf of Mexico.
 Companies and communities that are proactively working towards the protection and improvement of Iowa’s waterways should be supported by everyone who wants to live a long healthy life and see the generations that come after us thrive.
 Governmental leadership and direct legislation based on evidence-driven expertise are needed to reverse the harm we’ve already done.
+Elinor Levin Previous Previous Veterans Day Next Next Education Paid for by Citizens for Elinor A.
+Levin

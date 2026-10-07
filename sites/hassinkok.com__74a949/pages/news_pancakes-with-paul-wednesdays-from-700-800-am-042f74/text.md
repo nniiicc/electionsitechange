@@ -1,1 +1,4 @@
-Pancakes With Paul – Wednesdays from 7:00 – 8:00 amhassinkok2024-10-16T14:21:01-05:00 Download Calendar Reminder August 7 – November 6, 2024
+Skip to content Save Oklahoma Students (SOS) “ThatIsNotOK” Issues Meet Paul Endorsements News Resources Contact DONATE DONATE MENU Save Oklahoma Students (SOS) “ThatIsNotOK” DONATE Issues Meet Paul Endorsements News Resource Links Contact DONATE MENU Save Oklahoma Students (SOS) “ThatIsNotOK” DONATE Issues Meet Paul Endorsements News Resource Links Contact Pancakes With Paul – Wednesdays from 7:00 – 8:00 am Pancakes With Paul – Wednesdays from 7:00 – 8:00 am hassinkok 2024-10-16T14:21:01-05:00 Download Calendar Reminder August 7 – November 6, 2024 Follow Us!
+Links Toggle Navigation Home Press Privacy Policy Contact Us Paul Hassink for Oklahoma Representative – District 79 Contact me via email 918-321-0807 5867 S.
+Joplin Ave.
+Tulsa, OK 74135 © Copyright # | Authorized and paid for by Hassink 2024 | All rights reserved Page load link Go to Top

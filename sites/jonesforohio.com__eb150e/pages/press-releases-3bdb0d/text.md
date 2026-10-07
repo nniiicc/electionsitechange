@@ -1,21 +1,14 @@
-Ohio Education Association Endorses Aaron Jones for State Representative
-The Ohio Education Association has endorsed Aaron Jones for Ohio House District 88, making him the choice of both of Ohio's major teachers' organizations.
-Read Full Release
-Official statements from the campaign.
-For high-resolution photos, logos, and biographical copy, see the Media.
-Endorsement comes on the recommendation of the Fostoria Area CAP, in a district where manufacturing is the largest employer.
-Read Full Release
-The 20,000-member Ohio Federation of Teachers has endorsed Aaron Jones, citing his commitment to public schools, higher education, libraries, and the workers who staff them.
-Read Full Release
-Army veteran and factory supervisor Aaron Jones officially launched his campaign for the Ohio House in the 88th District before supporters at a Downtown Tiffin kickoff event.
-Read Full Release
-VoteVets, a national veterans organization that supports veterans in public service and advocates for veterans and military families, has endorsed Aaron Jones in his campaign for State Representative in the 88th House District.
-Read Full Release
-Aaron Jones, a U.S.
+Skip to main content Aaron Jones for State Representative Press Releases Official statements from the campaign.
+For high-resolution photos, logos, and biographical copy, see the Media .
+August 14, 2026 Ohio Education Association Endorses Aaron Jones for State Representative The Ohio Education Association has endorsed Aaron Jones for Ohio House District 88, making him the choice of both of Ohio's major teachers' organizations.
+Read Full Release July 13, 2026 United Auto Workers Endorse Aaron Jones for State Representative in District 88 Endorsement comes on the recommendation of the Fostoria Area CAP, in a district where manufacturing is the largest employer.
+Read Full Release June 24, 2026 Ohio Federation of Teachers Endorses Aaron Jones for State Representative in District 88 The 20,000-member Ohio Federation of Teachers has endorsed Aaron Jones, citing his commitment to public schools, higher education, libraries, and the workers who staff them.
+Read Full Release April 17, 2026 Aaron Jones Launches Campaign for Ohio House District 88 Army veteran and factory supervisor Aaron Jones officially launched his campaign for the Ohio House in the 88th District before supporters at a Downtown Tiffin kickoff event.
+Read Full Release March 5, 2026 National Veterans Organization VoteVets Endorses Aaron Jones for State Representative VoteVets, a national veterans organization that supports veterans in public service and advocates for veterans and military families, has endorsed Aaron Jones in his campaign for State Representative in the 88th House District.
+Read Full Release February 3, 2026 Aaron Jones officially files to run for Ohio House District 88 Aaron Jones, a U.S.
 Army veteran, factory supervisor, and Tiffin City Councilman, has officially filed his paperwork to appear on the ballot for Ohio House District 88, which includes all of Seneca and Sandusky counties.
-Read Full Release
-Tiffin City Councilman and State Representative candidate Aaron Jones attended the 92nd Annual Ohio Farmers Union State Convention in Lima, meeting with family farmers and rural advocates to discuss the challenges facing Ohio agriculture and rural communities.
-Read Full Release
-Aaron Jones, a U.S.
+Read Full Release February 2, 2026 Aaron Jones attends Ohio Farmers Union State Convention, meets with family farmers Tiffin City Councilman and State Representative candidate Aaron Jones attended the 92nd Annual Ohio Farmers Union State Convention in Lima, meeting with family farmers and rural advocates to discuss the challenges facing Ohio agriculture and rural communities.
+Read Full Release January 27, 2026 Aaron Jones announces campaign for State Representative in Ohio's 88th District Aaron Jones, a U.S.
 Army veteran, factory supervisor, and Tiffin City Councilman, announced today that he is running for State Representative in Ohio's 88th House District, which includes all of Seneca and Sandusky counties.
-Read Full Release
+Read Full Release Aaron Jones for State Representative Home • About • Priorities • Endorsements • Get Involved • Vote • Events • News • Donate info@jonesforohio.com Make checks payable to: Friends of Aaron Jones 250 Riverside Drive, Tiffin, OH 44883 PAID FOR BY FRIENDS OF AARON JONES Use of military rank, unit, title, or photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Contact • Privacy Policy & Terms • Media

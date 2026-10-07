@@ -1,7 +1,26 @@
 [
-"https://jackformnhouse.com/",
-"https://jackformnhouse.com/issues",
-"https://jackformnhouse.com/meetjack",
-"https://jackformnhouse.com/volunteer",
-"https://secure.actblue.com/donate/jack-l-heureux-1"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jack-l-heureux-1"
+},
+{
+"text": "Home",
+"href": "https://www.jackformnhouse.com/"
+},
+{
+"text": "Meet Jack",
+"href": "https://www.jackformnhouse.com/meetjack"
+},
+{
+"text": "The Issues",
+"href": "https://www.jackformnhouse.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jackformnhouse.com/volunteer"
+},
+{
+"text": "[image: Jack L’Heureux for MN House 11B]",
+"href": "https://www.jackformnhouse.com/"
+}
 ]

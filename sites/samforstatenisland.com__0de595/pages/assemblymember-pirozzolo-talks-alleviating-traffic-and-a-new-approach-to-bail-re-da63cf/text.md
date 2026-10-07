@@ -1,4 +1,5 @@
-By Giavanni Alves | GAlves@siadvance.com
-STATEN ISLAND, N.Y. — Newly elected New York State Assemblymember Sam Pirozzolo (R-Mid Island) is ready to make his campaign promises a reality in Albany and on Staten Island.
+Skip to content Home About Sam On The Issues News Contact Us Volunteer Donate samforstatenis Press Assemblymember Pirozzolo talks alleviating traffic and a new approach to bail reform with SILive Search for: Search 09 Mar By Giavanni Alves | GAlves@siadvance.com STATEN ISLAND, N.Y. — Newly elected New York State Assemblymember Sam Pirozzolo (R-Mid Island) is ready to make his campaign promises a reality in Albany and on Staten Island.
 When asked what his 90-day plan is for the district, the freshman assemblymember said he is focused more on the big picture than just his first three months in office.
 “I don’t have a 90-day outlook because I’m really looking beyond 90 days – what I will be able to accomplish in the next two years or within my term,” Pirozzolo said.
+Read More on SILive>> Opioid-plagued Staten Island wrongly cut out of $1.5B settlement fund: pol Assemblymember Pirozzolo talks alleviating traffic and a new approach to bail reform with SILive Proposed legislation would ban construction of lithium-ion battery storage sites on Staten Island Join Our List Copyright © # Sam Pirozzolo for Assembly , All Rights Reserved.
+Paid for By Sam Pirozzolo for Assembly 2026 Designed and Maintained by Politika

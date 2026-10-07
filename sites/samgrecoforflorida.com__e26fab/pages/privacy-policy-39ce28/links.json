@@ -1,12 +1,42 @@
 [
-"http://aboutads.info/",
-"http://allaboutdnt.com/",
-"https://facebook.com/SamGrecoforFlorida",
-"https://globalprivacycontrol.org/",
-"https://instagram.com/samgrecofl?hl=en",
-"https://samgrecoforflorida.com/",
-"https://samgrecoforflorida.com/privacy-policy",
-"https://samgrecoforflorida.com/terms-and-conditions",
-"https://secure.winred.com/sam-greco-for-florida/donate-today",
-"https://x.com/SamGrecoFL"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/sam-greco-for-florida/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.samgrecoforflorida.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.samgrecoforflorida.com/terms-and-conditions"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/SamGrecoforFlorida/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/samgrecofl/?hl=en"
+},
+{
+"text": "[image]",
+"href": "https://www.samgrecoforflorida.com/"
+},
+{
+"text": "[image]",
+"href": "https://x.com/SamGrecoFL"
+},
+{
+"text": "http://www.allaboutdnt.com",
+"href": "http://www.allaboutdnt.com"
+},
+{
+"text": "https://globalprivacycontrol.org/",
+"href": "https://globalprivacycontrol.org/"
+},
+{
+"text": "www.aboutads.info",
+"href": "http://www.aboutads.info"
+}
 ]

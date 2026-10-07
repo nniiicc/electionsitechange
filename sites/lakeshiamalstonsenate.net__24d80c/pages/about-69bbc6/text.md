@@ -1,5 +1,4 @@
-about LaKeshia m ALSTON
-Native of Durham, North Carolina.
+0 Skip to Content About Auxiliary Open Menu Close Menu About Auxiliary Open Menu Close Menu About Auxiliary about LaKeshia m ALSTON Native of Durham, North Carolina.
 Grew up in the heart of the city.
 A mother of 4 beautiful children.
 LaKeshia M Alston, received public school during the school year, and Durham Academy, private school education during the summer, by choice.
@@ -7,8 +6,7 @@ LaKeshia M Alston, attended Winston-Salem State University for Political Science
 Grand Canyon University for Secondary Education, Aveda Chapel Hill for Esthetics.
 Wake Technical Community college for Accounting Business Finance.
 Wake Tech holding true to their motto gave her the boot.
-Told her “This can’t be real.” You need to get out there and save the world!” “Lead the Way.” An “A” for effort because we are counting on you!”
-Worked as a Durham Public School Employee for eleven years, climbing the latter from substituting, interventionist, teachers assistant, classroom teacher.
+Told her “This can’t be real.” You need to get out there and save the world!” “Lead the Way.” An “A” for effort because we are counting on you!” Worked as a Durham Public School Employee for eleven years, climbing the latter from substituting, interventionist, teachers assistant, classroom teacher.
 Experience the world of manufacturing, twice.
 Learning the challenges explored, while creating businesses of entrepreneurship, during and after graduating from Aveda chapel.
 In 2022, working as a retired teacher in the aesthetics industry, she noticed the deficits, that needed to be met with former students, pathway opportunity for education, housing needs, tax needs, acknowledging birthright citizenship needs.
@@ -23,6 +21,5 @@ LaKeshia M Alston comes to set the record straight.
 For all those who have forgotten their worth.
 With your votes, we will republic this city.
 Thus, this is where dreams are made.
-“For whom much is given, much is required.”
-VOTERS INFO
-Submit the inquiry form to initiate a confidential discussion regarding your communication objectives and discover how our expertise can advance your strategic goals.
+“For whom much is given, much is required.” VOTERS INFO Submit the inquiry form to initiate a confidential discussion regarding your communication objectives and discover how our expertise can advance your strategic goals.
+LaKESHIA M ALSTON STATE SENATE DURHAM NC DISTRICT 22 REPUBLICAN PARTY alstonlakeshia0@gmail.com

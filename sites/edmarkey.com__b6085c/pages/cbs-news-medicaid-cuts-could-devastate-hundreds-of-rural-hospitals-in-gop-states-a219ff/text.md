@@ -1,6 +1,4 @@
-CBS News: Medicaid cuts could devastate hundreds of rural hospitals in GOP states, Democrats say
-June 12th, 2025
-Cuts to federal spending on Medicaid could affect hundreds of rural hospitals in many states that have elected Republican senators and voted for President Trump, Senate Democrats warned Thursday, citing a list they commissioned tallying 338 rural hospitals at risk.
+English English Español Português 繁體中文 Meet Ed Endorsements Issues & Priorities The Latest Volunteer Donate CBS News: Medicaid cuts could devastate hundreds of rural hospitals in GOP states, Democrats say June 12th, 2025 Cuts to federal spending on Medicaid could affect hundreds of rural hospitals in many states that have elected Republican senators and voted for President Trump, Senate Democrats warned Thursday, citing a list they commissioned tallying 338 rural hospitals at risk.
 "If Republicans plan to pass drastic cuts to Medicaid and Medicare and effectively repeal the Affordable Care Act, communities should know exactly what they stand to lose," Sen.
 Ed Markey, the top Democrat in the Senate's health committee, said in a statement.
 The warning from Senate Democrats, outlined in a letter sent to President Trump and Republican congressional leaders, comes as senators are now wrestling with the budget package that Mr.
@@ -21,3 +19,7 @@ Bill Cassidy, the top Republican on the Senate health panel.
 The letter also itemized rural hospitals at risk in Alaska, Kentucky, West Virginia, Alabama and Tennessee.
 "Substantial cuts to Medicaid or Medicare payments could increase the number of unprofitable rural hospitals and elevate their risk of financial distress.
 In response, hospitals may be forced to reduce service lines, convert to a different type of healthcare facility, or close altogether," wrote University of North Carolina researchers Mark Holmes, George Pink and Tyler Malone in their responses to the Democrats.
+View Source Your Support Makes the Difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Click here to make an Offline Donation .
+Gear Up for the Campaign Jobs & Justice T-Shirt $30.00 Green New Deal Tote $30.00 Comeback T-Shirt $30.00 Green New Deal Hat $30.00 Shop Our Store Store Privacy Policy Contact Us Volunteer Paid For By The Markey Committee © # - Ed Markey.
+All Rights Reserved.

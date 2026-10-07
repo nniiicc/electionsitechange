@@ -1,5 +1,4 @@
-About Heather
-Heather Somers has served as the state senator for the 18th district, delivering results for Eastern Connecticut and challenging the status quo in Hartford, since January 2017.
+Home About Heather Issues & Record News Donate SMS Opt-In About Heather Heather Somers has served as the state senator for the 18th district, delivering results for Eastern Connecticut and challenging the status quo in Hartford, since January 2017.
 In Hartford, Somers serves as a tireless and effective advocate for eastern Connecticut.
 Somers has a successful track record of passing legislation that includes reducing the income tax and tax burden on seniors and small businesses, tackling the mental health crisis with innovative solutions, prioritizing women’s health, supporting police and first responders, protecting the environment, securing funding for education, upholding the rights of parents, combating the opioid epidemic, protecting women from sexual harassment and domestic violence, and boosting eastern Connecticut’s tourism, local assets, military presence, and employers.
 She has also been a fierce advocate for children’s mental health.
@@ -14,3 +13,6 @@ Somers also serves as co-chair of the Senate Tourism Caucus and Mental Health Ca
 Before serving in the State Senate, Somers served as a town councilor in Groton and as mayor of the Town of Groton.
 Somers was a co-founder of a biotech company and was the recipient of the Medical Device Excellence Award (2000) and a Silver Award Winner for the Connecticut Women of Innovation Awards (2007).
 Somers holds a Bachelor of Arts in Economics from the University of Connecticut and has three children, one granddaughter, many beloved pets, and currently resides in Mystic.
+Delivering Results.
+Challenging the Status Quo.
+Paid for by Somers for Senate, Constantine Antipas Treasurer, Approved by Heather Somers

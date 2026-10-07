@@ -1,22 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Ivinson+Memorial+Hospital+Tour+%26+Business+After+Hours&dates=20260917T204500Z%2F20260917T230000Z&location=255+North+30th+Street%2C+Laramie%2C+Wyoming%2C+82072%2C+United+States",
-"http://maps.google.com/?q=255+North+30th+Street+Laramie%2C+Wyoming%2C+82072+United+States",
-"https://barlowforwyo.com/",
-"https://barlowforwyo.com/cart",
-"https://barlowforwyo.com/contact",
-"https://barlowforwyo.com/events",
-"https://barlowforwyo.com/events/climb-wyomings-40th-anniversary",
-"https://barlowforwyo.com/events/hi-viz-tour",
-"https://barlowforwyo.com/events/ivinson-memorial-hospital-tour-business-after-hours?format=ical",
-"https://barlowforwyo.com/healthcare",
-"https://barlowforwyo.com/meeteric",
-"https://barlowforwyo.com/positions",
-"https://barlowforwyo.com/privacy-policy",
-"https://barlowforwyo.com/setting-the-record-straight",
-"https://facebook.com/EricBarlowRidingForWyoming",
-"https://instagram.com/barlow_wyo",
-"https://secure.winred.com/eric-barlow-32097f9d/donate",
-"https://secure.winred.com/eric-barlow-32097f9d/donate?sc=winred-directory&money_bomb=false&recurring=false",
-"https://tiktok.com/@barlowforwyo",
-"https://x.com/Barlowforwyo"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=255+north+30th+street+laramie%2C+wyoming%2C+82072+united+states"
+},
+{
+"text": "0",
+"href": "https://www.barlowforwyo.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.barlowforwyo.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.barlowforwyo.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/eric-barlow-32097f9d/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/eric-barlow-32097f9d/donate"
+},
+{
+"text": "Events",
+"href": "https://www.barlowforwyo.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ivinson+Memorial+Hospital+Tour+%26+Business+After+Hours&dates=20260917T204500Z%2F20260917T230000Z&location=255+North+30th+Street%2C+Laramie%2C+Wyoming%2C+82072%2C+United+States"
+},
+{
+"text": "Healthcare Strike Team",
+"href": "https://www.barlowforwyo.com/healthcare"
+},
+{
+"text": "ICS",
+"href": "https://www.barlowforwyo.com/events/ivinson-memorial-hospital-tour-business-after-hours?format=ical"
+},
+{
+"text": "Meet Eric",
+"href": "https://www.barlowforwyo.com/meeteric"
+},
+{
+"text": "Next Next September 17 Climb Wyoming's 40th Anniversary",
+"href": "https://www.barlowforwyo.com/events/climb-wyomings-40th-anniversary"
+},
+{
+"text": "Positions",
+"href": "https://www.barlowforwyo.com/positions"
+},
+{
+"text": "Previous Previous September 17 Hi-Viz Tour",
+"href": "https://www.barlowforwyo.com/events/hi-viz-tour"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.barlowforwyo.com/privacy-policy"
+},
+{
+"text": "Sign UP",
+"href": "https://www.barlowforwyo.com/contact"
+},
+{
+"text": "The Facts",
+"href": "https://www.barlowforwyo.com/setting-the-record-straight"
+},
+{
+"text": "[image: Your Site Title]",
+"href": "https://www.barlowforwyo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EricBarlowRidingForWyoming"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/barlow_wyo/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@barlowforwyo"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Barlowforwyo"
+}
 ]

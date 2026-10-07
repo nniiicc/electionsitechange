@@ -1,7 +1,11 @@
 {
  "description": "Minnesota must maintain a world-class transportation infrastructure to remain competitive in business and to keep our citizens safe.",
  "final_url": "https://robfarnsworth.org/transportation/",
- "paid_for_by": null,
+ "fingerprint": "c3f2add3e346a0a01214ec6efeb4e7f533a6d5a0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Transportation - Rob Farnsworth for State Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025"
+ ]
 }

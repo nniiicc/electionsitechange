@@ -1,21 +1,5 @@
-MARVIN LIM: STATE HOUSE DISTRICT 98
-Democratic Primary Runoff Election: Tue, June 16
-Early Voting:
-- Sat, June 6 – Fri, June 12, 7am-7pm
-- closest location: Lucky Shoals Park (4651 Britt Road) | other locations at https://www.gwinnettcounty.com/government/departments/elections/voting/advance
-Mail-In Voting:
-- request ASAP @ https://www.gwinnettcounty.com/government/departments/elections/voting/absentee
-- completed ballot must be received by Tue, June 16, 7pm @ Gwinnett Voter Registrations & Elections Beauty P.
-Baldwin Building, 455 Grayson Highway, Suite 200, Lawrenceville, GA 30046
-- mail ASAP or drop off: NO drop box at Lucky Shoals Park | closest drop box is Mountain Park Activity Building, 1063 Rockbridge Road, Stone Mountain
-Election Day Voting:
-- 7am-7pm at your assigned precinct (must be in line by 7pm)
-- check your precinct at https://www.mvp.sos.ga.gov
-Military/Overseas Voting:
-- request ballot ASAP via UOCAVA@sos.ga.gov or https://www.fvap.gov/georgia
-- completed ballot must be received by Tue, June 16, 7pm @ Gwinnett Voter Registrations & Elections Beauty P.
-Baldwin Building, 455 Grayson Highway, Suite 200, Lawrenceville, GA
-Sample Ballot & Voter Guide:
-- check your sample ballot @ https://www.mvp.sos.ga.gov
-- for my voter guide, go to https://marvinlimforga.com/26voterguide
-AM I IN HD 98?
+top of page EN ESPAÑOL BẰNG TIẾNG VIỆT FIND RESOURCES RECURSOS TÀI NGUYÊN 리소스 목록 CONTACT US | SIGN UP FOR UPDATES MARVIN LIM: STATE HOUSE DISTRICT 98 Democratic Primary Runoff Election: Tue, June 16 Early Voting: Sat, June 6 – Fri, June 12, 7am-7pm closest location: Lucky Shoals Park (4651 Britt Road) | other locations at https://www.gwinnettcounty.com/government/departments/elections/voting/advance Mail-In Voting: request ASAP @ https://www.gwinnettcounty.com/government/departments/elections/voting/absentee completed ballot must be received by Tue, June 16, 7pm @ Gwinnett Voter Registrations & Elections Beauty P.
+Baldwin Building, 455 Grayson Highway, Suite 200, Lawrenceville, GA 30046 mail ASAP or drop off: NO drop box at Lucky Shoals Park | closest drop box is Mountain Park Activity Building, 1063 Rockbridge Road, Stone Mountain ​ Election Day Voting : 7am-7pm at your assigned precinct (must be in line by 7pm) check your precinct at https://www.mvp.sos.ga.gov ​ Military/Overseas Voting : request ballot ASAP via UOCAVA@sos.ga.gov or https://www.fvap.gov/georgia completed ballot must be received by Tue, June 16, 7pm @ Gwinnett Voter Registrations & Elections Beauty P.
+Baldwin Building, 455 Grayson Highway, Suite 200, Lawrenceville, GA Sample Ballot & Voter Guide: check your sample ballot @ https://www.mvp.sos.ga.gov for my voter guide, go to https://marvinlimforga.com/26voterguide ​ AM I IN HD 98? check https://www.legis.ga.gov/find-my-legislator ​​​ HOME ABOUT MARVIN MORE RESOURCES-RECURSOS-TÀI NGUYÊN-리소스 목록 IN THE NEIGHBORHOOD SAFETY DONATE CONTACT US | SIGN UP FOR UPDATES More Use tab to navigate through the menu items.
+HOME ABOUT MARVIN MORE RESOURCES-RECURSOS-TÀI NGUYÊN-리소스 목록 IN THE NEIGHBORHOOD COVID-19 DONATE CONTACT US | SIGN UP FOR UPDATES More Use tab to navigate through the menu items.
+FOR NEWS AND UPDATES: Paid for by Friends of Marvin Lim, Inc. (d/b/a Marvin Lim for GA) bottom of page

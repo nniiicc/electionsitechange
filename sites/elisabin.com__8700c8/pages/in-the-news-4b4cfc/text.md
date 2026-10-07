@@ -1,14 +1,10 @@
-top of page
-Latest News
-July 21, 2026
-New Haven Independent
-June 30, 2026
-New Haven Independent
-June 23, 2026
-New Haven Register
-Paid for by Friends of Eli Sabin, Jen Quaye-Hudson, Treasurer.
+top of page Home Vote for Eli My Story Priorities Record Endorsements In the News More...
+Use tab to navigate through the menu items.
+VOLUNTEER NEW: My Vision For Supporting Our Public Schools Read my recent plans here Latest News August 10th, 2026 Sabin Touts Support From 30 Dem Ward Committee Members New Haven Independent August 7th, 2026 Opinion: Why I'm Running for State Rep New Haven Independent August 7th, 2026 Opinion: A Vision For Our Public Schools New Haven Independent August 3rd, 2026 Sabin Pitches $10M "Constitutional Rights Defense Fund" New Haven Independent July 29, 2026 More School Funding?
+Yes, And...
+New Haven Independent July 29, 2026 Candidates Blunt On Cannabiz Letdowns New Haven Independent July 29, 2026 92nd District Debate Tackles Experience Vs.
+Change New Haven Independent July 21, 2026 Sabin Pitches "Parking Cash-Out," Traffic Calming on Transpo Policy Walk New Haven Independent July 20, 2026 Opinion: I've knocked on 4,000 doors.
+We need more urgency to bring down the cost of living CT Mirror July 14, 2026 92nd District Debate Scheduled; Questions Wanted New Haven Independent June 30, 2026 State Rep Candidates Tackle School, Housing Barriers New Haven Independent June 30, 2026 Sabin Pitches Condo Conversions, "Just Cause Protections to Lower Cost of Living New Haven Independent June 23, 2026 Elicker Endorses Sabin New Haven Independent June 23, 2026 New Haven Mayor Justin Elicker breaks from city Democrats, endorses Sabin for state representative New Haven Register May 28, 2026 Sabin Supporters Sign Petitions In The Park New Haven Independent Apr 20, 2026 Sabin Wins Ward 26 Endorsement New Haven Independent Apr 17, 2026 Sabin Hears Housing Stress On Edgewood Doors New Haven Independent Mar 12, 2026 Sabin Campaign Walks The Hill New Haven Independent Feb 6, 2026 New Haven House primary tests Democrats’ appetite for change News 8 WTNH Feb 3, 2026 Sabin Sees Lane For Change New Haven Independent Radio Paid for by Friends of Eli Sabin, Jen Quaye-Hudson, Treasurer.
 Ina Silverman, Deputy Treasurer.
 Approved by Eli Sabin.
-Reach out anytime at eli@elisabin.com or 203-980-0335
-View our privacy policy here.
-bottom of page
+Reach out anytime at eli@elisabin.com or 203-980-0335 ​ View our privacy policy here . bottom of page

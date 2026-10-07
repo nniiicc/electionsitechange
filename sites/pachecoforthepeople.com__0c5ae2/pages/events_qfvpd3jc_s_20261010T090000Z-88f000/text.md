@@ -1,10 +1,1 @@
-Campaign Stand Out
-Time
-Saturday, Oct 10, 2026
-9:00 AM – 10:30 AM
-Location
-Fire Station 9 , New Bedford, MA, 02745
-About this event
-Location
-Fire Station 9
-New Bedford, MA 02745
+Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Events / Campaign Stand Out Campaign Stand Out Time Saturday, Oct 10, 2026 9:00 AM – 10:30 AM Location Fire Station 9 , New Bedford, MA, 02745 About this event Location Fire Station 9 New Bedford, MA 02745 Get Driving Directions Add to calendar Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

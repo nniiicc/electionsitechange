@@ -1,9 +1,14 @@
-Endorsements
-EMILY's List, the nation's largest resource for electing Democratic women, endorsed Deirdre McEachern in her race for New Hampshire State House (Carroll 6).
+0 Skip to Content Meet Deirdre Why I'm Running Issues Strong Public Schools Reasonable Taxes Housing within Reach Protect Our Land & Lakes Support Business & Infrastructure Endorsements Endorsements Testimonials News Contact Donate Open Menu Close Menu Meet Deirdre Why I'm Running Issues Strong Public Schools Reasonable Taxes Housing within Reach Protect Our Land & Lakes Support Business & Infrastructure Endorsements Endorsements Testimonials News Contact Donate Open Menu Close Menu Meet Deirdre Why I'm Running Folder: Issues Back Strong Public Schools Reasonable Taxes Housing within Reach Protect Our Land & Lakes Support Business & Infrastructure Folder: Endorsements Back Endorsements Testimonials News Contact Donate Endorsements EMILY's List, the nation's largest resource for electing Democratic women, endorsed Deirdre McEachern in her race for New Hampshire State House (Carroll 6).
 She's one of 16 Democratic women named across the state's most critical flip opportunities this cycle, a strong signal of momentum and outside support heading into the November general election.
-350NH Action has endorsed Deirdre McEachern for the 2026 election, recognizing her commitment to renewable energy, climate justice, and affordable energy solutions for New Hampshire families.
-We are honored to share that Deirdre’s campaign has been endorsed by the American Federation of Teachers!
+Read More 350NH Action has endorsed Deirdre McEachern for the 2026 election, recognizing her commitment to renewable energy, climate justice, and affordable energy solutions for New Hampshire families.
+Read More We are honored to share that Deirdre’s campaign has been endorsed by the American Federation of Teachers!
 As a dedicated advocate for public education, Deirdre is truly grateful to receive their support.
-Deirdre has received the endorsement of Rights & Democracy New Hampshire, an organization working to protect fundamental rights, strengthen democracy, and build thriving communities across the Granite State.
-NHYM Action Fund has endorsed Deirdre McEachern in the 2026 election, recognizing her commitment to younger generations and responsive, community-centered leadership.
+Read More Deirdre has received the endorsement of Rights & Democracy New Hampshire, an organization working to protect fundamental rights, strengthen democracy, and build thriving communities across the Granite State.
+Read More NHYM Action Fund has endorsed Deirdre McEachern in the 2026 election, recognizing her commitment to younger generations and responsive, community-centered leadership.
 Deirdre McEachern made Steve Marchand's first-round cut of ten (out of roughly 50 planned) 2026 NH House endorsements, with Marchand citing her education, entrepreneurial, and civic-life background as a strong fit for the district.
+Read More The weathered pilings along our shoreline remind us of what makes our communities strong.
+Each stands on its own, but bound together, they are strong enough to weather the storms and steady enough to meet changing waters.
+That same strength comes from neighbors working together—listening to one another, finding common ground, and remaining firmly anchored in the values we share.
+Deirdre McEachern for NH State Rep Proudly endorsed by: © Deirdre McEachern.
+All rights reserved.
+Paid for by the Committee to Elect Deirdre McEachern, Carolyn Sundquist, Treasurer, PO Box 322, Wolfeboro, NH 03894.

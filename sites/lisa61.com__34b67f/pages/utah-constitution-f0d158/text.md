@@ -1,25 +1,6 @@
-Article I Declaration of Rights
-Article II State Boundaries
-Article III Ordinance
-Article IV Elections and Right of Suffrage
-Article V Distribution of Powers
-Article VI Legislative Department
-Article VII Executive Department
-Article VIII Judicial Department
-Article IX Congressional and Legislative Apportionment
-Article X Education
-Article XI Local Governments
-Article XII.
-Corporations
-Article XIII Revenue and Taxation
-Article XIV Public Debt
-Article XV Militia
-Article XVI Labor
-Article XVII Water Rights
-Article XVIII Forestry
-Article XXArticle XX Public Lands
-Article XXII Miscellaneous
-Article XXIII Amendment and Revisions
-Article XXIV Schedule
-Paid for by Lisa Shepherd for State House
-Utah House District 61
+Home About Lisa Why Lisa?
+Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy More Home About Lisa Why Lisa?
+Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy Sign in Account Signed in filler@godaddy.com Account Sign out Signed in filler@godaddy.com Home About Lisa Why Lisa?
+Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy Account Account Sign out Sign in Account Lisa 61 Utah Constitution Preamble Article I Declaration of Rights Article II State Boundaries Article III Ordinance Article IV Elections and Right of Suffrage Article V Distribution of Powers Article VI Legislative Department Article VII Executive Department Article VIII Judicial Department Article IX Congressional and Legislative Apportionment Article X Education Article XI Local Governments Article XII.
+Corporations Article XIII Revenue and Taxation Article XIV Public Debt Article XV Militia Article XVI Labor Article XVII Water Rights Article XVIII Forestry Article XX Article XX Public Lands Article XXII Miscellaneous Article XXIII Amendment and Revisions Article XXIV Schedule Volunteer Contact Privacy Policy Convention Speech Paid for by Lisa Shepherd for State House Utah House District 61 801-787-8211 Copyright © # Lisa61 - All Rights Reserved.
+Powered by Thank YOU for the honor and privilege to serve!

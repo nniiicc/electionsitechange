@@ -1,9 +1,38 @@
 [
-"https://facebook.com/GregWimsD39",
-"https://gregwims.com/",
-"https://gregwims.com/contact",
-"https://gregwims.com/donate",
-"https://gregwims.com/issues",
-"https://gregwims.com/meet-greg",
-"https://instagram.com/gregwimsd39"
+{
+"text": "Contact",
+"href": "https://www.gregwims.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.gregwims.com/donate"
+},
+{
+"text": "Follow Greg on Facebook",
+"href": "https://www.facebook.com/GregWimsD39/"
+},
+{
+"text": "Home",
+"href": "https://www.gregwims.com"
+},
+{
+"text": "Issues",
+"href": "https://www.gregwims.com/issues"
+},
+{
+"text": "Legislation & Issues",
+"href": "https://www.gregwims.com/issues"
+},
+{
+"text": "Meet Greg",
+"href": "https://www.gregwims.com/meet-greg"
+},
+{
+"text": "[image: Greg Wims Facebook Page]",
+"href": "https://www.facebook.com/GregWimsD39/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/gregwimsd39"
+}
 ]

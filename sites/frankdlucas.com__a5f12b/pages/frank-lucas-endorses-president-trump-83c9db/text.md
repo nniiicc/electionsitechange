@@ -1,6 +1,8 @@
-Today, Congressman Frank Lucas endorsed President Donald Trump’s campaign for U.S.
-President:
-“President Trump will stop illegal immigration, end runaway inflation and roll back Joe Biden’s disastrous, ideological assault on Oklahoma’s values.
-I’m proud to endorse him and look forward to working with him to deliver for Oklahoma.”
-Frank Lucas is a product of common-sense Oklahoma values and is a conservative voice of reason in Washington.
+Skip to content Frank Lucas ☰ About Frank Issues The Latest Press Packet Contact Donate X About Frank Issues The Latest Press Packet Contact Donate January 11, 2024 Frank Lucas Endorses President Trump Today, Congressman Frank Lucas endorsed President Donald Trump’s campaign for U.S.
+President: “President Trump will stop illegal immigration, end runaway inflation and roll back Joe Biden’s disastrous, ideological assault on Oklahoma’s values.
+I’m proud to endorse him and look forward to working with him to deliver for Oklahoma.” Frank Lucas is a product of common-sense Oklahoma values and is a conservative voice of reason in Washington.
 Frank Lucas is proud to support Oklahoma’s farmers and ranchers, Main Street small businesses, and veterans and will always protect conservative values like Life and the 2nd Amendment.
+Share Post navigation Frank Lucas: ‘Deeply Honored to Earn Overwhelming Support of Oklahoma’s Third District’ Latest News Frank Lucas Endorses President Trump Frank Lucas: ‘Deeply Honored to Earn Overwhelming Support of Oklahoma’s Third District’ Frank Lucas: A Product of Oklahoma Values & Conservative Voice of Reason President Trump Endorses Frank Lucas for Congress Frank Lucas Welcomes President Trump to Oklahoma Lucas presses USDA to clarify federal funding disparities for cattle producers Chip In Today! $25 $50 $100 $150 Other Newsletter Sign Up to Receive Email Updates!
+Email * Phone Zip Code About Frank Issues The Latest Contact Donate PAID FOR BY LUCAS FOR CONGRESS CONTACT TEAM LUCAS TODAY!
+Phone: 405.509.3505 Mail: Lucas for Congress P.O.
+Box 1726 Oklahoma City, OK 73101-1726 Copyright © #

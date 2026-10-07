@@ -1,3 +1,6 @@
-“I fully support Ginny for MN House of Representatives.
+Skip to content Search for: Home Meet Ginny Issues Endorsements Volunteer Community DONATE Search for: Home Meet Ginny Issues Endorsements Volunteer Community DONATE Home Meet Ginny Issues Endorsements Volunteer Community DONATE Endorsements admin 2026-08-04T21:51:32-05:00 “I fully support Ginny for MN House of Representatives.
 She is a wonderful advocate for the people of Plymouth.
-My particular interest is the environment and Ginny is great help in passing legislation for clean air, clean water, clean soil, recycling… and many other issues that have been losing ground in the past 15-20 years.” – Ginny Black, former Plymouth City Council member
+My particular interest is the environment and Ginny is great help in passing legislation for clean air, clean water, clean soil, recycling… and many other issues that have been losing ground in the past 15-20 years.” – Ginny Black, former Plymouth City Council member 2026 Endorsements 2024 Endorsements 2022 Endorsements 2020 Endorsements 2018 Endorsements “As a leader in her community, an advocate for children in the juvenile court system, and mediator, Ginny Klevorn has proven her commitment to the working families of Plymouth.
+She is ready to serve in the Minnesota House of Representatives and has the skills to bring people together to usher in real results,” said Geri Prado, senior director of state and local campaigns at EMILY’s List.
+“EMILY’s List is proud to support Ginny’s campaign for the Minnesota state House.” Prepared and Paid for by Ginny Klevorn for Representative, 4755 Kingsview Ln N, Plymouth, MN 55446.
+Email Facebook X Instagram Page load link Go to Top

@@ -1,14 +1,58 @@
 [
-"https://facebook.com/rneilwalter",
-"https://linkedin.com/in/rneilwalter",
-"https://lp.constantcontactpages.com/su/IaLdhq8/signup",
-"https://rneilwalter.com/",
-"https://rneilwalter.com/_blank",
-"https://rneilwalter.com/about.html",
-"https://rneilwalter.com/cdn-cgi/l/email-protection",
-"https://rneilwalter.com/contact.html",
-"https://rneilwalter.com/experience.html",
-"https://rneilwalter.com/posts.html",
-"https://rneilwalter.com/vote.html",
-"https://youtube.com/user/rneilwalter/featured"
+{
+"text": "ABOUT",
+"href": "https://www.rneilwalter.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://www.rneilwalter.com/contact.html"
+},
+{
+"text": "Experience",
+"href": "https://www.rneilwalter.com/experience.html"
+},
+{
+"text": "Posts",
+"href": "https://www.rneilwalter.com/posts.html"
+},
+{
+"text": "Subscribe to my Newsletter!",
+"href": "https://lp.constantcontactpages.com/su/IaLdhq8/signup"
+},
+{
+"text": "UT 74",
+"href": "https://www.rneilwalter.com/"
+},
+{
+"text": "VOTE",
+"href": "https://www.rneilwalter.com/vote.html"
+},
+{
+"text": "Weebly",
+"href": "https://www.weebly.com/"
+},
+{
+"text": "[email protected]",
+"href": "https://www.rneilwalter.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: R. Neil Walter]",
+"href": "https://www.rneilwalter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/rneilwalter"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/rneilwalter"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/user/rneilwalter/featured"
+},
+{
+"text": "[no text]",
+"href": "mailto:rneilwalter@gmail.com"
+}
 ]

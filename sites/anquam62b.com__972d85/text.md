@@ -1,5 +1,4 @@
-Dear neighbor,
-I am proud to announce my campaign for re-election to the MN State House in District 62B, and I humbly ask for your support for DFL endorsement at precinct caucuses on February 3, 2026.
+0 Skip to Content Meet Anquam Vision Endorsements Join Requesting PCR DONATE Open Menu Close Menu Meet Anquam Vision Endorsements Join Requesting PCR DONATE Open Menu Close Menu Meet Anquam Vision Endorsements Join Requesting PCR DONATE Dear neighbor, I am proud to announce my campaign for re-election to the MN State House in District 62B, and I humbly ask for your support for DFL endorsement at precinct caucuses on February 3, 2026.
 We are truly at a crossroads in our state and our nation.
 The murder of Renee Good in the heart Central Neighborhood in the heart of our district, the murder of Alex Pretti in Whittier Neighborhood, and the federal attacks upon our immigrant neighbors posed the most critical moment in Minneapolis since the murder of George Floyd.
 But what I am seeing in 62B is giving me strength: residents looking out for one another, standing up as one to call out injustice, and building grass-roots power in the face of adversity.
@@ -15,5 +14,7 @@ I know we will find the strength to not only defend our communities on our doors
 I am going to need your support to continue this critical advocacy.
 Please join me in bringing our voices to the MN State Capitol, to make sure we can withstand the headwinds we are up against.
 I am confident that with your support — we will not bend.
-In partnership,
-State Representative Anquam Mahamoud
+In partnership, State Representative Anquam Mahamoud Please join me in bringing our voices to the MN State Capitol, to make sure we can withstand the headwinds we are up against.
+I am confident that with your support — we will not bend.
+Home | Vision | Endorsements | Join email: contact@anquam62b.com DONATE Prepared and paid for by the Friends with Anquam committee, P.O.
+Box 7439 Minneapolis, MN 55407.

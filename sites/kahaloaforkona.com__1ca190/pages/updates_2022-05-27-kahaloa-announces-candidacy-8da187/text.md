@@ -1,5 +1,4 @@
-Kirstin Kahaloa Announces Candidacy For New West Hawaiʻi House Seat
-KONA, HAWAIʻI ISLAND (May 27, 2022) – Community advocate Kirstin Kahaloa is seeking election to West Hawaiʻi’s new District 6 seat in the State House of Representatives representing parts of the area from Kailua to Hōnaunau.
+0 Skip to Content About Experienced Committed Effective ʻOhana Endorsements Issues Agriculture & Food Systems Children & Families Cost of Living Economy Education Environment Health & Wellbeing Infrastructure Updates Donate Contact Open Menu Close Menu About Experienced Committed Effective ʻOhana Endorsements Issues Agriculture & Food Systems Children & Families Cost of Living Economy Education Environment Health & Wellbeing Infrastructure Updates Donate Contact Open Menu Close Menu Folder: About Back Experienced Committed Effective ʻOhana Endorsements Folder: Issues Back Agriculture & Food Systems Children & Families Cost of Living Economy Education Environment Health & Wellbeing Infrastructure Updates Donate Contact Kirstin Kahaloa Announces Candidacy For New West Hawaiʻi House Seat May 27 Written By Ilihia Gionson KONA, HAWAIʻI ISLAND (May 27, 2022) – Community advocate Kirstin Kahaloa is seeking election to West Hawaiʻi’s new District 6 seat in the State House of Representatives representing parts of the area from Kailua to Hōnaunau.
 The new house seat was created in the 2022 reapportionment, meaning there is no incumbent.
 With the addition of this new seat, Hawaiʻi Island is represented at the Legislature by four Senators and eight Representatives.
 “West Hawaiʻi is my home, and I’m ready for the challenge to help create a Hawaiʻi our children can call home with abundant educational and employment opportunities, affordable housing for families, and accessible health care.
@@ -17,4 +16,9 @@ Kahaloa is a member of the Hawaiʻi Community College Chancellor’s Advisory Co
 She is a founding member and past president of Hui ʻOihana, Hawaiʻi Island’s Native Hawaiian Chamber of Commerce.
 Kahaloa lives in Kona with her partner Ilihia Gionson, daughter Kawaipōmaikaʻi, and is a caregiver for her father-in-law Anthony, an Army combat veteran.
 Kahaloa, a democrat, will appear on ballots in Hawaiʻi’s primary election on August 13.
-For more information, email vote@kahaloaforkona.com or visit www.kahaloaforkona.com.
+For more information, email vote@kahaloaforkona.com or visit www.kahaloaforkona.com .
+Ilihia Gionson Previous Previous Join Us At The Kona 4th Of July Picnic!
+EXPERIENCED.
+COMMITTED.
+EFFECTIVE.
+Paid for by Friends of Kirstin Kahaloa – PO Box 655, Kealakekua, Hawaiʻi 96750

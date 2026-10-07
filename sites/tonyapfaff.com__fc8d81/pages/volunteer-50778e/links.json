@@ -1,12 +1,46 @@
 [
-"http://squarespace.com/?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3",
-"https://facebook.com/ElectTonyaPfaff",
-"https://instagram.com/tonya.pfaff.for.indiana",
-"https://secure.actblue.com/donate/tonyapfaff",
-"https://tonyapfaff.com/",
-"https://tonyapfaff.com/about-tonya",
-"https://tonyapfaff.com/contact",
-"https://tonyapfaff.com/platform",
-"https://tonyapfaff.com/volunteer",
-"https://twitter.com/tonyapfaff"
+{
+"text": "About Tonya",
+"href": "https://www.tonyapfaff.com/about-tonya"
+},
+{
+"text": "Contact Us",
+"href": "https://www.tonyapfaff.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tonyapfaff"
+},
+{
+"text": "Home",
+"href": "https://www.tonyapfaff.com/"
+},
+{
+"text": "Platform",
+"href": "https://www.tonyapfaff.com/platform"
+},
+{
+"text": "Squarespace",
+"href": "http://www.squarespace.com?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3"
+},
+{
+"text": "Volunteer",
+"href": "https://www.tonyapfaff.com/volunteer"
+},
+{
+"text": "[image: Tonya Pfaff for State Representative ]",
+"href": "https://www.tonyapfaff.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/tonyapfaff"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectTonyaPfaff/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tonya.pfaff.for.indiana/"
+}
 ]

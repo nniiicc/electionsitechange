@@ -1,5 +1,4 @@
-Meet Owen
-My name is Owen, and I have worked as an activist and an educator for over a decade.
+0 Skip to Content Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Open Menu Close Menu Open Menu Close Menu Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Home Folder: About Back Meet Andy Meet Owen Why We Are Running Campaign Plan Folder: Media Back News Livestream Podcast Folder: Get Involved Back Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Folder: Issues Back Priorities Platform Donate Meet Owen My name is Owen, and I have worked as an activist and an educator for over a decade.
 I believe in systems without hierarchy, especially in learning environments.
 Activism, like adult education, shouldn’t be about trainer and trainee.
 It should focus on creating knowledge and redistributing resources.
@@ -24,14 +23,12 @@ One of the most important skillsets I developed at School of the Americas (SOA) 
 At this time in 2013, I also began teaching English to adult immigrants as an adjunct faculty member in Maryland.
 I see language teaching and popular education as additional means of creating a more just society.
 I have been teaching and advocating ever since.
-Organizing for Peace & Justice
-Since moving to Baltimore in 2014, I have continued teaching, electoral advocacy, and community organizing.
+Organizing for Peace & Justice Since moving to Baltimore in 2014, I have continued teaching, electoral advocacy, and community organizing.
 I worked on a Green House of Delegates campaign in Montgomery County in 2014, a Democratic campaign in 2016, Green campaigns in 2016, 2018, and 2020, and a non-partisan campaign in 2022.
-I was also on organizing core teams that successfully:
-- brought down Confederate monuments and renamed Lee-Jackson space for Harriet Tubman;
-- had Baltimore City formally recognize Indigenous Peoples’ Day in place of Columbus Day;
-- boycotted apartheid-made Sodastream;
-- defeated anti-BDS legislation in Annapolis;
-- and passed multi-partisan legislation awarding equal credit to immigrant college students learning English in Maryland.
+I was also on organizing core teams that successfully: brought down Confederate monuments and renamed Lee-Jackson space for Harriet Tubman; had Baltimore City formally recognize Indigenous Peoples’ Day in place of Columbus Day; boycotted apartheid-made Sodastream; defeated anti-BDS legislation in Annapolis; and passed multi-partisan legislation awarding equal credit to immigrant college students learning English in Maryland.
 Like my grandfather Poppa Abe, I know that true change comes from campaigns that are independent of compromising big money donations of expediency.
 Like him, I will be an independent voice for the little guy as a lieutenant governor candidate.
+Like what you see?
+Join the movement.
+DONATE volunteer Green Party Candidates for Governor & Lt.
+Governor 2026 Send us an email at andy@gogreen2026.com Contact News Press Kit Authority: Campaign Donations for Andy Ellis, Brian Bittner Treasurer

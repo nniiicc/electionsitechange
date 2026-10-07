@@ -1,6 +1,22 @@
 [
-"https://facebook.com/VoteCurrier",
-"https://sec.state.ma.us/WhereDoIVoteMA/bal/MyElectionInfo.aspx",
-"https://sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
-"https://secure.winred.com/currier-committee/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/currier-committee/donate-today"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/bal/MyElectionInfo.aspx"
+},
+{
+"text": "Request Mail Ballot",
+"href": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/VoteCurrier"
+},
+{
+"text": "[no text]",
+"href": "mailto:VoteTrevorCurrier@gmail.com"
+}
 ]

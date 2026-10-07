@@ -1,34 +1,142 @@
 [
-"http://discordapp.com/users/740421692853190677",
-"http://google.com/calendar/event?action=TEMPLATE&text=Illinois+Solidarity+Party+Convention&dates=20260829T200000Z%2F20260830T010000Z&location=15910+Cottage+Grove+Avenue%2C+South+Holland%2C+Illinois%2C+60473%2C+United+States",
-"http://inscapewebdesign.com/",
-"http://maps.google.com/?q=15910+Cottage+Grove+Avenue+South+Holland%2C+Illinois%2C+60473+United+States",
-"https://andcampaign.org/",
-"https://bsky.app/profile/votevickusa.bsky.social",
-"https://christianitytoday.com/writers/chris-butler",
-"https://elections.il.gov/",
-"https://eventbrite.com/e/illinois-solidarity-party-convention-tickets-1999013635596",
-"https://facebook.com/VoteVickUSA",
-"https://ilsolidarity.com/",
-"https://instagram.com/votevick",
-"https://linkedin.com/in/votevickusa",
-"https://reddit.com/user/VoteVick",
-"https://secure.anedot.com/friends-of-mike-vick/votevickusa",
-"https://twitter.com/VoteVickUSA",
-"https://unorthodoxing.com/",
-"https://votevickusa.com/",
-"https://votevickusa.com/cart",
-"https://votevickusa.com/contact",
-"https://votevickusa.com/events",
-"https://votevickusa.com/events/illinois-solidarity-party-convention?format=ical",
-"https://votevickusa.com/events/independent-national-convention",
-"https://votevickusa.com/home",
-"https://votevickusa.com/meet-gary",
-"https://votevickusa.com/meet-mike",
-"https://votevickusa.com/news",
-"https://votevickusa.com/priorities",
-"https://votevickusa.com/values",
-"https://votevickusa.com/volunteer",
-"https://votevickusa.store/",
-"https://youtube.com/@votevickusa"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=15910+cottage+grove+avenue+south+holland%2C+illinois%2C+60473+united+states"
+},
+{
+"text": "0",
+"href": "https://www.votevickusa.com/cart"
+},
+{
+"text": "AND Campaign",
+"href": "https://www.andcampaign.org/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.votevickusa.com/events"
+},
+{
+"text": "CONTRIBUTE!",
+"href": "https://secure.anedot.com/friends-of-mike-vick/votevickusa"
+},
+{
+"text": "Contact",
+"href": "https://www.votevickusa.com/contact"
+},
+{
+"text": "Events",
+"href": "https://www.votevickusa.com/events"
+},
+{
+"text": "Follow Us",
+"href": "https://votevickusa.store"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Illinois+Solidarity+Party+Convention&dates=20260829T200000Z%2F20260830T010000Z&location=15910+Cottage+Grove+Avenue%2C+South+Holland%2C+Illinois%2C+60473%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.votevickusa.com/events/illinois-solidarity-party-convention?format=ical"
+},
+{
+"text": "Illinois Solidarity Party",
+"href": "https://www.ilsolidarity.com/"
+},
+{
+"text": "Inscape",
+"href": "http://inscapewebdesign.com"
+},
+{
+"text": "Meet Gary",
+"href": "https://www.votevickusa.com/meet-gary"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.votevickusa.com/meet-mike"
+},
+{
+"text": "News",
+"href": "https://www.votevickusa.com/news"
+},
+{
+"text": "Next Next September 23 Independent National Convention",
+"href": "https://www.votevickusa.com/events/independent-national-convention"
+},
+{
+"text": "Our Party",
+"href": "https://www.ilsolidarity.com/"
+},
+{
+"text": "PODCAST",
+"href": "https://www.unorthodoxing.com/"
+},
+{
+"text": "Pastor Chris Butler",
+"href": "https://www.christianitytoday.com/writers/chris-butler/"
+},
+{
+"text": "Priorities",
+"href": "https://www.votevickusa.com/priorities"
+},
+{
+"text": "RSVP!",
+"href": "https://www.eventbrite.com/e/illinois-solidarity-party-convention-tickets-1999013635596"
+},
+{
+"text": "Values",
+"href": "https://www.votevickusa.com/values"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votevickusa.com/volunteer"
+},
+{
+"text": "VoteVickUSA.com",
+"href": "https://www.votevickusa.com/home"
+},
+{
+"text": "[image: VoteVickUSA]",
+"href": "https://www.votevickusa.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.discordapp.com/users/740421692853190677"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/votevickusa.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/VoteVickUSA"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteVickUSA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votevick/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/votevickusa/"
+},
+{
+"text": "[no text]",
+"href": "https://www.reddit.com/user/VoteVick/"
+},
+{
+"text": "[no text]",
+"href": "https://www.unorthodoxing.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@votevickusa"
+},
+{
+"text": "website",
+"href": "https://www.elections.il.gov"
+}
 ]

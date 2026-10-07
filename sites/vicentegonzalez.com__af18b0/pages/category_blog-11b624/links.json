@@ -1,18 +1,86 @@
 [
-"https://facebook.com/votevicente",
-"https://instagram.com/votevicente",
-"https://secure.actblue.com/donate/vicente-website-2022",
-"https://secure.actblue.com/donate/vicente-website-2022?amount=10",
-"https://twitter.com/votevicente",
-"https://vicentegonzalez.com/",
-"https://vicentegonzalez.com/accomplishments",
-"https://vicentegonzalez.com/community-town-hall-highlights-healthcare-and-education-concerns",
-"https://vicentegonzalez.com/get-involved",
-"https://vicentegonzalez.com/issues",
-"https://vicentegonzalez.com/media",
-"https://vicentegonzalez.com/meet-vicente",
-"https://vicentegonzalez.com/news",
-"https://vicentegonzalez.com/tuloso-midway-junior-high-school-groundbreaking",
-"https://vicentegonzalez.com/vicente-gonzalez-addresses-local-leaders-on-economic-priorities",
-"https://vicentegonzalez.com/vicente-gonzalez-meets-with-veterans-and-local-families"
+{
+"text": "Accomplishments",
+"href": "https://vicentegonzalez.com/accomplishments/"
+},
+{
+"text": "Community Town Hall Highlights Healthcare and Education Concerns",
+"href": "https://vicentegonzalez.com/community-town-hall-highlights-healthcare-and-education-concerns/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vicente-website-2022"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/vicente-website-2022?amount=10"
+},
+{
+"text": "Get Involved",
+"href": "https://vicentegonzalez.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://vicentegonzalez.com/"
+},
+{
+"text": "Issues",
+"href": "https://vicentegonzalez.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://vicentegonzalez.com/media/"
+},
+{
+"text": "Meet Vicente",
+"href": "https://vicentegonzalez.com/meet-vicente/"
+},
+{
+"text": "News",
+"href": "https://vicentegonzalez.com/news/"
+},
+{
+"text": "Tuloso-Midway Junior High School Groundbreaking",
+"href": "https://vicentegonzalez.com/tuloso-midway-junior-high-school-groundbreaking/"
+},
+{
+"text": "Vicente Gonzalez Addresses Local Leaders on Economic Priorities",
+"href": "https://vicentegonzalez.com/vicente-gonzalez-addresses-local-leaders-on-economic-priorities/"
+},
+{
+"text": "Vicente Gonzalez Meets with Veterans and Local Families",
+"href": "https://vicentegonzalez.com/vicente-gonzalez-meets-with-veterans-and-local-families/"
+},
+{
+"text": "[image]",
+"href": "https://vicentegonzalez.com"
+},
+{
+"text": "[image]",
+"href": "https://vicentegonzalez.com/community-town-hall-highlights-healthcare-and-education-concerns/"
+},
+{
+"text": "[image]",
+"href": "https://vicentegonzalez.com/tuloso-midway-junior-high-school-groundbreaking/"
+},
+{
+"text": "[image]",
+"href": "https://vicentegonzalez.com/vicente-gonzalez-addresses-local-leaders-on-economic-priorities/"
+},
+{
+"text": "[image]",
+"href": "https://vicentegonzalez.com/vicente-gonzalez-meets-with-veterans-and-local-families/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/votevicente"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votevicente"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votevicente/"
+}
 ]

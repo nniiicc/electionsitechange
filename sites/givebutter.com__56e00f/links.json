@@ -1,4 +1,10 @@
 [
-"https://annforrep.com/",
-"https://givebutter.com/"
+{
+"text": "[image: Ann Moloney for State Representative logo]",
+"href": "https://annforrep.com"
+},
+{
+"text": "[image] Powered by Givebutter",
+"href": "https://givebutter.com"
+}
 ]

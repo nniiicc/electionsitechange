@@ -1,23 +1,110 @@
 [
-"https://act.campaigndeputy.com/LDPVounteerSignup",
-"https://act.dccc.org/a/whatcanyoudo",
-"https://bsky.app/profile/morganmcgarvey.bsky.social",
-"https://congress.gov/members/find-your-member",
-"https://dccc.org/",
-"https://docs.google.com/forms/d/e/1FAIpQLSd3toiayzN4KPEq0E0SnIAUyzdK8F6RdpaI8IEb6RKqQom8Vw/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSd3toiayzN4KPEq0E0SnIAUyzdK8F6RdpaI8IEb6RKqQom8Vw/viewform?usp=preview",
-"https://docs.google.com/forms/d/e/1FAIpQLSf7deWiHOChPCI650P7gXwtOcKDgTuX3hB4j-cZER3_7lhZmg/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSfoazahnAmjrQ8kWUusPBNQiVVeegEhseWWulcOVPSoSgERoA/viewform",
-"https://facebook.com/MorganMcGarveyForCongress",
-"https://instagram.com/morgan_mcgarvey",
-"https://morganmcgarvey.com/",
-"https://morganmcgarvey.com/endorsements",
-"https://morganmcgarvey.com/media",
-"https://morganmcgarvey.com/meet-morgan-mcgarvey",
-"https://morganmcgarvey.com/privacy-policy",
-"https://morganmcgarvey.com/take-action",
-"https://morganmcgarvey.com/terms-of-service",
-"https://secure.actblue.com/donate/bs_mcg_web_fr",
-"https://tiktok.com/@morgan_mcgarvey",
-"https://twitter.com/MorganMcGarvey"
+{
+"text": "Donate",
+"href": "https://act.dccc.org/a/whatcanyoudo"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bs_mcg_web_fr"
+},
+{
+"text": "Email Us",
+"href": "mailto:info@morganmcgarvey.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.morganmcgarvey.com/endorsements"
+},
+{
+"text": "Find your Representative",
+"href": "https://www.congress.gov/members/find-your-member"
+},
+{
+"text": "Home",
+"href": "https://www.morganmcgarvey.com/"
+},
+{
+"text": "Media",
+"href": "https://www.morganmcgarvey.com/media"
+},
+{
+"text": "Meet Morgan",
+"href": "https://www.morganmcgarvey.com/meet-morgan-mcgarvey"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:acsoenksen@gmail.com?subject=Press+Inquiry"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.morganmcgarvey.com/privacy-policy"
+},
+{
+"text": "Share Your Story",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfoazahnAmjrQ8kWUusPBNQiVVeegEhseWWulcOVPSoSgERoA/viewform"
+},
+{
+"text": "Sign up",
+"href": "https://act.campaigndeputy.com/LDPVounteerSignup"
+},
+{
+"text": "Sign up",
+"href": "https://dccc.org/"
+},
+{
+"text": "Sign up",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd3toiayzN4KPEq0E0SnIAUyzdK8F6RdpaI8IEb6RKqQom8Vw/viewform"
+},
+{
+"text": "Sign up",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd3toiayzN4KPEq0E0SnIAUyzdK8F6RdpaI8IEb6RKqQom8Vw/viewform?usp=preview"
+},
+{
+"text": "Sign up",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf7deWiHOChPCI650P7gXwtOcKDgTuX3hB4j-cZER3_7lhZmg/viewform"
+},
+{
+"text": "Take Action",
+"href": "https://www.morganmcgarvey.com/take-action"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.morganmcgarvey.com/terms-of-service"
+},
+{
+"text": "Volunteer with Morgan McGarvey for Congress",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd3toiayzN4KPEq0E0SnIAUyzdK8F6RdpaI8IEb6RKqQom8Vw/viewform"
+},
+{
+"text": "[image: Morgan McGarvey for Congress logo white]",
+"href": "https://www.morganmcgarvey.com/"
+},
+{
+"text": "[image: Morgan McGarvey logo blue]",
+"href": "https://www.morganmcgarvey.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/morganmcgarvey.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@morgan_mcgarvey"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MorganMcGarvey"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MorganMcGarveyForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/morgan_mcgarvey/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@morgan_mcgarvey"
+}
 ]

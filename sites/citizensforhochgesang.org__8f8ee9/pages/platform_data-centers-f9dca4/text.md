@@ -1,6 +1,4 @@
-Priority Detail
-Data Centers & Your Electric Bill
-I'm not against data centers.
+Skip to content Brad Hochgesang for State Senate Donate Join Us Home / Platform / Data Centers ← Back to About & Priorities Priority Detail Data Centers & Your Electric Bill I'm not against data centers.
 I build software for a living.
 I'm against you being handed the bill.
 Pay your own way in full, bring more power than you take, or build somewhere else.
@@ -25,4 +23,11 @@ After regulators approved an $80 million annual increase, average bills rose abo
 Adding massive new loads to that system without protections would pour gasoline on the fire.
 Three of the nation’s largest coal plants sit in our district: Gibson, Rockport in Spencer County, and Petersburg in Pike County.
 The workers there deserve a real transition plan, and the ratepayers deserve honest oversight: real scrutiny in every rate case, disclosure of executive compensation, and protection from paying for dead investments.
-Related links
+Related links Read: Your Electric Bill Is Not an Accident Brad Hochgesang Do the homework.
+Ask the people.
+Fight for their answer.
+I intend to prove it.
+Contact: [email protected] Explore News Our District Events About & Priorities The Record Media & Press Shirts & Signs Support Contact Us Stay in the loop Campaign updates, straight from Brad.
+Email address ZIP code Sign me up Prefer to chip in?
+Choose how to donate.
+Follow us on social media Facebook YouTube Instagram Paid for by Citizens For Hochgesang

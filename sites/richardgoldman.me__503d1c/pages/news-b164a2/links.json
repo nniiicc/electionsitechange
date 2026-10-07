@@ -1,26 +1,178 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://cookieadmin.net/",
-"https://richardgoldman.me/",
-"https://richardgoldman.me/about",
-"https://richardgoldman.me/contact",
-"https://richardgoldman.me/endorsements",
-"https://richardgoldman.me/equalitymaine-pac-endorsement",
-"https://richardgoldman.me/how-to-vote",
-"https://richardgoldman.me/issues",
-"https://richardgoldman.me/issues/farms-small-business",
-"https://richardgoldman.me/issues/housing",
-"https://richardgoldman.me/issues/property-taxes",
-"https://richardgoldman.me/issues/rural-healthcare",
-"https://richardgoldman.me/lcn-goldman-reduce-financial-pressure-on-towns",
-"https://richardgoldman.me/lcn-house-district-53-race-coverage",
-"https://richardgoldman.me/maine-afl-cio-endorses-richard-goldman-for-house-district-53",
-"https://richardgoldman.me/maine-conservation-voters-endorsement",
-"https://richardgoldman.me/maine-education-association-endorsement",
-"https://richardgoldman.me/msea-seiu-1989-endorsement",
-"https://richardgoldman.me/news",
-"https://richardgoldman.me/planned-parenthood-maine-action-fund-pac-endorsement",
-"https://richardgoldman.me/privacy-policy",
-"https://richardgoldman.me/volunteer",
-"https://richardgoldman.me/wabanaki-alliance-endorsement"
+{
+"text": "About",
+"href": "https://richardgoldman.me/about/"
+},
+{
+"text": "Contact",
+"href": "https://richardgoldman.me/contact/"
+},
+{
+"text": "Corrie@richardgoldman.me",
+"href": "mailto:Corrie@richardgoldman.me"
+},
+{
+"text": "Donate",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Endorsements",
+"href": "https://richardgoldman.me/endorsements/"
+},
+{
+"text": "EqualityMaine PAC endorses Richard Goldman",
+"href": "https://richardgoldman.me/equalitymaine-pac-endorsement/"
+},
+{
+"text": "Family Farms & Small Business",
+"href": "https://richardgoldman.me/issues/farms-small-business/"
+},
+{
+"text": "Housing & Affordability",
+"href": "https://richardgoldman.me/issues/housing/"
+},
+{
+"text": "How to Vote",
+"href": "https://richardgoldman.me/how-to-vote/"
+},
+{
+"text": "In the news: Goldman wants to reduce financial pressure on towns, individuals",
+"href": "https://richardgoldman.me/lcn-goldman-reduce-financial-pressure-on-towns/"
+},
+{
+"text": "In the news: The Lincoln County News profiles the House District 53 race",
+"href": "https://richardgoldman.me/lcn-house-district-53-race-coverage/"
+},
+{
+"text": "Issues",
+"href": "https://richardgoldman.me/issues/"
+},
+{
+"text": "Maine AFL-CIO Endorses Richard Goldman for House District 53",
+"href": "https://richardgoldman.me/maine-afl-cio-endorses-richard-goldman-for-house-district-53/"
+},
+{
+"text": "Maine Conservation Voters Action Fund endorses Richard Goldman",
+"href": "https://richardgoldman.me/maine-conservation-voters-endorsement/"
+},
+{
+"text": "Maine Education Association endorses Richard Goldman",
+"href": "https://richardgoldman.me/maine-education-association-endorsement/"
+},
+{
+"text": "Maine Service Employees Association endorses Richard Goldman",
+"href": "https://richardgoldman.me/msea-seiu-1989-endorsement/"
+},
+{
+"text": "News",
+"href": "https://richardgoldman.me/news/"
+},
+{
+"text": "Planned Parenthood Maine Action Fund PAC endorses Richard Goldman",
+"href": "https://richardgoldman.me/planned-parenthood-maine-action-fund-pac-endorsement/"
+},
+{
+"text": "Powered by",
+"href": "https://cookieadmin.net/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://richardgoldman.me/privacy-policy/"
+},
+{
+"text": "Property Tax Relief",
+"href": "https://richardgoldman.me/issues/property-taxes/"
+},
+{
+"text": "Read more",
+"href": "https://richardgoldman.me/equalitymaine-pac-endorsement/"
+},
+{
+"text": "Read more",
+"href": "https://richardgoldman.me/lcn-goldman-reduce-financial-pressure-on-towns/"
+},
+{
+"text": "Read more",
+"href": "https://richardgoldman.me/lcn-house-district-53-race-coverage/"
+},
+{
+"text": "Read more",
+"href": "https://richardgoldman.me/maine-afl-cio-endorses-richard-goldman-for-house-district-53/"
+},
+{
+"text": "Read more",
+"href": "https://richardgoldman.me/maine-conservation-voters-endorsement/"
+},
+{
+"text": "Read more",
+"href": "https://richardgoldman.me/maine-education-association-endorsement/"
+},
+{
+"text": "Read more",
+"href": "https://richardgoldman.me/msea-seiu-1989-endorsement/"
+},
+{
+"text": "Read more",
+"href": "https://richardgoldman.me/planned-parenthood-maine-action-fund-pac-endorsement/"
+},
+{
+"text": "Read more",
+"href": "https://richardgoldman.me/wabanaki-alliance-endorsement/"
+},
+{
+"text": "Richard Goldman for Maine",
+"href": "https://richardgoldman.me/"
+},
+{
+"text": "Richard Goldman for Maine House 53",
+"href": "https://richardgoldman.me"
+},
+{
+"text": "Rural Healthcare",
+"href": "https://richardgoldman.me/issues/rural-healthcare/"
+},
+{
+"text": "Volunteer",
+"href": "https://richardgoldman.me/volunteer/"
+},
+{
+"text": "Wabanaki Alliance endorses Richard Goldman",
+"href": "https://richardgoldman.me/wabanaki-alliance-endorsement/"
+},
+{
+"text": "[image: EqualityMaine PAC endorses Richard Goldman]",
+"href": "https://richardgoldman.me/equalitymaine-pac-endorsement/"
+},
+{
+"text": "[image: In the news: Goldman wants to reduce financial pressure on towns, individuals]",
+"href": "https://richardgoldman.me/lcn-goldman-reduce-financial-pressure-on-towns/"
+},
+{
+"text": "[image: In the news: The Lincoln County News profiles the House District 53 race]",
+"href": "https://richardgoldman.me/lcn-house-district-53-race-coverage/"
+},
+{
+"text": "[image: Maine AFL-CIO Endorses Richard Goldman for House District 53]",
+"href": "https://richardgoldman.me/maine-afl-cio-endorses-richard-goldman-for-house-district-53/"
+},
+{
+"text": "[image: Maine Conservation Voters Action Fund endorses Richard Goldman]",
+"href": "https://richardgoldman.me/maine-conservation-voters-endorsement/"
+},
+{
+"text": "[image: Maine Education Association endorses Richard Goldman]",
+"href": "https://richardgoldman.me/maine-education-association-endorsement/"
+},
+{
+"text": "[image: Maine Service Employees Association endorses Richard Goldman]",
+"href": "https://richardgoldman.me/msea-seiu-1989-endorsement/"
+},
+{
+"text": "[image: Planned Parenthood Maine Action Fund PAC endorses Richard Goldman]",
+"href": "https://richardgoldman.me/planned-parenthood-maine-action-fund-pac-endorsement/"
+},
+{
+"text": "[image: Wabanaki Alliance endorses Richard Goldman]",
+"href": "https://richardgoldman.me/wabanaki-alliance-endorsement/"
+}
 ]

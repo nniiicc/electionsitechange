@@ -1,10 +1,74 @@
 [
-"https://facebook.com/",
-"https://gailforgeorgia.com/",
-"https://gailforgeorgia.com/about",
-"https://gailforgeorgia.com/get-involved",
-"https://instagram.com/",
-"https://legis.ga.gov/api/document/docs/default-source/bios/davenport-gail-10.pdf",
-"https://paypal.com/donate?token=nEaPXvdFB7aLJhCMNMM_P8ruwg-e24klCJwO49KsSzx4zcMUAZUlufMu605EIKoRqvXjtP8DJUnOvdY1&locale.x=en_US",
-"https://twitter.com/"
+{
+"text": "About",
+"href": "https://gailforgeorgia.com/about"
+},
+{
+"text": "About Gail",
+"href": "https://gailforgeorgia.com/about"
+},
+{
+"text": "Action Center",
+"href": "https://gailforgeorgia.com/"
+},
+{
+"text": "Committee to Elect Gail Davenport",
+"href": "https://gailforgeorgia.com/"
+},
+{
+"text": "Contact",
+"href": "https://gailforgeorgia.com/"
+},
+{
+"text": "District Map",
+"href": "https://gailforgeorgia.com/"
+},
+{
+"text": "Donate",
+"href": "https://gailforgeorgia.com/"
+},
+{
+"text": "Donate Here",
+"href": "https://www.paypal.com/donate?token=nEaPXvdFB7aLJhCMNMM_P8ruwg-e24klCJwO49KsSzx4zcMUAZUlufMu605EIKoRqvXjtP8DJUnOvdY1&locale.x=en_US"
+},
+{
+"text": "Gail Davenport for Georgia",
+"href": "https://gailforgeorgia.com/"
+},
+{
+"text": "Get familiar with her record of success",
+"href": "https://www.legis.ga.gov/api/document/docs/default-source/bios/davenport-gail-10.pdf"
+},
+{
+"text": "Highlights",
+"href": "https://gailforgeorgia.com/"
+},
+{
+"text": "Home",
+"href": "https://gailforgeorgia.com/#hero"
+},
+{
+"text": "Privacy Policy",
+"href": "https://gailforgeorgia.com/"
+},
+{
+"text": "Terms of Service",
+"href": "https://gailforgeorgia.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://gailforgeorgia.com/get-involved"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com"
+}
 ]

@@ -1,13 +1,50 @@
 [
-"https://dropbox.com/scl/fo/67ae8yxe2cjqt68hzouf5/AH_ZEVDo-Jarq1ToNr8TFFw?rlkey=skwf7s3z2hj2xkl6jwpkhgl0z&st=dzhh49u0&e=2&dl=0",
-"https://f.io/PMpqMteX",
-"https://facebook.com/GerryPollet",
-"https://gerrypollet.com/",
-"https://gerrypollet.com/about",
-"https://gerrypollet.com/endorsements",
-"https://gerrypollet.com/issues",
-"https://gerrypollet.com/media",
-"https://gerrypollet.com/news-1",
-"https://instagram.com/electpollet",
-"https://secure.actblue.com/donate/gerry-pollet-2"
+{
+"text": "About Gerry",
+"href": "https://www.gerrypollet.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/gerry-pollet-2"
+},
+{
+"text": "Download b-roll stringout",
+"href": "https://f.io/PMpqMteX"
+},
+{
+"text": "Download high resolution photos",
+"href": "https://www.dropbox.com/scl/fo/67ae8yxe2cjqt68hzouf5/AH_ZEVDo-Jarq1ToNr8TFFw?rlkey=skwf7s3z2hj2xkl6jwpkhgl0z&st=dzhh49u0&e=2&dl=0"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gerrypollet.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.gerrypollet.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.gerrypollet.com/media"
+},
+{
+"text": "News",
+"href": "https://www.gerrypollet.com/news-1"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/GerryPollet"
+},
+{
+"text": "[image: GerryPollet-Logo2.png]",
+"href": "https://www.gerrypollet.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electpollet/"
+},
+{
+"text": "info@gerrypollet.com",
+"href": "mailto:info@gerrypollet.com"
+}
 ]

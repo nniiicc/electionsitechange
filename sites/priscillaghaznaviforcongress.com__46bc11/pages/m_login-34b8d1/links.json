@@ -1,29 +1,118 @@
 [
-"https://priscillaghaznaviforcongress.com/",
-"https://priscillaghaznaviforcongress.com/arabic",
-"https://priscillaghaznaviforcongress.com/bengali",
-"https://priscillaghaznaviforcongress.com/castellano-spanish-2",
-"https://priscillaghaznaviforcongress.com/chinese-simplified",
-"https://priscillaghaznaviforcongress.com/community-concerns-1",
-"https://priscillaghaznaviforcongress.com/donate",
-"https://priscillaghaznaviforcongress.com/english",
-"https://priscillaghaznaviforcongress.com/farsi",
-"https://priscillaghaznaviforcongress.com/filipino",
-"https://priscillaghaznaviforcongress.com/greek",
-"https://priscillaghaznaviforcongress.com/haitian-creole",
-"https://priscillaghaznaviforcongress.com/hindi",
-"https://priscillaghaznaviforcongress.com/italian",
-"https://priscillaghaznaviforcongress.com/korea",
-"https://priscillaghaznaviforcongress.com/m/account",
-"https://priscillaghaznaviforcongress.com/m/create-account",
-"https://priscillaghaznaviforcongress.com/m/orders",
-"https://priscillaghaznaviforcongress.com/polish",
-"https://priscillaghaznaviforcongress.com/portuguese",
-"https://priscillaghaznaviforcongress.com/privacy-policy-1",
-"https://priscillaghaznaviforcongress.com/russian",
-"https://priscillaghaznaviforcongress.com/shop?olsPage=cart",
-"https://priscillaghaznaviforcongress.com/urdu",
-"https://priscillaghaznaviforcongress.com/volunteer",
-"https://priscillaghaznaviforcongress.com/yiddish",
-"https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate"
+{
+"text": "Arabic",
+"href": "https://priscillaghaznaviforcongress.com/arabic"
+},
+{
+"text": "Bengali",
+"href": "https://priscillaghaznaviforcongress.com/bengali"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate"
+},
+{
+"text": "Castellano (Spanish)",
+"href": "https://priscillaghaznaviforcongress.com/castellano-spanish-2"
+},
+{
+"text": "Chinese (Simplified)",
+"href": "https://priscillaghaznaviforcongress.com/chinese-simplified"
+},
+{
+"text": "Community Concerns",
+"href": "https://priscillaghaznaviforcongress.com/community-concerns-1"
+},
+{
+"text": "Create Account",
+"href": "https://priscillaghaznaviforcongress.com/m/create-account"
+},
+{
+"text": "Create account.",
+"href": "https://priscillaghaznaviforcongress.com/m/create-account"
+},
+{
+"text": "Donate",
+"href": "https://priscillaghaznaviforcongress.com/donate"
+},
+{
+"text": "English",
+"href": "https://priscillaghaznaviforcongress.com/english"
+},
+{
+"text": "Farsi",
+"href": "https://priscillaghaznaviforcongress.com/farsi"
+},
+{
+"text": "Filipino",
+"href": "https://priscillaghaznaviforcongress.com/filipino"
+},
+{
+"text": "Greek",
+"href": "https://priscillaghaznaviforcongress.com/greek"
+},
+{
+"text": "Haitian Creole",
+"href": "https://priscillaghaznaviforcongress.com/haitian-creole"
+},
+{
+"text": "Hindi",
+"href": "https://priscillaghaznaviforcongress.com/hindi"
+},
+{
+"text": "Home",
+"href": "https://priscillaghaznaviforcongress.com/"
+},
+{
+"text": "Italian",
+"href": "https://priscillaghaznaviforcongress.com/italian"
+},
+{
+"text": "Korea",
+"href": "https://priscillaghaznaviforcongress.com/korea"
+},
+{
+"text": "My Account",
+"href": "https://priscillaghaznaviforcongress.com/m/account"
+},
+{
+"text": "Orders",
+"href": "https://priscillaghaznaviforcongress.com/m/orders"
+},
+{
+"text": "Polish",
+"href": "https://priscillaghaznaviforcongress.com/polish"
+},
+{
+"text": "Portuguese",
+"href": "https://priscillaghaznaviforcongress.com/portuguese"
+},
+{
+"text": "Privacy Policy",
+"href": "https://priscillaghaznaviforcongress.com/privacy-policy-1"
+},
+{
+"text": "Russian",
+"href": "https://priscillaghaznaviforcongress.com/russian"
+},
+{
+"text": "Sign In",
+"href": "https://priscillaghaznaviforcongress.com/m/account"
+},
+{
+"text": "Urdu",
+"href": "https://priscillaghaznaviforcongress.com/urdu"
+},
+{
+"text": "Volunteer",
+"href": "https://priscillaghaznaviforcongress.com/volunteer"
+},
+{
+"text": "Yiddish",
+"href": "https://priscillaghaznaviforcongress.com/yiddish"
+},
+{
+"text": "[no text]",
+"href": "https://priscillaghaznaviforcongress.com/shop?olsPage=cart"
+}
 ]

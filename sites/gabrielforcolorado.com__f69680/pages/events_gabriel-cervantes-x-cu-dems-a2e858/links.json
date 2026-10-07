@@ -1,26 +1,110 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Gabriel+Cervantes+x+CU+Dems&dates=20260924T000000Z%2F20260924T020000Z&location=1725+Euclid+Avenue%2C+Boulder%2C+Colorado%2C+80309%2C+United+States",
-"http://maps.google.com/?q=1725+Euclid+Avenue+Boulder%2C+Colorado%2C+80309+United+States",
-"https://bsky.app/profile/goftcer.bsky.social",
-"https://facebook.com/profile.php?id=61575900556515",
-"https://gabrielforcolorado.com/",
-"https://gabrielforcolorado.com/cart",
-"https://gabrielforcolorado.com/contact-connect",
-"https://gabrielforcolorado.com/endorsements-leaders",
-"https://gabrielforcolorado.com/event-media",
-"https://gabrielforcolorado.com/events",
-"https://gabrielforcolorado.com/events/a6er8m80q07237spfyh18jd8z9338d",
-"https://gabrielforcolorado.com/events/gabriel-cervantes-x-cu-dems?format=ical",
-"https://gabrielforcolorado.com/events/genkickoff",
-"https://gabrielforcolorado.com/issues",
-"https://gabrielforcolorado.com/media",
-"https://gabrielforcolorado.com/meet-gabriel",
-"https://gabrielforcolorado.com/new-dropdown",
-"https://gabrielforcolorado.com/organizations",
-"https://gabrielforcolorado.com/our-team",
-"https://gabrielforcolorado.com/press-releases",
-"https://instagram.com/goft_cer?igsh=MWljbzIwNG1mZ2I1NQ%3D%3D",
-"https://secure.actblue.com/donate/gc4co",
-"https://threads.net/@goft_cer",
-"https://x.com/goft_cer?t=LrR0b0KFxmbo50SOcBXxXA&s=09"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1725+euclid+avenue+boulder%2C+colorado%2C+80309+united+states"
+},
+{
+"text": "0",
+"href": "https://www.gabrielforcolorado.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.gabrielforcolorado.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.gabrielforcolorado.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/gc4co"
+},
+{
+"text": "Donate💵",
+"href": "https://secure.actblue.com/donate/gc4co"
+},
+{
+"text": "Event Media",
+"href": "https://www.gabrielforcolorado.com/event-media"
+},
+{
+"text": "Events 🗓️",
+"href": "https://www.gabrielforcolorado.com/events"
+},
+{
+"text": "Folder: Endorsements 📣",
+"href": "https://www.gabrielforcolorado.com/new-dropdown"
+},
+{
+"text": "Folder: Media 📷",
+"href": "https://www.gabrielforcolorado.com/media"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gabriel+Cervantes+x+CU+Dems&dates=20260924T000000Z%2F20260924T020000Z&location=1725+Euclid+Avenue%2C+Boulder%2C+Colorado%2C+80309%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/gabriel-cervantes-x-cu-dems?format=ical"
+},
+{
+"text": "Issues ✊",
+"href": "https://www.gabrielforcolorado.com/issues"
+},
+{
+"text": "Join us 🫂 | Reach out 📞",
+"href": "https://www.gabrielforcolorado.com/contact-connect"
+},
+{
+"text": "Leaders",
+"href": "https://www.gabrielforcolorado.com/endorsements-leaders"
+},
+{
+"text": "Meet Gabriel 🤝",
+"href": "https://www.gabrielforcolorado.com/meet-gabriel"
+},
+{
+"text": "Next Next September 28 Small Businesses Town Hall",
+"href": "https://www.gabrielforcolorado.com/events/a6er8m80q07237spfyh18jd8z9338d"
+},
+{
+"text": "Organizations",
+"href": "https://www.gabrielforcolorado.com/organizations"
+},
+{
+"text": "Our Team",
+"href": "https://www.gabrielforcolorado.com/our-team"
+},
+{
+"text": "Press Releases",
+"href": "https://www.gabrielforcolorado.com/press-releases"
+},
+{
+"text": "Previous Previous September 12 General Election Kick-Off",
+"href": "https://www.gabrielforcolorado.com/events/genkickoff"
+},
+{
+"text": "[image: gabrielforcolorado]",
+"href": "https://www.gabrielforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/goftcer.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575900556515"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/goft_cer?igsh=MWljbzIwNG1mZ2I1NQ%3D%3D"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@goft_cer"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/goft_cer?t=LrR0b0KFxmbo50SOcBXxXA&s=09"
+}
 ]

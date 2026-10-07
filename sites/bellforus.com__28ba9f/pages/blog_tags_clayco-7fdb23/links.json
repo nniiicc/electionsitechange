@@ -1,118 +1,466 @@
 [
-"http://facebook.com/wix",
-"http://twitter.com/wix",
-"https://bellforus.com/",
-"https://bellforus.com/blog",
-"https://bellforus.com/blog/archive/2016/02",
-"https://bellforus.com/blog/archive/2016/03",
-"https://bellforus.com/blog/archive/2016/04",
-"https://bellforus.com/blog/archive/2016/05",
-"https://bellforus.com/blog/archive/2016/07",
-"https://bellforus.com/blog/archive/2016/08",
-"https://bellforus.com/blog/archive/2016/10",
-"https://bellforus.com/blog/archive/2016/11",
-"https://bellforus.com/blog/archive/2017/01",
-"https://bellforus.com/blog/archive/2017/02",
-"https://bellforus.com/blog/archive/2017/03",
-"https://bellforus.com/blog/archive/2017/05",
-"https://bellforus.com/blog/archive/2017/06",
-"https://bellforus.com/blog/archive/2017/07",
-"https://bellforus.com/blog/archive/2017/08",
-"https://bellforus.com/blog/archive/2018/02",
-"https://bellforus.com/blog/archive/2020/06",
-"https://bellforus.com/blog/tags/art",
-"https://bellforus.com/blog/tags/back-to-school-bash",
-"https://bellforus.com/blog/tags/bbq",
-"https://bellforus.com/blog/tags/beautification",
-"https://bellforus.com/blog/tags/bellforus",
-"https://bellforus.com/blog/tags/black-caucus",
-"https://bellforus.com/blog/tags/black-lives-matter",
-"https://bellforus.com/blog/tags/brambleman",
-"https://bellforus.com/blog/tags/breakfast",
-"https://bellforus.com/blog/tags/capitol",
-"https://bellforus.com/blog/tags/clayco",
-"https://bellforus.com/blog/tags/clayton-county",
-"https://bellforus.com/blog/tags/clayton-county-1",
-"https://bellforus.com/blog/tags/clayton-county-democrats",
-"https://bellforus.com/blog/tags/clayton-county-young-democrats",
-"https://bellforus.com/blog/tags/clean-up",
-"https://bellforus.com/blog/tags/community",
-"https://bellforus.com/blog/tags/congressman-bishop",
-"https://bellforus.com/blog/tags/culture",
-"https://bellforus.com/blog/tags/education",
-"https://bellforus.com/blog/tags/eric-bell",
-"https://bellforus.com/blog/tags/ericbell",
-"https://bellforus.com/blog/tags/foster-kids",
-"https://bellforus.com/blog/tags/georgia",
-"https://bellforus.com/blog/tags/georgia-psc",
-"https://bellforus.com/blog/tags/georgia-public-service-commission",
-"https://bellforus.com/blog/tags/georgia-state-senate",
-"https://bellforus.com/blog/tags/georgiasenate",
-"https://bellforus.com/blog/tags/guns",
-"https://bellforus.com/blog/tags/hb37",
-"https://bellforus.com/blog/tags/hb859",
-"https://bellforus.com/blog/tags/help",
-"https://bellforus.com/blog/tags/hiphopweekly",
-"https://bellforus.com/blog/tags/hoop4hope",
-"https://bellforus.com/blog/tags/independent-artist",
-"https://bellforus.com/blog/tags/jamaica",
-"https://bellforus.com/blog/tags/justice",
-"https://bellforus.com/blog/tags/justice-reformation",
-"https://bellforus.com/blog/tags/keisha-waites",
-"https://bellforus.com/blog/tags/kings",
-"https://bellforus.com/blog/tags/kushsmoke",
-"https://bellforus.com/blog/tags/laws",
-"https://bellforus.com/blog/tags/legislation",
-"https://bellforus.com/blog/tags/love",
-"https://bellforus.com/blog/tags/lupus",
-"https://bellforus.com/blog/tags/march-to-the-polls",
-"https://bellforus.com/blog/tags/mentor",
-"https://bellforus.com/blog/tags/middleschool",
-"https://bellforus.com/blog/tags/mission-trip",
-"https://bellforus.com/blog/tags/morehouse",
-"https://bellforus.com/blog/tags/muffinsformom",
-"https://bellforus.com/blog/tags/music",
-"https://bellforus.com/blog/tags/pointe-south",
-"https://bellforus.com/blog/tags/pointesouth",
-"https://bellforus.com/blog/tags/politics",
-"https://bellforus.com/blog/tags/polls",
-"https://bellforus.com/blog/tags/prison",
-"https://bellforus.com/blog/tags/progressive",
-"https://bellforus.com/blog/tags/rap",
-"https://bellforus.com/blog/tags/relections",
-"https://bellforus.com/blog/tags/school-supplies",
-"https://bellforus.com/blog/tags/schools",
-"https://bellforus.com/blog/tags/senate",
-"https://bellforus.com/blog/tags/senator-perdue",
-"https://bellforus.com/blog/tags/skate-zone",
-"https://bellforus.com/blog/tags/sparkhouse",
-"https://bellforus.com/blog/tags/spelhouse",
-"https://bellforus.com/blog/tags/still-in-school-bash",
-"https://bellforus.com/blog/tags/suckafreejew",
-"https://bellforus.com/blog/tags/taste-of-ga",
-"https://bellforus.com/blog/tags/teacher",
-"https://bellforus.com/blog/tags/the-sirs",
-"https://bellforus.com/blog/tags/weed",
-"https://bellforus.com/blog/tags/woke",
-"https://bellforus.com/blog/tags/youthdevelopment",
-"https://bellforus.com/help",
-"https://bellforus.com/meeteric",
-"https://bellforus.com/platform",
-"https://bellforus.com/single-post/2017/02/24/new-music-introducing-independent-artist-jew",
-"https://bellforus.com/single-post/2017/03/12/in-the-shadow-of-senator-lester-jackson",
-"https://bellforus.com/single-post/2017/05/04/mission-im-possible-jamaica",
-"https://bellforus.com/single-post/2017/06/06/cinco-day-our-independence-day",
-"https://bellforus.com/single-post/2017/06/07/kings-of-pointe-south",
-"https://bellforus.com/single-post/2017/07/25/pointe-south-clean-up-bbq",
-"https://bellforus.com/single-post/2017/08/14/the-3rd-annual-southside-back-to-school-bash",
-"https://bellforus.com/single-post/2018/02/02/georgia-s-solar-powered-psc-candidate-meets-with-clayton-county-democrats",
-"https://bellforus.com/single-post/2018/02/08/hb-821-clayton-looses-18-million",
-"https://bellforus.com/single-post/2018/02/25/kings-at-morehouse",
-"https://bellforus.com/single-post/2020/06/10/jonesboro-march-to-the-polls-draws-voters-politicians",
-"https://facebook.com/eazy.smu",
-"https://instagram.com/ericforcommissioner",
-"https://linkedin.com/in/eric-bell-06550248",
-"https://plus.google.com/117167403531518744294/posts",
-"https://secure.actblue.com/donate/bellforus",
-"https://twitter.com/sirsokool"
+{
+"text": "April 2016 (2) 2 posts",
+"href": "https://www.bellforus.com/blog/archive/2016/04"
+},
+{
+"text": "August 2016 (2) 2 posts",
+"href": "https://www.bellforus.com/blog/archive/2016/08"
+},
+{
+"text": "August 2017 (1) 1 post",
+"href": "https://www.bellforus.com/blog/archive/2017/08"
+},
+{
+"text": "BLOG",
+"href": "https://www.bellforus.com/blog"
+},
+{
+"text": "BellForUS (6)6 posts",
+"href": "https://www.bellforus.com/blog/tags/bellforus"
+},
+{
+"text": "Black Caucus (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/black-caucus"
+},
+{
+"text": "Black Lives Matter (3)3 posts",
+"href": "https://www.bellforus.com/blog/tags/black-lives-matter"
+},
+{
+"text": "Brambleman (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/brambleman"
+},
+{
+"text": "Breakfast (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/breakfast"
+},
+{
+"text": "Capitol (2)2 posts",
+"href": "https://www.bellforus.com/blog/tags/capitol"
+},
+{
+"text": "Cinco Day : Our Independence Day",
+"href": "https://www.bellforus.com/single-post/2017/06/06/cinco-day-our-independence-day"
+},
+{
+"text": "Clayco (2)2 posts",
+"href": "https://www.bellforus.com/blog/tags/clayco"
+},
+{
+"text": "Clayton County (3)3 posts",
+"href": "https://www.bellforus.com/blog/tags/clayton-county-1"
+},
+{
+"text": "Clayton County Democrats, (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/clayton-county-democrats"
+},
+{
+"text": "Clayton County, (3)3 posts",
+"href": "https://www.bellforus.com/blog/tags/clayton-county"
+},
+{
+"text": "Congressman Bishop (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/congressman-bishop"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bellforus"
+},
+{
+"text": "Eric Bell (4)4 posts",
+"href": "https://www.bellforus.com/blog/tags/eric-bell"
+},
+{
+"text": "EricBell (2)2 posts",
+"href": "https://www.bellforus.com/blog/tags/ericbell"
+},
+{
+"text": "February 2016 (2) 2 posts",
+"href": "https://www.bellforus.com/blog/archive/2016/02"
+},
+{
+"text": "February 2017 (3) 3 posts",
+"href": "https://www.bellforus.com/blog/archive/2017/02"
+},
+{
+"text": "February 2018 (3) 3 posts",
+"href": "https://www.bellforus.com/blog/archive/2018/02"
+},
+{
+"text": "Georgia (2)2 posts",
+"href": "https://www.bellforus.com/blog/tags/georgia"
+},
+{
+"text": "Georgia PSC (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/georgia-psc"
+},
+{
+"text": "Georgia Public Service Commission, (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/georgia-public-service-commission"
+},
+{
+"text": "Georgia State Senate (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/georgia-state-senate"
+},
+{
+"text": "Georgiasenate (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/georgiasenate"
+},
+{
+"text": "Georgia’s solar-powered PSC candidate meets with Clayton County Democrats",
+"href": "https://www.bellforus.com/single-post/2018/02/02/georgia-s-solar-powered-psc-candidate-meets-with-clayton-county-democrats"
+},
+{
+"text": "Guns (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/guns"
+},
+{
+"text": "HB 821: Clayton Schools Could Lose $18 Million.",
+"href": "https://www.bellforus.com/single-post/2018/02/08/hb-821-clayton-looses-18-million"
+},
+{
+"text": "HB37 (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/hb37"
+},
+{
+"text": "HB859 (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/hb859"
+},
+{
+"text": "HELP",
+"href": "https://www.bellforus.com/help"
+},
+{
+"text": "HOME",
+"href": "https://www.bellforus.com"
+},
+{
+"text": "Hoop4Hope (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/hoop4hope"
+},
+{
+"text": "In The Shadow of Senator Lester Jackson",
+"href": "https://www.bellforus.com/single-post/2017/03/12/in-the-shadow-of-senator-lester-jackson"
+},
+{
+"text": "Jamaica (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/jamaica"
+},
+{
+"text": "January 2017 (4) 4 posts",
+"href": "https://www.bellforus.com/blog/archive/2017/01"
+},
+{
+"text": "Jonesboro March to the Polls draws voters, politicians",
+"href": "https://www.bellforus.com/single-post/2020/06/10/jonesboro-march-to-the-polls-draws-voters-politicians"
+},
+{
+"text": "July 2016 (1) 1 post",
+"href": "https://www.bellforus.com/blog/archive/2016/07"
+},
+{
+"text": "July 2017 (1) 1 post",
+"href": "https://www.bellforus.com/blog/archive/2017/07"
+},
+{
+"text": "June 2017 (2) 2 posts",
+"href": "https://www.bellforus.com/blog/archive/2017/06"
+},
+{
+"text": "June 2020 (1) 1 post",
+"href": "https://www.bellforus.com/blog/archive/2020/06"
+},
+{
+"text": "Justice (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/justice"
+},
+{
+"text": "Justice Reformation (2)2 posts",
+"href": "https://www.bellforus.com/blog/tags/justice-reformation"
+},
+{
+"text": "K.I.N.G.S of Pointe South",
+"href": "https://www.bellforus.com/single-post/2017/06/07/kings-of-pointe-south"
+},
+{
+"text": "K.I.N.G.S. at Morehouse",
+"href": "https://www.bellforus.com/single-post/2018/02/25/kings-at-morehouse"
+},
+{
+"text": "Keisha Waites (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/keisha-waites"
+},
+{
+"text": "Kings (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/kings"
+},
+{
+"text": "Laws (2)2 posts",
+"href": "https://www.bellforus.com/blog/tags/laws"
+},
+{
+"text": "Legislation (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/legislation"
+},
+{
+"text": "Love (2)2 posts",
+"href": "https://www.bellforus.com/blog/tags/love"
+},
+{
+"text": "MEET ERIC",
+"href": "https://www.bellforus.com/meeteric"
+},
+{
+"text": "March 2016 (5) 5 posts",
+"href": "https://www.bellforus.com/blog/archive/2016/03"
+},
+{
+"text": "March 2017 (3) 3 posts",
+"href": "https://www.bellforus.com/blog/archive/2017/03"
+},
+{
+"text": "May 2016 (1) 1 post",
+"href": "https://www.bellforus.com/blog/archive/2016/05"
+},
+{
+"text": "May 2017 (1) 1 post",
+"href": "https://www.bellforus.com/blog/archive/2017/05"
+},
+{
+"text": "Mission Trip (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/mission-trip"
+},
+{
+"text": "Mission: I'm Possible - Jamaica",
+"href": "https://www.bellforus.com/single-post/2017/05/04/mission-im-possible-jamaica"
+},
+{
+"text": "Morehouse (2)2 posts",
+"href": "https://www.bellforus.com/blog/tags/morehouse"
+},
+{
+"text": "MuffinsForMom (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/muffinsformom"
+},
+{
+"text": "New Music: Introducing Independent Artist 'Jew'",
+"href": "https://www.bellforus.com/single-post/2017/02/24/new-music-introducing-independent-artist-jew"
+},
+{
+"text": "November 2016 (2) 2 posts",
+"href": "https://www.bellforus.com/blog/archive/2016/11"
+},
+{
+"text": "October 2016 (2) 2 posts",
+"href": "https://www.bellforus.com/blog/archive/2016/10"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.bellforus.com/platform"
+},
+{
+"text": "Pointe South (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/pointe-south"
+},
+{
+"text": "Pointe South Clean Up & BBQ",
+"href": "https://www.bellforus.com/single-post/2017/07/25/pointe-south-clean-up-bbq"
+},
+{
+"text": "PointeSouth (2)2 posts",
+"href": "https://www.bellforus.com/blog/tags/pointesouth"
+},
+{
+"text": "Politics (2)2 posts",
+"href": "https://www.bellforus.com/blog/tags/politics"
+},
+{
+"text": "Prison (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/prison"
+},
+{
+"text": "Progressive (2)2 posts",
+"href": "https://www.bellforus.com/blog/tags/progressive"
+},
+{
+"text": "Relections (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/relections"
+},
+{
+"text": "Schools (2)2 posts",
+"href": "https://www.bellforus.com/blog/tags/schools"
+},
+{
+"text": "Senate (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/senate"
+},
+{
+"text": "Senator Perdue (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/senator-perdue"
+},
+{
+"text": "SpelHouse (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/spelhouse"
+},
+{
+"text": "Taste of Ga (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/taste-of-ga"
+},
+{
+"text": "The 3rd Annual Southside Back to School Bash",
+"href": "https://www.bellforus.com/single-post/2017/08/14/the-3rd-annual-southside-back-to-school-bash"
+},
+{
+"text": "Weed (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/weed"
+},
+{
+"text": "Woke (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/woke"
+},
+{
+"text": "YouthDevelopment (3)3 posts",
+"href": "https://www.bellforus.com/blog/tags/youthdevelopment"
+},
+{
+"text": "[image: Facebook Basic Square]",
+"href": "http://www.facebook.com/wix"
+},
+{
+"text": "[image: Facebook Clean Grey]",
+"href": "https://www.facebook.com/eazy.smu"
+},
+{
+"text": "[image: Google+ Basic Square]",
+"href": "https://plus.google.com/117167403531518744294/posts"
+},
+{
+"text": "[image: Instagram Clean Grey]",
+"href": "https://www.instagram.com/ericforcommissioner/"
+},
+{
+"text": "[image: LinkedIn Clean Grey]",
+"href": "https://www.linkedin.com/in/eric-bell-06550248"
+},
+{
+"text": "[image: Twitter Basic Square]",
+"href": "http://www.twitter.com/wix"
+},
+{
+"text": "[image: Twitter Clean Grey]",
+"href": "https://twitter.com/sirsokool"
+},
+{
+"text": "art (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/art"
+},
+{
+"text": "back to school bash (2)2 posts",
+"href": "https://www.bellforus.com/blog/tags/back-to-school-bash"
+},
+{
+"text": "bbq (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/bbq"
+},
+{
+"text": "beautification (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/beautification"
+},
+{
+"text": "clayton county young democrats (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/clayton-county-young-democrats"
+},
+{
+"text": "clean up (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/clean-up"
+},
+{
+"text": "community (3)3 posts",
+"href": "https://www.bellforus.com/blog/tags/community"
+},
+{
+"text": "culture (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/culture"
+},
+{
+"text": "education (5)5 posts",
+"href": "https://www.bellforus.com/blog/tags/education"
+},
+{
+"text": "foster kids (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/foster-kids"
+},
+{
+"text": "help (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/help"
+},
+{
+"text": "hiphopweekly (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/hiphopweekly"
+},
+{
+"text": "independent artist (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/independent-artist"
+},
+{
+"text": "kushsmoke (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/kushsmoke"
+},
+{
+"text": "lupus (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/lupus"
+},
+{
+"text": "march to the polls (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/march-to-the-polls"
+},
+{
+"text": "mentor (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/mentor"
+},
+{
+"text": "middleschool (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/middleschool"
+},
+{
+"text": "music (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/music"
+},
+{
+"text": "polls (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/polls"
+},
+{
+"text": "rap (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/rap"
+},
+{
+"text": "school supplies (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/school-supplies"
+},
+{
+"text": "skate zone (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/skate-zone"
+},
+{
+"text": "sparkhouse (2)2 posts",
+"href": "https://www.bellforus.com/blog/tags/sparkhouse"
+},
+{
+"text": "still in school bash (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/still-in-school-bash"
+},
+{
+"text": "suckafreejew (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/suckafreejew"
+},
+{
+"text": "teacher (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/teacher"
+},
+{
+"text": "the sirs (1)1 post",
+"href": "https://www.bellforus.com/blog/tags/the-sirs"
+}
 ]

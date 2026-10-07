@@ -1,37 +1,310 @@
 [
-"http://facebook.com/brianwalkerforward",
-"http://instagram.com/walker.forward",
-"https://walkerforward.com/",
-"https://walkerforward.com/cart",
-"https://walkerforward.com/contact",
-"https://walkerforward.com/donate",
-"https://walkerforward.com/events",
-"https://walkerforward.com/faq",
-"https://walkerforward.com/news",
-"https://walkerforward.com/news/a-night-to-unite",
-"https://walkerforward.com/news/a-primary-recovery",
-"https://walkerforward.com/news/advocacy-and-process-my-time-on-planning-and-parks-amp-rec",
-"https://walkerforward.com/news/endorsement-alert-mike-foley-former-gop-congressional-candidate",
-"https://walkerforward.com/news/endorsement-alert-save-the-boundary-waters-action-fund",
-"https://walkerforward.com/news/give-us-another-chance-niska-already-asked",
-"https://walkerforward.com/news/headline-harry-is-at-it-again-removing-environmental-protections",
-"https://walkerforward.com/news/headlines-vs-reality-economic-prosperity",
-"https://walkerforward.com/news/headlines-vs-reality-education",
-"https://walkerforward.com/news/headlines-vs-reality-healthcare",
-"https://walkerforward.com/news/headlines-vs-reality-preserving-civil-rights",
-"https://walkerforward.com/news/independence-and-freedom",
-"https://walkerforward.com/news/more-worry-over-the-locker-room-than-the-game",
-"https://walkerforward.com/news/on-hallowed-ground",
-"https://walkerforward.com/news/reflections-from-the-wilderness-why-i-head-north-every-year",
-"https://walkerforward.com/news/republicans-anonymous",
-"https://walkerforward.com/news/saying-it-out-loud-the-save-act",
-"https://walkerforward.com/news/showboating-vs-the-truth",
-"https://walkerforward.com/news/the-farm-stays-with-you",
-"https://walkerforward.com/news/who-opened-the-door",
-"https://walkerforward.com/news?offset=1779459521337",
-"https://walkerforward.com/privacy-policy",
-"https://walkerforward.com/store",
-"https://walkerforward.com/subscribe",
-"https://walkerforward.com/volunteer",
-"https://walkerforward.com/yard-sign"
+{
+"text": "0",
+"href": "https://www.walkerforward.com/cart"
+},
+{
+"text": "A Night to Unite",
+"href": "https://www.walkerforward.com/news/a-night-to-unite"
+},
+{
+"text": "A Primary Recovery",
+"href": "https://www.walkerforward.com/news/a-primary-recovery"
+},
+{
+"text": "Advocacy and Process: My Time on Planning and Parks & Rec",
+"href": "https://www.walkerforward.com/news/advocacy-and-process-my-time-on-planning-and-parks-amp-rec"
+},
+{
+"text": "Contact",
+"href": "https://www.walkerforward.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.walkerforward.com/donate"
+},
+{
+"text": "Endorsement Alert: Mike Foley, former GOP Congressional Candidate",
+"href": "https://www.walkerforward.com/news/endorsement-alert-mike-foley-former-gop-congressional-candidate"
+},
+{
+"text": "Endorsement Alert: Save the Boundary Waters Action Fund",
+"href": "https://www.walkerforward.com/news/endorsement-alert-save-the-boundary-waters-action-fund"
+},
+{
+"text": "Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.walkerforward.com/faq"
+},
+{
+"text": "Give Us Another Chance? Niska Already Asked.",
+"href": "https://www.walkerforward.com/news/give-us-another-chance-niska-already-asked"
+},
+{
+"text": "Headline Harry is at it Again: Removing Environmental Protections",
+"href": "https://www.walkerforward.com/news/headline-harry-is-at-it-again-removing-environmental-protections"
+},
+{
+"text": "Headlines vs. Reality: Economic Prosperity",
+"href": "https://www.walkerforward.com/news/headlines-vs-reality-economic-prosperity"
+},
+{
+"text": "Headlines vs. Reality: Education",
+"href": "https://www.walkerforward.com/news/headlines-vs-reality-education"
+},
+{
+"text": "Headlines vs. Reality: Healthcare",
+"href": "https://www.walkerforward.com/news/headlines-vs-reality-healthcare"
+},
+{
+"text": "Headlines vs. Reality: Preserving Civil Rights",
+"href": "https://www.walkerforward.com/news/headlines-vs-reality-preserving-civil-rights"
+},
+{
+"text": "Independence and Freedom",
+"href": "https://www.walkerforward.com/news/independence-and-freedom"
+},
+{
+"text": "More Worry Over the Locker Room Than the Game",
+"href": "https://www.walkerforward.com/news/more-worry-over-the-locker-room-than-the-game"
+},
+{
+"text": "News",
+"href": "https://www.walkerforward.com/news"
+},
+{
+"text": "Older Posts",
+"href": "https://www.walkerforward.com/news?offset=1779459521337"
+},
+{
+"text": "On Hallowed Ground.",
+"href": "https://www.walkerforward.com/news/on-hallowed-ground"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.walkerforward.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/a-night-to-unite"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/a-primary-recovery"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/advocacy-and-process-my-time-on-planning-and-parks-amp-rec"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/endorsement-alert-mike-foley-former-gop-congressional-candidate"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/endorsement-alert-save-the-boundary-waters-action-fund"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/give-us-another-chance-niska-already-asked"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/headline-harry-is-at-it-again-removing-environmental-protections"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/headlines-vs-reality-economic-prosperity"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/headlines-vs-reality-education"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/headlines-vs-reality-healthcare"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/headlines-vs-reality-preserving-civil-rights"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/independence-and-freedom"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/more-worry-over-the-locker-room-than-the-game"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/on-hallowed-ground"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/reflections-from-the-wilderness-why-i-head-north-every-year"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/republicans-anonymous"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/saying-it-out-loud-the-save-act"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/showboating-vs-the-truth"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/the-farm-stays-with-you"
+},
+{
+"text": "Read More",
+"href": "https://www.walkerforward.com/news/who-opened-the-door"
+},
+{
+"text": "Reflections from the Wilderness: Why I Head North Every Year",
+"href": "https://www.walkerforward.com/news/reflections-from-the-wilderness-why-i-head-north-every-year"
+},
+{
+"text": "Republicans Anonymous",
+"href": "https://www.walkerforward.com/news/republicans-anonymous"
+},
+{
+"text": "Saying it Out Loud: The SAVE Act",
+"href": "https://www.walkerforward.com/news/saying-it-out-loud-the-save-act"
+},
+{
+"text": "Showboating vs. the Truth",
+"href": "https://www.walkerforward.com/news/showboating-vs-the-truth"
+},
+{
+"text": "Store",
+"href": "https://www.walkerforward.com/store"
+},
+{
+"text": "Subscribe",
+"href": "https://www.walkerforward.com/subscribe"
+},
+{
+"text": "The Farm Stays With You",
+"href": "https://www.walkerforward.com/news/the-farm-stays-with-you"
+},
+{
+"text": "Volunteer",
+"href": "https://www.walkerforward.com/volunteer"
+},
+{
+"text": "Who Opened the Door.",
+"href": "https://www.walkerforward.com/news/who-opened-the-door"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.walkerforward.com/yard-sign"
+},
+{
+"text": "[image: A Night to Unite]",
+"href": "https://www.walkerforward.com/news/a-night-to-unite"
+},
+{
+"text": "[image: A Primary Recovery]",
+"href": "https://www.walkerforward.com/news/a-primary-recovery"
+},
+{
+"text": "[image: Advocacy and Process: My Time on Planning and Parks &amp; Rec]",
+"href": "https://www.walkerforward.com/news/advocacy-and-process-my-time-on-planning-and-parks-amp-rec"
+},
+{
+"text": "[image: Endorsement Alert: Mike Foley, former GOP Congressional Candidate]",
+"href": "https://www.walkerforward.com/news/endorsement-alert-mike-foley-former-gop-congressional-candidate"
+},
+{
+"text": "[image: Endorsement Alert: Save the Boundary Waters Action Fund]",
+"href": "https://www.walkerforward.com/news/endorsement-alert-save-the-boundary-waters-action-fund"
+},
+{
+"text": "[image: Give Us Another Chance? Niska Already Asked.]",
+"href": "https://www.walkerforward.com/news/give-us-another-chance-niska-already-asked"
+},
+{
+"text": "[image: Headline Harry is at it Again: Removing Environmental Protections]",
+"href": "https://www.walkerforward.com/news/headline-harry-is-at-it-again-removing-environmental-protections"
+},
+{
+"text": "[image: Headlines vs. Reality: Economic Prosperity]",
+"href": "https://www.walkerforward.com/news/headlines-vs-reality-economic-prosperity"
+},
+{
+"text": "[image: Headlines vs. Reality: Education]",
+"href": "https://www.walkerforward.com/news/headlines-vs-reality-education"
+},
+{
+"text": "[image: Headlines vs. Reality: Healthcare]",
+"href": "https://www.walkerforward.com/news/headlines-vs-reality-healthcare"
+},
+{
+"text": "[image: Headlines vs. Reality: Preserving Civil Rights]",
+"href": "https://www.walkerforward.com/news/headlines-vs-reality-preserving-civil-rights"
+},
+{
+"text": "[image: Independence and Freedom]",
+"href": "https://www.walkerforward.com/news/independence-and-freedom"
+},
+{
+"text": "[image: More Worry Over the Locker Room Than the Game]",
+"href": "https://www.walkerforward.com/news/more-worry-over-the-locker-room-than-the-game"
+},
+{
+"text": "[image: On Hallowed Ground.]",
+"href": "https://www.walkerforward.com/news/on-hallowed-ground"
+},
+{
+"text": "[image: Reflections from the Wilderness: Why I Head North Every Year]",
+"href": "https://www.walkerforward.com/news/reflections-from-the-wilderness-why-i-head-north-every-year"
+},
+{
+"text": "[image: Republicans Anonymous]",
+"href": "https://www.walkerforward.com/news/republicans-anonymous"
+},
+{
+"text": "[image: Saying it Out Loud: The SAVE Act]",
+"href": "https://www.walkerforward.com/news/saying-it-out-loud-the-save-act"
+},
+{
+"text": "[image: Showboating vs. the Truth]",
+"href": "https://www.walkerforward.com/news/showboating-vs-the-truth"
+},
+{
+"text": "[image: The Farm Stays With You]",
+"href": "https://www.walkerforward.com/news/the-farm-stays-with-you"
+},
+{
+"text": "[image: Walker Forward]",
+"href": "https://www.walkerforward.com/"
+},
+{
+"text": "[image: Who Opened the Door.]",
+"href": "https://www.walkerforward.com/news/who-opened-the-door"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/brianwalkerforward"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/walker.forward"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@walkerforward.com"
+},
+{
+"text": "campaign@walkerforward.com",
+"href": "mailto:campaign@walkerforward.com"
+}
 ]

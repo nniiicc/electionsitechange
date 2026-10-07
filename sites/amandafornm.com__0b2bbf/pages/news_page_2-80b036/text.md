@@ -1,13 +1,3 @@
-- Roswell Daily Record
-Campaign Updates
-News
-- KTSM
-Doña Ana County clerk to run for NM secretary of state
-Click to read Doña Ana County clerk to run for NM secretary of state
-- Las Cruces Sun News
-Amanda López Askin announces bid for open New Mexico Secretary of State in 2026 election
-Click to read Amanda López Askin announces bid for open New Mexico Secretary of State in 2026 election
-- Organ Mountain News
-Amanda López Askin launches campaign for New Mexico Secretary of State
-Click to read Amanda López Askin launches campaign for New Mexico Secretary of State
-- New Mexico Political Report
+Skip to content Chip in $5 right now to join the fight for our future  Amanda for New Mexico About Media News Press Releases Videos Take Action Contribute Connect on Facebook Connect on Instagram Connect on Bluesky Campaign Updates News Filter — Please choose an option — News Press Releases Videos Roswell Daily Record López Askin launches campaign for New Mexico Secretary of State April 20, 2025 Click to read López Askin launches campaign for New Mexico Secretary of State KTSM Doña Ana County clerk to run for NM secretary of state April 19, 2025 Click to read Doña Ana County clerk to run for NM secretary of state Las Cruces Sun News Amanda López Askin announces bid for open New Mexico Secretary of State in 2026 election April 17, 2025 Click to read Amanda López Askin announces bid for open New Mexico Secretary of State in 2026 election Organ Mountain News Amanda López Askin launches campaign for New Mexico Secretary of State April 17, 2025 Click to read Amanda López Askin launches campaign for New Mexico Secretary of State New Mexico Political Report Doña Ana County Clerk jumps in Secretary of State race April 16, 2025 Click to read Doña Ana County Clerk jumps in Secretary of State race Previous Page 1 2 3 Next Page Get Updates Join our team Join us in the fight to keep New Mexico’s elections safe, secure, and fair.
+Contribute Chip in today This campaign is funded by people like you. $ # $ # $ # $ # $ #,# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Amanda for New Mexico Connect on Facebook Connect on Instagram Connect on Bluesky About Media Take Action Contribute Paid for and Authorized by Amanda for NM Mailing Address: 8100 Wyoming Blvd NE, Ste M4 Box 708, Albuquerque, NM 87113 Contact

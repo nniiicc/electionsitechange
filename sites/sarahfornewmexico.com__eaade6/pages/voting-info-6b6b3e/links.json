@@ -1,20 +1,90 @@
 [
-"https://bsky.app/profile/sarahfornm.bsky.social",
-"https://facebook.com/SarahforNM",
-"https://instagram.com/sarahfornm",
-"https://sandovalcountynm.gov/countyclerk/bureau-of-elections/elections/voting-options/early-voting-sites",
-"https://santafecountynm.gov/clerk/elections/2026-primary-election",
-"https://santafecountynm.gov/clerk/elections/pollinglocations",
-"https://sarahfornewmexico.com/",
-"https://sarahfornewmexico.com/about",
-"https://sarahfornewmexico.com/about-hd50",
-"https://sarahfornewmexico.com/about-sarah",
-"https://sarahfornewmexico.com/contribute",
-"https://sarahfornewmexico.com/endorsements",
-"https://sarahfornewmexico.com/get-in-touch",
-"https://sarahfornewmexico.com/priorities",
-"https://sarahfornewmexico.com/voting-info",
-"https://secure.numero.ai/contribute/sarahfornewmexico",
-"https://sos.nm.gov/voting-and-elections/voter-information-portal-nmvote-org",
-"https://sos.nm.gov/voting-and-elections/voter-information-portal-nmvote-org/absentee-and-early-voting"
+{
+"text": "About",
+"href": "https://sarahfornewmexico.com/about"
+},
+{
+"text": "About House District 50",
+"href": "https://sarahfornewmexico.com/about-hd50"
+},
+{
+"text": "About Sarah",
+"href": "https://sarahfornewmexico.com/about-sarah"
+},
+{
+"text": "Contribute",
+"href": "https://sarahfornewmexico.com/contribute"
+},
+{
+"text": "DONATe",
+"href": "https://secure.numero.ai/contribute/sarahfornewmexico"
+},
+{
+"text": "Early Voting Locations",
+"href": "https://www.sandovalcountynm.gov/countyclerk/bureau-of-elections/elections/voting-options/early-voting-sites/"
+},
+{
+"text": "Endorsements",
+"href": "https://sarahfornewmexico.com/endorsements"
+},
+{
+"text": "Get In Touch",
+"href": "https://sarahfornewmexico.com/get-in-touch"
+},
+{
+"text": "Home",
+"href": "https://sarahfornewmexico.com/"
+},
+{
+"text": "New Mexico Secretary of State's website",
+"href": "https://www.sos.nm.gov/voting-and-elections/voter-information-portal-nmvote-org/"
+},
+{
+"text": "Priorities",
+"href": "https://sarahfornewmexico.com/priorities"
+},
+{
+"text": "Santa Fe County Clerk’s Office,",
+"href": "https://www.santafecountynm.gov/clerk/elections/2026-primary-election"
+},
+{
+"text": "Santa Fe County Clerk’s website",
+"href": "https://www.santafecountynm.gov/clerk/elections/2026-primary-election"
+},
+{
+"text": "Voting Convenience Center",
+"href": "https://www.santafecountynm.gov/clerk/elections/pollinglocations"
+},
+{
+"text": "Voting Info",
+"href": "https://sarahfornewmexico.com/voting-info"
+},
+{
+"text": "[image: Sarah Boses logo]",
+"href": "https://sarahfornewmexico.com/"
+},
+{
+"text": "[tooltip: Go to Bluesky page]",
+"href": "https://bsky.app/profile/sarahfornm.bsky.social"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/SarahforNM"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/sarahfornm/"
+},
+{
+"text": "here for Sandoval County",
+"href": "https://www.sandovalcountynm.gov/countyclerk/bureau-of-elections/elections/voting-options/early-voting-sites/"
+},
+{
+"text": "here for Santa Fe County.",
+"href": "https://www.santafecountynm.gov/clerk/elections/pollinglocations"
+},
+{
+"text": "request your ballot online.",
+"href": "https://www.sos.nm.gov/voting-and-elections/voter-information-portal-nmvote-org/absentee-and-early-voting/"
+}
 ]

@@ -1,15 +1,6 @@
-Issues
-Affordability
-Lower energy costs & electric bills by eliminating public benefits charge
-Eliminate hidden taxes
-Eliminate funding for special interest slush funds
-Cap property tax increases
-Read More
-Public Safety
-I support law enforcement and believe safe communities are common sense.
+Meet Melissa Issues Events Volunteer Contribute Issues Affordability Lower energy costs & electric bills by eliminating public benefits charge Eliminate hidden taxes Eliminate funding for special interest slush funds Cap property tax increases Read More Constitutional Freedoms Religious Liberty Medical Autonomy Public Input Right to bear arms Parental Rights Read More Public Safety I support law enforcement and believe safe communities are common sense.
 We need to enforce our laws, support our officers, and stop policies that put criminals ahead of law-abiding citizens.
-Read More
-Common Sense Legislation
-Melissa believes Connecticut doesn’t need more complicated policies—it needs better ones.
+Read More Common Sense Legislation Melissa believes Connecticut doesn’t need more complicated policies—it needs better ones.
 Common-sense leadership means focusing on practical solutions, listening to residents, and making decisions that are transparent, balanced, and grounded in real-world experience—not politics.
-Read More
+Read More Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Contribute Paid for by Lindsey for Senate, Dustin Bingham Treasurer.
+Approved by Melissa Lindsey Powered by CampaignPartner.com - Political Campaign Websites Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

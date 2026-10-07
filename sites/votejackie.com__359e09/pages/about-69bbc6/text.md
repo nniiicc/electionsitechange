@@ -1,6 +1,4 @@
-About
-About Jackie Haas
-State Representative Jackie Haas has been serving the residents of Illinois’ 79th House District since December 2020.
+Skip to content About Donate Volunteer Contact About Donate Volunteer Contact About Donate Volunteer Contact About Donate Volunteer Contact Donate About About Jackie Haas State Representative Jackie Haas has been serving the residents of Illinois’ 79th House District since December 2020.
 Her district includes Kankakee, Will, Cook, and Grundy Counties.
 With a lifelong commitment to advocating for the most vulnerable, Jackie has established herself as a dedicated public servant and community leader.
 Raised in Momence, Illinois, Jackie attended St.
@@ -18,16 +16,18 @@ Representative Haas also serves on JCAR, the Medicaid Workgroup, is the chair fo
 Jackie and her husband Bill have been married for 33 years and reside in Bourbonnais, where they raised their two children.
 Her deep roots in the community and her ongoing commitment to public service make her a dedicated and effective representative for the 79th District.
 Jackie Haas is Fighting for Us!
-Lower Cost of Living
-Jackie Haas is dedicated to reducing the financial burden on families and seniors in our district.
+Lower Cost of Living Jackie Haas is dedicated to reducing the financial burden on families and seniors in our district.
 By lowering taxes and spending, fighting inflation, and growing our economy, Jackie aims to make living in the 79th District more affordable for everyone.
-Keeping our Communities Safe
-Jackie is committed to keeping our communities safe by supporting pro-police legislation, ending Illinois' sanctuary state status, and increasing the presence of police on our streets.
+Keeping our Communities Safe Jackie is committed to keeping our communities safe by supporting pro-police legislation, ending Illinois' sanctuary state status, and increasing the presence of police on our streets.
 Her approach focuses on enhancing public safety measures to ensure robust protection for all citizens.
-Protecting our Health Care
-Ensuring that every resident has access to affordable healthcare is a top priority for Jackie Haas.
+Protecting our Health Care Ensuring that every resident has access to affordable healthcare is a top priority for Jackie Haas.
 She is dedicated to safeguarding healthcare access for seniors and supports initiatives that enhance mental health services across the district, addressing critical healthcare needs effectively.
-Holding Politicians Accountable
-Jackie believes in the importance of a fair and balanced government.
+Holding Politicians Accountable Jackie believes in the importance of a fair and balanced government.
 She supports budgeting reform and the creation of fair maps to ensure that all voices are heard and represented equally.
-Additionally, Jackie advocates for ethics reforms and greater accountability from politicians to maintain integrity and trust within our government.
+Additionally, Jackie advocates for ethics reforms and greater accountability from politicians to maintain integrity and trust within our government. newsletter Come & Join Our Newsletter Keep up to date with the campaign Subscription Form Δ Subscribe Paid for by Citizens for Jackie Haas.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, IL. quick links About Donate Volunteer Contact About Donate Volunteer Contact Donate Contact Us P.O.
+Box 782, Kankakee, IL 60901 HaasForRep@gmail.com Facebook-f Instagram © # citizens for jackie haas.
+All rights reserved.
+No part of this website, including text, images, and any other content, may be reproduced, copied, or transmitted in any form or by any means without the express written permission of the Citizens for Jackie Haas campaign.
+This site is not affiliated with any government entity and is the official campaign website for Jackie Haas.
+Privacy Policy

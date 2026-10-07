@@ -1,19 +1,78 @@
 [
-"https://chrisrabb.com/",
-"https://chrisrabb.com/about",
-"https://chrisrabb.com/cart",
-"https://chrisrabb.com/cdn-cgi/l/email-protection",
-"https://chrisrabb.com/donate",
-"https://chrisrabb.com/endorsements",
-"https://chrisrabb.com/media",
-"https://chrisrabb.com/platform",
-"https://chrisrabb.com/press",
-"https://chrisrabb.com/record",
-"https://chrisrabb.com/sign",
-"https://facebook.com/chrisrabbCD03",
-"https://instagram.com/chrisrabb",
-"https://rabb-for-congress.solidarity.tech/",
-"https://secure.actblue.com/donate/rabbwebsite",
-"https://x.com/chrisrabb",
-"https://youtube.com/@RabbForCongressPA03"
+{
+"text": "0",
+"href": "https://www.chrisrabb.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.chrisrabb.com/about"
+},
+{
+"text": "DONATE!",
+"href": "https://secure.actblue.com/donate/rabbwebsite"
+},
+{
+"text": "Donate",
+"href": "https://www.chrisrabb.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chrisrabb.com/endorsements"
+},
+{
+"text": "Get a Sign!",
+"href": "https://www.chrisrabb.com/sign"
+},
+{
+"text": "Home",
+"href": "https://www.chrisrabb.com/"
+},
+{
+"text": "Media",
+"href": "https://www.chrisrabb.com/media"
+},
+{
+"text": "Platform",
+"href": "https://www.chrisrabb.com/platform"
+},
+{
+"text": "Press",
+"href": "https://www.chrisrabb.com/press"
+},
+{
+"text": "Record",
+"href": "https://www.chrisrabb.com/record"
+},
+{
+"text": "Volunteer",
+"href": "https://rabb-for-congress.solidarity.tech/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@rabbforcongress.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:staff@rabbforcongress.com"
+},
+{
+"text": "[image: Chris Rabb For Congress]",
+"href": "https://www.chrisrabb.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/chrisrabbCD03/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chrisrabb/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RabbForCongressPA03"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/chrisrabb"
+}
 ]

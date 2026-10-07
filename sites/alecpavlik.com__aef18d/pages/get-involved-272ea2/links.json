@@ -1,13 +1,62 @@
 [
-"http://facebook.com/profile.php?id=61579810422000",
-"https://alecpavlik.com/",
-"https://alecpavlik.com/_files/archives/4692b2_c931f1e402d742528f45889120ed8203.zip?dn=Campaign+Packet+2026+v2.zip",
-"https://alecpavlik.com/about",
-"https://alecpavlik.com/contact",
-"https://alecpavlik.com/finanical-disclosure",
-"https://alecpavlik.com/get-involved",
-"https://alecpavlik.com/issues",
-"https://alecpavlik.com/portfolio",
-"https://alecpavlik.com/terms-and-conditions",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.alecpavlik.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.alecpavlik.com/about"
+},
+{
+"text": "Alec Pavlik",
+"href": "https://www.alecpavlik.com"
+},
+{
+"text": "Contact",
+"href": "https://www.alecpavlik.com/contact"
+},
+{
+"text": "Download",
+"href": "https://www.alecpavlik.com/_files/archives/4692b2_c931f1e402d742528f45889120ed8203.zip?dn=Campaign+Packet+2026+v2.zip"
+},
+{
+"text": "Financial Disclosure",
+"href": "https://www.alecpavlik.com/finanical-disclosure"
+},
+{
+"text": "For U.S. House",
+"href": "https://www.alecpavlik.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.alecpavlik.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.alecpavlik.com"
+},
+{
+"text": "Issues",
+"href": "https://www.alecpavlik.com/issues"
+},
+{
+"text": "Other Projects",
+"href": "https://www.alecpavlik.com/portfolio"
+},
+{
+"text": "PavlikCampaign@protonmail.com",
+"href": "mailto:PavlikCampaign@protonmail.com"
+},
+{
+"text": "Terms & Conditions / Accessibility",
+"href": "https://www.alecpavlik.com/terms-and-conditions"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://facebook.com/profile.php?id=61579810422000"
+}
 ]

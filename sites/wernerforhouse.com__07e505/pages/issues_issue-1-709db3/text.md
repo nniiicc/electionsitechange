@@ -1,6 +1,1 @@
-Owen werner believes in
-Affordable Housing
-- Jumpstart construction of more starter homes to create more housing choices through public investment and policy reforms
-- Ban corporate ownership of single family homes
-- Stop landlords price fixing schemes to increase rents, hurting the working class
-- Relieve property tax pressure on local governments and residents
+Skip navigation menu About Events Issues Contact Donate About Events Issues Contact Donate Affordable Housing Universal Health Care Women's Reproductive Rights Owen werner believes in Affordable Housing Jumpstart construction of more starter homes to create more housing choices through public investment and policy reforms Ban corporate ownership of single family homes Stop landlords price fixing schemes to increase rents, hurting the working class Relieve property tax pressure on local governments and residents Privacy Policy owen@wernerforhouse.com Powered by RUN! website builder Prepared and Paid for by Werner for House Committee 358 2nd Ave SE Perham, MN You need to enable JavaScript to run this app.

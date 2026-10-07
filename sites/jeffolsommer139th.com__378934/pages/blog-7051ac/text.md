@@ -1,16 +1,1 @@
-info@JeffOlsommer139th
-|
-Vote Tuesday, November 3rd
-Home
-Jeff's Priorities
-Endorsements
-Volunteer
-Blog
-DONATE
-Press
-Home
-Blog
-Announcement of Candidacy
-learn more
-13
-Feb
+info@JeffOlsommer139th | Vote Tuesday, November 3rd  Home Jeff's Priorities Endorsements Volunteer Blog DONATE Press Home Blog Announcement of Candidacy learn more 13 Feb Email: info@JeffOlsommer139th Paid for by Friends of Jeff Olsommer PO Box 1001 Greentown, PA 18426 menu Home About Jeff's Mission Endorsements Volunteer blog Social Media  facebook

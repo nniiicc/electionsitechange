@@ -1,8 +1,5 @@
-“People want two things from government: they want it to work and they want it on their side.
-I have been working to make sure this happens in New York State.”
-— Assemblymember Jonathan Jacobson
-Central Hudson and Rate Increases
-The one issue I hear about more than any other is Central Hudson and their seemingly never-ending rate increases.
+☰ HOME | ABOUT | ON THE ISSUES | GET INVOLVED ▾ VOLUNTEER CONTACT | DONATE On The Issues “People want two things from government: they want it to work and they want it on their side.
+I have been working to make sure this happens in New York State.” — Assemblymember Jonathan Jacobson Central Hudson and Rate Increases The one issue I hear about more than any other is Central Hudson and their seemingly never-ending rate increases.
 No More Automatic Increases.
 About three years ago, I was watching a Central Hudson rate increase hearing, and something astonishing happened.
 One of the Public Service Commissioners said that he would like to give Central Hudson no increase at all, but if the other Commissioners agreed to give nothing, then Central Hudson would get their entire, original rate request which was over 30%.
@@ -29,8 +26,7 @@ One of the problems with the way that utility rates are calculated is that the u
 It was often unclear what projects were being proposed and their benefits to you, the rate payer.
 In 2025, I wrote another bill requiring utilities to fully explain any capital expenditures included in a rate increase request.
 The bill passed the legislature and was signed into law at the end of 2025.
-(A22736)
-Fair Utility Rates, Not Big Windfalls.
+(A22736) Fair Utility Rates, Not Big Windfalls.
 When determining rates, utilities are generally reimbursed on a dollar-for-dollar basis for non-capital expenditures, such as maintenance, salaries and every-day expenses, to do business.
 Capital expenditures are for longer-term needs such as updating the grid or replacing a roof or building a new structure.
 Capital expenditures are guaranteed a reasonable rate of return which has been interpreted between 9½% and 10%.
@@ -53,8 +49,7 @@ I introduced this bill to help ensure that the owners and operators of these fac
 While this bill did not pass, the essence of the bill was included in A11560 (The Responsible Data Center Act) which I co-sponsored and did pass.
 Going Forward: If you are still having a dispute concerning your utility bill, we can help you by making sure you are able to get the information you need and talk directly with a representative from Central Hudson.
 Please call either my Newburgh or Poughkeepsie office.
-Protecting Reproductive Health Care Rights
-In 2022, The Supreme Court has once again shown it is out of touch with the majority of Americans in its decision overturning Roe v.
+Protecting Reproductive Health Care Rights In 2022, The Supreme Court has once again shown it is out of touch with the majority of Americans in its decision overturning Roe v.
 Wade, a nearly 50-year precedent that provided Constitutional protections for the right to an abortion.
 Thankfully, prior to that decision we took action in New York State.
 In 2019, I was proud to co-sponsor the Reproductive Health Act which codified Roe v.
@@ -62,15 +57,13 @@ Wade in New York State.
 Since then, we took bold action once again to strengthen our reproductive health laws and provide much-needed protections for health care providers by enacting shield laws.
 In 2024, the voters passed the State’s Equal Rights Amendment which means that reproductive and other rights stated in the Amendment will be protected regardless if there is a change in who controls the Legislature and the Governor’s mansion.
 I was proud to co-sponsor the Amendment and voted twice in support of the Amendment.
-(It had to pass two separately elected Legislatures.)
-In 2025, I was also proud to co-sponsor A5480 which protects individuals who provide or receive legally protected health care, from criminal or civil liability or professional sanctions imposed by jurisdictions outside New York State.
+(It had to pass two separately elected Legislatures.) In 2025, I was also proud to co-sponsor A5480 which protects individuals who provide or receive legally protected health care, from criminal or civil liability or professional sanctions imposed by jurisdictions outside New York State.
 This protects medical providers who provide medical services which are legal in New York State to out-of-state residents.
 A woman’s health decision should be made only by that woman.
 Period.
 Unfortunately, unlike New York, in about half of the states in the Nation, women will no longer have their reproductive freedoms and the ability to make their own choices.
 I will continue to fight to ensure that reproductive freedom and the ability of women to make their own health care decisions are preserved in New York.
-Fighting Gun Violence
-We are all too aware that our nation is suffering a plague of gun violence.
+Fighting Gun Violence We are all too aware that our nation is suffering a plague of gun violence.
 There are too many illegal guns.
 And there are too many guns, both legal and illegal, in the hands of those who are mentally ill or are likely to cause harm to themselves or others.
 Shortly after the tragic Buffalo Massacre where 10 innocent people were murdered while doing their grocery shopping, the United States Supreme Court struck down New York’s 100-year-old concealed carry law.
@@ -87,8 +80,7 @@ Just this year alone, the gun buybacks in Newburgh and Poughkeepsie have taken m
 When a gun is turned in, it means one more gun that will not end up in the wrong hand.
 The battle against gun violence is never-ending.
 We must continue to be vigilant and do all we can do.
-Supporting Voting Reforms
-Voting should be simple and easy.
+Supporting Voting Reforms Voting should be simple and easy.
 Period.
 In pursuit of that goal, I have supported sweeping voting reforms since my election.
 While other states have moved to make it harder to vote, New York State has led the way in making it easier to register and vote.
@@ -103,23 +95,20 @@ I am still pushing for the State to amend the Constitution and institute “no e
 There is no reason that people should need a reason to vote by mail.
 If a duly registered voter wants to vote by mail and requests an absentee ballot, then the Board should be able to send the voter an absentee ballot — no questions asked.
 Absentee voting should be that simple.
-Restoring Faith in Our Electoral Process — Stopping Corruption and Conflicts at Our Board of Elections
-Our democracy is under attack, often based on conspiracy theories.
+Restoring Faith in Our Electoral Process — Stopping Corruption and Conflicts at Our Board of Elections Our democracy is under attack, often based on conspiracy theories.
 These attacks have undermined the public’s confidence in our elections process.
 For our democracy to work, the public must believe that the Boards of Elections are acting in the best interest of the public and are fairly administering elections.
 This is why I wrote and passed legislation, which is now law to stop conflicts of interest at the Boards of Elections.
 My legislation (A1244 and A1015) prohibits specific financial conflicts of interest for Board employees and forbids them from working at the Board if they are candidates in an election run by that Board.
-The bill has three sections:
-- Board employees cannot work for or have a financial interest in a company that sells equipment to the Board of Elections, such as voting machines, printers and poll books.
-- Board employees cannot work for or have a financial interest in a company that provides services, such as mailing, printing, advertising, and consulting, to a candidate whose election is overseen by the board.
-- Board employees cannot remain paid employees if they are running for public office.
+The bill has three sections: Board employees cannot work for or have a financial interest in a company that sells equipment to the Board of Elections, such as voting machines, printers and poll books.
+Board employees cannot work for or have a financial interest in a company that provides services, such as mailing, printing, advertising, and consulting, to a candidate whose election is overseen by the board.
+Board employees cannot remain paid employees if they are running for public office.
 Any board employee who runs for public office must take an unpaid leave of absence from the board.
 The leave of absence must begin as soon as an employee files petitions if there is a primary, or at least 90 days before the General Election in November if there is no primary.
 The only exception is if both commissioners (Democratic and Republican) according to rules and regulations established by the State Board of Elections.
 While these restrictions seem obvious, the current conflict of interest laws have not prevented these conflicts.
 This legislation will go a long way in restoring the public’s trust in how elections are run in New York State.
-Combating Ghost Jobs — Bill Passes Both Houses of the Legislature
-The only thing worse than being turned down for a job after an interview is wasting time applying for a job which you later discover did not exist at all.
+Combating Ghost Jobs — Bill Passes Both Houses of the Legislature The only thing worse than being turned down for a job after an interview is wasting time applying for a job which you later discover did not exist at all.
 Listings for jobs that aren’t being filled, known as “ghost jobs,” are not only a frustration for job-seekers – they also make it harder to get a clear picture of the labor market, which can impact the Federal jobs report.
 In a recent survey from career site Resume Builder, 40% of companies said they posted a fake job listing in 2024.
 A 2025 report from another career site, MyPerfectResume, estimated that nearly a third of U.S. job postings don’t result in an actual hire, creating a ghost job economy.
@@ -133,3 +122,4 @@ A violation of these new requirements would mean a fine of $2,500 for each publi
 This fine would double every 30 days that the advertisement is not corrected.
 It is hard enough to apply for a job.
 The least employers should do is be honest with the public about the jobs they are advertising.
+Jonathan Jacobson Getting the Job Done! f X Paid for by Jonathan Jacobson for Assembly

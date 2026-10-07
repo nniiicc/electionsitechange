@@ -1,19 +1,78 @@
 [
-"https://bsky.app/profile/dan4mo.bsky.social",
-"https://dan4mo.com/",
-"https://dan4mo.com/blog",
-"https://dan4mo.com/events",
-"https://dan4mo.com/faq",
-"https://dan4mo.com/get-involved",
-"https://dan4mo.com/meet-dan",
-"https://dan4mo.com/nufsaid",
-"https://dan4mo.com/podcasts",
-"https://dan4mo.com/privacy-policy",
-"https://dan4mo.com/values",
-"https://facebook.com/dan4mo",
-"https://frontlineprogressive.com/",
-"https://reddit.com/user/Dan4MO",
-"https://secure.actblue.com/donate/take-back-our-power",
-"https://tiktok.com/@dan4mo",
-"https://youtube.com/@dan4mo"
+{
+"text": "'Nuf Said",
+"href": "https://www.dan4mo.com/nufsaid"
+},
+{
+"text": "Blog",
+"href": "https://www.dan4mo.com/blog"
+},
+{
+"text": "Contact Us",
+"href": "https://www.dan4mo.com/get-involved"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/take-back-our-power"
+},
+{
+"text": "Events",
+"href": "https://www.dan4mo.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.dan4mo.com/faq"
+},
+{
+"text": "Home",
+"href": "https://www.dan4mo.com"
+},
+{
+"text": "Mail",
+"href": "mailto:dan@dan4mo.com?subject=Email+sent+from+web+page"
+},
+{
+"text": "Meet Dan",
+"href": "https://www.dan4mo.com/meet-dan"
+},
+{
+"text": "Podcasts",
+"href": "https://www.dan4mo.com/podcasts"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.dan4mo.com/privacy-policy"
+},
+{
+"text": "Values",
+"href": "https://www.dan4mo.com/values"
+},
+{
+"text": "[image: Blue Sky]",
+"href": "https://bsky.app/profile/dan4mo.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/dan4mo"
+},
+{
+"text": "[image: Frontline Progressive]",
+"href": "https://www.frontlineprogressive.com"
+},
+{
+"text": "[image: Reddit]",
+"href": "https://www.reddit.com/user/Dan4MO/"
+},
+{
+"text": "[image: TikTok ]",
+"href": "https://www.tiktok.com/@dan4mo"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@dan4mo"
+},
+{
+"text": "[no text]",
+"href": "https://www.dan4mo.com/values"
+}
 ]

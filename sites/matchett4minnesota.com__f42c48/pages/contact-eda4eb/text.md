@@ -1,14 +1,8 @@
-Get in Touch
-Contact
-Get in Touch
-Whether you have a question about Amanda's priorities, want to invite her to your community group, or are looking for a way to get involved, we want to hear from you.
-Send a message
-Direct Channels
-- Email info@matchett4minnesota.com
-- Phone 319-560-4855
-- Mail
-PO Box 490251
-Blaine, MN 55449
-Other ways to reach the campaign
-Press Inquiries
-Members of the press should email info@matchett4minnesota.com with subject line "Press."
+Skip to main content Amanda Matchett MN House 32A Home About Issues Endorsements Events Volunteer ♥ Donate Home About Issues Endorsements Events Volunteer Donate Meet Amanda Home Contact Get in Touch Contact Get in Touch Whether you have a question about Amanda's priorities, want to invite her to your community group, or are looking for a way to get involved, we want to hear from you.
+Send a message Leave this field empty Name * (required) Email * (required) Subject Message * (required) * Required Send message Direct Channels Email info@matchett4minnesota.com Phone 319-560-4855 Mail PO Box 490251 Blaine, MN 55449 Other ways to reach the campaign Schedule a Meeting Amanda offers free coffee meetings.
+Book a time to meet Amanda Press Inquiries Members of the press should email info@matchett4minnesota.com with subject line "Press." Headshots, bios, and standard quotes Stay Connected Be Part of the Campaign Be the first to hear about events, policy positions, and ways to help.
+Volunteer, donate, or invite Amanda to your neighborhood.
+Every action helps build a stronger District 32A.
+Leave this field empty Email address Sign Up We send campaign updates and event invitations.
+Unsubscribe any time. ♥ Donate Volunteer Meet Amanda DFL-endorsed candidate for Minnesota House District 32A: Blaine, Ham Lake, and Columbus.
+Campaign About Amanda Issues Endorsements Events Volunteer Press Get Involved Volunteer Donate Meet Amanda Events Contact info@matchett4minnesota.com Contact form Prepared and paid for by Amanda Matchett for Minnesota PO Box 490251, Blaine, MN 55449 info@matchett4minnesota.com Privacy Policy Accessibility © # Matchett for Minnesota

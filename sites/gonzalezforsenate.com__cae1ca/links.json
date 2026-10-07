@@ -1,19 +1,90 @@
 [
-"https://facebook.com/guillermoforcalifornia",
-"https://gonzalezforsenate.com/",
-"https://gonzalezforsenate.com/calculator",
-"https://gonzalezforsenate.com/contact",
-"https://gonzalezforsenate.com/district",
-"https://gonzalezforsenate.com/endorsements",
-"https://gonzalezforsenate.com/give",
-"https://gonzalezforsenate.com/join",
-"https://gonzalezforsenate.com/media",
-"https://gonzalezforsenate.com/meet-guillermo",
-"https://gonzalezforsenate.com/news",
-"https://gonzalezforsenate.com/privacy",
-"https://gonzalezforsenate.com/sponsor-a-yard-sign",
-"https://gonzalezforsenate.com/valley-promise",
-"https://gonzalezforsenate.com/yard-sign",
-"https://instagram.com/gonzalezforca",
-"https://x.com/GuillermoForCA"
+{
+"text": "Contact Me",
+"href": "https://www.gonzalezforsenate.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gonzalezforsenate.com/endorsements"
+},
+{
+"text": "Get a yard sign",
+"href": "https://www.gonzalezforsenate.com/yard-sign"
+},
+{
+"text": "Give",
+"href": "https://www.gonzalezforsenate.com/give"
+},
+{
+"text": "In the News",
+"href": "https://www.gonzalezforsenate.com/news"
+},
+{
+"text": "Join",
+"href": "https://www.gonzalezforsenate.com/join"
+},
+{
+"text": "Join Team Guillermo",
+"href": "https://www.gonzalezforsenate.com/join"
+},
+{
+"text": "Media",
+"href": "https://www.gonzalezforsenate.com/media"
+},
+{
+"text": "Meet Guillermo",
+"href": "https://www.gonzalezforsenate.com/meet-guillermo"
+},
+{
+"text": "Meet Guillermo →",
+"href": "https://www.gonzalezforsenate.com/meet-guillermo"
+},
+{
+"text": "News",
+"href": "https://www.gonzalezforsenate.com/news"
+},
+{
+"text": "Our District",
+"href": "https://www.gonzalezforsenate.com/district"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.gonzalezforsenate.com/privacy"
+},
+{
+"text": "Read the Valley Promise",
+"href": "https://www.gonzalezforsenate.com/valley-promise"
+},
+{
+"text": "See every endorsement",
+"href": "https://www.gonzalezforsenate.com/endorsements"
+},
+{
+"text": "See what you'd save",
+"href": "https://www.gonzalezforsenate.com/calculator"
+},
+{
+"text": "Sponsor a yard sign",
+"href": "https://www.gonzalezforsenate.com/sponsor-a-yard-sign"
+},
+{
+"text": "The Valley Promise",
+"href": "https://www.gonzalezforsenate.com/valley-promise"
+},
+{
+"text": "[image: Guillermo Gonzalez for Senate]",
+"href": "https://www.gonzalezforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/guillermoforcalifornia"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/gonzalezforca"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/GuillermoForCA"
+}
 ]

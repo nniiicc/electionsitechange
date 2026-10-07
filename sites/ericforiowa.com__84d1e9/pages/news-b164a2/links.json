@@ -1,30 +1,130 @@
 [
-"http://cbs2iowa.com/news/local/town-hall-for-our-lives-creates-dialogue-with-iowa-legislators-on-gun-violence",
-"http://facebook.com/ericforiowa",
-"http://instagram.com/ericforiowa",
-"http://mariontoday.org/times/article.php?id=7720",
-"http://press-citizen.com/story/life/2018/01/25/year-indivisible-iowa-growing/1067557001",
-"http://thegazette.com/subject/opinion/guest-columnists/iowans-didnt-get-a-better-deal-20170711",
-"http://twitter.com/ericforiowa",
-"https://bleedingheartland.com/2018/03/01/flip-the-iowa-house",
-"https://bleedingheartland.com/2018/04/02/majority-makers-15-districts-will-determine-control-iowa-house",
-"https://bleedingheartland.com/2018/07/27/battle-iowa-house",
-"https://ericforiowa.com/about-eric",
-"https://ericforiowa.com/contact-me",
-"https://ericforiowa.com/copy-of-home",
-"https://ericforiowa.com/getinvolved",
-"https://ericforiowa.com/issues",
-"https://ericforiowa.com/news",
-"https://ericforiowa.com/photos",
-"https://facebook.com/EricForIowa",
-"https://feeds.podcastmirror.com/iowastartingline",
-"https://iowastartingline.com/2018/01/24/legislative-candidates-stood-fundraising-reports",
-"https://iowastartingline.com/2018/05/29/democrats-post-strong-fundraising-reports-out-raise-gop-in-many-races",
-"https://iowastartingline.com/2018/08/02/islp048-early-2020-moves-eric-gjerde-interview",
-"https://radioiowa.com/2017/03/07/voter-id-bill-draws-fervent-support-strong-criticism",
-"https://secure.actblue.com/contribute/page/efi",
-"https://thegazette.com/subject/news/government/obama-endorses-6-iowa-democratic-candidates-20180801",
-"https://thegazette.com/subject/opinion/letters-to-the-editor/vote-for-eric-gjerde-for-house-district-67-20180817",
-"https://twitter.com/EricForIowa",
-"https://twitter.com/IAStartingLine"
+{
+"text": "\"Iowa Starting Line Podcast",
+"href": "https://feeds.podcastmirror.com/iowastartingline"
+},
+{
+"text": "CONTACT ME",
+"href": "https://www.ericforiowa.com/contact-me"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/contribute/page/efi"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.ericforiowa.com/getinvolved"
+},
+{
+"text": "HOME",
+"href": "https://www.ericforiowa.com/copy-of-home"
+},
+{
+"text": "MEET ERIC",
+"href": "https://www.ericforiowa.com/about-eric"
+},
+{
+"text": "NEWS",
+"href": "https://www.ericforiowa.com/news"
+},
+{
+"text": "PHOTOS",
+"href": "https://www.ericforiowa.com/photos"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.ericforiowa.com/issues"
+},
+{
+"text": "Pat Rynard",
+"href": "https://twitter.com/IAStartingLine"
+},
+{
+"text": "Quick Donate $100",
+"href": "https://secure.actblue.com/contribute/page/efi"
+},
+{
+"text": "Quick Donate $25",
+"href": "https://secure.actblue.com/contribute/page/efi"
+},
+{
+"text": "Quick Donate $50",
+"href": "https://secure.actblue.com/contribute/page/efi"
+},
+{
+"text": "READ HERE",
+"href": "https://www.thegazette.com/subject/opinion/letters-to-the-editor/vote-for-eric-gjerde-for-house-district-67-20180817"
+},
+{
+"text": "READ MORE",
+"href": "http://cbs2iowa.com/news/local/town-hall-for-our-lives-creates-dialogue-with-iowa-legislators-on-gun-violence"
+},
+{
+"text": "READ MORE",
+"href": "http://www.mariontoday.org/times/article.php?id=7720"
+},
+{
+"text": "READ MORE",
+"href": "http://www.press-citizen.com/story/life/2018/01/25/year-indivisible-iowa-growing/1067557001/"
+},
+{
+"text": "READ MORE",
+"href": "http://www.thegazette.com/subject/opinion/guest-columnists/iowans-didnt-get-a-better-deal-20170711"
+},
+{
+"text": "READ MORE",
+"href": "https://iowastartingline.com/2018/01/24/legislative-candidates-stood-fundraising-reports/"
+},
+{
+"text": "READ MORE",
+"href": "https://iowastartingline.com/2018/05/29/democrats-post-strong-fundraising-reports-out-raise-gop-in-many-races/"
+},
+{
+"text": "READ MORE",
+"href": "https://iowastartingline.com/2018/08/02/islp048-early-2020-moves-eric-gjerde-interview/"
+},
+{
+"text": "READ MORE",
+"href": "https://www.bleedingheartland.com/2018/03/01/flip-the-iowa-house/"
+},
+{
+"text": "READ MORE",
+"href": "https://www.bleedingheartland.com/2018/04/02/majority-makers-15-districts-will-determine-control-iowa-house/"
+},
+{
+"text": "READ MORE",
+"href": "https://www.bleedingheartland.com/2018/07/27/battle-iowa-house/"
+},
+{
+"text": "READ MORE",
+"href": "https://www.radioiowa.com/2017/03/07/voter-id-bill-draws-fervent-support-strong-criticism/"
+},
+{
+"text": "READ MORE",
+"href": "https://www.thegazette.com/subject/news/government/obama-endorses-6-iowa-democratic-candidates-20180801"
+},
+{
+"text": "[image: Facebook - White Circle]",
+"href": "https://www.facebook.com/EricForIowa/"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "http://www.facebook.com/ericforiowa"
+},
+{
+"text": "[image: Instagram Social Icon]",
+"href": "http://www.instagram.com/ericforiowa"
+},
+{
+"text": "[image: Twitter - White Circle]",
+"href": "https://twitter.com/EricForIowa"
+},
+{
+"text": "[image: Twitter Social Icon]",
+"href": "http://www.twitter.com/ericforiowa"
+},
+{
+"text": "eric.gjerde@legis.iowa.gov",
+"href": "mailto:eric.gjerde@legis.iowa.gov"
+}
 ]

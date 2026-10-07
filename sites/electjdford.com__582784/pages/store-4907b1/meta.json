@@ -1,7 +1,9 @@
 {
  "description": "Help JD launch this campaign for Indiana's 5th Congressional district with a new shirt, hat, sweatshirt, or donate!",
  "final_url": "https://www.electjdford.com/store",
- "paid_for_by": null,
+ "fingerprint": "1edcfca6ab0f63b5bb59bc05efbe1819f3b1ac97",
+ "format": 3,
+ "paid_for_by": "authorized by the Neighbors to Elect J",
  "title": "Store | Elect J.D Ford to Congress | Indiana's 5th District",
  "years_mentioned": []
 }

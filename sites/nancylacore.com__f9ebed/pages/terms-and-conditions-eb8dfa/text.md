@@ -1,5 +1,4 @@
-Terms & Conditions
-These Terms of Use (“Terms”) apply to your access to, and use of, the Web site operated by Nancy Lacore and/or its affiliated organizations (the “Campaign” “we,” or us”) and the other Campaign Web sites, mobile sites, and mobile applications which link to these Terms (collectively the "Site").
+0 Skip to Content Home About Nancy Priorities Endorsements Media Voting Resources Get Involved Host an Event Volunteer Contact Donate Open Menu Close Menu Home About Nancy Priorities Endorsements Media Voting Resources Get Involved Host an Event Volunteer Contact Donate Open Menu Close Menu Home About Nancy Priorities Endorsements Media Voting Resources Folder: Get Involved Back Host an Event Volunteer Contact Donate Terms & Conditions These Terms of Use (“Terms”) apply to your access to, and use of, the Web site operated by Nancy Lacore and/or its affiliated organizations (the “Campaign” “we,” or us”) and the other Campaign Web sites, mobile sites, and mobile applications which link to these Terms (collectively the "Site").
 We reserve the right to change or modify any of the terms and conditions contained in the Terms or any policy or guideline of the Site, at any time and in our sole discretion.
 Any changes or modification will be effective immediately upon posting of the revisions on the Site, and you waive any right you may have to receive specific notice of such changes or modifications.
 Your continued use of the Site following the posting of changes or modifications will confirm your acceptance of such changes or modifications.
@@ -10,8 +9,7 @@ Please refer to our Privacy Policy for information on how we collect, use and di
 Consent to Use of Data and Mobile Communications; SMS Program Terms.
 You consent to our communicating with you about the Site and the Campaign, including updates on Campaign activity and opportunities to support the Campaign through events, volunteering, and donating, by SMS, text message, email or other electronic means.
 Your carrier's normal messaging, data and other rates and fees will apply to these communications.
-If you subscribe to any text programs that the Campaign makes available, the following terms apply:
-By subscribing to Campaign updates, you consent to receive periodic updates by automatic text message.
+If you subscribe to any text programs that the Campaign makes available, the following terms apply: By subscribing to Campaign updates, you consent to receive periodic updates by automatic text message.
 Text STOP to stop.
 For Help, contact us at info@nancylacore.com Message and data rates may apply.
 See our privacy policy at nancylacore.com/privacy.
@@ -34,10 +32,9 @@ The Campaign may also at its sole discretion limit access to the Site and/or ter
 5.
 Copyright Complaints.
 If you believe that anything on the Site infringes upon any copyright which you own or control you may file a notification of such infringement with our Designated Agent as set forth below.
-Name of Agent Designated to Receive Notification of Claimed Infringement: Nancy Lacore for Congress
-Full Address of Designated Agent to Which Notification should be Sent: PO Box 1006, 1000 Palm Blvd, Isle of Palms, SC 29451-9998.
-E-Mail Address of Designated Agent: info@nancylacore.com
-Please see 17 U.S.C. 512(c)(3) for the requirements of a proper notification.
+Name of Agent Designated to Receive Notification of Claimed Infringement: Nancy Lacore for Congress Full Address of Designated Agent to Which Notification should be Sent: PO Box 1006, 1000 Palm Blvd, Isle of Palms, SC 29451-9998.
+E-Mail Address of Designated Agent: info@nancylacore.com Please see 17 U.S.C.
+512(c)(3) for the requirements of a proper notification.
 You should note that if you knowingly misrepresent in your notification that the material or activity is infringing, you will be liable for any damages, including costs and attorneys' fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing.
 6.
 Trademarks.
@@ -74,16 +71,7 @@ The Campaign shall own exclusive rights, including all intellectual property rig
 11.
 User Content.
 The Site may include interactive areas or services in which you or other users may create, post, share or store content, messages, materials, data, information, text, graphics, audio, video, or other items or materials on the Site ("User Content").
-By using the Site you agree not to post, upload to, transmit, distribute, store, create, or otherwise publish through the Site any of the following:
-User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent, deceptive or misleading;
-User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law;
-User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party;
-User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity;
-Unsolicited promotions, or solicitations;
-Private information of any third party, including, without limitation, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers;
-Viruses, corrupted data or other harmful, disruptive or destructive files;
-User Content which violates the terms of any Campaign guidelines, policies or rules posted on the Site or otherwise provided to you; and
-User Content that, in the sole judgment of the Campaign, is objectionable or which restricts or inhibits any other person from using or enjoying the Site, or which may expose the Campaign or its users to any harm or liability of any type.
+By using the Site you agree not to post, upload to, transmit, distribute, store, create, or otherwise publish through the Site any of the following: User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent, deceptive or misleading; User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law; User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party; User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity; Unsolicited promotions, or solicitations; Private information of any third party, including, without limitation, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers; Viruses, corrupted data or other harmful, disruptive or destructive files; User Content which violates the terms of any Campaign guidelines, policies or rules posted on the Site or otherwise provided to you; and User Content that, in the sole judgment of the Campaign, is objectionable or which restricts or inhibits any other person from using or enjoying the Site, or which may expose the Campaign or its users to any harm or liability of any type.
 The Campaign takes no responsibility and assumes no liability for any User Content posted, stored or uploaded by you or any third party, or for any loss or damage thereto, Enforcement of the user content or conduct rules set forth in these Terms is solely at the Campaign's discretion, and failure to enforce such rules in some instances does not constitute a waiver of our right to enforce such rules in other instances.
 In addition, these rules do not create any private right of action on the part of any third party or any reasonable expectation that the Site will not contain any content that is prohibited by such rules.
 Although the Campaign has no obligation to do so, it reserves the right, and has absolute discretion, to remove, screen or edit any User Content posted or stored on the Site at any time and for any reason without notice, and you are solely responsible for creating backup copies of and replacing any User Content you post or store on the Site at your sole cost and expense.
@@ -129,3 +117,5 @@ If any provision of these Terms shall be deemed unlawful, void or for any reason
 19.
 Questions & Contact Information.
 Questions or comments about the Site may be directed to the Campaign by contacting info@nancylacore.com.
+Support Nancy today! $10 $25 $50 $100 $250 Other For press inquiries, email press@nancylacore.com For all other inquiries, email info@nancylacore.com Checks may be made out to "Nancy Lacore for Congress" and mailed to: PO Box 1006, 1000 Palm Blvd, Isle of Palms, SC 29451-9998 Privacy Policy Terms and Conditions Paid for by Nancy Lacore for Congress Use of military rank, titles, insignia, marks, or photographs in uniform does not imply endorsement by the U.S.
+Navy or the Department of Defense.

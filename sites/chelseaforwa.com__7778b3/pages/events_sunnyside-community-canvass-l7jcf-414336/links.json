@@ -1,20 +1,90 @@
 [
-"http://facebook.com/chelseaforwa",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunnyside+Community+Canvass&dates=20260720T000000Z%2F20260720T030000Z&location=327+East+Edison+Avenue%2C+Sunnyside%2C+Washington%2C+98944%2C+United+States",
-"http://instagram.com/chelseaforwa",
-"http://maps.google.com/?q=327+East+Edison+Avenue+Sunnyside%2C+Washington%2C+98944+United+States",
-"http://squarespace.com/",
-"https://chelseaforwa.com/",
-"https://chelseaforwa.com/about",
-"https://chelseaforwa.com/cart",
-"https://chelseaforwa.com/endorsements",
-"https://chelseaforwa.com/events",
-"https://chelseaforwa.com/events/sunnyside-community-canvass",
-"https://chelseaforwa.com/events/sunnyside-community-canvass-l7jcf?format=ical",
-"https://chelseaforwa.com/events/yakima-community-canvass",
-"https://chelseaforwa.com/news",
-"https://chelseaforwa.com/volunteer",
-"https://chelseaforwa.com/vote",
-"https://docs.google.com/forms/d/e/1FAIpQLSdSg2DWUez3WJ_p_P3Ji_49RM5HAg5MGscr3SrOzqNRcZ91WQ/viewform?usp=header",
-"https://secure.actblue.com/donate/chelseaforwa"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=327+east+edison+avenue+sunnyside%2C+washington%2C+98944+united+states"
+},
+{
+"text": "0",
+"href": "https://www.chelseaforwa.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.chelseaforwa.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.chelseaforwa.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chelseaforwa"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/chelseaforwa"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chelseaforwa.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.chelseaforwa.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.chelseaforwa.com/volunteer"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunnyside+Community+Canvass&dates=20260720T000000Z%2F20260720T030000Z&location=327+East+Edison+Avenue%2C+Sunnyside%2C+Washington%2C+98944%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/sunnyside-community-canvass-l7jcf?format=ical"
+},
+{
+"text": "News",
+"href": "https://www.chelseaforwa.com/news"
+},
+{
+"text": "Next Next July 25 Yakima Community Canvass",
+"href": "https://www.chelseaforwa.com/events/yakima-community-canvass"
+},
+{
+"text": "Previous Previous July 18 Sunnyside Community Canvass",
+"href": "https://www.chelseaforwa.com/events/sunnyside-community-canvass"
+},
+{
+"text": "Sign-Up Now!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdSg2DWUez3WJ_p_P3Ji_49RM5HAg5MGscr3SrOzqNRcZ91WQ/viewform?usp=header"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Voting Info",
+"href": "https://www.chelseaforwa.com/vote"
+},
+{
+"text": "[image: Chelsea Dimas for State Rep (D)]",
+"href": "https://www.chelseaforwa.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/chelseaforwa"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/chelseaforwa"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@chelseaforwa.com"
+},
+{
+"text": "info@chelseaforwa.com",
+"href": "mailto:info@chelseaforwa.com"
+}
 ]

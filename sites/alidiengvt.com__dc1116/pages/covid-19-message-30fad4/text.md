@@ -1,5 +1,4 @@
-Dear Neighbors,
-How are you doing?
+Menu Ali Dieng For Vermont House of Representatives – Chittenden 18 Primary Menu Skip to content Home Our Priorities Donate Get Involved Blog Media Search Search for: COVID-19 Message Posted on March 31, 2020 January 6, 2021 Author steve Dear Neighbors, How are you doing?
 I hope you and your loved ones are well.
 We are living in unprecedented times as a community, state, country and even as humans.
 Directly or indirectly, we are all dealing with a massive public health emergency.
@@ -25,5 +24,7 @@ The City has established a virtual Resource and Recovery Center.
 The contact info RRC is: recovery@burlingtonvt.gov – 802-755-7239.
 If you are an elder living in the New North End or someone with underlining health conditions in need of support to run errands such as medication pick up, grocery shopping, some light outdoor work, please feel free to contact me at adieng@burlingtonvt.gov or 802-318-2527.
 Hang in there, the best days are yet to come.
-With love and gratitude
-Ali
+With love and gratitude Ali Categories Ali , New North End Post navigation ← Previous Previous post: Reinvesting in Burlington Telecom Next → Next post: Bike Lane Proposal DONATE I am running for the Vermont House of Representitives - Chittenden 18.
+Please consider making a donation to help our campaign.
+Search for: RESOLUTION Parks Arts and Cutlure Committee To Create A Dog Task Force Priorities Donate Volunteer Media ©# Ali Dieng, All rights reserved.
+Website hosting by Champlain Hosting Scroll Up Home Our Priorities Donate Get Involved Blog Media

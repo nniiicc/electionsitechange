@@ -1,5 +1,4 @@
-Embedded Files
-La prioridad principal de cualquier funcionario electo es la seguridad de las personas que representa.
+Search this site Embedded Files Skip to main content Skip to navigation laurieryan.com Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE laurieryan.com Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE More Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE SEGURIDAD Y CUMPLIMIENTO DE LA LEY La prioridad principal de cualquier funcionario electo es la seguridad de las personas que representa.
 Programar reuniones periódicas con todos los servicios de emergencia y las agencias del orden público.
 Apoyar a las agencias del orden público.
 Apoyar la cooperación plena entre todos los niveles de las fuerzas del orden.
@@ -12,6 +11,4 @@ No se sellará el historial de los menores de 18 años que cometan determinados 
 Las licencias de conducir y otras formas de identificación deben tener la designación de ciudadanía.
 Ampliar, mejorar y crear programas de extensión comunitaria.
 Trabajar con hospitales, escuelas y espacios públicos para elaborar planes estratégicos de seguridad.
-Page updated
-Google Sites
-Report abuse
+LAURIE RYAN for NEW YORK STATE ASSEMBLY DISTRICT 95 VOTE TUESDAY NOVEMBER 3, 2026 Fecha de la Elección: Martes 3 de Noviembre 2026 EARLY VOTING SATURDAY OCTOBER 24 - SUNDAY NOVEMBER 1 Votación anticipada: sábado 24 de Octubre - Domingo 1 de Noviembre ALL LITERATURE, YARDSIGNS, MERCHANDISE, ADS, WEBSITE PAID FOR BY LAURIERYAN4NY PRIVACY POLICY EMAIL FACEBOOK INSTAGRAM Google Sites Report abuse Page details Page updated Google Sites Report abuse

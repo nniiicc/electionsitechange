@@ -1,2 +1,4 @@
-“Boulder shouldn’t be trying to set national energy policy from a Colorado courtroom – and Colorado shouldn’t be dragged into costly, politically driven climate lawsuits that do nothing but drive-up energy bills.
-This is the wrong fight, in the wrong place, at the wrong time for working families.”
+Skip to content Home Issues Endorsements News Gallery Donate Latest News Statement from Michael Allen on Supreme Court Taking Up Boulder Climate Case March 4, 2026 “Boulder shouldn’t be trying to set national energy policy from a Colorado courtroom – and Colorado shouldn’t be dragged into costly, politically driven climate lawsuits that do nothing but drive-up energy bills.
+This is the wrong fight, in the wrong place, at the wrong time for working families.” Press Release – Michael Allen for Colorado Attorney General 2026-03-04 Paid for by Michael Allen for Colorado; Registered Agent Katie Kennedy Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Navy or the Department of Defense.
+Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Facebook X Instagram Donate

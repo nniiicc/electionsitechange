@@ -1,5 +1,2 @@
-"On behalf of the Saratoga County Young Democrats, I'm delighted to inform you that you have received our endorsement in your upcoming election.
-SCYD looks forward to working with you to further your candidacy and engage young voters."
-6
-May
-Wednesday, 10:53 AM · 2026
+Meet John News Endorsements Volunteer Voter Information Donate by Mail Contribute Home / John Gunther Receives Endorsement from Saratoga County Young Democrats 6 May Wednesday, 10:53 AM · 2026 John Gunther Receives Endorsement from Saratoga County Young Democrats "On behalf of the Saratoga County Young Democrats, I'm delighted to inform you that you have received our endorsement in your upcoming election.
+SCYD looks forward to working with you to further your candidacy and engage young voters." Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com - Political Websites Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

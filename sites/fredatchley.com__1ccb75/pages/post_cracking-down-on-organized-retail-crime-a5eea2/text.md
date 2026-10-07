@@ -1,5 +1,5 @@
-Cracking Down on Organized Retail Crime
-Walk into any store, and you will notice something different than you did a few years ago.
+top of page HOME ABOUT NEWS DONATE More Use tab to navigate through the menu items.
+All Posts Search Cracking Down on Organized Retail Crime Team Atchley Jun 15 2 min read Walk into any store, and you will notice something different than you did a few years ago.
 More products are locked behind glass.
 More security guards are standing watch.
 More empty shelves where merchandise used to be.
@@ -25,3 +25,6 @@ Consumers should not have to pay higher prices because of rampant stealing.
 And employees should not have to fear for their safety every time they go to work.
 Tennessee is taking this problem seriously.
 And we will continue to do so.
+1130 S.
+Fork Dr., Sevierville, TN 37862 team@fredatchley.com Paid for by Fred Atchley for State Representative, Phil Whaley, Treasurer.
+Web design by ZDStephens Company . bottom of page

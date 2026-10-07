@@ -1,5 +1,3 @@
-Sample Absentee Ballot
-Ohio iVoter Guide Information
-Please click https://ivoterguide.com/my-ballot?Address=43055 to pull up the latest information on all candidates.
-Embed Block
-Add an embed URL or code.
+Home About Thad Endorsements Media Releases Yard Sign Sign-Up Donate Volunteer Sign-Up iVoter Guide Contact Us Home About Thad Endorsements Media Releases Yard Sign Sign-Up Donate Volunteer Sign-Up iVoter Guide Contact Us Sample Absentee Ballot Ohio iVoter Guide Information Please click https://ivoterguide.com/my-ballot?Address=43055 to pull up the latest information on all candidates.
+Embed Block Add an embed URL or code.
+Paid for by Claggett for Ohio 3396 Sharon Valley Road, Newark, OH 43055 Claggett for Ohio 3396 Sharon Valley Road, Newark, OH, 43055, United States claggettforohio@gmail.com Hours

@@ -1,5 +1,4 @@
-Crime
-I participated in a ride along with the Saint Joseph Police Department last night.
+Skip navigation menu Home About Issues Donate Home About Issues Donate Education Dear Republicans Role of Government Crime Rigged System Wealth Inequality AI and Data Centers The Promise: Crime I participated in a ride along with the Saint Joseph Police Department last night.
 I wanted to see what our police officers do every day and learn more about the process and the challenges they face.
 It was very informative and would recommend anyone that is interested to reach out to them and schedule a time to do this yourself.
 I will always be a supporter of the police.
@@ -11,3 +10,5 @@ We need to have programs in place to get people the help they need such as menta
 I was very impressed with the police department as a whole and the initiatives they are taking to continuously improve.
 Everyone I interacted with was friendly and seemed to genuinely care about the citizens of this community.
 I look forward to doing this again and speaking to more law enforcement officers.
+Luke.r.rae@gmail.com P.O.
+Box 135 716 SE Grand DD Faucett, MO 64448 Powered by RUN! website builder Paid for by Committee to Elect Luke Rae, Robert Bergland Treasurer You need to enable JavaScript to run this app.

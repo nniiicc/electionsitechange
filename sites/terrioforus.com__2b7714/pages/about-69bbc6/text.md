@@ -1,4 +1,4 @@
-My start.
+0 Skip to Content Steph Terrio for Oregon House - District 26 Policy Why So Serious Donate Volunteer Contact About Open Menu Close Menu Steph Terrio for Oregon House - District 26 Policy Why So Serious Donate Volunteer Contact About Open Menu Close Menu Policy Why So Serious Donate Volunteer Contact About My start.
 My name is Stephanie Terrio.
 I grew up in the mountains of Santa Barbara, CA with a hard working, conservative Christian family.
 Both my grandfathers served this country in times of war, and peace.
@@ -7,7 +7,8 @@ My grandmothers were immigrants, brought by their parents to find the American d
 One to gain a new life after the German occupation in Belgium.
 One escaping the consequences of the Great Depression in Mexico.
 Every year, being with my family, celebrating our diverse holidays, that is what shaped my love of Americans.
-Our Christmas parties were cheerful, and we loved participating in Las Posadas with our community in December. 4th of July, Veterans Day celebrations, mourning on Memorial Day, that is what inspired my initial patriotism, compassion, and enthusiasm to serve.
+Our Christmas parties were cheerful, and we loved participating in Las Posadas with our community in December.
+4th of July, Veterans Day celebrations, mourning on Memorial Day, that is what inspired my initial patriotism, compassion, and enthusiasm to serve.
 When I was 14 I joined a PAC called the Young America’s Foundation and got to travel all over the east coast, campaigning with other young future leaders.
 We worked for Republican candidates and got to meet many politicians.
 This gave me a passion and pride in our electoral system.
@@ -58,10 +59,10 @@ We can change.
 We must vote for people who want to represent you.
 Who want what you want.
 We can have a different system where our future and structure is discussed and dignified.
-It’s just up to we the people.
-All it takes to start is willing individuals and some votes.
+It’s just up to we the people. ‍ ‍ All it takes to start is willing individuals and some votes.
 Contact me!
 Is there a divide in your community?
 Is your kids school underfunded?
 What issues have you faced in senior/elder care?
 If you’re military, has the VA helped you and your family?
+There is a spirit that unites all Americans far more than our politics divide us Paid for by Terrio for US PAC ID 25090 Privacy Notice

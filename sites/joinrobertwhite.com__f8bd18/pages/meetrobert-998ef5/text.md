@@ -1,7 +1,6 @@
-ABOUT
-On June 16, 2026, Robert White secured the Democratic nomination to become D.C.’s next Delegate to Congress, winning the primary by a commanding 42-point margin.
-If elected in November, he will become only the third person in D.C. history to hold the office, following former Delegate Walter Fauntroy and current Delegate Eleanor Holmes Norton.
-Robert White, Jr. is a proud 5th-generation Washingtonian, growing up in the Petworth neighborhood.
+top of page MEET ROBERT ENDORSEMENTS GET INVOLVED Defend DC Yard Signs DONATE Meet Robert .
+ABOUT On June 16, 2026, Robert White secured the Democratic nomination to become D.C.’s next Delegate to Congress, winning the primary by a commanding 42-point margin.
+If elected in November, he will become only the third person in D.C. history to hold the office, following former Delegate Walter Fauntroy and current Delegate Eleanor Holmes Norton. ​ Robert White, Jr. is a proud 5th-generation Washingtonian, growing up in the Petworth neighborhood.
 He graduated from Archbishop Carroll High School in Washington, D.C., and earned degrees in Philosophy and Political Science from St.
 Mary’s College of Maryland.
 He completed additional studies at Oxford University in England and in The Gambia, West Africa.
@@ -22,10 +21,13 @@ Securities and Exchange Commission, reside in Ward 4 with their two daughters, M
 The family attends St.
 Martin’s Catholic Church.
 Robert has dedicated his career to fighting for justice, equity, and opportunity for all residents of Washington, D.C.
-Help us fuel the fight
-This Campaign is Powered by You.
+Help us fuel the fight This Campaign is Powered by You .
 Every volunteer, every donor, every neighbor makes this campaign stronger.
 Join the fight and help us deliver bold leadership for DC.
 Robert White for Congress is a federal campaign and not part of the D.C.
 Fair Elections Program.
-This race does not receive public matching funds, so every dollar counts.
+This race does not receive public matching funds, so every dollar counts. $10 $50 $100 $200 $500 $1,000 $3,500 OTHER Stay Informed .
+Stay Involved .
+Email Phone Short answer Submit jointhefight@joinrobertwhite.com | 3401 12th St.
+NE, PO Box 29033, Washington, DC 20017 Join Robert White ©# All Rights Reserved.
+Terms and Conditions Privacy Policy Paid For By the Congressional Committee to Elect Robert White 2026 bottom of page

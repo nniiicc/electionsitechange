@@ -1,24 +1,7 @@
-Union Strong - Post - Blitz to the Primaries
-Rosetta Brown will host a community "Union Strong – Building Forward Together,” labor appreciation event supported by the Greater Madison County Federation of Labor AFL-CIO.
+0 Skip to Content Rosie Brown for Illinois State Representative #111 Home Rosie's Political Agenda Contact About Bio News Blog Events Donate Donate Now ActBlue Get Involved Schedule with Rosie Open Menu Close Menu Rosie Brown for Illinois State Representative #111 Home Rosie's Political Agenda Contact About Bio News Blog Events Donate Donate Now ActBlue Get Involved Schedule with Rosie Open Menu Close Menu Folder: Home Back Rosie's Political Agenda Contact Folder: About Back Bio News Blog Events Folder: Donate Back Donate Now ActBlue Get Involved Schedule with Rosie Back to All Events Union Strong - Post - Blitz to the Primaries Thursday, June 11, 2026 6:00 PM 7:00 PM Machinists Union Hall 161 North Shamrock Street East Alton, IL, 62024 United States (map) Google Calendar ICS Union Strong - Post - Blitz to the Primaries Rosetta Brown will host a community "Union Strong – Building Forward Together,” labor appreciation event supported by the Greater Madison County Federation of Labor AFL-CIO .
 This evening is dedicated to honoring union members, families, friends, and retirees across Madison County.
-Thursday, June 11, 2026
-6:00 PM – 9:00 PM
-Machinists Union Hall – 161 N.
-Shamrock St., East Alton, IL
-This event will include food, drinks, music, recognition of local union members, and space for conversations focused on working families and the issues that matter most to them.
-Sponsorship Levels:
-- $1,000 – Solidarity Sponsor
-Includes 6 wristbands, food/drinks, and program recognition
-- $500 – Union Strong Sponsor
-Includes 4 wristbands, food/drinks, and program recognition
-- $250 – Working Families Sponsor
-Includes 2 wristbands, food/drinks, and program recognition
-General Admission:
-$35 (includes entry and meal)
-Donations can be made to:
-https://square.link/u/uSD8U5Cz
-https://secure.actblue.com/donate/union-strong-post-blitz-to-the-primaries
-(Checks payable to Friends of Rosetta Brown
-This gathering is part of a regional effort to highlight the needs and voices of working people in Madison County.
+Thursday, June 11, 2026 6:00 PM – 9:00 PM Machinists Union Hall – 161 N.
+Shamrock St., East Alton, IL This event will include food, drinks, music, recognition of local union members, and space for conversations focused on working families and the issues that matter most to them.
+Sponsorship Levels: - $1,000 – Solidarity Sponsor Includes 6 wristbands, food/drinks, and program recognition - $500 – Union Strong Sponsor Includes 4 wristbands, food/drinks, and program recognition - $250 – Working Families Sponsor Includes 2 wristbands, food/drinks, and program recognition General Admission: $35 (includes entry and meal) Donations can be made to: https://square.link/u/uSD8U5Cz https://secure.actblue.com/donate/union-strong-post-blitz-to-the-primaries (Checks payable to Friends of Rosetta Brown This gathering is part of a regional effort to highlight the needs and voices of working people in Madison County.
 Union members and supporters are encouraged to attend to stay engaged with labor‑focused conversations happening locally.
-Hosted by:
+Hosted by: Greater Madison County Federation of Labor AFL-CIO Previous Previous May 26 The RIFL Act Advocacy Day Next Next June 19 INTERFAITH PRAISE SERVICE & PASTORAL BREAKFAST Rosie Brown for Illinois State Representative District #111 Paid for by Friends of Rosetta Brown Email rosie@rosiebrownforillinoisstaterep111.com

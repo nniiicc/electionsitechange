@@ -1,4 +1,2 @@
-President Trump is uniting Republicans AND Americans across the political spectrum who want secure borders, safe cities and economic prosperity.
-STAND WITH NICOLE
-by Team Nicole on
-Jul 18, 2024
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Nicole Malliotakis Malliotakis: President Trump Is Uniting Americans Across the Political Spectrum by Team Nicole on Jul 18, 2024 President Trump is uniting Republicans AND Americans across the political spectrum who want secure borders, safe cities and economic prosperity.
+Watch share NEXT ARTICLE Malliotakis: President Trump Will Make America Safe, Affordable & Prosperous Again PREVIOUS ARTICLE Malliotakis on Newsmax: Republican Convention is uniting Republicans & Americans STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

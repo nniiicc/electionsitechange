@@ -1,41 +1,23 @@
-My campaign for Maryland state senate in LD21 includes visits to churches in the district.
+Skip to content Havis For Senate Menu Close Donate Testimonials Issues News Events Open menu Lincoln Day Dinner with Cong.
+Jim Jordan Contact Us Open menu Join the team Category: news “Touch of Love” in Laurel Lee and Pastor Wale Maye at Touch of Love church in Laurel My campaign for Maryland state senate in LD21 includes visits to churches in the district.
 On Sunday, October 21, 2018, I enjoyed the service and meeting members of the “Touch of Love” church in Laurel.
 In the picture, I’m with pastor Wale Maye, a native of Nigeria.
-Thanks to all the good people I have… Continue reading “Touch of Love” in Laurel
-Category: news
-Townhall meeting – in review
-Last week, on Thursday, October 18, 2018, I conducted a telephone townhall to discuss my campaign with LD21 voters and answer their questions and concerns about the direction of government in Maryland.
-I pointed out the change of direction that I would take from the current incumbent’s approach of higher taxes and special interest politics… Continue reading Townhall meeting – in review
-Final Push Fundraser – October 13, 2018
-The Havis campaign conducted its “Final Push” fundraiser with State Senate “Big Ed” Reilly from Anne Arundel County in Beltsville on Saturday October 13.
-Lee and Senator Reilly both spoke about the challenge and opportunity of this important midterm election to the future government of Maryland.
-(see images below) Thanks to main sponsors: Camillo Di… Continue reading Final Push Fundraser – October 13, 2018
-University of Maryland – football game sign waving
-On the past two Saturdays, the Havis campaign was sign-waving before the University of Maryland home football games.
+Thanks to all the good people I have… Continue reading “Touch of Love” in Laurel Published October 23, 2018 Categorized as news Townhall meeting – in review Talk about issues with Lee Havis Last week, on Thursday, October 18, 2018, I conducted a telephone townhall to discuss my campaign with LD21 voters and answer their questions and concerns about the direction of government in Maryland.
+I pointed out the change of direction that I would take from the current incumbent’s approach of higher taxes and special interest politics… Continue reading Townhall meeting – in review Published October 23, 2018 Categorized as news Final Push Fundraser – October 13, 2018 Lee Havis, speaking at Final Push fundraiser The Havis campaign conducted its “Final Push” fundraiser with State Senate “Big Ed” Reilly from Anne Arundel County in Beltsville on Saturday October 13.
+Lee and Senator Reilly both spoke about the challenge and opportunity of this important midterm election to the future government of Maryland. (see images below) Thanks to main sponsors: Camillo Di… Continue reading Final Push Fundraser – October 13, 2018 Published October 18, 2018 Categorized as news University of Maryland – football game sign waving On the past two Saturdays, the Havis campaign was sign-waving before the University of Maryland home football games.
 Thanks to Emily Wendt, Frank and Barbara Welsh, Glenn Davis, and Linda Ferrete, Havis campaign volunteers who were active in these events.
-Visit to Laurel Presbyterian Church
-On Sunday, September 9, I attended services at the Laurel Presbyterian Church.
-After the service, I had a chance to meet a member, George Jing and his son, Jayden.
-(see picture here) George is a naturalized US citizen originally from the African country of Camaroons.
-I agreed with his analysis of the problem of “public… Continue reading Visit to Laurel Presbyterian Church
-At Riderwood Retirement Village
-On September 6, 2018, I spoke to members of the Riderwood Republican Club, located at the Riderwood Retirement Village in Silver Spring, MD.
+Published September 22, 2018 Categorized as news Visit to Laurel Presbyterian Church On Sunday, September 9, I attended services at the Laurel Presbyterian Church.
+After the service, I had a chance to meet a member, George Jing and his son, Jayden. (see picture here) George is a naturalized US citizen originally from the African country of Camaroons.
+I agreed with his analysis of the problem of “public… Continue reading Visit to Laurel Presbyterian Church Published September 22, 2018 Categorized as news At Riderwood Retirement Village On September 6, 2018, I spoke to members of the Riderwood Republican Club, located at the Riderwood Retirement Village in Silver Spring, MD.
 In the photo, I’m shown with Michael and Carol Mullins and another Riderwood club member seated.
 Carol and Michael are main leaders of the Club.
-In my presentation, I focused on the need to bring… Continue reading At Riderwood Retirement Village
-Installing “Havis” signs
-On August 23, 2018 I met with Tom Stokes of “Precision small engines” in College Park to discuss issues of government regulations related to the operation of his business in the area.
-In the State Senate, I would work to support this type of small business enterprise, which we most need to revitalize a vibrant… Continue reading Installing “Havis” signs
-Kick-off Campaign Fundraiser
-The kick-off campaign fundraiser, held in College Park on August 29, 2018, raised some much needed new funds for the campaign.
+In my presentation, I focused on the need to bring… Continue reading At Riderwood Retirement Village Published September 22, 2018 Categorized as news Tagged Riderwood Retirement Village Installing “Havis” signs On August 23, 2018 I met with Tom Stokes of “Precision small engines” in College Park to discuss issues of government regulations related to the operation of his business in the area.
+In the State Senate, I would work to support this type of small business enterprise, which we most need to revitalize a vibrant… Continue reading Installing “Havis” signs Published September 3, 2018 Categorized as news Kick-off Campaign Fundraiser The kick-off campaign fundraiser, held in College Park on August 29, 2018, raised some much needed new funds for the campaign.
 It was also successful for bringing together Havis campaign supporters, some from far outside the local College Park area.
-Those attended enjoyed the social conversation, as well our discussion about my plan to bring… Continue reading Kick-off Campaign Fundraiser
-Attending Holy Trinity Lutheran Church in Laurel
-On Sunday August 19, 2018, I attended outdoor worship services at the Holy Trinity Lutheran Church in Laurel, MD.
+Those attended enjoyed the social conversation, as well our discussion about my plan to bring… Continue reading Kick-off Campaign Fundraiser Published September 3, 2018 Categorized as news Attending Holy Trinity Lutheran Church in Laurel l to r, Pastor Connie Miller, Lee Havis, and Dotty Westrom On Sunday August 19, 2018, I attended outdoor worship services at the Holy Trinity Lutheran Church in Laurel, MD.
 The weather was perfect, with music and a challenging message by Pastor Connie Miller.
 In the photos, I’m shown with one member, Sam Morris, whose family comes originally from Liberia, West Africa.
-In the other, Pastor… Continue reading Attending Holy Trinity Lutheran Church in Laurel
-More sign waving in Laurel
-Lee was doing more sign waving to greet motorists in Laurel, MD on Thursday, August 16.
-In the picture, he is shown with Frank Welsh (on left), who joined him in this event at the intersection of busy Rt. #198 and Van Dusen Rd.
-Next sign-wave event is set for Beltsville, with specific location to… Continue reading More sign waving in Laurel
+In the other, Pastor… Continue reading Attending Holy Trinity Lutheran Church in Laurel Published August 21, 2018 Categorized as news More sign waving in Laurel Lee was doing more sign waving to greet motorists in Laurel, MD on Thursday, August 16.
+In the picture, he is shown with Frank Welsh (on left), who joined him in this event at the intersection of busy Rt.
+#198 and Van Dusen Rd.
+Next sign-wave event is set for Beltsville, with specific location to… Continue reading More sign waving in Laurel Published August 17, 2018 Categorized as news Posts pagination Newer posts Page 1 Page 2 … Page 4 Older posts Archives Select Month August 2026 July 2026 May 2026 April 2026 October 2022 September 2022 August 2022 May 2022 December 2018 October 2018 September 2018 August 2018 July 2018 June 2018 April 2018 March 2018 January 2018 September 2017 July 2017 Search Search X Facebook LinkedIn Mail HAVIS FOR SENATE • Lee Havis, Republican Candidate, LD 21 • Maryland State Senate • lee@havisforsenate.com by authority, Havis for Senate, Glenn Davis, Treasurer Privacy Policy

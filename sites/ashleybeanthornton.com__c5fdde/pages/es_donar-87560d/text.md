@@ -1,11 +1,3 @@
-Para donar por cheque:
-Hacer cheque a:
-ABT para TEX
-Enviar a:
-ABT para TEX
-4300 W.
-Waco Drive
-Suite 2B, Caja 193
-Waco, TX 76710
-¡Gracias por tu apoyo!
-¡Cada donación, grande o pequeña, nos ayuda a trabajar juntos para construir el Texas en el que queremos vivir!
+Ir al contenido Donar Inicio EN/ES English Spanish FB IG Blog Tienda Voluntario Boletín informativo Letrero de jardín Inicio EN/ES English Spanish FB IG Blog Tienda Voluntario Boletín informativo Letrero de jardín El Texas que queremos Trabajando juntos La Economía de Texas Escuelas públicas sólidas Ashley Bean Thornton para el Distrito 56 de la Cámara de Representantes de Texas Donar Para donar por cheque: Hacer cheque a: ABT para TEX Enviar a: ABT para TEX 4300 W.
+Waco Drive Suite 2B, Caja 193 Waco, TX 76710 Para donar con tarjeta de crédito, haz clic aquí. ¡Gracias por tu apoyo! ¡Cada donación, grande o pequeña, nos ayuda a trabajar juntos para construir el Texas en el que queremos vivir! Únete a la campaña Donar Suscríbete al boletín informativo Donar Inicio EN/ES English Spanish FB IG Blog Tienda Voluntario Boletín informativo Letrero de jardín Inicio EN/ES English Spanish FB IG Blog Tienda Voluntario Boletín informativo Letrero de jardín El Texas que queremos Trabajando juntos La Economía de Texas Escuelas públicas sólidas Facebook Instagram Info@AshleyBeanThornton.com Publicidad política pagada por ABT para TEX.
+4300 W Waco Drive, Suite 2B, Apartado postal 193 • Waco, Texas 76710 © #-# Campaña Thornton for Texas Términos del servicio | Política de privacidad | Descargo de responsabilidad | Sitio web creado por Mariposa de los medios digitales

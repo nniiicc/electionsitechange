@@ -1,21 +1,94 @@
 [
-"http://maps.google.com/?q=Queens%2C+NY",
-"https://facebook.com/realmikescala",
-"https://instagram.com/scalavision",
-"https://rockawave.com/articles/page-5-op-ed-10",
-"https://rockawave.com/articles/page-5-op-ed-6",
-"https://rockawave.com/articles/page-5-op-ed-8",
-"https://rockawave.com/articles/united-we-must-stand",
-"https://scala.vision/",
-"https://scala.vision/issues",
-"https://scala.vision/meet-mike",
-"https://scala.vision/press-room",
-"https://scala.vision/press-room?query-1-page=2",
-"https://scala.vision/press-room?query-9-page=15&query-1-page=2",
-"https://scala.vision/press-room?query-9-page=16&query-1-page=2",
-"https://scala.vision/press-room?query-9-page=17&query-1-page=1",
-"https://scala.vision/press-room?query-9-page=17&query-1-page=3",
-"https://scala.vision/volunteer",
-"https://secure.actblue.com/donate/mike-scala",
-"https://twitter.com/mikegscala"
+{
+"text": "1",
+"href": "https://scala.vision/press-room/?cst=&query-1-page=2"
+},
+{
+"text": "15",
+"href": "https://scala.vision/press-room/?query-9-page=15&cst=&query-1-page=2"
+},
+{
+"text": "16",
+"href": "https://scala.vision/press-room/?query-9-page=16&cst=&query-1-page=2"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/mike-scala"
+},
+{
+"text": "Debates Are Central to Democracy",
+"href": "https://www.rockawave.com/articles/page-5-op-ed-10/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/realmikescala"
+},
+{
+"text": "Fix Tier 6",
+"href": "https://www.rockawave.com/articles/page-5-op-ed-6/#new_tab"
+},
+{
+"text": "Home",
+"href": "https://scala.vision/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/scalavision"
+},
+{
+"text": "Issues",
+"href": "https://scala.vision/issues/"
+},
+{
+"text": "Meet Mike",
+"href": "https://scala.vision/meet-mike/"
+},
+{
+"text": "Next Page",
+"href": "https://scala.vision/press-room/?query-9-page=17&query-1-page=3"
+},
+{
+"text": "Press Room",
+"href": "https://scala.vision/press-room/"
+},
+{
+"text": "Previous Page",
+"href": "https://scala.vision/press-room/?query-9-page=16&query-1-page=2"
+},
+{
+"text": "Previous Page",
+"href": "https://scala.vision/press-room/?query-9-page=17&query-1-page=1"
+},
+{
+"text": "Queens, NY",
+"href": "http://maps.google.com/?q=Queens%2C+NY"
+},
+{
+"text": "Twitter",
+"href": "https://www.twitter.com/mikegscala"
+},
+{
+"text": "United We Must Stand",
+"href": "https://www.rockawave.com/articles/united-we-must-stand/#new_tab"
+},
+{
+"text": "We Must Continue Opposing the NESE Pipeline",
+"href": "https://www.rockawave.com/articles/page-5-op-ed-8/"
+},
+{
+"text": "[image: Contribute]",
+"href": "https://secure.actblue.com/donate/mike-scala"
+},
+{
+"text": "[image: Scala for Assembly]",
+"href": "https://scala.vision/"
+},
+{
+"text": "[image: Volunteer to help Mike Scala for New York State Assembly]",
+"href": "https://scala.vision/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/realmikescala"
+}
 ]

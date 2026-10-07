@@ -1,4 +1,6 @@
-GET INVOLVED We need your help to elect Laura Ellman to the Illinois State Senate.
+Toggle navigation ABOUT LAURA MY VISION ISSUES GET INVOLVED REQUEST A YARD SIGN THE 21ST DISTRICT ENDORSEMENTS DONATE TODAY GET INVOLVED We need your help to elect Laura Ellman to the Illinois State Senate.
 Fill out the form below and let us know how you want to get involved, and a member of our team will be in touch.
 Notice: JavaScript is required for this content.
-UPCOMING EVENTS: GET OUT THE VOTE Canvassing with Laura Ellman, JB Pritzker, Sean Casten for Congress and Lauren Underwood for Congress 11/3-11/6
+UPCOMING EVENTS: GET OUT THE VOTE Canvassing with Laura Ellman, JB Pritzker, Sean Casten for Congress and Lauren Underwood for Congress 11/3-11/6 Notice: JavaScript is required for this content.
+PROMOTIONAL COMMUNICATIONS You may “opt out” of receiving promotional communications (such as text messages, email updates, and newsletters) from Ellman for IL Senate D21 by following the instructions in those communications.
+Please note that we may still send you other types of non-promotional communications, such as those about your use of the Services or any of your donations, transactions, or activities related to the Services PAID FOR BY ELLMAN FOR IL SENATE D21

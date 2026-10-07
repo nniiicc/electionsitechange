@@ -1,7 +1,11 @@
 {
- "description": "Instrucciones para enviar una contribuci\u00f3n por cheque a Greg Abdouch para la Asamblea del Distrito 45.",
+ "description": "Instrucciones para enviar una contribución por cheque a Greg Abdouch para la Asamblea del Distrito 45.",
  "final_url": "https://www.abdouchforca.com/es/donate-by-check",
- "paid_for_by": null,
+ "fingerprint": "8cabcb3f95729b29e357dbb0f7ff9e6b2150f176",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donar con Cheque | Greg Abdouch para la Asamblea de CA",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

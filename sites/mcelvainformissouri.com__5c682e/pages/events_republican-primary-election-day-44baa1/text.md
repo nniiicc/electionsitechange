@@ -1,6 +1,2 @@
-Back to All Events
-Go vote for Roth!
-Previous
-Previous
-May 7
-Go vote for Roth!
+0 Skip to Content Home About Me Endorsements Contact Events Facebook Donate Now Open Menu Close Menu Home About Me Endorsements Contact Events Facebook Donate Now Open Menu Close Menu Home About Me Endorsements Contact Events Facebook Donate Now Back to All Events Republican Primary Election Day Tuesday, August 4, 2026 6:00 AM 7:00 PM Google Calendar ICS Go vote for Roth!
+Previous Previous May 7 Cocktail Fundraiser Paid for by Committee to Elect Roth McElvain, Treasurer Chad Englehardt mcelvainformissouri@gmail.com

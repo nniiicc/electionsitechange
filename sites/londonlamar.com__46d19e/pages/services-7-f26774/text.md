@@ -1,18 +1,6 @@
-top of page
-PLATFORMS
-Strong Schools
-Senator London Lamar is committed to building Strong Schools and committed to advocating for Tennessee public school systems.
-Funding School Systems & Providing Resources
-- 100% fully funded public school systems
-- Additional resources and funding for special education and at-risk youth
-- Additional resources for title one schools and economically disadvantaged families
-- Advocating for a statewide 10% raise for all teachers
-- Wrap around paternal services
-College Readiness
-- 100% college and career readiness upon graduation
-- 100% reading and math proficiency by 3rd
-Safe Schools
-- Lead-Free Schools
-- More school safety officers
-- Greater autonomy for local educational systems
-bottom of page
+top of page HOME DONATE ABOUT PLATFORMS Strong Schools Healthy Families Safe Communities CONTACT VOLUNTEER More Use tab to navigate through the menu items.
+PLATFORMS Strong Schools Senator London Lamar is committed to building Strong Schools and committed to advocating for Tennessee public school systems.
+Funding School Systems & Providing Resources ​ #% fully funded public school systems Additional resources and funding for special education and at-risk youth Additional resources for title one schools and economically disadvantaged families Advocating for a statewide #% raise for all teachers Wrap around paternal services College Readiness 100% college and career readiness upon graduation 100% reading and math proficiency by 3rd Safe Schools Lead-Free Schools More school safety officers Greater autonomy for local educational systems $# $# $# $# $# Choose an amount.
+If your payment information is saved in ActBlue, your donation will be completed immediately.
+Home About Me News Events Get Involved Contact Paid for by London Lamar for State Senate Sen.
+London Lamar 901-730-6281 info@LondonLamar.com ​ Legislative Office 425 5th Ave N, Suite 762 Nashville, TN 37243 615-741-2590 Sen.London.Lamar@capitol.tn.gov bottom of page

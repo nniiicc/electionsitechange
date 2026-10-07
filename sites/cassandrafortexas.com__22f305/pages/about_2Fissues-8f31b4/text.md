@@ -1,4 +1,4 @@
-Representative Hernandez recently completed her first legislative session in Austin, achieving key wins for constituents including funding for public schools and teachers, property tax relief, investment in public safety, healthcare, infrastructure improvements and more.
+Home Donate RSVP VOTING INFO About/Issues Contact action Privacy Policy Coffee signs More Home Donate RSVP VOTING INFO About/Issues Contact action Privacy Policy Coffee signs Home Donate RSVP VOTING INFO About/Issues Contact action Privacy Policy Coffee signs ABOUT state representative CASSANDRA HERNANDEZ Representative Hernandez recently completed her first legislative session in Austin, achieving key wins for constituents including funding for public schools and teachers, property tax relief, investment in public safety, healthcare, infrastructure improvements and more.
 As Vice Chair of the State and Federal Relations Committee and a Member of the Intergovernmental Affairs Committee, Representative Hernandez advocated for affordable housing, mental health services, and public safety, and she fought attempts to chip away at local control.
 She was also honored to be named Mexican American Legislative Caucus Freshman of the Year.
 Representative Hernandez launched a highly-successful internship program to expose young people to government and inspire them about public service.
@@ -28,25 +28,24 @@ Representative Hernandez has a long history of volunteerism.
 She has been a leader, volunteer, and member of many organizations, including: Catholic Charities, Dallas and Galveston-Houston; Genesis Women’s Shelter; Hope’s Door; Dallas Pets Alive; Stewpot; Attitudes & Attire (Boots to Heels); Dallas Bar Association; Dallas Trial Lawyers Association; Dallas Women Lawyers Association; St.
 Thomas More Society; Dallas Evictions 2020; We Care; Mexican American Bar Association; DFW Muslim Bar Association; Texas Muslim Women’s Foundation; NAACP; LULAC; Texas Bar College; Texas Trial Lawyers Association; JL Turner Legal Association; the Dallas LGBT Bar Association; Sickofit Texas; Carrollton-Farmers Branch Rotary; Dallas Democratic Forum; Annie’s List; Metrocrest Services; Metrocrest Chamber of Commerce; and Coppell Chamber of Commerce.
 When she is not advocating on behalf of others and her community, Representative Hernandez and her husband enjoy spending time with their rescue dog and exploring events and restaurants in North Texas.
-Texas families rely on public education.
+State Representative Hernandez on the Issues PUBLIC EDUCATION reproductive rights PUBLIC EDUCATION Texas families rely on public education.
 Representative Hernandez opposes attempts to undermine public schools.
-Her priority is to fully fund public schools with state funds and take care of teachers, while lowering property taxes.
-Representative Hernandez will work to implement reasonable gun safety reforms to stop gun violence.
-She supports the right to bear arms, but she also believes that practical policy changes can save lives without infringing on the 2nd Amendment.
-Extremists have taken control of our legislature and repealed rights that women have counted on for decades.
+Her priority is to fully fund public schools with state funds and take care of teachers, while lowering property taxes. gun safety reproductive rights PUBLIC EDUCATION Representative Hernandez will work to implement reasonable gun safety reforms to stop gun violence.
+She supports the right to bear arms, but she also believes that practical policy changes can save lives without infringing on the 2nd Amendment. reproductive rights reproductive rights reproductive rights Extremists have taken control of our legislature and repealed rights that women have counted on for decades.
 Representative Hernandez supported exceptions to the current ban on reproductive choice.
 She will not rest until a woman's right to choose has been restored.
-Too many Texans are without health care, or struggling to keep up with the expense.
+HEALTH CARE ACCESS HEALTH CARE ACCESS HEALTH CARE ACCESS Too many Texans are without health care, or struggling to keep up with the expense.
 Representative Hernandez believes that increasing access to health care is the right thing to do.
 She also knows that expanding Medicaid will create an influx of billions of dollars into the Texas economy.
-Overdoses and tragic deaths caused by Fentanyl and other opioids have been rampant in parts of House District 115.
+FENTANYL CRISIS HEALTH CARE ACCESS HEALTH CARE ACCESS Overdoses and tragic deaths caused by Fentanyl and other opioids have been rampant in parts of House District 115.
 Representative Hernandez will take the crisis seriously and support all measures to save lives, provide counseling and mental health support, and prosecute drug dealers.
-Texans are overburdened with skyrocketing property taxes and could be paying less if the state government made changes to the budget to support public education.
+PROPERTY TAXES PROPERTY TAXES PROPERTY TAXES Texans are overburdened with skyrocketing property taxes and could be paying less if the state government made changes to the budget to support public education.
 Representative Hernandez supports the use of revenue surpluses to fund public schools, in order to provide relief to homeowners.
-Representative Hernandez wants every Texan to have a fair shot.
+WORKERS RIGHTS PROPERTY TAXES PROPERTY TAXES Representative Hernandez wants every Texan to have a fair shot.
 She will work to protect and grow the middle class, and provide greater access to economic opportunity.
 Representative Hernandez supports raising the minimum wage.
 She will work to roll back legislation - passed by the Texas GOP in the last session - that attacked workers and stripped away protections.
 She wants to restore the right for all public employees to organize and bargain for better pay and conditions.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Cassandra Hernandez for Texas P.O.
+Box 1289, Addison, Texas 75001 Copyright © # Cassandra Hernandez for Texas - All Rights Reserved.
+Pol. adv. paid by Cassandra Hernandez for Texas.

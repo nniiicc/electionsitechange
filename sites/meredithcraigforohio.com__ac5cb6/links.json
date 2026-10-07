@@ -1,9 +1,42 @@
 [
-"https://meredithcraigforohio.com/",
-"https://meredithcraigforohio.com/about-5",
-"https://meredithcraigforohio.com/about-5-1",
-"https://meredithcraigforohio.com/copy-of-about",
-"https://meredithcraigforohio.com/privacy-policy",
-"https://secure.winred.com/friends-of-meredith-craig/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://web.facebook.com/meredithcraigforohio?_rdc=1"
+{
+"text": "About",
+"href": "https://www.meredithcraigforohio.com/about-5"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-meredith-craig/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Endorsements",
+"href": "https://www.meredithcraigforohio.com/about-5-1"
+},
+{
+"text": "Home",
+"href": "https://www.meredithcraigforohio.com"
+},
+{
+"text": "Legislative Priorities",
+"href": "https://www.meredithcraigforohio.com/copy-of-about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.meredithcraigforohio.com/privacy-policy"
+},
+{
+"text": "SIGN UP",
+"href": "https://www.meredithcraigforohio.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://web.facebook.com/meredithcraigforohio?_rdc=1&_rdr="
+},
+{
+"text": "[image: meredith craig logo.png]",
+"href": "https://www.meredithcraigforohio.com"
+},
+{
+"text": "[image]",
+"href": "https://www.meredithcraigforohio.com"
+}
 ]

@@ -1,5 +1,4 @@
-Meet Josh
-I’m not running for Congress, I’m running to reform Congress.
+Vote for Josh Brecheen in the Primary on June 16 Home The Issues Meet Josh Contact Donate Endorsed by Trump Home The Issues Meet Josh Contact Donate Endorsed by Trump Meet Josh I’m not running for Congress, I’m running to reform Congress.
 I’m a 4th generation rancher.
 I’m a committed Christian, husband, father and I’ve operated a small heavy equipment and trucking business.
 I grew up learning the value of hard work while cleaning horse stalls, breaking colts, and hauling square bales.
@@ -16,5 +15,5 @@ Winning elections means nothing if we lose our nation.
 We the People must demand virtue in D.C. again.
 We can restore our nation, but only if we elect leaders who practice self-restraint over selfish gain and value character over careerism.
 We need promise keepers, not power seekers.
-We Need
-Your Help!
+We Need Your Help!
+Paid for by Josh Brecheen For Congress 4019 W Highway 70 #310 Durant, OK 74701 Donate Privacy Policy

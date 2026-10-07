@@ -1,82 +1,49 @@
-Follow Vicki on Facebook and Instagram
-Joe Angelino has sponsored numerous bills during his time in office.
+Skip to content Donate Now Donate Now Vicki Davis for NY Assembly 121 Platform Events Volunteer News Endorsements Map of NY121 Contact Vicki Davis for NY Assembly 121 Donate Now Donate Now Platform Events Volunteer News Endorsements Map of NY121 Contact News Public Matching Funds Program Read More New York Health Act Read More Press Release – May 4, 2026 Read More Follow Vicki on Facebook and Instagram Used for the like, share, comment, and reaction icons Vicki Davis for NYS Assembly 121 #ago I’m proud to announce that I have been recognized as a New York Health Act Healthcare Champion.
+The New York Health Act would guarantee healthcare for every New Yorker.
+Medical care, dental, vision, hearing, mental healthcare, prescription drugs, long-term care and more would be covered under one comprehensive plan.
+I have spoken to voters across the district that are already struggling to pay their bills and are just one major illness or accident away from losing everything.
+I have also spoken to municipal and school representatives whose budgets are ballooning with healthcare costs for their employees – costs that are passed down to taxpayers or that force cuts in services and programming.
+The New York Health Act could make the difference between schools consolidating or not, families losing their homes or not, or individuals accessing their lifesaving treatments or not.
+In short: New Yorkers would get more and spend less.
+Let’s pass the NY Health Act.
+Learn more: www.nyhcampaign.org/ Campaign for New York Health Delaware County NY Democrats Otsego County Democrats Broome County Democratic Party Madison County NY Democratic Committee Chenango County Democrats Binghamton City Democratic Committee Town of Sidney NY Democratic Committee Democratic Women of Broome County Hamilton Democratic Committee … See More See Less View Comments Like reaction Love reaction Reactions: 7 Comments: 0 Shares: 0 (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 0 Comments Comment on Facebook Vicki Davis for NYS Assembly 121 #ago Over 50 million adults and 8 million kids experience a mental health condition each year.
+Half do not get the care they need.
+The New York Health Act guarantees healthcare for all, including dental, vision, mental health and reproductive care.
+Healthcare is a human right.
+Our state budget reflects our values and at some point, We the People must again be the focus.
+Not only does the New York Health Act guarantee coverage to all of us, but it will also save us billions per year.
+I am in total support of the New York Health Act.
+It is the morally and fiscally right thing to do.
+This November, vote for candidates that support healthcare for all.
+Vote Vicki Davis for NY 121 – a Mental Health Now Candidate. inseparable Campaign for New York Health Delaware County NY Democrats Chenango County Democrats Otsego County Democrats Broome County Democratic Party Madison County NY Democratic Committee Town of Sidney NY Democratic Committee Binghamton City Democratic Committee Democratic Women of Broome County Hamilton Democratic Committee … See More See Less View Comments Like reaction Reactions: 1 Comments: 0 Shares: 2 (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 0 Comments Comment on Facebook Vicki Davis for NYS Assembly 121 #ago Early Voting Starts October 24th! – mailchi.mp/6612b0e63ac4/vicki-davis-for-ny-assembly-13359918 … See More See Less View Comments Like reaction Love reaction Reactions: 10 Comments: 1 Shares: 0 (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Vicki Davis for NYS Assembly 121 #ago Don’t let a last-minute surprise ruin your voting plan!
+Taking just five minutes today to verify your registration status, find your polling place, and check local ID requirements to save you a headache on Election Day: elections.ny.gov/ … See More See Less View Comments Like reaction Reactions: 3 Comments: 0 Shares: 1 (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 0 Comments Comment on Facebook Vicki Davis for NYS Assembly 121 #ago Thank you, Andrea, for your support and for your thoughtful, researched, post.
+I’ve had the privilege of speaking with Sherburne residents about their concerns regarding the proposed battery storage center, and residents across the district about data centers.
+They don’t feel their best interests are being properly represented in Albany, and neither do I.
+On Wednesday, October 7, I’ll be back in Sherburne and would love to meet even more neighbors at the Sherburne Inn starting at 11 a.m.
+I live in rural Up-State NY.
+Right now, we are a target for battery storage centers and data centers since we have large land masses that cost less than other places.
+In addition, the Northeast U.S. is the focus of data center builds due to our cooler climate and prevalent water supply.
+The governor, Kathy Hochul, had presented a bill to the NYS legislature to place a 1 year moratorium on construction of data centers in the state til more can be learned about the affects on environment and residents.
+It is a great concern for Up-State citizens…however, my assemblyman, Joe, Angelino voted against the moratorium.
+Angelino was, also the legislator who told us there was nothing we could do about a 40 megawatt lithium-ion battery storage center that was proposed for a rural residential area in the town of Sherburne.
+(These centers are known to frequently catch fire requiring neighboring residents and farm animals to be evacuated in such an instance) He cited a permitting agency, ORES… that has the right to override town laws and blamed the governor.
+He was wrong about the permit; the company did not receive a permit through ORES.
+Since that proposal, the town board has unanimously approved a law greatly limiting such a center, placing restrictions on the proposed build that would make it less likely to be constructed.
+Both, data centers and lithium-ion battery storage centers pose dangerous risks to the community.
+My question is….Who does he represent?
+I’m voting for Vicki Davis for NYS Assembly 121. … See More See Less View Comments Like reaction Love reaction Reactions: 8 Comments: 1 Shares: 2 (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Vicki Davis for NYS Assembly 121 #ago ENDORSED!
+SEIU Local 200United , a union of thousands of members who are working people striving for fair and just workplaces and communities, is committed to improving the lives of families and workers across New York – a commitment that I wholeheartedly share.
+Being a union member makes a big difference, and I’m proud to be a member endorsed by other members across multiple organizations.
+For a really great video history of SEIU and its impact, visit: www.seiu200united.org/about Delaware County NY Democrats Otsego County Democrats Broome County Democratic Party Madison County NY Democratic Committee Chenango County Democrats Binghamton City Democratic Committee Town of Sidney NY Democratic Committee Democratic Women of Broome County Hamilton Democratic Committee … See More See Less View Comments Like reaction Reactions: 9 Comments: 0 Shares: 4 (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 0 Comments Comment on Facebook Vicki Davis for NYS Assembly 121 is with Hamilton Democratic Committee and 9 others.
+#ago Joe Angelino has sponsored numerous bills during his time in office.
 The majority of his sponsored legislation was voted down when it reached the floor of the House.
 It seems that he is unable – or unwilling – to work across the aisle to garner support.
-Meanwhile, he’s voting against our best interests.
-• Voted against a bill that would prohibit the use of surveillance pricing and the collection of data to facilitate the practice.
-• Voted against establishing the New York Dignity in Pregnancy and Childbirth Act, which would require medical facilities that provide perinatal care to roll out an evidence-based implicit bias program for their healthcare providers and require the department of health to publish reports on maternal morbidity and pregnancy related deaths.
-• Voted against providing restoration services that could help make a defendant legally capable of standing trial.
-• Voted against the SUNNY Act, which would allow New Yorkers to utilize plug-in solar panels as a simple way to offset rising utility costs.
+Meanwhile, he’s voting against our best interests. • Voted against a bill that would prohibit the use of surveillance pricing and the collection of data to facilitate the practice. • Voted against establishing the New York Dignity in Pregnancy and Childbirth Act, which would require medical facilities that provide perinatal care to roll out an evidence-based implicit bias program for their healthcare providers and require the department of health to publish reports on maternal morbidity and pregnancy related deaths. • Voted against providing restoration services that could help make a defendant legally capable of standing trial. • Voted against the SUNNY Act, which would allow New Yorkers to utilize plug-in solar panels as a simple way to offset rising utility costs.
 This November, vote for Vicki Davis for Assembly District 121.
 She listens and she will protect the freedoms of rural New Yorkers.
 She’s the best candidate to bring your concerns to Albany and you can be confident she’ll work with fellow Assembly members to protect and support our best interests.
-See Angelino’s voting record for yourself at www.billtrack50.com/legislatordetail/25547
-…
-1 CommentsComment on Facebook
-Please mark your calendar for October 22 in Gilbertsville for this important event!This will be an informational evening to better prepare voters as they submit their ballot or vote on Election Day, November 3, 2026.
-The public is invited. …
-0 CommentsComment on Facebook
-If built, the long-denied fracked gas Constitution Pipeline would be a disaster for New Yorkers, threatening our water, costing families more on their energy bills, and posing serious health risks to nearby communities.
-Please consider joining the rally Tuesday, October 6, 12pm at the NYS Capitol, Albany.
-…
-This content isn't available right now
-When this happens, it’s usually because the owner only shared it with a small group of people, changed who can see it or it’s been deleted.
-0 CommentsComment on Facebook
-Visit your local democratic committee office and pick up yard signs, learn more about candidates, and sign up to volunteer!
-Every action matters! …
-Chenango County Democratic Headquarters are now open
-NORWICH — On Saturday, September 26, the Chenango County Democratic Headquarters was officially opened at 22 S.
-Broad Street in Norwich.
-The office is open Monday through Friday from 12:00 to 6:00 p…
-0 CommentsComment on Facebook
-Election deadlines!
-This one is for you, procrastinators 👀General Election Early Voting: October 24-November 1, 2026.
-Important deadlines:
-October 24: Voter registration deadline for General.
-Must be received by Delaware County Board of Elections no later than October 24, 2026.
-October 24 (if mailed) or November 2 (if hand-delivered): Early mail and absentee ballot request deadline for General.
-Mailed and online portal requests must be received no later than October 24, 2026.
-In-person requests must be received no later than November 2, 2026.
-November 3: Early mail and absentee ballot return deadline for General.
-Must be postmarked or returned in person by November 3, 2026.
-Postmarked ballots must arrive at Delaware County BOE by November 10, 2026.
-General Election will be held at your regular poll site.
-Early voting will be held at the Board of Elections Office, 97 Main St., Ste 5, Delhi, NY 13753.
-Please call our office Monday-Friday, 8:30 a.m.-4:00 p.m., with any questions.
-…
-0 CommentsComment on Facebook
-Have you checked your voter registration recently?
-Do it now, not while you're standing in line to vote.
-Thanks to the AFL-CIO for making it easy to check!
-…
-Check Your Voter Registration Status
-Have you moved, changed your name, or you’re just not sure of the status of your voter registration?
-Fill out the form below to check your status.
-0 CommentsComment on Facebook
-Canvassing and a potluck makes for a great Saturday!
-Please join the awesome students and Chenango County Democrats to get the word out about candidates such as myself.
-Your support is greatly appreciated!! …
-0 CommentsComment on Facebook
-With only 35 days until the Midterm Elections, I want to meet YOU no matter what your party affiliation (looking at you, unaffiliated!) and hear what is important to you and your family in District 121.
-Find me at an upcoming event and let me know what concerns you’d like me to bring to Albany:
-October 4 – The Uplift Collective’s Sidney Center Down Home Fall Fest
-October 7 – Sherburne Meet & Greet
-October 10 – Conklin Meet & Greet
-October 11 – Deposit Chamber of Commerce Octoberfest
-October 17 – Winsor Farms Halloween Touch a Truck
-October 17 – Madison County NY Democratic Committee Special Event
-October 22 – Gilbertsville Meet the Candidates
-Details available at vickidavisny121.com/
-Can’t make it to an event?
-Send me a message!
-Chenango County Democrats Otsego County Democrats Broome County Democratic Party Madison County NY Democratic Committee Town of Sidney NY Democratic Committee Binghamton City Democratic Committee Democratic Women of Broome County Hamilton Democratic Committee Delaware County NY Democrats
-…
-0 CommentsComment on Facebook
-On Sunday, September 20, I joined the Women’s Water Walk at La Patrona in Sidney for a welcoming reception.
-Then, on Tuesday, September 22, I was honored to walk with indigenous grandmothers and people of all ages and genders, from Unadilla to Franklin.
-It was a powerful and empowering experience I will never forget.
-If you are able, consider joining them on the last days of their walk in Schoharie County, donating to help fund the walk, sharing their posts on social media, or by reflecting on what clean water means to you and your community.
-I have spoken with individuals from across our district who say no to the Constitution Pipeline claiming eminent domain through their private property, trenching through waterways, threatening the Susquehanna watershed and all its people, plants, and animals.
-This project is not for local people; it only seeks to take from them as the fracked gas is sent elsewhere and drinking water is compromised along the way.
-…
-0 CommentsComment on Facebook
+See Angelino’s voting record for yourself at www.billtrack50.com/legislatordetail/25547 … See More See Less View Comments Like reaction Love reaction Reactions: 25 Comments: 1 Shares: 6 (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Vicki Davis for NYS Assembly 121 #ago Please mark your calendar for October 22 in Gilbertsville for this important event!
+This will be an informational evening to better prepare voters as they submit their ballot or vote on Election Day, November 3, 2026.
+The public is invited. … See More See Less View Comments Like reaction Reactions: 7 Comments: 0 Shares: 2 (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 0 Comments Comment on Facebook Vicki Davis for NYS Assembly 121 #ago If built, the long-denied fracked gas Constitution Pipeline would be a disaster for New Yorkers, threatening our water, costing families more on their energy bills, and posing serious health risks to nearby communities.
+Please consider joining the rally Tuesday, October 6, 12pm at the NYS Capitol, Albany. … See More See Less This content isn't available right now When this happens, it’s usually because the owner only shared it with a small group of people, changed who can see it or it’s been deleted.
+View Comments Like reaction Reactions: 5 Comments: 0 Shares: 0 (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 0 Comments Comment on Facebook Load more Copyright © # Vicki Davis for NY Assembly District 121 Scroll to Top

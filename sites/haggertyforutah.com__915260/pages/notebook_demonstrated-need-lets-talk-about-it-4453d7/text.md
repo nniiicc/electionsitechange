@@ -1,4 +1,4 @@
-Attending to Demonstrated Needs is part of fiscal stewardship.
+Search × Skip to content Home About Policy Get Involved Notebook Donate Now Donate Now Demonstrated Need - Let's Talk About It Attending to Demonstrated Needs is part of fiscal stewardship.
 It's not just "spending" money, it's tending to needs as they arise.
 In my time as a marketing specialist, I referred to it as a clog in the sales pipeline.
 The basic idea is that if your input is good but your output is not the outcome you want, you need to look at what’s happening in between and see where it is falling apart.
@@ -6,6 +6,8 @@ Right now, we’re seeing the current legislature with a lot of good input (I do
 The cost?
 Hundreds of millions in taxpayer dollars, with more expenditures to follow in the coming years.
 I’ll use HB209 and SB134 as the examples in this post, but I’ll leave a list of other bills that fit this unfortunate behavior down at the bottom for you to verify yourself if you’re feeling zesty.
+HB209: What is it?
+Why does it fit here?
 I’ll keep it brief.
 HB209 was the Voter Amendment bill that passed the House with a substitution.
 It tackled the hypothetical of non-citizens voting in our elections.
@@ -16,6 +18,8 @@ It imposed roughly half a dozen new processes and rules that would cost first ~$
 That’s a hefty price for redundancy to stop something that isn’t happening.
 It’s like paying for a security system for a bedroom inside a home that already has a security system.
 That you’re also paying for.
+SB134: What is it?
+Why does it fit here?
 Written by our very own Senator Chris Wilson, SB134 initially only added Supreme and Appellate Court justices to Utah benches.
 A revision of that bill added four district court judges across the entire state.
 The Judiciary asked only for district and juvenile court help.
@@ -32,7 +36,7 @@ I’ll admit, as a generally happy person, this makes me mad.
 As a constituent, that’s MY money.
 That’s YOUR money.
 And it seems that it is being funneled anywhere but back into meaningful solutions that help us.
-Looking at these bills, when we ask the question of who it benefits, you and I barely make an appearance in the fine print.
+Looking at these bills, when we ask the question of who it benefits, you and I barely make an appearance in the fine print .
 I find that behavior from our legislature wholly inappropriate and in severe need of correction.
 Utah has the resources.
 What we’re lacking right now is a demonstrated commitment to spending them where the need is clear.
@@ -41,10 +45,5 @@ Good faith or not, this lack of proper prioritization is not what Utah needs.
 Here is that list I promised.
 It is not comprehensive, as I haven't had the time to dig through all 700+ bills this session.
 However, trust that I am reading as fast as I can to get all the proper details sorted.
-Below are bills proposed or passed that do not solve documented issues and certainly do not provide meaningful relief to taxpayers:
-HB209 - One time cost: ~$19k | Ongoing cost: ~$10k
-HB392 - One time cost: ~$300k | Ongoing cost: ~$2.3m
-SB060 - One time cost: ~$23m | Ongoing: ~$101m
-NOTE: This is an income tax reduction, which sounds good on the surface until we remember it's half a percentage point and that this is where the majority of funding for education comes from and that cuts to education funding are happening this year.
-SB065 - One time cost: $900 | Ongoing: ~$900m
-NOTE: The ~$900m is coming directly out of the Education Fund and into a "special revenue fund." Friendly reminder: when asked in committee to NOT cut education funding, the chair said something to the effect of "well we have to find the money before we can fund education." Methinks I found it.
+Below are bills proposed or passed that do not solve documented issues and certainly do not provide meaningful relief to taxpayers: HB209 - One time cost: ~$19k | Ongoing cost: ~$10k HB392 - One time cost: ~$300k | Ongoing cost: ~$2.3m SB060 - One time cost: ~$23m | Ongoing: ~$101m NOTE : This is an income tax reduction, which sounds good on the surface until we remember it's half a percentage point and that this is where the majority of funding for education comes from and that cuts to education funding are happening this year.
+SB065 - One time cost: $900 | Ongoing: ~$900m NOTE: The ~$900m is coming directly out of the Education Fund and into a "special revenue fund." Friendly reminder: when asked in committee to NOT cut education funding, the chair said something to the effect of "well we have to find the money before we can fund education." Methinks I found it.

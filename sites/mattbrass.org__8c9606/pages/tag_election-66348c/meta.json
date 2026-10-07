@@ -1,7 +1,14 @@
 {
  "description": "",
  "final_url": "https://mattbrass.org/tag/election/",
- "paid_for_by": null,
+ "fingerprint": "1169fa80381c35084c9b327c216da12fb78c7f99",
+ "format": 3,
+ "paid_for_by": "",
  "title": "election | Matt Brass",
- "years_mentioned": []
+ "years_mentioned": [
+  "2016",
+  "2018",
+  "2019",
+  "2020"
+ ]
 }

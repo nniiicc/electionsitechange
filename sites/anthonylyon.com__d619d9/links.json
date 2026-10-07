@@ -1,12 +1,50 @@
 [
-"https://anthonylyon.com/",
-"https://anthonylyon.com/contact",
-"https://anthonylyon.com/endorsements",
-"https://anthonylyon.com/engage",
-"https://anthonylyon.com/events",
-"https://anthonylyon.com/meet-anthony",
-"https://anthonylyon.com/priorities",
-"https://facebook.com/profile.php?id=61577385792277",
-"https://instagram.com/lyonfordelegate",
-"https://secure.ngpvan.com/jsA_gM2xfkSb8TzBx7hFDA2"
+{
+"text": "CONTACT",
+"href": "https://www.anthonylyon.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.ngpvan.com/jsA_gM2xfkSb8TzBx7hFDA2"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.anthonylyon.com/endorsements"
+},
+{
+"text": "ENGAGE",
+"href": "https://www.anthonylyon.com/engage"
+},
+{
+"text": "EVENTS",
+"href": "https://www.anthonylyon.com/events"
+},
+{
+"text": "HOME",
+"href": "https://www.anthonylyon.com"
+},
+{
+"text": "MEET ANTHONY",
+"href": "https://www.anthonylyon.com/meet-anthony"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.anthonylyon.com/priorities"
+},
+{
+"text": "STAY UP TO DATE",
+"href": "https://www.anthonylyon.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61577385792277"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/lyonfordelegate"
+},
+{
+"text": "[image]",
+"href": "https://www.anthonylyon.com"
+}
 ]

@@ -1,5 +1,4 @@
-Meet Trygve
-I grew up in North Dakota and graduated from Velva High School.
+0 Skip to Content Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Meet Trygve I grew up in North Dakota and graduated from Velva High School.
 After graduation, I had no idea what I might want to study in college, and I had always felt the pull of military service, so I enlisted in the Navy out of high school and breezed through the Nuclear Power test.
 I was nominated by the Secretary of the Navy and appointed directly from the fleet to join the U.S.
 Naval Academy Class of 1990.
@@ -18,3 +17,5 @@ I am running for Congress, because it is time to put government to work for all 
 It is time to end the grandstanding and culture-war intrusions into our most personal decisions as persons, parents, and patients.
 It is time to elect a pro-worker, pro-choice, and pro-democracy leader to represent North Dakota in the U.S.
 House of Representatives.
+Pro-Worker, Pro-Freedom Pro-Democracy SUPPORT MY CAMPAIGN Mailing Address: Hammer for ND PO Box 58 Minot, ND 58702 General Inquiries: info@hammerfornd.com Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
+Paid for by Hammer for ND Follow Trygve on Social Media

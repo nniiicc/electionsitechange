@@ -1,18 +1,74 @@
 [
-"https://bing.com/ck/a?p=c9c2105ce10be01b65d51b92120d2ab3149f2d8af802dc3a872090687e1b21acJmltdHM9MTc4ODczOTIwMA&ptn=3&ver=2&hsh=4&fclid=1495ccc8-401f-68f5-05ed-db0541cf69cd&psq=washington+county+democratic+party+of+ky&u=a1aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzEwMDA2NDc1MTQ2Njc0OS8",
-"https://democrats.org/where-we-stand/party-platform",
-"https://jessaminedems.org/category/jessamine-county-democratic-party",
-"https://katrina4ky.com/",
-"https://katrina4ky.com/endorsements",
-"https://katrina4ky.com/get-involved",
-"https://katrina4ky.com/home",
-"https://katrina4ky.com/meet-katrina",
-"https://katrina4ky.com/platform",
-"https://katrina4ky.com/portfolio",
-"https://ky.aflcio.org/",
-"https://kydemocrats.org/counties/washington-county",
-"https://mercerdemsky.org/",
-"https://secure.actblue.com/donate/katrina4ky",
-"https://sierraclub.org/kentucky",
-"https://wix.com/"
+{
+"text": "CALENDAR",
+"href": "https://www.katrina4ky.com/home"
+},
+{
+"text": "DNC Platform",
+"href": "https://democrats.org/where-we-stand/party-platform/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/katrina4ky"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.katrina4ky.com/endorsements"
+},
+{
+"text": "GALLERY",
+"href": "https://www.katrina4ky.com/portfolio"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.katrina4ky.com/get-involved"
+},
+{
+"text": "Katrina Sexton",
+"href": "https://www.katrina4ky.com/home"
+},
+{
+"text": "MEET Katrina",
+"href": "https://www.katrina4ky.com/meet-katrina"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.katrina4ky.com/platform"
+},
+{
+"text": "WELCOME",
+"href": "https://www.katrina4ky.com"
+},
+{
+"text": "Washington County · Kentucky Democratic Party",
+"href": "https://www.bing.com/ck/a?%21=&p=c9c2105ce10be01b65d51b92120d2ab3149f2d8af802dc3a872090687e1b21acJmltdHM9MTc4ODczOTIwMA&ptn=3&ver=2&hsh=4&fclid=1495ccc8-401f-68f5-05ed-db0541cf69cd&psq=washington+county+democratic+party+of+ky&u=a1aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLzEwMDA2NDc1MTQ2Njc0OS8"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "for State Representative 55th District",
+"href": "https://www.katrina4ky.com/home"
+},
+{
+"text": "https://jessaminedems.org/category/jessamine-county-democratic-party/",
+"href": "https://jessaminedems.org/category/jessamine-county-democratic-party/"
+},
+{
+"text": "https://ky.aflcio.org",
+"href": "https://ky.aflcio.org"
+},
+{
+"text": "https://www.kydemocrats.org/counties/washington-county",
+"href": "https://www.kydemocrats.org/counties/washington-county"
+},
+{
+"text": "https://www.mercerdemsky.org/",
+"href": "https://www.mercerdemsky.org/"
+},
+{
+"text": "https://www.sierraclub.org/kentucky.",
+"href": "https://www.sierraclub.org/kentucky"
+}
 ]

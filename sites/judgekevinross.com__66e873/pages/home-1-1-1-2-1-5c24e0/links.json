@@ -1,10 +1,34 @@
 [
-"https://judgekevinross.com/",
-"https://judgekevinross.com/home-1",
-"https://judgekevinross.com/home-1-1",
-"https://judgekevinross.com/home-1-1-1",
-"https://judgekevinross.com/home-1-1-1-1",
-"https://judgekevinross.com/home-1-1-1-2",
-"https://pollfinder.sos.mn.gov/",
-"https://sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail"
+{
+"text": "A Note from Judge Ross",
+"href": "https://www.judgekevinross.com/home-1-1-1-2"
+},
+{
+"text": "Family and Faith",
+"href": "https://www.judgekevinross.com/home-1-1-1-1"
+},
+{
+"text": "From Education to Educating",
+"href": "https://www.judgekevinross.com/home-1"
+},
+{
+"text": "From the Beat to the Bench",
+"href": "https://www.judgekevinross.com/home-1-1"
+},
+{
+"text": "How to Vote Early",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail/"
+},
+{
+"text": "Ross",
+"href": "https://www.judgekevinross.com"
+},
+{
+"text": "Serving Community",
+"href": "https://www.judgekevinross.com/home-1-1-1"
+},
+{
+"text": "Where Do I Vote?",
+"href": "https://pollfinder.sos.mn.gov/"
+}
 ]

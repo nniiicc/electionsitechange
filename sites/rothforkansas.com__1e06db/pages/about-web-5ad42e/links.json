@@ -1,7 +1,30 @@
 [
-"https://rothforkansas.com/",
-"https://rothforkansas.com/about-web",
-"https://rothforkansas.com/get-involved",
-"https://rothforkansas.com/platform",
-"https://secure.winred.com/roth-for-kansas/donate"
+{
+"text": "ABOUT WEB",
+"href": "https://www.rothforkansas.com/about-web"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/roth-for-kansas/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.rothforkansas.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.rothforkansas.com"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.rothforkansas.com/platform"
+},
+{
+"text": "Web Roth",
+"href": "https://www.rothforkansas.com"
+},
+{
+"text": "for State Representative",
+"href": "https://www.rothforkansas.com"
+}
 ]

@@ -1,9 +1,34 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSfZ_CMMIr6NaV2pur5DRla8CBrQ0BSLFDx3-rZFaou1KvAXsg/viewform",
-"https://nicolejellinek.com/",
-"https://nicolejellinek.com/about",
-"https://nicolejellinek.com/cart",
-"https://nicolejellinek.com/contact",
-"https://nicolejellinek.com/contact-1",
-"https://vote.sos.ri.gov/"
+{
+"text": "0",
+"href": "https://www.nicolejellinek.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.nicolejellinek.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.nicolejellinek.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.nicolejellinek.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.nicolejellinek.com/contact-1"
+},
+{
+"text": "RI Voter Information Center",
+"href": "https://vote.sos.ri.gov/"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfZ_CMMIr6NaV2pur5DRla8CBrQ0BSLFDx3-rZFaou1KvAXsg/viewform"
+},
+{
+"text": "[image: Nicole Jellinek for State Representative]",
+"href": "https://www.nicolejellinek.com/"
+}
 ]

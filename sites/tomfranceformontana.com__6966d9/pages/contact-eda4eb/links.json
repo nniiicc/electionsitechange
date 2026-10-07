@@ -1,10 +1,38 @@
 [
-"https://facebook.com/TomFranceforHD94",
-"https://facebook.com/TomFranceforHD99",
-"https://secure.actblue.com/donate/tom-france-for-hd94-1",
-"https://tomfranceformontana.com/",
-"https://tomfranceformontana.com/advocacy",
-"https://tomfranceformontana.com/blog",
-"https://tomfranceformontana.com/contact",
-"https://tomfranceformontana.com/endorsements"
+{
+"text": "Advocacy",
+"href": "https://tomfranceformontana.com/advocacy/"
+},
+{
+"text": "Blog",
+"href": "https://tomfranceformontana.com/blog/"
+},
+{
+"text": "Contact",
+"href": "https://tomfranceformontana.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tom-france-for-hd94-1"
+},
+{
+"text": "Endorsements",
+"href": "https://tomfranceformontana.com/endorsements/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/TomFranceforHD94"
+},
+{
+"text": "Home",
+"href": "https://tomfranceformontana.com/"
+},
+{
+"text": "View Facebook Page!",
+"href": "https://www.facebook.com/TomFranceforHD99"
+},
+{
+"text": "tom.france@mtleg.gov",
+"href": "mailto:tom.france@mtleg.gov"
+}
 ]

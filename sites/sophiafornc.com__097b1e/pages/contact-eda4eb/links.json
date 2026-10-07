@@ -1,12 +1,50 @@
 [
-"https://facebook.com/SophiaForNC",
-"https://instagram.com/sophiafornc",
-"https://secure.actblue.com/donate/sca_web?amount=xx",
-"https://sophiafornc.com/",
-"https://sophiafornc.com/about",
-"https://sophiafornc.com/contact",
-"https://sophiafornc.com/platform",
-"https://sophiafornc.com/results",
-"https://tiktok.com/@sophia4nc?lang=en",
-"https://twitter.com/sophiafornc"
+{
+"text": "About",
+"href": "https://sophiafornc.com/about/"
+},
+{
+"text": "Contact us.",
+"href": "https://sophiafornc.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sca_web?amount=xx"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/sophiafornc"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/SophiaForNC"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/SophiaForNC/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/sophiafornc/"
+},
+{
+"text": "Follow",
+"href": "https://www.tiktok.com/@sophia4nc?lang=en"
+},
+{
+"text": "Platform of Care",
+"href": "https://sophiafornc.com/platform/"
+},
+{
+"text": "Results",
+"href": "https://sophiafornc.com/results/"
+},
+{
+"text": "[image: Sophia Chitlik for North Carolina Senate]",
+"href": "https://sophiafornc.com/"
+},
+{
+"text": "social@sophiafornc.com",
+"href": "mailto:social@sophiafornc.com"
+}
 ]

@@ -1,11 +1,12 @@
 {
  "description": "Learn about Amanda Reichek for Justice, her judicial experience on the Fifth District Court of Appeals, and commitment to fairness in the legal system.",
  "final_url": "https://amandaforjustice.com/about",
- "paid_for_by": null,
+ "fingerprint": "92dbee9e4db82029837bb47f3b90894eba4c2bed",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About",
  "years_mentioned": [
   "2019",
-  "2024",
-  "2025"
+  "2024"
  ]
 }

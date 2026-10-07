@@ -1,4 +1,5 @@
-| "Donna Bailey’s devotion to her community, as seen in her volunteering every week for the 13 weeks of the Saco Parks & Rec Food program, is a civics lesson for all.
+SENATOR DONNA BAILEY Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5 Recognized with a Mayoral Certificate of Service 9/25/2020 0 Comments "Donna Bailey’s devotion to her community, as seen in her volunteering every week for the 13 weeks of the Saco Parks & Rec Food program, is a civics lesson for all.
 Donna continues to work for the community in Augusta on taxation issues, legal procedures, and of issues near and dear to Saco residents such as the Saco Shoreline and Camp Ellis Jetty.
 Her advocacy for Saco has been exemplary!
-Thank you Representative Bailey for your diligent work on behalf of our community and you have my support for State Senator!" – Bill Doyle | Blog Latest News Archives Categories |
+Thank you Representative Bailey for your diligent work on behalf of our community and you have my support for State Senator!" – Bill Doyle 0 Comments Leave a Reply.
+Blog Latest News Archives June 2026 February 2024 December 2023 June 2022 October 2020 September 2020 August 2020 June 2018 Categories All RSS Feed donate $5 207-284-9962 [email protected] Paid for and authorized by the candidate Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5

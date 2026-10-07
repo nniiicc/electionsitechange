@@ -1,7 +1,9 @@
 {
  "description": "Joe Moss, Conservative Republican and Ottawa County Commissioner, is running for Michigan State Representative in House District 89. Fighting to protect children & parental rights, defend local control, cut taxes, and eliminate government waste.",
  "final_url": "https://joemoss.com/about",
- "paid_for_by": "Paid for by Joe Moss for State Representative 6753 Bradenwood Drive Hudsonville, MI 49426 \u00a9 Copyright 2026 | Terms By providing your email or phone num",
+ "fingerprint": "923ec0b4e802a598af759b6171fc836e29ad34c9",
+ "format": 3,
+ "paid_for_by": "Paid for by Joe Moss for State Representative 6753 Bradenwood Drive Hudsonville, MI 49426 © Copyright #",
  "title": "About - Joe Moss for State Representative - Michigan House District 89",
  "years_mentioned": [
   "2010",
@@ -11,6 +13,7 @@
   "2021",
   "2022",
   "2023",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

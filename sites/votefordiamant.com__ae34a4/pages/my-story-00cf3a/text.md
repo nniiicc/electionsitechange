@@ -1,4 +1,4 @@
-Husband.
+HOME MY STORY DIAMANT'S PLAN FOR NY-14 VOTE CONTRIBUTE VOLUNTEER My Story Husband.
 Father.
 Citizen.
 Small business owner.
@@ -25,3 +25,8 @@ I am not a career politician or a college-to-Congress insider.
 I am an immigrant who built a life through hard work, overcame setbacks time and again, and remains deeply grateful for the opportunities America provided my family.
 I am living proof that the American Dream is still alive, and I remain committed to representing the United States with pride, gratitude, and unwavering dedication.
 My campaign is about more than politics; it is about people, opportunity, and ensuring that every family, every neighborhood, and every New Yorker has a voice in shaping our future.
+Support Diamant's Campaign Your donation will help us bring new leadership to New York's 14th Congressional District $3 $10 $27 $50 $100 $500 $1,000 OTHER Contributions or gifts are not tax deductible.
+The maximum amount an individual may contribute is $3,500 per election.
+Your contribution (up to $3,500) will be designated for the primary election.
+The next $3,500 will be designated for the general election.
+HOME MY STORY DIAMANT'S PLAN FOR NY-14 VOTE CONTACT CONTRIBUTE VOLUNTEER PRIVACY POLICY PAID FOR BY DIAMANT HYSENAJ FOR CONGRESS

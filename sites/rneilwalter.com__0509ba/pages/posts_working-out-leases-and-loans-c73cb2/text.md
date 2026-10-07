@@ -1,10 +1,10 @@
-| Working out Leases and Loans The speed at which the economy stopped in 2020 put tremendous strain on landlord and tenant relationships.
+UT 74 VOTE ABOUT Posts Experience Contact Working Out Leases And Loans 4/2/2020 Working out Leases and Loans The speed at which the economy stopped in 2020 put tremendous strain on landlord and tenant relationships.
 The Government’s actions to intentionally stop the economy to slow the spread of COVID 19 have closed or otherwise harmed many successful businesses.
 Tenants and landlords are both at risk from the economic impact.
 Property owners and lenders may feel similar tension.
 This discussion can be applied in both contexts, landlord/tenant and lender/owner.
 Landlords and tenants may seem to be at odds, but their interests are more aligned than is readily apparent.
-When a landlord receives notice of a tenant in distress, at least six options can be considered: We recommend evaluating each situation and identifying the best solution based on the unique circumstances.
+When a landlord receives notice of a tenant in distress, at least six options can be considered: Do nothing Waive all or partial rent Extend the lease term Make up payments over time Use the security deposit Improve the credit quality We recommend evaluating each situation and identifying the best solution based on the unique circumstances.
 Recognize that with any of these options there are laws and contracts in place that may impact the decision making process.
 The context for discussing these options is commercial real estate, but the principles can be applied to residential scenarios with appropriate deference to applicable law and regulation.
 Option 1: Do Nothing If a tenant requests relief, the landlord is not obligated to grant the relief.
@@ -60,4 +60,4 @@ In considering these options, it is important to make sure than any adjustment i
 Finally, it is critically important that whatever decision is made, document the revised terms in writing signed by the parties as an amendment to the agreement.
 Landlords and tenants can obtain better results as they work together.
 NAI Excel, NAI Vegas, and its affiliates manage over $350 million in real estate assets from Salt Lake to Las Vegas and are available to assist in managing Landlord and Tenant relations.
-Do nothing Waive all or partial rent Extend the lease term Make up payments over time Use the security deposit Improve the credit quality | |
+Comments are closed. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

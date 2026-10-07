@@ -1,21 +1,5 @@
-Endorsements
-Francis Lombard has been endorsed by the following organizations and unions.
-- Coventry Democratic Town Committee
-- Columbia Democratic Town Committee
-- Bolton Democratic Town Committee
-- Tolland Democratic Town Committee
-- Lebanon Democratic Town Committee
-- 35th Senate District Democratic Coordinating Committee
-- United Food & Commercial Workers Union
-- Connecticut State Buildings Trade Council
-- The Association of Retired Teachers of Connecticut (ARTC)
-- The Connecticut American Federation of Labor and Congress of Industrial Organizations (AFL-CIO)
-- American Federation of Teachers of Connecticut
-- Sierra Club CT
-- Working Families Party
-- CT Yankee National Party
-- Planned Parenthood
-About Francis: Accountability, Safety, and Hard Work.
+0 Skip to Content Home Issues Endorsements Voter Info Contact Open Menu Close Menu Home Issues Endorsements Voter Info Contact Open Menu Close Menu Home Issues Endorsements Voter Info Contact Endorsements Francis Lombard has been endorsed by the following organizations and unions.
+Coventry Democratic Town Committee Columbia Democratic Town Committee Bolton Democratic Town Committee Tolland Democratic Town Committee Lebanon Democratic Town Committee 35th Senate District Democratic Coordinating Committee United Food & Commercial Workers Union Connecticut State Buildings Trade Council The Association of Retired Teachers of Connecticut (ARTC) The Connecticut American Federation of Labor and Congress of Industrial Organizations (AFL-CIO) American Federation of Teachers of Connecticut Sierra Club CT Working Families Party CT Yankee National Party Planned Parenthood WFCW Endorsement Letter Sierra Club CT Endorsement Letter CSBTC Endorsement Letter AFT-CT Endorsement Letter About Francis: Accountability, Safety, and Hard Work.
 Francis believes our state government needs to do better at acknowledging the needs of everyday working people.
 Through his life experiences, including living in multiple states, education, employment, and some hard knocks, he understands the challenges facing working families in Connecticut.
 Francis has had a number of work experiences, from growing up in a family-owned small business that has been operating for 100 years, to working in entertainment and publishing as a writer and editor, to even running his own small publishing company; he has met every new venture with grit and an embrace of hard work.
@@ -30,3 +14,6 @@ From his current job to editing to writing in Animation, Francis has had to work
 For the 8th District, he is not interested in partisan bickering; he is interested in collaboration and what works.
 He is committed to bringing a thoughtful, empathetic, and pragmatic approach to the General Assembly.
 Francis will use his analytical background and working-class roots to fight for policies that protect workers' rights, address education and energy issues, and ensure a safe, prosperous future for the families of the 8th District.
+Paid for by Lombard for the 8th.
+Approved by Francis Lombard.
+All Rights Reserved 2026

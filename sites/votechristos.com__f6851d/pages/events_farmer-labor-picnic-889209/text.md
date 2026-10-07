@@ -1,2 +1,2 @@
-Back to All Events Farmer-Labor Picnic Saturday, September 26, 2026 1:00 PM 4:00 PM St.
-Paul, MN (map) Google Calendar ICS
+0 Skip to Content Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Open Menu Close Menu Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Open Menu Close Menu Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Back to All Events Farmer-Labor Picnic Saturday, September 26, 2026 1:00 PM 4:00 PM St.
+Paul, MN (map) Google Calendar ICS Source: https://secure.ngpvan.com/hNSx8SzGe0GP0C6GXGBeiw2 Previous Previous September 26 Door Knocking (Eagan 3) Next Next October 3 Door Knocking (Eagan 4) Prepared and paid for by: Volunteers for Christos Jensen, PO Box 21101, Eagan MN 55121 votechristos@gmail.com

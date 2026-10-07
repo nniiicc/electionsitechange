@@ -1,4 +1,3 @@
-Assemblywoman Blanca E.
+Skip to content Ξ Home Meet Blanca Issues Public Safety & Criminal Justice Housing & Homelessness Education & Youth Domestic Violence Healthcare Aging Consumer Protections Water Climate Change Animal Protection Women’s Issues Our District Media News Photos Awards Events Contact Donate Search for: Assemblywoman Blanca Rubio Our District California State Assembly District 48 Assemblywoman Blanca E.
 Rubio was elected in November 2016 to represent California’s 48th Assembly District, which includes the cities and Communities of West Covina, Baldwin Park, Glendora, Covina, Azusa, West Puente Valley, Valinda, Duarte, South San Jose Hills, Vincent, Citrus, Charter Oak, South Monrovia Island, Mayflower Village, Irwindale, Monrovia.
-Our District
-California State Assembly District 48
+Home Meet Blanca Media Photos Contact Volunteer Donate Working for you Paid for by Blanca Rubio for Assembly 2024 • FPPC ID #1456604 Site by BSC

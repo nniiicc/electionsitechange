@@ -1,4 +1,6 @@
-Scott Herndon’s First Involvement in Law and Politics as a Bonner County jail chaplain.
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page Scott Herndon Safeguards Our Constitutional Rights.
+Oct 20, 2022 | Policy Analysis , Proper Government Scott Herndon’s First Involvement in Law and Politics as a Bonner County jail chaplain.
 Scott Herndon’s first involvement in law and politics, besides voting, was accidental.
 Scott and his wife Arlene and their several children at the time had built their house in Sagle in the mid-2000’s and were raising their young children while Scott ran his new construction business.
 A friend who is another local Sandpoint area business owner from church called Scott to ask if he was interested in ministering to inmates at the Bonner County jail.
@@ -15,8 +17,9 @@ Months later, after an election and a change in sheriff, local Sandpoint attorne
 Upon illumination of the circumstances of the case, the new Bonner County Sheriff Daryl Wheeler and the county’s in-house legal counsel, at minimal expense, determined that the law did protect Scott Herndon’s ability to speak out while also continuing his service as a volunteer chaplain.
 The Wheeler administration agreed to vigorously protect the constitutional rights of chaplains, and Herndon resumed a more than five year career as a Bonner County jail chaplain.
 Scott Herndon said of the matter “Until that time in my life I never really understood that the way we keep the American Republic and the rights of the federal and state constitutions is our active participation in safeguarding them as citizens.
-Sometimes that means we have to speak out and challenge our own government when it is not diligently watching out for us.”
-In this case, Herndon was diligent to safeguard the rights of disfavored minorities by speaking out for the due process of a person accused of a violent crime, and then Herndon separately defended a chaplain’s right to free speech.
+Sometimes that means we have to speak out and challenge our own government when it is not diligently watching out for us.” In this case, Herndon was diligent to safeguard the rights of disfavored minorities by speaking out for the due process of a person accused of a violent crime, and then Herndon separately defended a chaplain’s right to free speech.
 Scott Herndon will safeguard all of our constitutional protections regardless of where any of us are on the political spectrum and in our political ideology.
 “The Constitution of the United States and the Idaho Constitution apply to all of us in Idaho, and I will work diligently to represent your constitutional interests as your representative in the Idaho State Senate”, said Herndon.
-For more information on this story from Bonner County history, you can read this story here.
+For more information on this story from Bonner County history, you can read this story here .
+Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

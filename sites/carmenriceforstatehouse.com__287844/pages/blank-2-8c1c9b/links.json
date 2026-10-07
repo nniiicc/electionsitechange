@@ -1,8 +1,26 @@
 [
-"https://carmenriceforstatehouse.com/",
-"https://carmenriceforstatehouse.com/blank",
-"https://carmenriceforstatehouse.com/blank-1",
-"https://carmenriceforstatehouse.com/blank-2",
-"https://carmenriceforstatehouse.com/blank-3",
-"https://carmenriceforstatehouse.com/cart-page"
+{
+"text": "About",
+"href": "https://www.carmenriceforstatehouse.com/blank"
+},
+{
+"text": "Contact",
+"href": "https://www.carmenriceforstatehouse.com/blank-2"
+},
+{
+"text": "Donate",
+"href": "https://www.carmenriceforstatehouse.com/cart-page"
+},
+{
+"text": "Home",
+"href": "https://www.carmenriceforstatehouse.com"
+},
+{
+"text": "Newsletter",
+"href": "https://www.carmenriceforstatehouse.com/blank-1"
+},
+{
+"text": "Social Media",
+"href": "https://www.carmenriceforstatehouse.com/blank-3"
+}
 ]

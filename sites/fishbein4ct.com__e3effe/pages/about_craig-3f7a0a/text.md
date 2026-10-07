@@ -1,4 +1,4 @@
-In 1983, I graduated from Sheehan High School, and thereafter briefly attended Southern Connecticut State University.
+HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy In 1983, I graduated from Sheehan High School, and thereafter briefly attended Southern Connecticut State University.
 In 1985, I left college to pursue a career in retail management working for Caldor, and then Bradlees.
 In 1994, prompted by a lack of employment potential from having not obtained a college degree, I returned to school, enrolling at (then) Quinnipiac College.
 By that time, my wife Rhonda and I were first time home buyers, living in Brentwood Condominiums in Wallingford.
@@ -14,8 +14,7 @@ An active one at that.
 I confess that I was a staff member for Toby Moffett’s campaign for the Democratic Gubernatorial nomination in 1986, and that I voted for Bill Clinton … TWICE.
 By 2003 though, I had learned that the major political party that most closely aligned with my ideals was the Republican Party, and I changed my affiliation.
 In 2007, being of an inquisitive nature, I sought out the Wallingford Republican Town Committee and began to attend its meetings.
-I was not a member, but an interested resident, finding it necessary to “get involved.”
-In 2009, I decided to run for a seat on the Wallingford Town Council.
+I was not a member, but an interested resident, finding it necessary to “get involved.” In 2009, I decided to run for a seat on the Wallingford Town Council.
 In seeking the Republican nomination and local support, I told everyone that, if elected, I would focus my attention on the fundamental principles of smaller government, lower taxes, and less interference in the day-to-day affairs of our law-abiding citizens.
 That I would do my homework, ask questions, speak my mind, and make decisions - guided by the above principles.
 That I would not filter my decisions by party as, in my opinion, good governance knows no party affiliation.
@@ -27,7 +26,7 @@ As such, there is hardly a decision that I have made in the Town Council Chamber
 In my tenure on the Town Council, I have never voted for a tax increase.
 I believe that government should (whenever practical) operate like a business.
 Therefore, I am a strong proponent of enterprise funding for the operations of government, employing user fees to reduce arbitrary taxes, with the resulting funds being used to sustain, as well as to improve the service - absent government subsidies.
-In 2016, I acted when the opportunity arose to run for State Representative for the 90th Assembly District, which up until the end of this term is comprised of a part of Cheshire and a part of Wallingford.
+In 2016, I acted when the opportunity arose to run for State Representative for the 90 th Assembly District, which up until the end of this term is comprised of a part of Cheshire and a part of Wallingford.
 (NOTE: Beginning with the next legislative session, the 90th District will be comprised of most of Wallingford, and all of Middlefield.) The district had been very admirably represented for many years by Mary G.
 Fritz, who had announced her retirement in the spring of 2016.
 Truly one of the highlights of my 2016 was going to Mary’s retirement party on June 10 where I was blessed to receive her wise advice, as well as to see and hear the accolades of family, friends and colleagues that were showered down upon her.
@@ -55,4 +54,7 @@ As with locally, as a State Representative, I have continued to seek smaller gov
 I will continue to do so in Hartford if the voters of the 90th General Assembly District allow me the opportunity to continue to serve them there.
 I enjoy, and am very proud to be a State Representative.
 I hope that the voters will see fit to allow me to remain as their representative into the 2027-28 term, and therefore I respectfully ask for your support on Election Day, November 3, 2026.
-(THANK YOU FOR TAKING THE TIME TO READ THIS PAGE.)
+(THANK YOU FOR TAKING THE TIME TO READ THIS PAGE.) News A Voice for Wallingford and Middlefield ENDORSED by the CT State Fraternal Order of Police NEW LAWS TAKE EFFECT OCTOBER 1ST!
+Amazon Air Drone Deliveries Raise Concerns Three Strikes = Six Months!
+Fishbein for Connecticut - Jo-Anne L.
+Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com - Political Websites HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu

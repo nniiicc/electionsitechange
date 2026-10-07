@@ -1,6 +1,5 @@
-Protect oregonIANS
-Fix Our Healthcare System
-Oregon has spent decades building toward something most states only dream about: a healthcare system where almost everyone is covered.
+Skip navigation menu Home About Roy Priorities News Endorsements Events Volunteer Contact Donate Home About Roy Priorities News Endorsements Events Volunteer Contact Donate Fix Our Healthcare System Fulfill the Promise of Public Education Defend Our Immigrant Neighbors Fight for family farms Keep More of Oregon's Wealth in Oregon!
+(With a state bank!) Protect oregonIANS Fix Our Healthcare System Oregon has spent decades building toward something most states only dream about: a healthcare system where almost everyone is covered.
 In 2025, we achieved a 98% insurance coverage rate.
 The best rate in the nation.
 We made it a priority because Oregonians understood something fundamental.
@@ -18,3 +17,4 @@ Not to insurance companies.
 Not to a government that has never met you and doesn't know your life.
 Abortion is healthcare.
 Roy will fight to keep it that way here in Oregon.
+Powered by RUN! website builder You need to enable JavaScript to run this app.

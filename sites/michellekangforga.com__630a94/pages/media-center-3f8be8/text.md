@@ -1,13 +1,8 @@
-Upcoming Events
-- Brookhaven Dems to Help Michelle Kang 9/13/2026
-4:00PM – 6:00PM
-- Lets Knock On Doors! 08/29/2026
-1:00PM - 3:00PM
-- Campaign Launch! 08/22/2026 1:00PM - 3:00PM
-- Progress Meet & Greet 08/15/2026 1 :00PM – 3:00PM
-- Suwanee Meet & Greet 03/07/2026 1:00PM
-- Fall Fundraiser 11/13/2025 6:00PM - 8:00PM
-- Korean Fundraiser 07/29/2025 6:00PM - 8:00PM
-- Campaign Kick-off 07/19/2025 4:00PM - 6:00PM
-- Volunteer Meet & Greet 07/07/2025 7:00PM - 9:00PM
-- Leadership Academy 06/17/2025 & 06/18/2025 All Day
+0 Skip to Content About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu Folder: About Michelle Back Meet Michelle What Michelle Stands For Endorsements Folder: Get Involved Back Get Involved Mobilize Dashboard Donate Voter Resources Folder: Media Back Events In the News Interviews Blog Podcast 2026 Campaign Connect English Back Donate Upcoming Events View our upcoming events Brookhaven Dems to Help Michelle Kang 9/13/2026 4:00PM – 6:00PM RSVP Lets Knock On Doors!
+08/29/2026 1:00PM - 3:00PM RSVP Campaign Launch!
+08/22/2026 1:00PM - 3:00PM RSVP Progress Meet & Greet 08/15/2026 1 :00PM – 3:00PM RSVP Suwanee Meet & Greet 03/07/2026 1:00PM RSVP Fall Fundraiser 11/13/2025 6:00PM - 8:00PM RSVP Korean Fundraiser 07/29/2025 6:00PM - 8:00PM View Photos Campaign Kick-off 07/19/2025 4:00PM - 6:00PM View Photos Volunteer Meet & Greet 07/07/2025 7:00PM - 9:00PM View Photos Leadership Academy 06/17/2025 & 06/18/2025 All Day View Photos Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Keep in Touch Sign up with your email address to receive news and updates.
+Email Address Sign Up We respect your privacy.
+Thank you!
+Donate contact Volunteer Checks payable to: Friends of Michelle Kang, Inc Send checks to: PO Box 3772, Suwanee, GA 30024 For press or media inquiries, please contact press@michellekangforga.com Website by Blum Creative Privacy Policy | Terms of Use

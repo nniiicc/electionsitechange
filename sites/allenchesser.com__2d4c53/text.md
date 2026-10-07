@@ -1,3 +1,5 @@
-Help keep Allen Chesser fighting for us, join the campaign today!
-As a a combat veteran, Allen Chesser has a documented history of putting his beliefs into action and being a force multiplier for change.
+Sign In My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home About Issues Endorsements Volunteer News Contact Donate Blank Account My Account Sign out Sign In My Account Delivering Results for Nash County Delivering Results for Nash County Delivering Results for Nash County Delivering Results for Nash County Delivering Results for Nash County Delivering Results for Nash County Delivering Results for Nash County Delivering Results for Nash County Community Voices: Taking a Stand for Nash County Join Team Chesser Help keep Allen Chesser fighting for us, join the campaign today!
+Email Sign up “Good policy never punishes innocent people” As a a combat veteran, Allen Chesser has a documented history of putting his beliefs into action and being a force multiplier for change.
 As our Representative, Allen has worked to unite our community and fought for funding and policies that will benefit all of Nash County.
+Learn More Nash County Forward: Building a Brighter Future Together Donate Today $50 $100 $150 $250 Instagram Follow me on Instagram Paid for by Allen Chesser for NC House P.O.
+Box 72 Middlesex, NC 27557 Powered by DONATE

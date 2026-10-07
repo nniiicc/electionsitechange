@@ -1,6 +1,10 @@
-The Hamas terrorist attack of Oct. 7, 2023, was an act of wanton slaughter against innocent civilians.
+Skip to main content Skip to header right navigation Skip to site footer The ONLY CD2 candidate endorsed by the Minnesota DFL – Democratic Party Matt Little for Congress District 2 Minnesota Search...
+Search site Submit search Menu Meet Matt Endorsements Key Issues About District 2 Get Involved For Media Yard Sign Donate Fighting for a Just & Lasting Peace in Israel & Palestine The Hamas terrorist attack of Oct.
+7, 2023, was an act of wanton slaughter against innocent civilians.
 All people should condemn the deaths, taking of hostages, and the anti-Semitism that followed.
 However, Israel’s response has now crossed the line from justifiable self-defense to disproportionate, inhumane acts of genocide.
 Refusing to allow basic food, health, and shelter to millions of civilians is unacceptable even in wartime.
 As a nation, we must distinguish between people and their governments; between necessary and disproportionate force.
 The United States must end all military aid and weapons sales to Israel to send a clear signal to the Israeli government, and ensure Israel fulfills all its obligations in the recently negotiated peace agreement with Palestinians, permit all necessary humanitarian aid to Gaza, rebuild Gaza and the surrounding areas destroyed by Israel’s attacks, retract illegal settlements in Palestinian territories, and ultimately negotiate a two-state solution to create a just and lasting peace for both nations.
+More Key Issues Fighting for Fair Student Loans I’m running to fix our broken student loan system, fighting for fairness, accountability, and real … Fighting for Safe Neighborhoods I’m supporting the brave individuals who keep our neighborhoods safe while ensuring they have the … Fighting for Rural America I’m standing up for family farmers who feed our nation but are too often undercut by policies that … Join Matt’s campaign today.
+Donate Facebook Instagram X TikTok Bluesky Paid for by Matt Little for Congress Copyright © # | Privacy Policy | Contact Us Matt Little for Congress – PO Box 397 – Lakeville, MN 55044

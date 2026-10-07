@@ -1,31 +1,3 @@
-top of page
-MEET NIKKI
-VOTER GUIDE
-CONNECT◢
-VOLUNTEER
-PRIORITIES
-DONATE
-*
-First name
-*
-Last name
-*
-Email
-Phone
-ZIP Code
-*
-How would you like to get involved?
-Get a Yard Sign
-Host a House Party
-Make Calls or Texts from Home
-Amplify Campaign on Social Media
-Inquire About Other Opportunities
-Submit
-Get Involved!
-MEET NIKKI
-VOTER GUIDE
-CONNECT
-VOLUNTEER
-PRIORITIES
-DONATE
-bottom of page
+top of page MEET NIKKI VOTER GUIDE CONNECT◢ VOLUNTEER PRIORITIES DONATE * First name * Last name * Email Phone ZIP Code * How would you like to get involved?
+Get a Yard Sign Host a House Party Make Calls or Texts from Home Amplify Campaign on Social Media Inquire About Other Opportunities Submit Get Involved!
+Paid for by The People for Nikki Merritt Support Nikki Merritt for Georgia Senate District 9 ​ The People for Nikki Merritt 1911 Grayson Hwy - Suite 8367 Grayson, GA 30017 404-369-3682 ​ Powered by CCS: Marketing & Technology Privacy Policy MEET NIKKI VOTER GUIDE CONNECT VOLUNTEER PRIORITIES DONATE bottom of page

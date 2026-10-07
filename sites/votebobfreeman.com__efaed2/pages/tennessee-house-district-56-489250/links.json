@@ -1,18 +1,66 @@
 [
-"http://manovermachine.com/",
-"https://facebook.com/VoteBobFreeman",
-"https://secure.actblue.com/donate/bob-freeman",
-"https://twitter.com/VoteBobFreeman",
-"https://votebobfreeman.com/",
-"https://votebobfreeman.com/bob-freeman",
-"https://votebobfreeman.com/contribute",
-"https://votebobfreeman.com/get-in-touch",
-"https://votebobfreeman.com/issues",
-"https://votebobfreeman.com/newsletter-sign-up",
-"https://votebobfreeman.com/privacy-policy",
-"https://votebobfreeman.com/support",
-"https://votebobfreeman.com/tennessee-house-district-56",
-"https://votebobfreeman.com/volunteer",
-"https://votebobfreeman.com/voting-info",
-"https://wapp.capitol.tn.gov/Apps/fml2022/search.aspx"
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/bob-freeman"
+},
+{
+"text": "Contribute",
+"href": "https://votebobfreeman.com/contribute/"
+},
+{
+"text": "Find District 56",
+"href": "https://votebobfreeman.com/tennessee-house-district-56/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/VoteBobFreeman"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/VoteBobFreeman"
+},
+{
+"text": "Get In Touch",
+"href": "https://votebobfreeman.com/get-in-touch/"
+},
+{
+"text": "Issues",
+"href": "https://votebobfreeman.com/issues/"
+},
+{
+"text": "ManOverMachine",
+"href": "http://www.manovermachine.com"
+},
+{
+"text": "Meet Bob",
+"href": "https://votebobfreeman.com/bob-freeman/"
+},
+{
+"text": "Newsletter Sign Up",
+"href": "https://votebobfreeman.com/newsletter-sign-up/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votebobfreeman.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://votebobfreeman.com/voting-info/"
+},
+{
+"text": "Search for your address",
+"href": "https://wapp.capitol.tn.gov/Apps/fml2022/search.aspx"
+},
+{
+"text": "Support Bob",
+"href": "https://votebobfreeman.com/support/"
+},
+{
+"text": "Volunteer",
+"href": "https://votebobfreeman.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://votebobfreeman.com/"
+}
 ]

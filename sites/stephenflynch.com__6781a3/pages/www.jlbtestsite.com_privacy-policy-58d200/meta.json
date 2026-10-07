@@ -1,7 +1,11 @@
 {
  "description": "Visit the post for more.",
  "final_url": "https://www.stephenflynch.com/privacy-policy/",
- "paid_for_by": "Paid for by Lynch for Congress Contact Us Privacy Policy Copyright &copy;2020 All Rights Reserved Follow Follow",
+ "fingerprint": "76915c563285afd1cf84cd6fc393a5ada58b1c2b",
+ "format": 3,
+ "paid_for_by": "Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow",
  "title": "Privacy Policy | Stephen F Lynch",
- "years_mentioned": []
+ "years_mentioned": [
+  "1998"
+ ]
 }

@@ -1,25 +1,118 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=61559584847605",
-"https://heraldpalladium.com/news/elections/wendzel-tapper-to-face-each-other-for-39th-district-seat/article_e48abbd2-1c35-5b65-9379-3f161e8054d4.html",
-"https://instagram.com/kerrytapperforstaterep",
-"https://kerrytapper.com/",
-"https://kerrytapper.com/contact",
-"https://kerrytapper.com/contribute",
-"https://kerrytapper.com/contribute?amount=10",
-"https://kerrytapper.com/contribute?amount=100",
-"https://kerrytapper.com/contribute?amount=1225",
-"https://kerrytapper.com/contribute?amount=25",
-"https://kerrytapper.com/contribute?amount=250",
-"https://kerrytapper.com/contribute?amount=50",
-"https://kerrytapper.com/contribute?amount=500",
-"https://kerrytapper.com/events",
-"https://kerrytapper.com/home",
-"https://kerrytapper.com/meet_kerry",
-"https://kerrytapper.com/news",
-"https://kerrytapper.com/news/big-primary-win",
-"https://kerrytapper.com/photos",
-"https://kerrytapper.com/view-endorsements",
-"https://kerrytapper.com/volunteer",
-"https://kerrytapper.com/yard-sign"
+{
+"text": "$#",
+"href": "https://www.kerrytapper.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.kerrytapper.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.kerrytapper.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.kerrytapper.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://www.kerrytapper.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://www.kerrytapper.com/contribute?amount=500"
+},
+{
+"text": "$1225",
+"href": "https://www.kerrytapper.com/contribute?amount=1225"
+},
+{
+"text": "Allegan County Democrats Endorse Kerry",
+"href": "https://www.kerrytapper.com/news/#allegan-county-democrats-endorse-kerry"
+},
+{
+"text": "Berrien County Democratic Party Encourages Voters to 'Vote Blue' this year!",
+"href": "https://www.kerrytapper.com/news/#berrien-county-democratic-party-encourages-voters-to-vote-blue-this-year"
+},
+{
+"text": "Big Primary Win!",
+"href": "https://www.kerrytapper.com/news/big-primary-win"
+},
+{
+"text": "Contact",
+"href": "https://www.kerrytapper.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.kerrytapper.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kerrytapper.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.kerrytapper.com/events"
+},
+{
+"text": "Herald-Palladium: Wendzel, Tapper to face each other for 39th District seat",
+"href": "https://www.heraldpalladium.com/news/elections/wendzel-tapper-to-face-each-other-for-39th-district-seat/article_e48abbd2-1c35-5b65-9379-3f161e8054d4.html"
+},
+{
+"text": "Home",
+"href": "https://www.kerrytapper.com/home"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://www.kerrytapper.com/volunteer"
+},
+{
+"text": "Meet Kerry",
+"href": "https://www.kerrytapper.com/meet_kerry"
+},
+{
+"text": "News",
+"href": "https://www.kerrytapper.com/news"
+},
+{
+"text": "Other",
+"href": "https://www.kerrytapper.com/contribute"
+},
+{
+"text": "Photos",
+"href": "https://www.kerrytapper.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Reproductive Freedom For All Michigan Announces their Endorsements for State House",
+"href": "https://www.kerrytapper.com/news/#reproductive-freedom-for-all-michigan-announces-their-endorsements-for-state-hous"
+},
+{
+"text": "Show Your Support! Request a Yard Sign Click Here to Request a Sign",
+"href": "https://www.kerrytapper.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kerrytapper.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.kerrytapper.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://www.kerrytapper.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61559584847605"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kerrytapperforstaterep/"
+}
 ]

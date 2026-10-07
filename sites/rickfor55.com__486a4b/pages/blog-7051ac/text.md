@@ -1,7 +1,2 @@
-top of page
-BLog
-Contact
-Rick@Rickfor55.com OR rick.taggart.house@coleg.gov
-Paid for by Taggart for House District 55 Registered Agent William Wade
-© Taggart for House District 55
-bottom of page
+top of page DONATE Home Meet Rick Endorsements 2026 Session Newsletters Issues More Use tab to navigate through the menu items.
+BLog Yes, subscribe me to your newsletter. * First name Email * Submit April 2026 Newsletter March 2026 Legislative Newsletter February 2026 Newsletter January 2026 Newsletter Heading into the 2026 Legislative Session October 2025 Newsletter Contact Yes, subscribe me to your newsletter. * First name Email * Submit Rick@Rickfor55.com OR rick.taggart.house@coleg.gov ​ Paid for by Taggart for House District 55 Registered Agent William Wade ​ © Taggart for House District 55 bottom of page

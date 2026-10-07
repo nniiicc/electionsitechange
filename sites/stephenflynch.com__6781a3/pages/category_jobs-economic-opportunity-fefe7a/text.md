@@ -1,18 +1,16 @@
-by Jay Cincotti | Jun 18, 2025 | 8th Congressional District, Essential Infrastructure, Jobs & Economic Opportunity, National Security, News & Updates
-Rep.
+Meet Stephen Our Priorities News & Updates Join the Team Donate Select Page US representatives, union workers warn ‘critical’ Boston Ship Repair vanishing without investment, work by Jay Cincotti | Jun 18, 2025 | 8th Congressional District , Essential Infrastructure , Jobs & Economic Opportunity , National Security , News & Updates Rep.
 Stephen Lynch and others called for support of the US’s shipbuilding and repair assets By GRACE ZOKOVITCH | gzokovitch@bostonherald.com UPDATED: June 17, 2025 at 7:43 PM EDT U.S. representatives and Boston Ship Repair workers gathered at one...
-by Jay Cincotti | Feb 23, 2025 | 8th Congressional District, Essential Infrastructure, Jobs & Economic Opportunity, News & Updates
-By MATTHEW MEDSGER | mmedsger@bostonherald.com | Boston Herald UPDATED: February 24, 2025 at 2:10 PM EST Congressman Stephen Lynch warned about the consequences to science, research and federal services as thousands of job cuts from the Trump...
-by Sam Dallaire | Aug 31, 2022 | 8th Congressional District, Essential Infrastructure, Jobs & Economic Opportunity, News & Updates
-WCVB-TV BOSTON- The U.S. representative who serves on the House Committee on Transportation and Infrastructure recently said he is in favor of federal authorities taking more direct control over the MBTA.
-Click here to watch interview
-by Sam Dallaire | Aug 21, 2022 | 8th Congressional District, Jobs & Economic Opportunity, News & Updates
-WCVB-TV BOSTON- Rep.
+Lynch warns as job cuts continue by Jay Cincotti | Feb 23, 2025 | 8th Congressional District , Essential Infrastructure , Jobs & Economic Opportunity , News & Updates By MATTHEW MEDSGER | mmedsger@bostonherald.com | Boston Herald UPDATED: February 24, 2025 at 2:10 PM EST Congressman Stephen Lynch warned about the consequences to science, research and federal services as thousands of job cuts from the Trump...
+Massachusetts Congressman Stephen Lynch reacts to FTA report on MBTA safety by Sam Dallaire | Aug 31, 2022 | 8th Congressional District , Essential Infrastructure , Jobs & Economic Opportunity , News & Updates WCVB-TV BOSTON- The U.S. representative who serves on the House Committee on Transportation and Infrastructure recently said he is in favor of federal authorities taking more direct control over the MBTA.
+Click here to watch interview OTR: Here’s why Massachusetts congressman supports federal takeover of MBTA by Sam Dallaire | Aug 21, 2022 | 8th Congressional District , Jobs & Economic Opportunity , News & Updates WCVB-TV BOSTON- Rep.
 Stephen Lynch says he is nervous about the first Monday morning commute during the 30-day Orange Line shutdown.
-Click here to watch interview
-by Sam Dallaire | Aug 18, 2022 | 8th Congressional District, Essential Infrastructure, Jobs & Economic Opportunity, News & Updates
-WBUR Radio By Sydney Boles and Tiziana Dearing Massachusetts Congressman Stephen Lynch discusses his talks with the MBTA as the public transit agency deals with ongoing safety concerns, service cuts and recommendations from the Federal Transit Administration.
+Click here to watch interview Rep.
+Stephen Lynch discusses woes facing the MBTA by Sam Dallaire | Aug 18, 2022 | 8th Congressional District , Essential Infrastructure , Jobs & Economic Opportunity , News & Updates WBUR Radio By Sydney Boles and Tiziana Dearing Massachusetts Congressman Stephen Lynch discusses his talks with the MBTA as the public transit agency deals with ongoing safety concerns, service cuts and recommendations from the Federal Transit Administration.
 Click...
-by Sam Dallaire | Mar 29, 2022 | Financial Security, Jobs & Economic Opportunity, National Security, News & Updates
-Jamaica Plain News By David Ertischek Congressman Stephen Lynch (D-MA 8) and Congresswoman Ayanna Pressley (D-MA 7) introduced a bill that would develop an electronic version of the U.S. dollar.
-“As digital payment and currency technologies continue to rapidly expand...
+Reps Lynch & Pressley Introduce Legislation to Develop Electronic Version of U.S.
+Dollar by Sam Dallaire | Mar 29, 2022 | Financial Security , Jobs & Economic Opportunity , National Security , News & Updates Jamaica Plain News By David Ertischek Congressman Stephen Lynch (D-MA 8) and Congresswoman Ayanna Pressley (D-MA 7) introduced a bill that would develop an electronic version of the U.S. dollar.
+“As digital payment and currency technologies continue to rapidly expand... « Older Entries Search for: Recent Posts Rep.
+Lynch Concerns: Medicaid Cuts, Strain On Hospitals ‘Let’s protect folks’: Rep.
+Lynch urges Congress to invalidate Trump’s mail-in ballot order Congressman Lynch questions U.S. gains in Iran conflict ICE at the World Cup?
+Massachusetts congressman seeks advice from Minnesota Gov.
+Walz Legislators Advocate for State Takeover of Norwood Hospital and Potential Reopening as a Not-For-Profit Hospital Recent Comments Archives June 2026 May 2026 April 2026 March 2026 February 2026 December 2025 October 2025 September 2025 June 2025 May 2025 February 2025 August 2024 May 2024 February 2024 January 2024 December 2023 November 2023 September 2023 March 2023 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 October 2019 September 2019 August 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 September 2018 April 2018 Categories 8th Congressional District Advancing Equality Affordable Healthcare Combatting Addiction Common Sense Gun Laws COVID-19 Essential Infrastructure Financial Security Investing in Education Jobs & Economic Opportunity National Security News & Updates Protecting Our Environment Protecting the Post Office Supporting Our Seniors Uncategorized Veterans Meta Log in Entries feed Comments feed WordPress.org Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow

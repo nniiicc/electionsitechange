@@ -1,5 +1,4 @@
-This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Chris Kapenga for Waukesha County Executive
-Paid for by Kapenga for Taxpayers
-Copyright © 2026 Kapenga for Taxpayers - All Rights Reserved.
+Kapenga for WAUKESHA COUNTY EXECUTIVE Kapenga for WAUKESHA COUNTY EXECUTIVE Kapenga for WAUKESHA COUNTY EXECUTIVE Kapenga for WAUKESHA COUNTY EXECUTIVE Home Nomination Papers Contact us Donate More Home Nomination Papers Contact us Donate Kapenga for WAUKESHA COUNTY EXECUTIVE Kapenga for WAUKESHA COUNTY EXECUTIVE Kapenga for WAUKESHA COUNTY EXECUTIVE Kapenga for WAUKESHA COUNTY EXECUTIVE Home Nomination Papers Contact us Donate Contact Us Ask your question or sign up to help gather signatures in your neighborhood in Summer 2026!
+Email chris@chriskapenga.com or complete the following: Name: Email* Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Donate Chris Kapenga for Waukesha County Executive Paid for by Kapenga for Taxpayers Copyright © # Kapenga for Taxpayers - All Rights Reserved.
 Powered by

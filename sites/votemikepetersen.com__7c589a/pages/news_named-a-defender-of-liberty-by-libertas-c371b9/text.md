@@ -1,7 +1,1 @@
-24
-May
-Friday, 9:19 AM · 2024
-Paid for by Committee to
-Re-elect Mike Petersen
-Re-elect Mike Petersen
-Powered by CampaignPartner.com - Political Campaign Websites
+Home Meet Mike Introduction Video Policy Positions Endorsements News News / Named a "Defender of Liberty" by Libertas 24 May Friday, 9:19 AM · 2024 Named a "Defender of Liberty" by Libertas Privacy Subscribe Paid for by Committee to Re-elect Mike Petersen Powered by CampaignPartner.com - Political Campaign Websites Home Meet Mike Introduction Video Policy Positions Endorsements News Close Menu

@@ -1,17 +1,7 @@
-End of ‘Chevron’ means it’s time for Congress to step up and grab the reins
-The best solution is the Regulations from the Executive in Need of Scrutiny Act.
-READ MORE →
-Trump’s journey from ‘I alone can fix it’ to united GOP
-an assassination attempt, trouncing a wide field of GOP primary rivals, Trump now has the backing of the majority of the GOP.
-READ MORE →
-Shooter’s attack on Trump doesn’t dent gun-rights fealty at RNC
-Rep.
-Kat Cammack with Washington Times’ Kerry Picket on a 2A panel at the RNC.
-READ MORE →
-Rep.
-Kat Cammack argues both political parties are engaged in unhelpful, angry rhetoric
-Republican Kat Cammack of Florida says Republicans and Democrats need to start having a thoughtful dialogue to unite Americans and get away from “anger-tainment.”
-READ MORE →
-Trump and GOP would seek to unravel administrative state after years of Biden-era rulemaking
-Former President Donald Trump and Republicans would work to dismantle many of the federal rules imposed under President Joe Biden should they gain control of the government in November.
-READ MORE →
+Menu Home Meet Kat Accomplishments Updates Facebook Twitter Instagram Youtube Join Team Kat Shop Donate News & Updates Get the latest news and updates directly from the Kat Cammack for Congress campaign.
+News Release - 03.05.2026 Cammack Secures Disaster Declaration from USDA Secretary Brooke Rollins for Florida Farmers READ MORE → News Release - 02.28.2026 Kat Cammack joins Tudor Dixon on the Next Generation of Leadership: "We have to come together as Americans." READ MORE → News Release - 02.28.2026 Kat Cammack Secures $600 Million for Florida Farmers Affected by Hurricanes READ MORE → News Release - 02.25.2026 Cammack on Trump's State of the Union: "America is back baby!" READ MORE → In the News - 02.25.2026 Kat Cammack to Newsweek: “When It Comes to America, We Don’t Sit on Our Hands, We Rise to Our Feet.” READ MORE → News Release - 02.24.2026 Kat Cammack Fights to Protect Women's Sports READ MORE → News Release - 02.13.2026 Cammack to Fox Business: "EPA emission rollback is a victory for American workers." READ MORE → News Release - 02.13.2026 Cammack Engages Florida Farmers and Ranchers as Farm Bill Unveiled READ MORE → News Release - 02.13.2026 Kat Cammack calls for disaster relief after Florida Freeze devastates crops READ MORE → News Release - 01.29.2026 Kat Cammack Shatters Fundraising Records with $1 Million Haul at Mar-a-Lago READ MORE → « Newer 1 2 3 &mldr; 6 Older » Keep Up With Kat Sign Up To Stay Connected First Name Last Name Zip Code Email Address* Mobile Phone Number By voluntarily providing your phone number, and checking this box, you are consenting to receive text messages to that number from Kat for Congress.
+Messages may include requests for donations.
+Message and data rates may apply.
+Reply "STOP" to opt-out and "HELP" for help or email info@katforcongress.com.
+Terms and Conditions & Privacy Policy apply.
+SIGN ME UP Home Meet Kat Accomplishments Updates Contact Mailing Address Kat for Congress 5200 NW 43rd Street, Suite 102-180 Gainesville, FL 32606 PAID FOR BY KAT FOR CONGRESS Privacy Policy | Terms of Use

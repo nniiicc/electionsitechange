@@ -1,5 +1,18 @@
 [
-"https://actionnetwork.org/forms/jeffrey-for-vt-volunteer-interest-form",
-"https://instagram.com/jeffreyforvt",
-"https://secure.actblue.com/donate/jeffreypeterson"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jeffreypeterson"
+},
+{
+"text": "Get Involved",
+"href": "https://actionnetwork.org/forms/jeffrey-for-vt-volunteer-interest-form"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jeffreyforvt"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@jeffreyforvt.com"
+}
 ]

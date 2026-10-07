@@ -1,7 +1,11 @@
 {
  "description": "McClainforSC's campaign",
  "final_url": "https://www.mcclainforsc.com/",
- "paid_for_by": "Paid for by McClainForCongressSC",
+ "fingerprint": "14f8c36b09660196561b4ffcdba14f0f3ff7570d",
+ "format": 3,
+ "paid_for_by": "Paid for by McClainForCongressSC You need to enable JavaScript to run this app",
  "title": "McClainforSC",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

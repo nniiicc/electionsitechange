@@ -1,10 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61588650705189",
-"https://instagram.com/4robinharvey",
-"https://robinharvey.org/",
-"https://robinharvey.org/about",
-"https://robinharvey.org/endorsements",
-"https://robinharvey.org/get-involved",
-"https://robinharvey.org/priorities",
-"https://secure.actblue.com/donate/robin-harvey-1"
+{
+"text": "About",
+"href": "https://www.robinharvey.org/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/robin-harvey-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.robinharvey.org/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.robinharvey.org/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.robinharvey.org"
+},
+{
+"text": "Priorities",
+"href": "https://www.robinharvey.org/priorities"
+},
+{
+"text": "[image: facebood icon_edited.png]",
+"href": "https://www.facebook.com/profile.php?id=61588650705189"
+},
+{
+"text": "[image: instagram icon_edited.png]",
+"href": "https://www.instagram.com/4robinharvey/"
+},
+{
+"text": "[image: tree.jpg]",
+"href": "https://www.robinharvey.org"
+}
 ]

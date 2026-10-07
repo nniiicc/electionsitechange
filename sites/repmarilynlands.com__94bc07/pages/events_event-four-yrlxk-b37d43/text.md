@@ -1,9 +1,4 @@
-Back to All Events
-Last day to apply for an absentee ballot in person.
-Previous
-Previous
-October 29
-Last day to apply for an absentee ballot by mail
-Next
-Next
-November 4
+0 Skip to Content About About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Open Menu Close Menu About About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Open Menu Close Menu Folder: About Back About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Back to All Events Last day to apply for an absentee ballot in person Thursday, October 31, 2024 5:00 PM Monday, January 6, 2025 7:30 PM Google Calendar ICS Last day to apply for an absentee ballot in person.
+More information here.
+Previous Previous October 29 Last day to apply for an absentee ballot by mail Next Next November 4 Last day to hand-deliver an absentee ballot Constituent Resources Contact Rep.
+Lands Issues Legislative News News & Media Website designed and created by Clete Wetli & Tektite.Digital

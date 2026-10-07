@@ -1,4 +1,4 @@
-Something is broken, and you feel it right here at home.
+Skip navigation menu Home About Priorities Endorsements Why I'm Running Media Volunteer Contact Donate Why I'm Running Home About Priorities Endorsements Why I'm Running Media Volunteer Contact Donate Why I'm Running Something is broken, and you feel it right here at home.
 You feel it when a full day of work still does not stretch far enough.
 When property taxes keep climbing but classrooms are stretched thin.
 When young people leave because they cannot afford to stay, and seniors on fixed incomes watch costs rise without end.
@@ -8,7 +8,7 @@ While families in Wayne County and Webster balance groceries, heating bills, and
 They keep us arguing with each other so we stop asking why the deck is stacked against us.
 They use outrage to divide neighbors who actually want the same things: good schools, affordable healthcare, safe communities, and a fair shot for our kids.
 As long as we are pointing fingers at each other, no one is holding the powerful accountable.
-That divide is intentional.
+Interview with co-founder of Good Conflict That divide is intentional.
 And it is working.
 But upstate New York has never backed down from a fight — and neither have I.
 As an elected union president, my job was not rhetoric.
@@ -30,7 +30,7 @@ Profits flowed one way.
 Risk flowed the other.
 But something changed when working people pushed back.
 Local farmers, merchants, and laborers pushed for public investment instead of private control.
-The result was the Erie Canal, which ran directly through Wayne County towns like Palmyra and Lyons.
+The result was the Erie Canal , which ran directly through Wayne County towns like Palmyra and Lyons.
 It broke monopolies, lowered costs, and gave working people access to markets they had never had before.
 Later, the Finger Lakes became a center of reform movements that asked the same basic question in different ways.
 Who gets a voice?
@@ -49,3 +49,6 @@ That moment always looks uncomfortable to those at the top.
 And it always feels overdue to everyone else.
 But that instinct is still right.
 And it is still necessary to Uplift Upstate!
+Donate Here Contact Us Friends of Joseph Lamanna PO Box 307 Williamson, NY 14589 © # Friends of Joseph Lamanna.
+All rights reserved.
+Terms of Use | Privacy Policy Powered by RUN! website builder Paid For By Friends of Joseph Lamanna You need to enable JavaScript to run this app.

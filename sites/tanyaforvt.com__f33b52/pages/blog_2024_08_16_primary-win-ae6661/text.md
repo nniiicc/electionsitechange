@@ -1,5 +1,5 @@
-Primary Win!
-We did it!
+0 Skip to Content Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Primary Win!
+Uncategorized Aug 16 Written By We did it!
 The results of the Democratic Primary are in and Phil Baruth, Martine Gulick, and I will go forward to the general election in November together.
 Thank you from the bottom of my heart to every person who came out to support me.
 This wasn’t my win, it was OUR win.
@@ -12,3 +12,4 @@ I can’t thank you all enough for standing by me.
 My campaign manager and I have been overwhelmed with such heartfelt messages in the last week and it has carried us through.
 I am here because of all of you.
 Thank you.
+Previous Previous 2025 Mid-Session Update Next Next Let's Talk Housing Tanya Vyhovsky for Chittenden Central Senate PO Box 8376 Essex VT 05451 Paid for by Tanya V for VT

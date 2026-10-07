@@ -1,15 +1,66 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScClnw27LQCpo0yyOeQpzHGJ19qNiXMGuppCTSonLwUU6nBcw/viewform?vc=0&c=0&w=1&flr=0",
-"https://docs.google.com/forms/d/e/1FAIpQLSe6m6uCAjPA8O2cvWPq1kC6UfTZRQoyar3r4DqjU3y7je11Ng/viewform?vc=0&c=0&w=1&flr=0",
-"https://facebook.com/mayadevforassembly",
-"https://forms.gle/ysteFAG8MTyotRbe8",
-"https://instagram.com/mayadevforassembly",
-"https://linkedin.com/in/renuka-mayadev-3b850b114",
-"https://maps.legis.wisconsin.gov/?asm=77&single=y",
-"https://mayadevforwi.com/",
-"https://mayadevforwi.com/about-renuka",
-"https://mayadevforwi.com/cart",
-"https://mayadevforwi.com/endorsements",
-"https://mayadevforwi.com/issues",
-"https://secure.actblue.com/donate/mayadev-for-wisconsin-1"
+{
+"text": "0",
+"href": "https://mayadevforwi.com/cart"
+},
+{
+"text": "About Renuka",
+"href": "https://mayadevforwi.com/about-renuka"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mayadev-for-wisconsin-1"
+},
+{
+"text": "ENDORSE RENUKA",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe6m6uCAjPA8O2cvWPq1kC6UfTZRQoyar3r4DqjU3y7je11Ng/viewform?vc=0&c=0&w=1&flr=0"
+},
+{
+"text": "Endorsements",
+"href": "https://mayadevforwi.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://mayadevforwi.com/issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://mayadevforwi.com/issues"
+},
+{
+"text": "READ MORE ABOUT RENUKA",
+"href": "https://mayadevforwi.com/about-renuka"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://forms.gle/ysteFAG8MTyotRbe8"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScClnw27LQCpo0yyOeQpzHGJ19qNiXMGuppCTSonLwUU6nBcw/viewform?vc=0&c=0&w=1&flr=0"
+},
+{
+"text": "[image: Renuka Mayadev]",
+"href": "https://mayadevforwi.com/"
+},
+{
+"text": "[image]",
+"href": "https://maps.legis.wisconsin.gov/?asm=77&single=y"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mayadevforassembly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mayadevforassembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/renuka-mayadev-3b850b114/"
+},
+{
+"text": "renukamayadev@gmail.com",
+"href": "mailto:renukamayadev@gmail.com"
+}
 ]

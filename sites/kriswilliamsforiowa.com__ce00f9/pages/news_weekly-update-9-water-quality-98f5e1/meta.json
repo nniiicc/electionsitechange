@@ -1,9 +1,12 @@
 {
  "description": "Write your news blurb here.",
  "final_url": "https://www.kriswilliamsforiowa.com/news/weekly-update-9-water-quality",
- "paid_for_by": "Paid for by Kris Williams for Iowa",
+ "fingerprint": "97c6024dc90100e632885f0b05d2674ac47d5ff1",
+ "format": 3,
+ "paid_for_by": "Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app",
  "title": "Weekly update #9 Water Quality",
  "years_mentioned": [
-  "2010"
+  "2010",
+  "2026"
  ]
 }

@@ -1,4 +1,3 @@
-- The elderly in our community deserve respect and dignity throughout their lives.
+Home About District Survey Sign Me Up Home About District Survey Sign Me Up DONATE VOLUNTEER Aging Community The elderly in our community deserve respect and dignity throughout their lives.
 The COVID-19 pandemic strained aging and disability services like never before, and intensified social isolation.
-- I will work to ensure the aging community in this district have access to more housing options, appropriate health care, community inclusion, supportive caregivers, and affordable aging.
-Gun rights must be protected under the Constitution while ensuring responsible safety measures.
+I will work to ensure the aging community in this district have access to more housing options, appropriate health care, community inclusion, supportive caregivers, and affordable aging . get involved Related Issues Second Amendment Gun rights must be protected under the Constitution while ensuring responsible safety measures. learn more Cannabis Lower fees, fair regulations, and federal legalization can grow the cannabis industry and create opportunity. learn more Prev Youth Mental Health Housing Next Paid for by Callison for Assembly 2026, FPPC ID #1483879.

@@ -1,22 +1,9 @@
-Image 1 of 6
-Image 2 of 6
-Image 3 of 6
-Image 4 of 6
-Image 5 of 6
-Image 6 of 6
-$30.00
+Skip to Content Open Menu Close Menu 0 0 0 0 Open Menu Close Menu Store › The Rio Trucker Image 1 of 6 Image 2 of 6 Image 3 of 6 Image 4 of 6 Image 5 of 6 Image 6 of 6 The Rio Trucker $30.00 Show your love for the USA and West Virginia!
+Help win the 2026 election with this patriotic foam trucker hat!
+This campaign accessory is made with high-quality polyester and foam that guarantees a premium look and feel while swaying hearts and minds.
+The foam trucker hat has an adjustable snap that ensures a comfortable fit, and the mesh back provides great breathability. • 100% polyester front • 100% polyester mesh back • Thicker and heavier fabric, laminated with high-density, non-toxic foam • Structured, 5-panel cap, high-profile • 8 rows of stitching on a pre-curved visor • Seamless foam front panel with lining • Matching fabric undervisor • Matching color braid and sweatband • Adjustable plastic snap • One size fits most • Blank product sourced from China or Myanmar Add To Cart Added!
 Show your love for the USA and West Virginia!
 Help win the 2026 election with this patriotic foam trucker hat!
 This campaign accessory is made with high-quality polyester and foam that guarantees a premium look and feel while swaying hearts and minds.
-The foam trucker hat has an adjustable snap that ensures a comfortable fit, and the mesh back provides great breathability.
-• 100% polyester front
-• 100% polyester mesh back
-• Thicker and heavier fabric, laminated with high-density, non-toxic foam
-• Structured, 5-panel cap, high-profile
-• 8 rows of stitching on a pre-curved visor
-• Seamless foam front panel with lining
-• Matching fabric undervisor
-• Matching color braid and sweatband
-• Adjustable plastic snap
-• One size fits most
-• Blank product sourced from China or Myanmar
+The foam trucker hat has an adjustable snap that ensures a comfortable fit, and the mesh back provides great breathability. • 100% polyester front • 100% polyester mesh back • Thicker and heavier fabric, laminated with high-density, non-toxic foam • Structured, 5-panel cap, high-profile • 8 rows of stitching on a pre-curved visor • Seamless foam front panel with lining • Matching fabric undervisor • Matching color braid and sweatband • Adjustable plastic snap • One size fits most • Blank product sourced from China or Myanmar “ Be mild with the mild, shrewd with the crafty, confiding to the honest, rough to the ruffian, and a thunderbolt to the liar.
+But in all this, never be unmindful of your own dignity. ” — John Brown RIO PHILLIPS FOR WEST VIRGINIA COPYRIGHT #

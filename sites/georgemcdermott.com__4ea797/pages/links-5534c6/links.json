@@ -1,22 +1,98 @@
 [
-"http://marylandcorruption.com/",
-"http://secretjustice.com/",
-"https://achatwithglendora.com/",
-"https://concernedcitizensforjustice.com/",
-"https://facebook.com/george.mcdermott.98",
-"https://georgemcdermott.com/",
-"https://georgemcdermott.com/campaign",
-"https://georgemcdermott.com/courts",
-"https://georgemcdermott.com/docs",
-"https://georgemcdermott.com/duty",
-"https://georgemcdermott.com/links",
-"https://georgemcdermott.com/principles",
-"https://georgemcdermott.com/victims",
-"https://georgemcdermott.com/volunteer",
-"https://secretjustice.com/",
-"https://theeldestgeek.com/",
-"https://x.com/GeorgeMcDermot3",
-"https://youtube.com/@George4Justice",
-"https://youtube.com/@mdcourtwatch",
-"https://zoinks.graphics/"
+{
+"text": "A Chat With Glendora",
+"href": "https://achatwithglendora.com/"
+},
+{
+"text": "Campaign",
+"href": "https://georgemcdermott.com/campaign/"
+},
+{
+"text": "Concerned Citizens for Restorative Justice",
+"href": "https://concernedcitizensforjustice.com/"
+},
+{
+"text": "Courts",
+"href": "https://georgemcdermott.com/courts/"
+},
+{
+"text": "Docs",
+"href": "https://georgemcdermott.com/docs/"
+},
+{
+"text": "Duty",
+"href": "https://georgemcdermott.com/duty/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/george.mcdermott.98"
+},
+{
+"text": "George McDermott",
+"href": "https://georgemcdermott.com/"
+},
+{
+"text": "Links",
+"href": "https://georgemcdermott.com/links/"
+},
+{
+"text": "MarylandCorruption.com",
+"href": "http://www.marylandcorruption.com/"
+},
+{
+"text": "Mission",
+"href": "https://georgemcdermott.com/"
+},
+{
+"text": "Principles",
+"href": "https://georgemcdermott.com/principles/"
+},
+{
+"text": "SecretJustice.com",
+"href": "http://secretjustice.com"
+},
+{
+"text": "SecretJustice.com",
+"href": "https://secretjustice.com/"
+},
+{
+"text": "TheEldestGeek.com",
+"href": "https://theeldestgeek.com/"
+},
+{
+"text": "Twitter/X",
+"href": "https://x.com/GeorgeMcDermot3"
+},
+{
+"text": "Victims",
+"href": "https://georgemcdermott.com/victims/"
+},
+{
+"text": "Volunteer",
+"href": "https://georgemcdermott.com/volunteer/"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@George4Justice"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@mdcourtwatch"
+},
+{
+"text": "Zoinks! Graphics",
+"href": "https://zoinks.graphics"
+},
+{
+"text": "[image: facebook]",
+"href": "https://www.facebook.com/george.mcdermott.98"
+},
+{
+"text": "[image: twitter/x]",
+"href": "https://x.com/GeorgeMcDermot3"
+},
+{
+"text": "[image: youtube]",
+"href": "https://www.youtube.com/@George4Justice"
+}
 ]

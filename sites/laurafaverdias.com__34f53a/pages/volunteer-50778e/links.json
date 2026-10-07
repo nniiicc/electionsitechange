@@ -1,13 +1,54 @@
 [
-"http://instagram.com/lauraforstaterep",
-"https://docs.google.com/forms/d/1D53CMC8FB1zOCli4t4peHkE02D8kkKFaQlWQ9pXRdmA/edit",
-"https://facebook.com/LauraFaverDiasForStateRep",
-"https://laurafaverdias.com/",
-"https://laurafaverdias.com/cart",
-"https://laurafaverdias.com/contact",
-"https://laurafaverdias.com/endorsements",
-"https://laurafaverdias.com/team-dias",
-"https://laurafaverdias.com/volunteer",
-"https://laurafaverdias.com/votelaura",
-"https://secure.actblue.com/donate/lfdfor62"
+{
+"text": "#VOTELAURA",
+"href": "https://laurafaverdias.com/votelaura"
+},
+{
+"text": "0",
+"href": "https://laurafaverdias.com/cart"
+},
+{
+"text": "About Laura",
+"href": "https://laurafaverdias.com/team-dias"
+},
+{
+"text": "Contact",
+"href": "https://laurafaverdias.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lfdfor62"
+},
+{
+"text": "Endorsements",
+"href": "https://laurafaverdias.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/LauraFaverDiasForStateRep/"
+},
+{
+"text": "Home",
+"href": "https://laurafaverdias.com/"
+},
+{
+"text": "Sign up now",
+"href": "https://docs.google.com/forms/d/1D53CMC8FB1zOCli4t4peHkE02D8kkKFaQlWQ9pXRdmA/edit"
+},
+{
+"text": "Volunteer",
+"href": "https://laurafaverdias.com/volunteer"
+},
+{
+"text": "[image: Vote Laura Faver Dias ]",
+"href": "https://laurafaverdias.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/lauraforstaterep"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LauraFaverDiasForStateRep/"
+}
 ]

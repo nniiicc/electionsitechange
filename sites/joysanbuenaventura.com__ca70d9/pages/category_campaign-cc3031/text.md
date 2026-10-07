@@ -1,23 +1,5 @@
-Mahalo
-MAHALO LETTER (clickable link) Aloha: As your new State Senator for Puna and East Ka`u, I want to thank you for your support. 2021 and the next several years will be…
-Skip to content
-campaign
-Mahalo
-MAHALO LETTER (clickable link) Aloha: As your new State Senator for Puna and East Ka`u, I want to thank you for your support. 2021 and the next several years will be…
-Veteran Day Address
-https://joysanbuenaventura.com/wp-content/uploads/2020/10/veterans.mov#t=1
-Food Drive
-With the continuing problems raised by the Covid pandemic the democratic party held a food drive to help during these trying times.
-This was one of the events we participated…
-Candidate Spotlight
-JCCIH 2020 Candidate SpotlightWednesday October 7,2020Congratulations to Joy San Buenaventura on your endorsement by the Japanese Chamber of Commerce and Industry of Hawai'i for Hawai'i Senate District 2https://mailchi.mp/664d6efb8c21/jccih-2020-endorses-candidates-for-the-primary-election-5492546?e=5dddea9152
-MAHALO TO ALL
-Mahalo Nui Loa for all the support now on to the general election
-Fil-Am Courier
-In this article, Pinays in the PrimaryTyler Dos Santos-Tam looks at the promise that the 2020 election holds for the Filipino community Current State Representative Joy San Buenaventura is hoping to…
-KAʻŪ CALENDAR POST
-JOY SAN BUENAVENTURA is running for state Senate District 2, giving up her seat as state House of Representatives for District 4, Puna.
-If elected, she would represent East Kaʻū…
-Senator Ruderman Endorsement
-Joy is by far the best candidate for Senate in Puna and Ka'u.
-I've worked with her for years in the legislature, and I know her commitment to our community…
+Skip to content home about meet Joy Puna District issues join us get involved contact donate who’s with Joy Menu Close home about meet Joy Puna District issues join us get involved contact donate who’s with Joy Search this website campaign Home > news > campaign Mahalo Post author: ellen Post published: December 10, 2020 Post category: campaign / Covid MAHALO LETTER (clickable link) Aloha: As your new State Senator for Puna and East Ka`u, I want to thank you for your support.
+2021 and the next several years will be… Continue Reading Mahalo Veteran Day Address Post author: ellen Post published: October 22, 2020 Post category: campaign / Covid / housing https://joysanbuenaventura.com/wp-content/uploads/2020/10/veterans.mov#t=1 Continue Reading Veteran Day Address Food Drive Post author: ellen Post published: October 22, 2020 Post category: campaign / Covid With the continuing problems raised by the Covid pandemic the democratic party held a food drive to help during these trying times.
+This was one of the events we participated… Continue Reading Food Drive Candidate Spotlight Post author: ellen Post published: October 8, 2020 Post category: campaign / Covid / housing / internet / legislation JCCIH 2020 Candidate SpotlightWednesday October 7,2020Congratulations to Joy San Buenaventura on your endorsement by the Japanese Chamber of Commerce and Industry of Hawai'i for Hawai'i Senate District 2https://mailchi.mp/664d6efb8c21/jccih-2020-endorses-candidates-for-the-primary-election-5492546?e=5dddea9152 Continue Reading Candidate Spotlight MAHALO TO ALL Post author: ellen Post published: September 6, 2020 Post category: campaign Mahalo Nui Loa for all the support now on to the general election Continue Reading MAHALO TO ALL Fil-Am Courier Post author: ellen Post published: August 5, 2020 Post category: legislation / campaign In this article, Pinays in the PrimaryTyler Dos Santos-Tam looks at the promise that the 2020 election holds for the Filipino community Current State Representative Joy San Buenaventura is hoping to… Continue Reading Fil-Am Courier Endorsements Post author: ellen Post published: August 4, 2020 Post category: campaign Continue Reading Endorsements KAʻŪ CALENDAR POST Post author: ellen Post published: July 23, 2020 Post category: campaign / agriculture / health / housing / internet / legislation / transportation JOY SAN BUENAVENTURA is running for state Senate District 2, giving up her seat as state House of Representatives for District 4, Puna.
+If elected, she would represent East Kaʻū… Continue Reading KAʻŪ CALENDAR POST Postcard/ ENDORSEMENTS Post author: ellen Post published: July 15, 2020 Post category: legislation / campaign / transportation Continue Reading Postcard/ ENDORSEMENTS Senator Ruderman Endorsement Post author: ellen Post published: July 2, 2020 Post category: campaign Joy is by far the best candidate for Senate in Puna and Ka'u.
+I've worked with her for years in the legislature, and I know her commitment to our community… Continue Reading Senator Ruderman Endorsement 1 2 Go to the next page Recent Posts Mahalo Veteran Day Address Food Drive Candidate Spotlight MAHALO TO ALL Recent Comments Archives December 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 September 2018 July 2018 May 2018 April 2018 March 2018 February 2018 Categories agriculture campaign Covid disaster eruption health HOA housing internet legislation transportation Contact Info Friends of Joy San Buenaventura Address: PO Box 1675 Kea'au Hi 96749 Phone: Frank Commendador 808-217-2215 Email: Joy4Puna joy4puna@outlook.com Opens in your application Follow Us Opens in a new tab Opens in a new tab Opens in a new tab Useful Links register to vote Opens in a new tab redistricting Hawaii Senate Opens in a new tab unemployment insurance information Opens in a new tab Hawaii County assistance programs Opens in a new tab Kīlauea eruption recovery Opens in a new tab Donate Copyright # - emsbmd@yahoo.com

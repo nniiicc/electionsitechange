@@ -1,34 +1,17 @@
-2026 Campaign
-Photo Gallery
-3/30/2026
-Ga Win LIst
-Press Conference
-3/16/2026
-Ga wfp endorsement party
-3/16/2026
-3/16 Remembrance
-3/7/2026
-2026 mEET & GREET
-2/8/2026
-2026 Canvass Launch
-11/13/2025
-2025 Autumn Fundraiser
-6/17/25 - 6/18/2025
-2025 Leadership Academy
-Michelle Kang’s Leadership Academy is where future changemakers turn values into action.
+0 Skip to Content About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu Folder: About Michelle Back Meet Michelle What Michelle Stands For Endorsements Folder: Get Involved Back Get Involved Mobilize Dashboard Donate Voter Resources Folder: Media Back Events In the News Interviews Blog Podcast 2026 Campaign Connect English Back Donate 2026 Campaign Photo Gallery 3/30/2026 Ga Win LIst Press Conference Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) 3/16/2026 Ga wfp endorsement party Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) 3/16/2026 3/16 Remembrance Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) 3/7/2026 2026 mEET & GREET Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) 2/8/2026 2026 Canvass Launch Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) 11/13/2025 2025 Autumn Fundraiser Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) 6/17/25 - 6/18/2025 2025 Leadership Academy Michelle Kang’s Leadership Academy is where future changemakers turn values into action.
 This gallery highlights students learning, leading, and building real community.
 Each image captures the next generation of Georgia leaders growing their skills and their voice.
-7/7/2025
-Volunteer Meet & Greet Kickoff
-Our Volunteer Meet & Greet Kickoff brought passionate neighbors together to launch this movement with energy and purpose.
+Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) Slide 7 Slide 7 (current slide) 7/7/2025 Volunteer Meet & Greet Kickoff Our Volunteer Meet & Greet Kickoff brought passionate neighbors together to launch this movement with energy and purpose.
 This gallery captures the moments where new friendships formed, ideas sparked, and our grassroots team came to life.
-7/19/2025
-Campaign Kickoff
-Our Campaign Kickoff marked the official start of a movement fueled by community, hope, and bold ideas for Georgia.
+7/19/2025 Campaign Kickoff Our Campaign Kickoff marked the official start of a movement fueled by community, hope, and bold ideas for Georgia.
 This gallery showcases the energy in the room as supporters gathered, shared stories, and rallied behind Michelle’s vision.
 Each photo captures the momentum of a campaign ready to make history.
-7/29/2025
-KoreaN-American Fundraiser
-Our Korean-American Fundraiser brought community, culture, and shared purpose together in one inspiring evening.
+Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) Slide 7 Slide 7 (current slide) Slide 8 Slide 8 (current slide) Slide 9 Slide 9 (current slide) Slide 10 Slide 10 (current slide) Slide 11 Slide 11 (current slide) Slide 12 Slide 12 (current slide) Slide 13 Slide 13 (current slide) Slide 14 Slide 14 (current slide) Slide 15 Slide 15 (current slide) Slide 16 Slide 16 (current slide) Slide 17 Slide 17 (current slide) Slide 18 Slide 18 (current slide) Slide 19 Slide 19 (current slide) Slide 20 Slide 20 (current slide) Slide 21 Slide 21 (current slide) Slide 22 Slide 22 (current slide) Slide 23 Slide 23 (current slide) Slide 24 Slide 24 (current slide) 7/29/2025 KoreaN-American Fundraiser Our Korean-American Fundraiser brought community, culture, and shared purpose together in one inspiring evening.
 This gallery highlights the conversations, connections, and support that fueled Michelle’s vision for a more inclusive Georgia.
 Each photo reflects the pride and power of a community ready to make its voice heard.
+Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) Slide 7 Slide 7 (current slide) Slide 8 Slide 8 (current slide) Slide 9 Slide 9 (current slide) Slide 10 Slide 10 (current slide) Slide 11 Slide 11 (current slide) Slide 12 Slide 12 (current slide) Slide 13 Slide 13 (current slide) Slide 14 Slide 14 (current slide) Slide 15 Slide 15 (current slide) Slide 16 Slide 16 (current slide) Slide 17 Slide 17 (current slide) Slide 18 Slide 18 (current slide) Slide 19 Slide 19 (current slide) Slide 20 Slide 20 (current slide) Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Keep in Touch Sign up with your email address to receive news and updates.
+Email Address Sign Up We respect your privacy.
+Thank you!
+Donate contact Volunteer Checks payable to: Friends of Michelle Kang, Inc Send checks to: PO Box 3772, Suwanee, GA 30024 For press or media inquiries, please contact press@michellekangforga.com Website by Blum Creative Privacy Policy | Terms of Use

@@ -1,17 +1,70 @@
 [
-"https://anthonybrown.com/",
-"https://anthonybrown.com/cdn-cgi/l/email-protection",
-"https://anthonybrown.com/donate",
-"https://anthonybrown.com/donate?amount=10&express_lane=true",
-"https://anthonybrown.com/donate?amount=100&express_lane=true",
-"https://anthonybrown.com/donate?amount=25&express_lane=true",
-"https://anthonybrown.com/donate?amount=5&express_lane=true",
-"https://anthonybrown.com/donate?amount=50&express_lane=true",
-"https://anthonybrown.com/email-updates",
-"https://anthonybrown.com/get-involved",
-"https://anthonybrown.com/issues",
-"https://anthonybrown.com/privacy-policy",
-"https://anthonybrown.com/short-biography",
-"https://facebook.com/AnthonyBrown.Maryland",
-"https://twitter.com/brownformd"
+{
+"text": "$10",
+"href": "https://anthonybrown.com/donate?amount=10&express_lane=true"
+},
+{
+"text": "$100",
+"href": "https://anthonybrown.com/donate?amount=100&express_lane=true"
+},
+{
+"text": "$25",
+"href": "https://anthonybrown.com/donate?amount=25&express_lane=true"
+},
+{
+"text": "$5",
+"href": "https://anthonybrown.com/donate?amount=5&express_lane=true"
+},
+{
+"text": "$50",
+"href": "https://anthonybrown.com/donate?amount=50&express_lane=true"
+},
+{
+"text": "Contribute Contribute",
+"href": "https://anthonybrown.com/donate"
+},
+{
+"text": "Email",
+"href": "mailto:?subject=Meet+Anthony+-+Anthony+Brown&body=https%3A%2F%2Fanthonybrown.com%2F"
+},
+{
+"text": "Get Involved Get Involved",
+"href": "https://anthonybrown.com/get-involved"
+},
+{
+"text": "Meet Anthony",
+"href": "https://anthonybrown.com/"
+},
+{
+"text": "On the Issues On the Issues",
+"href": "https://anthonybrown.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://anthonybrown.com/privacy-policy"
+},
+{
+"text": "Signup",
+"href": "https://anthonybrown.com/email-updates/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@anthonybrown.com"
+},
+{
+"text": "[image: Anthony Brown: Democrat for Congress]",
+"href": "https://anthonybrown.com"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/AnthonyBrown.Maryland"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/brownformd"
+},
+{
+"text": "here",
+"href": "https://www.anthonybrown.com/short-biography/"
+}
 ]

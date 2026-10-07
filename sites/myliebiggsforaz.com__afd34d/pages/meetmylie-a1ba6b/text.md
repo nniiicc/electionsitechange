@@ -1,4 +1,4 @@
-Meet your candidate for AZ State Senate for Legislative District 14.
+0 Skip to Content Home Meet Mylie DONATE Open Menu Close Menu Open Menu Close Menu Home Meet Mylie DONATE Home Meet Mylie DONATE Meet your candidate for AZ State Senate for Legislative District 14.
 Mylie was born and raised in the East Valley.
 She was brought up by loving parents who taught her the value of this country, the Constitution, and the Declaration of Independence, and the need for faith in our Heavenly Father.
 After her first year of college, she served an 18-month religious mission for her church in Brazil and Utah.
@@ -7,3 +7,4 @@ During her time in college, she worked on multiple Congressional campaigns and w
 In 2024, she began working for Turning Point Action as a Voter Analysis Copywriter.
 At the beginning of 2025, she accepted a position at the Arizona Free Enterprise Club as the Associate of Government Affairs focusing on local policy.
 She is the youngest of six Biggs kids and loves being an aunt to the twelve cutest kids.
+PAID FOR BY MYLIE FOR SENATE

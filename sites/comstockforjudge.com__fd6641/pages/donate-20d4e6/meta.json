@@ -1,7 +1,9 @@
 {
  "description": "Donate to Chip&#39;s campaign and support his journey as an Attorney and Fire Chief. Your contributions matter!",
  "final_url": "https://comstockforjudge.com/donate",
- "paid_for_by": null,
+ "fingerprint": "0e28faf82f55cb0d0de2f620d4f3490794f90b22",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
  "years_mentioned": []
 }

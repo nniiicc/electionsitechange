@@ -1,15 +1,62 @@
 [
-"https://chicago.suntimes.com/2020/10/3/21499390/endorsement-dagmara-dee-avelar-for-illinois-house-in-85th-district-2020-elections",
-"https://elections.il.gov/",
-"https://facebook.com/deeforIL85",
-"https://ilga.gov/legislation/BillStatus.asp?DocNum=3583&GAID=16&DocTypeID=HB&SessionID=110&GA=102",
-"https://instagram.com/deeforIL85",
-"https://stateofreform.com/news/illinois/2021/03/affordable-drug-manufacturing-act-would-help-lower-prescription-drug-prices-in-illinois",
-"https://twitter.com/deeforIL85",
-"https://votedee85.com/",
-"https://votedee85.com/about",
-"https://votedee85.com/district",
-"https://votedee85.com/get-involved",
-"https://votedee85.com/issues",
-"https://votedee85.com/news"
+{
+"text": "About",
+"href": "https://www.votedee85.com/about"
+},
+{
+"text": "District",
+"href": "https://www.votedee85.com/district"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votedee85.com/get-involved"
+},
+{
+"text": "HB 3583",
+"href": "https://www.ilga.gov/legislation/BillStatus.asp?DocNum=3583&GAID=16&DocTypeID=HB&SessionID=110&GA=102"
+},
+{
+"text": "Home",
+"href": "https://www.votedee85.com"
+},
+{
+"text": "Issues",
+"href": "https://www.votedee85.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://chicago.suntimes.com/2020/10/3/21499390/endorsement-dagmara-dee-avelar-for-illinois-house-in-85th-district-2020-elections"
+},
+{
+"text": "News",
+"href": "https://www.votedee85.com/news"
+},
+{
+"text": "Read Article",
+"href": "https://stateofreform.com/news/illinois/2021/03/affordable-drug-manufacturing-act-would-help-lower-prescription-drug-prices-in-illinois/"
+},
+{
+"text": "[image: Dagmara_Logo_v1_MAIN_LOGO.png]",
+"href": "https://www.votedee85.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/deeforIL85"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/deeforIL85"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/deeforIL85"
+},
+{
+"text": "communityfordee@gmail.com",
+"href": "mailto:communityfordee@gmail.com"
+},
+{
+"text": "www.elections.il.gov",
+"href": "https://www.elections.il.gov/"
+}
 ]

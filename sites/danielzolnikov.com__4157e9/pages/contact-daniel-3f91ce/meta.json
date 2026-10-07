@@ -1,6 +1,8 @@
 {
  "description": "Get in touch with Daniel Zolnikov through the contact form to send a message directly and engage in political discussions.",
  "final_url": "https://danielzolnikov.com/contact-daniel",
+ "fingerprint": "512480d1a5cea6d525da55dd719ff2c0cc559d38",
+ "format": 3,
  "paid_for_by": "Paid for by Montanans for Daniel Zolnikov",
  "title": "Contact Daniel",
  "years_mentioned": []

@@ -1,27 +1,21 @@
-★ Даника Хартенфельс на пост государственного представителя ★
-Надежный. Проверен. Готов к использованию.
-Решительный голос в защиту работающих семей и малого бизнеса в 189-м округе Пенсильвании
-Лидер для реальной жизни, а не только политики.
-Меня зовут Даника Хартенфельс. Я владелица малого бизнеса, мама и всю жизнь живу в Пенсильвании.
-Я не понаслышке знаю о трудностях воспитания семьи, управления бизнесом и вклада в развитие нашего сообщества. Я не профессиональный политик. Я один из вас и баллотируюсь в Палату представителей штата, чтобы донести свой голос, свои ценности и приоритеты до жителей Гаррисберга.
-Даника Хартенфельс
-★ Приоритеты Даники ★
-Голос за 189-й округ
-Работающие семьи прежде всего
-Поддерживайте уход за детьми, справедливую заработную плату и благополучие семьи.
-Ответственное использование налогов
-Требуйте ответственности и прозрачности в Гаррисберге.
-Поддержка малого бизнеса
-Сократите бюрократическую волокиту и создайте возможности для местных предпринимателей.
-Безопасные и сильные сообщества
-Защитите свои районы и поддержите местные правоохранительные органы.
-★ О Данике ★
-Укоренено в нашем сообществе
-Даника родилась в Ист-Страудсбурге и выросла в округе Пайк, получила степень бакалавра в Университете Ист-Страудсбурга и проживает в округе Монро более 20 лет. Она посвятила свою карьеру гостиничному бизнесу, малому бизнесу и общественной работе. Она гордится тем, что является матерью, удостоенным наград предпринимателем и активным волонтёром, десятилетиями работающим в местных организациях.
-★ Новости и обновления ★
-На пути к предвыборной кампании
-Будьте в курсе последних новостей, пресс-релизов и общественных мероприятий кампании Даники.
-Предстоящие события
-От встреч и приветствий до предвыборных митингов Даника общается с соседями по всему 189-му округу.
-Ваш голос имеет значение
-Каждая кампания держится на таких людях, как вы. Работаете ли вы волонтёром, проводите мероприятие или распространяете информацию, ваша поддержка имеет значение.
+Дом Знакомьтесь, Даника Новости События Примите участие Контакт Примите участие русский ru Español es English en polski pl עברית he 简体中文 zh Дом Знакомьтесь, Даника Новости События Примите участие Контакт Примите участие ★ Даника Хартенфельс на пост государственного представителя ★ Надежный. Проверен. Готов к использованию. Решительный голос в защиту работающих семей и малого бизнеса в 189-м округе Пенсильвании Знакомьтесь, Даника Примите участие Лидер для реальной жизни, а не только политики. Меня зовут Даника Хартенфельс. Я владелица малого бизнеса, мама и всю жизнь живу в Пенсильвании. Я не понаслышке знаю о трудностях воспитания семьи, управления бизнесом и вклада в развитие нашего сообщества. Я не профессиональный политик. Я один из вас и баллотируюсь в Палату представителей штата, чтобы донести свой голос, свои ценности и приоритеты до жителей Гаррисберга. Даника Хартенфельс ★ Приоритеты Даники ★ Голос за 189-й округ Работающие семьи прежде всего Поддерживайте уход за детьми, справедливую заработную плату и благополучие семьи. Ответственное использование налогов Требуйте ответственности и прозрачности в Гаррисберге. Поддержка малого бизнеса Сократите бюрократическую волокиту и создайте возможности для местных предпринимателей. Безопасные и сильные сообщества Защитите свои районы и поддержите местные правоохранительные органы. ★ О Данике ★ Укоренено в нашем сообществе Даника родилась в Ист-Страудсбурге и выросла в округе Пайк, получила степень бакалавра в Университете Ист-Страудсбурга и проживает в округе Монро более 20 лет. Она посвятила свою карьеру гостиничному бизнесу, малому бизнесу и общественной работе. Она гордится тем, что является матерью, удостоенным наград предпринимателем и активным волонтёром, десятилетиями работающим в местных организациях. Знакомьтесь, Даника ★ Новости и обновления ★ На пути к предвыборной кампании Будьте в курсе последних новостей, пресс-релизов и общественных мероприятий кампании Даники.
+An Interview With ESU Alumni Danica Hartenfels about hospitality careers and LinkedIn 20 августа 2026 г.
+Pike County Council of Republican Women Celebrate Strong Female Leadership and Growth 17 августа 2026 г.
+By Annastasia Theodoropoulos The Pike County Council of Republican Women (PCCRW) brought members together for a successful and well-attended August Member Meeting on Wednesday, August 12, at the Apple Valley Restaurant.
+With membership having surged 62 percent, there was plenty to celebrate.
+The gathering offered a warm blend of fellowship, fine dining, and insightful political discussion that underscored the group’s ongoing commitment to strengthening Republican values across the region.
+Deborah Fischer, President of the PCCRW, and her executive board welcomed guests, including Matamoras Mayor Cory Homer and his wife Tiffany, as well as Blooming Grove Township Supervisor Tim Morey and his wife Danielle.
+Other attendees included female elected officials such as the Recorder of Deeds, Prothonotary, Auditors, Judges of Elections, GOP Committee members, and more.
+The evening’s highlight was guest speaker Danica Hartenfels, the Republican candidate for Pennsylvania State Representative in the 189th District.
+Members had the opportunity to meet Hartenfels, hear her perspective on key issues facing the district, and engage directly with a candidate working to advance common-sense principles at the state level.
+Her appearance provided both inspiration and practical insight for attendees focused on local and statewide advocacy.
+Guests selected from a thoughtful menu of entrées—Fish & Chips, Turkey Pot Pie, or Pappardelle Pasta Bolognese—accompanied by a salad with choice of dressing and a classic Crème Brulé for dessert.
+The comfortable setting of the Apple Valley Restaurant created an ideal backdrop for conversation and connection among members.
+Organizers, led by contacts such as Theresa Brown, carefully planned the successful event.
+The PCCRW, established in 1949, continues its long tradition of fostering community and political engagement, as reflected in its motto: “Working to keep Pike County Republican Strong!” All are encouraged to become members, and current members are invited to stay connected through the group’s Facebook page, The Pike County Council of Republican Women, and via email at pikecountyrepublicanwomen@gmail.com.
+The August 2026 meeting served as another strong example of the PCCRW’s dedication to informed activism, candidate support, and building a vibrant Republican presence in Pike County.
+A Quick Introduction to the Community 27 марта 2026 г.
+At a recent local event, Danica had the opportunity to introduce herself and share a bit about who she is with members of the community. ﻿ Moments like this matter.
+They are a chance to connect face-to-face, listen, and be present with the people she hopes to represent.
+If you were there, thank you for the warm welcome.
+If not, you can watch her introduction below to get a sense of who she is and what she stands for. Читать больше новостей Предстоящие события От встреч и приветствий до предвыборных митингов Даника общается с соседями по всему 189-му округу. Просмотр событий Ваш голос имеет значение Каждая кампания держится на таких людях, как вы. Работаете ли вы волонтёром, проводите мероприятие или распространяете информацию, ваша поддержка имеет значение. Примите участие Даника Хартенфельс на пост государственного представителя ★ Даника Хартенфельс на пост государственного представителя ★ Даника Хартенфельс на пост государственного представителя ★ Даника Хартенфельс на пост государственного представителя ★ Даника Хартенфельс на пост государственного представителя ★ Даника Хартенфельс на пост государственного представителя ★ ★ Подписка на рассылку новостей ★ Будьте в курсе событий. Будьте вовлечены. Получите последние новости о кампании Даники, ее мероприятиях и способах изменить ситуацию в 115-м округе. Связаться с нами Введите свой адрес электронной почты здесь Подписаться Да, подпишите меня на вашу рассылку. Спасибо, что обратились к нам. Мы свяжемся с вами как можно скорее. Упс, при отправке сообщения произошла ошибка. Попробуйте еще раз позже. © # Все права защищены | Даника Хартенфельс для государственного представителя Даника Хартенфельс на пост государственного представителя ★ Даника Хартенфельс на пост государственного представителя ★ Даника Хартенфельс на пост государственного представителя ★ Даника Хартенфельс на пост государственного представителя ★ Даника Хартенфельс на пост государственного представителя ★ Даника Хартенфельс на пост государственного представителя ★ Даника Хартенфельс на пост государственного представителя ★ Даника Хартенфельс на пост государственного представителя ★ Даника Хартенфельс на пост государственного представителя ★ Даника Хартенфельс на пост государственного представителя ★

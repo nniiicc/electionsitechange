@@ -1,33 +1,5 @@
-IN THE NEWS
-Gabrielle Giffords, LGBTQ+ Victory Fund endorse Samuel Vilchez Santiago in HD 43 race
-Florida Politics
-Lori Berman, Fentrice Driskell lead flood of Dems endorsing Samuel Vilchez Santiago in HD 43
-Florida Politics
-Former Orange County Democratic Party chair hosts campaign kickoff for Florida House seat
-Orlando Weekly
-Rep.
-Johanna López and Samuel Vilchez Santiago raise thousands in campaign funds in two weeks
-Watermark Out News
-Samuel Vilchez Santiago Lands Endorsements From Jerry Demings, Buddy Dyer in HD 43 Race
-Florida Politics
-Johanna López seeks Orange County Commission seat, Samuel Vilchez Santiago Files For State House
-Orlando Sentinel
-‘We built a very powerful movement here’: Orange County Democratic Party Chair is running for HD 43
-Florida Politics
-Remarkable People: Samuel Vilchez Santiago, Chair of the Orange County Democratic Party
-Watermark News
-Democrats Have Lost Ground With Immigrants.
-Under Trump, They Need to Fight for Them" (Op Ed)
-Teen Vogue
-Orange County Dems Celebrate A Local Blue Wave On Election Night
-Central Florida Public Media
-Florida leaders address gun violence, 2024 election
-Watermark News
-Entrevista con Samuel Vilchez Santiago
-Watermark News
-Samuel Vilchez Una Voz Politica para los Jovenes
-Sun Sentinel
-Mi Futuro Comienza en Orlando
-Orlando Sentinel
-Senior Samuel Vilchez Santiago Receives Glickman Prize
-Pace Center for Civic Engagement
+0 Skip to Content Meet Samuel Samuel's Priorities Endorsements In The News Get Involved English DONATE Open Menu Close Menu Meet Samuel Samuel's Priorities Endorsements In The News Get Involved English DONATE Open Menu Close Menu Meet Samuel Samuel's Priorities Endorsements In The News Get Involved English Back DONATE IN THE NEWS Gabrielle Giffords, LGBTQ+ Victory Fund endorse Samuel Vilchez Santiago in HD 43 race Florida Politics Florida legislators endorse Samuel Vilchez Santiago for House District 43 Watermark Out News Lori Berman, Fentrice Driskell lead flood of Dems endorsing Samuel Vilchez Santiago in HD 43 Florida Politics Former Orange County Democratic Party chair hosts campaign kickoff for Florida House seat Orlando Weekly Rep.
+Johanna López and Samuel Vilchez Santiago raise thousands in campaign funds in two weeks Watermark Out News Samuel Vilchez Santiago Lands Endorsements From Jerry Demings, Buddy Dyer in HD 43 Race Florida Politics Orange County Democrats claim ICE is taking things too far in Central Florida WESH 2 Johanna López seeks Orange County Commission seat, Samuel Vilchez Santiago Files For State House Orlando Sentinel ‘We built a very powerful movement here’: Orange County Democratic Party Chair is running for HD 43 Florida Politics The American dream is still possible.
+Floridians must choose it in 2026 (Op Ed) Orlando Sentinel Remarkable People: Samuel Vilchez Santiago, Chair of the Orange County Democratic Party Watermark News Florida Democrats Push Back against Redistricting Fox 13 Democrats Have Lost Ground With Immigrants.
+Under Trump, They Need to Fight for Them" (Op Ed) Teen Vogue Orange County Dems Celebrate A Local Blue Wave On Election Night Central Florida Public Media Florida leaders address gun violence, 2024 election Watermark News Time to put politics aside and finally expand Medicaid in Florida (Op-Ed) Orlando Sentinel Entrevista con Samuel Vilchez Santiago Watermark News Samuel Vilchez Una Voz Politica para los Jovenes Sun Sentinel Mi Futuro Comienza en Orlando Orlando Sentinel Senior Samuel Vilchez Santiago Receives Glickman Prize Pace Center for Civic Engagement DONATE P.O.
+Box 720533 Orlando, FL 32872 Site Design by Statecraft Media Privacy Policy Political advertisement paid for and approved by Samuel Vilchez Santiago, Democrat, for Florida House District 43.

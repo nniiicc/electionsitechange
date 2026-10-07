@@ -1,9 +1,1 @@
-About Jana
-Issues
-District 24
-Contact
-Volunteer
-Donate
-Select Page
-Donate
-Donate to Jana’s Campaign
+About Jana Issues District 24 Contact Volunteer Donate Select Page Donate Donate to Jana’s Campaign About Jana Issues District 24 Contact Volunteer Donate Paid for by Jana Hughes for Legislature | 1825 Deer Run Drive, Seward NE 68434 | ©# Follow

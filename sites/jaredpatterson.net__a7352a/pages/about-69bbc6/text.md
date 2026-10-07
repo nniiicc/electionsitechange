@@ -1,4 +1,4 @@
-From a blue-collar home in rural Texas to representing one of the fastest growing areas in the United States, Jared Patterson found purpose during the tragic events of 9/11 and has since dedicated himself to a life of service.
+Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Donate Now About Jared: From a blue-collar home in rural Texas to representing one of the fastest growing areas in the United States, Jared Patterson found purpose during the tragic events of 9/11 and has since dedicated himself to a life of service.
 A proud graduate of Texas A&M University, Jared was first elected to Texas House District 106 in 2018, which covers north central and eastern Denton County.
 He is a full-spectrum conservative who champions fiscal responsibility, individual liberty, life, and the fierce spirit of independence which has made Texas the greatest state in the nation.
 During his time in office, Rep.
@@ -13,11 +13,13 @@ Patterson chaired the House Committee on Protecting Texas LNG and served as Co-C
 He is a member of the Texas Aggie Caucus, the Nuclear Caucus, the Criminal Justice Reform Caucus, and the Texas House Republican Caucus.
 Rep.
 Patterson and his family reside in Frisco and are members of Frisco First Baptist Church.
-My Social Media!
-Jared Embodies
-Jared Patterson is a dedicated public servant who strongly defends the rights of man, prioritizes limited government, and actively works to advance policies which foster economic growth and strengthen individual liberties for the benefit of all Texans.
+Check Out My Social Media!
+Facebook-square Twitter Youtube Instagram Qualities Jared Embodies Jared Patterson is a dedicated public servant who strongly defends the rights of man, prioritizes limited government, and actively works to advance policies which foster economic growth and strengthen individual liberties for the benefit of all Texans.
 His work in the legislature has brought about sweeping conservative policy wins protecting life and the innocence of our children, reaffirming the Second Amendment, lowering the tax burden, strengthening the border, and ensuring our elections are free and fair.
-Texas Values
-Together we flourish, upholding the core principles and traditions
-that are deeply cherished by the people of the Lone Star State.
-Learn More About The Impact On Texans.
+Learn More Serving Texans Standing Strong For Texas Values Together we flourish, upholding the core principles and traditions that are deeply cherished by the people of the Lone Star State.
+Learn More Latest News & Updates Learn More About The Impact On Texans.
+September 9, 2026 In Uncategorized Comment off REP.
+PATTERSON ANNOUNCES “CHARLIE KIRK ACT” TO COMBAT POLITICAL VIOLENCE Continue Reading August 20, 2026 In Uncategorized Comment off REP.
+PATTERSON COMMENDS PUBLIC HEALTH COMMITTEE AND VOWS TO CONTINUE THE FIGHT Continue Reading August 17, 2026 In Uncategorized Comment off REP.
+PATTERSON HELPS SECURE THREE QUARTERS OF A BILLION DOLLARS IN FEDERAL FUNDING FOR TXDOT RAIL GRADE SEPARATION PROJECTS Continue Reading Email: votejaredpatterson@gmail.com P.O.
+Box 5419 Frisco, TX 75035 Follow: Pol Adv Paid for By Jared Patterson.

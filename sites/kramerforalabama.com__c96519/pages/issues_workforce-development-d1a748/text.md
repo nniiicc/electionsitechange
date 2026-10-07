@@ -1,7 +1,6 @@
-Workforce Development
-I believe Alabama’s future depends on a strong, skilled workforce, and that means investing in the people who keep our communities and economy moving forward.
+Meet Katie Issues Volunteer Contribute Home ❭ Issues ❭ Workforce Development Workforce Development I believe Alabama’s future depends on a strong, skilled workforce, and that means investing in the people who keep our communities and economy moving forward.
 I support expanding workforce development programs that connect students and job seekers with training in high-demand fields like skilled trades, healthcare, and technology.
 By strengthening partnerships between schools, community colleges, and local businesses, we can ensure more Alabamians have access to the skills and opportunities needed to build stable, rewarding careers.
 Workforce development is also about creating clear pathways to good-paying jobs without unnecessary barriers.
 I support increasing access to apprenticeships, technical education, and hands-on training programs that prepare people for real opportunities in their communities.
-When we equip Alabamians with the skills employers need, we strengthen families, support local businesses, and build a stronger economy for our state.
+When we equip Alabamians with the skills employers need, we strengthen families, support local businesses, and build a stronger economy for our state. « Previous: Healthcare for All Next: Infrastructure » Voter Information Yard Signs Events Photos Contact Committee to Elect Katie Kramer Powered by CampaignPartner.com - Political Campaign Websites Home Meet Katie Issues Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu

@@ -1,5 +1,4 @@
-April 2024 Letter
-The majesty of the sun and the moon.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Black Hole Sun Black Hole Sun Black Hole Sun Apr 30, 2024 Apr 30, 2024 April 2024 Letter Eclipse - 8 April 2024 - 16:43 - Taken by Jonah Eclipse - 8 April 2024 - 16:43 - Taken by Jonah The majesty of the sun and the moon.
 Their eternal dance in the sky, occasionally bringing us the grand shows such as the total solar eclipse.
 My friend who had seen it before was convincing us all to go, and I was hesitant to make the drive with all the tourists; but the indescribable nature of the event itself was worth every moment of chaos getting to and from the path of totality in the North Country.
 Everyone cheered as the moment of totality began.
@@ -62,4 +61,4 @@ The leaves are slowly but surely returning.
 The white flowers on the trees outside of the State House have come into bloom.
 The weather is balancing out, the birds returning; the Spring has set in.
 We are coming into the final stretch but there is still much to do.
-Back to all
+Entrance - 12 April 2024 - 19:53 - Concord, NH - Taken by Jonah Entrance - 12 April 2024 - 19:53 - Concord, NH - Taken by Jonah ‹ The Final Stretch ‹ The Final Stretch ‹ The Final Stretch 95 Can’t Keep Me Away › 95 Can’t Keep Me Away › 95 Can’t Keep Me Away › Back to all

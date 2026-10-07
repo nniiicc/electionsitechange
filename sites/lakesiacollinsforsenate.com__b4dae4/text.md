@@ -1,36 +1,12 @@
-senator lakesia collins
-creating a better
-place for our families
-Senator Collins remains committed to serving working families across the 5th District and the entire state of Illinois.
-She is a consistent, fierce advocate for the voiceless, focused on fighting for a better future for all.
-senator lakesia collins
-creating a better
-place for our families
-Senator Collins remains committed to serving working families across the 5th District and the entire state of Illinois.
-She is a consistent, fierce advocate for the voiceless, focused on fighting for a better future for all.
-about lakesia
-mother. advocate. organizer.
+Skip to content Home About Lakesia Issues News & Achievements Contact Home About Lakesia Issues News & Achievements Contact Donate senator lakesia collins creating a better place for our families Senator Collins remains committed to serving working families across the 5th District and the entire state of Illinois.
+She is a consistent, fierce advocate for the voiceless, focused on fighting for a better future for all. learn more senator lakesia collins creating a better place for our families Senator Collins remains committed to serving working families across the 5th District and the entire state of Illinois.
+She is a consistent, fierce advocate for the voiceless, focused on fighting for a better future for all. learn more about lakesia mother. advocate. organizer.
 State Senator Lakesia Collins of Illinois’ 5th district is a dedicated public servant committed to advocating for her community.
-Her background is rooted in firsthand experience of the challenges faced by working families.
-100’s of families served
-more money into working families pockets
-fighting on the lines
-the issues
-A strong advocate for youth in care
-As someone who personally understands the challenges that come with housing insecurity and instability as a child, Senator Collins has become a leading legislator on issues related to youth in care.
-Delivering for mothers & working families
-Senator Collins is a single mother of three boys.
+Her background is rooted in firsthand experience of the challenges faced by working families. learn more 100’s of families served more money into working families pockets fighting on the lines the issues A strong advocate for youth in care As someone who personally understands the challenges that come with housing insecurity and instability as a child, Senator Collins has become a leading legislator on issues related to youth in care.
+KEEP READING Delivering for mothers & working families Senator Collins is a single mother of three boys.
 She understands the challenges of balancing the jobs of providing for her family financially while being present to create a safe, stable environment for her children to thrive.
-Supporting our senior services & expanding healthcare
-Senator Collins’ background as a nursing home worker has instilled in her a deep passion for Illinois seniors and improving access to quality, affordable healthcare for all.
-featured
-in the news
-Collins pushes for more support for new mothers on Medicaid
-SPRINGFIELD – Continuing her support for mothers across Illinois, State Senator Lakesia Collins is leading a measure to give mothers
-Collins bill to clarify trespassing and enforcement procedures passes committee
-SPRINGFIELD – To assist community members and homeowners, State Senator Lakesia Collins advanced a measure Wednesday to provide guidance to
-Collins: Birth Equity Grants Coming to the 5th District
-CHICAGO – Supporting mothers across Illinois, State Senator Lakesia Collins is excited to announce $450,000 coming to the 5th District as
-get involved
-looking to get in contact with us?
-Fill out the form to get involved with us or get in contact with us and someone from our team will reach out to you as soon as we can.
+KEEP READING Supporting our senior services & expanding healthcare Senator Collins’ background as a nursing home worker has instilled in her a deep passion for Illinois seniors and improving access to quality, affordable healthcare for all.
+KEEP READING read all the issues the 5th district Want to double check whose district you’re in?
+Look up your elected officials on the State Board of Elections website.
+County Cook County Wards Ward 1 Ward 2 Ward 22 Ward 24 Ward 25 Ward 27 Ward 28 Ward 32 Ward 37 Ward 42 Ward 43 Cities Chicago featured in the news Collins pushes for more support for new mothers on Medicaid SPRINGFIELD – Continuing her support for mothers across Illinois, State Senator Lakesia Collins is leading a measure to give mothers KEEP READING March 19, 2025 Collins bill to clarify trespassing and enforcement procedures passes committee SPRINGFIELD – To assist community members and homeowners, State Senator Lakesia Collins advanced a measure Wednesday to provide guidance to KEEP READING February 21, 2025 Collins: Birth Equity Grants Coming to the 5th District CHICAGO – Supporting mothers across Illinois, State Senator Lakesia Collins is excited to announce $450,000 coming to the 5th District as KEEP READING February 7, 2025 get involved looking to get in contact with us?
+Fill out the form to get involved with us or get in contact with us and someone from our team will reach out to you as soon as we can. fill out form learn more about senator lakesia collins about issues achievements contact Facebook Instagram paid for by friends of lakesia collins Scroll to Top

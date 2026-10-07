@@ -1,12 +1,8 @@
-JOIN THE TEAM!
-Contact: alexis@alexis4nh.com
-Friends of Alexis Simpson
-20 Main St.
-Exeter, NH 03833
-Skip to content
-Donate
-JOIN THE TEAM!
-Contact: alexis@alexis4nh.com
-Friends of Alexis Simpson
-20 Main St.
-Exeter, NH 03833
+Skip to content Alexis Simpson for State Representative Leadership You Can Trust Menu + × expanded collapsed Home About Issues Donate Facebook Instagram Twitter Donate JOIN THE TEAM!
+Donate with ActBlue!
+Contact: alexis@alexis4nh.com Friends of Alexis Simpson 20 Main St.
+Exeter, NH 03833 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Alexis Simpson for State Representative , Blog at WordPress.com.
+Alexis Simpson for State Representative Copy shortlink Manage subscriptions Sign up Log in Report this content Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

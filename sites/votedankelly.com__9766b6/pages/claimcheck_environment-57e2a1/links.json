@@ -1,18 +1,66 @@
 [
-"http://instagram.com/votedankelly",
-"https://facebook.com/votedankelly",
-"https://votedankelly.com/",
-"https://votedankelly.com/about",
-"https://votedankelly.com/cart",
-"https://votedankelly.com/claimcheck",
-"https://votedankelly.com/claimcheck/costofliving",
-"https://votedankelly.com/claimcheck/economicdevelopment",
-"https://votedankelly.com/donate",
-"https://votedankelly.com/events",
-"https://votedankelly.com/news",
-"https://votedankelly.com/priorities",
-"https://votedankelly.com/volunteer",
-"https://votedankelly.com/whyyoushouldcare",
-"https://votedankelly.com/yard-sign-signup",
-"https://youtube.com/@votedankelly"
+{
+"text": "0",
+"href": "https://www.votedankelly.com/cart"
+},
+{
+"text": "About Dan",
+"href": "https://www.votedankelly.com/about"
+},
+{
+"text": "Claim Check: Kristin Kassner",
+"href": "https://www.votedankelly.com/claimcheck"
+},
+{
+"text": "DONATE",
+"href": "https://www.votedankelly.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.votedankelly.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votedankelly.com/volunteer"
+},
+{
+"text": "Kassner Campaign Violations - Why You Should Care",
+"href": "https://www.votedankelly.com/whyyoushouldcare"
+},
+{
+"text": "News",
+"href": "https://www.votedankelly.com/news"
+},
+{
+"text": "Next Next Cost of Living, Taxes & Schools",
+"href": "https://www.votedankelly.com/claimcheck/costofliving"
+},
+{
+"text": "Previous Previous Economic Development",
+"href": "https://www.votedankelly.com/claimcheck/economicdevelopment"
+},
+{
+"text": "Priorities",
+"href": "https://www.votedankelly.com/priorities"
+},
+{
+"text": "Videos",
+"href": "https://www.youtube.com/@votedankelly"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.votedankelly.com/yard-sign-signup"
+},
+{
+"text": "[image: Dan Kelly for Massachusetts State Representative]",
+"href": "https://www.votedankelly.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/votedankelly"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votedankelly/"
+}
 ]

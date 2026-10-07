@@ -1,13 +1,42 @@
 [
-"http://aboutads.info/choices",
-"http://allaboutdnt.com/",
-"https://derekschmidt.com/",
-"https://derekschmidt.com/info@schmidt4congress.com",
-"https://derekschmidt.com/privacy",
-"https://derekschmidt.com/www.aboutads.info",
-"https://facebook.com/DerekSchmidtKS",
-"https://form.jotform.com/242504946642156",
-"https://instagram.com/derekschmidtks",
-"https://secure.winred.com/derek-schmidt-for-congress-inc/donate",
-"https://x.com/derekschmidtks"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/derek-schmidt-for-congress-inc/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://derekschmidt.com/privacy"
+},
+{
+"text": "Request Free Yard Sign",
+"href": "https://form.jotform.com/242504946642156"
+},
+{
+"text": "[image: Derek Schmidt for Congress logo]",
+"href": "https://derekschmidt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DerekSchmidtKS"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/derekschmidtks"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/derekschmidtks"
+},
+{
+"text": "http://www.allaboutdnt.com",
+"href": "http://www.allaboutdnt.com"
+},
+{
+"text": "info@schmidt4congress.com",
+"href": "https://derekschmidt.com/info@schmidt4congress.com"
+},
+{
+"text": "www.aboutads.info",
+"href": "https://derekschmidt.com/www.aboutads.info"
+}
 ]

@@ -1,7 +1,6 @@
-An Unseen Problem: Youth Experiencing Homelessness
-by Elisabeth Jackson & Rep.
-Jessica Giannino
-Youth experiencing homelessness are often unseen.
+top of page Home About Issues News Volunteer Contact Donate More Use tab to navigate through the menu items.
+An Unseen Problem: Youth Experiencing Homelessness Giannino Dec 18, 2024 2 min read by Elisabeth Jackson & Rep.
+Jessica Giannino Youth experiencing homelessness are often unseen.
 As the President & CEO of Bridge Over Troubled Waters and a two-term State Representative who serves as Vice Chair of the Joint Committee on Children, Families, and Persons with Disabilities, I see firsthand the challenges faced by youth and young adults who find themselves homeless and without a support system.
 Most discussions about homelessness and the Commonwealth’s housing crisis focus on families or chronically homeless adults.
 Rarely do they highlight the unique struggles of 14–24-year-old young adults who are adrift on our streets, stuck in adult shelters, or temporarily couch-surfing with friends or acquaintances.
@@ -30,4 +29,8 @@ Consider learning more, volunteering and donating to organizations that speciali
 Together, we can provide young adults with the opportunities and support they need to thrive.
 Elisabeth Jackson is President and CEO of Bridge Over Troubled Waters.
 Jessica Giannino represents the 16th Suffolk District in the Massachusetts House of Representatives.
-Read full article here
+Read full article here Recent Posts See All Rep.
+Giannino named Vice Chair of Joint Committee on Economic Development and Emerging Technologies Mass.
+Marine Trades Association (MMTA) welcomes State Rep.
+Jessica Giannino as House Co-Chair of the Legislative Boating Caucus MMTA Welcomes Rep.
+Giannino as House Co-Chair of theLegislative Boating Caucus Home About Issues News Volunteer Contact Donate More Use tab to navigate through the menu items. bottom of page

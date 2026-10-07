@@ -1,5 +1,14 @@
 [
-"http://hunterforindiana.com/",
-"https://hunterforindiana.com/privacy-policy",
-"https://secure.winred.com/hunter-smith-for-indiana/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/hunter-smith-for-indiana/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.hunterforindiana.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "http://www.hunterforindiana.com"
+}
 ]

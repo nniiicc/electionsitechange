@@ -1,7 +1,34 @@
 [
-"http://facebook.com/BascomForIN",
-"https://bascomforindiana.com/",
-"https://bascomforindiana.com/endorsements",
-"https://bascomforindiana.com/privacy",
-"https://twitter.com/gbb13?lang=en"
+{
+"text": "ABOUT",
+"href": "https://www.bascomforindiana.com"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.bascomforindiana.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.bascomforindiana.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.bascomforindiana.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bascomforindiana.com/privacy"
+},
+{
+"text": "[image: Bascom Logo (1).png]",
+"href": "https://www.bascomforindiana.com"
+},
+{
+"text": "[image: bascom-04]",
+"href": "http://facebook.com/BascomForIN"
+},
+{
+"text": "[image: bascom-05]",
+"href": "https://twitter.com/gbb13?lang=en"
+}
 ]

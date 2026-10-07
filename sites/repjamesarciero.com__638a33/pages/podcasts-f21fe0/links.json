@@ -1,36 +1,298 @@
 [
-"http://instagram.com/repjimarciero",
-"https://facebook.com/jim.arciero",
-"https://open.spotify.com/show/3nFwjibYFxsOt8eo4KQ513",
-"https://repjamesarciero.com/",
-"https://repjamesarciero.com/about-new",
-"https://repjamesarciero.com/cart",
-"https://repjamesarciero.com/contact-main",
-"https://repjamesarciero.com/donate",
-"https://repjamesarciero.com/jimsdistrict",
-"https://repjamesarciero.com/new-page",
-"https://repjamesarciero.com/news",
-"https://repjamesarciero.com/podcasts",
-"https://repjamesarciero.com/podcasts/ally-blanck-animal-rescue-league-of-boston",
-"https://repjamesarciero.com/podcasts/bob-shaffer-1",
-"https://repjamesarciero.com/podcasts/chris-doherty-halloween-edition",
-"https://repjamesarciero.com/podcasts/dan-twomey",
-"https://repjamesarciero.com/podcasts/denise-pigeon",
-"https://repjamesarciero.com/podcasts/district-attorney-marian-ryan",
-"https://repjamesarciero.com/podcasts/dr-ann-westerheim",
-"https://repjamesarciero.com/podcasts/friends-of-the-jv-fletcher-library",
-"https://repjamesarciero.com/podcasts/heather-fitzpatrick",
-"https://repjamesarciero.com/podcasts/joe-diamond-thanksgiving-edition",
-"https://repjamesarciero.com/podcasts/kristen-las",
-"https://repjamesarciero.com/podcasts/meghan-oconnell",
-"https://repjamesarciero.com/podcasts/ming-zhang",
-"https://repjamesarciero.com/podcasts/noelle-donovan",
-"https://repjamesarciero.com/podcasts/sean-aherne",
-"https://repjamesarciero.com/podcasts/sean-kelly",
-"https://repjamesarciero.com/podcasts/state-representative-tram-nguyen-1",
-"https://repjamesarciero.com/podcasts/valery-young",
-"https://repjamesarciero.com/podcasts/wa-asian-culture-club-amp-lunar-new-year-event",
-"https://repjamesarciero.com/podcasts/wa-asian-culture-club-and-2026-lunar-new-year-event",
-"https://repjamesarciero.com/podcasts?offset=1707246341783",
-"https://westfordcat.org/"
+{
+"text": "0",
+"href": "https://repjamesarciero.com/cart"
+},
+{
+"text": "About",
+"href": "https://repjamesarciero.com/about-new"
+},
+{
+"text": "Ally Blanck - Animal Rescue League of Boston",
+"href": "https://repjamesarciero.com/podcasts/ally-blanck-animal-rescue-league-of-boston"
+},
+{
+"text": "Bob Shaffer",
+"href": "https://repjamesarciero.com/podcasts/bob-shaffer-1"
+},
+{
+"text": "Chris Doherty - Halloween Edition!",
+"href": "https://repjamesarciero.com/podcasts/chris-doherty-halloween-edition"
+},
+{
+"text": "Contact",
+"href": "https://repjamesarciero.com/contact-main"
+},
+{
+"text": "Dan Twomey",
+"href": "https://repjamesarciero.com/podcasts/dan-twomey"
+},
+{
+"text": "Denise Pigeon",
+"href": "https://repjamesarciero.com/podcasts/denise-pigeon"
+},
+{
+"text": "District & Issues",
+"href": "https://repjamesarciero.com/jimsdistrict"
+},
+{
+"text": "District Attorney Marian Ryan",
+"href": "https://repjamesarciero.com/podcasts/district-attorney-marian-ryan"
+},
+{
+"text": "Donate",
+"href": "https://repjamesarciero.com/donate"
+},
+{
+"text": "Dr. Ann Westerheim",
+"href": "https://repjamesarciero.com/podcasts/dr-ann-westerheim"
+},
+{
+"text": "Friends of the J.V. Fletcher Library",
+"href": "https://repjamesarciero.com/podcasts/friends-of-the-jv-fletcher-library"
+},
+{
+"text": "Heather Fitzpatrick",
+"href": "https://repjamesarciero.com/podcasts/heather-fitzpatrick"
+},
+{
+"text": "Joe Diamond - Thanksgiving Edition!",
+"href": "https://repjamesarciero.com/podcasts/joe-diamond-thanksgiving-edition"
+},
+{
+"text": "Kristen Las",
+"href": "https://repjamesarciero.com/podcasts/kristen-las"
+},
+{
+"text": "Meghan O’Connell",
+"href": "https://repjamesarciero.com/podcasts/meghan-oconnell"
+},
+{
+"text": "Ming Zhang",
+"href": "https://repjamesarciero.com/podcasts/ming-zhang"
+},
+{
+"text": "News",
+"href": "https://repjamesarciero.com/news"
+},
+{
+"text": "Newsletter",
+"href": "https://repjamesarciero.com/new-page"
+},
+{
+"text": "Noelle Donovan",
+"href": "https://repjamesarciero.com/podcasts/noelle-donovan"
+},
+{
+"text": "Older Posts",
+"href": "https://repjamesarciero.com/podcasts?offset=1707246341783"
+},
+{
+"text": "Podcasts",
+"href": "https://repjamesarciero.com/podcasts"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/ally-blanck-animal-rescue-league-of-boston"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/bob-shaffer-1"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/chris-doherty-halloween-edition"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/dan-twomey"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/denise-pigeon"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/district-attorney-marian-ryan"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/dr-ann-westerheim"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/friends-of-the-jv-fletcher-library"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/heather-fitzpatrick"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/joe-diamond-thanksgiving-edition"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/kristen-las"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/meghan-oconnell"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/ming-zhang"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/noelle-donovan"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/sean-aherne"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/sean-kelly"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/state-representative-tram-nguyen-1"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/valery-young"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/wa-asian-culture-club-amp-lunar-new-year-event"
+},
+{
+"text": "Read More",
+"href": "https://repjamesarciero.com/podcasts/wa-asian-culture-club-and-2026-lunar-new-year-event"
+},
+{
+"text": "Sean Aherne",
+"href": "https://repjamesarciero.com/podcasts/sean-aherne"
+},
+{
+"text": "Sean Kelly",
+"href": "https://repjamesarciero.com/podcasts/sean-kelly"
+},
+{
+"text": "Spotify",
+"href": "https://open.spotify.com/show/3nFwjibYFxsOt8eo4KQ513"
+},
+{
+"text": "State Representative Tram Nguyen",
+"href": "https://repjamesarciero.com/podcasts/state-representative-tram-nguyen-1"
+},
+{
+"text": "Valery Young",
+"href": "https://repjamesarciero.com/podcasts/valery-young"
+},
+{
+"text": "WA Asian Culture Club & Lunar New Year Event",
+"href": "https://repjamesarciero.com/podcasts/wa-asian-culture-club-amp-lunar-new-year-event"
+},
+{
+"text": "WA Asian Culture Club and 2026 Lunar New Year Event",
+"href": "https://repjamesarciero.com/podcasts/wa-asian-culture-club-and-2026-lunar-new-year-event"
+},
+{
+"text": "WestfordCAT",
+"href": "https://westfordcat.org"
+},
+{
+"text": "[image: Ally Blanck - Animal Rescue League of Boston]",
+"href": "https://repjamesarciero.com/podcasts/ally-blanck-animal-rescue-league-of-boston"
+},
+{
+"text": "[image: Bob Shaffer]",
+"href": "https://repjamesarciero.com/podcasts/bob-shaffer-1"
+},
+{
+"text": "[image: Chris Doherty - Halloween Edition!]",
+"href": "https://repjamesarciero.com/podcasts/chris-doherty-halloween-edition"
+},
+{
+"text": "[image: Dan Twomey]",
+"href": "https://repjamesarciero.com/podcasts/dan-twomey"
+},
+{
+"text": "[image: Denise Pigeon]",
+"href": "https://repjamesarciero.com/podcasts/denise-pigeon"
+},
+{
+"text": "[image: District Attorney Marian Ryan]",
+"href": "https://repjamesarciero.com/podcasts/district-attorney-marian-ryan"
+},
+{
+"text": "[image: Dr. Ann Westerheim]",
+"href": "https://repjamesarciero.com/podcasts/dr-ann-westerheim"
+},
+{
+"text": "[image: Friends of the J.V. Fletcher Library]",
+"href": "https://repjamesarciero.com/podcasts/friends-of-the-jv-fletcher-library"
+},
+{
+"text": "[image: Heather Fitzpatrick]",
+"href": "https://repjamesarciero.com/podcasts/heather-fitzpatrick"
+},
+{
+"text": "[image: Joe Diamond - Thanksgiving Edition!]",
+"href": "https://repjamesarciero.com/podcasts/joe-diamond-thanksgiving-edition"
+},
+{
+"text": "[image: Kristen Las]",
+"href": "https://repjamesarciero.com/podcasts/kristen-las"
+},
+{
+"text": "[image: Meghan O’Connell]",
+"href": "https://repjamesarciero.com/podcasts/meghan-oconnell"
+},
+{
+"text": "[image: Ming Zhang]",
+"href": "https://repjamesarciero.com/podcasts/ming-zhang"
+},
+{
+"text": "[image: Noelle Donovan]",
+"href": "https://repjamesarciero.com/podcasts/noelle-donovan"
+},
+{
+"text": "[image: Sean Aherne]",
+"href": "https://repjamesarciero.com/podcasts/sean-aherne"
+},
+{
+"text": "[image: Sean Kelly]",
+"href": "https://repjamesarciero.com/podcasts/sean-kelly"
+},
+{
+"text": "[image: State Rep. James Arciero]",
+"href": "https://repjamesarciero.com/"
+},
+{
+"text": "[image: State Representative Tram Nguyen]",
+"href": "https://repjamesarciero.com/podcasts/state-representative-tram-nguyen-1"
+},
+{
+"text": "[image: Valery Young]",
+"href": "https://repjamesarciero.com/podcasts/valery-young"
+},
+{
+"text": "[image: WA Asian Culture Club &amp; Lunar New Year Event]",
+"href": "https://repjamesarciero.com/podcasts/wa-asian-culture-club-amp-lunar-new-year-event"
+},
+{
+"text": "[image: WA Asian Culture Club and 2026 Lunar New Year Event]",
+"href": "https://repjamesarciero.com/podcasts/wa-asian-culture-club-and-2026-lunar-new-year-event"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/repjimarciero"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jim.arciero"
+}
 ]

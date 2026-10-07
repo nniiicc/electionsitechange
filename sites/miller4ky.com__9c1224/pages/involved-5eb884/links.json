@@ -1,11 +1,58 @@
 [
-"https://miller4ky.com/",
-"https://miller4ky.com/about",
-"https://miller4ky.com/contact",
-"https://miller4ky.com/involved",
-"https://miller4ky.com/news",
-"https://miller4ky.com/priorities",
-"https://miller4ky.com/privacy-policy",
-"https://miller4ky.com/terms-of-service",
-"https://secure.anedot.com/l-scott-miller-for-state-representative/scottmillerforstaterep"
+{
+"text": "About",
+"href": "https://miller4ky.com/about"
+},
+{
+"text": "Contact",
+"href": "https://miller4ky.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/l-scott-miller-for-state-representative/scottmillerforstaterep"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/l-scott-miller-for-state-representative/scottmillerforstaterep"
+},
+{
+"text": "Get Involved",
+"href": "https://miller4ky.com/involved"
+},
+{
+"text": "Home",
+"href": "https://miller4ky.com/"
+},
+{
+"text": "Host an Event",
+"href": "mailto:lscottmiller@miller4ky.com"
+},
+{
+"text": "News",
+"href": "https://miller4ky.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://miller4ky.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://miller4ky.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://miller4ky.com/terms-of-service"
+},
+{
+"text": "Terms of Service",
+"href": "https://miller4ky.com/terms-of-service"
+},
+{
+"text": "[image: L. Scott Miller for State Representative logo]",
+"href": "https://miller4ky.com/"
+},
+{
+"text": "[image: L. Scott Miller for State Representative]",
+"href": "https://miller4ky.com/"
+}
 ]

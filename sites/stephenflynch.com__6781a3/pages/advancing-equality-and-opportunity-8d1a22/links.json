@@ -1,28 +1,158 @@
 [
-"http://jlbtestsite.com/",
-"https://facebook.com/Lynch.Stephen",
-"https://secure.actblue.com/donate/stephen-lynch-2",
-"https://stephenflynch.com/",
-"https://stephenflynch.com/11-2",
-"https://stephenflynch.com/11-2/join-the-team",
-"https://stephenflynch.com/advancing-equality-and-opportunity/page/2",
-"https://stephenflynch.com/advancing-equality-and-opportunity/www.jlbtestsite.com/privacy-policy",
-"https://stephenflynch.com/asian-americans-share-experiences-of-hate-local-officials-vow-solidarity-at-quincy-rally",
-"https://stephenflynch.com/black-lives-matter-rally-vigil-at-memorial-field-in-abington",
-"https://stephenflynch.com/category/8th-congressional-district",
-"https://stephenflynch.com/category/advancing-equality",
-"https://stephenflynch.com/category/covid-19",
-"https://stephenflynch.com/category/financial-security",
-"https://stephenflynch.com/category/national-security",
-"https://stephenflynch.com/category/news-updates",
-"https://stephenflynch.com/category/protecting-the-post-office",
-"https://stephenflynch.com/chairman-lynch-and-subcommittee-press-for-inclusion-of-women-in-national-security-policymaking",
-"https://stephenflynch.com/chairman-lynch-and-subcommittee-press-for-inclusion-of-women-in-national-security-policymaking-2",
-"https://stephenflynch.com/editorial-congress-must-protect-mail-in-voting-even-if-it-means-going-to-court",
-"https://stephenflynch.com/human-rights-campaign-endorses-massachusetts-champions-of-equality",
-"https://stephenflynch.com/massachusetts-politicians-react-to-guilty-verdict-in-derek-chauvin-trial",
-"https://stephenflynch.com/rep-lynch-announces-child-tax-credits-to-help-over-70-of-children-in-ma-08-and-will-be-distributed-to-families-next-month",
-"https://stephenflynch.com/tribute-honors-civil-rights-leader-john-lewis-at-brockton-city-hall",
-"https://stephenflynch.com/trumps-envoy-grilled-by-lawmakers-over-womens-rights-in-afghanistan",
-"https://twitter.com/replynch"
+{
+"text": "8th Congressional District",
+"href": "https://www.stephenflynch.com/category/8th-congressional-district/"
+},
+{
+"text": "Advancing Equality",
+"href": "https://www.stephenflynch.com/category/advancing-equality/"
+},
+{
+"text": "Asian Americans share experiences of hate, local officials vow solidarity at Quincy rally",
+"href": "https://www.stephenflynch.com/asian-americans-share-experiences-of-hate-local-officials-vow-solidarity-at-quincy-rally/"
+},
+{
+"text": "Black Lives Matter Rally & Vigil at Memorial Field in Abington",
+"href": "https://www.stephenflynch.com/black-lives-matter-rally-vigil-at-memorial-field-in-abington/"
+},
+{
+"text": "COVID-19",
+"href": "https://www.stephenflynch.com/category/covid-19/"
+},
+{
+"text": "Chairman Lynch And Subcommittee Press For Inclusion Of Women In National Security Policymaking",
+"href": "https://www.stephenflynch.com/chairman-lynch-and-subcommittee-press-for-inclusion-of-women-in-national-security-policymaking-2/"
+},
+{
+"text": "Chairman Lynch And Subcommittee Press For Inclusion Of Women In National Security Policymaking",
+"href": "https://www.stephenflynch.com/chairman-lynch-and-subcommittee-press-for-inclusion-of-women-in-national-security-policymaking/"
+},
+{
+"text": "Contact Us",
+"href": "mailto: info@stephenflynch.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/stephen-lynch-2"
+},
+{
+"text": "Editorial: Congress must protect mail-in voting, even if it means going to court",
+"href": "https://www.stephenflynch.com/editorial-congress-must-protect-mail-in-voting-even-if-it-means-going-to-court/"
+},
+{
+"text": "Financial Security",
+"href": "https://www.stephenflynch.com/category/financial-security/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/replynch"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/Lynch.Stephen"
+},
+{
+"text": "Human Rights Campaign Endorses Massachusetts Champions of Equality",
+"href": "https://www.stephenflynch.com/human-rights-campaign-endorses-massachusetts-champions-of-equality/"
+},
+{
+"text": "Join the Team",
+"href": "https://www.stephenflynch.com/11-2/join-the-team"
+},
+{
+"text": "Massachusetts politicians react to guilty verdict in Derek Chauvin trial",
+"href": "https://www.stephenflynch.com/massachusetts-politicians-react-to-guilty-verdict-in-derek-chauvin-trial/"
+},
+{
+"text": "Meet Stephen",
+"href": "https://www.stephenflynch.com/11-2/#meet-stephen"
+},
+{
+"text": "National Security",
+"href": "https://www.stephenflynch.com/category/national-security/"
+},
+{
+"text": "News & Updates",
+"href": "https://www.stephenflynch.com/11-2/#news"
+},
+{
+"text": "News & Updates",
+"href": "https://www.stephenflynch.com/category/news-updates/"
+},
+{
+"text": "Our Priorities",
+"href": "https://www.stephenflynch.com/11-2/#our-priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.stephenflynch.com/advancing-equality-and-opportunity/www.jlbtestsite.com/privacy-policy"
+},
+{
+"text": "Protecting the Post Office",
+"href": "https://www.stephenflynch.com/category/protecting-the-post-office/"
+},
+{
+"text": "Read about additional priorities",
+"href": "http://www.jlbtestsite.com/#our-priorities"
+},
+{
+"text": "Rep. Lynch Announces Child Tax Credits to Help Over 70% of Children in MA-08 and Will Be Distributed to Families Next Month",
+"href": "https://www.stephenflynch.com/rep-lynch-announces-child-tax-credits-to-help-over-70-of-children-in-ma-08-and-will-be-distributed-to-families-next-month/"
+},
+{
+"text": "Tribute honors civil rights leader John Lewis at Brockton City Hall",
+"href": "https://www.stephenflynch.com/tribute-honors-civil-rights-leader-john-lewis-at-brockton-city-hall/"
+},
+{
+"text": "Trump’s envoy grilled by lawmakers over women’s rights in Afghanistan",
+"href": "https://www.stephenflynch.com/trumps-envoy-grilled-by-lawmakers-over-womens-rights-in-afghanistan/"
+},
+{
+"text": "[image: Stephen F Lynch]",
+"href": "https://www.stephenflynch.com/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/asian-americans-share-experiences-of-hate-local-officials-vow-solidarity-at-quincy-rally/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/black-lives-matter-rally-vigil-at-memorial-field-in-abington/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/chairman-lynch-and-subcommittee-press-for-inclusion-of-women-in-national-security-policymaking-2/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/chairman-lynch-and-subcommittee-press-for-inclusion-of-women-in-national-security-policymaking/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/editorial-congress-must-protect-mail-in-voting-even-if-it-means-going-to-court/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/human-rights-campaign-endorses-massachusetts-champions-of-equality/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/massachusetts-politicians-react-to-guilty-verdict-in-derek-chauvin-trial/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/rep-lynch-announces-child-tax-credits-to-help-over-70-of-children-in-ma-08-and-will-be-distributed-to-families-next-month/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/tribute-honors-civil-rights-leader-john-lewis-at-brockton-city-hall/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/trumps-envoy-grilled-by-lawmakers-over-womens-rights-in-afghanistan/"
+},
+{
+"text": "« Older Entries",
+"href": "https://www.stephenflynch.com/advancing-equality-and-opportunity/page/2/?et_blog="
+}
 ]

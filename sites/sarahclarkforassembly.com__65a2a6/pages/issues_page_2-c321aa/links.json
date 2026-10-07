@@ -1,17 +1,78 @@
 [
-"https://facebook.com/sarahclarkny",
-"https://instagram.com/votesarahclark",
-"https://sarahclarkforassembly.com/",
-"https://sarahclarkforassembly.com/about-sarah",
-"https://sarahclarkforassembly.com/category/inthenews",
-"https://sarahclarkforassembly.com/contact",
-"https://sarahclarkforassembly.com/issues",
-"https://sarahclarkforassembly.com/issues/childcare",
-"https://sarahclarkforassembly.com/issues/k12-education",
-"https://sarahclarkforassembly.com/issues/page/2",
-"https://sarahclarkforassembly.com/media",
-"https://sarahclarkforassembly.com/subscribe",
-"https://sarahclarkforassembly.com/volunteer",
-"https://sarahclarkforassembly.com/vote",
-"https://secure.actblue.com/donate/votesarah"
+{
+"text": "1",
+"href": "https://sarahclarkforassembly.com/issues/"
+},
+{
+"text": "2",
+"href": "https://sarahclarkforassembly.com/issues/page/2/"
+},
+{
+"text": "About Sarah",
+"href": "https://sarahclarkforassembly.com/about-sarah/"
+},
+{
+"text": "Childcare",
+"href": "https://sarahclarkforassembly.com/issues/childcare/"
+},
+{
+"text": "Contact",
+"href": "https://sarahclarkforassembly.com/contact/"
+},
+{
+"text": "Continue reading",
+"href": "https://sarahclarkforassembly.com/issues/childcare/"
+},
+{
+"text": "Continue reading",
+"href": "https://sarahclarkforassembly.com/issues/k12-education/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesarah"
+},
+{
+"text": "In The News",
+"href": "https://sarahclarkforassembly.com/category/inthenews/"
+},
+{
+"text": "Issues",
+"href": "https://sarahclarkforassembly.com/issues/"
+},
+{
+"text": "K-12 Education",
+"href": "https://sarahclarkforassembly.com/issues/k12-education/"
+},
+{
+"text": "Media",
+"href": "https://sarahclarkforassembly.com/media/"
+},
+{
+"text": "Subscribe",
+"href": "https://sarahclarkforassembly.com/subscribe/"
+},
+{
+"text": "Volunteer",
+"href": "https://sarahclarkforassembly.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://sarahclarkforassembly.com/vote/"
+},
+{
+"text": "[image: Sarah Clark for New York State Assembly]",
+"href": "https://sarahclarkforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://sarahclarkforassembly.com/issues/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sarahclarkny/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votesarahclark/"
+}
 ]

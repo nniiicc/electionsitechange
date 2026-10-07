@@ -1,97 +1,454 @@
 [
-"http://designforcommunication.net/",
-"http://inbusinesslinks.net/",
-"http://rilin.state.ri.us/CapTV/Pages/default.aspx",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2025%2F06%2Fgeorganas-at-whia-assembly-with-raptakis.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2025%2F06%2Fri-assembly-approves-bill-creating-ri-state-greek-heritage-license-plate-sponsored-by-ahepa.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2025%2F07%2Fin-athens-world-hellenic-inter-parliamentary-association-whia-holds-its-15th-general-assembly.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2025%2F08%2Fembca-aug-31-hellenic-american-state-legislators-forum.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2025%2F09%2Fraptakis-asked-congress-to-oppose-the-selling-f-35-jets-to-turkey.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2025%2F11%2Fgreek-orthodox-church-pawtucket-rhode-island-honors-parishioner-veterans-for-their-service.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2025%2F11%2Fthe-first-greek-state-license-plate-issued-in-rhode-island.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2026%2F04%2Fgreek-independence-day-ri-state-house-celebration.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2026%2F07%2Fproductive-pseka-cyprus-conference-in-washington-dc.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2026%2F09%2Fnew-hampshire-greece-trade-council-ceremonial-signing-at-st-georges-47th-glendi.html",
-"https://facebook.com/Leo.raptakis",
-"https://facebook.com/leo.raptakis",
-"https://google.com/url?rct=j&sa=t&url=https%3A%2F%2Fhellenicnews.com%2F2025%2F09%2F25%2Fri-state-senator-lou-raptakis-calls-on-bipartisan-hellenic-american-state-legislators-to-ask-congress-to-oppose-the-reinstatement-to-sell-f-35s-jets-to-turkey%2F&ct=ga&cd=CAEYACoUMTU0MDM3NjIxMzA3NDM1MTYzOTkyGmI4ZDA0NzgwM2YzMTE3MWQ6Y29tOmVuOlVT&usg=AOvVaw07_NczXeOKJsVi-QpQ7wmq",
-"https://greeknewsusa.com/greek-independence-day-celebrated-at-the-rhode-island-state-house",
-"https://greeknewsusa.com/hellenic-american-state-legislators-forum-by-embca-aug-31",
-"https://greeknewsusa.com/r-i-assembly-approves-bill-to-create-rhode-island-greek-heritage-plate-sponsored-by-ahepa",
-"https://hellenicnews.com/2025/11/24/lou-raptakis-unveil-hellenic-heritage",
-"https://hellenicnews.com/2026/07/13/productive-pseka-cyprus-conference-in-washington-dc",
-"https://leoraptakis.com/",
-"https://leoraptakis.com/2/feed",
-"https://leoraptakis.com/about.html",
-"https://leoraptakis.com/accessibility.html",
-"https://leoraptakis.com/agenda.html",
-"https://leoraptakis.com/archives.html",
-"https://leoraptakis.com/canceled.html",
-"https://leoraptakis.com/cdn-cgi/l/email-protection",
-"https://leoraptakis.com/contact.html",
-"https://leoraptakis.com/donate.html",
-"https://leoraptakis.com/hellenic.html",
-"https://leoraptakis.com/hellenic/archives/01-2020",
-"https://leoraptakis.com/hellenic/archives/01-2021",
-"https://leoraptakis.com/hellenic/archives/01-2022",
-"https://leoraptakis.com/hellenic/archives/01-2024",
-"https://leoraptakis.com/hellenic/archives/02-2017",
-"https://leoraptakis.com/hellenic/archives/02-2019",
-"https://leoraptakis.com/hellenic/archives/02-2023",
-"https://leoraptakis.com/hellenic/archives/03-2018",
-"https://leoraptakis.com/hellenic/archives/03-2019",
-"https://leoraptakis.com/hellenic/archives/03-2020",
-"https://leoraptakis.com/hellenic/archives/03-2022",
-"https://leoraptakis.com/hellenic/archives/03-2023",
-"https://leoraptakis.com/hellenic/archives/03-2025",
-"https://leoraptakis.com/hellenic/archives/04-2018",
-"https://leoraptakis.com/hellenic/archives/04-2021",
-"https://leoraptakis.com/hellenic/archives/04-2026",
-"https://leoraptakis.com/hellenic/archives/05-2023",
-"https://leoraptakis.com/hellenic/archives/05-2024",
-"https://leoraptakis.com/hellenic/archives/05-2025",
-"https://leoraptakis.com/hellenic/archives/06-2025",
-"https://leoraptakis.com/hellenic/archives/07-2019",
-"https://leoraptakis.com/hellenic/archives/07-2020",
-"https://leoraptakis.com/hellenic/archives/07-2025",
-"https://leoraptakis.com/hellenic/archives/07-2026",
-"https://leoraptakis.com/hellenic/archives/08-2025",
-"https://leoraptakis.com/hellenic/archives/09-2018",
-"https://leoraptakis.com/hellenic/archives/09-2020",
-"https://leoraptakis.com/hellenic/archives/09-2022",
-"https://leoraptakis.com/hellenic/archives/09-2025",
-"https://leoraptakis.com/hellenic/archives/09-2026",
-"https://leoraptakis.com/hellenic/archives/10-2020",
-"https://leoraptakis.com/hellenic/archives/10-2021",
-"https://leoraptakis.com/hellenic/archives/11-2020",
-"https://leoraptakis.com/hellenic/archives/11-2023",
-"https://leoraptakis.com/hellenic/archives/11-2024",
-"https://leoraptakis.com/hellenic/archives/11-2025",
-"https://leoraptakis.com/hellenic/archives/12-2022",
-"https://leoraptakis.com/hellenic/category/all",
-"https://leoraptakis.com/hellenic/category/all/2",
-"https://leoraptakis.com/hellenic/category/community",
-"https://leoraptakis.com/hellenic/category/elections",
-"https://leoraptakis.com/hellenic/category/greek",
-"https://leoraptakis.com/hellenic/category/hellenic",
-"https://leoraptakis.com/hellenic/embca-aug-31-hellenic-american-state-legislators-forum",
-"https://leoraptakis.com/hellenic/georganas-at-whia-assembly-with-raptakis",
-"https://leoraptakis.com/hellenic/greek-independence-day-ri-state-house-celebration",
-"https://leoraptakis.com/hellenic/greek-orthodox-church-pawtucket-rhode-island-honors-parishioner-veterans-for-their-service",
-"https://leoraptakis.com/hellenic/in-athens-world-hellenic-inter-parliamentary-association-whia-holds-its-15th-general-assembly",
-"https://leoraptakis.com/hellenic/new-hampshire-greece-trade-council-ceremonial-signing-at-st-georges-47th-glendi",
-"https://leoraptakis.com/hellenic/productive-pseka-cyprus-conference-in-washington-dc",
-"https://leoraptakis.com/hellenic/raptakis-asked-congress-to-oppose-the-selling-f-35-jets-to-turkey",
-"https://leoraptakis.com/hellenic/ri-assembly-approves-bill-creating-ri-state-greek-heritage-license-plate-sponsored-by-ahepa",
-"https://leoraptakis.com/hellenic/the-first-greek-state-license-plate-issued-in-rhode-island",
-"https://leoraptakis.com/news.html",
-"https://leoraptakis.com/social.html",
-"https://leoraptakis.com/uploads/1/1/8/5/118584559/louraptakis-privacypolicy2018.pdf",
-"https://leoraptakis.com/uploads/1/1/8/5/118584559/ri_ahepa-license__nov_2025.pdf",
-"https://linkedin.com/sharing/share-offsite?mini=true&url=http%3A%2F%2Fwww.rilin.state.ri.us%2Fsenators%2FRaptakis%2Fdefault.aspx&title=Senator+Leonidas+P.+Raptakis",
-"https://neoskosmos.com/en/2025/06/29/news/community/steve-georganas-joins-diaspora-leaders-in-athens-for-whia-assembly-planning",
-"https://panhellenicpost.com/2025/07/31/world-hellenic-inter-parliamentary-association-w-h-i-a-holds-15th-general-assembly-in-athens",
-"https://ri.gov/",
-"https://thenationalherald.com/new-hampshire-greece-trade-council-ceremonial-signing-at-st-georges-47th-glendi",
-"https://translate.google.com/?sl=auto&tl=es&text=www.leoraptakis.com&op=translate"
+{
+"text": "0 Comments",
+"href": "https://www.leoraptakis.com/hellenic/embca-aug-31-hellenic-american-state-legislators-forum#comments"
+},
+{
+"text": "0 Comments",
+"href": "https://www.leoraptakis.com/hellenic/georganas-at-whia-assembly-with-raptakis#comments"
+},
+{
+"text": "0 Comments",
+"href": "https://www.leoraptakis.com/hellenic/greek-independence-day-ri-state-house-celebration#comments"
+},
+{
+"text": "0 Comments",
+"href": "https://www.leoraptakis.com/hellenic/greek-orthodox-church-pawtucket-rhode-island-honors-parishioner-veterans-for-their-service#comments"
+},
+{
+"text": "0 Comments",
+"href": "https://www.leoraptakis.com/hellenic/in-athens-world-hellenic-inter-parliamentary-association-whia-holds-its-15th-general-assembly#comments"
+},
+{
+"text": "0 Comments",
+"href": "https://www.leoraptakis.com/hellenic/new-hampshire-greece-trade-council-ceremonial-signing-at-st-georges-47th-glendi#comments"
+},
+{
+"text": "0 Comments",
+"href": "https://www.leoraptakis.com/hellenic/productive-pseka-cyprus-conference-in-washington-dc#comments"
+},
+{
+"text": "0 Comments",
+"href": "https://www.leoraptakis.com/hellenic/raptakis-asked-congress-to-oppose-the-selling-f-35-jets-to-turkey#comments"
+},
+{
+"text": "0 Comments",
+"href": "https://www.leoraptakis.com/hellenic/ri-assembly-approves-bill-creating-ri-state-greek-heritage-license-plate-sponsored-by-ahepa#comments"
+},
+{
+"text": "0 Comments",
+"href": "https://www.leoraptakis.com/hellenic/the-first-greek-state-license-plate-issued-in-rhode-island#comments"
+},
+{
+"text": "<<Previous",
+"href": "https://www.leoraptakis.com/hellenic/category/all/2"
+},
+{
+"text": "ARCHIVES",
+"href": "https://www.leoraptakis.com/archives.html"
+},
+{
+"text": "About",
+"href": "https://www.leoraptakis.com/about.html"
+},
+{
+"text": "Accessibility",
+"href": "https://www.leoraptakis.com/accessibility.html"
+},
+{
+"text": "Agenda",
+"href": "https://www.leoraptakis.com/agenda.html"
+},
+{
+"text": "All",
+"href": "https://www.leoraptakis.com/hellenic/category/all"
+},
+{
+"text": "April 2018",
+"href": "https://www.leoraptakis.com/hellenic/archives/04-2018"
+},
+{
+"text": "April 2021",
+"href": "https://www.leoraptakis.com/hellenic/archives/04-2021"
+},
+{
+"text": "April 2026",
+"href": "https://www.leoraptakis.com/hellenic/archives/04-2026"
+},
+{
+"text": "August 2025",
+"href": "https://www.leoraptakis.com/hellenic/archives/08-2025"
+},
+{
+"text": "Community",
+"href": "https://www.leoraptakis.com/hellenic/category/community"
+},
+{
+"text": "Contact",
+"href": "https://www.leoraptakis.com/contact.html"
+},
+{
+"text": "DONATE",
+"href": "https://www.leoraptakis.com/canceled.html"
+},
+{
+"text": "December 2022",
+"href": "https://www.leoraptakis.com/hellenic/archives/12-2022"
+},
+{
+"text": "Design For Communication",
+"href": "http://www.designforcommunication.net"
+},
+{
+"text": "Donate",
+"href": "https://www.leoraptakis.com/donate.html"
+},
+{
+"text": "EMBCA, Aug. 31: Hellenic American State Legislators Forum",
+"href": "https://www.leoraptakis.com/hellenic/embca-aug-31-hellenic-american-state-legislators-forum"
+},
+{
+"text": "EVENTS",
+"href": "https://www.leoraptakis.com/news.html"
+},
+{
+"text": "Elections",
+"href": "https://www.leoraptakis.com/hellenic/category/elections"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/leo.raptakis"
+},
+{
+"text": "February 2017",
+"href": "https://www.leoraptakis.com/hellenic/archives/02-2017"
+},
+{
+"text": "February 2019",
+"href": "https://www.leoraptakis.com/hellenic/archives/02-2019"
+},
+{
+"text": "February 2023",
+"href": "https://www.leoraptakis.com/hellenic/archives/02-2023"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.leoraptakis.com/social.html"
+},
+{
+"text": "GREEK ORTHODOX CHURCH PAWTUCKET RHODE ISLAND HONORS PARISHIONER VETERANS FOR THEIR SERVICE",
+"href": "https://www.leoraptakis.com/hellenic/greek-orthodox-church-pawtucket-rhode-island-honors-parishioner-veterans-for-their-service"
+},
+{
+"text": "Georganas at WHIA Assembly with Raptakis",
+"href": "https://www.leoraptakis.com/hellenic/georganas-at-whia-assembly-with-raptakis"
+},
+{
+"text": "Greek",
+"href": "https://www.leoraptakis.com/hellenic/category/greek"
+},
+{
+"text": "Greek Community",
+"href": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fhellenicnews.com%2F2025%2F09%2F25%2Fri-state-senator-lou-raptakis-calls-on-bipartisan-hellenic-american-state-legislators-to-ask-congress-to-oppose-the-reinstatement-to-sell-f-35s-jets-to-turkey%2F&ct=ga&cd=CAEYACoUMTU0MDM3NjIxMzA3NDM1MTYzOTkyGmI4ZDA0NzgwM2YzMTE3MWQ6Y29tOmVuOlVT&usg=AOvVaw07_NczXeOKJsVi-QpQ7wmq"
+},
+{
+"text": "Greek Independence Day - RI State House Celebration",
+"href": "https://www.leoraptakis.com/hellenic/greek-independence-day-ri-state-house-celebration"
+},
+{
+"text": "Greek News",
+"href": "https://www.greeknewsusa.com/greek-independence-day-celebrated-at-the-rhode-island-state-house/"
+},
+{
+"text": "Greek News",
+"href": "https://www.greeknewsusa.com/hellenic-american-state-legislators-forum-by-embca-aug-31/"
+},
+{
+"text": "HERE",
+"href": "https://hellenicnews.com/2026/07/13/productive-pseka-cyprus-conference-in-washington-dc/"
+},
+{
+"text": "Hellenic",
+"href": "https://www.leoraptakis.com/hellenic.html"
+},
+{
+"text": "Hellenic",
+"href": "https://www.leoraptakis.com/hellenic/category/hellenic"
+},
+{
+"text": "Hellenic News",
+"href": "https://hellenicnews.com/2025/11/24/lou-raptakis-unveil-hellenic-heritage/"
+},
+{
+"text": "Home",
+"href": "https://www.leoraptakis.com/"
+},
+{
+"text": "IBLN",
+"href": "http://www.inbusinesslinks.net"
+},
+{
+"text": "In Athens: World Hellenic Inter-Parliamentary Association (WHIA) Holds its 15th General Assembly",
+"href": "https://www.leoraptakis.com/hellenic/in-athens-world-hellenic-inter-parliamentary-association-whia-holds-its-15th-general-assembly"
+},
+{
+"text": "January 2020",
+"href": "https://www.leoraptakis.com/hellenic/archives/01-2020"
+},
+{
+"text": "January 2021",
+"href": "https://www.leoraptakis.com/hellenic/archives/01-2021"
+},
+{
+"text": "January 2022",
+"href": "https://www.leoraptakis.com/hellenic/archives/01-2022"
+},
+{
+"text": "January 2024",
+"href": "https://www.leoraptakis.com/hellenic/archives/01-2024"
+},
+{
+"text": "July 2019",
+"href": "https://www.leoraptakis.com/hellenic/archives/07-2019"
+},
+{
+"text": "July 2020",
+"href": "https://www.leoraptakis.com/hellenic/archives/07-2020"
+},
+{
+"text": "July 2025",
+"href": "https://www.leoraptakis.com/hellenic/archives/07-2025"
+},
+{
+"text": "July 2026",
+"href": "https://www.leoraptakis.com/hellenic/archives/07-2026"
+},
+{
+"text": "June 2025",
+"href": "https://www.leoraptakis.com/hellenic/archives/06-2025"
+},
+{
+"text": "March 2018",
+"href": "https://www.leoraptakis.com/hellenic/archives/03-2018"
+},
+{
+"text": "March 2019",
+"href": "https://www.leoraptakis.com/hellenic/archives/03-2019"
+},
+{
+"text": "March 2020",
+"href": "https://www.leoraptakis.com/hellenic/archives/03-2020"
+},
+{
+"text": "March 2022",
+"href": "https://www.leoraptakis.com/hellenic/archives/03-2022"
+},
+{
+"text": "March 2023",
+"href": "https://www.leoraptakis.com/hellenic/archives/03-2023"
+},
+{
+"text": "March 2025",
+"href": "https://www.leoraptakis.com/hellenic/archives/03-2025"
+},
+{
+"text": "May 2023",
+"href": "https://www.leoraptakis.com/hellenic/archives/05-2023"
+},
+{
+"text": "May 2024",
+"href": "https://www.leoraptakis.com/hellenic/archives/05-2024"
+},
+{
+"text": "May 2025",
+"href": "https://www.leoraptakis.com/hellenic/archives/05-2025"
+},
+{
+"text": "Neos Kosmos",
+"href": "https://neoskosmos.com/en/2025/06/29/news/community/steve-georganas-joins-diaspora-leaders-in-athens-for-whia-assembly-planning/"
+},
+{
+"text": "New Hampshire-Greece Trade Council Ceremonial Signing at St. George’s 47th Glendi",
+"href": "https://www.leoraptakis.com/hellenic/new-hampshire-greece-trade-council-ceremonial-signing-at-st-georges-47th-glendi"
+},
+{
+"text": "Newsroom",
+"href": "https://www.leoraptakis.com/news.html"
+},
+{
+"text": "November 2020",
+"href": "https://www.leoraptakis.com/hellenic/archives/11-2020"
+},
+{
+"text": "November 2023",
+"href": "https://www.leoraptakis.com/hellenic/archives/11-2023"
+},
+{
+"text": "November 2024",
+"href": "https://www.leoraptakis.com/hellenic/archives/11-2024"
+},
+{
+"text": "November 2025",
+"href": "https://www.leoraptakis.com/hellenic/archives/11-2025"
+},
+{
+"text": "October 2020",
+"href": "https://www.leoraptakis.com/hellenic/archives/10-2020"
+},
+{
+"text": "October 2021",
+"href": "https://www.leoraptakis.com/hellenic/archives/10-2021"
+},
+{
+"text": "PRESS RELEASE",
+"href": "https://www.leoraptakis.com/uploads/1/1/8/5/118584559/ri_ahepa-license__nov_2025.pdf"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.leoraptakis.com/uploads/1/1/8/5/118584559/louraptakis-privacypolicy2018.pdf"
+},
+{
+"text": "Productive Pseka Cyprus Conference In Washington, DC",
+"href": "https://www.leoraptakis.com/hellenic/productive-pseka-cyprus-conference-in-washington-dc"
+},
+{
+"text": "RI Assembly approves bill: creating RI STATE Greek Heritage License plate sponsored by AHEPA",
+"href": "https://www.leoraptakis.com/hellenic/ri-assembly-approves-bill-creating-ri-state-greek-heritage-license-plate-sponsored-by-ahepa"
+},
+{
+"text": "RI Capital TV",
+"href": "http://www.rilin.state.ri.us/CapTV/Pages/default.aspx/"
+},
+{
+"text": "RI Gov",
+"href": "https://www.ri.gov"
+},
+{
+"text": "Raptakis: AskED Congress to Oppose the Selling F-35 Jets to Turkey",
+"href": "https://www.leoraptakis.com/hellenic/raptakis-asked-congress-to-oppose-the-selling-f-35-jets-to-turkey"
+},
+{
+"text": "September 2018",
+"href": "https://www.leoraptakis.com/hellenic/archives/09-2018"
+},
+{
+"text": "September 2020",
+"href": "https://www.leoraptakis.com/hellenic/archives/09-2020"
+},
+{
+"text": "September 2022",
+"href": "https://www.leoraptakis.com/hellenic/archives/09-2022"
+},
+{
+"text": "September 2025",
+"href": "https://www.leoraptakis.com/hellenic/archives/09-2025"
+},
+{
+"text": "September 2026",
+"href": "https://www.leoraptakis.com/hellenic/archives/09-2026"
+},
+{
+"text": "Social",
+"href": "https://www.leoraptakis.com/social.html"
+},
+{
+"text": "The First Greek State License Plate Issued in Rhode Island",
+"href": "https://www.leoraptakis.com/hellenic/the-first-greek-state-license-plate-issued-in-rhode-island"
+},
+{
+"text": "The Panhellenic Post",
+"href": "https://www.panhellenicpost.com/2025/07/31/world-hellenic-inter-parliamentary-association-w-h-i-a-holds-15th-general-assembly-in-athens/"
+},
+{
+"text": "[image: Father & Raptakis]",
+"href": "https://www.leoraptakis.com/news.html"
+},
+{
+"text": "[image: HNOA]",
+"href": "https://hellenicnews.com/2026/07/13/productive-pseka-cyprus-conference-in-washington-dc/"
+},
+{
+"text": "[image: RI STATE SENATOR RAPTAKIS - DISTRICT #33]",
+"href": "https://www.leoraptakis.com/"
+},
+{
+"text": "[image: RI State Senator Raptakis]",
+"href": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fhellenicnews.com%2F2025%2F09%2F25%2Fri-state-senator-lou-raptakis-calls-on-bipartisan-hellenic-american-state-legislators-to-ask-congress-to-oppose-the-reinstatement-to-sell-f-35s-jets-to-turkey%2F&ct=ga&cd=CAEYACoUMTU0MDM3NjIxMzA3NDM1MTYzOTkyGmI4ZDA0NzgwM2YzMTE3MWQ6Y29tOmVuOlVT&usg=AOvVaw07_NczXeOKJsVi-QpQ7wmq"
+},
+{
+"text": "[image: Sen Reptakis - RI License Plate Sample]",
+"href": "https://www.greeknewsusa.com/r-i-assembly-approves-bill-to-create-rhode-island-greek-heritage-plate-sponsored-by-ahepa/"
+},
+{
+"text": "[image: translate]",
+"href": "https://translate.google.com/?sl=auto&tl=es&text=www.leoraptakis.com&op=translate"
+},
+{
+"text": "[image] RSS Feed",
+"href": "https://www.leoraptakis.com/2/feed"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2025%2F06%2Fgeorganas-at-whia-assembly-with-raptakis.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2025%2F06%2Fri-assembly-approves-bill-creating-ri-state-greek-heritage-license-plate-sponsored-by-ahepa.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2025%2F07%2Fin-athens-world-hellenic-inter-parliamentary-association-whia-holds-its-15th-general-assembly.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2025%2F08%2Fembca-aug-31-hellenic-american-state-legislators-forum.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2025%2F09%2Fraptakis-asked-congress-to-oppose-the-selling-f-35-jets-to-turkey.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2025%2F11%2Fgreek-orthodox-church-pawtucket-rhode-island-honors-parishioner-veterans-for-their-service.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2025%2F11%2Fthe-first-greek-state-license-plate-issued-in-rhode-island.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2026%2F04%2Fgreek-independence-day-ri-state-house-celebration.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2026%2F07%2Fproductive-pseka-cyprus-conference-in-washington-dc.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.leoraptakis.com%2F2%2Fpost%2F2026%2F09%2Fnew-hampshire-greece-trade-council-ceremonial-signing-at-st-georges-47th-glendi.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Leo.raptakis/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/sharing/share-offsite?mini=true&url=http%3A%2F%2Fwww.rilin.state.ri.us%2Fsenators%2FRaptakis%2Fdefault.aspx&title=Senator+Leonidas+P.+Raptakis&summary="
+},
+{
+"text": "[no text]",
+"href": "mailto:senraptakis@hotmail.com"
+},
+{
+"text": "click/tap here",
+"href": "https://www.greeknewsusa.com/r-i-assembly-approves-bill-to-create-rhode-island-greek-heritage-plate-sponsored-by-ahepa/"
+},
+{
+"text": "eMail Lou",
+"href": "mailto:senraptakis@hotmail.com"
+},
+{
+"text": "link",
+"href": "https://www.thenationalherald.com/new-hampshire-greece-trade-council-ceremonial-signing-at-st-georges-47th-glendi/"
+}
 ]

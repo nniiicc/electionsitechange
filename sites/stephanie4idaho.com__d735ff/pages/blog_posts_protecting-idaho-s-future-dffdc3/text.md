@@ -1,6 +1,4 @@
-Protecting Idaho’s Future
-| Protecting Idaho’s Future |
-| In Idaho Falls, we see firsthand the results of Idaho’s commitment to school choice.
+Skip to main content Stephanie Mickelsen Menu Home About Endorsements Volunteer Blog Contact Donate Search the site Expand Search Protecting Idaho’s Future Protecting Idaho’s Future In Idaho Falls, we see firsthand the results of Idaho’s commitment to school choice.
 In addition to our incredible public school districts, students and parents in Bonneville County can choose from three magnet schools, five private schools, and seven charter schools.
 Homeschooling also remains an excellent option for many families.
 But no matter the decision, the fact stays the same.
@@ -12,7 +10,7 @@ It represents a significant threat to Idaho’s schools and undermines our abili
 Previously, the ideas ranged from school vouchers to education savings accounts.
 Thankfully, most legislators recognized the threat and resisted these shortsighted proposals.
 Today, we’re facing a new idea that attempts to undercut what Idaho’s Constitution asks us to do.
-Supporters of publicly funded private education now want a refundable tax credit with a budget of $50 million/year.
+Supporters of publicly funded private education now want a refundable tax credit with a budget of $# million/year.
 The first $40 million would go to families on a first-come, first-served basis at a rate of $5,000/student with no cap on the total a family receives.
 The remaining $10 million would go to families who qualify for the earned income tax credit as grants of up to $5,000 for one year.
 In the following years, these families could then go into the tax credit program.
@@ -33,4 +31,4 @@ It’s not difficult to see a similar push to increase the amount appropriated f
 This proposal does not make sense for Idaho’s students or taxpayers.
 We must continue supporting school choice while meeting our constitutional obligation.
 By adding a tax credit into the system, we immediately take money off the top, shifting funds away from services provided to all Idahoans, including our public schools.
-We can’t afford to make the costly mistake of losing focus and missing opportunities to make our public schools as great as possible. -Representative Stephanie Mickelsen and Senator Kevin Cook, District 32 (Bonneville County) |
+We can’t afford to make the costly mistake of losing focus and missing opportunities to make our public schools as great as possible. -Representative Stephanie Mickelsen and Senator Kevin Cook, District 32 (Bonneville County) January 31, 2024 Home Blog Protecting Idaho’s Future Paid for by Stephanie Mickelsen For Idaho © # Copyright Stephanie Mickelsen for Idaho | Mario Hernandez - Treasurer Back to top

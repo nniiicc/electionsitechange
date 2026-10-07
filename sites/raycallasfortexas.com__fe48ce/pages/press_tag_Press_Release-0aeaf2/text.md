@@ -1,11 +1,9 @@
-Desert Storm Veteran and Conservative Local Physician Ray Callas, Announces Campaign for House District 21
-BEAUMONT, TX – Local physician Ray Callas, M.D., is entering the Republican primary race for House District 21.
+0 Skip to Content Home Meet Ray Press Endorsements Get Involved Donate Now Open Menu Close Menu Home Meet Ray Press Endorsements Get Involved Donate Now Open Menu Close Menu Home Meet Ray Press Endorsements Get Involved Donate Now Jordan Overturf 8/22/25 Jordan Overturf 8/22/25 Desert Storm Veteran and Conservative Local Physician Ray Callas, Announces Campaign for House District 21 BEAUMONT, TX – Local physician Ray Callas, M.D., is entering the Republican primary race for House District 21.
 The US Navy veteran, who received two medals for his service during Operation Desert Storm, announced his campaign for the open seat following reports that incumbent former Speaker Dade Phelan will not seek re-election.
 “The call to serve continues to ring, and I have never been one to leave that call unanswered.
 From Desert Storm to the operating room to the Capitol halls, I have given my all to protect life and preserve the liberty forged by our founding fathers,” Dr.
 Callas said.
-“As your state representative, I will continue to fight for those values and preserve the Texas way of life.”
-Reared on the Texas Coast, Dr.
+“As your state representative, I will continue to fight for those values and preserve the Texas way of life.” Reared on the Texas Coast, Dr.
 Callas is a proud Texas Aggie and a graduate from the University of Texas Medical Branch, Galveston, where he honed his profession as an anesthesiologist.
 Before getting his medical degree, Dr.
 Callas served the US Navy as a Machinist Mate and in the Submarine Service as a veteran of the Persian Gulf War.
@@ -37,5 +35,5 @@ Callas announced his campaign following reports that incumbent former Speaker Da
 Dr.
 Callas extended his gratitude to the outgoing representative for his years of service and for delivering millions in state investments for the region.
 To learn more about Dr.
-Callas and his campaign for Texas House District 21, go to RayCallasforTexas.com.
-###
+Callas and his campaign for Texas House District 21, go to RayCallasforTexas.com .
+### Read More campaign@raycallasfortexas.com Privacy Policy Paid Pol Ad by Ray Callas Campaign

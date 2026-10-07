@@ -1,13 +1,54 @@
 [
-"https://facebook.com/steve luking 4 nc",
-"https://facebook.com/steveluking4nc",
-"https://instagram.com/steveluking4nc",
-"https://steveluking4nc.org/",
-"https://steveluking4nc.org/about-steve",
-"https://steveluking4nc.org/contact",
-"https://steveluking4nc.org/donate",
-"https://steveluking4nc.org/issues",
-"https://steveluking4nc.org/volunteer",
-"https://twitter.com/SteveLuking4NC",
-"https://twitter.com/wix"
+{
+"text": "ABOUT STEVE",
+"href": "https://www.steveluking4nc.org/about-steve"
+},
+{
+"text": "CONTACT",
+"href": "https://www.steveluking4nc.org/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.steveluking4nc.org/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.steveluking4nc.org"
+},
+{
+"text": "ISSUES",
+"href": "https://www.steveluking4nc.org/issues"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.steveluking4nc.org/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/steve%20luking%204%20nc"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/steveluking4nc"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/steveluking4nc"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/steveluking4nc/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/SteveLuking4NC"
+},
+{
+"text": "steveluking4nc@gmail.com",
+"href": "mailto:steveluking4nc@gmail.com"
+}
 ]

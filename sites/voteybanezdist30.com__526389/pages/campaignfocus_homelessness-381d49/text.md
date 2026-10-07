@@ -1,19 +1,14 @@
-Homelessness and Mental Health
-There is a homelessness crisis in Hawai’i, and it has affected Kalihi over the years.
+0 Skip to Content Home About Me Media Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate Open Menu Close Menu Home About Me Media Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate Open Menu Close Menu Home About Me Folder: Media Back Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate Homelessness and Mental Health There is a homelessness crisis in Hawai’i, and it has affected Kalihi over the years.
 It is affecting our working class community members.
 ALICE (Assets-Limited, Income-Restrained, Employed) households do not qualify for benefits because of their income, but are also not making enough to afford Hawai’i’s high cost of living.
-City officials working to mitigate homeless encampment near Kalihi Transit Center
-KITV Island News Article by ‘A’ali’i Dukelow | May 8, 2023
-Read the complete article Here
-"I just want there to be an amicable and humane way to go about this,"
-- Amanda Ybanez to KITV 4
-“According to Ybanez, the neighborhood board has met with city officials to discuss potential solutions, such as ensuring people who live at the camp receive mental health and substance abuse services, as well as helping them secure important documents they may have lost.”
-- KITV 4
-Kalihi-Pālama: a 'working-class community' facing challenges and changes
-Aloha State Daily Article by Stephanie Salmons | April 28, 2025
-Read the complete article Here
-What are some of the biggest challenges the community is facing today?
-“…Another problem we're facing is the homeless and [unaffordability].
+City officials working to mitigate homeless encampment near Kalihi Transit Center KITV Island News Article by ‘A’ali’i Dukelow | May 8, 2023 Read the complete article Here "I just want there to be an amicable and humane way to go about this," - Amanda Ybanez to KITV 4 “According to Ybanez, the neighborhood board has met with city officials to discuss potential solutions , such as ensuring people who live at the camp receive mental health and substance abuse services , as well as helping them secure important documents they may have lost.” - KITV 4 Kalihi-Pālama: a 'working-class community' facing challenges and changes Aloha State Daily Article by Stephanie Salmons | April 28, 2025 Read the complete article Here What are some of the biggest challenges the community is facing today? “…Another problem we're facing is the homeless and [unaffordability].
 Things are becoming out of reach of people having housing, being able to support themselves for just the basic needs, such as food, water [and] shelter, that's becoming a problem.
 In fact, it is overwhelming already at this moment, and I think everybody's trying to deal with it in the best way that they can.
-And fortunately, [it is] very good that we have city and state officials who are on the same page with each other to help to tackle this issue — some of which is the formation of the kauhales [communal villages of tiny homes for the homeless] ... at the same time, not just chasing people from one side of the sidewalk to the next, but being able to have ongoing conversations and outreach with services to provide [to] these people.” -Ybanez
+And fortunately, [it is] very good that we have city and state officials who are on the same page with each other to help to tackle this issue — some of which is the formation of the kauhales [communal villages of tiny homes for the homeless ] ... at the same time, not just chasing people from one side of the sidewalk to the next, but being able to have ongoing conversations and outreach with services to provide [to] these people.” -Ybanez Previous Previous Crime and Substance Abuse Are you registered to vote?
+Register at the Hawaii Office of Elections .
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Volunteer and stay in contact!
+Sign up with your email address to become a volunteer and stay in contact with upcoming events!
+Email Address Sign Up Thank you!
+Vote for YBANEZ House District 30 Email: VoteYBANEZDist30@gmail.com Facebook Instagram Youtube Paid for by Friends of Amanda Ybanez PO Box 17367, Honolulu, HI 96817 Made with Squarespace

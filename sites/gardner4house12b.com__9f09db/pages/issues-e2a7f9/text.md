@@ -1,7 +1,6 @@
-6/19 Update:
-COMING SOON, answers to your questions about the things that matter most to YOU!
-Make sure your voice is heard by submitting a question or joining our Advisory Board.
-Michael "Mike" Gardner isn't just running for the Minnesota State House; he’s running to give District 12B its voice back.
+Home Donate FAQs Contact Volunteer Advise Home Donate FAQs Contact Volunteer Advise Home Donate FAQs Contact Volunteer Advise Frequently Asked Questions Issues 6/19 Update: COMING SOON, answers to your questions about the things that matter most to YOU!
+Make sure your voice is heard by submitting a question or joining our Advisory Board .
+About Mike Michael "Mike" Gardner isn't just running for the Minnesota State House; he’s running to give District 12B its voice back.
 Mike spent most of his life right here in Sauk Centre.
 As a father and a full-time car detailer, he doesn’t just talk about the affordability crisis—he lives it.
 Mike knows what it’s like to work hard every day and still see the dream of buying a home slipping out of reach for working families.
@@ -15,3 +14,6 @@ His campaign is dedicated to lifting up those who lift up Minnesota: our nurses,
 If elected, Mike will fight for comprehensive, common-sense legislation to tackle the housing crisis and get our community back on track.
 District 12B deserves a real representative who listens, cares, and works for the people.
 Mike Gardner is ready to be that voice.
+How to Get Involved Sign Up for Advisory Board Donate to Mike's Campaign Join the Campaign!
+Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Save Changes

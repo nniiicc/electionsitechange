@@ -1,4 +1,2 @@
-General Election Early Voting Dates September 18 – October 31, 2026
-General Election Tuesday, November 3, 2026
-Useful Links
-Register to Vote Check Voter Registration Status Find Your Voting Location Apply to Vote Absentee by Mail Military & Overseas Voting
+Home Meet Doug District Issues Endorsements News Events Volunteer Contact Voting Info Donate Donate Voting Info General Election Early Voting Dates September 18 – October 31, 2026 General Election Tuesday, November 3, 2026 Useful Links Register to Vote Check Voter Registration Status Find Your Voting Location Apply to Vote Absentee by Mail Military & Overseas Voting Home Meet Doug District Issues Endorsements News Events Volunteer Contact Voting Info Donate Donate Paid for by Ollivant for Congress Use of military images and/or information does not imply endorsement by Department of Defense/War or the United States Army.
+Privacy Policy | Terms & Conditions

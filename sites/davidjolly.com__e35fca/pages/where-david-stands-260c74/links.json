@@ -1,51 +1,214 @@
 [
-"https://davidjolly.com/",
-"https://davidjolly.com/about",
-"https://davidjolly.com/about-david",
-"https://davidjolly.com/commentary",
-"https://davidjolly.com/contact",
-"https://davidjolly.com/es/where-david-stands",
-"https://davidjolly.com/florida-governor-race-2026",
-"https://davidjolly.com/from-the-trail",
-"https://davidjolly.com/get-involved",
-"https://davidjolly.com/homeowners-insurance",
-"https://davidjolly.com/ht/where-david-stands",
-"https://davidjolly.com/issues",
-"https://davidjolly.com/issues/affordability",
-"https://davidjolly.com/issues/clean-energy",
-"https://davidjolly.com/issues/criminal-justice",
-"https://davidjolly.com/issues/data-centers",
-"https://davidjolly.com/issues/economy",
-"https://davidjolly.com/issues/ending-the-culture-wars",
-"https://davidjolly.com/issues/environment",
-"https://davidjolly.com/issues/equality",
-"https://davidjolly.com/issues/ethics-reform",
-"https://davidjolly.com/issues/gun-safety",
-"https://davidjolly.com/issues/health-care",
-"https://davidjolly.com/issues/higher-education",
-"https://davidjolly.com/issues/home-rule",
-"https://davidjolly.com/issues/immigration",
-"https://davidjolly.com/issues/public-education",
-"https://davidjolly.com/issues/reproductive-freedom",
-"https://davidjolly.com/issues/republicans-for-jolly",
-"https://davidjolly.com/issues/veterans",
-"https://davidjolly.com/media",
-"https://davidjolly.com/meet-gwen",
-"https://davidjolly.com/video",
-"https://davidjolly.com/where-david-stands",
-"https://facebook.com/davidjollyflorida",
-"https://instagram.com/davidjollyfl",
-"https://secure.actblue.com/donate/david-jolly-web",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=20",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=500",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane_other=true",
-"https://shop.davidjolly.com/",
-"https://thisisavm.com/",
-"https://tiktok.com/@david_jolly",
-"https://x.com/davidjollyfl"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=100"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=20"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=500"
+},
+{
+"text": "AVM",
+"href": "https://thisisavm.com"
+},
+{
+"text": "About David Jolly",
+"href": "https://davidjolly.com/about/"
+},
+{
+"text": "Commentary",
+"href": "https://davidjolly.com/commentary/"
+},
+{
+"text": "Contact",
+"href": "https://davidjolly.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/david-jolly-web"
+},
+{
+"text": "ES",
+"href": "https://davidjolly.com/es/where-david-stands/"
+},
+{
+"text": "From the Trail",
+"href": "https://davidjolly.com/from-the-trail/"
+},
+{
+"text": "Get Involved",
+"href": "https://davidjolly.com/get-involved/"
+},
+{
+"text": "HT",
+"href": "https://davidjolly.com/ht/where-david-stands/"
+},
+{
+"text": "Issues",
+"href": "https://davidjolly.com/issues/"
+},
+{
+"text": "Join the movement",
+"href": "https://davidjolly.com/get-involved/"
+},
+{
+"text": "Media",
+"href": "https://davidjolly.com/media/"
+},
+{
+"text": "Meet David",
+"href": "https://davidjolly.com/about-david/"
+},
+{
+"text": "Meet Gwen",
+"href": "https://davidjolly.com/meet-gwen/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane_other=true"
+},
+{
+"text": "Republicans for Jolly",
+"href": "https://davidjolly.com/issues/republicans-for-jolly/"
+},
+{
+"text": "Store",
+"href": "https://shop.davidjolly.com/"
+},
+{
+"text": "The 2026 Race",
+"href": "https://davidjolly.com/florida-governor-race-2026/"
+},
+{
+"text": "Video",
+"href": "https://davidjolly.com/video/"
+},
+{
+"text": "Where David Stands",
+"href": "https://davidjolly.com/where-david-stands/"
+},
+{
+"text": "[image: Affordability]AffordabilityAFFORDABILITY Florida Should Be a Place You Can Afford to Call Home From the rent check to the…",
+"href": "https://davidjolly.com/issues/affordability/"
+},
+{
+"text": "[image: Campaign Finance and Ethics Reform]Campaign Finance and Ethics ReformISSUES FACING FLORIDA This Isn't Democracy. It's a Rigged System. Campaign finance and ethics reform to put voters…",
+"href": "https://davidjolly.com/issues/ethics-reform/"
+},
+{
+"text": "[image: Clean Energy]Clean EnergyISSUES FACING FLORIDA This isn't about saving the planet. It's about saving money. Clean energy is good for…",
+"href": "https://davidjolly.com/issues/clean-energy/"
+},
+{
+"text": "[image: Data Centers]Data CentersDATA CENTERS Florida's voters are saying no. David Jolly is listening. A moratorium on hyperscale data centers, issued…",
+"href": "https://davidjolly.com/issues/data-centers/"
+},
+{
+"text": "[image: David Jolly on Environment — Florida Governor 2026]David Jolly on Environment — Florida Governor 2026Protecting what makes Florida, Florida. This isn't just policy. It's personal. In short David Jolly believes protecting Florida's…",
+"href": "https://davidjolly.com/issues/environment/"
+},
+{
+"text": "[image: David Jolly on Health Care — Florida Governor 2026]David Jolly on Health Care — Florida Governor 2026Health care shouldn't be this hard. No one should be one diagnosis away from fear, delay, or debt.…",
+"href": "https://davidjolly.com/issues/health-care/"
+},
+{
+"text": "[image: David Jolly on Public Education — Florida Governor 2026]David Jolly on Public Education — Florida Governor 2026Public education shouldn't be an afterthought. Florida families deserve real opportunity. And that starts with strong public schools.…",
+"href": "https://davidjolly.com/issues/public-education/"
+},
+{
+"text": "[image: David Jolly]",
+"href": "https://davidjolly.com/"
+},
+{
+"text": "[image: David Jolly’s Plan to Cut Florida Homeowners Insurance by 60 to 70 Percent]David Jolly’s Plan to Cut Florida Homeowners Insurance by 60 to 70 PercentTHE PLAN, IN PLAIN ENGLISH David Jolly's Plan to Cut Florida Homeowners Insurance by 60 to 70 Percent…",
+"href": "https://davidjolly.com/homeowners-insurance/"
+},
+{
+"text": "[image: Ending the Culture Wars — David Jolly for Florida Governor]Ending the Culture Wars — David Jolly for Florida GovernorEnding the culture wars. Florida deserves better than politics built on division. We can't move forward together if…",
+"href": "https://davidjolly.com/issues/ending-the-culture-wars/"
+},
+{
+"text": "[image: Equality & Civil Rights]Equality & Civil RightsEQUALITY & CIVIL RIGHTS Every Floridian Deserves a Fair Shot \"I want my children to know that absolutely…",
+"href": "https://davidjolly.com/issues/equality/"
+},
+{
+"text": "[image: Fighting Crime, not Communities]Fighting Crime, not CommunitiesCRIMINAL JUSTICE Fighting Crime, Not Communities Accountability for everyone. Justice that doesn't target your neighborhood. In short David…",
+"href": "https://davidjolly.com/issues/criminal-justice/"
+},
+{
+"text": "[image: Giving Florida’s Families Access to Florida’s Universities]Giving Florida’s Families Access to Florida’s UniversitiesHIGHER EDUCATION Giving Florida's Families Access to Florida's Universities Hard work should be enough. Right now, for too…",
+"href": "https://davidjolly.com/issues/higher-education/"
+},
+{
+"text": "[image: Home Rule and Direct Democracy]Home Rule and Direct DemocracyHOME RULE AND DIRECT DEMOCRACY This isn't about politics. It's about who gets to decide. Floridians deserve the…",
+"href": "https://davidjolly.com/issues/home-rule/"
+},
+{
+"text": "[image: Immigration]ImmigrationIMMIGRATION Florida Was Built By People Who Arrived With Hope How we treat the people who come here…",
+"href": "https://davidjolly.com/issues/immigration/"
+},
+{
+"text": "[image: Meet David Jolly — Florida Governor 2026]Meet David Jolly — Florida Governor 2026Meet David.Not a politician. A person. Before the labels. Before the noise. There's the person and the choices…",
+"href": "https://davidjolly.com/about-david/"
+},
+{
+"text": "[image: Reducing Gun Violence]Reducing Gun ViolencePROTECTING FLORIDA FAMILIES This Isn't About Politics. It's About Lives. Florida can end needless gun violence without taking…",
+"href": "https://davidjolly.com/issues/gun-safety/"
+},
+{
+"text": "[image: Republicans for Jolly]Republicans for JollyOCT2 Want to get involved with Republicans for Jolly?Join our webinar, Friday at 1 p.m. ET Sign up…",
+"href": "https://davidjolly.com/issues/republicans-for-jolly/"
+},
+{
+"text": "[image: Restoring Reproductive Freedom]Restoring Reproductive FreedomREPRODUCTIVE FREEDOM Reproductive freedom is personal. These decisions belong to people. Not the government. In short Reproductive freedom…",
+"href": "https://davidjolly.com/issues/reproductive-freedom/"
+},
+{
+"text": "[image: Restoring Services for Our Veterans]Restoring Services for Our VeteransFLORIDA'S PROMISE Restoring Services for Our Veterans When the federal government steps back, Florida steps forward. In short…",
+"href": "https://davidjolly.com/issues/veterans/"
+},
+{
+"text": "[image: Strengthening Florida’s Economy]Strengthening Florida’s EconomyOUR ECONOMY This Isn't Growth. It's Potential. Florida has one of the largest economies in the world. The…",
+"href": "https://davidjolly.com/issues/economy/"
+},
+{
+"text": "[image: The 2026 Florida Governor’s Race]The 2026 Florida Governor’s RaceThe 2026 Florida Governor's Race Who is running, every date that matters, and how to make your voice…",
+"href": "https://davidjolly.com/florida-governor-race-2026/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/davidjollyflorida"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/davidjollyfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@david_jolly"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/davidjollyfl"
+}
 ]

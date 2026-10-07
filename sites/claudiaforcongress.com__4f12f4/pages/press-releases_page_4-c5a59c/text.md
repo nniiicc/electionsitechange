@@ -1,8 +1,4 @@
-NEW AD ALERT: Pres.
-Trump: Brindisi “Total Disaster,” Puppet Vote
-Brindisi Returns to NY22 Empty-Handed on COVID Relief
-Claudia Tenney Reacts to President & First Lady COVID Diagnosis
-Claudia Tenney Leads on China, Brindisi is a Cheap Knock-Off
-ALERT: Pres.
-Trump: Brindisi “Ineffective” & Betrayed Upstate
-ALERT: BRINDISI WON’T CONDEMN ANTI-POLICE ATTACKS
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Press Releases Press Releases Opinion Editorials Press Releases Opinion Editorials Press Releases NEW AD ALERT: Pres.
+Trump: Brindisi “Total Disaster,” Puppet Vote October 5 2020 Learn More Share Brindisi Returns to NY22 Empty-Handed on COVID Relief October 2 2020 Learn More Share Claudia Tenney Reacts to President & First Lady COVID Diagnosis October 2 2020 Learn More Share Claudia Tenney Leads on China, Brindisi is a Cheap Knock-Off October 1 2020 Learn More Share ALERT: Pres.
+Trump: Brindisi “Ineffective” & Betrayed Upstate September 29 2020 Learn More Share ALERT: BRINDISI WON’T CONDEMN ANTI-POLICE ATTACKS September 28 2020 Learn More Share « 2 3 4 5 6 » Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

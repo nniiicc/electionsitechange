@@ -1,26 +1,150 @@
 [
-"https://abdouchforca.com/",
-"https://abdouchforca.com/about",
-"https://abdouchforca.com/district-map",
-"https://abdouchforca.com/donate-by-check",
-"https://abdouchforca.com/donations",
-"https://abdouchforca.com/donations-monthly",
-"https://abdouchforca.com/endorse-greg",
-"https://abdouchforca.com/endorsements",
-"https://abdouchforca.com/es/events",
-"https://abdouchforca.com/events",
-"https://abdouchforca.com/events/golf-tournament",
-"https://abdouchforca.com/events/pumpkin-massacre",
-"https://abdouchforca.com/join-team",
-"https://abdouchforca.com/media",
-"https://abdouchforca.com/privacy",
-"https://assets.cdn.filesafe.space/p82i5LdsIDi92DppZyBJ/media/6ab553a01f3be2be1b92464a.png",
-"https://facebook.com/AbdouchforCA",
-"https://google.com/maps/search?api=1&query=Arrowhead+Country+Club%2C+3433+Parkside+Dr%2C+San+Bernardino%2C+CA+92404",
-"https://google.com/maps/search?api=1&query=Calvary+Chapel+Rialto%0A1391+W+Merrill+Ave%2C+Rialto%2C+CA+92376%2C+United+States",
-"https://google.com/maps/search?api=1&query=Downtown+San+Bernardino%2F++La+Plaza+Park+at+6th+Street",
-"https://google.com/maps/search?api=1&query=Elks+Lodge+-+San+Bernardino%0A2055+Elks+Dr%2C+San+Bernardino%2C+CA++92404%2C+United+States",
-"https://gosubmitto.com/",
-"https://instagram.com/abdouchforca?igsh=NTc4MTIwNjQ2YQ%3D%3D",
-"https://youtube.com/@AbdouchforCA"
+{
+"text": "909-371-5675",
+"href": "tel:9093715675"
+},
+{
+"text": "About",
+"href": "https://www.abdouchforca.com/about"
+},
+{
+"text": "Add Endorsement",
+"href": "https://www.abdouchforca.com/endorse-greg"
+},
+{
+"text": "Contribute",
+"href": "https://www.abdouchforca.com/#donate"
+},
+{
+"text": "Contribute→",
+"href": "https://www.abdouchforca.com/#donate"
+},
+{
+"text": "Donate",
+"href": "https://www.abdouchforca.com/donations"
+},
+{
+"text": "Donate (One-Time)",
+"href": "https://www.abdouchforca.com/donations"
+},
+{
+"text": "Donate By Check",
+"href": "https://www.abdouchforca.com/donate-by-check"
+},
+{
+"text": "EN",
+"href": "https://www.abdouchforca.com/events"
+},
+{
+"text": "ES",
+"href": "https://www.abdouchforca.com/es/events"
+},
+{
+"text": "Endorsements",
+"href": "https://www.abdouchforca.com/endorsements"
+},
+{
+"text": "Event RSVP & Details",
+"href": "https://assets.cdn.filesafe.space/p82i5LdsIDi92DppZyBJ/media/6ab553a01f3be2be1b92464a.png"
+},
+{
+"text": "Events",
+"href": "https://www.abdouchforca.com/events"
+},
+{
+"text": "Get Directions",
+"href": "https://www.google.com/maps/search/?api=1&query=Arrowhead+Country+Club%2C+3433+Parkside+Dr%2C+San+Bernardino%2C+CA+92404"
+},
+{
+"text": "Get Directions",
+"href": "https://www.google.com/maps/search/?api=1&query=Community+Hospital+of+San+Bernardino%0A1805+Medical+Center+Dr%2C+San+Bernardino%2C+CA+92411%2C+United+States"
+},
+{
+"text": "Get Directions",
+"href": "https://www.google.com/maps/search/?api=1&query=Downtown+San+Bernardino%2F++La+Plaza+Park+at+6th+Street"
+},
+{
+"text": "Get Directions",
+"href": "https://www.google.com/maps/search/?api=1&query=Elks+Lodge+-+San+Bernardino%0A2055+Elks+Dr%2C+San+Bernardino%2C+CA++92404%2C+United+States"
+},
+{
+"text": "Get Event Updates",
+"href": "https://www.abdouchforca.com/join-team"
+},
+{
+"text": "GoSubmitto",
+"href": "https://gosubmitto.com"
+},
+{
+"text": "Home",
+"href": "https://www.abdouchforca.com/"
+},
+{
+"text": "Join the Team",
+"href": "https://www.abdouchforca.com/join-team"
+},
+{
+"text": "Map",
+"href": "https://www.abdouchforca.com/district-map"
+},
+{
+"text": "Media",
+"href": "https://www.abdouchforca.com/media"
+},
+{
+"text": "Monthly Giving",
+"href": "https://www.abdouchforca.com/donations-monthly"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.abdouchforca.com/privacy"
+},
+{
+"text": "RSVP / Register",
+"href": "https://www.abdouchforca.com/join-team"
+},
+{
+"text": "Register & Sponsor →",
+"href": "https://www.abdouchforca.com/events/golf-tournament"
+},
+{
+"text": "Register to Shoot →",
+"href": "https://www.abdouchforca.com/events/pumpkin-massacre"
+},
+{
+"text": "Subscribe Now",
+"href": "https://www.abdouchforca.com/#signup"
+},
+{
+"text": "Subscribe with Apple Calendar",
+"href": "webcal://p166-caldav.icloud.com/published/2/ODQxNDMxODQ4NDE0MzE4NLYBlxH1fVIBQdPRsHGqSClOacc0ZFrp_eoVGRwuPJn8-RyJfK_SC9QTRgqb_sJ31dGjsdvJPrHZ5ClAlXu-EEk"
+},
+{
+"text": "View Endorsements",
+"href": "https://www.abdouchforca.com/endorsements"
+},
+{
+"text": "[image: Greg Abdouch for Assembly District 45]",
+"href": "https://www.abdouchforca.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AbdouchforCA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/abdouchforca/?igsh=NTc4MTIwNjQ2YQ%3D%3D"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AbdouchforCA"
+},
+{
+"text": "vote@gregabdouch.com",
+"href": "mailto:vote@gregabdouch.com"
+},
+{
+"text": "← Back to Campaign Homepage",
+"href": "https://www.abdouchforca.com/"
+}
 ]

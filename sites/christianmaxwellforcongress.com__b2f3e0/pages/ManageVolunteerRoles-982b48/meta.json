@@ -1,7 +1,9 @@
 {
  "description": "Manage Volunteer Roles on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ManageVolunteerRoles",
- "paid_for_by": null,
+ "fingerprint": "02c8c029876376c4436c85ef401ddf163424e6f9",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Manage Volunteer Roles | Maxwell for Congress",
  "years_mentioned": []
 }

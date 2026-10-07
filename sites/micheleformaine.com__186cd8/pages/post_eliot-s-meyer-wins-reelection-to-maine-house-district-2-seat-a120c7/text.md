@@ -1,13 +1,12 @@
-Eliot's Meyer wins reelection to Maine House District 2 seat
-Hadley BarndollarPortsmouth Herald via: https://www.seacoastonline.com/story/news/politics/elections/2020/11/03/eliots-meyer-wins-reelection-maine-house-district-2-seat/6124433002/
-ELIOT, Maine — Incumbent Democrat Michele Meyer won her second term representing Maine House District 2 on Tuesday, defeating Republican opponent Dan Ammons for the second time.
+top of page HOME ABOUT CONTACT CONTRIBUTE NEWS FIND MY DISTRICT More Use tab to navigate through the menu items.
+In the news News & Press Search Eliot's Meyer wins reelection to Maine House District 2 seat Nov 8, 2020 2 min read Hadley Barndollar Portsmouth Herald via: https://www.seacoastonline.com/story/news/politics/elections/2020/11/03/eliots-meyer-wins-reelection-maine-house-district-2-seat/6124433002/ ELIOT, Maine — Incumbent Democrat Michele Meyer won her second term representing Maine House District 2 on Tuesday, defeating Republican opponent Dan Ammons for the second time.
 Meyer and Ammons also faced off in 2018 for the same house seat, when Meyer won her first term.
 The House District 2 seat represents Eliot and parts of Kittery and South Berwick, which Meyer won all three Tuesday.
 Meyer won in Kittery by a vote of 351-240, in Eliot 2,912-1,705, and in South Berwick 611-361.
 Meyer, 61, of Eliot, is a registered nurse and a member of the Joint Standing Committee on Health and Human Services.
-During the campaign season, Meyer said the last two years helped her fully realize "the truly positive impact state government can and has had on the lives of the people of my district and this state."
-"And how critical it is to have and to provide representation that is compassionate, ethical, responsive, inclusive, and committed to social, racial, and economic justice," she continued.
-"The pandemic will continue to present challenges to District 2 and statewide that will require experienced leadership committed to policy-making that values above all, the health and security of all Mainers, who refuses to participate in the politics of division and hatred, and who sees public service as the distinct honor that is it."
-Meyer said, "Keeping Mainers healthy in every way possible is my chief objective," and that she will work to obtain critical funding to assist families and the state's economic recovery during the ongoing COVID-19 crisis.
+During the campaign season, Meyer said the last two years helped her fully realize "the truly positive impact state government can and has had on the lives of the people of my district and this state." "And how critical it is to have and to provide representation that is compassionate, ethical, responsive, inclusive, and committed to social, racial, and economic justice," she continued.
+"The pandemic will continue to present challenges to District 2 and statewide that will require experienced leadership committed to policy-making that values above all, the health and security of all Mainers, who refuses to participate in the politics of division and hatred, and who sees public service as the distinct honor that is it." Meyer said, "Keeping Mainers healthy in every way possible is my chief objective," and that she will work to obtain critical funding to assist families and the state's economic recovery during the ongoing COVID-19 crisis.
 Last week, Kittery town staff discovered 27 House District 2 voters received House District 1 absentee ballots in error, according to Town Manager Kendra Amaral.
 The town immediately contacted the Secretary of State's office, she said, to correct the mistake and track down all 27 voters who had requested the absentee ballots.
+Recent Posts See All Gearing up for a State Senate race Property taxes and the rising cost of living in Maine: Rep.
+Meyer Mainspring celebrates impact on fighting hunger, poverty in Seacoast ©# Paid for and authorized by Michele for Maine bottom of page

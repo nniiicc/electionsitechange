@@ -1,9 +1,12 @@
-The Massachusetts Department of Transportation (MassDOT) released their five year Capital Investment Plan.
+About News Issues Legislation Contact Get Involved Contribute Menu Latest News BIG NEWS for Winchester!
+June 21, 2016 / in Uncategorized / by Megan Day The Massachusetts Department of Transportation (MassDOT) released their five year Capital Investment Plan.
 Thanks to our advocacy, the plan includes $33 Million for improvements and redesign of the Winchester Center Commuter Rail Station and potential funding for the tri-community bike way!
 New Commuter Rail schedules go into effect on Monday, May 23rd.
-Check out the […]
-Thanks to your efforts and support, I am thrilled to let you know that I am the Democratic nominee to be the State Representative of the 31st Middlesex District (Stoneham and Winchester)!
+Check out the […] Read more http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png 0 0 Megan Day http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png Megan Day 2016-06-21 09:15:27 2016-06-21 09:15:27 BIG NEWS for Winchester!
+7 Weeks Until Election Day!
+September 16, 2014 / in Uncategorized / by Megan Day Thanks to your efforts and support, I am thrilled to let you know that I am the Democratic nominee to be the State Representative of the 31st Middlesex District (Stoneham and Winchester)!
 Thank you, sincerely, for all that you did to help me and our primary campaign.
-Together we knocked on thousands of doors and turned […]
-We have been very fortunate to receive the endorsements of a variety of groups and individuals in this campaign so far and have been sharing them on our Facebook and Twitter pages.
-Among the highlights we have announced so far: Massachusetts Teachers Association United Healthcare Workers Mass Equality IBEW Local 2222 Winchester Firefighters Stoneham Firefighters […]
+Together we knocked on thousands of doors and turned […] Read more http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png 0 0 Megan Day http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png Megan Day 2014-09-16 09:10:55 2016-06-21 09:31:46 7 Weeks Until Election Day!
+Michael Endorsed by MA Teachers Association, Mass Equality, United Healthcare Workers and Many More August 19, 2014 / in Events , News , Uncategorized / by Megan Day We have been very fortunate to receive the endorsements of a variety of groups and individuals in this campaign so far and have been sharing them on our Facebook and Twitter pages.
+Among the highlights we have announced so far: Massachusetts Teachers Association United Healthcare Workers Mass Equality IBEW Local 2222 Winchester Firefighters Stoneham Firefighters […] Read more http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png 0 0 Megan Day http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png Megan Day 2014-08-19 11:58:08 2014-08-19 11:59:55 Michael Endorsed by MA Teachers Association, Mass Equality, United Healthcare Workers and Many More Page 10 of 12 « ‹ 8 9 10 11 12 › » Click to Contribute Paid for by the Committee to Elect Michael Day John C.
+Henaghan, Treasurer Scroll to top

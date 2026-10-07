@@ -1,11 +1,38 @@
 [
-"https://tammycaputi.com/",
-"https://tammycaputi.com/About",
-"https://tammycaputi.com/Contact",
-"https://tammycaputi.com/Endorsements",
-"https://tammycaputi.com/Issues",
-"https://tammycaputi.com/News",
-"https://tammycaputi.com/Petition",
-"https://tammycaputi.com/Volunteer",
-"https://tammycaputi.com/admin"
+{
+"text": "About",
+"href": "https://tammycaputi.com/About"
+},
+{
+"text": "Admin",
+"href": "https://tammycaputi.com/admin"
+},
+{
+"text": "Contact",
+"href": "https://tammycaputi.com/Contact"
+},
+{
+"text": "Endorsements",
+"href": "https://tammycaputi.com/Endorsements"
+},
+{
+"text": "Home",
+"href": "https://tammycaputi.com/"
+},
+{
+"text": "Issues",
+"href": "https://tammycaputi.com/Issues"
+},
+{
+"text": "News",
+"href": "https://tammycaputi.com/News"
+},
+{
+"text": "Petition",
+"href": "https://tammycaputi.com/Petition"
+},
+{
+"text": "Volunteer",
+"href": "https://tammycaputi.com/Volunteer"
+}
 ]

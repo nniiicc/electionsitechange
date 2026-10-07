@@ -1,14 +1,17 @@
 {
  "description": "Explore solutions to reduce healthcare costs and improve access with Zabel for Congress. Learn about healthcare reform efforts tailored for all communities.",
  "final_url": "https://www.zabelforcongress.com/health-care",
+ "fingerprint": "b4ce394f87e47b4d08cc4f0e6e82ac10fa382769",
+ "format": 3,
  "paid_for_by": "Paid for by Zabel for Congress P",
- "title": "Health Care | Learn More, Get Involved Today \u2014 Zabel for Congress",
+ "title": "Health Care | Learn More, Get Involved Today — Zabel for Congress",
  "years_mentioned": [
   "2019",
   "2024",
   "2025",
   "2026",
   "2028",
-  "2029"
+  "2029",
+  "2033"
  ]
 }

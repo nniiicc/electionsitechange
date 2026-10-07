@@ -1,23 +1,90 @@
 [
-"https://alicefornh.com/",
-"https://alicefornh.com/about",
-"https://alicefornh.com/cart",
-"https://alicefornh.com/media",
-"https://alicefornh.com/media/op-ed-stop-pretending-trans-persecution-is-helping-kids",
-"https://alicefornh.com/media?author=6640e2854038b96fcc1b35ae",
-"https://alicefornh.com/priorities",
-"https://bsky.app/profile/alicefornh.bsky.social",
-"https://facebook.com/alicefornh",
-"https://gencourt.state.nh.us/bill_status/billinfo.aspx?id=71",
-"https://hrc.org/resources/get-the-facts-on-gender-affirming-care",
-"https://instagram.com/603.equality",
-"https://instagram.com/alicefornh",
-"https://legiscan.com/NH/text/HB264/id/2627111",
-"https://legiscan.com/NH/text/HB368/2023",
-"https://legiscan.com/NH/text/HB396/id/2629610",
-"https://propublica.org/article/for-trans-people-difficult-and-costly-to-update-an-id-but-it-can-also-be-dangerous-not-to",
-"https://secure.actblue.com/donate/alicefornh-2026",
-"https://theguardian.com/us-news/2023/mar/07/cpac-anti-trans-rhetoric",
-"https://tiktok.com/@alicefornh",
-"https://wpath.org/publications/soc"
+{
+"text": "0",
+"href": "https://www.alicefornh.com/cart"
+},
+{
+"text": "603 Equality’s social media",
+"href": "https://www.instagram.com/603.equality/"
+},
+{
+"text": "About",
+"href": "https://www.alicefornh.com/about"
+},
+{
+"text": "Alice Wade",
+"href": "https://www.alicefornh.com/media?author=6640e2854038b96fcc1b35ae"
+},
+{
+"text": "Alice for New Hampshire",
+"href": "https://www.alicefornh.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/alicefornh-2026"
+},
+{
+"text": "HB 264",
+"href": "https://legiscan.com/NH/text/HB264/id/2627111"
+},
+{
+"text": "HB 368",
+"href": "https://legiscan.com/NH/text/HB368/2023"
+},
+{
+"text": "HB 396",
+"href": "https://legiscan.com/NH/text/HB396/id/2629610"
+},
+{
+"text": "HB 619",
+"href": "https://www.gencourt.state.nh.us/bill_status/billinfo.aspx?id=71"
+},
+{
+"text": "Media",
+"href": "https://www.alicefornh.com/media"
+},
+{
+"text": "Previous Previous Op-Ed: Stop pretending Trans Persecution is Helping Kids",
+"href": "https://www.alicefornh.com/media/op-ed-stop-pretending-trans-persecution-is-helping-kids"
+},
+{
+"text": "Priorities",
+"href": "https://www.alicefornh.com/priorities"
+},
+{
+"text": "[image] Alice Wade",
+"href": "https://www.alicefornh.com/media?author=6640e2854038b96fcc1b35ae"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/alicefornh.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/alicefornh/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/alicefornh/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@alicefornh"
+},
+{
+"text": "gender affirming care",
+"href": "https://www.wpath.org/publications/soc"
+},
+{
+"text": "life-saving healthcare",
+"href": "https://www.hrc.org/resources/get-the-facts-on-gender-affirming-care"
+},
+{
+"text": "threaten trans people’s safety",
+"href": "https://www.propublica.org/article/for-trans-people-difficult-and-costly-to-update-an-id-but-it-can-also-be-dangerous-not-to"
+},
+{
+"text": "whipping up a frenzy",
+"href": "https://www.theguardian.com/us-news/2023/mar/07/cpac-anti-trans-rhetoric"
+}
 ]

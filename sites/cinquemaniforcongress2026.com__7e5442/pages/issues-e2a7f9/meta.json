@@ -1,7 +1,19 @@
 {
  "description": "Explore Joe Cinquemani's priorities for New York's 16th Congressional District.",
  "final_url": "https://www.cinquemaniforcongress2026.com/issues",
+ "fingerprint": "34e1de334dba8b43d615da2d4bd3b3affdf87b3c",
+ "format": 3,
  "paid_for_by": "Paid for by Cinquemani for Congress",
  "title": "Issues | Cinquemani for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "1955",
+  "1960",
+  "1963",
+  "1968",
+  "1973",
+  "1990",
+  "2016",
+  "2024",
+  "2025"
+ ]
 }

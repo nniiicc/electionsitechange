@@ -1,60 +1,242 @@
 [
-"https://act.david4queens.com/join-full",
-"https://act.david4queens.com/map",
-"https://asaal.org/",
-"https://baagusa.org/",
-"https://caringmajorityrising.org/",
-"https://citizenactionny.org/",
-"https://citizensunion.org/",
-"https://cuffhaction.org/home",
-"https://cwad1.org/",
-"https://david4queens.com/",
-"https://david4queens.com/cart",
-"https://david4queens.com/platform",
-"https://david4queens.com/press",
-"https://david4queens.com/privacy-policy",
-"https://david4queens.com/vote",
-"https://doctorscouncil.org/",
-"https://drumbeatsnyc.org/",
-"https://equalityny.org/",
-"https://foodandwateraction.org/",
-"https://hfhraction.org/",
-"https://instagram.com/david4queens",
-"https://instagram.com/latinodemsnyc",
-"https://instagram.com/softpowervote",
-"https://jfrej.org/",
-"https://jimowles.org/",
-"https://jvpaction.org/",
-"https://leadlocally.org/",
-"https://maketheroadaction.org/new_york",
-"https://mdcny.org/",
-"https://muslimvotes.org/",
-"https://now.org/chapter/brooklyn-queens-now",
-"https://nyckidspac.org/",
-"https://nycvotes.turbovote.org/check-your-registration/voter-info",
-"https://nyhcampaign.org/",
-"https://nyicaction.org/",
-"https://nylcv.org/",
-"https://nypan.org/",
-"https://nytenantspac.org/",
-"https://opeiulocal153.org/",
-"https://osaunion.org/",
-"https://plannedparenthoodaction.org/planned-parenthood-empire-state-votes/endorsements",
-"https://plannedparenthoodaction.org/planned-parenthood-greater-new-york-action-fund",
-"https://region9a.uaw.org/",
-"https://runforsomething.net/",
-"https://sdnyc.org/",
-"https://secure.actblue.com/donate/david4queens",
-"https://secure.actblue.com/donate/david4queens?amount=1000",
-"https://secure.actblue.com/donate/david4queens?amount=15",
-"https://secure.actblue.com/donate/david4queens?amount=250",
-"https://secure.actblue.com/donate/david4queens?amount=38",
-"https://secure.actblue.com/donate/david4queens?amount=50",
-"https://socialists.nyc/",
-"https://sunrisenyc.org/",
-"https://treeageteam.org/",
-"https://unitehere100.org/",
-"https://vfar.org/",
-"https://workingfamilies.org/state/new-york",
-"https://x.com/david4queens"
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/david4queens?amount=1000"
+},
+{
+"text": "$15",
+"href": "https://secure.actblue.com/donate/david4queens?amount=15"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/david4queens?amount=250"
+},
+{
+"text": "$38",
+"href": "https://secure.actblue.com/donate/david4queens?amount=38"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/david4queens?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.david4queens.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.david4queens.com/"
+},
+{
+"text": "Check your registration",
+"href": "https://nycvotes.turbovote.org/check-your-registration/voter-info"
+},
+{
+"text": "Events",
+"href": "https://act.david4queens.com/map"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/david4queens"
+},
+{
+"text": "Our Platform",
+"href": "https://www.david4queens.com/platform"
+},
+{
+"text": "Press",
+"href": "https://www.david4queens.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.david4queens.com/privacy-policy"
+},
+{
+"text": "SIGN UP",
+"href": "https://act.david4queens.com/join-full"
+},
+{
+"text": "Vote",
+"href": "https://www.david4queens.com/vote"
+},
+{
+"text": "[image: David Orkin for Queens]",
+"href": "https://www.david4queens.com/"
+},
+{
+"text": "[image]",
+"href": "https://caringmajorityrising.org/"
+},
+{
+"text": "[image]",
+"href": "https://citizenactionny.org/"
+},
+{
+"text": "[image]",
+"href": "https://citizensunion.org/"
+},
+{
+"text": "[image]",
+"href": "https://cwad1.org/"
+},
+{
+"text": "[image]",
+"href": "https://jimowles.org/"
+},
+{
+"text": "[image]",
+"href": "https://leadlocally.org/"
+},
+{
+"text": "[image]",
+"href": "https://muslimvotes.org/"
+},
+{
+"text": "[image]",
+"href": "https://now.org/chapter/brooklyn-queens-now/"
+},
+{
+"text": "[image]",
+"href": "https://nyckidspac.org/"
+},
+{
+"text": "[image]",
+"href": "https://nyicaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://nypan.org/"
+},
+{
+"text": "[image]",
+"href": "https://region9a.uaw.org/"
+},
+{
+"text": "[image]",
+"href": "https://runforsomething.net/"
+},
+{
+"text": "[image]",
+"href": "https://sdnyc.org/"
+},
+{
+"text": "[image]",
+"href": "https://socialists.nyc/"
+},
+{
+"text": "[image]",
+"href": "https://sunrisenyc.org/"
+},
+{
+"text": "[image]",
+"href": "https://vfar.org/"
+},
+{
+"text": "[image]",
+"href": "https://workingfamilies.org/state/new-york/"
+},
+{
+"text": "[image]",
+"href": "https://www.asaal.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.baagusa.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.cuffhaction.org/home"
+},
+{
+"text": "[image]",
+"href": "https://www.doctorscouncil.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.drumbeatsnyc.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.equalityny.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.foodandwateraction.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.hfhraction.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/latinodemsnyc/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/softpowervote/"
+},
+{
+"text": "[image]",
+"href": "https://www.jfrej.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.jvpaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.maketheroadaction.org/new_york"
+},
+{
+"text": "[image]",
+"href": "https://www.mdcny.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.nyhcampaign.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.nylcv.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.nytenantspac.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.opeiulocal153.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.osaunion.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-empire-state-votes/endorsements"
+},
+{
+"text": "[image]",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-greater-new-york-action-fund"
+},
+{
+"text": "[image]",
+"href": "https://www.treeageteam.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.unitehere100.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/david4queens/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/david4queens"
+},
+{
+"text": "donate",
+"href": "https://secure.actblue.com/donate/david4queens"
+}
 ]

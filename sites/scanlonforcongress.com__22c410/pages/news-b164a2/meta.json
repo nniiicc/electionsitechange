@@ -1,7 +1,9 @@
 {
  "description": "Get to know Democrat Mary Gay Scanlon by visiting her official campaign website.",
  "final_url": "https://www.scanlonforcongress.com/news",
- "paid_for_by": null,
+ "fingerprint": "84a2e88a9c437aea36bbb8971ae5b40057391387",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | Scanlon for Congress",
  "years_mentioned": []
 }

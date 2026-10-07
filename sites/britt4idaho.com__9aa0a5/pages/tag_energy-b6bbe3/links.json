@@ -1,11 +1,54 @@
 [
-"http://brittraybould.wpengine.com/",
-"https://britt4idaho.com/",
-"https://britt4idaho.com/2023/10/20/building-strong-energy-future",
-"https://britt4idaho.com/about",
-"https://britt4idaho.com/category/policy",
-"https://britt4idaho.com/donate",
-"https://britt4idaho.com/volunteer",
-"https://facebook.com/britt4idaho",
-"https://instagram.com/britt4idaho"
+{
+"text": "About",
+"href": "https://www.britt4idaho.com/about/"
+},
+{
+"text": "Building a Strong Energy Future in Idaho",
+"href": "https://www.britt4idaho.com/2023/10/20/building-strong-energy-future/"
+},
+{
+"text": "Continue reading",
+"href": "https://www.britt4idaho.com/2023/10/20/building-strong-energy-future/"
+},
+{
+"text": "Donate",
+"href": "https://www.britt4idaho.com/donate/"
+},
+{
+"text": "Home",
+"href": "http://brittraybould.wpengine.com"
+},
+{
+"text": "News",
+"href": "https://www.britt4idaho.com/category/policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.britt4idaho.com/volunteer/"
+},
+{
+"text": "Volunteer for Britt",
+"href": "https://www.britt4idaho.com/volunteer/"
+},
+{
+"text": "[image: Britt Raybould | Idaho House, District 34]",
+"href": "https://www.britt4idaho.com/"
+},
+{
+"text": "[image: Idaho Reservoir]",
+"href": "https://www.britt4idaho.com/2023/10/20/building-strong-energy-future/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/britt4idaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/britt4idaho/"
+},
+{
+"text": "hello@britt4idaho.com",
+"href": "mailto:hello@britt4idaho.com"
+}
 ]

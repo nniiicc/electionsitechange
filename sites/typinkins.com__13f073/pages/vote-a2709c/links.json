@@ -1,24 +1,98 @@
 [
-"https://aclu-ms.org/en/campaigns/voting-rights-restoration-project",
-"https://docs.google.com/forms/d/e/1FAIpQLSdKUj4kqVPtVUslWbkjMniIOTYNu4sZ8pfArDi5pLjgbz-DoQ/viewform",
-"https://efundraisingconnections.com/c/TyPinkinsforCongress",
-"https://instagram.com/typinkins",
-"https://msegov.com/sos/voter_registration/amiregistered/Search",
-"https://sos.ms.gov/absentee-voting-information",
-"https://sos.ms.gov/content/documents/elections/Mail-in%20Voter%20Registration%20Application.pdf",
-"https://sos.ms.gov/elections-voting/county-election-information",
-"https://sos.ms.gov/elections-voting/polling-place-locator",
-"https://twitter.com/TyPinkins",
-"https://typinkins.com/",
-"https://typinkins.com/fulcrum",
-"https://typinkins.com/issues",
-"https://typinkins.com/meet-ty-pinkins",
-"https://typinkins.com/press-releases",
-"https://typinkins.com/privacy-policy",
-"https://typinkins.com/terms-of-service",
-"https://typinkins.com/transparency",
-"https://typinkins.com/volunteer",
-"https://typinkins.com/vote",
-"https://web.facebook.com/typinkinsMS?_rdc=1",
-"https://youtube.com/channel/UCXep5rT6DKsUtAvkwKdKiNg"
+{
+"text": "ABOUT TY",
+"href": "https://www.typinkins.com/meet-ty-pinkins"
+},
+{
+"text": "DONATE",
+"href": "https://www.efundraisingconnections.com/c/TyPinkinsforCongress"
+},
+{
+"text": "FULCRUM",
+"href": "https://www.typinkins.com/fulcrum"
+},
+{
+"text": "Go to the Mississippi Secretary of State's website, and put in the address where you are registered to vote.",
+"href": "https://www.sos.ms.gov/elections-voting/polling-place-locator"
+},
+{
+"text": "HOME",
+"href": "https://www.typinkins.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.typinkins.com/issues"
+},
+{
+"text": "JOIN US",
+"href": "https://www.typinkins.com/volunteer"
+},
+{
+"text": "Mississippi Secretary of State's website",
+"href": "https://www.sos.ms.gov/content/documents/elections/Mail-in%20Voter%20Registration%20Application.pdf"
+},
+{
+"text": "Mississippi Secretary of State’s interactive map",
+"href": "https://www.sos.ms.gov/elections-voting/county-election-information"
+},
+{
+"text": "NEWS",
+"href": "https://www.typinkins.com/press-releases"
+},
+{
+"text": "PRESS RELEASES",
+"href": "https://www.typinkins.com/press-releases"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.typinkins.com/privacy-policy"
+},
+{
+"text": "TERMS OF SERVICE",
+"href": "https://www.typinkins.com/terms-of-service"
+},
+{
+"text": "TRANSPARENCY",
+"href": "https://www.typinkins.com/transparency"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdKUj4kqVPtVUslWbkjMniIOTYNu4sZ8pfArDi5pLjgbz-DoQ/viewform"
+},
+{
+"text": "VOTE",
+"href": "https://www.typinkins.com/vote"
+},
+{
+"text": "[image: 1_23fd2a2be53141ed810f4d3dcdcd01fa]",
+"href": "https://web.facebook.com/typinkinsMS?_rdc=1&_rdr="
+},
+{
+"text": "[image: 2_01ab6619093f45388d66736ec22e5885]",
+"href": "https://twitter.com/TyPinkins"
+},
+{
+"text": "[image: 6_81af6121f84c41a5b4391d7d37fce12a]",
+"href": "https://www.instagram.com/typinkins/"
+},
+{
+"text": "[image: 7_203dcdc2ac8b48de89313f90d2a4cda1]",
+"href": "https://www.youtube.com/channel/UCXep5rT6DKsUtAvkwKdKiNg"
+},
+{
+"text": "[image: Transparent Logo_w_IV_edited.png]",
+"href": "https://www.typinkins.com"
+},
+{
+"text": "detailed information on that at the Miss. SoS website",
+"href": "https://www.sos.ms.gov/absentee-voting-information"
+},
+{
+"text": "go here (Miss. SoS website), and put in your information",
+"href": "https://www.msegov.com/sos/voter_registration/amiregistered/Search"
+},
+{
+"text": "the process to get your voting rights restored",
+"href": "https://www.aclu-ms.org/en/campaigns/voting-rights-restoration-project"
+}
 ]

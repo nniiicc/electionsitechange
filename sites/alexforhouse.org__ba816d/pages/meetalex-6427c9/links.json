@@ -1,14 +1,74 @@
 [
-"https://alexforhouse.org/",
-"https://alexforhouse.org/endorsements",
-"https://alexforhouse.org/issues",
-"https://alexforhouse.org/media",
-"https://alexforhouse.org/meetalex",
-"https://alexforhouse.org/volunteer",
-"https://alexforhouse.org/vote-early",
-"https://facebook.com/alexforhouse",
-"https://instagram.com/alexfalconrt",
-"https://secure.actblue.com/donate/alexforhouse",
-"https://twitter.com/alexfalconrt",
-"https://youtube.com/watch?v=hG8hIEiujpk&t=6s"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/alexforhouse"
+},
+{
+"text": "Education & Experience",
+"href": "https://www.alexforhouse.org/meetalex#educationexperience"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexforhouse.org/endorsements"
+},
+{
+"text": "Family & Personal Interests",
+"href": "https://www.alexforhouse.org/meetalex#familyinterests"
+},
+{
+"text": "Gallery",
+"href": "https://www.alexforhouse.org/meetalex#gallery"
+},
+{
+"text": "IN THE NEWS",
+"href": "https://www.alexforhouse.org/media"
+},
+{
+"text": "Meet Alex",
+"href": "https://www.alexforhouse.org/meetalex"
+},
+{
+"text": "Personal History",
+"href": "https://www.alexforhouse.org/meetalex#personal-history"
+},
+{
+"text": "The Issues",
+"href": "https://www.alexforhouse.org/issues"
+},
+{
+"text": "VOTE EARLY",
+"href": "https://www.alexforhouse.org/vote-early"
+},
+{
+"text": "Volunteer",
+"href": "https://www.alexforhouse.org/volunteer"
+},
+{
+"text": "Watch the Boundary Waters Traverse Short Movie Here",
+"href": "https://www.youtube.com/watch?v=hG8hIEiujpk&t=6s"
+},
+{
+"text": "[image: 24 x 36 sign png small.jpg]",
+"href": "https://www.alexforhouse.org"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/alexforhouse"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/alexfalconrt/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/alexfalconrt"
+},
+{
+"text": "[no text]",
+"href": "https://www.alexforhouse.org/media"
+},
+{
+"text": "alexforhouse@gmail.com",
+"href": "mailto:alexforhouse@gmail.com"
+}
 ]

@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://electcarole.com/events/",
- "paid_for_by": null,
+ "fingerprint": "943f891c9d51ba93dd12b7c5edc2701c1fd3a4ee",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events Archive - Carole Fiola",
  "years_mentioned": [
+  "2016",
   "2026"
  ]
 }

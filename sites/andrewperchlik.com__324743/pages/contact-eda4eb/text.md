@@ -1,3 +1,1 @@
-CONTACT
-During the legislative session you can contact me at APerchlik@leg.state.vt.us
-Outside of the session or if related to my re-election campaign please use: AndrewPerchlik@gmail.com, or by filling out the form below:
+0 Skip to Content Meet Andrew Endorsements Vision News Contact Get Involved DONATE Open Menu Close Menu Meet Andrew Endorsements Vision News Contact Get Involved DONATE Open Menu Close Menu Meet Andrew Endorsements Vision News Contact Get Involved DONATE CONTACT During the legislative session you can contact me at APerchlik@leg.state.vt.us Outside of the session or if related to my re-election campaign please use: AndrewPerchlik@gmail.com, or by filling out the form below: Paid for by Vermonters To Elect Andrew Perchlik

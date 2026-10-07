@@ -1,13 +1,1 @@
-Skip to the content
-Home
-Issues
-Legislation
-Contact
-Endorsements
-Home
-Issues
-Legislation
-Contact
-Endorsements
-Libertarian
-Donate
+Skip to the content Home Issues Legislation Contact Endorsements Home Issues Legislation Contact Endorsements Libertarian Donate Mike Saliba LIBERTARIAN FOR CONGRESS themikesaliba@yahoo.com PAID FOR BY THE COMMITTEE TO ELECT MIKE SALIBA Clinton Township, Michigan Keep in touch

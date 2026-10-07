@@ -1,21 +1,17 @@
-WASHINGTON, D.C. – Representatives Susie Lee, Juan Ciscomani, Paul Tonko, and Mike Lawler introduced the bipartisan Streamlining Home Installation of New Energies (SHINE) Act, which would make local permitting for residential solar and other home energy systems better, cheaper, and faster.
+Skip to main content about news volunteer Donate Susie Lee for Congress Congresswoman Lee Leads Bipartisan Permitting Reform Legislation to Cut Red Tape for Residential Solar, Other Home Energy Systems Jan 11, 2026 Back to all news WASHINGTON, D.C. – Representatives Susie Lee, Juan Ciscomani, Paul Tonko, and Mike Lawler introduced the bipartisan Streamlining Home Installation of New Energies (SHINE) Act, which would make local permitting for residential solar and other home energy systems better, cheaper, and faster.
 The legislation would direct the Department of Energy to support state, local, and Tribal governments in automating and expediting their permitting and inspection process for qualifying distributed energy systems, including residential solar, wind, battery storage, and electric vehicle charging and refueling systems.
 “Here in Nevada, where the sun shines more than 300 days a year, solar is one of the most abundant and cost-effective sources of energy we have.
 Our clean energy transition is well underway.
 Nationwide, permitting delays for rooftop solar and other residential energy systems are making this transition more costly and time-consuming for homeowners, businesses, and local governments alike,” said Congresswoman Susie Lee.
-“The SHINE Act is a bipartisan, common-sense solution that will cut delays, save homeowners money, boost our small businesses, and maximize government efficiency.”
-“The SHINE Act represents a commonsense approach to harnessing Arizona’s most abundant natural resource,” said Congressman Juan Ciscomani.
+“The SHINE Act is a bipartisan, common-sense solution that will cut delays, save homeowners money, boost our small businesses, and maximize government efficiency.” “The SHINE Act represents a commonsense approach to harnessing Arizona’s most abundant natural resource,” said Congressman Juan Ciscomani.
 “My state is blessed with an average 300 days of sunshine per year and our challenge is to figure out how to use it in the most efficient, cost-effective way possible.
 This legislation helps us achieve that goal.
 It cuts bureaucratic red tape and streamlines the permitting process to make it easier for homeowners who want to capture the power of the sun.
-The SHINE Act will break down barriers, reduce costs and create exciting new opportunities for residential solar energy.”
-“More and more Americans across the nation are capitalizing on the tremendous opportunities and savings rooftop solar offers; however, permitting barriers and other obstacles are delaying homeowners from receiving these benefits,” said Congressman Paul Tonko.
+The SHINE Act will break down barriers, reduce costs and create exciting new opportunities for residential solar energy.” “More and more Americans across the nation are capitalizing on the tremendous opportunities and savings rooftop solar offers; however, permitting barriers and other obstacles are delaying homeowners from receiving these benefits,” said Congressman Paul Tonko.
 “We’re introducing the SHINE Act to break down these barriers and ensure more efficient, cost-effective solar deployment.
-I’m proud to join my colleagues in pushing to advance this bipartisan, commonsense legislation.”
-“Energy systems are an important part of how many American families power their homes and cars.
+I’m proud to join my colleagues in pushing to advance this bipartisan, commonsense legislation.” “Energy systems are an important part of how many American families power their homes and cars.
 By directing the Department of Energy to create a streamlined permitting and inspection process, this legislation cuts unnecessary red tape while maintaining safety standards,” said Congressman Mike Lawler.
-“Simplifying these approvals will help homeowners adopt new energy technologies faster and modernize our energy infrastructures for future generations.”
-The SHINE Act authorizes $20 million annually for four years to enable the Department of Energy to provide technical assistance, training, and adoption grants to state, local, and Tribal governments for the implementation of a streamlined permitting and inspection process for home-based distributed energy systems.
+“Simplifying these approvals will help homeowners adopt new energy technologies faster and modernize our energy infrastructures for future generations.” The SHINE Act authorizes $20 million annually for four years to enable the Department of Energy to provide technical assistance, training, and adoption grants to state, local, and Tribal governments for the implementation of a streamlined permitting and inspection process for home-based distributed energy systems.
 The leading solution, called Solar Automated Permit Processing Plus (SolarAPP+), is a free, online permitting platform originally developed by the National Renewable Energy Laboratory to provide instant permits for code-compliant residential solar and battery storage systems.
 Of the more than 20,000 local permitting jurisdictions across the country, only about 400 have adopted automated permitting solutions to date.
 Local governments are struggling to keep pace with the number of applications they are receiving for rooftop solar and other residential distributed energy systems.
@@ -38,9 +34,9 @@ The SHINE Act would encourage and support municipalities to adopt a streamlined 
 We thank Congresswoman Lee and Congressmen Ciscomani, Tonko, and Lawler for supporting this commonsense solution to bring more energy to American consumers,” said Amy Heart, Senior Vice President of Policy, Sunrun.
 “Thanks to the SHINE Act, Nevada has a unique opportunity to boost permit revenue and reduce costs and time for both businesses and homeowners.
 By removing the roadblocks that have hindered the growth of solar energy, we're creating a level playing field, where more Nevadans can take control of their energy costs and reduce their environmental impact.
-Nevadans value affordability, efficiency, and accessibility when it comes to energy, so this is a step in the right direction,” said Kristee Watson, Executive Director, Nevada Conservation League
-“For too long, families ready to invest in solar have had to face delays caused by local permitting processes.
+Nevadans value affordability, efficiency, and accessibility when it comes to energy, so this is a step in the right direction,” said Kristee Watson, Executive Director, Nevada Conservation League “For too long, families ready to invest in solar have had to face delays caused by local permitting processes.
 The SHINE Act helps expand a standardized permitting process that will clear backlogs, and empower local governments with the tools to speed up approvals, lower costs, and support Nevada’s clean-energy economy.
 This is a win-win for everyone involved.
 Local governments can save time and money, businesses can move faster, and homeowners get to enjoy clean energy sooner.
 Nevada has led before on solar innovation and this bill helps ensure we keep leading,” said Stephen Hamile, Chair, Nevada Solar Association.
+### 5130 S Fort Apache Rd Ste 215-382 Las Vegas, NV 89148 702-907-7255 Paid for by Susie Lee for Congress home about news volunteer media Donate privacy policy terms Email Us Paid for by Susie Lee for Congress

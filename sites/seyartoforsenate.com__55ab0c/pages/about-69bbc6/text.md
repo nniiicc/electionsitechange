@@ -1,5 +1,4 @@
-About Kelly Seyarto
-Kelly Seyarto was elected to serve the 32nd State Senate District in 2022.
+Home About SD32 Media Accomplishments Endorsements News Home About SD32 Media Accomplishments Endorsements News DONATE About Kelly Seyarto Kelly Seyarto was elected to serve the 32nd State Senate District in 2022.
 He previously served the 67th State Assembly District from 2020-2022.
 He is a retired firefighter who served numerous Southern California communities during a career that spanned 35 years.
 He began his career as a Firefighter/Paramedic for the Inglewood Fire Department and retired at the rank of Battalion Chief from the Los Angeles County Fire Department in 2015.
@@ -11,3 +10,8 @@ In addition to his public service over the years, Kelly has been a community lea
 Kelly obtained his Associates of Science in Fire Science from Mt.
 San Antonio College, a Bachelor’s of Science in Fire Administration and Technology from CSU Los Angeles, and a Master of Public Administration degree from CSU Long Beach.
 Kelly and Denise have been married since 1987 and they have three daughters.
+Send Me Text Updates!
+Notice: JavaScript is required for this content.
+Paid for by Seyarto for Senate 2026 FPPC ID# 1456761 Donate By Check First, download, print, and fill out this form.
+Donation Form Next, mail the form and your check to: Seyarto for Senate 2026 P.O.
+Box 850 Wilton, CA 95693 Want To Donate Online? $# $# $# $# $# Other Scroll to Top

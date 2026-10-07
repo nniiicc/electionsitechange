@@ -1,29 +1,114 @@
 [
-"https://benbakebergmn.com/",
-"https://benbakebergmn.com/articles",
-"https://benbakebergmn.com/bills",
-"https://benbakebergmn.com/contact",
-"https://benbakebergmn.com/donate",
-"https://benbakebergmn.com/endorsements",
-"https://benbakebergmn.com/events",
-"https://benbakebergmn.com/meet-ben",
-"https://benbakebergmn.com/photos",
-"https://benbakebergmn.com/priorities",
-"https://benbakebergmn.com/privacy-policy",
-"https://benbakebergmn.com/voting",
-"https://benbakebergmn.us16.list-manage.com/subscribe?u=de42b9ae8f6047142bdc6aed9&id=95914a1e80",
-"https://facebook.com/benbakebergmn",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF0056&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF0957&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1052&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1435&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1803&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF2201&y=2025&ssn=0",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF2318&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF2329&y=2025&ssn=0",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF2388&y=2025&ssn=0",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF2433&y=2025&ssn=0",
-"https://twitter.com/BenBakebergMN",
-"https://youtube.com/@BenBakebergforMN",
-"https://youtube.com/watch?v=Xb00NcACDtg"
+{
+"text": "Articles",
+"href": "https://benbakebergmn.com/articles/"
+},
+{
+"text": "Bills",
+"href": "https://benbakebergmn.com/bills/"
+},
+{
+"text": "Contact",
+"href": "https://benbakebergmn.com/contact/"
+},
+{
+"text": "DOE Video",
+"href": "https://www.youtube.com/watch?v=Xb00NcACDtg"
+},
+{
+"text": "Donate",
+"href": "https://benbakebergmn.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://benbakebergmn.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://benbakebergmn.com/events/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/BenBakebergMN"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/benbakebergmn"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@BenBakebergforMN"
+},
+{
+"text": "Home",
+"href": "https://benbakebergmn.com/"
+},
+{
+"text": "House File 1052",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1052&ssn=0&y=2025"
+},
+{
+"text": "House File 1435",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1435&ssn=0&y=2025"
+},
+{
+"text": "House File 1803",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1803&ssn=0&y=2025"
+},
+{
+"text": "House File 2201",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2201&y=2025&ssn=0"
+},
+{
+"text": "House File 2318",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2318&ssn=0&y=2025"
+},
+{
+"text": "House File 2329",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2329&y=2025&ssn=0"
+},
+{
+"text": "House File 2388",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2388&y=2025&ssn=0"
+},
+{
+"text": "House File 2433",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2433&y=2025&ssn=0"
+},
+{
+"text": "House File 56",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF0056&ssn=0&y=2025"
+},
+{
+"text": "House File 957",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF0957&ssn=0&y=2025"
+},
+{
+"text": "Meet Ben",
+"href": "https://benbakebergmn.com/meet-ben/"
+},
+{
+"text": "Photos",
+"href": "https://benbakebergmn.com/photos/"
+},
+{
+"text": "Priorities",
+"href": "https://benbakebergmn.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://benbakebergmn.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://benbakebergmn.us16.list-manage.com/subscribe?u=de42b9ae8f6047142bdc6aed9&id=95914a1e80"
+},
+{
+"text": "Voting",
+"href": "https://benbakebergmn.com/voting/"
+},
+{
+"text": "[image: Bakeberg for Senate]",
+"href": "https://benbakebergmn.com/"
+}
 ]

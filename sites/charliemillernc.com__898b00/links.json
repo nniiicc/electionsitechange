@@ -1,8 +1,38 @@
 [
-"https://capenconsulting.com/",
-"https://charliemillernc.com/",
-"https://charliemillernc.com/about",
-"https://charliemillernc.com/donate",
-"https://charliemillernc.com/media",
-"https://facebook.com/Charlie.MillerNCHouse19"
+{
+"text": "ABOUT",
+"href": "https://www.charliemillernc.com/about"
+},
+{
+"text": "Capen Consulting, LLC.",
+"href": "https://www.capenconsulting.com"
+},
+{
+"text": "DONATE",
+"href": "https://www.charliemillernc.com/donate"
+},
+{
+"text": "DONATE >>>",
+"href": "https://www.charliemillernc.com/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.charliemillernc.com"
+},
+{
+"text": "MEDIA",
+"href": "https://www.charliemillernc.com/media"
+},
+{
+"text": "[image: CMiller Logo.png]",
+"href": "https://www.charliemillernc.com"
+},
+{
+"text": "[image: Capen Consulting Logo vWhite_edited.png]",
+"href": "https://www.capenconsulting.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Charlie.MillerNCHouse19"
+}
 ]

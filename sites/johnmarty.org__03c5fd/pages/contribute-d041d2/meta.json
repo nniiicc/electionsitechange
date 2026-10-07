@@ -1,6 +1,8 @@
 {
- "description": "Please donate to John\u2019s campaign online, or mail a check to the address below. Any amount helps, but the maximum contribution John accepts is $200 per person.",
+ "description": "Please donate to John’s campaign online, or mail a check to the address below. Any amount helps, but the maximum contribution John accepts is $200 per person.",
  "final_url": "https://www.johnmarty.org/contribute",
+ "fingerprint": "3621d11c9d5b26f79e758e13daaec74f709ba968",
+ "format": 3,
  "paid_for_by": "Paid for by the Senator John Marty Volunteer Committee",
  "title": "Contribute | John Marty for Senate",
  "years_mentioned": []

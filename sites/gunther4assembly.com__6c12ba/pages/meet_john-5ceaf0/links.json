@@ -1,20 +1,78 @@
 [
-"https://campaignpartner.com/",
-"https://gunther4assembly.com/",
-"https://gunther4assembly.com/contact",
-"https://gunther4assembly.com/contribute",
-"https://gunther4assembly.com/contribute?amount=100",
-"https://gunther4assembly.com/contribute?amount=150",
-"https://gunther4assembly.com/contribute?amount=25",
-"https://gunther4assembly.com/contribute?amount=250",
-"https://gunther4assembly.com/contribute?amount=5",
-"https://gunther4assembly.com/contribute?amount=50",
-"https://gunther4assembly.com/donate-by-mail",
-"https://gunther4assembly.com/home",
-"https://gunther4assembly.com/meet_john",
-"https://gunther4assembly.com/news",
-"https://gunther4assembly.com/view-endorsements",
-"https://gunther4assembly.com/volunteer",
-"https://gunther4assembly.com/vote",
-"https://gunther4assembly.com/yard-sign"
+{
+"text": "$#",
+"href": "https://gunther4assembly.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://gunther4assembly.com/contribute?amount=150"
+},
+{
+"text": "$#",
+"href": "https://gunther4assembly.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://gunther4assembly.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://gunther4assembly.com/contribute?amount=5"
+},
+{
+"text": "$#",
+"href": "https://gunther4assembly.com/contribute?amount=50"
+},
+{
+"text": "Contact",
+"href": "https://gunther4assembly.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://gunther4assembly.com/contribute"
+},
+{
+"text": "Donate by Mail",
+"href": "https://gunther4assembly.com/donate-by-mail"
+},
+{
+"text": "Endorsements",
+"href": "https://gunther4assembly.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://gunther4assembly.com/home"
+},
+{
+"text": "Meet John",
+"href": "https://gunther4assembly.com/meet_john"
+},
+{
+"text": "News",
+"href": "https://gunther4assembly.com/news"
+},
+{
+"text": "Other",
+"href": "https://gunther4assembly.com/contribute"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Volunteer",
+"href": "https://gunther4assembly.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://gunther4assembly.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://gunther4assembly.com/yard-sign"
+},
+{
+"text": "[image: John Gunther Assembly]",
+"href": "https://gunther4assembly.com/"
+}
 ]

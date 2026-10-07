@@ -1,31 +1,162 @@
 [
-"https://cincinnati.com/story/opinion/contributors/2024/03/05/critical-gaps-in-care-for-developmentally-disabled-must-be-addressed/72617425007?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z114224e1195xxv114224d--47--b--47--&gca-ft=138&gca-ds=sophi",
-"https://daytondailynews.com/local/education/ohio-lawmakers-want-public-to-be-able-to-easily-compare-nearby-private-public-schools/article_b4044ff9-45ef-4ce7-a90a-c21a0a6d6c82.html",
-"https://facebook.com/MikeOdioso",
-"https://fox19.com/2025/10/08/ohio-lawmakers-introduce-legislation-prevent-crowdfunding-violent-crimes",
-"https://local12.com/news/local/ohio-bill-seeks-toughen-penalties-drivers-who-seriously-injure-people-crosswalks-injuries-bipartisan-support-law-traffic-deaths-stats-fatalities-hospitalized-crash-crashes-wrecks-crosswalk-pedestrian-walking-vehicular-assault-fine-fees-jail-cincinnati",
-"https://odiosoforohio.com/",
-"https://odiosoforohio.com/_files/ugd/a61f8b_42019df0c94c4855a0023d2ce0ce35d5.pdf",
-"https://odiosoforohio.com/_files/ugd/a61f8b_630879c1a03c4993a533e2ceb07f6705.pdf",
-"https://odiosoforohio.com/_files/ugd/a61f8b_88395b78015b4fab9a9439bb5efb0e46.pdf",
-"https://odiosoforohio.com/_files/ugd/a61f8b_b7a6808f35394794905a25c9848c2ec9.pdf",
-"https://odiosoforohio.com/_files/ugd/a61f8b_c183951af2cf40f385848d27a6336bfd.pdf",
-"https://odiosoforohio.com/contact",
-"https://odiosoforohio.com/deliveringresults",
-"https://odiosoforohio.com/getinvolved",
-"https://odiosoforohio.com/meetmike",
-"https://odiosoforohio.com/news",
-"https://odiosoforohio.com/privacypolicy",
-"https://odiosoforohio.com/tos",
-"https://ohiohouse.gov/members/mike-odioso/news/odioso-applauds-plan-to-extend-operations-at-miami-fort-power-plant-140600",
-"https://ohiohouse.gov/members/mike-odioso/news/odioso-appointed-as-vice-chair-of-education-committee-126369",
-"https://ohiohouse.gov/members/mike-odioso/news/odioso-lett-introduce-bill-to-expand-inclusive-housing-options-for-people-with-developmental-disabilities-139381",
-"https://ohiohouse.gov/members/mike-odioso/news/odioso-sworn-in-to-serve-ohios-30th-house-district-125988",
-"https://ohiohouse.gov/members/mike-odioso/news/odioso-to-speak-at-ohio-computer-science-and-ai-for-all-advocacy-day-141570",
-"https://ohiohouse.gov/members/mike-odioso/news/ohio-house-passes-resolution-honoring-pope-leo-xiv-the-first-american-pope-138226",
-"https://ohiohouse.gov/members/mike-odioso/news/reps-click-odioso-provide-sponsor-testimony-on-win-act-138905",
-"https://ohiohouse.gov/news/republican/ohio-house-passes-rep-odiosos-grand-jury-privacy-and-protection-act-144439",
-"https://ohiohouse.gov/news/republican/reps-odioso-lett-announce-creation-of-the-developmental-disabilities-legislative-caucus-144519",
-"https://secure.anedot.com/mike-odioso-for-ohio/donate",
-"https://twitter.com/mikeodioso"
+{
+"text": "CONTACT",
+"href": "https://www.odiosoforohio.com/contact"
+},
+{
+"text": "DELIVERING RESULTS",
+"href": "https://www.odiosoforohio.com/deliveringresults"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/mike-odioso-for-ohio/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.odiosoforohio.com/getinvolved"
+},
+{
+"text": "MEET MIKE",
+"href": "https://www.odiosoforohio.com/meetmike"
+},
+{
+"text": "NEWS",
+"href": "https://www.odiosoforohio.com/news"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.odiosoforohio.com/privacypolicy"
+},
+{
+"text": "READ MORE >>>",
+"href": "https://local12.com/news/local/ohio-bill-seeks-toughen-penalties-drivers-who-seriously-injure-people-crosswalks-injuries-bipartisan-support-law-traffic-deaths-stats-fatalities-hospitalized-crash-crashes-wrecks-crosswalk-pedestrian-walking-vehicular-assault-fine-fees-jail-cincinnati"
+},
+{
+"text": "READ MORE >>>",
+"href": "https://ohiohouse.gov/members/mike-odioso/news/odioso-applauds-plan-to-extend-operations-at-miami-fort-power-plant-140600"
+},
+{
+"text": "READ MORE >>>",
+"href": "https://ohiohouse.gov/members/mike-odioso/news/odioso-appointed-as-vice-chair-of-education-committee-126369"
+},
+{
+"text": "READ MORE >>>",
+"href": "https://ohiohouse.gov/members/mike-odioso/news/odioso-lett-introduce-bill-to-expand-inclusive-housing-options-for-people-with-developmental-disabilities-139381"
+},
+{
+"text": "READ MORE >>>",
+"href": "https://ohiohouse.gov/members/mike-odioso/news/odioso-sworn-in-to-serve-ohios-30th-house-district-125988"
+},
+{
+"text": "READ MORE >>>",
+"href": "https://ohiohouse.gov/members/mike-odioso/news/odioso-to-speak-at-ohio-computer-science-and-ai-for-all-advocacy-day-141570"
+},
+{
+"text": "READ MORE >>>",
+"href": "https://ohiohouse.gov/news/republican/ohio-house-passes-rep-odiosos-grand-jury-privacy-and-protection-act-144439"
+},
+{
+"text": "READ MORE >>>",
+"href": "https://ohiohouse.gov/news/republican/reps-odioso-lett-announce-creation-of-the-developmental-disabilities-legislative-caucus-144519"
+},
+{
+"text": "READ MORE >>>",
+"href": "https://www.cincinnati.com/story/opinion/contributors/2024/03/05/critical-gaps-in-care-for-developmentally-disabled-must-be-addressed/72617425007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z114224e1195xxv114224d--47--b--47--&gca-ft=138&gca-ds=sophi"
+},
+{
+"text": "READ MORE >>>",
+"href": "https://www.daytondailynews.com/local/education/ohio-lawmakers-want-public-to-be-able-to-easily-compare-nearby-private-public-schools/article_b4044ff9-45ef-4ce7-a90a-c21a0a6d6c82.html"
+},
+{
+"text": "READ MORE >>>",
+"href": "https://www.fox19.com/2025/10/08/ohio-lawmakers-introduce-legislation-prevent-crowdfunding-violent-crimes/"
+},
+{
+"text": "READ MORE >>>",
+"href": "https://www.ohiohouse.gov/members/mike-odioso/news/ohio-house-passes-resolution-honoring-pope-leo-xiv-the-first-american-pope-138226"
+},
+{
+"text": "READ MORE >>>",
+"href": "https://www.ohiohouse.gov/members/mike-odioso/news/reps-click-odioso-provide-sponsor-testimony-on-win-act-138905"
+},
+{
+"text": "TERMS OF SERVICE",
+"href": "https://www.odiosoforohio.com/tos"
+},
+{
+"text": "[image: 21987.jpg]",
+"href": "https://ohiohouse.gov/members/mike-odioso/news/odioso-sworn-in-to-serve-ohios-30th-house-district-125988"
+},
+{
+"text": "[image: 38122.jpg]",
+"href": "https://local12.com/news/local/ohio-bill-seeks-toughen-penalties-drivers-who-seriously-injure-people-crosswalks-injuries-bipartisan-support-law-traffic-deaths-stats-fatalities-hospitalized-crash-crashes-wrecks-crosswalk-pedestrian-walking-vehicular-assault-fine-fees-jail-cincinnati"
+},
+{
+"text": "[image: 39942.jpg]",
+"href": "https://ohiohouse.gov/news/republican/ohio-house-passes-rep-odiosos-grand-jury-privacy-and-protection-act-144439"
+},
+{
+"text": "[image: AB1_5901.jpg]",
+"href": "https://www.cincinnati.com/story/opinion/contributors/2024/03/05/critical-gaps-in-care-for-developmentally-disabled-must-be-addressed/72617425007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z114224e1195xxv114224d--47--b--47--&gca-ft=138&gca-ds=sophi"
+},
+{
+"text": "[image: AB2_2170.jpg]",
+"href": "https://www.ohiohouse.gov/members/mike-odioso/news/reps-click-odioso-provide-sponsor-testimony-on-win-act-138905"
+},
+{
+"text": "[image: AB2_8495.jpg]",
+"href": "https://ohiohouse.gov/members/mike-odioso/news/odioso-to-speak-at-ohio-computer-science-and-ai-for-all-advocacy-day-141570"
+},
+{
+"text": "[image: AB2_9839.jpg]",
+"href": "https://ohiohouse.gov/members/mike-odioso/news/odioso-appointed-as-vice-chair-of-education-committee-126369"
+},
+{
+"text": "[image: AB2_9864.jpg]",
+"href": "https://ohiohouse.gov/news/republican/reps-odioso-lett-announce-creation-of-the-developmental-disabilities-legislative-caucus-144519"
+},
+{
+"text": "[image: AdobeStock_1475012030.jpeg]",
+"href": "https://www.ohiohouse.gov/members/mike-odioso/news/ohio-house-passes-resolution-honoring-pope-leo-xiv-the-first-american-pope-138226"
+},
+{
+"text": "[image: AdobeStock_216776127.jpeg]",
+"href": "https://ohiohouse.gov/members/mike-odioso/news/odioso-lett-introduce-bill-to-expand-inclusive-housing-options-for-people-with-developmental-disabilities-139381"
+},
+{
+"text": "[image: AdobeStock_749542017.jpeg]",
+"href": "https://www.cincinnati.com/story/opinion/contributors/2024/03/05/critical-gaps-in-care-for-developmentally-disabled-must-be-addressed/72617425007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z114224e1195xxv114224d--47--b--47--&gca-ft=138&gca-ds=sophi"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MikeOdioso/"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/mikeodioso"
+},
+{
+"text": "[no text]",
+"href": "https://www.odiosoforohio.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.odiosoforohio.com/_files/ugd/a61f8b_42019df0c94c4855a0023d2ce0ce35d5.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.odiosoforohio.com/_files/ugd/a61f8b_630879c1a03c4993a533e2ceb07f6705.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.odiosoforohio.com/_files/ugd/a61f8b_88395b78015b4fab9a9439bb5efb0e46.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.odiosoforohio.com/_files/ugd/a61f8b_b7a6808f35394794905a25c9848c2ec9.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.odiosoforohio.com/_files/ugd/a61f8b_c183951af2cf40f385848d27a6336bfd.pdf"
+}
 ]

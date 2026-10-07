@@ -1,9 +1,30 @@
 [
-"http://instagram.com/potterforsd",
-"https://facebook.com/share/1PVtL1brkP?mibextid=wwXIfr",
-"https://potterforsd.com/",
-"https://potterforsd.com/blog",
-"https://potterforsd.com/cart",
-"https://potterforsd.com/faq",
-"https://secure.actblue.com/donate/amanda-potter-1"
+{
+"text": "0",
+"href": "https://www.potterforsd.com/cart"
+},
+{
+"text": "Blog",
+"href": "https://www.potterforsd.com/blog"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/amanda-potter-1"
+},
+{
+"text": "FAQ",
+"href": "https://www.potterforsd.com/faq"
+},
+{
+"text": "[image: Amanda Potter for SD State House]",
+"href": "https://www.potterforsd.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/potterforsd"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1PVtL1brkP/?mibextid=wwXIfr"
+}
 ]

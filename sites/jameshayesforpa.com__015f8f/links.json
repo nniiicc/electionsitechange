@@ -1,17 +1,70 @@
 [
-"https://facebook.com/jameshayesforpa",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/jameshayesforpa",
-"https://jameshayesforpa.com/",
-"https://jameshayesforpa.com/about",
-"https://jameshayesforpa.com/donate",
-"https://jameshayesforpa.com/get-involved",
-"https://jameshayesforpa.com/newsroom",
-"https://jameshayesforpa.com/policy-vision",
-"https://jameshayesforpa.com/video%3A-why-im-running",
-"https://linkedin.com/drjameskhayes",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/james-hayes-for-congress/donate-now?exitIntent=true",
-"https://x.com/jameshayesforpa"
+{
+"text": "About",
+"href": "https://jameshayesforpa.com/about"
+},
+{
+"text": "Donate",
+"href": "https://jameshayesforpa.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/james-hayes-for-congress/donate-now?exitIntent=true"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://jameshayesforpa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://jameshayesforpa.com/"
+},
+{
+"text": "NEWSROOM",
+"href": "https://jameshayesforpa.com/newsroom"
+},
+{
+"text": "POLICY VISION",
+"href": "https://jameshayesforpa.com/policy-vision"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "See My Vision",
+"href": "https://jameshayesforpa.com/policy-vision#fe65ece5-c957-491e-b4b4-088d4d5a70a8"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "VIDEO: WHY I'M RUNNING",
+"href": "https://jameshayesforpa.com/video%3A-why-im-running"
+},
+{
+"text": "[image]",
+"href": "https://jameshayesforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jameshayesforpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jameshayesforpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/drjameskhayes"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/jameshayesforpa"
+}
 ]

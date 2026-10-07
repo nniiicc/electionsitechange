@@ -1,5 +1,34 @@
 [
-"https://dunnforgeorgia.com/",
-"https://dunnforgeorgia.com/privacy",
-"https://secure.psqimpact.com/donate/dunn-for-georgia/donate-today"
+{
+"text": "$#",
+"href": "https://secure.psqimpact.com/donate/dunn-for-georgia/donate-today"
+},
+{
+"text": "About",
+"href": "https://www.dunnforgeorgia.com/#AboutArthur"
+},
+{
+"text": "DONATE",
+"href": "https://secure.psqimpact.com/donate/dunn-for-georgia/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.dunnforgeorgia.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.dunnforgeorgia.com/#Issues"
+},
+{
+"text": "OTHER",
+"href": "https://secure.psqimpact.com/donate/dunn-for-georgia/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.dunnforgeorgia.com/privacy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dunnforgeorgia.com/#Volunteer"
+}
 ]

@@ -1,43 +1,35 @@
-📢 Join the movement to Axe the Tax!
-Sign the petition and show your support for this bold reform:
-👉 Axe the Income Tax Petition – Americans for Prosperity SC
-📰 In the News: South Carolina’s Tax Reform Makes National Headlines
-This plan is already gaining national attention.
-Here are just a few headlines:
-• Forbes: South Carolina Goes From Tax Cut Laggard to Leader
-• Post & Courier: SC Republicans Propose Income Tax Cuts
-• SC Daily Gazette: GOP’s Historic Tax Cut Plan
-• ABC Columbia: SC Bill Aims to Drop Income Tax Rate
-• US News: SC Wants to Accelerate Push to Lower Income Taxes
-⚖️ Holding Fentanyl Dealers Accountable
-The fentanyl crisis is ravaging communities across our state.
+Meet Kathy Important Issues Media News Videos Weekly Updates 2023 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9 Week 10 Week 11 Week 12 Week 13 Week 14 Week 15 Week 16 Week 17 Week 18 Week 19 Week 20 Week 21 Week 22 July 2023 August 2023 September 2023 October 2023 November 2023 December 2023 2024 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 8 Week 9 Week 10 Week 11 Week 12 Week 14 Week 16 Week 17 Final Week Update First Summer Update June Primary Runoff Announcement End of Session Wrap-Up July Summary Update Fall Update Pre-Election Update End of November Update 2025 End of Year Update End of January Update for the 126th Session February 9th Update February 16th Update February 23rd Update March 2nd Update March 9th Update March 16th Update March 23rd Update March 30th Update April 6th Update April 13th Update April 27th Update May 4th Update May 11th Update June 8th Update Summer Update Fall 2025 Update 2025 Year-End Update 2026 Session 126 - Second Year Week 1 Update January 25th Update February 1st Update March 9th Update March 15th Update March 22nd Update March 29th Update April 6th Update April 19th Update April 26th Update May 3rd Weekly Update May 12th Update May 24th Update June 28th Update August 16th Update Donate DONATE Meet Kathy Important Issues Media News Videos Weekly Updates 2023 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9 Week 10 Week 11 Week 12 Week 13 Week 14 Week 15 Week 16 Week 17 Week 18 Week 19 Week 20 Week 21 Week 22 July 2023 August 2023 September 2023 October 2023 November 2023 December 2023 2024 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 8 Week 9 Week 10 Week 11 Week 12 Week 14 Week 16 Week 17 Final Week Update First Summer Update June Primary Runoff Announcement End of Session Wrap-Up July Summary Update Fall Update Pre-Election Update End of November Update 2025 End of Year Update End of January Update for the 126th Session February 9th Update February 16th Update February 23rd Update March 2nd Update March 9th Update March 16th Update March 23rd Update March 30th Update April 6th Update April 13th Update April 27th Update May 4th Update May 11th Update June 8th Update Summer Update Fall 2025 Update 2025 Year-End Update 2026 Session 126 - Second Year Week 1 Update January 25th Update February 1st Update March 9th Update March 15th Update March 22nd Update March 29th Update April 6th Update April 19th Update April 26th Update May 3rd Weekly Update May 12th Update May 24th Update June 28th Update August 16th Update Donate March 30th Update Sunday, March 30 , 2025 It’s hard to believe we’re already two-thirds of the way through the 2025 legislative session—but we’re not slowing down.
+This week, I joined my House Republican Caucus members in announcing a historic tax reform plan that will cut taxes, simplify the system, and make South Carolina one of the most competitive states in the nation when it comes to personal income tax.
+And that wasn’t all—several other important bills advanced this week, including legislation to crack down on fentanyl dealers, defend Second Amendment rights, and protect benefits for our firefighters. 💰 A Bold, Historic Tax Reform Plan for South Carolina: This week, I was proud to join my colleagues in supporting H.4216, a newly introduced tax reform bill that would deliver the most significant income tax cut in South Carolina history.
+Right now, South Carolina has the highest personal income tax rate in the Southeast—but this bill will change that.
+Here’s how: ✅ Lowers the top income tax rate from 6.2% to a simple, flat 3.99% ✅ Makes South Carolina more competitive than North Carolina (4.25%) and Georgia (5.39%) ✅ Includes a path to further reduce the rate to 2.49% as economic benchmarks are met—giving South Carolina the lowest rate in the nation other than the states with 0%, who tend to have higher property taxes, sales tax, or accommodations taxes. ✅ Keeps key exemptions in place (no taxes on groceries or medicine) ✅ Does not raise sales or property taxes to make up the difference ✅ Moves us off the federal tax base so Washington no longer controls our tax code Working together with Grover Norquist of Americans for Tax Reform, the SC House leadership worked hard to get both the Senate and Governor McMaster on board before our announcement.
+A lower, flat tax will likely spur job growth and help South Carolina continue to lead in the Southeast!
+This plan is about returning more of your hard-earned money to your family, strengthening our economy, and putting South Carolina—not Washington—in charge of our future.
+I will be reviewing various aspects of this bill carefully before voting in the next two weeks.
+As you may know, sponsoring a bill does not mean I agree with everything in it, but it causes me to be notified when the Subcommittee Hearing is being held so that I can bring possible questions or even amendments to members of the Committee for consideration.
+I believe there may be several issues that need addressing, and will focus on getting these right before the bill is brought to the full House for a vote. 📢 Join the movement to Axe the Tax!
+Sign the petition and show your support for this bold reform: 👉 Axe the Income Tax Petition – Americans for Prosperity SC 📰 In the News: South Carolina’s Tax Reform Makes National Headlines This plan is already gaining national attention.
+Here are just a few headlines: • Forbes: South Carolina Goes From Tax Cut Laggard to Leader • Post & Courier: SC Republicans Propose Income Tax Cuts • SC Daily Gazette: GOP’s Historic Tax Cut Plan • ABC Columbia: SC Bill Aims to Drop Income Tax Rate • US News: SC Wants to Accelerate Push to Lower Income Taxes ⚖️ Holding Fentanyl Dealers Accountable The fentanyl crisis is ravaging communities across our state.
 This week, the House Judiciary Committee gave a favorable report to S.156, the Drug-Induced Homicide Bill.
 This legislation would make it a felony—punishable by up to 30 years in prison—for anyone who unlawfully provides fentanyl that results in an overdose death.
 It also ensures that a victim’s personal drug use does not shield a dealer from prosecution.
-I will once again vote for this bill when it reaches the House floor in the coming weeks.
-🔒 Protecting Your Second Amendment Rights
-This week, the General Laws House Judiciary subcommittee advanced H.3930, the Second Amendment Financial Privacy Act.
+I will once again vote for this bill when it reaches the House floor in the coming weeks. 🔒 Protecting Your Second Amendment Rights This week, the General Laws House Judiciary subcommittee advanced H.3930, the Second Amendment Financial Privacy Act.
 This bill prevents government agencies from keeping financial records that could be used to track or surveil lawful firearm purchases—except in the case of legitimate criminal investigations.
-This is a commonsense protection of your constitutional rights, and I was glad to support it with my vote in the Subcommittee hearing.
-🚒 Supporting Firefighters Who Put Their Lives on the Line
-The House Labor, Commerce, and Industry Committee took a key step forward this week by advancing H.3163, a bill that expands workers’ compensation coverage for firefighters.
+This is a commonsense protection of your constitutional rights, and I was glad to support it with my vote in the Subcommittee hearing. 🚒 Supporting Firefighters Who Put Their Lives on the Line The House Labor, Commerce, and Industry Committee took a key step forward this week by advancing H.3163, a bill that expands workers’ compensation coverage for firefighters.
 It ensures that if a firefighter suffers a stroke while actively fighting a fire, responding to a rescue, or participating in strenuous training, that condition is presumed to be job-related.
 It’s a simple way to honor and support those who serve our communities so bravely.
-Requiring Training for First Responders Regarding Autistic or Neurodivergent Individuals
-H.3285 is a bill I introduced that was heard in the General Laws Subcommittee this week, and passed unanimously!
+Requiring Training for First Responders Regarding Autistic or Neurodivergent Individuals H.3285 is a bill I introduced that was heard in the General Laws Subcommittee this week, and passed unanimously!
 I am thrilled that this companion bill to the one from last year that created the "Just Bee - Autistic/Neurodivergent" license tag will help better prepare law enforcement and firefighters when they encounter a vehicle with someone onboard with autism, a burning house or building with an autistic individual inside, or even a personal encounter in public.
 Autism does not have a certain appearance, so it is critical that first responders know signs to look for and how to deal with the situation effectively.
 This bill advances to the full Judiciary Committee on Tuesday.
 Here is a video that helps explain this effort.
-63rd Annual South Carolina Prayer Breakfast:
-On Wednesday morning at 7:30AM, the Governor, Speaker of the House, President of the Senate, legislators, corporate leaders, and members of the public gathered for the 63rd Annual South Carolina Prayer Breakfast.
+63rd Annual South Carolina Prayer Breakfast: On Wednesday morning at 7:30AM, the Governor, Speaker of the House, President of the Senate, legislators, corporate leaders, and members of the public gathered for the 63rd Annual South Carolina Prayer Breakfast.
 It was my great honor to be asked in advance to read the New Testament scripture at this event.
 The passage was Acts 2:32-42, where Peter is speaking to the multitudes gathered on the Day of Pentacost after the crowd has heard the disciples of Jesus all talking in different languages that represent the very diverse group of gathered visitors.
 We heard from Governor McMaster, House Speaker Smith, Senate President Alexander, and several other members of the General Assembly for other readings and prayers.
 The keynote speaker was Keller Kassam, President of Dominion Energy South Carolina, who based on his incredible presentation might have a second calling as a preacher!
 It was very inspiring to gather at this event and be reminded that no matter what we do in Columbia, our highest calling is to follow the path that God has for each of us.
-Around the District and the Lowcountry:
-As you probably know by now, we have a new Town Council Member in Mount Pleasant.
+Around the District and the Lowcountry: As you probably know by now, we have a new Town Council Member in Mount Pleasant.
 Congratulations to Mike Tinkey, and we wish him all the best in serving the people of Mount Pleasant.
 I had positive feedback regarding last week's email where I encouraged readers, the majority of whom are in District 80, and therefore the north end of Mount Pleasant, to please get out and vote for the candidate who was from this end of town, conservative, and seemed to have the most support from other politically active members of our community.
 Bob Swain came in second in a very crowded field of candidates.
@@ -50,3 +42,9 @@ This next 7 months will be the first time in many years that the north end of Mo
 It remains to be seen whether this will be a problem or not, but I hope that regardless of how the year proceeds, voters will recognize that all politics are local and impact them meaningfully.
 We need to go to the polls in November and make sure our voices are heard, and that we have representation from all parts of the community.
 I encourage those candidates who ran this time and had a sizeable vote count to run again, as there will be 4 Council seats plus the Mayor on the ballot.
+Sign Up Now to Stay Connected Stay Connected Last Name Email Address Phone Number Address Zip Code Thank you for signing up.
+We will continue to stay connected and share with you the latest from our campaign.
+Oops, there was an error sending your message.
+Please try again later.
+Copyright, # Kathy Landing kl@kathylanding.com 2114 Sewee Indian Ct., Mt.
+Pleasant, SC 29466 Paid for and approved by Representative Kathy Landing ﻿ for SC State House District 80 Privacy Policy Share by:

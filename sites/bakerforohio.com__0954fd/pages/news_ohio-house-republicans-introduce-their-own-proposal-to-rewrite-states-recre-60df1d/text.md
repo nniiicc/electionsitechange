@@ -1,10 +1,6 @@
-I strongly oppose any effort to overturn the will of Ohio voters.
+Meet Mike Issues News Volunteer Yard Signs Contribute News / Ohio House Republicans introduce their own proposal to rewrite state’s recreational marijuana law 7 Mar Friday, 9:00 AM · 2025 Ohio House Republicans introduce their own proposal to rewrite state’s recreational marijuana law I strongly oppose any effort to overturn the will of Ohio voters.
 When the people of Ohio vote, their decision should be respected—not rewritten by politicians who don’t like the outcome.
-The passage of Issue 2 was clear: Ohioans want legal, regulated recreational marijuana, and lawmakers should focus on implementing the law—not gutting it.
-If elected as State Representative for Ohio’s 52nd District, I will:
-✅ Fight to protect voter-approved laws from being weakened by political maneuvering.
-✅ Push for accountability to ensure our legislature upholds the decisions of the people.
-✅ Advocate for transparency in any legislative changes to ensure the public is fully informed.
-Ohio voters deserve leaders who listen and respect their voices—not ones who work against them.
-I stand with the people of Ohio in defending the policies they voted for, and I will always fight to protect the integrity of our democracy.
-https://ohiocapitaljournal.com/2025/03/06/ohio-house-republicans-introduce-their-own-proposal-to-rewrite-states-recreational-marijuana-law/
+The passage of Issue 2 was clear: Ohioans want legal, regulated recreational marijuana , and lawmakers should focus on implementing the law—not gutting it.
+If elected as State Representative for Ohio’s 52nd District , I will: ✅ Fight to protect voter-approved laws from being weakened by political maneuvering. ✅ Push for accountability to ensure our legislature upholds the decisions of the people. ✅ Advocate for transparency in any legislative changes to ensure the public is fully informed.
+Ohio voters deserve leaders who listen and respect their voices —not ones who work against them.
+I stand with the people of Ohio in defending the policies they voted for, and I will always fight to protect the integrity of our democracy. https://ohiocapitaljournal.com/2025/03/06/ohio-house-republicans-introduce-their-own-proposal-to-rewrite-states-recreational-marijuana-law/ Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com - Political Websites Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

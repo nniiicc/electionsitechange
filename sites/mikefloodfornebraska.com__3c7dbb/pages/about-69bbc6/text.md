@@ -1,3 +1,4 @@
+< !— Google Tag Manager --> Menu Home About Getting Things Done Get Involved Media close Donate About Meet Mike Flood.
 Mike Flood has spent his life creating jobs, growing rural communities, and advancing policies that make Nebraska an even better place to call home.
 Raised in Norfolk, Mike started working in radio in high school.
 He founded Flood Communications in 1999 and grew the company from one Norfolk radio station into a statewide network of fifteen radio stations and five TV stations.
@@ -17,4 +18,4 @@ Mike earned his bachelor’s degree from the University of Notre Dame and receiv
 He and his wife of 23 years, Mandi, were married at St.
 Mary's Catholic Church in Norfolk.
 The Floods live in Norfolk, where they are raising their two sons: Brenden and Blake.
-PAID FOR BY MIKE FLOOD FOR CONGRESS
+Menu Home About Getting Things Done Get Involved Media close Donate Privacy Policy PAID FOR BY MIKE FLOOD FOR CONGRESS

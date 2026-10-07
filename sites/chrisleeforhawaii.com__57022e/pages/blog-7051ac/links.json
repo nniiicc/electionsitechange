@@ -1,14 +1,50 @@
 [
-"https://chrisleeforhawaii.com/",
-"https://chrisleeforhawaii.com/about",
-"https://chrisleeforhawaii.com/creating-change",
-"https://chrisleeforhawaii.com/post/chris-bill-cancels-medical-debt-for-50-000-hawaii-residents",
-"https://chrisleeforhawaii.com/post/climate-change-coming",
-"https://chrisleeforhawaii.com/post/creating-new-sanctuaries-for-hawaii-s-endangered-species",
-"https://chrisleeforhawaii.com/post/our-bill-passes-to-help-good-police-officers-end-policies-keeping-bad-officers-misconduct-secret",
-"https://chrisleeforhawaii.com/protecting-our-community",
-"https://facebook.com/chrisleeHI",
-"https://instagram.com/chrisleehawaii",
-"https://secure.actblue.com/donate/friends-of-chris-lee-1",
-"https://twitter.com/chrisleehawaii"
+{
+"text": "ABOUT CHRIS",
+"href": "https://www.chrisleeforhawaii.com/about"
+},
+{
+"text": "COMMUNITY WINS",
+"href": "https://www.chrisleeforhawaii.com/protecting-our-community"
+},
+{
+"text": "Chris' Bill Cancels Medical Debt For 50,000 Hawaii Residents",
+"href": "https://www.chrisleeforhawaii.com/post/chris-bill-cancels-medical-debt-for-50-000-hawaii-residents"
+},
+{
+"text": "Creating New Sanctuaries For Hawaii's Endangered Species",
+"href": "https://www.chrisleeforhawaii.com/post/creating-new-sanctuaries-for-hawaii-s-endangered-species"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-chris-lee-1"
+},
+{
+"text": "Our Bill Passes To Help Good Cops End Misconduct By Bad Cops",
+"href": "https://www.chrisleeforhawaii.com/post/our-bill-passes-to-help-good-police-officers-end-policies-keeping-bad-officers-misconduct-secret"
+},
+{
+"text": "TACKLING OUR ISSUES",
+"href": "https://www.chrisleeforhawaii.com/creating-change"
+},
+{
+"text": "We're Creating a new Hemp Industry in Hawai'i!",
+"href": "https://www.chrisleeforhawaii.com/post/climate-change-coming"
+},
+{
+"text": "[image: RegularLeeLogoLargeJust white.png]",
+"href": "https://www.chrisleeforhawaii.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/chrisleeHI/"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/chrisleehawaii/"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/chrisleehawaii"
+}
 ]

@@ -1,31 +1,10 @@
-LIFELONG CONSERVATIVE REPUBLICAN
-- Protecting the unborn
-- Protecting religious organizations
-- Protecting Second Amendment rights
-- Act 441 – The Voter Registration
-- and Secure Voter Records Act of 2023
-- Act 544 – Created the Election Integrity Unit
-- Honoring our nation
-- Lowering Taxes 2021, 2022, 2023, 2024, 2025
-- Prevent Chinese from controlling agricultural land in Arkansas
-Highlights of Representative McClure’s
-2025 Legislative Package Include:
-- Act 943 – To amend the law concerning prohibited contracts by state agencies to purchase promotional items manufactured in China.
-- Act 811 – To prevent a foreign-party-controlled business from leasing land; and to prohibit a prohibited foreign party from holding an interest in real property or agricultural land in certain circumstances.
+LIFELONG CONSERVATIVE REPUBLICAN Home Serving Our Communities Legislation Maps Contact Rick Donate RICK'S VOTING RECORD More Home Serving Our Communities Legislation Maps Contact Rick Donate RICK'S VOTING RECORD DONATE Home Serving Our Communities Legislation Maps Contact Rick Donate RICK'S VOTING RECORD DONATE RICK's PRINCIPLED CONSERVATIVE VOTING RECORD Sponsored or Co-Sponsored Legislation That Is Now Arkansas Law Protecting the unborn Protecting religious organizations Protecting Second Amendment rights Act 441 – The Voter Registration and Secure Voter Records Act of 2023 Act 544 – Created the Election Integrity Unit Honoring our nation Lowering Taxes 2021, 2022, 2023, 2024, 2025 Prevent Chinese from controlling agricultural land in Arkansas Highlights of Representative McClure’s 2025 Legislative Package Include: Act 943 – To amend the law concerning prohibited contracts by state agencies to purchase promotional items manufactured in China.
+Act 811 – To prevent a foreign-party-controlled business from leasing land; and to prohibit a prohibited foreign party from holding an interest in real property or agricultural land in certain circumstances.
 This protects Arkansas land from China and other countries considered adversaries.
-- Act 937 – To amend various laws concerning actions related to foreign entities.
-- Act 238 – To amend the Arkansas law concerning criminal offenses; and to criminalize unlawful squatting on property.
-- Act 1008 – To create the Grocery Tax Relief Act by amending the law concerning the sales and use taxes levied on food and food ingredients; and to exempt groceries from state sales and use tax.
-- Act 330 – To increase the Homestead Property Tax Credit.
-- HB1920 – To transfer general revenue to the Aging and Adult Services Fund Account to be used for food services benefiting the elderly.
-- Protect Your Second Amendment Rights
-- 100% Pro-life
-- Teacher Compensation Increases in 2021, 2022, 2023
-- Promote New Job and Industry Growth
-- Unwavering Commitment to Law Enforcement and First Responders
-- Supporting our Military & Veterans
-- Continued Advancement of Education & Workforce Development
-- Protecting Your Religious Liberties
-- Family recreation & youth activities
-- Health and public safety
-- Affordable housing and real estate development
+Act 937 – To amend various laws concerning actions related to foreign entities.
+Act 238 – To amend the Arkansas law concerning criminal offenses; and to criminalize unlawful squatting on property.
+Act 1008 – To create the Grocery Tax Relief Act by amending the law concerning the sales and use taxes levied on food and food ingredients; and to exempt groceries from state sales and use tax.
+Act 330 – To increase the Homestead Property Tax Credit.
+HB1920 – To transfer general revenue to the Aging and Adult Services Fund Account to be used for food services benefiting the elderly.
+What does rick support?
+Protect Your Second Amendment Rights 100% Pro-life Teacher Compensation Increases in 2021, 2022, 2023 Promote New Job and Industry Growth Unwavering Commitment to Law Enforcement and First Responders Supporting our Military & Veterans Continued Advancement of Education & Workforce Development Protecting Your Religious Liberties Family recreation & youth activities Health and public safety Affordable housing and real estate development PAID FOR BY RICK MCCLURE FOR STATE REPRESENTATIVE Powered by

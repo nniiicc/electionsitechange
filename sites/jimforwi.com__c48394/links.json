@@ -1,483 +1,1938 @@
 [
-"http://eepurl.com/iMMLdE",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab100",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1003",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1004",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1009",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1019",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab102",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1027",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1036",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab104",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab105",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1071",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1094",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab120",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab124",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab135",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab143",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab148",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab151",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab153",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab156",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab157",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab158",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab161",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab165",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab17",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab172",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab179",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab181",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab182",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab189",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab191",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab194",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab195",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab197",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab198",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab199",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab20",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab201",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab207",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab209",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab211",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab212",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab216",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab223",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab228",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab229",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab230",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab233",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab237",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab238",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab239",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab24",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab245",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab247",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab248",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab250",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab254",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab258",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab26",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab260",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab263",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab265",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab268",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab27",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab274",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab275",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab276",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab277",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab278",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab281",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab29",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab292",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab296",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab3",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab30",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab300",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab303",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab306",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab308",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab311",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab312",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab313",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab315",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab320",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab329",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab34",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab346",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab35",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab358",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab360",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab362",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab363",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab370",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab373",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab38",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab380",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab382",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab391",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab394",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab40",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab400",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab405",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab409",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab412",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab415",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab417",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab418",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab42",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab422",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab426",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab43",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab430",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab433",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab436",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab442",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab443",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab445",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab447",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab448",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab449",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab450",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab453",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab454",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab455",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab456",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab458",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab46",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab460",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab473",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab477",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab483",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab487",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab491",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab494",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab5",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab501",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab503",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab505",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab518",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab523",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab524",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab525",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab530",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab545",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab546",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab548",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab560",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab573",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab580",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab581",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab590",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab598",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab60",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab603",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab604",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab609",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab61",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab610",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab614",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab630",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab659",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab662",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab663",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab666",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab669",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab671",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab672",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab673",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab674",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab677",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab681",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab682",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab683",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab699",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab700",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab701",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab702",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab709",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab714",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab715",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab717",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab742",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab750",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab752",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab757",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab761",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab762",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab778",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab78",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab791",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab792",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab798",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab806",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab81",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab83",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab84",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab843",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab861",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab866",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab89",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab896",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab897",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab903",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab905",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab906",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab907",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab908",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab909",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab910",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab918",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab923",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab948",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab955",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab956",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab957",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab958",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab961",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab962",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab963",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab964",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab966",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab968",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab972",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab974",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab996",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab997",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr1",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr10",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr102",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr112",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr127",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr133",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr8",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1000",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1010",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1067",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb116",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb117",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb119",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb129",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb13",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb138",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb141",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb147",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb158",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb159",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb161",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb163",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb166",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb168",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb171",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb172",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb175",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb178",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb18",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb180",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb181",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb182",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb183",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb184",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb189",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb191",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb193",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb2",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb20",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb202",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb205",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb207",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb21",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb211",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb214",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb218",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb22",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb220",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb222",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb227",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb230",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb232",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb238",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb239",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb241",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb244",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb245",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb248",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb249",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb25",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb254",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb255",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb26",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb266",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb270",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb275",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb276",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb277",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb279",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb287",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb289",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb295",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb299",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb300",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb304",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb307",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb310",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb312",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb315",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb316",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb317",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb318",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb323",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb331",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb333",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb34",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb36",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb365",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb371",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb372",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb379",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb384",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb389",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb392",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb400",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb405",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb409",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb41",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb414",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb416",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb417",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb419",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb42",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb423",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb431",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb432",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb44",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb440",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb441",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb448",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb449",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb450",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb452",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb453",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb459",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb466",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb467",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb470",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb472",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb473",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb475",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb476",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb478",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb481",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb482",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb485",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb498",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb499",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb5",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb501",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb51",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb519",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb524",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb526",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb529",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb531",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb532",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb537",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb542",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb553",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb554",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb557",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb558",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb57",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb575",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb578",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb58",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb583",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb596",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb598",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb6",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb606",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb607",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb61",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb611",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb620",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb633",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb64",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb640",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb647",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb648",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb649",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb65",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb650",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb651",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb652",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb663",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb666",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb670",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb671",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb672",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb678",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb683",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb684",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb687",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb692",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb699",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb7",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb703",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb705",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb737",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb738",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb750",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb751",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb752",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb753",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb767",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb781",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb782",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb795",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb799",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb82",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb846",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb849",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb862",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb877",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb886",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb887",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb893",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb897",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb899",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb902",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb92",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb936",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb937",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb938",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb940",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb941",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb952",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb953",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb954",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb955",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb956",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb957",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb969",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb970",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb971",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb975",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb986",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb988",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb989",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb998",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb999",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr105",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr11",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr124",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr2",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr4",
-"https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr94",
-"https://facebook.com/jim.piwowarczyk",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjimforwi.com%2F",
-"https://instagram.com/jim790",
-"https://jimforwi.com/",
-"https://jimforwi.com/?page_id=101",
-"https://jimforwi.com/?page_id=103",
-"https://jimforwi.com/?page_id=107",
-"https://jimforwi.com/about-jim",
-"https://jimforwi.com/donate-to-jim-piwowarczyk-for-wisconsin",
-"https://jimforwi.com/donation",
-"https://jimforwi.com/events",
-"https://jimforwi.com/jim-piwowarczyks-endorsements",
-"https://jimforwi.com/jims-legislative-record",
-"https://jimforwi.com/jims-priorities",
-"https://jimforwi.com/latest-campaign-new",
-"https://jimforwi.com/milwaukee-police-association-endorses-jim-piwowarczyk-for-state-assembly",
-"https://jimforwi.com/nra-endorses-jim-piwowarczyk-in-gop-primary-for-98th-assembly",
-"https://jimforwi.com/village-of-sussex-trustee-stacy-riedel-endorses-jim-piwowarczyk-for-assembly",
-"https://jimforwi.com/washington-county-deputy-sheriffs-association-endorses-jim-piwowarczyk",
-"https://jimforwi.com/wisconsin-assembly-district-98-map",
-"https://jimforwi.com/wisconsin-fraternal-order-of-police-endorses-jim-piwowarczyk-in-the-98th-assembly-race",
-"https://jimforwi.com/wisconsin-realtors-association-endorses-jim-piwowarczyk",
-"https://twitter.com/intent/tweet?text=Jim+Piwowarczyk+for+Wisconsin+Assembly+98th+District&url=https%3A%2F%2Fjimforwi.com%2F",
-"https://twitter.com/jim790"
+{
+"text": "AB 1",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1"
+},
+{
+"text": "AB 100",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab100"
+},
+{
+"text": "AB 1003",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1003"
+},
+{
+"text": "AB 1004",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1004"
+},
+{
+"text": "AB 1009",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1009"
+},
+{
+"text": "AB 1019",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1019"
+},
+{
+"text": "AB 102",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab102"
+},
+{
+"text": "AB 1027",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1027"
+},
+{
+"text": "AB 1036",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1036"
+},
+{
+"text": "AB 104",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab104"
+},
+{
+"text": "AB 105",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab105"
+},
+{
+"text": "AB 1071",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1071"
+},
+{
+"text": "AB 1094",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1094"
+},
+{
+"text": "AB 120",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab120"
+},
+{
+"text": "AB 124",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab124"
+},
+{
+"text": "AB 135",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab135"
+},
+{
+"text": "AB 143",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab143"
+},
+{
+"text": "AB 148",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab148"
+},
+{
+"text": "AB 151",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab151"
+},
+{
+"text": "AB 153",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab153"
+},
+{
+"text": "AB 156",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab156"
+},
+{
+"text": "AB 157",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab157"
+},
+{
+"text": "AB 158",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab158"
+},
+{
+"text": "AB 161",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab161"
+},
+{
+"text": "AB 165",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab165"
+},
+{
+"text": "AB 17",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab17"
+},
+{
+"text": "AB 172",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab172"
+},
+{
+"text": "AB 179",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab179"
+},
+{
+"text": "AB 181",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab181"
+},
+{
+"text": "AB 182",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab182"
+},
+{
+"text": "AB 189",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab189"
+},
+{
+"text": "AB 191",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab191"
+},
+{
+"text": "AB 194",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab194"
+},
+{
+"text": "AB 195",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab195"
+},
+{
+"text": "AB 197",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab197"
+},
+{
+"text": "AB 198",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab198"
+},
+{
+"text": "AB 199",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab199"
+},
+{
+"text": "AB 20",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab20"
+},
+{
+"text": "AB 201",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab201"
+},
+{
+"text": "AB 207",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab207"
+},
+{
+"text": "AB 209",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab209"
+},
+{
+"text": "AB 211",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab211"
+},
+{
+"text": "AB 212",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab212"
+},
+{
+"text": "AB 216",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab216"
+},
+{
+"text": "AB 223",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab223"
+},
+{
+"text": "AB 228",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab228"
+},
+{
+"text": "AB 229",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab229"
+},
+{
+"text": "AB 230",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab230"
+},
+{
+"text": "AB 233",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab233"
+},
+{
+"text": "AB 237",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab237"
+},
+{
+"text": "AB 238",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab238"
+},
+{
+"text": "AB 239",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab239"
+},
+{
+"text": "AB 24",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab24"
+},
+{
+"text": "AB 245",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab245"
+},
+{
+"text": "AB 247",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab247"
+},
+{
+"text": "AB 248",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab248"
+},
+{
+"text": "AB 250",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab250"
+},
+{
+"text": "AB 254",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab254"
+},
+{
+"text": "AB 258",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab258"
+},
+{
+"text": "AB 26",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab26"
+},
+{
+"text": "AB 260",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab260"
+},
+{
+"text": "AB 263",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab263"
+},
+{
+"text": "AB 265",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab265"
+},
+{
+"text": "AB 268",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab268"
+},
+{
+"text": "AB 27",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab27"
+},
+{
+"text": "AB 274",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab274"
+},
+{
+"text": "AB 275",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab275"
+},
+{
+"text": "AB 276",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab276"
+},
+{
+"text": "AB 277",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab277"
+},
+{
+"text": "AB 278",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab278"
+},
+{
+"text": "AB 281",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab281"
+},
+{
+"text": "AB 29",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab29"
+},
+{
+"text": "AB 292",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab292"
+},
+{
+"text": "AB 296",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab296"
+},
+{
+"text": "AB 3",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab3"
+},
+{
+"text": "AB 30",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab30"
+},
+{
+"text": "AB 300",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab300"
+},
+{
+"text": "AB 303",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab303"
+},
+{
+"text": "AB 306",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab306"
+},
+{
+"text": "AB 308",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab308"
+},
+{
+"text": "AB 311",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab311"
+},
+{
+"text": "AB 312",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab312"
+},
+{
+"text": "AB 313",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab313"
+},
+{
+"text": "AB 315",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab315"
+},
+{
+"text": "AB 320",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab320"
+},
+{
+"text": "AB 329",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab329"
+},
+{
+"text": "AB 34",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab34"
+},
+{
+"text": "AB 346",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab346"
+},
+{
+"text": "AB 35",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab35"
+},
+{
+"text": "AB 358",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab358"
+},
+{
+"text": "AB 360",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab360"
+},
+{
+"text": "AB 362",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab362"
+},
+{
+"text": "AB 363",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab363"
+},
+{
+"text": "AB 370",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab370"
+},
+{
+"text": "AB 373",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab373"
+},
+{
+"text": "AB 38",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab38"
+},
+{
+"text": "AB 380",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab380"
+},
+{
+"text": "AB 382",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab382"
+},
+{
+"text": "AB 391",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab391"
+},
+{
+"text": "AB 394",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab394"
+},
+{
+"text": "AB 40",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab40"
+},
+{
+"text": "AB 400",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab400"
+},
+{
+"text": "AB 405",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab405"
+},
+{
+"text": "AB 409",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab409"
+},
+{
+"text": "AB 412",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab412"
+},
+{
+"text": "AB 415",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab415"
+},
+{
+"text": "AB 417",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab417"
+},
+{
+"text": "AB 418",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab418"
+},
+{
+"text": "AB 42",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab42"
+},
+{
+"text": "AB 422",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab422"
+},
+{
+"text": "AB 426",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab426"
+},
+{
+"text": "AB 43",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab43"
+},
+{
+"text": "AB 430",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab430"
+},
+{
+"text": "AB 433",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab433"
+},
+{
+"text": "AB 436",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab436"
+},
+{
+"text": "AB 442",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab442"
+},
+{
+"text": "AB 443",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab443"
+},
+{
+"text": "AB 445",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab445"
+},
+{
+"text": "AB 447",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab447"
+},
+{
+"text": "AB 448",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab448"
+},
+{
+"text": "AB 449",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab449"
+},
+{
+"text": "AB 450",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab450"
+},
+{
+"text": "AB 453",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab453"
+},
+{
+"text": "AB 454",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab454"
+},
+{
+"text": "AB 455",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab455"
+},
+{
+"text": "AB 456",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab456"
+},
+{
+"text": "AB 458",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab458"
+},
+{
+"text": "AB 46",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab46"
+},
+{
+"text": "AB 460",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab460"
+},
+{
+"text": "AB 473",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab473"
+},
+{
+"text": "AB 477",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab477"
+},
+{
+"text": "AB 483",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab483"
+},
+{
+"text": "AB 487",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab487"
+},
+{
+"text": "AB 491",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab491"
+},
+{
+"text": "AB 494",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab494"
+},
+{
+"text": "AB 5",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab5"
+},
+{
+"text": "AB 501",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab501"
+},
+{
+"text": "AB 503",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab503"
+},
+{
+"text": "AB 505",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab505"
+},
+{
+"text": "AB 518",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab518"
+},
+{
+"text": "AB 523",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab523"
+},
+{
+"text": "AB 524",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab524"
+},
+{
+"text": "AB 525",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab525"
+},
+{
+"text": "AB 530",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab530"
+},
+{
+"text": "AB 545",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab545"
+},
+{
+"text": "AB 546",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab546"
+},
+{
+"text": "AB 548",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab548"
+},
+{
+"text": "AB 560",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab560"
+},
+{
+"text": "AB 573",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab573"
+},
+{
+"text": "AB 580",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab580"
+},
+{
+"text": "AB 581",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab581"
+},
+{
+"text": "AB 590",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab590"
+},
+{
+"text": "AB 598",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab598"
+},
+{
+"text": "AB 60",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab60"
+},
+{
+"text": "AB 603",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab603"
+},
+{
+"text": "AB 604",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab604"
+},
+{
+"text": "AB 609",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab609"
+},
+{
+"text": "AB 61",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab61"
+},
+{
+"text": "AB 610",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab610"
+},
+{
+"text": "AB 614",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab614"
+},
+{
+"text": "AB 630",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab630"
+},
+{
+"text": "AB 659",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab659"
+},
+{
+"text": "AB 662",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab662"
+},
+{
+"text": "AB 663",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab663"
+},
+{
+"text": "AB 666",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab666"
+},
+{
+"text": "AB 669",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab669"
+},
+{
+"text": "AB 671",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab671"
+},
+{
+"text": "AB 672",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab672"
+},
+{
+"text": "AB 673",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab673"
+},
+{
+"text": "AB 674",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab674"
+},
+{
+"text": "AB 677",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab677"
+},
+{
+"text": "AB 681",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab681"
+},
+{
+"text": "AB 682",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab682"
+},
+{
+"text": "AB 683",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab683"
+},
+{
+"text": "AB 699",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab699"
+},
+{
+"text": "AB 700",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab700"
+},
+{
+"text": "AB 701",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab701"
+},
+{
+"text": "AB 702",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab702"
+},
+{
+"text": "AB 709",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab709"
+},
+{
+"text": "AB 714",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab714"
+},
+{
+"text": "AB 715",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab715"
+},
+{
+"text": "AB 717",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab717"
+},
+{
+"text": "AB 742",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab742"
+},
+{
+"text": "AB 750",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab750"
+},
+{
+"text": "AB 752",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab752"
+},
+{
+"text": "AB 757",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab757"
+},
+{
+"text": "AB 761",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab761"
+},
+{
+"text": "AB 762",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab762"
+},
+{
+"text": "AB 778",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab778"
+},
+{
+"text": "AB 78",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab78"
+},
+{
+"text": "AB 791",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab791"
+},
+{
+"text": "AB 792",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab792"
+},
+{
+"text": "AB 798",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab798"
+},
+{
+"text": "AB 806",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab806"
+},
+{
+"text": "AB 81",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab81"
+},
+{
+"text": "AB 83",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab83"
+},
+{
+"text": "AB 84",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab84"
+},
+{
+"text": "AB 843",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab843"
+},
+{
+"text": "AB 861",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab861"
+},
+{
+"text": "AB 866",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab866"
+},
+{
+"text": "AB 89",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab89"
+},
+{
+"text": "AB 896",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab896"
+},
+{
+"text": "AB 897",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab897"
+},
+{
+"text": "AB 903",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab903"
+},
+{
+"text": "AB 905",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab905"
+},
+{
+"text": "AB 906",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab906"
+},
+{
+"text": "AB 907",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab907"
+},
+{
+"text": "AB 908",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab908"
+},
+{
+"text": "AB 909",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab909"
+},
+{
+"text": "AB 910",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab910"
+},
+{
+"text": "AB 918",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab918"
+},
+{
+"text": "AB 923",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab923"
+},
+{
+"text": "AB 948",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab948"
+},
+{
+"text": "AB 955",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab955"
+},
+{
+"text": "AB 956",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab956"
+},
+{
+"text": "AB 957",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab957"
+},
+{
+"text": "AB 958",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab958"
+},
+{
+"text": "AB 961",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab961"
+},
+{
+"text": "AB 962",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab962"
+},
+{
+"text": "AB 963",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab963"
+},
+{
+"text": "AB 964",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab964"
+},
+{
+"text": "AB 966",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab966"
+},
+{
+"text": "AB 968",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab968"
+},
+{
+"text": "AB 972",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab972"
+},
+{
+"text": "AB 974",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab974"
+},
+{
+"text": "AB 996",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab996"
+},
+{
+"text": "AB 997",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab997"
+},
+{
+"text": "AJR 1",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr1"
+},
+{
+"text": "AJR 10",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr10"
+},
+{
+"text": "AJR 102",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr102"
+},
+{
+"text": "AJR 112",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr112"
+},
+{
+"text": "AJR 127",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr127"
+},
+{
+"text": "AJR 133",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr133"
+},
+{
+"text": "AJR 8",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr8"
+},
+{
+"text": "About Jim",
+"href": "https://jimforwi.com/about-jim/"
+},
+{
+"text": "About Us",
+"href": "https://jimforwi.com/?page_id=107"
+},
+{
+"text": "Assembly #98 Map",
+"href": "https://jimforwi.com/wisconsin-assembly-district-98-map/"
+},
+{
+"text": "Campaign News",
+"href": "https://jimforwi.com/latest-campaign-new/"
+},
+{
+"text": "Contacts",
+"href": "https://jimforwi.com/?page_id=103"
+},
+{
+"text": "Donate Now!",
+"href": "https://jimforwi.com/donate-to-jim-piwowarczyk-for-wisconsin/"
+},
+{
+"text": "Donation",
+"href": "https://jimforwi.com/donation/"
+},
+{
+"text": "Events",
+"href": "https://jimforwi.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://jimforwi.com/?page_id=101"
+},
+{
+"text": "Home",
+"href": "https://jimforwi.com/"
+},
+{
+"text": "Jim's Priorities",
+"href": "https://jimforwi.com/jims-priorities/"
+},
+{
+"text": "Jim’s Endorsements",
+"href": "https://jimforwi.com/jim-piwowarczyks-endorsements/"
+},
+{
+"text": "Jim’s Legislative Record",
+"href": "https://jimforwi.com/jims-legislative-record/"
+},
+{
+"text": "Jim’s Priorities",
+"href": "https://jimforwi.com/jims-priorities/"
+},
+{
+"text": "Milwaukee Police Association Endorses Jim Piwowarczyk for State Assembly",
+"href": "https://jimforwi.com/milwaukee-police-association-endorses-jim-piwowarczyk-for-state-assembly/"
+},
+{
+"text": "NRA ENDORSES JIM PIWOWARCZYK IN GOP PRIMARY FOR 98TH ASSEMBLY",
+"href": "https://jimforwi.com/nra-endorses-jim-piwowarczyk-in-gop-primary-for-98th-assembly/"
+},
+{
+"text": "New 98th Map",
+"href": "https://jimforwi.com/wisconsin-assembly-district-98-map/"
+},
+{
+"text": "SB 1000",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1000"
+},
+{
+"text": "SB 1010",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1010"
+},
+{
+"text": "SB 1067",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1067"
+},
+{
+"text": "SB 116",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb116"
+},
+{
+"text": "SB 117",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb117"
+},
+{
+"text": "SB 119",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb119"
+},
+{
+"text": "SB 129",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb129"
+},
+{
+"text": "SB 13",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb13"
+},
+{
+"text": "SB 138",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb138"
+},
+{
+"text": "SB 141",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb141"
+},
+{
+"text": "SB 147",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb147"
+},
+{
+"text": "SB 158",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb158"
+},
+{
+"text": "SB 159",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb159"
+},
+{
+"text": "SB 161",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb161"
+},
+{
+"text": "SB 163",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb163"
+},
+{
+"text": "SB 166",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb166"
+},
+{
+"text": "SB 168",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb168"
+},
+{
+"text": "SB 171",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb171"
+},
+{
+"text": "SB 172",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb172"
+},
+{
+"text": "SB 175",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb175"
+},
+{
+"text": "SB 178",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb178"
+},
+{
+"text": "SB 18",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb18"
+},
+{
+"text": "SB 180",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb180"
+},
+{
+"text": "SB 181",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb181"
+},
+{
+"text": "SB 182",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb182"
+},
+{
+"text": "SB 183",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb183"
+},
+{
+"text": "SB 184",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb184"
+},
+{
+"text": "SB 189",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb189"
+},
+{
+"text": "SB 191",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb191"
+},
+{
+"text": "SB 193",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb193"
+},
+{
+"text": "SB 2",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb2"
+},
+{
+"text": "SB 20",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb20"
+},
+{
+"text": "SB 202",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb202"
+},
+{
+"text": "SB 205",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb205"
+},
+{
+"text": "SB 207",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb207"
+},
+{
+"text": "SB 21",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb21"
+},
+{
+"text": "SB 211",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb211"
+},
+{
+"text": "SB 214",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb214"
+},
+{
+"text": "SB 218",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb218"
+},
+{
+"text": "SB 22",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb22"
+},
+{
+"text": "SB 220",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb220"
+},
+{
+"text": "SB 222",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb222"
+},
+{
+"text": "SB 227",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb227"
+},
+{
+"text": "SB 230",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb230"
+},
+{
+"text": "SB 232",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb232"
+},
+{
+"text": "SB 238",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb238"
+},
+{
+"text": "SB 239",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb239"
+},
+{
+"text": "SB 241",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb241"
+},
+{
+"text": "SB 244",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb244"
+},
+{
+"text": "SB 245",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb245"
+},
+{
+"text": "SB 248",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb248"
+},
+{
+"text": "SB 249",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb249"
+},
+{
+"text": "SB 25",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb25"
+},
+{
+"text": "SB 254",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb254"
+},
+{
+"text": "SB 255",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb255"
+},
+{
+"text": "SB 26",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb26"
+},
+{
+"text": "SB 266",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb266"
+},
+{
+"text": "SB 270",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb270"
+},
+{
+"text": "SB 275",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb275"
+},
+{
+"text": "SB 276",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb276"
+},
+{
+"text": "SB 277",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb277"
+},
+{
+"text": "SB 279",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb279"
+},
+{
+"text": "SB 287",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb287"
+},
+{
+"text": "SB 289",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb289"
+},
+{
+"text": "SB 295",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb295"
+},
+{
+"text": "SB 299",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb299"
+},
+{
+"text": "SB 300",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb300"
+},
+{
+"text": "SB 304",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb304"
+},
+{
+"text": "SB 307",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb307"
+},
+{
+"text": "SB 310",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb310"
+},
+{
+"text": "SB 312",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb312"
+},
+{
+"text": "SB 315",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb315"
+},
+{
+"text": "SB 316",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb316"
+},
+{
+"text": "SB 317",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb317"
+},
+{
+"text": "SB 318",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb318"
+},
+{
+"text": "SB 323",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb323"
+},
+{
+"text": "SB 331",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb331"
+},
+{
+"text": "SB 333",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb333"
+},
+{
+"text": "SB 34",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb34"
+},
+{
+"text": "SB 36",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb36"
+},
+{
+"text": "SB 365",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb365"
+},
+{
+"text": "SB 371",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb371"
+},
+{
+"text": "SB 372",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb372"
+},
+{
+"text": "SB 379",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb379"
+},
+{
+"text": "SB 384",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb384"
+},
+{
+"text": "SB 389",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb389"
+},
+{
+"text": "SB 392",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb392"
+},
+{
+"text": "SB 400",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb400"
+},
+{
+"text": "SB 405",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb405"
+},
+{
+"text": "SB 409",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb409"
+},
+{
+"text": "SB 41",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb41"
+},
+{
+"text": "SB 414",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb414"
+},
+{
+"text": "SB 416",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb416"
+},
+{
+"text": "SB 417",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb417"
+},
+{
+"text": "SB 419",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb419"
+},
+{
+"text": "SB 42",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb42"
+},
+{
+"text": "SB 423",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb423"
+},
+{
+"text": "SB 431",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb431"
+},
+{
+"text": "SB 432",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb432"
+},
+{
+"text": "SB 44",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb44"
+},
+{
+"text": "SB 440",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb440"
+},
+{
+"text": "SB 441",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb441"
+},
+{
+"text": "SB 448",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb448"
+},
+{
+"text": "SB 449",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb449"
+},
+{
+"text": "SB 450",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb450"
+},
+{
+"text": "SB 452",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb452"
+},
+{
+"text": "SB 453",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb453"
+},
+{
+"text": "SB 459",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb459"
+},
+{
+"text": "SB 466",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb466"
+},
+{
+"text": "SB 467",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb467"
+},
+{
+"text": "SB 470",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb470"
+},
+{
+"text": "SB 472",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb472"
+},
+{
+"text": "SB 473",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb473"
+},
+{
+"text": "SB 475",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb475"
+},
+{
+"text": "SB 476",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb476"
+},
+{
+"text": "SB 478",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb478"
+},
+{
+"text": "SB 481",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb481"
+},
+{
+"text": "SB 482",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb482"
+},
+{
+"text": "SB 485",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb485"
+},
+{
+"text": "SB 498",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb498"
+},
+{
+"text": "SB 499",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb499"
+},
+{
+"text": "SB 5",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb5"
+},
+{
+"text": "SB 501",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb501"
+},
+{
+"text": "SB 51",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb51"
+},
+{
+"text": "SB 519",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb519"
+},
+{
+"text": "SB 524",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb524"
+},
+{
+"text": "SB 526",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb526"
+},
+{
+"text": "SB 529",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb529"
+},
+{
+"text": "SB 531",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb531"
+},
+{
+"text": "SB 532",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb532"
+},
+{
+"text": "SB 537",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb537"
+},
+{
+"text": "SB 542",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb542"
+},
+{
+"text": "SB 553",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb553"
+},
+{
+"text": "SB 554",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb554"
+},
+{
+"text": "SB 557",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb557"
+},
+{
+"text": "SB 558",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb558"
+},
+{
+"text": "SB 57",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb57"
+},
+{
+"text": "SB 575",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb575"
+},
+{
+"text": "SB 578",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb578"
+},
+{
+"text": "SB 58",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb58"
+},
+{
+"text": "SB 583",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb583"
+},
+{
+"text": "SB 596",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb596"
+},
+{
+"text": "SB 598",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb598"
+},
+{
+"text": "SB 6",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb6"
+},
+{
+"text": "SB 606",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb606"
+},
+{
+"text": "SB 607",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb607"
+},
+{
+"text": "SB 61",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb61"
+},
+{
+"text": "SB 611",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb611"
+},
+{
+"text": "SB 620",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb620"
+},
+{
+"text": "SB 633",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb633"
+},
+{
+"text": "SB 64",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb64"
+},
+{
+"text": "SB 640",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb640"
+},
+{
+"text": "SB 647",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb647"
+},
+{
+"text": "SB 648",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb648"
+},
+{
+"text": "SB 649",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb649"
+},
+{
+"text": "SB 65",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb65"
+},
+{
+"text": "SB 650",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb650"
+},
+{
+"text": "SB 651",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb651"
+},
+{
+"text": "SB 652",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb652"
+},
+{
+"text": "SB 663",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb663"
+},
+{
+"text": "SB 666",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb666"
+},
+{
+"text": "SB 670",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb670"
+},
+{
+"text": "SB 671",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb671"
+},
+{
+"text": "SB 672",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb672"
+},
+{
+"text": "SB 678",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb678"
+},
+{
+"text": "SB 683",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb683"
+},
+{
+"text": "SB 684",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb684"
+},
+{
+"text": "SB 687",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb687"
+},
+{
+"text": "SB 692",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb692"
+},
+{
+"text": "SB 699",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb699"
+},
+{
+"text": "SB 7",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb7"
+},
+{
+"text": "SB 703",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb703"
+},
+{
+"text": "SB 705",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb705"
+},
+{
+"text": "SB 737",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb737"
+},
+{
+"text": "SB 738",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb738"
+},
+{
+"text": "SB 750",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb750"
+},
+{
+"text": "SB 751",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb751"
+},
+{
+"text": "SB 752",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb752"
+},
+{
+"text": "SB 753",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb753"
+},
+{
+"text": "SB 767",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb767"
+},
+{
+"text": "SB 781",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb781"
+},
+{
+"text": "SB 782",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb782"
+},
+{
+"text": "SB 795",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb795"
+},
+{
+"text": "SB 799",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb799"
+},
+{
+"text": "SB 82",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb82"
+},
+{
+"text": "SB 846",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb846"
+},
+{
+"text": "SB 849",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb849"
+},
+{
+"text": "SB 862",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb862"
+},
+{
+"text": "SB 877",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb877"
+},
+{
+"text": "SB 886",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb886"
+},
+{
+"text": "SB 887",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb887"
+},
+{
+"text": "SB 893",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb893"
+},
+{
+"text": "SB 897",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb897"
+},
+{
+"text": "SB 899",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb899"
+},
+{
+"text": "SB 902",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb902"
+},
+{
+"text": "SB 92",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb92"
+},
+{
+"text": "SB 936",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb936"
+},
+{
+"text": "SB 937",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb937"
+},
+{
+"text": "SB 938",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb938"
+},
+{
+"text": "SB 940",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb940"
+},
+{
+"text": "SB 941",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb941"
+},
+{
+"text": "SB 952",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb952"
+},
+{
+"text": "SB 953",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb953"
+},
+{
+"text": "SB 954",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb954"
+},
+{
+"text": "SB 955",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb955"
+},
+{
+"text": "SB 956",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb956"
+},
+{
+"text": "SB 957",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb957"
+},
+{
+"text": "SB 969",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb969"
+},
+{
+"text": "SB 970",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb970"
+},
+{
+"text": "SB 971",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb971"
+},
+{
+"text": "SB 975",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb975"
+},
+{
+"text": "SB 986",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb986"
+},
+{
+"text": "SB 988",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb988"
+},
+{
+"text": "SB 989",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb989"
+},
+{
+"text": "SB 998",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb998"
+},
+{
+"text": "SB 999",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb999"
+},
+{
+"text": "SJR 105",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr105"
+},
+{
+"text": "SJR 11",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr11"
+},
+{
+"text": "SJR 124",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr124"
+},
+{
+"text": "SJR 2",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr2"
+},
+{
+"text": "SJR 4",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr4"
+},
+{
+"text": "SJR 94",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr94"
+},
+{
+"text": "VILLAGE OF SUSSEX TRUSTEE STACY RIEDEL ENDORSES JIM PIWOWARCZYK FOR ASSEMBLY",
+"href": "https://jimforwi.com/village-of-sussex-trustee-stacy-riedel-endorses-jim-piwowarczyk-for-assembly/"
+},
+{
+"text": "WISCONSIN FRATERNAL ORDER OF POLICE ENDORSES JIM PIWOWARCZYK IN THE 98TH ASSEMBLY RACE",
+"href": "https://jimforwi.com/wisconsin-fraternal-order-of-police-endorses-jim-piwowarczyk-in-the-98th-assembly-race/"
+},
+{
+"text": "WISCONSIN REALTORS ASSOCIATION ENDORSES JIM PIWOWARCZYK",
+"href": "https://jimforwi.com/wisconsin-realtors-association-endorses-jim-piwowarczyk/"
+},
+{
+"text": "Washington County Deputy Sheriff’s Association Endorses Jim Piwowarczyk",
+"href": "https://jimforwi.com/washington-county-deputy-sheriffs-association-endorses-jim-piwowarczyk/"
+},
+{
+"text": "[image]",
+"href": "http://eepurl.com/iMMLdE"
+},
+{
+"text": "[image]",
+"href": "https://jimforwi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?text=Jim+Piwowarczyk+for+Wisconsin+Assembly+98th+District&url=https%3A%2F%2Fjimforwi.com%2F"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/jim790"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jim.piwowarczyk"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjimforwi.com%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jim790"
+}
 ]

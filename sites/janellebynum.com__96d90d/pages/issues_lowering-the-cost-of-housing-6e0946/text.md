@@ -1,5 +1,4 @@
-Janelle believes in
-LOWERING THE COST OF HOUSING
-Too many Oregonians are being priced out of their communities or are unable to afford a home.
+Skip navigation menu Meet Janelle Issues Press Media Center Donate Issues Meet Janelle Issues Press Media Center Donate Issues LOWERING THE COST OF HOUSING STRENGTHENING THE ECONOMY AND CREATING JOBS IMPROVING ACCESS TO EDUCATION FIGHTING BACK AGAINST CRUELTY AND CHAOS FROM THE WHITE HOUSE TAKING CLIMATE ACTION LOWERING THE COST OF HEALTH CARE PROTECTING REPRODUCTIVE RIGHTS ENDING HOMELESSNESS Janelle believes in LOWERING THE COST OF HOUSING Too many Oregonians are being priced out of their communities or are unable to afford a home.
 That’s why, in Congress, Janelle has worked with both parties on efforts to lower the cost of housing, including introducing legislation to tackle housing shortages, workforce gaps, and affordability barriers while expanding pathways to homeownership and addressing youth homelessness.
 She’ll continue fighting to make homeownership a reality for all Oregonians.
+Privacy Policy Contact: info@janellebynum.com Press Inquiries: press@janellebynum.com Make Checks Out to Janelle Bynum for Congress 10121 SE Sunnyside Road, #300 Clackamas, OR 97015 Powered by RUN! website builder Paid for by Janelle Bynum for Congress You need to enable JavaScript to run this app.

@@ -1,16 +1,86 @@
 [
-"https://calebforcongress.com/",
-"https://calebforcongress.com/about",
-"https://calebforcongress.com/accessibility-statement",
-"https://calebforcongress.com/blog",
-"https://calebforcongress.com/donate-contact",
-"https://calebforcongress.com/events/meet-caleb-acadiana-mall",
-"https://calebforcongress.com/issues",
-"https://calebforcongress.com/privacy-policy",
-"https://calebforcongress.com/volunteer",
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.calebforcongress.com%2Fevents%2Fmeet-caleb-acadiana-mall",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.calebforcongress.com%2Fevents%2Fmeet-caleb-acadiana-mall&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/wix"
+{
+"text": "ABOUT",
+"href": "https://www.calebforcongress.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.calebforcongress.com"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.calebforcongress.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.calebforcongress.com/donate-contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.calebforcongress.com/donate-contact"
+},
+{
+"text": "EVENTS",
+"href": "https://www.calebforcongress.com/events/meet-caleb-acadiana-mall"
+},
+{
+"text": "Get Involved",
+"href": "https://www.calebforcongress.com/volunteer"
+},
+{
+"text": "HOME",
+"href": "https://www.calebforcongress.com"
+},
+{
+"text": "Home",
+"href": "https://www.calebforcongress.com/events/meet-caleb-acadiana-mall"
+},
+{
+"text": "ISSUES",
+"href": "https://www.calebforcongress.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.calebforcongress.com/privacy-policy"
+},
+{
+"text": "See other events",
+"href": "https://www.calebforcongress.com"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.calebforcongress.com"
+},
+{
+"text": "UPDATES",
+"href": "https://www.calebforcongress.com/blog"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.calebforcongress.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.calebforcongress.com%2Fevents%2Fmeet-caleb-acadiana-mall&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.calebforcongress.com%2Fevents%2Fmeet-caleb-acadiana-mall"
+},
+{
+"text": "info@calebforcongress.com",
+"href": "mailto:info@calebforcongress.com"
+}
 ]

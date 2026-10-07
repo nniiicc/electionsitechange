@@ -1,9 +1,9 @@
-In the News
-House Republicans ask for justice, fairness and equity for New Mexico
-Santa Fe, NM– Today, all 24 New Mexico House Republican members delivered a letter (shown below) to Governor Lujan Grisham highlighting the need for her to modify her Public Health Orders to ensure all New Mexicans are treated with justice, fairness, and equity.
-The letter outlines a growing frustration with the Governor’s “one size fits
-Majority Dems want to limit public debate
-By Rep.
+Home News IN THE NEWS VETERANS RESOURCES PARENTAL NOTIFICATION FORM EXPECTING MOTHERS ABOUT ABOUT REBECCA REBECCA'S VALUES CONTACT REBECCA Contribute In the News Home In the News Rep.
+Dow, Ranchers and Ag Department Assisting Navajos and Food Banks During Looming Food Shortages and Pandemic 4/29/2020 4:06:22 AM Read More House Republicans ask for justice, fairness and equity for New Mexico Santa Fe, NM– Today, all 24 New Mexico House Republican members delivered a letter (shown below) to Governor Lujan Grisham highlighting the need for her to modify her Public Health Orders to ensure all New Mexicans are treated with justice, fairness, and equity.
+The letter outlines a growing frustration with the Governor’s “one size fits 4/29/2020 4:04:41 AM Read More NM budget concerns skyrocket amidst steep oil price drop 3/9/2020 8:41:51 PM Read More Majority Dems want to limit public debate By Rep.
 Rebecca Dow / Republican, T Or C There is a deep divide between rural and urban New Mexico, and changing the rules of debate will only make it worse.
 Anyone who watched the last legislative session would be forgiven for believing there were two different New Mexico’s.
-Laws were passed, money was spent
+Laws were passed, money was spent 1/18/2020 12:00:16 AM Read More Dow Receives Legislative Service Award 10/23/2019 2:15:09 PM Read More Dow Receives Legislative Service Award 10/13/2019 3:45:02 AM Read More Appeal and complaints about NM Innovation Voucher applications 10/4/2019 3:09:50 PM Read More ‘Free’ tuition program should boost WNMU 9/27/2019 7:22:06 PM Read More U.S.
+District Judge’s Order to Stop All Timber Management Activities on New Mexico’s National Forests 9/27/2019 7:20:17 PM Read More Will a new mine ever receive a permit in New Mexico?
+8/14/2019 8:42:04 PM Read More 2 3 4 Contact Rebecca Address: 1309 N.
+Riverside, Truth or Consequences, NM 87901 Phone: (575) 341-1301 Email: rebecca@dowforhouse.com Links Home News Contact Rebecca Contribute PAID FOR BY COMMITTEE TO ELECT REBECCA DOW

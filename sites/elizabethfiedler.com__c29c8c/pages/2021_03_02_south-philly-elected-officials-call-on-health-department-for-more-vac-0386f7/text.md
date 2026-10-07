@@ -1,8 +1,7 @@
-March 2
-“We write to ask that the city work swiftly to support the opening of vaccination sites in South Philadelphia,” reads the letter signed by City Councilman Mark Squilla, state Sen.
+Skip to content Elizabeth Fiedler Representative, House District 184 Primary Menu Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate South Philly elected officials call on health department for more vaccine distribution sites Posted on March 2, 2021 March 11, 2022 by Anthony Amaker March 2 “We write to ask that the city work swiftly to support the opening of vaccination sites in South Philadelphia,” reads the letter signed by City Councilman Mark Squilla, state Sen.
 Nikil Saval and state Reps.
 Elizabeth Fiedler and Regina Young.
-“We are deeply concerned by the lack of COVID vaccine services being offered to residents of our respective districts in South Philadelphia, and South Philly as a whole.”
-The city’s vaccine distribution site map reveals six locations south of Washington Avenue where residents can obtain the vaccine.
+“We are deeply concerned by the lack of COVID vaccine services being offered to residents of our respective districts in South Philadelphia, and South Philly as a whole.” The city’s vaccine distribution site map reveals six locations south of Washington Avenue where residents can obtain the vaccine.
 A visual scan of the map shows vaccine sites more clustered in areas like Center City, North Philly and West Philly.
-Read more here:
+Read more here: https://southphillyreview.com/2021/03/02/south-philly-elected-officials-call-on-health-department-for-more-vaccine-distribution-sites/ Posted in News , Uncategorized Post navigation More staff needed to end Pa. unemployment delays, L&I head tells lawmakers Investment in health, safety, and jobs focus of hearing on Pennsylvania’s toxic schools Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Connect with us Facebook Twitter Instagram YouTube Mail Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Paid for by: Friends of Elizabeth Fiedler Powered by Tech for Campaigns

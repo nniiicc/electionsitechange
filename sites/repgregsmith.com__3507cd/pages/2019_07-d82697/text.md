@@ -1,14 +1,6 @@
-Representative Greg Smith Brings State Dollars to HD 57
-SALEM, Ore. – Yesterday, as a member of the Subcommittee on Capital Construction, Representative Greg Smith (GOP-Heppner) voted to secure over $20 Million in Capital Construction investments to be distributed throughout House District 57.
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Representative Greg Smith Brings State Dollars to HD 57 July 15, 2019 / in News SALEM, Ore. – Yesterday, as a member of the Subcommittee on Capital Construction, Representative Greg Smith (GOP-Heppner) voted to secure over $20 Million in Capital Construction investments to be distributed throughout House District 57.
 “It is important to return tax dollars paid by the hard-working people of House District 57 back into the community,” said Representative Smith.
-“I’m pleased that significant investments in education, public safety and mental health, water, and transportation were secured this session.”
-Below is a breakdown of the budget allocations:
-- Umatilla County Jail Expansion/Mental Health: $1.6 Million
-- Early Childhood Education in Hermiston and the Port of Morrow: $2.4 Million
-- Umatilla Surface Water Pumping and Wastewater Treatment: $7 Million
-- Condon Airport Runway Renovation: $2.6 Million
-- Blue Mountain Community College facility for animal science programs: $6.5 Million
-“Funding the Umatilla County jail expansion was my top priority this session,” continued Smith.
+“I’m pleased that significant investments in education, public safety and mental health, water, and transportation were secured this session.” Below is a breakdown of the budget allocations: Umatilla County Jail Expansion/Mental Health: $1.6 Million Early Childhood Education in Hermiston and the Port of Morrow: $2.4 Million Umatilla Surface Water Pumping and Wastewater Treatment: $7 Million Condon Airport Runway Renovation: $2.6 Million Blue Mountain Community College facility for animal science programs: $6.5 Million “Funding the Umatilla County jail expansion was my top priority this session,” continued Smith.
 “This investment will give our public safety personnel the space and tools needed to help those in crisis.
-With the assistance of Sheriff Rowan, Senator Hansell, and Representative Barreto we were able to successfully ensure project funding.”
-The Capital Construction bills (HB 5006, HB 5030, and HB 5050) will go to the House and Senate for final votes later this week.
+With the assistance of Sheriff Rowan, Senator Hansell, and Representative Barreto we were able to successfully ensure project funding.” The Capital Construction bills (HB 5006, HB 5030, and HB 5050) will go to the House and Senate for final votes later this week. https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 admin https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png admin 2019-07-15 20:27:47 2022-03-30 20:28:06 Representative Greg Smith Brings State Dollars to HD 57 July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

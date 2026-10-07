@@ -1,21 +1,20 @@
-Prior to this year I cannot say that I’d thought much about what happens if a car or truck needs to be towed.
+About the Tow Truck Bill Jun 18, 2026 — by Seth Miller in Legislative Update Prior to this year I cannot say that I’d thought much about what happens if a car or truck needs to be towed.
 Maybe you have a AAA membership or it is included in your auto insurance (like mine, and I’ve used it a few times).
 Maybe not, and you’re on the hook to pay the bill directly to the tow company.
 I’d just never really thought about it until debate came up on HB414 last February, followed by HB1492 this year.
-I quickly found myself radicalized, aiming to significantly change processes and rules I didn’t even really know existed.
+Headed out of the State House on the final session day of 2026 I quickly found myself radicalized, aiming to significantly change processes and rules I didn’t even really know existed.
 Partly because I recognized the impact on people already suffering from a pretty terrible day (likely an auto accident that leaves them without a vehicle).
 And partly because the opposition to change brought arguments that, quite frankly, pissed me off.
 Under New Hampshire law a towing company can apply to participate in the State Police “Tow List” program.
 If included, they go into a rotation and get called by officers when there’s need for a vehicle to be cleared, and they perform the task.
 They invoice the owner of the vehicle directly for the service.
 The owner of the vehicle had no say about who was called, no opportunity to compare rates or reviews of the companies.
-And, until this week, two bits added extra inanity around the program:
-- If the bill went unpaid a tow company could demand that the DMV suspend a driver’s license for a year.
-- Owners could, of course, appeal the fee charged if they felt it was excessive.
+And, until this week, two bits added extra inanity around the program: If the bill went unpaid a tow company could demand that the DMV suspend a driver’s license for a year.
+Owners could, of course, appeal the fee charged if they felt it was excessive.
 But that appeal could only be lodged after payment.
 HB414 aimed to change the licenses suspension provision.
 HB1492 attempted to address the appeals process.
-Neither of them became law, but both proved invaluable in shaping SB617, the legislation ultimately signed by the governor on June 17th.
+Neither of them became law, but both proved invaluable in shaping SB617 , the legislation ultimately signed by the governor on June 17 th .
 HB414 was a standalone effort to prevent tow companies from being able to suspend licenses.
 It languished in procedural hell for more than a year before ultimately dying.
 HB1492 had legs, but also came with challenges.
@@ -42,7 +41,7 @@ But language matters, and the law says “may,” not “shall.” Hopefully tha
 Ultimately, SB617 – combining components of HB 414, HB1492, and its original content – became law on 17 June 2026 when signed by the Governor.
 It doesn’t have my name on it, but my fingerprints are all over it.
 A couple others I co-sponsored are also headed that direction.
-One adjusts the costs for registering EVs, from a fixed fee of $100 (offsetting the gas tax that otherwise would be paid) to a sliding scale based on weight.
+One adjusts the costs for registering EVs , from a fixed fee of $100 (offsetting the gas tax that otherwise would be paid) to a sliding scale based on weight.
 Notably, electric mopeds will now be free, while the heaviest EVs (which cause more wear on the roads) will pay $150.
 Nothing changes for the vast majority of drivers, but it equalizes obligations at the edges of the spectrum.
-And with (re)election season now underway, a bit of motivation from seeing the good that comes from putting in the work.
+And with (re)election season now underway, a bit of motivation from seeing the good that comes from putting in the work. ← Previous: Gaslighting of the Granite State: Kelly Ayotte’s Misleading Mess Representing Dover/Strafford County District 21 Contact the campaign: Email me (you’ll need to assemble the parts): seth millerworks net Social Bluesky Instagram Paid for by Miller for NH, 129 Fourth Street, Dover, NH 03820, Fiscal Agent: Seth Miller

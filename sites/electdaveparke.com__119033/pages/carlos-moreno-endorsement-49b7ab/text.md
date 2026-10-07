@@ -1,6 +1,4 @@
-“Dave Parke is the kind of leader our community needs.
+0 Skip to Content Meet Dave Key Priorities Endorsements Blog Meet Dave Parke Affordability in Utah Get Involved Donate Open Menu Close Menu Meet Dave Key Priorities Endorsements Blog Meet Dave Parke Affordability in Utah Get Involved Donate Open Menu Close Menu Meet Dave Key Priorities Endorsements Folder: Blog Back Meet Dave Parke Affordability in Utah Get Involved Donate “Dave Parke is the kind of leader our community needs.
 He has built businesses, created jobs, and served families for decades.
 He understands the challenges small business owners face and believes in keeping government accountable and taxes low.
-I’m proud to support Dave because he will stand up for families, freedom, and opportunity.”
-Carlos Moreno
-Salt Lake County Council
+I’m proud to support Dave because he will stand up for families, freedom, and opportunity.” Carlos Moreno Salt Lake County Council Sign Up For Updates Sign Up For Updates - Paid for by Campaign to Elect Dave Parke -

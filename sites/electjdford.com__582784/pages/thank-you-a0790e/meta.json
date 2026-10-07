@@ -1,7 +1,9 @@
 {
  "description": "Thank you for your donation, your support, your volunteering. Seriously, we can't do this without you!",
  "final_url": "https://www.electjdford.com/thank-you",
- "paid_for_by": null,
+ "fingerprint": "07214e2774c7e6669c31fe0fc7bbc19416147cb0",
+ "format": 3,
+ "paid_for_by": "authorized by the Neighbors to Elect J",
  "title": "Thank You | Elect J.D Ford",
  "years_mentioned": []
 }

@@ -1,5 +1,5 @@
-Matt Simpson, our North Country neighbor
-I grew up here.
+114th District Assembly Election matt@simpsonforassembly.com 518.361.1075 Facebook Home About Matt Why Matt?
+News Contact Search for: Search Matt Simpson: Candidate for the NYS Assembly Search for: Search Search Search for: Search Matt Simpson, our North Country neighbor I grew up here.
 I built a successful business here, I raised a family here, I made a life here.
 I know the issues at the core of the North Country because the North Country is at the core of who I am.
 Matt Simpson was first elected to public office in 2011 for a seat on the Town Board in Horicon, NY before being elected as Town Supervisor in 2013 and dutifully serves this role to this day.
@@ -18,3 +18,7 @@ Over the span of three decades, Matt also learned first-hand what goes into crea
 After spending his childhood growing up in Warren and Rensselaer counties, Matt bought his first home in the City of Glens Falls before moving to Queensbury, where he would start a family.
 Soon after, he would look north to settle in Horicon where he would raise his two children, Matt and Sarah.
 Matt currently lives in the hamlet of Adirondack with his wife Hilary.
+Friends of Matt Simpson P.O.
+Box 4790 Queensbury, NY 12804 matt@simpsonforassembly.com Quick Links Home About Matt News Why Matt?
+Contact Matt © # Matt Simpson for NYS Assembly.
+All Rights Reserved

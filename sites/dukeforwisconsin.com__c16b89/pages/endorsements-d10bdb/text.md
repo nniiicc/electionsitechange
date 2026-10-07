@@ -1,22 +1,3 @@
-Endorsements
-Moving Wisconsin Forward
-I’m grateful to the following individuals who have endorsed my candidacy for the 75th Assembly District of Wisconsin.
-28th District Representatives
-- Representative Gae Magnafici – 2019–2025 (Retiring)
-- Representative Adam Jarchow -2015–2019
-- Representative Erik Severson – 2010–2015
-- Representative Mark Pettis – 1997–2006
-State Senators & Representatives
-- Senator Romaine Quinn, 25th District
-- Representative Michael Schraa
-- Representative Chanz Green
-- Representative Angie Sapik
-Law Enforcement
-- Burnett County Sheriff Tracy Finch
-- Polk County Sheriff Brent Waak
-- Past Burnett County Sheriff Ron Wilhelm
-- Past Polk County Sheriff Pete Johnson
-Municipal Government
-- St.
-Croix Falls Mayor, Kirk Anderson
-If you would like to get behind my campaign with an endorsement, please email: campaign@dukeforwisconsin.com
+campaign@DukeforWisconsin.com Facebook Facebook Home Biography District 75 Endorsements News The Issues Donate Contact Select Page Endorsements Moving Wisconsin Forward I’m grateful to the following individuals who have endorsed my candidacy for the 75th Assembly District of Wisconsin.
+28th District Representatives Representative Gae Magnafici – 2019–2025 (Retiring) Representative Adam Jarchow -2015–2019 Representative Erik Severson – 2010–2015 Representative Mark Pettis – 1997–2006 State Senators & Representatives Senator Romaine Quinn, 25th District Representative Michael Schraa Representative Chanz Green Representative Angie Sapik Law Enforcement Burnett County Sheriff Tracy Finch Polk County Sheriff Brent Waak Past Burnett County Sheriff Ron Wilhelm Past Polk County Sheriff Pete Johnson Municipal Government St.
+Croix Falls Mayor, Kirk Anderson If you would like to get behind my campaign with an endorsement, please email: campaign@dukeforwisconsin.com Facebook Copyright © #-# KAM Paid for by Duke for Wisconsin

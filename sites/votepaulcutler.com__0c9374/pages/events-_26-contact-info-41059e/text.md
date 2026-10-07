@@ -1,24 +1,12 @@
-Sept 8: Centerville Library .
-Sept 22: Centerville Library Sept 29: Farmington Library
-Event Details
-Tuesday Sept 8: 6:30-8PM Centerville Library (w/ Ray Ward, Melissa Ballard, Stephanie Hollist)
-Tuesday Sept 22: 6:30-8 PM Centerville Library
-...
-Utah State Capitol: meet in the North Building 2nd floor (Michael O.
-Leavitt Building)
-Come tour the new Museum of Utah at the Capitol
-RSVP's appreciated
-(Pizza & Ice Cream)
-Farmington Headquarters Library
-Education focused town hall with
--Rep Ariel Defay
--Davis School Board member Julie Powell
--Davis School Board candidate Alison Dunn
-Online: South Davis Community Group: https://www.facebook.com/groups/638464470049908
-Please join Senator Weiler, and Representatives Melissa Ballard, Ray Ward & Paul Cutler to discuss local issues:
-Send Paul a message or ask a question using this form.
+Home Events & Contact Info More Home Events & Contact Info Home Events & Contact Info Upcoming Events Upcoming Events Fall Town Halls 2026 Sept 2026 In Person Town Halls 6:30 - 8PM Sept 8: Centerville Library .
+Sept 22: Centerville Library Sept 29: Farmington Library Event Details Fall Town Halls 2026 Sept 2026 In Person Town Halls Tuesday Sept 8: 6:30-8PM Centerville Library (w/ Ray Ward, Melissa Ballard, Stephanie Hollist) Tuesday Sept 22: 6:30-8 PM Centerville Library ...
+Event Details 6:30 - 8PM Sept 8: Centerville Library .
+Sept 22: Centerville Library Sept 29: Farmington Library Night At the Museum Oct 5th Monday October 5th, 2026 6PM - 8PM Utah State Capitol: meet in the North Building 2nd floor (Michael O.
+Leavitt Building) Event Details Night At the Museum Oct 5th Monday October 5th, 2026 Come tour the new Museum of Utah at the Capitol RSVP's appreciated (Pizza & Ice Cream) 6PM - 8PM Utah State Capitol: meet in the North Building 2nd floor (Michael O.
+Leavitt Building) Education Town Hall Oct 7th Wed October 7th, 2026 6PM - 8PM Farmington Headquarters Library Event Details Education Town Hall Oct 7th Wed October 7th, 2026 Education focused town hall with -Rep Ariel Defay -Davis School Board member Julie Powell -Davis School Board candidate Alison Dunn 6PM - 8PM Farmington Headquarters Library Saturday Mornings during the session(except Presidents Day Weekend) 2027 Online Legislative Town Hall Saturdays During the Legislative Session 8:30AM - 9:30AM Online: South Davis Community Group: https://www.facebook.com/groups/638464470049908 Event Details Saturday Mornings during the session(except Presidents Day Weekend) 2027 Online Legislative Town Hall Saturdays During the Legislative Session Please join Senator Weiler, and Representatives Melissa Ballard, Ray Ward & Paul Cutler to discuss local issues: https://www.facebook.com/gr...
+Event Details 8:30AM - 9:30AM Online: South Davis Community Group: https://www.facebook.com/groups/638464470049908 Contact Paul Get in Touch!
+Name Email* Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Questions or Comments Send Paul a message or ask a question using this form.
 He will do his best to get back to you soon!
-1872 North Main Street, Centerville, Utah 84014, United States
-Copyright © 2026 Paul Cutler, Utah State Legislature House District 18 - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Paul Cutler, Utah House of Representatives HD18 1872 North Main Street, Centerville, Utah 84014, United States 801-390-3444 paul@votepaulcutler.com pcutler@le.utah.gov Get directions Social Copyright © # Paul Cutler, Utah State Legislature House District 18 - All Rights Reserved.
+Events & Contact Info Powered by

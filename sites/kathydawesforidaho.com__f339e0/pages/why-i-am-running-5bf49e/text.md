@@ -1,12 +1,13 @@
-Our individual liberty and our freedoms are being taken away by legislation that interferes with our rights to make personal decisions for ourselves and our families, and our locally elected leaders are being subjected to legislation that removes their local control.
+0 Skip to Content Home About Me Why I Am Running Where I Stand on Issues My Opponent's Voting Record How to Help Endorsements Media What District Do I Live In?
+Donate Open Menu Close Menu Home About Me Why I Am Running Where I Stand on Issues My Opponent's Voting Record How to Help Endorsements Media What District Do I Live In?
+Donate Open Menu Close Menu Home About Me Why I Am Running Where I Stand on Issues My Opponent's Voting Record How to Help Endorsements Media What District Do I Live In?
+Donate Our individual liberty and our freedoms are being taken away by legislation that interferes with our rights to make personal decisions for ourselves and our families, and our locally elected leaders are being subjected to legislation that removes their local control.
 Taxpayers are funding an increasing number of court challenges against many of these laws.
 In recent years, I’ve seen a disturbing trend toward extremism in Idaho politics, which I believe is very destructive and not representative of the majority of Idahoans.
-Kathy with the “Spirit of Idaho Women” statue at the Idaho Capitol grounds in Boise
-Why I Am Running
-I want to empower Idaho communities to develop solutions to local problems.
+Kathy with the “Spirit of Idaho Women” statue at the Idaho Capitol grounds in Boise Why I Am Running I want to empower Idaho communities to develop solutions to local problems.
 I strongly believe that "an ounce of prevention is worth a pound of cure." When communities have the resources they need to provide programs and services for Idaho families, like excellent schools, childcare, foster care, mental and physical healthcare, and affordable housing, they will be less likely to have problems with drugs, violence, school dropouts, homelessness, etc.
-I want to work towards ‘depolarizing’ Idaho politics
-Extreme political polarization is causing destructive animosity between parties, families, and communities, preventing much-needed collaboration and creative problem-solving.
-As a trained ambassador and workshop facilitator for Braver Angels, whose mission is to bring Americans together to bridge the partisan divide and strengthen our democratic republic, I want to use my skills to provide a framework for “Bringing Idahoans Together” to listen to each other with respect and collaborate to develop reasonable solutions that benefit all Idahoans.
+I want to work towards ‘depolarizing’ Idaho politics Extreme political polarization is causing destructive animosity between parties, families, and communities, preventing much-needed collaboration and creative problem-solving.
+As a trained ambassador and workshop facilitator for Braver Angels , whose mission is to bring Americans together to bridge the partisan divide and strengthen our democratic republic, I want to use my skills to provide a framework for “Bringing Idahoans Together” to listen to each other with respect and collaborate to develop reasonable solutions that benefit all Idahoans.
 As a creative problem solver, I have a strong work ethic and have developed skills from my teaching experience and training that enable me to communicate effectively and respectfully with everyone.
 I will always look for ways to find common ground in discussions with differences of opinion and ask questions to better understand why people are taking a particular position on an issue.
+Volunteer Donate 1018 East E Street, Moscow, ID 83843 | kathy.dawes@kathydawesforidaho.com Paid for by Kathy Dawes for Idaho, David Nelson, Treasurer

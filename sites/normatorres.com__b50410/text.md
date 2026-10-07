@@ -1,3 +1,6 @@
-About the Congresswoman
-Congresswoman Norma Torres represents California’s 35th Congressional District, which, after the passage of Prop 50, will include the cities of Bloomington, Chino, Chino Hills, Claremont, Corona, Eastvale, Fontana, Montclair, Norco, Ontario, Pomona, Rancho Cucamonga, and Upland.
+Home Donate Issues Endorsements Media Volunteer Newsletter ICE Home Donate Issues Endorsements Media Volunteer Newsletter ICE Scroll Delivering Results for the Inland Empire Donate Volunteer Newsletter About the Congresswoman Congresswoman Norma Torres represents California’s 35th Congressional District, which, after the passage of Prop 50, will include the cities of Bloomington, Chino, Chino Hills, Claremont, Corona, Eastvale, Fontana, Montclair, Norco, Ontario, Pomona, Rancho Cucamonga, and Upland.
 As a City Councilmember, Mayor, State Assemblywoman, State Senator, and now Member of Congress, Norma has a proven record of delivering solutions for Inland Empire families.
+Learn More On the Issues “ Working families deserve a champion in the halls of the United States Congress — and I’m committed to being that voice to help them get ahead. ” — Norma Torres Media Tweets by Norma4Congress View this post on Instagram I’m a proud to work alongside my fellow Congresswomen in the Democratic Women’s Caucus to fight for: 💵 Equal Pay 🏥 Better health care 🤰 Reproductive freedom ✊ Equality for all By being here & speaking out we’re making #HERStory every day.
+#WomensHistoryMonth A post shared by Rep.
+Norma J.
+Torres (@repnormatorres) on Mar 2, 2020 at 12:18pm PST See more Norma Torres Banner Video Block Intro Issues Working Families Need a Champion Social Links Powered by Squarespace

@@ -1,47 +1,190 @@
 [
-"https://afscmemn.org/",
-"https://conservationminnesota.org/",
-"https://dfl.org/",
-"https://dflseniors.org/",
-"https://educationminnesota.org/home",
-"https://facebook.com/HuotforHouse",
-"https://fairvotemn.org/",
-"https://fbmn.org/Minnesota-Farm-Bureau",
-"https://hcape.org/",
-"https://house.leg.state.mn.us/members/profile/15527",
-"https://huotforhouse.com/",
-"https://huotforhouse.com/contact",
-"https://huotforhouse.com/delivering",
-"https://huotforhouse.com/endorsements",
-"https://huotforhouse.com/events",
-"https://huotforhouse.com/gallery",
-"https://huotforhouse.com/issues",
-"https://huotforhouse.com/legislative",
-"https://huotforhouse.com/news",
-"https://huotforhouse.com/volunteer",
-"https://huotforhouse.com/why-i-serve",
-"https://ibew110.org/",
-"https://instagram.com/john_huot_4_mn",
-"https://liunaminnesota.org/",
-"https://local455.com/",
-"https://local49.org/",
-"https://mape.org/",
-"https://mfu.org/",
-"https://mnaflcio.org/",
-"https://mnchamber.com/about-minnesota-chamber-commerce",
-"https://mnchiro.com/",
-"https://mnnurses.org/",
-"https://mnrealtor.com/home",
-"https://mnretail.org/news/item/2026endorsed",
-"https://mntrades.org/",
-"https://momsdemandaction.org/",
-"https://mpff.org/",
-"https://mppoa.com/",
-"https://outfront.org/",
-"https://plannedparenthood.org/",
-"https://prochoiceminnesota.org/about",
-"https://secure.actblue.com/donate/huot-for-house-2",
-"https://seiu.org/",
-"https://socialworkers.org/",
-"https://teamstersjc32.org/"
+{
+"text": "Contact",
+"href": "https://www.huotforhouse.com/contact/"
+},
+{
+"text": "Delivering for our Community",
+"href": "https://www.huotforhouse.com/delivering/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/huot-for-house-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.huotforhouse.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.huotforhouse.com/events/"
+},
+{
+"text": "Gallery",
+"href": "https://www.huotforhouse.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://www.huotforhouse.com/"
+},
+{
+"text": "Huot for House",
+"href": "https://www.huotforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.huotforhouse.com/issues/"
+},
+{
+"text": "Legislative Profile",
+"href": "https://www.huotforhouse.com/legislative/"
+},
+{
+"text": "News",
+"href": "https://www.huotforhouse.com/news/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.huotforhouse.com/volunteer/"
+},
+{
+"text": "Why I Serve",
+"href": "https://www.huotforhouse.com/why-i-serve/"
+},
+{
+"text": "[image]Conservation Minnesota",
+"href": "https://www.conservationminnesota.org/"
+},
+{
+"text": "[image]Education Minnesota",
+"href": "https://www.educationminnesota.org/home"
+},
+{
+"text": "[image]FairVote Minnesota",
+"href": "https://www.fairvotemn.org"
+},
+{
+"text": "[image]Hennepin County Association of EMTs",
+"href": "https://hcape.org/"
+},
+{
+"text": "[image]International Union of Operating Engineers 49",
+"href": "https://local49.org"
+},
+{
+"text": "[image]Leadership Fund PAC",
+"href": "https://www.mnchamber.com/about-minnesota-chamber-commerce"
+},
+{
+"text": "[image]LiUNA! Minnesota and North Dakota",
+"href": "https://www.liunaminnesota.org/"
+},
+{
+"text": "[image]Local 455",
+"href": "https://local455.com/"
+},
+{
+"text": "[image]MN Democratic Farmer Labor Party - House District 56 B",
+"href": "https://www.dfl.org/"
+},
+{
+"text": "[image]Minnesota AFL-CIO",
+"href": "https://www.mnaflcio.org/"
+},
+{
+"text": "[image]Minnesota Association for Professional Employees (MAPE)",
+"href": "https://mape.org/"
+},
+{
+"text": "[image]Minnesota Association of Realtors",
+"href": "https://www.mnrealtor.com/home"
+},
+{
+"text": "[image]Minnesota Chiropractic Association",
+"href": "https://mnchiro.com/"
+},
+{
+"text": "[image]Minnesota Council 5 AFSCME",
+"href": "https://www.afscmemn.org/"
+},
+{
+"text": "[image]Minnesota DFL Senior Caucus",
+"href": "https://www.dflseniors.org/"
+},
+{
+"text": "[image]Minnesota Farm Bureau Federation",
+"href": "https://fbmn.org/Minnesota-Farm-Bureau"
+},
+{
+"text": "[image]Minnesota Farmers Union",
+"href": "https://mfu.org/"
+},
+{
+"text": "[image]Minnesota Nurses Association",
+"href": "https://mnnurses.org/"
+},
+{
+"text": "[image]Minnesota Police and Peace Officers Association",
+"href": "https://www.mppoa.com/"
+},
+{
+"text": "[image]Minnesota Professional Firefighters",
+"href": "https://www.mpff.org/"
+},
+{
+"text": "[image]Minnesota Retailers IMPACT",
+"href": "https://www.mnretail.org/news/item/2026endorsed"
+},
+{
+"text": "[image]Moms Demand Action",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image]National Association of Social Workers",
+"href": "https://www.socialworkers.org/"
+},
+{
+"text": "[image]National Brotherhood of Electricians Local Union 110",
+"href": "https://www.ibew110.org/"
+},
+{
+"text": "[image]Outfront Minnesota",
+"href": "https://www.outfront.org/"
+},
+{
+"text": "[image]Planned Parenthood",
+"href": "https://www.plannedparenthood.org"
+},
+{
+"text": "[image]Pro-Choice Minnesota",
+"href": "https://www.prochoiceminnesota.org/about"
+},
+{
+"text": "[image]Saint Paul Building and Construction Trades Council",
+"href": "https://mntrades.org/"
+},
+{
+"text": "[image]Service Employees International Union MN State Council",
+"href": "https://www.seiu.org/"
+},
+{
+"text": "[image]Teamsters Joint Council 32",
+"href": "https://www.teamstersjc32.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HuotforHouse/"
+},
+{
+"text": "[no text]",
+"href": "https://www.house.leg.state.mn.us/members/profile/15527"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/john_huot_4_mn"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@huotforhouse.com"
+}
 ]

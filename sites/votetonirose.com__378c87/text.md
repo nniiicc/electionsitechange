@@ -1,6 +1,4 @@
-Meet THE HONORABLE Toni Rose
-Texas House of Representatives
-State Representative Toni Rose was elected in 2012 to represent Texas House District 110, which includes the communities of Oak Cliff, Pleasant Grove, Balch Springs, and Mesquite in Dallas County.
+About Toni Volunteer Contact donate About Toni Volunteer Contact donate Meet THE HONORABLE Toni Rose Texas House of Representatives State Representative Toni Rose was elected in 2012 to represent Texas House District 110, which includes the communities of Oak Cliff, Pleasant Grove, Balch Springs, and Mesquite in Dallas County.
 Representative Rose is a proud alumna of Paul Quinn College.
 Her legislative focus includes mental health reform, access to affordable healthcare, and criminal justice reform.
 Representative Rose's community first philosophy has fueled her long record of service by way of numerous City of Dallas Boards and Commissions including the: Planning & Zoning Commission, Judicial Nominating Commission, Martin Luther King, Jr.
@@ -12,3 +10,5 @@ Her most recent budgetary accomplishments include $44.75 million for the land ac
 Representative Rose's legislative accomplishments include extending Medicaid healthcare benefits from two to six months for new mothers postpartum, designating December 1st as Rosa Parks Day, and legislation allowing Dallas County to transport senior citizens to county-run health centers and wellness events.
 Representative Rose's hands-on approach was instrumental to her election as First Vice-Chair of the Texas House Democratic Caucus, Treasurer of the National Organization of Black Elected Legislative Women (NOBEL Women), her appointment as Chair of the House Democratic Campaign Committee, and her former role as Secretary to the Texas Legislative Black Caucus.
 In recognition of her accomplishments, Representative Rose has been recognized with the Mental Health America, 2021 Legislative Champion Award; the Texas Medical Association, 2019 Patient Protection Award; as the National Black Caucus of State Legislators, 2018 Regional Legislator of the Year; the Mental Health America of Greater Dallas, 2015 Prism Award; as well as awards from the Texas Retired Teachers Association, the Texas State Employees Union, Equality Texas, the National Alliance on Mental Illness Dallas, and Texas Kids Can't Wait.
+Back to Top Pol.
+Advertising Paid for by the Toni Rose Campaign.

@@ -1,5 +1,4 @@
-MEET JON BURNS
-Speaker Jon Burns (R-Newington) is a husband, father, grandfather, and Georgia’s 75th Speaker of the House of Representatives.
+0 Skip to Content HOME MEET JON NEWS CONTACT US DONATE Open Menu Close Menu HOME MEET JON NEWS CONTACT US DONATE Open Menu Close Menu HOME MEET JON NEWS CONTACT US DONATE MEET JON BURNS Speaker Jon Burns (R-Newington) is a husband, father, grandfather, and Georgia’s 75th Speaker of the House of Representatives.
 He represents the 159th legislative district that includes Screven County and parts of Effingham and Bulloch Counties.
 He was first elected to the House in 2004, and as Speaker in 2023.
 As Speaker, he serves as the House’s chief administrative officer.
@@ -19,3 +18,4 @@ Burns is a retired educator.
 The Burns are active members at Mizpah Church.
 Family remains key to them, and they cherish any time they get to spend with their children and five grandchildren.
 Speaker Burns often says grandchildren are the best part of life!
+JON.BURNS@HOUSE.GA.GOV | 404-656-5020 FRIENDS OF JON BURNS PRIVACY POLICY

@@ -1,11 +1,46 @@
 [
-"https://lobergformnhouse.com/",
-"https://lobergformnhouse.com/about",
-"https://lobergformnhouse.com/caucus",
-"https://lobergformnhouse.com/contact",
-"https://lobergformnhouse.com/donate",
-"https://lobergformnhouse.com/issues",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/loberg-for-mn-house/donate-"
+{
+"text": "About",
+"href": "https://lobergformnhouse.com/about"
+},
+{
+"text": "Caucus",
+"href": "https://lobergformnhouse.com/caucus"
+},
+{
+"text": "Contact",
+"href": "https://lobergformnhouse.com/contact"
+},
+{
+"text": "DawnLoberg7@gmail.com",
+"href": "mailto:DawnLoberg7@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://lobergformnhouse.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/loberg-for-mn-house/donate-"
+},
+{
+"text": "Home",
+"href": "https://lobergformnhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://lobergformnhouse.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image]",
+"href": "https://lobergformnhouse.com/"
+}
 ]

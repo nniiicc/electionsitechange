@@ -1,9 +1,12 @@
 {
  "description": "Bob Smith es Comandante retirado de la Marina de EE. UU. y veterano de combate, candidato al Congreso por la Costa Central de California.",
  "final_url": "https://bobsmithforcongress.com/latinos-con-bob/",
+ "fingerprint": "d09096cb73df245f98d6402ff3cfa267c478b607",
+ "format": 3,
  "paid_for_by": "Paid for by Bob Smith for Congress",
  "title": "Latinos con Bob | Bob Smith for Congress",
  "years_mentioned": [
-  "2023"
+  "2023",
+  "2026"
  ]
 }

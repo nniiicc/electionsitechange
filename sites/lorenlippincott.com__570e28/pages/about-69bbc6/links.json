@@ -1,16 +1,66 @@
 [
-"http:///",
-"https://addtoany.com/add_to/email?linkurl=https%3A%2F%2Florenlippincott.com%2Fabout%2F&linkname=About",
-"https://addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Florenlippincott.com%2Fabout%2F&linkname=About",
-"https://addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Florenlippincott.com%2Fabout%2F&linkname=About",
-"https://addtoany.com/share",
-"https://facebook.com/LorenLippincottNE",
-"https://lorenlippincott.com/",
-"https://lorenlippincott.com/about",
-"https://lorenlippincott.com/district-34",
-"https://lorenlippincott.com/get-involved",
-"https://lorenlippincott.com/issues",
-"https://lorenlippincott.com/news",
-"https://secure.winred.com/nebraskans-for-loren-lippincott-1d6ae1dd/donate-today",
-"https://youtube.com/channel/UCsD6T8-5_goGZxkurjCYbNw"
+{
+"text": "About",
+"href": "https://lorenlippincott.com/about/"
+},
+{
+"text": "District 34",
+"href": "https://lorenlippincott.com/district-34/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/nebraskans-for-loren-lippincott-1d6ae1dd/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://lorenlippincott.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://lorenlippincott.com/"
+},
+{
+"text": "Issues",
+"href": "https://lorenlippincott.com/issues/"
+},
+{
+"text": "News",
+"href": "https://lorenlippincott.com/news/"
+},
+{
+"text": "Share",
+"href": "https://www.addtoany.com/share"
+},
+{
+"text": "[image]",
+"href": "http://"
+},
+{
+"text": "[image]",
+"href": "https://lorenlippincott.com/"
+},
+{
+"text": "[no text]",
+"href": "http://"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LorenLippincottNE"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCsD6T8-5_goGZxkurjCYbNw"
+},
+{
+"text": "[tooltip: Email]",
+"href": "https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Florenlippincott.com%2Fabout%2F&linkname=About"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Florenlippincott.com%2Fabout%2F&linkname=About"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Florenlippincott.com%2Fabout%2F&linkname=About"
+}
 ]

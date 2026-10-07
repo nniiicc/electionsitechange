@@ -1,7 +1,12 @@
 {
  "description": "Take a look at Mark's upcoming schedule as he visits with the folks around his district & more....",
  "final_url": "https://www.markfornebraska.org/events",
- "paid_for_by": null,
- "title": "Upcoming Events \u2014 Mark for Nebraska",
- "years_mentioned": []
+ "fingerprint": "6e632eccc8007afbec8bf4708bf2bf82f6624ad3",
+ "format": 3,
+ "paid_for_by": "AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website",
+ "title": "Upcoming Events — Mark for Nebraska",
+ "years_mentioned": [
+  "2020",
+  "2026"
+ ]
 }

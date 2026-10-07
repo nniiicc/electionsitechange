@@ -1,14 +1,54 @@
 [
-"https://facebook.com/WeberForTexas",
-"https://randyweber.org/",
-"https://randyweber.org/about-randy",
-"https://randyweber.org/cart",
-"https://randyweber.org/contact-us",
-"https://randyweber.org/videos",
-"https://randyweber.org/videos/testimonials",
-"https://randyweber.org/videos/v/bb6lck2l33e7hg296zedkf9aydbr7p",
-"https://randyweber.org/videos/v/mkxtwbnhhce94gldll48sk3ags7gsy",
-"https://secure.winred.com/randyweber/donate",
-"https://secure.winred.com/randyweber/storefront",
-"https://twitter.com/WeberforTexas"
+{
+"text": "0",
+"href": "https://www.randyweber.org/cart"
+},
+{
+"text": "About Randy",
+"href": "https://www.randyweber.org/about-randy"
+},
+{
+"text": "Contact Us",
+"href": "https://www.randyweber.org/contact-us"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/randyweber/donate"
+},
+{
+"text": "Storefront",
+"href": "https://secure.winred.com/randyweber/storefront/"
+},
+{
+"text": "Testimonials",
+"href": "https://www.randyweber.org/videos/testimonials"
+},
+{
+"text": "Videos",
+"href": "https://www.randyweber.org/videos"
+},
+{
+"text": "[image: Randy Weber for Congress]",
+"href": "https://www.randyweber.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/WeberforTexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WeberForTexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.randyweber.org/videos/v/bb6lck2l33e7hg296zedkf9aydbr7p"
+},
+{
+"text": "[no text]",
+"href": "https://www.randyweber.org/videos/v/mkxtwbnhhce94gldll48sk3ags7gsy"
+},
+{
+"text": "campaign@randyweber.org",
+"href": "mailto:campaign@randyweber.org"
+}
 ]

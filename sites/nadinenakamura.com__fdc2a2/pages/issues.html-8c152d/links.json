@@ -1,26 +1,138 @@
 [
-"http://capitol.hawaii.gov/members/legislators.aspx?chamber=H",
-"http://kauai.gov/",
-"http://nadinenakamura.com/",
-"http://nadinenakamura.com/about.html",
-"http://nadinenakamura.com/affordable-housing.html",
-"http://nadinenakamura.com/agriculture--locally-grown-food.html",
-"http://nadinenakamura.com/cdn-cgi/l/email-protection",
-"http://nadinenakamura.com/contribute.html",
-"http://nadinenakamura.com/economy.html",
-"http://nadinenakamura.com/education.html",
-"http://nadinenakamura.com/endorsements.html",
-"http://nadinenakamura.com/events.html",
-"http://nadinenakamura.com/good-government.html",
-"http://nadinenakamura.com/issues.html",
-"http://nadinenakamura.com/protecting-natural-resources--cultural-sites.html",
-"http://nadinenakamura.com/renewable-energy.html",
-"http://nadinenakamura.com/traffic-congestion.html",
-"http://nadinenakamura.com/volunteer.html",
-"http://sybeedesigns.com/",
-"http://visitor.r20.constantcontact.com/d.jsp?llr=w54flqdab&p=oi&m=1103281455062&sit=7q7osp4eb&f=b87dbc9b-08fe-49ab-a05b-98942c461f43",
-"https://facebook.com/nadinenakamura.district14",
-"https://linkedin.com/in/nadine-nakamura-63b2aa1a?authType=NAME_SEARCH&authToken=Ulfm&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A66414863%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1460767083458%2Ctas%3Anadine+nakamura",
-"https://repnakamura.com/",
-"https://twitter.com/NadineNakamura1"
+{
+"text": "* Affordable Housing",
+"href": "http://www.nadinenakamura.com/affordable-housing.html"
+},
+{
+"text": "* Agriculture & Locally Grown Food",
+"href": "http://www.nadinenakamura.com/agriculture--locally-grown-food.html"
+},
+{
+"text": "* Economy",
+"href": "http://www.nadinenakamura.com/economy.html"
+},
+{
+"text": "* Education",
+"href": "http://www.nadinenakamura.com/education.html"
+},
+{
+"text": "* Good Government",
+"href": "http://www.nadinenakamura.com/good-government.html"
+},
+{
+"text": "* Protecting Natural Resources & Cultural Sites",
+"href": "http://www.nadinenakamura.com/protecting-natural-resources--cultural-sites.html"
+},
+{
+"text": "* Renewable Energy",
+"href": "http://www.nadinenakamura.com/renewable-energy.html"
+},
+{
+"text": "* Traffic Congestion",
+"href": "http://www.nadinenakamura.com/traffic-congestion.html"
+},
+{
+"text": "About",
+"href": "http://www.nadinenakamura.com/about.html"
+},
+{
+"text": "Affordable Housing",
+"href": "http://www.nadinenakamura.com/affordable-housing.html"
+},
+{
+"text": "Agriculture & Locally Grown Food",
+"href": "http://www.nadinenakamura.com/agriculture--locally-grown-food.html"
+},
+{
+"text": "Contribute",
+"href": "http://www.nadinenakamura.com/contribute.html"
+},
+{
+"text": "County of Kaua'i",
+"href": "http://www.kauai.gov/"
+},
+{
+"text": "Economy",
+"href": "http://www.nadinenakamura.com/economy.html"
+},
+{
+"text": "Education",
+"href": "http://www.nadinenakamura.com/education.html"
+},
+{
+"text": "Endorsements",
+"href": "http://www.nadinenakamura.com/endorsements.html"
+},
+{
+"text": "Events",
+"href": "http://www.nadinenakamura.com/events.html"
+},
+{
+"text": "Good Government",
+"href": "http://www.nadinenakamura.com/good-government.html"
+},
+{
+"text": "Home",
+"href": "http://www.nadinenakamura.com/"
+},
+{
+"text": "Issues",
+"href": "http://www.nadinenakamura.com/issues.html"
+},
+{
+"text": "Protecting Natural Resources & Cultural Sites",
+"href": "http://www.nadinenakamura.com/protecting-natural-resources--cultural-sites.html"
+},
+{
+"text": "Renewable Energy",
+"href": "http://www.nadinenakamura.com/renewable-energy.html"
+},
+{
+"text": "Rep. Nakamura's Website",
+"href": "https://www.repnakamura.com/"
+},
+{
+"text": "SYBEEDESIGNS.COM",
+"href": "http://www.sybeedesigns.com/"
+},
+{
+"text": "Sign Up!",
+"href": "http://visitor.r20.constantcontact.com/d.jsp?llr=w54flqdab&p=oi&m=1103281455062&sit=7q7osp4eb&f=b87dbc9b-08fe-49ab-a05b-98942c461f43"
+},
+{
+"text": "State House of Representatives​",
+"href": "http://www.capitol.hawaii.gov/members/legislators.aspx?chamber=H"
+},
+{
+"text": "Traffic Congestion",
+"href": "http://www.nadinenakamura.com/traffic-congestion.html"
+},
+{
+"text": "Volunteer",
+"href": "http://www.nadinenakamura.com/volunteer.html"
+},
+{
+"text": "[image: Nadine Nakamura]",
+"href": "http://www.nadinenakamura.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/NadineNakamura1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/nadinenakamura.district14/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/nadine-nakamura-63b2aa1a?authType=NAME_SEARCH&authToken=Ulfm&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A66414863%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1460767083458%2Ctas%3Anadine+nakamura"
+},
+{
+"text": "[no text]",
+"href": "mailto:nknplan@hawaii.rr.com"
+},
+{
+"text": "​",
+"href": "http://www.sybeedesigns.com/"
+}
 ]

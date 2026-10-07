@@ -1,11 +1,38 @@
 [
-"http://lpnevada.org/",
-"https://secure.anedot.com/friends-of-tighe-galvin/f8b55bba-95cb-4b1f-8c7d-688cd78da630",
-"https://tighefornevada.com/donate",
-"https://tighefornevada.com/es",
-"https://tighefornevada.com/es/about",
-"https://tighefornevada.com/es/contact",
-"https://tighefornevada.com/es/donate",
-"https://tighefornevada.com/es/on-the-issues",
-"https://wpastra.com/"
+{
+"text": "Acerca de Tighe",
+"href": "https://tighefornevada.com/es/about/"
+},
+{
+"text": "Contacto",
+"href": "https://tighefornevada.com/es/contact/"
+},
+{
+"text": "Donar",
+"href": "https://tighefornevada.com/es/donate/"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.anedot.com/friends-of-tighe-galvin/f8b55bba-95cb-4b1f-8c7d-688cd78da630"
+},
+{
+"text": "En los temas",
+"href": "https://tighefornevada.com/es/on-the-issues/"
+},
+{
+"text": "Nuestro Partido",
+"href": "http://lpnevada.org/"
+},
+{
+"text": "[image]",
+"href": "https://tighefornevada.com/es/"
+},
+{
+"text": "[image]English",
+"href": "https://tighefornevada.com/donate/"
+},
+{
+"text": "[no text]",
+"href": "https://tighefornevada.com/es/"
+}
 ]

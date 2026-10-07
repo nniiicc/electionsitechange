@@ -1,7 +1,9 @@
 {
  "description": "Sample Issue",
  "final_url": "https://andrealeeanderson.com/issues/sample_issue",
- "paid_for_by": null,
+ "fingerprint": "83356a1fd4017e8b5b71919e3dc7248c60688bb3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "How I will legislate",
  "years_mentioned": []
 }

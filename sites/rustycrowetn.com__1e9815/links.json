@@ -1,10 +1,50 @@
 [
-"https://facebook.com/SenatorRustyCrowe",
-"https://rustycrowetn.com/",
-"https://rustycrowetn.com/issues",
-"https://rustycrowetn.com/join",
-"https://rustycrowetn.com/meetrusty",
-"https://rustycrowetn.com/privacy-policy",
-"https://rustycrowetn.com/terms-and-conditions",
-"https://x.com/RustyCroweTN"
+{
+"text": "Donate",
+"href": "https://www.rustycrowetn.com"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.rustycrowetn.com/join"
+},
+{
+"text": "HOME",
+"href": "https://www.rustycrowetn.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.rustycrowetn.com/issues"
+},
+{
+"text": "MEET RUSTY",
+"href": "https://www.rustycrowetn.com/meetrusty"
+},
+{
+"text": "PAID FOR BY RUSTY CROWE VICTORY FUND, RUSTY CROWE, TREASURER",
+"href": "https://www.rustycrowetn.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rustycrowetn.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.rustycrowetn.com/terms-and-conditions"
+},
+{
+"text": "[image: Crowe (color).png]",
+"href": "https://www.rustycrowetn.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SenatorRustyCrowe"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SenatorRustyCrowe/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/RustyCroweTN"
+}
 ]

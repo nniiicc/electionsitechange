@@ -1,7 +1,4 @@
-Privacy Policy for Contact Information Collection and Usage by Michael Young for Missouri
-Last Updated: March 22, 2026
-Introduction
-Michael Young for Missouri (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+top of page Family Doctor About Services Contact Privacy Policy for Contact Information Collection and Usage by Michael Young for Missouri Last Updated: March 22, 2026 Introduction Michael Young for Missouri (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 1.
 By signing up for the program through a form provided on myoung4mo.com or by giving your information to Us at an in-person event, you are giving your express consent, and opting in to receive automated text messages, alerts, and updates at the phone number you provided.
@@ -37,3 +34,5 @@ Your data will not be shared or sold to other third parties.
 Program Availability: Currently, the Program is only available to residents of the United States.
 You understand and acknowledge that you may not sign up for, access, or attempt to access or use the Program from countries outside of the U.S.
 You agree to abide by U.S. and other applicable export control laws and not to transfer, by electronic transmission or otherwise, any content or software subject to restrictions under such laws to a national destination or person prohibited under such laws.
+Accessibility Statement Terms & Conditions Privacy Policy Refund Policy © # by Alice Hope MD Family Doctor.
+Powered and secured by Wix bottom of page

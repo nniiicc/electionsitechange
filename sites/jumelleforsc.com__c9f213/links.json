@@ -1,17 +1,86 @@
 [
-"http://youtube.com/channel/UCXgLD8TyUgQi9K7k9oQSP0g",
-"https://facebook.com/JumelleforSC",
-"https://gwdcountydems.org/",
-"https://instagram.com/jumellebrooksforsc",
-"https://instagram.com/jumelleforsc",
-"https://jumelleforsc.com/",
-"https://jumelleforsc.com/about-jumelle-brooks",
-"https://jumelleforsc.com/contact",
-"https://jumelleforsc.com/news-events",
-"https://rockbridgesolutions.com/",
-"https://scvotes.gov/voters/register-to-vote",
-"https://secure.actblue.com/donate/jumelleforsc-1",
-"https://tiktok.com/@jumelleforsc",
-"https://twitter.com/Jumellefor_SC",
-"https://vrems.scvotes.sc.gov/Voter/Login?PageMode=PollingPlace"
+{
+"text": "About Dr. Jumelle Brooks",
+"href": "https://jumelleforsc.com/about-jumelle-brooks/"
+},
+{
+"text": "About Jumelle Brooks",
+"href": "https://jumelleforsc.com/about-jumelle-brooks/"
+},
+{
+"text": "Click to Register",
+"href": "https://scvotes.gov/voters/register-to-vote/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jumelleforsc-1"
+},
+{
+"text": "Email Jumelle",
+"href": "mailto:wewintogether@jumelleforsc.com"
+},
+{
+"text": "Follow",
+"href": "http://youtube.com/channel/UCXgLD8TyUgQi9K7k9oQSP0g/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/Jumellefor_SC"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/JumelleforSC"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/jumellebrooksforsc/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/jumelleforsc"
+},
+{
+"text": "Follow",
+"href": "https://www.tiktok.com/@jumelleforsc"
+},
+{
+"text": "Greenwood County Dems",
+"href": "https://gwdcountydems.org/"
+},
+{
+"text": "How you can help",
+"href": "https://jumelleforsc.com/contact/"
+},
+{
+"text": "Join the Movement",
+"href": "https://jumelleforsc.com/contact/"
+},
+{
+"text": "Let's Win Together",
+"href": "https://jumelleforsc.com/contact/"
+},
+{
+"text": "Meet Jumelle",
+"href": "https://jumelleforsc.com/about-jumelle-brooks"
+},
+{
+"text": "More About Jumelle",
+"href": "https://jumelleforsc.com/about-jumelle-brooks/"
+},
+{
+"text": "News & Events",
+"href": "https://jumelleforsc.com/news-events/"
+},
+{
+"text": "Rock Bridge Solutions",
+"href": "https://rockbridgesolutions.com"
+},
+{
+"text": "Where to Go",
+"href": "https://vrems.scvotes.sc.gov/Voter/Login?PageMode=PollingPlace"
+},
+{
+"text": "[image]",
+"href": "https://jumelleforsc.com/"
+}
 ]

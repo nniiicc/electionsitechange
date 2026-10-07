@@ -1,7 +1,12 @@
 {
  "description": "Todd Schaefer in the News",
  "final_url": "https://www.toddforfl4.com/news",
- "paid_for_by": null,
+ "fingerprint": "41a3f8a4858b5466743b642df792e0398f05903e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024",
+  "2026"
+ ]
 }

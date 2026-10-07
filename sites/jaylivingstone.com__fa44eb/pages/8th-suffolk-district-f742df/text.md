@@ -1,8 +1,6 @@
-The 8th Suffolk district consists of Back Bay, Beacon Hill, the Fenway, and the West End.
+0 Skip to Content About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Donate Open Menu Close Menu About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Donate Open Menu Close Menu About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Back Donate The 8th Suffolk district consists of Back Bay, Beacon Hill, the Fenway, and the West End.
 It also includes beautiful parkland like the Charles River Esplanade Reservation and The Fens as well as passionate advocacy organizations that work tirelessly to keep our community beautiful.
-Civic Associations
-- Beacon Hill Civic Association
-- Fenway Civic Association
-- Neighborhood Association of the Back Bay
-- West End Civic Association
-- Charlesgate Alliance
+Business Associations Back Bay Business Association Beacon Hill Business Association Downtown North Association Open Space Organizations Charles River Conservancy The Esplanade Association Friends of the Public Garden Emerald Necklace Conservancy Charlesgate Alliance Civic Associations Beacon Hill Civic Association Fenway Civic Association Neighborhood Association of the Back Bay West End Civic Association Charlesgate Alliance Other Neighborhood Advocacy Organizations Fenway Forward (formerly Fenway CDC) Fenway Community Center West End Community Center West End Museum Walk Boston Boston Cyclist Union Blog Contact Donate State Representative Jay Livingstone 8th Suffolk District, MA

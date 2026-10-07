@@ -1,6 +1,4 @@
-Hamilton attends White House States Convening on child care
-July 19, 2023
-On Wednesday, July 19, State Rep.
+0 Skip to Content Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Hamilton attends White House States Convening on child care Aug 5 Written By Carey Hamilton July 19, 2023 On Wednesday, July 19, State Rep.
 Carey Hamilton (D-Indianapolis), House Democratic Caucus Chair, will attend the Convening of States at the White House to discuss action from state governments on child care policy.
 Child care access is a priority for the Biden-Harris administration as seen in the President’s budget proposal that would keep the average family cost for child care at $10 a day.
 Hamilton has introduced numerous bills and amendments to improve Indiana’s child care system and reduce costs since she was elected to the General Assembly in 2016.
@@ -9,4 +7,4 @@ Hamilton has introduced numerous bills and amendments to improve Indiana’s chi
 “Affordable child care strengthens families by freeing up income for needs such as quality food and secure housing and it strengthens our economy by growing a critical component of our workforce – working parents.
 We urgently need legislation such as a child care tax credit that I have proposed numerous times only to be rejected by GOP lawmakers.
 Solutions such as this one are vital to support those struggling to raise a family and stay employed.
-I look forward to meeting with fellow legislators to learn how other states are growing access to affordable childcare.”
+I look forward to meeting with fellow legislators to learn how other states are growing access to affordable childcare.” Source Public Education Economy for All Carey Hamilton Previous Previous Hamilton encourages Indiana to follow Texas in nixing tax on menstrual products, family care products Next Next Hamilton statement on Indiana Supreme Court decision to uphold near-total abortion ban Paid for and authorized by the Committee to Elect Carey Hamilton

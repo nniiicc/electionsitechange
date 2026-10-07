@@ -1,17 +1,66 @@
 [
-"https://dowforhouse.com/",
-"https://dowforhouse.com/Home/About",
-"https://dowforhouse.com/Home/Contact",
-"https://dowforhouse.com/Home/Values",
-"https://dowforhouse.com/News",
-"https://dowforhouse.com/News/InTheNews",
-"https://dowforhouse.com/News/Veterans",
-"https://dowforhouse.com/Resources",
-"https://dowforhouse.com/Resources/ParentalNotification",
-"https://dowforhouse.com/Resources/demo-seo.html",
-"https://dowforhouse.com/Resources/index.html",
-"https://dowforhouse.com/about-rebecca",
-"https://facebook.com/dowfornm",
-"https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/5fe39de7-3110-4d6a-aaa1-df1c4a757165/v2-Parental-Notification-Form-House-GOP-23-07-10.pdf",
-"https://secure.winred.com/committee-to-elect-rebecca-dow/give-now"
+{
+"text": "ABOUT REBECCA",
+"href": "https://www.dowforhouse.com/Home/About"
+},
+{
+"text": "CONTACT REBECCA",
+"href": "https://www.dowforhouse.com/Home/Contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/committee-to-elect-rebecca-dow/give-now"
+},
+{
+"text": "Download",
+"href": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/5fe39de7-3110-4d6a-aaa1-df1c4a757165/v2-Parental-Notification-Form-House-GOP-23-07-10.pdf"
+},
+{
+"text": "HOME",
+"href": "https://www.dowforhouse.com/about-rebecca"
+},
+{
+"text": "Home",
+"href": "https://www.dowforhouse.com/"
+},
+{
+"text": "IN THE NEWS",
+"href": "https://www.dowforhouse.com/News/InTheNews"
+},
+{
+"text": "News",
+"href": "https://www.dowforhouse.com/News"
+},
+{
+"text": "PARENTAL NOTIFICATION FORM",
+"href": "https://www.dowforhouse.com/Resources/ParentalNotification"
+},
+{
+"text": "REBECCA'S VALUES",
+"href": "https://www.dowforhouse.com/Home/Values"
+},
+{
+"text": "RESOURCES",
+"href": "https://www.dowforhouse.com/Resources"
+},
+{
+"text": "VETERANS",
+"href": "https://www.dowforhouse.com/News/Veterans"
+},
+{
+"text": "[image: Dow for House]",
+"href": "https://www.dowforhouse.com/Resources/demo-seo.html"
+},
+{
+"text": "[image: Dow for House]",
+"href": "https://www.dowforhouse.com/Resources/index.html"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/dowfornm"
+},
+{
+"text": "rebecca@dowforhouse.com",
+"href": "mailto:rebecca@dowforhouse.com"
+}
 ]

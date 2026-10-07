@@ -1,10 +1,13 @@
 {
  "description": "Subscribe to updates",
  "final_url": "https://carlowforhouse.wordpress.com/newsroom/",
- "paid_for_by": null,
- "title": "Newsroom \u2013 Nathan Carlow for Representative",
+ "fingerprint": "488833e729c6a55ed26e3e10d49d2b570528781b",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Newsroom – Nathan Carlow for Representative",
  "years_mentioned": [
   "2021",
-  "2022"
+  "2022",
+  "2024"
  ]
 }

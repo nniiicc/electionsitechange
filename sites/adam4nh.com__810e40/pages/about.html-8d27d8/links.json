@@ -1,7 +1,26 @@
 [
-"https://adam4nh.com/",
-"https://adam4nh.com/about.html",
-"https://adam4nh.com/endorsements.html",
-"https://adam4nh.com/priorities.html",
-"https://donate.adam4nh.com/"
+{
+"text": "About Me",
+"href": "https://adam4nh.com/about.html"
+},
+{
+"text": "Donate",
+"href": "https://donate.adam4nh.com/"
+},
+{
+"text": "Endorsements",
+"href": "https://adam4nh.com/endorsements.html"
+},
+{
+"text": "Haverstock for State Rep",
+"href": "https://adam4nh.com"
+},
+{
+"text": "Home",
+"href": "https://adam4nh.com"
+},
+{
+"text": "Priorities",
+"href": "https://adam4nh.com/priorities.html"
+}
 ]

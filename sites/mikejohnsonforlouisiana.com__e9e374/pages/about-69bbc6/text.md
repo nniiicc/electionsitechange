@@ -1,12 +1,11 @@
-About Speaker Mike Johnson
-Speaker Mike Johnson is the 56th Speaker of the U.S.
+0 Skip to Content VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE About Speaker Mike Johnson Speaker Mike Johnson is the 56th Speaker of the U.S.
 House of Representatives and a Republican member of Congress serving Louisiana’s Fourth District.
 He is the first person from Louisiana ever elected to the position, and the highest ranked government official in the history of the state.
 Speaker Johnson was elected to his post after serving less than 6.8 years in the House, making him the second fastest person to ever receive the honor.
 (In 1883, Speaker John G.
 Carlisle had previously served only 6.75 years.) Speaker Johnson was also the first person to be unanimously elected to the position by his party in more than two decades.
 His success in leading one of the smallest majorities in history through our polarized era of politics has earned him many accolades.
-Former Speaker Newt Gingrich describes Speaker Johnson’s tenure as, “the most challenging speakership since the Civil War more than 160 years ago.” He has been labeled “The Survivor” when featured on the cover of TIME Magazine, “Master of the House” by Commentary Magazine, and “The Leader of the Free World” by The Wall Street Journal.
+Former Speaker Newt Gingrich describes Speaker Johnson’s tenure as, “the most challenging speakership since the Civil War more than #ago.” He has been labeled “The Survivor” when featured on the cover of TIME Magazine , “Master of the House” by Commentary Magazine , and “The Leader of the Free World” by The Wall Street Journal .
 Respected for his leadership internationally, Speaker Johnson is the first U.S.
 Speaker to ever be invited to address the British Parliament, and only the third to be invited to address the Israeli Knesset.
 As a Member of Congress, Speaker Johnson represents the nearly 760,000 residents of 20 parishes in the western, northwest, and northeast regions of Louisiana.
@@ -17,3 +16,9 @@ The eldest son of a firefighter who was critically burned and permanently disabl
 He earned his undergraduate degree in Business Administration from Louisiana State University in 1995, and his Juris Doctorate from the Paul M.
 Hebert Law Center at Louisiana State University in 1998.
 He and his wife Kelly, a former schoolteacher and now a Licensed Pastoral Counselor, have been married since 1999, and have four children, Hannah, Abigail, Jack and Will.
+Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
+Box 6075 Bossier City, LA 71171 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+PAID FOR BY MIKE JOHNSON FOR LOUISIANA Privacy Policy Notice of Collection of Personal Information Do Not Sell My Personal Information

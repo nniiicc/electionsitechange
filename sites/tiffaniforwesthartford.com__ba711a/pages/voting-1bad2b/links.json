@@ -1,16 +1,58 @@
 [
-"https://facebook.com/tiffaniforwesthartford",
-"https://instagram.com/tiffaniforwesthartford",
-"https://portal.ct.gov/-/media/SOTS/ElectionServices/ElectForms/electforms/ED-671-En-8x10-No-code.pdf",
-"https://portaldir.ct.gov/sots/LookUp.aspx",
-"https://portaldir.ct.gov/sots/lookup.aspx",
-"https://resources.finalsite.net/images/v1572619538/westhartfordctgov/kptvgp9bxtysvaongv5n/DistrictMap.pdf",
-"https://tiffaniforwesthartford.com/",
-"https://tiffaniforwesthartford.com/get-involved",
-"https://tiffaniforwesthartford.com/meet-tiffani",
-"https://tiffaniforwesthartford.com/priorities",
-"https://tiffaniforwesthartford.com/updates",
-"https://tiffaniforwesthartford.com/voting",
-"https://tiktok.com/@tiffani4wh?_t=ZP-8yWq0rNyCKd&_r=1",
-"https://voterregistration.ct.gov/OLVR/welcome.do"
+{
+"text": "ABOUT TIFFANI",
+"href": "https://www.tiffaniforwesthartford.com/meet-tiffani"
+},
+{
+"text": "District Map",
+"href": "https://resources.finalsite.net/images/v1572619538/westhartfordctgov/kptvgp9bxtysvaongv5n/DistrictMap.pdf"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.tiffaniforwesthartford.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.tiffaniforwesthartford.com"
+},
+{
+"text": "Mail-In Voter Registration Form",
+"href": "https://portal.ct.gov/-/media/SOTS/ElectionServices/ElectForms/electforms/ED-671-En-8x10-No-code.pdf"
+},
+{
+"text": "NEWS",
+"href": "https://www.tiffaniforwesthartford.com/updates"
+},
+{
+"text": "Online Voter Registration",
+"href": "https://voterregistration.ct.gov/OLVR/welcome.do"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.tiffaniforwesthartford.com/priorities"
+},
+{
+"text": "VOTING",
+"href": "https://www.tiffaniforwesthartford.com/voting"
+},
+{
+"text": "Voter Registration Lookup",
+"href": "https://portaldir.ct.gov/sots/lookup.aspx"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/tiffaniforwesthartford"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/tiffaniforwesthartford"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@tiffani4wh?_t=ZP-8yWq0rNyCKd&_r=1"
+},
+{
+"text": "here",
+"href": "https://portaldir.ct.gov/sots/LookUp.aspx"
+}
 ]

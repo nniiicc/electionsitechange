@@ -1,9 +1,30 @@
 [
-"https://bohatchettforga.com/",
-"https://bohatchettforga.com/about",
-"https://bohatchettforga.com/contact",
-"https://bohatchettforga.com/issues",
-"https://bohatchettforga.com/stay-in-touch",
-"https://facebook.com/HatchettforGeorgia",
-"https://secure.anedot.com/hatchett-for-georgia/donate"
+{
+"text": "About",
+"href": "https://www.bohatchettforga.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.bohatchettforga.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/hatchett-for-georgia/donate"
+},
+{
+"text": "Home",
+"href": "https://www.bohatchettforga.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.bohatchettforga.com/issues"
+},
+{
+"text": "Stay in Touch",
+"href": "https://www.bohatchettforga.com/stay-in-touch"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/HatchettforGeorgia/"
+}
 ]

@@ -1,17 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum&dates=20260401T220000Z%2F20260401T233000Z&location=1410+College+Drive%2C+Traverse+City%2C+MI%2C+49686%2C+United+States",
-"http://maps.google.com/?q=1410+College+Drive+Traverse+City%2C+MI%2C+49686+United+States",
-"https://docs.google.com/document/d/1wgxec2_GmFx2_09OWR1HVygAnbC6OQSv6-Q-QvDcyc0/edit?usp=sharing",
-"https://secure.anedot.com/friends-of-zebulon-featherly",
-"https://zebulonforcongress.com/",
-"https://zebulonforcongress.com/cart",
-"https://zebulonforcongress.com/contact-us",
-"https://zebulonforcongress.com/events",
-"https://zebulonforcongress.com/events/campaign-event-5",
-"https://zebulonforcongress.com/events/emjwgn24skzc9dywf5xkt4nby99erb?format=ical",
-"https://zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n-mw9ef",
-"https://zebulonforcongress.com/my-story",
-"https://zebulonforcongress.com/statements",
-"https://zebulonforcongress.com/transparency",
-"https://zebulonforcongress.com/where-i-stand"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1410+college+drive+traverse+city%2C+mi%2C+49686+united+states"
+},
+{
+"text": "0",
+"href": "https://www.zebulonforcongress.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Contact Us",
+"href": "https://www.zebulonforcongress.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-zebulon-featherly"
+},
+{
+"text": "Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum&dates=20260401T220000Z%2F20260401T233000Z&location=1410+College+Drive%2C+Traverse+City%2C+MI%2C+49686%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.zebulonforcongress.com/events/emjwgn24skzc9dywf5xkt4nby99erb?format=ical"
+},
+{
+"text": "My Story",
+"href": "https://www.zebulonforcongress.com/my-story"
+},
+{
+"text": "Next Next April 1 In Person(town hall)",
+"href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n-mw9ef"
+},
+{
+"text": "No Party Just People",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "Previous Previous March 21 Candidate Forum",
+"href": "https://www.zebulonforcongress.com/events/campaign-event-5"
+},
+{
+"text": "Statements",
+"href": "https://www.zebulonforcongress.com/statements"
+},
+{
+"text": "Transparency",
+"href": "https://www.zebulonforcongress.com/transparency"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.zebulonforcongress.com/where-i-stand"
+},
+{
+"text": "https://docs.google.com/document/d/1wgxec2_GmFx2_09OWR1HVygAnbC6OQSv6-Q-QvDcyc0/edit?usp=sharing",
+"href": "https://docs.google.com/document/d/1wgxec2_GmFx2_09OWR1HVygAnbC6OQSv6-Q-QvDcyc0/edit?usp=sharing"
+}
 ]

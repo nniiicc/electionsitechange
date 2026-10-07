@@ -1,7 +1,21 @@
 {
- "description": "John Garamendi: Rancher, Family Man, Public ServantJohn Garamendi was raised on his family\u2019s r",
+ "description": "John Garamendi: Rancher, Family Man, Public ServantJohn Garamendi was raised on his family’s r",
  "final_url": "https://www.garamendi.org/about",
- "paid_for_by": null,
+ "fingerprint": "b0251f147637f992f955c1a5ee659fe72e5a178c",
+ "format": 3,
+ "paid_for_by": "AUTHORIZED BY GARAMENDI FOR CONGRESS",
  "title": "A Life of Service | John Garamendi",
- "years_mentioned": []
+ "years_mentioned": [
+  "1964",
+  "1973",
+  "1974",
+  "1987",
+  "1990",
+  "1991",
+  "1995",
+  "2000",
+  "2003",
+  "2006",
+  "2009"
+ ]
 }

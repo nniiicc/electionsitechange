@@ -1,2 +1,5 @@
-Join Kim Berfields’s campaign for house of representatives and join our growing team of supporters across District 58!
-Fill out your information below, and we’ll be in touch shortly.
+Meet Kim Issues Accomplishments Join Kim’s Krewe Endorsements Precincts Meet Kim Issues Accomplishments Join Kim’s Krewe Endorsements Precincts Join the Krewe Join Kim Berfields’s campaign for house of representatives and join our growing team of supporters across District 58!
+Fill out your information below, and we’ll be in touch shortly. krewe First Name Last Name Email Zipcode County Things I'd Like To Do: Door Knocking Phone Calls Yard Sign Large Sign - 4x6 Letter to the Editor Bumper Sticker Wave Signs on Election Day Join the Krewe Kimberly Berfield for State House 2519 North McMullen Booth Road Suite 510 Clearwater, FL 33761 Menu Menu Meet Kim The Issues Accomplishments Endorsements Precincts Meet Kim The Issues Accomplishments Endorsements Precincts Ways to Support Menu Join Kim’s Krewe Endorse Kim Join Kim’s Krewe Endorse Kim Contributions are not deductible as charitable contributions for federal income tax purposes.
+The maximum contribution is $1,000 per individual or business, per election.
+Paid by Kimberly "Kim" Berfield, Republican, for State Representative District 58.
+Copyright © # – # Kimberly “Kim” Berfield – All Rights Reserved.

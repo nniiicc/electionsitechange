@@ -1,6 +1,3 @@
-Paid for by Iris4Colorado.
+0 Skip to Content Home About Iris in the Press Endorsements Volunteer DONATE Open Menu Close Menu DONATE Home About Iris in the Press Endorsements Volunteer Open Menu Close Menu Home About Iris in the Press Endorsements Volunteer DONATE Back to All Events JCRC Forum Monday, June 8, 2026 6:00 PM 9:00 PM Temple Emanuel 51 Grape St CO 80220 (map) Google Calendar ICS Previous Previous June 7 Meet Iris for Happy Hour and Ask Your Questions - Capitol Hill Neighborhood Next Next June 13 Canvass for Iris Montclair/Lowry/East Colfax Neighborhoods Paid for by Iris4Colorado.
 Registered Agent Iris Halpern.
-Phone: (303) 351-1162
-PO Box 6071
-Denver, CO 80206
-Iris.halpern@iris4colorado.com
+Phone: (303) 351-1162 PO Box 6071 Denver, CO 80206 Iris.halpern@iris4colorado.com PRIVACY POLICY TERMS & CONDITIONS

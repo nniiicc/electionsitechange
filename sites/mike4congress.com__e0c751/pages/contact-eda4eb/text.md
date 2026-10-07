@@ -1,14 +1,1 @@
-top of page
-STORE
-DONATE
-Home
-About
-Issues
-Endorsements
-News
-Join the Team
-Contact
-CONTACT US
-mike@mike4congress.com
-Follow us for weekly updates on the campaign trail
-bottom of page
+top of page STORE DONATE Home About Issues Endorsements News Join the Team Contact CONTACT US mike@mike4congress.com Follow us for weekly updates on the campaign trail PAID FOR BY MIKE HARIDOPOLOS FOR CONGRESS Media Privacy Policy 870 Miramar Ave #1776 Indialantic, FL 32903 bottom of page

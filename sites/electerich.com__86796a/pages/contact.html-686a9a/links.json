@@ -1,16 +1,66 @@
 [
-"https://electerich.com/",
-"https://electerich.com/about-2.html",
-"https://electerich.com/about.html",
-"https://electerich.com/cdn-cgi/l/email-protection",
-"https://electerich.com/contact.html",
-"https://electerich.com/data-centers.html",
-"https://electerich.com/education.html",
-"https://electerich.com/housing.html",
-"https://electerich.com/issues.html",
-"https://electerich.com/non-partisan-vote.html",
-"https://electerich.com/terms-of-service--privacy-policy.html",
-"https://electerich.com/water.html",
-"https://facebook.com/profile.php?id=61555803803907",
-"https://secure.actblue.com/donate/committee-to-elect-erich-obermayr-2"
+{
+"text": "ABOUT",
+"href": "https://www.electerich.com/about-2.html"
+},
+{
+"text": "ABOUT",
+"href": "https://www.electerich.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://www.electerich.com/contact.html"
+},
+{
+"text": "DATA CENTERS",
+"href": "https://www.electerich.com/data-centers.html"
+},
+{
+"text": "Donate ONLINE!",
+"href": "https://secure.actblue.com/donate/committee-to-elect-erich-obermayr-2"
+},
+{
+"text": "EDUCATION",
+"href": "https://www.electerich.com/education.html"
+},
+{
+"text": "ELECT ERICH OBERMAYR",
+"href": "https://www.electerich.com/"
+},
+{
+"text": "Elect Erich",
+"href": "https://www.electerich.com/"
+},
+{
+"text": "HOME​",
+"href": "https://www.electerich.com/"
+},
+{
+"text": "HOUSING",
+"href": "https://www.electerich.com/housing.html"
+},
+{
+"text": "Issues",
+"href": "https://www.electerich.com/issues.html"
+},
+{
+"text": "NON-PARTISAN VOTE",
+"href": "https://www.electerich.com/non-partisan-vote.html"
+},
+{
+"text": "Terms of Service & Privacy Policy",
+"href": "https://www.electerich.com/terms-of-service--privacy-policy.html"
+},
+{
+"text": "WATER",
+"href": "https://www.electerich.com/water.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61555803803907"
+},
+{
+"text": "[no text]",
+"href": "mailto:contact@electerich.com"
+}
 ]

@@ -1,30 +1,106 @@
 [
-"http://maps.google.com/maps?q=Location+Upon+RSVP&zoom=14&size=512x512&maptype=roadmap&sensor=false",
-"http://selenafornevada.com/",
-"https://bsky.app/profile/selenafornevada.bsky.social",
-"https://docs.google.com/forms/d/e/1FAIpQLSf1CUltgiPLblC7IfrPWM895ofUfM_D7pa0DL24hKzlaTGt8A/viewform?usp=header",
-"https://facebook.com/SelenaforNevada",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fselenafornevada.com%2Fevent%2Fweekly-canvass-10-17-10am%2F",
-"https://instagram.com/selenafornv",
-"https://linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fselenafornevada.com%2Fevent%2Fweekly-canvass-10-17-10am%2F",
-"https://pinterest.com/pin/create/button?url=https%3A%2F%2Fselenafornevada.com%2Fevent%2Fweekly-canvass-10-17-10am%2F",
-"https://secure.actblue.com/donate/selena-web",
-"https://selenafornevada.com/2025session",
-"https://selenafornevada.com/2026-endorsements",
-"https://selenafornevada.com/about",
-"https://selenafornevada.com/bill-tracker",
-"https://selenafornevada.com/constituents",
-"https://selenafornevada.com/cookie-policy",
-"https://selenafornevada.com/donate",
-"https://selenafornevada.com/events",
-"https://selenafornevada.com/how-to-give-public-comment",
-"https://selenafornevada.com/how-to-give-testimony",
-"https://selenafornevada.com/issues",
-"https://selenafornevada.com/media",
-"https://selenafornevada.com/opt-out",
-"https://selenafornevada.com/privacy-policy",
-"https://selenafornevada.com/volunteer-now",
-"https://selenafornevada.com/what-is-the-state-assembly",
-"https://twitter.com/share?text=twitter&url=https%3A%2F%2Fselenafornevada.com%2Fevent%2Fweekly-canvass-10-17-10am%2F",
-"https://xing.com/spi/shares/new?url=https%3A%2F%2Fselenafornevada.com%2Fevent%2Fweekly-canvass-10-17-10am%2F"
+{
+"text": "Bill Tracker",
+"href": "https://selenafornevada.com/bill-tracker/"
+},
+{
+"text": "Constituents",
+"href": "https://selenafornevada.com/constituents/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/selena-web"
+},
+{
+"text": "Donate",
+"href": "https://selenafornevada.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://selenafornevada.com/2026-endorsements/"
+},
+{
+"text": "Events",
+"href": "https://selenafornevada.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SelenaforNevada/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fselenafornevada.com%2Fevent%2Fweekly-canvass-10-17-10am%2F"
+},
+{
+"text": "How to give public comment in NELIS",
+"href": "https://selenafornevada.com/how-to-give-public-comment/"
+},
+{
+"text": "How to give testimony",
+"href": "https://selenafornevada.com/how-to-give-testimony/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/selenafornv/"
+},
+{
+"text": "Issues",
+"href": "https://selenafornevada.com/issues/"
+},
+{
+"text": "Legislative Wins",
+"href": "https://selenafornevada.com/2025session/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fselenafornevada.com%2Fevent%2Fweekly-canvass-10-17-10am%2F"
+},
+{
+"text": "Location Upon RSVP",
+"href": "http://maps.google.com/maps?q=Location+Upon+RSVP&zoom=14&size=512x512&maptype=roadmap&sensor=false"
+},
+{
+"text": "Meet Selena",
+"href": "https://selenafornevada.com/about/"
+},
+{
+"text": "Open toolbar",
+"href": "javascript:void(0);"
+},
+{
+"text": "Pinterest",
+"href": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fselenafornevada.com%2Fevent%2Fweekly-canvass-10-17-10am%2F"
+},
+{
+"text": "Press & Media Center",
+"href": "https://selenafornevada.com/media/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/share?text=twitter&url=https%3A%2F%2Fselenafornevada.com%2Fevent%2Fweekly-canvass-10-17-10am%2F"
+},
+{
+"text": "Volunteer",
+"href": "https://selenafornevada.com/volunteer-now/"
+},
+{
+"text": "What is the State Assembly?",
+"href": "https://selenafornevada.com/what-is-the-state-assembly/"
+},
+{
+"text": "Xing",
+"href": "https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fselenafornevada.com%2Fevent%2Fweekly-canvass-10-17-10am%2F"
+},
+{
+"text": "[image]",
+"href": "http://selenafornevada.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/selenafornevada.bsky.social"
+},
+{
+"text": "https://docs.google.com/forms/d/e/1FAIpQLSf1CUltgiPLblC7IfrPWM895ofUfM_D7pa0DL24hKzlaTGt8A/viewform?usp=header →",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf1CUltgiPLblC7IfrPWM895ofUfM_D7pa0DL24hKzlaTGt8A/viewform?usp=header"
+}
 ]

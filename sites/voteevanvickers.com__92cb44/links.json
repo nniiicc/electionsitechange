@@ -1,8 +1,46 @@
 [
-"https://secure.winred.com/campaign-to-elect-evan-vickers/donate-today",
-"https://voteevanvickers.com/",
-"https://voteevanvickers.com/about",
-"https://voteevanvickers.com/about-evan",
-"https://voteevanvickers.com/contact",
-"https://voteevanvickers.com/core-values"
+{
+"text": "About Evan",
+"href": "https://voteevanvickers.com/about-evan"
+},
+{
+"text": "Contact",
+"href": "https://voteevanvickers.com/contact"
+},
+{
+"text": "Core Values",
+"href": "https://voteevanvickers.com/core-values"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/campaign-to-elect-evan-vickers/donate-today"
+},
+{
+"text": "Home",
+"href": "https://voteevanvickers.com/"
+},
+{
+"text": "Issues",
+"href": "https://voteevanvickers.com/about"
+},
+{
+"text": "Learn More",
+"href": "https://voteevanvickers.com/about-evan/"
+},
+{
+"text": "Learn More",
+"href": "https://voteevanvickers.com/about/"
+},
+{
+"text": "Make A Donation",
+"href": "https://secure.winred.com/campaign-to-elect-evan-vickers/donate-today"
+},
+{
+"text": "Meet Evan Vickers",
+"href": "https://voteevanvickers.com/about-evan/"
+},
+{
+"text": "[image: Evan Vickers]",
+"href": "https://voteevanvickers.com/"
+}
 ]

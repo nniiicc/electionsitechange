@@ -1,23 +1,102 @@
 [
-"https://americashealthrankings.org/",
-"https://census.gov/library/publications/2023/demo/p60-279.html",
-"https://census.gov/library/publications/2023/demo/p60-281.html",
-"https://congress.gov/crs-product/R48646",
-"https://data.census.gov/table/ACSDT5YAIAN2021.B25064",
-"https://facebook.com/profile.php?id=61584994825055",
-"https://instagram.com/kristina4oklahoma",
-"https://kristinaforoklahoma.com/",
-"https://kristinaforoklahoma.com/contact",
-"https://kristinaforoklahoma.com/endorsements",
-"https://kristinaforoklahoma.com/meet-kristina",
-"https://kristinaforoklahoma.com/priorities",
-"https://kristinaforoklahoma.com/volunteer",
-"https://oiga.org/",
-"https://oklahoma.gov/health/health-education/children---family-health/maternal-and-child-health-service/perinatal-and-reproductive-health-/maternal-mortality-review.html",
-"https://okvoterportal.okelections.gov/Home/RegWizard",
-"https://secure.actblue.com/donate/kg4ok77",
-"https://secure.actblue.com/donate/kg4ok77?amount=10",
-"https://secure.actblue.com/donate/kg4ok77?amount=100",
-"https://secure.actblue.com/donate/kg4ok77?amount=250",
-"https://supremecourt.gov/opinions/19pdf/18-9526_9okb.pdf"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/kg4ok77?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/kg4ok77?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/kg4ok77?amount=250"
+},
+{
+"text": "AI Data Centers",
+"href": "https://kristinaforoklahoma.com/priorities#ai-data-centers"
+},
+{
+"text": "Affordability",
+"href": "https://kristinaforoklahoma.com/priorities#affordability"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kg4ok77"
+},
+{
+"text": "Endorsements",
+"href": "https://kristinaforoklahoma.com/endorsements"
+},
+{
+"text": "Healthcare Accessibility",
+"href": "https://kristinaforoklahoma.com/priorities#healthcare-accessibility"
+},
+{
+"text": "Home",
+"href": "https://kristinaforoklahoma.com/"
+},
+{
+"text": "Meet Kristina",
+"href": "https://kristinaforoklahoma.com/meet-kristina"
+},
+{
+"text": "Priorities",
+"href": "https://kristinaforoklahoma.com/priorities"
+},
+{
+"text": "Tribal-State Partnerships",
+"href": "https://kristinaforoklahoma.com/priorities#tribal-state-partnerships"
+},
+{
+"text": "Volunteer",
+"href": "https://kristinaforoklahoma.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://okvoterportal.okelections.gov/Home/RegWizard"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584994825055"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kristina4oklahoma"
+},
+{
+"text": "contact",
+"href": "https://kristinaforoklahoma.com/contact"
+},
+{
+"text": "https://oiga.org",
+"href": "https://oiga.org"
+},
+{
+"text": "https://oklahoma.gov/health/health-education/children---family-health/maternal-and-child-health-service/perinatal-and-reproductive-health-/maternal-mortality-review.html",
+"href": "https://oklahoma.gov/health/health-education/children---family-health/maternal-and-child-health-service/perinatal-and-reproductive-health-/maternal-mortality-review.html"
+},
+{
+"text": "https://www.americashealthrankings.org",
+"href": "https://www.americashealthrankings.org"
+},
+{
+"text": "https://www.census.gov/library/publications/2023/demo/p60-279.html",
+"href": "https://data.census.gov/table/ACSDT5YAIAN2021.B25064"
+},
+{
+"text": "https://www.census.gov/library/publications/2023/demo/p60-279.html",
+"href": "https://www.census.gov/library/publications/2023/demo/p60-279.html"
+},
+{
+"text": "https://www.census.gov/library/publications/2023/demo/p60-281.html",
+"href": "https://www.census.gov/library/publications/2023/demo/p60-281.html"
+},
+{
+"text": "https://www.congress.gov/crs-product/R48646",
+"href": "https://www.congress.gov/crs-product/R48646"
+},
+{
+"text": "https://www.supremecourt.gov/opinions/19pdf/18-9526_9okb.pdf",
+"href": "https://www.supremecourt.gov/opinions/19pdf/18-9526_9okb.pdf"
+}
 ]

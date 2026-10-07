@@ -1,6 +1,18 @@
 [
-"https://lakeshiamalstonsenate.net/",
-"https://lakeshiamalstonsenate.net/about",
-"https://lakeshiamalstonsenate.net/cart",
-"https://lakeshiamalstonsenate.net/contact"
+{
+"text": "0",
+"href": "https://www.lakeshiamalstonsenate.net/cart"
+},
+{
+"text": "About",
+"href": "https://www.lakeshiamalstonsenate.net/about"
+},
+{
+"text": "Auxiliary",
+"href": "https://www.lakeshiamalstonsenate.net/contact"
+},
+{
+"text": "[image: Your Site Title]",
+"href": "https://www.lakeshiamalstonsenate.net/"
+}
 ]

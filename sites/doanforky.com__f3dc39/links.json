@@ -1,8 +1,30 @@
 [
-"https://doanforky.com/",
-"https://doanforky.com/about-2",
-"https://doanforky.com/contact-8",
-"https://doanforky.com/donate",
-"https://doanforky.com/schoolboard",
-"https://secure.anedot.com/5bc93d85-c64f-43ad-8d92-22f6494e25dc/donate"
+{
+"text": "About",
+"href": "https://www.doanforky.com/about-2"
+},
+{
+"text": "Contact",
+"href": "https://www.doanforky.com/contact-8"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.anedot.com/5bc93d85-c64f-43ad-8d92-22f6494e25dc/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.doanforky.com/donate"
+},
+{
+"text": "GET UPDATES",
+"href": "https://www.doanforky.com/contact-8"
+},
+{
+"text": "Home",
+"href": "https://www.doanforky.com"
+},
+{
+"text": "School Board",
+"href": "https://www.doanforky.com/schoolboard"
+}
 ]

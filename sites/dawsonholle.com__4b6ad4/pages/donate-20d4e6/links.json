@@ -1,11 +1,50 @@
 [
-"https://dawsonholle.com/",
-"https://dawsonholle.com/about-me-1",
-"https://dawsonholle.com/contact-us",
-"https://dawsonholle.com/donate",
-"https://facebook.com/hashtag/holle2house?epa=HASHTAG",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/holle2house",
-"https://secure.winred.com/holle2house/donatenow",
-"https://x.com/DawsonHolle"
+{
+"text": "About me",
+"href": "https://dawsonholle.com/about-me-1"
+},
+{
+"text": "Contact Us",
+"href": "https://dawsonholle.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://dawsonholle.com/donate"
+},
+{
+"text": "Donate Now! 👉 Click the link to make a donation and join Team Holle!",
+"href": "https://secure.winred.com/holle2house/donatenow"
+},
+{
+"text": "Find out more",
+"href": "https://dawsonholle.com/donate"
+},
+{
+"text": "Home",
+"href": "https://dawsonholle.com/"
+},
+{
+"text": "[image]",
+"href": "https://dawsonholle.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/hashtag/holle2house?epa=HASHTAG"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/holle2house/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/DawsonHolle"
+},
+{
+"text": "https://secure.winred.com/holle2house/donatenow",
+"href": "https://secure.winred.com/holle2house/donatenow"
+}
 ]

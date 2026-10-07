@@ -1,7 +1,11 @@
 {
- "description": "Configure una contribuci\u00f3n mensual para apoyar a Greg Abdouch para la Asamblea Estatal de California, Distrito 45.",
+ "description": "Configure una contribución mensual para apoyar a Greg Abdouch para la Asamblea Estatal de California, Distrito 45.",
  "final_url": "https://www.abdouchforca.com/es/donations-monthly",
- "paid_for_by": null,
+ "fingerprint": "50876465060262d3aa7c6285c592a1e7679602e5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donar Mensualmente | Greg Abdouch para la Asamblea de CA",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

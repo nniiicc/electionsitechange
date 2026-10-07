@@ -1,5 +1,4 @@
-Voice for Refuge
-Vermont had a difficult summer.
+0 Skip to Content Welcome Priorities Blog About Donate Open Menu Close Menu Open Menu Close Menu Welcome Priorities Blog About Donate Welcome Priorities Blog About Donate Voice for Refuge Sep 1 Written By Daisy Berbeco Vermont had a difficult summer.
 Every one of us was directly or indirectly impacted by flooding.
 I hope you all are as grateful as I am to be here in Winooski together.
 As August comes to a close we have a lot to look forward to with the kids back at school, our new Superintendent Wilmer Chavarria and of course, Winooski Pride on September 9th.
@@ -30,4 +29,5 @@ Speaking of medicaid please rememberto complete your renewal forms that were mai
 Go to Vermont Health Connect on Facebook or dvha.
 Vermont. gov/unwinding for more info.
 Please dont hesitate to reach out if I can assist with anything.
-Daisy
+Daisy Daisy Berbeco Previous Previous Fall Happenings Next Next FY24 State Budget Daisy for Winooski P.O.
+Box 381 | Winooski, VT | 05404 (802) 391-4112 DaisyBerbecoVT@gmail.com Donate Welcome Priorities Blog About

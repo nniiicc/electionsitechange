@@ -1,7 +1,11 @@
 {
  "description": "Meet Jerry Govan, your South Carolina Representative for District 93. Join him in building a prosperous future for our community.",
  "final_url": "https://govanforsc.com/meet-jerry",
- "paid_for_by": null,
+ "fingerprint": "d57ad6795da810aa116dbd643dde722d11fc3410",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet Jerry",
- "years_mentioned": []
+ "years_mentioned": [
+  "1982"
+ ]
 }

@@ -1,7 +1,26 @@
 [
-"http://x.com/lindeeforWI",
-"https://facebook.com/people/Lindee-for-WI-Assembly/61558926056470",
-"https://lindeeforwiassembly.com/",
-"https://lindeeforwiassembly.com/about-3",
-"https://lindeeforwiassembly.com/district-map"
+{
+"text": "District Map",
+"href": "https://www.lindeeforwiassembly.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://www.lindeeforwiassembly.com/about-3"
+},
+{
+"text": "Home",
+"href": "https://www.lindeeforwiassembly.com"
+},
+{
+"text": "Lindee for WI Assembly",
+"href": "https://www.lindeeforwiassembly.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/people/Lindee-for-WI-Assembly/61558926056470/"
+},
+{
+"text": "[image: X ]",
+"href": "http://www.x.com/lindeeforWI"
+}
 ]

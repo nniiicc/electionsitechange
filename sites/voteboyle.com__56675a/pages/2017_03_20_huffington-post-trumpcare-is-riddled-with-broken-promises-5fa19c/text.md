@@ -1,4 +1,6 @@
-Less care for higher cost, all the while providing billions in tax breaks to the super wealthy.
+Skip to content Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Brendan F.
+Boyle | U.S.
+Congress Representing Pennsylvania's 2nd District Facebook Twitter YouTube Instagram Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Huffington Post: Trumpcare Is Riddled With Broken Promises March 20, 2017 February 21, 2018 Less care for higher cost, all the while providing billions in tax breaks to the super wealthy.
 This week in the Budget Committee, I had the opportunity to take a close look at the latest Republican attack on health care and the middle class, otherwise known as the American Health Care Act ― or, as I call it, Trumpcare.
 It should come as no surprise to anyone that the Republican Party appears unable to repeal and replace the ACA with any meaningful improvements for anyone but their wealthiest friends.
 It has become increasingly clear that the Republican Pay More for Less Care Act is nothing but a massive tax cut for the wealthy and well-connected, at the expense of middle-class Americans, seniors, and our most vulnerable—a rallying cry for Democrats and Independents across the country.
@@ -12,7 +14,8 @@ Trump also promised us no cuts to Medicare or Medicaid.
 This bill breaks those promises, too.
 Under the Republican plan, seniors would be required to pay higher taxes and premiums that are five times higher than their younger counterparts and, for good measure, three years would be taken off the solvency of Medicare.
 Medicaid, which serves our most vulnerable Americans, would be slashed through individual caps and a repeal of the ACA’s Medicaid expansion that has served as a lifeline to tens of millions.
-One in five Medicaid recipients are children! 670,000 Pennsylvanians who have gained health insurance through the ACA’s Medicaid expansion hang in the balance.
+One in five Medicaid recipients are children!
+670,000 Pennsylvanians who have gained health insurance through the ACA’s Medicaid expansion hang in the balance.
 At the same time, this bill would provide billions of dollars in tax cuts to the wealthiest Americans, including a tax break for insurance company executives making over $500,000 per year.
 Incredibly, the bill bankrolls a $2.8 billion tax cut for the 400 richest families in America per year, while poor families are stripped of the affordable care many received for the first time thanks to the ACA.
 And, of course, repealing the ACA’s tax subsidies and replacing them with a smaller tax credit would raise taxes significantly on about 7 million low and moderate-income families.
@@ -36,4 +39,5 @@ Trumpcare represents a giant step backward: it provides less care for higher cos
 I will stand up and fight to do everything I can to stop this harmful proposal and instead call on my Republican colleagues to finally come to the table to work with Democrats to improve the current ACA framework—which they have refused to do since 2010.
 Democrats will continue to fight for affordable and accessible care for all Americans regardless of age or income.
 It is my hope that the American public will continue to stand with us, opposing this dangerous proposal at town halls across the country.
-Read the full article HERE.
+Read the full article HERE .
+Philadelphia Magazine: Power – The Boyle Blueprint The Hill Op-Ed: Trump’s Dangerous Gamble on State Department Funding Search Search Keep Up with Brendan First Name Last Name Email Back to Top Facebook Twitter YouTube Instagram Paid for by Citizens for Boyle Powered by Fluida & WordPress.

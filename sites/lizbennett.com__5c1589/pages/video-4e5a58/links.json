@@ -1,8 +1,26 @@
 [
-"https://actionnetwork.org/forms/subscribe-liz-bennett",
-"https://lizbennett.com/",
-"https://lizbennett.com/endorsers",
-"https://lizbennett.com/video",
-"https://secure.actblue.com/donate/runliz",
-"https://senate.iowa.gov/senator/bennett/recent-newsletters"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/runliz"
+},
+{
+"text": "Email Signup",
+"href": "https://actionnetwork.org/forms/subscribe-liz-bennett/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lizbennett.com/endorsers"
+},
+{
+"text": "Home",
+"href": "https://www.lizbennett.com"
+},
+{
+"text": "Legislative Updates",
+"href": "https://www.senate.iowa.gov/senator/bennett/recent-newsletters/"
+},
+{
+"text": "Video",
+"href": "https://www.lizbennett.com/video"
+}
 ]

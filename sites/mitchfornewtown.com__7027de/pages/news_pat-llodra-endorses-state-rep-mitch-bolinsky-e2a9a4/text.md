@@ -1,3 +1,4 @@
-Former First Selectman Pat Llodra says Rep Mitch Bolinsky is known to his colleagues in Hartford as a voice for moderation, a champion for the needs of the elderly, an advocate for families and youth, and a steadfast supporter for equity in school funding.
-Read Llodra's full endorsement published in The Newtown Bee. https://www.newtownbee.com/re-elect-mitch-bolinsky/10152018
-#MitchForNewtown #WeNeedMitch #CtRepublicans#FixCt
+About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News & Letters / Pat Llodra Endorses State Rep Mitch Bolinsky 31 Oct Wednesday, 10:03 AM · 2018 Pat Llodra Endorses State Rep Mitch Bolinsky Former First Selectman Pat Llodra says Rep Mitch Bolinsky is known to his colleagues in Hartford as a voice for moderation, a champion for the needs of the elderly, an advocate for families and youth, and a steadfast supporter for equity in school funding.
+Read Llodra's full endorsement published in The Newtown Bee. https://www.newtownbee.com/re-elect-mitch-bolinsky/10152018 #MitchForNewtown #WeNeedMitch #CtRepublicans#FixCt Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
+Approved by Mitch Bolinsky.
+Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage Close Menu

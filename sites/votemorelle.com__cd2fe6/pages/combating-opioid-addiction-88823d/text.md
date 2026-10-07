@@ -1,16 +1,11 @@
-COMBATING OPIOID
-ADDICTION
-Addiction is a crisis affecting communities across the country, cutting across every background and devastating countless families, both young and old.
+top of page ABOUT JOE FIGHTING FOR US ANTI-CORRUPTION AND DEMOCRACY REFORM PROTECTING AGING AMERICANS FIXING HEALTH CARE WOMEN'S RIGHTS COMMON SENSE GUN REFORM COMBATING THE CLIMATE CRISIS COMBATING OPIOID ADDICTION HONORING OUR VETERANS LGBTQ+ RIGHTS IMPROVING K-12 EDUCATION EXPANDING ACCESS TO HIGHER EDUCATION UPLIFTING FAMILIES TAKE ACTION JOIN THE TEAM INTERNSHIPS EARLY VOTING GUIDE PRIVACY POLICY VOTE BY MAIL CONTACT MORE Use tab to navigate through the menu items.
+DONATE COMBATING OPIOID ADDICTION Addiction is a crisis affecting communities across the country, cutting across every background and devastating countless families, both young and old.
 Every day, more than 130 lives are lost to opioid overdoses.
 This epidemic has only worsened in the wake of the COVID-19 pandemic and demands a comprehensive, coordinated response.
 Joe believes that addressing this crisis requires a broad, multi-faceted approach.
 In Congress, he is working to invest in prevention, expand access to treatment, and strengthen recovery programs that help individuals rebuild their lives and communities heal.
-In Congress, Joe has co-sponsored legislation including:
-The STOP Fentanyl Act
-Would establish programs to combat addiction and overdoses caused by fentanyl and other illicit opioids.
-The Comprehensive Addiction Resources Emergency Act
-Would provide funding to states with high overdose rates, as well as support public health surveillance, research, provider training, and access to overdose reversal medications.
-The Moms Matter Act
-Would create grant programs to address maternal mental health and substance use disorders, with a focus on supporting racial and ethnic minority communities.
-The Mental Health Justice Act
-Would create a grant program to help states and local governments train and deploy mental health professionals to respond to emergencies involving individuals experiencing behavioral health crises.
+In Congress, Joe has co-sponsored legislation including: The STOP Fentanyl Act Would establish programs to combat addiction and overdoses caused by fentanyl and other illicit opioids.
+The Comprehensive Addiction Resources Emergency Act Would provide funding to states with high overdose rates, as well as support public health surveillance, research, provider training, and access to overdose reversal medications.
+The Moms Matter Act Would create grant programs to address maternal mental health and substance use disorders, with a focus on supporting racial and ethnic minority communities.
+The Mental Health Justice Act Would create a grant program to help states and local governments train and deploy mental health professionals to respond to emergencies involving individuals experiencing behavioral health crises.
+Join LEARN / GET INVOLVED About Joe News Volunteer Early Voting Donate Media Privacy Policy FIGHTING FOR US Protecting Aging Americans Fixing Health Care Women's Rights Common Sense Gun Reform Protecting Our Environment Honoring Our Veterans Anti-Corruption and Democracy Reform LGBTQ+ Rights Improving K-12 Education Expanding Access to Higher Education Uplifting Families Combating Opioid Addiction SOCIAL Facebook Twitter Instagram PAID FOR BY JOE MORELLE FOR CONGRESS bottom of page

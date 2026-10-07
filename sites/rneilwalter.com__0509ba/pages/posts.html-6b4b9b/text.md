@@ -1,4 +1,4 @@
-| The 250th anniversary of the Declaration of Independence is an extraordinary event and worth celebrating.
+UT 74 VOTE ABOUT Posts Experience Contact America 250 7/2/2026 The 250th anniversary of the Declaration of Independence is an extraordinary event and worth celebrating.
 The Declaration and the American Revolution changed the course of history.
 In a first of its kind, the people required the government to serve them instead of the people serving the government.
 It introduced powerful principles that reverberate across our country today.
@@ -30,7 +30,7 @@ They identified three truths that transcend the form of government, and they hel
 The founders also reminded us in the preamble to the Constitution, "in order to...secure the blessings of liberty to ourselves and our posterity" that we would have honor these truths and protect these God given rights through succeeding generations.
 Each generation is responsible to carry the fire of the Declaration and the founding principles of this country as a steward for the next.
 While we may not be required to "pledge to each other our Lives, our Fortunes and our sacred Honor" in the way the founders did, we can make a small but meaningful contribution in our celebrations of the 250th anniversary of the Declaration this July 4th weekend as we help our children remember how blessed they are to live in the United States of America.
-Over the past several years, rising prices have reshaped how households, businesses, and investors make decisions.
+Inflation, Interest Rates, and Housing 2/25/2026 Over the past several years, rising prices have reshaped how households, businesses, and investors make decisions.
 Inflation, higher interest rates, and affordability pressures now define conversations around housing, development, and long-term growth.
 While recent data suggests inflation has moderated, the cumulative impact of price increases since 2020 continue to influence buyer behavior, rental demand, construction activity, and capital allocation across the real estate landscape.
 Inflation is the economic term for rising prices.
@@ -43,7 +43,7 @@ In recent years, we have been following a similar trend.
 Since 2020, the cost of goods and services has increased by 25% on average.
 The price of homes has increased by more than 50% in some states.
 The stock market, as measure by the S&P500, has increased by 112%.
-Although by today’s estimates inflation appears to be under control, if we were to follow the trend from 50 years ago, it would mean a third wave of rising prices across the economy.
+Although by today’s estimates inflation appears to be under control, if we were to follow the trend from #ago, it would mean a third wave of rising prices across the economy.
 One of the biggest drivers of inflation is the United States deficit and debt.
 The Trump administration pared back the federal deficit in 2025, but we are still looking at $1.5 trillion more spending than revenue.
 The administration is hoping lower interest rates will cut the deficit further, but persistent deficit spending could ignite a third wave of inflation across the economy.
@@ -53,12 +53,15 @@ Homeowners typically benefit while renters see costs rise.
 First-time buyers find purchasing more difficult.
 Young families and retirees are usually hit the hardest.
 I am doing all that I can to advocate for policies that help Utah residents with cost of living.
-While Utah state policy doesn't have the potential impact that federal policy does on inflation, I am supporting policy that will lower the price of gasoline, keep electricity and power costs affordable, and assist with home ownership and housing attainability.
-Ballot Initiatives and Constitutional Amendment D On August 21, 2024, the Utah House and Senate voted to place Constitutional Amendment D on the November ballot.
+While Utah state policy doesn't have the potential impact that federal policy does on inflation, I am supporting policy that will lower the price of gasoline, keep electricity and power costs affordable, and assist with home ownership and housing attainability. ​ I Support Constitutional Amendment D 8/30/2024 Ballot Initiatives and Constitutional Amendment D On August 21, 2024, the Utah House and Senate voted to place Constitutional Amendment D on the November ballot.
 Some mistakenly believe that the actions of the Legislature would take away the right of the people to change government through ballot initiatives.
 This is not true.
 This constitutional amendment will preserve the initiative format as it has existed for 130 years in Utah.
-Failure to pass this constitutional amendment may result in the following: Alaska is good example of what can go wrong.
+Failure to pass this constitutional amendment may result in the following: Enabling of foreign governments or outside interests running ballot initiatives in Utah.
+Utah governance trending toward California where there are 11 initiatives on the ballot this November.
+Past initiatives in California have legalized recreational marijuana, busted state budgets, and reduced looting from a felony to a misdemeanor hurting public safety.
+The creation of "superlaws" that may have unintended consequences.
+Alaska is good example of what can go wrong.
 A 25-page ballot initiative was passed in 2020 that promised "better elections".
 According to the Wall Street Journal in an article published on August 29, 2024, the initiative was funded by left-leaning groups and out of state wealthy liberals calling themselves "Alaskans for Better Elections".
 Real Alaskans are fighting back to take control of their elections after 48 candidates qualified for a recent primary creating confusion for voters.
@@ -68,21 +71,17 @@ Opposing Constitutional Amendment D may result in attracting out of state money 
 Ultimately, the decision is up to you.
 The Utah Legislature can't make this decision.
 It will be up to the voters in the State of Utah.
-Enabling of foreign governments or outside interests running ballot initiatives in Utah.
-Utah governance trending toward California where there are 11 initiatives on the ballot this November.
-Past initiatives in California have legalized recreational marijuana, busted state budgets, and reduced looting from a felony to a misdemeanor hurting public safety.
-The creation of "superlaws" that may have unintended consequences.
-Nearly everyone is talking about housing in Utah.
+Housing and Inflation 2/25/2023 Nearly everyone is talking about housing in Utah.
 The high cost of housing is a concern for young families considering purchasing their first home, for parents thinking about the next generation, for seniors on fixed incomes struggling with rising property taxes, for those without a home, and for those who rent.
 Rising housing costs impact both urban and rural communities.
 Much of our future wealth creation and community stability rest on our housing policy over the coming decades.
 Structurally Short Supply In Utah, we are building residential housing at a furious rate.
-Along the Wasatch Front in 2022 we pulled 6,682 home building permits(1) and completed 11,773 multifamily units(2).
+Along the Wasatch Front in 2022 we pulled 6,682 home building permits (1) and completed 11,773 multifamily units (2) .
 That is a an estimated 18,455 new housing units along the Wasatch Front in 2022.
-In Washington County, we pulled 1,934 home building permits(1) and completed 470 multifamily units(2).
+In Washington County, we pulled 1,934 home building permits (1) and completed 470 multifamily units (2) .
 That is an estimated 2,404 new housing units in Washington County.
 Adding 439 home building permits in Iron County, that is approximately 21,000 housing units statewide.
-Utah grew by 61,242 residents last year(3).
+Utah grew by 61,242 residents last year (3) .
 That is 22,269 housing units assuming 2.75 people per household.
 Except it doesn't account for short-term rentals and second homes.
 For generations, owning a home was the American dream.
@@ -135,10 +134,10 @@ Finally, housing is critical to community stability and wealth creation.
 Given the current context of an inflationary economic cycle, a measure of restraint and patience may be the best solution so as to avoid pushing home prices even higher when policies were intended to keep housing costs down.
 (1) ERA Brokers Consolidated 2023 Residential Review.
 Click on the "Residential Market Research" link below for more information.
-(2) NAI Excel \| NAI Vegas 2023 Commercial Real Estate Outlook.
+(2) NAI Excel | NAI Vegas 2023 Commercial Real Estate Outlook.
 Click on the "Commercial and Multi-family Market Research" link below for more information.
 (3) Utah Population Estimates Committee effective July 1, 2022.
-Restraining the size of state government requires restricting its access to revenue.
+Residential Market Research Commercial and Multi-family Market Research Tax Policy and Restraining the Size of State Government 2/22/2023 Restraining the size of state government requires restricting its access to revenue.
 Governments tend to consume whatever revenue is in front of them.
 The best way to keep state government from growing faster than a state economy is to constrain access to revenue.
 Many states are effectively controlling the cost of government operations.
@@ -170,7 +169,7 @@ Summary It is very difficult to constrain spending in government.
 The most effective constraints on spending are those that limit resources.
 The constitutional earmark limited the growth of the largest, fastest growing portion of government.
 If the citizens vote to approve the constitutional amendment, it will be up to the legislature and the citizens to do the hard work the earmark has done for us over many decades contributing to Utah's status as the best managed state.
-The Utah House of Representatives passed a critical bill that supports youth and families.
+Social Media and Our Youth 2/11/2023 The Utah House of Representatives passed a critical bill that supports youth and families.
 HB 311, "Social Media Usage Amendments" empowers parents to safeguard children, fight back against addictive algorithms, and hold social media companies responsible.
 In 2021, the Wall Street Journal published an article "How TikTok Serves Up Sex and Drug Videos".
 The Journal highlighted how the social media platform sent to accounts for minors dozens and in some cases hundreds of videos promoting drugs, sex, and pornography.
@@ -179,14 +178,14 @@ It contributes to the mental health struggles of our youth.
 We are concerned about mental health in our communities.
 Intermountain Health created a video to feature the importance of this issue and share their perspective about the connection between mental health and physical health for our youth.
 This bill specifically addresses the kind of content that undermines both physical and emotional health.
-Something can be done about this.
+Intermountain Health Youth Mental Health Video Something can be done about this.
 For streaming services such as Netflix, Disney+, or Amazon Prime there are rating systems and content restrictions for minors.
 For online video games and consoles, there are rating systems and content restrictions for minors.
 For decades, movies have had rating systems and content restrictions.
 We restrict content downloaded in schools and other public settings because it is not appropriate for minors.
 It is reasonable and appropriate for the State of Utah to restrict the kind of content that is distributed to minors on social media.
 Further, social media companies have a responsibility to stop sending harmful pornographic, drug related, and self harm content to youth.
-In the United States, we believe individuals have a right to pursue happiness.
+Children and Consent in Utah 1/27/2023 In the United States, we believe individuals have a right to pursue happiness.
 It is called out in our founding documents as a god given inalienable right.
 Government intervenes when the exercise of these rights come into conflict with another's constitutional rights.
 A simple example of this conflict is when one person, in an effort to pursue happiness, takes something from another person.
@@ -203,13 +202,17 @@ Last, minors have rights, but their rights are also restricted.
 Minors are subject to the appropriate exercise of parental rights.
 We restrict driving, enlisting in the military, marriage, entertainment and media content, consuming products or substances, and entering into binding contractual agreements.
 While each of these examples may have undesired consequences, they are not permanent.
-One can leave military service, divorce, stop consuming certain media or products, and a minor who enters into a contract with an adult is voidable. 2023 Utah Senate Bill 16 address a sensitive issue.
+One can leave military service, divorce, stop consuming certain media or products, and a minor who enters into a contract with an adult is voidable.
+2023 Utah Senate Bill 16 address a sensitive issue.
 The bill is titled "Transgender Medical Treatments and Procedures Amendments".
 It was sponsored in the Senate by a practicing physician and in the House by a practicing nurse.
 This bill does specific things: 1.
-It requires the Department of Health and Human Services to conduct a systematic review of the medical evidence regarding hormonal transgender treatments and provide recommendations to the Legislature. 2.
-It prohibits a health care provider from providing a hormonal transgender treatment to new patients. 3.
-It prohibits performing sex characteristic surgical procedures on a minor for the purpose of effectuating a sex change. 4.
+It requires the Department of Health and Human Services to conduct a systematic review of the medical evidence regarding hormonal transgender treatments and provide recommendations to the Legislature.
+2.
+It prohibits a health care provider from providing a hormonal transgender treatment to new patients.
+3.
+It prohibits performing sex characteristic surgical procedures on a minor for the purpose of effectuating a sex change.
+4.
 It addresses certain legal remedies.
 Before voting on this bill, I spoke to people who felt strongly from both sides.
 I recognize that there are individuals who believe the Utah Legislature made the wrong decision on this issue.
@@ -223,12 +226,12 @@ Some would argue that this is a life saving procedure and that there are other m
 I respect that perspective.
 As I weighed the issue, I felt voting for the bill was the right thing to do.
 Below is a link to the full text of the bill.
-On Friday January 20, 2023, the Utah State House of Representatives voted to pass HB215, also know as Utah Fits All.
+Link to View SB 16 Utah Fits All 1/21/2023 On Friday January 20, 2023, the Utah State House of Representatives voted to pass HB215, also know as Utah Fits All.
 I was one of 54 House members who voted in favor of the bill.
 The Senate is expected to take up the bill this week and the Governor is expected to sign it.
 This bill has broad positive impacts for students, families, and teachers in the State of Utah.
 A few highlights: 1. $200 million for teacher raises.
-Utah's teachers will receive a $4,200 raise plus an additional $1,800 increase in paid benefits, totaling $6,000 for Utah's district and charter school teachers. 2.
+Utah's teachers will receive a $4,200 raise plus an additional $1,800 increase in paid benefits, totaling $6,000 for Utah's district and charter school teachers. ​ 2.
 A new scholarship will be available to approximately 5,000 of Utah's 675,000 students (about 4 students in each school).
 The scholarship prioritizes low income students, and provides funds for those students and their parents to pursue alternative education options directed by the family.
 This student scholarship, also referred to an education savings account, is not unique to Utah.
@@ -241,15 +244,13 @@ I am for education.
 I am for schools.
 I am for teachers, I am for students, and I am for families.
 If you would like to learn more about the bill, below are two helpful summaries.
-Download File Download File I'm looking forward to the 2023 legislative session.
+HB215 Overview File Size: 78 kb File Type: pdf Download File HB215 Legislative Summary File Size: 46 kb File Type: pdf Download File View House Bill 215 2023 Legislative Priorities 1/11/2023 I'm looking forward to the 2023 legislative session.
 I am assigned to the Education and Political Subdivisions standing committees and the Social Services appropriations committee for this session.
 The 2023 Utah House of Representatives Majority Caucus has set priorities for the upcoming session.
 They align in three categories, stewardship, affordability, and investment.
 These categories align with many issues in Utah that are important to the people I have heard from.
 Housing, taxes, water, energy, development and public lands, education, and roads are all impactful issues in our communities.
-While there will be nearly 1,000 bills considered in this session, I'm hopeful that on a few key issues I can help make a positive difference.
-To learn more about these policy priorities, download the PDF document below.
-Download File As we reflect on the passing year and express wishes for a safe and happy new year, Alfred Tennyson's poem "In Memoriam" has special meaning.
+While there will be nearly 1,000 bills considered in this session, I'm hopeful that on a few key issues I can help make a positive difference. ​To learn more about these policy priorities, download the PDF document below.​ 2023 Utah House Majority Policy Priorities File Size: 14443 kb File Type: pdf Download File Ring in our Better Selves 1/1/2023 As we reflect on the passing year and express wishes for a safe and happy new year, Alfred Tennyson's poem "In Memoriam" has special meaning.
 The poem was written after the passing of a dear friend, Arthur Henry Hallam in 1833 at age 22.
 Tennyson's poem stretches 2,916 lines organized into 133 sections.
 It took him 17 years to compose.
@@ -258,7 +259,7 @@ Tennyson then in the subsequent stanzas invites us to ring out and let go of the
 "Ring out the grief that saps the mind," "Ring out the feud of rich and poor," "Ring out a slowly dying cause, And ancient forms of party strife;" "Ring out the want, the care, the sin, The faithless coldness of the times;" "Ring out false pride in place and blood, The civic slander and the spite; "Ring out old shapes of foul disease;" "Ring out the narrowing lust of gold;" "Ring out the thousand wars of old," Tennyson, simultaneously invites us to ring in our better natures and hope for a redeemed future and the prophesied Millennium: "Ring in the true." "Ring in redress to all mankind." "Ring in the nobler modes of life, With sweeter manners, purer laws." "Ring in the common love of good." "Ring in the thousand years of peace." "Ring in the Christ that is to be." Tennyson understood that the teachings of Jesus Christ were the solution to the challenges of their day.
 As we face grief, feuds, political strife, indifference, pride, pandemic, and war in our day, Tennyson's assertion still rings true.
 We too can look forward to peace and remember that there is much good in the year ahead.
-Every year, the day before Thanksgiving, the Wall Street Journal publishes an article titled “And the Fair Land”.
+Bright Future 12/20/2022 Every year, the day before Thanksgiving, the Wall Street Journal publishes an article titled “And the Fair Land”.
 Following is an excerpt from the article: “at home they see young arrayed against old, black against white, neighbor against neighbor…they see that the cities and countryside are in need of repair, yet find themselves threatened by scarcities of the resources that sustain their way of life.” It is easy to find challenges in our country today.
 There is much to be concerned about in politics, economics, education, and civics.
 But what is right in our country exceeds what is wrong with it.
@@ -268,7 +269,7 @@ We can remind ourselves that for all our social discord we yet remain the longes
 Being so, we are the marvel and the mystery of the world, for that enduring liberty is no less a blessing than the abundance of the earth.” The resilience of a people that value liberty combined with the natural resources and financial capital of the people and institutions of this great country are reason for hope to exceed despair.
 For optimism to surpass discouragement.
 For the future to be even brighter than our past.
-Semantics: "the meaning of a word, phrase, sentence, or text" (Oxford Languages, 2022 09 07).
+Political Semantics 9/7/2022 Semantics: "the meaning of a word, phrase, sentence, or text" (Oxford Languages, 2022 09 07).
 Over long periods of time, the meaning of words change.
 The context for their use may change, the way they are used may change, and their frequency may change.
 "Square" in the 1950s was used differently and more frequently that it is today.
@@ -305,7 +306,7 @@ If we choose to change their meaning, what words do we use to say what we used t
 The solution to economic prosperity is straightforward.
 Fiscal responsibility, sound money, and stable regulatory policy.
 The solution to our identity is not to rewrite history, whitewash it, or redefine it, it is to learn from it and be better today because of it.
-United States of America is still the most powerful economic influence in the world.
+Inflation and Geopolitics 3/5/2022 United States of America is still the most powerful economic influence in the world.
 If we choose to "drill baby drill", over the long run we will simultaneously erode Russia's financial ability to wage war on Ukraine and others by driving global energy prices down and slow inflation.
 This would begin the liberation of Eastern Europe from Russian influence through economic policy.
 As natural gas supplies increase, we can re-route liquefied natural gas exports from China to Europe.
@@ -327,7 +328,7 @@ A United States Government that is not dependent on its allies or aggressors for
 On defense, we should be the most respected nation in the world both because of our capability and our restraint.
 If we can’t lead from the White House, we should lead from the respective states.
 Let states set in motion a wave of capitalism and freedom that will demonstrate the influence for good that God given rights protected by Constitutional governance, including life, liberty, property, and the pursuit of happiness can have on the lives of our people.
-Real estate markets in 2021 showed historic gains as prices soared on low inventory.
+2022 Real estate forecast 2/1/2022 Real estate markets in 2021 showed historic gains as prices soared on low inventory.
 Looking ahead, these six drivers will impact housing markets in 2022.
 Population Shifts The trend toward the south and the intermountain west accelerated as employers became more flexible with work-from-home options and higher-ed has expanded online learning.
 Migration that favored large urban centers with high concentrations of employment and education is now leaning toward recreation, tourism, and open space.
@@ -352,7 +353,7 @@ In 2022, wages, home values, and materials are all expected to rise.
 It is a challenging time for housing affordability.
 Conclusion While we won’t solve the affordability problem in 2022, we do know that over a lifetime, owning beats renting consistently.
 Long-term housing stability and closing the wealth gap in the United States both point to home ownership.
-For more information please visit https://erabrokers.com/research/ The last twelve months have seen sentiment in residential housing markets change dramatically.
+For more information please visit https://erabrokers.com/research/ 2021 Mid-year real estate update 8/1/2021 The last twelve months have seen sentiment in residential housing markets change dramatically.
 The result is one of the most dynamic and challenging housing markets in memory.
 Following is a brief overview of market conditions over the past twelve months and a look at what to expect in the second half of 2021.
 Summer 2020 The summer of 2020 ended the first wave of COVID-19 cases and with it came a sense that the pandemic might be easing.
@@ -391,7 +392,7 @@ Supply constraints will continue to disrupt builders, but not at the same level 
 Rental demand will remain high and rental units will remain under supplied, causing rents to continue to rise in most markets.
 Price levels are at risk if interest rates rise, remote employees are called back to the office, or builders get ahead of market demand.
 Given the current conditions, we expect prices to rise in the second half of 2021, although more slowly than in the first half of the year.
-For more information visit https://erabrokers.com/research/ One year ago, in March 2020, State and Local Governments put the United States into a recession in response to the global COVID-19 Pandemic.
+For more information visit https://erabrokers.com/research/ Covid economic outlook, one Year Later 3/21/2021 #ago, in March 2020, State and Local Governments put the United States into a recession in response to the global COVID-19 Pandemic.
 From the outset, it was apparent this recession would be unlike the past recession, or any other in our memory (see my post from March 19, 2020).
 It set in motion structural changes in our economy that will last decades.
 V, U, W, K Recovery As soon as the recession was declared, economists tried to describe the shape of the recovery.
@@ -467,7 +468,12 @@ Homeowners, suburban and rural communities, and essential services are winners t
 Urban centers, renters, children, and low wage earners are feeling the downside.
 The policies of the last year are highly inflationary, even if inflation doesn’t show up in traditional consumption items such as food, fuel, or other household purchases.
 Asset prices are rising and will do so until the policy induced stimulus runs out.
-Reduce Your Tax Liability, Buy Commercial Real Estate If you have had strong income or expect to have a significant taxable income this year, investing in real estate may help.
+Reduce Your Tax Liability, Buy Real Estate 4/2/2020 Reduce Your Tax Liability, Buy Commercial Real Estate The Tax Cuts and Jobs Act allows for 5 and 15 year property to be fully depreciated in the year the property is put in service.
+This provision benefits those who need depreciation tax benefits today more than in the future.
+Benefits could be up to 10 times larger in year 1.
+You may be able to offset taxable income for prior years.
+Consult your tax professional to determine what is appropriate for to your situation.
+If you have had strong income or expect to have a significant taxable income this year, investing in real estate may help.
 You can either pay the IRS, or do something they have incentivized you to do that allows you to keep your hard earned income.
 It is not unusual for the tax code to use taxes to incentivize certain types of investment.
 For example, if you make financial contributions to a qualified retirement accounts, those contributions are deductible and reduce your overall taxable income, which reduces the amount of taxes owed in the year you make the investment.
@@ -482,7 +488,8 @@ Instead of being depreciated over 39.5 years, a cost segregation study separates
 For example, 15 year improvements are those improvements that have to be replaced in approximately 15 years because their useful life has been exceeded.
 This may include tenant improvements, the roof, or the HVAC system.
 Segregating improvements into their respective 5, 15, and 39.5 year useful lives provides larger deductions in earlier years relative to a standard 39.5 year depreciation schedule.
-Given that depreciation reduces taxable income and assuming that depreciation today is more valuable than depreciation in the future, accelerated depreciation is valuable. 2017 Tax Law Allows for Accelerated Depreciation President Trump’s tax law, Tax Cuts and Jobs Act, passed in 2017 made a substantial change to depreciation that benefits commercial real estate owners.
+Given that depreciation reduces taxable income and assuming that depreciation today is more valuable than depreciation in the future, accelerated depreciation is valuable.
+2017 Tax Law Allows for Accelerated Depreciation President Trump’s tax law, Tax Cuts and Jobs Act, passed in 2017 made a substantial change to depreciation that benefits commercial real estate owners.
 It allows for 5 and 15 year property designated in a cost segregation study to be fully depreciated in the year the property is put in service.
 That means that if you purchase and put in use a property in 2020 and the property has $500,000 in 5 and 15 year improvements, then the owner could deduct up to $500,000 in depreciation in 2020.
 Also significantly, the tax law in certain cases authorizes you to use the depreciation benefits to offset prior year income.
@@ -505,18 +512,13 @@ Benefits to owning real estate include the ability to depreciate the consumable 
 The depreciation benefits are set by the IRS and were revised in the 2017 Tax Cuts and Jobs Act.
 The revision resulted in the ability to accelerate depreciation and reduce taxable income today.
 This can be a valuable benefit for investors looking to offset taxable income from real estate investments.
-The Tax Cuts and Jobs Act allows for 5 and 15 year property to be fully depreciated in the year the property is put in service.
-This provision benefits those who need depreciation tax benefits today more than in the future.
-Benefits could be up to 10 times larger in year 1.
-You may be able to offset taxable income for prior years.
-Consult your tax professional to determine what is appropriate for to your situation.
-Working out Leases and Loans The speed at which the economy stopped in 2020 put tremendous strain on landlord and tenant relationships.
+Working Out Leases And Loans 4/2/2020 Working out Leases and Loans The speed at which the economy stopped in 2020 put tremendous strain on landlord and tenant relationships.
 The Government’s actions to intentionally stop the economy to slow the spread of COVID 19 have closed or otherwise harmed many successful businesses.
 Tenants and landlords are both at risk from the economic impact.
 Property owners and lenders may feel similar tension.
 This discussion can be applied in both contexts, landlord/tenant and lender/owner.
 Landlords and tenants may seem to be at odds, but their interests are more aligned than is readily apparent.
-When a landlord receives notice of a tenant in distress, at least six options can be considered: We recommend evaluating each situation and identifying the best solution based on the unique circumstances.
+When a landlord receives notice of a tenant in distress, at least six options can be considered: Do nothing Waive all or partial rent Extend the lease term Make up payments over time Use the security deposit Improve the credit quality We recommend evaluating each situation and identifying the best solution based on the unique circumstances.
 Recognize that with any of these options there are laws and contracts in place that may impact the decision making process.
 The context for discussing these options is commercial real estate, but the principles can be applied to residential scenarios with appropriate deference to applicable law and regulation.
 Option 1: Do Nothing If a tenant requests relief, the landlord is not obligated to grant the relief.
@@ -572,15 +574,21 @@ In considering these options, it is important to make sure than any adjustment i
 Finally, it is critically important that whatever decision is made, document the revised terms in writing signed by the parties as an amendment to the agreement.
 Landlords and tenants can obtain better results as they work together.
 NAI Excel, NAI Vegas, and its affiliates manage over $350 million in real estate assets from Salt Lake to Las Vegas and are available to assist in managing Landlord and Tenant relations.
-Do nothing Waive all or partial rent Extend the lease term Make up payments over time Use the security deposit Improve the credit quality The United States government struggled with the COVID-19 recovery bill to address the recession the government created.
-It will not be implemented but here is my proposal (skip to #5 below if you are in a hurry). 1) The bill that is being considered is enormous and highly inefficient.
-It will get passed anyway. 2) We should not subsidize state and local governments.
+United states Recovery Bill, Try this...
+3/24/2020 The United States government struggled with the COVID-19 recovery bill to address the recession the government created.
+It will not be implemented but here is my proposal (skip to #5 below if you are in a hurry).
+1) The bill that is being considered is enormous and highly inefficient.
+It will get passed anyway.
+2) We should not subsidize state and local governments.
 They made the decision to go into recession, their revenues are protected (utilities, property taxes, income taxes).
-Sales tax has exposure, but it has always been more volatile than income and property taxes. 3) We should not subsidize businesses or industries.
+Sales tax has exposure, but it has always been more volatile than income and property taxes.
+3) We should not subsidize businesses or industries.
 Their assets will be bought and the human capital will not be destroyed.
-Let the situation play out with investors and creditors. 4) We should not try and solve the situation through unemployment insurance.
+Let the situation play out with investors and creditors.
+4) We should not try and solve the situation through unemployment insurance.
 It is too bureaucratic.
-The money will not get distributed when it is needed, and then too much will get distributed when it is not needed. 5) There are approximately 130 million households in the United States.
+The money will not get distributed when it is needed, and then too much will get distributed when it is not needed.
+5) There are approximately 130 million households in the United States.
 Congress will approve an astounding $2 trillion dollar package.
 That is $15,000 per household.
 Why not send every household $15,000?
@@ -592,7 +600,7 @@ The payments will allow everyone to either get through the next couple of months
 Those who don’t end up needing it can return it on the next tax return.
 The rest of the country will be set to deal with the recession the government created.
 This solution can be executed fast, it is easy to implement, and easy to administer.
-We are in Recession The United States moved into recession because of COVID-19 and subsequent governmental actions.
+Not like the last recession 3/19/2020 Graphics published by the Wall Street Journal Daily Shot 2019 03 18 We are in Recession The United States moved into recession because of COVID-19 and subsequent governmental actions.
 It hasn't been confirmed by official statistics, that will take time.
 A recession is defined as two consecutive quarters of falling Gross Domestic Product (GDP).
 The first quarter of 2020 will show a small drop in GDP because of COVID-19 personal distancing measures and impacts to nonessential business implemented by governments in March.
@@ -643,23 +651,23 @@ Third, change is inevitable.
 We can't always predict the source of change, but we can adapt and be responsive to change.
 Our world changed in the matter of a few months.
 The more quickly we make adjustments, the quicker we will begin the process of recovering.
-Market research is an important aspect of real estate.
+A Decade of growth 2/8/2020 Market research is an important aspect of real estate.
 In preparing for our Commercial Real Estate Outlook and Residential Review, we took additional time and space to outline fundamental demographic trends that will shape the intermountain region.
-Some highlights: We are excited about the long term fundamentals of our markets.
-Over the next five years, population from Las Vegas to Salt Lake is projected to expand by approximately 350,000 people according to Utah and Nevada official estimates.
-That expansion will require 125,000 housing units.
-The corresponding commercial real estate expansion of Industrial, Office, and Retail is estimated to be 50-60 million square feet to accommodate the same population increase.
-This does not include schools, universities, hospitals, hospitality, and other special use assets.
-The following five years from 2026-2030 are projected to grow by nearly that amount again reaching to 600,000 new people.
-To view the reports see below.
-Download the 2020 NAI Excel \| NAI Vegas Decade in Review here: https://excelcres.com/market-research/ Download the 2020 ERA Brokers Consolidated Residential Review here: https://erabrokers.com/research/ In taking a regional approach (Salt Lake City to Las Vegas), we are better able to see trends moving through local markets and anticipate market changes.
+Some highlights: In taking a regional approach (Salt Lake City to Las Vegas), we are better able to see trends moving through local markets and anticipate market changes.
 Changes in population drive both residential housing units and commercial and industrial expansion.
 Last decade began with an oversupply of residential units, industrial space, office space, and retail space.
 Real estate construction was slow to start because of the oversupply.
 We begin 2020 with tight real estate markets.
 Residential, industrial, office, and retail markets are all tight today.
 Construction over the next decade will outpace construction from the past decade.
-Many have proclaimed their disapproval over elections outcomes.
+We are excited about the long term fundamentals of our markets.
+Over the next five years, population from Las Vegas to Salt Lake is projected to expand by approximately 350,000 people according to Utah and Nevada official estimates.
+That expansion will require 125,000 housing units.
+The corresponding commercial real estate expansion of Industrial, Office, and Retail is estimated to be 50-60 million square feet to accommodate the same population increase.
+This does not include schools, universities, hospitals, hospitality, and other special use assets.
+The following five years from 2026-2030 are projected to grow by nearly that amount again reaching to 600,000 new people.
+To view the reports see below.
+Download the 2020 NAI Excel | NAI Vegas Decade in Review here: https://excelcres.com/market-research/ Download the 2020 ERA Brokers Consolidated Residential Review here: https://erabrokers.com/research/ Path to Less Contentious Politics 1/13/2019 Many have proclaimed their disapproval over elections outcomes.
 Some have suggested foul play because their candidate isn't automatically declared the winner.
 Some have labeled elections processes undemocratic.
 In a few instances, unsatisfied individuals propose a referendum or ballot initiative to change election rules.
@@ -699,7 +707,7 @@ By definition it is slow, you don't get everything you want, and there are oppos
 Understanding the process is an important part of participation.
 Citizens understand what it means to vote, but frequently misunderstand the process and misinterpret the outcomes.
 We must do a better job educating voters and their children about our elections and legislative processes if we want better voter participation with less contention in the future.
-As a new public charter school authorized for 8-12th grades opening in August of this year, St.
+Charter Schools Impact on District schools 3/5/2017 As a new public charter school authorized for 8-12th grades opening in August of this year, St.
 George Academy will help benefit all of the students in Southern Utah.
 Michael Dee Martineau titled his 2013 Department of Economics PhD dissertation at the University of Utah “The Competitive Effects of Charter Schools in Utah.” In his paper, he concluded “districts that have seen a greater degree of charter competition tend to see increases in traditional public school achievement”.
 St.
@@ -737,24 +745,13 @@ Education is a resourceful teacher inspiring students to learn.
 St.
 George Academy will benefit the students walking through the doors, but it will do more.
 Our students, parents, faculty, and community members desire to be part of the solution in their own lives, and hopefully realize the conclusion asserted in Mr.
-Martineau’s paper, “a greater degree of school choice in Utah can indeed be a rising tide that lifts all boats.” You can read the full dissertation here: https://collections.lib.utah.edu/details?id=195861 While the rest of the United States and the Wasatch Front have seen multi‐family development recover, expand, and peak, Washington County has failed to build a single unit of market rate multi‐family housing in a configuration over 20 units as of this writing.
+Martineau’s paper, “a greater degree of school choice in Utah can indeed be a rising tide that lifts all boats.” You can read the full dissertation here: https://collections.lib.utah.edu/details?id=195861 Affordable Housing in Washington County, UT 1/18/2017 While the rest of the United States and the Wasatch Front have seen multi‐family development recover, expand, and peak, Washington County has failed to build a single unit of market rate multi‐family housing in a configuration over 20 units as of this writing.
 Even with rising rents and record low vacancies, development lags.
 This analysis considers the reasons for sluggish developer demand and proposes solutions to ensuring there are more affordable housing options in the St.
 George area in the future.
-I reviewed over 30 charter school bond issues for schools located in Utah.
+Click Here to Download White Paper and Recommendations Utah Charter School Bond Abstracts 10/24/2016 I reviewed over 30 charter school bond issues for schools located in Utah.
 The process involved reading the offering statements and aggregating information about the school, the key service providers, interest rates, and key economic terms.
 For easy reference, I've assembled the data into two tables and used the data to create charts showing key relationships related to interest rates.
 Larger schools and schools with better credit ratings clearly have a financing advantage relative to smaller, lower credit quality schools.
-Further, they have lower relative issuance costs. | |
-| HB215 Overview | |
-| File Size: | 78 kb |
-| File Type: | |
-Download File
-| HB215 Legislative Summary | |
-| File Size: | 46 kb |
-| File Type: | |
-Download File
-| 2023 Utah House Majority Policy Priorities | |
-| File Size: | 14443 kb |
-| File Type: | |
-Download File
+Further, they have lower relative issuance costs.
+Click Here to Download the Table and Charts for Charter School Bond Issues <<Previous read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

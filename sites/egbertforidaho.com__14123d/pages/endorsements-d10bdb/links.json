@@ -1,12 +1,46 @@
 [
-"http://facebook.com/meganforidaho",
-"http://instagram.com/meganforidaho",
-"http://twitter.com/meganforidaho",
-"https://egbertforidaho.com/",
-"https://egbertforidaho.com/about",
-"https://egbertforidaho.com/cart",
-"https://egbertforidaho.com/endorsements",
-"https://egbertforidaho.com/lets-get-in-touch",
-"https://egbertforidaho.com/volunteer",
-"https://secure.fundhero.com/meganegbert"
+{
+"text": "0",
+"href": "https://www.egbertforidaho.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.egbertforidaho.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.fundhero.com/meganegbert"
+},
+{
+"text": "Endorsements",
+"href": "https://www.egbertforidaho.com/endorsements"
+},
+{
+"text": "Get in touch",
+"href": "https://www.egbertforidaho.com/lets-get-in-touch"
+},
+{
+"text": "Let's Get in Touch",
+"href": "https://www.egbertforidaho.com/lets-get-in-touch"
+},
+{
+"text": "Volunteer",
+"href": "https://www.egbertforidaho.com/volunteer"
+},
+{
+"text": "[image: Megan Egbert for Idaho]",
+"href": "https://www.egbertforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/meganforidaho"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/meganforidaho"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/meganforidaho"
+}
 ]

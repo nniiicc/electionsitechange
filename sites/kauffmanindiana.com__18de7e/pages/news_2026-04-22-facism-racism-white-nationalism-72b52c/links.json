@@ -1,28 +1,126 @@
 [
-"https://facebook.com/kauffmanindiana",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kauffmanindiana.com%2Fnews%2F2026-04-22-facism-racism-white-nationalism",
-"https://instagram.com/kauffmanindiana",
-"https://kauffmanindiana.com/",
-"https://kauffmanindiana.com/about",
-"https://kauffmanindiana.com/contact",
-"https://kauffmanindiana.com/credits",
-"https://kauffmanindiana.com/district",
-"https://kauffmanindiana.com/donate",
-"https://kauffmanindiana.com/get-involved",
-"https://kauffmanindiana.com/issues",
-"https://kauffmanindiana.com/issues/childcare",
-"https://kauffmanindiana.com/issues/economy-jobs",
-"https://kauffmanindiana.com/issues/education",
-"https://kauffmanindiana.com/issues/healthcare",
-"https://kauffmanindiana.com/issues/immigration",
-"https://kauffmanindiana.com/issues/property-taxes",
-"https://kauffmanindiana.com/news",
-"https://kauffmanindiana.com/news/2026-02-09-kauffman-announces-candidacy",
-"https://kauffmanindiana.com/news/2026-04-20-reproductive-rights-my-personal-story",
-"https://kauffmanindiana.com/news/2026-06-17-healthcare-bridge-to-better-care",
-"https://penguinrandomhouse.com/books/239826/by-water-beneath-the-walls-by-benjamin-h-milligan",
-"https://threads.com/@kauffmanindiana",
-"https://threads.net/intent/post?text=The+Compass+My+Father+Gave+Me+https%3A%2F%2Fwww.kauffmanindiana.com%2Fnews%2F2026-04-22-facism-racism-white-nationalism",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kauffmanindiana.com%2Fnews%2F2026-04-22-facism-racism-white-nationalism&text=The+Compass+My+Father+Gave+Me",
-"https://valor.militarytimes.com/recipient/recipient-20582"
+{
+"text": "About",
+"href": "https://www.kauffmanindiana.com/about"
+},
+{
+"text": "About Kelsey",
+"href": "https://www.kauffmanindiana.com/about"
+},
+{
+"text": "Apr20IssuesReproductive Rights: My Personal StoryRead more→",
+"href": "https://www.kauffmanindiana.com/news/2026-04-20-reproductive-rights-my-personal-story"
+},
+{
+"text": "By Water Beneath the Walls",
+"href": "https://www.penguinrandomhouse.com/books/239826/by-water-beneath-the-walls-by-benjamin-h-milligan/"
+},
+{
+"text": "Childcare",
+"href": "https://www.kauffmanindiana.com/issues/childcare"
+},
+{
+"text": "Contact",
+"href": "https://www.kauffmanindiana.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.kauffmanindiana.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://www.kauffmanindiana.com/donate"
+},
+{
+"text": "Economy and Jobs",
+"href": "https://www.kauffmanindiana.com/issues/economy-jobs"
+},
+{
+"text": "Education",
+"href": "https://www.kauffmanindiana.com/issues/education"
+},
+{
+"text": "Feb9Press ReleaseKelsey Kauffman Announces Candidacy for Indiana House District 44Read more→",
+"href": "https://www.kauffmanindiana.com/news/2026-02-09-kauffman-announces-candidacy"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kauffmanindiana.com/get-involved"
+},
+{
+"text": "Healthcare",
+"href": "https://www.kauffmanindiana.com/issues/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.kauffmanindiana.com/"
+},
+{
+"text": "Image Credits",
+"href": "https://www.kauffmanindiana.com/credits"
+},
+{
+"text": "Immigration",
+"href": "https://www.kauffmanindiana.com/issues/immigration"
+},
+{
+"text": "Issues",
+"href": "https://www.kauffmanindiana.com/issues"
+},
+{
+"text": "Jun17IssuesHealthcare Is a Right: Building a Bridge to Better CareRead more→",
+"href": "https://www.kauffmanindiana.com/news/2026-06-17-healthcare-bridge-to-better-care"
+},
+{
+"text": "News",
+"href": "https://www.kauffmanindiana.com/news"
+},
+{
+"text": "Our District",
+"href": "https://www.kauffmanindiana.com/district"
+},
+{
+"text": "Property Taxes",
+"href": "https://www.kauffmanindiana.com/issues/property-taxes"
+},
+{
+"text": "[image: Kelsey Kauffman for Indiana]",
+"href": "https://www.kauffmanindiana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kauffmanindiana.com%2Fnews%2F%23-facism-racism-white-nationalism&text=The+Compass+My+Father+Gave+Me"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kauffmanindiana"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kauffmanindiana.com%2Fnews%2F%23-facism-racism-white-nationalism"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kauffmanindiana"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@kauffmanindiana"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/intent/post?text=The+Compass+My+Father+Gave+Me+https%3A%2F%2Fwww.kauffmanindiana.com%2Fnews%2F%23-facism-racism-white-nationalism"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=The+Compass+My+Father+Gave+Me&body=The+Compass+My+Father+Gave+Me+https%3A%2F%2Fwww.kauffmanindiana.com%2Fnews%2F%23-facism-racism-white-nationalism"
+},
+{
+"text": "historical accounts",
+"href": "https://valor.militarytimes.com/recipient/recipient-20582/"
+},
+{
+"text": "← Back to all news",
+"href": "https://www.kauffmanindiana.com/news"
+}
 ]

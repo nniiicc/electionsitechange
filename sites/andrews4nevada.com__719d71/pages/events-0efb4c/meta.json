@@ -1,9 +1,13 @@
 {
  "description": "Discover Nevada Democratic events, including Candidate Speed Dating and the Nevada General Election, hosted by the Red Rock Democratic Club.",
  "final_url": "https://andrews4nevada.com/events",
- "paid_for_by": null,
+ "fingerprint": "80019b483ea6c7822ab1856475efa6121d3d0419",
+ "format": 3,
+ "paid_for_by": "",
  "title": "EVENTS",
  "years_mentioned": [
-  "2022"
+  "2022",
+  "2024",
+  "2026"
  ]
 }

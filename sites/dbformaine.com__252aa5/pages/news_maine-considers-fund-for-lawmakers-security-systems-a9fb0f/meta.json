@@ -1,7 +1,16 @@
 {
  "description": "The Center Square covered a proposal in the Maine Legislature to establish a fund helping lawmakers secure their homes following a rise in threats against elected officials. The article referenced LD...",
  "final_url": "https://www.dbformaine.com/news/maine-considers-fund-for-lawmakers-security-systems",
- "paid_for_by": null,
+ "fingerprint": "3062575cc0723d077eeee6540430a4626b8933ca",
+ "format": 3,
+ "paid_for_by": "sponsored by Sen",
  "title": "Maine Considers Fund for Lawmakers' Security Systems - SENATOR DONNA BAILEY",
- "years_mentioned": []
+ "years_mentioned": [
+  "2018",
+  "2020",
+  "2022",
+  "2023",
+  "2024",
+  "2026"
+ ]
 }

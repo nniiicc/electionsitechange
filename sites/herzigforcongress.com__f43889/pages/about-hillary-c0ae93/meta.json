@@ -1,9 +1,12 @@
 {
  "description": "Get to know Hillary Herzig, candidate for Congress, and her plan to bring change and accountability to Washington.",
  "final_url": "https://www.herzigforcongress.com/about-hillary",
- "paid_for_by": null,
+ "fingerprint": "ba1453195f55490b13bbd6e6c6f74f92f84af95c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Hillary | Herzig For Congress",
  "years_mentioned": [
+  "2006",
   "2010",
   "2022",
   "2025"

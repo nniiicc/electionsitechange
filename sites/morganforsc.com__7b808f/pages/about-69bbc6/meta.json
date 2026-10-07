@@ -1,7 +1,9 @@
 {
- "description": "Alan moved to Greer as a High School student over 20 years ago and fell in love with the area. He purchased and renovated his current home near downtown Greer in 2015, and he resides there with the love of his life, his wife Karis. He is a graduate of Bob Jones University in Greenville. [\u2026]",
+ "description": "Alan moved to Greer as a High School student over 20 years ago and fell in love with the area. He purchased and renovated his current home near downtown Greer in 2015, and he resides there with the love of his life, his wife Karis. He is a graduate of Bob Jones University in Greenville. […]",
  "final_url": "https://morganforsc.com/about/",
- "paid_for_by": null,
+ "fingerprint": "70da94b54494faf8fb6a96b69007b2add489ca78",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About - Alan Morgan",
  "years_mentioned": [
   "2015",
@@ -10,6 +12,7 @@
   "2019",
   "2020",
   "2021",
-  "2022"
+  "2022",
+  "2026"
  ]
 }

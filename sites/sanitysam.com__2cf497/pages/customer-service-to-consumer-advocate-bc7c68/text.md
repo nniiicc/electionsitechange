@@ -1,13 +1,17 @@
-Customer service to consumer advocate
-Hello!
+Events Support the Campaign Sam for AZ House of Representatives Why Sam Martin?
+Who is Sam Martin?
+Support the Campaign Join The Sanity Campaign Why Sam Martin?
+Who is Sam Martin?
+Support the Campaign Join The Sanity Campaign No Widgets found in the Sidebar Alt!
+No Widgets found in the Sidebar Alt!
+Uncategorized Customer service to consumer advocate March 10, 2026 / Hello!
 My name is Samuel Martin and I am running for the Arizona House of Representatives in Legislative District 7.
 Oracle, San Manuel, Mammoth, Florence, Apache Junction, Payson, Globe, Show Low, Snowflake, Flagstaff, Williams - I want to represent you!
 I am a customer service pro with 20+ years of experience in technology, logistics, and healthcare; most recently, tech support for Microsoft Office 365 for Business, and overnight dispatch supervisor for Agero roadside assistance.
 In this work, I’ve heard from people all over the world and I’ve solved problems in half a dozen different industries.
 I regard the role of legislator as similar to roles I’ve filled successfully in the past - what that means for you is that, if elected, I’ll be listening to you and working together with government agencies to help you from day one.
 In my time at the service desk I have talked to many people and heard many many stories.
-Here are a few of the stories that make me passionate about consumer advocacy:
-I remember having to tell customers calling the cell phone company about their bills that the power company would let the bill go for a month, but not the cell phone company.
+Here are a few of the stories that make me passionate about consumer advocacy: I remember having to tell customers calling the cell phone company about their bills that the power company would let the bill go for a month, but not the cell phone company.
 I remember people calling for help accessing their email accounts, which had been hacked.
 For these people it wasn’t just an email, this was their family, this was their friends, this was all their correspondence for 20 years, and it had been stolen by criminals who would go on to target those same loved ones.
 I had to tell them my billion dollar corporation wouldn’t lift a finger to help.
@@ -22,3 +26,14 @@ Politics has become so deranged and bigoted that “Abolish DHS” and “Trans 
 These things are moral imperatives and everybody knows it; and when politicians talk like this stuff is up for debate, or negotiable, people can hear it.
 I’ll write more about these topics separately, but this is my point of view.
 I hope I can count on your support now and in November!
+Samuel Martin @Sam Follow I am a customer service pro with 20+ years of experience in technology, logistics, and healthcare; most recently tech support for Microsoft Office 365 for Business and overnight dispatch supervisor for Agero roadside assistance.
+Current candidate for Arizona House of Representatives in District 7 2 posts 2 followers Follow Samuel Martin My Profile Paste my profile into the search field of your favorite open social app or platform.
+My Fediverse handle Copy Your Profile Or, if you know your own profile, we can start things that way!
+Why do I need to enter my profile?
+This site is part of the ⁂ open social web, a network of interconnected social platforms (like Mastodon, Pixelfed, Friendica, and others).
+Unlike centralized social media, your account lives on a platform of your choice, and you can interact with people across different platforms.
+By entering your profile, we can send you to your account where you can complete this action.
+Your Fediverse profile Follow Loading… arizona azpol democrat By Samuel Martin 0 Comments Samuel Martin I am a customer service pro with 20+ years of experience in technology, logistics, and healthcare; most recently tech support for Microsoft Office 365 for Business and overnight dispatch supervisor for Agero roadside assistance.
+Current candidate for Arizona House of Representatives in District 7 Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Comment Ashe Theme by WP Royal .

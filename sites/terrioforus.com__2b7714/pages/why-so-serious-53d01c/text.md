@@ -1,4 +1,4 @@
-Whether you feel overwhelmed from politics, disconnected from politics, entrenched in politics, or you’re too afraid to look at politics, you belong here!
+0 Skip to Content Steph Terrio for Oregon House - District 26 Policy Why So Serious Donate Volunteer Contact About Open Menu Close Menu Steph Terrio for Oregon House - District 26 Policy Why So Serious Donate Volunteer Contact About Open Menu Close Menu Policy Why So Serious Donate Volunteer Contact About Whether you feel overwhelmed from politics, disconnected from politics, entrenched in politics, or you’re too afraid to look at politics, you belong here!
 This Campaign is here to remind America that we are a nation of people who are allowed to speak up, be brave, demand liberty, and look out for each other.
 Politics can feel inaccessible.
 We do not see the representation we expect in our local government.
@@ -33,9 +33,7 @@ The more money we spend, the more corporations open, the more minimum wage worke
 It is time our legislature stops taking millions from foreign and corporate lobbies.
 The middle class and below get weaker with each corporation that feeds on our GDP and power.
 America is a huge money generating machine, just not for the people.
-With your help, we will be the generation that proves our government can make laws for good, not greed.
-The eagle cannot fly with just it’s left or right wing
-We are a divided nation, and we must ask why.
+With your help, we will be the generation that proves our government can make laws for good, not greed. ‍ The eagle cannot fly with just it’s left or right wing We are a divided nation, and we must ask why.
 Follow your morality, talk to real people, ask critical questions.
 Who writes your laws, who benefits the most?
 The US Constitution binds the US Government to it’s citizens.
@@ -70,3 +68,4 @@ We honor how precious life is.
 We honor all faiths.
 Our leaders are the ones who decide our ever-changing Constitution.
 It is time for us to be represented in it.
+There is a spirit that unites all Americans far more than our politics divide us Paid for by Terrio for US PAC ID 25090 Privacy Notice

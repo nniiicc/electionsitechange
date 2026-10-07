@@ -1,5 +1,4 @@
-About Will
-Will is a former federal prosecutor, clerk to U.S.
+About Will Platform Endorsements News FAQ Get Involved Donate About Will Platform Endorsements News FAQ Get Involved Donate About Will Will is a former federal prosecutor, clerk to U.S.
 Supreme Court Justice Elena Kagan, and public school teacher whose career in public service has been dedicated to championing progressive and common-sense values.
 As a dad to two young kids, he is running for State Representative to advocate for kids, to hold corporations and those who commit crimes accountable for misconduct, to make Seattle more livable and affordable, and to spur action in Olympia.
 Will grew up in a middle-class family that emphasized service and progressive values.
@@ -21,3 +20,4 @@ In 2024, Will left the federal government and shifted his focus to tackling corp
 Will has sued some of the biggest corporations in America to hold them accountable to the public: oil companies for failing to plug old oil wells; tech companies for pirating authors’ copyrighted works to build their AI models; and electrical utilities for negligently sparking wildfires that destroyed victims’ homes.
 Will and his family live in the Ravenna neighborhood of Northeast Seattle with their cat Salem and dog Lucky.
 You’ll find them at T-Mobile Park cheering on the M’s, playing catch at View Ridge park, or hanging out at Zeeks Pizza.
+Contact Will at will@willdreher.com Paid for by Friends of Will Dreher (D) PO Box 27113, Seattle, WA 98165

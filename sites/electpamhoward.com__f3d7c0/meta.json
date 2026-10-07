@@ -1,9 +1,13 @@
 {
  "description": "Pam Howard Campaign - Your voice for Calhoun County. Join Pam in community activism for a better tomorrow!",
  "final_url": "https://electpamhoward.com/",
- "paid_for_by": null,
+ "fingerprint": "64b44f397be97a6aa9636a0d913bad5fb8ae42cb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Elect Pam Howard",
  "years_mentioned": [
+  "1987",
+  "1996",
   "2010"
  ]
 }

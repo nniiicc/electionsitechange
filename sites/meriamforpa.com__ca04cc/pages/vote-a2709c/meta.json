@@ -1,6 +1,8 @@
 {
  "description": "Register to vote, request a mail-in ballot, and find your polling place for the November 3, 2026 Pennsylvania general election in PA House District 131.",
  "final_url": "https://www.meriamforpa.com/vote/",
+ "fingerprint": "e1eb152ae80a12771e69b754e96a6c5ad9d345ea",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Meriam Sabih",
  "title": "How to Vote in PA House District 131 | 2026 Election Dates & Information",
  "years_mentioned": [

@@ -1,4 +1,4 @@
-Born in 1962 in South Vietnam, Quang Nguyen embodies the American Dream through resilience, determination, and unwavering gratitude for freedom.
+Menu Home About Quang’s Voice Contact Endorsements Get Involved Events Donate Today About ABOUT QUANG Born in 1962 in South Vietnam, Quang Nguyen embodies the American Dream through resilience, determination, and unwavering gratitude for freedom.
 At just 12 years old, as Saigon fell to communist forces in April 1975, his father made the heartbreaking decision to place him and his brother aboard one of the last American C-130 evacuation flights.
 What followed was a harrowing journey through refugee camps in the Philippines and Guam before reuniting with his family in the United States.
 This early experience instilled in him a profound appreciation for liberty, opportunity, and the sacrifices made to preserve them.
@@ -20,4 +20,5 @@ In this role, he champions firearm safety education, promotes hunting and compet
 As Chairman of the House Judiciary Committee, he has blocked numerous anti-2A bills, earning multiple Legislator of the Year awards from gun rights organizations, including the Arizona Citizens Defense League and the Second Amendment Foundation.
 When not at the Capitol, Representative Nguyen enjoys riding motorcycles through Arizona’s scenic landscapes, fly fishing on quiet streams, spending time with family, and mentoring the next generation.
 His life is a testament that with freedom and opportunity, anything is possible.
-Representative Nguyen remains deeply committed to fighting for the principles that gave him a second chance: liberty, prosperity, and the American Dream for all Arizonans.
+Representative Nguyen remains deeply committed to fighting for the principles that gave him a second chance: liberty, prosperity, and the American Dream for all Arizonans. © Quang for Arizona.
+This website is paid for by the Quang for Arizona campaign. escort istanbul escort

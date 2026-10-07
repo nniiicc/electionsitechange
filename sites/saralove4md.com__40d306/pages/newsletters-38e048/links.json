@@ -1,62 +1,250 @@
 [
-"http://eepurl.com/i-AwE-",
-"http://eepurl.com/i-_HiY",
-"http://eepurl.com/i95ABs",
-"http://eepurl.com/i_IOGQ",
-"http://eepurl.com/jaNpzY",
-"http://eepurl.com/jaeIa6",
-"http://eepurl.com/jb1PzY",
-"http://eepurl.com/jbkiGo",
-"http://eepurl.com/jclz_M",
-"http://eepurl.com/jep_bc",
-"http://eepurl.com/jgCa8Q",
-"http://eepurl.com/ji7wvQ",
-"https://facebook.com/SaraLove4MD",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/sara.love4md",
-"https://mail.google.com/mail/u/0",
-"https://mailchi.mp/1249686d42bf/session-our-campaign-and-more-13668995?e=0206cfd71e",
-"https://mailchi.mp/2823f2baada7/session-our-campaign-and-more-14206932?e=0206cfd71e",
-"https://mailchi.mp/2865d2db5a6f/session-our-campaign-and-more-13665640?e=0206cfd71e",
-"https://mailchi.mp/28c423a96f4c/session-our-campaign-and-more-14205774?e=0206cfd71e",
-"https://mailchi.mp/3c33f6e68219/session-our-campaign-and-more-14206360?e=0206cfd71e",
-"https://mailchi.mp/43b87c88098e/session-our-campaign-and-more-13666564?e=0206cfd71e",
-"https://mailchi.mp/4ec5137b5f67/session-our-campaign-and-more-14212790?e=0206cfd71e",
-"https://mailchi.mp/506d5772cb34/session-our-campaign-and-more-13665264?e=0206cfd71e",
-"https://mailchi.mp/6ad26f140e98/session-our-campaign-and-more-13666072?e=0206cfd71e",
-"https://mailchi.mp/6e0f96d38c30/session-our-campaign-and-more-13668675?e=0206cfd71e",
-"https://mailchi.mp/84ec1032795a/session-our-campaign-and-more-13663344",
-"https://mailchi.mp/93850fb0e58d/session-our-campaign-and-more-14211942?e=0206cfd71e",
-"https://mailchi.mp/a20ca6e4b23e/session-our-campaign-and-more-13675964?e=0206cfd71e",
-"https://mailchi.mp/a9bf4cc6f775/session-our-campaign-and-more-13664376?e=6ee14301fc",
-"https://mailchi.mp/c18f44a19154/session-our-campaign-and-more-13664808?e=0206cfd71e",
-"https://mailchi.mp/d74a0202abf4/session-our-campaign-and-more-13666964?e=0206cfd71e",
-"https://mailchi.mp/eaaa2f366dc7/session-our-campaign-and-more-13668111?e=0206cfd71e",
-"https://mailchi.mp/edaaf155af26/session-our-campaign-and-more-13663760",
-"https://mailchi.mp/f163f7e58de9/session-our-campaign-and-more-13667408?e=0206cfd71e",
-"https://mailchi.mp/f73c84e1a780/session-our-campaign-and-more-14205230?e=0206cfd71e",
-"https://mailchi.mp/f879687e9339/session-our-campaign-and-more-13667715?e=0206cfd71e",
-"https://mailchi.mp/fc744c05c7cb/session-our-campaign-and-more-13670179",
-"https://saralove4md.com/",
-"https://saralove4md.com/2019-newsletters",
-"https://saralove4md.com/animal-protection-1",
-"https://saralove4md.com/biography",
-"https://saralove4md.com/contact",
-"https://saralove4md.com/education",
-"https://saralove4md.com/endorsements",
-"https://saralove4md.com/energy",
-"https://saralove4md.com/gun-safety",
-"https://saralove4md.com/justice-and-safety",
-"https://saralove4md.com/newsletters",
-"https://saralove4md.com/press",
-"https://saralove4md.com/reproductive-rights",
-"https://saralove4md.com/scholarships",
-"https://saralove4md.com/the-environment",
-"https://saralove4md.com/transportation",
-"https://saralove4md.com/voting-information",
-"https://secure.actblue.com/donate/friends-of-sara-love-1",
-"https://us16.campaign-archive.com/?e=__test_email__&u=582b34014ea631395f17df16c&id=957fee1c2e",
-"https://us16.campaign-archive.com/?e=__test_email__&u=582b34014ea631395f17df16c&id=d82f75c047",
-"https://us16.campaign-archive.com/?u=582b34014ea631395f17df16c&id=9631b6ea5c",
-"https://x.com/@saralove4MD"
+{
+"text": "Animal Protection",
+"href": "https://saralove4md.com/animal-protection-1"
+},
+{
+"text": "Biography",
+"href": "https://saralove4md.com/biography"
+},
+{
+"text": "Contact",
+"href": "https://saralove4md.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-sara-love-1"
+},
+{
+"text": "Education",
+"href": "https://saralove4md.com/education"
+},
+{
+"text": "Endorsements",
+"href": "https://saralove4md.com/endorsements"
+},
+{
+"text": "Energy",
+"href": "https://saralove4md.com/energy"
+},
+{
+"text": "Gun Safety",
+"href": "https://saralove4md.com/gun-safety"
+},
+{
+"text": "Home",
+"href": "https://saralove4md.com/"
+},
+{
+"text": "Justice and Safety",
+"href": "https://saralove4md.com/justice-and-safety"
+},
+{
+"text": "Newsletters",
+"href": "https://saralove4md.com/newsletters"
+},
+{
+"text": "Press",
+"href": "https://saralove4md.com/press"
+},
+{
+"text": "Protecting Reproductive Freedom: Announcing StandUp MD 2024",
+"href": "https://mailchi.mp/fc744c05c7cb/session-our-campaign-and-more-13670179"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://saralove4md.com/reproductive-rights"
+},
+{
+"text": "Scholarships",
+"href": "https://saralove4md.com/scholarships"
+},
+{
+"text": "Session's End: Annapolis Updates Inside!",
+"href": "http://eepurl.com/jclz_M"
+},
+{
+"text": "Sign up here",
+"href": "mailto:sara@saralove2018.com?subject=Newsletter&body=I+would+like+to+sign+up+for+your+newsletter."
+},
+{
+"text": "The Environment",
+"href": "https://saralove4md.com/the-environment"
+},
+{
+"text": "Transportation",
+"href": "https://saralove4md.com/transportation"
+},
+{
+"text": "Updates from Annapolis",
+"href": "https://mailchi.mp/43b87c88098e/session-our-campaign-and-more-13666564?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis",
+"href": "https://mailchi.mp/4ec5137b5f67/session-our-campaign-and-more-14212790?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis: \"Moore\" Assistance for Federal Employees",
+"href": "http://eepurl.com/i-_HiY"
+},
+{
+"text": "Updates from Annapolis: A Win for Women",
+"href": "https://mailchi.mp/f879687e9339/session-our-campaign-and-more-13667715?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis: Back in the District",
+"href": "http://eepurl.com/jep_bc"
+},
+{
+"text": "Updates from Annapolis: Bill Hearings",
+"href": "https://mailchi.mp/2865d2db5a6f/session-our-campaign-and-more-13665640?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis: Checking In",
+"href": "http://eepurl.com/ji7wvQ"
+},
+{
+"text": "Updates from Annapolis: Countdown to Crossover",
+"href": "https://mailchi.mp/f163f7e58de9/session-our-campaign-and-more-13667408?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis: Crossing Over",
+"href": "http://eepurl.com/jaNpzY"
+},
+{
+"text": "Updates from Annapolis: Empowering Students, Championing Environmental Justice, Supporting Seniors",
+"href": "https://us16.campaign-archive.com/?u=582b34014ea631395f17df16c&id=9631b6ea5c"
+},
+{
+"text": "Updates from Annapolis: End of Session News",
+"href": "https://mailchi.mp/1249686d42bf/session-our-campaign-and-more-13668995?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis: Exciting News!",
+"href": "https://mail.google.com/mail/u/0/#label/Admin%2FNewsletter+content/FMfcgzQVwngXSZxkBmwQsBXxcbtWLsNz?compose=DmwnWrRpdTQmVQXHdcbllswJSXtBMbwrFwdSZdzvpMTvRmPkjwSvWJHLcFtnQpwxmkjTNTGbHncb"
+},
+{
+"text": "Updates from Annapolis: Fighting the Good Fight",
+"href": "https://mailchi.mp/f73c84e1a780/session-our-campaign-and-more-14205230?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis: Getting Started",
+"href": "https://mailchi.mp/edaaf155af26/session-our-campaign-and-more-13663760"
+},
+{
+"text": "Updates from Annapolis: Halfway there!",
+"href": "http://eepurl.com/i-AwE-/"
+},
+{
+"text": "Updates from Annapolis: Halfway to Sine Die",
+"href": "https://mailchi.mp/6ad26f140e98/session-our-campaign-and-more-13666072?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis: Happy 4th From Your New Senator!",
+"href": "https://us16.campaign-archive.com/?e=__test_email__&u=582b34014ea631395f17df16c&id=957fee1c2e"
+},
+{
+"text": "Updates from Annapolis: Improving Corrections and Protecting the Environment",
+"href": "http://eepurl.com/i95ABs"
+},
+{
+"text": "Updates from Annapolis: Its a Wrap!",
+"href": "http://eepurl.com/jb1PzY"
+},
+{
+"text": "Updates from Annapolis: Legislative Lowdown",
+"href": "http://eepurl.com/i_IOGQ"
+},
+{
+"text": "Updates from Annapolis: Maryland Fighting Back",
+"href": "http://eepurl.com/jaeIa6"
+},
+{
+"text": "Updates from Annapolis: May in Maryland",
+"href": "http://eepurl.com/jgCa8Q"
+},
+{
+"text": "Updates from Annapolis: Moving through the legislative process",
+"href": "https://mailchi.mp/d74a0202abf4/session-our-campaign-and-more-13666964?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis: New Year, New Session, New Challenges",
+"href": "https://mailchi.mp/84ec1032795a/session-our-campaign-and-more-13663344"
+},
+{
+"text": "Updates from Annapolis: One Week To Go!",
+"href": "http://eepurl.com/jbkiGo"
+},
+{
+"text": "Updates from Annapolis: One Week to Go",
+"href": "https://mailchi.mp/eaaa2f366dc7/session-our-campaign-and-more-13668111?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis: Passing the Torch",
+"href": "https://mailchi.mp/a20ca6e4b23e/session-our-campaign-and-more-13675964?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis: Preparing for Session",
+"href": "https://mailchi.mp/2823f2baada7/session-our-campaign-and-more-14206932?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis: Protecting Privacy",
+"href": "https://mailchi.mp/a9bf4cc6f775/session-our-campaign-and-more-13664376?e=6ee14301fc"
+},
+{
+"text": "Updates from Annapolis: Resources for Federal Workers",
+"href": "https://us16.campaign-archive.com/?e=__test_email__&u=582b34014ea631395f17df16c&id=d82f75c047"
+},
+{
+"text": "Updates from Annapolis: Saving Our National Treasure",
+"href": "https://mailchi.mp/93850fb0e58d/session-our-campaign-and-more-14211942?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis: Starting Subcommittee",
+"href": "https://mailchi.mp/c18f44a19154/session-our-campaign-and-more-13664808?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis: State of the State",
+"href": "https://mailchi.mp/506d5772cb34/session-our-campaign-and-more-13665264?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis: Truly Honored",
+"href": "https://mailchi.mp/28c423a96f4c/session-our-campaign-and-more-14205774?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis: Uncertain Times",
+"href": "https://mailchi.mp/3c33f6e68219/session-our-campaign-and-more-14206360?e=0206cfd71e"
+},
+{
+"text": "Updates from Annapolis: We're Done",
+"href": "https://mailchi.mp/6e0f96d38c30/session-our-campaign-and-more-13668675?e=0206cfd71e"
+},
+{
+"text": "Voting Information",
+"href": "https://saralove4md.com/voting-information"
+},
+{
+"text": "[image: Sara Love for Maryland Delegate]",
+"href": "https://saralove4md.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SaraLove4MD/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sara.love4md"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/@saralove4MD"
+},
+{
+"text": "here",
+"href": "https://saralove4md.com/2019-newsletters"
+}
 ]

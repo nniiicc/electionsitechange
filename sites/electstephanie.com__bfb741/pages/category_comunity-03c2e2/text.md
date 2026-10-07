@@ -1,13 +1,6 @@
-Today is Election Day!
+Vote June 23, 2026 MEET STEPHANIE PRIORITIES SD-14 GET INVOLVED!
+DONATE Currently browsing: Community June 23, 2026 Stephanie Pitcher Community Election Day is today! 🗳️ Today is Election Day!
 Have you made a plan to vote?
-Drop boxes and polling places are open until 8:00 [...]
-Read more
-On the heels of Governor Cox's declaration replacing Pride month with 'Fidelity Month,' my Democratic colleagues and I released the following [...]
-Read more
-As 2025 comes to a close, I can’t help but reflect on what we’ve accomplished together in the face of a [...]
-Read more
-The comment period for the newly proposed congressional maps is open and there are two days left to provide feedback.
-You can submit your comments at www.redistricting.utah.gov. [...]
-Read more
-As you may be aware, during the recent session, the legislative majority passed HB 267, a bill that bans public employees from [...]
-Read more
+Drop boxes and polling places are open until 8:00 [...] Read more June 4, 2026 Stephanie Pitcher Community Celebrating Pride 🏳️‍🌈🏳️‍⚧️ On the heels of Governor Cox's declaration replacing Pride month with 'Fidelity Month,' my Democratic colleagues and I released the following [...] Read more December 30, 2025 Stephanie Pitcher Community 2025 in Review: What We Accomplished ✨ As 2025 comes to a close, I can’t help but reflect on what we’ve accomplished together in the face of a [...] Read more October 4, 2025 Stephanie Pitcher Community Comment for Fair Maps + Monday Special Session The comment period for the newly proposed congressional maps is open and there are two days left to provide feedback.
+You can submit your comments at www.redistricting.utah.gov. [...] Read more April 1, 2025 Stephanie Pitcher Community Join me: Sign the HB 267 Referendum! 📝 As you may be aware, during the recent session, the legislative majority passed HB 267, a bill that bans public employees from [...] Read more Copyright © # Committee to Elect Stephanie Pitcher.
+All Rights Reserved.

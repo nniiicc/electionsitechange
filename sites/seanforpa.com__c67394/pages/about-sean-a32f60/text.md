@@ -1,5 +1,4 @@
-About Sean Dougherty
-Sean Dougherty was raised in the Pine Valley section of Northeast Philadelphia by his parents, Kevin and Lisa.
+Home Priorities About Sean Donate Select Page About Sean Dougherty Sean Dougherty was raised in the Pine Valley section of Northeast Philadelphia by his parents, Kevin and Lisa.
 As a boy he attended St.
 Albert the Great School where he played multiple sports including basketball, baseball, and soccer.
 However, his real love was basketball.
@@ -10,8 +9,7 @@ At LaSalle, Sean found his calling for public service.
 He participated in a week-long service mission to St.
 Michael Indian School on the Navajo Nation Reservation in Arizona.
 There, Sean worked with classmates to maintain the foundations of the buildings, fix dilapidated churches, and worked on improving the grounds.
-High School instilled in Sean the LaSallian way of “Entering to Learn” and “Leaving to Serve.”
-After high school, Sean attended Chestnut Hill College.
+High School instilled in Sean the LaSallian way of “Entering to Learn” and “Leaving to Serve.” After high school, Sean attended Chestnut Hill College.
 He played four years on the Chestnut Hill College Men’s Basketball team and was named Team Captain his senior year.
 During his tenure, Sean orchestrated canned food drives during Thanksgiving for the less fortunate.
 He graduated summa cum laude with a BA in Political Science and a minor degree in Criminal Justice and Psychology.
@@ -23,3 +21,4 @@ He currently works as an associate attorney at The Duffy Firm, under mentor and 
 Duffy.
 As our state representative, Sean has focused on making life easier for Northeast Philadelphia families and championing our Northeast values in Harrisburg.
 Sean currently resides in the Fox Chase neighborhood with his college sweetheart, Regina.
+Paid for by Dougherty for State Rep Follow Follow

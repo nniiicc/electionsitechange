@@ -1,10 +1,3 @@
-Paid for by Tatiana for Washington (D)
-PO Box 27113 • Seattle, WA 98165
-(206) 412-1535 • hello@tatianaforwa.org
-Previous
-Previous
-October 27
-Canvass with Tatiana in South Beacon Hill!
-Next
-Next
-October 28
+0 Skip to Content About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Back to All Events Hillman City Candidate Forum Tuesday, October 27, 2026 6:30 PM 8:30 PM Google Calendar ICS Previous Previous October 27 Canvass with Tatiana in South Beacon Hill!
+Next Next October 28 Canvass with Tatiana in Skyway!
+Paid for by Tatiana for Washington (D) PO Box 27113 • Seattle, WA 98165 (206) 412-1535‬ • hello@tatianaforwa.org

@@ -1,21 +1,78 @@
 [
-"https://campaignpartner.com/",
-"https://i.campaignpartner.net/images/cdn_queue/18610/66df9099a27544c9a7e30dd3686f3a47.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/18610/a94be9bf9aaf4a53abbe0722b5fffaee.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/18610/e88d2145fd654228a9deac1cf15063e9.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/18610/ebd768af09c2460cbf0dc31e2912dfc0.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/18610/f077bfb11bc64effbe35b4c36748c27a.jpg",
-"https://secure.anedot.com/sethhoward/2022",
-"https://sethfordelegate.com/",
-"https://sethfordelegate.com/about_seth",
-"https://sethfordelegate.com/contact",
-"https://sethfordelegate.com/endorsements",
-"https://sethfordelegate.com/events",
-"https://sethfordelegate.com/home",
-"https://sethfordelegate.com/issues",
-"https://sethfordelegate.com/my_priorities",
-"https://sethfordelegate.com/news",
-"https://sethfordelegate.com/photos",
-"https://sethfordelegate.com/volunteer",
-"https://sethfordelegate.com/vote"
+{
+"text": "About Seth",
+"href": "https://www.sethfordelegate.com/about_seth"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.sethfordelegate.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/sethhoward/2022"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sethfordelegate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.sethfordelegate.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.sethfordelegate.com/home"
+},
+{
+"text": "My Priorities",
+"href": "https://www.sethfordelegate.com/my_priorities"
+},
+{
+"text": "News",
+"href": "https://www.sethfordelegate.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.sethfordelegate.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.sethfordelegate.com/photos"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sethfordelegate.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.sethfordelegate.com/vote"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/18610/66df9099a27544c9a7e30dd3686f3a47.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/18610/a94be9bf9aaf4a53abbe0722b5fffaee.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/18610/e88d2145fd654228a9deac1cf15063e9.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/18610/ebd768af09c2460cbf0dc31e2912dfc0.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/18610/f077bfb11bc64effbe35b4c36748c27a.jpg"
+},
+{
+"text": "[image]",
+"href": "https://www.sethfordelegate.com/"
+}
 ]

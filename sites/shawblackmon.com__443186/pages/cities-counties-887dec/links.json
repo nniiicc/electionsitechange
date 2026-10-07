@@ -1,30 +1,118 @@
 [
-"http://hcbe.net/",
-"http://perry-ga.gov/",
-"http://wrga.gov/",
-"https://campaignpartner.com/",
-"https://facebook.com/ShawBlackmonGA",
-"https://freeprivacypolicy.com/live/b26122ba-d70b-40c9-b797-07b0b036b2db",
-"https://houstoncountyga.org/",
-"https://houstoncountyga.org/commissioner/contact-information.cms",
-"https://houstoncountyga.org/government/sheriff.cms",
-"https://perry-ga.gov/government/city-council",
-"https://perry-ga.gov/government/mayor-s-office",
-"https://perry-ga.gov/special-events-information",
-"https://shawblackmon.com/",
-"https://shawblackmon.com/about_shaw",
-"https://shawblackmon.com/cities-counties",
-"https://shawblackmon.com/committee-service",
-"https://shawblackmon.com/constituent-services",
-"https://shawblackmon.com/contact",
-"https://shawblackmon.com/contribute",
-"https://shawblackmon.com/district-146",
-"https://shawblackmon.com/government-contacts",
-"https://shawblackmon.com/issues",
-"https://shawblackmon.com/news",
-"https://shawblackmon.com/photos",
-"https://shawblackmon.com/voter-information",
-"https://wrga.gov/events",
-"https://wrga.gov/page/city-council",
-"https://wrga.gov/page/mayor-larhonda-patrick"
+{
+"text": "About Shaw",
+"href": "https://www.shawblackmon.com/about_shaw"
+},
+{
+"text": "City Council",
+"href": "https://perry-ga.gov/government/city-council"
+},
+{
+"text": "City Council",
+"href": "https://www.wrga.gov/page/city-council"
+},
+{
+"text": "City of Perry",
+"href": "http://www.perry-ga.gov/"
+},
+{
+"text": "City of Warner Robins",
+"href": "http://www.wrga.gov/"
+},
+{
+"text": "Committee Service",
+"href": "https://www.shawblackmon.com/committee-service"
+},
+{
+"text": "Community News",
+"href": "https://www.wrga.gov/events"
+},
+{
+"text": "Constituent Services",
+"href": "https://www.shawblackmon.com/constituent-services"
+},
+{
+"text": "Contact",
+"href": "https://www.shawblackmon.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.shawblackmon.com/contribute"
+},
+{
+"text": "County Commissioners",
+"href": "https://www.houstoncountyga.org/commissioner/contact-information.cms"
+},
+{
+"text": "County Government",
+"href": "https://www.houstoncountyga.org/"
+},
+{
+"text": "District",
+"href": "https://www.shawblackmon.com/district-146"
+},
+{
+"text": "Events",
+"href": "https://perry-ga.gov/special-events-information"
+},
+{
+"text": "Gallery",
+"href": "https://www.shawblackmon.com/photos"
+},
+{
+"text": "Government Contacts",
+"href": "https://www.shawblackmon.com/government-contacts"
+},
+{
+"text": "Houston County School District",
+"href": "http://www.hcbe.net/"
+},
+{
+"text": "Local Government",
+"href": "https://www.shawblackmon.com/cities-counties"
+},
+{
+"text": "Mayor's Office",
+"href": "https://www.wrga.gov/page/mayor-larhonda-patrick"
+},
+{
+"text": "Mayor’s Office",
+"href": "https://perry-ga.gov/government/mayor-s-office"
+},
+{
+"text": "News",
+"href": "https://www.shawblackmon.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.shawblackmon.com/issues"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Sheriff’s Office",
+"href": "https://www.houstoncountyga.org/government/sheriff.cms"
+},
+{
+"text": "View Our Privacy Policy",
+"href": "https://www.freeprivacypolicy.com/live/b26122ba-d70b-40c9-b797-07b0b036b2db"
+},
+{
+"text": "View our privacy policy.",
+"href": "https://www.freeprivacypolicy.com/live/b26122ba-d70b-40c9-b797-07b0b036b2db"
+},
+{
+"text": "Voter Information",
+"href": "https://www.shawblackmon.com/voter-information"
+},
+{
+"text": "[image]",
+"href": "https://www.shawblackmon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ShawBlackmonGA/"
+}
 ]

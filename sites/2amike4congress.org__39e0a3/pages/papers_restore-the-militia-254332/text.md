@@ -1,30 +1,24 @@
-Restoring the Constitutional Militia and the People's Forgotten Foundation
-The constitutional militia — the people's own retained foundation, standing beneath the ballot, the courts, and the jury — has been hollowed to a name.
+MICHAEL STODDARD Libertarian · Utah 3rd District Issues Meet Mike Papers Library News Volunteer $ Melting Dollar Chip in → Chip in → Menu MICHAEL STODDARD ✕ 01 Issues 02 Meet Mike 03 Papers 04 Library 05 News 06 Volunteer $ Melting Dollar Chip in → ← All position papers Michael Stoddard for Congress · 3rd District Main paper Second Amendment Restoring the Constitutional Militia and the People's Forgotten Foundation PDF Download the full paper ↓ ↗ Share paper Share ✕ ⧉ Copy link 𝕏 Post on X f Share on Facebook ✉ Email a link ↗ More options… Plank Restore the Militia · Paper 1 / 4 Executive summary The constitutional militia — the people's own retained foundation, standing beneath the ballot, the courts, and the jury — has been hollowed to a name.
 The National Guard is not the militia, and the 2025–26 federalized-Guard deployments turned a century-old structural problem into a live constitutional crisis.
 Restore the design the Framers actually wrote.
-“A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.”
-— U.S.
+Papers in this plank Restore the Militia · 4 papers Main Restoring the Constitutional Militia and the People's Forgotten Foundation — you're reading this Support On the Rights and Duties of the Second Amendment → Support The Iron Law of Politics → Support We the People, R.I.P. → “A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.” — U.S.
 Const. amend.
-II
-Second Amendment Plank: Congress MUST Restore the Constitutional Militia of the Several States — and Forbid the Federal Government to Turn the National Guard Against the People
-“RESTORE THE PEOPLE’S MILITIA!”
-“The Framers left a free people three checks against a government that forgets its limits — the ballot, the courtroom, the jury — and beneath all three, a foundation: the people themselves, armed and enrolled in their own constitutional state militias.
+II Second Amendment Plank: Congress MUST Restore the Constitutional Militia of the Several States — and Forbid the Federal Government to Turn the National Guard Against the People “RESTORE THE PEOPLE’S MILITIA!” “The Framers left a free people three checks against a government that forgets its limits — the ballot, the courtroom, the jury — and beneath all three, a foundation: the people themselves, armed and enrolled in their own constitutional state militias.
 The foundation has been quietly dismantled, and its name pinned onto a federal force now marched against citizens in their own streets.
-I am running to give it back.”
-— Michael R.
-Stoddard, C.P.A., C.F.P.
-“…a militia amounting to near half a million of citizens with arms in their hands, officered by men chosen from among themselves…”
-— Madison, Federalist No. 46
-Read Federalist No. 46 in full — Madison wrote it to answer the question this paper raises.
+I am running to give it back.” — Michael R.
+Stoddard, C.P.A., C.F.P. “…a militia amounting to near half a million of citizens with arms in their hands, officered by men chosen from among themselves…” — Madison, Federalist No.
+46 Read Federalist No.
+46 in full — Madison wrote it to answer the question this paper raises.
 It is reprinted entire as the Appendix.
-The Problem
-The Constitution names a force that most Americans have never heard described accurately: the militia — the whole body of the armed people, enrolled in their own communities, officered from among themselves, and held ready for common defense.
+The Problem The Constitution names a force that most Americans have never heard described accurately: the militia — the whole body of the armed people, enrolled in their own communities, officered from among themselves, and held ready for common defense.
 The Framers did not treat this as a quaint frontier custom.
 They treated it as a foundational, primary, structural organ of free government: the citizenry’s own retained capacity to check a federal power that might one day exceed its limits.
 It stands behind the ballot, behind the courts, behind the jury — the last reserve of a free people, and the one the Framers most feared to lose.
 This is no reconstruction from silence.
-Madison, selling the proposed Constitution to a wary public in Federalist No. 46, named exactly this body as the final answer to a federal army turned ambitious: against any such force “would be opposed a militia amounting to near half a million of citizens with arms in their hands, officered by men chosen from among themselves, fighting for their common liberties, and united and conducted by governments possessing their affections and confidence.” That is the institution this paper proposes to restore — described in the Framers’ own published words, as the very ground on which ratification was won.
-Read No. 46 entire — it is reprinted as the Appendix to this paper: it runs perhaps fifteen minutes, and it remains the best brief ever written for the argument of this paper — by the principal author of the Constitution itself.
+Madison, selling the proposed Constitution to a wary public in Federalist No.
+46 , named exactly this body as the final answer to a federal army turned ambitious: against any such force “would be opposed a militia amounting to near half a million of citizens with arms in their hands, officered by men chosen from among themselves, fighting for their common liberties, and united and conducted by governments possessing their affections and confidence.” That is the institution this paper proposes to restore — described in the Framers’ own published words, as the very ground on which ratification was won.
+Read No.
+46 entire — it is reprinted as the Appendix to this paper: it runs perhaps fifteen minutes, and it remains the best brief ever written for the argument of this paper — by the principal author of the Constitution itself.
 That institution has been hollowed out.
 Over the course of a century — through the Dick Act of 1903, the National Defense Act of 1916, and the federal court decisions that followed — the militia of the several states was federalized, professionalized, and absorbed into a national reserve force.
 Its name was transferred to the National Guard.
@@ -33,8 +27,7 @@ Federal law still defines nearly every able-bodied citizen as a member of “the
 Most Americans do not know they even belong to it.
 This is not a small omission.
 It is the quiet removal of the foundation of American constitutionalism — and the absence weakens every other check that was built on the assumption it would still be standing.
-The National Guard Is Not the Militia
-The federal government will answer that the militia still exists — that it is the National Guard.
+The National Guard Is Not the Militia The federal government will answer that the militia still exists — that it is the National Guard.
 This is the central confusion, and it must be corrected plainly.
 The National Guard is a federal reserve of the United States Army and Air Force.
 It is organized under federal law, equipped with federal money, trained to federal standards, and — most importantly — callable into full federal service and deployable overseas without a state’s consent, as the Supreme Court confirmed in Perpich v.
@@ -49,8 +42,7 @@ Let one thing be said without ambiguity.
 The men and women of the Guard — thousands of them Utahns — have served honorably, at real personal cost, under whatever structure Congress handed them.
 This paper indicts the structure.
 It does not, and never will, indict their service.
-The Crisis Has Arrived
-For most of the last century this was a structural problem visible only to those who study the founding closely.
+The Crisis Has Arrived For most of the last century this was a structural problem visible only to those who study the founding closely.
 In the last year it has become a live constitutional emergency.
 The federalized force had already been turned to unconstitutional use abroad long before it was turned against citizens at home.
 Not since 1942 has the Congress formally declared war, yet across the last two decades the Guard has been mobilized in wave after wave and sent overseas — to Iraq, to Afghanistan, to a generation of open-ended deployments — to fight wars no Congress ever declared.
@@ -60,8 +52,7 @@ In June 2025, for the first time in the nation’s history, a President invoked 
 In September 2025, a federal court ruled that the deployment violated the Posse Comitatus Act, the 1878 statute that codifies the Framers’ deepest fear: a national army used as a domestic police force.
 Similar seizures and deployments followed in other states, and the litigation reached the Supreme Court.
 At the very same moment, from the opposite direction, states moved to disarm the body of the people from which any militia must be drawn.
-In May 2026, Virginia enacted a ban on the future sale, purchase, and manufacture of the most common semi-automatic rifles in America — Virginia, whose own Declaration of Rights, adopted June 12, 1776 in George Mason’s hand, was among the first inscriptions of the principle this paper defends:
-XIII.
+In May 2026, Virginia enacted a ban on the future sale, purchase, and manufacture of the most common semi-automatic rifles in America — Virginia, whose own Declaration of Rights, adopted June 12, 1776 in George Mason’s hand, was among the first inscriptions of the principle this paper defends: XIII.
 That a well regulated militia, composed of the body of the people, trained to arms, is the proper, natural, and safe defense of a free state; that standing armies, in time of peace, should be avoided as dangerous to liberty; and that, in all cases, the military should be under strict subordination to, and be governed by, the civil power.
 The state that first wrote the principle down has now legislated against its premise.
 Both halves of the Framers’ design are now being violated at once.
@@ -72,11 +63,9 @@ And let no reader take comfort in the party label on the hand that holds this po
 The office changes hands; the statute does not.
 Whoever you fear holding this power will, in time, hold it — and the same law that reached Sacramento’s Guard over its governor’s objection reaches Salt Lake City’s.
 That is precisely why the Framers refused to leave such a force answerable to one will, and why the remedy must be structural rather than partisan.
-The Proposal
-I will introduce and support legislation to restore the constitutional architecture the Framers built, in three parts.
+The Proposal I will introduce and support legislation to restore the constitutional architecture the Framers built, in three parts.
 A.
-Recognize the State Militias as Distinct from the National Guard
-Federal law should once again recognize the militia of the several states as an institution separate from, and not absorbed into, the National Guard — a body the states may organize, train, and officer under their own authority, as Article I contemplates.
+Recognize the State Militias as Distinct from the National Guard Federal law should once again recognize the militia of the several states as an institution separate from, and not absorbed into, the National Guard — a body the states may organize, train, and officer under their own authority, as Article I contemplates.
 It will be objected that this channel already exists — that 32 U.S.C. § 109 permits the states to maintain “defense forces” exempt from federalization, and that roughly twenty states keep one on the books.
 Utah’s own code, in Title 39, contemplates exactly such a force.
 The objection proves the case.
@@ -84,13 +73,11 @@ Those forces exist as a statutory afterthought, at federal sufferance: walled of
 A channel that exists on paper but cannot carry the constitutional function is not the partition Article I describes; it is the partition’s tombstone.
 The legislation I propose would convert that afterthought into what the Constitution actually contemplates: a protected, state-officered militia establishment that Congress must respect, may by enumerated power help organize and arm, and may never absorb.
 B.
-Restore the Constitutional Partition
-Congress should repeal or amend the provisions of the National Defense Act and its successors that converted the militia function into a federal reserve, and should bar the deployment of federalized National Guard units in domestic law-enforcement roles except under the narrow, time-tested terms of the Insurrection Act.
+Restore the Constitutional Partition Congress should repeal or amend the provisions of the National Defense Act and its successors that converted the militia function into a federal reserve, and should bar the deployment of federalized National Guard units in domestic law-enforcement roles except under the narrow, time-tested terms of the Insurrection Act.
 The federal government’s three enumerated purposes for calling forth the militia are not a suggestion.
 They are a limit, and they should be enforced as one.
 C.
-Protect the Armed Body of the People
-The right to keep and bear arms and the duty of common defense are not two separate things — they are two faces of one design.
+Protect the Armed Body of the People The right to keep and bear arms and the duty of common defense are not two separate things — they are two faces of one design.
 A people forbidden the ordinary arms of a citizen cannot constitute the militia the Constitution presupposes.
 Federal policy should defend the armed citizen against both federal overreach and state-level disarmament of the very body from which the militia is drawn.
 A closing word on the draft.
@@ -98,25 +85,20 @@ The militia and conscription are opposite answers to a single question: how a fr
 The militia answers with the citizen who keeps his own arms, drills in his own community, and is called out by lawful authority only for the three purposes the Constitution names.
 Conscription answers with the citizen seized from his life and sent abroad to fight wars Congress never declared.
 This paper restores the first answer.
-The refusal of the second — no draft without a formal declaration of war, and no draft for an unjust war, declared or not — is set out in my companion paper, No Unjust Wars: NO NEW DRAFT!
-Anticipated Objections
-“This is a call for private militias and vigilantes.”
-It is the opposite.
+The refusal of the second — no draft without a formal declaration of war, and no draft for an unjust war, declared or not — is set out in my companion paper, No Unjust Wars : NO NEW DRAFT!
+Anticipated Objections “This is a call for private militias and vigilantes.” It is the opposite.
 The constitutional militia is a lawful, organized, state-officered institution — accountable, trained, and called out only by lawful authority.
 Nothing in this proposal sanctions private armed action; it is precisely the lawful institution that makes private armed action unnecessary and illegitimate.
 The remedy for a broken public institution is to repair it, not to act outside it.
-“The militia is obsolete in the age of a professional military.”
-The militia was never meant to replace the army.
+“The militia is obsolete in the age of a professional military.” The militia was never meant to replace the army.
 It was meant to be the one thing a standing army, by its nature, can never be: the people’s own retained check against the misuse of that army.
 To call that obsolete is to declare the check unnecessary — which is exactly the assumption the events of the past year should have laid to rest.
-“This is just a Second Amendment talking point.”
-It is a structural argument, not a slogan.
+“This is just a Second Amendment talking point.” It is a structural argument, not a slogan.
 The Second Amendment protects one half of the design — the people’s arms.
 The militia clauses protect the other — the institution those arms exist to serve.
 A century of debate has fixated on the first and forgotten the second.
 Restoring the whole design is more conservative than the status quo, not less.
-“By centering the militia, this ignores the individual right to keep and bear arms.”
-It does the reverse — and the difference is the whole point.
+“By centering the militia, this ignores the individual right to keep and bear arms.” It does the reverse — and the difference is the whole point.
 The reading behind this proposal makes the individual right primary, not derivative.
 The Amendment’s operative command is its last fourteen words — “the right of the people to keep and bear Arms, shall not be infringed” — and the militia clause is a preface stating why the right was written down, not a condition placed upon it: strike the militia clause and the right still stands whole; strike the right and no militia is possible.
 The right is grounded before and beneath the Constitution, in natural right and the common law; the document recognizes it rather than grants it, and nothing done to restore the militia can subtract from a right that never depended on the militia to exist.
@@ -124,12 +106,10 @@ The real danger runs the other way: it is the militia-first readings — those t
 This proposal refuses that trap.
 It treats the armed citizen as the militia’s precondition — which is exactly why Part C defends the body of the people against disarmament from every direction.
 Far from ignoring the individual right, it restores the structural weight a century of narrow debate stripped from it, and defends it on both fronts at once.
-“This is dangerous in today’s political climate.”
-The danger is already here, and it is the status quo: a federalized force deployed against citizens with no lawful, locally controlled counterweight in existence.
+“This is dangerous in today’s political climate.” The danger is already here, and it is the status quo: a federalized force deployed against citizens with no lawful, locally controlled counterweight in existence.
 A restored state militia is not an escalation.
 It is the structural alternative that lowers the temptation to misuse the National Guard in the first place.
-Conclusion
-This is not a radical proposal.
+Conclusion This is not a radical proposal.
 It is the most conservative position available: holding the federal government, and the states, to the design the Founders actually wrote.
 The radical position is the one we have drifted into — a militia hollowed to a name, a national force turned against citizens in their own streets, and a people being disarmed of the very capacity the Constitution assumes they will keep.
 The Framers gave the American people three checks against a government that forgets its limits — the vote, the courts, the jury — and one foundation beneath them.
@@ -137,16 +117,13 @@ The three still function, however imperfectly.
 The foundation has been allowed to lapse.
 But a duty neglected is not a duty erased, and an institution abandoned is not an institution destroyed.
 The structure is still there in the Constitution, waiting to be restored.
-I am asking you to help me restore your duties — and with them, your rights:
-“Restore the People’s Militia!”
-2A Mike
-Appendix — The Federalist No. 46
-Publius (James Madison) — New York Packet, January 29, 1788
-This essay was numbered 46 in the M’Lean edition and 45 in the newspapers; the original newspaper heading is preserved below.
+I am asking you to help me restore your duties — and with them, your rights: “Restore the People’s Militia!” 2A Mike Appendix — The Federalist No.
+46 Publius (James Madison) — New York Packet , January 29, 1788 This essay was numbered 46 in the M’Lean edition and 45 in the newspapers; the original newspaper heading is preserved below.
 The text is reproduced verbatim, with its eighteenth-century spelling intact.
 Bracketed cross-references to other Federalist essays are the editors’.
 The essay is in the public domain.
-The FŒDERALIST, No. 45.
+The FŒDERALIST, No.
+45.
 To the People of the State of New-York.
 Resuming the subject of the last paper, I proceed to enquire whether the Fœderal Government or the State Governments will have the advantage with regard to the predilection and support of the people.
 Nothwithstanding the different modes in which they are appointed, we must consider both of them, as substantially dependent on the great body of the citizens of the United States.
@@ -225,6 +202,8 @@ On the first supposition, it will be restrained by that dependence from forming 
 On the other supposition it will not possess the confidence of the people, and its schemes of usurpation will be easily defeated by the State Governments; who will be supported by the people.
 On summing up the considerations stated in this and the last paper [The Federalist 45], they seem to amount to the most convincing evidence, that the powers proposed to be lodged in the Fœderal Government, are as little formidable to those reserved to the individual States, as they are indispensibly necessary to accomplish the purposes of the Union; and that all those alarms which have been sounded, of a meditated or consequential annihilation of the State Governments, must, on the most favorable interpretation, be ascribed to the chimerical fears of the authors of them.
 Source: John P.
-Kaminski et al., eds., The Documentary History of the Ratification of the Constitution, Vol.
+Kaminski et al., eds., The Documentary History of the Ratification of the Constitution , Vol.
 XV: Commentaries on the Constitution, Public and Private [3] (Madison, Wis.: Wisconsin Historical Society Press, 1984), 488–93.
 Reproduced from the Center for the Study of the American Constitution, University of Wisconsin–Madison.
+Go deeper Books, articles & talks on second amendment Open the reading list → Previous ← Lord Keynes Tells the Truth About Inflation Next paper On the Rights and Duties of the Second Amendment → MICHAEL STODDARD FOR CONGRESS '26 A sound-money campaign for Utah's 3rd District — a C.P.A. who has spent his career auditing government and studying how honest money protects working families.
+Campaign Issues Meet Mike Position Papers News Volunteer Get involved Donate Volunteer Press inquiries HQ 515 Commerce Rd Orem, Utah 84058 info@2amike4congress.org 801-899-9569 © # Michael Stoddard for Congress · Paid for by the Committee to Elect Michael Stoddard to Congress f 𝕏 ↗ Share this campaign Share ✕ ⧉ Copy link 𝕏 Post on X f Share on Facebook ✉ Email a link ↗ More options…

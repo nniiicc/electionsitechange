@@ -1,21 +1,90 @@
 [
-"https://cash.app/$JamesSpillane?qr=1",
-"https://facebook.com/profile.php?id=100006747589487",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjamesspillane.org%2Fjs%2Fdonate-to-the-campaign%2F&t=Donate+to+the+Campaign",
-"https://jamesspillane.org/js",
-"https://jamesspillane.org/js/about-james",
-"https://jamesspillane.org/js/bills-sponsored",
-"https://jamesspillane.org/js/donate-to-the-campaign",
-"https://jamesspillane.org/js/endorsements",
-"https://jamesspillane.org/js/events",
-"https://jamesspillane.org/js/events/voting-information",
-"https://jamesspillane.org/js/how-to-help",
-"https://jamesspillane.org/js/how-to-help/campaign-literature-and-signs",
-"https://jamesspillane.org/js/how-to-help/write-a-letter",
-"https://jamesspillane.org/js/on-the-issues",
-"https://jamesspillane.org/js/updates",
-"https://jamesspillane.org/js/wp-content/uploads/2024/10/QR_Spillane.jpg",
-"https://secure.winred.com/james-spillane-for-state-representative/donate-today",
-"https://twitter.com/jaspillane",
-"https://x.com/intent/tweet?text=Donate+to+the+Campaign&url=https%3A%2F%2Fjamesspillane.org%2Fjs%2Fdonate-to-the-campaign%2F"
+{
+"text": "$JamesSpillane",
+"href": "https://cash.app/%24JamesSpillane?qr=1"
+},
+{
+"text": "About James",
+"href": "https://jamesspillane.org/js/about-james/"
+},
+{
+"text": "Bills Sponsored",
+"href": "https://jamesspillane.org/js/bills-sponsored/"
+},
+{
+"text": "Campaign Literature and Signs",
+"href": "https://jamesspillane.org/js/how-to-help/campaign-literature-and-signs/"
+},
+{
+"text": "DONATE",
+"href": "https://jamesspillane.org/js/donate-to-the-campaign/"
+},
+{
+"text": "Donate Securely With WinRed",
+"href": "https://secure.winred.com/james-spillane-for-state-representative/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://jamesspillane.org/js/endorsements/"
+},
+{
+"text": "EVENTS",
+"href": "https://jamesspillane.org/js/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100006747589487"
+},
+{
+"text": "HOME",
+"href": "https://jamesspillane.org/js/"
+},
+{
+"text": "HOW TO HELP",
+"href": "https://jamesspillane.org/js/how-to-help/"
+},
+{
+"text": "ISSUES",
+"href": "https://jamesspillane.org/js/on-the-issues/"
+},
+{
+"text": "UPDATES",
+"href": "https://jamesspillane.org/js/updates/"
+},
+{
+"text": "Voting Information 2026",
+"href": "https://jamesspillane.org/js/events/voting-information/"
+},
+{
+"text": "Write a Letter",
+"href": "https://jamesspillane.org/js/how-to-help/write-a-letter/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/jaspillane"
+},
+{
+"text": "[image: James Spillane for NH State Representative]",
+"href": "https://jamesspillane.org/js/"
+},
+{
+"text": "[image]",
+"href": "https://jamesspillane.org/js/wp-content/uploads/2024/10/QR_Spillane.jpg"
+},
+{
+"text": "[tooltip: Send over email]",
+"href": "mailto:?subject=Donate+to+the+Campaign&body=https%3A%2F%2Fjamesspillane.org%2Fjs%2Fdonate-to-the-campaign%2F"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjamesspillane.org%2Fjs%2Fdonate-to-the-campaign%2F&t=Donate+to+the+Campaign"
+},
+{
+"text": "[tooltip: Share on X]",
+"href": "https://x.com/intent/tweet?text=Donate+to+the+Campaign&url=https%3A%2F%2Fjamesspillane.org%2Fjs%2Fdonate-to-the-campaign%2F"
+},
+{
+"text": "james@jamesspillane.org",
+"href": "mailto:james@jamesspillane.org"
+}
 ]

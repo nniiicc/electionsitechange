@@ -1,60 +1,262 @@
 [
-"http://fightvoterfraud.org/",
-"http://instagram.com/petersenfornebraska",
-"http://petersenfornebraska.com/",
-"https://causeofamerica.org/",
-"https://cei.americafirstpolicy.com/",
-"https://datarepublican.com/",
-"https://electionfairnessinstitute.org/",
-"https://electionfraud20.org/dr-frank-reports",
-"https://electionintegritynetwork.org/",
-"https://electiontransparency.org/",
-"https://facebook.com/PetersenForNebraska",
-"https://form.qomon.org/dd0c3091-get-involved",
-"https://handcountroadshow.org/",
-"https://nebraska.gov/apps-sos-voter-registration",
-"https://petersenfornebraska.com/",
-"https://petersenfornebraska.com/10army",
-"https://petersenfornebraska.com/endorsements",
-"https://petersenfornebraska.com/join",
-"https://petersenfornebraska.com/nebraska-citizens-elections-bill-of-rights",
-"https://petersenfornebraska.com/plan",
-"https://petersenfornebraska.com/post/cisa-2026-election-security-plan-nebraska",
-"https://petersenfornebraska.com/post/protecting-vulnerable-voters-nebraska-nursing-homes",
-"https://petersenfornebraska.com/post/save-kansas-act-nebraska-voter-rolls",
-"https://petersenfornebraska.com/press",
-"https://petersenfornebraska.com/press/tags/america-first",
-"https://petersenfornebraska.com/press/tags/cast-vote-records",
-"https://petersenfornebraska.com/press/tags/citizen-auditors",
-"https://petersenfornebraska.com/press/tags/election-integrity",
-"https://petersenfornebraska.com/press/tags/election-transparency-1",
-"https://petersenfornebraska.com/press/tags/nebraska-elections-1",
-"https://petersenfornebraska.com/press/tags/nebraska-politics-1",
-"https://petersenfornebraska.com/press/tags/nebraska-secretary-of-state",
-"https://petersenfornebraska.com/press/tags/poll-watchers",
-"https://petersenfornebraska.com/press/tags/scott-petersen",
-"https://petersenfornebraska.com/privacy-policy",
-"https://petersenfornebraska.com/protecting-vulnerable-voters",
-"https://petersenfornebraska.com/setting-the-standard",
-"https://petersenfornebraska.com/votertree",
-"https://petersenfornebraska.com/votertree-privacy",
-"https://returntohandcounting.com/doc/clay-parikh",
-"https://rumble.com/c/theprofessorsrecord?e9s=src_v1_cmd",
-"https://secure.anedot.com/petersen-for-nebraska/donate",
-"https://soundcloud.com/petersenfornebraska",
-"https://theelectorlist.com/",
-"https://truethevote.org/",
-"https://unite4freedom.com/",
-"https://votedatabase.com/",
-"https://x.com/PetersenForNE",
-"https://x.com/ZarkFiles",
-"https://x.com/petersenforne",
-"https://youtu.be/PeInkvGpfEA?si=eEZmv7Wh6xtZodH_%5D",
-"https://youtu.be/fbBmFw8Pb9s",
-"https://youtu.be/oM4DWn9Ufl4?si=mKLC7yDtVg24d2o-",
-"https://youtu.be/zgfsf-muxR8?si=FZTT5OPb5eNHOhK0",
-"https://youtube.com/@PetersenforNebraska",
-"https://youtube.com/playlist?list=PLKrMhllcSXtrydVVww-zSLc_c5V0S4051",
-"https://youtube.com/watch?v=0ooBA98B9Rw&t=828s",
-"https://youtube.com/watch?v=rQSzliVRKqM&list=PLKrMhllcSXtqjAdZto-6YfIHjVdqwXnpU&index=3"
+{
+"text": "@DataRepublican",
+"href": "https://datarepublican.com/"
+},
+{
+"text": "@ZarkFiles",
+"href": "https://x.com/ZarkFiles"
+},
+{
+"text": "America First",
+"href": "https://www.petersenfornebraska.com/press/tags/america-first"
+},
+{
+"text": "Are They Truly Secure?",
+"href": "https://www.youtube.com/watch?v=0ooBA98B9Rw&t=828s"
+},
+{
+"text": "CISA’s 2026 Election Infrastructure Security Plan Is a Warning, Not a Reassurance",
+"href": "https://www.petersenfornebraska.com/post/cisa-2026-election-security-plan-nebraska"
+},
+{
+"text": "Candidate Spotlight",
+"href": "https://youtu.be/oM4DWn9Ufl4?si=mKLC7yDtVg24d2o-"
+},
+{
+"text": "Cast Vote Records",
+"href": "https://www.petersenfornebraska.com/press/tags/cast-vote-records"
+},
+{
+"text": "Cause of America",
+"href": "https://causeofamerica.org/"
+},
+{
+"text": "Center for Election Integrity",
+"href": "https://cei.americafirstpolicy.com/"
+},
+{
+"text": "Citizen Auditors",
+"href": "https://www.petersenfornebraska.com/press/tags/citizen-auditors"
+},
+{
+"text": "Clay Parikh",
+"href": "https://returntohandcounting.com/doc/clay-parikh/"
+},
+{
+"text": "Connect",
+"href": "https://www.petersenfornebraska.com/join"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/petersen-for-nebraska/donate"
+},
+{
+"text": "Dr. Douglas Frank",
+"href": "https://electionfraud20.org/dr-frank-reports/"
+},
+{
+"text": "ELLY",
+"href": "https://theelectorlist.com/"
+},
+{
+"text": "Election Fairness Institute",
+"href": "https://electionfairnessinstitute.org/"
+},
+{
+"text": "Election Integrity",
+"href": "https://www.petersenfornebraska.com/press/tags/election-integrity"
+},
+{
+"text": "Election Integrity Network",
+"href": "https://www.electionintegritynetwork.org/"
+},
+{
+"text": "Election Transparency",
+"href": "https://www.petersenfornebraska.com/press/tags/election-transparency-1"
+},
+{
+"text": "Election Transparency Initiative",
+"href": "https://electiontransparency.org/"
+},
+{
+"text": "Elections Bill of Rights",
+"href": "https://www.petersenfornebraska.com/nebraska-citizens-elections-bill-of-rights"
+},
+{
+"text": "Endorsements",
+"href": "https://www.petersenfornebraska.com/endorsements"
+},
+{
+"text": "FightVoterFraud.org",
+"href": "http://fightvoterfraud.org"
+},
+{
+"text": "Follow on X",
+"href": "https://x.com/petersenforne"
+},
+{
+"text": "Join $10 Army",
+"href": "https://www.petersenfornebraska.com/10army"
+},
+{
+"text": "Like on Facebook",
+"href": "https://www.facebook.com/PetersenForNebraska/"
+},
+{
+"text": "Mark Cook",
+"href": "https://handcountroadshow.org/"
+},
+{
+"text": "Meet Scott",
+"href": "https://www.petersenfornebraska.com"
+},
+{
+"text": "NBC News Investigation",
+"href": "https://youtu.be/PeInkvGpfEA?si=eEZmv7Wh6xtZodH_%5D"
+},
+{
+"text": "Nebraska Elections",
+"href": "https://www.petersenfornebraska.com/press/tags/nebraska-elections-1"
+},
+{
+"text": "Nebraska Politics",
+"href": "https://www.petersenfornebraska.com/press/tags/nebraska-politics-1"
+},
+{
+"text": "Nebraska Secretary of State",
+"href": "https://www.petersenfornebraska.com/press/tags/nebraska-secretary-of-state"
+},
+{
+"text": "News",
+"href": "https://www.petersenfornebraska.com/press"
+},
+{
+"text": "Petersen's Plan",
+"href": "https://www.petersenfornebraska.com/plan"
+},
+{
+"text": "PetersenForNebraska.com",
+"href": "http://petersenfornebraska.com"
+},
+{
+"text": "Play It Right",
+"href": "https://www.youtube.com/watch?v=rQSzliVRKqM&list=PLKrMhllcSXtqjAdZto-6YfIHjVdqwXnpU&index=3"
+},
+{
+"text": "Poll Watchers",
+"href": "https://www.petersenfornebraska.com/press/tags/poll-watchers"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.petersenfornebraska.com/privacy-policy"
+},
+{
+"text": "Professor David Clements",
+"href": "https://rumble.com/c/theprofessorsrecord?e9s=src_v1_cmd"
+},
+{
+"text": "Protecting Nebraska’s Most Vulnerable Voters: Their Vote. Their Choice.",
+"href": "https://www.petersenfornebraska.com/post/protecting-vulnerable-voters-nebraska-nursing-homes"
+},
+{
+"text": "Protecting Vulnerable Voters",
+"href": "https://www.petersenfornebraska.com/protecting-vulnerable-voters"
+},
+{
+"text": "REQUEST SIGN",
+"href": "https://form.qomon.org/dd0c3091-get-involved/"
+},
+{
+"text": "Radio Ads",
+"href": "https://www.youtube.com/playlist?list=PLKrMhllcSXtrydVVww-zSLc_c5V0S4051"
+},
+{
+"text": "Real Election Integrity",
+"href": "https://www.petersenfornebraska.com/setting-the-standard"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.nebraska.gov/apps-sos-voter-registration/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://form.qomon.org/dd0c3091-get-involved/"
+},
+{
+"text": "Scott Petersen",
+"href": "https://www.petersenfornebraska.com/press/tags/scott-petersen"
+},
+{
+"text": "See All",
+"href": "https://www.petersenfornebraska.com/press"
+},
+{
+"text": "Stealing Military Votes?",
+"href": "https://youtu.be/fbBmFw8Pb9s"
+},
+{
+"text": "The Lone Raccoon",
+"href": "https://votedatabase.com/"
+},
+{
+"text": "True the Vote",
+"href": "https://truethevote.org/"
+},
+{
+"text": "Unite4Freedom",
+"href": "https://unite4freedom.com/"
+},
+{
+"text": "VOTERTREE",
+"href": "https://www.petersenfornebraska.com/votertree"
+},
+{
+"text": "Volunteer",
+"href": "https://www.petersenfornebraska.com"
+},
+{
+"text": "VoterTree Terms",
+"href": "https://www.petersenfornebraska.com/votertree-privacy"
+},
+{
+"text": "What Kansas's SAVE Law Can Teach Nebraska",
+"href": "https://www.petersenfornebraska.com/post/save-kansas-act-nebraska-voter-rolls"
+},
+{
+"text": "Where Does Your Election Data Go?",
+"href": "https://youtu.be/zgfsf-muxR8?si=FZTT5OPb5eNHOhK0"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/PetersenForNebraska"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/petersenfornebraska"
+},
+{
+"text": "[image: Petersen_Logo_Color.png]",
+"href": "https://www.petersenfornebraska.com"
+},
+{
+"text": "[image: Soundcloud]",
+"href": "https://soundcloud.com/petersenfornebraska"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/PetersenForNE"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@PetersenforNebraska"
+},
+{
+"text": "team@petersenfornebraska.com",
+"href": "mailto:team@petersenfornebraska.com"
+},
+{
+"text": "👉",
+"href": "http://petersenfornebraska.com/"
+}
 ]

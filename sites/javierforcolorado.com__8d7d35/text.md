@@ -1,5 +1,3 @@
-Learn more about Javier
-Stay updated on Javier Mabrey's campaign to bring Bold Political Leadership to Colorado.
-To contact Javier, email info@javierforcolorado.com.
-Donate online
-PAID FOR BY JAVIER MABREY FOR COLORADO
+Home About Issues Legislation Endorsements HD1 Media Donate More Home About Issues Legislation Endorsements HD1 Media Donate Home About Issues Legislation Endorsements HD1 Media Donate Javier Mabrey is a progressive Democrat running for HD1 Learn more about Javier About Javier About Javier About Javier Learn more Issues About Javier About Javier Learn more Endorsements About Javier Endorsements Learn more Subscribe Stay updated on Javier Mabrey's campaign to bring Bold Political Leadership to Colorado.
+Email Sign up To contact Javier, email info@javierforcolorado.com .
+Donate online PAID FOR BY JAVIER MABREY FOR COLORADO Donate

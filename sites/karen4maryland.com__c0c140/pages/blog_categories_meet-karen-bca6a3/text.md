@@ -1,10 +1,3 @@
-top of page
-Log In
-Search
-#MeToo Month of Brave Women
-Every year Domestic Violence Awareness month seems to have a new hashtag.
+top of page Log In Search #MeToo Month of Brave Women Every year Domestic Violence Awareness month seems to have a new hashtag.
 A few years ago the trending domestic violence hashtag was...
-Karen Simpson
-Oct 12, 2018
-Donate
-bottom of page
+Karen Simpson Oct 12, 2018 3 min read Donate JOIN THE CONVERSATION: ​Authorized by Friends of Karen Simpson Donna Flaharty, Treasurer PO Box 1358, Frederick, MD 21702 ©Copyright # Friends of Karen Simpson, All Rights Reserved Karen4Maryland@gmail.com ​ bottom of page

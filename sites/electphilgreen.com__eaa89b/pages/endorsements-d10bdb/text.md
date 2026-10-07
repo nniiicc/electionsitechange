@@ -1,21 +1,2 @@
-Click here to endorse Phil Green for State Representative
-Rep.
-Gary Howell Endorses Phil Green
-Right to Life
-Citizens for Traditional Values
-Freedom Fund
-GLEP
-Agri-Pac (Farm Bureau)
-Friends of Corn PAC
-National Rifle Association: “Aq” Rating and Endorsement
-MCRGO: A Rating
-Michigan Chamber of Commerce
-Michigan Restaurant Assoc
-Michigan Manufacturers Assoc
-ABC (Association of Builders and Contractors)
-NFIB
-SBAM
-*Michigan Credit Union League
-*Michigan Vaccine Freedom PAC
-Police Officers Association of Michigan
-Michigan Professional Firefighters Union
+Skip to content Home About Phil Green Endorsements Endorse Volunteer Contribute Contact Home About Phil Green Endorsements Endorse Volunteer Contribute Contact Endorsements Fighting for the Forgotten Peninsula Click here to endorse Phil Green for State Representative Rep.
+Gary Howell Endorses Phil Green <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span> Right to Life Citizens for Traditional Values Freedom Fund GLEP Agri-Pac (Farm Bureau) Friends of Corn PAC National Rifle Association: “Aq” Rating and Endorsement MCRGO: A Rating Michigan Chamber of Commerce Michigan Restaurant Assoc Michigan Manufacturers Assoc ABC (Association of Builders and Contractors) NFIB SBAM *Michigan Credit Union League *Michigan Vaccine Freedom PAC Police Officers Association of Michigan Michigan Professional Firefighters Union Paid for by Friends of Phil Green • 7650 Trumbower Trl. • Millington, MI 48746 Privacy Policy

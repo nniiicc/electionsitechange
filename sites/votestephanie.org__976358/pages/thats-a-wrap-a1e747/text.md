@@ -1,75 +1,24 @@
-First, if you’re free on Thursday, swing by the Northern Utah County Legislative Debrief.
-7:30 pm @ 3192 W 2450 North Lehi, UT 84043
-This will be with myself, Representatives Moss and Maloy, and Senator Anderegg.
+Home Meet Stephanie Issues Recent Updates Select Page That’s A Wrap!
+Mar 3, 2023 First, if you’re free on Thursday, swing by the Northern Utah County Legislative Debrief.
+7:30 pm @ 3192 W 2450 North Lehi, UT 84043 This will be with myself, Representatives Moss and Maloy, and Senator Anderegg.
 Speaker of the House, Brad Wilson, will also be coming by to offer his support to our area.
 That’s A Wrap!
 The Legislative Session has come to a close.
 The legislature passed over 500 bills, a record number, and still managed to end before midnight on the last night.
 Five of those were mine, all of which expanded personal freedom and pulled back on government regulations.
-Stewardship
-Water:
-We accomplished 4 main goals this session:
-- Increased water capacity
-- Expanded conservation efforts
-- Prepared for future water needs
-- Enhanced outreach efforts
-The legislature invested nearly $500 million into Utah’s water resources this session.
+Stewardship Water: We accomplished 4 main goals this session: Increased water capacity Expanded conservation efforts Prepared for future water needs Enhanced outreach efforts The legislature invested nearly $500 million into Utah’s water resources this session.
 Solving our water problem is a marathon, not a sprint.
 It will take several years of careful management in addition to rain and snow, but we are committed to making progress every session.
-Energy:
-- Safeguarded Utah’s ability to provide safe, reliable, and affordable energy
-- Pushed back against the federal government’s regulatory overreach that threatens our ability to provide power to the state
-- Passed legislation to create a statewide energy plan to develop and implement energy policies and goals as it relates to renewable and non-renewable energy sources
-- We will continue to invest in Utah’s all-of-the-above energy approach including coal, natural gas, hydroelectric, nuclear, wind, solar, hydrogen, and more.
-Land Management:
-- Increased organization and funding for state outdoor recreation projects
-- Invested $45 million one-time and $45 million ongoing in active transportation for trails and other outdoor recreation infrastructure
-- Put in place wildfire preventative measures to protect our state when disaster strikes
-Affordability
-Taxes:
-- The best way we can ensure Utahns can continue to call Utah home is to allow them to keep more of their hard-earned money in their pockets
-- $850 million total tax reduction
-The legislature passed several tax related bills.
-The details of those are as follows:
-- H.B. 54 Tax Revisions
-- Income tax reduction – 4.85% → 4.65%
-- Social Security tax credit – for households earning up to $75,000
-- Double dependent exemption – for families in year of a child’s birth
-- Earned Income Tax Credit (EITC) – 15% → 20% of federal tax credit
-- Removed state portion of sales tax on food
-- H.B. 170 Child Tax Revisions
-- $1,000 non refundable child tax credit for children 1-3 years old to help cover the cost of childcare
-- S.J.R. 10 Proposal to Amend Utah Constitution – Income Tax
-- Modifies Article XIII in the Constitution by expanding the income tax earmark to allow the Legislature to use revenue growth to fund other essential programs.
-Total Tax Reductions
-- $607.9 million (H.B. 54) – Income Tax and Sales Tax on Food
-- $9.6 million (H.B. 170) – Child Care Tax Credit
-- $146 million (H.B. 293) – Property tax thaw
-- $51 million (H.B. 364) – Low Income Housing Tax Credit
-- $32.7 million (H.B. 301) – Gas tax
-- $2.6 million (H.B. 130) – Adoption Tax Credit
-Government Overreach
-- Blocked efforts to distort financial markets and limit access to capital based on artificial and subjective criteria
-- Protected against investment schemes based on assessments of businesses’ and individuals’ political beliefs
-- Ensured any state investment is done without regard to companies’ political, environmental, or social considerations
-Investment
-Transportation
-- Monumental year for generational investments, including every mode of transportation
-- Over $2 billion invested in transportation
-- $1.6 billion for roads ($770 million is high-risk debt reduction)
-- $350 million for transit
-- $90 million for active transportation
-- These investments will not only benefit us today, but will greatly benefit our children and grandchildren and set Utah up for future success
-Education
-- Education inspires upward mobility, fosters innovation, and opens the doors of the future
-- Made significant investments in public education that positively impact students, teachers, and parents:
-- Provided historic teacher pay raises
-- Gave additional learning opportunities for Utah students
-- Funded paid teacher collaboration and preparation time
-- Funded optional all-day kindergarten
-- Passed half a dozen bills related to school safety
-School Safety
-- Multi-faceted approach to school safety by addressing top concerns of students, educators, parents, and law enforcement
-- Invested in student safety and ensured best practices are used to protect Utah schools and students
-- Addressed chronic absenteeism through prevention and intervention
-- Passed legislation to empower parents with information and resources when their student has been subjected to bullying, cyber-bullying, or other abusive behavior
+Energy: Safeguarded Utah’s ability to provide safe, reliable, and affordable energy Pushed back against the federal government’s regulatory overreach that threatens our ability to provide power to the state Passed legislation to create a statewide energy plan to develop and implement energy policies and goals as it relates to renewable and non-renewable energy sources We will continue to invest in Utah’s all-of-the-above energy approach including coal, natural gas, hydroelectric, nuclear, wind, solar, hydrogen, and more.
+Land Management: Increased organization and funding for state outdoor recreation projects Invested $45 million one-time and $45 million ongoing in active transportation for trails and other outdoor recreation infrastructure Put in place wildfire preventative measures to protect our state when disaster strikes Affordability Taxes: The best way we can ensure Utahns can continue to call Utah home is to allow them to keep more of their hard-earned money in their pockets $850 million total tax reduction The legislature passed several tax related bills.
+The details of those are as follows: H.B.
+54 Tax Revisions Income tax reduction – 4.85% → 4.65% Social Security tax credit – for households earning up to $75,000 Double dependent exemption – for families in year of a child’s birth Earned Income Tax Credit (EITC) – 15% → 20% of federal tax credit Removed state portion of sales tax on food H.B.
+170 Child Tax Revisions $1,000 non refundable child tax credit for children 1-3 years old to help cover the cost of childcare S.J.R.
+10 Proposal to Amend Utah Constitution – Income Tax Modifies Article XIII in the Constitution by expanding the income tax earmark to allow the Legislature to use revenue growth to fund other essential programs.
+Total Tax Reductions $607.9 million (H.B.
+54) – Income Tax and Sales Tax on Food $9.6 million (H.B.
+170) – Child Care Tax Credit $146 million (H.B.
+293) – Property tax thaw $51 million (H.B.
+364) – Low Income Housing Tax Credit $32.7 million (H.B.
+301) – Gas tax $2.6 million (H.B.
+130) – Adoption Tax Credit Government Overreach Blocked efforts to distort financial markets and limit access to capital based on artificial and subjective criteria Protected against investment schemes based on assessments of businesses’ and individuals’ political beliefs Ensured any state investment is done without regard to companies’ political, environmental, or social considerations Investment Transportation Monumental year for generational investments, including every mode of transportation Over $2 billion invested in transportation $1.6 billion for roads ($770 million is high-risk debt reduction) $350 million for transit $90 million for active transportation These investments will not only benefit us today, but will greatly benefit our children and grandchildren and set Utah up for future success Education Education inspires upward mobility, fosters innovation, and opens the doors of the future Made significant investments in public education that positively impact students, teachers, and parents: Provided historic teacher pay raises Gave additional learning opportunities for Utah students Funded paid teacher collaboration and preparation time Funded optional all-day kindergarten Passed half a dozen bills related to school safety School Safety Multi-faceted approach to school safety by addressing top concerns of students, educators, parents, and law enforcement Invested in student safety and ensured best practices are used to protect Utah schools and students Addressed chronic absenteeism through prevention and intervention Passed legislation to empower parents with information and resources when their student has been subjected to bullying, cyber-bullying, or other abusive behavior Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 9 + 10 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

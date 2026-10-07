@@ -1,4 +1,4 @@
-I’m Sheila Grooms McMahan, a lifelong East Tennessean born and raised in Cosby, deep in the Smoky Mountains.
+0 Skip to Content About Issues Volunteer Contact Donate Donate Open Menu Close Menu About Issues Volunteer Contact Donate Donate Open Menu Close Menu About Issues Volunteer Contact Donate Donate “ I’m running to fight for good-paying jobs that keep people here, strong public schools, fair property taxes, accessible healthcare, and an end to corporate giveaways that drain rural communities and leave Appalachia behind. ” I’m Sheila Grooms McMahan, a lifelong East Tennessean born and raised in Cosby, deep in the Smoky Mountains.
 My family has called this land home for centuries, and I still live on the land they settled.
 For me, Appalachia isn’t a slogan, it’s a responsibility.
 I grew up poor in a working family that knew how to stretch a dollar and look out for one another.
@@ -12,3 +12,4 @@ I’m running to invest in public education, strengthen rural healthcare, suppor
 I believe in responsible government that serves people, not special interests.
 Everything I am came from right here.
 Now I’m fighting to make sure our future does too.
+About Issues Volunteer Contact Donate Paid for by: The Committee to Elect Sheila Mcmahan, Treasurer: Sheila Mcmahan

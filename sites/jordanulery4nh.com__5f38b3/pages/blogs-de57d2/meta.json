@@ -1,9 +1,9 @@
 {
  "description": "Get the latest political news updates by visiting the website of Representative Jordan Ulery. Click for more details about our campaign.",
  "final_url": "https://jordanulery4nh.com/blogs",
- "paid_for_by": "Paid for by Jordan Ulery | PO Box 15, Hudson, NH 03051 Powered by",
+ "fingerprint": "a3f53ea993da95832251b27e75a32cda31ca513a",
+ "format": 3,
+ "paid_for_by": "Paid for by Jordan Ulery",
  "title": "Blogs",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

@@ -1,6 +1,6 @@
-This summer I’m working the politically-engaged ropes.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now A Republican Q&A Happy Hour event This summer I’m working the politically-engaged ropes.
 Speaking mostly with groups (large and small) that are already politically oriented.
-(Bring me to your group here.) While there’s a large percentage of us who are just swimming, floating, drowning, and bathing in political discourse, there is also a large percentage of “normies” or regular folks whose engagement level is likely to stay low until next year.
+(Bring me to your group here .) While there’s a large percentage of us who are just swimming, floating, drowning, and bathing in political discourse, there is also a large percentage of “normies” or regular folks whose engagement level is likely to stay low until next year.
 I’m leaving them to their blissful sans-politics summer existence albeit maybe luring them with these blog posts.
 I had the pleasure of addressing the Carolina Republican Coalition at Henry’s on Market Street in Charleston.
 This is a monthly meet-up called 5@5 and on July 7th it included Mark Lynch and me as featured speakers.
@@ -14,8 +14,7 @@ The session began with prepared speeches.
 I was allotted 20 minutes; I used four.
 Mark Lynch spoke for about seventeen.
 Then we stood side-by-side while questions were read off submitted index cards.
-Here are some highlights:
-Can a Libertarian run in the Republican primary?
+Here are some highlights: Can a Libertarian run in the Republican primary?
 No, not unless they became a Republican.
 I am not a Republican.
 So you will have your primary, and Lindsey Graham will be in that, among others.
@@ -44,8 +43,7 @@ I ask good questions and seek first to understand.
 I’ve been the State Committee Chair for the SCLP and I run a tight meeting.
 I keep people from rambling on and on and on and on.
 Afterwards, someone approached me and asked if I was ever a Toastmaster.
-When I grinned and said ‘yes’ he replied, “It shows.”
-How will you fill the role Lindsey Graham has filled as a close ally to Israel?
+When I grinned and said ‘yes’ he replied, “It shows.” How will you fill the role Lindsey Graham has filled as a close ally to Israel?
 To my knowledge, Senator Graham doesn’t have an official capacity in which he serves Israel.
 If he does not win reelection, I feel confident he will still be engaged with Prime Minister Netanyahu in some capacity.
 It’s a close friendship.
@@ -80,3 +78,9 @@ But I may have to revisit them after their primaries deliver the expected replay
 Ready to get in the game?
 We could use your help.
 Click here to sign up.
+2 Responses Karen says: May 30, 2026 at 1:55 pm I believe Congress will benefit from having more Libertarian voices in Congress to sharpen the conversation.
+A healthy democracy requires vigorous debate, and understanding the potential negative consequences of proposed government “solutions”.
+Reply kasiesc says: June 17, 2026 at 10:22 pm Thank you, Karen!
+Reply Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

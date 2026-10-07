@@ -1,41 +1,25 @@
-Dear Neighbors:
-While COVID inflicted great pain and suffering, our ability to adapt brought benefits we continue to enjoy today, including Zoom and expanded voting.
-I recently was Providence (Early) Voter No. 9 in this year’s Presidential primary, and I encourage you to exercise your right to vote in any of the ways now available (including voting in person on April 2).
+Home About Bio Public Service Record Projects 2022-23 District Letters 2024 District Letters 2025 District Letters 2026 District Letters Legislation State Legislation State Issues DONATE Join My Email List Select Page March 24, 2024 Letter Dear Neighbors: While COVID inflicted great pain and suffering, our ability to adapt brought benefits we continue to enjoy today, including Zoom and expanded voting.
+I recently was Providence (Early) Voter No.
+9 in this year’s Presidential primary, and I encourage you to exercise your right to vote in any of the ways now available (including voting in person on April 2).
 In this week’s letter, I will discuss the ongoing work of the Senate commission studying possible reforms in the Providence Public School Department (“PPSD”).
 1.
-A Vision For Education In Providence
-This past Monday (March 18), the Commission held its fourteenth meeting, at which it reviewed the Second Draft Report.
-This Report describes (at page 18) a vision of PPSD’s future that combines greater professional fulfillment for teachers with improved outcomes for students containing these elements:
-- Providence Public Schools will provide a work environment that will attract and retain high quality educational professionals.
-- All educators within Providence Public Schools have a shared commitment to provide all children with a quality public education.
-- All educators have a meaningful voice and collaborative role in fulfilling their shared commitment.
-- Teachers have a responsibility to maintain high professional standards, and they have the authority and responsibility to support their colleagues in meeting them.
-- All educators are personally accountable for the quality of their contribution to this shared commitment.
+A Vision For Education In Providence This past Monday (March 18), the Commission held its fourteenth meeting, at which it reviewed the Second Draft Report .
+This Report describes (at page 18) a vision of PPSD’s future that combines greater professional fulfillment for teachers with improved outcomes for students containing these elements: Providence Public Schools will provide a work environment that will attract and retain high quality educational professionals.
+All educators within Providence Public Schools have a shared commitment to provide all children with a quality public education.
+All educators have a meaningful voice and collaborative role in fulfilling their shared commitment.
+Teachers have a responsibility to maintain high professional standards, and they have the authority and responsibility to support their colleagues in meeting them.
+All educators are personally accountable for the quality of their contribution to this shared commitment.
 2.
-The Example of the Springfield, Massachusetts Empowerment Zone Partnership
-A cohort of Springfield, Massachusetts middle and high schools organized into an Empowerment Zone Partnership (“SEZP”) that realized a tangible version of this vision, anchored in a Collective Bargaining Agreement that was ratified by 96% of the union membership.
-Among the key reforms SEZP achieved (and which PPSD would benefit from emulating) are the following:
-- Dispute Resolution Process: Expedited Mediation and Arbitration (Article 19);
-- Establishing teacher leadership teams as the vehicle for shared decision-making at the school level (Articles 22-24);
-- Authorizing principals to select the best qualified staff from both internal and external candidates without regard to seniority (Article 28);
-- Authorizing the Empowerment Zone to reassign displaced teachers and staff to positions for which they are qualified (Article 30);
-- Site-based management for professional development (Article 33);
-- Reducing the role for seniority in teacher assignments (Article 29), teacher displacements (Article 30) and reductions in force (Article 36);
-- Expedited dismissal and discipline (Article 37);
-- Establishing a joint labor-management evaluation team (Article 44);
-- Creating a career ladder (Article 63) including stipends/additional pay for leadership and other roles (Article 65) and for exceptional performance (Article 67);
-- Shared expectations for collaboration between principals and teacher leadership teams (Appendix A)
-SEZP published an Impact Summary noting its gains in many areas, including student achievement, faculty diversity and the development of students’ social and emotional skills.
+The Example of the Springfield, Massachusetts Empowerment Zone Partnership A cohort of Springfield, Massachusetts middle and high schools organized into an Empowerment Zone Partnership (“SEZP”) that realized a tangible version of this vision, anchored in a Collective Bargaining Agreement that was ratified by 96% of the union membership.
+Among the key reforms SEZP achieved (and which PPSD would benefit from emulating) are the following: Dispute Resolution Process: Expedited Mediation and Arbitration (Article 19); Establishing teacher leadership teams as the vehicle for shared decision-making at the school level (Articles 22-24); Authorizing principals to select the best qualified staff from both internal and external candidates without regard to seniority (Article 28); Authorizing the Empowerment Zone to reassign displaced teachers and staff to positions for which they are qualified (Article 30); Site-based management for professional development (Article 33); Reducing the role for seniority in teacher assignments (Article 29), teacher displacements (Article 30) and reductions in force (Article 36); Expedited dismissal and discipline (Article 37); Establishing a joint labor-management evaluation team (Article 44); Creating a career ladder (Article 63) including stipends/additional pay for leadership and other roles (Article 65) and for exceptional performance (Article 67); Shared expectations for collaboration between principals and teacher leadership teams (Appendix A) SEZP published an Impact Summary noting its gains in many areas, including student achievement, faculty diversity and the development of students’ social and emotional skills.
 3.
-Presentations By Commission Experts
-The experts who presented to the Commission describe SEZP’s type of labor-management relationship as “professional unionism.” The 96% approval vote by the Springfield Education’ Association’s membership demonstrates conclusively how these reforms are properly viewed as both pro-student and pro-union.
-These ideas are not new to Providence, as many of them appear in the 1993 Providence Blueprint for Education (“PROBE”) Report.
+Presentations By Commission Experts The experts who presented to the Commission describe SEZP’s type of labor-management relationship as “professional unionism.” The 96% approval vote by the Springfield Education’ Association’s membership demonstrates conclusively how these reforms are properly viewed as both pro-student and pro-union.
+These ideas are not new to Providence, as many of them appear in the 1993 Providence Blueprint for Education (“PROBE”) Report .
 4.
-The Second Draft Report’s Recommendations
-Pages 26-36 of the Second Draft Report contain recommendations to support PPSD’s ability to realize this vision, including collaborative bargaining, building capacity, increasing administrative accountability and removing legislative barriers.
+The Second Draft Report’s Recommendations Pages 26-36 of the Second Draft Report contain recommendations to support PPSD’s ability to realize this vision, including collaborative bargaining, building capacity, increasing administrative accountability and removing legislative barriers.
 In the coming weeks, the Commission will make further revisions to the Report based on Monday’s meeting with the goal of producing a final draft for a vote.
 5.
-My Perspective
-I view my work on this Commission as my most important project in the Senate.
+My Perspective I view my work on this Commission as my most important project in the Senate.
 As a Providence Public Schools student, parent and School Board member, as a Providence City Council member and now as a State Senator, I have seen how important our public schools are to the future of our children, our families, our City and our State.
 I believe in my heart that Providence Public Schools is capable of achieving the benefits of the professional unionism we see in the Springfield Empowerment Zone Partnership, and that our successful future depends critically upon the ability of Providence Public Schools labor and management to achieve them.
+Friends of Sam Zurier 330 Grotto Avenue Providence, RI 02906 Join My Email List [ctct form="3808" show_title="false"] © Copyright # Paid for and Authorized by Friends of Sam Zurier, Sam Zurier, Treasurer.

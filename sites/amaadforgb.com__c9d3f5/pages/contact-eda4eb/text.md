@@ -1,9 +1,5 @@
-Contact Us
-This campaign is at its best when we hear from you.
-Share a question, a concern, or an idea for Green Bay, and our team will follow up soon.
-info@amaadforgb.com
-(920) 264-9084
-- 10DLC & Toll-Free Privacy Policy Scale to Win is committed to protecting your privacy online.
+0 Skip to Content Record Why I'm Running Issues About Amaad In the Community Volunteer Contact Us Donate Open Menu Close Menu Open Menu Close Menu Record Why I'm Running Issues About Amaad In the Community Volunteer Contact Us Donate Record Why I'm Running Issues About Amaad In the Community Volunteer Contact Us Donate Contact Us This campaign is at its best when we hear from you.
+Share a question, a concern, or an idea for Green Bay, and our team will follow up soon. info@amaadforgb.com (920) 264-9084 Text Messaging Terms and Privacy Policy 10DLC & Toll-Free Privacy Policy Scale to Win is committed to protecting your privacy online.
 This 10DLC & Toll-Free Privacy Policy is in addition to and supplements all other privacy and data security obligations of “Scale to Win”, including our operations, employment and website privacy policies (collectively, our “Privacy Policy”).
 It describes our obligations and practices of how we collect and use customer consent and opt-ins for our texting and/or email services and programs.
 This 10DLC & Toll-Free Privacy Policy applies to SMS and MMS texts from Scale to Win.
@@ -18,10 +14,17 @@ You can cancel the SMS service at any time.
 Just text “STOP”.
 After this, you will no longer receive SMS messages from us.
 If you want to join again, just sign up as you did the first time and we will start sending SMS messages to you again.
-If you are experiencing issues with the messaging program you can reply with the keyword HELP for more assistance, or you can get help directly at hello@scaletowin.com.
+If you are experiencing issues with the messaging program you can reply with the keyword HELP for more assistance, or you can get help directly at hello@scaletowin.com .
 Carriers are not liable for delayed or undelivered messages.
 T-Mobile is not liable for delayed or undelivered messages.
 You can expect to receive no more than 2 text message(s) per day from Scale to Win.
 As always, message and data rates may apply for any messages sent to you from us and to us from you.
 If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
-If you have any questions regarding privacy, please read our privacy policy: Privacy Policy.
+If you have any questions regarding privacy, please read our privacy policy: Privacy Policy .
+Sign Up for Updates By signing up you are agreeing to receive up to 2 text message(s) per day from Scale to Win.
+Scale to Win’s mobile campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.
+Message and data rates may apply.
+Text HELP for more information.
+Text STOP to stop receiving messages.
+Terms and Privacy Policy .
+DONATE Contact us info@amaadforgb.com 920-264-9084 Paid for by Friends of Amaad Rivera Wagner

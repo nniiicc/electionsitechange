@@ -1,7 +1,9 @@
 {
  "description": "New Hampshire State Representative Dennis malloy",
  "final_url": "https://www.dennismalloy.com/",
- "paid_for_by": null,
+ "fingerprint": "360adbbf02f110624625eed9c4e6de711edb8624",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Dennis Malloy NH State Representative",
  "years_mentioned": [
   "2027",

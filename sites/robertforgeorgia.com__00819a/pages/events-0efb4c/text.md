@@ -1,11 +1,1 @@
-Representative Robert Dawson
-About
-Accomplishments
-Donate
-Events
-News
-Instagram
-Facebook
-Sign in
-Subscribe
-Events
+Representative Robert Dawson About Accomplishments Donate Events News Instagram Facebook Sign in Subscribe Events Sign up Privacy Policy Contact Sign up for Text Messages # © robertforgeorgia.com | All Rights Reserved | Paid for by Dawson for Georgia, LLC

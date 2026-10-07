@@ -1,7 +1,11 @@
 {
  "description": "Marc Sosnowski for Congress campaign website",
  "final_url": "https://www.marc.vote/",
+ "fingerprint": "8abd7cd1d94fc7571152bfb8c51126affe7c5b67",
+ "format": 3,
  "paid_for_by": "Paid for by for by Marc Sosnowski for Congress",
  "title": "Marc Sosnowski for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "1955"
+ ]
 }

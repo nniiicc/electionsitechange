@@ -1,8 +1,10 @@
 {
  "description": "Register to vote, find your polling locations, and learn your election dates for the 2026 elections in Arizona.",
  "final_url": "https://steeleforaz.com/vote/",
+ "fingerprint": "4e69ab22135169b02f8724b8c45381dff0b2ef0d",
+ "format": 3,
  "paid_for_by": "Paid for by Steele for Arizona",
- "title": "Vote in 2026 \u2022 Frank Steele for LD24",
+ "title": "Vote in 2026 • Frank Steele for LD24",
  "years_mentioned": [
   "2026"
  ]

@@ -1,5 +1,4 @@
-Environment / Climate Change
-Exciting News!
+0 Skip to Content Home About Issues Environment / Climate Change Common Sense Gun Laws Reproductive Freedom Small Business E-Bikes/Micromobility In The News Endorsements Get Involved Stay Informed Contact DONATE Open Menu Close Menu Home About Issues Environment / Climate Change Common Sense Gun Laws Reproductive Freedom Small Business E-Bikes/Micromobility In The News Endorsements Get Involved Stay Informed Contact DONATE Open Menu Close Menu Home About Folder: Issues Back Environment / Climate Change Common Sense Gun Laws Reproductive Freedom Small Business E-Bikes/Micromobility In The News Endorsements Get Involved Stay Informed Contact DONATE Environment / Climate Change Exciting News!
 I have been selected by The National Caucus of Environmental Legislators (@ncelenviro) to serve as a Rhode Island State Lead for 2025-2026!
 In this position, I will play an important role in facilitating collaboration between state legislators on the environmental issues that matter to you most.
 Reducing climate change and protecting the environment have always been important to me.
@@ -19,3 +18,4 @@ All building construction and major renovation should incorporate renewables and
 We need to expand access to public transportation and we should electrify every chance we get.
 We should work diligently towards reducing reliance on fossil fuels.
 It’s a win-win goal for the environment and the pocketbook, and we need to get moving.
+View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize Donate PAID FOR BY FRIENDS OF JENNIFER BOYLAN j boylan4RI@gmail.com

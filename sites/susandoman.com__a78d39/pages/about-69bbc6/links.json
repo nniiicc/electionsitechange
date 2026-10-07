@@ -1,10 +1,38 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61590210223123",
-"https://susandoman.com/",
-"https://susandoman.com/contact",
-"https://susandoman.com/endorsements",
-"https://susandoman.com/issues",
-"https://susandoman.com/privacy-policy",
-"https://susandoman.com/volunteer"
+{
+"text": "Contact",
+"href": "https://www.susandoman.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.susandoman.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.susandoman.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.susandoman.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.susandoman.com/volunteer"
+},
+{
+"text": "Your Privacy Is Important",
+"href": "https://www.susandoman.com/privacy-policy"
+},
+{
+"text": "[image: Susan Doman]",
+"href": "https://www.susandoman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61590210223123"
+}
 ]

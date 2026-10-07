@@ -1,4 +1,5 @@
-In Maryland, the heavy tax burden on ordinary citizens today is eroding initiative and discouraging their successful investment and participation in the economy in many ways.
+Skip to content Havis For Senate Menu Close Donate Testimonials Issues News Events Open menu Lincoln Day Dinner with Cong.
+Jim Jordan Contact Us Open menu Join the team Lower Taxes In Maryland, the heavy tax burden on ordinary citizens today is eroding initiative and discouraging their successful investment and participation in the economy in many ways.
 High Maryland taxes have already forced many in Maryland to leave the state for lower tax states elsewhere.
 In the General Assembly, the current leadership has been a primary continuing drag on progress towards lower taxes, favoring instead irresponsible, excessive taxing and spending, which has made Maryland one of the highest taxed states in the nation.
 This destructive pattern of excessive taxing and spending favors only a narrow few special interests, rather than the general good of all.
@@ -19,3 +20,5 @@ In one recent national study, it was reported that several counties in Maryland 
 Maryland citizens need relief from this oppressive burden of ever increasing taxes and spending, to make our state a much more attractive place for all to life and work.
 With more responsible leadership in the General Assembly, taxes can be significantly reduced without harm to progress and quality in public education and other essential services.
 In the Maryland state Senate, I will work for lower taxes, fees and penalties, while maintaining and even improving the quality and value of essential government services.
+Published July 12, 2018 By Lee Havis Categorized as issues Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Δ Post navigation Previous post Accountable to Citizens Next post Public Safety Archives Select Month August 2026 July 2026 May 2026 April 2026 October 2022 September 2022 August 2022 May 2022 December 2018 October 2018 September 2018 August 2018 July 2018 June 2018 April 2018 March 2018 January 2018 September 2017 July 2017 Search Search X Facebook LinkedIn Mail HAVIS FOR SENATE • Lee Havis, Republican Candidate, LD 21 • Maryland State Senate • lee@havisforsenate.com by authority, Havis for Senate, Glenn Davis, Treasurer Privacy Policy

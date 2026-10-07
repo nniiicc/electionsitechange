@@ -1,31 +1,19 @@
-2026 Blue-Ribbon Study Committees
-The legislative Session may be over, but the House is continuing our work to advance commonsense solutions to the challenges and opportunities that will shape Georgia’s future success.
+0 Skip to Content HOME MEET JON NEWS CONTACT US DONATE Open Menu Close Menu HOME MEET JON NEWS CONTACT US DONATE Open Menu Close Menu HOME MEET JON NEWS CONTACT US DONATE 2026 Blue-Ribbon Study Committees Apr 17 Written By Emma Nunez The legislative Session may be over, but the House is continuing our work to advance commonsense solutions to the challenges and opportunities that will shape Georgia’s future success.
 This week, I announced the creation of seven House Blue-Ribbon Study Committees that will work throughout the interim to gather the facts and hear from citizens, experts, and stakeholders on key policy areas impacting Georgia families, businesses, and citizens.
-Blue-Ribbon Study Committee on Community Health and Healthcare Oversight
-The Blue-Ribbon Study Committee on Community Health and Healthcare Oversight will evaluate Georgia’s overall healthcare landscape to improve access, strengthen patient protections, and identify practical policy solutions to enhance outcomes, efficiency, and accountability across the state.
-Blue-Ribbon Study Committee on Transportation Infrastructure and Vehicle Regulation
-The Blue-Ribbon Study Committee on Transportation Infrastructure and Vehicle Regulation will evaluate Georgia’s transportation networks and regulations to improve efficiency, streamline utility right-of-way coordination, control costs, and strengthen safety statewide.
-Blue-Ribbon Study Committee on Local Government Taxation, Funding, and Budgeting
-The Blue-Ribbon Study Committee on Local Government Taxation, Funding, and Budgeting will evaluate Georgia’s local funding mechanisms to strengthen transparency, ensure fairness for hardworking taxpayers, and increase fiscal accountability for local governments.
-Blue-Ribbon Study Committee on Criminal Post-Conviction Litigation
-The Blue-Ribbon Study Committee on Criminal Post-Conviction Litigation will examine Georgia’s post-conviction legal framework to protect constitutional rights, reduce delays, and improve the efficiency of the state’s justice system.
-Blue-Ribbon Study Committee on Youth Exposure to Kratom and Retail-Available Substances
-The Blue-Ribbon Study Committee on Youth Exposure to Kratom and Retail-Available Substances will evaluate the impact of these products on minors to strengthen protections, reduce access, and create healthier outcomes for Georgia’s youth.
-Blue-Ribbon Study Committee on Education Performance Metrics and Workforce Stability
-The Blue-Ribbon Study Committee on Education Performance Metrics and Workforce Stability will evaluate Georgia’s education evaluation measures to strengthen accountability, improve student success, and strengthen teacher recruitment and retention.
-Blue-Ribbon Study Committee on the Impact of Online Platforms on Georgia Youth
-The Blue-Ribbon Study Committee on the Impact of Online Platforms on Georgia Youth will evaluate the effects of online platforms on minors to strengthen safety protections, address mental health concerns, and promote age-appropriate access to online content.
-Bubba Longgrear for State School Superintendent
-Championing Georgia’s children and strengthening education opportunities for our students has always been a top priority for the House.
+Blue-Ribbon Study Committee on Community Health and Healthcare Oversight The Blue-Ribbon Study Committee on Community Health and Healthcare Oversight will evaluate Georgia’s overall healthcare landscape to improve access, strengthen patient protections, and identify practical policy solutions to enhance outcomes, efficiency, and accountability across the state.
+Blue-Ribbon Study Committee on Transportation Infrastructure and Vehicle Regulation The Blue-Ribbon Study Committee on Transportation Infrastructure and Vehicle Regulation will evaluate Georgia’s transportation networks and regulations to improve efficiency, streamline utility right-of-way coordination, control costs, and strengthen safety statewide.
+Blue-Ribbon Study Committee on Local Government Taxation, Funding, and Budgeting The Blue-Ribbon Study Committee on Local Government Taxation, Funding, and Budgeting will evaluate Georgia’s local funding mechanisms to strengthen transparency, ensure fairness for hardworking taxpayers, and increase fiscal accountability for local governments.
+Blue-Ribbon Study Committee on Criminal Post-Conviction Litigation The Blue-Ribbon Study Committee on Criminal Post-Conviction Litigation will examine Georgia’s post-conviction legal framework to protect constitutional rights, reduce delays, and improve the efficiency of the state’s justice system.
+Blue-Ribbon Study Committee on Youth Exposure to Kratom and Retail-Available Substances The Blue-Ribbon Study Committee on Youth Exposure to Kratom and Retail-Available Substances will evaluate the impact of these products on minors to strengthen protections, reduce access, and create healthier outcomes for Georgia’s youth.
+Blue-Ribbon Study Committee on Education Performance Metrics and Workforce Stability The Blue-Ribbon Study Committee on Education Performance Metrics and Workforce Stability will evaluate Georgia’s education evaluation measures to strengthen accountability, improve student success, and strengthen teacher recruitment and retention.
+Blue-Ribbon Study Committee on the Impact of Online Platforms on Georgia Youth The Blue-Ribbon Study Committee on the Impact of Online Platforms on Georgia Youth will evaluate the effects of online platforms on minors to strengthen safety protections, address mental health concerns, and promote age-appropriate access to online content.
+Bubba Longgrear for State School Superintendent Championing Georgia’s children and strengthening education opportunities for our students has always been a top priority for the House.
 That’s why I am proud to endorse Bubba Longgrear for State School Superintendent.
 Georgia has made serious commitments to improving educational outcomes for students across our state, particularly through literacy and early learning initiatives that now require strong implementation.
 Bubba Longgrear understands both the responsibility and the urgency of that work.
 He brings experience, credibility, and a clear commitment to making sure our policies lead to real results for students, teachers, and families across Georgia.
-Lloyd Arnsdorf Memorial Scholarship Auction
-Agriculture education has made a positive impact on countless young Georgians across House District 159 and our entire state.
+Lloyd Arnsdorf Memorial Scholarship Auction Agriculture education has made a positive impact on countless young Georgians across House District 159 and our entire state.
 Not only do these incredible programs help strengthen Georgia’s number one industry, but they also teach our students invaluable lessons that prepare them for their futures, no matter what career they decide to pursue.
 It was an honor to attend the Effingham County Young Farmers Lloyd Arnsdorf Memorial Scholarship Auction last week, which supports local agriculture education programs and helps students pursue a higher education.
-It was a pleasure to meet Effingham County FFA students Lance Graham and Anabelle Tapley at the 2026 Lloyd Arnsdorf Memorial Scholarship Auction
-I hope everyone has a great weekend, and I look forward to hearing from each of you soon as the House continues our work to move Georgia forward.
-My best,
-Speaker Jon Burns
+It was a pleasure to meet Effingham County FFA students Lance Graham and Anabelle Tapley at the 2026 Lloyd Arnsdorf Memorial Scholarship Auction I hope everyone has a great weekend, and I look forward to hearing from each of you soon as the House continues our work to move Georgia forward.
+My best, Speaker Jon Burns Emma Nunez Previous Previous Georgia Wildfire Updates Next Next Legislative Wins JON.BURNS@HOUSE.GA.GOV | 404-656-5020 FRIENDS OF JON BURNS PRIVACY POLICY

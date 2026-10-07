@@ -1,53 +1,16 @@
-ENDORSEMENTS
-President of the United States Donald J Trump
-Speaker of the U.S.
-House of Representatives Mike Johnson
-Majority Leader of the U.S.
-House of Representatives Steve Scalise
-Majority Whip of the U.S.
-House of Representatives Tom Emmer
-United States Congresswoman Monica De La Cruz
-United States Congressman Mario Diaz Balart
-United States Congressman Jake Ellzey
-Governor of Texas Greg Abbott
-Texas State Senator Adam Hinojosa
-Texas State Representative Todd Hunter
-Texas State Representative J.M.
-Lozano
-Kleberg County Sheriff Richard Kirkpatrick
-Nueces County Sheriff J.C.
-Hooper
-Cameron County Constable Precinct 1 Norman Esquival
-Nueces County Constable Precinct 1 Chris Dorr
-Nueces County Constable Precinct 2 Jason McCahan
-Nueces County Constable Precinct 3 Jimmy Rivera
-Nueces County Constable Precinct 4 Monty Allen
-Nueces County Constable Precinct 5 Oscar Mendoza
-Kleberg County Constable Precinct 2 Omar Rosales
-Kleberg County Commissioner Chuck Shultz
-Nueces County Commissioner Mike Pusley
-Nueces County Tax Assessor/Collector Kevin Kieschnick
-Mayor of Bishop Barrera Lopez
-Mayor of Los Fresnos Alex Flores
-Mayor of Laguna Vista Mike Carter
-Corpus Christi City Council Woman Carolyn Vaughn
-Tuloso-Midway ISD Board President Paul Arriaga
-Rio Hando City Commissioner Steve Bocanegra
-Chairwoman of the Republican Party of Texas D'rinda Randall
-Former San Benito City Commissioner Tom Goodman
-SREC Committieewoman Melissa Knerr
-Former Chairman of the Republican Party of Nueces County Michael Bergsma
-Former TX-34 Candidate Jay Nagy
-Former TX-34 Candidate Fred Hinojosa
-Former TX-34 Candidate Scott Mandel
-The LIBRE Initiative
-The National Border Patrol Council
-Texas Alliance for Life PAC
-Americans for Prosperity
-GET INVOLVED
-Are you ready to put America, Coastal Bend and South Texas first?
+top of page HOME ABOUT ERIC PRIORITIES ENDORSEMENTS GET INVOLVED DONATE NEWS MEDIA Menu Close ENDORSEMENTS President of the United States Donald J Trump Speaker of the U.S.
+House of Representatives Mike Johnson Majority Leader of the U.S.
+House of Representatives Steve Scalise Majority Whip of the U.S.
+House of Representatives Tom Emmer United States Congresswoman Monica De La Cruz United States Congressman Mario Diaz Balart United States Congressman Jake Ellzey Governor of Texas Greg Abbott Texas State Senator Adam Hinojosa Texas State Representative Todd Hunter Texas State Representative J.M.
+Lozano Kleberg County Sheriff Richard Kirkpatrick Nueces County Sheriff J.C.
+Hooper Cameron County Constable Precinct 1 Norman Esquival Nueces County Constable Precinct 1 Chris Dorr Nueces County Constable Precinct 2 Jason McCahan Nueces County Constable Precinct 3 Jimmy Rivera Nueces County Constable Precinct 4 Monty Allen Nueces County Constable Precinct 5 Oscar Mendoza Kleberg County Constable Precinct 2 Omar Rosales Kleberg County Commissioner Chuck Shultz Nueces County Commissioner Mike Pusley Nueces County Tax Assessor/Collector Kevin Kieschnick Mayor of Bishop Barrera Lopez Mayor of Los Fresnos Alex Flores Mayor of Laguna Vista Mike Carter Corpus Christi City Council Woman Carolyn Vaughn Tuloso-Midway ISD Board President Paul Arriaga Rio Hando City Commissioner Steve Bocanegra Chairwoman of the Republican Party of Texas D'rinda Randall Former San Benito City Commissioner Tom Goodman SREC Committieewoman Melissa Knerr Former Chairman of the Republican Party of Nueces County Michael Bergsma Former TX-34 Candidate Jay Nagy Former TX-34 Candidate Fred Hinojosa Former TX-34 Candidate Scott Mandel The LIBRE Initiative The National Border Patrol Council Texas Alliance for Life PAC Americans for Prosperity GET INVOLVED Are you ready to put America, Coastal Bend and South Texas first?
 Please sign up to join our campaign.
 Your time and efforts will have a huge impact in our community.
-MAKE A CONTRIBUTION
-Every dollar you contribute to the campaign will be used to advance our shared South Texas values.
+JOIN MAKE A CONTRIBUTION Every dollar you contribute to the campaign will be used to advance our shared South Texas values.
 I can't thank you enough for your support.
+DONATE VETERANS FOR ERIC This coalition is for veterans who support Eric Flores for Congress and want to stand with him in the fight for strong leadership for South Texas.
+Support Full Name Email Address Phone Number City County Military Branch Army Marine Corps Navy Air Force Space Force Coast Guard National Guard Reserves Years of Service Why do you support Eric Flores?
+(Optional) Are you willing to be publicly listed as a supporter of Veterans for Eric?
+Yes, I consent to be listed No, please keep my support private Would you like to volunteer with the campaign?
+Yes, I would like to volunteer Maybe later No thank you Submit TAKE A LOOK STAY UPDATED Name* Email * Submit HOME PRIORITIES ABOUT ERIC NEWS JOIN DONATE MEDIA ENDORSEMENTS PAID FOR BY ERIC FLORES FOR CONGRESS THE APPEARANCE OF CANDIDATE ERIC FLORES IN MILITARY UNIFORM OR INFORMATION REGARDING HIS MILITARY SERVICE DOES NOT IMPLY OR CONSTITUTE AN ENDORSEMENT BY THE US DEPARTMENT OF DEFENSE OR ANY OF ITS PARTICULAR MILITARY DEPARTMENTS.
+Privacy Policy | Terms & Conditions HOME ABOUT ERIC PRIORITIES ENDORSEMENTS GET INVOLVED DONATE NEWS MEDIA bottom of page

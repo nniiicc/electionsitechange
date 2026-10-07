@@ -1,7 +1,13 @@
 {
  "description": "Updates from the Friends of Jeffrie Long Jr.",
  "final_url": "https://www.jeffrielong.com/updates/categories/updates",
- "paid_for_by": null,
+ "fingerprint": "c72c8137f9cac3bdcbeacf5356db3758bdab7072",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Updates",
- "years_mentioned": []
+ "years_mentioned": [
+  "2023",
+  "2024",
+  "2026"
+ ]
 }

@@ -1,5 +1,5 @@
-We Are Building Data Centers Blind
-Why I’m proposing a two-year moratorium on new data centers in Utah
+top of page HOME WHERE I STAND ON THE ISSUES ABOUT DREW SERVICE BEFORE SELF POLICY & PERSPECTIVE BLOG GET INVOLVED More Use tab to navigate through the menu items.
+Policy, Philosophy & Thoughts Search We Are Building Data Centers Blind Drew Howells Sep 14 16 min read Why I’m proposing a two-year moratorium on new data centers in Utah Aerial view of the enormous data center near Salt Lake Community College on 90th South—spanning multiple city blocks and built right up against neighborhood homes— highlighting the urgent need to plan infrastructure and community impact in Utah’s future.
 Data centers may be one of the only political issues left that Utahns broadly agree on.
 I have raised this with Republicans and Democrats, with people deeply involved in politics and people who would rather chew glass than talk about it, at doors, in conversations, with people inside government and people who just want government to stop making their lives harder.
 The reaction is remarkably consistent: people know something about what we are doing does not make sense.
@@ -113,15 +113,14 @@ We have the universities.
 We have a growing technology sector.
 We have planners, scientists, workers, communities, and public institutions capable of doing this well.
 What we have lacked is the willingness to stop long enough to ask what “doing it well” actually means.
-That is what this moratorium is about: understanding what we are building before we lock ourselves into decades of consequences, and writing rules that protect our water, our electrical grid, our air, our communities, and the Utah families who should not be quietly subsidizing somebody else’s infrastructure.
+That is what this moratorium is about: understanding what we are building before we lock ourselves into decades of consequences , and writing rules that protect our water, our electrical grid, our air, our communities, and the Utah families who should not be quietly subsidizing somebody else’s infrastructure.
 Then let the industry build.
 Let it innovate.
 Let it grow.
 But let it come here under rules written by Utahns, for Utah, with the expectation that if you want to become part of our future, you also accept a responsibility to the people and resources making that future possible.
 We write the rules first.
 Then we build.
-Drew HowellsCandidate for Utah House District 39
-Data centers may be one of the only political issues left that Utahns broadly agree on.
+Drew HowellsCandidate for Utah House District 39 Data centers may be one of the only political issues left that Utahns broadly agree on.
 I have raised this with Republicans and Democrats, with people deeply involved in politics and people who would rather chew glass than talk about it, at doors, in conversations, with people inside government and people who just want government to stop making their lives harder.
 The reaction is remarkably consistent: people know something about what we are doing does not make sense.
 And the deeper I have gotten into this issue, the clearer the problem has become.
@@ -234,12 +233,14 @@ We have the universities.
 We have a growing technology sector.
 We have planners, scientists, workers, communities, and public institutions capable of doing this well.
 What we have lacked is the willingness to stop long enough to ask what “doing it well” actually means.
-That is what this moratorium is about: understanding what we are building before we lock ourselves into decades of consequences, and writing rules that protect our water, our electrical grid, our air, our communities, and the Utah families who should not be quietly subsidizing somebody else’s infrastructure.
+That is what this moratorium is about: understanding what we are building before we lock ourselves into decades of consequences , and writing rules that protect our water, our electrical grid, our air, our communities, and the Utah families who should not be quietly subsidizing somebody else’s infrastructure.
 Then let the industry build.
 Let it innovate.
 Let it grow.
 But let it come here under rules written by Utahns, for Utah, with the expectation that if you want to become part of our future, you also accept a responsibility to the people and resources making that future possible.
 We write the rules first.
 Then we build.
-Drew Howells
-Candidate for Utah House District 39
+Drew Howells Candidate for Utah House District 39 Recent Posts See All Education Is Where the Future Begins Medical cannabis, patient dignity, and regulatory accountability A vision for the future that is bold enough to matter Howells for Utah HD39 We can only achieve success in this campaign with your support.
+Please consider making a donation through ActBlue—it's quick and makes a BIG impact.
+Every dollar matters!
+Follow my Linktree - https://linktr.ee/HowellsForUtah © # by Howells for Utah HD39 Accessibility Statement Use of military rank, job titles, photographs in uniform, and references to military service does not imply endorsement by the Department of Defense, the Department of the Air Force, the Department of the Army, the National Guard, or any military service branch. bottom of page

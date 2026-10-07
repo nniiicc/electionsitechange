@@ -1,48 +1,202 @@
 [
-"https://allunited.org/",
-"https://bloomingdaletownshipdems.org/",
-"https://ccctu.org/",
-"https://chaplinforrecorder.com/",
-"https://citizenaction-il.org/",
-"https://coalition-activate.org/",
-"https://committeetoprotect.org/",
-"https://equalityillinois.us/",
-"https://facebook.com/p/Ben-McAdams-for-IL-Senate-24-61581546512442",
-"https://ift-aft.org/",
-"https://illinoisnurses.com/",
-"https://illinoisprogressives.org/",
-"https://instagram.com/mcadamsforil24",
-"https://instagram.com/progressivevotersnetwork",
-"https://irtaonline.org/pac/irtapac-endorsements",
-"https://mcadamsforil.com/",
-"https://mcadamsforil.com/about",
-"https://mcadamsforil.com/about-2",
-"https://mcadamsforil.com/cart",
-"https://mcadamsforil.com/contact",
-"https://mcadamsforil.com/district-24",
-"https://mcadamsforil.com/endorsements",
-"https://mcadamsforil.com/get-a-yard-sign",
-"https://mcadamsforil.com/new-dropdown",
-"https://mcadamsforil.com/platform",
-"https://mcadamsforil.com/privacypolicy",
-"https://mcadamsforil.com/resources",
-"https://mcadamsforil.com/volunteer",
-"https://mcadamsforil.com/voting-guide",
-"https://mentalhealthnow.us/",
-"https://mobilize.us/mcadamsforil",
-"https://momsdemandaction.org/",
-"https://ourrevolution.com/",
-"https://personalpac.org/",
-"https://plannedparenthoodaction.org/planned-parenthood-illinois-action/endorsements",
-"https://principlesfortrustedelections.org/",
-"https://ramirez.house.gov/",
-"https://secure.actblue.com/donate/benmcadamsilsenate",
-"https://senatorventura.com/",
-"https://senatorvilla.com/",
-"https://sierraclub.org/illinois",
-"https://sites.google.com/view/cookcountylatinodemocrats/home",
-"https://thejusticecoalition.org/",
-"https://thepeopleslobbyusa.org/",
-"https://wsil.dsachapters.org/",
-"https://wstu571.org/"
+{
+"text": "0",
+"href": "https://www.mcadamsforil.com/cart"
+},
+{
+"text": "ABOUT BEN",
+"href": "https://www.mcadamsforil.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.mcadamsforil.com/"
+},
+{
+"text": "CONTACT",
+"href": "https://www.mcadamsforil.com/contact"
+},
+{
+"text": "DISTRICT 24",
+"href": "https://www.mcadamsforil.com/district-24"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/benmcadamsilsenate"
+},
+{
+"text": "ENDORSEMENTS & AWARDS",
+"href": "https://www.mcadamsforil.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.mobilize.us/mcadamsforil/"
+},
+{
+"text": "Folder: ABOUT",
+"href": "https://www.mcadamsforil.com/about-2"
+},
+{
+"text": "Folder: GET INVOLVED",
+"href": "https://www.mcadamsforil.com/new-dropdown"
+},
+{
+"text": "GET A YARD SIGN",
+"href": "https://www.mcadamsforil.com/get-a-yard-sign"
+},
+{
+"text": "HOME",
+"href": "https://www.mcadamsforil.com/"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.mcadamsforil.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mcadamsforil.com/privacypolicy"
+},
+{
+"text": "RESOURCES",
+"href": "https://www.mcadamsforil.com/resources"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.mcadamsforil.com/volunteer"
+},
+{
+"text": "VOTING GUIDE",
+"href": "https://www.mcadamsforil.com/voting-guide"
+},
+{
+"text": "[image: 2026 Principled Candidate campaign badge with a red and white shield design, featuring scales of justice and the slogan Principles For Trusted Elections.]",
+"href": "https://www.principlesfortrustedelections.org/"
+},
+{
+"text": "[image: A logo featuring a stylized red and blue bird with the words \"OUR REVOLUTION\" below in blue and red text.]",
+"href": "https://ourrevolution.com/"
+},
+{
+"text": "[image: A woman with dark hair and glasses smiling outdoors, wearing a bright pink blouse.]",
+"href": "https://senatorvilla.com/"
+},
+{
+"text": "[image: An illustration of the United States map in yellow with black text saying 'COALITION ACTIVATE' over it.]",
+"href": "https://coalition-activate.org/"
+},
+{
+"text": "[image: Blue circular logo with white text that reads 'QUALITY ILLINOIS' and smaller text underneath that says 'UNTIL WE'RE ALL EQUAL'.]",
+"href": "https://www.equalityillinois.us/"
+},
+{
+"text": "[image: Illinois Federation of Teachers endorsement in blue]",
+"href": "https://www.ift-aft.org/"
+},
+{
+"text": "[image: Illinois Progressives logo with a blue and red stylized rose and text.]",
+"href": "https://www.illinoisprogressives.org/"
+},
+{
+"text": "[image: Logo for Bloomingdale Township District, featuring a blue circular design with the acronym 'BTDO' in the center and the full name encircling it.]",
+"href": "https://www.bloomingdaletownshipdems.org/"
+},
+{
+"text": "[image: Logo for Illinois Retired Teachers PAC featuring a blue dome building, red and blue text, and an American flag motif.]",
+"href": "https://www.irtaonline.org/pac/irtapac-endorsements/"
+},
+{
+"text": "[image: Logo of Citizen Action Illinois on a blue circular background.]",
+"href": "https://citizenaction-il.org/"
+},
+{
+"text": "[image: Logo of The Justice Coalition in a circular, dark green background with white text and shield design.]",
+"href": "https://thejusticecoalition.org/"
+},
+{
+"text": "[image: Logo of the Illinois Nurses Association with the text 'The Nurses' Union'.]",
+"href": "https://illinoisnurses.com/"
+},
+{
+"text": "[image: Logo with the words 'The People's Lobby' on a lime green background.]",
+"href": "https://thepeopleslobbyusa.org/"
+},
+{
+"text": "[image: Personal Pac logo with the message 'Abortion is health care' in a blue and purple design.]",
+"href": "https://personalpac.org/"
+},
+{
+"text": "[image: Planned Parenthood logo with pink text reading 'Planned Parenthood Act. No matter what.' and 'Planned Parenthood Illinois Action' underneath.]",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-illinois-action/endorsements"
+},
+{
+"text": "[image: Political campaign button with the American flag and the text 'Care for Illinois Candidate' in blue and red.]",
+"href": "https://committeetoprotect.org/"
+},
+{
+"text": "[image: Progressive Voters Network logo with a blue flame smiling]",
+"href": "https://www.instagram.com/progressivevotersnetwork/"
+},
+{
+"text": "[image: Purple circular badge with the text 'powered by inseparable action mental health now. mental health candidate 2026'.]",
+"href": "https://mentalhealthnow.us/"
+},
+{
+"text": "[image: Red circular badge for Moms Demand Action Gun Sense Candidate 2026]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image: Seal with a blue butterfly in the center, surrounded by flowers, with the words 'Cook County Latino Democrats'.]",
+"href": "https://sites.google.com/view/cookcountylatinodemocrats/home"
+},
+{
+"text": "[image: Sierra Club Endorsed logo with a green circle, white border, and a black tree in the center.]",
+"href": "https://www.sierraclub.org/illinois"
+},
+{
+"text": "[image: Smiling woman with short blonde hair wearing a blue and white patterned blouse]",
+"href": "https://www.chaplinforrecorder.com/"
+},
+{
+"text": "[image: WSTU Local 571 Logo in blue and white]",
+"href": "https://www.wstu571.org/"
+},
+{
+"text": "[image: West Suburban Democratic Socialists of America logo with a train in front of a rose]",
+"href": "https://wsil.dsachapters.org/"
+},
+{
+"text": "[image: mcadamsforil]",
+"href": "https://www.mcadamsforil.com/"
+},
+{
+"text": "[image]",
+"href": "https://allunited.org/"
+},
+{
+"text": "[image]",
+"href": "https://directory.runforsomething.net/candidate/c409a8b945b4a222ae888f9382e1e1b4/mcadams-ben/"
+},
+{
+"text": "[image]",
+"href": "https://ramirez.house.gov/"
+},
+{
+"text": "[image]",
+"href": "https://www.ccctu.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/iafflocal2340/"
+},
+{
+"text": "[image]",
+"href": "https://www.senatorventura.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/p/Ben-McAdams-for-IL-Senate-24-61581546512442/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mcadamsforil24/"
+}
 ]

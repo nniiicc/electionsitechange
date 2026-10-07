@@ -1,6 +1,6 @@
-ABOUT
-Putting People Over Politics
-Dr.
+Skip to content Home Meet Dr.
+Ruiz Issues In the News Get Involved Home Meet Dr.
+Ruiz Issues In the News Get Involved Facebook X-twitter DONATE DONATE Donate Donate ABOUT Putting People Over Politics Dr.
 Raul Ruiz has always put People First.
 The son of hardworking farmworkers, Dr.
 Ruiz grew up in Coachella and learned at an early age that the key to attaining the American Dream is hard work and a great education.
@@ -18,14 +18,16 @@ Ruiz has spent his time in Congress fighting to protect Medicare and Social Secu
 “In the ER, I learned that life-and-death situations require working as a team.
 We don’t put ourselves or our ideological opinions first.
 We treat the patient and solve the problems.
-That’s the same approach I’ve brought to Congress to find bipartisan solutions that keep Americans safe and get real results for our local communities.”
-In January 2017, Dr.
+That’s the same approach I’ve brought to Congress to find bipartisan solutions that keep Americans safe and get real results for our local communities.” In January 2017, Dr.
 Ruiz was appointed by his fellow Democratic colleagues to serve on the prestigious Energy & Commerce Committee.
 As the only Democratic physician on the committee, his unique perspective has proven invaluable in debates over healthcare.
 In that Congress, his fellow Hispanic Caucus members elected him to serve as the Chair of the Congressional Hispanic Caucus.
 “The stakes are too high for more partisan politics.
-That’s why I’ve been working to put People Over Politics and get real results for our local communities.”
-Dr.
+That’s why I’ve been working to put People Over Politics and get real results for our local communities.” Dr.
 Ruiz continues to represent Coachella Valley and the people of California’s 25th District with pride and a steadfast determination to improve the lives of his constituents and the American people by never forgetting the promise he made to serve his community all those years ago.
 He looks forward to continuing to fulfill that promise with another term in Congress.
-He lives in Indio with his wife, Monica, and nine year old twins, Sky and Sage
+He lives in Indio with his wife, Monica, and nine year old twins, Sky and Sage Stand with Dr.
+Raul Ruiz Facebook X-twitter Youtube Instagram DONATE TODAY DONATE TODAY Home Contact Us Privacy Policy Get Involved PAID FOR BY DR.
+RAUL RUIZ FOR CONGRESS COMMITTEE PO Box 1566, Indio, CA 92202 (760) 360-2495 | FEC ID #: C00502575 Powered by Apollo Volunteer Volunteer Contribute Contribute Home Meet Dr.
+Ruiz Issues In the News Get Involved Home Meet Dr.
+Ruiz Issues In the News Get Involved Contribute Contribute Facebook X-twitter Instagram

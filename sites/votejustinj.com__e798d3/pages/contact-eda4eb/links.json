@@ -1,21 +1,90 @@
 [
-"https://act.votejustinj.com/map",
-"https://act.votejustinj.com/phones",
-"https://instagram.com/Justinjpearson",
-"https://jj-p.org/privacy-policy",
-"https://secure.actblue.com/donate/justinjpearson_website",
-"https://store.votejustinj.com/",
-"https://tn-pollsite-lookup.pages.dev/",
-"https://votejustinj.com/",
-"https://votejustinj.com/cart",
-"https://votejustinj.com/contact",
-"https://votejustinj.com/contribute",
-"https://votejustinj.com/endorsements",
-"https://votejustinj.com/get-to-know-jjp",
-"https://votejustinj.com/home",
-"https://votejustinj.com/issues",
-"https://votejustinj.com/learn-more",
-"https://votejustinj.com/media",
-"https://votejustinj.com/newsletter",
-"https://votejustinj.com/volunteer-1"
+{
+"text": "0",
+"href": "https://www.votejustinj.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.votejustinj.com/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.votejustinj.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.votejustinj.com/contribute"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/justinjpearson_website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejustinj.com/endorsements"
+},
+{
+"text": "Folder: Learn More",
+"href": "https://www.votejustinj.com/learn-more"
+},
+{
+"text": "Folder: Volunteer",
+"href": "https://www.votejustinj.com/volunteer-1"
+},
+{
+"text": "Get to Know Justin J. Pearson",
+"href": "https://www.votejustinj.com/get-to-know-jjp"
+},
+{
+"text": "Home",
+"href": "https://www.votejustinj.com/"
+},
+{
+"text": "How do I vote?",
+"href": "https://tn-pollsite-lookup.pages.dev/"
+},
+{
+"text": "Issues",
+"href": "https://www.votejustinj.com/issues"
+},
+{
+"text": "Knock Doors",
+"href": "https://act.votejustinj.com/map"
+},
+{
+"text": "Media",
+"href": "https://www.votejustinj.com/media"
+},
+{
+"text": "Newsletter",
+"href": "https://www.votejustinj.com/newsletter"
+},
+{
+"text": "Phonebank",
+"href": "https://act.votejustinj.com/phones"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jj-p.org/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://store.votejustinj.com"
+},
+{
+"text": "Subscribe to Newsletter",
+"href": "https://www.votejustinj.com/newsletter"
+},
+{
+"text": "[image: Justin J. Pearson for U.S. Congress]",
+"href": "https://www.votejustinj.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.votejustinj.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Justinjpearson/"
+}
 ]

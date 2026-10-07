@@ -1,11 +1,50 @@
 [
-"https://facebook.com/millerforpahouse",
-"https://millerforpahouse.com/privacy",
-"https://millerforpahouse.com/terms",
-"https://secure.anedot.com/millerforpahouse/donate",
-"https://secure.anedot.com/millerforpahouse/donate?amount=150",
-"https://secure.anedot.com/millerforpahouse/donate?amount=250",
-"https://secure.anedot.com/millerforpahouse/donate?amount=50",
-"https://secure.anedot.com/millerforpahouse/donate?amount=500",
-"https://secure.anedot.com/millerforpahouse/donate?amount=75"
+{
+"text": "$150",
+"href": "https://secure.anedot.com/millerforpahouse/donate?amount=150"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/millerforpahouse/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/millerforpahouse/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/millerforpahouse/donate?amount=500"
+},
+{
+"text": "$75",
+"href": "https://secure.anedot.com/millerforpahouse/donate?amount=75"
+},
+{
+"text": "Donate →",
+"href": "https://secure.anedot.com/millerforpahouse/donate"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/millerforpahouse"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/millerforpahouse/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://millerforpahouse.com/privacy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://millerforpahouse.com/terms"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://millerforpahouse.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/millerforpahouse"
+}
 ]

@@ -1,12 +1,4 @@
-Time to Election Day
-Day(s)
-:
-Hour(s)
-:
-Minute(s)
-:
-Second(s)
-Thank You for Your Support!
+Home About Socialism Revealed Photos Media RSVP Time to Election Day Day(s) : Hour(s) : Minute(s) : Second(s) Click Here To Donate Thank You for Your Support!
 We must also restore an economy where hard work leads somewhere.
 People should be able to start a business, buy a home, raise a family, learn a trade, advance in their career, and build a better life.
 That is the promise of America — and it should not be reserved only for the wealthy, connected, or politically powerful.
@@ -20,10 +12,8 @@ We can show compassion to people in crisis while still holding people accountabl
 Families, seniors, workers, and small businesses all deserve to feel secure.
 I’m running for Congress because families deserve a better future.
 We need to make life affordable again, support parents, strengthen public safety, and rebuild real opportunity for every person to learn, build, and contribute.
-I will strive to bring common sense, accountability, and real-world experience to Congress.
+Click Here To Donate I will strive to bring common sense, accountability, and real-world experience to Congress.
 My focus is simple: affordability, family, safety, opportunity, and a better future for our children.
 I respectfully ask for your vote/your donation/your support!
-Friends of Doug Basler
-PO BOX 6145
-Kent WA 98064
-Contact me using the form below.
+Friends of Doug Basler PO BOX 6145 Kent WA 98064 Contact me using the form below.
+Contact Us Name Email Address Message Submit

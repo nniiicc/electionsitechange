@@ -1,16 +1,78 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSckxjxUM9BK3lpXEntEIkiHuL2H6k3zuDK7PFTwYo5B7Qn5GQ/viewform?usp=sf_link",
-"https://docs.google.com/forms/d/e/1FAIpQLSfwO2_oOBa5pUO8RE9Vd7i-QAz25vFDb10mMrCJTJAzjSodxA/viewform?usp=sf_link",
-"https://facebook.com/junie4boulder",
-"https://junie4colorado.com/",
-"https://junie4colorado.com/about",
-"https://junie4colorado.com/blog",
-"https://junie4colorado.com/get-involved",
-"https://junie4colorado.com/issues",
-"https://junie4colorado.com/legislation",
-"https://junie4colorado.com/more",
-"https://junie4colorado.com/picturegallery",
-"https://junie4colorado.com/services-9",
-"https://secure.actblue.com/donate/friends-of-junie-joseph-1",
-"https://twitter.com/Junie4Colorado"
+{
+"text": "ACT Blue Donations",
+"href": "https://secure.actblue.com/donate/friends-of-junie-joseph-1"
+},
+{
+"text": "About Junie",
+"href": "https://www.junie4colorado.com/about"
+},
+{
+"text": "Campaign Engagement",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSckxjxUM9BK3lpXEntEIkiHuL2H6k3zuDK7PFTwYo5B7Qn5GQ/viewform?usp=sf_link"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-junie-joseph-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.junie4colorado.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.junie4colorado.com"
+},
+{
+"text": "Junie for Colorado Yard Signs",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfwO2_oOBa5pUO8RE9Vd7i-QAz25vFDb10mMrCJTJAzjSodxA/viewform?usp=sf_link"
+},
+{
+"text": "JunieForHD10@gmail.com",
+"href": "mailto:JunieForHD10@gmail.com"
+},
+{
+"text": "JunieForHD10@gmail.com",
+"href": "mailto:JunieforHD10@gmail.com"
+},
+{
+"text": "Legislation",
+"href": "https://www.junie4colorado.com/legislation"
+},
+{
+"text": "Newsroom",
+"href": "https://www.junie4colorado.com/blog"
+},
+{
+"text": "Photo & Video Gallery",
+"href": "https://www.junie4colorado.com/picturegallery"
+},
+{
+"text": "Read More",
+"href": "https://www.junie4colorado.com/more"
+},
+{
+"text": "Send Junie an Email",
+"href": "mailto:JunieForHD10@gmail.com"
+},
+{
+"text": "Stances",
+"href": "https://www.junie4colorado.com/issues"
+},
+{
+"text": "Your Community",
+"href": "https://www.junie4colorado.com/services-9"
+},
+{
+"text": "[image: Facebook ]",
+"href": "https://www.facebook.com/junie4boulder"
+},
+{
+"text": "[image: One.A.png]",
+"href": "https://www.junie4colorado.com/"
+},
+{
+"text": "[image: alt.text.label.Twitter]",
+"href": "https://twitter.com/Junie4Colorado"
+}
 ]

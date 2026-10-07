@@ -1,11 +1,46 @@
 [
-"http://facebook.com/Jackson4Kentucky",
-"https://instagram.com/jackson4kentucky",
-"https://jackson4kentucky.com/",
-"https://jackson4kentucky.com/about",
-"https://jackson4kentucky.com/cart",
-"https://jackson4kentucky.com/contact",
-"https://jackson4kentucky.com/volunteer",
-"https://secure.actblue.com/donate/jackson-simpkins-1",
-"https://tiktok.com/@jackson4kentucky"
+{
+"text": "0",
+"href": "https://www.jackson4kentucky.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.jackson4kentucky.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.jackson4kentucky.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jackson-simpkins-1"
+},
+{
+"text": "Jackson4Kentucky@gmail.com",
+"href": "mailto:Jackson4Kentucky@gmail.com?subject=Campaign+Question%21"
+},
+{
+"text": "Jackson4Kentucky@gmail.com",
+"href": "mailto:jackson4kentucky@gmail.com?subject=Campaign+Question%21"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jackson4kentucky.com/volunteer"
+},
+{
+"text": "[image: Jackson for Kentucky]",
+"href": "https://www.jackson4kentucky.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/Jackson4Kentucky"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jackson4kentucky/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@jackson4kentucky"
+}
 ]

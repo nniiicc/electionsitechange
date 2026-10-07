@@ -1,5 +1,4 @@
-Attempted Assassination of President Trump
-As a father, husband, and candidate for California Assembly, these are my thoughts on the assassination attempt on President Trump.
+0 Skip to Content About Issues Volunteer District Contact DONATE Open Menu Close Menu About Issues Volunteer District Contact DONATE Open Menu Close Menu About Issues Volunteer District Contact DONATE Attempted Assassination of President Trump Trump Jul 16 Written By Joseph Rubay As a father, husband, and candidate for California Assembly, these are my thoughts on the assassination attempt on President Trump.
 It is unconscionable to me that a peaceful political rally on a beautiful summer day in a Pennsylvania town can become a historic tragedy in seconds.
 We pray for the memory of the rally goer that lost his life for merely showing up to support the candidate he believed in, and the others who remain hospitalized.
 We pray for the quick and complete recovery of former President Trump, both physically and mentally.
@@ -42,6 +41,4 @@ I’m only a fraction the man of President Trump, but I will fight like him, wit
 Please forward this to others if you feel the same.
 I need you to help me fight with the fraction you have, too.
 Let’s turn the tide, restore balance, and restore California.
-Fighting for our families,
-Joseph Rubay
-Candidate for State Assembly District 16
+Fighting for our families, Joseph Rubay Candidate for State Assembly District 16 Trump Joseph Rubay Next Next “Jugging” is on the rise Contact Paid for by Friends of Joe Rubay for Assembly 2026, FPPC #1456763

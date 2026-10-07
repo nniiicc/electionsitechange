@@ -1,7 +1,26 @@
 [
-"https://secure.anedot.com/tyler-dees-for-state-senate/donate",
-"https://tylerdees.com/",
-"https://tylerdees.com/cart",
-"https://tylerdees.com/our-team",
-"https://tylerdees.com/the-issues"
+{
+"text": "0",
+"href": "https://www.tylerdees.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.tylerdees.com/our-team"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/tyler-dees-for-state-senate/donate"
+},
+{
+"text": "Home",
+"href": "https://www.tylerdees.com/"
+},
+{
+"text": "The Issues",
+"href": "https://www.tylerdees.com/the-issues"
+},
+{
+"text": "[image: Tyler Dees for State Senate]",
+"href": "https://www.tylerdees.com/"
+}
 ]

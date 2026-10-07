@@ -1,24 +1,170 @@
 [
-"https://bucyfortexas.com/",
-"https://bucyfortexas.com/about",
-"https://bucyfortexas.com/constituent-resources",
-"https://bucyfortexas.com/get-involved",
-"https://bucyfortexas.com/news",
-"https://bucyfortexas.com/priorities-2",
-"https://bucyfortexas.com/priorities/criminal-justice-reform",
-"https://bucyfortexas.com/priorities/education",
-"https://bucyfortexas.com/priorities/environmental-protection",
-"https://bucyfortexas.com/priorities/gun-violence-prevention",
-"https://bucyfortexas.com/priorities/healthcare",
-"https://bucyfortexas.com/priorities/lgbtq-equality",
-"https://bucyfortexas.com/priorities/local-control",
-"https://bucyfortexas.com/priorities/property-taxes",
-"https://bucyfortexas.com/priorities/voting",
-"https://bucyfortexas.com/privacy",
-"https://bucyfortexas.com/vote",
-"https://facebook.com/BucyForTexas",
-"https://instagram.com/bucyfortexas",
-"https://secure.actblue.com/donate/john-bucy",
-"https://techforcampaigns.org/",
-"https://twitter.com/BucyForTexas"
+{
+"text": "Criminal Justice Reform",
+"href": "https://bucyfortexas.com/priorities/criminal-justice-reform/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/john-bucy"
+},
+{
+"text": "Education",
+"href": "https://bucyfortexas.com/priorities/education/"
+},
+{
+"text": "Environmental Protection",
+"href": "https://bucyfortexas.com/priorities/environmental-protection/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BucyForTexas/"
+},
+{
+"text": "For Constituents",
+"href": "https://bucyfortexas.com/constituent-resources/"
+},
+{
+"text": "Get Involved",
+"href": "https://bucyfortexas.com/get-involved/"
+},
+{
+"text": "Gun Violence Prevention",
+"href": "https://bucyfortexas.com/priorities/gun-violence-prevention/"
+},
+{
+"text": "Healthcare",
+"href": "https://bucyfortexas.com/priorities/healthcare/"
+},
+{
+"text": "How to Vote",
+"href": "https://bucyfortexas.com/vote/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bucyfortexas/"
+},
+{
+"text": "LGBTQ+ Equality",
+"href": "https://bucyfortexas.com/priorities/lgbtq-equality/"
+},
+{
+"text": "Local Control",
+"href": "https://bucyfortexas.com/priorities/local-control/"
+},
+{
+"text": "Meet John",
+"href": "https://bucyfortexas.com/about/"
+},
+{
+"text": "News",
+"href": "https://bucyfortexas.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://bucyfortexas.com/priorities-2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bucyfortexas.com/privacy/"
+},
+{
+"text": "Property Taxes",
+"href": "https://bucyfortexas.com/priorities/property-taxes/"
+},
+{
+"text": "Re-Elect John Bucy III",
+"href": "https://bucyfortexas.com/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/priorities/criminal-justice-reform/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/priorities/education/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/priorities/environmental-protection/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/priorities/gun-violence-prevention/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/priorities/healthcare/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/priorities/lgbtq-equality/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/priorities/local-control/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/priorities/property-taxes/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/priorities/voting/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "Voting Rights",
+"href": "https://bucyfortexas.com/priorities/voting/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/BucyForTexas"
+},
+{
+"text": "[image: Re-Elect John Bucy III]",
+"href": "https://bucyfortexas.com/"
+},
+{
+"text": "[image: Rep Bucy at Trans Day of Visibility]",
+"href": "https://bucyfortexas.com/priorities/lgbtq-equality/"
+},
+{
+"text": "[image: Rep Bucy speaking at press conference after El Paso shooting]",
+"href": "https://bucyfortexas.com/priorities/gun-violence-prevention/"
+},
+{
+"text": "[image]",
+"href": "https://bucyfortexas.com/priorities/criminal-justice-reform/"
+},
+{
+"text": "[image]",
+"href": "https://bucyfortexas.com/priorities/education/"
+},
+{
+"text": "[image]",
+"href": "https://bucyfortexas.com/priorities/environmental-protection/"
+},
+{
+"text": "[image]",
+"href": "https://bucyfortexas.com/priorities/healthcare/"
+},
+{
+"text": "[image]",
+"href": "https://bucyfortexas.com/priorities/local-control/"
+},
+{
+"text": "[image]",
+"href": "https://bucyfortexas.com/priorities/property-taxes/"
+},
+{
+"text": "[image]",
+"href": "https://bucyfortexas.com/priorities/voting/"
+},
+{
+"text": "johnbucy@bucyfortexas.com",
+"href": "mailto:johnbucy@bucyfortexas.com"
+}
 ]

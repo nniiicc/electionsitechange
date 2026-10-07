@@ -1,7 +1,11 @@
 {
  "description": "Scott Grund Campaign Events",
  "final_url": "https://scottgrundforohio.com/Events?range=2026-W42",
+ "fingerprint": "ec3fd8b524e1554fdd6d3bbc60964a8b75d7a33f",
+ "format": 3,
  "paid_for_by": "Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner",
  "title": "Scott Grund For Ohio Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

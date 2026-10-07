@@ -1,15 +1,54 @@
 [
-"http://squarespace.com/",
-"https://facebook.com/profile.php?id=61573218942844",
-"https://flic.kr/ps/47PU1z",
-"https://instagram.com/simon.glaser.for.senate",
-"https://secure.actblue.com/donate/simonglaser",
-"https://simonglaser.com/",
-"https://simonglaser.com/cart",
-"https://simonglaser.com/contact",
-"https://simonglaser.com/endorsements",
-"https://simonglaser.com/issues",
-"https://simonglaser.com/meet",
-"https://simonglaser.com/press",
-"https://youtube.com/channel/UCGyi3SHBwAPGbnbb-uAhCXw"
+{
+"text": "0",
+"href": "https://www.simonglaser.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/simonglaser"
+},
+{
+"text": "Endorsements",
+"href": "https://www.simonglaser.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.simonglaser.com/contact"
+},
+{
+"text": "Issues",
+"href": "https://www.simonglaser.com/issues"
+},
+{
+"text": "MADE WITH SQUARESPACE",
+"href": "http://squarespace.com"
+},
+{
+"text": "Meet Simon",
+"href": "https://www.simonglaser.com/meet"
+},
+{
+"text": "Press",
+"href": "https://www.simonglaser.com/press"
+},
+{
+"text": "Public Photographs",
+"href": "https://flic.kr/ps/47PU1z"
+},
+{
+"text": "[image: Simon Glaser for State Senate]",
+"href": "https://www.simonglaser.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61573218942844"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/simon.glaser.for.senate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCGyi3SHBwAPGbnbb-uAhCXw"
+}
 ]

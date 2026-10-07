@@ -1,32 +1,134 @@
 [
-"http://desertcreativegroup.com/",
-"https://amazon.com/Liminal-refugee-memoir-Liyah-Babayan/dp/0615649653",
-"https://asbarez.com/liminal-a-refugee-memoir-published-by-baku-pogrom-survivor",
-"https://boisestatepublicradio.org/show/idaho-matters/2019-07-23/twin-falls-refugees-new-book-chronicles-life-of-struggle-and-compassion",
-"https://facebook.com/LiyahBabayanTwinFallsIdaho",
-"https://governing.com/archive/gov-refugees-twin-falls-idaho-immigration.html",
-"https://idahorefugees.org/presenters.html",
-"https://idwc.org/democratic-womens-caucus-breakfast-with-liyah-babayan",
-"https://instagram.com/liyahbabayan",
-"https://karabakhrecords.info/english_publication_articles_liminal_a_refugee_memoir.html",
-"https://linkedin.com/in/liyahbabayan",
-"https://liyahbabayan.com/",
-"https://liyahbabayan.com/about-liyah",
-"https://liyahbabayan.com/coaching",
-"https://liyahbabayan.com/contact",
-"https://liyahbabayan.com/liminal",
-"https://liyahbabayan.com/makepeace",
-"https://liyahbabayan.com/speaking",
-"https://magicvalley.com/entertainment/idaho-became-our-familys-ellis-island-refugee-memoir-tells-of-genocide-american-welcome/article_2f0ba9eb-ae1f-5d20-a054-7f1667d82eca.html",
-"https://news.am/eng/news/534028.html",
-"https://nytimes.com/2015/10/02/us/idaho-city-of-immigrants-debates-taking-in-middle-eastern-refugees.html",
-"https://oohlala-shop.com/",
-"https://rdbooks.org/event/liyah-babayan%C2%A0-liminal",
-"https://seechangemagazine.com/from-refugee-to-social-entrepreneur-in-her-own-words",
-"https://youtube.com/watch?v=-4nFzF85Vxk",
-"https://youtube.com/watch?v=NAtJ0Uh2_AE",
-"https://youtube.com/watch?v=c3VJiLXSK-U",
-"https://youtube.com/watch?v=jLrlMeLMalg",
-"https://youtube.com/watch?v=mUlFsj4doiA",
-"https://youtube.com/watch?v=sE18jVK2NJs"
+{
+"text": "About Liyah",
+"href": "https://liyahbabayan.com/about-liyah/"
+},
+{
+"text": "Buy Now",
+"href": "https://www.amazon.com/Liminal-refugee-memoir-Liyah-Babayan/dp/0615649653"
+},
+{
+"text": "Coaching",
+"href": "https://liyahbabayan.com/coaching/"
+},
+{
+"text": "Envelope",
+"href": "https://liyahbabayan.com/contact/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/LiyahBabayanTwinFallsIdaho"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/liyahbabayan/"
+},
+{
+"text": "Learn More",
+"href": "https://asbarez.com/liminal-a-refugee-memoir-published-by-baku-pogrom-survivor/"
+},
+{
+"text": "Learn More",
+"href": "https://idwc.org/democratic-womens-caucus-breakfast-with-liyah-babayan/"
+},
+{
+"text": "Learn More",
+"href": "https://karabakhrecords.info/english_publication_articles_liminal_a_refugee_memoir.html"
+},
+{
+"text": "Learn More",
+"href": "https://magicvalley.com/entertainment/idaho-became-our-familys-ellis-island-refugee-memoir-tells-of-genocide-american-welcome/article_2f0ba9eb-ae1f-5d20-a054-7f1667d82eca.html"
+},
+{
+"text": "Learn More",
+"href": "https://news.am/eng/news/534028.html"
+},
+{
+"text": "Learn More",
+"href": "https://www.amazon.com/Liminal-refugee-memoir-Liyah-Babayan/dp/0615649653"
+},
+{
+"text": "Learn More",
+"href": "https://www.boisestatepublicradio.org/show/idaho-matters/2019-07-23/twin-falls-refugees-new-book-chronicles-life-of-struggle-and-compassion"
+},
+{
+"text": "Learn More",
+"href": "https://www.governing.com/archive/gov-refugees-twin-falls-idaho-immigration.html"
+},
+{
+"text": "Learn More",
+"href": "https://www.idahorefugees.org/presenters.html"
+},
+{
+"text": "Learn More",
+"href": "https://www.nytimes.com/2015/10/02/us/idaho-city-of-immigrants-debates-taking-in-middle-eastern-refugees.html"
+},
+{
+"text": "Learn More",
+"href": "https://www.rdbooks.org/event/liyah-babayan%C2%A0-liminal"
+},
+{
+"text": "Learn More",
+"href": "https://www.seechangemagazine.com/from-refugee-to-social-entrepreneur-in-her-own-words/"
+},
+{
+"text": "Learn More",
+"href": "https://www.youtube.com/watch?v=-4nFzF85Vxk"
+},
+{
+"text": "Learn More",
+"href": "https://www.youtube.com/watch?v=NAtJ0Uh2_AE"
+},
+{
+"text": "Learn More",
+"href": "https://www.youtube.com/watch?v=c3VJiLXSK-U"
+},
+{
+"text": "Learn More",
+"href": "https://www.youtube.com/watch?v=jLrlMeLMalg"
+},
+{
+"text": "Learn More",
+"href": "https://www.youtube.com/watch?v=mUlFsj4doiA"
+},
+{
+"text": "Learn More",
+"href": "https://www.youtube.com/watch?v=sE18jVK2NJs"
+},
+{
+"text": "Liminal",
+"href": "https://liyahbabayan.com/liminal/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/in/liyahbabayan"
+},
+{
+"text": "Liyah Babayan",
+"href": "https://liyahbabayan.com/"
+},
+{
+"text": "MAKEPEACE",
+"href": "https://liyahbabayan.com/makepeace/"
+},
+{
+"text": "Made with ♥ by Desert Creative Group.",
+"href": "http://www.desertcreativegroup.com/"
+},
+{
+"text": "Ooh La La",
+"href": "https://www.oohlala-shop.com/"
+},
+{
+"text": "Speaking",
+"href": "https://liyahbabayan.com/speaking/"
+},
+{
+"text": "State Campaign",
+"href": "https://liyahbabayan.com/"
+},
+{
+"text": "[image]",
+"href": "https://liyahbabayan.com/"
+}
 ]

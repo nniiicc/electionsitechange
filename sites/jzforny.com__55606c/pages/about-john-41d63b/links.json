@@ -1,11 +1,38 @@
 [
-"https://jzforny.com/",
-"https://jzforny.com/about-john",
-"https://jzforny.com/cart",
-"https://jzforny.com/get-help",
-"https://jzforny.com/get-involved",
-"https://jzforny.com/home",
-"https://jzforny.com/neighborhoods",
-"https://jzforny.com/record-priorities",
-"https://secure.actblue.com/donate/jzkickoff2026"
+{
+"text": "0",
+"href": "https://www.jzforny.com/cart"
+},
+{
+"text": "About John",
+"href": "https://www.jzforny.com/about-john"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jzkickoff2026"
+},
+{
+"text": "Get Help",
+"href": "https://www.jzforny.com/get-help"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jzforny.com/get-involved"
+},
+{
+"text": "Neighborhoods",
+"href": "https://www.jzforny.com/neighborhoods"
+},
+{
+"text": "Record & Priorities",
+"href": "https://www.jzforny.com/record-priorities"
+},
+{
+"text": "[image: John Zaccaro Jr. | Democrat for NYS Assembly]",
+"href": "https://www.jzforny.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.jzforny.com/home"
+}
 ]

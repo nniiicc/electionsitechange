@@ -1,6 +1,4 @@
-Affordable and Quality Health Care
-Lowering the cost of prescription drugs, developing cures for diseases, combating the drug addiction epidemic, protecting people with pre-existing conditions, and making healthcare more affordable are all important, life-touching priorities.
-All Americans deserve a health care system that puts patients first, and Tim is fighting to fix what’s broken, restore integrity into our nation’s health care system, and lower premium costs.
+Skip to main content Meet Tim Biography Endorsements News Issues Protecting our National Security Fixing the Biden Crises Building a Healthy Economy Fiscal Responsibility Affordable Health Care Defending Our Values Contact Volunteer Store Contribute Affordable and Quality Health Care Affordable and Quality Health Care Lowering the cost of prescription drugs, developing cures for diseases, combating the drug addiction epidemic, protecting people with pre-existing conditions, and making healthcare more affordable are all important, life-touching priorities. - Tim Walberg All Americans deserve a health care system that puts patients first, and Tim is fighting to fix what’s broken, restore integrity into our nation’s health care system, and lower premium costs.
 Tim helped pass the Lower Health Care Premiums for All Americans Act, which would lower premiums by at least 11%, expand access to quality care, and bring greater transparency to America’s health system.
 The legislation also included a bill that Tim championed, the Association Health Plans Act, to allow small businesses to join together to purchase more affordable health care insurance.
 Tim is pushing for other policies to make health care more affordable, including ending lawsuit abuse, letting people purchase health insurance across state lines, expanding the flexibility of health savings accounts, reducing fraud, and giving individuals the same tax treatment as corporations when they purchase health insurance.
@@ -18,3 +16,6 @@ Along with a Democratic colleague, Tim also introduced “Jessie’s Law”, nam
 While both opioid and heroin overdoses are beginning to decrease across America, Tim has supported legislation to crack down on synthetic opioids and other fentanyl analogues as their usage rates are spiking.
 Tim Walberg voted to let people keep their health coverage if they liked it, and has repeatedly voted to protect people with pre-existing conditions.
 Tim has also helped lead congressional efforts to end the practice of surprise medical billing.
+BACK TO ISSUES Stay in Touch Sign up for Emails Submit CONTRIBUTE VOLUNTEER Join The Team!
+FOLLOW TIM Meet Tim News Issues Contact Volunteer Store Contribute PRIVACY POLICY VIDEO OF TIM WALBERG ON THE CAMPAIGN TRAIL PICTURES OF TIM WALBERG ON THE CAMPAIGN TRAIL P.O.
+Box 1362 Jackson, MI 49204 PAID FOR BY WALBERG FOR CONGRESS

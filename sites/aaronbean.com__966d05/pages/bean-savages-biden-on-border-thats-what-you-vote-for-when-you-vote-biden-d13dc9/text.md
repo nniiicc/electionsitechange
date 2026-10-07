@@ -1,6 +1,6 @@
-Representative Aaron Bean (R-FL) was unyielding in his critique of President Joe Biden for the border and fentanyl crises in a recent interview with The Floridian.
+Skip to content Facebook-f Twitter Youtube Meet Aaron The New 4th District Donate News & Updates Meet Aaron The New 4th District Donate News & Updates Bean Savages Biden on Border: ‘That’s What You Vote For When You Vote Biden’ May 28, 2024 The Floridian Representative Aaron Bean (R-FL) was unyielding in his critique of President Joe Biden for the border and fentanyl crises in a recent interview with The Floridian .
 He underscored that these were the repercussions of voting for him and detailed the profound effects of illegal immigration on his congressional district, which encompasses the majority of Jacksonville.
 Rep.
 Bean described how, as a State Senator, he stood with Governor Ron DeSantis (R-FL) in demanding the Biden Administration stop sending secret migrant flights to Jacksonville.
 “The whistle was blown in Jacksonville,” the Florida Congressman recalled, “I stood with Governor DeSantis two and a half years ago, where but for a brave warrior who worked for the airport who logged at the time 78 mystery flights that came into Jacksonville International Airport in the middle of the night.
-They always came between two and four in the morning.”
+They always came between two and four in the morning.” Read More Share This Facebook-f Twitter Youtube Paid for by Aaron Bean for Congress Media Inquiries: Sarah Bascom | Kelsey Deasy Copyright # Aaron Bean for Congress

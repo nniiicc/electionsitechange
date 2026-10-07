@@ -1,23 +1,15 @@
-OLATHE – Vice President JD Vance took direct aim at Adam Hamilton this weekend at Webco Manufacturing in Olathe, tearing into his record on faith, values, and the use of church resources to bankroll far-left causes — while praising Senator Roger Marshall's five years of service to Kansas.
-Key excerpts below:
-On Sen.
-Marshall’s record for Kansas:
-“For five years, Doc Marshall has fought tirelessly for the people of the great state of Kansas...
+Skip to content DOC MARSHALL U.S.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Press release ICYMI: Vice President Vance Destroys Adam Hamilton’s Views & Use of Church Funds for Dubious Groups September 15, 2026 For immediate release OLATHE – Vice President JD Vance took direct aim at Adam Hamilton this weekend at Webco Manufacturing in Olathe, tearing into his record on faith, values, and the use of church resources to bankroll far-left causes — while praising Senator Roger Marshall's five years of service to Kansas.
+Key excerpts below: On Sen.
+Marshall’s record for Kansas: “For five years, Doc Marshall has fought tirelessly for the people of the great state of Kansas...
 At every opportunity, he has stood up for the workers of the great state of Kansas.
-He has stood up for the businesses of the great state of Kansas.”
-On Marshall’s integrity with special interests:
-“He is the guy who tells the lobbyists, ‘I don't fight for you.
+He has stood up for the businesses of the great state of Kansas.” On Marshall’s integrity with special interests: “He is the guy who tells the lobbyists, ‘I don't fight for you.
 I don't work for you.
-I work for the people in this room,’ and he means it every single day.”
-On Hamilton’s “repent” sermons:
-“This is a guy who says that you need to repent for your white privilege.
-He told his congregation in the great state of Kansas, one of the barbecue capitals of the world, that they need to atone for eating meat.”
-On Hamilton’s church funding Pride Fest and “Sisters of Perpetual Indulgence”:
-“He made sure that his church was a key financial sponsor of something called Pride Fest in Kansas City.
+I work for the people in this room,’ and he means it every single day.” On Hamilton’s “repent” sermons: “This is a guy who says that you need to repent for your white privilege.
+He told his congregation in the great state of Kansas, one of the barbecue capitals of the world, that they need to atone for eating meat.” On Hamilton’s church funding Pride Fest and “Sisters of Perpetual Indulgence”: “He made sure that his church was a key financial sponsor of something called Pride Fest in Kansas City.
 But maybe worst of all, by sponsoring this festival, Adam Hamilton proudly supported a drag group called Our Ladies of Perpetual Indulgence, which you may remember was the group that was saying special blessings before L.A.
-Dodgers games and insulting every Christian in this room in the process.”
-On the contrast between Marshall and Hamilton:
-“In this race, we have got Dr.
-Roger Marshall, a proud servant of this state and a proud Christian to boot, versus a guy who would insult your faith and spit on your religion to accrue donations to himself.”
-Closing message:
-“To Adam Hamilton and every far-left radical who wants to gain power by dividing Americans against each other, our message is simple: We are united in keeping you as far away from the halls of Congress as possible.”
+Dodgers games and insulting every Christian in this room in the process.” On the contrast between Marshall and Hamilton: “In this race, we have got Dr.
+Roger Marshall, a proud servant of this state and a proud Christian to boot, versus a guy who would insult your faith and spit on your religion to accrue donations to himself.” Closing message: “To Adam Hamilton and every far-left radical who wants to gain power by dividing Americans against each other, our message is simple: We are united in keeping you as far away from the halls of Congress as possible.” Vice President Vance’s full remarks → ### Press contact [email protected] ← Back to In the News DOC MARSHALL U.S.
+SENATE · KANSAS (opens in a new tab) (opens in a new tab) Archive Bills filed Contact Yard signs Press inquiries Campaign office Kansas Voter info Register to vote ↗ (opens in a new tab) Polling place lookup ↗ (opens in a new tab) County clerks ↗ (opens in a new tab) FEC C00576173 · Senate committee — registered 2015 Paid for by Kansans for Marshall PO Box 1588, Great Bend, KS 67530 Press: [email protected] Not authorized by any candidate or candidate’s committee other than Kansans for Marshall.
+Contributions to Kansans for Marshall are not tax deductible as charitable contributions for federal income tax purposes.
+Privacy Terms CCPA · CPRA Accessibility · WCAG 2.2 AA

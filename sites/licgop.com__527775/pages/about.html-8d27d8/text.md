@@ -1,14 +1,11 @@
-| | Edward Lee Republican for NYSAssembly District 36 | | | | | | |
-| I work with Whistleblowers such as
-Rebecca Saltzburg whose evidence implicating Tulsi Gabbard quickly led to the departure of the head of the Department of National Intelligence which oversees the CIA and FBI Steven Lee whose work in uncovering corruption in the NYPD caused a reexamination of the Knapp commission and whose work is recognized and supported by Serpico Nolan Farrell who was wrongfully incarcerated for 10 years and who is still working for accountability at the Queens DA's office and more.
+Edward Lee Republican for NYSAssembly District 36 About Issues/ Platform Event Calendar Don't donate money?
+Volunteer Newsletter I work with Whistleblowers such as Rebecca Saltzburg whose evidence implicating Tulsi Gabbard quickly led to the departure of the head of the Department of National Intelligence which oversees the CIA and FBI Steven Lee whose work in uncovering corruption in the NYPD caused a reexamination of the Knapp commission and whose work is recognized and supported by Serpico Nolan Farrell who was wrongfully incarcerated for 10 years and who is still working for accountability at the Queens DA's office and more.
 Kori Edens who whistleblew on corrupt practices at Hunter College which to this day have not been acknowledged by CUNY administrators.
-I myself am a whistleblower on Jeffrey Epstein style activities going on in the 3rd party and Independent political space as well as the anti-war movement. the longest wrongfully incarcerated men in NYS and US history
-Muti Ajamu-Osagboro - an incredible activist from Philly, PA and the best speaker in the djelf7 coalition Otis Johnson - the longest wrongfully incarcerated man in NYS history Andy Williams Jr. - prior candidate for US President and Attorney General of Illinois Ronnie Long (from NJ not NC) - priorly on death row, Ronnie Long's exoneration is supported by former governor Jim McGreevey.
+I myself am a whistleblower on Jeffrey Epstein style activities going on in the 3rd party and Independent political space as well as the anti-war movement. the longest wrongfully incarcerated men in NYS and US history Muti Ajamu-Osagboro - an incredible activist from Philly, PA and the best speaker in the djelf7 coalition Otis Johnson - the longest wrongfully incarcerated man in NYS history Andy Williams Jr. - prior candidate for US President and Attorney General of Illinois Ronnie Long (from NJ not NC) - priorly on death row, Ronnie Long's exoneration is supported by former governor Jim McGreevey.
 Vincent Moto - the first man freed on DNA evidence in Philladelphia, PA history Nolan Farrell - a whistleblower who was wrongfully incarcerated for a decade.
 The Queens DA's office engaged in a tactic called "chinawalling" where DA's would deliberately use testimony from people who were locked up to obtain artificially high conviction rates. the disabled (2nd largest minority voting block) war victims like myself who are excluded from antiwar activism, the homeless - you can see that my work includes the people you see in the homeless community: the formerly incarcerated, the disabled, the poor and so forth.
 A lot of my understanding and knowledge on this topic will not be revealed, as others will exploit this knowledge and negatively impact the community.
-Asian Americans / Korean Americans such as:
-Yong Suk Won - the largest Korean American political commentator in the United States Phillip Ahn Cuddy - The grandson of legendary Dongsan Ahn Chang Ho, we are teaming up to take on errors in the AANHPI curriculum in NY and at other institutions.
+Asian Americans / Korean Americans such as: Yong Suk Won - the largest Korean American political commentator in the United States Phillip Ahn Cuddy - The grandson of legendary Dongsan Ahn Chang Ho, we are teaming up to take on errors in the AANHPI curriculum in NY and at other institutions.
 Michael Kim - CEO of Radio Korea, the largest Korean language radio station in the US stationed in the largest Koreatown in the United States, Los Angeles Eastern Bound - a group of diasporic Koreans including: the Mad Corean from LA, Bill from Chicago and Dr.
 Shinimusa from Australia Emmanuel Pastreich - PhD graduate from Harvard University in Korea Studies as a Presidential candidate he has the first recorded response in the Korean language to a question posed during a US Presidential debate Sean Moon - the son and heir to the Moon dynasty.
 His father is the most successful Korean American businessman in US history, a founder of a powerful religious and controversial religious movement and probably the most politically influential Korean American of the modern era.
@@ -17,7 +14,7 @@ Many artists that are willing to serve as shills can make a lot of money and rec
 I am considered "too dangerous" to be given a platform in most cases, and face severe levels of suppression.
 I have the largest internet directory of street and subway artists to help others who have turned to street performances to survive.
 I have a group chat on instagram where I update other street performers about performance venues, grant opportunities and so forth.
-I host NYC's only 3rd party and independent candidate debates, and have gathered candidates across the nation to find issues we can agree on.
+I host NYC's only 3rd party and independent candidate debates , and have gathered candidates across the nation to find issues we can agree on.
 I have more candidate interviews and activist interviews then any other Youtuber (over 100 each) I am the brand ambassador for a project called "Rep My Block" which makes the voter database accessible for candidates and activists at a block by block level.
 (The entire database is too large for most databases to handle) This information is hoarded by party leadership and consultants.
 With the assistance of Theo Chino, this information is made open to the public.
@@ -63,5 +60,4 @@ But the wolves in sheeps clothing spill more blood then the wolves that present 
 The rampant corruption and exploitation that exists right now under the Democrats is a huge problem and unaddressed.
 Under the cloak of moral righteousness they are bleeding taxpayers and the poor to death.
 My activist website is available by clicking on the djelf7 logo below.
-Links to all of my social media platforms Contact: djelf7@djelf7.com |
-| Video | Social Media | | Music | Gaming | Payment platforms | | | |
+Links to all of my social media platforms Video Social Media Music Gaming Payment platforms Contact: djelf7@djelf7.com

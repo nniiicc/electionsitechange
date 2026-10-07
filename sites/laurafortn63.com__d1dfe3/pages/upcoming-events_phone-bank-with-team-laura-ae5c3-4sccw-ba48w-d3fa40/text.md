@@ -1,11 +1,3 @@
-Back to All Events
-Join us for an in-person phone bank at the WCDP Headquarters in Franklin.
+0 Skip to Content Learn More Meet Laura On The Issues Upcoming Events Volunteer With Laura Read Laura's Substack Williamson Election Commission Donate Open Menu Close Menu Learn More Meet Laura On The Issues Upcoming Events Volunteer With Laura Read Laura's Substack Williamson Election Commission Donate Open Menu Close Menu Folder: Learn More Back Meet Laura On The Issues Upcoming Events Volunteer With Laura Read Laura's Substack Williamson Election Commission Donate Back to All Events Phone Bank with Team Laura Wednesday, September 23, 2026 5:00 PM 7:00 PM Google Calendar ICS Join us for an in-person phone bank at the WCDP Headquarters in Franklin.
 Together we’ll make calls to folks in district 63, letting folks know about their Democratic candidate Dr.nLaura Andreson and her plan to deliver change for Tennessee!
-Sign up to attend here
-Previous
-Previous
-September 23
-Community Canvass in Nolensville
-Next
-Next
-September 24
+Sign up to attend here Previous Previous September 23 Community Canvass in Nolensville Next Next September 24 Community Canvass in Brentwood Donate Paid for by Laura Andreson for TN63 - Treasurer: Bob Britton Find our Privacy Policy here.

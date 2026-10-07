@@ -1,19 +1,34 @@
-PRESS RELEASE
-On Dobbs Anniversary, Independent Seth Bodnar Reaffirms Commitment to Montanans' Freedom and Privacy
-MISSOULA, MT— Four years ago today, the U.S.
+Skip navigation menu About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate WATCH YouTube: The Outsider Outrunning Every Candidate in Montana LISTEN Montana Public Radio, Q&A: Seth Bodnar, independent U.S.
+Senate candidate PRess Release Bodnar Campaign Statement on ‘Puppet’ Alme’s Nomination WATCH Independent Americans: Seth Bodnar, Independent Vet For Senate from Montana PRESS RELEASE Bodnar Campaign Surpasses 20,000 Accepted Signatures, Cementing Path to November Ballot READ Seth Bodnar: With Authority Must Come Responsibility PRESS RELEASE Racicot, Tester, Baucus, Geise, Bradley, Buchanan Endorse Independent Seth Bodnar for U.S.
+Senate PRESS RELEASE End Citizens United Endorses Independent Seth Bodnar for U.S.
+Senate in Montana PRESS RELEASE On Dobbs Anniversary, Independent Seth Bodnar Reaffirms Commitment to Montanans' Freedom and Privacy PRESS RELEASE Montana AFL-CIO Endorses Independent Seth Bodnar for U.S.
+Senate PRESS RELEASE Air Force Veteran and "Country First" Leader Adam Kinzinger Endorses Seth Bodnar for U.S.
+Senate PRESS RELEASE Bodnar Campaign Raises Nearly $1.9 Million in Q2, Building on Grassroots Coalition Momentum READ Making the Montana Way of Life a Reality Again PRESS RELEASE Bodnar Campaign Releases “Independent”, First TV Ad of Independent Campaign for U.S.
+Senate PRESS RELEASE Independent Seth Bodnar Releases DD 214, Calls for Full Transparency in Montana's Senate Race PRESS RELEASE VoteVets Endorses Independent Seth Bodnar for U.S.
+Senate PRESS RELEASE Bodnar Releases "Making Themselves Rich," New TV Ad Calling Out The Monopolies and Corruption PRESS RELEASE Independent Veterans of America Endorses Seth Bodnar for U.S.
+Senate NEWS ARTICLE Bodnar Campaign Releases "Montana First: Veteran's Agenda" PRESS RELEASE Independent Seth Bodnar Will Fight to End the VA Hiring Crisis in Montana PRESS RELEASE Veterans Across the Political Spectrum Back Independent Seth Bodnar ICYMI Montana Author and Former U.S.
+Ambassador Backs Bodnar for Senate ICYMI Seth Bodnar Talks with Alex Wagner on Runaway Country PRESS RELEASE ICYMI: Bodnar Campaign Outlines Path to Victory in November PRESS RELEASE Bodnar Campaign Releases New TV Ad “Boxes” PRESS RELEASE Statement from the Campaign of Independent Seth Bodnar PRESS RELEASE Statement from Montana’s Independent U.S.
+Senate Candidate Seth Bodnar PRESS RELEASE Seth Bodnar Affirms His Commitment To Independent Campaign for Montana's U.S.
+Senate Seat PRESS RELEASE ICYMI: SEIU 775 Montana Members Endorse Independent U.S.
+Senate Candidate Seth Bodnar PRESS RELEASE Montana Federation of Public Employees Endorses Independent Seth Bodnar for U.S.
+Senate PRESS RELEASE Independent Seth Bodnar Opposes Sheep Creek Mine: “Not Going To Stand For It” ICYMI “People Are Hungry for Change”: Seth Bodnar Joins Money Power Politics with Stephanie Ruhle PRESS RELEASE Seth Bodnar Slams Beef Import Plan: “Outrageous Attack on Montana Ranchers” PRESS RELEASE Bodnar Calls for Mandatory Country of Origin Labeling, Blasts Plan to Flood Market with Foreign Imports READ Read in Full: Protect Montana: AI Pledge PRESS RELEASE Independent Seth Bodnar Signs “Protect Montana: AI Pledge,” Vows to Fight Data Centers and Hold AI Companies Accountable READ ICYMI: Independent Seth Bodnar Will Fight AI Data Centers, Hold Big Tech Accountable WATCH Independent Seth Bodnar on MeidasTouch: “Montana deserves a senator who doesn't work for Chuck Schumer, and who's not afraid of Donald Trump” READ ICYMI: Bankhead and Alme Stay Silent As “Trump's Beef Import Plan Rankles Montana Farmers” READ The Monitor: After tug-of-war, Bodnar calls for unity WATCH Independent Seth Bodnar Joins Charlie Sykes on To the Contrary PRESS RELEASE Seth Bodnar Statement on Labor Day ICYMI Independent Seth Bodnar Joins Jon Tester and Maritsa Georgiou on Grounded Podcast ICYMI Independent Seth Bodnar Joins Michael Smerconish on Sirius XM READ Read in Full: Seth Bodnar's Montana First Health Care Agenda PRESS RELEASE Independent Seth Bodnar Releases His "Montana First Health Care Agenda" to Lower Costs, Expand Access, Take on Corruption, and Protect Rural Health PRESS RELEASE Seth Bodnar Statement on the 25th Anniversary of the September 11 Terrorist Attacks PRESS RELEASE NEW POLL: Independent Seth Bodnar Gaining Ground, Winning Montana's Largest Voting Bloc and a Majority of Democrats PRESS RELEASE "Flock Off": Independent Seth Bodnar Takes Aim at Data Privacy in New Video ICYMI ICYMI: Independent Seth Bodnar’s “Wild New Ad” Turns Heads Online ICYMI “They’re Watching”: Independent Seth Bodnar’s Viral Video Sparks National Debate About Flock Cameras PRESS RELEASE Statement from Independent Candidate Seth Bodnar on Reporting Showing Destruction at U.S.
+Bases in Saudi Arabia and Kuwait In the news Glasgow Courier: Disenchanted With The Two-Party System, Voters Consider Seth Bodnar's Pitch PRESS RELEASE Planned Parenthood Action Fund Endorses Independent Seth Bodnar for Senate PRESS RELEASE Democrat Alani Bankhead Attended Pro-MAGA Megachurch, Released Book with Far-Right Publisher ICYMI ICYMI: Independent Seth Bodnar Endorsed by Planned Parenthood Action Fund PRESS RELEASE Independent Seth Bodnar’s Campaign Gains Steam in Final Weeks of Montana’s U.S.
+Senate Race ICYMI “We are gaining momentum”: Independent Seth Bodnar on CNN's Inside Politics ICYMI NRSC Tries and Fails to Censor Kurt Alme’s Shocking Record of Refusing to Prosecute Sex Crimes ICYMI Independent Seth Bodnar Blasts Kurt Alme’s Blind Support for Costly and Unauthorized War in Iran PRESS RELEASE Reproductive Freedom for All Endorses Independent Seth Bodnar for U.S.
+Senate in Montana PRESS RELEASE Veterans for All Voters Action Endorses Independent Seth Bodnar for U.S.
+Senate in Montana icymi Independent Seth Bodnar on CNN: "The Question We Should Be Asking Isn't What's Good for Republicans or Democrats.
+It's What's Good for the Country." PRESS RELEASE Former Montana Governor Steve Bullock Endorses Independent Candidate Seth Bodnar for U.S.
+Senate ICYMI Montana Voices: Bodnar “Will bring positive change,” Bankhead is “A Democrat in name only, ”Alme was “Forced down our throats by the Republican Party” Jun 24 2026 PRESS RELEASE On Dobbs Anniversary, Independent Seth Bodnar Reaffirms Commitment to Montanans' Freedom and Privacy MISSOULA, MT — Four years ago today, the U.S.
 Supreme Court's decision in Dobbs v.
 Jackson Women's Health Organization overturned Roe v.
 Wade and sent reproductive rights back to the states.
 Independent U.S.
-Senate candidate Seth Bodnar today released the following statement marking the anniversary:
-"Four years after Dobbs, the question for Montanans is simple: who decides?
+Senate candidate Seth Bodnar today released the following statement marking the anniversary: "Four years after Dobbs, the question for Montanans is simple: who decides?
 I believe the answer is you, your family, your doctor, and, if you choose, your God.
 Freedom and privacy belong to every Montanan, and the government has no business coming between a woman and her private health care decisions.
 "In the Senate, I will vote to codify the protections of Roe v.
 Wade.
 Kurt Alme would take Montana in the other direction, inserting the government into the exam room, between patients and their doctors.
-Montanans deserve an Independent voice in the Senate who will always put them and their rights first.”
-Seth Bodnar is a Green Beret, business leader, and former president of the University of Montana running for the U.S.
+Montanans deserve an Independent voice in the Senate who will always put them and their rights first.” Seth Bodnar is a Green Beret, business leader, and former president of the University of Montana running for the U.S.
 Senate to be an independent voice for Montana.
 Seth is guided by a lifelong commitment to duty, honor, and country.
 He graduated first in his class at West Point and served multiple overseas deployments, leading soldiers in the 101st Airborne Division and the 1st Special Forces Group, and serving as a special advisor to the commanding general in Iraq.
@@ -21,4 +36,6 @@ After his military service and a successful career in business, Seth spent the l
 Under his leadership, the university achieved record high graduation rates, doubled research funding, launched the largest infrastructure renewal in campus history, restored financial stability, and was named the #1 military-friendly university in the country.
 Raised by two public school teachers, he believes leadership is about service, not party loyalty.
 Seth and his wife, a fifth-generation Montanan, are raising their three children in Montana.
-###
+### Contact Privacy Policy MEDIA Use of his military rank, job titles and photographs in uniform does not imply endorsement by the U.S.
+Army or the Department of Defense.
+Seth for Montana | PO Box 7188, Missoula, MT 59807 Powered by RUN! website builder Paid for by Seth Bodnar for Montana You need to enable JavaScript to run this app.

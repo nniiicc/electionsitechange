@@ -1,22 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+For+Rod%27s+Birthday&dates=20260918T150000Z%2F20260919T020000Z&location=3359+Alpine+Creek+Way%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://maps.google.com/?q=3359+Alpine+Creek+Way+South+Jordan%2C+Utah%2C+84095+United+States",
-"https://facebook.com/RodMoser.UtahGrit",
-"https://instagram.com/utah.grit",
-"https://mobilize.us/utahdemocrats/event/1035372",
-"https://saltlakecounty.gov/globalassets/1-site-files/clerk/elections/election-maps/district-maps/state-house-of-representatives/state-house_45.pdf",
-"https://secure.actblue.com/donate/utahgrit",
-"https://utahgrit.com/",
-"https://utahgrit.com/cart",
-"https://utahgrit.com/contact",
-"https://utahgrit.com/endorsements",
-"https://utahgrit.com/events",
-"https://utahgrit.com/events/canvass-for-rods-birthday-fxjnm",
-"https://utahgrit.com/events/canvass-for-rods-birthday?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep13",
-"https://utahgrit.com/events?tag=Canvass",
-"https://utahgrit.com/grit-perspective",
-"https://utahgrit.com/issues-that-matter",
-"https://utahgrit.com/volunteer-form",
-"https://youtube.com/@UtahGrit"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3359+alpine+creek+way+south+jordan%2C+utah%2C+84095+united+states"
+},
+{
+"text": "0",
+"href": "https://www.utahgrit.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.utahgrit.com/events"
+},
+{
+"text": "Canvass",
+"href": "https://www.utahgrit.com/events?tag=Canvass"
+},
+{
+"text": "Contact",
+"href": "https://www.utahgrit.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/utahgrit"
+},
+{
+"text": "Endorsements",
+"href": "https://www.utahgrit.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.utahgrit.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+For+Rod%27s+Birthday&dates=20260918T150000Z%2F20260919T020000Z&location=3359+Alpine+Creek+Way%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Grit Perspective",
+"href": "https://www.utahgrit.com/grit-perspective"
+},
+{
+"text": "House District 45 MAP",
+"href": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/election-maps/district-maps/state-house-of-representatives/state-house_45.pdf"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-for-rods-birthday?format=ical"
+},
+{
+"text": "Issues That Matter",
+"href": "https://www.utahgrit.com/issues-that-matter"
+},
+{
+"text": "Next Next September 19 Canvass For Rod's Birthday",
+"href": "https://www.utahgrit.com/events/canvass-for-rods-birthday-fxjnm"
+},
+{
+"text": "Previous Previous September 13 Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep13"
+},
+{
+"text": "Sign Up",
+"href": "https://www.mobilize.us/utahdemocrats/event/1035372/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.utahgrit.com/volunteer-form"
+},
+{
+"text": "[image: Rod Moser For Utah House District 45]",
+"href": "https://www.utahgrit.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RodMoser.UtahGrit/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/utah.grit/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@UtahGrit"
+}
 ]

@@ -1,94 +1,394 @@
 [
-"http://aaspe.net/",
-"http://leahjeanphoto.com/",
-"https://aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/The-Anxious-Child-047.aspx",
-"https://aacap.org/App_Themes/AACAP/docs/member_resources/toolbox_for_clinical_practice_and_outcomes/symptoms/GLAD-PC_PHQ-9.pdf",
-"https://aahiinfo.org/aahi-resources",
-"https://adolescentselfinjuryfoundation.com/things-to-do-besides-self-harm",
-"https://adrianmadaro.com/",
-"https://adrianmadaro.com/contact",
-"https://adrianmadaro.com/get-involved",
-"https://adrianmadaro.com/meet-adrian",
-"https://adrianmadaro.com/news-events",
-"https://adrianmadaro.com/resources",
-"https://atask.org/site",
-"https://autisticadvocacy.org/",
-"https://bagly.org/",
-"https://bagly.org/clinic",
-"https://barcc.org/",
-"https://beyondocd.org/just-for-teens",
-"https://calmharm.co.uk/",
-"https://cardinalatwork.stanford.edu/faculty-staff-help-center/resources/work-related/coping-traumatic-stress",
-"https://cdc.gov/coronavirus/2019-ncov/daily-life-coping/stress-coping/young-adults.html",
-"https://cdc.gov/teenpregnancy/teens/index.htm",
-"https://centers.rainn.org/",
-"https://chadd.org/wp-content/uploads/2018/05/Teens-Teens.pdf",
-"https://childhelphotline.org/",
-"https://childrenshospital.org/centers-and-services/programs/a-_-e/boston-hiv-adolescent-provider-and-peer-education-network-for-services-happens-program",
-"https://clearfear.co.uk/",
-"https://codman.org/medical-service/x-clinic",
-"https://crisistextline.org/text-us",
-"https://facebook.com/adrianforrep",
-"https://fenwayhealth.org/info/locations/the-borum",
-"https://goingclear.com/",
-"https://healthline.com/health/eco-anxiety",
-"https://healthline.com/health/healthy-sex/free-sti-testing",
-"https://helplinema.org/",
-"https://instagram.com/adrianmadaro",
-"https://instagram.com/asianwomenforhealth",
-"https://instagram.com/jedfoundation",
-"https://instagram.com/namicommunicate",
-"https://instagram.com/thelovelandfoundation",
-"https://instagram.com/translifeline",
-"https://instagram.com/trevorproject",
-"https://jcmh.org/7-ways-to-be-a-mental-health-ally-blog",
-"https://kidshealth.org/en/teens/adhd.html",
-"https://kidshealth.org/en/teens/money-woes.html",
-"https://kidshelpline.com.au/teens/issues/conflict-home",
-"https://loveisrespect.org/",
-"https://mashable.com/article/how-to-cope-climate-change-anxiety",
-"https://mass.gov/domestic-violence-services",
-"https://medium.com/racial-battle-fatigue/racial-battle-fatigue-what-is-it-and-what-are-the-symptoms-84f79f49ee1e",
-"https://mentalhealth.gov/basics/what-is-mental-health",
-"https://mentalhealthfirstaid.org/2019/09/how-to-ask-an-adult-for-help",
-"https://mghclaycenter.org/self-care",
-"https://mhanational.org/issues/latinxhispanic-communities-and-mental-health",
-"https://nami.org/blogs/nami-blog/october-2017/9-ways-to-fight-mental-health-stigma",
-"https://nationaleatingdisorders.org/help-support/contact-helpline",
-"https://nimh.nih.gov/health/publications/teen-depression/om-21-4319-teendepressionmorethanmoodiness_150205.pdf",
-"https://notokapp.com/",
-"https://overdrive.com/apps/libby",
-"https://plannedparenthood.org/health-center/massachusetts/boston/02215/greater-boston-health-center-3293-90610/std-testing-treatment",
-"https://plannedparenthood.org/planned-parenthood-massachusetts/online-health-center/our-health-centers",
-"https://psychology.uga.edu/coping-racial-trauma",
-"https://psychology.uga.edu/sites/default/files/Slide1_4.png",
-"https://samaritanshope.org/",
-"https://secure.actblue.com/donate/adrianmadaro",
-"https://smartkidswithld.org/",
-"https://speakingofhope.org/resources?tx_resource_types=substance-abuse-and-recovery-support",
-"https://stanfordchildrens.org/en/topic/default?id=post-traumatic-stress-disorder-in-children-90-P02579",
-"https://stevefund.org/",
-"https://stopbullying.gov/resources/get-help-now",
-"https://stopbullying.gov/resources/kids",
-"https://stopbullying.gov/resources/teens",
-"https://suicidepreventionlifeline.org/",
-"https://suicidepreventionlifeline.org/help-yourself",
-"https://teenlibrariantoolbox.com/2012/08/top-10-books-dealing-with-mental-illness-guest-post-by-kim-baccellia",
-"https://teens.webmd.com/anxiety-and-teens",
-"https://teenvogue.com/gallery/meditation-apps-to-try-now",
-"https://thehotline.org/",
-"https://therapyforblackgirls.com/about",
-"https://thetrevorproject.org/get-help-now",
-"https://thetrevorproject.org/resources/trevor-support-center",
-"https://tiktok.com/@dr.kojosarfo",
-"https://tiktok.com/@drjuliesmith",
-"https://tiktok.com/@lindsay.fleminglpc?referer_url=https%3A%2F%2Fwww.cosmopolitan.com%2F&referer_video_id=6823013965950356741",
-"https://tiktok.com/@theshaniproject",
-"https://twitter.com/adrianmadaro",
-"https://yahighway.com/2014/05/mental-health-in-ya-reading-list.html",
-"https://youngminds.org.uk/blog/how-racism-impacts-my-mental-health",
-"https://youth.gov/youth-topics/teen-dating-violence",
-"https://youtube.com/c/MGHClayCenter/about",
-"https://youtube.com/c/OnOurSleeves",
-"https://youtube.com/c/Psych2go"
+{
+"text": "Asian LifeNet Hotline",
+"href": "http://aaspe.net/"
+},
+{
+"text": "Asian Task Force Against Domestic Violence",
+"href": "https://www.atask.org/site/"
+},
+{
+"text": "Asian Women for Health",
+"href": "https://www.instagram.com/asianwomenforhealth/"
+},
+{
+"text": "BAGLY",
+"href": "https://www.bagly.org/"
+},
+{
+"text": "Boston Area Rape Crisis Center",
+"href": "https://barcc.org/"
+},
+{
+"text": "Boston HAPPENS",
+"href": "https://www.childrenshospital.org/centers-and-services/programs/a-_-e/boston-hiv-adolescent-provider-and-peer-education-network-for-services-happens-program"
+},
+{
+"text": "Boston Web Design",
+"href": "https://goingclear.com"
+},
+{
+"text": "Calm Harm",
+"href": "https://calmharm.co.uk/"
+},
+{
+"text": "Childhelp National Child Abuse Hotline",
+"href": "https://childhelphotline.org/"
+},
+{
+"text": "Clear Fear",
+"href": "https://www.clearfear.co.uk/"
+},
+{
+"text": "Codman’s X-Clinic",
+"href": "https://www.codman.org/medical-service/x-clinic/"
+},
+{
+"text": "Contact",
+"href": "https://www.adrianmadaro.com/contact/"
+},
+{
+"text": "Crisis Text Line:",
+"href": "https://www.crisistextline.org/text-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adrianmadaro"
+},
+{
+"text": "Donate Give. If you can.",
+"href": "https://secure.actblue.com/donate/adrianmadaro"
+},
+{
+"text": "Follow us on Instagram",
+"href": "https://www.instagram.com/adrianmadaro/"
+},
+{
+"text": "Follow us on Twitter",
+"href": "https://twitter.com/adrianmadaro"
+},
+{
+"text": "Get Involved",
+"href": "https://www.adrianmadaro.com/get-involved/"
+},
+{
+"text": "Get Involved We’d Love to Have your Support.",
+"href": "https://www.adrianmadaro.com/get-involved/"
+},
+{
+"text": "Here",
+"href": "https://www.adolescentselfinjuryfoundation.com/things-to-do-besides-self-harm"
+},
+{
+"text": "Home",
+"href": "https://www.adrianmadaro.com"
+},
+{
+"text": "Home",
+"href": "https://www.adrianmadaro.com/"
+},
+{
+"text": "Leah Jean Photography",
+"href": "http://leahjeanphoto.com/"
+},
+{
+"text": "Libby",
+"href": "https://www.overdrive.com/apps/libby/"
+},
+{
+"text": "Lifeline.",
+"href": "https://suicidepreventionlifeline.org/"
+},
+{
+"text": "Like us on Facebook",
+"href": "https://www.facebook.com/adrianforrep/"
+},
+{
+"text": "List of books dealing with mental health #1",
+"href": "https://www.teenlibrariantoolbox.com/2012/08/top-10-books-dealing-with-mental-illness-guest-post-by-kim-baccellia/"
+},
+{
+"text": "List of books dealing with mental health #2",
+"href": "https://www.yahighway.com/2014/05/mental-health-in-ya-reading-list.html"
+},
+{
+"text": "Mass Substance Use Helpline",
+"href": "https://helplinema.org/"
+},
+{
+"text": "Meet Adrian",
+"href": "https://www.adrianmadaro.com/meet-adrian/"
+},
+{
+"text": "National Domestic Violence Hotline",
+"href": "https://www.thehotline.org/"
+},
+{
+"text": "National Domestic Violence Hotline i",
+"href": "https://www.thehotline.org/"
+},
+{
+"text": "National Eating Disorders Association (NEDA)",
+"href": "https://www.nationaleatingdisorders.org/help-support/contact-helpline"
+},
+{
+"text": "News & Events",
+"href": "https://www.adrianmadaro.com/news-events/"
+},
+{
+"text": "Not OK App",
+"href": "https://www.notokapp.com/"
+},
+{
+"text": "Planned Parenthood",
+"href": "https://www.plannedparenthood.org/health-center/massachusetts/boston/02215/greater-boston-health-center-3293-90610/std-testing-treatment"
+},
+{
+"text": "RAINN",
+"href": "https://centers.rainn.org/"
+},
+{
+"text": "Racial Battle Fatigue: What is it and What are the Symptoms?",
+"href": "https://medium.com/racial-battle-fatigue/racial-battle-fatigue-what-is-it-and-what-are-the-symptoms-84f79f49ee1e"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianmadaro.com/resources/"
+},
+{
+"text": "SafeLink",
+"href": "https://www.mass.gov/domestic-violence-services"
+},
+{
+"text": "Samaritans",
+"href": "https://samaritanshope.org/"
+},
+{
+"text": "StopBullying.gov",
+"href": "https://www.stopbullying.gov/resources/get-help-now"
+},
+{
+"text": "The Borum at Fenway Health:",
+"href": "https://fenwayhealth.org/info/locations/the-borum/"
+},
+{
+"text": "The Clinic at BAGLY",
+"href": "https://www.bagly.org/clinic"
+},
+{
+"text": "The National Suicide Prevention Hotline",
+"href": "https://suicidepreventionlifeline.org/"
+},
+{
+"text": "The Steve Fund",
+"href": "https://www.stevefund.org/"
+},
+{
+"text": "The Trevor Project",
+"href": "https://www.thetrevorproject.org/get-help-now/"
+},
+{
+"text": "Therapy For Black Girls",
+"href": "https://therapyforblackgirls.com/about/"
+},
+{
+"text": "This page",
+"href": "https://www.mhanational.org/issues/latinxhispanic-communities-and-mental-health"
+},
+{
+"text": "This page",
+"href": "https://youngminds.org.uk/blog/how-racism-impacts-my-mental-health/"
+},
+{
+"text": "Visit this page",
+"href": "https://www.mghclaycenter.org/self-care/"
+},
+{
+"text": "Visit this page",
+"href": "https://www.teenvogue.com/gallery/meditation-apps-to-try-now"
+},
+{
+"text": "Visit this site",
+"href": "https://aahiinfo.org/aahi-resources/"
+},
+{
+"text": "Visit this site",
+"href": "https://psychology.uga.edu/sites/default/files/Slide1_4.png"
+},
+{
+"text": "Visit this site for information on coping",
+"href": "https://cardinalatwork.stanford.edu/faculty-staff-help-center/resources/work-related/coping-traumatic-stress"
+},
+{
+"text": "Visit this website to learn what kids can do.",
+"href": "https://www.stopbullying.gov/resources/kids"
+},
+{
+"text": "Visit this website to learn what teens can do.",
+"href": "https://www.stopbullying.gov/resources/teens"
+},
+{
+"text": "What is Mental Health?",
+"href": "https://www.mentalhealth.gov/basics/what-is-mental-health"
+},
+{
+"text": "[image]",
+"href": "https://www.adrianmadaro.com/"
+},
+{
+"text": "across the state",
+"href": "https://www.plannedparenthood.org/planned-parenthood-massachusetts/online-health-center/our-health-centers"
+},
+{
+"text": "ally",
+"href": "https://www.jcmh.org/7-ways-to-be-a-mental-health-ally-blog/"
+},
+{
+"text": "here",
+"href": "https://beyondocd.org/just-for-teens"
+},
+{
+"text": "here",
+"href": "https://teens.webmd.com/anxiety-and-teens"
+},
+{
+"text": "here",
+"href": "https://www.loveisrespect.org/"
+},
+{
+"text": "here",
+"href": "https://www.smartkidswithld.org/"
+},
+{
+"text": "here",
+"href": "https://www.speakingofhope.org/resources/?tx_resource_types=substance-abuse-and-recovery-support"
+},
+{
+"text": "here",
+"href": "https://youth.gov/youth-topics/teen-dating-violence"
+},
+{
+"text": "here.",
+"href": "https://autisticadvocacy.org/"
+},
+{
+"text": "here.",
+"href": "https://chadd.org/wp-content/uploads/2018/05/Teens-Teens.pdf"
+},
+{
+"text": "here.",
+"href": "https://kidshealth.org/en/teens/adhd.html"
+},
+{
+"text": "here.",
+"href": "https://kidshelpline.com.au/teens/issues/conflict-home"
+},
+{
+"text": "here.",
+"href": "https://psychology.uga.edu/coping-racial-trauma"
+},
+{
+"text": "here.",
+"href": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/The-Anxious-Child-047.aspx"
+},
+{
+"text": "here.",
+"href": "https://www.nami.org/blogs/nami-blog/october-2017/9-ways-to-fight-mental-health-stigma"
+},
+{
+"text": "here.",
+"href": "https://www.nimh.nih.gov/health/publications/teen-depression/om-21-4319-teendepressionmorethanmoodiness_150205.pdf"
+},
+{
+"text": "here.",
+"href": "https://www.stanfordchildrens.org/en/topic/default?id=post-traumatic-stress-disorder-in-children-90-P02579"
+},
+{
+"text": "how and when to ask for help.",
+"href": "https://www.mentalhealthfirstaid.org/2019/09/how-to-ask-an-adult-for-help/"
+},
+{
+"text": "https://www.instagram.com/jedfoundation/",
+"href": "https://www.instagram.com/jedfoundation/"
+},
+{
+"text": "https://www.instagram.com/namicommunicate/",
+"href": "https://www.instagram.com/namicommunicate/"
+},
+{
+"text": "https://www.instagram.com/thelovelandfoundation/",
+"href": "https://www.instagram.com/thelovelandfoundation/"
+},
+{
+"text": "https://www.instagram.com/translifeline/",
+"href": "https://www.instagram.com/translifeline/"
+},
+{
+"text": "https://www.instagram.com/trevorproject/",
+"href": "https://www.instagram.com/trevorproject/"
+},
+{
+"text": "https://www.tiktok.com/@dr.kojosarfo",
+"href": "https://www.tiktok.com/@dr.kojosarfo"
+},
+{
+"text": "https://www.tiktok.com/@drjuliesmith",
+"href": "https://www.tiktok.com/@drjuliesmith"
+},
+{
+"text": "https://www.tiktok.com/@lindsay.fleminglpc",
+"href": "https://www.tiktok.com/@lindsay.fleminglpc?referer_url=https%3A%2F%2Fwww.cosmopolitan.com%2F&referer_video_id=6823013965950356741"
+},
+{
+"text": "https://www.tiktok.com/@theshaniproject/",
+"href": "https://www.tiktok.com/@theshaniproject/"
+},
+{
+"text": "https://www.youtube.com/c/MGHClayCenter",
+"href": "https://www.youtube.com/c/MGHClayCenter/about"
+},
+{
+"text": "https://www.youtube.com/c/OnOurSleeves",
+"href": "https://www.youtube.com/c/OnOurSleeves"
+},
+{
+"text": "https://www.youtube.com/c/Psych2go/",
+"href": "https://www.youtube.com/c/Psych2go/"
+},
+{
+"text": "ideas",
+"href": "https://kidshealth.org/en/teens/money-woes.html"
+},
+{
+"text": "link",
+"href": "https://www.aacap.org/App_Themes/AACAP/docs/member_resources/toolbox_for_clinical_practice_and_outcomes/symptoms/GLAD-PC_PHQ-9.pdf"
+},
+{
+"text": "nformation about STIs, when to get tested, and resources for finding free testing centers here",
+"href": "https://www.healthline.com/health/healthy-sex/free-sti-testing#common-locations"
+},
+{
+"text": "nformation about sexually transmitted infections (STIs), pregnancy, and other resources here",
+"href": "https://www.cdc.gov/teenpregnancy/teens/index.htm"
+},
+{
+"text": "resources",
+"href": "https://www.healthline.com/health/eco-anxiety"
+},
+{
+"text": "resources and FAQs",
+"href": "https://www.thetrevorproject.org/resources/trevor-support-center/"
+},
+{
+"text": "safety plan",
+"href": "https://suicidepreventionlifeline.org/help-yourself/"
+},
+{
+"text": "steps",
+"href": "https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/stress-coping/young-adults.html"
+},
+{
+"text": "steps you can take",
+"href": "https://mashable.com/article/how-to-cope-climate-change-anxiety"
+}
 ]

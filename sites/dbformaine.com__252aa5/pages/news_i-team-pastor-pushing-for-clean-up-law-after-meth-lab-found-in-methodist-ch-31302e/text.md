@@ -1,4 +1,4 @@
-| BUXTON (WGME) -- A pastor is pushing for change after a methamphetamine lab was discovered inside a Methodist church.
+SENATOR DONNA BAILEY Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5 I-Team: Pastor pushing for clean-up law after meth lab found in Methodist church 8/17/2020 0 Comments BUXTON (WGME) -- A pastor is pushing for change after a methamphetamine lab was discovered inside a Methodist church.
 The I-Team got an exclusive look inside at the damage.
 The Buxton United Methodist Church is unusually quiet these days because its congregation is displaced by a disturbing discovery.
 "Very shocking," Pastor Lynn Briggs said.
@@ -42,4 +42,6 @@ Briggs would like to see their hardship lead to change for the better.
 In the meantime, the congregation continues to worship somewhere else.
 "Folks are missing their home," Briggs said.
 "There's no place like home." Bailey said her committee has asked the Maine Department of Environmental Protection to look into establishing clean up standards.
-Bailey said they expect to hear back soon, but will then have to grapple with some of the policy decisions, like who would be required to foot the bill for, what can be, a very expensive process. | Blog Latest News Archives Categories |
+Bailey said they expect to hear back soon, but will then have to grapple with some of the policy decisions, like who would be required to foot the bill for, what can be, a very expensive process.
+0 Comments Leave a Reply.
+Blog Latest News Archives June 2026 February 2024 December 2023 June 2022 October 2020 September 2020 August 2020 June 2018 Categories All RSS Feed donate $5 207-284-9962 [email protected] Paid for and authorized by the candidate Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5

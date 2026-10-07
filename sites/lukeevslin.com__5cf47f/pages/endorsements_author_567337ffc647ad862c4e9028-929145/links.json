@@ -1,23 +1,94 @@
 [
-"http://facebook.com/Evslin",
-"http://facebook.com/evslin",
-"http://instagram.com/levslin",
-"https://instagram.com/levslin",
-"https://lukeevslin.com/",
-"https://lukeevslin.com/about",
-"https://lukeevslin.com/blog",
-"https://lukeevslin.com/contribute",
-"https://lukeevslin.com/endorsements/2018/1/23/sabra-kauka",
-"https://lukeevslin.com/endorsements/2018/3/2/run-for-something",
-"https://lukeevslin.com/endorsements/2018/5/14/ilwu-local-142",
-"https://lukeevslin.com/endorsements/2018/6/17/hawaii-firefighters-association",
-"https://lukeevslin.com/endorsements/2018/6/17/hawaii-government-employees-association",
-"https://lukeevslin.com/endorsements/2018/6/17/united-public-workers",
-"https://lukeevslin.com/endorsements/2018/6/3/shopo",
-"https://lukeevslin.com/endorsements/2018/9/10/hawaii-lodging-and-tourism-association",
-"https://lukeevslin.com/endorsements/2018/9/10/planned-parenthood",
-"https://lukeevslin.com/endorsements?author=567337ffc647ad862c4e9028",
-"https://lukeevslin.com/opportunities",
-"https://lukeevslin.com/search",
-"https://twitter.com/LukeEvslin"
+{
+"text": "About Luke",
+"href": "https://www.lukeevslin.com/about"
+},
+{
+"text": "Blog",
+"href": "https://www.lukeevslin.com/blog"
+},
+{
+"text": "Contribute",
+"href": "https://www.lukeevslin.com/contribute"
+},
+{
+"text": "Facebook",
+"href": "http://www.facebook.com/evslin"
+},
+{
+"text": "Hawai'i Firefighters Association",
+"href": "https://www.lukeevslin.com/endorsements/2018/6/17/hawaii-firefighters-association"
+},
+{
+"text": "Hawai'i Government Employees Association",
+"href": "https://www.lukeevslin.com/endorsements/2018/6/17/hawaii-government-employees-association"
+},
+{
+"text": "Hawai'i Lodging and Tourism Association",
+"href": "https://www.lukeevslin.com/endorsements/2018/9/10/hawaii-lodging-and-tourism-association"
+},
+{
+"text": "Home",
+"href": "https://www.lukeevslin.com/"
+},
+{
+"text": "ILWU Local 142",
+"href": "https://www.lukeevslin.com/endorsements/2018/5/14/ilwu-local-142"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/levslin/"
+},
+{
+"text": "Issues",
+"href": "https://www.lukeevslin.com/opportunities"
+},
+{
+"text": "Luke Evslin",
+"href": "https://www.lukeevslin.com/endorsements?author=567337ffc647ad862c4e9028"
+},
+{
+"text": "Planned Parenthood",
+"href": "https://www.lukeevslin.com/endorsements/2018/9/10/planned-parenthood"
+},
+{
+"text": "Run For Something",
+"href": "https://www.lukeevslin.com/endorsements/2018/3/2/run-for-something"
+},
+{
+"text": "SHOPO",
+"href": "https://www.lukeevslin.com/endorsements/2018/6/3/shopo"
+},
+{
+"text": "Sabra Kauka",
+"href": "https://www.lukeevslin.com/endorsements/2018/1/23/sabra-kauka"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/LukeEvslin"
+},
+{
+"text": "United Public Workers",
+"href": "https://www.lukeevslin.com/endorsements/2018/6/17/united-public-workers"
+},
+{
+"text": "[image: Luke Evslin]",
+"href": "https://www.lukeevslin.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/levslin"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/Evslin"
+},
+{
+"text": "[no text]",
+"href": "https://www.lukeevslin.com/search"
+},
+{
+"text": "[no text]",
+"href": "mailto:luke@lukeevslin.com"
+}
 ]

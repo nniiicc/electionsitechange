@@ -1,4 +1,2 @@
-Campaign Trail
-Follow along as we embark on the 2026 campaign trail toward earning your vote for Kansas House District 98.
-Paid for by Erika Lewis for Kansas Treasurer: Christine Pruitt
-Powered by CampaignPartner.com - Political Campaign Websites
+Home Meet Erika Photos Issues Contribute Volunteer Yard Signs Contact Campaign Trail Follow along as we embark on the 2026 campaign trail toward earning your vote for Kansas House District 98.
+Meet Erika Issues Photos Volunteer Yard Signs Contact Contribute Privacy (316) 247-2255 PO Box 28, Haysville, KS 67060 Paid for by Erika Lewis for Kansas Treasurer: Christine Pruitt Powered by CampaignPartner.com - Political Campaign Websites Home Meet Erika Issues Volunteer Yard Signs Contact Contribute Close Menu

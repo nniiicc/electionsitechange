@@ -1,16 +1,16 @@
-Remember to vote for judges!
+Home About Paul News Social Media Feed Social Share FAQs Join Contribute Select Page Remember to vote for judges!
 Click to request your mail-in ballot today.
-Justice Paul Thissen
-Making Sure Our Courts
-Work for Everyone
-a note from paul
-I am so honored that Minnesotans have placed their trust in me to continue to serve as an Associate Justice on the Minnesota Supreme Court.
+Justice Paul Thissen Making Sure Our Courts Work for Everyone a note from paul I am so honored that Minnesotans have placed their trust in me to continue to serve as an Associate Justice on the Minnesota Supreme Court.
 I look forward to continuing to work hard to make sure our courts are fair, that the rule of law and individual rights are protected, and that every litigant has a meaningful chance to have his or her voice heard.
 Equal justice for all is at the heart of our American project and we all have a stake and a role in making it a reality.
 From the beginning, our campaign was committed to connecting with Minnesotans in all corners of our state and engaging with them on why our courts are important in their lives and the lives of their family and neighbors.
 It is work we need to continue together.
 Again, thank you for your support and your trust!
-Paul Thissen
-Stay in Touch
-Contact
-Minnesotans for Justice Paul Thissen
+Paul Thissen Don’t forget the Minnesota Supreme Court race on the back of the ballot.
+Here’s who’s running.
+Read the full article here: https://www.twincities.com/2020/10/23/dont-forget-the-minnesota-supreme-court-race-on-the-back-of-the-ballot-heres-whos-running/ Read More KAXE: Meet Supreme Court Justice Paul Thissen Running For His First Election After Appointment in 2018 Read full article here: https://www.kaxe.org/post/meet-supreme-court-justice-paul-thissen-running-his-first-election-after-appointment-2018#stream/0 Read More KMRS/KKOK: COMMUNITY CONNECTION WITH ASSOCIATE JUSTICE PAUL THISSEN View full article here: http://kmrskkok.com/2020/10/21/community-connection-with-associate-justice-paul-thissen/ Read More StarTribune: Elect Paul Thissen in Minnesota’s only statewide judicial race.
+Read Endorsement here: http://strib.mn/3nXeNvy Read More Justice Thissen Endorsement Letter October 16, 2020 To the Voters of Minnesota: Justice Thissen is without question the most qualified candidate running for the Minnesota State Supreme Court and I endorse him for that high office.
+In a professional capacity I have known Paul Thissen since 2004 where we...
+Read More INFORUM Endorsement: Thissen for Minnesota Supreme Court Read the full article here: https://www.inforum.com/opinion/editorials/6716749-Endorsement-Thissen-for-Minnesota-Supreme-Court Read More Justice Thissen serves with integrity, thoughtfulness Read full article here: https://www.mankatofreepress.com/opinion/letters_to_the_editor/justice-thissen-serves-with-integrity-thoughtfulness/article_1e5b7e76-073e-11eb-a90e-1799c28ea2ce.html Read More October 3rd | Cafe Libre | Paul Thissen | Minnesota Supreme Court Read More Minnesota Supreme Court Incumbent’s View: Return sound judgment, valuable experience to the court Read Full Article: https://www.duluthnewstribune.com/opinion/columns/6691182-Minnesota-Supreme-Court-Incumbents-View-Return-sound-judgment-valuable-experience-to-the-court Read More Why Paul Thissen isn’t waging a normal campaign for Minnesota Supreme Court Read here: https://www.minnpost.com/state-government/2020/09/why-paul-thissen-isnt-waging-a-normal-campaign-for-minnesota-supreme-court/ Read More Stay in Touch Email Sign Up Contact info@paulthissen.com Minnesotans for Justice Paul Thissen P.O.
+Box 235 2038 Ford Parkway St Paul, MN 55116 Follow Follow Follow Prepared and Paid for by Minnesotans for Justice Paul Thissen, 4427 Fremont Ave S., Minneapolis, MN 55419 .
+Privacy Policy

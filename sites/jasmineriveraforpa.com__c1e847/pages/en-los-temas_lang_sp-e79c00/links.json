@@ -1,14 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61557782829550",
-"https://jasmineriveraforpa.com/",
-"https://jasmineriveraforpa.com/?lang=sp",
-"https://jasmineriveraforpa.com/conocer-a-la-candidata?lang=sp",
-"https://jasmineriveraforpa.com/contacto?lang=sp",
-"https://jasmineriveraforpa.com/donar?lang=sp",
-"https://jasmineriveraforpa.com/d\ufffdnde-votar?lang=sp",
-"https://jasmineriveraforpa.com/en-los-temas?lang=sp",
-"https://jasmineriveraforpa.com/eventos-publicos?lang=sp",
-"https://jasmineriveraforpa.com/registro-de-votantes?lang=sp",
-"https://jasmineriveraforpa.com/voluntario?lang=sp",
-"https://sunkentreasuredesign.com/"
+{
+"text": "Conocer a la candidata",
+"href": "https://www.jasmineriveraforpa.com/conocer-a-la-candidata?lang=sp"
+},
+{
+"text": "Contacto",
+"href": "https://www.jasmineriveraforpa.com/contacto?lang=sp"
+},
+{
+"text": "Donar",
+"href": "https://www.jasmineriveraforpa.com/donar?lang=sp"
+},
+{
+"text": "D�nde Votar",
+"href": "https://www.jasmineriveraforpa.com/d%EF%BF%BDnde-votar?lang=sp"
+},
+{
+"text": "En Los Temas",
+"href": "https://www.jasmineriveraforpa.com/en-los-temas?lang=sp"
+},
+{
+"text": "Eventos publicos",
+"href": "https://www.jasmineriveraforpa.com/eventos-publicos?lang=sp"
+},
+{
+"text": "Hogar",
+"href": "https://www.jasmineriveraforpa.com/?lang=sp"
+},
+{
+"text": "Reg de Votantes",
+"href": "https://www.jasmineriveraforpa.com/registro-de-votantes?lang=sp"
+},
+{
+"text": "Sunken Treasure Design",
+"href": "https://www.sunkentreasuredesign.com"
+},
+{
+"text": "Ver en ingles",
+"href": "https://www.jasmineriveraforpa.com/"
+},
+{
+"text": "Voluntario",
+"href": "https://www.jasmineriveraforpa.com/voluntario?lang=sp"
+},
+{
+"text": "[tooltip: Email Us]",
+"href": "mailto:Jasmineriveraforpa@gmail.com"
+},
+{
+"text": "[tooltip: FaceBook]",
+"href": "https://www.facebook.com/profile.php?id=61557782829550"
+}
 ]

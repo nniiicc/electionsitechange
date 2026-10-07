@@ -1,11 +1,42 @@
 [
-"https://electjenniferbacon.com/",
-"https://electjenniferbacon.com/about-1",
-"https://electjenniferbacon.com/copy-of-priorities",
-"https://electjenniferbacon.com/platform",
-"https://electjenniferbacon.com/volunteer",
-"https://facebook.com/baconforco",
-"https://linkedin.com/in/jennifer-bacon-303",
-"https://secure.actblue.com/donate/bacon-for-co-1",
-"https://twitter.com/baconforco"
+{
+"text": "BACONFORCOLORADO@GMAIL.COM",
+"href": "mailto:BACONFORCOLORADO@GMAIL.COM"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bacon-for-co-1"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.electjenniferbacon.com/volunteer"
+},
+{
+"text": "HOME",
+"href": "https://www.electjenniferbacon.com"
+},
+{
+"text": "HOUSE DISTRICT 7",
+"href": "https://www.electjenniferbacon.com/about-1"
+},
+{
+"text": "LEGISLATION",
+"href": "https://www.electjenniferbacon.com/copy-of-priorities"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.electjenniferbacon.com/platform"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/baconforco"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/baconforco/"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/jennifer-bacon-303/"
+}
 ]

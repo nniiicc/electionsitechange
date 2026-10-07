@@ -1,16 +1,86 @@
 [
-"https://facebook.com/MollyBuckForAnkeny",
-"https://instagram.com/mollybuck4ankeny",
-"https://maps.legis.wisconsin.gov/Home/SingleEmbed?house=a&district=61",
-"https://mollybuckforankeny.com/",
-"https://mollybuckforankeny.com/_files/ugd/bb9d6e_f191953cf87b435c90341b0ec2e8b380.pdf",
-"https://mollybuckforankeny.com/about",
-"https://mollybuckforankeny.com/get-involved",
-"https://mollybuckforankeny.com/issues",
-"https://mollybuckforankeny.com/privacy-policy",
-"https://myvote.wi.gov/en-us",
-"https://secure.actblue.com/donate/brian-bock-1",
-"https://secure.actblue.com/donate/mollybuck",
-"https://voterready.iowa.gov/",
-"https://x.com/MollyForAnkeny"
+{
+"text": "About",
+"href": "https://www.mollybuckforankeny.com/about"
+},
+{
+"text": "Click this link",
+"href": "https://voterready.iowa.gov/"
+},
+{
+"text": "Click this link",
+"href": "https://www.mollybuckforankeny.com/_files/ugd/bb9d6e_f191953cf87b435c90341b0ec2e8b380.pdf"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mollybuckforankeny.com/get-involved"
+},
+{
+"text": "Iowa Voter Information",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "Issues",
+"href": "https://www.mollybuckforankeny.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://www.mollybuckforankeny.com/get-involved"
+},
+{
+"text": "Learn More",
+"href": "https://www.mollybuckforankeny.com/issues"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/brian-bock-1"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/mollybuck"
+},
+{
+"text": "Map of Iowa House District 41",
+"href": "https://maps.legis.wisconsin.gov/Home/SingleEmbed/?house=a&district=61"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.mollybuckforankeny.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://www.mollybuckforankeny.com/about"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MollyBuckForAnkeny"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mollybuck4ankeny/"
+},
+{
+"text": "[image: Molly Buck for Iowa House - District 41 - Campaign logo]",
+"href": "https://www.mollybuckforankeny.com"
+},
+{
+"text": "[image: Please vote for Molly Buck in the November 2026 election]",
+"href": "https://secure.actblue.com/donate/brian-bock-1"
+},
+{
+"text": "[image: Screenshot 2026-07-24 at 2.31.30 PM.png]",
+"href": "https://maps.legis.wisconsin.gov/Home/SingleEmbed/?house=a&district=61"
+},
+{
+"text": "[image: Vote Buttons Display]",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/MollyForAnkeny"
+},
+{
+"text": "clicking this link.",
+"href": "https://secure.actblue.com/donate/mollybuck"
+}
 ]

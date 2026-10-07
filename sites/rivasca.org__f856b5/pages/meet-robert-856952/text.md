@@ -1,8 +1,8 @@
-Speaker Robert Rivas was first elected to the State Assembly in 2018.
+Robert Rivas Home Meet Robert Getting Results Affordable Future Endorsements Join the Campaign Shop Donate Robert Rivas Meet Robert Speaker Robert Rivas was first elected to the State Assembly in 2018.
 During his first term, he was appointed as the Chair of the Assembly Agriculture Committee and elected as Vice-Chair of the influential Latino Legislative Caucus.
 A lifelong resident of the 29th Assembly District, Rivas previously served two terms on the San Benito County Board of Supervisors prior to becoming an Assemblymember.
 Rivas was raised in Paicines, California, where his grandfather was a farmworker at Almaden Vineyards.
-Rivas and his brother grew up in farmworker housing, cared for by their single mother and beloved grandparents, who emigrated from Mexico in the 1960s in search of the California Dream.
+Rivas and his brother grew up in farmworker housing, cared for by their single mother and beloved grandparents, who emigrated from Mexico in the #s in search of the California Dream.
 As a child, Rivas watched his grandfather stand side-by-side with Dolores Huerta and the UFW as a leader in the fight to win fair contracts for farmworkers.
 Rivas’ grandfather was known for his passionate advocacy on behalf of his fellow workers, but also for his ability to work with owners to negotiate contracts acceptable to both sides.
 Through his grandfather, Rivas learned that you could fight fiercely for your beliefs, while respecting those with whom you disagreed.
@@ -16,4 +16,5 @@ Further, Rivas has led efforts to accelerate the construction of renewable energ
 Rivas attended local public schools in San Juan Bautista and Hollister.
 He graduated with a Bachelor’s Degree in Government from CSU Sacramento and later earned a Master’s in Public Administration from San Jose State University.
 Speaker Rivas lives in Hollister with his wife Christen, where they are raising their children.
-Download Robert Rivas headshot (JPG)
+Download Robert Rivas headshot (JPG) Download Robert Rivas biography (PDF) Robert Rivas Donate Home Meet Robert Getting Results Affordable Future Endorsements Join the Campaign Shop Contact Accessibility Privacy Policy Disclaimer Paid for by Robert Rivas for Assembly 2026 P.O.
+Box 2385, Salinas, CA 93902

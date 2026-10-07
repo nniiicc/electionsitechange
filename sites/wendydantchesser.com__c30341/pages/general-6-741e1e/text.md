@@ -1,52 +1,14 @@
-In the news, on the trail.
+top of page About Priorities News Donate Get Involved Media More Use tab to navigate through the menu items.
+In the news, on the trail .
 See moments from out in our community, hear me talk about day-to-day life as your State Representative, and get to know the people behind this campaign.
-Press coverage
-Recent reporting on Rep.
+Press coverage Recent reporting on Rep.
 Dant Chesser's work at the Statehouse and across District 71.
-THE NEWS AND TRIBUNE
-Hoosiers talk disability-related issues at INSILC town hall with Clere, Dant Chesser
-March 31, 2026
-WAVE 3
-Indiana State representative holds town hall recapping 2026 legislative session
-Mar 7, 2026
-WDRB
-Indiana legislative session wraps up with Medicaid reform, bans camping on state property
-February 27, 2026
-THE NEWS AND TRIBUNE
-Dant Chesser previews 2026 legislation at child care town hall
-December 9, 2025
-Read the story →
-WDRB
-Indiana's proposed redistricting map draws fire for favoring Republicans
-December 2, 2025
-THE NEWS AND TRIBUNE
-Indiana doesn't need division, we need solutions
-November 20, 2025
-THE NEWS AND TRIBUNE
-Rep.
-Dant Chesser facilitates town hall on Second Street Bridge safety
-July 16, 2025
-LOUISVILLE PUBLIC MEIDA
-Dant Chesser wins to keep the Indiana House District 71 seat
-November 6, 2024
-Conversations on the record
-Longer-form discussions about life at the Statehouse, the issues facing District 71, and the road ahead.
-INDIANAPOLIS BUSINESS JOURNAL
-New diploma requirements will challenge business owners
-August 2, 2024
-Read the story →
-LOUISVILLE BUSINESS FIRST
-Wendy Dant Chesser's plan?
-"Protect what we've built."
-June 28, 2024
-Read the story →
-WHAS 11
-Indiana officials putting pressure on RiverLink to improve service
-September 11, 2024
-Read the story →
-THE POLITICAL DOULA PODCAST
-Interview with Rep.
-Wendy Dant Chesser
-February 1, 2025
-Out in the community
-Moments from events, conversations, door-knocks, and the everyday work of representing District 71.
+THE NEWS AND TRIBUNE Hoosiers talk disability-related issues at INSILC town hall with Clere, Dant Chesser March 31, 2026 Read the story → WAVE 3 Indiana State representative holds town hall recapping 2026 legislative session Mar 7, 2026 Read the story → WDRB Indiana legislative session wraps up with Medicaid reform, bans camping on state property February 27, 2026 Read the story → THE NEWS AND TRIBUNE Dant Chesser previews 2026 legislation at child care town hall December 9, 2025 Read the story → WDRB Indiana's proposed redistricting map draws fire for favoring Republicans December 2, 2025 Read the story → THE NEWS AND TRIBUNE Indiana doesn't need division, we need solutions November 20, 2025 Read the story → THE NEWS AND TRIBUNE Rep.
+Dant Chesser facilitates town hall on Second Street Bridge safety July 16, 2025 Read the story → THE NEWS AND TRIBUNE Dant Chesser to hold public safety town halls July 9, 2026 Read the story → LOUISVILLE PUBLIC MEIDA Dant Chesser wins to keep the Indiana House District 71 seat November 6, 2024 Read the story → Conversations on the record Longer-form discussions about life at the Statehouse, the issues facing District 71, and the road ahead.
+THE NEWS AND TRIBUNE General Election Voters Guide October 4, 2024 Read the story → LOUISVILLE PUBLIC MEDIA Indiana Rep.
+Wendy Dant Chesser reflects on 90 days in office September 11, 2024 Read the story → INDIANA CAPITAL CHRONICLE Wendy Dant Chesser selected to fill vacated House seat May 30, 2024 Read the story → INDIANAPOLIS BUSINESS JOURNAL New diploma requirements will challenge business owners August 2, 2024 Read the story → LOUISVILLE BUSINESS FIRST Wendy Dant Chesser's plan?
+"Protect what we've built." June 28, 2024 Read the story → WHAS 11 Indiana officials putting pressure on RiverLink to improve service September 11, 2024 Read the story → WFYI PUBLIC MEDIA Indiana Lawmakers 2025 | Infrastructure March 28, 2025 Watch on YouTube → IPBS Wendy Dant Chesser, District 71 (D) September 3, 2024 Listen on Apple Podcasts → THE POLITICAL DOULA PODCAST Interview with Rep.
+Wendy Dant Chesser February 1, 2025 Watch on YouTube → 88.1 WNAS Interview with Rep.
+Wendy Dant Chesser October 3, 2024 Watch on YouTube → Out in the community Moments from events, conversations, door-knocks, and the everyday work of representing District 71.
+Wendy Dant Chesser STATE REP · DISTRICT 71 Working every day for the families, workers, and small businesses of Clark and Floyd Counties and Southern Indiana.
+SITE About Wendy Priorities In the news TAKE ACTION Volunteer Donate Newsletter Sign-Up CONTACT wendyfor71@gmail.com Jeffersonville, IN Get involved Paid for by Friends of Wendy Dant Chesser Need state help? © # · All rights reserved bottom of page

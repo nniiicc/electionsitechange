@@ -1,7 +1,11 @@
 {
  "description": "Melissa Lindsey Campaign Events",
  "final_url": "https://www.lindseyforsenatect.com/Events?range=2026-10-06",
+ "fingerprint": "e3fc83b3f4350e96b84990aaadcee87bf05dec8b",
+ "format": 3,
  "paid_for_by": "Paid for by Lindsey for Senate, Dustin Bingham Treasurer",
  "title": "Melissa Lindsey Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

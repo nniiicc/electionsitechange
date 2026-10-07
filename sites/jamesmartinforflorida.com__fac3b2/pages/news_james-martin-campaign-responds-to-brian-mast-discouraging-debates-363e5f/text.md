@@ -1,13 +1,15 @@
-PRESS RELEASE
-James Martin Campaign Responds to Brian Mast Discouraging Debates
-HOBE SOUND — Following a well-attended, untelevised candidate forum hosted by Florida180 in Palm Beach Gardens on Sunday, March 22, Brian Mast showed his support for the one candidate that didn’t participate in the forum, Pia Dandiya, and voiced his vexation with public debates.
-Mast shared on X:
-“I talk to people in our community every day and have held dozens upon dozens of town halls and forums.
+Skip navigation menu MEET JAMES ISSUES Endorsements NEWS & PRESS Volunteer Donate MEET JAMES ISSUES Endorsements NEWS & PRESS Volunteer Donate PRESS RELEASE James Martin Campaign Responds to Brian Mast Discouraging Debates PRESS RELEASE Former Arabian Gulf Coast Guard Vet, James Martin, Releases Statement on Today’s Air Strikes PRESS RELEASE James Martin for Congress Unveils Anti-Corruption Policy Platform, “Ending Insider Privilege” PRESS RELEASE Veterans for Responsible Leadership Endorses James Martin for Congress PRESS RELEASE Martin Earns Local Endorsements from Community Leaders PRESS RELEASE ICYMI: James Martin Calls Out Administration’s “Reckless and Unlawful” Caribbean Airstrikes in Appearances on Newsmax, MeidasTouch, Scripps News and Courier Newsroom PRESS RELEASE James Martin Calls On Rep.
+Mast, House Foreign Affairs Committee Chair, to Launch Formal Investigation Into Hegseth’s Illegal Airstrikes on Venezuelan Vessels PRESS RELEASE Coast Guard Veteran James Martin Raises Over $150K in First 24 hours PRESS RELEASE Coast Guard Veteran James Martin Announces Run for Florida’s 21st Congressional District PRESS RELEASE Coast Guard Veteran James Martin Endorsed by Vice President Kamala D.
+Harris in Race for Congress NEWS ARTICLE The Palm Beach Post Endorses James Martin PRESS RELEASE James Martin Launches Town Hall Series Across the District PRESS RELEASE James Martin Surges Ahead in Poll Against MAGA Rep.
+Brian Mast Mar 23 2026 PRESS RELEASE James Martin Campaign Responds to Brian Mast Discouraging Debates HOBE SOUND — Following a well-attended, untelevised candidate forum hosted by Florida180 in Palm Beach Gardens on Sunday, March 22, Brian Mast showed his support for the one candidate that didn’t participate in the forum, Pia Dandiya, and voiced his vexation with public debates.
+Mast shared on X: “I talk to people in our community every day and have held dozens upon dozens of town halls and forums.
 I agree with @PiaforCongress that staged debates aren’t a useful part of the campaign process anymore.
-I’d rather talk to actual voters than perform for a moderator to boost TV ratings or social media views.”
-One of the top complaints heard in Florida's 21st Congressional District is that incumbent, Brian Mast, does not face his constituents nearly enough, and it is telling that he is encouraging candidates to skip candidate forums and public debates in the Democratic primary to unseat him.
+I’d rather talk to actual voters than perform for a moderator to boost TV ratings or social media views.” One of the top complaints heard in Florida's 21st Congressional District is that incumbent, Brian Mast, does not face his constituents nearly enough, and it is telling that he is encouraging candidates to skip candidate forums and public debates in the Democratic primary to unseat him.
 James Martin strongly believes in the power of the democratic process, and that forums and debates are a crucial part of selecting the best candidate to face Republican incumbent Brian Mast come November.
 “If you’re the best candidate who can help Floridians from rising costs and are ready to create policies that increase prosperity, then prove it,” Martin responds.
 Brian Mast constantly ducks his constituents because he does not want to be held accountable for: skyrocketing costs, a war of choice, stripping healthcare from thousands along with many of the other unpopular policies of the Trump administration that he cheerleads daily.
 James Martin formally invites Brian Mast to participate in a public debate so that constituents can have the ability to choose for themselves who they think the best candidate is to represent the Treasure Coast.
-###
+### If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
+Box 55 Hobe Sound, FL 33475 James Martin is a Lt.
+Commander in the United States Coast Guard Reserve.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the United States Coast Guard or the Department of Defense. campaign@jamesmartinforflorida.com Paid for by Martin For Florida You need to enable JavaScript to run this app.

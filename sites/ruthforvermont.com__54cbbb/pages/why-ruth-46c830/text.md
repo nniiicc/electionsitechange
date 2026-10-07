@@ -1,4 +1,4 @@
-When I ran for state senate in 2018, I wrote the commitments below.
+Skip to content Ruth for Vermont Senator Ruth Hardy for Addison District Menu Meet Ruth Updates Endorsements Get Email Updates Legislation Commitments En Español Contribute Commitments When I ran for state senate in 2018, I wrote the commitments below.
 Over the past eight years, as I’ve been serving as your senator, I have re-read these commitments many times to make sure I’m upholding them.
 I believe I have, and I hope you do too.
 I am again asking for your support, your vote, and your trust.
@@ -17,15 +17,16 @@ Visitors at the Statehouse are always welcome, and so is a meet-up at your local
 I am committed to doing my homework so I understand the issues, and the pros and cons of taking action.
 I love to do research, talk through options, and analyze policy implications so I can make informed decisions.
 I am committed to showing up.
-I know that showing up matters.
+I know that showing up matters .
 Not only will I be in Montpelier to vote and represent our community, but I will be in our towns at important events, celebrations, and meetings.
 I can’t be everywhere, but I will do my best to be where I’m needed most.
 I am committed to learning.
 I don’t have all the answers.
 I will ask a lot of questions and be eager to learn.
 I love good discussion and working toward compromise and solutions that work for everyone.
-I am committed to being honest with you.
+I am committed to being honest with you .
 We will not always agree, but I will hear you out.
-When I make mistakes, I will learn from them.
+When I make mistakes, I will learn from them .
 I will not be perfect, but I will do my best.
 You can count on me to continue to work hard for you.
+Header Photo Credit: Colette Kulig Photography Facebook Instagram Recent Posts Everywhere, All of the Time Setting the record straight about my work Vergennes Opera House All Access Project Search for: Follow Ruth for Vermont on WordPress.com Follow Us Facebook Instagram Paid for by Ruth Hardy for Vermont Senate | PO Box 343 | East Middlebury, VT 05740 Create a website or blog at WordPress.com Subscribe

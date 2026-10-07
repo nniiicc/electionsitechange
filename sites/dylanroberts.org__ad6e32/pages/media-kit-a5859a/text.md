@@ -1,5 +1,1 @@
-Make Your Plan to Vote
-Downloadable Bio
-Headshot
-For press inquires please email: SenatorDylanRoberts@gmail.com
-Campaign E-mail: dylan@dylanroberts.org
+Skip to main content Make Your Plan to Vote Capitol Phone: (303) 866-4871 Legislative E-Mail: Dylan.Roberts.Senate@coleg.gov Campaign E-mail: Dylan@DylanRoberts.org Home About Me Murphy Media Kit Issues Affordable Housing & Cost of Living Water, Wildfire, Agriculture, Environment Jobs and Economy Healthcare Education Transportation and Infrastructure Latest News Legislative Roundup Senate District 8 Home About Me Murphy Media Kit Issues Affordable Housing & Cost of Living Water, Wildfire, Agriculture, Environment Jobs and Economy Healthcare Education Transportation and Infrastructure Latest News Legislative Roundup Senate District 8 CONTRIBUTE MEDIA KIT Downloadable Bio Headshot For press inquires please email: SenatorDylanRoberts@gmail.com Campaign E-mail: dylan@dylanroberts.org Click Here for Videos Click Here for Photos About Dylan On the Issues Legislative Roundup Contribute Facebook Twitter Instagram dylan@dylanroberts.org (970) 846-3054 Mailing address: PO Box 3542 Eagle, CO 81631 Paid for by Dylan Roberts for Colorado Registered Agent: Dylan Roberts E-mail: SenatorDylanRoberts@gmail.com Cell: (970) 846-3054

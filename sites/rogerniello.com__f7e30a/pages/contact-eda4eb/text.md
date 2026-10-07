@@ -1,2 +1,1 @@
-Contact Instagram This field is for validation purposes and should be left unchanged.
-Name* Email* Message* Δ Roger Niello for Senate 2026 FPPC ID: 1457495 PO Box 981415 West Sacramento, CA 95799 FPPC ID: 1457495
+Skip to content Menu Home About Issues Endorsements Gallery Contact Menu Home About Issues Endorsements Gallery Contact Contact Roger Niello for Senate 2026 FPPC ID: 1457495 PO Box 981415 West Sacramento, CA 95799 FPPC ID: 1457495 Paid for by Roger Niello for Senate 2026 FPPC ID: 1457495 Privacy Policy | Terms & Conditions Scroll To Top

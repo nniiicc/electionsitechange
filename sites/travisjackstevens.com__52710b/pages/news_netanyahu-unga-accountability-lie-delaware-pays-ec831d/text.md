@@ -1,22 +1,21 @@
-At the U.N., Netanyahu Called Accountability a Lie.
+Home About Platform News Contact Volunteer Donate Write-In Candidate Travis Jack Stevens is running as a qualified write-in candidate for U.S.
+Senate.
+His name won't be on the ballot — write it in on November 3, 2026.
+How to Vote → At the U.N., Netanyahu Called Accountability a Lie.
 Delaware Still Pays.
-Dear Delaware,
-Thursday night.
-Benjamin Netanyahu stood at the United Nations General Assembly and called the accusation of genocide in Gaza "the greatest lie of the century."
-I will say this plainly, because sugarcoating is how forever war survives: I hate what the Netanyahu regime has done.
+Back to News & Updates Letter At the U.N., Netanyahu Called Accountability a Lie.
+Delaware Still Pays. • Thursday, September 24, 2026 • 5 min read Dear Delaware, Thursday night.
+Benjamin Netanyahu stood at the United Nations General Assembly and called the accusation of genocide in Gaza "the greatest lie of the century." I will say this plainly, because sugarcoating is how forever war survives: I hate what the Netanyahu regime has done.
 I hate what the Trump regime has enabled.
 That is not cable heat.
 That is a nurse looking at a chart and refusing to pretend the numbers are fine.
-Corruption in the suit
-While Netanyahu lectures the planet about morality, he remains a criminal defendant in Israel's own courts - charged with bribery, fraud, and breach of trust in a trial that has dragged on for years.
+Corruption in the suit While Netanyahu lectures the planet about morality, he remains a criminal defendant in Israel's own courts - charged with bribery, fraud, and breach of trust in a trial that has dragged on for years.
 There is no verdict yet.
 I will not invent one.
 But I will not pretend a man fighting those charges is a clean messenger of democracy while he demands blank checks and applause.
-Gaza - what the law has already done, and what I judge
-I call what has been done to Gaza a genocide.
+Gaza - what the law has already done, and what I judge I call what has been done to Gaza a genocide.
 That is my moral and political judgment.
-Here is what the courts have actually done - nothing more, nothing less:
-The International Court of Justice, in South Africa's case against Israel, ordered provisional measures under the Genocide Convention in 2024.
+Here is what the courts have actually done - nothing more, nothing less: The International Court of Justice, in South Africa's case against Israel, ordered provisional measures under the Genocide Convention in 2024.
 It has not issued a final judgment finding genocide.
 That case is still unfinished.
 The International Criminal Court issued arrest warrants on November 21, 2024, for Netanyahu and former Defense Minister Yoav Gallant for alleged war crimes and crimes against humanity - including starvation as a method of warfare.
@@ -29,13 +28,11 @@ The IPC warns that more than 1.4 million people in Gaza still face Crisis-or-wor
 Gains after the October 2025 ceasefire are fragile.
 October 7, 2023, was a massacre - about 1,200 Israelis killed, hostages taken.
 Naming that truth does not erase the rubble, the starved wards, or the children who never got a chart.
-Today's speech - theater for a man under a warrant
-Al Jazeera, the BBC, and the Associated Press report that dozens - scores - of delegates walked out as Netanyahu took the podium.
+Today's speech - theater for a man under a warrant Al Jazeera, the BBC, and the Associated Press report that dozens - scores - of delegates walked out as Netanyahu took the podium.
 A majority of seats sat empty.
 The Assembly president called for order.
 Netanyahu's answer was not humility.
-It was contempt: "If there are any other moral cowards who haven't left this hall, please do so now."
-He called striking Iran "one of the easiest decisions" he has ever made as prime minister.
+It was contempt: "If there are any other moral cowards who haven't left this hall, please do so now." He called striking Iran "one of the easiest decisions" he has ever made as prime minister.
 He thanked Donald Trump as his "greatest partner." Outside, protesters gathered.
 Jewish Voice for Peace and others demanded an end to U.S. arming.
 Actresses Susan Sarandon and Hannah Einbinder were among those detained near the United Nations, according to the BBC and Al Jazeera.
@@ -44,8 +41,7 @@ The empty seats and the handcuffs are already on the record.
 Meanwhile, the Trump administration denied a visa to Palestinian President Mahmoud Abbas - again - so the occupied spoke by video while the man with an ICC warrant got the marble podium.
 That is not diplomacy.
 That is a double standard with a security badge.
-The partnership that writes the check
-I hate this partnership because Delawareans pay for it.
+The partnership that writes the check I hate this partnership because Delawareans pay for it.
 Netanyahu stood at that podium and called Trump his greatest partner.
 Wire coverage this week says Washington did not even clear a meeting with him.
 Either way, U.S. weapons, vetoes, and pressure on the International Criminal Court have been the cover for this regime for years.
@@ -65,6 +61,29 @@ No outside special-interest money.
 Ever.
 Forty days.
 On November 3, write TRAVIS JACK STEVENS.
-With gratitude and determination,
-Travis Jack Stevens Write-in candidate for U.S.
-Senate · Delaware travisjackstevens.com
+With gratitude and determination, Travis Jack Stevens Write-in candidate for U.S.
+Senate · Delaware travisjackstevens.com Share this article Help spread the word — every share reaches a voter.
+Facebook X Bluesky LinkedIn Copy link Explore Topics # Netanyahu # UNGA # Gaza # ICC # ICJ # accountability # forever war # Delaware # Travis Jack Stevens # write-in # United Nations Related Posts News Empty Seats, Open Warrant - What Netanyahu Left on the Record at the U.N.
+Thursday at the United Nations, Benjamin Netanyahu got the marble podium.
+Scores of delegates walked out.
+A majority of seats sat empty.
+His answer was not humility.
+It was contempt.
+Sep 24, 2026 • 3 min read # Netanyahu # UNGA # Gaza Letter SPECIAL REPORT - UNGA 81: Walkouts, Warnings, and a Reason Not to Wait World leaders met in New York for UNGA 81: walkouts, warnings over Iran and AI, and still no Hormuz deal while Delaware diesel hits a record.
+I close with Dutch PM Rob Jetten's reminder that we don't have to wait another minute to change the world.
+Sep 27, 2026 • 5 min read # UNGA 81 # United Nations # Guterres Letter Day 107 - Tehran Holds the Line, Delaware Diesel Sets Another Record AAA puts Delaware diesel at $6.4466 a gallon, another record.
+Tehran says its Hormuz conditions stand and no formal U.S. answer has been delivered.
+# days to November 3.
+Sep 27, 2026 • # min read # Day 107 # Delaware # diesel prices Stay Informed Get Campaign Updates News and ways to get involved — straight to your inbox.
+Subscribe People-funded.
+No Super PAC.
+No AI or tech money.
+Accountability, an end to forever wars, real rules for AI, and health care and housing for all.
+On November 3, write TRAVIS JACK STEVENS.
+Campaign Home About Platform Volunteer Contact Donate Get Involved Ready to make a difference?
+Join our campaign today and help build a better Delaware.
+Join the Campaign © 2026 Travis Jack Stevens for U.S.
+Senate.
+All rights reserved.
+Paid for by Travis Jack Stevens for U.S.
+Senate

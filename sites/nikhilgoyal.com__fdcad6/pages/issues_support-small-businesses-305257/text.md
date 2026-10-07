@@ -1,6 +1,6 @@
-Support Our Small Businesses and Entrepreneurs
-Small businesses are the lifeblood of our economy.
+Skip navigation menu Home Meet Nikhil Issues Endorsements Volunteer Events Contact Donate Home Meet Nikhil Issues Endorsements Volunteer Events Contact Donate Protect and Strengthen Public Schools Universal Health Care for Vermonters Build Affordable Housing and Protect Tenants Defend Our Immigrant Neighbors Dignity for Older Vermonters Protect Our Environment Strengthen Public Safety and Tackle Gun Violence Support Public Transit Ban Social Media for Kids and Tax Big Tech and AI Support Our Small Businesses and Entrepreneurs Support Our Small Businesses and Entrepreneurs Small businesses are the lifeblood of our economy.
 Many are struggling to make ends meet amid rising health care costs, draconian Trump tariffs, and growing public safety issues.
 Nikhil’s health care proposals will help reduce costs for employers.
 He supports strengthening procurement policies to support local economies and making it easier for entrepreneurs to get capital to start businesses.
 He is also a strong critic of Amazon and other corporations that suppress competition and undermine small businesses and entrepreneurs.
+Email: info@nikhilgoyal.com If donating by mail, make checks payable to: Nikhil Goyal for Vermont | PO BOX 164 Burlington, VT 05402 Powered by RUN! website builder Paid for by Nikhil Goyal for Vermont You need to enable JavaScript to run this app.

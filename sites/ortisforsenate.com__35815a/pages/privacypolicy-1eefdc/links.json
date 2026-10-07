@@ -1,9 +1,42 @@
 [
-"https://adobe.com/products/flashplayer/security",
-"https://facebook.com/ortisforsenate",
-"https://instagram.com/ortisforsenate",
-"https://ortisforsenate.com/",
-"https://ortisforsenate.com/media",
-"https://ortisforsenate.com/privacypolicy",
-"https://secure.winred.com/ortis-for-senate/donate"
+{
+"text": "About",
+"href": "https://www.ortisforsenate.com"
+},
+{
+"text": "Contact",
+"href": "https://www.ortisforsenate.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/ortis-for-senate/donate"
+},
+{
+"text": "Home",
+"href": "https://www.ortisforsenate.com"
+},
+{
+"text": "Issues",
+"href": "https://www.ortisforsenate.com"
+},
+{
+"text": "Media",
+"href": "https://www.ortisforsenate.com/media"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ortisforsenate"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/ortisforsenate/"
+},
+{
+"text": "here",
+"href": "https://www.ortisforsenate.com/privacypolicy"
+},
+{
+"text": "http://www.adobe.com/products/flashplayer/security",
+"href": "https://www.adobe.com/products/flashplayer/security"
+}
 ]

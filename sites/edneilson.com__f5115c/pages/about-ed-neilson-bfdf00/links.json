@@ -1,19 +1,70 @@
 [
-"https://edneilson.com/",
-"https://edneilson.com/about-ed-neilson",
-"https://facebook.com/RepNeilson",
-"https://legis.state.pa.us/CFDocs/Legis/CSM/DisplayMemos.cfm?Chamber=H&SPick=20230&MemberID=1615",
-"https://linkedin.com/in/edward-neilson-26a6842",
-"https://pahouse.com/Neilson",
-"https://pahouse.com/Neilson/Help-Services/Constituent-Services",
-"https://pahouse.com/Neilson/InTheNews",
-"https://pahouse.com/Neilson/NewsCenter",
-"https://secure.ngpvan.com/eSbXHRiQk0CQMPt7FP9HhA2",
-"https://secure.ngpvan.com/eSbXHRiQk0CQMPt7FP9HhA2?am=100.00&contactdata=ContactData",
-"https://secure.ngpvan.com/eSbXHRiQk0CQMPt7FP9HhA2?am=15.00&contactdata=ContactData",
-"https://secure.ngpvan.com/eSbXHRiQk0CQMPt7FP9HhA2?am=25.00&contactdata=ContactData",
-"https://secure.ngpvan.com/eSbXHRiQk0CQMPt7FP9HhA2?am=250.00&contactdata=ContactData",
-"https://secure.ngpvan.com/eSbXHRiQk0CQMPt7FP9HhA2?am=5.00&contactdata=ContactData",
-"https://secure.ngpvan.com/eSbXHRiQk0CQMPt7FP9HhA2?am=50.00&contactdata=ContactData",
-"https://twitter.com/ed_neilson"
+{
+"text": "About Ed Neilson",
+"href": "https://edneilson.com/about-ed-neilson/"
+},
+{
+"text": "Bills I’ve Introduced",
+"href": "https://www.legis.state.pa.us/CFDocs/Legis/CSM/DisplayMemos.cfm?Chamber=H&SPick=20230&MemberID=1615"
+},
+{
+"text": "Constituent Services",
+"href": "https://www.pahouse.com/Neilson/Help-Services/Constituent-Services/"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.ngpvan.com/eSbXHRiQk0CQMPt7FP9HhA2?am=100.00&contactdata=ContactData"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.ngpvan.com/eSbXHRiQk0CQMPt7FP9HhA2?am=15.00&contactdata=ContactData"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.ngpvan.com/eSbXHRiQk0CQMPt7FP9HhA2?am=25.00&contactdata=ContactData"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.ngpvan.com/eSbXHRiQk0CQMPt7FP9HhA2?am=250.00&contactdata=ContactData"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.ngpvan.com/eSbXHRiQk0CQMPt7FP9HhA2?am=5.00&contactdata=ContactData"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.ngpvan.com/eSbXHRiQk0CQMPt7FP9HhA2?am=50.00&contactdata=ContactData"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.ngpvan.com/eSbXHRiQk0CQMPt7FP9HhA2"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/RepNeilson/"
+},
+{
+"text": "Home",
+"href": "https://edneilson.com/"
+},
+{
+"text": "Link",
+"href": "https://www.pahouse.com/Neilson/"
+},
+{
+"text": "Linkedin-in",
+"href": "https://www.linkedin.com/in/edward-neilson-26a6842/"
+},
+{
+"text": "News Center",
+"href": "https://www.pahouse.com/Neilson/NewsCenter"
+},
+{
+"text": "News Releases and Publications",
+"href": "https://www.pahouse.com/Neilson/InTheNews"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ed_neilson"
+}
 ]

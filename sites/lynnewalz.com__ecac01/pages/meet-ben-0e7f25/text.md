@@ -1,6 +1,4 @@
-Meet Ben
-Meet Lynne’s running mate for Lieutenant Governor
-Throughout his life, Ben Steffen has worked hard to leave his community a better place than he found it, serving in leadership roles in both his professional and faith communities.
+Skip to content Endorse Volunteer Donate Meet Ben Meet Lynne’s running mate for Lieutenant Governor Throughout his life, Ben Steffen has worked hard to leave his community a better place than he found it, serving in leadership roles in both his professional and faith communities.
 Ben grew up on his parent’s dairy farm near Humboldt in the southeast corner of our state.
 They instilled in him the values of hard-work, honesty, personal responsibility, and giving back to others.
 Ben is a proud farmer and business owner (President of Steffen Ag Inc), working alongside his wife, Paula Sue.
@@ -18,3 +16,5 @@ He led an effort to save his local nursing home when it was facing severe financ
 And he has directed the choir at his church, Humboldt United Methodist for 35 years.
 Ben is a graduate of UNL’s Institute of Agriculture and Natural Resources, earning honors in a Bachelor’s of Science degree in Ag Honors.
 He has been married to Paula Sue Steffen for over forty years.
+Help Lynne Bring Nebraska Together.
+Donate Volunteer Facebook Instagram X-twitter Facebook Instagram X-twitter Media inquires: press@lynnewalz.com Contact inquires: info@lynnewalz.com PAID FOR BY LYNNE WALZ FOR nebraska PO Box 241040 Omaha NE 68124 Meet Lynne Meet Ben Priorities Accomplishments Media Events Lynne’s Commitment Request a Yard Sign Meet Lynne Meet Ben Priorities Accomplishments Media Events Lynne’s Commitment Request a Yard Sign Endorse Volunteer Donate Facebook Instagram X-twitter

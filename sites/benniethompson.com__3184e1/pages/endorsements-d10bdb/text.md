@@ -1,11 +1,8 @@
-International Union of Bricklayers & Allied Craftworkers)
-LEAP Forward
-National Treasury Employees Union (NTEU)
-National Education Association
-National Association of Police Organizations
-Planned Parenthood Action Fund
-United Auto Worker (UAW)
-UNITE-HERE
-United Food & Commercial Workers
-NASW-PACE Endorsement Thompson MS-02
-ical action committee of the National Association of Social Workers (NASW-PACE: Political Action for Candidate Election) for your 2020 general election campaign.
+(601) 866-9100 bennie_thompson@bellsouth.net Donate Home Meet Bennie Accomplishments Media Events Gallery News and Video Endorsements Get Involved Contact Home Meet Bennie Accomplishments Media Events Gallery News and Video Endorsements Get Involved Contact Endorsements Home Endorsements AFL-CIO American Federation of Government Employees Communications Workers of America Humane Society Legislative Fund IBEW International Brotherhood of Teamsters International Union of Bricklayers & Allied Craftworkers) LEAP Forward National Treasury Employees Union (NTEU) National Education Association National Association of Police Organizations Planned Parenthood Action Fund United Auto Worker (UAW) UNITE-HERE United Food & Commercial Workers NASW-PACE Endorsement Thompson MS-02 ical action committee of the National Association of Social Workers (NASW-PACE: Political Action for Candidate Election) for your 2020 general election campaign.
+About Congressman Bennie G.
+Thompson is a firm believer of giving back to those whom afforded him an opportunity to serve.
+His 43 years of public service is a testament to his unwavering dedication to fulfill their expectations and to be the resounding voice for the constituents of the Second District of Mississippi.
+105 West Madison Street, P.O.Box 100 Bolton, MS 39041 (601) 866-9100, (866) 423-6643 bennie_thompson@bellsouth.net Quick Links Home Meet Bennie Get Involved Events Video Endorsements Community Corner Contact Latest Posts Bennie Thompson wins Democratic nomination for US… Rep.
+Bennie Thompson wins Mississippi’s Democratic primary Bennie Thompson Defeats Young Challenger in Mississippi… Join Team Thompson Your name Your email Postal Code Copyright © # Bennie Thompson for Congress.
+All Rights Reserved. × Be The First To Know Contact Information In what capacity would you like to participate? × How much would you like to donate?
+Donate Now

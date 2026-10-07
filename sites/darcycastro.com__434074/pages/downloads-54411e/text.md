@@ -1,8 +1,2 @@
-SD 37 Map + List of Overlapping Districts
-Important Election Dates
-2026 Election Calendar
-Campaign Finance Guide
-Meet Darcy
-Georgia Legislative Guide
-Canvassing Guide
-Guía Legislativa de Georgia
+top of page Donate Volunteer En Español Menu Close Priorities Endorsements Vote Media News and Press Downloadable Resources Get Involved How to Help Merch Events Contact En Español Votación Cómo Ayudar Downloadable Resources Download the resources below and share with others SD 37 Map + List of Overlapping Districts Download PDF Download JPGs Important Election Dates Download PDF Download JPG 2026 Election Calendar Download PDF Download JPG Campaign Finance Guide Download PDF Download JPGs Meet Darcy Download PDF Download JPGs Georgia Legislative Guide Download PDF Download JPGs Canvassing Guide Download PDF Download JPGs Guía Legislativa de Georgia Download PDF Download JPGs Donate Darcy Castro for Georgia Inc.
+3600 Dallas Highway Suite 230-237 Marietta, GA 30064 Paid for by Darcy Castro for Georgia Inc ​ Info@DarcyCastro.com 203.297.4994 bottom of page

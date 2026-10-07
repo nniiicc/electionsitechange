@@ -1,3 +1,4 @@
+Search Close Home About Issues 2nd Amendment Clean Iowa Education Eminent Domain End the Drug War Ethanol Local control of local issues Mental Health National Guard Obscene books Occupational licensing Ranked Choice Voting News Volunteer Contact Store Donate Menu Home About Issues 2nd Amendment Clean Iowa Education Eminent Domain End the Drug War Ethanol Local control of local issues Mental Health National Guard Obscene books Occupational licensing Ranked Choice Voting News Volunteer Contact Store Donate Clean Iowa Does Iowa need to clean up its act?
 Iowa is one of the largest polluters in the world.
 We take the clean water we are blessed with from above, and turn it into toxic waste.
 Toxic for everything except the algae in the Gulf of Mexico, which eat it and thrive, but have turned 6,334 square miles of pristine water into an international dead zone.
@@ -25,3 +26,17 @@ This may sound complicated, but I trust 27 co-ops to develop the most efficient 
 Watershed co-ops will learn from each other, and co-op members will insist their co-op is at least as efficient and cost-effective as the best of them.
 People solving problems, not politicians creating them.
 It’s a simple libertarian solution for making Iowa a state we can all be proud to live in.
+2 Responses Chase says: July 13, 2022 at 2:24 pm Rick, the problem with this is you’re essentially putting a dollar value on nature.
+I worked for a large company in Iowa and we violated our discharge permit constantly and the company just chalked it up to the cost of doing business.
+What is stopping the large multinational ag corporations from polluting, and just paying the fines as a business cost.
+Even if you changed the laws, you would still have to have evidence, bring a lawsuit and take ot to the court which takes YEARS.
+Litigation isn’t a solution for protecting nature.
+Reply Gail Buffington says: August 18, 2022 at 2:20 pm The problems with carbon taxes: https://www.taxpolicycenter.org/taxvox/turning-carbon-tax-theory-reality Reply Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Your donations are helping bring Freedom to Iowa Donate Join our mailing list!
+Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts Occupational licensing Occupational licensing – Iowa government run amok?
+Obscene books If the Supreme Court can’t define obscenity, why would you think I can?
+Ethanol Ethanol may be a good idea.
+And it may not be.
+National Guard The Iowa National Guard has a proud history dating back to 1838 Prev Previous 2nd Amendment Next Education Next Paid for by Rick Stewart In all that I do, at all times and with all people, I will conduct my affairs, the affairs of my campaign, and the affairs of my office, with unwavering integrity.
+The First Choice for Iowa Governor All Rights Reserved

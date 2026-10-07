@@ -1,4 +1,4 @@
-Mike Kennedy for Utah (“Mike Kennedy for Utah”, “We,” “Us,” “Our”) is offering a mobile messaging program (“Texts”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+Skip to the content Mike Kennedy for Utah Menu Home Meet Mike Results & Priorities News Join the Team Contact Donate Close Menu Home Meet Mike Results & Priorities News Join the Team Contact Donate Text Policy Mike Kennedy for Utah (“Mike Kennedy for Utah”, “We,” “Us,” “Our”) is offering a mobile messaging program (“Texts”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in Texts or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of Texts.
 User Opt In: Texts allows users to receive SMS mobile messages by users affirmatively opting into Texts, such as through online enrollment forms or by texting a keyword or any successor short code to opt into Texts.
 Regardless of the opt-in method you utilized to join Texts, you agree that these Terms apply to your participation in Texts.
@@ -55,4 +55,4 @@ Any new features, changes, updates or improvements of Texts shall be subject to 
 We reserve the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
-By continuing to participate in Texts after any such changes, you accept these Terms, as modified.
+By continuing to participate in Texts after any such changes, you accept these Terms, as modified. © 2026 Mike Kennedy for Utah Powered by WordPress To the top ↑ Up ↑

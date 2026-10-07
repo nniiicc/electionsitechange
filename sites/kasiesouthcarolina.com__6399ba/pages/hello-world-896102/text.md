@@ -1,4 +1,4 @@
-When my Papa was in the Navy, he said the boys from South Carolina treated one another like cousins.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now South Carolina First: Leading with Love, Accountability, and Common Sense When my Papa was in the Navy, he said the boys from South Carolina treated one another like cousins.
 “Where ya from?” they’d ask.
 “McBee.” “Walhalla.” And nod as if these towns shared a stoplight.
 In New York City, wearing a navy blue hat with a palmetto tree on it, someone asks, “Where in South Carolina ya from?” “Easley.” “Marion.” And they nod as if these towns share a high school football team.
@@ -58,3 +58,8 @@ You and your family are kin to me and I’ll love you as such, just as I love ou
 Ready to get in the game?
 We could use your help.
 Click here to sign up.
+2 Responses Krista Hassell says: June 17, 2026 at 4:42 pm I’m cheering for you in Elloree SC!
+Reply kasiesc says: June 17, 2026 at 10:22 pm Thank you, Krista!
+Reply Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

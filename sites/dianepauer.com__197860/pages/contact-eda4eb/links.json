@@ -1,10 +1,54 @@
 [
-"https://dianepauer.com/",
-"https://dianepauer.com/contact",
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://facebook.com/n/a",
-"https://instagram.com/n/a",
-"https://secure.anedot.com/diane-for-nh/donate",
-"https://x.com/n/a"
+{
+"text": "About",
+"href": "https://dianepauer.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://dianepauer.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/diane-for-nh/donate"
+},
+{
+"text": "Experience",
+"href": "https://dianepauer.com/#experience"
+},
+{
+"text": "Issues",
+"href": "https://dianepauer.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://dianepauer.com/contact"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://dianepauer.com/contact"
+},
+{
+"text": "[image: Diane Pauer Campaign Logo] DIANE PAUER",
+"href": "https://dianepauer.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/n/a"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/n/a"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/n/a"
+}
 ]

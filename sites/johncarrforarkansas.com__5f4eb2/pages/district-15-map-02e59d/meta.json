@@ -1,9 +1,9 @@
 {
  "description": "Explore the District 15 Map by John Carr for Arkansas. Discover the latest updates and resources for Arkansas voters.",
  "final_url": "https://johncarrforarkansas.com/district-15-map",
- "paid_for_by": null,
+ "fingerprint": "75ffcbe516b7d474b8b488460403f9d282fa14b3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "District 15 Map",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

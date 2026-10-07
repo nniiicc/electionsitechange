@@ -1,7 +1,11 @@
 {
  "description": "Public meetings, volunteer sessions, town halls, campus conversations, and campaign appearances across Vermont.",
  "final_url": "https://www.waltonforvermont.com/events",
- "paid_for_by": null,
+ "fingerprint": "97d259e27298cdc1acc217e088db9f6d9deb0199",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Walton for Vermont",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

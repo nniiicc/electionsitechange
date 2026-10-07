@@ -1,1 +1,2 @@
-KHON2 8.28.24 Aug 28 Written By Tambara Garrick Excitement forms for Maui Invitational’s return home Tambara Garrick
+0 Skip to Content About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action KHON2 8.28.24 Aug 28 Written By Tambara Garrick Excitement forms for Maui Invitational’s return home Tambara Garrick Previous Previous Hawaii Public Radio 9.5.24 Next Next Maui Now 10.27.23 Learn More About Priorities Take Action Connect Contact Donate Instagram Paid for by Friends of Sne Patel P.O.
+Box 10187 Lahaina, HI 96761 © # Friends of Sne Patel

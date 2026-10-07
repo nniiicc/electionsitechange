@@ -1,22 +1,110 @@
 [
-"https://facebook.com/RonRussellforCongress",
-"https://facebook.com/sharer/sharer.php?display=popup&u=https%3A%2F%2Fronrussellforcongress.com%2Fproject%2Fcivility-respect-and-productive-congressional-discourse%2F",
-"https://instagram.com/ronrussellforcongress",
-"https://pinterest.com/pin/create/button?url=https%3A%2F%2Fronrussellforcongress.com%2Fproject%2Fcivility-respect-and-productive-congressional-discourse%2F&media=https%3A%2F%2Fronrussellforcongress.com%2Fwp-content%2Fuploads%2F2018%2F06%2Ftabrez-syed-dbc9DGSJzKo.jpg&description=Civility%2C+Respect%2C+and+Productive+Congressional+Discourse",
-"https://ronrussellforcongress.com/",
-"https://ronrussellforcongress.com/about",
-"https://ronrussellforcongress.com/contact",
-"https://ronrussellforcongress.com/events",
-"https://ronrussellforcongress.com/issues",
-"https://ronrussellforcongress.com/pj-categs/conference",
-"https://ronrussellforcongress.com/pj-categs/democracy",
-"https://ronrussellforcongress.com/pj-categs/election-campaign",
-"https://ronrussellforcongress.com/privacy-policy",
-"https://ronrussellforcongress.com/project/education",
-"https://ronrussellforcongress.com/project/immigration",
-"https://ronrussellforcongress.com/project/reducing-crime-supporting-first-responders",
-"https://ronrussellforcongress.com/volunteers",
-"https://secure.winred.com/russell-for-congress/donate-today",
-"https://twitter.com/intent/tweet?text=Check+out+%27Civility%2C+Respect%2C+and+Productive+Congressional+Discourse%27+on+Ron+Russell+website&url=https%3A%2F%2Fronrussellforcongress.com%2Fproject%2Fcivility-respect-and-productive-congressional-discourse%2F",
-"https://x.com/RussellForHouse"
+{
+"text": "(207) 604-3491",
+"href": "tel://207%20604-3491"
+},
+{
+"text": "About",
+"href": "https://ronrussellforcongress.com/about/"
+},
+{
+"text": "Conference",
+"href": "https://ronrussellforcongress.com/pj-categs/conference/"
+},
+{
+"text": "Contact",
+"href": "https://ronrussellforcongress.com/contact/"
+},
+{
+"text": "Democracy",
+"href": "https://ronrussellforcongress.com/pj-categs/democracy/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/russell-for-congress/donate-today"
+},
+{
+"text": "Education",
+"href": "https://ronrussellforcongress.com/project/education/"
+},
+{
+"text": "Election Campaign",
+"href": "https://ronrussellforcongress.com/pj-categs/election-campaign/"
+},
+{
+"text": "Events",
+"href": "https://ronrussellforcongress.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?display=popup&u=https%3A%2F%2Fronrussellforcongress.com%2Fproject%2Fcivility-respect-and-productive-congressional-discourse%2F"
+},
+{
+"text": "Home",
+"href": "https://ronrussellforcongress.com/"
+},
+{
+"text": "Immigration",
+"href": "https://ronrussellforcongress.com/project/immigration/"
+},
+{
+"text": "Issues",
+"href": "https://ronrussellforcongress.com/issues/"
+},
+{
+"text": "Join Us",
+"href": "https://ronrussellforcongress.com/volunteers/"
+},
+{
+"text": "Pinterest",
+"href": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fronrussellforcongress.com%2Fproject%2Fcivility-respect-and-productive-congressional-discourse%2F&media=https%3A%2F%2Fronrussellforcongress.com%2Fwp-content%2Fuploads%2F2018%2F06%2Ftabrez-syed-dbc9DGSJzKo.jpg&description=Civility%2C+Respect%2C+and+Productive+Congressional+Discourse"
+},
+{
+"text": "Reducing Crime & Supporting First Responders",
+"href": "https://ronrussellforcongress.com/project/reducing-crime-supporting-first-responders/"
+},
+{
+"text": "Terms & Conditions and Privacy Policy",
+"href": "https://ronrussellforcongress.com/privacy-policy/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/intent/tweet?text=Check+out+%27Civility%2C+Respect%2C+and+Productive+Congressional+Discourse%27+on+Ron+Russell+website&url=https%3A%2F%2Fronrussellforcongress.com%2Fproject%2Fcivility-respect-and-productive-congressional-discourse%2F"
+},
+{
+"text": "[image: Education]",
+"href": "https://ronrussellforcongress.com/project/education/"
+},
+{
+"text": "[image: Immigration]",
+"href": "https://ronrussellforcongress.com/project/immigration/"
+},
+{
+"text": "[image: Reducing Crime & Supporting First Responders]",
+"href": "https://ronrussellforcongress.com/project/reducing-crime-supporting-first-responders/"
+},
+{
+"text": "[image: Ron Russell] [image: Ron Russell]",
+"href": "https://ronrussellforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0)"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/RonRussellforCongress/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://x.com/RussellForHouse/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/ronrussellforcongress/"
+},
+{
+"text": "example@ex.com",
+"href": "mailto:"
+}
 ]

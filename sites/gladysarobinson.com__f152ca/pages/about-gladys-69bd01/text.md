@@ -1,5 +1,4 @@
-MEET GLADYS
-Senator Gladys A.
+0 Skip to Content MEET GLADYS ABOUT GLADYS GALLERY GLADYS' RECORD DONATE NEWS VOLUNTEER Donate Open Menu Close Menu MEET GLADYS ABOUT GLADYS GALLERY GLADYS' RECORD DONATE NEWS VOLUNTEER Donate Open Menu Close Menu Folder: MEET GLADYS Back ABOUT GLADYS GALLERY GLADYS' RECORD DONATE NEWS VOLUNTEER Donate MEET GLADYS Senator Gladys A.
 Robinson embodies the true spirit of experienced and effective leadership within the North Carolina Senate.
 With a remarkable career spanning more than two decades, Senator Robinson has consistently proven her dedication to the people of North Carolina by fighting tirelessly for their best interests.
 As North Carolina faces numerous challenges in the years to come, Senator Gladys A.
@@ -23,21 +22,7 @@ Throughout her years in office, she has been actively involved in numerous commu
 Senator Robinson understands the unique challenges Guilford County faces and works hard to address the needs of her community.
 Her commitment to community service is not just a campaign promise but a fundamental part of her approach to public service.
 Through engagement with the people she represents, Senator Robinson elevates the voices and concerns of her constituents in policy-making and decision-making processes.
-Senator Robinson, an experienced and dedicated public servant, currently serves on the following influential committees that address vital issues impacting our community and state
-Standing Committees:
-- Appropriations on Health and Human Services
-- Appropriations/Base Budget
-- Commerce and Insurance
-- Education/Higher Education
-- Finance
-- Health Care
-- Select Committee on Nominations
-- State and Local Government
-Non-Standing Committees:
-- Joint Legislative Education Oversight Committee
-- Joint Legislative Commission on Governmental Operations
-- Revenue Laws Study Committee
-- Joint Legislative Oversight Committee on Medicaid
-Get Involved
-If you are interested in volunteering with us, please fill out the volunteer form and a campaign representative will be in touch.
+Senator Robinson, an experienced and dedicated public servant, currently serves on the following influential committees that address vital issues impacting our community and state Standing Committees: Appropriations on Health and Human Services Appropriations/Base Budget Commerce and Insurance Education/Higher Education Finance Health Care Select Committee on Nominations State and Local Government Non-Standing Committees: Joint Legislative Education Oversight Committee Joint Legislative Commission on Governmental Operations Revenue Laws Study Committee Joint Legislative Oversight Committee on Medicaid Get Involved If you are interested in volunteering with us, please fill out the volunteer form and a campaign representative will be in touch.
 We look forward to hearing from you!
+PO Box 20627, Greensboro, NC 27420 COMMITTEE TO RE-ELECT GLADYS A.
+ROBINSON Senate28@GladysARobinson.com

@@ -1,7 +1,9 @@
 {
  "description": "Contact the John Boyd Campaign",
  "final_url": "https://www.johnboydforutah.com/contact",
- "paid_for_by": null,
+ "fingerprint": "c6bd8dffdcde029f6eb917a2a0bb09eedcc97ff4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact the John Boyd Campaign",
  "years_mentioned": []
 }

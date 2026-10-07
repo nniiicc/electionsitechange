@@ -1,47 +1,31 @@
-Vic Mellor, a U.S.
+Skip to content Home About Photo Gallery Endorsements What Matters Housing That Is Affordable Jobs Revolution Inflation Medical Freedom Second Amendment Parental Rights Free Speech Community Outreach Small Business Outreach Government Dysfunction Voter ID & Election Integrity GAHA News Get Involved Rhode Island Voter Resource Center Donate To Vic Mellor’s Campaign Join the campaign Volunteer for Vic Mellor’s Campaign Home About Photo Gallery Endorsements What Matters Housing That Is Affordable Jobs Revolution Inflation Medical Freedom Second Amendment Parental Rights Free Speech Community Outreach Small Business Outreach Government Dysfunction Voter ID & Election Integrity GAHA News Get Involved Rhode Island Voter Resource Center Donate To Vic Mellor’s Campaign Join the campaign Volunteer for Vic Mellor’s Campaign X-twitter Instagram Youtube Facebook Donate Home About Photo Gallery Endorsements What Matters Housing That Is Affordable Jobs Revolution Inflation Medical Freedom Second Amendment Parental Rights Free Speech Community Outreach Small Business Outreach Government Dysfunction Voter ID & Election Integrity GAHA News Get Involved Rhode Island Voter Resource Center Donate To Vic Mellor’s Campaign Join the campaign Volunteer for Vic Mellor’s Campaign Home About Photo Gallery Endorsements What Matters Housing That Is Affordable Jobs Revolution Inflation Medical Freedom Second Amendment Parental Rights Free Speech Community Outreach Small Business Outreach Government Dysfunction Voter ID & Election Integrity GAHA News Get Involved Rhode Island Voter Resource Center Donate To Vic Mellor’s Campaign Join the campaign Volunteer for Vic Mellor’s Campaign X-twitter Instagram Youtube Facebook Donate Defending Free Speech in Rhode Island Builder of Freedom.
+Defending Free Speech in Rhode Island Fighter for Rhode Island Vic Mellor, a U.S.
 Marine Corps veteran and entrepreneur, is running for Congress to champion the constitutional right to free speech, viewing it as the bedrock for independent thought and a thriving community in Rhode Island.
-Unfiltered Expression
-Vic Mellor is a Rhode Island native who understands the critical role of uncensored dialogue.
+Actions Matter Vic’s Dedication to Unfiltered Expression Vic Mellor is a Rhode Island native who understands the critical role of uncensored dialogue.
 His commitment to free speech is not just theoretical; it’s demonstrated by his actions.
-- Building Independent Platforms: Vic founded his own news & media company to provide Americans with unfiltered access to information, directly countering mainstream censorship and ensuring diverse voices are heard.
-- Creating Havens for Dialogue: In Sarasota, Florida, Vic built The Hollow, it is a free community center and an “anti-elitist space” that fosters community discussions on politics and rights, free from mainstream narratives on complex issues.
+Building Independent Platforms: Vic founded his own news & media company to provide Americans with unfiltered access to information, directly countering mainstream censorship and ensuring diverse voices are heard.
+Creating Havens for Dialogue : In Sarasota, Florida, Vic built The Hollow, it is a free community center and an “anti-elitist space” that fosters community discussions on politics and rights, free from mainstream narratives on complex issues.
 This space allowed for vital free expression during a time of rising censorship.
-- Peaceful Activism: Vic’s participation in the January 6th events was a peaceful exercise of free speech rights, emphasizing his stance on grassroots activism and the right to protest government actions.
+Peaceful Activism : Vic’s participation in the January 6th events was a peaceful exercise of free speech rights, emphasizing his stance on grassroots activism and the right to protest government actions.
 Vic’s plan is simple and built on common sense.
 Stop the socialist style of governance that’s destroying the working family and start rebuilding opportunity from the ground up.
-In Rhode Island, free speech faces growing threats from government overreach and policies that stifle debate.
+Join The Campaign Donate Pushing Back Against Censorship in Rhode Island In Rhode Island, free speech faces growing threats from government overreach and policies that stifle debate.
 Vic is committed to ensuring every citizen can speak truth without fear.
-Vic will actively fight against policies that seek to limit expression and penalize dissent, focusing on:
-- Protecting Against Big Tech Censorship: Advocating for legislation that shields Rhode Islanders from undue censorship by major online platforms.
-- Shielding Independent Reporters: Supporting measures to protect independent journalists and whistleblowers from harassment, drawing on his media experience.
-- Ensuring Free Speech in Schools: Pushing for policies that guarantee diverse viewpoints in Rhode Island’s educational institutions, countering mandates that silence certain perspectives.
-- Defending Public Forum Rights: Upholding the right to peaceful assembly and protest without undue governmental restrictions.
+Vic will actively fight against policies that seek to limit expression and penalize dissent, focusing on: Protecting Against Big Tech Censorship : Advocating for legislation that shields Rhode Islanders from undue censorship by major online platforms.
+Shielding Independent Reporters : Supporting measures to protect independent journalists and whistleblowers from harassment, drawing on his media experience.
+Ensuring Free Speech in Schools : Pushing for policies that guarantee diverse viewpoints in Rhode Island’s educational institutions, countering mandates that silence certain perspectives.
+Defending Public Forum Rights : Upholding the right to peaceful assembly and protest without undue governmental restrictions.
 It’s anti-American and contrary to the Rhode Island spirit of Independence that many Rhode Islanders hide the fact that they are conservatives.
-Vic’s unapologetic stand is leading Rhode Islands silenced and disenfranchised majority to Victory
-Read the full WPRI article WPRI Covers Vic Mellor’s “Rhode Island First” Rally at the Crowne...
-Speeches from Rhode Island First Rally on LPR Facebook Rhode Island First Rally Featured on LPR...
-View the PBS Frontline Documentary General Flynn and Vic Mellor Featured on PBS Frontline PBS Frontline...
-Manage Consent
-To provide the best experiences, we use technologies like cookies to store and/or access device information.
-Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site.
-Not consenting or withdrawing consent, may adversely affect certain features and functions.
-Functional
-Always active
-The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
-Preferences
-The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
-Statistics
-The technical storage or access that is used exclusively for statistical purposes.
-The technical storage or access that is used exclusively for anonymous statistical purposes.
-Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
-Marketing
-The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
-Mail-In Ballot Info
-If you applied for a mail-in ballot, you will receive your ballot directly from the state.
-Once it arrives, please complete your ballot, select Victor Mellor, and return it by mail according to the instructions provided.
+Vic’s unapologetic stand is leading Rhode Islands silenced and disenfranchised majority to Victory Related News WPRI Covers Vic Mellor’s “Rhode Island First” Rally Read the full WPRI article WPRI Covers Vic Mellor’s “Rhode Island First” Rally at the Crowne...
+Read More Latino Public Radio features Rhode Island First Rally Speeches Speeches from Rhode Island First Rally on LPR Facebook Rhode Island First Rally Featured on LPR...
+Read More General Michael Flynn in PBS Frontline Documentary View the PBS Frontline Documentary General Flynn and Vic Mellor Featured on PBS Frontline PBS Frontline...
+Read More Support Freedom First Common Sense Putting your Values, & Freedom First Donate Paid for by Friends Of Victor Mellor Contact 401-545-0127 info@vicmellor.com Friends of Victor Mellor 205 Buttonwoods Ave Warwick, RI 02886 X-twitter Facebook Instagram Youtube What Matters Housing That Is Affordable Jobs Revolution Medical Freedom Second Amendment Free Speech - No Censorship Parents - Not Bureaucrats How Can You Help Join The Campaign Donation In The News About Team Contact Privacy Policy Manage consent Manage consent Mail-In Ballot Info If you applied for a mail-in ballot, you will receive your ballot directly from the state.
+Once it arrives, please complete your ballot, select Victor Mellor , and return it by mail according to the instructions provided.
 If you have questions or need assistance with your mail-in ballot, the Victor Mellor campaign is here to help.
-Call us at 401-545-0127 or email info@vicmellor.com.
-Vote For Vic Ride Request
-Fill out the form below to request a ride to your voting location or get assistance with your mail-in ballot.
-Need a Ride?
+Call us at 401-545-0127 or email info@vicmellor.com .
+Vote For Vic Ride Request Fill out the form below to request a ride to your voting location or get assistance with your mail-in ballot.
+Name (Required) First Last Email (Required) Phone (Required) When do you need a ride?
+(Required) Early Voting Election Day Submit Easily check where and when to vote, mail-ballot sign-up, and request transportation to vote.
+Vote For Vic WHEN AND WHERE EARLY VOTING BEGINS Mail-ballot Information Need a Ride?
 Request a ride to vote or get help with your mail-in ballot.
+REQUEST A RIDE

@@ -1,21 +1,4 @@
-top of page
-FROM THE
-NEWS
-DATE August 1, 2024
-Brinson officially appointed by Governor as new state senator for Beaufort, Craven & Lenoir
-DATE July 24, 2024
-Bob Brinson nominated to complete Senator Jim Perry's term, awaits governor's nod
-UPCOMING
-EVENTS
-DATE TBA
-TBA
-DATE TBA
-TBA
-DATE TBA
-TBA
-DATE TBA
-TBA
-DATE TBA
-TBA
-BOB UP CLOSE
-bottom of page
+top of page NC SENATE 2026 ( DISTRICT 3 ) BOB BRINSON DONATE HOME MEET BOB PLATFORM ENDORSEMENTS GET INVOLVED More Use tab to navigate through the menu items.
+STAY CONNECTED TODAY!
+Subscribe for Updates Subscribe Now Thanks for submitting!
+Podcast with NC Senator Bob Brinson FROM THE NEWS DATE August 1, 2024 Brinson officially appointed by Governor as new state senator for Beaufort, Craven & Lenoir DATE July 24, 2024 Bob Brinson nominated to complete Senator Jim Perry's term, awaits governor's nod UPCOMING EVENTS DATE TBA TBA DATE TBA TBA DATE TBA TBA DATE TBA TBA DATE TBA TBA BOB UP CLOSE Like Bob on Facebook Connect Bob on Linkedin See Bob on Instagram HOME MEET BOB PLATFORM ENDORSEMENTS GET INVOLVED More Use tab to navigate through the menu items. © # by Friends to Elect Bob Brinson bottom of page

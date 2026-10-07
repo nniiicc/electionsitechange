@@ -1,6 +1,6 @@
-04 February 2020 February 4, 2020 Recent News Wolcott Legislators Hold Town Hall State Rep.
+Home About Issues Legislation NEWS Press Volunteer Photos Contact ENDORSEMENTS Blog 04 February 2020 February 4, 2020 Recent News Wolcott Legislators Hold Town Hall State Rep.
 Mastrofrancesco, Conservative Caucus Object to Waste of Taxpayer Dollars for January Special Session Rep.
 Mastrofrancesco, Conservative Caucus Blasts Treasurer Wooden for Breach of his Fiduciary Responsibility Mastrofrancesco Talks State Government with Southington High Students State Rep.
 Gale Mastrofrancesco: Fighting Tolls Mastrofrancesco & Sampson Visit ‘The Cheshire House’ Nursing Home Mastrofrancesco, Conservative Caucus Blasts Democrats’ Increase of the Digital Download Tax Mastrofrancesco Joins College Republicans to Improve Existing Anti-Discrimination Policies Rep.
 Gale Mastrofrancesco Warns Constituents Digital Tax Hike Starts Oct 1 Mastrofrancesco Slams Grocery Tax Implementation Mastrofrancesco Achieves Perfect Attendance In House CT Business Group Gives Rep.
-Mastrofrancesco Perfect Score on Pro-Business Legislation
+Mastrofrancesco Perfect Score on Pro-Business Legislation Recent News & Events Recent News Feb 4, 2020 0 Useful Links Volunteer Contact Me Blog Official Facebook Page District Map Recent Photos Paid for by Mastrofrancesco for CT, Zachary Foti Treasurer, Approved by Gale Mastrofrancesco Site Design by Marvelous Media

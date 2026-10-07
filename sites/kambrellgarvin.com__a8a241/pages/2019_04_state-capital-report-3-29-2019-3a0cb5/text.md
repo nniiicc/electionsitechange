@@ -1,4 +1,4 @@
-The House of Representatives approved and sent the Senate H.4243, a bill addressing PROFESSIONAL SPORTS TEAM INVESTMENTS.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate The State Capital Report – 3/29/2019 Kambrell Garvin April 1, 2019 Comments Off on The State Capital Report – 3/29/2019 Uncategorized The House of Representatives approved and sent the Senate H.4243, a bill addressing PROFESSIONAL SPORTS TEAM INVESTMENTS.
 The legislation revises job tax credit provisions to allow a professional sports team to be eligible for the tax credits for jobs created.
 The legislation prohibits a county from levying county license fees and taxes on a professional sports team, and prohibits a municipality from levying a business license tax on a professional sports team.
 The legislation provides that real property owned by a professional sports team may not be annexed by a municipality without prior written consent of the professional sports team.
@@ -29,8 +29,7 @@ The legislation requires all the members of the Public Service Commission to mee
 Continuing education requirements are expanded to require the commissioners and their employees to attend at least six hours of classes each year with a curriculum, approved by the Public Utilities Review Committee, which directly relates to the subject matter for which the commission is responsible.
 New restrictions and reporting requirements are imposed on reimbursements for such costs as travel, food, and lodging incurred in fulfilling continuing education requirements in order to avoid the appearance of impropriety and prevent payments that could influence the performance of official duties.
 The legislation eases restrictions on communications with members or staff of the Public Utilities Review Committee or any other legislative committee charged with review of the commission.
-The Public Utilities Review Committee is expanded from
-ten to twelve members, four of whom must be appointed by the Governor from the general public at large.
+The Public Utilities Review Committee is expanded from ten to twelve members, four of whom must be appointed by the Governor from the general public at large.
 Provisions are included to disqualify someone from serving on the review committee who has made a political contribution to those making the appointments during the current election cycle or the previous two election cycles.
 In conducting its screenings, the Public Utilities Review Committee is required to report out all candidates found qualified for each seat on the Public Service Commission to be elected by the General Assembly.
 The Public Utilities Review Committee is charged with appointing the Executive Director of the Office of Regulatory Staff.
@@ -66,8 +65,7 @@ Unless otherwise provided in the bylaws, each trustee’s principal residence, a
 A vacancy in the office of trustee occurring for any reason other than expiration of a term may be filled only for the remainder of the unexpired term by a vote of the membership at the next annual meeting.
 The legislation requires annual public disclosure of compensation and benefits paid to or provided for members of the board of trustees.
 The legislation includes notice requirements for all non‑emergency meetings of the board of trustees or the membership of the cooperative.
-The legislation makes transparency provisions for meetings that include
-requirements for certain votes of trustees to be taken in open session, requirements for votes taken in executive session to be ratified in open session, require for providing minutes of all meetings to cooperative members.
+The legislation makes transparency provisions for meetings that include requirements for certain votes of trustees to be taken in open session, requirements for votes taken in executive session to be ratified in open session, require for providing minutes of all meetings to cooperative members.
 Provisions are included to prohibit certain conflicts of interest and the misuse of a position on a board of trustees for financial gain or to secure certain other advantages.
 The legislation establishes provisions governing the conduct of elections by a cooperative, that prohibit advocacy or campaigning within a certain distance of the polling place.
 Incumbent trustees seeking reelection shall not directly or indirectly influence the nomination or credentials process.
@@ -76,4 +74,6 @@ The Office of Regulatory Staff is authorized to make inspections, audits, and ex
 If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
 Box 292434, Columbia, SC 29229.
 Thank you for the opportunity to serve you in the House of Representatives.
-KHG/jhm
+KHG/jhm « The State Capitol Report – 3/22/2019 The State Capital Report – 4/9/2019 » Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020

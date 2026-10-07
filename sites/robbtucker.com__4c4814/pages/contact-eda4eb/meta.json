@@ -1,7 +1,9 @@
 {
  "description": "News Publication Example",
  "final_url": "https://robbtucker.com/contact/",
- "paid_for_by": "Paid for by Robb Tucker for Congress Privacy Policy | Terms of Use Scroll To Top",
+ "fingerprint": "88b3773779198f1a775bf651b1ba33fa82ab38ad",
+ "format": 3,
+ "paid_for_by": "Paid for by Robb Tucker for Congress Privacy Policy",
  "title": "Contact - Robb Tucker for Congress",
  "years_mentioned": []
 }

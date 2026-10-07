@@ -1,11 +1,11 @@
-I am a Northwest Missouri native of Albany and lifetime resident of the state.
+About Marvin Issues Get Involved Events Donate Now Home About Marvin Issues Get Involved Events Donate Now About Marvin Manring I am a Northwest Missouri native of Albany and lifetime resident of the state.
 I grew up on a rural farm, raised by parents who lived through the Depression and the Second World War.
 They worked a lifetime to raise eight children and put them all through college — and they sacrificed a great deal to ensure success for each of us.
 Their work ethic left a lifelong impression and continues to be an inspiration each day.
 I attended Central Methodist College (now CMU) in Fayette, and learned my trade of music education in the Missouri school districts of California and Slater before making Stockton our family’s home in 1993.
 This is where Mary Anne and I raised our two children, Liz and Lucas, and we all have enjoyed the benefits of a wonderful community.
 They have moved on to some fantastic adventures out in the world, taking our community’s values and lessons with them wherever they go.
-Our family has been a part of a larger family in the Stockton United Methodist Church.
+Our family has been a part of a larger family in the Stockton United Methodist Church .
 Over the years, we have dedicated our time, talents and tithes — and our witness — to a generous and giving group of people.
 We have been blessed to be a part of this church’s ministry over the years.
 The impact it has had on our lives can only be measured in what we do for others.
@@ -20,5 +20,6 @@ I am humbled and grateful for these, but they didn’t happen because of me.
 Everyone around our family has always been involved, caring, and trusting to make us a part of worthwhile activities, and I have received much more than I have given in every instance.
 Stockton has always been a community that says “yes” to progress and new ideas.
 I have always been encouraged to be an active participant, not just by individuals, but by a community attitude of forward movement.
-I am also encouraged by our elected county leaders who stand up for their people in the face of state regulations such as SB391.
+I am also encouraged by our elected county leaders who stand up for their people in the face of state regulations such as SB391 .
 We have a lot of work to do, and I hope to be an advocate for you as a legislator.
+Donate Now Make a Donation Volunteer Now Attend an Event Support Marvin Manring’s Campaign for Missouri Donate Now Manring4MO127 PO Box 243, Stockton, MO 65785 tel:417-955-4800 | manring4mo127@gmail.com Kim Chism Jasper, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

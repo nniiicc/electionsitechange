@@ -1,10 +1,11 @@
-Priorities
-Fighting Donald Trump
-My Experience with Donald Trump
-In the past year, Trump and his administration have terrorized our communities, attacked our values, and made life harder and more unaffordable for our families.
+Contribute Now This is a break-glass moment – for our families, our neighbors, and folks all across our great state.
+Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other About Bio Endorsements Issues Health Care Fighting Donald Trump Housing Economy & Affordability Energy & Utilities Disaster Preparedness Artificial Intelligence Homelessness Film Industry Power Hour Wildfires Take Action News Room Store Contribute Volunteer About Bio Endorsements Issues Health Care Fighting Donald Trump Housing Economy & Affordability Energy & Utilities Disaster Preparedness Artificial Intelligence Homelessness Film Industry Power Hour Wildfires Take Action News Room Store Volunteer Contribute Priorities Fighting Donald Trump My Experience with Donald Trump In the past year, Trump and his administration have terrorized our communities, attacked our values, and made life harder and more unaffordable for our families.
 As Governor of California, I vow to protect and lead our state against Trump and his attacks.
 When Trump and his administration threaten access to healthcare, affordable housing, fair wages, or protections for immigrants and marginalized communities, the state has a responsibility to step in and fight.
 I am that fighter, and have a proven record facing and winning against Donald Trump, having sued him 122 times in fact as California’s Attorney General.
 From defending Dreamers, to protecting California’s authority and autonomy to move towards progress rather than backwards in environmental justice and reproductive rights, I had the privilege to represent and defend California when Trump attacked our laws or values, and I am ready to get back in the ring again as Governor.
 I believe in the California Dream, that every family, every worker, and every community deserves a fair shot at a safe and healthy life.
 So when the federal government continues to overreach, I will challenge it in court and refuse to back down to ensure California keeps moving forward and building together.
+Up Next Housing Contribute Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other OR Volunteer About Issues Take Action News Room Store Privacy Policy Paid for by Becerra for Governor 2026

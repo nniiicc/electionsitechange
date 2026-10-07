@@ -1,13 +1,54 @@
 [
-"https://facebook.com/RepRushBricken",
-"https://onlinecandidate.com/",
-"https://rushforstatehouse.com/",
-"https://rushforstatehouse.com/about",
-"https://rushforstatehouse.com/contact",
-"https://rushforstatehouse.com/endorsements",
-"https://rushforstatehouse.com/privacy",
-"https://rushforstatehouse.com/values",
-"https://rushforstatehouse.com/volunteer",
-"https://web.archive.org/web/20251215213732/https://www.rushforstatehouse.com/donate.html",
-"https://web.archive.org/web/20251215213732/https://www.rushforstatehouse.com/volunteer.html"
+{
+"text": "About",
+"href": "https://www.rushforstatehouse.com/about/"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.onlinecandidate.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.rushforstatehouse.com/contact/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rushforstatehouse.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RepRushBricken/"
+},
+{
+"text": "Home",
+"href": "https://www.rushforstatehouse.com/"
+},
+{
+"text": "Privacy",
+"href": "https://www.rushforstatehouse.com/privacy/"
+},
+{
+"text": "Values",
+"href": "https://www.rushforstatehouse.com/values/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.rushforstatehouse.com/volunteer/"
+},
+{
+"text": "[image: Rush Bricken for State House]",
+"href": "https://www.rushforstatehouse.com/"
+},
+{
+"text": "[tooltip: Rush Bricken on ]",
+"href": "https://www.facebook.com/RepRushBricken/"
+},
+{
+"text": "your donation",
+"href": "https://web.archive.org/web/20251215213732/https://www.rushforstatehouse.com/donate.html"
+},
+{
+"text": "your support",
+"href": "https://web.archive.org/web/20251215213732/https://www.rushforstatehouse.com/volunteer.html"
+}
 ]

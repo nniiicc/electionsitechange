@@ -1,12 +1,6 @@
-top of page
-"For decades, politicians have promised prosperity while giving handouts to their wealthy donors.
+top of page Dan Schaefer for Missouri Log In Democratic Candidate, Missouri House of Representatives, District 97 Home Meet Dan Media Blog Podcasts 'Nuf Said Values Events FAQ Contact Us Privacy Policy Donate! " For decades, politicians have promised prosperity while giving handouts to their wealthy donors.
 Working families shoulder the burden while healthcare costs rise, schools struggle, and voters lose faith in their government.
-I’m running to challenge this failed system and make Jefferson City work for us again." - Dan
-What Do I Believe?
-Recent Blogs
-I believe that ordinary folks deserve the same chance as anyone to get ahead.
-It’s about fairness—making sure hard work is rewarded, families can afford healthcare, schools remain strong, and government answers to the people, not big money.
-It's just common sense—it’s the idea that we only move forward when we all move forward.
-It means fixing what’s broken, keeping opportunity within reach, and making sure the rules are NOT written by the rich and powerful, but written by and for the people.
-In short, I believe in plain fairness, honest government, and a better deal for working people.
-bottom of page
+I’m running to challenge this failed system and make Jefferson City work for us again. " - Dan What Do I Believe?
+Recent Blogs Another One Under the Bus Socialized Costs, Privatized Profits Why We Voted for a Felon I believe that ordinary folks deserve the same chance as anyone to get ahead.
+It’s about fairness—making sure hard work is rewarded, families can afford healthcare, schools remain strong, and government answers to the people, not big money. ​ It's just common sense—it’s the idea that we only move forward when we all move forward.
+It means fixing what’s broken, keeping opportunity within reach, and making sure the rules are NOT written by the rich and powerful, but written by and for the people. ​ In short, I believe in plain fairness, honest government, and a better deal for working people. © # Dan Schaefer for Missouri Paid for by Citizens to Elect Dan Schaefer Treasurer - Elisabeth Koster Mail bottom of page

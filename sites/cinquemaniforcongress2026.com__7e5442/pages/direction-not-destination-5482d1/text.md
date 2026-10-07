@@ -1,6 +1,4 @@
-Campaign
-Direction not Destination
-Washington today is obsessed with ideologies and pre-packaged, unyielding plans.
+Skip to main content Cinquemani for Congress MENU About Issues Get Involved Contact Donate About Issues Get Involved Contact Donate Ideas Not Ideology Direction not Destination Campaign Direction not Destination Washington today is obsessed with ideologies and pre-packaged, unyielding plans.
 Washington today is obsessed with ideologies and pre-packaged, unyielding plans.
 Politicians like George Latimer toe the party line, adhering to a fixed, ideological end point before they even listen to the facts.
 George Latimer and the Democrats lock themselves into a rigid cage of dogma whether it is Racism packaged as DEI, or the ideologies of Communism, Socialism, or Progressivism.
@@ -28,3 +26,7 @@ I am here to take that crucial first step with you in the right direction.
 The smart direction.
 The direction of prosperity and the American Dream.
 The journey of a thousand miles begins with the first step.
+Join the campaign Help bring better ideas to NY-16.
+Contribute, volunteer, or share the campaign with neighbors across Westchester and the Bronx.
+Donate Volunteer Cinquemani for Congress Better ideas for New York's 16th Congressional District: tax relief, lower costs, good jobs, and a stronger future for Westchester and the Bronx.
+Navigate About Issues Get Involved Contact Privacy Contact Cinquemani for Congress 40 Memorial Highway, New Rochelle, NY 10801 (917) 582-3700 cinquemaniforcongress@gmail.com Paid for by Cinquemani for Congress.

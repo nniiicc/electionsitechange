@@ -1,59 +1,258 @@
 [
-"https://facebook.com/RichforGA",
-"https://friends-of-mccormick.revv.co/storefront",
-"https://richmccormick.us/assets/community.jpg",
-"https://richmccormick.us/assets/hero-er.jpg",
-"https://richmccormick.us/assets/logo-footer.png",
-"https://richmccormick.us/assets/pilot.jpg",
-"https://richmccormick.us/assets/portrait.jpg",
-"https://richmccormick.us/assets/press/590425391_17984409872920583_2255691967873960_n.jpg",
-"https://richmccormick.us/assets/press/A001_C005_082216_001.R3D.09_00_34_21.Still002-1-scaled.jpg",
-"https://richmccormick.us/assets/press/A001_C011_0822EW_001.R3D.09_27_29_14.Still001-1-scaled.jpg",
-"https://richmccormick.us/assets/press/B002_C006_0822LK_001.R3D.09_00_11_16.Still002-1-scaled.jpg",
-"https://richmccormick.us/assets/press/B002_C006_0822LK_001.R3D.09_03_06_14.Still005-1-scaled.jpg",
-"https://richmccormick.us/assets/press/Family.jpg",
-"https://richmccormick.us/assets/press/Healthcare%20that%20Works.png",
-"https://richmccormick.us/assets/press/IMG_0330-1.jpg",
-"https://richmccormick.us/assets/press/IMG_2090-1-scaled.jpg",
-"https://richmccormick.us/assets/press/MCCORMICK-RAW002-copy2-1.jpg",
-"https://richmccormick.us/assets/press/MCCORMICK-RAW007-copy-1.jpg",
-"https://richmccormick.us/assets/press/MCCORMICK-RAW009-copy-2.jpg",
-"https://richmccormick.us/assets/press/MCCORMICK-RAW018-copy-1.jpg",
-"https://richmccormick.us/assets/press/MCCORMICK-RAW019-copy-1.jpg",
-"https://richmccormick.us/assets/press/MCCORMICK-RAW022-copy-1.jpg",
-"https://richmccormick.us/assets/press/MCCORMICK-RAW050-copy-2.jpg",
-"https://richmccormick.us/assets/press/MCCORMICK-RAW064-copy-1.jpg",
-"https://richmccormick.us/assets/press/MCCORMICK-RAW072-copy-1.jpg",
-"https://richmccormick.us/assets/press/MCCORMICK-RAW083-copy-1.jpg",
-"https://richmccormick.us/assets/press/Marine-1.jpg",
-"https://richmccormick.us/assets/press/McCORMICK005-copy-1.jpg",
-"https://richmccormick.us/assets/press/McCORMICK013-copy-1.jpg",
-"https://richmccormick.us/assets/press/McCORMICK015-copy-1.jpg",
-"https://richmccormick.us/assets/press/McCORMICK047-copy.jpg",
-"https://richmccormick.us/assets/press/McCORMICK057-copy-1.jpg",
-"https://richmccormick.us/assets/press/McCORMICK060-copy-1.jpg",
-"https://richmccormick.us/assets/press/McCORMICK069-copy-2.jpg",
-"https://richmccormick.us/assets/press/McCORMICK076-copy-1.jpg",
-"https://richmccormick.us/assets/press/Opportunity%20over%20Red%20Tape.jpg",
-"https://richmccormick.us/assets/press/Parents%20and%20Students%20First.png",
-"https://richmccormick.us/assets/press/Peace%20Through%20Strength.jpg",
-"https://richmccormick.us/assets/press/Rich_er-1024x546.jpg",
-"https://richmccormick.us/assets/press/Safety%20and%20Soverignty.png",
-"https://richmccormick.us/assets/press/about-half_image_3.jpg",
-"https://richmccormick.us/assets/press/about-slider_image_1.jpg",
-"https://richmccormick.us/assets/press/about-slider_image_3.jpg",
-"https://richmccormick.us/assets/press/about-slider_image_6.jpg",
-"https://richmccormick.us/assets/press/df.jpg",
-"https://richmccormick.us/assets/press/float-96-1.jpg",
-"https://richmccormick.us/assets/press/morehouse.jpg",
-"https://richmccormick.us/assets/press/people%20over%20politics.jpg",
-"https://richmccormick.us/assets/small-business.jpg",
-"https://richmccormick.us/index.html",
-"https://richmccormick.us/news.html",
-"https://richmccormick.us/press.html",
-"https://richmccormick.us/privacy.html",
-"https://richmccormick.us/terms.html",
-"https://richmccormick.us/volunteer.html",
-"https://secure.anedot.com/friends-of-mccormick/61af7e83-0216-4518-b49c-d2ad5d3896dd",
-"https://twitter.com/richforga"
+{
+"text": "470-839-5387",
+"href": "tel:+14708395387"
+},
+{
+"text": "About",
+"href": "https://www.richmccormick.us/index.html#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-mccormick/61af7e83-0216-4518-b49c-d2ad5d3896dd"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RichforGA/"
+},
+{
+"text": "Gear",
+"href": "https://friends-of-mccormick.revv.co/storefront/"
+},
+{
+"text": "News",
+"href": "https://www.richmccormick.us/news.html"
+},
+{
+"text": "Press",
+"href": "https://www.richmccormick.us/press.html"
+},
+{
+"text": "Priorities",
+"href": "https://www.richmccormick.us/index.html#priorities"
+},
+{
+"text": "Privacy",
+"href": "https://www.richmccormick.us/privacy.html"
+},
+{
+"text": "Terms",
+"href": "https://www.richmccormick.us/terms.html"
+},
+{
+"text": "The Journey",
+"href": "https://www.richmccormick.us/index.html#service-record"
+},
+{
+"text": "Volunteer",
+"href": "https://www.richmccormick.us/volunteer.html"
+},
+{
+"text": "X",
+"href": "https://twitter.com/richforga"
+},
+{
+"text": "[image: Campaign logo] Campaign logo",
+"href": "https://www.richmccormick.us/assets/logo-footer.png"
+},
+{
+"text": "[image: Capt. Rich McCormick in the cockpit as a Marine pilot] Marine pilot",
+"href": "https://www.richmccormick.us/assets/press/float-96-1.jpg"
+},
+{
+"text": "[image: Cmdr. Rich McCormick, U.S. Navy portrait] U.S. Navy",
+"href": "https://www.richmccormick.us/assets/press/about-slider_image_3.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick addressing servicemembers and veterans] Safety and sovereignty",
+"href": "https://www.richmccormick.us/assets/press/Safety%20and%20Soverignty.png"
+},
+{
+"text": "[image: Dr. Rich McCormick and colleagues rushing a patient down the ER hallway] Emergency room",
+"href": "https://www.richmccormick.us/assets/press/A001_C011_0822EW_001.R3D.09_27_29_14.Still001-1-scaled.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick and colleagues rushing a patient to care] ER doctor",
+"href": "https://www.richmccormick.us/assets/press/Rich_er-1024x546.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick campaign portrait, close crop] Campaign portrait",
+"href": "https://www.richmccormick.us/assets/press/MCCORMICK-RAW019-copy-1.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick campaign portrait] Campaign portrait",
+"href": "https://www.richmccormick.us/assets/press/MCCORMICK-RAW018-copy-1.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick campaign portrait] Campaign portrait",
+"href": "https://www.richmccormick.us/assets/press/McCORMICK013-copy-1.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick canvassing door to door] Door to door",
+"href": "https://www.richmccormick.us/assets/press/McCORMICK076-copy-1.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick conferring with fellow physicians at the hospital] At the hospital",
+"href": "https://www.richmccormick.us/assets/press/A001_C005_082216_001.R3D.09_00_34_21.Still002-1-scaled.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick consulting with fellow physicians at the hospital] With colleagues",
+"href": "https://www.richmccormick.us/assets/press/about-slider_image_6.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick for Congress]",
+"href": "https://www.richmccormick.us/index.html"
+},
+{
+"text": "[image: Dr. Rich McCormick greeting a veteran] People over politics",
+"href": "https://www.richmccormick.us/assets/press/people%20over%20politics.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick greeting neighbors door to door] Meeting neighbors",
+"href": "https://www.richmccormick.us/assets/press/McCORMICK005-copy-1.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick greeting neighbors door to door] Meeting neighbors",
+"href": "https://www.richmccormick.us/assets/press/McCORMICK015-copy-1.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick in emergency room scrubs] ER doctor",
+"href": "https://www.richmccormick.us/assets/hero-er.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick in military flight gear] Marine pilot",
+"href": "https://www.richmccormick.us/assets/pilot.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick in the emergency room] ER doctor",
+"href": "https://www.richmccormick.us/assets/press/B002_C006_0822LK_001.R3D.09_03_06_14.Still005-1-scaled.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick meeting a family on the campaign trail] Meeting families",
+"href": "https://www.richmccormick.us/assets/press/McCORMICK069-copy-2.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick meeting constituents at the Brown Bag Deli] Meeting voters",
+"href": "https://www.richmccormick.us/assets/press/MCCORMICK-RAW022-copy-1.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick meeting voters on the campaign trail] Campaign trail",
+"href": "https://www.richmccormick.us/assets/press/MCCORMICK-RAW002-copy2-1.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick playing rugby with his sons] With his sons",
+"href": "https://www.richmccormick.us/assets/press/about-half_image_3.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick putting on his stethoscope in the ER] ER doctor",
+"href": "https://www.richmccormick.us/assets/press/B002_C006_0822LK_001.R3D.09_00_11_16.Still002-1-scaled.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick speaking at a community rally] Community rally",
+"href": "https://www.richmccormick.us/assets/press/df.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick speaking to voters at a community gathering] Community meeting",
+"href": "https://www.richmccormick.us/assets/press/590425391_17984409872920583_2255691967873960_n.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick talking with a small business owner] Small business",
+"href": "https://www.richmccormick.us/assets/press/MCCORMICK-RAW072-copy-1.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick talking with a voter] Campaign trail",
+"href": "https://www.richmccormick.us/assets/press/MCCORMICK-RAW007-copy-1.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick touring a manufacturing facility] Opportunity over red tape",
+"href": "https://www.richmccormick.us/assets/press/Opportunity%20over%20Red%20Tape.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick visiting with local students] Parents and students first",
+"href": "https://www.richmccormick.us/assets/press/Parents%20and%20Students%20First.png"
+},
+{
+"text": "[image: Dr. Rich McCormick washing the Vietnam Memorial Wall] Washing the Vietnam Memorial Wall",
+"href": "https://www.richmccormick.us/assets/press/Peace%20Through%20Strength.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick with a constituent] Meeting constituents",
+"href": "https://www.richmccormick.us/assets/press/McCORMICK057-copy-1.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick with a constituent] Meeting constituents",
+"href": "https://www.richmccormick.us/assets/press/McCORMICK060-copy-1.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick with a small business owner] Small business",
+"href": "https://www.richmccormick.us/assets/small-business.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick with community members] On the trail",
+"href": "https://www.richmccormick.us/assets/community.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick with fellow Morehouse School of Medicine alumni] Morehouse student body",
+"href": "https://www.richmccormick.us/assets/press/IMG_0330-1.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick with fellow physicians at the hospital] Healthcare that works",
+"href": "https://www.richmccormick.us/assets/press/Healthcare%20that%20Works.png"
+},
+{
+"text": "[image: Dr. Rich McCormick working at his desk] At his desk",
+"href": "https://www.richmccormick.us/assets/press/McCORMICK047-copy.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick's Morehouse School of Medicine keepsake] Morehouse School of Medicine",
+"href": "https://www.richmccormick.us/assets/press/morehouse.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick, emergency medicine] ER doctor",
+"href": "https://www.richmccormick.us/assets/press/MCCORMICK-RAW009-copy-2.jpg"
+},
+{
+"text": "[image: Dr. Rich McCormick, emergency medicine] ER doctor",
+"href": "https://www.richmccormick.us/assets/press/MCCORMICK-RAW083-copy-1.jpg"
+},
+{
+"text": "[image: Official portrait of Dr. Rich McCormick] Official portrait",
+"href": "https://www.richmccormick.us/assets/portrait.jpg"
+},
+{
+"text": "[image: Rich McCormick deployed overseas with his unit] Deployed overseas",
+"href": "https://www.richmccormick.us/assets/press/IMG_2090-1-scaled.jpg"
+},
+{
+"text": "[image: Rich McCormick with fellow servicemembers in the field] In the field",
+"href": "https://www.richmccormick.us/assets/press/about-slider_image_1.jpg"
+},
+{
+"text": "[image: Rich McCormick with his family at an ice cream shop] Families matter",
+"href": "https://www.richmccormick.us/assets/press/MCCORMICK-RAW050-copy-2.jpg"
+},
+{
+"text": "[image: Rich McCormick with his family] Families matter",
+"href": "https://www.richmccormick.us/assets/press/MCCORMICK-RAW064-copy-1.jpg"
+},
+{
+"text": "[image: Rich McCormick with his sons at home] With his sons",
+"href": "https://www.richmccormick.us/assets/press/Family.jpg"
+},
+{
+"text": "[image: Rich McCormick, U.S. Marine Corps] U.S. Marine Corps",
+"href": "https://www.richmccormick.us/assets/press/Marine-1.jpg"
+},
+{
+"text": "[image] Dr. Rich McCormick for Congress",
+"href": "https://www.richmccormick.us/index.html"
+},
+{
+"text": "info@richmccormick.us",
+"href": "mailto:info@richmccormick.us"
+},
+{
+"text": "rich@richmccormick.us",
+"href": "mailto:info@richmccormick.us"
+}
 ]

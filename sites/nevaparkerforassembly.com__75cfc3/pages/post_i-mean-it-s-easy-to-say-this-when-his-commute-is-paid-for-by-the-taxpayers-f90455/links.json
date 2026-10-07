@@ -1,17 +1,82 @@
 [
-"http://said.as/",
-"https://nevaparkerforassembly.com/",
-"https://nevaparkerforassembly.com/about-asembly-district-5",
-"https://nevaparkerforassembly.com/about-neva",
-"https://nevaparkerforassembly.com/blog",
-"https://nevaparkerforassembly.com/donate",
-"https://nevaparkerforassembly.com/endorsements",
-"https://nevaparkerforassembly.com/issues",
-"https://nevaparkerforassembly.com/post/doodling-with-derwinne",
-"https://nevaparkerforassembly.com/post/team-member-tuesday-meet-atticus",
-"https://nevaparkerforassembly.com/post/team-member-tuesday-meet-lauren",
-"https://nevaparkerforassembly.com/volunteerandevents",
-"https://nevaparkerforassembly.com/youthfornevainternship",
-"https://secure.actblue.com/donate/ad5yard",
-"https://secure.actblue.com/donate/teamneva_shirt"
+{
+"text": "All Posts",
+"href": "https://www.nevaparkerforassembly.com/blog"
+},
+{
+"text": "As",
+"href": "http://said.as"
+},
+{
+"text": "DONATE",
+"href": "https://www.nevaparkerforassembly.com/donate"
+},
+{
+"text": "Doodling with Derwinne",
+"href": "https://www.nevaparkerforassembly.com/post/doodling-with-derwinne"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.nevaparkerforassembly.com/endorsements"
+},
+{
+"text": "GET YOUR TEAM NEVA T-SHIRT",
+"href": "https://secure.actblue.com/donate/teamneva_shirt"
+},
+{
+"text": "GET YOUR YARD SIGN",
+"href": "https://secure.actblue.com/donate/ad5yard"
+},
+{
+"text": "HOME",
+"href": "https://www.nevaparkerforassembly.com"
+},
+{
+"text": "INTERNSHIP",
+"href": "https://www.nevaparkerforassembly.com/youthfornevainternship"
+},
+{
+"text": "ISSUES",
+"href": "https://www.nevaparkerforassembly.com/issues"
+},
+{
+"text": "MEET NEVA",
+"href": "https://www.nevaparkerforassembly.com/about-neva"
+},
+{
+"text": "NEWS",
+"href": "https://www.nevaparkerforassembly.com/blog"
+},
+{
+"text": "See All",
+"href": "https://www.nevaparkerforassembly.com/blog"
+},
+{
+"text": "THE DISTRICT",
+"href": "https://www.nevaparkerforassembly.com/about-asembly-district-5"
+},
+{
+"text": "Team Member Tuesday: Meet Atticus!",
+"href": "https://www.nevaparkerforassembly.com/post/team-member-tuesday-meet-atticus"
+},
+{
+"text": "Team Member Tuesday: Meet Lauren!",
+"href": "https://www.nevaparkerforassembly.com/post/team-member-tuesday-meet-lauren"
+},
+{
+"text": "VOLUNTEER & EVENTS",
+"href": "https://www.nevaparkerforassembly.com/volunteerandevents"
+},
+{
+"text": "[image: Team Member Tuesday: Meet Atticus!]",
+"href": "https://www.nevaparkerforassembly.com/post/team-member-tuesday-meet-atticus"
+},
+{
+"text": "[image: Team Member Tuesday: Meet Lauren!]",
+"href": "https://www.nevaparkerforassembly.com/post/team-member-tuesday-meet-lauren"
+},
+{
+"text": "[no text]",
+"href": "https://www.nevaparkerforassembly.com/post/doodling-with-derwinne"
+}
 ]

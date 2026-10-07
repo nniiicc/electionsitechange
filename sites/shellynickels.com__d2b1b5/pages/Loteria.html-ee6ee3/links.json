@@ -1,4 +1,14 @@
 [
-"https://secure.actblue.com/donate/shelly-loteria",
-"https://shellynickels.com/index.html"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shelly-loteria"
+},
+{
+"text": "Home",
+"href": "https://shellynickels.com/index.html"
+},
+{
+"text": "[image: Shelly Nickels logo] Dr. Shelly Nickels for Texas House District 122",
+"href": "https://shellynickels.com/index.html"
+}
 ]

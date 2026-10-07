@@ -1,7 +1,3 @@
-In the community
-Meet Rob on the campaign trail
-Rob is out meeting voters across Washington County.
+0 Skip to Content Platform About Photos Events Donate Contact Open Menu Close Menu Platform About Photos Events Donate Contact Open Menu Close Menu Platform About Photos Events Donate Contact In the community Meet Rob on the campaign trail Rob is out meeting voters across Washington County.
 Stop by, say hello, and share what matters to you.
-September 17, 2026 9:00 AM – 10:00 AM Capitol Plaza Hotel 100 State St, Montpelier, VT 05602
-September 21, 2026 5:30 PM – 7:00 PM Stowe Free Library 90 Pond St, Stowe, VT 05672
-September 23, 2026 5:30 PM – 7:00 PM Washington County Farm Bureau 46 Granite St, Barre, VT 05641
+September 17, 2026 9:00 AM – 10:00 AM Capitol Plaza Hotel 100 State St, Montpelier, VT 05602 September 21, 2026 5:30 PM – 7:00 PM Stowe Free Library 90 Pond St, Stowe, VT 05672 September 23, 2026 5:30 PM – 7:00 PM Washington County Farm Bureau 46 Granite St, Barre, VT 05641 get in contact Rob laclair for Vt senate Paid for by Rob LaClair Made in Vermont by Kenneth Sekuterski Register to vote Location 6451 VT Rte 12 Berlin, VT 05602 Contact roblaclair.vtsenate@gmail.com (802) 371-9373 Facebook

@@ -1,12 +1,4 @@
-Meet and Greet - Hosted by Therese Johnson and Martha Nest
-Time
-Saturday, Sep 5, 2026
-4:00 PM – 6:00 PM
-Location
-612 W Stephen Foster Avenue, Bardstown, KY, 40004
-About this event
-Add your event description here
-Location
-612 W Stephen Foster Avenue
-Bardstown, KY 40004
-502.275.6667
+Meet Carrie Events Issues News Volunteer Contribute Events / Meet and Greet - Hosted by Therese Johnson and Martha Nest Meet and Greet - Hosted by Therese Johnson and Martha Nest Time Saturday, Sep 5, 2026 4:00 PM – 6:00 PM Location 612 W Stephen Foster Avenue, Bardstown, KY, 40004 About this event Add your event description here Location 612 W Stephen Foster Avenue Bardstown, KY 40004 502.275.6667 Get Driving Directions Add to calendar This event has passed Sign-ups are closed.
+Check the events page for what's coming up next.
+See upcoming events CONTRIBUTE VOLUNTEER VOTING INFO Get Updates Thank you for signing up!
+News Kentucky AFL-CIO, Teamsters Local 89, and IBEW Local 369 Endorse Carrie Gribbins Truitt for State Senate CARRIE TRUITT EARNS ENDORSEMENT OF TEAMSTERS LOCAL 89 Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Carrie Gribbins Truitt, PO Box 463, Lebanon, KY 40033 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Carrie Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

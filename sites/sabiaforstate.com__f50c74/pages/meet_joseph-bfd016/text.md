@@ -1,4 +1,4 @@
-Meet Joseph J.
+Home Meet Joseph Issues News Volunteer Contribute Meet Joseph J.
 Sabia Jr.
 Joe Sabia is a seasoned executive leader, entrepreneur, and retired U.S.
 Navy veteran with over 30 years of distinguished experience in operations management, human resources, financial oversight, and organizational leadership.
@@ -18,3 +18,4 @@ He earned his Bachelor of Science in Workforce Education and Development from So
 Committed to professional excellence and community service, Joe maintains multiple active security licenses across Pennsylvania, Florida, and Texas (including Act 235, “D”, “G”, Commissioned Security Officer, Non-Commissioned Security Officer, Private Investigator, and Personal Protection Officer).
 He is a longtime member of the Veterans of Foreign Wars and American Legion.
 Joe Sabia brings a unique combination of military discipline, operational expertise, financial acumen and strategic leadership to every endeavor, with a proven track record of driving performance, managing complex organizations, and delivering results in both high-stakes military environments and dynamic private-sector businesses.
+Events Contribute Volunteer Yard Signs Voter Information Contact Home Privacy Policy Paid For By The Friends Of Joe Sabia Powered by CampaignPartner.com - Political Websites Home Meet Joseph Issues News Volunteer Contribute Events Contact Yard Signs Voter Information Privacy Policy Close Menu

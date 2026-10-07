@@ -1,7 +1,6 @@
-Why We Voted for a Felon
-What happens when people feel they have nothing left to lose
-I saw the above meme posted on Facebook and responded to it as follows:
-When my son was young, I used to tell him never to fight someone who has nothing to lose and everything to gain.
+top of page Dan Schaefer for Missouri Log In Democratic Candidate, Missouri House of Representatives, District 97 Home Meet Dan Media Blog Podcasts 'Nuf Said Values Events FAQ Contact Us Privacy Policy Donate!
+All Posts Political Accountability Congressional Inaction Democratic Party Challenges Congress Ethics in Politics Gun Laws Guns Populism Fall of Rome Republic Emperor King Supreme Court Trump Agriculture CAFO Rural Missouri SCOTUS Patchwork Justice Democracy in Peril Rights for Sale ICE Concentration Camps Trump Private Army Liberty Education Book bans Anxiety Authoritarianism Show-Me Institute Search Why We Voted for a Felon Dan Schaefer Jan 1 4 min read Rated NaN out of 5 stars.
+What happens when people feel they have nothing left to lose I saw the above meme posted on Facebook and responded to it as follows: When my son was young, I used to tell him never to fight someone who has nothing to lose and everything to gain.
 It applies to individuals as well as to society as a whole.
 With the enormous and growing wealth gap in this nation, more and more people view our democracy as a failed state and have less and less to lose.
 Tearing it all down makes sense to them because they feel they've hit bottom.
@@ -50,3 +49,5 @@ To my delight, I’ve found broad agreement on the issues that matter most.
 To be sure, many folks still echo the talking points handed to them by party leaders, but I believe that with our persistence, the party leaders’ grip will loosen as Americans gravitate toward a system that is fair, equitable, and transparent.
 Sorry for the extended response, but I feel it’s necessary to comment on the dynamics of what’s happening and the urgency of fixing it.
 I believe my rambling response also answers the conundrum raised in the original meme.
+Tags: Corruption Wealth Inequality American Conservatism Democratic Party Trump Democracy in Peril Liberty Recent Posts See All Another One Under the Bus Is the DOJ Rigging the Next Election?
+Democracy for Sale: $5,000 © # Dan Schaefer for Missouri Paid for by Citizens to Elect Dan Schaefer Treasurer - Elisabeth Koster Mail bottom of page

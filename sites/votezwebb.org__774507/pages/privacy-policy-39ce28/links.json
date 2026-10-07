@@ -1,16 +1,78 @@
 [
-"http://votewebb.org/",
-"https://facebook.com/profile.php?id=61574050610711",
-"https://instagram.com/votezwebb",
-"https://support.wix.com/en/article/creating-a-privacy-policy",
-"https://votezwebb.org/",
-"https://votezwebb.org/about",
-"https://votezwebb.org/accessibility-statement",
-"https://votezwebb.org/contact",
-"https://votezwebb.org/events-1",
-"https://votezwebb.org/general-clean",
-"https://votezwebb.org/get-involved",
-"https://votezwebb.org/privacy-policy",
-"https://votezwebb.org/terms-and-conditions",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.votezwebb.org/about"
+},
+{
+"text": "About Me",
+"href": "https://www.votezwebb.org/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.votezwebb.org/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.votezwebb.org/contact"
+},
+{
+"text": "Creating a Privacy Policy",
+"href": "https://support.wix.com/en/article/creating-a-privacy-policy"
+},
+{
+"text": "Donate",
+"href": "https://www.votezwebb.org/general-clean"
+},
+{
+"text": "Events",
+"href": "https://www.votezwebb.org/events-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votezwebb.org/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.votezwebb.org"
+},
+{
+"text": "Home",
+"href": "https://www.votezwebb.org/privacy-policy"
+},
+{
+"text": "News",
+"href": "https://www.votezwebb.org"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votezwebb.org/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.votezwebb.org/terms-and-conditions"
+},
+{
+"text": "Values",
+"href": "https://www.votezwebb.org/get-involved"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61574050610711"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/votezwebb/"
+},
+{
+"text": "[image: ZYAIRE WEBB (2).png]",
+"href": "https://www.votezwebb.org"
+},
+{
+"text": "www.votewebb.org",
+"href": "http://www.votewebb.org"
+}
 ]

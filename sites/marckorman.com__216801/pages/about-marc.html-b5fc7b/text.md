@@ -1,4 +1,4 @@
-| | Meet Marc Marc Korman was first elected to the Maryland House of Delegates in 2014.
+Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe Meet Marc Marc Korman was first elected to the Maryland House of Delegates in 2014.
 In 2023, he was named chair of the Environment & Transportation Committee, one of seven standing committees in the House.
 Prior to that, he served on the Appropriations Committee where he previously chaired the Transportation & Environment Subcommittee and the Personnel Subcommittee.
 In 2023, he served as Majority Leader of the House of Delegates.
@@ -22,6 +22,5 @@ Marc is a past chair of the Western Montgomery County Citizens Advisory Board, w
 Previously, he chaired the Citizens Advisory Board’s Public Safety and Quality of Life Committee.
 He also served on the Board of Directors of the Bethesda Urban Partnership, a non-profit organization which markets and manages downtown Bethesda.
 He has also volunteered with the Action Committee for Transit to promote the Purple Line and other transit solutions to traffic, the Montgomery County Parks Department to build and maintain the County’s terrific network of trails, and other local organizations.
-He was in the 2013 Leadership Montgomery class.
-Marc lives with his wife, Rebecca; son, Harrison; and daughter, Abby, in Bethesda. | |
-By Authority of Friends of Marc Korman; Mark Brown, Treasurer
+He was in the 2013 Leadership Montgomery class. ​ Marc lives with his wife, Rebecca; son, Harrison; and daughter, Abby, in Bethesda.
+By Authority of Friends of Marc Korman; Mark Brown, Treasurer HOME ABOUT MARC ISSUES SCHOLARSHIP LATEST NEWS CONTRIBUTE CONTACT sign up to receive updates

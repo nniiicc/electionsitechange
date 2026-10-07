@@ -1,12 +1,54 @@
 [
-"https://bobondermo.com/",
-"https://bobondermo.com/about",
-"https://bobondermo.com/awards",
-"https://bobondermo.com/endorsements",
-"https://bobondermo.com/issues",
-"https://bobondermo.com/media",
-"https://facebook.com/bobondermo",
-"https://instagram.com/DrBobOnderMO",
-"https://secure.winred.com/onder-for-congress/donate-today?source_code=website",
-"https://twitter.com/BobOnderMO"
+{
+"text": "About",
+"href": "https://www.bobondermo.com/about"
+},
+{
+"text": "Awards",
+"href": "https://www.bobondermo.com/awards"
+},
+{
+"text": "DONATE",
+"href": "https://www.bobondermo.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/onder-for-congress/donate-today?source_code=website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bobondermo.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.bobondermo.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.bobondermo.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.bobondermo.com/media"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bobondermo.com/#Volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.bobondermo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BobOnderMO"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bobondermo/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/DrBobOnderMO/"
+}
 ]

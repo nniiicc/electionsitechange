@@ -1,7 +1,22 @@
 [
-"https://landisohio.com/",
-"https://landisohio.com/cart",
-"https://landisohio.com/get-involved",
-"https://landisohio.com/meet-al",
-"https://secure.winred.com/friends-for-allen-landis/donate"
+{
+"text": "0",
+"href": "https://www.landisohio.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-for-allen-landis/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.landisohio.com/get-involved"
+},
+{
+"text": "Meet Al",
+"href": "https://www.landisohio.com/meet-al"
+},
+{
+"text": "[image: Al Landis for State Senate]",
+"href": "https://www.landisohio.com/"
+}
 ]

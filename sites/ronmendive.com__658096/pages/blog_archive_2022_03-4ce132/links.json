@@ -1,121 +1,490 @@
 [
-"http://kcgov.us/elections",
-"http://wix.com/",
-"https://facebook.com/mendive4idaho",
-"https://ronmendive.com/",
-"https://ronmendive.com/blog",
-"https://ronmendive.com/blog/archive/2014/03",
-"https://ronmendive.com/blog/archive/2014/04",
-"https://ronmendive.com/blog/archive/2014/05",
-"https://ronmendive.com/blog/archive/2014/10",
-"https://ronmendive.com/blog/archive/2015/04",
-"https://ronmendive.com/blog/archive/2018/01",
-"https://ronmendive.com/blog/archive/2020/01",
-"https://ronmendive.com/blog/archive/2020/02",
-"https://ronmendive.com/blog/archive/2020/04",
-"https://ronmendive.com/blog/archive/2020/09",
-"https://ronmendive.com/blog/archive/2020/10",
-"https://ronmendive.com/blog/archive/2021/01",
-"https://ronmendive.com/blog/archive/2021/02",
-"https://ronmendive.com/blog/archive/2021/03",
-"https://ronmendive.com/blog/archive/2021/05",
-"https://ronmendive.com/blog/archive/2021/11",
-"https://ronmendive.com/blog/archive/2022/01",
-"https://ronmendive.com/blog/archive/2022/02",
-"https://ronmendive.com/blog/archive/2022/03",
-"https://ronmendive.com/blog/archive/2022/04",
-"https://ronmendive.com/blog/archive/2023/02",
-"https://ronmendive.com/blog/archive/2023/12",
-"https://ronmendive.com/blog/archive/2024/01",
-"https://ronmendive.com/blog/archive/2024/02",
-"https://ronmendive.com/blog/archive/2024/04",
-"https://ronmendive.com/blog/archive/2025/03",
-"https://ronmendive.com/blog/tags/2nd-amendment",
-"https://ronmendive.com/blog/tags/abortion",
-"https://ronmendive.com/blog/tags/agriculture",
-"https://ronmendive.com/blog/tags/ahra",
-"https://ronmendive.com/blog/tags/all-lives-matter",
-"https://ronmendive.com/blog/tags/balance-of-power",
-"https://ronmendive.com/blog/tags/ballot-initiatives",
-"https://ronmendive.com/blog/tags/basque",
-"https://ronmendive.com/blog/tags/bureau-of-indian-affairs",
-"https://ronmendive.com/blog/tags/campus-carry",
-"https://ronmendive.com/blog/tags/candlelight-christian-fellowship",
-"https://ronmendive.com/blog/tags/cannot-object-to-foreign-orders",
-"https://ronmendive.com/blog/tags/cda-tribe",
-"https://ronmendive.com/blog/tags/city-elections",
-"https://ronmendive.com/blog/tags/coeur-d-alene",
-"https://ronmendive.com/blog/tags/conservative",
-"https://ronmendive.com/blog/tags/coronavirus",
-"https://ronmendive.com/blog/tags/covid",
-"https://ronmendive.com/blog/tags/cpac",
-"https://ronmendive.com/blog/tags/cse",
-"https://ronmendive.com/blog/tags/education",
-"https://ronmendive.com/blog/tags/education-in-idaho",
-"https://ronmendive.com/blog/tags/education-savings-account",
-"https://ronmendive.com/blog/tags/election-integrity",
-"https://ronmendive.com/blog/tags/emergency-orders",
-"https://ronmendive.com/blog/tags/federal-government",
-"https://ronmendive.com/blog/tags/fentanyl",
-"https://ronmendive.com/blog/tags/freedom",
-"https://ronmendive.com/blog/tags/gemstatepartriot-com",
-"https://ronmendive.com/blog/tags/global-data-sharing",
-"https://ronmendive.com/blog/tags/government-oppresion",
-"https://ronmendive.com/blog/tags/government-powers",
-"https://ronmendive.com/blog/tags/grocery-tax",
-"https://ronmendive.com/blog/tags/hb215",
-"https://ronmendive.com/blog/tags/hb419",
-"https://ronmendive.com/blog/tags/hb73",
-"https://ronmendive.com/blog/tags/hcr2",
-"https://ronmendive.com/blog/tags/highway-funding",
-"https://ronmendive.com/blog/tags/hjr-2",
-"https://ronmendive.com/blog/tags/idaho",
-"https://ronmendive.com/blog/tags/idaho-birdges",
-"https://ronmendive.com/blog/tags/idaho-board-of-health",
-"https://ronmendive.com/blog/tags/idaho-constitutional-amendment",
-"https://ronmendive.com/blog/tags/idaho-farm-bureau",
-"https://ronmendive.com/blog/tags/idaho-freedom-foundation",
-"https://ronmendive.com/blog/tags/idaho-freedom-index",
-"https://ronmendive.com/blog/tags/idaho-grocery-tax",
-"https://ronmendive.com/blog/tags/idaho-house-republican-caucus",
-"https://ronmendive.com/blog/tags/idaho-income-tax",
-"https://ronmendive.com/blog/tags/idaho-politics",
-"https://ronmendive.com/blog/tags/idaho-refugees",
-"https://ronmendive.com/blog/tags/idaho-roads",
-"https://ronmendive.com/blog/tags/idaho-state-representative",
-"https://ronmendive.com/blog/tags/idaho-will-still-enforce-child-support",
-"https://ronmendive.com/blog/tags/idgop",
-"https://ronmendive.com/blog/tags/idleg",
-"https://ronmendive.com/blog/tags/idpol",
-"https://ronmendive.com/blog/tags/infrastructure",
-"https://ronmendive.com/blog/tags/institute-of-legislative-analysis",
-"https://ronmendive.com/blog/tags/kcrcc",
-"https://ronmendive.com/blog/tags/kootenai-county",
-"https://ronmendive.com/blog/tags/kootenai-county-politics",
-"https://ronmendive.com/blog/tags/less-taxes",
-"https://ronmendive.com/blog/tags/liberty",
-"https://ronmendive.com/blog/tags/life",
-"https://ronmendive.com/blog/tags/limit-government",
-"https://ronmendive.com/blog/tags/lincoln-day",
-"https://ronmendive.com/blog/tags/mandatory-mimimums",
-"https://ronmendive.com/blog/tags/marijuana",
-"https://ronmendive.com/blog/tags/mary-souza",
-"https://ronmendive.com/blog/tags/mask-mandate",
-"https://ronmendive.com/blog/tags/ron-mendive-1",
-"https://ronmendive.com/blog/tags/s1067",
-"https://ronmendive.com/blog/tags/sb-1322",
-"https://ronmendive.com/blog/tags/tecm",
-"https://ronmendive.com/meet-ron",
-"https://ronmendive.com/single-post/champion-of-limited-government-award",
-"https://ronmendive.com/single-post/clip-of-ron-mendive-speaking-at-kootenai-county-legislator-town-hall",
-"https://ronmendive.com/single-post/conservative-excellence",
-"https://ronmendive.com/single-post/conservative-excellence-award",
-"https://ronmendive.com/single-post/february-town-hall-2023",
-"https://ronmendive.com/single-post/idaho-farm-bureau-friend-of-agriculture-award",
-"https://ronmendive.com/single-post/idaho-freedom-foundation-scorecard",
-"https://ronmendive.com/single-post/kootenai-county-legislator-town-hall-feb-2024",
-"https://ronmendive.com/single-post/march-town-hall-for-kootenai-county-legislators-2022",
-"https://ronmendive.com/single-post/testimony-on-mandatory-minimum-sentencing-for-fentanyl",
-"https://ronmendive.com/single-post/two-town-halls-this-weekend",
-"https://ronmendive.com/values"
+{
+"text": "2nd amendment (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/2nd-amendment"
+},
+{
+"text": "AHRA (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/ahra"
+},
+{
+"text": "April 2014 (1) 1 post",
+"href": "https://www.ronmendive.com/blog/archive/2014/04"
+},
+{
+"text": "April 2015 (2) 2 posts",
+"href": "https://www.ronmendive.com/blog/archive/2015/04"
+},
+{
+"text": "April 2020 (1) 1 post",
+"href": "https://www.ronmendive.com/blog/archive/2020/04"
+},
+{
+"text": "April 2022 (1) 1 post",
+"href": "https://www.ronmendive.com/blog/archive/2022/04"
+},
+{
+"text": "April 2024 (3) 3 posts",
+"href": "https://www.ronmendive.com/blog/archive/2024/04"
+},
+{
+"text": "BLOG",
+"href": "https://www.ronmendive.com/blog"
+},
+{
+"text": "CPAC (2)2 posts",
+"href": "https://www.ronmendive.com/blog/tags/cpac"
+},
+{
+"text": "Candlelight Christian fellowship (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/candlelight-christian-fellowship"
+},
+{
+"text": "Champion of Limited Government Award",
+"href": "https://www.ronmendive.com/single-post/champion-of-limited-government-award"
+},
+{
+"text": "Clip of Ron Mendive Speaking at Kootenai County Legislator Town Hall",
+"href": "https://www.ronmendive.com/single-post/clip-of-ron-mendive-speaking-at-kootenai-county-legislator-town-hall"
+},
+{
+"text": "Conservative Excellence",
+"href": "https://www.ronmendive.com/single-post/conservative-excellence"
+},
+{
+"text": "Conservative Excellence Award",
+"href": "https://www.ronmendive.com/single-post/conservative-excellence-award"
+},
+{
+"text": "December 2023 (1) 1 post",
+"href": "https://www.ronmendive.com/blog/archive/2023/12"
+},
+{
+"text": "District 5",
+"href": "https://www.ronmendive.com"
+},
+{
+"text": "February 2020 (1) 1 post",
+"href": "https://www.ronmendive.com/blog/archive/2020/02"
+},
+{
+"text": "February 2021 (10) 10 posts",
+"href": "https://www.ronmendive.com/blog/archive/2021/02"
+},
+{
+"text": "February 2022 (1) 1 post",
+"href": "https://www.ronmendive.com/blog/archive/2022/02"
+},
+{
+"text": "February 2023 (1) 1 post",
+"href": "https://www.ronmendive.com/blog/archive/2023/02"
+},
+{
+"text": "February 2024 (2) 2 posts",
+"href": "https://www.ronmendive.com/blog/archive/2024/02"
+},
+{
+"text": "February Town Hall 2023",
+"href": "https://www.ronmendive.com/single-post/february-town-hall-2023"
+},
+{
+"text": "HB215 (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/hb215"
+},
+{
+"text": "HB419 (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/hb419"
+},
+{
+"text": "HB73 (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/hb73"
+},
+{
+"text": "HCR2 (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/hcr2"
+},
+{
+"text": "HJR 2 (2)2 posts",
+"href": "https://www.ronmendive.com/blog/tags/hjr-2"
+},
+{
+"text": "HOME",
+"href": "https://www.ronmendive.com"
+},
+{
+"text": "Idaho Constitutional Amendment (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/idaho-constitutional-amendment"
+},
+{
+"text": "Idaho Farm Bureau - Friend of Agriculture Award",
+"href": "https://www.ronmendive.com/single-post/idaho-farm-bureau-friend-of-agriculture-award"
+},
+{
+"text": "Idaho Freedom Foundation Scorecard",
+"href": "https://www.ronmendive.com/single-post/idaho-freedom-foundation-scorecard"
+},
+{
+"text": "Idaho State Representative",
+"href": "https://www.ronmendive.com"
+},
+{
+"text": "Idaho birdges (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/idaho-birdges"
+},
+{
+"text": "Idaho freedom foundation (2)2 posts",
+"href": "https://www.ronmendive.com/blog/tags/idaho-freedom-foundation"
+},
+{
+"text": "January 2018 (1) 1 post",
+"href": "https://www.ronmendive.com/blog/archive/2018/01"
+},
+{
+"text": "January 2020 (4) 4 posts",
+"href": "https://www.ronmendive.com/blog/archive/2020/01"
+},
+{
+"text": "January 2021 (9) 9 posts",
+"href": "https://www.ronmendive.com/blog/archive/2021/01"
+},
+{
+"text": "January 2022 (1) 1 post",
+"href": "https://www.ronmendive.com/blog/archive/2022/01"
+},
+{
+"text": "January 2024 (2) 2 posts",
+"href": "https://www.ronmendive.com/blog/archive/2024/01"
+},
+{
+"text": "Kootenai County Legislator Town Hall, Feb. 2024",
+"href": "https://www.ronmendive.com/single-post/kootenai-county-legislator-town-hall-feb-2024"
+},
+{
+"text": "MEET RON",
+"href": "https://www.ronmendive.com/meet-ron"
+},
+{
+"text": "March 2014 (1) 1 post",
+"href": "https://www.ronmendive.com/blog/archive/2014/03"
+},
+{
+"text": "March 2021 (2) 2 posts",
+"href": "https://www.ronmendive.com/blog/archive/2021/03"
+},
+{
+"text": "March 2022 (1) 1 post",
+"href": "https://www.ronmendive.com/blog/archive/2022/03"
+},
+{
+"text": "March 2025 (1) 1 post",
+"href": "https://www.ronmendive.com/blog/archive/2025/03"
+},
+{
+"text": "March Town Hall for Kootenai County Legislators - 2022",
+"href": "https://www.ronmendive.com/single-post/march-town-hall-for-kootenai-county-legislators-2022"
+},
+{
+"text": "May 2014 (1) 1 post",
+"href": "https://www.ronmendive.com/blog/archive/2014/05"
+},
+{
+"text": "May 2021 (7) 7 posts",
+"href": "https://www.ronmendive.com/blog/archive/2021/05"
+},
+{
+"text": "November 2021 (1) 1 post",
+"href": "https://www.ronmendive.com/blog/archive/2021/11"
+},
+{
+"text": "October 2014 (1) 1 post",
+"href": "https://www.ronmendive.com/blog/archive/2014/10"
+},
+{
+"text": "October 2020 (6) 6 posts",
+"href": "https://www.ronmendive.com/blog/archive/2020/10"
+},
+{
+"text": "Ron Mendive",
+"href": "https://www.ronmendive.com"
+},
+{
+"text": "Ron mendive (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/ron-mendive-1"
+},
+{
+"text": "S1067 (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/s1067"
+},
+{
+"text": "SB 1322 (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/sb-1322"
+},
+{
+"text": "September 2020 (5) 5 posts",
+"href": "https://www.ronmendive.com/blog/archive/2020/09"
+},
+{
+"text": "TECM (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/tecm"
+},
+{
+"text": "Testimony on Mandatory Minimum Sentencing for Fentanyl",
+"href": "https://www.ronmendive.com/single-post/testimony-on-mandatory-minimum-sentencing-for-fentanyl"
+},
+{
+"text": "Two Town Halls This Weekend",
+"href": "https://www.ronmendive.com/single-post/two-town-halls-this-weekend"
+},
+{
+"text": "VALUES",
+"href": "https://www.ronmendive.com/values"
+},
+{
+"text": "VOTE",
+"href": "http://kcgov.us/elections/"
+},
+{
+"text": "Wix.com",
+"href": "http://wix.com"
+},
+{
+"text": "[image: Facebook Basic Square]",
+"href": "https://www.facebook.com/mendive4idaho/"
+},
+{
+"text": "abortion (3)3 posts",
+"href": "https://www.ronmendive.com/blog/tags/abortion"
+},
+{
+"text": "agriculture (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/agriculture"
+},
+{
+"text": "all lives matter (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/all-lives-matter"
+},
+{
+"text": "balance of power (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/balance-of-power"
+},
+{
+"text": "ballot initiatives (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/ballot-initiatives"
+},
+{
+"text": "basque (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/basque"
+},
+{
+"text": "bureau of indian affairs (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/bureau-of-indian-affairs"
+},
+{
+"text": "campus carry (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/campus-carry"
+},
+{
+"text": "cannot object to foreign orders (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/cannot-object-to-foreign-orders"
+},
+{
+"text": "cda tribe (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/cda-tribe"
+},
+{
+"text": "city elections (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/city-elections"
+},
+{
+"text": "coeur d alene (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/coeur-d-alene"
+},
+{
+"text": "conservative (5)5 posts",
+"href": "https://www.ronmendive.com/blog/tags/conservative"
+},
+{
+"text": "coronavirus (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/coronavirus"
+},
+{
+"text": "covid (2)2 posts",
+"href": "https://www.ronmendive.com/blog/tags/covid"
+},
+{
+"text": "cse (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/cse"
+},
+{
+"text": "education (4)4 posts",
+"href": "https://www.ronmendive.com/blog/tags/education"
+},
+{
+"text": "education in idaho (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/education-in-idaho"
+},
+{
+"text": "education savings account (2)2 posts",
+"href": "https://www.ronmendive.com/blog/tags/education-savings-account"
+},
+{
+"text": "election integrity (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/election-integrity"
+},
+{
+"text": "emergency orders (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/emergency-orders"
+},
+{
+"text": "federal government (2)2 posts",
+"href": "https://www.ronmendive.com/blog/tags/federal-government"
+},
+{
+"text": "fentanyl (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/fentanyl"
+},
+{
+"text": "freedom (3)3 posts",
+"href": "https://www.ronmendive.com/blog/tags/freedom"
+},
+{
+"text": "gemstatepartriot.com (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/gemstatepartriot-com"
+},
+{
+"text": "global data sharing (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/global-data-sharing"
+},
+{
+"text": "government oppresion (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/government-oppresion"
+},
+{
+"text": "government powers (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/government-powers"
+},
+{
+"text": "grocery tax (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/grocery-tax"
+},
+{
+"text": "highway funding (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/highway-funding"
+},
+{
+"text": "idaho (4)4 posts",
+"href": "https://www.ronmendive.com/blog/tags/idaho"
+},
+{
+"text": "idaho board of health (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/idaho-board-of-health"
+},
+{
+"text": "idaho farm bureau (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/idaho-farm-bureau"
+},
+{
+"text": "idaho freedom index (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/idaho-freedom-index"
+},
+{
+"text": "idaho grocery tax (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/idaho-grocery-tax"
+},
+{
+"text": "idaho house republican caucus (2)2 posts",
+"href": "https://www.ronmendive.com/blog/tags/idaho-house-republican-caucus"
+},
+{
+"text": "idaho income tax (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/idaho-income-tax"
+},
+{
+"text": "idaho politics (3)3 posts",
+"href": "https://www.ronmendive.com/blog/tags/idaho-politics"
+},
+{
+"text": "idaho refugees (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/idaho-refugees"
+},
+{
+"text": "idaho roads (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/idaho-roads"
+},
+{
+"text": "idaho state Representative (41)41 posts",
+"href": "https://www.ronmendive.com/blog/tags/idaho-state-representative"
+},
+{
+"text": "idaho will still enforce child support (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/idaho-will-still-enforce-child-support"
+},
+{
+"text": "idgop (11)11 posts",
+"href": "https://www.ronmendive.com/blog/tags/idgop"
+},
+{
+"text": "idleg (2)2 posts",
+"href": "https://www.ronmendive.com/blog/tags/idleg"
+},
+{
+"text": "idpol (11)11 posts",
+"href": "https://www.ronmendive.com/blog/tags/idpol"
+},
+{
+"text": "infrastructure (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/infrastructure"
+},
+{
+"text": "institute of legislative analysis (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/institute-of-legislative-analysis"
+},
+{
+"text": "kcrcc (4)4 posts",
+"href": "https://www.ronmendive.com/blog/tags/kcrcc"
+},
+{
+"text": "kootenai county (4)4 posts",
+"href": "https://www.ronmendive.com/blog/tags/kootenai-county"
+},
+{
+"text": "kootenai county politics (6)6 posts",
+"href": "https://www.ronmendive.com/blog/tags/kootenai-county-politics"
+},
+{
+"text": "less taxes (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/less-taxes"
+},
+{
+"text": "liberty (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/liberty"
+},
+{
+"text": "life (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/life"
+},
+{
+"text": "limit government (2)2 posts",
+"href": "https://www.ronmendive.com/blog/tags/limit-government"
+},
+{
+"text": "lincoln day (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/lincoln-day"
+},
+{
+"text": "mandatory mimimums (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/mandatory-mimimums"
+},
+{
+"text": "marijuana (2)2 posts",
+"href": "https://www.ronmendive.com/blog/tags/marijuana"
+},
+{
+"text": "mary souza (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/mary-souza"
+},
+{
+"text": "mask mandate (1)1 post",
+"href": "https://www.ronmendive.com/blog/tags/mask-mandate"
+}
 ]

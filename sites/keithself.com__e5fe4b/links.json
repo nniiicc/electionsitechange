@@ -1,11 +1,42 @@
 [
-"https://keithself.com/endorsements",
-"https://keithself.com/issues",
-"https://keithself.com/meet-keith",
-"https://keithself.com/wp-content/uploads/2025/05/Privacy-Policy.pdf",
-"https://keithself.com/wp-content/uploads/2025/05/Terms-and-Conditions.pdf",
-"https://keithself.com/{{ iss.href }}",
-"https://keithself.com/{{ t.href }}",
-"https://keithself.com/{{ winredHref }}",
-"https://secure.winred.com/self-for-congress/donate"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/self-for-congress/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://keithself.com/endorsements/"
+},
+{
+"text": "Issues",
+"href": "https://keithself.com/issues/"
+},
+{
+"text": "Meet Keith",
+"href": "https://keithself.com/meet-keith/"
+},
+{
+"text": "Privacy Policies",
+"href": "https://keithself.com/wp-content/uploads/2025/05/Privacy-Policy.pdf"
+},
+{
+"text": "Stand With Keith",
+"href": "https://secure.winred.com/self-for-congress/donate"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://keithself.com/wp-content/uploads/2025/05/Terms-and-Conditions.pdf"
+},
+{
+"text": "{{ donateLabel }}",
+"href": "https://keithself.com/%7B%7B%20winredHref%20%7D%7D"
+},
+{
+"text": "{{ t.label }}",
+"href": "https://keithself.com/%7B%7B%20t.href%20%7D%7D"
+},
+{
+"text": "★ {{ iss.title }} Learn More →",
+"href": "https://keithself.com/%7B%7B%20iss.href%20%7D%7D"
+}
 ]

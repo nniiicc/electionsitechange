@@ -1,13 +1,62 @@
 [
-"https://palumboforsenate.com/",
-"https://palumboforsenate.com/about",
-"https://palumboforsenate.com/contact",
-"https://palumboforsenate.com/endorsements",
-"https://palumboforsenate.com/events",
-"https://palumboforsenate.com/issues",
-"https://palumboforsenate.com/news",
-"https://palumboforsenate.com/support-anthony",
-"https://secure.anedot.com/palumbo-for-senate-2026",
-"https://secure.anedot.com/palumbo-for-senate-2026/bootsandbrews",
-"https://secure.anedot.com/palumbo-for-senate-2026/donate"
+{
+"text": "About",
+"href": "https://www.palumboforsenate.com/about"
+},
+{
+"text": "Can't attend but wish to donate? Click here!",
+"href": "https://secure.anedot.com/palumbo-for-senate-2026/donate"
+},
+{
+"text": "Contact",
+"href": "https://www.palumboforsenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/palumbo-for-senate-2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.palumboforsenate.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.palumboforsenate.com"
+},
+{
+"text": "Issues",
+"href": "https://www.palumboforsenate.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.palumboforsenate.com/news"
+},
+{
+"text": "PalumboForSenate@gmail.com",
+"href": "mailto:palumboforsenate@gmail.com?subject=website+submission"
+},
+{
+"text": "Support Anthony",
+"href": "https://www.palumboforsenate.com/support-anthony"
+},
+{
+"text": "Support Us",
+"href": "https://www.palumboforsenate.com/support-anthony"
+},
+{
+"text": "To Purchase a Ticket to Senator Palumbo's Boots and Brews Click Here",
+"href": "https://secure.anedot.com/palumbo-for-senate-2026/bootsandbrews"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.palumboforsenate.com/events"
+},
+{
+"text": "[image: BootsandBrews.jpg]",
+"href": "https://secure.anedot.com/palumbo-for-senate-2026"
+},
+{
+"text": "[image: Palumbo-logo-web.png]",
+"href": "https://www.palumboforsenate.com"
+}
 ]

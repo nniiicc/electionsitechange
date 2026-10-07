@@ -1,7 +1,34 @@
 [
-"https://facebook.com/gregvetterfornd",
-"https://reedfornd.com/category/in-the-news",
-"https://reedfornd.com/get-involved",
-"https://reedfornd.com/home",
-"https://secure.winred.com/reed-for-nd/donate?sc=winred-directory&money_bomb=false&recurring=false"
+{
+"text": "Contact",
+"href": "https://reedfornd.com/home/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.facebook.com/gregvetterfornd/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/reed-for-nd/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Get Involved",
+"href": "https://reedfornd.com/get-involved/"
+},
+{
+"text": "In the News",
+"href": "https://reedfornd.com/category/in-the-news/"
+},
+{
+"text": "Meet Reed",
+"href": "https://reedfornd.com/home/#about"
+},
+{
+"text": "News",
+"href": "https://reedfornd.com/home/#news"
+},
+{
+"text": "Priorities",
+"href": "https://reedfornd.com/home/#priorities"
+}
 ]

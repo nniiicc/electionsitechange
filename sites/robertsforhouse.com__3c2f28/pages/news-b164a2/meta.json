@@ -1,9 +1,12 @@
 {
  "description": "Check here for news updates on State Representative Eric Roberts, Republican. Rep. Roberts is a businessman who serves neighbors in House District 83, which includes parts of Edmond, Nichols Hills, Oklahoma City, and The Village.",
  "final_url": "https://www.robertsforhouse.com/news",
+ "fingerprint": "59dcf2a7a5cb9c6f08594ee2433586eb3f8f6dcd",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Eric Roberts 2026 bottom of page",
  "title": "Eric Roberts News | Eric Roberts For OK House District 83",
  "years_mentioned": [
-  "2021"
+  "2021",
+  "2026"
  ]
 }

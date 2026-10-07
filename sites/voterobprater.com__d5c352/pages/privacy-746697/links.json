@@ -1,3 +1,10 @@
 [
-"https://voterobprater.com/contact"
+{
+"text": "Contact the campaign",
+"href": "https://voterobprater.com/contact"
+},
+{
+"text": "Voterobprater@gmail.com",
+"href": "mailto:Voterobprater@gmail.com"
+}
 ]

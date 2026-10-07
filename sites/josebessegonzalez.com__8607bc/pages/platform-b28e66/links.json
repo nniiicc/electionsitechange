@@ -1,5 +1,30 @@
 [
-"https://josebessegonzalez.com/",
-"https://josebessegonzalez.com/about",
-"https://josebessegonzalez.com/platform"
+{
+"text": "About",
+"href": "https://josebessegonzalez.com/about"
+},
+{
+"text": "BESSE.",
+"href": "https://josebessegonzalez.com/"
+},
+{
+"text": "Donate",
+"href": "https://josebessegonzalez.com/#donate"
+},
+{
+"text": "Events",
+"href": "https://josebessegonzalez.com/#events"
+},
+{
+"text": "Join",
+"href": "https://josebessegonzalez.com/#join"
+},
+{
+"text": "Plan",
+"href": "https://josebessegonzalez.com/#plan"
+},
+{
+"text": "Platform",
+"href": "https://josebessegonzalez.com/platform"
+}
 ]

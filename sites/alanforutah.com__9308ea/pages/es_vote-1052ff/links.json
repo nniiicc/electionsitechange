@@ -1,24 +1,138 @@
 [
-"https://alanforutah.com/es",
-"https://alanforutah.com/es/district-61",
-"https://alanforutah.com/es/get-involved",
-"https://alanforutah.com/es/meet-alan",
-"https://alanforutah.com/es/priorities",
-"https://alanforutah.com/es/privacy",
-"https://alanforutah.com/es/sms-terms",
-"https://alanforutah.com/es/vote",
-"https://alanforutah.com/vote",
-"https://facebook.com/alanforutah",
-"https://google.com/maps/search?api=1&query=Orem+City+Library+58+N+State+St+Orem+UT+84057",
-"https://google.com/maps/search?api=1&query=Orem+Senior+Friendship+Center+93+N+400+E+Orem+UT+84097",
-"https://google.com/maps/search?api=1&query=Provo+City+Library+550+N+University+Ave+Provo+UT+84601",
-"https://google.com/maps/search?api=1&query=Utah+County+Administration+Building+100+E+Center+St+Provo+UT+84606",
-"https://google.com/maps/search?api=1&query=Utah+Valley+University+800+W+University+Pkwy+Orem+UT+84058",
-"https://instagram.com/alanforutah",
-"https://secure.actblue.com/donate/alan-jimenez-1",
-"https://vote.utah.gov/",
-"https://vote.utah.gov/es",
-"https://vote.utahcounty.gov/",
-"https://vote.utahcounty.gov/voter-information",
-"https://vote.utahcounty.gov/voting-locations"
+{
+"text": "01Utah Valley University800 W University Pkwy, Orem↗",
+"href": "https://www.google.com/maps/search/?api=1&query=Utah+Valley+University+800+W+University+Pkwy+Orem+UT+84058"
+},
+{
+"text": "01¿Se mudó o no sabe si está registrado?Verifique o actualice su registro antes del 23 de octubre en vote.utah.gov↗",
+"href": "https://vote.utah.gov/"
+},
+{
+"text": "02Biblioteca de Orem58 N State St, Orem↗",
+"href": "https://www.google.com/maps/search/?api=1&query=Orem+City+Library+58+N+State+St+Orem+UT+84057"
+},
+{
+"text": "02Siga su boletaInscríbase para saber cuándo se envía su boleta y cuándo se cuenta↗",
+"href": "https://vote.utah.gov/"
+},
+{
+"text": "03Orem Senior Friendship Center93 N 400 E, Orem↗",
+"href": "https://www.google.com/maps/search/?api=1&query=Orem+Senior+Friendship+Center+93+N+400+E+Orem+UT+84097"
+},
+{
+"text": "03¿No le llegó, la perdió o se dañó?Llame a la oficina electoral del condado de Utah al (801) 851-VOTE (8683), o vote en persona☎",
+"href": "tel:+18018518683"
+},
+{
+"text": "04Biblioteca de Provo550 N University Ave, Provo · lado norte, junto al buzón de devolución de libros↗",
+"href": "https://www.google.com/maps/search/?api=1&query=Provo+City+Library+550+N+University+Ave+Provo+UT+84601"
+},
+{
+"text": "04¿Recibió un aviso sobre su firma o identificación?Responda de inmediato. El condado le dirá cómo corregirlo y la fecha límite.↗",
+"href": "https://vote.utahcounty.gov/voter-information"
+},
+{
+"text": "05Edificio Administrativo del Condado de Utah100 E Center St, Provo · en auto por el estacionamiento sur, a pie por el lado sur↗",
+"href": "https://www.google.com/maps/search/?api=1&query=Utah+County+Administration+Building+100+E+Center+St+Provo+UT+84606"
+},
+{
+"text": "AJAlan JimenezCÁMARA DE UTAH · DISTRITO 61",
+"href": "https://alanforutah.com/es"
+},
+{
+"text": "Conozca a Alan",
+"href": "https://alanforutah.com/es/meet-alan"
+},
+{
+"text": "Consulte sus distritos en vote.utah.gov ↗",
+"href": "https://vote.utah.gov/es/"
+},
+{
+"text": "Cómo Votar",
+"href": "https://alanforutah.com/es/vote"
+},
+{
+"text": "Distrito 61",
+"href": "https://alanforutah.com/es/district-61"
+},
+{
+"text": "Donar",
+"href": "https://secure.actblue.com/donate/alan-jimenez-1"
+},
+{
+"text": "Donar ↗",
+"href": "https://secure.actblue.com/donate/alan-jimenez-1"
+},
+{
+"text": "EN",
+"href": "https://alanforutah.com/vote"
+},
+{
+"text": "English",
+"href": "https://alanforutah.com/vote"
+},
+{
+"text": "Facebook ↗",
+"href": "https://www.facebook.com/alanforutah"
+},
+{
+"text": "Inicio",
+"href": "https://alanforutah.com/es"
+},
+{
+"text": "Instagram ↗",
+"href": "https://www.instagram.com/alanforutah/"
+},
+{
+"text": "Participe",
+"href": "https://alanforutah.com/es/get-involved"
+},
+{
+"text": "Privacidad",
+"href": "https://alanforutah.com/es/privacy"
+},
+{
+"text": "Propuestas",
+"href": "https://alanforutah.com/es/priorities"
+},
+{
+"text": "Sea voluntario →",
+"href": "https://alanforutah.com/es/get-involved"
+},
+{
+"text": "Términos de Textos",
+"href": "https://alanforutah.com/es/sms-terms"
+},
+{
+"text": "Vea las propuestas de Alan →",
+"href": "https://alanforutah.com/es/priorities"
+},
+{
+"text": "Verificar mi registro ↗",
+"href": "https://vote.utah.gov/"
+},
+{
+"text": "Votar",
+"href": "https://alanforutah.com/es/vote"
+},
+{
+"text": "alanforutah@outlook.com",
+"href": "mailto:alanforutah@outlook.com"
+},
+{
+"text": "vote.utahcounty.gov ↗",
+"href": "https://vote.utahcounty.gov/"
+},
+{
+"text": "vote.utahcounty.gov ↗",
+"href": "https://vote.utahcounty.gov/voting-locations"
+},
+{
+"text": "vote.utahcounty.gov/voting-locations ↗",
+"href": "https://vote.utahcounty.gov/voting-locations"
+},
+{
+"text": "¿Se mudó? Actualice su registro antes del 23 oct. →",
+"href": "https://vote.utah.gov/es/"
+}
 ]

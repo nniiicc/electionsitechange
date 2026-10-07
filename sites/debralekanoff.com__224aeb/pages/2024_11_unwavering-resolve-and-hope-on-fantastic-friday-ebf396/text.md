@@ -1,6 +1,4 @@
-Unwavering Resolve and Hope on Fantastic Friday
-Dear Friends,
-In the wake of the seismic shift brought about by the recent elections, I write to you with a message of unwavering resolve and hope.
+Skip to content Search for: Home About Top Priorities Volunteer Press & Media Fantastic Fridays News Updates Contact Donate Home Fantastic Fridays Unwavering Resolve and Hope on Fantastic Friday Unwavering Resolve and Hope on Fantastic Friday Published On: November 22, 2024 Categories: Fantastic Fridays Dear Friends, In the wake of the seismic shift brought about by the recent elections, I write to you with a message of unwavering resolve and hope.
 The return of Donald Trump to the White House, alongside his running mate JD Vance, coupled with Republican control of both chambers of Congress, presents us with unprecedented challenges.
 But make no mistake – Washington State stands against the tide of regression threatening to sweep our nation.
 Our response to this new political landscape is clear and forceful.
@@ -13,8 +11,7 @@ From safeguarding reproductive rights to aggressively tackling climate change, h
 Joining forces with Governor-elect Ferguson is our new Attorney General Nick Brown, a legal powerhouse whose experience as a former U.S.
 Attorney equips him to navigate the complex legal battles that lie ahead.
 Together, they form an indomitable duo, ready to defend Washington’s interests against any and all federal policies that threaten our way of life.
-The Seattle Times, November 8, 2024
-As your elected representative, I pledge to work tirelessly alongside these leaders to ensure that Washington remains a beacon of progress in an increasingly divided nation.
+The Seattle Times, November 8, 2024 As your elected representative, I pledge to work tirelessly alongside these leaders to ensure that Washington remains a beacon of progress in an increasingly divided nation.
 We will not merely resist – we will lead by example, showing the rest of the country what true democratic values look like in action.
 To our dedicated volunteers and newly elected officials: your passion and commitment are the lifeblood of our democracy.
 In the face of national headwinds, your work is more crucial than ever.
@@ -25,4 +22,6 @@ Every day, we are fighting to build a Washington that lives up to our highest id
 Together, we will not only weather this storm but emerge stronger, more united, and more committed than ever to the progressive values that make Washington a leader among states.
 The road ahead may be challenging, but with your support and our unwavering dedication, there is no obstacle we cannot overcome.
 Rep.
-Debra Lekanoff
+Debra Lekanoff Previous “Progress is not achieved by standing still.
+Let’s move forward together towards a better, brighter future.” Re-Elect Debra Lekanoff (D) PO Box 23125 Seattle, WA 98102 debra@debralekanoff.com info@debralekanoff.com Volunteer Register To Vote Get Updates Donate Events Endorse Debra Follow Debra Copyright # DEBRA LEKANOFF.
+PAID FOR BY RE-ELECT DEBRA LEKANOFF (D) Page load link Go to Top

@@ -1,4 +1,4 @@
-Marcy Kaptur for Congress has created this Privacy Policy (“Policy”) to explain how we collect, use and disclose information that you may provide while visiting our website, mobile sites, mobile applications and other online services (the “Sites”) using a personal computer, mobile device, or any other means, and to demonstrate our firm commitment to Internet privacy.
+Skip to content Meet Marcy Marcy’s Priorities Contact Get Involved Volunteer Fellowships Voter Hub Yard Sign Request Menu Meet Marcy Marcy’s Priorities Contact Get Involved Volunteer Fellowships Voter Hub Yard Sign Request Donate Privacy Policy Marcy Kaptur for Congress has created this Privacy Policy (“Policy”) to explain how we collect, use and disclose information that you may provide while visiting our website, mobile sites, mobile applications and other online services (the “Sites”) using a personal computer, mobile device, or any other means, and to demonstrate our firm commitment to Internet privacy.
 This Policy also applies to personal information collected by third-party vendors on our behalf.
 Marcy Kaptur for Congress operates in the United States and the information we collect is governed by U.S. law.
 Marcy Kaptur for Congress may modify this Policy from time to time so we encourage you to check this page when revisiting the Sites to make sure that you are informed of how your personal information will be used.
@@ -8,8 +8,7 @@ What is Personal Information?
 “Personal Information” is information about a particular individual that specifically identifies that individual, or information about that individual, such as name, address, email address, telephone number, or credit or debit card information.
 Personal Information does not include “aggregate information,” which is data we may collect automatically about the use of the Sites.
 The Policy does not restrict Marcy Kaptur for Congress’s collection and use of aggregate information.
-Collection of Personal Information
-We collect Personal Information that you provide to us when you register, send us an email, sign up to receive email or text messages, sign up to volunteer, fill out a form, make a purchase or donation, communicate with us through third-party social feeds, request information, participate in active forums or take any other action on the Sites.
+Collection of Personal Information We collect Personal Information that you provide to us when you register, send us an email, sign up to receive email or text messages, sign up to volunteer, fill out a form, make a purchase or donation, communicate with us through third-party social feeds, request information, participate in active forums or take any other action on the Sites.
 As required by the Federal Election Commission (FEC), we must also collect and disclose the name, address, occupation, and employer of all donors whose donations exceed $200 during the election cycle.
 We may also obtain information from outside sources and combine it with the information we collect through the Sites.
 We will never knowingly collect, use or disclose Personal Information from anyone under the age of 13, consistent with the United States Federal Children’s Online Privacy Act of 1998 (COPPA).
@@ -29,53 +28,26 @@ Our web servers may also collect “log data.” Log data provides aggregate inf
 We use log data for troubleshooting purposes and to track which pages people visit in order to improve the Sites.
 We do not link log data collected to Personal Information.
 Third-party vendors may also collect aggregate log data independently from us.
-Collection from Other Sources
-This Policy also applies to Personal Information that we may obtain from third-party vendors such as search engines or social media sites.
+Collection from Other Sources This Policy also applies to Personal Information that we may obtain from third-party vendors such as search engines or social media sites.
 However, we are not responsible for the content or privacy policies of these third-party vendors.
 We encourage you to read the privacy policies and review the practices of all websites you visit.
-How We Use Your Personal Information
-We may use your Personal Information for various purposes including to:
-Connect you to Marcy Kaptur for Congress programs, events and activities, and obtain and confirm RSVP’s to events and programs;
-Improve, maintain, and operate the Sites, send you receipts, confirmations, updates, notices, and messages regarding support and administration;
-Provide and deliver news and information we think will interest you, such as information about relevant issues, resources, events, campaigns, candidates, events, promotions, products and services;
-Provide information or products that you request and process and complete such transactions;
-Respond to your emails, requests, comments, submissions and questions, and provide customer service, request feedback and otherwise communicate with you regarding your use of the Sites;
-Help connect you with other Marcy Kaptur for Congress supporters, and to solicit donations, support and volunteers;
-Monitor and analyze trends and site usage and provide features and content that match your interests based on the information you provide and your actions on the Sites;
-For any other purpose for which the information was collected; and
-Contact you if required by Federal election laws.
-How We Share Your Personal Information
-Though we make every effort to preserve your privacy, we may share Personal information as follows:
-When we have a good-faith belief that release is appropriate to comply with the law (for example, a lawful subpoena);
-To protect the rights or property or safety of our supporters, employees, volunteers or others;
-With vendors, service providers, consultants, employees, contractors, or volunteers who need to know such information to carry out their duties;
-With groups, causes, organizations, or candidates we believe have similar views, goals, and principles;
-To report your name, address, occupation, employer and amount contributed if your donation exceeds $200, as required by the FEC;
-To comply with applicable laws, statutes, or regulations and to enforce this Policy; and
-With your consent
-How We Protect the Information You Provide
-Marcy Kaptur for Congress uses reasonable industry-standard security measures to protect against the loss, misuse, theft, unauthorized access, destruction or alteration of the information under our control.
+How We Use Your Personal Information We may use your Personal Information for various purposes including to: Connect you to Marcy Kaptur for Congress programs, events and activities, and obtain and confirm RSVP’s to events and programs; Improve, maintain, and operate the Sites, send you receipts, confirmations, updates, notices, and messages regarding support and administration; Provide and deliver news and information we think will interest you, such as information about relevant issues, resources, events, campaigns, candidates, events, promotions, products and services; Provide information or products that you request and process and complete such transactions; Respond to your emails, requests, comments, submissions and questions, and provide customer service, request feedback and otherwise communicate with you regarding your use of the Sites; Help connect you with other Marcy Kaptur for Congress supporters, and to solicit donations, support and volunteers; Monitor and analyze trends and site usage and provide features and content that match your interests based on the information you provide and your actions on the Sites; For any other purpose for which the information was collected; and Contact you if required by Federal election laws.
+How We Share Your Personal Information Though we make every effort to preserve your privacy, we may share Personal information as follows: When we have a good-faith belief that release is appropriate to comply with the law (for example, a lawful subpoena); To protect the rights or property or safety of our supporters, employees, volunteers or others; With vendors, service providers, consultants, employees, contractors, or volunteers who need to know such information to carry out their duties; With groups, causes, organizations, or candidates we believe have similar views, goals, and principles; To report your name, address, occupation, employer and amount contributed if your donation exceeds $# as required by the FEC; To comply with applicable laws, statutes, or regulations and to enforce this Policy; and With your consent How We Protect the Information You Provide Marcy Kaptur for Congress uses reasonable industry-standard security measures to protect against the loss, misuse, theft, unauthorized access, destruction or alteration of the information under our control.
 Our server is located in a locked, secure environment.
 Although we make good faith efforts to store information collected by the Sites in a secure operating environment, we cannot guarantee complete security.
-Petitions
-Any petitions that you have signed online, and any comments therewith, constitute public information that we may provide to local, state, or national political leaders and the press.
-Advertising and Analytics Services
-We may communicate with third-party vendors, including Google, and place online advertising, which will be shown on other websites on the Internet.
-In some cases, those third-party vendors may decide which ads to show you based on your prior visits to the Sites.
-At no time will you be personally identified to those third-party vendors, nor will any of the information you share with us be shared with those third-party vendors.
-If you prefer to opt out of the use of these third-party cookies on the Sites, you can do so by visiting the Network Advertising Initiative opt out page.
-We may also use third-party services such as Google Analytics.
+Petitions Any petitions that you have signed online, and any comments therewith, constitute public information that we may provide to local, state, or national political leaders and the press.
+Advertising and Analytics Services We may also use third-party services such as Google Analytics.
 This helps us understand traffic patterns and know if there are problems with the Sites.
 We may also use embedded images in emails to track open rates for our mailings, so that we can tell which mailings appeal most to our supporters.
-California Residents
-Some browsers have incorporated “Do Not Track” features.
+California Residents Some browsers have incorporated “Do Not Track” features.
 Most of these features, when turned on, send a signal or preference to a website or online service that a user visits, indicating that the user does not wish to be tracked.
 California law requires that an operator of a website or other online service disclose how the operator responds to a Do Not Track signal and whether third parties may collect personal information about an individual’s online activities from the operator’s website or online service.
 Marcy Kaptur for Congress is committed to providing you with meaningful choices about the information collected through the Sites, however please be aware that the Internet industry is currently still working on Do Not Track standards, implementations and solutions, and therefore the Sites may or may not respond to those signals.
 California law also provides California residents with the right to receive disclosures about any sharing of their Personal Information to a business in connection with a business relationship that is primarily for personal, family, or household purposes, and if that business has within the immediately preceding calendar year disclosed such an individual’s Personal Information to a third-party and knows or should have known that such third-party used the information for its own direct marketing purposes, then that business is obligated to disclose in writing to such individual upon request, what Personal Information was shared and with whom it was shared.
 Any request for a disclosure required under this California law should be sent to us via email at info@marcykaptur.com or via regular mail at Marcy Kaptur for Congress, PO Box 21600 Washington, DC 20009.
-How to Unsubsribe or Opt Out
-People who subscribe to email lists via the Sites will receive periodic updates from us by regular mail, fax or email.
+How to Unsubsribe or Opt Out People who subscribe to email lists via the Sites will receive periodic updates from us by regular mail, fax or email.
 You may opt out of receiving future information via email by using the unsubscribe procedure specified on the email message.
-How to Contact Us
-Questions regarding this Privacy Policy should be emailed to Marcy Kaptur for Congress at info@marcykaptur.com.
+How to Contact Us Questions regarding this Privacy Policy should be emailed to Marcy Kaptur for Congress at info@marcykaptur.com .
+Donate Contribute to our campaign and help reelect Marcy to Congress.
+Contribute You can also send a check to: Kaptur for Congress P.O.
+Box 899 Toledo, OH 43697 Follow Marcy Facebook X-twitter Get in touch info@marcykaptur.com For Media Inquiries, please email: press@marcykaptur.com To reach our campaign call: ‪(419) 665-3133‬ Information Media Privacy Policy Donate Paid for by Kaptur for Congress Site by Kinetic Meet Marcy Marcy’s Priorities Contact Get Involved Menu Toggle Volunteer Fellowships Voter Hub Yard Sign Request Scroll to Top Meet Marcy Marcy’s Priorities Get Involved Lawn Signs Voter Hub Contact Meet Marcy Marcy’s Priorities Get Involved Lawn Signs Voter Hub Contact Donate

@@ -1,7 +1,11 @@
 {
  "description": "Official campaign website for Democrat Mike Baker for Ohio State Representative District 52",
  "final_url": "https://bakerforohio.com/home",
- "paid_for_by": null,
+ "fingerprint": "74b265cd771a3c3af33b87fcb380cf534d918319",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mike Baker Democrat for Ohio State Representative District 52",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

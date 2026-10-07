@@ -1,14 +1,54 @@
 [
-"https://mistycluett.com/",
-"https://mistycluett.com/cart",
-"https://mistycluett.com/contact",
-"https://mistycluett.com/donate",
-"https://mistycluett.com/downloads",
-"https://mistycluett.com/events-1",
-"https://mistycluett.com/faq",
-"https://mistycluett.com/get-involved",
-"https://mistycluett.com/meet-misty",
-"https://mistycluett.com/priorities",
-"https://mistycluett.com/s/MNC-CampaignPresentation.pdf",
-"https://mistycluett.com/s/RepMorikawa-LegRec2.pdf"
+{
+"text": "0",
+"href": "https://www.mistycluett.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.mistycluett.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.mistycluett.com/donate"
+},
+{
+"text": "Download",
+"href": "https://www.mistycluett.com/s/MNC-CampaignPresentation.pdf"
+},
+{
+"text": "Download",
+"href": "https://www.mistycluett.com/s/RepMorikawa-LegRec2.pdf"
+},
+{
+"text": "Downloads",
+"href": "https://www.mistycluett.com/downloads"
+},
+{
+"text": "Events",
+"href": "https://www.mistycluett.com/events-1"
+},
+{
+"text": "FAQ",
+"href": "https://www.mistycluett.com/faq"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mistycluett.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.mistycluett.com/"
+},
+{
+"text": "Meet Misty",
+"href": "https://www.mistycluett.com/meet-misty"
+},
+{
+"text": "Priorities",
+"href": "https://www.mistycluett.com/priorities"
+},
+{
+"text": "[image: Misty Cluett]",
+"href": "https://www.mistycluett.com/"
+}
 ]

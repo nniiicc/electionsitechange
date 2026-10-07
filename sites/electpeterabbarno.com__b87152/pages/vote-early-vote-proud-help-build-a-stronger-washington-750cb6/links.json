@@ -1,32 +1,130 @@
 [
-"http://leg.wa.gov/",
-"https://electpeterabbarno.com/",
-"https://electpeterabbarno.com/about",
-"https://electpeterabbarno.com/category/blog",
-"https://electpeterabbarno.com/category/uncategorized",
-"https://electpeterabbarno.com/es/vota-pronto-vota-con-orgullo-ayuda-a-construir-un-washington-mas-fuerte",
-"https://electpeterabbarno.com/issues",
-"https://electpeterabbarno.com/items-of-interest",
-"https://electpeterabbarno.com/lewis-county-public-health-building-to-be-modernized",
-"https://electpeterabbarno.com/making-home-energy-improvements-work-better-for-washington-communities",
-"https://electpeterabbarno.com/peters-blog",
-"https://electpeterabbarno.com/protecting-rural-washington",
-"https://electpeterabbarno.com/rep-abbarno-delivers-welcome-address-to-washington-state-building-and-trades-council",
-"https://electpeterabbarno.com/signup-for-peters-newsletter",
-"https://electpeterabbarno.com/vote-early-vote-proud-help-build-a-stronger-washington",
-"https://facebook.com/peter.abbarno",
-"https://instagram.com/peter_abbarno",
-"https://secure.anedot.com/committee-to-elect-peter-abbarno/re-elect-2026",
-"https://silveragency.com/",
-"https://sos.wa.gov/elections",
-"https://sos.wa.gov/elections/administrators/forms-voters",
-"https://sos.wa.gov/elections/candidates/frequently-asked-questions/recount-faq",
-"https://sos.wa.gov/elections/data-research/election-data-and-maps/2024-court-designated-legislativecongressional-maps",
-"https://sos.wa.gov/elections/data-research/election-data-and-maps/reports-data-and-statistics/precinct-shapefiles",
-"https://sos.wa.gov/elections/data-research/election-technology/post-election-audits",
-"https://sos.wa.gov/elections/voters/helpful-information/natural-disasters-and-voting",
-"https://sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters",
-"https://sos.wa.gov/sites/default/files/2022-05/2018_voter-intent_web.pdf",
-"https://sos.wa.gov/sites/default/files/2023-09/GuideToRegisteringVoters.pdf",
-"https://twitter.com/peterabbarno"
+{
+"text": "ABOUT",
+"href": "https://electpeterabbarno.com/about/"
+},
+{
+"text": "BLOG",
+"href": "https://electpeterabbarno.com/peters-blog/"
+},
+{
+"text": "Blog",
+"href": "https://electpeterabbarno.com/category/blog/"
+},
+{
+"text": "Candidate Resources",
+"href": "https://www.sos.wa.gov/elections#candidates"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/committee-to-elect-peter-abbarno/re-elect-2026"
+},
+{
+"text": "District Maps",
+"href": "https://www.sos.wa.gov/elections/data-research/election-data-and-maps/2024-court-designated-legislativecongressional-maps"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/peterabbarno"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/peter.abbarno"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/peter_abbarno"
+},
+{
+"text": "Forms for Voters",
+"href": "https://www.sos.wa.gov/elections/administrators/forms-voters"
+},
+{
+"text": "Get Peter's Newsletter",
+"href": "https://electpeterabbarno.com/signup-for-peters-newsletter/"
+},
+{
+"text": "Guide to Registering Voters (PDF)",
+"href": "https://www.sos.wa.gov/sites/default/files/2023-09/GuideToRegisteringVoters.pdf"
+},
+{
+"text": "ISSUES",
+"href": "https://electpeterabbarno.com/issues/"
+},
+{
+"text": "LEGISLATURE",
+"href": "http://leg.wa.gov/"
+},
+{
+"text": "Lewis County Public Health building to be modernized",
+"href": "https://electpeterabbarno.com/lewis-county-public-health-building-to-be-modernized/"
+},
+{
+"text": "Making Home Energy Improvements Work Better for Washington Communities",
+"href": "https://electpeterabbarno.com/making-home-energy-improvements-work-better-for-washington-communities/"
+},
+{
+"text": "NEWS",
+"href": "https://electpeterabbarno.com/items-of-interest/"
+},
+{
+"text": "Natural Disasters and Voting",
+"href": "https://www.sos.wa.gov/elections/voters/helpful-information/natural-disasters-and-voting"
+},
+{
+"text": "Next Article →",
+"href": "https://electpeterabbarno.com/lewis-county-public-health-building-to-be-modernized/"
+},
+{
+"text": "Post-Election Audits",
+"href": "https://www.sos.wa.gov/elections/data-research/election-technology/post-election-audits"
+},
+{
+"text": "Protecting Washington’s Working Lands and Strengthening Rural Communities",
+"href": "https://electpeterabbarno.com/protecting-rural-washington/"
+},
+{
+"text": "Recounts",
+"href": "https://www.sos.wa.gov/elections/candidates/frequently-asked-questions/recount-faq"
+},
+{
+"text": "Statewide Standards on What is a Vote (PDF)",
+"href": "https://www.sos.wa.gov/sites/default/files/2022-05/2018_voter-intent_web.pdf"
+},
+{
+"text": "The Silver Agency",
+"href": "https://silveragency.com"
+},
+{
+"text": "Top Two Primary (August Primary): FAQs for Voters",
+"href": "https://www.sos.wa.gov/elections/voters/helpful-information/top-two-primary-faqs-voters"
+},
+{
+"text": "Uncategorized",
+"href": "https://electpeterabbarno.com/category/uncategorized/"
+},
+{
+"text": "VOTER INFO",
+"href": "https://www.sos.wa.gov/elections/"
+},
+{
+"text": "[image]",
+"href": "https://electpeterabbarno.com/"
+},
+{
+"text": "[image]English",
+"href": "https://electpeterabbarno.com/vote-early-vote-proud-help-build-a-stronger-washington/"
+},
+{
+"text": "[image]Español (Spanish)",
+"href": "https://electpeterabbarno.com/es/vota-pronto-vota-con-orgullo-ayuda-a-construir-un-washington-mas-fuerte/"
+},
+{
+"text": "precinct shapefiles",
+"href": "https://www.sos.wa.gov/elections/data-research/election-data-and-maps/reports-data-and-statistics/precinct-shapefiles"
+},
+{
+"text": "← Previous Article",
+"href": "https://electpeterabbarno.com/rep-abbarno-delivers-welcome-address-to-washington-state-building-and-trades-council/"
+}
 ]

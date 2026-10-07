@@ -1,5 +1,5 @@
-Love Is More Than a Feeling: What Valentine’s Day Still Gets Right
-Valentine’s Day has become a strange holiday.
+top of page Jantzen Craine HOME MEET JANTZEN VALUES GET INVOLVED MERCH BLOG More Use tab to navigate through the menu items.
+DONATE All Posts Op-Ed In The Weeds (VLOG) Throwback Thursday Songs and Reflection Search Love Is More Than a Feeling: What Valentine’s Day Still Gets Right Jantzen Craine Feb 13 3 min read Valentine’s Day has become a strange holiday.
 On one side, you have the romantics — flowers, chocolates, candlelit dinners, and social media posts that make the rest of us double-check our gift receipts.
 On the other side, you have the skeptics — eye rolls about commercialism, overpriced roses, and the annual reminder that love can’t be measured in heart-shaped boxes.
 Somewhere in between all of that is something worth recovering.
@@ -64,3 +64,9 @@ Not just attraction.
 Not just a holiday.
 You’re celebrating the decision to love — again and again — long after the chocolates are gone.
 And in a world that could use more stability, more loyalty, and more selfless commitment, that’s something worth honoring.
+Recent Posts See All When Energy Policy Costs Maine Jobs Trust in Government Starts with Transparency Why the Middle East Will Never Truly Be at Peace HOME MEET JANTZEN VALUES GET INVOLVED MERCH BLOG More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Committed to accessibility for all.
+Read our Accessibility Statement.
+By visiting this website, you agree to our Privacy Policy and Terms and Conditions .
+Terms & Conditions Privacy Policy Accessibility Statement © # by Craine for Maine.
+All Rights Reserved. bottom of page

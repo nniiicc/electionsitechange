@@ -1,13 +1,8 @@
-State creates database for police to quickly sort and search information on illegal guns
-By: Annie Sweeney & Jeremy Gorner | June 29, 2022 Illinois law enforcement leaders fighting a surge in gun violence announced Wednesday the launch of a searchable database they say will allow departments to more quickly access information on how illegal firearms are moving around the state.
-The Crime Gun Connect platform, available to law […]
-Illinois launches statewide gun trace database to combat illegal firearm trafficking
-Crime Gun Connect will compile data about weapons from departments across the state.
-RAOUL, COALITION REACH NEARLY $4.3 BILLION SETTLEMENT WITH OPIOID MANUFACTURER TEVA
-Health News Illinois | June 28, 2022 The Illinois Attorney General’s office has reached an agreement in principle on the financial terms of a settlement with opioid-maker Teva that would provide up to $4.3 billion to participating state and local governments over 13 years.
-Continue reading on Health News Illinois
-Illinois AG joins coalition reiterating abortion rights
-By: Ben Singson | June 27, 2022 A coalition of 22 attorneys general, including Illinois Attorney General Kwame Raoul, are reaffirming their commitment to providing abortion access.
+About Kwame On the Issues Fighting Crime in Our Communities Advocating for Women Supporting Survivors Protecting Children Fighting for Affordable Healthcare Protecting Voting Rights Standing with Workers News Press Releases In the News Get Involved Get Updates Volunteer Contact Us Donate Now About Kwame On the Issues News Get Involved Contact Us Recent News In the News See All Press Releases In the News In the News | 06/29/22 State creates database for police to quickly sort and search information on illegal guns By: Annie Sweeney & Jeremy Gorner | June 29, 2022 Illinois law enforcement leaders fighting a surge in gun violence announced Wednesday the launch of a searchable database they say will allow departments to more quickly access information on how illegal firearms are moving around the state.
+The Crime Gun Connect platform, available to law […] In the News | 06/29/22 Illinois launches statewide gun trace database to combat illegal firearm trafficking Crime Gun Connect will compile data about weapons from departments across the state.
+In the News | 06/28/22 RAOUL, COALITION REACH NEARLY $4.3 BILLION SETTLEMENT WITH OPIOID MANUFACTURER TEVA Health News Illinois | June 28, 2022 The Illinois Attorney General’s office has reached an agreement in principle on the financial terms of a settlement with opioid-maker Teva that would provide up to $4.3 billion to participating state and local governments over 13 years.
+Continue reading on Health News Illinois In the News | 06/27/22 Illinois AG joins coalition reiterating abortion rights By: Ben Singson | June 27, 2022 A coalition of 22 attorneys general, including Illinois Attorney General Kwame Raoul, are reaffirming their commitment to providing abortion access.
 The group issued a statement Monday in light of Friday’s U.S.
 Supreme Court’s decision that there was no constitutional right to abortion.
-“Regardless of the decision in Dobbs, […]
+“Regardless of the decision in Dobbs, […] 03 04 05 06 07 Stay Up-to-Date Privacy Policy Copyright Kwame Raoul #, All Rights Reserved.
+Paid for by Raoul for Illinois Get Involved

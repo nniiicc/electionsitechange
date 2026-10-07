@@ -1,4 +1,3 @@
-2022 Session Outlook
-The 2022 session has kicked off, we are beginning week three and already a lot is happening.
+0 Skip to Content Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now 2022 Session Outlook Session Preview Jan 18 Written By The 2022 session has kicked off, we are beginning week three and already a lot is happening.
 Included in this email is a report about what is happening and what is upcoming.
-Please find a more in depth report here, and do not hesitate to reach out for more information or to share your thoughts, tvyhovsky@leg.state.vt.us
+Please find a more in depth report here, and do not hesitate to reach out for more information or to share your thoughts, tvyhovsky@leg.state.vt.us 2022-session-start-report-2 Download Previous Previous Town Meeting 2022 Next Next Town Meeting 2021 Legislative Report Tanya Vyhovsky for Chittenden Central Senate PO Box 8376 Essex VT 05451 Paid for by Tanya V for VT

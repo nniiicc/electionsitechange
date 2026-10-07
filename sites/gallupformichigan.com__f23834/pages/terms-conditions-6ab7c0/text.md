@@ -1,4 +1,5 @@
-By providing your phone number and selecting “Yes”, you are giving explicit consent for the Kate Gallup for Michigan State Senate campaign to send you SMS messages for fundraising (including donations) and campaign updates.
+Skip to content Meet Kate Donate Get Involved!
+Events Endorsements Contact Facebook Facebook Pet Tax Media Terms & Conditions By providing your phone number and selecting “Yes”, you are giving explicit consent for the Kate Gallup for Michigan State Senate campaign to send you SMS messages for fundraising (including donations) and campaign updates.
 Please note that standard message and data rates may apply, subject to your mobile carrier’s terms of service.
 The Campaign is not responsible for any charges incurred due to receiving these SMS messages.
 Opt-Out: If at any point you wish to stop receiving SMS messages from The Campaign, you can opt-out by replying with “STOP”.
@@ -22,8 +23,7 @@ We will not share or sell your data to third parties without your explicit conse
 6.
 Changes to these terms: The Campaign reserves the right to update these terms and conditions at any time without prior notice.
 Your continued consent to receive SMS messages will indicate your acceptance of the updated terms and conditions.
-Acknowledgment:
-No Mobile information will be shared with third parties/affiliates for marketing/promotional purposes.
+Acknowledgment: No Mobile information will be shared with third parties/affiliates for marketing/promotional purposes.
 All of the above categories exclude text messaging originator opt-in Data and consent; this information will not be shared with third parties.
 These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company.
 These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
@@ -36,3 +36,4 @@ The Company does not permit those under 18 to use the Service.
 Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company.
 Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You.
 Please read Our Privacy Policy carefully before using Our Service.
+Paid for by the Committee to Elect Kaitlin Gallup, PO Box 65, Maple City, MI 49664 Privacy Policy Instagram Facebook Bluesky

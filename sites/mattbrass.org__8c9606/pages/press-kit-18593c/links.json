@@ -1,28 +1,110 @@
 [
-"http://stoneridgegroup.com/",
-"https://confirmsubscription.com/h/r/B7997A5DB8EAF8B3",
-"https://facebook.com/Matt-Brass-for-State-Senate-173320099416718?fref=ts",
-"https://mattbrass.org/",
-"https://mattbrass.org/about",
-"https://mattbrass.org/about/about",
-"https://mattbrass.org/about/committee-service",
-"https://mattbrass.org/about/issues",
-"https://mattbrass.org/about/sponsored-legislation",
-"https://mattbrass.org/news",
-"https://mattbrass.org/newsletter-updates",
-"https://mattbrass.org/press-kit",
-"https://mattbrass.org/press-kit/@vote_matt_brass",
-"https://mattbrass.org/wp-content/uploads/2016/03/DSC_7823e.jpg",
-"https://mattbrass.org/wp-content/uploads/2016/03/brassfamily-e1516207202213.jpg",
-"https://mattbrass.org/wp-content/uploads/2016/04/DSC_7789e1.jpg",
-"https://mattbrass.org/wp-content/uploads/2016/04/DSC_7845e1-2.jpg",
-"https://mattbrass.org/wp-content/uploads/2016/04/K-Brass-Campaign-20-2.jpg",
-"https://mattbrass.org/wp-content/uploads/2016/04/K-Brass16-9b.jpg",
-"https://mattbrass.org/wp-content/uploads/2018/01/Brass-paper-2.jpg",
-"https://mattbrass.org/wp-content/uploads/2018/01/Matt-Brass-Newnan-Paper-2018.jpg",
-"https://mattbrass.org/wp-content/uploads/2018/05/Brass-Committee-e1527605967203.jpg",
-"https://mattbrass.org/wp-content/uploads/2018/05/Brass-kids.jpg",
-"https://mattbrass.org/wp-content/uploads/2018/05/Brass-seat-2018.jpg",
-"https://mattbrass.org/wp-content/uploads/2018/05/Brass-seat-senate.jpg",
-"https://twitter.com/@vote_matt_brass"
+{
+"text": "About",
+"href": "https://mattbrass.org/about/about/"
+},
+{
+"text": "Committee Service",
+"href": "https://mattbrass.org/about/committee-service/"
+},
+{
+"text": "Home",
+"href": "https://mattbrass.org/"
+},
+{
+"text": "Issues",
+"href": "https://mattbrass.org/about/issues/"
+},
+{
+"text": "Meet Matt",
+"href": "https://mattbrass.org/about/"
+},
+{
+"text": "News",
+"href": "https://mattbrass.org/news/"
+},
+{
+"text": "Newsletter Updates",
+"href": "https://mattbrass.org/newsletter-updates/"
+},
+{
+"text": "Press Kit",
+"href": "https://mattbrass.org/press-kit/"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://mattbrass.org/about/sponsored-legislation/"
+},
+{
+"text": "Volunteer",
+"href": "https://confirmsubscription.com/h/r/B7997A5DB8EAF8B3"
+},
+{
+"text": "[image]",
+"href": "http://www.stoneridgegroup.com"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/wp-content/uploads/2016/03/DSC_7823e.jpg"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/wp-content/uploads/2016/03/brassfamily-e1516207202213.jpg"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/wp-content/uploads/2016/04/DSC_7789e1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/wp-content/uploads/2016/04/DSC_7845e1-2.jpg"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/wp-content/uploads/2016/04/K-Brass-Campaign-20-2.jpg"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/wp-content/uploads/2016/04/K-Brass16-9b.jpg"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/wp-content/uploads/2018/01/Brass-paper-2.jpg"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/wp-content/uploads/2018/01/Matt-Brass-Newnan-Paper-2018.jpg"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/wp-content/uploads/2018/05/Brass-Committee-e1527605967203.jpg"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/wp-content/uploads/2018/05/Brass-kids.jpg"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/wp-content/uploads/2018/05/Brass-seat-2018.jpg"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/wp-content/uploads/2018/05/Brass-seat-senate.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://mattbrass.org/press-kit/@vote_matt_brass"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Matt-Brass-for-State-Senate-173320099416718/?fref=ts"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/@vote_matt_brass"
+}
 ]

@@ -1,4 +1,5 @@
-We hope to see you on Wednesday July 10th in Hawthorn Woods for a fundraising reception from 6:00 p.m. – 8:00 p.m., featuring appetizers, cocktails and lively conversation.
+Contact Donate About Videos News & Events Get Involved Voter Info 52nd District Map Voter Information Endorsements Calendar In the News Select Page Fundraiser at Hawthorn Woods Country Club Wednesday July 10th Jun 27, 2024 We hope to see you on Wednesday July 10th in Hawthorn Woods for a fundraising reception from 6:00 p.m. – 8:00 p.m., featuring appetizers, cocktails and lively conversation.
 Details on the invitation below.
-Please RSVP to marty@martyforillinois.com
-Pay by check, either by mail or at the event, or donate with a credit card online https://martyforillinois.com/donate/
+Please RSVP to marty@martyforillinois.com Pay by check, either by mail or at the event, or donate with a credit card online https://martyforillinois.com/donate/ Get our latest updates on social media, click on an icon below: Follow Follow Follow Paid for by Martin McLaughlin Republican for State House.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois. © # Martin McLaughlin Republican for State House.
+All Rights Reserved.

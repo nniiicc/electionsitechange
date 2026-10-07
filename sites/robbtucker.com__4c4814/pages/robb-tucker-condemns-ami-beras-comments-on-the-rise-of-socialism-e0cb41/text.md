@@ -1,10 +1,6 @@
-CAMPAIGN NEWS PRESS RELEASE
-Robb Tucker Condemns Ami Bera’s Comments on the Rise of Socialism
-July 2, 2026
-SACRAMENTO, CA — In a recent article by The Hill titled “California Rep.
+Skip to content Home About Platform Endorsements News and Events Gallery Contact DONATE CAMPAIGN NEWS PRESS RELEASE Robb Tucker Condemns Ami Bera’s Comments on the Rise of Socialism FOR IMMEDIATE RELEASE July 2, 2026 Contact: Ryan Gardiner ryan@strategyinsightshq.com SACRAMENTO, CA — In a recent article by The Hill titled “California Rep.
 Bera on rise of democratic socialism: ‘It’s about stopping Donald Trump,'” Congressman Ami Bera discussed the growing influence of democratic socialism within his party, characterizing it as part of the effort to oppose President Donald Trump.
-Republican Congressional candidate Robb Tucker released the following statement in response:
-“Congressman Bera’s comments are deeply troubling because they reveal exactly what is wrong with politics today.
+Republican Congressional candidate Robb Tucker released the following statement in response: “Congressman Bera’s comments are deeply troubling because they reveal exactly what is wrong with politics today.
 Instead of focusing on lowering costs, supporting local businesses, improving public safety, and making life better for the people he represents, he is excusing the rise of an ideology that has brought economic misery and government overreach wherever it has been put into practice.
 Socialism is not a new or untested idea.
 It is an ideology with a long history of failure.
@@ -14,8 +10,7 @@ Whether Congressman Bera genuinely believes in the rise of democratic socialism 
 A sitting member of Congress should be unequivocally rejecting socialism—not rationalizing its growing influence within his party.
 I am calling on Republicans, Democrats, and independents alike to reject this dangerous rhetoric.
 This isn’t about party labels; it’s about protecting the American principles that have made our country the most prosperous nation in history.
-We should be fighting for greater opportunity, economic freedom, safer communities, and a better future for our children—not making excuses for an ideology whose record should serve as a warning, not a model.”
-California’s 3rd Congressional District includes portions of Sacramento, Placer, and El Dorado counties, as well as all of Nevada County.
+We should be fighting for greater opportunity, economic freedom, safer communities, and a better future for our children—not making excuses for an ideology whose record should serve as a warning, not a model.” California’s 3rd Congressional District includes portions of Sacramento, Placer, and El Dorado counties, as well as all of Nevada County.
 Following a strong showing in the June primary, the Tucker campaign continues to build momentum heading into the general election by offering voters a clear choice between practical, results-oriented leadership and the failed ideas increasingly embraced by the political left.
 Use the link below for more information about Robb Tucker’s campaign, upcoming events, or volunteer opportunities.
-###
+### TAKE ACTION DONATE Quickly & Securely Online JOIN ROBB Endorse | Volunteer | Yard Sign LATEST NEWS Fundraising Reception – October 8th Fundraising Reception – September 24th Fundraising Reception – August 20th Fundraising Reception – August 30th Robb Tucker Condemns Ami Bera’s Comments on the Rise of Socialism Fundraising Reception – July 17th All News DONATE JOIN ROBB Paid for by Robb Tucker for Congress Privacy Policy | Terms of Use Scroll To Top

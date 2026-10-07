@@ -1,13 +1,50 @@
 [
-"http://instagram.com/wix",
-"http://twitter.com/wix",
-"http://wix.com/",
-"http://youtube.com/user/Wix",
-"https://adamheard4nh.com/",
-"https://adamheard4nh.com/about-6",
-"https://adamheard4nh.com/endorsements",
-"https://adamheard4nh.com/meet-adam",
-"https://adamheard4nh.com/platform",
-"https://facebook.com/profile.php?id=100083611335805",
-"https://linkedin.com/company/wix-com"
+{
+"text": "Adam Heard",
+"href": "https://www.adamheard4nh.com"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.adamheard4nh.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.adamheard4nh.com"
+},
+{
+"text": "MEET ADAM",
+"href": "https://www.adamheard4nh.com/meet-adam"
+},
+{
+"text": "MY POLITICS",
+"href": "https://www.adamheard4nh.com/about-6"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.adamheard4nh.com/platform"
+},
+{
+"text": "Wix.com",
+"href": "http://wix.com/"
+},
+{
+"text": "[image]",
+"href": "http://instagram.com/wix"
+},
+{
+"text": "[image]",
+"href": "http://www.twitter.com/wix"
+},
+{
+"text": "[image]",
+"href": "http://youtube.com/user/Wix"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=100083611335805"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/company/wix-com"
+}
 ]

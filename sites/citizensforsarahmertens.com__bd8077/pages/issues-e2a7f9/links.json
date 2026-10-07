@@ -1,17 +1,66 @@
 [
-"http://elections.il.gov/",
-"https://bsky.app/profile/sarahmertensforil.bsky.social",
-"https://citizensforsarahmertens.com/",
-"https://citizensforsarahmertens.com/about-6-1",
-"https://citizensforsarahmertens.com/cart",
-"https://citizensforsarahmertens.com/endorsements",
-"https://citizensforsarahmertens.com/events",
-"https://citizensforsarahmertens.com/get-involved",
-"https://citizensforsarahmertens.com/issues",
-"https://facebook.com/profile.php?id=61583609271188&sk=about",
-"https://forms.gle/DPSc6QLPVkacp3WY7",
-"https://instagram.com/Sarah.Mertens.for.IL.Senate",
-"https://secure.actblue.com/donate/sarah-mertens-1",
-"https://tiktok.com/@citizens.for.sarah",
-"https://twitch.tv/sarahmertens4il"
+{
+"text": "0",
+"href": "https://www.citizensforsarahmertens.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.citizensforsarahmertens.com/about-6-1"
+},
+{
+"text": "Donate - ActBlue",
+"href": "https://secure.actblue.com/donate/sarah-mertens-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.citizensforsarahmertens.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.citizensforsarahmertens.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.citizensforsarahmertens.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.citizensforsarahmertens.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.citizensforsarahmertens.com/issues"
+},
+{
+"text": "Reach out to the Campaign",
+"href": "https://forms.gle/DPSc6QLPVkacp3WY7"
+},
+{
+"text": "[image: Citizens for Sarah Mertens]",
+"href": "https://www.citizensforsarahmertens.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sarahmertensforil.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583609271188&sk=about"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Sarah.Mertens.for.IL.Senate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@citizens.for.sarah"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitch.tv/sarahmertens4il"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov/"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Contact the Thomas West for State Senate campaign about general, press, volunteer, or contribution questions.",
  "final_url": "https://westforpa.com/contact",
- "paid_for_by": "PAID FOR BY FRIENDS OF THOMAS WEST \u00a9 2026 Friends of Thomas West",
+ "fingerprint": "c163e0f11f3a0509383fb1fa8dd54d7e13b66f97",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY FRIENDS OF THOMAS WEST © 2026 Friends of Thomas West",
  "title": "Contact | Thomas West",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

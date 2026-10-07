@@ -1,8 +1,7 @@
-Best of Eugene Weekly
-I'm honored to have been nominated by people in our community for "Best Local Politician", and "Best Hellraiser" - part of the "Best of Eugene" voting hosted by the Eugene Weekly.
+0 Skip to Content Meet Justin Our Platform Meet Our Team Blog Join Us Volunteer Donate Endorse Justin Donate Open Menu Close Menu Meet Justin Our Platform Meet Our Team Blog Join Us Volunteer Donate Endorse Justin Donate Open Menu Close Menu Meet Justin Our Platform Meet Our Team Blog Folder: Join Us Back Volunteer Donate Endorse Justin Donate Best of Eugene Weekly Sep 16 Written By Justin Filip for Congress I'm honored to have been nominated by people in our community for "Best Local Politician" , and "Best Hellraiser" - part of the "Best of Eugene" voting hosted by the Eugene Weekly.
 We are excited that our campaign is getting some attention.
 We plan to use it to further amplify our message and our demands: End U.S. aid to Israel, ensure strong protections for our environment, meaningfully address the housing crisis and put the interests of the people over the interests of the ruling class.
 We want to make this a referendum on genocide and the environment and what we expect from our representatives.
 It's a way for voters to say they prefer a Green candidate to the candidates from the corporate parties, and it costs us nothing.
 It's a way we can chip away at the duopoly.
-Let them hear you now and then again next November!
+Let them hear you now and then again next November! https://vote.eugeneweekly.com Justin Filip for Congress Previous Previous The Green Party of the United States Fighting for a Free Palestine JUSTIN FILIP FOR CONGRESS justin4congress@gmail.com

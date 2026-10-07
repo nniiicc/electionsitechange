@@ -1,12 +1,46 @@
 [
-"https://brianforliberty.com/",
-"https://brianforliberty.com/about",
-"https://brianforliberty.com/cart",
-"https://brianforliberty.com/contact",
-"https://brianforliberty.com/policies",
-"https://brianforliberty.com/privacy-policy",
-"https://kaizenstudiodesigns.com/",
-"https://linktr.ee/brian4liberty",
-"https://tiktok.com/@brian4liberty",
-"https://youtube.com/@Brian4Liberty"
+{
+"text": "0",
+"href": "https://www.brianforliberty.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.brianforliberty.com/about"
+},
+{
+"text": "Brian for Liberty",
+"href": "https://www.brianforliberty.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.brianforliberty.com/contact"
+},
+{
+"text": "Crafted by Kaizen Studio Design",
+"href": "https://kaizenstudiodesigns.com"
+},
+{
+"text": "Home",
+"href": "https://www.brianforliberty.com/"
+},
+{
+"text": "Policies",
+"href": "https://www.brianforliberty.com/policies"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.brianforliberty.com/privacy-policy"
+},
+{
+"text": "TIKTOK",
+"href": "https://www.tiktok.com/@brian4liberty"
+},
+{
+"text": "YOUTUBE",
+"href": "https://www.youtube.com/@Brian4Liberty%20"
+},
+{
+"text": "linktree",
+"href": "https://linktr.ee/brian4liberty"
+}
 ]

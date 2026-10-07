@@ -1,18 +1,8 @@
-Independent Leadership.
+HOME About PRIORITIES Reform Trust CAMPAIGN ONE STOP HOME About PRIORITIES Reform Trust CAMPAIGN ONE STOP Independent Leadership.
 Practical Solutions.
-Jason LaForest for Arizona State Senate Legislative District 5
-Legislative District 5's Only Clean Elections Candidate
-Jason is proud to participate in Arizona's Clean Elections program, a voter-passed initiative designed to reduce the influence of special interests and give Arizona voters a stronger voice in government.
+Jason LaForest for Arizona State Senate Legislative District 5 Priorities Join the Campaign Legislative District 5's Only Clean Elections Candidate Jason is proud to participate in Arizona's Clean Elections program, a voter-passed initiative designed to reduce the influence of special interests and give Arizona voters a stronger voice in government.
 By forgoing PAC money and donations from corporate interests, his campaign remains focused on accountability, transparency and restoring trust in our public institutions.
-A $5 qualifying contribution will help Jason qualify for public campaign funds.* Must be LD 5 registered voter.
-FOCUSED ON THE ISSUES THAT MATTER
-Making Government Work Again
-Building Pathways to Opportunity
-Protecting Access to the Ballot
-Keeping Arizona Affordable
-Planning Responsibly for Arizona's Future
-Why I'm running
-Time and again, I have seen how mismanagement of public funds has become alarmingly common.
+A $5 qualifying contribution will help Jason qualify for public campaign funds.* Must be LD 5 registered voter. $5 Clean Elections Qualifying Contribution Learn More FOCUSED ON THE ISSUES THAT MATTER Making Government Work Again Restoring Trust in Government Building Pathways to Opportunity Protecting Access to the Ballot Keeping Arizona Affordable Planning Responsibly for Arizona's Future Why I'm running Learn more about Jason Time and again, I have seen how mismanagement of public funds has become alarmingly common.
 I have witnessed unelected officials spend millions of taxpayer dollars without proper legislative approval.
 I have observed state agencies transfer public resources to private companies with little to no accountability.
 I have seen the Legislature neglect its duty to exercise oversight.
@@ -26,5 +16,5 @@ I am tired of putting out fires one by one.
 I am ready to confront the system that allows these failures to continue unchecked.
 That’s why I am running for Arizona State Senate in District 5; it has never been about politics.
 It is about creating a government that works for you.
-CONTACT US
-laforest4az@gmail.com
+CONTACT US laforest4az@gmail.com Paid for by Jason LaForest for State Senator - District No.
+5 SUBSCRIBE FOR CAMPAIGN UPDATES

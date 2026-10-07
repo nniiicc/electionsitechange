@@ -1,21 +1,90 @@
 [
-"https://facebook.com/mikerounds",
-"https://roundsforsenate.com/",
-"https://roundsforsenate.com/about",
-"https://roundsforsenate.com/contact",
-"https://roundsforsenate.com/issues",
-"https://roundsforsenate.com/media",
-"https://roundsforsenate.com/privacy-policy",
-"https://roundsforsenate.com/wp-content/uploads/2025/09/Mike-Rounds-Website-05-scaled.jpg",
-"https://roundsforsenate.com/wp-content/uploads/2025/09/Mike-Rounds-Website-08-scaled.jpg",
-"https://roundsforsenate.com/wp-content/uploads/2025/09/Mike-Rounds-Website-issues-lead.png",
-"https://roundsforsenate.com/wp-content/uploads/2025/10/MikeRounds-General-034.jpg",
-"https://roundsforsenate.com/wp-content/uploads/2025/10/MikeRounds-General-063.jpg",
-"https://roundsforsenate.com/wp-content/uploads/2025/10/MikeRounds-General-082.jpg",
-"https://roundsforsenate.com/wp-content/uploads/2025/10/MikeRounds-General-159.jpg",
-"https://roundsforsenate.com/wp-content/uploads/2025/10/MikeRounds-Portraits-13.jpg",
-"https://roundsforsenate.com/wp-content/uploads/2025/10/MikeRounds-Website-19.jpg",
-"https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite",
-"https://twitter.com/RoundsforSenate",
-"https://youtube.com/@RoundsforSenateSD"
+{
+"text": "About",
+"href": "https://roundsforsenate.com/about/"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite"
+},
+{
+"text": "Issues",
+"href": "https://roundsforsenate.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://roundsforsenate.com/media/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://roundsforsenate.com/privacy-policy/"
+},
+{
+"text": "Take Action",
+"href": "https://roundsforsenate.com/contact/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://roundsforsenate.com/contact/"
+},
+{
+"text": "YARD SIGNS",
+"href": "https://roundsforsenate.com/contact/"
+},
+{
+"text": "[image]",
+"href": "https://roundsforsenate.com/"
+},
+{
+"text": "[image]",
+"href": "https://roundsforsenate.com/wp-content/uploads/2025/09/Mike-Rounds-Website-05-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://roundsforsenate.com/wp-content/uploads/2025/09/Mike-Rounds-Website-08-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://roundsforsenate.com/wp-content/uploads/2025/09/Mike-Rounds-Website-issues-lead.png"
+},
+{
+"text": "[image]",
+"href": "https://roundsforsenate.com/wp-content/uploads/2025/10/MikeRounds-General-034.jpg"
+},
+{
+"text": "[image]",
+"href": "https://roundsforsenate.com/wp-content/uploads/2025/10/MikeRounds-General-063.jpg"
+},
+{
+"text": "[image]",
+"href": "https://roundsforsenate.com/wp-content/uploads/2025/10/MikeRounds-General-082.jpg"
+},
+{
+"text": "[image]",
+"href": "https://roundsforsenate.com/wp-content/uploads/2025/10/MikeRounds-General-159.jpg"
+},
+{
+"text": "[image]",
+"href": "https://roundsforsenate.com/wp-content/uploads/2025/10/MikeRounds-Portraits-13.jpg"
+},
+{
+"text": "[image]",
+"href": "https://roundsforsenate.com/wp-content/uploads/2025/10/MikeRounds-Website-19.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RoundsforSenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mikerounds"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RoundsforSenateSD"
+}
 ]

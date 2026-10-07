@@ -1,4 +1,4 @@
-Lower Costs.
+Skip to content About Issues Education Events Get Involved About Issues Education Events Get Involved Volunteer Donate Putting Ohio First: Carey’s Plan Lower Costs.
 Higher Paychecks.
 Real Relief.
 Families across Northeast Ohio are being crushed by rising prices on groceries, gas, housing, utilities, and healthcare.
@@ -12,8 +12,7 @@ Emilia Sykes has consistently supported the policies that fueled inflation and h
 Rather than challenging Washington’s spending addiction and regulatory overreach, she has voted in line with leadership that expanded government, increased borrowing, and weakened domestic energy production.
 Families pay the price while politicians avoid accountability.
 Carey believes affordability is about restoring common sense: living within our means, empowering workers and entrepreneurs, and putting American families ahead of political agendas.
-Law & Order
-Safe communities are the foundation of a strong economy, strong families, and a free society.
+Law & Order Safe communities are the foundation of a strong economy, strong families, and a free society.
 Northeast Ohio families deserve neighborhoods where children can play safely, businesses can operate without fear, and law enforcement officers are supported not undermined.
 Unfortunately, rising crime, soft-on-crime policies, and underfunded public safety infrastructure have left too many communities vulnerable.
 Carey Coleman will take action to support law enforcement and strengthen public safety.
@@ -46,8 +45,7 @@ He will fight for fair trade policies that protect American workers, expand appr
 Emilia Sykes has supported economic policies that favor federal spending programs and centralized planning over private-sector growth.
 These approaches often benefit special interests while leaving local employers buried under compliance costs and uncertainty.
 Carey’s focus is simple: more jobs, higher wages, stronger local businesses, and real opportunity for the next generation.
-Building Strong Communities
-Reliable infrastructure is essential for economic growth, public safety, and quality of life.
+Building Strong Communities Reliable infrastructure is essential for economic growth, public safety, and quality of life.
 Roads, bridges, water systems, broadband access, and energy infrastructure must work efficiently to keep communities connected and competitive.
 Too often, federal infrastructure spending is wasted on bureaucracy, political pet projects, and delays instead of delivering real improvements on the ground.
 Carey Coleman will take action to prioritize smart, accountable infrastructure investment.
@@ -57,3 +55,7 @@ Carey will advocate for public-private partnerships, transparent project oversig
 Emilia Sykes has supported massive federal spending packages that lack accountability and deliver slow, uneven results.
 Communities continue waiting for improvements while costs rise and projects stall.
 Carey believes infrastructure should serve the people not politics.
+Paid for by Carey Coleman for Congress P.O.
+Box 560222 Macedonia, OH 44056 Facebook-f X-twitter Instagram Tiktok Learn More About Issues Education Events Get Involved About Issues Education Events Get Involved © # Carey Coleman for Congress.
+All rights reserved.
+Terms of Service Privacy Policy Terms of Service Privacy Policy

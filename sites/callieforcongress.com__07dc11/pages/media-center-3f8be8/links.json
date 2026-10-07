@@ -1,12 +1,74 @@
 [
-"https://callieforcongress.com/",
-"https://callieforcongress.com/claim-shark",
-"https://callieforcongress.com/endorsements",
-"https://callieforcongress.com/events",
-"https://callieforcongress.com/fire-jack-bergman",
-"https://callieforcongress.com/media-center",
-"https://callieforcongress.com/meet-callie",
-"https://callieforcongress.com/platform",
-"https://secure.actblue.com/donate/callie-barr-1",
-"https://store.callieforcongress.com/"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/callie-barr-1"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/callie-barr-1"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/callie-barr-1"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/callie-barr-1"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/callie-barr-1"
+},
+{
+"text": "Contact",
+"href": "mailto:info@callieforcongress.com"
+},
+{
+"text": "Custom",
+"href": "https://secure.actblue.com/donate/callie-barr-1"
+},
+{
+"text": "Custom Amount",
+"href": "https://secure.actblue.com/donate/callie-barr-1"
+},
+{
+"text": "Endorsements",
+"href": "https://callieforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://callieforcongress.com/events/"
+},
+{
+"text": "Fact Sheet",
+"href": "https://callieforcongress.com/claim-shark/"
+},
+{
+"text": "Fire Jack Bergman",
+"href": "https://callieforcongress.com/fire-jack-bergman/"
+},
+{
+"text": "Media Center",
+"href": "https://callieforcongress.com/media-center/"
+},
+{
+"text": "Meet Callie",
+"href": "https://callieforcongress.com/meet-callie/"
+},
+{
+"text": "Platform",
+"href": "https://callieforcongress.com/platform/"
+},
+{
+"text": "Store",
+"href": "https://store.callieforcongress.com"
+},
+{
+"text": "Store",
+"href": "https://store.callieforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://callieforcongress.com/"
+}
 ]

@@ -1,7 +1,9 @@
 {
- "description": "Get the latest news and updates from Rene\u2019s campaign.",
+ "description": "Get the latest news and updates from Rene’s campaign.",
  "final_url": "https://www.upballot.com/rene-vance/news/",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
- "title": "News & Updates from Rene VanceNews & Updates from Rene Vance",
+ "fingerprint": "b3f4d41508eaa500cc3bf8eb23f1d90ce4805171",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "title": "News & Updates from Rene Vance",
  "years_mentioned": []
 }

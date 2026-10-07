@@ -1,13 +1,54 @@
 [
-"https://daniels4assembly.com/",
-"https://daniels4assembly.com/about",
-"https://daniels4assembly.com/contact",
-"https://daniels4assembly.com/endorsements",
-"https://daniels4assembly.com/issues",
-"https://daniels4assembly.com/privacy",
-"https://daniels4assembly.com/sms-terms",
-"https://daniels4assembly.com/volunteer",
-"https://facebook.com/daniels4assembly",
-"https://instagram.com/daniels4assembly",
-"https://secure.anedot.com/carolyn-daniels-for-assembly-2026/donate"
+{
+"text": "ABOUT",
+"href": "https://www.daniels4assembly.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.daniels4assembly.com/contact"
+},
+{
+"text": "CONTACT",
+"href": "mailto:Daniels4Assembly@pm.me?subject=Web+Contact+-+Daniels4Assembly"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/carolyn-daniels-for-assembly-2026/donate"
+},
+{
+"text": "Daniels4Assembly@pm.me",
+"href": "mailto:Daniels4Assembly@pm.me?subject=Web+Email"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.daniels4assembly.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.daniels4assembly.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.daniels4assembly.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.daniels4assembly.com/privacy"
+},
+{
+"text": "SMS Terms",
+"href": "https://www.daniels4assembly.com/sms-terms"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.daniels4assembly.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://facebook.com/daniels4assembly"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/daniels4assembly"
+}
 ]

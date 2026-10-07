@@ -1,8 +1,30 @@
 [
-"https://secure.anedot.com/friends-of-jake-taylor/donate",
-"https://votejaketaylor.com/",
-"https://votejaketaylor.com/about",
-"https://votejaketaylor.com/contact",
-"https://votejaketaylor.com/issues",
-"https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+{
+"text": "About",
+"href": "https://votejaketaylor.com/about"
+},
+{
+"text": "Contact",
+"href": "https://votejaketaylor.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-jake-taylor/donate"
+},
+{
+"text": "Home",
+"href": "https://votejaketaylor.com/"
+},
+{
+"text": "Issues",
+"href": "https://votejaketaylor.com/issues"
+},
+{
+"text": "[image: votejaketaylor.com]",
+"href": "https://votejaketaylor.com/"
+},
+{
+"text": "voter location look-up guide.",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+}
 ]

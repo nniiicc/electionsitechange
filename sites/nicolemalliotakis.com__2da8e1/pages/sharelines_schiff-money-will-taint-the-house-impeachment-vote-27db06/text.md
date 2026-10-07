@@ -1,5 +1,4 @@
-Op-Ed by Nicole Malliotakis
-We’re all familiar with the phrase “follow the money” which was popularized by “All the President’s Men,” the 1976 film on the Watergate break-in and the subsequent downfall of President Nixon.
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Op-Ed by Nicole Malliotakis Schiff Money Will Taint the House Impeachment Vote Nov 25, 2019 Op-Ed by Nicole Malliotakis We’re all familiar with the phrase “follow the money” which was popularized by “All the President’s Men,” the 1976 film on the Watergate break-in and the subsequent downfall of President Nixon.
 Now, more than four decades later, the phrase still holds true, though this time it applies to Members of Congress and not the resident of the White House.
 With his 3-plus years of anti-Trump rhetoric, and a congressional district that contains Hollywood, Congressman Adam Schiff has managed to raise in excess of $4 million since the start of 2019 and, with nearly a year remaining, he is on target to surpass the more than $6 million he raised for his 2018 reelection campaign.
 Raising such a large war chest, one might presume that Congressman Schiff has been facing tough challenges from Republican opponents.
@@ -11,7 +10,7 @@ Among those from New York are Rep.
 Anthony Brindisi and Rep.
 Antonio Delgado, both from upstate, and Rep.
 Max Rose, who is my opponent in New York’s 11th Congressional District in Staten Island and South Brooklyn.
-It’s not unusual for Members of Congress to share their fundraising bounty with like-minded colleagues in tough races.
+Chip in and Stand with Nicole: $ 10 $ 25 $ 50 other donate now It’s not unusual for Members of Congress to share their fundraising bounty with like-minded colleagues in tough races.
 But, in 2019, things are different and are amplified by Rep.
 Schiff’s over six-fold increase in donations in one election cycle.
 The difference this year is the impeachment frenzy that grips Washington and the role Rep.
@@ -26,7 +25,8 @@ Schiff to immediately return the donation(s) or, if they keep the funds, to pled
 Last week, I called on my opponent, Rep.
 Max Rose, to immediately return the $2,000 he received.
 His silence on the topic has been deafening.
-The fact of the matter is, there are 43 other Members of Congress in the exact same position, 43 elected officials who need to be called-out for accepting these funds and 43 public servants who will undoubtedly turn a deaf-ear to constituents who call for the return of these “donations.”
-Its cynical displays like this that disgust fair minded people.
+The fact of the matter is, there are 43 other Members of Congress in the exact same position, 43 elected officials who need to be called-out for accepting these funds and 43 public servants who will undoubtedly turn a deaf-ear to constituents who call for the return of these “donations.” Its cynical displays like this that disgust fair minded people.
 It’s another example as to why Congress is viewed so unfavorably.
 It’s time the American people set the record straight and send a strong message to the House Democrats that hypocrisy won’t sell well in an election year.
+Chip in and Stand with Nicole: $ 10 $ 25 $ 50 other donate now NEXT ARTICLE Malliotakis takes aim at Rep.
+Rose over delayed North American trade deal PREVIOUS ARTICLE The 10 most vulnerable House members in 2020: Democrats dominate STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

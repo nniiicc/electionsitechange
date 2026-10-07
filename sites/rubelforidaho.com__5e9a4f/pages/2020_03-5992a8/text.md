@@ -1,5 +1,6 @@
-Mar 13, 2020
-Idaho State Capitol – On Friday, the House debated amendments to Senate Bill 1277.
+Donate Volunteer Yard Sign Home Blog / News Legislation Education Environment and Quality of Life Healthcare and Community Safety Endorsements Team D18 Voter Survey Contact House Debates Property Tax Amendment Mar 13, 2020 Idaho State Capitol – On Friday, the House debated amendments to Senate Bill 1277.
 The original legislation made changes to the application process for the Idaho homestead exemption.
 However, the legislation was sent to General Orders on Friday morning.
 “SB 1277 was...
+Search Search All Issues Business / Job Creation Climate Change / Solar Rights Bill COVID 19 Criminal Justice Reform Events First Responders Compensation Gerrymandering / Voting Rights Human Rights Medicaid Expansion / Health Care Public Education Slider State of the State / Revenue Situation Taxes January 2024 September 2022 March 2022 February 2022 January 2022 May 2021 April 2021 March 2021 February 2021 January 2021 October 2020 August 2020 July 2020 June 2020 March 2020 February 2020 January 2020 April 2019 March 2019 February 2019 January 2019 January 2018 January 2017 February 2014 Paid for by Rubel for Idaho | Treasurer Sally Stone 2750 E.
+Migratory Drive, Boise, ID 83706 Follow Follow Follow

@@ -1,5 +1,4 @@
-Embedded Files
-NYS is home to thousands of big corporations, companies and small businesses.
+Search this site Embedded Files Skip to main content Skip to navigation laurieryan.com Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE laurieryan.com Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE More Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE BUSINESS NYS is home to thousands of big corporations, companies and small businesses.
 I will not vote to raise taxes on big business simply because some believe they should pay more.
 These companies already contribute significantly — they pay substantial taxes, employ thousands of people who send their kids to our schools, pay school and property taxes, support our small businesses every day, and provide competitive benefits.
 Our small businesses — often family-owned — are the backbone of our communities.
@@ -21,6 +20,4 @@ También trabajaré para reducir las regulaciones onerosas que dificultan a los 
 Las zonas comerciales seguras y vibrantes atraen clientes, lo que significa mejores aceras, iluminación y presencia policial.
 También apoyo el desarrollo inteligente, como edificios de uso mixto con locales comerciales en la planta baja y apartamentos en los pisos superiores, cuando sea apropiado y aprobado por los gobiernos locales, nunca como una obligación.
 Colaboraré activamente con nuestra comunidad empresarial asistiendo a reuniones de Rotary y otros grupos empresariales locales para escuchar, colaborar y promover su éxito.
-Page updated
-Google Sites
-Report abuse
+LAURIE RYAN for NEW YORK STATE ASSEMBLY DISTRICT 95 VOTE TUESDAY NOVEMBER 3, 2026 Fecha de la Elección: Martes 3 de Noviembre 2026 EARLY VOTING SATURDAY OCTOBER 24 - SUNDAY NOVEMBER 1 Votación anticipada: sábado 24 de Octubre - Domingo 1 de Noviembre ALL LITERATURE, YARDSIGNS, MERCHANDISE, ADS, WEBSITE PAID FOR BY LAURIERYAN4NY PRIVACY POLICY EMAIL FACEBOOK INSTAGRAM Google Sites Report abuse Page details Page updated Google Sites Report abuse

@@ -1,11 +1,38 @@
 [
-"http:///",
-"https://facebook.com/bmatrix",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/silvaforstatesenate",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/bobby-silva-1",
-"https://silvaforstatesenate.com/",
-"https://silvaforstatesenate.com/tos-and-privacy-policy"
+{
+"text": "Get Started",
+"href": "http://"
+},
+{
+"text": "Join Our Campaign, Donate Now",
+"href": "https://secure.actblue.com/donate/bobby-silva-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "TOS and Privacy Policy",
+"href": "https://silvaforstatesenate.com/tos-and-privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Bobby Silva for State Senate DISTRICT 25]",
+"href": "https://silvaforstatesenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bmatrix"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/silvaforstatesenate/"
+}
 ]

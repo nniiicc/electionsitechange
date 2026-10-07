@@ -1,7 +1,42 @@
 [
-"https://citizens-for-sergent.com/",
-"https://citizens-for-sergent.com/donate",
-"https://citizens-for-sergent.com/home",
-"https://citizens-for-sergent.com/volunteer",
-"https://facebook.com/profile.php?id=61551760365577"
+{
+"text": "660.864.4750",
+"href": "tel:6608644750"
+},
+{
+"text": "About",
+"href": "https://citizens-for-sergent.com/home/#about"
+},
+{
+"text": "Donate",
+"href": "https://citizens-for-sergent.com/donate/"
+},
+{
+"text": "Envelope",
+"href": "mailto:info@citizens-for-sergent.com"
+},
+{
+"text": "Events",
+"href": "https://citizens-for-sergent.com/home/#events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61551760365577"
+},
+{
+"text": "Issues",
+"href": "https://citizens-for-sergent.com/home/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://citizens-for-sergent.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://citizens-for-sergent.com"
+},
+{
+"text": "matt@citizens-for-sergent.com",
+"href": "mailto:matt@citizens-for-sergent.com"
+}
 ]

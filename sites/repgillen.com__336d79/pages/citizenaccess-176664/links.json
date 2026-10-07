@@ -1,25 +1,98 @@
 [
-"https://facebook.com/RepGillen",
-"https://legis.state.pa.us/cfdocs/CteeInfo/StandingCommittees.cfm?CteeBody=H",
-"https://legis.state.pa.us/cfdocs/legis/CMS/index.cfm?Chamber=H",
-"https://legis.state.pa.us/cfdocs/legis/LI/Public/cons_index.cfm",
-"https://legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=0",
-"https://legis.state.pa.us/cfdocs/legis/RC/Public/rc_view_date.cfm?rc_body=H",
-"https://legis.state.pa.us/cfdocs/legis/home/bills",
-"https://legis.state.pa.us/cfdocs/legis/home/hj/hj.cfm",
-"https://pahousegop.com/TermsOfUse",
-"https://pahousegop.com/livestreams",
-"https://penndot.gov/_layouts/pa.penndot.formsandpubs/formsandpubs.aspx",
-"https://repgillen.com/",
-"https://repgillen.com/Email-Signup",
-"https://repgillen.com/NewsGroup/Press-Releases",
-"https://repgillen.com/PAGovLinks",
-"https://repgillen.com/about",
-"https://repgillen.com/citizenaccess",
-"https://repgillen.com/contact",
-"https://repgillen.com/districtmap",
-"https://repgillen.com/events",
-"https://repgillen.com/livestreams",
-"https://repgillen.com/video/latestvideo",
-"https://revenue.pa.gov/Pages/default.aspx"
+{
+"text": "Bills and amendments",
+"href": "https://www.legis.state.pa.us/cfdocs/legis/home/bills/"
+},
+{
+"text": "Bio",
+"href": "https://www.repgillen.com/about"
+},
+{
+"text": "Citizens Access Portal",
+"href": "https://www.repgillen.com/citizenaccess"
+},
+{
+"text": "Committees",
+"href": "https://www.legis.state.pa.us/cfdocs/CteeInfo/StandingCommittees.cfm?CteeBody=H"
+},
+{
+"text": "Consolidated statutes",
+"href": "https://www.legis.state.pa.us/cfdocs/legis/LI/Public/cons_index.cfm"
+},
+{
+"text": "Constitution of Pennsylvania",
+"href": "https://www.legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=0"
+},
+{
+"text": "Contact",
+"href": "https://www.repgillen.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://www.repgillen.com/districtmap"
+},
+{
+"text": "Events",
+"href": "https://www.repgillen.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.repgillen.com/"
+},
+{
+"text": "LIVE stream of House Floor activity",
+"href": "https://www.pahousegop.com/livestreams"
+},
+{
+"text": "Latest News",
+"href": "https://www.repgillen.com/NewsGroup/Press-Releases"
+},
+{
+"text": "Livestreams",
+"href": "https://www.repgillen.com/livestreams"
+},
+{
+"text": "PA State Rep. Mark GillenServing PA's 128th Legislative District",
+"href": "https://www.repgillen.com/"
+},
+{
+"text": "PennDOT Forms",
+"href": "https://www.penndot.gov/_layouts/pa.penndot.formsandpubs/formsandpubs.aspx"
+},
+{
+"text": "Property Tax/Rent Rebate",
+"href": "https://www.revenue.pa.gov/Pages/default.aspx"
+},
+{
+"text": "State Government Links",
+"href": "https://www.repgillen.com/PAGovLinks"
+},
+{
+"text": "Subscribe",
+"href": "https://www.repgillen.com/Email-Signup"
+},
+{
+"text": "Terms of use",
+"href": "https://www.pahousegop.com/TermsOfUse"
+},
+{
+"text": "Text of floor debates",
+"href": "https://www.legis.state.pa.us/cfdocs/legis/home/hj/hj.cfm"
+},
+{
+"text": "Video",
+"href": "https://www.repgillen.com/video/latestvideo"
+},
+{
+"text": "Votes on legislation",
+"href": "https://www.legis.state.pa.us/cfdocs/legis/RC/Public/rc_view_date.cfm?rc_body=H"
+},
+{
+"text": "Voting schedules (session and committee)",
+"href": "https://www.legis.state.pa.us/cfdocs/legis/CMS/index.cfm?Chamber=H"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/RepGillen/"
+}
 ]

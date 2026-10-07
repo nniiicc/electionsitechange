@@ -1,7 +1,11 @@
 {
  "description": "Raul Ortiz is a political candidate running for State Assembly District 64 learn more about my campaign.",
  "final_url": "https://www.raulortizforassembly.com/media",
- "paid_for_by": null,
+ "fingerprint": "02e9944ae3dea2873ea20367360a725887a4864b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Raul Ortiz",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022"
+ ]
 }

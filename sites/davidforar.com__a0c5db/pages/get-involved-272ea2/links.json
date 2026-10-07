@@ -1,6 +1,30 @@
 [
-"https://davidforar.com/",
-"https://davidforar.com/donate",
-"https://davidforar.com/get-involved",
-"https://forms.gle/XzF7Tkm6wmJUP7u8A"
+{
+"text": "About David",
+"href": "https://www.davidforar.com"
+},
+{
+"text": "Contact",
+"href": "https://www.davidforar.com"
+},
+{
+"text": "Donate",
+"href": "https://www.davidforar.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.davidforar.com/get-involved"
+},
+{
+"text": "Get Involved!",
+"href": "https://forms.gle/XzF7Tkm6wmJUP7u8A"
+},
+{
+"text": "Home",
+"href": "https://www.davidforar.com"
+},
+{
+"text": "info@DavidForAR.com",
+"href": "mailto:info@mysite.com"
+}
 ]

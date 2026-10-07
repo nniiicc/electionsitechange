@@ -1,10 +1,10 @@
-VB Canvassing Smyrna, Rutherford Co.
-Blackman Community Club, 4310 Manson Pike, Murfreesboro, TN 37129, USA
-Meet at the parking lot of the Blackman Community Club at around 5:15-5:30 for a briefing and literature pick up.
-Skip navigation menu
-VB Canvassing Smyrna, Rutherford Co.
-Blackman Community Club, 4310 Manson Pike, Murfreesboro, TN 37129, USA
-Meet at the parking lot of the Blackman Community Club at around 5:15-5:30 for a briefing and literature pick up.
-VB Canvassing Davidson County
-Whataburger, 2110 Century Farms Pkwy, Nashville, TN 37013, USA
-Meet at Whataburger on Century Farms Pkwy starting at 1130am for briefing and literature pickup.
+Skip navigation menu early voting october 14-29 | election day november 3 Home About Issues Volunteer Events Voting Shop Donate JOIN US upcoming Volunteer Opportunities & events Home About Issues Volunteer Events Voting Shop Donate JOIN US upcoming Volunteer Opportunities & events Postcard Party @ Spine Bookstore The Spine Bookshop, 244 S Lowry St, Smyrna, TN 37167, USA RSVP Canvassing South Rutherford Barfield Crescent Park, 697 Veterans Pkwy, Murfreesboro, TN 37128, USA Meet at Barfield Park Wilderness center.
+Starting at 10:45-11am for briefing, teaming up with canvassing partnes and literature pick up!
+RSVP Canvassing Murfreesboro, Rutherford Walmart Supercenter, 2900 S Rutherford Blvd, Murfreesboro, TN 37130, USA Meet at Walmart on Rutherford starting at 1:45-2 for briefing, meet your canvassing partners and literature pick up!
+RSVP Canvassing Murfreesboro, Rutherford Middle Ground Brewing Company, 2476 Old Fort Pkwy, Murfreesboro, TN 37128, USA Meet at middle ground brewing co. starting around 5:20-30 for quick briefing, meet our team, and lit pick up!
+RSVP Virtual Phone Bank for Victoria Broderick RSVP VB Canvassing Davidson County Whataburger, 2110 Century Farms Pkwy, Nashville, TN 37013, USA Meet at Whataburger on Century Farms Pkwy starting at 1130am for briefing and literature pickup.
+RSVP Canvassing Murfreesboro, Rutherford Kroger, 2050 Lascassas Pike, Murfreesboro, TN 37130, USA Meet at Kroger on Lascassas Pike for brief and literature pickup!
+RSVP Canvassing Murfreesboro, Rutherford Starbucks, 1144 Fortress Boulevard, Fortress and, John R Rice Blvd, Murfreesboro, TN 37128, USA Meet at Starbucks starting at 5:20-30 pm for briefing, meet our team and literature pickup!
+RSVP Virtual Phone Bank for Victoria Broderick RSVP Canvassing Murfreesboro, Rutherford Co.
+Dunkin', 833 Memorial Blvd, Murfreesboro, TN 37129, USA Meet at Dunkin starting at 1:45-2 for briefing and literature pickup RSVP Canvassing Central Murfreesboro, Rutherford Co.
+Rutherford County Courthouse, S Public Square, Murfreesboro, TN 37130, USA Meet in front of the east side of the courthouse for briefing and literature pickup at 5:15pm RSVP Request a Sign Contact Privacy Policy Powered by RUN! website builder Paid for by Victoria4Tennessee You need to enable JavaScript to run this app.

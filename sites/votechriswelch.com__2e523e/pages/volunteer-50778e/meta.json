@@ -1,7 +1,9 @@
 {
  "description": "Sign up today to become a volunteer.",
  "final_url": "https://www.votechriswelch.com/volunteer/",
- "paid_for_by": "Paid for by The People for Emanuel \u201cChris\u201d Welch",
+ "fingerprint": "3c452dac764afbed4421daf16ef924848d01a3db",
+ "format": 3,
+ "paid_for_by": "Paid for by The People for Emanuel “Chris” Welch",
  "title": "Get Involved",
  "years_mentioned": []
 }

@@ -1,8 +1,1 @@
-Karen Reddington-Hughes
-State Representative CT66
-March 23, 2026
-March 7, 2026
-March 11, 2026
-March 6, 2026
-March 5, 2026
-March 16, 2026
+Skip to primary navigation Skip to main content Skip to footer Karen Reddington-Hughes State Representative CT66 About Where I Stand News & Updates Our District Bethlehem Litchfield Morris Warren Woodbury Calendar Gallery Get Involved News & Updates Woodbury Board of Finance Public Hearing March 23, 2026 Woodbury-Southbury Rod & Gun Game Dinner March 7, 2026 Woodbury Board of Selectman Mtg March 11, 2026 Educational Round-table Discussion March 6, 2026 Bethlehem RTC March 5, 2026 WRTC Shamrock Social March 16, 2026 « Go to Previous Page Page 1 Page 2 Page 3 Go to Next Page » Footer Vote Karen Reddington-Hughes State Representative for 66th District Our District Bethlehem Litchfield Morris Warren Woodbury Paid for by Reddington-Hughes for 66th, Joseph T Scott treasurer, approved by Karen Reddington-Hughes

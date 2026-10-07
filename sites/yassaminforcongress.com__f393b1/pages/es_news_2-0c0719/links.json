@@ -1,37 +1,166 @@
 [
-"https://facebook.com/yassaminansari",
-"https://instagram.com/yassaminansari",
-"https://kineticstrategies.us/",
-"https://secure.actblue.com/donate/yassaminansari_web",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=10",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=100",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=25",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=250",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=50",
-"https://twitter.com/yassaminansari",
-"https://yassaminforcongress.com/es",
-"https://yassaminforcongress.com/es/about",
-"https://yassaminforcongress.com/es/contact",
-"https://yassaminforcongress.com/es/endorsements",
-"https://yassaminforcongress.com/es/media",
-"https://yassaminforcongress.com/es/news",
-"https://yassaminforcongress.com/es/news/3",
-"https://yassaminforcongress.com/es/news/4",
-"https://yassaminforcongress.com/es/news/5",
-"https://yassaminforcongress.com/es/news/common-dreams-an-abomination-house-dem-revives-hegseth-impeachment-push-after-iran-school-massacre-revelation",
-"https://yassaminforcongress.com/es/news/iranian-american-lawmaker-says-trumps-comments-on-iran-are-unhinged",
-"https://yassaminforcongress.com/es/news/kjzz-arizona-congressional-lawmakers-advance-bills-to-boost-geothermal-energy-production",
-"https://yassaminforcongress.com/es/news/kjzz-rep-ansari-says-democrats-need-to-tackle-corruption-starting-with-ice-detention-facilities",
-"https://yassaminforcongress.com/es/news/newsner-democrats-introduce-new-bill-to-allow-paid-leave-for-period-pain-and-menopause",
-"https://yassaminforcongress.com/es/news/opinion-young-arizonans-cant-afford-housing-gas-or-health-care",
-"https://yassaminforcongress.com/es/press/congressional-progressive-caucus-pac-endorses-yassamin-ansari-for-congress",
-"https://yassaminforcongress.com/es/press/members-of-house-democratic-leadership-endorse-yassamin-ansari-for-congress",
-"https://yassaminforcongress.com/es/press/planned-parenthood-endorses-yassamin-ansari",
-"https://yassaminforcongress.com/es/press/representative-greg-stanton-endorses-yassamin-ansari-for-congress",
-"https://yassaminforcongress.com/es/press/ufcw-99-endorses-yassamin-ansari-for-congress",
-"https://yassaminforcongress.com/es/press/yassamin-ansari-joins-50-candidates-in-call-to-congress-to-pass-democracy-bills-on-day-one",
-"https://yassaminforcongress.com/es/privacy-policy",
-"https://yassaminforcongress.com/es?page_id=944",
-"https://yassaminforcongress.com/news/2",
-"https://yassaminforcongress.myshopify.com/"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=50"
+},
+{
+"text": "About Yassamin",
+"href": "https://yassaminforcongress.com/es/about/"
+},
+{
+"text": "Common Dreams: ‘An Abomination’: House Dem Revives Hegseth Impeachment Push After Iran School Massacre Revelation",
+"href": "https://yassaminforcongress.com/es/news/common-dreams-an-abomination-house-dem-revives-hegseth-impeachment-push-after-iran-school-massacre-revelation/"
+},
+{
+"text": "Congressional Progressive Caucus PAC Endorses Yassamin Ansari for Congress",
+"href": "https://yassaminforcongress.com/es/press/congressional-progressive-caucus-pac-endorses-yassamin-ansari-for-congress/"
+},
+{
+"text": "Contact",
+"href": "https://yassaminforcongress.com/es/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/yassaminansari_web"
+},
+{
+"text": "Endorsements",
+"href": "https://yassaminforcongress.com/es/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/yassaminansari/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/yassaminansari/"
+},
+{
+"text": "Iranian-American lawmaker says Trump’s comments on Iran are ‘unhinged’",
+"href": "https://yassaminforcongress.com/es/news/iranian-american-lawmaker-says-trumps-comments-on-iran-are-unhinged/"
+},
+{
+"text": "Issues & Policy",
+"href": "https://yassaminforcongress.com/es/?page_id=944"
+},
+{
+"text": "KJZZ: Arizona congressional lawmakers advance bills to boost geothermal energy production",
+"href": "https://yassaminforcongress.com/es/news/kjzz-arizona-congressional-lawmakers-advance-bills-to-boost-geothermal-energy-production/"
+},
+{
+"text": "KJZZ: Rep. Ansari says Democrats need to tackle corruption — starting with ICE detention facilities",
+"href": "https://yassaminforcongress.com/es/news/kjzz-rep-ansari-says-democrats-need-to-tackle-corruption-starting-with-ice-detention-facilities/"
+},
+{
+"text": "Kinetic Strategies",
+"href": "https://kineticstrategies.us"
+},
+{
+"text": "Media",
+"href": "https://yassaminforcongress.com/es/media/"
+},
+{
+"text": "Meet Yass",
+"href": "https://yassaminforcongress.com/es/about/"
+},
+{
+"text": "Members of House Democratic Leadership Endorse Yassamin Ansari for Congress",
+"href": "https://yassaminforcongress.com/es/press/members-of-house-democratic-leadership-endorse-yassamin-ansari-for-congress/"
+},
+{
+"text": "News & Press",
+"href": "https://yassaminforcongress.com/es/news/"
+},
+{
+"text": "Newsner: Democrats introduce new bill to allow paid leave for period pain and menopause",
+"href": "https://yassaminforcongress.com/es/news/newsner-democrats-introduce-new-bill-to-allow-paid-leave-for-period-pain-and-menopause/"
+},
+{
+"text": "Next »",
+"href": "https://yassaminforcongress.com/es/news/3/"
+},
+{
+"text": "Noticias",
+"href": "https://yassaminforcongress.com/es/news/"
+},
+{
+"text": "OTRO",
+"href": "https://secure.actblue.com/donate/yassaminansari_web"
+},
+{
+"text": "Opinion: Young Arizonans can’t afford housing, gas or health care",
+"href": "https://yassaminforcongress.com/es/news/opinion-young-arizonans-cant-afford-housing-gas-or-health-care/"
+},
+{
+"text": "Planned Parenthood Action Fund Endorses Yassamin Ansari for Congress",
+"href": "https://yassaminforcongress.com/es/press/planned-parenthood-endorses-yassamin-ansari/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://yassaminforcongress.com/es/privacy-policy/"
+},
+{
+"text": "Página1",
+"href": "https://yassaminforcongress.com/es/news/"
+},
+{
+"text": "Página3",
+"href": "https://yassaminforcongress.com/es/news/3/"
+},
+{
+"text": "Página4",
+"href": "https://yassaminforcongress.com/es/news/4/"
+},
+{
+"text": "Página5",
+"href": "https://yassaminforcongress.com/es/news/5/"
+},
+{
+"text": "Representative Greg Stanton Endorses Yassamin Ansari for Congress",
+"href": "https://yassaminforcongress.com/es/press/representative-greg-stanton-endorses-yassamin-ansari-for-congress/"
+},
+{
+"text": "Shop",
+"href": "https://yassaminforcongress.myshopify.com/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/yassaminansari"
+},
+{
+"text": "UFCW 99 Endorses Yassamin Ansari for Congress",
+"href": "https://yassaminforcongress.com/es/press/ufcw-99-endorses-yassamin-ansari-for-congress/"
+},
+{
+"text": "Yassamin Ansari Joins 50 Candidates in Call to Congress to Pass Democracy Bills on Day One",
+"href": "https://yassaminforcongress.com/es/press/yassamin-ansari-joins-50-candidates-in-call-to-congress-to-pass-democracy-bills-on-day-one/"
+},
+{
+"text": "[image: en_US]English",
+"href": "https://yassaminforcongress.com/news/2/"
+},
+{
+"text": "[image]",
+"href": "https://yassaminforcongress.com/es"
+},
+{
+"text": "« Previous",
+"href": "https://yassaminforcongress.com/es/news/"
+}
 ]

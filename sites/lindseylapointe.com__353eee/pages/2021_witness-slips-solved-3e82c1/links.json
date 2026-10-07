@@ -1,14 +1,54 @@
 [
-"https://facebook.com/LaPointefor19",
-"https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfRxot7csgdrRIixqUMqHChzv5O1iE88SgrsQsTYz1qVoSgLw%2Fviewform%3Ffbclid%3DIwAR0q6NP4FiugzRAz3gusFd3L6ObqC6PYXeg9wUQfZ3te074DMJZib7fFnGQ&h=AT0a2uc4L2wgdOL17gomy4adCJZ7z2zJto-bTytAdsMxLcX3Xxb1vIUjjtJ2q6ZQBFzyoWWaupGx4ZCtJ7ixmedw0w9Hc16X0HpXIT0wtxJSRxZienedwB_MJjB3-6tE&__tn__=-UK-R&c%5B0%5D=AT2YIZRIph3R7RJ3UngkiIpnzDWs59xSP2Tqe1--QP5mf4e3dOcSU-uzIMZBNZWnOpPcmofFKq1WjX6geXEJoYyaf9ST7Ul-njXpnkSFXqhjl66Rh3QTGFpcejpRVYgpIlATPfLHMD2PDrorqW3-6RJcq-6fqfvH9gZuxXBUhm9a8g",
-"https://lindseylapointe.com/",
-"https://lindseylapointe.com/about-lindsey",
-"https://lindseylapointe.com/contact",
-"https://lindseylapointe.com/events",
-"https://lindseylapointe.com/issue",
-"https://lindseylapointe.com/news",
-"https://lindseylapointe.com/volunteer",
-"https://lindseylapointe.com/yard-sign",
-"https://secure.actblue.com/donate/friends-of-lapointe-1",
-"https://twitter.com/lapointefor19"
+{
+"text": "About Lindsey",
+"href": "https://www.lindseylapointe.com/about-lindsey/"
+},
+{
+"text": "Contact",
+"href": "https://www.lindseylapointe.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-lapointe-1"
+},
+{
+"text": "Events",
+"href": "https://www.lindseylapointe.com/events/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/lapointefor19"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/LaPointefor19/"
+},
+{
+"text": "Home",
+"href": "https://www.lindseylapointe.com"
+},
+{
+"text": "Issues",
+"href": "https://www.lindseylapointe.com/issue/"
+},
+{
+"text": "News",
+"href": "https://www.lindseylapointe.com/news/"
+},
+{
+"text": "Register",
+"href": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfRxot7csgdrRIixqUMqHChzv5O1iE88SgrsQsTYz1qVoSgLw%2Fviewform%3Ffbclid%3DIwAR0q6NP4FiugzRAz3gusFd3L6ObqC6PYXeg9wUQfZ3te074DMJZib7fFnGQ&h=AT0a2uc4L2wgdOL17gomy4adCJZ7z2zJto-bTytAdsMxLcX3Xxb1vIUjjtJ2q6ZQBFzyoWWaupGx4ZCtJ7ixmedw0w9Hc16X0HpXIT0wtxJSRxZienedwB_MJjB3-6tE&__tn__=-UK-R&c%5B0%5D=AT2YIZRIph3R7RJ3UngkiIpnzDWs59xSP2Tqe1--QP5mf4e3dOcSU-uzIMZBNZWnOpPcmofFKq1WjX6geXEJoYyaf9ST7Ul-njXpnkSFXqhjl66Rh3QTGFpcejpRVYgpIlATPfLHMD2PDrorqW3-6RJcq-6fqfvH9gZuxXBUhm9a8g"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lindseylapointe.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.lindseylapointe.com/yard-sign"
+},
+{
+"text": "[image: Lindsey LaPointe for State Rep]",
+"href": "https://www.lindseylapointe.com/"
+}
 ]

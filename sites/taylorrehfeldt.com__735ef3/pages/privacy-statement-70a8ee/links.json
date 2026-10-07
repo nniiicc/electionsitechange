@@ -1,9 +1,34 @@
 [
-"https://facebook.com/TaylorRehfeldt",
-"https://friends-of-taylor-rehfeldt.revv.co/donate-today",
-"https://instagram.com/taylorrehfeldt",
-"https://taylorrehfeldt.com/",
-"https://taylorrehfeldt.com/cart",
-"https://taylorrehfeldt.com/privacy-statement",
-"https://x.com/TaylorRehfeldt"
+{
+"text": "0",
+"href": "https://www.taylorrehfeldt.com/cart"
+},
+{
+"text": "Contribute",
+"href": "https://friends-of-taylor-rehfeldt.revv.co/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.taylorrehfeldt.com/"
+},
+{
+"text": "Privacy Statement",
+"href": "https://www.taylorrehfeldt.com/privacy-statement"
+},
+{
+"text": "[image: Taylor Rehfeldt]",
+"href": "https://www.taylorrehfeldt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TaylorRehfeldt"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/taylorrehfeldt/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/TaylorRehfeldt"
+}
 ]

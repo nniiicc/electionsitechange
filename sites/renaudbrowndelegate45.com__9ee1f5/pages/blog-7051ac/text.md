@@ -1,7 +1,4 @@
-Welcome to my new blog
-Check out my Phoenix Radio interview (first Media presence)
-https://www.mixcloud.com/krdp_radio/inagaddadavida-ep-129-renaud-brown-green-party-candidate-annapolis-statehouse-4-may-2022/
-Baltimore Schools need HVACs expedited and rights for tenants!
+Skip to content Renaud Brown for Delegate 2026 Running on Education, Housing, Transit and At-will repeal Home Veterans Blog Taxes Immigration Workers Restoration Medicare for All Housing Maryland Green New Deal Transportation: From Oakland to Ocean City Environment District Priorities Back Blog Welcome to my new blog Check out my Phoenix Radio interview (first Media presence) https://www.mixcloud.com/krdp_radio/inagaddadavida-ep-129-renaud-brown-green-party-candidate-annapolis-statehouse-4-may-2022/ Baltimore Schools need HVACs expedited and rights for tenants!
 As an educator, a substitute of nine years between Prince George’s and Baltimore City, I am horrified by the financial instability of the school system in Baltimore city.
 Its HVAC situation should be fast-tracked.
 In a memo dated May 31, 2022, 18 schools remain under repair.
@@ -17,15 +14,16 @@ However, the proposal put forth is bad.
 New development includes 76 “affordable units” but “Class A” apartments range between $1,571 to $3,746.
 Who can afford this in the city?
 I urge school and elected officials to expedite replacement or renovation of these 18 schools to complete these projects sooner than 2023 so that schools don’t miss valuable days due to climate change.
-Thank you.
--Renaud Brown, District 43A Green Party candidate
-Little Friends for Peace
-Watch our new video featuring MJ Park and dedicated volunteers at the Fall Festival in the Perry Community.
+Thank you. -Renaud Brown, District 43A Green Party candidate Little Friends for Peace Watch our new video featuring MJ Park and dedicated volunteers at the Fall Festival in the Perry Community.
 Owen, Iris, and others share their journey volunteering with LFFP.
 Owen unveils our strong community connections, reaching far beyond DC, and our mission to take the first steps toward global peace.
-Plus, hear Iris Anderson eloquently describe the invaluable…
-IN PERSON AND ONLINE VIA ZOOM!
+Plus, hear Iris Anderson eloquently describe the invaluable… by singer39 December 21, 2023 IN PERSON AND ONLINE VIA ZOOM!
 Reel and Meal Presents “Home is a Human Right: A Series on Immigration” Monday, July 17, 2023, 7 PM Arrive/Log on by 6:45 p.m., as the program starts promptly at 7p.m In Person: Please come to the New Deal Café at 113 Centerway (Roosevelt Center) in Greenbelt, MD; Come enjoy the wide-screen film projection system.
-Masks are…
-Follow My Blog
-Get new content delivered directly to your inbox.
+Masks are… by singer39 July 14, 2023 Follow My Blog Get new content delivered directly to your inbox.
+Email Address Subscribe Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Archives Archives Select Month December 2023 (1) July 2023 (1) July 2022 (2) June 2022 (1) May 2022 (1) February 2022 (1) Blog Stats 6,288 hits Renaud Brown for Delegate 2026 , Website Powered by WordPress.com .
+Subscribe Subscribed Renaud Brown for Delegate 2026 Sign me up Have a WordPress.com account?
+Log in now.
+Renaud Brown for Delegate 2026 Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

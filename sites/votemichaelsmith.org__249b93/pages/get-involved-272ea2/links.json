@@ -1,16 +1,62 @@
 [
-"http://instagram.com/repmichaelandresmith",
-"http://twitter.com/repmichaelsmith",
-"https://docs.google.com/forms/d/e/1FAIpQLSdnIzKiHsEGbRIyuLd6Chm6gAbThvo03ATrG3ecMLuMpzMs1g/viewform?usp=sf_link",
-"https://donorbox.org/committee-to-elect-michael-smith",
-"https://facebook.com/repmichaelandresmith",
-"https://linkedin.com/in/michael-smith-65849463",
-"https://votemichaelsmith.org/",
-"https://votemichaelsmith.org/campaign-buzz",
-"https://votemichaelsmith.org/education-and-safety",
-"https://votemichaelsmith.org/get-involved",
-"https://votemichaelsmith.org/meet-michael",
-"https://votemichaelsmith.org/platform",
-"https://votemichaelsmith.org/poverty-and-the-economy",
-"https://votemichaelsmith.org/real-estate-market"
+{
+"text": "DONATE",
+"href": "https://donorbox.org/committee-to-elect-michael-smith"
+},
+{
+"text": "Education and Safety",
+"href": "https://www.votemichaelsmith.org/education-and-safety"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.votemichaelsmith.org/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.votemichaelsmith.org"
+},
+{
+"text": "Jobs and the Economy",
+"href": "https://www.votemichaelsmith.org/poverty-and-the-economy"
+},
+{
+"text": "LEGISLATION ENACTED AND PRESS RELEASES",
+"href": "https://www.votemichaelsmith.org/campaign-buzz"
+},
+{
+"text": "MEET MICHAEL",
+"href": "https://www.votemichaelsmith.org/meet-michael"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.votemichaelsmith.org/platform"
+},
+{
+"text": "REPRESENTATIVE",
+"href": "https://www.votemichaelsmith.org"
+},
+{
+"text": "Real Estate Market",
+"href": "https://www.votemichaelsmith.org/real-estate-market"
+},
+{
+"text": "[image: Facebook Clean Grey]",
+"href": "https://www.facebook.com/repmichaelandresmith"
+},
+{
+"text": "[image: Instagram Clean Grey]",
+"href": "http://instagram.com/repmichaelandresmith"
+},
+{
+"text": "[image: LinkedIn Clean Grey]",
+"href": "https://www.linkedin.com/in/michael-smith-65849463/"
+},
+{
+"text": "[image: Twitter Clean Grey]",
+"href": "http://www.twitter.com/repmichaelsmith"
+},
+{
+"text": "[no text]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdnIzKiHsEGbRIyuLd6Chm6gAbThvo03ATrG3ecMLuMpzMs1g/viewform?usp=sf_link"
+}
 ]

@@ -1,5 +1,4 @@
-June 2022 Letter
-I love our town house.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Running for the State House Running for the State House Running for the State House Jun 30, 2022 Jun 30, 2022 June 2022 Letter Fishin' - Taken by Lawernce Levitt in ~2009 Fishin' - Taken by Lawernce Levitt in ~2009 0:00 / 1:34 I love our town house.
 I love walking up the big granite steps, looking up the beautifully placed brick.
 The prowess of our town house is a reminder that we take our civic life seriously in Peterborough.
 As I sat in my car on the seventh of this month, looking at the building as I had countless times before, the building had a much more intimidating feeling than it ever had.
@@ -70,7 +69,7 @@ I want to be apart of the efforts in the State House to make our State one which
 I want to serve the interests of the people whose voice can’t always be found in a committee room.
 The renters, the servers, the manufacturers, the union members; working people.
 I want to serve them because I am them, and I want to see us in the State House - making this a State which works for all, and not just the elite business interests.
-This first month of campaigning has been a pleasure.
+Cheshire Dems BBQ - 11 June 2022 - Credit Unknown Cheshire Dems BBQ - 11 June 2022 - Credit Unknown This first month of campaigning has been a pleasure.
 Building a campaign which reflects the vision I am looking to bring to the State House.
 I went to the Cheshire Democrats picnic where we heard from all the candidates in Cheshire county, many of whom are running on a similar vision to mine.
 A launch conference for Bobby Williams, who’s running for the State Senate in Keene.
@@ -79,12 +78,11 @@ Lucius Parshall, a former music teacher running in Marlborough.
 Renee Monteil, doula and single Mother, who is running in a floterial district; and many more.
 We are all planning on going to the State House to reorient the legislature back to one which unabashedly works for the interests of all it’s citizens.
 Especially the working class.
-The month ended at a rally against the United States Supreme Court’s Dobbs decision which overturned the Roe V.
+Rally - 24 June 2022 - 20:01 - Keene, NH - Taken by Jonah Rally - 24 June 2022 - 20:01 - Keene, NH - Taken by Jonah The month ended at a rally against the United States Supreme Court’s Dobbs decision which overturned the Roe V.
 Wade doctrine.
 There were hundreds of people filling up the park within the roundabout in central Keene rallying for a woman’s right to reproductive autonomy.
 They invited me to speak and I gave a speech affirming my commitment to work towards a State where women have reproductive autonomy, and railed against the looming threat of authoritarianism that we see in this digital world.
 There were a whole bunch of other events and rallies, and I started to formulate the logistics of a campaign which can’t be done until your name is on the ballot.
 Speaking to so many amazing people that day, it is clear to me that people are desperate for a government that governs instead of controls.
 With a slate of incredible candidates running for the State House, citizens ready to be heard; this is going to be a good summer.
-Onward.
-Back to all
+Onward. ‹ A People Powered Campaign ‹ A People Powered Campaign ‹ A People Powered Campaign One year down, one to go. › One year down, one to go. › One year down, one to go. › Back to all

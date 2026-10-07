@@ -1,52 +1,226 @@
 [
-"https://aei.org/research-products/report/reforming-permitting-to-build-infrastructure",
-"https://agri.idaho.gov/wp-content/uploads/plant-industries/Idaho-NEPA_2.8_PDF-1.pdf",
-"https://americanactionforum.org/research/infrastructure-regulatory-burdens",
-"https://blm.gov/policy/im-2008-019",
-"https://blm.gov/policy/im-2010-084-1",
-"https://blm.gov/policy/im-2012-108",
-"https://blm.gov/policy/im-2015-122",
-"https://blm.gov/policy/pim-2025-004",
-"https://boisestate.edu/sps",
-"https://ceq.doe.gov/",
-"https://ceq.doe.gov/docs/get-involved/citizens-guide-to-nepa-2021.pdf",
-"https://congress.gov/crs-product/R48595",
-"https://congress.gov/crs-product/RS21232",
-"https://doi.gov/ocl/hearings/113/s258_042513",
-"https://drought.gov/news/climate-engine-launches-new-website-facilitate-drought-and-vegetation-monitoring-2024-03-19",
-"https://eenews.net/articles/ranchers-greens-on-edge-as-blm-rewrites-grazing-rule",
-"https://facebook.com/zabelforcongress",
-"https://fws.gov/service/esa-section-7-consultation",
-"https://gao.gov/assets/gao-14-369.pdf",
-"https://gao.gov/products/gao-25-107500",
-"https://govinfo.gov/content/pkg/COMPS-1719/pdf/COMPS-1719.pdf",
-"https://idrange.org/range-stories/central-idaho/grazing-permits-process-for-renewing-blm-grazing-permits-is-extensive-lawsuits-and-appeals-raise-the-bar-add-time-for-review",
-"https://instagram.com/zabelforcongress",
-"https://klgates.com/More-Federal-Agencies-Streamline-NEPA-Procedures-to-Expedite-Review-and-Permitting-8-5-2025",
-"https://mdpi.com/1424-8220/24/24/8041",
-"https://ncbi.nlm.nih.gov/pmc/articles/PMC12663396",
-"https://ncbi.nlm.nih.gov/pmc/articles/PMC8074319",
-"https://propublica.org/article/grazing-environment-public-lands-oversight",
-"https://rangelands.app/",
-"https://rangelandsgateway.org/topics/uses-range-pastureland/public-lands-grazing/adaptive-management",
-"https://secure.anedot.com/zabel-for-congress/donate",
-"https://secure.anedot.com/zabel-for-congress/donate?amount=100",
-"https://secure.anedot.com/zabel-for-congress/donate?amount=25",
-"https://secure.anedot.com/zabel-for-congress/donate?amount=50",
-"https://usgs.gov/centers/eros/science/rangeland-condition-monitoring-assessment-and-projection-rcmap",
-"https://waterboards.ca.gov/northcoast/water_issues/programs/forest_activities/federal_lands",
-"https://wlj.net/usda-clarifies-federal-grazing-permit-guidance",
-"https://x.com/ZabelforC",
-"https://youtube.com/channel/UCU8sNktaUWsGdvoyJ0nad4w",
-"https://zabelforcongress.com/",
-"https://zabelforcongress.com/cart",
-"https://zabelforcongress.com/fiscal-stewardship",
-"https://zabelforcongress.com/store",
-"https://zabelforcongress.com/terms-and-conditions",
-"https://zabelforcongress.com/what-i-stand-for",
-"https://zabelforcongress.com/who-i-am",
-"https://zabelforcongress.nationbuilder.com/contact",
-"https://zabelforcongress.nationbuilder.com/news",
-"https://zabelforcongress.nationbuilder.com/our-events",
-"https://zabelforcongress.nationbuilder.com/volunteer"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/zabel-for-congress/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/zabel-for-congress/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/zabel-for-congress/donate?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.zabelforcongress.com/cart"
+},
+{
+"text": "BLM Instruction Memorandum 2012-108 — Coordinating NEPA and NHPA Section 106",
+"href": "https://www.blm.gov/policy/im-2012-108"
+},
+{
+"text": "Connect",
+"href": "https://zabelforcongress.nationbuilder.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/zabel-for-congress/donate"
+},
+{
+"text": "Events",
+"href": "https://zabelforcongress.nationbuilder.com/our-events"
+},
+{
+"text": "Home",
+"href": "https://www.zabelforcongress.com/"
+},
+{
+"text": "Merch",
+"href": "https://www.zabelforcongress.com/store"
+},
+{
+"text": "News",
+"href": "https://zabelforcongress.nationbuilder.com/news"
+},
+{
+"text": "Other amount",
+"href": "https://secure.anedot.com/zabel-for-congress/donate"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.zabelforcongress.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://zabelforcongress.nationbuilder.com/volunteer"
+},
+{
+"text": "What I Stand For",
+"href": "https://www.zabelforcongress.com/what-i-stand-for"
+},
+{
+"text": "Who I Am",
+"href": "https://www.zabelforcongress.com/who-i-am"
+},
+{
+"text": "[image: Zabel for Congress]",
+"href": "https://www.zabelforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/zabelforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/zabelforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCU8sNktaUWsGdvoyJ0nad4w"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ZabelforC"
+},
+{
+"text": "aei.org — Reforming permitting",
+"href": "https://www.aei.org/research-products/report/reforming-permitting-to-build-infrastructure/"
+},
+{
+"text": "agri.idaho.gov — Rancher's Guide to NEPA",
+"href": "https://agri.idaho.gov/wp-content/uploads/plant-industries/Idaho-NEPA_2.8_PDF-1.pdf"
+},
+{
+"text": "americanactionforum.org",
+"href": "https://www.americanactionforum.org/research/infrastructure-regulatory-burdens/"
+},
+{
+"text": "blm.gov/policy/im-2008-019",
+"href": "https://www.blm.gov/policy/im-2008-019"
+},
+{
+"text": "blm.gov/policy/im-2010-084-1",
+"href": "https://www.blm.gov/policy/im-2010-084-1"
+},
+{
+"text": "blm.gov/policy/im-2012-108",
+"href": "https://www.blm.gov/policy/im-2012-108"
+},
+{
+"text": "blm.gov/policy/im-2015-122",
+"href": "https://www.blm.gov/policy/im-2015-122"
+},
+{
+"text": "blm.gov/policy/pim-2025-004",
+"href": "https://www.blm.gov/policy/pim-2025-004"
+},
+{
+"text": "boisestate.edu/sps",
+"href": "https://www.boisestate.edu/sps/"
+},
+{
+"text": "ceq.doe.gov",
+"href": "https://ceq.doe.gov/"
+},
+{
+"text": "ceq.doe.gov — Citizen's Guide to NEPA",
+"href": "https://ceq.doe.gov/docs/get-involved/citizens-guide-to-nepa-2021.pdf"
+},
+{
+"text": "congress.gov/crs-product/R48595",
+"href": "https://www.congress.gov/crs-product/R48595"
+},
+{
+"text": "congress.gov/crs-product/RS21232",
+"href": "https://www.congress.gov/crs-product/RS21232"
+},
+{
+"text": "doi.gov — S. 258 testimony",
+"href": "https://www.doi.gov/ocl/hearings/113/s258_042513"
+},
+{
+"text": "drought.gov — Climate Engine launch announcement",
+"href": "https://www.drought.gov/news/climate-engine-launches-new-website-facilitate-drought-and-vegetation-monitoring-2024-03-19"
+},
+{
+"text": "eenews.net — BLM grazing rule",
+"href": "https://www.eenews.net/articles/ranchers-greens-on-edge-as-blm-rewrites-grazing-rule/"
+},
+{
+"text": "fws.gov — Section 7 consultation overview",
+"href": "https://www.fws.gov/service/esa-section-7-consultation"
+},
+{
+"text": "gao.gov/assets/gao-14-369.pdf",
+"href": "https://www.gao.gov/assets/gao-14-369.pdf"
+},
+{
+"text": "gao.gov/products/gao-25-107500",
+"href": "https://www.gao.gov/products/gao-25-107500"
+},
+{
+"text": "govinfo.gov — FLPMA full text",
+"href": "https://www.govinfo.gov/content/pkg/COMPS-1719/pdf/COMPS-1719.pdf"
+},
+{
+"text": "idrange.org — Grazing permit renewal process",
+"href": "https://idrange.org/range-stories/central-idaho/grazing-permits-process-for-renewing-blm-grazing-permits-is-extensive-lawsuits-and-appeals-raise-the-bar-add-time-for-review/"
+},
+{
+"text": "info@zabelforcongress.com",
+"href": "mailto:info@zabelforcongress.com"
+},
+{
+"text": "klgates.com — NEPA streamlining",
+"href": "https://www.klgates.com/More-Federal-Agencies-Streamline-NEPA-Procedures-to-Expedite-Review-and-Permitting-8-5-2025"
+},
+{
+"text": "mdpi.com — Water quality monitoring review",
+"href": "https://www.mdpi.com/1424-8220/24/24/8041"
+},
+{
+"text": "ncbi.nlm.nih.gov/pmc/articles/PMC12663396",
+"href": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12663396/"
+},
+{
+"text": "ncbi.nlm.nih.gov/pmc/articles/PMC8074319",
+"href": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8074319/"
+},
+{
+"text": "propublica.org — Grazing oversight investigation",
+"href": "https://www.propublica.org/article/grazing-environment-public-lands-oversight"
+},
+{
+"text": "rangelands.app",
+"href": "https://rangelands.app/"
+},
+{
+"text": "rangelandsgateway.org — Adaptive management",
+"href": "https://rangelandsgateway.org/topics/uses-range-pastureland/public-lands-grazing/adaptive-management"
+},
+{
+"text": "usgs.gov — RCMAP",
+"href": "https://www.usgs.gov/centers/eros/science/rangeland-condition-monitoring-assessment-and-projection-rcmap"
+},
+{
+"text": "waterboards.ca.gov — Federal Lands Permit",
+"href": "https://www.waterboards.ca.gov/northcoast/water_issues/programs/forest_activities/federal_lands/"
+},
+{
+"text": "wlj.net — USDA grazing guidance",
+"href": "https://www.wlj.net/usda-clarifies-federal-grazing-permit-guidance/"
+},
+{
+"text": "zabelforcongress.com",
+"href": "https://www.zabelforcongress.com"
+},
+{
+"text": "zabelforcongress.com/fiscal-stewardship",
+"href": "https://www.zabelforcongress.com/fiscal-stewardship"
+},
+{
+"text": "← Fiscal Stewardship",
+"href": "https://www.zabelforcongress.com/fiscal-stewardship"
+}
 ]

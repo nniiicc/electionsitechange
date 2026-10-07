@@ -1,13 +1,62 @@
 [
-"https://cassandraforar.com/",
-"https://cassandraforar.com/about-1",
-"https://cassandraforar.com/faqs",
-"https://cassandraforar.com/news",
-"https://cassandraforar.com/news/categories/news",
-"https://cassandraforar.com/news/categories/past",
-"https://cassandraforar.com/post/gogreenkickoff",
-"https://facebook.com/gogreenforar",
-"https://goodchange.app/donate/cassforar",
-"https://instagram.com/gogreenforar",
-"https://twitter.com/GoGreenforAR"
+{
+"text": "About",
+"href": "https://www.cassandraforar.com/about-1"
+},
+{
+"text": "All Posts",
+"href": "https://www.cassandraforar.com/news"
+},
+{
+"text": "Community Leader and Educator Cassandra Green Kicks Off Campaign for Competitive State House Seat in Maumelle",
+"href": "https://www.cassandraforar.com/post/gogreenkickoff"
+},
+{
+"text": "DONATE",
+"href": "https://goodchange.app/donate/cassforar"
+},
+{
+"text": "FAQs",
+"href": "https://www.cassandraforar.com/faqs"
+},
+{
+"text": "News",
+"href": "https://www.cassandraforar.com/news"
+},
+{
+"text": "See All",
+"href": "https://www.cassandraforar.com/news"
+},
+{
+"text": "[image: Cassandra-Mayes_State-Representative_Logo_Med.jpg]",
+"href": "https://www.cassandraforar.com"
+},
+{
+"text": "[image: Community Leader and Educator Cassandra Green Kicks Off Campaign for Competitive State House Seat in Maumelle]",
+"href": "https://www.cassandraforar.com/post/gogreenkickoff"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/gogreenforar"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/gogreenforar/"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/GoGreenforAR"
+},
+{
+"text": "gogreenforarkansas@gmail.com",
+"href": "mailto:gogreenforarkansas@gmail.com"
+},
+{
+"text": "news",
+"href": "https://www.cassandraforar.com/news/categories/news"
+},
+{
+"text": "past",
+"href": "https://www.cassandraforar.com/news/categories/past"
+}
 ]

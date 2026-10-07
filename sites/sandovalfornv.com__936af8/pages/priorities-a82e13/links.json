@@ -1,11 +1,42 @@
 [
-"http://facebook.com/calvin.sandoval",
-"http://instagram.com/sandoval4nv",
-"http://tiktok.com/thenativerepublic",
-"http://x.com/sandoval4nv",
-"https://sandovalfornv.com/",
-"https://sandovalfornv.com/endorsements",
-"https://sandovalfornv.com/meet-calvin",
-"https://sandovalfornv.com/priorities",
-"https://secure.actblue.com/donate/sandovalfornevada"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sandovalfornevada"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/sandovalfornevada"
+},
+{
+"text": "Home",
+"href": "https://www.sandovalfornv.com"
+},
+{
+"text": "Meet Calvin",
+"href": "https://www.sandovalfornv.com/meet-calvin"
+},
+{
+"text": "Priorities",
+"href": "https://www.sandovalfornv.com/priorities"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/calvin.sandoval"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/sandoval4nv"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com/thenativerepublic"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com/sandoval4nv"
+},
+{
+"text": "endorsements",
+"href": "https://www.sandovalfornv.com/endorsements"
+}
 ]

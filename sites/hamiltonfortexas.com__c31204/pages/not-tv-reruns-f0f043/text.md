@@ -1,28 +1,15 @@
-(Not) Television Re-runs
-Any science fiction fan will be able to understand the idea behind a "temporal causality loop" even if they cannot easily explain one.
-In the American idiom, there are even a number of sayings and quotes attached to the idea:
-- "If you don't know history, you don't know anything.
-You are a leaf that doesn't know it's part of a tree." - Michael Crichton
-- "A generation which ignores history has no past - and no future." - Robert A.
-Heinlein
-- "Those who forget history are doomed to repeat it," (and its corollary "... while those who remember history are doomed to watch helplessly while others repeat it.")
-- "Time flies like an arrow but fruit flies like a banana."
-Okay, maybe not that last one, but even most of our entertainment options are just a re-hash of tropes that are decades, even centuries old.
+☰ MENU Home Meet Darren Not Politics as Usual Candidacy Is Different District 57 Map Defining Libertarians FAQ Endorsements Platform Self-Ownership Second Amendment and Gun Control Public Education K-12 Healthcare vs Health Care Abortion Immigration LGBTQ Issues Vice and Morality Laws The Unsheltered Veterans Issues Autism Advocacy Opinions Quadrennial Circus The New Medieval Period 2024 Iowa Caucuses You Deserve Better Authoritarianism Crime Spree Police State Government Control Not TV Reruns News Video Links Contact Libertarian Party (Not) Television Re-runs Any science fiction fan will be able to understand the idea behind a "temporal causality loop" even if they cannot easily explain one.
+In the American idiom, there are even a number of sayings and quotes attached to the idea: "If you don't know history, you don't know anything.
+You are a leaf that doesn't know it's part of a tree." - Michael Crichton "A generation which ignores history has no past - and no future." - Robert A.
+Heinlein "Those who forget history are doomed to repeat it," (and its corollary "... while those who remember history are doomed to watch helplessly while others repeat it." ) "Time flies like an arrow but fruit flies like a banana." Okay, maybe not that last one, but even most of our entertainment options are just a re-hash of tropes that are decades, even centuries old.
 "Don't touch that dial.
-We're in denial until the showcase trial on TV."
-As an autistic, I like rewatching movies and television shows because it's comforting for me to already know what's going to happen, and sometimes I will even pick up on some overlooked prescient clue relating to a later event, but that doesn't mean I avoid anything that I might find new or interesting.
-Even a simple internet search will return dozens of results from
-- American television series that are based on British television series
-- English-language films with a previous foreign-language film version
-- Disney live-action remakes of earlier animated films.
+We're in denial until the showcase trial on TV." As an autistic, I like rewatching movies and television shows because it's comforting for me to already know what's going to happen, and sometimes I will even pick up on some overlooked prescient clue relating to a later event, but that doesn't mean I avoid anything that I might find new or interesting.
+Even a simple internet search will return dozens of results from American television series that are based on British television series English-language films with a previous foreign-language film version Disney live-action remakes of earlier animated films.
 And how many times have certain comic book characters' origin stories been told and retold in films and/or television?
-"Tough-talking hood boys in pro-team logo knock-offs conform to uniforms of some corporate entity."
-Even our political systems are stuck in a loop.
+"Tough-talking hood boys in pro-team logo knock-offs conform to uniforms of some corporate entity." Even our political systems are stuck in a loop.
 At the time of this writing (Feb-2024), the general election is still nine months away but neither of the Old Parties has been able to find newer candidates to lead their presidential tickets.
 So, it appears that we are going to be forced to endure a 2024 rematch between His Orangeness and His Blandness, both of whom are older than the much-maligned Boomer generation (but definitely NOT wiser).
 "Some kind of drama live on satellite.
-Hidden camera coverage from the crime scene to the courtroom."
-I don't tend to follow the national ticket races too much because I have grown tired of its charade-like buffoonery, but I suspect that the feeling most of us have about this one is not that of a 'triumphant return' or even nostalgia, but one of deja vu.
+Hidden camera coverage from the crime scene to the courtroom." I don't tend to follow the national ticket races too much because I have grown tired of its charade-like buffoonery, but I suspect that the feeling most of us have about this one is not that of a 'triumphant return' or even nostalgia, but one of deja vu.
 For the past few decades, each of the Old Parties has seemed to run their own expired playbooks step-by-step to increasingly diminished returns while still claiming "gotcha" over the other.
-"Nail-biting hood boys in borrowed ties and jackets clutching at the straws of respectability."
-How much longer are We, the People, going to endure this continuing rerun of the snake-eating-its-tail absurdity that is the Old Parties' political system before we tire of it and say, "maybe, just maybe?"
+"Nail-biting hood boys in borrowed ties and jackets clutching at the straws of respectability." How much longer are We, the People, going to endure this continuing rerun of the snake-eating-its-tail absurdity that is the Old Parties' political system before we tire of it and say, "maybe, just maybe?" Voter Information Endorsements Events Contact Privacy Policy Committee to Elect Darren Hamilton Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darren Not Politics as Usual Candidacy Is Different District 57 Map Defining Libertarians FAQ Endorsements Platform Self-Ownership Second Amendment and Gun Control Public Education K-12 Healthcare vs Health Care Abortion Immigration LGBTQ Issues Vice and Morality Laws The Unsheltered Veterans Issues Autism Advocacy Opinions Quadrennial Circus The New Medieval Period 2024 Iowa Caucuses You Deserve Better Authoritarianism Crime Spree Police State Government Control Not TV Reruns News Video Links Contact Libertarian Party Close Menu

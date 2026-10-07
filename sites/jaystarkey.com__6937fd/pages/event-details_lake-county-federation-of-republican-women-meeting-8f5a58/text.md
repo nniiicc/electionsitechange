@@ -1,8 +1,3 @@
-top of page
-Lake County Federation of Republican Women Meeting
-Thu, Apr 09
-|Federation of Republican Woman Meeting
-Lake County Federation of Republican Women is hosting a meeting.
+top of page Menu Close Home Meet Jay Platform Volunteer Donate Contact Home Meet Jay Platform Volunteer Donate Contact Menu Close Lake County Federation of Republican Women Meeting Thu, Apr 09 | Federation of Republican Woman Meeting Lake County Federation of Republican Women is hosting a meeting.
 Meet Jay Starkey for State Senate District 6 and tell him about your needs and concerns.
-Registration is closed
-bottom of page
+Registration is closed See other events Time & Location Apr 09, 2026, 6:30 PM – 9:00 PM CDT Federation of Republican Woman Meeting, 1515 Lincoln Hwy Schererville, IN 46375 Share this event ​ Paid for by Committee to Elect James "Jay" Starkey Privacy Policy Home Meet Jay Platform Volunteer Donate Contact bottom of page

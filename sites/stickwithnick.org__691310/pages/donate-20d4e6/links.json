@@ -1,10 +1,34 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://secure.anedot.com/the-boldyga-committee/2020-road-to-victory-cb2b1c459f4ed0069f49a",
-"https://stickwithnick.org/",
-"https://stickwithnick.org/about-nick",
-"https://stickwithnick.org/contact-nick",
-"https://stickwithnick.org/donate",
-"https://stickwithnick.org/lets-go-to-the-video",
-"https://x.com/@RepNickBoldyga"
+{
+"text": "About Nick",
+"href": "https://stickwithnick.org/about-nick"
+},
+{
+"text": "CLICK HERE! Show Nick some Support!",
+"href": "https://secure.anedot.com/the-boldyga-committee/2020-road-to-victory-cb2b1c459f4ed0069f49a"
+},
+{
+"text": "Contact Nick",
+"href": "https://stickwithnick.org/contact-nick"
+},
+{
+"text": "Donate",
+"href": "https://stickwithnick.org/donate"
+},
+{
+"text": "Home",
+"href": "https://stickwithnick.org/"
+},
+{
+"text": "Let's Go to the Video",
+"href": "https://stickwithnick.org/lets-go-to-the-video"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/@RepNickBoldyga"
+}
 ]

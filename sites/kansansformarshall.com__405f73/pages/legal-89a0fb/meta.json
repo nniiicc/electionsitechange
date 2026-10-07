@@ -1,7 +1,12 @@
 {
  "description": "Privacy, terms, FEC compliance, CCPA/CPRA, and accessibility statement for Kansans for Marshall.",
  "final_url": "https://kansansformarshall.com/legal/",
+ "fingerprint": "af7a60963accb4d0061ce3e6441be11f1bdaddb2",
+ "format": 3,
  "paid_for_by": "Paid for by Kansans for Marshall",
- "title": "Legal \u00b7 Doc Marshall",
- "years_mentioned": []
+ "title": "Legal · Doc Marshall",
+ "years_mentioned": [
+  "2015",
+  "2026"
+ ]
 }

@@ -1,12 +1,58 @@
 [
-"https://facebook.com/profile.php?id=61589793123217",
-"https://lauraforcolorado.com/",
-"https://lauraforcolorado.com/about",
-"https://lauraforcolorado.com/event-details/scoops-in-the-park-with-state-rep-candidate-laura-martin",
-"https://lauraforcolorado.com/event-list",
-"https://lauraforcolorado.com/privacy-policy",
-"https://lauraforcolorado.com/values",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.lauraforcolorado.com%2Fevent-details%2Fscoops-in-the-park-with-state-rep-candidate-laura-martin",
-"https://secure.anedot.com/laura4hd17-cbe72bb5-0915-45bc-958c-21fbab12192e/support",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.lauraforcolorado.com%2Fevent-details%2Fscoops-in-the-park-with-state-rep-candidate-laura-martin&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "ABOUT",
+"href": "https://www.lauraforcolorado.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.lauraforcolorado.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/laura4hd17-cbe72bb5-0915-45bc-958c-21fbab12192e/support"
+},
+{
+"text": "EVENTS",
+"href": "https://www.lauraforcolorado.com/event-list"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=61589793123217"
+},
+{
+"text": "HOME",
+"href": "https://www.lauraforcolorado.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lauraforcolorado.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lauraforcolorado.com/privacy-policy"
+},
+{
+"text": "See other events",
+"href": "https://www.lauraforcolorado.com/event-list"
+},
+{
+"text": "VALUES",
+"href": "https://www.lauraforcolorado.com/values"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.lauraforcolorado.com%2Fevent-details%2Fscoops-in-the-park-with-state-rep-candidate-laura-martin&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.lauraforcolorado.com/event-details/scoops-in-the-park-with-state-rep-candidate-laura-martin"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.lauraforcolorado.com%2Fevent-details%2Fscoops-in-the-park-with-state-rep-candidate-laura-martin"
+},
+{
+"text": "© # All Rights Reserved.",
+"href": "https://www.lauraforcolorado.com"
+}
 ]

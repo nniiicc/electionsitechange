@@ -1,7 +1,38 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://facebook.com/NatalieWellsforNH",
-"https://nataliewellsnh.com/",
-"https://nataliewellsnh.com/contact"
+{
+"text": "About",
+"href": "https://nataliewellsnh.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://nataliewellsnh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://nataliewellsnh.com/#donate"
+},
+{
+"text": "Endorsements",
+"href": "https://nataliewellsnh.com/#endorsements"
+},
+{
+"text": "Issues",
+"href": "https://nataliewellsnh.com/#issues"
+},
+{
+"text": "Natalie Wells",
+"href": "https://nataliewellsnh.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NatalieWellsforNH"
+}
 ]

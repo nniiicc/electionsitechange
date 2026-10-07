@@ -1,16 +1,74 @@
 [
-"https://forms.gle/CxXQPM5DS7wUFgfR8",
-"https://forms.gle/M3xr4STNA4QyNbCt8",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Flazzaroforrep&sa=D&sntz=1&usg=AOvVaw2mwqE5hwmKOOxq0kTCR0Ml",
-"https://nicklazzaro.com/about-nick",
-"https://nicklazzaro.com/about-nick/about-the-district",
-"https://nicklazzaro.com/ask-nick-a-question",
-"https://nicklazzaro.com/endorsements",
-"https://nicklazzaro.com/get-involved",
-"https://nicklazzaro.com/home",
-"https://nicklazzaro.com/in-the-news",
-"https://nicklazzaro.com/nicks-priorities",
-"https://nicklazzaro.com/nicks-priorities/how-nick-would-vote",
-"https://nicklazzaro.com/nicks-priorities/nicks-policies",
-"https://nicklazzaro.com/nicks-record"
+{
+"text": "About Nick",
+"href": "https://www.nicklazzaro.com/about-nick"
+},
+{
+"text": "About the District",
+"href": "https://www.nicklazzaro.com/about-nick/about-the-district"
+},
+{
+"text": "Ask Nick a Question",
+"href": "https://www.nicklazzaro.com/ask-nick-a-question"
+},
+{
+"text": "DONATE TO OUR MOVEMENT",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Flazzaroforrep&sa=D&sntz=1&usg=AOvVaw2mwqE5hwmKOOxq0kTCR0Ml"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Flazzaroforrep&sa=D&sntz=1&usg=AOvVaw2mwqE5hwmKOOxq0kTCR0Ml"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nicklazzaro.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.nicklazzaro.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.nicklazzaro.com/home"
+},
+{
+"text": "How Nick Would Vote",
+"href": "https://www.nicklazzaro.com/nicks-priorities/how-nick-would-vote"
+},
+{
+"text": "In the News",
+"href": "https://www.nicklazzaro.com/in-the-news"
+},
+{
+"text": "Lazzaro for State Representative",
+"href": "https://www.nicklazzaro.com/home"
+},
+{
+"text": "Nick's Policies",
+"href": "https://www.nicklazzaro.com/nicks-priorities/nicks-policies"
+},
+{
+"text": "Nick's Priorities",
+"href": "https://www.nicklazzaro.com/nicks-priorities"
+},
+{
+"text": "Nick's Record",
+"href": "https://www.nicklazzaro.com/nicks-record"
+},
+{
+"text": "REQUEST A YARD SIGN!",
+"href": "https://forms.gle/CxXQPM5DS7wUFgfR8"
+},
+{
+"text": "VOLUNTEER!",
+"href": "https://forms.gle/M3xr4STNA4QyNbCt8"
+},
+{
+"text": "[image]",
+"href": "https://www.nicklazzaro.com/home"
+},
+{
+"text": "[image]Lazzaro for State Representative",
+"href": "https://www.nicklazzaro.com/home"
+}
 ]

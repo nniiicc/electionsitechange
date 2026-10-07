@@ -1,5 +1,5 @@
-The War on Police and the Price of Silence
-The moment you are silent on injustice is the moment you are complicit in injustice.
+Skip to content R Rocco for State Senate SD65 Toggle menu About Issues News Donate $75 for Free Get Involved Contact Donate WHAT'S NEW!?!
+DONATE $75 for FREE News Grant federal pardon and state retrial for Derek Chauvin August 6, 2026 · stans The War on Police and the Price of Silence The moment you are silent on injustice is the moment you are complicit in injustice.
 I believe Derek Chauvin did not receive a fair trial.
 The proceedings took place under intense public pressure, with national Democratic leaders and activists openly warning of violence if the verdict did not match their demands.
 That atmosphere tainted the neutrality and fairness essential to any legitimate judicial process.
@@ -16,16 +16,14 @@ Three other Minneapolis officers — Tou Thao, J.
 Alexander Kueng, and Thomas Lane — were also charged, tried, and convicted in connection with the same incident.
 Their cases unfolded under the same climate of fear, protest threats, and political pressure.
 The message sent to every rank-and-file officer in Minnesota and across the country was unmistakable: if a high-profile incident occurs, the political class will not stand behind you.
-The Case for Dismissal
-Derek Chauvin’s current attorney, Gregory Joseph, is actively seeking dismissal of the charges.
+The Case for Dismissal Derek Chauvin’s current attorney, Gregory Joseph, is actively seeking dismissal of the charges.
 That request is not radical — it is grounded in the fundamental failures of the original process.
 The lack of a grand jury is illegal and Tim Walz lacked the proper authority to hand the case over the way he did.
 When a trial is conducted under explicit threats of violence, when political leaders amplify those threats, and when the atmosphere makes true impartiality impossible, the conviction itself becomes suspect.
 A dismissal would acknowledge that the proceedings did not meet the basic standards of American justice.
 It would be a rightful correction, not a political favor.
 If the evidence and process cannot withstand scrutiny free from mob pressure, then the charges should not stand.
-If You Ever Have Been to Court, You Should Be Fighting For This Too
-Anyone who has ever been wrongfully arrested by the police or unjustly prosecuted by the state should be screaming from the rooftops for the dismissal of the charges against Derek Chauvin.
+If You Ever Have Been to Court, You Should Be Fighting For This Too Anyone who has ever been wrongfully arrested by the police or unjustly prosecuted by the state should be screaming from the rooftops for the dismissal of the charges against Derek Chauvin.
 If you believe the system can destroy an innocent person’s life through political pressure, tainted proceedings, and external threats of violence, then you should understand exactly why this case matters.
 The same machinery that can be weaponized against a police officer under intense public and political pressure can just as easily be turned against any citizen.
 Silence in the face of a fundamentally unfair process does not protect the wrongly accused — it endangers them.
@@ -37,8 +35,7 @@ Cities reduced budgets, demoralized officers, and watched crime climb.
 Prosecutors adopted soft-on-crime policies.
 Career criminals were released with minimal consequences.
 The same political forces that demanded Chauvin’s conviction also weakened the institutions meant to keep communities safe.
-Continued Consequences
-Minnesota is still living with the consequences.
+Continued Consequences Minnesota is still living with the consequences.
 Rising crime, prosecutors who hesitate to hold repeat offenders accountable, and a culture that treats law enforcement as the problem rather than part of the solution.
 When officers believe the system will abandon them under political pressure, recruitment suffers, experienced officers leave, and public safety erodes.
 Silence in the face of this double standard is complicity.
@@ -55,14 +52,10 @@ It requires leaders willing to say what is true even when it is unpopular.
 The moment you are silent on injustice is the moment you are complicit in injustice.
 Stop voting blue no matter who.
 Vote Red Instead.
-Rocco for State Senate District 65
-Stop voting for the same people who got us in this mess in the first place.
+Rocco for State Senate District 65 Stop voting for the same people who got us in this mess in the first place.
 Stop voting BLUE no matter who.
 Vote RED instead, and together we can make a better tomorrow.
-Resources:
-Change.org
-Liz Collin:
-Derek Chauvin’s fight for a fair trial — and his ‘last line of defense’
-Ben Shapiro:
-What the media hasn’t told you:
-Liz Collin:
+Resources: Change.org Liz Collin: Derek Chauvin’s fight for a fair trial — and his ‘last line of defense’ Ben Shapiro: What the media hasn’t told you : Federal Pardon for Derek : Liz Collin: The Fall of Minneapolis : From the campaign Latest News September 23, 2026 Restore the Flag Minnesota Actually Loved September 23, 2026 The War on Cops: Let Cops Be Cops Again September 23, 2026 Transportation Proposal: Restoring Sanity to Minnesota’s Commuter Routes See all news → Minnesota voters Donate $75.
+Get $75 Back.
+Minnesota’s Political Contribution Refund may return up to $# of your campaign donation—making your support possibly free.
+Learn How It Works ← One More Day Bill of Rights Call to Action → Paid for by Rocco for State Senate, PO Box 270172, Saint Paul, MN 55127-0172 © # Rocco for State Senate

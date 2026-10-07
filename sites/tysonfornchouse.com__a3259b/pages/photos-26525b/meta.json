@@ -1,10 +1,13 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://www.tysonfornchouse.com/photos",
- "paid_for_by": null,
+ "fingerprint": "aaa0e11d1d1981958d96b05899d7f9a259509a4c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": [
   "2019",
+  "2020",
   "2021"
  ]
 }

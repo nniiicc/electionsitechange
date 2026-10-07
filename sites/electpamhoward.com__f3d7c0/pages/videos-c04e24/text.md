@@ -1,6 +1,4 @@
-I am the right person to represent District 40
-Education is one of the issues I care about the most.
+Elect Pam Howard Elect Pam Howard Elect Pam Howard Elect Pam Howard Home Blog Events Videos Contact Us Issues More Home Blog Events Videos Contact Us Issues Elect Pam Howard Elect Pam Howard Elect Pam Howard Elect Pam Howard Home Blog Events Videos Contact Us Issues Videos Meet Pam Howard I am the right person to represent District 40 Let's Talk about Education Education is one of the issues I care about the most.
 It is the building block for our children's opportunities and success.
-Workforce Issues and Solutions for District 40
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Let's Talk About Workforce Development Workforce Issues and Solutions for District 40 Copyright © # Elect Pam Howard - All Rights Reserved.
+Powered by

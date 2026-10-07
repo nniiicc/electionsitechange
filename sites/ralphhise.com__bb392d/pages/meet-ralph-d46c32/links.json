@@ -1,6 +1,22 @@
 [
-"https://flic.kr/ps/3YEeUo",
-"https://ralphhise.com/",
-"https://ralphhise.com/meet-ralph",
-"https://secure.anedot.com/ralphhiseforsenate/donate"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/ralphhiseforsenate/donate"
+},
+{
+"text": "Gallery",
+"href": "https://flic.kr/ps/3YEeUo"
+},
+{
+"text": "Home",
+"href": "https://ralphhise.com/"
+},
+{
+"text": "[image: Ralph Hise for NC Senate]",
+"href": "https://ralphhise.com/"
+},
+{
+"text": "meet ralph",
+"href": "https://ralphhise.com/meet-ralph"
+}
 ]

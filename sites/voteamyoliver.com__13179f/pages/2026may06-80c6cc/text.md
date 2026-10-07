@@ -1,16 +1,10 @@
-FOR IMMEDIATE RELEASE: May 6, 2026
-Amy Huffman Oliver for IN State Representative District 62
-Press Contact: Jenni Bohn, Communications Director
-Jenni@voteamyoliver.com, PHONE 812-391-0528
-Amy Huffman Oliver Announces Democratic Primary Election Victory for Indiana State House District 62
-Nashville, Indiana - Amy Huffman Oliver, a fourth-generation Hoosier, teacher, attorney, and school board member, secured the Democratic nomination for Indiana State House of Representatives in District 62 in Tuesday’s primary election.
-Although uncontested for the Democratic Party nomination, Oliver’s primary performance on Tuesday included several firsts for District 62:
-- Oliver is the first Democratic State House candidate to outperform the Republican State House candidate in District 62 since the district’s creation in 2022.
-- Oliver received the highest number of raw votes in District 62 for any Democratic candidate in a primary since the district's creation in 2022.
-- Oliver received more votes than Dave Hall, including a margin of more than three-to-one in Monroe County.
-At the Democratic Party election gathering in Bloomington, Oliver noted, "Although I was not head-to-head in this race with my opponent, the incumbent, we definitely made a lot of progress from the last two races.”
-“I am deeply grateful to the people in my District for their belief in me and this campaign,” Oliver later commented.
-“We spoke up for Democratic values, and this nomination affirms that we can all make a difference by exercising our right to vote.”
-Oliver extended special thanks to her team of volunteers who knocked on doors, made phone calls, and stood in the rain at polling stations on election day, even when she was unopposed in the primary.
+0 Skip to Content Home About Amy Amy's Priorities Endorsements FAQs Volunteer Contact Amy News AFL-CIO Endorsement (June 26) Amy Recognized by the DLCC (May 19) Post-Primary Press Release (May 06) Front Page Finish (May 05) DONATE Open Menu Close Menu Open Menu Close Menu Home About Amy Amy's Priorities Endorsements FAQs Volunteer Contact Amy News AFL-CIO Endorsement (June 26) Amy Recognized by the DLCC (May 19) Post-Primary Press Release (May 06) Front Page Finish (May 05) DONATE Home About Amy Amy's Priorities Endorsements FAQs Volunteer Contact Amy Folder: News Back AFL-CIO Endorsement (June 26) Amy Recognized by the DLCC (May 19) Post-Primary Press Release (May 06) Front Page Finish (May 05) DONATE FOR IMMEDIATE RELEASE: May 6, 2026 Amy Huffman Oliver for IN State Representative District 62 Press Contact: Jenni Bohn, Communications Director Jenni@voteamyoliver.com , PHONE 812-391-0528 Amy Huffman Oliver Announces Democratic Primary Election Victory for Indiana State House District 62 Nashville, Indiana - Amy Huffman Oliver, a fourth-generation Hoosier, teacher, attorney, and school board member, secured the Democratic nomination for Indiana State House of Representatives in District 62 in Tuesday’s primary election.
+Although uncontested for the Democratic Party nomination, Oliver’s primary performance on Tuesday included several firsts for District 62: Oliver is the first Democratic State House candidate to outperform the Republican State House candidate in District 62 since the district’s creation in 2022.
+Oliver received the highest number of raw votes in District 62 for any Democratic candidate in a primary since the district's creation in 2022.
+Oliver received more votes than Dave Hall, including a margin of more than three-to-one in Monroe County.
+At the Democratic Party election gathering in Bloomington, Oliver noted, "Although I was not head-to-head in this race with my opponent, the incumbent, we definitely made a lot of progress from the last two races.” “I am deeply grateful to the people in my District for their belief in me and this campaign,” Oliver later commented.
+“We spoke up for Democratic values, and this nomination affirms that we can all make a difference by exercising our right to vote.” Oliver extended special thanks to her team of volunteers who knocked on doors, made phone calls, and stood in the rain at polling stations on election day, even when she was unopposed in the primary.
 “It’s your dedication to our mission to make things better and more affordable for Hoosiers that inspires me to work even harder to represent you at the Indiana Statehouse,” Oliver said.
-Voters can learn more about Oliver and her campaign at www.voteamyoliver.com
+Voters can learn more about Oliver and her campaign at www.voteamyoliver.com Vote Amy Huffman Oliver for Indiana State Representative Paid for by Patricia Krahnke and authorized by: Friends of Amy Huffman Oliver Click here to donate Friends of Amy Huffman Oliver P.
+O.
+Box 93 Nashville, IN 47448 Email: Info@voteamyoliver.com

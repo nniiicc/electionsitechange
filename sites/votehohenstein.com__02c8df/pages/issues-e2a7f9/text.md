@@ -1,4 +1,4 @@
-Joe Hohenstein’s Platform
-The world is changing, and the need for clear-headed, balanced policies has never been greater.
+Meet Joe Issues Contact Volunteer Make Your Plan to Vote Donate Meet Joe Issues Contact Volunteer Make Your Plan to Vote Donate Issues Joe Hohenstein’s Platform The world is changing, and the need for clear-headed, balanced policies has never been greater.
 Joe will continue to fight for policies that give our working families better schools, more job opportunities, and a tax structure that makes massive corporations pay their fair share.
 Reflecting upon the values on which he was raised, Joe is continually listening, learning, and processing the facts of the issues and the feelings of his neighbors to find balanced solutions that will best serve the 177th District, the city of Philadelphia, and the commonwealth of Pennsylvania.
+PUBLIC SAFETY & SOCIAL JUSTICE ECONOMY & INFRASTRUCTURE WOMEN’S RIGHTS EDUCATION HEALTHCARE LABOR RIGHTS GUN VIOLENCE HOUSING OPIOID CRISIS VOTING RIGHTS LGBTQIA+ RIGHTS ENVIRONMENT DISABILITY RIGHTS Back to Top votehohenstein@gmail.com Paid for by Friends of Joe Hohenstein PAC

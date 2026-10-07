@@ -1,36 +1,182 @@
 [
-"https://caring.com/senior-living/assisted-living/pennsylvania",
-"https://dhs.pa.gov/Services/Assistance/Pages/LIHEAP.aspx",
-"https://facebook.com/RepMustello",
-"https://instagram.com/repmustello11",
-"https://pa.gov/agencies/penndot.html",
-"https://pahousegop.com/TermsOfUse",
-"https://penndot.gov/_layouts/pa.penndot.formsandpubs/formsandpubs.aspx",
-"https://repmustello.com/",
-"https://repmustello.com/Display/NewsGroup.aspx?ngid=72",
-"https://repmustello.com/Email-Signup",
-"https://repmustello.com/News/37371/Latest-News/Bernstine--Mustello-Highlight-Rail-Investments-Supporting-Jobs--Economic-Growth-in-Butler-County",
-"https://repmustello.com/News/37568/Latest-News/Mustello-Announces-Significant-Investment-in-Fire--EMS-Services-Across-Butler-County",
-"https://repmustello.com/News/37741/Latest-News/Supporting-Agriculture--Mustello-Hosts-Farmers-Breakfast-in-Butler",
-"https://repmustello.com/News/37801/Latest-News/Mustello-Announces--95-000-Grant-for-Butler-Area-Public-Library",
-"https://repmustello.com/News/37899/Latest-News/Mustello-Announces-Nearly--348-000-Dual-Credit-Innovation-Grant-for-Butler-County-Community-College",
-"https://repmustello.com/News/38262/Latest-News/Mustello--2026-27-PA-State-Budget-Passes",
-"https://repmustello.com/News/38305/Latest-News/Mustello-Announces--1-4-Million-PENNVEST-Loan-for-Chicora-Borough-Waterline-Project",
-"https://repmustello.com/News/38512/Latest-News/Mustello--More-Than--871-000-Awarded-for-School-Safety--Mental-Health",
-"https://repmustello.com/News/38688/Latest-News/Mustello--More-Than--1-1-Million-in-LSA-Grants-Awarded-for-Butler-County",
-"https://repmustello.com/NewsGroup/Press-Releases",
-"https://repmustello.com/PAGovLinks",
-"https://repmustello.com/Video/LatestVideo",
-"https://repmustello.com/about",
-"https://repmustello.com/citizenaccess",
-"https://repmustello.com/contact",
-"https://repmustello.com/districtmap",
-"https://repmustello.com/events",
-"https://repmustello.com/livestreams",
-"https://repmustello.com/officeservices",
-"https://repmustello.com/photos/Veteran-of-the-Year-Luncheon",
-"https://repmustello.com/ptrr",
-"https://repmustello.com/realid",
-"https://revenue.pa.gov/Pages/default.aspx",
-"https://unclaimedproperty.patreasury.gov/en/Property/SearchIndex"
+{
+"text": "11th District",
+"href": "https://www.repmustello.com/districtmap"
+},
+{
+"text": "About",
+"href": "https://www.repmustello.com/about"
+},
+{
+"text": "About the 11th District",
+"href": "https://www.repmustello.com/districtmap"
+},
+{
+"text": "Apr24 Press Release Mustello Announces Nearly $348,000 Dual Credit Innovation Grant for Butler County Community College Read More",
+"href": "https://www.repmustello.com/News/37899/Latest-News/Mustello-Announces-Nearly--348-000-Dual-Credit-Innovation-Grant-for-Butler-County-Community-College"
+},
+{
+"text": "Apr7 Press Release Mustello Announces $95,000 Grant for Butler Area Public Library Read More",
+"href": "https://www.repmustello.com/News/37801/Latest-News/Mustello-Announces--95-000-Grant-for-Butler-Area-Public-Library"
+},
+{
+"text": "Aug17 Press Release Mustello: More Than $871,000 Awarded for School Safety, Mental Health Read More",
+"href": "https://www.repmustello.com/News/38512/Latest-News/Mustello--More-Than--871-000-Awarded-for-School-Safety--Mental-Health"
+},
+{
+"text": "Bio",
+"href": "https://www.repmustello.com/about"
+},
+{
+"text": "Citizens Access Portal",
+"href": "https://www.repmustello.com/citizenaccess"
+},
+{
+"text": "Citizens Info Access",
+"href": "https://www.repmustello.com/citizenaccess"
+},
+{
+"text": "Contact",
+"href": "https://www.repmustello.com/contact"
+},
+{
+"text": "Contact Marci",
+"href": "https://www.repmustello.com/contact"
+},
+{
+"text": "Contact My Office",
+"href": "https://www.repmustello.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://www.repmustello.com/districtmap"
+},
+{
+"text": "Events",
+"href": "https://www.repmustello.com/events"
+},
+{
+"text": "Events Coming Up",
+"href": "https://www.repmustello.com/events"
+},
+{
+"text": "Feb13 Press Release Mustello Announces Significant Investment in Fire, EMS Services Across Butler County Read More",
+"href": "https://www.repmustello.com/News/37568/Latest-News/Mustello-Announces-Significant-Investment-in-Fire--EMS-Services-Across-Butler-County"
+},
+{
+"text": "Home",
+"href": "https://www.repmustello.com/"
+},
+{
+"text": "How My Office Can Help",
+"href": "https://www.repmustello.com/officeservices"
+},
+{
+"text": "Jan23 Press Release Bernstine, Mustello Highlight Rail Investments Supporting Jobs, Economic Growth in Butler County Read More",
+"href": "https://www.repmustello.com/News/37371/Latest-News/Bernstine--Mustello-Highlight-Rail-Investments-Supporting-Jobs--Economic-Growth-in-Butler-County"
+},
+{
+"text": "Jul12 Press Release Mustello: 2026-27 PA State Budget Passes Read More",
+"href": "https://www.repmustello.com/News/38262/Latest-News/Mustello--2026-27-PA-State-Budget-Passes"
+},
+{
+"text": "Jul15 Press Release Mustello Announces $1.4 Million PENNVEST Loan for Chicora Borough Waterline Project Read More",
+"href": "https://www.repmustello.com/News/38305/Latest-News/Mustello-Announces--1-4-Million-PENNVEST-Loan-for-Chicora-Borough-Waterline-Project"
+},
+{
+"text": "Learn More",
+"href": "https://www.repmustello.com/about"
+},
+{
+"text": "LiHeap Information",
+"href": "https://www.dhs.pa.gov/Services/Assistance/Pages/LIHEAP.aspx"
+},
+{
+"text": "Livestreams",
+"href": "https://www.repmustello.com/livestreams"
+},
+{
+"text": "Mar24 Press Release Supporting Agriculture: Mustello Hosts Farmers Breakfast in Butler Read More",
+"href": "https://www.repmustello.com/News/37741/Latest-News/Supporting-Agriculture--Mustello-Hosts-Farmers-Breakfast-in-Butler"
+},
+{
+"text": "Office Services",
+"href": "https://www.repmustello.com/officeservices"
+},
+{
+"text": "PA State Rep. Marci MustelloServing PA's 11th Legislative District",
+"href": "https://www.repmustello.com/"
+},
+{
+"text": "PennDOT Forms",
+"href": "https://pa.gov/agencies/penndot.html#sortCriteria=%40copapwpeffectivedate%20descending"
+},
+{
+"text": "PennDOT Forms",
+"href": "https://www.penndot.gov/_layouts/pa.penndot.formsandpubs/formsandpubs.aspx"
+},
+{
+"text": "Press Releases",
+"href": "https://www.repmustello.com/Display/NewsGroup.aspx?ngid=72"
+},
+{
+"text": "Property Tax Rent/Rebates",
+"href": "https://www.revenue.pa.gov/Pages/default.aspx"
+},
+{
+"text": "Property Tax/Rent Rebate Program",
+"href": "https://www.repmustello.com/ptrr"
+},
+{
+"text": "REAL ID",
+"href": "https://www.repmustello.com/realid"
+},
+{
+"text": "Search for Unclaimed Property",
+"href": "https://unclaimedproperty.patreasury.gov/en/Property/SearchIndex"
+},
+{
+"text": "Senior Care & Assisted Living Guide",
+"href": "https://www.caring.com/senior-living/assisted-living/pennsylvania"
+},
+{
+"text": "Senior Care &amp; Assisted Living Guide",
+"href": "https://www.caring.com/senior-living/assisted-living/pennsylvania"
+},
+{
+"text": "Sep15 Press Release Mustello: More Than $1.1 Million in LSA Grants Awarded for Butler County Read More",
+"href": "https://www.repmustello.com/News/38688/Latest-News/Mustello--More-Than--1-1-Million-in-LSA-Grants-Awarded-for-Butler-County"
+},
+{
+"text": "State Government Links",
+"href": "https://www.repmustello.com/PAGovLinks"
+},
+{
+"text": "Subscribe",
+"href": "https://www.repmustello.com/Email-Signup"
+},
+{
+"text": "Terms of use",
+"href": "https://www.pahousegop.com/TermsOfUse"
+},
+{
+"text": "Veteran Luncheon Photos",
+"href": "https://www.repmustello.com/photos/Veteran-of-the-Year-Luncheon"
+},
+{
+"text": "Video",
+"href": "https://www.repmustello.com/Video/LatestVideo"
+},
+{
+"text": "View All Press Releases",
+"href": "https://www.repmustello.com/NewsGroup/Press-Releases"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/RepMustello"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/repmustello11"
+}
 ]

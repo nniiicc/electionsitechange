@@ -1,134 +1,914 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=440+Keawe&dates=20260526T023000Z%2F20260526T040000Z&location=400+Keawe+Street%2C+Honolulu%2C+HI%2C+96813%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Ala+Moana%2FKakaako+Neighborhood+Board+Candidate+Forum&dates=20240724T050000Z%2F20240724T060000Z&location=829+Pensacola+Street%2C+Honolulu%2C+HI%2C+96814%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Alakea+%40+Beretania&dates=20260514T023000Z%2F20260514T040000Z&location=Alakea+%26%2364%3B+Beretania",
-"http://google.com/calendar/event?action=TEMPLATE&text=Ballots+Arrive&dates=20240722T230000Z%2F20240723T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Bishop+%40+Beretania&dates=20260512T023000Z%2F20260512T040000Z&location=Bishop+%26%2364%3B+Beretania",
-"http://google.com/calendar/event?action=TEMPLATE&text=Bishop+%40+Hotel+St.&dates=20260516T180000Z%2F20260516T193000Z&location=Executive+Center+Bishop+St%2C+Honolulu",
-"http://google.com/calendar/event?action=TEMPLATE&text=Bishop+Place+%40+Union+Mall+&dates=20260513T023000Z%2F20260513T040000Z&location=Bishop+%26%2364%3B+Beretania",
-"http://google.com/calendar/event?action=TEMPLATE&text=Civil+Beat+Pop+Up+Newsroom%3A+Meet+the+Candidates&dates=20240727T033000Z%2F20240727T043000Z&location=1200+Ala+Moana+Boulevard%2C+Honolulu%2C+HI%2C+96814%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Harbor+Court+%40+Merchant+St.&dates=20260520T023000Z%2F20260520T040000Z&location=Merchant+St.%2C+Honolulu",
-"http://google.com/calendar/event?action=TEMPLATE&text=Harbor+Square+%40+225+Queen&dates=20260521T023000Z%2F20260521T040000Z&location=225+Queen+Street%2C+Honolulu",
-"http://google.com/calendar/event?action=TEMPLATE&text=Harbor+Square+%40+700+Richards&dates=20260522T023000Z%2F20260522T040000Z&location=225+Queen+Street%2C+Honolulu",
-"http://google.com/calendar/event?action=TEMPLATE&text=Kakaako+Farmers+Market&dates=20260530T180000Z%2F20260530T193000Z&location=Ala+Moana+Blvd+%26%2364%3B+Ward%2C+Honolulu",
-"http://google.com/calendar/event?action=TEMPLATE&text=Keahou+Place++In+front+of+Down+To+Earth&dates=20260528T023000Z%2F20260528T040000Z&location=500+Keawe+Street%2C+Honolulu%2C+HI%2C+96813%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Keawe+%40+Halekauwila&dates=20260523T023000Z%2F20260523T040000Z&location=Keawe+%26%2364%3B+Halekauwila%2C+Honolulu",
-"http://google.com/calendar/event?action=TEMPLATE&text=Keola+La%27i%2C+South+%40+Queen&dates=20260529T023000Z%2F20260529T040000Z&location=South+%26%2364%3B+Queen%2C+Honolulu%2C+HI%2C+96813%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Kim+Coco+Campaign+FUNraiser+at+Scarlet+Honolulu&dates=20250525T063000Z%2F20250525T095900Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Kim+Coco+Campaing+FUNDraiser+at+Tchin+Tchin&dates=20250525T040000Z%2F20250525T070000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Kim+Coco+Progressive+Birthday+Dinner+Party&dates=20260524T043000Z%2F20260524T053000Z&location=1164+Nuuanu+Ave%2C+Honolulu",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebank+for+Team+Coco&dates=20240722T010000Z%2F20240722T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebank+for+Team+Coco&dates=20240729T010000Z%2F20240729T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebank+for+Team+Coco&dates=20240731T030000Z%2F20240731T050000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebank+for+Team+Coco&dates=20240805T010000Z%2F20240805T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+Election+Day&dates=20240810T190000Z%2F20240811T050000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sign+Waving+-+Kamakee+%26amp%3B+Auahi&dates=20240727T020000Z%2F20240727T033000Z&location=kamakee+%26amp%3B+Auahi%2C+Honolulu",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sign+Waving+-+Kapiolani+%26amp%3B+Ward&dates=20240803T020000Z%2F20240803T040000Z&location=Ward+%26amp%3B+Kapiolani%2C+Honolulu",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sign+Waving+-+South+King+%26amp%3B+Ward&dates=20240808T020000Z%2F20240808T040000Z&location=South+King+%26amp%3B+Ward+Ave%2C+Honolulu",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sign+Waving+-+South+St+%26amp%3B+Queen+St&dates=20240806T020000Z%2F20240806T040000Z&location=South+St+%26amp%3B+Queen+St%2C+Honolulu",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sign+Waving+-+South+and+Kapiolani+Blvd&dates=20240810T020000Z%2F20240810T040000Z&location=kapiolani+and+South%2C+Honolulu",
-"http://google.com/calendar/event?action=TEMPLATE&text=South+Vineyard+Street+%40+Queen+Emma&dates=20260515T023000Z%2F20260515T040000Z&location=South+Vineyard+Street+%26%2364%3B+Queen+Emma",
-"http://google.com/calendar/event?action=TEMPLATE&text=Ulana+%40+828+Auahi&dates=20260527T023000Z%2F20260527T040000Z&location=828+Auahi+st%2C+Honolulu%2C+HI%2C+96813%2C+United+States",
-"http://maps.google.com/?q=1164+Nuuanu+Ave+Honolulu",
-"http://maps.google.com/?q=1200+Ala+Moana+Boulevard+Honolulu%2C+HI%2C+96814+United+States",
-"http://maps.google.com/?q=225+Queen+Street+Honolulu",
-"http://maps.google.com/?q=400+Keawe+Street+Honolulu%2C+HI%2C+96813+United+States",
-"http://maps.google.com/?q=500+Keawe+Street+Honolulu%2C+HI%2C+96813+United+States",
-"http://maps.google.com/?q=828+Auahi+st+Honolulu%2C+HI%2C+96813+United+States",
-"http://maps.google.com/?q=829+Pensacola+Street+Honolulu%2C+HI%2C+96814+United+States",
-"http://maps.google.com/?q=Ala+Moana+Blvd+%40+Ward+Honolulu",
-"http://maps.google.com/?q=Alakea+%40+Beretania",
-"http://maps.google.com/?q=Bishop+%40+Beretania",
-"http://maps.google.com/?q=Executive+Center+Bishop+St+Honolulu",
-"http://maps.google.com/?q=Keawe+%40+Halekauwila+Honolulu",
-"http://maps.google.com/?q=Merchant+St.+Honolulu",
-"http://maps.google.com/?q=South+%40+Queen+Honolulu%2C+HI%2C+96813+United+States",
-"http://maps.google.com/?q=South+King+",
-"http://maps.google.com/?q=South+St+",
-"http://maps.google.com/?q=South+Vineyard+Street+%40+Queen+Emma",
-"http://maps.google.com/?q=Ward+",
-"http://maps.google.com/?q=kamakee+",
-"http://maps.google.com/?q=kapiolani+and+South+Honolulu",
-"https://cchnl.webex.com/cchnl/j.php?MTID=mb7f6e1b40156ae36b78556e96eabf086",
-"https://facebook.com/votekimcoco",
-"https://form.everestwebdeals.co/?form=68b89d191fe23b0409abb090b70b4f67",
-"https://forms.gle/k9st6ryCCr6bTRb67",
-"https://instagram.com/votekimcoco",
-"https://mobilize.us/kimcoco/event/621796",
-"https://secure.actblue.com/donate/kcibirthday",
-"https://secure.actblue.com/donate/kcifundraiser",
-"https://secure.actblue.com/donate/votekimcoco2026",
-"https://twitter.com/votekimcoco",
-"https://votekimcoco.com/",
-"https://votekimcoco.com/blog",
-"https://votekimcoco.com/contact-me",
-"https://votekimcoco.com/district-resources",
-"https://votekimcoco.com/experience",
-"https://votekimcoco.com/issues",
-"https://votekimcoco.com/letsmeet",
-"https://votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw",
-"https://votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw-ftb5n",
-"https://votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw-ftb5n?format=ical",
-"https://votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw-p86xh",
-"https://votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw-p86xh?format=ical",
-"https://votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw?format=ical",
-"https://votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-prdhg-lxn2l-d8ygz",
-"https://votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-prdhg-lxn2l-d8ygz?format=ical",
-"https://votekimcoco.com/letsmeet/2024/6/20/ala-moanakakaako-neighborhood-board-candidate-forum",
-"https://votekimcoco.com/letsmeet/2024/6/20/ala-moanakakaako-neighborhood-board-candidate-forum?format=ical",
-"https://votekimcoco.com/letsmeet/2024/7/22/ballots-arrive",
-"https://votekimcoco.com/letsmeet/2024/7/22/ballots-arrive?format=ical",
-"https://votekimcoco.com/letsmeet/2024/7/26/civil-beat-pop-up-newsroom",
-"https://votekimcoco.com/letsmeet/2024/7/26/civil-beat-pop-up-newsroom?format=ical",
-"https://votekimcoco.com/letsmeet/2024/8/10/primary-election-day",
-"https://votekimcoco.com/letsmeet/2024/8/10/primary-election-day?format=ical",
-"https://votekimcoco.com/letsmeet/2025/5/25birthday",
-"https://votekimcoco.com/letsmeet/2025/5/25birthday?format=ical",
-"https://votekimcoco.com/letsmeet/2025/5/25fundraiser",
-"https://votekimcoco.com/letsmeet/2025/5/25fundraiser?format=ical",
-"https://votekimcoco.com/letsmeet/2026-05-11",
-"https://votekimcoco.com/letsmeet/2026-05-11?format=ical",
-"https://votekimcoco.com/letsmeet/2026-05-12",
-"https://votekimcoco.com/letsmeet/2026-05-12?format=ical",
-"https://votekimcoco.com/letsmeet/2026-05-13",
-"https://votekimcoco.com/letsmeet/2026-05-13?format=ical",
-"https://votekimcoco.com/letsmeet/2026-05-14",
-"https://votekimcoco.com/letsmeet/2026-05-14?format=ical",
-"https://votekimcoco.com/letsmeet/2026-05-19",
-"https://votekimcoco.com/letsmeet/2026-05-19?format=ical",
-"https://votekimcoco.com/letsmeet/2026-05-20",
-"https://votekimcoco.com/letsmeet/2026-05-20?format=ical",
-"https://votekimcoco.com/letsmeet/2026-05-21",
-"https://votekimcoco.com/letsmeet/2026-05-21-twpk5",
-"https://votekimcoco.com/letsmeet/2026-05-21-twpk5?format=ical",
-"https://votekimcoco.com/letsmeet/2026-05-21?format=ical",
-"https://votekimcoco.com/letsmeet/2026-05-22",
-"https://votekimcoco.com/letsmeet/2026-05-22?format=ical",
-"https://votekimcoco.com/letsmeet/2026-05-25",
-"https://votekimcoco.com/letsmeet/2026-05-25?format=ical",
-"https://votekimcoco.com/letsmeet/2026-05-26",
-"https://votekimcoco.com/letsmeet/2026-05-26-my58j",
-"https://votekimcoco.com/letsmeet/2026-05-26-my58j?format=ical",
-"https://votekimcoco.com/letsmeet/2026-05-26?format=ical",
-"https://votekimcoco.com/letsmeet/2026-05-28",
-"https://votekimcoco.com/letsmeet/2026-05-28?format=ical",
-"https://votekimcoco.com/letsmeet/2026-05-30",
-"https://votekimcoco.com/letsmeet/2026-05-30?format=ical",
-"https://votekimcoco.com/letsmeet/2026/5/23/birthday",
-"https://votekimcoco.com/letsmeet/2026/5/23/birthday?format=ical",
-"https://votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln",
-"https://votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-2pwa7",
-"https://votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-2pwa7?format=ical",
-"https://votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-d3wag",
-"https://votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-d3wag-njsxl",
-"https://votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-d3wag-njsxl?format=ical",
-"https://votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-d3wag?format=ical",
-"https://votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln?format=ical",
-"https://votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-whwgs",
-"https://votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-whwgs?format=ical",
-"https://votekimcoco.com/letsmeet?category=Canvass",
-"https://votekimcoco.com/media",
-"https://votekimcoco.com/meet-kim-coco",
-"https://votekimcoco.com/search",
-"https://votekimcoco.com/whykimcoco"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1164+nuuanu+ave+honolulu+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1200+ala+moana+boulevard+honolulu%2C+hi%2C+96814+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=225+queen+street+honolulu+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=400+keawe+street+honolulu%2C+hi%2C+96813+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=500+keawe+street+honolulu%2C+hi%2C+96813+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=828+auahi+st+honolulu%2C+hi%2C+96813+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=829+pensacola+street+honolulu%2C+hi%2C+96814+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=ala+moana+blvd+%40+ward+honolulu+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=alakea+%40+beretania++"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=bishop+%40+beretania++"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=executive+center+bishop+st+honolulu+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=kamakee+&+auahi+honolulu+="
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=kapiolani+and+south+honolulu+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=keawe+%40+halekauwila+honolulu+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=merchant+st.+honolulu+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=south+%40+queen+honolulu%2C+hi%2C+96813+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=south+king+&+ward+ave+honolulu+="
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=south+st+&+queen+st+honolulu+="
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=south+vineyard+street+%40+queen+emma++"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=ward+&+kapiolani+honolulu+="
+},
+{
+"text": "440 Keawe",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-25"
+},
+{
+"text": "Ala Moana/Kakaako Neighborhood Board Candidate Forum",
+"href": "https://www.votekimcoco.com/letsmeet/2024/6/20/ala-moanakakaako-neighborhood-board-candidate-forum"
+},
+{
+"text": "Alakea @ Beretania",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-13"
+},
+{
+"text": "Aug 10 9:00 AM09:00",
+"href": "https://www.votekimcoco.com/letsmeet/2024/8/10/primary-election-day"
+},
+{
+"text": "Aug 2 4:00 PM16:00",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln"
+},
+{
+"text": "Aug 4 3:00 PM15:00",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw-p86xh"
+},
+{
+"text": "Aug 5 4:00 PM16:00",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-2pwa7"
+},
+{
+"text": "Aug 7 4:00 PM16:00",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-d3wag"
+},
+{
+"text": "Aug 9 4:00 PM16:00",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-d3wag-njsxl"
+},
+{
+"text": "Ballots Arrive",
+"href": "https://www.votekimcoco.com/letsmeet/2024/7/22/ballots-arrive"
+},
+{
+"text": "Bishop @ Beretania",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-11"
+},
+{
+"text": "Bishop @ Hotel St.",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-19"
+},
+{
+"text": "Bishop Place @ Union Mall",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-12"
+},
+{
+"text": "Blog",
+"href": "https://www.votekimcoco.com/blog"
+},
+{
+"text": "Buy your ticket here.",
+"href": "https://secure.actblue.com/donate/kcibirthday"
+},
+{
+"text": "Canvass",
+"href": "https://www.votekimcoco.com/letsmeet?category=Canvass"
+},
+{
+"text": "Civil Beat Pop Up Newsroom: Meet the Candidates",
+"href": "https://www.votekimcoco.com/letsmeet/2024/7/26/civil-beat-pop-up-newsroom"
+},
+{
+"text": "Contact Me",
+"href": "https://www.votekimcoco.com/contact-me"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/votekimcoco2026"
+},
+{
+"text": "District Resources",
+"href": "https://www.votekimcoco.com/district-resources"
+},
+{
+"text": "Events",
+"href": "https://www.votekimcoco.com/letsmeet"
+},
+{
+"text": "Experience",
+"href": "https://www.votekimcoco.com/experience"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=440+Keawe&dates=20260526T023000Z%2F20260526T040000Z&location=400+Keawe+Street%2C+Honolulu%2C+HI%2C+96813%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ala+Moana%2FKakaako+Neighborhood+Board+Candidate+Forum&dates=20240724T050000Z%2F20240724T060000Z&location=829+Pensacola+Street%2C+Honolulu%2C+HI%2C+96814%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Alakea+%40+Beretania&dates=20260514T023000Z%2F20260514T040000Z&location=Alakea+%26%2364%3B+Beretania"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ballots+Arrive&dates=20240722T230000Z%2F20240723T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bishop+%40+Beretania&dates=20260512T023000Z%2F20260512T040000Z&location=Bishop+%26%2364%3B+Beretania"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bishop+%40+Hotel+St.&dates=20260516T180000Z%2F20260516T193000Z&location=Executive+Center+Bishop+St%2C+Honolulu"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bishop+Place+%40+Union+Mall+&dates=20260513T023000Z%2F20260513T040000Z&location=Bishop+%26%2364%3B+Beretania"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Civil+Beat+Pop+Up+Newsroom%3A+Meet+the+Candidates&dates=20240727T033000Z%2F20240727T043000Z&location=1200+Ala+Moana+Boulevard%2C+Honolulu%2C+HI%2C+96814%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Harbor+Court+%40+Merchant+St.&dates=20260520T023000Z%2F20260520T040000Z&location=Merchant+St.%2C+Honolulu"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Harbor+Square+%40+225+Queen&dates=20260521T023000Z%2F20260521T040000Z&location=225+Queen+Street%2C+Honolulu"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Harbor+Square+%40+700+Richards&dates=20260522T023000Z%2F20260522T040000Z&location=225+Queen+Street%2C+Honolulu"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Kakaako+Farmers+Market&dates=20260530T180000Z%2F20260530T193000Z&location=Ala+Moana+Blvd+%26%2364%3B+Ward%2C+Honolulu"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Keahou+Place++In+front+of+Down+To+Earth&dates=20260528T023000Z%2F20260528T040000Z&location=500+Keawe+Street%2C+Honolulu%2C+HI%2C+96813%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Keawe+%40+Halekauwila&dates=20260523T023000Z%2F20260523T040000Z&location=Keawe+%26%2364%3B+Halekauwila%2C+Honolulu"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Keola+La%27i%2C+South+%40+Queen&dates=20260529T023000Z%2F20260529T040000Z&location=South+%26%2364%3B+Queen%2C+Honolulu%2C+HI%2C+96813%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Kim+Coco+Campaign+FUNraiser+at+Scarlet+Honolulu&dates=20250525T063000Z%2F20250525T095900Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Kim+Coco+Campaing+FUNDraiser+at+Tchin+Tchin&dates=20250525T040000Z%2F20250525T070000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Kim+Coco+Progressive+Birthday+Dinner+Party&dates=20260524T043000Z%2F20260524T053000Z&location=1164+Nuuanu+Ave%2C+Honolulu"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebank+for+Team+Coco&dates=20240722T010000Z%2F20240722T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebank+for+Team+Coco&dates=20240729T010000Z%2F20240729T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebank+for+Team+Coco&dates=20240731T030000Z%2F20240731T050000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebank+for+Team+Coco&dates=20240805T010000Z%2F20240805T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+Election+Day&dates=20240810T190000Z%2F20240811T050000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sign+Waving+-+Kamakee+%26amp%3B+Auahi&dates=20240727T020000Z%2F20240727T033000Z&location=kamakee+%26amp%3B+Auahi%2C+Honolulu"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sign+Waving+-+Kapiolani+%26amp%3B+Ward&dates=20240803T020000Z%2F20240803T040000Z&location=Ward+%26amp%3B+Kapiolani%2C+Honolulu"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sign+Waving+-+South+King+%26amp%3B+Ward&dates=20240808T020000Z%2F20240808T040000Z&location=South+King+%26amp%3B+Ward+Ave%2C+Honolulu"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sign+Waving+-+South+St+%26amp%3B+Queen+St&dates=20240806T020000Z%2F20240806T040000Z&location=South+St+%26amp%3B+Queen+St%2C+Honolulu"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sign+Waving+-+South+and+Kapiolani+Blvd&dates=20240810T020000Z%2F20240810T040000Z&location=kapiolani+and+South%2C+Honolulu"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=South+Vineyard+Street+%40+Queen+Emma&dates=20260515T023000Z%2F20260515T040000Z&location=South+Vineyard+Street+%26%2364%3B+Queen+Emma"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ulana+%40+828+Auahi&dates=20260527T023000Z%2F20260527T040000Z&location=828+Auahi+st%2C+Honolulu%2C+HI%2C+96813%2C+United+States"
+},
+{
+"text": "Harbor Court @ Merchant St.",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-21-twpk5"
+},
+{
+"text": "Harbor Square @ 225 Queen",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-20"
+},
+{
+"text": "Harbor Square @ 700 Richards",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-21"
+},
+{
+"text": "Home",
+"href": "https://www.votekimcoco.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw-ftb5n?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw-p86xh?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-prdhg-lxn2l-d8ygz?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2024/6/20/ala-moanakakaako-neighborhood-board-candidate-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2024/7/22/ballots-arrive?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2024/7/26/civil-beat-pop-up-newsroom?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2024/8/10/primary-election-day?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2025/5/25birthday?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2025/5/25fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-11?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-12?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-13?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-14?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-19?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-20?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-21-twpk5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-21?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-22?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-25?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-26-my58j?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-26?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-28?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-30?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2026/5/23/birthday?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-2pwa7?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-d3wag-njsxl?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-d3wag?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-whwgs?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.votekimcoco.com/issues"
+},
+{
+"text": "Jul 21 3:00 PM15:00",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw"
+},
+{
+"text": "Jul 22 1:00 PM13:00",
+"href": "https://www.votekimcoco.com/letsmeet/2024/7/22/ballots-arrive"
+},
+{
+"text": "Jul 23 7:00 PM19:00",
+"href": "https://www.votekimcoco.com/letsmeet/2024/6/20/ala-moanakakaako-neighborhood-board-candidate-forum"
+},
+{
+"text": "Jul 26 4:00 PM16:00",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-whwgs"
+},
+{
+"text": "Jul 26 5:30 PM17:30",
+"href": "https://www.votekimcoco.com/letsmeet/2024/7/26/civil-beat-pop-up-newsroom"
+},
+{
+"text": "Jul 28 3:00 PM15:00",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw-ftb5n"
+},
+{
+"text": "Jul 30 5:00 PM17:00",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-prdhg-lxn2l-d8ygz"
+},
+{
+"text": "Kakaako Farmers Market",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-30"
+},
+{
+"text": "Keahou Place In front of Down To Earth",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-26-my58j"
+},
+{
+"text": "Keawe @ Halekauwila",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-22"
+},
+{
+"text": "Keola La'i, South @ Queen",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-28"
+},
+{
+"text": "Kim Coco Campaign FUNraiser at Scarlet Honolulu",
+"href": "https://www.votekimcoco.com/letsmeet/2025/5/25birthday"
+},
+{
+"text": "Kim Coco Campaing FUNDraiser at Tchin Tchin",
+"href": "https://www.votekimcoco.com/letsmeet/2025/5/25fundraiser"
+},
+{
+"text": "Kim Coco Progressive Birthday Dinner Party",
+"href": "https://www.votekimcoco.com/letsmeet/2026/5/23/birthday"
+},
+{
+"text": "KimCoco@KimCoco.com",
+"href": "mailto:kimcoco@kimcoco.com"
+},
+{
+"text": "May 11 4:30 PM16:30",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-11"
+},
+{
+"text": "May 12 4:30 PM16:30",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-12"
+},
+{
+"text": "May 13 4:30 PM16:30",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-13"
+},
+{
+"text": "May 14 4:30 PM16:30",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-14"
+},
+{
+"text": "May 16 8:00 AM08:00",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-19"
+},
+{
+"text": "May 19 4:30 PM16:30",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-21-twpk5"
+},
+{
+"text": "May 20 4:30 PM16:30",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-20"
+},
+{
+"text": "May 21 4:30 PM16:30",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-21"
+},
+{
+"text": "May 22 4:30 PM16:30",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-22"
+},
+{
+"text": "May 23 6:30 PM18:30",
+"href": "https://www.votekimcoco.com/letsmeet/2026/5/23/birthday"
+},
+{
+"text": "May 24 6:00 PM18:00",
+"href": "https://www.votekimcoco.com/letsmeet/2025/5/25fundraiser"
+},
+{
+"text": "May 24 8:30 PM20:30",
+"href": "https://www.votekimcoco.com/letsmeet/2025/5/25birthday"
+},
+{
+"text": "May 25 4:30 PM16:30",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-25"
+},
+{
+"text": "May 26 4:30 PM16:30",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-26"
+},
+{
+"text": "May 27 4:30 PM16:30",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-26-my58j"
+},
+{
+"text": "May 28 4:30 PM16:30",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-28"
+},
+{
+"text": "May 30 8:00 AM08:00",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-30"
+},
+{
+"text": "Media",
+"href": "https://www.votekimcoco.com/media"
+},
+{
+"text": "Meet Kim Coco",
+"href": "https://www.votekimcoco.com/meet-kim-coco"
+},
+{
+"text": "Phonebank for Team Coco",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw"
+},
+{
+"text": "Phonebank for Team Coco",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw-ftb5n"
+},
+{
+"text": "Phonebank for Team Coco",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw-p86xh"
+},
+{
+"text": "Phonebank for Team Coco",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-prdhg-lxn2l-d8ygz"
+},
+{
+"text": "Primary Election Day",
+"href": "https://www.votekimcoco.com/letsmeet/2024/8/10/primary-election-day"
+},
+{
+"text": "Sign Waving - Kamakee & Auahi",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-whwgs"
+},
+{
+"text": "Sign Waving - Kapiolani & Ward",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln"
+},
+{
+"text": "Sign Waving - South King & Ward",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-d3wag"
+},
+{
+"text": "Sign Waving - South St & Queen St",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-2pwa7"
+},
+{
+"text": "Sign Waving - South and Kapiolani Blvd",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-d3wag-njsxl"
+},
+{
+"text": "Sign up for a sign waving shift here",
+"href": "https://www.mobilize.us/kimcoco/event/621796/"
+},
+{
+"text": "Sign up to volunteer for my sidewalk talks here.",
+"href": "https://form.everestwebdeals.co?form=68b89d191fe23b0409abb090b70b4f67"
+},
+{
+"text": "South Vineyard Street @ Queen Emma",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-14"
+},
+{
+"text": "Tickets: $100 - $500",
+"href": "https://secure.actblue.com/donate/kcifundraiser"
+},
+{
+"text": "Tickets: $25",
+"href": "https://secure.actblue.com/donate/kcibirthday"
+},
+{
+"text": "Ulana @ 828 Auahi",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-26"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw-ftb5n"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw-p86xh"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-prdhg-lxn2l-d8ygz"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2024/6/20/ala-moanakakaako-neighborhood-board-candidate-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2024/7/22/ballots-arrive"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2024/7/26/civil-beat-pop-up-newsroom"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2024/8/10/primary-election-day"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2025/5/25birthday"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2025/5/25fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-11"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-12"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-13"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-14"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-19"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-20"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-21"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-21-twpk5"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-22"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-25"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-26"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-26-my58j"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-28"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-30"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/2026/5/23/birthday"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-2pwa7"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-d3wag"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-d3wag-njsxl"
+},
+{
+"text": "View Event →",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-whwgs"
+},
+{
+"text": "Virtual Meeting Link",
+"href": "https://cchnl.webex.com/cchnl/j.php?MTID=mb7f6e1b40156ae36b78556e96eabf086"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/k9st6ryCCr6bTRb67"
+},
+{
+"text": "Why Kim Coco",
+"href": "https://www.votekimcoco.com/whykimcoco"
+},
+{
+"text": "[image: 440 Keawe]",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-25"
+},
+{
+"text": "[image: Alakea @ Beretania]",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-13"
+},
+{
+"text": "[image: Bishop @ Beretania]",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-11"
+},
+{
+"text": "[image: Bishop @ Hotel St.]",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-19"
+},
+{
+"text": "[image: Bishop Place @ Union Mall ]",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-12"
+},
+{
+"text": "[image: Harbor Court @ Merchant St.]",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-21-twpk5"
+},
+{
+"text": "[image: Harbor Square @ 225 Queen]",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-20"
+},
+{
+"text": "[image: Harbor Square @ 700 Richards]",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-21"
+},
+{
+"text": "[image: Kakaako Farmers Market]",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-30"
+},
+{
+"text": "[image: Keahou Place In front of Down To Earth]",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-26-my58j"
+},
+{
+"text": "[image: Keawe @ Halekauwila]",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-22"
+},
+{
+"text": "[image: Keola La'i, South @ Queen]",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-28"
+},
+{
+"text": "[image: Kim Coco Campaign FUNraiser at Scarlet Honolulu]",
+"href": "https://www.votekimcoco.com/letsmeet/2025/5/25birthday"
+},
+{
+"text": "[image: Kim Coco Campaing FUNDraiser at Tchin Tchin]",
+"href": "https://www.votekimcoco.com/letsmeet/2025/5/25fundraiser"
+},
+{
+"text": "[image: Kim Coco Iwamoto]",
+"href": "https://www.votekimcoco.com/"
+},
+{
+"text": "[image: Kim Coco Progressive Birthday Dinner Party]",
+"href": "https://www.votekimcoco.com/letsmeet/2026/5/23/birthday"
+},
+{
+"text": "[image: South Vineyard Street @ Queen Emma]",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-14"
+},
+{
+"text": "[image: Ulana @ 828 Auahi]",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-26"
+},
+{
+"text": "[image: social_icons-facebook-sml.png]",
+"href": "https://www.facebook.com/votekimcoco/"
+},
+{
+"text": "[image: social_icons-instagram-sml.png]",
+"href": "https://www.instagram.com/votekimcoco/"
+},
+{
+"text": "[image: social_icons-twitter-sml.png]",
+"href": "https://twitter.com/votekimcoco"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votekimcoco"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votekimcoco"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw-ftb5n"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw-p86xh"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-prdhg-lxn2l-d8ygz"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/letsmeet/2024/6/20/ala-moanakakaako-neighborhood-board-candidate-forum"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/letsmeet/2024/7/22/ballots-arrive"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/letsmeet/2024/7/26/civil-beat-pop-up-newsroom"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/letsmeet/2024/8/10/primary-election-day"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-2pwa7"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-d3wag"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-kjbln-d3wag-njsxl"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-whwgs"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/search"
+},
+{
+"text": "[no text]",
+"href": "mailto:kimcoco@kimcoco.com"
+}
 ]

@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Penn+Ag+Democrats+Summer+Picnic&dates=20260812T173000Z%2F20260812T200000Z&location=415+West+Pine+Grove+Road%2C+Pennsylvania+Furnace%2C+Pennsylvania%2C+16865%2C+United+States",
-"http://maps.google.com/?q=415+West+Pine+Grove+Road+Pennsylvania+Furnace%2C+Pennsylvania%2C+16865+United+States",
-"https://barnesforpa93.com/",
-"https://barnesforpa93.com/blog",
-"https://barnesforpa93.com/cart",
-"https://barnesforpa93.com/events",
-"https://barnesforpa93.com/events/canvassing-kickoff-meeting",
-"https://barnesforpa93.com/events/paint-sip-fundraiser",
-"https://barnesforpa93.com/events/penn-ag-democrats-summer-picnic?format=ical",
-"https://facebook.com/people/Missy-Barnes-for-PA-93/61578485223105",
-"https://instagram.com/missybarnesforpa93",
-"https://secure.actblue.com/donate/missy-barnes-1",
-"https://secure.actblue.com/donate/pennagdemsluncheon",
-"https://squarespace.com/"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=415+west+pine+grove+road+pennsylvania+furnace%2C+pennsylvania%2C+16865+united+states"
+},
+{
+"text": "0",
+"href": "https://barnesforpa93.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://barnesforpa93.com/events"
+},
+{
+"text": "Blog",
+"href": "https://barnesforpa93.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/missy-barnes-1"
+},
+{
+"text": "Events",
+"href": "https://barnesforpa93.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Penn+Ag+Democrats+Summer+Picnic&dates=20260812T173000Z%2F20260812T200000Z&location=415+West+Pine+Grove+Road%2C+Pennsylvania+Furnace%2C+Pennsylvania%2C+16865%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://barnesforpa93.com/events/penn-ag-democrats-summer-picnic?format=ical"
+},
+{
+"text": "Next Next August 15 Paint & Sip Fundraiser",
+"href": "https://barnesforpa93.com/events/paint-sip-fundraiser"
+},
+{
+"text": "Previous Previous August 9 Canvassing Kickoff Meeting",
+"href": "https://barnesforpa93.com/events/canvassing-kickoff-meeting"
+},
+{
+"text": "Priorities & Values",
+"href": "https://barnesforpa93.com/#priorities"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: Forward Together]",
+"href": "https://barnesforpa93.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Missy-Barnes-for-PA-93/61578485223105/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/missybarnesforpa93/"
+},
+{
+"text": "https://secure.actblue.com/donate/pennagdemsluncheon#basics",
+"href": "https://secure.actblue.com/donate/pennagdemsluncheon#basics"
+}
 ]

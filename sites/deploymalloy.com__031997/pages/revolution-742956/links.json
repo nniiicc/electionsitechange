@@ -1,14 +1,54 @@
 [
-"https://deploymalloy.com/",
-"https://deploymalloy.com/compliance",
-"https://deploymalloy.com/landing/about",
-"https://deploymalloy.com/landing/album",
-"https://deploymalloy.com/landing/email-signup",
-"https://deploymalloy.com/landing/events",
-"https://deploymalloy.com/landing/positions",
-"https://deploymalloy.com/landing/qanda",
-"https://deploymalloy.com/landing/request-a-sign",
-"https://deploymalloy.com/shop",
-"https://facebook.com/geraldmalloyvt",
-"https://secure.anedot.com/gerald-malloy-for-u-s-congress-limited/geraldmalloy"
+{
+"text": "About",
+"href": "https://www.deploymalloy.com/landing/about/"
+},
+{
+"text": "Album",
+"href": "https://www.deploymalloy.com/landing/album/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/gerald-malloy-for-u-s-congress-limited/geraldmalloy"
+},
+{
+"text": "Events",
+"href": "https://www.deploymalloy.com/landing/events/"
+},
+{
+"text": "Media Request",
+"href": "mailto:mediarequests@deploymalloy.com"
+},
+{
+"text": "Positions",
+"href": "https://www.deploymalloy.com/landing/positions/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.deploymalloy.com/compliance/"
+},
+{
+"text": "Q&A",
+"href": "https://www.deploymalloy.com/landing/qanda/"
+},
+{
+"text": "Shop",
+"href": "https://www.deploymalloy.com/shop/"
+},
+{
+"text": "Signs",
+"href": "https://www.deploymalloy.com/landing/request-a-sign/"
+},
+{
+"text": "Subscribe",
+"href": "https://www.deploymalloy.com/landing/email-signup/"
+},
+{
+"text": "[image: Deploy Malloy]",
+"href": "https://deploymalloy.com"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/geraldmalloyvt"
+}
 ]

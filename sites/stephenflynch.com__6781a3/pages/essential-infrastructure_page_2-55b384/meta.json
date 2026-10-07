@@ -1,9 +1,12 @@
 {
  "description": "Visit the post for more.",
  "final_url": "https://www.stephenflynch.com/essential-infrastructure/page/2/?et_blog",
- "paid_for_by": "Paid for by Lynch for Congress Contact Us Privacy Policy Copyright &copy;2020 All Rights Reserved Follow Follow",
+ "fingerprint": "675a659be9dfcf867b5e48fd394d1fb3f274cc71",
+ "format": 3,
+ "paid_for_by": "Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow",
  "title": "Essential Infrastructure | Stephen F Lynch",
  "years_mentioned": [
-  "2020"
+  "2020",
+  "2021"
  ]
 }

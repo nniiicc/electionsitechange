@@ -1,15 +1,70 @@
 [
-"https://facebook.com/profile.php?id=61557905641953",
-"https://instagram.com/sonyaspauldingforbarre",
-"https://secure.actblue.com/donate/sonya-for-barre",
-"https://sonyaforbarre.com/",
-"https://sonyaforbarre.com/contact-sonya",
-"https://sonyaforbarre.com/election-day-is-november-3rd-let-your-voice-be-heard",
-"https://sonyaforbarre.com/endorsements",
-"https://sonyaforbarre.com/events",
-"https://sonyaforbarre.com/get-involved",
-"https://sonyaforbarre.com/priorities",
-"https://sonyaforbarre.com/volunteer",
-"https://sos.vermont.gov/elections/voters/early-absentee-voting",
-"https://vote.vermont.gov/public/dashboard"
+{
+"text": "CHECK YOUR VOTER REGISTRATION STATUS HERE IN VERMONT",
+"href": "https://vote.vermont.gov/public/dashboard"
+},
+{
+"text": "CONTACT SONYA",
+"href": "https://sonyaforbarre.com/contact-sonya/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/sonya-for-barre"
+},
+{
+"text": "DONATE TODAY!",
+"href": "https://secure.actblue.com/donate/sonya-for-barre"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://sonyaforbarre.com/endorsements/"
+},
+{
+"text": "EVENTS",
+"href": "https://sonyaforbarre.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61557905641953"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://sonyaforbarre.com/get-involved/"
+},
+{
+"text": "HOME",
+"href": "https://sonyaforbarre.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/sonyaspauldingforbarre/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://sonyaforbarre.com/priorities/"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://vote.vermont.gov/public/dashboard"
+},
+{
+"text": "TRACK YOUR BALLOT",
+"href": "https://vote.vermont.gov/public/dashboard"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://sonyaforbarre.com/volunteer/"
+},
+{
+"text": "VOTE",
+"href": "https://sonyaforbarre.com/election-day-is-november-3rd-let-your-voice-be-heard/"
+},
+{
+"text": "VOTE BY MAIL",
+"href": "https://sos.vermont.gov/elections/voters/early-absentee-voting"
+},
+{
+"text": "[image: Sonya Spaulding for State Rep]",
+"href": "https://sonyaforbarre.com/"
+}
 ]

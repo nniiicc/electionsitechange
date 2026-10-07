@@ -1,24 +1,2 @@
-top of page
-VOLUNTEER
-HOME
-ISSUES
-More
-Use tab to navigate through the menu items.
-join ROB'S team
-Volunteer
-First name
-Last name
-Email
-*
-Phone
-Address
-Multi choice
-Door knocking and speaking with voters
-Phone banking and calling voters
-Hosting a "meet and greet"
-Placing a yard sign in your yard
-Writing post cards to voters
-Wiring a letter to the editor in support
-Driving volunteers door to door/lit drop
-Submit
-bottom of page
+top of page VOLUNTEER HOME ISSUES More Use tab to navigate through the menu items. join ROB'S team Volunteer First name Last name Email * Phone Address Multi choice Door knocking and speaking with voters Phone banking and calling voters Hosting a "meet and greet" Placing a yard sign in your yard Writing post cards to voters Wiring a letter to the editor in support Driving volunteers door to door/lit drop Submit Paid for by Rob for CT.
+Treasurer, Amber Page Gehr, Approved by Rob Blanchard. bottom of page

@@ -1,0 +1,7 @@
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events Work the gate at the Vanderburgh County Fair Tuesday, July 21, 2026 4:30 PM 9:30 PM Vanderburgh County Fair Grounds 201 East Boonville-New Harmony Road Evansville, Indiana, 47725 United States (map) Google Calendar ICS Come join Mary and work the gate for the Vanderburgh County Fair 🧑‍🌾, then go check out all the exhibits or the other way around!
+Shifts are Tuesday, July 21st from 4:00-6:30 PM and 6:30- 9:00 PM.
+We need two groups of 15 each who want to spread the word about this campaign while serving the community!
+Wear your campaign shirt and a smile! 🙂 You won't need to pay to enter the fair, but can park before the entrance.
+Thank you!
+Click the link below for more details.
+Source: https://www.mobilize.us/maryallenforcongress/event/981351/ Previous Previous July 13 Virtual phone bank training (Every 4 wks) Next Next August 2 Caravan from Evansville to Jasper for the Strassenfest parade REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

@@ -1,4 +1,4 @@
-I often think about my grandchildren and the kind of future they will inherit.
+Skip to content Rick Olson for State Senate About Rick Volunteer Lawn Sign Issues Contact Us instagram facebook youtube Donate Search… CHIP IN $20 for RICK instagram facebook youtube Donate Rick Olson for State Senate Search… About Rick Volunteer Lawn Sign Issues Contact Us Search… Protecting Family Farms & the American Dream I often think about my grandchildren and the kind of future they will inherit.
 My wife and I started with nothing, but through hard work, good education, and solid job opportunities, we were able to achieve the American Dream.
 Sadly, that dream feels further and further out of reach for many Minnesota families.
 Today, working people worry about affording housing, accessing quality health care, and ensuring their children receive a strong education that leads to good-paying jobs.
@@ -7,8 +7,7 @@ I want to focus on solutions that matter to families.
 We need policies that make opportunity accessible again, not just for my grandchildren but for every child growing up in Minnesota.
 This means ensuring that hardworking families are supported, that good jobs remain available in our state, and that communities have the tools to thrive.
 I am committed to working on these issues with common-sense solutions, not partisan agendas.
-Supporting Family Farmers and Strengthening Minnesota Agriculture
-Minnesota’s farmers are the backbone of our state, but right now, they are under enormous pressure.
+Supporting Family Farmers and Strengthening Minnesota Agriculture Minnesota’s farmers are the backbone of our state, but right now, they are under enormous pressure.
 Crop producers have faced years of uncertainty: falling prices, below-average yields, and rising costs for essentials like fertilizer.
 In 2024, the median net farm income for Minnesota farms with gross incomes over $250,000 dropped to just $21,964—the lowest level this century.
 While federal disaster relief may provide temporary help, farmers need long-term stability, not short-term band-aids.
@@ -29,8 +28,7 @@ Farmers take enormous financial risks to put food on our tables.
 Their work is still grueling, requiring long hours during planting and harvest.
 Modern equipment may ease the physical toll, but the responsibility and risk remain immense.
 We must celebrate and support our farmers, ensuring they can succeed not only for their families but for the millions of Minnesotans who rely on them.
-Common-Sense Solutions for a Stronger Minnesota
-At the heart of my campaign is a simple belief: we need practical, common-sense solutions that reflect the needs of our communities, not political talking points.
+Common-Sense Solutions for a Stronger Minnesota At the heart of my campaign is a simple belief: we need practical, common-sense solutions that reflect the needs of our communities, not political talking points.
 Families in District 54 want leaders who understand their struggles and will work to improve their everyday lives.
 That means tackling affordable housing, protecting access to quality education, supporting small businesses, and ensuring health care remains accessible and affordable.
 But for many in our district, the strength of our communities also depends on the success of our farmers and rural economy.
@@ -41,3 +39,5 @@ That requires leaders who are not afraid to roll up their sleeves, listen to con
 From continuing programs that help young farmers get their start, to addressing rising costs that hit working families hardest, to making sure our children inherit a future of opportunity—this is what I will fight for in the State Senate.
 My vision is clear: a Minnesota where families feel secure, where farmers thrive, and where the American Dream is alive and well for generations to come.
 That’s why I’m running, and that’s what I’ll work for every day on behalf of District 54.
+Learn More About Rick Olson About Rick Voting Locations Volunteer Lawn Sign Privacy Policy Contact Us instagram facebook youtube Prepared and paid for by Olson Senate Committee, P.O.
+Box 15, Prior Lake, MN 55372 © Olson Senate Committee

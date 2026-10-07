@@ -1,48 +1,9 @@
-Background and Awards
--
-Former Public School Teacher and Administrator
--
-Bachelor of Science - Organismic Biology
--
-Master's Degree - Educational Leadership and Policy
-- 2026 National Public Service Award - ACOG : American College of Obstetricians and Gynecologists
--
-2025 Woman of Influence - Susan G.
-Komen
--
-2025 League of Women Voters Madam President Award
--
-2023 and 2024 Journal Record 50 Oklahoma Women Making a Difference
--
-2024 Human Rights Campaign Legislative Advocate of the Year
--
-Oklahoma Education Association 2022 Legislator of the Year
--
-Oklahoma Democratic Veterans 2022 Representative of the Year
--
-2023 Purple Heart State Representative of the Year - Oklahoma Military Order of the Purple Heart
-Current appointments
--
-Assistant Minority Leader, Oklahoma House of Representatives
--
-Leader-Elect, Oklahoma House Democrats
--
-Sexual Assault Forensics Board (SAFE)
--
-Emerging Legislative Leaders - Darden School of Business
--
-Toll Fellow - Henry Toll Fellowship
-Committees
--
-Education Oversight
--
-Full Appropriations and Budget
--
-Appropriations: Natural Resources
--
-Business
-A little more...
+Home Bio Issues Key Wins Capitol Updates Contact Recognized by the Center for Effective Lawmaking as one of the top five most effective lawmakers in Oklahoma, Melissa is most proud of her work exposing and fighting corruption within the State Department of Education, increasing access to diagnostic mammograms , streamlining teacher professional development requirements , updating child pornography laws to better encompass digital and online images , student loan transparency , getting rid of the state portion of the grocery tax and separating occupational licensure renewals from tax status .
+Background and Awards Former Public School Teacher and Administrator Bachelor of Science - Organismic Biology Master's Degree - Educational Leadership and Policy 2026 National Public Service Award - ACOG : American College of Obstetricians and Gynecologists 2025 Woman of Influence - Susan G.
+Komen 2025 League of Women Voters Madam President Award 2023 and 2024 Journal Record 50 Oklahoma Women Making a Difference 2024 Human Rights Campaign Legislative Advocate of the Year Oklahoma Education Association 2022 Legislator of the Year Oklahoma Democratic Veterans 2022 Representative of the Year 2023 Purple Heart State Representative of the Year - Oklahoma Military Order of the Purple Heart Current appointments Assistant Minority Leader, Oklahoma House of Representatives Leader-Elect, Oklahoma House Democrats Sexual Assault Forensics Board (SAFE) Emerging Legislative Leaders - Darden School of Business Toll Fellow - Henry Toll Fellowship Committees Education Oversight Full Appropriations and Budget Appropriations: Natural Resources Business A little more...
 A lifelong Tulsa area native, married mom to two and stepmom to two, Rep.
 Provenzano was elected in 2018 to represent District 79 in Tulsa, where she had worked as a public school teacher and principal who grew exasperated with cutting her budget every single year until she decided to run.
 As a legislator, Melissa continues to bring this same commitment and voice, focusing on common sense education policy and for the practical needs of her neighbors in Tulsa at the state capitol.
 She currently serves as the Assistant Minority Leader for the Democratic Caucus, State Director for Women In Government (National), and co-chair of the Mental Health Caucus.
+VOLUNTEER VOTING INFO CONTRIBUTE YARD SIGN Get Updates Thank you for signing up!
+News Provenzano Appointed to LOFT Commission Provenzano Appointed to House Democratic Leadership Team Full Coverage for Diagnostic Mammograms now law Diagnostic Mammogram Bill Passes the Senate Diagnostic Mammogram Bill Passes the House Provenzano for House District 79 2026 Powered by CampaignPartner.com - Political Campaign Websites Home Bio Issues Key Wins YARD SIGN (Free!) Volunteer Contribute Voter Information Contact Close Menu

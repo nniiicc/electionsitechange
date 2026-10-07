@@ -1,29 +1,5 @@
+Home Working Families Infrastructure That Lasts Personal Freedom Candace Cares Events More Home Working Families Infrastructure That Lasts Personal Freedom Candace Cares Events Donate Home Working Families Infrastructure That Lasts Personal Freedom Candace Cares Events Donate CANDACE CARES A community is judged by how it treats those who need help the most.
 I am running to be a representative for everyone!
 Not a party, not a faction, not a special interest!
-- Access to food, education, and safe neighborhoods
-- Protection from abuse
-- Support for families facing domestic violence
-- Access to extracurricular activities
-- Addressing the harms of social media
-- Access to healthcare and mental health services
-- Reliable food access
-- Support systems that honor their service and contributions
-- Systems that help people get back on their feet
-- Compassion‑driven solutions, not punishment
-- Increased access to treatment
-- Expanded drug and alcohol rehabilitation programs
-- Community‑based support systems
-- Protection from abuse
-- Spay and neuter initiatives
-- Support for shelters and rescue organizations
-- Clean air and water
-- Anti‑littering initiatives
-- Community clean‑up efforts
-Leadership starts with listening
-- Hold quarterly town halls
-- Learn from experts, community members, and lived experience
-- Empower people to participate in decisions
-- Reject self‑serving politics and group‑think voting
-- Show up when it matters—and stay connected
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Children & Young People Access to food, education, and safe neighborhoods Protection from abuse Support for families facing domestic violence Access to extracurricular activities Addressing the harms of social media Elderly & Veterans Elderly & Veterans Access to healthcare and mental health services Reliable food access Support systems that honor their service and contributions Unhoused Neighbors Elderly & Veterans Systems that help people get back on their feet Compassion‑driven solutions, not punishment Mental Health & Addiction Mental Health & Addiction Increased access to treatment Expanded drug and alcohol rehabilitation programs Community‑based support systems Animals Mental Health & Addiction Protection from abuse Spay and neuter initiatives Support for shelters and rescue organizations Environment A New Kind of Leadership A New Kind of Leadership Clean air and water Anti‑littering initiatives Community clean‑up efforts A New Kind of Leadership A New Kind of Leadership A New Kind of Leadership Leadership starts with listening Hold quarterly town halls Learn from experts, community members, and lived experience Empower people to participate in decisions Reject self‑serving politics and group‑think voting Show up when it matters—and stay connected Candace Cares Volunteer Candace For All paid for by Women Get Schutt Done candaceforall@gmail.com Copyright © # Candace For All - All Rights Reserved.
+Powered by

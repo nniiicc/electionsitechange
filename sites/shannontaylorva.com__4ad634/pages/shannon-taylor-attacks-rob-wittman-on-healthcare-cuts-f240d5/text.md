@@ -1,3 +1,24 @@
-Democratic candidate Shannon Taylor held a roundtable on Sept. 14 to contrast her positions on healthcare policy with those of her opponent in Virginia’s 1st Congressional District race, Republican US Rep.
+Skip to content Meet Shannon Priorities People First Agenda Endorsements News Store Volunteer Meet Shannon Priorities People First Agenda Endorsements News Store Volunteer Facebook Instagram X-twitter Donate Wed, September 16, 2026 Dogwood , In The News Shannon Taylor attacks Rob Wittman on healthcare cuts Democratic candidate Shannon Taylor held a roundtable on Sept.
+14 to contrast her positions on healthcare policy with those of her opponent in Virginia’s 1st Congressional District race, Republican US Rep.
 Rob Wittman.
-Read the full article here: https://vadogwood.com/news/politics/taylor-rob-wittman-healthcare/
+Read the full article here: https://vadogwood.com/news/politics/taylor-rob-wittman-healthcare/ Share With Your Network: Ready To GO?
+Join The Team First Name Last Name Email Zipcode Cell Phone SIGN UP By submitting this form, you consent to receive promotional text messages from Shannon Taylor for VA at the number provided.
+Consent is not a condition of donation.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Privacy policy.
+Or, Chip In $15 Home Volunteer Media Contact Us Press Inquiries Privacy Policy Home Volunteer Media Contact Us Press Inquiries Privacy Policy Home Volunteer Media Contact Us Press Inquiries Privacy Policy Home Volunteer Media Contact Us Press Inquiries Privacy Policy Donate Facebook Instagram X-twitter Shannon Taylor has spent 14 years as Henrico County’s top prosecutor — locking up violent criminals, taking on fraudsters, and keeping families safe.
+Now she’s running for Congress to prosecute the case against Rob Wittman and make Washington work for the people of Virginia’s First District.
+Paid for by Shannon Taylor for VA Shannon Taylor for VA P.O.
+Box 1171 Midlothian, VA, 23113 Ready To GO?
+Join The Team First Name Last Name Email Zipcode Cell Phone SIGN UP By submitting this form, you consent to receive promotional text messages from Shannon Taylor for VA at the number provided.
+Consent is not a condition of donation.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Privacy policy.
+Or, Chip In $15 Home Volunteer Media Contact Us Press Inquiries Privacy Policy Home Volunteer Media Contact Us Press Inquiries Privacy Policy Home Volunteer Media Contact Us Press Inquiries Privacy Policy Home Volunteer Media Contact Us Press Inquiries Privacy Policy Donate Facebook Instagram X-twitter Shannon Taylor has spent 14 years as Henrico County’s top prosecutor — locking up violent criminals, taking on fraudsters, and keeping families safe.
+Now she’s running for Congress to prosecute the case against Rob Wittman and make Washington work for the people of Virginia’s First District.
+Paid for by Shannon Taylor for VA Shannon Taylor for VA P.O.
+Box 1171 Midlothian, VA, 23113

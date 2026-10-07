@@ -1,11 +1,42 @@
 [
-"https://facebook.com/Hogan4StateRep",
-"https://hogan4rep.com/",
-"https://hogan4rep.com/about",
-"https://hogan4rep.com/cdn-cgi/l/email-protection",
-"https://hogan4rep.com/issues",
-"https://hogan4rep.com/privacy",
-"https://hogan4rep.com/terms",
-"https://hogan4rep.com/volunteer",
-"https://secure.anedot.com/joehogan/generaldonation"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/joehogan/generaldonation"
+},
+{
+"text": "Home",
+"href": "https://www.hogan4rep.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.hogan4rep.com/issues/"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.hogan4rep.com/about/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.hogan4rep.com/privacy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.hogan4rep.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.hogan4rep.com/volunteer/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@hogan4rep.com"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/Hogan4StateRep"
+},
+{
+"text": "[image]",
+"href": "https://www.hogan4rep.com/"
+}
 ]

@@ -1,4 +1,4 @@
-KEEP THE SEAT.
+Home Donate Meet DeVelle Platform Win Every Vote Library News Contact KEEP THE SEAT.
 SEND JACKSON.
 Minnesota’s Fifth District should not have to choose between preserving its influence in Congress and electing a representative who better reflects its people.
 In this race, we can do both.
@@ -14,31 +14,23 @@ Keep the district’s place, access, and influence in Congress.
 Send a new voice, one free to work with others, challenge party power, and answer first to the people of Minnesota’s Fifth District.
 The "Win Every Vote Campaign" exists to remove the idea that voters must support the candidate they are told is safest instead of the candidate they believe should represent them.
 In this historically secure district, your Independent vote is safe, consequential, and yours to cast with confidence.
-This is not about asking only:
-Who is expected to win?
-It is about asking the question representative government actually places before you:
-Who should represent me?
+This is not about asking only: Who is expected to win?
+It is about asking the question representative government actually places before you: Who should represent me?
 If your answer is Jackson, hesitation should not cast your vote for someone else.
 Every vote strengthens this campaign.
 Every vote makes our position clearer.
 Every vote carries us closer to Washington.
 And the district’s own election history shows why you can cast that vote with confidence.
-Election Ends in:
-- 06
-- 23
-- 59
-- 20
-Polls Closed !
-Minnesota's 5th District
-Electoral Safety
-- In both 2022 and 2024, roughly 3 out of every 4 votes cast for the two named candidates went to the DFL nominee.
-The Republican nominee received roughly 1 out of 4.
+Register to Vote!
+Election Ends in: # Days # Hours # Minutes # Seconds Polls Closed !
+Minnesota's 5th District Electoral Safety In both 2022 and 2024, roughly 3 out of every 4 votes cast for the two named candidates went to the DFL nominee .
+The Republican nominee received roughly 1 out of 4 .
 Each race produced a margin of approximately 50 percentage points.
 That pattern predates the current officeholder.
 No Republican has won the Fifth District seat since Walter Judd’s final victory in 1960.
 He lost reelection in 1962, and the district has elected DFL representation ever since.
 Minnesota’s Fifth District is historically secure.
-Its recent general-election results show a margin wide enough for meaningful support to move toward Jackson without automatically causing the seat to flip to the Republican Party, the district’s longstanding opposition party in general elections.
+Its recent general-election results show a margin wide enough for meaningful support to move toward Jackson without automatically causing the seat to flip to the Republican Party , the district’s longstanding opposition party in general elections.
 The roughly 50-point gap is what creates that electoral safety.
 It leaves substantial room for voters to support Jackson while the Republican nominee remains well behind.
 A growing vote for Jackson does not erase the considerable distance the competing party would still have to overcome.
@@ -48,9 +40,7 @@ For Republican-leaning voters who want a different representative, the same hist
 Supporting Jackson gives those voters a meaningful voice in who represents the district, rather than leaving that voice confined to a party line that has repeatedly fallen far short.
 The two elections below establish the district’s recent baseline.
 The sections that follow after show what that baseline means as Independent support begins to grow.
-2024 Congressional Election
-2022 Congressional Election
-What a Vote for this INDEPENDENT means...
+2024 Congressional Election 2022 Congressional Election What a Vote for this INDEPENDENT means...
 This district can send a voice as large as its own.
 The district’s history establishes the electoral room.
 The illustrations that follow will show what voters can do with it.
@@ -65,9 +55,9 @@ It strengthens Jackson’s position.
 It moves Jackson closer to Washington.
 A three-way ticket does not, by its nature, amount to a party flip.
 These illustrations show what happens as Jackson earns a greater share of the vote while the contesting party remains far from the lead.
-At 20 percent, Jackson establishes substantial Independent momentum while the contesting party remains far behind the lead.
-At 38.6 percent, Jackson takes the lead, while the contesting party remains nearly 15 points behind Jackson and nearly 14 points behind the Democratic nominee.
-With majority support, Jackson earns a decisive mandate from the district.
+At 20 percent , Jackson establishes substantial Independent momentum while the contesting party remains far behind the lead.
+At 38.6 percent , Jackson takes the lead, while the contesting party remains nearly 15 points behind Jackson and nearly 14 points behind the Democratic nominee.
+With majority support , Jackson earns a decisive mandate from the district.
 A Jackson victory is not a conventional party flip.
 Jackson enters Congress as an Independent, caucuses with House Democrats for organizational purposes and committee assignments, and carries his priorities into Congress without surrendering them to party agendas or corporate loyalties.
 Independent members are rare in the modern House.
@@ -84,18 +74,14 @@ If Jackson is the person you believe should represent you, there is no strategic
 The only real loss is withholding the vote that could help send him to Washington.
 Every vote is precious.
 Every vote moves the count.
-Jackson is running to win every one.
-Take a look...
+Jackson is running to win every one. ﻿ Take a look...
 Independent Momentum.
 No seat flip. w/a 20 Pt.
-Progression
-A Competitive Independent.
+Progression A Competitive Independent.
 Still secure. w/a 38.6 Pt.
-Progression
-VICTORY.
+Progression VICTORY.
 Chasing EVERY VOTE. w/a 56 Pt.
-Progression
-KEEP THE SEAT.
+Progression KEEP THE SEAT.
 Keep the district’s place.
 Send the person who should hold it.
 The illustrations make the central point clear.
@@ -107,9 +93,8 @@ To KEEP THE SEAT does not mean preserving it for a party or an officeholder.
 The seat belongs to Minnesota’s Fifth District.
 Keeping it means preserving the district’s voice, access, and standing in Congress, then strengthening them by sending Jackson, a fresh force prepared to bring the district’s full weight to bear in Washington.
 That choice should not be surrendered to habit, party pressure, or uncertainty about how someone else may vote.
-It should be made by answering the question the election actually places before you:
-Who should represent me?
-If your answer is Jackson, then there is no strategic value in casting your vote against your own judgment.
+It should be made by answering the question the election actually places before you: Who should represent me?
+If your answer is Jackson , then there is no strategic value in casting your vote against your own judgment.
 Every vote for Jackson strengthens his position, adds to the count, and moves this campaign closer to Washington.
 The only loss is withholding the vote that could help send the person that you believe should represent Minnesota's 5th.
 Know your district.
@@ -118,8 +103,7 @@ Use your vote.
 KEEP THE SEAT.
 SEND JACKSON.
 Vulnerability within...
-WHAT THE PRIMARIES REVEAL .
-A party nomination is not the whole district’s decision.
+WHAT THE PRIMARIES REVEAL . ﻿ A party nomination is not the whole district’s decision.
 The Fifth District’s familiar general-election margins have concealed a much closer contest over who should actually represent it.
 In 2022, the incumbent survived the DFL primary by only 2.15 percentage points.
 In 2024, the same challenger again earned more than 42 percent, finishing 13.32 points behind.
@@ -145,25 +129,13 @@ SEND JACKSON.
 Know your district.
 Know your choice.
 Be ready to vote.
-This November's General Election
-Join the Movement
-Register to Vote
-Make sure your registration is current before Election Day.
+This November's General Election Join the Movement ﻿ REGISTER TO VOTE HERE ﻿ Register to Vote Make sure your registration is current before Election Day.
 Minnesota voters can register online, update their registration, check their registration, or register when they vote with proof of residence.
 To register online, voters need a Minnesota driver’s license number, Minnesota ID card number, or the last four digits of their Social Security number, along with an email address.
 Voters must be eligible to vote in Minnesota.
-Important 2026 dates
-Early voting begins: September 18, 2026
-Advance registration deadline: October 13, 2026
-General Election Day: November 3, 2026
-Voters who miss the advance registration deadline may still register when they vote, either early in person or at their polling place on Election Day, by bringing proof of residence.
+Important 2026 dates Early voting begins: September 18, 2026 Advance registration deadline: October 13, 2026 General Election Day: November 3, 2026 Voters who miss the advance registration deadline may still register when they vote, either early in person or at their polling place on Election Day, by bringing proof of residence.
 Before Election Day, voters should also confirm their polling place.
 Polling places can change, and Election Day voters must go to the polling place assigned to their address.
 Minnesota voters can use the official MNVotes lookup tool to find their polling place and see what will be on their ballot.
-Use the buttons below to register, update your registration, check your status, or find your polling place.
-Register or Update Your Registration
-https://mnvotes.sos.mn.gov/VoterRegistration/index
-Check Your Registration
-https://mnvotes.sos.mn.gov/voterstatuscheck/index
-Find Your Polling Place + See What’s on Your Ballot
-https://mnvotes.gov/myballot
+Use the buttons below to register, update your registration, check your status, or find your polling place. ﻿ Register or Update Your Registration https://mnvotes.sos.mn.gov/VoterRegistration/index ﻿ Check Your Registration https://mnvotes.sos.mn.gov/voterstatuscheck/index ﻿ Find Your Polling Place + See What’s on Your Ballot https://mnvotes.gov/myballot ﻿ Paid for by Jackson For Congress 2026. info@jacksonforcongress.us © # Jackson For Congress 2026.
+All rights reserved. ﻿ Privacy Policy | Contact | Donate | Volunteer | Register to Vote ﻿ Share & Follow:

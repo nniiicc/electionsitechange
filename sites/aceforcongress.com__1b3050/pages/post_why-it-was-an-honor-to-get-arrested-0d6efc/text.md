@@ -1,5 +1,4 @@
-Why It Was an Honor to Get Arrested
-I launched my campaign on Martin Luther King, Jr.
+top of page Home Platform Meet Ace Endorsements Voices of WV Voices of WV In the News Ace’s Blog Get Involved Events Volunteer Join Our Mailing List Events Volunteer Join Our Mailing List Donate Menu Close Ace’s Blog Why It Was an Honor to Get Arrested Ace Parsi Mar 14 3 min read I launched my campaign on Martin Luther King, Jr.
 Day, because the American Civil Rights Movement has been such a deep inspiration in my life.
 I got involved in nonviolent action because of the example of former Congressman John Lewis.
 My wife and I named our daughter, Ella, after the great civil rights leader, Ella Baker.
@@ -10,7 +9,7 @@ It’s definitely worthy of a full read.
 That said, I actually think Dr.
 King’s most profound writing is his “Letter from a Birmingham Jail.” The moral call in that letter is what inspired me to join a sit-in at Sen.
 Shelley Moore Capito’s Morgantown office, led by Morgantown faith leaders.
-Our action was held in solidarity with Moral Mondays: A Southern Call to Conscience.
+Our action was held in solidarity with Moral Mondays: A Southern Call to Conscience .
 The multi-state initiative was launched last year by North Carolina-based Repairers of the Breach to reject extremism in the White House and Congress.
 The Moral Mondays initiative also fights policies that strip millions of poor and low-income Americans of Medicaid, SNAP and other critical social safety net programs.
 This movement, launched by Rev.
@@ -27,8 +26,7 @@ Another 55,000 will lose access to Medicaid over the next decade.
 And at least 36,000 will lose SNAP eligibility.
 These are human beings and, whether you’re one of them or not, their problems are your problems.
 They are not political problems; they are shared moral problems because we live in a shared community.
-To Shelley Moore Capito, Riley Moore, Carol Miller, and Jim Justice:
-You talk about your faith, but you never talk about your plans.
+To Shelley Moore Capito, Riley Moore, Carol Miller, and Jim Justice: You talk about your faith, but you never talk about your plans.
 What are you going to do during these winter months when the bottom falls out for so many of your constituents?
 For my part, I would fund the subsidies and our basic social safety nets.
 I would also make our benefits system more supportive of families who are trying to get ahead.
@@ -53,3 +51,15 @@ Whether you vote for me or not will play no role in that decision.
 I will always be on the side of the people.
 To get there, please consider helping me by volunteering, donating, or sharing your stories.
 Thank you for your support and your continued belief that we can do better.
+Recent Posts See All How We’re Using AI to Connect With Voters What I Heard about Disabilities in Harrison County Sending Haitians Home to Die Isn't Justice.
+It's a Moral Failure.
+Sign Up for our Newsletter By providing your phone number, you are consenting to receive calls and SMS/MMS messages, including autodialed and automated calls and texts, to that number from WV- Ace for Congress.
+Donations may be solicited.
+Messaging & data rates may apply.
+Reply HELP for help.
+Reply STOP to cancel.
+Message Frequency Not To Exceed 3 Messages / Month.
+By signing up for our newsletter, you agree to our Terms and Privacy Policy .
+Text messaging opt-in data and consent will not be sold or shared with third parties or affiliates for their marketing or promotional purposes.
+For press inquiries, please contact aceforcongress@gmail.com P AID FOR BY ACE PARSI FOR CONGRESS P.O.
+Box 4064, Morgantown, WV 26505 Home Platform Meet Ace Endorsements Voices of WV In the News Ace’s Blog Get Involved Events Volunteer Join Our Mailing List Donate CAMPAIGN NAME EXPERIENCED RESULTS DRIVEN LEADERSHIP 2035 Home Platform Meet Ace Endorsements Voices of WV In the News Ace’s Blog Get Involved Events Volunteer Join Our Mailing List Donate Home Platform Meet Ace Endorsements Voices of WV In the News Ace’s Blog Get Involved Events Volunteer Join Our Mailing List Donate bottom of page

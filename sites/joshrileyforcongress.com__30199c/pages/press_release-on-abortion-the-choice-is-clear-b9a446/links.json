@@ -1,25 +1,110 @@
 [
-"https://clerk.house.gov/Votes/202321",
-"https://facebook.com/JoshRileyNY",
-"https://instagram.com/joshrileyue",
-"https://ithaca.com/opinion/guest_opinions/a-plan-of-action-to-restore-and-protect-reproductive-justice-for-women/article_23eb69fc-02bc-11ed-b3b3-037416875631.html",
-"https://iwillvote.com/locate?state=NY",
-"https://joshrileyforcongress.com/",
-"https://joshrileyforcongress.com/endorsements",
-"https://joshrileyforcongress.com/media",
-"https://joshrileyforcongress.com/meet-josh",
-"https://joshrileyforcongress.com/policy-positions",
-"https://joshrileyforcongress.com/press-media",
-"https://joshrileyforcongress.com/privacy",
-"https://joshrileyforcongress.com/volunteer",
-"https://medium.com/@JoshRileyforCongress/letter-from-josh-riley-to-attorney-general-garland-f9baade8dba",
-"https://nbcnews.com/politics/congress/republican-house-will-vote-bills-curtail-abortion-immigration-rcna64944",
-"https://ny1.com/nyc/all-boroughs/politics/2018/10/20/a-look-at-the-different-directions-ny-could-go-depending-on-who-is-governor",
-"https://nyassembly.gov/leg?bn=S01290&term=2009&Summary=Y&Actions=Y&Floor%26nbspVotes=Y&Memo=Y",
-"https://nydailynews.com/news/politics/ny-pol-molinaro-planned-parenthood-cuomo-kavanaugh-golston-20180930-story.html",
-"https://nytimes.com/2013/01/05/health/pregnancy-centers-gain-influence-in-anti-abortion-fight.html",
-"https://poughkeepsiejournal.com/story/news/politics/elections/2018/10/02/editorial-board-meeting-marc-molinaro-6-takeaways/1487568002",
-"https://secure.actblue.com/donate/joshriley_website_2024",
-"https://timesunion.com/news/article/Breaking-from-allies-Molinaro-backs-partial-13351698.php",
-"https://twitter.com/JoshRileyUE"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/joshriley_website_2024"
+},
+{
+"text": "Endorsements",
+"href": "https://joshrileyforcongress.com/endorsements/"
+},
+{
+"text": "Issues",
+"href": "https://joshrileyforcongress.com/policy-positions/"
+},
+{
+"text": "Media",
+"href": "https://joshrileyforcongress.com/media/"
+},
+{
+"text": "Meet Josh",
+"href": "https://joshrileyforcongress.com/meet-josh/"
+},
+{
+"text": "News",
+"href": "https://joshrileyforcongress.com/press-media/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://joshrileyforcongress.com/privacy"
+},
+{
+"text": "VOTE EARLY OCT. 26 - NOV. 3 OR ON ELECTION DAY NOV. 5FIND YOUR POLLING LOCATION >>",
+"href": "https://iwillvote.com/locate/?state=NY"
+},
+{
+"text": "Volunteer",
+"href": "https://joshrileyforcongress.com/volunteer"
+},
+{
+"text": "[image: Josh Riley for Congress Logo]",
+"href": "https://joshrileyforcongress.com/?nosplash="
+},
+{
+"text": "[image: Josh Riley for Congress]",
+"href": "https://joshrileyforcongress.com/?nosplash="
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JoshRileyUE"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoshRileyNY"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joshrileyue"
+},
+{
+"text": "advocated",
+"href": "https://www.ithaca.com/opinion/guest_opinions/a-plan-of-action-to-restore-and-protect-reproductive-justice-for-women/article_23eb69fc-02bc-11ed-b3b3-037416875631.html"
+},
+{
+"text": "allow incarcerated pregnant women to be shackled during labor",
+"href": "https://nyassembly.gov/leg/?default_fld=&leg_video=&bn=S01290&term=2009&Summary=Y&Actions=Y&Floor%26nbspVotes=Y&Memo=Y"
+},
+{
+"text": "anti-abortion propaganda group",
+"href": "https://www.nydailynews.com/news/politics/ny-pol-molinaro-planned-parenthood-cuomo-kavanaugh-golston-20180930-story.html"
+},
+{
+"text": "anti-choice legislation",
+"href": "https://www.nbcnews.com/politics/congress/republican-house-will-vote-bills-curtail-abortion-immigration-rcna64944"
+},
+{
+"text": "block",
+"href": "https://clerk.house.gov/Votes/202321"
+},
+{
+"text": "called",
+"href": "https://medium.com/@JoshRileyforCongress/letter-from-josh-riley-to-attorney-general-garland-f9baade8dba"
+},
+{
+"text": "info@joshrileyforcongress.com",
+"href": "mailto:info@joshrileyforcongress.com"
+},
+{
+"text": "opposed the Reproductive Health Act",
+"href": "https://www.ny1.com/nyc/all-boroughs/politics/2018/10/20/a-look-at-the-different-directions-ny-could-go-depending-on-who-is-governor"
+},
+{
+"text": "press@joshrileyforcongress.com",
+"href": "mailto:press@joshrileyforcongress.com"
+},
+{
+"text": "voted to prohibit Medicaid coverage for abortions",
+"href": "https://www.nydailynews.com/news/politics/ny-pol-molinaro-planned-parenthood-cuomo-kavanaugh-golston-20180930-story.html"
+},
+{
+"text": "“had to deal with it politically.”",
+"href": "https://www.poughkeepsiejournal.com/story/news/politics/elections/2018/10/02/editorial-board-meeting-marc-molinaro-6-takeaways/1487568002/"
+},
+{
+"text": "“only poor people” get “abortions without doctors.”",
+"href": "https://www.timesunion.com/news/article/Breaking-from-allies-Molinaro-backs-partial-13351698.php"
+},
+{
+"text": "“the darlings of the pro-life movement.”",
+"href": "https://www.nytimes.com/2013/01/05/health/pregnancy-centers-gain-influence-in-anti-abortion-fight.html"
+}
 ]

@@ -1,8 +1,34 @@
 [
-"https://christianforcarbon.com/about",
-"https://christianforcarbon.com/index-es",
-"https://christianforcarbon.com/platform",
-"https://facebook.com/profile.php?id=61573796817700",
-"https://instagram.com/christianbartulovich_pa",
-"https://tiktok.com/@bartulovichforpa"
+{
+"text": "About Christian",
+"href": "https://christianforcarbon.com/about"
+},
+{
+"text": "Español",
+"href": "https://christianforcarbon.com/index-es"
+},
+{
+"text": "Full platform",
+"href": "https://christianforcarbon.com/platform"
+},
+{
+"text": "Read the full platform",
+"href": "https://christianforcarbon.com/platform"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61573796817700"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/christianbartulovich_pa"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@bartulovichforpa"
+},
+{
+"text": "platform",
+"href": "https://christianforcarbon.com/platform"
+}
 ]

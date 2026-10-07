@@ -1,18 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+in+Buckhead+-+Rep.+Bryce+Berry%2C+Beth+Fuller%2C+%26+the+Take+It+Back+Fellowship%21&dates=20260905T153000Z%2F20260905T183000Z",
-"https://bethfullerforgeorgia.com/",
-"https://bethfullerforgeorgia.com/articles",
-"https://bethfullerforgeorgia.com/cart",
-"https://bethfullerforgeorgia.com/endorsements",
-"https://bethfullerforgeorgia.com/events",
-"https://bethfullerforgeorgia.com/events/bryce-and-beth",
-"https://bethfullerforgeorgia.com/events/bryce-and-beth?format=ical",
-"https://bethfullerforgeorgia.com/events?category=Canvassing",
-"https://bethfullerforgeorgia.com/get-involved",
-"https://bethfullerforgeorgia.com/meet-beth",
-"https://bethfullerforgeorgia.com/policy-priorities",
-"https://facebook.com/profile.php?id=61584803198605",
-"https://instagram.com/bethfuller4ga",
-"https://mobilize.us/bethfullerforgeorgia/event/1021152",
-"https://secure.actblue.com/donate/elizabeth-fuller-1"
+{
+"text": "0",
+"href": "https://www.bethfullerforgeorgia.com/cart"
+},
+{
+"text": "Articles",
+"href": "https://www.bethfullerforgeorgia.com/articles"
+},
+{
+"text": "Canvass in Buckhead - Rep. Bryce Berry, Beth Fuller, & the Take It Back Fellowship!",
+"href": "https://www.bethfullerforgeorgia.com/events/bryce-and-beth"
+},
+{
+"text": "Canvassing",
+"href": "https://www.bethfullerforgeorgia.com/events?category=Canvassing"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/elizabeth-fuller-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bethfullerforgeorgia.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bethfullerforgeorgia.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+in+Buckhead+-+Rep.+Bryce+Berry%2C+Beth+Fuller%2C+%26+the+Take+It+Back+Fellowship%21&dates=20260905T153000Z%2F20260905T183000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/bryce-and-beth?format=ical"
+},
+{
+"text": "Meet Beth",
+"href": "https://www.bethfullerforgeorgia.com/meet-beth"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.bethfullerforgeorgia.com/policy-priorities"
+},
+{
+"text": "RSVP TO CANVASS",
+"href": "https://www.mobilize.us/bethfullerforgeorgia/event/1021152/"
+},
+{
+"text": "View Event →",
+"href": "https://www.bethfullerforgeorgia.com/events/bryce-and-beth"
+},
+{
+"text": "[image: Beth Fuller for Georgia | District 53 State House]",
+"href": "https://www.bethfullerforgeorgia.com/"
+},
+{
+"text": "[image: Canvass in Buckhead - Rep. Bryce Berry, Beth Fuller, & the Take It Back Fellowship!]",
+"href": "https://www.bethfullerforgeorgia.com/events/bryce-and-beth"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584803198605"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bethfuller4ga/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@bethfullerforgeorgia.com"
+}
 ]

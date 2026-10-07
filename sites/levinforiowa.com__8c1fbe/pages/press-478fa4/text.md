@@ -1,35 +1,24 @@
-Find Elinor A.
-Levin in the News
-- Daily Iowan: Community members navigate IC’s dwindling women’s health services “‘We’re not just losing an abortion access provider,’ she said. ‘We’ve lost a whole reproductive health provider because there are forces in this state that are trying to make it every other state’s problem when people need reasonable access to legal abortions.
+0 Skip to Content Home Get Involved Areas of Focus Media Recommendations Press Español/Français/Swahili Endorsements DONATE Open Menu Close Menu Open Menu Close Menu Home Get Involved Areas of Focus Media Recommendations Press Español/Français/Swahili Endorsements DONATE Home Get Involved Areas of Focus Media Recommendations Press Español/Français/Swahili Endorsements DONATE Find Elinor A.
+Levin in the News Daily Iowan: Community members navigate IC’s dwindling women’s health services “‘We’re not just losing an abortion access provider,’ she said. ‘We’ve lost a whole reproductive health provider because there are forces in this state that are trying to make it every other state’s problem when people need reasonable access to legal abortions.
 Iowa City loses OB/GYNs and loses reproductive health care.
-I lost my reproductive healthcare, and I am not alone.’”
-- Gazette Guest Column: Lawmakers banned a hand up for Iowa’s families “When debating the bill to ban guaranteed income before it had a chance to be tested, some of my colleagues claimed people would stop working.
-Not only do the UpLift pilot results prove them wrong, but the results show an unfortunately harsh reality: getting and keeping a good job costs money.“
-- The Gazette: Iowa House Democrats react to governor’s proposal to address Iowa’s severe water pollution issue “Democratic state Reps.
-Austin Baeth, of Des Moines, and Elinor Levin, of Iowa City, address the governor's water quality proposal, highlighting the need for comprehensive, multiyear action to address Iowa's severe water pollution.”
-- Times Republican: It’s time to pass the Iowa Healthy Water Act “Our waters are impaired, but our majority leaders want to stop looking, stop monitoring, and stop protecting us.
+I lost my reproductive healthcare, and I am not alone.’” Read More Gazette Guest Column: Lawmakers banned a hand up for Iowa’s families “When debating the bill to ban guaranteed income before it had a chance to be tested, some of my colleagues claimed people would stop working.
+Not only do the UpLift pilot results prove them wrong, but the results show an unfortunately harsh reality: getting and keeping a good job costs money.“ Read Full Editorial The Gazette: Iowa House Democrats react to governor’s proposal to address Iowa’s severe water pollution issue “Democratic state Reps.
+Austin Baeth, of Des Moines, and Elinor Levin, of Iowa City, address the governor's water quality proposal, highlighting the need for comprehensive, multiyear action to address Iowa's severe water pollution.” Read More Times Republican: It’s time to pass the Iowa Healthy Water Act “Our waters are impaired, but our majority leaders want to stop looking, stop monitoring, and stop protecting us.
 Our well levels are dropping, but water use permits are still under consideration that would send Iowa water out of state.
 And Iowans, so, so many Iowans, are sick.
 Young people being diagnosed with cancer flood our social circles.
 Autoimmune disease.
 Complications in pregnancies.
-Stories every week from and about our friends and neighbors.”
-- KCCI: Iowa House votes to establish drug-free homeless service zones “Homeless service providers are doing intensely difficult work across our state,” Levin said.
-“They are serving individuals at all different points of life and facing all different kinds of challenges, and they do so with compassion, and they do so with an eye to what works… This bill reflects an approach to… homeless services that led to rising rates of homelessness in the 1990s, not reduced rates.”
-- Capitol Notebook: House passes bill banning local ID cards, like those in Johnson County Programs such as the Johnson County Community ID have operated for years, serving immigrants, domestic violence survivors and others who may lack state-issued identification… Levin said.
-“I have received dozens of positive stories from law enforcement, from social services, from local businesses and from community members about how impactful this program has been.”
-- Daily Iowan- Democrat Elinor Levin wins Iowa House District 89 “As an Iowa House representative, Levin plans to strengthen public unions and public school funding, support common sense gun laws, and help create infrastructure that will lead to reliable, high speed Internet service and renewable energy across Iowa.
-Levin also supports sustainable farming programs and universal access to all healthcare for all individuals.
-“
-- City Channel 4- Meet the Candidate- Primary Election “Meet the Candidates is a program produced by the City of Iowa City Cable TV Office and is intended to provide you with a brief introduction to local candidates currently seeking election.“
-- Bleeding Hearland- Iowa legislature may be more diverse after 2022 election “Residents of House district 89 will certainly elect an LGBTQ representative, since both Democrats… are out, and no Republican qualified for the ballot here.
+Stories every week from and about our friends and neighbors.” Read Full Editorial KCCI: Iowa House votes to establish drug-free homeless service zones “Homeless service providers are doing intensely difficult work across our state,” Levin said.
+“They are serving individuals at all different points of life and facing all different kinds of challenges, and they do so with compassion, and they do so with an eye to what works… This bill reflects an approach to… homeless services that led to rising rates of homelessness in the 1990s, not reduced rates.” Read More Capitol Notebook: House passes bill banning local ID cards, like those in Johnson County Programs such as the Johnson County Community ID have operated for years, serving immigrants, domestic violence survivors and others who may lack state-issued identification… Levin said.
+“I have received dozens of positive stories from law enforcement, from social services, from local businesses and from community members about how impactful this program has been.” Read More Daily Iowan- Democrat Elinor Levin wins Iowa House District 89 “As an Iowa House representative, Levin plans to strengthen public unions and public school funding, support common sense gun laws, and help create infrastructure that will lead to reliable, high speed Internet service and renewable energy across Iowa.
+Levin also supports sustainable farming programs and universal access to all healthcare for all individuals. “ Read More City Channel 4- Meet the Candidate- Primary Election “Meet the Candidates is a program produced by the City of Iowa City Cable TV Office and is intended to provide you with a brief introduction to local candidates currently seeking election.“ Watch here Bleeding Hearland- Iowa legislature may be more diverse after 2022 election “Residents of House district 89 will certainly elect an LGBTQ representative, since both Democrats… are out, and no Republican qualified for the ballot here.
 The last Jewish person to serve in the Iowa legislature was Ralph Rosenberg, a member of the House during the 1980s and the Senate through 1994.
-At least three Jewish candidates are running this year: Elinor Levin in House district 89…“
-- Iowa City Press Citizen- Meet Elinor Levin of Iowa City, who is running for House District 89 after Mary Mascher's retirement “I have been waiting for this opportunity for a while because this is really what I want to be doing," she said.
+At least three Jewish candidates are running this year: Elinor Levin in House district 89…“ Read More Iowa City Press Citizen- Meet Elinor Levin of Iowa City, who is running for House District 89 after Mary Mascher's retirement “I have been waiting for this opportunity for a while because this is really what I want to be doing," she said.
 "This is what I want to be doing every day.
-I want to be paying attention to legislation, opportunities and to expert testimony and to the ideas that creative people are bringing to our community and to our state.”
-Trouble with the paywall?
-Read on Yahoo News
-- KCRG- Group holds 'Iowa is Better Than This' event against Republican legislation “A group of Iowans held a state wide discussion about what they believe are discriminatory laws”
-- South District SSMID Support- Letter to the Editor- ICPC “Throw your support behind the South District Self Supported Municipal Improvement District.
-Tell the property owners and businesses that you want to see what happens when a small portion of their resources are pooled and put into use by folks who love this place, and want to see it bloom.“
+I want to be paying attention to legislation, opportunities and to expert testimony and to the ideas that creative people are bringing to our community and to our state.” Trouble with the paywall?
+Read on Yahoo News Read more KCRG- Group holds 'Iowa is Better Than This' event against Republican legislation “A group of Iowans held a state wide discussion about what they believe are discriminatory laws” Watch the story South District SSMID Support- Letter to the Editor- ICPC “Throw your support behind the South District Self Supported Municipal Improvement District.
+Tell the property owners and businesses that you want to see what happens when a small portion of their resources are pooled and put into use by folks who love this place, and want to see it bloom.“ Read More Missed the forums?
+Watch them here!
+UIowa Faculty Senate and Staff Council Forum League of Women Voters of Johnson County Forum Johnson County Interfaith Coalition Forum Press Inquiries Media Images Paid for by Citizens for Elinor A.
+Levin

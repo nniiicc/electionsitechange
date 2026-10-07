@@ -1,8 +1,10 @@
 {
- "description": "Pide a la campa\u00f1a de Saira Draper que deje de contactarte por boletines por correo electr\u00f3nico, correos de recaudaci\u00f3n de fondos o mensajes de texto.",
+ "description": "Pide a la campaña de Saira Draper que deje de contactarte por boletines por correo electrónico, correos de recaudación de fondos o mensajes de texto.",
  "final_url": "https://www.sairadraper.com/es/do-not-contact",
- "paid_for_by": null,
- "title": "No contactar \u2014 Saira Draper para el Distrito 44 del Senado",
+ "fingerprint": "7a359c9f268fb7e8b59ae67498cb338ce10b3406",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "No contactar — Saira Draper para el Distrito 44 del Senado",
  "years_mentioned": [
   "2026"
  ]

@@ -1,17 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Listening+Session%3A+Fellows+and+Legvold%21&dates=20260701T220000Z%2F20260702T010000Z",
-"http://maps.google.com/?q=Farmington+Library",
-"https://facebook.com/EdFellowsForMNHouse58B",
-"https://fellows4mnhouse58b.com/",
-"https://fellows4mnhouse58b.com/calendar",
-"https://fellows4mnhouse58b.com/calendar/canvass628",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j",
-"https://fellows4mnhouse58b.com/calendar/listening-session-fellows-and-legvold?format=ical",
-"https://fellows4mnhouse58b.com/cart",
-"https://fellows4mnhouse58b.com/contact",
-"https://fellows4mnhouse58b.com/gallery-1-1",
-"https://fellows4mnhouse58b.com/getinvolved",
-"https://fellows4mnhouse58b.com/meeted",
-"https://fellows4mnhouse58b.com/priorities",
-"https://secure.actblue.com/donate/fellows4mnhouse58b"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=farmington+library"
+},
+{
+"text": "0",
+"href": "https://www.fellows4mnhouse58b.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.fellows4mnhouse58b.com/meeted"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.fellows4mnhouse58b.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.fellows4mnhouse58b.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/fellows4mnhouse58b"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fellows4mnhouse58b.com/gallery-1-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.fellows4mnhouse58b.com/getinvolved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Listening+Session%3A+Fellows+and+Legvold%21&dates=20260701T220000Z%2F20260702T010000Z"
+},
+{
+"text": "Home",
+"href": "https://www.fellows4mnhouse58b.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/listening-session-fellows-and-legvold?format=ical"
+},
+{
+"text": "Next Next July 5 Knock Doors with Us",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j"
+},
+{
+"text": "Previous Previous June 28 Knock Doors with Us",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628"
+},
+{
+"text": "Priorities",
+"href": "https://www.fellows4mnhouse58b.com/priorities"
+},
+{
+"text": "[image: Fellows for District 58B ]",
+"href": "https://www.fellows4mnhouse58b.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EdFellowsForMNHouse58B"
+}
 ]

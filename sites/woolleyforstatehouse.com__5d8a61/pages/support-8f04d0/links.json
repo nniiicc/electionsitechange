@@ -1,18 +1,74 @@
 [
-"http://oklegislature.gov/findmylegislature.aspx",
-"https://donate.stripe.com/dR63e9cJd0Lvd8I5kk",
-"https://facebook.com/profile.php?id=61557218273365",
-"https://instagram.com/gabewoolley",
-"https://linkedin.com/in/gabe-woolley-08161151",
-"https://makingtheimpact.com/",
-"https://oklahoma.gov/elections.html",
-"https://okvoterportal.okelections.us/Home/RegWizard",
-"https://woolleyforstatehouse.com/",
-"https://woolleyforstatehouse.com/about-gabe",
-"https://woolleyforstatehouse.com/contact-gabe",
-"https://woolleyforstatehouse.com/privacy",
-"https://woolleyforstatehouse.com/support",
-"https://woolleyforstatehouse.com/team-3",
-"https://x.com/GabeGwoolley",
-"https://youtube.com/@gabewoolley"
+{
+"text": "About",
+"href": "https://www.woolleyforstatehouse.com/about-gabe"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.woolleyforstatehouse.com/team-3"
+},
+{
+"text": "Contact",
+"href": "https://www.woolleyforstatehouse.com/contact-gabe"
+},
+{
+"text": "DONATE",
+"href": "https://donate.stripe.com/dR63e9cJd0Lvd8I5kk"
+},
+{
+"text": "Election",
+"href": "https://www.oklahoma.gov/elections.html"
+},
+{
+"text": "Find My District",
+"href": "http://www.oklegislature.gov/findmylegislature.aspx"
+},
+{
+"text": "Home",
+"href": "https://www.woolleyforstatehouse.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.woolleyforstatehouse.com/privacy"
+},
+{
+"text": "Register To Vote",
+"href": "https://okvoterportal.okelections.us/Home/RegWizard"
+},
+{
+"text": "Support",
+"href": "https://www.woolleyforstatehouse.com/support"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.woolleyforstatehouse.com/contact-gabe"
+},
+{
+"text": "Website Design",
+"href": "https://makingtheimpact.com"
+},
+{
+"text": "Woolley For OK House Dist. 98",
+"href": "https://www.woolleyforstatehouse.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61557218273365"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/gabewoolley/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/gabe-woolley-08161151/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/GabeGwoolley"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@gabewoolley"
+}
 ]

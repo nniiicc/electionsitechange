@@ -1,25 +1,14 @@
-Community Investment
-In Olympia, Claire is collaborating with other legislators to fund significant investments in youth opportunities, infrastructure, and public safety and health programs for South King County including:
-- $75,000 in funding for Federal Way organizations that serve youth of color.
-- The purchase of Camp Kilworth, a 25-acre recreational and outdoor environmental education center in Federal way.
-- $250,000 for El Centro de La Raza’s Afterschool and Summer Learning Program in Federal Way.
-- Investing in pre-apprenticeship opportunities which will provide Federal Way students with hands-on experience in trade careers and dual credit through Green River College.
-- Funding to replace structurally unstable Redondo pier.
-- Funding the expansion of the Federal Way Little League Fields.
-- Investing $3 million to renovate and build over 250 affordable homes next to Redondo Heights Park and Ride.
-- Twelve kiosks to provide holistic health access to those experiencing homelessness in Federal Way to be deployed this year sponsored by the Federal Way Black Collective in partnership with the City of Federal way and Public Health – Seattle & King County.
-- $300,000 planning grant for the South Sound Education and Opportunity Center (the old Weyerhauser building)
-South King County has waited long enough for the transportation projects we have been funding and deserve.
+Toggle navigation Contribute Volunteer About About Claire Photos Accomplishments Community Investment Early Education Sexuality Health Education Issues Affordability Education Environment and Sustainability Gun Responsibility Healthcare and Reproductive Rights Transportation and Taxpayer Accountability Endorsements Join Volunteer Endorse Contact Community Investment In Olympia, Claire is collaborating with other legislators to fund significant investments in youth opportunities, infrastructure, and public safety and health programs for South King County including: $75,000 in funding for Federal Way organizations that serve youth of color.
+The purchase of Camp Kilworth, a 25-acre recreational and outdoor environmental education center in Federal way. $250,000 for El Centro de La Raza’s Afterschool and Summer Learning Program in Federal Way.
+Investing in pre-apprenticeship opportunities which will provide Federal Way students with hands-on experience in trade careers and dual credit through Green River College.
+Funding to replace structurally unstable Redondo pier.
+Funding the expansion of the Federal Way Little League Fields.
+Investing $3 million to renovate and build over 250 affordable homes next to Redondo Heights Park and Ride.
+Twelve kiosks to provide holistic health access to those experiencing homelessness in Federal Way to be deployed this year sponsored by the Federal Way Black Collective in partnership with the City of Federal way and Public Health – Seattle & King County. $300,000 planning grant for the South Sound Education and Opportunity Center (the old Weyerhauser building) South King County has waited long enough for the transportation projects we have been funding and deserve.
 Claire is investing our transportation dollars in local traffic relief, road improvements, safe routes to schools, light rail projects, and other transit needs, on time and on budget.
 These projects stimulate jobs, help our state grow, and reduce the time we spend in traffic and away from our families.
-This session, she has succeeded in securing:
-- A collective $229 million to reduce traffic congestion from SR 167 to SR 18, improve the SR 18 eastbound off ramp, and improve the I-5, SR 18, SR 161 triangle.
-- $300,000 for improvements on S. 314th Street in Federal Way.
-- $1.1 million to expand driver’s licensing support for foster youth.
-These services include reimbursement of driver’s license issuance costs, driver education fees, and liability insurance costs.
-- $405,000 for construction of a trailhead and parking area for users to access the Milton Interurban Trail.
-- $1.8 million to finish the City of Pacific Interurban Trail expansion.
-- $350,000 to provide driver’s written test classes in native languages for women in South King County
-Next Steps:
-These projects are just the beginning.
+This session, she has succeeded in securing: A collective $229 million to reduce traffic congestion from SR 167 to SR 18, improve the SR 18 eastbound off ramp, and improve the I-5, SR 18, SR 161 triangle. $300,000 for improvements on S.
+314th Street in Federal Way. $1.1 million to expand driver’s licensing support for foster youth.
+These services include reimbursement of driver’s license issuance costs, driver education fees, and liability insurance costs. $405,000 for construction of a trailhead and parking area for users to access the Milton Interurban Trail. $1.8 million to finish the City of Pacific Interurban Trail expansion. $350,000 to provide driver’s written test classes in native languages for women in South King County Next Steps: These projects are just the beginning.
 Claire will continue to fight for affordability and accessibility for all our Federal Way neighbors by investing in housing, transportation, health, greenspaces, and childcare.
+Paid for by Claire for Senate 31811 Pacific Hwy S, Ste B #288 | Federal Way, WA 98003 info@claireforsenate.com

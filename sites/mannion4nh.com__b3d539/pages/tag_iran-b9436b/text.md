@@ -1,8 +1,6 @@
-Jesse Gillis and I had such a great interview about Defend the Guard, and getting into the weeds about general US foreign policy, that he invited me back to talk specifically about the Iran conflict.
+Tom Mannion for New Hampshire Search Primary Menu Skip to content Bills Roll Calls Hearing Alert Testimonies Bills Passed On The Issues Lockdowns/Health Mandates Taxation Firearms Crypto Energy Education Marijuana Surveys & Interviews Endorsements About Me Donate Search for: Tag Archives: Iran Interview Interview – Now is the Time to Talk (Iran) March 9, 2026 Tom Mannion Leave a comment Jesse Gillis and I had such a great interview about Defend the Guard, and getting into the weeds about general US foreign policy, that he invited me back to talk specifically about the Iran conflict.
 Thank you for having me again so soon!
-Tag Archives: Iran
-Unanimous Consent Speech – June 26, 2025
-Thank you Mr.
+Defend the Guard Iran Veterans Floor Speech Unanimous Consent Speech – June 26, 2025 June 27, 2025 Tom Mannion Leave a comment Linked at timestamp Thank you Mr.
 Speaker.
 I was going to save this for veto day, to be closer to the anniversary, but world events this past week motivated me to rise today.
 On October 19, 2005, 6.5miles from the Syrian border along the Euphrates, 3rd Bn 6th Marines, Kilo Company, 1st Platoon, 3rd Squad was on a foot patrol along ASR Diamond in the Al’Qaim Region of the Al’Anbar province in Iraq.
@@ -41,5 +39,8 @@ Remember Iran is bigger than Iraq and Afghanistan combined in both land area and
 I ask that you remember this unanimous consent when I rise before you all again in January.
 I ask that you remember the sacrifices of the men and women that continue to volunteer to wear the uniform.
 I ask you to pray, and speak loudly for peace, and to bring our troops home from places they shouldn’t be, and out of harm’s way.
-And finally, I ask you to remember Lance Corporal Norman “Wally” Anderson III, the man that saved the lives of his squadmates 20 years ago.
+And finally, I ask you to remember Lance Corporal Norman “Wally” Anderson III, the man that saved the lives of his squadmates #ago.
 Thank you.
+Defend the Guard foreign policy Iran Iraq Speech Unanimous Consent Veterans State Representative – Hillsborough County District 01 (Pelham) Paid for by Tom Mannion for New Hampshire Create a website or blog at WordPress.com Subscribe Subscribed Tom Mannion for New Hampshire Sign me up Have a WordPress.com account?
+Log in now.
+Tom Mannion for New Hampshire View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

@@ -1,10 +1,12 @@
-Washington, DC (June 10, 2024) – Today, the Republican Jewish Coalition announced its endorsement of Congressman Tom Cole in his bid for another term in Oklahoma’s 4th district.
-RJC National Chairman Senator Norm Coleman and CEO Matt Brooks said:
-“As chairman of the House Appropriations Committee, Tom Cole played an indispensable role in passing the Israel Security Supplemental Appropriations Act – the bill to provide $14 billion in emergency aid for Israel’s self-defense war in Gaza.
+Skip to content Tom Cole For Congress About About Tom About the District Press Packet News Room Connect On The Issues All Issues Growing the Economy Debt and Spending Securing Our Border Preserving our Second Amendment Protecting the Unborn National Security American Energy Independence Veterans News Room Tom Cole Is Endorsed By the Republican Jewish Coalition June 12, 2024 June 12, 2024 Donate Washington, DC (June 10, 2024) – Today, the Republican Jewish Coalition announced its endorsement of Congressman Tom Cole in his bid for another term in Oklahoma’s 4th district.
+RJC National Chairman Senator Norm Coleman and CEO Matt Brooks said: “As chairman of the House Appropriations Committee, Tom Cole played an indispensable role in passing the Israel Security Supplemental Appropriations Act – the bill to provide $14 billion in emergency aid for Israel’s self-defense war in Gaza.
 Now Tom Cole is leading the difficult fight to compel the Biden administration to deliver the promised aid.
 When Biden announced his weapons embargo against Israel, Cole spoke out strongly, calling on Biden to “stop appeasing terrorists and stand with Israel.” And he led the way to House passage of a bill to require Biden to end his embargo.
 Tom Cole is a stalwart ally in the fight against antisemitism.
 He’s been a strong supporter of the National Security Grant Program that aids so many Jewish institutions.
-He has also used his platform to challenge what he accurately called in a recently published column, “The Far Left’s Serious Anti-Israel Problem.”
-Tom Cole’s opponent has no record on any of these issues, just like he has no record of living in the district he’s running in.
-Jewish Americans, and all our neighbors who stand with us in supporting the cause of America’s strategic ally Israel’s security, have a stake in keeping Tom Cole right where he is.”
+He has also used his platform to challenge what he accurately called in a recently published column, “The Far Left’s Serious Anti-Israel Problem.” Tom Cole’s opponent has no record on any of these issues, just like he has no record of living in the district he’s running in.
+Jewish Americans, and all our neighbors who stand with us in supporting the cause of America’s strategic ally Israel’s security, have a stake in keeping Tom Cole right where he is.” Post navigation Previous: Tom Cole Is Endorsed By The State Chamber of Oklahoma PAC Next: Cole: Promises Made, Promises Kept Connect Recent Posts Tom Cole Announces For Re-Election Breaking: President Trump Endorses Congressman Tom Cole Cole: Promises Made, Promises Kept Tom Cole Is Endorsed By the Republican Jewish Coalition Tom Cole Is Endorsed By The State Chamber of Oklahoma PAC Keep up with the Campaign via Email Name First Last Email Phone (Required) (Required) By providing your phone number, you agree to receive text messages from Cole for Congress.
+Message & data rates may apply.
+Message frequency varies. donations may be solicited.
+Reply STOP to opt out, reply HELP for help.
+Privacy Policy About Tom On The Issues News Room Connect Privacy Policy Donate Paid for by Cole for Congress Powered By Push Digital © #

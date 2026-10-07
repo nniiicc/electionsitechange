@@ -1,5 +1,4 @@
-Privacy Policy — Committee to Elect Gary Click
-The Committee to Elect Gary Click respects your privacy.
+Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Privacy Policy — Committee to Elect Gary Click The Committee to Elect Gary Click respects your privacy.
 This policy explains how we collect, use, and protect information you provide through GaryClick.com.
 Information We Collect: We may collect information you voluntarily provide, including your name, email address, telephone number, mailing address, and information submitted through volunteer, contact, supporter, event, or campaign forms.
 How We Use Information: We may use this information to communicate with you about campaign activities, events, volunteer opportunities, election information, fundraising, and other campaign-related matters.
@@ -15,4 +14,4 @@ Cookies and Website Data: Our website and service providers may use cookies or s
 Your Choices: You may unsubscribe from email communications using the unsubscribe instructions provided in those communications.
 You may opt out of text messages by replying STOP.
 Contact: Questions regarding this privacy policy may be directed to the Committee to Elect Gary Click through the contact information provided on GaryClick.com.
-Last Updated: September 2026
+Last Updated: September 2026 The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com - Political Websites Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu

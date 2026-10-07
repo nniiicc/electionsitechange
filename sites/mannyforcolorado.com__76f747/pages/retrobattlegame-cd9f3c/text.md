@@ -1,20 +1,7 @@
-Donate
-Click on an amount to get started.
+0 Skip to Content Meet Manny Issues Join Us More How to Vote Contact Press Retro Battle Game Fellowships English Donate Open Menu Close Menu Meet Manny Issues Join Us More How to Vote Contact Press Retro Battle Game Fellowships English Donate Open Menu Close Menu Meet Manny Issues Join Us Folder: More Back How to Vote Contact Press Retro Battle Game Fellowships English Back Donate Donate $8 $25 other $7000 $1000 $100 Click on an amount to get started.
 If you've saved your payment information with ActBlue Express, your donation will go through immediately.
-Play A Retro Battle Game to
-help Manny flip this seat blue
-and take back the House!
-🔊
-TAP TO START
-Help Manny take back the House!
-● BATTERY
-GABE Lv.50
-VOTES
-MANNY Lv.50
-VOTES
-Use Arrow Keys or Swipe to Move
-Political Parody.
+Play A Retro Battle Game to help Manny flip this seat blue and take back the House! 🔊 TAP TO START Help Manny take back the House! ● BATTERY GABE Lv.50 VOTES MANNY Lv.50 VOTES BATTLE BACKPACK FLEE Protect Medicaid & Health Care Save Social Security Defend Medicare Lower Costs BACK Grassroots Donation Fact Check Recruit Volunteers Town Hall BACK Use Arrow Keys or Swipe to Move Political Parody.
 Not affiliated with any company.
-Donate
-Click on an amount to get started.
+Donate $8 $25 other $7000 $1000 $100 Click on an amount to get started.
 If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+Contact Privacy Policy Media Meet Manny Paid for by Manny Rutinel for Congress PO Box 1013 Commerce City, CO 80022 Email Us × Will you chip in to help flip CO-08? $# $# $# $# Other Amount If you've saved your payment information with ActBlue Express, your donation may go through immediately.

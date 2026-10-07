@@ -1,7 +1,11 @@
 {
- "description": "Find an upcoming canvass, phone bank, town hall, or virtual action \u2014 and RSVP in seconds.",
+ "description": "Find an upcoming canvass, phone bank, town hall, or virtual action — and RSVP in seconds.",
  "final_url": "https://genefortexas.com/events",
+ "fingerprint": "05a5e096c87c97b2b62bf0057ba74e7b6860afe7",
+ "format": 3,
  "paid_for_by": "paid for by the Gene for Texas Campaign",
- "title": "Events \u00b7 Gene Wu for Texas House",
- "years_mentioned": []
+ "title": "Events · Gene Wu for Texas House",
+ "years_mentioned": [
+  "2026"
+ ]
 }

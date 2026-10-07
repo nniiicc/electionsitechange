@@ -1,4 +1,42 @@
 [
-"https://facebook.com/profile.php?id=61574843073811",
-"https://secure.actblue.com/donate/livingstonfornebraska"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/livingstonfornebraska"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/livingstonfornebraska"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/livingstonfornebraska"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/livingstonfornebraska"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/livingstonfornebraska"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/livingstonfornebraska"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/livingstonfornebraska"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/livingstonfornebraska"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/livingstonfornebraska"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61574843073811"
+}
 ]

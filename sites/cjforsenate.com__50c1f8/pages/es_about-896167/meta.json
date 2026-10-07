@@ -1,7 +1,9 @@
 {
- "description": "Conozca m\u00e1s sobre CJ Hernandez, candidata al Senado Estatal por el Distrito 5",
+ "description": "Conozca más sobre CJ Hernandez, candidata al Senado Estatal por el Distrito 5",
  "final_url": "https://www.cjforsenate.com/es/about",
- "paid_for_by": null,
+ "fingerprint": "4fae974a196441ed2b47f63576163874371674a8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Sobre CJ",
  "years_mentioned": []
 }

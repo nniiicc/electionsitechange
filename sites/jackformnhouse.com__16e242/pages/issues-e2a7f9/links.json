@@ -1,12 +1,58 @@
 [
-"https://jackformnhouse.com/",
-"https://jackformnhouse.com/issue-constitution",
-"https://jackformnhouse.com/issue-economy",
-"https://jackformnhouse.com/issue-environment",
-"https://jackformnhouse.com/issue-healthcare",
-"https://jackformnhouse.com/issue-housing",
-"https://jackformnhouse.com/issues",
-"https://jackformnhouse.com/meetjack",
-"https://jackformnhouse.com/volunteer",
-"https://secure.actblue.com/donate/jack-l-heureux-1"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jack-l-heureux-1"
+},
+{
+"text": "Home",
+"href": "https://www.jackformnhouse.com/"
+},
+{
+"text": "Meet Jack",
+"href": "https://www.jackformnhouse.com/meetjack"
+},
+{
+"text": "Preserving our ConstitutionActions by the current administration are threatening our freedoms of speech and assembly, the separation of powers, the rule of law, and the right to due process. Constitution[image]",
+"href": "https://www.jackformnhouse.com/issue-constitution"
+},
+{
+"text": "Rural HealthcareRural hospitals, clinics, and long-term care facilities face significant risks from reduced Medicaid/Medicare & increased insurance costs. Healthcare[image]",
+"href": "https://www.jackformnhouse.com/issue-healthcare"
+},
+{
+"text": "The EnvironmentUncontrolled pollution and poor resource management threaten our clean water, air, and soil.Environment[image]",
+"href": "https://www.jackformnhouse.com/issue-environment"
+},
+{
+"text": "The Issues",
+"href": "https://www.jackformnhouse.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jackformnhouse.com/volunteer"
+},
+{
+"text": "[image: Jack L’Heureux for MN House 11B]",
+"href": "https://www.jackformnhouse.com/"
+},
+{
+"text": "[image]Affordable HousingThe housing crisis in rural Minnesota requires immediate action to ensure the availability of safe, affordable housing for all. Housing",
+"href": "https://www.jackformnhouse.com/issue-housing"
+},
+{
+"text": "[image]Preserving our ConstitutionActions by the current administration are threatening our freedoms of speech and assembly, the separation of powers, the rule of law, and the right to due process. Constitution",
+"href": "https://www.jackformnhouse.com/issue-constitution"
+},
+{
+"text": "[image]Rural HealthcareRural hospitals, clinics, and long-term care facilities face significant risks from reduced Medicaid/Medicare & increased insurance costs. Healthcare",
+"href": "https://www.jackformnhouse.com/issue-healthcare"
+},
+{
+"text": "[image]The EconomyUnemployment, low wages, and the lack of housing has put a strain on our district communities. Economy",
+"href": "https://www.jackformnhouse.com/issue-economy"
+},
+{
+"text": "[image]The EnvironmentUncontrolled pollution and poor resource management threaten our clean water, air, and soil.Environment",
+"href": "https://www.jackformnhouse.com/issue-environment"
+}
 ]

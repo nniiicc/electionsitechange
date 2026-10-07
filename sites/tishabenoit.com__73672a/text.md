@@ -1,3 +1,19 @@
+DR.
+TISHA BENOIT Home Budget Endorsements Issues Contact Home Budget Endorsements Issues Contact DR.
+TISHA BENOIT Scroll TISHA BENOIT FOR US CONGRESS Fighting for Our Future!
+Protect our Seniors.
+Protect our Children.
+Protect our Freedom.
+Independent.
+Authentic.
+Ready to Lead.
+I’m not a career politician.
+And that’s exactly why I’m running!
+For too long, politics has been filled with the same voices repeating the same talking points while real people continue to struggle.
+I’m running for Congress in District 4 because I believe it’s time for fresh ideas, authentic leadership, and the courage to actually do the work.
+I’ve spent my life outside of Washington, serving, healing, and building where help was needed most.
+And I believe that’s where real leadership begins.
+Support Our Campaign With A Contribution THANK YOU FOR YOUR DONATION!
 If They Could Have Fixed It, They Would Have.
 We need to focus on policy, not politics.
 And, the debt is not good politics.
@@ -23,8 +39,7 @@ So if you’re satisfied with what Washington is doing, you have two traditional
 But if you’re tired of watching both parties run away from our fiscal responsibilities, you have another choice.
 Vote for me.
 Maybe Washington won’t hear one independent.
-But imagine if hundreds of thousands of Arizonans say the same thing:
-Stop borrowing from our children.
+But imagine if hundreds of thousands of Arizonans say the same thing: Stop borrowing from our children.
 Protect the promises we’ve made to our seniors.
 And balance the damn budget.
 That’s not throwing away your vote.
@@ -36,4 +51,6 @@ That means affordable housing, protecting our water, backing our farmers and ran
 Arizona comes first: Our way of life, Our economy, and Our safety.
 We don’t need another politician who just goes along to get along.
 We need someone who will stand strong, speak boldly, and bring Arizona’s voice straight into Washington, without compromise.
-Follow on Instagram To Find Out How I'll Serve Arizona
+Follow on Instagram To Find Out How I'll Serve Arizona GET TO KNOW ME!
+Home Page HOME Dr.
+Tisha Benoit # © Privacy Policy Terms and Conditions

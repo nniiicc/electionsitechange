@@ -1,5 +1,5 @@
-I’m a single mom, and prior to serving in the Assembly I was a small business owner — I know firsthand how hard it is to pay the bills when the cost of everything keeps going up.
+Home Meet Pilar Vote Volunteer Gallery Endorsements Donate Menu Close Home Meet Pilar Vote Volunteer Gallery Endorsements Donate Assemblywoman Pilar Schiavo A Fighter Who Gets Things Done for Us Supported by Nurses, Teachers, Firefighters, Police Officers, and Healthcare Workers I’m a single mom, and prior to serving in the Assembly I was a small business owner — I know firsthand how hard it is to pay the bills when the cost of everything keeps going up.
 Too many people in our community are doing the right things — working hard, raising families, and playing by the rules — yet still struggling to afford gas, groceries, insurance, and housing.
 That’s why I ran for Assembly and why ever since, I’ve fought every day to lower costs, cut waste, protect taxpayers, and bring more than $106 million home to our community — all without raising taxes.
-You can count on me to keep fighting to make life more affordable, our communities safer, and ensure everyone in our community is able to thrive.
-— Assemblywoman Pilar Schiavo
+You can count on me to keep fighting to make life more affordable, our communities safer, and ensure everyone in our community is able to thrive. — Assemblywoman Pilar Schiavo Learn More About Pilar Get updates from the campaign First Name Last Name Email Address Paid for by Pilar Schiavo for Assembly 2026 FPPC ID 1477036 Checks payable to "Pilar Schiavo for Assembly 2026" may be mailed to: 21606 Devonshire St.
+#5648 Chatsworth, CA 91311 Donate Want to get in touch or have a question? contact@pilar4ca.com Privacy Policy

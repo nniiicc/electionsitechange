@@ -1,10 +1,10 @@
-Ways to Donate
-Checks can be made payable to: Friends of Stephanie Berardi
-And mailed to: 213 East 6th Street Landsdale PA 19446
-You can also easily donate online by selecting the amount you'd like to donate below!
-Contribution rules
-- I am a U.S. citizen or lawfully admitted permanent resident (i.e., green card holder).
-- This contribution is made from my own funds, and funds are not being provided to me by another person or entity for the purpose of making this contribution.
-- I am making this contribution with my own personal credit card and not with a corporate or business credit card or a card issued to another person.
-- I am at least eighteen years old.
+Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Ways to Donate Checks can be made payable to: Friends of Stephanie Berardi And mailed to: 213 East 6th Street Landsdale PA 19446 You can also easily donate online by selecting the amount you'd like to donate below!
+Contribution rules I am a U.S. citizen or lawfully admitted permanent resident (i.e., green card holder).
+This contribution is made from my own funds, and funds are not being provided to me by another person or entity for the purpose of making this contribution.
+I am making this contribution with my own personal credit card and not with a corporate or business credit card or a card issued to another person.
+I am at least eighteen years old.
 I am not, nor am I making this contribution on behalf of, a corporation, labor organization, national bank, foreign national without a green card, a federal contractor, or any other federally impermissible source.
+Complete your $ 250 contribution: Select Your Information Choose an amount: $10 $15 $25 $50 $100 $150 $200 $250 $500 $1000 $1500 Other Amount $ Choose payment method: Credit Card Mail a Contribution First Name * Last Name * Email * Phone Street Address * City/Town * State * Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip * Occupation * Employer * I would like to make a financial contribution Please add me to your list of supporters I would like a yard sign I would like to volunteer I would like to canvass Get updates and news via email Add $ 0.00 to help cover PayPal processing fees?
+Add $ 0.00 to help cover card processing fees?
+Submit Contribution Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Friends of Stephanie Berardi.
+Powered by CampaignPartner.com - Political Campaign Websites Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu

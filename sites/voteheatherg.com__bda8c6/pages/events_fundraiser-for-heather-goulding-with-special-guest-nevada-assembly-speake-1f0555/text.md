@@ -1,8 +1,4 @@
-Please join special guest Nevada Assembly Speaker Steve Yeager for a fundraiser in support of Heather Goulding:
-Thursday, July 25, 2024 from 5:30p – 7:30p
-Laughing Planet – University of Nevada Reno Location
-941 N Virginia St, Reno, NV 89503
-RSVP to Adam@TallacStrategies.com (rsvp appreciated but not required)
-Please make checks payable to: Friends of Heather Goulding, 1250 Brookfield Dr, Reno, NV 89503
-Donation Link:
-https://secure.actblue.com/donate/friends-of-heather-goulding-1
+Toggle navigation Home About Endorsements Issues Contact Get Involved Events Voter Information Media Donate Fundraiser for Heather Goulding with special guest Nevada Assembly Speaker Steve Yeager July 25, 2024 5:30 pm – 7:30 pm ( Pacific ) Laughing Planet Cafe - UNR location, 941 N.
+Virginia St, Reno Please join special guest Nevada Assembly Speaker Steve Yeager for a fundraiser in support of Heather Goulding : Thursday, July 25, 2024 from 5:30p – 7:30p Laughing Planet – University of Nevada Reno Location 941 N Virginia St, Reno, NV 89503 RSVP to Adam@TallacStrategies.com (rsvp appreciated but not required) Please make checks payable to: Friends of Heather Goulding, 1250 Brookfield Dr, Reno, NV 89503 Donation Link: https://secure.actblue.com/donate/friends-of-heather-goulding-1 This event has ended Photo Gallery Leave a Reply Cancel Reply Your email address will not be published.
+Required fields are marked * You may use these HTML tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Contact Heather Terms & Conditions / Privacy Policy Donate Paid for by Friends of Heather Goulding, Reno, NV 89503 | heather@voteheatherg.com

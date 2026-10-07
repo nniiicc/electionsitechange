@@ -1,5 +1,4 @@
-Janelle believes in
-ENDING HOMELESSNESS
-Homelessness is one of the greatest social and economic challenges of our lifetime, and it’s critical we get people off our streets.
+Skip navigation menu Meet Janelle Issues Press Media Center Donate Issues Meet Janelle Issues Press Media Center Donate Issues LOWERING THE COST OF HOUSING STRENGTHENING THE ECONOMY AND CREATING JOBS IMPROVING ACCESS TO EDUCATION FIGHTING BACK AGAINST CRUELTY AND CHAOS FROM THE WHITE HOUSE TAKING CLIMATE ACTION LOWERING THE COST OF HEALTH CARE PROTECTING REPRODUCTIVE RIGHTS ENDING HOMELESSNESS Janelle believes in ENDING HOMELESSNESS Homelessness is one of the greatest social and economic challenges of our lifetime, and it’s critical we get people off our streets.
 As a state legislator, Janelle helped pass measures to prevent homelessness, increase shelter capacity, and expand mental health services.
 In Congress, she is continuing the work to end homelessness in our communities.
+Privacy Policy Contact: info@janellebynum.com Press Inquiries: press@janellebynum.com Make Checks Out to Janelle Bynum for Congress 10121 SE Sunnyside Road, #300 Clackamas, OR 97015 Powered by RUN! website builder Paid for by Janelle Bynum for Congress You need to enable JavaScript to run this app.

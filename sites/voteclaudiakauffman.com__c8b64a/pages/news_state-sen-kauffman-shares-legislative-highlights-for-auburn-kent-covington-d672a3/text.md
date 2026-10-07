@@ -1,2 +1,3 @@
-State Sen.
-Kauffman shares legislative highlights for Auburn, Kent, Covington Jun 30 Written By Upper Left Strategies https://www.auburn-reporter.com/2026/05/08/state-sen-kauffman-shares-legislative-highlights-for-auburn-kent-covington/ Upper Left Strategies https://upperleftstrategies.com
+0 Skip to Content About Claudia Accomplishments Platform Endorsements News Media Get Involved Volunteer Contact Us Donate Open Menu Close Menu About Claudia Accomplishments Platform Endorsements News Media Get Involved Volunteer Contact Us Donate Open Menu Close Menu About Claudia Accomplishments Platform Endorsements News Media Folder: Get Involved Back Volunteer Contact Us Donate State Sen.
+Kauffman shares legislative highlights for Auburn, Kent, Covington Jun 30 Written By Upper Left Strategies https://www.auburn-reporter.com/2026/05/08/state-sen-kauffman-shares-legislative-highlights-for-auburn-kent-covington/ Upper Left Strategies https://upperleftstrategies.com Next Next Boyce, Kauffman vie for WA senate in swing district with Kent, Auburn Paid for by People for Claudia Kauffman (D) P.O.
+Box 22169 Seattle, WA 98122

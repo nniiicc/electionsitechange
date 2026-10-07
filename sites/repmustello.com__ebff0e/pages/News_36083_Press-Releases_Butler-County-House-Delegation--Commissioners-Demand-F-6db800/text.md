@@ -1,47 +1,22 @@
-Butler County House Delegation, Commissioners Demand Full Audit of Community Partnership, Inc.
-April 24, 2025
-BUTLER – Members of the Butler County House delegation – Reps.
+PA State Rep.
+Marci Mustello Serving PA's 11th Legislative District Subscribe Home About Bio Newsroom Press Releases Video Livestreams Veteran Luncheon Photos Events 11th District District Map Resources Citizens Access Portal State Government Links Property Tax Rent/Rebates PennDOT Forms LiHeap Information Senior Care & Assisted Living Guide REAL ID Contact Butler County House Delegation, Commissioners Demand Full Audit of Community Partnership, Inc.
+April 24, 2025 BUTLER – Members of the Butler County House delegation – Reps.
 Aaron Bernstine (R-Butler/Lawrence), Marci Mustello (R-Butler), Stephenie Scialabba (R-Butler) and Tim Bonner (R-Butler/Mercer) – have joined with the Butler County Board of Commissioners in calling for a full audit of Community Partnership, Inc. following a pattern of financial mismanagement, transparency failures and violations of federal grant requirements.
 The request, formally submitted to Pennsylvania Auditor General Tim DeFoor, comes after a recent independent audit by Maher Duessel CPAs uncovered a series of critical failures in the organization’s financial reporting and oversight practices.
 “These findings and interactions indicate a troubling pattern of financial mismanagement and resistance to oversight,” said Bernstine.
 “Our constituents deserve assurance public funds are being used responsibly to support vital community programs.
 When taxpayer dollars are at stake, there is no room for secrecy or sloppiness.
-A full audit is the only way to ensure accountability and restore public trust.”
-Key concerns identified in the auditor’s report include:
-• Material weaknesses in financial reporting: The organization’s financial statements failed to comply with Generally Accepted Accounting Principles (GAAP), requiring major adjustments to correct net assets, cash, receivables, payables, revenue and expenses.
-• Inadequate segregation of duties: From January to June of 2023, the executive director had primary control over cash disbursements, receipts and payroll, violating basic internal control standards and exposing the organization to errors and potential fraud.
-• Noncompliance with federal grant requirements: The organization violated the Community Services Block Grant by obligating $36,853 outside the allowable period and operating without a compliant Tri-Partite board, as mandated by federal law.
-Moreover, recent interactions between Community Partnership, Inc. and elected officials have raised additional concerns, such as:
-• Lack of transparency with elected officials: Butler County Commissioner Kim Geyer was denied access to the organization’s 2024 annual reports without explanation, raising serious questions about the organization's openness and accountability to the public.
-• Abrupt cancellation of oversight meeting: A scheduled April 11 meeting between Bernstine and Community Partnership, Inc. was canceled by Executive Director Sandra Curry, who claimed there was “no need to meet,” an indication of the organization’s unwillingness to cooperate with public officials.
+A full audit is the only way to ensure accountability and restore public trust.” Key concerns identified in the auditor’s report include: • Material weaknesses in financial reporting : The organization’s financial statements failed to comply with Generally Accepted Accounting Principles (GAAP), requiring major adjustments to correct net assets, cash, receivables, payables, revenue and expenses. • Inadequate segregation of duties : From January to June of 2023, the executive director had primary control over cash disbursements, receipts and payroll, violating basic internal control standards and exposing the organization to errors and potential fraud. • Noncompliance with federal grant requirements : The organization violated the Community Services Block Grant by obligating $36,853 outside the allowable period and operating without a compliant Tri-Partite board, as mandated by federal law.
+Moreover, recent interactions between Community Partnership, Inc. and elected officials have raised additional concerns, such as: • Lack of transparency with elected officials : Butler County Commissioner Kim Geyer was denied access to the organization’s 2024 annual reports without explanation, raising serious questions about the organization's openness and accountability to the public. • Abrupt cancellation of oversight meeting : A scheduled April 11 meeting between Bernstine and Community Partnership, Inc. was canceled by Executive Director Sandra Curry, who claimed there was “no need to meet,” an indication of the organization’s unwillingness to cooperate with public officials.
 “When elected officials are denied access to basic organizational records, it undermines the trust of the residents we serve,” said Geyer.
-“A thorough audit is essential to restore confidence in Community Partnership, Inc.’s operations.”
-The Butler County delegation and commissioners are unified in their request to DeFoor to conduct a thorough audit of the organization’s financial practices, compliance with state and federal regulations, and overall operational integrity.
+“A thorough audit is essential to restore confidence in Community Partnership, Inc.’s operations.” The Butler County delegation and commissioners are unified in their request to DeFoor to conduct a thorough audit of the organization’s financial practices, compliance with state and federal regulations, and overall operational integrity.
 “This is not about politics.
 This is about protecting vulnerable populations and ensuring taxpayer dollars are handled with the transparency and accountability the public expects and deserves,” the delegation and commissioners stated in their letter.
 Click here to read the letter written to Auditor General DeFoor.
-Representative Aaron Bernstine
-8th Legislative District
-Representative Marci Mustello
-11th Legislative District
-Representative Stephenie Scialabba
-12th Legislative District
-Representative Tim Bonner
-17th Legislative District
-Rep.
-Bernstine – Rick Leiner
-717-260-6437
-rleiner@pahousegop.com
-Rep.
-Mustello – Rick Leiner
-717-260-6437
-rleiner@pahousegop.com
-Stephenie Scialabba – Tricia Lehman
-717-772-9840
-tlehman@pahousegop.com
-Tim Bonner – Andrew Forgotch
-717-772-9905
-aforgotch@pahousegop.com
-Sign Up to Receive Legislative Email Updates
-Keep up-to-date on the latest legislative and community news.
+Representative Aaron Bernstine 8th Legislative District Representative Marci Mustello 11th Legislative District Representative Stephenie Scialabba 12th Legislative District Representative Tim Bonner 17th Legislative District Media contacts: Rep.
+Bernstine – Rick Leiner 717-260-6437 rleiner@pahousegop.com Rep.
+Mustello – Rick Leiner 717-260-6437 rleiner@pahousegop.com Stephenie Scialabba – Tricia Lehman 717-772-9840 tlehman@pahousegop.com Tim Bonner – Andrew Forgotch 717-772-9905 aforgotch@pahousegop.com Share Sign Up to Receive Legislative Email Updates Keep up-to-date on the latest legislative and community news.
 Your email address will be used strictly for legislative purposes.
+Email* ZIP Code Subscribe Office Locations BUTLER 100 Barracks Road Butler, PA 16001 724-283-5852 1-855-282-0613 Mon-Fri 9 a.m. to 4:30 p.m.
+CAPITOL 147A East Wing PO Box 202011 Harrisburg, PA 17120-2011 717-787-7686 © # PA House Republican Caucus.
+Terms of use Home About Bio Newsroom Press Releases Video Livestreams Veteran Luncheon Photos Events 11th District District Map Resources Citizens Access Portal State Government Links Property Tax Rent/Rebates PennDOT Forms LiHeap Information Senior Care &amp; Assisted Living Guide REAL ID Contact

@@ -1,9 +1,38 @@
 [
-"https://facebook.com/George4Ne",
-"https://georgefornebraska.com/",
-"https://georgefornebraska.com/about-george",
-"https://georgefornebraska.com/on-the-issues",
-"https://instagram.com/george4ne",
-"https://secure.actblue.com/donate/george-for-nebraska",
-"https://x.com/George4NE"
+{
+"text": "About George",
+"href": "https://georgefornebraska.com/about-george"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/george-for-nebraska"
+},
+{
+"text": "Home",
+"href": "https://georgefornebraska.com/"
+},
+{
+"text": "On the Issues",
+"href": "https://georgefornebraska.com/on-the-issues"
+},
+{
+"text": "Volunteer",
+"href": "https://georgefornebraska.com/#0062d773-b2b7-4874-93b9-41e9cace61c3"
+},
+{
+"text": "[image: George Dungan for Nebraska]",
+"href": "https://georgefornebraska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/George4Ne"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/george4ne"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/George4NE"
+}
 ]

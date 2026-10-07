@@ -1,11 +1,8 @@
-Meet Elliot Valdez.
+0 Skip to Content Home About Our Georgia Raising Minimum Wage Environmental Conservation Smart Growth District 139 Maps Blog Endorsements Donate Thank You FAQs English Donate Open Menu Close Menu Home About Our Georgia Raising Minimum Wage Environmental Conservation Smart Growth District 139 Maps Blog Endorsements Donate Thank You FAQs English Donate Open Menu Close Menu Home About Folder: Our Georgia Back Raising Minimum Wage Environmental Conservation Smart Growth District 139 Maps Blog Endorsements Donate Thank You FAQs English Back Donate Meet Elliot Valdez.
 “We are living in a time of profound change, and with that comes the opportunity to choose our path forward.
 We can either cling to the fading remnants of an old era, or we can seize this moment to build a future worthy of our children.
 I believe in the character of our people.
-Let's choose a future defined by accountable leadership, where we learn from the past, act with integrity in the present, and build a stronger, more unified Georgia for generations to come.”
-Elliot Valdez
-Candidate for Georgia State House, HD 139
-Service isn't just something I learned; it's the family I was born into.
+Let's choose a future defined by accountable leadership, where we learn from the past, act with integrity in the present, and build a stronger, more unified Georgia for generations to come.” Elliot Valdez Candidate for Georgia State House, HD 139 Service isn't just something I learned; it's the family I was born into.
 Raised by a mother and father who both served in the Army, I learned from a young age the meaning of duty, sacrifice, and the profound responsibility of giving back to your country.
 I answered that call myself, beginning a 23-year journey in service to our nation.
 As a Navy Aviation Electronics veteran, I served on the front lines, executing high-risk missions to protect our pilots.
@@ -28,3 +25,6 @@ I'm not a career politician.
 I'm a veteran, a public servant, and a man who knows what it means to get the job done.
 I’m running for the Georgia House of Representatives because I believe our district deserves a leader with the personal courage to stand for what is right.
 It's time to turn the page on the old era of politics and write a new chapter for District 139, one built on trust, unity, and a shared vision for a future where every family can flourish.
+Newsletter and Volunteer Sign-up! make a difference!
+Email: georgia@votevaldezstatehouse.org P.O.
+Box 14 Cataula, GA 31804 Paid for by the Committee to Elect Elliot Valdez

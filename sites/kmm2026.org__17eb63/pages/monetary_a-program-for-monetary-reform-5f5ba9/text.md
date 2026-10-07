@@ -1,18 +1,9 @@
-A PROGRAM FOR MONETARY REFORM
-by
-| Paul H.
-Douglas University of Chicago | Earl J.
-Hamilton Duke University |
-| Irving Fisher Yale University | Willford I.
-King New York University |
-| Frank D.
-Graham Princeton University | Charles R.
-Whittlesey Princeton University |
-| (note: this document has been reformatted by the Kettle Pond Institute without permission of the original authors, to whom we owe the utmost gratitude and admiration for this timeless piece of work.) | |
-| (further note: copied to html format with table of contents) | |
-| A PROGRAM FOR MONETARY REFORM (1939) pdf format | |
-Foreword
-The great task confronting us today is that of making our American system, which we call “democracy”, work.
+A Texan in the 21st Century { Kevin McCormick for Lieutenent Governor; this website is political advertising } Home Campaign-2026 Issues-2026 Transportation Monetary MR-Blog About 2016 Campaign You are here: Home Monetary A Program for Monetary Reform A Program for Monetary Reform Details A PROGRAM FOR MONETARY REFORM by Paul H.
+Douglas University of Chicago Earl J.
+Hamilton Duke University Irving Fisher Yale University Willford I.
+King New York University Frank D.
+Graham Princeton University Charles R.
+Whittlesey Princeton University (note: this document has been reformatted by the Kettle Pond Institute without permission of the original authors, to whom we owe the utmost gratitude and admiration for this timeless piece of work.) (further note: copied to html format with table of contents) A PROGRAM FOR MONETARY REFORM (1939) pdf format Contents Forward Introduction The Gold Standard The Standard of Stable Buying Power The Criteria of Our Monetary Policy Constant – per – Capita Standard Constant-Cost-of-Living-Standard Legislative The Fractional Reserve System The 100% Reserve System How to Establish the 100% Reserve System Government Creation of Money Lending Under the 100% Reserve System The Protection of Banks Banks Under the 100% Reserve System The 100% Reserve System May Be Inevitable Endnotes Foreword The great task confronting us today is that of making our American system, which we call “democracy”, work.
 No one can doubt that it is threatened.
 However, the danger lies less in the propaganda of autocratic Governments from abroad than in the existence, here in America, of ten millions of unemployed workers, sharecroppers living barely at subsistence level, and hundreds of thousands of idle machines.
 On such a soil fascist and communist propaganda can thrive.
@@ -27,27 +18,18 @@ Probably none has had the distinction of suffering so much from general misunder
 As a result, not only is our monetary system now wholly inadequate and, in fact, unable to fulfill its function; but the few reforms which have been adopted during the past three decades have been patchwork, leaving the basic structure still unsound.
 In analyzing this problem, we concluded that it is preeminently the responsibility of American economists to present constructive proposals for its solution.
 But, before organizing a movement for monetary reform, we wished to determine how many of our colleagues agree with us.
-For this purpose we drew up “A Program for Monetary Reform” which, we believe, comprise the essential features of what needs to be done in order to put our monetary system into working condition and sent this to the completest available list of academic economists.
+For this purpose we drew up “ A Program for Monetary Reform ” which, we believe, comprise the essential features of what needs to be done in order to put our monetary system into working condition and sent this to the completest available list of academic economists.
 Up to the date of writing (July, 1939) 235 economists from 157 universities and colleges have expressed their general approval of this “Program”; 40 more have approved it with reservations; 43 have expressed disapproval.
 The remainder have not yet replied.
 We want the American people to know where we stand in this important matter.
 The following is the first draft of an exposition of our “Program”, and the part it may play in reconstructing America.
 Paul H.
-Douglas
-Irving Fisher
-Frank D.
-Graham
-Earl J.
-Hamilton
-Willford I.
-King
-Charles R.
-Whittlesey
-July 1939
-Introduction ^toc
-The following suggested monetary program is put forth not as a panacea or even as a full solution of the depression problem.
-It is intended to eliminate one recognized cause of great depressions, the lawless variability in our supply of circulating medium. [*1]
-No well-informed person would pretend that our present monetary and banking machinery is perfect; this it operates as it should to promote an adequate and continuous exchange of goods and services; that it enables our productive resources — our labor, materials, and capital — to be fully or even approximately employed.
+Douglas Irving Fisher Frank D.
+Graham Earl J.
+Hamilton Willford I.
+King Charles R.
+Whittlesey July 1939 Introduction ^toc The following suggested monetary program is put forth not as a panacea or even as a full solution of the depression problem.
+It is intended to eliminate one recognized cause of great depressions, the lawless variability in our supply of circulating medium. [*1] No well-informed person would pretend that our present monetary and banking machinery is perfect; this it operates as it should to promote an adequate and continuous exchange of goods and services; that it enables our productive resources — our labor, materials, and capital — to be fully or even approximately employed.
 Indeed, the contrary is the fact.
 If the purpose of money and credit were to discourage the exchange of goods and services, to destroy periodically the wealth produced, to frustrate and trip those who work and save, our present monetary system would seem a most effective instrument to that end.
 Practically every period of economic hope and promise has been a mere inflationary boom, characterized by an expansion of the means of payment, and has been followed by a depression, characterized by a detrimental contraction of the means of payment.
@@ -55,31 +37,26 @@ In boom times, the expansion of circulation medium accelerates the pace by raisi
 Thus, with new money raising prices and rising prices conjuring up new money, the inflation proceeds in an upward spiral till a collapse occurs, after which the contraction of our supply of money and credit, with falling prices and losses in place of profits, produces a downward spiral generating bankruptcy, unemployment, and all of other evils of depression.
 The monetary reforms here proposed are intended primarily to prevent these ups and downs in the volume of our means of payment with their harmful influences on business.
 No claim is made, however, that this will entirely do away with “business cycles”.
-The Gold Standard ^toc
-(1) During the last ten years the world has largely given up the gold standard.
+The Gold Standard ^toc (1) During the last ten years the world has largely given up the gold standard.
 Gold is still, and may always remain, an important part of the machinery of foreign trade and exchange.
 But it is no longer, and probably never again will be, the sole reliance for determining the “internal value” of monetary units.
 Even those who advocate some degree of return toward the former gold standard are, as a rule, now convinced that it must be “managed” and never again left to work “automatically”.
 Up to 1931, the great majority of the countries of the world were on the gold standard.
-The characteristic of the gold standard may be briefly summarized as follows:
-(a) The dollar, franc, guilder, or other monetary unit was the equivalent of, and usually was redeemable in, a fixed amount of gold of a certain fineness.
+The characteristic of the gold standard may be briefly summarized as follows: (a) The dollar, franc, guilder, or other monetary unit was the equivalent of, and usually was redeemable in, a fixed amount of gold of a certain fineness.
 For instance, the American dollar was a definite weight of gold (23.22 grains of fine gold).
 This made an ounce of gold 9/10 fine identical with $20.67.
 Conversely, $20.67 was convertible into an ounce of gold of this quality.
 In other words, “one dollar” was roughly a twentieth of an ounce of gold, or precisely 100/2067ths of an ounce.
 After the war, chiefly as a result of a shortage in gold reserves, some of the smaller nations changed their currencies by making them redeemable in some foreign currency which, in turn, was convertible into gold.
 This system was called the gold-exchange standard.
-For these small nations, our dollar, the pound sterling and similar gold currencies, such as the Dutch guilder and the Swiss franc were “as good as gold”.
-(b) Because every gold currency was redeemable in a fixed amount of gold, the exchange relationship of those currencies to each other was to all intents and purposed fixed: That is, the foreign exchange rates of gold-standard currencies were constant, or only varied within extremely narrow limits.
+For these small nations, our dollar, the pound sterling and similar gold currencies, such as the Dutch guilder and the Swiss franc were “as good as gold”. (b) Because every gold currency was redeemable in a fixed amount of gold, the exchange relationship of those currencies to each other was to all intents and purposed fixed: That is, the foreign exchange rates of gold-standard currencies were constant, or only varied within extremely narrow limits.
 A grandiose ideology has been built up on this so-called “stability” of gold-standard currencies.
 The public has been confused and frightened by the cry, “the dollar is falling” or “the French franc is falling”, which simply means falling with reference to gold; whereas it may well have been that the real trouble was that the value of gold was rising with reference to commodities.
 Indeed such was often the case.
 Yet the uninformed public never realized that the so-called “stability” of the golden money had little to do with any stability of buying power over goods and services.
 In fact, the buying power of so-called “stable” gold currencies fluctuated quite violently, because the value of gold itself was changing.
 Perhaps the most vicious feature of the gold standard was that, so long as exchange rates — the price of gold in terms of gold — remained unchanged, the public had a false sense of security.
-In order to maintain this misleading “stability” of gold and exchange rates, the “gold bloc” nations periodically made terrific sacrifices which not only destroyed their prosperity, and indeed brought them to the brink of bankruptcy, but ultimately destroyed the gold standard itself.
-(c) In order to assure the redemption of national currencies in gold, the central banks were accustomed to maintain, behind their note issues, a reserve of upwards of forty per cent in gold or gold exchange.
-(d) The extent of gold movements under this system led the central banks to regulatory action.
+In order to maintain this misleading “stability” of gold and exchange rates, the “gold bloc” nations periodically made terrific sacrifices which not only destroyed their prosperity, and indeed brought them to the brink of bankruptcy, but ultimately destroyed the gold standard itself. (c) In order to assure the redemption of national currencies in gold, the central banks were accustomed to maintain, behind their note issues, a reserve of upwards of forty per cent in gold or gold exchange. (d) The extent of gold movements under this system led the central banks to regulatory action.
 For instance, if large amounts of gold began to vanish from a central bank, either to pay for a surplus of commodity imports or by way of withdrawals for speculative purposes, the banks among other things raised interest rates in order to discourage borrowing from it and thus put a stop to gold withdrawals.
 Thus the disappearance of gold from the banks led them automatically to take deflationary action; for it curtailed the volume of bank credit outstanding.
 This feature of gold-standard machinery, in most cases, worked efficiently enough to its end.
@@ -98,8 +75,7 @@ The Tri-Partite Agreement, concluded in 1936 by England, France, and ourselves �
 The point here, however, is that we need not wait for international agreements in order to attack our domestic monetary problems.
 But now that the central banks no longer operate according to the old rules of the gold standard, how do they determine their monetary policies?
 What “standard” has replaced the gold standard?
-The Standard of Stable Buying Power ^toc
-(2) Several of the leading nations now seek to keep their monetary units reasonably stable in internal value or buying power and to make their money supply fit the requirements of production and commerce.
+The Standard of Stable Buying Power ^toc (2) Several of the leading nations now seek to keep their monetary units reasonably stable in internal value or buying power and to make their money supply fit the requirements of production and commerce.
 In the determination of a nation’s monetary policy, the needs of its domestic economy have taken the place of the arbitrary rules of the gold standard.
 After the experience of the past decade, it is improbable that many countries will want to give their currencies arbitrary gold values at the cost of domestic deflation and depression.
 At present healthy domestic economic conditions are generally given precedence over the maintenance of a fixed money value of gold.
@@ -116,10 +92,8 @@ At the same time, these countries have made conscious use of monetary policy as 
 They have been so successful as to have practically eliminated unemployment, to have raised their production figures to new peaks, and to have improved steadily the scale of living of their people.
 (4) Our own monetary policy should likewise be directed toward avoiding inflation as well as deflation, and in attaining and maintaining as nearly as possible full production and employment.
 There is ample evidence that the Roosevelt Administration once had every intention of managing our money on these principles.
-As early as Jul 3, 1933, in his famous message to the London Economic Conference, President Roosevelt declared:
-“ … old fetishes of so-called international bankers are being replaced by efforts to plan national currencies with the objective of giving those currencies a continuing purchasing power which does not greatly vary in terms of commodities and the need of modern civilization.
-“Let me be frank in saying that the United States seeks the kind of dollar which a generation hence will have the same purchasing and debt-paying power as the dollar value we hope to attain in the near future … ”
-This was definite notice to the assembled financial representatives of the world’s nations that the United States had abandoned the gold standard and adopted in its place a policy of dollar management designed to keep the dollar’s buying power constant.
+As early as Jul 3, 1933, in his famous message to the London Economic Conference, President Roosevelt declared: “ … old fetishes of so-called international bankers are being replaced by efforts to plan national currencies with the objective of giving those currencies a continuing purchasing power which does not greatly vary in terms of commodities and the need of modern civilization.
+“Let me be frank in saying that the United States seeks the kind of dollar which a generation hence will have the same purchasing and debt-paying power as the dollar value we hope to attain in the near future … ” This was definite notice to the assembled financial representatives of the world’s nations that the United States had abandoned the gold standard and adopted in its place a policy of dollar management designed to keep the dollar’s buying power constant.
 In several talks during 1933, the President reaffirmed this principle of a “managed currency”.
 However, some people saw danger of arbitrary changes in the gold content of the dollar and feared that the discretionary powers of the President would serve as a disturbing influence.
 Apparently the President was influenced by those views, hence after fixing the new gold content of the dollar on January 31, 1934, he has allowed it to remain unchanged.
@@ -138,19 +112,16 @@ Lastly, our 15,000 commercial banks affect the value of the dollar by expanding,
 Our monetary system is thus permeated with discretionary powers.
 But there is no unity about it, no control, and, worst of all, no proscribed policy.
 In a word, there is no mandate based on a definite principle.
-The Criteria of Our Monetary Policy ^toc
-(5) We should set up certain definite criteria according to which our monetary policy should be carried out.
+The Criteria of Our Monetary Policy ^toc (5) We should set up certain definite criteria according to which our monetary policy should be carried out.
 Up to the present time Congress has merely given our monetary agencies certain broad powers, with no explicit directions as to how those powers should be used.
 Today we have no clear and definite standard by which to measure success or failure and, consequently, there is no way by which we can tell clearly and definitely whether the diverse agencies are giving us the best service they can.
 For instance, our most powerful monetary agency, the Board of Governors of the Federal Reserve System, proceeds on the basis of a broad statement of general principles, which it published in September, 1937.
 This is not the law, but merely an expression of opinion on the part of the members of the Board as to what they, at that particular time, thought they ought to do.
 There is no compulsion about it.
 It is not binding on the Board itself.
-It said:
-“ … Board believes that economic stability rather than price stability should be the general objective of public policy.
+It said: “ … Board believes that economic stability rather than price stability should be the general objective of public policy.
 It is convinced that this objective cannot be achieved by monetary policy alone, but that the goal should be sought through coordination of monetary and other major policies of the Government which influence business activity, including particularly policies with respect to taxation, expenditures, lending, foreign trade, agriculture and labor.
-“It should be the declared objective of the Government of the United States to maintain economic stability and should be the recognized duty of the Board of Governors of the Federal Reserve System to use all its powers to contribute to a concerted effort by all agencies of the Government toward the attainment of this objective.”*
-As mentioned before, the maintenance of a substantially constant buying power of the Swedish and Finnish currencies is not inconsistent with the establishment and maintenance of prosperous economic conditions.
+“It should be the declared objective of the Government of the United States to maintain economic stability and should be the recognized duty of the Board of Governors of the Federal Reserve System to use all its powers to contribute to a concerted effort by all agencies of the Government toward the attainment of this objective.”* As mentioned before, the maintenance of a substantially constant buying power of the Swedish and Finnish currencies is not inconsistent with the establishment and maintenance of prosperous economic conditions.
 On the other hand, there is no record of any experience of sustained economic equilibrium without some degree of price-level stability.
 In a general way, however, the Board’s declaration conformed to the general principles of monetary stability enunciated by President Roosevelt in 1933, although the President was much more specific than the Board in mentioning the objective of “stable buying power.” The Board declared emphatically what it believed it could not do.
 As to what is could do, or intended to do, it made, at best, only a vague statement.
@@ -166,17 +137,12 @@ That is, unless we tell one single responsible Monetary Authority exactly what i
 When there is no definite direction in the law, the Monetary Authority (**) cannot possibly function as a united body, but will make decisions under the ever-varying domination of different interests and different personalities.
 This vacillation cannot be avoided, and, in the past, it has been one of the weak points in the operation of the Federal Reserve System.
 Mr.
-Adolph Miller, a member of the Federal Reserve Board for twenty years, brought this weakness to light on the occasion of a Congressional Hearing:
-“I have in mind, vaguely, whatever happens to be the dominant influence in the Federal Reserve System, and that is expressing itself in the line of policy undertaken.
+Adolph Miller, a member of the Federal Reserve Board for twenty years, brought this weakness to light on the occasion of a Congressional Hearing: “I have in mind, vaguely, whatever happens to be the dominant influence in the Federal Reserve System, and that is expressing itself in the line of policy undertaken.
 It may today be this individual or group; tomorrow it may be another.
 But wherever any important line of action or policy is taken there will always be found some one or some group whose judgment and whose will is the effective thing in bringing about the result.
-There’s the ear which does the hearing of the system.”[*2]
-This uncertain condition is one which a law could and should make impossible.
-Constant — per—Capita Standard ^toc
-(7) Among the possible standards to which the dollar could be made to conform are those which could be obtained by the two following methods:
-(a) Establish a constant-average-per-capita supply or volume of circulating medium, including both “pocket-book money” and “check-book money” (that is, demand deposits or individual deposits subject to check).
-One great advantage of this “constant-per-capita-money” standard is that it would require a minimum of discretion on the part of the Monetary Authority.
-(b) Keep the dollar equivalent to an ideal “market basket dollar”, similar to Sweden’s market basket krona.
+There’s the ear which does the hearing of the system.” [*2] This uncertain condition is one which a law could and should make impossible.
+Constant — per—Capita Standard ^toc (7) Among the possible standards to which the dollar could be made to conform are those which could be obtained by the two following methods: (a) Establish a constant-average-per-capita supply or volume of circulating medium, including both “pocket-book money” and “check-book money” (that is, demand deposits or individual deposits subject to check).
+One great advantage of this “constant-per-capita-money” standard is that it would require a minimum of discretion on the part of the Monetary Authority. (b) Keep the dollar equivalent to an ideal “market basket dollar”, similar to Sweden’s market basket krona.
 This market basket dollar would consist of a representative assortment of consumer goods in the retail markets (so much food, clothing, etc.), thus constituting the reciprocal of an index of the cost of living.
 Under this “constant-cost-of-living” standard the Monetary Authority would, however, as has been found in Sweden, have to observe closely the movements of other, more sensitive indexes, with a view to preventing the development of disequilibrium as between sensitive and insensitive prices.
 Under the former of those two arrangements all the Monetary Authority would have to do would be to ascertain the amount of circulating medium in active circulation, and whatever amount of circulating medium seemed necessary to keep unchanged the amount of money per head of population.
@@ -189,9 +155,7 @@ This ratio is alleged to be approximately 3 of income to 1 of circulating medium
 If this is true, a constant-per-capita volume of circulating medium would be substantially the equivalent of a constant per capita money income.
 In other words, we could keep per capita money income stable by keeping constant the per capita volume of circulating medium.
 One consequence of this would be that technological improvements, resulting in an increase in the national real income, would not change the national money income but, as real income increased, the price level would fall.
-Some authorities regard prices falling, to some extent at least, with technological improvements, as a proper result of a successful monetary policy. [*3]
-Constant-Cost-of-Living-Standard ^toc
-The constant-per-capita criterion for the volume of money is only one of several possible criteria.
+Some authorities regard prices falling, to some extent at least, with technological improvements, as a proper result of a successful monetary policy. [*3] Constant-Cost-of-Living-Standard ^toc The constant-per-capita criterion for the volume of money is only one of several possible criteria.
 The alternative most often suggested is the “constant-cost-of-living”, or “market basket”, standard as outlined in (b) above.
 The experience of Sweden during the past eight years shows that, with the help of monetary management, it is possible to maintain at a substantially constant level the consumer buying power of a currency.
 This stability in Sweden has not prevented a readjustment in the prices of farm products, and other raw materials, which had fallen to unduly low levels.
@@ -210,20 +174,14 @@ Essentially, however, the purpose of any monetary standard is to standardize the
 To furnish a dependable standard of value should therefore be the only requirement of monetary policy.
 It would be fatal if the public were led to believer that the Monetary Authority, solely through monetary manipulations, were able to assure the maintenance of prosperity, and should therefore be made responsible for it.
 Any such assumption would probably mean the demise of the Monetary Authority in the first period of adversity.
-Legislative ^toc
-Feature A
-(8) In order that our monetary policy may be made to conform to the new standard and become the means of attaining a high degree of prosperity and stability, legislation should be enacted, embodying the following features:
-(a) There should be constituted a “Monetary Authority” clothed with carefully defined powers over the monetary system of the country, including the determination of the volume of circulating medium.
-That is, the “Monetary Authority” would become the agent of Congress in carrying out its function as set forth in the Constitution, Article I, Section 8, — “to coin Money, regulate the value therof, and of foreign Coin...”
-This Monetary Authority would receive all the powers necessary To “regulate” — in particular, the power to determine — the value of circulating medium and the domestic and foreign value of the dollar.
+Legislative ^toc Feature A (8) In order that our monetary policy may be made to conform to the new standard and become the means of attaining a high degree of prosperity and stability, legislation should be enacted, embodying the following features: (a) There should be constituted a “Monetary Authority” clothed with carefully defined powers over the monetary system of the country, including the determination of the volume of circulating medium.
+That is, the “Monetary Authority” would become the agent of Congress in carrying out its function as set forth in the Constitution, Article I, Section 8, — “to coin Money, regulate the value therof, and of foreign Coin...” This Monetary Authority would receive all the powers necessary To “regulate” — in particular, the power to determine — the value of circulating medium and the domestic and foreign value of the dollar.
 All of the miscellaneous powers now scattered around the Federal Reserve Board, the Secretary of the Treasury, the President and others would have to be transferred to this one central Monetary Authority.
-Feature B
-(b) Congress should give to this Monetary Authority a mandate specifying the monetary standard, to maintain which these powers would be exercised.
+Feature B (b) Congress should give to this Monetary Authority a mandate specifying the monetary standard, to maintain which these powers would be exercised.
 The mandate should also define the part which monetary policy would play in attaining the objective of steadily increasing prosperity.
 Not only would such a mandate cause the Monetary Authority to use all of its powers for the purpose of attaining the standard set by Congress; but it would also prevent the abuse of those powers.
 The Monetary Authority would then have a definite standard to attain and maintain.
-Feature C
-(c) The Monetary Authority might be the Federal Reserve Board or another body associated therewith.
+Feature C (c) The Monetary Authority might be the Federal Reserve Board or another body associated therewith.
 It should be kept free from any political or other influences and interests which might tend to interfere with the performance of its functions.
 Its primary concern should be the maintenance of the monetary standard as defined by Congress.
 This standard and the means of maintaining it should be so narrowly defined by Congress as to leave only a minimum of discretion to the Monetary Authority.
@@ -233,8 +191,7 @@ Politics, as well as the pressure of interested financial groups, should be rule
 The members should be selected solely on the basis of their fitness for the job and should be subject to removal by Congress for acting in opposition to the mandate laid down by it.
 The Monetary Authority should, of course, have the widest possible discretion with respect to the methods it might find most suitable for attaining the objectives laid down in the mandate.
 That is, it should be absolutely free to use any or all of its powers over money and the banks according to its own best judgment; but, as has been stressed before, the Monetary Authority should not be free to deviate from the mandate given to it by Congress.
-Feature D
-(d) Neither the President nor the United States Treasury nor any other agency of the Government should have power to alter the volume of circulating medium.
+Feature D (d) Neither the President nor the United States Treasury nor any other agency of the Government should have power to alter the volume of circulating medium.
 That is, none of them should have the power to issue Green-backs, whether to meet the fiscal needs of the Government or for any other purpose.
 They should not have the power to change the price of gold or the weight of the gold dollar either to increase the cash or the Government or for any other purpose.
 Any discretionary powers along these lines now possessed by the President or the Secretary of the Treasury should be repealed and such of them as may be necessary for controlling the volume of money, including the power of gold sterilization, should be transferred to the Monetary Authority.
@@ -245,8 +202,7 @@ But once Congress has established a Monetary Authority and given it a mandate, n
 There is less danger in giving to a Monetary Authority of the type described above any or all of the powers necessary to control our monetary system, than there is in the present system under which wide discretionary powers are assigned to several agencies with more or less conflicting interests and with inadequate instructions to any of them concerning the use of them.
 The Monetary Authority should be instructed to cooperate with non-monetary agencies in its endeavors to promote stability.
 This policy should include, in particular, cooperation with the Secretary of the Treasury, but the independence of the Monetary Authority must be scrupulously safeguarded.
-The Fractional Reserve System ^toc
-(9) A chief loose screw in our present American money and banking system is the requirement of only fractional reserves behind demand deposits.
+The Fractional Reserve System ^toc (9) A chief loose screw in our present American money and banking system is the requirement of only fractional reserves behind demand deposits.
 Fractional reserves give our thousands of commercial banks power to increase or decrease the volume of our circulating medium by increasing or decreasing bank loans and investments.
 The banks thus exercise what has always, and justly, been considered a prerogative of sovereign power.
 As each bank exercises this power independently without any centralized control, the resulting changes in the volume of the circulating medium are largely haphazard.
@@ -273,8 +229,7 @@ It is this over-lend and over-liquidate factor that tends to accentuate booms an
 It is this system which permits, and practically compels, the banks to lend and owe five times as much money as they must have on hand if they are to survive in the competitive struggle, which causes much of the trouble.
 Despite these inherent flaws in the fractional reserve system, a Monetary Authority could unquestionably, by wise management, give us a far more beneficial monetary policy than the Federal Reserve Board has done in the past.
 But the task would be much simplified if we did away altogether with the fractional reserve system; for it is this system which makes the banking system so vulnerable.
-The 100% Reserve System ^toc
-(10) Since the fractional reserve system hampers effective control by the Monetary Authority over the volume of our circulating medium it is desirable that any bank or other agency holding deposits subject to check (demand deposits) be required to keep on hand a dollar of reserve for every dollar of such deposit, so that, in effect, deposits subject to check actually represent money held by the bank in trust for the depositor.
+The 100% Reserve System ^toc (10) Since the fractional reserve system hampers effective control by the Monetary Authority over the volume of our circulating medium it is desirable that any bank or other agency holding deposits subject to check (demand deposits) be required to keep on hand a dollar of reserve for every dollar of such deposit, so that, in effect, deposits subject to check actually represent money held by the bank in trust for the depositor.
 With such a dollar-for-dollar backing, the money that the bank promised to furnish would actually be in the bank.
 That is, with the requirement of a 100% reserve, demand deposits subject to check would actually become deposits of money, and no longer be merely the bankers’ debts.
 If, today, those who think they have money in the bank should all ask for it, they would, of course, quickly find that the money is not there and that the banks could not meet their obligations.
@@ -285,9 +240,7 @@ Afterward, the bankers began to lend some this specie, though it belonged not to
 The same thing happened in the public banks of deposit at Venice, Amsterdam, and other cities, and the London goldsmiths of the Seventeenth century found that handsome profits would accrue from lending out other people’s money, or claims against it – a practice which, when first discovered by the public, was considered to be a breach of trust.
 But what thus began as a breach of trust has now become the accepted and lawful practice.
 Nevertheless, the practice is incomparably more harmful today than it was centuries ago, because, with increased banking, and the increased pyramiding now practiced by banks, it results in violent fluctuations in the volume of the circulating medium and in economic activity in general.
-How to Establish the 100% Reserve System ^toc
-(11) The following are two of several methods of introducing, or rather reintroducing, the 100% reserve system:
-(a) The simplest method of making the transition from fractional to 100% reserves would be to authorize the Monetary Authority to lend, without interest, to every bank or other agency carrying demand deposits, sufficient cash (Federal Reserve notes, other Federal Reserve credit, United States notes, or other lawful money) to make the reserve of each bank equal to its demand deposits.
+How to Establish the 100% Reserve System ^toc (11) The following are two of several methods of introducing, or rather reintroducing, the 100% reserve system: (a) The simplest method of making the transition from fractional to 100% reserves would be to authorize the Monetary Authority to lend, without interest, to every bank or other agency carrying demand deposits, sufficient cash (Federal Reserve notes, other Federal Reserve credit, United States notes, or other lawful money) to make the reserve of each bank equal to its demand deposits.
 The present situation would be made the starting point of the 100% reserve system by simply lending to the banks whatever money they might need to bring the reserves behind their demand deposits up to 100%.
 While this money might largely be newly issued for the occasion – for example, newly issued Federal Reserve notes – it would not inflate the volume of anything that can circulate.
 It would merely change the nature of the reserves behind the money that circulates.
@@ -301,28 +254,10 @@ The power of the banks either to increase or decrease, that is, to inflate or de
 The banks’ so-called “excess reserves” would disappear, and with them one of the most potent sources of possible inflation.
 At present, because of the fractional reserve system, the banks could conceivably, on the basis of their enormous excess reserves, inflate their demand deposits by about twenty billion dollars.
 The Federal Reserve Board’s present powers are inadequate to fully control this situation.
-The Board realized this danger when it stated, in its Annual Report for 1938:
-“The ability of the banks greatly to expand the volume of their credit without resort to the Federal Reserve banks would make it possible for a speculative situation to get under way that would be beyond the power of the system to check or control.
-The Reserve System would, therefore, be unable to discharge the responsibility placed upon it by Congress or to perform the service that the country rightly expects form it.”
-Moreover, the Board’s present machinery is so clumsy that almost any attempt to counteract a threat of inflation might produce deflation.
-(b) A second method of making the transition would be to let each bank count as cash reserve up to a specified maximum, its United States Government bonds (reckoned at par), and to provide for their conversion into cash by the Government on the demand of the bank.
+The Board realized this danger when it stated, in its Annual Report for 1938: “The ability of the banks greatly to expand the volume of their credit without resort to the Federal Reserve banks would make it possible for a speculative situation to get under way that would be beyond the power of the system to check or control.
+The Reserve System would, therefore, be unable to discharge the responsibility placed upon it by Congress or to perform the service that the country rightly expects form it.” Moreover, the Board’s present machinery is so clumsy that almost any attempt to counteract a threat of inflation might produce deflation. (b) A second method of making the transition would be to let each bank count as cash reserve up to a specified maximum, its United States Government bonds (reckoned at par), and to provide for their conversion into cash by the Government on the demand of the bank.
 This method of transition would be particularly easy today, because the banks already hold nearly enough cash and Government bonds to fulfill the proposed 100% reserve requirement.
-According to the Report of the Federal Deposit Insurance Corporation, the country’s insured banks had on December 31, 1938:
-| Expressed in 1,000 Dollar Units | | | |
-|---|---|---|---|
-| ASSETS (which might serve as reserve behind demand deposits) | | | |
-| Coin and Currency | 950,394 | | |
-| Less three per cent cash reserve Requirement behind time deposits Of $14,829,482 | 444,885 | | 505,509 |
-| Reserves with Federal Reserve banks | | | 8,694,388 |
-| Cash items in process of collection | | | 1,813,703 |
-| Government obligations (direct or fully guaranteed) | | | 14,506,807 |
-| | | | 25,520,407 |
-| LIABILITIES (subject to 100% reserve requirement) | | | |
-| Demand Deposits* | 27,695,506 | | |
-| Excess of interbank deposits over interbank balances | 1,536,088 | | |
-| | | | 29,231,594 |
-| Requirement of new money or U.S. bonds to put the Demand deposits of the present commercial insured Banks [4] on a 100% reserve basis | | | $ 3,711,157 |
-Thus, under the proposed arrangement, the banks would need only $3.7 billions of new cash or Government bonds to satisfy a 100% reserve requirement.
+According to the Report of the Federal Deposit Insurance Corporation, the country’s insured banks had on December 31, 1938: Expressed in 1,000 Dollar Units ASSETS (which might serve as reserve behind demand deposits) Coin and Currency 950,394 Less three per cent cash reserve Requirement behind time deposits Of $14,829,482 444,885 505,509 Reserves with Federal Reserve banks 8,694,388 Cash items in process of collection 1,813,703 Government obligations (direct or fully guaranteed) 14,506,807 25,520,407 LIABILITIES (subject to 100% reserve requirement) Demand Deposits* 27,695,506 Excess of interbank deposits over interbank balances 1,536,088 29,231,594 Requirement of new money or U.S. bonds to put the Demand deposits of the present commercial insured Banks [4] on a 100% reserve basis $ 3,711,157 Thus, under the proposed arrangement, the banks would need only $3.7 billions of new cash or Government bonds to satisfy a 100% reserve requirement.
 We could, therefore, today introduce the 100% reserve system and stabilize our banking situation, without causing any very disturbing changes in bank earnings from interest on federal bonds.
 While, under the plan proposed, those new funds would be distributed among banks automatically, as needed, to raise reserves, in practice almost three-fourths of the required new money would be needed at this time by the large banks in New York, which function as the “bankers’ banks” for the small country banks.
 For New York State alone, “interbank deposits” exceeded “interbank balances” by $2.8 billions (December 31, 1938).
@@ -332,8 +267,7 @@ The Federal Reserve Board has repeatedly considered taking this step, and it has
 The amount of Government bonds that the banks would be permitted to hold on their own volition, as part of their reserve behind demand deposits, should be limited to the amount they hold on the day when the 100% reserve requirement went into effect.
 As to any future additions to that volume (or subtractions from it as the bonds matured) the Monetary Authority would decide from time to time solely on the basis of the legal criterion of stability under which it was operating.
 The banks would be permitted to sell their reserve bonds to the Monetary Authority at any time, thus converting their reserves into cash.
-Government Creation of Money ^toc
-(12) Under a 100% requirement, the Monetary Authority would replace the banks as the manufacturer of our circulating medium.
+Government Creation of Money ^toc (12) Under a 100% requirement, the Monetary Authority would replace the banks as the manufacturer of our circulating medium.
 As long as our population and trade continue to increase, there will, in general, be a need for increasing the volume of money in circulation.
 The Monetary Authority might satisfy this need by purchasing and retiring Government bonds with new money.
 This process would operate to reduce the Government debt.
@@ -366,8 +300,7 @@ In early times, the creation of money was the sole privilege of the kings or oth
 This principle is firmly anchored in our Constitution and it is a perversion to transfer the privilege to private parties to use in their own real, or presumed, interest.
 The founders of the Republic did not expect the banks to create the money they lend.
 John Adams, when President, looked with horror upon the exercise of control over our money by the banks.
-Lending Under the 100% Reserve System ^toc
-(13) The 100% reserve requirement would, in effect, completely separate from banking the power to issue money.
+Lending Under the 100% Reserve System ^toc (13) The 100% reserve requirement would, in effect, completely separate from banking the power to issue money.
 The two are now disastrously interdependent.
 Banking would become wholly a business of lending and investing pre-existing money.
 The banks would no longer be concerned with creating the money they lend or invest, though they would still continue to be the chief agencies for handling and clearing checking accounts.
@@ -404,8 +337,7 @@ The question has been raised, whether, under the 100% system, the banks would no
 Might not the banks refuse to lend out their own money and the money saved by the community, and thus inevitably cause a shrinkage in the volume of actively circulating money?
 The answer is that, if such hoarding should occur, the Monetary Authority could readily offset it by putting new money into circulation.
 But the likelihood that the banks would wish to hoard money on which they have to pay interest or dividends is not very great.
-The Protection of Banks ^toc
-(14) While there would be no restrictions on the transfer and withdrawal of checking deposits, withdrawals from time or savings deposits (including Postal Savings) should be restricted and subject to adequate notice.
+The Protection of Banks ^toc (14) While there would be no restrictions on the transfer and withdrawal of checking deposits, withdrawals from time or savings deposits (including Postal Savings) should be restricted and subject to adequate notice.
 Only thus may the bankers ever feel safe in long term investing.
 Under the 100% reserve system, demand deposits of checking deposits, being the equivalent of cash, would be withdrawable or transferable without any restrictions whatever.
 The cash would belong to the depositor, and ought to be ready at his beck and call.
@@ -470,8 +402,7 @@ A primary object was to prohibit wild-cat issues of bank notes.
 Though we have stopped the issuance of these, the creation of demand deposits has circumvented the prohibition.
 The wild-cat is now represented by demand deposits.
 The 100% reserve system would give holders of deposits the same protection earlier given holders of bank notes.
-Banks Under the 100% Reserve System ^toc
-(16) Lest anyone think that the 100% reserve system would be injurious to the banks, it should be emphasized that the banks would gain, quite as truly as the Government and the people in general.
+Banks Under the 100% Reserve System ^toc (16) Lest anyone think that the 100% reserve system would be injurious to the banks, it should be emphasized that the banks would gain, quite as truly as the Government and the people in general.
 Government control of the money supply would save the banks from themselves — from the uncoordinated action of some 15,000 independent banks, manufacturing and destroying our check-book money in a haphazard way.
 With the new steadiness in supplying the nation’s increasing monetary needs, and with the consequent alleviation of severe depressions, the people’s savings would, in all probability, accumulate more rapidly and with less interruption than at present.
 Loans and investments would become larger and safer, thus swelling the total business of banks.
@@ -487,10 +418,8 @@ However, as business continued to increase, there would be greater demands for t
 The banks might then be pressed to find additional income to compensate them for the additional work required.
 They would presumably be able to obtain this income through service charges.
 According to the “Service Charge Survey of 1938” of the Bank Management Commission of the American Bankers Association, service charges are “a first essential to safe and sound banking.” In this Survey, an analysis of earnings from service charges in 1937 reveals that, while those service charges amounted to only 4.5 per cent of the total gross earnings of commercial banks, yet, in a number of instances, they actually make all the difference between profit and loss.
-As to the soundness of this principle of service charges, the following may be quoted from the Survey:
-“Principles of sound bank management justify service charges on checking accounts.
-The principle that adequate service charges constitute a necessary step in sound banking operation has been firmly established.”
-Another important point is that, if the 100% system were adopted for demand deposits, the expenses of the demand-deposit branch of the business would be decreased, for it would become merely a business of warehousing cash and the Government bonds initially held and of recording the checking transactions.
+As to the soundness of this principle of service charges, the following may be quoted from the Survey: “Principles of sound bank management justify service charges on checking accounts.
+The principle that adequate service charges constitute a necessary step in sound banking operation has been firmly established.” Another important point is that, if the 100% system were adopted for demand deposits, the expenses of the demand-deposit branch of the business would be decreased, for it would become merely a business of warehousing cash and the Government bonds initially held and of recording the checking transactions.
 As to federal regulation of the activities of commercial banks, what we need is not more, but less, of it.
 At present, banking operations are complicated and impeded by conflicting regulations and controls.
 Three separate Government agencies now send their examiners into banks.
@@ -518,9 +447,7 @@ Government and other bonds.
 This may wreck many banks now holding large amounts of the bonds.
 Under 100% reserves, however, the banks would have a special need for the bonds as a sort of interest-bearing cash against their deposits and solely for the revenue they yield so that their value could not fall.
 The other peril is that the three billions of “baby bonds” in the hands of the public, redeemable at par on demand, may be presented for redemption and embarrass the Government.
-The 100% Reserve System May Be Inevitable ^toc
-(17) There are two forces now at work which are tending silently but powerfully to compel the adoption of the 100% reserve plan:
-(a) Short-term commercial loans and liquid bankable investments other than Government bonds are no longer adequate to furnish a basis for our chief medium of exchange (demand deposits) under the fractional reserve system.
+The 100% Reserve System May Be Inevitable ^toc (17) There are two forces now at work which are tending silently but powerfully to compel the adoption of the 100% reserve plan: (a) Short-term commercial loans and liquid bankable investments other than Government bonds are no longer adequate to furnish a basis for our chief medium of exchange (demand deposits) under the fractional reserve system.
 Capital loans are inappropriate for this purpose.
 As time goes on this inadequacy will grow far worse.
 Under the present fractional reserve system, the only way to provide the nation with circulating medium for its growing needs is to add continually to our Government’s huge bonded debt.
@@ -547,8 +474,7 @@ Business has developed methods of its own for financing its operations without b
 It has added to its cash reserves, and has obtained additional resources, not by borrowing from the banks, but by offering investments directly to the public.
 Hence the natural trend seems to be toward less and less, rather than more and more, commercial banks.
 Thus it seems that the bottom has been knocked out of the original basis underlying our circulating medium.
-In short, we cannot now depend on short-term bank loans for furnishing us the money we need.
-(b) As already noted, a by-product of the 100% reserve system would be that it would enable the Government gradually to reduce its debt, through purchases of Government bonds by the Monetary Authority as new money was needed to take care of expanding business.
+In short, we cannot now depend on short-term bank loans for furnishing us the money we need. (b) As already noted, a by-product of the 100% reserve system would be that it would enable the Government gradually to reduce its debt, through purchases of Government bonds by the Monetary Authority as new money was needed to take care of expanding business.
 Under the fractional reserve system any attempt to pay off the Government debt, whether by decreasing Government expenditures or by increasing taxation, threatens to bring about deflation and depression.
 Some competent observers think that the two forces above noted will eventually compel the adoption of the 100% plan, even if no other powerful forces should be at work.
 A slow reduction of the Government debt might be made an incidental by-product of the Government method of increasing our circulating medium.
@@ -563,9 +489,13 @@ It is probably no accident that the world depression coincided with the destruct
 In most every case where liberal government broke down, the money system, amongst other disturbing elements, had broken down first.
 That free exchange of goods and services on which people in industrial countries depend for their very existence had stopped functioning; and, in utter desperation, the people were willing to hand over their liberties for the promise of economic security.
 In this manner the decline of democracy has set in elsewhere, and unless we take intelligent action, it may happen here.
-ENDNOTES ^toc
-[1] This and the subsequent closely printed paragraphs are quoted with minor alterations from the mimeographed “Program for Monetary Reform”, circulated among economists as explained in the foreword.
-[2] * See page 165 of the Hearings ??
-II.?.11806, 1928
-[3] * Professors Douglas and King do not approve of this criterion.
-[4] * Including demand deposits of individuals, partnerships, corporations, the United States Government, and States and their political subdivisions; and also cash letter of credit, certified, travelers’, and officers’ checks outstanding, and amounts due Federal Reserve Banks.
+ENDNOTES ^toc [1] This and the subsequent closely printed paragraphs are quoted with minor alterations from the mimeographed “Program for Monetary Reform”, circulated among economists as explained in the foreword. [2] * See page 165 of the Hearings ??
+II.?.11806, 1928 [3] * Professors Douglas and King do not approve of this criterion. [4] * Including demand deposits of individuals, partnerships, corporations, the United States Government, and States and their political subdivisions; and also cash letter of credit, certified, travelers’, and officers’ checks outstanding, and amounts due Federal Reserve Banks.
+Previous article: How to Spend a Trillion Dollars Prev Next article: The Conquest of Poverty or Money, Humanity and Christianity Next Help the Campaign Campaign Donations Business Card Campaign Contact Texas Tribune RSS Independent news.
+Trusted by Texans.
+Texas comptroller investigating spending in Austin ISD, other districts Texas governor 2026: Who is running and what to know U.S.
+Right to Know RSS Pursuing truth and transparency for public health FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Hormone-disrupting chemical mixtures linked to excess childhood weight FOI documents on origins of Covid-19, gain-of-function research and biolabs Green Social Thought RSS Produce less.
+Distribute it fairly.
+Create a greener world for all.
+U.S.
+Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade Reflections on academic tenure prompted by events at The New School Reporting Texas RSS News and features from UT-Austin's School of Journalism Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica EnvironmentAmerica -- Texas RSS RELEASE: Gas power plant proposals surging, new interactive map shows Data center moratorium now Texas Farm Bureau RSS Trump signs order that expands access to tax-exempt diesel Students discuss ag issues during 2026 SOFA Challenge Farmers call for federal diesel price relief

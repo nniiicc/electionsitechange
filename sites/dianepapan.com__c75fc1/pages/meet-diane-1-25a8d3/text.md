@@ -1,7 +1,6 @@
-top of page
-Meet Diane
-Deputy Mayor Diane Papan offers the visionary, effective leadership we all rely on in extraordinarily challenging and dynamic times.
+top of page HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items.
+DONATE Meet Diane Deputy Mayor Diane Papan offers the visionary, effective leadership we all rely on in extraordinarily challenging and dynamic times.
 A recognized regional leader, Diane champions our local interests at the City & County Association of Governments, Council of Cities, 101 Express Lanes Joint Powers Authority, and Flood & Sea Level Rise Resiliency Board – where she advocates for regional disaster preparedness, traffic relief to maintain our clean air, and maintaining safe communities and neighborhoods for residents from all walks of life.
 As your Assemblymember, Diane will invest in game-changing strategies to address climate change, neighborhood safety and wildfire prevention, accessible, quality healthcare services, affordable home ownership, and access to amazing public schools and college programs to every Californian.
-A graduate of UCLA and Hastings Law School, Diane and her husband Dan are proud parents of a teenage daughter.
-bottom of page
+A graduate of UCLA and Hastings Law School, Diane and her husband Dan are proud parents of a teenage daughter. $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Contribute to Diane Papan's Campaign Make a contribution to Diane Papan's election campaign. $# HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items. © PAPAN FOR ASSEMBLY # 5445 Madison Ave Sacramento CA 95841 | FPPC ID 1477408 Join Team Papan bottom of page

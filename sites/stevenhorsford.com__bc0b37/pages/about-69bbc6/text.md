@@ -1,4 +1,5 @@
-I've Been Fighting for Nevada My Whole Life.
+Skip to content The road to a Democratic House majority runs through Nevada.
+Hold the Line Meet Steven Priorities Meet Steven Priorities Facebook Instagram X-twitter Youtube Volunteer Donate Home Meet Steven Priorities Volunteer Donate Home Meet Steven Priorities Volunteer Donate Facebook Instagram X-twitter Youtube Meet Steven Meet Steven I've Been Fighting for Nevada My Whole Life.
 This Is Just the Next Round.
 I grew up in Las Vegas, the son of a single immigrant mother.
 Growing up, I worked whatever jobs I could find — delivering newspapers, making pizzas, cleaning up a veterinary clinic after hours — all to help my mom keep the family together and make sure my younger siblings were taken care of.
@@ -21,10 +22,15 @@ Of 435 members of Congress, only 41 serve on Ways & Means, and I serve on both t
 Every vote, every hearing, and every bill traces back to the same instinct I developed long before I ever held office.
 That when your community is depending on you, you show up and you get results.
 That’s what my upbringing taught me, and that’s what I bring to Congress every single day.
-Why This Seat Matters in 2026
-The road to a Democratic House majority runs through Nevada.
+Why This Seat Matters in 2026 The road to a Democratic House majority runs through Nevada.
 Republicans and extremist PACs know it, which is why they’re already spending to flip it.
 I’m running because I’ve seen what this seat can do when it’s filled by someone who genuinely fights for working families.
 And I’m not ready to hand that back.
 But I can’t do it alone.
-If you believe that one job should be enough, that healthcare isn’t a privilege, that Social Security is a promise that doesn’t get broken, that workers deserve dignity and a fair wage…
+If you believe that one job should be enough, that healthcare isn’t a privilege, that Social Security is a promise that doesn’t get broken, that workers deserve dignity and a fair wage… Then this is your fight too.
+Join Me October 7, 2026 Help Me Hold the Line.
+Winning back the House majority depends on our district.
+I need you in this fight.
+Donate Now Volunteer Today Get Updates Facebook Instagram X-twitter Youtube Meet Steven Priorities Media Meet Steven Priorities Media Volunteer Donate Paid for by Nevadans for Steven Horsford Copyright © # Steven Horsford for Congress.
+All rights reserved.
+Privacy Policy Built by BCom

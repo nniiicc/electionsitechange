@@ -1,7 +1,13 @@
 {
  "description": "Learn more about Senator Mary Boren's life, education and campaigns. Visit maryboren.com.",
  "final_url": "https://www.maryboren.com/about",
- "paid_for_by": "Paid for by Friends of Mary 2026&nbsp; All Rights Reserved",
+ "fingerprint": "4bceb6a57fed9aa1e119a9fe06811416404c139e",
+ "format": 3,
+ "paid_for_by": "sponsored by the Alameda Church of Christ",
  "title": "Mary's Capitol Update | Mary Boren Norman Oklahoma Senator",
- "years_mentioned": []
+ "years_mentioned": [
+  "1992",
+  "2008",
+  "2026"
+ ]
 }

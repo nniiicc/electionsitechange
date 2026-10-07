@@ -1,9 +1,13 @@
 {
  "description": "Read the Jeff Davis Ledger's coverage of Micah King's campaign announcement, focusing on practical solutions for agriculture, small business, and families.",
  "final_url": "https://micahkingforstatehouse.com/newsroom/jeff-davis-ledger-campaign-announcement/",
- "paid_for_by": "Paid for by the Committee to Elect Micah King copied = false, 2000)\" class=\"bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E6",
+ "fingerprint": "46357494743a9644ce9709d30d64c67f523a375f",
+ "format": 3,
+ "paid_for_by": "Paid for by the Committee to Elect Micah King copied = false, 2000)\" class=\"bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E68A00] text-[#8B5000]",
  "title": "Jeff Davis Ledger Features Micah King's Vision for District 157",
  "years_mentioned": [
-  "2025"
+  "2000",
+  "2025",
+  "2026"
  ]
 }

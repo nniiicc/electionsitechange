@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.mcgraneforidaho.com/about",
- "paid_for_by": null,
+ "fingerprint": "56f4d11a8d67a47163e3e322889187e54725ed89",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About | McGrane for Idaho",
- "years_mentioned": []
+ "years_mentioned": [
+  "2005"
+ ]
 }

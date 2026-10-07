@@ -1,12 +1,8 @@
-FOR IMMEDIATE RELEASE
-Tuesday, June 30, 2026
-Contact: paul@rivalstrategygroup.com
-Anchorage, AK – Today Bernadette Wilson, Republican candidate for Governor of Alaska, announced the endorsement of Morton Blackwell, Chairman of the Conservative Leadership PAC.
+Skip to content About Vision for Alaska On the Issues Meet Mike Shower About Vision for Alaska On the Issues Meet Mike Shower Press Kit Press Release Merchandise Email Us Press Kit Press Release Merchandise Email Us Donate Now Donate Now Home About Vision for Alaska On the Issues Press Kit Press Releases Merchandise Contact Home About Vision for Alaska On the Issues Press Kit Press Releases Merchandise Contact Press Release June 30, 2026 Facebook Instagram X-twitter Morton Blackwell, Chairman of Conservative Leadership PAC, Endorses Bernadette Wilson for Governor FOR IMMEDIATE RELEASE Tuesday, June 30, 2026 Contact: paul@rivalstrategygroup.com Anchorage, AK – Today Bernadette Wilson, Republican candidate for Governor of Alaska, announced the endorsement of Morton Blackwell, Chairman of the Conservative Leadership PAC.
 “I am pleased to endorse conservative Republican outsider Bernadette Wilson in the Alaska Governor’s race!” said Blackwell.
 “Bernadette is a proven leader who will lead the fight to secure Alaska’s future and always stand strong for our Constitutional principles and American values.
 I had the honor of working on President Ronald Reagan’s White House Staff for three years, and I am convinced that Bernadette Wilson is the clear Republican choice in this race.
-I encourage conservatives across Alaska to join me and unite behind Bernadette’s campaign!”
-“It’s a true honor to earn Morton Blackwell’s endorsement,” said Bernadette.
+I encourage conservatives across Alaska to join me and unite behind Bernadette’s campaign!” “It’s a true honor to earn Morton Blackwell’s endorsement,” said Bernadette.
 “I’m humbled by the confidence he has placed in our campaign.
 It’s hard not to appreciate the irony.
 Mr.
@@ -15,8 +11,11 @@ Today, Mr.
 Blackwell is once again putting his faith in a candidate for governor who has never held political office before.
 I don’t take those similarities for granted, and I certainly don’t take his endorsement lightly.
 His decades of leadership in the conservative movement are an inspiration to so many of us who are on the front lines of the fight for constitutional government for and by the people.
-It is an incredible honor to have the support of someone who has witnessed firsthand what principled, outsider leadership can accomplish.”
-Bernadette Wilson is the leading Republican candidate for Governor of Alaska.
+It is an incredible honor to have the support of someone who has witnessed firsthand what principled, outsider leadership can accomplish.” Bernadette Wilson is the leading Republican candidate for Governor of Alaska.
 All independent polling to date has shown her winning the Republican primary race, the renowned forecaster Race to the White House also projects her as the frontrunner to win in November, and the Cook Political Report’s recent analysis identified Bernadette as the Republican in the strongest position.
 Morton Blackwell joins a growing group of national and local conservative leaders and organizations supporting Bernadette, including Congressman Byron Donalds and the Valley Republican Women of Alaska, as well as support from various other Republican Districts across Alaska.
-For more information visit www.BernadetteforGovernor.com
+For more information visit www.BernadetteforGovernor.com Bernadette Wilson Raises Over $300k FOR IMMEDIATE RELEASE February 18, 2026 Contact: press@bernadetteforgovernor.com Today, Bernadette Wilson, Republican candidate for Governor of Alaska, announced that she raised over $# for her Read More » February 18, 2026 Bernadette Wilson Pledges To Exit Race If Not Top Republican Vote Getter September 24, 2025 Dear Republican candidates for governor of Alaska, First, thank you for your dedication to Alaska and your willingness to run for governor Read More » September 24, 2025 Bernadette Wilson Announces State Senator & Veteran Mike Shower As Running Mate for Gubernatorial Campaign FOR IMMEDIATE RELEASE September 9, 2025 Contact: Press@BernadetteforGovernor.com Big Lake – Today, leading Republican gubernatorial candidate Bernadette Wilson announced that State Senator and Veteran Mike Read More » September 9, 2025 Media and Press Inquiries Are you a member of the media or press interested in covering Bernadette’s campaign?
+We’d love to hear from you. 📩 For all media inquiries, please contact: Connect with Our Team On the Issues Press Kit Press Release Press Inquiries On the Issues Press Kit Press Release Press Inquiries info@bernadetteforgovernor.com PO.
+Box 112149 Anchorage, Alaska 99511 Facebook-f Instagram X-twitter Youtube Tiktok Donate Facebook-f Instagram X-twitter Youtube Tiktok © Copyright # Bernadette For Alaska.
+Paid for by Bernadette for Governor PO.
+Box 112149 Anchorage, Alaska 99511 Privacy Policy

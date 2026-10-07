@@ -1,7 +1,9 @@
 {
  "description": "Contribute to the campaign",
  "final_url": "https://www.bryanhopkins4idaho.com/contribute?amount=10",
- "paid_for_by": null,
+ "fingerprint": "6e2fdf14bc8c32c0cb89d07219caa083c1d6ed26",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contribute",
  "years_mentioned": []
 }

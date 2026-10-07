@@ -1,13 +1,58 @@
 [
-"https://martyjackley.com/",
-"https://martyjackley.com/about",
-"https://martyjackley.com/contact",
-"https://martyjackley.com/endorsements",
-"https://martyjackley.com/get-involved",
-"https://martyjackley.com/issues",
-"https://martyjackley.com/news",
-"https://martyjackley.com/privacy-policy",
-"https://martyjackley.com/terms-of-service",
-"https://sdnewswatch.org/sd-house-poll-jackley-bialota-crabtree-gop-republican",
-"https://secure.winred.com/marty-jackley-for-congress"
+{
+"text": "About",
+"href": "https://martyjackley.com/about"
+},
+{
+"text": "All news →",
+"href": "https://martyjackley.com/news"
+},
+{
+"text": "Contact",
+"href": "https://martyjackley.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/marty-jackley-for-congress"
+},
+{
+"text": "Endorsements",
+"href": "https://martyjackley.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://martyjackley.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://martyjackley.com/issues"
+},
+{
+"text": "News",
+"href": "https://martyjackley.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://martyjackley.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://martyjackley.com/terms-of-service"
+},
+{
+"text": "[image: Marty Jackley for Congress]",
+"href": "https://martyjackley.com/"
+},
+{
+"text": "independent poll",
+"href": "https://www.sdnewswatch.org/sd-house-poll-jackley-bialota-crabtree-gop-republican/"
+},
+{
+"text": "info@martyjackley.com",
+"href": "mailto:info@martyjackley.com"
+},
+{
+"text": "← Back to News",
+"href": "https://martyjackley.com/news"
+}
 ]

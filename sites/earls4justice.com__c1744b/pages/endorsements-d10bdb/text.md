@@ -1,5 +1,1 @@
-Endorsements
-Former Governor Roy Cooper
-College Democrats of North Carolina
-Equality North Carolina
-Durham Committee on the Affairs of Black People
+0 Skip to Content Home Meet Anita Endorsements Leandro News Store VOLUNTEER DONATE Open Menu Close Menu Home Meet Anita Endorsements Leandro News Store VOLUNTEER DONATE Open Menu Close Menu Home Meet Anita Endorsements Leandro News Store VOLUNTEER DONATE Endorsements Former Governor Roy Cooper College Democrats of North Carolina Equality North Carolina Durham Committee on the Affairs of Black People Paid for by Earls for Justice PO Box 10541, Raleigh, NC 27605 PRIVACY POLICY | CONTACT US

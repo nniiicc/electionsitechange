@@ -1,29 +1,122 @@
 [
-"https://facebook.com/juliefornc",
-"https://google.com/url?q=https%3A%2F%2Fwww.ncleg.gov%2FBillLookUp%2F2019%2Fh22&sa=D&sntz=1&usg=AFQjCNFxzy6YfAS5637XmaeAaCsLKT7Wcg",
-"https://google.com/url?q=https%3A%2F%2Fwww.ncleg.gov%2FBillLookUp%2F2019%2Fh28&sa=D&sntz=1&usg=AFQjCNHJ4Zc529gECm6fmTbTGs2vIUvGpQ",
-"https://google.com/url?q=https%3A%2F%2Fwww.ncleg.gov%2FBillLookUp%2F2019%2Fh53&sa=D&sntz=1&usg=AFQjCNGfMbNpg-Rl6wd-ORYI6RRpyZKbtg",
-"https://google.com/url?q=https%3A%2F%2Fwww.ncleg.gov%2FSessions%2F2019%2FBills%2FHouse%2FPDF%2FH54v1.pdf&sa=D&sntz=1&usg=AFQjCNFxzoQP4akW3Zxrxbos11FyOUwTbw",
-"https://instagram.com/juliefornc?hl=en",
-"https://juliefornc.com/",
-"https://juliefornc.com/about",
-"https://juliefornc.com/endorsements",
-"https://juliefornc.com/events",
-"https://juliefornc.com/issues",
-"https://juliefornc.com/leadership-awards",
-"https://juliefornc.com/volunteer",
-"https://ncleg.gov/BillLookUp/2021/H1119",
-"https://ncleg.gov/BillLookUp/2021/H470",
-"https://ncleg.gov/BillLookUp/2021/H506",
-"https://ncleg.gov/BillLookUp/2021/H514",
-"https://ncleg.gov/BillLookUp/2021/H565",
-"https://ncleg.gov/BillLookUp/2021/H596",
-"https://ncleg.gov/BillLookUp/2021/H612",
-"https://ncleg.gov/BillLookUp/2021/H655",
-"https://ncleg.gov/BillLookUp/2021/H8",
-"https://ncleg.gov/BillLookUp/2021/H936",
-"https://ncleg.gov/BillLookUp/2021/H946",
-"https://secure.ngpvan.com/SpoDJZoyh0W5NWkqTMhDyw2",
-"https://threads.com/@juliefornc",
-"https://tiktok.com/@juliefornc"
+{
+"text": "ABOUT",
+"href": "https://www.juliefornc.com/about"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.ngpvan.com/SpoDJZoyh0W5NWkqTMhDyw2"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.juliefornc.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.juliefornc.com/events"
+},
+{
+"text": "H 22",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.ncleg.gov%2FBillLookUp%2F2019%2Fh22&sa=D&sntz=1&usg=AFQjCNFxzy6YfAS5637XmaeAaCsLKT7Wcg"
+},
+{
+"text": "HB 28",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.ncleg.gov%2FBillLookUp%2F2019%2Fh28&sa=D&sntz=1&usg=AFQjCNHJ4Zc529gECm6fmTbTGs2vIUvGpQ"
+},
+{
+"text": "HB 53",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.ncleg.gov%2FBillLookUp%2F2019%2Fh53&sa=D&sntz=1&usg=AFQjCNGfMbNpg-Rl6wd-ORYI6RRpyZKbtg"
+},
+{
+"text": "HB 54",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.ncleg.gov%2FSessions%2F2019%2FBills%2FHouse%2FPDF%2FH54v1.pdf&sa=D&sntz=1&usg=AFQjCNFxzoQP4akW3Zxrxbos11FyOUwTbw"
+},
+{
+"text": "HOME",
+"href": "https://www.juliefornc.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.juliefornc.com/issues"
+},
+{
+"text": "LEADERSHIP/AWARDS",
+"href": "https://www.juliefornc.com/leadership-awards"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.juliefornc.com/volunteer"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@juliefornc"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@juliefornc"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/juliefornc/"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/juliefornc/?hl=en"
+},
+{
+"text": "bipartisan initiatives",
+"href": "https://www.ncleg.gov/BillLookUp/2021/H936"
+},
+{
+"text": "equal pay for equal work",
+"href": "https://www.ncleg.gov/BillLookUp/2021/H565"
+},
+{
+"text": "expanding Medicaid",
+"href": "https://www.ncleg.gov/BillLookUp/2021/H470"
+},
+{
+"text": "filed legislation to fully fund Leandro",
+"href": "https://www.ncleg.gov/BillLookUp/2021/H946"
+},
+{
+"text": "filed legislation with my House colleagues to fully codify Roe v. Wade",
+"href": "https://www.ncleg.gov/BillLookUp/2021/H1119"
+},
+{
+"text": "funding our public education system",
+"href": "https://www.ncleg.gov/BillLookUp/2021/H946"
+},
+{
+"text": "hold polluters financially accountable",
+"href": "https://www.ncleg.gov/BillLookUp/2021/H506"
+},
+{
+"text": "increase the minimum wage",
+"href": "https://www.ncleg.gov/BillLookUp/2021/H612"
+},
+{
+"text": "paid parental leave",
+"href": "https://www.ncleg.gov/BillLookUp/2021/H655"
+},
+{
+"text": "paid sick days",
+"href": "https://www.ncleg.gov/BillLookUp/2021/H596"
+},
+{
+"text": "passing the Equal Rights Amendment",
+"href": "https://www.ncleg.gov/BillLookUp/2021/H8"
+},
+{
+"text": "protections for pregnancy-related workplace discrimination",
+"href": "https://www.ncleg.gov/BillLookUp/2021/H514"
+},
+{
+"text": "raising the minimum wage",
+"href": "https://www.ncleg.gov/BillLookUp/2021/H612"
+},
+{
+"text": "supported legislation in support of Medicaid expansion",
+"href": "https://www.ncleg.gov/BillLookUp/2021/H470"
+}
 ]

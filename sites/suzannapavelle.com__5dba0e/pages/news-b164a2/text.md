@@ -1,29 +1,17 @@
-Endorsement
-Florida Democratic Agricultural Caucus endorses Suzanna Pavelle for Florida House District 19
-The Florida Democratic Agricultural Caucus has endorsed Suzanna Pavelle for Florida House District 19, citing her questionnaire responses on rural communities, food security, farm labor, farmland preservation, environmental stewardship, climate resilience, invasive pests and diseases, and agricultural research and innovation.
-Endorsement
-The Oath Of Office endorses Suzanna Pavelle for Florida House District 19
-The Oath Of Office has endorsed Suzanna Pavelle for Florida House District 19, recognizing her commitment to accountability, integrity, transparency, protection of foundational rights, and open communication with constituents.
-Endorsement
-Sierra Club endorses Suzanna Pavelle for Florida House District 19
-Suzanna Pavelle has been endorsed by the Sierra Club in her campaign for Florida House District 19.
+= scrolledFromTopThreshold; logoScrolled = window.pageYOffset >= logoOpacityThreshold" :class="{ 'bg-white': !isHeaderTransparent, 'bg-transparent site-header--over-hero': isHeaderTransparent && !scrolledFromTop }" class="fixed inset-x-0 top-0 z-10 px-4 site-header lg:px-8 js-header transition-colors duration-300 in-[.admin-bar]:top-[32px]" > Suzanna Pavelle for Florida House 19 Meet Suzanna Priorities Issues Affordability Public Education Smart Growth Contact Events News Donate Volunteer Menu Close Slideover Navigation Close Meet Suzanna Priorities Issues Close Issues Affordability Public Education Smart Growth Contact Events News News & Endorsements News & Endorsements News Endorsement Florida Democratic Agricultural Caucus endorses Suzanna Pavelle for Florida House District 19 The Florida Democratic Agricultural Caucus has endorsed Suzanna Pavelle for Florida House District 19, citing her questionnaire responses on rural communities, food security, farm labor, farmland preservation, environmental stewardship, climate resilience, invasive pests and diseases, and agricultural research and innovation.
+Read the endorsement Endorsement The Oath Of Office endorses Suzanna Pavelle for Florida House District 19 The Oath Of Office has endorsed Suzanna Pavelle for Florida House District 19, recognizing her commitment to accountability, integrity, transparency, protection of foundational rights, and open communication with constituents.
+Read the endorsement Endorsement Sierra Club endorses Suzanna Pavelle for Florida House District 19 Suzanna Pavelle has been endorsed by the Sierra Club in her campaign for Florida House District 19.
 She is committed to protecting Florida’s environment, strengthening resilient communities, and ensuring the state’s natural resources remain available for future generations.
-Media
-Daily Kos: Run Everywhere — A Fed-Up Business Owner Fights Back by Running
-Daily Kos profiles Suzanna Pavelle’s decision to run for Florida House District 19, her small-business experience, and her work for responsible growth and local accountability.
-Pledge
-Suzanna Pavelle signs the Patients over Profits pledge
-Suzanna Pavelle has signed the Patients over Profits pledge, committing to put patients before profits and to reject contributions over $200 from corporate healthcare industry PACs.
-Media
-Voyage Jacksonville profiles Suzanna Pavelle
-Voyage Jacksonville’s March 2026 profile covers Pavelle’s background, small-business experience, community leadership, and decision to run for Florida House District 19.
-Endorsement
-Democratic Environmental Caucus of Florida endorses Suzanna Pavelle for Florida House District 19
-The Democratic Environmental Caucus of Florida has endorsed Suzanna Pavelle for Florida House District 19, citing her commitment to policies that meet the challenges of Florida’s environmental and climate crisis.
-Endorsement
-Jax NOW PAC endorses Suzanna Pavelle for Florida House District 19
-Jax NOW PAC has endorsed Suzanna Pavelle for Florida House District 19, citing alignment on reproductive rights, LGBTQ+ rights, equal rights, economic justice, and constitutional equality.
-Recognition
-Suzanna Pavelle receives 2026 Moms Demand Action Gun Sense Candidate distinction
-Suzanna Pavelle received the 2026 Moms Demand Action Gun Sense Candidate distinction, recognizing candidates who advocate for gun violence prevention and common-sense gun safety.
+Read the endorsement Media Daily Kos: Run Everywhere — A Fed-Up Business Owner Fights Back by Running Daily Kos profiles Suzanna Pavelle’s decision to run for Florida House District 19, her small-business experience, and her work for responsible growth and local accountability.
+Read the Daily Kos article Pledge Suzanna Pavelle signs the Patients over Profits pledge Suzanna Pavelle has signed the Patients over Profits pledge, committing to put patients before profits and to reject contributions over $200 from corporate healthcare industry PACs.
+Read the update Media Voyage Jacksonville profiles Suzanna Pavelle Voyage Jacksonville’s March 2026 profile covers Pavelle’s background, small-business experience, community leadership, and decision to run for Florida House District 19.
+Read the profile Endorsement Democratic Environmental Caucus of Florida endorses Suzanna Pavelle for Florida House District 19 The Democratic Environmental Caucus of Florida has endorsed Suzanna Pavelle for Florida House District 19, citing her commitment to policies that meet the challenges of Florida’s environmental and climate crisis.
+Read the endorsement Endorsement Jax NOW PAC endorses Suzanna Pavelle for Florida House District 19 Jax NOW PAC has endorsed Suzanna Pavelle for Florida House District 19, citing alignment on reproductive rights, LGBTQ+ rights, equal rights, economic justice, and constitutional equality.
+Read the endorsement Recognition Suzanna Pavelle receives 2026 Moms Demand Action Gun Sense Candidate distinction Suzanna Pavelle received the 2026 Moms Demand Action Gun Sense Candidate distinction, recognizing candidates who advocate for gun violence prevention and common-sense gun safety.
 The Gun Sense Candidate distinction is not an endorsement from Moms Demand Action or Everytown for Gun Safety Action Fund.
+Read the update Recognition Suzanna Pavelle designated a 2026 Mental Health Now Candidate Suzanna Pavelle has been designated a 2026 Mental Health Now Candidate, recognizing her commitment to keeping mental health front of mind in public service.
+The designation is not an endorsement.
+It is a signal to voters that a candidate has committed to advancing mental health policy.
+Read the update Footer Suzanna Pavelle for Florida House 19 Meet Suzanna Priorities Issues Affordability Public Education Smart Growth Contact Events News BlueSky Twitter Threads Facebook © # Suzanna Pavelle for Florida House 19 Suzanna Pavelle is running for Florida State Representative in House District 19, serving Flagler County and part of St.
+Johns County, to fight for affordability, strong public schools, and responsible growth in 2026., Inc.
+All rights reserved.

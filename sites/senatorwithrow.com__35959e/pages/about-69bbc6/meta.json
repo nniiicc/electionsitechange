@@ -1,7 +1,9 @@
 {
  "description": "Adam Withrow is a candidate for the United States Senate for Colorado.",
  "final_url": "https://www.senatorwithrow.com/about",
- "paid_for_by": null,
+ "fingerprint": "1362df90c7cdd725417083e46daa2b6a4e8cb870",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About | Adam Withrow for Senate",
  "years_mentioned": []
 }

@@ -1,11 +1,3 @@
-Building Industry Association Red River Valley
-Time
-Thursday, Oct 1, 2026
-8:01 AM – 9:30 AM
-Location
-1802 32nd Ave S, Fargo
-About this event
-Add your event description here
-Location
-1802 32nd Ave S
-Fargo
+Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs Events / Building Industry Association Red River Valley Building Industry Association Red River Valley Time Thursday, Oct 1, 2026 8:01 AM – 9:30 AM Location 1802 32nd Ave S, Fargo About this event Add your event description here Location 1802 32nd Ave S Fargo Get Driving Directions Add to calendar VOLUNTEER DONATE VOTING INFO Get Updates Thank you for signing up!
+News Be an Informed Voter.
+Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Campaign News Endorsements Yard Signs Events Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs Close Menu

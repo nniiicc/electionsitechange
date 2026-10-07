@@ -1,15 +1,19 @@
-SALAZAR FOR CONGRESS LAUNCHES SECOND AD HIGHLIGHTING TAKE IT DOWN ACT AND HER RECORD PROTECTING FAMILIES IN THE AI ERA
-FOR IMMEDIATE RELEASE September 23th, 2026 MIAMI, FL — Salazar for Congress today released its second general election advertisement, highlighting Rep.
+En Español Follow on social media: En Español Donate Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store En Español Donate Media News Press Releases Videos Photos News Press Releases Videos Photos SALAZAR FOR CONGRESS LAUNCHES SECOND AD HIGHLIGHTING TAKE IT DOWN ACT AND HER RECORD PROTECTING FAMILIES IN THE AI ERA September 26 2026 Share This FOR IMMEDIATE RELEASE September 23th, 2026 MIAMI, FL — Salazar for Congress today released its second general election advertisement, highlighting Rep.
 María Elvira Salazar’s work to protect children and families ...
-SALAZAR CAMPAIGN LAUNCHES FIRST GENERAL-ELECTION AD WITH DIRECT MESSAGE TO PRESIDENT TRUMP ON IMMIGRATION
-FOR IMMEDIATE RELEASE September 17th, 2026 MIAMI, FL — Salazar for Congress today launched its first ad of the 2026 general election, recorded in Washington, D.C., outside the White House, with Marí...
-“Standing with Those Who Serve”: South Florida Council of Fire Fighters Endorses Congresswoman María Elvira Salazar for Re-Election
-FOR IMMEDIATE RELEASE MIAMI, FL — Today, the South Florida Council of Firefighters, representing more than 4,000 firefighters and their families across Miami-Dade and Monroe counties, endorsed Rep.
+Read More SALAZAR CAMPAIGN LAUNCHES FIRST GENERAL-ELECTION AD WITH DIRECT MESSAGE TO PRESIDENT TRUMP ON IMMIGRATION September 17 2026 Share This FOR IMMEDIATE RELEASE September 17th, 2026 MIAMI, FL — Salazar for Congress today launched its first ad of the 2026 general election, recorded in Washington, D.C., outside the White House, with Marí...
+Read More “Standing with Those Who Serve”: South Florida Council of Fire Fighters Endorses Congresswoman María Elvira Salazar for Re-Election September 9 2026 Share This FOR IMMEDIATE RELEASE ﻿ MIAMI, FL — Today, the South Florida Council of Firefighters, representing more than 4,000 firefighters and their families across Miami-Dade and Monroe counties, endorsed Rep.
 María Elvira Salazar’...
-“A Champion for Main Street”: National Federation of Independent Business Endorses Congresswoman María Elvira Salazar for Re-Election
-FOR IMMEDIATE RELEASE MIAMI, FL — Congresswoman María Elvira Salazar today announced the endorsement of the National Federation of Independent Business (NFIB), the nation’s leading small and independent business ...
-Congresswoman María Elvira Salazar Secures Major Law Enforcement Endorsements
-South Florida Police Benevolent Association, Florida State Fraternal Order of Police District 6, Police Officers Defense Coalition, Hispanic Police Officers Association, and Miami-Dade Sheriff Rosie Cordero-Stutz Endorse Congresswoman María Elvira ...
-The TAKE IT DOWN Act: Protecting Victims and Holding Online Predators Accountable
-The TAKE IT DOWN Act is now the law of the land, and it is already helping protect victims from online exploitation.
+Read More “A Champion for Main Street”: National Federation of Independent Business Endorses Congresswoman María Elvira Salazar for Re-Election August 10 2026 Share This FOR IMMEDIATE RELEASE MIAMI, FL — Congresswoman María Elvira Salazar today announced the endorsement of the National Federation of Independent Business (NFIB), the nation’s leading small and independent business ...
+Read More Congresswoman María Elvira Salazar Secures Major Law Enforcement Endorsements July 27 2026 Share This South Florida Police Benevolent Association, Florida State Fraternal Order of Police District 6, Police Officers Defense Coalition, Hispanic Police Officers Association, and Miami-Dade Sheriff Rosie Cordero-Stutz Endorse Congresswoman María Elvira ...
+Read More The TAKE IT DOWN Act: Protecting Victims and Holding Online Predators Accountable June 26 2026 Share This The TAKE IT DOWN Act is now the law of the land, and it is already helping protect victims from online exploitation.
 This law makes it a federal crime to ...
+Read More Load More Posts Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store Donate Email Address * Phone Number By providing your cell phone number and checking the opt-in box, you are consenting to receive texts, including autodialed and automated texts, to that number with campaign notifications from Salazar for Congress.
+Recurring messages, msg&data rates may apply.
+Text JOIN to 46856.
+Text HELP for help.
+At any time, text STOP to cancel.
+SMS opt-in consent and data will not be shared with third parties.
+See privacy policy and terms and conditions here.
+Consent I would like to receive text message updates. Δ This iframe contains the logic required to handle Ajax powered Gravity Forms.
+Follow on social media: © # Maria Elvira Salazar for Congress PO Box 3725 West Flagler St.
+#281 Miami, FL 33134 General Information: +1 (305) 338-3586 Contributions: +1 (305) 713-4327 Email: info@salazar27.com Press: press@salazar27.com PRIVACY POLICY Paid for by Salazar for Congress

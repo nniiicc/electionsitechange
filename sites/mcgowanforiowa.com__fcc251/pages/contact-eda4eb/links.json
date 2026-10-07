@@ -1,14 +1,58 @@
 [
-"https://facebook.com/profile.php?id=61577314967973",
-"https://instagram.com/mcgowan.for.iowa",
-"https://mcgowanforiowa.com/",
-"https://mcgowanforiowa.com/about",
-"https://mcgowanforiowa.com/contact",
-"https://mcgowanforiowa.com/endorsements",
-"https://mcgowanforiowa.com/media",
-"https://mcgowanforiowa.com/privacy-policy",
-"https://mcgowanforiowa.com/snapshots",
-"https://mcgowanforiowa.com/vision",
-"https://secure.winred.com/mcgowan-for-iowa/webdonate-today",
-"https://twitter.com/McGowanForIowa"
+{
+"text": "ABOUT",
+"href": "https://www.mcgowanforiowa.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/mcgowan-for-iowa/webdonate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.mcgowanforiowa.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.mcgowanforiowa.com/"
+},
+{
+"text": "JOIN US",
+"href": "https://www.mcgowanforiowa.com/contact"
+},
+{
+"text": "MEDIA",
+"href": "https://www.mcgowanforiowa.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mcgowanforiowa.com/privacy-policy"
+},
+{
+"text": "SNAPSHOTS",
+"href": "https://www.mcgowanforiowa.com/snapshots"
+},
+{
+"text": "VISION",
+"href": "https://www.mcgowanforiowa.com/vision"
+},
+{
+"text": "[image: McGowan Logo]",
+"href": "https://www.mcgowanforiowa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/McGowanForIowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577314967973"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mcgowan.for.iowa/"
+},
+{
+"text": "contact@mcgowanforiowa.com",
+"href": "mailto:contact@mcgowanforiowa.com"
+}
 ]

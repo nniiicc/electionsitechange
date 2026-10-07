@@ -1,7 +1,9 @@
 {
  "description": "Find out when and where to vote.",
  "final_url": "https://brooksformaryland.org/voting/",
- "paid_for_by": null,
+ "fingerprint": "239285938f96e557efc5f0b8d88e2824008568da",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voting Information - Amy Brooks for Delegate",
  "years_mentioned": [
   "2026"

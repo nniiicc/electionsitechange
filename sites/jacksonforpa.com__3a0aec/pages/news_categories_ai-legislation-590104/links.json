@@ -1,18 +1,66 @@
 [
-"https://awdesignsllc.com/",
-"https://facebook.com/profile.php?id=61587665953056",
-"https://instagram.com/jackson_for_pa",
-"https://jacksonforpa.com/",
-"https://jacksonforpa.com/about",
-"https://jacksonforpa.com/copy-of-priorities",
-"https://jacksonforpa.com/get-involved",
-"https://jacksonforpa.com/news",
-"https://jacksonforpa.com/news/categories/ai-legislation",
-"https://jacksonforpa.com/news/categories/economic-theory",
-"https://jacksonforpa.com/post/artificial-intelligence-and-robotics",
-"https://jacksonforpa.com/priorities",
-"https://jacksonforpa.com/vote",
-"https://linkedin.com/in/shanon-jackson-460b163aa",
-"https://secure.actblue.com/donate/shannon-jackson-1",
-"https://x.com/Jackson_For_PA"
+{
+"text": "ABOUT",
+"href": "https://www.jacksonforpa.com/about"
+},
+{
+"text": "AI Legislation",
+"href": "https://www.jacksonforpa.com/news/categories/ai-legislation"
+},
+{
+"text": "AW Designs",
+"href": "https://www.awdesignsllc.com/"
+},
+{
+"text": "Artificial Intelligence and Robotics",
+"href": "https://www.jacksonforpa.com/post/artificial-intelligence-and-robotics"
+},
+{
+"text": "DONATE",
+"href": "https://www.jacksonforpa.com/copy-of-priorities"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shannon-jackson-1"
+},
+{
+"text": "Economic Theory",
+"href": "https://www.jacksonforpa.com/news/categories/economic-theory"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.jacksonforpa.com/get-involved"
+},
+{
+"text": "NEWS & EVENTS",
+"href": "https://www.jacksonforpa.com/news"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.jacksonforpa.com/priorities"
+},
+{
+"text": "VOTE TUES NOV 3",
+"href": "https://www.jacksonforpa.com/vote"
+},
+{
+"text": "[image: Jackson for PA Logo]",
+"href": "https://www.jacksonforpa.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/Jackson_For_PA"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61587665953056"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/jackson_for_pa/"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/shanon-jackson-460b163aa/"
+}
 ]

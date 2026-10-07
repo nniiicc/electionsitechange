@@ -1,6 +1,8 @@
-A Leader Who Won’t Fold To Pressure.
-Dear Neighbor,
-ICE is attacking our neighborhoods.
+0 Skip to Content Meet Omar Endorsements Vision Our Wins Join Lawn Signs!
+Donate Open Menu Close Menu Meet Omar Endorsements Vision Our Wins Join Lawn Signs!
+Donate Open Menu Close Menu Meet Omar Endorsements Vision Our Wins Join Lawn Signs!
+Donate A Leader Who Won’t Fold To Pressure.
+Dear Neighbor, ICE is attacking our neighborhoods.
 Two state sponsored murders happened here in SD 62.
 Rightwing media is spreading misinformation about our communities.
 Trump is sowing division.
@@ -13,3 +15,5 @@ I am dedicated to using this coming legislative session to protect Minnesotans f
 This is what the Southside is all about and that’s the leadership we deserve.
 I’m Senator Omar Fateh, and I’m running for re-election to be your State Senator.
 It’s time to step up for the next generation and continue to show them what real leadership looks like.
+Home | Meet Omar | Join | Donate DONATE Paid for and prepared by Omar Fateh Senate Committee - P.O.
+Box 8033, Minneapolis, MN 55408

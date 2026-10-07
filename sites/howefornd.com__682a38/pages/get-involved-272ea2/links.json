@@ -1,9 +1,30 @@
 [
-"https://facebook.com/howefornorthdakota",
-"https://howefornd.com/",
-"https://howefornd.com/get-involved",
-"https://howefornd.com/issues",
-"https://howefornd.com/meet-michael",
-"https://secure.anedot.com/howe-for-north-dakota/donate",
-"https://twitter.com/Michael_Howe2"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/howe-for-north-dakota/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.howefornd.com/get-involved"
+},
+{
+"text": "ISSUES",
+"href": "https://www.howefornd.com/issues"
+},
+{
+"text": "MEET MICHAEL",
+"href": "https://www.howefornd.com/meet-michael"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/howefornorthdakota"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/Michael_Howe2"
+},
+{
+"text": "[image]",
+"href": "https://www.howefornd.com"
+}
 ]

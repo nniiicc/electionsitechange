@@ -1,29 +1,26 @@
-Increasing taxes on liquor but stopping new ones for school?
-(March 9 - 13, 2026)
-We have fewer than 15 working days left in the 2026 legislative session.
+0 Skip to Content About Issues Endorsements Take Action Events Register to Vote Voter Restoration Rights Am I Still on the Voter Rolls?
+Ways to Vote Before Election Day Donate to the Democratic House News + Media Donate to Sarah Open Menu Close Menu About Issues Endorsements Take Action Events Register to Vote Voter Restoration Rights Am I Still on the Voter Rolls?
+Ways to Vote Before Election Day Donate to the Democratic House News + Media Donate to Sarah Open Menu Close Menu About Issues Endorsements Folder: Take Action Back Events Register to Vote Voter Restoration Rights Am I Still on the Voter Rolls?
+Ways to Vote Before Election Day Donate to the Democratic House News + Media Donate to Sarah Increasing taxes on liquor but stopping new ones for school?
+(March 9 - 13, 2026) Mar 15 Written By Sarah Stalker We have fewer than 15 working days left in the 2026 legislative session.
 It has been a busy week in Frankfort as we tackle big decisions on technology, taxes, and education.
 Here is a breakdown of what happened this week and how I voted.
-Overriding the Governor’s Veto
-The first big move this week was the House and Senate voting to override the Governor's veto on House Bill 314.
-- What it does: It moves the "Kentucky Wired" internet project under a new government office and creates a new board to run it.
-- Why it matters: Because this bill had an "emergency clause," it became law immediately after the vote.
-Focus on New Taxes and Regulations
-The House also spent a lot of time on "revenue bills"—legislation that deals with how the state collects money.
-House Bill 9: Regulating "Intoxicating" Products
-This bill creates a set of rules and taxes for products like alcohol, cannabis-infused drinks, and hemp.
-- The Big Change: Kentucky would become the first state to tax alcohol based on its pure alcohol content rather than just the price.
-- The Goal: Supporters say it is "revenue neutral," meaning they cut some old taxes while adding a new 4% fee on drinks to keep the total amount of tax collected the same.
-- My Take: While I support the strict "three strikes" rule for stores that sell to minors, I am worried that regular customers will end up paying more at the register.
+Overriding the Governor’s Veto The first big move this week was the House and Senate voting to override the Governor's veto on House Bill 314 .
+What it does: It moves the "Kentucky Wired" internet project under a new government office and creates a new board to run it.
+Why it matters: Because this bill had an "emergency clause," it became law immediately after the vote.
+Focus on New Taxes and Regulations The House also spent a lot of time on "revenue bills"—legislation that deals with how the state collects money.
+House Bill 9: Regulating "Intoxicating" Products This bill creates a set of rules and taxes for products like alcohol, cannabis-infused drinks, and hemp.
+The Big Change: Kentucky would become the first state to tax alcohol based on its pure alcohol content rather than just the price.
+The Goal: Supporters say it is "revenue neutral," meaning they cut some old taxes while adding a new #% fee on drinks to keep the total amount of tax collected the same.
+My Take: While I support the strict "three strikes" rule for stores that sell to minors, I am worried that regular customers will end up paying more at the register.
 I voted NO.
 The bill passed the House and is now moving to the Senate.
-House Bill 757: The "Revenue Bill"
-This is a massive bill that updates Kentucky’s tax codes.
-- New Taxes: It adds taxes to fantasy sports, prediction markets, and electric vehicle charging stations.
-- The School Issue: This bill stops local school boards from creating new taxes to fund their districts.
+House Bill 757: The "Revenue Bill" This is a massive bill that updates Kentucky’s tax codes.
+New Taxes: It adds taxes to fantasy sports, prediction markets, and electric vehicle charging stations.
+The School Issue: This bill stops local school boards from creating new taxes to fund their districts.
 I believe this will hurt the ability of public schools to build new buildings or maintain their finances.
 I voted NO.
-Quick Hits: Other Bills from the House Floor
-House Bill 227: This legislation seeks to protect minors from the addictive and harmful features of social media by implementing age restrictions on advertising and other features and establishing civil penalties for companies that do not conform.
+Quick Hits: Other Bills from the House Floor House Bill 227: This legislation seeks to protect minors from the addictive and harmful features of social media by implementing age restrictions on advertising and other features and establishing civil penalties for companies that do not conform.
 I was a yes vote.
 House Bill 248: Certain hospitals would be permitted to establish a hospital police department under this bill.
 The hospital police officers would have full general police powers, including the ability to arrest.
@@ -67,3 +64,6 @@ I was a yes vote.
 House Joint Resolution 76: This resolution contains the six-year road plan.
 I was a yes vote.
 The Kentucky House returns to Frankfort Monday at 4 p.m. for day 47 of the 2026 legislative session.
+Sarah Stalker Previous Previous Kentucky Issues reduced down to a BINGO card (April 2, 2026) Next Next Voting Rights Are Under Attack ( March 2 - 6, 2026) Sign up for updates Join my email list to get regular updates on issues, legislation and ways to get involved.
+Get On the List!
+Contact Paid for by Sarah for KY © Swayed Top

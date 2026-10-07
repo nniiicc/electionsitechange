@@ -1,4 +1,10 @@
 [
-"https://secure.actblue.com/donate/pete-gertonson-2",
-"https://votepete.com/"
+{
+"text": "[image]",
+"href": "https://votepete.com/"
+},
+{
+"text": "click here",
+"href": "https://secure.actblue.com/donate/pete-gertonson-2"
+}
 ]

@@ -1,14 +1,54 @@
 [
-"https://facebook.com/FischerForRepresentative",
-"https://fischerforrep.com/",
-"https://fischerforrep.com/get-involved",
-"https://fischerforrep.com/how-to-vote",
-"https://fischerforrep.com/in-the-news",
-"https://fischerforrep.com/meet-peter",
-"https://fischerforrep.com/platform",
-"https://fischerforrep.com/services-2",
-"https://mape.org/",
-"https://plannedparenthoodaction.org/planned-parenthood-minnesota-advocate",
-"https://secure.actblue.com/donate/peterfischer",
-"https://twitter.com/PeterFischerMN"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/peterfischer"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.fischerforrep.com/services-2"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.fischerforrep.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.fischerforrep.com"
+},
+{
+"text": "HOW TO VOTE",
+"href": "https://www.fischerforrep.com/how-to-vote"
+},
+{
+"text": "IN THE NEWS",
+"href": "https://www.fischerforrep.com/in-the-news"
+},
+{
+"text": "ISSUES",
+"href": "https://www.fischerforrep.com/platform"
+},
+{
+"text": "MEET PETER",
+"href": "https://www.fischerforrep.com/meet-peter"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/FischerForRepresentative"
+},
+{
+"text": "[image: KXCgDkOQ_edited.png]",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-minnesota-advocate"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/PeterFischerMN"
+},
+{
+"text": "[image]",
+"href": "https://mape.org"
+},
+{
+"text": "[image][image][image]",
+"href": "mailto:fischer4rep@gmail.com"
+}
 ]

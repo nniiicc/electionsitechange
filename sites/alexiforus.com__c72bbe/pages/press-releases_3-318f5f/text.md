@@ -1,25 +1,6 @@
-Press Releases
-Secretary of State to Offer REAL IDs for the First Time at Chicago Auto Show
-TVDL renewals will also be offered for the first time as well
-Secretary of State Offices to Close for Abraham Lincoln’s Birthday
-Illinois Secretary of State Alexi Giannoulias announced that all offices and facilities will be closed in
-observance of President Abraham Lincoln’s Birthday.
-Crypto Lender to Pay Illinois More Than $400,000
-SOS Giannoulias Warns Illinoisans to Ensure Financial Advisors Are Registered with State
-Springfield Dirksen Parkway Driver Services Facility to Close for Renovation
-Moving to Temporary Location on Wabash Avenue
-Secretary of State Giannoulias Executes Settlement Agreement with Carvana
-Carvana admits wrongdoing; agrees to consumer safeguards and to conform to Illinois law
-Secretary of State Giannoulias reveals rejected vanity plates in 2022
-Small percentage prohibited for violating the state’s vehicle code
-Secretary of State Alexi Giannoulias Releases Comprehensive Transition Team Report
-Report serves as a road map to modernize the office, transform operations, and upgrade services
-Secretary of State Offices to Close for Martin Luther King Jr.
-Day
-Illinois Secretary of State Alexi Giannoulias announced that all offices and facilities will be closed in observance of Martin Luther King Jr.
+Skip to content Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Home About Alexi’s Priorities News In the News Contact Contribute Press Releases Secretary of State to Offer REAL IDs for the First Time at Chicago Auto Show TVDL renewals will also be offered for the first time as well Keep Reading → February 11, 2023 Secretary of State Offices to Close for Abraham Lincoln’s Birthday Illinois Secretary of State Alexi Giannoulias announced that all offices and facilities will be closed in observance of President Abraham Lincoln’s Birthday.
+Keep Reading → February 10, 2023 Crypto Lender to Pay Illinois More Than $400,000 SOS Giannoulias Warns Illinoisans to Ensure Financial Advisors Are Registered with State Keep Reading → January 31, 2023 Springfield Dirksen Parkway Driver Services Facility to Close for Renovation Moving to Temporary Location on Wabash Avenue Keep Reading → January 31, 2023 Secretary of State Giannoulias Executes Settlement Agreement with Carvana Carvana admits wrongdoing; agrees to consumer safeguards and to conform to Illinois law Keep Reading → January 24, 2023 Secretary of State Giannoulias reveals rejected vanity plates in 2022 Small percentage prohibited for violating the state’s vehicle code Keep Reading → January 23, 2023 Secretary of State Alexi Giannoulias Releases Comprehensive Transition Team Report Report serves as a road map to modernize the office, transform operations, and upgrade services Keep Reading → January 17, 2023 Secretary of State Offices to Close for Martin Luther King Jr.
+Day Illinois Secretary of State Alexi Giannoulias announced that all offices and facilities will be closed in observance of Martin Luther King Jr.
 Day.
-Newly Installed Secretary of State Alexi Giannoulias Issues Comprehensive Executive Ethics Order
-Keeping a promise he made during his campaign, new Illinois Secretary of State Alexi Giannoulias
-signed a wide-ranging Executive Ethics Order shortly after taking office.
-Giannoulias Voices Opposition to Book Bans
-As State’s Librarian, Democrat vows to protect free speech, access to books
+Keep Reading → January 13, 2023 Newly Installed Secretary of State Alexi Giannoulias Issues Comprehensive Executive Ethics Order Keeping a promise he made during his campaign, new Illinois Secretary of State Alexi Giannoulias signed a wide-ranging Executive Ethics Order shortly after taking office.
+Keep Reading → January 10, 2023 Giannoulias Voices Opposition to Book Bans As State’s Librarian, Democrat vows to protect free speech, access to books Keep Reading → September 29, 2022 Page 1 Page 2 Page 3 Page 4 Page 5 Page 6 Page 7 Page 8 Endorsements Videos In the News Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

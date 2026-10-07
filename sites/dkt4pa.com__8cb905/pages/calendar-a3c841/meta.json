@@ -1,7 +1,11 @@
 {
- "description": "Campaign events, town halls, and community gatherings for Deirdre Kamber Todd for PA House District 183 \u2014 view and subscribe on Google Calendar.",
+ "description": "Campaign events, town halls, and community gatherings for Deirdre Kamber Todd for PA House District 183 — view and subscribe on Google Calendar.",
  "final_url": "https://www.dkt4pa.com/calendar",
- "paid_for_by": null,
+ "fingerprint": "1c8afd456678cc65e437dfc42d967a90cd940fb7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Calendar | Deirdre Kamber Todd for PA House",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

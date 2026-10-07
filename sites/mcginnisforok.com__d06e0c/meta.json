@@ -1,7 +1,11 @@
 {
  "description": "Meredith McGinnis for Senate's campaign",
  "final_url": "https://www.mcginnisforok.com/",
- "paid_for_by": null,
+ "fingerprint": "b4a52630a88beb907413dd8533482be6ddfe6c54",
+ "format": 3,
+ "paid_for_by": "Authorized by Meredith McGinnis for Senate 2026 You need to enable JavaScript to run this app",
  "title": "Meredith McGinnis for Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,11 +1,46 @@
 [
-"https://geraldforassembly.com/",
-"https://geraldforassembly.com/calendar",
-"https://geraldforassembly.com/cart",
-"https://geraldforassembly.com/endorsements",
-"https://geraldforassembly.com/home-1",
-"https://geraldforassembly.com/priorities",
-"https://secure.actblue.com/donate/gb-website?amount=25",
-"https://squarespace.com/",
-"https://tel:(619) 797-5591/"
+{
+"text": "(619) 797-5591",
+"href": "https://tel:(619)%20797-5591"
+},
+{
+"text": "0",
+"href": "https://www.geraldforassembly.com/cart"
+},
+{
+"text": "BIO",
+"href": "https://www.geraldforassembly.com/home-1"
+},
+{
+"text": "Calendar",
+"href": "https://www.geraldforassembly.com/calendar"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/gb-website?amount=25"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.geraldforassembly.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.geraldforassembly.com/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.geraldforassembly.com/priorities"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: geraldforassembly]",
+"href": "https://www.geraldforassembly.com/"
+},
+{
+"text": "info@geraldforassembly.com",
+"href": "mailto:info@geraldforassembly.com"
+}
 ]

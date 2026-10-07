@@ -1,2 +1,4 @@
-In Political Issues REP.
-JARED PATTERSON BACKS SENATE BILL 2, THE TEXAS TAXPAYER TRANSPARENCY ACT OF 2019
+Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Donate Now In Political Issues HOUSE PASSES TOLL TRANSPARENCY LEGISLATION AUTHORED BY REP.
+JARED PATTERSON Continue Reading In Political Issues REP.
+JARED PATTERSON BACKS SENATE BILL 2, THE TEXAS TAXPAYER TRANSPARENCY ACT OF 2019 Continue Reading Email: votejaredpatterson@gmail.com P.O.
+Box 5419 Frisco, TX 75035 Follow: Pol Adv Paid for By Jared Patterson.

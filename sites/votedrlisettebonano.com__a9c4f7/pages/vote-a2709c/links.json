@@ -1,25 +1,98 @@
 [
-"https://dos.myflorida.com/elections",
-"https://dos.myflorida.com/elections/for-voters/check-your-voter-status-and-polling-place/voter-precinct-lookup",
-"https://dos.myflorida.com/elections/for-voters/voting/accessible-voting-for-persons-with-disabilities",
-"https://facebook.com/BONANOFLHOUSE67",
-"https://instagram.com/vote_bonano_for_67",
-"https://ncsl.org/research/elections-and-campaigns/2026-state-primary-election-dates-and-filing-deadlines.aspx",
-"https://onlinecandidate.com/",
-"https://politics.raisethemoney.com/en/dbonano",
-"https://registertovoteflorida.gov/home",
-"https://votedrlisettebonano.com/",
-"https://votedrlisettebonano.com/calendar",
-"https://votedrlisettebonano.com/contact",
-"https://votedrlisettebonano.com/endorsements",
-"https://votedrlisettebonano.com/events/general-election",
-"https://votedrlisettebonano.com/news",
-"https://votedrlisettebonano.com/news/endorsement-maura-cruz-lanz",
-"https://votedrlisettebonano.com/news/what-are-the-benefits-of-border-security-protect-communities-more",
-"https://votedrlisettebonano.com/news/what-are-the-benefits-of-government-neutrality-in-public-life",
-"https://votedrlisettebonano.com/privacy",
-"https://votedrlisettebonano.com/terms",
-"https://votedrlisettebonano.com/volunteer",
-"https://votedrlisettebonano.com/vote",
-"https://x.com/BONANOFLHOUSE67"
+{
+"text": "Calendar",
+"href": "https://votedrlisettebonano.com/calendar/"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.onlinecandidate.com//"
+},
+{
+"text": "Contact",
+"href": "https://votedrlisettebonano.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://politics.raisethemoney.com/en/dbonano"
+},
+{
+"text": "ENDORSEMENT: MAURA CRUZ LANZ",
+"href": "https://votedrlisettebonano.com/news/endorsement-maura-cruz-lanz/"
+},
+{
+"text": "Endorsements",
+"href": "https://votedrlisettebonano.com/endorsements/"
+},
+{
+"text": "General Election",
+"href": "https://votedrlisettebonano.com/events/general-election/"
+},
+{
+"text": "Home",
+"href": "https://votedrlisettebonano.com/"
+},
+{
+"text": "News & Updates",
+"href": "https://votedrlisettebonano.com/news/"
+},
+{
+"text": "Privacy",
+"href": "https://votedrlisettebonano.com/privacy/"
+},
+{
+"text": "Terms",
+"href": "https://votedrlisettebonano.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://votedrlisettebonano.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://votedrlisettebonano.com/vote/"
+},
+{
+"text": "What are the Benefits of Border Security? Protect Communities & More",
+"href": "https://votedrlisettebonano.com/news/what-are-the-benefits-of-border-security-protect-communities-more/"
+},
+{
+"text": "What are the Benefits of Government Neutrality in Public Life?",
+"href": "https://votedrlisettebonano.com/news/what-are-the-benefits-of-government-neutrality-in-public-life/"
+},
+{
+"text": "[image: LTC LISETTE BONANO for Florida State House District 67]",
+"href": "https://votedrlisettebonano.com/"
+},
+{
+"text": "[tooltip: LTC LISETTE BONANO on Facebook]",
+"href": "https://www.facebook.com/BONANOFLHOUSE67"
+},
+{
+"text": "[tooltip: LTC LISETTE BONANO on Instagram]",
+"href": "https://www.instagram.com/vote_bonano_for_67/"
+},
+{
+"text": "[tooltip: LTC LISETTE BONANO on X]",
+"href": "https://x.com/BONANOFLHOUSE67"
+},
+{
+"text": "https://dos.myflorida.com/elections/",
+"href": "https://dos.myflorida.com/elections/"
+},
+{
+"text": "https://dos.myflorida.com/elections/for-voters/check-your-voter-status-and-polling-place/voter-precinct-lookup/",
+"href": "https://dos.myflorida.com/elections/for-voters/check-your-voter-status-and-polling-place/voter-precinct-lookup/"
+},
+{
+"text": "https://dos.myflorida.com/elections/for-voters/voting/accessible-voting-for-persons-with-disabilities/",
+"href": "https://dos.myflorida.com/elections/for-voters/voting/accessible-voting-for-persons-with-disabilities/"
+},
+{
+"text": "https://registertovoteflorida.gov/home",
+"href": "https://registertovoteflorida.gov/home"
+},
+{
+"text": "https://www.ncsl.org/research/elections-and-campaigns/2026-state-primary-election-dates-and-filing-deadlines.aspx",
+"href": "https://www.ncsl.org/research/elections-and-campaigns/2026-state-primary-election-dates-and-filing-deadlines.aspx"
+}
 ]

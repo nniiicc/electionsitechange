@@ -1,11 +1,42 @@
 [
-"http://tammywestforhouse.com/",
-"http://tammywestforhouse.com/about-tammy",
-"http://tammywestforhouse.com/contact",
-"http://tammywestforhouse.com/district-info",
-"http://tammywestforhouse.com/legislative-activities",
-"http://tammywestforhouse.com/press",
-"http://tammywestforhouse.com/volunteer",
-"https://facebook.com/TammyWestHouse84",
-"https://secure.anedot.com/tammy-west/donate"
+{
+"text": "About Tammy",
+"href": "http://tammywestforhouse.com/about-tammy/"
+},
+{
+"text": "Contact",
+"href": "http://tammywestforhouse.com/contact/"
+},
+{
+"text": "District Info",
+"href": "http://tammywestforhouse.com/district-info/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/tammy-west/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/TammyWestHouse84"
+},
+{
+"text": "Home",
+"href": "http://tammywestforhouse.com/"
+},
+{
+"text": "Legislative Activities",
+"href": "http://tammywestforhouse.com/legislative-activities/"
+},
+{
+"text": "Press",
+"href": "http://tammywestforhouse.com/press/"
+},
+{
+"text": "Volunteer",
+"href": "http://tammywestforhouse.com/volunteer/"
+},
+{
+"text": "[image: Tammy West for State House]",
+"href": "http://tammywestforhouse.com/"
+}
 ]

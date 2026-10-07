@@ -1,16 +1,3 @@
-top of page
-State Representative
-34th District
-Position 2 - Democrat
-Donate
-About Mary
-Why Mary
-Get Involved
-Events
-Upcoming Events
-Come Canvass with Us!
+top of page State Representative 34th District Position 2 - Democrat Donate About Mary Why Mary Get Involved Events Upcoming Events Come Canvass with Us!
 RSVP for dates or fill out form to sign up!
-West Seattle
-More info
-RSVP
-bottom of page
+West Seattle More info RSVP Mary for WA Democrat for the 34th Building a Better Future First and Last name Email * Yes, subscribe me to your newsletter. * Submit Paid for by Mary for WA maryforseattle@gmail.com Privacy Policy Accessibility Statement Terms and Conditions PO Box 46572 Seattle, WA 98146 © # by Mary Anito Powered and secured by Wix Professional photos by Chi K Photography Endorsed and Recognized by: bottom of page

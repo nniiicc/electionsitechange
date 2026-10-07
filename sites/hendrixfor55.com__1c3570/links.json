@@ -1,12 +1,46 @@
 [
-"https://facebook.com/travisthendrix",
-"https://hendrixfor55.com/",
-"https://hendrixfor55.com/about",
-"https://hendrixfor55.com/platform",
-"https://hendrixfor55.com/privacy",
-"https://hendrixfor55.com/volunteer",
-"https://instagram.com/hendrixfor55",
-"https://jotform.com/212488125559160",
-"https://linktr.ee/TRAVISHENDRIX",
-"https://secure.actblue.com/donate/committee-to-elect-travis-hendrix-1"
+{
+"text": "About",
+"href": "https://www.hendrixfor55.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/committee-to-elect-travis-hendrix-1"
+},
+{
+"text": "Home",
+"href": "https://www.hendrixfor55.com"
+},
+{
+"text": "Privacy",
+"href": "https://www.hendrixfor55.com/privacy"
+},
+{
+"text": "Stay Connected!",
+"href": "https://linktr.ee/TRAVISHENDRIX"
+},
+{
+"text": "Travis@travishendrix.com",
+"href": "mailto:Travis@travishendrix.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.hendrixfor55.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jotform.com/212488125559160"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/travisthendrix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/hendrixfor55/"
+},
+{
+"text": "[image: Travis Hendrix sitting on steps]",
+"href": "https://www.hendrixfor55.com/platform"
+}
 ]

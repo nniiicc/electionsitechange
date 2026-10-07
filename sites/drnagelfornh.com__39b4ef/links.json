@@ -1,12 +1,46 @@
 [
-"https://drnagelfornh.com/",
-"https://drnagelfornh.com/about-dave.html",
-"https://drnagelfornh.com/accomplishments.html",
-"https://drnagelfornh.com/contact.html",
-"https://drnagelfornh.com/latest-news.html",
-"https://drnagelfornh.com/priorities.html",
-"https://drnagelfornh.com/the-missing-chapter.html",
-"https://drnagelfornh.com/upcoming-eventsget-involved.html",
-"https://youtu.be/gBDa0xGJRXU",
-"https://youtube.com/live/Kw1rN9pM2NM?si=lRM9fRwoBhA7X6gE&t=19624"
+{
+"text": "About Dave",
+"href": "https://www.drnagelfornh.com/about-dave.html"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.drnagelfornh.com/accomplishments.html"
+},
+{
+"text": "Contact",
+"href": "https://www.drnagelfornh.com/contact.html"
+},
+{
+"text": "Home",
+"href": "https://www.drnagelfornh.com/"
+},
+{
+"text": "Latest News",
+"href": "https://www.drnagelfornh.com/latest-news.html"
+},
+{
+"text": "Priorities",
+"href": "https://www.drnagelfornh.com/priorities.html"
+},
+{
+"text": "The Missing Chapter",
+"href": "https://www.drnagelfornh.com/the-missing-chapter.html"
+},
+{
+"text": "Upcoming Events/Get Involved",
+"href": "https://www.drnagelfornh.com/upcoming-eventsget-involved.html"
+},
+{
+"text": "[image: Dr. Nagel for NH]",
+"href": "https://www.drnagelfornh.com/"
+},
+{
+"text": "https://www.youtube.com/live/Kw1rN9pM2NM?si=lRM9fRwoBhA7X6gE&t=19624",
+"href": "https://www.youtube.com/live/Kw1rN9pM2NM?si=lRM9fRwoBhA7X6gE&t=19624"
+},
+{
+"text": "https://youtu.be/gBDa0xGJRXU",
+"href": "https://youtu.be/gBDa0xGJRXU"
+}
 ]

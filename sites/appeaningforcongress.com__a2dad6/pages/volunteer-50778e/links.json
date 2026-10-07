@@ -1,11 +1,50 @@
 [
-"https://appeaningforcongress.com/",
-"https://appeaningforcongress.com/request-a-sign",
-"https://appeaningforcongress.com/volunteer",
-"https://facebook.com/moniqueappeaningforcongress",
-"https://instagram.com/moniqueappeaningforcongress",
-"https://linkedin.com/in/monique-appeaning-99618b3b3",
-"https://secure.anedot.com/committee-to-elect-monique-appeaning/donate",
-"https://tiktok.com/@appeaningforcongr",
-"https://youtube.com/@appeaningforcongress"
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/committee-to-elect-monique-appeaning/donate"
+},
+{
+"text": "ISSUES",
+"href": "https://www.appeaningforcongress.com"
+},
+{
+"text": "REQUEST A SIGN",
+"href": "https://www.appeaningforcongress.com/request-a-sign"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.appeaningforcongress.com/volunteer"
+},
+{
+"text": "[image: Full Color.png]",
+"href": "https://www.appeaningforcongress.com"
+},
+{
+"text": "[image: logo-Monique-Appeaning.png]",
+"href": "https://www.appeaningforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/moniqueappeaningforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/moniqueappeaningforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/monique-appeaning-99618b3b3/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@appeaningforcongr"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@appeaningforcongress"
+},
+{
+"text": "info@appeaningforcongress.com",
+"href": "mailto:info@appeaningforcongress.com"
+}
 ]

@@ -1,4 +1,2 @@
-Who I am and Why I'm Running
-New Hampshire should reflect the values that our country was founded upon – equal justice and opportunity for all.
-Learn More
-Learn More
+Connie Lane - Merrimack District 16 About Connie Priorities News Volunteer Contact Donate About Connie Priorities News Volunteer Contact Connie Lane - Merrimack District 16 Donate Scroll Who I am and Why I'm Running New Hampshire should reflect the values that our country was founded upon – equal justice and opportunity for all.
+Learn More Priorities Affordable healthcare Strong public education Sound and economical infrastructure Affordable housing Learn More Join Me Learn More Banner Meet Connie Priorities Volunteer © # Impact (603) 491-7379 connielane4staterep@gmail.com Powered by: Squarespace Photography by: www.jpuzaphoto.com and www.bryanjohnsonphotos.com Info Meet Connie Priorities News Paid for by: Campaign to Elect Connie Lane by Connie Lane, Fiscal Agent Action Volunteer Contact Donate

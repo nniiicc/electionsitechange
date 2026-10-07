@@ -1,7 +1,30 @@
 [
-"https://cookieadmin.net/",
-"https://ratutson.com/",
-"https://ratutson.com/sample-page",
-"https://ratutson.com/wp-admin",
-"https://wpastra.com/"
+{
+"text": "Astra WordPress Theme",
+"href": "https://wpastra.com"
+},
+{
+"text": "Home",
+"href": "https://ratutson.com/"
+},
+{
+"text": "Powered by",
+"href": "https://cookieadmin.net/"
+},
+{
+"text": "R. A. Tutson, LLC",
+"href": "https://ratutson.com/"
+},
+{
+"text": "Sample Page",
+"href": "https://ratutson.com/sample-page/"
+},
+{
+"text": "[image: R. A. Tutson, LLC]",
+"href": "https://ratutson.com/"
+},
+{
+"text": "your dashboard",
+"href": "https://ratutson.com/wp-admin/"
+}
 ]

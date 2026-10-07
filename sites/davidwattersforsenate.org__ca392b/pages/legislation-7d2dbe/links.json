@@ -1,34 +1,142 @@
 [
-"http://instagram.com/sendavidwatters",
-"https://davidwattersforsenate.org/",
-"https://davidwattersforsenate.org/aboutdavid",
-"https://davidwattersforsenate.org/contact",
-"https://davidwattersforsenate.org/contribute",
-"https://davidwattersforsenate.org/education",
-"https://davidwattersforsenate.org/environmentandculturalresources",
-"https://davidwattersforsenate.org/jobsandtheeconomy",
-"https://davidwattersforsenate.org/legislation",
-"https://davidwattersforsenate.org/ltes",
-"https://davidwattersforsenate.org/media",
-"https://davidwattersforsenate.org/new-page-35",
-"https://davidwattersforsenate.org/news",
-"https://davidwattersforsenate.org/newsletters",
-"https://davidwattersforsenate.org/opioidcrisis",
-"https://davidwattersforsenate.org/photography",
-"https://davidwattersforsenate.org/publicsafetyequityandprotectingfamilies",
-"https://davidwattersforsenate.org/s/2013-Legislation-complete-list-1.pdf",
-"https://davidwattersforsenate.org/s/David-Watters-2026-prime.docx",
-"https://davidwattersforsenate.org/s/Senator-David-Watters-2016-Prime.docx",
-"https://davidwattersforsenate.org/s/Senator-David-Watters-2016-Prime.pdf",
-"https://davidwattersforsenate.org/s/Senator-David-Watters-2017-Prime.docx",
-"https://davidwattersforsenate.org/s/Senator-David-Watters-2017-Prime.pdf",
-"https://davidwattersforsenate.org/s/Senator-David-Watters-2018-Prime.docx",
-"https://davidwattersforsenate.org/s/Senator-David-Watters-2018-Prime.pdf",
-"https://davidwattersforsenate.org/s/Senator-David-Watters-2021-Bills.docx",
-"https://davidwattersforsenate.org/s/Senator-David-Watters-2022-Bills-1-10-221.docx",
-"https://davidwattersforsenate.org/s/legislation-2014.docx",
-"https://davidwattersforsenate.org/s/legislation-2014.pdf",
-"https://davidwattersforsenate.org/volunteer",
-"https://davidwattersforsenate.org/womens-issues",
-"https://facebook.com/WattersforNHSenate"
+{
+"text": "About David",
+"href": "https://www.davidwattersforsenate.org/aboutdavid"
+},
+{
+"text": "Contact",
+"href": "https://www.davidwattersforsenate.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.davidwattersforsenate.org/contribute"
+},
+{
+"text": "Education",
+"href": "https://www.davidwattersforsenate.org/education"
+},
+{
+"text": "Environment and Cultural Resources",
+"href": "https://www.davidwattersforsenate.org/environmentandculturalresources"
+},
+{
+"text": "Home",
+"href": "https://www.davidwattersforsenate.org/"
+},
+{
+"text": "Jobs and the Economy",
+"href": "https://www.davidwattersforsenate.org/jobsandtheeconomy"
+},
+{
+"text": "LTEs",
+"href": "https://www.davidwattersforsenate.org/ltes"
+},
+{
+"text": "Legislation",
+"href": "https://www.davidwattersforsenate.org/legislation"
+},
+{
+"text": "Media",
+"href": "https://www.davidwattersforsenate.org/media"
+},
+{
+"text": "News",
+"href": "https://www.davidwattersforsenate.org/news"
+},
+{
+"text": "Newsletters",
+"href": "https://www.davidwattersforsenate.org/newsletters"
+},
+{
+"text": "Photography",
+"href": "https://www.davidwattersforsenate.org/photography"
+},
+{
+"text": "Public Safety, Equity, and Protecting Families",
+"href": "https://www.davidwattersforsenate.org/publicsafetyequityandprotectingfamilies"
+},
+{
+"text": "Recovery, Harm Reduction, and the Opioid Crisis",
+"href": "https://www.davidwattersforsenate.org/opioidcrisis"
+},
+{
+"text": "Senator Watters 2013 Legislation (PDF)",
+"href": "https://www.davidwattersforsenate.org/s/2013-Legislation-complete-list-1.pdf"
+},
+{
+"text": "Senator Watters 2013 Legislation (Word Doc)",
+"href": "https://www.davidwattersforsenate.org/s/2013-Legislation-complete-list-1.pdf"
+},
+{
+"text": "Senator Watters 2014 Legislation (PDF)",
+"href": "https://www.davidwattersforsenate.org/s/legislation-2014.pdf"
+},
+{
+"text": "Senator Watters 2014 Legislation (Word Doc)",
+"href": "https://www.davidwattersforsenate.org/s/legislation-2014.docx"
+},
+{
+"text": "Senator Watters 2016 Legislation (PDF)",
+"href": "https://www.davidwattersforsenate.org/s/Senator-David-Watters-2016-Prime.pdf"
+},
+{
+"text": "Senator Watters 2016 Legislation (Word Doc)",
+"href": "https://www.davidwattersforsenate.org/s/Senator-David-Watters-2016-Prime.docx"
+},
+{
+"text": "Senator Watters 2017 Legislation (PDF)",
+"href": "https://www.davidwattersforsenate.org/s/Senator-David-Watters-2017-Prime.pdf"
+},
+{
+"text": "Senator Watters 2017 Legislation (Word Doc)",
+"href": "https://www.davidwattersforsenate.org/s/Senator-David-Watters-2017-Prime.docx"
+},
+{
+"text": "Senator Watters 2018 Legislation (PDF)",
+"href": "https://www.davidwattersforsenate.org/s/Senator-David-Watters-2018-Prime.pdf"
+},
+{
+"text": "Senator Watters 2018 Legislation (Word Doc)",
+"href": "https://www.davidwattersforsenate.org/s/Senator-David-Watters-2018-Prime.docx"
+},
+{
+"text": "Senator Watters 2021 Legislation (Word Doc)",
+"href": "https://www.davidwattersforsenate.org/s/Senator-David-Watters-2021-Bills.docx"
+},
+{
+"text": "Senator Watters 2022 Legislation (Word Doc)",
+"href": "https://www.davidwattersforsenate.org/s/Senator-David-Watters-2022-Bills-1-10-221.docx"
+},
+{
+"text": "Senator Watters 2026 Legislation (Word Doc)",
+"href": "https://www.davidwattersforsenate.org/s/David-Watters-2026-prime.docx"
+},
+{
+"text": "The Climate Crisis and Renewable Energy",
+"href": "https://www.davidwattersforsenate.org/new-page-35"
+},
+{
+"text": "Volunteer",
+"href": "https://www.davidwattersforsenate.org/volunteer"
+},
+{
+"text": "Women and Family Issues",
+"href": "https://www.davidwattersforsenate.org/womens-issues"
+},
+{
+"text": "[image: David Watters for State Senate]",
+"href": "https://www.davidwattersforsenate.org/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/sendavidwatters"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WattersforNHSenate"
+},
+{
+"text": "[no text]",
+"href": "mailto:watterssenate@gmail.com"
+}
 ]

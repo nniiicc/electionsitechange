@@ -1,13 +1,46 @@
 [
-"https://kenjamison.com/",
-"https://kenjamison.com/about-ken-jamison",
-"https://kenjamison.com/contact",
-"https://kenjamison.com/endorsements",
-"https://kenjamison.com/priorities",
-"https://kenjamison.com/volunteer",
-"https://kenjamison.com/wp-content/uploads/2023/10/Ken-_Jamison_IMG_0164.jpg",
-"https://kenjamison.com/wp-content/uploads/2023/10/Kenneth_Jamison_284998198_5344712805586711_908899815195563412_n.jpg",
-"https://kenjamison.com/wp-content/uploads/2023/10/Kenneth_Jamison_Marine-Photo-2.jpg",
-"https://kenjamison.com/wp-content/uploads/2024/10/family-photo-2.jpg",
-"https://secure.actblue.com/donate/jamison-for-missouri-3"
+{
+"text": "About Ken",
+"href": "https://kenjamison.com/about-ken-jamison/"
+},
+{
+"text": "Contact",
+"href": "https://kenjamison.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jamison-for-missouri-3"
+},
+{
+"text": "Endorsements",
+"href": "https://kenjamison.com/endorsements/"
+},
+{
+"text": "Ken _Jamison_IMG_0164",
+"href": "https://kenjamison.com/wp-content/uploads/2023/10/Ken-_Jamison_IMG_0164.jpg"
+},
+{
+"text": "Kenneth_Jamison_284998198_5344712805586711_908899815195563412_n",
+"href": "https://kenjamison.com/wp-content/uploads/2023/10/Kenneth_Jamison_284998198_5344712805586711_908899815195563412_n.jpg"
+},
+{
+"text": "Kenneth_Jamison_Marine Photo 2",
+"href": "https://kenjamison.com/wp-content/uploads/2023/10/Kenneth_Jamison_Marine-Photo-2.jpg"
+},
+{
+"text": "Priorities",
+"href": "https://kenjamison.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://kenjamison.com/volunteer/"
+},
+{
+"text": "[image: Jamison For Missouri]",
+"href": "https://kenjamison.com"
+},
+{
+"text": "family-photo-2",
+"href": "https://kenjamison.com/wp-content/uploads/2024/10/family-photo-2.jpg"
+}
 ]

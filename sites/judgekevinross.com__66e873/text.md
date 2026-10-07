@@ -1,13 +1,4 @@
-top of page
-Delivering Justice for Twenty Years.
-Ross
-Minnesota Court of Appeals
-Re-Elect
-In two decades serving on the Minnesota Court of Appeals, Judge Ross has
-■ decided 4,100 appeals;
-■ authored 1,300 majority opinions;
-■ written 70 dissenting or concurring opinions;
-■ contributed to the quality of the law and lawyering;
-■ engaged in youth and community service.
-We ask for your vote on November 3, 2026, to keep Judge Kevin Ross on the court, doing Minnesota justice.
-bottom of page
+top of page Delivering Justice for Twenty Years .
+Ross Minnesota Court of Appeals ​ ​ Re-Elect ​ In two decades serving on the Minnesota Court of Appeals, Judge Ross has ​ ■ decided 4,100 appeals; ■ authored 1,300 majority opinions; ■ written 70 dissenting or concurring opinions; ■ contributed to the quality of the law and lawyering; ■ engaged in youth and community service. ​ We ask for your vote on November 3 , 2026, to keep Judge Kevin Ross on the court, doing Minnesota justice.
+Insights, Jots, and Particulars: Get to Know Judge Ross From Education to Educating How You Can Help From the Beat to the Bench Serving Community Family and Faith A Note from Judge Ross Prepared and published by Minnesota Citizens for Judge Kevin Ross ​ Tom Boyd and Cliff Greene Chairpersons Lori Anderson Treasurer © Minnesota Citizens for Judge Kevin Ross campaign@judgekevinross.com P.O.
+BOX 1035 Minnetonka, Minnesota, 55345 bottom of page

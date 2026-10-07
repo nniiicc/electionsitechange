@@ -1,6 +1,4 @@
-Frank Bertolino
-Newbury
-Hi, I’m a proud resident of Newbury.
+0 Skip to Content Kassner Campaign Violations - Why You Should Care About Dan Priorities Get Involved Yard Sign News Videos Events Claim Check: Kristin Kassner DONATE Open Menu Close Menu Kassner Campaign Violations - Why You Should Care About Dan Priorities Get Involved Yard Sign News Videos Events Claim Check: Kristin Kassner DONATE Open Menu Close Menu Kassner Campaign Violations - Why You Should Care About Dan Priorities Get Involved Yard Sign News Videos Events Claim Check: Kristin Kassner DONATE Frank Bertolino Newbury Hi, I’m a proud resident of Newbury.
 I’m a graduate of Triton Regional High School, a decorated Vietnam era veteran, successful business owner, and leader of many business and civic organizations, including the Newburyport Lions Club.
 I love my town, and it saddens me to see that working people, including our young people, veterans, and the elderly can no longer afford to live here.
 We need a State Representative who truly cares about the people of our town and works 24/7 to improve our lives.
@@ -13,3 +11,7 @@ Our building codes create burdensome efficiency requirements that add tens of th
 We need a change!
 Electing Dan in November means more transparency in government, more funds directed to local needs, and a door that is always open to hear your needs and concerns.
 Vote for Dan Kelly in November.
+Service.
+Civility.
+Accountability.
+Paid for By the Committee to Elect Dan Kelly

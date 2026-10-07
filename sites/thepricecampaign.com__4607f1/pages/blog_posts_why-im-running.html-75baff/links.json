@@ -1,9 +1,50 @@
 [
-"https://bsky.app/profile/thepricecampaign.bsky.social",
-"https://facebook.com/ThePriceCampaign",
-"https://instagram.com/thepricecampaign",
-"https://reddit.com/user/ThePriceCampaign",
-"https://thepricecampaign.com/",
-"https://thepricecampaign.com/blog",
-"https://thepricecampaign.com/vote"
+{
+"text": "Blog",
+"href": "https://www.thepricecampaign.com/blog/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/thepricecampaign.bsky.social"
+},
+{
+"text": "Contact",
+"href": "mailto:info@thepricecampaign.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ThePriceCampaign"
+},
+{
+"text": "Home",
+"href": "https://www.thepricecampaign.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/thepricecampaign"
+},
+{
+"text": "Join the campaign",
+"href": "https://www.thepricecampaign.com/#signup"
+},
+{
+"text": "Make your vote plan",
+"href": "https://www.thepricecampaign.com/vote/"
+},
+{
+"text": "Price campaign blog",
+"href": "https://www.thepricecampaign.com/"
+},
+{
+"text": "Reddit",
+"href": "https://www.reddit.com/user/ThePriceCampaign/"
+},
+{
+"text": "Voting info",
+"href": "https://www.thepricecampaign.com/vote/"
+},
+{
+"text": "info@thepricecampaign.com",
+"href": "mailto:info@thepricecampaign.com"
+}
 ]

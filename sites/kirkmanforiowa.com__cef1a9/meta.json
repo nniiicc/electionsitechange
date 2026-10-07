@@ -1,7 +1,11 @@
 {
  "description": "Jennifer Kirkman for Iowa house district 99.",
  "final_url": "https://www.kirkmanforiowa.com/",
- "paid_for_by": "Paid for by Kirkman for Iowa",
+ "fingerprint": "e838453c62657fbdb8dc577bce7ae301af1762b5",
+ "format": 3,
+ "paid_for_by": "Paid for by Kirkman for Iowa You need to enable JavaScript to run this app",
  "title": "Kirkman For Iowa",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

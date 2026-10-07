@@ -1,4 +1,5 @@
-| The Cares Act was supposed to help everyday Americans through the lock-down.
+Home Why I'm Running Issues Two Americas Contact Donate Volunteer #TwoAmericas We live in #TwoAmericas the Extreme Rich and Everybody else who is the #workingclass.
+The fine print 1/1/2021 The Cares Act was supposed to help everyday Americans through the lock-down.
 But when you look back on 2020, the Extreme Rich, Millionaires, and Billionaires received the bigger slice of the Cares Act pie.
 An estimated $257.95 billion went to millionaires and billionaires who did not need the money. $10 million, the max amount a small business can receive went to a local NC company, The Budd Group.
 If that name is not familiar, that is my former congressional opponent Rep.
@@ -21,7 +22,8 @@ This is the wealth redistribution Republicans warned us about.
 This pandemic has grotesquely inflamed income inequality.
 Before the Covid19 pandemic hit our nation and forced 1000’s of businesses to shutter forever, it created 52 new billionaires for a total of 659.
 In contrast, it sent millions to the unemployment lines, food bank lines, and homeless shelters.
-Those billionaires have a combined wealth of 4 Trillion dollars and 10 of those hold more than 1 Trillion. 10 people.
+Those billionaires have a combined wealth of 4 Trillion dollars and 10 of those hold more than 1 Trillion.
+10 people.
 It is simply wrong.
 I keep saying we live in #Two Americas.
 The #extremerich and everybody else.
@@ -38,7 +40,12 @@ Who can live on little money?
 As voters, we need to pay attention to income inequality and what our leaders are doing to us.
 Cause it looks like they are doing everything for themselves and corporations.
 Sources: NBC Business News – Wall Street minted 56 new billionaires since the pandemic began… by Martha C.
-White ProPublica – The CARES Act sent you a $1,200 Check but Gave Millionaires and Billionaires Far More. by Allan Sloan | Posts from before 2025 were written during Scott's campaigns for U.S.
+White ProPublica – The CARES Act sent you a $1,200 Check but Gave Millionaires and Billionaires Far More. by Allan Sloan Comments are closed.
+Posts from before 2025 were written during Scott's campaigns for U.S.
 Congress and are kept here as part of his public record.
 Author Scott Huffman Concerned Citizen, Small Business Entrepreneur, Veteran, turned Activist who ran for U.S.
-Congress Archives Categories |
+Congress Archives October 2026 September 2026 July 2026 May 2026 April 2026 October 2025 September 2025 June 2025 November 2021 September 2021 August 2021 February 2021 January 2021 November 2020 November 2019 September 2019 August 2019 July 2019 April 2019 March 2019 February 2019 May 2018 April 2016 Categories All RSS Feed × Before you go, can you donate $10?
+Donate $10 Not Now Paid for by Scott Huffman for NC House 76 Follow Scott on @TikTok at HuffmanForNC Use of Scott's military rank, titles, or photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+For inquiries, please contact [email protected] © COPYRIGHT #.
+Scott Huffman.
+ALL RIGHTS RESERVED Home Why I'm Running Issues Two Americas Contact Donate Volunteer Scott Huffman for NC

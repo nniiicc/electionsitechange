@@ -1,49 +1,190 @@
 [
-"https://apnews.com/article/mississippi-republican-runoff-election-congress-2024-c49ca93b248f92243b657d389a82d401",
-"https://atr.org/about-the-pledge",
-"https://atr.org/atr-applauds-winning-pledge-signers-in-mississippi",
-"https://campaignpartner.com/",
-"https://clarionledger.com/story/news/politics/elections/2024/10/30/bennie-thompson-ron-eller-running-for-mississippi-dist-2-congress/75894815007",
-"https://clarionledger.com/story/opinion/2025/11/25/its-time-to-restore-trust-in-government-why-congress-needs-term-limits/87375525007?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z115947p001350c001350d00----v115947b0035xxd003565&gca-ft=200&gca-ds=sophi",
-"https://deltanews.tv/news/political/mississippis-2nd-congressional-district-a-look-at-the-2026-race/article_3eb4e13b-f0e8-4910-bbe8-006b6b6f08e8.html",
-"https://facebook.com/VoteRonEller",
-"https://gwcommonwealth.com/its-time-restore-trust-government-why-congress-needs-term-limits-6914dfc777929",
-"https://instagram.com/voteroneller",
-"https://linkedin.com/in/ron-eller-912008116",
-"https://magnoliatribune.com/2022/09/07/eller-tapped-as-mississippi-state-chair-for-u-s-term-limits",
-"https://mississippifreepress.org/candidate-questionnaire-ron-eller-2nd-congressional-district-republican-primary",
-"https://mississippitoday.org/podcasts/the-other-side/eller-hopes-third-times-the-charm-in-bid-against-rep-bennie-thompson",
-"https://msgop.org/?p=841",
-"https://termlimits.com/new-poll-79-percent-of-mississippians-want-congressional-term-limits",
-"https://termlimits.com/ron-eller-pledges-to-support-term-limits-on-congress",
-"https://threads.net/@voteroneller",
-"https://tiktok.com/@ronellerforcongress",
-"https://voteroneller.com/",
-"https://voteroneller.com/contact",
-"https://voteroneller.com/contribute",
-"https://voteroneller.com/home",
-"https://voteroneller.com/issues",
-"https://voteroneller.com/meet_ron",
-"https://voteroneller.com/news",
-"https://voteroneller.com/news/Freedom-Caucus-calls-for-blocking-Bennie-Thompson-from-Trump-shooting-task-force",
-"https://voteroneller.com/news/Ron-Eller-Declares-Victory-in-MS-02-Republican-Primary",
-"https://voteroneller.com/news/Ron-Eller-Praises-President-Trumps-Trump-Savings-Accounts-Calls-on-Congressma",
-"https://voteroneller.com/news/Stand-for-Health-Freedom-endorses-Ron-Eller-for-Congress",
-"https://voteroneller.com/news/Term-Limits-Day-Mississippi-Helped-Lead-BeforeNow-Its-Time-to-Lead-Again",
-"https://voteroneller.com/news/ron-eller-signs-the-taxpayer-protection-pledge",
-"https://voteroneller.com/news/us-senator-roger-wicker-backs-eller-in-2nd-congressional-district",
-"https://voteroneller.com/photos",
-"https://voteroneller.com/swag",
-"https://voteroneller.com/view-endorsements",
-"https://voteroneller.com/volunteer",
-"https://voteroneller.com/vote",
-"https://voteroneller.com/yard-sign",
-"https://wapt.com/article/republican-ron-eller-looks-to-unseat-mississippis-longest-serving-congressman/62738838",
-"https://wapt.com/article/ron-eller-wants-to-help-provide-american-dream-in-2nd-congressional-district-seat/70591186",
-"https://webtalkradio.net/internet-talk-radio/2026/09/15/who-is-president-trumps-number-one-enemy-in-the-u-s-congress",
-"https://winonatimes.com/carroll-county-political-rally",
-"https://wlbt.com/2026/03/06/ron-eller-makes-third-bid-mississippis-2nd-congressional-district-seat",
-"https://wlbt.com/2026/06/25/challengers-rep-bennie-thompson-share-new-plans-reshape-how-2nd-congressional-district-is-served",
-"https://x.com/VoteRon",
-"https://youtube.com/watch?v=f2NjBBRSP6g"
+{
+"text": "ATR Applauds Winning Pledge Signers in Mississippi",
+"href": "https://atr.org/atr-applauds-winning-pledge-signers-in-mississippi/"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Candidate Questionnaire: Ron Eller, 2nd Congressional District Republican Primary",
+"href": "https://www.mississippifreepress.org/candidate-questionnaire-ron-eller-2nd-congressional-district-republican-primary/"
+},
+{
+"text": "Carroll County Political Rally",
+"href": "https://www.winonatimes.com/carroll-county-political-rally"
+},
+{
+"text": "Challengers of Rep. Bennie Thompson share new plans to reshape how the 2nd Congressional District is served",
+"href": "https://www.wlbt.com/2026/06/25/challengers-rep-bennie-thompson-share-new-plans-reshape-how-2nd-congressional-district-is-served/"
+},
+{
+"text": "Congressional District 2 race between Thompson and Eller. See what they are running on.",
+"href": "https://www.clarionledger.com/story/news/politics/elections/2024/10/30/bennie-thompson-ron-eller-running-for-mississippi-dist-2-congress/75894815007/"
+},
+{
+"text": "Contact",
+"href": "https://www.voteroneller.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.voteroneller.com/contribute"
+},
+{
+"text": "Eller hopes third time’s the charm in bid against Rep. Bennie Thompson",
+"href": "https://mississippitoday.org/podcasts/the-other-side/eller-hopes-third-times-the-charm-in-bid-against-rep-bennie-thompson/"
+},
+{
+"text": "Eller tapped as Mississippi State Chair for U.S. Term Limits",
+"href": "https://magnoliatribune.com/2022/09/07/eller-tapped-as-mississippi-state-chair-for-u-s-term-limits/"
+},
+{
+"text": "Eller wins Republican runoff in Mississippi 2nd District, will face Democratic Rep. Thompson",
+"href": "https://apnews.com/article/mississippi-republican-runoff-election-congress-2024-c49ca93b248f92243b657d389a82d401"
+},
+{
+"text": "Eller: It’s time to restore trust in government: Why Congress needs term limits",
+"href": "https://www.gwcommonwealth.com/its-time-restore-trust-government-why-congress-needs-term-limits-6914dfc777929"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteroneller.com/view-endorsements"
+},
+{
+"text": "Freedom Caucus calls for blocking Bennie Thompson from Trump shooting task force",
+"href": "https://www.voteroneller.com/news/Freedom-Caucus-calls-for-blocking-Bennie-Thompson-from-Trump-shooting-task-force"
+},
+{
+"text": "Home",
+"href": "https://www.voteroneller.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.voteroneller.com/issues"
+},
+{
+"text": "It’s time to restore trust in government: Why Congress needs term limits",
+"href": "https://www.clarionledger.com/story/opinion/2025/11/25/its-time-to-restore-trust-in-government-why-congress-needs-term-limits/87375525007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z115947p001350c001350d00----v115947b0035xxd003565&gca-ft=200&gca-ds=sophi"
+},
+{
+"text": "Meet Ron",
+"href": "https://www.voteroneller.com/meet_ron"
+},
+{
+"text": "Mississippi Republican Party Endorses Ron Eller for Mississippi’s 2nd Congressional District",
+"href": "https://www.msgop.org/?p=841"
+},
+{
+"text": "Mississippi's 2nd Congressional District: A Look at the 2026 Race",
+"href": "https://www.deltanews.tv/news/political/mississippis-2nd-congressional-district-a-look-at-the-2026-race/article_3eb4e13b-f0e8-4910-bbe8-006b6b6f08e8.html"
+},
+{
+"text": "New Poll: 79% of Mississippi Voters Support Term Limits on Congress",
+"href": "https://termlimits.com/new-poll-79-percent-of-mississippians-want-congressional-term-limits/"
+},
+{
+"text": "News",
+"href": "https://www.voteroneller.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.voteroneller.com/photos"
+},
+{
+"text": "Republican Ron Eller looks to unseat Mississippi’s longest-serving congressman",
+"href": "https://www.wapt.com/article/republican-ron-eller-looks-to-unseat-mississippis-longest-serving-congressman/62738838"
+},
+{
+"text": "Ron Eller Declares Victory in MS-02 Republican Primary",
+"href": "https://www.voteroneller.com/news/Ron-Eller-Declares-Victory-in-MS-02-Republican-Primary"
+},
+{
+"text": "Ron Eller Pledges to Support Term Limits on Congress",
+"href": "https://termlimits.com/ron-eller-pledges-to-support-term-limits-on-congress/"
+},
+{
+"text": "Ron Eller Praises President Trump's \"Trump Savings Accounts,\" Calls on Congressman Bennie Thompson to Put Mississippi Families First",
+"href": "https://www.voteroneller.com/news/Ron-Eller-Praises-President-Trumps-Trump-Savings-Accounts-Calls-on-Congressma"
+},
+{
+"text": "Ron Eller signs the Taxpayer Protection Pledge",
+"href": "https://www.voteroneller.com/news/ron-eller-signs-the-taxpayer-protection-pledge"
+},
+{
+"text": "Ron Eller wants to help provide 'American Dream' in 2nd Congressional District seat",
+"href": "https://www.wapt.com/article/ron-eller-wants-to-help-provide-american-dream-in-2nd-congressional-district-seat/70591186"
+},
+{
+"text": "Stand for Health Freedom endorses Ron Eller for Congress",
+"href": "https://www.voteroneller.com/news/Stand-for-Health-Freedom-endorses-Ron-Eller-for-Congress"
+},
+{
+"text": "Swag",
+"href": "https://www.voteroneller.com/swag"
+},
+{
+"text": "Taxpayer Protection Pledge",
+"href": "https://www.atr.org/about-the-pledge/"
+},
+{
+"text": "Term Limits Day: Mississippi Helped Lead Before—Now It's Time to Lead Again",
+"href": "https://www.voteroneller.com/news/Term-Limits-Day-Mississippi-Helped-Lead-BeforeNow-Its-Time-to-Lead-Again"
+},
+{
+"text": "U.S. Senator Roger Wicker backs Eller in 2nd Congressional District",
+"href": "https://www.voteroneller.com/news/us-senator-roger-wicker-backs-eller-in-2nd-congressional-district"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteroneller.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.voteroneller.com/vote"
+},
+{
+"text": "WLBT interviews Ron Eller on why he is Mississippi's best bet as our new Congressman",
+"href": "https://www.wlbt.com/2026/03/06/ron-eller-makes-third-bid-mississippis-2nd-congressional-district-seat/"
+},
+{
+"text": "Who Is President Trump’s Number One Enemy in the U.S. Congress?",
+"href": "https://webtalkradio.net/internet-talk-radio/2026/09/15/who-is-president-trumps-number-one-enemy-in-the-u-s-congress/"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.voteroneller.com/yard-sign"
+},
+{
+"text": "[image: Ron Eller for Congress]",
+"href": "https://www.voteroneller.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteRonEller"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/voteroneller/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/ron-eller-912008116/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@voteroneller"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ronellerforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=f2NjBBRSP6g"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VoteRon"
+}
 ]

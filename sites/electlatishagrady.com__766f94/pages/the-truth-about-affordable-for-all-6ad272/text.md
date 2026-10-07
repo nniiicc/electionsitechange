@@ -1,4 +1,4 @@
-There’s a difference between affordability and the unsustainable “affordable for all” policies progressives promise voters.
+Skip to content Home Meet Latisha Policies Volunteer D18 Neighborhoods Donate SHOP Home Meet Latisha Policies Volunteer D18 Neighborhoods Donate SHOP The Truth About Affordable “For All” & Affordability / Position Paper / By Latisha Grady There’s a difference between affordability and the unsustainable “affordable for all” policies progressives promise voters.
 You’ve heard them: “affordable housing,” “affordable healthcare,” free childcare, free grocery stores.
 Three things determine our ability to afford the lifestyle we want: income, skill, and environment.
 Our biggest wealth-building tool is our income.
@@ -11,4 +11,5 @@ A native New Yorker posted an explicit grievance describing this progressive pol
 Consequently, many working-class families end up trapped at or below the poverty line because it pays better to stay there than the effort required to climb out of it.
 In other words, affordable healthcare, housing, free groceries, and childcare benefits those with no plans to exit poverty the most.
 My vision for North Carolinians is real affordability, not generational government dependence.
-My policy positions, listed here, are grounded in common sense and classical economic principles that address what I see as a leading cause of the affordability crisis, both locally and nationally: government-sponsored poverty.
+My policy positions, listed here, are grounded in common sense and classical economic principles that address what I see as a leading cause of the affordability crisis, both locally and nationally: government-sponsored poverty. ← Previous Post support@electlatishagrady.com P.O.
+Box 4371 Wilmington, NC 28406 Terms & Conditions Privacy Policy DONATE VOLUNTEER REQUEST A YARD SIGN Copyright © # Paid for by Committee to Elect Latisha Grady Powered by Christ Instagram Facebook

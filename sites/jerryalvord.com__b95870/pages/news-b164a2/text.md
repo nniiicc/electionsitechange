@@ -1,4 +1,2 @@
-An Ardmore Independence Day tradition: Trinity Baptist ushers in July 4th with annual veterans breakfast
-Local officials concerned as government layoffs hit NOAA, National Weather Service
-County Commissioner Jerry Alvord to Seek State Senate District 14 Seat
-First Republican is elected to Carter County commission since 1922
+top of page Home About Jerry Alvord Endorsements News Platform Contact DONATE NEws An Ardmore Independence Day tradition: Trinity Baptist ushers in July 4th with annual veterans breakfast Local officials concerned as government layoffs hit NOAA, National Weather Service ​ County Commissioner Jerry Alvord to Seek State Senate District 14 Seat ​ First Republican is elected to Carter County commission since 1922 Home About Jerry Alvord Endorsements News Platform Contact More Use tab to navigate through the menu items.
+Authorized & Paid for by Friends of Jerry Alvord for State Senate 2022 POB 522, Lone Grove, OK 73443 bottom of page

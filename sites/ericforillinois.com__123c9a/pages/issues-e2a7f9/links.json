@@ -1,25 +1,134 @@
 [
-"https://bsky.app/profile/ericsorensen.bsky.social",
-"https://designedtorun.com/",
-"https://ericforillinois.com/",
-"https://ericforillinois.com/about",
-"https://ericforillinois.com/achievements",
-"https://ericforillinois.com/contact",
-"https://ericforillinois.com/issues/government",
-"https://ericforillinois.com/issues/healthcare",
-"https://ericforillinois.com/issues/jobs",
-"https://ericforillinois.com/issues/local-infrastructure",
-"https://ericforillinois.com/issues/public-safety",
-"https://ericforillinois.com/issues/reproductive-rights",
-"https://ericforillinois.com/issues/seniors",
-"https://ericforillinois.com/issues/veterans",
-"https://ericforillinois.com/lgbtq-advocacy",
-"https://ericforillinois.com/media",
-"https://ericforillinois.com/news",
-"https://ericforillinois.com/privacy-policy",
-"https://ericforillinois.com/volunteer",
-"https://facebook.com/EricForIllinois",
-"https://instagram.com/ericforillinois",
-"https://secure.actblue.com/donate/es-homepage",
-"https://x.com/ERICSORENSEN"
+{
+"text": "Achievements",
+"href": "https://www.ericforillinois.com/achievements"
+},
+{
+"text": "Contact",
+"href": "https://www.ericforillinois.com/contact"
+},
+{
+"text": "Creating Jobs and Lowering Costs for Illinois",
+"href": "https://www.ericforillinois.com/issues/jobs"
+},
+{
+"text": "Cutting the Cost of Healthcare/Prescription Drugs",
+"href": "https://www.ericforillinois.com/issues/healthcare"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/es-homepage"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ericforillinois.com/volunteer"
+},
+{
+"text": "LGBTQ+ Advocacy",
+"href": "https://www.ericforillinois.com/lgbtq-advocacy"
+},
+{
+"text": "Making Government Work for Illinois",
+"href": "https://www.ericforillinois.com/issues/government"
+},
+{
+"text": "Media",
+"href": "https://www.ericforillinois.com/media"
+},
+{
+"text": "Meet Eric",
+"href": "https://www.ericforillinois.com/about"
+},
+{
+"text": "News",
+"href": "https://www.ericforillinois.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ericforillinois.com/privacy-policy"
+},
+{
+"text": "Protecting Reproductive Rights",
+"href": "https://www.ericforillinois.com/issues/reproductive-rights"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Strengthening Local Infrastructure",
+"href": "https://www.ericforillinois.com/issues/local-infrastructure"
+},
+{
+"text": "Supporting Public Safety and Law Enforcement",
+"href": "https://www.ericforillinois.com/issues/public-safety"
+},
+{
+"text": "Supporting Seniors and Social Security",
+"href": "https://www.ericforillinois.com/issues/seniors"
+},
+{
+"text": "Supporting Veterans",
+"href": "https://www.ericforillinois.com/issues/veterans"
+},
+{
+"text": "View more",
+"href": "https://www.ericforillinois.com/issues/government"
+},
+{
+"text": "View more",
+"href": "https://www.ericforillinois.com/issues/healthcare"
+},
+{
+"text": "View more",
+"href": "https://www.ericforillinois.com/issues/jobs"
+},
+{
+"text": "View more",
+"href": "https://www.ericforillinois.com/issues/local-infrastructure"
+},
+{
+"text": "View more",
+"href": "https://www.ericforillinois.com/issues/public-safety"
+},
+{
+"text": "View more",
+"href": "https://www.ericforillinois.com/issues/reproductive-rights"
+},
+{
+"text": "View more",
+"href": "https://www.ericforillinois.com/issues/seniors"
+},
+{
+"text": "View more",
+"href": "https://www.ericforillinois.com/issues/veterans"
+},
+{
+"text": "View more",
+"href": "https://www.ericforillinois.com/lgbtq-advocacy"
+},
+{
+"text": "[image: Eric for Illinois]",
+"href": "https://www.ericforillinois.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ericsorensen.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/EricForIllinois/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ericforillinois/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ERICSORENSEN"
+},
+{
+"text": "info@ericforillinois.com",
+"href": "mailto:info@ericforillinois.com"
+}
 ]

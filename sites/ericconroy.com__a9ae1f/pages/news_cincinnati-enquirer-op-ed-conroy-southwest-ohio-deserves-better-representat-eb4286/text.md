@@ -1,5 +1,4 @@
-Donate to Eric Conroy for Congress
-After 9/11, I was called to serve, first in the Air Force, then with the CIA.
+Skip to content Donate to Eric Conroy for Congress Home Meet Eric Issues Close Issues Open Issues Border Security Cryptocurrency and Blockchain Education Jobs and the Economy National Defense Protecting Women's Sports Safe Neighborhoods Small Business Social Security and Medicare Transportation and Infrastructure Veterans Media Center Close Media Center Open Media Center In the News Press Kit Action Center Close Action Center Open Action Center Endorse Eric Volunteer for Eric Contact Facebook X-twitter Instagram Youtube Donate News Cincinnati Enquirer Op-Ed Conroy: Southwest Ohio deserves better representation in Congress March 7, 2026 After 9/11, I was called to serve, first in the Air Force, then with the CIA.
 For nearly two decades, I led intelligence operations on battlefields and in the shadows, from Afghanistan to Iraq to the capitals of Europe.
 Every mission had one objective: protect and serve the American people.
 I never asked whether the soldier next to me was a Democrat or a Republican.
@@ -20,8 +19,7 @@ The contrast in this race is clear.
 On the economy, I will fight to cut taxes for middle-class families, reduce the regulations strangling small businesses, unleash American energy to drive down costs, and rebalance trade deals that have shipped Ohio jobs overseas.
 President Donald Trump’s agenda is good for the American worker and the American middle class.
 Landsman’s record is the opposite: more taxes, more regulation, policies that strangle domestic energy production, and a willingness to sell out American workers to foreign competition.
-Cincinnati families are still paying the price for that failed agenda every time they go to the grocery store or fill up their tanks.’
-On public safety, the choice is just as stark.
+Cincinnati families are still paying the price for that failed agenda every time they go to the grocery store or fill up their tanks.’ On public safety, the choice is just as stark.
 In 2020, while violent crime was rising across Cincinnati, Landsman was on City Council proposing to reallocate hundreds of thousands of dollars from the police budget, joining the reckless defund-the-police movement.
 He has pushed to end cash bail, which would put dangerous repeat offenders right back on our streets.
 Now, he wants to abolish ICE and leave dangerous undocumented immigrants in our communities.
@@ -41,10 +39,20 @@ I am asking for your support because I know what it takes to get the job done, a
 The American Dream should be within reach for every Ohioan − and together, we’re going to make sure it is.
 Eric Conroy is a Republican candidate for Ohio’s 1st Congressional District.
 Read at Cincinnati.com.
-About Eric Conroy
-Eric Conroy’s mission began on the West Side of Cincinnati, where four generations of blue-collar grit and a World War II veteran grandfather taught him that service is bigger than self.
+About Eric Conroy Eric Conroy’s mission began on the West Side of Cincinnati, where four generations of blue-collar grit and a World War II veteran grandfather taught him that service is bigger than self.
 After 9/11, Eric answered his generation’s call, graduating from the U.S.
 Air Force Academy near the top of his class, rising to the rank of Captain in Special Operations units, and later serving with the CIA as a Case Officer where he conducted high-risk intelligence missions that kept Americans safe.
 Though his service took him around the world several times, Eric’s heart never left Cincinnati.
 Now, he’s running for Congress to fight for working families, revitalize Main Street, and keep our communities safe—because the American Dream should be within reach for every Ohioan.
-###
+### Conroy for Congress 2692 Madison Rd.
+Suite N1, Box #358 Cincinnati, OH 45208 Quick Links Meet Eric Issues News Press Kit Volunteer Endorse Privacy Policy Terms and Conditions Facebook X-twitter Instagram Youtube Issues Jobs and the economy Safe Neighborhoods Border Security Transportation and Infrastructure Education Small Business Veterans Cryptocurrency and Blockchain Social Security and Medicare National Defense DisclaimerS By providing your telephone number, you consent to receive calls and text messages from Conroy for Congress.
+Message & data rates may apply.
+Message frequency may vary.
+Messaging may include requests for donations.
+Mobile opt-in data will not be shared with third parties.
+Reply “STOP” to opt-out & “HELP” for help.
+View Privacy Policy and our Terms & Conditions for more info.
+Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense, Department of the Air Force, or the Central Intelligence Agency.
+Paid for by Conroy for Congress © # Conroy for Congress.
+All Rights Reserved.
+Home Meet Eric Issues News Press Kit Volunteer Endorse Contact Privacy Policy Terms and Conditions Donate

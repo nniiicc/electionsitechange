@@ -1,7 +1,9 @@
 {
  "description": "Hamilton for Texas Campaign Events",
  "final_url": "https://www.hamiltonfortexas.com/events",
- "paid_for_by": null,
+ "fingerprint": "dea49b4e82ba10a15e86702c16d6e9ce37a84dd1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Hamilton for Texas Campaign Events",
  "years_mentioned": [
   "2024",

@@ -1,5 +1,7 @@
-Action, Not Talk
-We are already feeling the effects of climate change here in Connecticut—from stronger storms and flooding to rising energy and insurance costs.
+Skip to content MICHELLE EMBREE KU FOR NEWTOWN Search About About Michelle Photos Accomplishments A Clear Choice for Newtown Common Sense.
+Real Backbone.
+Get Involved Volunteer!
+Subscribe Contact News Latest Posts Facebook Feed Instagram Feed Newtown Bee: Letters to the Editor Issues Affordable Housing Action Not Talk Strong Schools Healthcare Traffic Regarding Property Taxes Home Action, Not Talk We are already feeling the effects of climate change here in Connecticut—from stronger storms and flooding to rising energy and insurance costs.
 This is no longer a distant issue.
 It is impacting our homes, our budgets, and our future.
 Michelle Embree Ku believes it is time to move beyond talk and take real, practical action that delivers results for families.
@@ -16,3 +18,6 @@ Michelle understands that environmental policy must be both responsible and real
 Her approach focuses on solutions that protect taxpayers while delivering measurable results—not unfunded mandates or empty promises.
 This is about safeguarding our community today and ensuring a stronger, more secure future for the next generation.
 Michelle Embree Ku is ready to lead with action—and she will not back down.
+Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
+Brian Hartgraves Treasurer.
+Approved by Michelle Embree Ku.

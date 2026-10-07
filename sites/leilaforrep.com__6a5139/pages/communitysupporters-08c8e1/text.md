@@ -1,11 +1,6 @@
-Community Supporters
-Mike festa, melrose (former state representative, 32nd Middlesex)
-“We need a state representative who will tackle the though issues, listen to us, and work every day to make Massachusetts a more affordable and vibrant place to live for our seniors and our families.
-Leila is that person, with the track record to back it up, and I’m proud to support her.”
-polly mathewson & mark Erelli, Melrose
-“Leila always carries herself with grace, style, and charisma, as engaged and knowledgeable about the issues facing our area as she is her own family.
-She is fair and diplomatic, with a rigorous understanding of public policy encompassing both its legislative implications and the people it is meant to serve and support.”
-- “We have known Leila Migliorelli for over 15 years.
+Home Meet Leila Priorities Supporters Endorsements Community Supporters Volunteer Donate Home Meet Leila Priorities Supporters Endorsements Community Supporters Volunteer Donate Supporters Endorsements Community Supporters Community Supporters Mike festa, melrose (former state representative, 32nd Middlesex) “We need a state representative who will tackle the though issues, listen to us, and work every day to make Massachusetts a more affordable and vibrant place to live for our seniors and our families.
+Leila is that person, with the track record to back it up, and I’m proud to support her.” polly mathewson & mark Erelli, Melrose “Leila always carries herself with grace, style, and charisma, as engaged and knowledgeable about the issues facing our area as she is her own family.
+She is fair and diplomatic, with a rigorous understanding of public policy encompassing both its legislative implications and the people it is meant to serve and support.” Read Polly & Mark's letter “We have known Leila Migliorelli for over 15 years.
 Our children have shared classrooms from kindergarten through high school, and we’ve shared many hours in all kinds of weather watching them together from the sidelines of soccer fields and baseball diamonds.
 Our friendship may be rooted in our shared experience as Melrose parents, but it deepened into respect and admiration while witnessing her rigorous civic engagement via her service on our City Council (including two years as its President.) Living in the same community as our elected officials affords us the chance to interact in a shared context that includes both municipal meetings and chance encounters around town.
 Leila always carries herself with grace, style, and charisma, as engaged and knowledgeable about the issues facing our area as she is her own family.
@@ -14,11 +9,8 @@ Here in Melrose, we have seen Leila work tirelessly to move the needle on import
 Though is not afraid to push back when her constituents’ health and security are under threat, she always finds a way to remain smiling - she seems to really enjoy this kind of work.
 Though deeply committed to our own careers in healthcare and the arts, it matters to us that we are represented by someone honest and capable, someone clear-eyed and creative, who has the best interests of our community at heart.
 For us, that person is Leila Migliorelli.
-We are proud to support her candidacy for State Representative, and wholeheartedly encourage others to do the same.”
-Mary Caddle, Melrose
-“The case to vote for Leila Migliorelli is clear.
-She offers unique experience - legislative experience; collaborative, elected leadership; a track record of support for investment in public education; and the willingness to speak hard truths.”
-- “Looking ahead to the September 1 primary election, the case to vote for Leila Migliorelli for State Representative is very clear.
+We are proud to support her candidacy for State Representative, and wholeheartedly encourage others to do the same.” Mary Caddle, Melrose “The case to vote for Leila Migliorelli is clear.
+She offers unique experience - legislative experience; collaborative, elected leadership; a track record of support for investment in public education; and the willingness to speak hard truths.” Read Mary Caddle and Tom Karthaus's joint letter “Looking ahead to the September 1 primary election, the case to vote for Leila Migliorelli for State Representative is very clear.
 Leila and her opponent, Jay Higgins, agree on some things: they’re both concerned about affordability; and they have both stated their support for audits of the state legislature.
 But Leila offers experience Jay does not: legislative experience; collaborative, elected leadership; a track record of support for investment in public education; and the willingness to speak hard truths.
 During Leila’s time as a city council member and then as president, councillors ranged widely in their beliefs, but they still moved forward, and she was a key part of the communication, collaboration, and leadership that led to action.
@@ -37,23 +29,17 @@ If we want to have social supports and a functioning society, then we need to be
 We know this, Leila knows this, and we’re pretty sure Mr.
 Higgins knows this.
 He can’t put that knowledge aside when it’s convenient, so we’ll be voting for Leila.
-We know where she stands.”
-sandy dixon & tracey cruickshank, Melrose
-“As a member of the State Legislature, Leila will bring her knowledge and experience to the state level where she will be tasked with addressing local needs and advocating to bring state funding to our city.
-We want a fierce advocate like Leila in the State House!”
-- “We are writing in strong support of Leila Migliorelli for State Representative in the September 1 primary election.
+We know where she stands.” sandy dixon & tracey cruickshank, Melrose “As a member of the State Legislature, Leila will bring her knowledge and experience to the state level where she will be tasked with addressing local needs and advocating to bring state funding to our city.
+We want a fierce advocate like Leila in the State House!” Read sandy & tracey's letter “We are writing in strong support of Leila Migliorelli for State Representative in the September 1 primary election.
 Leila served in the Melrose City Council for 6 years, chairing the Finance, Appropriations and Oversight, and Legal and Legislative committees, and working for the past two years as Council President.
 Over her 6 years on the city council, Leila has gotten to know Melrose and its government from the ground up: by listening to her constituents, learning about our finances and needs, and understanding the budget and all its constraints.
 She listened to community members and led the city councilors, 11 diverse voices, in making decisions that were in the best interest of Melrose.
 As a member of the State Legislature, Leila will bring her knowledge and experience to the state level where she will be tasked with addressing local needs and advocating to bring state funding to our city.
 We want a fierce advocate like Leila in the State House!
 Leila knows Melrose and there is no better person to keep the concerns of Melrose front and center with every vote she casts.
-We will proudly be voting for Leila on September 1 and we hope you will join us.”
-Nyal Fuentes, Melrose
-“What I appreciate about Leila’s leadership is that she is a collaborator.
+We will proudly be voting for Leila on September 1 and we hope you will join us.” Nyal Fuentes, Melrose “What I appreciate about Leila’s leadership is that she is a collaborator.
 She understands that work is not done alone and that much of the work of governing is done in a thoughtful grind, gathering information, getting input and making the call.
-The work in the legislature is not for dilettantes, it is not for bomb throwers, it is not for those seeking attention, it is for those who are going to listen, to work, and to produce the results to better serve their constituents and build a strong future for the Commonwealth.”
-- “I’ve been a homeowner in Melrose for over two decades with my wife and my two girls have attended Melrose Public Schools.
+The work in the legislature is not for dilettantes, it is not for bomb throwers, it is not for those seeking attention, it is for those who are going to listen, to work, and to produce the results to better serve their constituents and build a strong future for the Commonwealth.” read Nyal's letter “I’ve been a homeowner in Melrose for over two decades with my wife and my two girls have attended Melrose Public Schools.
 We have benefitted from living in a city that in general has believed in a common good and a solid future for our families.
 Leila has been part of that common good, illustrated by hard work, dedication, intelligence, a belief in our community and a sense of justice.
 What I appreciate about Leila’s leadership is that she is a collaborator.
@@ -68,15 +54,10 @@ These are issues that face all of us daily and have no quick and easy fixes.
 There is no one bill or effort that will help alleviate the economic stressors many families feel every day and these changes must happen in a thoughtful and collaborative manner.
 Part of this is building state-municipal partnerships and Leila has the experience on the municipal end to understand the reality of implementing complex policies.
 I could also say that we should vote for Leila because she is a mom who has engaged in and believes in community, but Melrose is fortunate to have many of these folks.
-Leila believes in working with those who are struggling to build better lives and understands that strength comes from our diversity and protecting those who are seeking that blessing of the American dream is an ethical, moral and economic priority.”
-david ledonne, wakefield (Vice-Chair, Wakefield Board of Assessors)
-"I am pleased to offer my wholehearted endorsement of Leila Bhatti Migliorelli for State Representative of the 32nd Middlesex District.
-I believe that Leila’s experience as a Melrose City Councilor and Council President, as well as her experience in higher education, will ensure that we have strong and knowledgeable advocate on Beacon Hill.”
-Kara Cohen, wakefield
-“Leila has the skills, values and experience that I look for in a candidate.
+Leila believes in working with those who are struggling to build better lives and understands that strength comes from our diversity and protecting those who are seeking that blessing of the American dream is an ethical, moral and economic priority.” david ledonne, wakefield (Vice-Chair, Wakefield Board of Assessors) "I am pleased to offer my wholehearted endorsement of Leila Bhatti Migliorelli for State Representative of the 32nd Middlesex District.
+I believe that Leila’s experience as a Melrose City Councilor and Council President, as well as her experience in higher education, will ensure that we have strong and knowledgeable advocate on Beacon Hill.” Kara Cohen, wakefield “Leila has the skills, values and experience that I look for in a candidate.
 She has championed environmental stewardship, stood up for LGBTQ+ families, and has been a consistent voice in support of strengthening public education.
-Leila has real-life on the ground experience focusing on affordable housing and also on tax relief for seniors.”
-- “As a Wakefield resident and a parent of two rising seniors at WMHS, I am so pleased to cast my vote for Leila Migliorelli for State Rep in this year's Democratic primary on September 1.
+Leila has real-life on the ground experience focusing on affordable housing and also on tax relief for seniors.” read kara's letter “As a Wakefield resident and a parent of two rising seniors at WMHS, I am so pleased to cast my vote for Leila Migliorelli for State Rep in this year's Democratic primary on September 1.
 Leila has the skills, values and experience that I look for in a candidate.
 She has championed environmental stewardship, stood up for LGBTQ+ families, and has been a consistent voice in support of strengthening public education.
 Leila has real-life on the ground experience focusing on affordable housing and also on tax relief for seniors.
@@ -86,12 +67,9 @@ It is clear to me that she really cares about people and is solution-oriented, t
 If you don’t get to meet Leila in her travels in Wakefield, door to door or at the Farmer’s Market, take my word that she is a good listener and a leader who cares about what people really need.
 It matters who represents us at every level.
 I hope you will join me and my wife in supporting Leila Migliorelli for State Rep on or by Tuesday, September 1.
-You can vote by mail, in-person early (Town Hall), or on Election Day (Galvin Middle School).”
-anne danehy, wakefield, Former town councilor
-“Leila has experience with collaboration at the local level, which she will bring to her work at the State House.
+You can vote by mail, in-person early (Town Hall), or on Election Day (Galvin Middle School).” anne danehy, wakefield, Former town councilor “Leila has experience with collaboration at the local level, which she will bring to her work at the State House.
 I know she will be a strong advocate for Wakefield, Melrose and Malden.
-We need that now, more than ever.”
-- “As a former local elected leader, I know what it takes to deliver results for Wakefield.
+We need that now, more than ever.” read anne's letter “As a former local elected leader, I know what it takes to deliver results for Wakefield.
 That's why I look for candidates who lead with their values and have a record of getting things done.
 This year, I will be voting for Leila Migliorelli for State Representative in the Democratic primary on Tuesday, September 1.
 Leila is a former Melrose City Councilor and Council President, and she has extensive experience in higher education and the nonprofit world.
@@ -103,11 +81,8 @@ Wakefield does a good job planning for maintenance and improvements, but our tow
 For large-scale infrastructure investments, planning and funding must be done in close coordination with the state.
 Leila has experience with this collaboration at the local level, which she will bring to her work at the State House.
 I know she will be a strong advocate for Wakefield, Melrose and Malden.
-We need that now, more than ever.”
-fred rich lariccia, wakefield
-“Leila has the right combination of values and action.
-She understands what matters to Wakefield residents and families: public education, health care, investment in infrastructure like roads and our downtown, and preservation of our parks and open spaces”
-- “I know I am a frequent writer on matters of local and state politics.
+We need that now, more than ever.” fred rich lariccia, wakefield “Leila has the right combination of values and action.
+She understands what matters to Wakefield residents and families: public education, health care, investment in infrastructure like roads and our downtown, and preservation of our parks and open spaces” Read fred's letter “I know I am a frequent writer on matters of local and state politics.
 That's because I care deeply about who represents our community.
 In the State Rep race--a Democratic primary on September 1--I will proudly support Leila Migliorelli.
 Leila, a former three-term City Councilor in Melrose and City Council President, has the right combination of values and action.
@@ -115,8 +90,6 @@ She understands what matters to Wakefield residents and families: public educati
 She will stand up to attacks on our democracy coming from Washington, DC.
 She will listen to us.
 And she gets things done.
-We need someone who can represent our values and who has a strong track record of doing the work: understanding issues, collaborating with colleagues, reaching out to the community, and moving things forward.”
-adam weldai, malden (former school committee member, ward 5)
-“Leila cares about community.
+We need someone who can represent our values and who has a strong track record of doing the work: understanding issues, collaborating with colleagues, reaching out to the community, and moving things forward.” adam weldai, malden (former school committee member, ward 5) “Leila cares about community.
 She shows up, rolls up her sleeves, and does the work.
-I know that Leila will be there fighting for funding our schools, supporting our seniors, and leading on policy that makes Massachusetts stronger and more affordable for all.”
+I know that Leila will be there fighting for funding our schools, supporting our seniors, and leading on policy that makes Massachusetts stronger and more affordable for all.” Back to Top DONATE Follow Leila on Facebook , & Instagram Paid for by The Committee to Elect Leila Migliorelli

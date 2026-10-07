@@ -1,20 +1,90 @@
 [
-"http://aboutads.info/choices.",
-"http://aboutads.info/consumers.",
-"http://allaboutcookies.org/",
-"http://optout.aboutads.info/)",
-"http://optout.networkadvertising.org/?c=1%29.",
-"http://youradchoices.com/appchoices.",
-"https://facebook.com/profile.php?id=61558854819087",
-"https://guidoneforsenate.com/",
-"https://guidoneforsenate.com/contact",
-"https://guidoneforsenate.com/get-involved",
-"https://guidoneforsenate.com/meet-jason",
-"https://guidoneforsenate.com/meet-jason/out-and-about",
-"https://guidoneforsenate.com/news",
-"https://guidoneforsenate.com/privacy-policy",
-"https://instagram.com/guidoneforctsenate19",
-"https://policies.google.com/privacy?hl=en.",
-"https://tools.google.com/dlpage/gaoptout",
-"https://x.com/ForSenateCTD19"
+{
+"text": "CONTACT",
+"href": "https://www.guidoneforsenate.com/contact"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.guidoneforsenate.com/get-involved"
+},
+{
+"text": "HOMEPAGE",
+"href": "https://www.guidoneforsenate.com"
+},
+{
+"text": "MEET JASON",
+"href": "https://www.guidoneforsenate.com/meet-jason"
+},
+{
+"text": "MY PLAN",
+"href": "https://www.guidoneforsenate.com"
+},
+{
+"text": "NEWS",
+"href": "https://www.guidoneforsenate.com/news"
+},
+{
+"text": "OUT & ABOUT",
+"href": "https://www.guidoneforsenate.com/meet-jason/out-and-about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.guidoneforsenate.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61558854819087"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/guidoneforctsenate19"
+},
+{
+"text": "[image: WHITE LOGO-TRANSPARENT.png]",
+"href": "https://www.guidoneforsenate.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/ForSenateCTD19"
+},
+{
+"text": "http://optout.aboutads.info/)",
+"href": "http://optout.aboutads.info/)"
+},
+{
+"text": "http://optout.networkadvertising.org/?c=1).",
+"href": "http://optout.networkadvertising.org/?c=1%29."
+},
+{
+"text": "http://www.allaboutcookies.org",
+"href": "http://www.allaboutcookies.org"
+},
+{
+"text": "https://guidoneforsenate.com",
+"href": "https://guidoneforsenate.com"
+},
+{
+"text": "https://policies.google.com/privacy?hl=en.",
+"href": "https://policies.google.com/privacy?hl=en."
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "info@guidoneforsenate.com",
+"href": "mailto:info@guidoneforsenate.com"
+},
+{
+"text": "info@guidoneforsenate.com",
+"href": "mailto:info@guidoneforsenate.com?subject=Website+Inquiry"
+},
+{
+"text": "www.aboutads.info/choices.",
+"href": "http://www.aboutads.info/choices."
+},
+{
+"text": "www.youradchoices.com/appchoices.",
+"href": "http://www.youradchoices.com/appchoices."
+}
 ]

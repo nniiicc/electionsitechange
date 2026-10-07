@@ -1,9 +1,13 @@
 {
- "description": "Marci Mustello",
+ "description": "",
  "final_url": "https://www.repmustello.com/",
- "paid_for_by": null,
+ "fingerprint": "6bf0c6e0f81382beabf4d323f53e9d7b5be60ca0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "PA State Rep. Marci Mustello",
  "years_mentioned": [
-  "2019"
+  "2011",
+  "2019",
+  "2026"
  ]
 }

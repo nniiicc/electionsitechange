@@ -1,7 +1,9 @@
 {
  "description": "A campaign platform for Jason Pearce, dedicated to representing the future of Texas through clear leadership and community advocacy.",
  "final_url": "https://pearcefortexas.com/",
- "paid_for_by": null,
+ "fingerprint": "5390ffabedb534256c4069c5173841576a842f33",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Pearce for Texas",
  "years_mentioned": []
 }

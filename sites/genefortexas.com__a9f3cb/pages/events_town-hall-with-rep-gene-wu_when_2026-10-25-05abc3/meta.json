@@ -1,7 +1,11 @@
 {
- "description": "Join Rep. Gene Wu live on Zoom every Sunday evening \u2014 a conversation on the threats facing AAPI communities, what is happening in HD-137 and at the Capitol, and open Q&A.",
+ "description": "Join Rep. Gene Wu live on Zoom every Sunday evening — a conversation on the threats facing AAPI communities, what is happening in HD-137 and at the Capitol, and open Q&A.",
  "final_url": "https://genefortexas.com/events/town-hall-with-rep-gene-wu?when=2026-10-25",
+ "fingerprint": "44f7771560657baca21e100b9df372c37bcc47be",
+ "format": 3,
  "paid_for_by": "paid for by the Gene for Texas Campaign",
- "title": "AAPI Town Hall with Rep. Gene Wu \u00b7 Gene Wu for Texas House",
- "years_mentioned": []
+ "title": "AAPI Town Hall with Rep. Gene Wu · Gene Wu for Texas House",
+ "years_mentioned": [
+  "2026"
+ ]
 }

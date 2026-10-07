@@ -1,11 +1,54 @@
 [
-"https://electesther.com/",
-"https://electesther.com/about-esther",
-"https://electesther.com/contact",
-"https://electesther.com/donate",
-"https://electesther.com/get-involved",
-"https://electesther.com/news-press",
-"https://electesther.com/priorities",
-"https://facebook.com/EstherHeltonD30",
-"https://tn.gov/safety/driver-services/reinstatements/frlawindex.html"
+{
+"text": "About Esther",
+"href": "https://electesther.com/about-esther/"
+},
+{
+"text": "Contact",
+"href": "https://electesther.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://electesther.com/donate/"
+},
+{
+"text": "Email: info@electesther.com",
+"href": "mailto:info@electesther.com?subject=Contact"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/EstherHeltonD30/"
+},
+{
+"text": "Get Involved",
+"href": "https://electesther.com/get-involved/"
+},
+{
+"text": "Here",
+"href": "https://www.tn.gov/safety/driver-services/reinstatements/frlawindex.html"
+},
+{
+"text": "Home",
+"href": "https://electesther.com/"
+},
+{
+"text": "News",
+"href": "https://electesther.com/news-press/"
+},
+{
+"text": "Open toolbar",
+"href": "javascript:void(0);"
+},
+{
+"text": "Phone: (423) 529-0084",
+"href": "tel:(423)%20529-0084"
+},
+{
+"text": "Priorities",
+"href": "https://electesther.com/priorities/"
+},
+{
+"text": "[image]",
+"href": "https://electesther.com"
+}
 ]

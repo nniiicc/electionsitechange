@@ -1,27 +1,142 @@
 [
-"https://contribute.ilikemikesmith.com/donate",
-"https://facebook.com/ILikeMikeSmith",
-"https://goo.gl/maps/9yN2i3QgqLXicNPHA",
-"https://goo.gl/maps/CoeRXp9WeGa22PVX7",
-"https://goo.gl/maps/cfptVskztQeM22HQA",
-"https://google.com/maps/place/122+Silver+Lake+Rd,+Middletown,+DE+19709/@39.4500107,-75.69642,16z/data=!3m1!4b1!4m6!3m5!1s0x89c70a925e129187:0xb1e93c41d08f5aa5!8m2!3d39.4500107!4d-75.6938451!16s%2Fg%2F11g_yg1w2n?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/3707+N+Market+St,+Wilmington,+DE+19802/@39.7597697,-75.5279337,17z/data=!3m1!4b1!4m6!3m5!1s0x89c6e2d48fbb3f31:0x4cf6a574e056acaf!8m2!3d39.7597697!4d-75.5253588!16s%2Fg%2F11bw3yrl0t?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/501+S+Walnut+St+%2313,+Wilmington,+DE+19801/@39.7314918,-75.5571831,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6fd613cac8459:0x7f2e9f97f3d57f64!8m2!3d39.7314918!4d-75.5546082?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
-"https://ilikemikesmith.com/",
-"https://ilikemikesmith.com/about",
-"https://ilikemikesmith.com/community-survey",
-"https://ilikemikesmith.com/community-survey-2",
-"https://ilikemikesmith.com/community-survey-3",
-"https://ilikemikesmith.com/events",
-"https://ilikemikesmith.com/get-involved",
-"https://ilikemikesmith.com/issues",
-"https://ilikemikesmith.com/pictures",
-"https://ilikemikesmith.com/privacy-policy",
-"https://ilikemikesmith.com/testimonials",
-"https://ilikemikesmith.com/vote",
-"https://ilikemikesmith.com/vote-in-delaware",
-"https://ilikemikesmith.com/yard-signs",
-"https://instagram.com/ILikeMikeSmith",
-"https://ivote.de.gov/VoterView",
-"https://twitter.com/ILikeMikeSmith"
+{
+"text": "122 Silver Lake Rd, Middletown, DE 19709",
+"href": "https://www.google.com/maps/place/122+Silver+Lake+Rd,+Middletown,+DE+19709/@39.4500107,-75.69642,16z/data=!3m1!4b1!4m6!3m5!1s0x89c70a925e129187:0xb1e93c41d08f5aa5!8m2!3d39.4500107!4d-75.6938451!16s%2Fg%2F11g_yg1w2n?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "220 Lisa Drive",
+"href": "https://goo.gl/maps/CoeRXp9WeGa22PVX7"
+},
+{
+"text": "3301 Green Street",
+"href": "https://goo.gl/maps/9yN2i3QgqLXicNPHA"
+},
+{
+"text": "3707 N Market St, Wilmington, DE 19802",
+"href": "https://www.google.com/maps/place/3707+N+Market+St,+Wilmington,+DE+19802/@39.7597697,-75.5279337,17z/data=!3m1!4b1!4m6!3m5!1s0x89c6e2d48fbb3f31:0x4cf6a574e056acaf!8m2!3d39.7597697!4d-75.5253588!16s%2Fg%2F11bw3yrl0t?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "501 Ogletown Rd",
+"href": "https://goo.gl/maps/cfptVskztQeM22HQA"
+},
+{
+"text": "501 S. Walnut St., Suite 13 Wilmington, DE 19801",
+"href": "https://www.google.com/maps/place/501+S+Walnut+St+%2313,+Wilmington,+DE+19801/@39.7314918,-75.5571831,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6fd613cac8459:0x7f2e9f97f3d57f64!8m2!3d39.7314918!4d-75.5546082?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Claymont, Del 19703",
+"href": "https://goo.gl/maps/9yN2i3QgqLXicNPHA"
+},
+{
+"text": "Community Survey",
+"href": "https://www.ilikemikesmith.com/community-survey-2/"
+},
+{
+"text": "Community Survey",
+"href": "https://www.ilikemikesmith.com/community-survey-3/"
+},
+{
+"text": "Community Survey",
+"href": "https://www.ilikemikesmith.com/community-survey/"
+},
+{
+"text": "Contribute",
+"href": "https://contribute.ilikemikesmith.com/donate"
+},
+{
+"text": "Contribute Online Today",
+"href": "https://contribute.ilikemikesmith.com/donate"
+},
+{
+"text": "EVents",
+"href": "https://www.ilikemikesmith.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ILikeMikeSmith"
+},
+{
+"text": "Get involved",
+"href": "https://www.ilikemikesmith.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.ilikemikesmith.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.ilikemikesmith.com/issues/"
+},
+{
+"text": "Mail In Voting",
+"href": "https://www.ilikemikesmith.com/vote-in-delaware/"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.ilikemikesmith.com/about/"
+},
+{
+"text": "MikeSmithForDelaware@gmail.com",
+"href": "mailto:MikeSmithForDelaware@gmail.com"
+},
+{
+"text": "Mike’s Record",
+"href": "https://www.ilikemikesmith.com/issues/"
+},
+{
+"text": "New Castle, Del 19720",
+"href": "https://goo.gl/maps/CoeRXp9WeGa22PVX7"
+},
+{
+"text": "Newark, Del 19711",
+"href": "https://goo.gl/maps/cfptVskztQeM22HQA"
+},
+{
+"text": "Paid for by Mike Smith For Delaware",
+"href": "mailto: mikesmithfordelaware@gmail.com"
+},
+{
+"text": "Pictures",
+"href": "https://www.ilikemikesmith.com/pictures/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ilikemikesmith.com/privacy-policy/"
+},
+{
+"text": "Testimonials",
+"href": "https://www.ilikemikesmith.com/testimonials/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ILikeMikeSmith"
+},
+{
+"text": "Where do I vote?",
+"href": "https://www.ilikemikesmith.com/vote/"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.ilikemikesmith.com/yard-signs/"
+},
+{
+"text": "[image: State Representative Mike Smith]",
+"href": "https://www.ilikemikesmith.com/"
+},
+{
+"text": "[image]",
+"href": "https://instagram.com/ILikeMikeSmith"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/ILikeMikeSmith"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/ILikeMikeSmith"
+},
+{
+"text": "visit the State of Delaware’s Voter View website.",
+"href": "https://ivote.de.gov/VoterView"
+}
 ]

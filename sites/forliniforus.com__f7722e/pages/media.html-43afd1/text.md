@@ -1,13 +1,13 @@
-| Check out all my media interviews on my YouTube channel or my social media links.
-YouTube: www.youtube.com/@anthonyforliniforus Facebook: www.facebook.com/AnthonyForliniForUs Twitter/X: https://x.com/tonyforlini1 | |
-| Media Inquiries To request an interview with Anthony Forlini, please email [email protected].
-Latest Press Releases | |
-Radio | News | TV
-| Press Conference with John James and Jay DeBoyer Tony on with WILS 1320 AM Watch: Interview with Kristen Meghan Kelly Listen to interview with Media Contributor Kristen Meghan Kelly. | Read: Talked to James Dickson with the Michigan Enjoyer Thank you to James David Dickson for covering this issue.
-It matters. |
-| | Charlie Langton |
-| | Interview with TV6 in UP |
-| Listen: Interview with Tudor Dixon The Tudor Dixon Podcast: Voter Fraud EXPOSED with Tony Forlini | Listen: Interview with Michael Patrick Shiels Anthony Forlini, Macomb County Clerk, Candidate (R) for Secretary of State | Listen: Interview with Kevin Rinke lISTENlISTENAnthony Forlini: Restoring Trust in Michigan’s Elections \| Beyond The Echo with Kevin Rinke |
-| Listen: Interview with Justin Barclay Macomb County clerk catches hundreds of non-citizens in jury pools, voter database | Listen: Interview with Paul W.
-Smith Candice Miller Endorses Him, But Will You? | Listen: Interview with WJR Jury Duty Jitters: Non-Citizens in the Pool! |
-| Watch: Interview with Steve Gruber Running for Michigan Secretary of State | Watch: Full Interview with Kevin Rinke Anthony Forlini: Restoring Trust in Michigan’s Elections \| Beyond The Echo with Kevin Rinke | Watch: Interview with Deb Drick Watch interview with Livingston County Republican Party Chair. |
+Anthony G.
+Forlini Home About Endorsements Priorities Experience Donate Donate Options Media Team Tony Events Endorse Anthony Email List Contact Media Email [email protected] to be added to the Press List!
+Check out all my media interviews on my YouTube channel or my social media links. ​YouTube: www.youtube.com/@anthonyforliniforus Facebook: www.facebook.com/AnthonyForliniForUs Twitter/X: https://x.com/tonyforlini1 Check out my interviews on YouTube Media Inquiries To request an interview with Anthony Forlini, please email [email protected] .
+Latest Press Releases Press Release 9/24/26 Press Release 9/23/26 Press Release 9/21/26 Press Release 9/4/2026 Press Release 8/24/26 Press Release 7/27/26 Press Release 7/15/26 Press Release 6/29/26 Press Release 5/18/26 Press Release 4/19/26 Press Release 3/28/26 Press Release 2/24/26 Press Release 2/4/26 Press Release 1/12/26 Announcement Press Release Radio | News | TV wATCH MY Interviews on YouTube Press Conference with John James and Jay DeBoyer Tony on with WILS 1320 AM Watch: Interview with Kristen Meghan Kelly Listen to interview with Media Contributor Kristen Meghan Kelly .
+Watch Interview Charlie Langton Interview with TV6 in UP Read: Talked to James Dickson with the Michigan Enjoyer Thank you to James David Dickson for covering this issue.
+It matters.
+Read the Story Listen: Interview with Tudor Dixon The Tudor Dixon Podcast: Voter Fraud EXPOSED with Tony Forlini Listen to Interview Listen: Interview with Michael Patrick Shiels Anthony Forlini, Macomb County Clerk, Candidate (R) for Secretary of State Listen to Interview Listen: Interview with Kevin Rinke lISTENlISTENAnthony Forlini: Restoring Trust in Michigan’s Elections | Beyond The Echo with Kevin Rinke Listen to Interview Listen: Interview with Justin Barclay Macomb County clerk catches hundreds of non-citizens in jury pools, voter database Listen to Interview Listen: Interview with Paul W.
+Smith Candice Miller Endorses Him, But Will You?
+Listen to Interview Listen: Interview with WJR Jury Duty Jitters: Non-Citizens in the Pool!
+Listen to Interview Watch: Interview with Steve Gruber Running for Michigan Secretary of State Watch Interview Watch: Full Interview with Kevin Rinke Anthony Forlini: Restoring Trust in Michigan’s Elections | Beyond The Echo with Kevin Rinke Watch Interview Watch: Interview with Deb Drick Watch interview with Livingston County Republican Party Chair.
+Watch Interview Phone: (586) 275-7703 | Email: [email protected] PAID FOR BY THE CTE ANTHONY G.
+FORLINI, 39285 N.
+BLOM, HARRISON TWP, MI 48045 Home About Endorsements Priorities Experience Donate Donate Options Media Team Tony Events Endorse Anthony Email List Contact

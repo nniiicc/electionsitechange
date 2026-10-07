@@ -1,40 +1,238 @@
 [
-"http://facebook.com/laurenboebert",
-"http://twitter.com/laurenboebert",
-"https://gjsentinel.com/news/boeberts-clifton-bill-clears-house-committee/article_dbf9a4c2-2ca1-11ee-ba97-abb20d3de738.html",
-"https://instagram.com/laurenboebert",
-"https://laurenforcolorado.com/",
-"https://laurenforcolorado.com/about",
-"https://laurenforcolorado.com/accomplishments",
-"https://laurenforcolorado.com/contact",
-"https://laurenforcolorado.com/donate",
-"https://laurenforcolorado.com/download/lauren_boebert_contract.pdf",
-"https://laurenforcolorado.com/endorsements",
-"https://laurenforcolorado.com/get-involved",
-"https://laurenforcolorado.com/media",
-"https://laurenforcolorado.com/news",
-"https://laurenforcolorado.com/news/conservative-brief-boebert-amendment-protecting-homeowners-from-socialist-biden-policies-passes-house",
-"https://laurenforcolorado.com/news/daily-sentinel-blm-backs-boebert-bill-expediting-federal-land-sale-to-county",
-"https://laurenforcolorado.com/news/daily-sentinel-boeberts-clifton-bill-clears-house-committee",
-"https://laurenforcolorado.com/news/daily-sentinel-printed-letters-boebert-has-done-much-for-west-slope-and-nation.",
-"https://laurenforcolorado.com/news/durango-herald-lte-god-bless-lauren-boebert",
-"https://laurenforcolorado.com/news/fox-21-boebert-trump-jr.-attract-over-600-people-to-pueblo-freedom-fest",
-"https://laurenforcolorado.com/news/important-updates-from-team-boebert-july-2023",
-"https://laurenforcolorado.com/news/letter-to-the-editor-congresswoman-boebert-was-part-of-the-parade-and-walked-the-entire-parade-route-holding-the-flag-of-the-united-states-of-america.",
-"https://laurenforcolorado.com/news/page/10",
-"https://laurenforcolorado.com/news/page/2",
-"https://laurenforcolorado.com/news/page/20",
-"https://laurenforcolorado.com/news/page/3",
-"https://laurenforcolorado.com/news/page/4",
-"https://laurenforcolorado.com/news/page/5",
-"https://laurenforcolorado.com/news/page/6",
-"https://laurenforcolorado.com/news/page/7",
-"https://laurenforcolorado.com/news/page/8",
-"https://laurenforcolorado.com/news/page/9",
-"https://laurenforcolorado.com/news/washington-examiner-boebert-seeks-to-eliminate-salaries-of-some-presidential-appointees",
-"https://laurenforcolorado.com/pages/privacy",
-"https://laurenforcolorado.com/vote",
-"https://secure.winred.com/lauren-boebert-for-congress/storefront",
-"https://txtterms.co/80306",
-"https://youtube.com/@laurenforfreedom3084"
+{
+"text": "1",
+"href": "https://laurenforcolorado.com/news/"
+},
+{
+"text": "10",
+"href": "https://laurenforcolorado.com/news/page/10/"
+},
+{
+"text": "2",
+"href": "https://laurenforcolorado.com/news/page/2/"
+},
+{
+"text": "20",
+"href": "https://laurenforcolorado.com/news/page/20/"
+},
+{
+"text": "3",
+"href": "https://laurenforcolorado.com/news/page/3/"
+},
+{
+"text": "4",
+"href": "https://laurenforcolorado.com/news/page/4/"
+},
+{
+"text": "5",
+"href": "https://laurenforcolorado.com/news/page/5/"
+},
+{
+"text": "6",
+"href": "https://laurenforcolorado.com/news/page/6/"
+},
+{
+"text": "7",
+"href": "https://laurenforcolorado.com/news/page/7/"
+},
+{
+"text": "8",
+"href": "https://laurenforcolorado.com/news/page/8/"
+},
+{
+"text": "9",
+"href": "https://laurenforcolorado.com/news/page/9/"
+},
+{
+"text": "About",
+"href": "https://laurenforcolorado.com/about/"
+},
+{
+"text": "About Lauren",
+"href": "https://laurenforcolorado.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://laurenforcolorado.com/accomplishments/"
+},
+{
+"text": "Boebert's Clifton bill clears House committee",
+"href": "https://www.gjsentinel.com/news/boeberts-clifton-bill-clears-house-committee/article_dbf9a4c2-2ca1-11ee-ba97-abb20d3de738.html"
+},
+{
+"text": "Conservative Brief: Boebert Amendment Protecting Homeowners From Socialist Biden Policies Passes House",
+"href": "https://laurenforcolorado.com/news/conservative-brief-boebert-amendment-protecting-homeowners-from-socialist-biden-policies-passes-house/"
+},
+{
+"text": "Contact",
+"href": "https://laurenforcolorado.com/contact/"
+},
+{
+"text": "Daily Sentinel Printed Letters: Boebert Has Done Much For Western Slope",
+"href": "https://laurenforcolorado.com/news/daily-sentinel-printed-letters-boebert-has-done-much-for-west-slope-and-nation./"
+},
+{
+"text": "Daily Sentinel: BLM backs Boebert bill expediting federal land sale to county",
+"href": "https://laurenforcolorado.com/news/daily-sentinel-blm-backs-boebert-bill-expediting-federal-land-sale-to-county/"
+},
+{
+"text": "Daily Sentinel: Boebert's Clifton bill clears House committee",
+"href": "https://laurenforcolorado.com/news/daily-sentinel-boeberts-clifton-bill-clears-house-committee/"
+},
+{
+"text": "Delta County Independent LTE: Lauren Boebert at Deltarado Days Parade",
+"href": "https://laurenforcolorado.com/news/letter-to-the-editor-congresswoman-boebert-was-part-of-the-parade-and-walked-the-entire-parade-route-holding-the-flag-of-the-united-states-of-america./"
+},
+{
+"text": "Donate",
+"href": "https://laurenforcolorado.com/donate"
+},
+{
+"text": "Durango Herald LTE: ‘God bless Lauren Boebert’",
+"href": "https://laurenforcolorado.com/news/durango-herald-lte-god-bless-lauren-boebert/"
+},
+{
+"text": "Endorsements",
+"href": "https://laurenforcolorado.com/endorsements/"
+},
+{
+"text": "FOX 21: Boebert, Trump Jr. attract over 600 people to Pueblo Freedom Fest",
+"href": "https://laurenforcolorado.com/news/fox-21-boebert-trump-jr.-attract-over-600-people-to-pueblo-freedom-fest/"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/laurenboebert"
+},
+{
+"text": "Get Involved",
+"href": "https://laurenforcolorado.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/laurenboebert/"
+},
+{
+"text": "Media",
+"href": "https://laurenforcolorado.com/media/"
+},
+{
+"text": "Menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "NEXT PAGE",
+"href": "https://laurenforcolorado.com/news/page/7/"
+},
+{
+"text": "News",
+"href": "https://laurenforcolorado.com/news/"
+},
+{
+"text": "Newsletter: Important Updates from Team Boebert",
+"href": "https://laurenforcolorado.com/news/important-updates-from-team-boebert-july-2023/"
+},
+{
+"text": "PREV. PAGE",
+"href": "https://laurenforcolorado.com/news/page/5/"
+},
+{
+"text": "Pledge",
+"href": "https://laurenforcolorado.com/download/lauren_boebert_contract.pdf"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/conservative-brief-boebert-amendment-protecting-homeowners-from-socialist-biden-policies-passes-house/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/daily-sentinel-blm-backs-boebert-bill-expediting-federal-land-sale-to-county/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/daily-sentinel-boeberts-clifton-bill-clears-house-committee/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/daily-sentinel-printed-letters-boebert-has-done-much-for-west-slope-and-nation./"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/durango-herald-lte-god-bless-lauren-boebert/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/fox-21-boebert-trump-jr.-attract-over-600-people-to-pueblo-freedom-fest/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/important-updates-from-team-boebert-july-2023/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/letter-to-the-editor-congresswoman-boebert-was-part-of-the-parade-and-walked-the-entire-parade-route-holding-the-flag-of-the-united-states-of-america./"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/washington-examiner-boebert-seeks-to-eliminate-salaries-of-some-presidential-appointees/"
+},
+{
+"text": "Read More",
+"href": "https://www.gjsentinel.com/news/boeberts-clifton-bill-clears-house-committee/article_dbf9a4c2-2ca1-11ee-ba97-abb20d3de738.html"
+},
+{
+"text": "SMS Terms & Conditions",
+"href": "https://txtterms.co/80306"
+},
+{
+"text": "Twitter",
+"href": "http://twitter.com/laurenboebert"
+},
+{
+"text": "Vote",
+"href": "https://laurenforcolorado.com/vote"
+},
+{
+"text": "Washington Examiner: Boebert seeks to eliminate salaries of some presidential appointees",
+"href": "https://laurenforcolorado.com/news/washington-examiner-boebert-seeks-to-eliminate-salaries-of-some-presidential-appointees/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@laurenforfreedom3084"
+},
+{
+"text": "[image: Lauren Boebert Logo]",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "[image: Text JOIN to 80306]",
+"href": "sms:+80306"
+},
+{
+"text": "[no text]",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "javascript:;"
+},
+{
+"text": "info@laurenforcolorado.com",
+"href": "mailto:info@laurenforcolorado.com"
+},
+{
+"text": "privacy policy",
+"href": "https://laurenforcolorado.com/pages/privacy"
+},
+{
+"text": "store",
+"href": "https://secure.winred.com/lauren-boebert-for-congress/storefront/"
+},
+{
+"text": "terms",
+"href": "https://txtterms.co/80306"
+}
 ]

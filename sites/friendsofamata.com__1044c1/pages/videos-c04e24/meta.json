@@ -1,7 +1,9 @@
 {
  "description": "https://youtu.be/pV16MexBLGg",
  "final_url": "https://friendsofamata.com/videos/",
- "paid_for_by": null,
+ "fingerprint": "4c73d98257798a8e4f5087eb88e9fc9751403558",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Videos - Friends",
  "years_mentioned": []
 }

@@ -1,6 +1,4 @@
-Guest commentary: Idaho can’t control the drought, but it can control its preparedness
-By Sally Toone, former state representative, and Ron Taylor
-Despite the reach of the Idaho Republican supermajority, weather isn’t something policy can shape.
+0 Skip to Content About Priorities Updates Contact Press Kit Donate Open Menu Close Menu About Priorities Updates Contact Press Kit Donate Open Menu Close Menu About Priorities Updates Contact Press Kit Donate Guest commentary: Idaho can’t control the drought, but it can control its preparedness May 7 Written By Ron Taylor By Sally Toone, former state representative, and Ron Taylor Despite the reach of the Idaho Republican supermajority, weather isn’t something policy can shape.
 However, the state legislature can control the levels of preparedness with which the state is equipped to respond to uncontrolled events.
 Recently, Gov.
 Little announced an emergency drought declaration, warning that every county in Idaho would feel the effects of this winter’s record-warm temperatures and reduced snowpack.
@@ -33,3 +31,4 @@ Idahoans have always been responsible by planning ahead, taking precautions, and
 Preparing for drought and wildfire is not optional; it is a core responsibility of governance.
 And if there is even a shred of a silver lining, it may be this: the cost of inaction is becoming impossible to ignore.
 Because no matter how it’s framed, hope alone will not stop the drought or the threat of devastation to every Idahoan’s way of life.
+Ron Taylor Next Next Legislative Session Update: Week 1 rontaylorforsenate@gmail.com (208) 720-8912 Paid for by Ron Taylor for Senate Michelle Stennett, Treasurer

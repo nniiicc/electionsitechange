@@ -1,12 +1,30 @@
 [
-"http://google.com/privacy/ads",
-"http://networkadvertising.org/choices",
-"https://facebook.com/Kissel2018?mibextid=LQQJ4d",
-"https://google.com/ads/preferences",
-"https://google.com/settings/ads/onweb",
-"https://instagram.com/senatorkissel2022",
-"https://johnkisselforsenate.com/",
-"https://johnkisselforsenate.com/cdn-cgi/l/email-protection",
-"https://johnkisselforsenate.com/privacy-policy",
-"https://support.google.com/ads/answer/2662922?hl=en"
+{
+"text": "<< Back to site",
+"href": "https://www.johnkisselforsenate.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.johnkisselforsenate.com/privacy-policy"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@johnkisselforsenate.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Kissel2018?mibextid=LQQJ4d"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/senatorkissel2022/"
+},
+{
+"text": "https://support.google.com/ads/answer/2662922?hl=en",
+"href": "https://support.google.com/ads/answer/2662922?hl=en"
+},
+{
+"text": "johnkisselforsenate.com",
+"href": "https://johnkisselforsenate.com"
+}
 ]

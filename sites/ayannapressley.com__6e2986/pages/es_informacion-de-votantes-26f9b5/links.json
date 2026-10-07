@@ -1,32 +1,138 @@
 [
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=10",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=100",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53",
-"https://ayannapressley.com/",
-"https://ayannapressley.com/es",
-"https://ayannapressley.com/es/contactanos",
-"https://ayannapressley.com/es/ella-es-ayanna",
-"https://ayannapressley.com/es/informacion-de-votantes",
-"https://ayannapressley.com/es/prioridades",
-"https://ayannapressley.com/es/privacidad",
-"https://ayannapressley.com/es/voluntarios",
-"https://ayannapressley.com/ht",
-"https://ayannapressley.com/zh",
-"https://docs.google.com/document/d/1k3wnxlwZXRO_pWAoJnqFMHQXSD2L6GKdUN_9W0jITyo/edit",
-"https://facebook.com/ayannapressley2",
-"https://instagram.com/ayannapressley",
-"https://middleseat.co/",
-"https://mobilize.us/ayannapressley",
-"https://sec.state.ma.us/OVR/Welcome.aspx",
-"https://sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote",
-"https://sec.state.ma.us/ele/eleev/ev-find-my-election-office.htm",
-"https://sec.state.ma.us/ele/eleev/evidx.htm",
-"https://sec.state.ma.us/ele/elepdf/Vote-by-Mail-Paper-Application-2022.pdf",
-"https://sec.state.ma.us/ovr",
-"https://sec.state.ma.us/wheredoivotema/bal/MyElectionInfo.aspx",
-"https://sec.state.ma.us/wheredoivotema/track/trackmyballot.aspx",
-"https://secure.actblue.com/donate/ayannapressleysite1",
-"https://store.ayannapressley.com/",
-"https://twitter.com/AyannaPressley",
-"https://twitter.com/ayannapressley"
+{
+"text": "$10",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=10"
+},
+{
+"text": "$100",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=100"
+},
+{
+"text": "$20.53",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53"
+},
+{
+"text": "AQUÍ",
+"href": "https://www.sec.state.ma.us/OVR/Welcome.aspx"
+},
+{
+"text": "AQUÍ",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote"
+},
+{
+"text": "AQUÍ",
+"href": "https://www.sec.state.ma.us/ele/eleev/ev-find-my-election-office.htm"
+},
+{
+"text": "AQUÍ",
+"href": "https://www.sec.state.ma.us/ele/elepdf/Vote-by-Mail-Paper-Application-2022.pdf"
+},
+{
+"text": "AQUÍ",
+"href": "https://www.sec.state.ma.us/ovr/"
+},
+{
+"text": "AQUÍ",
+"href": "https://www.sec.state.ma.us/wheredoivotema/bal/MyElectionInfo.aspx"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com/es"
+},
+{
+"text": "Contacto",
+"href": "https://ayannapressley.com/es/contactanos/"
+},
+{
+"text": "Donar",
+"href": "https://secure.actblue.com/donate/ayannapressleysite1"
+},
+{
+"text": "EN",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "ES",
+"href": "https://ayannapressley.com/es"
+},
+{
+"text": "Ella es Ayanna",
+"href": "https://ayannapressley.com/es/ella-es-ayanna/"
+},
+{
+"text": "Encontrar mi centro electoral (El día de las elecciones primarias, el 6 de septiembre)",
+"href": "https://www.sec.state.ma.us/wheredoivotema/bal/MyElectionInfo.aspx"
+},
+{
+"text": "Encontrar mi oficina de votaciones o buzón de votación",
+"href": "https://www.sec.state.ma.us/ele/eleev/ev-find-my-election-office.htm"
+},
+{
+"text": "Eventos",
+"href": "https://www.mobilize.us/ayannapressley/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ayannapressley2/"
+},
+{
+"text": "HT",
+"href": "https://ayannapressley.com/ht"
+},
+{
+"text": "Información de votantes",
+"href": "https://ayannapressley.com/es/informacion-de-votantes/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ayannapressley/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Prioridades",
+"href": "https://ayannapressley.com/es/prioridades/"
+},
+{
+"text": "Privacidad",
+"href": "https://ayannapressley.com/es/privacidad/"
+},
+{
+"text": "Rastrear mi boleta",
+"href": "https://www.sec.state.ma.us/wheredoivotema/track/trackmyballot.aspx"
+},
+{
+"text": "Sitio web del Secretario de Estado",
+"href": "https://www.sec.state.ma.us/ele/eleev/evidx.htm"
+},
+{
+"text": "Sitios para votar temprano",
+"href": "https://docs.google.com/document/d/1k3wnxlwZXRO_pWAoJnqFMHQXSD2L6GKdUN_9W0jITyo/edit"
+},
+{
+"text": "Tienda",
+"href": "https://store.ayannapressley.com/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AyannaPressley"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ayannapressley"
+},
+{
+"text": "Voluntarios",
+"href": "https://ayannapressley.com/es/voluntarios/"
+},
+{
+"text": "ZH",
+"href": "https://ayannapressley.com/zh"
+}
 ]

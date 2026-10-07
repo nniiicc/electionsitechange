@@ -1,16 +1,118 @@
 [
-"https://facebook.com/johnrodgersvt",
-"https://rodgersforvt.com/",
-"https://rodgersforvt.com/about",
-"https://rodgersforvt.com/join",
-"https://rodgersforvt.com/priorities",
-"https://rodgersforvt.com/privacy",
-"https://rodgersforvt.com/terms",
-"https://secure.anedot.com/rodgersforvermont/donate",
-"https://secure.anedot.com/rodgersforvermont/donate?amount=100",
-"https://secure.anedot.com/rodgersforvermont/donate?amount=25",
-"https://secure.anedot.com/rodgersforvermont/donate?amount=250",
-"https://secure.anedot.com/rodgersforvermont/donate?amount=50",
-"https://secure.anedot.com/rodgersforvermont/donate?amount=500",
-"https://x.com/johnrodgersvt"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/rodgersforvermont/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/rodgersforvermont/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/rodgersforvermont/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/rodgersforvermont/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/rodgersforvermont/donate?amount=500"
+},
+{
+"text": ".",
+"href": "https://www.rodgersforvt.com/terms"
+},
+{
+"text": "ABOUT",
+"href": "https://www.rodgersforvt.com/about"
+},
+{
+"text": "AFFORDABLE HOUSING",
+"href": "https://www.rodgersforvt.com/priorities"
+},
+{
+"text": "CAREERS & TRADES",
+"href": "https://www.rodgersforvt.com/priorities"
+},
+{
+"text": "CHIP IN $25 NOW TO RE-ELECT JOHN RODGERS",
+"href": "https://secure.anedot.com/rodgersforvermont/donate"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/rodgersforvermont/donate"
+},
+{
+"text": "FARMERS & SMALL BUSINESS",
+"href": "https://www.rodgersforvt.com/priorities"
+},
+{
+"text": "GROWING OUR ECONOMY",
+"href": "https://www.rodgersforvt.com/priorities"
+},
+{
+"text": "HOME",
+"href": "https://www.rodgersforvt.com"
+},
+{
+"text": "JOIN",
+"href": "https://www.rodgersforvt.com/join"
+},
+{
+"text": "LEADERSHIP THAT DELIVERS",
+"href": "https://www.rodgersforvt.com/priorities"
+},
+{
+"text": "LOWERING COSTS",
+"href": "https://www.rodgersforvt.com/priorities"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/rodgersforvermont/donate"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.rodgersforvt.com/priorities"
+},
+{
+"text": "PROTECTING RURAL VERMONT",
+"href": "https://www.rodgersforvt.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rodgersforvt.com/privacy"
+},
+{
+"text": "READ MORE",
+"href": "https://www.rodgersforvt.com/about"
+},
+{
+"text": "SAFE COMMUNITIES",
+"href": "https://www.rodgersforvt.com/priorities"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.rodgersforvt.com/terms"
+},
+{
+"text": "[image: GF-Rogers-Logo-Final.png]",
+"href": "https://www.rodgersforvt.com"
+},
+{
+"text": "[image: Rodgers social (1)]",
+"href": "https://www.facebook.com/johnrodgersvt/"
+},
+{
+"text": "[image: Rodgers social (2)]",
+"href": "https://x.com/johnrodgersvt"
+},
+{
+"text": "[image: Rodgers social (3)]",
+"href": "https://x.com/johnrodgersvt"
+},
+{
+"text": "[image: Rodgers social]",
+"href": "https://www.facebook.com/johnrodgersvt/"
+}
 ]

@@ -1,7 +1,3 @@
-top of page
-Collin Duel
-This page provides a simple breakdown of Representative Collin Duel's Contributions, Lobbyist Gifts, a selection of Votes, and his Score on the OK Grassroots Republican Party Platform Index.
+top of page Home Mission Current Legislator Material Donate Collin Duel This page provides a simple breakdown of Representative Collin Duel's Contributions, Lobbyist Gifts, a selection of Votes, and his Score on the OK Grassroots Republican Party Platform Index.
 In sum: of Collin's 176 total itemized contributions from 2022 to now equaling $94,905.16 only 4 of those contributions came from within the district equaling $3,650.00.
-That means 96% of his contributions have come from outside the ditrict.
-Collin Duel pacs, lobbyist gifts, votes and republican scorecard
-bottom of page
+That means 96% of his contributions have come from outside the ditrict. ​ ​ PACs LOBBYIST GIFTS VOTES SCORECARD Collin Duel pacs, lobbyist gifts, votes and republican scorecard bottom of page

@@ -1,6 +1,3 @@
-Back to All Events
-Join Team Gonzalez for an evening supporting Jeff’s re-election as our Assemblyman for District 36!
-RSVP here: https://www.efundraisingconnections.com/c/JeffGonzalezforAssembly2026/10142026Reception
-Previous
-Previous
-September 18
+0 Skip to Content YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS Folder: MEDIA Back NEWS PHOTOS English Back DONATE Back to All Events Coachella Fundraiser Wednesday, October 14, 2026 5:00 PM 7:30 PM Old Polo Estates 51270 Jackson Street Coachella, California, 92236 United States (map) Google Calendar ICS Join Team Gonzalez for an evening supporting Jeff’s re-election as our Assemblyman for District 36!
+RSVP here: https://www.efundraisingconnections.com/c/JeffGonzalezforAssembly2026/10142026Reception Previous Previous September 18 Imperial County Campaign Kickoff MAKE A SECURE DONATION PAID FOR BY JEFF GONZALEZ FOR ASSEMBLY 2026 Military images and information do not imply endorsement by DOD [Department of Defense] or any service branch.
+PRIVACY POLICY & TERMS AND CONDITIONS

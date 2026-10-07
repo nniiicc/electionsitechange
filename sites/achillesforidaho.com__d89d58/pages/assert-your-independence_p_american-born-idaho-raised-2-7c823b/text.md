@@ -1,51 +1,37 @@
-American Born, Idaho Raised
-American Born, Idaho Raised
-Description: This item is part of our Assert Your Independence collection.
+0 Skip to Content Policies Events Volunteer Volunteer Newsletter Media Endorsements NEWS ARTICLES Interviews Newsroom Merch Supporter Merch Assert Your Independence ESPANOL Inicio Políticas Boletín Voluntariado Donate Open Menu Close Menu Policies Events Volunteer Volunteer Newsletter Media Endorsements NEWS ARTICLES Interviews Newsroom Merch Supporter Merch Assert Your Independence ESPANOL Inicio Políticas Boletín Voluntariado Donate Open Menu Close Menu Policies Events Folder: Volunteer Back Volunteer Newsletter Folder: Media Back Endorsements NEWS ARTICLES Interviews Newsroom Folder: Merch Back Supporter Merch Assert Your Independence Folder: ESPANOL Back Inicio Políticas Boletín Voluntariado Donate Assert Your Independence › American Born, Idaho Raised Image 1 of 12 Image 2 of 12 Image 3 of 12 Image 4 of 12 Image 5 of 12 Image 6 of 12 Image 7 of 12 Image 8 of 12 Image 9 of 12 Image 10 of 12 Image 11 of 12 Image 12 of 12 American Born, Idaho Raised from $16.47 American Born, Idaho Raised Description: This item is part of our Assert Your Independence collection.
 This cute and comfy tee is perfect for family barbecues, lake days, or to wear all summer long.
 The Gildan Heavy Blend™ hoodie, made from a soft cotton-poly blend, provides warmth and durability.
 Its unisex fit offers everyday versatility, with ribbed cuffs and hem to keep the shape intact.
 A large front pocket adds convenience, while the double-lined hood with matching drawcord gives it a clean, cohesive look.
 Trusted for custom printing and casual wear, the Gildan 18500 is a reliable choice that balances comfort and longevity.
-Disclaimer:
-Due to the fabric properties, the White color variant may appear off-white rather than bright white.
-.: The Gildan 18500 is made from a medium-heavy fabric (8.0 oz/yd² (271 g/m²)) made of 50% cotton and 50% polyester.
-This blend delivers cozy warmth and a soft feel that makes it perfect for chilly days.
-.: The classic fit along with the pouch pocket and the tear-away label make for a highly comfortable, scratch-free wearing experience.
-.: The color-matched drawcord and the double-lined hood add a stylish flair and durability that tie everything together.
-.: Embroidery decoration method available on either left chest, center chest, or large center chest, as well as right + left wrists
-.: Made using 100% ethically grown US cotton.
-Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production.
-.: The blank tee's dyes are OEKO-TEX® STANDARD 100 (Certificate No. 168252, OETI - Institut fuer Oekologie) certified with low environmental impact.
-.: Fabric blends: Heather Sport colors - 60% polyester, 40% cotton
-Achilles for Idaho Disclaimer: Purchases from this store are contributions to Todd Achilles for Idaho.
+Disclaimer : Due to the fabric properties, the White color variant may appear off-white rather than bright white. .: The Gildan 18500 is made from a medium-heavy fabric (8.0 oz/yd² (271 g/m²)) made of 50% cotton and 50% polyester.
+This blend delivers cozy warmth and a soft feel that makes it perfect for chilly days. .: The classic fit along with the pouch pocket and the tear-away label make for a highly comfortable, scratch-free wearing experience. .: The color-matched drawcord and the double-lined hood add a stylish flair and durability that tie everything together. .: Embroidery decoration method available on either left chest, center chest, or large center chest, as well as right + left wrists .: Made using 100% ethically grown US cotton.
+Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. .: The blank tee's dyes are OEKO-TEX® STANDARD 100 (Certificate No.
+168252, OETI - Institut fuer Oekologie) certified with low environmental impact. .: Fabric blends: Heather Sport colors - 60% polyester, 40% cotton Achilles for Idaho Disclaimer: Purchases from this store are contributions to Todd Achilles for Idaho.
 Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation, and employer of individuals whose purchases aggregate in excess of $200 in a calendar year.
 Contributions are not tax deductible for federal income tax purposes.
 Contributions may not be made from the funds of corporations, labor organizations, national banks, federal contractors, or foreign nationals.
 Federal law limits contributions from individuals to $3,500 per election.
 By completing this purchase, you confirm this contribution is made from your personal funds.
 Paid for by Todd Achilles for Idaho.
-American Born, Idaho Raised
-Description: This item is part of our Assert Your Independence collection.
+Color: Select Color White Cherry Red Indigo Blue Sage Size: Select Size XS S M L XL 2XL 3XL 4XL 5XL Add To Cart Added!
+American Born, Idaho Raised Description: This item is part of our Assert Your Independence collection.
 This cute and comfy tee is perfect for family barbecues, lake days, or to wear all summer long.
 The Gildan Heavy Blend™ hoodie, made from a soft cotton-poly blend, provides warmth and durability.
 Its unisex fit offers everyday versatility, with ribbed cuffs and hem to keep the shape intact.
 A large front pocket adds convenience, while the double-lined hood with matching drawcord gives it a clean, cohesive look.
 Trusted for custom printing and casual wear, the Gildan 18500 is a reliable choice that balances comfort and longevity.
-Disclaimer:
-Due to the fabric properties, the White color variant may appear off-white rather than bright white.
-.: The Gildan 18500 is made from a medium-heavy fabric (8.0 oz/yd² (271 g/m²)) made of 50% cotton and 50% polyester.
-This blend delivers cozy warmth and a soft feel that makes it perfect for chilly days.
-.: The classic fit along with the pouch pocket and the tear-away label make for a highly comfortable, scratch-free wearing experience.
-.: The color-matched drawcord and the double-lined hood add a stylish flair and durability that tie everything together.
-.: Embroidery decoration method available on either left chest, center chest, or large center chest, as well as right + left wrists
-.: Made using 100% ethically grown US cotton.
-Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production.
-.: The blank tee's dyes are OEKO-TEX® STANDARD 100 (Certificate No. 168252, OETI - Institut fuer Oekologie) certified with low environmental impact.
-.: Fabric blends: Heather Sport colors - 60% polyester, 40% cotton
-Achilles for Idaho Disclaimer: Purchases from this store are contributions to Todd Achilles for Idaho.
+Disclaimer : Due to the fabric properties, the White color variant may appear off-white rather than bright white. .: The Gildan 18500 is made from a medium-heavy fabric (8.0 oz/yd² (271 g/m²)) made of 50% cotton and 50% polyester.
+This blend delivers cozy warmth and a soft feel that makes it perfect for chilly days. .: The classic fit along with the pouch pocket and the tear-away label make for a highly comfortable, scratch-free wearing experience. .: The color-matched drawcord and the double-lined hood add a stylish flair and durability that tie everything together. .: Embroidery decoration method available on either left chest, center chest, or large center chest, as well as right + left wrists .: Made using 100% ethically grown US cotton.
+Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. .: The blank tee's dyes are OEKO-TEX® STANDARD 100 (Certificate No.
+168252, OETI - Institut fuer Oekologie) certified with low environmental impact. .: Fabric blends: Heather Sport colors - 60% polyester, 40% cotton Achilles for Idaho Disclaimer: Purchases from this store are contributions to Todd Achilles for Idaho.
 Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation, and employer of individuals whose purchases aggregate in excess of $200 in a calendar year.
 Contributions are not tax deductible for federal income tax purposes.
 Contributions may not be made from the funds of corporations, labor organizations, national banks, federal contractors, or foreign nationals.
 Federal law limits contributions from individuals to $3,500 per election.
 By completing this purchase, you confirm this contribution is made from your personal funds.
 Paid for by Todd Achilles for Idaho.
+Mailing Address PO Box 8912 | Boise ID 83707 Garden City Office 5181 N Glenwood St | Garden City, ID 83714 Hours: Monday - Friday | 10am - 6pm Nampa Office 2205 N.
+Cassia St. | Nampa, ID 83651 Hours: Tuesday & Thursday | 12pm - 2pm Wednesday | 3pm-6:30pm Friday | 12pm-5pm Idaho Falls Office 1320 S Holmes Ave. | Idaho Falls Hours: Monday - Friday | 10am - 5pm Phone : (208) 495 - 4366 Contact US Privacy Policy Press Inquiry ‍ ‍ ‍ Paid for by Todd Achilles for Idaho / J.
+Patrick Riceci, Treasurer Todd Achilles was a member of the United States Army.
+The use of his military rank, positions, and photographs in uniform does not imply any endorsement by the Army, the Department of Defense, or any other branch of the United States Government.

@@ -1,7 +1,5 @@
-MIKE WALSH
-Please check all that apply
-My property is on a main road / state route
-My yard is on a corner lot or at an intersection
-Near a school, church, town common, park, or polling place
-Located near a stop sign, traffic light, or rotary
-ALEN BLANCO HARNANDEZ 2035
+top of page MIKE WALSH DONATE SHOP VISION ABOUT GET INVOLVED EVENTS MEDIA YARD SIGN REQUEST Menu Close Supporters of Mike Walsh are invited to request a yard sign by submitting their address and location details.
+Signs are limited and costly therefore, high-visibility locations will be given priority such as busy roads and intersections to maximize voter reach.
+Thank you for your patience while the campaign prioritizes requests.
+First name * Last name * Email Phone Address * Town / City * Please check all that apply My property is on a main road / state route My yard is on a corner lot or at an intersection Near a school, church, town common, park, or polling place Located near a stop sign, traffic light, or rotary Additional Information Submit VISION ABOUT GET INVOLVED EVENTS MEDIA YARD SIGN REQUEST Menu Close X INSTAGRAM FACEBOOK CONTACT mikewalshforag@gmail.com Donations can be mailed to: (Checks payable to Committee to Elect Michael Walsh) P.O.
+Box 9 Lynnfield MA, 01940 ​ ​ ​ © # by THE COMMITTEE TO ELECT MICHAEL WALSH VISION ABOUT GET INVOLVED EVENTS MEDIA YARD SIGN REQUEST ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

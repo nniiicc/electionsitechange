@@ -1,8 +1,1 @@
-Karen Reddington-Hughes
-State Representative CT66
-August 23, 2026
-August 6, 2026
-August 3, 2026
-June 22, 2026
-June 24, 2026
-June 19, 2026
+Skip to primary navigation Skip to main content Skip to footer Karen Reddington-Hughes State Representative CT66 About Where I Stand News & Updates Our District Bethlehem Litchfield Morris Warren Woodbury Calendar Gallery Get Involved News & Updates Rooted in the 66th: Cows Around The Corner in Bethlehem, CT August 23, 2026 Rooted in the 66th: March Farms – Bethlehem, CT August 6, 2026 Rooted in the 66th: 4-H Clubs Exhibits at the Goshen Fair Grounds August 3, 2026 Litchfield RTC Meet & Greet June 22, 2026 House Republicans Fundraiser June 24, 2026 June 19th Freedom & Liberty Rally June 19, 2026 Page 1 Page 2 Page 3 Go to Next Page » Footer Vote Karen Reddington-Hughes State Representative for 66th District Our District Bethlehem Litchfield Morris Warren Woodbury Paid for by Reddington-Hughes for 66th, Joseph T Scott treasurer, approved by Karen Reddington-Hughes

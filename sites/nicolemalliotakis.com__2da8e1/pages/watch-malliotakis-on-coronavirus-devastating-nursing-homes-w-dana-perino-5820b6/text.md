@@ -1,4 +1,2 @@
-Nicole Malliotakis joined ‘The Daily Briefing’ on Fox News to discuss the devastating effect of Governor Cuomo’s Executive Order on nursing homes and reiterated her call for and independent investigation.
-STAND WITH NICOLE
-by Team Nicole on
-May 23, 2020
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE COVID-19 Information Watch: Malliotakis on Coronavirus Devastating Nursing Homes w/ Dana Perino by Team Nicole on May 23, 2020 Nicole Malliotakis joined ‘The Daily Briefing’ on Fox News to discuss the devastating effect of Governor Cuomo’s Executive Order on nursing homes and reiterated her call for and independent investigation.
+Watch share NEXT ARTICLE Listen to the Docs — Resume Elective Surgery PREVIOUS ARTICLE Malliotakis Pushes to Resume Dentistry, Elective Surgeries and Preventive Procedures Across State STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

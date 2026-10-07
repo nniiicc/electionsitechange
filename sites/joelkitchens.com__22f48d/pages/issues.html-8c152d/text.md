@@ -1,4 +1,4 @@
-| Education I first ran for public office when I saw that the Sturgeon Bay School District had lost the support of the community and was facing serious financial difficulties.
+Home About Joel Issues District Contact Contribute Joel Kitchens for Assembly Issues Education I first ran for public office when I saw that the Sturgeon Bay School District had lost the support of the community and was facing serious financial difficulties.
 I have always passionately believed that education is the key to allowing every member of our society to reach his or her full potential.
 I viewed this challenge as an opportunity to repay the community that has been so great to my family and me.
 We had to make difficult decisions, but through sound financial management, we were able to regain the trust of the community.
@@ -16,7 +16,7 @@ Sadly, close to 65 percent of fourth graders in Wisconsin are not proficient rea
 I introduced legislation last session that would help teachers identify struggling readers earlier, but it was vetoed by the governor.
 I plan on reintroducing that proposal next session because too much is at stake.
 This issue must be addressed.
-Tourism Tourism is one of the pillars of the economy in all of Wisconsin, but particularly in the 1st Assembly District.
+Tourism Tourism is one of the pillars of the economy in all of Wisconsin, but particularly in the 1 st Assembly District.
 This industry has been hit particularly hard by the pandemic but had shown very strong growth throughout the decade prior to that.
 As fear of the virus subsides, we will undoubtedly see a tremendous rebound.
 Tourism promotion shows a tremendous return on investment and it is important that Wisconsin keeps pace with surrounding states.
@@ -25,7 +25,8 @@ As a member of the Assembly Tourism Committee, I will continue to be a strong ad
 While tourism has shown steady growth in Door County, Kewaunee County is now beginning to realize its underappreciated potential as a tourism destination.
 One of my proudest accomplishments during my first term was my role in securing the $4.2 million grant to rebuild the Kewaunee harbor area.
 I wrote the amendment that put this into the budget and fought hard for its inclusion.
-This project will revitalize one of the most beautiful harbors on the Great Lakes and energize the tourism economy of Kewaunee and the entire county. | Economy and Jobs Helping the private sector create and maintain jobs in our area will always be a high priority for me.
+This project will revitalize one of the most beautiful harbors on the Great Lakes and energize the tourism economy of Kewaunee and the entire county.
+CONTRIBUTE Economy and Jobs Helping the private sector create and maintain jobs in our area will always be a high priority for me.
 Our businesses must view government as an ally in helping them overcome their challenges, not as a roadblock to their growth.
 I have worked extensively with our local governments and economic development agencies to achieve this goal.
 I am very proud that over the past 10 years, Wisconsin has gone from being consistently ranked in the bottom 10 states for business climate to being in the top half.
@@ -53,6 +54,5 @@ I have received numerous awards from conservation groups.
 Most recently, I was named the Legislator of the Year by the Wisconsin Wildlife Federation.
 Our efforts have been effective.
 The recent test results from Door County wells show that, while we have the most vulnerable geology in the state, our drinking water is much cleaner than the state as a whole in every category.
-I have also been recognized for my leadership in preserving the Knowles-Nelson Stewardship Programand I will continue to do everything within my power to protect it. |
-| Joel Kitchens for Assembly | Issues |
-Paid for by Joel Kitchens for Assembly
+I have also been recognized for my leadership in preserving the Knowles-Nelson Stewardship Programand I will continue to do everything within my power to protect it.
+Paid for by Joel Kitchens for Assembly Home About Joel Issues District Contact Contribute

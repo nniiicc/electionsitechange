@@ -1,12 +1,62 @@
 [
-"https://dropbox.com/scl/fo/9onvs2heysib15wokojq9/AGd1HWZtiBWAS_JKof0OCDE?rlkey=9ccx1egcavja00mjf5c1ntin6&st=0lqtrr2e&dl=0",
-"https://facebook.com/WilsonforJustice",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/wilson-for-justice-mt/6886898e-28a9-49c0-adc9-70befbf4778d",
-"https://secure.anedot.com/wilson-for-justice-mt/6886898e-28a9-49c0-adc9-70befbf4778d?amount=100",
-"https://secure.anedot.com/wilson-for-justice-mt/6886898e-28a9-49c0-adc9-70befbf4778d?amount=350",
-"https://secure.anedot.com/wilson-for-justice-mt/6886898e-28a9-49c0-adc9-70befbf4778d?amount=830",
-"https://wilsonforjustice.com/",
-"https://wilsonforjustice.com/privacy-policy"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/wilson-for-justice-mt/6886898e-28a9-49c0-adc9-70befbf4778d?amount=100"
+},
+{
+"text": "$350",
+"href": "https://secure.anedot.com/wilson-for-justice-mt/6886898e-28a9-49c0-adc9-70befbf4778d?amount=350"
+},
+{
+"text": "$830",
+"href": "https://secure.anedot.com/wilson-for-justice-mt/6886898e-28a9-49c0-adc9-70befbf4778d?amount=830"
+},
+{
+"text": "About",
+"href": "https://wilsonforjustice.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://wilsonforjustice.com/#contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/wilson-for-justice-mt/6886898e-28a9-49c0-adc9-70befbf4778d"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/WilsonforJustice/"
+},
+{
+"text": "Issues",
+"href": "https://wilsonforjustice.com/#issues"
+},
+{
+"text": "Media",
+"href": "https://www.dropbox.com/scl/fo/9onvs2heysib15wokojq9/AGd1HWZtiBWAS_JKof0OCDE?rlkey=9ccx1egcavja00mjf5c1ntin6&st=0lqtrr2e&dl=0"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/wilson-for-justice-mt/6886898e-28a9-49c0-adc9-70befbf4778d"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://wilsonforjustice.com/privacy-policy"
+},
+{
+"text": "Terms & conditions/privacy policy",
+"href": "https://wilsonforjustice.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Dan Wilson for Montana Supreme Court]",
+"href": "https://wilsonforjustice.com/"
+}
 ]

@@ -1,26 +1,4 @@
-I have previously been endorsed by
-- Emily’s List
-- Represent PA
-- Pennsylvania NOW
-- Planned Parenthood
-- Sierra Club
-- PennEnvironment
-- Clean Water Action
-- Conservation Voters of PA
-- PFT
-- AFL-CIO
-- AFSCME
-- HumanePA
-- 18th Ward Democrats
-- 5th Ward Democrats
-- Philadelphia Democratic City Committee
-- LEAP FORWARD
-- IBEW
-- Sheetmetal Workers
-- Transportation Workers
-- Firefighters Local 22
-- UFCW 1776
-- Liberty City
-- PGN
-- Mom’s Demand Action
-- Governor Tom Wolf
+Skip to content Home About Issues Endorsements Contact Donate Endorsements I have previously been endorsed by Emily’s List Represent PA Pennsylvania NOW Planned Parenthood Sierra Club PennEnvironment Clean Water Action Conservation Voters of PA PFT AFL-CIO AFSCME HumanePA 18th Ward Democrats 5th Ward Democrats Philadelphia Democratic City Committee LEAP FORWARD IBEW Sheetmetal Workers Transportation Workers Firefighters Local 22 UFCW 1776 Liberty City PGN Mom’s Demand Action Governor Tom Wolf Ready to Support?
+Make a Donation MARY ISAACSON FOR PA PAID FOR By friends of mary isaacson Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website MARY ISAACSON FOR PA Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

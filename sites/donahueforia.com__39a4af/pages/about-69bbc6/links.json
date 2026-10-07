@@ -1,10 +1,46 @@
 [
-"https://donahueforia.com/",
-"https://donahueforia.com/about",
-"https://donahueforia.com/contact",
-"https://donahueforia.com/issues",
-"https://facebook.com/DonahueForIA",
-"https://linkedin.com/in/molly-donahue-722b4b35",
-"https://secure.actblue.com/donate/donahue-for-state-senate-1",
-"https://twitter.com/MDonahueforIA"
+{
+"text": "ABOUT MOLLY",
+"href": "https://www.donahueforia.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.donahueforia.com/contact"
+},
+{
+"text": "Connect on Facebook",
+"href": "https://www.facebook.com/DonahueForIA"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/donahue-for-state-senate-1"
+},
+{
+"text": "HOME",
+"href": "https://www.donahueforia.com"
+},
+{
+"text": "IOWA STATE SENATOR",
+"href": "https://www.donahueforia.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.donahueforia.com/issues"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DonahueForIA"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/molly-donahue-722b4b35/"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/MDonahueforIA"
+},
+{
+"text": "[image: image1_edited_edited.jpg]",
+"href": "https://www.donahueforia.com"
+}
 ]

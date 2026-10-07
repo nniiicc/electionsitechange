@@ -1,5 +1,4 @@
-Postcard party
-October 13 @ 4:00 pm - 7:00 pm
-Come write postcards to voters along with other volunteers who are helping Jessica Van Oort get elected to the Vermont State House!
+Skip to content Jessica Van Oort for State Representative Home Get Involved About Events Updates Home Get Involved About Events Updates « All Events Postcard party October 13 @ 4:00 pm - 7:00 pm « Virtual Phone Bank for Jessica Van Oort Amanda Janoo town hall » Come write postcards to voters along with other volunteers who are helping Jessica Van Oort get elected to the Vermont State House!
 All materials are provided and there will be snacks.
 Drop in at any time during the three hour event.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 13 Time: 4:00 pm - 7:00 pm Venue 682 Route 30 682 VT Route 30 Pawlet , VT 05761 United States + Google Map « Virtual Phone Bank for Jessica Van Oort Amanda Janoo town hall » Jessica Van Oort for State Representative Home Get Involved About Events Updates © # All Rights Reserved

@@ -1,27 +1,122 @@
 [
-"http://topdogmktg.com/",
-"https://facebook.com/nancyforassembly",
-"https://nancyforwisconsin.com/",
-"https://nancyforwisconsin.com/_files/ugd/542f1c_112bac288c44409294605adff87f8d1b.pdf",
-"https://nancyforwisconsin.com/_files/ugd/542f1c_1fa11ad2d6214c769cc84f19516200d9.pdf",
-"https://nancyforwisconsin.com/_files/ugd/542f1c_219bf2292f9f4bbfbd698ab22d7666df.pdf",
-"https://nancyforwisconsin.com/_files/ugd/542f1c_35864688737a4e07b84a7ca84691e6db.pdf",
-"https://nancyforwisconsin.com/_files/ugd/542f1c_58cdf974c55a4858a3b5e9532beacdc0.pdf",
-"https://nancyforwisconsin.com/_files/ugd/542f1c_76ffb63e55004463bd9e841199654349.pdf",
-"https://nancyforwisconsin.com/_files/ugd/542f1c_7a8eccb0e7034c839aa01d5cf622deca.pdf",
-"https://nancyforwisconsin.com/_files/ugd/542f1c_d365a90579c74ba28e180cc79dc14eed.pdf",
-"https://nancyforwisconsin.com/_files/ugd/542f1c_d629b750510a4e63b62f0d72ff4346e3.pdf",
-"https://nancyforwisconsin.com/_files/ugd/542f1c_e9c3f1c4b3fb49aa821e9f613c03ca6e.pdf",
-"https://nancyforwisconsin.com/about",
-"https://nancyforwisconsin.com/authored-proposals",
-"https://nancyforwisconsin.com/awards",
-"https://nancyforwisconsin.com/co-sponsored-proposals",
-"https://nancyforwisconsin.com/contact",
-"https://nancyforwisconsin.com/contribute",
-"https://nancyforwisconsin.com/copy-of-legislation",
-"https://nancyforwisconsin.com/district",
-"https://nancyforwisconsin.com/issues",
-"https://nancyforwisconsin.com/photos",
-"https://nancyforwisconsin.com/successes",
-"https://nancyforwisconsin.com/volunteer"
+{
+"text": "About",
+"href": "https://www.nancyforwisconsin.com/about"
+},
+{
+"text": "Authored Proposals",
+"href": "https://www.nancyforwisconsin.com/authored-proposals"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.nancyforwisconsin.com/contact"
+},
+{
+"text": "Co-Authored Proposals",
+"href": "https://www.nancyforwisconsin.com/copy-of-legislation"
+},
+{
+"text": "Co-Sponsored Proposals",
+"href": "https://www.nancyforwisconsin.com/co-sponsored-proposals"
+},
+{
+"text": "Contact",
+"href": "https://www.nancyforwisconsin.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.nancyforwisconsin.com/contribute"
+},
+{
+"text": "DONATE",
+"href": "https://www.nancyforwisconsin.com/contribute"
+},
+{
+"text": "District",
+"href": "https://www.nancyforwisconsin.com/district"
+},
+{
+"text": "Follow Nancy's Issues & Actions",
+"href": "https://www.nancyforwisconsin.com/issues"
+},
+{
+"text": "Follow Nancy's Lead",
+"href": "https://www.nancyforwisconsin.com/authored-proposals"
+},
+{
+"text": "Home",
+"href": "https://www.nancyforwisconsin.com"
+},
+{
+"text": "Issues & Actions",
+"href": "https://www.nancyforwisconsin.com/issues"
+},
+{
+"text": "News Release",
+"href": "https://www.nancyforwisconsin.com/_files/ugd/542f1c_112bac288c44409294605adff87f8d1b.pdf"
+},
+{
+"text": "News Release",
+"href": "https://www.nancyforwisconsin.com/_files/ugd/542f1c_1fa11ad2d6214c769cc84f19516200d9.pdf"
+},
+{
+"text": "News Release",
+"href": "https://www.nancyforwisconsin.com/_files/ugd/542f1c_219bf2292f9f4bbfbd698ab22d7666df.pdf"
+},
+{
+"text": "News Release",
+"href": "https://www.nancyforwisconsin.com/_files/ugd/542f1c_35864688737a4e07b84a7ca84691e6db.pdf"
+},
+{
+"text": "News Release",
+"href": "https://www.nancyforwisconsin.com/_files/ugd/542f1c_58cdf974c55a4858a3b5e9532beacdc0.pdf"
+},
+{
+"text": "News Release",
+"href": "https://www.nancyforwisconsin.com/_files/ugd/542f1c_76ffb63e55004463bd9e841199654349.pdf"
+},
+{
+"text": "News Release",
+"href": "https://www.nancyforwisconsin.com/_files/ugd/542f1c_7a8eccb0e7034c839aa01d5cf622deca.pdf"
+},
+{
+"text": "News Release",
+"href": "https://www.nancyforwisconsin.com/_files/ugd/542f1c_d365a90579c74ba28e180cc79dc14eed.pdf"
+},
+{
+"text": "News Release",
+"href": "https://www.nancyforwisconsin.com/_files/ugd/542f1c_d629b750510a4e63b62f0d72ff4346e3.pdf"
+},
+{
+"text": "News Release",
+"href": "https://www.nancyforwisconsin.com/_files/ugd/542f1c_e9c3f1c4b3fb49aa821e9f613c03ca6e.pdf"
+},
+{
+"text": "Photos",
+"href": "https://www.nancyforwisconsin.com/photos"
+},
+{
+"text": "Successes",
+"href": "https://www.nancyforwisconsin.com/successes"
+},
+{
+"text": "Successes & Recognitions >",
+"href": "https://www.nancyforwisconsin.com/awards"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nancyforwisconsin.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/nancyforassembly"
+},
+{
+"text": "[image: revised logo wh png.png]",
+"href": "http://www.topdogmktg.com"
+},
+{
+"text": "info@nancyforwisconsin.com",
+"href": "mailto:info@nancyforwisconsin.com"
+}
 ]

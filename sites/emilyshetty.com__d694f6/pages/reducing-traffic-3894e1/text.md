@@ -1,5 +1,4 @@
-Reducing Traffic
-Delegate Shetty knows more traffic means less family time, and has been a staunch advocate for numerous efforts to improve traffic congestion throughout our community.
+0 Skip to Content Meet Emily Scholarships & Service Priorities Putting Families First Improving Every School Fighting for Our Environment Reducing Traffic Protecting Our Healthcare Standing with Immigrants Join Team Shetty Join Team Shetty About D18 Contact Us Open Menu Close Menu Meet Emily Scholarships & Service Priorities Putting Families First Improving Every School Fighting for Our Environment Reducing Traffic Protecting Our Healthcare Standing with Immigrants Join Team Shetty Join Team Shetty About D18 Contact Us Open Menu Close Menu Meet Emily Scholarships & Service Folder: Priorities Back Putting Families First Improving Every School Fighting for Our Environment Reducing Traffic Protecting Our Healthcare Standing with Immigrants Folder: Join Team Shetty Back Join Team Shetty About D18 Contact Us Reducing Traffic Delegate Shetty knows more traffic means less family time, and has been a staunch advocate for numerous efforts to improve traffic congestion throughout our community.
 Montgomery County’s population is growing exponentially as families continue to choose to move here for our exceptional schools and vibrant community.
 With this growth in population, Emily believes we need smart transportation policies that prioritize moving people safely and efficiently, regardless of their mode of transport.
 Emily shares the concerns of many neighbors in D18 regarding Governor Hogan’s plan to expand and privatize the beltway.
@@ -13,3 +12,5 @@ Because the most congested arteries in District 18 — Connecticut Ave.
 (MD 97) and Wisconsin Ave.
 (MD 355) – are state roads, state and county transportation policy must work together to prioritize moving people safely whether walking, biking, driving or taking transit.
 In Annapolis, Emily has worked closely with the D18 team to bring state and local leaders together to meet the needs of our community.
+Friends of Emily Shetty PO Box 642 Kensington, MD 20895 By authority: Friends of Emily Shetty.
+Bob Levering, Treasurer.

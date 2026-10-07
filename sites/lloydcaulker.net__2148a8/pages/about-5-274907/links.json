@@ -1,10 +1,46 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://linkedin.com/company/wix-com",
-"https://lloydcaulker.net/",
-"https://lloydcaulker.net/about-5",
-"https://lloydcaulker.net/meet-lloyd",
-"https://lloydcaulker.net/platform",
-"https://twitter.com/wix"
+{
+"text": "ABOUT",
+"href": "https://www.lloydcaulker.net/about-5"
+},
+{
+"text": "Dr. Lloyd Caulker",
+"href": "https://www.lloydcaulker.net"
+},
+{
+"text": "Florida House of Representative District 15",
+"href": "https://www.lloydcaulker.net"
+},
+{
+"text": "HOME",
+"href": "https://www.lloydcaulker.net"
+},
+{
+"text": "MEET LLOYD",
+"href": "https://www.lloydcaulker.net/meet-lloyd"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.lloydcaulker.net/platform"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "lloydcaulker@gmail.com",
+"href": "mailto:info@mysite.com"
+}
 ]

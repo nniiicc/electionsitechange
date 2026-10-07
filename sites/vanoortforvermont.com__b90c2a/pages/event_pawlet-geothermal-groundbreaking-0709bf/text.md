@@ -1,6 +1,5 @@
-- This event has passed.
-Pawlet Geothermal Groundbreaking
-September 18 @ 4:00 pm - 6:00 pm
-This is not a campaign event, but it’s the groundbreaking for a project Jessica has been working on as a Selectboard member and she will be speaking about its benefits for the community.
+Skip to content Jessica Van Oort for State Representative Home Get Involved About Events Updates Home Get Involved About Events Updates « All Events This event has passed.
+Pawlet Geothermal Groundbreaking September 18 @ 4:00 pm - 6:00 pm « Middletown Springs House Party Canvassing for Jessica Van Oort for State House » This is not a campaign event, but it’s the groundbreaking for a project Jessica has been working on as a Selectboard member and she will be speaking about its benefits for the community.
 Funded by the Municipal Energy Resilience program, the construction of this new renewable energy system will provide heating and cooling for the Pawlet Town Office and Public Library while reducing energy costs and greenhouse gas emissions.
 Enjoy remarks from local officials and project partners, a ceremonial groundbreaking, music, refreshments, and opportunities to learn more about the project.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: September 18 Time: 4:00 pm - 6:00 pm Venue Pawlet Public Library 141 School St Pawlet , VT 05761 United States + Google Map « Middletown Springs House Party Canvassing for Jessica Van Oort for State House » Jessica Van Oort for State Representative Home Get Involved About Events Updates © # All Rights Reserved

@@ -1,8 +1,4 @@
-My Turn: Use drug crime forfeitures to address opioid epidemic
-by JAMES SPILLANE
-For the Monitor
-Published: 2/11/2020 6:00:34 AM
-In 2019, 252 Granite Staters died from opioid overdoses, and of those, 75 died from pure fentanyl – no other drugs were found in their system when they took their last breath.
+james@jamesspillane.org Facebook X Facebook X HOME About James Bills Sponsored ISSUES ENDORSEMENTS DONATE HOW TO HELP Campaign Literature and Signs Write a Letter EVENTS Voting Information 2026 UPDATES Select Page My Turn: Use Drug Crime Forfeitures to Address Opioid Epidemic Feb 22, 2020 My Turn: Use drug crime forfeitures to address opioid epidemic by JAMES SPILLANE For the Monitor Published: 2/11/2020 6:00:34 AM In 2019, 252 Granite Staters died from opioid overdoses, and of those, 75 died from pure fentanyl – no other drugs were found in their system when they took their last breath.
 And while any death of any New Hampshire resident is undoubtedly a tragedy, the opioid epidemic has wreaked much more havoc on our state.
 In 2017, New Hampshire lost 34 of every 100,000 residents to an opioid overdose, which is more than twice the national average of 14.6 deaths per 100,000 residents.
 This loss of life has translated into nearly 8,000 workers missing from the state’s economy and the Granite State losing a cumulative $6.6 billion in economic activity from 1999 to 2015.
@@ -25,5 +21,5 @@ Forfeitures will be seized and sent to the Governor and Executive Council, which
 I truly believe in this legislation.
 It will bring much-needed transparency to New Hampshire’s criminal justice system and also provide a state-based solution to the opioid epidemic.
 (James Spillane of Deerfield represents Rockingham District 2 in the N.H.
-House of Representatives.)
-See Spillane on House Bill 1563 NH House of Representatives
+House of Representatives.) See Spillane on House Bill 1563 NH House of Representatives SEARCH THIS SITE Search for: HOW TO READ Click on the Titles to reveal the full article and social sharing icons.
+UPDATES Cole and Spillane: Elections, Air Rifles (w/ Northeast Airguns and Sig Sauer Academy), and Veterans August 4, 2026 CACR 15 – Fundamental Right to Hunt, Fish, and Harvest Game August 4, 2026 Dedication of the Salt Marsh Pond Access Road for Representative Harry Bean August 4, 2026 How New Hampshire Led America to Independence July 2, 2026 Spillane Cited as Most Effective May 23, 2026 Facebook X Copyright © # • James Spillane for State Representative • Rockingham District 2 • 16 Swamp Road, Deerfield NH 03037 • Fiscal Agent James Spillane

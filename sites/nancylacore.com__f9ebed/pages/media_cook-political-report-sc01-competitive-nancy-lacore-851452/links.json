@@ -1,37 +1,162 @@
 [
-"https://bsky.app/profile/nancylacore.bsky.social",
-"https://charlestoncitypaper.com/2026/06/11/our-view-finish-job-in-june-23-runoff-elections-in-races-for-governor-1st-district",
-"https://cookpolitical.com/analysis/house/house-overview/seven-house-ratings-shift-democrats-favor?check_logged_in=1",
-"https://docs.google.com/forms/d/e/1FAIpQLSdBEBrUJjkTmPwuRM0Lg6zD3lyoI2lcKSQGL7Ci9xgdB0S6jA/viewform",
-"https://facebook.com/nancylacore",
-"https://instagram.com/nancylacore",
-"https://mobilize.us/nancylacoreforcongress",
-"https://nancylacore.com/",
-"https://nancylacore.com/about-nancy",
-"https://nancylacore.com/cart",
-"https://nancylacore.com/contact",
-"https://nancylacore.com/endorsements",
-"https://nancylacore.com/get-involved",
-"https://nancylacore.com/media",
-"https://nancylacore.com/media/billy-keyserling-endorses-nancy-lacore",
-"https://nancylacore.com/media/lacore-laubacher-condemn-dod-failures-uss-lincoln",
-"https://nancylacore.com/media?author=5cb235d75e0ed89f1e0a4cc9",
-"https://nancylacore.com/priorities",
-"https://nancylacore.com/privacy",
-"https://nancylacore.com/terms-and-conditions",
-"https://nancylacore.com/vote",
-"https://secure.actblue.com/donate/nl-web",
-"https://secure.actblue.com/donate/nl-web?amount=10",
-"https://secure.actblue.com/donate/nl-web?amount=100",
-"https://secure.actblue.com/donate/nl-web?amount=25",
-"https://secure.actblue.com/donate/nl-web?amount=250",
-"https://secure.actblue.com/donate/nl-web?amount=50",
-"https://tiktok.com/@nancy.lacore?_r=1&_t=ZT-93DPSIVeLaI",
-"https://x.com/nancylacore/status/2039387268394189181?s=20",
-"https://x.com/nancylacore/status/2064856978195616229?s=20",
-"https://x.com/nancylacore/status/2065140422129725857?s=20",
-"https://x.com/nancylacore/status/2065500185749225521?s=20",
-"https://x.com/nancylacore/status/2065795646582300967?s=20",
-"https://x.com/nancylacore/status/2066593170129895544",
-"https://x.com/nancylacore?s=21"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/nl-web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/nl-web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/nl-web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/nl-web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/nl-web?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.nancylacore.com/cart"
+},
+{
+"text": "About Nancy",
+"href": "https://www.nancylacore.com/about-nancy"
+},
+{
+"text": "Back",
+"href": "https://www.nancylacore.com/"
+},
+{
+"text": "Charleston City Paper",
+"href": "https://charlestoncitypaper.com/2026/06/11/our-view-finish-job-in-june-23-runoff-elections-in-races-for-governor-1st-district/"
+},
+{
+"text": "Contact",
+"href": "https://www.nancylacore.com/contact"
+},
+{
+"text": "Cook Political Report has shifted South Carolina's First Congressional District toward a more competitive rating",
+"href": "https://www.cookpolitical.com/analysis/house/house-overview/seven-house-ratings-shift-democrats-favor?check_logged_in=1"
+},
+{
+"text": "Cook Political Report wrote",
+"href": "https://www.cookpolitical.com/analysis/house/house-overview/seven-house-ratings-shift-democrats-favor?check_logged_in=1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nl-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nancylacore.com/endorsements"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.nancylacore.com/get-involved"
+},
+{
+"text": "Francina Dantzler",
+"href": "https://x.com/nancylacore/status/2064856978195616229?s=20"
+},
+{
+"text": "Home",
+"href": "https://www.nancylacore.com/"
+},
+{
+"text": "Host an Event",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdBEBrUJjkTmPwuRM0Lg6zD3lyoI2lcKSQGL7Ci9xgdB0S6jA/viewform"
+},
+{
+"text": "Kasey Lacore",
+"href": "https://www.nancylacore.com/media?author=5cb235d75e0ed89f1e0a4cc9"
+},
+{
+"text": "Leon Stavrinakis",
+"href": "https://x.com/nancylacore/status/2065500185749225521?s=20"
+},
+{
+"text": "Media",
+"href": "https://www.nancylacore.com/media"
+},
+{
+"text": "Next Next Rear Admiral Nancy Lacore Expands Growing Lowcountry Coalition with Endorsement From Former Beaufort Mayor Billy Keyserling",
+"href": "https://www.nancylacore.com/media/billy-keyserling-endorses-nancy-lacore"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/nl-web"
+},
+{
+"text": "Previous Previous Retired Rear Admirals Nancy Lacore and Eileen Laubacher Condemn Department of Defense Failures Amid USS Lincoln’s Extended Deployment",
+"href": "https://www.nancylacore.com/media/lacore-laubacher-condemn-dod-failures-uss-lincoln"
+},
+{
+"text": "Priorities",
+"href": "https://www.nancylacore.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.nancylacore.com/privacy"
+},
+{
+"text": "Spencer Wetmore",
+"href": "https://x.com/nancylacore/status/2065140422129725857?s=20"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.nancylacore.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/nancylacoreforcongress/%20"
+},
+{
+"text": "Voting Resources",
+"href": "https://www.nancylacore.com/vote"
+},
+{
+"text": "[image: Nancy Lacore for Congress ]",
+"href": "https://www.nancylacore.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/nancylacore.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/nancylacore"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nancylacore/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@nancy.lacore?_r=1&_t=ZT-93DPSIVeLaI"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/nancylacore?s=21"
+},
+{
+"text": "former Beaufort Mayor Billy Keyserling",
+"href": "https://x.com/nancylacore/status/2066593170129895544"
+},
+{
+"text": "kaylie@nancylacore.com",
+"href": "mailto:kaylie@nancylacore.com"
+},
+{
+"text": "raised over $1 million",
+"href": "https://x.com/nancylacore/status/2039387268394189181?s=20"
+},
+{
+"text": "with a commanding lead",
+"href": "https://x.com/nancylacore/status/2065795646582300967?s=20"
+}
 ]

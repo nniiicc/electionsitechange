@@ -1,6 +1,4 @@
-GENERAL ELECTION
-Tuesday, November 3, 2026
-Voter Registration Deadline - Tuesday, October 13, 2026
-In-Person Advanced Voting Starts - Saturday, October 17, 2026
-Mail Ballot Application Deadline - Tuesday, October 27, 2026
-In-Person Advanced Voting Ends - Monday, November 2, 2026For the most up-to-date information, please visit JoCoElection.org.
+0 Skip to Content About Sherry Issues Endorsements Media Assets Get Involved CONTRIBUTE Open Menu Close Menu Open Menu Close Menu CONTRIBUTE About Sherry Issues Endorsements Media Assets Get Involved About Sherry Issues Endorsements Media Assets Get Involved CONTRIBUTE About Sherry Issues House District 14 After redistricting, House District 14 is located in Northwest Olathe.
+Get Involved GENERAL ELECTION Tuesday, November 3, 2026 Voter Registration Deadline - Tuesday, October 13, 2026 In-Person Advanced Voting Starts - Saturday, October 17, 2026 Mail Ballot Application Deadline - Tuesday, October 27, 2026 In-Person Advanced Voting Ends - Monday, November 2, 2026 HELPFUL LINKS Check your registration status Register to vote Look up advance voting information Apply for a mail ballot View your sample ballot For the most up-to-date information, please visit JoCoElection.org .
+Paid for by Sherry For Kansas, Laila Adsero- Treasurer.
+CONTRIBUTE

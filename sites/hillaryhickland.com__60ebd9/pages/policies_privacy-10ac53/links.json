@@ -1,8 +1,34 @@
 [
-"https://companyurl.com/contact",
-"https://facebook.com/profile.php?id=61552953196994&mibextid=LQQJ4d",
-"https://hillaryhickland.com/policies/privacy",
-"https://hillaryhickland.com/policies/terms",
-"https://secure.winred.com/hillary-hickland-campaign/donate-today?qr=true",
-"https://twitter.com/HicklandHillary"
+{
+"text": "254-262-5935",
+"href": "tel:254-262-5935"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61552953196994&mibextid=LQQJ4d"
+},
+{
+"text": "Make A Contribution",
+"href": "https://secure.winred.com/hillary-hickland-campaign/donate-today?qr=true"
+},
+{
+"text": "Privacy Policy",
+"href": "https://hillaryhickland.com/policies/privacy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://hillaryhickland.com/policies/terms"
+},
+{
+"text": "Twitter X",
+"href": "https://twitter.com/HicklandHillary"
+},
+{
+"text": "https://CompanyURL.com/contact",
+"href": "https://companyurl.com/contact"
+},
+{
+"text": "info@CompanyURL.com",
+"href": "mailto:info@CompanyURL.com"
+}
 ]

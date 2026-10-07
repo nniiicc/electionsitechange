@@ -1,8 +1,6 @@
-Meet Representative
-Michael J.
-Soter
-Representative Soter Making A Difference
-Currently serving his fourth term in the House of Representatives, Mike Soter has emerged as a powerful voice for his communities and economic justice.
+top of page HOME MEET MIKE FOCUS RESOURCES CONTACT CONSTITUENT SERVICES CITATION REQUEST DONATE More Use tab to navigate through the menu items.
+Meet Representative Michael J.
+Soter Representative Soter Making A Difference Currently serving his fourth term in the House of Representatives, Mike Soter has emerged as a powerful voice for his communities and economic justice.
 Representative Michael J.
 Soter currently serves as the State Representative for Massachusetts’s 8th Worcester District.
 Mike represents the towns of Bellingham, Blackstone, Medway, Millville, and Uxbridge.
@@ -16,3 +14,4 @@ Dedicated to being accessible to his constituents, Mike regularly holds open off
 He regularly hosts constituents and town officials at the statehouse to advocate for legislation and often coordinates visits to celebrate the accomplishments of student groups of a wide variety.
 Prior to being elected to the Massachusetts Legislature, Representative Soter served an impactful seven-year career on the Board of Selectmen for the town of Bellingham, serving as the board's Chairman for his last three years.
 In addition to his significant experience in local politics, Mike has also built a solid foundation as a successful businessman, bringing a unique mindset set to the State House.
+Paid for by CTE Mike Soter mike@mikesoter.com | ‪(508) 657-4688 © Copyright # bottom of page

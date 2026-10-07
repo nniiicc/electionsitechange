@@ -1,18 +1,1 @@
-Skip to content
-About
-Issues
-Gallery
-One Minute Survey
-Volunteer
-Donate
-About
-Issues
-Gallery
-One Minute Survey
-Volunteer
-Donate
-Facebook-f
-Youtube
-Envelope
-Gallery
-Gallery
+Skip to content About Issues Gallery One Minute Survey Volunteer Donate About Issues Gallery One Minute Survey Volunteer Donate Facebook-f Youtube Envelope Gallery Gallery Privacy Policy PAID FOR BY Friends of Melanie Stinnett, Treasurer Cristian Rath

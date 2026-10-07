@@ -1,13 +1,54 @@
 [
-"https://forms.gle/kCyx8CqgMJqD1HKi8",
-"https://murray4mo.com/",
-"https://murray4mo.com/about-me",
-"https://murray4mo.com/cart",
-"https://murray4mo.com/contact",
-"https://murray4mo.com/district-104",
-"https://murray4mo.com/endorsements",
-"https://murray4mo.com/events",
-"https://murray4mo.com/gallery",
-"https://murray4mo.com/issues",
-"https://secure.actblue.com/donate/murray4missouri-1"
+{
+"text": "0",
+"href": "https://www.murray4mo.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.murray4mo.com/about-me"
+},
+{
+"text": "Contact",
+"href": "https://www.murray4mo.com/contact"
+},
+{
+"text": "District 104",
+"href": "https://www.murray4mo.com/district-104"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/murray4missouri-1"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/murray4missouri-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.murray4mo.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.murray4mo.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.murray4mo.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.murray4mo.com/issues"
+},
+{
+"text": "M4M Campaign Interest Form",
+"href": "https://forms.gle/kCyx8CqgMJqD1HKi8"
+},
+{
+"text": "What's Going On!",
+"href": "https://www.murray4mo.com/gallery"
+},
+{
+"text": "[image: Murray4MO]",
+"href": "https://www.murray4mo.com/"
+}
 ]

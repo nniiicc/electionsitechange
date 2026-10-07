@@ -1,13 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Healthcare+Fundraiser+with+Megan+Coy&dates=20261004T153000Z%2F20261004T170000Z",
-"http://maps.google.com/?q=Address+Provided+Upon+RSVP",
-"https://coyforohio.com/",
-"https://coyforohio.com/cart",
-"https://coyforohio.com/contact",
-"https://coyforohio.com/events",
-"https://coyforohio.com/events/5nzcnrbysuqmxr9gubqnuhnlw74g7g",
-"https://coyforohio.com/events/healthcare-townhall-with-doctors-organized-for-healthcare-solutions-and-nurses-for-america-in-support-of-megan-coy?format=ical",
-"https://coyforohio.com/events/north-royalton-canvass-with-megan-coy-1",
-"https://coyforohio.com/support",
-"https://secure.actblue.com/donate/coy_doctors_nursesevent"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=address+provided+upon+rsvp"
+},
+{
+"text": "0",
+"href": "https://www.coyforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.coyforohio.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.coyforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Healthcare+Fundraiser+with+Megan+Coy&dates=20261004T153000Z%2F20261004T170000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.coyforohio.com/events/healthcare-townhall-with-doctors-organized-for-healthcare-solutions-and-nurses-for-america-in-support-of-megan-coy?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.coyforohio.com/#issues"
+},
+{
+"text": "Meet Megan",
+"href": "https://www.coyforohio.com/#meetmegan"
+},
+{
+"text": "Next Next October 10 North Royalton Canvass with Megan Coy and Courtney Scheff",
+"href": "https://www.coyforohio.com/events/north-royalton-canvass-with-megan-coy-1"
+},
+{
+"text": "Previous Previous October 3 Strongsville Canvass Launch",
+"href": "https://www.coyforohio.com/events/5nzcnrbysuqmxr9gubqnuhnlw74g7g"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.coyforohio.com/support"
+},
+{
+"text": "[image: Megan Coy]",
+"href": "https://www.coyforohio.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/coy_doctors_nursesevent"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Upcoming events you won't want to miss!",
  "final_url": "https://miller4ncsenate.org/events/",
- "paid_for_by": null,
+ "fingerprint": "be91c4ca7b1649722d2fcb0a21b26823553c5f4c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Miller 4 NC Senate",
  "years_mentioned": [
   "2024"

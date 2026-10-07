@@ -1,8 +1,26 @@
 [
-"https://blairforarizona.com/",
-"https://blairforarizona.com/blank",
-"https://docs.google.com/forms/d/1fRKsKhZFnEtom4w_R-AFPyvAIM7nrjfSVhkopvmU0zI/edit?usp=forms_home&ouid=102013116737267526647&ths=true",
-"https://docs.google.com/forms/d/1fRKsKhZFnEtom4w_R-AFPyvAIM7nrjfSVhkopvmU0zI/viewform?edit_requested=true",
-"https://facebook.com/profile.php?id=61584572261053",
-"https://youtube.com/channel/UCkYGPrymKUKSbmjCB8eHOYQ"
+{
+"text": "Click here to Sign Up to volunteer",
+"href": "https://docs.google.com/forms/d/1fRKsKhZFnEtom4w_R-AFPyvAIM7nrjfSVhkopvmU0zI/edit?usp=forms_home&ouid=102013116737267526647&ths=true"
+},
+{
+"text": "Home",
+"href": "https://www.blairforarizona.com"
+},
+{
+"text": "Our Endorsements!",
+"href": "https://www.blairforarizona.com/blank"
+},
+{
+"text": "Volunteer With Us",
+"href": "https://docs.google.com/forms/d/1fRKsKhZFnEtom4w_R-AFPyvAIM7nrjfSVhkopvmU0zI/viewform?edit_requested=true"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584572261053"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCkYGPrymKUKSbmjCB8eHOYQ"
+}
 ]

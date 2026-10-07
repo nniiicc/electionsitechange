@@ -1,23 +1,94 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Love+and+Protect+Nature&dates=20260922T220000Z%2F20260923T000000Z&location=4200+Liberty+Highway%2C+Anderson%2C+South+Carolina%2C+29621%2C+United+States",
-"http://maps.google.com/?q=4200+Liberty+Highway+Anderson%2C+South+Carolina%2C+29621+United+States",
-"https://bsky.app/profile/euniceforsc.bsky.social",
-"https://euniceforsc.com/",
-"https://euniceforsc.com/about",
-"https://euniceforsc.com/cart",
-"https://euniceforsc.com/events",
-"https://euniceforsc.com/events/a-dem-good-time-fish-fry-fundraiser-for-greenville-county-democratic-party",
-"https://euniceforsc.com/events/love-and-protect-nature?format=ical",
-"https://euniceforsc.com/events/newsc-campus-kickoff-tiger-jam",
-"https://euniceforsc.com/ideas",
-"https://euniceforsc.com/news",
-"https://euniceforsc.com/privacy-policy",
-"https://euniceforsc.com/support",
-"https://euniceforsc.com/vote",
-"https://facebook.com/EuniceforSC",
-"https://instagram.com/euniceforsc",
-"https://secure.actblue.com/donate/eunice-lehmacher-1",
-"https://secure.actblue.com/donate/fallequinoxfundraiser",
-"https://tiktok.com/@euniceforsc",
-"https://youtube.com/@euniceforsc4284"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4200+liberty+highway+anderson%2C+south+carolina%2C+29621+united+states"
+},
+{
+"text": "0",
+"href": "https://www.euniceforsc.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.euniceforsc.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.euniceforsc.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/eunice-lehmacher-1"
+},
+{
+"text": "Events",
+"href": "https://www.euniceforsc.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Love+and+Protect+Nature&dates=20260922T220000Z%2F20260923T000000Z&location=4200+Liberty+Highway%2C+Anderson%2C+South+Carolina%2C+29621%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.euniceforsc.com/events/love-and-protect-nature?format=ical"
+},
+{
+"text": "Ideas",
+"href": "https://www.euniceforsc.com/ideas"
+},
+{
+"text": "News",
+"href": "https://www.euniceforsc.com/news"
+},
+{
+"text": "Next Next September 26 A Dem Good Time Fish Fry Fundraiser for Greenville County Democratic Party",
+"href": "https://www.euniceforsc.com/events/a-dem-good-time-fish-fry-fundraiser-for-greenville-county-democratic-party"
+},
+{
+"text": "Previous Previous September 21 #newsc Campus Kickoff Tiger Jam",
+"href": "https://www.euniceforsc.com/events/newsc-campus-kickoff-tiger-jam"
+},
+{
+"text": "Privacy Policy",
+"href": "https://euniceforsc.com/privacy-policy"
+},
+{
+"text": "Support",
+"href": "https://www.euniceforsc.com/support"
+},
+{
+"text": "Vote",
+"href": "https://www.euniceforsc.com/vote"
+},
+{
+"text": "[image: Eunice for SC]",
+"href": "https://www.euniceforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/euniceforsc.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/euniceforsc"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EuniceforSC/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@euniceforsc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@euniceforsc4284"
+},
+{
+"text": "[no text]",
+"href": "mailto:EuniceForSC@gmail.com"
+},
+{
+"text": "here",
+"href": "https://secure.actblue.com/donate/fallequinoxfundraiser"
+}
 ]

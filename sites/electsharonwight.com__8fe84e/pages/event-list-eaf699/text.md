@@ -1,11 +1,3 @@
-top of page
-You are seconds away from getting this done. 🤩
-⚙️Google Calendar Connector
-and add your Google Calendar URL to connect.
-Open the
-Upcoming Events
-- Empathy Gala: Voices for ChangeWed, Jan 28Indiana Auditorium
-- Community Town Hall on Key IssuesWed, Jan 28Lincoln Event Center
-- Citizen Empowerment Workshop SeriesWed, Jan 28East Side Community Center
-- Volunteer IntroductionsTue, Jan 20Remote
-bottom of page
+top of page Sharon Wight for District 81 Donate Get Involved Yard Sign Request Menu Wight for Indiana House Home About Sharon Platform Get Involved Socials and More Events Yard Sign Request Media Privacy Policy Accessibility Statement Search Results You are seconds away from getting this done. 🤩 ⚙️Google Calendar Connector and add your Google Calendar URL to connect.
+Open the Upcoming Events Empathy Gala: Voices for Change Wed, Jan 28 Indiana Auditorium More info Details Community Town Hall on Key Issues Wed, Jan 28 Lincoln Event Center More info Details Citizen Empowerment Workshop Series Wed, Jan 28 East Side Community Center More info Details Volunteer Introductions Tue, Jan 20 Remote More info Details Wight for Indiana House Yard Sign Request Volunteer Stay Connected Email * Yes, subscribe me to your newsletter. * Submit 260-342-4487 electsharonwight@gmail.com 429 East Dupont Road #94, Fort Wayne, IN, 46825 USA Accessibility Statement ​ © # by Wight for Indiana House 81.
+Paid for by Friends of Sharon Wight bottom of page

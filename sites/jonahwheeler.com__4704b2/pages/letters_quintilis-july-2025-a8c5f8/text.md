@@ -1,5 +1,4 @@
-July 2025 Letter
-Quintilis, is what the Romans originally called that which was the fifth month.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Quintilis Quintilis Quintilis Jul 31, 2025 Jul 31, 2025 July 2025 Letter Maine Flowers - 13 July 2025 - 07:44 - Ogunquit, ME - Taken by Jonah Maine Flowers - 13 July 2025 - 07:44 - Ogunquit, ME - Taken by Jonah Quintilis, is what the Romans originally called that which was the fifth month.
 It wasn’t until 44BC, when Julius Caesar was murdered, that the month was named Iulius.
 In honor of the fallen Emperor of Rome.
 Now the seventh month on the Gregorian calendar 2069 years later, we still call it July.
@@ -16,8 +15,7 @@ House Bill 81 would allow the consumption of beverages or liquor in restrooms.
 The ‘bring your drink to the toilet’ bill.
 Sounds ridiculous at first, but when you consider the danger that arises from a drink left alone - the idea becomes less ridiculous.
 Representative Sullivan worked hard to get this bill through his committee and the Senate commerce committee.
-Becoming law and going into effect on August the 25th of this year.
-from all wins this year.
+Becoming law and going into effect on August the 25th of this year. from all wins this year.
 There was legislation such as HB641 which I cosponsored along the prime sponsor, my former ranking member, Linda Harriott Gathright.
 This legislation would have established a private right of action in all civil rights cases.
 Allowing for those who are facing civil rights discrimination as defined under law to seek remuneration for the discrimination they are going through.
@@ -93,7 +91,7 @@ That is exactly what I am doing.
 I am New Hampshire born and raised.
 I love this State because it is my home.
 I wouldn’t refuse to have dinner with my neighbor because our politics don’t align, and I certainly wouldn’t refuse to do the same with colleagues of mine with whom I am supposed to work for all but two months of the year.
-To get by this year during the legislative session, I worked a variety of different jobs for people around the region as they would pop up.
+Lunch break - 22 July, 2025 - 14:20 - Greenfield, NH - Taken by Jonah Lunch break - 22 July, 2025 - 14:20 - Greenfield, NH - Taken by Jonah To get by this year during the legislative session, I worked a variety of different jobs for people around the region as they would pop up.
 Driving people around, helping people move in and out of their homes, house sitting, and whatever else I could find to meet rent and my other monthly bills.
 With a combination of those jobs and the mileage stipend from the State House, I was able to do just that.
 Living in the gig economy is truly something else.
@@ -138,29 +136,8 @@ August looms as the last bastion of summer, and reminder that September the 21st
 The halfway point of the year.
 And what a year it has been.
 There is no good conclusion to the wackadoolde halfway point we find ourselves at.
-So I will end by relaying a poem.
--
-A Boat, Beneath a Sunny Sky
-The Epilogue To Through The Looking Glass by Lewis Carroll (1832-1898)
-A boat, beneath a sunny sky
-Lingering onward dreamily
-In an evening of July—
-Children three that nestle near,
-Eager eye and willing ear,
-Pleased a simple tale to hear—
-Long has paled that sunny sky:
-Echoes fade and memories die:
-Autumn frosts have slain July.
-Still she haunts me, phantomwise,
-Alice moving under skies
-Never seen by waking eyes.
-Children yet, the tale to hear,
-Eager eye and willing ear,
-Lovingly shall nestle near.
-In a Wonderland they lie,
-Dreaming as the days go by,
-Dreaming as the summers die:
-Ever drifting down the stream—
-Lingering in the golden gleam—
-Life, what is it but a dream?
-Back to all
+So I will end by relaying a poem. - A Boat, Beneath a Sunny Sky The Epilogue To Through The Looking Glass by Lewis Carroll (1832-1898) A boat, beneath a sunny sky Lingering onward dreamily In an evening of July— Children three that nestle near, Eager eye and willing ear, Pleased a simple tale to hear— Long has paled that sunny sky: Echoes fade and memories die: Autumn frosts have slain July.
+Still she haunts me, phantomwise, Alice moving under skies Never seen by waking eyes.
+Children yet, the tale to hear, Eager eye and willing ear, Lovingly shall nestle near.
+In a Wonderland they lie, Dreaming as the days go by, Dreaming as the summers die: Ever drifting down the stream— Lingering in the golden gleam— Life, what is it but a dream?
+Our Town Full Moon - 7 July 2025 - 21:19 - Peterborough, NH - Taken by Jonah Our Town Full Moon - 7 July 2025 - 21:19 - Peterborough, NH - Taken by Jonah ‹ Spare ‘oom ‹ Spare ‘oom ‹ Spare ‘oom They Don’t Really Care About Us › They Don’t Really Care About Us › They Don’t Really Care About Us › Back to all

@@ -1,4 +1,4 @@
-Since her election in 2018, Rep.
+Meet Mary Frances Serving You Priorities Voting Community Voices Meet Mary Frances Serving You Priorities Voting Georgia House District 37 Community Voices Scroll Mary Frances is Fighting for you Since her election in 2018, Rep.
 Mary Frances has been a champion for the environment and an outspoken advocate for education and healthcare.
 She introduced a resolution to clean up coal ash storage facilities, and spoke out on the weakening of environmental shoreline protections.
 As a member of the Government Affairs Committee, Mary Frances was a vocal supporter of hand-marked paper ballots and critical of the many vulnerabilities presented in Georgia’s new voting machines.
@@ -13,3 +13,4 @@ During the 2019-2020 legislative session, Rep.
 Mary Frances will put her years of budgeting experience to work to defend against planned cuts to essential services to families and children and work to ensure transportation efforts for the region are not stalled.
 She will also continue to work to clean up the coal ash storage facilities and nearby chemical facilities that are threatening the health and well-being of our neighborhoods in district 37.
 She currently serves on the following committees: Government Affairs, Natural Resources & Environment, and State Properties.
+Legis-Banner Legis Follow Me on Instagram Sign Up Contact Us Paid for by Friends and Neighbors of Mary Frances Williams 1000 Whitlock Ave NW, Ste 320 PMB 249 Marietta, GA 30064 (770) 424-9084 info@maryfranceswilliams.com

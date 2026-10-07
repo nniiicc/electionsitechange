@@ -1,17 +1,74 @@
 [
-"https://drkristinhook.org/",
-"https://drkristinhook.org/about-4",
-"https://drkristinhook.org/endorsements",
-"https://drkristinhook.org/get-involved",
-"https://drkristinhook.org/issues",
-"https://drkristinhook.org/meet-kristin",
-"https://drkristinhook.org/yardsigns",
-"https://expressnews.com/opinion/editorial/article/kristin-hook-election-2024-endorsement-19823818.php",
-"https://instagram.com/dr.kristinhook",
-"https://linkedin.com/in/kristin-hook-phd-a828ab177",
-"https://m.facebook.com/HookforTexas",
-"https://secure.actblue.com/donate/khookfortexas-w",
-"https://statesman.com/story/opinion/editorials/2024/10/20/endorsement-texas-house-district-21-candidate-kristin-hook-election-2024/75262599007",
-"https://tiktok.com/@dr.kristinhook",
-"https://twitter.com/Kristin_Hook"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/khookfortexas-w"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.drkristinhook.org/endorsements"
+},
+{
+"text": "FOR TEXAS' 21ST CONGRESSIONAL DISTRICT",
+"href": "https://www.drkristinhook.org"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.drkristinhook.org/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.drkristinhook.org"
+},
+{
+"text": "ISSUES",
+"href": "https://www.drkristinhook.org/issues"
+},
+{
+"text": "Info@drkristinhook.org",
+"href": "https://www.drkristinhook.org"
+},
+{
+"text": "MEET KRISTIN",
+"href": "https://www.drkristinhook.org/meet-kristin"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.drkristinhook.org/about-4"
+},
+{
+"text": "YARD SIGNS",
+"href": "https://www.drkristinhook.org/yardsigns"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://m.facebook.com/HookforTexas"
+},
+{
+"text": "[image: Hook 2024 Logo (white vectorized).jpg]",
+"href": "https://www.drkristinhook.org"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/dr.kristinhook/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/kristin-hook-phd-a828ab177/"
+},
+{
+"text": "[image: SAE Endorsement.png]",
+"href": "https://www.expressnews.com/opinion/editorial/article/kristin-hook-election-2024-endorsement-19823818.php"
+},
+{
+"text": "[image: Statesman.png]",
+"href": "https://www.statesman.com/story/opinion/editorials/2024/10/20/endorsement-texas-house-district-21-candidate-kristin-hook-election-2024/75262599007/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@dr.kristinhook"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/Kristin_Hook"
+}
 ]

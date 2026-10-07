@@ -1,27 +1,114 @@
 [
-"http://facebook.com/lakeshawomack",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Democrats&dates=20260305T233000Z%2F20260306T013000Z",
-"http://instagram.com/lakeshawomack",
-"http://maps.google.com/?q=Cleveland+County+Democratic+Headquarters",
-"http://threads.com/@lakeshawomack",
-"http://twitter.com/lakeshawomack",
-"https://secure.actblue.com/donate/lakesha-womack",
-"https://tiktok.com/@lakeshaswomack",
-"https://womack4nc14.com/",
-"https://womack4nc14.com/bio",
-"https://womack4nc14.com/calendar",
-"https://womack4nc14.com/cart",
-"https://womack4nc14.com/contact",
-"https://womack4nc14.com/events",
-"https://womack4nc14.com/events/cleveland-county-democrats?format=ical",
-"https://womack4nc14.com/events/gaston-county-business-association",
-"https://womack4nc14.com/events/primary-voting",
-"https://womack4nc14.com/events?category=Cleveland+County",
-"https://womack4nc14.com/events?tag=Monthly+Meeting",
-"https://womack4nc14.com/give",
-"https://womack4nc14.com/issues",
-"https://womack4nc14.com/news-and-resources",
-"https://womack4nc14.com/privacy-policy",
-"https://womack4nc14.com/shop",
-"https://youtube.com/@LaKeshaWomack"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=cleveland+county+democratic+headquarters"
+},
+{
+"text": "0",
+"href": "https://www.womack4nc14.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.womack4nc14.com/events"
+},
+{
+"text": "Calendar",
+"href": "https://www.womack4nc14.com/calendar"
+},
+{
+"text": "Cleveland County",
+"href": "https://www.womack4nc14.com/events?category=Cleveland+County"
+},
+{
+"text": "Contact",
+"href": "https://www.womack4nc14.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Democrats&dates=20260305T233000Z%2F20260306T013000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.womack4nc14.com/issues"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://www.womack4nc14.com/bio"
+},
+{
+"text": "Monthly Meeting",
+"href": "https://www.womack4nc14.com/events?tag=Monthly+Meeting"
+},
+{
+"text": "News and Resources",
+"href": "https://www.womack4nc14.com/news-and-resources"
+},
+{
+"text": "Next Next March 11 Gaston County Business Association",
+"href": "https://www.womack4nc14.com/events/gaston-county-business-association"
+},
+{
+"text": "Previous Previous March 3 Primary Voting",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.womack4nc14.com/privacy-policy"
+},
+{
+"text": "Shop",
+"href": "https://www.womack4nc14.com/shop"
+},
+{
+"text": "Ways to Give",
+"href": "https://www.womack4nc14.com/give"
+},
+{
+"text": "[image: LaKesha Womack for NC-14]",
+"href": "https://www.womack4nc14.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://threads.com/@lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@lakeshaswomack"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LaKeshaWomack"
+},
+{
+"text": "[no text]",
+"href": "mailto:connect@womack4nc14.com"
+}
 ]

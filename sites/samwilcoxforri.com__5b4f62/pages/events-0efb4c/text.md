@@ -1,17 +1,4 @@
-Skip to content
-Samantha Wilcox for State Senate District 34
-Home
-About
-Issues
-Events
-Volunteer
-HOW TO VOTE
-DONATE
-Upcoming Events
-Stay Tuned for Events to meet Sam, be informed and get involved in 2026!
-Subscribe
-Loading Comments...
+Skip to content Samantha Wilcox for State Senate District 34 Home About Issues Events Volunteer HOW TO VOTE DONATE Upcoming Events Stay Tuned for Events to meet Sam, be informed and get involved in 2026!
+Subscribe Home About Issues Events Volunteer Facebook Instagram Bluesky TikTok Mail Paid for By Friends of Sam Wilcox Designed with WordPress Loading Comments...
 Write a Comment...
-Email (Required)
-Name (Required)
-Website
+Email (Required) Name (Required) Website

@@ -1,25 +1,110 @@
 [
-"https://facebook.com/jointom",
-"https://tommcclintock.com/",
-"https://tommcclintock.com/about-tom-mcclintock",
-"https://tommcclintock.com/contact-the-campaign",
-"https://tommcclintock.com/donate",
-"https://tommcclintock.com/issues/economic-growth",
-"https://tommcclintock.com/issues/fiscal-reform-and-the-national-debt",
-"https://tommcclintock.com/issues/forest-policy",
-"https://tommcclintock.com/issues/global-warming-and-climate-change",
-"https://tommcclintock.com/issues/healthcare-and-obamacare",
-"https://tommcclintock.com/issues/national-defense",
-"https://tommcclintock.com/issues/the-american-constitution",
-"https://tommcclintock.com/issues/transportation",
-"https://tommcclintock.com/issues/water-policy",
-"https://tommcclintock.com/issues/yosemite",
-"https://tommcclintock.com/mcclintock-on-the-propositions-general-election-2024",
-"https://tommcclintock.com/mcclintock-on-the-propositions-november-2026",
-"https://tommcclintock.com/news",
-"https://tommcclintock.com/privacy-policy",
-"https://tommcclintock.com/terms-and-conditions",
-"https://tommcclintock.com/volunteer",
-"https://twitter.com/tommcclintock",
-"https://youtube.com/user/votemcclintock"
+{
+"text": "About",
+"href": "https://www.tommcclintock.com/about-tom-mcclintock/"
+},
+{
+"text": "Contact the campaign",
+"href": "https://www.tommcclintock.com/contact-the-campaign/"
+},
+{
+"text": "Donate",
+"href": "https://www.tommcclintock.com/donate/"
+},
+{
+"text": "Economic Growth",
+"href": "https://www.tommcclintock.com/issues/economic-growth/"
+},
+{
+"text": "Fiscal Reform and the National Debt",
+"href": "https://www.tommcclintock.com/issues/fiscal-reform-and-the-national-debt/"
+},
+{
+"text": "Forest Policy",
+"href": "https://www.tommcclintock.com/issues/forest-policy/"
+},
+{
+"text": "Global Warming and Climate Change",
+"href": "https://www.tommcclintock.com/issues/global-warming-and-climate-change/"
+},
+{
+"text": "Healthcare and Obamacare",
+"href": "https://www.tommcclintock.com/issues/healthcare-and-obamacare/"
+},
+{
+"text": "Home",
+"href": "https://www.tommcclintock.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.tommcclintock.com/#issues"
+},
+{
+"text": "National Defense",
+"href": "https://www.tommcclintock.com/issues/national-defense/"
+},
+{
+"text": "News",
+"href": "https://www.tommcclintock.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tommcclintock.com/privacy-policy/"
+},
+{
+"text": "Read All",
+"href": "https://www.tommcclintock.com/news/"
+},
+{
+"text": "Read More",
+"href": "https://www.tommcclintock.com/about-tom-mcclintock/"
+},
+{
+"text": "Read Post",
+"href": "https://www.tommcclintock.com/mcclintock-on-the-propositions-general-election-2024/"
+},
+{
+"text": "Read Post",
+"href": "https://www.tommcclintock.com/mcclintock-on-the-propositions-november-2026/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.tommcclintock.com/terms-and-conditions/"
+},
+{
+"text": "The American Constitution",
+"href": "https://www.tommcclintock.com/issues/the-american-constitution/"
+},
+{
+"text": "Transportation",
+"href": "https://www.tommcclintock.com/issues/transportation/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.tommcclintock.com/volunteer/"
+},
+{
+"text": "Water Policy",
+"href": "https://www.tommcclintock.com/issues/water-policy/"
+},
+{
+"text": "Yosemite",
+"href": "https://www.tommcclintock.com/issues/yosemite/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/tommcclintock"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/jointom"
+},
+{
+"text": "[image]",
+"href": "https://www.tommcclintock.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/user/votemcclintock"
+}
 ]

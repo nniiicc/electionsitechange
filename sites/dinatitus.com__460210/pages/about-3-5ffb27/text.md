@@ -1,20 +1,15 @@
-ABOUT DINA, NEVADA - DISTRICT ONE
-Dina Titus has dedicated her entire professional life to education and public service.
+top of page Donate HOME ABOUT EN ESPANOL NEWS ENDORSEMENTS VOLUNTEER Menu Use tab to navigate through the menu items.
+ABOUT DINA, NEVADA - DISTRICT ONE Dina Titus has dedicated her entire professional life to education and public service.
 She taught American and Nevada government classes at the University of Nevada, Las Vegas for 34 years until her retirement in June 2011.
-She represented the people of Senate District 7 in the Nevada Legislature for 20 years, serving as the Democratic Minority Leader from 1993 to 2008.
-Dina was first elected to the US House of Representatives in November 2008.
+She represented the people of Senate District 7 in the Nevada Legislature for 20 years, serving as the Democratic Minority Leader from 1993 to 2008.​ Dina was first elected to the US House of Representatives in November 2008.
 She currently serves on the Transportation and Infrastructure Committee and the Foreign Affairs Committee.
 She serves on the Subcommittee on Railroads, Pipelines, and Hazardous Materials (Ranking Member), Subcommittee on Economic Development, Public Buildings and Emergency Management, Subcommittee on Aviation, Subcommittee on Highways and Transit, Subcommittee on the Western Hemisphere, and Subcommittee on Europe.
 She also serves on the senior Whip team and is a member of the House Democracy Partnership and numerous issue caucuses including: Animal Protection Caucus; American Hellenic Israeli Alliance; Building Trades Caucus; LGBT Equality Caucus; General Aviation Caucus; Automotive; Hellenic Caucus; Marijuana Working Group; Pro-Choice Caucus; Public Lands Caucus; Public Works and Infrastructure Caucus; Nuclear Cleanup Caucus; RV Caucus; Taiwan Caucus; Travel and Tourism Caucus; Capital Girl Scout Troop; Victim's Rights Caucus; USO Caucus; U.S.-Japan Caucus; and US-Philippines Friendship Caucus.
-She is the co-chair of the I-11 Caucus.
-During the course of her political career, Dina has focused on protecting those most vulnerable – children, seniors, and the disabled.
+She is the co-chair of the I-11 Caucus. ​ During the course of her political career, Dina has focused on protecting those most vulnerable – children, seniors, and the disabled.
 A teacher herself, she has always made quality education for all a priority and has been a strong advocate for the arts.
-Dina has worked tirelessly on issues to protect our environment and its creatures, push renewable energy development, and create more sustainable communities.
-Dina has received numerous awards from various organizations, but one of her proudest moments came in 2006 with the dedication of the Dina Titus Estates, an innovative affordable housing complex for persons with disabilities, in recognition of Dina's tireless advocacy.
-Advocate in the Making
-Dina grew up in the small community of Tifton, Georgia, with her parents, Joe and Betty Titus, and her younger sister, Dr.
-Rho Hudson, who is a retired Nevada State College professor of special education and does educational consulting in Nevada.
-Dina learned from a close-knit family the value of community involvement and was introduced to politics at an early age.
+Dina has worked tirelessly on issues to protect our environment and its creatures, push renewable energy development, and create more sustainable communities. ​ Dina has received numerous awards from various organizations, but one of her proudest moments came in 2006 with the dedication of the Dina Titus Estates, an innovative affordable housing complex for persons with disabilities, in recognition of Dina's tireless advocacy.
+Advocate in the Making Dina grew up in the small community of Tifton, Georgia, with her parents, Joe and Betty Titus, and her younger sister, Dr.
+Rho Hudson, who is a retired Nevada State College professor of special education and does educational consulting in Nevada. ​ Dina learned from a close-knit family the value of community involvement and was introduced to politics at an early age.
 On the Titus side, her great, great grandfather James Seward served as a Democrat in the U.S.
 Congress from 1853 to 1859 and in the Georgia State Senate from 1860 to 1864.
 Her uncle, Theo Titus, served in the Georgia Legislature as a Republican and her father Joe ran for a seat on the Tifton City Council.
@@ -22,47 +17,32 @@ He went on to serve as the Head of the Building and Safety Departments for both 
 Additionally, on her mother Betty’s side, the "coffee table" in her Papu's downtown Plaza restaurant was always occupied by local politicos debating current issues.
 Dina's high school years included cheerleading and tap dancing in addition to her studies.
 A dedicated student, Dina attended a summer program at the historic College of William and Mary and did so well that she was admitted full time for the fall - without a high school diploma.
-Attending school in the heartland of American democracy during the height of the Civil Rights movement and the Vietnam War
-inspired Dina to study Political Science and engage others in the critical issues of a changing world.
-After receiving her Bachelor's degree from William and Mary, Dina went on to earn a Master's degree from the University of Georgia and a Doctorate from Florida State University.
-She taught for a year at North Texas State University in Denton and then moved to Nevada to accept a faculty position at the University of Nevada, Las Vegas.
+Attending school in the heartland of American democracy during the height of the Civil Rights movement and the Vietnam War inspired Dina to study Political Science and engage others in the critical issues of a changing world.
+After receiving her Bachelor's degree from William and Mary, Dina went on to earn a Master's degree from the University of Georgia and a Doctorate from Florida State University. ​ She taught for a year at North Texas State University in Denton and then moved to Nevada to accept a faculty position at the University of Nevada, Las Vegas.
 Over the next 34 years, a virtual who's-who in government, public service, and legal circles studied with Professor Titus, whose classes consistently ranked among the most popular offerings on the campus.
-She believes her time in office enriched her teaching and that her knowledge of political science enhanced her public service.
-Dina has been married to Professor Thomas C.
+She believes her time in office enriched her teaching and that her knowledge of political science enhanced her public service. ​ Dina has been married to Professor Thomas C.
 Wright since 1979.
 Tom, the author of numerous books on contemporary Latin American history, received the prestigious UNLV Distinguished Professor award in 2008.
 John Wright Hall on campus is named for his father, a Civil War historian and pioneer professor at UNLV.
-Adventures around the Globe
-Dina and Tom share a love of travel, global culture, and folklore.
-Wright's studies in his field of expertise have taken the couple on extended stays in Mexico, Costa Rica, Chile, Argentina, and Spain and briefer visits to other Latin American countries.
-Dina has also visited Taiwan and Siberia as a legislative liaison and traveled to both Israel and Afghanistan with Congressional delegations.
+Adventures around the Globe Dina and Tom share a love of travel, global culture, and folklore.
+Wright's studies in his field of expertise have taken the couple on extended stays in Mexico, Costa Rica, Chile, Argentina, and Spain and briefer visits to other Latin American countries. ​ Dina has also visited Taiwan and Siberia as a legislative liaison and traveled to both Israel and Afghanistan with Congressional delegations.
 As a member of the bipartisan House Democratic Partnership, she has visited a number of emerging democratic countries, including East Timor, Indonesia, Nepal, Georgia, Ukraine, Myanmar, Mongolia, and Kyrgyzstan.
-In June 2011 she went to Ukraine as a volunteer for the non-profit National Democratic Institute to offer seminars and lectures on democratic political practices and to encourage women’s participation.
-As a scholar and legislator, Dina has particularly enjoyed visits to Greece – the birthplace of democracy as well as the home of her personal lineage as a Greek-American.
+In June 2011 she went to Ukraine as a volunteer for the non-profit National Democratic Institute to offer seminars and lectures on democratic political practices and to encourage women’s participation. ​ As a scholar and legislator, Dina has particularly enjoyed visits to Greece – the birthplace of democracy as well as the home of her personal lineage as a Greek-American.
 Her grandfather, Arthur Costandinos Cathones, after whom she is named, came to the U.S. in 1911, landing at Ellis Island.
-Dina honored the life and memory of her grandfather by purchasing a brick with his name on it at the restored Ellis Island memorial.
-Fully embracing her Hellenic heritage, she has visited Athens, Meteora, Delphi, and many of the beautiful islands, gaining a deeper understanding of the country's regions, ruins, museums, and cuisine.
+Dina honored the life and memory of her grandfather by purchasing a brick with his name on it at the restored Ellis Island memorial. ​ Fully embracing her Hellenic heritage, she has visited Athens, Meteora, Delphi, and many of the beautiful islands, gaining a deeper understanding of the country's regions, ruins, museums, and cuisine.
 As a proud Greek, Dina has spoken out in favor of Hellenism in the classroom and in the Nevada legislature where she sponsored resolutions honoring the consecration of St.
 John the Baptist Greek Church in Las Vegas and recognizing that Macedonia is Greek.
-As a member of the Congressional Hellenic Caucus, she remains committed to reunifying Cyprus, protecting the ecumenical patriarchate in Constantinople, and maintaining the Greek sanctity of the name and symbols of Macedonia.
-Dina keeps in close touch with her fellow members of the Greek community from around the world.
+As a member of the Congressional Hellenic Caucus, she remains committed to reunifying Cyprus, protecting the ecumenical patriarchate in Constantinople, and maintaining the Greek sanctity of the name and symbols of Macedonia. ​ Dina keeps in close touch with her fellow members of the Greek community from around the world.
 She was honored to represent President Obama at the opening of the spectacular Acropolis Museum in Athens in 2009.
-She received the prestigious Pericles Award for public service from the Los Angeles American Hellenic Council in 2010; the Cyprus Leadership Award from the National Coordinated Effort of Hellenes in 2010; the “Salute to Women” Award from the Daughters of Penelope in 2012; and the Hellenic Heritage National Public Service Award from the American Hellenic Institute in 2014.
-Dina's travels have not only brought unforgettable personal experiences but have also informed her research and teaching with the perspective of numerous cultural viewpoints and political systems.
+She received the prestigious Pericles Award for public service from the Los Angeles American Hellenic Council in 2010; the Cyprus Leadership Award from the National Coordinated Effort of Hellenes in 2010; the “Salute to Women” Award from the Daughters of Penelope in 2012; and the Hellenic Heritage National Public Service Award from the American Hellenic Institute in 2014. ​ Dina's travels have not only brought unforgettable personal experiences but have also informed her research and teaching with the perspective of numerous cultural viewpoints and political systems.
 This is important because she represents the most ethnically diverse district in Nevada.
-Life under the Mushroom Cloud
-A noted non-fiction writer, Dina is the author of Bombs in the Backyard: Atomic Testing and American Politics (University of Nevada Press, Revised Edition 2001) and Battle Born: Federal-State Relations in Nevada during the Twentieth Century (Kendall-Hunt, 1989).
-She has also published numerous scholarly articles on American, Nevada, and atomic politics.
-Dina is internationally known for her expertise in the history and policies related to nuclear power, weaponry, and waste – as well as her knowledge of the popular lore of "Atomic Culture." This unique area of study extends to a wide-ranging personal collection of atomic memorabilia.
+Life under the Mushroom Cloud A noted non-fiction writer, Dina is the author of Bombs in the Backyard: Atomic Testing and American Politics (University of Nevada Press, Revised Edition 2001) and Battle Born: Federal-State Relations in Nevada during the Twentieth Century (Kendall-Hunt, 1989).
+She has also published numerous scholarly articles on American, Nevada, and atomic politics. ​ Dina is internationally known for her expertise in the history and policies related to nuclear power, weaponry, and waste – as well as her knowledge of the popular lore of "Atomic Culture." This unique area of study extends to a wide-ranging personal collection of atomic memorabilia.
 She appeared in the 2006 PBS documentary, “The American Experience: Las Vegas – an Unconventional History,” by acclaimed director Steven Ives, and is a favorite source on all things nuclear for the media.
-She was honored to give a guest lecture to the Los Alamos Historical Society and present an academic paper at the International War and Peace Conference at Sokendai University in Tokyo.
-Today, the Atomic Testing Museum on the Las Vegas campus of the Desert Research Institute features the Dina Titus Reading Room in recognition of her scholarly achievement in the field and her support for the museum in the Nevada Legislature.
-While in Congress, Dina has continued her academic involvement, often visiting and lecturing in college classes.
+She was honored to give a guest lecture to the Los Alamos Historical Society and present an academic paper at the International War and Peace Conference at Sokendai University in Tokyo. ​ Today, the Atomic Testing Museum on the Las Vegas campus of the Desert Research Institute features the Dina Titus Reading Room in recognition of her scholarly achievement in the field and her support for the museum in the Nevada Legislature. ​ While in Congress, Dina has continued her academic involvement, often visiting and lecturing in college classes.
 She has also published The Impact of the 2013 Sequester Cuts on Programs Affecting Women and Children (Notre Dame Journal of Legislation); Puff, Puff, Pass… That Law: The Changing Legislative Environment of Medical Marijuana Policy (Harvard Journal on Legislation); and Is Congress the “Broken Branch” of Government?
 (PS: Political Science and Politics).
-Other Accomplishments
-In the spring of 2011, Dina created and hosted a radio show on UNLV’s KUNV (91.5 FM) featuring people, policy, and politics in the community and on the campus.
-Dina also served as a member of the United States Civil Rights Commission.
+Other Accomplishments In the spring of 2011, Dina created and hosted a radio show on UNLV’s KUNV (91.5 FM) featuring people, policy, and politics in the community and on the campus. ​ Dina also served as a member of the United States Civil Rights Commission.
 One of only eight members nationally, Dina was appointed to the Commission by Senator Harry Reid.
-The Commission meets monthly in Washington and addresses issues as diverse as voting rights, accommodations for people with disabilities, and discrimination in women’s sports on college campuses.
-In addition, Dina remains active in Democratic organizations and various local charities and service groups that she supports.
+The Commission meets monthly in Washington and addresses issues as diverse as voting rights, accommodations for people with disabilities, and discrimination in women’s sports on college campuses. ​ In addition, Dina remains active in Democratic organizations and various local charities and service groups that she supports.
+GET INVOLVED ENDORSEMENTS NEWS Donate EN ESPANOL PRIVACY POLICY PO Box 19232 Las Vegas, NV 89132 ​ Paid for by Titus for Congress bottom of page

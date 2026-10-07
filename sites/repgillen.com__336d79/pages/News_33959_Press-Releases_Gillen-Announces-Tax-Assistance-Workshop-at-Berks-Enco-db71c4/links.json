@@ -1,22 +1,94 @@
 [
-"http://facebook.com/sharer.php?u=https%3A%2F%2Fwww.repgillen.com%2FNews%2F33959%2FPress-Releases%2FGillen-Announces-Tax-Assistance-Workshop-at-Berks-Encore-Douglassville-Center-on-April-12",
-"http://twitter.com/share?text=Gillen+Announces+Tax+Assistance+Workshop+at+Berks+Encore+Douglassville+Center+on+April+12&url=https%3A%2F%2Fwww.repgillen.com%2FNews%2F33959%2FPress-Releases%2FGillen-Announces-Tax-Assistance-Workshop-at-Berks-Encore-Douglassville-Center-on-April-12",
-"https://facebook.com/RepGillen",
-"https://google.com/maps/place/2144+Weavertown+Rd,+Douglassville,+PA+19518/@40.297487,-75.7381794,848m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c67dea3d229d21:0x929b90155f9ee963!8m2!3d40.297487!4d-75.7356045!16s%2Fg%2F11c17gyjk3?entry=ttu",
-"https://mypath.pa.gov/_?_gl=1%2A1tt09li%2A_gcl_au%2AMTI5NzIwNTE5Ny4xNzA2MjE0NjY0",
-"https://pahousegop.com/TermsOfUse",
-"https://penndot.gov/_layouts/pa.penndot.formsandpubs/formsandpubs.aspx",
-"https://repgillen.com/",
-"https://repgillen.com/Email-Signup",
-"https://repgillen.com/NewsGroup/Press-Releases",
-"https://repgillen.com/PAGovLinks",
-"https://repgillen.com/about",
-"https://repgillen.com/citizenaccess",
-"https://repgillen.com/contact",
-"https://repgillen.com/districtmap",
-"https://repgillen.com/events",
-"https://repgillen.com/livestreams",
-"https://repgillen.com/video/latestvideo",
-"https://revenue.pa.gov/IncentivesCreditsPrograms/PropertyTaxRentRebateProgram/Pages/default.aspx",
-"https://revenue.pa.gov/Pages/default.aspx"
+{
+"text": "2144 Weavertown Rd., Douglassville, PA 19518",
+"href": "https://www.google.com/maps/place/2144+Weavertown+Rd,+Douglassville,+PA+19518/@40.297487,-75.7381794,848m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c67dea3d229d21:0x929b90155f9ee963!8m2!3d40.297487!4d-75.7356045!16s%2Fg%2F11c17gyjk3?entry=ttu"
+},
+{
+"text": "Bio",
+"href": "https://www.repgillen.com/about"
+},
+{
+"text": "Citizens Access Portal",
+"href": "https://www.repgillen.com/citizenaccess"
+},
+{
+"text": "Contact",
+"href": "https://www.repgillen.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://www.repgillen.com/districtmap"
+},
+{
+"text": "Events",
+"href": "https://www.repgillen.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.repgillen.com/"
+},
+{
+"text": "Latest News",
+"href": "https://www.repgillen.com/NewsGroup/Press-Releases"
+},
+{
+"text": "Livestreams",
+"href": "https://www.repgillen.com/livestreams"
+},
+{
+"text": "PA State Rep. Mark GillenServing PA's 128th Legislative District",
+"href": "https://www.repgillen.com/"
+},
+{
+"text": "PennDOT Forms",
+"href": "https://www.penndot.gov/_layouts/pa.penndot.formsandpubs/formsandpubs.aspx"
+},
+{
+"text": "Property Tax/Rent Rebate",
+"href": "https://www.revenue.pa.gov/Pages/default.aspx"
+},
+{
+"text": "RepGillen.com",
+"href": "https://repgillen.com/"
+},
+{
+"text": "State Government Links",
+"href": "https://www.repgillen.com/PAGovLinks"
+},
+{
+"text": "Subscribe",
+"href": "https://www.repgillen.com/Email-Signup"
+},
+{
+"text": "Terms of use",
+"href": "https://www.pahousegop.com/TermsOfUse"
+},
+{
+"text": "Video",
+"href": "https://www.repgillen.com/video/latestvideo"
+},
+{
+"text": "WJones@pahousegop.com",
+"href": "mailto:WJones@pahousegop.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.repgillen.com%2FNews%2F33959%2FPress-Releases%2FGillen-Announces-Tax-Assistance-Workshop-at-Berks-Encore-Douglassville-Center-on-April-12"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/RepGillen/"
+},
+{
+"text": "[tooltip: X]",
+"href": "http://twitter.com/share?text=Gillen+Announces+Tax+Assistance+Workshop+at+Berks+Encore+Douglassville+Center+on+April+12&url=https%3A%2F%2Fwww.repgillen.com%2FNews%2F33959%2FPress-Releases%2FGillen-Announces-Tax-Assistance-Workshop-at-Berks-Encore-Douglassville-Center-on-April-12"
+},
+{
+"text": "can be found here",
+"href": "https://www.revenue.pa.gov/IncentivesCreditsPrograms/PropertyTaxRentRebateProgram/Pages/default.aspx"
+},
+{
+"text": "visit Revenue’s website",
+"href": "https://mypath.pa.gov/_/"
+}
 ]

@@ -1,13 +1,62 @@
 [
-"https://bsky.app/profile/osterforus.bsky.social",
-"https://facebook.com/profile.php?id=61585222245586",
-"https://instagram.com/osterforus",
-"https://oster-for-us.solidarity.tech/",
-"https://oster-for-us.solidarity.tech/online-meet-up",
-"https://osterforus.com/",
-"https://osterforus.com/block-builders",
-"https://osterforus.com/volunteer",
-"https://secure.actblue.com/donate/osterforus",
-"https://tiktok.com/@osterforus?lang=en",
-"https://x.com/osterforus"
+{
+"text": "About",
+"href": "https://osterforus.com/#about"
+},
+{
+"text": "BE A BLOCK BUILDER",
+"href": "https://www.osterforus.com/block-builders/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/osterforus"
+},
+{
+"text": "EMAIL US",
+"href": "mailto:osterforus@gmail.com"
+},
+{
+"text": "EVENTS",
+"href": "https://oster-for-us.solidarity.tech"
+},
+{
+"text": "MEET OSTER",
+"href": "https://oster-for-us.solidarity.tech/online-meet-up"
+},
+{
+"text": "PLATFORM",
+"href": "https://osterforus.com/#issues"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.osterforus.com/volunteer/"
+},
+{
+"text": "[image: Oster For Us]",
+"href": "https://www.osterforus.com"
+},
+{
+"text": "[image: magnifico]",
+"href": "https://www.osterforus.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/osterforus.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585222245586"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/osterforus/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@osterforus?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/osterforus"
+}
 ]

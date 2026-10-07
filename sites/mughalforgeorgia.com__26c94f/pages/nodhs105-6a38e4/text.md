@@ -1,23 +1,9 @@
-OPPOSING ANY DHS PLAN TO CONVERT A WAREHOUSE NEAR THE MALL OF GEORGIA (HD-105) INTO A FEDERAL FACILITY
-U.S.
-Department of Homeland Security (DHS)
-Georgia Congressional Delegation
-Governor of Georgia
-Georgia House and Senate Delegation
-Gwinnett County Board of Commissioners
-City of Buford Officials
-We, the undersigned residents, business owners, and community stakeholders of Georgia House District 105 and the surrounding Buford/Mall of Georgia area, strongly oppose any current or future proposal by the U.S.
+top of page Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items.
+CONTRIBUTE SUBSCRIBE OPPOSING ANY DHS PLAN TO CONVERT A WAREHOUSE NEAR THE MALL OF GEORGIA (HD-105) INTO A FEDERAL FACILITY U.S.
+Department of Homeland Security (DHS) Georgia Congressional Delegation Governor of Georgia Georgia House and Senate Delegation Gwinnett County Board of Commissioners City of Buford Officials ​ We, the undersigned residents, business owners, and community stakeholders of Georgia House District 105 and the surrounding Buford/Mall of Georgia area, strongly oppose any current or future proposal by the U.S.
 Department of Homeland Security (DHS) to convert a warehouse near the Mall of Georgia into a federal processing or detention facility.
-Our community is already experiencing:
-- Severe traffic congestion and overburdened roadways
-- Rapid development that strains local infrastructure
-- Overcrowded schools and limited public safety resources
-- Quality‑of‑life impacts from high‑density commercial activity
-Introducing a federal facility of this scale—without transparent community engagement, impact studies, or local approval—would place an unacceptable burden on our neighborhoods and jeopardize the safety, stability, and character of District 105.
-We believe:
-- Federal agencies must consult local leaders and residents before considering any such project.
-- Any proposal that affects our community must undergo a full public review, including traffic, safety, and economic impact assessments.
-- District 105 deserves responsible development, not rushed federal decisions that ignore local realities.
-Therefore, we respectfully demand that DHS immediately halt any planning, evaluation, or consideration of converting a warehouse in the Mall of Georgia area into a federal facility.
-We call on our elected officials at every level to stand with us, protect our community, and ensure that no federal project moves forward without full transparency and community consent.
-By signing below, we affirm our opposition and urge immediate action to safeguard the interests of Georgia House District 105.
+Our community is already experiencing: Severe traffic congestion and overburdened roadways Rapid development that strains local infrastructure Overcrowded schools and limited public safety resources Quality‑of‑life impacts from high‑density commercial activity Introducing a federal facility of this scale—without transparent community engagement, impact studies, or local approval—would place an unacceptable burden on our neighborhoods and jeopardize the safety, stability, and character of District 105. ​ We believe: ​ Federal agencies must consult local leaders and residents before considering any such project.
+Any proposal that affects our community must undergo a full public review, including traffic, safety, and economic impact assessments.
+District 105 deserves responsible development, not rushed federal decisions that ignore local realities. ​ Therefore, we respectfully demand that DHS immediately halt any planning, evaluation, or consideration of converting a warehouse in the Mall of Georgia area into a federal facility. ​ We call on our elected officials at every level to stand with us, protect our community, and ensure that no federal project moves forward without full transparency and community consent. ​ By signing below, we affirm our opposition and urge immediate action to safeguard the interests of Georgia House District 105.
+Petition Signatures First name * Last name * Address * Email * Phone Additional information Submit START CHANGING Support Our Cause CONTRIBUTE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+MUGHAL FOR GEORGIA 710 Dacula Rd, Ste 4A, #325 Dacula, GA, 30019 fmughalforgeorgia@gmail.com 678-234-3242 Paid and Authorized by Mughal for Georgia, LLC (2022) Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items. bottom of page

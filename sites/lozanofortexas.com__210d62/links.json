@@ -1,16 +1,74 @@
 [
-"http://co.bee.tx.us/page/bee.ElectionAdministrator",
-"http://co.jim-wells.tx.us/default.aspx?name=co.elections.administration",
-"http://co.kleberg.tx.us/page/kleberg.Elections",
-"http://co.san-patricio.tx.us/page/sanpatricio.Elections",
-"https://facebook.com/RepJMLozano",
-"https://lozanofortexas.com/",
-"https://lozanofortexas.com/2012/04/23/manufacturers-pac-of-texas-mpact-endorses-state-representative-j-m-lozano",
-"https://lozanofortexas.com/about",
-"https://lozanofortexas.com/action",
-"https://lozanofortexas.com/contact",
-"https://lozanofortexas.com/contribute",
-"https://lozanofortexas.com/issues",
-"https://lozanofortexas.com/privacy",
-"https://twitter.com/RepJMLozano"
+{
+"text": "About",
+"href": "https://www.lozanofortexas.com/about/"
+},
+{
+"text": "Bee County",
+"href": "http://www.co.bee.tx.us/page/bee.ElectionAdministrator"
+},
+{
+"text": "Contact Us",
+"href": "https://www.lozanofortexas.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://www.lozanofortexas.com/contribute/"
+},
+{
+"text": "Home",
+"href": "https://www.lozanofortexas.com/"
+},
+{
+"text": "Issues That Matter",
+"href": "https://www.lozanofortexas.com/issues/"
+},
+{
+"text": "J.M. Lozano",
+"href": "https://www.facebook.com/RepJMLozano"
+},
+{
+"text": "Jim Wells",
+"href": "http://www.co.jim-wells.tx.us/default.aspx?name=co.elections.administration"
+},
+{
+"text": "Kleberg",
+"href": "http://www.co.kleberg.tx.us/page/kleberg.Elections"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lozanofortexas.com/privacy/"
+},
+{
+"text": "San Patricio",
+"href": "http://www.co.san-patricio.tx.us/page/sanpatricio.Elections"
+},
+{
+"text": "Take Action",
+"href": "https://www.lozanofortexas.com/action/"
+},
+{
+"text": "[image: Manufacturers PAC of Texas (MPACT) Endorses State Representative J.M. Lozano] Manufacturers PAC of Texas (MPACT) Endorses State Representative J.M. Lozano",
+"href": "https://www.lozanofortexas.com/2012/04/23/manufacturers-pac-of-texas-mpact-endorses-state-representative-j-m-lozano/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/RepJMLozano"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/RepJMLozano"
+},
+{
+"text": "[image]",
+"href": "https://www.lozanofortexas.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.lozanofortexas.com/contribute/"
+},
+{
+"text": "[image] J.M. Lozano State Representative",
+"href": "https://www.lozanofortexas.com/"
+}
 ]

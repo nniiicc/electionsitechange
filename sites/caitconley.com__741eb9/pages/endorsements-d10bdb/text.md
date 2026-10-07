@@ -1,240 +1,29 @@
-Skip to content
-Meet Cait
-Priorities
-Policy
-Endorsements
-In the News
-Events
-Store
-Volunteer
-Meet Cait
-Priorities
-Policy
-Endorsements
-In the News
-Events
-Store
-Volunteer
-Facebook
-X-twitter
-Instagram
-Donate
-with ActBlue
-Donate
-with Numero
-Donate
-Endorsements
-National Endorsements
-National Organizations
-The Next 50
-New Politics
-VoteVets
-LPAC
-Serve America
-Majority Democrats
-Giffords PAC
-Leadership Now PAC
-Equality PAC
-Veterans for Responsible Leadership
-Taking The Hill
-NRDC Action Fund
-LGBTQ+ Victory Fund
-Defend The Vote
-New Dems Action Fund
-Frontline Fighters PAC
-DMFI PAC
-Future Forum PAC
-End Citizens United
-Retail, Wholesale and Department Store Union
-EMILYs List
-Jewish Democratic Council of America
-Electing Democratic Women
-DCCC Red to Blue
-Planned Parenthood Action Fund
-JStreet
-League of Conservation Voters
-Nurses for America
-Human Rights
-Campaign
-NY Working Families Party
-Local One I.A.T.S.E.
-New York State
-AFL-CIO
-Reproductive Freedom
-For All
-Foreign Policy for America
-CSEA New York
-National Leaders
-Congressman
-Pat Ryan
-NY-18
-Former Congresswoman Gabby Giffords
-AZ-8
-Congressman
-Jason Crow
-CO-06
-Former Congressman
-Sean Patrick Maloney
-NY-18
-Senator
-Mark Kelly
-U.S.
-Senator - AZ
-Senator
-Elissa Slotkin
-U.S.
-Senator - MI
-Local Endorsements
-Local Organizations
-Lewisboro Democratic Committee
-Pound Ridge
-Democratic Committee
-Kent NY Democrats
-Peekskill Democrats
-Dutchess County Democratic Committee
-Ossining Town Democratic Committee
-Flip It
-NYSUT
-Putnam County Democratic Committee
-North Castle Democratic Committee
-Mount Kisco Democratic Committee
-Cortlandt Democratic Committee
-ProChoice Voter
-Veteran Democrats of Westchester
-Black Dems
-of Westchester
-Westchester Jewish Dems
-Hispanic Democrats of Westchester
-Rockland Dems
-1199 SEIU
-IATSE Local 52
-Local Leaders
-Dan Aymar-Blair
-Dutchess County Comptroller
-Dr.
-Richard Becker
-Town Supervisor, Cortlandt
-Suzanne Berger
-Chair, Westchester County Democratic Committee
-Joe Bonanno
-Town Councilmember, Mount Pleasant
-Catherine Borgia
-Chair, Ossining Town Democratic Committee
-Larry Burke
-Former Commanding Officer, Cold Spring Police Dept.
-Anne Campbell
-Town Boardmember, Kent
-Beverley Chang
-Councilwoman, Peekskill
-Jen Colamonico
-Chair, Putnam County Democratic Committee
-James Creighton
-Deputy Supervisor/ Town Councilman, Cortlandt
-Charles R.
-DiGruccio
-Councilman, Peekskill
-Gwen Dougherty
-Town Councilwoman, Patterson
-Michael Dupree
-Chair, Dutchess County Democratic Committee
-Brian Fassett
-Councilman, Peekskill
-Liz Feldman
-Supervisor, Town Of Ossining
-Jay Forbes
-CCoHope Indivisible Immigrant Justice Committee Member and Community Advocate
-Kathleen E.
-Foley
-Mayor, Village of Cold Spring
-Victoria Gearity
-Former Mayor, Village of Ossining
-Lanny Gilbert
-Town Councilman, Yorktown
-Jeffrey Gordon
-Trustee, Village of Piermont
-Julia Hadlock
-Town Councilwoman, Lewisboro
-Kevin Hansan
-Supervisor, Pound Ridge
-Dennis Hardy
-Former Mayor, Village of Piermont
-Lenny Harrington
-Former Candidate for Putnam County Legislator District 9
-Cristin Jacoby
-Councilwoman, Cortlandt
-Shawn Keeler
-Highway Superintendent, Putnam Valley
-Steve Kollias
-Chair, Peekskill Democratic City Committee
-Rika Levin
-Mayor, Village of Ossining
-Robert Mayes
-Town Councilman, Cortlandt
-Kate McCabe
-Trustee, Village of Piermont
-Vivian McKenzie
-Mayor, City of Peekskill
-Jann Mirchandani
-Candidate for Yorktown Supervisor
-Stacey Nachtaler
-Trustee, Croton-On-Hudson
-Nora M.
-Nicholson
-Trustee, Village of Croton-On-Hudson
-Becca Niitzel
-Former Candidate for Kent Town Board
-Michael G.
-O’Connor
-Former Councilman, Town of Ossining
-Karen Pecora
-Labor Leader, Croton-On-Hudson
-Brian Pugh
-Mayor, Croton-on-hudson
-Diana L.
-Quast
-Town Clerk, Yorktown
-Pete Reilly
-Chair, Stony Point Democratic Committee
-Jessica Reinmann
-Former Candidate, NY17
-Joe Rende
-Supervisor, Town of North Castle
-Patricia Riley
-Deputy Mayor, Peekskill
-Mimi Rocah
-Former District Attorney, Westchester County
-Richard Sena
-Trustee, Village of Haverstraw
-Alex Sewell
-Candidate for Kent Town Supervisor
-Mary Shah
-Deputy Supervisor, Lewisboro
-Joyce Sharrock-Cole
-Historian, Village of Ossining
-Michael Simpkins
-Former President, Peekskill Board of Education
-Richard Sklarin
-Town Councilman, Lewisboro
-Kathie Talbot
-City Councilwoman, Peekskill
-Victoria Tipp
-Supervisor, Town of New Castle
-Bruce Tucker
-Former Mayor, Village of Piermont
-John Van Tassell
-Town Supervisor, Philipstown
-Emiljana Ulaj
-Westchester County Legislator, District 9
-Yvette Valdés Smith
-Chair, Dutchess County Legislature
-Joyce C.
-White
-Town Councilwoman, Cortlandt
-Chris Winward
-Mayor, Village of Nelsonville
-Brett Yarris
-Candidate for Putnam County Executive
-Donate
-with ActBlue
-Donate
-with Numero
+Skip to content Meet Cait Priorities Policy Endorsements In the News Events Store Volunteer Meet Cait Priorities Policy Endorsements In the News Events Store Volunteer Facebook X-twitter Instagram Donate with ActBlue Donate with Numero Donate Endorsements National Endorsements National Organizations The Next 50 New Politics VoteVets LPAC Serve America Majority Democrats Giffords PAC Leadership Now PAC Equality PAC Veterans for Responsible Leadership Taking The Hill NRDC Action Fund LGBTQ+ Victory Fund Defend The Vote New Dems Action Fund Frontline Fighters PAC DMFI PAC Future Forum PAC End Citizens United Retail, Wholesale and Department Store Union EMILYs List Jewish Democratic Council of America Electing Democratic Women DCCC Red to Blue Planned Parenthood Action Fund JStreet League of Conservation Voters Nurses for America Human Rights Campaign NY Working Families Party Local One I.A.T.S.E.
+New York State AFL-CIO Reproductive Freedom For All Foreign Policy for America CSEA New York National Leaders Congressman Pat Ryan NY-18 Former Congresswoman Gabby Giffords AZ-8 Congressman Jason Crow CO-06 Former Congressman Sean Patrick Maloney NY-18 Senator Mark Kelly U.S.
+Senator - AZ Senator Elissa Slotkin U.S.
+Senator - MI Local Endorsements Local Organizations Lewisboro Democratic Committee Pound Ridge Democratic Committee Kent NY Democrats Peekskill Democrats Dutchess County Democratic Committee Ossining Town Democratic Committee Flip It NYSUT Putnam County Democratic Committee North Castle Democratic Committee Mount Kisco Democratic Committee Cortlandt Democratic Committee ProChoice Voter Veteran Democrats of Westchester Black Dems of Westchester Westchester Jewish Dems Hispanic Democrats of Westchester Rockland Dems 1199 SEIU IATSE Local 52 Local Leaders Dan Aymar-Blair Dutchess County Comptroller Dr.
+Richard Becker Town Supervisor, Cortlandt Suzanne Berger Chair, Westchester County Democratic Committee Joe Bonanno Town Councilmember, Mount Pleasant Catherine Borgia Chair, Ossining Town Democratic Committee Larry Burke Former Commanding Officer, Cold Spring Police Dept.
+Anne Campbell Town Boardmember, Kent Beverley Chang Councilwoman, Peekskill Jen Colamonico Chair, Putnam County Democratic Committee James Creighton Deputy Supervisor/ Town Councilman, Cortlandt Charles R.
+DiGruccio Councilman, Peekskill Gwen Dougherty Town Councilwoman, Patterson Michael Dupree Chair, Dutchess County Democratic Committee Brian Fassett Councilman, Peekskill Liz Feldman Supervisor, Town Of Ossining Jay Forbes CCoHope Indivisible Immigrant Justice Committee Member and Community Advocate Kathleen E.
+Foley Mayor, Village of Cold Spring Victoria Gearity Former Mayor, Village of Ossining Lanny Gilbert Town Councilman, Yorktown Jeffrey Gordon Trustee, Village of Piermont Julia Hadlock Town Councilwoman, Lewisboro Kevin Hansan Supervisor, Pound Ridge Dennis Hardy Former Mayor, Village of Piermont Lenny Harrington Former Candidate for Putnam County Legislator District 9 Cristin Jacoby Councilwoman, Cortlandt Shawn Keeler Highway Superintendent, Putnam Valley Steve Kollias Chair, Peekskill Democratic City Committee Rika Levin Mayor, Village of Ossining Robert Mayes Town Councilman, Cortlandt Kate McCabe Trustee, Village of Piermont Vivian McKenzie Mayor, City of Peekskill Jann Mirchandani Candidate for Yorktown Supervisor Stacey Nachtaler Trustee, Croton-On-Hudson Nora M.
+Nicholson Trustee, Village of Croton-On-Hudson Becca Niitzel Former Candidate for Kent Town Board Michael G.
+O’Connor Former Councilman, Town of Ossining Karen Pecora Labor Leader, Croton-On-Hudson Brian Pugh Mayor, Croton-on-hudson Diana L.
+Quast Town Clerk, Yorktown Pete Reilly Chair, Stony Point Democratic Committee Jessica Reinmann Former Candidate, NY17 Joe Rende Supervisor, Town of North Castle Patricia Riley Deputy Mayor, Peekskill Mimi Rocah Former District Attorney, Westchester County Richard Sena Trustee, Village of Haverstraw Alex Sewell Candidate for Kent Town Supervisor Mary Shah Deputy Supervisor, Lewisboro Joyce Sharrock-Cole Historian, Village of Ossining Michael Simpkins Former President, Peekskill Board of Education Richard Sklarin Town Councilman, Lewisboro Kathie Talbot City Councilwoman, Peekskill Victoria Tipp Supervisor, Town of New Castle Bruce Tucker Former Mayor, Village of Piermont John Van Tassell Town Supervisor, Philipstown Emiljana Ulaj Westchester County Legislator, District 9 Yvette Valdés Smith Chair, Dutchess County Legislature Joyce C.
+White Town Councilwoman, Cortlandt Chris Winward Mayor, Village of Nelsonville Brett Yarris Candidate for Putnam County Executive Join Cait In The Fight Get Involved Email Cell Phone Zipcode Get Involved By submitting your mobile number, you consent to receive voting and donation messages to support Cait Conley for New York.
+Msg&data rates may apply.
+Message frequency varies.
+Text HELP for help, Text STOP to Opt Out.
+Terms & Privacy Policy.
+Meet Cait Priorities Policy Endorsements Events Store Get Involved Media Meet Cait Priorities Policy Endorsements Events Store Get Involved Media Facebook X-twitter Instagram Cait Conley is a proud fourth-generation Hudson Valley native.
+She is a decorated special ops combat veteran and has spent her life serving America and protecting our future.
+Cait is not a politician – she is a public servant and battle-tested leader who believes in our country and knows the American people deserve better.
+She is a Democrat running for New York’s 17th Congressional district, currently held by Republican Mike Lawler.
+Support her campaign by making a donation today.
+Donate with ActBlue Donate with Numero Meet Cait Priorities Policy Endorsements Events Store Get Involved Media Meet Cait Priorities Policy Endorsements Events Store Get Involved Media Paid for by Cait for New York.
+Cait is a former active duty Army officer and combat veteran.
+Any use of photos or rank do not imply the endorsement of the U.S.
+Army or Department of Defense.
+Contact Us Privacy Policy Contact Us Privacy Policy Contributions can be mailed to: Contact Our Team – info@caitconley.com Cait for New York PO Box 96 Ossining, NY 10562 Copyright #.
+All rights reserved.
+Privacy Policy.
+Service • Commitment • Courage Donate with ActBlue Donate with Numero

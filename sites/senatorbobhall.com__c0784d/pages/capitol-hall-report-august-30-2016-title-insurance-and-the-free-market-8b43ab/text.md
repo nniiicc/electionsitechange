@@ -1,5 +1,5 @@
-Title Insurance and the Free Market
-Free markets are stifled when the government controls price and/or product.
+Home About News Priorities and Issues Videos Endorsements Get Involved Contact Us Endorse Senator Bob Hall!
+CHR $ Capitol Hall Report – August 30, 2016 – Title Insurance and the Free Market August 30, 2016 Tweet Title Insurance and the Free Market Free markets are stifled when the government controls price and/or product.
 American is the world economic leader because of our free market policies.
 When the government controls price and/or product the free market is destroyed.
 The good news is that consumers are the principle benefactors of free market competition.
@@ -34,3 +34,7 @@ Reforming title insurance regulation in Texas by moving to a system similar to t
 Reducing the high price of commercial title insurance in Texas will lower the cost of doing business here, which will result in a stronger economy and more jobs.
 Removing government regulation from the marketplace will go a long way toward lowering closing costs for hundreds of thousands of citizens who buy homes here, which means more money left in the pockets of everyday Texans.
 We plan to support legislation in 2017 to help boost the Texas economy by deregulating title insurance and restoring the freedom of choice back to the citizens of this state where it belongs.
+Get the Capitol Hall Report Email Address Zip Code Keep me informed Thanks for subscribing! * Valid Email Address required.
+Home CHR About Priorities and Issues Endorsements News Trusted Conservative Get Involved Get Involved Endorse Senator Hall!
+Contact Us Privacy $ Email Address Zip Code Sign up Thanks for subscribing! * Valid Email Address required Political Advertising Paid for by Texans for Bob Hall, P.O.
+Box 513, Canton, Texas 75103, Mike Slaton, Treasurer Site by Vici Media Group

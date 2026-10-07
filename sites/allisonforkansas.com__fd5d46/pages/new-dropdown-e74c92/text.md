@@ -1,4 +1,6 @@
-Una vecina que te escucha
-Allison conoce bien esta comunidad porque forma parte de ella: ha criado a su familia aquí, dirige un pequeño negocio y ha estado al lado de sus vecinos en cada dificultad.
-Ponerte a ustedes primero
-Las prioridades de Allison son sencillas: reducir el costo de vida, financiar completamente las escuelas públicas y ampliar Medicaid, para que las familias de Kansas puedan prosperar, no solo sobrevivir.
+0 Skip to Content Home About Priorities Endorsements Get Involved Subscribe Español Inicio Sobre Prioridades Involúcrate Suscríbete CONTRIBUTE Open Menu Close Menu Home About Priorities Endorsements Get Involved Subscribe Español Inicio Sobre Prioridades Involúcrate Suscríbete CONTRIBUTE Open Menu Close Menu Home About Priorities Endorsements Get Involved Subscribe Folder: Español Back Inicio Sobre Prioridades Involúcrate Suscríbete CONTRIBUTE comparte tus prioridades con nosotros Voluntario Contribuir Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+First Name Last Name Email Address Suscribirse Thank you!
+Una vecina que te escucha Allison conoce bien esta comunidad porque forma parte de ella: ha criado a su familia aquí, dirige un pequeño negocio y ha estado al lado de sus vecinos en cada dificultad.
+Conoce más sobre Allison Ponerte a ustedes primero Las prioridades de Allison son sencillas: reducir el costo de vida, financiar completamente las escuelas públicas y ampliar Medicaid, para que las familias de Kansas puedan prosperar, no solo sobrevivir.
+Las prioridades de Allison HOME ‍ ‍ ABOUT ‍ ‍ PRIORITIES ‍ ‍ GET INVOLVED ‍ ‍ CONTRIBUTE ‍ ‍ GALLERY Privacy Policy Paid for by Allison for Kansas, Carol Shimeall Treasurer | PO Box 292; Olathe, KS 66051 | allison@allisonforkansas.com Political donations are not tax exempt.

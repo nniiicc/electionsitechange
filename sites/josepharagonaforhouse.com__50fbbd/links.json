@@ -1,9 +1,34 @@
 [
-"https://facebook.com/JoeAragonaforMichigan",
-"https://josepharagonaforhouse.com/",
-"https://josepharagonaforhouse.com/contact",
-"https://josepharagonaforhouse.com/issues",
-"https://josepharagonaforhouse.com/media",
-"https://secure.winred.com/cte-joe-aragona/contribute",
-"https://x.com/thejoearagona"
+{
+"text": "Contact",
+"href": "https://josepharagonaforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/cte-joe-aragona/contribute"
+},
+{
+"text": "Home",
+"href": "https://josepharagonaforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://josepharagonaforhouse.com/issues"
+},
+{
+"text": "Media",
+"href": "https://josepharagonaforhouse.com/media"
+},
+{
+"text": "[image: Joseph Aragona for State Representative logo]",
+"href": "https://josepharagonaforhouse.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/JoeAragonaforMichigan/"
+},
+{
+"text": "[tooltip: Go to Twitter page]",
+"href": "https://x.com/thejoearagona"
+}
 ]

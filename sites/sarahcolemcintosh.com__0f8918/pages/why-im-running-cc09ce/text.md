@@ -1,5 +1,4 @@
-Bringing Common Sense to Frankfort
-I’ve spent my career helping Louisville’s kids and families—from the classroom to the School Board to the Department of Education—and I’ve watched as elected politicians in the General Assembly have over and over again failed to do what’s best for Kentucky families.
+Skip to main Follow our campaign Meet Sarah Why I'm Running Endorsements Volunteer Donate Why I'm Running Bringing Common Sense to Frankfort I’ve spent my career helping Louisville’s kids and families—from the classroom to the School Board to the Department of Education—and I’ve watched as elected politicians in the General Assembly have over and over again failed to do what’s best for Kentucky families.
 I believe that Kentuckians deserve leadership in Frankfort with the courage to take on the problems facing our Commonwealth.
 Right now, costs are rising for Kentucky families and politicians in Washington are making life harder by stripping funding away from our public schools, cutting off food assistance for those who need it, and creating a healthcare crisis.
 Monthly insurance premiums are skyrocketing for thousands of families and 200,000 Kentuckians are expected to lose access to Medicaid in a year.
@@ -14,3 +13,4 @@ After 16 years teaching U.S.
 History in our public schools, I know what the General Assembly should be doing to support our public school teachers and students—not trying to break up the school district or send public school dollars to private schools.
 I’m running for state Senate because we need a leader who understands the challenges that Louisvillians face every day, and who will work with Gov.
 Beshear to address them.
+Home Meet Sarah Why I'm Running Endorsements Volunteer Donate PO Box 43004 Louisville, KY 40253 info@sarahcolemcintosh.com Privacy Policy Terms of Service Paid for by Sarah Cole McIntosh for Kentucky

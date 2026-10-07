@@ -1,11 +1,46 @@
 [
-"http://gozoek.com/",
-"https://anthonykathol.com/",
-"https://anthonykathol.com/about-me",
-"https://anthonykathol.com/blog",
-"https://anthonykathol.com/contact",
-"https://anthonykathol.com/donate",
-"https://anthonykathol.com/testimonials",
-"https://facebook.com/profile.php?id=61555753134314",
-"https://maps.app.goo.gl/auAHsvBpLJkLwfeC9"
+{
+"text": "About Me",
+"href": "https://www.anthonykathol.com/about-me"
+},
+{
+"text": "Blog",
+"href": "https://www.anthonykathol.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://www.anthonykathol.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.anthonykathol.com/donate"
+},
+{
+"text": "GoZoek.com",
+"href": "http://gozoek.com/"
+},
+{
+"text": "Home",
+"href": "https://www.anthonykathol.com"
+},
+{
+"text": "Kathol4D27@goldenwest.net",
+"href": "mailto:Kathol4D27@goldenwest.net"
+},
+{
+"text": "P.O. Box 165 MARTIN, SD 57551",
+"href": "https://maps.app.goo.gl/auAHsvBpLJkLwfeC9"
+},
+{
+"text": "Testimonials",
+"href": "https://www.anthonykathol.com/testimonials"
+},
+{
+"text": "[image: Anthony Kathol]",
+"href": "https://www.anthonykathol.com"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61555753134314"
+}
 ]

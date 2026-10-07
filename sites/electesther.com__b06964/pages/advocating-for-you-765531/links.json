@@ -1,13 +1,62 @@
 [
-"https://1pj.9be.myftpupload.com/advocating-for-you",
-"https://1pj.9be.myftpupload.com/protecting-families",
-"https://1pj.9be.myftpupload.com/supporting-public-education",
-"https://electesther.com/",
-"https://electesther.com/about-esther",
-"https://electesther.com/contact",
-"https://electesther.com/donate",
-"https://electesther.com/get-involved",
-"https://electesther.com/news-press",
-"https://electesther.com/priorities",
-"https://facebook.com/EstherHeltonD30"
+{
+"text": "About Esther",
+"href": "https://electesther.com/about-esther/"
+},
+{
+"text": "Advocate",
+"href": "https://1pj.9be.myftpupload.com/advocating-for-you/"
+},
+{
+"text": "Contact",
+"href": "https://electesther.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://electesther.com/donate/"
+},
+{
+"text": "Education",
+"href": "https://1pj.9be.myftpupload.com/supporting-public-education/"
+},
+{
+"text": "Email: info@electesther.com",
+"href": "mailto:info@electesther.com?subject=Contact"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/EstherHeltonD30/"
+},
+{
+"text": "Family",
+"href": "https://1pj.9be.myftpupload.com/protecting-families/"
+},
+{
+"text": "Get Involved",
+"href": "https://electesther.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://electesther.com/"
+},
+{
+"text": "News",
+"href": "https://electesther.com/news-press/"
+},
+{
+"text": "Open toolbar",
+"href": "javascript:void(0);"
+},
+{
+"text": "Phone: (423) 529-0084",
+"href": "tel:(423)%20529-0084"
+},
+{
+"text": "Priorities",
+"href": "https://electesther.com/priorities/"
+},
+{
+"text": "[image]",
+"href": "https://electesther.com"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://ceciliaforassembly.com/about/",
- "paid_for_by": "Paid for by Cecilia Aguiar-Curry for Assembly 2026, ID #1476841 \u2013 1700 Tribute Road, Suite 201 \u2013 Sacramento, CA 95815 \u2013 (530) 601-9801",
+ "fingerprint": "b136c9891042ada61be7e140ca1b38bd62074d2f",
+ "format": 3,
+ "paid_for_by": "Paid for by Cecilia Aguiar-Curry for Assembly 2026, ID #1476841 – 1700 Tribute Road, Suite 201 – Sacramento, CA 95815 – (530) 601-9801",
  "title": "About Cecilia | Cecilia Aguiar-Curry for Assembly 2026",
  "years_mentioned": [
   "2012",
@@ -10,6 +12,7 @@
   "2017",
   "2018",
   "2019",
-  "2020"
+  "2020",
+  "2026"
  ]
 }

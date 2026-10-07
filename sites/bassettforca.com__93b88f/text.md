@@ -1,9 +1,9 @@
-Safe.Strong.
-Affordable.
+top of page Home District Map Meet Laura Issues Endorsements Contact DONATE Safe .
+Strong .
+Affordable .
 I am honored to announce my candidacy for the California State Senate in District 38.
 As a lifelong Oceanside resident, I have always believed our state is one of the most beautiful places in the world.
-From our coastline to our open spaces, California should be a place that draws people in and gives families the chance to build strong, stable futures.
-But today, too many Californians are being pushed out of the state they love.
+From our coastline to our open spaces, California should be a place that draws people in and gives families the chance to build strong, stable futures. ​ But today, too many Californians are being pushed out of the state they love.
 The rising cost of living has made it difficult for families to stay rooted here, and it is making it even harder for the next generation to imagine a future in their hometowns.
 Our children deserve to be able to afford a house in the communities they grew up in, close to the families and neighborhoods that shaped them.
 I believe we must address the policies that have made life unaffordable.
@@ -19,5 +19,4 @@ Public safety also remains essential to the health of our communities.
 Every person deserves to feel safe in their home and neighborhood.
 I support a balanced approach that gives law enforcement the tools they need, strengthens accountability for serious offenses, and maintains fairness within our justice system.
 I am running for State Senate because I want California to remain the exceptional place it has always been, not a place families feel they must leave behind.
-I will work every day to make life more affordable, protect our natural treasures, support safe neighborhoods, and ensure the promise of California remains within reach for the people who call it home.
-- Laura Bassett
+I will work every day to make life more affordable, protect our natural treasures, support safe neighborhoods, and ensure the promise of California remains within reach for the people who call it home. - Laura Bassett Paid for by Bassett for Senate 2026 FPPC# 1485321 ​ PRIVACY POLICY & TERMS AND CONDITIONS bottom of page

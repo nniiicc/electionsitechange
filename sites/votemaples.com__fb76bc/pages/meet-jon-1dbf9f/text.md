@@ -1,6 +1,6 @@
-Meet Jon Maples
-Fighting for Palm Beach County Families
-Born and raised in Panama City, Florida, Jon grew up in a hardworking family where faith, discipline, and personal responsibility were part of everyday life.
+Skip to main content Skip to footer Opens in a new tab Home Meet Jon Issues FAQ District 87 Neighbors for Jon Media News Events Articles Contact Home Meet Jon Issues FAQ District 87 Neighbors for Jon Media News Events Articles Contact Donate Meet Jon Maples Fighting for Palm Beach County Families Hard work, accountability, and community involvement have shaped Jon Maples’ approach to leadership throughout his life and career.
+As a husband, father, and trusted financial advisor, Jon has built his life around service, family, and active involvement throughout Palm Beach County.
+Donate Born and raised in Panama City, Florida, Jon grew up in a hardworking family where faith, discipline, and personal responsibility were part of everyday life.
 One of four boys, he spent summers working alongside his father in the family irrigation business, learning early lessons about responsibility, perseverance, and leadership.
 From a young age, Jon set a goal of becoming the first person in his family to earn a college degree.
 Athletics helped create that opportunity.
@@ -16,11 +16,11 @@ That experience continues to shape the practical, business-minded perspective Jo
 As a husband and father, Jon also believes strong communities begin with strong families.
 He continues to support efforts that encourage personal responsibility, civic engagement, leadership development, and opportunities for the next generation to succeed.
 Today, Jon remains active throughout Palm Beach County, continuing conversations with residents across Florida House District 87 about the future of local communities and families.
-GET UPDATES FROM JON
-Sign up for text updates!
+On the Issues District 87 Donate GET UPDATES FROM JON Submit Sign up for text updates!
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Jon Maples Campaign to the phone number you provide.
 No consent required to buy.
 Msg & data rates may apply.
 Message frequency may vary.
 Text STOP to stop receiving messages.
 Text HELP for support.
+Contact Terms & Conditions Privacy Policy Paid by Jon Maples, Republican, for State House, District 87.

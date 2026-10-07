@@ -1,19 +1,22 @@
-I believe in affordability for all.
+Skip to content About Chris Meet Chris Endorsements In the Community Vote Register to Vote Voter Hub Priorities Affordability For All Accountability For All Opportunity For All Get Involved Volunteer Canvassing Events Get A Yard Sign Press Press Kit Press Releases In The Press Contact Store About Chris Meet Chris Endorsements In the Community Vote Register to Vote Voter Hub Priorities Affordability For All Accountability For All Opportunity For All Get Involved Volunteer Canvassing Events Get A Yard Sign Press Press Kit Press Releases In The Press Contact Store Donate Via ActBlue → Via GoodChange → Donate Via ActBlue → Via GoodChange → AFFORDABILITY FOR ALL I believe in affordability for all.
 To me that means families should be able to live, work, raise children, and retire in Arkansas without constantly falling behind.
 Too many Arkansas families are working harder than ever, yet groceries, healthcare, housing, childcare, and energy costs rise faster than paychecks.
 I believe in bringing back economic security and opportunity to working families.
-WHAT I WILL DO:
-Increase the availability of safe, affordable housing options for homeowners, renters, and first-time buyers while also bringing energy costs within the home down.
+WHAT I WILL DO: Increase the availability of safe, affordable housing options for homeowners, renters, and first-time buyers while also bringing energy costs within the home down.
 Expand access to quality, affordable healthcare and lowering out-of-pocket costs for individuals and working families.
 Invest in education, workforce training, and lifelong learning opportunities to set Arkansans up for successful careers.
 Strengthen retirement security, through savings opportunities and secure retirement planning.
 Promoting affordable, accessible childcare options that support working families and strengthen the workforce.
-MORE PRIORITIES
-ACCOUNTABILITY
-FOR ALL
-Creating strong bonds between the government and the People by upholding clear ethics.
-We’ve just been named a Red to Blue campaign by the dccc.
+MORE PRIORITIES ACCOUNTABILITY FOR ALL Creating strong bonds between the government and the People by upholding clear ethics.
+Learn More OPPORTUNITY FOR ALL Creating opportunity by promoting access to jobs, infrastructure, education, and economic growth.
+Learn More The Future We Want for Arkansas Starts Here.
+Be part of the team that turns possibility into progress and carries this movement forward.
+Volunteer Donate Via ActBlue Donate Via GoodChange Facebook X-twitter Instagram Youtube Contact Volunteer Donate Paid for by the Committee to Elect Chris Jones LR Office Headquarters: 921 W Markham St., Little Rock, AR 72201 LR Office Hours: Monday-Friday 9am-6pm, Saturday 9am-12pm Phone: 501-396-9455 P.O.
+Box 21803, Little Rock, AR 72221 Privacy Policy Terms & Conditions English English Deutsch Español Français Italiano Polski Svenska Suomi Português Română Slovenščina Slovenčina Nederlands Dansk Ελληνικά Čeština Magyar Lietuvių Latviešu Eesti Hrvatski Gaeilge Български Norsk Türkçe Bahasa Indonesia Português (Brasil) 日本語 한국어 简体中文 العربية Русский हिन्दी Українська Srpski English (UK) ایران ישראל Македонија ประเทศไทย Việt Nam Accessibility Adjustments Powered by OneTap Hide Toolbar Back How long do you want to hide the toolbar?
+Hide Toolbar Duration Only for this session 24 hours A Week Not Now Hide Toolbar Select your accessibility profile Vision Impaired Mode Enhances website's visuals Vision Impaired Mode Seizure Safe Profile Clear flashes & reduces color Seizure Safe Profile ADHD Friendly Mode Focused browsing, distraction-free ADHD Friendly Mode Blindness Mode Reduces distractions, improves focus Blindness Mode Epilepsy Safe Mode Dims colors and stops blinking Epilepsy Safe Mode Content Modules Font Size + Default - Readable Font Line Height + Default - Cursor Letter Spacing Align Text Font Weight Color Modules Light Contrast High Contrast Monochrome Orientation Modules Reading Line Reading Mask Hide Images Highlight Content Stop Animations Highlight Links Skip To Content Choose...
+Main Content Navigation Footer Reset Settings Meet Chris Endorsements In the Community Voter Hub Priorities Volunteer Canvassing Get A Yard Sign Events Press Kit In The Press Press Releases Store Meet Chris Endorsements In the Community Voter Hub Priorities Volunteer Canvassing Get A Yard Sign Events Press Kit In The Press Press Releases Store Donate Via ActBlue Donate Via GoodChange Facebook X-twitter Instagram Youtube We’ve just been named a Red to Blue campaign by the dccc.
 This campaign just reached another level.
 Red to Blue is reserved for top-tier campaigns with a real opportunity to flip Republican-held seats.
 This announcement proves that Arkansas’s 2nd District is ready for change.
 Will you support our campaign today and help us turn this momentum into a victory?
+CHIP IN TODAY Continue to Site

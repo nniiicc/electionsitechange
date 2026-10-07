@@ -1,14 +1,54 @@
 [
-"https://danielzolnikov.com/about-daniel",
-"https://danielzolnikov.com/co-sponsored-legislation",
-"https://danielzolnikov.com/contact-daniel",
-"https://danielzolnikov.com/in-the-news",
-"https://danielzolnikov.com/m/account",
-"https://danielzolnikov.com/serving-you",
-"https://danielzolnikov.com/sponsored-legislation",
-"https://facebook.com/352517808109574",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/montanans-for-daniel-zolnikov/donate"
+{
+"text": "About Daniel",
+"href": "https://danielzolnikov.com/about-daniel"
+},
+{
+"text": "Co-Sponsored Legislation",
+"href": "https://danielzolnikov.com/co-sponsored-legislation"
+},
+{
+"text": "Contact Daniel",
+"href": "https://danielzolnikov.com/contact-daniel"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/montanans-for-daniel-zolnikov/donate"
+},
+{
+"text": "In The News",
+"href": "https://danielzolnikov.com/in-the-news"
+},
+{
+"text": "My Account",
+"href": "https://danielzolnikov.com/m/account"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Serving You",
+"href": "https://danielzolnikov.com/serving-you"
+},
+{
+"text": "Sign In",
+"href": "https://danielzolnikov.com/m/account"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://danielzolnikov.com/sponsored-legislation"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/352517808109574"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

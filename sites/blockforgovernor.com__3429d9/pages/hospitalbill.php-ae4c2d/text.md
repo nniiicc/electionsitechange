@@ -1,21 +1,14 @@
-Barrington, RI —
-Ken Block, independent candidate for Governor of Rhode Island, today announced his ‘One Stay, One Bill’ plan that would prohibit hospitals and other providers from sending multiple bills to patients for a single hospitalization.
+★ November 3, 2026 Countdown to Election Day # Days # Hours # Minutes # Seconds Home About Issues Appearances Media & Press Ken I Be Honest Polls Donate Donate Block Independent for Governor Official Press Release Press Release Rhode Island Gubernatorial Candidate Ken Block Announces 'One Stay, One Bill' Plan for Hospitals The proposed policy would require hospitals to send a single bill to a patient after any hospitalization Release Date August 20, 2026 Location Barrington, Rhode Island Media Contact matt@blockforgovernor.com Barrington, RI — Ken Block, independent candidate for Governor of Rhode Island, today announced his ‘One Stay, One Bill’ plan that would prohibit hospitals and other providers from sending multiple bills to patients for a single hospitalization.
 “The current billing process for a hospital visit often feels more painful than the hospital visit itself,” said Block.
-“Rhode Islanders deserve a better system with a single, comprehensive bill that covers all providers, procedures, medications, and charges related to a hospital visit.”
-Currently, a hospitalization often results in a number of separate bills, arriving at different times, from the hospital, emergency physicians, specialists, anesthesiologists, pathologists, radiologists, laboratories, pharmacies, and others.
+“Rhode Islanders deserve a better system with a single, comprehensive bill that covers all providers, procedures, medications, and charges related to a hospital visit.” Currently, a hospitalization often results in a number of separate bills, arriving at different times, from the hospital, emergency physicians, specialists, anesthesiologists, pathologists, radiologists, laboratories, pharmacies, and others.
 With today’s technology, there’s no reason to tolerate the status quo, which causes confusion and frustration for patients,” Block said.
-“This is a solvable problem that has been identified by national experts and policymakers in other states."
-"The current billing process for a hospital visit often feels more
-painful than the hospital visit itself,” said Block.
+“This is a solvable problem that has been identified by national experts and policymakers in other states." "The current billing process for a hospital visit often feels more painful than the hospital visit itself,” said Block.
 Under the current system, many Rhode Islanders are forced to compare a list of medical bills with their insurance explanation of benefits statements to determine what is actually owed.
 In a 2018 Consumer Reports survey of 1,000 Americans who incurred a major medical bill, two out of three respondents said they had at least one billing issue, such as “higher-than-expected charges, unclear statements, and bills arriving months late.” The same survey found that one third of respondents paid bills they were not sure they actually owed.
 A 2025 survey by the Kaiser Family Foundation found that 58% of insured adults had a problem with their health insurance over the past 12 months while 27% said their insurance paid less than expected for a bill.
-“Rhode Island healthcare policies require a number of significant
-changes,” said Block.
-“The ‘One Stay, One Bill’ policy is an
-improvement that will directly benefit patients in our state.”
-The states of Texas and Washington have both passed legislation to improve hospital billing practices in their states.
+“Rhode Island healthcare policies require a number of significant changes,” said Block.
+“The ‘One Stay, One Bill’ policy is an improvement that will directly benefit patients in our state.” The states of Texas and Washington have both passed legislation to improve hospital billing practices in their states.
 “Large integrated healthcare systems have already demonstrated that consolidated billing is technically feasible,” said Block.
 “For example, the Cleveland Clinic provides a single billing statement for nearly all services delivered within its system, which shows that a simpler patient billing experience is achievable even within a complex healthcare organization.
-This proposal extends that patient-centered approach throughout the entire hospital stay, regardless of how many providers supply care.”
-Download Fact Sheet
+This proposal extends that patient-centered approach throughout the entire hospital stay, regardless of how many providers supply care.” Download Fact Sheet Media Contact For questions, interviews or additional information: matt@blockforgovernor.com About Ken Block Ken Block is an independent candidate for Governor of Rhode Island.
+Privacy Policy Terms of Use Copyright ©# blockforgovernor All Rights Reserved.

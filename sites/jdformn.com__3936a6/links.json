@@ -1,16 +1,58 @@
 [
-"https://coachjdhq.com/public-events",
-"https://coachjdhq.com/request-yard-sign",
-"https://coachjdhq.com/signup",
-"https://coachjdhq.com/stay-connected",
-"https://facebook.com/JDforMN",
-"https://jdformn.com/",
-"https://jdformn.com/contact",
-"https://jdformn.com/contribute",
-"https://jdformn.com/endorsements",
-"https://jdformn.com/events",
-"https://jdformn.com/issues",
-"https://jdformn.com/meet-jd",
-"https://jdformn.com/volunteer-2",
-"https://secure.actblue.com/donate/jenaro-delgado-1"
+{
+"text": "Contact",
+"href": "https://jdformn.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://jdformn.com/contribute/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/jenaro-delgado-1"
+},
+{
+"text": "Endorsements",
+"href": "https://jdformn.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://jdformn.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://coachjdhq.com/signup"
+},
+{
+"text": "Issues",
+"href": "https://jdformn.com/issues/"
+},
+{
+"text": "Meet JD",
+"href": "https://jdformn.com/meet-jd/"
+},
+{
+"text": "StayConnected",
+"href": "https://coachjdhq.com/stay-connected"
+},
+{
+"text": "UpcomingEvents",
+"href": "https://coachjdhq.com/public-events"
+},
+{
+"text": "Volunteer",
+"href": "https://jdformn.com/volunteer-2/"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://coachjdhq.com/request-yard-sign"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JDforMN/"
+},
+{
+"text": "[image: JD Delgado for Minnesota House 57A]",
+"href": "https://jdformn.com/"
+}
 ]

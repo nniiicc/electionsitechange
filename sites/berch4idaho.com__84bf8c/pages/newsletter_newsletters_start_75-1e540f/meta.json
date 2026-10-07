@@ -1,10 +1,14 @@
 {
  "description": "",
  "final_url": "https://berch4idaho.com/newsletter/newsletters?start=75",
- "paid_for_by": null,
+ "fingerprint": "a73f117974a7f09b252953d6d7c2fa9dacd02d0b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Newsletter Archive (2019-present)",
  "years_mentioned": [
   "2018",
+  "2019",
+  "2020",
   "2026"
  ]
 }

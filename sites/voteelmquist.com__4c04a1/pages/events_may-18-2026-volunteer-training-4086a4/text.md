@@ -1,5 +1,5 @@
-Back to All Events
-Join the Elmquist Campaign for a special training to discuss how you can pitch in to make sure Aisha and all of the other DFL endorsed candidates are victorious in November.
-Next
-Next
-May 20
+0 Skip to Content Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Folder: Take Action Back Immigration and Community Resources Contact CONTRIBUTE Back to All Events Volunteer Training Monday, May 18, 2026 6:00 PM 7:30 PM Ramsey County Library - Shoreview 4560 Victoria Street North Shoreview, MN, 55126 United States (map) Google Calendar ICS Join the Elmquist Campaign for a special training to discuss how you can pitch in to make sure Aisha and all of the other DFL endorsed candidates are victorious in November.
+RSVP Here Next Next May 20 Phonebank Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for campaign updates and news: Email Address Sign Up Thank you!
+Contribute Paid for by Neighbors for Aisha Elmquist PO Box 120195, New Brighton, MN 55112 Top

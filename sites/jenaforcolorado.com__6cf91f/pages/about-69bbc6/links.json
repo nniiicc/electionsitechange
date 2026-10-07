@@ -1,19 +1,70 @@
 [
-"https://bsky.app/profile/jenagriswold.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/Jenaforcolorado",
-"https://flickr.com/people/156006910@N07",
-"https://instagram.com/jenagriswold",
-"https://jenaforcolorado.com/",
-"https://jenaforcolorado.com/contact",
-"https://jenaforcolorado.com/endorsements",
-"https://jenaforcolorado.com/issues",
-"https://jenaforcolorado.com/news",
-"https://jenaforcolorado.com/privacy-policy",
-"https://jenaforcolorado.com/volunteer",
-"https://secure.actblue.com/donate/jenaforcoag-4-7-26",
-"https://store.jenaforcolorado.com/",
-"https://threads.net/@jenagriswold",
-"https://x.com/JenaGriswold",
-"https://youtube.com/channel/UCNEQm9kSpsYvjOOk-AD7sPA"
+{
+"text": "Campaign Shop",
+"href": "https://store.jenaforcolorado.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.jenaforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jenaforcoag-4-7-26"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jenaforcolorado.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.jenaforcolorado.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.jenaforcolorado.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jenaforcolorado.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jenaforcolorado.com/volunteer"
+},
+{
+"text": "[image: Jena Griswold for Attorney General]",
+"href": "https://www.jenaforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jenagriswold.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Jenaforcolorado"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/people/156006910@N07"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/jenagriswold"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@jenagriswold"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCNEQm9kSpsYvjOOk-AD7sPA"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JenaGriswold"
+}
 ]

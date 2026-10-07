@@ -1,15 +1,62 @@
 [
-"https://bsky.app/profile/maertensformn.bsky.social",
-"https://facebook.com/profile.php?id=61586411376526",
-"https://instagram.com/maertensformn",
-"https://mmformn.com/",
-"https://mmformn.com/about",
-"https://mmformn.com/cart",
-"https://mmformn.com/contact",
-"https://mmformn.com/donate",
-"https://mmformn.com/events",
-"https://mmformn.com/get-involved",
-"https://mmformn.com/issues",
-"https://mmformn.com/news",
-"https://secure.actblue.com/donate/melissa-maertens-1"
+{
+"text": "0",
+"href": "https://www.mmformn.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.mmformn.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.mmformn.com/contact"
+},
+{
+"text": "Donate today!",
+"href": "https://secure.actblue.com/donate/melissa-maertens-1"
+},
+{
+"text": "Donate!",
+"href": "https://www.mmformn.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.mmformn.com/events"
+},
+{
+"text": "Find out how to get involved",
+"href": "https://www.mmformn.com/get-involved"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mmformn.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.mmformn.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.mmformn.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.mmformn.com/news"
+},
+{
+"text": "[image: Maertens for MN House 10A]",
+"href": "https://www.mmformn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/maertensformn.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61586411376526"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maertensformn/"
+}
 ]

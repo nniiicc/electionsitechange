@@ -1,7 +1,14 @@
 {
- "description": "Marci Mustello",
+ "description": "",
  "final_url": "https://www.repmustello.com/Video/LatestVideo",
- "paid_for_by": null,
+ "fingerprint": "13afedb638130571a87b39d2c12015fd7f2b165b",
+ "format": 3,
+ "paid_for_by": "sponsored by Rep",
  "title": "Latest Videos | PA State Rep. Marci Mustello",
- "years_mentioned": []
+ "years_mentioned": [
+  "2011",
+  "2021",
+  "2022",
+  "2023"
+ ]
 }

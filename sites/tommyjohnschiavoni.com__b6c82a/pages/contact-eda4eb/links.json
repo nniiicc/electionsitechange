@@ -1,11 +1,46 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/tjschiavoni",
-"https://instagram.com/tjschiavoni?hl=en",
-"https://secure.actblue.com/donate/tjs4ny",
-"https://tommyjohnschiavoni.com/",
-"https://tommyjohnschiavoni.com/about",
-"https://tommyjohnschiavoni.com/endorsements",
-"https://tommyjohnschiavoni.com/f2a8cf80-bc36-445b-8ee5-413591ddf67f",
-"https://tommyjohnschiavoni.com/volunteer"
+{
+"text": "About",
+"href": "https://www.tommyjohnschiavoni.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tjs4ny"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tommyjohnschiavoni.com/endorsements"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "View Privacy Policy for more info.",
+"href": "https://www.tommyjohnschiavoni.com/f2a8cf80-bc36-445b-8ee5-413591ddf67f"
+},
+{
+"text": "Volunteer",
+"href": "https://www.tommyjohnschiavoni.com/volunteer"
+},
+{
+"text": "[image: Tommy John for NY Assembly logo]",
+"href": "https://www.tommyjohnschiavoni.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.tommyjohnschiavoni.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/tjschiavoni/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/tjschiavoni/?hl=en"
+},
+{
+"text": "contact@tommyjohnschiavoni.com",
+"href": "mailto:contact@tommyjohnschiavoni.com"
+}
 ]

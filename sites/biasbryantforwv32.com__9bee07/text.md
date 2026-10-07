@@ -1,9 +1,6 @@
-About Me
-Recent Updates
-Donate
-Hello, my name is Jennifer Bias Bryant and I’m running for WV House 32!
-Loading Comments...
+About Me Recent Updates Donate Hello, my name is Jennifer Bias Bryant and I’m running for WV House 32!
+Let’s Connect Facebook Facebook Instagram Instagram Link Phone Link Donate Here Mailing Address PO Box 142 Madison, WV 25310 Email BiasBryantforWV32@yahoo.com © #.
+All rights reserved.
+PAID FOR BY THE COMMITTEE TO ELECT JENNIFER BIAS BRYANT Loading Comments...
 Write a Comment...
-Email (Required)
-Name (Required)
-Website
+Email (Required) Name (Required) Website

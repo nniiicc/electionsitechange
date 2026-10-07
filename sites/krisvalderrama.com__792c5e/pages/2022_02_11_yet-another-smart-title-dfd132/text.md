@@ -1,13 +1,11 @@
-- Home
-- Lawmaker: It’s time Maryland offered a paid family leave program | COMMENTARY
-Life brings challenges to all of us, and some can consume us.
+Home Biography Issues News Scholarships Get Involved Contact Home Biography Issues News Scholarships Get Involved Contact Contribute Lawmaker: It’s time Maryland offered a paid family leave program | COMMENTARY Home Lawmaker: It’s time Maryland offered a paid family leave program | COMMENTARY 11 Feb’22 News stan 0 Comment Life brings challenges to all of us, and some can consume us.
 There will be times when we must care for the people we love the most, whether a spouse, a parent, a newborn or newly adopted child.
 In far too many cases, Marylanders in these situations will be forced to make an impossible decision — taking unpaid time away from work with the financial hardship that entails or losing out on the opportunity to be at home during these critical moments.
 This dilemma stems from the fact that Maryland lacks paid family leave, a right that people in almost every country in the world take for granted, and something that 10 other states have adopted.
 If they can’t take vacation or paid personal leave from their jobs, Maryland workers must go without pay to stay home and care for loved ones.
 It’s time to change this.
 Legislation I am sponsoring with Sen.
-Antonio Hayes (House Bill 375 and Senate Bill 211) would establish a new paid leave program that would provide partial wage replacement for workers who need time away from work to deal with a family issue for up to 12 weeks.
+Antonio Hayes ( House Bill 375 and Senate Bill 211 ) would establish a new paid leave program that would provide partial wage replacement for workers who need time away from work to deal with a family issue for up to 12 weeks.
 I know the struggle firsthand.
 My mother battled a crippling disease before dying a few years ago.
 I spent as much time as I could with her, going without pay because I was determined to be with her when she needed me.
@@ -35,4 +33,6 @@ New polling by OpinionWorks found that an astonishing 88% of Maryland voters sup
 They know that no one should have to choose between the job they need and the family they love.
 This bill isn’t a cure-all for helping us navigate our most challenging times.
 But it will allow people the chance to avoid financial disaster as they focus on what is really important in life — caring for our loved ones in times of need.
-Kris Valderrama (kris.valderrama@house.state.md.us) is a member of the House of Delegates representing District 26 in Prince George’s County.
+Kris Valderrama ( kris.valderrama@house.state.md.us ) is a member of the House of Delegates representing District 26 in Prince George’s County.
+Leave Your Comment Cancel reply Post Comment Δ Twitter Facebook Dribbble Youtube Pinterest Medium Twitch Linkedin Home Biography Useful Links Gallery News Newsletter Issues Bills Passed Contact Email Facebook Instagram By authority citizens for Kris Valderrama Treasurer: Abraham Lobo Website Developed by Core Digital Expansion Copyright # Home Biography Useful Links Gallery News Newsletter Issues Bills Passed Contact Email Facebook Instagram BY AUTHORITY: Citizens for Kris Valderrama, Abraham Lobo, Treasurer.
+Website Developed by Core Digital Expansion Copyright #

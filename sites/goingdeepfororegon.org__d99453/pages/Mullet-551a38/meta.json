@@ -1,7 +1,14 @@
 {
  "description": "Tom Lum Forest for Oregon House District 31",
  "final_url": "https://goingdeepfororegon.org/Mullet/",
- "paid_for_by": null,
+ "fingerprint": "b4cca760d13242fdc77c804289c9a718db1d7bd3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mullet | Going Deep for Oregon",
- "years_mentioned": []
+ "years_mentioned": [
+  "1970",
+  "1979",
+  "1990",
+  "1994"
+ ]
 }

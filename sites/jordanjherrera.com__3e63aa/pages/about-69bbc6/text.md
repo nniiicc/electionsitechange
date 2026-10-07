@@ -1,7 +1,5 @@
-Meet Jordan
-Candidate for U.S.
-Congress – Missouri’s 4th District
-Jordan J.
+Phone: +1 816-287-2326 DONATE About Message from Jordan Issues Merch Volunteer Vote Events Contact Meet Jordan Candidate for U.S.
+Congress – Missouri’s 4th District Jordan J.
 Herrera is a veteran, attorney, and public servant running for Congress to bring principled, results-driven leadership to Missouri’s 4th District.
 With over 16 years of service in the United States Air Force and a current role as Assistant Attorney General for the State of Missouri, Jordan’s life has been defined by one unshakable belief: leadership means showing up when it matters most.
 Born into working-class hardship and raised in the Midwest, Jordan understands the struggles many families face because he’s lived them.
@@ -12,8 +10,7 @@ That’s what inspired his service in the military, his pursuit of law, and now,
 In the Air Force, Jordan rose through the ranks as a Biomedical Equipment Engineer, leading operations across more than 70 military installations worldwide.
 He managed multimillion-dollar budgets, oversaw medical logistics and construction, and earned recognition as one of the top leaders in his command.
 After military service, he accelerated through law school, earning his J.D. in two years and focusing on constitutional law, civil justice, and privacy rights.
-A Lifetime of Service
-This campaign was built upon a simple question found in the Parable of the Good Samaritan.
+A Lifetime of Service This campaign was built upon a simple question found in the Parable of the Good Samaritan.
 Christ tells the story of a man beaten, robbed, stripped naked, and left for dead along the road.
 Men of status and authority pass him by.
 A priest passes him by.
@@ -40,3 +37,10 @@ I know what it means to struggle, to sacrifice, to serve, and to overcome advers
 I know what it means to stand on a battlefield and wonder whether I am coming home.
 Those experiences taught me that public service is not about authority.
 It is about responsibility.
+Jordan is not running to preserve the past.
+He’s running to build the future—one where leadership is earned through service, and where every family has a fair shot to thrive.
+Donate Now!
+Every dollar helps to get Jordan into office, show your support today! $# $# $# $# $# Other If you’ve saved your payment with ActBlue Express, your donation will go through immediately.
+Home About Message from the Candidate Issues Merch Volunteer Vote Events Contact Privacy Statement Terms and Conditions Jordan J Herrera © # | All rights reserved | Site by Nerotech Solutions LLC | Paid for by Herrera for Congress | Use of military rank, job titles, and photos in uniform do not imply endorsement by The United States Air Force or The Department of War.
+Any opinions expressed are that of Jordan Herrera and no other organization.
+Manage consent

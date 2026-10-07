@@ -1,8 +1,5 @@
-Meet Ron Stewart
-From the firehouse to the statehouse, Ron will be there to make sure you and your family are safe and secure.
-Ron knows what it means to have courage under fire and knows the people of Oklahoma need someone with integrity who refuses to back down when your family's future is on the line.
-RON'S STORY
-A Lifetime of Service.
+top of page HOME ABOUT ISSUES VOLUNTEER CONTACT DONATE DONATE Meet Ron Stewart From the firehouse to the statehouse, Ron will be there to make sure you and your family are safe and secure. ​ Ron knows what it means to have courage under fire and knows the people of Oklahoma need someone with integrity who refuses to back down when your family's future is on the line.
+Donate for Change RON'S STORY A Lifetime of Service.
 Ronald Stewart is a proud parent, a public servant, and a lifelong Tulsan.
 Born into the neighborhood known as the “annex”, Ronald is also a lifelong resident of District 73.
 Ronald’s childhood and life experiences were shaped by lessons learned in neighborhoods that span from 62nd St N and Cheyenne Ave. to the Historic Greenwood District and many points between the two.
@@ -19,3 +16,4 @@ However, Ronald is also familiar with the resilience of the community and the sm
 Ronald is dedicated to working within government to help right the wrongs of the past and chart an equitable path for the future.
 He is ready to work and make government a place where everyone is included and no families are left behind.
 Ronald will stand up for you on day one.
+HOME ABOUT ISSUES VOLUNTEER CONTACT Paid for by Ronald Stewart for State House 2026 Design by Fugue Media bottom of page

@@ -1,13 +1,15 @@
-Donate today to help Shawn Johnson stand for the Constitution and protect Wyoming values!
+0 Skip to Content Your Site Title ShawnforWyoming Open Menu Close Menu Your Site Title ShawnforWyoming Open Menu Close Menu ShawnforWyoming SHAWN JOHNSON Libertarian for U.S.
+House About Events Volunteer Contact About Events Volunteer Contact SHAWN JOHNSON • LIBERTARIAN FOR U.S.
+HOUSE Donate today to help Shawn Johnson stand for the Constitution and protect Wyoming values!
 Help send an independent Wyoming voice to Washington—committed to liberty, constitutional government, individual responsibility, and the people of Wyoming.
+VOLUNTEER IN YOUR COUNTY ↓ 23 COUNTIES.
+ONE WYOMING.
 Put your county on the map.
 Hover over a county to identify it.
 Click your county to volunteer, request a yard sign, host a meet-and-greet, or invite Shawn to an event.
-Click any county to open the signup form.
-Upcoming events
-Meet Shawn across Wyoming.
-About Shawn Johnson
-Shawn Johnson has spent most of his adult life in public service, although not always in the same kind of uniform.
+Loading Wyoming counties… Click any county to open the signup form.
+ON THE ROAD Upcoming events Meet Shawn across Wyoming. ← → Events coming soon.
+MEET SHAWN About Shawn Johnson Shawn Johnson has spent most of his adult life in public service, although not always in the same kind of uniform.
 He served for 21 years as an Army combat medic in the Wyoming National Guard, including a deployment to Iraq in 2003 and 2004.
 After returning home, Shawn joined the Natrona County Sheriff’s Office, where he spent 13 years in law enforcement.
 In 2014, Shawn was elected to the Casper City Council.
@@ -24,7 +26,17 @@ He believes sending Americans into harm’s way should be a last resort.
 Shawn is running for Congress because he believes Wyoming needs an independent voice in Washington—someone willing to question his own party, vote against bad ideas regardless of where they come from, and remember who elected officials work for.
 He has served as a soldier, deputy, city councilman, and attorney.
 Each role has given him a different view of government and a stronger belief in the importance of individual liberty, limited government, and accountability.
-Help Shawn bring a constitutional voice to Washington.
-Contact Us
-Have a question for Shawn or the campaign?
+STAND FOR WYOMING Help Shawn bring a constitutional voice to Washington.
+GET IN TOUCH Contact Us Have a question for Shawn or the campaign?
 Send us a message.
+First name Last name Email Phone (optional) Message SEND MESSAGE SHAWN JOHNSON FOR U.S.
+HOUSE PAID FOR BY JOHNSON FOR WYOMING Use of military rank, job titles, photographs, or imagery does not imply endorsement by the U.S.
+Department of Defense, the U.S.
+Army, the National Guard, or any other military department or agency. © # Johnson for Wyoming.
+All rights reserved. × JOIN SHAWN'S TEAM Get involved in Wyoming Choose how you would like to help.
+How would you like to help?
+Volunteer Help with events, outreach and campaign activities.
+Place a yard sign Show your support in your community.
+Host a meet-and-greet Bring friends and neighbors together to meet Shawn.
+Invite Shawn to an event Tell the campaign about an event in your area.
+First name Last name Email Phone Notes or event details JOIN SHAWN'S TEAM

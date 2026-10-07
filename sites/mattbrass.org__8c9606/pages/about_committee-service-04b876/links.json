@@ -1,23 +1,90 @@
 [
-"http://mattbrass.org/wp-content/uploads/2019/05/Legislative-Process_2019.pdf",
-"http://senate.ga.gov/Committees/en-US/Committee.aspx?Committee=120&Session=25",
-"http://senate.ga.gov/Committees/en-US/Committee.aspx?Committee=139&Session=25",
-"http://senate.ga.gov/Committees/en-US/Committee.aspx?Committee=140&Session=25",
-"http://senate.ga.gov/Committees/en-US/Committee.aspx?Committee=165&Session=25",
-"http://senate.ga.gov/Committees/en-US/Committee.aspx?Committee=83&Session=27",
-"http://senate.ga.gov/committees/en-US/committee.aspx?Committee=141&Session=27",
-"http://stoneridgegroup.com/",
-"https://confirmsubscription.com/h/r/B7997A5DB8EAF8B3",
-"https://facebook.com/Matt-Brass-for-State-Senate-173320099416718?fref=ts",
-"https://mattbrass.org/",
-"https://mattbrass.org/about",
-"https://mattbrass.org/about/about",
-"https://mattbrass.org/about/committee-service",
-"https://mattbrass.org/about/committee-service/@vote_matt_brass",
-"https://mattbrass.org/about/issues",
-"https://mattbrass.org/about/sponsored-legislation",
-"https://mattbrass.org/news",
-"https://mattbrass.org/newsletter-updates",
-"https://mattbrass.org/press-kit",
-"https://twitter.com/@vote_matt_brass"
+{
+"text": "About",
+"href": "https://mattbrass.org/about/about/"
+},
+{
+"text": "Click here to learn more about the legislative process!",
+"href": "http://mattbrass.org/wp-content/uploads/2019/05/Legislative-Process_2019.pdf"
+},
+{
+"text": "Committee Service",
+"href": "https://mattbrass.org/about/committee-service/"
+},
+{
+"text": "Economic Development and Tourism – Vice Chairman",
+"href": "http://www.senate.ga.gov/Committees/en-US/Committee.aspx?Committee=165&Session=25"
+},
+{
+"text": "Education and Youth – Ex-Officio",
+"href": "http://www.senate.ga.gov/Committees/en-US/Committee.aspx?Committee=120&Session=25"
+},
+{
+"text": "Home",
+"href": "https://mattbrass.org/"
+},
+{
+"text": "Issues",
+"href": "https://mattbrass.org/about/issues/"
+},
+{
+"text": "Meet Matt",
+"href": "https://mattbrass.org/about/"
+},
+{
+"text": "Natural Resources and the Environment – Secretary",
+"href": "http://www.senate.ga.gov/Committees/en-US/Committee.aspx?Committee=139&Session=25"
+},
+{
+"text": "News",
+"href": "https://mattbrass.org/news/"
+},
+{
+"text": "Newsletter Updates",
+"href": "https://mattbrass.org/newsletter-updates/"
+},
+{
+"text": "Press Kit",
+"href": "https://mattbrass.org/press-kit/"
+},
+{
+"text": "Reapportionment & Redistricting- Chairman",
+"href": "http://www.senate.ga.gov/Committees/en-US/Committee.aspx?Committee=140&Session=25"
+},
+{
+"text": "Regulated Industries and Utilities- Vice Chairman",
+"href": "http://www.senate.ga.gov/committees/en-US/committee.aspx?Committee=141&Session=27"
+},
+{
+"text": "Rules – Member",
+"href": "http://www.senate.ga.gov/Committees/en-US/Committee.aspx?Committee=83&Session=27"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://mattbrass.org/about/sponsored-legislation/"
+},
+{
+"text": "Volunteer",
+"href": "https://confirmsubscription.com/h/r/B7997A5DB8EAF8B3"
+},
+{
+"text": "[image]",
+"href": "http://www.stoneridgegroup.com"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/"
+},
+{
+"text": "[no text]",
+"href": "https://mattbrass.org/about/committee-service/@vote_matt_brass"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Matt-Brass-for-State-Senate-173320099416718/?fref=ts"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/@vote_matt_brass"
+}
 ]

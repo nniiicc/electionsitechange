@@ -1,15 +1,62 @@
 [
-"https://facebook.com/sghewins",
-"https://linkedin.com/in/sarah-hewins-1324226a",
-"https://sarahhewins.com/experience_sr.php",
-"https://sarahhewins.com/get_involved_sr.php",
-"https://sarahhewins.com/get_involved_sr.php?open=donateonline",
-"https://sarahhewins.com/get_involved_sr.php?open=getsign",
-"https://sarahhewins.com/get_involved_sr.php?open=volunteer",
-"https://sarahhewins.com/i-care-about_sr.php",
-"https://sarahhewins.com/index.php",
-"https://sarahhewins.com/meet_sarah_sr.php",
-"https://sarahhewins.com/office-hours_sr.php",
-"https://sarahhewins.com/php/subscribe_form.php",
-"https://sarahhewins.com/platform_sr.php"
+{
+"text": "Be the first to know with email or text alerts from Sarah!",
+"href": "https://www.sarahhewins.com/php/subscribe_form.php"
+},
+{
+"text": "Donate",
+"href": "https://www.sarahhewins.com/get_involved_sr.php?open=donateonline"
+},
+{
+"text": "Experience",
+"href": "https://www.sarahhewins.com/experience_sr.php"
+},
+{
+"text": "Get A Sign",
+"href": "https://www.sarahhewins.com/get_involved_sr.php?open=getsign"
+},
+{
+"text": "Get Involved!",
+"href": "https://www.sarahhewins.com/get_involved_sr.php"
+},
+{
+"text": "I Care About...",
+"href": "https://www.sarahhewins.com/i-care-about_sr.php"
+},
+{
+"text": "Meet Sarah",
+"href": "https://www.sarahhewins.com/meet_sarah_sr.php"
+},
+{
+"text": "Sarah Hewins",
+"href": "https://www.sarahhewins.com/index.php"
+},
+{
+"text": "Sarah's Platform",
+"href": "https://www.sarahhewins.com/platform_sr.php"
+},
+{
+"text": "Set up a personal meeting with Sarah.",
+"href": "https://www.sarahhewins.com/office-hours_sr.php"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sarahhewins.com/get_involved_sr.php?open=volunteer"
+},
+{
+"text": "[image: Sarah's Facebook Page]",
+"href": "https://www.facebook.com/sghewins"
+},
+{
+"text": "[image: Sarah's LinkedIn Profile]",
+"href": "https://www.linkedin.com/in/sarah-hewins-1324226a/"
+},
+{
+"text": "[image: Sign up for emails or texts from Sarah]",
+"href": "https://www.sarahhewins.com/php/subscribe_form.php"
+},
+{
+"text": "sgh@sarahhewins.com",
+"href": "mailto:sgh@sarahhewins.com"
+}
 ]

@@ -1,41 +1,28 @@
-News & Press
-Yassamin is constantly championing housing affordability, climate action, reproductive freedom, worker’s rights, and education — with proven results.
+Skip to content Meet Yass News Media Contact Shop Contribute News & Press Yassamin is constantly championing housing affordability, climate action, reproductive freedom, worker’s rights, and education — with proven results.
 Read below to find out what Yassamin has been up to recently.
-NEWS
-MS Now: Rep.
-Ansari: Wexner said he’d been to Epstein Island, denied ever seeing unusually young women
-Members of the House Oversight Committee questioned billionaire Les Wexner on his long friendship with Jeffrey Epstein.
+NEWS MS Now: Rep.
+Ansari: Wexner said he’d been to Epstein Island, denied ever seeing unusually young women Members of the House Oversight Committee questioned billionaire Les Wexner on his long friendship with Jeffrey Epstein.
 Rep.
 Yassamin Ansari (D-AZ), a member of the committee, joins Alex Witt to share more on what Wexner said during his testimony.
-KJZZ: Bills introduced by Rep.
-Yassamin Ansari would curb funding for ICE, require detention oversight
-Legislation introduced by Democratic Congresswoman Yassamin Ansari of Arizona would curb funding for Immigration and Customs Enforcement and require detention oversight.
-Arizona PBS: Representative Yassamin Ansari demands impeachment of DHS Secretary
-Congresswoman Yassamin Ansari (D) has spoken out against for-profit immigration detention centers and called for ending them altogether.
+February 18, 2026 KJZZ: Bills introduced by Rep.
+Yassamin Ansari would curb funding for ICE, require detention oversight Legislation introduced by Democratic Congresswoman Yassamin Ansari of Arizona would curb funding for Immigration and Customs Enforcement and require detention oversight.
+February 8, 2026 Arizona PBS: Representative Yassamin Ansari demands impeachment of DHS Secretary Congresswoman Yassamin Ansari (D) has spoken out against for-profit immigration detention centers and called for ending them altogether.
 As the Arizona Democratic congressional representative of District 3, she has also demanded the impeachment of Homeland Security Secretary Kristi Noem.
-Phoenix New Times: Ansari wants to abolish for-profit immigration detention centers
-“There is no accountability for these for-profit detention centers under Donald Trump.
-They don’t care about these people.”
-AZ PBS: Congresswoman Ansari on rural heathcare & immigration issues
-“Every American agrees we need a secure border,” she said.
+January 26, 2026 Phoenix New Times: Ansari wants to abolish for-profit immigration detention centers “There is no accountability for these for-profit detention centers under Donald Trump.
+They don’t care about these people.” January 14, 2026 AZ PBS: Congresswoman Ansari on rural heathcare & immigration issues “Every American agrees we need a secure border,” she said.
 “But we also need humanity, accountability, and real solutions.
-That’s what I’m fighting for.”
-Phoenix New Times: Arizona Rep.
-Ansari trolls House speaker for covering up Epstein files
-Rep.
+That’s what I’m fighting for.” November 25, 2025 Phoenix New Times: Arizona Rep.
+Ansari trolls House speaker for covering up Epstein files Rep.
 Yassamin Ansari recreated a classic meme while sitting outside the office of the Republican Speaker of the House.
-Press
-Former Vice Mayor Yassamin Ansari Calls on Voters to Vote No on Supreme Court Judges Bolick and King
-“Extremist Republicans continue to attack our rights: our right to vote, our right to safe and secure elections, and now, our right to have an abortion and bodily autonomy.”
-Former Vice Mayor Yassamin Ansari Releases Statement on Arizona Supreme Court’s Decision to Uphold 1864 State Abortion Ban
-“Abortion is a human right.
-Upholding a ban on our bodily autonomy – a ban that was created before women could vote – is not justice.”
-Arizona Building and Construction Trades Council Endorses Phoenix City Councilwoman Yassamin Ansari for Congress
-Arizona Building and Construction Trades Council endorses Councilwoman Yassamin Ansari.
-Ironworkers Local 75 Endorses Phoenix City Councilwoman Yassamin Ansari for Congress
-Ironworkers Local 75 endorses Councilwoman Yassamin Ansari.
-Association of Professional Flight Attendants Endorse Phoenix City Councilwoman Yassamin Ansari for Congress
-Councilwoman Yassamin Ansari endorsed by the National Union Representing the 26,000 Flight Attendants of American Airlines.
-LiUNA!
-Local Unions 777 and 1184 Endorse Phoenix City Councilwoman Yassamin Ansari for Congress
-Laborers’ International Union of North America, Local Unions 777 & 1184 endorse Councilwoman Yassamin Ansari.
+November 6, 2025 « Previous Page 1 Page 2 Page 3 Page 4 Page 5 Next » Press Former Vice Mayor Yassamin Ansari Calls on Voters to Vote No on Supreme Court Judges Bolick and King “Extremist Republicans continue to attack our rights: our right to vote, our right to safe and secure elections, and now, our right to have an abortion and bodily autonomy.” April 11, 2024 Former Vice Mayor Yassamin Ansari Releases Statement on Arizona Supreme Court’s Decision to Uphold 1864 State Abortion Ban “Abortion is a human right.
+Upholding a ban on our bodily autonomy – a ban that was created before women could vote – is not justice.” April 9, 2024 Arizona Building and Construction Trades Council Endorses Phoenix City Councilwoman Yassamin Ansari for Congress Arizona Building and Construction Trades Council endorses Councilwoman Yassamin Ansari.
+March 28, 2024 Ironworkers Local 75 Endorses Phoenix City Councilwoman Yassamin Ansari for Congress Ironworkers Local 75 endorses Councilwoman Yassamin Ansari.
+March 13, 2024 Association of Professional Flight Attendants Endorse Phoenix City Councilwoman Yassamin Ansari for Congress Councilwoman Yassamin Ansari endorsed by the National Union Representing the 26,000 Flight Attendants of American Airlines.
+February 28, 2024 LiUNA!
+Local Unions 777 and 1184 Endorse Phoenix City Councilwoman Yassamin Ansari for Congress Laborers’ International Union of North America, Local Unions 777 & 1184 endorse Councilwoman Yassamin Ansari.
+February 27, 2024 Get Involved Paid for by Yassamin Ansari for Congress.
+Contribute by check: Yassamin Ansari for Congress P.O.
+Box 13524, Phoenix, AZ 85002 © Copyright #.
+All rights reserved.
+Privacy Policy Facebook Twitter Instagram Site by Kinetic Strategies English Español English About Yassamin Issues & Policy News & Press Endorsements Media Contact Contribute About Yassamin Issues & Policy News & Press Endorsements Media Contact Contribute Donate Yassamin will never put big funders ahead of working families.
+Help fuel our campaign with a contribution or volunteer your time. $10 $25 $50 $100 $250 OTHER Get Involved

@@ -1,5 +1,4 @@
-About Amanda
-Amanda was born on a farm, by a midwife in rural Vermont and raised in the town of South Strafford in a working-class, bi-racial family.
+Skip to content Home Amanda Platform Endorsements Get Involved Volunteer Opportunities Host an Event Canvass Phone Bank Endorse Amanda Download 1/4 Sheets Suggestion Box Request a Lawn Sign Events Campaign Stops Volunteer Opportunities Town Hall State Tour News Store Donate Home Amanda Platform Endorsements Get Involved Close Get Involved Open Get Involved Volunteer Opportunities Host an Event Canvass Phone Bank Endorse Amanda Download 1/4 Sheets Suggestion Box Request a Lawn Sign Events Close Events Open Events All Campaign Events Town Hall State Tour News Store About Amanda Amanda was born on a farm, by a midwife in rural Vermont and raised in the town of South Strafford in a working-class, bi-racial family.
 Her father immigrated to the United States from Malaysia and worked as a civil engineer by day while washing dishes at night to support his family.
 Her mother taught her how to steward the land by raising sheep, tapping maple trees, gardening, mending and fixing things instead of throwing them away.
 Growing up, Amanda attended Strafford Town Meeting with her family every year, watching her neighbor’s debate everything from road budgets and school funding to GMO labeling and nuclear power.
@@ -26,3 +25,6 @@ Today, Amanda rents an apartment in Burlington because, like so many Vermonters 
 She understands the pressures facing working families not only as an economist who has spent her career addressing these challenges, but as a Vermonter living them herself.
 Amanda is running for Governor because she loves Vermont and wants to ensure every Vermonter is safe and secure in this moment of compounding economic, political and environmental crisis.
 Centered in Vermont values, she has spent her career helping communities build economies that are more democratic, more resilient, and more prosperous—and she knows that if we’re willing to be bold and brave, Vermont can once again show the country what is possible.
+Get Involved Join the Movement When we protect what we love, our neighbors, our land, our democracy, we find not just resilience, but joy.
+Get Involved Donate Paid for by Amanda Janoo for Governor P.O.
+Box 119, Burlington, Vermont 05402 Privacy Policy

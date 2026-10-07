@@ -1,8 +1,46 @@
 [
-"https://bsky.app/profile/starkejones.bsky.social",
-"https://electstarkejones.com/",
-"https://facebook.com/electstarkejones",
-"https://instagram.com/electstarkejones",
-"https://secure.actblue.com/donate/cynthia-starke-jones-1",
-"https://x.com/starke_jones"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cynthia-starke-jones-1"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/cynthia-starke-jones-1"
+},
+{
+"text": "Get Involved",
+"href": "https://secure.actblue.com/donate/cynthia-starke-jones-1"
+},
+{
+"text": "Home",
+"href": "https://www.electstarkejones.com"
+},
+{
+"text": "Learn More",
+"href": "https://secure.actblue.com/donate/cynthia-starke-jones-1"
+},
+{
+"text": "Support",
+"href": "https://secure.actblue.com/donate/cynthia-starke-jones-1"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.electstarkejones.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/starkejones.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electstarkejones"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electstarkejones"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/starke_jones"
+}
 ]

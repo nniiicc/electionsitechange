@@ -1,9 +1,3 @@
-Back to All Events
-This reception is being held for the Dem-NPL Region 6 endorsed legislative candidates, statewide office candidates, and the Congressional candidate.
-Previous
-Previous
-April 13
-Meet the Candidates for Governmental Transparency
-Next
-Next
-May 2
+0 Skip to Content Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Back to All Events Candidate Meet & Greet Saturday, April 25, 2026 5:00 PM 7:00 PM Apple Creek Country Club 8921 Hwy 10 Bismarck, ND (map) Google Calendar ICS This reception is being held for the Dem-NPL Region 6 endorsed legislative candidates, statewide office candidates, and the Congressional candidate.
+Previous Previous April 13 Meet the Candidates for Governmental Transparency Next Next May 2 Governors Dinner Mailing Address: Hammer for ND PO Box 58 Minot, ND 58702 General Inquiries: info@hammerfornd.com Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
+Paid for by Hammer for ND Follow Trygve on Social Media

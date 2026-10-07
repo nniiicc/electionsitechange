@@ -1,9 +1,12 @@
 {
- "description": "Rep. Lizzie Fletcher's voting record on energy, crime, and other issues that matter to you\u2014with every claim linked to the official House record.",
+ "description": "Rep. Lizzie Fletcher's voting record on energy, crime, and other issues that matter to you—with every claim linked to the official House record.",
  "final_url": "https://www.halefortexas.com/blog/fletcher",
+ "fingerprint": "86be769aec9f801299c2dc316dbdb0f88f4784d3",
+ "format": 3,
  "paid_for_by": "Paid for by Alexander Hale for Congress",
  "title": "About Representative Lizzie Fletcher | Alexander Hale for Congress",
  "years_mentioned": [
+  "1958",
   "2018",
   "2019",
   "2020",
@@ -12,6 +15,7 @@
   "2023",
   "2024",
   "2025",
-  "2026"
+  "2026",
+  "2047"
  ]
 }

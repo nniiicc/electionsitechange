@@ -1,8 +1,30 @@
 [
-"https://donorbox.org/donate-to-steve-eliason",
-"https://steveeliasonforutah.com/",
-"https://steveeliasonforutah.com/about",
-"https://steveeliasonforutah.com/cart",
-"https://steveeliasonforutah.com/endorsements",
-"https://steveeliasonforutah.com/priorities"
+{
+"text": "0",
+"href": "https://steveeliasonforutah.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://donorbox.org/donate-to-steve-eliason"
+},
+{
+"text": "Endorsements",
+"href": "https://steveeliasonforutah.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://steveeliasonforutah.com/"
+},
+{
+"text": "Meet Steve",
+"href": "https://steveeliasonforutah.com/about"
+},
+{
+"text": "Priorities",
+"href": "https://steveeliasonforutah.com/priorities"
+},
+{
+"text": "[image: Steve Eliason for Utah House]",
+"href": "https://steveeliasonforutah.com/"
+}
 ]

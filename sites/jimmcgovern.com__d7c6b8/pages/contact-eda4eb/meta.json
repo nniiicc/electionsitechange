@@ -1,7 +1,9 @@
 {
- "description": "Thank you for contacting the Re-Elect McGovern Committee. To make an offline donation, checks are payable to \u201cRe-Elect McGovern Committee\u201d and please send to: Re-Elect ....",
+ "description": "Thank you for contacting the Re-Elect McGovern Committee. To make an offline donation, checks are payable to “Re-Elect McGovern Committee” and please send to: Re-Elect ....",
  "final_url": "https://www.jimmcgovern.com/contact/",
- "paid_for_by": null,
+ "fingerprint": "098b742a8ccd585e8d1000fb8702b7c732238b6a",
+ "format": 3,
+ "paid_for_by": "authorized by the Re-Elect McGovern Committee Powered by Mandate Media",
  "title": "Contact us | Jim McGovern for Congress",
  "years_mentioned": []
 }

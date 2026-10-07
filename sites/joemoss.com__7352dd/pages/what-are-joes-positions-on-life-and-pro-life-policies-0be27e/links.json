@@ -1,22 +1,82 @@
 [
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fjoemoss.com%2Fwhat-are-joes-positions-on-life-and-pro-life-policies",
-"https://boards.miottawa.org/resolution/resolution-to-promote-life",
-"https://facebook.com/JoeMossforOCC",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fjoemoss.com%2Fwhat-are-joes-positions-on-life-and-pro-life-policies&t=What+are+Joe%E2%80%99s+positions+on+life+and+pro-life+policies%3F",
-"https://joemoss.com/",
-"https://joemoss.com/about",
-"https://joemoss.com/blog",
-"https://joemoss.com/contact",
-"https://joemoss.com/district-map",
-"https://joemoss.com/endorsements",
-"https://joemoss.com/jobs",
-"https://joemoss.com/terms",
-"https://joemoss.com/volunteer",
-"https://linkedin.com/in/joe-moss",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjoemoss.com%2Fwhat-are-joes-positions-on-life-and-pro-life-policies&title=What+are+Joe%E2%80%99s+positions+on+life+and+pro-life+policies%3F&summary=I+am+a+strong%2C+consistent+pro-life+Christian.%0D%0AI+was+raised+with+a+strong+Christian+worldview.+Every+baby+is+a+gift+from+God%2C+created+in+His+image.+Abortion+is+the+greatest+moral+evil+the+world+has+ever+seen.%0D%0AWhile+I+served+as+Chairman+of+the+Ottawa+Count",
-"https://protectlifemi.org/",
-"https://reddit.com/submit?url=https%3A%2F%2Fjoemoss.com%2Fwhat-are-joes-positions-on-life-and-pro-life-policies&title=What+are+Joe%E2%80%99s+positions+on+life+and+pro-life+policies%3F",
-"https://secure.winred.com/joemoss/donate",
-"https://x.com/JoeMoss",
-"https://x.com/intent/post?url=https%3A%2F%2Fjoemoss.com%2Fwhat-are-joes-positions-on-life-and-pro-life-policies&text=What+are+Joe%E2%80%99s+positions+on+life+and+pro-life+policies%3F"
+{
+"text": "About",
+"href": "https://joemoss.com/about"
+},
+{
+"text": "Contact",
+"href": "https://joemoss.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://joemoss.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/joemoss/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://joemoss.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JoeMossforOCC"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fjoemoss.com%2Fwhat-are-joes-positions-on-life-and-pro-life-policies&t=What+are+Joe%E2%80%99s+positions+on+life+and+pro-life+policies%3F"
+},
+{
+"text": "Jobs",
+"href": "https://joemoss.com/jobs"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/joe-moss/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjoemoss.com%2Fwhat-are-joes-positions-on-life-and-pro-life-policies&title=What+are+Joe%E2%80%99s+positions+on+life+and+pro-life+policies%3F&summary=I+am+a+strong%2C+consistent+pro-life+Christian.%0D%0AI+was+raised+with+a+strong+Christian+worldview.+Every+baby+is+a+gift+from+God%2C+created+in+His+image.+Abortion+is+the+greatest+moral+evil+the+world+has+ever+seen.%0D%0AWhile+I+served+as+Chairman+of+the+Ottawa+Count"
+},
+{
+"text": "News",
+"href": "https://joemoss.com/blog"
+},
+{
+"text": "Protect Life Michigan",
+"href": "https://www.protectlifemi.org/"
+},
+{
+"text": "Reddit",
+"href": "https://reddit.com/submit?url=https%3A%2F%2Fjoemoss.com%2Fwhat-are-joes-positions-on-life-and-pro-life-policies&title=What+are+Joe%E2%80%99s+positions+on+life+and+pro-life+policies%3F"
+},
+{
+"text": "Resolution to Promote Life",
+"href": "https://boards.miottawa.org/resolution/resolution-to-promote-life/"
+},
+{
+"text": "Terms",
+"href": "https://joemoss.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://joemoss.com/volunteer"
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fjoemoss.com%2Fwhat-are-joes-positions-on-life-and-pro-life-policies"
+},
+{
+"text": "X",
+"href": "https://x.com/JoeMoss"
+},
+{
+"text": "X",
+"href": "https://x.com/intent/post?url=https%3A%2F%2Fjoemoss.com%2Fwhat-are-joes-positions-on-life-and-pro-life-policies&text=What+are+Joe%E2%80%99s+positions+on+life+and+pro-life+policies%3F"
+},
+{
+"text": "[image: Joe Moss Logo] [image: Joe Moss Logo]",
+"href": "https://joemoss.com/"
+}
 ]

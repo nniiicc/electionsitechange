@@ -1,4 +1,6 @@
-From The Greenville News
-Dysfunction in Washington is reaching an all-time high.
+Skip to content William Timmons for Congress Serving South Carolina's Upstate About William Issues Volunteer Contact Donate January 29, 2022 Opinion: Democrats’ attempts to pass voting bills are just a distraction From The Greenville News Dysfunction in Washington is reaching an all-time high.
 Democrats spent months trying to pass a socialist reform bill that would further embed a culture of government dependency in our country.
-Having failed, they quickly turned their attention to another “suddenly urgent” issue, declaring recently passed state election laws as “Jim Crow 2.0.”
+Having failed, they quickly turned their attention to another “suddenly urgent” issue, declaring recently passed state election laws as “Jim Crow 2.0.” Read the full editorial Share Post navigation Breaking: Timmons endorsed by 15 Congressional Veterans More Bills Targeting the Vaccine Mandate Introduced Latest News Breaking: Timmons endorsed by 15 Congressional Veterans Opinion: Democrats’ attempts to pass voting bills are just a distraction More Bills Targeting the Vaccine Mandate Introduced Upstate Veterans Day ceremony honors veterans from WWII to Afghanistan Veterans honored in ceremony at Greenville’s County Square Over 40 SC House lawmakers will introduce a bill against vaccine mandate, Senate to follow soon Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date!
+Contact News Privacy Policy Resources Donate GET IN TOUCH Post Office Box 3416 Greenville, SC 29602 William Timmons is a member of the Air National Guard.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of Defense.
+Paid for by William Timmons for Congress

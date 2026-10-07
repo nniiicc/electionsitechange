@@ -1,10 +1,38 @@
 [
-"https://chrisgettyforcongress.com/",
-"https://chrisgettyforcongress.com/about",
-"https://chrisgettyforcongress.com/contact",
-"https://chrisgettyforcongress.com/platform",
-"https://designedtorun.com/",
-"https://donorbox.org/chris-getty-for-congress",
-"https://facebook.com/chrisgettyforcongress",
-"https://instagram.com/chrisgettyforcongress"
+{
+"text": "About",
+"href": "https://www.chrisgettyforcongress.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.chrisgettyforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://donorbox.org/chris-getty-for-congress"
+},
+{
+"text": "Home",
+"href": "https://www.chrisgettyforcongress.com/"
+},
+{
+"text": "Platform",
+"href": "https://www.chrisgettyforcongress.com/platform"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Chris Getty for Congress | Illinois 4th District Candidate]",
+"href": "https://www.chrisgettyforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/chrisgettyforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/chrisgettyforcongress/"
+}
 ]

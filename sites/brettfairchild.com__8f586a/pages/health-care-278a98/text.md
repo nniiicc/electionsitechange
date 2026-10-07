@@ -1,5 +1,5 @@
-Health Care
-I’m strongly in favor of having a free market healthcare system, and I’ve advocated free market healthcare policies as a state representative.
+Skip to content Fairchild for Freedom Pro Life | Pro Liberty Menu Home About Me Issue Positions Abortion Agriculture Budgetary Issues Civil Liberties Education Gun Rights Health Care Immigration Licensing Reform Religious Liberty Spending Taxes KS State Rep., Dist.
+113 Donate Get Involved Newsletter Health Care Home Abortion Agriculture Budgetary Issues Civil Liberties Direct Ballot Initiatives Education Gun Rights Health Care Immigration Licensing Reform Religious Liberty Spending Taxes I’m strongly in favor of having a free market healthcare system, and I’ve advocated free market healthcare policies as a state representative.
 In my opinion, our country hasn’t had a free market healthcare system for a long time.
 Even prior to Obamacare, there were far too many government controls and mandates within our nation’s healthcare system.
 When you look at graphs of the cost of healthcare and health insurance from the 1960’s to the current time, the cost of healthcare and health insurance has risen exponentially.
@@ -13,4 +13,4 @@ I believe this caused many APRN’s to choose to practice in states that allow i
 Often times when an APRN practiced under a physician in the past, the physician wouldn’t even be in the same county.
 The physician may have been located on the opposite side of the state, and the physician would simply check in with the APRN every few months.
 In many cases, APRN’s were already practicing independently in all reality, but now they will be able to practice without having to pay a monthly fee to a physician.
-I believe this will cause more APRN’s to move to Kansas, and this will greatly benefit rural healthcare.
+I believe this will cause more APRN’s to move to Kansas, and this will greatly benefit rural healthcare. © # Fairchild For Freedom Website Design by Atlas Marketing Solutions

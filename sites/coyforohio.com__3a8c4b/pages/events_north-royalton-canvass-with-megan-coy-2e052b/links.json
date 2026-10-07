@@ -1,13 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=North+Royalton+Canvass+with+Megan+Coy&dates=20260912T140000Z%2F20260912T150000Z&location=5071+Wallings+Road%2C+North+Royalton%2C+Ohio%2C+44133%2C+United+States",
-"http://maps.google.com/?q=5071+Wallings+Road+North+Royalton%2C+Ohio%2C+44133+United+States",
-"https://coyforohio.com/",
-"https://coyforohio.com/cart",
-"https://coyforohio.com/contact",
-"https://coyforohio.com/events",
-"https://coyforohio.com/events/joint-fundraiser-with-megan-coy-and-courtney-scheff",
-"https://coyforohio.com/events/megan-coys-birthday-fundraiser",
-"https://coyforohio.com/events/north-royalton-canvass-with-megan-coy?format=ical",
-"https://coyforohio.com/support",
-"https://docs.google.com/forms/d/e/1FAIpQLSdMMRZE8bNhyWmMM8gO56r_mjCSe0GJ_Bptz7QFFWrLtinImw/viewform?usp=header"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5071+wallings+road+north+royalton%2C+ohio%2C+44133+united+states"
+},
+{
+"text": "0",
+"href": "https://www.coyforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.coyforohio.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.coyforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=North+Royalton+Canvass+with+Megan+Coy&dates=20260912T140000Z%2F20260912T150000Z&location=5071+Wallings+Road%2C+North+Royalton%2C+Ohio%2C+44133%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.coyforohio.com/events/north-royalton-canvass-with-megan-coy?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.coyforohio.com/#issues"
+},
+{
+"text": "Meet Megan",
+"href": "https://www.coyforohio.com/#meetmegan"
+},
+{
+"text": "Next Next September 13 Joint Fundraiser with Megan Coy and Courtney Scheff",
+"href": "https://www.coyforohio.com/events/joint-fundraiser-with-megan-coy-and-courtney-scheff"
+},
+{
+"text": "Previous Previous September 10 Megan Coy's Birthday Fundraiser",
+"href": "https://www.coyforohio.com/events/megan-coys-birthday-fundraiser"
+},
+{
+"text": "Sign up here!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdMMRZE8bNhyWmMM8gO56r_mjCSe0GJ_Bptz7QFFWrLtinImw/viewform?usp=header"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.coyforohio.com/support"
+},
+{
+"text": "[image: Megan Coy]",
+"href": "https://www.coyforohio.com/"
+}
 ]

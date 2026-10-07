@@ -1,32 +1,138 @@
 [
-"http://facebook.com/collamoreforhouse",
-"http://instagram.com/collamoreforhouse",
-"https://collamoreforhouse.com/",
-"https://collamoreforhouse.com/blank",
-"https://collamoreforhouse.com/blank-1",
-"https://collamoreforhouse.com/blank-10",
-"https://collamoreforhouse.com/blank-2",
-"https://collamoreforhouse.com/blank-3",
-"https://collamoreforhouse.com/blog",
-"https://collamoreforhouse.com/event-details/brunch-at-the-voskians-in-bremen",
-"https://collamoreforhouse.com/event-details/coffee-with-clint-1",
-"https://collamoreforhouse.com/event-details/meet-greet-in-friendship",
-"https://collamoreforhouse.com/event-details/waldoboro-day-parade",
-"https://collamoreforhouse.com/event-list",
-"https://collamoreforhouse.com/post/clean-elections-apology",
-"https://collamoreforhouse.com/post/collamore-statement",
-"https://collamoreforhouse.com/post/how-to-help",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fbrunch-at-the-voskians-in-bremen&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fcoffee-with-clint-1&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fmeet-greet-in-friendship&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fwaldoboro-day-parade&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fbrunch-at-the-voskians-in-bremen",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fcoffee-with-clint-1",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fmeet-greet-in-friendship",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fwaldoboro-day-parade",
-"https://paypal.com/ncp/payment/HLRL7AJLNLXR8",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fbrunch-at-the-voskians-in-bremen&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fcoffee-with-clint-1&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fmeet-greet-in-friendship&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fwaldoboro-day-parade&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "Blog",
+"href": "https://www.collamoreforhouse.com/blog"
+},
+{
+"text": "Blog Posts",
+"href": "https://www.collamoreforhouse.com/blog"
+},
+{
+"text": "Clean Elections Apology",
+"href": "https://www.collamoreforhouse.com/post/clean-elections-apology"
+},
+{
+"text": "Collamore Statement",
+"href": "https://www.collamoreforhouse.com/post/collamore-statement"
+},
+{
+"text": "DETAILS",
+"href": "https://www.collamoreforhouse.com/event-details/brunch-at-the-voskians-in-bremen"
+},
+{
+"text": "DETAILS",
+"href": "https://www.collamoreforhouse.com/event-details/coffee-with-clint-1"
+},
+{
+"text": "DETAILS",
+"href": "https://www.collamoreforhouse.com/event-details/meet-greet-in-friendship"
+},
+{
+"text": "DETAILS",
+"href": "https://www.collamoreforhouse.com/event-details/waldoboro-day-parade"
+},
+{
+"text": "DONATE",
+"href": "https://www.paypal.com/ncp/payment/HLRL7AJLNLXR8"
+},
+{
+"text": "DONATE NOW",
+"href": "https://www.paypal.com/ncp/payment/HLRL7AJLNLXR8"
+},
+{
+"text": "Events",
+"href": "https://www.collamoreforhouse.com/event-list"
+},
+{
+"text": "Frequently Asked Questions",
+"href": "https://www.collamoreforhouse.com/blank-10"
+},
+{
+"text": "Home",
+"href": "https://www.collamoreforhouse.com"
+},
+{
+"text": "How to help!",
+"href": "https://www.collamoreforhouse.com/post/how-to-help"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.collamoreforhouse.com/blank"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.collamoreforhouse.com/blank-1"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.collamoreforhouse.com/blank-2"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.collamoreforhouse.com/blank-3"
+},
+{
+"text": "[image: Clint-Collamore-logo]",
+"href": "https://www.collamoreforhouse.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/collamoreforhouse"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/collamoreforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fbrunch-at-the-voskians-in-bremen&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fcoffee-with-clint-1&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fmeet-greet-in-friendship&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fwaldoboro-day-parade&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fbrunch-at-the-voskians-in-bremen&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fcoffee-with-clint-1&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fmeet-greet-in-friendship&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fwaldoboro-day-parade&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fbrunch-at-the-voskians-in-bremen"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fcoffee-with-clint-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fmeet-greet-in-friendship"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.collamoreforhouse.com%2Fevent-details%2Fwaldoboro-day-parade"
+},
+{
+"text": "[no text]",
+"href": "mailto:collamoreforhouse@gmail.com?subject=CC"
+}
 ]

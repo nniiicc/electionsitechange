@@ -1,15 +1,4 @@
-Home
-Meet Tiffany
-Issues
-Press
-Volunteer
-More
-Markets evolve with Tiffany's community vision
-Tiffany Welch named 40 Under 40 leader
-Tiffany Welch co-founds MRI Studios to train Baltimore youth in 21st Century tech careers
-"Five minutes with rising leader Tiffany Welch"
-Fresh at the Avenue transforms neighborhood
-Fresh foods tackle West Baltimore gap
-After unreset, a vow, no community left behind
-Community MVP: Media Rhythm Institute focuses on emerging artists
+top of page Home Meet Tiffany Issues Affordability Public Safety & Health Economic Development Neighborhood Investment Youth Opportunity Press Volunteer More Use tab to navigate through the menu items.
+DONATE Press Coverage That Reflects Commitment In her own words & interviews BALTIMORE SUN Markets evolve with Tiffany's community vision BALTIMORE BUSINESS JOURNAL Tiffany Welch named 40 Under 40 leader TECHNICAL.LY Tiffany Welch co-founds MRI Studios to train Baltimore youth in 21st Century tech careers BALTIMORE SUN "Five minutes with rising leader Tiffany Welch" YOUTUBE Fresh at the Avenue transforms neighborhood CAPITAL NEWS SERVICE Fresh foods tackle West Baltimore gap CHRISTIAN SCIENCE MONITOR After unreset, a vow, no community left behind WJZ Community MVP: Media Rhythm Institute focuses on emerging artists Stand with Tiffany!
 JOIN THE TEAM AND GET IN THE FIGHT!
+MAKE A CONTRIBUTION VOLUNTEER TO HELP By Authority: Friends of Tiffany Welch Brittany Warren, Treasurer bottom of page

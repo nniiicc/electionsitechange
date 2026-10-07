@@ -1,7 +1,9 @@
 {
  "description": "Contact the Andrea Anderson Campaign",
  "final_url": "https://andrealeeanderson.com/contact",
- "paid_for_by": null,
+ "fingerprint": "da35232d2e1fcf2590f81d4d0be7281b489654bf",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact the Andrea Anderson Campaign",
  "years_mentioned": []
 }

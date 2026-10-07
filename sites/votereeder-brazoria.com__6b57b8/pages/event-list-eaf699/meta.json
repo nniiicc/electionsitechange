@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.votereeder-brazoria.com/event-list",
- "paid_for_by": null,
+ "fingerprint": "2b4bb661dff9a75c1ab3417701645c2fcea8aa7b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "EVENTS | KARENREEDER",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

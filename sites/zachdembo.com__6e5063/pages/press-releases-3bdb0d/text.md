@@ -1,74 +1,87 @@
-Press Releases
-- Press Releases
-Multiple public polls continue to show momentum building behind Dembo Lexington, KY – Today, Navy veteran and 9th generation Kentuckian Zach Dembo released a poll showing he leads his opponent Ralph Alvarado by five points.
+Skip to content Menu X-twitter Threads Instagram Facebook Youtube DONATE Endorsed by Governor Andy Beshear, former Lexington mayor Jim Gray, veterans, and teachers Press Releases Press Releases Zach Dembo on the March & Race Raters are Taking Notice, Moving KY-06 in Dembo’s Direction October 5, 2026 Dembo set to post $1.35M+ for Q3 fundraising as polls show him in a lead and race raters move the race from “Likely Republican” to “Lean Republican” Lexington, KY – Last week, nonpartisan organization Inside Elections updated their rating for Kentucky’s 6th Congressional District from “Likely Republican” to “Lean Republican,”...
+Read More Press Releases BREAKING: New Poll Shows Zach Dembo Leading Ralph Alvarado by 5 Point Margin in KY-06 October 2, 2026 Multiple public polls continue to show momentum building behind Dembo Lexington, KY – Today, Navy veteran and 9th generation Kentuckian Zach Dembo released a poll showing he leads his opponent Ralph Alvarado by five points.
 The poll finds Dembo ahead of Alvarado 42% to 37%, with 11% voting third party....
-- Press Releases
-Multiple public polls show the race is all tied up Lexington, KY – Today, UVA Center for Politics’ Sabato’s Crystal Ball updated their rating for Kentucky’s 6th Congressional District from “Likely Republican” to “Lean Republican,” moving the likelihood of winning in Zach Dembo’s direction.
+Read More Press Releases BREAKING: Sabato’s Crystal Ball Moves KY-06 in Zach Dembo’s Direction from “Likely Republican” to “Lean Republican” September 29, 2026 Multiple public polls show the race is all tied up Lexington, KY – Today, UVA Center for Politics’ Sabato’s Crystal Ball updated their rating for Kentucky’s 6th Congressional District from “Likely Republican” to “Lean Republican,” moving the likelihood of winning in Zach Dembo’s direction.
 The ratings shift comes as multiple...
-FACT CHECK: We won’t let him.
+Read More Press Releases Alvarado desperately attempts to distance himself from right-hand man Matt Bevin September 28, 2026 FACT CHECK: We won’t let him.
 Alvarado was complicit in the worst of the disgraced ex-Governor’s actions.
 Lexington, KY – Today, the Republican Party of Kentucky and Ralph Alvarado released a statement claiming Matt Bevin’s running mate was against the controversial pardons.
 The only problem is no one can find...
-Lexington, KY – On Friday, former federal prosecutor and candidate for Kentucky’s 6th congressional district Zach Dembo released his third ad of the general election, highlighting Zach’s agenda to combat corruption and lower the cost of living.
+Read More Press Releases ICYMI: Dembo Up With Third General Election Ad September 28, 2026 Lexington, KY – On Friday, former federal prosecutor and candidate for Kentucky’s 6th congressional district Zach Dembo released his third ad of the general election, highlighting Zach’s agenda to combat corruption and lower the cost of living.
 WATCH “STILL AT IT” HERE.
 The light-hearted positive spot calls attention to Zach...
-- Press Releases
-Lexington, KY – The questions keep piling up for Ralph Alvarado.
+Read More Press Releases “No Comment”: Alvarado Wants to Represent Central Kentucky, But Won’t Answer the Tough Questions September 24, 2026 Lexington, KY – The questions keep piling up for Ralph Alvarado.
 A wave of bad press has raised questions about Alvarado’s record of corruption and his willingness to put himself ahead of the people of Central Kentucky.
-Now, with less than 50 days until Election Day, Alvarado continues to dodge...
-Lexington, KY – Last week, Navy veteran and candidate for Kentucky’s 6th congressional district Zach Dembo released his second ad of the general election, contrasting his record keeping Kentuckians safe with Alvarado’s record of playing politics – including remaining silent when Matt Bevin pardoned criminals.
+Now, with less than # days until Election Day, Alvarado continues to dodge...
+Read More Press Releases ICYMI: Zach Dembo Launches Second General Election Ad Drawing Contrast Between His Record Protecting Kentuckians and Ralph Alvarado’s Cowardice September 23, 2026 Lexington, KY – Last week, Navy veteran and candidate for Kentucky’s 6th congressional district Zach Dembo released his second ad of the general election, contrasting his record keeping Kentuckians safe with Alvarado’s record of playing politics – including remaining silent when Matt Bevin pardoned criminals.
 WATCH “STOOD BY” HERE.
 TRANSCRIPT:...
-- Press Releases
-Lexington, KY – Last week, Zach Dembo, whose family has farmed in Kentucky dating back seven generations, spoke out against greedy data center developers who try to pass off costs onto Central Kentuckians and pledged to stand up to Big Tech in Congress.
+Read More Press Releases Zach Dembo Speaks Out Against Greedy Data Center Developers, Calls Out Ralph Alvarado for Profiting Off Them September 21, 2026 Lexington, KY – Last week, Zach Dembo, whose family has farmed in Kentucky dating back seven generations, spoke out against greedy data center developers who try to pass off costs onto Central Kentuckians and pledged to stand up to Big Tech in Congress.
 Dembo released his position on data centers...
-- Press Releases
-Dembo will lower healthcare costs and safeguard Medicaid;Alvarado supports slashing money for Kentucky’s healthcare system and rural hospitals.
+Read More Press Releases Zach Dembo Rolls Out Plan to Lower Healthcare Costs, Hits Alvarado for Supporting Price Hikes September 17, 2026 Dembo will lower healthcare costs and safeguard Medicaid;Alvarado supports slashing money for Kentucky’s healthcare system and rural hospitals.
 PARIS, KY – Today, Navy veteran and candidate for Congress Zach Dembo, former Kentucky Governor Steve Beshear, health care professionals, and Central Kentuckians held a press conference in Bourbon County, where Dembo...
-- Press Releases
-Dembo will fight to lower diesel prices for working families and struggling farmers.
+Read More Press Releases 200 Days Later, Navy Veteran Zach Dembo Yet Again Calls on Alvarado to Denounce War In Iran September 16, 2026 Dembo will fight to lower diesel prices for working families and struggling farmers.
 Alvarado “fully support[s] and applaud[s]” Iran War LEXINGTON, KY – Today, 200 days since the start of this reckless war in Iran that has cost American servicemembers’ lives and raised prices for Kentucky families, Democratic nominee for...
-Dembo challenges former Bevin running mate to two televised debates as polls show a tied race Lexington, KY – Today, prosecutor Zach Dembo’s campaign is issuing a formal challenge to his opponent Ralph Alvarado to participate in two televised debates ahead of the general election on November 3.
+Read More Press Releases Zach Dembo Challenges Ralph Alvarado To Two Televised Debates With WKYT and KET September 8, 2026 Dembo challenges former Bevin running mate to two televised debates as polls show a tied race Lexington, KY – Today, prosecutor Zach Dembo’s campaign is issuing a formal challenge to his opponent Ralph Alvarado to participate in two televised debates ahead of the general election on November 3.
 The challenge...
-- Press Releases
-Six-figure buy spotlights Zach’s service to country over party as a Navy veteran and federal prosecutor as polls show a tied race in KY-06 Lexington, KY – Today, Navy veteran and former prosecutor Zach Dembo announced a six-figure TV and digital ad buy focused on how he’ll put country over...
-- Press Releases
-Dembo is a former prosecutor who has locked up violent criminals; Alvarado is attached at the hip to behind-bars Bevin Lexington, KY – Yesterday, former Governor Matt Bevin was booked into jail after being arrested in Bourbon County.
+Read More Press Releases Zach Dembo Launches First General Election TV Ad Pledging to Go After Corruption in Both Parties September 8, 2026 Six-figure buy spotlights Zach’s service to country over party as a Navy veteran and federal prosecutor as polls show a tied race in KY-06 Lexington, KY – Today, Navy veteran and former prosecutor Zach Dembo announced a six-figure TV and digital ad buy focused on how he’ll put country over...
+Read More Press Releases Release: Zach Dembo Statement on Ralph Alvarado’s Running Mate Former Governor Matt Bevin’s Arrest September 4, 2026 Dembo is a former prosecutor who has locked up violent criminals; Alvarado is attached at the hip to behind-bars Bevin Lexington, KY – Yesterday, former Governor Matt Bevin was booked into jail after being arrested in Bourbon County.
 Bevin – who Ralph Alvarado ran alongside as his 2019 gubernatorial running...
-Dembo will fight to spend money here at home, not on reckless wars overseas.
+Read More Press Releases Six Months Later, Navy Veteran Zach Dembo Calls on Alvarado to Denounce War In Iran August 28, 2026 Dembo will fight to spend money here at home, not on reckless wars overseas.
 Alvarado will be a lapdog for his political party.
 LEXINGTON, KY – Today, on the six month anniversary of the reckless war in Iran that has cost American servicemembers’ lives and raised prices for Kentucky families,...
-Republican Nominee Scrubs Mentions of President From Website as Polls Show Him Tied with Democrat Zach Dembo LEXINGTON, KY – Today, NBC News reported that Ralph Alvarado, the Republican nominee for Kentucky’s 6th congressional district, has scrubbed his campaign website as he scrambles to try and paper over his real record.
+Read More Press Releases Alvarado’s Latest Bait-and-Switch: Use Trump to Win Primary, Then Erase Him August 25, 2026 Republican Nominee Scrubs Mentions of President From Website as Polls Show Him Tied with Democrat Zach Dembo LEXINGTON, KY – Today, NBC News reported that Ralph Alvarado, the Republican nominee for Kentucky’s 6th congressional district, has scrubbed his campaign website as he scrambles to try and paper over his real record.
 NBC News reports that “Ralph...
-- Press Releases
-Lexington, KY – Earlier today, prosecutor and Democratic nominee for Kentucky’s 6th congressional district Zach Dembo unveiled a sweeping anti-corruption platform in a packed room of union members, law enforcement, and supporters of his campaign.
+Read More Press Releases PHOTO RELEASE: At Lexington Union Hall, Zach Dembo Unveils Anti-Corruption Platform to Clean Up Washington August 25, 2026 Lexington, KY – Earlier today, prosecutor and Democratic nominee for Kentucky’s 6th congressional district Zach Dembo unveiled a sweeping anti-corruption platform in a packed room of union members, law enforcement, and supporters of his campaign.
 The platform addresses some of the root causes of rising costs for working families: a...
-Ratings shift comes as public polling shows the race is tied LEXINGTON, KY – Yesterday, nonpartisan race rater Inside Elections moved the congressional race for KY-06 in former federal prosecutor Zach Dembo’s direction, citing strong polling and a favorable political environment for Democrats.
+Read More Press Releases Inside Elections Moves KY-06 Race Rating in Zach Dembo’s Direction August 21, 2026 Ratings shift comes as public polling shows the race is tied LEXINGTON, KY – Yesterday, nonpartisan race rater Inside Elections moved the congressional race for KY-06 in former federal prosecutor Zach Dembo’s direction, citing strong polling and a favorable political environment for Democrats.
 Inside Elections shifted their rating from Solid...
-Latest sign of momentum behind Dembo’s campaign comes as public polling shows the race tied up LEXINGTON, KY – This morning, the Democratic Congressional Campaign Committee (DCCC) added ninth generation Kentuckian, Navy JAG veteran, former federal prosecutor, and Democratic nominee for Kentucky’s 6th congressional district Zach Dembo to their Red to...
-COOK: “Dembo, a former federal prosecutor and Navy veteran, has demonstrated that he’s capable of running a strong campaign… this could turn into a competitive race” LEXINGTON, KY – Earlier today, non-partisan race rater Cook Political Report moved the congressional race for KY-06 in former federal prosecutor Zach Dembo’s direction, citing the strength...
-Today, Inside Elections wrote about a new poll that came out showing the race for Kentucky’s open 6th congressional seat statistically tied.
+Read More Press Releases Zach Dembo added to DCCC Red to Blue List August 20, 2026 Latest sign of momentum behind Dembo’s campaign comes as public polling shows the race tied up LEXINGTON, KY – This morning, the Democratic Congressional Campaign Committee (DCCC) added ninth generation Kentuckian, Navy JAG veteran, former federal prosecutor, and Democratic nominee for Kentucky’s 6th congressional district Zach Dembo to their Red to...
+Read More Press Releases RELEASE: Cook Political Report Moves KY-06 Race Rating in Zach Dembo’s Direction July 16, 2026 COOK: “Dembo, a former federal prosecutor and Navy veteran, has demonstrated that he’s capable of running a strong campaign… this could turn into a competitive race” LEXINGTON, KY – Earlier today, non-partisan race rater Cook Political Report moved the congressional race for KY-06 in former federal prosecutor Zach Dembo’s direction, citing the strength...
+Read More Press Releases ICYMI: INSIDE ELECTIONS – Kentucky 6: New Poll Fuels Democratic Optimism July 10, 2026 Today, Inside Elections wrote about a new poll that came out showing the race for Kentucky’s open 6th congressional seat statistically tied.
 Inside Elections – Kentucky 6: New Poll Fuels Democratic OptimismBy Inshara AliJuly 10, 2026 “GOP former state Sen.
 Ralph Alvarado led Democratic military veteran Zach Dembo 42-39 percent in a...
-- Press Releases
-Lexington, KY – This afternoon, Kentucky Governor Andy Beshear has endorsed Zach Dembo for Congress.
+Read More Press Releases Former Prosecutor Zach Dembo Continues Fundraising Surge, Hauls in More Than $625K in Q2 As Momentum Grows July 9, 2026 Dembo enters the general election with a healthy warchest Lexington, KY – Today, former prosecutor and Navy veteran Zach Dembo announced that his campaign raised over $625,000 last quarter, the highest quarterly total publicly reported yet in Kentucky’s 6th congressional district this cycle and more than double his highest, and...
+Read More Press Releases Gov.
+Andy Beshear Endorses Democratic nominee Zach Dembo for Congress May 26, 2026 Lexington, KY – This afternoon, Kentucky Governor Andy Beshear has endorsed Zach Dembo for Congress.
 “I got to work closely with Zach Dembo when he was in my administration and I assure you he’s the kind of person that will lead with conviction, character, and competence,” Governor Beshear said.
 “As...
-Dembo – Political newcomer, Former DOJ Prosecutor & Navy JAG – Easily Clinches Nomination Dembo: I’m Ready to Root Out Corruption & Make DC Work for Kentucky LEXINGTON, KY – Tonight, former DOJ prosecutor and Navy JAG officer Zach Dembo declared victory in the Democratic primary for Kentucky’s open 6th...
-Lexington, KY – This morning, Serve America just announced that they have endorsed Zach Dembo for the Democratic nomination in Kentucky’s open 6th congressional district.
+Read More Press Releases Zach Dembo Declares Victory In KY-06 Democratic Primary May 19, 2026 Dembo – Political newcomer, Former DOJ Prosecutor & Navy JAG – Easily Clinches Nomination Dembo: I’m Ready to Root Out Corruption & Make DC Work for Kentucky LEXINGTON, KY – Tonight, former DOJ prosecutor and Navy JAG officer Zach Dembo declared victory in the Democratic primary for Kentucky’s open 6th...
+Read More Press Releases Serve America Endorses Zach Dembo for Congress May 15, 2026 Lexington, KY – This morning, Serve America just announced that they have endorsed Zach Dembo for the Democratic nomination in Kentucky’s open 6th congressional district.
 Serve America is an organization that supports Democratic public servants who run for office started by Rep.
 Seth Moulton (MA-06).
 They join a growing coalition...
-Last Democrat to represent Central Kentucky in Congress says Zach is ‘our best shot’ at electing a Democrat to once again represent the district Lexington, KY – Today, in a press event at the campaign team’s HQ, former Kentucky Sixth Congressional District Congressman Ben Chandler announced his full support of...
-- Press Releases
-Lexington, KY – POLITICO Playbook just reported a new poll showing Zach Dembo to be the most viable candidate in a general election match-up against Ralph Alvarado or Ryan Dotson in the race for Kentucky’s open Sixth Congressional seat.
+Read More Press Releases Former Congressman Ben Chandler Endorses Zach Dembo for Congress May 13, 2026 Last Democrat to represent Central Kentucky in Congress says Zach is ‘our best shot’ at electing a Democrat to once again represent the district Lexington, KY – Today, in a press event at the campaign team’s HQ, former Kentucky Sixth Congressional District Congressman Ben Chandler announced his full support of...
+Read More Press Releases New General Election Poll Shows Zach Dembo Is Democrats’ Best Option To Flip Central Kentucky Congressional Seat May 12, 2026 Lexington, KY – POLITICO Playbook just reported a new poll showing Zach Dembo to be the most viable candidate in a general election match-up against Ralph Alvarado or Ryan Dotson in the race for Kentucky’s open Sixth Congressional seat.
 Zach is already tied with presumptive Republican Ralph Alvarado and beating...
-Today, the Lexington Herald-Leader’s editorial board endorsed Zach Dembo in his race for Kentucky’s 6th congressional district left vacant by Rep.
+Read More Press Releases ICYMI: Lexington Herald-Leader Endorses Zach Dembo for Congress May 11, 2026 Today, the Lexington Herald-Leader’s editorial board endorsed Zach Dembo in his race for Kentucky’s 6th congressional district left vacant by Rep.
 Andy Barr.
 Momentum is on Dembo’s side.
 In addition to this major endorsement, Dembo has secured several key endorsements in the past few weeks, including Foreign Policy for America,...
-Lexington, KY – Today, the National Education Association (NEA) has officially announced their endorsement of Democratic candidate Zach Dembo ahead of the May 19th primary.
+Read More Press Releases NEA Endorses Zach Dembo in KY-06 Primary May 5, 2026 Lexington, KY – Today, the National Education Association (NEA) has officially announced their endorsement of Democratic candidate Zach Dembo ahead of the May 19th primary.
 The NEA represents teachers and public employees in schools all over the country and is the largest union in America.
 Kentucky’s NEA affiliate, the Kentucky...
-Former Lexington Mayor and KY Transportation Sec. says Zach is ‘our best shot’ at flipping the Sixth Congressional District blue Lexington, KY – Wednesday morning, Jim Gray endorsed and announced his full support for Zach Dembo for Kentucky’s 6th congressional district.
-“I’m endorsing Zach because Central Kentuckians deserve a representative...
+Read More Let's Go!
+First Name Last Name Email Cell Phone Zip Code Let's Go!
+X-twitter Threads Instagram Facebook Youtube Press Releases Press Inquiries Volunteer Donate Media Press Releases Press Inquiries Volunteer Donate Media Press Releases Press Inquiries Volunteer Donate Media Press Releases Press Inquiries Volunteer Donate Media X-twitter Threads Instagram Facebook Youtube By providing your cell phone number you consent to receive recurring updates from Zach Dembo for Congress, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy Policy.
+Contact The Campaign [email protected] For press inquiries, please email [email protected] .
+Contributions Can Be Mailed To: Zach Dembo for Congress PO Box 23247 Lexington, KY 40523 Paid for by ZACH DEMBO for Congress.
+ZACH SERVED ON ACTIVE DUTY IN THE U.S.
+NAVY.
+USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE.
+Copyright # Zach Dembo for Congress.
+All rights reserved.
+Privacy Policy.
+Press Releases Press Inquiries Volunteer Donate Media Press Releases Press Inquiries Volunteer Donate Media Press Releases Press Inquiries Volunteer Donate Media Press Releases Press Inquiries Volunteer Donate Media X-twitter Threads Instagram By providing your cell phone number you consent to receive recurring updates from Zach Dembo for Congress, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Contact The Campaign: [email protected] (859) 469 - 6339 Contributions Can Be Mailed To: Zach Dembo for Congress PO Box 23247 Lexington, KY 40523 Paid for by ZACH DEMBO for Congress.
+ZACH SERVED ON ACTIVE DUTY IN THE U.S.
+NAVY.
+USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE.
+Copyright # Zach Dembo for Congress.
+All rights reserved.
+Bio Priorities Endorsements Press Releases Anti-Corruption Plan Store Volunteer Bio Priorities Endorsements Press Releases Anti-Corruption Plan Store Volunteer X-twitter Threads Instagram DONATE ONLINE Close Menu

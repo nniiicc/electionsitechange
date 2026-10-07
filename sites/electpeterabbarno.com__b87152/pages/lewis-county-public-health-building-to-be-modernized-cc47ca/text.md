@@ -1,4 +1,6 @@
-The Lewis County Public Health and Social Services building in Chehalis has long been in need of an upgrade.
+Stronger Families.
+Stronger Communities.
+Stronger Washington ABOUT ISSUES NEWS LEGISLATURE VOTER INFO BLOG DONATE Follow Follow Follow In the Chronicle The Lewis County Public Health and Social Services building in Chehalis has long been in need of an upgrade.
 Soon, it will get one thanks to a $1.5 million direct allocation from the state’s 2026 supplemental capital budget secured in large part by state Rep.
 Peter Abbarno, R-Chehalis.
 The 19,000-square-foot building completed in 1953 is well on its way to having a full heating, ventilation and air conditioning (HVAC) system for the first time ever.
@@ -6,16 +8,13 @@ Lewis County Facilities Administrator Matt Patana led a small tour through the b
 The project, which is still in the planning stages, will allow the county to move from a boiler and radiator heating system to a more traditional HVAC system mounted on the roof of the building.
 According to Patana, the county is currently working with a contractor to figure out exactly what kind of system to use in order to lower construction costs and make the new system as energy efficient as possible.
 “Pretty excited about what’s possible,” Patana said.
-“And hopeful that that we can have some redundancies so that if there are any failures, you know, we don’t have a single unit like we have right now.”
-According to Patana, the county hopes to put the engineering portion of the project out to bid in roughly two months.
+“And hopeful that that we can have some redundancies so that if there are any failures, you know, we don’t have a single unit like we have right now.” According to Patana, the county hopes to put the engineering portion of the project out to bid in roughly two months.
 In pursuit of saving some money, the county plans to pair the engineering for the project with some work on the heating and cooling system at the nearby Lewis County Law and Justice Center.
 He hopes the project will be completed sometime next year and well within budget.
 Because the project is funded with a direct allocation from the state, any leftover dollars could be reallocated for other related projects.
-“If it comes in under or you have to change the scope of the project because of some contingency,” Abbarno said, “this gives you a little bit more flexibility to call my office and be like, ‘Hey, we’ve got some changes here.’”
-The tour offered a chance to give Abbarno a closer look at a project he advocated for in the state Legislature last year after county staff called out the issue during a legislative roundtable meeting ahead of the state’s 2026 short legislative session.
+“If it comes in under or you have to change the scope of the project because of some contingency,” Abbarno said, “this gives you a little bit more flexibility to call my office and be like, ‘Hey, we’ve got some changes here.’” The tour offered a chance to give Abbarno a closer look at a project he advocated for in the state Legislature last year after county staff called out the issue during a legislative roundtable meeting ahead of the state’s 2026 short legislative session.
 “What’s really nice about this project was I didn’t even know this was on your radar until you guys brought it up at the legislative forum,” Abbarno said.
-“Sometimes people say ‘why do you have these legislative round tables before you go to session?’ Perfect example, right?”
-The Lewis County Public Health and Social Services Building currently relies on a boiler located in the basement of the building that pumps hot water through radiators throughout all three floors.
+“Sometimes people say ‘why do you have these legislative round tables before you go to session?’ Perfect example, right?” The Lewis County Public Health and Social Services Building currently relies on a boiler located in the basement of the building that pumps hot water through radiators throughout all three floors.
 For air conditioning in the summer, the building relies on small window units.
 With the new system, that boiler will remain as a water heater for normal water use, but all heating and cooling will transition to a new system.
 County officials hope that it will result in significant savings in the future both in maintenance and energy efficiency for the building.
@@ -31,4 +30,18 @@ The county is soon to renew work on the brick building on Northwest Chehalis Ave
 The county originally purchased the building back in 2020.
 It had most recently been occupied by DB Cooper Appliances.
 After completing some of the necessary structural work, the project stalled out around the same time as lockdowns related to the COVID-19 pandemic swept the nation.
-According to Patana, the county expects to move forward with the renovation of the building soon, using capital facilities funding coming from the sale of an old county public works building.
+According to Patana, the county expects to move forward with the renovation of the building soon, using capital facilities funding coming from the sale of an old county public works building. ← Previous Article Most Recent Posts Making Home Energy Improvements Work Better for Washington Communities Aug 27, 2026 | Blog For many Washington families, particularly those living in older homes and rural communities, energy efficiency isn't an abstract policy issue.
+It can mean a warmer home in the winter, lower monthly utility bills, needed home repairs, and a safer and healthier place...
+Protecting Washington’s Working Lands and Strengthening Rural Communities Aug 27, 2026 | Blog Washington’s farms, forests, rivers, and working lands are part of what makes our state special.
+They also support thousands of jobs, produce food and timber, protect habitat and water quality, and sustain rural communities across our state.
+As Assistant Ranking...
+Vote Early.
+Vote Proud.
+Help Build a Stronger Washington.
+Jul 9, 2026 | Uncategorized Every election matters, but the 2026 Primary Election is especially important for the future of our communities and our state.
+The choices we make today help determine the direction of Washington tomorrow.
+If we want Stronger Families.
+Stronger Communities.
+Stronger...
+Stay up to date on the lastest news from Olympia.
+Get Peter's Newsletter Paid for by the committee to elect Peter Abbarno | Designed by The Silver Agency English Español ( Spanish )

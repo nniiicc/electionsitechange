@@ -1,17 +1,70 @@
 [
-"https://facebook.com/profile.php?id=61582333057293",
-"https://instagram.com/timforhouse114",
-"https://secure.winred.com/tim-for-house-campaign/donate-today",
-"https://timforhouse.com/",
-"https://timforhouse.com/about",
-"https://timforhouse.com/articles",
-"https://timforhouse.com/category/media",
-"https://timforhouse.com/contact",
-"https://timforhouse.com/es/category/media",
-"https://timforhouse.com/issues",
-"https://timforhouse.com/join-the-campaign",
-"https://timforhouse.com/privacy-policy",
-"https://timforhouse.com/terms-condition",
-"https://timforhouse.com/tim-mcdonough-joins-mark-davis-to-discuss-ai-property-taxes-and-the-fight-for-hd-114",
-"https://x.com/timforhouse"
+{
+"text": "About",
+"href": "https://timforhouse.com/about/"
+},
+{
+"text": "Articles",
+"href": "https://timforhouse.com/articles/"
+},
+{
+"text": "Contact",
+"href": "https://timforhouse.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/tim-for-house-campaign/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61582333057293"
+},
+{
+"text": "Home",
+"href": "https://timforhouse.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/timforhouse114/"
+},
+{
+"text": "Issues",
+"href": "https://timforhouse.com/issues/"
+},
+{
+"text": "Join The Campaign",
+"href": "https://timforhouse.com/join-the-campaign/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://timforhouse.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://timforhouse.com/terms-condition"
+},
+{
+"text": "Tim McDonough Joins Mark Davis to Discuss AI, Property Taxes, and the Fight for HD-114",
+"href": "https://timforhouse.com/tim-mcdonough-joins-mark-davis-to-discuss-ai-property-taxes-and-the-fight-for-hd-114/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/timforhouse"
+},
+{
+"text": "[image]",
+"href": "https://timforhouse.com"
+},
+{
+"text": "[image]",
+"href": "https://timforhouse.com/tim-mcdonough-joins-mark-davis-to-discuss-ai-property-taxes-and-the-fight-for-hd-114/"
+},
+{
+"text": "[image]EN",
+"href": "https://timforhouse.com/category/media/"
+},
+{
+"text": "[image]ES",
+"href": "https://timforhouse.com/es/category/media/"
+}
 ]

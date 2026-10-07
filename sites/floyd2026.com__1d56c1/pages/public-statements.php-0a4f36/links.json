@@ -1,35 +1,138 @@
 [
-"https://floyd2026.com/",
-"https://floyd2026.com/SMS/subscribe.php",
-"https://floyd2026.com/about.php",
-"https://floyd2026.com/app.php",
-"https://floyd2026.com/beliefs.php",
-"https://floyd2026.com/calendar.php",
-"https://floyd2026.com/contact.php",
-"https://floyd2026.com/docs/The_Accidental_Congressman.pdf",
-"https://floyd2026.com/donate.php",
-"https://floyd2026.com/faq.php",
-"https://floyd2026.com/finances.php",
-"https://floyd2026.com/images/poster-1-back.png",
-"https://floyd2026.com/issues.php",
-"https://floyd2026.com/legislate.php",
-"https://floyd2026.com/privacy.php",
-"https://floyd2026.com/pub-statements/Candidate_Floyd_Taylor_Clip_09_25_2025.mp4",
-"https://floyd2026.com/pub-statements/announce1.php",
-"https://floyd2026.com/pub-statements/announce2.php",
-"https://floyd2026.com/pub-statements/different.php",
-"https://floyd2026.com/pub-statements/followthemoney.php",
-"https://floyd2026.com/pub-statements/imagine.php",
-"https://floyd2026.com/pub-statements/independent.php",
-"https://floyd2026.com/pub-statements/my-party.php",
-"https://floyd2026.com/pub-statements/open-letter.php",
-"https://floyd2026.com/pub-statements/rbf.php",
-"https://floyd2026.com/pub-statements/sincefdr.php",
-"https://floyd2026.com/pub-statements/splitting.php",
-"https://floyd2026.com/pub-statements/statement-of-intent.php",
-"https://floyd2026.com/pub-statements/whyiamrunning.php",
-"https://floyd2026.com/public-statements.php",
-"https://floyd2026.com/scoreboard.php",
-"https://floyd2026.com/tos.php",
-"https://floyd2026.com/volunteer.php"
+{
+"text": "About",
+"href": "https://floyd2026.com/about.php"
+},
+{
+"text": "An Open Letter to Erin and Tim",
+"href": "https://floyd2026.com/pub-statements/open-letter.php"
+},
+{
+"text": "Beliefs",
+"href": "https://floyd2026.com/beliefs.php"
+},
+{
+"text": "Calendar",
+"href": "https://floyd2026.com/calendar.php"
+},
+{
+"text": "Campaign Rally Post",
+"href": "https://floyd2026.com/pub-statements/announce2.php"
+},
+{
+"text": "Campaign Video Statement",
+"href": "https://floyd2026.com/pub-statements/Candidate_Floyd_Taylor_Clip_09_25_2025.mp4"
+},
+{
+"text": "Community Scoreboard",
+"href": "https://floyd2026.com/scoreboard.php"
+},
+{
+"text": "Contact",
+"href": "https://floyd2026.com/contact.php"
+},
+{
+"text": "Donate",
+"href": "https://floyd2026.com/donate.php"
+},
+{
+"text": "Draft Legislation",
+"href": "https://floyd2026.com/legislate.php"
+},
+{
+"text": "FAQ",
+"href": "https://floyd2026.com/faq.php"
+},
+{
+"text": "Finance",
+"href": "https://floyd2026.com/finances.php"
+},
+{
+"text": "Floyd 2026 “A name you think you might know… but a leader you’ll never forget.” [image: Floyd Taylor headshot]",
+"href": "https://floyd2026.com/"
+},
+{
+"text": "Floyd Taylor for Congress Poster",
+"href": "https://floyd2026.com/images/poster-1-back.png"
+},
+{
+"text": "Follow The Money",
+"href": "https://floyd2026.com/pub-statements/followthemoney.php"
+},
+{
+"text": "He is secretly one of *them*",
+"href": "https://floyd2026.com/pub-statements/independent.php"
+},
+{
+"text": "Home",
+"href": "https://floyd2026.com/"
+},
+{
+"text": "Imagine..",
+"href": "https://floyd2026.com/pub-statements/imagine.php"
+},
+{
+"text": "Initial Press Release",
+"href": "https://floyd2026.com/pub-statements/announce1.php"
+},
+{
+"text": "Issues",
+"href": "https://floyd2026.com/issues.php"
+},
+{
+"text": "Most Dangerous Candidate Since FDR",
+"href": "https://floyd2026.com/pub-statements/sincefdr.php"
+},
+{
+"text": "My Party",
+"href": "https://floyd2026.com/pub-statements/my-party.php"
+},
+{
+"text": "Privacy Policy",
+"href": "https://floyd2026.com/privacy.php"
+},
+{
+"text": "Public/Press Statements",
+"href": "https://floyd2026.com/public-statements.php"
+},
+{
+"text": "RBF?",
+"href": "https://floyd2026.com/pub-statements/rbf.php"
+},
+{
+"text": "Splitting the Vote",
+"href": "https://floyd2026.com/pub-statements/splitting.php"
+},
+{
+"text": "Statement of Intent",
+"href": "https://floyd2026.com/pub-statements/statement-of-intent.php"
+},
+{
+"text": "Subscribe to SMS updates",
+"href": "https://floyd2026.com/SMS/subscribe.php"
+},
+{
+"text": "Terms of Service",
+"href": "https://floyd2026.com/tos.php"
+},
+{
+"text": "The Accidental Congressman (A work of Fiction)",
+"href": "https://floyd2026.com/docs/The_Accidental_Congressman.pdf"
+},
+{
+"text": "The Congress App",
+"href": "https://floyd2026.com/app.php"
+},
+{
+"text": "Volunteer",
+"href": "https://floyd2026.com/volunteer.php"
+},
+{
+"text": "Why I am running for Congress",
+"href": "https://floyd2026.com/pub-statements/whyiamrunning.php"
+},
+{
+"text": "Why This Campaign Is Fundamentally Different",
+"href": "https://floyd2026.com/pub-statements/different.php"
+}
 ]

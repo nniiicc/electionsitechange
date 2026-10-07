@@ -1,5 +1,4 @@
-Engel's Unethical Conduct Exposed
-TUCSON – Congressman Juan Ciscomani’s campaign has launched a new ad titled "Wrong," highlighting Kirsten Engel’s record of violating the public trust.
+DONATE DONATE 635ms 0vh 0 Skip to Content Meet Juan News Media Kit Results Endorsements Connect English Donate Open Menu Close Menu English Donate Meet Juan News Media Kit Results Endorsements Connect Open Menu Close Menu Meet Juan News Media Kit Results Endorsements Connect English Back Donate Engel's Unethical Conduct Exposed Oct 16 Written By Blake Wilson TUCSON – Congressman Juan Ciscomani’s campaign has launched a new ad titled "Wrong," highlighting Kirsten Engel’s record of violating the public trust.
 Engel’s dishonest and unethical conduct reflect everything wrong with politics today.
 Engel has a documented history of overbilling taxpayers and being reprimanded by the courts for violating public trust.
 Arizona’s 6th Congressional District simply cannot afford Engel’s tax-raising agenda and lack of integrity.
@@ -8,16 +7,18 @@ His focus has always been on making life better for the people he serves, ensuri
 "The contrast in this campaign could not be sharper," said Congressman Ciscomani.
 "Kirsten Engel’s unethical behavior and support for harmful policies like higher taxes are exactly the kind of politics Arizonans are tired of.
 I’m proud of my track record of delivering bipartisan solutions that protect our community, lower costs, and create jobs.
-Engel’s deceitful attacks won’t change the fact that the voters – the members of this incredible community – know who has their backs."
-Wrong | Ciscomani for Congress
-Script –
-I teach my kids about doing the right thing.
-When I see Kirsten Engel’s false attacks on Juan Ciscomani,
-I see everything wrong with politicians these days.
+Engel’s deceitful attacks won’t change the fact that the voters – the members of this incredible community – know who has their backs." Wrong | Ciscomani for Congress Script – I teach my kids about doing the right thing.
+When I see Kirsten Engel’s false attacks on Juan Ciscomani, I see everything wrong with politicians these days.
 Kirsten Engel overbilled taxpayers and got slapped down by the courts.
 The judges called it a violation of trust.
 And now Engel wants to raise our taxes.
 We just can’t trust her.
 I know Juan Ciscomani – he’s honest, and he lives up to his word.
 Character matters, and that’s why I’m supporting Juan.
-Juan Ciscomani: "I’m Juan Ciscomani, and I approve this message."
+Juan Ciscomani: "I’m Juan Ciscomani, and I approve this message." Blake Wilson Previous Previous MEDIA ADVISORY: Ciscomani Election Day Events and Evening Watch Party Next Next New Ad "Can't Afford" Released by Ciscomani Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Sign up today for the latest updates from Juan.
+First Name Last Name Email Address Sign Up Thank you!
+520-222-6874 P.O.
+Box 35103 Tucson, AZ 85740 info@juanciscomani.com Privacy Policy Media © Copyright #.
+All rights reserved.

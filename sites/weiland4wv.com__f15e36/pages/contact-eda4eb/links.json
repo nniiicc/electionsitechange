@@ -1,12 +1,42 @@
 [
-"http://weiland4wv.com/",
-"https://facebook.com/KatWeiland4WV",
-"https://instagram.com/kat.weiland.for.wv.house",
-"https://tiktok.com/@kat.weiland.for.wv.house",
-"https://weiland4wv.com/",
-"https://weiland4wv.com/about-2",
-"https://weiland4wv.com/contact",
-"https://weiland4wv.com/donate",
-"https://weiland4wv.com/get-involved-2",
-"https://x.com/KatWeiland4WV"
+{
+"text": "About",
+"href": "https://weiland4wv.com/about-2/"
+},
+{
+"text": "Contact",
+"href": "https://weiland4wv.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://weiland4wv.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/KatWeiland4WV"
+},
+{
+"text": "Get Involved",
+"href": "https://weiland4wv.com/get-involved-2/"
+},
+{
+"text": "HOME",
+"href": "http://www.weiland4wv.com"
+},
+{
+"text": "Home",
+"href": "https://weiland4wv.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/kat.weiland.for.wv.house/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@kat.weiland.for.wv.house"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/KatWeiland4WV"
+}
 ]

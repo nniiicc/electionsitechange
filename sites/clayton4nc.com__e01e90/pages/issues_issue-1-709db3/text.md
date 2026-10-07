@@ -1,6 +1,4 @@
-David Clayton believes in
-Homeless Veterans
-Click Here For The Character by Integrity Act
-My Character by Integrity Act outlines a housing initiative for unhoused families and U.S. military veterans that improves the housing market while reducing taxpayer contributions.
+Skip navigation menu Home About Issues Events Volunteer Contact Donate Home About Issues Events Volunteer Contact Donate Homeless Veterans The Social Security, Medicaid, & Medicare Protections Act The Patient Priority Act No Stock Trades For Elected Officials National Conflict of Interest Bill Incumbent Representative Campaign Reform Congressional Wage / Minimum Wage Reciprocity Act The Policing Wellness Act The Due Process Act Zero Kings Act David Clayton believes in Homeless Veterans Click Here For The Character by Integrity Act My Character by Integrity Act outlines a housing initiative for unhoused families and U.S. military veterans that improves the housing market while reducing taxpayer contributions.
 It specifies costs associated with incarceration and homelessness, proposes tax cuts to stimulate home ownership, and details program requirements, including employment for tenants and conditions for using privately owned homes.
 The initiative emphasizes increasing property values and managing homelessness through targeted support for specific populations.
+Stronger Together & Together Stronger Powered by RUN! website builder Paid for by Clayton4Congress You need to enable JavaScript to run this app.

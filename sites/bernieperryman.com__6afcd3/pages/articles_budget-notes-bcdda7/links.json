@@ -1,32 +1,126 @@
 [
-"http://house.leg.state.mn.us/fiscal/issuebriefs.asp",
-"http://house.leg.state.mn.us/hinfo/nlreleases.htm",
-"http://house.leg.state.mn.us/hinfo/publications.htm",
-"http://house.leg.state.mn.us/newlaws",
-"http://house.leg.state.mn.us/sessiondaily",
-"https://bernieperryman.com/",
-"https://bernieperryman.com/about",
-"https://bernieperryman.com/articles",
-"https://bernieperryman.com/audio-ad-transcripts",
-"https://bernieperryman.com/bills",
-"https://bernieperryman.com/contact",
-"https://bernieperryman.com/donate",
-"https://bernieperryman.com/events",
-"https://bernieperryman.com/photos",
-"https://bernieperryman.com/priorities-survey",
-"https://bernieperryman.com/voting",
-"https://facebook.com/RepBerniePerryman",
-"https://facebook.com/bernieforsenate",
-"https://flickr.com/photos/196266196@N04/with/54942125272",
-"https://house.leg.state.mn.us/hrd/hrd.aspx",
-"https://house.leg.state.mn.us/live/1",
-"https://house.mn.gov/members/profile/15599",
-"https://house.mn.gov/members/profile/news/15599/50281",
-"https://instagram.com/bernieforsenate",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1973&y=2025&ssn=0",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF2229&y=2025&ssn=0",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF286&y=2025&ssn=0",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF320&y=2025&ssn=0",
-"https://x.com/bernieforsenate",
-"https://youtube.com/@BerniePerryman"
+{
+"text": "About",
+"href": "https://bernieperryman.com/about/"
+},
+{
+"text": "Articles",
+"href": "https://bernieperryman.com/articles/"
+},
+{
+"text": "Audio Ad Transcripts",
+"href": "https://bernieperryman.com/audio-ad-transcripts/"
+},
+{
+"text": "Bills",
+"href": "https://bernieperryman.com/bills/"
+},
+{
+"text": "Contact",
+"href": "https://bernieperryman.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://bernieperryman.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://bernieperryman.com/events/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/bernieforsenate"
+},
+{
+"text": "Follow",
+"href": "https://www.flickr.com/photos/196266196@N04/with/54942125272/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/bernieforsenate/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@BerniePerryman"
+},
+{
+"text": "Follow",
+"href": "https://x.com/bernieforsenate"
+},
+{
+"text": "H.F. 1973",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1973&y=2025&ssn=0"
+},
+{
+"text": "H.F. 2229",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2229&y=2025&ssn=0"
+},
+{
+"text": "H.F. 286",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF286&y=2025&ssn=0"
+},
+{
+"text": "H.F. 320",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF320&y=2025&ssn=0"
+},
+{
+"text": "Home",
+"href": "https://bernieperryman.com/"
+},
+{
+"text": "House Fiscal Analysis",
+"href": "http://www.house.leg.state.mn.us/fiscal/issuebriefs.asp"
+},
+{
+"text": "House Public Information Services Press Releases",
+"href": "http://www.house.leg.state.mn.us/hinfo/nlreleases.htm"
+},
+{
+"text": "House Public Information Services Publications",
+"href": "http://www.house.leg.state.mn.us/hinfo/publications.htm"
+},
+{
+"text": "House Research",
+"href": "https://www.house.leg.state.mn.us/hrd/hrd.aspx"
+},
+{
+"text": "Live Webcasts and Mobile Stream",
+"href": "https://www.house.leg.state.mn.us/live/1"
+},
+{
+"text": "New Laws",
+"href": "http://www.house.leg.state.mn.us/newlaws/#/search/2021"
+},
+{
+"text": "Photos",
+"href": "https://bernieperryman.com/photos/"
+},
+{
+"text": "Priorities Survey",
+"href": "https://bernieperryman.com/priorities-survey/"
+},
+{
+"text": "Rep. Bernie Perryman Facebook page",
+"href": "https://www.facebook.com/RepBerniePerryman/"
+},
+{
+"text": "Rep. Bernie Perryman legislative page",
+"href": "https://www.house.mn.gov/members/profile/15599"
+},
+{
+"text": "Session Daily",
+"href": "http://www.house.leg.state.mn.us/sessiondaily/"
+},
+{
+"text": "Voting",
+"href": "https://bernieperryman.com/voting/"
+},
+{
+"text": "[image: Bernie Perryman for Senate]",
+"href": "https://bernieperryman.com"
+},
+{
+"text": "here",
+"href": "https://www.house.mn.gov/members/profile/news/15599/50281"
+}
 ]

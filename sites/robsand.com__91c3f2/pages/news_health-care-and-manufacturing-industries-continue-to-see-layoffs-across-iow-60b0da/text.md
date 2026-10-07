@@ -1,14 +1,13 @@
-Health Care and Manufacturing Industries Continue to See Layoffs Across Iowa
-DES MOINES, IA – A new report from Radio Iowa reveals a concerning trend across our state: Iowa is losing jobs in key industries, most notably health care and manufacturing.
+Skip to main Become a Sustaining Donor Donate now Volunteer Donate Return to all news Health Care and Manufacturing Industries Continue to See Layoffs Across Iowa For Immediate Release Contact: press@robsand.com Rob Sand for Iowa 2/3/2026 DES MOINES, IA – A new report from Radio Iowa reveals a concerning trend across our state: Iowa is losing jobs in key industries, most notably health care and manufacturing.
 According to the report, Iowa “lost jobs almost every month for 2025.” In the past year alone, Iowa has lost more than 9,000 manufacturing jobs, primarily in machinery and food production, and the state’s year over year unemployment rate has climbed from 3.3 to 3.5 percent, leaving over 60,000 Iowans out of work.
 Exports from Iowa manufacturing plants were more than $1 billion lower in the first ten months of 2025 compared to the same period in 2024 — a drop of 8.4 percent.
-The report also highlights the impact of federal economic policies in Iowa, noting that “tariffs are creating more uncertainty in the manufacturing sector.”
-Manufacturing isn’t the only industry in Iowa dealing with layoffs, or with the blowback of bad policies coming out of DC.
-MercyOne just announced a third round of layoffs, cutting 34 jobs at MercyOne North Iowa Medical Center in Mason City.
-That follows plans to cut 67 jobs at MercyOne Des Moines Medical Center, and the announced closure of MercyOne’s Ottumwa Family and Internal Medicine Clinic, leaving a community without care and forcing patients to travel more than 40 miles just to see a doctor.
+The report also highlights the impact of federal economic policies in Iowa, noting that “tariffs are creating more uncertainty in the manufacturing sector.” Manufacturing isn’t the only industry in Iowa dealing with layoffs, or with the blowback of bad policies coming out of DC.
+MercyOne just announced a third round of layoffs, cutting 34 jobs at MercyOne North Iowa Medical Center in Mason City .
+That follows plans to cut 67 jobs at MercyOne Des Moines Medical Center, and the announced closure of MercyOne’s Ottumwa Family and Internal Medicine Clinic , leaving a community without care and forcing patients to travel more than 40 miles just to see a doctor.
 MercyOne’s parent company, Trinity Health, has been clear about the cause: they’re facing a projected $1.5 billion annual revenue reduction because of federal funding changes and proposed cuts to Medicare and Medicaid.
-“2025 was marked by thousands of layoffs, and 2026 is already headed down the same path,” said candidate for governor Rob Sand.
+“2025 was marked by thousands of layoffs, and 2026 is already headed down the same path,” said candidate for governor Rob Sand .
 “Health care and manufacturing are the kinds of jobs that keep Iowa towns going, and that Iowans used to be able to support their families on.
 As harmful policies are passed down from DC, and after a decade of one-party rule here at home, that’s sadly no longer the case for many Iowans.
 When hospitals start laying people off and factories start cutting jobs, that forces Iowans out of their communities to live, work, and get the care they need.
-We need to get back to the basics to support Iowa’s economy, workers, and communities across the state.”
+We need to get back to the basics to support Iowa’s economy, workers, and communities across the state.” ### Become a Sustaining Donor of our campaign We need your help to ensure we have the resources to win.
+Chip in today to join Rob’s campaign! $# $# $# $# $# Other Home About Priorities News Lotto Scam Documentary Show Your Support Contact Events Vote Debates Store Donate Work With Us Privacy Policy Mobile Terms Donate by mail Checks can be addressed to Rob Sand for Iowa and mailed to: PO Box 8382, Des Moines, IA 50301 Paid for by Rob Sand for Iowa

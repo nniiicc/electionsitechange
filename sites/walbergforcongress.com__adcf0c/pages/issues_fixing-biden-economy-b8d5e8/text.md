@@ -1,7 +1,5 @@
-Fixing the Biden Economy
-We must correct course by reversing the policies implemented by Joe Biden, which have cut into our nation's security and prosperity.
-It's time for commonsense solutions.
-During Joe Biden’s four years in office, he enacted policies that harmed everyday people financially and often put America last.
+Skip to main content Meet Tim Biography Endorsements News Issues Protecting our National Security Fixing the Biden Crises Building a Healthy Economy Fiscal Responsibility Affordable Health Care Defending Our Values Contact Volunteer Store Contribute Fixing the Biden Economy Fixing the Biden Economy We must correct course by reversing the policies implemented by Joe Biden, which have cut into our nation's security and prosperity.
+It's time for commonsense solutions. - Tim Walberg During Joe Biden’s four years in office, he enacted policies that harmed everyday people financially and often put America last.
 Under the failed policies of his administration, inflation soared to 9.1%, the worst inflation crisis in decades, and gas prices reached the highest they have ever been during a presidential term.
 While President Biden took the country down the wrong path, Tim has been fighting in Congress to correct blunders and lower costs for hardworking Michiganders.
 As a member of the Natural Resources Committee, Tim has helped advance legislation to protect America’s energy interests, fast-track American energy production by reforming our permitting system, and regain our energy independence.
@@ -11,3 +9,6 @@ He was proud to support the Working Families Tax Cuts to offer vital economic re
 This historic legislation prevented residents of Michigan’s 5th District from facing a 27% tax hike and will increase take-home pay by up to $11,700.
 Other critical policies like no tax on tips, no tax on overtime, and no tax on Social Security for 88% of seniors will ensure that families can pocket more of their hard-earned money.
 As a proven leader, Tim knows how to get the job done and fix the many crises created by bad governance.
+BACK TO ISSUES Stay in Touch Sign up for Emails Submit CONTRIBUTE VOLUNTEER Join The Team!
+FOLLOW TIM Meet Tim News Issues Contact Volunteer Store Contribute PRIVACY POLICY VIDEO OF TIM WALBERG ON THE CAMPAIGN TRAIL PICTURES OF TIM WALBERG ON THE CAMPAIGN TRAIL P.O.
+Box 1362 Jackson, MI 49204 PAID FOR BY WALBERG FOR CONGRESS

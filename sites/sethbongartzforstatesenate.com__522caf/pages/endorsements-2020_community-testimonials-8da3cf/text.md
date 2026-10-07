@@ -1,14 +1,5 @@
-Contact Us
-Email Addresses:
-sethbongartzforstatesenate@gmail.com
-robplunkettforstatesenate@gmail.com
-Mailing Address:
-147 Butternut Lane
-Manchester Center, VT 05255
-Phone Number:
-(802) 598-3477
-Find Us on Social Media:
-Facebook:
-Instagram: @bongartzandplunkettvt
-Reports
-End of Session Report 2024
+Facebook Campaign 2026 Join In!
+Community Testimonials Endorsing Organizations Letters to the Editor News Issues Seth’s Bio Rob’s Bio Archives End of Session 2022 Donate Select Page Community Testimonials Jeff and Ginny Dexter, Sunderland Laurie Glover, Arlington Ed Ca mpbell, Manchester Paula Maynard of Sunderland; Mary Ann Carlson of Arlington; and Meghan Goodwin, Carol Korzelius, and Kerry Comollo Mackinnon of Manchester Stephanie and Stan Hynds (Arlington) Rich and Martha Heilemann (Manchester) Contact Us Join our mailing list here!
+Email Addresses: sethbongartzforstatesenate@gmail.com robplunkettforstatesenate@gmail.com Mailing Address: 147 Butternut Lane Manchester Center, VT 05255 Phone Number: (802) 598-3477 Find Us on Social Media: Facebook: Seth Bongartz Rob Plunkett Instagram: @bongartzandplunkettvt DONATE Reports End of Session Report 2026 End of Session Report 2024 End of Session Report 2023 End of Session Report 2022 Follow Our Work Check out Seth’s voting record and sponsored bills from the recent session.
+Check out Rob’s voting record and sponsored bills from the recent session.
+Campaign 2026 News Issues Seth’s Bio Rob’s Bio Archives Donate Facebook Designed by Elegant Themes | Powered by WordPress

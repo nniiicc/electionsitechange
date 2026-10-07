@@ -1,5 +1,4 @@
-Stamford Advocate op-ed: Eilish Collins Main (opinion): My pledge to the 146th
-Since launching my campaign for state representative in April, I have had the opportunity and privilege to speak with hundreds of voters by knocking on doors, calling, attending local events, and being out in the community.
+0 Skip to Content Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Stamford Advocate op-ed: Eilish Collins Main (opinion): My pledge to the 146th Nov 1 Written By Miles Halpine Since launching my campaign for state representative in April, I have had the opportunity and privilege to speak with hundreds of voters by knocking on doors, calling, attending local events, and being out in the community.
 Through these venues, I’m often asked about my top policy concerns.
 My constant response is improving our schools, addressing the housing crisis, and tackling liveability and affordability in Stamford.
 Voters are craving engagement, and want to be heard and represented in the state House by someone who takes the time to find out what matters to them.
@@ -7,7 +6,8 @@ Someone who demonstrates the experience and understanding to take this feedback 
 I promise to do just that.
 I’m grateful to every voter who took the time to tell me what matters to them.
 I have treated this race like a job interview and that means being responsive to the people of the 146th District.
-Housing is the No. 1 issue for hundreds of voters I’ve met with so far, including housing for every age and stage.
+Housing is the No.
+1 issue for hundreds of voters I’ve met with so far, including housing for every age and stage.
 Young professionals who can’t get out of the rental market, workforce housing so that people can live and work in our amazing city, affordable housing, senior housing, and the long waitlist to get into the limited senior housing available.
 We have 57 tall residential buildings in our district.
 People find our thriving, vibrant, and diverse city a great place to live, and yet issues such as pedestrian safety and I-95 congestion need to be addressed.
@@ -35,5 +35,6 @@ You do not need to be a seasoned politician to run for office.
 You need to be a person with a life of lived experiences and I think I bring that to the table.
 I hope I have earned your support too.
 Eilish Collins Main is the Democratic and Independent candidate for the 146th House District, which covers parts of Downtown, the South End, and Shippan.
-Nov 1, 2024
-Eilish Collins Main
+Nov 1, 2024 Eilish Collins Main Miles Halpine Previous Previous News 12 Connecticut: Recapping the 146th State House District Race Next Next Stamford Patch: CT Patch Candidate Profile: Eilish Collins Main For State Rep.
+Privacy Policy Paid for by Eilish Collins Main for CT, Christopher Brown, Treasurer.
+Approved by Eilish Collins Main.

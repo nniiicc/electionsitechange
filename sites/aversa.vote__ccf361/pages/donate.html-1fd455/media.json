@@ -1,0 +1,12 @@
+[
+"alt:assets/bitcoin_qr.svg|Bitcoin address QR code",
+"alt:assets/cashapp_qr.svg|Stripe QR code",
+"alt:assets/monero_qr.svg|Monero address QR code",
+"alt:assets/stripe_qr.svg|Stripe QR code",
+"alt:assets/zelle_qr.svg|Zelle® QR code",
+"img:assets/bitcoin_qr.svg",
+"img:assets/cashapp_qr.svg",
+"img:assets/monero_qr.svg",
+"img:assets/stripe_qr.svg",
+"img:assets/zelle_qr.svg"
+]

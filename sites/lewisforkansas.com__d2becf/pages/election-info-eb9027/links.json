@@ -1,13 +1,58 @@
 [
-"https://facebook.com/people/Lewis-For-Kansas/61562259787943",
-"https://franklincoks.org/210/Clerk-Elections",
-"https://kdor.ks.gov/Apps/VoterReg/Registration/Index",
-"https://lewisforkansas.com/",
-"https://lewisforkansas.com/about",
-"https://lewisforkansas.com/contact",
-"https://lewisforkansas.com/election-info",
-"https://lewisforkansas.com/issues",
-"https://lewisforkansas.com/privacy",
-"https://myvoteinfo.voteks.org/VoterView",
-"https://secure.actblue.com/donate/lewisforkansas"
+{
+"text": "About",
+"href": "https://www.lewisforkansas.com/about/"
+},
+{
+"text": "Check Voter RegistrationFind Polling Place",
+"href": "https://myvoteinfo.voteks.org/VoterView"
+},
+{
+"text": "Contact",
+"href": "https://www.lewisforkansas.com/contact/"
+},
+{
+"text": "Election Info",
+"href": "https://www.lewisforkansas.com/election-info/"
+},
+{
+"text": "Franklin County, KS Elections Calendar",
+"href": "https://www.franklincoks.org/210/Clerk-Elections"
+},
+{
+"text": "Home",
+"href": "https://www.lewisforkansas.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.lewisforkansas.com/issues/"
+},
+{
+"text": "Join Now",
+"href": "https://www.lewisforkansas.com/contact/"
+},
+{
+"text": "Lewis For Kansas",
+"href": "https://www.lewisforkansas.com/"
+},
+{
+"text": "Privacy",
+"href": "https://www.lewisforkansas.com/privacy"
+},
+{
+"text": "Register to VOTE!",
+"href": "https://www.kdor.ks.gov/Apps/VoterReg/Registration/Index"
+},
+{
+"text": "Support",
+"href": "https://secure.actblue.com/donate/lewisforkansas"
+},
+{
+"text": "[image: Lewis For Kansas]",
+"href": "https://www.lewisforkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Lewis-For-Kansas/61562259787943/"
+}
 ]

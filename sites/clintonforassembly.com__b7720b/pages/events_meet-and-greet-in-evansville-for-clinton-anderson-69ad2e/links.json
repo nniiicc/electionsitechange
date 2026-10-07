@@ -1,15 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+in+Evansville+for+Clinton+Anderson&dates=20221013T210000Z%2F20221014T000000Z&location=179+East+Main+Street%2C+Evansville%2C+WI%2C+53536%2C+United+States",
-"http://maps.google.com/?q=179+East+Main+Street+Evansville%2C+WI%2C+53536+United+States",
-"https://clintonforassembly.com/",
-"https://clintonforassembly.com/about",
-"https://clintonforassembly.com/cart",
-"https://clintonforassembly.com/endorsements",
-"https://clintonforassembly.com/events",
-"https://clintonforassembly.com/events/2024-campaign-kickoff",
-"https://clintonforassembly.com/events/candidate-forum-hosted-by-lwv-wisconsin-beloit-naacp-and-beloit-league",
-"https://clintonforassembly.com/events/meet-and-greet-in-evansville-for-clinton-anderson?format=ical",
-"https://clintonforassembly.com/issues",
-"https://facebook.com/Clinton-Anderson-for-Assembly-District-45-104142868937053",
-"https://secure.actblue.com/donate/clinton-for-45"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=179+east+main+street+evansville%2C+wi%2C+53536+united+states"
+},
+{
+"text": "0",
+"href": "https://www.clintonforassembly.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.clintonforassembly.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.clintonforassembly.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/clinton-for-45"
+},
+{
+"text": "Endorsements",
+"href": "https://www.clintonforassembly.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.clintonforassembly.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+in+Evansville+for+Clinton+Anderson&dates=20221013T210000Z%2F20221014T000000Z&location=179+East+Main+Street%2C+Evansville%2C+WI%2C+53536%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.clintonforassembly.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/meet-and-greet-in-evansville-for-clinton-anderson?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.clintonforassembly.com/issues"
+},
+{
+"text": "Next Next April 28 2024 Campaign Kickoff",
+"href": "https://www.clintonforassembly.com/events/2024-campaign-kickoff"
+},
+{
+"text": "Previous Previous October 12 Candidate Forum Hosted by LWV Wisconsin, Beloit NAACP, and Beloit League",
+"href": "https://www.clintonforassembly.com/events/candidate-forum-hosted-by-lwv-wisconsin-beloit-naacp-and-beloit-league"
+},
+{
+"text": "[image: Clinton Anderson for Assembly]",
+"href": "https://www.clintonforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Clinton-Anderson-for-Assembly-District-45-104142868937053"
+}
 ]

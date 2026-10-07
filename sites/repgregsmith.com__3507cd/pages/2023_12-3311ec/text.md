@@ -1,20 +1,13 @@
-Press Release: Representative Smith to host Highway 11 Safety Roundtable in Milton-Freewater
-FOR IMMEDIATE RELEASE:
-December 6, 2023
-Representative Smith to host Highway 11 Safety Roundtable in Milton-Freewater
-MILTON-FREEWATER, Ore. – Next Wednesday, Representative Greg Smith (R-Heppner) will be hosting a safety roundtable with Ken Patterson, ODOT Region 5 Manager, and his staff.
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Press Release: Representative Smith to host Highway 11 Safety Roundtable in Milton-Freewater December 6, 2023 / in News FOR IMMEDIATE RELEASE : December 6, 2023 Representative Smith to host Highway 11 Safety Roundtable in Milton-Freewater MILTON-FREEWATER, Ore. – Next Wednesday, Representative Greg Smith (R-Heppner) will be hosting a safety roundtable with Ken Patterson, ODOT Region 5 Manager, and his staff.
 This meeting will be open to the public and the purpose is to have a community discussion with Rep.
 Smith and state officials.
 It will give the public the opportunity to express concerns and give local perspectives on potential solutions.
 In addition to ODOT, Oregon State Police representation is anticipated at the meeting.
 “There has been an outpouring of constituents expressing safety concerns of Highway 11 between Milton-Freewater and Stateline Road,” said Representative Smith, “the intention of this roundtable is to bring the community together and have a discussion with ODOT and other state officials on potential solutions”.
 The meeting is scheduled for December 13 at 5:00 at the Milton-Freewater Community Building (109 NE 5th Ave, Milton-Freewater, OR 97862).
-Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4th longest serving State Representative in Oregon History.
+Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4 th longest serving State Representative in Oregon History.
 He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
 Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
 Additionally, he is the ranking member on the House Revenue Committee.
-To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov
-###
-CONTACT INFORMATION:
-Representative Greg Smith
-541-993-5236
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2023-12-06 11:54:56 2024-03-12 10:03:20 Press Release: Representative Smith to host Highway 11 Safety Roundtable in Milton-Freewater July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

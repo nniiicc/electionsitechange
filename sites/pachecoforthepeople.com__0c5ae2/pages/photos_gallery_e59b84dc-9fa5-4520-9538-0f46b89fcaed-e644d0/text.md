@@ -1,5 +1,3 @@
-Visibility 6/27/26
-The weather was great, the energy was high and the momentum is growing!
+Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Visibility 6/27/26 The weather was great, the energy was high and the momentum is growing!
 Pacheco for the People !!
-Committee to Elect Edward Pacheco
-Powered by CampaignPartner.com - Political Campaign Websites
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

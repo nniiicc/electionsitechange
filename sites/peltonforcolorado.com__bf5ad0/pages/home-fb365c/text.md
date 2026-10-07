@@ -1,17 +1,2 @@
-News
-13
-May
-Final 2026 In-Session Newsletter
-6
-May
-Fifth In-Session Newsletter
-2
-Apr
-Fourth 2026 In-Session Newsletter
-26
-Mar
-340B Op-ed
-10
-Mar
-Paid for by the Committee to Elect Rod Pelton
-Powered by CampaignPartner.com - Political Websites
+Home About Rod Committees News Issues Contribute News 13 May Wednesday, 6:36 PM · 2026 Final 2026 In-Session Newsletter 6 May Wednesday, 4:00 PM · 2026 Fifth In-Session Newsletter 2 Apr Thursday, 3:30 PM · 2026 Fourth 2026 In-Session Newsletter 26 Mar Thursday, 3:01 PM · 2026 340B Op-ed 10 Mar Tuesday, 3:40 PM · 2026 Third Newsletter of 2026 Legislative Session FIND A BILL WATCH & LISTEN VOTING INFO PUBLIC TESTIMONY CONTRIBUTE Get Updates Thank you for signing up!
+Make Endorsement Paid for by the Committee to Elect Rod Pelton Powered by CampaignPartner.com - Political Websites Home About Rod Committees News Issues Contribute Close Menu

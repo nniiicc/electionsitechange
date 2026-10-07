@@ -1,5 +1,4 @@
-Leadership Matters
-Study this chart.
+0 Skip to Content Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact Leadership Matters Jun 26 Written By North for VT House Study this chart.
 It tells a very important story.
 It plots the key education system metrics of all 50 states on two axes.
 States with higher spending per student are to the right, lower spending is to the left.
@@ -25,10 +24,14 @@ Now, it’s time to give the Vermont Republicans the reins.
 Leadership matters.
 This session, the Governor and Republican legislators put forth real solutions for education transformation in committees and negotiations.
 The final result achieved many of those goals, but with an additional year delay and further approvals required before the critical cost saving structural changes and foundation formula go into effect in July 2029.
-For more examples of the devastating effects of poor leadership in our Vermont State Legislature over the past several decades click HERE.
+For more examples of the devastating effects of poor leadership in our Vermont State Legislature over the past several decades click HERE .
 Vermont has problems.
 Vermont Republicans have solutions.
 Stay tuned and stay engaged.
-I remain honored to be your Representative,
-Rob North
-Addison, Ferrisburgh, New Haven, Panton, Vergennes, and Waltham
+I remain honored to be your Representative, Rob North www.NorthForVTHouse.com Addison, Ferrisburgh, New Haven, Panton, Vergennes, and Waltham Support Rob North’s Re-Election Campaign North for VT House Previous Previous Happy 250th America!
+Next Next Ice Cream Social Rob North for a Change Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Paid for by North for State Representative Committee, Warren VanWyck, Treas.
+3502 Middlebrook Rd, Ferrisburgh, VT 05456 info@NorthForVTHouse.com

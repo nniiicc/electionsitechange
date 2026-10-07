@@ -1,4 +1,4 @@
-Lawmakers returned to the State House on January 14, 2020, to commence the second regular session of the 123rd South Carolina General Assembly.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate The State Capitol Report – 1/17/2020 Kambrell Garvin February 1, 2020 Comments Off on The State Capitol Report – 1/17/2020 Uncategorized Lawmakers returned to the State House on January 14, 2020, to commence the second regular session of the 123 rd South Carolina General Assembly.
 The House of Representatives approved S.11 and enrolled the bill for ratification.
 The legislation provides that, if the United States Congress amends federal law to authorize states to observe DAYLIGHT SAVING TIME year round, it is the intent of the South Carolina General Assembly that daylight saving time be the year round standard of the entire state and all of its political subdivisions.
 The House returned S.194, a bill addressing PROSTITUTION AND HUMAN TRAFFICKING, to the Senate with amendments.
@@ -20,4 +20,7 @@ The House approved and sent the Senate H.4533, a bill renaming the state’s Com
 If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
 Box 292434, Columbia, SC 29229.
 Thank you for the opportunity to serve you in the House of Representatives.
-KHG/jhm
+KHG/jhm « Rep.
+Garvin to File Bill to Combat Implicit Bias in Healthcare “South Carolina Dignity in Pregnancy and Childbirth Act” to require implicit bias training for health care staff The State Capitol Report – 1/27/2020 » Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020

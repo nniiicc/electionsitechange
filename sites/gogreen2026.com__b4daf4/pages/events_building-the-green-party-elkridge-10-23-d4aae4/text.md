@@ -1,4 +1,4 @@
-Howard County: Let’s Build a New Political Future!
+0 Skip to Content Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Open Menu Close Menu Open Menu Close Menu Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Home Folder: About Back Meet Andy Meet Owen Why We Are Running Campaign Plan Folder: Media Back News Livestream Podcast Folder: Get Involved Back Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Folder: Issues Back Priorities Platform Donate Back to All Events Building The Green Party Community Meeting: Elkridge Thursday, October 23, 2025 5:45 PM 7:15 PM Elkridge Public Library 6540 Washington Boulevard Elkridge, MD, 21075 United States (map) Google Calendar ICS Howard County: Let’s Build a New Political Future!
 Are you ready to shake up Maryland politics?
 Join Ellis-Andrews for Governor for an exciting Green Party Community Meeting in Elkridge!
 Meet Andy Ellis – Hear directly from Andy about his vision for a Maryland that has more and healthier political parties, puts people and planet first and builds and economy based on solidarity.
@@ -6,11 +6,7 @@ Shape the Future – Let’s talk about the work we need to do to build real alt
 Engage & Discuss – This isn’t a lecture—it’s an interactive conversation!
 Bring your ideas, your questions, and the issues that matter most to your community.
 Who should attend?
-- Greens looking to take action
-- Independents searching for a real political home
-- Democrats and Republicans who want to explore new solutions
-- Anyone fed up with politics as usual and ready to imagine something better
-Why Now?
+Greens looking to take action Independents searching for a real political home Democrats and Republicans who want to explore new solutions Anyone fed up with politics as usual and ready to imagine something better Why Now?
 Why the Green Party?
 People across Maryland see that the two-party system is failing—on justice, democracy, peace, and the climate crisis.
 While national Republicans embrace MAGA authoritarianism, Howard County and Maryland Democrats use their overwhelming majorities to pursue business as usual politics .
@@ -19,3 +15,8 @@ The demand for a real alternative has never been stronger.
 The Maryland Green Party is in its 25th year, and in 2024, it was the top-performing third party in the state.
 Now, we're building something even bigger.
 This is your chance to be part of the movement and take action for a Maryland that works for everyone.
+RSVP Now and Join the Conversation!
+Previous Previous October 20 Forward Party & Go Green 2026 Happy Hour and Conversation Next Next November 11 Baltimore City Green Party Happy Hour Like what you see?
+Join the movement.
+DONATE volunteer Green Party Candidates for Governor & Lt.
+Governor 2026 Send us an email at andy@gogreen2026.com Contact News Press Kit Authority: Campaign Donations for Andy Ellis, Brian Bittner Treasurer

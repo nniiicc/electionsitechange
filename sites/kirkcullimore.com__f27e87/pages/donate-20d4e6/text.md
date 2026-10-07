@@ -1,3 +1,3 @@
-Support Senator Kirk Cullimore
-Your contribution helps keep Utah strong, safe, and prosperous.
-Paid for by Friends of Kirk Cullimore
+Skip to main content Hit enter to search or ESC to close Close Search Menu Home Donate Real Results Real Results for Utah Families Real Results for Utah Businesses Real Results for Utah Taxpayers Real Results for Utah Kids Real Results for Utah’s Future Real Results for Safer Communities Support Senator Kirk Cullimore Your contribution helps keep Utah strong, safe, and prosperous.
+Paid for by Friends of Kirk Cullimore © # Senator Kirk Cullimore.
+Close Menu Home Donate Real Results Real Results for Utah Families Real Results for Utah Businesses Real Results for Utah Taxpayers Real Results for Utah Kids Real Results for Utah’s Future Real Results for Safer Communities

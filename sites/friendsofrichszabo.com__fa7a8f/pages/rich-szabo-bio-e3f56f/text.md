@@ -1,5 +1,6 @@
-About Rich
-Born March 16, 1956, in Newark, New Jersey, Rich began playing trumpet at age nine and earned a Bachelor of Arts in Music Education from Fairleigh Dickinson University.
+top of page Friends of Rich Szabo Home Data Centers Vision Priorities Take Action Bio Donate More Use tab to navigate through the menu items.
+Donate Get To Know Rich Candidate for State Representative – PA 115 Rich Szabo isn’t a career politician — he’s a small business owner, musician, teacher, and neighbor who believes common sense should guide Pennsylvania’s government.
+About Rich Born March 16, 1956, in Newark, New Jersey, Rich began playing trumpet at age nine and earned a Bachelor of Arts in Music Education from Fairleigh Dickinson University.
 He built a distinguished career performing with legendary artists including Maynard Ferguson, Buddy Rich, Tony Bennett, and Frank Sinatra.
 For decades, Rich worked alongside people from every walk of life.
 Life on the road and on stage meant long hours, constant preparation, and the ability to collaborate with individuals who often had very different personalities, backgrounds, and viewpoints.
@@ -15,11 +16,5 @@ He believes leadership means delivering results using common sense — not polit
 Rich lives in Pocono Summit with his wife, Beverly, and their two dogs, Daisy Mae and Chase.
 When he’s not working or performing, he enjoys spending time outdoors and appreciating the natural beauty of the Pocono Mountains.
 His connection to the community isn’t political — it’s personal.
-His priorities are clear:
-- Lower taxes
-- Restore accountability in education
-- Protect constitutional rights
-- Support law enforcement
-- Put families and local communities first
-After decades of real-world experience in music, business, and community service, Rich Szabo is ready to bring steady, practical leadership to Harrisburg.
-Common Sense for PA 115.
+His priorities are clear: ​ Lower taxes Restore accountability in education Protect constitutional rights Support law enforcement Put families and local communities first ​ After decades of real-world experience in music, business, and community service, Rich Szabo is ready to bring steady, practical leadership to Harrisburg. ​ ​Common Sense for PA 115.
+Friends of Rich Szabo 570-241-8317 info@friendsofrichszabo.com Privacy Policy Accessibility Statement Terms & Conditions Event Suggestions ​ 115 Route 390 Cresco, PA 18326 Paid For By Friends of Rich Szabo © # by Friends of Rich Szabo. bottom of page

@@ -1,5 +1,4 @@
-US Forest Service Restructure
-The Trump administration has decided to restructure the U.S.
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate US Forest Service Restructure Apr 17 Written By Zebulon Featherly The Trump administration has decided to restructure the U.S.
 Forest Service, and I condemn that decision.
 This is not a minor change.
 The Forest Service headquarters is being moved from Washington, D.C. to Salt Lake City, Utah, and the agency is shifting to a new state-based structure.
@@ -23,11 +22,7 @@ You are also risking the loss of experienced scientists and staff whose expertis
 This decision deserves far more scrutiny than it has received.
 If it weakens local knowledge, shrinks research capacity, and pulls leadership farther from where federal decisions are actually made, that is not reform.
 It is reckless, and it is a step in the wrong direction.
-Further Reading
-- USDA Forest Service Restructuring Announcement — U.S.
-Department of Agriculture
-- BLM Headquarters Move and Reversal — U.S.
-Department of the Interior
-- Research Station Closure Reporting — Stateline
-- Forest Service Reorganization Overview — U.S.
-Forest Service
+Further Reading USDA Forest Service Restructuring Announcement — U.S.
+Department of Agriculture BLM Headquarters Move and Reversal — U.S.
+Department of the Interior Research Station Closure Reporting — Stateline Forest Service Reorganization Overview — U.S.
+Forest Service Zebulon Featherly Previous Previous May 1 General Strike

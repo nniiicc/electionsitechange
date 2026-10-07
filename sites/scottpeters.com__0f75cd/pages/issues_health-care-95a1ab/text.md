@@ -1,8 +1,7 @@
-Every American deserves access to quality, affordable health care, and our country should aspire to a system in which health insurance coverage is universal.
+Meet Scott About Scott Accomplishments Awards Issues Jobs & the Economy Health Care Medicare & Social Security Veterans Energy & the Environment Education Equal Rights Immigration Keeping Americans Safe Biden Administration Fix Congress Endorsements Supporters Elected Officials Organizations AAPI Community News TV Ads Photo Gallery Hi-Resolution Photos Press Inquiries Get Involved Donate Meet Scott Issues Endorsements News On the Issues Health Care Every American deserves access to quality, affordable health care, and our country should aspire to a system in which health insurance coverage is universal.
 While the Affordable Care Act (“ACA”) has expanded coverage to millions more Americans, contributing to record high rates of coverage in San Diego County, our work does not end there.
 I’m working on a plan with Republicans and Democrats to lower premiums and deductibles, improve quality of care, and stabilize the individual insurance markets — all to ensure that health insurance is more affordable for everyone and we never return to a system where people are denied care due to pre-existing conditions or lose their homes and savings to medical bill bankruptcies.
-The Affordable Care Act
-Health care in America needs to be accessible and affordable for everyone.
+The Affordable Care Act Health care in America needs to be accessible and affordable for everyone.
 While the Affordable Care Act was a crucial step in fixing decades-old problems within our health care system, premiums and deductibles continue to rise, and the individual insurance markets are gripped with uncertainty.
 The solution to these problems lies not in abolishing the protections on which millions of Americans have come to rely, but in strengthening the law to improve the quality and lower the cost of care for those unable to benefit from the ACA.
 I’ve proposed several pieces of bipartisan legislation aimed at repairing the ACA, and I’ll continue to condemn any attempts to repeal the law and pull the rug out from under American families.
@@ -20,15 +19,13 @@ While there is still work to do to fix the ACA, the law offers real benefits to 
 For example, it prevents insurance companies from denying coverage because of a pre-existing condition.
 It also lets adult children stay on their parent’s health care plan until they’re 26 – a change that helps families with kids in college or who are starting their first job.
 These are the kinds of improvements that we would lose if we heeded the misguided calls to “repeal Obamacare.” And we can’t go back to the days when too many people got their health care in the emergency room and went bankrupt trying to pay for medical bills.
-Contraception and Reproductive Choice
-Unbelievably, some in Congress still want to battle over reproductive choice and access to contraception.
+Contraception and Reproductive Choice Unbelievably, some in Congress still want to battle over reproductive choice and access to contraception.
 Those wars were fought and won decades ago, and it is embarrassing and shameful that they continue to be debated.
 I’m proud of my 100% rating from the Planned Parenthood Action Fund, and I strongly favor reproductive freedom and a woman’s right to make her own medical decisions in consultation with her doctor.
 My wife and I have a long history of supporting Planned Parenthood, and I will always stand up for the right of women to make their own health care decisions.
 In Congress, I am a forceful advocate for women’s access to reproductive healthcare and a woman’s right to choose, and I will continue as long as these battles persist.
 You can read more about my record on Equal Rights issues here.
-San Diego’s Health Care Ecosystem
-San Diego’s technology industry is leading the way in creating more cost-effective ways to deliver high-quality health care.
+San Diego’s Health Care Ecosystem San Diego’s technology industry is leading the way in creating more cost-effective ways to deliver high-quality health care.
 I introduced the Health Savings Through Technology Act to integrate digital health into Medicare, Medicaid, the VA, and military care while increasing the use of wireless health information technologies.
 By taking advantage of the innovation coming out of San Diego, we can make health care cheaper to provide.
 In 2018, the San Diego-based Scripps Research Institute landed a deal with a major pharmaceutical company for its improved immune therapy use for treating cancer.
@@ -43,8 +40,7 @@ I will continue to be an active and strong advocate for health care reform – f
 I know how important reliable and affordable health care is, and the frustration of dealing with a system full of irrationalities and skewed economic incentives.
 Everyone is eager for more ways to improve our health care system, and I will continue to work to make sure doctors, patients, and health care institutions all have a say in how we move forward.
 That’s always been my approach, and that’s the approach I’ll continue to take as your representative in Congress.
-Protecting Access to Care During COVID-19
-Drug shortages under normal circumstances result in significant strain throughout our healthcare system—from patients to hospitals and physicians.
+Protecting Access to Care During COVID-19 Drug shortages under normal circumstances result in significant strain throughout our healthcare system—from patients to hospitals and physicians.
 The health emergency presented by COVID-19 has exacerbated these problems and caused adverse reactions on global drug supply chains.
 In the 116th Congress, I introduced the bipartisan Preventing Drug Shortages Act, which would help address the critical issue of drug shortages that affect the quality of care patients receive across the country.
 The bill became law as part of the Coronavirus Aid, Relief, and Economic Security (CARES) Act, which marked the third congressional package providing relief for the COVID-19 pandemic.
@@ -55,3 +51,13 @@ Additionally, to better prepare for future pandemics, I co-led the Tracking Path
 This bill aimed to enhance the CDC’s ability to detect and sequence pathogens using advanced molecular techniques.
 Although the full $195M authorization was not included in the FY23 budget, essential activities were approved, and $40M was allocated to the CDC’s Advanced Molecular Detection programs.
 This investment ensures that the US is better equipped to identify and respond to emerging disease threats quickly.
+Jobs & the Economy Medicare & Social Security Scott Peters for CA 50 Get Involved Sign up to our newsletter and stay up to date with the campaign.
+Address PO Box 22074 San Diego, CA 92192 Phone (858) 848-7515 Email [email protected] ©# Scott Peters for Congress Contact Privacy Policy Paid for by Scott Peters for Congress Get Updates Get Updates Get Involved Get Involved Donate Now Donate Now Share Share Tweet Email California District 52 Is Scott your Representative in Congress?
+Type in your address to find out.
+You are in District 52!
+For more ways to help, please check out the link below: Get Involved Not in this district!
+According to our data, you are not in District 52!
+Please verify this information at the CA Dems website!
+CA Dems Go!
+The data here is provided by 3rd-party services.
+For best results, please visit CA Dems

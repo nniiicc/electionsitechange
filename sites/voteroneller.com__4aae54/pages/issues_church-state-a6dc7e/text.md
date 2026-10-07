@@ -1,8 +1,8 @@
-Church & State
-Holy Trinity v.
+Meet Ron Issues News Volunteer Swag Contribute Home ❭ Issues ❭ Church & State Church & State Holy Trinity v.
 US 1892 Unanimous Supreme Court decision, “It is also said, and truly, that the Christian Religion is a part of the common law.” There is no such clause as Freedom from religion; it is Freedom of religion.
 Our nation was founded on Judeo-Christian beliefs and values.
 It is my belief that the separation of church and state was so that we would not have a mandated religion (The Church of England); not to restrict religion in the town square, schools, etc., that an individual is free to choose how or if they worship.
 Additionally, Mississippi is unique, the state constitution mandates the Holy Bible is part of the public school system and cannot be removed.
-The Mississippi Constitution Article 3 – Bill of Rights Sec. 18 No religious test as a qualification for office shall be required; and no preference shall be given by law to any religious sect, or mode of worship; but the free enjoyment of all religious sentiments and the different modes of worship shall be held sacred.
-The rights hereby secured shall not be construed to justify acts of licentiousness injurious to morals or dangerous to the peace and safety of the State, or to exclude the Holy Bible for use in any Public School of this State.
+The Mississippi Constitution Article 3 – Bill of Rights Sec.
+18 No religious test as a qualification for office shall be required; and no preference shall be given by law to any religious sect, or mode of worship; but the free enjoyment of all religious sentiments and the different modes of worship shall be held sacred.
+The rights hereby secured shall not be construed to justify acts of licentiousness injurious to morals or dangerous to the peace and safety of the State, or to exclude the Holy Bible for use in any Public School of this State. « Previous: Voter ID and Election Integrity Voter Information Endorsements Yard Signs Photos Contact Paid for by Ron Eller for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ron Issues Endorsements Contribute Volunteer News Yard Signs Swag Contact Voter Information Close Menu

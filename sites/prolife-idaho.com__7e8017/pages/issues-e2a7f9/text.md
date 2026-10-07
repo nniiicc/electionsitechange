@@ -1,4 +1,7 @@
-The members of the Constitution Party (occasionally referred to here as "CP") should serve their fellowmen for the sake of love and eternal accountability.
+ProLife Idaho About The Issues Idaho Politicians & Murder More...
+About Us On The Platform Resources Contact VOTE PROLIFE IDAHO!
+VOTE PROLIFE IDAHO!
+Constitutional Stand On The Issues The members of the Constitution Party (occasionally referred to here as "CP") should serve their fellowmen for the sake of love and eternal accountability.
 CP members should serve without motive of personal gain, or reward, in this life.
 We use the Constitution Party platform because it is detailed on almost all issues and a voter can see how we stand and vote.
 As for now, I am going to use the Constitution Party Platform to explain the issues.
@@ -24,7 +27,8 @@ Christians want to serve God without offending the devil.
 Socialism, fascism, and capitalism are false systems based in selfishness.
 The eternal, God-ordained economic system is Christian partnerships.
 These employee owned, perpetual partnerships could be on earth today but Christians do not understand them.
-Has your church discussed Acts 2: 44-45. 44 "And all that believed were together, and had all things common; 45- And sold their possessions and goods, and parted them to all men, as every man had need." This is a voluntary, free-will joining of assets in an unselfish way, that we believe, was taught by Jesus.
+Has your church discussed Acts 2: 44-45.
+44 " And all that believed were together, and had all things common; 45- And sold their possessions and goods, and parted them to all men, as every man had need." This is a voluntary, free-will joining of assets in an unselfish way, that we believe, was taught by Jesus.
 Most people are too selfish to even contemplate such an economic truth.
 Blood related families generally are too selfish to even talk about Christian economics and partnerships.
 An economic partnership will only be viable in the long run when Christians are able to discern motives.
@@ -32,7 +36,7 @@ Most Christians believe it is wrong to discern motives.
 Many think only God can discern the selfish from the unselfish.
 We left the Constitution Party National for a number of years (2006- 2014) because the Party leadership, nationally, and in Idaho, would not discipline members who violated the Sanctity of Life plank.
 We have been with Constitution Party since the beginning, about 1992 except for the 2006- 2014 break.
-When central banks create money without 100% backing by gold, silver, or commodities, they are thieves and liars.
+When Central Banks Issue Paper Money and Digital Currency When central banks create money without 100% backing by gold, silver, or commodities, they are thieves and liars.
 A strict reading of the United States Constitution would only allow for gold and silver coin as money.
 The US central bank, known as the Federal Reserve Bank, is privately owned and has deceived the American people into trading gold and silver for paper money.
 This is one of the major reasons for our present economic crisis and inflation.
@@ -45,6 +49,7 @@ We cannot go back to gold, if most of the gold is controlled by private bankers.
 Each nation needs to demand that these banks return their gold.
 Let the education begin and the decades of deceit be revealed.
 In asking for an audit of the Federal Reserve.
-We should insist that the gold that was confiscated by Executive Order of FDR in 1933 be accounted for and returned if possible.
-© Copyright 2026 ProLife Idaho.
+We should insist that the gold that was confiscated by Executive Order of FDR in 1933 be accounted for and returned if possible. © Copyright # ProLife Idaho.
 All rights reserved.
+Account Login × Please enter your credentials...
+Cancel Login

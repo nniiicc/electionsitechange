@@ -1,16 +1,20 @@
-Priscilla Gonzalez for Louisiana’s 3rd District – A Bold Vision for Change
-Louisiana deserves a leader who fights for justice, fairness, and opportunity for all.
+Skip Link Text Menu Home ActBlue About Endorsements & Support Supporting the PACT Act Community Based Legal Logic RAICES 1st Corpus Christi Pride Parade Documents FEC Filings Parishes Acadia Parish Crime Rate Poverty Calcasieu Parish Housing Infant Mortality Crime Poverty Cameron Parish Crime Poverty Iberia Parish Crime Jeff Davis Parish Lake Charles Crime in Lake Charles Crime Poverty Lafayette Parish St.
+Mary Parish St.
+Martin Parish Drainage System Flooding and Erosion Terrebonne Parish Vermilion Parish Crime in Vermilion Parish Crime Juvenile Crime Issues Criminal Justice Reform Economy Education and Workforce Teacher Salaries Louisiana SB26 Healthcare Infant Mortality Maternal Mortality Hurricanes Infrastructure Taxes State Income Tax News Social Ballotpedia FaceBook Discord Reddit X Threads Donate ActBlue PayPal Venmo Cash App Home ActBlue About Endorsements & Support Supporting the PACT Act Community Based Legal Logic RAICES 1st Corpus Christi Pride Parade Documents FEC Filings Parishes Acadia Parish Crime Rate Poverty Calcasieu Parish Housing Infant Mortality Crime Poverty Cameron Parish Crime Poverty Iberia Parish Crime Jeff Davis Parish Lake Charles Crime in Lake Charles Crime Poverty Lafayette Parish St.
+Mary Parish St.
+Martin Parish Drainage System Flooding and Erosion Terrebonne Parish Vermilion Parish Crime in Vermilion Parish Crime Juvenile Crime Issues Criminal Justice Reform Economy Education and Workforce Teacher Salaries Louisiana SB26 Healthcare Infant Mortality Maternal Mortality Hurricanes Infrastructure Taxes State Income Tax News Social Ballotpedia FaceBook Discord Reddit X Threads Donate ActBlue PayPal Venmo Cash App yes Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Phone (337) 279-8329 Email prisforcongress@gmail.com Announcing Priscilla Gonzalez’s 2026 Congressional Campaign for Louisiana’s 3rd District Priscilla Gonzalez for Louisiana’s 3rd District – A Bold Vision for Change Louisiana deserves a leader who fights for justice, fairness, and opportunity for all.
 That’s why Priscilla Gonzalez is stepping up to run for United State Representative of Louisiana’s 3rd District in 2026.
 As a progressive Democrat, daughter of immigrants, and lifelong advocate for working families, Priscilla is ready to bring bold, people-centered leadership to our state.
+Donate to Act Blue!
 With years of experience fighting for veterans, advocating for immigrants, and expanding access to justice, Priscilla has never backed down from the challenges our communities face.
 From economic inequality to environmental justice, tax reform to infrastructure, she is committed to addressing the real issues impacting Louisiana families, workers, and small businesses.
 This campaign isn’t just about one candidate—it’s about all of us.
-How You Can Help:
-✅ Donate – Every contribution fuels our grassroots movement.
-Your support helps us reach more voters and amplify our message.
-✅ Volunteer – Whether you can knock doors, make calls, or help online, we need you!
-✅ Spread the Word – Share Priscilla’s message with your friends, family, and community.
+How You Can Help: ✅ Donate – Every contribution fuels our grassroots movement.
+Your support helps us reach more voters and amplify our message. ✅ Volunteer – Whether you can knock doors, make calls, or help online, we need you! ✅ Spread the Word – Share Priscilla’s message with your friends, family, and community.
 Together, we can create a Louisiana that works for everyone—not just the powerful few.
-Join us in building a movement for change and ensuring that every voice is heard in Louisiana’s 3rd District.
-➡️ Donate today and sign up to volunteer at https://prisforcongress.com
-Let’s fight for a future where our government works for the people—because Louisiana deserves better.
+Join us in building a movement for change and ensuring that every voice is heard in Louisiana’s 3rd District. ➡️ Donate today and sign up to volunteer at https://prisforcongress.com Let’s fight for a future where our government works for the people—because Louisiana deserves better.
+Subscribe To Our Newsletter Stay up to date with the latest news from Priscilla Gonzalez's campaign Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
+Martin Parish St.
+Mary Parish Terrebonne Parish Vermilion Parish Donate ActBlue Threads PayPal Venmo Cash App Social Ballotpedia Discord Reddit Facebook X Priscilla Gonzalez for Louisiana State Representative, 3rd District Design & Developed by Buy WordPress Templates

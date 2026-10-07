@@ -1,21 +1,86 @@
 [
-"https://app.smartsheet.com/b/form/12377c9c74cb48cd9908177b6f95e53f",
-"https://app.smartsheet.com/b/form/d6a8eb145e534f89a2e65eb0f33c4f20",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Ffamily-show-down-fundraiser%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Fkaren-reeder-meet-greet%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Fofficial-vote-reeder-brazoria-campaign-kick-off%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Ffamily-show-down-fundraiser%3Flang%3Den",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Fkaren-reeder-meet-greet%3Flang%3Den",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Fofficial-vote-reeder-brazoria-campaign-kick-off%3Flang%3Den",
-"https://secure.actblue.com/donate/votereeder",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Ffamily-show-down-fundraiser%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Fkaren-reeder-meet-greet%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Fofficial-vote-reeder-brazoria-campaign-kick-off%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://votereeder-brazoria.com/",
-"https://votereeder-brazoria.com/blank-1",
-"https://votereeder-brazoria.com/blank-6",
-"https://votereeder-brazoria.com/event-details/family-show-down-fundraiser",
-"https://votereeder-brazoria.com/event-details/karen-reeder-meet-greet",
-"https://votereeder-brazoria.com/event-details/official-vote-reeder-brazoria-campaign-kick-off",
-"https://votereeder-brazoria.com/event-list"
+{
+"text": "CONTACT US",
+"href": "https://app.smartsheet.com/b/form/d6a8eb145e534f89a2e65eb0f33c4f20"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/votereeder"
+},
+{
+"text": "Details",
+"href": "https://www.votereeder-brazoria.com/event-details/family-show-down-fundraiser"
+},
+{
+"text": "Details",
+"href": "https://www.votereeder-brazoria.com/event-details/karen-reeder-meet-greet"
+},
+{
+"text": "Details",
+"href": "https://www.votereeder-brazoria.com/event-details/official-vote-reeder-brazoria-campaign-kick-off"
+},
+{
+"text": "EVENTS",
+"href": "https://www.votereeder-brazoria.com/event-list"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://app.smartsheet.com/b/form/12377c9c74cb48cd9908177b6f95e53f"
+},
+{
+"text": "HOME",
+"href": "https://www.votereeder-brazoria.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.votereeder-brazoria.com/blank-1"
+},
+{
+"text": "MEET KAREN",
+"href": "https://www.votereeder-brazoria.com/blank-6"
+},
+{
+"text": "Sponsor an Event",
+"href": "https://app.smartsheet.com/b/form/d6a8eb145e534f89a2e65eb0f33c4f20"
+},
+{
+"text": "[image: KAREN_FINAL_LOGOS.png]",
+"href": "https://www.votereeder-brazoria.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Ffamily-show-down-fundraiser%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Fkaren-reeder-meet-greet%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Fofficial-vote-reeder-brazoria-campaign-kick-off%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Ffamily-show-down-fundraiser%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Fkaren-reeder-meet-greet%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Fofficial-vote-reeder-brazoria-campaign-kick-off%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Ffamily-show-down-fundraiser%3Flang%3Den"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Fkaren-reeder-meet-greet%3Flang%3Den"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.votereeder-brazoria.com%2Fevent-details%2Fofficial-vote-reeder-brazoria-campaign-kick-off%3Flang%3Den"
+}
 ]

@@ -1,12 +1,7 @@
-Nat Smith Discusses his work combating fraud with the minnesota star tribune
-In an interview with the Star Tribune published on July 9, 2026, Nat Smith discussed his background combating fraud and the work he’s already done to fight fraud in Minnesota.
-Nat Smith Fights for New Fraud Protections at State CapitoL
-Minnesota Senate candidate Nat Smith (SD-33) working to make it easier to combat fraud in Minnesota and protect tax dollars.
-Nat Smith visits carpenters International training center
-Nat Smith visits United Brotherhood of Carpenters International Training Center.
-Senate District 33 DFL Rallies Behind Nat Smith with Provisional Endorsement
-Nat Smith secures provisional endorsement from Senate District 33 DFL.
-Nat Smith Discusses Fraud with the Star Tribune
-Nat Smith discusses combating fraud by advancing proactive policies focused on prevention and enhancing tools to hold fraudsters accountable with the Minnesota Star Tribune.
-Nathaniel (Nat) Smith Announces Campaign for Minnesota Senate District 33
-On October 7, 2025, Nat Smith announced his candidacy for Minnesota Senate District 33, which includes Stillwater, Scandia, Forest Lake, Bayport, Mahtomedi, Dellwood, and surrounding communities.
+0 Skip to Content About Events Priorities District 33 News Endorsements Get Involved Volunteer Request a Lawn Sign Contact Us Donate Open Menu Close Menu About Events Priorities District 33 News Endorsements Get Involved Volunteer Request a Lawn Sign Contact Us Donate Open Menu Close Menu About Events Priorities District 33 News Endorsements Folder: Get Involved Back Volunteer Request a Lawn Sign Contact Us Donate Nat Smith 9/29/26 Nat Smith 9/29/26 Nat Smith Pledges to Continue Fighting Fraud in First Digital Ad Read More Nat Smith 9/13/26 Nat Smith 9/13/26 It's Time to Make Fighting Fraud in Minnesota Easier Read More Nat Smith 7/31/26 Nat Smith 7/31/26 Nat Smith Outraises Republican Incumbent Karin Housley in 2026 Read More Nat Smith 7/9/26 Nat Smith 7/9/26 Nat Smith Discusses his work combating fraud with the minnesota star tribune In an interview with the Star Tribune published on July 9, 2026, Nat Smith discussed his background combating fraud and the work he’s already done to fight fraud in Minnesota.
+Read More Nat Smith 4/4/26 Nat Smith 4/4/26 Nat Smith Secures DFL Endorsment at SD33 Convention Read More Nat Smith 3/27/26 Nat Smith 3/27/26 Nat Smith Fights for New Fraud Protections at State CapitoL Minnesota Senate candidate Nat Smith (SD-33) working to make it easier to combat fraud in Minnesota and protect tax dollars.
+Read More Nat Smith 2/4/26 Nat Smith 2/4/26 Nat Smith visits carpenters International training center Nat Smith visits United Brotherhood of Carpenters International Training Center.
+Read More Nat Smith 10/24/25 Nat Smith 10/24/25 Senate District 33 DFL Rallies Behind Nat Smith with Provisional Endorsement Nat Smith secures provisional endorsement from Senate District 33 DFL.
+Read More Nat Smith 10/20/25 Nat Smith 10/20/25 Nat Smith Discusses Fraud with the Star Tribune Nat Smith discusses combating fraud by advancing proactive policies focused on prevention and enhancing tools to hold fraudsters accountable with the Minnesota Star Tribune.
+Read More Nat Smith 10/7/25 Nat Smith 10/7/25 Nathaniel (Nat) Smith Announces Campaign for Minnesota Senate District 33 On October 7, 2025, Nat Smith announced his candidacy for Minnesota Senate District 33, which includes Stillwater, Scandia, Forest Lake, Bayport, Mahtomedi, Dellwood, and surrounding communities.
+Read More Contact the Campaign Email us Follow us PREPARED AND PAID FOR BY NAT SMITH FOR MN STATE SENATE COMMITTEE PO Box 116, Stillwater, MN 55082 Photo Gallery | Privacy Policy

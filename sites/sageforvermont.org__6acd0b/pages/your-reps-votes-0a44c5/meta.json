@@ -1,9 +1,13 @@
 {
  "description": "",
  "final_url": "https://sageforvermont.org/your-reps-votes",
- "paid_for_by": null,
+ "fingerprint": "d1f3e2afc728604d2d95197a84fcd8cbe9a14ae9",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Home - Your Rep's Votes",
  "years_mentioned": [
-  "2024"
+  "2024",
+  "2030",
+  "2035"
  ]
 }

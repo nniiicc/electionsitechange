@@ -1,4 +1,4 @@
-Hello!
+0 Skip to Content Home Endorsements Meet Jenn Marie My Priorities Media Contact English Donate Open Menu Close Menu Home Endorsements Meet Jenn Marie My Priorities Media Contact English Donate Open Menu Close Menu Home Endorsements Meet Jenn Marie My Priorities Media Contact English Back Donate Hello!
 I'm Jenn Marie Strickling.
 I am a lifelong Washingtonian, a former union laborer, and a proud product of Orting, Washington—a community where neighbors show up for one another and hard work is a shared value.
 Growing up in a multi-generational building trades family taught me a legacy rooted in craftsmanship, integrity, and taking pride in an honest day's work.
@@ -21,3 +21,4 @@ Let’s Build This Together.
 We only win when we show up for each other and protect the welfare of our neighbors.
 If you want to volunteer, host a conversation, ask a question, or share what’s on your mind—please reach out.
 Let’s organize, connect, and move the 25th District forward together.
+Paid for by Elect Strickling 4320 44th AVE E, Summit-Waller, WA 98443 Contact electstrickling@gmail.com

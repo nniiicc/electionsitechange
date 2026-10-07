@@ -1,8 +1,4 @@
-Request a
-United States or Tennessee Flag
-Veterans, Schools, Scout Troops and Community organizations
-may request a U.S. or Tennessee flag from Rep.
-Lynn suitable
-for flying at your residence, school or organization.
+Home Links BIO Request a United States or Tennessee Flag Veterans, Schools, Scout Troops and Community organizations may request a U.S. or Tennessee flag from Rep.
+Lynn suitable for flying at your residence, school or organization.
 Because Rep.
-Lynn is charged for each flag, we ask that you limit your requests to one per year, and please note that the staff must reserve the right to deny requests from people who do not reside in the 57th district.
+Lynn is charged for each flag, we ask that you limit your requests to one per year, and please note that the staff must reserve the right to deny requests from people who do not reside in the 57th district. send > TO TOP Flag Presentation Flag Blue Book Honor Your Scout Certificate Resolution Letter Invite On-Site Visit Meeting Speaking Day on the Hill Capitol Tour Page for a Day Internship friends of susan lynn support this website Capitol office: 425 5th Avenue North, Suite 426, Cordell Hull Bldg., Nashville, TN 37243 | (615) 741-7462 | rep.susan.lynn@capitol.tn.gov

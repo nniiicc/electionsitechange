@@ -1,4 +1,4 @@
-This will be my last Wednesday’s With Will post until my Campaign debrief on Wednesday, November 4th.
+Home My Story Public Policy Goals News Connect Get Involved Join an Event Contribute News / Wednesday With Will (September 9th Edition) 9 Sep Wednesday, 6:49 PM · 2026 Wednesday With Will (September 9th Edition) This will be my last Wednesday’s With Will post until my Campaign debrief on Wednesday, November 4th.
 I have rewrote this post maybe a dozen times now, and still struggle with how to portray my final words for now.
 Tomorrow, we face a year since the political assasination of a civil rights leader and the martyrdom of a fellow brother in Christ.
 I know these are bold claims, but if we look at who Charlie Kirk was and the legacy he holds, they are the foundation of what this man successfully achieved in the 31 years he fought tirelessly for his faith and our country.
@@ -20,8 +20,7 @@ The same goes for Charlie's ability to organize events and have thousands show u
 It was historic.
 If I am being politically honest, I would not be a candidate for Colorado’s State House District 30 if it wasn’t for what occurred on September 10th last year in Utah.
 I knew I could no longer stand on the sidelines, or work behind the scenes.
-As Charlie often said, “There will come a time where you will have to pick up the mic yourself.”
-That statement spurred my search on how I could best serve my own neighborhood and community.
+As Charlie often said, “There will come a time where you will have to pick up the mic yourself.” That statement spurred my search on how I could best serve my own neighborhood and community.
 The conversation kept coming up that running for office could be my best spot to do that.
 When I reflected on my skill sets, experience, and desires to best represent my local neighborhood, the upcoming HD30 election kept surfacing.
 People exclaimed dissatisfaction toward our current representative.
@@ -30,5 +29,4 @@ That is how I got here.
 Now, to the future of Wednesday’s With Will.
 Don’t worry, this Friday, you can expect a big announcement regarding the transition of this format of communication.
 It has been my pleasure, week after week, to share my thoughts and opinions with you all, and like always, I thank you so much for your support and viewership.
-Stay Connected,
--William Switzer
+Stay Connected, -William Switzer Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

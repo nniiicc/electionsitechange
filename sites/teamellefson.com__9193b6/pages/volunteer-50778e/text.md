@@ -1,13 +1,7 @@
-Get Involved
-Ready to roll up your sleeves and join Team Ellefson?
+Meet Sebastian Priorities Delegate Info Get Involved Events Endorsements Donate Get Involved Ready to roll up your sleeves and join Team Ellefson?
 Sign up below!
 Curious to learn what being a delegate means?
-Click here to learn more.
-Prepared and paid for by:
-Team Ellefson for 65B
-Team Ellefson for 65B
-P.O.
-Box 7181
-St.
-Paul, MN 55107
-Powered by CampaignPartner.com - Political Websites
+Click here to learn more .
+First Name Last Name Email Phone Address Address 2 City/Town State Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip I would like to Door Knock I would like a yard sign I would like to host a meet & greet I would like to volunteer Get updates and news via email Submit Voter Information Endorsements Yard Signs Make An Endorsement Events Contact Prepared and paid for by: Team Ellefson for 65B P.O.
+Box 7181 St.
+Paul, MN 55107 Powered by CampaignPartner.com - Political Websites Home Meet Sebastian Priorities Delegate Info Endorsements Donate Get Involved Yard Signs Events Contact Voter Information Close Menu

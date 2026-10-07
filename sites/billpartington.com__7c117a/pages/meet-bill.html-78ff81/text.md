@@ -1,5 +1,4 @@
-About Bill Partington for State Represenative
-Mayor Partington was born at Halifax Hospital and raised in Ormond Beach.
+Meet Bill - BILL PARTINGTON FOR STATE REPRESENTATIVE Go to content Contribute × Home Meet Bill Issues Volunteer Contact Fb About Bill Partington for State Represenative Mayor Partington was born at Halifax Hospital and raised in Ormond Beach.
 He attended Tomoka Elementary, Ormond Beach Junior High,and graduated from Mainland High School.
 He earned an A.A. degree from Daytona Beach Community College, a B.A. degree in communications from the University of Central Florida, and his Juris Doctor from the Loyola School of Law in New Orleans.
 Mayor Partington currently serves as an Assistant Public Defender and Division Chief for the Felony Trial Division for Florida's Seventh Judicial Circuit.
@@ -17,3 +16,4 @@ He is also the recipient of the 2015, 2016, 2017, 2018, 2019 & 2020 "Home Rule H
 Mayor Partington also serves on the Florida League of Cities Board of Directors and was recently appointed to the National League of Cities Human Development Federal Advocacy Committee which shapes policy positions on behalf of Ormond Beach and advocates before Congress.
 Mayor Partington is a member of The Historic Ormond Yacht Club, and Ormond Beach Y.M.C.A..
 He is also an Elder in the Christ Presbyterian Church where he has attended for over 47 years.
+Paid by Bill Partington, Republican, for State Representative, District 28 Back to content To use this website you must enable JavaScript.

@@ -1,4 +1,4 @@
-Today I attended the Pride Portland parade and festival.
+Skip to content Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Contribute MAINE PRIDE-Planting Seeds of Hope Home / News / MAINE PRIDE-Planting Seeds of Hope Today I attended the Pride Portland parade and festival.
 It was one of the most satisfying and enriching days of my life.
 I met and spoke with many wonderful folks and I hope that some will join us in reforming Maine’s government.
 On my way to the parade I stopped to talk with a gentleman sitting on the sidewalk, leaning up next to a building with a bunch of used needles on the sidewalk a few feet away.
@@ -21,3 +21,11 @@ It should be a society in which all are equally treated and respected.
 Change will not come from within the system.
 It will only come from those outside the system who are often marginalized, mistreated or ignored by the system.
 I hope that the seeds of hope that I tried to plant today germinate and grow to become the grassroots network we collectively need to begin that change.
+News John M.
+Glowa, Sr.
+An experienced public servant and lifelong advocate for government reform, environmental protection, and putting people before politics.
+Recent Post ICE and the Federal Government Energy Yahoo News Maine Morning Star Spectrum News John Glowa, Sr.
+Announces Gubernatorial Candidacy Why Should You Vote For Me?
+See All Posts John Glowa, Sr., Independent for Governor 2026 – A campaign focused on truth, experience, and putting people before politics.
+Join us in reshaping Maine’s government to work for everyone.
+Quick Link Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Recent Posts ICE and the Federal Government Energy Yahoo News Maine Morning Star Spectrum News Contact Us Phone: 207-660-3801 Email: johnglowaforgovernor@gmail.com Copyright © # All Right Reserved

@@ -1,5 +1,7 @@
-WE ARE AT A CROSSROADS IN WESTERN NEW YORK
-First, GO KNICKS!
+0 Skip to Content HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES Folder: ISSUES Back Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Podcast , • 6/12/26 WE ARE AT A CROSSROADS IN WESTERN NEW YORK First, GO KNICKS!
 That was one of the best basketball games I’ve ever watched.
 Pure heart.
 Pure grit.
@@ -37,3 +39,8 @@ Speak up.
 Get involved.
 Make your voice heard.
 Because if we don’t shape the future of this region, someone else will.
+Previous I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: Next PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+You Might Also Like I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK IS NATE A RADICAL COMMUNIST?
+HARDLY LET’S GO THROUGH THE ISSUES.
+THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics Volunteer and Sign Up for Updates!

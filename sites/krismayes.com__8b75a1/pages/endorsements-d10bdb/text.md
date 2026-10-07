@@ -1,25 +1,4 @@
-Skip navigation menu
-Labor
-Issue Organizations
-College and Youth
-Labor
-Issue Organizations
-College and Youth
-- Teamsters
-- American Federation of Labor and Congress of Industrial Organizations (AFL-CIO)
-- United Food & Commercial Workers Local 99 (UFCW)
-- Arizona Education Association (AEA)
-- AFSCME
-- Unite Here
-- Worker Power
-- Boilermakers
-- Ironworkers Local 75
-- Communication Workers of America Alliance (CWA)
-- Retired Americans International
-- Association of Fire Fighters
-- Professional Fire Fighters of Arizona
-- Arizona State Building & Construction Trades Council
-- International Association of Machinists & Aerospace Workers (IAM)
-- Laborers’ International Union of North America Local 1184 (LIUNA)
-- United Auto Workers (UAW)
-- Arizona State Association of Letter Carriers (ASALC)
+Skip navigation menu About Endorsements Priorities Kris Captains Volunteer Shop Donate Endorsements About Endorsements Priorities Kris Captains Volunteer Shop Donate Endorsements Labor Issue Organizations College and Youth Labor Teamsters American Federation of Labor and Congress of Industrial Organizations (AFL-CIO) United Food & Commercial Workers Local 99 (UFCW) Arizona Education Association (AEA) AFSCME Unite Here Worker Power Boilermakers Ironworkers Local 75 Communication Workers of America Alliance (CWA) Retired Americans International Association of Fire Fighters Professional Fire Fighters of Arizona Arizona State Building & Construction Trades Council International Association of Machinists & Aerospace Workers (IAM) Laborers’ International Union of North America Local 1184 (LIUNA) United Auto Workers (UAW) Arizona State Association of Letter Carriers (ASALC) Issue Organizations Emily's List Reproductive Freedom for All Sierra Club LGBTQ+ Victory Fund LPAC Moms Fed Up End Citizens United Jewish Democratic Council of America Fight Corporate Monopolies Democrats of the Red Rock Equality Arizona Jane Fonda Climate PAC Giffords PAC National Women's Political Caucus Planned Parenthood Advocates of Arizona Human Rights Campaign PAC Committee to Protect Health Care NRDC Action Fund Way to Lead PAC College and Youth Keep Arizona Blue Arizona College Democrats UA College Democrats ASU College Democrats Contact Privacy Policy P.O.
+Box 32787 Phoenix, AZ 85064 Donate by Check Made out to “Kris Mayes for Arizona” Mail to: P.O.
+Box 32787, Phoenix, AZ 85064 Maximum Individual donation $# Powered by RUN! website builder Paid for by Kris Mayes for Arizona.
+Authorized by Kris Mayes You need to enable JavaScript to run this app.

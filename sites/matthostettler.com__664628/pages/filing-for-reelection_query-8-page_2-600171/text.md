@@ -1,3 +1,4 @@
-Today I filed to run to continue to represent the 64th District in The House of Representatives in The Indiana General Assembly.
+Skip to content Home About Matt Matt’s Record District 64 From the Trail Contribute Contact Filing for Reelection January 22, 2024 Today I filed to run to continue to represent the 64th District in The House of Representatives in The Indiana General Assembly.
 So thankful for my beautiful bride and the little ones that she’s blessed me with.
 Wouldn’t/couldn’t do it without their love and support.
+Latest news Attended Event Held for John Hostettler Filing for Reelection About Free Markets Marching for Life Back where it all started Search Search Search Stay in Touch Facebook Twitter Mail Site Pages: Home About Matt Matt’s Record District 64 From the Trail Contribute Contact January 22, 2020 Marching for Life October 15, 2017 Back where it all started Previous Page 1 2 Copyright © # Matt Hostettler for State Representative Powered by integriCORE

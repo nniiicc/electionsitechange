@@ -1,4 +1,5 @@
-35th Senate District
-The Illinois State Senate 35th District is represented by Dave Syverson and covers portions of northern Illinois.
+0 Skip to Content Home Meet Dave Bio The District Awards & Endorsements Volunteer Voter Info Donate Contact Open Menu Close Menu Home Meet Dave Bio The District Awards & Endorsements Volunteer Voter Info Donate Contact Open Menu Close Menu Home Folder: Meet Dave Back Bio The District Awards & Endorsements Volunteer Voter Info Donate Contact 35th Senate District The Illinois State Senate 35th District is represented by Dave Syverson and covers portions of northern Illinois.
 The district includes parts of Boone, DeKalb, Kane, McHenry, and Winnebago counties, serving communities throughout the Rockford region and surrounding suburban and rural areas.
 The district is known for its mix of manufacturing, agriculture, small businesses, and growing suburban communities, making it an important region in northern Illinois politics and economic development.
+Interactive Map Home Meet Dave Issues & Core Values Donate Contact Me Phone: (815) 914-5108 Email: Iori@syversonforsenate.com 527 Colman Center Drive | Cherry Valley, IL, United States, 61108 A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.
+Paid for by Syverson for Senate. © # All Rights Reserved.

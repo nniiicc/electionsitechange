@@ -1,9 +1,11 @@
-“One of the first things I did after deciding to suspend our campaign for Congress in 2026 was meet with Trina Swanson.
+Skip to content Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News SIGN UP DONATE SIGN UP DONATE Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Chad McKenna Backs Trina “One of the first things I did after deciding to suspend our campaign for Congress in 2026 was meet with Trina Swanson.
 I had heard her speak several times on the campaign trail, and meeting her confirmed what I already knew.
 She is qualified, experienced, grounded, and ready to do the work for the people across northern and central Minnesota.
 I’m proud to endorse Trina because she will fight for us and hold the Trump administration accountable, two things Pete Stauber has failed to do.
 If you’re a delegate to the 8th Congressional District DFL convention this weekend, I hope you’ll join me.
 Let’s come together, unite behind Trina, and send a clear message that we’re ready to win in November.
-And I hope you’ll join me in contributing to the campaign so Trina has the resources to take this all the way to victory.”
-– Chad McKenna
-Community Leader, Union Organizer and Former Congressional Candidate
+And I hope you’ll join me in contributing to the campaign so Trina has the resources to take this all the way to victory.” – Chad McKenna Community Leader, Union Organizer and Former Congressional Candidate Paid for by Trina for Congress Mailing Address: PO Box 1063 Duluth, MN 55810 Navigation Home Meet Trina Priorities News Events Get Involved Volunteer Donate Sign Up Campaign Headquarters 4877 Miller Trunk Highway Hermantown, MN 55811 Hours: Monday–Thursday: 11am–2pm; 4pm–7pm Friday: 11am–2pm Saturday: 12pm–2pm Sunday: Closed contact@trinaforcongress.com Facebook Instagram X-twitter Threads © # Trina Swanson for Congress.
+All rights reserved.
+Privacy Policy Sign Up for Updates to Stay Connected First Name Last Name Email SIGN UP!
+Support Trina's Campaign Trina doesn't take corporate PAC money.
+Every dollar comes from people like you — neighbors who believe MN-8 deserves better. $5 $25 $50 $100 $500 $1,000 Other Donate Now

@@ -1,6 +1,4 @@
-Rep. dan frankel
-A Leading Voice
-Since 1999, Rep.
+Skip to content Elect Dan Frankel Menu Close Home About Dan Issues Open menu Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact About Dan ElectFrankel@gmail.com Donate Now Home About Dan Issues Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Home About Dan Issues Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Rep. dan frankel A Leading Voice Since 1999, Rep.
 Dan Frankel has served Pennsylvania’s 23rd district, which includes the neighborhoods of Squirrel Hill, Oakland, Point Breeze, Regent Square, Greenfield, and Shadyside.
 At the statehouse, Dan is a leading voice for social justice, women’s health, environmental protection and gun regulation.
 He grew up in the district, watching Pittsburgh begin the transition away from its industrial roots and seeing how those changes affected the lives around him.
@@ -26,13 +24,9 @@ Frankel graduated from Pennington School in 1974.
 He earned his bachelor’s degree in political science in 1978 from Kenyon College in Gambier, Ohio.
 In 2000, he completed a certificate program for senior executives in state and local government at Harvard University’s Kennedy School of Government.
 Formerly an insurance executive, he served as vice president of Hilb, Rogal and Hamilton Co., and as vice president of the Frankel Co., a regional insurance brokerage firm.
-Dan and his wife Debra have three children
-Let’s make a difference!
+Dan and his wife Debra have three children Let’s make a difference!
 Donate to our campaign.
-About
-Since 1999, Rep.
+Donate Now About Since 1999, Rep.
 Dan Frankel has served Pennsylvania’s 23rd district, which includes the neighborhoods of Squirrel Hill, Oakland, Point Breeze, Regent Square, Greenfield, and Shadyside.
-Explore
-Contact
-© Copyright 2022 – Rep.
-Dan Frankel
+Explore Home About Dan Issues Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Contact ElectFrankel@gmail.com © Copyright # – Rep.
+Dan Frankel Site by Imagebox Search Search Recent Posts Some Useful Links for You to Get Started Recent Comments A WordPress Commenter on Some Useful Links for You to Get Started Archives March 2022 Categories Uncategorized Elect Dan Frankel Proudly powered by WordPress .

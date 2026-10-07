@@ -1,7 +1,9 @@
 {
  "description": "Find 2026 election information for Texas House District 116, including voter registration resources and information about candidate Rhett Rosenquest Smith.",
  "final_url": "https://www.vote4rhett.org/electioninformation",
- "paid_for_by": null,
+ "fingerprint": "ac8dbe7e3921a16e5a856e5321aa22ff47ba15e1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Election Information | Rhett Rosenquest Smith",
  "years_mentioned": [
   "2026"

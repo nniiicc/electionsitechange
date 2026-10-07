@@ -1,14 +1,2 @@
-Toggle navigation
-Home
-Meet Steve
-Endorsements
-District
-Media
-Volunteer
-Yard Signs
-Contact
-Donate
-Donate
-Media
-Photos
-Video
+Toggle navigation Home Meet Steve Endorsements District Media Volunteer Yard Signs Contact Donate Donate Media Photos Video Home Meet Steve Endorsements District Media Volunteer Yard Signs Contact Donate Donate Paid for by Demetriou for Ohio Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Privacy Policy | Terms & Conditions

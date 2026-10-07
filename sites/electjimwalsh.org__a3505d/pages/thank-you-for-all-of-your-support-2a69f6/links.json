@@ -1,15 +1,58 @@
 [
-"https://efundraisingconnections.com/c/JimWalsh",
-"https://electjimwalsh.org/",
-"https://electjimwalsh.org/about",
-"https://electjimwalsh.org/author/abhays",
-"https://electjimwalsh.org/campaign-videos",
-"https://electjimwalsh.org/category/uncategorized",
-"https://electjimwalsh.org/contact",
-"https://electjimwalsh.org/news",
-"https://electjimwalsh.org/primary-elections-2016",
-"https://electjimwalsh.org/subscribe",
-"https://electjimwalsh.org/thank-you-for-all-of-your-support",
-"https://electjimwalsh.org/walsh-endorsed-by-hunters-heritage-council-wa-dairy-pac",
-"https://siteorigin.com/"
+{
+"text": "About",
+"href": "https://electjimwalsh.org/about"
+},
+{
+"text": "August 8, 2016",
+"href": "https://electjimwalsh.org/thank-you-for-all-of-your-support"
+},
+{
+"text": "Campaign Videos",
+"href": "https://electjimwalsh.org/campaign-videos"
+},
+{
+"text": "Contact",
+"href": "https://electjimwalsh.org/contact"
+},
+{
+"text": "Donate To Jim’s Campaign",
+"href": "https://www.efundraisingconnections.com/c/JimWalsh"
+},
+{
+"text": "Home",
+"href": "https://electjimwalsh.org/"
+},
+{
+"text": "News",
+"href": "https://electjimwalsh.org/news"
+},
+{
+"text": "SiteOrigin",
+"href": "https://siteorigin.com"
+},
+{
+"text": "Subscribe",
+"href": "https://electjimwalsh.org/subscribe"
+},
+{
+"text": "Uncategorized",
+"href": "https://electjimwalsh.org/category/uncategorized"
+},
+{
+"text": "WALSH ENDORSED BY HUNTERS HERITAGE… →",
+"href": "https://electjimwalsh.org/walsh-endorsed-by-hunters-heritage-council-wa-dairy-pac"
+},
+{
+"text": "[image: Jim Walsh Logo]",
+"href": "https://electjimwalsh.org/"
+},
+{
+"text": "abhays",
+"href": "https://electjimwalsh.org/author/abhays"
+},
+{
+"text": "← PRIMARY ELECTIONS 2016",
+"href": "https://electjimwalsh.org/primary-elections-2016"
+}
 ]

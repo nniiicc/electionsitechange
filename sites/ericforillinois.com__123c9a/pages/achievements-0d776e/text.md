@@ -1,11 +1,15 @@
-Skip navigation menu
-In Illinois
-Neighbors look out for one another.
+Skip navigation menu Meet Eric Issues Achievements Get Involved Contact Media News Donate Achievements Meet Eric Issues Achievements Get Involved Contact Media News Donate Achievements In Illinois Neighbors look out for one another.
 I did every day as your meteorologist, and that’s why in Congress I've worked to be a good neighbor to everyone in the 17th District and make sure my office is transparent and responsive.
+Since becoming your Representative in Congress, I have: 24 bills and amendments introduced 338 bills cosponsored 173,937 constituent letters answered 4,150 constituent cases resolved $166,819,287 secured for the district 729 meetings with constituents, stakeholders, and community leaders.
 As your trusted neighbor in Congress, I know that the small things in our community can add up to big change.
-Local Investment, Big Impact
-From Main Street to your street, it’s my honor to help keep things working around IL-17.
-That’s why I’m proud to have secured funding for:
-Legislative Wins for Illinois’ 17th
-Every day, I will keep fighting to deliver new, critical wins for my neighbors in IL-17.
-Here are just a few recent accomplishments for the district that I’m proud of:
+Local Investment, Big Impact From Main Street to your street, it’s my honor to help keep things working around IL-17.
+That’s why I’m proud to have secured funding for: Water Infrastructure Improvement for Freeport A Police Training Center for Winnebago County 8th Street Bridge Replacements for Rockford Water Main Replacements for Lanark Lead Water Main Replacements for Moline Roadway Infrastructure for Rock Island Lead Service Lines Replacement for Monmouth Infrastructure Improvements Along Waterways More Affordable Housing for Peoria Sidewalk Upgrades for Peoria Water Main Replacements for Peoria Heights Sewer Projects for Bloomington Storm Water Infrastructure for Normal Street Upgrades for Normal Rock Falls Fire Department Training Tower Project Village of Coal Valley Water Main Extension and Well #4 Water Tower Construction City of Rock Island Mill Street Wastewater Treatment Plant Maintenance Project City of Maquon Wastewater Plant Improvements City of Elmwood Wasterwater Lagoon Upgrades City of Silvis 34th and 7th Street Sewer Replacement Project City of Macomb Storm Sewer Upgrades City of Bloomington East Street basin Storm Water Improvements City of Freeport Water Main Replacement German Valley Wastewater Improvement Project Navigation and Ecosystem Sustainability Program Forest Hill Avenue and Sterling Avenue Intersection Improvement Project in Peoria Rockford Family Peace Center Reconstruction Project Savanna N 4th Street Watermain Project Village of Sherrard Drinking Water Improvement Project Legislative Wins for Illinois’ 17th Every day, I will keep fighting to deliver new, critical wins for my neighbors in IL-17.
+Here are just a few recent accomplishments for the district that I’m proud of: Led over 40 members in advocating against cuts to funding for local police departments in Congressional budgets.
+Helped introduce the PRO Act to push back against anti-worker laws and protect workers’ right to organize.
+Introduced efforts to lower drug prices by cracking down on Big Pharma dirty tactics that hurt competition and prevent affordable drugs from being available at your local pharmacy.
+Worked with the FCC in stopping scam robocalls and texts that target seniors.
+Authored two amendments to a major immigration package to strengthen our southern border and prevent the spread of deadly drugs like fentanyl into the country.
+Helped require that American flags purchased by the government actually be made in the USA.
+Introduced the ONSHORE Act to keep more manufacturing jobs, companies, and facilities from being moved overseas.
+Eric Sorensen for Illinois P.O.
+Box 1172 Moline, IL 61265 ​ info@ericforillinois.com Privacy Policy Powered by RUN! website builder Paid for by Eric Sorensen for Illinois You need to enable JavaScript to run this app.

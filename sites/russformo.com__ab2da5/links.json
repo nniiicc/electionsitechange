@@ -1,11 +1,62 @@
 [
-"https://facebook.com/people/Russ-Gosselin-for-Missouri/61584514577240",
-"https://maps.app.goo.gl/PZh7mQkpGqjBYJV49",
-"https://russformo.com/",
-"https://russformo.com/privacy-policy",
-"https://russformo.com/\u201d/privacy-policy/\u201d",
-"https://s1.sos.mo.gov/elections/VoterLookup",
-"https://secure.anedot.com/russ-gosselin-for-missouri/donate-today",
-"https://sos.mo.gov/elections/goVoteMissouri/register",
-"https://vote.greenecountymo.gov/voting-information"
+{
+"text": "About",
+"href": "https://russformo.com/#about"
+},
+{
+"text": "All hours & dates",
+"href": "https://vote.greenecountymo.gov/voting-information/"
+},
+{
+"text": "Directions to Election Center",
+"href": "https://maps.app.goo.gl/PZh7mQkpGqjBYJV49"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/russ-gosselin-for-missouri/donate-today"
+},
+{
+"text": "Donate now",
+"href": "https://secure.anedot.com/russ-gosselin-for-missouri/donate-today"
+},
+{
+"text": "Find my election day location",
+"href": "https://s1.sos.mo.gov/elections/VoterLookup/"
+},
+{
+"text": "Home",
+"href": "https://russformo.com/#home"
+},
+{
+"text": "Issues",
+"href": "https://russformo.com/#issues"
+},
+{
+"text": "Join",
+"href": "https://russformo.com/#join"
+},
+{
+"text": "One-Minute Survey",
+"href": "https://russformo.com/#survey"
+},
+{
+"text": "Privacy Policy",
+"href": "https://russformo.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://russformo.com/%E2%80%9D/privacy-policy/%E2%80%9D"
+},
+{
+"text": "Register Online",
+"href": "https://www.sos.mo.gov/elections/goVoteMissouri/register"
+},
+{
+"text": "[image: Russ Goesselin for State Representative]",
+"href": "https://russformo.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Russ-Gosselin-for-Missouri/61584514577240/"
+}
 ]

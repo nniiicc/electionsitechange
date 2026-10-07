@@ -1,19 +1,2 @@
-Skip to content
-Home
-Meet David
-Issues
-News
-Coalitions
-Contact
-Volunteer
-Contribute
-Sign Up for Updates
-Email
-(Required)
-Zip
-(Required)
-Subscribe
-Join Our Fight Today!
-Contribute
-Driving
-August 21, 2014
+Skip to content Home Meet David Issues News Coalitions Contact Volunteer Contribute Sign Up for Updates Email (Required) Zip (Required) Subscribe Join Our Fight Today!
+Contribute Driving August 21, 2014 Contribute Meet David Issues News Coalitions Contact Volunteer PAID FOR BY DAVID ROUZER FOR CONGRESS PO BOX 3142, WILMINGTON, NC 28406 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

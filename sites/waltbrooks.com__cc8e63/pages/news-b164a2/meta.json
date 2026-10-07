@@ -1,7 +1,13 @@
 {
  "description": "Walt Brooks in the News",
  "final_url": "https://www.waltbrooks.com/news",
- "paid_for_by": null,
+ "fingerprint": "2413d33eb1f61a3159245a16876ac0d22c5c6dab",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
- "years_mentioned": []
+ "years_mentioned": [
+  "2021",
+  "2024",
+  "2026"
+ ]
 }

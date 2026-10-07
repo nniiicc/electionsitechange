@@ -1,12 +1,4 @@
-Christian
-〰️
-Conservative
-〰️
-Proven Conservative
-〰️
-Christian 〰️ Conservative 〰️ Proven Conservative 〰️
-Meet Martha
-Martha loved growing up in Worland.
+0 Skip to Content Home About Martha On the Issues Let's Connect Martha's Legislative Work Open Menu Close Menu Home About Martha On the Issues Let's Connect Martha's Legislative Work Open Menu Close Menu Home About Martha On the Issues Let's Connect Martha's Legislative Work Christian 〰️ Conservative 〰️ Proven Conservative 〰️ Christian 〰️ Conservative 〰️ Proven Conservative 〰️ Christian 〰️ Conservative 〰️ Proven Conservative 〰️ Meet Martha Martha loved growing up in Worland.
 She graduated from Worland High School in 1974 and attended Northwest Community College on a debate scholarship.
 Martha graduated from the University of Wyoming in 1978 with a degree in Political Science.
 She then moved to Texas to attend law school.
@@ -20,7 +12,7 @@ After a few years, he began working in the training division of NASA’s Shuttle
 He was part of a team that trained Astronauts and Flight Controllers for Shuttle missions at Johnson Space Center.
 Martha and Roger had wonderful careers, great friends and were involved in the life of their community.
 But Martha greatly missed life in Wyoming and longed for her kids to experience living in small town Wyoming.
-- In 1994, Roger accepted a job with Admiral Beverage, headquartered in Worland, for a position in Utah.
+Read More In 1994, Roger accepted a job with Admiral Beverage, headquartered in Worland, for a position in Utah.
 Martha and her family moved to Utah where she had the opportunity to stay home with her children.
 While in Utah, Martha was able to pursue her passion for encouraging Christian women in their spiritual and leadership development.
 In 2001 Martha and her family finally came back to Worland and she began volunteering to help her local community that had given so much to her during her childhood.
@@ -41,3 +33,4 @@ Martha currently serves as the Representative for House District 27 in the Wyomi
 She serves on the Education Committee and the Minerals, Business & Economic Development Committee.
 Martha appreciates the trust and support the people of District 27 have given her.
 She is truly thankful they have allowed her the privilege of serving them and asks for their vote for her to continue working on their behalf.
+Lawley for Wyoming

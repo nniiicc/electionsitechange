@@ -1,8 +1,1 @@
-Donate
-Menu
-Home
-Volunteer
-Donate
-Terms of Service
-Text
-Email Dean Tarulli at Deanfordistrict15@gmail.com
+Donate Menu Home Volunteer Donate Terms of Service Text Email Dean Tarulli at Deanfordistrict15@gmail.com Home Volunteer Donate Donate Accessibility Statement Terms of Service Contact Donate PAID FOR BY FRIENDS OF DEAN TARULLI Dean Tarulli for District 15 © #

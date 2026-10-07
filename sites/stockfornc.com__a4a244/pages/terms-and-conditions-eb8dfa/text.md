@@ -1,14 +1,12 @@
-Terms and Conditions
-FRIENDS OF CHRIS STOCK (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by FRIENDS OF CHRIS STOCK ), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
-If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
+Terms and Conditions FRIENDS OF CHRIS STOCK (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by FRIENDS OF CHRIS STOCK ), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “ STOP ” to any mobile message from Us in order to opt out of the Program.
 User Opt In: FRIENDS OF CHRIS STOCK : You've subscribed to receive messages from FRIENDS OF CHRIS STOCK Msg & Data Rates May Apply.
 Message frequency varies.
 The Program allows users to receive SMS/MMS mobile messages by users affirmatively opting into the Program, such as through online enrollment forms or any successor short code or long code to opt into the Program.
 Regardless of the opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
 The mobile messaging service used by Us to communicate with you requires human intervention for Our mobile messages to be initiated, and thus Our mobile messages are not sent to you by an automatic telephone dialing system (“ATDS” or “autodialer”).
 Nevertheless, by participating in the Program, you agree to receive autodialed marketing mobile messages and you understand that consent is not required to make any purchase from Us.
-Program Description: Without limiting the scope of the Program, users that opt into the Program can expect to receive messages concerning FRIENDS OF CHRIS STOCK
-Cost and Frequency: Message and data rates may apply.
+Program Description: Without limiting the scope of the Program, users that opt into the Program can expect to receive messages concerning FRIENDS OF CHRIS STOCK Cost and Frequency: Message and data rates may apply.
 The Program involves recurring mobile messages, and additional mobile messages may be sent based on your interaction with Us.
 User Opt Out and Additional Commands: FRIENDS OF CHRIS STOCK You are unsubscribed and will no longer receive messages from FRIENDS OF CHRIS STOCK.
 To opt out (discontinue participation in Program), reply “STOP” to any of Our mobile messages from your mobile device.
@@ -56,4 +54,4 @@ Any new features, changes, updates or improvements of the Program shall be subje
 We reserves the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
-By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
+By continuing to participate in the Program after any such changes, you accept these Terms, as modified. << Back to site Paid for by Friends of Chris Stock Privacy Policy Donate

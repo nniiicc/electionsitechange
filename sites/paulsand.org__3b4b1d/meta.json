@@ -1,7 +1,9 @@
 {
  "description": "Explore the official site of Paul Sand, a former gubernatorial candidate from Paul, Idaho, sharing insights and projects for the community.",
  "final_url": "https://paulsand.org/",
- "paid_for_by": null,
+ "fingerprint": "7914492299f0b1309229fa7e8a7af39d5ffd539d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Paul Sand",
  "years_mentioned": [
   "2026"

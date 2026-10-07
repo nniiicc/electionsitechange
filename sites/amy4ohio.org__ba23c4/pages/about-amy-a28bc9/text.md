@@ -1,6 +1,4 @@
-Amy’s Inspiration for Running
-A Note From Our Candidate:
-I am a lifelong Ohian.
+0 Skip to Content Rigsby 4 Representative About Contact Donate Topics Voter Info Swag & Merch Open Menu Close Menu Rigsby 4 Representative About Contact Donate Topics Voter Info Swag & Merch Open Menu Close Menu About Contact Donate Topics Voter Info Swag & Merch Amy’s Inspiration for Running A Note From Our Candidate: I am a lifelong Ohian.
 I was born and raised on the southeast side of Columbus in a working class neighborhood.
 My childhood was not easy.
 My brother died when I was 4 years old due to sucicide.
@@ -26,8 +24,10 @@ Millersport Lakers have a place in my heart always!
 It is the reprehensible policies our current federal administration and the Ohio Statehouse is making that called for me to make some changes, and it started with this campaign.
 As Ohioans we must do better!
 Want to learn more about where Amy stands on Important Topics?
-Want to Help with our Campaign?
+Click Here Want to Help with our Campaign?
 This is a campaign for the people and by the people!
 We need friends, neighbors, and allies to volunteer in any way they are able to so we can get this campaign off the ground!
 There are lots of ways you can make a difference!
 If you want to learn what you can do to help with our campaign, please fill out this short form.
+Learn More Here Rigsby 4 Representative Paid for by Friends of Amy Rigsby Location: Fairfield, Licking, & Perry Counties, Ohio Contact: AmyR4Ohio@gmail.com Send Donation Checks to: Friends of Amy Rigsby, P.O.
+Box 43, Amanda, OH 43102

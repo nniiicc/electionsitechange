@@ -1,11 +1,3 @@
-STAND WITH STEVE
-JOIN TEAM RHOADS
-DELIVERING RESULTS
-FIGHTING FOR NASSAU COUNTY
-Delivering Affordability & Tax Relief
-Combating Hate & Antisemitism
-Protecting Our Environment
-Fighting for Individuals with Disabilities
-Supporting Small Businesses
-Help Steve keep delivering real results for Long Island families.
-DONATE
+REGISTER TO VOTE & GET VOTING LOCATIONS HERE MEET STEVE KEY ISSUES GET INVOLVED DONATE DONATE TODAY STAND WITH STEVE JOIN TEAM RHOADS Website JOIN TEAM DELIVERING RESULTS FIGHTING FOR NASSAU COUNTY Prioritizing Public Safety See More Delivering Affordability & Tax Relief See More Combating Hate & Antisemitism See More Protecting Our Environment See More Fighting for Individuals with Disabilities See More Supporting Small Businesses See More VIEW ALL KEY ISSUES Help Steve keep delivering real results for Long Island families.
+DONATE CONTACT THE CAMPAIGN 516.953.7451 JOIN TEAM RHOADS TODAY.
+Website JOIN TEAM PAID FOR BY STEVE RHOADS FOR SENATE © # STEVE RHOADS FOR SENATE · PRIVACY DEVELOPED & DESIGNED BY THE SOCIAL ELEPHANT LLC Buy Tickets Here

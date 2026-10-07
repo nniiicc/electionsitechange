@@ -1,8 +1,5 @@
-Representing the City of Claremont & the Towns of Acworth, Croydon, Goshen, Langdon, Lempster, Springfield, Sunapee & Washington
-Re-Elect Hope Damon as your District 8 State Representative.
-Hope works hard for:
-- An economy for all - Affordable Housing, Childcare & Healthcare
-- More State Dollars for Quality Schools = Lower Property Taxes
-- Respect for Privacy and Reproductive Freedom
-- Environmental Protection and Affordable, Sustainable, Clean Energy
-- LGBTQ Rights, Voting Access, Civil Rights for All
+0 Skip to Content Hope for NH Home Meet Hope The Issues Volunteer Donate Open Menu Close Menu Hope for NH Home Meet Hope The Issues Volunteer Donate Open Menu Close Menu Home Meet Hope The Issues Volunteer Donate Representing the City of Claremont & the Towns of Acworth, Croydon, Goshen, Langdon, Lempster, Springfield, Sunapee & Washington Re-Elect Hope Damon as your District 8 State Representative.
+Hope works hard for: An economy for all - Affordable Housing, Childcare & Healthcare More State Dollars for Quality Schools = Lower Property Taxes Respect for Privacy and Reproductive Freedom Environmental Protection and Affordable, Sustainable, Clean Energy LGBTQ Rights, Voting Access, Civil Rights for All Get involved today ⟶ Follow Hope on Social Media Hope for NH District 8 includes the towns of Acworth, Claremont, Croydon, Goshen, Langdon, Lempster, Springfield, Sunapee & Washington Made with Squarespace Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Newsletter Sign Up First Name Last Name Email Address Sign Up Thank you!
+About Get Involved Paid for by Hope Damon For Representative 447 Old Springfield Rd, Sunapee, NH 03782 Fiscal Agent: George Chait

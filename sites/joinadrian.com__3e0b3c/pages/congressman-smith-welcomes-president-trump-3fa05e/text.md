@@ -1,4 +1,5 @@
-Statement from Congressman Adrian Smith, representing Nebraska’s Third Congressional District where President Donald J.
+Skip to content Phone 308-220-3211 | committee@joinadrian.com Facebook DONATE TODAY!
+Search for: Home About Issues Media News Photos Donate Volunteer Contact Search for: Home About Issues Media News Photos Donate Volunteer Contact Home About Issues Media News Photos Donate Volunteer Contact Congressman Smith welcomes President Trump to Grand Island Previous Congressman Smith welcomes President Trump to Grand Island Statement from Congressman Adrian Smith, representing Nebraska’s Third Congressional District where President Donald J.
 Trump is holding a campaign rally today in Grand Island.
 Welcome to Nebraska, Mr.
 President!
@@ -16,5 +17,6 @@ People who work hard.
 People who take care of their families.
 People who do not want handouts, but a fair shot and the opportunity to get ahead.
 Mr.
-President, welcome back to the Good Life!”
-Congressman Adrian Smith
+President, welcome back to the Good Life!” Congressman Adrian Smith Adrian Smith for Congress 2026-10-05T15:16:50-05:00 October 5th, 2026 | Press Release | Share This Story, Choose Your Platform!
+Facebook X Reddit LinkedIn Tumblr Pinterest Email 1126 Avenue A, #6 Scottsbluff, NE 69361 Phone: 308-220-3211 Fax: 308-635-7412 Email: committee@joinadrian.com Web: http://joinadrian.com Recent News Congressman Smith welcomes President Trump to Grand Island October 5, 2026 We’ve delivered results, and we’ll keep working until the job is done!
+May 8, 2026 “Ranchers for Adrian” joins growing list of Endorsements for Proven Conservative Nebraska Congressman Adrian Smith May 8, 2026 Adrian Smith Files for Re-election to Defend Conservative Leadership and Advance President Trump’s Agenda January 16, 2026 President Trump endorses Adrian Smith re-election in 2026 to Nebraska’s Third Congressional District November 4, 2025 Follow Adrian on Facebook Paid for by Adrian Smith for Congress | All Rights Reserved Facebook Page load link Go to Top

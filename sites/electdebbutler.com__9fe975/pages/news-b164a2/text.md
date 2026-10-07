@@ -1,14 +1,12 @@
-Rep.
-Deb Butler on budget negotiations, voting rights, and a possible repeal of NC’s seawall ban
-After more than a year of waiting, it appears the North Carolina General Assembly will vote later this week on a comprehensive budget for the new fiscal year that begins July 1.
+Home Contribute Events Our Issues News Legislation Primary Sponsored Bills Votes Committees Contact News Latest News Articles and Videos Featuring Rep.
+Deb Butler: 29 Jun Monday, 4:00 AM · 2026 Rep.
+Deb Butler on budget negotiations, voting rights, and a possible repeal of NC’s seawall ban After more than a year of waiting, it appears the North Carolina General Assembly will vote later this week on a comprehensive budget for the new fiscal year that begins July 1.
 Newline recently sat down for an extended conversation with New Hanover County State Representative Deb Butler to discuss the lack of open debate in crafting the final spending plan and the public’s right to know.
 In part two of our chat, we turned our attention to some other matters of controversy in Raleigh right now – including the latest effort by Republican lawmakers to erect new roadblocks to voting, a proposal to end North Carolina’s longstanding and science-based ban on sea walls at the coast, and the spread of energy sucking data centers and their impact on the electricity bills paid by residential consumers.
 Click here for the full interview with Rep.
 Deb Butler.
-By Clayton Henkel - NC Newsline
-Rep Butler on House Republicans vote to override four of Gov.
-Stein's vetoes, with three bills becoming law
-The N.C.
+By Clayton Henkel - NC Newsline Read more 24 Jun Wednesday, 7:52 AM · 2026 Rep Butler on House Republicans vote to override four of Gov.
+Stein's vetoes, with three bills becoming law The N.C.
 House of Representatives has had several outstanding veto overrides on its calendar every day throughout the legislative short session.
 Wednesday afternoon, it took up four of those overrides, with the help of two lawmakers who skipped the votes.
 Bills becoming law include one banning diversity, equity and inclusion policies in public schools (Senate Bill 227), another banning them at public universities (Senate Bill 558) and another forcing state law enforcement agencies to cooperate with federal border patrol enforcement (Senate Bill 153).
@@ -39,15 +37,12 @@ House Republicans did not take up the sole remaining veto, Senate Bill 50, which
 There are two Republicans — Rep.
 William Brisson, R-Bladen, and Rep.
 Ted Davis, R-New Hanover — who oppose the legislation, giving it an even higher bar to clear.
-NC Newsroom | By Adam Wagner
-Rep Deb Butler on proposed judicial reforms
-RALEIGH, N.C.
+NC Newsroom | By Adam Wagner Read more 3 Jun Wednesday, 7:42 AM · 2026 Rep Deb Butler on proposed judicial reforms RALEIGH, N.C.
 (NCN News) — Democratic Representative Marcia Morey, along with fellow Democratic Representatives Deb Butler and Phil Rubin, spoke to reporters on Wednesday, June 3rd about constitutional amendments they have filed regarding Supreme Court ethics, separation of powers, and changes to the North Carolina Judicial Standard Commission.
 Rep.
 Morey from Durham says the purpose is to de-weaponize the Judicial Standards Commission of North Carolina.
 She explained the job of the commission.
-“It ensures that judges do not exhibit favoritism to former law partners when hearing cases, judges don’t delay in writing orders, they have not recused themselves from cases where they have a personal or financial interest in the outcome.”
-Morey said that she and her cosponsors believe these amendments are critically needed and are meant to correct serious concerns that we have about the fair and impartial administration of justice in the state.
+“It ensures that judges do not exhibit favoritism to former law partners when hearing cases, judges don’t delay in writing orders, they have not recused themselves from cases where they have a personal or financial interest in the outcome.” Morey said that she and her cosponsors believe these amendments are critically needed and are meant to correct serious concerns that we have about the fair and impartial administration of justice in the state.
 She wants to see fair and impartial justice return to North Carolina.
 “This kind of weaponization is a direct result of the General Assembly making all judicial races partisan in North Carolina,” she said.
 Representative Deb Butler took the podium next, and she spoke about how the power of the courts depend on the people in North Carolina.
@@ -56,12 +51,9 @@ When citizens begin to doubt the impartiality of the judiciary, the legitimacy o
 Representative Phil Rubin spoke last, and he said that he’s seen a troubling pattern emerge in Raleigh.
 “When you legislate in the shadows, you are intentionally excluding the people of North Carolina from their own government.
 And when you do that, who actually gets to write the laws?” he said.
-“It’s lobbyists, it’s special interests, it’s a few powerful people in this body and not the 170 people who were elected to represent the public.”
-Under Morey’s House Bill 1236, appointments would be rebalanced to include five State Bar–selected lawyers, five judges appointed by the Chief Justice, and five appointments by the Governor.
-By WPTF
-Rep.
-Butler introduces ‘No Budget No Pay’ bill in state legislature
-WILMINGTON — A local representative in the North Carolina General Assembly has introduced a bill punishing legislators should they fail to pass a budget by June 30.
+“It’s lobbyists, it’s special interests, it’s a few powerful people in this body and not the 170 people who were elected to represent the public.” Under Morey’s House Bill 1236, appointments would be rebalanced to include five State Bar–selected lawyers, five judges appointed by the Chief Justice, and five appointments by the Governor.
+By WPTF Read more 23 Apr Thursday, 7:35 AM · 2026 Rep.
+Butler introduces ‘No Budget No Pay’ bill in state legislature WILMINGTON — A local representative in the North Carolina General Assembly has introduced a bill punishing legislators should they fail to pass a budget by June 30.
 It is one of the many bills filed in the first days of the General Assembly’s short session, though the only so far presented by a representative from New Hanover, Pender or Brunswick counties.
 Rep.
 Deb Butler (D-New Hanover) has put forth a constitutional amendment titled “No Budget No Pay” requiring state legislators to forfeit their salary compensation and expenditure allowances if a budget were not passed by June 30.
@@ -69,22 +61,19 @@ The forfeiture would only conclude when a budget was passed or when the next leg
 Both the House speaker and Senate president pro tempore are dealt a salary of $38,151 and an additional monthly expense allowance of $1,413.
 Regular General Assembly members make $13,951 annually with an expense allowance of $559.
 These amounts haven’t been updated since 1997; it is typical for legislators to have other jobs or forms of income.
-Butler wrote to Port City Daily Thursday that the bill was filed to “remind Republicans that our top priority is the budget and without it, they are guilty of fiscal malfeasance.”
-The bill comes as the legislature, controlled by Republicans in both chambers, failed to pass a budget last year.
+Butler wrote to Port City Daily Thursday that the bill was filed to “remind Republicans that our top priority is the budget and without it, they are guilty of fiscal malfeasance.” The bill comes as the legislature, controlled by Republicans in both chambers, failed to pass a budget last year.
 North Carolina uses a biennium budget cycle, meaning there is also no budget for the new fiscal year starting July 1 as of yet; the legislature is using 2023 funding levels to keep government programs going.
 “NC is the only state in the whole country without a budget.
 Why?
 It’s because of Republican infighting,” Butler wrote.
 “Their bickering is costing our people in a big way.
 No salary increases for our teacher, our state employees or our retirees?
-Is it any wonder we have dangerously high vacancies in our schools and prisons.”
-School districts, which often receive around half of their budgets from the state, have been one of the most affected by the lack of a state spending plan.
+Is it any wonder we have dangerously high vacancies in our schools and prisons.” School districts, which often receive around half of their budgets from the state, have been one of the most affected by the lack of a state spending plan.
 Inflationary pressures have put a strain on districts still paying out salaries and benefits based on 2023 calculations, while the lack of a timeline for a potential state budget passage makes planning their 2026-2027 spending plans much more difficult.
 Senate President Pro Tempore Phil Berger, who has been lame-ducked after losing in the 2026 primary, and House Speaker Destin Hall have both confirmed budget negotiations have resumed, though it appears their prior sticking points remain.
 The two chambers have disagreed on how much to raise state employee wages, including for teachers, and whether to continue lowering the income tax rate, which the House wants to reconsider.
 There’s also a deadlock on whether to fund a new children’s hospital in Apex.
-In a Medium column published April 17, Berger wrote the legislature’s policy success is “largely grounded on the continuing exercise of discipline on two fronts — tax reduction and spending restraint.”
-“Failure to adhere to fundamentals on either front will thwart sustaining progress in our never-ending competition with other states for economic growth, job creation, and a better future for our people,” Berger wrote.
+In a Medium column published April 17, Berger wrote the legislature’s policy success is “largely grounded on the continuing exercise of discipline on two fronts — tax reduction and spending restraint.” “Failure to adhere to fundamentals on either front will thwart sustaining progress in our never-ending competition with other states for economic growth, job creation, and a better future for our people,” Berger wrote.
 However, the chambers have come to consensus on Medicaid funding, voting to initially approve a $3190-million package to fully fund the state’s program, which was on track to run out of money next month.
 The bill included stricter requirements for autism therapy providers; it also also included more funding to investigate Medicaid fraud.
 Typically the handler of these cases, the state’s Department of Justice, headed by Democratic Attorney General Jeff Jackson, requested more positions; instead, the bill allocates $500,000 to the Republican-controlled state auditor’s office for the investigations.
@@ -102,21 +91,21 @@ It is also specific to the passage 2026-2027 budget, mandating pay be docked if 
 Both bills have been referred to their respective rules committees, where Rep.
 John Bell (R-Wayne) in the House and Sen.
 Bill Rabon (R-Brunswick) would need to elect to bring them to the committee floor for vote.
-By Brenna Flanagan - PortCityDaily
-North Carolina lawmakers propose constitutional amendment to limit property tax increases
-WILMINGTON, N.C.
-(WECT) - North Carolina House Republicans are pushing a proposal that would limit how much cities and counties can raise property taxes through a constitutional amendment
-Supporters say the proposed amendment is long overdue, but critics say it goes too far and could hurt funding for essential services like schools and police.
+By Brenna Flanagan - PortCityDaily Read more 19 Mar Thursday, 11:43 AM · 2026 North Carolina lawmakers propose constitutional amendment to limit property tax increases WILMINGTON, N.C.
+(WECT) - North Carolina House Republicans are pushing a proposal that would limit how much cities and counties can raise property taxes through a constitutional amendment Supporters say the proposed amendment is long overdue, but critics say it goes too far and could hurt funding for essential services like schools and police.
 The issue has affected some towns in southeastern North Carolina.
 Surf City raised property taxes 30 percent, and Boiling Spring Lakes is looking at a potential 42 percent hike.
 Lawmakers are exploring ways local governments could make up any lost funding from the change, including limiting tax breaks for affordable housing and higher taxes on non-profit hospitals.
-New Hanover County Representative Deb Butler disagreed in a statement:
-There is no timeline yet on when lawmakers will decide whether to put the amendment on a ballot.
+New Hanover County Representative Deb Butler disagreed in a statement: “Nobody likes taxes.
+We can all agree on that, but imposing levy limits on North Carolina’s municipalities is not responsible governance — it’s a continued shift of the state’s obligations onto local governments while simultaneously blaming them for the consequences,” Butler said.
+“We see it starkly in the gross underfunding of public education at the hands of the state.
+Local leaders are already managing the real costs of growth, infrastructure, and public safety that the state has increasingly pushed downward.
+Arbitrary caps don’t solve affordability; they handcuff communities, weaken essential services, and deepen inequities.
+Worse, they advance the false narrative that cities and counties are fiscally reckless, when in reality they are being asked to do more with less under constraints imposed from Raleigh.” New Hanover County Representative Deb Butler There is no timeline yet on when lawmakers will decide whether to put the amendment on a ballot.
+Copyright # WECT.
 All rights reserved.
-To read the full article, go HERE
-Rep.
-Butler, NC Progressive House Caucus call for amendment requiring timely state budget
-RALEIGH, NC (WWAY) — Rep.
+To read the full article, go HERE Read more 11 Feb Wednesday, 12:00 PM · 2026 Rep.
+Butler, NC Progressive House Caucus call for amendment requiring timely state budget RALEIGH, NC (WWAY) — Rep.
 Deb Butler and the North Carolina Progressive House Caucus have requested a bill calling for a constitutional amendment that would require the state to pass a budget on time in future legislative sessions.
 Butler, a Democrat representing District 18, said the proposal comes as teachers, state employees and Medicaid recipients continue to face uncertainty while lawmakers remain without a finalized state spending plan.
 “When politicians miss the budget deadline, it’s not a paperwork problem — it’s a people problem,” Butler said in a statement.
@@ -126,15 +115,13 @@ The bill would also include enforcement measures, including halting pay for legi
 Butler also pointed to teacher pay and the ongoing budget impasse, calling it an embarrassment that North Carolina ranks 43rd nationally in average teacher salary.
 The Progressive House Caucus said lawmakers should face consequences for prolonged delays, arguing that missed deadlines place the burden on residents across the state.
 The bill is expected to be introduced when legislators return for the short session.
-Tor read the full article, go HERE.
-Rep.
-Butler, Progressive Caucus propose ‘no pay for no budget’ amendment
-RALEIGH — State Representative Deb Butler (D-New Hanover) and the North Carolina Progressive House Caucus are targeting legislative gridlock with a new bill that would halt pay for lawmakers who fail to pass a state budget on time.
+Tor read the full article, go HERE .
+Read more 11 Feb Wednesday, 11:56 AM · 2026 Rep.
+Butler, Progressive Caucus propose ‘no pay for no budget’ amendment RALEIGH — State Representative Deb Butler (D-New Hanover) and the North Carolina Progressive House Caucus are targeting legislative gridlock with a new bill that would halt pay for lawmakers who fail to pass a state budget on time.
 The proposal follows what Butler says is a record-breaking delay which has left North Carolina as the only state in the nation without a finalized 2025-27 budget.
 As of publication, the state is 224 days past its July 1, 2025, deadline.
 “When politicians miss the budget deadline, it’s not a paperwork problem—it’s a people problem,” Butler said in a release.
-“While Republican leaders in the NC House and Senate fight amongst themselves, our schools stall, healthcare hangs in limbo, and families pay the price for legislative dysfunction.”
-Because legislator pay is addressed in the state constitution, freezing lawmakers’ compensation would require a constitutional amendment.
+“While Republican leaders in the NC House and Senate fight amongst themselves, our schools stall, healthcare hangs in limbo, and families pay the price for legislative dysfunction.” Because legislator pay is addressed in the state constitution, freezing lawmakers’ compensation would require a constitutional amendment.
 That means the proposal must win three-fifths approval in both the House and Senate before going directly to voters statewide.
 Unlike ordinary legislation, constitutional amendments are not subject to the governor’s veto and take effect only if a majority of voters approve them in a referendum.
 The stalemate in Raleigh primarily involves a disagreement between Republicans, who hold a majority in the House and supermajority in the Senate.
@@ -144,9 +131,7 @@ While the House has favored slowing these cuts to ensure revenue for infrastruct
 Because lawmakers have not yet passed a full state budget, many agencies are operating under a continuation plan with limited new funding.
 NCDHHS has said Medicaid faces an estimated $319 million funding gap for the current fiscal year and could exhaust its resources before the year ends without additional appropriations, potentially threatening healthcare access for more than 3 million North Carolinians who depend on the program.
 Butler intends to formally introduce the bill when the legislative short session convenes in April.
-Read the full article HERE
-State Representative Deb Butler on Cape Fear River permanent water transfer to Fuquay Varina
-WILMINGTON, N.C.
+Read the full article HERE Read more 4 Jan Sunday, 1:39 PM · 2026 State Representative Deb Butler on Cape Fear River permanent water transfer to Fuquay Varina WILMINGTON, N.C.
 (WECT).
 Jan 3, 2026.
 State Rep.
@@ -162,45 +147,47 @@ They are ferocious, They are informed and they will not take no for an answer,�
 “I saw that in the Titan fight some years ago.
 I see it with forever chemicals.
 We understand what it means to fight back and we’ve been very successful and we’re going to be successful at this too.” Butler said.
-To read the full article, go here
+To read the full article, go here Copyright # WECT.
 All rights reserved.
-NC State Representative Deb Butler joins Local Activists Against ICE Crackdowns
-NC State Representative Deb Butler to Run for Reelection in 2026
-State Representative Deb Butler on New Congressional Map
-Because North Carolina’s redistricting process is controlled by the political party in power, the redrawing of electoral lines to benefit said party is not notable.
+Read more 5 Dec Friday, 5:36 PM · 2025 NC State Representative Deb Butler joins Local Activists Against ICE Crackdowns WHQR – Dec 5, 2025.
+Rep.
+Butler spoke alongside the National Black Leadership Caucus condemning aggressive immigration enforcement, highlighting community concerns over civil rights and immigrant protections.
+Thursday morning, the National Black Leadership Caucus held a press conference at 1898 Memorial Park to denounce the mounting threat of immigration crackdowns happening across the state.
+“I want everybody to hear this, and hear it well,” Butler said.
+“Anyone on US soil, regardless of their documentation status, is afforded due process and equal protection under the law, and the Supreme Court has said it time and time again.
+So I'm here with these good folks to say that we condemn these illegal and amoral tactics.” Read more 10 Nov Monday, 3:48 PM · 2025 NC State Representative Deb Butler to Run for Reelection in 2026 WECT – Politics – Representative Deb Butler (D-New Hanover County) has officially announced she will seek a fifth full term in the North Carolina House representing District 18 in the 2026 elections.
+This announcement underscores her ongoing commitment to practical solutions and leadership for her community. news summary here.
+“The challenges we face in today’s political environment only strengthen my resolve to keep fighting for North Carolina,” Rep.
+Butler said in a statement.
+“I’m committed to practical solutions, honest leadership, and policies that put people before politics.
+Our state deserves nothing less than our very best.
+I am pleased to announce that I will seek re-election to the NC House of Representatives.” Read more 21 Oct Tuesday, 3:06 PM · 2025 State Representative Deb Butler on New Congressional Map Because North Carolina’s redistricting process is controlled by the political party in power, the redrawing of electoral lines to benefit said party is not notable.
 Both Democrats and Republicans have done it historically and created infamous gerrymandered districts from time to time.
 However, the newly proposed map is unique because it is being created outside of a Census population recount — the reason redistricting occurs in the first place — or a court order, in what appears to be the first time in modern North Carolina history.
 The General Assembly is barred from recreating a map outside those two circumstances for the state legislature, but no such rule exists for the Congressional map.
 "The move takes counties referred to as the “Black belt” that have elected a Black representative for 30 years straight and add whiter counties to them in order to dilute their vote.
 Almost half of district 1’s voters are racial or ethnic minorities, 40% of whom are Black.
-The new plan is projected to shift this demographic to 60% white and 40% minority."
-In conversation with Rep.
-Deb Butler (D-New Hanover) last week, the representative described the move as Berger’s “attempt to elicit an endorsement from the president because he knows he’s floundering in his primary.”
-The bill authorizing the new map could head to the House of Representatives Tuesday.
+The new plan is projected to shift this demographic to 60% white and 40% minority." In conversation with Rep.
+Deb Butler (D-New Hanover) last week, the representative described the move as Berger’s “attempt to elicit an endorsement from the president because he knows he’s floundering in his primary.” The bill authorizing the new map could head to the House of Representatives Tuesday.
 “I look forward to being in Raleigh on Tuesday to discuss this with my fellow Republicans before any vote is taken,” Rep.
 Ted Davis (R-New Hanover) told Port City Daily.
 However, Rep.
-Deb Butler was clear she opposed the redrawn map: “It is just a gross abuse of a power of power and people should be furious about it.”
-[Ed Note: The new map passed the House of Representatives, and thus is law, on Oct. 22 in a 66-48 vote down party lines.
+Deb Butler was clear she opposed the redrawn map: “It is just a gross abuse of a power of power and people should be furious about it.” [Ed Note: The new map passed the House of Representatives, and thus is law, on Oct.
+22 in a 66-48 vote down party lines.
 Rep.
 Deb Butler (D-New Hanover) opposed it, while Reps.
-Charlie Miller (R-New Hanover, Brunswick), Ted Davis (R-New Hanover), Carson Smith (R-Pender) and Frank Iler (R-Brunswick) voted for the new map.]
-NC State Representative Deb Butler - Bill to provide tax relief to disabled veterans moves forward in the House
-State Rep.
+Charlie Miller (R-New Hanover, Brunswick), Ted Davis (R-New Hanover), Carson Smith (R-Pender) and Frank Iler (R-Brunswick) voted for the new map.] Read more 23 Sep Tuesday, 4:46 PM · 2025 NC State Representative Deb Butler - Bill to provide tax relief to disabled veterans moves forward in the House State Rep.
 Deb Butler, D-New Hanover, said the number of disabled veterans in North Carolina has grown from 45,000 to 75,000 the past five years.
 “I’m supportive of the bill but I do think that we need to be careful, particularly right now when we have some unmet needs in this state,” Butler said.
-“Obviously we want to support our veterans but I do have that cautionary observation for us.” An eligible veterans must satisfy at least one of the following requirements:
-- Have a service-connected total and permanent disability that has been certified by the United States Department of Veterans Affairs or another federal agency agency.
-- Has previously received benefits under the section of the United States Code that authorizes the Secretary of Veterans Affairs to assist disabled veterans with acquiring special fixtures or movable facilities to accommodate their disability, which could include land for housing.
-- The veteran has died and the United States Department of Veterans Affairs or another federal agency has certified that, as of Jan.1 preceding the taxable year for which the exclusion is claimed, the veteran’s death was the result of a service-connected condition.
-State Representative Deb Butler on The political, economic fight over EVs and clean energy
-Stars News Online.
+“Obviously we want to support our veterans but I do have that cautionary observation for us.” An eligible veterans must satisfy at least one of the following requirements: Have a service-connected total and permanent disability that has been certified by the United States Department of Veterans Affairs or another federal agency agency.
+Has previously received benefits under the section of the United States Code that authorizes the Secretary of Veterans Affairs to assist disabled veterans with acquiring special fixtures or movable facilities to accommodate their disability, which could include land for housing.
+The veteran has died and the United States Department of Veterans Affairs or another federal agency has certified that, as of Jan.1 preceding the taxable year for which the exclusion is claimed, the veteran’s death was the result of a service-connected condition.
+Read more 19 Aug Tuesday, 4:26 PM · 2025 State Representative Deb Butler on The political, economic fight over EVs and clean energy Stars News Online.
 August 19, 2025.
 "In our state, a set of keys meant freedom," said state Rep.
-Deb Butler, D-Wilmington, as she spoke flanked by a Hyundai EV hatchback and Ford EV pickup.
+Deb Butler , D-Wilmington, as she spoke flanked by a Hyundai EV hatchback and Ford EV pickup.
 But she said recent moves by the Trump administration to limit access to EVs and return the country's industrial and automotive focus back to gas-powered vehicles threatens to not only cost consumers the freedom to choose what type of vehicle they want, but also the economic future for many parts of North Carolina still struggling to bounce back from the collapse of the state's historic manufacturing industries.
-State Representative Deb Butler and other NC State legislators on NC House budget and continued corporate tax cuts
-NC Newsline, May 20, 2025.
+Read more 20 May Tuesday, 4:19 PM · 2025 State Representative Deb Butler and other NC State legislators on NC House budget and continued corporate tax cuts NC Newsline, May 20, 2025.
 House Democrats registered some amusement that a few of their past proposals that had been derided when they submitted them had now made their way into the budget bill.
 Rep.
 Deb Butler (D-New Hanover) noted that she had proposed reducing the triggers for income tax cuts in March, citing the state’s revenue shortfalls, a change House Republicans have now adopted as their own.
@@ -208,60 +195,58 @@ Likewise, Cervania had previously proposed a back-to-school tax holiday that’s
 “Let’s be clear: there’s still a structural deficit.
 The triggers may have been adjusted, but the damage of revenue erosion continues,” Butler said.
 “We’re still asking our state to do more with less, and we’re doing it with a straight face.
-Meanwhile, the federal government has been quietly shifting costs to the states.”
-Butler and Morey also expressed dissatisfaction with a lack of transparency and bipartisan engagement in the budget-writing process.
+Meanwhile, the federal government has been quietly shifting costs to the states.” Butler and Morey also expressed dissatisfaction with a lack of transparency and bipartisan engagement in the budget-writing process.
 Butler noted that she only gained access to the bill at 3:30 p.m.
 Monday when she was due to discuss it in committee at 8:30 a.m. the following morning.
 And Morey noted that the first item lawmakers received in their subcommittees was “an entire page” of restrictions barring amendments that would increase overall funding, allocate money to Helene relief, and make numerous other changes.
 “They set the lines and we can’t draw out of the box,” Morey said.
-Driver’s license expiring soon?
-This bill would offer a reprieve as NCDMV faces a massive backlog
-Shepard also agreed with Butler’s suggestion that the legislature needed to study why the DMV was continuing to have problems in serving the public and how best to resolve those pressure points.
+Read more 16 Apr Wednesday, 4:39 PM · 2025 Driver’s license expiring soon?
+This bill would offer a reprieve as NCDMV faces a massive backlog NC Newsline, April 16, 2025.
+North Carolina legislators say one of the most common complaints they receive from constituents is just how long it takes for motorists to get an appointment at their Division of Motor Vehicles office.
+Now “Has anybody articulated from the department what these challenges are stemming from?
+Is it personnel?
+Is it funding?” asked Rep.
+Deb Butler (D-New Hanover.) Shepard also agreed with Butler’s suggestion that the legislature needed to study why the DMV was continuing to have problems in serving the public and how best to resolve those pressure points.
 “This bill would basically be facilitating the incompetency of the DMV by alleviating them of the responsibility of their job,” responded Rep.
 Harry Warren (R-Rowan) bluntly.
-NC State Representative Deb Butler of Wilmington calls for reform in state budget process
-RALEIGH, N.C.
+Read more 15 Apr Tuesday, 2:57 PM · 2025 NC State Representative Deb Butler of Wilmington calls for reform in state budget process RALEIGH, N.C.
 (WECT) - Surrounded by people from across North Carolina, Rep.
 Deb Butler (D-New Hanover) of Wilmington called for reform in the General Assembly’s process of drafting and passing a state budget.
 “For too long, North Carolina’s budget process has been cloaked in secrecy, rushed through with little debate, and used as a tool of partisan control rather than sound governance,” Rep.
 Butler said during a news conference in Raleigh.
 “The public deserves a budget that reflects thoughtful investment, not political sleight-of-hand.
-These bills are a blueprint for how we can do better—for our schools, our healthcare system, and our economic future.”
-State Representative Deb Butler on New bill would ban non-essential PFAS uses, fund study on Cape Fear region health effects
+These bills are a blueprint for how we can do better—for our schools, our healthcare system, and our economic future.” Read more 13 Apr Sunday, 3:15 PM · 2025 State Representative Deb Butler on New bill would ban non-essential PFAS uses, fund study on Cape Fear region health effects Port City Daily - Fred Castagno.
+April 13, 2025.
+NORTH CAROLINA — Local elected officials are pushing a broad range of bills to address toxic chemical pollution in North Carolina, including legislation co-sponsored by Rep.
+Deb Butler (D-New Hanover) to prohibit non-essential PFAS uses and eliminate discharges in drinking water.
 The bill contains a sweeping range of provisions to eliminate non-essential PFAS uses, study health effects of exposure, require industries to disclose and remove PFAS and 1,4-dioxane discharges, and address indirect contamination routes, such as biosolids and landfill leachate.
-“I am proud to be a primary sponsor of H.B. 881 as I believe it to be the most comprehensive approach to tackling PFAS in our air, our water, our effluent and our soil,” Butler told Port City Daily.
-“It is a multi-faceted approach that focuses on disclosure, public notice, scientific health effects studies, and accountability.”
-Butler’s bill directs multiple state agencies to carry out PFAS studies, including several focused on the Cape Fear region.
-It directs the Department of Health and Human Services and Department of Environmental Quality to conduct an epidemiological study of populations in the Cape Fear River Basin aimed at identifying disparities in diseases associated with long-term PFAS exposure.
-“[H.B. 881] involves many agencies across state government working in collaboration with our scientific community,” Butler said.
-“It calls for an investment of almost 100 million dollars because my fellow sponsors and I recognize this as an exigent need in North Carolina.”
-It also requires DEQ to study the presence, migration, and treatment of PFAS in biosolids — solid organic matter used as fertilizer — and leachate collected from landfills.
+“I am proud to be a primary sponsor of H.B.
+881 as I believe it to be the most comprehensive approach to tackling PFAS in our air, our water, our effluent and our soil,” Butler told Port City Daily.
+“It is a multi-faceted approach that focuses on disclosure, public notice, scientific health effects studies, and accountability.” Butler’s bill directs multiple state agencies to carry out PFAS studies, including several focused on the Cape Fear region.
+It directs the Department of Health and Human Services and Department of Environmental Quality to conduct an epidemiological study of populations in the Cape Fear River Basin aimed at identifying disparities in diseases associated with long-term PFAS exposure. “[H.B.
+881] involves many agencies across state government working in collaboration with our scientific community,” Butler said.
+“It calls for an investment of almost 100 million dollars because my fellow sponsors and I recognize this as an exigent need in North Carolina.” It also requires DEQ to study the presence, migration, and treatment of PFAS in biosolids — solid organic matter used as fertilizer — and leachate collected from landfills.
 DEQ would present its findings from the study and recommendations for potential rules to the Environmental Management Commission by September 2026.
-Groups participate in “Hands Off” rallies in the Cape Fear area
-SOUTHEASTERN N.C.
+Read more 6 Apr Sunday, 4:44 PM · 2025 Groups participate in “Hands Off” rallies in the Cape Fear area SOUTHEASTERN N.C.
 (WECT).
 Rep.
-Butler sent the following statement about the rallies to WECT:
-“The Hands Off protests spoke volumes.
+Butler sent the following statement about the rallies to WECT: “The Hands Off protests spoke volumes.
 I expected maybe 100 people.
 There were easily a thousand in each location; one in Brunswick and one in New Hanover.
 Folks are outraged that Trump has fired people like veterans and park rangers and IRS agents for no reason.
 And they are upset about the Trump tax that is hiking up prices and they are really mad that their stocks and their 401ks are lower than they were when Covid hit.
-So yes, people are super frustrated, but they remained completely peaceful in protest which is their Constitutional right, regardless of what the President suggests.”
-State Representative Deb Butler on NC’s economy and legislation to protect schools, hospitals from immigration raids
-NC Newsline -by Clayton Henkel - March 10, 2025.
+So yes, people are super frustrated, but they remained completely peaceful in protest which is their Constitutional right, regardless of what the President suggests.” Read more 10 Mar Monday, 2:53 PM · 2025 State Representative Deb Butler on NC’s economy and legislation to protect schools, hospitals from immigration raids NC Newsline -by Clayton Henkel - March 10, 2025.
 North Carolina Republicans have enjoyed large majorities in the General Assembly for nearly 15 years, and during that period, Democrats have often done a poor job of crafting and communicating a coherent alternative vision to the GOP’s hard right policy agenda.
 Recently, however, progressive Democratic legislators have come together to change that situation.
 This year, as state lawmakers gather in Raleigh, Democrats are not merely opposing Republican priorities on everything from taxes and education to immigration and reproductive freedom, they’re introducing an ambitious slate of proposals of their own that they believe point the state in a better direction, and recently NC Newsline caught up with one of the leaders of this new, more assertive approach, New Hanover County State Rep.
 Deb Butler.
 Click here to listen to the full interview with Rep.
 Deb Butler.
-NC State Representative Deb Butler - Unemployment benefits in NC could go up to $450 weekly.
+Read more 25 Feb Tuesday, 3:26 PM · 2025 NC State Representative Deb Butler - Unemployment benefits in NC could go up to $450 weekly.
 NC Senate to weigh in next.
 The News&Observer - In a meeting of a finance committee Howard chairs, Democratic Rep.
 Deb Butler of New Hanover County proposed an amendment to raise the benefit to $450 — which Howard supported, saying she initially was going to propose a higher rate than $400.
-NC State Representative Butler Introduces Bills to Protect Marriage Equality in NC
-WECT – February 24, 2025 – Rep.
+Read more 24 Feb Monday, 5:30 PM · 2025 NC State Representative Butler Introduces Bills to Protect Marriage Equality in NC WECT – February 24, 2025 – Rep.
 Butler introduced two bills in the NC House to codify and protect same-sex marriage rights at the state level, responding to potential national threats to marriage equality.
 Bills H174 and H 175 were drafted in response to ‘potential threats to same-sex marriage rights in the face of a shifting federal judiciary and a possible second Trump administration,’ according to a press release from Rep.
 Butler’s office.
@@ -269,43 +254,38 @@ HB 174: Marriage Equality Act would codify the right of all individuals to marry
 “In North Carolina, we must defend the rights of our LGBTQ+ citizens,” said Rep.
 Butler.
 “Marriage equality is a settled issue for the vast majority of Americans, and our state should reflect that reality.
-These bills are about ensuring dignity, security, and legal protection for all families in the face of uncertainty at the federal level.”
-NC House Republicans, Democrats support raising unemployment benefits thanks to State Representative Deb Butler's amendment
-2024 Elections: NC State Representative Deb Butler runs for district 18 House seat re-election
-SOUTHEASTERN N.C. — Democratic candidate Deb Butler is seeking reelection to the district 18 House seat.
+These bills are about ensuring dignity, security, and legal protection for all families in the face of uncertainty at the federal level.” Read more 11 Feb Tuesday, 4:09 PM · 2025 NC House Republicans, Democrats support raising unemployment benefits thanks to State Representative Deb Butler's amendment The final amount in House Bill 48 was a rare win for Democrats, who are in a near-superminority in the General Assembly.
+Democratic Rep.
+Deb Butler of New Hanover County offered an amendment to the bill to change the original proposed increase of $400 to $450.
+Read more 29 Oct Tuesday, 5:11 PM · 2024 2024 Elections: NC State Representative Deb Butler runs for district 18 House seat re-election SOUTHEASTERN N.C. — Democratic candidate Deb Butler is seeking reelection to the district 18 House seat.
 The legislator has served New Hanover County constituents since she was first appointed by Gov.
 Roy Cooper in 2017.
 Butler has won re-election in 2018, 2020 and 2022 — most recently against challenger John Hinnant.
 Butler does not have an opponent listed on the ballot; however, there is a spot to fill in a write-in candidate.
-Endorsements
-NC State Representative Rep.
-Deb Butler Recognized By Wilmington City Council
-Mayor Bill Saffo recognized state Representative Deb Butler for being a tireless advocate for the City this past year.
+4 Oct Tuesday, 11:08 PM · 2022 Endorsements 11 Mar Friday, 5:50 PM · 2022 NC State Representative Rep.
+Deb Butler Recognized By Wilmington City Council Mayor Bill Saffo recognized state Representative Deb Butler for being a tireless advocate for the City this past year.
 He cited legislation that Butler introduced in the General Assembly, including bills to expand electric vehicle infrastructure, the detection and reporting of PFAS and other industrial waste and ensuring polluters pay for their actions.
 Saffo also praised Butler for advocating for the state’s film industry, which just had its most successful year ever, totaling over $400 million in spending statewide.
 Additionally, Saffo praised Butler for voting against a bill that would have stripped local governments of the ability to regulate short-term rentals.
 “It is truly an honor and a privilege to represent this community.
 The job is not always an easy one but is always one that enriches and builds my spirit.
 When I walk my community and feel it’s welcoming spirit, I know that I am in the right place doing the work I was intended to do, bringing me such fulfillment,” Butler said.
-State Representative Deb Butler on grassroots efforts to curb noise from military jets at ILM successful and new agreement in place
-Butler was one of the only elected officials who made efforts to address the noise concerns, and scheduled meetings with the FAA as well as the Marines.
+28 Feb Monday, 5:21 PM · 2022 State Representative Deb Butler on grassroots efforts to curb noise from military jets at ILM successful and new agreement in place Butler was one of the only elected officials who made efforts to address the noise concerns, and scheduled meetings with the FAA as well as the Marines.
 From the beginning she made it clear she was never against the military using the airport, and insisted on compromise.
 She says that despite those who opposed her efforts, she is grateful they worked out a solution where everybody is happy.
 “It shows you what can happen when you come together in a collaborative spirit.
 I want to give great thanks to the Marine Aircraft Division, because honestly they were a pleasure to work with and we forged solutions,” she said.
-NC State Representative Deb Butler on Insurrectionist seated in North Carolina House of Representatives
-NC State Representative Deb Butler speaks about the $1.2 trillion bipartisan infrastructure bill
-Signed into law by President Joe Biden Nov. 15, the $1.2 trillion bipartisan infrastructure deal will send money cross-country to fix disintegrating roads, modernize ports and airports, expand internet access, and — in an issue hitting close to home — get pollutants out of Americans’ water.
-Specifically, $5 billion in the form of grants will be dispersed; $4 billion is included for the state revolving clean drinking water fund; and $1 billion is allocated to help utilities address contaminants in wastewater discharge
-“Billions.
+Read more 13 Dec Monday, 4:37 PM · 2021 NC State Representative Deb Butler on Insurrectionist seated in North Carolina House of Representatives Zerlina Maxwell Interview with Deb Butler on MSNBC Peacock Nov 3, 2021 7 Dec Tuesday, 6:05 PM · 2021 NC State Representative Deb Butler speaks about the $1.2 trillion bipartisan infrastructure bill WILMINGTON — Local Democrats joined riverside at Dram Tree Park Monday and, under the rumblings of trucks crossing Cape Fear Memorial Bridge, celebrated historic investments in purifying the nation’s contaminated drinking sources, including the one right behind them.ws summary here.
+Signed into law by President Joe Biden Nov.
+15, the $1.2 trillion bipartisan infrastructure deal will send money cross-country to fix disintegrating roads, modernize ports and airports, expand internet access, and — in an issue hitting close to home — get pollutants out of Americans’ water.
+Specifically, $5 billion in the form of grants will be dispersed; $4 billion is included for the state revolving clean drinking water fund; and $1 billion is allocated to help utilities address contaminants in wastewater discharge “Billions.
 With a B,” state Rep.
 Deb Butler stressed.
 “Billions of dollars coming to remove the toxic forever chemicals that have rained down upon us for over 40 years.” Butler called PFAS “possibly our most pressing local issue.
-NC State Representative Deb Butler - GOP-backed elections bills alarm Democrats, voting rights advocates
-Republican-backed elections bills aim to curb voter access, say Democrats and civil rights groups.
+Read more 18 Nov Thursday, 4:47 PM · 2021 NC State Representative Deb Butler - GOP-backed elections bills alarm Democrats, voting rights advocates Republican-backed elections bills aim to curb voter access, say Democrats and civil rights groups.
 WUNC - Nov 18, 2021.
 The haze of bipartisanship around the passage of a state budget the governor has pledged to sign had barely subsided Thursday when Republicans and Democrats in the North Carolina General Assembly quickly returned to their respective sides of the political divide, this time over GOP-backed elections legislation.
-The state House took up three bills — SB 326, HB 259, and SB 725 — all of which passed along party lines in the GOP-led chamber.
+The state House took up three bills — SB 326 , HB 259 , and SB 725 — all of which passed along party lines in the GOP-led chamber.
 One of them, SB 326, now heads to Governor Roy Cooper, who is almost certain to veto it.
 That measure would do away with a three-day grace period for counting properly post-marked mail-in ballots received after Election Day.
 Democrats like Rep.
@@ -314,24 +294,27 @@ They say the only reason anyone questions the integrity of elections is because 
 "And all of this language about manufacturing voting machines in America and audits and record-keeping and integrity, those are all dog whistles," Butler said.
 Butler argued those "dog whistles" are aimed at stoking fears of insecure elections and to foment belief in a false narrative that such measures are necessary and urgently needed.
 "It's just not true, and we all know it," Butler said.
-NC State Representative Deb Butler - She Will Not Yield
-Taking the "ick" out of politics
-Rep.
-Deb 'I Will Not Yield' Butler On Redistricting, Racism, And Pride
+Read more 1 Mar Monday, 12:18 AM · 2021 NC State Representative Deb Butler - She Will Not Yield 28 Jul Tuesday, 10:00 AM · 2020 Taking the "ick" out of politics 30 Jun Tuesday, 9:00 AM · 2020 Rep.
+Deb 'I Will Not Yield' Butler On Redistricting, Racism, And Pride WUNC 91.5 Podcast - June 30, 2020.
+Democratic state Rep.
+Deb Butler made national headlines last September when, following a surprise and controversial veto override vote, she grabbed a microphone and lit into Republican House Speaker Tim Moore.
+Gerrymandering, she says, has polarized lawmakers and it's nearly paralyzed the General Assembly.
+She'd rather they were legislating on middle ground.
 On this episode of the Politics Podcast from WUNC, Butler talks about the hope for redistricting reform.
 She also reveals the pulse of Wilmington as North Carolina and the nation faces a racial reckoning.
 And, she explains why she reached for a little champagne last week.
-Rep.
-Deb Butler Participates in Black Lives Matter Discussion
-Representative Deb Butler participated in the discussion and acknowledged the need for change.
+Read more 15 Jun Monday, 11:38 PM · 2020 Rep.
+Deb Butler Participates in Black Lives Matter Discussion Representative Deb Butler participated in the discussion and acknowledged the need for change.
 “I think that all options are on the table about how we do policing, how we re-imagine public safety, how we allocate resources,” Butler said.
-“How we prioritize what’s important for us, how we get this just and equitable society that we all long for.”
-State Representative Deb Butler - Out for Biden Initiative
-Rep.
-Deb Butler Calls for Compassion During Pandemic
-WECT News: Rep.
-Deb Butler named in top 50 women changing the world by InStyle magazine
-Rep.
+“How we prioritize what’s important for us, how we get this just and equitable society that we all long for.” Read more 8 Jun Monday, 8:39 PM · 2020 State Representative Deb Butler - Out for Biden Initiative Rep.
+Deb Butler selected as member of steering committee for Joe Biden.
+Read more 30 May Saturday, 9:00 AM · 2020 Rep.
+Deb Butler Pushes Bill To Ban PFAS In State Add your news summary here.
+Read more 13 Mar Friday, 11:44 AM · 2020 Rep.
+Deb Butler Calls for Compassion During Pandemic State Rep.
+Deb Butler says politics should be put aside during the Coronavirus Pandemic.
+Read full article >> 10 Jan Friday, 7:27 PM · 2020 WECT News: Rep.
+Deb Butler named in top 50 women changing the world by InStyle magazine Frances Weller of WECT News article on Rep Deb Butler being named InStyle's Top 50 Badass Women of 2020 Read more 10 Jan Friday, 12:00 AM · 2020 Rep.
 Deb Butler selected as In-Style Magazine's Top 50 Badass women of 2020!
 WILMINGTON, N.C.
 (WECT) - Jan 10, 2020.
@@ -345,8 +328,7 @@ General Assembly.
 The House voted 55-15 for the override, with most Democratic representatives absent and not expecting a vote session that morning.
 Some of the Democratic lawmakers were reportedly attending 9/11 ceremonies.
 Butler strongly protested the move and accused House Speaker Tim Moore of “usurping” the process.
-State Representative Deb Butler - Featured as Indy Week's 19 People of 2019
-Indy.
+Read more 17 Dec Tuesday, 12:00 AM · 2019 State Representative Deb Butler - Featured as Indy Week's 19 People of 2019 Indy.
 Dec 17, 2019 - Deb Butler knew something was amiss the second she took her seat on the House floor.
 The day before, Democratic leaders had informed their caucus not to expect a vote that morning, September 11.
 The Wilmington representative’s side of the room was nearly empty; Governor Cooper was scheduled to be at a remembrance ceremony, and many of her colleagues were busy preparing for other meetings.
@@ -450,83 +432,80 @@ Republicans won that battle, but they didn’t win the war.
 The state and national media pilloried the GOP’s tactics, and, with Democrats on full alert, Republicans in the Senate were unable to muster enough votes to override the veto before the General Assembly adjourned for the year.
 Instead, the legislature passed a handful of “mini-budgets,” while Republicans and Cooper failed to come to terms on Medicaid and teacher pay.
 “Long before Rep.
-Butler stood up against the assault on our democracy on 9/11, she had already made a name for herself as a sparkplug for progress,” Governor Cooper told the INDY.
-“When she spoke out on the floor that day, she wasn’t just advocating for herself or her colleagues in the legislature—she was standing up for our fundamental rights as North Carolinians.”
-Rep.
+Butler stood up against the assault on our democracy on 9/11, she had already made a name for herself as a sparkplug for progress,” Governor Cooper told the INDY .
+“When she spoke out on the floor that day, she wasn’t just advocating for herself or her colleagues in the legislature—she was standing up for our fundamental rights as North Carolinians.” Read more 7 Nov Thursday, 6:30 PM · 2019 Rep.
 Deb Butler at Sen.
-Elizabeth Warren's Rally
-Rep.
+Elizabeth Warren's Rally Rep.
 Deb Butler got the crowd on their feet at Sen.
 Elizabeth Warren's Rally in Raleigh.
-Now or Never Event
-Representative Deb Butler was the featured speaker at a “Now or Never” event in Raleigh, NC on 10/30/19.
+4 Nov Monday, 8:37 PM · 2019 Now or Never Event Representative Deb Butler was the featured speaker at a “Now or Never” event in Raleigh, NC on 10/30/19.
 She is pictured here with electeds and candidates from around the state.
-WECT News - Frances Weller reports on Rep.
-Deb Butler's Tammy Baldwin Award win
-By Frances Weller | October 9, 2019 at 12:30 PM EDT - Updated October 9 at 12:30 PM
-WILMINGTON, N.C.
+9 Oct Wednesday, 12:30 PM · 2019 WECT News - Frances Weller reports on Rep.
+Deb Butler's Tammy Baldwin Award win By Frances Weller | October 9, 2019 at 12:30 PM EDT - Updated October 9 at 12:30 PM WILMINGTON, N.C.
 (WECT) - N.C.
 State Representative Deb Butler has been awarded the 2019 Tammy Baldwin Breakthrough Award—an international award given annually to state or local LGBTQ elected official whose political career pushes to move equality forward for LGBTQ people.
 Continue reading...
-Tammy Baldwin Breakthrough Award Winner
-BREAKING:Rep.
+Read more 9 Oct Wednesday, 10:11 AM · 2019 Tammy Baldwin Breakthrough Award Winner BREAKING:Rep.
 Deb Butler is the co-winner of the 2019 Tammy Baldwin Breakthrough Award.
 She shares the honor with Peru's Congressman, Alberto Belaunde.
 Victory Institute shared this announcement via Twitter on 10/9/19 at 10:11am.
 Thank you to all those who voted (near 30,000 worldwide!).
-We Heart Deb Butler (Ms Magazine)
-We Heart: Deb Butler’s “Melt-Up” on the North Carolina House Floor.
-9/16/2019 by CARMEN RIOS
-North Carolina lawmakers weren’t prepared for battle on September 11—but Rep.
+16 Sep Monday, 12:00 AM · 2019 We Heart Deb Butler (Ms Magazine) We Heart: Deb Butler’s “Melt-Up” on the North Carolina House Floor.
+9/16/2019 by CARMEN RIOS North Carolina lawmakers weren’t prepared for battle on September 11—but Rep.
 Deb Butler, in the face of a sudden and unexpected legislative maneuver from her colleagues, still stood up for democracy.
-Read more>>
-State Representative Deb Butler and Senator Elizabeth Warren (@ewarren)!
-Keep fighting, @DebButlerHD18.
-Democracy depends on all of us being willing to speak out. #WeWillNotYield https://t.co/FSl3QfZIXn
-— Elizabeth Warren (@ewarren) September 13, 2019
-Shout out from Senator Elizabeth Warren (@ewarren) on Twitter!
-Keep fighting, @DebButlerHD18.
-Democracy depends on all of us being willing to speak out. #WeWillNotYield https://t.co/FSl3QfZIXn
-— Elizabeth Warren (@ewarren) September 13, 2019
-Interview on ABC11 Raleigh
+Read more>> Read more 13 Sep Friday, 12:00 AM · 2019 State Representative Deb Butler and Senator Elizabeth Warren (@ewarren)!
+Keep fighting, @DebButlerHD18 .
+Democracy depends on all of us being willing to speak out.
+#WeWillNotYield https://t.co/FSl3QfZIXn — Elizabeth Warren (@ewarren) September 13, 2019 Read more 13 Sep Friday, 12:00 AM · 2019 Shout out from Senator Elizabeth Warren (@ewarren) on Twitter!
 Rep.
+Deb Butler got a shoutout from Senator Elizabeth Warren!
+#WeWillNotYield.
+Keep fighting, @DebButlerHD18 .
+Democracy depends on all of us being willing to speak out.
+#WeWillNotYield https://t.co/FSl3QfZIXn — Elizabeth Warren (@ewarren) September 13, 2019 Read more 13 Sep Friday, 12:00 AM · 2019 Interview on ABC11 Raleigh Rep.
 Deb Butler interviewed on Raleigh's ABC News 11.
-LGBTQ Legislator Deb Butler Stands Up for Decency in North Carolina: An Exclusive
-Rep.
-Deb Butler's Appearance on MSNBC
-Rep Deb Butler in an exclusive interview on 'The Last Word' with Lawrence O'Donnell on MSNBC. #WeWillNotYield.
-Quoted in The News & Observer
-Do Something!
+Read more 12 Sep Thursday, 12:00 AM · 2019 LGBTQ Legislator Deb Butler Stands Up for Decency in North Carolina: An Exclusive An exclusive article by Reggie Greer of Victory Institute.
+Read article >> Read more 11 Sep Wednesday, 10:00 PM · 2019 Rep.
+Deb Butler's Appearance on MSNBC Rep Deb Butler in an exclusive interview on 'The Last Word' with Lawrence O'Donnell on MSNBC.
+#WeWillNotYield.
+14 Aug Wednesday, 12:00 AM · 2019 Quoted in The News & Observer Rep.
+Deb Butler does not believe it's appropriate to fund unknown Mt.
+Calvary University, and shouldn’t put leadership training and Christian values together with public dollars.
+Read more 6 Aug Tuesday, 12:00 AM · 2019 Do Something!
 Representative Deb Butler joint press conference on sensible gun safety legislation.
-Representative Butler on InFocus
-Watch Representative Butler on July 21, 2019 episode of InFocus with Loretta Bonitti, discussing beach renourishment.
-Quoted in PolicyWatch on Duke Energy Ratemaking
-Sutton Lake Coal Ash Spill Press Conference with Sen.
-Harper Peterson
-CoastLine with Vince Winkel: Legislative Look ahead With 2019 SE NC State Reps
-The new legislative session convenes next week, and the Cape Fear region has priorities.
+26 Jul Friday, 12:00 AM · 2019 Budget battles: state leaders use visit to aquarium to push politics Read more 21 Jul Sunday, 12:00 AM · 2019 Representative Butler on InFocus Watch Representative Butler on July 21, 2019 episode of InFocus with Loretta Bonitti, discussing beach renourishment.
+Read more 17 Jul Wednesday, 12:00 AM · 2019 StarNews Op Ed: GOP’s ‘take it or leave it’ strategy fails us Read more 19 Jun Wednesday, 12:00 AM · 2019 Quoted in PolicyWatch on Duke Energy Ratemaking There are no environmental performance goals associated with the multi-year plans or the rate-banding.
+Rep.
+Deb Butler, a Democrat from New Hanover County, said other states incorporated such standards into these alternatives.
+“There are no increases in renewable energy, energy efficiencies or clean ups of environmental contamination,” Butler said.
+“The bill seems unilateral.” Read more 4 Jun Tuesday, 12:00 AM · 2019 Sutton Lake Coal Ash Spill Press Conference with Sen.
+Harper Peterson The state Department of Environmental Quality should require Duke Energy to sample the water at Sutton Lake, and pay for the costs connected to the possible contamination.
+Read more 24 Jan Thursday, 12:00 AM · 2019 CoastLine with Vince Winkel: Legislative Look ahead With 2019 SE NC State Reps The new legislative session convenes next week, and the Cape Fear region has priorities.
 This is the time municipalities solidify and communicate that agenda to their local delegation.
 Listen to Rep.
 Deborah Butler, along with Sen.
-Harper Peterson and other area reps on WHQR's Coastline hosted by Vince Winkel
-North Carolina Republicans Flip Out About Voters Knowing What They're Voting On
-GenX bill would repeal Hardison amendment, give DEQ $14 million, power to suspend permits immediately
-State Representative Deb Butler notifies state House of concerns over GenX toxins in drinking water
-RALEIGH, NC (WECT) - Rep.
+Harper Peterson and other area reps on WHQR's Coastline hosted by Vince Winkel Read more 14 Aug Tuesday, 9:21 AM · 2018 Facebook Live Walk-Abouts Read more 31 Jul Tuesday, 6:55 PM · 2018 No, the Lower Cape Fear River isn't swamp water.
+And the EPA agrees Read more 31 Jul Tuesday, 12:28 PM · 2018 North Carolina Republicans Flip Out About Voters Knowing What They're Voting On GOP lawmakers are trying to strip a bipartisan panel of its power to write captions for constitutional amendments that will appear on the ballot this fall.
+Read more 17 May Thursday, 12:00 AM · 2018 GenX bill would repeal Hardison amendment, give DEQ $14 million, power to suspend permits immediately Read more 16 May Wednesday, 12:00 AM · 2018 Butler to participate in GenX session lawsuit against Chemours looms Read more 16 May Wednesday, 12:00 AM · 2018 Reps.
+Butler and Iler meet with teachers at Rally for Respect Read more 15 May Tuesday, 10:00 AM · 2018 Democrat representatives say we need to protect the water and air from Genx Read more 9 May Wednesday, 12:00 AM · 2018 Rep.
+Deb Butler Receives Endorsement from VictoryFund Read more 12 Feb Monday, 12:00 AM · 2018 Early wave of Democrats as election filing opens Read more 25 Jan Thursday, 12:00 AM · 2018 North Carolina state Democrats are "frozen out" due to racial gerrymandering Read more 20 Jan Saturday, 12:00 AM · 2018 With Time Running Out, Schools Plan for K-3 Class Cuts Read more 29 Dec Friday, 12:00 AM · 2017 State's Changes, Challenges to Continue Read more 9 Dec Saturday, 12:00 AM · 2017 Deb Butler, a Freshman NC Legislator, Got a Lesson in Partisanship Read more 4 Oct Wednesday, 12:00 AM · 2017 Legislators override veto of bill addressing GenX discharges Read more 24 Sep Sunday, 12:00 AM · 2017 A Year Of Scrutiny For Redistricting Read more 12 Sep Tuesday, 12:00 AM · 2017 The South's Rising Progressive Stars Read more 24 Aug Thursday, 12:00 AM · 2017 Frustrated?
+NC Rep.
+Deb Butler Vents on Video Read more 23 Aug Wednesday, 12:00 AM · 2017 Michael Lee proposal would give state money to CFPUA, not DEQ Read more 23 Aug Wednesday, 12:00 AM · 2017 Lawmakers Meet for Four Hours to Discuss GenX Read more 17 Aug Thursday, 12:00 AM · 2017 Rep.
+Butler to Speak at Brunswick Freedom Fund Banquet Read more 13 Jun Tuesday, 2:20 PM · 2017 State Representative Deb Butler notifies state House of concerns over GenX toxins in drinking water Published: Jun.
+13, 2017 at 12:10 AM EDT|Updated: Jun.
+13, 2017 at 7:35 AM EDT RALEIGH, NC (WECT) - Rep.
 Deb Butler (D-New Hanover) is making fellow members of the General Assembly aware of the situation regarding toxins discovered in drinking water.
 Butler sent a memo to all members of the state House on Monday night, titled "Exposure to Toxic Compound known as Gen-X, Cape Fear Watershed," discussing the potential consequences of the toxin being discharged into the drinking water and asking lawmakers involved in budget discussions to fully fund the North Carolina Department of Environmental Quality to assist in the research into the toxin.
 GenX is produced and being discharged into the water supply at a Chemours plant along the Bladen County line, upstream in the Cape Fear River.
 The toxin can't currently be filtered out of the water supply by surface water processes operated by area water utilities.
 “I want to stress that the consequences of this contamination are not yet known and will develop over the course of the near future,” the memo reads in part.
 “I am told this compound has not been evaluated by the either the EPA or NCDEQ because there aren’t enough resources to process potentially hazardous contaminants.
-I think that is a shame.”
-"The North Carolina Department of Environmental Quality needs adequate funding to do their jobs," Butler said in a comment accompanying the memo.
+I think that is a shame.” "The North Carolina Department of Environmental Quality needs adequate funding to do their jobs," Butler said in a comment accompanying the memo.
 "The recently proposed budget cuts will slash their budget, reduce vital staff positions, and lead to an inability to adequately protect our drinking water supply.
 We have the budgetary capability to fully fund this vital agency and we should immediately put partisan bickering aside for the sake of clean water.
-To do otherwise is malfeasance…pure and simple."
+To do otherwise is malfeasance…pure and simple." Copyright # WECT .
 All rights reserved.
-State Representative Deb Butler on Advanced proposal to allow concealed guns without permit in NC
-WRAL NEWS- May 31, 2017.
+Read more 31 May Wednesday, 12:00 AM · 2017 State Representative Deb Butler on Advanced proposal to allow concealed guns without permit in NC WRAL NEWS- May 31, 2017.
 A House committee voted Wednesday in favor of a bill that would eliminate North Carolina's requirement that people obtain a permit to carry a concealed weapon.
 House Bill 746 creates "parity" for people who are allowed to carry guns openly but suddenly find themselves on the wrong side of the law if they put on a jacket and cover up their holstered sidearms simply because they lack a concealed carry permit, said sponsor Rep.
 Chris Millis, R-Pender.
@@ -542,16 +521,10 @@ Deb Butler, D-New Hanover, said she worries that removing the permit process put
 "I do see a paradigm shift in the way we are treating this, and I do see that we are eliminating a very valuable stopgap measure," Butler said.
 "Gun violence has proliferated like crazy in this country.
 We all know that.
-My fear is that we're asking citizens to disqualify themselves, to understand and know whether they are capable of carrying (a weapon) in an open fashion, and I just think that's a dangerous step to take."
-CoastLine: Rep.
-Deb Butler on what She's Working for in NC Legislature's Long Session
-On Monday, March 23, 2017, Representative Deb Butler, NC House District 18, sat down for an exclusive one hour interview with WHQR's Rachel Lewis Hilburn, host of the local news program Coastline.
+My fear is that we're asking citizens to disqualify themselves, to understand and know whether they are capable of carrying (a weapon) in an open fashion, and I just think that's a dangerous step to take." Read more 23 Mar Thursday, 10:06 AM · 2017 CoastLine: Rep.
+Deb Butler on what She's Working for in NC Legislature's Long Session On Monday, March 23, 2017, Representative Deb Butler, NC House District 18, sat down for an exclusive one hour interview with WHQR's Rachel Lewis Hilburn, host of the local news program Coastline.
 Topics ranged from education, Governor Cooper's budget, immigration, and working with other members of the local delegation in Raleigh.
-When asked about teacher pay, Butler responded, "When you know a veteran high school teacher who has to wait tables on Saturday night to make ends meet, that is unconscionable."
-The full interview can be heard here:
-http://whqr.org/post/coastline-rep-deb-butler-what-shes-working-nc-legislatures-long-session
-Deb Butler on Senate Bill 147 - Bill Hopes to Reenact Tax Free Holiday Weekend in NC
-WILMINGTON, NC (WWAY) — March 21, 2017.
+When asked about teacher pay, Butler responded, "When you know a veteran high school teacher who has to wait tables on Saturday night to make ends meet, that is unconscionable." The full interview can be heard here: http://whqr.org/post/coastline-rep-deb-butler-what-shes-working-nc-legislatures-long-session Read more 21 Mar Tuesday, 12:00 AM · 2017 Deb Butler on Senate Bill 147 - Bill Hopes to Reenact Tax Free Holiday Weekend in NC WILMINGTON, NC (WWAY) — March 21, 2017.
 The weekend designed to help ease the costs of buying school supplies may be returning to North Carolina.
 A bill has been proposed in the senate to bring back a tax free weekend to the state.
 Senate Bill 147 will bring back the tax free holiday.
@@ -563,18 +536,27 @@ Representative Deb Butler says she is happy to see the move to bring the holiday
 The North Carolina Retail Merchants Association says the sales tax holiday was the second most profitable weekend of the year behind Black Friday.
 The tax free holiday first went into effect in 2002.
 The bill is currently in a senate committee.
-North Carolina's Newest LGBTQ Lawmaker Deb Butler Fights to Repeal HB2
-“My political timing has always been poor,” Butler said, referring to her entrance into politics.
-“The first time I ran for office was 2010 [as County Commissioner], and, as a Democrat, that was an unpopular time.”
+Read more 11 Feb Saturday, 12:12 PM · 2017 North Carolina's Newest LGBTQ Lawmaker Deb Butler Fights to Repeal HB2 NBC NEWS - Feb.
+21, 2017, 12:47 PM EST / Updated Feb.
+21, 2017, 12:47 PM EST.
+By Julie Moreau.
+Earlier this month, Deb Butler became the second out LGBTQ representative in North Carolina’s State House.
+An attorney by trade, she was appointed to replace Susi Hamilton, who was named to Gov.
+Roy Cooper’s cabinet.
+With her appointment, Butler stepped into the political maelstrom generated by House Bill 2 (HB2), North Carolina’s now infamous “bathroom bill.” “My political timing has always been poor,” Butler said, referring to her entrance into politics.
+“The first time I ran for office was 2010 [as County Commissioner], and, as a Democrat, that was an unpopular time.” That year, control of the State House and Senate flipped from Democrat to Republican, and the GOP has dominated the legislature since.
+In 2012, Butler lost again in her bid for State Senate to Republican incumbent Thomas Goolsby.
 Deb Butler, center, stands with eight other nominees as she was selected to fill the N.C.
 House seat vacated by former Rep.
-Susi Hamilton, Wednesday Feb. 1, 2017, in Wilmington, N.C..Ken Blevins / Wilmington StarNews via AP
-Currently, Democratic lawmakers like Butler must contend with a Republican majority if they want to pass legislation.
+Susi Hamilton, Wednesday Feb.
+1, 2017, in Wilmington, N.C..Ken Blevins / Wilmington StarNews via AP Currently, Democratic lawmakers like Butler must contend with a Republican majority if they want to pass legislation.
 At a press conference last week, newly elected Gov.
 Cooper said there is “urgency” to scrapping the controversial and costly HB2—legislation best known for barring transgender people from using government building bathrooms in accordance with their gender identities—and called on both Democrats and Republicans to support a repeal.
-Gov.
-Cooper appoints Deborah Butler from Wilmington NC to take Hamilton's seat in NC House
-RALEIGH, NC (WECT) - Feb 6 2017.
+Julie Moreau is a Post Doctoral Research Fellow in the Department of Women's, Gender and Sexuality Studies at Washington University in St.
+Louis.
+She tweets at @JEMoreau .
+Read more 10 Feb Friday, 5:46 PM · 2017 Gov.
+Cooper appoints Deborah Butler from Wilmington NC to take Hamilton's seat in NC House RALEIGH, NC (WECT) - Feb 6 2017.
 Governor Roy Cooper has issued a proclamation appointing Wilmington attorney Deb Butler to replace Susi Hamilton as representative from District 18, which covers parts of New Hanover and Brunswick counties.
 Butler will be sworn-in by Minority Leader Rep.
 Darren Jackson Monday night, before the state house goes in session.
@@ -584,14 +566,14 @@ The good thing about coming in a little late is that I am getting a lot of indiv
 Hamilton resigned the seat after she was appointed by Gov.
 Cooper to become Secretary of Natural and Cultural Resources.
 Butler said since she is being sworn in Monday night in Raleigh, she plans to have a community event when she returns from her first week in the General Assembly.
-Deb Butler, region's newest state representative, outlines goals
-WILMINGTON, Feb 7, 2017 -- Deb Butler settled into a chair at her small Wilmington law firm the day after being appointed to fill former Rep.
+Read more 7 Feb Tuesday, 12:00 AM · 2017 Deb Butler, region's newest state representative, outlines goals WILMINGTON, Feb 7, 2017 -- Deb Butler settled into a chair at her small Wilmington law firm the day after being appointed to fill former Rep.
 Susi Hamilton's vacated seat.
 She's asked if she's a little tired.
 "I am," Butler admitted during her first interview as the newly minted District 18 N.C.
 House representative.
-"I was so excited, I couldn't sleep."
-That night featured numerous phone calls of congratulations, including from Wilmington Mayor Bill Saffo, N.C.
+"I was so excited, I couldn't sleep." That night featured numerous phone calls of congratulations, including from Wilmington Mayor Bill Saffo, N.C.
 Sen.
 Michael Lee, R-New Hanover, and from Hamilton.
 "Her professional background, years of experience and personal commitment to Southeastern North Carolina is going to serve her well and serve the people of the 18th District well in the General Assembly," Hamilton said.
+Read more Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Contact Paid for By Elect Deb Butler Powered by CampaignPartner.com - Political Campaign Websites Home Contribute Events Our Issues News Legislation Primary Sponsored Bills Votes Committees Contact Close Menu

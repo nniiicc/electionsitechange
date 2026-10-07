@@ -1,20 +1,106 @@
 [
-"https://a.jimdo.com/app/auth/signin/jumpcms?page=2444208392",
-"https://cms.e.jimdo.com/app/cms/logout.php",
-"https://dotsethmn.com/",
-"https://dotsethmn.com/ads",
-"https://dotsethmn.com/app/download/13789607592/Jeff+Dotseth+-+Melissa.mp3?t=1726605440",
-"https://dotsethmn.com/app/download/13789607692/23431-Dottseth_4_House_2022-In_Jeff%27s_Words.mp3?t=1726605440",
-"https://dotsethmn.com/app/download/14413500492/Dotseth+for+Re-Election+MELISSA+60.mp3?t=1726605440",
-"https://dotsethmn.com/app/download/14413500592/Dotseth+for+Re-Election-JEFF+ENDORSEMENTS.mp3?t=1726605440",
-"https://dotsethmn.com/app/download/14413500692/Doseth+for+Re-Election-JEFF+SPENDING.mp3?t=1726605509",
-"https://dotsethmn.com/cdn-cgi/l/email-protection",
-"https://dotsethmn.com/donate",
-"https://dotsethmn.com/endorsements",
-"https://dotsethmn.com/gallery",
-"https://dotsethmn.com/issues",
-"https://dotsethmn.com/social",
-"https://dotsethmn.com/volunteer",
-"https://dotsethmn.com/who",
-"https://secure.winred.com/jeffdotseth/storefront"
+{
+"text": "Ads",
+"href": "https://www.dotsethmn.com/ads/"
+},
+{
+"text": "Donate",
+"href": "https://www.dotsethmn.com/donate/"
+},
+{
+"text": "Donate Here",
+"href": "https://www.dotsethmn.com/donate/"
+},
+{
+"text": "Download",
+"href": "https://www.dotsethmn.com/app/download/13789607592/Jeff+Dotseth+-+Melissa.mp3?t=1726605440"
+},
+{
+"text": "Download",
+"href": "https://www.dotsethmn.com/app/download/13789607692/23431-Dottseth_4_House_2022-In_Jeff%27s_Words.mp3?t=1726605440"
+},
+{
+"text": "Download",
+"href": "https://www.dotsethmn.com/app/download/14413500492/Dotseth+for+Re-Election+MELISSA+60.mp3?t=1726605440"
+},
+{
+"text": "Download",
+"href": "https://www.dotsethmn.com/app/download/14413500592/Dotseth+for+Re-Election-JEFF+ENDORSEMENTS.mp3?t=1726605440"
+},
+{
+"text": "Download",
+"href": "https://www.dotsethmn.com/app/download/14413500692/Doseth+for+Re-Election-JEFF+SPENDING.mp3?t=1726605509"
+},
+{
+"text": "Edit",
+"href": "https://a.jimdo.com/app/auth/signin/jumpcms/?page=2444208392"
+},
+{
+"text": "Endorsements",
+"href": "https://www.dotsethmn.com/endorsements/"
+},
+{
+"text": "Gallery",
+"href": "https://www.dotsethmn.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://www.dotsethmn.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.dotsethmn.com/issues/"
+},
+{
+"text": "Log out",
+"href": "https://cms.e.jimdo.com/app/cms/logout.php"
+},
+{
+"text": "Scroll to top",
+"href": "javascript:void(0);"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/jeffdotseth/storefront/"
+},
+{
+"text": "Social",
+"href": "https://www.dotsethmn.com/social/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dotsethmn.com/volunteer/"
+},
+{
+"text": "Who",
+"href": "https://www.dotsethmn.com/who/"
+},
+{
+"text": "[email protected]",
+"href": "https://www.dotsethmn.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Download]",
+"href": "https://www.dotsethmn.com/app/download/13789607592/Jeff+Dotseth+-+Melissa.mp3?t=1726605440"
+},
+{
+"text": "[image: Download]",
+"href": "https://www.dotsethmn.com/app/download/13789607692/23431-Dottseth_4_House_2022-In_Jeff%27s_Words.mp3?t=1726605440"
+},
+{
+"text": "[image: Download]",
+"href": "https://www.dotsethmn.com/app/download/14413500492/Dotseth+for+Re-Election+MELISSA+60.mp3?t=1726605440"
+},
+{
+"text": "[image: Download]",
+"href": "https://www.dotsethmn.com/app/download/14413500592/Dotseth+for+Re-Election-JEFF+ENDORSEMENTS.mp3?t=1726605440"
+},
+{
+"text": "[image: Download]",
+"href": "https://www.dotsethmn.com/app/download/14413500692/Doseth+for+Re-Election-JEFF+SPENDING.mp3?t=1726605509"
+},
+{
+"text": "[image: Jeff Dotseth for District 11A]",
+"href": "https://www.dotsethmn.com/"
+}
 ]

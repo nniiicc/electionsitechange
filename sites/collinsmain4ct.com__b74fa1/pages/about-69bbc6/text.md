@@ -1,4 +1,4 @@
-Hi, I’m Eilish Collins Main and I’m proud to serve as state representative for the 146th District!
+0 Skip to Content Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Hi, I’m Eilish Collins Main and I’m proud to serve as state representative for the 146th District!
 Connecticut’s 146th State House District is the heart of Stamford, comprising Downtown, the South End, and Shippan.
 As a child of immigrants and a longtime resident of Stamford, I am a proud first-generation Irish American.
 With a thirty year business career in EdTech management, marketing, and business development, I bring substantial expertise and unique perspective to serving in the legislature as a strategic thinker, consensus builder, and skilled negotiator.
@@ -12,3 +12,5 @@ From continued engagement in our community, I’ve seen firsthand how much of an
 I am a strong community leader and an active volunteer for the Stamford Democratic Party having proactively run campaigns to support both state and local elected candidates as well as important, bipartisan public information efforts.
 I also served the City of Stamford as a Personnel Commissioner.
 It’s been an honor to represent the 146th District an experienced leader with a demonstrated passion for service, and a life of lived experiences to lean into to help craft meaningful, responsive legislation that serves the needs of the people in the heart of Stamford.
+Privacy Policy Paid for by Eilish Collins Main for CT, Christopher Brown, Treasurer.
+Approved by Eilish Collins Main.

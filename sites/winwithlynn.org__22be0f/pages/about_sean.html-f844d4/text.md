@@ -1,5 +1,9 @@
-A little bit about Sean:
-A Dover native with strong ties to the community, Sean graduated from Dover High School and continues to reside in Dover.
+Primary Election is Thursday September 6, 2018!
+Polls open 7 am - 8 pm General Election is Tuesday November 6, 2018!
+Polls open 7 am - 8 pm Not sure where to vote?
+Have questions about the process?
+Go to iVote.De.Gov for answers to your questions!
+Contact Resources Gallery Campaign News Endorsements Legislation Issues About Sean Home A little bit about Sean: A Dover native with strong ties to the community, Sean graduated from Dover High School and continues to reside in Dover.
 Sean was a Public School Teacher in the Bronx, New York, for several years after graduating college, where he served in an economically depressed school.
 During Law School, Sean clerked at the Manhattan Law Firm of Fasulo, Shalley and DiMaggio located near the former World Trade Center.
 With the Delaware Family Court, Sean served as Counsel for Indigent Parents involved in litigation with the Division of Family Services through a contract with the State of Delaware in 2006.
@@ -12,3 +16,5 @@ He gained admittance to the Delaware Bar in 2005.
 In 2011, Sean was elected to the City of Dover City Council, where he represented the Third District of Dover.
 In that capacity, Sean served as Chairman of the City of Dover Legislative, Finance and Administration Committee.
 He also served on the Public Safety Committee, the Utility Committee, the Civilian Pension Board, the Police Pension Board, the Construction Code Board of Appeals, and was the Mayor’s appointee to the Library Commission.
+Donate Today!
+Home | About Sean | Issues | Legislation | Endorsements | Campaign News | Gallery | Resources | Contact © # Friends of Sean Lynn

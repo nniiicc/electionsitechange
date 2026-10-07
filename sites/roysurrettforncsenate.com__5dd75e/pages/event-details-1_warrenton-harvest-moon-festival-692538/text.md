@@ -1,5 +1,2 @@
-Sat, Oct 10
-Warren County Courthouse
-Stop by our booth and meet your NC State Senate District 2 Candidate, Roy Surrett.
-Oct 10, 2026, 10:00 AM – 4:00 PM
-Warren County Courthouse, 109 S Main St, Warrenton, NC 27589, USA
+top of page Home Issues Policy Events Voting Merch News Contact DONATE Warrenton Harvest Moon Festival Sat, Oct 10 | Warren County Courthouse Stop by our booth and meet your NC State Senate District 2 Candidate, Roy Surrett.
+Time & Location Oct 10, 2026, 10:00 AM – 4:00 PM Warren County Courthouse, 109 S Main St, Warrenton, NC 27589, USA About the event Show More Share this event Paid for by the Committee to Elect Roy Surrett bottom of page

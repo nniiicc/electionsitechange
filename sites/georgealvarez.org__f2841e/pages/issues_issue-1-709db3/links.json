@@ -1,19 +1,70 @@
 [
-"https://assembly.state.ny.us/leg?bn=A03736&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y",
-"https://assembly.state.ny.us/leg?bn=A03850",
-"https://assembly.state.ny.us/leg?bn=A07872&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y",
-"https://designedtorun.com/",
-"https://facebook.com/galvarezny",
-"https://georgealvarez.org/",
-"https://georgealvarez.org/about",
-"https://georgealvarez.org/contact",
-"https://georgealvarez.org/endorsements",
-"https://georgealvarez.org/events",
-"https://georgealvarez.org/issues",
-"https://georgealvarez.org/news",
-"https://georgealvarez.org/volunteer",
-"https://instagram.com/galvareznyc",
-"https://nysenate.gov/legislation/bills/2025/A4877/amendment/A",
-"https://secure.actblue.com/donate/galvareznyc",
-"https://x.com/galvareznyc"
+{
+"text": "About",
+"href": "https://www.georgealvarez.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.georgealvarez.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/galvareznyc"
+},
+{
+"text": "Endorsements",
+"href": "https://www.georgealvarez.org/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.georgealvarez.org/events"
+},
+{
+"text": "Issues",
+"href": "https://www.georgealvarez.org/issues"
+},
+{
+"text": "News",
+"href": "https://www.georgealvarez.org/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Rent Emergency Stabilization for Tenants (REST) Act (A4877).",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A4877/amendment/A"
+},
+{
+"text": "Volunteer",
+"href": "https://www.georgealvarez.org/volunteer"
+},
+{
+"text": "[image: George Alvarez | New York State Assemblymember | District 78]",
+"href": "https://www.georgealvarez.org/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/galvarezny"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/galvareznyc/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/galvareznyc"
+},
+{
+"text": "bill A07872",
+"href": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07872&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07872"
+},
+{
+"text": "legislative bill A03736",
+"href": "https://assembly.state.ny.us/leg/?default_fld=&bn=A03736&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y"
+},
+{
+"text": "“Housing is a Human Right Act”,",
+"href": "https://assembly.state.ny.us/leg/?bn=A03850&leg_video="
+}
 ]

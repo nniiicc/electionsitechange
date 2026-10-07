@@ -1,28 +1,8 @@
-Honey for gift giving
-Helping local beekeeper,who frantically rescued hives from Kapoho papaya farm before it was overrun by lava, by buying surplus honey and ahnd bottling for gift giving.
-Skip to content
-Yearly Archives: 2018
-Honey for gift giving
-Helping local beekeeper,who frantically rescued hives from Kapoho papaya farm before it was overrun by lava, by buying surplus honey and ahnd bottling for gift giving.
-Legislative year 2018 accomplishments
-HAWAII ISLAND - Along with the long list of Capital Improvement Projects, lawmakers were also able to secure $5.4 million in Grants-In-Aid CIP for Big Island nonprofit organizations.
-Big Island…
-Pahoa shelter for Lava evacuees
-The Sacred Heart Shelter, comprises of 20 housing units, a central pavilion, two 8x8 offices, two restrooms, shower facilities for men, women and an ADA compliant facility.
-The project began…
-support housing for evacuees
-Rep.
-San Buenaventura asks Governor to issue executive orders supporting housing for Kilauea eruption evacuees Honolulu, Hawaiʻi – With the Hawaiʻi Island lava flow continuing to expand, destroying homes and…
-working for puna during lava disaster
-PAHOA, Hawaii - evacuation needs House and Senate leaders went into the disaster area in and around Leilani Estates Thursday.
-Legislators in Leilani Estates assessed how lava is impacting the…
-child welfare case workers
-A state House-Senate conference committee on Wednesday unanimously passed a bill that will establish a five-year pilot program to fund four more full-time Child Welfare Services case workers in East…
-ban on chlorpyrifos
-Supporting House amendment , which now bans chlorpyrifos and otherwise strengthens Sen.
-Ruderman’s bill
-puna farmers
-Supporting Puna Cacao farmers at 1st Big Island Cacao festival with Patrick Merritt, organizer
-increase in neighbor island TAT
-With neighbor island mayors on March 15 on house proposal to increase neighbor island share of TAT to 2050.
-If senate agrees, that is $12 million more per year for…
+Skip to content home about meet Joy Puna District issues join us get involved contact donate who’s with Joy Menu Close home about meet Joy Puna District issues join us get involved contact donate who’s with Joy Search this website Yearly Archives: 2018 Home > 2018 Honey for gift giving Post author: ellen Post published: September 9, 2018 Post category: agriculture / eruption Helping local beekeeper,who frantically rescued hives from Kapoho papaya farm before it was overrun by lava, by buying surplus honey and ahnd bottling for gift giving.
+Continue Reading Honey for gift giving Legislative year 2018 accomplishments Post author: ellen Post published: July 5, 2018 Post category: legislation HAWAII ISLAND - Along with the long list of Capital Improvement Projects, lawmakers were also able to secure $5.4 million in Grants-In-Aid CIP for Big Island nonprofit organizations.
+Big Island… Continue Reading Legislative year 2018 accomplishments Pahoa shelter for Lava evacuees Post author: ellen Post published: July 5, 2018 Post category: disaster / eruption / housing The Sacred Heart Shelter, comprises of 20 housing units, a central pavilion, two 8x8 offices, two restrooms, shower facilities for men, women and an ADA compliant facility.
+The project began… Continue Reading Pahoa shelter for Lava evacuees support housing for evacuees Post author: ellen Post published: July 5, 2018 Post category: disaster / eruption Rep.
+San Buenaventura asks Governor to issue executive orders supporting housing for Kilauea eruption evacuees Honolulu, Hawaiʻi – With the Hawaiʻi Island lava flow continuing to expand, destroying homes and… Continue Reading support housing for evacuees working for puna during lava disaster Post author: ellen Post published: May 12, 2018 Post category: disaster PAHOA, Hawaii - evacuation needs House and Senate leaders went into the disaster area in and around Leilani Estates Thursday.
+Legislators in Leilani Estates assessed how lava is impacting the… Continue Reading working for puna during lava disaster child welfare case workers Post author: ellen Post published: April 26, 2018 Post category: health / legislation A state House-Senate conference committee on Wednesday unanimously passed a bill that will establish a five-year pilot program to fund four more full-time Child Welfare Services case workers in East… Continue Reading child welfare case workers campaign fundraiser Post author: ellen Post published: April 20, 2018 Post category: campaign Mahalo nui loa for your support Continue Reading campaign fundraiser ban on chlorpyrifos Post author: ellen Post published: April 18, 2018 Post category: legislation Supporting House amendment , which now bans chlorpyrifos and otherwise strengthens Sen.
+Ruderman’s bill Continue Reading ban on chlorpyrifos puna farmers Post author: ellen Post published: April 18, 2018 Post category: agriculture Supporting Puna Cacao farmers at 1st Big Island Cacao festival with Patrick Merritt, organizer Continue Reading puna farmers increase in neighbor island TAT Post author: ellen Post published: April 18, 2018 Post category: legislation With neighbor island mayors on March 15 on house proposal to increase neighbor island share of TAT to 2050.
+If senate agrees, that is $12 million more per year for… Continue Reading increase in neighbor island TAT 1 2 Go to the next page Recent Posts Mahalo Veteran Day Address Food Drive Candidate Spotlight MAHALO TO ALL Recent Comments Archives December 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 September 2018 July 2018 May 2018 April 2018 March 2018 February 2018 Categories agriculture campaign Covid disaster eruption health HOA housing internet legislation transportation Contact Info Friends of Joy San Buenaventura Address: PO Box 1675 Kea'au Hi 96749 Phone: Frank Commendador 808-217-2215 Email: Joy4Puna joy4puna@outlook.com Opens in your application Follow Us Opens in a new tab Opens in a new tab Opens in a new tab Useful Links register to vote Opens in a new tab redistricting Hawaii Senate Opens in a new tab unemployment insurance information Opens in a new tab Hawaii County assistance programs Opens in a new tab Kīlauea eruption recovery Opens in a new tab Donate Copyright # - emsbmd@yahoo.com

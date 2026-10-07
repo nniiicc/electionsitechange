@@ -1,8 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61554575512853&mibextid=LQQJ4d",
-"https://instagram.com/scottforhouse",
-"https://scottforhouse.com/",
-"https://scottforhouse.com/about-paul",
-"https://scottforhouse.com/photos",
-"https://secure.winred.com/paul-scott-for-house/donate-today"
+{
+"text": "About Paul",
+"href": "https://www.scottforhouse.com/about-paul"
+},
+{
+"text": "CONNECT",
+"href": "https://www.facebook.com/profile.php?id=61554575512853&mibextid=LQQJ4d"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/paul-scott-for-house/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.scottforhouse.com"
+},
+{
+"text": "NC House",
+"href": "https://www.scottforhouse.com"
+},
+{
+"text": "Paul Scott",
+"href": "https://www.scottforhouse.com"
+},
+{
+"text": "Photo Album",
+"href": "https://www.scottforhouse.com/photos"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61554575512853&mibextid=LQQJ4d"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/scottforhouse"
+}
 ]

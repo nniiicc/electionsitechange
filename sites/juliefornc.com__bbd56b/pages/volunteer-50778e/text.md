@@ -1,14 +1,2 @@
-top of page
-Log In
-CONTRIBUTE
-VOLUNTEER
-HOME
-ABOUT
-ISSUES
-EVENTS
-MORE
-ENDORSEMENTS
-LEADERSHIP/AWARDS
-More
-Use tab to navigate through the menu items.
-bottom of page
+top of page Log In CONTRIBUTE VOLUNTEER HOME ABOUT ISSUES EVENTS MORE ENDORSEMENTS LEADERSHIP/AWARDS More Use tab to navigate through the menu items.
+PAID FOR BY FOR THE COMMITTEE TO ELECT JULIE VON HAEFEN 1002 S Wellonsburg Place Apex, NC 27502 bottom of page

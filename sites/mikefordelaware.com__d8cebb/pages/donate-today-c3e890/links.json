@@ -1,11 +1,50 @@
 [
-"https://facebook.com/",
-"https://instagram.com/",
-"https://mikefordelaware.com/",
-"https://mikefordelaware.com/donate-today",
-"https://mikefordelaware.com/volunteer",
-"https://mikefordelaware.com/wp-login.php",
-"https://pinterest.com/",
-"https://secure.winred.com/friends-of-mike-simpler-4de14/donate-today?sc=winred-directory&money_pledge=false&recurring=false&exitintent=true",
-"https://twitter.com/"
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/friends-of-mike-simpler-4de14/donate-today?sc=winred-directory&money_pledge=false&recurring=false&exitintent=true"
+},
+{
+"text": "Donate Today",
+"href": "https://mikefordelaware.com/donate-today/"
+},
+{
+"text": "Home",
+"href": "https://mikefordelaware.com/"
+},
+{
+"text": "Log in",
+"href": "https://mikefordelaware.com/wp-login.php"
+},
+{
+"text": "Volunteer",
+"href": "https://mikefordelaware.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://mikefordelaware.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com"
+},
+{
+"text": "[no text]",
+"href": "https://pinterest.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0)"
+},
+{
+"text": "info@mikefordelaware.com",
+"href": "mailto:info@mikefordelaware.com"
+}
 ]

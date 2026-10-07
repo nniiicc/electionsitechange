@@ -1,32 +1,17 @@
-Find everything you need to vote early in Rhode Island.
+Skip to content Home About Photo Gallery Endorsements What Matters Housing That Is Affordable Jobs Revolution Inflation Medical Freedom Second Amendment Parental Rights Free Speech Community Outreach Small Business Outreach Government Dysfunction Voter ID & Election Integrity GAHA News Get Involved Rhode Island Voter Resource Center Donate To Vic Mellor’s Campaign Join the campaign Volunteer for Vic Mellor’s Campaign Home About Photo Gallery Endorsements What Matters Housing That Is Affordable Jobs Revolution Inflation Medical Freedom Second Amendment Parental Rights Free Speech Community Outreach Small Business Outreach Government Dysfunction Voter ID & Election Integrity GAHA News Get Involved Rhode Island Voter Resource Center Donate To Vic Mellor’s Campaign Join the campaign Volunteer for Vic Mellor’s Campaign X-twitter Instagram Youtube Facebook Donate Home About Photo Gallery Endorsements What Matters Housing That Is Affordable Jobs Revolution Inflation Medical Freedom Second Amendment Parental Rights Free Speech Community Outreach Small Business Outreach Government Dysfunction Voter ID & Election Integrity GAHA News Get Involved Rhode Island Voter Resource Center Donate To Vic Mellor’s Campaign Join the campaign Volunteer for Vic Mellor’s Campaign Home About Photo Gallery Endorsements What Matters Housing That Is Affordable Jobs Revolution Inflation Medical Freedom Second Amendment Parental Rights Free Speech Community Outreach Small Business Outreach Government Dysfunction Voter ID & Election Integrity GAHA News Get Involved Rhode Island Voter Resource Center Donate To Vic Mellor’s Campaign Join the campaign Volunteer for Vic Mellor’s Campaign X-twitter Instagram Youtube Facebook Donate Rhode Island Early Voting Information Find everything you need to vote early in Rhode Island.
 View early voting locations, addresses, and hours to find the most convenient place and time to cast your ballot.
 Need a Ride?
 Request a ride to vote or get help with your mail-in ballot.
-Burrillville
-Burrillville Town Hall
-105 Harrisville Main Street
-Mon–Wed: 8:30 AM–4:30 PM
-Thurs: 8:30 AM–7:00 PM
-Fri: 8:30 AM–12:30 PM
-Manage Consent
-To provide the best experiences, we use technologies like cookies to store and/or access device information.
-Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site.
-Not consenting or withdrawing consent, may adversely affect certain features and functions.
-Functional
-Always active
-The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
-Preferences
-The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
-Statistics
-The technical storage or access that is used exclusively for statistical purposes.
-The technical storage or access that is used exclusively for anonymous statistical purposes.
-Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
-Marketing
-The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
-Mail-In Ballot Info
-If you applied for a mail-in ballot, you will receive your ballot directly from the state.
-Once it arrives, please complete your ballot, select Victor Mellor, and return it by mail according to the instructions provided.
+REQUEST A RIDE EARLY VOTING LOCATIONS Burrillville Burrillville Town Hall 105 Harrisville Main Street Mon–Wed: 8:30 AM–4:30 PM Thurs: 8:30 AM–7:00 PM Fri: 8:30 AM–12:30 PM Get Directions Charlestown Charlestown Town Hall 4540 South County Trail Mon–Fri: 8:30 AM–4:30 PM Get Directions Coventry Coventry Town Hall 1670 Flat River Road Mon–Fri: 8:30 AM–4:30 PM Get Directions Cranston Peter J.
+Pastore Jr.
+Youth Center 155 Gansett Ave.
+Mon–Fri: 8:30 AM–4:30 PM Get Directions East Greenwich East Greenwich Town Hall 125 Main Street Mon–Fri: 8:30 AM–4:30 PM Get Directions Exeter Exeter Town Hall 675 Ten Rod Road Mon–Fri: 9:00 AM–4:00 PM Get Directions Foster Foster Town Hall 181 Howard Hill Road Mon–Fri: 8:30 AM–5:30 PM Get Directions Glocester Glocester Town Hall 1145 Putnam Pike Mon–Fri: 8:00 AM–4:30 PM Get Directions Hopkinton Hopkinton Town Hall 1 Townhouse Road Mon–Fri: 8:30 AM–4:30 PM Get Directions Johnston Johnston Land Trust 509 Greenville Avenue Mon–Fri: 8:30 AM–4:30 PM Get Directions Narragansett Narragansett Town Hall 25 5th Avenue Mon–Fri: 8:30 AM–4:30 PM Get Directions New Shoreham New Shoreham Town Hall 16 Old Town Road Mon–Fri: 9:00 AM–3:00 PM Get Directions North Kingstown North Kingstown Town Hall 100 Fairway Drive Mon–Fri: 8:30 AM–4:30 PM Get Directions Providence Providence City Hall 25 Dorrance Street Mon–Fri: 8:30 AM–4:30 PM Get Directions Richmond Richmond Town Hall 5 Richmond Townhouse Road Mon–Fri: 9:00 AM–4:00 PM Get Directions Scituate Scituate Town Hall 195 Danielson Pike Mon–Fri: 8:30 AM–4:00 PM Get Directions South Kingstown South Kingstown Town Hall 180 High Street Mon–Fri: 8:30 AM–4:30 PM Get Directions Warwick Warwick Police Department 99 Veterans Memorial Drive Mon–Fri: 8:30 AM–4:30 PM Get Directions West Greenwich West Greenwich Town Hall 280 Victory Highway Mon–Fri: 8:30 AM–4:00 PM Get Directions West Warwick West Warwick Town Manager 1170 Main Street #1 Mon–Fri: 8:30 AM–4:30 PM Get Directions Westerly Westerly Police Department 60 Airport Road Mon–Fri: 8:30 AM–4:30 PM Get Directions Support Freedom First Common Sense Putting your Values, & Freedom First Donate Paid for by Friends Of Victor Mellor Contact 401-545-0127 info@vicmellor.com Friends of Victor Mellor 205 Buttonwoods Ave Warwick, RI 02886 X-twitter Facebook Instagram Youtube What Matters Housing That Is Affordable Jobs Revolution Medical Freedom Second Amendment Free Speech - No Censorship Parents - Not Bureaucrats How Can You Help Join The Campaign Donation In The News About Team Contact Privacy Policy Manage consent Manage consent Mail-In Ballot Info If you applied for a mail-in ballot, you will receive your ballot directly from the state.
+Once it arrives, please complete your ballot, select Victor Mellor , and return it by mail according to the instructions provided.
 If you have questions or need assistance with your mail-in ballot, the Victor Mellor campaign is here to help.
-Call us at 401-545-0127 or email info@vicmellor.com.
-Vote For Vic Ride Request
-Fill out the form below to request a ride to your voting location or get assistance with your mail-in ballot.
+Call us at 401-545-0127 or email info@vicmellor.com .
+Vote For Vic Ride Request Fill out the form below to request a ride to your voting location or get assistance with your mail-in ballot.
+Name (Required) First Last Email (Required) Phone (Required) When do you need a ride?
+(Required) Early Voting Election Day Submit Easily check where and when to vote, mail-ballot sign-up, and request transportation to vote.
+Vote For Vic WHEN AND WHERE EARLY VOTING BEGINS Mail-ballot Information Need a Ride?
+Request a ride to vote or get help with your mail-in ballot.
+REQUEST A RIDE

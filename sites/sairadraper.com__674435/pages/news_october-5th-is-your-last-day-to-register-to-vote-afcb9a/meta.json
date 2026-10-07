@@ -1,7 +1,11 @@
 {
- "description": "Georgia\u2019s voter registration deadline is October 5. Rep. Saira Draper urges Georgians to verify their status and register before the cutoff.",
+ "description": "Georgia’s voter registration deadline is October 5. Rep. Saira Draper urges Georgians to verify their status and register before the cutoff.",
  "final_url": "https://www.sairadraper.com/news/october-5th-is-your-last-day-to-register-to-vote",
+ "fingerprint": "529c01c131101b7ddc23b56c5ecc94f5b1b16591",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Saira Draper, Inc",
- "title": "Deadline Alert: October 5 Is the Last Day to Register to Vote in Georgia \u2014 Saira Draper for Senate",
- "years_mentioned": []
+ "title": "Deadline Alert: October 5 Is the Last Day to Register to Vote in Georgia — Saira Draper for Senate",
+ "years_mentioned": [
+  "2026"
+ ]
 }

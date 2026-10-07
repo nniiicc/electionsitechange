@@ -1,6 +1,10 @@
-ABOUT DR.
-SHIREY
-PRINCIPLED.
+top of page HOME ABOUT DR.
+SHIREY MY PLAN CONTACT More Use tab to navigate through the menu items.
+DONATE DR.
+MARK SHIREY -PRINCIPLED- -CONSERVATIVE- -BUSINESSMAN- READY TO FIGHT FOR YOU IN MONTGOMERY!
+DONATE ABOUT DR.
+SHIREY ABOUT DR.
+SHIREY PRINCIPLED.
 CONSERVATIVE.
 BUSINESSMAN.
 Dr.
@@ -17,12 +21,17 @@ He has always been an active member in Republican politics.
 As the past president of the Alabama Optometric Association, he worked closely with leaders in the state and helped write legislation that provides greater access to eye care for all Alabamians.
 He is running to represent the people of District 100 to make sure their voice is heard.
 As a leader in his community, a successful businessman, former president of the Alabama Optometric Association, and a leader in the American Optometric Association, he understands what it takes to get things done and to serve the people.
-MY PLAN
-BE A LOUD CONSERVATIVE VOICE FOR MOBILE
-"Become the strongest conservative voice from Mobile county by taking our conservative principles and making them heard on the house floor."
-STAND UP FOR THE COAST
-"Ensure that people in Montgomery and the rest of the state give Mobile the attention it deserves.
-Oftentimes we feel left out down here because of the decisions they make and I vow to change that."
-STAND UP FOR SMALL BUSINESSES
-"As someone who owns a small business, I see everyday how big government can affect daily operations.
-It is time to put an end to government overreach and that is what I plan to do."
+DONATE MY PLAN MY PLAN BE A LOUD CONSERVATIVE VOICE FOR MOBILE "Become the strongest conservative voice from Mobile county by taking our conservative principles and making them heard on the house floor." STAND UP FOR THE COAST "Ensure that people in Montgomery and the rest of the state give Mobile the attention it deserves.
+Oftentimes we feel left out down here because of the decisions they make and I vow to change that." STAND UP FOR SMALL BUSINESSES "As someone who owns a small business, I see everyday how big government can affect daily operations.
+It is time to put an end to government overreach and that is what I plan to do." DONATE CONTACT WANT TO GET INVOLVED?
+Are you interested in volunteering, getting a yard sign, hosting an event, or just wanting more information about Dr.
+Mark Shirey?
+Fill out the form below and a member of our team will reach out to you!
+DONATE First name Last name Email Phone By providing your telephone number and checking this box, you consent to receive calls and text messages.
+Msg & data rates may apply.
+Msg frequency m ay vary.
+Messaging may include requests for donation.
+Reply “STOP” to opt-out & “HELP” for help.
+View Privacy Policy for more info.
+Submit Paid for by friends to elect Dr.
+Mark Shirey 312-T Schillinger RD S Mailbox #301 Mobile, AL 36608 bottom of page

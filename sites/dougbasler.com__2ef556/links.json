@@ -1,15 +1,58 @@
 [
-"http://prologuedigital.com/",
-"https://dougbasler.com/",
-"https://dougbasler.com/about",
-"https://dougbasler.com/media",
-"https://dougbasler.com/photos",
-"https://dougbasler.com/socialism-revealed",
-"https://dougbasler.com/wp-content/uploads/2026/07/Auburn.png",
-"https://dougbasler.com/wp-content/uploads/2026/07/FedWay.png",
-"https://dougbasler.com/wp-content/uploads/2026/07/Renton.png",
-"https://dougbasler.com/wp-content/uploads/2026/07/SeaTac.png",
-"https://dougbasler.com/wp-content/uploads/2026/07/Seattle.png",
-"https://dougbasler.com/wp-content/uploads/2026/07/Tukwilla_.png",
-"https://secure.winred.com/friends-of-doug-basler/run"
+{
+"text": "About",
+"href": "https://www.dougbasler.com/about/"
+},
+{
+"text": "Click Here To Donate",
+"href": "https://secure.winred.com/friends-of-doug-basler/run"
+},
+{
+"text": "Home",
+"href": "https://www.dougbasler.com/"
+},
+{
+"text": "Media",
+"href": "https://www.dougbasler.com/media/"
+},
+{
+"text": "Photos",
+"href": "https://www.dougbasler.com/photos/"
+},
+{
+"text": "RSVP",
+"href": "https://www.dougbasler.com/rsvp/"
+},
+{
+"text": "Socialism Revealed",
+"href": "https://www.dougbasler.com/socialism-revealed/"
+},
+{
+"text": "[image]",
+"href": "http://www.prologuedigital.com"
+},
+{
+"text": "[image]",
+"href": "https://www.dougbasler.com/wp-content/uploads/2026/07/Auburn.png"
+},
+{
+"text": "[image]",
+"href": "https://www.dougbasler.com/wp-content/uploads/2026/07/FedWay.png"
+},
+{
+"text": "[image]",
+"href": "https://www.dougbasler.com/wp-content/uploads/2026/07/Renton.png"
+},
+{
+"text": "[image]",
+"href": "https://www.dougbasler.com/wp-content/uploads/2026/07/SeaTac.png"
+},
+{
+"text": "[image]",
+"href": "https://www.dougbasler.com/wp-content/uploads/2026/07/Seattle.png"
+},
+{
+"text": "[image]",
+"href": "https://www.dougbasler.com/wp-content/uploads/2026/07/Tukwilla_.png"
+}
 ]

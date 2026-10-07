@@ -1,6 +1,4 @@
-MEET EDDIE MORALES
-A PROVEN LEADER FOR HD74
-Heriberto “Eddie” Morales Jr. is dedicated to fighting for the people of South and West Texas.
+top of page Menu Close Meet Eddie ISSUES ABOUT HD 74 NEWS ENDORSEMENTS DONATE MEET EDDIE MORALES A PROVEN LEADER FOR HD74 Heriberto “Eddie” Morales Jr. is dedicated to fighting for the people of South and West Texas.
 A lifelong resident of Eagle Pass, Eddie combines decades of experience as an attorney, small business owner, and public servant to deliver real results for his community.
 Eddie was raised in the tight-knit border town of Eagle Pass, where he learned the values of faith, family, and hard work.
 He earned a degree in Political Science from the University of Texas at Austin and a Juris Doctor from St.
@@ -15,4 +13,6 @@ Eddie’s dedication extends beyond his professional work.
 He has served on various civic and legal boards and volunteered pro bono legal counsel to the Eagle Pass Library Foundation.
 Above all, Eddie is proud of his family: his wife Hellen, daughter Kassandra, a master's student in clinical counseling, daughter Alexandra, a special education teacher, and his son Eddie, a law student at St.
 Mary's.
-Eddie remains focused on delivering real results for District 74 by improving roads, expanding healthcare, supporting public schools, and protecting Texas’ natural resources
+Eddie remains focused on delivering real results for District 74 by improving roads, expanding healthcare, supporting public schools, and protecting Texas’ natural resources DONATE Meet Eddie ISSUES ABOUT HD 74 NEWS ENDORSEMENTS PRIVACY POLICY Pol.
+Adv.
+Paid for by the Eddie Morales Campaign TERMS & CONDITIONS bottom of page

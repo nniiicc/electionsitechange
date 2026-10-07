@@ -1,281 +1,77 @@
-For Immediate Release — October 5, 2026
-Former Governor George Pataki Endorses Jackie Auringer for Congress
-Pataki: “New York needs a new generation of leaders”
-Read Full Statement
-Official statements and press releases from the Jackie Auringer for Congress campaign.
-Press List
-Get press releases in your inbox as soon as they are issued.
-Browse by topic
-Filter campaign statements by issue, race, or newsmaker.
-EndorsementAffordabilityOpportunity
-For Immediate Release — September 30, 2026
-Pat RyanEducationAccountability
-Ryan abandoned NY schools; does he pay his fair share anywhere?
-Read Full Statement
-For Immediate Release — September 29, 2026
-Pat RyanVeteransAccountability
-Ulster County parent asks whether Ryan’s Gardiner property continues to meet New York’s primary-residence requirement
-Read Full Statement
-For Immediate Release — September 28, 2026
-Pat RyanEthicsAccountability
-What did Ryan do with $60k in taxpayer money?
+Skip to main content Home About Jackie Events Gallery Volunteer Press News Track AIPAT DONATE CONTACT Press Official statements and press releases from the Jackie Auringer for Congress campaign.
+Press List Get press releases in your inbox as soon as they are issued.
+Subscribe Browse by topic Find the statement you need Filter campaign statements by issue, race, or newsmaker.
+All releases 73 Pat Ryan 53 Affordability 20 Accountability 45 Economy / Cost of Living 15 Ethics 32 Public Safety 9 Taxes 15 Transparency 29 More topics Finance 16 Endorsement 10 Stocks 10 Opportunity 9 AI 8 Energy 6 DSA 5 Education 4 Immigration 3 Small Business 3 Debates 2 Veterans 2 Healthcare 1 Mental Health 1 property-taxes 1 For Immediate Release — October 6, 2026 Pat Ryan Accountability Transparency Where Does Pat Ryan Live?
+Maybe AOC Can Ask Him Today Not One Media Outlet in NY-18 Has Asked Read Full Statement For Immediate Release — October 5, 2026 Endorsement Affordability Opportunity Former Governor George Pataki Endorses Jackie Auringer for Congress Pataki: “New York needs a new generation of leaders” Read Full Statement For Immediate Release — September 30, 2026 Pat Ryan Education Accountability Auringer Files for D.C.
+Public Schools to Conduct Residency Investigation of Ryan Ryan abandoned NY schools; does he pay his fair share anywhere?
+Read Full Statement For Immediate Release — September 29, 2026 Pat Ryan Veterans Accountability Auringer Campaign Releases Letter from Local Parent Asking Gardiner Assessor to Review Pat Ryan Veterans Tax Exemption Ulster County parent asks whether Ryan’s Gardiner property continues to meet New York’s primary-residence requirement Read Full Statement For Immediate Release — September 28, 2026 Pat Ryan Ethics Accountability Auringer Calls on Ryan to Release Travel and Lodging Records After More Than $60,000 in Taxpayer Reimbursements What did Ryan do with $60k in taxpayer money?
 Did he buy a row house on Capitol Hill?
 Did he move to Kalorama with the DC elite?
-Read Full Statement
-For Immediate Release — September 24, 2026
-First Congressman in America to Get Caught Stealing Taxpayer Dollars to Support His Family Residence in Washington
-Read Full Statement
-For Immediate Release — September 23, 2026
-Jackie Auringer responds to questions about Congressman Pat Ryan’s Washington lodging reimbursements.
+Read Full Statement For Immediate Release — September 24, 2026 Pat Ryan Ethics Accountability Millionaire Pat Ryan’s Dirty Secret: Joins the Million New Yorkers to Flee the State First Congressman in America to Get Caught Stealing Taxpayer Dollars to Support His Family Residence in Washington Read Full Statement For Immediate Release — September 23, 2026 Pat Ryan Ethics Accountability 🔥🔥Bombshell Report: Millionaire Pat Ryan took $60k in taxpayer funds for DC residence Jackie Auringer responds to questions about Congressman Pat Ryan’s Washington lodging reimbursements.
 Read the Times Union report below.
-Read Full Statement
-For Immediate Release — September 22, 2026
-Pat RyanPublic SafetyAccountability
-First it was announced.
+Read Full Statement For Immediate Release — September 22, 2026 Pat Ryan Public Safety Accountability Pat Ryan Failure Tour: Day 2 — Ryan Announced the Same $785,000 for Bodycams Three Times, DOJ Still Says Orange County Is “Invited to Apply” First it was announced.
 Then it was “secured.” Then it was “delivered.” Meanwhile, Orange County authorized $1.2 million of its own financing to move the body-camera project forward.
-Read Full Statement
-For Immediate Release — September 21, 2026
-Pat RyanEnergyAffordability
+Read Full Statement For Immediate Release — September 21, 2026 Pat Ryan Energy Affordability Day 1: Pat Ryan Failure Tour — Ryan Failed on His Million-Panel Promise, Just Like Albany Failed on Its Own.
+You're Left Paying the Bill.
 Ryan's "Green New Deal" promised a million solar panels and 30,000 heat pumps.
 Meanwhile, New Yorkers pay about 61% more than the national average for electricity.
-Read Full Statement
-For Immediate Release — September 15, 2026
-Pat RyanHealthcareFinance
-*More than 100,000 in GNYHA linked contributions while spouse rakes in pay as Washington lobbyist on GNYHA federal healthcare policy*
-Read Full Statement
-For Immediate Release — September 10, 2026
-Pat RyanAIStocks
-Following Jacob Coxon’s warning of possible human extinction, Auringer calls on Ryan to divest from every AI-related investment
-Read Full Statement
-For Immediate Release — September 3, 2026
-Public SafetyImmigrationTaxes
-Jackie Auringer stands with Orange County Sheriff Paul Arteta and criticizes Albany for undermining local law enforcement and shifting costs onto county taxpayers.
-Read Full Statement
-For Immediate Release — September 2, 2026
-Multi-Millionaire Congressman Reverses His 2025 Vote Condemning Socialism and Opposes Election-Security Protections, Again
-Read Full Statement
-For Immediate Release — September 1, 2026
-Pat RyanFinanceEthics
-Jackie Auringer responds to Pat Ryan’s criticism of $4,500 in campaign contributions with a look at his own record involving more than $1 million in contributions.
-Read Full Statement
-For Immediate Release — August 31, 2026
-Pat RyanStocksAI
-Ryan tells constituents he wants to hear directly from them - Auringer says Hudson Valley voters should take him up on the offer
-Read Full Statement
-For Immediate Release — August 26, 2026
-EndorsementPat RyanAffordability
-Tenney: “Jackie represents a new generation of strong, conservative leadership” as GOP support builds behind Auringer’s campaign against Pat Ryan.
-Read Full Statement
-For Immediate Release — August 25, 2026
-Ryan’s disclosures show his estimated wealth rising by roughly $700,000 while maintaining a residence in Washington
-Read Full Statement
-For Immediate Release — August 23, 2026
-Pat RyanAccountabilityDSA
-Four Years After Special Election, Ryan Still Hasn't Passed a Single Bill Into Law
-Read Full Statement
-For Immediate Release — August 19, 2026
-Pat RyanStocksFinance
+Read Full Statement For Immediate Release — September 15, 2026 Pat Ryan Healthcare Finance Pat Ryan: Over $100,000 in Contributions.
+A Family Paycheck.
+A Phony Healthcare Crusader *More than 100,000 in GNYHA linked contributions while spouse rakes in pay as Washington lobbyist on GNYHA federal healthcare policy* Read Full Statement For Immediate Release — September 10, 2026 Pat Ryan AI Stocks Auringer: PatGPT Can’t Be Trusted to Rein In AI While He Stands to Get Rich From It Following Jacob Coxon’s warning of possible human extinction, Auringer calls on Ryan to divest from every AI-related investment Read Full Statement For Immediate Release — September 3, 2026 Public Safety Immigration Taxes Auringer Stands with Orange County Sheriff Paul Arteta, Blasts Albany for Undermining Local Law Enforcement and Costing Taxpayers Jackie Auringer stands with Orange County Sheriff Paul Arteta and criticizes Albany for undermining local law enforcement and shifting costs onto county taxpayers.
+Read Full Statement For Immediate Release — September 2, 2026 Pat Ryan AI Stocks Auringer: “Pat Ryan Is Not a Socialist With His Money — He Is With Yours” Multi-Millionaire Congressman Reverses His 2025 Vote Condemning Socialism and Opposes Election-Security Protections, Again Read Full Statement For Immediate Release — September 1, 2026 Pat Ryan Finance Ethics Auringer: Pat Ryan Wants to Talk About Campaign Money?
+Let’s Talk About His Million-Dollar Record Jackie Auringer responds to Pat Ryan’s criticism of $4,500 in campaign contributions with a look at his own record involving more than $1 million in contributions.
+Read Full Statement For Immediate Release — August 31, 2026 Pat Ryan Stocks AI Auringer: Six Questions Pat Ryan Should Answer at Tonight’s Telephone Town Hall Ryan tells constituents he wants to hear directly from them - Auringer says Hudson Valley voters should take him up on the offer Read Full Statement For Immediate Release — August 26, 2026 Endorsement Pat Ryan Affordability Congresswoman Claudia Tenney Endorses Jackie Auringer for Congress Tenney: “Jackie represents a new generation of strong, conservative leadership” as GOP support builds behind Auringer’s campaign against Pat Ryan.
+Read Full Statement For Immediate Release — August 25, 2026 While Hudson Valley Families Struggle, Millionaire Pat Ryan has Gotten Richer in Congress Ryan’s disclosures show his estimated wealth rising by roughly $700,000 while maintaining a residence in Washington Read Full Statement For Immediate Release — August 23, 2026 Pat Ryan Accountability DSA Four Years of Nothing: Auringer Slams Millionaire Pat Ryan for Going from "Centrist" to "DSA Wannabe" on Election Anniversary Four Years After Special Election, Ryan Still Hasn't Passed a Single Bill Into Law Read Full Statement For Immediate Release — August 19, 2026 Pat Ryan Stocks Finance Even More Questions Arise About Ryan's Stock Trading: Did His Wife Buy Stocks While He Was in Congress?
 Ryan voted against bipartisan legislation restricting stock purchases by members of Congress and their spouses; Auringer calls for a complete ban.
-Read Full Statement
-For Immediate Release — August 17, 2026
+Read Full Statement For Immediate Release — August 17, 2026 Pat Ryan Stocks Finance Pat Ryan's Campaign Lies: His Campaign Said He Has Not Traded Any Stocks Since Becoming a Member of Congress.
 His Own Financial Disclosure Says Otherwise.
 Ryan's own Periodic Transaction Report identifies a July 31, 2024 sale of OnSolve LLC shares while serving in Congress — filed over a year late.
 Did Pat Ryan pay the STOCK Act fine for his undisclosed OnSolve stock sale?
-Read Full Statement
-For Immediate Release — August 16, 2026
-Ryan campaign claimed he "has not traded any stocks since becoming a member of Congress" but Ryan's own House disclosure reports an OnSolve stock sale which violated the STOCK Act.
-Read Full Statement
-For Immediate Release — August 14, 2026
+Read Full Statement For Immediate Release — August 16, 2026 Pat Ryan Stocks Finance Auringer Calls on Pat Ryan to Stop Lying About His Record on Stock Trading Ryan campaign claimed he "has not traded any stocks since becoming a member of Congress" but Ryan's own House disclosure reports an OnSolve stock sale which violated the STOCK Act.
+Read Full Statement For Immediate Release — August 14, 2026 Pat Ryan Stocks Finance Auringer: Ryan's Got "Zero Trust" in Elon Musk, So Why Does He Have a Quarter-Million Bucks Riding on Him?
 Pat Ryan's newly filed 2025 financial disclosure shows he personally owns between $100,001 and $250,000 of Tesla stock — Elon Musk's company.
-Read Full Statement
-For Immediate Release — August 12, 2026
-Ryan's disclosure due Thursday after maximum 90-day extension; questions remain about residency, family financial interests and AI investments.
-Read Full Statement
-For Immediate Release — August 11, 2026
-AffordabilityEconomy / Cost of LivingTaxes
-Nearly 400,000 Hudson Valley households — 42.8% of the region — are struggling to afford basic necessities.
+Read Full Statement For Immediate Release — August 12, 2026 Pat Ryan Stocks Finance Auringer: Eight Simple Questions Pat Ryan Should Answer When His Financial Disclosure Is Filed Ryan's disclosure due Thursday after maximum 90-day extension; questions remain about residency, family financial interests and AI investments.
+Read Full Statement For Immediate Release — August 11, 2026 Affordability Economy / Cost of Living Taxes Statement from Jackie Auringer on the Hudson Valley Affordability Crisis Nearly 400,000 Hudson Valley households — 42.8% of the region — are struggling to afford basic necessities.
 This crisis did not happen by accident.
-Read Full Statement
-For Immediate Release — August 10, 2026
-Pat RyanDSADebates
-Republican candidate asks organization to host public forum with DSA supporter Congressman Pat Ryan
-Read Full Statement
-For Immediate Release — August 6, 2026
-EducationFinanceOpportunity
-New York receives a "D" for financial-literacy instruction as young people enter adulthood unprepared to manage credit, debt and investments
-Read Full Statement
-For Immediate Release — August 3, 2026
-Let's have an honest conversation about what the Democratic Socialist movement is actually selling
-Read Full Statement
-For Immediate Release — July 29, 2026
-Pat Ryan broke his promise to unequivocally support Israel, he should give back the money
-Read Full Statement
-For Immediate Release — July 27, 2026
-Pat RyanAIPublic Safety
-Blasts Pat Ryan's financial ties to AI companies and failure to take the growing threat seriously
-Read Full Statement
-For Immediate Release — July 24, 2026
-Pat RyanEthicsTransparency
-Ryan says voter ID will disenfranchise millions of voters, so why is his company selling identity-verification services around the world?
-Read Full Statement
-For Immediate Release — July 22, 2026
-Bill would stop Ryan and his family from buying more stock in publicly traded AI companies while he votes on laws affecting the industry
-Read Full Statement
-For Immediate Release — July 21, 2026
-Pat RyanDSAEthics
+Read Full Statement For Immediate Release — August 10, 2026 Pat Ryan DSA Debates Auringer Officially Invites Mid-Hudson Valley DSA to Host Congressional Debate Republican candidate asks organization to host public forum with DSA supporter Congressman Pat Ryan Read Full Statement For Immediate Release — August 6, 2026 Education Finance Opportunity Auringer Proposes TAFEE Financial-Literacy Plan to Help Nearly 34,000 Hudson Valley Children Claim and Grow New Investment Accounts New York receives a "D" for financial-literacy instruction as young people enter adulthood unprepared to manage credit, debt and investments Read Full Statement For Immediate Release — August 3, 2026 Pat Ryan DSA Debates Auringer Agrees to Multiple Debates, Invites Mid-Hudson Valley DSA to Host Another Let's have an honest conversation about what the Democratic Socialist movement is actually selling Read Full Statement For Immediate Release — July 29, 2026 Pat Ryan Finance Ethics Auringer Calls on Pat Ryan to Return $700,000+ in AIPAC Contributions Pat Ryan broke his promise to unequivocally support Israel, he should give back the money Read Full Statement For Immediate Release — July 27, 2026 Pat Ryan AI Public Safety Auringer: Shut Down AI Systems That Teach Users to Create Weapons of Mass Destruction Blasts Pat Ryan's financial ties to AI companies and failure to take the growing threat seriously Read Full Statement For Immediate Release — July 24, 2026 Pat Ryan Ethics Transparency Auringer: Pat Ryan Profits From Identity Verification Abroad but Opposes Voter ID at Home Ryan says voter ID will disenfranchise millions of voters, so why is his company selling identity-verification services around the world?
+Read Full Statement For Immediate Release — July 22, 2026 Pat Ryan Stocks Finance Auringer Calls on Pat Ryan to Support Stop Insider Trading Act Bill would stop Ryan and his family from buying more stock in publicly traded AI companies while he votes on laws affecting the industry Read Full Statement For Immediate Release — July 21, 2026 Pat Ryan DSA Ethics Ryan Caves to DSA - Flip-Flops on Israel, What's Next?
 Ryan went from categorical support for Israel to running away from it the moment the DSA turned up the heat.
-Read Full Statement
-For Immediate Release — July 17, 2026
-Congressional candidate Jackie Auringer today called on Congressman Pat Ryan to immediately return the nearly $792,000 he pocketed through AIPAC - every dime of it - after Ryan publicly renounced the organization this week in a transparent bid to appease the radical DSA wing that now runs his party.
-Read Full Statement
-For Immediate Release — July 16, 2026
+Read Full Statement For Immediate Release — July 17, 2026 Pat Ryan Finance Ethics Give It Back, Pat: Auringer Calls on Ryan to Return Every Dollar He Took Through AIPAC Congressional candidate Jackie Auringer today called on Congressman Pat Ryan to immediately return the nearly $792,000 he pocketed through AIPAC - every dime of it - after Ryan publicly renounced the organization this week in a transparent bid to appease the radical DSA wing that now runs his party.
+Read Full Statement For Immediate Release — July 16, 2026 Pat Ryan DSA Ethics Auringer: Pat Ryan Changed His Vote.
+Now He Is Changing the Story to Court the Radicals in the DSA.
 Jackie Auringer today accused Congressman Pat Ryan of saying whatever is politically convenient, then rewriting his record when his own words become a problem all while positioning himself for his next campaign.
-Read Full Statement
-For Immediate Release — July 15, 2026
-TaxesAffordabilityEconomy / Cost of Living
-Last night, the Ulster County Legislature voted to advance authorization for what could become New York's first county income tax surcharge without the critical data needed to understand its impact on taxpayers, employers, investment, or the local economy.
-Read Full Statement
-For Immediate Release — July 13, 2026
-Pat RyanTaxesAffordability
-Pat Ryan's campaign has had nearly two months to answer one simple question: Does he support or oppose creating a new Ulster County income tax?
-Read Full Statement
-For Immediate Release — July 9, 2026
-ImmigrationPublic Safety
-For Immediate Release — July 7, 2026
-Endorsement
-Congressman Nick Langworthy cites her small-business background, commitment to lowering costs, and focus on restoring common sense in Washington.
-Read Full Statement
-For Immediate Release — July 6, 2026
-Auringer says Albany's ICE cooperation ban made Newburgh warehouse facility more likely
-Read Full Statement
-For Immediate Release — July 1, 2026
-Pat Ryan
-Honor our remarkable American experiment in self-government.
+Read Full Statement For Immediate Release — July 15, 2026 Taxes Affordability Economy / Cost of Living Statement from Jackie Auringer on Proposed Ulster County Tax Increase Last night, the Ulster County Legislature voted to advance authorization for what could become New York's first county income tax surcharge without the critical data needed to understand its impact on taxpayers, employers, investment, or the local economy.
+Read Full Statement For Immediate Release — July 13, 2026 Pat Ryan Taxes Affordability Statement from Jackie Auringer Calling on Pat Ryan to State Position on Ulster County Income Tax Pat Ryan's campaign has had nearly two months to answer one simple question: Does he support or oppose creating a new Ulster County income tax?
+Read Full Statement For Immediate Release — July 9, 2026 Immigration Public Safety Statement from Jackie Auringer on Possible Newburgh ICE Facility Read Full Statement For Immediate Release — July 7, 2026 Endorsement Congressman Nick Langworthy Endorses Jackie Auringer for Congress Congressman Nick Langworthy cites her small-business background, commitment to lowering costs, and focus on restoring common sense in Washington.
+Read Full Statement For Immediate Release — July 6, 2026 Immigration Public Safety Jackie Auringer Opposes Proposed ICE Facility in Newburgh, Blasts Albany Policy That Helped Create the Crisis Auringer says Albany's ICE cooperation ban made Newburgh warehouse facility more likely Read Full Statement For Immediate Release — July 1, 2026 Pat Ryan Auringer Invites Ryan to Celebrate America 250 Honor our remarkable American experiment in self-government.
 This Fourth of July, Jackie Auringer extends an invitation to Congressman Pat Ryan to join her at the Independence Day Fireworks in Kingston.
-Read Full Statement
-Pat RyanAccountabilityTransparency
-Auringer never rejected the concept of a Hudson Valley Pledge - she strengthened it.
+Read Full Statement For Immediate Release — July 1, 2026 Pat Ryan Accountability Transparency Auringer Responds With Stronger Accountability Pledge After Ryan Turns Pledge Offer Into Political Attack Auringer never rejected the concept of a Hudson Valley Pledge - she strengthened it.
 Jackie Auringer released a stronger Hudson Valley Accountability Pledge after Congressman Pat Ryan turned what he claimed was a good-faith proposal into a politics-as-usual attack.
-Read Full Statement
-For Immediate Release — June 30, 2026
-KIDS Act included protections requiring AI chatbots to tell minors they are not real people and provide suicide/crisis resources.
+Read Full Statement For Immediate Release — June 30, 2026 Pat Ryan AI Public Safety Pat Ryan Votes Against AI Safeguards for Children While Holding Stock in Private AI-Driven Technology Company KIDS Act included protections requiring AI chatbots to tell minors they are not real people and provide suicide/crisis resources.
 More than 100 Democrats voted yes — including Hakeem Jeffries, Josh Riley, Tom Suozzi, Paul Tonko, Joe Morelle, Jerry Nadler, Tim Kennedy, Laura Gillen, John Mannion, and Gregory Meeks.
 Pat Ryan voted no.
-Read Full Statement
-For Immediate Release — June 24, 2026
-Ulster County Minority Leader Kevin Roberts endorses Jackie Auringer, citing her energy, determination, and common-sense leadership to fight the affordability crisis facing Hudson Valley families.
-Read Full Statement
-Calls out Congressman's legislative crusade against Optum while spouse lobbies for competing hospital association
-Read Full Statement
-For Immediate Release — June 17, 2026
-Ryan demanded DOJ action when Optum disrupted Hudson Valley health care, now he should demand answers from Hochul and her state-selected home-care vendor
-Read Full Statement
-AffordabilityEconomy / Cost of LivingEnergy
-America cannot afford open-ended conflicts or blank checks.
+Read Full Statement For Immediate Release — June 24, 2026 Endorsement Statement from Ulster County Minority Leader Kevin Roberts Endorsing Jackie Auringer for Congress Ulster County Minority Leader Kevin Roberts endorses Jackie Auringer, citing her energy, determination, and common-sense leadership to fight the affordability crisis facing Hudson Valley families.
+Read Full Statement For Immediate Release — June 24, 2026 Pat Ryan Finance Ethics Auringer Challenges Pat Ryan on Massive Healthcare Conflict of Interest Calls out Congressman's legislative crusade against Optum while spouse lobbies for competing hospital association Read Full Statement For Immediate Release — June 17, 2026 Pat Ryan Ethics Transparency Auringer Joins Skoufis in Demanding Answers on Hochul Home Care Scandal Ryan demanded DOJ action when Optum disrupted Hudson Valley health care, now he should demand answers from Hochul and her state-selected home-care vendor Read Full Statement For Immediate Release — June 17, 2026 Affordability Economy / Cost of Living Energy Statement from Jackie Auringer on the Iran Ceasefire Framework America cannot afford open-ended conflicts or blank checks.
 What is within our control is returning our focus to lowering the cost of living for American families.
-Read Full Statement
-For Immediate Release — June 16, 2026
-Malliotakis: "Jackie has the kind of common-sense experience Washington needs."
-Read Full Statement
-Brabenec: "Jackie is one of us."
-Read Full Statement
-For Immediate Release — June 15, 2026
-We should all be relieved by reports of an agreement with Iran that could bring this conflict to an end.
+Read Full Statement For Immediate Release — June 16, 2026 Endorsement Congresswoman Nicole Malliotakis Endorses Jackie Auringer for Congress Malliotakis: "Jackie has the kind of common-sense experience Washington needs." Read Full Statement For Immediate Release — June 16, 2026 Endorsement Assemblyman Karl Brabenec Endorses Jackie Auringer for Congress Brabenec: "Jackie is one of us." Read Full Statement For Immediate Release — June 15, 2026 Affordability Economy / Cost of Living Energy Statement from Jackie Auringer on Iran Framework Agreement and the Need to Refocus on Affordability at Home We should all be relieved by reports of an agreement with Iran that could bring this conflict to an end.
 We honor the 13 service members who gave their lives.
-Read Full Statement
-For Immediate Release — June 12, 2026
-Pat RyanTaxesEthics
-Ryan voted no on stopping fraudulent payments after rewarding official tied to Ulster County's COVID relief failures with job on his congressional staff
-Read Full Statement
-For Immediate Release — June 11, 2026
-ActBlue under congressional scrutiny over allegations involving illegal foreign donations.
+Read Full Statement For Immediate Release — June 12, 2026 Pat Ryan Taxes Ethics Auringer: Ryan's Fraud Problem Followed Him from Ulster County to Congress Ryan voted no on stopping fraudulent payments after rewarding official tied to Ulster County's COVID relief failures with job on his congressional staff Read Full Statement For Immediate Release — June 11, 2026 Pat Ryan Finance Ethics Auringer Calls on Pat Ryan to Suspend Use of ActBlue and Audit Donations After CEO Pleads the Fifth ActBlue under congressional scrutiny over allegations involving illegal foreign donations.
 Auringer calls on Ryan to suspend ActBlue, audit all donations, and return any that cannot be verified as legal.
-Read Full Statement
-For Immediate Release — June 10, 2026
-EndorsementOpportunityAffordability
-Former Congresswoman Nan Hayworth, M.D., endorsed Jackie Auringer for Congress in NY-18, citing her deep Hudson Valley roots, business experience, and commitment to practical solutions.
-Read Full Statement
-For Immediate Release — June 9, 2026
-EndorsementAffordabilityTaxes
-New York State Conservative Party Chairman Jerry Kassar endorsed Jackie Auringer for Congress in NY-18, praising her conservative values, grassroots energy, and focus on affordability and fighting tax increases.
-Read Full Statement
-For Immediate Release — June 8, 2026
-Lawler calls Auringer a common-sense leader the Hudson Valley needs in Washington
-Read Full Statement
-For Immediate Release — June 4, 2026
-Pat RyanAffordabilityEconomy / Cost of Living
-Auringer says "Clickbait Ryan" is all talk and no results
-Read Full Statement
-For Immediate Release — June 3, 2026
-Pat RyanVeteransEthics
-Ryan voted no on bipartisan bill backed by major veterans organizations to increase support for severely disabled veterans, surviving spouses, and Gold Star families
-Read Full Statement
-For Immediate Release — June 2, 2026
-As Pride Month Begins, NY-18 Candidate Recognized as a Champion of Individual Liberty and Dignity
-Read Full Statement
-For Immediate Release — June 1, 2026
-While Pat Ryan fiddles Albany singles out Orange County with costly anti-growth mandates
-Read Full Statement
-For Immediate Release — May 28, 2026
-Opportunity
-Mathis joins Auringer campaign after serving as Deputy Campaign Manager for Congressman Mike Lawler
-Read Full Statement
-For Immediate Release — May 27, 2026
-Ryan Posts Profanity-Laced Videos While Refusing to Say Where He Stands on Proposed Ulster County Income Tax Surcharge
-Read Full Statement
-For Immediate Release — May 26, 2026
-Congressional candidate opposes new surcharge, calls on county to answer for Ryan's fiscal mismanagement
-Read Full Statement
-For Immediate Release — May 23, 2026
-Calls on Ryan to Oppose Ulster's New Tax Grab
-Read Full Statement
-For Immediate Release — May 22, 2026
-Ryan dismissed tax relief for New Yorkers as a "S#@* sandwich"
-Read Full Statement
-For Immediate Release — May 18, 2026
-AffordabilityEconomy / Cost of LivingOpportunity
-In politics, people often try to introduce you before you have the chance to introduce yourself.
+Read Full Statement For Immediate Release — June 10, 2026 Endorsement Opportunity Affordability Former Congresswoman Nan Hayworth Endorses Jackie Auringer for Congress Former Congresswoman Nan Hayworth, M.D., endorsed Jackie Auringer for Congress in NY-18, citing her deep Hudson Valley roots, business experience, and commitment to practical solutions.
+Read Full Statement For Immediate Release — June 9, 2026 Endorsement Affordability Taxes Conservative Party Chairman Jerry Kassar Endorses Jackie Auringer for Congress New York State Conservative Party Chairman Jerry Kassar endorsed Jackie Auringer for Congress in NY-18, praising her conservative values, grassroots energy, and focus on affordability and fighting tax increases.
+Read Full Statement For Immediate Release — June 8, 2026 Endorsement Affordability Taxes Congressman Mike Lawler Endorses Jackie Auringer for Congress Lawler calls Auringer a common-sense leader the Hudson Valley needs in Washington Read Full Statement For Immediate Release — June 4, 2026 Pat Ryan Affordability Economy / Cost of Living Auringer: Knicks Win Game One, But New Yorkers Are Still Getting Priced Out Auringer says "Clickbait Ryan" is all talk and no results Read Full Statement For Immediate Release — June 3, 2026 Pat Ryan Veterans Ethics Jackie Auringer Blasts Pat Ryan for Voting Against Veterans Benefits Expansion Ryan voted no on bipartisan bill backed by major veterans organizations to increase support for severely disabled veterans, surviving spouses, and Gold Star families Read Full Statement For Immediate Release — June 2, 2026 Endorsement Auringer Earns Endorsement from Log Cabin Republicans PAC As Pride Month Begins, NY-18 Candidate Recognized as a Champion of Individual Liberty and Dignity Read Full Statement For Immediate Release — June 1, 2026 Pat Ryan Taxes Affordability Auringer: First Ulster, Now Orange - The Hudson Valley Can't Afford the Ryan-Hochul Agenda While Pat Ryan fiddles Albany singles out Orange County with costly anti-growth mandates Read Full Statement For Immediate Release — May 28, 2026 Opportunity Auringer Campaign Announces Alexander Mathis as Campaign Manager Mathis joins Auringer campaign after serving as Deputy Campaign Manager for Congressman Mike Lawler Read Full Statement For Immediate Release — May 27, 2026 Pat Ryan Taxes Affordability Auringer: Pat Ryan Performs for Washington, Stays Silent on Ulster Taxpayers Ryan Posts Profanity-Laced Videos While Refusing to Say Where He Stands on Proposed Ulster County Income Tax Surcharge Read Full Statement For Immediate Release — May 26, 2026 Pat Ryan Taxes Ethics Auringer to Metzger: Account for Ryan's Tax Collection Mess Before Seeking New Authority Congressional candidate opposes new surcharge, calls on county to answer for Ryan's fiscal mismanagement Read Full Statement For Immediate Release — May 23, 2026 Pat Ryan Taxes Affordability Jackie Auringer Blasts Ulster County Income Tax Surcharge Proposal Calls on Ryan to Oppose Ulster's New Tax Grab Read Full Statement For Immediate Release — May 22, 2026 Pat Ryan Taxes Affordability Auringer Praises Trump and Lawler for Highlighting SALT Relief for New York Families Ryan dismissed tax relief for New Yorkers as a "S#@* sandwich" Read Full Statement For Immediate Release — May 18, 2026 Affordability Economy / Cost of Living Opportunity ICYMI: Why I'm Running For Congress in NY-18 In politics, people often try to introduce you before you have the chance to introduce yourself.
 So let me speak plainly.
-Read Full Statement
-For Immediate Release — May 16, 2026
-Ryan should tell the truth about where he lives before lecturing families who actually live here
-Read Full Statement
-For Immediate Release — May 14, 2026
-Pat RyanPublic SafetyEthics
-Ryan issued National Police Week statement praising law enforcement, then voted no on resolution supporting them
-Read Full Statement
-For Immediate Release — May 12, 2026
-Pat RyanTaxesEnergy
-Calls on Ryan to support immediate relief at the pump for Hudson Valley families
-Read Full Statement
-For Immediate Release — May 11, 2026
-Pat RyanEducationOpportunity
-Ryan Voted Against Program That Could Unlock Up to $5 Billion for New York Families
-Read Full Statement
-For Immediate Release — May 1, 2026
-AccountabilityTransparency
-"Today's decision is a win for voters.
-It ensures this election will be decided the right way — by the people, not by backroom tactics or political games."
-Read Full Statement
-For Immediate Release — April 30, 2026
-Pat RyanEnergyEconomy / Cost of Living
-"We must focus on ending this conflict, not partisan attacks."
-Read Full Statement
-For Immediate Release — April 25, 2026
-Ulster County BOE Issues Blanket Denial of Information Request
-Read Full Statement
-For Immediate Release — April 24, 2026
-Timeline, Screenshots Undercut Bruck's Claim—Put Pat Ryan and Ulster Election Officials Under Scrutiny
-Read Full Statement
-For Immediate Release — April 20, 2026
-Jackie Auringer, Republican candidate for New York's 18th Congressional District, today condemned Democratic efforts to remove her from the November ballot before voters have a chance to decide.
-Read Full Statement
-Journalists covering NY-18 are welcome to reach out.
-We respond to all press inquiries promptly.
-info@winwithjackie.com
-Candidate: Jackie Mary Auringer
-Office: U.S.
-House of Representatives, NY-18
-Party: Republican
-Election: June 23, 2026 (Primary) and November 3, 2026 (General)
-Committee: Jackie Auringer for Congress
+Read Full Statement For Immediate Release — May 16, 2026 Pat Ryan Affordability Economy / Cost of Living Pat Ryan Lectures Hudson Valley Parents on Kids' Sports...
+From Washington Ryan should tell the truth about where he lives before lecturing families who actually live here Read Full Statement For Immediate Release — May 14, 2026 Pat Ryan Public Safety Ethics Auringer Slams "DC Pat" for Turning His Back on Police Ryan issued National Police Week statement praising law enforcement, then voted no on resolution supporting them Read Full Statement For Immediate Release — May 12, 2026 Pat Ryan Taxes Energy Auringer Backs Plan to Suspend Federal Gas Tax Calls on Ryan to support immediate relief at the pump for Hudson Valley families Read Full Statement For Immediate Release — May 11, 2026 Pat Ryan Education Opportunity Auringer Praises State Decision to Expand Educational Choice Ryan Voted Against Program That Could Unlock Up to $5 Billion for New York Families Read Full Statement For Immediate Release — May 1, 2026 Accountability Transparency Auringer Campaign Statement on Court Decision "Today's decision is a win for voters.
+It ensures this election will be decided the right way — by the people, not by backroom tactics or political games." Read Full Statement For Immediate Release — April 30, 2026 Pat Ryan Energy Economy / Cost of Living Auringer Calls on Ryan to Put America First, De-Escalate Rhetoric as Efforts Continue to End Iran Conflict "We must focus on ending this conflict, not partisan attacks." Read Full Statement For Immediate Release — April 25, 2026 Pat Ryan Ethics Transparency "No Records, No Answers": Auringer Demands to Know Who Is Trying to Clear the Field for the PAT-riarchy Ulster County BOE Issues Blanket Denial of Information Request Read Full Statement For Immediate Release — April 24, 2026 Pat Ryan Ethics Transparency Auringer Raises Questions Ahead of April 27 Hearing: "Why Were Political Actors and Election Officials Watching From the Start?" Timeline, Screenshots Undercut Bruck's Claim—Put Pat Ryan and Ulster Election Officials Under Scrutiny Read Full Statement For Immediate Release — April 20, 2026 Pat Ryan Ethics Transparency Auringer Calls Out Ryan for Ballot Removal Tactics Jackie Auringer, Republican candidate for New York's 18th Congressional District, today condemned Democratic efforts to remove her from the November ballot before voters have a chance to decide.
+Read Full Statement Media Contact Journalists covering NY-18 are welcome to reach out.
+We respond to all press inquiries promptly. info@winwithjackie.com About the Campaign Candidate: Jackie Mary Auringer Office: U.S.
+House of Representatives, NY-18 Party: Republican Election: June 23, 2026 (Primary) and November 3, 2026 (General) Committee: Jackie Auringer for Congress Campaign About Jackie Gallery Press News Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
+Paid for by Jackie Auringer for Congress © 2026 Jackie Auringer for Congress.
+All rights reserved.
+I consent to receive SMS text message updates from Jackie Auringer for Congress By providing your phone number, you are consenting to receive text message updates, including automated text messages (updates, marketing, polling/surveys, and possible donation solicitations) to that number from Jackie Auringer for Congress.
+Message & Data rates may apply, and message frequency may vary over time.
+Reply “STOP” to opt out of these text message updates.
+Reply HELP for help.
+Privacy Policy .
+Sign Up

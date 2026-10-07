@@ -1,12 +1,6 @@
-Kim with family on the family farm in South Dakota.
-A neighbor, a mom, and a conservative voice for District 10
-Kim is a mother, small business owner, and community leader with a strong commitment to service and practical problem-solving.
+Home Meet Kim Platform Get Involved Contribute Volunteer Kim with family on the family farm in South Dakota.
+Meet Kim A neighbor, a mom, and a conservative voice for District 10 Kim is a mother, small business owner, and community leader with a strong commitment to service and practical problem-solving.
 Throughout her involvement in local and state initiatives, Kim has focused on supporting families, protecting individual freedoms, and encouraging responsible leadership.
 She believes government works best when it listens to everyday citizens, supports small businesses, and prioritizes solutions over partisanship.
 “District 10 deserves a representative who puts families first, values faith and personal responsibility, and understands the sacrifices it takes to build a strong future,” Petterson said.
-“I’m committed to working with anyone — regardless of party — to ensure South Dakota remains a place of opportunity, safety, and growth for the next generation.”
-Community roots
-- Actively involved with her church, local Women’s Groups, and youth sports programs
-- Supporter of locally owned and independent businesses
-- Contributor and supporter of local charities
-See where Kim stands on the issues
+“I’m committed to working with anyone — regardless of party — to ensure South Dakota remains a place of opportunity, safety, and growth for the next generation.” Community roots Actively involved with her church, local Women’s Groups, and youth sports programs Supporter of locally owned and independent businesses Contributor and supporter of local charities See where Kim stands on the issues Kim Petterson for South Dakota District 10 Paid for by Kim Petterson For South Dakota Privacy Policy Terms Contact Use of military, uniformed services, or other imagery does not imply endorsement.

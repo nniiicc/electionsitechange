@@ -1,4 +1,5 @@
-When I ran for my first term in 2020, Rose was four and JJ was two.
+Home MEET JOSH Join the Team!
+Endorsements DONATE Vote No on Amendment 3 MEET JOSH When I ran for my first term in 2020, Rose was four and JJ was two.
 We’ve added two more kids since then - Rebekah and Michael.
 But my reason for running hasn’t changed - How can I preserve the freedoms and opportunities I had for my children?
 How can I make Missouri the best place possible for them to grow up in, raise a family in, or find a job in?
@@ -11,8 +12,7 @@ After graduating from Park University Magna Cum Laude, I worked for Congressman 
 I was elected to one term on the Smithville Board of Alderman in 2018 and am also a the Past President of the Smithville Rotary Club, where I have been a member since 2011.
 Our family are members of One Church in Liberty.
 Together, we live in the Diamond Crest subdivision in Smithville.
-Copyright © 2024 Hurlbert for Missouri.
+Copyright © # Hurlbert for Missouri.
 All Rights Reserved.
-PAID FOR BY HURLBERT FOR MISSOURI,
-ASHLEY HURLBERT, TREASURER.
+PAID FOR BY HURLBERT FOR MISSOURI, ASHLEY HURLBERT, TREASURER.
 Powered by GoDaddy Website Builder

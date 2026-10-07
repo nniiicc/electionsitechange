@@ -1,4 +1,4 @@
-Dan Blue responds to Republican congressional map redraw
-Sen.
-Dan Blue released statement in responses to Republican lawmakers’ attempt to redraw NC’s congressional maps.
-Senate Minority Leader Dan Blue issued a forceful statement condemning the latest efforts by NC Republicans to compromise the integrity and independence of the State Board of Elections
+DONATE TODAY Support Senator Blue’s Campaign with a donation of any amount × Dialog window Connect with Senator Blue for the latest updates!
+Notice: JavaScript is required for this content.
+Home Meet Dan Blue Issues News and Events Volunteer Donate Select Page Statements Dan Blue responds to Republican congressional map redraw Oct 28, 2025 | News , Statements Sen.
+Dan Blue released statement in responses to Republican lawmakers’ attempt to redraw NC’s congressional maps. read more Senate Minority Leader Dan Blue Denounces Republican Interference in NC State Elections Board Jul 18, 2024 | Statements Senate Minority Leader Dan Blue issued a forceful statement condemning the latest efforts by NC Republicans to compromise the integrity and independence of the State Board of Elections read more Paid for by Citizens for Dan Blue Post Office Box 287, Raleigh NC 27602 Follow Follow Follow

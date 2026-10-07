@@ -1,4 +1,5 @@
-Texans for Bob Hall is dedicated to providing privacy on the Internet.
+Home About News Priorities and Issues Videos Endorsements Get Involved Contact Us Endorse Senator Bob Hall!
+CHR $ Privacy Statement Texans for Bob Hall is dedicated to providing privacy on the Internet.
 In addition to developing our privacy policy, we have provided you the opportunity to opt out of future 3rd party advertising cookies.
 Texans for Bob Hall allows third parties to place cookies on our site for purposes of targeted digital advertising.
 This Online Privacy Statement does not cover the collection methods or use of the information collected by these vendors.
@@ -10,3 +11,7 @@ That this data may be used by third parties to target advertising on other sites
 Please note that when you opt-out, an opt-out cookie will be placed on your computer.
 The opt-out cookie informs ad networks to stop collecting data regarding your online behavior.
 This means, though, that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
+Get the Capitol Hall Report Email Address Zip Code Keep me informed Thanks for subscribing! * Valid Email Address required.
+Home CHR About Priorities and Issues Endorsements News Trusted Conservative Get Involved Get Involved Endorse Senator Hall!
+Contact Us Privacy $ Email Address Zip Code Sign up Thanks for subscribing! * Valid Email Address required Political Advertising Paid for by Texans for Bob Hall, P.O.
+Box 513, Canton, Texas 75103, Mike Slaton, Treasurer Site by Vici Media Group

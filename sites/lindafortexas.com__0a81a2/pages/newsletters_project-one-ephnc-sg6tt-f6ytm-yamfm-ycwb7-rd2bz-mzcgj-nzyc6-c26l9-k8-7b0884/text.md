@@ -1,6 +1,2 @@
-🔔 HD 107 Weekly Newsletter 🔔
-“ We had a busy week of meetings with vital advocacy groups, constituents, and leaders who are dedicated to strengthening HD 107.”
--Linda G.-
-- 🔔 Boletín Semanal de HD 107 🔔
-Tuvimos una semena ocupada con reuniones de grupos de defensa, electores y líderes vitales dedicados a fortalecer el HD 107.
-(haga clic en el enlace)
+0 Skip to Content Meet Linda Priorities Education Funding Healthcare Access Reproductive Rights Infrastructure Development News & Info Newsletters Media Release Connect Open Menu Close Menu Meet Linda Priorities Education Funding Healthcare Access Reproductive Rights Infrastructure Development News & Info Newsletters Media Release Connect Open Menu Close Menu Meet Linda Folder: Priorities Back Education Funding Healthcare Access Reproductive Rights Infrastructure Development Folder: News & Info Back Newsletters Media Release Connect 🔔 HD 107 Weekly Newsletter 🔔 View fullsize “ We had a busy week of meetings with vital advocacy groups, constituents, and leaders who are dedicated to strengthening HD 107. ” -Linda G.- SEE MORE 🔔 Boletín Semanal de HD 107 🔔 Tuvimos una semena ocupada con reuniones de grupos de defensa, electores y líderes vitales dedicados a fortalecer el HD 107. (haga clic en el enlace) Previous Previous March 7 Next Next February 21 LINDA GARCIA | HOUSE REPRESENTATIVE FOR DISTRICT 107 539 W.
+Commerce St. | Suite 4808 | Dallas, TX 75208 All rights reserved ©# House Representative Garcia | Political ad paid by Linda for Texas

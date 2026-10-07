@@ -1,6 +1,4 @@
-ABOUT NIK SANDMAN
-Nebraska Farmer
-I was born in Stratton and grew up on a farm near Wauneta, Nebraska.
+Skip to content Nik Sandman Libertarian For Congress Menu Menu Home About Nik Priorities And Policies Volunteer Contact Donate ABOUT NIK SANDMAN Nebraska Farmer I was born in Stratton and grew up on a farm near Wauneta, Nebraska.
 I moved to Lincoln thirteen years ago.
 I am a retired wheat, milo, corn and melon farmer after 26 years.
 I worked as a rural mail carrier for 15 years.
@@ -11,5 +9,6 @@ The subsidies have fallen aside and now no longer support the income of farmers,
 I propose that we change to a concept of parity for farm prices.
 The USDA calculates the parity (fair) price for farm commodities and updates them every month.
 The current market price of corn, for example, has fallen so far behind parity that it stands at only 24% of the parity price as of October, 2025.
-I’m a Libertarian because I believe in freedom—economic freedom for farmers, personal freedom for families, and constitutional protections for everyone.
+I’m a Libertarian because I believe in freedom —economic freedom for farmers, personal freedom for families, and constitutional protections for everyone.
 Government should protect your rights, not control your life.
+PAID FOR BY NIK SANDMAN FOR CONGRESS © # Nik Sandman • Built By Election Day Strategies

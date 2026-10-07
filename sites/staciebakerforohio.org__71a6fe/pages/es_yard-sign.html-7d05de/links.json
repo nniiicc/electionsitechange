@@ -1,9 +1,38 @@
 [
-"https://staciebakerforohio.org/es",
-"https://staciebakerforohio.org/es/privacy.html",
-"https://staciebakerforohio.org/es/terms.html",
-"https://staciebakerforohio.org/es/yard-sign.html",
-"https://staciebakerforohio.org/ne/yard-sign.html",
-"https://staciebakerforohio.org/so/yard-sign.html",
-"https://staciebakerforohio.org/yard-sign.html"
+{
+"text": "EN",
+"href": "https://www.staciebakerforohio.org/yard-sign.html"
+},
+{
+"text": "ES",
+"href": "https://www.staciebakerforohio.org/es/yard-sign.html"
+},
+{
+"text": "NE",
+"href": "https://www.staciebakerforohio.org/ne/yard-sign.html"
+},
+{
+"text": "Política de Privacidad",
+"href": "https://www.staciebakerforohio.org/es/privacy.html"
+},
+{
+"text": "SO",
+"href": "https://www.staciebakerforohio.org/so/yard-sign.html"
+},
+{
+"text": "Términos de Servicio",
+"href": "https://www.staciebakerforohio.org/es/terms.html"
+},
+{
+"text": "staciebakerforohio.org",
+"href": "https://www.staciebakerforohio.org/es/"
+},
+{
+"text": "← Volver al Inicio",
+"href": "https://www.staciebakerforohio.org/es/"
+},
+{
+"text": "← Volver al Sitio de Campaña",
+"href": "https://www.staciebakerforohio.org/es/"
+}
 ]

@@ -1,2 +1,2 @@
-Get in Touch Please fill out the following form and we will get back to you as soon as possible.
-You can email, call or text me anytime: john@drinkwaterforrep.com 978-766-0705 VOTE ON OR BEFORE TUESDAY, SEPTEMBER 1st
+0 Skip to Content About Priorities Contact Donate Open Menu Close Menu About Priorities Contact Donate Open Menu Close Menu About Priorities Contact Donate Get in Touch Please fill out the following form and we will get back to you as soon as possible.
+You can email, call or text me anytime: john@drinkwaterforrep.com 978-766-0705 VOTE ON OR BEFORE TUESDAY, SEPTEMBER 1st HOME ABOUT JOHN ON THE ISSUES GET IN TOUCH DONATE john@drinkwaterforrep.com Paid for by the Committee to Elect John Drinkwater.

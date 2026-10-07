@@ -1,11 +1,42 @@
 [
-"https://kimjamesforutah.org/",
-"https://kimjamesforutah.org/_blank",
-"https://kimjamesforutah.org/about-kim-james.html",
-"https://kimjamesforutah.org/contact-us.html",
-"https://kimjamesforutah.org/donate.html",
-"https://kimjamesforutah.org/hd8-map.html",
-"https://kimjamesforutah.org/kims-opposition.html",
-"https://kimjamesforutah.org/kims-perspectives.html",
-"https://kimjamesforutah.org/volunteer--vote.html"
+{
+"text": "About Kim James",
+"href": "https://www.kimjamesforutah.org/about-kim-james.html"
+},
+{
+"text": "Contact Us",
+"href": "https://www.kimjamesforutah.org/contact-us.html"
+},
+{
+"text": "DONATE",
+"href": "https://www.kimjamesforutah.org/donate.html"
+},
+{
+"text": "HD8 MAP",
+"href": "https://www.kimjamesforutah.org/hd8-map.html"
+},
+{
+"text": "HOME",
+"href": "https://www.kimjamesforutah.org/"
+},
+{
+"text": "KIM JAMES FOR UTAH HOUSE DISTRICT 8",
+"href": "https://www.kimjamesforutah.org/"
+},
+{
+"text": "Kim's Opposition",
+"href": "https://www.kimjamesforutah.org/kims-opposition.html"
+},
+{
+"text": "Kim's Perspectives",
+"href": "https://www.kimjamesforutah.org/kims-perspectives.html"
+},
+{
+"text": "Volunteer & Vote",
+"href": "https://www.kimjamesforutah.org/volunteer--vote.html"
+},
+{
+"text": "Weebly",
+"href": "https://www.weebly.com/"
+}
 ]

@@ -1,20 +1,16 @@
-(posted by Elvis Clark on March 30, 2021)
-(posted by Elvis Clark on November 14, 2020)
-(posted by Elvis Clark on October 19. 2020)
-This funny look at our hair during this Corona Virus shutdown period, relayed to me by my sister in law in Yarmouth, Maine (5/12/20)
-Posted by Elvis Clark on Mother's Day 2020
-I know of moms and dads who really fear vaccine inoculations of their children - especially those mandated by government.
+Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes More Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes Dilbert by Scott Adams - posted by E Clark 3/30/21 (posted by Elvis Clark on March 30, 2021) (posted by Elvis Clark on November 14, 2020) (Sister-in-law sent me the above photo which kind of sums up our various lumps this year so far! (posted by Elvis Clark on October 19.
+2020) New Dilbert Cartoon down near, bottom this page...9/15/20 Featured Cartoon posted July 5, 2020 - Bizzaro lampoons our nightly TV news.
+Progression of our hairs since Virus shutdown This funny look at our hair during this Corona Virus shutdown period, relayed to me by my sister in law in Yarmouth, Maine (5/12/20) This Bizzaro Cartoon is funny because many of us Everyday folk are uniquely funny in a way.
+Posted by Elvis Clark on Mother's Day 2020 Sorry anti-vaxers I can't resist the cartoon photo above I know of moms and dads who really fear vaccine inoculations of their children - especially those mandated by government.
 I fear government physical force imposed on innocent people too.
 But sometimes, there is a reason for taking the government's order.
 I also hear people speak disparaging of folks resisting the vaccinations of their children - calling them anti-vaxers in town hall meetings.
 There is no call for disparaging innocent others you don't agree with; but I still find humor like above.
-Forgive me please.
-(posted by Elvis Clark on May 8, 2020)
-Watch this You-Tube Simpsons Cartoon, exploring the concept of proving a negative.
-Our mainstream TV News media is sort in the camp of playing Homer here, in my cynical opinion.
-https://www.youtube.com/watch?v=EiUcY4dECqA
-(Posted by Elvis Clark on April 26, 2020)
-Look closely at the lips of the lady on the left to get this cartoon joke.
-1/5
-Yogi said to his friend thinking about not going to a funeral of a deceased friend:
-You should go to other people's funerals if you want them to go to your funeral.
+Forgive me please. (posted by Elvis Clark on May 8, 2020) A One Size Fits all shutdown hearkens to homer's bear patrol Imagine you are in a town where folks are under age 60(very low risk), &/or where few or no Covid-19 Watch this You-Tube Simpsons Cartoon, exploring the concept of proving a negative.
+Our mainstream TV News media is sort in the camp of playing Homer here, in my cynical opinion. https://www.youtube.com/watch?v=EiUcY4dECqA (Posted by Elvis Clark on April 26, 2020) creative Yard art, coming through 4/16/20!
+A bird's vision for Milwaukie's clean energy programs: making lemonade from lemons (4/14/20) Cartoon from my sister-n-law in yarmouth, maine (2/1/20) Funny signage, January 12, 2020 A Groaner, funny dilbert cartoon in my archives (Elvis, 8/26/19) Non-Dilbert Cartoons (4 as of April 19, 2020) Look closely at the lips of the lady on the left to get this cartoon joke.
+New Dilbert Cartoon 9/15/20 from my archives: Scott Adams, Dilbert Cartoons 1/5 Yogi-isms corner Yogi-ism Yogi said to his friend thinking about not going to a funeral of a deceased friend: You should go to other people's funerals if you want them to go to your funeral.
+Powered by

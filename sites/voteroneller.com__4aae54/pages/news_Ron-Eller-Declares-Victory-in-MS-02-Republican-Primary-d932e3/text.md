@@ -1,27 +1,15 @@
-Ron Eller for Congress
-News Release
-For Immediate Release
-March 12, 2026
-Media contact: Info@VoteRonEller.com
-Ron Eller Declares Victory in MS-02 Republican Primary
-Unofficial Results are “Mathematically Improbable” for Opponent to Win
-Raymond, MS – Today, the Ron Eller Campaign officially announced victory in the Republican Primary for Mississippi’s Second Congressional District.
+Meet Ron Issues News Volunteer Swag Contribute News / Ron Eller Declares Victory in MS-02 Republican Primary 12 Mar Thursday, 5:35 PM · 2026 Ron Eller Declares Victory in MS-02 Republican Primary Ron Eller for Congress News Release For Immediate Release March 12, 2026 Media contact: Info@VoteRonEller.com Ron Eller Declares Victory in MS-02 Republican Primary Unofficial Results are “Mathematically Improbable” for Opponent to Win Raymond, MS – Today, the Ron Eller Campaign officially announced victory in the Republican Primary for Mississippi’s Second Congressional District.
 With the final numbers clearly in focus, it is now mathematically impossible for remaining uncounted absentee ballots to change the outcome of Tuesday's election, decisively settling the primary in Eller's favor.
 The election returns show Eller won a commanding 22 out of the 30 counties in the district.
 This widespread geographic support—from Warren and Hinds to Bolivar and Yazoo counties—cements a clear mandate from Republican voters across MS-02 and demonstrates a broad, united coalition heading into the general election.
 "I am deeply humbled and honored by the trust the voters of the Second District have placed in me again to be their Republican nominee," Eller said.
 "Kevin Wilson ran an honorable race and is a good public servant for the people of Adams County.
-Our district is better for his participation in this process."
-With the primary now settled, the Eller campaign is calling for total unity among Mississippi Republicans in the Second District.
+Our district is better for his participation in this process." With the primary now settled, the Eller campaign is calling for total unity among Mississippi Republicans in the Second District.
 "Now is the time to come together as one party with one shared mission," Eller continued.
 "The primary is now behind us, and our sights are now set squarely on November.
 For far too long, Congressman Bennie Thompson has left the people of Mississippi’s Second District behind.
 Though former President Biden was forced to pardon Bennie Thompson for his wrongdoing this congressional term, I’m hopeful that the people of the second district will not pardon him again.
 It is time for a new generation of leadership aligned with President Trump that will fight for economic growth, secure borders, voter integrity and the constitutional rights of every Mississippian.
-We welcome every Kevin Wilson supporter to our team—together, we are going to unseat Bennie Thompson this fall."
-For more information on Ron Eller’s platform and upcoming campaign events, please visit https://www.voteroneller.com/
-________________________________________
--30-
-________________________________________________________________________
-Ron Eller is a two-time Republican nominee for Mississippi’s 2nd Congressional District.
+We welcome every Kevin Wilson supporter to our team—together, we are going to unseat Bennie Thompson this fall." For more information on Ron Eller’s platform and upcoming campaign events, please visit https://www.voteroneller.com/ ________________________________________ -30- ________________________________________________________________________ Ron Eller is a two-time Republican nominee for Mississippi’s 2nd Congressional District.
 He is available for interviews on March 13, 2026 at 10:00 a.m. in person at the MSGOP Headquarters at 415 Yazoo Street in Jackson or via Zoom.
+Voter Information Endorsements Yard Signs Photos Contact Paid for by Ron Eller for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ron Issues Endorsements Contribute Volunteer News Yard Signs Swag Contact Voter Information Close Menu

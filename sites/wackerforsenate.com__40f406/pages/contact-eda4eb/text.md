@@ -1,11 +1,3 @@
-top of page
-Connect with Paul
-Phone or Text Paul
-Email Paul Wacker
-Mailing Address for Donations
-Wacker for Senate
-4725 Toronto St, Suite #1
-Ames, IA 50014
-Connect with Paul by Form
-To Volunteer, Ask a Question, or Message Paul
-bottom of page
+top of page HOME MEET PAUL PLATFORM GET INVOLVED REQUEST YARD SIGN VOTER INFO CONTACT More Use tab to navigate through the menu items.
+Vote for Paul Wacker - November 3rd DONATE Connect with Paul Phone or Text Paul 515-460-5669 Email Paul Wacker WackerForSenate@gmail.com Mailing Address ​for Donations Wacker for Senate 4725 Toronto St, Suite #1 Ames, IA 50014 DONATE Connect with Paul by Form To Volunteer, Ask a Question, or Message Paul Volunteer & Contact Form First name Last name Email Cell Phone * Here's how I can help . . .
+Walk in local Parades Host a Meet & Greet Request & Display a Yard Sign Make Phone Calls Help with Mailings Assist with Literature Drops Help with events Help with sign installation Help with Social Media Write Letters to the Editor Other - explain in comments Best time to call or text Morning Afternoon Evening Comments or Questions for Paul Submit WackerForSenate@gmail.com Paid for by Wacker for Senate PO Box 1054, AMES, IA 50010 Website design by Right Side Communications LLC bottom of page

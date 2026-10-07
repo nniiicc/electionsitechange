@@ -1,16 +1,78 @@
 [
-"https://electbrandondavis.com/",
-"https://electbrandondavis.com/about",
-"https://electbrandondavis.com/cdn-cgi/l/email-protection",
-"https://electbrandondavis.com/issues",
-"https://electbrandondavis.com/news",
-"https://electbrandondavis.com/privacy-policy",
-"https://electbrandondavis.com/terms-and-conditions",
-"https://electbrandondavis.com/volunteer",
-"https://electbrandondavis.com/vote",
-"https://facebook.com/1brandondavis",
-"https://instagram.com/1brandon.davis",
-"https://secure.anedot.com/elect-brandon-davis/victory-2026",
-"https://twitter.com/1brandondavis",
-"https://youtube.com/@brandondavisnv"
+{
+"text": "About",
+"href": "https://electbrandondavis.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/elect-brandon-davis/victory-2026"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/1brandondavis"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/1brandondavis"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/1brandon.davis"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/1brandon.davis/"
+},
+{
+"text": "Follow",
+"href": "https://www.twitter.com/1brandondavis"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@brandondavisnv"
+},
+{
+"text": "Home",
+"href": "https://electbrandondavis.com/"
+},
+{
+"text": "Issues",
+"href": "https://electbrandondavis.com/issues/"
+},
+{
+"text": "News",
+"href": "https://electbrandondavis.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electbrandondavis.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://electbrandondavis.com/terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://electbrandondavis.com/volunteer/"
+},
+{
+"text": "Voter Info",
+"href": "https://electbrandondavis.com/vote/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@electbrandondavis.com"
+},
+{
+"text": "[image]",
+"href": "https://electbrandondavis.com"
+},
+{
+"text": "[image]",
+"href": "https://electbrandondavis.com/"
+},
+{
+"text": "‪(702) 582-6831‬",
+"href": "tel:%E2%80%AA702-582-6831%E2%80%AC"
+}
 ]

@@ -1,6 +1,4 @@
-My Country Philosophy
-A Lifetime of Service: From the Military to District 32
-Before I ever cast a vote in Annapolis, I spent a career in uniform learning what real accountability looks like.
+Home Current Situation My Philosophy Contact Back Education Economics Community Country Home Current Situation My Philosophy Education Economics Community Country Contact Veteran | PTSA President | Pop Warner Football Coach | Community Advocate My Country Philosophy A Lifetime of Service: From the Military to District 32 Before I ever cast a vote in Annapolis, I spent a career in uniform learning what real accountability looks like.
 As a retired Colonel, I didn't just serve my country, I led others through it, carrying the weight of decisions where the stakes were measured in lives, missions, and outcomes that couldn't afford to fail.
 That kind of service leaves a mark.
 It taught me discipline not as a buzzword, but as a daily practice: show up, do the work, own the outcome, and never ask more of others than I'm willing to demand of myself.
@@ -23,3 +21,4 @@ I didn't set aside my commitment to country when I left the military I brought i
 Every principle I learned wearing the uniform, discipline, accountability, readiness, and showing up for the people beside me now shows up in how I legislate, how I prioritize education and economic opportunity, and how I show up in this community, rain or shine.
 My service didn't end with retirement.
 It just changed uniforms.
+Contact Authority Line: Mike Rogers Campaign Antonio Downing, Treasurer

@@ -1,11 +1,54 @@
 [
-"https://collincountytx.gov/Elections",
-"https://facebook.com/share/1BKW9w1ZFT?mibextid=wwXIfr",
-"https://instagram.com/brittanyfortexas",
-"https://linktr.ee/BrittanyForTexas",
-"https://teamrv-mvp.sos.texas.gov/MVP/mvp.do",
-"https://thepoliticianscreed.org/articles-of-tpc2",
-"https://tiktok.com/@brittanyfortexas",
-"https://votetexas.gov/voters/need-id.html",
-"https://x.com/brittanyfortx"
+{
+"text": "Check Your Voter Registration →",
+"href": "https://teamrv-mvp.sos.texas.gov/MVP/mvp.do"
+},
+{
+"text": "Collin County Elections →",
+"href": "https://www.collincountytx.gov/Elections"
+},
+{
+"text": "ID Requirements →",
+"href": "https://www.votetexas.gov/voters/need-id.html"
+},
+{
+"text": "View Sample Ballot →",
+"href": "https://www.collincountytx.gov/Elections"
+},
+{
+"text": "VoteTexas.gov →",
+"href": "https://teamrv-mvp.sos.texas.gov/MVP/mvp.do"
+},
+{
+"text": "[image: Brittany Black]",
+"href": "https://www.thepoliticianscreed.org/articles-of-tpc2"
+},
+{
+"text": "[image: The Politician's Creed]",
+"href": "https://www.thepoliticianscreed.org/articles-of-tpc2"
+},
+{
+"text": "brittany@brittanyfortexas.com",
+"href": "mailto:brittany@brittanyfortexas.com"
+},
+{
+"text": "f",
+"href": "https://www.facebook.com/share/1BKW9w1ZFT/?mibextid=wwXIfr"
+},
+{
+"text": "ig",
+"href": "https://www.instagram.com/brittanyfortexas"
+},
+{
+"text": "lt",
+"href": "https://linktr.ee/BrittanyForTexas"
+},
+{
+"text": "tt",
+"href": "https://www.tiktok.com/@brittanyfortexas"
+},
+{
+"text": "𝕏",
+"href": "https://www.x.com/brittanyfortx"
+}
 ]

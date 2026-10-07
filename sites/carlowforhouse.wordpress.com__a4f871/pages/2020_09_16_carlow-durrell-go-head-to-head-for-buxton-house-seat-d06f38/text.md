@@ -1,18 +1,16 @@
-By Robert Lowell, American Journal
-BUXTON — The House District 16 seat is up for grabs in a race between David Durell, a former business owner, and Nathan Carlow, a youthful member of the Bonny Eagle School Board.
+Skip to content Nathan Carlow for Representative Join Nathan in bringing common-sense solutions to the Maine State Legislature Menu + × expanded collapsed Home Meet Nathan Biography Newsroom Services Help With an Agency Sentiments and Letters Flag Requests Legislative Concerns Contact CONTRIBUTE “Carlow, Durrell go head to head for Buxton House seat” Posted by communicationsdirector September 16, 2020 December 13, 2020 Posted in General By Robert Lowell, American Journal BUXTON — The House District 16 seat is up for grabs in a race between David Durell, a former business owner, and Nathan Carlow , a youthful member of the Bonny Eagle School Board.
 Durrell made a bid for the seat two years ago but was defeated by incumbent Donald Marean, who has reached his term limit.
 Carlow is making his initial bid for election on the state stage.
 He upset veteran politician Stavros Mendros, in the July primary.
 District 16 represents part of Buxton, Hollis and part of Saco.
 Carlow cites dealing with the state’s economy, education and financial impact of Covid-19 as top concerns.
-He said state economists are “forecasting a $1.4 billion dollar budget shortfall, and the most urgent question that every legislator should be asking themselves is how are we going to continue to fund the programs and services that thousands of Mainers rely on every day.”
-The Bonny Eagle School Board, for example, has made some decisions to continue providing “top notch” education, he said.
+He said state economists are “forecasting a $1.4 billion dollar budget shortfall, and the most urgent question that every legislator should be asking themselves is how are we going to continue to fund the programs and services that thousands of Mainers rely on every day.” The Bonny Eagle School Board, for example, has made some decisions to continue providing “top notch” education, he said.
 “These decisions are never easy, but there has to be a method in place to review the efficiency and value of different programs throughout the district.
 Unfortunately, it appears that legislative Democrats, however good intended they may be, want to continue taxing and spending the hard earned cash of Mainers,” Carlow said.
 Education, Carlow said, needs to be one of the government’s highest priorities.
 Continuing to invest in education can accomplish several things, including reducing local property taxes, attract more people to Maine to live and work, and “perhaps most importantly” retain high school and college graduates who have been leaving the state in search of opportunities.
 “In turn, this will enable us to restore the jobs that have been vacated by retirees, particularly those working as medical professionals, civil engineers and teachers,” Carlow said..
 He also says sacrifices will be needed to adapt to the financial effects of COVID-19.
-###
-Nathan’s full response to the American Journal Questionnaire can be found by viewing the below document.
-The full article can be located at www.pressherald.com/2020/09/15/carlow-durrell-go-head-to-head-for-buxton-house-seat/
+### Nathan’s full response to the American Journal Questionnaire can be found by viewing the below document. american-journal-questionnaire View The full article can be located at www.pressherald.com/2020/09/15/carlow-durrell-go-head-to-head-for-buxton-house-seat/ Posted by communicationsdirector September 16, 2020 December 13, 2020 Posted in General Post navigation Previous Post Previous post: “Carlow to face Durrell in November for House 16 seat” Next Post Next post: Representative Carlow Appointed to Energy, Utilities, and Technology Committee Leave a comment Cancel reply Δ Nathan Carlow for Representative , Comment Subscribe Subscribed Nathan Carlow for Representative Sign me up Have a WordPress.com account?
+Log in now.
+Nathan Carlow for Representative Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

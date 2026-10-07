@@ -1,14 +1,50 @@
 [
-"https://britmckenzie.com/",
-"https://britmckenzie.com/news",
-"https://britmckenzie.com/news/categories/district-7",
-"https://britmckenzie.com/news/categories/education-school-choice",
-"https://britmckenzie.com/news/categories/legislative-session",
-"https://britmckenzie.com/news/categories/press-editorials",
-"https://britmckenzie.com/news/categories/property-rights",
-"https://britmckenzie.com/news/categories/taxes-fiscal-policy",
-"https://britmckenzie.com/news/categories/the-weekly-ish-newsletter",
-"https://facebook.com/BritMcKenzieAR",
-"https://instagram.com/britmckenziear",
-"https://twitter.com/BritMcKenzieAR"
+{
+"text": "All Posts",
+"href": "https://www.britmckenzie.com/news"
+},
+{
+"text": "District 7",
+"href": "https://www.britmckenzie.com/news/categories/district-7"
+},
+{
+"text": "Education & School Choice",
+"href": "https://www.britmckenzie.com/news/categories/education-school-choice"
+},
+{
+"text": "HOME",
+"href": "https://www.britmckenzie.com"
+},
+{
+"text": "Legislative Session",
+"href": "https://www.britmckenzie.com/news/categories/legislative-session"
+},
+{
+"text": "Press & Editorials",
+"href": "https://www.britmckenzie.com/news/categories/press-editorials"
+},
+{
+"text": "Property Rights",
+"href": "https://www.britmckenzie.com/news/categories/property-rights"
+},
+{
+"text": "Taxes & Fiscal Policy",
+"href": "https://www.britmckenzie.com/news/categories/taxes-fiscal-policy"
+},
+{
+"text": "The Weekly-ISH Newsletter",
+"href": "https://www.britmckenzie.com/news/categories/the-weekly-ish-newsletter"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BritMcKenzieAR"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/britmckenziear/"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/BritMcKenzieAR"
+}
 ]

@@ -1,51 +1,28 @@
-Issues
-Below: major points, summary on issues, links to interviews and question and answer
-from League of Women Voters, The Banner and Maryland Stance on Science:
-* More peace, cheaper gas
-* Stop genocide of Palestinians in Gaza, all funding to apartheid Israel
-* Community control of police, stop militarization of police
-* Enhanced Medicare for All, stop privatization of Medicare and Social Security
-* Take on big tech, ban data centers
-* Reject Glenn "AIPAC" Ivey
-* Ensure civil liberties.
-Stop and abolish ICE
-* Stop the $1.5 trillion military budget
-* Working people over Epstein class, release the files
-* Main St. over Wall St.
-* Confront corporate power, crime and welfare
-* Stop production of WMDs, including nuclear and biological weapons
-* Fund schools and hospitals here, not bombing them in Gaza or anywhere else
-In-depth interviews here, here and here.
-Our People-Powered Platform
-1) Peace Means Affordability
-The government is using our tax dollars to fund Israel’s genocide of Palestinians in Gaza and Israel’s war on Iran and Lebanon.
+About Issues Volunteer Resources for Supporters Press Events DONATE About Issues Volunteer Resources for Supporters Press Events DONATE Issues Below: major points, summary on issues, links to interviews and question and answer from League of Women Voters, The Banner and Maryland Stance on Science: * More peace, cheaper gas * Stop genocide of Palestinians in Gaza, all funding to apartheid Israel * Community control of police, stop militarization of police * Enhanced Medicare for All, stop privatization of Medicare and Social Security * Take on big tech, ban data centers * Reject Glenn "AIPAC" Ivey * Ensure civil liberties.
+Stop and abolish ICE * Stop the $1.5 trillion military budget * Working people over Epstein class, release the files * Main St. over Wall St. * Confront corporate power, crime and welfare * Stop production of WMDs, including nuclear and biological weapons * Fund schools and hospitals here, not bombing them in Gaza or anywhere else In-depth interviews here , here and here .
+Our People-Powered Platform 1) Peace Means Affordability The government is using our tax dollars to fund Israel’s genocide of Palestinians in Gaza and Israel’s war on Iran and Lebanon.
 We supply costly high tech weapons to kill tens of thousands of civilians, destroying homes, schools, and hospitals.
 Instead, we should be building and repairing our own fraying infrastructure right here in Maryland.
 Trump’s illegal aggression against Iran is driving up Marylanders’ costs of fuel, food and housing yet Democrats and Republics votes again and again to divert over half of our discretionary budget to disastrous foreign military adventures.
 We must end US military aggression and demand a foreign policy based on law and peace, not war and domination.
-2) Education
-District-wide public school students’ standardized math test proficiency is just 13.7%, vastly below the unimpressive statewide proficiency rate of 27.1%.
+2) Education District-wide public school students’ standardized math test proficiency is just 13.7%, vastly below the unimpressive statewide proficiency rate of 27.1%.
 Maryland’s racial disparities in math are an atrocity to social justice.
 Sleek libraries are being built -- with remarkably few books.
 Schools shouldn't resemble prisons or have a "CEO" -- they should create an environment of inquiry and wonder.
-3) Liberty: ICE and Flock Cameras
-ICE is terrorizing both immigrants and US-born citizens, even to the point of accessing department of motor vehicle and hospital records.
+3) Liberty: ICE and Flock Cameras ICE is terrorizing both immigrants and US-born citizens, even to the point of accessing department of motor vehicle and hospital records.
 Flock cameras are now invading our communities, the cornerstone of an expanding surveillance state, violating the 4th Amendment on a gargantuan scale.
 Big tech and other special interests operate in secrecy while our rights to privacy are routinely eviscerated.
 None of this keeps us safer.
 Rather, its purpose is to sow chaos, fear and division among an already divided public.
 We must rein in the surveillance and intimidation apparatus and stand up for our civil liberties.
-4) Stop Data Centers
-Data centers are poised to suck down far more electricity, further escalating electricity costs for Maryland residents and businesses.
+4) Stop Data Centers Data centers are poised to suck down far more electricity, further escalating electricity costs for Maryland residents and businesses.
 In addition, noisy, polluting data centers threaten our water, air and electric supply -- and ultimately our base of knowledge.
 We must demand more than just a moratorium.
 The threat posed by so-called AI and data centers highlight how for-profit corporate interests must no longer dominate our society.
-5) Medicare-for-All
-As your representative in Congress, I will vote to stop the privatization slide of Medicare and Medicaid and the threat to Social Security.
+5) Medicare-for-All As your representative in Congress, I will vote to stop the privatization slide of Medicare and Medicaid and the threat to Social Security.
 A recent Yale study found that expanding Medicare could cover everyone, save more than 100,000 lives a year, and still cost $1 trillion less than the insurance company system it would replace.
 We can and must do so much better than repairing our broken insurance-based healthcare system.
-6) The incumbent: Glenn Ivey
-Glenn Ivey is in his second term representing Maryland’s Fourth Congressional District, the second wealthiest majority African American district in the US.
+6) The incumbent: Glenn Ivey Glenn Ivey is in his second term representing Maryland’s Fourth Congressional District, the second wealthiest majority African American district in the US.
 Its voters are overwhelmingly for Democrats.
 From this safe seat, you might expect that our congressman would be a bold progressive leader.
 Nope.
@@ -58,8 +35,7 @@ Recent funding disclosures reveal that he has direct investments of between $100
 Members of Congress should be required to divest from such holdings and work in the public interest, not narrow corporate or special-interests.
 In MD-04, the Republican has no chance to win.
 This election is your chance to raise your voice and vote your conscience.
-Responses to questions from League of Women Voters:
-ELECTIONS: What laws will you support to protect election integrity and secure accurate vote counts?
+Responses to questions from League of Women Voters: ELECTIONS: What laws will you support to protect election integrity and secure accurate vote counts?
 A Right to Vote, publicly owned open-source voting, a National Elections Commission and eliminate barriers for third parties, increasing voter choice.
 Some talk of “integrity” undermines democracy since it compels many to fearfully stay trapped inside the duopoly; it doesn’t apply in this race since the Republican can’t win.
 Meaningful election integrity should include taking on how many are effectively bought off by the Epstein class and big money groups like AIPAC, so we need public funding.
@@ -84,8 +60,7 @@ It’s crucial to stop the privatization slide of Medicare and Medicaid and the 
 A recent Yale study found that expanding Medicare could cover everyone, save more than 100,000 lives a year, and still cost $1 trillion less than the insurance company system it would replace.
 “Safety net” is limiting, we must transform our society into one which prioritizes human needs.
 Whatever people do to manage day to day, when they vote, they should vote where they want our world to go.
-Responses to questions from local paper The Banner:
-What would you do to restore predictability to the federal budgeting process and avoid shutdowns and threats of shutdowns?
+Responses to questions from local paper The Banner: What would you do to restore predictability to the federal budgeting process and avoid shutdowns and threats of shutdowns?
 The periodic shutdowns are one way that the Republican and Democratic establishment obscure the funding choices we should be making.
 Over half of the discretionary federal budget goes to the Department of War and other military spending.
 That should be put front and center for an agenda for fiscal sanity — and for ensuring our tax dollars go to meet human needs, not destruction and threats.
@@ -121,11 +96,9 @@ Describe a moment when you stood up to someone in authority?
 Last month I confronted Democratic Party leader Chuck Schumer.
 He was speaking at an “anti-corruption” event at the National Press Club, where I’d been a member for decades.
 Remarkably, he was not going to take questions, even though he’s known as the Senator from Wall Street.
-So after he spoke for a bit, talking about how Trump is corrupt (obviously), I stood up and called him out for backing Israel’s slaughter in Gaza to the hilt:
-“How can you talk about corruption when you back genocide?
+So after he spoke for a bit, talking about how Trump is corrupt (obviously), I stood up and called him out for backing Israel’s slaughter in Gaza to the hilt: “How can you talk about corruption when you back genocide?
 What could be more corrupt than backing genocide?
-This is part of the same con with you and Trump playing off of each other: ‘Oh, he’s worse,’ ‘oh, he’s worse.’” I just got a letter from the Press Club telling me that I was banned from there, as they invoked the classic anti-Arab dog whistle and falsely called me a “threat to safety.”
-Decorum is what powerful people hide behind while the bodies pile up, and disruption is what they call it whenever somebody refuses to play along.
+This is part of the same con with you and Trump playing off of each other: ‘Oh, he’s worse,’ ‘oh, he’s worse.’” I just got a letter from the Press Club telling me that I was banned from there, as they invoked the classic anti-Arab dog whistle and falsely called me a “threat to safety.” Decorum is what powerful people hide behind while the bodies pile up, and disruption is what they call it whenever somebody refuses to play along.
 Once you see how the political establishment operates, you understand everything about official Washington.
 What will you bring to Congress that is missing?
 Exactly that same spirit of confronting wrongdoing and criminality.
@@ -134,8 +107,7 @@ Members hide behind procedure, defer to “leadership,” wait their turn, and f
 I have spent my whole career refusing to accept hollow answers from powerful people, and I am not going to start accepting it from the inside.
 Let’s give them a disruption they cannot ignore and elect an independent voice to Congress.
 Someone who has no respect for their pieties, only for principles that are supposed to stop the worst sort of corruption.
-Responses to questions from Maryland Stance on Science:
-Q1 Maryland residents are facing sharply rising electricity bills driven by a combination of power plant retirements, surging market prices, and rapidly growing demand (including from the proliferation of data centers across the region).
+Responses to questions from Maryland Stance on Science : Q1 Maryland residents are facing sharply rising electricity bills driven by a combination of power plant retirements, surging market prices, and rapidly growing demand (including from the proliferation of data centers across the region).
 If elected, what specific steps will you take to address the causes of high energy costs for Maryland residents and businesses, including data centers?
 Much of the increase in electric bills was predictable because of Exelon’s acquisition of Pepco.
 Was noted at the time, in 2015, that was approved by at least one key government employee who ended up getting a position funded by the industry.
@@ -200,8 +172,7 @@ Many of the buildings along Route 1 don’t even have decent street offsets.
 There are some great parks in the district, but there should be a wider network of proper wetlands.
 The Beltsville Agricultural Research Center should be preserved, and by all means kept out of the hands of so-called developers.
 I’m an admirer of the architect Frank Lloyd Wright who wrote endlessly about the meaning of democracy in our country — which he called Usonia, partly out of respect to other counties in the Americas.
-He developed the notion of an “organic architecture” — buildings which conformed to Nature and the immediate environment rather than just pouring so much concrete that you could try to impose your will upon Nature.”
-Q6 What advisory mechanisms will you implement to ensure that evidence and scientific findings play a crucial role in your policymaking process?
+He developed the notion of an “organic architecture” — buildings which conformed to Nature and the immediate environment rather than just pouring so much concrete that you could try to impose your will upon Nature.” Q6 What advisory mechanisms will you implement to ensure that evidence and scientific findings play a crucial role in your policymaking process?
 There’s been a huge drop in Congressional hearings drawing on the knowledge of experts in various fields.
 This allows lobbyists and special interests to cut deals behind the scenes.
 Given my own background – a major in applied math and logic and computation from Carnegie Mellon University, with significant study in the philosophy of science – I would delight in talking with various scientists to ensure the best possible policy making process.
@@ -211,14 +182,13 @@ Individuals from Israel’s Unit 8200, the analogue to our NSA, have gotten into
 Scientists must live up to their responsibility, mindful of documents little known today like the Russell-Einstein Manifesto, which stated: “There lies before us, if we choose, continual progress in happiness, knowledge, and wisdom.
 Shall we, instead, choose death, because we cannot forget our quarrels?
 We appeal as human beings to human beings: Remember your humanity, and forget the rest.
-If you can do so, the way lies open to a new Paradise; if you cannot, there lies before you the risk of universal death."
-Q7 What initiatives will you take to support investment in innovation via federal science funding?
+If you can do so, the way lies open to a new Paradise; if you cannot, there lies before you the risk of universal death." Q7 What initiatives will you take to support investment in innovation via federal science funding?
 Government funding should be based on actually advancing science and serving humanity, not reflecting military or corporate interests.
 The NIH and USAID doubtless fund good initiatives, but they also backed horrific ones, like efforts to make pathogens more deadly.
 This dangerous lab work—euphemistically called “gain of function”—likely led to the Covid pandemic.
 This cost millions of lives and trillions of dollars.
 And it comes from a whole structure of dangerous lab work.
-This was clear with the false flag anthrax attacks after the 9/11 attacks 25 years ago.
+This was clear with the false flag anthrax attacks after the 9/11 attacks #ago.
 The anthrax letters were labeled “Death to America / Death to Israel / Allah is Great” and there was massive propaganda that tried to tie them to Iraq.
 But scientists like Barbara Hatch Rosenberg found that the anthrax actually came from Fort Detrick here in Maryland or an allied lab.
 Congress incredibly never investigated this attack upon it.
@@ -227,3 +197,8 @@ The anthrax attacks ironically led to a vast INCREASE in more dangerous lab work
 As a journalist, I’ve written extensively about this: husseini.substack.com.
 I’ve also seriously investigated the Ebola 2014 outbreak which likely originated in US labs in Kenema, Sierra Leone.
 Those labs were headed by scientists named Robert Garry and Kristian Andersen who would sign a widely cited propaganda article claiming Covid couldn’t have come from a lab.
+Contact or donate at: Sam Husseini for Congress P.O.
+Box 309 Riverdale, MD 20738 Note: If donating by check, please include your Occupation and Employer as required by the Federal Election Commission.
+General Inquiries: info@samhusseini.com Media Inquiries: press@samhusseini.com About Donate to Sam Husseini for Congress Privacy Policy Terms and Conditions DONATE © # | Paid for by Sam Husseini for Congress | All rights reserved Contributions or gifts made to Sam Husseini for Congress are not tax deductible.
+Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Save Changes

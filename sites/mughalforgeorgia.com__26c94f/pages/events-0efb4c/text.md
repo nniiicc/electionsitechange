@@ -1,33 +1,10 @@
-top of page
-- Wed, Sep 23
-- Sun, Apr 19
-- Wed, Feb 18Feb 18, 2026, 1:00 PM – 2:00 PMFusion Asian Bistro, 1944 Braselton Hwy, Buford, GA 30519, USAFormer Georgia State Rep.
-Farooq Mughal will address the community and media regarding his strong opposition to any Department of Homeland Security (DHS) plan—current or future—to convert a warehouse in Oakwood, GA & near the Mall of Georgia in House District 105 into a federal facility.+35 more
-- Tue, Dec 16Business and Community Leaders Meet and Greet Former Representative Farooq Mughal/ Premier Event Halls
-- Thu, Sep 12Business and Community Leaders Meet and Greet Dinner for Representative Farooq Mughal/ Premier Event Halls
-- Wed, Jul 17
-- Sat, Jun 29
-- Tue, May 21
-- Sat, May 18
-- Tue, May 14
-- Sat, May 11
-- Sat, May 04
-- Sat, Apr 20
-- Sat, Feb 17
-- Thu, Nov 16
-- Mon, Aug 28
-- Sat, Aug 13Volunteer Meetup - Canvassing HD105/ 1730 Spectrum Drive, Lawrenceville, Georgia 30043, United States
-- Sat, Feb 12Business Roundtable Hosted by Captain Khan - Meet and Greet with Mr.
-Farooq Mughal/ Mediation Office of Farooq Mughal
-START CHANGING
-Support Our Cause
-SUBSCRIBE TO OUR NEWSLETTER
-Get the latest updates
-from the campaign trail
-MUGHAL FOR GEORGIA
-710 Dacula Rd, Ste 4A, #325
-Dacula, GA, 30019
-678-234-3242
-Paid and Authorized by Mughal for Georgia, LLC (2022)
-Use tab to navigate through the menu items.
-bottom of page
+top of page Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items.
+CONTRIBUTE SUBSCRIBE Wed, Sep 23 Building HD 105's Future Meet and Greet & Reception / Fusion Asian Bistro Details Sep 23, 2026, 6:00 PM – 8:00 PM Fusion Asian Bistro, 1944 Braselton Hwy, Buford, GA 30519, USA +4 more Sun, Apr 19 Re-election Fundraiser & Community Engagement with State Lawmakers and Governor Candidates / Premier Event Halls Details Apr 19, 2026, 6:00 PM – 9:00 PM Premier Event Halls, 3520 Breckinridge Blvd #106, Duluth, GA 30096, USA +63 more Wed, Feb 18 No ICE Detention Centers in Gwinnett County / Fusion Asian Bistro Details Feb 18, 2026, 1:00 PM – 2:00 PM Fusion Asian Bistro, 1944 Braselton Hwy, Buford, GA 30519, USA Former Georgia State Rep.
+Farooq Mughal will address the community and media regarding his strong opposition to any Department of Homeland Security (DHS) plan—current or future—to convert a warehouse in Oakwood, GA & near the Mall of Georgia in House District 105 into a federal facility. +35 more Tue, Dec 16 Business and Community Leaders Meet and Greet Former Representative Farooq Mughal / Premier Event Halls Details Dec 16, 2025, 6:00 PM – 8:00 PM Premier Event Halls, 3520 Breckinridge Blvd #106, Duluth, GA 30096, USA +2 more Thu, Sep 12 Business and Community Leaders Meet and Greet Dinner for Representative Farooq Mughal / Premier Event Halls Details Sep 12, 2024, 6:00 PM – 9:00 PM Premier Event Halls, 3520 Breckinridge Blvd #106, Duluth, GA 30096, USA +25 more Wed, Jul 17 Gwinnett Business Leaders Fundraiser for Representative Farooq Mughal / The 1818 Club Details Jul 17, 2024, 5:30 PM – 7:30 PM The 1818 Club, 6500 Sugarloaf Pkwy, Duluth, GA 30097, USA +1 more Sat, Jun 29 Fundraiser for Representative Farooq Mughal / Jaffa Restaurant Details Jun 29, 2024, 6:00 PM – 9:00 PM Jaffa Restaurant, 10684 Alpharetta Hwy #500, Roswell, GA 30076, USA See All Tue, May 21 2024 Primary Election Watch Party / Taco Mac @ Mall of Georgia Details May 21, 2024, 7:00 PM – 11:00 PM Taco Mac @ Mall of Georgia, 3250 Woodward Crossing Blvd, Buford, GA 30519, USA See All Sat, May 18 GOTV Dacula / Tradewind Coffee Co Details May 18, 2024, 10:00 AM – 2:00 PM Tradewind Coffee Co, 2300 Liam Ave NE #200, Dacula, GA 30019, USA Tue, May 14 Representative Mughal Townhall / Dacula City Hall Details May 14, 2024, 5:00 PM – 7:00 PM Dacula City Hall, 442 Harbins Rd, Dacula, GA 30019, USA Hear what happened in the 2024 legislative session from your local legislator!
+See All Sat, May 11 GOTV Buford / Walgreens Details May 11, 2024, 10:00 AM – 2:00 PM Walgreens, 2365 Buford Dr, Lawrenceville, GA 30043, USA Sat, May 04 GOTV Lawrenceville / Collins Hill Library Details May 04, 2024, 10:00 AM – 2:00 PM Collins Hill Library, 455 Camp Perrin Rd NE, Lawrenceville, GA 30043, USA Sat, Apr 20 Canvass Launch / Collins Hill Library Details Apr 20, 2024, 10:00 AM – 2:00 PM Collins Hill Library, 455 Camp Perrin Rd NE, Lawrenceville, GA 30043, USA Sat, Feb 17 Representative Mughal and Representative Kennard Townhall / Collins Hill Library Meeting Room Details Feb 17, 2024, 10:00 AM – 12:00 PM Collins Hill Library Meeting Room, 455 Camp Perrin Rd NE, Lawrenceville, GA 30043, USA +12 more Thu, Nov 16 Rep.
+Farooq Mughal's 2024 Campaign Launch Fundraiser / 1818 Club (Gwinnett County) Details Nov 16, 2023, 5:30 PM – 7:30 PM 1818 Club (Gwinnett County), 6500 Sugarloaf Pkwy, Duluth, GA 30097, USA Mon, Aug 28 Fundraiser for State Rep.
+Farooq Mughal / Kilpatrick Townsend - Midtown Details Aug 28, 2023, 5:30 PM – 7:30 PM Kilpatrick Townsend - Midtown , 1100 Peachtree St NE #2800, Atlanta, GA 30309, USA Join State Representative Tanya Miller, Sonjui Kumar, Bonnie Youn, Gautam Reddy, and Waqar Khawaja +15 more Sat, Aug 13 Volunteer Meetup - Canvassing HD105 / 1730 Spectrum Drive, Lawrenceville, Georgia 30043, United States Details Aug 13, 2022, 9:30 AM – Aug 14, 2022, 1:30 PM 1730 Spectrum Drive, Lawrenceville, Georgia 30043, United States Join us for Canvassing and Fun!!!
+We will have breakfast and training for all the volunteers and staff.
+Sat, Feb 12 Business Roundtable Hosted by Captain Khan - Meet and Greet with Mr.
+Farooq Mughal / Mediation Office of Farooq Mughal Details Feb 12, 2022, 10:00 AM – 12:00 PM Mediation Office of Farooq Mughal, 1730 Spectrum Dr, Lawrenceville, GA 30043, USA Meet & Greet: Atlanta Business Leader & Candidate for GA HD 105 Farooq Mughal (Hosted by Captain Khan) +27 more START CHANGING Support Our Cause CONTRIBUTE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+MUGHAL FOR GEORGIA 710 Dacula Rd, Ste 4A, #325 Dacula, GA, 30019 fmughalforgeorgia@gmail.com 678-234-3242 Paid and Authorized by Mughal for Georgia, LLC (2022) Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items. bottom of page

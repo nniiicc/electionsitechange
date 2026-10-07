@@ -1,14 +1,5 @@
-Growth and Development
-| Bill # | Title | Link | Year |
-| SB193 | Washington County – Sales and Use Tax Exemption – Target Redevelopment Area | | 2026 |
-| SB641 | State Procurement – Exceptions – Historic Preservation Services | | 2026 |
-| SB638 | Natural Resources – Maryland Heritage Areas Authority – Funding and Grants | | 2026 |
-| SB639 | Sports Wagering – Wagers on Historical Horse Races – Authorization | https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0639/?ys=2026rs | 2026 |
-| SB579 | Local Government Tort Claims Act – Hagerstown Multi-Use Sports and Events Facility, Inc. | https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0579/?ys=2025rs | 2025 |
-| SB781 | Task Force on the Establishment of a State Park Dedicated to Veterans' Care | https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0781/?ys=2025rs | 2025 |
-| SB861 | Economic Development – Western Maryland Economic Future Investment Board and Senator George C.
-Edwards Fund – Alterations | https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0861/?ys=2025rs | 2025 |
-| SB553 | Maryland Zero Emission Electric Vehicle Infrastructure Council – Membership and Reporting | Value | |
-Paid for by Friends of Paul Corderman, treasurer Michael Weiss
-| Mailing Address P.O.
-Box 3716 Hagerstown, MD 21742 | Telephone District Office Phone 240-313-3929 | |
+Home Meet Paul Issues Safe Neighborhoods & Strong Schools Growth & Development Fiscal Responsibility & Accountability News Contact Home Meet Paul Issues Safe Neighborhoods & Strong Schools Growth & Development Fiscal Responsibility & Accountability News Contact Growth and Development Bill # Title Link Year SB193 Washington County – Sales and Use Tax Exemption – Target Redevelopment Area mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0193/?ys=2026rs 2026 SB641 State Procurement – Exceptions – Historic Preservation Services mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0641/?ys=2026rs 2026 SB638 Natural Resources – Maryland Heritage Areas Authority – Funding and Grants mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0638/?ys=2026rs 2026 SB639 Sports Wagering – Wagers on Historical Horse Races – Authorization https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0639/?ys=2026rs 2026 SB579 Local Government Tort Claims Act – Hagerstown Multi-Use Sports and Events Facility, Inc. https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0579/?ys=2025rs 2025 SB781 Task Force on the Establishment of a State Park Dedicated to Veterans' Care https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0781/?ys=2025rs 2025 SB861 Economic Development – Western Maryland Economic Future Investment Board and Senator George C.
+Edwards Fund – Alterations https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0861/?ys=2025rs 2025 SB553 Maryland Zero Emission Electric Vehicle Infrastructure Council – Membership and Reporting Value ​ ​ Read further on this issue: ​ Hagerstown has "opportunity of a lifetime" Leaders' choices will affect future downtown development Council has terrible attitude towards business The Hagerstown administration is batting 0-for-3 Let's keep momentum going in downtown Hagerstown Expanding social services will not move us forward City must ask firm to study multi-use stadium ​ Paid for by Friends of Paul Corderman, treasurer Michael Weiss Contact the Office of Senator Paul D.
+Corderman!
+Mailing Address P.O.
+Box 3716 ​Hagerstown, MD 21742 Telephone District Office Phone 240-313-3929 Email [email protected]

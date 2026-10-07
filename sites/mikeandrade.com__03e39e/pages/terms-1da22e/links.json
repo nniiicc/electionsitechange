@@ -1,16 +1,62 @@
 [
-"https://facebook.com/mikeandradein",
-"https://instagram.com/mikeandradein",
-"https://mikeandrade.com/",
-"https://mikeandrade.com/about",
-"https://mikeandrade.com/community",
-"https://mikeandrade.com/legislation",
-"https://mikeandrade.com/platform-2",
-"https://mikeandrade.com/privacy",
-"https://mikeandrade.com/sign",
-"https://mikeandrade.com/terms",
-"https://mikeandrade.com/volunteer",
-"https://secure.actblue.com/donate/citizens-for-mike-andrade-general",
-"https://twitter.com/mikeandradein",
-"https://youtube.com/channel/UChEjBPKGLq3C0leElaitwQA?sub_confirmation=1"
+{
+"text": "About Mike",
+"href": "https://mikeandrade.com/about/"
+},
+{
+"text": "Community",
+"href": "https://mikeandrade.com/community/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@mikeandrade.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/citizens-for-mike-andrade-general"
+},
+{
+"text": "Legislation",
+"href": "https://mikeandrade.com/legislation/"
+},
+{
+"text": "Platform",
+"href": "https://mikeandrade.com/platform-2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mikeandrade.com/privacy/"
+},
+{
+"text": "Terms of Service",
+"href": "https://mikeandrade.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://mikeandrade.com/volunteer/"
+},
+{
+"text": "Yard Sign",
+"href": "https://mikeandrade.com/sign/"
+},
+{
+"text": "[image]",
+"href": "https://mikeandrade.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/mikeandradein"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/mikeandradein"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/mikeandradein"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UChEjBPKGLq3C0leElaitwQA?sub_confirmation=1"
+}
 ]

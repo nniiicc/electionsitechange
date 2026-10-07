@@ -1,7 +1,12 @@
 {
  "description": "Jesse Rodriguez Campaign Events",
  "final_url": "https://jesserodriguez4il83.com/events",
- "paid_for_by": null,
+ "fingerprint": "3e4da0e0f2647905638d68fe80fdaf913fa8b255",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Jesse Rodriguez Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026",
+  "2027"
+ ]
 }

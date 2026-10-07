@@ -1,10 +1,34 @@
 [
-"http://facebook.com/votevasut",
-"http://linkedin.com/in/cvasut",
-"http://twitter.com/cvasut",
-"https://secure.anedot.com/cody-vasut/fundraiser",
-"https://votevasut.com/bio",
-"https://votevasut.com/contact",
-"https://votevasut.com/platform",
-"https://votevasut.com/values"
+{
+"text": "Contact",
+"href": "https://www.votevasut.com/contact"
+},
+{
+"text": "Fundraiser",
+"href": "https://secure.anedot.com/cody-vasut/fundraiser"
+},
+{
+"text": "Meet Cody",
+"href": "https://www.votevasut.com/bio"
+},
+{
+"text": "Platform",
+"href": "https://www.votevasut.com/platform"
+},
+{
+"text": "Values",
+"href": "https://www.votevasut.com/values"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/votevasut"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/in/cvasut"
+},
+{
+"text": "[no text]",
+"href": "http://www.twitter.com/cvasut"
+}
 ]

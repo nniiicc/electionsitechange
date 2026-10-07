@@ -1,19 +1,70 @@
 [
-"https://campaignpartner.com/",
-"https://i.campaignpartner.net/images/cdn_queue/83950/15b974ff78564888b49629f9817ff7cd.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/83950/1d8af176011047c1989331248603b2c5.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/83950/3b6e23dd1f904fdabf246fef1a0b90e8.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/83950/854bcb6fee654722842d1a6252f28901.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/83950/dda7baf59d18403abb52ab592cd3fae0.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/83950/f7a1e2f6a1794d78b07b80f369b4e1e1.jpg",
-"https://tysonfornchouse.com/",
-"https://tysonfornchouse.com/about_steve",
-"https://tysonfornchouse.com/contact",
-"https://tysonfornchouse.com/events",
-"https://tysonfornchouse.com/home",
-"https://tysonfornchouse.com/issues",
-"https://tysonfornchouse.com/make-endorsement",
-"https://tysonfornchouse.com/news",
-"https://tysonfornchouse.com/photos",
-"https://tysonfornchouse.com/view-endorsements"
+{
+"text": "About Steve",
+"href": "https://www.tysonfornchouse.com/about_steve"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tysonfornchouse.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.tysonfornchouse.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.tysonfornchouse.com/home"
+},
+{
+"text": "Make Endorsement",
+"href": "https://www.tysonfornchouse.com/make-endorsement"
+},
+{
+"text": "News",
+"href": "https://www.tysonfornchouse.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.tysonfornchouse.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.tysonfornchouse.com/photos"
+},
+{
+"text": "Send us a Message",
+"href": "https://www.tysonfornchouse.com/contact"
+},
+{
+"text": "[image: Elect Steve Tyson for NC House, District 3 in 2022]",
+"href": "https://www.tysonfornchouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/83950/15b974ff78564888b49629f9817ff7cd.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/83950/1d8af176011047c1989331248603b2c5.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/83950/3b6e23dd1f904fdabf246fef1a0b90e8.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/83950/854bcb6fee654722842d1a6252f28901.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/83950/dda7baf59d18403abb52ab592cd3fae0.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/83950/f7a1e2f6a1794d78b07b80f369b4e1e1.jpg"
+}
 ]

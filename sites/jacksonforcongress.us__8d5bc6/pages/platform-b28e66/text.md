@@ -1,9 +1,7 @@
-12-Point Platform
-These 12 points form the launchpad for the work I intend to carry into Congress, not just election-year talking points.
+Home Donate Meet DeVelle Platform Win Every Vote Library News Contact 12-Point Platform ﻿ Privacy & Data Rights ﻿ ﻿ Oversight & Accountability ﻿ ﻿ Term Limits & Anti-Corruption ﻿ ﻿ Rich Tax & Civic Service ﻿ ﻿ Labor, Jobs, & Growth ﻿ ﻿ Education ﻿ ﻿ Equal Opportunity [EO] ﻿ ﻿ Healthcare ﻿ ﻿ Women's Privacy ﻿ ﻿ Basic & Social Security ﻿ ﻿ Public Safety ﻿ ﻿ Foreign Policy ﻿ These 12 points form the launchpad for the work I intend to carry into Congress, not just election-year talking points.
 They were personally developed and refined to address the constitutional, economic, technological, and everyday concerns the people should be considering now.
 As an Independent, I can carry these priorities into Congress without surrendering them to party agendas or corporate loyalties, and begin working to build the support needed to move serious, honorable, and practical ideas forward.
-Privacy & Data Rights
-Privacy is the protected sphere of the person.
+Privacy & Data Rights Privacy is the protected sphere of the person.
 It covers our bodies, homes, communications, movements, decisions, personal information, and the parts of life that government, corporations, and technology should not enter without lawful authority or meaningful consent.
 The Constitution protects the people in their “persons, houses, papers, and effects,” and protects the liberty of the person in the most private decisions of life.
 Today, our papers include emails, cloud files, search histories, purchase records, location trails, and digital profiles.
@@ -15,41 +13,11 @@ That information is sold, combined, used to target and manipulate consumers, and
 Faces, voices, fingerprints, location histories, and other biometric information are not ordinary commercial property.
 They are part of the person.
 I will fight for a comprehensive federal privacy and data-rights law that makes privacy the default and gives individuals control over the collection, use, sale, and retention of their information.
-That includes:
--
-• The right to know what information is collected and reject collection beyond what is needed to complete a transaction or provide the requested service
--
-• The right to access, correct, delete, and withdraw consent from future use
--
-• Notice when personal information is shared or sold
--
-• A ban on unauthorized data sales and compensation when personal data is knowingly monetized
--
-• Restrictions on social-media harvesting, purchase tracking, surveillance pricing, and behavioral manipulation
--
-• Constitutional and warrant protections for location, movement, communications, cloud data, geofence searches, Flock-style license-plate cameras, drones, vehicle tracking, and Palantir-style government databases, including bans on buying private data or vendor access to get around warrants
--
-• Regulation of brain-computer interfaces, silent-speech devices, neural implants, and sensory-augmentation technology, so no company or government can own, exploit, or control a person’s neural signals, brain-linked data, or basic senses
--
-• Protection against facial recognition, forced biometric identification, and biometric database-building
--
-• The right to use grocery, retail, and vehicle systems without forced customer-facing recording, in-vehicle monitoring, biometric identification, or unnecessary tracking
--
-• Protection against constant recording through camera glasses, wearables, earphones, and headsets
--
-• Clear microphone and camera controls, with independent verification that devices are not secretly recording or transmitting information
--
-• Stronger privacy and data protections for children and minors
--
-• Preservation of cash and reasonable alternatives to digital-only or biometric payment systems
-Government must not be allowed to collect and search through thousands of people’s digital movements first and decide afterward who may be suspicious.
+That includes: • The right to know what information is collected and reject collection beyond what is needed to complete a transaction or provide the requested service • The right to access, correct, delete, and withdraw consent from future use • Notice when personal information is shared or sold • A ban on unauthorized data sales and compensation when personal data is knowingly monetized • Restrictions on social-media harvesting, purchase tracking, surveillance pricing, and behavioral manipulation • Constitutional and warrant protections for location, movement, communications, cloud data, geofence searches, Flock-style license-plate cameras, drones, vehicle tracking, and Palantir-style government databases, including bans on buying private data or vendor access to get around warrants • Regulation of brain-computer interfaces, silent-speech devices, neural implants, and sensory-augmentation technology, so no company or government can own, exploit, or control a person’s neural signals, brain-linked data, or basic senses • Protection against facial recognition, forced biometric identification, and biometric database-building • The right to use grocery, retail, and vehicle systems without forced customer-facing recording, in-vehicle monitoring, biometric identification, or unnecessary tracking • Protection against constant recording through camera glasses, wearables, earphones, and headsets • Clear microphone and camera controls, with independent verification that devices are not secretly recording or transmitting information • Stronger privacy and data protections for children and minors • Preservation of cash and reasonable alternatives to digital-only or biometric payment systems Government must not be allowed to collect and search through thousands of people’s digital movements first and decide afterward who may be suspicious.
 Corporations must not be allowed to convert a person’s life into a permanent commercial surveillance file.
 Privacy should not be something Americans must recover after it has already been violated.
 It must be protected before collection, before surveillance, before sale, and before harm.
-Freedom requires that every person retain a sovereign private sphere that neither government nor corporate power may casually enter.
-Back to Top
-Oversight & Accountability
-I am not interested in oversight as political theater.
+Freedom requires that every person retain a sovereign private sphere that neither government nor corporate power may casually enter. ﻿ ﻿ Back to Top ﻿ Oversight & Accountability I am not interested in oversight as political theater.
 A hearing means nothing if the truth stays buried and the abuse continues.
 Congress must get the truth, act on it, and refuse to shield anyone because of office, party, wealth, or proximity to power.
 Federal law enforcement exercises extraordinary power and must remain civil, lawful, and answerable to the public.
@@ -76,11 +44,9 @@ Congress cannot document an abuse and then move on.
 Oversight must end in correction.
 Impeachment is not the only remedy, but Congress cannot shrink from it when the evidence demands it.
 We need a House majority willing to impeach and a Senate willing to convict.
-Members of Congress are sworn to the Constitution, not to a president or political party.
-Back To Top
-Term Limits & Anti Corruption Reform
-I support an 18-year limit and a clear upper age limit on service in Congress: no more than nine House terms or three Senate terms.
-In Federalist No. 57, James Madison argued that frequent elections would keep representatives dependent on the people and answerable to their judgment.
+Members of Congress are sworn to the Constitution, not to a president or political party. ﻿ ﻿ Back To Top ﻿ Term Limits & Anti Corruption Reform I support an 18-year limit and a clear upper age limit on service in Congress: no more than nine House terms or three Senate terms.
+In Federalist No.
+57, James Madison argued that frequent elections would keep representatives dependent on the people and answerable to their judgment.
 That safeguard has weakened under the weight of incumbency, seniority, donor networks, and party machinery.
 Experience has value, but public office requires present capacity and clear fitness-to-serve standards, and eighteen years is enough time to learn the work, build influence, and deliver results without allowing public office to become permanent control.
 I support a similar 18-year limit for Supreme Court justices.
@@ -90,26 +56,20 @@ As an Independent, I can raise the issue without waiting for either party to dec
 Anti-corruption reform must include legislation to prevent congressional insider trading, strengthen ethics enforcement, curb the money-driven lobbying and paid influence.
 No PAC, Super PAC, national interest group, corporation, or billionaire network should be able to drown out the voters of a district through unlimited outside spending.
 Congress must also protect voting rights and establish enforceable standards against partisan redistricting, so political parties cannot draw districts to choose their voters.
-Congressional rules must also give every elected representative a fair opportunity to serve on committees, offer amendments, and advance legislation without representation being reduced to party control.
-Back To Top
-Rich Tax & Civic Service
-I support a Rich Tax on billionaires and the ultra-wealthy, with a steeper income-tax curve at the very top and stronger action against offshore tax avoidance and corporate loopholes.
+Congressional rules must also give every elected representative a fair opportunity to serve on committees, offer amendments, and advance legislation without representation being reduced to party control. ﻿ ﻿ Back To Top ﻿ Rich Tax & Civic Service I support a Rich Tax on billionaires and the ultra-wealthy, with a steeper income-tax curve at the very top and stronger action against offshore tax avoidance and corporate loopholes.
 Working and middle-class Americans should not lose more of the money they need to live while extreme wealth receives advantages unavailable to everyone else.
-Those who benefit most from America’s workers, infrastructure, markets, courts, public contracts, and stability should contribute more to the country that made that wealth possible.
-A Rich Tax is real fiscal responsibility, not cutting working people’s basic needs while tax breaks for the wealthy keep widening the gap and raising the national debt.
+Those who benefit most from America’s workers, infrastructure, markets, courts, public contracts, and stability should contribute more to the country that made that wealth possible. ﻿ A Rich Tax is real fiscal responsibility, not cutting working people’s basic needs while tax breaks for the wealthy keep widening the gap and raising the national debt.
 Revenue from the Rich Tax should be invested back into the people through housing, hunger and homelessness relief, addiction treatment, health care, student debt relief, and stronger civic institutions.
 It should help lower everyday costs by expanding affordable housing, reducing utility and transportation burdens, and funding public services that families otherwise pay more to access.
 Public money should improve ordinary life, not be collected from working people, wasted, and handed back to the wealthy through unnecessary subsidies and wasteful contracts.
 I also support a federal Civic Service Credit for verified, unpaid service through schools, local governments, nonprofits, and qualifying faith-based community programs.
 Mentoring, youth coaching, food distribution, neighborhood improvement, disaster response, and other service to the public could earn a tax credit or student debt relief.
 We recognize people who donate money to worthy causes; we should also recognize people who donate their time, strengthen their communities, and choose contribution over apathy.
-Back To Top
-Labor, Jobs, & Growth
-I have worked as a union roofer with Local 96 and as a union carpenter with Local 225.
+Back To Top ﻿ Labor, Jobs, & Growth I have worked as a union roofer with Local 96 and as a union carpenter with Local 225.
 I know the difference a strong union can make in wages, benefits, training, safety, and access to a real career.
 Minnesota should remain a state where workers can organize and bargain without retaliation.
 In NLRB v.
-Jones & Laughlin Steel, the Supreme Court upheld federal protection of workers’ right to organize and bargain collectively.
+Jones & Laughlin Steel , the Supreme Court upheld federal protection of workers’ right to organize and bargain collectively.
 I support stronger federal labor protections, meaningful penalties for union-busting and wage theft, prevailing wages on federally funded construction, expanded registered apprenticeships, and opposition to national right-to-work laws that weaken collective bargaining.
 Affordability requires more than helping people pay for what remains scarce.
 When supply does not grow, additional assistance can meet the same shortage without bringing prices down.
@@ -122,10 +82,7 @@ My Urban HQ & Innovation Agenda will pursue federal support tied to measurable r
 It will also help minority entrepreneurs, especially students, young people, and recent graduates, start and grow businesses, gain financing and technical assistance, enter supplier pipelines, and qualify to sell goods and services to major employers and public agencies.
 Housing must be part of complete economic development, not built in isolation from opportunity.
 I will pursue mixed-use, transit-oriented growth around Lake Street, West Bank, Franklin, Nicollet Mall, Hennepin Ave, and other important corridors by connecting housing with jobs, storefronts, reliable transit, walkability, public space, and community services.
-Through legislation, federal grants, appropriations, and Community Project Funding, I will fight to bring Minnesota projects the support needed to expand supply, strengthen unions and local businesses, renew downtown and neighborhood corridors, and keep more of the value created here working for the people who live here, with measurable results in housing, hiring, business growth, and occupied storefronts.
-Back To Top
-Education
-Minnesota values education.
+Through legislation, federal grants, appropriations, and Community Project Funding, I will fight to bring Minnesota projects the support needed to expand supply, strengthen unions and local businesses, renew downtown and neighborhood corridors, and keep more of the value created here working for the people who live here, with measurable results in housing, hiring, business growth, and occupied storefronts. ﻿ ﻿ Back To Top Education Minnesota values education.
 Our four-year graduation rate reached a record 84.2 percent in 2024, and nearly 40 percent of Minnesota adults hold a bachelor’s degree.
 But strong statewide numbers cannot hide the schools, neighborhoods, and students still being left behind.
 I oppose dismantling the U.S.
@@ -142,10 +99,7 @@ Schools should also be able to compete, perform, and collaborate across city and
 More students from Minneapolis public schools and other underrepresented communities should be prepared for, recruited by, and supported through four-year colleges, including the University of Minnesota.
 That requires college pathways beginning before senior year: rigorous courses, dual enrollment, mentoring, admissions and financial-aid assistance, summer bridge programs, housing support, and help remaining enrolled through graduation.
 I support expanding successful direct-admission models and pursuing responsible student-debt relief, including service-based pathways.
-Getting accepted is not enough; students must be able to arrive, belong, complete their education, and build a life with it.
-Back To Top
-Equal Opportunity [EO]
-Equal opportunity means that qualified people receive a real chance to be seen, interviewed, hired, promoted, financed, and admitted.
+Getting accepted is not enough; students must be able to arrive, belong, complete their education, and build a life with it. ﻿ Back To Top ﻿ Equal Opportunity [EO] Equal opportunity means that qualified people receive a real chance to be seen, interviewed, hired, promoted, financed, and admitted.
 I know what it is to search with every fiber of your body, know that you can perform the work, and still never receive the interview.
 Matched field studies have found Black applicants with Black names and equivalent résumés less likely to receive interview callbacks.
 Research in particular hiring settings has also found women judged less favorably when qualifications were held constant.
@@ -159,12 +113,9 @@ Americans should be able to feel patriotic because their country recognizes thei
 Equity, in this policy, means the measured correction of longstanding racial and sex-based inequities in access to education, employment, capital, and advancement.
 The civil-rights work of racial equality and equal treatment for women remains unfinished, and equity rests on our longstanding ability to observe, categorize, and correct inequity through evidence, lawful standards, and measurable results.
 In Congress, I will fight for strong enforcement against employment discrimination, transparent and job-related hiring standards, independent review of automated screening systems, and stronger pathways through schools, unions, civic organizations, apprenticeships, business financing, and professional mentorship.
-I will oppose canceling lawful education, workforce, and community grants merely because they examine disparities or expand access.
-Back To Top
-Healthcare Modernized
-America already devotes more public and private resources per person to healthcare than any comparable nation, but our fragmented system still leaves coverage incomplete, care unaffordable, and too many people unable to use the coverage they have.
+I will oppose canceling lawful education, workforce, and community grants merely because they examine disparities or expand access. ﻿ ﻿ Back To Top ﻿ Healthcare Modernized America already devotes more public and private resources per person to healthcare than any comparable nation, but our fragmented system still leaves coverage incomplete, care unaffordable, and too many people unable to use the coverage they have.
 I support a universal healthcare guarantee that builds upon Medicare, Medicaid, veterans’ care, employer and union plans, private insurance, and successful state programs.
-At its center should be a national public option that functions as a portable public option, remaining available when a person changes jobs, experiences a change in income, or moves to another state.
+At its center should be a national public option that functions as a portable public option , remaining available when a person changes jobs, experiences a change in income, or moves to another state.
 Any person should be able to choose it regardless of income, employment status, or whether another plan is offered, with supplemental coverage available where existing plans leave major gaps.
 Every person under 18, and every dependent who remains under a guardian’s care, should be automatically covered for medically necessary physical, dental, vision, and mental healthcare.
 Coverage must be affordable, usable, and connected to actual care.
@@ -180,25 +131,19 @@ People with disabilities should have streamlined access to care, equipment, tran
 Minnesota provides models worth strengthening and carrying nationally, including broad public coverage and dental, vision, and behavioral-health services.
 America has the resources to care for its people, but Congress must make healthcare a budget priority and redirect money from wasteful contracts, unnecessary wars, and excessive immigration enforcement and foreign security spending.
 No American should have to choose between insulin and rent, treatment and food, or necessary care and keeping a home, and no person should be denied coverage or charged more because of a pre-existing condition.
-Putting America first must include keeping Americans alive, healthy, and able to live with dignity.
-Back To Top
-Women's Privacy & Protection
-Pregnancy involves profound questions of health, life, conscience, and family.
+Putting America first must include keeping Americans alive, healthy, and able to live with dignity. ﻿ ﻿ Back To Top ﻿ Women's Privacy & Protection Pregnancy involves profound questions of health, life, conscience, and family.
 Before viability, that decision should remain within a woman’s sovereign sphere of privacy, made with a qualified medical provider rather than controlled by politicians.
 I oppose total and near-total abortion bans, especially restrictions that disregard pregnancy involving a minor, pregnancy caused by abuse or coercion, or serious threats to a woman’s life or health.
 I support restoring in federal law the core viability framework associated with Roe v.
 Wade and reaffirmed in Planned Parenthood v.
-Casey.
+Casey .
 Before viability, government should not prohibit the decision.
 After viability, government may act to protect potential life, while preserving medically necessary exceptions for the life or health of the woman.
 This recognizes both personal privacy and the government’s legitimate duty to protect life without allowing either principle to erase the other.
 I will defend access to contraception, maternal and emergency pregnancy care, medical privacy, and licensed reproductive-health clinics and qualified providers.
 Patients and medical workers must be protected from threats, obstruction, and political restrictions designed to close lawful clinics rather than ensure genuine medical safety.
 These restrictions are often called targeted regulation of abortion providers, or TRAP laws.
-Minnesota continues to protect reproductive decision-making, but fundamental health and privacy protections should not disappear when a woman crosses a state line.
-Back To Top
-Basic & Social Security
-Social Security is an earned promise, and Congress must protect its solvency before depleted trust-fund reserves leave the program unable to pay scheduled benefits in full.
+Minnesota continues to protect reproductive decision-making, but fundamental health and privacy protections should not disappear when a woman crosses a state line. ﻿ ﻿ Back To Top Basic & Social Security Social Security is an earned promise, and Congress must protect its solvency before depleted trust-fund reserves leave the program unable to pay scheduled benefits in full.
 I will oppose privatization, benefit cuts, and another increase in the retirement age.
 I will support a long-term solvency plan that closes the financing gap, protects retirement, survivor, and disability benefits, and does not solve the problem by shifting the burden onto workers and beneficiaries.
 Americans should not lose a job, a home, or their financial stability because they become ill, welcome a child, or need to care for family.
@@ -208,12 +153,8 @@ Minnesota is already putting this approach into practice.
 The federal goal should be to end hunger and homelessness, not merely manage them.
 I will protect food assistance, school and summer meals, senior nutrition, rental assistance, and homelessness-prevention programs.
 Federal policy should prevent eviction, move people quickly from shelters or the street into permanent housing, and provide supportive housing for people who need continuing services.
-Success should be measured by fewer people going hungry, fewer people living outside, and more people remaining safely and independently housed.
-Back To Top
-Public Safety
-Public safety is the paramount responsibility of government.
-I support comprehensive federal gun legislation that preserves the individual Second Amendment right to keep and bear arms as a constitutional safeguard of a free people, including lawful self-defense, hunting, and sporting use, while recognizing that the right is not unlimited.
-No single law or checkpoint can prevent all gun violence, so legislation must create multiple points of intervention: before a firearm reaches someone who presents a credible danger, inside the home, when warning signs are reported, and at schools, houses of worship, and other vulnerable places.
+Success should be measured by fewer people going hungry, fewer people living outside, and more people remaining safely and independently housed. ﻿ ﻿ Back To Top Public Safety Public safety is the paramount responsibility of government.
+I support comprehensive federal gun legislation that preserves the individual Second Amendment right to keep and bear arms as a constitutional safeguard of a free people, including lawful self-defense, hunting, and sporting use, while recognizing that the right is not unlimited. ﻿ No single law or checkpoint can prevent all gun violence, so legislation must create multiple points of intervention: before a firearm reaches someone who presents a credible danger, inside the home, when warning signs are reported, and at schools, houses of worship, and other vulnerable places.
 I will work with the people of Minnesota’s Fifth District to build the strongest package that can pass Congress, become law, and stop violence before the first shot is fired.
 I will fight tirelessly until the nation acknowledges its duty to prevent firearms from being used for self-harm, criminal violence, or wielded for public terror.
 Public safety also requires equal accountability.
@@ -226,10 +167,7 @@ I support clean, renewable energy and strong federal action against pollution an
 At this time, I oppose new large-scale data centers.
 Their high electricity and water demands can burden ratepayers and drain shared resources.
 Their backup generators and additional power demands can also pollute surrounding neighborhoods, while the greatest gains flow to billionaires and technology corporations rather than ordinary working people.
-Innovation must serve the public, not drain public resources and leave the public carrying the cost.
-Back To Top
-Foreign Policy
-Foreign policy requires stability, diplomacy, competence, and accountability.
+Innovation must serve the public, not drain public resources and leave the public carrying the cost. ﻿ ﻿ Back To Top ﻿ Foreign Policy Foreign policy requires stability, diplomacy, competence, and accountability.
 The President leads diplomacy and commands the armed forces, but the constitutional power to declare war and fund military operations belongs to Congress.
 I will defend Congress’s war powers and oppose unauthorized, open-ended, and forever conflicts.
 Any military action should have lawful authorization, defined objectives, public accountability, and a clear path to conclusion.
@@ -241,4 +179,5 @@ Too much has been invested in open-ended foreign military commitments while urge
 American weapons and taxpayer dollars should not make our nation complicit in preventable civilian deaths, and military assistance must remain subject to conditions, oversight, and accountability.
 I support Palestinian self-determination and U.S. recognition of a Palestinian state governed by legitimate and accountable civilian institutions, not Hamas or another terrorist organization, and committed to peace, human rights, and security for both Palestinians and Israelis.
 Palestinians must be able to remain in Gaza, return to their communities, and rebuild without forced displacement.
-I also support restoring USAID’s independent capacity and humanitarian mission so the United States can provide disaster relief, food assistance, global-health support, and long-term development rather than allowing military commitments to define our entire presence in the world.
+I also support restoring USAID’s independent capacity and humanitarian mission so the United States can provide disaster relief, food assistance, global-health support, and long-term development rather than allowing military commitments to define our entire presence in the world. ﻿ Back to Top ﻿ Paid for by Jackson For Congress 2026. info@jacksonforcongress.us © # Jackson For Congress 2026.
+All rights reserved. ﻿ Privacy Policy | Contact | Donate | Volunteer | Register to Vote ﻿ Share & Follow:

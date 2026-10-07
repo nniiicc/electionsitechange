@@ -1,47 +1,202 @@
 [
-"http://google.com/url?q=http%3A%2F%2Fconservewaterforfood.org%2F&sa=D&sntz=1&usg=AOvVaw0qCsu8Tfg-0DLn-hxpQ235",
-"https://airnow.gov/?city=Clarksburg&state=MD&country=USA",
-"https://cnn.com/2021/01/18/politics/trump-climate-legacy-bidens-challenge/index.html",
-"https://en.wikipedia.org/wiki/Green_politics",
-"https://en.wikipedia.org/wiki/Nonviolence",
-"https://en.wikipedia.org/wiki/Political_parties_in_the_United_States",
-"https://ewg.org/tapwater",
-"https://forthegenerations.org/the-federal-green-amendment",
-"https://google.com/url?q=https%3A%2F%2F8billiontrees.com%2Fcarbon-offsets-credits%2Fcarbon-ecological-footprint-calculators%2F&sa=D&sntz=1&usg=AOvVaw2mTlPSs6xds3YC6PmYBErR",
-"https://google.com/url?q=https%3A%2F%2Fconsciousplanet.org%2F&sa=D&sntz=1&usg=AOvVaw1B0RzuciTVwGe_gdS3KLrG",
-"https://google.com/url?q=https%3A%2F%2Fconsciousplanet.org%2Fsoil&sa=D&sntz=1&usg=AOvVaw28KqZGj4bZyXAE87aOeWP0",
-"https://google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSeal_of_Maryland&sa=D&sntz=1&usg=AOvVaw3EuY51slqPIbq4OgK5kEZy",
-"https://google.com/url?q=https%3A%2F%2Ffoodforestabundance.com%2F&sa=D&sntz=1&usg=AOvVaw3JbOqp9qMnXIl25z3nFICS",
-"https://google.com/url?q=https%3A%2F%2Fforest-fundraiser.raisely.com%2Fmoshe-landman%2F&sa=D&sntz=1&usg=AOvVaw1fvsJbTAqRQVDuc1zLljz_",
-"https://google.com/url?q=https%3A%2F%2Fforthegenerations.org%2F&sa=D&sntz=1&usg=AOvVaw2_UrpAWk_qkRxZoODvbVW_",
-"https://google.com/url?q=https%3A%2F%2Fmdcommunitysolar.org%2F&sa=D&sntz=1&usg=AOvVaw2gPvZ6IOWI89Abo_Ul55js",
-"https://google.com/url?q=https%3A%2F%2Fwww.climate.gov%2Fmaps-data&sa=D&sntz=1&usg=AOvVaw33qcYz2nWReqGVpWohVpqq",
-"https://google.com/url?q=https%3A%2F%2Fwww.epa.gov%2Frecycle&sa=D&sntz=1&usg=AOvVaw3vQsphFXjq4SRQPKUfe27j",
-"https://google.com/url?q=https%3A%2F%2Fwww.ewg.org%2Ftapwater%2F&sa=D&sntz=1&usg=AOvVaw0048pNMSRlTBpAokRUl31B",
-"https://google.com/url?q=https%3A%2F%2Fwww.georgetownclimate.org%2F&sa=D&sntz=1&usg=AOvVaw1pUQICyHCl8EdO0gp0FK4g",
-"https://google.com/url?q=https%3A%2F%2Fwww.worldometers.info%2F&sa=D&sntz=1&usg=AOvVaw1yWxvdVZm6TfZKmnlLrb_Y",
-"https://google.com/url?q=https%3A%2F%2Fwww3.epa.gov%2Fcarbon-footprint-calculator%2F&sa=D&sntz=1&usg=AOvVaw0Q8q6ukJzcYiHvihJioWYc",
-"https://gp.org/",
-"https://gp.org/democracy",
-"https://gp.org/ecological_sustainability",
-"https://gp.org/green_new_deal",
-"https://gp.org/platform",
-"https://gp.org/social_justice",
-"https://greenmaps.us/moshe-landman",
-"https://mdgreens.org/candidates",
-"https://mdgreens.org/liverpool_declaration",
-"https://mdgreens.org/platform",
-"https://moshelandman.us/10-key-values",
-"https://moshelandman.us/about-moshe",
-"https://moshelandman.us/contact-us",
-"https://moshelandman.us/documents-evidence",
-"https://moshelandman.us/home",
-"https://moshelandman.us/maryland",
-"https://moshelandman.us/news-social-media",
-"https://moshelandman.us/the-green-new-deal",
-"https://moshelandman.us/the-green-party",
-"https://moshelandman.us/the-issues",
-"https://moshelandman.us/vote-support-us",
-"https://www3.epa.gov/carbon-footprint-calculator",
-"https://youtube.com/channel/UCL_r1ELEvAuN0peKUxI0Umw"
+{
+"text": "10 Key Values",
+"href": "https://www.moshelandman.us/10-key-values"
+},
+{
+"text": "7th party system",
+"href": "https://en.wikipedia.org/wiki/Political_parties_in_the_United_States#:~:text=American%20electoral%20politics%20have%20been,Party%20and%20the%20Republican%20Party."
+},
+{
+"text": "About Moshe",
+"href": "https://www.moshelandman.us/about-moshe"
+},
+{
+"text": "AirNow.gov",
+"href": "https://www.airnow.gov/?city=Clarksburg&state=MD&country=USA"
+},
+{
+"text": "Campaign to Elect Moshe Landman",
+"href": "https://greenmaps.us/moshe-landman"
+},
+{
+"text": "Contact Us",
+"href": "https://www.moshelandman.us/contact-us"
+},
+{
+"text": "Documents & Evidence",
+"href": "https://www.moshelandman.us/documents-evidence"
+},
+{
+"text": "Ecological wisdom",
+"href": "https://www.gp.org/ecological_sustainability"
+},
+{
+"text": "Environment Working Group's Tap Water Database",
+"href": "https://www.ewg.org/tapwater/"
+},
+{
+"text": "Grassroots Democracy",
+"href": "https://www.gp.org/democracy"
+},
+{
+"text": "Green Party",
+"href": "https://www.gp.org/"
+},
+{
+"text": "Home",
+"href": "https://www.moshelandman.us/home"
+},
+{
+"text": "Landman for Congress",
+"href": "https://www.moshelandman.us/home"
+},
+{
+"text": "Learn more here.",
+"href": "https://www.gp.org/green_new_deal"
+},
+{
+"text": "Liverpool Declaration",
+"href": "https://www.mdgreens.org/liverpool_declaration"
+},
+{
+"text": "Many Americans have heard about the Green New Deal,",
+"href": "https://en.wikipedia.org/wiki/Nonviolence"
+},
+{
+"text": "Maryland",
+"href": "https://www.moshelandman.us/maryland"
+},
+{
+"text": "News & Social Media",
+"href": "https://www.moshelandman.us/news-social-media"
+},
+{
+"text": "Nonviolence",
+"href": "https://www.gp.org/democracy#demForeignPolicy"
+},
+{
+"text": "Read the Full Green Party Platform Here",
+"href": "https://www.gp.org/platform"
+},
+{
+"text": "Social Justice",
+"href": "https://www.gp.org/social_justice"
+},
+{
+"text": "Ten Key Values",
+"href": "https://www.moshelandman.us/10-key-values"
+},
+{
+"text": "The Green New Deal",
+"href": "https://www.moshelandman.us/the-green-new-deal"
+},
+{
+"text": "The Green Party",
+"href": "https://www.moshelandman.us/the-green-party"
+},
+{
+"text": "The Issues",
+"href": "https://www.moshelandman.us/the-issues"
+},
+{
+"text": "U.S. Environmental Protection Agency's Carbon Footprint Calculator.",
+"href": "https://www3.epa.gov/carbon-footprint-calculator/"
+},
+{
+"text": "Vote & Support Us",
+"href": "https://www.moshelandman.us/vote-support-us"
+},
+{
+"text": "We demand that our United States Congress (as well as the State of Maryland) propose and support an amendment to the Bill of Rights section of our U.S. Constitution (as well as the Maryland Declaration of Rights) that include, at a minimum, the following rights, recognitions, and protections:",
+"href": "https://forthegenerations.org/the-federal-green-amendment/"
+},
+{
+"text": "[image]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Fconservewaterforfood.org%2F&sa=D&sntz=1&usg=AOvVaw0qCsu8Tfg-0DLn-hxpQ235"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2F8billiontrees.com%2Fcarbon-offsets-credits%2Fcarbon-ecological-footprint-calculators%2F&sa=D&sntz=1&usg=AOvVaw2mTlPSs6xds3YC6PmYBErR"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fconsciousplanet.org%2F&sa=D&sntz=1&usg=AOvVaw1B0RzuciTVwGe_gdS3KLrG"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fconsciousplanet.org%2Fsoil&sa=D&sntz=1&usg=AOvVaw28KqZGj4bZyXAE87aOeWP0"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSeal_of_Maryland&sa=D&sntz=1&usg=AOvVaw3EuY51slqPIbq4OgK5kEZy"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Ffoodforestabundance.com%2F&sa=D&sntz=1&usg=AOvVaw3JbOqp9qMnXIl25z3nFICS"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fforest-fundraiser.raisely.com%2Fmoshe-landman%2F&sa=D&sntz=1&usg=AOvVaw1fvsJbTAqRQVDuc1zLljz_"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fforthegenerations.org%2F&sa=D&sntz=1&usg=AOvVaw2_UrpAWk_qkRxZoODvbVW_"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fmdcommunitysolar.org%2F&sa=D&sntz=1&usg=AOvVaw2gPvZ6IOWI89Abo_Ul55js"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.climate.gov%2Fmaps-data&sa=D&sntz=1&usg=AOvVaw33qcYz2nWReqGVpWohVpqq"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.epa.gov%2Frecycle&sa=D&sntz=1&usg=AOvVaw3vQsphFXjq4SRQPKUfe27j"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.ewg.org%2Ftapwater%2F&sa=D&sntz=1&usg=AOvVaw0048pNMSRlTBpAokRUl31B"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.georgetownclimate.org%2F&sa=D&sntz=1&usg=AOvVaw1pUQICyHCl8EdO0gp0FK4g"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.worldometers.info%2F&sa=D&sntz=1&usg=AOvVaw1yWxvdVZm6TfZKmnlLrb_Y"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww3.epa.gov%2Fcarbon-footprint-calculator%2F&sa=D&sntz=1&usg=AOvVaw0Q8q6ukJzcYiHvihJioWYc"
+},
+{
+"text": "[image]",
+"href": "https://www.moshelandman.us/home"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/channel/UCL_r1ELEvAuN0peKUxI0Umw"
+},
+{
+"text": "[image]Landman for Congress",
+"href": "https://www.moshelandman.us/home"
+},
+{
+"text": "a disaster for environmentalists",
+"href": "https://www.cnn.com/2021/01/18/politics/trump-climate-legacy-bidens-challenge/index.html"
+},
+{
+"text": "candidates",
+"href": "https://www.mdgreens.org/candidates"
+},
+{
+"text": "green politics",
+"href": "https://en.wikipedia.org/wiki/Green_politics"
+},
+{
+"text": "real solutions to real problems",
+"href": "https://www.mdgreens.org/platform"
+}
 ]

@@ -1,43 +1,11 @@
-Constitutional Law.
+0 Skip to Content Home Donate Lectures Academic Lectures Non-Academic Lectures Litigation Victories Active Appellate Litigation Petitions to the United States Supreme Court Schooling and Scholarship Endorsements Donate Open Menu Close Menu Home Donate Lectures Academic Lectures Non-Academic Lectures Litigation Victories Active Appellate Litigation Petitions to the United States Supreme Court Schooling and Scholarship Endorsements Donate Open Menu Close Menu Home Donate Folder: Lectures Back Academic Lectures Non-Academic Lectures Folder: Litigation Back Victories Active Appellate Litigation Petitions to the United States Supreme Court Schooling and Scholarship Endorsements Donate Constitutional Law.
 Public Service.
 Due Process.
 Former constitutional rights attorney with over a decade of experience litigating landmark cases at the state and federal levels.
 Currently running for Justice for Texas’ Fourteenth Court of Appeals.
-About
-For more than ten years, I practiced constitutional rights law in Houston, Texas, handling complex, high-impact cases involving civil liberties, government accountability, and due process.
+About For more than ten years, I practiced constitutional rights law in Houston, Texas, handling complex, high-impact cases involving civil liberties, government accountability, and due process.
 My work has contributed to the development of clearly established constitutional rights and has been recognized at the highest levels of the legal profession.
 In 2023, my career transitioned into public service and serving the People of Texas as a staff attorney for the Fifth District Court of Appeals.
 Now I’m running for a seat on Houston’s Fourteenth Court of Appeals to protect the rights of the People and zealously guard the rule of law and the Constitution.
-Professional Career
-Staff Attorney
-Fifth Court of Appeals, Dallas, Texas
-2023 - present
-Partner in a Constitutional and Civil RIghts Law Firm
-Demond Law Firm - 2019-2023
-Demond & Hassan, PLLC - 2011-2018
-Secured two clearly established constitutional rights at the Fifth Circuit: The right to film police officers & the right to pre-compliance review of administrative subpoenas
-Career Highlights
-Notable Legal Achievements
-Won the largest internet defamation verdict in the United States at the time
-Conducted the first known sealed deposition of grand jurors in Texas history
-Inducted into Texas Lawyers' Verdicts Hall of Fame
-Named Texas Super Lawyer (one of only two in constitutional law)
-Court Appointments
-Public Trust
-I have been regularly appointed by courts in various capacities, including:
-- Ad litem for Harris County inmates in Covid-19 confinement litigation (successful outcome)
-- Habeas master
-- Ad litem for parents and minors in complex due-process matters
-- Ad litem for Mandarin-speaking minors
-- Ad litem in over 50 tax forfeiture cases to ensure constitutional compliance
-Select Litigation
-Advocacy
-Represented detainees during the implementation of the federal "travel ban" at George Bush Intercontinental Airport
-Served as attorneys' liaison with local law enforcement
-Successfully represented 39 school employees in a federal age-discrimination lawsuit
-Litigated cases against police officers and municipalities for constitutional violations
-Obtained Texas' only known temporary restraining order halting the Keystone XL pipeline under the Texas Antiquities Code
-Education
-Global Perspective
-Master of Arts in Diplomacy and International Relations
-My academic work emphasized international justice, governance, and human rights—perspectives that continue to inform my judicial and legal approach today.
+Professional Career Staff Attorney Fifth Court of Appeals, Dallas, Texas 2023 - present Partner in a Constitutional and Civil RIghts Law Firm Demond Law Firm - 2019-2023 Demond & Hassan, PLLC - 2011-2018 Secured two clearly established constitutional rights at the Fifth Circui t: The right to film police officers & the right to pre-compliance review of administrative subpoenas Career Highlights Notable Legal Achievements Won the largest internet defamation verdict in the United States at the time Conducted the first known sealed deposition of grand jurors in Texas history Inducted into Texas Lawyers' Verdicts Hall of Fame Named Texas Super Lawyer (one of only two in constitutional law) Court Appointments Public Trust I have been regularly appointed by courts in various capacities, including: Ad litem for Harris County inmates in Covid-19 confinement litigation (successful outcome) Habeas master Ad litem for parents and minors in complex due-process matters Ad litem for Mandarin-speaking minors Ad litem in over 50 tax forfeiture cases to ensure constitutional compliance Learn more Select Litigation Advocacy Represented detainees during the implementation of the federal "travel ban" at George Bush Intercontinental Airport Served as attorneys' liaison with local law enforcement Successfully represented 39 school employees in a federal age-discrimination lawsuit Litigated cases against police officers and municipalities for constitutional violations Obtained Texas' only known temporary restraining order halting the Keystone XL pipeline under the Texas Antiquities Code Education Global Perspective Master of Arts in Diplomacy and International Relations My academic work emphasized international justice, governance, and human rights—perspectives that continue to inform my judicial and legal approach today.
+Quick Link Home Donate Litigation Lectures Schooling and Scholarship Endorsements Contact campaign@williamdemond.com Donate Now! © Copywright # by William Demond All Rights Reserved.

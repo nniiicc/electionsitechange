@@ -1,13 +1,7 @@
-Addressing the Housing Crisis
-More Homes, Greater Affordability
-Whatcom County is facing a serious housing shortage.
-The Affordability Gap
-- Median home price: Approximately $590,000
-- Income needed to purchase a home: Approximately $145,000
-- Average household income: $81,784
-Millennials and Gen Z can’t afford homeownership in Whatcom County.
+top of page About Erika About Erika Contact About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog Menu Close Donate Addressing the Housing Crisis More Homes, Greater Affordability Whatcom County is facing a serious housing shortage.
+The Affordability Gap Median home price: Approximately $590,000 Income needed to purchase a home: Approximately $145,000 Average household income: $81,784 Millennials and Gen Z can’t afford homeownership in Whatcom County.
 They’re living with families longer or being forced to leave the area.
 When housing and living costs are high, it’s harder for our community to attract living-wage employers.
-Supporting Local Employers
-Businesses across Whatcom County are working hard to provide competitive wages, but they are also facing increased costs from taxes, regulations, and government mandates.
+Supporting Local Employers Businesses across Whatcom County are working hard to provide competitive wages, but they are also facing increased costs from taxes, regulations, and government mandates.
 To improve affordability, we need policies that support economic growth, job creation, and responsible housing development.
+Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About Erika About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page

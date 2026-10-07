@@ -1,18 +1,16 @@
-Eugene Mayor: “Christine Drazan’s only record on Oregon’s homelessness crisis is that she chose partisanship and corporate special interests over Oregonians”
-[Salem, OR] – Local elected officials from Beaverton, Eugene, and Salem joined Tina Kotek for a press conference in Salem yesterday to set the record straight on Republican Christine Drazan’s failed record on homelessness.
+Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Skip to content Chip In to Help Reelect Tina Kotek Donate Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate October 18, 2022 Local Elected Officials Set the Record Straight on Christine Drazan’s Failed Record on Homelessness Eugene Mayor: “Christine Drazan’s only record on Oregon’s homelessness crisis is that she chose partisanship and corporate special interests over Oregonians” [Salem, OR] – Local elected officials from Beaverton, Eugene, and Salem joined Tina Kotek for a press conference in Salem yesterday to set the record straight on Republican Christine Drazan’s failed record on homelessness.
 Almost three years ago, Tina Kotek called for a state of emergency on Oregon’s homelessness crisis and laid out a plan to invest over $120 million to support more homeless navigation centers/shelters around the state and build more affordable housing.
 But a few weeks later, Christine Drazan led the House Republican Caucus to walk off the job, killing the homelessness package that Tina developed.
 “When Christine Drazan walked out of the legislature, she walked out on the most vulnerable people I know,” said Salem City Councilor Vanessa Nordyke.
 “Thanks to that walkout, the City of Salem had to postpone its plans to open the navigation center, and since that walkout, far too many residents of Salem have died living on our streets.
-We’ll never know how many of those people would have been saved by a navigation center, by a tiny connection to services that work.”
-“While Tina was fighting to get more homeless Oregonians into housing, Chrisitne Drazan was stomping her feet and walking off of the job.
+We’ll never know how many of those people would have been saved by a navigation center, by a tiny connection to services that work.” “While Tina was fighting to get more homeless Oregonians into housing, Chrisitne Drazan was stomping her feet and walking off of the job.
 As a veteran, I’m troubled that someone who was elected to serve our communities would go AWOL,” said Beaverton Mayor Lacey Beaty.
 “We need a governor who will stay at the table to come up with solutions, even when it’s hard – especially when it’s hard … The so-called ‘new direction’ Drazan is offering will take us down the wrong track, and it won’t solve a single one of our problems.
-In fact, it will make it worse.”
-“Twelve days after Republicans walked out, Eugene was compelled to shut down because of COVID, cutting in half the number of homeless Oregonians we could accommodate in our shelters,” said Eugene Mayor Lucy Vinis.
+In fact, it will make it worse.” “Twelve days after Republicans walked out, Eugene was compelled to shut down because of COVID, cutting in half the number of homeless Oregonians we could accommodate in our shelters,” said Eugene Mayor Lucy Vinis.
 “The walkout left our city without the promise of state resources to help us meet the critically dramatic need in our city … Christine Drazan’s only record on Oregon’s homelessness crisis is that she chose partisanship and corporate special interests over Oregonians.
-She hasn’t done anything to help but she has done a lot to make it worse.”
-“I want to speak directly to Oregonians who are fed up with how things are going, who no longer want to see their neighbors living on the streets.
+She hasn’t done anything to help but she has done a lot to make it worse.” “I want to speak directly to Oregonians who are fed up with how things are going, who no longer want to see their neighbors living on the streets.
 I promise you this: I will lead where Kate Brown didn’t.
 I will roll up my sleeves, I will put a strategic plan in place, I will make sure that our government is accountable,” said Tina Kotek, Democratic candidate for governor.
-“And unlike Christine Drazan, I will never walk off the job.”
+“And unlike Christine Drazan, I will never walk off the job.” Join us!
+Fighting for progress takes all of us.
+Join Team Tina today and become part of the movement fighting for Oregon’s future. press@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.

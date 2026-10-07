@@ -1,8 +1,46 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://mattesonnh.com/blog",
-"https://mattesonnh.com/blog/every-kid-needs-a-pet",
-"https://mattesonnh.com/blog/flowers-dreams-neighbors",
-"https://mattesonnh.com/contact"
+{
+"text": "Contact",
+"href": "https://mattesonnh.com/contact"
+},
+{
+"text": "Contact Form",
+"href": "https://mattesonnh.com/contact"
+},
+{
+"text": "Every Kid Needs a Pet",
+"href": "https://mattesonnh.com/blog/every-kid-needs-a-pet"
+},
+{
+"text": "Flowers, Dreams, Neighbors",
+"href": "https://mattesonnh.com/blog/flowers-dreams-neighbors"
+},
+{
+"text": "I Like Gary Too",
+"href": "https://mattesonnh.com/contact"
+},
+{
+"text": "Join the Campaign",
+"href": "https://mattesonnh.com/contact"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Read more →",
+"href": "https://mattesonnh.com/blog/every-kid-needs-a-pet"
+},
+{
+"text": "Read more →",
+"href": "https://mattesonnh.com/blog/flowers-dreams-neighbors"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "View all posts →",
+"href": "https://mattesonnh.com/blog"
+}
 ]

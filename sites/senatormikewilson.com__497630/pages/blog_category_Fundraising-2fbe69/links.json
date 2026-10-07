@@ -1,9 +1,54 @@
 [
-"https://senatormikewilson.com/",
-"https://senatormikewilson.com/blog",
-"https://senatormikewilson.com/blog?category=Campaign",
-"https://senatormikewilson.com/blog?category=Fundraising",
-"https://senatormikewilson.com/blog?category=Policy",
-"https://senatormikewilson.com/service",
-"https://senatormikewilson.com/video"
+{
+"text": "About Mike",
+"href": "https://www.senatormikewilson.com/#about-section"
+},
+{
+"text": "All",
+"href": "https://www.senatormikewilson.com/blog"
+},
+{
+"text": "Blog",
+"href": "https://www.senatormikewilson.com/blog"
+},
+{
+"text": "Campaign",
+"href": "https://www.senatormikewilson.com/blog?category=Campaign"
+},
+{
+"text": "Donate",
+"href": "https://www.senatormikewilson.com/#donate-section"
+},
+{
+"text": "Fundraising",
+"href": "https://www.senatormikewilson.com/blog?category=Fundraising"
+},
+{
+"text": "Home",
+"href": "https://www.senatormikewilson.com/#home-section"
+},
+{
+"text": "Policy",
+"href": "https://www.senatormikewilson.com/blog?category=Policy"
+},
+{
+"text": "Service",
+"href": "https://www.senatormikewilson.com/service"
+},
+{
+"text": "Video",
+"href": "https://www.senatormikewilson.com/video"
+},
+{
+"text": "Volunteer",
+"href": "https://www.senatormikewilson.com/#volunteer-section"
+},
+{
+"text": "Welcome",
+"href": "https://www.senatormikewilson.com/"
+},
+{
+"text": "[image: Mike Wilson for State Senate]",
+"href": "https://www.senatormikewilson.com/"
+}
 ]

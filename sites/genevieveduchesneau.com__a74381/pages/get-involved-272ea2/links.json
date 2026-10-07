@@ -1,13 +1,62 @@
 [
-"https://genforr8.com/",
-"https://genforr8.com/about",
-"https://genforr8.com/accessibility",
-"https://genforr8.com/contact",
-"https://genforr8.com/donate",
-"https://genforr8.com/events",
-"https://genforr8.com/get-involved",
-"https://genforr8.com/issues",
-"https://genforr8.com/privacy-policy",
-"https://mvp.vermont.gov/",
-"https://sos.vermont.gov/elections/voters/registration"
+{
+"text": "About",
+"href": "https://genforr8.com/about/"
+},
+{
+"text": "Accessibility",
+"href": "https://genforr8.com/accessibility/"
+},
+{
+"text": "Contact",
+"href": "https://genforr8.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://genforr8.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://genforr8.com/events/"
+},
+{
+"text": "Find your polling place",
+"href": "https://mvp.vermont.gov"
+},
+{
+"text": "Genevieve Duchesneau for Rutland-8",
+"href": "https://genforr8.com/"
+},
+{
+"text": "Get involved",
+"href": "https://genforr8.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://genforr8.com/"
+},
+{
+"text": "Issues",
+"href": "https://genforr8.com/issues/"
+},
+{
+"text": "Offer to host",
+"href": "https://genforr8.com/contact/"
+},
+{
+"text": "Privacy",
+"href": "https://genforr8.com/privacy-policy/"
+},
+{
+"text": "Register to vote",
+"href": "https://sos.vermont.gov/elections/voters/registration"
+},
+{
+"text": "Sign up to help",
+"href": "https://genforr8.com/contact/"
+},
+{
+"text": "events page",
+"href": "https://genforr8.com/events/"
+}
 ]

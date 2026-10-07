@@ -1,22 +1,94 @@
 [
-"http://helenafoulkes.com/rhodehome",
-"https://docs.google.com/forms/d/1jqqM1BwqBDNcXcpgJiLjkgeUVF2CGgdUf8Eii33I2iI/viewform?ts=6a233105&edit_requested=true",
-"https://facebook.com/helena4RI",
-"https://helenafoulkes.com/",
-"https://helenafoulkes.com/endorsements",
-"https://helenafoulkes.com/get-involved",
-"https://helenafoulkes.com/knowaguy",
-"https://helenafoulkes.com/nofalsechoices",
-"https://helenafoulkes.com/plans",
-"https://helenafoulkes.com/privacy-policy",
-"https://helenafoulkes.com/reformdot",
-"https://helenafoulkes.com/vote",
-"https://helenafoulkes.com/wp-content/uploads/2026/05/Childcare-Transportation.pdf",
-"https://helenafoulkes.com/wp-content/uploads/2026/05/Classroom-to-Career.pdf",
-"https://helenafoulkes.com/wp-content/uploads/2026/06/Believe-in-Rhode-Island-Creating-Growing-Good-Paying-Jobs.pdf",
-"https://helenafoulkes.com/wp-content/uploads/2026/07/Reimagining-Rhode-Island-Healthcare.pdf",
-"https://instagram.com/helenabfoulkes",
-"https://secure.actblue.com/donate/helena4ri-website",
-"https://store.helenafoulkes.com/",
-"https://x.com/HelenaBFoulkes"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/helena4ri-website"
+},
+{
+"text": "Endorsements",
+"href": "https://helenafoulkes.com/endorsements/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/helena4RI"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://docs.google.com/forms/d/1jqqM1BwqBDNcXcpgJiLjkgeUVF2CGgdUf8Eii33I2iI/viewform?ts=6a233105&edit_requested=true"
+},
+{
+"text": "Home",
+"href": "https://helenafoulkes.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/helenabfoulkes/"
+},
+{
+"text": "Plans",
+"href": "https://helenafoulkes.com/plans/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://helenafoulkes.com/privacy-policy/"
+},
+{
+"text": "Read the Plan",
+"href": "http://helenafoulkes.com/rhodehome"
+},
+{
+"text": "Read the Plan",
+"href": "https://helenafoulkes.com/knowaguy"
+},
+{
+"text": "Read the Plan",
+"href": "https://helenafoulkes.com/nofalsechoices"
+},
+{
+"text": "Read the Plan",
+"href": "https://helenafoulkes.com/reformdot"
+},
+{
+"text": "Read the Plan",
+"href": "https://helenafoulkes.com/wp-content/uploads/2026/05/Childcare-Transportation.pdf"
+},
+{
+"text": "Read the Plan",
+"href": "https://helenafoulkes.com/wp-content/uploads/2026/05/Classroom-to-Career.pdf"
+},
+{
+"text": "Read the Plan",
+"href": "https://helenafoulkes.com/wp-content/uploads/2026/06/Believe-in-Rhode-Island-Creating-Growing-Good-Paying-Jobs.pdf"
+},
+{
+"text": "Read the Plan",
+"href": "https://helenafoulkes.com/wp-content/uploads/2026/07/Reimagining-Rhode-Island-Healthcare.pdf"
+},
+{
+"text": "Store",
+"href": "https://store.helenafoulkes.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://helenafoulkes.com/get-involved/"
+},
+{
+"text": "Vote",
+"href": "https://helenafoulkes.com/vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/HelenaBFoulkes"
+},
+{
+"text": "[image: Helena Buonanno Foulkes Logo]",
+"href": "https://helenafoulkes.com/"
+},
+{
+"text": "info@helenafoulkes.com",
+"href": "mailto:info@helenafoulkes.com"
+},
+{
+"text": "press@helenafoulkes.com",
+"href": "mailto:press@helenafoulkes.com"
+}
 ]

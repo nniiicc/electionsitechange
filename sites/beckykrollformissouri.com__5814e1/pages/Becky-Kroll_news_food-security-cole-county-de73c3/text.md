@@ -1,6 +1,6 @@
-There’s something simple about food that most of us don’t think twice about until it gets harder.
+About Becky Issues Get Involved Events Updates Donate Now Home About Becky Issues Get Involved Events Updates Donate Now April 29, 2026 Food Security & Cole County There’s something simple about food that most of us don’t think twice about until it gets harder.
 I once read a post that stuck with me.
-The question was, “What’s something from your childhood you’d never repeat with your kids?” One person answered that they grew up eating flour and water pancakes most nights.
+The question was, “ What’s something from your childhood you’d never repeat with your kids ?” One person answered that they grew up eating flour and water pancakes most nights.
 They basically ate paste to keep from going to bed hungry.
 That story has stayed with me because it’s a reminder that food insecurity isn’t loud.
 It doesn’t always look the way people expect, but it’s real and it’s closer than we think.
@@ -65,3 +65,4 @@ It’s about access, distance, and the reality of everyday life for people in ou
 It’s about recognizing that not everyone starts from the same place, and that something as basic as getting groceries can look very different depending on where you live.
 Food isn’t a luxury.
 It’s something every person needs, every single day, and when access to it depends on distance, cost, or availability, that’s something worth paying attention to.
+Support Becky Kroll’s Campaign for Missouri Donate Now Becky Kroll For Missouri 1603 Kroll Road, Lohman, Mo 65053 tel:573-690-3431 | becky@beckykrollformissouri.com Melba Price, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

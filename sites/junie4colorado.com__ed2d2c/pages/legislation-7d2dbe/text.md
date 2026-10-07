@@ -1,467 +1,266 @@
-My Legislation
-Listed below are the the details of details & summaries regarding all 74 bills I passed and signed by the Governor in the 2026, 2025, 2024, and 2023 legislative sessions, organized by issue.
-To keep the most up to date with the status of my bills, please check out my General Assembly website.
-Committee Assignments
-Year Around Committees:
-House Energy & Environment - 4 Years
-The House Energy & Environment Committee generally considers matters concerning energy and environment.
-In addition, the committee also has legislative oversight responsibility for divisions of the Department of Natural Resources and Department of Public Health and Environment, the Public Utilities Commission, and the Colorado Energy Office.
-Committee on Legislative Services - 3 Years
-The Committee on Legal Services is the legislative oversight committee for the Office of Legislative Legal Services and oversees the review of executive branch agency rules among other legislative duties.
-Appropriations - 3 Years
-The House Appropriations Committee conducts hearings on bills that change expenditures or revenues and affect the budget.
+top of page Home About Junie Photo & Video Gallery Stances Read More Legislation Newsroom Get Involved Your Community More Use tab to navigate through the menu items.
+DONATE My Legislation Listed below are the the details of details & summaries regarding all 74 bills I passed and signed by the Governor in the 2026, 2025, 2024, and 2023 legislative sessions, organized by issue.
+To keep the most up to date with the status of my bills, please check out my General Assembly website .
+Committee Assignments Year Around Committees: House Energy & Environment - 4 Years The House Energy & Environment Committee generally considers matters concerning energy and environment.
+In addition, the committee also has legislative oversight responsibility for divisions of the Department of Natural Resources and Department of Public Health and Environment, the Public Utilities Commission, and the Colorado Energy Office. ​ Committee on Legislative Services - 3 Years The Committee on Legal Services is the legislative oversight committee for the Office of Legislative Legal Services and oversees the review of executive branch agency rules among other legislative duties. ​ Appropriations - 3 Years The House Appropriations Committee conducts hearings on bills that change expenditures or revenues and affect the budget.
 The Committee typically reserves discussion for the fiscal impact of the bills.
-Many of the bills considered by the Committee have had hearings in other committees before being referred to Appropriations and for those bills that have previously had a hearing the Committee does not customarily take public testimony.
-Aerospace and Defense Caucus Co-Chair - 4 years
-The Caucus consists of state legislators who advocates for the massive impact that the space and defense industries have on the state's economy within the state.
-Serving on the Finance Committee
-Past Interim Committees
-Child Welfare System Study Committee
-Child Welfare is an area that deeply impacts so many Coloradans lives in direct and meaningful ways.
+Many of the bills considered by the Committee have had hearings in other committees before being referred to Appropriations and for those bills that have previously had a hearing the Committee does not customarily take public testimony. ​ Aerospace and Defense Caucus Co-Chair - 4 years The Caucus consists of state legislators who advocates for the massive impact that the space and defense industries have on the state's economy within the state. ​ Serving on the Finance Committee Past Interim Committees Child Welfare System Study Committee Child Welfare is an area that deeply impacts so many Coloradans lives in direct and meaningful ways.
 This interim committee will be taking a holistic look at Colorado's child welfare system to address the major factors facing the system to better serve the state's children and families.
-The responsibility of examining a system that is designed to promote the well-being of our most vulnerable community members is one I do not take lightly.
-American Indian Affairs Committee
-This is a newly founded committee.
+The responsibility of examining a system that is designed to promote the well-being of our most vulnerable community members is one I do not take lightly. ​ American Indian Affairs Committee This is a newly founded committee.
 I was one of the legislators involved in spearheading the creation of this committee to foster better relations between the State of Colorado and Native Coloradans.
-2026
-Legislation
-Listed below are details & summaries regarding all 14 bills I spearheaded and signed by the Governor in the 2026 legislative session, organized by issue.
-Public Safety and Criminal Justice Reform
-This session, I passed 3 bills to support workers and organizations in the criminal justice system.
-HB26-1127: Reporting After Fatal Car Crash
-Session : 2026 | Status: SIGNED ✅| Sponsors: Representative Joseph, Representative Rutinel, Senator Roberts
-Summary: The bill updates Colorado's crash reporting requirements by eliminating the monthly requirement for coroners to report traffic-related deaths to the Department of Transportation while requiring coroners to submit all available toxicology results for individuals who die as a result of a motor vehicle crash by the end of each calendar quarter.
+2026 Legislation Listed below are details & summaries regarding all 14 bills I spearheaded and signed by the Governor in the 2026 legislative session, organized by issue.
+Public Safety and Criminal Justice Reform This session, I passed 3 bills to support workers and organizations in the criminal justice system.
+HB26-1127: Reporting After Fatal Car Crash Session : 2026 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Rutinel, Senator Roberts Summary: The bill updates Colorado's crash reporting requirements by eliminating the monthly requirement for coroners to report traffic-related deaths to the Department of Transportation while requiring coroners to submit all available toxicology results for individuals who die as a result of a motor vehicle crash by the end of each calendar quarter.
 The bill also requires law enforcement agencies to file an amended crash report within five days if a person involved in a crash dies within 30 days of the incident.
-To read more, click here.
-HB26-1288: Jury Selection Requirements
-Session : 2026 | Status: SIGNED ✅| Sponsors: Representative Joseph, Representative Carter, Senator Roberts, Senator Wallace
-Summary: The bill creates a Jury Selection Working Group within the Judicial Department to identify best practices and recommend changes to laws or court rules aimed at improving Colorado's jury selection process.
+To read more, click here .
+HB26-1288: Jury Selection Requirements Session : 2026 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Carter, Senator Roberts, Senator Wallace Summary: The bill creates a Jury Selection Working Group within the Judicial Department to identify best practices and recommend changes to laws or court rules aimed at improving Colorado's jury selection process.
 The working group will submit a final report to the General Assembly's judiciary committees and the Colorado Supreme Court, and any recommendations for rule changes will require a public response from the Court that will be posted online for transparency and public access.
-To read more, click here.
-SB26-132: Voluntary Alcohol Breath Test
-Session : 2026 | Status: SIGNED ✅| Sponsors: Senator Roberts, Senator Carson, Representative Joseph, Representative Soper
-Summary: The bill requires law enforcement officers, with certain exceptions, to offer drivers involved in crashes resulting in death or suspected serious bodily injury the opportunity to voluntarily take a preliminary breath alcohol screening test after informing them that participation is optional.
+To read more, click here .
+SB26-132: Voluntary Alcohol Breath Test Session : 2026 | Status: SIGNED ✅ | Sponsors: Senator Roberts, Senator Carson, Representative Joseph, Representative Soper Summary: The bill requires law enforcement officers, with certain exceptions, to offer drivers involved in crashes resulting in death or suspected serious bodily injury the opportunity to voluntarily take a preliminary breath alcohol screening test after informing them that participation is optional.
 If a test cannot be administered due to equipment issues or other circumstances beyond the officer's control, the officer must document the reason, and the bill provides funding to Colorado Parks and Wildlife to support implementation.
-To read more, click here.
-Environmental Justice
-In total, I have passed 3 bills to support our environment and work towards a cleaner Colorado.
-HB26-1135: Transparency of Chemicals Used in Hair Products
-Session: 2026 | Status: SIGNED ✅| Sponsors: Representative Joseph, Representative English, Senator Benavidez, Senator Marchman
-Summary: The bill requires manufacturers of hair relaxers and hairpiece products sold in Colorado to clearly label products containing intentionally added carcinogens or reproductive toxicants beginning July 1, 2027, unless the products are sold exclusively for professional use.
+To read more, click here .
+Environmental Justice In total, I have passed 3 bills to support our environment and work towards a cleaner Colorado.
+HB26-1135: Transparency of Chemicals Used in Hair Products Session: 2026 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative English, Senator Benavidez, Senator Marchman Summary: The bill requires manufacturers of hair relaxers and hairpiece products sold in Colorado to clearly label products containing intentionally added carcinogens or reproductive toxicants beginning July 1, 2027, unless the products are sold exclusively for professional use.
 Failure to comply with these labeling requirements will be considered a deceptive trade practice, and the Attorney General may update the requirements through rulemaking beginning in 2028.
-To read more, click here.
-Session : 2026 | Status: SIGNED ✅| Sponsors: Representative Joseph, Representative Ricks, Senator Marchman, Senator Benavidez
-Summary: The bill requires Colorado's largest transit agencies to improve access to public transportation by providing clear and up-to-date maps, fare information, and details about discount programs at stations, stops, and online, while also ensuring that transit information is available in widely spoken languages within the communities they serve.
+To read more, click here .
+HB26-1269: Transit Access Session : 2026 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Ricks, Senator Marchman, Senator Benavidez Summary: The bill requires Colorado's largest transit agencies to improve access to public transportation by providing clear and up-to-date maps, fare information, and details about discount programs at stations, stops, and online, while also ensuring that transit information is available in widely spoken languages within the communities they serve.
 Beginning in 2028, covered transit agencies must publicly report their progress each year to the Governor and the General Assembly.
-To read more, click here.
-SB26-142: Development of Thermal Energy Resources
-Session : 2026 | Status: SIGNED ✅| Sponsors: Senator Ball, Senator Kipp, Representative Joseph, Representative Gonzalez
-Summary: The bill expands Colorado's investment in geothermal energy by allowing local governments to finance thermal energy networks, increasing the maximum size of community geothermal gardens from 5 to 25 megawatts, and directing state agencies to study and support the development of geothermal resources.
+To read more, click here .
+SB26-142: Development of Thermal Energy Resources Session : 2026 | Status: SIGNED ✅ | Sponsors: Senator Ball, Senator Kipp, Representative Joseph, Representative Gonzalez Summary: The bill expands Colorado's investment in geothermal energy by allowing local governments to finance thermal energy networks, increasing the maximum size of community geothermal gardens from 5 to 25 megawatts, and directing state agencies to study and support the development of geothermal resources.
 The bill also requires investor-owned utilities to seek proposals for new geothermal energy projects and submit viable projects for review by the Public Utilities Commission.
-To read more, click here.
-Housing Reform
-During this session, I passed 2 bills to support equity within Colorado's housing crisis.
-HB26-1196: Tenant Data Information
-Session: 2026 | Status: SIGNED ✅| Sponsors: Representative Joseph, Representative English, Senator Benavidez
-Summary: The bill strengthens tenant privacy protections by requiring landlords to follow court rules for protecting and redacting personal identifying information in eviction filings and related documents.
+To read more, click here .
+Housing Reform During this session, I passed 2 bills to support equity within Colorado's housing crisis.
+HB26-1196: Tenant Data Information Session: 2026 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative English, Senator Benavidez Summary: The bill strengthens tenant privacy protections by requiring landlords to follow court rules for protecting and redacting personal identifying information in eviction filings and related documents.
 It also requires rental applications to disclose what information will be reviewed during tenant screening, the factors considered when evaluating applicants, and whether a third-party screening service is used.
-To read more, click here.
-SB26-109: Building Code Accessibility
-Session: 2026 | Status: SIGNED ✅| Sponsors: Senator Exum, Senator Cutter, Representative Joseph, Representative Ricks
-Summary: The bill updates Colorado’s accessible housing standards by clarifying definitions, including what qualifies as an accessible story, dwelling unit, and applicable accessibility standards.
+To read more, click here .
+SB26-109: Building Code Accessibility Session: 2026 | Status: SIGNED ✅ | Sponsors: Senator Exum, Senator Cutter, Representative Joseph, Representative Ricks Summary: The bill updates Colorado’s accessible housing standards by clarifying definitions, including what qualifies as an accessible story, dwelling unit, and applicable accessibility standards.
 It establishes requirements for accessible units in housing developments based on project size, including a minimum percentage of accessible units for larger projects, and allows enforcement agencies to create alternative processes for resolving disputes related to accessibility requirements.
-To read more, click here.
-Early Childhood and Education
-During this session, I passed 3 bills to support our children and education.
-HB26-1143: Non-Employment Education Opportunities Background Check Information
-Session : 2026 | Status: SIGNED ✅| Sponsors: Representative Joseph, Representative Ricks, Senator Weissman, Senator Benavidez
-Summary: The bill allows individuals applying for non-employment educational opportunities that require background checks to use a taxpayer identification number instead of a Social Security number in most cases, expanding access to educational and clinical training programs.
+To read more, click here .
+Early Childhood and Education During this session, I passed 3 bills to support our children and education.
+HB26-1143: Non-Employment Education Opportunities Background Check Information Session : 2026 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Ricks, Senator Weissman, Senator Benavidez Summary: The bill allows individuals applying for non-employment educational opportunities that require background checks to use a taxpayer identification number instead of a Social Security number in most cases, expanding access to educational and clinical training programs.
 For positions involving vulnerable populations, institutions may also accept fingerprint-based background checks as an alternative, and entities that fail to comply with these requirements may face civil penalties enforced by the Attorney General.
-To read more, click here.
-HB26-1244: CDPHE Nursing Home Penalty Fund
-Session: 2026 | Status: SIGNED ✅| Sponsors: Representative Joseph, Representative Slaugh, Senator Frizell, Senator Exum
-Summary: The bill This legislation updates the Nursing Home Penalty Cash Fund grant process by aligning grant priorities and allowable uses with federal guidance from the Centers for Medicare and Medicaid Services.
+To read more, click here .
+HB26-1244: CDPHE Nursing Home Penalty Fund Session: 2026 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Slaugh, Senator Frizell, Senator Exum Summary: The bill This legislation updates the Nursing Home Penalty Cash Fund grant process by aligning grant priorities and allowable uses with federal guidance from the Centers for Medicare and Medicaid Services.
 It also updates reporting deadlines, expands eligible activities to include staff training and education, and removes restrictions preventing certain governmental entities from applying for or receiving grants.
-To read more, click here.
-SB26-050: Child Care Center Required Policy Disclosures
-Session: 2026 | Status: SIGNED ✅| Sponsors: Senator Marchman, Senator Bright, Representative Joseph, Representative Soper
-Summary: The bill requires child care centers to provide parents and guardians with additional information in their policies and procedures, including notice that child care workers are mandatory reporters of child abuse or neglect under state law.
+To read more, click here .
+SB26-050: Child Care Center Required Policy Disclosures Session: 2026 | Status: SIGNED ✅ | Sponsors: Senator Marchman, Senator Bright, Representative Joseph, Representative Soper Summary: The bill requires child care centers to provide parents and guardians with additional information in their policies and procedures, including notice that child care workers are mandatory reporters of child abuse or neglect under state law.
 Child care centers that use video recording equipment must also disclose the presence of the equipment and explain their policies for using and managing recorded footage.
-To read more, click here.
-Healthcare and Reproductive Justice
-During this session, I passed 2 bills to support Health Care and Reproductive Justice.
-HB26-1044: Measures to Improve Black Maternal Health Equity
-Session: 2026 | Status: SIGNED ✅| Sponsors: Representative Joseph, Representative English, Senator Exum, Senator Benavidez
-Summary: The bill advances maternal health equity in Colorado by strengthening cultural competency training for health care providers, expanding maternal health data collection, and ensuring that birthing parents receive information about their rights and protections during labor and delivery.
+To read more, click here .
+Healthcare and Reproductive Justice During this session, I passed 2 bills to support Health Care and Reproductive Justice.
+HB26-1044: Measures to Improve Black Maternal Health Equity Session: 2026 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative English, Senator Exum, Senator Benavidez Summary: The bill advances maternal health equity in Colorado by strengthening cultural competency training for health care providers, expanding maternal health data collection, and ensuring that birthing parents receive information about their rights and protections during labor and delivery.
 The bill also increases representation for communities experiencing the worst maternal health outcomes and enhances state reporting and accountability efforts to address disparities in maternal mortality.
-To read more, click here.
-HB26-1139: Use of Artificial Intelligence in Health Care
-Session: 2026 | Status: SIGNED ✅| Sponsors: Representative Joseph, Representative Lieder, Senator Cutter, Senator Daugherty
-Summary: The bill establishes safeguards for the use of artificial intelligence in health care coverage decisions by requiring insurers and other health care entities to ensure that AI systems consider a patient's individual medical circumstances, are subject to human oversight, and do not discriminate or rely solely on generalized data.
+To read more, click here .
+HB26-1139: Use of Artificial Intelligence in Health Care Session: 2026 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Lieder, Senator Cutter, Senator Daugherty Summary: The bill establishes safeguards for the use of artificial intelligence in health care coverage decisions by requiring insurers and other health care entities to ensure that AI systems consider a patient's individual medical circumstances, are subject to human oversight, and do not discriminate or rely solely on generalized data.
 The bill also prohibits coverage denials based solely on AI-generated decisions and bans the use of AI systems to provide psychotherapy services directly to patients under certain public health programs.
-To read more, click here.
-Immigration Protection and Equity
-During this session, I passed 2 bill to support Immigration Reform.
-HB26-1109: Sign Language Consumer Protection Study
-Session : 2026 | Status: SIGNED ✅| Sponsors: Representative Joseph, Representative K.
-Stewart, Senator Danielson
-Summary: The bill authorizes the communication services for people with disabilities enterprise board, in consultation with the division for the deaf, hard of hearing, and deafblind, to enter into a contract with a third-party researcher to study sign language interpretation services for the deaf, hard of hearing, and deafblind community in the state.
-To read more, click here.
-HB26-1283: Protections Regarding Seizures of Identification Documents
-Session : 2026 | Status: SIGNED ✅| Sponsors: Representative Joseph, Representative Ricks, Senator Marchman, Senator Benavidez
-Summary: The bill prohibits employers from demanding, confiscating, or retaining an employee's or job applicant's government-issued identification documents, including those of migrant and seasonal workers, except in limited circumstances allowed by law.
+To read more, click here .
+Immigration Protection and Equity During this session, I passed 2 bill to support Immigration Reform.
+HB26-1109: Sign Language Consumer Protection Study Session : 2026 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative K.
+Stewart, Senator Danielson Summary: The bill authorizes the communication services for people with disabilities enterprise board, in consultation with the division for the deaf, hard of hearing, and deafblind, to enter into a contract with a third-party researcher to study sign language interpretation services for the deaf, hard of hearing, and deafblind community in the state.
+To read more, click here .
+HB26-1283: Protections Regarding Seizures of Identification Documents Session : 2026 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Ricks, Senator Marchman, Senator Benavidez Summary: The bill prohibits employers from demanding, confiscating, or retaining an employee's or job applicant's government-issued identification documents, including those of migrant and seasonal workers, except in limited circumstances allowed by law.
 Knowingly violating this prohibition is a class 2 misdemeanor, while using or threatening to use an individual's identification documents to intimidate, harass, or target them based on characteristics such as race, religion, national origin, disability, sexual orientation, or transgender identity constitutes a bias-motivated crime and is punishable as a class 1 misdemeanor, with additional legal remedies available to victims.
-To read more, click here.
-2025
-Legislation
-Listed below are details & summaries regarding all 24 bills I spearheaded and signed by the Governor in the 2025 legislative session, organized by issue.
-Public Safety and Criminal Justice Reform
-This session, I passed 6 bills to support workers and organizations in the criminal justice system.
-HB25-1117: Vehicle Immobilization Company Regulation
-Session: 2025 | Status: SIGNED ✅| Sponsors: Representative Joseph, Representative Boesenecker, Senator Gonzales, Senator Weissman
-Summary: The act strengthens regulations on vehicle immobilization ("booting") by requiring permits for any device that prevents normal vehicle operation and granting the Public Utilities Commission authority to deny or revoke permits for public interest concerns.
+To read more, click here .
+2025 Legislation Listed below are details & summaries regarding all 24 bills I spearheaded and signed by the Governor in the 2025 legislative session, organized by issue.
+Public Safety and Criminal Justice Reform This session, I passed 6 bills to support workers and organizations in the criminal justice system.
+HB25-1117: Vehicle Immobilization Company Regulation Session: 2025 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Boesenecker, Senator Gonzales, Senator Weissman Summary: The act strengthens regulations on vehicle immobilization ("booting") by requiring permits for any device that prevents normal vehicle operation and granting the Public Utilities Commission authority to deny or revoke permits for public interest concerns.
 It sets strict standards for documentation, identification, signage, and notice before immobilizing a vehicle on private property, and prohibits booting in certain situations—such as expired registration or inaccessible private property without consent.
 Companies must follow clear rules on payment, release times, and signage, and must retain evidence of compliance.
 Violations are considered deceptive trade practices and may be enforced by the attorney general or district attorneys.
-To read more, click here.
-HB25-1238: Gun Show Requirements
-Session : 2025 | Status: SIGNED ✅| Sponsors: Representative Joseph, Representative Camacho, Senator Kipp, Senator Danielson
-Summary: The act requires gun show promoters to submit security plans to local law enforcement, carry liability insurance, enforce security measures, and verify firearm delivery after a 3-day waiting period.
+To read more, click here .
+HB25-1238: Gun Show Requirements Session : 2025 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Camacho, Senator Kipp, Senator Danielson Summary: The act requires gun show promoters to submit security plans to local law enforcement, carry liability insurance, enforce security measures, and verify firearm delivery after a 3-day waiting period.
 It restricts entry for minors and mandates posting notices.
 Vendors must be licensed, certified, and comply with strict safety and legal requirements, including conducting background checks without a capped fee.
 Violations lead to misdemeanor charges and potential bans from future gun shows.
 Gun collectors shows are exempt from these rules.
-To read more, click here.
-HB25-1294: Court Costs Assessed to Juveniles
-Session : 2025 | Status: SIGNED ✅| Sponsors: Representative Jackson, Representative Joseph, Senatot Exum, Senator Gonzales
-Summary: Current law requires a court to vacate any court costs and fees assessed to a juvenile under the jurisdiction of the juvenile court prior to July 6, 2021, however, this requirement repeals on June 30, 2025.
+To read more, click here .
+HB25-1294: Court Costs Assessed to Juveniles Session : 2025 | Status: SIGNED ✅ | Sponsors: Representative Jackson, Representative Joseph, Senatot Exum, Senator Gonzales Summary: Current law requires a court to vacate any court costs and fees assessed to a juvenile under the jurisdiction of the juvenile court prior to July 6, 2021, however, this requirement repeals on June 30, 2025.
 The act removes the June 30, 2025 repeal.
-To read more, click here.
-SB25-009: Recognition of Tribal Court Orders
-Session: 2025 | Status: SIGNED ✅| Sponsors: Senator Roberts, Senator Danielson, Representative Weinberg, Representative Joseph
-Summary: The act requires state courts and law enforcement to recognize and enforce arrest warrants and behavioral health commitment orders issued by Tribal courts, treating them like equivalent state court orders.
+To read more, click here .
+SB25-009: Recognition of Tribal Court Orders Session: 2025 | Status: SIGNED ✅ | Sponsors: Senator Roberts, Senator Danielson, Representative Weinberg, Representative Joseph Summary: The act requires state courts and law enforcement to recognize and enforce arrest warrants and behavioral health commitment orders issued by Tribal courts, treating them like equivalent state court orders.
 It also establishes procedures for extradition based on Tribal warrants and mandates that all relevant state agencies honor any Tribal court orders rescinding such commitments.
-To read more, click here.
-SB25-061: Federally Recognized Tribes and Construction of Laws
-Session : 2025 | Status: SIGNED ✅| Sponsors: Senator Simpson, Representative Weinberg, Reprepresentative Joseph
-Summary: The act establishes that Colorado laws do not apply to the Southern Ute or Ute Mountain Ute Tribes unless explicitly stated, presuming new or amended laws do not apply within tribal reservations or to tribal entities unless clearly expressed, while preserving tribal sovereignty, the ability to request legislative inclusion, and legal rights for contesting laws.
-To read more, click here.
-SB25-082: Enactment of CRS 2024
-Session : 2025 | Status: SIGNED ✅| Sponsors: Senator Gonzales, Senator Frizell, Representative Joseph, Representative Soper
-Summary: The bill enacts the softbound volumes of the Colorado Revised Statutes 2024, the subsequent changes approved by the voters at the statewide election on November 5, 2024, and the 2024 Colorado Second Extraordinary Session Supplement as the positive and statutory law of the state of Colorado and establishes the effective date of said publication.
-To read more, click here.
-Environmental Justice
-In total, I have passed 8 bills to support our environment and work towards a cleaner Colorado.
-HB25-1009: Vegetative Fuel Mitigation
-Session: 2025 | Status: SIGNED ✅| Sponsors: Representative Mauro, Representative Joseph, Senator Cutter, Senator Hinrichsen
-Summary: The act allows fire protection and metropolitan districts to create programs requiring the removal of dead or dry vegetation on private property to reduce wildfire risk.
+To read more, click here .
+SB25-061: Federally Recognized Tribes and Construction of Laws Session : 2025 | Status: SIGNED ✅ | Sponsors: Senator Simpson, Representative Weinberg, Reprepresentative Joseph Summary: The act establishes that Colorado laws do not apply to the Southern Ute or Ute Mountain Ute Tribes unless explicitly stated, presuming new or amended laws do not apply within tribal reservations or to tribal entities unless clearly expressed, while preserving tribal sovereignty, the ability to request legislative inclusion, and legal rights for contesting laws.
+To read more, click here .
+SB25-082: Enactment of CRS 2024 Session : 2025 | Status: SIGNED ✅ | Sponsors: Senator Gonzales, Senator Frizell, Representative Joseph, Representative Soper Summary: The bill enacts the softbound volumes of the Colorado Revised Statutes 2024, the subsequent changes approved by the voters at the statewide election on November 5, 2024, and the 2024 Colorado Second Extraordinary Session Supplement as the positive and statutory law of the state of Colorado and establishes the effective date of said publication.
+To read more, click here .
+Environmental Justice In total, I have passed 8 bills to support our environment and work towards a cleaner Colorado.
+HB25-1009: Vegetative Fuel Mitigation Session: 2025 | Status: SIGNED ✅ | Sponsors: Representative Mauro, Representative Joseph, Senator Cutter, Senator Hinrichsen Summary: The act allows fire protection and metropolitan districts to create programs requiring the removal of dead or dry vegetation on private property to reduce wildfire risk.
 These programs exclude agricultural land, utility-managed areas, and land near irrigation ditches.
 Districts must give written notice and cannot enter private property without permission or use drones for enforcement.
 Any collected funds must support fuel removal, with priority for low-income, senior, or disabled residents.
 Programs must be publicly approved and posted before taking effect.
-To read more, click here.
-HB25-1175: Smart Meter Opt-In Program
-Session : 2025 | Status: SIGNED ✅| Sponsors: Representative Leider, Representative Joseph, Senator Rodriguez
-Summary: The act requires large investor-owned utilities installing smart meters after September 1, 2025, to submit a customer communication plan by December 31, 2025, detailing how they will inform customers of installation timelines, opt-out rights, and meter alternatives.
+To read more, click here .
+HB25-1175: Smart Meter Opt-In Program Session : 2025 | Status: SIGNED ✅ | Sponsors: Representative Leider, Representative Joseph, Senator Rodriguez Summary: The act requires large investor-owned utilities installing smart meters after September 1, 2025, to submit a customer communication plan by December 31, 2025, detailing how they will inform customers of installation timelines, opt-out rights, and meter alternatives.
 Utilities must give multiple advance notices, maintain a public website and phone line with information on customer rights and data privacy, and ensure smart meters comply with federal radio frequency standards.
-To read more, click here.
-HB25-1215: Redistribution of Lottery Fund
-Session: 2025 | Status: SIGNED ✅| Sponsors: Representative Taggart, Representative Joseph, Sensator Bridges, Senator Kirkmeyer
-Summary: The act creates two new cash funds to support outdoor recreation management and economic development, redistributes lottery funds to support these efforts, and sets new priorities for how lottery money is allocated based on total availability.
+To read more, click here .
+HB25-1215: Redistribution of Lottery Fund Session: 2025 | Status: SIGNED ✅ | Sponsors: Representative Taggart, Representative Joseph, Sensator Bridges, Senator Kirkmeyer Summary: The act creates two new cash funds to support outdoor recreation management and economic development, redistributes lottery funds to support these efforts, and sets new priorities for how lottery money is allocated based on total availability.
 It directs specific fund transfers to the development fund in 2025 and appropriates over $723,000 for the Outdoor Recreation Industry Office, with unspent funds available through 2028.
-To read more, click here.
-HB25-1292: Transmission Lines in State Highway Rights-of-Way
-Session : 2025 | Status: SIGNED ✅| Sponsors: Representative Boesenecker, Representative Joseph, Senator Winter
-Summary: The act allows transmission developers to co-locate high voltage lines within state highway rights-of-way following rules set by the Department of Transportation, including providing reports on route selection and impact mitigation.
+To read more, click here .
+HB25-1292: Transmission Lines in State Highway Rights-of-Way Session : 2025 | Status: SIGNED ✅ | Sponsors: Representative Boesenecker, Representative Joseph, Senator Winter Summary: The act allows transmission developers to co-locate high voltage lines within state highway rights-of-way following rules set by the Department of Transportation, including providing reports on route selection and impact mitigation.
 Developers must prioritize existing utility corridors and rights-of-way but are not required to use them.
 Projects on tribal lands require tribal consent.
 The Colorado Electric Transmission Authority will study highway corridors for potential transmission development and report findings.
 The act also updates the definition of real estate appraiser to align with federal law.
-To read more, click here.
-SB25-026: Adjusting Certain Tax Expenditures
-Session: 2025 | Status: SIGNED ✅| Sponsors: Senator Mullica, Representative Marshall, Representative Joseph
-Summary: The act updates various tax credits and exemptions, extends deadlines for energy storage and biotechnology tax credits, clarifies purposes for certain tax benefits, exempts some agricultural products from sales tax, and appropriates funds for implementation.
-To read more, click here.
-Session : 2025 | Status: SIGNED ✅| Sponsors: Senator Danielson, Representative Joseph, Representative Velasco
-Summary: The act classifies bison as big game wildlife—making hunting them illegal without authorization—while excluding livestock and tribal-owned bison; it sets hunting license fees at $374.22 for residents and $2,756.74 for nonresidents, and imposes fines and penalties for illegal possession, killing, or capturing of bison.
-To read more, click here.
-SB25-055: Youth Involvement in Environmental Justice
-Session: 2025 | Status: SIGNED ✅| Sponsors: Senator Winter, Senator Marchman, Representative Joseph, Representative Bacon
-Summary: The act expands the environmental justice advisory board to include youth members aged 14 to 21 and requires the Colorado energy office to develop and regularly update best practices for adopting and financing clean energy resources in schools, posting them online by December 31, 2025.
-To read more, click here.
-SB25-321: Motor Vehicle Emissions Inspection Facilities
-Session : 2025 | Status: SIGNED ✅| Sponsors: Senator Kirkmeyer, Senator Rodriguez, Representative Joseph, Representative Gonzalez
-Summary: The act removes limits on vehicle emissions testing contracts and lets the state set fees up to $30–$50.
+To read more, click here .
+SB25-026: Adjusting Certain Tax Expenditures Session: 2025 | Status: SIGNED ✅ | Sponsors: Senator Mullica, Representative Marshall, Representative Joseph Summary: The act updates various tax credits and exemptions, extends deadlines for energy storage and biotechnology tax credits, clarifies purposes for certain tax benefits, exempts some agricultural products from sales tax, and appropriates funds for implementation.
+To read more, click here .
+SB25-053: Protect Wild Bison Session : 2025 | Status: SIGNED ✅ | Sponsors: Senator Danielson, Representative Joseph, Representative Velasco Summary: The act classifies bison as big game wildlife—making hunting them illegal without authorization—while excluding livestock and tribal-owned bison; it sets hunting license fees at $374.22 for residents and $2,756.74 for nonresidents, and imposes fines and penalties for illegal possession, killing, or capturing of bison.
+To read more, click here .
+SB25-055: Youth Involvement in Environmental Justice Session: 2025 | Status: SIGNED ✅ | Sponsors: Senator Winter, Senator Marchman, Representative Joseph, Representative Bacon Summary: The act expands the environmental justice advisory board to include youth members aged 14 to 21 and requires the Colorado energy office to develop and regularly update best practices for adopting and financing clean energy resources in schools, posting them online by December 31, 2025.
+To read more, click here .
+SB25-321: Motor Vehicle Emissions Inspection Facilities Session : 2025 | Status: SIGNED ✅ | Sponsors: Senator Kirkmeyer, Senator Rodriguez, Representative Joseph, Representative Gonzalez Summary: The act removes limits on vehicle emissions testing contracts and lets the state set fees up to $30–$50.
 It requires emissions testing for certain vehicles and creates a fund to help low-income drivers pay inspection fees and repairs, using fines from air quality violations.
-To read more, click here.
-Housing Reform
-During this session, I passed 2 bills to support equity within Colorado's housing crisis.
-Bill Signing for HB25-1030
-HB25-1030: Accessibility Standards in Building Codes
-Session: 2025 | Status: SIGNED ✅| Sponsors: Representative Joseph, Representative Stewart, Sensator Cutter, Senator Winter
-Summary: The act requires local governments, regional building departments, the Division of Fire Prevention and Control, and the State Housing Board to ensure that any major updates to building codes meet or exceed the accessibility standards in the International Building Code and are not less protective than the federal ADA.
+To read more, click here .
+Housing Reform During this session, I passed 2 bills to support equity within Colorado's housing crisis.
+Bill Signing for HB25-1030 HB25-1030: Accessibility Standards in Building Codes Session: 2025 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Stewart, Sensator Cutter, Senator Winter Summary: The act requires local governments, regional building departments, the Division of Fire Prevention and Control, and the State Housing Board to ensure that any major updates to building codes meet or exceed the accessibility standards in the International Building Code and are not less protective than the federal ADA.
 This does not apply to energy-efficient code updates or to one- and two-family homes and townhomes that meet equivalent residential code standards.
-To read more, click here.
-HB25-1240: Protections for Tenants with Housing Subsidies
-Session : 2025 | Status: SIGNED ✅| Sponsors: Representative Joseph, Representative Froelich, Senator Winter, Senator Wallace
-Summary: The act requires landlords to follow federal notice rules when evicting tenants using housing subsidies and mandates reimbursement for rent overpayments due to habitability violations, regardless of payment source.
+To read more, click here .
+HB25-1240: Protections for Tenants with Housing Subsidies Session : 2025 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Froelich, Senator Winter, Senator Wallace Summary: The act requires landlords to follow federal notice rules when evicting tenants using housing subsidies and mandates reimbursement for rent overpayments due to habitability violations, regardless of payment source.
 It prohibits landlords from unfairly delaying or obstructing rental assistance applications and increases damages to at least $5,000 for discrimination based on housing subsidy use.
 The Colorado Civil Rights Commission may also impose a minimum $5,000 penalty for such unfair housing practices.
-To read more, click here.
-Early Childhood and Education
-During this session, I passed 4 bills to support our children and education.
-HB25-1159: Child Support Commission Recommendations
-Session: 2025 | Status: SIGNED ✅| Sponsors: Representative English, Representative Joseph, Senator Mullica, Senator Bright
-Summary: The act adopts recommendations from the Child Support Commission by updating the child support guidelines schedule, expanding eligibility for low-income adjustments, and replacing the existing parenting time credit with a new formula that accounts for all overnight stays with each parent.
+To read more, click here .
+Early Childhood and Education During this session, I passed 4 bills to support our children and education.
+HB25-1159: Child Support Commission Recommendations Session: 2025 | Status: SIGNED ✅ | Sponsors: Representative English, Representative Joseph, Senator Mullica, Senator Bright Summary: The act adopts recommendations from the Child Support Commission by updating the child support guidelines schedule, expanding eligibility for low-income adjustments, and replacing the existing parenting time credit with a new formula that accounts for all overnight stays with each parent.
 It also allocates $137,250 to the Office of Information Technology to support the Department of Human Services.
-To read more, click here.
-HB25-1204: Colorado Indian Child Welfare Act
-Session : 2025 | Status: SIGNED ✅| Sponsors: Majority Leader Duran, Representative Joseph, Senator Danielson
-Summary: The act codifies the federal "Indian Child Welfare Act of 1978" into state law as the "Colorado Indian Child Welfare Act" (CO-ICWA) and provides additional protections for Indian children and children known or determined to be Indian children under state law.
-To read more, click here.
-SB25-017: Measures to Support Early Childhood Health
-Session: 2025 | Status: SIGNED ✅| Sponsors: Senator Cutter, Senator Jodeh, Representative Joseph, Representative Zokaie
-Summary: The act establishes the Pediatric Primary Care Practice Program within the Department of Early Childhood to fund and support pediatric medical practices in integrating specialists focused on whole-child and whole-family health.
+To read more, click here .
+HB25-1204: Colorado Indian Child Welfare Act Session : 2025 | Status: SIGNED ✅ | Sponsors: Majority Leader Duran, Representative Joseph, Senator Danielson Summary: The act codifies the federal "Indian Child Welfare Act of 1978" into state law as the "Colorado Indian Child Welfare Act" (CO-ICWA) and provides additional protections for Indian children and children known or determined to be Indian children under state law.
+To read more, click here .
+SB25-017: Measures to Support Early Childhood Health Session: 2025 | Status: SIGNED ✅ | Sponsors: Senator Cutter, Senator Jodeh, Representative Joseph, Representative Zokaie Summary: The act establishes the Pediatric Primary Care Practice Program within the Department of Early Childhood to fund and support pediatric medical practices in integrating specialists focused on whole-child and whole-family health.
 An implementation partner will develop and oversee an evidence-based, team-based care model for children birth to age three, select participating practices, assess community health needs, and provide training and support.
 The department’s executive director may adopt rules to implement the program.
-To read more, click here.
-SB25-027: Trauma-Informed School Safety Practices
-Session : 2025 | Status: SIGNED ✅| Sponsors: Senator Marchman, Representative Joseph, Representative Gonzalez
-Summary: The act requires the Office of School Safety to form a work group by September 1, 2025, funded entirely by donations, to develop trauma-informed best practices for school safety drills and personnel training, with recommendations due about a year after funding is secured; if $50,000 in funding isn’t received by mid-2027, any funds will be transferred to the state education fund.
-To read more, click here.
-LBGTQIA Rights, Immigration, and Reproductive Justice
-During this session, I passed 4 bills to support LBGTQIA Rights, Immigration Reform, and Reproductive Justice.
-HB25-1153: Statewide Government Language Access Assessment
-Session: 2025 | Status: SIGNED ✅| Sponsors: Representative Velasco, Representative Joseph, Senator Jodeh
-Summary: The act requires the Department of Personnel, in partnership with the Office of New Americans, to assess how well state agencies (excluding the departments of State, Treasury, and Law) are meeting language access standards.
+To read more, click here .
+SB25-027: Trauma-Informed School Safety Practices Session : 2025 | Status: SIGNED ✅ | Sponsors: Senator Marchman, Representative Joseph, Representative Gonzalez Summary: The act requires the Office of School Safety to form a work group by September 1, 2025, funded entirely by donations, to develop trauma-informed best practices for school safety drills and personnel training, with recommendations due about a year after funding is secured; if $50,000 in funding isn’t received by mid-2027, any funds will be transferred to the state education fund.
+To read more, click here .
+LBGTQIA Rights, Immigration, and Reproductive Justice During this session, I passed 4 bills to support LBGTQIA Rights, Immigration Reform, and Reproductive Justice.
+HB25-1153: Statewide Government Language Access Assessment Session: 2025 | Status: SIGNED ✅ | Sponsors: Representative Velasco, Representative Joseph, Senator Jodeh Summary: The act requires the Department of Personnel, in partnership with the Office of New Americans, to assess how well state agencies (excluding the departments of State, Treasury, and Law) are meeting language access standards.
 The assessment will review current practices, identify gaps, and make recommendations to improve linguistically accessible services, including exploring technology solutions.
 A final report is due by December 31, 2026, and the findings must be shared with legislative committees in 2027. $100,000 is appropriated to support this work.
-To read more, click here.
-HB25-1234: Utility Consumer Protection
-Session : 2025 | Status: SIGNED ✅| Sponsors: Representative Ricks, Representative Joseph, Senator Winter, Senator Wallace
-Summary: The act prohibits the Department of Human Services from requiring or sharing applicants’ citizenship or immigration status for the low-income home energy assistance program unless legally required.
+To read more, click here .
+HB25-1234: Utility Consumer Protection Session : 2025 | Status: SIGNED ✅ | Sponsors: Representative Ricks, Representative Joseph, Senator Winter, Senator Wallace Summary: The act prohibits the Department of Human Services from requiring or sharing applicants’ citizenship or immigration status for the low-income home energy assistance program unless legally required.
 If an application is denied for incomplete documentation, the applicant must be notified and given 60 days to fix it, during which the utility must hold off on disconnecting their service for up to 60 days.
-To read more, click here.
-SB25-001: Colorado Voting Rights Act
-Session : 2025 | Status: SIGNED ✅| Sponsors: Senator Gonzales, Representative Bacon, Representative Joseph
-Summary: The act establishes the Colorado Voting Rights Act to prevent voter suppression and dilution based on race, language, gender identity, sexual orientation, or jail confinement, allowing civil suits and enforcement by the attorney general.
+To read more, click here .
+SB25-001: Colorado Voting Rights Act Session : 2025 | Status: SIGNED ✅ | Sponsors: Senator Gonzales, Representative Bacon, Representative Joseph Summary: The act establishes the Colorado Voting Rights Act to prevent voter suppression and dilution based on race, language, gender identity, sexual orientation, or jail confinement, allowing civil suits and enforcement by the attorney general.
 It improves tribal voting access, requires political parties to offer equal remote voting options, and extends electioneering restrictions to drop boxes.
 The act mandates voting notices in disability care facilities, updates recount procedures, expands multilingual ballot requirements to certain municipalities, and requires comprehensive election data collection.
 Funding is provided for implementation, with the law effective for elections from January 2026 onward.
-To read more, click here.
-Bill Signing for SB25-129
-SB25-129: Legally Protected Health-Care Activity Protections
-Session : 2025 | Status: SIGNED ✅| Sponsors: Senator Cutter, Senator Winter, Representative Joseph, Representative McCormick
-Summary: The act protects legally protected health-care activities—such as gender-affirming care and reproductive services—by ensuring out-of-state telehealth rules don’t limit patient rights, allowing prescription labels to show only the health-care practice name, restricting subpoenas tied to liability investigations, providing a private right to challenge out-of-state legal actions, exempting from warrantless arrests for such activities, limiting public resource use in out-of-state probes, and keeping pregnancy termination data confidential, all enforced by the attorney general.
-To read more, click here.
-2024
-Legislation
-Listed below are details & summaries regarding all 17 bills I spearheaded and signed by the Governor in the 2024 legislative session, organized by issue.
-Courts and Judiciary
-During this session, I passed 2 bills to support workers and organizations in the criminal justice system.
-HB24-1291: Licensed Legal Paraprofessionals
-Session: 2024 | Status: SIGNED ✅| Sponsors: Representative English, Representative Joseph, Senator Roberts, Senator Gardner
-Summary: This bill approved the licensure of legal paraprofessionals to represent clients and perform certain legal services related to domestic matters.
+To read more, click here .
+Bill Signing for SB25-129 SB25-129: Legally Protected Health-Care Activity Protections Session : 2025 | Status: SIGNED ✅ | Sponsors: Senator Cutter, Senator Winter, Representative Joseph, Representative McCormick Summary: The act protects legally protected health-care activities—such as gender-affirming care and reproductive services—by ensuring out-of-state telehealth rules don’t limit patient rights, allowing prescription labels to show only the health-care practice name, restricting subpoenas tied to liability investigations, providing a private right to challenge out-of-state legal actions, exempting from warrantless arrests for such activities, limiting public resource use in out-of-state probes, and keeping pregnancy termination data confidential, all enforced by the attorney general.
+To read more, click here .
+2024 Legislation Listed below are details & summaries regarding all 17 bills I spearheaded and signed by the Governor in the 2024 legislative session, organized by issue.
+Courts and Judiciary During this session, I passed 2 bills to support workers and organizations in the criminal justice system.
+HB24-1291: Licensed Legal Paraprofessionals Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative English, Representative Joseph, Senator Roberts, Senator Gardner Summary: This bill approved the licensure of legal paraprofessionals to represent clients and perform certain legal services related to domestic matters.
 This bill ensures access to justice for indigent families.
 To read more, click here.
-HB24-1286: Equal Justice Fund Authority
-Session : 2024 | Status: SIGNED ✅| Sponsors: Representative Joseph, Representative Lindsay, Senator Roberts, Senator Priola
-Summary: This bill creates the equal justice fund authority as a special purpose authority to administer the equal justice fund for the purpose of providing monetary support to local organizations that provide legal representation and legal advice to low-income individuals.
+HB24-1286: Equal Justice Fund Authority Session : 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Lindsay, Senator Roberts, Senator Priola Summary: This bill creates the equal justice fund authority as a special purpose authority to administer the equal justice fund for the purpose of providing monetary support to local organizations that provide legal representation and legal advice to low-income individuals.
 The bill requires certain court filings to incur an additional $20 filing fee that must be annually deposited into the equal justice fund.
 The bill prohibits a judge from requiring indigent parties to pay the docket fee for a civil action.
 To read more, click here.
-Children and Domestic Matters
-I passed 6 bills that focused on ensuring that children have access to the childcare and resources they need.
-HB24-1009: Bilingual Childcare Licensing Resources
-Session: 2024 | Status: SIGNED ✅| Sponsors: Representative McLachlan, Representative Joseph, Senator Ginal, Senator Rich
-Summary: The bill creates the bilingual licensing unit within the the Department of Early Childhood, which requires the Department to offer services in prevalent languages (i.e., Spanish) for those wishing to work in childcare services.
-To read more, see here
-HB24-1170: Rights for Youth Division of Youth Services Facilities
-Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Ortiz, Senator Gonzalez, Senator Michaelson Jenet
-Summary: This bill establishes a detailed bill of rights for incarcerated youths with special provisions for to protect and promote the rights of LGBTQ+ Youths.
-To read more, see here.
-HB24-1031: Accessibility for Persons in Child Welfare Matters
-Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Bradley, Senator Kirkmeyer, Senator Michaelson Jenet
-Summary: This bill concerns measures to increase language access to persons involved in the child welfare system.
-To read more, see here.
-SB24-113: Safer Youth Sports
-Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Wilford, Senator Exum, Senator Coleman
-Summary: The bill mandates that nonprofit and for-profit youth sports organizations adhere to certain requirements, in order to protect children and youth from child abuse in sports.To read more, see here.
-SB24-200: Equity, Diversity, & Inclusion in Child Welfare
-Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Bacon, Senator Coleman, Senator Michaelson Jenet
-Summary: The bill mandates the Department of Human Services to annually update its equity, diversity, and inclusion report, addressing data challenges and training progress in child welfare, strengthen DEI training.
-To read more, see here.
-SB24-202: Assignment of Child Support Foster Youth
-Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Epps, Senator Fields
-Summary: The bill eliminates the requirement for a court order to impose fees on parents who are going through the child welfare system.
-To read more, see here.
-Fiscal Policy and Taxes
-This session I passed 2 bills pertaining to taxes, a key issue to the finances of my constituency.
-HB24-1142: Reduce Income Tax Social Security Benefits
-Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Holtorf, Senator Winter, Senator Pelton
-Summary: The bill expands the current income tax subtraction for social security benefits.
+Children and Domestic Matters I passed 6 bills that focused on ensuring that children have access to the childcare and resources they need.
+HB24-1009: Bilingual Childcare Licensing Resources Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative McLachlan, Representative Joseph, Senator Ginal, Senator Rich Summary: The bill creates the bilingual licensing unit within the the Department of Early Childhood, which requires the Department to offer services in prevalent languages (i.e., Spanish) for those wishing to work in childcare services.
+To read more, see here HB24-1170: Rights for Youth Division of Youth Services Facilities Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Ortiz, Senator Gonzalez, Senator Michaelson Jenet Summary: This bill establishes a detailed bill of rights for incarcerated youths with special provisions for to protect and promote the rights of LGBTQ+ Youths.
+To read more, see here .
+HB24-1031: Accessibility for Persons in Child Welfare Matters Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Bradley, Senator Kirkmeyer, Senator Michaelson Jenet Summary: This bill concerns measures to increase language access to persons involved in the child welfare system.
+To read more, see here .
+SB24-113: Safer Youth Sports Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Wilford, Senator Exum, Senator Coleman Summary: The bill mandates that nonprofit and for-profit youth sports organizations adhere to certain requirements, in order to protect children and youth from child abuse in sports.
+To read more, see here .
+SB24-200: Equity, Diversity, & Inclusion in Child Welfare Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Bacon, Senator Coleman, Senator Michaelson Jenet Summary: The bill mandates the Department of Human Services to annually update its equity, diversity, and inclusion report, addressing data challenges and training progress in child welfare, strengthen DEI training .
+To read more, see here .
+SB24-202: Assignment of Child Support Foster Youth Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Epps, Senator Fields Summary: The bill eliminates the requirement for a court order to impose fees on parents who are going through the child welfare system.
+To read more, see here .
+Fiscal Policy and Taxes This session I passed 2 bills pertaining to taxes, a key issue to the finances of my constituency.
+HB24-1142: Reduce Income Tax Social Security Benefits Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Holtorf, Senator Winter, Senator Pelton Summary: The bill expands the current income tax subtraction for social security benefits.
 Current law allows any individual who is 65 years of age or older at the close of a taxable year to subtract the total amount of social security benefits that the individual received from the individual's federal taxable income, to the extent those benefits were included in federal taxable income, when determining the individual's state taxable income.
 The bill expands this subtraction to an individual who is 55 years of age or older but less than 65 years of age and whose adjusted gross income for the applicable tax year is less than or equal to $75,000 if filing individually or $95,000 if filing jointly.
 The bill requires the department of revenue to collect information necessary to measure the effectiveness of the income tax subtraction.
-To read more, see here.
-HB24-1240: AmeriCorps Education Award Tax Subtraction
-Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Weinberg, Senator Rich, Senator Exum
-Summary: The bill creates an income tax subtraction for the next 3 income tax years between 2026 to 2033 for the amount of any Segal AmeriCorps Education Award received by a taxpayer for service in the AmeriCorps national service program.
-To read more, see here.
-Ensuring Healthy Communities
-These are 2 bills that will promote our access to healthcare and a sustainable environment.
-HB24-1449: Environmental Sustainability Circular Economy
-Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Lindsay, Senator Cutter, Senator Priola
-Summary: the Bill repealed and replaced existing waste management programs, and created the Colorado Circular Communities Enterprise to provide grants and technical assistance to those organizations working in the circular economy industry, along with establishing a statewide voluntary sustainability program.
-To read more, see here.
-HB24-1115: Prescription Drug Label Accessibility
-Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Young, Senator Fenberg
-Summary: The bill requires pharmacies to provide patients who have difficulty seeing or reading standard printed labels with a method to access to prescription drug label information.
-Pharmacies must, upon request, provide patients and a patient’s caretaker with:
-- an electronic label that transmits information to an external accessible device;
-- a prescription drug label in braille or large print;
-- a prescription drug reader; or
-- any other means identified as a best practice by the U.S.
+To read more, see here .
+HB24-1240: AmeriCorps Education Award Tax Subtraction Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Weinberg, Senator Rich, Senator Exum Summary: The bill creates an income tax subtraction for the next 3 income tax years between 2026 to 2033 for the amount of any Segal AmeriCorps Education Award received by a taxpayer for service in the AmeriCorps national service program.
+To read more, see here .
+Ensuring Healthy Communities These are 2 bills that will promote our access to healthcare and a sustainable environment.
+HB24-1449: Environmental Sustainability Circular Economy Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Lindsay, Senator Cutter, Senator Priola Summary: the B ill repealed and replaced existing waste management programs, and created the Colorado Circular Communities Enterprise to provide grants and technical assistance to those organizations working in the circular economy industry, along with establishing a statewide voluntary sustainability program.
+To read more, see here .
+HB24-1115: Prescription Drug Label Accessibility Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Young, Senator Fenberg Summary : The bill requires pharmacies to provide patients who have difficulty seeing or reading standard printed labels with a method to access to prescription drug label information.
+Pharmacies must, upon request, provide patients and a patient’s caretaker with: an electronic label that transmits information to an external accessible device; a prescription drug label in braille or large print; a prescription drug reader; or any other means identified as a best practice by the U.S.
 Access Board.
-To read more, see here.
-Elections and Good Governance
-These bills relate to structural aspects of our state government - maintaining the integrity of out our election system and ensuring the efficacy of our leadership.
-HB24-1147: Candidate Election Deepfake Disclosures
-Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Titone, Senator Hansen, Senator Buckner
-Summary: The bill creates a statutory scheme to regulate the use of deepfakes produced using generative artificial intelligence (AI) in communications about candidates for elective office.
-To read more, see here.
-HB24-1118: Authority of Attorney General to Operate District Attorney's Office
-Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Marshall, Senator Roberts, Senator Gardner
-Summary: This bill gives the Attorney General (AG) the authority to manage and operate a district attorney's office in specific circumstances.
-To read more, see here.
-SB24-216: Standards for Decisions Regarding Library Resources
-Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Hamrick, Senator Cutter, Senator Michaelson Jenet
-Summary: The bill mandates public library boards to create and publicly post policies for acquiring, retaining, and potentially removing materials, prohibiting removal based on the author's demographics or partisan disapproval, and protecting library staff from retaliation for adhering to these policies, while requiring removal requests to come from local patrons and be treated as open records.
-To read more, see here.
-2023 Legislation
-Listed below are details & summaries regarding all 19 bills I spearheaded and signed by the Governor in the 2023 legislative session, organized by issue.
-Increasing Access to Justice
-During this session, I passed three bills that will help those in the criminal justice system and those facing charges.
-HB23-1033: Alternate Defense Counsel Contracts
-Session: 2023 | Status: PASSED ✅ | Sponsors: Representative Sharbini, Representative Joseph, Senator Gonzales
-Summary: Current law directs the office of alternate defense counsel to contract with attorneys and investigators to provide legal representation to clients who are indigent.
+To read more, see here .
+Elections and Good Governance These bills relate to structural aspects of our state government - maintaining the integrity of out our election system and ensuring the efficacy of our leadership.
+HB24-1147: Candidate Election Deepfake Disclosures Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Titone, Senator Hansen, Senator Buckner Summary: The bill creates a statutory scheme to regulate the use of deepfakes produced using generative artificial intelligence (AI) in communications about candidates for elective office.
+To read more, see here .
+HB24-1118: Authority of Attorney General to Operate District Attorney's Office Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Marshall, Senator Roberts, Senator Gardner Summary: This bill gives the Attorney General (AG) the authority to manage and operate a district attorney's office in specific circumstances.
+To read more, see here .
+SB24-216: Standards for Decisions Regarding Library Resources Session: 2024 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Hamrick, Senator Cutter, Senator Michaelson Jenet Summary: The bill mandates public library boards to create and publicly post policies for acquiring, retaining, and potentially removing materials, prohibiting removal based on the author's demographics or partisan disapproval, and protecting library staff from retaliation for adhering to these policies, while requiring removal requests to come from local patrons and be treated as open records.
+To read more, see here .
+2023 Legislation Listed below are details & summaries regarding all 19 bills I spearheaded and signed by the Governor in the 2023 legislative session, organized by issue.
+Increasing Access to Justice During this session, I passed three bills that will help those in the criminal justice system and those facing charges.
+HB23-1033: Alternate Defense Counsel Contracts Session: 2023 | Status: PASSED ✅ | Sponsors: Representative Sharbini, Representative Joseph, Senator Gonzales Summary: Current law directs the office of alternate defense counsel to contract with attorneys and investigators to provide legal representation to clients who are indigent.
 The bill directs the office of alternate defense counsel to also contract with other persons who are necessary to provide legal services to persons who are indigent.
 The bill requires that the legal services provided by attorneys and other persons must be commensurate with the legal services that persons who are not indigent receive.
-To read more, see here.
+To read more, see here .
 Rep.
 Sharbini and I presenting HB23-1033 to the House Judiciary Committee.
-HB23-1086: Due Process Asset Forfeiture Act
-Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative DeGraaf, Representative Joseph, Senator Baisley, Senator Winter
-Summary: The bill requires that a report related to a seizure and forfeiture includes the estimated value and new equity of the property and information on the outcome of the forfeiture proceeding.
-HB23-1280: Colorado Access To Justice Commission
-Session : 2023 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Soper, Senator Roberts, Senator Gardner
-Summary: The bill codifies the Colorado Access to Justice Commission.
+HB23-1086: Due Process Asset Forfeiture Act Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative DeGraaf, Representative Joseph, Senator Baisley, Senator Winter Summary: The bill requires that a report related to a seizure and forfeiture includes the estimated value and new equity of the property and information on the outcome of the forfeiture proceeding.
+HB23-1280: Colorado Access To Justice Commission Session : 2023 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Soper, Senator Roberts, Senator Gardner Summary: The bill codifies the Colorado Access to Justice Commission.
 The governor, legislative leadership, supreme court of Colorado, and Colorado legal organizations are to appoint the 17- to 20-member commission.
 Additionally, the Colorado supreme court justice liaison, the executive director of Colorado legal services, the executive director of the legal aid foundation of Colorado, and a representative of the Colorado attorney general serve as ex officio nonvoting members of the commission.
 The bill directs the commission to make recommendations regarding legislative and regulatory changes that could help improve access to justice for all Coloradans.
 Governor Polis signing HB23-1280 into law.
-Keeping Children in School
-I passed 2 bills that focused on keeping children in school, especially those with disabilities.
-HB23-1168: Legal Representation And Students With Disabilities
-Session: 2023 | Status: SIGNED ✅| Sponsors: Representative Sharbini, Representative Joseph, Senator Winter
-Summary: The bill requires the department of education to enter into a service agreement with a nonprofit organization to create and maintain a list of attorneys qualified to represent a parent in a due process complaint filed by an education provider concerning issues disputed in a state complaint in which the parent prevailed.
+Keeping Children in School I passed 2 bills that focused on keeping children in school, especially those with disabilities.
+HB23-1168: Legal Representation And Students With Disabilities Session: 2023 | Status: SIGNED ✅| Sponsors: Representative Sharbini, Representative Joseph, Senator Winter Summary: The bill requires the department of education to enter into a service agreement with a nonprofit organization to create and maintain a list of attorneys qualified to represent a parent in a due process complaint filed by an education provider concerning issues disputed in a state complaint in which the parent prevailed.
 The service agreement is for 5 years.The bill requires the department to include information on attorney appointments in the procedural safeguard notice and in materials distributed to parents describing due process complaint procedures.
 Lt.
 Governor Primavera signing HB23-1168 into law.
-HB23-1291: Procedures For Expulsion Hearing Officers
-Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Gonzales-Gutierrez, Senator Winter, Senator Fields
-Summary: The bill clarifies the school expulsion hearing process and provides more regulation and training for hearing officers.
+HB23-1291: Procedures For Expulsion Hearing Officers Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Gonzales-Gutierrez, Senator Winter, Senator Fields Summary: The bill clarifies the school expulsion hearing process and provides more regulation and training for hearing officers.
 With this bill, a school district has the burden of proving by a preponderance of the evidence that a student violated state law and the school district's policy.
 School districts are also required to provide all records that the school district intends to use as supporting evidence for expulsion or denial of admission to the student or the student's parent, guardian, or legal custodian at least 2 business days in which school is in session prior to the hearing.
-Additionally, hearing officers are required to consider specific factors in determining findings of fact and recommendations at the conclusion of a hearing.The bill requires the board of education of each school district to adopt a policy that states a student must not be expelled or denied admission unless the school district considers whether alternative remedies are appropriate and whether excluding the student from school is necessary to preserve the learning environment.
+Additionally, hearing officers are required to consider specific factors in determining findings of fact and recommendations at the conclusion of a hearing.​The bill requires the board of education of each school district to adopt a policy that states a student must not be expelled or denied admission unless the school district considers whether alternative remedies are appropriate and whether excluding the student from school is necessary to preserve the learning environment.
 Rep.
-Gonzales-Gutierrez and I with testifiers for
-HB23-1291 after the House Education Committee hearing.
-Housing and Renters Protection
-Housing is a major issue impacting Coloradans.
+Gonzales-Gutierrez and I with testifiers for HB23-1291 after the House Education Committee hearing.
+Housing and Renters Protection Housing is a major issue impacting Coloradans.
 During the session, I passed two bills to protect those facing eviction and help provide more middle income housing.
-HB23-1120: Eviction Protections For Residential Tenants
-Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Ortiz, Senator Fields, Senator Winter
-Summary: The bill requires a landlord and residential tenant to participate in mandatory mediation prior to commencing an eviction action if the residential tenant receives supplemental security income, federal social security disability insurance, or cash assistance through the Colorado works program, barring certain exceptions.
+HB23-1120: Eviction Protections For Residential Tenants Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Ortiz, Senator Fields, Senator Winter Summary: The bill requires a landlord and residential tenant to participate in mandatory mediation prior to commencing an eviction action if the residential tenant receives supplemental security income, federal social security disability insurance, or cash assistance through the Colorado works program, barring certain exceptions.
 Failure to comply with mandatory mediation is an affirmative defense.
 Rep.
-Ortiz and I with testifiers for HB23-1120 after the
-House Judiciary Committee Hearing.
-SB23-035: Middle-income Housing Authority Act
-Session: 2023 | Status: SIGNED ✅ | Sponsors: Senator Bridges, Senator Moreno, Representative Herod, Representative Joseph
-Summary: Under current law, the Middle-income Housing Authority has the power to make and enter into contracts or agreements with public or private entities to facilitate public-private partnerships.
+Ortiz and I with testifiers for HB23-1120 after the House Judiciary Committee Hearing.
+SB23-035: Middle-income Housing Authority Act Session: 2023 | Status: SIGNED ✅ | Sponsors: Senator Bridges, Senator Moreno, Representative Herod, Representative Joseph Summary: Under current law, the Middle-income Housing Authority has the power to make and enter into contracts or agreements with public or private entities to facilitate public-private partnerships.
 The bill clarifies this power of the authority to enter into public-private partnerships.
-Protecting Us & Our Environment
-This session, I worked to pass legislation that would protect our communities from wildfires and strengthen our commitment to combating climate change.
-HB23-1075: Wildfire Evacuation And Clearance Time Modeling
-Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Snyder, Representative Joseph, Senator Exum
-Summary: The bill requires the Office of Emergency Management to study the efficacy and feasibility of local or inter-jurisdictional emergency management agencies with jurisdiction in a wildfire risk area to integrate evacuation and clearance time modeling into the emergency management plans that such an agency is required to adopt for its area.
+Protecting Us & Our Environment This session, I worked to pass legislation that would protect our communities from wildfires and strengthen our commitment to combating climate change.
+HB23-1075: Wildfire Evacuation And Clearance Time Modeling Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Snyder, Representative Joseph, Senator Exum Summary: The bill requires the Office of Emergency Management to study the efficacy and feasibility of local or inter-jurisdictional emergency management agencies with jurisdiction in a wildfire risk area to integrate evacuation and clearance time modeling into the emergency management plans that such an agency is required to adopt for its area.
 The report must be completed on or before December 1, 2023, and the office must report the findings of the study to specific committees of the general assembly during the 2024 legislative session.
-HB23-1134: Require Electric Options In Home Warranties
-Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Kipp, Senator Cutter
-Summary: The bill requires that, on and after January 1, 2024, every home warranty service contract that provides coverage for the replacement of any of certain gas-fueled appliances must include certain terms.
-Presenting HB23-1134 to the House Energy & Environment Committee
-These terms allow the homeowner to replace the gas-fueled appliance with a similar device of the homeowner's choosing that operates on electricity rather than gas.
+HB23-1134: Require Electric Options In Home Warranties Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Kipp, Senator Cutter Summary: The bill requires that, on and after January 1, 2024, every home warranty service contract that provides coverage for the replacement of any of certain gas-fueled appliances must include certain terms.
+Presenting HB23-1134 to the House Energy & Environment Committee These terms allow the homeowner to replace the gas-fueled appliance with a similar device of the homeowner's choosing that operates on electricity rather than gas.
 A home warranty service contract may require a homeowner to pay any additional cost to replace a gas-fueled appliance with an appliance that has a retail cost that exceeds the cost of replacing the gas-fueled appliance with another gas-fueled appliance under the terms of the home warranty service contract.
-HB23-1242: Water Conservation In Oil And Gas Operations
-Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Boesenecker, Representative Joseph, Senator Cutter, Senator Priola
-Summary: The bill requires an oil and gas operator in the state, on or before January 1 , 2024, and quarterly thereafter, to report information to the Colorado oil and gas conservation commission regarding the operator's use of water entering, utilized at, or exiting each of the operator's oil and gas locations, including information on the recycling and reuse of produced water.
+HB23-1242: Water Conservation In Oil And Gas Operations Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Boesenecker, Representative Joseph, Senator Cutter, Senator Priola Summary: The bill requires an oil and gas operator in the state, on or before January 1 , 2024, and quarterly thereafter, to report information to the Colorado oil and gas conservation commission regarding the operator's use of water entering, utilized at, or exiting each of the operator's oil and gas locations, including information on the recycling and reuse of produced water.
 The bill requires a statewide reduction in fresh water usage and a corresponding increase in recycled water usage in oil and gas operations.
 The bill creates the Colorado Produced Water Consortium in the Department of Natural Resources to make recommendations to state agencies and the general assembly regarding the recycling and reuse of produced water, develop guidance documents to promote best practices for in-field recycling and reuse of produced water, and analyze and report on existing produced water infrastructure, storage, and treatment facilities; the volume of produced water in different oil and gas basins available for recycling and reuse; and additional infrastructure, storage, and technology needed to achieve different levels of recycling and reuse of produced water throughout the state.
 Rep.
 Boesnecker and I presenting HB23-1242 to the House Energy & Environment Committee.
-HB23-1272: Tax Policy that Advance Decarbonization
-Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Weissman, Representative Joseph, Senate President Fenberg, Senator Cutter
-Summary: This bill extends tax credits for the purchase or lease of electric vehicles.
+HB23-1272: Tax Policy that Advance Decarbonization Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Weissman, Representative Joseph, Senate President Fenberg, Senator Cutter Summary: This bill extends tax credits for the purchase or lease of electric vehicles.
 The bill also creates tax credits for industrial facilities to implement greenhouse gas emissions reduction improvements, for expenditures made in connection with geothermal energy projects, for production of geothermal electricity generation and for the deployment of heat pump technology.
 In addition to vehicle sales, the bill creates tax credits for retail sales of electric bicycles and for construction of sustainable aviation fuel production facilities.
 The bill also creates a temporary specific ownership tax rate reduction on a portion of the sale of electric medium- and heavy-duty trucks and temporarily decreases the severance tax credit for oil and gas production, requiring the revenue that is attributable to the decrease be deposited in the Decarbonization Tax Credits Administration cash fund, and creates the Decarbonization Tax Credits Administration cash fund cash fund.
-HB23-1273: Creation Of Wildfire Resilient Homes Grant Program
-Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Snyder, Representative Joseph, Senator Roberts
-Summary: The bill creates the Wildfire Resilient Homes Grant Program within the Division of Fire Prevention and Control.
+HB23-1273: Creation Of Wildfire Resilient Homes Grant Program Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Snyder, Representative Joseph, Senator Roberts Summary: The bill creates the Wildfire Resilient Homes Grant Program within the Division of Fire Prevention and Control.
 The program allows homeowners to apply to receive a grant for retrofitting or improving a house or other structure on the homeowner's property with strategies and technologies for structure hardening in order to make the house or structure more resilient to the risk of wildfire.
-SB23-191: Colorado Department Of Public Health And Environment Organics Diversion Study
-Session: 2023 | Status: SIGNED ✅ | Sponsors: Senator Cutter, Representative Joseph, Representative Kipp
-Summary: The bill requires the Department of Public Health and Environment to study the impacts, benefits, and feasibility of requiring diversion of organic materials from landfills.
+SB23-191: Colorado Department Of Public Health And Environment Organics Diversion Study Session: 2023 | Status: SIGNED ✅ | Sponsors: Senator Cutter, Representative Joseph, Representative Kipp Summary: The bill requires the Department of Public Health and Environment to study the impacts, benefits, and feasibility of requiring diversion of organic materials from landfills.
 The organics diversion study must accomplish certain tasks.
 It must incorporate and utilize data contained in the statewide organics management plan and other existing Colorado studies and research from other states, explore how to leverage existing organics diversion pilot projects in Colorado to inform implementation of broader organics diversion projects across the state and evaluate the environmental benefits of diversion of organic materials from landfills.
 The study is also required to outline and recommend policies and regulations that would enable diversion of organic materials from landfills, assess informational resources necessary to enable diversion of organic materials from landfills, and identify opportunities for end-market development of organic materials diverted from landfills.
-Helping Children and Families
-Child support and custody were major focuses of mine during the 2023 session.
-HB23-1027: Parent And Child Family Time
-Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Weissman, Senator Winter
-Summary: The bill defines "family time", changes the term "visitation" to "family time" in various places in statute, creates new requirements for determinations in dependency and neglect court proceedings, and requires the task force on high-quality family time to commission and evaluate a state study.
+Helping Children and Families Child support and custody were major focuses of mine during the 2023 session.​ HB23-1027: Parent And Child Family Time Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Weissman, Senator Winter Summary: The bill defines "family time", changes the term "visitation" to "family time" in various places in statute, creates new requirements for determinations in dependency and neglect court proceedings, and requires the task force on high-quality family time to commission and evaluate a state study.
 Myself and the mothers who came out to testify for HB23-1027 to the House Judiciary Committee.
-HB23-1157: Uniform Unregulated Child Custody Transfer Act
-Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Weinberg, Senator Exum, Senator Gardner
-Summary: The bill prohibits transferring custody of a child by means other than a legal adoption or guardianship proceeding, a judicial award of custody, other judicial or tribal action, or Colorado's safe haven law; and soliciting or advertising to transfer custody of or locate a child in a manner that violates the requirements of the act or to facilitate such a transfer.
-The bill requires child placement agencies facilitating the adoption to provide prospective adoptive parents with general information about adopting children with health or behavioral issues, specific information on the physical and psychological health of the prospective adoptee, and guidance and instruction on dealing with the potential challenges that may arise in raising the adoptee.
+HB23-1157: Uniform Unregulated Child Custody Transfer Act Session: 2023 | Status: SIGNED ✅ | Sponsors: Representative Joseph, Representative Weinberg, Senator Exum, Senator Gardner Summary: The bill prohibits transferring custody of a child by means other than a legal adoption or guardianship proceeding, a judicial award of custody, other judicial or tribal action, or Colorado's safe haven law; and soliciting or advertising to transfer custody of or locate a child in a manner that violates the requirements of the act or to facilitate such a transfer. ​ The bill requires child placement agencies facilitating the adoption to provide prospective adoptive parents with general information about adopting children with health or behavioral issues, specific information on the physical and psychological health of the prospective adoptee, and guidance and instruction on dealing with the potential challenges that may arise in raising the adoptee.
 The bill also requires the agencies provide information on accessing certain post-placement and post-adoption financial assistance and supportive services to the adoptee and parent to help preserve the adoption.
-SB23-173: Colorado Child Support Commission Recommendations
-Session: 2023 | Status: SIGNED ✅ | Sponsors: Senator Felds, Senator Liston, Representative Bradley, Representative Joseph
-Summary: The bill enacts recommendations from the state Child Support Commission.
-After SB23-173 passed unanimously in the Public & Behavioral Health & Human Services Committee
-Improving Quality of Life for All Coloradans
-There are three bills that I passed that focus on worker benefits, gun safety, and healthcare
-SB23-017: Additional Uses Paid Sick Leave
-Session: 2023 | Status: SIGNED ✅ | Sponsors: Senator Winter, Representative Willford, Representative Joseph
-Summary: The bill expands the use of paid sick leave.
+SB23-173: Colorado Child Support Commission Recommendations Session: 2023 | Status: SIGNED ✅ | Sponsors: Senator Felds, Senator Liston, Representative Bradley, Representative Joseph Summary: The bill enacts recom mendations from the state Child Support Commission.
+After SB23-173 passed unanimously in the Public & Behavioral Health & Human Services Committee Improving Quality of Life for All Coloradans There are three bills that I passed that focus on worker benefits, gun safety, and healthcare SB23-017: Additional Uses Paid Sick Leave Session: 2023 | Status: SIGNED ✅ | Sponsors: Senator Winter, Representative Willford, Representative Joseph Summary: The bill expands the use of paid sick leave.
 It allows an employee to use accrued paid sick leave when the employee needs to care for a family member whose school or place of care has been closed due to inclement weather, loss of power, loss of heating, loss of water, or other unexpected occurrence or event that results in the closure of the family member's school or place of care.
-Sick leave can be used to grieve, attend funeral services or a memorial, or deal with financial and legal matters that arise after the death of a family member.
+Sick leave can be used to grieve , attend funeral services or a memorial, or deal with financial and legal matters that arise after the death of a family member.
 The bill also expands sick leave to cover the evacuation of the employee's place of residence due to inclement weather, loss of power, loss of heating, loss of water, or other unexpected occurrence or event that results in the need to evacuate the employee's residence.
 Rep.
-Willford and I presenting SB23-017 to the House Committee on Business Affairs & Labor
-SB23-279: Unserialized Firearms And Firearm Components
-Session: 2023 | Status: SIGNED ✅ | Sponsors: Senator Fields, Senator Hansen, Representative Boesenecker, Representative Joseph
-Summary: This bill prohibits knowingly possessing or transporting an unfinished firearm frame or receiver, unless it has been imprinted with a serial number as required by federal law.
+Willford and I presenting SB23-017 to the House Committee on Business Affairs & Labor SB23-279: Unserialized Firearms And Firearm Components Session: 2023 | Status: SIGNED ✅ | Sponsors: Senator Fields, Senator Hansen, Representative Boesenecker, Representative Joseph Summary: This bill prohibits knowi ngly possessing or transporting an unfinished firearm frame or receiver, unless it has been imprinted with a serial number as required by federal law.
 Under this bill, a person cannot knowingly sell, offer to sell, or transfer a firearm or frame or receiver of a firearm that is not imprinted with a serial number.
 Finally, the bill prohibits manufacturing or causing to be manufactured a firearm, or frame or receiver of a firearm; unless the manufacturer is a federally licensed firearm manufacturer.
 Governor Polis signing SB23-279 into law.
-SB23-288: Coverage for Doula Services
-Session: 2023 | Status: SIGNED ✅ | Sponsors: Senator Rhonda Fields, Senator Janet Buckner, Representative English, Representative Joseph
-Summary: The bill requires the Department of Health Care Policy and Financing to initiate a stakeholder process to promote the expansion and utilization of doula services for pregnant and postpartum medicaid recipients.
+SB23-288: Coverage for Doula Services Session: 2023 | Status: SIGNED ✅ | Sponsors: Senator Rhonda Fields, Senator Janet Buckner, Representative English, Representative Joseph Summary: The bill requires the Department of Health Care Policy and Financing to initiate a stakeh older process to promote the expansion and utilization of doula services for pregnant and postpartum medicaid recipients.
 The bill requires the department to seek federal authorization for medicaid providers to provide doula services for pregnant and postpartum people.
 The bill creates a doula scholarship program to provide financial support to eligible individuals to pursue doula training and certification.
 To be eligible for a scholarship, individuals must agree to enroll as a doula provider and provide doula services to recipients.
 Lt.
 Governor Primavera signing HB23-1168 into law.
+Junie For HD - 10 JunieForHD10@gmail.com Paid for by Friends of Junie Joseph | Registered Agent Junie Joseph 4985 Moorhead Ave Unit 3210 · Boulder, CO 80305 · USA bottom of page

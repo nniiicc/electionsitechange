@@ -1,15 +1,16 @@
-By Jesse Allen, American Ag Network —
-The National Corn Growers Association (NCGA) recognized Rep.
+Skip to content Phone 308-220-3211 | committee@joinadrian.com Facebook DONATE TODAY!
+Search for: Home About Issues Media News Photos Donate Volunteer Contact Search for: Home About Issues Media News Photos Donate Volunteer Contact Home About Issues Media News Photos Donate Volunteer Contact Nebraska Congressman Adrian Smith Recognized with NCGA President’s Award Previous Next Nebraska Congressman Adrian Smith Recognized with NCGA President’s Award By Jesse Allen, American Ag Network — The National Corn Growers Association (NCGA) recognized Rep.
 Adrian Smith (Neb-R) with the President’s Award today during its summer Corn Congress meeting in Washington, D.C.
 Smith, who serves on the powerful House Ways and Means Committee, has been a legislative champion for corn growers on key issues, including international trade, tax policy and ethanol.
 The congressman also led congressional efforts to challenge and resolve a dispute with Mexico over genetically modified corn, chaired the Rural America Tax Team and has sponsored legislation to allow year-round sale of E15 nationwide since 2015.
 “Rep.
 Smith has played a crucial role in many of our legislative wins, and his work has benefited corn growers at every level,” said Illinois farmer and NCGA President Kenneth Hartman Jr.
 “He cares deeply about farmers and is not afraid to go to the mat for us.
-We are excited to honor him as a key congressional ally.”
-The congressman expressed his appreciation to NCGA for the recognition.
+We are excited to honor him as a key congressional ally.” The congressman expressed his appreciation to NCGA for the recognition.
 “I am honored to receive this award,” said Congressman Smith.
 “I consider it a great privilege to represent one of America’s leading districts feeding and fueling the world through corn and ethanol production.
-I will continue to work with my colleagues in Congress to champion sound policy such as robust foreign market access, risk-based, science-driven standards, and increased availability of higher-blend biofuels.”
-The NCGA President’s Award, one of the organization’s highest honors, is given each year to a recipient chosen by the organization’s board president.
+I will continue to work with my colleagues in Congress to champion sound policy such as robust foreign market access, risk-based, science-driven standards, and increased availability of higher-blend biofuels.” The NCGA President’s Award, one of the organization’s highest honors, is given each year to a recipient chosen by the organization’s board president.
 NCGA voting delegates meet twice a year during Corn Congress meetings to debate the organization’s policies and vote on new board members for the organization.
+Read more: https://www.americanagnetwork.com/2025/07/17/nebraska-congressman-adrian-smith-recognized-with-ncga-presidents-award/ Adrian Smith for Congress 2025-09-09T10:52:24-05:00 July 18th, 2025 | Media coverage | Share This Story, Choose Your Platform!
+Facebook X Reddit LinkedIn Tumblr Pinterest Email 1126 Avenue A, #6 Scottsbluff, NE 69361 Phone: 308-220-3211 Fax: 308-635-7412 Email: committee@joinadrian.com Web: http://joinadrian.com Recent News Congressman Smith welcomes President Trump to Grand Island October 5, 2026 We’ve delivered results, and we’ll keep working until the job is done!
+May 8, 2026 “Ranchers for Adrian” joins growing list of Endorsements for Proven Conservative Nebraska Congressman Adrian Smith May 8, 2026 Adrian Smith Files for Re-election to Defend Conservative Leadership and Advance President Trump’s Agenda January 16, 2026 President Trump endorses Adrian Smith re-election in 2026 to Nebraska’s Third Congressional District November 4, 2025 Follow Adrian on Facebook Paid for by Adrian Smith for Congress | All Rights Reserved Facebook Page load link Go to Top

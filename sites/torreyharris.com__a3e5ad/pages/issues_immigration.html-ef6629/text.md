@@ -1,9 +1,16 @@
-Memphis has always been made stronger by immigrants and refugees who’ve started businesses, filled our congregations, and enriched every corner of this community.
+Chip in $20 today to support Rep.
+Torrey C.
+Harris’ re-election campaign → About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate Why I'm Running Photos & Memories About Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate ← All Issues Where I Stand · 11 Immigration Memphis has always been made stronger by immigrants and refugees who’ve started businesses, filled our congregations, and enriched every corner of this community.
 The same American Dream that drew them here should still be within reach, and I refuse to let our neighbors be treated as political props.
 We should stop treating immigration as a stage for stunts and start treating it as the legal and humanitarian responsibility it is.
 At the state level, that means refusing to turn our neighborhoods and our police into arms of a cruel federal enforcement machine.
-What I'm Fighting For
-- Oppose the state laws that force our local officers to act as immigration agents and that spread fear through hardworking families.
-- Protect immigrant families and children from state overreach and make sure kids can go to school and see a doctor without fear.
-- Support in-state tuition so Dreamers who grew up here in Tennessee can afford to go to college in the state they call home.
-- Push for a pathway to citizenship — using my voice to press our federal delegation for clear, earned protections for DACA recipients and Dreamers.
+What I'm Fighting For Oppose the state laws that force our local officers to act as immigration agents and that spread fear through hardworking families.
+Protect immigrant families and children from state overreach and make sure kids can go to school and see a doctor without fear.
+Support in-state tuition so Dreamers who grew up here in Tennessee can afford to go to college in the state they call home.
+Push for a pathway to citizenship — using my voice to press our federal delegation for clear, earned protections for DACA recipients and Dreamers.
+Previous ← LGBTQ+ Rights Next Free & Fair Elections → The Issues Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Technology & Innovation Reproductive Freedom LGBTQ+ Rights Immigration Free & Fair Elections Gun Violence Stand With Torrey Grassroots support keeps this fight going.
+Donate Torrey C.
+Harris Tennessee House · District 91 Let's Keep Tennessee Moving.
+Explore Why I'm Running About Torrey Endorsements Issues The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Gallery 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Take Action Vote 2026 Volunteer Request Help Donate Offices Nashville: 615-741-2239 Memphis: 901-232-9498 rep.torrey.harris@capitol.tn.gov All contact info → Donate Please Mail Check Contributions to: Committee to Elect Torrey Harris 1387 Central Avenue # 906 Memphis, Tennessee 38104 EIN #: 82-3293908 PAID FOR BY COMMITTEE TO ELECT TORREY HARRIS. © # Committee to Elect Torrey Harris.
+All rights reserved.
+Privacy Policy · SMS Opt-In Form . · Español

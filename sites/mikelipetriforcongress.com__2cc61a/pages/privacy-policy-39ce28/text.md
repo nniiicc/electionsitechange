@@ -1,32 +1,16 @@
-Privacy Policy
-Welcome to the official website of Mike LiPetri for Congress.
+top of page Get Involved DONATE Meet Mike Gallery Issues Get Involved More Use tab to navigate through the menu items.
+Privacy Policy ​ Welcome to the official website of Mike LiPetri for Congress.
 We understand that your right to privacy is important, especially online.
-This privacy policy has been created to answer any questions you may have regarding our protection and privacy practices.
-What information is being collected at MikeLiPetriForCongress.com
-The only personal information collected is information you voluntarily provide to us.
+This privacy policy has been created to answer any questions you may have regarding our protection and privacy practices. ​ What information is being collected at MikeLiPetriForCongress.com ​ The only personal information collected is information you voluntarily provide to us.
 In an effort to grow our community online, we may ask you to submit information.
-This information will be used to inform you about online events, campaign activities, appearances, and other Mike LiPetri for Congress news.
-We will never require you to give us personal information in order to visit this site.
-We only request information so that we can better communicate with you.
-When you provide your personal information or choose to participate in our efforts, we may use that information to personalize and customize web pages and communications sent to you.
-Certain information must be collected when you make a contribution.
-When you contribute to Mike LiPetri for Congress, federal law requires us to collect your name, mailing address, employer, and occupation.
-We ask that children under the age of 18 do not submit personal information.
-In accordance with the Federal Children’s Online Privacy Protection Act of 1998 (COPPA), Mike LiPetri for Congress does not knowingly collect information from children.
-How is the information collected at MikeLiPetriForCongress.com used?
-We will not sell your personal information.
+This information will be used to inform you about online events, campaign activities, appearances, and other Mike LiPetri for Congress news. ​ We will never require you to give us personal information in order to visit this site.
+We only request information so that we can better communicate with you. ​ When you provide your personal information or choose to participate in our efforts, we may use that information to personalize and customize web pages and communications sent to you.
+Certain information must be collected when you make a contribution. ​ When you contribute to Mike LiPetri for Congress, federal law requires us to collect your name, mailing address, employer, and occupation. ​ We ask that children under the age of 18 do not submit personal information.
+In accordance with the Federal Children’s Online Privacy Protection Act of 1998 (COPPA), Mike LiPetri for Congress does not knowingly collect information from children. ​ How is the information collected at MikeLiPetriForCongress.com used? ​ We will not sell your personal information.
 SMS opt-in consent and data will not be shared with third parties.
 Under no circumstances will Mike LiPetri for Congress sell your information to third parties or commercial entities.
 Mike LiPetri for Congress may provide your email address or other personal information to authorized third parties solely as required to deliver a specific service on our behalf.
-These third parties are prohibited from using your information for any purpose other than performing the services requested.
-MikeLiPetriForCongress.com links to other sites
-Our website may contain links to other websites or servers.
+These third parties are prohibited from using your information for any purpose other than performing the services requested. ​ MikeLiPetriForCongress.com links to other sites ​ Our website may contain links to other websites or servers.
 Mike LiPetri for Congress is not responsible for the privacy practices or content of external websites.
-Because we have no control over the sites we link to, you acknowledge and agree that Mike LiPetri for Congress is not responsible for the availability, accuracy, or content of external resources and does not endorse or assume liability for any such content.
-We encourage you to review the privacy policies of any third-party websites you visit.
-Links to third-party content are provided as a convenience and do not imply ownership or endorsement.
-Contact Us
-If you have any questions, comments, or concerns regarding this privacy policy, please contact Mike LiPetri for Congress at:
-info@MikeLipetriforCongress.com
-“All the above categories exclude text messaging originator opt-in data
-and consent; this information will not be shared with any third parties”
+Because we have no control over the sites we link to, you acknowledge and agree that Mike LiPetri for Congress is not responsible for the availability, accuracy, or content of external resources and does not endorse or assume liability for any such content. ​ We encourage you to review the privacy policies of any third-party websites you visit.
+Links to third-party content are provided as a convenience and do not imply ownership or endorsement. ​ Contact Us ​ If you have any questions, comments, or concerns regarding this privacy policy, please contact Mike LiPetri for Congress at: info@MikeLipetriforCongress.com ​ “All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties” Meet Mike Gallery Issues Get Involved Privacy Policy Terms & Conditions DONATE Paid for by Mike LiPetri for Congress bottom of page

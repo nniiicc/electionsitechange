@@ -1,5 +1,5 @@
-Investing in Rural Tennessee: Infrastructure, Agriculture, and Economic Development
-Rural communities like ours have sometimes felt like an afterthought in conversations about economic development and infrastructure investment.
+top of page HOME ABOUT THE ISSUES NEWS CONTACT More Use tab to navigate through the menu items.
+All Posts Search Investing in Rural Tennessee: Infrastructure, Agriculture, and Economic Development Team Keisling Jun 14 2 min read Rural communities like ours have sometimes felt like an afterthought in conversations about economic development and infrastructure investment.
 This session, the 114th General Assembly made clear that rural Tennessee is not an afterthought.
 It is a priority.
 The budget includes more than $890 million in new dollars for infrastructure, transportation, and economic development.
@@ -18,3 +18,6 @@ We also created a new public-private partnership initiative with $20 million to 
 Housing affordability is a growing challenge across Tennessee, including in rural areas, and this program creates new pathways for development that serves families in the middle: those who earn too much for existing assistance but still cannot afford to buy or rent at market rates.
 Rural Tennessee has everything it takes to thrive: natural beauty, hardworking people, deep community roots, and now a state government that is investing in its future.
 I am grateful to have been part of making that investment happen this session.
+Post Office Box 577, Byrdstown, Tennessee 38549 ( 615) 741-6852 | ktkeisling@gmail.com Paid for by Kelly Keisling for State Representative, John Keisling, Treasurer.
+Web design by ZDStephens Company .
+Privacy Policy: Click Here bottom of page

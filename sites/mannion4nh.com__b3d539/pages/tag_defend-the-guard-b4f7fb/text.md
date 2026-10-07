@@ -1,14 +1,21 @@
-Thank you to Craig Bona of the Granite Discourse for having me back on again!
+Tom Mannion for New Hampshire Search Primary Menu Skip to content Bills Roll Calls Hearing Alert Testimonies Bills Passed On The Issues Lockdowns/Health Mandates Taxation Firearms Crypto Energy Education Marijuana Surveys & Interviews Endorsements About Me Donate Search for: Tag Archives: Defend the Guard Interview Interview – The Granite Discourse (ep 34) June 8, 2026 Tom Mannion Leave a comment Thank you to Craig Bona of the Granite Discourse for having me back on again!
 His show typically sticks to NH-focused policies, but I couldn’t help myself going hard into the paint about the Iran war.
 Give it a watch, subscribe to his channel and share around!
-Jesse Gillis and I had such a great interview about Defend the Guard, and getting into the weeds about general US foreign policy, that he invited me back to talk specifically about the Iran conflict.
+Defend the Guard Veterans war Interview Interview – Radio Canada April 23, 2026 Tom Mannion Leave a comment I was interviewed as part of a anti-war veteran series by Radio Canada !
+Defend the Guard Veterans war Interview Interview – Now is the Time to Talk (Iran) March 9, 2026 Tom Mannion Leave a comment Jesse Gillis and I had such a great interview about Defend the Guard, and getting into the weeds about general US foreign policy, that he invited me back to talk specifically about the Iran conflict.
 Thank you for having me again so soon!
-Credit to Kristin Noble for clipping my floor speech!
+Defend the Guard Iran Veterans Interview Interview – Now is the Time to Talk February 13, 2026 Tom Mannion Leave a comment Jessie and I discuss foreign policy, military service during the Global War on Terror, and Defend the Guard.
+Defend the Guard Interview Veterans Hearing Alert Hearing Alert – HB104 Defend the Guard Image February 10, 2026 Tom Mannion Leave a comment 10th Amendment Defend the Guard Nullification Interview Interview – PorcReport 2026 January 22, 2026 Tom Mannion Leave a comment Defend the Guard Interview Floor Speech HB104 Defend the Guard Passes the NH House!
+January 9, 2026 Tom Mannion Leave a comment Credit to Kristin Noble for clipping my floor speech!
 In a surprise twist, Defend the Guard’s ITL recommendation from my committee was overturned in a bipartisan, 182-159 vote.
 The flips of (R)s opposed and (D)s in support are symmetrical, similar to the previous term, but the quantity has doubled.
 This could be due to partisan loyalty to the current administration, but I’m only speculating.
 I’m proud of the principled people on both sides of the aisle that put the NH Guard member’s lives above the vague threats of “funding risk” originating from the Pentagon.
 Now, onto the Senate!
+10th Amendment Defend the Guard Speech Interview Panel – Defend the Guard at Porcfest 2025 August 21, 2025 Tom Mannion Leave a comment 10th Amendment Defend the Guard Nullification Panel Porcfest Veterans Interview Interview – The Granite Discourse June 27, 2025 Tom Mannion Leave a comment This interview was an absolute blast, the longest I’ve ever done.
+Craig is a fantastic host, our very own NH-focused Joe Rogan!
+Defend the Guard Housing Interview Floor Speech Unanimous Consent Speech – June 26, 2025 June 27, 2025 Tom Mannion Leave a comment Linked at timestamp Thank you Mr.
+Speaker.
 I was going to save this for veto day, to be closer to the anniversary, but world events this past week motivated me to rise today.
 On October 19, 2005, 6.5miles from the Syrian border along the Euphrates, 3rd Bn 6th Marines, Kilo Company, 1st Platoon, 3rd Squad was on a foot patrol along ASR Diamond in the Al’Qaim Region of the Al’Anbar province in Iraq.
 Random patrols through the community were meant to keep insurgents at bay, discourage the planting of IEDs and weapons caches, and build rapport with the community so they’d be more inclined to report suspicious activities in the area.
@@ -46,6 +53,10 @@ Remember Iran is bigger than Iraq and Afghanistan combined in both land area and
 I ask that you remember this unanimous consent when I rise before you all again in January.
 I ask that you remember the sacrifices of the men and women that continue to volunteer to wear the uniform.
 I ask you to pray, and speak loudly for peace, and to bring our troops home from places they shouldn’t be, and out of harm’s way.
-And finally, I ask you to remember Lance Corporal Norman “Wally” Anderson III, the man that saved the lives of his squadmates 20 years ago.
+And finally, I ask you to remember Lance Corporal Norman “Wally” Anderson III, the man that saved the lives of his squadmates #ago.
 Thank you.
-State Representative – Hillsborough County District 01 (Pelham)
+Defend the Guard foreign policy Iran Iraq Speech Unanimous Consent Veterans Posts navigation 1 2 … 4 Next → State Representative – Hillsborough County District 01 (Pelham) Paid for by Tom Mannion for New Hampshire Create a website or blog at WordPress.com Subscribe Subscribed Tom Mannion for New Hampshire Sign me up Have a WordPress.com account?
+Log in now.
+Tom Mannion for New Hampshire View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

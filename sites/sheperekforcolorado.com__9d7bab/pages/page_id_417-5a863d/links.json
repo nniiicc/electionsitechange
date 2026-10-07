@@ -1,17 +1,70 @@
 [
-"https://leg.colorado.gov/bills/HB26-1302",
-"https://leg.colorado.gov/bills/hb26-1126",
-"https://leg.colorado.gov/bills/hb26-1144",
-"https://leg.colorado.gov/bills/sb26-004",
-"https://leg.colorado.gov/bills/sb26-043",
-"https://secure.anedot.com/sheperek-for-colorado/donate",
-"https://sheperekforcolorado.com/",
-"https://sheperekforcolorado.com/about-mike",
-"https://sheperekforcolorado.com/crazy-bills",
-"https://sheperekforcolorado.com/donatetemp",
-"https://sheperekforcolorado.com/get-involved-2",
-"https://sheperekforcolorado.com/page2-2",
-"https://sheperekforcolorado.com/the-blog",
-"https://sheperekforcolorado.com/the-issues",
-"https://sheperekforcolorado.com/why-im-running"
+{
+"text": "About Mike",
+"href": "https://sheperekforcolorado.com/about-mike/"
+},
+{
+"text": "Contact",
+"href": "https://sheperekforcolorado.com/get-involved-2/"
+},
+{
+"text": "Crazy Bills",
+"href": "https://sheperekforcolorado.com/crazy-bills/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/sheperek-for-colorado/donate"
+},
+{
+"text": "HB26-1126",
+"href": "https://leg.colorado.gov/bills/hb26-1126"
+},
+{
+"text": "HB26-1144",
+"href": "https://leg.colorado.gov/bills/hb26-1144"
+},
+{
+"text": "HB26-1302",
+"href": "https://leg.colorado.gov/bills/HB26-1302"
+},
+{
+"text": "Legislative Philosophy",
+"href": "https://sheperekforcolorado.com/donatetemp/"
+},
+{
+"text": "Main_Menu",
+"href": "https://sheperekforcolorado.com/page2-2/"
+},
+{
+"text": "Michael_Sheperek@icloud.com",
+"href": "mailto:Michael_Sheperek@icloud.com"
+},
+{
+"text": "SB26-004",
+"href": "https://leg.colorado.gov/bills/sb26-004"
+},
+{
+"text": "SB26-043",
+"href": "https://leg.colorado.gov/bills/sb26-043"
+},
+{
+"text": "SheperekForColorado",
+"href": "https://sheperekforcolorado.com"
+},
+{
+"text": "The Issues",
+"href": "https://sheperekforcolorado.com/the-issues/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://sheperekforcolorado.com/why-im-running/"
+},
+{
+"text": "[image]",
+"href": "https://sheperekforcolorado.com"
+},
+{
+"text": "blog",
+"href": "https://sheperekforcolorado.com/the-blog/"
+}
 ]

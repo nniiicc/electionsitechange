@@ -1,12 +1,58 @@
 [
-"https://facebook.com/profile.php?id=61593972002958",
-"https://pete4kansans.org/",
-"https://pete4kansans.org/about",
-"https://pete4kansans.org/cart",
-"https://pete4kansans.org/contact",
-"https://pete4kansans.org/contribute",
-"https://pete4kansans.org/involved",
-"https://pete4kansans.org/petesissues",
-"https://pete4kansans.org/yardsign",
-"https://youtube.com/@PeteFerrell-KansasHouseDistric"
+{
+"text": "0",
+"href": "https://www.pete4kansans.org/cart"
+},
+{
+"text": "Back",
+"href": "https://www.pete4kansans.org/"
+},
+{
+"text": "Contact Me",
+"href": "https://www.pete4kansans.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.pete4kansans.org/contribute"
+},
+{
+"text": "Folder: About Pete",
+"href": "https://www.pete4kansans.org/about"
+},
+{
+"text": "Involved",
+"href": "https://www.pete4kansans.org/involved"
+},
+{
+"text": "Issues",
+"href": "https://www.pete4kansans.org/petesissues"
+},
+{
+"text": "Pete4Kansans",
+"href": "https://www.pete4kansans.org/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.pete4kansans.org/privacy"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.pete4kansans.org/yardsign"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61593972002958"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@PeteFerrell-KansasHouseDistric"
+},
+{
+"text": "[no text]",
+"href": "mailto:pete@pete4kansans.org"
+},
+{
+"text": "pete@pete4kansans.org",
+"href": "mailto:pete@pete4kansans.org"
+}
 ]

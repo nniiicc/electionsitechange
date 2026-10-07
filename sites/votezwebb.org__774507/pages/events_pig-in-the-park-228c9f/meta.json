@@ -1,7 +1,11 @@
 {
  "description": "This is an awesome event that supports our much needed Boys and Girls Club. I will be on hand to meet people. Look for my tent come by and grab a bottle of water and some conversation about how we better our county.",
  "final_url": "https://www.votezwebb.org/events/pig-in-the-park",
- "paid_for_by": null,
+ "fingerprint": "7cee3b98c2cf322a0bc96bc8c3eb85168b55a189",
+ "format": 3,
+ "paid_for_by": "",
  "title": "PIG IN THE PARK | Vote Webb",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

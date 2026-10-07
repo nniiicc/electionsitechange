@@ -1,31 +1,4 @@
-PRESS
-Natalie in the News
-News & Observer | Why deep-blue Durham is choosing a state lawmaker early
-IndyWeek | Candidate Questionnaire: Natalie Murdock, State Senator, District 20
-Daily Tarheel | Everyone deserves to be represented’: BSM event celebrates Black women in politics
-ABC11 | Durham senate candidates face off for vacant seat, chance to make history
-Spectular Mag | Cong.
-Ayanna Pressley, Natalie Murdock Host ‘Tea Talk About Warren’s Black Agenda’
-9th Street Journal | Natalie Murdock: Education and environment advocate, state Senate District 20 candidate
-US News & World Report | Primary Winner Murdock Appointed to North Carolina Senate
-AP News | Primary winner Murdock appointed to North Carolina Senate
-IndyWeek | Natalie Murdock Appointed to State Senate Seat
-Spectacular Mag | Natalie Murdock Becomes 1st Black Woman Under 40 to Serve As State Senator
-News & Record | Surreal and humbling’: Youngest black female state legislator has ties to Greensboro’s civil rights movement
-News & Record | N.C.’s youngest black female state legislator says she was influenced by Greensboro’s civil rights movement
-News & Observer | Black women and girls would get more power and protections in new NC bills
-Herald Sun | NC Senate panel votes to reopen gyms, despite health officials’ concerns
-The Center Square | North Carolina Senate passes bills to reform expungement, mandatory minimum sentencing laws
-Cardinal & Pine | Black Women Make Up Most of Biden’s VP Shortlist.
+Home Meet Natalie Natalie’s Accomplishments Platform Endorsements Endorse Natalie Events Contact Volunteer Press Blog Donate Select Page PRESS JOIN NATALIE Name Email Address VOLUNTEER Natalie in the News News & Observer | Why deep-blue Durham is choosing a state lawmaker early IndyWeek | Candidate Questionnaire: Natalie Murdock, State Senator, District 20 Daily Tarheel | Everyone deserves to be represented’: BSM event celebrates Black women in politics IndyWeek | “History in the Making”: The 12 Women of Color on Durham Ballots This Year Gather for a Forum at Ebenezer Baptist ABC11 | Durham senate candidates face off for vacant seat, chance to make history Spectular Mag | Cong.
+Ayanna Pressley, Natalie Murdock Host ‘Tea Talk About Warren’s Black Agenda’ 9th Street Journal | Natalie Murdock: Education and environment advocate, state Senate District 20 candidate US News & World Report | Primary Winner Murdock Appointed to North Carolina Senate AP News | Primary winner Murdock appointed to North Carolina Senate IndyWeek | Natalie Murdock Appointed to State Senate Seat Spectacular Mag | Natalie Murdock Becomes 1st Black Woman Under 40 to Serve As State Senator News & Record | Surreal and humbling’: Youngest black female state legislator has ties to Greensboro’s civil rights movement News & Record | N.C.’s youngest black female state legislator says she was influenced by Greensboro’s civil rights movement News & Observer | Black women and girls would get more power and protections in new NC bills Herald Sun | NC Senate panel votes to reopen gyms, despite health officials’ concerns The Center Square | North Carolina Senate passes bills to reform expungement, mandatory minimum sentencing laws Cardinal & Pine | Black Women Make Up Most of Biden’s VP Shortlist.
 We Talked to Black Women Leaders in NC About Why That Matters.
-(Part 1 of 4)
-Indy Week | Op-ed: Child Care Facility Safety Can’t Take a Backseat During COVID
-Spectrum News 1 | Scholar of the Week: Jahmar Rodgers
-EdNC | New Park Will Honor ‘the African American struggle for freedom in North Carolina
-Press Inquiries
-For press inquiries, contact [email protected]
-Reach Us
-Natalie for NC Senate
-6409 Fayetteville Street, Suite 120-304
-Durham, NC 27713
-919.808.2520
+(Part 1 of 4) Indy Week | Op-ed: Child Care Facility Safety Can’t Take a Backseat During COVID Spectrum News 1 | Scholar of the Week: Jahmar Rodgers EdNC | New Park Will Honor ‘the African American struggle for freedom in North Carolina Press Inquiries For press inquiries, contact [email protected] Reach Us  Natalie for NC Senate 6409 Fayetteville Street, Suite 120-304 Durham, NC 27713  919.808.2520  [email protected] Follow Follow Follow Leave A Message Name Email Address Message Send Message Facebook X Paid for by Natalie for NC Senate

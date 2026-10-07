@@ -1,7 +1,22 @@
 [
-"http://facebook.com/ericamoorewv",
-"http://squarespace.com/",
-"https://ericamoorefordelegate.com/",
-"https://ericamoorefordelegate.com/cart",
-"https://secure.winred.com/erica-moore-for-delegate"
+{
+"text": "0",
+"href": "https://www.ericamoorefordelegate.com/cart"
+},
+{
+"text": "Donate to the Campaign",
+"href": "https://secure.winred.com/erica-moore-for-delegate"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "[image: Erica Moore for Delegate]",
+"href": "https://www.ericamoorefordelegate.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/ericamoorewv"
+}
 ]

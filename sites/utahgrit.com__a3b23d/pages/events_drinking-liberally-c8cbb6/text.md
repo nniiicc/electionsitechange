@@ -1,12 +1,5 @@
-Back to All Events
-The Salt Lake City, UT Chapter of Drinking Liberally
-Drinking Liberally has invited Rod to be their guest speaker at their weekly event.
+0 Skip to Content Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Open Menu Close Menu Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Open Menu Close Menu Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Back to All Events DRINKING LIBERALLY Friday, August 28, 2026 6:30 PM 8:00 PM Tucci's Cucina Italia 515 South 700 East Salt Lake City, Utah, 84102 United States (map) Google Calendar ICS The Salt Lake City, UT Chapter of Drinking Liberally Drinking Liberally has invited Rod to be their guest speaker at their weekly event.
 This is an opportunity for you to meet Rod, ask questions and enjoy dinner, drinks and conversation.
 Food and drinks are available for individual purchase.
-Previous
-Previous
-August 26
-LIVESTREAM
-Next
-Next
-August 29
+Learn more Previous Previous August 26 LIVESTREAM Next Next August 29 Canvass with Rod Moser for HD45 Utah Grit Request a Yard Sign House District 45 MAP Signs will be delivered to residences within House District 45 boundaries, paid for by Elect Rod Moser.
+Mailing Address: 3731 W South Jordan Pkwy #102-503 South Jordan, UT 84009 Paid for by Elect Rod Moser.

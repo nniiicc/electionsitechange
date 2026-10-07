@@ -1,11 +1,42 @@
 [
-"http://secure.winred.com/neighbors-for-enos",
-"https://facebook.com/WesleyEnos",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://wesenos.com/",
-"https://wesenos.com/contact-wes",
-"https://wesenos.com/meet-wes",
-"https://wesenos.com/request-a-yard-sign",
-"https://wesenos.com/wes-on-the-issues",
-"https://x.com/wes enos"
+{
+"text": "Contact Wes",
+"href": "https://wesenos.com/contact-wes"
+},
+{
+"text": "Donate",
+"href": "http://secure.winred.com/neighbors-for-enos/"
+},
+{
+"text": "Home",
+"href": "https://wesenos.com/"
+},
+{
+"text": "Meet Wes",
+"href": "https://wesenos.com/meet-wes"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://wesenos.com/request-a-yard-sign"
+},
+{
+"text": "Wes on the Issues",
+"href": "https://wesenos.com/wes-on-the-issues"
+},
+{
+"text": "[image: Wes Enos for Supervisor]",
+"href": "https://wesenos.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WesleyEnos"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/wes%20enos"
+}
 ]

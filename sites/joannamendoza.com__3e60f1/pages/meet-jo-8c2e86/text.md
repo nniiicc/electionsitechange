@@ -1,7 +1,7 @@
-Arizona Tough.
+Meet Jo On the Issues Endorsements News Get Involved Donate Contact Store Contribute Meet Jo On the Issues Endorsements News Get Involved Donate Contact Store Contribute Arizona Tough.
 Battle-Tested.
 Ready to Serve.
-JoAnna Mendoza, or “Jo” as she is known to friends and family, embodies the spirit of Arizona Tough.
+JoAnna Mendoza JoAnna Mendoza, or “Jo” as she is known to friends and family, embodies the spirit of Arizona Tough.
 Raised in a farmworker family in Pinal County, JoAnna experienced firsthand the realities of rural poverty and the power of community.
 Those early lessons set her on a lifelong path of service and action.
 At just 17, Jo answered the call to serve, enlisting in the U.S.
@@ -21,3 +21,11 @@ She’s committed to practical, unifying solutions that lower costs for families
 JoAnna will protect Arizona’s water and natural resources, tackle climate change, ensure transparent and responsive government, invest in the next generation, and defend democracy and equal rights for all.
 In every conflict our nation has faced, Marines have been the first to fight.
 JoAnna Mendoza stands ready to take that same fighting spirit to Congress, to be the champion and the voice Arizona’s communities deserve.
+Meet Jo On the Issues Endorsements News Get Involved Donate Contact Store Terms & Conditions Privacy Policy Mailing Address: Mendoza for Congress P.O.
+Box 385 Marana, AZ 85653 JoAnna Mendoza is a retired United States Marine.
+Use of her military rank, job titles and photographs in uniform does not imply endorsement by the United States Marine Corps, Department of the Navy, or Department of Defense.
+By providing your cell phone number you consent to receive recurring updates from Mendoza for Congress, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy Policy and Terms and Conditions .
+Paid for by Mendoza for Congress

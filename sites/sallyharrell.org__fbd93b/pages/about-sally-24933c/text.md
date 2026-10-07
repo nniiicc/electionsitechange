@@ -1,5 +1,4 @@
-About Sally
-Experienced.
+Facebook Twitter Mail About Sally 2024 Endorsements 2022 Endorsements 2020 Endorsements 2018 Endorsements Priorities Healthcare Education Transportation Environment Criminal Justice & Police Reform Other Issues Voter Info Events Newsletters Contact DONATE Menu Menu About Sally Previous Next 1 2 3 4 5 6 7 8 Experienced.
 Smart.
 Progressive.
 In November of 2018 the people of the 40th Senate District, including DeKalb, Fulton and Gwinnett county residents, elected me to represent them in the Georgia State Senate.
@@ -15,5 +14,12 @@ Prior to serving in the Georgia legislature, I was the Executive Director of the
 I received my Master of Social Work from the University of Georgia and Bachelor of Social Work from Georgia State University.
 I currently live in the Northlake/Tucker area with my husband, Jay, while my two children attend Georgia State University and the University of Oregon.
 When not attending to legislative and campaign duties, I’m an avid reader and stay fit by climbing 60-foot walls at our local rock climbing gym.
-Stay in Touch
-Here’s what constituents are saying about Sally’s Senate Snapshots:
+Stay in Touch Here’s what constituents are saying about Sally’s Senate Snapshots: “I appreciate your emails more than I anticipated.
+They are informative while being upbeat.” Carol WOODSTOCK, GA “I appreciate your updates and have read all of them.
+Thanks to you I feel I know more about what’s going on in the Georgia legislature than I’ve ever known before.” Nancy DUNWOODY, GA “Your emails are so informative I suspect you have reawakened an interest in government by your constituents.” Rich DUNWOODY, GA “Senator, thoroughly enjoy your missives — informative, insightful and timely.” Gee Gee ATLANTA “Again, I have to say that you write extraordinarily wonderful newsletters.
+I have to read them from beginning to end so I don’t miss a sentence where you nail the truth so well.
+You have a great sense of humor which is so important in today’s world.” Sara DEKALB COUNTY “I enjoy your newsletters so much.
+They always have all the information I really need to have.” Lisa STONE MOUNTAIN “Sally, your communication is spectacular!” Mary AVONDALE ESTATES “I want you to know just how much I truly, truly, truly appreciate these electronic updates from you.
+They are filled with quality information and clearly convey the amount of effort you are expounding on the behalf of all Georgians.” Karen BUFORD Follow Sally [custom-facebook-feed] © # Paid for by The Committee to Elect Sally Harrell.
+Designed by Benton Creative .
+Facebook Twitter Mail Scroll to top

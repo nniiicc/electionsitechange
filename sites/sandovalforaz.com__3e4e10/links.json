@@ -1,19 +1,86 @@
 [
-"https://azmvdnow.gov/guest/customeranonymous/voterregistration/search/customer",
-"https://bsky.app/profile/sandovalforaz.bsky.social",
-"https://facebook.com/SandovalForArizona?eid=ARDk0EkFuD_U-FBWDv8LnymxTcP6L8AvR0JAjjSlJDl1GJftkZC2ymI1JT-otOPocq-UnHMxUTaU5CT0",
-"https://instagram.com/sandovalforaz",
-"https://mobile.twitter.com/SandovalForAZ",
-"https://my.arizona.vote/WhereToVote.aspx?s=address",
-"https://sandovalforaz.com/",
-"https://sandovalforaz.com/about",
-"https://sandovalforaz.com/about1",
-"https://sandovalforaz.com/cart",
-"https://sandovalforaz.com/donate",
-"https://sandovalforaz.com/endorsements",
-"https://sandovalforaz.com/issues",
-"https://sandovalforaz.com/resources",
-"https://sandovalforaz.com/volunteer",
-"https://secure.actblue.com/donate/sandoval-for-arizona-1",
-"https://tiktok.com/@sandovalforaz"
+{
+"text": "0",
+"href": "https://www.sandovalforaz.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.sandovalforaz.com/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/sandoval-for-arizona-1"
+},
+{
+"text": "DONATE",
+"href": "https://www.sandovalforaz.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.sandovalforaz.com/endorsements"
+},
+{
+"text": "FIND YOUR POLLING LOCATION - ENCUENTRE TU CENTRO DE VOTACIÓN",
+"href": "https://my.arizona.vote/WhereToVote.aspx?s=address"
+},
+{
+"text": "INVEST IN OUR CAMPAIGN",
+"href": "https://secure.actblue.com/donate/sandoval-for-arizona-1"
+},
+{
+"text": "ISSUES",
+"href": "https://www.sandovalforaz.com/issues"
+},
+{
+"text": "Learn More About Mariana",
+"href": "https://sandovalforaz.com/about1"
+},
+{
+"text": "Learn about Issues",
+"href": "https://sandovalforaz.com/about1"
+},
+{
+"text": "MEET MARIANA",
+"href": "https://www.sandovalforaz.com/about"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://azmvdnow.gov/guest/customeranonymous/voterregistration/search/customer"
+},
+{
+"text": "RESOURCES",
+"href": "https://www.sandovalforaz.com/resources"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.sandovalforaz.com/volunteer"
+},
+{
+"text": "[image: SANDOVAL FOR ARIZONA]",
+"href": "https://www.sandovalforaz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sandovalforaz.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://mobile.twitter.com/SandovalForAZ"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/sandoval-for-arizona-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SandovalForArizona/?eid=ARDk0EkFuD_U-FBWDv8LnymxTcP6L8AvR0JAjjSlJDl1GJftkZC2ymI1JT-otOPocq-UnHMxUTaU5CT0"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sandovalforaz/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@sandovalforaz"
+}
 ]

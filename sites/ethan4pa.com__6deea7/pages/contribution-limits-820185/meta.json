@@ -1,7 +1,9 @@
 {
  "description": "Discover Pennsylvania&#39;s campaign finance limits and political donation regulations to better understand contribution limits in Pennsylvania.",
  "final_url": "https://ethan4pa.com/contribution-limits",
- "paid_for_by": null,
+ "fingerprint": "243c687dd8b2da62b2cf18ce0dab8576d87ab712",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contribution Limits",
  "years_mentioned": []
 }

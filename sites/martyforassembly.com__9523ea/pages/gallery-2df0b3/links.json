@@ -1,13 +1,58 @@
 [
-"https://facebook.com/profile.php?id=61570981650155",
-"https://martyforassembly.com/",
-"https://martyforassembly.com/about",
-"https://martyforassembly.com/contact",
-"https://martyforassembly.com/early-voting-information",
-"https://martyforassembly.com/endorsements",
-"https://martyforassembly.com/events-1",
-"https://martyforassembly.com/gallery",
-"https://martyforassembly.com/in-the-news",
-"https://martyforassembly.com/issues",
-"https://martyforassembly.com/make-a-contribution"
+{
+"text": "About",
+"href": "https://martyforassembly.com/about"
+},
+{
+"text": "Contact",
+"href": "https://martyforassembly.com/contact"
+},
+{
+"text": "EARLY VOTING INFO",
+"href": "https://martyforassembly.com/early-voting-information#99f461df-1b70-4a44-9fbc-a68c6a06ed51"
+},
+{
+"text": "Early Voting Information",
+"href": "https://martyforassembly.com/early-voting-information"
+},
+{
+"text": "Endorsements",
+"href": "https://martyforassembly.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://martyforassembly.com/events-1"
+},
+{
+"text": "Gallery",
+"href": "https://martyforassembly.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://martyforassembly.com/"
+},
+{
+"text": "In the News",
+"href": "https://martyforassembly.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://martyforassembly.com/issues"
+},
+{
+"text": "Learn more about marty",
+"href": "https://martyforassembly.com/about"
+},
+{
+"text": "Make a contribution",
+"href": "https://martyforassembly.com/make-a-contribution"
+},
+{
+"text": "Marty for Assembly-60th ADMarty for Assembly-60th ADMarty for Assembly-60th ADMarty for Assembly-60th AD",
+"href": "https://martyforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61570981650155"
+}
 ]

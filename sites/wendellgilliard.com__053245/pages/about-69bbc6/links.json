@@ -1,10 +1,50 @@
 [
-"https://facebook.com/",
-"https://instagram.com/",
-"https://secure.actblue.com/donate/wendell-gilliard-1",
-"https://wendellgilliard.com/",
-"https://wendellgilliard.com/about",
-"https://wendellgilliard.com/get-involved",
-"https://wendellgilliard.com/issues",
-"https://x.com/"
+{
+"text": "About",
+"href": "https://www.wendellgilliard.com/about"
+},
+{
+"text": "Contact Representative Gilliard",
+"href": "https://www.wendellgilliard.com/get-involved"
+},
+{
+"text": "Contact Wendell",
+"href": "https://www.wendellgilliard.com/get-involved"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/wendell-gilliard-1"
+},
+{
+"text": "Get Constituent Help",
+"href": "https://www.wendellgilliard.com/#services"
+},
+{
+"text": "Get Involved",
+"href": "https://www.wendellgilliard.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.wendellgilliard.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.wendellgilliard.com/issues"
+},
+{
+"text": "View Legislative Accomplishments",
+"href": "https://www.wendellgilliard.com/issues"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/"
+}
 ]

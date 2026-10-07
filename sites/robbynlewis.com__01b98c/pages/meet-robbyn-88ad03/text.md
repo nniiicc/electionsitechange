@@ -1,11 +1,4 @@
-Del.
+Skip to content RobbynLewis.com About Open menu Priorities Robbyn’s Story Services Open menu Request Help About District 46 Initiatives Open menu Livable Streets Coalition Zero Waste Task Force Press Donate About Robbyn Del.
 Robbyn Lewis is committed to creating a Baltimore that is healthier, safer, and provides a high quality of life for its citizens.
-Priorities
-- Health care
-- Public transit
-- Safe & livable communities
-Read more about Robbyn’s priorities
-Robbyn’s Story
-Robbyn has focused on public health her entire career, and she brings her advocacy efforts to office for Baltimoreans.
-Read more about Robbyn’s story
-Header photo credit: John Wesby
+Priorities Health care Public transit Safe & livable communities Read more about Robbyn’s priorities Robbyn’s Story Robbyn has focused on public health her entire career, and she brings her advocacy efforts to office for Baltimoreans.
+Read more about Robbyn’s story Header photo credit: John Wesby @robbynlewis46th @robbynlewis46th info@robbynlewis.com 410.929.0555 Privacy Policy Authority: Friends of Robbyn Lewis, Tracey Lynn Lewis, Treasurer

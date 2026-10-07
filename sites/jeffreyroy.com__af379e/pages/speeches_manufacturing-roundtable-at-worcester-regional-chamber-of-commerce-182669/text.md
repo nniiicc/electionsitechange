@@ -1,4 +1,5 @@
-WELCOME.
+Skip to content Home Bio Contact Endorsements/Testimonials In the news Nuclear power a clean energy option?
+Newsletter Opioid Coalition Photos/Video Priorities Economy and Jobs Education Civility in Government Strategic planning Speeches A farm story – Six Pillars 2006 Adaptation to Life – Bates College Class Speech (1983) Americans look out for one another – graduation 2010 Arts Advocacy Day in Franklin Creativity, civility and responsibility – graduation 2011 Floor remarks on Healthcare reform Franklin Memorial Day Ceremony – 2014 Genocide Education Act – 2021 HMMS All In Reading and Veteran’s Day Event – 2014 Horace Mann dedication remarks Library dedications Maiden speech on H1566 – online legal notices Manufacturing Roundtable at Worcester Regional Chamber of Commerce Medway High Civics Day Remarks Next-generation roadmap for Massachusetts climate policy Offshore wind and clean energy act Pay it forward – Six Pillar Induction Remarks on Step therapy and patient safety Tear down some more walls – Graduation 2008 The Pluto Class – Graduation 2007 What are you doing for justice? – Six Pillars 2010 State House Tours Blog posts Donate Manufacturing Roundtable at Worcester Regional Chamber of Commerce WELCOME.
 My name is Jeffrey Roy, State Representative from Franklin, and co-chair of the Massachusetts Manufacturing Caucus.
 It is great to see so many of you here today to support manufacturing in Massachusetts.
 Let me begin by thanking Tim Murray and the Worcester Chamber of Commerce for putting this event together today to highlight and promote making it in Massachusetts.
@@ -17,8 +18,7 @@ We formed an Advanced Manufacturing Collaborative to formulate a strategic plan 
 Our mission is to be the most complete, connected, and fastest ecosystem for applying advanced technology to commercialize products from innovation through production.
 And it’s working because we have a legislature and a Governor working together with each of you to make it happen.
 And it is working.
-Here are some of the things we know about the industry:
-During the next decade, baby boomer retirements and economic expansion will lead to nearly three-and-a-half million job openings in manufacturing.
+Here are some of the things we know about the industry: During the next decade, baby boomer retirements and economic expansion will lead to nearly three-and-a-half million job openings in manufacturing.
 Manufacturers will struggle to find highly specialized scientists and design engineers.
 Manufacturers are faced with overcoming a negative image of the industry among young people.
 While most Americans consider manufacturing one of the most important domestic industries for maintaining a strong national economy, they rank it low as a career choice for themselves.
@@ -35,15 +35,13 @@ Blacktone Valley RVTHS is one of the leaders in these efforts.
 Tri-County Regional Vocational Technical High School, located in Franklin (the community I am honored to represent), has brought back its manufacturing program and developed a curriculum and relationship with Wentworth Institute of Technology.
 As a direct result, local students, continuing education students, and many others are benefiting from this education and getting d Manufacturing jobs right here in Massachusetts.
 The folks at the Executive Office of Housing and Economic Development (under the leadership of Jay Ash), Mass Development, the Workforce Training Fund, the UMass Lowell Innovation Hub, the UMass Innovation Center, Mas Tech, and the Massachusetts Manufacturing Extension Partnership (MassMEP), and many of you, as leaders of our great Massachusetts companies, have been furthering the policies developed to address the industry and Commonwealth needs, and boost the Massachusetts economy in the process.
-We have created a MA Manufacturing website:
-Whether accessing critical resources, fostering collaboration, or finding qualified workers, you won’t find a more supportive environment to grow your business than in Massachusetts.
+We have created a MA Manufacturing website: Whether accessing critical resources, fostering collaboration, or finding qualified workers, you won’t find a more supportive environment to grow your business than in Massachusetts.
 The Commonwealth provides the resources manufacturers need to access creative financing solutions, save on energy costs, attract qualified workers, and take their businesses to the next level.
 And you can find all these resources on the website.
 We had our 2nd Annual Manufacturing award ceremony at the State House recognizing 53 manufacturers.
 It was great to see the innovative and revolutionary manufacturing capabilities and products that are being produced throughout this Commonwealth.
 And we’re going to continue on this path of prosperity and make this state #1 in the nation.
-Here are some other things we have also been working on:
-The Massachusetts Manufacturing Innovation Initiative (M2I2) is a substantial, nationally-leading commitment by the State Legislature to develop the Manufacturing USA infrastructure within the state.
+Here are some other things we have also been working on: The Massachusetts Manufacturing Innovation Initiative (M2I2) is a substantial, nationally-leading commitment by the State Legislature to develop the Manufacturing USA infrastructure within the state.
 We have committed over $100M to capital grants for projects.
 This provides a vehicle for the Commonwealth to invest in the Manufacturing USA program and advance innovation and job growth through cross-collaboration among companies, universities, national labs, government, incubators, accelerators, and other academic/training institutions.
 If we look at our nation’s history, times of big growth have always been fueled by manufacturing revolutions.
@@ -55,7 +53,7 @@ And harnessing these technologies in the manufacturing space is the next revolut
 And Massachusetts can lead the way.
 Manufacturing is vitally important to the Massachusetts economy.
 It is the sixth largest employment sector here.
-According to the recently launched Manufacturing in Massachusetts website (http://www.mamanufacturing.com/), 10.1% of the Commonwealth’s total economic output is tied to manufacturing and $26 billion in manufactured goods were exported from the Commonwealth in 2016 alone.
+According to the recently launched Manufacturing in Massachusetts website ( http://www.mamanufacturing.com/ ), 10.1% of the Commonwealth’s total economic output is tied to manufacturing and $26 billion in manufactured goods were exported from the Commonwealth in 2016 alone.
 Roughly 250,000 employees work in the manufacturing sector in Massachusetts, comprising 7.8% of the total workforce in the state.
 Thank you for the opportunity to join you today.
 I’ll leave you with a little homework — something for your summer reading list.
@@ -63,3 +61,9 @@ Joshua Freeman has written a book called Behometh, which tells the history of la
 Freeman tells the story of the factory and examines how it has reflected both our dreams and our nightmares of industrialization and social change.
 He also explores how factories became objects of great wonder that both inspired and horrified artists and writers in their time.
 Together we are writing the next chapter in manufacturing history, and I am happy to be able to join you on this journey.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Like Loading...
+Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
+Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?
+Log in now. jeffreyroy.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

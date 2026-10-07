@@ -1,19 +1,13 @@
-Jessie and I discuss foreign policy, military service during the Global War on Terror, and Defend the Guard.
-Tag Archives: Interview
-Interview – PorcReport 2026
-Interview – The Granite Discourse
-This interview was an absolute blast, the longest I’ve ever done.
+Tom Mannion for New Hampshire Search Primary Menu Skip to content Bills Roll Calls Hearing Alert Testimonies Bills Passed On The Issues Lockdowns/Health Mandates Taxation Firearms Crypto Energy Education Marijuana Surveys & Interviews Endorsements About Me Donate Search for: Tag Archives: Interview Interview Interview – Now is the Time to Talk February 13, 2026 Tom Mannion Leave a comment Jessie and I discuss foreign policy, military service during the Global War on Terror, and Defend the Guard.
+Defend the Guard Interview Veterans Interview Interview – PorcReport 2026 January 22, 2026 Tom Mannion Leave a comment Defend the Guard Interview Interview Interview – The Granite Discourse June 27, 2025 Tom Mannion Leave a comment This interview was an absolute blast, the longest I’ve ever done.
 Craig is a fantastic host, our very own NH-focused Joe Rogan!
-Interview – Republican Sentinel
-I was interviewed by Ben Zeisloft of the Republican Sentinel about our efforts to pass Defend the Guard in New Hampshire.
-I thank him for expanding awareness about the bill!
-https://republicsentinel.com/articles/how-the-defend-the-guard-movement-seeks-to-end-forever-wars
-Interview – Shut the Punk Up
-I appeared on Shut the Punk Up podcast, hosted by my friend Ben Weir.
+Defend the Guard Housing Interview Interview Interview – Republican Sentinel December 12, 2024 Tom Mannion Leave a comment I was interviewed by Ben Zeisloft of the Republican Sentinel about our efforts to pass Defend the Guard in New Hampshire.
+I thank him for expanding awareness about the bill! https://republicsentinel.com/articles/how-the-defend-the-guard-movement-seeks-to-end-forever-wars Defend the Guard Interview Interview Interview – Shut the Punk Up August 19, 2024 Tom Mannion Leave a comment I appeared on Shut the Punk Up podcast, hosted by my friend Ben Weir.
 We discussed Defend the Guard, U.S. foreign policy, our military service, my motivations for moving to New Hampshire and running for office, music, and how others can get involved politically to continue making New Hampshire the freest state in the nation.
-Interview with Eric Brakey
-I forgot to post this when it aired, but I was graciously invited onto the Porcupine Report’s inaugural episode last month!
+New Hampshire Liberty In Our Lifetime ft. @Mannion4NH https://t.co/7sJ5oWWhU5 — Ben The Emo AnCap (@TheEmoAncap) August 19, 2024 Defend the Guard foreign policy Interview Veterans Interview Interview with Eric Brakey March 6, 2024 Tom Mannion Leave a comment I forgot to post this when it aired, but I was graciously invited onto the Porcupine Report’s inaugural episode last month!
 We covered a lot of topics, largely focused around HB229 – Defend the Guard.
-Defend the Guard PorcFest Interview w/ Derek Proulx
-I went to Porcfest this summer and was interviewed by Derek Proulx about HB229 – Defend the Guard.
+Defend the Guard Free State Project Interview Interview Defend the Guard PorcFest Interview w/ Derek Proulx September 5, 2023 Tom Mannion Leave a comment I went to Porcfest this summer and was interviewed by Derek Proulx about HB229 – Defend the Guard.
 We talked about our history in service to the United States and how we both came to the same conclusion – the United States no longer wages war for the betterment of its citizens, but to advance the goals of the military industrial complex.
+Defend the Guard Interview Porcfest Interview Interview – Free State Live November 14, 2022 Tom Mannion Leave a comment Interview State Representative – Hillsborough County District 01 (Pelham) Paid for by Tom Mannion for New Hampshire Create a website or blog at WordPress.com Subscribe Subscribed Tom Mannion for New Hampshire Sign me up Have a WordPress.com account?
+Log in now.
+Tom Mannion for New Hampshire View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

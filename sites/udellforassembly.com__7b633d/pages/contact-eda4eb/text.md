@@ -1,4 +1,1 @@
-Contact
-THe Committee to Elect Randy Udell
-(608) 332-6261 — contact@udellforassembly.com
-Fitchburg, WI 53711
+0 Skip to Content Home Bio Bio Bio de Randy Udell Why I'm Running Why I'm Running Porque Me Estoy Postulando Issues Issues Sobre Los Temas Endorsements 47th District Contact Contribute Open Menu Close Menu Home Bio Bio Bio de Randy Udell Why I'm Running Why I'm Running Porque Me Estoy Postulando Issues Issues Sobre Los Temas Endorsements 47th District Contact Contribute Open Menu Close Menu Home Folder: Bio Back Bio Bio de Randy Udell Folder: Why I'm Running Back Why I'm Running Porque Me Estoy Postulando Folder: Issues Back Issues Sobre Los Temas Endorsements 47th District Contact Contribute Contact THe Committee to Elect Randy Udell (608) 332-6261 — contact@udellforassembly.com Fitchburg, WI 53711 FOLLOW ALONG Contact CONTRIBUTE Paid for by the Committee to Elect Randy Udell © # Committee to elect randy udell — All Rights Reserved photos of randy with politicians and other public figures does not imply an endorsement or affiliation

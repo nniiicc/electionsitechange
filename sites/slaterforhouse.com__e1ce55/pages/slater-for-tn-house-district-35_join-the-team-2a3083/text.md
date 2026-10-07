@@ -1,6 +1,2 @@
-Your full name
-Your email
-Street Address Street Address Line 2 City State Postal / Zip Code
-Phone Number Are you over 18?
-YesNo Preferred Area to Volunteer Phone BankingYard SignEarly Vote WorkerNeighborhood Coffee SocialWrite Dear Friend CardsElection DayNeighborhood WalkingTeam Slater- CaptainTeam Slater- Team Member Any special message you need us to know.
-(optional)
+Join The Team Your full name Your email Your Address Street Address Street Address Line 2 City State Postal / Zip Code Phone Number Are you over 18?
+Yes No Preferred Area to Volunteer Phone Banking Yard Sign Early Vote Worker Neighborhood Coffee Social Write Dear Friend Cards Election Day Neighborhood Walking Team Slater- Captain Team Slater- Team Member Any special message you need us to know. (optional)

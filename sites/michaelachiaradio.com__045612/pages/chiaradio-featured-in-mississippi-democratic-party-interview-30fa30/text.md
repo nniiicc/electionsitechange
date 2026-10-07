@@ -1,5 +1,4 @@
-- May 9, 2026
-Jackson, MS — Democratic congressional nominee Michael A.
+Skip to content Home About Me Issues Contact News Menu Home About Me Issues Contact News donate Home About Me Issues Contact News Donate Menu Home About Me Issues Contact News Donate May 9, 2026 Chiaradio Featured in Mississippi Democratic Party Interview Jackson, MS — Democratic congressional nominee Michael A.
 Chiaradio was recently featured in an interview with the Mississippi Democratic Party, where he outlined his vision for Mississippi’s 3rd Congressional District and reaffirmed his commitment to representing the people of the district over special interests.
 During the interview, Chiaradio emphasized that the core responsibility of elected office is to serve the public, not outside donors or political insiders.
 And he discussed the importance of building a government that is accountable, transparent, and focused on delivering real results for communities across the district.
@@ -8,12 +7,7 @@ He outlined a policy approach centered on strengthening local economies, improvi
 The conversation included a detailed look at Chiaradio’s economic vision and how he plans to execute it, with a focus on practical solutions that can benefit the entire district.
 Chiaradio closed the interview by reflecting on the responsibility of representing the district and the trust placed in him by voters.
 He described the opportunity as humbling and reaffirmed his commitment to fighting for the people of Mississippi.
-The full interview is available here: https://www.facebook.com/share/v/18g8At6pW4/
-To support Chiaradio’s campaign and help expand outreach across the district, please consider contributing today: https://secure.actblue.com/donate/michael-a-chiaradio
-- 1-800-700-600
-- info@thecentersolutionsparty.com
-- 60 East 65th Street, New York City, NY 10065
-Paid for by Michael A.
+The full interview is available here: https://www.facebook.com/share/v/18g8At6pW4/ To support Chiaradio’s campaign and help expand outreach across the district, please consider contributing today: https://secure.actblue.com/donate/michael-a-chiaradio Facebook-f Twitter Youtube Home About Me Issues Contact News Home About Me Issues Contact News Get In Touch 1-800-700-600 info@thecentersolutionsparty.com 60 East 65th Street, New York City, NY 10065 Useful Links Stay Informed Tiktok Instagram Facebook Youtube Home About Me Issues Contact News Donate Home About Me Issues Contact News Donate HOME ABOUT ME ISSUES CONTACT NEWS DONATE SHOP Donate Paid for by Michael A.
 Chiaradio for Congress 2026, Inc.
 Contributions are not tax deductible.
-Contributions are not tax deductible.
+Privacy Policy

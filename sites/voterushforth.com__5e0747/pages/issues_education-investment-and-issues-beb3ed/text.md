@@ -1,11 +1,7 @@
-EducatIon
-Raising Per-Pupil Investment Increasing Teacher Pay Learning Centered Classes
-Introduction
-There is no investment more lucrative than education.
+About Issues Contact Donate Now About Issues Contact Donate Now EducatIon Raising Per-Pupil Investment Increasing Teacher Pay Learning Centered Classes Introduction There is no investment more lucrative than education.
 A robust and accessible public education system has been one of the strongest draws for young families to choose Utah as the place for people to raise their children.
 However, Utah lags in Per-Pupil Spending, legislation that focuses on learning, and incentivizing effective teachers to remain in the classroom.
-Per-Pupil Spending is Investment in the Future
-Utah spends less money than all other states - Washington DC included - on students enrolled in public schools.
+Per-Pupil Spending is Investment in the Future Utah spends less money than all other states - Washington DC included - on students enrolled in public schools.
 Just over $10,000 per-pupil each year.
 Whereas Washington DC and New York average around $30,000 per-pupil.
 This spending can be attributed to three categories: Instruction, Nutritional Services, and Support Services.
@@ -32,8 +28,7 @@ We need to pay teachers more.
 We need to incentivize good teachers to stay and to get higher degrees.
 Education is not a bubble that will burst.
 Kids will always need to learn.
-Learning Centered Classrooms
-Social commentary is destroying the learning environment in Utah's schools.
+Learning Centered Classrooms Social commentary is destroying the learning environment in Utah's schools.
 And I'm not talking about teachers.
 I'm talking about politicians conjuring boogeymen up on capitol hill and on the news.
 They create arguments about what is culturally and socially acceptable and parents latch onto it.
@@ -46,11 +41,11 @@ Or worse, believe that their constituents won't.
 Let teachers teach.
 Most teachers do not have the time to "indoctrinate" a student.
 They are just trying to get them to turn to page 33.
-What I'm Going to do About it
-I'm going to prioritize education funding per-pupil.
+What I'm Going to do About it I'm going to prioritize education funding per-pupil.
 I'm going to push for teacher pay increases, not only starting wages but incremental steps as well.
 Every teacher deserves to live doing what they love.
 I'm going to sponsor legislation that makes it easier for teachers to actually teach.
 I'm going to work with Teacher Unions across the state to make sure they are all represented in a way that makes it so that all 26,000 teachers across the state know that they are appreciated.
 And not with a pizza party.
 But rather in ways that make it easier to live in this place they - and their students - call home.
+Navigation Home About Issues Donate Social Connect Instagram Facebook Threads Contact us Volunteer Form Navigation Home About Issues Donate Social Connect Instagram Facebook Threads Contact us Volunteer Form Navigation Home About Issues Donate Social Connect Instagram Facebook Threads Contact us Volunteer Form

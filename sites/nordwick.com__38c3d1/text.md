@@ -1,5 +1,3 @@
-TRUMP Endorsed RNC 2024 Delegate
-Suzzann Nordwick
-Montana must move to a fair property tax for residents that allows fixed income to own their home.
-Let's protect our traditional jobs and promote more good-paying opportunities to live and work in Montana
-Let's work to protect our Montana way of life where our rights are respected and the TRUTH is valued
+SUZZANN NORDWICK Montana First HOME PRIORTIES ABOUT CONTACT DONATE INFORMATION TRUMP Endorsed RNC 2024 Delegate Suzzann Nordwick Montana HOUSE HD71 AMERICA FIRST REPUBLICAN MONTANA FIRST LOWER TAXES Montana must move to a fair property tax for residents that allows fixed income to own their home.
+GOOD JOBS Let's protect our traditional jobs and promote more good-paying opportunities to live and work in Montana WAY-OF-LIFE Let's work to protect our Montana way of life where our rights are respected and the TRUTH is valued ENDORSED by Montanans for Limited Government in 2024 Republican Primary Election WinRed - GOP secure payment DONATE ​ CONTACT send a MESSAGE to SUZZANN NORDWICK Put SUZZANN to work for you!
+Principled American Patriot Engineer / Scientist / Analyst Common sense problem-solver Hardworking 5th-gen Montanan Get UPDATES SEND 406-782-5310 INFO@NORDWICK.COM DONATE NORDWICK FOR MONTANA PO BOX 721 BUTTE MT 59703 REPUBLICAN

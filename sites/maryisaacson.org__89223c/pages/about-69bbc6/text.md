@@ -1,4 +1,4 @@
-Mary Isaacson was elected state representative for the 175th District in Philadelphia in November 2018, serving the areas of the River Wards along the Delaware River from Old Richmond to Queen Village and points in between including Chinatown and historic Washington Square.
+Skip to content Home About Issues Endorsements Contact Donate About Mary Isaacson was elected state representative for the 175th District in Philadelphia in November 2018, serving the areas of the River Wards along the Delaware River from Old Richmond to Queen Village and points in between including Chinatown and historic Washington Square.
 Mary has worked her whole adult life on issues that impact her neighbors and communities of the district she now represents.
 Her top priorities include education funding, protecting our waterways, commonsense gun legislation, fighting for LGBTQ and women’s rights, affordable healthcare for all and a government that is transparent and accountable to citizens, particularly in redistricting and campaign-finance reform.
 Prior to becoming state legislator, Mary served 12 years as Chief of Staff for the late State Representative Mike O’Brien, working alongside him to serve constituents and identify ways to improve life in the 175th and advance an agenda that puts people before special interests.
@@ -6,3 +6,7 @@ Mary has served more than 13 years as a member of the Democratic State Committee
 She also supported the quality of life of local residents as a coordinator of zoning and land practice at a law firm in Philadelphia prior to joining the 175th District Office.
 Mary received her bachelor’s in Political Science from State University of New York at Oneonta, an A.S. in Early Childhood Education from State University of New York at Farmingdale and is certified by the Temple Real Estate Institute.
 Mary resides in the Northern Liberties section of Philadelphia where she raised her two children, Sophia and Oscar.
+Ready to Support?
+Make a Donation MARY ISAACSON FOR PA PAID FOR By friends of mary isaacson Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website MARY ISAACSON FOR PA Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

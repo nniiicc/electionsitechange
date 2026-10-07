@@ -1,8 +1,10 @@
 {
  "description": "Mike Scala in His Own Words News & Media Coverage",
  "final_url": "https://scala.vision/press-room/?query-9-page=2&query-1-page=2",
+ "fingerprint": "62dac3d1d39d3aa2ffdfa3ca263853c0ddc580bf",
+ "format": 3,
  "paid_for_by": "Paid for by Scala for New York",
- "title": "Press Room \u2013 Scala for Assembly",
+ "title": "Press Room – Scala for Assembly",
  "years_mentioned": [
   "2026"
  ]

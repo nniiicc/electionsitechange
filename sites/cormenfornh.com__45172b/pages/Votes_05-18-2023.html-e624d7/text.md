@@ -1,6 +1,4 @@
-NH State Representative Tom Cormen
-of May 18, 2023
-There were relatively few bills on the calendar for this session day, but two of them were very high profile: SB 272, the “Parental Bill of Rights,” and SB 263, which would make Medicaid expansion permanent (technically, it would remove the sunsetting provision).
+Home About Votes Media Contact Donate NH State Representative Tom Cormen My votes in the NH House session of May 18, 2023 There were relatively few bills on the calendar for this session day, but two of them were very high profile: SB 272, the “Parental Bill of Rights,” and SB 263, which would make Medicaid expansion permanent (technically, it would remove the sunsetting provision).
 It was a huge day for the House Democrats.
 After the assistant clerk announced the excused absences, I saw a tweet from Adam Sexton of WMUR where he listed the names and party affiliations of those excused.
 Seven were Republicans and only two were Democrats, which meant that we nominally had a 194-193 advantage.
@@ -27,96 +25,18 @@ And it was fun.
 A few Democrats even did The Wave.
 (Not me.
 I did the wave when it was first a thing at Oakland A’s games back in the early 1980s.
-It’s passé now.)
-First, we had five bills that had passed the House but were amended in the Senate, where we were asked to concur with the Senate’s amendments.
+It’s passé now.) First, we had five bills that had passed the House but were amended in the Senate, where we were asked to concur with the Senate’s amendments.
 We concurred on all five.
-| Bill | Motion | Type of vote | My vote | Result of vote | Notes |
-|---|---|---|---|---|---|
-| HB 252 | Concur | Voice | Yea | Concur | |
-| HB 72 | Concur | Voice | Yea | Concur | |
-| HB 111 | Concur | Voice | Yea | Concur | |
-| HB 137 | Concur | Voice | Yea | Concur | |
-| HB 268 | Concur | Voice | Yea | Concur | |
-Then a few bills before we got to SB 272.
+Bill Motion Type of vote My vote Result of vote Notes HB 252 Concur Voice Yea Concur HB 72 Concur Voice Yea Concur HB 111 Concur Voice Yea Concur HB 137 Concur Voice Yea Concur HB 268 Concur Voice Yea Concur Then a few bills before we got to SB 272.
 Amendments precede the bills that they amend.
-| Bill | Motion | Type of vote | My vote | Result of vote | Notes |
-|---|---|---|---|---|---|
-| Amendment 1676h | Adopt | Division | Nay | 182-201 | |
-| SB 128-FN | OTP | Roll call | Yea | OTP 207-177 | |
-| SB 258 | ITL | Voice | Yea | ITL | |
-| SB 164-FN-LOCAL | Table | Voice | Yea | Table | |
-| Amendment 1577h | Adopt | Voice | Yea | Adopted | |
-| SB 120-FN | OTPA | Division | Nay | OTPA 202-182 | |
-Then on to the amendments to SB 272, followed by the motion by Minority Leader Matt Wilhelm to Indefinitely Postpone.
+Bill Motion Type of vote My vote Result of vote Notes Amendment #h Adopt Division Nay 182-201 SB 128-FN OTP Roll call Yea OTP 207-177 SB 258 ITL Voice Yea ITL SB 164-FN-LOCAL Table Voice Yea Table Amendment #h Adopt Voice Yea Adopted SB 120-FN OTPA Division Nay OTPA 202-182 Then on to the amendments to SB 272, followed by the motion by Minority Leader Matt Wilhelm to Indefinitely Postpone.
 More on SB 272 below.
-| Bill | Motion | Type of vote | My vote | Result of vote | Notes |
-|---|---|---|---|---|---|
-| Amendment 1818h | Adopt | Roll call | Yea | Adopted 196-188 | |
-| Amendment 1819h | Adopt | Roll call | Yea | Adopted 196-189 | |
-| Amendment 1836h | Adopt | Roll call | Yea | Adopted 198-187 | |
-| Amendment 1675h | Adopt | Roll call | Yea | Adopted 201-184 | Motion to Reconsider failed on roll call 184-201; I voted Nay |
-| Amendment 1886h | Adopt | Roll call | Yea | Adopted 198-187 | |
-| Amendment 1907h | Adopt | Roll call | Yea | Adopted 198-187 | |
-| SB 272 | Table | Roll call | Nay | 186-199 | |
-| SB 272 | Indefinitely Postpone | Roll call | Yea | Indefinitely Postponed, 195-190 | |
-After lunch, a few more Senate bills before SB 263.
-| Bill | Motion | Type of vote | My vote | Result of vote | Notes |
-|---|---|---|---|---|---|
-| Amendment 1685h | Adopt | Voice | Yea | Adopted | |
-| SB 267-FN | OTPA | Division | Yea | OTPA 302-77 | |
-| Amendment 1727h | Adopt | Voice | Yea | Adopted | |
-| SB 195-FN | OTPA | Voice | Yea | OTPA | |
-| Amendment 1833h | Adopt | Division | Nay | 152-230 | |
-| SB 32-FN | OTP | Voice | Yea | OTP | |
-| SB 85-FN-A | OTP | Division | Yea | OTP 271-112 | First an ITL motion failed, 159-223; I voted Nay |
-| Amendment 1457h | Adopt | Voice | Yea | Adopted | |
-| SB 127-FN | OTPA | Voice | Yea | OTPA | |
-| Amendment 1568h | Adopt | Voice | Yea | Adopted | |
-| Amendment 1583h | Adopt | Division | Nay | 105-275 | |
-| SB 200 | OTPA | Division | Yea | OTPA 239-141 | |
-| Amendment 1754h | Adopt | Division | Yea | Adopted 249-127 | |
-| Amendment 1861h | Adopt | Division | Yea | Adopted 359-18 | |
-| SB 239-FN | OTPA | Voice | Yea | OTPA | |
-Finally, a string of amendments and tabling motions before voting on SB 263.
-| Bill | Motion | Type of vote | My vote | Result of vote | Notes |
-|---|---|---|---|---|---|
-| Amendment 1910h | Adopt | Roll call | Nay | 184-192 | |
-| Amendment 1864h | Adopt | Roll call | Nay | 181-199 | |
-| Amendment 1749h | Adopt | Roll call | Nay | 186-193 | |
-| SB 263-FN | Table | Division | Nay | 185-196 | |
-| Amendment 1869h | Adopt | Roll call | Nay | 184-195 | |
-| SB 263-FN | Table | Division | Nay | 185-194 | |
-| Amendment 1841h | Adopt | Roll call | Nay | 175-199 | |
-| SB 263-FN | Table | Division | Nay | 182-192 | |
-| Amendment 1890h | Adopt | Roll call | Nay | 175-194 | |
-| Amendment 1750h | Adopt | Roll call | Nay | 169-192 | |
-| SB 263-FN | Move the previous question | Roll call | Yea | Motion adopted 196-169 | See the discussion below |
-| Amendment 1860h | Adopt | Roll call | Nay | 175-194 | |
-| Amendment 1748h | Adopt | Roll call | Nay | 173-195 | |
-| Amendment 1881h | Adopt | Roll call | Nay | 176-193 | |
-| Amendment 1747h | Adopt | Roll call | Nay | 173-194 | |
-| Amendment 1832h | Adopt | Roll call | Nay | 168-193 | |
-| Amendment 1857h | Adopt | Roll call | Nay | 170-191 | |
-| Amendment 1859h | Adopt | Roll call | Nay | 169-196 | |
-| Amendment 1867h | Adopt | Roll call | Nay | 174-190 | |
-| Amendment 1868h | Adopt | Roll call | Nay | 169-190 | |
-| Amendment 1870h | Adopt | Roll call | Nay | 166-194 | |
-| Amendment 1871h | Adopt | Roll call | Nay | 162-191 | |
-| Amendment 1872h | Adopt | Roll call | Nay | 166-191 | |
-| Amendment 1873h | Adopt | Roll call | Nay | 164-183 | |
-| Amendment 1897h | Adopt | Roll call | Nay | 164-190 | |
-| Amendment 1901h | Adopt | Roll call | Nay | 167-193 | |
-| Amendment 1909h | Adopt | Roll call | Nay | 163-191 | |
-| Amendment 1922h | Adopt | Roll call | Nay | 160-187 | |
-| Amendment 1923h | Adopt | Roll call | Nay | 156-198 | |
-| Amendment 1929h | Adopt | Roll call | Nay | 166-190 | |
-| Amendment 1789h | Adopt | Roll call | Nay | 118-241 | |
-| SB 263-FN | OTP | Roll call | Yea | OTP 193-166 | |
-| Print Remarks | OTP | Division | Nay | 172-178 | |
-The vote on this bill was the only vote of the day in which I was on the losing side.
+Bill Motion Type of vote My vote Result of vote Notes Amendment 1818h Adopt Roll call Yea Adopted 196-188 Amendment 1819h Adopt Roll call Yea Adopted 196-189 Amendment 1836h Adopt Roll call Yea Adopted 198-187 Amendment 1675h Adopt Roll call Yea Adopted 201-184 Motion to Reconsider failed on roll call 184-201; I voted Nay Amendment 1886h Adopt Roll call Yea Adopted 198-187 Amendment 1907h Adopt Roll call Yea Adopted 198-187 SB 272 Table Roll call Nay 186-199 SB 272 Indefinitely Postpone Roll call Yea Indefinitely Postponed, 195-190 After lunch, a few more Senate bills before SB 263.
+Bill Motion Type of vote My vote Result of vote Notes Amendment 1685h Adopt Voice Yea Adopted SB 267-FN OTPA Division Yea OTPA 302-77 Amendment 1727h Adopt Voice Yea Adopted SB 195-FN OTPA Voice Yea OTPA Amendment 1833h Adopt Division Nay 152-230 SB 32-FN OTP Voice Yea OTP SB 85-FN-A OTP Division Yea OTP 271-112 First an ITL motion failed, 159-223; I voted Nay Amendment 1457h Adopt Voice Yea Adopted SB 127-FN OTPA Voice Yea OTPA Amendment 1568h Adopt Voice Yea Adopted Amendment 1583h Adopt Division Nay 105-275 SB 200 OTPA Division Yea OTPA 239-141 Amendment 1754h Adopt Division Yea Adopted 249-127 Amendment 1861h Adopt Division Yea Adopted 359-18 SB 239-FN OTPA Voice Yea OTPA Finally, a string of amendments and tabling motions before voting on SB 263.
+Bill Motion Type of vote My vote Result of vote Notes Amendment 1910h Adopt Roll call Nay 184-192 Amendment 1864h Adopt Roll call Nay 181-199 Amendment 1749h Adopt Roll call Nay 186-193 SB 263-FN Table Division Nay 185-196 Amendment 1869h Adopt Roll call Nay 184-195 SB 263-FN Table Division Nay 185-194 Amendment 1841h Adopt Roll call Nay 175-199 SB 263-FN Table Division Nay 182-192 Amendment 1890h Adopt Roll call Nay 175-194 Amendment 1750h Adopt Roll call Nay 169-192 SB 263-FN Move the previous question Roll call Yea Motion adopted 196-169 See the discussion below Amendment 1860h Adopt Roll call Nay 175-194 Amendment 1748h Adopt Roll call Nay 173-195 Amendment 1881h Adopt Roll call Nay 176-193 Amendment 1747h Adopt Roll call Nay 173-194 Amendment 1832h Adopt Roll call Nay 168-193 Amendment 1857h Adopt Roll call Nay 170-191 Amendment 1859h Adopt Roll call Nay 169-196 Amendment 1867h Adopt Roll call Nay 174-190 Amendment 1868h Adopt Roll call Nay 169-190 Amendment 1870h Adopt Roll call Nay 166-194 Amendment 1871h Adopt Roll call Nay 162-191 Amendment 1872h Adopt Roll call Nay 166-191 Amendment 1873h Adopt Roll call Nay 164-183 Amendment 1897h Adopt Roll call Nay 164-190 Amendment 1901h Adopt Roll call Nay 167-193 Amendment 1909h Adopt Roll call Nay 163-191 Amendment 1922h Adopt Roll call Nay 160-187 Amendment 1923h Adopt Roll call Nay 156-198 Amendment 1929h Adopt Roll call Nay 166-190 Amendment 1789h Adopt Roll call Nay 118-241 SB 263-FN OTP Roll call Yea OTP 193-166 Print Remarks OTP Division Nay 172-178 SB 120-FN The vote on this bill was the only vote of the day in which I was on the losing side.
 The bill raises the maximum bet at a charitable gaming location from $10 to $50.
 Democrats wanted a $25 cap, feeling that a 5X increase was too sudden.
-The “Parental Bill of Rights.” We had already tabled the House version of this bill, HB 10.
+SB 272-FN The “Parental Bill of Rights.” We had already tabled the House version of this bill, HB 10.
 As you might imagine, there was heavy lobbying from both sides on SB 272.
 Many of the “rights” in this bill were already in statute.
 The controversial part of the bill was the provision that if a student confided in any employee of a school around issues of their gender or sexuality, that employee would be mandated to report it to the student’s parents.
@@ -132,17 +52,16 @@ Once we had voted on the amendments, the Republicans supporting the bill could s
 They moved to table the bill, but that motion failed.
 Matt Wilhelm had actually tried to move to Indefinitely Postpone before we even started on the amendments, but that motion was out of order.
 (It’s a motion of lower priority than a motion to amend, or just about any other motion.) After the tabling motion failed, Wilhelm again moved to Indefinitely Postpone.
-(Listen to Majority Leader Jason Osborne’s unhinged parliamentary inquiry here.) This time, the motion was in order and it passed.
+(Listen to Majority Leader Jason Osborne’s unhinged parliamentary inquiry here .) This time, the motion was in order and it passed.
 Had we voted for ITL instead, the bill could come back next year.
 Because we voted to Indefinitely Postpone, it cannot come back this biennium, so that the soonest it could return would be 2025.
 I can only hope that by then, folks will realize that our LGBTQ+ friends pose no threat.
-I wrote about this bill on May 4.
+SB 195-FN I wrote about this bill on May 4 .
 Rep.
-Carol McGuire, seen here, spoke about an amendment:
-The amendment is because a very sharp-eyed legislator actually read the bill without being familiar with it and noticed that between the bottom of page 1 and the top of page 2 a line had been left out.
+Carol McGuire, seen here , spoke about an amendment: The amendment is because a very sharp-eyed legislator actually read the bill without being familiar with it and noticed that between the bottom of page 1 and the top of page 2 a line had been left out.
 This amendment puts the line back in.
 This “very sharp-eyed legislator” represents Ward 3 of Lebanon.
-This bill extends the Granite Advantage program, i.e., Medicaid expansion, by removing the sunset provision that had been scheduled for 2023.
+SB 263-FN This bill extends the Granite Advantage program, i.e., Medicaid expansion, by removing the sunset provision that had been scheduled for 2023.
 The Republican proposal was to sunset in 2025, giving a two-year extension.
 Once the Republicans heard that the Democrats were unwilling to go along, they softened and suggested a six-year extension through 2029.
 No dice on our end.
@@ -156,7 +75,7 @@ We were assured that we would be able to get out.
 All three tabling motions were defeated.
 Our floor leader, Rep.
 Lucy Weber, spoke against the amendments and made all the parliamentary inquiries.
-She was a rock.
+She was a rock .
 After we had voted down the first seven amendments and the three tabling motions went down, Rep.
 Weber asked to “move the previous question.” It turned out that she wasn’t quite sure what that would accomplish, expecting it to close off considering the remaining amendments and get right to a vote on the main bill.
 The clerk informed us that it wasn’t quite that way.

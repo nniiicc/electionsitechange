@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, use the \u201clink\u201d icons on the sidebar. Anything linked externally will automatically be listed as \u201cnews\u201d and any article you create on the site itself will\u2026",
+ "description": "If you want to link an external news source, use the “link” icons on the sidebar. Anything linked externally will automatically be listed as “news” and any article you create on the site itself will…",
  "final_url": "https://www.kaufmannfororegon.com/news/news-1",
- "paid_for_by": null,
+ "fingerprint": "cf887e2a56b39239665da7f994df1ad00caa3755",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Independent Candidate Roy Kaufmann Wins Democratic Write-in Vote for HD18",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

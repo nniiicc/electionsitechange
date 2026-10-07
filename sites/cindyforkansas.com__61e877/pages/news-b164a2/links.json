@@ -1,32 +1,126 @@
 [
-"https://cindyforkansas.com/",
-"https://cindyforkansas.com/about",
-"https://cindyforkansas.com/espanol",
-"https://cindyforkansas.com/get-involved",
-"https://cindyforkansas.com/issues",
-"https://cindyforkansas.com/news",
-"https://cindyforkansas.com/news/cindy-holscher-launches-new-television-ad-highlighting-need-for-firm-guardrails-on-data-centers",
-"https://cindyforkansas.com/news/clips",
-"https://cindyforkansas.com/news/holscher-campaign-launches-republicans-for-cindy",
-"https://cindyforkansas.com/news/holscher-launches-new-webisode-on-data-centers-with-lifelong-republicans",
-"https://cindyforkansas.com/news/holscher-launches-statewide-common-sense-and-lower-costs-tour",
-"https://cindyforkansas.com/news/masterson-confirms-no-more-debates",
-"https://cindyforkansas.com/news/no-show-masterson-says-no-to-more-debates-after-losing-the-first-one",
-"https://cindyforkansas.com/news/press-releases",
-"https://cindyforkansas.com/news/videos",
-"https://cindyforkansas.com/privacy-policy",
-"https://cindyforkansas.com/support",
-"https://cindyforkansas.com/terms-of-service",
-"https://cindyforkansas.com/vote",
-"https://cjonline.com/story/news/politics/elections/2026/08/31/kansas-voters-guide-for-2026-elections-and-major-races/91449087007",
-"https://cjonline.com/story/news/politics/government/2026/09/08/trump-threatens-canada-company-bombardier-which-has-us-hq-in-kansas/91656452007",
-"https://democracynow.org/2026/8/7/cindy_holscher",
-"https://facebook.com/cindyforkansas",
-"https://instagram.com/cindyforkansas",
-"https://kvoe.com/2026/09/27/holscher-discusses-education-funding-property-tax-relief-and-data-center-policies-in-pair-of-emporia-stops",
-"https://nymag.com/intelligencer/article/democrats-blue-wave-governors-races.html",
-"https://secure.actblue.com/donate/psd_holscher_website_1?amount=50",
-"https://store.cindyforkansas.com/",
-"https://sunflowerstatejournal.com/holscher-wins-endorsement-from-afl-cio",
-"https://x.com/cindy4kansas"
+{
+"text": "About",
+"href": "https://www.cindyforkansas.com/about"
+},
+{
+"text": "All news clips→",
+"href": "https://www.cindyforkansas.com/news/clips"
+},
+{
+"text": "All press releases→",
+"href": "https://www.cindyforkansas.com/news/press-releases"
+},
+{
+"text": "All videos→",
+"href": "https://www.cindyforkansas.com/news/videos"
+},
+{
+"text": "Democracy Now!•September 9, 2026“Focus Is on Affordability”: Cindy Holscher, Kansas Dem Nominee for Gov, on Data Center Fight & MoreSEN. HOLSCHER: So, what we’ve seen, too, is, again, this affordability crisis. As Kansas was looking at these issues and the Legislature was seeing what was going on, their response has been continued giveaways to billionaires and corporations, which leaves regular people behind. And so, when you hear people say, “The system’s being rigged against us,” yes, because, again, we’ve seen this just replaying of big giveaways, tax breaks for the wealthy, and, again, leaving regular folks behind.",
+"href": "https://www.democracynow.org/2026/8/7/cindy_holscher"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/psd_holscher_website_1?amount=50"
+},
+{
+"text": "Email Us",
+"href": "mailto:info@cindyforkansas.com"
+},
+{
+"text": "Español",
+"href": "https://www.cindyforkansas.com/espanol"
+},
+{
+"text": "Get Involved",
+"href": "https://www.cindyforkansas.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.cindyforkansas.com/issues"
+},
+{
+"text": "KVOE•September 28, 2026Holscher discusses education funding, property tax relief and data center policies in pair of Emporia stopsHolscher visited with constituents at Gravel City Roasters on Saturday, following that appearance with an educator meet-and-greet at the Lyon County Democrat party headquarters Sunday.",
+"href": "https://kvoe.com/2026/09/27/holscher-discusses-education-funding-property-tax-relief-and-data-center-policies-in-pair-of-emporia-stops/"
+},
+{
+"text": "New York Magazine•September 8, 2026A Democratic Blue Wave Could Hit Governors' Races, TooHolscher has positioned herself on an issue that’s sweeping the heartland, proposing a moratorium on data centers (Masterson has been a data-center booster). She also opposed an increasingly unpopular sweetheart stadium deal for the Kansas City Chiefs, which Kelly had backed. Holscher may be stronger than she originally looked. Her base, conveniently, is in the rapidly growing and Democratic-trending suburb of Johnson County.",
+"href": "https://nymag.com/intelligencer/article/democrats-blue-wave-governors-races.html"
+},
+{
+"text": "News",
+"href": "https://www.cindyforkansas.com/news"
+},
+{
+"text": "Press Release•September 17, 2026Ks-Gov: No-Show Masterson Says No To More Debates After Losing The First OneDays after a disastrous appearance at the State Fair debate hosted by WIBW Radio, Republican nominee for governor Ty Masterson has rejected future debates against Senator Cindy Holscher. The Holscher campaign had previously accepted debate invitations by Gray Media and Nexstar for September 24 and October 1 debates, respectively. Gray Media stations include KCTV (Kansas City), KWCH (Wichita), and WIBW (Topeka). The Nexstar debate would run on six television stations covering 95% of the state. Masterson turned down both invitations.",
+"href": "https://www.cindyforkansas.com/news/no-show-masterson-says-no-to-more-debates-after-losing-the-first-one"
+},
+{
+"text": "Press Release•September 18, 2026Masterson Confirms: No More DebatesRepublican nominee for governor Ty Masterson is refusing to debate Senator Holscher again. His spokesperson confirmed to the Kansas Reflector that Masterson has “no plans to accept any further debates.” Masterson’s retreat comes less than a week after the two faced off at the Kansas State Fair, where Holscher hammered him over his 20-year record in the legislature and six years running the Senate.",
+"href": "https://www.cindyforkansas.com/news/masterson-confirms-no-more-debates"
+},
+{
+"text": "Press Release•September 22, 2026Holscher Launches Statewide “Common Sense and Lower Costs Tour”Today, Senator Cindy Holscher announced the launch of her statewide Common Sense and Lower Costs Tour, kicking off Saturday, September 26, in Marysville. Over the next two weeks, Senator Cindy Holscher will travel the state, with at least 16 stops planned, to hear directly from Kansans and share her plan to lower costs for working families. The tour spends its first week in eastern Kansas before heading west for week two.",
+"href": "https://www.cindyforkansas.com/news/holscher-launches-statewide-common-sense-and-lower-costs-tour"
+},
+{
+"text": "Press Release•September 23, 2026Holscher Campaign Launches “Republicans For Cindy”Today, Senator Cindy Holscher announced Republicans for Cindy, a coalition of twenty-one current and former Republican elected officials supporting her campaign for governor. Many served alongside both Holscher and Masterson and saw firsthand how she worked across party lines to deliver for Kansas families. Throughout her time in the legislature, Holscher has brought Republicans, Independents, and Democrats together around practical and pragmatic solutions. That record began in her first term in the Kansas House, when she co-founded a bipartisan coalition that ended the Brownback tax experiment and restored stability to the state budget.",
+"href": "https://www.cindyforkansas.com/news/holscher-campaign-launches-republicans-for-cindy"
+},
+{
+"text": "Press Release•September 29, 2026Holscher launches new webisode on data centers with lifelong RepublicansIn a new video today, Democratic nominee for governor Cindy Holscher is highlighting the Marple family, who have raised serious concerns about a proposed 10-building data center complex threatening their family farm. The Marples are lifelong Republicans, but they are supporting Cindy Holscher because she’s the only candidate for governor taking data center concerns seriously.",
+"href": "https://www.cindyforkansas.com/news/holscher-launches-new-webisode-on-data-centers-with-lifelong-republicans"
+},
+{
+"text": "Press Release•September 30, 2026Cindy Holscher Launches New Television Ad Highlighting Need for Firm Guardrails on Data CentersToday, Democratic nominee for governor Cindy Holscher launched her newest television ad, “Sunflowers,” highlighting the need for firm guardrails around new data center development in Kansas. The ad will air statewide on broadcast, cable, and digital platforms starting today.",
+"href": "https://www.cindyforkansas.com/news/cindy-holscher-launches-new-television-ad-highlighting-need-for-firm-guardrails-on-data-centers"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cindyforkansas.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://store.cindyforkansas.com"
+},
+{
+"text": "Sunflower State Journal•September 4, 2026Holscher wins endorsement from AFL-CIODemocratic state Sen. Cindy Holscher secured a key union endorsement Friday in the Kansas governor's race from the Kansas AFL-CIO, which praised her 100% voting record on the side of organized labor.",
+"href": "https://sunflowerstatejournal.com/holscher-wins-endorsement-from-afl-cio/"
+},
+{
+"text": "Sunflower State Journal•September 9, 2026Holscher introduces new general election ad\"Instead of looking out for us, politicians look out for themselves and their donors, and leave everyday Kansans stuck with the bill,\" she says in the ad. \"That’s why I’m running for governor, to lighten the load for working families like mine. \"",
+"href": "https://www.cjonline.com/story/news/politics/government/2026/09/08/trump-threatens-canada-company-bombardier-which-has-us-hq-in-kansas/91656452007"
+},
+{
+"text": "Supporters",
+"href": "https://www.cindyforkansas.com/support"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.cindyforkansas.com/terms-of-service"
+},
+{
+"text": "Topeka Capital Journal•August 31, 2026Kansas voters have the chance to break historical trends this electionWhen Kansas voters fill out their ballots for the November 2026 general election, they will have the opportunity to break long-standing historical trends. A Democrat winning the U.S. Senate would break a nearly 100-year winning streak by Republicans.",
+"href": "https://www.cjonline.com/story/news/politics/elections/2026/08/31/kansas-voters-guide-for-2026-elections-and-major-races/91449087007/"
+},
+{
+"text": "Vote",
+"href": "https://www.cindyforkansas.com/vote"
+},
+{
+"text": "[image: Cindy Holscher for Governor]",
+"href": "https://www.cindyforkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/cindyforkansas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cindyforkansas/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/cindy4kansas"
+}
 ]

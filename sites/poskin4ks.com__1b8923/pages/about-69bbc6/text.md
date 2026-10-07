@@ -1,5 +1,4 @@
-Meet Mari-Lynn
-Mari-Lynn is a Kansan by choice.
+0 Skip to Content About Priorities Endorsements Legislative Work Get Involved Contact CONTRIBUTE Open Menu Close Menu About Priorities Endorsements Legislative Work Get Involved Contact CONTRIBUTE Open Menu Close Menu About Priorities Endorsements Legislative Work Get Involved Contact CONTRIBUTE Meet Mari-Lynn Mari-Lynn is a Kansan by choice.
 The daughter of an Air Force Colonel and former wife of a corporate relocation warrior, she has lived on both coasts, the Deep South, the cold North and the Midwest.
 When it came time to give her children roots in 2002, she chose Kansas for the outstanding schools, strong communities, and economic opportunities.
 Like her political leanings, she likes life best in the middle.
@@ -24,3 +23,5 @@ The energy she brings to the table is evident in the multiple Century Rides she 
 Mari-Lynn is currently a small business owner, operating KC College Connect in Leawood, where she provides college planning services to local families.
 Her skill set (did we mention she installs tile and wood floors and bakes impressive pies, too? ) and energy are just what we need to represent District 20 in the Kansas Legislature!
 She will continue to fight to make sure that the qualities which drew her to Kansas continue to define the Sunflower State for generations to come.
+Subscribe to our newsletter Sign up here!
+HOME ABOUT PRIORITIES ENDORSEMENTS LEgislative WORK GET involved CONTACT Paid for by Poskin4KS - Judith Evnen, Treasurer

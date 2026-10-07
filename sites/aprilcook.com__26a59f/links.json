@@ -1,15 +1,62 @@
 [
-"http://instagram.com/aprilcookfornc",
-"http://iwillvote.com/",
-"https://aprilcook.com/",
-"https://aprilcook.com/campaignevents",
-"https://aprilcook.com/contactus",
-"https://aprilcook.com/copy-of-events",
-"https://aprilcook.com/meetapril",
-"https://aprilcook.com/platform",
-"https://facebook.com/aprilcookfornc",
-"https://facebook.com/profile.php?id=61582084919358",
-"https://secure.actblue.com/donate/cook-website",
-"https://votebymail.ncsbe.gov/app/home",
-"https://vt.ncsbe.gov/RegLkup"
+{
+"text": "Contact Us",
+"href": "https://www.aprilcook.com/contactus"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cook-website"
+},
+{
+"text": "Events",
+"href": "https://www.aprilcook.com/campaignevents"
+},
+{
+"text": "FIND YOUR POLLING PLACE",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Home",
+"href": "https://www.aprilcook.com"
+},
+{
+"text": "Meet April",
+"href": "https://www.aprilcook.com/meetapril"
+},
+{
+"text": "Platform",
+"href": "https://www.aprilcook.com/platform"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "http://iwillvote.com"
+},
+{
+"text": "VOTE BY MAIL",
+"href": "https://votebymail.ncsbe.gov/app/home"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.aprilcook.com/copy-of-events"
+},
+{
+"text": "[image: April Cook for NC Senate cut out]",
+"href": "https://www.aprilcook.com"
+},
+{
+"text": "[image: VarB Background - Jasmine Gailliard.png]",
+"href": "https://www.aprilcook.com"
+},
+{
+"text": "[image: instagram]",
+"href": "http://instagram.com/aprilcookfornc"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/aprilcookfornc"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61582084919358"
+}
 ]

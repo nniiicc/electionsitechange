@@ -1,65 +1,334 @@
 [
-"http://bentoncreative.com/",
-"http://industrydocuments.library.ucsf.edu/tobacco/docs/nxcp0124",
-"https://apmreports.org/story/2019/09/17/juul-lobbying-youth-vaping",
-"https://assets.tobaccofreekids.org/factsheets/0210.pdf",
-"https://assets.tobaccofreekids.org/factsheets/0222.pdf",
-"https://assets.tobaccofreekids.org/factsheets/0275.pdf",
-"https://assets.tobaccofreekids.org/factsheets/0398.pdf",
-"https://auforga.com/",
-"https://auforga.com/2025/05/a-deep-dive-into-medicaid-work-requirements",
-"https://auforga.com/2025/09/advocates-urge-georgia-lawmakers-to-fully-fund-snap-as-federal-cost-shifts-loom",
-"https://auforga.com/2026/03/from-operating-room-to-the-gold-dome-how-georgias-medical-lawmakers-shape-policy",
-"https://auforga.com/2026/04/today-is-sine-die",
-"https://auforga.com/2026/06/redistricting",
-"https://auforga.com/2026/06/special-session-recap",
-"https://auforga.com/2026/09/summer-recap",
-"https://auforga.com/in-the-news",
-"https://auforga.com/join-teamau",
-"https://auforga.com/meet-michelle",
-"https://auforga.com/news",
-"https://auforga.com/priorities",
-"https://auforga.com/privacy-policy",
-"https://auforga.com/support",
-"https://auforga.com/terms-of-use",
-"https://auforga.com/voter-guide",
-"https://cancer.gov/about-cancer/causes-prevention/risk/tobacco/second-hand-smoke-fact-sheet",
-"https://cancer.org/cancer/risk-prevention/tobacco/e-cigarettes-vaping.html",
-"https://cannariver.com/products/hhc-disposable?variant=41060191961181",
-"https://cdc.gov/tobacco/campaign/tips/diseases/copd.html",
-"https://doh.wa.gov/you-and-your-family/tobacco/secondhand-smoke/thirdhand-smoke",
-"https://dor.georgia.gov/tobacco-retailer",
-"https://dph.georgia.gov/chronic-disease-prevention/tobacco/ready-quit-ga",
-"https://extension.uga.edu/publications/detail.html?number=AP130-2-02&title=2024-georgia-agriculture-outlook",
-"https://fultonschools.org/",
-"https://gbpi.org/",
-"https://kff.org/medicaid/issue-brief/allocating-cbos-estimates-of-federal-medicaid-spending-reductions-across-the-states-enacted-reconciliation-package",
-"https://legis.ga.gov/committees/house/101",
-"https://legis.ga.gov/committees/house/204?session=1033",
-"https://legis.ga.gov/legislation/69422",
-"https://legis.ga.gov/legislation/69423",
-"https://legis.ga.gov/legislation/70508",
-"https://legis.ga.gov/legislation/70664",
-"https://legis.ga.gov/members/house/86?session=1033",
-"https://legis.ga.gov/other-committees/house/2025/costs-and-effects-of-smoking",
-"https://lung.org/blog/popcorn-lung-risk-ecigs",
-"https://lung.org/lung-health-diseases/lung-disease-lookup/evali",
-"https://lung.org/research/sotc/facts",
-"https://mdanderson.org/publications/focused-on-health/FOH-secondhand-smoke.h15-1589835.html",
-"https://ncbi.nlm.nih.gov/books/NBK179276/pdf/Bookshelf_NBK179276.pdf",
-"https://newsroom.heart.org/news/depression-anxiety-symptoms-linked-to-vaping-nicotine-and-thc-in-teens-and-young-adults",
-"https://smokefreegeorgia.com/resources/key-legislation",
-"https://truthinitiative.org/research-resources/smoking-region/tobacco-use-georgia-2021",
-"https://truthinitiative.org/research-resources/smoking-region/tobacco-use-georgia-2023",
-"https://truthinitiative.org/research-resources/tobacco-prevention-efforts/importance-tobacco-taxes",
-"https://vaportechnology.org/healthcare-costs-and-gdp-impact-of-cigarette-smoking",
-"https://vimeo.com/showcase/8972626?video=1071550166",
-"https://vimeo.com/showcase/8988922?autoplay=1",
-"https://worldpopulationreview.com/state-rankings/cigarette-prices-by-state",
-"https://youtu.be/AMc-95yeB40",
-"https://youtu.be/VnUsxaNHMcc",
-"https://youtu.be/_bsz9AL6TjA",
-"https://youtu.be/gQUonxt-Kp0",
-"https://youtu.be/jn5XlRXdA2c",
-"https://youtube.com/watch?v=9kpLBA65LlY"
+{
+"text": "$2.37",
+"href": "https://assets.tobaccofreekids.org/factsheets/0210.pdf"
+},
+{
+"text": "$7 billion",
+"href": "https://truthinitiative.org/research-resources/smoking-region/tobacco-use-georgia-2021#:~:text=Georgia%20cigarette%20tax,6%2C7"
+},
+{
+"text": "(Read full 2014 Surgeon General report here)",
+"href": "https://www.ncbi.nlm.nih.gov/books/NBK179276/pdf/Bookshelf_NBK179276.pdf"
+},
+{
+"text": "(Read full article here)",
+"href": "https://www.apmreports.org/story/2019/09/17/juul-lobbying-youth-vaping#:~:text=Juul's%20lobby%20grows%20to%2048,to%20all%20but%20two%20states."
+},
+{
+"text": "(Read full article here)",
+"href": "https://www.cdc.gov/tobacco/campaign/tips/diseases/copd.html"
+},
+{
+"text": "(Read full article here)",
+"href": "https://www.mdanderson.org/publications/focused-on-health/FOH-secondhand-smoke.h15-1589835.html"
+},
+{
+"text": "(Read full one-pager here)",
+"href": "https://assets.tobaccofreekids.org/factsheets/0222.pdf"
+},
+{
+"text": "(Read full research findings from the American Heart Association here)",
+"href": "https://newsroom.heart.org/news/depression-anxiety-symptoms-linked-to-vaping-nicotine-and-thc-in-teens-and-young-adults"
+},
+{
+"text": "(Read full summary of Georgia tobacco use data here)",
+"href": "https://truthinitiative.org/research-resources/smoking-region/tobacco-use-georgia-2023#:~:text=Smoking%20rate%20in%20Georgia,tobacco%20use%20and%20tobacco%20control"
+},
+{
+"text": "(Source: Campaign for Tobacco Free Kids)",
+"href": "https://assets.tobaccofreekids.org/factsheets/0398.pdf"
+},
+{
+"text": "(Watch an excerpt of this committee testimony here)",
+"href": "https://youtu.be/gQUonxt-Kp0"
+},
+{
+"text": "(Watch an excerpt of this testimony here)",
+"href": "https://youtu.be/jn5XlRXdA2c"
+},
+{
+"text": "(Watch full presentation here)",
+"href": "https://youtu.be/AMc-95yeB40"
+},
+{
+"text": "(Watch intro to the first committee hearing here)",
+"href": "https://youtu.be/_bsz9AL6TjA"
+},
+{
+"text": "2024 Agricultural Forecast",
+"href": "https://extension.uga.edu/publications/detail.html?number=AP130-2-02&title=2024-georgia-agriculture-outlook#:~:text=USDA%20reports%20of%20cash%20receipts,and%20vegetables%2C%20and%20tree%20nuts."
+},
+{
+"text": "480,000 deaths annually",
+"href": "https://www.lung.org/research/sotc/facts#:~:text=Smoking%20is%20the%20number%20one,Columbia%20are%20%241.97%20per%20pack."
+},
+{
+"text": "770-405-9418",
+"href": "tel:770-405-9418"
+},
+{
+"text": "A 1985 Philip Morris internal document",
+"href": "https://truthinitiative.org/research-resources/tobacco-prevention-efforts/importance-tobacco-taxes"
+},
+{
+"text": "A Deep Dive Into Medicaid Work Requirements[image]",
+"href": "https://auforga.com/2025/05/a-deep-dive-into-medicaid-work-requirements/"
+},
+{
+"text": "Benton Creative.",
+"href": "http://bentoncreative.com"
+},
+{
+"text": "CDC data from 2022",
+"href": "https://truthinitiative.org/research-resources/smoking-region/tobacco-use-georgia-2023#:~:text=Smoking%20rate%20in%20Georgia,tobacco%20use%20and%20tobacco%20control"
+},
+{
+"text": "DONATE",
+"href": "https://auforga.com/support/"
+},
+{
+"text": "Deep Dive into Next Week’s Redistricting Special Session",
+"href": "https://auforga.com/2026/06/redistricting/"
+},
+{
+"text": "Does Vaping Lead to Smoking?",
+"href": "https://www.youtube.com/watch?v=9kpLBA65LlY"
+},
+{
+"text": "EVALI",
+"href": "https://www.lung.org/lung-health-diseases/lung-disease-lookup/evali#:~:text=What%20are%20the%20symptoms%20of,be%20allowed%20to%20go%20home."
+},
+{
+"text": "Economic Prosperity",
+"href": "https://auforga.com/priorities/#economy"
+},
+{
+"text": "Education",
+"href": "https://auforga.com/priorities/#education"
+},
+{
+"text": "From operating room to the Gold Dome: How Georgia’s medical lawmakers shape policy",
+"href": "https://auforga.com/2026/03/from-operating-room-to-the-gold-dome-how-georgias-medical-lawmakers-shape-policy/"
+},
+{
+"text": "Fulton County Schools",
+"href": "https://www.fultonschools.org/"
+},
+{
+"text": "Georgia Policy and Budget Institute",
+"href": "https://gbpi.org/"
+},
+{
+"text": "Georgia’s Smokefree Air Act was amended to include vaping",
+"href": "https://dph.georgia.gov/chronic-disease-prevention/tobacco/ready-quit-ga#:~:text=Smokefree%20Air%20Act%20Amendment,Download"
+},
+{
+"text": "HB 577",
+"href": "https://www.legis.ga.gov/legislation/70664"
+},
+{
+"text": "HB 83",
+"href": "https://www.legis.ga.gov/legislation/69422"
+},
+{
+"text": "HB 84",
+"href": "https://www.legis.ga.gov/legislation/69423"
+},
+{
+"text": "Healthcare",
+"href": "https://auforga.com/priorities/#healthcare"
+},
+{
+"text": "House Committee on Public and Community Health",
+"href": "https://www.legis.ga.gov/committees/house/204?session=1033"
+},
+{
+"text": "House Study Committee on the Costs & Effects of Smoking",
+"href": "https://www.legis.ga.gov/other-committees/house/2025/costs-and-effects-of-smoking"
+},
+{
+"text": "House Ways and Means subcommittee",
+"href": "https://www.legis.ga.gov/committees/house/101"
+},
+{
+"text": "In the News",
+"href": "https://auforga.com/in-the-news/"
+},
+{
+"text": "Join #TeamAu",
+"href": "https://auforga.com/join-teamau/"
+},
+{
+"text": "Meet Michelle",
+"href": "https://auforga.com/meet-michelle/"
+},
+{
+"text": "News",
+"href": "https://auforga.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://auforga.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://auforga.com/privacy-policy/"
+},
+{
+"text": "Public Safety",
+"href": "https://auforga.com/priorities/#safety"
+},
+{
+"text": "Rep. Sharon Cooper",
+"href": "https://www.legis.ga.gov/members/house/86?session=1033"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://auforga.com/priorities/#reproductiverights"
+},
+{
+"text": "Secondhand smoke",
+"href": "https://www.cancer.gov/about-cancer/causes-prevention/risk/tobacco/second-hand-smoke-fact-sheet#:~:text=to%20secondhand%20smoke?-,What%20is%20secondhand%20smoke?,and%20other%20smoked%20tobacco%20products."
+},
+{
+"text": "Special Session Recap",
+"href": "https://auforga.com/2026/06/special-session-recap/"
+},
+{
+"text": "Terms of Use",
+"href": "https://auforga.com/terms-of-use/"
+},
+{
+"text": "Threat To Mail-In Ballots",
+"href": "https://auforga.com/2026/09/summer-recap/"
+},
+{
+"text": "Today is Sine Die!",
+"href": "https://auforga.com/2026/04/today-is-sine-die/"
+},
+{
+"text": "Truth Initiative",
+"href": "https://truthinitiative.org/research-resources/tobacco-prevention-efforts/importance-tobacco-taxes"
+},
+{
+"text": "UGA 2024 Georgia Agriculture Outlook",
+"href": "https://extension.uga.edu/publications/detail.html?number=AP130-2-02&title=2024-georgia-agriculture-outlook#:~:text=USDA%20reports%20of%20cash%20receipts,and%20vegetables%2C%20and%20tree%20nuts."
+},
+{
+"text": "Voter Guide",
+"href": "https://auforga.com/voter-guide/"
+},
+{
+"text": "Voting Rights",
+"href": "https://auforga.com/priorities/#votingrights"
+},
+{
+"text": "[image: Dr. Michelle Au]",
+"href": "https://auforga.com/"
+},
+{
+"text": "[image]Georgia Democrats renew push for safe gun storage on school shooting annive...",
+"href": "https://auforga.com/2025/09/advocates-urge-georgia-lawmakers-to-fully-fund-snap-as-federal-cost-shifts-loom/"
+},
+{
+"text": "according to the American Cancer Society",
+"href": "https://www.cancer.org/cancer/risk-prevention/tobacco/e-cigarettes-vaping.html"
+},
+{
+"text": "additional $10 fee",
+"href": "https://dor.georgia.gov/tobacco-retailer#:~:text=Tobacco%20License-,Tobacco%20License,%2410.00%20to%20add%20vapor%20products."
+},
+{
+"text": "between $8 and $9",
+"href": "https://worldpopulationreview.com/state-rankings/cigarette-prices-by-state"
+},
+{
+"text": "cos@auforga.com",
+"href": "mailto:cos@auforga.com"
+},
+{
+"text": "finally managed",
+"href": "https://www.legis.ga.gov/legislation/70508"
+},
+{
+"text": "in 2023 Georgia’s Smokefree Air Act was amended to include vaping",
+"href": "https://dph.georgia.gov/chronic-disease-prevention/tobacco/ready-quit-ga#:~:text=Smokefree%20Air%20Act%20Amendment,Download"
+},
+{
+"text": "industrydocuments.library.ucsf.edu/tobacco/docs/nxcp0124",
+"href": "http://industrydocuments.library.ucsf.edu/tobacco/docs/nxcp0124"
+},
+{
+"text": "is only $10 annually for retailers",
+"href": "https://dor.georgia.gov/tobacco-retailer#:~:text=Tobacco%20License-,Tobacco%20License,%2410.00%20to%20add%20vapor%20products."
+},
+{
+"text": "live-streamed",
+"href": "https://vimeo.com/showcase/8988922?autoplay=1"
+},
+{
+"text": "michelle@auforga.com",
+"href": "mailto:michelle@auforga.com"
+},
+{
+"text": "modification to the current law",
+"href": "https://smokefreegeorgia.com/resources/key-legislation/#:~:text=Georgia%20Smoke%20Free%20Air%20Act,of%20between%20%24100%20and%20%24500."
+},
+{
+"text": "most other states have increased their state cigarette taxes",
+"href": "https://assets.tobaccofreekids.org/factsheets/0275.pdf"
+},
+{
+"text": "number one preventable cause of death",
+"href": "https://www.lung.org/research/sotc/facts#:~:text=Smoking%20is%20the%20number%20one,Columbia%20are%20%241.97%20per%20pack."
+},
+{
+"text": "open to the public",
+"href": "https://www.legis.ga.gov/other-committees/house/2025/costs-and-effects-of-smoking"
+},
+{
+"text": "popcorn lung",
+"href": "https://www.lung.org/blog/popcorn-lung-risk-ecigs#:~:text=Popcorn%20Lung:%20A%20Dangerous%20Risk,Close%20Banner"
+},
+{
+"text": "reach out to our office",
+"href": "mailto: michelle.au@house.ga.gov"
+},
+{
+"text": "second lowest in the nation",
+"href": "https://assets.tobaccofreekids.org/factsheets/0222.pdf"
+},
+{
+"text": "second meeting",
+"href": "https://vimeo.com/showcase/8972626?video=1071550166"
+},
+{
+"text": "showed us this picture",
+"href": "https://youtu.be/VnUsxaNHMcc"
+},
+{
+"text": "slashes a calculated $911 BILLION from Medicaid",
+"href": "https://www.kff.org/medicaid/issue-brief/allocating-cbos-estimates-of-federal-medicaid-spending-reductions-across-the-states-enacted-reconciliation-package/"
+},
+{
+"text": "smoking-related costs",
+"href": "https://vaportechnology.org/healthcare-costs-and-gdp-impact-of-cigarette-smoking/#:~:text=Beyond%20healthcare%20outlays%2C%20smoking%20imposes,higher%20incomes%20lost%20per%20smoker."
+},
+{
+"text": "some vape flavors currently on the market",
+"href": "https://www.cannariver.com/products/hhc-disposable?variant=41060191961181"
+},
+{
+"text": "study committee",
+"href": "https://www.legis.ga.gov/other-committees/house/2025/costs-and-effects-of-smoking"
+},
+{
+"text": "thirdhand smoke",
+"href": "https://doh.wa.gov/you-and-your-family/tobacco/secondhand-smoke/thirdhand-smoke#:~:text=What%20is%20Thirdhand%20Smoke?,not%20completely%20protect%20against%20contamination."
+},
+{
+"text": "video archived",
+"href": "https://www.legis.ga.gov/other-committees/house/2025/costs-and-effects-of-smoking"
+}
 ]

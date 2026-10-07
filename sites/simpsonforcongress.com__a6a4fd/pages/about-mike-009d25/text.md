@@ -1,4 +1,4 @@
-Michael (Mike) K.
+Skip to content Home About Mike News Issues Endorsements Volunteer Media FIND VOTING LOCATION DONATE About Mike ABOUT MIKE Michael (Mike) K.
 Simpson is serving his eleventh term in the House of Representatives for Idaho’s Second Congressional District.
 Mike was born in Burley, Idaho, and raised in Blackfoot.
 He graduated from Utah State University and earned his DMD from Washington University School of Dental Medicine in St.
@@ -14,3 +14,6 @@ Simpson fights hard for Idaho, whether it is advocating for an energy policy tha
 He has also gained national attention for his bill to split the massive, overburdened 9th Circuit Court of Appeals.
 Simpson’s leadership also led to the passage of his legislation that provided historic forest management reforms, most notably treating wildfires like other natural disasters.
 Mike loves Idaho and works hard on her behalf every day.
+Sign up for Updates First Name (Required) Last Name (Required) Email (Required) Zip Code Submit Twitter Facebook YouTube Paid for by Simpson for Congress, T.
+Layne Van Orden, Treasurer privacy Policy P.O.
+Box 1541, Boise, ID 83701 Phone: 208-367-1927 Email: info@simpsonforcongress.com

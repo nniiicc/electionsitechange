@@ -1,8 +1,7 @@
-Adam Withrow for Senate
-Adam Withrow is a Unity Party candidate for the United States Senate.
+top of page ​ Home About Platform Menu Epstein and Public Trust Platform Discussion Artificial Intelligence Contact More Use tab to navigate through the menu items.
+Adam Withrow for Senate Adam Withrow is a Unity Party candidate for the United States Senate.
 He understands that the Senate is an undemocratic institution at its core, which makes it kinda funny that he's running for it.
-OUR VISION FOR THE FUTURE
-Adam Withrow envisions a world where the working people are at the forefront of every decision made.
+OUR VISION FOR THE FUTURE Adam Withrow envisions a world where the working people are at the forefront of every decision made.
 He is committed to bringing prosperity for more than just a privileged few.
 He'd love to bring your voice to DC, but when it's drowned out by the mountains of cash that have already bought out our government, he'll at least look them in the face and know they're full of it.
 ENERGY FOR THE FUTURE, NOT FROM THE PAST.
@@ -21,8 +20,7 @@ Let's increase the solar tax credit, make it permanent, and bring back the rebat
 So a lot of solar panels come from China, huh?
 Well, let's create incentives for American companies to make 'em here.
 If being cozy with oil and gas was gonna win this, it would have last year.
-LET'S LET ALL JOBS BE "GOOD" JOBS
-We hear a lot about good jobs.
+LET'S LET ALL JOBS BE "GOOD" JOBS We hear a lot about good jobs.
 What about the people with BAD jobs?
 We don't need more housing projects, we need more homeowners!
 Google median income for towns around the district.
@@ -33,16 +31,12 @@ You know what would boost the economy?
 If all people could afford to participate in it.
 I've come up with a slate of what I call "tax burden relief incentives." Let's offer tax relief for employers that raise pay above the line of subsidized living.
 Let's let companies that raise people from tax returns to tax bills take a little credit.
-Instead of raising taxes, let's raise people up to be able to pay them!
-A tax credit for employers tied to their employees' standard of living is a way to prevent them from jacking up prices on everything out of spite for having to pay living wages.
-If they want to complain about having to pay for public assistance for their own employees, let's give them another option.
-I believe a raise in the Federal Minimum Wage is vital.
+Instead of raising taxes, let's raise people up to be able to pay them! ​ A tax credit for employers tied to their employees' standard of living is a way to prevent them from jacking up prices on everything out of spite for having to pay living wages.
+If they want to complain about having to pay for public assistance for their own employees, let's give them another option. ​ I believe a raise in the Federal Minimum Wage is vital.
 No one can live off of $7.25 an hour anywhere.
 I believe that it has to be pegged to the consumer price index, though, and not just arbitrarily decreed.
-I'm not going to toss out a number here because there's room for debate on that issue in the House.
-Universal Basic Income is another topic for another day, but it's time to start the conversation.
-VETERANS
-Veterans are often pandered to and exploited for political gain, and seldom cared about by the people doing the schmoozing.
+I'm not going to toss out a number here because there's room for debate on that issue in the House. ​ Universal Basic Income is another topic for another day, but it's time to start the conversation.
+VETERANS Veterans are often pandered to and exploited for political gain, and seldom cared about by the people doing the schmoozing.
 I'll come straight out and say it: I'm not friends with the people who make money off of wars, I'm friends with the people who fight in them.
 I don't mean that I have friendly feelings, I mean that they're the people I hang out with.
 I met quite a few of my vet friends when they were living in tents on the outskirts of town.
@@ -118,23 +112,17 @@ At the same time, no Representative or candidate should respond the the inquirie
 If they wanted to give to your campaign, they would have.
 When my office in DC recieves a request like the one I helped my friend file, I'll sign it.
 The affected person will only hear from me saying the job was done, just like I was hired to do.
-GUN RIGHTS
-"A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed."
--Second Amendment, US Constitution
-The responsibility of a US Senator is to carry the voices of their constituents to Washington, DC, not to come with their own agenda and forget the people who sent them there.
+GUN RIGHTS "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed." -Second Amendment, US Constitution ​ The responsibility of a US Senator is to carry the voices of their constituents to Washington, DC, not to come with their own agenda and forget the people who sent them there.
 Time and time again, the majority of the voters in our state have made their choice clear.
 In the event of a national emergency, there is a major benefit to having people who are trained and proficient in the use of firearms.
 One could argue that the only reason we haven't been invaded after our military adventurism is because we have an armed citizenry.
 Not only do they not need to be taught, they do not need to be furnished with weapons, either.
-The "arsenal of Democracy" is already in our cities and towns, for better or for worse.
-I do believe in common-sense gun laws, but only where they are unambiguously protecting the people's rights.
+The "arsenal of Democracy" is already in our cities and towns, for better or for worse. ​ I do believe in common-sense gun laws, but only where they are unambiguously protecting the people's rights.
 We can not choose to protect some parts of the Constitution and not others, and a Constitutional Convention in our time would tear the country to pieces.
-While I think that many people who have a gun should not, and while I think many people who have a gun do not need one, it is not my place to decide who, what types, or how many.
-The States can do what they wish within the bounds of the Constitution, but many of those laws end up overturned in Federal courts.
+While I think that many people who have a gun should not, and while I think many people who have a gun do not need one, it is not my place to decide who, what types, or how many. ​ The States can do what they wish within the bounds of the Constitution, but many of those laws end up overturned in Federal courts.
 The Federal Government's hands are pretty much tied, however.
 The backlash from limiting the legal civilian arms industry will be the expansion of the black market, and we will see much more deadly and powerful weapons proliferate in a much more dangerous way.
-MEDICAL CHOICE
-We hear a whole lot about medical costs, debt and spending.
+MEDICAL CHOICE We hear a whole lot about medical costs, debt and spending.
 I have an idea for how we can cut WAY into some of those costs.
 Today I want to talk about choice.
 Anybody out here think women should have reproductive healthcare choices?
@@ -161,8 +149,7 @@ We can free up hospital space for the people who really do need it, and we can c
 With Medicaid, it's as simple as a policy change.
 When it comes to the private industry, we'll have to decide whether that's a matter of regulation or just legislative guidance.
 One way or the other, though, it's time to start talking about this.
-DRUGS AND CRIME
-No one disagrees that we have a serious problem with drugs and crime.
+DRUGS AND CRIME No one disagrees that we have a serious problem with drugs and crime.
 Even druggies and criminals agree, they just typically point to the person next to them and not themselves.
 That's what we're all doing, though, and it's time to think a little more critically about all of this.
 We've got parallel epidemics of methamphetamine and opiate use, and they appear to be the main driving forces of our escalating crime waves.
@@ -198,8 +185,7 @@ We need another layer of supervision and accountability for MD's.
 One person's use is legitimate while another's is not?
 Sometimes, yes, but the presence of a prescription is not the dividing line.
 It's too easy for some people to get and keep prescriptions strictly because they are addicted, while others are prescribed unnecessarily and then cut off cold after a period long enough to be hopelessly addicted.
-MENTAL HEALTH
-Our modern life is driving more and more of us to the brink in what has already become a mental health crisis.
+MENTAL HEALTH Our modern life is driving more and more of us to the brink in what has already become a mental health crisis.
 People are crumbling under the strain.
 It's nearly impossible for a lot of people to get by, and they're turning to drugs and violence as outlets.
 While I was working as a Detention Officer, we had a guy brought in for some charges I've forgotten during a suicide attempt.
@@ -218,17 +204,13 @@ When the "professionals" finally sent someone, she spent about ten minutes with 
 THAT'S where our government mental health dollars are going.
 I believe that more funding is only a small part of the answer.
 Many of these agencies have no real oversight or quality control.
-Many of them are no better than slush buckets that pay out large executive salaries while accomplishing nothing.
-We need to recognize that the crisis is already upon us.
+Many of them are no better than slush buckets that pay out large executive salaries while accomplishing nothing. ​ We need to recognize that the crisis is already upon us.
 While larger urban areas tend to have decently competent and accessible mental health resources, the majority of the population of our district live in rural areas.
 The ones that I have lived in have services that are sorely inadequate.
 Giving a person who is actively, repeatedly attempting suicide a brochure or a pamphlet is not enough.
-Leaving it to law enforcement is not either.
-Throwing more federal dollars at the crisis is not the answer without a strong layer of quality assurance and active evaluation of the care providers' performance.
+Leaving it to law enforcement is not either. ​ Throwing more federal dollars at the crisis is not the answer without a strong layer of quality assurance and active evaluation of the care providers' performance.
 When a lady is suffering from severe post-partum depression and reaches out for help, "What am I supposed to do about it?" is not the answer she's reaching out for.
-ELECTIONS
-This is a sticky subject, but it's one we have to address in a number of ways.
-Let's start with the basics.
+ELECTIONS This is a sticky subject, but it's one we have to address in a number of ways. ​ Let's start with the basics.
 We're all aware of the circus that followed the 2020 election.
 We need to do a few things to prevent that from happening again.
 First off, it's time to completely abolish the Electoral College.
@@ -236,18 +218,15 @@ What is the point of it?
 All it has ever managed to do is allow people who have lost the popular vote to become the President by gaming the system.
 That's enough, already!
 Much of the gamesmanship that was allowed to play out surrounding the 2020 election would have been impossible if we were using the popular vote.
-Period.
-Second, we need greater transparency.
+Period. ​ Second, we need greater transparency.
 We need the maximum possible level of transparency while still maintaining the secret ballot.
 We all have to acknowledge that whatever we believe about the outcome of any election hinges almost entirely on what we choose to believe.
 I believe that the 2020 election was quite possibly the most secure election in American history.
 I believe that because Chris Krebs said so.
 All I really have to go on is my trust and respect for him.
 There is no real way for us to verify that.
-The best we can do is take the assurances of those who are entrusted with these matters.
-We need real-time auditability of all ballots available to all people.
-We need a single, central repository of all the data, and we need it publicly available the instant it is entered.
-Now it's time to get to the really stinky part.
+The best we can do is take the assurances of those who are entrusted with these matters. ​ We need real-time auditability of all ballots available to all people.
+We need a single, central repository of all the data, and we need it publicly available the instant it is entered. ​ Now it's time to get to the really stinky part.
 Our winner-take-all system leaves too many people feeling burned after every single cycle.
 In a competitive district, like here in Colorado's 3rd Congressional District, roughly half of the people will feel like their person lost every single time.
 A popular incumbent may have it better, but even then, a quarter or more of the population feel like they got skunked.
@@ -260,9 +239,7 @@ Very few people actually think solidly along party lines, and the further apart 
 Over 100 countries use systems of proportional representation to allow more nuanced political perspectives to have a voice.
 It's time to adopt one here.
 Our two-party, winner-take-all system is failing before our eyes.
-I
-PRESCRIPTION DRUG COSTS
-While we're talking about choices, costs and the like, we might as well talk about another set of choices that can really help with the cost of medicine.
+I PRESCRIPTION DRUG COSTS ​ While we're talking about choices, costs and the like, we might as well talk about another set of choices that can really help with the cost of medicine.
 The United States Pharmacopoeia only contains drugs.
 I think it's great that we've reached the point where the federal government is flexing its muscles in negotiation with our cartels - OOH!
 I mean, our pharmaceutical companies.
@@ -284,8 +261,7 @@ When it comes time to label these products for sale, our marijuana industry here
 At the same time, though, many of these plants really can be grown at home.
 We just need to know which ones actually work.
 If we want the big pharmaceutical companies to give us a break, let's give them some competition!
-SNIPPETS OF TO-DO'S
-I support a ban on stock trading and maybe even ownership by members of Congress.
+SNIPPETS OF TO-DO'S I support a ban on stock trading and maybe even ownership by members of Congress.
 Insider trading in Congress is disgusting, and it should be illegal.
 They need to work for US, not their portfolios.
 I support continued and strengthening regulation of Wall Street.
@@ -293,3 +269,4 @@ Deregulation will only lead to further financial crisis, and we should at least 
 I do NOT support taking back the money that we've invested in the IRS.
 Uncle Sam has some debt problems right now, and he needs to make more money.
 What's wrong with catching wealthy tax cheats?
+Platform Email: adamwithrowforcongress@gmail.com About Contact DONATE bottom of page

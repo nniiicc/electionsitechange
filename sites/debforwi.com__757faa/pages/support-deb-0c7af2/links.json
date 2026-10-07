@@ -1,18 +1,78 @@
 [
-"http://facebook.com/debforwisconsin",
-"http://instagram.com/debforwi",
-"http://twitter.com/debforwi",
-"https:// https://secure.actblue.com/donate/raiseaglass-mequon",
-"https://debforwi.com/",
-"https://debforwi.com/aboutdeb",
-"https://debforwi.com/awardsandendorsements",
-"https://debforwi.com/cart",
-"https://debforwi.com/events",
-"https://debforwi.com/meet-deb",
-"https://debforwi.com/support-deb",
-"https://debforwi.com/yardsign",
-"https://mobilize.us/wisdems/event/943001",
-"https://secure.actblue.com/donate/20260917-mke",
-"https://secure.actblue.com/donate/friends-of-deb-andraca-1",
-"https://secure.actblue.com/donate/kickoffjune8"
+{
+"text": "0",
+"href": "https://www.debforwi.com/cart"
+},
+{
+"text": "About Deb",
+"href": "https://www.debforwi.com/aboutdeb"
+},
+{
+"text": "Awards and Endorsements",
+"href": "https://www.debforwi.com/awardsandendorsements"
+},
+{
+"text": "Back",
+"href": "https://www.debforwi.com/"
+},
+{
+"text": "Click Here",
+"href": "https://secure.actblue.com/donate/kickoffjune8"
+},
+{
+"text": "Click Here",
+"href": "https://www.mobilize.us/wisdems/event/943001/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-deb-andraca-1"
+},
+{
+"text": "Events",
+"href": "https://www.debforwi.com/events"
+},
+{
+"text": "Folder: Meet Deb",
+"href": "https://www.debforwi.com/meet-deb"
+},
+{
+"text": "Folder: Support Deb",
+"href": "https://www.debforwi.com/support-deb"
+},
+{
+"text": "Make a Contribution",
+"href": "https://secure.actblue.com/donate/friends-of-deb-andraca-1"
+},
+{
+"text": "RSVP Here",
+"href": "https://%20https://secure.actblue.com/donate/raiseaglass-mequon"
+},
+{
+"text": "RSVP Here - Space is Limited!",
+"href": "https://secure.actblue.com/donate/20260917-mke"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://www.debforwi.com/yardsign"
+},
+{
+"text": "[image: Deb Andraca for Assembly]",
+"href": "https://www.debforwi.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/debforwisconsin"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/debforwi"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/debforwi"
+},
+{
+"text": "info@debforwi.com",
+"href": "mailto:info@debforwi.com?subject=Hello"
+}
 ]

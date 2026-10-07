@@ -1,11 +1,50 @@
 [
-"http://squarespace.com/",
-"https://facebook.com/profile.php?id=100073725124681",
-"https://howellformt.com/",
-"https://howellformt.com/cart",
-"https://howellformt.com/contact",
-"https://howellformt.com/support",
-"https://instagram.com/howell4mt",
-"https://secure.actblue.com/donate/sj-howell-1",
-"https://twitter.com/Howell4HD95"
+{
+"text": "0",
+"href": "https://howellformt.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://howellformt.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sj-howell-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100073725124681"
+},
+{
+"text": "Home",
+"href": "https://howellformt.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/howell4mt/"
+},
+{
+"text": "SJ Howell for HD 100",
+"href": "https://howellformt.com/"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Support",
+"href": "https://howellformt.com/support"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Howell4HD95"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100073725124681"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/howell4mt/"
+}
 ]

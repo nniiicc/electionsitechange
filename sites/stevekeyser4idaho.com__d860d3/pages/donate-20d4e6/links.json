@@ -1,9 +1,34 @@
 [
-"https://secure.anedot.com/steve-keyser-4-idaho/d258813e-b9e0-4d43-83a1-14b680eb1f12",
-"https://stevekeyser4idaho.com/",
-"https://stevekeyser4idaho.com/about-steve",
-"https://stevekeyser4idaho.com/contact",
-"https://stevekeyser4idaho.com/donate",
-"https://stevekeyser4idaho.com/issues",
-"https://stevekeyser4idaho.com/videos"
+{
+"text": "About Steve",
+"href": "https://stevekeyser4idaho.com/about-steve/"
+},
+{
+"text": "Contact",
+"href": "https://stevekeyser4idaho.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://stevekeyser4idaho.com/donate/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/steve-keyser-4-idaho/d258813e-b9e0-4d43-83a1-14b680eb1f12"
+},
+{
+"text": "Home",
+"href": "https://stevekeyser4idaho.com/"
+},
+{
+"text": "Issues",
+"href": "https://stevekeyser4idaho.com/issues/"
+},
+{
+"text": "Steve Keyser for Idaho House of Representatives",
+"href": "https://stevekeyser4idaho.com"
+},
+{
+"text": "Videos",
+"href": "https://stevekeyser4idaho.com/videos/"
+}
 ]

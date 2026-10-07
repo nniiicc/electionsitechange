@@ -1,4 +1,4 @@
-We should be cautious about allowing data centers in Vermont because the costs may outweigh the benefits.
+Skip to content Mills for Vermont About endorsements Instagram Facebook X Data Centers June 28, 2026 We should be cautious about allowing data centers in Vermont because the costs may outweigh the benefits.
 Data centers use huge amounts of electricity.
 This could drive the cost of electricity up for everyone.
 It could also require electric companies to upgrade their infrastructure and that burden might fall upon all users.
@@ -13,4 +13,5 @@ Data center supporters often cite jobs as a reason to support them, but the jobs
 Data centers operate with a minimum number of staff, typically 4-10 employees for a small data center.
 Vermont’s economy and identity are built on strong communities, a healthy environment, and responsible growth.
 Before inviting data centers into the state, we should establish clear rules that protect ratepayers, natural resources, and local communities.
-Vermont should prioritize investments that create more long-term jobs and broader benefits while preserving the quality of life that makes our state unique.
+Vermont should prioritize investments that create more long-term jobs and broader benefits while preserving the quality of life that makes our state unique. we8in Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Mills for Vermont Instagram Facebook X Customize Reject All Accept All Powered by

@@ -1,7 +1,11 @@
 {
  "description": "Upcoming campaign events for Mary Nesgoda's House 22B campaign.",
  "final_url": "https://mnesgoda22b.org/events/",
- "paid_for_by": "Paid for by Mary Nesgoda for House 22B \u00b7 P",
- "title": "Events \u00b7 Mary Nesgoda for Minnesota House 22B",
- "years_mentioned": []
+ "fingerprint": "ea37e3a811616067c6bff1331dd5cff3babd3cd9",
+ "format": 3,
+ "paid_for_by": "Paid for by Mary Nesgoda for House 22B · P",
+ "title": "Events · Mary Nesgoda for Minnesota House 22B",
+ "years_mentioned": [
+  "2026"
+ ]
 }

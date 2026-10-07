@@ -1,7 +1,30 @@
 [
-"https://arkansashouse.org/district/28",
-"https://arkleg.state.ar.us/Legislators/Detail?member=Schulz&ddBienniumSession=2025%2F2025R",
-"https://bartschulz.com/contact-us",
-"https://bartschulz.com/privacy-policy",
-"https://facebook.com/bartfor28"
+{
+"text": "(870)613-1940",
+"href": "tel:(870)613-1940"
+},
+{
+"text": "Contact",
+"href": "https://bartschulz.com/contact-us/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bartfor28"
+},
+{
+"text": "Learn More",
+"href": "https://www.arkansashouse.org/district/28"
+},
+{
+"text": "Legislation",
+"href": "https://arkleg.state.ar.us/Legislators/Detail?member=Schulz&ddBienniumSession=2025%2F2025R"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bartschulz.com/privacy-policy"
+},
+{
+"text": "info@bartschulz.com",
+"href": "mailto:info@bartschulz.com"
+}
 ]

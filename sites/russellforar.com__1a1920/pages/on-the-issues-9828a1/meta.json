@@ -1,7 +1,9 @@
 {
  "description": "Explore key political issues like economic fairness, education, healthcare reform, equal rights, and environmental protection.",
  "final_url": "https://russellforar.com/on-the-issues",
- "paid_for_by": null,
+ "fingerprint": "68af447314c86495dffe3b00d3873df629112aed",
+ "format": 3,
+ "paid_for_by": "",
  "title": "On the Issues",
  "years_mentioned": []
 }

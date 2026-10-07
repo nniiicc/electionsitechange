@@ -1,7 +1,9 @@
 {
  "description": "Manage Live Broadcasts on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ManageLiveBroadcasts",
- "paid_for_by": null,
+ "fingerprint": "074b313a21d5124f12b9b609c4f4617b267efc3a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Manage Live Broadcasts | Maxwell for Congress",
  "years_mentioned": []
 }

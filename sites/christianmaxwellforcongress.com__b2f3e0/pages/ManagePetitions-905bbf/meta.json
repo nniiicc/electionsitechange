@@ -1,7 +1,9 @@
 {
  "description": "Manage Petitions on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ManagePetitions",
- "paid_for_by": null,
+ "fingerprint": "212f616aec686d522ea1a93f7ad5eb923473f9f5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Manage Petitions | Maxwell for Congress",
  "years_mentioned": []
 }

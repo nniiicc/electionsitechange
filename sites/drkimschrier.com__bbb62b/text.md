@@ -1,4 +1,4 @@
-Our country is in a pivotal and worrisome moment right now that requires an effective voice and fighter for the people of Washington’s 8th Congressional District.
+Skip to main content Kim Schrier Donate Menu About Kim Endorsements Accomplishments Issues Economy + Trade Education Environment Gun Safety Healthcare Immigration Veterans Women’s Health Public Safety News Volunteer Facebook Twitter YouTube Volunteer Today Events Donate Our country is in a pivotal and worrisome moment right now that requires an effective voice and fighter for the people of Washington’s 8th Congressional District.
 In Congress, I have worked with both parties to deliver real results that matter.
 And when recent actions by the Trump administration have harmed our community, I have stood up to Trump, his D.C. allies, and his billionaire friends to protect my constituents.
 We need to address skyrocketing costs.
@@ -14,4 +14,14 @@ I’ve held over 130 town halls & traveled thousands of miles around this distri
 Right now, with a seeming epidemic of self-enrichment and corruption in Washington, D.C., we need accountability, and not just for the president.
 You deserve a government you trust to work to protect your interests.
 And you deserve a representative who will always listen to you & deliver.
-I am so proud to fight for our district, and want to keep delivering for you in Congress.”
+I am so proud to fight for our district, and want to keep delivering for you in Congress.” Learn more about Dr.
+Kim Schrier Chip in to support Team Schrier $10 $25 $50 Other Latest from the Campaign The Everett Herald: Editorial: Schrier has built a record of success for 8th With the Nov.
+8 election, Snohomish County welcomes a new congressional district for communities in the county’s east.
+Redistricting redrew the 8th Congressional District’s boundaries, starting ...
+Read More Tacoma News Tribune: The News Tribune endorses: Our picks for US House and Senate races in WA KIM SCHRIER FOR U.S.
+HOUSE OF REPRESENTATIVES IN WA’S 8TH CONGRESSIONAL DISTRICT During the primary The News Tribune Editorial Board chose the two candidates we believed were ...
+Read More Dr.
+Kim Schrier For Congress Releases New Ad “Definition” ISSAQUAH, WA – Dr.
+Kim Schrier for Congress has released a new TV ad, “Definition,” highlighting how Matt Larkin is dangerous and out of step ...
+Read More More News About Kim Issues News Media Volunteer Donate Facebook Twitter YouTube PO box 2728 Issaquah WA 98027 ‪(425) 477-9861‬ [email protected] Privacy Policy | Terms of Service Paid for by Dr.
+Kim Schrier for Congress

@@ -1,18 +1,70 @@
 [
-"https://burkeforpa147.vote/",
-"https://burkeforpa147.vote/endorsements",
-"https://burkeforpa147.vote/pa-147",
-"https://burkeforpa147.vote/priorities",
-"https://burkeforpa147.vote/volunteer",
-"https://burkeforpa147.vote/voting-1",
-"https://facebook.com/profile.php?id=61584455714544",
-"https://instagram.com/burkeforpa",
-"https://montgomerycountypa.gov/3587/Returning-Your-Mail-In-Ballot",
-"https://montgomerycountypa.gov/4919/2026-Election-Information",
-"https://pa.gov/services/vote/find-your-local-polling-place",
-"https://palegis.us/find-my-legislator",
-"https://pavoterservices.pa.gov/OnlineAbsenteeApplication",
-"https://pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx",
-"https://secure.actblue.com/donate/friends-of-margaret-burke-1",
-"https://x.com/burkeforPA"
+{
+"text": "Check Registration",
+"href": "https://www.pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-margaret-burke-1"
+},
+{
+"text": "Elected Officials",
+"href": "https://www.palegis.us/find-my-legislator"
+},
+{
+"text": "Election Dates",
+"href": "https://www.montgomerycountypa.gov/4919/2026-Election-Information"
+},
+{
+"text": "Endorsements",
+"href": "https://burkeforpa147.vote/endorsements"
+},
+{
+"text": "Find Polling Place",
+"href": "https://www.pa.gov/services/vote/find-your-local-polling-place"
+},
+{
+"text": "Find a Drop Box",
+"href": "https://www.montgomerycountypa.gov/3587/Returning-Your-Mail-In-Ballot"
+},
+{
+"text": "Home",
+"href": "https://burkeforpa147.vote/"
+},
+{
+"text": "PA 147",
+"href": "https://burkeforpa147.vote/pa-147"
+},
+{
+"text": "Priorities",
+"href": "https://burkeforpa147.vote/priorities"
+},
+{
+"text": "Request Mail In Ballot",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineMailInBegin"
+},
+{
+"text": "Volunteer",
+"href": "https://burkeforpa147.vote/volunteer"
+},
+{
+"text": "Voting",
+"href": "https://burkeforpa147.vote/voting-1"
+},
+{
+"text": "[image: Friends of Margaret Burke]",
+"href": "https://burkeforpa147.vote/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584455714544"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/burkeforpa/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/burkeforPA"
+}
 ]

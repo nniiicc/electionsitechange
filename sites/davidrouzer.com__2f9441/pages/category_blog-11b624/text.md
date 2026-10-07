@@ -1,2 +1,8 @@
-What if you had to ask the Environmental Protection Agency for permission before building an addition on your home, landscaping your yard, or planting crops on your farm?
-That’s exactly what families, small businesses, farmers, realtors, and property owners within every part of the Seventh District will be facing if the EPA’s proposed expansion of…
+Skip to content Home Meet David Issues News Coalitions Contact Volunteer Contribute Sign Up for Updates Email (Required) Zip (Required) Subscribe Join Our Fight Today!
+Contribute Blog All Blog News Press Video 11 September 2014 Share Facebook Twitter Email Stop the Stupidity What if you had to ask the Environmental Protection Agency for permission before building an addition on your home, landscaping your yard, or planting crops on your farm?
+That’s exactly what families, small businesses, farmers, realtors, and property owners within every part of the Seventh District will be facing if the EPA’s proposed expansion of… 27 August 2014 Share Facebook Twitter Email Seven Trillion Poll after poll shows Americans are increasingly worried about our national debt.
+And is it any wonder?
+Since President Obama took office, over $7 trillion has been added to the federal debt.
+I support a balanced budget amendment that requires Washington to get its fiscal house in order and prevents the federal government from spending more money than… 6 August 2014 Share Facebook Twitter Email Holding President Obama Accountable Over the last 6 years, this President has consistently proven that he is a better campaigner than leader, more interested in political rhetoric than running the government.
+That has never been more clear than with the disastrous scandal involving the Veterans’ Affairs Administration.
+Thousands of veterans have been placed on inexcusably long wait lists due… Contribute Meet David Issues News Coalitions Contact Volunteer PAID FOR BY DAVID ROUZER FOR CONGRESS PO BOX 3142, WILMINGTON, NC 28406 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

@@ -1,9 +1,34 @@
 [
-"https://fordforcongress.com/about",
-"https://fordforcongress.com/contact-our-campaign",
-"https://fordforcongress.com/endorsements",
-"https://fordforcongress.com/ford-for-congress-la-shawn-k-ford-campaign-news",
-"https://fordforcongress.com/platform",
-"https://fordforcongress.com/volunteer",
-"https://secure.actblue.com/donate/la-shawn-ford-2"
+{
+"text": "A Proven Record",
+"href": "https://fordforcongress.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://fordforcongress.com/contact-our-campaign/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/la-shawn-ford-2"
+},
+{
+"text": "Endorsements",
+"href": "https://fordforcongress.com/endorsements/"
+},
+{
+"text": "Issues",
+"href": "https://fordforcongress.com/platform/"
+},
+{
+"text": "Platform",
+"href": "https://fordforcongress.com/platform/"
+},
+{
+"text": "The Newsroom",
+"href": "https://fordforcongress.com/ford-for-congress-la-shawn-k-ford-campaign-news/"
+},
+{
+"text": "Volunteer",
+"href": "https://fordforcongress.com/volunteer/"
+}
 ]

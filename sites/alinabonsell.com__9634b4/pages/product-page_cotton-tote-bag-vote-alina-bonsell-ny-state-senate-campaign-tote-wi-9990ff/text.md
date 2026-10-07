@@ -1,18 +1,6 @@
-Cotton Tote Bag — Vote Alina Bonsell NY State Senate Campaign Tote with QR Code
-$31.36Price
-Carry purpose and civic pride together in a durable canvas tote that feels lived-in from day one.
+top of page HOME MEET ALINA 8-POINT PLAN EVENTS NEWS CONTACT MERCH FOLLOW US GET INVOLVED DONATE Cotton Tote Bag — Vote Alina Bonsell NY State Senate Campaign Tote with QR Code $31.36 Price Color * Natural Size * 15" x 16" Quantity * Add to Cart Buy Now Carry purpose and civic pride together in a durable canvas tote that feels lived-in from day one.
 The sturdy 12 oz cotton holds groceries, flyers, and notebooks without sagging.
 Neutral tones keep the design approachable — a clean campaign layout with a handwritten name, bold surname, and a scannable QR code that invites conversation on the go.
 This tote becomes part of daily routines: folded over a shoulder at the farmers’ market, set beside a laptop at a coffee shop, or handed out at a community event to spread a message without shouting.
 It’s simple, tactile, and designed to start small conversations while standing up to real use.
-Product features
-- 100% heavy-duty 12 oz cotton canvas for long-lasting use
-- Flat-corner construction for a slim, structured profile
-- Self-fabric handles with reinforced stitching for reliable carrying
-- Available in natural or black with a sewn-in label
-- Designed and printed on a blank sourced from India, adult sizing
-Care instructions
-- Do not iron directly over the printed area - print may stick to the iron.
-- Spot clean
-- Do not bleach
-- Line dry
+Product features - 100% heavy-duty 12 oz cotton canvas for long-lasting use - Flat-corner construction for a slim, structured profile - Self-fabric handles with reinforced stitching for reliable carrying - Available in natural or black with a sewn-in label - Designed and printed on a blank sourced from India, adult sizing Care instructions - Do not iron directly over the printed area - print may stick to the iron. - Spot clean - Do not bleach - Line dry CONTACT info@alinabonsell.com 917-819-2636 PAID FOR BY ALINA FOR NY 2026 FIGHT FOR NY DONATE FOLLOW US bottom of page

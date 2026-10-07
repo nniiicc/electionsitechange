@@ -1,6 +1,4 @@
-CHESNEY SECURES REPUBLICAN NOMINATION FOR STATE SENATE IN THE 45TH DISTRICT
-Chesney secures Republican nomination for State Senate in the 45th District
-Freeport: State Representative Andrew Chesney has secured the Republican nomination for Illinois State Senate in the 45th District and will be unopposed in the June 28th Republican Primary.
+About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY CHESNEY SECURES REPUBLICAN NOMINATION FOR STATE SENATE IN THE 45TH DISTRICT Chesney secures Republican nomination for State Senate in the 45th District Freeport: State Representative Andrew Chesney has secured the Republican nomination for Illinois State Senate in the 45th District and will be unopposed in the June 28th Republican Primary.
 Chesney had received the endorsement of the Republican State Senate Republican Leader Dan McConchie as well as State Senator Brian Stewart along with many local elected officials including every Sheriff across the seven-county district.
 “I want to thank all of the people who helped make my nomination possible.
 Of course, none of this would be possible without the support and encouragement of my friend and mentor State Senator Brian Stewart.
@@ -12,4 +10,4 @@ Our next hurdle will be the November General Election and with the continued sup
 Andrew Chesney and his wife Kelly reside in Freeport.
 He is an honors graduate of Arizona State University.
 He has built a career in real estate and for over a decade played a primary role in his family-owned manufacturing business.
-# # #
+# # # #© Paid for by Chesney for Illinois    

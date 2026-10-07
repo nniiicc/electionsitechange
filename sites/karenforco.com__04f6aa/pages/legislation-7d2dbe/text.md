@@ -1,3 +1,3 @@
-legislatioN
-Since 2021, Representative McCormick has passed dozens of pieces of legislation to better our state and protect our community.
+0 Skip to Content Home About Issues Issues Legislation Endorsements Updates Join Us Contact Donate Open Menu Close Menu Home About Issues Issues Legislation Endorsements Updates Join Us Contact Donate Open Menu Close Menu Home About Folder: Issues Back Issues Legislation Endorsements Updates Join Us Contact Donate legislatioN Since 2021, Representative McCormick has passed dozens of pieces of legislation to better our state and protect our community.
 At the link below, you can view all of the pieces of legislation that Representative McCormick has sponsored since beginning her time in the General Assembly in 2021.
+Learn More Paid for by Karen for CO Paid for by Karen for CO | Registered Agent Karen McCormick PO Box 326, Hygiene, CO 80533 info@karenforco.com — (720) 340-1725

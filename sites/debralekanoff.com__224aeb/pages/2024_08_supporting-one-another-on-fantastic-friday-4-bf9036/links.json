@@ -1,23 +1,98 @@
 [
-"https://cob.org/services/environment/climate/heat-smoke",
-"https://debralekanoff.com/",
-"https://debralekanoff.com/2024/08/get-out-the-vote-on-fantastic-friday",
-"https://debralekanoff.com/2024/08/honoring-our-home-on-fantastic-friday",
-"https://debralekanoff.com/about-rep-lekanoff",
-"https://debralekanoff.com/category/fantastic-fridays",
-"https://debralekanoff.com/contact",
-"https://debralekanoff.com/donate",
-"https://debralekanoff.com/fantastic-fridays",
-"https://debralekanoff.com/news-updates",
-"https://debralekanoff.com/press-media",
-"https://debralekanoff.com/top-priorities",
-"https://debralekanoff.com/volunteer",
-"https://doh.wa.gov/Portals/1/Documents/Pubs/334-153_HeatAdvisory.pdf",
-"https://doh.wa.gov/Portals/1/Documents/Pubs/334-231.pdf",
-"https://ecy.wa.gov/programs/air/aqar.html",
-"https://facebook.com/votedebralekanoff",
-"https://instagram.com/DebraWA40",
-"https://olvr.votewa.gov/olvr2024/landing.aspx",
-"https://sanjuancountywa.gov/CivicAlerts.aspx?aid=1696",
-"https://twitter.com/DebraWA40"
+{
+"text": "About",
+"href": "https://debralekanoff.com/about-rep-lekanoff/"
+},
+{
+"text": "City of Bellingham Climate and Air Quality Resources",
+"href": "https://cob.org/services/environment/climate/heat-smoke"
+},
+{
+"text": "Contact",
+"href": "https://debralekanoff.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://debralekanoff.com/donate/"
+},
+{
+"text": "Fantastic Fridays",
+"href": "https://debralekanoff.com/category/fantastic-fridays/"
+},
+{
+"text": "Fantastic Fridays",
+"href": "https://debralekanoff.com/fantastic-fridays/"
+},
+{
+"text": "Get Updates",
+"href": "https://debralekanoff.com/#join"
+},
+{
+"text": "Home",
+"href": "https://debralekanoff.com"
+},
+{
+"text": "Home",
+"href": "https://debralekanoff.com/"
+},
+{
+"text": "News Updates",
+"href": "https://debralekanoff.com/news-updates/"
+},
+{
+"text": "Next",
+"href": "https://debralekanoff.com/2024/08/get-out-the-vote-on-fantastic-friday/"
+},
+{
+"text": "Press & Media",
+"href": "https://debralekanoff.com/press-media/"
+},
+{
+"text": "Previous",
+"href": "https://debralekanoff.com/2024/08/honoring-our-home-on-fantastic-friday/"
+},
+{
+"text": "Register To Vote",
+"href": "https://olvr.votewa.gov/olvr2024/landing.aspx"
+},
+{
+"text": "San Juan County Air Quality Information page",
+"href": "https://www.sanjuancountywa.gov/CivicAlerts.aspx?aid=1696"
+},
+{
+"text": "Top Priorities",
+"href": "https://debralekanoff.com/top-priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://debralekanoff.com/volunteer/"
+},
+{
+"text": "Washington State DOE AQI page",
+"href": "https://www.ecy.wa.gov/programs/air/aqar.html"
+},
+{
+"text": "Washington State Department of Health",
+"href": "https://www.doh.wa.gov/Portals/1/Documents/Pubs/334-153_HeatAdvisory.pdf"
+},
+{
+"text": "Washington State Department of Health",
+"href": "https://www.doh.wa.gov/Portals/1/Documents/Pubs/334-231.pdf"
+},
+{
+"text": "[image: Re-Elect Rep. Debra Lekanoff Logo] [image: Re-Elect Rep. Debra Lekanoff Logo]",
+"href": "https://debralekanoff.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/votedebralekanoff/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://instagram.com/DebraWA40"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://twitter.com/DebraWA40"
+}
 ]

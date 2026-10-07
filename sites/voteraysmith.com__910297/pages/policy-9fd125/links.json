@@ -1,19 +1,74 @@
 [
-"https://bsky.app/profile/voteraysmith.bsky.social",
-"https://facebook.com/voteraysmith",
-"https://instagram.com/voteraysmith",
-"https://legis.ga.gov/legislation/69603",
-"https://legis.ga.gov/legislation/70600",
-"https://legis.ga.gov/legislation/70747",
-"https://legis.ga.gov/legislation/71671",
-"https://legis.ga.gov/legislation/72323",
-"https://legis.ga.gov/legislation/72776",
-"https://legis.ga.gov/legislation/72782",
-"https://legis.ga.gov/legislation/73418",
-"https://voteraysmith.com/",
-"https://voteraysmith.com/contact",
-"https://voteraysmith.com/endorsements",
-"https://voteraysmith.com/policy",
-"https://voteraysmith.com/why-im-running",
-"https://wordpress.org/"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/voteraysmith.bsky.social"
+},
+{
+"text": "Contact",
+"href": "https://voteraysmith.com/contact/"
+},
+{
+"text": "Endorsements",
+"href": "https://voteraysmith.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/voteraysmith"
+},
+{
+"text": "HB 1166",
+"href": "https://www.legis.ga.gov/legislation/72776"
+},
+{
+"text": "HB 1171",
+"href": "https://www.legis.ga.gov/legislation/72782"
+},
+{
+"text": "HB 555",
+"href": "https://www.legis.ga.gov/legislation/70600"
+},
+{
+"text": "HB 617",
+"href": "https://www.legis.ga.gov/legislation/70747"
+},
+{
+"text": "HB 864",
+"href": "https://www.legis.ga.gov/legislation/71671"
+},
+{
+"text": "Home",
+"href": "https://voteraysmith.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/voteraysmith"
+},
+{
+"text": "Policy",
+"href": "https://voteraysmith.com/policy/"
+},
+{
+"text": "SB 417",
+"href": "https://www.legis.ga.gov/legislation/72323"
+},
+{
+"text": "SB 50",
+"href": "https://www.legis.ga.gov/legislation/69603"
+},
+{
+"text": "SB 538",
+"href": "https://www.legis.ga.gov/legislation/73418"
+},
+{
+"text": "Why I’m Running",
+"href": "https://voteraysmith.com/why-im-running/"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org"
+},
+{
+"text": "[image: Ray Smith for Ga Senate 46]",
+"href": "https://voteraysmith.com/"
+}
 ]

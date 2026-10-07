@@ -1,26 +1,102 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Arapahoe+County+Central+Committee+Meeting&dates=20260903T003000Z%2F20260903T020000Z&location=Virtual",
-"http://maps.google.com/?q=Virtual",
-"https://auroragov.org/city_hall/elections/upcoming_election",
-"https://centennialco.gov/Government/City-Projects-and-Initiatives/Sales-and-Use-Tax-Measure-on-the-November-2026-Ballot",
-"https://docs.google.com/document/d/1j3Ns9ynr1vTy3IToNKnsK5Y2VCCpAcZJ/edit",
-"https://flickr.com/people/monicaforcolorado",
-"https://instagram.com/monicavanbuskirk",
-"https://linkedin.com/in/monicavanbuskirk",
-"https://littletonpublicschools.net/page/dollars-and-sense",
-"https://monicaforcolorado.com/",
-"https://monicaforcolorado.com/about",
-"https://monicaforcolorado.com/cart",
-"https://monicaforcolorado.com/contact",
-"https://monicaforcolorado.com/endorsements",
-"https://monicaforcolorado.com/events",
-"https://monicaforcolorado.com/events/arapahoe-county-central-committee-meeting?format=ical",
-"https://monicaforcolorado.com/events/event-one-mcyfj-db49n-kjxft-edf7z-z6jrh-tlcnb-r3bhw-gfys4",
-"https://monicaforcolorado.com/events/hd9-margarita-mixer-n39d8",
-"https://monicaforcolorado.com/hd9",
-"https://monicaforcolorado.com/issues",
-"https://monicaforcolorado.com/privacy-policy",
-"https://secure.actblue.com/donate/monicaforcolorado",
-"https://us02web.zoom.us/meeting/register/tZAufuyhqD4pGtASPWNFPsPMh4drYHUKqMag",
-"https://youtube.com/@monicavanbuskirk"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=virtual++"
+},
+{
+"text": "0",
+"href": "https://www.monicaforcolorado.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.monicaforcolorado.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.monicaforcolorado.com/events"
+},
+{
+"text": "Centennial Sales & Use Tax increase",
+"href": "https://www.centennialco.gov/Government/City-Projects-and-Initiatives/Sales-and-Use-Tax-Measure-on-the-November-2026-Ballot"
+},
+{
+"text": "Click here to register for the Zoom meeting link.",
+"href": "https://us02web.zoom.us/meeting/register/tZAufuyhqD4pGtASPWNFPsPMh4drYHUKqMag#/registration"
+},
+{
+"text": "Contact",
+"href": "https://www.monicaforcolorado.com/contact"
+},
+{
+"text": "County Party Rules here",
+"href": "https://docs.google.com/document/d/1j3Ns9ynr1vTy3IToNKnsK5Y2VCCpAcZJ/edit"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/monicaforcolorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.monicaforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.monicaforcolorado.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Arapahoe+County+Central+Committee+Meeting&dates=20260903T003000Z%2F20260903T020000Z&location=Virtual"
+},
+{
+"text": "HD9",
+"href": "https://www.monicaforcolorado.com/hd9"
+},
+{
+"text": "ICS",
+"href": "https://www.monicaforcolorado.com/events/arapahoe-county-central-committee-meeting?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.monicaforcolorado.com/issues"
+},
+{
+"text": "Littleton Public Schools Mill Levy Override",
+"href": "https://www.littletonpublicschools.net/page/dollars-and-sense/"
+},
+{
+"text": "Next Next September 3 HD9 Coffee Hour",
+"href": "https://www.monicaforcolorado.com/events/event-one-mcyfj-db49n-kjxft-edf7z-z6jrh-tlcnb-r3bhw-gfys4"
+},
+{
+"text": "Previous Previous August 29 HD9 Margarita Mixer",
+"href": "https://www.monicaforcolorado.com/events/hd9-margarita-mixer-n39d8"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.monicaforcolorado.com/privacy-policy"
+},
+{
+"text": "[image: Monica for Colorado]",
+"href": "https://www.monicaforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/people/monicaforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/monicavanbuskirk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/monicavanbuskirk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@monicavanbuskirk"
+},
+{
+"text": "this page",
+"href": "https://www.auroragov.org/city_hall/elections/upcoming_election"
+}
 ]

@@ -1,11 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61558857028222",
-"https://karenforassembly.com/",
-"https://karenforassembly.com/about",
-"https://karenforassembly.com/cart",
-"https://karenforassembly.com/contact",
-"https://karenforassembly.com/issues",
-"https://karenforassembly.com/work-with-me",
-"https://secure.actblue.com/donate/karen-for-assembly-1",
-"https://twitter.com/karen4assembly"
+{
+"text": "0",
+"href": "https://www.karenforassembly.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.karenforassembly.com/about"
+},
+{
+"text": "CONTACT ME",
+"href": "https://www.karenforassembly.com/work-with-me"
+},
+{
+"text": "Contact",
+"href": "https://www.karenforassembly.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/karen-for-assembly-1"
+},
+{
+"text": "Issues",
+"href": "https://www.karenforassembly.com/issues"
+},
+{
+"text": "[image: Karen Kirsch for Assembly]",
+"href": "https://www.karenforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/karen4assembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61558857028222"
+}
 ]

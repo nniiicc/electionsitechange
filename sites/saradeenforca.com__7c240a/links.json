@@ -1,19 +1,78 @@
 [
-"https://facebook.com/saradeenforca",
-"https://instagram.com/saradeenforca",
-"https://mobilize.us/saradeenforassembly2026",
-"https://saradeenforca.com/",
-"https://saradeenforca.com/contact",
-"https://saradeenforca.com/district-66",
-"https://saradeenforca.com/endorsements",
-"https://saradeenforca.com/fact-sheet",
-"https://saradeenforca.com/get-involved",
-"https://saradeenforca.com/media",
-"https://saradeenforca.com/meet-sara",
-"https://saradeenforca.com/voting-information",
-"https://saradeenforca.com/why-im-running",
-"https://secure.actblue.com/donate/sara-deen",
-"https://secure.actblue.com/donate/sara-deen?amount=100",
-"https://secure.actblue.com/donate/sara-deen?amount=25",
-"https://secure.actblue.com/donate/sara-deen?amount=50"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/sara-deen?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/sara-deen?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/sara-deen?amount=50"
+},
+{
+"text": "About Sara",
+"href": "https://www.saradeenforca.com/meet-sara/"
+},
+{
+"text": "Contact",
+"href": "https://www.saradeenforca.com/contact/"
+},
+{
+"text": "District 66",
+"href": "https://www.saradeenforca.com/district-66/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sara-deen"
+},
+{
+"text": "Endorsements",
+"href": "https://www.saradeenforca.com/endorsements/"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.saradeenforca.com/fact-sheet"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/saradeenforca"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/saradeenforca"
+},
+{
+"text": "Get Involved",
+"href": "https://www.saradeenforca.com/get-involved/"
+},
+{
+"text": "Media",
+"href": "https://www.saradeenforca.com/media/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/sara-deen"
+},
+{
+"text": "Sign Up To Volunteer",
+"href": "https://www.mobilize.us/saradeenforassembly2026/"
+},
+{
+"text": "Voting Information",
+"href": "https://www.saradeenforca.com/voting-information"
+},
+{
+"text": "Voting Information",
+"href": "https://www.saradeenforca.com/voting-information/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://www.saradeenforca.com/why-im-running/"
+},
+{
+"text": "[image]",
+"href": "https://www.saradeenforca.com/"
+}
 ]

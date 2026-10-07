@@ -1,41 +1,166 @@
 [
-"http://t.me/WilliamSwitzer",
-"https://campaignpartner.com/",
-"https://facebook.com/WilliamSwitzerforColorado",
-"https://facebook.com/profile.php?id=61579507272462",
-"https://instagram.com/williamswitzerforcolorado",
-"https://secure.anedot.com/switzerhd30/donate",
-"https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?Type=CA&SeqID=67444",
-"https://williamswitzerforcolorado.com/",
-"https://williamswitzerforcolorado.com/contact",
-"https://williamswitzerforcolorado.com/contribute",
-"https://williamswitzerforcolorado.com/events",
-"https://williamswitzerforcolorado.com/home",
-"https://williamswitzerforcolorado.com/issues",
-"https://williamswitzerforcolorado.com/meet_william",
-"https://williamswitzerforcolorado.com/news",
-"https://williamswitzerforcolorado.com/news/considering-a-run-for-cohd30",
-"https://williamswitzerforcolorado.com/news/meet-greet",
-"https://williamswitzerforcolorado.com/news/wednesday-with-will-august-19th-edition",
-"https://williamswitzerforcolorado.com/news/wednesday-with-will-august-5th-edition",
-"https://williamswitzerforcolorado.com/news/wednesday-with-will-september-9th-edition",
-"https://williamswitzerforcolorado.com/news/wednesdays-with-will-august-26th-edition",
-"https://williamswitzerforcolorado.com/news/wednesdays-with-will-july-15th-edition",
-"https://williamswitzerforcolorado.com/news/wednesdays-with-will-july-1st-edition",
-"https://williamswitzerforcolorado.com/news/wednesdays-with-will-july-22nd-edition",
-"https://williamswitzerforcolorado.com/news/wednesdays-with-will-july-29-edition",
-"https://williamswitzerforcolorado.com/news/wednesdays-with-will-july-8th-edition",
-"https://williamswitzerforcolorado.com/news/wednesdays-with-will-june-10th-edition",
-"https://williamswitzerforcolorado.com/news/wednesdays-with-will-june-17th-edition",
-"https://williamswitzerforcolorado.com/news/wednesdays-with-will-june-24th-edition",
-"https://williamswitzerforcolorado.com/news/wednesdays-with-will-june-3rd-edition",
-"https://williamswitzerforcolorado.com/news/wednesdays-with-will-may-13th-edition",
-"https://williamswitzerforcolorado.com/news/wednesdays-with-will-may-20th-edition",
-"https://williamswitzerforcolorado.com/news/wednesdays-with-will-may-27th-edition",
-"https://williamswitzerforcolorado.com/news/wednesdays-with-will-may-6th-edition",
-"https://williamswitzerforcolorado.com/news/wednesdays-with-will-september-2nd-edition",
-"https://williamswitzerforcolorado.com/privacy-policy",
-"https://williamswitzerforcolorado.com/volunteer",
-"https://williamswitzerforcolorado.com/vote",
-"https://x.com/improvecolorado"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Connect",
+"href": "https://williamswitzerforcolorado.com/contact"
+},
+{
+"text": "Considering a run for COHD30",
+"href": "https://williamswitzerforcolorado.com/news/considering-a-run-for-cohd30"
+},
+{
+"text": "Contribute",
+"href": "https://williamswitzerforcolorado.com/contribute"
+},
+{
+"text": "Get Involved",
+"href": "https://williamswitzerforcolorado.com/volunteer"
+},
+{
+"text": "Here",
+"href": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?Type=CA&SeqID=67444"
+},
+{
+"text": "Home",
+"href": "https://williamswitzerforcolorado.com/home"
+},
+{
+"text": "Join an Event",
+"href": "https://williamswitzerforcolorado.com/events"
+},
+{
+"text": "Meet & Greet",
+"href": "https://williamswitzerforcolorado.com/news/meet-greet"
+},
+{
+"text": "My Story",
+"href": "https://williamswitzerforcolorado.com/meet_william"
+},
+{
+"text": "News",
+"href": "https://williamswitzerforcolorado.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://williamswitzerforcolorado.com/privacy-policy"
+},
+{
+"text": "Public Policy Goals",
+"href": "https://williamswitzerforcolorado.com/issues"
+},
+{
+"text": "Voter Information",
+"href": "https://williamswitzerforcolorado.com/vote"
+},
+{
+"text": "Wednesday With Will (August 19th Edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesday-with-will-august-19th-edition"
+},
+{
+"text": "Wednesday With Will (August 5th Edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesday-with-will-august-5th-edition"
+},
+{
+"text": "Wednesday With Will (September 9th Edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesday-with-will-september-9th-edition"
+},
+{
+"text": "Wednesdays With Will (August 26th Edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesdays-with-will-august-26th-edition"
+},
+{
+"text": "Wednesdays With Will (July 15th Edition).",
+"href": "https://williamswitzerforcolorado.com/news/wednesdays-with-will-july-15th-edition"
+},
+{
+"text": "Wednesdays With Will (July 1st Edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesdays-with-will-july-1st-edition"
+},
+{
+"text": "Wednesdays With Will (July 22nd Edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesdays-with-will-july-22nd-edition"
+},
+{
+"text": "Wednesdays With Will (July 8th Edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesdays-with-will-july-8th-edition"
+},
+{
+"text": "Wednesdays With Will (June 10th edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesdays-with-will-june-10th-edition"
+},
+{
+"text": "Wednesdays With Will (June 17th edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesdays-with-will-june-17th-edition"
+},
+{
+"text": "Wednesdays With Will (June 24th Edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesdays-with-will-june-24th-edition"
+},
+{
+"text": "Wednesdays With Will (June 3rd edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesdays-with-will-june-3rd-edition"
+},
+{
+"text": "Wednesdays With Will (May 13th edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesdays-with-will-may-13th-edition"
+},
+{
+"text": "Wednesdays With Will (May 20th edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesdays-with-will-may-20th-edition"
+},
+{
+"text": "Wednesdays With Will (May 27th Edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesdays-with-will-may-27th-edition"
+},
+{
+"text": "Wednesdays with Will (July 29 Edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesdays-with-will-july-29-edition"
+},
+{
+"text": "Wednesdays with Will (May 6th edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesdays-with-will-may-6th-edition"
+},
+{
+"text": "Wednesdays with Will (September 2nd Edition)",
+"href": "https://williamswitzerforcolorado.com/news/wednesdays-with-will-september-2nd-edition"
+},
+{
+"text": "[image: William Switzer Colorado House District 30]",
+"href": "https://williamswitzerforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "http://t.me/WilliamSwitzer"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61579507272462"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/williamswitzerforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/improvecolorado"
+},
+{
+"text": "https://secure.anedot.com/switzerhd30/donate",
+"href": "https://secure.anedot.com/switzerhd30/donate"
+},
+{
+"text": "https://www.facebook.com/WilliamSwitzerforColorado/",
+"href": "https://www.facebook.com/WilliamSwitzerforColorado/"
+},
+{
+"text": "https://www.instagram.com/williamswitzerforcolorado/",
+"href": "https://www.instagram.com/williamswitzerforcolorado/"
+},
+{
+"text": "https://x.com/improvecolorado",
+"href": "https://x.com/improvecolorado"
+}
 ]

@@ -1,16 +1,66 @@
 [
-"http://api.org/~/media/files/statistics/gasoline-tax-map.pdf",
-"http://lao.ca.gov/handouts/transportation/2015/Transportation-Funding-022315.pdf",
-"http://latimes.com/business/la-fi-gas-prices-20150713-story.html",
-"http://leginfo.ca.gov/pub/11-12/bill/asm/ab_0101-0150/ab_105_bill_20110324_chaptered.html",
-"http://reason.org/files/21st_annual_highway_report.pdf",
-"https://electjay.com/",
-"https://electjay.com/about",
-"https://facebook.com/ElectJay",
-"https://flickr.com/photos/185135131@N02",
-"https://instagram.com/teamobernolte",
-"https://secure.winred.com/JayObernolte/donate",
-"https://twitter.com/JayObernolte",
-"https://x.com/TeamObernolte",
-"https://youtube.com/@jayobernolte-b2j?si=ixzZxDadFf3AkoJV"
+{
+"text": "@JayObernolte",
+"href": "https://www.twitter.com/JayObernolte"
+},
+{
+"text": "AB 105",
+"href": "http://leginfo.ca.gov/pub/11-12/bill/asm/ab_0101-0150/ab_105_bill_20110324_chaptered.html"
+},
+{
+"text": "Annual Highway Report",
+"href": "http://reason.org/files/21st_annual_highway_report.pdf"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/JayObernolte/donate"
+},
+{
+"text": "Home",
+"href": "https://electjay.com/"
+},
+{
+"text": "Media",
+"href": "https://www.flickr.com/photos/185135131@N02/"
+},
+{
+"text": "[image: Jay Obernolte for Congress Logo] [image: Jay Obernolte for Congress Logo]",
+"href": "https://electjay.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/ElectJay/"
+},
+{
+"text": "[tooltip: Flickr]",
+"href": "https://www.flickr.com/photos/185135131@N02/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/teamobernolte/"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://x.com/TeamObernolte"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/@jayobernolte-b2j?si=ixzZxDadFf3AkoJV"
+},
+{
+"text": "currently diverted",
+"href": "http://www.lao.ca.gov/handouts/transportation/2015/Transportation-Funding-022315.pdf"
+},
+{
+"text": "read more",
+"href": "https://electjay.com/about/"
+},
+{
+"text": "some of the highest",
+"href": "http://www.api.org/~/media/files/statistics/gasoline-tax-map.pdf"
+},
+{
+"text": "they are skyrocketing",
+"href": "http://www.latimes.com/business/la-fi-gas-prices-20150713-story.html"
+}
 ]

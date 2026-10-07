@@ -1,4 +1,4 @@
-I'm running against Tim Burchett.
+Skip navigation menu Home About Priorities Volunteer Events Merch Donate Home About Priorities Volunteer Events Merch Donate I'm running against Tim Burchett.
 Why?
 A lot of people in East Tennessee like Tim Burchett.
 He’s friendly, he’s approachable, and he talks a good game about fighting the Washington machine.
@@ -10,102 +10,30 @@ His record tells a different story than his speeches and social media posts do.
 East Tennessee deserves someone that is going to fight to represent us even when it’s hard.
 He's had seven years in Congress.
 What has he done?
-In that time, not a single bill he has sponsored has become law.
+In that time, not a single bill he has sponsored has become law .
 Not one.
 But his votes have had real consequences for real East Tennesseans.
 Here’s how Tim and I stack up against each other.
-Tim's Record on Our Economy
-East Tennessee used to be a place where folks could thrive, not just survive.
+Tim's Record on Our Economy East Tennessee used to be a place where folks could thrive, not just survive.
 During his time in Congress, Tim consistently has helped the elite, not the working class.
-Here's his record:
-- Tim Burchett has not held an in-person town hall since 2020.
+Here's his record: Tim Burchett has not held an in-person town hall since 2020 .
 How can he know what’s working for us if he won't talk to us?
-- Voted to increase our healthcare costs by almost 3x and take food off the table for more than 55,000 East Tennesseans
-- Voted to extend President Trump's war in Iran, which is driving up the price of gas, groceries, and other everyday essentials for East Tennesseans, costing Tennessee households more than $450 each on gas and diesel alone
-- Voted against $176 million in investments for TN-02 that would have lowered our energy costs
-- Voted against $22 billion in investments for Tennessee’s energy, industry, and transportation sectors
-- Voted against 690 new good-paying jobs for TN-02 in 2022
-- Voted to add $4.2 TRILLION to the national debt to give tax cuts to the elite and foreign investors
-- Supported President Trump's haphazard tariff policies, which increased costs for East Tennessee households without bringing any manufacturing home
-- Voted to deliver 45% of all tax cuts to the wealthiest 5% of Americans while the bottom 40% come out behind after tariffs — and paid for it by cutting the Medicaid and food assistance that keep rural hospitals open and East Tennessee families fed
-My Plan to Make The Economy Work for the Working Class
-Working hard should get you ahead, not put you behind.
-Here’s how I am making sure that every East Tennessean has access to the opportunities they deserve
-What I'll work for in Congress:
-- I'm already holding regular town halls across our district and am committed to continue holding in-person town halls when elected.
-Check my events page for upcoming town halls
-- Fight for East Tennessee's share of federal infrastructure dollars to put local workers to work building our own communities
-- Bring good-paying jobs home through workforce training, apprenticeships, and manufacturing investments that keep money in East Tennessee
-- Hold corporations accountable when they break labor laws and rig the system against workers
-- Invest in public schools and universal pre-K so every East Tennessee kid starts with a real shot
-- Push for a livable minimum wage so a full-time job actually pays the bills
-- Restore the ACA tax credits and crack down on insurance companies that deny valid claims
-Tim's Record on Healthcare
-Tim Burchett critiques other people's plans to fix our broken healthcare system, but he has no plan himself to bring costs down or increase access for the people of East Tennessee.
-Here's his record:
-- Supported shutting down the government instead of lowering your healthcare costs
-- Voted to raise your healthcare costs by up to 243% just to keep Washington insiders and Donald Trump happy
-- Voted against capping the price of insulin
-- Slashed funding for 9 rural Tennessee hospitals
-- Voted to take away health insurance from over 29,000 East Tennesseans
-My Plan to Fix Our Broken Healthcare System
-Insurance companies and big pharma continue to take advantage of those most in need, increasing consumer costs and denying care.
+Voted to increase our healthcare costs by almost 3x and take food off the table for more than 55,000 East Tennesseans Voted to extend President Trump's war in Iran , which is driving up the price of gas, groceries, and other everyday essentials for East Tennesseans, costing Tennessee households more than $450 each on gas and diesel alone Voted against $176 million in investments for TN-02 that would have lowered our energy costs Voted against $22 billion in investments for Tennessee’s energy, industry, and transportation sectors Voted against 690 new good-paying jobs for TN-02 in 2022 Voted to add $4.2 TRILLION to the national debt to give tax cuts to the elite and foreign investors Supported President Trump's haphazard tariff policies, which increased costs for East Tennessee households without bringing any manufacturing home Voted to deliver 45% of all tax cuts to the wealthiest 5% of Americans while the bottom 40% come out behind after tariffs — and paid for it by cutting the Medicaid and food assistance that keep rural hospitals open and East Tennessee families fed My Plan to Make The Economy Work for the Working Class Working hard should get you ahead, not put you behind.
+Here’s how I am making sure that every East Tennessean has access to the opportunities they deserve What I'll work for in Congress: I'm already holding regular town halls across our district and am committed to continue holding in-person town halls when elected .
+Check my events page for upcoming town halls Fight for East Tennessee's share of federal infrastructure dollars to put local workers to work building our own communities Bring good-paying jobs home through workforce training, apprenticeships, and manufacturing investments that keep money in East Tennessee Hold corporations accountable when they break labor laws and rig the system against workers Invest in public schools and universal pre-K so every East Tennessee kid starts with a real shot Push for a livable minimum wage so a full-time job actually pays the bills Restore the ACA tax credits and crack down on insurance companies that deny valid claims Tim's Record on Healthcare Tim Burchett critiques other people's plans to fix our broken healthcare system, but he has no plan himself to bring costs down or increase access for the people of East Tennessee.
+Here's his record: Supported shutting down the government instead of lowering your healthcare costs Voted to raise your healthcare costs by up to 243% just to keep Washington insiders and Donald Trump happy Voted against capping the price of insulin Slashed funding for 9 rural Tennessee hospitals Voted to take away health insurance from over 29,000 East Tennesseans My Plan to Fix Our Broken Healthcare System Insurance companies and big pharma continue to take advantage of those most in need, increasing consumer costs and denying care.
 Meanwhile, these companies keep posting record profits.
 This is unacceptable.
-What I’ll work for in Congress to fix it:
-- Rein in insurance company abuses by requiring insurers to spend more of every premium dollar on actual patient care and health outcomes, penalizing companies that routinely deny valid claims, and support antitrust action to break up corporate healthcare monopolies that dominate the market to post record profits while people go without care
-- Work to restore and expand the ACA premium tax credit to make our current healthcare options affordable while ensuring that insurance companies aren’t taking advantage of government dollars
-- Advocate for a universal healthcare option, while preserving your freedom to purchase additional insurance coverage
-- Champion drug price caps by building on the IRA's Medicare negotiation framework to extend hard price caps to insulin, cancer drugs, and other essential medications for all Americans, not just seniors
-- Empower Medicaid to negotiate drug prices, directly lowering your costs for your medications
-- Fight to lift the cap on federally funded medical residencies to add thousands of new residency slots annually and address the physician shortage before it becomes a full collapse
-- Draw more medical professionals to our region by increasing Medicare and Medicaid reimbursement rates in rural areas
-- Fund community-based health programs so they can solve the biggest health problems in their areas
-- Support evidence-based substance abuse treatment to address the opioid crisis in our communities
-Tim's Record on Government Corruption
-Tim Burchett is part of the problem he rails against.
+What I’ll work for in Congress to fix it: Rein in insurance company abuses by requiring insurers to spend more of every premium dollar on actual patient care and health outcomes, penalizing companies that routinely deny valid claims, and support antitrust action to break up corporate healthcare monopolies that dominate the market to post record profits while people go without care Work to restore and expand the ACA premium tax credit to make our current healthcare options affordable while ensuring that insurance companies aren’t taking advantage of government dollars Advocate for a universal healthcare option, while preserving your freedom to purchase additional insurance coverage Champion drug price caps by building on the IRA's Medicare negotiation framework to extend hard price caps to insulin, cancer drugs, and other essential medications for all Americans, not just seniors Empower Medicaid to negotiate drug prices, directly lowering your costs for your medications Fight to lift the cap on federally funded medical residencies to add thousands of new residency slots annually and address the physician shortage before it becomes a full collapse Draw more medical professionals to our region by increasing Medicare and Medicaid reimbursement rates in rural areas Fund community-based health programs so they can solve the biggest health problems in their areas Support evidence-based substance abuse treatment to address the opioid crisis in our communities Tim's Record on Government Corruption Tim Burchett is part of the problem he rails against.
 He may have gone to D.C. to drain the sewer, but he's became part of the system he loves to criticize.
 Although he's chairman of the DOGE subcommittee, he hasn't helped make government less corrupt or more efficient.
-Here's his record:
-- Suspiciously sold all of his restaurant stock right before COVID hit.
-He only wants to ban stock trading now that he made money from it
-- Collected over $800,000 from special interest PACs, including over $50,000 from AIPAC
-- While 55,000 East Tennesseans worried about losing SNAP benefits, Tim took a vacation to Maine and spent $900 on a limo and $1,000 for one night at a hotel
-- Unavailable to his constituents, having not held an in-person town hall since 2020
-- Spent $4,471 on a SINGLE MEAL at the Capitol Hill Club in DC to wine and dine the Washington elite
-- Voted against banning partisan gerrymandering
-- Voted against closing the loophole that lets foreign money buy our elections
-- Not a single bill he has sponsored has become law.
-Not one
-- Tim's support of a bill means it is 35% less likely to become a law
-- Tim thinks Congresspeople should serve three terms, but he is running for his fifth.
-Hypocrisy has never been more obvious
-My Plan to Reform Our Government
-I understand why so many people don’t trust that our government is working in our best interests – because in so many cases, it isn’t.
+Here's his record: Suspiciously sold all of his restaurant stock right before COVID hit.
+He only wants to ban stock trading now that he made money from it Collected over $800,000 from special interest PACs, including over $50,000 from AIPAC While 55,000 East Tennesseans worried about losing SNAP benefits, Tim took a vacation to Maine and spent $900 on a limo and $1,000 for one night at a hotel Unavailable to his constituents, having not held an in-person town hall since 2020 Spent $4,471 on a SINGLE MEAL at the Capitol Hill Club in DC to wine and dine the Washington elite Voted against banning partisan gerrymandering Voted against closing the loophole that lets foreign money buy our elections Not a single bill he has sponsored has become law .
+Not one Tim's support of a bill means it is 35% less likely to become a law Tim thinks Congresspeople should serve three terms , but he is running for his fifth.
+Hypocrisy has never been more obvious My Plan to Reform Our Government I understand why so many people don’t trust that our government is working in our best interests – because in so many cases, it isn’t.
 To solve any of the problems we face, we need to fix corruption and stagnation in government.
-Here's what I'll work for in Washington:
-- Limit political spending by massive corporations
-- Ban congressional stock trading
-- A constitutional amendment to overturn Citizens United and restore voting power to the American people
-- End partisan gerrymandering by requiring independent redistricting commissions, ensuring free and fair elections where every vote counts equally
-- Set reasonable age limits for members of Congress, President, and Vice President
-- Establish term limits for members of Congress
-- Institute term limits and a binding Code of Judicial Ethics for the Supreme Court
-- Support a lobbying moratorium or ban for members of Congress after they’ve left office
-Tim's Record on East TN Infrastructure
-Our infrastructure isn't keeping up with growth, and East Tennesseans' quality of life is worsening as a result.
-Here's Tim's record:
-- Voted against $176 million in investments in TN-02 and lowering our energy costs
-- Voted against $22 billion in investments for Tennessee’s energy, industry, and transportation sectors
-- Voted against $6 billion in critical funding for Tennessee roads and bridges
-- Last year, Tim could only secure 0.6% of the money he advocated for to improve our roads
-My Plan to Invest in East TN Infrastructure
-We have billions of dollars in backlog infrastructure projects.
+Here's what I'll work for in Washington: Limit political spending by massive corporations Ban congressional stock trading A constitutional amendment to overturn Citizens United and restore voting power to the American people End partisan gerrymandering by requiring independent redistricting commissions, ensuring free and fair elections where every vote counts equally Set reasonable age limits for members of Congress, President, and Vice President Establish term limits for members of Congress Institute term limits and a binding Code of Judicial Ethics for the Supreme Court Support a lobbying moratorium or ban for members of Congress after they’ve left office Tim's Record on East TN Infrastructure Our infrastructure isn't keeping up with growth, and East Tennesseans' quality of life is worsening as a result.
+Here's Tim's record: Voted against $176 million in investments in TN-02 and lowering our energy costs Voted against $22 billion in investments for Tennessee’s energy, industry, and transportation sectors Voted against $6 billion in critical funding for Tennessee roads and bridges Last year, Tim could only secure 0.6% of the money he advocated for to improve our roads My Plan to Invest in East TN Infrastructure We have billions of dollars in backlog infrastructure projects.
 We send federal dollars to Washington, and I'll advocate to bring those home to invest in our district.
-Here's what I'll work for in Congress:
-- Fund our most critical road and bridge projects by using my engineering background to direct federal dollars to our district
-- Close the broadband gap in rural communities
-- Invest in East Tennessee builders through vocational and technical education
-- Bring funding for the clean water upgrades our counties need
-- Advocate for federal transit grants to connect our communities
-- Upgrade our public schools and the technology our students use so every kid starts with a real shot
+Here's what I'll work for in Congress: Fund our most critical road and bridge projects by using my engineering background to direct federal dollars to our district Close the broadband gap in rural communities Invest in East Tennessee builders through vocational and technical education Bring funding for the clean water upgrades our counties need Advocate for federal transit grants to connect our communities Upgrade our public schools and the technology our students use so every kid starts with a real shot If you're ready for a change in Representation, I'd be honored to earn your support.
+Join Us Resources Email us : cavalry@michaelafortennessee.com Michaela for Tennessee PO Box 9116, Knoxville, TN 37940 Press Kit Powered by RUN! website builder Paid for By Michaela for Tennessee You need to enable JavaScript to run this app.

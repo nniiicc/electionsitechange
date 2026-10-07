@@ -1,29 +1,134 @@
 [
-"https://app.indigov.com/pub/e4d162f3-bfb2-4153-bb26-1fe8476691d5/subscriptions/new?audience=f178d59f-bc53-4406-a104-3c13b645af8e",
-"https://baltimorecountymd.gov/countycouncil",
-"https://baltimorecountymd.gov/departments/aging",
-"https://baltimorecountymd.gov/departments/animal-services",
-"https://baltimorecountymd.gov/departments/executive",
-"https://baltimorecountymd.gov/departments/health",
-"https://baltimorecountymd.gov/departments/social-services",
-"https://bcps.org/board_of_education",
-"https://cherylpasteur.com/",
-"https://cherylpasteur.com/about",
-"https://cherylpasteur.com/events",
-"https://cherylpasteur.com/get-involved",
-"https://cherylpasteur.com/issues",
-"https://cherylpasteur.com/news",
-"https://cherylpasteur.com/resources-and-scholarships",
-"https://cherylpasteur.com/team-3",
-"https://explorenature.org/",
-"https://governor.maryland.gov/Pages/home.aspx",
-"https://marylandattorneygeneral.gov/",
-"https://marylandtaxes.gov/",
-"https://mgaleg.maryland.gov/mgawebsite",
-"https://mgaleg.maryland.gov/mgawebsite/Members/Details/pasteur01",
-"https://msa.maryland.gov/msa/mdmanual/html/mmtoc.html",
-"https://pgccinc.org/",
-"https://pikesvillecc.org/home",
-"https://rogcouncil.wordpress.com/",
-"https://secure.actblue.com/donate/friends-for-cheryl-pasteur-1"
+{
+"text": "410-809-4177",
+"href": "https://www.bcps.org/board_of_education"
+},
+{
+"text": "410-887-2450",
+"href": "https://www.baltimorecountymd.gov/departments/executive/"
+},
+{
+"text": "410-887-3196",
+"href": "https://www.baltimorecountymd.gov/countycouncil/"
+},
+{
+"text": "About",
+"href": "https://www.cherylpasteur.com/about"
+},
+{
+"text": "Animal Services",
+"href": "https://www.baltimorecountymd.gov/departments/animal-services/"
+},
+{
+"text": "Baltimore County Council",
+"href": "https://www.baltimorecountymd.gov/countycouncil/"
+},
+{
+"text": "Baltimore County Executive",
+"href": "https://www.baltimorecountymd.gov/departments/executive/"
+},
+{
+"text": "Board of Education",
+"href": "https://www.bcps.org/board_of_education"
+},
+{
+"text": "Comptroller",
+"href": "https://www.marylandtaxes.gov/"
+},
+{
+"text": "Department of Aging",
+"href": "https://www.baltimorecountymd.gov/departments/aging/"
+},
+{
+"text": "Department of Health",
+"href": "https://www.baltimorecountymd.gov/departments/health/"
+},
+{
+"text": "Department of Social Services",
+"href": "https://www.baltimorecountymd.gov/departments/social-services/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-for-cheryl-pasteur-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cherylpasteur.com/team-3"
+},
+{
+"text": "Events",
+"href": "https://www.cherylpasteur.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.cherylpasteur.com/get-involved"
+},
+{
+"text": "Governor's Office",
+"href": "https://governor.maryland.gov/Pages/home.aspx"
+},
+{
+"text": "Home",
+"href": "https://www.cherylpasteur.com"
+},
+{
+"text": "Irvine Nature Center",
+"href": "https://www.explorenature.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.cherylpasteur.com/issues"
+},
+{
+"text": "Jewish Community Center of Greater Baltimore",
+"href": "https://pgccinc.org/"
+},
+{
+"text": "Mail",
+"href": "mailto:cherylpasteurfor11a@gmail.com"
+},
+{
+"text": "Maryland General Assembly",
+"href": "https://mgaleg.maryland.gov/mgawebsite"
+},
+{
+"text": "Maryland General Assembly",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/pasteur01"
+},
+{
+"text": "Maryland Manual 410-260-6400",
+"href": "https://msa.maryland.gov/msa/mdmanual/html/mmtoc.html"
+},
+{
+"text": "News",
+"href": "https://www.cherylpasteur.com/news"
+},
+{
+"text": "Office of the Attorney General",
+"href": "https://www.marylandattorneygeneral.gov/"
+},
+{
+"text": "Pikesville Communities Corporation",
+"href": "https://www.pikesvillecc.org/home/"
+},
+{
+"text": "Pikesville Greenspring Community Coalition",
+"href": "https://pgccinc.org/"
+},
+{
+"text": "Reisterstown-Owings Mills-Glydon Coordinating Council",
+"href": "https://rogcouncil.wordpress.com/"
+},
+{
+"text": "Resources and Scholarships",
+"href": "https://www.cherylpasteur.com/resources-and-scholarships"
+},
+{
+"text": "Subscribe to My Newsletter",
+"href": "https://app.indigov.com/pub/e4d162f3-bfb2-4153-bb26-1fe8476691d5/subscriptions/new?audience=f178d59f-bc53-4406-a104-3c13b645af8e"
+},
+{
+"text": "cherylpasteurfor11a@gmail.com",
+"href": "mailto:cherylpasteurfor11a@gmail.com"
+}
 ]

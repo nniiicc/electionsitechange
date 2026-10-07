@@ -1,5 +1,4 @@
-David Clayton believes in
-Congressional Wage / Minimum Wage Reciprocity Act
-Any congressional salary increase is matched as a percentage increase to the federal minimum wage amount.
+Skip navigation menu Home About Issues Events Volunteer Contact Donate Home About Issues Events Volunteer Contact Donate Homeless Veterans The Social Security, Medicaid, & Medicare Protections Act The Patient Priority Act No Stock Trades For Elected Officials National Conflict of Interest Bill Incumbent Representative Campaign Reform Congressional Wage / Minimum Wage Reciprocity Act The Policing Wellness Act The Due Process Act Zero Kings Act David Clayton believes in Congressional Wage / Minimum Wage Reciprocity Act Any congressional salary increase is matched as a percentage increase to the federal minimum wage amount.
 Congress regularly complains about their rising costs.
 It's time they understand that rising costs affect every single American--including their constituents.
+Stronger Together & Together Stronger Powered by RUN! website builder Paid for by Clayton4Congress You need to enable JavaScript to run this app.

@@ -1,5 +1,5 @@
-Protecting Liberty
-Every freedom-loving American should be fighting mad right now.
+Skip to main content Skip to header right navigation Skip to site footer The ONLY CD2 candidate endorsed by the Minnesota DFL – Democratic Party Matt Little for Congress District 2 Minnesota Search...
+Search site Submit search Menu Meet Matt Endorsements Key Issues About District 2 Get Involved For Media Yard Sign Donate Fighting for Freedom Protecting Liberty Every freedom-loving American should be fighting mad right now.
 Whose freedom is safe now?
 I’m fighting for a future where Americans are still free.
 Free to pursue the American dream; free to peacefully protest, free to control their bodies, and free from reckless, incompetent, and cruel federal policies.
@@ -16,3 +16,5 @@ Democracy can’t be brushed aside because it’s inconvenient or annoying to so
 Lying to judges, arresting people without due process, and disregarding legitimate court orders are all examples of how democracies throughout history have died.
 Our democracy is what makes America great.
 I’m running to make sure we stay free, and I won’t back down.
+More Key Issues Fighting for Fair Student Loans I’m running to fix our broken student loan system, fighting for fairness, accountability, and real … Fighting for Safe Neighborhoods I’m supporting the brave individuals who keep our neighborhoods safe while ensuring they have the … Fighting for Rural America I’m standing up for family farmers who feed our nation but are too often undercut by policies that … Join Matt’s campaign today.
+Donate Facebook Instagram X TikTok Bluesky Paid for by Matt Little for Congress Copyright © # | Privacy Policy | Contact Us Matt Little for Congress – PO Box 397 – Lakeville, MN 55044

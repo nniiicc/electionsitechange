@@ -1,7 +1,11 @@
 {
  "description": "Find out who endorses Anamarie Avila Farias for State Assembly.",
  "final_url": "https://anamarieforassembly.com/endorsements/",
+ "fingerprint": "1082eb44e47469bbf162b52b05b7cc11acc46fc6",
+ "format": 3,
  "paid_for_by": "Paid for by Avila Farias for State Assembly 2026, FPPC# 1478170",
  "title": "Endorsements - Anamarie Avila Farias for California State Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

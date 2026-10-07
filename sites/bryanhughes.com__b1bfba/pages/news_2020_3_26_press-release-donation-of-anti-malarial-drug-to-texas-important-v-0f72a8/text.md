@@ -1,24 +1,14 @@
-State Senator Bryan Hughes
-Senate District One
-FOR IMMEDIATE RELEASE
-Contact: Matthew Murdoch
-(512) 463-0101
-March 26, 2020
-DONATION OF ANTI-MALARIAL DRUG TO TEXAS
-IMPORTANT VICTORY IN WAR AGAINST COVID-19
-TYLER -- Amneal Pharmaceuticals, one of the largest U.S.-based generics manufacturers, is donating 1,000,000 hydroxychloroquine sulfate tablets to the State of Texas for potential use in treating COVID-19 patients.
+Home About Endorsements Take Action Welcome News Donate Home About Endorsements Take Action Welcome News Donate March 26, 2020 Cody Terry Press Release: Donation of Anti-Malarial Drug to Texas Important Victory in War Against COVID-19 March 26, 2020 Cody Terry State Senator Bryan Hughes Senate District One FOR IMMEDIATE RELEASE Contact: Matthew Murdoch (512) 463-0101 March 26, 2020 DONATION OF ANTI-MALARIAL DRUG TO TEXAS IMPORTANT VICTORY IN WAR AGAINST COVID-19 TYLER -- Amneal Pharmaceuticals, one of the largest U.S.-based generics manufacturers, is donating 1,000,000 hydroxychloroquine sulfate tablets to the State of Texas for potential use in treating COVID-19 patients.
 The Texas State Pharmacy will distribute the tablets directly to hospitals around the state.
 "Amneal Pharmaceuticals' donation is a major step forward in the fight against COVID-19," said Senator Bryan Hughes, Chairman of the Senate State Affairs Committee.
 "In trying times like these, Americans come together and put others ahead of themselves.
-Amneal's donation is a shining example of this generosity, and it reminds us how blessed we are to be Americans."
-Senator Hughes added, "I also want to thank Nim Kidd, Chief of Texas Emergency Management, Phil Wilson, Executive Commissioner of Texas Health and Human Services, and other state officials instrumental in facilitating this donation."
-“This is a crucial time in the global fight against COVID-19,” said Chirag and Chintu Patel, Co-Chief Executive Officers of Amneal.
-“With an existing supply of hydroxychloroquine sulfate and our ability to quickly accelerate production, we are humbled to be able to assist the hardest hit states and hospitals around the country to benefit as many patients as possible.”
-Amneal also is donating 2,000,000 tablets of 200mg hydroxychloroquine sulfate to New York, and will provide more as needed.
+Amneal's donation is a shining example of this generosity, and it reminds us how blessed we are to be Americans." Senator Hughes added, "I also want to thank Nim Kidd, Chief of Texas Emergency Management, Phil Wilson, Executive Commissioner of Texas Health and Human Services, and other state officials instrumental in facilitating this donation." “This is a crucial time in the global fight against COVID-19,” said Chirag and Chintu Patel, Co-Chief Executive Officers of Amneal.
+“With an existing supply of hydroxychloroquine sulfate and our ability to quickly accelerate production, we are humbled to be able to assist the hardest hit states and hospitals around the country to benefit as many patients as possible.” Amneal also is donating 2,000,000 tablets of 200mg hydroxychloroquine sulfate to New York, and will provide more as needed.
 The company is donating and providing products directly to hospitals across the country as well.
 Hydroxychloroquine sulfate was first synthesized in 1946 and is in a class of medications historically used to treat and prevent malaria.
 Today, Amneal’s hydroxychloroquine sulfate tablets are approved by the U.S.
 Food and Drug Administration (FDA) to treat malaria, rheumatoid arthritis, lupus, childhood arthritis, and other autoimmune diseases.
 Hydroxychloroquine is not FDA-approved for the treatment of COVID-19.
-It has been identified as a possible treatment for COVID-19 (see https://www.who.int/blueprint/priority-diseases/key-action/Table_of_therapeutics_Appendix_17022020.pdf?ua=1), however, and the U.S. government has requested its immediate availability.
-###
+It has been identified as a possible treatment for COVID-19 (see https://www.who.int/blueprint/priority-diseases/key-action/Table_of_therapeutics_Appendix_17022020.pdf?ua=1 ), however, and the U.S. government has requested its immediate availability.
+### March 26, 2020 Cody Terry Cody Terry Tele-Town Hall with Senator Hughes and Dr.
+Julie Philley Don't be discouraged Back To Top Donate Political advertisement paid for by the Bryan Hughes Campaign, PO Box 450, Mineola, Texas 75773

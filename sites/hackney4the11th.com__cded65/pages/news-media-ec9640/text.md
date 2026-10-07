@@ -1,12 +1,7 @@
-NEWS & MEDIA
-The Seattle Times, June 12, 2026
-“Hackney brings with him legal experience in corporate, government and nonprofit sectors.
+0 Skip to Content Meet David Priorities Endorsements Get Involved News & Media Contact DONATE Open Menu Close Menu Meet David Priorities Endorsements Get Involved News & Media Contact DONATE Open Menu Close Menu Meet David Priorities Endorsements Get Involved News & Media Contact DONATE NEWS & MEDIA The Times recommends: David Hackney for the 11th Legislative District, Position 1 The Seattle Times, June 12, 2026 “Hackney brings with him legal experience in corporate, government and nonprofit sectors.
 Public safety, anti-fraud and environmental issues have garnered much his attention during his two terms in the Legislature… Hackney has been a steady voice for the 11th District.
-Voters should send him back to Olympia.”
-The Seattle Times, April 27, 2026
-“Across all levels of government, officials are calling for audits to determine whether ever-increasing spending is having the intended impacts and that people cashing taxpayer funds are held accountable.
+Voters should send him back to Olympia.” Read Full Endorsement WA lawmakers should motivate whistleblowers to report fraud The Seattle Times, April 27, 2026 “Across all levels of government, officials are calling for audits to determine whether ever-increasing spending is having the intended impacts and that people cashing taxpayer funds are held accountable.
 There is another tool that ought to be used to fight fraud in government contracting.
 A bill sponsored by Rep.
-David Hackney, D-Renton, would give whistleblowers in state programs the ability to share in recouped government funds.”
-Washington State Standard, May 8, 2026
-“Hackney, an attorney, is vice chair of the Consumer Protection and Business Committee and sits on the Environment and Energy, Transportation, and Legislative Ethics Committees.”
+David Hackney , D-Renton, would give whistleblowers in state programs the ability to share in recouped government funds. ” Read Full Article Legislative races to watch as Washington’s election season revs up Washington State Standard, May 8, 2026 “Hackney, an attorney, is vice chair of the Consumer Protection and Business Committee and sits on the Environment and Energy, Transportation, and Legislative Ethics Committees.” Read Full Article info@hackney4the11th.com 206.717.4439 Paid for by: Hackney for the 11th (D) PO Box 12066 Seattle WA 98102 **Pictures do not imply an endorsement** Show your support for our campaign by contributing today!
+CONTRIBUTE Follow Us

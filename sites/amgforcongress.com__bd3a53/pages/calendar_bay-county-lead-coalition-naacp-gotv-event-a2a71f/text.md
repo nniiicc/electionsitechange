@@ -1,11 +1,4 @@
-Back to All Events
-NOTE: This event starts at 4PM Central/5PM Eastern
-Amanda will participate in Here Am I: Songs for the Work Ahead, a nonpartisan Get Out the Vote community event hosted by the LEAD Coalition of Bay County and the Bay County Branch NAACP Civic Engagement Committee.
+0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Back to All Events Bay County LEAD Coalition & NAACP Get Out The Vote Event Sunday, October 18, 2026 4:00 PM 5:30 PM Greater Bethel AME Church 829 Hamilton Avenue Panama City, Florida, 32401 United States (map) Google Calendar ICS NOTE: This event starts at 4PM Central/5PM Eastern Amanda will participate in Here Am I: Songs for the Work Ahead , a nonpartisan Get Out the Vote community event hosted by the LEAD Coalition of Bay County and the Bay County Branch NAACP Civic Engagement Committee.
 The event will bring together candidates, community organizations, and voters to encourage civic participation and help voters learn more about the candidates ahead of the November election.
-Previous
-Previous
-October 17
-TEAM AMG/VOLUNTEERS: 4-H Bark-Tastic Halloween Costume Contest
-Next
-Next
-October 19
+Previous Previous October 17 TEAM AMG/VOLUNTEERS: 4-H Bark-Tastic Halloween Costume Contest Next Next October 19 EARLY VOTING STARTS TO SEND A CHECK: P.O.
+Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

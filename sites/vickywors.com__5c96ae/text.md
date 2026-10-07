@@ -1,4 +1,3 @@
-Why I’m Running
-Missouri families deserve a senator who listens, tells the truth, and puts people ahead of political insiders.
+0 Skip to Content Vicky Wors for Missouri State Senate District 26 Important Dates On the Issues Missouri Amendment 6 Missouri Amendment 7 Missouri Amendment 8 About Contact Open Menu Close Menu Vicky Wors for Missouri State Senate District 26 Important Dates On the Issues Missouri Amendment 6 Missouri Amendment 7 Missouri Amendment 8 About Contact Open Menu Close Menu Important Dates Folder: On the Issues Back Missouri Amendment 6 Missouri Amendment 7 Missouri Amendment 8 About Contact Why I’m Running Missouri families deserve a senator who listens, tells the truth, and puts people ahead of political insiders.
 I’m running to strengthen public schools, protect taxpayers, support working families, and ensure the people of Senate District 26 have a real voice in Jefferson City.
-Please Note: ActBlue retains 3% of each donation.
+Please Note: ActBlue retains #% of each donation. donate to vicky Paid for by Wors for Missouri, Clare Goldt, Treasurer.

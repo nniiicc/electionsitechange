@@ -1,12 +1,8 @@
-Stop Tearing Families Apart
-Updated: Mar 22
-A Clear Plan for Immigrant Families
-I’ve been to the U.S.-Mexico border several times.
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE Stop Tearing Families Apart Jun 2, 2025 2 min read Updated: Mar 22 A Clear Plan for Immigrant Families I’ve been to the U.S.-Mexico border several times.
 I’ve stood next to the wall.
 I’ve walked through migrant shelters.
 I’ve looked into the eyes of people who traveled hundreds, sometimes thousands, of miles just to find safety for their families.
-And here’s the truth:
-What politicians say to score points is not what’s actually happening.
+And here’s the truth: What politicians say to score points is not what’s actually happening.
 They talk about chaos and danger.
 What I’ve seen are families.
 Mothers holding their children.
@@ -33,8 +29,7 @@ It just keeps families in fear.
 That’s why I support amnesty for those who are already here.
 Not as a political talking point, but as a recognition of reality and a commitment to stability.
 Because no family should have to live like that.
-This isn’t about being “soft.”
-It’s about being honest about what works and what doesn’t.
+This isn’t about being “soft.” It’s about being honest about what works and what doesn’t.
 We can have a system that is both orderly and humane.
 One that processes asylum claims efficiently.
 One that treats people with dignity.
@@ -56,4 +51,4 @@ That’s the kind of system we should be working toward.
 We don’t have to choose between security and humanity.
 We just have to decide what kind of country we want to be.
 Because right now, we are tearing families apart.
-And we don’t have to.
+And we don’t have to. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

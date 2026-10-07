@@ -1,13 +1,74 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/share/1BbKe9RmpL?mibextid=wwXIfr",
-"https://instagram.com/natefornebraska",
-"https://natefornebraska.com/",
-"https://natefornebraska.com/about",
-"https://natefornebraska.com/contact",
-"https://natefornebraska.com/priorities",
-"https://natefornebraska.com/volunteer",
-"https://natefornebraska.com/yardsign",
-"https://secure.actblue.com/donate/natefornebraska",
-"https://tiktok.com/@natefornebraska"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/natefornebraska"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/natefornebraska"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/natefornebraska"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/natefornebraska"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/natefornebraska"
+},
+{
+"text": "Contact",
+"href": "https://www.natefornebraska.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/natefornebraska"
+},
+{
+"text": "Meet Nate",
+"href": "https://www.natefornebraska.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/natefornebraska"
+},
+{
+"text": "Priorities",
+"href": "https://www.natefornebraska.com/priorities"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.natefornebraska.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.natefornebraska.com/yardsign"
+},
+{
+"text": "[image: Nate Ostdiek for Nebraska Legislature]",
+"href": "https://www.natefornebraska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/share/1BbKe9RmpL/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/natefornebraska"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@natefornebraska"
+},
+{
+"text": "nate@natefornebraska.com",
+"href": "mailto:nate@natefornebraska.com"
+}
 ]

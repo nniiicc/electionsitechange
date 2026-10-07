@@ -1,11 +1,4 @@
-Back to All Events
-Join Hallie Shoffner and Mitchell Smith for coffee, pastries, and conversation about building momentum across Northwest Arkansas.
+Skip to Content Open Menu Close Menu Home About Issues Events Donate Store Get Involved 0 0 Home About Issues Events Donate Store Get Involved 0 0 Open Menu Close Menu Home About Issues Events Donate Store Get Involved Back to All Events Cleared for Takeoff: Building a Stronger Arkansas Thursday, July 9, 2026 9:00 AM 10:30 AM Thaden Field House 2205 Southwest I Street Bentonville, Arkansas, 72712 United States (map) Google Calendar ICS Join Hallie Shoffner and Mitchell Smith for coffee, pastries, and conversation about building momentum across Northwest Arkansas.
 Meet neighbors, connect with fellow supporters, and be part of what's next.
 RSVP and let us know you’re coming!
-Previous
-Previous
-July 3
-America’s 250th at Bentonville first friday
-Next
-Next
-July 10
+Previous Previous July 3 America’s 250th at Bentonville first friday Next Next July 10 Friday Community Hours - Ozark Beer Company Paid for By Mitchell Smith For AR 13

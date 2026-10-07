@@ -1,15 +1,66 @@
 [
-"https://bsky.app/profile/electwarren.bsky.social",
-"https://electwarren.com/contact.html",
-"https://electwarren.com/index.html",
-"https://electwarren.com/issues.html",
-"https://electwarren.com/meet.html",
-"https://electwarren.com/news.html",
-"https://electwarren.com/spotlight.html",
-"https://electwarren.com/volunteer.html",
-"https://facebook.com/profile.php?id=61587752437149",
-"https://instagram.com/electandy",
-"https://secure.actblue.com/donate/andy-warren-1",
-"https://vote.gov/",
-"https://youtube.com/channel/UCILRsINScsw1mamU-E6y7fQ"
+{
+"text": "Back to Issues",
+"href": "https://electwarren.com/issues.html"
+},
+{
+"text": "BlueSky",
+"href": "https://bsky.app/profile/electwarren.bsky.social"
+},
+{
+"text": "Contact",
+"href": "https://electwarren.com/contact.html"
+},
+{
+"text": "Donate NOW",
+"href": "https://secure.actblue.com/donate/andy-warren-1/"
+},
+{
+"text": "FaceBook",
+"href": "https://www.facebook.com/profile.php?id=61587752437149"
+},
+{
+"text": "Home",
+"href": "https://electwarren.com/index.html"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/electandy/"
+},
+{
+"text": "Issues",
+"href": "https://electwarren.com/issues.html"
+},
+{
+"text": "Join the Team",
+"href": "https://electwarren.com/volunteer.html"
+},
+{
+"text": "Meet",
+"href": "https://electwarren.com/meet.html"
+},
+{
+"text": "Meet Andy",
+"href": "https://electwarren.com/meet.html"
+},
+{
+"text": "News Feed",
+"href": "https://electwarren.com/news.html"
+},
+{
+"text": "Register to Vote",
+"href": "https://vote.gov/"
+},
+{
+"text": "Spotlight on Community Leaders",
+"href": "https://electwarren.com/spotlight.html"
+},
+{
+"text": "Volunteer",
+"href": "https://electwarren.com/volunteer.html"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UCILRsINScsw1mamU-E6y7fQ"
+}
 ]

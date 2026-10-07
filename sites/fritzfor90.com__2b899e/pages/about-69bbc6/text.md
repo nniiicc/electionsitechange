@@ -1,5 +1,7 @@
-ABOUT DAVID
-I am a lifelong resident of Wallingford and a son to the late State Representative Mary G Fritz and Bill Fritz.
+0 Skip to Content Home About Issues Voting How Can You Help?
+CONTACT Open Menu Close Menu Home About Issues Voting How Can You Help?
+CONTACT Open Menu Close Menu Home About Issues Voting How Can You Help?
+CONTACT ABOUT DAVID I am a lifelong resident of Wallingford and a son to the late State Representative Mary G Fritz and Bill Fritz.
 From a very young age, my parents instilled in me a strong sense of responsibility to others and taught me the importance of public serve- giving back to your community, being truthful in your words and actions and honoring your commitments.
 Growing up in a large family of six, I learned the invaluable lessons of compromise and importance of working through differences while still being supportive, loyal and unified.
 As a father of three 19-year-old triplets-David, Olivia and Michael and husband to my extraordinary wife, Ariana, I gained a deeper understanding of responsibility.
@@ -19,3 +21,16 @@ Activley listening to constituents, addressing their concerns, and fighting to b
 For too long, we have seen neighboring communities benefit from strong, engaged representation and leaders who actively fight for their towns and deliver results.
 I firmly believe that Wallingford and Middlefield deserve nothing less.
 Our district deserves a representative who is present, responsive, and relentless in advocating for its people.
+I MAKE THIS COMMITMENT TO YOU.
+I WILL ALWAYS BE: Accessible & Responsive I'll return calls, address concerns, and show up for every constituent, regardless of party or politics.
+Collaborative, Not Partisan Progress comes from working together.
+I'll cross party lines and focus on what works, not what divides.
+Fiscally Responsible Every tax dollar comes from hardworking people.
+I'll treat public funds with the same care I give my own.
+Loyal to You My commitment is to Wallingford and Middlefield.
+Not party.
+Not politics.
+You come first.
+Paid for by Fritz for the 90th, Kristi J.
+Doerr, Treasurer.
+Approved by David Fritz.

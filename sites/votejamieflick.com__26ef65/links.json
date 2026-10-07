@@ -1,11 +1,50 @@
 [
-"https://facebook.com/JamieFlick83rd",
-"https://facebook.com/squarespace",
-"https://votejamieflick.com/",
-"https://votejamieflick.com/about",
-"https://votejamieflick.com/cart",
-"https://votejamieflick.com/contact",
-"https://votejamieflick.com/team",
-"https://votejamieflick.com/vote-jamie-flick",
-"https://votejamieflick.com/work"
+{
+"text": "0",
+"href": "https://www.votejamieflick.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.votejamieflick.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votejamieflick.com/contact"
+},
+{
+"text": "Fa",
+"href": "https://www.facebook.com/squarespace"
+},
+{
+"text": "Home",
+"href": "https://www.votejamieflick.com/"
+},
+{
+"text": "Learn more",
+"href": "https://www.votejamieflick.com/about"
+},
+{
+"text": "Team",
+"href": "https://www.votejamieflick.com/team"
+},
+{
+"text": "Vote Jamie Flick",
+"href": "https://www.votejamieflick.com/"
+},
+{
+"text": "Vote Jamie Flick",
+"href": "https://www.votejamieflick.com/vote-jamie-flick"
+},
+{
+"text": "Work",
+"href": "https://www.votejamieflick.com/work"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JamieFlick83rd/"
+},
+{
+"text": "cebook",
+"href": "https://www.facebook.com/JamieFlick83rd/"
+}
 ]

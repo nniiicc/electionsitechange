@@ -1,7 +1,11 @@
 {
- "description": "Join Dr. Mike Katz's campaign for U.S. Senate in Delaware. Sign up for campaign updates by email and text \u2014 and help defeat Chris Coons on November 3, 2026.",
+ "description": "Join Dr. Mike Katz's campaign for U.S. Senate in Delaware. Sign up for campaign updates by email and text — and help defeat Chris Coons on November 3, 2026.",
  "final_url": "https://drmikekatz.com/join",
+ "fingerprint": "a0c35813701c416c71045b2fa7ea4377a0bd9174",
+ "format": 3,
  "paid_for_by": "Paid for by Dr",
  "title": "Join Dr. Mike Katz's Campaign for U.S. Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

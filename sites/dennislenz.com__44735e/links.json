@@ -1,8 +1,30 @@
 [
-"https://dennislenz.com/about-dennis",
-"https://dennislenz.com/contact-dennis",
-"https://dennislenz.com/serving-you",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/dennis-lenz-for-montana-senate/donate-today"
+{
+"text": "About Dennis",
+"href": "https://dennislenz.com/about-dennis"
+},
+{
+"text": "Contact Dennis",
+"href": "https://dennislenz.com/contact-dennis"
+},
+{
+"text": "Dennis Lenz for Montana SenateDennis Lenz for Montana SenateDennis Lenz for Montana SenateDennis Lenz for Montana Senate",
+"href": "https://dennislenz.com/serving-you"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/dennis-lenz-for-montana-senate/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Serving You",
+"href": "https://dennislenz.com/serving-you"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+}
 ]

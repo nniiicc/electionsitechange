@@ -1,39 +1,45 @@
-CANCELLED -- Congressman Scott's 45th Annual Labor Day Cookout!
-August 17, 2021 — Congressman Bobby Scott announced today that he is cancelling this year’s annual Labor Day Cookout as a result of surging coronavirus infections due to the delta variant.
+About Bobby The Scott Record Working For Us News Vote Events Photos Volunteer Contact Us DONATE About Bobby The Scott Record Working For Us News Vote Events Photos Volunteer Contact Us DONATE EVENTS Sep 1 3:00 PM 15:00 Congressman Bobby Scott's Annual Labor Day Cookout Monday, September 1, 2025 3:00 PM 6:00 PM 15:00 18:00 914 Shore Drive Newport News, VA (map) Google Calendar ICS View Event → Sep 2 3:00 PM 15:00 Congressman Bobby Scott's Annual Labor Day Cookout Monday, September 2, 2024 3:00 PM 6:00 PM 15:00 18:00 914 Shore Drive Newport News, VA (map) Google Calendar ICS CLICK HERE TO RSVP TODAY, BEFORE WE RUN OUT OF SLOTS!
+View Event → Sep 4 3:00 PM 15:00 Congressman Bobby Scott's Annual Labor Day Cookout Monday, September 4, 2023 3:00 PM 6:00 PM 15:00 18:00 914 Shore Drive Newport News (map) Google Calendar ICS View Event → Apr 30 7:00 PM 19:00 75th Birthday Gala in Honor of Congressman Bobby Scott Saturday, April 30, 2022 7:00 PM 10:00 PM 19:00 22:00 Virginia Air & Space Center (map) Google Calendar ICS CLICK HERE TO DONATE ONLINE View Event → Sep 6 3:00 PM 15:00 CANCELLED -- Congressman Scott's 45th Annual Labor Day Cookout!
+Monday, September 6, 2021 3:00 PM 6:00 PM 15:00 18:00 Google Calendar ICS August 17, 2021 — Congressman Bobby Scott announced today that he is cancelling this year’s annual Labor Day Cookout as a result of surging coronavirus infections due to the delta variant.
 “My team and I hoped that we would be able to host this year’s Labor Day cookout again in person after last year’s virtual event,” stated Rep.
 Scott.
 “Our annual cookout has become an important place for candidates running for office locally and statewide to meet and talk with voters and other elected officials.
-Unfortunately, based on the advice of medical experts who pointed to higher infection rates and stagnant vaccinations, we’ve decided to cancel this year’s cookout."
-Congressman Scott has held his annual Labor Day cookout each year since his 1977 campaign for the Virginia House of Delegates.
+Unfortunately, based on the advice of medical experts who pointed to higher infection rates and stagnant vaccinations, we’ve decided to cancel this year’s cookout." Congressman Scott has held his annual Labor Day cookout each year since his 1977 campaign for the Virginia House of Delegates.
 The first cookout was a way to thank volunteers and the community for their support for his campaign.
 While its purpose has remained the same, the cookout has become the premier political event in Hampton Roads, serving as the unofficial kickoff for the general election campaign each year.
 In 2020, due to the COVID-19 pandemic, Congressman Scott held his cookout virtually and featured appearances from President Biden, Governor Northam, Senators Warner and Kaine, and other elected officials.
 Congressman Scott continued: “I encourage those who have not yet been vaccinated to get the vaccine as soon as possible.
 We can limit the spread of COVID-19 and defeat this pandemic if we increase the rate of vaccinations and follow the latest CDC guidance.
 COVID-19 vaccines are safe and provide significant protection against serious infection, hospitalization, and death.
-I was vaccinated earlier this year, and I hope all who are eligible do the same.”
-“I am hopeful that our nation can come together and follow the advice of public health officials to get through this pandemic so we can celebrate Labor Day in person in 2022,” concluded Rep.
+I was vaccinated earlier this year, and I hope all who are eligible do the same.” “I am hopeful that our nation can come together and follow the advice of public health officials to get through this pandemic so we can celebrate Labor Day in person in 2022,” concluded Rep.
 Scott.
-Virginians interested in getting vaccinated or learning more about COVID-19 vaccines can visit: vaccinate.virginia.gov.
-Sunday Afternoon with Rep.
+Virginians interested in getting vaccinated or learning more about COVID-19 vaccines can visit: vaccinate.virginia.gov .
+View Event → Dec 13 6:00 PM 18:00 Sunday Afternoon with Rep.
 Bobby Scott Featuring Special Guest Dr.
-Rachel Bitecofer
-Join Congressman Bobby Scott for a Sunday afternoon conversation with Dr.
-Rachel Bitecofer, a nationally recognized election forecaster, host of The Election Whisperer, and founder and editor of The Cycle.
-This event will be streamed live on Congressman Scott’s campaign Facebook page at: www.facebook.com/bobbyscottforcongress/live.
-Early Vote Drive-In Rally
-Join Sen.
+Rachel Bitecofer Sunday, December 13, 2020 6:00 PM 7:00 PM 18:00 19:00 Google Calendar ICS Join Congressman Bobby Scott for a Sunday afternoon conversation with Dr.
+Rachel Bitecofer, a nationally recognized election forecaster, host of The Election Whisperer , and founder and editor of The Cycle.
+This event will be streamed live on Congressman Scott’s campaign Facebook page at: www.facebook.com/bobbyscottforcongress/live .
+View Event → Nov 15 6:00 PM 18:00 Sunday Afternoon with Rep.
+Bobby Scott Featuring Special Guest Paul Begala Sunday, November 15, 2020 6:00 PM 7:00 PM 18:00 19:00 Google Calendar ICS View Event → Oct 25 2:00 PM 14:00 Drive-In GOTV Rally w/ Lt.
+Gov.
+Fairfax, Rep.
+McEachin & Rep.
+Scott Sunday, October 25, 2020 2:00 PM 4:00 PM 14:00 16:00 Google Calendar ICS View Event → Oct 24 1:00 PM 13:00 Early Vote Drive-In Rally Saturday, October 24, 2020 1:00 PM 2:00 PM 13:00 14:00 Google Calendar ICS Join Sen.
 Mark Warner, Rep.
 Bobby Scott, and Musical Guest Karen Clark Sheard!
-Sunday Afternoon with Rep.
-Bobby Scott with Special Guest Senator Mark Warner
-Join Congressman Bobby Scott for a Sunday afternoon discussion with Virginia’s senior Senator Mark Warner!
+View Event → Oct 18 6:00 PM 18:00 Sunday Afternoon with Rep.
+Bobby Scott with Special Guest Senator Mark Warner Sunday, October 18, 2020 6:00 PM 7:00 PM 18:00 19:00 Google Calendar ICS Join Congressman Bobby Scott for a Sunday afternoon discussion with Virginia’s senior Senator Mark Warner!
 This Sunday, October 18th at 6:00 P.M.
-Watch LIVE at www.facebook.com/bobbyscottforcongress/live.
-Sunday Afternoon with Rep.
+Watch LIVE at www.facebook.com/bobbyscottforcongress/live .
+View Event → Oct 4 6:00 PM 18:00 Sunday Afternoon with Rep.
+Bobby Scott with Special Guest Rev.
+Dr.
+Howard-John Wesley Sunday, October 4, 2020 6:00 PM 7:00 PM 18:00 19:00 Google Calendar ICS View Event → Sep 13 6:00 PM 18:00 Sunday Afternoon with Rep.
 Bobby Scott Featuring Rep.
-Maxine Waters
-Join Rep.
+Maxine Waters Sunday, September 13, 2020 6:00 PM 7:00 PM 18:00 19:00 Google Calendar ICS Join Rep.
 Bobby Scott for a Sunday Afternoon conversation featuring special guest Rep.
 Maxine Waters (D-CA), the Chairwoman of the House Financial Services Committee.
-Watch LIVE on Facebook at www.facebook.com/bobbyscottforcongress/live.
+Watch LIVE on Facebook at www.facebook.com/bobbyscottforcongress/live .
+View Event → Sep 7 3:00 PM 15:00 44th Annual "Virtual" Labor Day Cookout Monday, September 7, 2020 3:00 PM 4:30 PM 15:00 16:30 Google Calendar ICS View Event → Paid for by Bobby Scott for Congress P.O.
+Box 251 | Newport News, Virginia 23607 | (757) 245-2000 DONATE Virginia Dems Where Do I Vote?
+VAYD

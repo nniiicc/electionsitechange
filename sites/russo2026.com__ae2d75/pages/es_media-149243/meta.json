@@ -1,7 +1,11 @@
 {
- "description": "Send a media inquiry to the Russo\u2013Rodriguez 2026 campaign.",
+ "description": "Send a media inquiry to the Russo–Rodriguez 2026 campaign.",
  "final_url": "https://russo2026.com/es/media",
- "paid_for_by": null,
- "title": "Media Inquiries | Russo\u2013Rodriguez 2026",
- "years_mentioned": []
+ "fingerprint": "4724e54803d334260561f509b4e6c35b74038cc4",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Media Inquiries | Russo–Rodriguez 2026",
+ "years_mentioned": [
+  "2026"
+ ]
 }

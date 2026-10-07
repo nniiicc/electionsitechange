@@ -1,28 +1,21 @@
-JOIN US AT AN EVENT!
-Find out where you can meet Meredith Sumenek around town
-Town Hall with Meredith Sumenek
-Your Voice.
+0 Skip to Content Meet Meredith About Meredith Endorsements Issues Platform Volunteer Events Merch Press DONATE Open Menu Close Menu Open Menu Close Menu Meet Meredith About Meredith Endorsements Issues Platform Volunteer Events Merch Press DONATE Folder: Meet Meredith Back About Meredith Endorsements Folder: Issues Back Platform Volunteer Events Merch Press DONATE JOIN US AT AN EVENT!
+Find out where you can meet Meredith Sumenek around town Oct 3 Town Hall with Meredith Sumenek Saturday, October 3, 2026 3:00 PM 4:30 PM St.
+Louis County Library - Grant's View Branch (map) Google Calendar ICS Your Voice.
 Your Questions.
 Your Community.
 Join Meredith Sumenek for a Town Hall with neighbors from Mehlville and Oakville.
 This is your opportunity to ask questions, share concerns, and have an honest conversation about the issues affecting District 95 and Missouri.
-Saturday, October 3rd
-3:00pm - 4:30pm
-Grant's View Library
-Everyone is welcome.
+Saturday, October 3rd 3:00pm - 4:30pm Grant's View Library Everyone is welcome.
 Bring your questions, bring a friend, and join the conversation.
-RSVP on Eventbrite
-RSVP on Facebook
-Town Hall with Meredith Sumenek
-Your Voice.
+RSVP on Eventbrite RSVP on Facebook View Event → Sep 19 Town Hall with Meredith Sumenek Saturday, September 19, 2026 1:00 PM 2:00 PM St.
+Louis County Library - Cliff Cave Branch (map) Google Calendar ICS Your Voice.
 Your Questions.
 Your Community.
 Join Meredith Sumenek for a Town Hall with neighbors from Mehlville and Oakville.
 This is your opportunity to ask questions, share concerns, and have an honest conversation about the issues affecting District 95 and Missouri.
-Saturday, September 19
-1:00–2:00 PM
-Cliff Cave Library
-Everyone is welcome!
+Saturday, September 19 1:00–2:00 PM Cliff Cave Library Everyone is welcome!
 Bring your questions, bring a friend, and join the conversation.
-RSVP on Eventbrite
-RSVP on Facebook
+RSVP on Eventbrite RSVP on Facebook View Event → EXPLORE MEET MEREDITH PLATFORM THE DISTRICT SUPPORT EVENTS VOLUNTEER DONATE FOLLOW PRIVACY POLICY MEREDITH SUMENEK FOR MISSOURI Paid for by Meredith Sumenek Campaign Fund, Laura Metz, Treasurer Call Meredith: 314.649.8049 Email: info@sumenekformo.com Mail: 4648 Villa Knoll Drive, Saint Louis MO 63128 DONATE When you donate through ActBlue, ActBlue will retain 3.95% of the contribution for processing fees.
+Meredith Sumenek Campaign Fund will retain the remaining 96.05%.
+Prefer to send a check?
+Please send to Meredith Sumenek Campaign Fund, 4648 Villa Knoll Dr, Saint Louis MO 63128

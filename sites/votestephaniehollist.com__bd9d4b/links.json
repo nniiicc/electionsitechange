@@ -1,18 +1,126 @@
 [
-"https://app.proximityimpact.com/payment-donation/link/2ec74486-4065-4b31-9afc-e4c829cd6364?name=Stephanie-Hollist",
-"https://app.proximityimpact.com/web-volunteer-form/2ec74486-4065-4b31-9afc-e4c829cd6364?name=Stephanie-Hollist&formId=18",
-"https://daviscountyutah.gov/clerk/election/how-where-to-vote/information",
-"https://facebook.com/911406995393323",
-"https://facebook.com/911406995393323_911406995393323_122139151827189023",
-"https://facebook.com/profile.php?id=61585670707307",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2F911406995393323_911406995393323_122139151827189023",
-"https://instagram.com/stephanieforutah/%20",
-"https://irp.cdn-website.com/016dd32e/files/uploaded/early+voting+_ballot+boxes+.pdf",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.facebook.com%2F911406995393323_911406995393323_122139151827189023",
-"https://proximityimpact.com/",
-"https://secure.utah.gov/voterreg/login.html?selection=REGISTER",
-"https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2F911406995393323_911406995393323_122139151827189023+1",
-"https://utahnewsdispatch.com/2026/06/15/republican-primary-for-vulnerable-utah-senate-presidents-seat",
-"https://votestephaniehollist.com/",
-"https://x.com/StephanieForUT"
+{
+"text": "$1,000",
+"href": "https://app.proximityimpact.com/payment-donation/link/2ec74486-4065-4b31-9afc-e4c829cd6364?name=Stephanie-Hollist"
+},
+{
+"text": "$10",
+"href": "https://app.proximityimpact.com/payment-donation/link/2ec74486-4065-4b31-9afc-e4c829cd6364?name=Stephanie-Hollist"
+},
+{
+"text": "$100",
+"href": "https://app.proximityimpact.com/payment-donation/link/2ec74486-4065-4b31-9afc-e4c829cd6364?name=Stephanie-Hollist"
+},
+{
+"text": "$200",
+"href": "https://app.proximityimpact.com/payment-donation/link/2ec74486-4065-4b31-9afc-e4c829cd6364?name=Stephanie-Hollist"
+},
+{
+"text": "$35",
+"href": "https://app.proximityimpact.com/payment-donation/link/2ec74486-4065-4b31-9afc-e4c829cd6364?name=Stephanie-Hollist"
+},
+{
+"text": "$50",
+"href": "https://app.proximityimpact.com/payment-donation/link/2ec74486-4065-4b31-9afc-e4c829cd6364?name=Stephanie-Hollist"
+},
+{
+"text": "$500",
+"href": "https://app.proximityimpact.com/payment-donation/link/2ec74486-4065-4b31-9afc-e4c829cd6364?name=Stephanie-Hollist"
+},
+{
+"text": "2",
+"href": "https://www.facebook.com/911406995393323_911406995393323_122139151827189023"
+},
+{
+"text": "Contribute",
+"href": "https://app.proximityimpact.com/payment-donation/link/2ec74486-4065-4b31-9afc-e4c829cd6364?name=Stephanie-Hollist"
+},
+{
+"text": "Davis County",
+"href": "https://www.daviscountyutah.gov/clerk/election/how-where-to-vote/information"
+},
+{
+"text": "Donate",
+"href": "https://app.proximityimpact.com/payment-donation/link/2ec74486-4065-4b31-9afc-e4c829cd6364?name=Stephanie-Hollist"
+},
+{
+"text": "Morgan County",
+"href": "https://irp.cdn-website.com/016dd32e/files/uploaded/early+voting+_ballot+boxes+.pdf"
+},
+{
+"text": "Other",
+"href": "https://app.proximityimpact.com/payment-donation/link/2ec74486-4065-4b31-9afc-e4c829cd6364?name=Stephanie-Hollist"
+},
+{
+"text": "Read More",
+"href": "https://utahnewsdispatch.com/2026/06/15/republican-primary-for-vulnerable-utah-senate-presidents-seat/"
+},
+{
+"text": "Register to Vote",
+"href": "https://secure.utah.gov/voterreg/login.html?selection=REGISTER"
+},
+{
+"text": "Stephanie Hollist",
+"href": "https://votestephaniehollist.com"
+},
+{
+"text": "Stephanie Hollist for Utah",
+"href": "https://www.facebook.com/911406995393323"
+},
+{
+"text": "View on Facebook",
+"href": "https://www.facebook.com/911406995393323_911406995393323_122139151827189023"
+},
+{
+"text": "Volunteer",
+"href": "https://app.proximityimpact.com/web-volunteer-form/2ec74486-4065-4b31-9afc-e4c829cd6364?name=Stephanie-Hollist&formId=18"
+},
+{
+"text": "[image: Stephanie Hollist for Utah]",
+"href": "https://www.facebook.com/911406995393323"
+},
+{
+"text": "[image]",
+"href": "https://proximityimpact.com/"
+},
+{
+"text": "[image]",
+"href": "https://votestephaniehollist.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585670707307"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/stephanieforutah/%20"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/StephanieForUT"
+},
+{
+"text": "[tooltip: Share this post in your email]",
+"href": "mailto:?subject=Shared+Link&body=https%3A%2F%2Fwww.facebook.com%2F911406995393323_911406995393323_122139151827189023+-+1"
+},
+{
+"text": "[tooltip: Share this post on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2F911406995393323_911406995393323_122139151827189023"
+},
+{
+"text": "[tooltip: Share this post on Linkedin]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.facebook.com%2F911406995393323_911406995393323_122139151827189023"
+},
+{
+"text": "[tooltip: Share this post on Twitter]",
+"href": "https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2F911406995393323_911406995393323_122139151827189023+1"
+},
+{
+"text": "[tooltip: Social Share Options]",
+"href": "javascript:;"
+},
+{
+"text": "voteforstephaniehollist@gmail.com",
+"href": "mailto:votestephaniehollist@gmail.com"
+}
 ]

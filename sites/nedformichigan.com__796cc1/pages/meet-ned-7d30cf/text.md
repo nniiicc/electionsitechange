@@ -1,11 +1,9 @@
-Meet Ned
-Just your run of the mill everydayer
-I am a self-described proud American and Michigander.
+Skip to content Meet Ned Core Beliefs Get Involved Blog & News Events Meet Ned Core Beliefs Get Involved Blog & News Events Donate Meet Ned Just your run of the mill everydayer I am a self-described proud American and Michigander.
 First generation jack of all trades master of none.
 I am a father, Detroit sports lover, and fishing enthusiast.
 I think we all deserve to roam with what we need.
 Everybody is on their path and this is mine.
-Hi, I am Ned.
+Donate Now Volunteer Hi, I am Ned.
 I am not a career politician, wealthy insider, or someone who has spent life insulated from the struggles families face.
 I have lived the same realities that most people in this district have lived.
 I came of age as an adult in the years after 2004 and have experienced firsthand what working people have been up against for more than two decades.
@@ -27,6 +25,9 @@ It should work for the families getting up early, punching the clock, raising ki
 Those are the people I would answer to every day in Lansing.
 Want to learn more about me?
 Have a question?
-My inbox is always open.
-PAID FOR BY NED ZIMMER FOR HOUSE REPRESENTATIVE P.O.
+My inbox is always open. ned@nedformichigan.com PAID FOR BY NED ZIMMER FOR HOUSE REPRESENTATIVE P.O.
+Box 182 Oxford, MI 48371 This Campaign is proudly endorsed by: For Our Future.
+For Our Families .
+For Michigan .
+Facebook Instagram Paid for by Ned Zimmer for House Representative P.O.
 Box 182 Oxford, MI 48371

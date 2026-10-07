@@ -1,7 +1,11 @@
 {
  "description": "CLICKE HERE FOR NEWS LINK",
  "final_url": "https://www.zakirforthebronx.com/good-news-for-those-who-receive-the-child-tax-credit/",
- "paid_for_by": null,
+ "fingerprint": "d55c23a02e24a0f62ba1613d55e5454a11bfbe10",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Good news for those who receive the Child Tax Credit | Zakir Choudhury",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025"
+ ]
 }

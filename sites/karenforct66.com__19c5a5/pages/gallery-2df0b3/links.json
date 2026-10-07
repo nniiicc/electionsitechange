@@ -1,65 +1,254 @@
 [
-"https://facebook.com/karenforCt66th",
-"https://instagram.com/karen_for_ct_66th",
-"https://karenforct66.com/",
-"https://karenforct66.com/about",
-"https://karenforct66.com/calendar",
-"https://karenforct66.com/gallery",
-"https://karenforct66.com/get-involved",
-"https://karenforct66.com/news-updates",
-"https://karenforct66.com/our-district",
-"https://karenforct66.com/towns/bethlehem",
-"https://karenforct66.com/towns/litchfield",
-"https://karenforct66.com/towns/morris",
-"https://karenforct66.com/towns/warren",
-"https://karenforct66.com/towns/woodbury",
-"https://karenforct66.com/where-i-stand",
-"https://karenforct66.com/wp-content/uploads/20260215_172626-scaled.jpg",
-"https://karenforct66.com/wp-content/uploads/20260515_223856-scaled-e1780492278820.jpg",
-"https://karenforct66.com/wp-content/uploads/20260521_193743-scaled.jpg",
-"https://karenforct66.com/wp-content/uploads/IMG_7853.jpg",
-"https://karenforct66.com/wp-content/uploads/Karen_LaBonnes-Salvation-Army.jpg",
-"https://karenforct66.com/wp-content/uploads/Our-towns-with-Karen-1-e1786032094186.png",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260116_184820_Outlook.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260116_184841_Outlook-e1786032643666.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260116_184917_Outlook.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260116_184939_Outlook.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260116_184947_Outlook.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260116_185005_Outlook.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260116_185030_Outlook.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260116_190634_Chrome-scaled.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260116_190933_Chrome-e1786032405940.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_234615_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_234629_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_234828_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235021_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235113_Chrome-e1786032537334.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235136_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235216_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235247_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235310_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235353_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235414_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235438_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235506_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235553_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235603_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235611_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235637_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235649_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235739_Chrome.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260707_122403_Gallery.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260707_122406_Gallery.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260707_122419_Gallery-scaled.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260707_122424_Gallery.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260707_122429_Gallery.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260707_122437_Gallery.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260707_122443_Gallery-scaled.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260707_122447_Gallery-e1786031011331.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260708_035015_Gallery.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260708_035024_Gallery.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260708_040654_Gallery.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260708_043219_Photos.jpg",
-"https://karenforct66.com/wp-content/uploads/Screenshot_20260708_043228_Photos.jpg",
-"https://youtube.com/@K66Campaign"
+{
+"text": "About",
+"href": "https://karenforct66.com/about/"
+},
+{
+"text": "Bethlehem",
+"href": "https://karenforct66.com/towns/bethlehem/"
+},
+{
+"text": "Calendar",
+"href": "https://karenforct66.com/calendar/"
+},
+{
+"text": "Gallery",
+"href": "https://karenforct66.com/gallery/"
+},
+{
+"text": "Get Involved",
+"href": "https://karenforct66.com/get-involved/"
+},
+{
+"text": "Litchfield",
+"href": "https://karenforct66.com/towns/litchfield/"
+},
+{
+"text": "Morris",
+"href": "https://karenforct66.com/towns/morris/"
+},
+{
+"text": "News & Updates",
+"href": "https://karenforct66.com/news-updates/"
+},
+{
+"text": "Our District",
+"href": "https://karenforct66.com/our-district/"
+},
+{
+"text": "Warren",
+"href": "https://karenforct66.com/towns/warren/"
+},
+{
+"text": "Where I Stand",
+"href": "https://karenforct66.com/where-i-stand/"
+},
+{
+"text": "Woodbury",
+"href": "https://karenforct66.com/towns/woodbury/"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/20260215_172626-scaled.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/20260515_223856-scaled-e1780492278820.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/20260521_193743-scaled.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/IMG_7853.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Karen_LaBonnes-Salvation-Army.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Our-towns-with-Karen-1-e1786032094186.png"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260116_184820_Outlook.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260116_184841_Outlook-e1786032643666.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260116_184917_Outlook.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260116_184939_Outlook.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260116_184947_Outlook.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260116_185005_Outlook.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260116_185030_Outlook.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260116_190634_Chrome-scaled.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260116_190933_Chrome-e1786032405940.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_234615_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_234629_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_234828_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235021_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235113_Chrome-e1786032537334.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235136_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235216_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235247_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235310_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235353_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235414_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235438_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235506_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235553_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235603_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235611_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235637_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235649_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260704_235739_Chrome.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260707_122403_Gallery.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260707_122406_Gallery.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260707_122419_Gallery-scaled.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260707_122424_Gallery.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260707_122429_Gallery.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260707_122437_Gallery.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260707_122443_Gallery-scaled.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260707_122447_Gallery-e1786031011331.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260708_035015_Gallery.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260708_035024_Gallery.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260708_040654_Gallery.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260708_043219_Photos.jpg"
+},
+{
+"text": "[image: Gallery]",
+"href": "https://karenforct66.com/wp-content/uploads/Screenshot_20260708_043228_Photos.jpg"
+},
+{
+"text": "[image: Karen Reddington-Hughes]",
+"href": "https://karenforct66.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/karenforCt66th"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/karen_for_ct_66th/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@K66Campaign"
+}
 ]

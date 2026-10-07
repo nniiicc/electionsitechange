@@ -1,30 +1,126 @@
 [
-"http://dllr.state.md.us/county/pg",
-"http://mdcourts.gov/district/directories/courtmap.html",
-"http://pgcc.edu/",
-"http://pgcmls.info/",
-"http://pgcps.org/",
-"http://pgparks.com/parks_and_rec_home.htm",
-"http://pgsao.org/",
-"http://princegeorgescountymd.gov/1002/Public-Works-Transportation",
-"http://princegeorgescountymd.gov/1588/Health-Services",
-"http://princegeorgescountymd.gov/1629/Social-Services",
-"http://princegeorgescountymd.gov/222/FireEmergency-Medical-Services",
-"http://princegeorgescountymd.gov/396/Finance",
-"http://princegeorgescourts.org/",
-"http://princegeorgescourts.org/148/Circuit-Court",
-"http://registers.maryland.gov/main/princegeorges.html",
-"https://calvertcountymd.gov/836/General-Services",
-"https://facebook.com/jeffrielongjr",
-"https://instagram.com/jeffrielongjr",
-"https://jeffrielong.com/",
-"https://jeffrielong.com/about",
-"https://jeffrielong.com/calvert-resoruces",
-"https://jeffrielong.com/platform",
-"https://jeffrielong.com/prince-georges-resources",
-"https://jeffrielong.com/scholarship",
-"https://jeffrielong.com/updates",
-"https://princegeorgescountymd.gov/",
-"https://secure.actblue.com/donate/friends-of-jeffrie-long-2",
-"https://twitter.com/jeffrielongjr"
+{
+"text": "About",
+"href": "https://www.jeffrielong.com/about"
+},
+{
+"text": "Calvert County",
+"href": "https://www.jeffrielong.com/calvert-resoruces"
+},
+{
+"text": "Click To View",
+"href": "http://princegeorgescourts.org/"
+},
+{
+"text": "Click To View",
+"href": "http://princegeorgescourts.org/148/Circuit-Court"
+},
+{
+"text": "Click To View",
+"href": "http://registers.maryland.gov/main/princegeorges.html"
+},
+{
+"text": "Click To View",
+"href": "http://www.dllr.state.md.us/county/pg/"
+},
+{
+"text": "Click To View",
+"href": "http://www.mdcourts.gov/district/directories/courtmap.html#PRINCEGEORGES"
+},
+{
+"text": "Click To View",
+"href": "http://www.pgcc.edu/"
+},
+{
+"text": "Click To View",
+"href": "http://www.pgcmls.info/"
+},
+{
+"text": "Click To View",
+"href": "http://www.pgcps.org/"
+},
+{
+"text": "Click To View",
+"href": "http://www.pgparks.com/parks_and_rec_home.htm"
+},
+{
+"text": "Click To View",
+"href": "http://www.pgsao.org/"
+},
+{
+"text": "Click To View",
+"href": "http://www.princegeorgescountymd.gov/1002/Public-Works-Transportation"
+},
+{
+"text": "Click To View",
+"href": "http://www.princegeorgescountymd.gov/1588/Health-Services"
+},
+{
+"text": "Click To View",
+"href": "http://www.princegeorgescountymd.gov/1629/Social-Services"
+},
+{
+"text": "Click To View",
+"href": "http://www.princegeorgescountymd.gov/222/FireEmergency-Medical-Services"
+},
+{
+"text": "Click To View",
+"href": "http://www.princegeorgescountymd.gov/396/Finance"
+},
+{
+"text": "Click To View",
+"href": "https://www.calvertcountymd.gov/836/General-Services"
+},
+{
+"text": "Click To View",
+"href": "https://www.princegeorgescountymd.gov/"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/friends-of-jeffrie-long-2"
+},
+{
+"text": "Issues",
+"href": "https://www.jeffrielong.com/platform"
+},
+{
+"text": "Jeffrie E.",
+"href": "https://www.jeffrielong.com"
+},
+{
+"text": "Legislative Updates",
+"href": "https://www.jeffrielong.com/updates"
+},
+{
+"text": "Long, Jr",
+"href": "https://www.jeffrielong.com"
+},
+{
+"text": "Prince George's County",
+"href": "https://www.jeffrielong.com/prince-georges-resources"
+},
+{
+"text": "Scholarship",
+"href": "https://www.jeffrielong.com/scholarship"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/jeffrielongjr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jeffrielongjr/"
+},
+{
+"text": "[image: JeffLongFinal-03.png]",
+"href": "https://www.jeffrielong.com"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/jeffrielongjr"
+},
+{
+"text": "jeffrie.long@house.state.md.us",
+"href": "mailto:jeffrie.long@house.state.md.us"
+}
 ]

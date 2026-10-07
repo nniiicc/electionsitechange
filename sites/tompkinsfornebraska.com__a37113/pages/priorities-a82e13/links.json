@@ -1,8 +1,34 @@
 [
-"https://forms.gle/2TcAcSdzNXkbSnZo8",
-"https://forms.gle/h8M7oqHBbHQaa9Q6A",
-"https://secure.actblue.com/donate/darinforne",
-"https://tompkinsfornebraska.com/",
-"https://tompkinsfornebraska.com/about-darin",
-"https://tompkinsfornebraska.com/priorities"
+{
+"text": "About Darin",
+"href": "https://tompkinsfornebraska.com/about-darin/"
+},
+{
+"text": "CONTACT",
+"href": "https://forms.gle/2TcAcSdzNXkbSnZo8"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/darinforne"
+},
+{
+"text": "DONATE TODAY!",
+"href": "https://secure.actblue.com/donate/darinforne"
+},
+{
+"text": "HOME",
+"href": "https://tompkinsfornebraska.com/"
+},
+{
+"text": "Priorities",
+"href": "https://tompkinsfornebraska.com/priorities/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://forms.gle/h8M7oqHBbHQaa9Q6A"
+},
+{
+"text": "[image: Tompkins for Legislature]",
+"href": "https://tompkinsfornebraska.com/"
+}
 ]

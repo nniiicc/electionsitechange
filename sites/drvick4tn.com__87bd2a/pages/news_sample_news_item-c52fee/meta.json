@@ -1,7 +1,9 @@
 {
  "description": "This is where you&#39;ll put the expanded description for your news item or press release. You can edit this content from the &quot;News&quot; tab of the control panel.",
  "final_url": "https://drvick4tn.com/news/sample_news_item",
- "paid_for_by": null,
+ "fingerprint": "50de912e68a9eeb30152325585763d4fe20c8869",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Sample Campaign News Item",
  "years_mentioned": [
   "2025"

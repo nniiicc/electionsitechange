@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Julie+Gonzales+for+U.S.+Senate%2C+David+Seligman+for+Attorney+General%2C+and+Iris+Halpern+for+House+District+6+Congress+Park%2FCheesman+Park+Neighborhoods&dates=20260618T230000Z%2F20260619T013000Z&location=850+Josephine+Street%2C+Denver%2C+Colorado%2C+80206%2C+United+States",
-"http://maps.google.com/?q=850+Josephine+Street+Denver%2C+Colorado%2C+80206+United+States",
-"https://facebook.com/people/Iris-Halpern-for-House-District-6/61586739056135",
-"https://instagram.com/Iris4colorado",
-"https://iris4colorado.org/",
-"https://iris4colorado.org/about",
-"https://iris4colorado.org/cart",
-"https://iris4colorado.org/contact",
-"https://iris4colorado.org/endorsements",
-"https://iris4colorado.org/events",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-bnk8f?format=ical",
-"https://iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-8xgtj",
-"https://iris4colorado.org/press",
-"https://iris4colorado.org/privacy",
-"https://iris4colorado.org/terms",
-"https://secure.actblue.com/donate/iris-halpern-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=850+josephine+street+denver%2C+colorado%2C+80206+united+states"
+},
+{
+"text": "0",
+"href": "https://www.iris4colorado.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.iris4colorado.org/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.iris4colorado.org/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/iris-halpern-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.iris4colorado.org/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Julie+Gonzales+for+U.S.+Senate%2C+David+Seligman+for+Attorney+General%2C+and+Iris+Halpern+for+House+District+6+Congress+Park%2FCheesman+Park+Neighborhoods&dates=20260618T230000Z%2F20260619T013000Z&location=850+Josephine+Street%2C+Denver%2C+Colorado%2C+80206%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.iris4colorado.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-bnk8f?format=ical"
+},
+{
+"text": "Iris in the Press",
+"href": "https://www.iris4colorado.org/press"
+},
+{
+"text": "Next Next June 19 Meet Iris and Ask Your Questions - Lowry Neighborhood Windsor Gardens Community Center",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-8xgtj"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.iris4colorado.org/privacy"
+},
+{
+"text": "Previous Previous June 14 Canvass for Iris Congress Park/Cheesman Park/Uptown Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.iris4colorado.org/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.iris4colorado.org/contact"
+},
+{
+"text": "[image: Iris Halpern]",
+"href": "https://www.iris4colorado.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Iris-Halpern-for-House-District-6/61586739056135/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Iris4colorado"
+}
 ]

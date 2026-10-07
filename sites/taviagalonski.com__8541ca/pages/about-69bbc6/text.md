@@ -1,4 +1,4 @@
-Tavia Galonski is honored to serve Summit County residents as Clerk of Courts and humbled to be a candidate for Judge of the 9th District Court of Appeals.
+Skip to main content Main navigation About Get Involved Endorsements Contact About Tavia Galonski is honored to serve Summit County residents as Clerk of Courts and humbled to be a candidate for Judge of the 9th District Court of Appeals.
 Comprised of two Divisions - Legal and Title - the Clerk's Office maintains records for the Summit County Common Pleas Court (General Division), the Summit County Domestic Relations Court, and the Ninth District Court of Appeals, as well as issuing Certificates of Title for watercraft and motor vehicles.
 She previously served as State Representative for Ohio's 35th District which includes the Akron neighborhoods of Ellet, Firestone Park, Goodyear Hts., Kenmore, Middlebury as well as almost all of the city of Barberton and portions of Coventry and Springfield Townships.
 As a former Teamster and daughter of UAW worker, former state Rep.
@@ -12,3 +12,5 @@ She continued to work full time as a flight attendant while attending the Univer
 She graduated from the University of Akron School of Law in 1995 and was admitted to the practice of law.
 She is married to Summit County Chief Assistant Prosecutor John Galonski.
 The Galonskis have a son, a daughter and a grandson.
+Proudly paid for by Friends of Tavia Galonski.
+Sub Menu

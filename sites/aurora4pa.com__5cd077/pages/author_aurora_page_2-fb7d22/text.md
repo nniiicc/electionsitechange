@@ -1,41 +1,18 @@
-Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.
-Service URL: policies.google.com (opens in a new window)
-__utmx
-Used to determine whether a user is included in an A / B or Multivariate test.
-18 months
-_ga
-ID used to identify users
-2 years
-_gali
-Used by Google Analytics to determine which links on a page are being clicked
-_ga_
-ID used to identify users
-2 years
-_gid
-ID used to identify users for 24 hours after last activity
-_gat
-Used to monitor number of Google Analytics server requests when using Google Tag Manager
-_gac_
-Contains information related to marketing campaigns of the user.
-These are shared with Google AdWords / Google Ads when the Google Ads and Google Analytics accounts are linked together.
-__utma
-ID used to identify users and sessions
-2 years after last activity
-__utmt
-Used to monitor number of Google Analytics server requests
-__utmb
-Used to distinguish new sessions and visits.
-This cookie is set when the GA.js javascript library is loaded and there is no existing __utmb cookie.
-The cookie is updated every time data is sent to the Google Analytics server.
-__utmc
-Used only with old Urchin versions of Google Analytics and not with GA.js.
-Was used to distinguish between new sessions and visits at the end of a session.
-End of session (browser)
-__utmz
-Contains information about the traffic source or campaign that directed user to the website.
-The cookie is set when the GA.js javascript is loaded and updated when data is sent to the Google Anaytics server
-6 months after last activity
-__utmv
-Contains custom information set by the web developer via the _setCustomVar method in Google Analytics.
-This cookie is updated every time new data is sent to the Google Analytics server.
-2 years after last activity
+1-888-995-6699 commonsense@aurora4pa.com Facebook X Instagram Facebook X Instagram Home Donate Volunteer Events Meet Aurora Meet Aurora My Plan to Address the Student Loan Crisis and Make College More Affordable Safer Food, Stronger Farms, Healthier Families Shapiro Lies and Scare Tactics to Take Away Our Freedom Stand with Law Enforcement 🚨 The Academy of Natural Sciences Closure: Coincidence, Crisis — or Political Opportunity for Shapiro?
+A Platform for Strong Families, Safe Communities, and Responsible Growth Faith, Civics, and Our Children’s Future Protecting Our Children PA Families, Water Merger!
+Contact Select Page A Platform for Strong Families, Safe Communities, and Responsible Growth I believe government works best when it protects vulnerable people, removes barriers to opportunity, and spends taxpayer dollars preventing problems instead of paying for them after they become crises.
+I support economic growth, private enterprise, and technological...
+Protecting Our Children: Human Trafficking, Artificial Intelligence, and the Responsibility to Act Berks County Patriots Meeting – Part II The second presentation of a Berks County Patriots meeting this year was difficult to hear but impossible to ignore.
+It focused on one of the...
+Faith, Civics, and Our Children’s Future Berks County Patriots Meeting Reflections On Thursday, June 18th, I visited my friends at the Berks County Patriots, where there were very riveting speakers all relating to something that should be at the forefront of our minds every day—our children and our...
+Supporting Those Who Serve: Why I Stand With Law Enforcement I grew up in Philadelphia, and both my uncle and my cousin served as Philadelphia police officers.
+I’m going to show my age a little here, but I grew up in a time when information wasn’t instantly available at our fingertips.
+If there was a report on the evening news...
+Pennsylvania Families Should Be Paying Attention to This Water Merger I testified against the proposed PAWC–Essential Utilities water merger because Pennsylvanians deserve transparency, competition, and protection of our natural resources.
+Tuesday evening, May 5th, I attended the public hearing on the proposed merger between...
+Next Entries » Search Search Recent Posts My Plan to Support Aging Adults With Disabilities and Their Families My Plan to Address the Student Loan Crisis and Make College More Affordable Safer Food, Stronger Farms, Healthier Families 🚨 The Academy of Natural Sciences Closure: Coincidence, Crisis — or Political Opportunity for Shapiro?
+Shapiro Lies and Scare Tactics to Take Away Our Freedom Recent Comments No comments to show.
+Friends of Aurora Stuski, PO Box 117, Eagleville, PA 19408 Home Events Donate Volunteer Meet Aurora Contact Privacy Policy Cookie Policy Facebook X Instagram Paid for by Friends of Aurora Stuski.
+Copyright # Aurora Stuski.
+Toggle Statistics Statistics Toggle Google Analytics Google Analytics Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.
+Service URL: policies.google.com (opens in a new window) Accept All Close Save and Close Powered by (opens in a new window)

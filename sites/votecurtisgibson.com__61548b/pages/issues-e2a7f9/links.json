@@ -1,10 +1,38 @@
 [
-"https://estecam.com/",
-"https://facebook.com/CurtisGibsonLW",
-"https://secure.actblue.com/donate/curtis-gibson-1",
-"https://votecurtisgibson.com/",
-"https://votecurtisgibson.com/about",
-"https://votecurtisgibson.com/home",
-"https://votecurtisgibson.com/issues",
-"https://votecurtisgibson.com/recruitvolunteers"
+{
+"text": "About Curtis",
+"href": "https://votecurtisgibson.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/curtis-gibson-1"
+},
+{
+"text": "Home",
+"href": "https://votecurtisgibson.com/home"
+},
+{
+"text": "Issues",
+"href": "https://votecurtisgibson.com/issues"
+},
+{
+"text": "Text Us",
+"href": "sms:+18635892173"
+},
+{
+"text": "Volunteer",
+"href": "https://votecurtisgibson.com/recruitvolunteers"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.facebook.com/CurtisGibsonLW"
+},
+{
+"text": "[image]",
+"href": "https://votecurtisgibson.com"
+},
+{
+"text": "👑 EsteCam Marketing Agency",
+"href": "https://estecam.com/"
+}
 ]

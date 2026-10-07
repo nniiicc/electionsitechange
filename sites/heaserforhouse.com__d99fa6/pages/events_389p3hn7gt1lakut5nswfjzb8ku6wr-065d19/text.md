@@ -1,4 +1,4 @@
-Prepared and paid for by the Heaser for House Committee:
-12299 Champlin Dr, Unit 124, Champlin, MN 55316
-Jason Heaser is a retired member of the US Army.
+0 Skip to Content Home About Platform Endorsements Events Connect Donate Open Menu Close Menu Home About Platform Endorsements Events Connect Donate Open Menu Close Menu Home About Platform Endorsements Events Connect Donate Back to All Events DFL Caucus Leader & House Rep.
+Zack Stephenson Knock for Heaser Tuesday, September 8, 2026 6:00 PM 8:00 PM Google Calendar ICS Source: https://secure.ngpvan.com/k-DY4Dthmk--_0jra2LppQ2 Previous Previous September 3 Heaser for House Door Knock Next Next September 9 Heaser for House Door Knock Donate Now!
+Prepared and paid for by the Heaser for House Committee: 12299 Champlin Dr, Unit 124, Champlin, MN 55316 Jason Heaser is a retired member of the US Army.
 Use of job titles, rank, and photographs in uniform do not imply endorsement by the Department of the Army or the Department of Defense.

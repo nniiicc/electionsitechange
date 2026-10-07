@@ -1,7 +1,12 @@
 {
  "description": "Ron Dunn Campaign Events",
  "final_url": "https://www.voterondunn.com/events",
- "paid_for_by": null,
+ "fingerprint": "0a52ea4fc539ee4cbae64592684f715ff2914bd8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Ron Dunn Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026",
+  "2027"
+ ]
 }

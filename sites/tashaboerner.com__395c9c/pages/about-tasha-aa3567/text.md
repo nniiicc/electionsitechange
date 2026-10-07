@@ -1,6 +1,4 @@
-About Assemblymember Tasha Boerner
-Working hard for SAN DIEGO COUNTY…
-Tasha Boerner is a State Assemblymember, community leader, mother, and fourth-generation San Diego County resident.
+Home About Issues Newsletter sign-up PHOTOS Contribute Home About Issues Newsletter sign-up PHOTOS Contribute About Assemblymember Tasha Boerner Working hard for SAN DIEGO COUNTY… Tasha Boerner is a State Assemblymember, community leader, mother, and fourth-generation San Diego County resident.
 Since her election to the State Assembly in 2018, Tasha has authored 32 bills which have become law, including historic legislation addressing the climate crisis and pollution, reducing the cost of living by addressing high utility rates, combating discrimination, expanding access to health care, and improving Californians’ quality of life.
 Tasha was selected by Speaker Robert Rivas to chair the Assembly Communications and Conveyance Committee, and Select Committee on Sea Level Rise and the California Economy.
 She also serves on the following Assembly Committees: Higher Education; Public Employment & Retirement; Utilities & Energy; Water, Parks, & Wildlife; Select Committee on Asia/California Trade and Investment; Select Committee on Biotechnology and Medical Technology; Select Committee on Climate Innovation and Infrastructure; Select Committee on Ports and Goods Movement; Joint Committee on Fisheries and Aquaculture.
@@ -15,3 +13,4 @@ She received her B.A. in Political Science in 1995 from the University of Califo
 Go Bears!
 Tasha is the proud mom of two wonderful teenagers.
 Tasha is running for re-election to the California State Assembly to fight for sustainability, opportunity and equity for our San Diego County coastal communities.
+Back to Top Your priorities Meet Tasha tasha@tashaboerner.com Paid for by Tasha Boerner for Assembly 2026 #1477389

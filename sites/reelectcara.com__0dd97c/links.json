@@ -1,8 +1,30 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://reelectcara.com/",
-"https://reelectcara.com/biography",
-"https://reelectcara.com/platform"
+{
+"text": "(754) 444-8803",
+"href": "tel:7544448803"
+},
+{
+"text": "Biography",
+"href": "https://reelectcara.com/biography"
+},
+{
+"text": "Home",
+"href": "https://reelectcara.com/"
+},
+{
+"text": "Platform",
+"href": "https://reelectcara.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

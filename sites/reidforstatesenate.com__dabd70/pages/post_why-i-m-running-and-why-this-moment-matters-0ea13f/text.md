@@ -1,8 +1,9 @@
-Why I’m Running.
+top of page VOLUNTEER MENU Close Home About Get Involved Blog All Posts Search Why I’m Running.
 And Why This Moment Matters.
-Over the past few weeks, I’ve spent countless hours talking with residents across the 21st Senate District.
+Carolann Reid May 25 2 min read Over the past few weeks, I’ve spent countless hours talking with residents across the 21 st Senate District.
 I’ve listened to parents worried about rising costs, seniors trying to stay in the communities they helped build, students searching for opportunity, and small business owners working hard to keep up in a changing economy.
 Those conversations leave me energized, humbled, and deeply connected to the people I hope to serve.
+Endorsement night!
 Receiving the Democratic endorsement for State Senate was an important milestone and personally validating, and I’m grateful for the trust and support behind our campaign.
 But the real momentum comes from the people I meet every day at their doors, at community events, in coffee shops and grocery stores, and on sidewalks around the towns.
 Their stories remind me why I’m running.
@@ -26,3 +27,7 @@ This summer, our campaign will continue building a strong grassroots team so we 
 I want to hear directly from as many residents as possible because I believe the best solutions come from listening, working together, and staying focused on what actually improves people’s lives.
 I’m running because I believe our communities deserve leadership that brings people together and moves us forward.
 And I believe this moment calls for exactly that.
+Recent Posts See All Housing should offer people choices at every stage of life.
+June Reflections: Listening, Learning, Moving Forward Email * Yes, subscribe me to your newsletter. * Submit Paid for by ReidForStateSenate2026, Kathleen Callahan, Treasurer.
+Approved by Carolann Reid. ​ Powered and secured by Wix.
+(203) 296-3147 contact@reidforstatesenate.com bottom of page

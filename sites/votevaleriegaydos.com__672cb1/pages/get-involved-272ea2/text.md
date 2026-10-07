@@ -1,6 +1,12 @@
-Join the Team to Keep Valerie
-Fighting for Us in Harrisburg!
+Donate Yard Signs Home Donate Online About Media Priorities & Accomplishments In The News Endorsements Vote Get Involved Shop Get Involved Join the Team to Keep Valerie Fighting for Us in Harrisburg!
 “I believe that YOU are best positioned to make the right decisions for you, your family, and your community.
-And, that more government is never the answer to bad government.”
-There are many ways to volunteer, from door knocking, to writing letters, to requesting yard signs for your home or business, let us know how you can help!
-To sign up, simply fill out the form below…
+And, that more government is never the answer to bad government.” There are many ways to volunteer, from door knocking, to writing letters, to requesting yard signs for your home or business, let us know how you can help!
+To sign up, simply fill out the form below… " * " indicates required fields First Name * Last Name * Email * Phone * Text Messages I agree to receive text messages.
+By providing your phone number and checking the box, you are consenting to receive polling and voting text messages (such as election reminders and opinion polls) and public service announcement text messages (such as legislative updates, member updates, and voter education) from Vote Valerie Gaydos at the number provided, including messages sent by autodialer.
+Message frequency varies.
+Message and data rates may apply.
+Reply HELP for help.
+Reply STOP to unsubscribe.
+See our Privacy Policy | Terms and Conditions .
+Leave a brief message * I Would Like to Volunteer By: Request a Yard Sign for Your Home or Business (Complete Info Below) Door Knocking & Neighborhood Canvassing Making Calls to Constituents Writing & Addressing Campaign Letters Address * Street Address Address Line 2 City State Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific ZIP Code Submit Home About Media In The News Get Involved Donate Request a Yard Sign or Volunteer © # Paid for by Gaydos for PA Privacy Policy Terms of Service Foundational design crafted with True Fit Marketing Valerie Gaydos Translate » < < < < < < < < < < < Home Donate Online About Media Priorities & Accomplishments In The News Endorsements Vote Get Involved Shop

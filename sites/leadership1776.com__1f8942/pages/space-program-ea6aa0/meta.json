@@ -1,7 +1,11 @@
 {
  "description": "Explore the future of the space program, including Helium-3 mining and O&#39;Neil Cylinders, with NASA&#39;s support for sustainable space travel.",
  "final_url": "https://leadership1776.com/space-program",
- "paid_for_by": null,
+ "fingerprint": "58f850f5339e07585818b7bffcf9e600180e7a05",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Space Program",
- "years_mentioned": []
+ "years_mentioned": [
+  "2045"
+ ]
 }

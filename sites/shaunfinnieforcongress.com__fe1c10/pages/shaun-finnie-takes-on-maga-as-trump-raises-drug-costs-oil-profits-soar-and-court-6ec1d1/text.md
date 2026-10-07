@@ -1,6 +1,8 @@
-Today’s program connects four stories that reveal the same corrosive political reality: government increasingly serves concentrated wealth and ideological power instead of ordinary people.
+Meet Shaun Issues Endorsements Get Involved News Store Donate News Shaun Finnie Takes On MAGA as Trump Raises Drug Costs, Oil Profits Soar, and Court Trust Collapses Today’s program connects four stories that reveal the same corrosive political reality: government increasingly serves concentrated wealth and ideological power instead of ordinary people.
 Texas congressional candidate Shaun Finnie explains why District 2 deserves representation focused on affordability, healthcare, education, and responsive government.
 Meanwhile, the Trump administration is ending support that restrained Medicare prescription-plan premiums, fossil-fuel corporations are preparing to reap billions as deadly heat intensifies, and public approval of the Supreme Court has fallen to the lowest level Gallup has ever recorded.
 These are not isolated developments.
 They reflect a democracy struggling against corporate greed, MAGA extremism, and institutions that have forfeited public trust.
-News
+Shaun Finnie Takes On MAGA as Trump Raises Drug Costs, Oil Profits Soar, and Court Trust Collapses by Egberto Willies Shaun Finnie makes his case for Texas-02 as Trump ends a Medicare drug-plan subsidy, Big Oil profits surge amid deadly heat, and Supreme Court approval falls to a record low.
+Read on Substack Return to all News Posts Follow Follow Follow Follow Follow Donate Checks can be written to Shaun Finnie for Congress and mailed to: Shaun Finnie for Congress PO Box 130101, Spring, TX 77393 Meet Shaun Issues Endorsements Get Involved News Media Assets Privacy Policy Sign Up for Updates Name Email Sign Up!
+Paid For By Shaun Finnie For Congress PO Box 130101, Spring, TX 77393 © # Shaun Finnie for Congress Customize Reject All Accept All Powered by

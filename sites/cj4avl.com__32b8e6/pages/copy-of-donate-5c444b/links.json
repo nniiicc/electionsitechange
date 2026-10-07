@@ -1,6 +1,22 @@
 [
-"https://cj4avl.com/",
-"https://cj4avl.com/blank-2",
-"https://cj4avl.com/copy-of-donate",
-"https://cj4avl.com/who"
+{
+"text": "Contact",
+"href": "https://www.cj4avl.com/blank-2"
+},
+{
+"text": "Donate",
+"href": "https://www.cj4avl.com/copy-of-donate"
+},
+{
+"text": "Home",
+"href": "https://www.cj4avl.com"
+},
+{
+"text": "Who?",
+"href": "https://www.cj4avl.com/who"
+},
+{
+"text": "charles@cj4avl.com",
+"href": "mailto:charles@cj4avl.com"
+}
 ]

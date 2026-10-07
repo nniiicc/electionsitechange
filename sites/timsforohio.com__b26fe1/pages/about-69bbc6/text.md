@@ -1,5 +1,4 @@
-Meet Desiree Tims
-Desiree Tims is a lawyer and State Representative serving as the Assistant Minority Whip in the Ohio House of Representatives.
+0 Skip to Content HOME MEET DESIREE ISSUES CONTACT US Donate Now Open Menu Close Menu HOME MEET DESIREE ISSUES CONTACT US Donate Now Open Menu Close Menu HOME MEET DESIREE ISSUES CONTACT US Donate Now Meet Desiree Tims Desiree Tims is a lawyer and State Representative serving as the Assistant Minority Whip in the Ohio House of Representatives.
 Previously, she served as President & CEO of Innovation Ohio and Innovation Ohio Education Fund.
 Desiree has led the organization’s vision to fight for a more just and equitable society through strategic engagement, building coalitions, and transformational leadership.
 For more than a decade, Desiree has served as a trusted advisor to national leaders and national organizations, serving as a key expert for emerging issues.
@@ -14,3 +13,5 @@ Following her time at The White House, Desiree began working on Capitol Hill for
 In summary, Desiree has spent her life working on public policy issues that impact Americans, which have ranged from agriculture to democracy reform.
 Desiree earned a Bachelor of Arts in Communication Arts from Xavier University (Cincinnati), a diploma from The Women’s Campaign School at Yale University, and a Juris Doctorate from Georgetown University Law Center.
 She is a proud member of McKinley United Methodist Church and Alpha Kappa Alpha Sorority, Incorporated.
+Election Day is November 3, 2026 PAID FOR BY: FRIENDS OF DESIREE TIMS P.O.
+BOX 17034 DAYTON, OH 45417

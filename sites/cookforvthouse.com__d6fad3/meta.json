@@ -1,7 +1,11 @@
 {
  "description": "Candidate website Anthony Cook state representative Bennington district 2 cookforvthouse.com",
  "final_url": "https://www.cookforvthouse.com/",
- "paid_for_by": null,
+ "fingerprint": "a8545854bb6af33bf7530226e437127a0ff34cea",
+ "format": 3,
+ "paid_for_by": "",
  "title": "cookforvthouse.com | Anthony Cook state representative Bennington district 2 | Bennington, VT, USA",
- "years_mentioned": []
+ "years_mentioned": [
+  "1967"
+ ]
 }

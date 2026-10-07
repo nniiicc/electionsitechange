@@ -1,9 +1,34 @@
 [
-"https://shep4staterep.com/",
-"https://shep4staterep.com/about",
-"https://shep4staterep.com/action-center",
-"https://shep4staterep.com/cart",
-"https://shep4staterep.com/new-page",
-"https://shep4staterep.com/privacy-policy",
-"https://shep4staterep.com/promise-to-deliver"
+{
+"text": "0",
+"href": "https://www.shep4staterep.com/cart"
+},
+{
+"text": "36th District",
+"href": "https://www.shep4staterep.com/new-page"
+},
+{
+"text": "About David",
+"href": "https://www.shep4staterep.com/about"
+},
+{
+"text": "Action Center",
+"href": "https://www.shep4staterep.com/action-center"
+},
+{
+"text": "Home",
+"href": "https://www.shep4staterep.com/"
+},
+{
+"text": "Privacy Policy and Terms of Use",
+"href": "https://www.shep4staterep.com/privacy-policy"
+},
+{
+"text": "Promise to Deliver",
+"href": "https://www.shep4staterep.com/promise-to-deliver"
+},
+{
+"text": "[image: David Sheppard for State Representative]",
+"href": "https://www.shep4staterep.com/"
+}
 ]

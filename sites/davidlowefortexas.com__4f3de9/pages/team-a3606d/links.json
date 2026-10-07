@@ -1,10 +1,42 @@
 [
-"https://davidlowefortexas.com/",
-"https://davidlowefortexas.com/issues",
-"https://davidlowefortexas.com/meet",
-"https://davidlowefortexas.com/privacypolicy",
-"https://davidlowefortexas.com/survey",
-"https://davidlowefortexas.com/team",
-"https://facebook.com/DavidLowe4TX",
-"https://secure.anedot.com/david-lowe-for-texas/donate?exitIntent=true"
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/david-lowe-for-texas/donate?exitIntent=true"
+},
+{
+"text": "David@DavidLoweforTexas.com",
+"href": "mailto:David@DavidLoweforTexas.com"
+},
+{
+"text": "HOME",
+"href": "https://www.davidlowefortexas.com"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://www.davidlowefortexas.com/team"
+},
+{
+"text": "MEET DAVID",
+"href": "https://www.davidlowefortexas.com/meet"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.davidlowefortexas.com/issues"
+},
+{
+"text": "Privacy Policy and Terms & Conditions",
+"href": "https://www.davidlowefortexas.com/privacypolicy"
+},
+{
+"text": "SURVEY",
+"href": "https://www.davidlowefortexas.com/survey"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DavidLowe4TX"
+},
+{
+"text": "[no text]",
+"href": "mailto:David@DavidLoweforTexas.com"
+}
 ]

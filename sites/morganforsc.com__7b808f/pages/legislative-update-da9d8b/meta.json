@@ -1,7 +1,11 @@
 {
  "description": "Subscribe To Receive Legislative Updates * indicates required Email Address * First Name * Last Name *",
  "final_url": "https://morganforsc.com/legislative-update/",
- "paid_for_by": null,
+ "fingerprint": "85a6495eda0e7c233ebf26acb7ae48502d417e8a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Legislative Updates - Alan Morgan",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

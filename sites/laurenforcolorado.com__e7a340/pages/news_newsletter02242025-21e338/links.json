@@ -1,42 +1,198 @@
 [
-"http://facebook.com/laurenboebert",
-"http://twitter.com/laurenboebert",
-"https://bcdemocratonline.com/opinion-boebert-demands-stop-to-federal-land-grab-attempt-in-southeastern-colorado",
-"https://coloradoan.com/story/sports/high-school/2025/02/11/colorado-3a-state-swimming-wellington-cody-monajjem-wins-100-backstroke-championship/78416892007",
-"https://coloradocommunitymedia.com/2025/02/14/douglas-county-supports-immigration-bill",
-"https://congress.gov/bill/119th-congress/house-bill/1401/text?s=1&r=1&q=%7B%22search%22%3A%22lauren+boebert%22%7D",
-"https://dailycaller.com/2025/02/21/john-mcguire-agriculture-transport-regulations",
-"https://facebook.com/reel/1184698416577103",
-"https://facebook.com/share/p/18Q7ZNsPzh",
-"https://facebook.com/share/p/1FFiFEbFwg",
-"https://facebook.com/share/p/1PkR5yMvFC",
-"https://instagram.com/laurenboebert",
-"https://journal-advocate.com/2025/02/24/miracle-letter-programs-candy-cane-mailbox-again-making-the-rounds",
-"https://laurenforcolorado.com/",
-"https://laurenforcolorado.com/about",
-"https://laurenforcolorado.com/accomplishments",
-"https://laurenforcolorado.com/contact",
-"https://laurenforcolorado.com/donate",
-"https://laurenforcolorado.com/download/lauren_boebert_contract.pdf",
-"https://laurenforcolorado.com/endorsements",
-"https://laurenforcolorado.com/get-involved",
-"https://laurenforcolorado.com/media",
-"https://laurenforcolorado.com/news",
-"https://laurenforcolorado.com/news/newsletter02242025",
-"https://laurenforcolorado.com/pages/privacy",
-"https://laurenforcolorado.com/vote",
-"https://newsweek.com/meet-man-building-statues-trump-2032289",
-"https://secure.winred.com/lauren-boebert-for-congress/newsletter-first-30-days",
-"https://secure.winred.com/lauren-boebert-for-congress/storefront",
-"https://txtterms.co/80306",
-"https://whitehouse.gov/articles/2025/02/icymi-departments-tout-results-after-president-trumps-historic-first-month",
-"https://whitehouse.gov/presidential-actions/2025/02/commencing-the-reduction-of-the-federal-bureaucracy",
-"https://whitehouse.gov/presidential-actions/2025/02/ending-taxpayer-subsidization-of-open-borders",
-"https://whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies",
-"https://whitehouse.gov/presidential-actions/2025/02/ensuring-lawful-governance-and-implementing-the-presidents-department-of-government-efficiency-regulatory-initiative",
-"https://whitehouse.gov/presidential-actions/2025/02/expanding-access-to-in-vitro-fertilization",
-"https://x.com/laurenboebert/status/1890520771522412940",
-"https://x.com/laurenboebert/status/1891968782689526052",
-"https://x.com/laurenboebert/status/1892234648526237970",
-"https://youtube.com/@laurenforfreedom3084"
+{
+"text": "About",
+"href": "https://laurenforcolorado.com/about/"
+},
+{
+"text": "About Lauren",
+"href": "https://laurenforcolorado.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://laurenforcolorado.com/accomplishments/"
+},
+{
+"text": "Boebert Demands Stop To Federal Land Grab in Southeast Colorado",
+"href": "https://www.bcdemocratonline.com/opinion-boebert-demands-stop-to-federal-land-grab-attempt-in-southeastern-colorado/"
+},
+{
+"text": "Commencing the Reduction of the Federal Bureaucracy",
+"href": "https://www.whitehouse.gov/presidential-actions/2025/02/commencing-the-reduction-of-the-federal-bureaucracy/"
+},
+{
+"text": "Contact",
+"href": "https://laurenforcolorado.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://laurenforcolorado.com/donate"
+},
+{
+"text": "EXCLUSIVE: GOP Rep Introduces Bill To Slash Agricultural Transport Regulations",
+"href": "https://dailycaller.com/2025/02/21/john-mcguire-agriculture-transport-regulations/"
+},
+{
+"text": "Ending Taxpayer Subsidization of Open Borders",
+"href": "https://www.whitehouse.gov/presidential-actions/2025/02/ending-taxpayer-subsidization-of-open-borders/"
+},
+{
+"text": "Endorsements",
+"href": "https://laurenforcolorado.com/endorsements/"
+},
+{
+"text": "Ensuring Accountability for All Agencies",
+"href": "https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/"
+},
+{
+"text": "Ensuring Lawful Governance and Implementing the President’s “Department of Government Efficiency” Deregulatory Initiative",
+"href": "https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-lawful-governance-and-implementing-the-presidents-department-of-government-efficiency-regulatory-initiative/"
+},
+{
+"text": "Expanding Access to In Vitro Fertilization",
+"href": "https://www.whitehouse.gov/presidential-actions/2025/02/expanding-access-to-in-vitro-fertilization/"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/laurenboebert"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/reel/1184698416577103"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/p/18Q7ZNsPzh/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/p/1FFiFEbFwg/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/p/1PkR5yMvFC/"
+},
+{
+"text": "Get Involved",
+"href": "https://laurenforcolorado.com/get-involved/"
+},
+{
+"text": "H.R.1401",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1401/text?s=1&r=1&q=%7B%22search%22%3A%22lauren+boebert%22%7D"
+},
+{
+"text": "Home",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "ICYMI: Departments Tout Results After President Trump’s Historic First Month",
+"href": "https://www.whitehouse.gov/articles/2025/02/icymi-departments-tout-results-after-president-trumps-historic-first-month/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/laurenboebert/"
+},
+{
+"text": "Media",
+"href": "https://laurenforcolorado.com/media/"
+},
+{
+"text": "Meet the Man Building Statues for Donald Trump",
+"href": "https://www.newsweek.com/meet-man-building-statues-trump-2032289"
+},
+{
+"text": "Menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "Miracle Letter Program’s Candy Cane mailbox making the rounds again in Logan County",
+"href": "https://www.journal-advocate.com/2025/02/24/miracle-letter-programs-candy-cane-mailbox-again-making-the-rounds/"
+},
+{
+"text": "News",
+"href": "https://laurenforcolorado.com/news/"
+},
+{
+"text": "Pledge",
+"href": "https://laurenforcolorado.com/download/lauren_boebert_contract.pdf"
+},
+{
+"text": "Proposed bill from Douglas County legislators would repeal laws limiting immigration enforcement",
+"href": "https://coloradocommunitymedia.com/2025/02/14/douglas-county-supports-immigration-bill/"
+},
+{
+"text": "SMS Terms & Conditions",
+"href": "https://txtterms.co/80306"
+},
+{
+"text": "Take The Poll Here",
+"href": "https://secure.winred.com/lauren-boebert-for-congress/newsletter-first-30-days"
+},
+{
+"text": "Team Boebert Weekly Newsletter - February 24, 2025",
+"href": "https://laurenforcolorado.com/news/newsletter02242025/"
+},
+{
+"text": "Twitter",
+"href": "http://twitter.com/laurenboebert"
+},
+{
+"text": "Vote",
+"href": "https://laurenforcolorado.com/vote"
+},
+{
+"text": "Wellington’s Cody Monajjem wins another Colorado 3A swimming championship",
+"href": "https://www.coloradoan.com/story/sports/high-school/2025/02/11/colorado-3a-state-swimming-wellington-cody-monajjem-wins-100-backstroke-championship/78416892007/"
+},
+{
+"text": "X",
+"href": "https://x.com/laurenboebert/status/1890520771522412940"
+},
+{
+"text": "X",
+"href": "https://x.com/laurenboebert/status/1891968782689526052"
+},
+{
+"text": "X",
+"href": "https://x.com/laurenboebert/status/1892234648526237970"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@laurenforfreedom3084"
+},
+{
+"text": "[image: Lauren Boebert Logo]",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "[image: Text JOIN to 80306]",
+"href": "sms:+80306"
+},
+{
+"text": "[no text]",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "javascript:;"
+},
+{
+"text": "info@laurenforcolorado.com",
+"href": "mailto:info@laurenforcolorado.com"
+},
+{
+"text": "privacy policy",
+"href": "https://laurenforcolorado.com/pages/privacy"
+},
+{
+"text": "store",
+"href": "https://secure.winred.com/lauren-boebert-for-congress/storefront/"
+},
+{
+"text": "terms",
+"href": "https://txtterms.co/80306"
+},
+{
+"text": "← back to all news",
+"href": "https://laurenforcolorado.com/news"
+}
 ]

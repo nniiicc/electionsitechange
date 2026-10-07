@@ -1,13 +1,9 @@
-Meet Brian in 2 Minutes...
-Community • Common Sense • Conservative
-Costello for Casper
-Brian Costello for Wyoming House District 37
-Brian Costello is running to represent House District 37 with a focus on common sense, protecting our public lands, local control, responsible government, and a clear voice for Casper in Cheyenne.
+Home Meet Brian Priorities Endorsements Contact Donate Meet Brian in 2 Minutes...
+Your browser does not support the video tag.
+Filmed on Wyoming State Land along Squaw Creek in Natrona County.
+Community • Common Sense • Conservative Costello for Casper Brian Costello for Wyoming House District 37 Brian Costello is running to represent House District 37 with a focus on common sense, protecting our public lands, local control, responsible government, and a clear voice for Casper in Cheyenne.
 This campaign is about listening to neighbors, standing up for Wyoming values, and working hard for the people who call Casper home.
-Campaign Announcement
-Brian Costello Announces Campaign for Wyoming House District 37
-“I am running to serve our community with common sense, conservative leadership that puts Casper first.”
-Living in and raising our children in Casper has been the most incredible experience of my lifetime.
+Meet Brian View Priorities The Costello Family - Allie, Amy, Brian and Camryn Campaign Announcement Brian Costello Announces Campaign for Wyoming House District 37 “I am running to serve our community with common sense, conservative leadership that puts Casper first.” Living in and raising our children in Casper has been the most incredible experience of my lifetime.
 Running small businesses, teaching and coaching at NCHS, and being a member of this great community has not only been amazing, it has made me who I am.
 It’s time to give back in a way that will leave Casper in a better place than I found it.
 I believe in local control, protecting and defending access to our public lands, and making practical decisions that strengthen our economy, support our families, and preserve the Wyoming way of life.
@@ -17,3 +13,7 @@ I have been to every corner of the state to camp, hike, hunt, fish, and explore,
 My wife Amy graduated from UW and fell in love with Wyoming.
 Together, we are currently on a quest to climb the highest peak in every Wyoming mountain range.
 I can’t wait to get out and meet everyone I can in House District 37 to hear what they want.
+More Results.
+Less Drama.
+Read More More Results.
+Less Drama. www.costelloforcasper.com Paid for by Costello for Casper

@@ -1,15 +1,58 @@
 [
-"http://facebook.com/wix",
-"http://twitter.com/wix",
-"https://facebook.com/RepSoter",
-"https://instagram.com/repmikesoter",
-"https://mikesoter.com/",
-"https://mikesoter.com/citationrequest",
-"https://mikesoter.com/constituentservices",
-"https://mikesoter.com/contact",
-"https://mikesoter.com/focus",
-"https://mikesoter.com/meet-mike",
-"https://mikesoter.com/resources",
-"https://secure.anedot.com/cte-mike-soter/donate",
-"https://twitter.com/RepSoter"
+{
+"text": "CITATION REQUEST",
+"href": "https://www.mikesoter.com/citationrequest"
+},
+{
+"text": "CONSTITUENT SERVICES",
+"href": "https://www.mikesoter.com/constituentservices"
+},
+{
+"text": "CONTACT",
+"href": "https://www.mikesoter.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/cte-mike-soter/donate"
+},
+{
+"text": "FOCUS",
+"href": "https://www.mikesoter.com/focus"
+},
+{
+"text": "HOME",
+"href": "https://www.mikesoter.com"
+},
+{
+"text": "MEET MIKE",
+"href": "https://www.mikesoter.com/meet-mike"
+},
+{
+"text": "RESOURCES",
+"href": "https://www.mikesoter.com/resources"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RepSoter/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/repmikesoter/"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "http://www.facebook.com/wix"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "http://www.twitter.com/wix"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/RepSoter"
+},
+{
+"text": "mike@mikesoter.com |",
+"href": "mailto:Mike@mikesoter.com"
+}
 ]

@@ -1,5 +1,5 @@
-Bringing transparency to economic development
-This article originally ran in The Shelbyville News on January 24, 2024.
+top of page Writings Special Needs Families District 47 Get a sign More Use tab to navigate through the menu items.
+Donate Donate All Posts Search Bringing transparency to economic development Robb Greene Oct 21, 2024 4 min read This article originally ran in The Shelbyville News on January 24, 2024.
 There is an assumption at the heart of economic development policy that views any form of growth as a net good.
 It’s rarely challenged.
 Those who do question this often-hidden assumption--that growth outweighs any and all costs--are invariably accused of NIMBYism, or Not In My Back Yard.
@@ -31,8 +31,7 @@ It can be assumed that those involved in the deal as well as the third parties e
 Perhaps more neighbors would have welcomed LEAP and the aforementioned projects into their communities, but we will never know as they were largely excluded from the dialogue.
 A colleague who knew my feelings on this matter recently pushed back against my criticism saying, “LEAP is the Shohei Ohtani of projects.
 If you were trying to sign him, wouldn’t you keep it a secret?” To which I replied, “Every team in the league tried to sign him.
-What’s the secret?”
-Therein lies the issue.
+What’s the secret?” Therein lies the issue.
 Most major corporations, like the baseball star in my colleague’s metaphor, already know where they want, or more accurately, need to be.
 They merely leverage the fear of missing out by their soon-to-be new host to get the terms that they want.
 Letting the public in on the process is a necessary check on economic development agents whose only incentive is giving incentives.
@@ -43,3 +42,5 @@ This session, I have refiled my bill to ban NDAs as House Bill 1157 in order to 
 While the debate over land use, disuse or misuse will never find true consensus in any community, there can and should be consensus on the issue of transparency, and the public's right to have a voice in the process.
 So, the next time an economic development body encounters public resistance, the question they should ask is not why do citizens oppose growth, but rather, do people have a fundamental right to determine what their community looks like, even when an opportunity cost is involved.
 I believe they do and based on the grassroots movements we see in Shelby County and elsewhere, a lot of other people do, too.
+Recent Posts See All Conserving Hoosier agriculture, protecting Homestead Farm families Brake Lights RobbGreene.com P.O.
+Box 1148 Shelbyville, IN 46176 Paid for by RobbGreene.com © # by RobbGreene.com bottom of page

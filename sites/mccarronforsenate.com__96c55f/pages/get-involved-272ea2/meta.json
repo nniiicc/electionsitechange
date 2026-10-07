@@ -1,9 +1,9 @@
 {
  "description": "Sign up to volunteer or request a lawn sign!",
  "final_url": "https://mccarronforsenate.com/get-involved",
- "paid_for_by": "Paid for by McCarron for Senate Home About Why Rich Endorsements Get Involved Contact This website uses cookies",
+ "fingerprint": "79eb093560a0d3dffa03f703af119dd7ff67f811",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Get Involved",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

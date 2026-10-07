@@ -1,9 +1,7 @@
-Back to All Events
-Bennie Foster and the ReIMAGINE Mississippi team will be standing on the steps of Durant City Hall and will be available for questions and discussions.
-Previous
-Previous
-October 4
-Goodman Meet & Greet
-Next
-Next
-October 4
+0 Skip to Content Elect Bennie Foster for U.S.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Resources Voting Contact Donate DONATE Open Menu Close Menu Elect Bennie Foster for U.S.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Resources Voting Contact Donate DONATE Open Menu Close Menu Folder: About Back Meet Foster Our District | MS-02 Questions & Answers Folder: Platform Back Policies Initiatives Folder: News Back Events Folder: Resources Back Voting Contact Donate DONATE Back to All Events Durant City Hall (On the steps) Sunday, October 4, 2026 3:30 PM 4:30 PM Durant City Hall 253 West Mulberry Street Durant, Mississippi, 39063 United States (map) Google Calendar ICS Bennie Foster and the ReIMAGINE Mississippi team will be standing on the steps of Durant City Hall and will be available for questions and discussions.
+Previous Previous October 4 Goodman Meet & Greet Next Next October 4 Lexington Town Hall Paid for by Friends to Elect Bennie Foster Jr Follow Foster Instagram Facebook Send Mail To: 886 Foley St Jackson, MS 39202 Contact: team@electbenniefoster.com 601-868-5557 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up to stay connected with the campaign and receive updates.
+Email Address Sign Up Thank you!

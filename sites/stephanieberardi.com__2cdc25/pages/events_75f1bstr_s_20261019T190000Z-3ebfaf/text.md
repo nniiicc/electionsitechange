@@ -1,12 +1,2 @@
-Candidates Night
-Time
-Monday, Oct 19, 2026
-7:00 PM – 9:00 PM
-Location
-Glenside Hall 1850 Easton Road, Glenside, PA, 19038
-https://www.facebook.com/photo?fbid=1537939995036869&set=a.459297022901177
-About this event
-Location
-Glenside Hall 1850 Easton Road
-Glenside, PA 19038
-https://www.facebook.com/photo?fbid=1537939995036869&set=a.459297022901177
+Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Events / Candidates Night Candidates Night Time Monday, Oct 19, 2026 7:00 PM – 9:00 PM Location Glenside Hall 1850 Easton Road, Glenside, PA, 19038 https://www.facebook.com/photo?fbid=1537939995036869&set=a.459297022901177 About this event Location Glenside Hall 1850 Easton Road Glenside, PA 19038 https://www.facebook.com/photo?fbid=1537939995036869&set=a.459297022901177 Get Driving Directions Add to calendar Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Friends of Stephanie Berardi.
+Powered by CampaignPartner.com - Political Campaign Websites Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu

@@ -1,6 +1,8 @@
-My mom was diagnosed with PSP in 2008, when she was far too young.
+Skip to content Skip to content Home About Pat Dixon Policy Statements Exonerate Robert Roberson Free Market Sustainability Approval Voting School Choice Parent & Teacher Empowerment Non-Partisan Redistricting Texas Muslims AI Property Tax The Abbott Report The Border Election Integrity Texas Transportation Missed Opportunity?
+Hyperbole anyone?
+COVID How to Return Taxes Guns Texas Stance on Science Questionnaire Flock Cameras AI Data Centers The War on Hemp The Abbott Ad 765 kV Transmission iVoterGuide Questionnaire League of Women Voters General Election Voters Guide Marijuana Policy Project/Texas Cannabis Policy Center’s 2026 candidate survey New Braunfels Herald-Zeitung article 8/29/26 Minority Winner Israel Abbott’s Tax Plan About Greg Abbott Biblical Principles Texas Cannabis Policy Questionnaire Business DPAS-INC Sports and Outdoors CDT 2015 Bio My Journey Axyl Mail Stops About Me My Mom About PSP YouTube Channel Photos Arts Music Amazon author page Government Keep the Party Libertarian Texas Senate District 14 Lago Vista city council TX20 Policy Statements Media and Video Search for: Search Home My Mom My Mom My mom was diagnosed with PSP in 2008, when she was far too young.
 She was a wife, sister, friend, mother and grandmother to many who loved her.
-Mom was involved in everything, and friends with everyone.
+Mom with her grandchildren Mom with me and my sister in Pittsburgh Mom & her sisters at the Kelly reunion Mom & Dad on vacation Mom was involved in everything, and friends with everyone.
 She played golf, was a master gardener, a gourmet cook, and was a member of bridge clubs, golf leagues, book clubs, investment clubs, and spent hours volunteering through the Christ Child Society.
 She was the life of the party, and never missed one!
 PSP is a fatal disease and over the course of 5 years it took a toll on my mom.
@@ -16,5 +18,15 @@ My hope is that this hike, and this website, will generate research funding to h
 My mom participated in a research trial for an experimental drug that they hope might help patients like her.
 Although it was too late to save my mom, I am hopeful that these efforts will be successful in saving someone else’s mom.
 I am asking you to sponsor my hike, mile by mile, toward my goal with all donations going to CurePSP.
-Please consider making a donation to CurePSP, a wonderful organization that is working hard to find new treatments for patients.
+Please consider making a donation to CurePSP , a wonderful organization that is working hard to find new treatments for patients.
 Thank you for your support!
+2 Comments Elberta Smoak-Goldsmith March 17, 2015 at 14:06 Hi Pat!
+Frank let me know about your amazing adventure.
+Wow!
+This looks so exciting.
+My parents after they retired went on a 52 day canoe adventure thru Alaska’s Inland Passage.
+Can’t wait to see all your pictures and hear the stories!
+Be safe!
+Berta Reply HeHo April 7, 2015 at 03:31 Elberta, thanks for the comment.
+If you want to get the latest updates you can follow me on Twitter @patjdixon Reply Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment Name * Email * Website Save my name, email, and site URL in my browser for next time I post a comment. Δ CDT Menu Bio Axyl My Journey Mail Stops My CDT Blog About Me My Mom About PSP YouTube Channel Photos Powered by Nirvana & WordPress.

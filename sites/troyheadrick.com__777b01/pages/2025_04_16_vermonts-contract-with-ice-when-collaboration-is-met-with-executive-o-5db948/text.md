@@ -1,5 +1,4 @@
-Vermont’s Contract with ICE: When Collaboration Is Met With Executive Obstruction
-Over the past two weeks, the House Committee on Corrections and Institutions has been engaged in careful, quiet work around the pressing issue that is the State of Vermont’s existing Memorandum of Understanding (MOU) between the Department of Corrections (DOC) and U.S.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Legislative Updates / Vermont’s Contract with ICE: When Collaboration Is Met With Executive Obstruction April 16, 2025 Over the past two weeks, the House Committee on Corrections and Institutions has been engaged in careful, quiet work around the pressing issue that is the State of Vermont’s existing Memorandum of Understanding (MOU) between the Department of Corrections (DOC) and U.S.
 Immigration and Customs Enforcement (ICE).
 This MOU ties Vermont’s correctional system to an agency that has become increasingly politicized and hostile to civil liberties under the Trump administration.
 While it is understandable that some might prefer to avoid drawing attention to that relationship, it is not understandable (nor acceptable) for the Governor to actively obstruct our committee’s work to address it.
@@ -25,9 +24,8 @@ Vermonters deserve a government that works.
 They deserve leadership that doesn’t hide behind cautious rhetoric when real change is on the table.
 And they deserve the truth about who is standing in the way.
 If you believe that Vermont should not be complicit in ICE’s civil liberties violations, and that the legislature should be allowed to do its work without executive obstruction, I encourage you to contact the Governor’s office directly.
-Call: (802) 828-3333
-Let the Governor know that it’s time to step aside and let the Department of Corrections move forward.
+Call: (802) 828-3333 Email Link Let the Governor know that it’s time to step aside and let the Department of Corrections move forward.
 Quiet collaboration has been offered.
 The ball is now in his court.
-Troy Headrick
-Ranking Member, House Committee on Corrections and Institutions
+Troy Headrick Ranking Member, House Committee on Corrections and Institutions < Celebrating Optimism for UVM > Explaining my NO vote on the education reform bill.
+Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

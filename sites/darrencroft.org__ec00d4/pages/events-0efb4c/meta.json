@@ -1,7 +1,11 @@
 {
  "description": "Upcoming events including those dedicated to meeting Darren, and those with multiple candidates.",
  "final_url": "https://darrencroft.org/events/",
- "paid_for_by": null,
+ "fingerprint": "e341495da7f6fe7b7b69421c2498d53277c5c098",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Campaign Events - Darren Croft for Utah House District 41",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

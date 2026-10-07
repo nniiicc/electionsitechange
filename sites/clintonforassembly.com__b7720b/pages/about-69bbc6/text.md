@@ -1,5 +1,4 @@
-Meet Representative Clinton Anderson
-Clinton Anderson has been a lifelong Beloit resident.
+0 Skip to Content Home About Issues Events Endorsements Donate Open Menu Close Menu Open Menu Close Menu Home About Issues Events Endorsements Donate Home About Issues Events Endorsements Donate Meet Representative Clinton Anderson Clinton Anderson has been a lifelong Beloit resident.
 He is a proud product of the School District of Beloit.
 He graduated from Beloit Memorial in 2011.
 Clinton has earned his Associate's Degree from UW - Rock County in 2016 and a degree in Psychology from UW - Whitewater in 2018.
@@ -13,3 +12,5 @@ Clinton served on the Board of Directors for Beloit Meals on Wheels.
 They provide daily nutritious meals to the homebound elderly, ill and disabled.
 He has previously served as a hockey coach for the Beloit Youth Hockey Association.
 Clinton currently resides in Beloit with his wife Danielle and their dog Sully.
+Email: admin@clintonforassembly.com Phone: +1 (608) 302-7913 Donate Paid for by Friends of Clinton Anderson 2282 Bootmaker Dr.
+Beloit, WI 53511

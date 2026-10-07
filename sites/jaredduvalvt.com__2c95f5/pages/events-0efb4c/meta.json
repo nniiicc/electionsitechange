@@ -1,7 +1,12 @@
 {
  "description": "Campaign Announcement & Launch! State House Lawn Monday, April 27, 2026 12:00 PM - 1:00 PM",
  "final_url": "https://www.jaredduvalvt.com/events",
- "paid_for_by": null,
- "title": "Events \u2014 Jared for House 2026",
- "years_mentioned": []
+ "fingerprint": "4aa77cd7804ac9c4a87e88e8a10901ef4da3d25e",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Events — Jared for House 2026",
+ "years_mentioned": [
+  "2022",
+  "2026"
+ ]
 }

@@ -1,12 +1,50 @@
 [
-"http://facebook.com/jackpatricklewis",
-"http://instagram.com/jackpatricklewis",
-"https://electjacklewis.com/",
-"https://electjacklewis.com/about-jack",
-"https://electjacklewis.com/ballot",
-"https://electjacklewis.com/cart",
-"https://electjacklewis.com/endorsements",
-"https://electjacklewis.com/policy",
-"https://electjacklewis.com/updates",
-"https://secure.actblue.com/donate/electjacklewis"
+{
+"text": "0",
+"href": "https://www.electjacklewis.com/cart"
+},
+{
+"text": "ABOUT JACK",
+"href": "https://www.electjacklewis.com/about-jack"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/electjacklewis"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.electjacklewis.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.electjacklewis.com/"
+},
+{
+"text": "POLICY",
+"href": "https://www.electjacklewis.com/policy"
+},
+{
+"text": "REQUEST BALLOT",
+"href": "https://www.electjacklewis.com/ballot"
+},
+{
+"text": "UPDATES",
+"href": "https://www.electjacklewis.com/updates"
+},
+{
+"text": "[image: Re-Elect Jack Patrick Lewis]",
+"href": "https://www.electjacklewis.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/jackpatricklewis"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/jackpatricklewis"
+},
+{
+"text": "jack@electjacklewis.com",
+"href": "mailto:jack@electjacklewis.com"
+}
 ]

@@ -1,10 +1,3 @@
-Back to All Events
-The Woollybear Festival is the largest one-day festival in Ohio, held annually in downtown Vermilion, Ohio.
+0 Skip to Content Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Back to All Events Woollybear Festival and Parade Sunday, October 4, 2026 9:00 AM 5:00 PM Victory Park 687 Main Street Vermilion, Ohio, 44089 United States (map) Google Calendar ICS The Woollybear Festival is the largest one-day festival in Ohio, held annually in downtown Vermilion, Ohio.
 Founded in 1973 by the late Fox 8 meteorologist Dick Goddard, the festival celebrates the fuzzy woolly bear caterpillar and the folklore that its black and orange stripes can predict winter weather.
-Previous
-Previous
-October 3
-Avon Arbor Day Celebration
-Next
-Next
-October 5
+Previous Previous October 3 Avon Arbor Day Celebration Next Next October 5 Town Hall on Data Centers with Representative Rader DONATE Paid for by Friends of Joe Miller ©# FRIENDS OF JOE MILLER PRIVACY POLICY

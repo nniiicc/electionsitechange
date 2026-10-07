@@ -1,15 +1,110 @@
 [
-"https://facebook.com/MohlerForIowa",
-"https://iowaledger.com/",
-"https://mohlerforiowa.com/",
-"https://mohlerforiowa.com/agenda.html",
-"https://mohlerforiowa.com/district-map.html",
-"https://mohlerforiowa.com/harris-record.html",
-"https://mohlerforiowa.com/privacy.html",
-"https://mohlerforiowa.com/where-iowa-ranks.html",
-"https://secure.actblue.com/donate/mohlerforiowa",
-"https://secure.actblue.com/donate/mohlerforiowa?amount=10",
-"https://secure.actblue.com/donate/mohlerforiowa?amount=100",
-"https://secure.actblue.com/donate/mohlerforiowa?amount=25",
-"https://secure.actblue.com/donate/mohlerforiowa?amount=50"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/mohlerforiowa?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/mohlerforiowa?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/mohlerforiowa?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/mohlerforiowa?amount=50"
+},
+{
+"text": "About Brett",
+"href": "https://mohlerforiowa.com/#about"
+},
+{
+"text": "Accountability",
+"href": "https://iowaledger.com"
+},
+{
+"text": "Contact",
+"href": "https://mohlerforiowa.com/#contact"
+},
+{
+"text": "Contribute Any Amount",
+"href": "https://secure.actblue.com/donate/mohlerforiowa"
+},
+{
+"text": "Disclaimer",
+"href": "https://mohlerforiowa.com/privacy.html"
+},
+{
+"text": "District Map",
+"href": "https://mohlerforiowa.com/district-map.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mohlerforiowa"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/MohlerForIowa"
+},
+{
+"text": "Iowa Ledger",
+"href": "https://iowaledger.com"
+},
+{
+"text": "Issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Open Iowa Ledger",
+"href": "https://iowaledger.com"
+},
+{
+"text": "Open the full district map",
+"href": "https://mohlerforiowa.com/district-map.html"
+},
+{
+"text": "Platform",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mohlerforiowa.com/privacy.html"
+},
+{
+"text": "Read the Harris File",
+"href": "https://mohlerforiowa.com/harris-record.html"
+},
+{
+"text": "See Where Iowa Ranks",
+"href": "https://mohlerforiowa.com/where-iowa-ranks.html"
+},
+{
+"text": "The Agenda",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "The District",
+"href": "https://mohlerforiowa.com/#district"
+},
+{
+"text": "The Harris File",
+"href": "https://mohlerforiowa.com/harris-record.html"
+},
+{
+"text": "The Issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://mohlerforiowa.com/#volunteer"
+},
+{
+"text": "Where Iowa Ranks",
+"href": "https://mohlerforiowa.com/where-iowa-ranks.html"
+},
+{
+"text": "[image: Mohler for Iowa]",
+"href": "https://mohlerforiowa.com/"
+}
 ]

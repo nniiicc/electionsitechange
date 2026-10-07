@@ -1,58 +1,274 @@
 [
-"http://webserver1.lsb.state.ok.us/cf/2019-20 SUPPORT DOCUMENTS/votes/House/HB3195_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2019-20 SUPPORT DOCUMENTS/votes/House/HB3967_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB2336_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB2591_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB2597_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB3195_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/SB1081_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/SB1946_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22 SUPPORT DOCUMENTS/votes/House/HB2034_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22 SUPPORT DOCUMENTS/votes/House/HB2648_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22 SUPPORT DOCUMENTS/votes/House/HB4388_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22 SUPPORT DOCUMENTS/votes/House/SB1080_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22 SUPPORT DOCUMENTS/votes/House/SB615_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22 SUPPORT DOCUMENTS/votes/House/SB783_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB1236_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB1674_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB1775_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB2030_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB2962_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB3364_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB4245_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB4388_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/SB1503_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/SB523_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/SB631_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/SB783_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2023-24 SUPPORT DOCUMENTS/votes/House/HB2775_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2023-24 SUPPORT DOCUMENTS/votes/House/SB1450_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/HB1449_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/HB1934_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/HB2903_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/HB2950_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/SB1854_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/SB1994_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/SB362_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/SB377_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/SB426_VOTES.HTM",
-"http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/SJR34_VOTES.HTM",
-"https://facebook.com/HassinkforHD79",
-"https://hassinkok.com/",
-"https://hassinkok.com/author/hassinkok",
-"https://hassinkok.com/contact",
-"https://hassinkok.com/donate",
-"https://hassinkok.com/endorsements",
-"https://hassinkok.com/issues",
-"https://hassinkok.com/links",
-"https://hassinkok.com/meet-paul",
-"https://hassinkok.com/privacy-policy",
-"https://hassinkok.com/recent-news",
-"https://hassinkok.com/recent-news?type=press-release",
-"https://hassinkok.com/sos",
-"https://hassinkok.com/thatisnotok",
-"https://justfacts.votesmart.org/candidate/key-votes/182035/melissa-provenzano?p=2",
-"https://justfacts.votesmart.org/interest-group/2393/planned-parenthood-great-plains-votes",
-"https://linkedin.com/in/paul-hassink-16650677/recent-activity/all",
-"https://ocpathink.org/post/independent-journalism/oklahoma-democrats-fight-to-let-men-use-womens-bathroom"
+{
+"text": "Contact",
+"href": "https://hassinkok.com/contact/"
+},
+{
+"text": "Contact me via email",
+"href": "https://hassinkok.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://hassinkok.com/donate"
+},
+{
+"text": "DONATE",
+"href": "https://hassinkok.com/donate/"
+},
+{
+"text": "Endorsed by Planned Parenthood",
+"href": "https://justfacts.votesmart.org/interest-group/2393/planned-parenthood-great-plains-votes"
+},
+{
+"text": "Endorsements",
+"href": "https://hassinkok.com/endorsements/"
+},
+{
+"text": "HB 1236",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB1236_VOTES.HTM"
+},
+{
+"text": "HB 1674",
+"href": "https://justfacts.votesmart.org/candidate/key-votes/182035/melissa-provenzano/?p=2"
+},
+{
+"text": "HB 1775",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB1775_VOTES.HTM"
+},
+{
+"text": "HB 2034",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB2034_VOTES.HTM"
+},
+{
+"text": "HB 2336",
+"href": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB2336_VOTES.HTM"
+},
+{
+"text": "HB 2591",
+"href": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB2591_VOTES.HTM"
+},
+{
+"text": "HB 2597",
+"href": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB2597_VOTES.HTM"
+},
+{
+"text": "HB 3195",
+"href": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB3195_VOTES.HTM"
+},
+{
+"text": "HB 3967",
+"href": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB3967_VOTES.HTM"
+},
+{
+"text": "HB 4245",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB4245_VOTES.HTM"
+},
+{
+"text": "HB2030",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB2030_VOTES.HTM"
+},
+{
+"text": "HB2648",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB2648_VOTES.HTM"
+},
+{
+"text": "HB2962",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB2962_VOTES.HTM"
+},
+{
+"text": "HB3364",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB3364_VOTES.HTM"
+},
+{
+"text": "HB4388",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB4388_VOTES.HTM"
+},
+{
+"text": "Home",
+"href": "https://hassinkok.com/"
+},
+{
+"text": "Issues",
+"href": "https://hassinkok.com/issues/"
+},
+{
+"text": "Learn more",
+"href": "https://ocpathink.org/post/independent-journalism/oklahoma-democrats-fight-to-let-men-use-womens-bathroom"
+},
+{
+"text": "Learn more",
+"href": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB2978_VOTES.HTM"
+},
+{
+"text": "Learn more",
+"href": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3242_VOTES.HTM"
+},
+{
+"text": "Learn more",
+"href": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB4423_VOTES.HTM"
+},
+{
+"text": "Learn more",
+"href": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB1307_VOTES.HTM%0A"
+},
+{
+"text": "Learn more",
+"href": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB1726_VOTES.HTM"
+},
+{
+"text": "Learn more",
+"href": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB1833_VOTES.HTM"
+},
+{
+"text": "Learn more",
+"href": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB20_VOTES.HTM"
+},
+{
+"text": "Meet Paul",
+"href": "https://hassinkok.com/meet-paul/"
+},
+{
+"text": "News",
+"href": "https://hassinkok.com/recent-news/"
+},
+{
+"text": "Press",
+"href": "https://hassinkok.com/recent-news/?type=press-release"
+},
+{
+"text": "Privacy Policy",
+"href": "https://hassinkok.com/privacy-policy/"
+},
+{
+"text": "Resource Links",
+"href": "https://hassinkok.com/links/"
+},
+{
+"text": "Resources",
+"href": "https://hassinkok.com/links/"
+},
+{
+"text": "SB 1081",
+"href": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/SB1081_VOTES.HTM"
+},
+{
+"text": "SB 1503",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/SB1503_VOTES.HTM"
+},
+{
+"text": "SB 1946",
+"href": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/SB1946_VOTES.HTM"
+},
+{
+"text": "SB 523",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/SB523_VOTES.HTM"
+},
+{
+"text": "SB615",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/SB615_VOTES.HTM"
+},
+{
+"text": "SB631",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/SB631_VOTES.HTM"
+},
+{
+"text": "SB783",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/SB783_VOTES.HTM"
+},
+{
+"text": "Save Oklahoma Students (SOS)",
+"href": "https://hassinkok.com/sos/"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2019-20%20SUPPORT%20DOCUMENTS/votes/House/HB3195_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB1674_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/HB4388_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/SB1080_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/SB523_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2021-22%20SUPPORT%20DOCUMENTS/votes/House/SB783_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/HB1449_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/HB1934_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/HB2775_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/HB2903_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/HB2950_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/SB1450_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/SB1854_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/SB1994_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/SB362_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/SB377_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/SB426_VOTES.HTM"
+},
+{
+"text": "See her vote",
+"href": "http://webserver1.lsb.state.ok.us/cf/2023-24%20SUPPORT%20DOCUMENTS/votes/House/SJR34_VOTES.HTM"
+},
+{
+"text": "[image]",
+"href": "https://hassinkok.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HassinkforHD79"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/paul-hassink-16650677/recent-activity/all/"
+},
+{
+"text": "hassinkok",
+"href": "https://hassinkok.com/author/hassinkok/"
+},
+{
+"text": "“ThatIsNotOK”",
+"href": "https://hassinkok.com/thatisnotok/"
+}
 ]

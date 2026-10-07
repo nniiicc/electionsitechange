@@ -1,4 +1,5 @@
-A lifelong resident of Genesee County, Michigan, Representative Jasper Martus (MI-69th House District) became one of the youngest legislators elected to office during the Nov. 2022 election.
+Skip to main content Scroll Top   Volunteer   Yard Sign Menu Close Meet Jasper Accomplishments Priorities Endorsements In The News Yard Sign Donate Meet Jasper Accomplishments Priorities In The News Endorsements Donate MSU Alumnus represents MI-69th House district    April 18, 2023 A lifelong resident of Genesee County, Michigan, Representative Jasper Martus (MI-69th House District) became one of the youngest legislators elected to office during the Nov.
+2022 election.
 Rep.
 Martus earned a degree in international relations with a minor in world religions in May 2021.
 As a student, Rep.
@@ -52,6 +53,6 @@ I had some fantastic professors: Rodney Phillips, Melissa Fore, Norman Graham, Y
 I’ve relied on the lessons they taught.
 I never walk into a room thinking that I know it all.
 I want to seek out the folks that do know a lot more than me, and I learned that skill at James Madison.
-Written by: Claire Smith
-Article originally published by Michigan State University
-View original article here.
+Written by: Claire Smith Article originally published by Michigan State University View original article here .
+Recent Posts AG Dana Nessel teaches Mid-Michigan seniors to avoid scams February 25, 2024 Representative Martus addresses city council December 23, 2023 Democrats helped Michigan workers with tax, jobs, other measures November 15, 2023 Learn about MI Research and Development tax credit November 14, 2023 UAW members testify in favor of just energy transition office legislation September 21, 2023 Meet Jasper Accomplishments Priorities Endorsements In The News Yard Sign Donate PAID FOR BY THE COMMITTEE TO ELECT JASPER MARTUS P.O.
+BOX 165 Flushing, MI 48433 jasper@jaspermartus.com

@@ -1,4 +1,5 @@
-Over the last 6 years, this President has consistently proven that he is a better campaigner than leader, more interested in political rhetoric than running the government.
+Skip to content Home Meet David Issues News Coalitions Contact Volunteer Contribute Sign Up for Updates Email (Required) Zip (Required) Subscribe Join Our Fight Today!
+Contribute Holding President Obama Accountable August 6, 2014 Over the last 6 years, this President has consistently proven that he is a better campaigner than leader, more interested in political rhetoric than running the government.
 That has never been more clear than with the disastrous scandal involving the Veterans’ Affairs Administration.
 Thousands of veterans have been placed on inexcusably long wait lists due to mismanagement and deceptive practices in offices around the country.
 Our men and women in uniform and their families make tremendous sacrifices to protect our freedoms and they deserve more from the federal government than accounting tricks and interminable waiting periods.
@@ -10,3 +11,4 @@ The Veterans’ Access, Choice, and Accountability Act is an important step forw
 This is the the kind of legislation I will support and advance if I’m elected to Congress.
 I was encouraged to see this legislation move so quickly through the House and Senate over the last month, and I’m reminded once again how important it is that we have strong conservative leadership in Washington.
 With strong conservatives in Congress, we can continue to hold the President and the leaders of the Veterans’ Affairs Administration accountable.
+Contribute Meet David Issues News Coalitions Contact Volunteer PAID FOR BY DAVID ROUZER FOR CONGRESS PO BOX 3142, WILMINGTON, NC 28406 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

@@ -1,33 +1,193 @@
-Your Voice Matters
-I hope you all had a wonderful Pioneer Day celebrating our state’s rich heritage of community, courage, and taking action for a better future.
+Home Meet Stephanie Issues Recent Updates Select Page Your Voice Matters Aug 31, 2025 I hope you all had a wonderful Pioneer Day celebrating our state’s rich heritage of community, courage, and taking action for a better future.
 As your Representative, I want you to know that same pioneering spirit lives on when you get involved and there’s no better time than now.
 Interim meetings started yesterday and will continue throughout today, and I encourage you to join us.
-Committee meetings are open to the public, whether you’d like to attend in person or stream them online at le.utah.gov.
+Committee meetings are open to the public, whether you’d like to attend in person or stream them online at le.utah.gov .
 There, you can also check schedules, read agendas, and watch recordings of past meetings.
 Your input shapes the decisions we make, so I hope to see you engaged and speaking up for our community!
-Utah’s Bold Crackdown on Fentanyl is Saving Lives
-Utah is cracking down on fentanyl like never before – and it’s working.
-Thanks to H.B. 87 and the coordinated efforts of the Fentanyl Task Force, the state has already seized 4.3 million units of fentanyl in the first half of 2025 – nearly matching all of last year’s record haul.
+Utah’s Bold Crackdown on Fentanyl is Saving Lives Utah is cracking down on fentanyl like never before – and it’s working.
+Thanks to H.B.
+87 and the coordinated efforts of the Fentanyl Task Force, the state has already seized 4.3 million units of fentanyl in the first half of 2025 – nearly matching all of last year’s record haul.
 Overdose deaths are also down compared to last year, a hopeful sign that these tough measures are saving lives.
 With strict new felony charges for major traffickers and law enforcement sending a clear message that fentanyl won’t be tolerated here, Utah is proving that bold action can protect communities from this deadly opioid.
-Utah Leads the Way in AI Innovation and Consumer Protection
-Utah isn’t just participating in the AI race: we’re helping shape its future.
-Thanks in part to legislation passed this last session, Utah recently ranked third in the nation for AI preparedness.
+Utah Leads the Way in AI Innovation and Consumer Protection Utah isn’t just participating in the AI race: we’re helping shape its future.
+Thanks in part to legislation passed this last session , Utah recently ranked third in the nation for AI preparedness.
 We are proving that innovation and consumer privacy can thrive together.
 The state is leading the way with practical policies that encourage tech growth while safeguarding Utahns’ data and rights.
 By supporting smart AI legislation in the Legislature, Utah is making sure the Beehive State remains a hub for cutting-edge technology without compromising on protecting its people.
-Running Toward Rehabilitation
-At the Utah State Correctional Facility, inmates recently ran a half-marathon organized by the Fit From Within club – an inspiring program founded by incarcerated individuals aiming to support rehabilitation and reintegration through running.
+Running Toward Rehabilitation At the Utah State Correctional Facility, inmates recently ran a half-marathon organized by the Fit From Within club – an inspiring program founded by incarcerated individuals aiming to support rehabilitation and reintegration through running.
 This initiative, which has been embraced by lawmakers, reflects the Legislature’s growing commitment to fostering programs that promote mental and physical health, reduce violence, and prepare inmates for successful reentry into society.
 By supporting legislation that funds such efforts and encourages healthy habits, Utah is investing in real, transformative rehabilitation that helps break the cycle of incarceration and builds hope for a better future.
-Utah’s Fight to Keep Public Lands in Public Hands
-The federal government currently controls more land in Utah than anywhere else in the nation, except Nevada – over 70% of our entire state!
+Utah’s Fight to Keep Public Lands in Public Hands The federal government currently controls more land in Utah than anywhere else in the nation, except Nevada – over 70% of our entire state!
 From wildfire mitigation to flood control, we have proven time and time again that Utah deserves priority when it comes to managing its land.
 Listen to the House’s latest podcast episode as Rep.
 Logan Monson talks with Redge Johnson, director of Utah’s Public Lands Policy Coordinating Office, about Utah’s continued fight to keep public lands in public hands.
 Click here to listen.
-Safeguarding Nation Security at the State Level
-Utah is leading the way in safeguarding our land and military assets.
+Safeguarding Nation Security at the State Level Utah is leading the way in safeguarding our land and military assets.
 A state law passed in 2023 and strengthened in 2024, which prevents restricted foreign entities from purchasing land in the state, blocked a land purchase last month.
 As foreign adversaries like China seek greater influence, Utah is showing how states can take proactive steps to defend their communities and critical assets.
 Utah’s example underscores the vital role states play in safeguarding America’s future.
+Breaking Ground on a Brighter Future for Eagle Mountain and More Jul 30, 2025 Breaking Ground on a Brighter Future for Eagle Mountain On June 20th, we officially broke ground on a brand-new high school in Saratoga Springs.
+This exciting project will be part of the newly created Lake Mountain School District, serving families in both Saratoga Springs and Eagle Mountain.
+I was proud to sponsor S.B.
+188 in the House, which ensured the Alpine School District issued the bond that made this vision a reality.
+This marks a major win for our students and a significant investment in the future of our growing community.
+Building Policy for Utah During June’s interim meetings, my colleagues and I met to dig into some of the biggest issues facing our state.
+From healthcare costs to wildfire preparedness, school safety, and emerging technologies like artificial intelligence, we’re laying the groundwork for smart policy.
+These meetings help us study complex topics, hear from experts, and prepare impactful, effective legislation for the upcoming session.
+I’m committed to making sure your voice is part of these conversations, and I’ll keep working hard to represent your values every step of the way.
+Our next meetings will resume on August 19-20 and I hope to see you there!
+Follow along at le.utah.gov .
+Commonsense Stewardship We’re celebrating a big win for Utah!
+For years, outdated federal restrictions blocked access to millions of acres of forestland, tying our hands and preventing the kind of proven, proactive management needed to protect our communities.
+That’s finally changing.
+Thanks to a critical policy shift, Utah now has more authority to clear hazardous fuels, improve firefighter access, and take meaningful steps to reduce the risk of catastrophic wildfires.
+This is commonsense stewardship in action.
+It means healthier forests, stronger rural economies, a potential for more recreation opportunities, and more resilient communities—all through smarter, locally driven management.
+This victory didn’t happen overnight.
+It’s been a top priority for state leaders and took a team effort to get across the finish line.
+Utahns know these lands best and now, we’re finally more empowered to take care of them.
+Keeping Utah Land in Trusted Hands Over the years, the Legislature has taken proactive steps to ensure that Utah land is owned by Utahns, not foreign governments.
+HB 516 (2024) State Land Purchase Amendments put important safeguards in place to keep hostile foreign government-controlled entities from purchasing land in our state.
+That means companies owned or controlled by countries like China, Iran, North Korea, and Russia are prohibited from buying property here.
+If they somehow do, they’re required to sell it within a year, or the state will step in.
+This is a commonsense policy to strengthen local control and protect Utah’s land, resources, and communities from hostile foreign governments and ensure ownership stays in trustworthy hands.
+Health, Freedom, and Utah’s Bold Moves In the latest episode of the House podcast, I join my colleagues Speaker Mike Schultz and Rep.
+Kristen Chevrier to break down Utah’s bold new health reforms, from banning fluoride in public water to eliminating food dyes in schools and limiting soda purchases with SNAP.
+They dive into why Utah is leading the way on parental rights, medical freedom, real nutrition, and how state-led action can spark national change.
+Check out the full episode here .
+Practicing Fire Sense Fire season in Utah is already underway—and it’s shaping up to be particularly challenging.
+To protect our homes and the wild lands we love, it’s important to take the proper precautions and practice fire sense , especially with the upcoming holidays.
+For more information on the current fire conditions in our area check out UtahFireInfo.gov .
+By staying alert, informed, and proactive, we can safeguard our families and landscapes.
+Let’s all do our part this fire season.
+Celebrating Utah’s Legacy of Freedom I hope everyone had a wonderful Fourth of July!
+As we turn the page toward Pioneer Day, let’s keep that same spirit of gratitude and community alive.
+Utah’s pioneer heritage reminds us that courage, perseverance, and helping our neighbors are still at the heart of who we are.
+Whether you’re planning a parade, a hike, or a backyard barbecue, let’s celebrate the freedoms we enjoy and the pioneering legacy that built this incredible state.
+Stay safe, have fun, and happy Pioneer Day, Utah!
+From the Committee Room to Your Community Jun 30, 2025 Our first interim meetings of the year kicked off last month, where I joined my colleagues as we dove into the big issues that matter to Utahns.
+Covering topics like education, housing, and public safety, our committees reviewed priorities and set the groundwork for meaningful policy.
+Digging into complex issues and listening to both experts and constituents helps ensure our laws keep pace with the real needs of everyday people.
+I’d love for you to follow along and be part of the process.
+Our next interim meetings are scheduled for June 17 and 18.
+You’re welcome to join us in person at the Capitol or tune in live at le.utah.gov .
+These conversations shape the future of our state, and your voice matters every step of the way.
+Reshaping Higher Education for Utah’s Future As a state, we’re taking bold steps to make higher education even more affordable, accessible, and relevant for Utah students.
+Under the direction of HB 265 , public colleges and universities are developing proposals to reevaluate underperforming programs, cut administrative costs, and strategically reinvest in high-demand programs that lead to careers in healthcare, engineering, AI, and other high-impact fields.
+By streamlining degree requirements, capping most bachelor’s programs at 120 credit hours, and emphasizing both technical training and essential soft skills, Utah is building a higher education system that’s more responsive to students’ interests and employers’ needs.
+This approach not only benefits students but also strengthens the state’s economy by preparing a workforce ready to meet tomorrow’s challenges.
+Learn more here .
+Farmers First I’m proud to share recent initiatives that prioritize our farmers and ranchers.
+The Utah Department of Agriculture and Food, with input from Utah leaders, launched a program to protect working farms and ranches and ensure they can remain productive for future generations.
+Additionally, the Agricultural Water Optimization Program is helping farmers modernize irrigation systems, promoting water conservation in our arid climate.
+These efforts, alongside the USDA’s Farmers First policy agenda, reinforce our commitment to sustaining Utah’s farming communities and securing our state’s food future.
+The Future of Nuclear in Utah As a Legislature, we’ve worked to strengthen Utah’s all-of-the-above energy strategy , and one of the most promising frontiers in that effort is advanced nuclear technology.
+From small modular reactors (SMRs) to microreactors, we’re exploring innovative solutions that can scale to meet our growing energy needs.
+These technologies provide stable, reliable power to support our population and industries.
+By investing in nuclear innovation, Utah is staying true to our commitment to providing reliable and affordable energy for all Utahns.
+Legislative Action for Safer Streets in Our Capitol City Keeping our communities safe is a top priority, and recent efforts in Salt Lake City reflect a comprehensive approach to public safety.
+Under the leadership of Police Chief Brian Redd, the city is addressing challenges such as staffing shortages, the spread of illegal substances, and the intersection of crime, addiction, and homelessness.
+The Utah Legislature has supported these efforts by passing bills like: H.B.
+329 , establishing a zero-tolerance policy for drugs in homeless shelters H.B.
+199 , providing tools to address nuisance properties H.B.
+465 , enhancing state-local cooperation to improve public safety in Salt Lake City.
+These combined efforts aim to create a safer environment in our capital city.
+Listen to the latest episode of our House Rules podcast to learn more.
+Utah’s Newest State Park, 100 Million Years in the Making Adventure just got a prehistoric upgrade.
+Utahraptor State Park is officially open, welcoming visitors to explore 6,500 acres of stunning red rock desert just outside Moab.
+Named after the fierce dinosaur whose fossils were discovered in the area, the park offers something for everyone—mountain biking, off-roading, hiking, and a brand-new campground with 67 campsites.
+History buffs can also visit the Dalton Wells Quarry, a major fossil site with a layered past that includes ties to the Civilian Conservation Corps and WWII-era internment.
+Whether you’re after ancient history or epic trails, Utahraptor is ready to explore.
+For more information on visiting Utahraptor State Park, including campground reservations and trail maps, visit the Utah State Parks website .
+Interim is Here – Get Involved!
+May 30, 2025 While the legislative session officially wraps up in March, the work is far from over.
+From April through November, lawmakers meet monthly in what are known as interim committees.
+These committees take a closer look at the most pressing issues facing our state—ranging from education and infrastructure to health care and economic development.
+We analyze data, hear from experts, and begin shaping the legislation that will likely be introduced in the next general session.
+This year, I’m honored to serve on the Health & Human Services committee and the Social Services Appropriations committee.
+I also have the privilege of serving as the Chair of Judiciary committee.
+The first interim meetings of 2025 are scheduled for May 20–21.
+These meetings are a key part of the lawmaking process—and a great time for you to get involved.
+You can attend in person at the Utah State Capitol or watch live online at le.utah.gov , where you’ll also find full schedules and agendas .
+This is your opportunity to see how policy takes shape and to make your voice heard.
+I’d love to hear from you, and I hope you’ll stay engaged throughout the interim.
+Leading the Nation, 18 Years and Counting For the 18th year in a row, Utah has been ranked the #1 state for economic outlook by Rich States, Poor States.
+That’s nearly two decades of smart policy, sound governance, and unstoppable momentum — and we’re just getting started.
+A generation of Utahns has grown up never knowing a time when we weren’t leading the nation.
+This ranking reflects our ongoing commitment to low taxes, a strong business climate, and policies that put Utah families first.
+We’re proud of this legacy, and we’re working every day to keep Utah on top.
+Making Every Dollar Count: How Utah Approaches Government Spending Utah’s budget is balanced and built to withstand anything – from economic swings to federal funding cuts.
+Through tough choices, wise investments, and strong rainy-day reserves, we’ve created a resilient financial foundation.
+We start fresh each year, funding only what’s necessary, and reviewing 20% of spending annually to ensure programs are effective and accountable.
+Last year alone, 26 legislative audits led to improvements in education, elections, transportation, and more.
+We’re streamlining agencies, cutting red tape, and modernizing services – all while delivering over $1.4 billion in tax cuts in the past five years.
+That’s money back in your pockets, fueling families and local businesses, not government growth.
+In Utah, we do more with less – and we’re always striving to do better.
+Watch the full video to learn more about how Utah is managing your tax dollars wisely.
+Powering Our Future Utah just took a major step toward a more reliable and resilient energy future.
+In a groundbreaking agreement with the Idaho National Laboratory ( INL ), state leaders are advancing next-generation nuclear energy through research, workforce development, and real-world innovation.
+This partnership connects our universities, energy experts, and industry leaders to drive clean, affordable, and secure power solutions.
+By establishing an Advanced Nuclear and Energy Institute, Utah is investing in long-term energy stability: keeping the lights on, growing our economy, and securing our place as a national energy leader for decades to come.
+Keeping Utah Healthy Utah is setting the standard for healthier communities with bold new legislation passed this session to improve the well-being of families across the state.
+We became the first in the nation to ban fluoride in drinking water, prohibited soda purchases with SNAP benefits , and eliminated synthetic dyes from school meals — all part of a broader push to ensure cleaner, safer, and more nutritious choices.
+The movement is gaining national attention: Health and Human Services Secretary Robert F.
+Kennedy Jr. visited Utah to celebrate this progress and highlight our role in the “Make America Healthy Again” initiative.
+Just this month, the FDA followed our lead by announcing a nationwide phase-out of petroleum-based food dyes.
+Utah is proud to be leading the way.
+April Newsletter Apr 30, 2025 Continuing to Serve You The 2025 General Legislative Session has come to a close, and we took significant steps to better the lives of Utahns.
+From supporting our educators with salary increases and funding career and technical education ( CTE ) programs to reducing taxes and making homeownership more attainable , we accomplished key initiatives that will strengthen our state.
+We also took bold steps to enhance public safety , combat fentanyl trafficking , and streamline the transportation procurement process.
+The work doesn’t stop here.
+Throughout the year, we will meet together as legislators in our monthly interim meetings to begin preparing and drafting legislation for the upcoming year.
+The interim process begins in May, providing a valuable opportunity for Utahns to get involved, share their perspectives, and help shape future policies.
+Your voice matters — join us in building an even stronger Utah.
+Utah: The Best Place to Start a Business tah has once again proven to be a leader in economic opportunity, ranking as the number one state in the nation to start a business.
+This recognition reflects our commitment to fostering a pro-business environment through low startup costs, competitive tax policies, and strong access to capital.
+Entrepreneurs and small business owners are the backbone of our economy, and we are dedicated to ensuring they have the resources and support they need to succeed.
+Whether it’s reducing regulatory hurdles or strengthening workforce development, Utah will continue to champion policies that empower innovation, fuel job creation, and keep our state a hub for economic prosperity.
+Leading the Nation in Self-Reliance Utah’s commitment to fiscal responsibility has once again set us apart.
+Ranked as one of the least federally dependent states in the nation, we take pride in managing our resources wisely.
+Our state constitution requires a balanced budget, and we believe in living within our means.
+Utah’s strong economy and sound financial management ensure we remain self-reliant and resilient — a reflection of our dedication to responsible governance.
+Investing in Rural Education Every child in Utah, no matter where they live, deserves access to a high-quality education.
+This session, we worked closely with rural communities to ensure that small schools have the funding and resources they need to provide excellent teachers, principals, bus drivers, and support staff.
+By strengthening the funding formula, we are helping rural schools continue opening doors of opportunity for students now and in the future.
+Investing in rural education means investing in the success of every Utah student, in every corner of our state.
+Supporting Utah Families on the Journey to Parenthood Family is at the heart of Utah’s values, and we are committed to supporting those who dream of starting one.
+This session, we took an important step to help public employees facing infertility by expanding health coverage to include in vitro fertilization ( IVF ).
+For many, the cost of fertility treatments is a major barrier to building a family, and this change ensures that more Utahns have the opportunity to welcome children into their lives.
+Strengthening families strengthens our communities, and we are proud to stand with those on their journey to parenthood.
+Empowering Future Leaders Too many students graduate without a clear understanding of the principles that form the foundation of our republic.
+That’s why this past session, we established the Center for Civic Excellence at Utah State University to ensure future generations are equipped with the knowledge needed to uphold liberty, justice, and self-governance.
+By studying the foundational texts and ideas that shaped America and the Western world, students will gain a deeper appreciation for our nation’s values and institutions.
+This initiative is a commitment to preserving the freedoms we cherish and preparing the leaders of tomorrow.
+Last Week of the 2025 General Session Mar 7, 2025 As your legislator, I am deeply proud of all that we have been able to accomplish during the 2025 General Legislative Session.
+Over seven weeks, we passed legislation to strengthen our economy, invest in education, enhance public safety, and secure Utah’s future.
+We gave teachers a $1,446 pay raise, expanded Career & Technical Education ( CTE ) programs, and cut taxes to provide relief for families and businesses.
+We invested in transportation, energy production , and water infrastructure while enacting policies to make homeownership more attainable.
+To keep Utah safe, we increased criminal penalties and cracked down on illegal immigrants who commit crimes.
+We also strengthened our election security while preserving vote-by-mail and put safeguards in place to keep government agencies accountable.
+These achievements reflect our commitment to building a stronger, safer, and more prosperous Utah.
+While the session has ended, our work continues.
+I look forward to hearing from you and working together to keep our state the best place to live, work, and raise a family.
+Tax Relief for Utah Families Over the last five years, the Legislature has cut taxes by more than $1.4 billion.
+This year, we’re continuing to build on the previous years’ savings by: Reducing the income tax rate to 4.5% Eliminating the income tax on social security for individuals earning up to $90,000 Expanding the child tax credit for children up to 6 years old Providing a tax credit for businesses that build and operate a childcare facility for their employees These incremental, consistent tax cuts build upon each other and, over time, add up to significant savings for Utahns, especially for those living on a budget.
+A young family with two kids making $75,000 a year has saved over $1,200 thanks to these cuts, and an individual living on social security has saved $4,545.
+That’s real money that will make a real difference for hard-working Utahns, and we’re putting it back where it belongs – in your pockets.
+Honoring Our Firefighters Our firefighters risk their lives daily to protect our communities, facing not only immediate dangers but also long-term health risks.
+In fact, cancer is a leading cause of death among firefighters, with 60% of line-of-duty deaths linked to occupational cancers.
+HB 65 expands access to cancer screenings, early detection, and necessary medical benefits.
+We extend our heartfelt gratitude to all firefighters and are committed to protecting those who protect Utah’s communities.
+Fiscal Responsibility If you want to understand what matters most to our state, look at where we invest our dollars.
+This year, we’re prioritizing investments that will make a lasting impact.
+The largest share—over 45%—goes directly to public education, demonstrating our commitment to students, teachers, and the future workforce of our state.
+We’re increasing teacher pay to support the educators who shape the next generation, modernizing infrastructure to strengthen Utah’s energy, water, and transportation systems, and enhancing public safety to keep our communities secure.
+These strategic allocations ensure that our state remains strong, resilient, and prepared for the future.
+Transparency and accountability are at the core of our budgeting process.
+To see exactly how your tax dollars are being spent, visit our Taxpayer Receipt Tool here .
+Together, we’re building a better Utah.
+Safe Communities, Safe Utah Utah is one of the safest states in the nation, thanks to our strong families, communities, and proactive approach to public safety.
+However, new challenges, including the impacts of the Southern Border crisis, gang violence, and fentanyl trafficking, require us to take further action to protect our neighborhoods and hold criminals accountable.
+This session, we took real steps to ensure that our communities remain safe by increasing penalties for drug traffickers , particularly those distributing dangerous substances like fentanyl, to curb the devastating effects of illicit drug activity.
+At the same time, we are cracking down on gang-related crimes by imposing stricter consequences for those who bring violence and crime into our communities.
+These measures build on our continued investments in crime prevention, accountability, and rehabilitation , ensuring that Utah remains a safe place to live, work, and raise a family. « Older Entries Next Entries » Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 1 + 7 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

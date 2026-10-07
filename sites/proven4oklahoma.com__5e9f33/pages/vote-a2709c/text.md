@@ -1,6 +1,3 @@
-Voter Information
-Do you live in House District 79?
-Visit the OK Voter Portal to:
-View your registration, find your polling location, request an absentee ballot and view your sample ballot
-Provenzano for House District 79 2026
-Powered by CampaignPartner.com - Political Campaign Websites
+Home Bio Issues Key Wins Capitol Updates Contact Voter Information Do you live in House District 79?
+Visit the OK Voter Portal to: View your registration, find your polling location, request an absentee ballot and view your sample ballot VOLUNTEER VOTING INFO CONTRIBUTE YARD SIGN Get Updates Thank you for signing up!
+News Provenzano Appointed to LOFT Commission Provenzano Appointed to House Democratic Leadership Team Full Coverage for Diagnostic Mammograms now law Diagnostic Mammogram Bill Passes the Senate Diagnostic Mammogram Bill Passes the House Provenzano for House District 79 2026 Powered by CampaignPartner.com - Political Campaign Websites Home Bio Issues Key Wins YARD SIGN (Free!) Volunteer Contribute Voter Information Contact Close Menu

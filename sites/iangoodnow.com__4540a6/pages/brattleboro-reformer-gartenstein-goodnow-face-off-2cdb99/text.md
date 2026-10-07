@@ -1,5 +1,4 @@
-Brattleboro Reformer: Gartenstein, Goodnow face off
-Do you have an issue or issues of focus?
+Menu Close About In the News Issues Endorsements Contact Donate Ian Goodnow for Vermont State Representative About In the News Issues Endorsements Contact Donate Brattleboro Reformer: Gartenstein, Goodnow face off Ian Goodnow for State Representative on June 14, 2024 Do you have an issue or issues of focus?
 Goodnow: I am part of the next generation of professionals trying to make life sustainable in Vermont.
 The issues that focus my campaign are informed by this experience.
 It is essential that Vermont be an affordable and supportive place for people of all ages who want to live, work and succeed here.
@@ -12,4 +11,4 @@ Because Brattleboro is the area’s regional economic hub, our residents pay dis
 I am committed to the public schools and will work to provide the best available educational system for our children.
 My work as a prosecutor brings me face to face every day with public safety issues, and making sure our laws parallel our shared values is very important.
 I have particular interest in the intersection of Vermont’s criminal justice and mental health care systems, and I would like to try and fix those laws.
-Brattleboro Reformer
+Brattleboro Reformer Read the full story Category: In the News Post navigation Previous: Previous post: Michael Antonucci: Ian Goodnow for Windham 9 District Next: Next post: Steve West: Ian Goodnow for Windham 9 District Footer Contact Ian today Email: iangoodnowvt@gmail.com Phone: 802-416-9880 Donate Get In Touch Follow Ian on social media Instagram Facebook Copyright # Ian Goodnow for State Representative

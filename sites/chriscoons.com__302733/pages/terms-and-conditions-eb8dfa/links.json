@@ -1,15 +1,70 @@
 [
-"https://chriscoons.com/",
-"https://chriscoons.com/act-now",
-"https://chriscoons.com/meet-chris",
-"https://chriscoons.com/priorities",
-"https://chriscoons.com/privacy-policy",
-"https://chriscoons.com/terms-and-conditions",
-"https://facebook.com/chriscoons",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.chriscoons.com%2Fterms-and-conditions%2F",
-"https://instagram.com/chriscoonsforde",
-"https://secure.actblue.com/contribute/page/chriscoons.com",
-"https://x.com/ChrisCoonsforDE",
-"https://x.com/intent/tweet?text=Text+Messaging+Terms+%26amp%3B+Conditions&url=https%3A%2F%2Fwww.chriscoons.com%2Fterms-and-conditions%2F",
-"https://youtube.com/channel/UC6s_03P_7OoOZQkqxyPKpfg/videos"
+{
+"text": "302-322-1140",
+"href": "tel:302-322-1140"
+},
+{
+"text": "Act Now",
+"href": "https://www.chriscoons.com/act-now/"
+},
+{
+"text": "Chris Coons [image: Chris Coons]",
+"href": "https://www.chriscoons.com"
+},
+{
+"text": "Contact",
+"href": "mailto:info@chriscoons.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/chriscoons.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/chriscoons"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/chriscoonsforde"
+},
+{
+"text": "Meet Chris",
+"href": "https://www.chriscoons.com/meet-chris/"
+},
+{
+"text": "Priorities",
+"href": "https://www.chriscoons.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.chriscoons.com/privacy-policy/"
+},
+{
+"text": "Share On Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.chriscoons.com%2Fterms-and-conditions%2F"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.chriscoons.com/terms-and-conditions/"
+},
+{
+"text": "Tweet Tweet",
+"href": "https://www.x.com/intent/tweet?text=Text+Messaging+Terms+%26amp%3B+Conditions&url=https%3A%2F%2Fwww.chriscoons.com%2Fterms-and-conditions%2F"
+},
+{
+"text": "X",
+"href": "https://x.com/ChrisCoonsforDE"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/channel/UC6s_03P_7OoOZQkqxyPKpfg/videos"
+},
+{
+"text": "here",
+"href": "https://www.chriscoons.com/privacy-policy/"
+},
+{
+"text": "info@chriscoons.com",
+"href": "mailto:info@chriscoons.com"
+}
 ]

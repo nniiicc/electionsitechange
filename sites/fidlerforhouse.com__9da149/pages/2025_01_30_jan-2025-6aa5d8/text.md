@@ -1,9 +1,12 @@
-To provide the best experiences, we use technologies like cookies to store and/or access device information.
-Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site.
-Not consenting or withdrawing consent, may adversely affect certain features and functions.
-The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
-The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
-The technical storage or access that is used exclusively for statistical purposes.
-The technical storage or access that is used exclusively for anonymous statistical purposes.
-Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
-The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+251.239.0624‬ jennifer@fidlerforhouse.com  About Donate New and Media News and Media Press Releases Session Updates Town Hall Meetings Proposed Bill – HB453 District 94 Map Search for: Contact Us Jan 2025  Town Hall Meetings  0 Comments(s)  January 30, 2025 Next: Re-Election Announcement → You May Also Like… Jan 2026 Jan 8, 2026 0 Comments Submit a Comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Notify me of follow-up comments by email.
+Notify me of new posts by email.
+Submit Comment Δ Friends of Jennifer Fidler 20103 Bohemian Hall Road Silverhill, AL 36576 Email: jennifer@fidlerforhouse.com Tel: 251.239.0624‬ Terms and Conditions Subscribe To Our Newsletter Join our mailing list to receive the latest news and updates from our team.
+SUBSCRIBE!
+You have Successfully Subscribed!
+Copyright © # Fidler For House.
+All rights reserved.
+Paid for by Friends of Jennifer Fidler.
+Site design by j thomas, inc.
+Manage consent

@@ -1,56 +1,230 @@
 [
-"https://ballotpedia.org/Donald_Rainwater",
-"https://electionscience.org/education/spoiler-effect",
-"https://en.wikipedia.org/wiki/1976_Quebec_general_election",
-"https://en.wikipedia.org/wiki/Approval_voting",
-"https://en.wikipedia.org/wiki/Chris_Sununu",
-"https://en.wikipedia.org/wiki/Classical_liberalism",
-"https://en.wikipedia.org/wiki/Constitutional_carry",
-"https://en.wikipedia.org/wiki/Duverger%27s_law",
-"https://en.wikipedia.org/wiki/Eric_Holcomb",
-"https://en.wikipedia.org/wiki/Free_State_Project",
-"https://en.wikipedia.org/wiki/Gary_Johnson_2016_presidential_campaign",
-"https://en.wikipedia.org/wiki/Jeanne_Dietsch",
-"https://en.wikipedia.org/wiki/Jeanne_Shaheen",
-"https://en.wikipedia.org/wiki/Jesse_Ventura",
-"https://en.wikipedia.org/wiki/Jonathan_Haidt",
-"https://en.wikipedia.org/wiki/Libertarian_Party_(United_States)",
-"https://en.wikipedia.org/wiki/List_of_third-party_and_independent_performances_in_United_States_elections",
-"https://en.wikipedia.org/wiki/Max_Abramson",
-"https://en.wikipedia.org/wiki/Negative_and_positive_rights",
-"https://en.wikipedia.org/wiki/New_Hampshire_Liberty_Alliance",
-"https://en.wikipedia.org/wiki/New_Hampshire_Liberty_Forum",
-"https://en.wikipedia.org/wiki/Night-watchman_state",
-"https://en.wikipedia.org/wiki/Parti_Qu%C3%A9b%C3%A9cois",
-"https://en.wikipedia.org/wiki/Plurality_(voting)",
-"https://en.wikipedia.org/wiki/Reform_Party_of_the_United_States_of_America",
-"https://en.wikipedia.org/wiki/The_Righteous_Mind",
-"https://gc.nh.gov/bill_status/legacy/bs2016/bill_docket.aspx?lsr=91&sy=2000&txtsessionyear=2000&txtbillnumber=hb109",
-"https://granitestatematters.org/",
-"https://indystar.com/story/news/politics/elections/2020/11/03/indiana-governor-election-libertarian-donald-rainwater-surge-results/6150140002",
-"https://legiscan.com/NH/bill/HB104/2025",
-"https://legiscan.com/NH/bill/HB1809/2026",
-"https://legiscan.com/NH/bill/HB229/2024",
-"https://legiscan.com/NH/bill/HB240/2011",
-"https://legiscan.com/NH/bill/HB360/2023",
-"https://legiscan.com/NH/bill/HB364/2019",
-"https://legiscan.com/NH/bill/SB12/2017",
-"https://ncc-1776.org/archives/tle2001/libe131-20010723-03.html",
-"https://news.gallup.com/poll/389792/lgbt-identification-ticks-up.aspx",
-"https://nh.gop/platform",
-"https://nhhfc.org/nhhfc",
-"https://secure.anedot.com/stephen-villee-for-governor/donate",
-"https://villee4nh.com/",
-"https://villee4nh.com/20000-activists.html",
-"https://villee4nh.com/article-83.html",
-"https://villee4nh.com/contact.html",
-"https://villee4nh.com/drugs.html",
-"https://villee4nh.com/end-of-life.html",
-"https://villee4nh.com/grandfathering.html",
-"https://villee4nh.com/libertarianism.html",
-"https://villee4nh.com/lpnh-tweets.html",
-"https://villee4nh.com/pandemic-response.html",
-"https://villee4nh.com/secession.html",
-"https://villee4nh.com/veto-list.html",
-"https://wsmn.live/claudette-schmidt"
+{
+"text": "1976 Quebec general election",
+"href": "https://en.wikipedia.org/wiki/1976_Quebec_general_election"
+},
+{
+"text": "20,000 Activists",
+"href": "https://villee4nh.com/20000-activists.html"
+},
+{
+"text": "3.3% of the popular vote",
+"href": "https://en.wikipedia.org/wiki/Gary_Johnson_2016_presidential_campaign"
+},
+{
+"text": "Article 83",
+"href": "https://villee4nh.com/article-83.html"
+},
+{
+"text": "Chris Sununu",
+"href": "https://en.wikipedia.org/wiki/Chris_Sununu"
+},
+{
+"text": "Claudette Schmidt",
+"href": "https://wsmn.live/claudette-schmidt"
+},
+{
+"text": "Contact",
+"href": "https://villee4nh.com/contact.html"
+},
+{
+"text": "Donald Rainwater",
+"href": "https://ballotpedia.org/Donald_Rainwater"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/stephen-villee-for-governor/donate"
+},
+{
+"text": "Drugs",
+"href": "https://villee4nh.com/drugs.html"
+},
+{
+"text": "Duverger's Law",
+"href": "https://en.wikipedia.org/wiki/Duverger%27s_law"
+},
+{
+"text": "End of Life",
+"href": "https://villee4nh.com/end-of-life.html"
+},
+{
+"text": "Eric Holcomb",
+"href": "https://en.wikipedia.org/wiki/Eric_Holcomb"
+},
+{
+"text": "Free State Project",
+"href": "https://en.wikipedia.org/wiki/Free_State_Project"
+},
+{
+"text": "Grandfathering",
+"href": "https://villee4nh.com/grandfathering.html"
+},
+{
+"text": "Granite State Matters",
+"href": "https://granitestatematters.org/"
+},
+{
+"text": "HB104",
+"href": "https://legiscan.com/NH/bill/HB104/2025"
+},
+{
+"text": "HB109",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_docket.aspx?lsr=91&sy=2000&sortoption=&txtsessionyear=2000&txtbillnumber=hb109"
+},
+{
+"text": "HB1809",
+"href": "https://legiscan.com/NH/bill/HB1809/2026"
+},
+{
+"text": "HB229",
+"href": "https://legiscan.com/NH/bill/HB229/2024"
+},
+{
+"text": "HB240",
+"href": "https://legiscan.com/NH/bill/HB240/2011"
+},
+{
+"text": "HB360",
+"href": "https://legiscan.com/NH/bill/HB360/2023"
+},
+{
+"text": "HB364",
+"href": "https://legiscan.com/NH/bill/HB364/2019"
+},
+{
+"text": "Jeanne Dietsch",
+"href": "https://en.wikipedia.org/wiki/Jeanne_Dietsch"
+},
+{
+"text": "Jeanne Shaheen",
+"href": "https://en.wikipedia.org/wiki/Jeanne_Shaheen"
+},
+{
+"text": "Jesse Ventura",
+"href": "https://en.wikipedia.org/wiki/Jesse_Ventura"
+},
+{
+"text": "Jonathan Haidt",
+"href": "https://en.wikipedia.org/wiki/Jonathan_Haidt"
+},
+{
+"text": "LPNH Tweets",
+"href": "https://villee4nh.com/lpnh-tweets.html"
+},
+{
+"text": "Libertarian Party",
+"href": "https://en.wikipedia.org/wiki/Libertarian_Party_(United_States)"
+},
+{
+"text": "Libertarianism",
+"href": "https://villee4nh.com/libertarianism.html"
+},
+{
+"text": "Liberty Forum",
+"href": "https://en.wikipedia.org/wiki/New_Hampshire_Liberty_Forum"
+},
+{
+"text": "Max Abramson",
+"href": "https://en.wikipedia.org/wiki/Max_Abramson"
+},
+{
+"text": "New Hampshire House Freedom Caucus",
+"href": "https://nhhfc.org/nhhfc/"
+},
+{
+"text": "New Hampshire Liberty Alliance",
+"href": "https://en.wikipedia.org/wiki/New_Hampshire_Liberty_Alliance"
+},
+{
+"text": "Pandemic Response",
+"href": "https://villee4nh.com/pandemic-response.html"
+},
+{
+"text": "Parti Québécois",
+"href": "https://en.wikipedia.org/wiki/Parti_Qu%C3%A9b%C3%A9cois"
+},
+{
+"text": "Reform Party",
+"href": "https://en.wikipedia.org/wiki/Reform_Party_of_the_United_States_of_America"
+},
+{
+"text": "SB12",
+"href": "https://legiscan.com/NH/bill/SB12/2017"
+},
+{
+"text": "Secession",
+"href": "https://villee4nh.com/secession.html"
+},
+{
+"text": "The Righteous Mind",
+"href": "https://en.wikipedia.org/wiki/The_Righteous_Mind"
+},
+{
+"text": "Veto List",
+"href": "https://villee4nh.com/veto-list.html"
+},
+{
+"text": "[image: Stephen Villee for New Hampshire logo]",
+"href": "https://villee4nh.com/"
+},
+{
+"text": "achieved this",
+"href": "https://www.indystar.com/story/news/politics/elections/2020/11/03/indiana-governor-election-libertarian-donald-rainwater-surge-results/6150140002/"
+},
+{
+"text": "approval voting",
+"href": "https://en.wikipedia.org/wiki/Approval_voting"
+},
+{
+"text": "believed",
+"href": "https://villee4nh.com/20000-activists.html"
+},
+{
+"text": "classical liberalism",
+"href": "https://en.wikipedia.org/wiki/Classical_liberalism"
+},
+{
+"text": "constitutional carry",
+"href": "https://en.wikipedia.org/wiki/Constitutional_carry"
+},
+{
+"text": "essay",
+"href": "https://ncc-1776.org/archives/tle2001/libe131-20010723-03.html"
+},
+{
+"text": "handful of third party candidates",
+"href": "https://en.wikipedia.org/wiki/List_of_third-party_and_independent_performances_in_United_States_elections"
+},
+{
+"text": "in the last 40 years",
+"href": "https://en.wikipedia.org/wiki/Libertarian_Party_(United_States)#Best_major_race_results"
+},
+{
+"text": "night-watchman state",
+"href": "https://en.wikipedia.org/wiki/Night-watchman_state"
+},
+{
+"text": "platform",
+"href": "https://nh.gop/platform/#h-federalism"
+},
+{
+"text": "plurality",
+"href": "https://en.wikipedia.org/wiki/Plurality_(voting)"
+},
+{
+"text": "positive rights",
+"href": "https://en.wikipedia.org/wiki/Negative_and_positive_rights"
+},
+{
+"text": "recent Gallup poll",
+"href": "https://news.gallup.com/poll/389792/lgbt-identification-ticks-up.aspx"
+},
+{
+"text": "secession",
+"href": "https://villee4nh.com/secession.html"
+},
+{
+"text": "spoiler problem",
+"href": "https://electionscience.org/education/spoiler-effect"
+}
 ]

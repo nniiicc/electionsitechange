@@ -1,3 +1,4 @@
+Home Meet Todd The Issues Get Involved Donate More Home Meet Todd The Issues Get Involved Donate Home Meet Todd The Issues Get Involved Donate Meet Todd A story that starts in Philly...
 Hi Friends!
 I'm Todd Johnson, and I'm running for Pennsylvania State Senate in the 4th District!
 I've lived in Philadelphia my whole life, and I have no intentions of moving anytime soon.
@@ -10,6 +11,6 @@ Gentile or Jew.
 Black or white.
 And if you like the The Steelers, that's just fine too.
 We're looking to push the conversation towards one of civility and unity.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
-A sincere reflection on the state of the nation
+Instagram Connect With Todd on Twitter Friends of Todd Johnson Copyright © # Friends of Todd Johnson - All Rights Reserved.
+Paid for by Friends of Todd Johnson Watch Todd's Invocation at The Save America Rally!
+A sincere reflection on the state of the nation Watch Here

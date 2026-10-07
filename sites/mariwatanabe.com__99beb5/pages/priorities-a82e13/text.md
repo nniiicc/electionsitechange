@@ -1,10 +1,4 @@
-Policy Priorities
-Enhancing public safety
-Protecting the future of Older Adults and individuals with Disabilities
-Growing our economy by supporting local businesses and workforce planning
-Protecting civil rights and equal protections for all Oregonians
-Ensuring all Oregonians have access to quality public education
-I am proud to have advocated for a landmark effort to improve access to affordable housing—because a safe and stable home is the foundation for security and opportunity in our community (SB 1533A).
+0 Skip to Content Home About Me Priorities Endorsements Contact DONATE NOW Open Menu Close Menu Home About Me Priorities Endorsements Contact DONATE NOW Open Menu Close Menu Home About Me Priorities Endorsements Contact DONATE NOW Policy Priorities Enhancing public safety Protecting the future of Older Adults and individuals with Disabilities Growing our economy by supporting local businesses and workforce planning Protecting civil rights and equal protections for all Oregonians Ensuring all Oregonians have access to quality public education I am proud to have advocated for a landmark effort to improve access to affordable housing—because a safe and stable home is the foundation for security and opportunity in our community (SB 1533A).
 As we navigate a rapidly evolving technological landscape, I am committed to addressing cyber and internet security to ensure our residents are protected not only physically safe in their neighborhoods but also financially and emotionally safe in the digital world.
 Additionally, I am deeply honored to contribute to the work of Oregon Rises Above Hate, leading events and initiatives that have raised awareness and driven action to combat hate crimes across our state.
 Together, these efforts reflect my unwavering dedication to building safer, stronger, and more inclusive communities for all.
@@ -24,3 +18,6 @@ As Vice Chair of Portland Community College, I have been honored to represent ou
 Through my work with the Oregon Commission on Asian and Pacific Islander Affairs (OCAPIA), I successfully championed the introduction of ethnic studies in classrooms—ensuring our students see themselves reflected in their education (HB2023).
 Additionally, I was proud to support the passage of a critical measure that provides services, training, and evaluation to help incarcerated parents and their children build stronger futures (SB 939).
 These achievements represent a commitment to education, equity, and the well-being of our community.
+I am Mari Watanabe.
+I'm committed to realizing Oregon's full potential, where diversity flourishes, opportunities abound, and everyone feels a sense of belonging.
+Mari Watanabe For House District 34

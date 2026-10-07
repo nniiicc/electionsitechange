@@ -1,21 +1,16 @@
-Shawn
-Mickelonis
-For NH State Senate - District 4
-Dover.
+0 Skip to Content Mickelonis For NH State Senate Home About Issues Events Volunteer Contact Donate Open Menu Close Menu Mickelonis For NH State Senate Home About Issues Events Volunteer Contact Donate Open Menu Close Menu Home About Issues Events Volunteer Contact Donate Shawn Mickelonis For NH State Senate - District 4 Dover.
 Barrington.
 Somersworth.
-Rollinsford
-Tue, Nov 3, 2026
-Events
-Check back soon for more campaign events.
-If you’re Interested in hosting an event or having Shawn attend or speak at one please contact us.
-Event Announcement:
-Freedom, Speech & the Future w/ Elizabeth Sabaditsch Wolff
-Saturday, March 7th, 2026 at 3:00 – 6:00 pm Eastern Time
-Address: 431 Dover Point Rd, Dover, NH 03820
-Elisabeth Sabaditsch-Wolff is a conservative activist, author, and international speaker who has become a leading voice in the fight for free speech, national sovereignty, and Western democratic values.
+Rollinsford Tue, Nov 3, 2026 Events Check back soon for more campaign events.
+If you’re Interested in hosting an event or having Shawn attend or speak at one please contact us .
+Event Announcement: Freedom, Speech & the Future w/ Elizabeth Sabaditsch Wolff Saturday, March 7th, 2026 at 3:00 – 6:00 pm Eastern Time Newick's Lobster House Address : 431 Dover Point Rd, Dover, NH 03820 Elisabeth Sabaditsch-Wolff is a conservative activist, author, and international speaker who has become a leading voice in the fight for free speech, national sovereignty, and Western democratic values.
 With a background in political science and Middle Eastern studies, she brings a sharp, informed perspective to the cultural and political challenges facing Europe and the United States today.
 She is widely known for standing firm against government overreach and ideological censorship, particularly as free expression and open debate come under increasing attack across Europe.
 Her personal experience confronting speech restrictions has made her a powerful advocate for constitutional liberties, rule of law, and the preservation of fundamental rights in the face of globalist and bureaucratic pressure.
 Elisabeth speaks internationally to conservative audiences, policy leaders, and grassroots organizations, offering firsthand insight into how cultural radicalism, unchecked institutions, and political conformity erode democratic societies.
 Her message is clear and unapologetic: free nations depend on courageous citizens willing to defend truth, liberty, and the principles that built the West.
+Purchase Tickets Tuesday, November 3Rd 2026 Vote Mickelonis Donate Home About Issues Events Volunteer Contact Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+FOllow Shawn On Facebook & Instagram Mickelonis for NH Senate PO BOX 583, Dover NH 03821 2026 Website by Shawn Mickelonis For NH State Senate District 4 Paid for by Shawn Mickelonis

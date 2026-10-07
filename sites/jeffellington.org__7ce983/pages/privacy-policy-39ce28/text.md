@@ -1,30 +1,19 @@
-Privacy Policy for Friends of Jeff Ellington
-Effective Date: April 8, 2024
-Friends of Jeff Ellington ("we," "us," or "our") is committed to protecting the privacy of visitors and users ("you" or "your") of our political campaign website.
+Jeff Ellington for Indiana State Senate, District 39 Jeff Ellington for Indiana State Senate, District 39 Jeff Ellington for Indiana State Senate, District 39 Jeff Ellington for Indiana State Senate, District 39 Jeff Ellington for Indiana State Senate, District 39 Jeff Ellington for Indiana State Senate, District 39 Jeff Ellington for Indiana State Senate, District 39 Jeff Ellington for Indiana State Senate, District 39 Home Issues Blog Donate Gallery Privacy policy Privacy Policy Privacy Policy for Friends of Jeff Ellington Effective Date: April 8, 2024 Friends of Jeff Ellington ("we," "us," or "our") is committed to protecting the privacy of visitors and users ("you" or "your") of our political campaign website.
 This Privacy Policy outlines our practices regarding the collection, use and disclosure of personal information through our website.
 By accessing and using our website, you consent to the terms of this Privacy Policy.
 1.
-Information We Collect:
-a.
+Information We Collect: a.
 Personal Information: We may collect personal information you voluntarily provide to us, such as your name, email address, postal address, phone number, and any other information you submit through our website's forms.
-b.
-Text Messaging Opt-In Data: If you choose to opt-in to receive text messages from us, we may collect your phone number and related data required for text messaging services. c.
-Automatically Collected Information: When you visit our website, we may automatically collect certain information about your device, browser, and usage patterns.
-This information may include IP addresses, cookies, and other tracking technologies.
 2.
-Use of Information:
-a.
+Use of Information: a.
 We may use the personal information you provide to us for the following purposes: To communicate with you, respond to your inquiries, and provide information about our campaign.
 To send you updates, newsletters, and other campaign-related information.
 To analyze and improve our website's performance, content, and user experience.
-To comply with legal obligations and enforce our rights and agreements.
-b.
+To comply with legal obligations and enforce our rights and agreements. b.
 Text Messaging Opt-In Data: Your phone number and related data collected for text messaging services will only be used to send you campaign-related text messages and updates.
 3.
-Sharing of Information:
-a.
-We will not share, sell, rent, or disclose your personal information to any third parties, except as described in this Privacy Policy or when required by law.
-b.
+Sharing of Information: a.
+We will not share, sell, rent, or disclose your personal information to any third parties, except as described in this Privacy Policy or when required by law. b.
 Text Messaging Opt-In Data: We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
 4.
 Data Security: We take reasonable measures to protect the security of your personal information and employ industry-standard security technologies to safeguard it.
@@ -45,5 +34,6 @@ We encourage you to review this page periodically for the latest information on 
 SMS opt-in consent and data will not be shared with third parties ...
 9.
 Contact us: If you have any questions or concerns regarding this Privacy Policy or our privacy practices, please contact us at Jeff@JeffEllington.org ...
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Copyright © # Friends of Jeff Ellington.
+Paid for by Friends of Jeff Ellington.
+Privacy Policy Powered by

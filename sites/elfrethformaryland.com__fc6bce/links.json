@@ -1,17 +1,74 @@
 [
-"https://elfrethformaryland.com/",
-"https://elfrethformaryland.com/endorsements",
-"https://elfrethformaryland.com/issues",
-"https://elfrethformaryland.com/privacy-policy",
-"https://elfrethformaryland.com/reach-out",
-"https://facebook.com/SarahforMD",
-"https://instagram.com/SarahforMaryland",
-"https://mobilize.us/elfrethformaryland/event/927464",
-"https://secure.actblue.com/donate/sefc_website",
-"https://secure.actblue.com/donate/sefc_website?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/sefc_website?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/sefc_website?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/sefc_website?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/sefc_website?express_lane=true&amount=50",
-"https://twitter.com/SarahforMD"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/sefc_website/?express_lane=true&amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/sefc_website/?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/sefc_website/?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/sefc_website/?express_lane=true&amount=5"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/sefc_website/?express_lane=true&amount=50"
+},
+{
+"text": "443-216-9934",
+"href": "tel:+14432169934"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sefc_website"
+},
+{
+"text": "Endorsements",
+"href": "https://elfrethformaryland.com/endorsements/"
+},
+{
+"text": "Meet Sarah",
+"href": "https://elfrethformaryland.com/#meet"
+},
+{
+"text": "On the Issues",
+"href": "https://elfrethformaryland.com/issues/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/sefc_website/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://elfrethformaryland.com/privacy-policy/"
+},
+{
+"text": "Reach Out",
+"href": "https://elfrethformaryland.com/reach-out/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/elfrethformaryland/event/927464/"
+},
+{
+"text": "[image: Sarah for Congress Logo]",
+"href": "https://elfrethformaryland.com/?no-popup="
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/SarahforMD"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SarahforMD"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/SarahforMaryland"
+}
 ]

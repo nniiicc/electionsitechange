@@ -1,5 +1,4 @@
-– Meet Bridget –
-Bridget Malloy Kosierowski is a lifelong Pennsylvanian; born and raised in Clarks Summit, educated as a registered nurse at Villanova University in Philadelphia, and today with her husband, Joseph, raising their four children in the same neighborhood where Bridget’s parents raised her and her five siblings.
+Skip to content Search for: About Bridget Issues Photo Gallery Media District Donate Endorsements Take Action Honors & Awards Search for: About Bridget Issues Photo Gallery Media District Donate Endorsements Take Action Honors & Awards About Bridget Issues Photo Gallery Media District Donate Endorsements Take Action Honors & Awards Search for: Bridget rrippon 2022-05-11T20:29:51+00:00 – Meet Bridget – Bridget Malloy Kosierowski is a lifelong Pennsylvanian; born and raised in Clarks Summit, educated as a registered nurse at Villanova University in Philadelphia, and today with her husband, Joseph, raising their four children in the same neighborhood where Bridget’s parents raised her and her five siblings.
 The decision to run for public office is a very personal one for Bridget and her family.
 It is born from a professional life in the health care sector as a working nurse, as a mother to a young child who survived a devastating leukemia diagnosis, and as civic leader who believes that 114th District residents deserve a representative in Harrisburg who is fighting for them and standing up for what is right.
 Bridget is not a career politician.
@@ -12,14 +11,13 @@ She made history by becoming the first Democratic Woman from Lackawanna County t
 Since being sworn into office in April 2019, Bridget has been a voice for people across the 114th Legislative District.
 During her short time in office, Bridget has already brought $8.9 million back to the district for infrastructural updates and community revitalization.
 Bridget introduced twelve pieces of legislation that tackled many issues that include taking on the fight to protect victims of domestic violence, protecting our children’s health in our schools, creating a safe work environment in healthcare facilities through Healthcare Facilities Violence Prevention Act, and Nurse Licensure Compact Laws.
-Bridget introduced H.B. 2435, Saving Lives by Protecting our Food Supply Chain.
+Bridget introduced H.B.
+2435, Saving Lives by Protecting our Food Supply Chain.
 Legislation would create a Food Processing Plant Reimbursement Program to help the Department of Agriculture pay for personal protective equipment for workers and more frequent cleaning of plants and facilities to help reduce the number of workers who become infected.
 H.B.2435 passed unanimously in the State House of Representatives and the State Senate Agricultural & Rural Affairs committee.
 Bridget’s District Offices have provided over 10,000 services to constituents.
 She was also appointed to serve on the Legislative Task Force to study drug recovery, a role she was recommended for by leadership in the Pennsylvania House of Representatives due to her 26 years of service as a Registered Nurse.
-It’s crucial to Bridget that we continue the progress we are making in the 114th district in the short period of time she has been in office and not turn back.
-– Meet Bridget –
-Bridget Malloy Kosierowski is a lifelong Pennsylvanian; born and raised in Clarks Summit, educated as a registered nurse at Villanova University in Philadelphia, and today with her husband, Joseph, raising their four children in the same neighborhood where Bridget’s parents raised her and her five siblings.
+It’s crucial to Bridget that we continue the progress we are making in the 114th district in the short period of time she has been in office and not turn back. – Meet Bridget – Bridget Malloy Kosierowski is a lifelong Pennsylvanian; born and raised in Clarks Summit, educated as a registered nurse at Villanova University in Philadelphia, and today with her husband, Joseph, raising their four children in the same neighborhood where Bridget’s parents raised her and her five siblings.
 The decision to run for public office is a very personal one for Bridget and her family.
 It is born from a professional life in the health care sector as a working nurse, as a mother to a young child who survived a devastating leukemia diagnosis, and as civic leader who believes that 114th District residents deserve a representative in Harrisburg who is fighting for them and standing up for what is right.
 Bridget is not a career politician.
@@ -32,7 +30,8 @@ She made history by becoming the first Democratic Woman from Lackawanna County t
 Since being sworn into office in April 2019, Bridget has been a voice for people across the 114th Legislative District.
 During her short time in office, Bridget has already brought over $215 million back to the district for infrastructural updates and community revitalization.
 Bridget introduced fifteen pieces of legislation that tackled many issues that include taking on the fight to protect victims of domestic violence, protecting our children’s health in our schools, creating a safe work environment in healthcare facilities through Healthcare Facilities Violence Prevention Act, and Nurse Licensure Compact Laws.
-Bridget introduced H.B. 2435, Saving Lives by Protecting our Food Supply Chain.
+Bridget introduced H.B.
+2435, Saving Lives by Protecting our Food Supply Chain.
 Legislation would create a Food Processing Plant Reimbursement Program to help the Department of Agriculture pay for personal protective equipment for workers and more frequent cleaning of plants and facilities to help reduce the number of workers who become infected.
 H.B.2435 passed unanimously in the State House of Representatives and the State Senate Agricultural & Rural Affairs committee.
 Bridget’s District Offices have provided over 20,000 services to constituents.
@@ -40,3 +39,4 @@ Representative Kosierowski currently serves on the Appropriations Committee, Hea
 Bridget was appointed by Pennsylvania Governor Tom Wolf to serve on his administration’s COVID-19 Vaccine Joint Task force in February of 2021.
 As well as an appointment to serve on the Legislative Task Force to study drug recovery, a role she was recommended for by leadership in the Pennsylvania House of Representatives due to her 27 years of service as a Registered Nurse.
 It’s crucial to Bridget that we continue the progress we are making in the 114th district in the short period of time she has been in office and not turn back.
+Friends of Bridget Malloy Kosierowski PO Box 38 | Clarks Summit, PA 18411 Email: info@bridgetforpa.com copyright # Bridget For PA Facebook Page load link Go to Top

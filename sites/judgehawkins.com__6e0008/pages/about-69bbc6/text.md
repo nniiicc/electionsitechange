@@ -1,4 +1,4 @@
-CIVILITY.
+About Contribute Select Page CIVILITY.
 PROFESSIONALISM.
 RESPECT.
 As judge of the 11th District Court, I believe that civility, professionalism, and respect are fundamental values that should be upheld in the legal profession.
@@ -15,5 +15,4 @@ I have chaired committees for the Harris County Board of District Judges, includ
 I am also active in the State Bar of Texas, the Houston Bar Association, and the Association of Women Attorneys.
 Additionally, I am a member of the College of the State Bar of Texas, the Texas Bar Foundation, the Houston Bar Foundation, and the Houston Young Lawyers Foundation.
 Finally, I am a member of the Texas Lyceum, an organization devoted to promoting civility and civil discourse.
-These values are at the core of my personal and professional beliefs, and I strive to uphold them every day.
--Judge Hawkins
+These values are at the core of my personal and professional beliefs, and I strive to uphold them every day. -Judge Hawkins

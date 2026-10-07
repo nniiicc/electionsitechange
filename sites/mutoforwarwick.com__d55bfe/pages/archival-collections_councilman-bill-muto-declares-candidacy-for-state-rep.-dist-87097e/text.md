@@ -1,12 +1,7 @@
-top of page
-Councilman Bill Muto Declares Candidacy for State Rep.
-District 23
-May 26, 2026
-Warwick City Councilman William Muto officially declared his candidacy for State Representative representing District 23 in Warwick, on Tuesday May 26th.
+top of page for State Representative Fighting for District 23 — Every Day, For Every Family Vote in the Primary on September 9, 2026 Home About Meet the Candidate Legislative Homepage Accessibility Statement Meet the Candidate Legislative Homepage Accessibility Statement Events Community Calendar Campaign Photo Gallery Community Calendar Campaign Photo Gallery News & Press In the News Press Releases Endorsements Social Media In the News Press Releases Endorsements Social Media Get Involved Volunteer Form Contact Us Volunteer Form Contact Us Voter Information Menu Close Contribute Councilman Bill Muto Declares Candidacy for State Rep.
+District 23 ​ May 26, 2026 Warwick City Councilman William Muto officially declared his candidacy for State Representative representing District 23 in Warwick, on Tuesday May 26th.
 Councilman Muto enters the race seeking to replace outgoing Representative and Speaker of the House Joseph Shekarchi who announced his retirement recently.
 Citing strong support from constituents, peers and community organizations, Councilman Muto stated it has been a privilege to work alongside Rep.
 Shekarchi and Senator Mark McKenney to represent local neighborhoods in Warwick, and that he looks forward to continuing this work at the state level.
-Why This Matters
-Key Details
-Full Press Release
-bottom of page
+Why This Matters ​ Key Details ​ ​ ​ ​ Full Press Release ​ Contribute Report a Website Issue: Click Here © # Bill Muto for State Representative .
+All Rights Reserved Paid for by Friends of William Muto Privacy Policy Approved by Cooper Do Not Sell My Personal Information Home About Meet the Candidate Legislative Homepage Accessibility Statement Events Community Calendar Campaign Photo Gallery News & Press In the News Press Releases Endorsements Social Media Get Involved Volunteer Form Contact Us Voter Information bottom of page

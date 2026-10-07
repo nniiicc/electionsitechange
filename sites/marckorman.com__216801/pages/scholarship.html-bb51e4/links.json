@@ -1,35 +1,146 @@
 [
-"http://fafsa.ed.gov/",
-"http://mdelect.net/",
-"http://mhec.state.md.us/financialAid/descriptions.asp",
-"https://docs.google.com/forms/d/e/1FAIpQLScomxyEyCwI4tbWq64dhVbYpJhm9sNlhEO0K1R4uYEo_PrAbg/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSfK8EC99wGKTpHS48ybPSMR7f9Yen-s2pTs8oviKCtzjEukTw/viewform?usp=sf_link",
-"https://facebook.com/Marc.Korman.Campaign",
-"https://marckorman.com/",
-"https://marckorman.com/about-marc.html",
-"https://marckorman.com/airplane-noise.html",
-"https://marckorman.com/animal-welfare.html",
-"https://marckorman.com/budget.html",
-"https://marckorman.com/cdn-cgi/l/email-protection",
-"https://marckorman.com/civil-rights--civil-liberties.html",
-"https://marckorman.com/contact.html",
-"https://marckorman.com/contribute.html",
-"https://marckorman.com/covid-19.html",
-"https://marckorman.com/economic-prosperity.html",
-"https://marckorman.com/education.html",
-"https://marckorman.com/energy--environment.html",
-"https://marckorman.com/healthcare.html",
-"https://marckorman.com/issues.html",
-"https://marckorman.com/latest-news.html",
-"https://marckorman.com/pepco.html",
-"https://marckorman.com/preserving-our-success.html",
-"https://marckorman.com/public-safety.html",
-"https://marckorman.com/questionnaires.html",
-"https://marckorman.com/scholarship.html",
-"https://marckorman.com/seniors.html",
-"https://marckorman.com/subscribe.html",
-"https://marckorman.com/transportation.html",
-"https://marckorman.com/uploads/1/3/9/1/139129583/marc_korman_legislative_scholarship_application_-_2026.docx",
-"https://twitter.com/mkorman",
-"https://youtube.com/channel/UC2sckyTl1N7812TWHuMVT-A"
+{
+"text": "About Marc",
+"href": "https://www.marckorman.com/about-marc.html"
+},
+{
+"text": "Airplane Noise",
+"href": "https://www.marckorman.com/airplane-noise.html"
+},
+{
+"text": "Animal Welfare",
+"href": "https://www.marckorman.com/animal-welfare.html"
+},
+{
+"text": "Budget",
+"href": "https://www.marckorman.com/budget.html"
+},
+{
+"text": "COVID-19",
+"href": "https://www.marckorman.com/covid-19.html"
+},
+{
+"text": "Civil Rights & Civil Liberties",
+"href": "https://www.marckorman.com/civil-rights--civil-liberties.html"
+},
+{
+"text": "Click here for a hard copy of the scholarship application",
+"href": "https://www.marckorman.com/uploads/1/3/9/1/139129583/marc_korman_legislative_scholarship_application_-_2026.docx"
+},
+{
+"text": "Click here to fill out the application online",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfK8EC99wGKTpHS48ybPSMR7f9Yen-s2pTs8oviKCtzjEukTw/viewform?usp=sf_link"
+},
+{
+"text": "Contact",
+"href": "https://www.marckorman.com/contact.html"
+},
+{
+"text": "Contribute",
+"href": "https://www.marckorman.com/contribute.html"
+},
+{
+"text": "Economic Prosperity",
+"href": "https://www.marckorman.com/economic-prosperity.html"
+},
+{
+"text": "Education",
+"href": "https://www.marckorman.com/education.html"
+},
+{
+"text": "Energy & Environment",
+"href": "https://www.marckorman.com/energy--environment.html"
+},
+{
+"text": "Healthcare",
+"href": "https://www.marckorman.com/healthcare.html"
+},
+{
+"text": "Home",
+"href": "https://www.marckorman.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.marckorman.com/issues.html"
+},
+{
+"text": "Latest News",
+"href": "https://www.marckorman.com/latest-news.html"
+},
+{
+"text": "Maryland Higher Education Commission's Programs and Applications webpage",
+"href": "http://www.mhec.state.md.us/financialAid/descriptions.asp"
+},
+{
+"text": "Pepco",
+"href": "https://www.marckorman.com/pepco.html"
+},
+{
+"text": "Preserving Our Success",
+"href": "https://www.marckorman.com/preserving-our-success.html"
+},
+{
+"text": "Public Safety",
+"href": "https://www.marckorman.com/public-safety.html"
+},
+{
+"text": "Questionnaires",
+"href": "https://www.marckorman.com/questionnaires.html"
+},
+{
+"text": "Scholarship",
+"href": "https://www.marckorman.com/scholarship.html"
+},
+{
+"text": "Seniors",
+"href": "https://www.marckorman.com/seniors.html"
+},
+{
+"text": "Subscribe",
+"href": "https://www.marckorman.com/subscribe.html"
+},
+{
+"text": "Transportation",
+"href": "https://www.marckorman.com/transportation.html"
+},
+{
+"text": "[email protected]",
+"href": "https://www.marckorman.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[email protected]",
+"href": "mailto:marc.korman@house.state.md.us"
+},
+{
+"text": "[image: MARC KORMAN]",
+"href": "https://www.marckorman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/mkorman"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Marc.Korman.Campaign"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UC2sckyTl1N7812TWHuMVT-A"
+},
+{
+"text": "apply",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScomxyEyCwI4tbWq64dhVbYpJhm9sNlhEO0K1R4uYEo_PrAbg/viewform"
+},
+{
+"text": "here",
+"href": "http://mdelect.net/"
+},
+{
+"text": "sign up to receive updates",
+"href": "https://www.marckorman.com/subscribe.html"
+},
+{
+"text": "www.fafsa.ed.gov",
+"href": "http://www.fafsa.ed.gov/"
+}
 ]

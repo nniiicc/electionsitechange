@@ -1,4 +1,5 @@
-Who will go?
+Home About Me Issues & Policies vote@kripchak.com Michael L.
+Kripchak About Me Who will go?
 Send me!
 Michael L.
 Kripchak is actively campaigning to represent the 33rd District in the Ohio State Senate.
@@ -18,8 +19,10 @@ He then moved back to Youngstown to be close to his parents who were then dealin
 Michael is dedicated to bringing the same energy and leadership that he uses to serve his community to the constituents of the 33rd District.
 He is the leader needed to bring integrity and true constituent services to the taxpayers of the district.
 A vote for Michael Kripchak will ensure the 33rd District gets the representation in Columbus it so rightly deserves.
-The upcoming election is not about choosing a politician or a party, it is about choosing the right person to send to the Statehouse who will fight for your interests.
+Trained by the military to be a servant leader, I am choosing to run because Mahoning, Columbiana, and Carroll counties deserve a real Senator with the singular goal of improving our district.
+CONTRIBUTE Get Involved The upcoming election is not about choosing a politician or a party, it is about choosing the right person to send to the Statehouse who will fight for your interests.
 You can help the cause by spreading the word, by talking to me and sharing your ideas, or by donating .
 To make all of this happen, I need your voice, I need your support.
 Michael L.
-Kripchak
+Kripchak vote@kripchak.com Get in touch Your message was sent successfully.
+Send Message Paid for by Patriots for Kripchak © Copyright # Kripchak for Ohio

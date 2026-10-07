@@ -1,4 +1,3 @@
-Prepared and paid for by the Heaser for House Committee:
-12299 Champlin Dr, Unit 124, Champlin, MN 55316
-Jason Heaser is a retired member of the US Army.
+0 Skip to Content Home About Platform Endorsements Events Connect Donate Open Menu Close Menu Home About Platform Endorsements Events Connect Donate Open Menu Close Menu Home About Platform Endorsements Events Connect Donate Back to All Events Champlin Door Knock Saturday, August 22, 2026 11:00 AM 2:00 PM Google Calendar ICS Source: https://secure.ngpvan.com/pqa4E_KXnE6zgOj2YC9iHA2 Previous Previous August 20 Rogers Door Knock Next Next August 23 Rogers Door Knock with Joey Smyth Donate Now!
+Prepared and paid for by the Heaser for House Committee: 12299 Champlin Dr, Unit 124, Champlin, MN 55316 Jason Heaser is a retired member of the US Army.
 Use of job titles, rank, and photographs in uniform do not imply endorsement by the Department of the Army or the Department of Defense.

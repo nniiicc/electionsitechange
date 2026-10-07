@@ -1,27 +1,138 @@
 [
-"https://facebook.com/profile.php?id=61585699384483",
-"https://halefortexas.com/Hale_for_Congress_Financial_Support_Instructions.pdf",
-"https://halefortexas.com/es/index.html",
-"https://halefortexas.com/index.html",
-"https://halefortexas.com/vi/44.html",
-"https://halefortexas.com/vi/about.html",
-"https://halefortexas.com/vi/endorsements.html",
-"https://halefortexas.com/vi/index.html",
-"https://halefortexas.com/vi/merchandise.html",
-"https://halefortexas.com/vi/privacy.html",
-"https://halefortexas.com/vi/social.html",
-"https://halefortexas.com/vi/volunteer.html",
-"https://halefortexas.com/zh/index.html",
-"https://instagram.com/HaleForTexas",
-"https://secure.winred.com/alexander-hale-for-congress/donate",
-"https://secure.winred.com/alexander-hale-for-congress/donate?amount=100",
-"https://secure.winred.com/alexander-hale-for-congress/donate?amount=1000",
-"https://secure.winred.com/alexander-hale-for-congress/donate?amount=2000",
-"https://secure.winred.com/alexander-hale-for-congress/donate?amount=25",
-"https://secure.winred.com/alexander-hale-for-congress/donate?amount=250",
-"https://secure.winred.com/alexander-hale-for-congress/donate?amount=3500",
-"https://secure.winred.com/alexander-hale-for-congress/donate?amount=50",
-"https://secure.winred.com/alexander-hale-for-congress/donate?amount=500",
-"https://tiktok.com/@halefortexas",
-"https://x.com/HaleForTexas"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate?amount=100"
+},
+{
+"text": "$2,000",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate?amount=2000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate?amount=250"
+},
+{
+"text": "$3,500",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate?amount=3500"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate?amount=500"
+},
+{
+"text": "44",
+"href": "https://www.halefortexas.com/vi/44.html"
+},
+{
+"text": "Biển Hiệu Sân",
+"href": "https://www.halefortexas.com/vi/volunteer.html"
+},
+{
+"text": "Chính Sách Bảo Mật",
+"href": "https://www.halefortexas.com/vi/privacy.html"
+},
+{
+"text": "Cửa Hàng",
+"href": "https://www.halefortexas.com/vi/merchandise.html"
+},
+{
+"text": "EN",
+"href": "https://www.halefortexas.com/index.html"
+},
+{
+"text": "ES",
+"href": "https://www.halefortexas.com/es/index.html"
+},
+{
+"text": "Mạng Xã Hội",
+"href": "https://www.halefortexas.com/vi/social.html"
+},
+{
+"text": "Quyên Góp",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate"
+},
+{
+"text": "Sự Ủng Hộ",
+"href": "https://www.halefortexas.com/vi/endorsements.html"
+},
+{
+"text": "TT",
+"href": "https://www.tiktok.com/@halefortexas"
+},
+{
+"text": "Tìm Hiểu Cách Tham Gia",
+"href": "https://www.halefortexas.com/vi/volunteer.html"
+},
+{
+"text": "Tìm Hiểu Thêm Về Alexander",
+"href": "https://www.halefortexas.com/vi/about.html"
+},
+{
+"text": "Tình Nguyện",
+"href": "https://www.halefortexas.com/vi/volunteer.html"
+},
+{
+"text": "Tổ Chức Sự Kiện",
+"href": "https://www.halefortexas.com/vi/volunteer.html"
+},
+{
+"text": "VI",
+"href": "https://www.halefortexas.com/vi/index.html"
+},
+{
+"text": "Viết séc",
+"href": "https://www.halefortexas.com/Hale_for_Congress_Financial_Support_Instructions.pdf"
+},
+{
+"text": "Về Alexander",
+"href": "https://www.halefortexas.com/vi/about.html"
+},
+{
+"text": "f",
+"href": "https://www.facebook.com/profile.php?id=61585699384483"
+},
+{
+"text": "ig",
+"href": "https://instagram.com/HaleForTexas"
+},
+{
+"text": "info@halefortexas.com",
+"href": "mailto:info@halefortexas.com"
+},
+{
+"text": "Điều khoản & Chính sách Bảo mật",
+"href": "https://www.halefortexas.com/vi/privacy.html"
+},
+{
+"text": "Đóng Góp Ngay",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate"
+},
+{
+"text": "Đăng Ký Tình Nguyện",
+"href": "https://www.halefortexas.com/vi/volunteer.html"
+},
+{
+"text": "Ủng Hộ Chiến Dịch",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate"
+},
+{
+"text": "中文",
+"href": "https://www.halefortexas.com/zh/index.html"
+},
+{
+"text": "𝕏",
+"href": "https://x.com/HaleForTexas"
+}
 ]

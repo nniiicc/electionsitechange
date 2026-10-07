@@ -1,37 +1,174 @@
 [
-"https://facebook.com/noaharbit",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnoahformi.com%2Fpolicies%2Fenvironment-water%2F",
-"https://instagram.com/narbit",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4437",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5241",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5242",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5243",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5244",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5245",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5246",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5247",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0271",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0273",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0327",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0502",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0519",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2024-HB-5657",
-"https://noahformi.com/",
-"https://noahformi.com/contact",
-"https://noahformi.com/meet-noah",
-"https://noahformi.com/policies",
-"https://noahformi.com/policies/community-representation",
-"https://noahformi.com/policies/democracy-rights",
-"https://noahformi.com/policies/economy-jobs-innovation",
-"https://noahformi.com/policies/education",
-"https://noahformi.com/policies/environment-water",
-"https://noahformi.com/policies/hate-crimes-extremism",
-"https://noahformi.com/policies/health-families-seniors",
-"https://noahformi.com/policies/mental-health",
-"https://noahformi.com/policies/noahs-greatest-hits",
-"https://noahformi.com/policies/smart-equal-justice-for-all",
-"https://noahformi.com/sign-up",
-"https://secure.actblue.com/donate/njawebsite",
-"https://twitter.com/intent/tweet?text=ENVIRONMENT+%26+WATER&url=https%3A%2F%2Fnoahformi.com%2Fpolicies%2Fenvironment-water%2F",
-"https://twitter.com/noaharbit"
+{
+"text": "271",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0271"
+},
+{
+"text": "273",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0273"
+},
+{
+"text": "327",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0327"
+},
+{
+"text": "502",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0502"
+},
+{
+"text": "519",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0519"
+},
+{
+"text": "5241",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5241"
+},
+{
+"text": "5242",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5242"
+},
+{
+"text": "5243",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5243"
+},
+{
+"text": "5244",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5244"
+},
+{
+"text": "5245",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5245"
+},
+{
+"text": "5246",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5246"
+},
+{
+"text": "5247",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5247"
+},
+{
+"text": "5657",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2024-HB-5657"
+},
+{
+"text": "Contact",
+"href": "https://noahformi.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/njawebsite"
+},
+{
+"text": "EDUCATION",
+"href": "https://noahformi.com/policies/education/"
+},
+{
+"text": "FY 2024 State Budget",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4437"
+},
+{
+"text": "Follow Noah on Twitter",
+"href": "https://twitter.com/noaharbit"
+},
+{
+"text": "Join our campaign",
+"href": "https://noahformi.com/sign-up/"
+},
+{
+"text": "Like Noah on Facebook",
+"href": "https://www.facebook.com/noaharbit"
+},
+{
+"text": "Meet Noah",
+"href": "https://noahformi.com/meet-noah/"
+},
+{
+"text": "Noah’s Plan for Community & Representation",
+"href": "https://noahformi.com/policies/community-representation/"
+},
+{
+"text": "Noah’s Plan for Democracy & Rights",
+"href": "https://noahformi.com/policies/democracy-rights/"
+},
+{
+"text": "Noah’s Plan for Economy & Jobs",
+"href": "https://noahformi.com/policies/economy-jobs-innovation/"
+},
+{
+"text": "Noah’s Plan for Education",
+"href": "https://noahformi.com/policies/education/"
+},
+{
+"text": "Noah’s Plan for Environment & Water",
+"href": "https://noahformi.com/policies/environment-water/"
+},
+{
+"text": "Noah’s Plan for Health & Seniors",
+"href": "https://noahformi.com/policies/health-families-seniors/"
+},
+{
+"text": "Noah’s Plan for Mental Health",
+"href": "https://noahformi.com/policies/mental-health/"
+},
+{
+"text": "Noah’s Plan for Smart Justice",
+"href": "https://noahformi.com/policies/smart-equal-justice-for-all/"
+},
+{
+"text": "Noah’s Plan on Hate Crimes & Extremism",
+"href": "https://noahformi.com/policies/hate-crimes-extremism/"
+},
+{
+"text": "Priorities",
+"href": "https://noahformi.com/policies/"
+},
+{
+"text": "Results",
+"href": "https://noahformi.com/policies/noahs-greatest-hits/"
+},
+{
+"text": "SMART & EQUAL JUSTICE FOR ALL",
+"href": "https://noahformi.com/policies/smart-equal-justice-for-all/"
+},
+{
+"text": "Sign-Up for Noah's Newsletter",
+"href": "https://noahformi.com/sign-up/"
+},
+{
+"text": "Support Noah's Campaign",
+"href": "https://secure.actblue.com/donate/njawebsite"
+},
+{
+"text": "[image: Noah Arbit for State Representative]",
+"href": "https://noahformi.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/noaharbit"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/noaharbit"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/narbit/"
+},
+{
+"text": "[tooltip: Email]",
+"href": "https://noahformi.com/policies/environment-water/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnoahformi.com%2Fpolicies%2Fenvironment-water%2F"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/intent/tweet?text=ENVIRONMENT+%26+WATER&url=https%3A%2F%2Fnoahformi.com%2Fpolicies%2Fenvironment-water%2F"
+},
+{
+"text": "make a donation",
+"href": "https://secure.actblue.com/donate/njawebsite"
+}
 ]

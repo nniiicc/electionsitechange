@@ -1,14 +1,6 @@
-Building Momentum Across Suffolk
-From community events and fundraisers to exciting campaign news, there is a lot to catch up on.
-I am a candidate for New York State Assembly District 7, a veteran public school teacher, proud union member, mother of four, and lifelong Long Islander.
+Skip to content About Contact Endorsements Get Involved Media Priorities Updates Donate Donate About Contact Endorsements Get Involved Media Priorities Updates Donate Teacher & Mom for State Assembly Meet Trish I am a candidate for New York State Assembly District 7, a veteran public school teacher, proud union member, mother of four, and lifelong Long Islander.
 I spent more than 20 years teaching in the Half Hollow Hills and Brentwood School Districts while raising my family on the South Shore.
-“As a mom I have no choice but to fight, not just for my children’s future, but for the future of every child and every hard working South Shore family.”
-My life has been shaped by family, public education, organized labor, and the community I call home.
-About Trish
-State Assembly District 7
-58%
-of residents 25-35 still live with family members due to affordability challenges
-50%
-of total income is spent on rent by South Shore renters
-70%
-of young adults are likely to move out of state within five years, as high costs make homeownership unachievable
+“As a mom I have no choice but to fight, not just for my children’s future, but for the future of every child and every hard working South Shore family.” My life has been shaped by family, public education, organized labor, and the community I call home.
+About Trish → I Pledge to Vote → About → Attend an Event → Priorities → Updates → Volunteer → Voting Hub → Donate → Updates → Newsletter • August 24, 2026 Building Momentum Across Suffolk From community events and fundraisers to exciting campaign news, there is a lot to catch up on. → Press Release • August 11, 2026 Trish Kopp Becomes First and Only First-Time Candidate in Suffolk County to Max Out Public Matching Funds $175,000 Public Matching Funds Milestone Adds Momentum to Highly Competitive Assembly District 7 Race → Press Release • August 7, 2026 Trish Kopp Surpasses $# Raised, Outraising Republican Opponent in Key Assembly District 7 Race Kopp campaign is less than $10,000 away from maximizing public financing as grassroots momentum grows across the South Shore. → In the News • July 21, 2026 Newsday: Suffolk GOP Stronghold Sees Big Fundraising Newsday’s The Point highlights the competitive Assembly District 7 race between Trish Kopp and DawnMarie Kuhn, including significant fundraising in the open South Shore seat. → ← → Chip In to Elect Trish Kopp $5 $25 $50 $100 $250 Other Choose an amount.
+If you’ve saved your information with ActBlue Express, your contribution may be processed immediately.
+Our District State Assembly District 7 58% of residents 25-35 still live with family members due to affordability challenges 50% of total income is spent on rent by South Shore renters 70% of young adults are likely to move out of state within five years, as high costs make homeownership unachievable Contact Website Policies Paid for by Friends of Trish Kopp Website Powered by WordPress and Built by Daniel Mulladzhanov

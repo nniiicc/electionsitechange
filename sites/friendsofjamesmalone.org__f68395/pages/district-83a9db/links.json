@@ -1,50 +1,202 @@
 [
-"http://wdtwp.com/",
-"https://akron-pa.com/",
-"https://bsky.app/profile/maloneforsenate.bsky.social",
-"https://columbiabsd.org/",
-"https://columbiapa.net/",
-"https://conestogavalley.org/",
-"https://conoytownship.org/",
-"https://donegalsd.org/",
-"https://earltownship.com/",
-"https://easdpa.org/",
-"https://eastdonegaltwp.com/",
-"https://easthempfield.org/",
-"https://eastpetersburgday.com/",
-"https://elanco.org/",
-"https://elizabethtownship.net/",
-"https://ephrataboro.org/",
-"https://ephratatownship.org/",
-"https://etownonline.com/",
-"https://etownschools.org/",
-"https://facebook.com/maloneforsenatePA",
-"https://friendsofjamesmalone.org/",
-"https://friendsofjamesmalone.org/district",
-"https://friendsofjamesmalone.org/endorsements",
-"https://friendsofjamesmalone.org/get-involved",
-"https://friendsofjamesmalone.org/meet-candidate",
-"https://friendsofjamesmalone.org/news",
-"https://friendsofjamesmalone.org/priorities",
-"https://friendsofjamesmalone.org/privacy-policy",
-"https://hempfieldsd.org/",
-"https://instagram.com/_maloneforsenate",
-"https://lititzborough.org/",
-"https://manheimboro.org/",
-"https://manheimcentral.org/",
-"https://manheimtownship.org/",
-"https://mountvilleborough.com/",
-"https://mtjoytwp.org/",
-"https://mtwp.net/",
-"https://penntwplanco.org/",
-"https://raphotownship.com/",
-"https://secure.actblue.com/donate/james-malone-36",
-"https://secure.actblue.com/donate/jamwebsite",
-"https://techforcampaigns.org/",
-"https://warwicksd.org/website/index.php",
-"https://warwicktownship.org/",
-"https://westearltwp.org/",
-"https://westhempfield.org/",
-"https://x.com/maloneforsenate",
-"https://youtube.com/@maloneforsenatePA"
+{
+"text": "Akron Borough",
+"href": "https://www.akron-pa.com/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/maloneforsenate.bsky.social"
+},
+{
+"text": "Columbia Borough",
+"href": "https://www.columbiapa.net/"
+},
+{
+"text": "Columbia Borough School District",
+"href": "https://www.columbiabsd.org/"
+},
+{
+"text": "Conestoga Valley School District",
+"href": "https://www.conestogavalley.org/"
+},
+{
+"text": "Conoy Township",
+"href": "https://conoytownship.org/"
+},
+{
+"text": "District",
+"href": "https://friendsofjamesmalone.org/district/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/james-malone-36"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jamwebsite"
+},
+{
+"text": "Donegal School District",
+"href": "https://www.donegalsd.org/"
+},
+{
+"text": "Earl Township",
+"href": "https://earltownship.com/"
+},
+{
+"text": "East Donegal Township",
+"href": "https://eastdonegaltwp.com/"
+},
+{
+"text": "East Hempfield Township",
+"href": "https://www.easthempfield.org/"
+},
+{
+"text": "East Petersburg Borough",
+"href": "https://www.eastpetersburgday.com/"
+},
+{
+"text": "Eastern Lancaster County School District",
+"href": "https://www.elanco.org/"
+},
+{
+"text": "Elizabeth Township",
+"href": "https://elizabethtownship.net/"
+},
+{
+"text": "Elizabethtown Area School District",
+"href": "https://www.etownschools.org/"
+},
+{
+"text": "Elizabethtown Borough",
+"href": "https://www.etownonline.com/"
+},
+{
+"text": "Endorsements",
+"href": "https://friendsofjamesmalone.org/endorsements/"
+},
+{
+"text": "Ephrata Area School District",
+"href": "https://www.easdpa.org/"
+},
+{
+"text": "Ephrata Borough",
+"href": "https://www.ephrataboro.org/"
+},
+{
+"text": "Ephrata Township",
+"href": "https://ephratatownship.org/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/maloneforsenatePA"
+},
+{
+"text": "Get Involved",
+"href": "https://friendsofjamesmalone.org/get-involved/"
+},
+{
+"text": "Hempfield School District",
+"href": "https://www.hempfieldsd.org/"
+},
+{
+"text": "Home",
+"href": "https://friendsofjamesmalone.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/_maloneforsenate"
+},
+{
+"text": "Lititz Borough",
+"href": "https://www.lititzborough.org/"
+},
+{
+"text": "Manheim Borough",
+"href": "https://manheimboro.org/"
+},
+{
+"text": "Manheim Central School District",
+"href": "https://www.manheimcentral.org/"
+},
+{
+"text": "Manheim Township",
+"href": "https://www.manheimtownship.org/"
+},
+{
+"text": "Manheim Township School District",
+"href": "https://www.mtwp.net/"
+},
+{
+"text": "Meet James",
+"href": "https://friendsofjamesmalone.org/meet-candidate/"
+},
+{
+"text": "Mount Joy Township",
+"href": "https://www.mtjoytwp.org/"
+},
+{
+"text": "Mountville Borough",
+"href": "https://www.mountvilleborough.com/"
+},
+{
+"text": "News",
+"href": "https://friendsofjamesmalone.org/news/"
+},
+{
+"text": "Penn Township",
+"href": "https://penntwplanco.org/"
+},
+{
+"text": "Priorities",
+"href": "https://friendsofjamesmalone.org/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://friendsofjamesmalone.org/privacy-policy/"
+},
+{
+"text": "Rapho Township",
+"href": "https://raphotownship.com/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "Warwick School District",
+"href": "https://www.warwicksd.org/website/index.php"
+},
+{
+"text": "Warwick Township",
+"href": "https://www.warwicktownship.org/"
+},
+{
+"text": "West Donegal Township",
+"href": "http://wdtwp.com/"
+},
+{
+"text": "West Earl Township",
+"href": "https://www.westearltwp.org/"
+},
+{
+"text": "West Hempfield Township",
+"href": "https://www.westhempfield.org/"
+},
+{
+"text": "X",
+"href": "https://x.com/maloneforsenate"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@maloneforsenatePA"
+},
+{
+"text": "[image: Malone for Senate]",
+"href": "https://friendsofjamesmalone.org/"
+},
+{
+"text": "campaign@friendsofjamesmalone.org",
+"href": "mailto:campaign@friendsofjamesmalone.org"
+}
 ]

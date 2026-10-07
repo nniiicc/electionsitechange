@@ -1,5 +1,4 @@
-Summit County
-Our Republican State Convention is only days away, and I’m grateful for the opportunity to get to know many of our great state delegates over the past several weeks.
+0 Skip to Content Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Summit County Apr 15 Written By S Our Republican State Convention is only days away, and I’m grateful for the opportunity to get to know many of our great state delegates over the past several weeks.
 In these closing days, if you have any questions or counsel for me, PLEASE let me know.
 With that in mind and especially for those of you in Summit County, I hope you can join your fellow delegates and me tonight in Park City for dessert and a wide-open discussion of the issues facing our communities and the state.
 Flier with the details are listed below.
@@ -24,5 +23,4 @@ Our state benefits from the tax and tourism dollars we provide, but too often th
 That will be a focus of mine as well.
 In short, ours is a unique and vital part of the state, and your representative in the legislature must be a forceful voice for our interests.
 I’m excited to have the opportunity to be that voice.
-All the best,
-Luke Searle
+All the best, Luke Searle S Previous Previous My Record and Conservative Experience Next Next Education: Our State's Future Site Navigation Home About Issues & Priorities Record & Results Contact Donate Connect Copyright # Paid for by Friends of Luke Searle

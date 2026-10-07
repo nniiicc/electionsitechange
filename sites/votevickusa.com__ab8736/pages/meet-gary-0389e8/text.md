@@ -1,5 +1,7 @@
-Meet Gary Pierce
-President Abraham Lincoln helped take a fledgling, regional third party and turn it into a dominant national force, all without the Internet.
+0 Skip to Content Meet Mike Meet Gary Volunteer Values Priorities Events PODCAST News Follow Us Our Party Contact CONTRIBUTE!
+Open Menu Close Menu Meet Mike Meet Gary Volunteer Values Priorities Events PODCAST News Follow Us Our Party Contact CONTRIBUTE!
+Open Menu Close Menu Meet Mike Meet Gary Volunteer Values Priorities Events PODCAST News Follow Us Our Party Contact CONTRIBUTE!
+Meet Gary Pierce President Abraham Lincoln helped take a fledgling, regional third party and turn it into a dominant national force, all without the Internet.
 It can be done!
 My mother brought us north to Illinois more than sixty years ago.
 She didn't do it for a change of scenery.
@@ -60,3 +62,9 @@ As I like to say: we don't need more government.
 We need better neighbors, stronger communities, and leaders who actually serve.
 That's the leadership I've tried to practice for 25 years in ministry and recovery work.
 It's the leadership I'm ready to bring to the Lieutenant Governor's office, serving alongside Mike Vick and the Illinois Solidarity Party ticket.
+Learn more about my running mate, Mike Vick Join the conversation!
+Send me your comments and questions below!
+Contact Friends of Mike Vick Illinois: (217) 886-8850 National: (202) 525-6336 2501 Chatham Rd #6744 Springfield, IL, 62704 (Address for Physical Mail Only) ©#, Friends of Mike Vick.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website or for purchase from the State Board of Elections, Springfield, Illinois.
+Proceeds from contributions made via this site will be used for the expenses of Mike Vick, candidate for governor of Illinois, and his running mate, Gary Pierce, candidate for lieutenant governor of Illinois.
+VoteVickUSA.com Design by Inscape .

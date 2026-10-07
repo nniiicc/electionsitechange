@@ -1,16 +1,12 @@
-A message from Kristi:
-I am running for re-election to keep representing the wonderful people of my district.
+0 Skip to Content Home Join Us My Priorities Donate Open Menu Close Menu Home Join Us My Priorities Donate Open Menu Close Menu Home Join Us My Priorities Donate Donate A message from Kristi: I am running for re-election to keep representing the wonderful people of my district.
 Time and again, your support has shown me what PEOPLE POWER looks like, and I am asking for your vote once more.
 There is still so much to fight for: economic freedom, climate action, bodily autonomy, and safety for ALL of our neighbors.
 Please stay connected, sign up to volunteer, and take action to shape the future of our state.
-It is my honor to serve everyone in 58A and I am ready to continue the fight.
--Representative Kristi Pursell
-I am proud to serve the people of Lonsdale, Dundas, Webster, New Prague, and Northfield as the Minnesota House Representative for District 58A.
+It is my honor to serve everyone in 58A and I am ready to continue the fight. -Representative Kristi Pursell I am proud to serve the people of Lonsdale, Dundas, Webster, New Prague, and Northfield as the Minnesota House Representative for District 58A.
 I am running for re-election to keep fighting for the things Minnesotans like you and me need: access to affordable health care, housing, and high quality education.
 I believe in democracy, a healthy world for future generations, and the basic decency of human beings.
 Please join us!
-About Kristi
-I'm proud of my strong Southern Minnesota roots.
+About Kristi I'm proud of my strong Southern Minnesota roots.
 I was raised in Rochester, graduated from St.
 Olaf College, and am raising my two children in Northfield, my home for the better part of a decade.
 As a community member and a leader, I've forged deep and authentic partnerships across our district.
@@ -28,4 +24,6 @@ When we come together, grounded in our values, we can build a resilient climate,
 Good representation requires decision-making that is centered in community.
 This is why I believe in listening to EVERYONE, regardless of race, class, gender, political party, and zip code.
 I hope to hear from you.
-Please take a moment to share your story and what you care about with Kristi here.
+Please take a moment to share your story and what you care about with Kristi here .
+Prepared and paid for by the Kristi Pursell for House Committee, P.O.
+Box 443, Northfield, MN 55057 Facebook | Instagram | TikTok | YouTube | votekristipursell@gmail.com | 507.200.8177

@@ -1,5 +1,6 @@
-March 2026
-House Bill 104, commonly known around the legislature as ‘Defend the Guard’, is legislation that says that the State National Guard cannot be used for foreign combat missions unless the United States Congress has has formally declared war.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Malicious Laughter & Willful Incompetence Malicious Laughter & Willful Incompetence Malicious Laughter & Willful Incompetence Mar 31, 2026 Mar 31, 2026 March 2026 Beacon Hill - 19:45 27 March - By Jonah O.
+Beacon Hill - 19:45 27 March - By Jonah O.
+0:00 / 1:34 House Bill 104, commonly known around the legislature as ‘Defend the Guard’, is legislation that says that the State National Guard cannot be used for foreign combat missions unless the United States Congress has has formally declared war.
 Something that legislature has not done since the Second World War.
 This bill has gone back-and-forth in the state legislature for several years.
 Passing the House of Representatives with strong margins on a non-partisan basis several times, but always failing in the State Senate where the lobbyists and other special interests have far more sway over the peoples' will.
@@ -9,6 +10,8 @@ They testified to the fact it would protect our national guard from deployments 
 As I said in my testimony, these aren't peaceniks coming out to support this bill - these supporters are men and women who have served in the guard and other branches of our military, who see that these deployments that they have participated in were done in the interests of corporations, and not the country which they swore in oath to serve; and they want to do everything in their power to protect their brothers and sisters in arms from further deployments.
 This legislation sends a message to the United States Congress that this state will not send its men and women who have signed up to serve its national guard, to foreign deployments without constitutional authorization.
 It's a straightforward and strong message that all states should be sending to a federal government which has enthusiastically neglected its constitutional obligations.
+Jackmans & Ro - Keene NH - 13:27 1 March - By Jonah O.
+Jackmans & Ro - Keene NH - 13:27 1 March - By Jonah O.
 It is further emphasized by the fact that the United States is currently engaged in a military conflict with the nation state of Iran, that risks further escalation, and as we discovered at the end of the month, the potential for ground invasion.
 As men and women in the guard are deployed to Persia to fight this war at the behest of interests that are not the country which they swore oath to, we as legislators at home have have a moral obligation to those men and women to do what we can to make sure that this country holds up it's constitutional obligations.
 The public hearing is a tradition sacred to the process of the New Hampshire legislature.
@@ -22,7 +25,7 @@ They held members of the public to a strict, three minute time limit, but gave t
 Immediately following the hearing, they moved to report the legislation to the full Senate as marked inexpedient to legislate.
 In common language, they voted to kill the bill.
 I've seen a lot of disgusting moments of disregard in my time here in this legislature, but this stands as one of the most egregious examples.
-However, that's last months's news.
+Harvey Keye - Nashua - 16:08 30 March - By Peter Harvey Keye - Nashua - 16:08 30 March - By Peter However, that's last months's news.
 I mentioned House Bill 104 because the story didn't end there.
 On the fifth of this month when the bill was reported to the Senate calendar where it will be voted on the Senate floor.
 Senator Gray, the chairman of the Senate finance committee, pulled the bill off the Senate's consent calendar; a move often done in order to amend the bill and pass it in a form different than what the committee unanimously agreed on.
@@ -43,6 +46,8 @@ It is insane for the State Senate to respond to this moment in time by laughing 
 It is insane.
 There is no other word for it.
 History will look back on this time and see the characters in our State Senate, their actions, and they will judge them appropriately.
+23 Candles and Veronica - Peterborough - 17:46 1 March - By Jonah O.
+23 Candles and Veronica - Peterborough - 17:46 1 March - By Jonah O.
 The schedule for the session of the legislature, meaning the schedule that says when legislation is introduced, heard in committee, and voted on; is composed by deadlines set by the House and Senate rules committees at the beginning of each years’ session.
 The deadlines for both the House and Senate can be found on their respective calendars.
 Thursday, March 26th was the deadline to act on all House bills.
@@ -82,6 +87,5 @@ This new era of leadership requires you, yes you, taking agency of your life.
 Engaging in the civic life around you, and refusing to accede your freedom to those who would sell it for the false security of tyranny.
 This is far from the only challenging era of our State’s generational history, and it will be far from the last.
 When ordinary people make a stand, real change is possible.
-Run for office this cycle (sign ups start June 4th), help someone you believe in run for office, educate yourself on the processes of our government which the powerful rely on you misunderstanding;
-Believe.
-Back to all
+Run for office this cycle (sign ups start June 4th), help someone you believe in run for office, educate yourself on the processes of our government which the powerful rely on you misunderstanding; Believe.
+Boston - 27 March - By Agnieska Rytych Boston - 27 March - By Agnieska Rytych ‹ A Lunch Room Legislature ‹ A Lunch Room Legislature ‹ A Lunch Room Legislature The Secrets of Carcosa › The Secrets of Carcosa › The Secrets of Carcosa › Back to all

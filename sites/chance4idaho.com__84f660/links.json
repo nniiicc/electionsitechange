@@ -1,15 +1,70 @@
 [
-"https://chance4idaho.com/",
-"https://chance4idaho.com/about",
-"https://chance4idaho.com/accessibilitystatement",
-"https://chance4idaho.com/blank-2",
-"https://chance4idaho.com/blog",
-"https://chance4idaho.com/contact",
-"https://chance4idaho.com/donate",
-"https://chance4idaho.com/getinvolved",
-"https://chance4idaho.com/news",
-"https://chance4idaho.com/pillars",
-"https://chance4idaho.com/privacypolicy",
-"https://facebook.com/share/18irx7NWt3?mibextid=wwXIfr",
-"https://instagram.com/chance4idaho?igsh=ejFqeHkydHhqdHMy"
+{
+"text": "$#",
+"href": "https://www.chance4idaho.com/donate"
+},
+{
+"text": "$1000",
+"href": "https://www.chance4idaho.com/donate"
+},
+{
+"text": "ABOUT",
+"href": "https://www.chance4idaho.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.chance4idaho.com/accessibilitystatement"
+},
+{
+"text": "CONTACT",
+"href": "https://www.chance4idaho.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.chance4idaho.com/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.chance4idaho.com/getinvolved"
+},
+{
+"text": "HOME",
+"href": "https://www.chance4idaho.com"
+},
+{
+"text": "INTERVIEWS & MEDIA APPEARANCES",
+"href": "https://www.chance4idaho.com/blog"
+},
+{
+"text": "LEARN MORE ABOUT CHANCE",
+"href": "https://www.chance4idaho.com/blank-2"
+},
+{
+"text": "MEET CHANCE",
+"href": "https://www.chance4idaho.com/about"
+},
+{
+"text": "NEWS",
+"href": "https://www.chance4idaho.com/news"
+},
+{
+"text": "Other",
+"href": "https://www.chance4idaho.com/donate"
+},
+{
+"text": "PILLARS",
+"href": "https://www.chance4idaho.com/pillars"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.chance4idaho.com/privacypolicy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/share/18irx7NWt3/?mibextid=wwXIfr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/chance4idaho?igsh=ejFqeHkydHhqdHMy"
+}
 ]

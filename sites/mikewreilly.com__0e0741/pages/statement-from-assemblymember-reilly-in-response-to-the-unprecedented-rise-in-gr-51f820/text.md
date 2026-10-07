@@ -1,6 +1,4 @@
-FOR IMMEDIATE RELEASE: January 12, 2023
-The following statement is from Assemblymember Michael Reilly (R,C-Staten Island) in response to the unprecedented rise in grand larceny crime on Staten Island:
-“Since their passage by the state legislature in June 2019, I’ve been among the most vocal opponents to the so-called ‘reforms’ of our criminal justice system.
+Skip to Content Menu Menu Meet Mike Issues Newsroom Take Action Get Involved Request a Sign Contact Us Meet Mike Issues Newsroom Take Action Get Involved Request a Sign Contact Us Donate Now Statement from Assemblymember Reilly in response to the unprecedented rise in grand larceny crime on Staten Island by Team Reilly on January 12, 2023 NEWS FOR IMMEDIATE RELEASE: January 12, 2023 The following statement is from Assemblymember Michael Reilly (R,C-Staten Island) in response to the unprecedented rise in grand larceny crime on Staten Island: “Since their passage by the state legislature in June 2019, I’ve been among the most vocal opponents to the so-called ‘reforms’ of our criminal justice system.
 As I claimed then, and continue to do so now even after several amendments were made last year, these policies undermine law enforcement and threaten the public safety of communities like those that I represent, on Staten Island’s South Shore.
 We know how we got here — this is all the product of a small, out-of-touch group of ‘progressive’ activists who became state lawmakers and have selfishly dictated their agenda, at the expense of everyday New Yorkers, to Albany’s legislative leaders and the Governor.
 As the next legislative session begins, it is clear that we cannot continue down this path, because doing so would mean ignoring the will of the millions of New Yorkers who said in the last election that they wanted to see an immediate restoration of public safety across our state.
@@ -12,4 +10,10 @@ We can no longer kick the can down the road, which is why I am respectfully call
 Additionally, I am calling on New York City Mayor Eric Adams to find the political courage to empower our police officers to fight crime in every corner of the city by fully restoring the plain-clothes anti-crime teams, as well as the citywide street crime units.
 We cannot have one foot in the door and the other out if we ever hope to end this crime crisis — and the Mayor, a former police officer himself, should understand that.
 The bottom line is that our community, and those like it around the state, are at a breaking point.
-As a legislator, as a former law enforcement officer, as a father, and as a private citizen, I say no more half-measures, no more half-baked ‘solutions.’ We need to take action, right now, and I am ready to get to work.”
+As a legislator, as a former law enforcement officer, as a father, and as a private citizen, I say no more half-measures, no more half-baked ‘solutions.’ We need to take action, right now, and I am ready to get to work.” Share: 03.20.26 Reilly Introduces Bill to Cap E-ZPass Penalties and Strengthe...
+Read More > 03.07.26 Take Action: Sign the Petition Against the Proposed Homeless ...
+Read More > 09.22.23 Port Authority Acts on Reilly-Lanza Legislation to Study Alig...
+Read More > 06.06.23 Statement from Assemblymember Reilly regarding plan to house ...
+Read More > 05.23.23 Reilly’s Public Safety Proposals Sidelined by Assembly ...
+Read More > 05.15.23 Statement from Assemblymember Reilly on New York City’s...
+Read More > Meet Mike Issues Newsroom Get Involved Contact Us Paid for by Reilly for New York COPYRIGHT © # MICHAEL REILLY Privacy Policy Contact Us Political Website Design by Back to top

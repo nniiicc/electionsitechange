@@ -1,97 +1,546 @@
 [
-"http://eepurl.com/jmvTI2",
-"http://google.com/calendar/event?action=TEMPLATE&text=ARC+Fest+Candidate+Forum&dates=20261003T192000Z%2F20261003T203000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Ballad+Access+Night&dates=20260828T220000Z%2F20260829T010000Z&location=670+Virginia+Avenue%2C+Indianapolis%2C+Indiana%2C+46203%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Dandy+Trail+Community+Forum&dates=20260928T220000Z%2F20260928T230000Z&location=2930+Waterfront+Parkway+West+Drive%2C+Indianapolis%2C+Indiana%2C+46214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Ft+Wayne+Pride&dates=20260725T180000Z%2F20260725T220000Z&location=333+South+Clinton+Street%2C+Fort+Wayne%2C+Indiana%2C+46802%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=GOTV+Hancock+County+Door-Knocking%21&dates=20260920T130000Z%2F20260920T180000Z&location=5824+West+300+North%2C+Greenfield%2C+Indiana%2C+46140%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Hendricks+County+Pride+Fest&dates=20260628T160000Z%2F20260628T210000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Indiana+Debate+Commission+Secretary+of+State+Debate&dates=20261007T230000Z%2F20261008T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Liberty+Flights&dates=20251115T230000Z%2F20251116T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Lauri+at+CarmelFest%21&dates=20260703T140000Z%2F20260705T020000Z&location=Civic+Square%2C+Carmel%2C+Indiana%2C+46032%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Lauri+at+the+Hancock+County+Fair&dates=20260621T170000Z%2F20260621T230000Z&location=620+Apple+Street%2C+Greenfield%2C+Indiana%2C+46140%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Mooresville+Old+Settlers+Fair&dates=20260808T210000Z%2F20260809T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Riley+Days+-+Greenfield+IN&dates=20261004T160000Z%2F20261004T200000Z&location=9+East+Main+Street%2C+Greenfield%2C+Indiana%2C+46140%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Riley+Festival&dates=20251004T200000Z%2F20251005T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rotary+Club+of+Indiana+Conversation+with+Secretary+of+State+Candidates&dates=20261013T153000Z%2F20261013T203000Z&location=401+East+Michigan+Street%2C+Indianapolis%2C+Indiana%2C+46204%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Summer+Kickoff+Party&dates=20260620T210000Z%2F20260621T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Tasting+Liberty&dates=20251020T230000Z%2F20251021T003000Z&location=6964+West+Whiteland+Road%2C+Bargersville%2C+IN%2C+46106%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Warrick+County+Farm+Bureau+Candidate+Forum&dates=20260922T220000Z%2F20260922T230000Z&location=133+East+Degonia+Road%2C+Boonville%2C+Indiana%2C+47601%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Wayne+County+Candidates+Day&dates=20260718T200000Z%2F20260718T230000Z&location=116+East+Plum+Street%2C+Centerville%2C+Indiana%2C+47330%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Whitley+County+First+Friday&dates=20260807T220000Z%2F20260808T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Wingate+Sweet+Corn+Festival&dates=20260801T160000Z%2F20260801T200000Z&location=102+Garfield+Street%2C+Wingate%2C+Indiana%2C+47994%2C+United+States",
-"http://maps.google.com/?q=102+Garfield+Street+Wingate%2C+Indiana%2C+47994+United+States",
-"http://maps.google.com/?q=116+East+Plum+Street+Centerville%2C+Indiana%2C+47330+United+States",
-"http://maps.google.com/?q=133+East+Degonia+Road+Boonville%2C+Indiana%2C+47601+United+States",
-"http://maps.google.com/?q=2930+Waterfront+Parkway+West+Drive+Indianapolis%2C+Indiana%2C+46214+United+States",
-"http://maps.google.com/?q=333+South+Clinton+Street+Fort+Wayne%2C+Indiana%2C+46802+United+States",
-"http://maps.google.com/?q=401+East+Michigan+Street+Indianapolis%2C+Indiana%2C+46204+United+States",
-"http://maps.google.com/?q=5824+West+300+North+Greenfield%2C+Indiana%2C+46140+United+States",
-"http://maps.google.com/?q=620+Apple+Street+Greenfield%2C+Indiana%2C+46140+United+States",
-"http://maps.google.com/?q=670+Virginia+Avenue+Indianapolis%2C+Indiana%2C+46203+United+States",
-"http://maps.google.com/?q=6964+West+Whiteland+Road+Bargersville%2C+IN%2C+46106+United+States",
-"http://maps.google.com/?q=9+East+Main+Street+Greenfield%2C+Indiana%2C+46140+United+States",
-"http://maps.google.com/?q=Civic+Square+Carmel%2C+Indiana%2C+46032+United+States",
-"https://donorbox.org/events/829367",
-"https://donorbox.org/events/918344/steps/choose_tickets",
-"https://donorbox.org/lauri-for-liberty",
-"https://facebook.com/LauriForLiberty",
-"https://fpinews.org/arcfest",
-"https://indyrotary.com/events/conversation-with-the-indiana-secretary-of-state-candidates",
-"https://instagram.com/lauri4liberty",
-"https://lauriforliberty.com/",
-"https://lauriforliberty.com/about",
-"https://lauriforliberty.com/blog",
-"https://lauriforliberty.com/cart",
-"https://lauriforliberty.com/events",
-"https://lauriforliberty.com/events/arc-fest",
-"https://lauriforliberty.com/events/arc-fest?format=ical",
-"https://lauriforliberty.com/events/ballad-access-night",
-"https://lauriforliberty.com/events/ballad-access-night?format=ical",
-"https://lauriforliberty.com/events/dandy-trail-community-forum",
-"https://lauriforliberty.com/events/dandy-trail-community-forum?format=ical",
-"https://lauriforliberty.com/events/ft-wayne-pride",
-"https://lauriforliberty.com/events/ft-wayne-pride?format=ical",
-"https://lauriforliberty.com/events/gotv-hancock-county-door-knocking",
-"https://lauriforliberty.com/events/gotv-hancock-county-door-knocking?format=ical",
-"https://lauriforliberty.com/events/hendricks-county-pride-fest",
-"https://lauriforliberty.com/events/hendricks-county-pride-fest?format=ical",
-"https://lauriforliberty.com/events/indiana-debate-commission-secretary-of-state-debate",
-"https://lauriforliberty.com/events/indiana-debate-commission-secretary-of-state-debate?format=ical",
-"https://lauriforliberty.com/events/liberty-flights",
-"https://lauriforliberty.com/events/liberty-flights?format=ical",
-"https://lauriforliberty.com/events/meet-lauri-at-carmelfest",
-"https://lauriforliberty.com/events/meet-lauri-at-carmelfest?format=ical",
-"https://lauriforliberty.com/events/meet-lauri-at-the-hancock-county-fair",
-"https://lauriforliberty.com/events/meet-lauri-at-the-hancock-county-fair?format=ical",
-"https://lauriforliberty.com/events/mooresville-old-settlers-fair",
-"https://lauriforliberty.com/events/mooresville-old-settlers-fair?format=ical",
-"https://lauriforliberty.com/events/riley-days-greenfield-in",
-"https://lauriforliberty.com/events/riley-days-greenfield-in?format=ical",
-"https://lauriforliberty.com/events/riley-festival-2025",
-"https://lauriforliberty.com/events/riley-festival-2025?format=ical",
-"https://lauriforliberty.com/events/rotary-club-of-indiana-conversation-with-secretary-of-state-candidates",
-"https://lauriforliberty.com/events/rotary-club-of-indiana-conversation-with-secretary-of-state-candidates?format=ical",
-"https://lauriforliberty.com/events/summer-kickoff-party",
-"https://lauriforliberty.com/events/summer-kickoff-party?format=ical",
-"https://lauriforliberty.com/events/tasting-liberty",
-"https://lauriforliberty.com/events/tasting-liberty?format=ical",
-"https://lauriforliberty.com/events/warrick-county-farm-bureau-candidate-forum",
-"https://lauriforliberty.com/events/warrick-county-farm-bureau-candidate-forum?format=ical",
-"https://lauriforliberty.com/events/wayne-county-candidates-day",
-"https://lauriforliberty.com/events/wayne-county-candidates-day?format=ical",
-"https://lauriforliberty.com/events/whitley-county-first-friday",
-"https://lauriforliberty.com/events/whitley-county-first-friday?format=ical",
-"https://lauriforliberty.com/events/wingate-sweet-corn-festival",
-"https://lauriforliberty.com/events/wingate-sweet-corn-festival?format=ical",
-"https://lauriforliberty.com/events?category=Fundraiser",
-"https://lauriforliberty.com/events?category=Tabling+Event",
-"https://lauriforliberty.com/issues",
-"https://lauriforliberty.com/media-kit",
-"https://lauriforliberty.com/volunteer",
-"https://lauriforliberty.com/vote-indiana",
-"https://mallowrun.com/",
-"https://x.com/LauriforLiberty",
-"https://youtube.com/@LauriforLiberty",
-"https://youtube.com/@WFYIPublicMedia/streams"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=102+garfield+street+wingate%2C+indiana%2C+47994+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=116+east+plum+street+centerville%2C+indiana%2C+47330+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=133+east+degonia+road+boonville%2C+indiana%2C+47601+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2930+waterfront+parkway+west+drive+indianapolis%2C+indiana%2C+46214+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=333+south+clinton+street+fort+wayne%2C+indiana%2C+46802+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=401+east+michigan+street+indianapolis%2C+indiana%2C+46204+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5824+west+300+north+greenfield%2C+indiana%2C+46140+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=620+apple+street+greenfield%2C+indiana%2C+46140+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=670+virginia+avenue+indianapolis%2C+indiana%2C+46203+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=6964+west+whiteland+road+bargersville%2C+in%2C+46106+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=9+east+main+street+greenfield%2C+indiana%2C+46140+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=civic+square+carmel%2C+indiana%2C+46032+united+states"
+},
+{
+"text": "0",
+"href": "https://www.lauriforliberty.com/cart"
+},
+{
+"text": "ARC Fest Candidate Forum",
+"href": "https://www.lauriforliberty.com/events/arc-fest"
+},
+{
+"text": "About",
+"href": "https://www.lauriforliberty.com/about"
+},
+{
+"text": "Ballad Access Night",
+"href": "https://www.lauriforliberty.com/events/ballad-access-night"
+},
+{
+"text": "Contact",
+"href": "https://www.lauriforliberty.com/volunteer"
+},
+{
+"text": "Dandy Trail Community Forum",
+"href": "https://www.lauriforliberty.com/events/dandy-trail-community-forum"
+},
+{
+"text": "Donate",
+"href": "https://donorbox.org/lauri-for-liberty"
+},
+{
+"text": "Events",
+"href": "https://www.lauriforliberty.com/events"
+},
+{
+"text": "Ft Wayne Pride",
+"href": "https://www.lauriforliberty.com/events/ft-wayne-pride"
+},
+{
+"text": "Fundraiser",
+"href": "https://www.lauriforliberty.com/events?category=Fundraiser"
+},
+{
+"text": "GOTV Hancock County Door-Knocking!",
+"href": "https://www.lauriforliberty.com/events/gotv-hancock-county-door-knocking"
+},
+{
+"text": "Get Tickets",
+"href": "https://donorbox.org/events/918344/steps/choose_tickets"
+},
+{
+"text": "Get Your Tickets",
+"href": "https://donorbox.org/events/829367"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=ARC+Fest+Candidate+Forum&dates=20261003T192000Z%2F20261003T203000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ballad+Access+Night&dates=20260828T220000Z%2F20260829T010000Z&location=670+Virginia+Avenue%2C+Indianapolis%2C+Indiana%2C+46203%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Dandy+Trail+Community+Forum&dates=20260928T220000Z%2F20260928T230000Z&location=2930+Waterfront+Parkway+West+Drive%2C+Indianapolis%2C+Indiana%2C+46214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ft+Wayne+Pride&dates=20260725T180000Z%2F20260725T220000Z&location=333+South+Clinton+Street%2C+Fort+Wayne%2C+Indiana%2C+46802%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=GOTV+Hancock+County+Door-Knocking%21&dates=20260920T130000Z%2F20260920T180000Z&location=5824+West+300+North%2C+Greenfield%2C+Indiana%2C+46140%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hendricks+County+Pride+Fest&dates=20260628T160000Z%2F20260628T210000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Indiana+Debate+Commission+Secretary+of+State+Debate&dates=20261007T230000Z%2F20261008T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Liberty+Flights&dates=20251115T230000Z%2F20251116T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Lauri+at+CarmelFest%21&dates=20260703T140000Z%2F20260705T020000Z&location=Civic+Square%2C+Carmel%2C+Indiana%2C+46032%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Lauri+at+the+Hancock+County+Fair&dates=20260621T170000Z%2F20260621T230000Z&location=620+Apple+Street%2C+Greenfield%2C+Indiana%2C+46140%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Mooresville+Old+Settlers+Fair&dates=20260808T210000Z%2F20260809T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Riley+Days+-+Greenfield+IN&dates=20261004T160000Z%2F20261004T200000Z&location=9+East+Main+Street%2C+Greenfield%2C+Indiana%2C+46140%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Riley+Festival&dates=20251004T200000Z%2F20251005T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rotary+Club+of+Indiana+Conversation+with+Secretary+of+State+Candidates&dates=20261013T153000Z%2F20261013T203000Z&location=401+East+Michigan+Street%2C+Indianapolis%2C+Indiana%2C+46204%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Summer+Kickoff+Party&dates=20260620T210000Z%2F20260621T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Tasting+Liberty&dates=20251020T230000Z%2F20251021T003000Z&location=6964+West+Whiteland+Road%2C+Bargersville%2C+IN%2C+46106%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Warrick+County+Farm+Bureau+Candidate+Forum&dates=20260922T220000Z%2F20260922T230000Z&location=133+East+Degonia+Road%2C+Boonville%2C+Indiana%2C+47601%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Wayne+County+Candidates+Day&dates=20260718T200000Z%2F20260718T230000Z&location=116+East+Plum+Street%2C+Centerville%2C+Indiana%2C+47330%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Whitley+County+First+Friday&dates=20260807T220000Z%2F20260808T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Wingate+Sweet+Corn+Festival&dates=20260801T160000Z%2F20260801T200000Z&location=102+Garfield+Street%2C+Wingate%2C+Indiana%2C+47994%2C+United+States"
+},
+{
+"text": "Hendricks County Pride Fest",
+"href": "https://www.lauriforliberty.com/events/hendricks-county-pride-fest"
+},
+{
+"text": "Home",
+"href": "https://www.lauriforliberty.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/arc-fest?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/ballad-access-night?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/dandy-trail-community-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/ft-wayne-pride?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/gotv-hancock-county-door-knocking?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/hendricks-county-pride-fest?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/indiana-debate-commission-secretary-of-state-debate?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/liberty-flights?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/meet-lauri-at-carmelfest?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/meet-lauri-at-the-hancock-county-fair?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/mooresville-old-settlers-fair?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/riley-days-greenfield-in?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/riley-festival-2025?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/rotary-club-of-indiana-conversation-with-secretary-of-state-candidates?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/summer-kickoff-party?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/tasting-liberty?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/warrick-county-farm-bureau-candidate-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/wayne-county-candidates-day?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/whitley-county-first-friday?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/wingate-sweet-corn-festival?format=ical"
+},
+{
+"text": "Indiana Debate Commission Secretary of State Debate",
+"href": "https://www.lauriforliberty.com/events/indiana-debate-commission-secretary-of-state-debate"
+},
+{
+"text": "Issues",
+"href": "https://www.lauriforliberty.com/issues"
+},
+{
+"text": "Liberty Flights",
+"href": "https://www.lauriforliberty.com/events/liberty-flights"
+},
+{
+"text": "Mallow Run Winery",
+"href": "https://www.mallowrun.com/"
+},
+{
+"text": "Media & Press Inquiry",
+"href": "https://www.lauriforliberty.com/media-kit"
+},
+{
+"text": "Meet Lauri at CarmelFest!",
+"href": "https://www.lauriforliberty.com/events/meet-lauri-at-carmelfest"
+},
+{
+"text": "Meet Lauri at the Hancock County Fair",
+"href": "https://www.lauriforliberty.com/events/meet-lauri-at-the-hancock-county-fair"
+},
+{
+"text": "Mooresville Old Settlers Fair",
+"href": "https://www.lauriforliberty.com/events/mooresville-old-settlers-fair"
+},
+{
+"text": "News",
+"href": "https://www.lauriforliberty.com/blog"
+},
+{
+"text": "Riley Days - Greenfield IN",
+"href": "https://www.lauriforliberty.com/events/riley-days-greenfield-in"
+},
+{
+"text": "Riley Festival",
+"href": "https://www.lauriforliberty.com/events/riley-festival-2025"
+},
+{
+"text": "Rotary Club of Indiana Conversation with Secretary of State Candidates",
+"href": "https://www.lauriforliberty.com/events/rotary-club-of-indiana-conversation-with-secretary-of-state-candidates"
+},
+{
+"text": "Rotary Club of Indianapolis website",
+"href": "https://indyrotary.com/events/conversation-with-the-indiana-secretary-of-state-candidates/"
+},
+{
+"text": "Sign up for our newsletter",
+"href": "http://eepurl.com/jmvTI2"
+},
+{
+"text": "Summer Kickoff Party",
+"href": "https://www.lauriforliberty.com/events/summer-kickoff-party"
+},
+{
+"text": "Tabling Event",
+"href": "https://www.lauriforliberty.com/events?category=Tabling+Event"
+},
+{
+"text": "Tasting Liberty",
+"href": "https://www.lauriforliberty.com/events/tasting-liberty"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/arc-fest"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/ballad-access-night"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/dandy-trail-community-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/ft-wayne-pride"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/gotv-hancock-county-door-knocking"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/hendricks-county-pride-fest"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/indiana-debate-commission-secretary-of-state-debate"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/liberty-flights"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/meet-lauri-at-carmelfest"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/meet-lauri-at-the-hancock-county-fair"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/mooresville-old-settlers-fair"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/riley-days-greenfield-in"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/riley-festival-2025"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/rotary-club-of-indiana-conversation-with-secretary-of-state-candidates"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/summer-kickoff-party"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/tasting-liberty"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/warrick-county-farm-bureau-candidate-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/wayne-county-candidates-day"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/whitley-county-first-friday"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/wingate-sweet-corn-festival"
+},
+{
+"text": "Voting",
+"href": "https://www.lauriforliberty.com/vote-indiana"
+},
+{
+"text": "WFYI’s YouTube",
+"href": "https://www.youtube.com/@WFYIPublicMedia/streams"
+},
+{
+"text": "Warrick County Farm Bureau Candidate Forum",
+"href": "https://www.lauriforliberty.com/events/warrick-county-farm-bureau-candidate-forum"
+},
+{
+"text": "Wayne County Candidates Day",
+"href": "https://www.lauriforliberty.com/events/wayne-county-candidates-day"
+},
+{
+"text": "Whitley County First Friday",
+"href": "https://www.lauriforliberty.com/events/whitley-county-first-friday"
+},
+{
+"text": "Wingate Sweet Corn Festival",
+"href": "https://www.lauriforliberty.com/events/wingate-sweet-corn-festival"
+},
+{
+"text": "[image: ARC Fest Candidate Forum]",
+"href": "https://www.lauriforliberty.com/events/arc-fest"
+},
+{
+"text": "[image: Ballad Access Night]",
+"href": "https://www.lauriforliberty.com/events/ballad-access-night"
+},
+{
+"text": "[image: Dandy Trail Community Forum]",
+"href": "https://www.lauriforliberty.com/events/dandy-trail-community-forum"
+},
+{
+"text": "[image: GOTV Hancock County Door-Knocking!]",
+"href": "https://www.lauriforliberty.com/events/gotv-hancock-county-door-knocking"
+},
+{
+"text": "[image: Hendricks County Pride Fest]",
+"href": "https://www.lauriforliberty.com/events/hendricks-county-pride-fest"
+},
+{
+"text": "[image: Indiana Debate Commission Secretary of State Debate]",
+"href": "https://www.lauriforliberty.com/events/indiana-debate-commission-secretary-of-state-debate"
+},
+{
+"text": "[image: Lauri Shillings for Indiana Secretary of State ]",
+"href": "https://www.lauriforliberty.com/"
+},
+{
+"text": "[image: Liberty Flights]",
+"href": "https://www.lauriforliberty.com/events/liberty-flights"
+},
+{
+"text": "[image: Meet Lauri at CarmelFest!]",
+"href": "https://www.lauriforliberty.com/events/meet-lauri-at-carmelfest"
+},
+{
+"text": "[image: Meet Lauri at the Hancock County Fair]",
+"href": "https://www.lauriforliberty.com/events/meet-lauri-at-the-hancock-county-fair"
+},
+{
+"text": "[image: Mooresville Old Settlers Fair]",
+"href": "https://www.lauriforliberty.com/events/mooresville-old-settlers-fair"
+},
+{
+"text": "[image: Riley Days - Greenfield IN]",
+"href": "https://www.lauriforliberty.com/events/riley-days-greenfield-in"
+},
+{
+"text": "[image: Riley Festival]",
+"href": "https://www.lauriforliberty.com/events/riley-festival-2025"
+},
+{
+"text": "[image: Rotary Club of Indiana Conversation with Secretary of State Candidates]",
+"href": "https://www.lauriforliberty.com/events/rotary-club-of-indiana-conversation-with-secretary-of-state-candidates"
+},
+{
+"text": "[image: Summer Kickoff Party]",
+"href": "https://www.lauriforliberty.com/events/summer-kickoff-party"
+},
+{
+"text": "[image: Tasting Liberty]",
+"href": "https://www.lauriforliberty.com/events/tasting-liberty"
+},
+{
+"text": "[image: Warrick County Farm Bureau Candidate Forum]",
+"href": "https://www.lauriforliberty.com/events/warrick-county-farm-bureau-candidate-forum"
+},
+{
+"text": "[image: Whitley County First Friday]",
+"href": "https://www.lauriforliberty.com/events/whitley-county-first-friday"
+},
+{
+"text": "[image: Wingate Sweet Corn Festival]",
+"href": "https://www.lauriforliberty.com/events/wingate-sweet-corn-festival"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LauriForLiberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lauri4liberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.lauriforliberty.com/events/ft-wayne-pride"
+},
+{
+"text": "[no text]",
+"href": "https://www.lauriforliberty.com/events/wayne-county-candidates-day"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LauriforLiberty"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LauriforLiberty"
+},
+{
+"text": "https://fpinews.org/arcfest/",
+"href": "https://fpinews.org/arcfest/"
+}
 ]

@@ -1,5 +1,14 @@
 [
-"https://andycantwin.com/",
-"https://secure.actblue.com/donate/indivisible-action-1",
-"https://secure.actblue.com/donate/indivisibleccu1306348168"
+{
+"text": "Learn more about Andy Bowline",
+"href": "https://andycantwin.com"
+},
+{
+"text": "Support Camel City Indivisible",
+"href": "https://secure.actblue.com/donate/indivisibleccu1306348168"
+},
+{
+"text": "Support Indivisible National",
+"href": "https://secure.actblue.com/donate/indivisible-action-1"
+}
 ]

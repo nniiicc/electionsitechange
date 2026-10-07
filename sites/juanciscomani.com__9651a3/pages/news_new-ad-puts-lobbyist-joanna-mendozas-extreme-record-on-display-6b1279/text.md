@@ -1,5 +1,4 @@
-NEW AD Puts Lobbyist JoAnna Mendoza’s Extreme Record on Display
-TUCSON - Congressman Juan Ciscomani's campaign today released a new 30-second ad, "The Facts," laying out lobbyist JoAnna Mendoza's out-of-touch record.
+DONATE DONATE 635ms 0vh 0 Skip to Content Meet Juan News Media Kit Results Endorsements Connect English Donate Open Menu Close Menu English Donate Meet Juan News Media Kit Results Endorsements Connect Open Menu Close Menu Meet Juan News Media Kit Results Endorsements Connect English Back Donate NEW AD Puts Lobbyist JoAnna Mendoza’s Extreme Record on Display Sep 22 Written By Blake Wilson TUCSON - Congressman Juan Ciscomani's campaign today released a new 30-second ad, " The Facts ," laying out lobbyist JoAnna Mendoza's out-of-touch record.
 JoAnna Mendoza wants voters to believe she is fighting for Arizona families, but the facts tell a different story.
 Mendoza opposed the 2023 bipartisan Arizona Families Tax Rebate, a program that delivered more than $275 million back to over 744,000 Arizona families, and instead pushed to raise taxes on everyday necessities, including diapers, food, and feminine hygiene products.
 Mendoza also opposed efforts to lower energy costs, fighting legislation that even Democrat Governor Katie Hobbs signed and said would "lower costs for everyday Arizonans." And when Congress cut taxes on qualified tips and overtime, Mendoza called it "ridiculous." She even pushed for higher taxes that would affect Social Security income, a hard hit to seniors living on fixed incomes across Arizona’s Sixth District.
@@ -13,6 +12,11 @@ That's the choice Arizonans face this November.
 Because it's not ours.
 Arizona's Sixth District doesn't need a lobbyist who's spent her career finding new ways to squeeze working people.
 We need someone who shows up and delivers, and that's exactly what Congressman Ciscomani has done.
-Mendoza can try to rewrite her record, but the facts speak for themselves.”
-Voters can see JoAnna Mendoza's full record for themselves at JoAnnaMendozaFacts.com.
-Watch the ad here: https://www.youtube.com/watch?v=8LEZBhJrCzA
+Mendoza can try to rewrite her record, but the facts speak for themselves.” Voters can see JoAnna Mendoza's full record for themselves at JoAnnaMendozaFacts.com .
+Watch the ad here: https://www.youtube.com/watch?v=8LEZBhJrCzA Blake Wilson Previous Previous TUCSON BUSINESS COUNCIL ENDORSES CONGRESSMAN JUAN CISCOMANI FOR RE-ELECTION Next Next ICYMI: Veteran Credits Ciscomani's Office With Protecting His Benefits in Arizona Daily Star Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Sign up today for the latest updates from Juan.
+First Name Last Name Email Address Sign Up Thank you!
+520-222-6874 P.O.
+Box 35103 Tucson, AZ 85740 info@juanciscomani.com Privacy Policy Media © Copyright #.
+All rights reserved.

@@ -1,5 +1,9 @@
-Importance of Teachers
-This week is Teacher Appreciation Week, May 4-8.
+0 Skip to Content Thank you, District 56 Voters!
+General Election - November 3 Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Open Menu Close Menu Thank you, District 56 Voters!
+General Election - November 3 Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Open Menu Close Menu Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Importance of Teachers May 6 Written By Grace Abitz This week is Teacher Appreciation Week, May 4-8.
 Educators have a warm home in my heart and memory.
 I grew up in Grand Chute, and attended elementary school at St.
 Paul Lutheran located downtown Appleton off of Morrison St.
@@ -30,4 +34,4 @@ The push and pull between private school vouchers and inadequate public school f
 Students and Educators hang in the balance.
 Solutions to fully fund our public schools need to be identified and implemented.
 I see our Students and Educators as an investment in Wisconsin’s future and their voices need to be heard in Madison.
-Yesterday’s SpectrumNews1 article delves deeper into that equation and what lies ahead for Wisconsin.
+Yesterday’s SpectrumNews1 article delves deeper into that equation and what lies ahead for Wisconsin. https://spectrumnews1.com/wi/milwaukee/news/2026/05/05/finding-a-fix-for-wisconsin-s-school-funding-formula?cid=share_clip Grace Abitz https://www.graceabitz.com Previous Previous Fox Cities Youth Rugby Next Next Your neighbor, your voice Made with Squarespace

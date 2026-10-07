@@ -1,5 +1,4 @@
-Meet Nathan
-Bloomington is – and always will be – home.
+Facebook Home Meet Nathan Issues Events Contact Donate Select Page Meet Nathan Bloomington is – and always will be – home.
 I’ve lived in Bloomington my entire life, and I’m proud to be a product of our Bloomington Public Schools.
 My Mom was a math teacher, and faculty union leader, at Normandale Community College for decades, and my Dad practiced law here, too.
 My family and I love that we live within walking distance of Moir Park and Nine Mile Creek.
@@ -9,6 +8,7 @@ Before I was elected to the House, I served five years on the Bloomington City C
 In that role, I represented our city on the 169 Corridor Coalition, the State Community Health Services Advisory Committee, and the Bloomington Housing and Redevelopment Authority.
 I also served on the Board for the Perpich Center for Arts Education (appointed by Gov.
 Dayton), and was a Sunday School Teacher for 13 years at Mt Olivet Lutheran Church in Minneapolis.
+Issues When I say “Let’s get to work!”, I mean it.
 Budgets and Taxes – I’ve often said that “budget decisions are policy decisions”, but they’re also how most clearly show our values and our priorities.
 The work we did in our 2025 budget to protect the important support for our public schools, colleges and universities, and transportation infrastructure that we passed in 2023 will continue to pay off for Minnesotans.
 We need to be crystal clear that our budget and tax priorities should be focused where they will do the most good, supporting and growing the middle class, not rewarding the people and businesses who are already more than well-off.
@@ -48,3 +48,4 @@ Minnesota was once a leader in campaigns that prioritized the public interest �
 Reproductive Rights – Minnesotans have made in clear with their voices and their votes: we value reproductive freedoms.
 In the wake of Roe v Wade being overturned, I’m proud of how our DFL majorities stepped up to ensure that Minnesotans make their own decisions about if and when to have children, and no one else.
 I will continue to fight to ensure that those freedoms are protected here in Minnesota.
+Facebook Prepared and paid for by the Neighbors for Nathan (Coulter) committee, PO Box 20751 Bloomington, MN 55420.

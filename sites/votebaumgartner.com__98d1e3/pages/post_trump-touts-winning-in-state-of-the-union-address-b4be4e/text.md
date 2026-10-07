@@ -1,4 +1,4 @@
-Trump Touts Winning in State of the Union Address
-The Spokesman-Review | February 24, 2026
-Following the State of the Union address, Congressman Baumgartner highlighted key achievements including violent crime hitting its lowest level in decades and illegal border crossings plummeting 96%.
+top of page Home About Issues News Events Dropbox Information Get Involved Supporters Store Blogs More Use tab to navigate through the menu items.
+DONATE All Articles On the Campaign Trail In Congress Search Trump Touts Winning in State of the Union Address stan889 Feb 24 1 min read The Spokesman-Review | February 24, 2026 Following the State of the Union address, Congressman Baumgartner highlighted key achievements including violent crime hitting its lowest level in decades and illegal border crossings plummeting 96%.
 These results reflect the Administration's focus on public safety and border security that Baumgartner has championed since taking office.
+Read the full article in The Spokesman-Review In Congress Recent Posts See All Back from Weeklong Trip to Israel, Baumgartner Reflects Baumgartner Reflects on European Trip and Military Spending Deep-Dive Interview on Border Integrity and Regional Agriculture Home About Michael News Events Get Involved Supporters Privacy Policy Blogs Michael Baumgartner REPUBLICAN FOR CONGRESS, 5TH DISTRICT PAID FOR BY VOTE BAUMGARTNER FOR CONGRESS PO Box 8508, Spokane, WA 99203 SUBSCRIBE Thanks for submitting! bottom of page

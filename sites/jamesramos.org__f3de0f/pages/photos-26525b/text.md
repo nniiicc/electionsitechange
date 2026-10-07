@@ -1,17 +1,3 @@
-Skip to primary navigation
-Skip to main content
-Skip to primary sidebar
-James Ramos
-Candidate for California Assembly District 40
-Home
-About
-Endorsements
-News & Events
-Support
-Contribute
-Press
-Photos
-Videos
-Contact
-Photos
-Ramos B-Roll Reel
+Skip to primary navigation Skip to main content Skip to primary sidebar James Ramos Candidate for California Assembly District 40 Home About Endorsements News & Events Support Contribute Press Photos Videos Contact Photos Ramos B-Roll Reel Primary Sidebar Endorsements James Ramos is quickly gaining endorsements from elected officials and community leaders.
+Find out who's already supporting him.
+Contribute It takes resources to run a campaign - any amount helps MAKE A CONTRIBUTION Follow James Ramos on Facebook Latest News & Events Assemblyman James Ramos Announces Re-Election Campaign, Highlighting Broad Support from Public Safety, Labor, Veterans, and Business Leaders March 6, 2026 Home About Endorsements News & Events Support Contribute Press Contact Copyright © # · Paid for by Re-Elect James Ramos for Assembly 2026 – FPPC ID #1477399 · Log in

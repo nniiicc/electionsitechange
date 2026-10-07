@@ -1,16 +1,4 @@
-Get A Yard Sign
-Grab your signs, get ready for November, and help us build
-Republican momentum across the county.
-Yard Sign Pick-Up Locations
-Pasadena
-(San Jacinto conservatives)
-6323 Spencer Hwy, Ste.
+DONATE  About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex a    DONATE  About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex a    About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex Get A Yard Sign Grab your signs, get ready for November, and help us build Republican momentum across the county.
+Yard Sign Pick-Up Locations Pasadena (San Jacinto conservatives) 6323 Spencer Hwy, Ste.
 G.
-Pasadena Texas 77505
-Channelview
-(Spookers Halloween Store)
-16020 East Freeway Channelview TX 77530
-Cleveland, TX
-(The Crossing Coffee Shop)
-125 N San Jacinto Ave
-Cleveland, TX 77327
+Pasadena Texas 77505 View Location Channelview (Spookers Halloween Store) 16020 East Freeway Channelview TX 77530 View Location Cleveland, TX (The Crossing Coffee Shop) 125 N San Jacinto Ave Cleveland, TX 77327 View Location About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex a About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex a About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex Follow Follow Follow

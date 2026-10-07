@@ -1,14 +1,86 @@
 [
-"https://alexforaz.com/contact",
-"https://alexforaz.com/es",
-"https://alexforaz.com/es/conoce-a-alex",
-"https://alexforaz.com/es/contacto",
-"https://alexforaz.com/es/plataforma",
-"https://alexforaz.com/es/unete",
-"https://alexforaz.com/es/vota",
-"https://alexforaz.com/privacy-policy",
-"https://facebook.com/AlexForAZ",
-"https://instagram.com/realalexkolodin",
-"https://secure.anedot.com/alex-for-arizona/donate-15d12401de41057027",
-"https://x.com/realalexkolodin"
+{
+"text": "Conoce a Alex",
+"href": "https://www.alexforaz.com/es/conoce-a-alex"
+},
+{
+"text": "Contacto",
+"href": "https://www.alexforaz.com/es/contacto"
+},
+{
+"text": "Donar",
+"href": "https://secure.anedot.com/alex-for-arizona/donate-15d12401de41057027"
+},
+{
+"text": "English",
+"href": "https://www.alexforaz.com/contact"
+},
+{
+"text": "EnglishEN",
+"href": "https://www.alexforaz.com/contact"
+},
+{
+"text": "Español",
+"href": "https://www.alexforaz.com/es/contacto"
+},
+{
+"text": "EspañolES",
+"href": "https://www.alexforaz.com/es/contacto"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/AlexForAZ/"
+},
+{
+"text": "Inicio",
+"href": "https://www.alexforaz.com/es"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/realalexkolodin"
+},
+{
+"text": "Plataforma",
+"href": "https://www.alexforaz.com/es/plataforma"
+},
+{
+"text": "Política de privacidad",
+"href": "https://www.alexforaz.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.alexforaz.com/privacy-policy"
+},
+{
+"text": "Socials-x_logo_2023",
+"href": "https://x.com/realalexkolodin"
+},
+{
+"text": "Vota",
+"href": "https://www.alexforaz.com/es/vota"
+},
+{
+"text": "[image: Alex Kolodin for Secretary of State]",
+"href": "https://www.alexforaz.com/es"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AlexForAZ/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/realalexkolodin"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/realalexkolodin"
+},
+{
+"text": "política de privacidad de la campaña",
+"href": "https://www.alexforaz.com/privacy-policy"
+},
+{
+"text": "Únete",
+"href": "https://www.alexforaz.com/es/unete"
+}
 ]

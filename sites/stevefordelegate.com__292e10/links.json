@@ -1,14 +1,50 @@
 [
-"https://facebook.com/profile.php?id=61569600443130",
-"https://instagram.com/pattenpub",
-"https://linkedin.com/in/steve-patten-4207733",
-"https://secure.anedot.com/steve-for-delegate/donate?exitIntent=true",
-"https://stevefordelegate.com/",
-"https://stevefordelegate.com/about",
-"https://stevefordelegate.com/contact",
-"https://stevefordelegate.com/endorsements",
-"https://stevefordelegate.com/steves-beliefs",
-"https://stevefordelegate.com/survey",
-"https://stevefordelegate.com/volunteer",
-"https://x.com/PattenPub"
+{
+"text": "About",
+"href": "https://stevefordelegate.com/about"
+},
+{
+"text": "Contact",
+"href": "https://stevefordelegate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/steve-for-delegate/donate?exitIntent=true"
+},
+{
+"text": "Endorsements",
+"href": "https://stevefordelegate.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://stevefordelegate.com/"
+},
+{
+"text": "SURVEY",
+"href": "https://stevefordelegate.com/survey"
+},
+{
+"text": "Steve's Beliefs",
+"href": "https://stevefordelegate.com/steves-beliefs"
+},
+{
+"text": "Volunteer",
+"href": "https://stevefordelegate.com/volunteer"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/profile.php?id=61569600443130"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/pattenpub"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.linkedin.com/in/steve-patten-4207733/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://x.com/PattenPub"
+}
 ]

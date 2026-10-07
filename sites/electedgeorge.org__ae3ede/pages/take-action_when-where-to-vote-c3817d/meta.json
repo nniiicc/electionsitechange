@@ -1,7 +1,11 @@
 {
  "description": "00 Days 00 Hours 00 Minutes 00 Seconds Primary Election Day was Tuesday, March 3 2026. 00 Days 00 Hours 00 Minutes 00 Seconds General Election Day is Tuesday, Nov. 3, 2026. Find Your Polling PlaceNot sure where to vote? Use this resource from the North Carolina SBE to look up your polling place. Register to",
  "final_url": "https://electedgeorge.org/take-action/when-where-to-vote/",
- "paid_for_by": null,
+ "fingerprint": "45adcd7f7b3379b09955ef72f53f5588755c010d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "When & Where to Vote | Elect Ed George",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

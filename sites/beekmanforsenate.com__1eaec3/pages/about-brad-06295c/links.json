@@ -1,9 +1,38 @@
 [
-"https://beekmanforsenate.com/",
-"https://beekmanforsenate.com/about-brad",
-"https://beekmanforsenate.com/news",
-"https://beekmanforsenate.com/request-a-yard-sign",
-"https://beekmanforsenate.com/volunteer",
-"https://elections.il.gov/",
-"https://secure.anedot.com/beekman-for-senate/supportbrad"
+{
+"text": "About Brad",
+"href": "https://www.beekmanforsenate.com/about-brad"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/beekman-for-senate/supportbrad"
+},
+{
+"text": "Make your plan to vote →",
+"href": "https://www.beekmanforsenate.com/#vote"
+},
+{
+"text": "News",
+"href": "https://www.beekmanforsenate.com/news"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.beekmanforsenate.com/request-a-yard-sign"
+},
+{
+"text": "Volunteer",
+"href": "https://www.beekmanforsenate.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.beekmanforsenate.com/request-a-yard-sign"
+},
+{
+"text": "[image: Beekman for State Senate]",
+"href": "https://www.beekmanforsenate.com/"
+},
+{
+"text": "www.elections.il.gov",
+"href": "https://www.elections.il.gov"
+}
 ]

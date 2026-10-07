@@ -1,11 +1,50 @@
 [
-"https://ianbirk.com/",
-"https://ianbirk.com/about",
-"https://ianbirk.com/endorse",
-"https://ianbirk.com/endorsements",
-"https://ianbirk.com/get-involved",
-"https://ianbirk.com/news",
-"https://ianbirk.com/values",
-"https://secure.ngpvan.com/IEj2ynH1NkKrGLmB629NQQ2",
-"https://thestranger.com/endorsements/the-strangers-2026-primary-election-endorsements"
+{
+"text": "About Ian",
+"href": "https://ianbirk.com/about/"
+},
+{
+"text": "About Judge Birk",
+"href": "https://ianbirk.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/IEj2ynH1NkKrGLmB629NQQ2"
+},
+{
+"text": "Endorse",
+"href": "https://ianbirk.com/endorse/"
+},
+{
+"text": "Endorsements",
+"href": "https://ianbirk.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://ianbirk.com/get-involved/"
+},
+{
+"text": "Ian’s Values",
+"href": "https://ianbirk.com/values/"
+},
+{
+"text": "News",
+"href": "https://ianbirk.com/news/"
+},
+{
+"text": "See a full list of endorsements",
+"href": "https://ianbirk.com/endorsements/"
+},
+{
+"text": "The Stranger’s 2026 Primary Election Endorsements",
+"href": "https://www.thestranger.com/endorsements/the-strangers-2026-primary-election-endorsements/#Ian-Birk"
+},
+{
+"text": "Values",
+"href": "https://ianbirk.com/values/"
+},
+{
+"text": "[image: Judge Ian Birk]",
+"href": "https://ianbirk.com/"
+}
 ]

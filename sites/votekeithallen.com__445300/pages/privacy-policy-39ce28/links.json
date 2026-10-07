@@ -1,6 +1,18 @@
 [
-"https://votekeithallen.com/",
-"https://votekeithallen.com/contact",
-"https://votekeithallen.com/mobile-terms-and-conditions",
-"https://votekeithallen.com/privacy-policy"
+{
+"text": "Contact",
+"href": "https://votekeithallen.com/contact"
+},
+{
+"text": "Keith Allen For House",
+"href": "https://votekeithallen.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votekeithallen.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://votekeithallen.com/mobile-terms-and-conditions"
+}
 ]

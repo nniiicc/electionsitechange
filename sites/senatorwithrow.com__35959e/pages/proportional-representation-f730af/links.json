@@ -1,13 +1,58 @@
 [
-"https://bestdemocracy.org/home/index.html",
-"https://facebook.com/profile.php?id=100095459972924",
-"https://senatorwithrow.com/",
-"https://senatorwithrow.com/about",
-"https://senatorwithrow.com/artificial-intelligence",
-"https://senatorwithrow.com/contact",
-"https://senatorwithrow.com/epstein",
-"https://senatorwithrow.com/platform-discussion",
-"https://senatorwithrow.com/platform-menu",
-"https://twitter.com/@withrowcongress",
-"https://youtube.com/channel/UCI9cZbUreD5mohKi-FichlA"
+{
+"text": "About",
+"href": "https://www.senatorwithrow.com/about"
+},
+{
+"text": "Artificial Intelligence",
+"href": "https://www.senatorwithrow.com/artificial-intelligence"
+},
+{
+"text": "Contact",
+"href": "https://www.senatorwithrow.com/contact"
+},
+{
+"text": "Email: adamwithrowforcongress@gmail.com",
+"href": "mailto:adamwithrowforcongress@gmail.com?subject=Hark%21++You%27re+being+summoned%21"
+},
+{
+"text": "Epstein and Public Trust",
+"href": "https://www.senatorwithrow.com/epstein"
+},
+{
+"text": "Home",
+"href": "https://www.senatorwithrow.com"
+},
+{
+"text": "Platform",
+"href": "https://www.senatorwithrow.com/platform-menu"
+},
+{
+"text": "Platform Discussion",
+"href": "https://www.senatorwithrow.com/platform-discussion"
+},
+{
+"text": "Platform Menu",
+"href": "https://www.senatorwithrow.com/platform-menu"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100095459972924"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/@withrowcongress"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/channel/UCI9cZbUreD5mohKi-FichlA"
+},
+{
+"text": "bestdemocracy.org",
+"href": "https://bestdemocracy.org/home/index.html"
+},
+{
+"text": "​",
+"href": "https://www.senatorwithrow.com"
+}
 ]

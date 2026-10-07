@@ -1,11 +1,38 @@
 [
-"https://nicklangworthy.com/",
-"https://nicklangworthy.com/privacy-policy",
-"https://secure.anedot.com/d0857e4d-cf21-42a8-ae60-e6b50dcb52b2/donate-today",
-"https://secure.anedot.com/d0857e4d-cf21-42a8-ae60-e6b50dcb52b2/donate-today?amount=10",
-"https://secure.anedot.com/d0857e4d-cf21-42a8-ae60-e6b50dcb52b2/donate-today?amount=25",
-"https://secure.anedot.com/d0857e4d-cf21-42a8-ae60-e6b50dcb52b2/donate-today?amount=5",
-"https://secure.anedot.com/d0857e4d-cf21-42a8-ae60-e6b50dcb52b2/donate-today?amount=50",
-"https://secure.winred.com/langworthy-for-congress/storefront",
-"https://vimeo.com/738715467/30a9da0e38"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/d0857e4d-cf21-42a8-ae60-e6b50dcb52b2/donate-today?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/d0857e4d-cf21-42a8-ae60-e6b50dcb52b2/donate-today?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/d0857e4d-cf21-42a8-ae60-e6b50dcb52b2/donate-today?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/d0857e4d-cf21-42a8-ae60-e6b50dcb52b2/donate-today?amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/d0857e4d-cf21-42a8-ae60-e6b50dcb52b2/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nicklangworthy.com/privacy-policy/"
+},
+{
+"text": "SHOP",
+"href": "https://secure.winred.com/langworthy-for-congress/storefront/"
+},
+{
+"text": "Vimeo",
+"href": "https://vimeo.com/738715467/30a9da0e38"
+},
+{
+"text": "[image: Nick Langworthy for Congress]",
+"href": "https://nicklangworthy.com/"
+}
 ]

@@ -1,21 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Coffee+Hour+for+HD9&dates=20261008T160000Z%2F20261008T170000Z&location=850+South+Monaco+Street+Parkway%2C+Denver%2C+Colorado%2C+80224%2C+United+States",
-"http://maps.google.com/?q=850+South+Monaco+Street+Parkway+Denver%2C+Colorado%2C+80224+United+States",
-"https://flickr.com/people/monicaforcolorado",
-"https://instagram.com/monicavanbuskirk",
-"https://linkedin.com/in/monicavanbuskirk",
-"https://monicaforcolorado.com/",
-"https://monicaforcolorado.com/about",
-"https://monicaforcolorado.com/cart",
-"https://monicaforcolorado.com/contact",
-"https://monicaforcolorado.com/endorsements",
-"https://monicaforcolorado.com/events",
-"https://monicaforcolorado.com/events/coffee-hour-4-ynjt2-8hghg-zx88h-rn93y-dcr5p-za3jc-hctjm-bbx97-xxex9-hfzt7?format=ical",
-"https://monicaforcolorado.com/events/election-day-xaxec",
-"https://monicaforcolorado.com/events/one-colorado-prism-awards",
-"https://monicaforcolorado.com/hd9",
-"https://monicaforcolorado.com/issues",
-"https://monicaforcolorado.com/privacy-policy",
-"https://secure.actblue.com/donate/monicaforcolorado",
-"https://youtube.com/@monicavanbuskirk"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=850+south+monaco+street+parkway+denver%2C+colorado%2C+80224+united+states"
+},
+{
+"text": "0",
+"href": "https://www.monicaforcolorado.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.monicaforcolorado.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.monicaforcolorado.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.monicaforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/monicaforcolorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.monicaforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.monicaforcolorado.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coffee+Hour+for+HD9&dates=20261008T160000Z%2F20261008T170000Z&location=850+South+Monaco+Street+Parkway%2C+Denver%2C+Colorado%2C+80224%2C+United+States"
+},
+{
+"text": "HD9",
+"href": "https://www.monicaforcolorado.com/hd9"
+},
+{
+"text": "ICS",
+"href": "https://www.monicaforcolorado.com/events/coffee-hour-4-ynjt2-8hghg-zx88h-rn93y-dcr5p-za3jc-hctjm-bbx97-xxex9-hfzt7?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.monicaforcolorado.com/issues"
+},
+{
+"text": "Next Next November 3 Election Day!",
+"href": "https://www.monicaforcolorado.com/events/election-day-xaxec"
+},
+{
+"text": "Previous Previous October 3 One Colorado Prism Awards",
+"href": "https://www.monicaforcolorado.com/events/one-colorado-prism-awards"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.monicaforcolorado.com/privacy-policy"
+},
+{
+"text": "[image: Monica for Colorado]",
+"href": "https://www.monicaforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/people/monicaforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/monicavanbuskirk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/monicavanbuskirk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@monicavanbuskirk"
+}
 ]

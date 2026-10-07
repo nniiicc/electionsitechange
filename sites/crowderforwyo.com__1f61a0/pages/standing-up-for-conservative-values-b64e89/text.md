@@ -1,16 +1,10 @@
-| |
-| |
-| |
-| |
-| |
-| This is Jessica.
+0 Skip to Content Home About Priorities Endorsements Blog Meet Jessica Ranching & Way of Life 2nd Amendment Independence Day & The Promise of America Support the Campaign!
+Education and Parents' Rights Standing Up for Conservative Values Support of Community Leaders Fiscal Responsibility Contact Donate Open Menu Close Menu Home About Priorities Endorsements Blog Meet Jessica Ranching & Way of Life 2nd Amendment Independence Day & The Promise of America Support the Campaign!
+Education and Parents' Rights Standing Up for Conservative Values Support of Community Leaders Fiscal Responsibility Contact Donate Open Menu Close Menu Home About Priorities Endorsements Folder: Blog Back Meet Jessica Ranching & Way of Life 2nd Amendment Independence Day & The Promise of America Support the Campaign!
+Education and Parents' Rights Standing Up for Conservative Values Support of Community Leaders Fiscal Responsibility Contact Donate Jessica Crowder for Wyoming House District 43 This is Jessica.
 One of the reasons I am running in this race is to defend the conservative principles that I grew up with and that define Wyoming's culture.
-I am passionate about these pragmatic values and want to see them remain for our state. |
-| |
-| |
-| Standing Up for Conservative Principles |
-| |
-| Defending the Second Amendment The right to keep and bear arms is a fundamental freedom and a way of life for many Wyoming families.
+I am passionate about these pragmatic values and want to see them remain for our state.
+Standing Up for Conservative Principles Defending the Second Amendment The right to keep and bear arms is a fundamental freedom and a way of life for many Wyoming families.
 Firearms have been part of my family’s traditions for generations, whether for hunting, protecting livestock, managing the land, or keeping our families safe.
 I will stand firm in defense of the Second Amendment and oppose efforts that threaten the rights of responsible gun-owners.
 Protecting the Wyoming Way of Life Wyoming was built by people who work hard, take risks, and provide for their families.
@@ -21,43 +15,19 @@ Decisions should be made by people closest to the issue, not by distant bureaucr
 I will work to protect local control and ensure that Wyoming families, landowners, businesses, and community leaders have a strong voice in the decisions that affect them.
 Keeping Government Limited and Accountable Government should live within its means, respect taxpayers, and remain accountable to the people it serves.
 I will support responsible budgeting, transparent decision-making, and legislation that delivers real value to Wyoming communities.
-Taxpayer dollars should be managed carefully, and government should never grow simply for the sake of growing. |
-| |
-| |
-| Wyoming has been built on hard work, personal responsibility, and freedom.
+Taxpayer dollars should be managed carefully, and government should never grow simply for the sake of growing.
+Wyoming has been built on hard work, personal responsibility, and freedom.
 Those values are at the heart of who we are, and I will fight to protect them in the Wyoming Legislature.
 I would be honored to earn your vote on August 18.
-Best, Jessica Crowder Republican Candidate for Wyoming House District 43 |
-| |
-| |
-| Endorsements |
-| |
-| |
-| |
-| Let's Talk If you have questions for me, or want to chat about the big issues in our district, I would love to get in touch with you.
-Please reach out to me via email at jessica@crowderforwyo.com. |
-| |
-| |
-| Learn More Check out my website here to learn more about me and my priorities for the Legislature. |
-| |
-| crowderforwyo.com |
-| |
-| |
-| Support My Campaign I'm grateful for everyone who has supported this campaign!
-If you'd like to help offset campaign costs, you can make a contribution here. |
-| |
-| Donate |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| Copyright © 2026, All rights reserved.
-Paid for by Elect Jessica Crowder |
+Best, Jessica Crowder Republican Candidate for Wyoming House District 43 Endorsements Let's Talk If you have questions for me, or want to chat about the big issues in our district, I would love to get in touch with you.
+Please reach out to me via email at jessica@crowderforwyo.com .
+Learn More Check out my website here to learn more about me and my priorities for the Legislature. crowderforwyo.com Support My Campaign I'm grateful for everyone who has supported this campaign!
+If you'd like to help offset campaign costs, you can make a contribution here .
+Donate Copyright © #, All rights reserved.
+Paid for by Elect Jessica Crowder Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Want to support my campaign?
+Click the link below or mail checks directly to: Committee to Elect Jessica Crowder 3746 Riata Loop Cheyenne, WY 82007 Donate Thank you for your support!
+Paid for by Committee to Elect Jessica Crowder

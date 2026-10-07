@@ -1,15 +1,58 @@
 [
-"https://bradyoneil.com/",
-"https://bradyoneil.com/contribute",
-"https://bradyoneil.com/issues/exploitation",
-"https://bradyoneil.com/issues/homelessness",
-"https://bradyoneil.com/issues/liberty",
-"https://bradyoneil.com/issues/minnesotas-promise",
-"https://bradyoneil.com/whatimabout",
-"https://cbsnews.com/news/minnesota-fraud-schemes-what-we-know",
-"https://house.mn.gov/hrd/issinfo/2025TaxesHandout.pdf",
-"https://mprnews.org/story/2026/04/06/feeding-our-future-defendant-avoids-prison-after-early-cooperation",
-"https://nasbo.org/mainsite/resources/proposed-enacted-budgets/minnesota-budget",
-"https://oversight.house.gov/",
-"https://urban.org/policy-centers/cross-center-initiatives/state-and-local-finance-initiative/projects/state-fiscal-briefs/minnesota"
+{
+"text": "Contribute",
+"href": "https://bradyoneil.com/contribute/"
+},
+{
+"text": "Exploitation",
+"href": "https://bradyoneil.com/issues/exploitation/"
+},
+{
+"text": "Homelessness",
+"href": "https://bradyoneil.com/issues/homelessness/"
+},
+{
+"text": "Liberty",
+"href": "https://bradyoneil.com/issues/liberty/"
+},
+{
+"text": "Minnesota's Promise",
+"href": "https://bradyoneil.com/issues/minnesotas-promise/"
+},
+{
+"text": "Welcome",
+"href": "https://bradyoneil.com/"
+},
+{
+"text": "What I'm About",
+"href": "https://bradyoneil.com/whatimabout/"
+},
+{
+"text": "[image: image][image: image]",
+"href": "https://oversight.house.gov/"
+},
+{
+"text": "[image: image][image: image]",
+"href": "https://www.cbsnews.com/news/minnesota-fraud-schemes-what-we-know/"
+},
+{
+"text": "[image: image][image: image]",
+"href": "https://www.house.mn.gov/hrd/issinfo/2025TaxesHandout.pdf"
+},
+{
+"text": "[image: image][image: image]",
+"href": "https://www.mprnews.org/story/2026/04/06/feeding-our-future-defendant-avoids-prison-after-early-cooperation"
+},
+{
+"text": "[image: image][image: image]",
+"href": "https://www.nasbo.org/mainsite/resources/proposed-enacted-budgets/minnesota-budget"
+},
+{
+"text": "[image: image][image: image]",
+"href": "https://www.urban.org/policy-centers/cross-center-initiatives/state-and-local-finance-initiative/projects/state-fiscal-briefs/minnesota"
+},
+{
+"text": "[image: logo image]",
+"href": "https://bradyoneil.com/"
+}
 ]

@@ -1,24 +1,9 @@
-About
-Rob was born and raised in Westmoreland County and currently lives in Greensburg.
+Skip to content Vote Rob Francis Progressive for Pennsylvania General Assembly Menu + × expanded collapsed Meet Rob The Issues DONATE Contact Events Meet Rob About Rob was born and raised in Westmoreland County and currently lives in Greensburg.
 He has a B.A. in English with a minor in Political Science from Edinboro University of Pennsylvania, and has dedicated his adult life to human services.
 From a working class background to a working class reality, Rob has experienced the same struggles as many of us: low wages, high costs, unaffordable healthcare, and the growing frustration of the shrinking middle class while those we send to Harrisburg seem to only care about their own status rather than our livelihood and future.
-Education
-- Westmoreland County Community College
-- General education with transfer
-- Edinboro University of Pennsylvania
-- B.A. in English, minor in Political Science (2020)
-Professional Experience
-- Case Manager for individuals with physical disabilities
-- Youth Counselor for male youths in the juvenile probation and foster care systems
-- Counselor/Advocate for Domestic Violence & Sexual Abuse, specialized in kids, teens, LGBTQ+, and IDD/autism
-- Behavior Specialist for female youths in mental health treatment
-- Program Manager for group home for individuals with autism/special needs
-Political Experience
-- Poll watcher for Hillary Clinton’s 2016 campaign
-- Student Delegate for Model UN and Model NATO
-- Election Poll Worker
-- Co-Chair of the Next Generation Impact Table (sub-committee of the Westmoreland County Democratic Executive Committee)
-- Westmoreland County Democratic Precinct Committee Person
-- Francis will bring fresh perspective to District 57, LTE (Tribune Review)
-- Incumbent Nelson to face Francis in 57th Legislative District, article (Latrobe Bulletin)
-- Incumbent Nelson, newcomer Francis seek 57th District seat in state House, article (Tribune Review)
+Education Westmoreland County Community College General education with transfer Edinboro University of Pennsylvania B.A. in English, minor in Political Science (2020) Served four semesters as Student President of the National Society of Leadership & Success Edinboro Chapter Served one semester as Student Delegate for National Model United Nations (General Assembly 2) Served one semester as Student Delegate for National Model NATO (Nuclear Planning Committee) Professional Experience Case Manager for individuals with physical disabilities Youth Counselor for male youths in the juvenile probation and foster care systems Counselor/Advocate for Domestic Violence & Sexual Abuse, specialized in kids, teens, LGBTQ+, and IDD/autism Behavior Specialist for female youths in mental health treatment Program Manager for group home for individuals with autism/special needs Political Experience Poll watcher for Hillary Clinton’s 2016 campaign Student Delegate for Model UN and Model NATO Election Poll Worker Co-Chair of the Next Generation Impact Table (sub-committee of the Westmoreland County Democratic Executive Committee) Westmoreland County Democratic Precinct Committee Person No Kings Protest Francis will bring change to Westmoreland County , LTE (Charmaine Strong, Tribune Review) Pa.
+State House 57th District election: Nelson v.
+Francis , article (Larissa Dudkiewicz, WESA) Incumbent Nelson, newcomer Francis seek 57th District seat in state House , article (Renatta Signorini, Tribune Review) Incumbent Nelson to face Francis in 57th Legislative District , article (Annabelle Chipps, Latrobe Bulletin) I have a DUI–and a story , campaign statement (Rob Francis) Francis will bring fresh perspective to District 57 , LTE (Susan Witt, Tribune Review) UPG Candidates Forum UPG Candidates Forum UPG Candidates Forum Earth Day Cleanup Earth Day Cleanup Earth Day Cleanup No Kings 3.0 No Kings 3.0 No Kings 3.0 No Kings 3.0 No Kings 3.0 No Kings 3.0 No Kings 3.0 Walk-A-Mile In Her Shoes Walk-A-Mile In Her Shoes Walk-A-Mile In Her Shoes Walk-A-Mile In Her Shoes Walk-A-Mile In Her Shoes Greater Westmoreland County Labor Council Greater Westmoreland County Labor Council Project 18, Hempfield High School Project 18, Hempfield High School Project 18, Hempfield High School Home The Issues Contact Calendar Get Involved DONATE Register to Vote Check Voter Registration Request Mail-in Ballot Facebook Instagram Threads Bluesky TikTok Vote Rob Francis , Blog at WordPress.com.
+Vote Rob Francis Copy shortlink Manage subscriptions Sign up Log in Report this content Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

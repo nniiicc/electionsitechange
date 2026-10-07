@@ -1,18 +1,82 @@
 [
-"https://chrismannforkansas.com/",
-"https://chrismannforkansas.com/get-involved",
-"https://chrismannforkansas.com/meet-chris",
-"https://chrismannforkansas.com/news",
-"https://chrismannforkansas.com/priorities",
-"https://chrismannforkansas.com/privacy-policy",
-"https://facebook.com/ChrisMannKS",
-"https://instagram.com/chrismannks",
-"https://secure.actblue.com/donate/cmwebsite",
-"https://secure.actblue.com/donate/cmwebsite?amount=10",
-"https://secure.actblue.com/donate/cmwebsite?amount=100",
-"https://secure.actblue.com/donate/cmwebsite?amount=25",
-"https://secure.actblue.com/donate/cmwebsite?amount=250",
-"https://secure.actblue.com/donate/cmwebsite?amount=50",
-"https://secure.actblue.com/donate/cmwebsite?amount=Other",
-"https://x.com/ChrisMannKS"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/cmwebsite?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/cmwebsite?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/cmwebsite?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/cmwebsite?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/cmwebsite?amount=50"
+},
+{
+"text": "Chris Mann for Kansas [image: Chris Mann for Kansas]",
+"href": "https://chrismannforkansas.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cmwebsite"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ChrisMannKS/"
+},
+{
+"text": "Get Involved",
+"href": "https://chrismannforkansas.com/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/chrismannks/"
+},
+{
+"text": "Learn More",
+"href": "https://chrismannforkansas.com/meet-chris/"
+},
+{
+"text": "Meet Chris",
+"href": "https://chrismannforkansas.com/meet-chris/"
+},
+{
+"text": "Merch",
+"href": "https://secure.actblue.com/donate/mannmerch"
+},
+{
+"text": "News",
+"href": "https://chrismannforkansas.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/cmwebsite?amount=Other"
+},
+{
+"text": "Priorities",
+"href": "https://chrismannforkansas.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrismannforkansas.com/privacy-policy"
+},
+{
+"text": "Vote",
+"href": "https://chrismannforkansas.com/vote/"
+},
+{
+"text": "X",
+"href": "https://x.com/ChrisMannKS"
+},
+{
+"text": "[image: Chris Mann for Kansas]",
+"href": "https://chrismannforkansas.com/"
+}
 ]

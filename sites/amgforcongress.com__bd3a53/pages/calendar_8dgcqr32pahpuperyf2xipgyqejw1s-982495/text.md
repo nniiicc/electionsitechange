@@ -1,0 +1,5 @@
+0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Back to All Events TEAM AMG/VOLUNTEERS: Postcard Writing Wednesday, October 7, 2026 5:00 PM 7:00 PM Gallery of Art 850 36 West Beach Drive Panama City, Florida, 32401 United States (map) Google Calendar ICS NOTE: This event starts at 5PM Central/6PM Eastern.
+Join Team AMG for a postcard writing meetup to help spread the word about Amanda Marie Green’s campaign for Congress!
+Spend time with fellow supporters and help us reach North Florida voters with a personal message ahead of Election Day.
+Previous Previous October 6 Leon/Wakulla Retired Educators Association Candidate Meet & Greet Next Next October 7 Get Out The Vote Reception TO SEND A CHECK: P.O.
+Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

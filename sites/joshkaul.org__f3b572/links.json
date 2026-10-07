@@ -1,12 +1,42 @@
 [
-"http://bsky.app/profile/joshkaulwi.bsky.social",
-"https://facebook.com/JoshKaulWI",
-"https://instagram.com/JoshKaulWI",
-"https://joshkaul.org/",
-"https://joshkaul.org/cart",
-"https://joshkaul.org/contact-us",
-"https://joshkaul.org/get-involved",
-"https://joshkaul.org/meet-josh",
-"https://secure.actblue.com/donate/k4agwebsite",
-"https://twitter.com/joshkaulwi"
+{
+"text": "0",
+"href": "https://joshkaul.org/cart"
+},
+{
+"text": "Contact Us",
+"href": "https://joshkaul.org/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/k4agwebsite"
+},
+{
+"text": "Get Involved",
+"href": "https://joshkaul.org/get-involved"
+},
+{
+"text": "Meet Josh",
+"href": "https://joshkaul.org/meet-josh"
+},
+{
+"text": "[image: Kaul for Attorney General]",
+"href": "https://joshkaul.org/"
+},
+{
+"text": "[no text]",
+"href": "http://bsky.app/profile/joshkaulwi.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/joshkaulwi"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoshKaulWI"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/JoshKaulWI/"
+}
 ]

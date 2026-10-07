@@ -1,9 +1,12 @@
 {
  "description": "Andrea Biscardi for House's campaign",
  "final_url": "https://www.biscardiforok.com/about",
- "paid_for_by": null,
- "title": "About \u2014 Andrea Biscardi for House",
+ "fingerprint": "690ca74596b5c56c1dc39652d554807c99450aa3",
+ "format": 3,
+ "paid_for_by": "AUTHORIZED BY Biscardi for Oklahoma 2026",
+ "title": "About — Andrea Biscardi for House",
  "years_mentioned": [
-  "2012"
+  "2012",
+  "2026"
  ]
 }

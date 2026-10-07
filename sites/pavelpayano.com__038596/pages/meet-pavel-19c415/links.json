@@ -1,10 +1,46 @@
 [
-"https://facebook.com/PavelPayano",
-"https://pavelpayano.com/",
-"https://pavelpayano.com/endorsements",
-"https://pavelpayano.com/get-involved",
-"https://pavelpayano.com/issues",
-"https://pavelpayano.com/meet-pavel",
-"https://secure.actblue.com/contribute/page/payano",
-"https://twitter.com/Payano"
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/contribute/page/payano"
+},
+{
+"text": "Endorsements",
+"href": "https://www.pavelpayano.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.pavelpayano.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.pavelpayano.com"
+},
+{
+"text": "Issues",
+"href": "https://www.pavelpayano.com/issues"
+},
+{
+"text": "Meet Pavel",
+"href": "https://www.pavelpayano.com/meet-pavel"
+},
+{
+"text": "On the Issues",
+"href": "https://www.pavelpayano.com/issues"
+},
+{
+"text": "[image: Facebook ]",
+"href": "https://www.facebook.com/PavelPayano"
+},
+{
+"text": "[image: Pavel Payano, Democrat for State Senate, Haverhill, Lawrence, Methuen]",
+"href": "https://www.pavelpayano.com"
+},
+{
+"text": "[image: Twitter ]",
+"href": "https://twitter.com/Payano"
+},
+{
+"text": "[no text]",
+"href": "https://www.pavelpayano.com/meet-pavel"
+}
 ]

@@ -1,6 +1,8 @@
-Noemi’s Legislative Priorities
-Give every child a strong start.
-A former Woodburn School Board Director and past consultant on early learning programs, Noemi knows that early literacy is foundational to every child’s success.
+0 Skip to Content Home About Priorities Endorsements Volunteer Contact Donate Today!
+Open Menu Close Menu Home About Priorities Endorsements Volunteer Contact Donate Today!
+Open Menu Close Menu Home About Priorities Endorsements Volunteer Contact Donate Today!
+Noemi’s Legislative Priorities Give every child a strong start.
+A former Woodburn School Board Director and past consultant on early learning programs , Noemi knows that early literacy is foundational to every child’s success.
 She is ready to get to work helping students read proficiently by third grade and to strengthen other core skills such as math.
 Noemi has long been a leader in advancing career and higher education options after K-12.
 She championed reinstating Woodburn’s College & Career Center in 2007, served as an adjunct instructor and community liaison at Pacific University’s Woodburn campus, and worked as a college and career specialist.
@@ -28,3 +30,4 @@ Noemi will also strengthen the foster care system so children are safe, families
 Protect our fundamental rights.
 As a single mother and mental health clinician, Noemi is a fierce advocate for Oregon’s most vulnerable children—born and unborn.
 She wants Oregon to be a place where every child is valued and women facing unplanned pregnancies have the support they need, from prenatal care and adoption services to counseling that helps both mothers and children thrive.
+Home | About | Priorities | Volunteer | Contact | Donate | Privacy Policy Paid for by Noemi Legaspi PAC © #

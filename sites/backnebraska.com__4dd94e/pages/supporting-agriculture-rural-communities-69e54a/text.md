@@ -1,17 +1,7 @@
-Nebraska’s prosperity depends on a strong, resilient rural economy.
+Skip to content DONATE TODAY TO SUPPORT CHRIS BACKEMEYER → Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Facebook X-twitter Instagram Youtube VOLUNTEER DONATE Priorities Supporting Agriculture & Rural Communities Nebraska’s prosperity depends on a strong, resilient rural economy.
 But political fights, reckless trade decisions, and corporate consolidation have pushed family farms to the brink and hollowed out rural communities.
 Protecting Nebraska’s future means strengthening the agricultural roots of our state and giving rural communities the tools to grow and prosper.
-My priorities include:
-- End the tariff chaos that harms farmers and raises consumer costs
-- Pass a long-term, bipartisan Farm Bill that is updated to reflect the current demands of family farms
-- Expand markets for biofuels, including through permanent, year-long sales of E15
-- Break up agribusiness monopolies that squeeze family farms and prevent competitive markets
-- Fight for fair trade policies that allow U.S. producers to compete globally
-- Expand rural broadband so every community can thrive in the 21st century
-Experience to lead.
+My priorities include: End the tariff chaos that harms farmers and raises consumer costs Pass a long-term, bipartisan Farm Bill that is updated to reflect the current demands of family farms Expand markets for biofuels, including through permanent, year-long sales of E15 Break up agribusiness monopolies that squeeze family farms and prevent competitive markets Fight for fair trade policies that allow U.S. producers to compete globally Expand rural broadband so every community can thrive in the 21st century View Priorities Making Healthcare Affordable & Accessible Smart, Fair Immigration and a Secure Border Restoring American Leadership & National Security Lowering Costs & Restoring the Middle Class Ending Washington Dysfunction Reining In Our National Debt Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch PAID FOR BY Backemeyer for Nebraska If donating by mail, make checks payable to: Backemeyer for Nebraska PO Box 6124, Lincoln, NE 68506.
+Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Donate Facebook X-twitter Instagram Youtube Experience to lead.
 The courage to stand up to Trump.
-Lower costs
-★
-Stop the chaos
-★
-End corruption
+Lower costs ★ Stop the chaos ★ End corruption CONTINUE TO WEBSITE →

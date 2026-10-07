@@ -1,7 +1,38 @@
 [
-"https://facebook.com/lonpishny",
-"https://lonpishny.com/",
-"https://lonpishny.com/about",
-"https://lonpishny.com/contact",
-"https://lonpishny.com/donate"
+{
+"text": "About",
+"href": "https://lonpishny.com/about/"
+},
+{
+"text": "Contact | Volunteer",
+"href": "https://lonpishny.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://lonpishny.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://lonpishny.com/donate/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/lonpishny"
+},
+{
+"text": "Home",
+"href": "https://lonpishny.com/"
+},
+{
+"text": "Learn More",
+"href": "https://lonpishny.com/about/"
+},
+{
+"text": "Volunteer",
+"href": "https://lonpishny.com/contact/"
+},
+{
+"text": "[image: Lon Pishny]",
+"href": "https://lonpishny.com/"
+}
 ]

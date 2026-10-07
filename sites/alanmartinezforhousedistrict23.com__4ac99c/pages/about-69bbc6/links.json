@@ -1,7 +1,26 @@
 [
-"https://alanmartinezforhousedistrict23.com/",
-"https://alanmartinezforhousedistrict23.com/about",
-"https://alanmartinezforhousedistrict23.com/issues",
-"https://alanmartinezforhousedistrict23.com/volunteer",
-"https://secure.winred.com/committee-to-elect-alan-martinez/save-new-mexico"
+{
+"text": "About",
+"href": "https://www.alanmartinezforhousedistrict23.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/committee-to-elect-alan-martinez/save-new-mexico"
+},
+{
+"text": "Home",
+"href": "https://www.alanmartinezforhousedistrict23.com"
+},
+{
+"text": "Issues",
+"href": "https://www.alanmartinezforhousedistrict23.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.alanmartinezforhousedistrict23.com/volunteer"
+},
+{
+"text": "alanfordistrict23@gmail.com",
+"href": "mailto:alanfordistrict23@gmail.com"
+}
 ]

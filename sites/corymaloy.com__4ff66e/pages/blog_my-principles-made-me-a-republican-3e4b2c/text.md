@@ -1,4 +1,6 @@
-I am honored to be the Republican nominee for Utah House District 52, and even more than that, I am honored to serve the people who live here.
+Meet Cory The Record Issues The 52 Report Donate Stand With Cory in November Meet Cory The Record Issues The 52 Report Donate Contact Stand With Cory in November ← The 52 Report Sep 8, 2026 · Opinion My Principles Made Me a Republican.
+Not the Other Way Around.
+By Representative Cory Maloy Share Link copied I am honored to be the Republican nominee for Utah House District 52, and even more than that, I am honored to serve the people who live here.
 My loyalty runs first to them, and then to the party that best reflects the values we share.
 That loyalty was not handed to me.
 It was built through a lifetime of conviction that started, as most things in my life do, with faith and family.
@@ -7,8 +9,7 @@ The first was faith in God, rooted and real, the kind that shapes everything els
 The second was love of country.
 I remember standing as a small boy, hand over heart, reciting the Pledge of Allegiance and meaning every word, because something in those words connected to what I was already being taught about duty, about God, and about the extraordinary place I was lucky enough to call home.
 I did not know it yet, but they were handing me the foundation of everything I would come to believe as a Utah Republican and a constitutional conservative.
-Born From Moral Conviction
-That love of country sent me straight into the history books.
+Born From Moral Conviction That love of country sent me straight into the history books.
 The Revolutionary War captured me early.
 The Founding Fathers were not abstract figures to me.
 George Washington, Paul Revere, the men who pledged everything for an idea that had never been tried at scale: I was fascinated by what drove them and what they built.
@@ -25,8 +26,7 @@ Lincoln understood that the Declaration of Independence was not ceremonial langu
 It was the philosophical ground of the republic.
 Government exists to secure individual liberty, not to bestow it.
 That founding conviction has never left the party at its best.
-God-Given Rights and the Document That Protects Them
-Life, liberty, and the pursuit of happiness.
+God-Given Rights and the Document That Protects Them Life, liberty, and the pursuit of happiness.
 Those words from the Declaration are not just poetic.
 They are a statement of political theology.
 Our rights do not come from the Constitution.
@@ -43,8 +43,7 @@ I felt like I was reading a description of something I had already been for year
 I believed in God, in the sanctity of life, in free markets, in personal responsibility.
 The alternative held none of those things.
 That was not a close call.
-The Lineage of Republican Leadership
-I remember the 1968 presidential race.
+The Lineage of Republican Leadership I remember the 1968 presidential race.
 I was in fifth grade, paying attention to the names and the conversations in our home.
 I did not yet understand every policy difference, but I understood that people I respected cared deeply about who led this country, and I began to care too.
 That interest never left.
@@ -55,7 +54,7 @@ I debate within my party.
 I disagree.
 I push back.
 I voted against the Delta Center arena deal when that was not the easy vote.
-I killed an HTRZ expansion in committee.
+I killed an HTRZ expansion in committee .
 Nobody handed me those votes.
 Accountability within a party is not suppression.
 It is integrity.
@@ -73,8 +72,7 @@ I do not stay Republican because the party tells me to.
 I stay because the party reflects what I already believe.
 Real conservatives debate, push back, lose some fights, and show up again the next session.
 When someone's convictions evaporate the moment the party asks something of them, that reveals more about the depth of the convictions than about the party.
-Two Parties, Two Visions
-The Democratic Party today is not the party of John F.
+Two Parties, Two Visions The Democratic Party today is not the party of John F.
 Kennedy.
 It has moved well past policy disagreement into a fundamentally different answer to the question of what human beings are and what government owes them.
 DEI mandates displace individual merit with group identity.
@@ -91,8 +89,7 @@ It offers no settled account of human dignity, no consistent framework for right
 I looked into it seriously years ago, trying to understand it clearly.
 What I found was not a competing vision.
 It was the absence of one.
-What It Has Cost
-Living these principles has not been without cost.
+What It Has Cost Living these principles has not been without cost.
 I have lost relationships because of them.
 Family.
 Friends.
@@ -101,8 +98,7 @@ Not because I forced my views on anyone, but because of how I have lived, how I 
 I do not say that to generate sympathy.
 I say it because anyone who thinks conservatism is just a political preference has not lived it seriously.
 These are convictions, and they carry weight.
-Why I'm a Republican
-The party has imperfections.
+Why I'm a Republican The party has imperfections.
 So does every institution worth keeping.
 I know them, argue about them, and stay anyway.
 Not because the party shapes me, but because it represents me.
@@ -113,10 +109,20 @@ I am fighting.
 Because that is what principled Republicans do.
 Cory Maloy represents House District 52 in the Utah State Legislature, where he chairs the House Business, Labor, and Commerce Committee.
 He is the founder of Maloy PR.
-Learn more at corymaloy.com.
+Learn more at corymaloy.com .
 Sources: Republican National Committee, History of the Republican Party, GOP.com.
 Abraham Lincoln, Cooper Union Address, February 27, 1860.
 Declaration of Independence, 1776.
 U.S.
 Constitution, Preamble.
 Ronald Reagan, reportedly attributed to remarks to staff, cited in National Review and multiple historical sources.
+Share Link copied ← Where I Stand on the Stratos Data Center in Box Elder County A Day of Infamy at 25, and a Year Without Charlie Kirk → Search Posts Recent Posts Sep 28, 2026 Utah Education Funding Is Up.
+Reading Isn't.
+Sep 28, 2026 School Choice in Utah Starts with the Parent Sep 11, 2026 A Day of Infamy at 25, and a Year Without Charlie Kirk Sep 8, 2026 My Principles Made Me a Republican.
+Not the Other Way Around.
+Jun 8, 2026 Where I Stand on the Stratos Data Center in Box Elder County Categories Community 4 Education 2 Elections 8 Legislation 36 Opinion 1 Popular Tags #Elections 27 #Education 19 #Budget 15 #Taxes 13 #Convention 12 #Growth 11 #Second Amendment 10 #Transparency 10 #Public Safety 8 #Water 8 #Healthcare 6 #Energy 5 #Housing 5 #Life 3 #Data Centers 2 #HB 120 2 #HB 143 2 #HB 146 2 #HB 180 2 #HB 184 2 District 52 Needs a Proven Conservative Voice at the Table.
+Stand With Cory in November Cory Maloy ™ Utah Values.
+Firmly Defended. [email protected] 801-477-0019 (call or text) Republican · Utah House District 52 The Campaign Meet Cory The Record Issues The 52 Report Blog Contact Stand Firm Stand With Cory in November Volunteer Donate © #–# Albert Cory Maloy.
+All rights reserved.
+Cory Maloy™ and the Cory Maloy campaign logo are trademarks of Albert Cory Maloy.
+Paid for by the Campaign to Elect Cory Maloy.

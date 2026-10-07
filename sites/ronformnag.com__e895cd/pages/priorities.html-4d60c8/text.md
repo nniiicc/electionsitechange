@@ -1,10 +1,12 @@
-RON'S
-PRIORITIES
-I have fought and won many battles in the courtroom but the fight that matters most is protecting Minnesota families.
-As Attorney General, my promise is simple: I will stand with the people, enforce the law, and put your safety first.” — Ron Schutz
-Fighting Fraud
-Consumer Protection
-Minnesota's Most Vulnerable Deserve a Fighter — Not a Bystander.
+Home Meet Priorities Accomplishments Fact or Fiction News Contact Take Action DONATE TODAY RON'S ﻿PRIORITIES I have fought and won many battles in the courtroom but the fight that matters most is protecting Minnesota families.
+As Attorney General, my promise is simple: I will stand with the people, enforce the law, and put your safety first.” — Ron Schutz Fighting Fraud A massive culture of fraud has taken hold and infested our one-party controlled state government that has cost Minnesota taxpayers Billions of dollars.
+Instead of addressing this crisis, the current Attorney General has been willfully blind to it.
+In fact, in December of 2021 Keith Ellison met with several of the to be indicted and convicted defendants in the infamous and sprawling Feeding Our Future fraud scandal.
+Astoundingly, he said he would help them.
+You can learn more details about that meeting here: https://www.americanexperiment.org/feeding-our-future-keith-ellison-caught-on-tape/ The Feeding Our Future fraud scandal is just the one of many under Keith Ellison's watch.
+We also have the Autism Services Fraud scandal, the Housing Stabilization Fraud scandal, the Evergreen Recovery Medicaid Fraud scandal, and, unfortunately, certainly more to come.
+I will make fighting fraud and protecting taxpayer dollars a top priority and take aggressive steps to stop the fraud before it starts.
+Consumer Protection Minnesota's Most Vulnerable Deserve a Fighter — Not a Bystander.
 Every day, elderly Minnesotans and others who can least afford it are targeted by powerful individuals and corporations who believe they can get away with it.
 Too often, they're right.
 I've spent my career proving them wrong.
@@ -19,25 +21,28 @@ Not once.
 Minnesota's Attorney General shouldn't just talk about fighting for people.
 The AG should know how to win — in a courtroom, against powerful opponents, when the stakes are real.
 I've done it my entire career.
-And I'll do it for every Minnesotan who needs someone in their corner.
-The current Attorney General is soft on crime and hostile to law enforcement.
+And I'll do it for every Minnesotan who needs someone in their corner .
+Tackling Crime The current Attorney General is soft on crime and hostile to law enforcement.
 That must change.
 Minnesota families deserve safe communities.
 Unfortunately, violent crime and property crime remain unacceptably high.
-- Homicides and violent crime in Minneapolis have skyrocketed under Keith Ellison.
+Homicides and violent crime in Minneapolis have skyrocketed under Keith Ellison.
 In 2019, there were 48 homicides in Minneapolis.
 In 2025, there were 64, a 33% increase!
 The murder rate in Minneapolis now rivals that of Oakland and Chicago.
 In 2019, there were 2,227 aggravated assaults in Minneapolis.
 In 2025, there were 2,827, a 27% increase!
-- Property crimes are out of control.
+Property crimes are out of control.
 Often, hundreds of vehicles have been vandalized in a single night in Minneapolis.
 Suburbs are also seeing dramatic increases in burglaries.
 As Attorney General, I will use every tool available to combat crime and protect Minnesotans.
-Law enforcement officers feel under attack, making it harder for our cities and suburbs to recruit and retain the officers we need.
+Supporting Our Law Enforcement Law enforcement officers feel under attack, making it harder for our cities and suburbs to recruit and retain the officers we need.
 Anti-police rhetoric and “defund the police” movements have made Minnesota less safe.
 As Attorney General, I will stand with law enforcement, restore respect for those who protect our communities, and ensure officers have the resources and support they need.
-The current Attorney General has pushed policies that allow biological males to compete in girls’ and women's sports.
+Protecting Girls' Sports The current Attorney General has pushed policies that allow biological males to compete in girls’ and women's sports.
 This is unfair and unsafe.
 It takes away opportunities that women and girls have fought hard to achieve.
 As Attorney General, I will defend fairness and protect the integrity of girls’ and women’s sports.
+WE NEED YOUR SUPPORT SUPPORT OUR CAMPAIGN VOLUNTEER YOUR TIME Ron for MN AG 216 Myrtle St W P.O.
+Box 132 ﻿Stillwater, MN 55082-4830 Email info@RonForMNAG.com Press info@RonForMNAG.comPress Kit Join Us Priorities Meet Ron Contact Us News, Media & Press Kit Take Action Our App Accomplishments Copyright ©# | Privacy Policy Prepared and Paid for by Ron for MN AG ﻿P.O.
+Box 132, Stillwater, MN 55082-4830

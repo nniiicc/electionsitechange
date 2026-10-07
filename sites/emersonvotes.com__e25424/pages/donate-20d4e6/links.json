@@ -1,9 +1,34 @@
 [
-"https://emersonvotes.com/",
-"https://emersonvotes.com/about",
-"https://emersonvotes.com/donate",
-"https://emersonvotes.com/endorsements",
-"https://emersonvotes.com/news",
-"https://emersonvotes.com/priorities",
-"https://mobilize.us/emersonlevy"
+{
+"text": "About",
+"href": "https://emersonvotes.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://emersonvotes.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://emersonvotes.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mobilize.us/emersonlevy/"
+},
+{
+"text": "News",
+"href": "https://emersonvotes.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://emersonvotes.com/priorities/"
+},
+{
+"text": "[image]",
+"href": "https://emersonvotes.com/"
+},
+{
+"text": "hello@emersonvotes.com",
+"href": "mailto:hello@emersonvotes.com"
+}
 ]

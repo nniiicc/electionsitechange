@@ -1,9 +1,12 @@
 {
  "description": "Maryland State Delegate, D9A",
  "final_url": "https://chaowu.org/update/",
- "paid_for_by": null,
+ "fingerprint": "64e8cc5ef455b9fe2d9119eaee7aea6fc5adb80a",
+ "format": 3,
+ "paid_for_by": "Authorized by Friends to Elect Chao Wu, Treasurer: Xia Chen Visitor Cluster Search for: Delegate Wu Five 2027 Local Bills 21 Sep 2026 Chao Wu Delegate Wu Five 2027 Local Bil",
  "title": "News Update | Dr. Chao Wu | Maryland State Delegate, D9A",
  "years_mentioned": [
+  "2007",
   "2011",
   "2013",
   "2016",
@@ -19,6 +22,8 @@
   "2026",
   "2027",
   "2028",
-  "2029"
+  "2029",
+  "2030",
+  "2031"
  ]
 }

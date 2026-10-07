@@ -1,6 +1,4 @@
-About
-STATE SENATOR CARRIE BUCK
-Restoring the American Dream.
+Skip to main content Skip to footer Opens in a new tab Home About Endorsements Contact Donate About STATE SENATOR CARRIE BUCK Restoring the American Dream.
 Standing Up for Nevada Families.
 Now more than ever, Nevada families need a fighter in Washington, D.C., someone with the grit to take on failed career politicians who put politics first and Nevadans last.
 That fighter is State Senator Carrie Buck.
@@ -25,3 +23,10 @@ Carrie and her husband Eric, a retired Deputy Chief of Police, have four sons, i
 The Buck family lives the values Washington politicians only talk about: service, sacrifice, and love of country.
 Carrie Buck has spent her life giving a voice to the voiceless.
 Now she’s ready to fight for Nevada’s families, restore the American Dream, and help President Trump make Washington work for us again.
+Donate to Carrie Buck $5 $15 $25 $50 $100 Other Home About Contact Donate by Mail Carrie Buck for Congress 35 E Horizon Ridge Pkwy Suite 110 #206 Henderson, NV89002 Paid for by Carrie Buck for Congress Please provide your mobile phone to opt-in to Carrie Buck for Congress campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy

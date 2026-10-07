@@ -1,2 +1,4 @@
-GOP lawmakers head to border, urge Biden to crack down on smuggling
-Republican House members accused President Biden Wednesday of not doing enough to prevent drug and human smuggling across the US-Mexico border as the wave of migration continues to grow.
+Home Meet Mike Priorities FAQ Values News Volunteer Donate Now News & Press Releases #TeamCarey Get the latest news from our campaign by following @MikeCareyOH15 on Twitter and Carey for Congress on Facebook Read More Read More June 1, 2022 GOP lawmakers head to border, urge Biden to crack down on smuggling Republican House members accused President Biden Wednesday of not doing enough to prevent drug and human smuggling across the US-Mexico border as the wave of migration continues to grow.
+Read More Read More $25 $50 $100 $250 $1000 Other Carey for Congress P.O.
+Box 16032 Columbus, OH 43216 (614) 706-2731 Privacy Policy | Win@CareyForCongress.com Paid by For Carey for Congress More Information *By providing your phone number, you are consenting to receive calls and SMS/MMS messages, including autodialed and automated calls and texts, to that number from Carey for Congress.
+Msg & data rates may apply.

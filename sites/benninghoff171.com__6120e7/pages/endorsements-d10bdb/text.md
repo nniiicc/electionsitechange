@@ -1,7 +1,1 @@
-The National Rifle Association
-Firearms Owners Against Crime
-Pennsylvania Pro-Life Federation
-FARMER – Farmer’s Allied For Responsible More Effective Representation
-ACRE – Action Committee For Rural Electrification
-The Pennsylvania Chamber Of Business And Industry
-National Federation Of Independent Business
+Meet Kerry Endorsements Volunteer Meet Kerry Endorsements Volunteer Donate Endorsements The National Rifle Association Firearms Owners Against Crime Pennsylvania Pro-Life Federation FARMER – Farmer’s Allied For Responsible More Effective Representation ACRE – Action Committee For Rural Electrification The Pennsylvania Chamber Of Business And Industry National Federation Of Independent Business Paid for by Benninghoff Representative Committee 328 E Lamb St, Bellefonte, PA 16823 © # All Rights Reserved

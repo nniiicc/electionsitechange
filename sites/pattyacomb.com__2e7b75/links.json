@@ -1,10 +1,54 @@
 [
-"https://facebook.com/pattyacomb",
-"https://instagram.com/pattyacomb",
-"https://pattyacomb.com/",
-"https://pattyacomb.com/get-involved",
-"https://pattyacomb.com/issues",
-"https://pattyacomb.com/meet-patty",
-"https://secure.actblue.com/donate/acomb-for-house-committee-1",
-"https://twitter.com/PattyAcomb"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/acomb-for-house-committee-1"
+},
+{
+"text": "Get In Touch! Email Patty",
+"href": "mailto:patty@pattyacomb.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.pattyacomb.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.pattyacomb.com"
+},
+{
+"text": "Issues",
+"href": "https://www.pattyacomb.com/issues"
+},
+{
+"text": "Meet Patty",
+"href": "https://www.pattyacomb.com/meet-patty"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.pattyacomb.com/get-involved"
+},
+{
+"text": "SUPPORT",
+"href": "https://www.pattyacomb.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/pattyacomb/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/pattyacomb/"
+},
+{
+"text": "[image: patty-acomb.webp]",
+"href": "https://www.pattyacomb.com"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/PattyAcomb"
+},
+{
+"text": "[no text]",
+"href": "mailto:patty@pattyacomb.com"
+}
 ]

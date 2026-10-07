@@ -1,8 +1,10 @@
-Updated October 2, 2026
-Voters on TV and streaming need to see a simple and consistent message that Lauren Boebert is out for herself, and Coloradans pay the price.
+0 Skip to Content Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Folder: Press Back Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Updated October 2, 2026 Voters on TV and streaming need to see a simple and consistent message that Lauren Boebert is out for herself, and Coloradans pay the price.
 Lauren Boebert has put the needs of the wealthy and well connected ahead of the people of Colorado, all while spending taxpayer and campaign money on her lavish lifestyle, while she votes to drive our costs up.
-- She gave a massive tax break to the wealthy, while gutting Medicaid, slashing support for rural hospitals putting them at risk of closure, kicking more than a hundred thousand Coloradans off their health insurance, and doubling healthcare premiums for hundreds of thousands.
-- Boebert has voted eight times for the tariffs, raising costs by $4,200 for the average Colorado family and five times for the Iran War that has sent gas prices over $4 a gallon and diesel prices to record highs.
-- And while she was raising our costs, she spent more than $50,000 of our money on her rent in DC, more than any other Colorado politician.
+She gave a massive tax break to the wealthy, while gutting Medicaid, slashing support for rural hospitals putting them at risk of closure, kicking more than a hundred thousand Coloradans off their health insurance, and doubling healthcare premiums for hundreds of thousands.
+Boebert has voted eight times for the tariffs, raising costs by $4,200 for the average Colorado family and five times for the Iran War that has sent gas prices over $4 a gallon and diesel prices to record highs.
+And while she was raising our costs, she spent more than $50,000 of our money on her rent in DC, more than any other Colorado politician.
 She was also caught illegally spending campaign funds for personal use.
-While Lauren Boebert makes life more expensive for us back home in CO, we’re paying for her to live it up in Washington DC.
+While Lauren Boebert makes life more expensive for us back home in CO, we’re paying for her to live it up in Washington DC. media Kit Get the Facts Get the Facts GET INVOLVED WITH TEAM EILEEN Donate Volunteer Contact Privacy Policy/Terms of Service Careers CHECKS CAN BE MAILED TO PO BOX: 9249 S Broadway, #200-172 Highlands Ranch, CO 80129 PAID FOR BY EILEEN FOR COLORADO REAR ADMIRAL EILEEN LAUBACHER (RET) IS A FORMER MEMBER OF THE U.S.
+NAVY.
+USE OF HER MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT FROM THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE. ©# Eileen for Colorado.
+All rights reserved.

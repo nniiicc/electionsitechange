@@ -1,50 +1,282 @@
 [
-"https://apolloartistry.com/",
-"https://bsky.app/profile/gene4va.bsky.social/post/3mwzc4yotls27",
-"https://bsky.app/profile/gene4va.bsky.social/post/3mwzcbgfzl227",
-"https://bsky.app/profile/gene4va.bsky.social/post/3mx5a6y25s22z",
-"https://secure.actblue.com/donate/evfc-website",
-"https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=500",
-"https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=7",
-"https://twitter.com/JoshuaCole",
-"https://twitter.com/Nicole4Delegate",
-"https://twitter.com/iamwesmoore",
-"https://twitter.com/intent/like?tweet_id=2106076602735923502",
-"https://twitter.com/intent/like?tweet_id=2106544855383949359",
-"https://twitter.com/intent/like?tweet_id=2106561325887566282",
-"https://twitter.com/intent/retweet?tweet_id=2106076602735923502",
-"https://twitter.com/intent/retweet?tweet_id=2106544855383949359",
-"https://twitter.com/intent/retweet?tweet_id=2106561325887566282",
-"https://twitter.com/intent/tweet?in_reply_to=2106076602735923502",
-"https://twitter.com/intent/tweet?in_reply_to=2106544855383949359",
-"https://twitter.com/intent/tweet?in_reply_to=2106561325887566282",
-"https://twitter.com/yvindman/status/2106076602735923502",
-"https://twitter.com/yvindman/status/2106544855383949359",
-"https://twitter.com/yvindman/status/2106561325887566282",
-"https://vindmanforcongress.com/",
-"https://vindmanforcongress.com/about",
-"https://vindmanforcongress.com/accessibility",
-"https://vindmanforcongress.com/bluesky",
-"https://vindmanforcongress.com/cdn-cgi/l/email-protection",
-"https://vindmanforcongress.com/endorsements",
-"https://vindmanforcongress.com/facebook",
-"https://vindmanforcongress.com/instagram",
-"https://vindmanforcongress.com/issues",
-"https://vindmanforcongress.com/news",
-"https://vindmanforcongress.com/privacy-policy",
-"https://vindmanforcongress.com/shop",
-"https://vindmanforcongress.com/store",
-"https://vindmanforcongress.com/substack",
-"https://vindmanforcongress.com/sunstack",
-"https://vindmanforcongress.com/take-action",
-"https://vindmanforcongress.com/terms-of-service",
-"https://vindmanforcongress.com/threads",
-"https://vindmanforcongress.com/twitter",
-"https://vindmanforcongress.com/vote",
-"https://vindmanforcongress.com/youtube"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=7"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=10"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=100"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=25"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=250"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=50"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=500"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=7"
+},
+{
+"text": "About",
+"href": "https://vindmanforcongress.com/about"
+},
+{
+"text": "About",
+"href": "https://vindmanforcongress.com/about/"
+},
+{
+"text": "Accessibility",
+"href": "https://vindmanforcongress.com/accessibility"
+},
+{
+"text": "By submitting your mobile phone number you are agreeing to receive periodic text messages from Vindman for Congress. Messages include donation asks. Message and data rates may apply. Text HELP for more information. Text STOP to stop receiving messages. Terms and privacy policy.",
+"href": "https://vindmanforcongress.com/privacy-policy"
+},
+{
+"text": "Contact",
+"href": "mailto:info@vindmanforcongress.com"
+},
+{
+"text": "Donate Donate",
+"href": "https://secure.actblue.com/donate/evfc-website"
+},
+{
+"text": "Endorsements",
+"href": "https://vindmanforcongress.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://vindmanforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://vindmanforcongress.com/facebook"
+},
+{
+"text": "Home",
+"href": "https://vindmanforcongress.com"
+},
+{
+"text": "ISSUES",
+"href": "https://vindmanforcongress.com/issues"
+},
+{
+"text": "Instagram",
+"href": "https://vindmanforcongress.com/instagram"
+},
+{
+"text": "Issues",
+"href": "https://vindmanforcongress.com/issues/"
+},
+{
+"text": "Meet Eugene Meet Eugene",
+"href": "https://vindmanforcongress.com/about"
+},
+{
+"text": "News",
+"href": "https://vindmanforcongress.com/news"
+},
+{
+"text": "News",
+"href": "https://vindmanforcongress.com/news/"
+},
+{
+"text": "Other Amount Other Amount",
+"href": "https://secure.actblue.com/donate/evfc-website"
+},
+{
+"text": "Other Amount...",
+"href": "https://secure.actblue.com/donate/evfc-website"
+},
+{
+"text": "Other Amount... Other Amount...",
+"href": "https://secure.actblue.com/donate/evfc-website"
+},
+{
+"text": "Powered By Apollo",
+"href": "https://apolloartistry.com/"
+},
+{
+"text": "Press Inquiry",
+"href": "mailto:press@vindmanforcongress.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://vindmanforcongress.com/privacy-policy"
+},
+{
+"text": "Shop",
+"href": "https://vindmanforcongress.com/shop"
+},
+{
+"text": "Shop",
+"href": "https://vindmanforcongress.com/store"
+},
+{
+"text": "Take Action",
+"href": "https://vindmanforcongress.com/take-action"
+},
+{
+"text": "Take Action",
+"href": "https://vindmanforcongress.com/take-action/"
+},
+{
+"text": "Terms of Service",
+"href": "https://vindmanforcongress.com/terms-of-service"
+},
+{
+"text": "Threads",
+"href": "https://vindmanforcongress.com/threads"
+},
+{
+"text": "UPDATES",
+"href": "https://vindmanforcongress.com/news"
+},
+{
+"text": "Vote",
+"href": "https://vindmanforcongress.com/vote"
+},
+{
+"text": "Vote",
+"href": "https://vindmanforcongress.com/vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://vindmanforcongress.com/twitter"
+},
+{
+"text": "Youtube",
+"href": "https://vindmanforcongress.com/youtube"
+},
+{
+"text": "[email protected]",
+"href": "https://vindmanforcongress.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "https://vindmanforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/gene4va.bsky.social/post/3mx5a6y25s22z"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/gene4va.bsky.social/post/3mx7u7ever22l"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/gene4va.bsky.social/post/3mx7zkbwbw22d"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/like?tweet_id=2107130018132312402"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/like?tweet_id=2107167543966273734"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/like?tweet_id=2107256214539149769"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/retweet?tweet_id=2107130018132312402"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/retweet?tweet_id=2107167543966273734"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/retweet?tweet_id=2107256214539149769"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?in_reply_to=2107130018132312402"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?in_reply_to=2107167543966273734"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?in_reply_to=2107256214539149769"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/yvindman/status/2107130018132312402"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/yvindman/status/2107167543966273734"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/yvindman/status/2107256214539149769"
+},
+{
+"text": "[no text]",
+"href": "https://vindmanforcongress.com/bluesky"
+},
+{
+"text": "[no text]",
+"href": "https://vindmanforcongress.com/facebook"
+},
+{
+"text": "[no text]",
+"href": "https://vindmanforcongress.com/instagram"
+},
+{
+"text": "[no text]",
+"href": "https://vindmanforcongress.com/substack"
+},
+{
+"text": "[no text]",
+"href": "https://vindmanforcongress.com/sunstack"
+},
+{
+"text": "[no text]",
+"href": "https://vindmanforcongress.com/threads"
+},
+{
+"text": "[no text]",
+"href": "https://vindmanforcongress.com/twitter"
+},
+{
+"text": "[no text]",
+"href": "https://vindmanforcongress.com/youtube"
+}
 ]

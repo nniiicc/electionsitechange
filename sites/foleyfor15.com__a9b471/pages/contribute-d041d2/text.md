@@ -1,8 +1,5 @@
-Contribute
-Members of the Maryland General Assembly are prohibited from receiving campaign donations during the legislative session.
+Home About Issues Get Involved Contact Menu Home About Issues Get Involved Contact Contribute Menu Home About Issues Get Involved Contact Contribute Friends of Linda Foley Linda Foley for Delegate, District 15 Home About Issues Get Involved Contact Contribute Members of the Maryland General Assembly are prohibited from receiving campaign donations during the legislative session.
 The 2026 Session takes place from January 14th, noon, through April 13th.
-Contribute by Check
-Friends of Linda Foley
-1215 E Fort Ave, Suite 106,
-Baltimore, MD 21230
-Please include the following: full name, address, employer and occupation, phone number, and email address.
+Online Donation Donation Page Contribute by Check Friends of Linda Foley 1215 E Fort Ave, Suite 106, Baltimore, MD 21230 Please include the following: full name, address, employer and occupation, phone number, and email address.
+Home Overview Contribute About Biography Resources Newsletter Legislative Page Media Issues Latest News Contact Email Volunteer Facebook Twitter Home Overview Contribute Media Issues Latest News About Biography Resources Newsletter Legislative Page Contact Email Volunteer Facebook Twitter Contribute By Authority: Friends of Linda Foley, Monty N.
+Foley, Treasurer

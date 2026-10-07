@@ -1,9 +1,42 @@
 [
-"https://forsythforalabama.com/",
-"https://forsythforalabama.com/about-jamie",
-"https://forsythforalabama.com/donate",
-"https://forsythforalabama.com/the-issues",
-"https://forsythforalabama.com/volunteer",
-"https://forsythforalabama.com/voter-information",
-"https://wix.com/"
+{
+"text": "Call-To-Action",
+"href": "https://www.forsythforalabama.com/volunteer"
+},
+{
+"text": "Contact Us",
+"href": "https://www.forsythforalabama.com/volunteer"
+},
+{
+"text": "Donate",
+"href": "https://www.forsythforalabama.com/donate"
+},
+{
+"text": "Integrity, Servant-Leadership, Hard-Working",
+"href": "https://www.forsythforalabama.com"
+},
+{
+"text": "Join the Campaign",
+"href": "https://www.forsythforalabama.com/volunteer"
+},
+{
+"text": "Learn More",
+"href": "https://www.forsythforalabama.com/about-jamie"
+},
+{
+"text": "More Issues",
+"href": "https://www.forsythforalabama.com/the-issues"
+},
+{
+"text": "Voter Information",
+"href": "https://www.forsythforalabama.com/voter-information"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "©",
+"href": "https://www.wix.com"
+}
 ]

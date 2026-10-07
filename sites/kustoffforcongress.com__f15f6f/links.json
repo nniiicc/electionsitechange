@@ -1,15 +1,102 @@
 [
-"https://facebook.com/kustoffforcongress",
-"https://instagram.com/kustoffforcongress",
-"https://kustoffforcongress.com/",
-"https://kustoffforcongress.com/about",
-"https://kustoffforcongress.com/contact",
-"https://kustoffforcongress.com/donate",
-"https://kustoffforcongress.com/issues",
-"https://kustoffforcongress.com/news",
-"https://kustoffforcongress.com/privacy",
-"https://kustoffforcongress.com/terms",
-"https://kustoffforcongress.com/volunteer",
-"https://twitter.com/DavidKustoff",
-"https://youtube.com/channel/UCLjScc7fN6399KBWFJ872HQ"
+{
+"text": "About",
+"href": "https://www.kustoffforcongress.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.kustoffforcongress.com/contact/"
+},
+{
+"text": "David Kustoff",
+"href": "https://www.facebook.com/kustoffforcongress/"
+},
+{
+"text": "Donate",
+"href": "https://www.kustoffforcongress.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://www.kustoffforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kustoffforcongress.com/issues/"
+},
+{
+"text": "Meet David",
+"href": "https://www.kustoffforcongress.com/about/"
+},
+{
+"text": "News",
+"href": "https://www.kustoffforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kustoffforcongress.com/privacy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.kustoffforcongress.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kustoffforcongress.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://instagram.com/kustoffforcongress"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/DavidKustoff"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/kustoffforcongress/"
+},
+{
+"text": "[image]",
+"href": "https://www.kustoffforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/channel/UCLjScc7fN6399KBWFJ872HQ"
+},
+{
+"text": "[image]Ending Illegal Immigration",
+"href": "https://www.kustoffforcongress.com/issues/#ending-illegal-immigration"
+},
+{
+"text": "[image]Facebook",
+"href": "https://www.facebook.com/kustoffforcongress"
+},
+{
+"text": "[image]Fighting Terror",
+"href": "https://www.kustoffforcongress.com/issues/#fighting-terror"
+},
+{
+"text": "[image]Instagram",
+"href": "https://instagram.com/kustoffforcongress"
+},
+{
+"text": "[image]Maintaining Law & Order",
+"href": "https://www.kustoffforcongress.com/issues/#maintaining-law-and-order"
+},
+{
+"text": "[image]Standing for West TN Values",
+"href": "https://www.kustoffforcongress.com/issues/#standing-for-west-tennessee-values"
+},
+{
+"text": "[image]Strengthening Our Rural Economy",
+"href": "https://www.kustoffforcongress.com/issues/#strengthening-our-rural-economy"
+},
+{
+"text": "[image]Supporting the Trump Agenda",
+"href": "https://www.kustoffforcongress.com/issues/#supporting-the-trump-agenda"
+},
+{
+"text": "[image]Twitter",
+"href": "https://twitter.com/DavidKustoff"
+}
 ]

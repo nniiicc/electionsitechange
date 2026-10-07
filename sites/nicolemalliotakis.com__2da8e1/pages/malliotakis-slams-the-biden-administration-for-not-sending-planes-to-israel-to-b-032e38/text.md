@@ -1,6 +1,4 @@
-On Thursday's "National Report," N.Y.
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Nicole Malliotakis Malliotakis slams the Biden administration for not sending planes to Israel to bring home American citizens by Team Nicole on Oct 12, 2023 On Thursday's "National Report," N.Y.
 Rep.
-Nicole Malliotakis slams the Biden administration for not sending planes to Israel to bring home American citizens. @NMalliotakis @ShaunKraisman @EmmaRechenberg pic.twitter.com/RyH1sdAA8w
-— NEWSMAX (@NEWSMAX) October 12, 2023
-As Americans and New Yorkers, we unequivocally stand with the Israeli people in the face of this horrific acts of Iranian-backed terrorism of Hamas.
-STAND WITH NICOLE
+Nicole Malliotakis slams the Biden administration for not sending planes to Israel to bring home American citizens. @NMalliotakis @ShaunKraisman @EmmaRechenberg pic.twitter.com/RyH1sdAA8w — NEWSMAX (@NEWSMAX) October 12, 2023 As Americans and New Yorkers, we unequivocally stand with the Israeli people in the face of this horrific acts of Iranian-backed terrorism of Hamas.
+Watch share NEXT ARTICLE OPINION: We Will Not Let Evil Win PREVIOUS ARTICLE Malliotakis: ‘Squad’ Dem making ‘ludicrous’ excuse for pulling fire alarm STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

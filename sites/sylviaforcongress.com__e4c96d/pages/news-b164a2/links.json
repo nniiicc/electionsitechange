@@ -1,40 +1,314 @@
 [
-"https://bcm.edu/news/baylors-post-covid-clinic-receives-federal-funding",
-"https://bsky.app/profile/lacongresista.bsky.social",
-"https://click2houston.com/news/local/2024/05/16/grave-concerns-rep-sylvia-garcia-calls-for-federal-audit-into-houston-isd-sup-mike-miles-colorado-school",
-"https://facebook.com/SylviaRGarcia",
-"https://houstonchronicle.com/business/energy/article/hydrogen-hub-houston-chosen-hyvelocity-chevron-ut-18422071.php",
-"https://houstonchronicle.com/news/houston-texas/education/article/call-federal-audit-pandemic-supplement-19462236.php",
-"https://houstonchronicle.com/news/houston-texas/transportation/article/east-end-trains-federal-legislation-17803663.php",
-"https://houstonchronicle.com/news/houston-texas/trending/article/vanessa-guillen-post-office-dedication-19381389.php",
-"https://houstonchronicle.com/opinion/editorials/article/milby-train-death-union-pacific-rail-crossings-20007149.php",
-"https://houstonchronicle.com/opinion/outlook/article/extreme-heat-sylvia-garcia-18424963.php",
-"https://houstonchronicle.com/opinion/outlook/article/mass-deportation-cost-trump-20025156.php",
-"https://houstonchronicle.com/politics/article/law-firms-trump-texas-democrats-20294744.php",
-"https://houstonchronicle.com/politics/texas/article/houston-immigrant-rights-20066550.php",
-"https://houstonpublicmedia.org/articles/infrastructure/2023/06/05/453633/houston-blocked-railroad-crossing-underpass-federal-grant?amp=1",
-"https://houstonpublicmedia.org/articles/news/politics/2025/05/22/522018/texas-democrats-band-together-to-speak-against-trumps-proposed-cuts-to-medicaid-and-food-stamps",
-"https://houstonpublicmedia.org/articles/news/politics/immigration/2025/01/30/512422/houston-area-congresswoman-says-recent-immigration-enforcement-is-going-beyond-targeted-efforts",
-"https://houstonpublicmedia.org/articles/news/politics/immigration/2025/02/06/513186/local-congressional-hispanic-caucus-member-will-re-introduce-a-bill-to-provide-pathway-to-citizenship-for-daca-recipients",
-"https://houstonpublicmedia.org/articles/shows/houston-matters/2022/07/26/429121/a-new-law-would-require-breaks-for-outside-workers-its-sponsor-says-its-long-overdue?amp=1",
-"https://instagram.com/lacongresista",
-"https://khou.com/article/news/local/deported-hosuton-daughter-brain-cancer/285-f2df0608-3947-4939-9a9c-6b0d1b930e61",
-"https://khou.com/article/news/local/houston-student-train-crossing-problems/285-65233571-7ebe-40dc-a791-2dc37e555725",
-"https://northchannelstar.com/2020/04/congresswoman-garcia-brings-funding-to-districts-colleges",
-"https://northchannelstar.com/2021/03/galena-parks-medical-clinic-administers-covid-vaccine",
-"https://northchannelstar.com/2023/01/60-million-in-maritime-grants-to-benefit-port-of-houston-and-san-jac-center-of-excellence",
-"https://rollcall.com/2024/07/02/labor-adds-heat-rule-as-world-temps-rise",
-"https://secure.ngpvan.com/HRSGvJW1HECFcWPtvXrHfQ2",
-"https://secure.ngpvan.com/IySk3RvAGEqc0HU24ITO0Q2",
-"https://sylviaforcongress.com/",
-"https://sylviaforcongress.com/endorsements",
-"https://sylviaforcongress.com/issues",
-"https://sylviaforcongress.com/meet-sylvia",
-"https://sylviaforcongress.com/news",
-"https://sylviagarcia.house.gov/",
-"https://texasobserver.org/sylvia-garcia-interview-immigration",
-"https://texasstandard.org/stories/military-sexual-assault-bill-honoring-vanessa-guillen-reaches-the-presidents-desk",
-"https://texastribune.org/2023/06/15/sylvia-garcia-daca-recipients-dreamers",
-"https://threads.com/@lacongresista",
-"https://x.com/LaCongresista"
+{
+"text": "$60 million in Maritime grants to benefit Port of Houston and San Jac Center of Excellence",
+"href": "https://www.northchannelstar.com/2023/01/60-million-in-maritime-grants-to-benefit-port-of-houston-and-san-jac-center-of-excellence/"
+},
+{
+"text": "A new law would require breaks for outside workers. Its sponsor says it’s long overdue",
+"href": "https://www.houstonpublicmedia.org/articles/shows/houston-matters/2022/07/26/429121/a-new-law-would-require-breaks-for-outside-workers-its-sponsor-says-its-long-overdue/?amp=1"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.sylviaforcongress.com"
+},
+{
+"text": "Baylor’s Post-COVID clinic receives federal funding",
+"href": "https://www.bcm.edu/news/baylors-post-covid-clinic-receives-federal-funding"
+},
+{
+"text": "Congresswoman Garcia brings funding to District’s Colleges",
+"href": "https://www.northchannelstar.com/2020/04/congresswoman-garcia-brings-funding-to-districts-colleges/"
+},
+{
+"text": "Contact",
+"href": "https://www.sylviaforcongress.com/news"
+},
+{
+"text": "DOE's billion-dollar investment in Houston's clean hydrogen sector could create more than 10K jobs",
+"href": "https://www.houstonchronicle.com/business/energy/article/hydrogen-hub-houston-chosen-hyvelocity-chevron-ut-18422071.php"
+},
+{
+"text": "DONATE",
+"href": "https://secure.ngpvan.com/HRSGvJW1HECFcWPtvXrHfQ2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sylviaforcongress.com/endorsements"
+},
+{
+"text": "Galena Park’s Medical Clinic Administers COVID Vaccine",
+"href": "https://www.northchannelstar.com/2021/03/galena-parks-medical-clinic-administers-covid-vaccine/"
+},
+{
+"text": "Houston awarded $36.9 million federal grant to build railroad underpasses in East End neighborhood plagued by stopped trains",
+"href": "https://www.houstonpublicmedia.org/articles/infrastructure/2023/06/05/453633/houston-blocked-railroad-crossing-underpass-federal-grant/?amp=1"
+},
+{
+"text": "Houston post office officially renamed after Army Spc. Vanessa Guillén",
+"href": "https://www.houstonchronicle.com/news/houston-texas/trending/article/vanessa-guillen-post-office-dedication-19381389.php"
+},
+{
+"text": "Issues",
+"href": "https://www.sylviaforcongress.com/issues"
+},
+{
+"text": "Labor adds heat rule as world temps rise; Heat wave season has grown by # days since the #s, EPA says",
+"href": "https://rollcall.com/2024/07/02/labor-adds-heat-rule-as-world-temps-rise/"
+},
+{
+"text": "Meet Sylvia",
+"href": "https://www.sylviaforcongress.com/meet-sylvia"
+},
+{
+"text": "Military sexual assault bill honoring Vanessa Guillén reaches the president’s desk",
+"href": "https://www.texasstandard.org/stories/military-sexual-assault-bill-honoring-vanessa-guillen-reaches-the-presidents-desk/"
+},
+{
+"text": "News",
+"href": "https://www.sylviaforcongress.com/news"
+},
+{
+"text": "Read More",
+"href": "https://rollcall.com/2024/07/02/labor-adds-heat-rule-as-world-temps-rise/"
+},
+{
+"text": "Read More",
+"href": "https://www.bcm.edu/news/baylors-post-covid-clinic-receives-federal-funding"
+},
+{
+"text": "Read More",
+"href": "https://www.click2houston.com/news/local/2024/05/16/grave-concerns-rep-sylvia-garcia-calls-for-federal-audit-into-houston-isd-sup-mike-miles-colorado-school/"
+},
+{
+"text": "Read More",
+"href": "https://www.houstonchronicle.com/business/energy/article/hydrogen-hub-houston-chosen-hyvelocity-chevron-ut-18422071.php"
+},
+{
+"text": "Read More",
+"href": "https://www.houstonchronicle.com/news/houston-texas/education/article/call-federal-audit-pandemic-supplement-19462236.php"
+},
+{
+"text": "Read More",
+"href": "https://www.houstonchronicle.com/news/houston-texas/transportation/article/east-end-trains-federal-legislation-17803663.php"
+},
+{
+"text": "Read More",
+"href": "https://www.houstonchronicle.com/news/houston-texas/trending/article/vanessa-guillen-post-office-dedication-19381389.php"
+},
+{
+"text": "Read More",
+"href": "https://www.houstonchronicle.com/opinion/editorials/article/milby-train-death-union-pacific-rail-crossings-20007149.php"
+},
+{
+"text": "Read More",
+"href": "https://www.houstonchronicle.com/opinion/outlook/article/extreme-heat-sylvia-garcia-18424963.php"
+},
+{
+"text": "Read More",
+"href": "https://www.houstonchronicle.com/opinion/outlook/article/mass-deportation-cost-trump-20025156.php"
+},
+{
+"text": "Read More",
+"href": "https://www.houstonchronicle.com/politics/article/law-firms-trump-texas-democrats-20294744.php"
+},
+{
+"text": "Read More",
+"href": "https://www.houstonchronicle.com/politics/texas/article/houston-immigrant-rights-20066550.php"
+},
+{
+"text": "Read More",
+"href": "https://www.houstonpublicmedia.org/articles/infrastructure/2023/06/05/453633/houston-blocked-railroad-crossing-underpass-federal-grant/?amp=1"
+},
+{
+"text": "Read More",
+"href": "https://www.houstonpublicmedia.org/articles/news/politics/2025/05/22/522018/texas-democrats-band-together-to-speak-against-trumps-proposed-cuts-to-medicaid-and-food-stamps/"
+},
+{
+"text": "Read More",
+"href": "https://www.houstonpublicmedia.org/articles/news/politics/immigration/2025/01/30/512422/houston-area-congresswoman-says-recent-immigration-enforcement-is-going-beyond-targeted-efforts/"
+},
+{
+"text": "Read More",
+"href": "https://www.houstonpublicmedia.org/articles/news/politics/immigration/2025/02/06/513186/local-congressional-hispanic-caucus-member-will-re-introduce-a-bill-to-provide-pathway-to-citizenship-for-daca-recipients/"
+},
+{
+"text": "Read More",
+"href": "https://www.houstonpublicmedia.org/articles/shows/houston-matters/2022/07/26/429121/a-new-law-would-require-breaks-for-outside-workers-its-sponsor-says-its-long-overdue/?amp=1"
+},
+{
+"text": "Read More",
+"href": "https://www.khou.com/article/news/local/deported-hosuton-daughter-brain-cancer/285-f2df0608-3947-4939-9a9c-6b0d1b930e61"
+},
+{
+"text": "Read More",
+"href": "https://www.khou.com/article/news/local/houston-student-train-crossing-problems/285-65233571-7ebe-40dc-a791-2dc37e555725"
+},
+{
+"text": "Read More",
+"href": "https://www.northchannelstar.com/2020/04/congresswoman-garcia-brings-funding-to-districts-colleges/"
+},
+{
+"text": "Read More",
+"href": "https://www.northchannelstar.com/2021/03/galena-parks-medical-clinic-administers-covid-vaccine/"
+},
+{
+"text": "Read More",
+"href": "https://www.northchannelstar.com/2023/01/60-million-in-maritime-grants-to-benefit-port-of-houston-and-san-jac-center-of-excellence/"
+},
+{
+"text": "Read More",
+"href": "https://www.texasobserver.org/sylvia-garcia-interview-immigration/"
+},
+{
+"text": "Read More",
+"href": "https://www.texasstandard.org/stories/military-sexual-assault-bill-honoring-vanessa-guillen-reaches-the-presidents-desk/"
+},
+{
+"text": "Stopped trains still block East End streets. A federal bill could lead to fines for railroads.",
+"href": "https://www.houstonchronicle.com/news/houston-texas/transportation/article/east-end-trains-federal-legislation-17803663.php"
+},
+{
+"text": "Sylvia Garcia: What the U.S. must do to cope with extreme heat (Opinion)",
+"href": "https://www.houstonchronicle.com/opinion/outlook/article/extreme-heat-sylvia-garcia-18424963.php"
+},
+{
+"text": "Texas Democrat leads renewed push in Congress to grant citizenship to DACA recipients",
+"href": "https://www.click2houston.com/news/local/2024/05/16/grave-concerns-rep-sylvia-garcia-calls-for-federal-audit-into-houston-isd-sup-mike-miles-colorado-school/"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/IySk3RvAGEqc0HU24ITO0Q2"
+},
+{
+"text": "[image: Bluesky_Logo]",
+"href": "https://bsky.app/profile/lacongresista.bsky.social"
+},
+{
+"text": "[image: Compressed_AP24039562179061-copy-2-copy-2048x1338.jpg]",
+"href": "https://www.texasobserver.org/sylvia-garcia-interview-immigration/"
+},
+{
+"text": "[image: Congresswoman Sylvia Garcia in News-12.40.44-PM.png]",
+"href": "https://www.northchannelstar.com/2023/01/60-million-in-maritime-grants-to-benefit-port-of-houston-and-san-jac-center-of-excellence/"
+},
+{
+"text": "[image: Congresswoman Sylvia Garcia in News]",
+"href": "https://rollcall.com/2024/07/02/labor-adds-heat-rule-as-world-temps-rise/"
+},
+{
+"text": "[image: Congresswoman Sylvia Garcia in News]",
+"href": "https://www.click2houston.com/news/local/2024/05/16/grave-concerns-rep-sylvia-garcia-calls-for-federal-audit-into-houston-isd-sup-mike-miles-colorado-school/"
+},
+{
+"text": "[image: Congresswoman Sylvia Garcia in News]",
+"href": "https://www.houstonchronicle.com/business/energy/article/hydrogen-hub-houston-chosen-hyvelocity-chevron-ut-18422071.php"
+},
+{
+"text": "[image: Congresswoman Sylvia Garcia in News]",
+"href": "https://www.houstonchronicle.com/news/houston-texas/education/article/call-federal-audit-pandemic-supplement-19462236.php"
+},
+{
+"text": "[image: Congresswoman Sylvia Garcia in News]",
+"href": "https://www.houstonchronicle.com/news/houston-texas/transportation/article/east-end-trains-federal-legislation-17803663.php"
+},
+{
+"text": "[image: Congresswoman Sylvia Garcia in News]",
+"href": "https://www.houstonchronicle.com/news/houston-texas/trending/article/vanessa-guillen-post-office-dedication-19381389.php"
+},
+{
+"text": "[image: Congresswoman Sylvia Garcia in News]",
+"href": "https://www.houstonchronicle.com/opinion/outlook/article/extreme-heat-sylvia-garcia-18424963.php"
+},
+{
+"text": "[image: Congresswoman Sylvia Garcia in News]",
+"href": "https://www.houstonpublicmedia.org/articles/infrastructure/2023/06/05/453633/houston-blocked-railroad-crossing-underpass-federal-grant/?amp=1"
+},
+{
+"text": "[image: Congresswoman Sylvia Garcia in News]",
+"href": "https://www.texasstandard.org/stories/military-sexual-assault-bill-honoring-vanessa-guillen-reaches-the-presidents-desk/"
+},
+{
+"text": "[image: Congresswoman Sylvia Garcia in News]",
+"href": "https://www.texastribune.org/2023/06/15/sylvia-garcia-daca-recipients-dreamers/"
+},
+{
+"text": "[image: Congresswoman Sylvia Garcia in Newsjpeg]",
+"href": "https://www.bcm.edu/news/baylors-post-covid-clinic-receives-federal-funding"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SylviaRGarcia"
+},
+{
+"text": "[image: IMG_8238-1000x667.jpg]",
+"href": "https://www.houstonpublicmedia.org/articles/shows/houston-matters/2022/07/26/429121/a-new-law-would-require-breaks-for-outside-workers-its-sponsor-says-its-long-overdue/?amp=1"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/lacongresista/"
+},
+{
+"text": "[image: Rep Garcia 1.JPG]",
+"href": "https://www.northchannelstar.com/2020/04/congresswoman-garcia-brings-funding-to-districts-colleges/"
+},
+{
+"text": "[image: Screenshot 2025-11-07 at 1.05.18 PM.png]",
+"href": "https://www.houstonchronicle.com/politics/texas/article/houston-immigrant-rights-20066550.php"
+},
+{
+"text": "[image: Screenshot 2025-11-07 at 1.07.11 PM.png]",
+"href": "https://www.houstonpublicmedia.org/articles/news/politics/immigration/2025/02/06/513186/local-congressional-hispanic-caucus-member-will-re-introduce-a-bill-to-provide-pathway-to-citizenship-for-daca-recipients/"
+},
+{
+"text": "[image: Screenshot 2025-11-07 at 1.22.25 PM.png]",
+"href": "https://www.houstonchronicle.com/politics/article/law-firms-trump-texas-democrats-20294744.php"
+},
+{
+"text": "[image: Screenshot 2025-11-07 at 1.26.16 PM (2).png]",
+"href": "https://www.khou.com/article/news/local/deported-hosuton-daughter-brain-cancer/285-f2df0608-3947-4939-9a9c-6b0d1b930e61"
+},
+{
+"text": "[image: Screenshot 2025-11-07 at 1.29.54 PM.png]",
+"href": "https://www.houstonpublicmedia.org/articles/news/politics/2025/05/22/522018/texas-democrats-band-together-to-speak-against-trumps-proposed-cuts-to-medicaid-and-food-stamps/"
+},
+{
+"text": "[image: Screenshot 2025-11-07 at 12.30.49 PM.png]",
+"href": "https://www.khou.com/article/news/local/houston-student-train-crossing-problems/285-65233571-7ebe-40dc-a791-2dc37e555725"
+},
+{
+"text": "[image: Screenshot 2025-11-07 at 12.32.35 PM.png]",
+"href": "https://www.houstonchronicle.com/opinion/editorials/article/milby-train-death-union-pacific-rail-crossings-20007149.php"
+},
+{
+"text": "[image: Screenshot 2025-11-07 at 12.48.28 PM.png]",
+"href": "https://www.houstonchronicle.com/opinion/outlook/article/mass-deportation-cost-trump-20025156.php"
+},
+{
+"text": "[image: Screenshot 2025-11-07 at 12.56.49 PM.png]",
+"href": "https://www.houstonpublicmedia.org/articles/news/politics/immigration/2025/01/30/512422/houston-area-congresswoman-says-recent-immigration-enforcement-is-going-beyond-targeted-efforts/"
+},
+{
+"text": "[image: Sylvia Garcia]",
+"href": "https://www.sylviaforcongress.com"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@lacongresista"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/LaCongresista"
+},
+{
+"text": "[image: galena-park-covid-vaccinations-moya-garcia.png]",
+"href": "https://www.northchannelstar.com/2021/03/galena-parks-medical-clinic-administers-covid-vaccine/"
+},
+{
+"text": "sylviagarcia.house.gov",
+"href": "https://sylviagarcia.house.gov/"
+},
+{
+"text": "team@sylviaforcongress.com",
+"href": "mailto:team@sylviaforcongress.com"
+}
 ]

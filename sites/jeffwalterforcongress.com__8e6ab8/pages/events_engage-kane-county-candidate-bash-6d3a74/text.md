@@ -1,9 +1,5 @@
-Back to All Events
-Come meet Republican federal, statewide and countywide candidates for an unforgettable evening of conversation, community, and momentum.
-Previous
-Previous
-October 1
-Java with Jeff
-Next
-Next
-October 3
+0 Skip to Content About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Back Donate Back to All Events Engage Kane County Candidate Bash Thursday, October 1, 2026 5:30 PM 9:00 PM Goebbert's Farm 42W813 Reinking Road Pingree Grove, Illinois, 60140 United States (map) Google Calendar ICS Come meet Republican federal, statewide and countywide candidates for an unforgettable evening of conversation, community, and momentum.
+Previous Previous October 1 Java with Jeff Next Next October 3 Naperville Township Republican Organization Meet & Greet Donate Today Shop About District Contact Paid for by Walter for Congress Campaign Mailing Address: PO Box 411, Elburn, IL 60119 Campaign Phone: 630.286.9068 Jeff Walter is a retired member of the U.S.
+Navy.
+Use of or reference to his military rank, job titles and photographs in uniform does not imply endorsement by the Department of the Navy, or Department of Defense.
+Privacy Policy

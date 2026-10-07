@@ -1,41 +1,182 @@
 [
-"https://bsky.app/profile/booker4ky.bsky.social",
-"https://charlesbookerky.myshopify.com/",
-"https://charlesbookerky.org/",
-"https://charlesbookerky.org/get-involved",
-"https://charlesbookerky.org/jobs",
-"https://charlesbookerky.org/meet-charles",
-"https://charlesbookerky.org/policies",
-"https://charlesbookerky.org/policies/affordable",
-"https://charlesbookerky.org/policies/data-centers",
-"https://charlesbookerky.org/policies/education",
-"https://charlesbookerky.org/policies/energy",
-"https://charlesbookerky.org/policies/farmers",
-"https://charlesbookerky.org/policies/gas",
-"https://charlesbookerky.org/policies/healthcare",
-"https://charlesbookerky.org/policies/infrastructure",
-"https://charlesbookerky.org/policies/military",
-"https://charlesbookerky.org/policies/rural-hospitals",
-"https://charlesbookerky.org/policies/safety",
-"https://charlesbookerky.org/policies/seniors",
-"https://charlesbookerky.org/policies/small-business",
-"https://charlesbookerky.org/policies/swamp",
-"https://charlesbookerky.org/policies/vulnerable",
-"https://charlesbookerky.org/policies/young",
-"https://charlesbookerky.org/press-releases",
-"https://charlesbookerky.org/privacy",
-"https://charlesbookerky.org/why-im-running",
-"https://docs.google.com/document/d/1WFBHxx4SOngDffaNOAK51hNLauZvAQ1AGvfubgItLAs/view",
-"https://drive.google.com/drive/folders/1r2C59gshmCsGVoIAwWQlY_UY_PJqaGTy",
-"https://facebook.com/Booker4KY",
-"https://instagram.com/booker4ky",
-"https://secure.actblue.com/donate/booker-for-senate",
-"https://secure.actblue.com/donate/booker-for-senate?amount=10",
-"https://secure.actblue.com/donate/booker-for-senate?amount=100",
-"https://secure.actblue.com/donate/booker-for-senate?amount=250",
-"https://secure.actblue.com/donate/booker-for-senate?amount=35",
-"https://x.com/Booker4KY",
-"https://youtu.be/AQC0OEiHA4s",
-"https://youtube.com/channel/UCtw_5pir8O7aY9ZFePWCIgg",
-"https://youtube.com/watch?v=N6VsRtNgUuU"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/booker-for-senate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/booker-for-senate?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/booker-for-senate?amount=250"
+},
+{
+"text": "$35",
+"href": "https://secure.actblue.com/donate/booker-for-senate?amount=35"
+},
+{
+"text": "All policies",
+"href": "https://charlesbookerky.org/policies"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/booker4ky.bsky.social"
+},
+{
+"text": "Building Kentucky’s Infrastructure",
+"href": "https://charlesbookerky.org/policies/infrastructure"
+},
+{
+"text": "Charles Booker visual assets available for download",
+"href": "https://drive.google.com/drive/folders/1r2C59gshmCsGVoIAwWQlY_UY_PJqaGTy"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/booker-for-senate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/booker-for-senate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Booker4KY/"
+},
+{
+"text": "Fighting Corruption & Draining the Swamp in Washington",
+"href": "https://charlesbookerky.org/policies/swamp"
+},
+{
+"text": "Get Involved",
+"href": "https://charlesbookerky.org/get-involved"
+},
+{
+"text": "Growing Kentucky Small Businesses",
+"href": "https://charlesbookerky.org/policies/small-business"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/booker4ky/"
+},
+{
+"text": "Jobs",
+"href": "https://charlesbookerky.org/jobs"
+},
+{
+"text": "Keep America Strong. End Reckless Wars. Honor Those Who Serve.",
+"href": "https://charlesbookerky.org/policies/military"
+},
+{
+"text": "Keeping Kentucky Communities Safe",
+"href": "https://charlesbookerky.org/policies/safety"
+},
+{
+"text": "Link to red box",
+"href": "https://docs.google.com/document/d/1WFBHxx4SOngDffaNOAK51hNLauZvAQ1AGvfubgItLAs/view"
+},
+{
+"text": "Loving Your Neighbor (launch ad)",
+"href": "https://www.youtube.com/watch?v=N6VsRtNgUuU"
+},
+{
+"text": "Lowering Energy Costs & Standing with Energy Workers",
+"href": "https://charlesbookerky.org/policies/energy"
+},
+{
+"text": "Lowering the Price at the Pump",
+"href": "https://charlesbookerky.org/policies/gas"
+},
+{
+"text": "Making Healthcare Affordable for All Kentuckians",
+"href": "https://charlesbookerky.org/policies/healthcare"
+},
+{
+"text": "Making Life More Affordable",
+"href": "https://charlesbookerky.org/policies/affordable"
+},
+{
+"text": "Media Center",
+"href": "https://charlesbookerky.org/press-releases"
+},
+{
+"text": "Meet Charles",
+"href": "https://charlesbookerky.org/meet-charles"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/booker-for-senate"
+},
+{
+"text": "Policies",
+"href": "https://charlesbookerky.org/policies"
+},
+{
+"text": "Privacy Policy",
+"href": "https://charlesbookerky.org/privacy"
+},
+{
+"text": "Stopping Data Centers in Kentucky",
+"href": "https://charlesbookerky.org/policies/data-centers"
+},
+{
+"text": "Store",
+"href": "https://charlesbookerky.myshopify.com/"
+},
+{
+"text": "Supporting Kentucky’s Farmers",
+"href": "https://charlesbookerky.org/policies/farmers"
+},
+{
+"text": "Supporting Kentucky’s Rural Hospitals",
+"href": "https://charlesbookerky.org/policies/rural-hospitals"
+},
+{
+"text": "Supporting Older Kentuckians & Retirees",
+"href": "https://charlesbookerky.org/policies/seniors"
+},
+{
+"text": "Supporting Public Education & Teachers",
+"href": "https://charlesbookerky.org/policies/education"
+},
+{
+"text": "Supporting Vulnerable Kentuckians",
+"href": "https://charlesbookerky.org/policies/vulnerable"
+},
+{
+"text": "Supporting Young Kentuckians",
+"href": "https://charlesbookerky.org/policies/young"
+},
+{
+"text": "When We Fight Back, We Win (primary ad)",
+"href": "https://youtu.be/AQC0OEiHA4s"
+},
+{
+"text": "Why I'm Running",
+"href": "https://charlesbookerky.org/why-im-running"
+},
+{
+"text": "X",
+"href": "https://x.com/Booker4KY/"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UCtw_5pir8O7aY9ZFePWCIgg"
+},
+{
+"text": "[image: Charles Booker 2026 for U.S. Senate]",
+"href": "https://charlesbookerky.org/"
+},
+{
+"text": "his full platform",
+"href": "https://charlesbookerky.org/policies"
+},
+{
+"text": "info@charlesbookerky.org",
+"href": "mailto:info@charlesbookerky.org"
+},
+{
+"text": "summer@charlesbookerky.org",
+"href": "mailto:summer@charlesbookerky.org"
+}
 ]

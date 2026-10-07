@@ -1,4 +1,4 @@
-I am Louis McNutt and I am running for Minnesota State Senate in SD 29 to be a voice for our community and make St.
+Home Bio Issues Calendar of Events Endorsements News and Events Donate Volunteer More Home Bio Issues Calendar of Events Endorsements News and Events Donate Volunteer Donate Home Bio Issues Calendar of Events Endorsements News and Events Donate Volunteer Donate Your SD 29 Senate Candidate Louis McNutt I am Louis McNutt and I am running for Minnesota State Senate in SD 29 to be a voice for our community and make St.
 Paul listen to us!
 My family and I have lived in Buffalo for over 10 years and have truly found our home here.
 My wife, Lisa, and I enjoy doing projects around the house, spending time on the water fishing with our three boys, and rooting for the Twins.
@@ -16,5 +16,6 @@ I am the DFL endorsed candidate running for the SD 29 Senate seat.
 I believe “politics as usual” isn’t working for most Minnesotans.
 We elect people into office to listen to us, not to talk at us, and I want to bring your voice to the legislature.
 I would be honored to have your support on August 11th and this coming November.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Prepared and Paid for by Volunteers For McNutt P.O.
+Box 54 | Buffalo, MN | 55313 Copyright © # Louis McNutt for Minnesota Senate - All Rights Reserved.
+Powered by

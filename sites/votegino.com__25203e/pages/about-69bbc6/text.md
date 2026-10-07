@@ -1,4 +1,4 @@
-Born on December 25, 1961, Gino Bulso is an accomplished attorney, state legislator, and Republican Party member, representing the 61st District of Tennessee, in Williamson County, in the House of Representatives.
+ABOUT NEWS BLOG VIDEOS GALLERY PODCAST Listen on Apple Listen on Spotify Listen on iHeart Listen on Amazon Listen on Google ISSUES LEGISLATION YARD SIGNS CONTACT DONATE Select Page Born on December 25, 1961, Gino Bulso is an accomplished attorney, state legislator, and Republican Party member, representing the 61st District of Tennessee, in Williamson County, in the House of Representatives.
 His legal career spans 38 years, during which he has handled over 150 cases across the state and beyond.
 Bulso is the founder of Bulso PLC, a law firm based in Brentwood, Tennessee, where he leverages his extensive legal expertise.
 Gino was raised in Tampa, Florida, where he was born to Eugene and Virginia Bulso.
@@ -19,3 +19,4 @@ His legislative efforts also led to the expulsion of a representative and nearly
 Despite a setback in the crowded 2018 primary, his persistence was rewarded in 2022 with decisive victories in both the GOP primary and general elections.
 Beyond his professional and legislative accomplishments, Bulso maintains his passion for tennis, securing top rankings in his division by the USTA.
 This overview captures the dynamic and committed life of Gino Bulso, a devoted family man, skilled lawyer, and influential legislator serving Tennessee.
+Facebook Instagram YouTube Vote for Gino Bulso © # | Paid for by Bulso for State Representative, Julie Beaman, Treasurer. | Guided by Navigation Advertising, LLC | Terms & Conditions | Privacy Policy

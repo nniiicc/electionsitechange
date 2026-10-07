@@ -1,4 +1,4 @@
-Many years ago, I chose to relocate to Morgantown, and in doing so, I found the place I call home.
+☰ Home About Michael Wendell Campaign News Volunteer Donate About Me Many years ago, I chose to relocate to Morgantown, and in doing so, I found the place I call home.
 My daughters were born here, and have attended Monongalia County Schools.
 My eldest will graduate this year and will be attending WVU, while my younger daughter will be following her sister to University High School in the fall.
 I made my home here because I believe in the opportunity West Virginia represents, that we can be close to our friends and neighbors, and live a full life alongside some of the most beautiful places in the country.
@@ -17,3 +17,8 @@ The supermajority in Charleston is not making things better for the average moun
 We need both parties involved, we need moderate voices from both parties working together to improve the state we call home.
 I’ve never run for office before, but I see a broken system, and I think I can help put it right.
 I want to help make a difference in West Virginia, and I want to do that for everyone in District 78, and everyone in West Virginia as well.
+Help us win in 2026!
+Make a donation today.
+Donate I need your help.
+Sign up as a volunteer and help us all win in November!
+Volunteer Paid for by Wendell for WV 129 Tyrone Road, Morgantown WV 26508 Privacy Policy

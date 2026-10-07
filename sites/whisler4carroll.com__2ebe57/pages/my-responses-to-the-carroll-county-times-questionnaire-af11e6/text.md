@@ -1,5 +1,4 @@
-My Responses to the Carroll County Times Questionnaire
-1) Why are you running for the Board of Education? - Is there a particular issue that motivates you to serve on the board of education?
+Skip to content Home Steve Events Press and News Endorsements DONATE My Responses to the Carroll County Times Questionnaire July 9, 2022 1) Why are you running for the Board of Education? - Is there a particular issue that motivates you to serve on the board of education?
 I am running to ensure we keep Carroll County Public Schools one of the best performing systems in the state.
 It is very important to me that we keep our schools focused on academics and surround our teachers with ideal resources to prepare kids for college or technical trades after their K thru 12 experience.
 I also want to ensure we facilitate transparency, parent access, and a vital parent-teacher partnership to improve student success.
@@ -9,18 +8,13 @@ We must ensure that every child has a welcome, safe environment to learn and thr
 I also want our schools to give students the opportunity to explore and excel in the arts.
 And finally, I want to ensure we give kids opportunities to participate in team sports that teach accountability, dedication to others, and leadership.
 3) Why should you be elected to the Board of Education?
-I have a diverse set of skills to oversee and govern our county school system.
-- I am a parent with a child that attends one of our public schools; another recently graduated in June of this year.
-- I am retired naval officer that has managed very large organizations, budgets, and assets.
+I have a diverse set of skills to oversee and govern our county school system. - I am a parent with a child that attends one of our public schools; another recently graduated in June of this year. - I am retired naval officer that has managed very large organizations, budgets, and assets.
 I know the importance of developing contingency plans, safeguarding our critical infrastructure and systems, and planning for growth.
-I will focus on ensuring our schools are safe, secure, and ready to respond to threats.
-- I am an experienced business leader that knows the importance of large organizations following all federal, state, and local laws.
+I will focus on ensuring our schools are safe, secure, and ready to respond to threats. - I am an experienced business leader that knows the importance of large organizations following all federal, state, and local laws.
 I know how to identify waste, prioritize spending, and stay within allocated budgets.
-I also know how to work with the business community and seek their help to give our kids additional opportunities for internship and insight into potential careers after high school.
-- I am also certified teacher that taught four years full-time in Maryland public schools at the middle and elementary level.
+I also know how to work with the business community and seek their help to give our kids additional opportunities for internship and insight into potential careers after high school. - I am also certified teacher that taught four years full-time in Maryland public schools at the middle and elementary level.
 I've also served as a substitute for nearly five more years in elementary and secondary public schools.
-I know the unique needs of elementary, middle, and high schools.
-- I am also a taxpayer that knows our communities thrive when we have safe neighborhoods and high-performing schools.
+I know the unique needs of elementary, middle, and high schools. - I am also a taxpayer that knows our communities thrive when we have safe neighborhoods and high-performing schools.
 I will do everything I can to ensure our school system stays one of the best in the state.
 I will always remember that taxpayers are stakeholders that deserve complete transparency and competent, dedicated leadership.
 4) What in your background differentiates you from the other candidates?
@@ -37,10 +31,16 @@ I know how important it is that we address inefficient testing processes that pr
 I am very familiar with the incredible amount of cases a special educator must manage at the expense of providing critical services to kids with special needs.
 I want to work with the Superintendent and her staff to ensure we allocate vital resources wisely and develop sound policies to improve processes that benefit our entire system.
 5) What issues do you believe your district needs to address in its academic program and offerings?
-What changes would you recommend if reelected?
-- I want to see our Career & Technology Center expand even further to offer students a chance to experience occupations they might like and, more importantly, what they don't like.
-While I believe that every child should have the opportunity to go to college, I want to ensure kids have the option of avoiding the immense debt of college loans and instead choosing an immediate career path after graduation.
-- I also want to explore offering additional FFA courses in middle and high school that incorporate STEM (science, technology, engineering, and math) concepts and connect students to Carroll County's rich agricultural heritage.
-I want to inspire students to help Carroll County be the region's leader for farm management, marketing and production of agricultural commodities, and land resource conservation.
-- I also want Carroll County to become a leader in helping one of our state's largest employers, the National Security Agency, protect our nation.
+What changes would you recommend if reelected? - I want to see our Career & Technology Center expand even further to offer students a chance to experience occupations they might like and, more importantly, what they don't like.
+While I believe that every child should have the opportunity to go to college, I want to ensure kids have the option of avoiding the immense debt of college loans and instead choosing an immediate career path after graduation. - I also want to explore offering additional FFA courses in middle and high school that incorporate STEM (science, technology, engineering, and math) concepts and connect students to Carroll County's rich agricultural heritage.
+I want to inspire students to help Carroll County be the region's leader for farm management, marketing and production of agricultural commodities, and land resource conservation. - I also want Carroll County to become a leader in helping one of our state's largest employers, the National Security Agency, protect our nation.
 I want to give Carroll County students the opportunity to learn advanced cybersecurity, foreign languages, mathematics, and other critical skills the government needs to combat the global war on terrorism.
+Read more at: https://www.facebook.com/story.php?story_fbid=pfbid023tqQZraayg173CPX37MmG18Bxvzj2QfLgsdtQ4NEK23FkiSLTF4EEvLgMkAHm1pHl&id=100078205080928&_rdr Search Search Recent Posts Community Media Center: Steve Whisler (R), Candidate Profile April 27, 2026 Mid Maryland Votes – Episode 50 with Steve Whisler November 25, 2025 Steve Whisler Files for Maryland House of Delegates in District 5 March 25, 2025 Archives April 2026 (1) November 2025 (1) March 2025 (1) January 2024 (1) November 2022 (1) September 2022 (1) August 2022 (1) July 2022 (2) June 2022 (2) May 2022 (1) April 2022 (1) March 2022 (1) Get In Touch!
+410.963.7066 410.963.7066 6766 Ridge Road, Marriottsville, MD 21104 6766 Ridge Road Marriottsville, MD 21104 steve@Whisler4Carroll.com steve@Whisler4Carroll.com Receive Updates Keep In Touch Name (Required) First Last Email (Required) Phone Consent I have read and agree to the Terms of Service and Privacy Policy By providing my mobile number I consent to receive periodic text messages from Friends of Steve Whisler.
+Message frequency may vary.
+Msg & Data rates may apply.
+Text STOP to opt-out.
+Text HELP for help.
+For additional information, please see our Terms of Service and Privacy Policies.
+Keep In Touch Click Here to Leave Your Information Join Us On Social Media Additional Resources Privacy Policy Terms of Service Authorized by: Friends of Steve Whisler Joe Tier, Treasurer Website Design and Hosting by Technolegs © # Friends of Steve Whisler; Joe Tier, Treasurer - All Rights Reserved.
+Scroll To Top

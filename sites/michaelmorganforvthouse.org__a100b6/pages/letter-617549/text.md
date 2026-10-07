@@ -1,6 +1,4 @@
-Embedded Files
-Dear Friends of the Grand Isle/Chittenden House District,
-I am writing to inform you that I will be seeking the Republican nomination for re-election to the House of Representatives in our District.
+Search this site Embedded Files Skip to main content Skip to navigation MichaelMorganForVTHouse.org Home Letter About Issues Contact MichaelMorganForVTHouse.org Home Letter About Issues Contact More Home Letter About Issues Contact A Letter to my District Dear Friends of the Grand Isle/Chittenden House District, I am writing to inform you that I will be seeking the Republican nomination for re-election to the House of Representatives in our District.
 As many of you know, I ran in 2018 and narrowly missed obtaining a seat in Montpelier for us.
 I did not let that stop me.
 I continued to meet and build relationships with many, many more of you in various venues.
@@ -19,6 +17,5 @@ We must stop losing our youth to out of state opportunities and make Vermont onc
 Sadly, my two children have left for economic reasons and I want that to stop for the rest of you!
 I look forward to meeting more of you in the next several months!
 Michael R.
-Morgan
-Page updated
-Report abuse
+Morgan Please show your support by making a donation to my campaign via PayPal.
+Report abuse Page details Page updated Report abuse

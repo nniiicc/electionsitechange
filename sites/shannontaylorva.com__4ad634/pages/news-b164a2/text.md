@@ -1,26 +1,31 @@
-- Press Release
-HENRICO, VA – A new Washington Post-Schar School poll released today shows Shannon Taylor leading Rep.
+Skip to content Meet Shannon Priorities People First Agenda Endorsements News Store Volunteer Meet Shannon Priorities People First Agenda Endorsements News Store Volunteer Facebook Instagram X-twitter Donate News & Updates For press inquiries, please contact [email protected] .
+B-Roll Clips Press Release BREAKING: New Poll from Washington Post Shows Shannon Taylor Leading Rob Wittman in Toss-Up Race for VA-01 October 1, 2026 HENRICO, VA – A new Washington Post-Schar School poll released today shows Shannon Taylor leading Rep.
 Rob Wittman 50% to 46% in Virginia's 1st Congressional District.
-The poll comes one
-- In The News, Virginia Mercury
-As early voting for the 2026 midterm elections ramps up in Virginia, the commonwealth’s 1st Congressional District, where Republican incumbent U.S.
+The poll comes one Read More In The News , Virginia Mercury With US House control hanging in the balance, Wittman faces Taylor in contentious VA-01 race September 21, 2026 As early voting for the 2026 midterm elections ramps up in Virginia, the commonwealth’s 1st Congressional District, where Republican incumbent U.S.
 Rep.
-Rob Wittman is battling Democratic challenger Shannon Taylor,
-- In The News, Virginia Political Newsletter
-A new poll commissioned by the Democratic Congressional Campaign Committee shows Republican Rep.
+Rob Wittman is battling Democratic challenger Shannon Taylor, Read More In The News , Virginia Political Newsletter Democratic internal poll shows tight race between Wittman and Taylor September 21, 2026 A new poll commissioned by the Democratic Congressional Campaign Committee shows Republican Rep.
 Rob Wittman and his Democratic challenger Shannon Taylor essentially tied in Virginia’s 1st Congressional District.
-- Uncategorized
-Shannon Taylor calls for a ban on congressional stock trading so that politicians like Rob Wittman can’t keep get rich using information no other American has Henrico, VA – Today,
-- Dogwood, In The News
-Democratic candidate Shannon Taylor held a roundtable on Sept. 14 to contrast her positions on healthcare policy with those of her opponent in Virginia’s 1st Congressional District race, Republican US
-Henrico, VA – Rob Wittman voted again last night to keep the Iran war going as diesel prices hit an all-time high of $6 a gallon and gas in Virginia
-Shannon Taylor, Henrico's top prosecutor and candidate for Virginia's 1st Congressional District, joined SEIU and the Campaign for a Family Friendly Economy PAC for a roundtable on how Rob Wittman's
-Henrico, VA – Today, prosecutor Shannon Taylor launched a new TV ad in her campaign for Congress, "Doing What's Right," spotlighting how she took on then-powerful Democratic lawmaker Joe Morrissey
-Henrico, VA – A new report from the Virginia Mercury details how Congressman Rob Wittman spent nearly two decades in Washington voting more than 60 times to repeal the Affordable
-Henrico, VA – Today marks six months since the start of the cost-spiking war with Iran.
-Wittman continues to back the war despite the fact that it has resulted in
-Henrico, VA – Today, prosecutor Shannon Taylor launched her first general election TV ad in her campaign for Congress in Virginia’s 1st Congressional District.
-The ad, "Prosecutor," spotlights her record
-Wittman has traded $2.5M worth of stocks during his time in Congress and refuses to say if he will sell shares of controversial energy company Henrico, VA – Henrico County’s top
-Henrico, VA – Today, Shannon Taylor, candidate for Congress in VA-01 and Henrico's top prosecutor, released the following statement in opposition to the proposed merger of Dominion Energy and Florida-based
-Henrico County’s Top Prosecutor Shannon Taylor slammed Rob Wittman for recent statement about how the OBBB “helps everybody.” In voting for this bill, Wittman voted for the largest healthcare cuts
+Read More Uncategorized NEW AD: Prosecutor Shannon Taylor Calls Out Corrupt Rob Wittman for Cheating Hard-Working Virginians September 21, 2026 Shannon Taylor calls for a ban on congressional stock trading so that politicians like Rob Wittman can’t keep get rich using information no other American has Henrico, VA – Today, Read More Dogwood , In The News Shannon Taylor attacks Rob Wittman on healthcare cuts September 16, 2026 Democratic candidate Shannon Taylor held a roundtable on Sept.
+14 to contrast her positions on healthcare policy with those of her opponent in Virginia’s 1st Congressional District race, Republican US Read More Press Release Wittman Votes to Continue Iran War as Diesel Hits Record Highs, Virginia Gas Prices Top $4.14/Gallon September 16, 2026 Henrico, VA – Rob Wittman voted again last night to keep the Iran war going as diesel prices hit an all-time high of $6 a gallon and gas in Virginia Read More Press Release Prosecutor Shannon Taylor Hosts Roundtable Discussion on Rob Wittman’s Votes to Slash Virginians’ Healthcare September 14, 2026 Shannon Taylor, Henrico's top prosecutor and candidate for Virginia's 1st Congressional District, joined SEIU and the Campaign for a Family Friendly Economy PAC for a roundtable on how Rob Wittman's Read More Press Release NEW AD: Prosecutor Shannon Taylor Launches TV Ad Highlighting Her Record Holding Powerful Democrat Joe Morrissey Accountable September 8, 2026 Henrico, VA – Today, prosecutor Shannon Taylor launched a new TV ad in her campaign for Congress, "Doing What's Right," spotlighting how she took on then-powerful Democratic lawmaker Joe Morrissey Read More Press Release Wittman Voted 60 Times to Repeal the ACA — Now Wants Credit for Trying to Save It September 3, 2026 Henrico, VA – A new report from the Virginia Mercury details how Congressman Rob Wittman spent nearly two decades in Washington voting more than 60 times to repeal the Affordable Read More Press Release SIX MONTHS IN: Rob Wittman Has Voted Five Times to Continue A War in Iran That’s Raising Costs on Virginia Families August 28, 2026 Henrico, VA – Today marks six months since the start of the cost-spiking war with Iran.
+Wittman continues to back the war despite the fact that it has resulted in Read More Press Release NEW AD: Prosecutor Shannon Taylor Launches First TV Ad Highlighting Support From Law Enforcement and Record of Keeping Virginians Safe August 27, 2026 Henrico, VA – Today, prosecutor Shannon Taylor launched her first general election TV ad in her campaign for Congress in Virginia’s 1st Congressional District.
+The ad, "Prosecutor," spotlights her record Read More Press Release ICYMI: “Rob Wittman Owns Shares In Energy Giant At The Center Of Proposed $67B Merger” August 25, 2026 Wittman has traded $2.5M worth of stocks during his time in Congress and refuses to say if he will sell shares of controversial energy company Henrico, VA – Henrico County’s top Read More Press Release Rob Wittman Refuses to Oppose NextEra Merger While Maintaining Stock Holdings August 21, 2026 Henrico, VA – Today, Shannon Taylor, candidate for Congress in VA-01 and Henrico's top prosecutor, released the following statement in opposition to the proposed merger of Dominion Energy and Florida-based Read More Press Release Rob Wittman Says His Vote to Gut Health Care and Slash His Own Taxes “Helps Everybody” August 10, 2026 Henrico County’s Top Prosecutor Shannon Taylor slammed Rob Wittman for recent statement about how the OBBB “helps everybody.” In voting for this bill, Wittman voted for the largest healthcare cuts Read More Ready To GO?
+Join The Team First Name Last Name Email Zipcode Cell Phone SIGN UP By submitting this form, you consent to receive promotional text messages from Shannon Taylor for VA at the number provided.
+Consent is not a condition of donation.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Privacy policy.
+Or, Chip In $15 Home Volunteer Media Contact Us Press Inquiries Privacy Policy Home Volunteer Media Contact Us Press Inquiries Privacy Policy Home Volunteer Media Contact Us Press Inquiries Privacy Policy Home Volunteer Media Contact Us Press Inquiries Privacy Policy Donate Facebook Instagram X-twitter Shannon Taylor has spent 14 years as Henrico County’s top prosecutor — locking up violent criminals, taking on fraudsters, and keeping families safe.
+Now she’s running for Congress to prosecute the case against Rob Wittman and make Washington work for the people of Virginia’s First District.
+Paid for by Shannon Taylor for VA Shannon Taylor for VA P.O.
+Box 1171 Midlothian, VA, 23113 Ready To GO?
+Join The Team First Name Last Name Email Zipcode Cell Phone SIGN UP By submitting this form, you consent to receive promotional text messages from Shannon Taylor for VA at the number provided.
+Consent is not a condition of donation.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Privacy policy.
+Or, Chip In $15 Home Volunteer Media Contact Us Press Inquiries Privacy Policy Home Volunteer Media Contact Us Press Inquiries Privacy Policy Home Volunteer Media Contact Us Press Inquiries Privacy Policy Home Volunteer Media Contact Us Press Inquiries Privacy Policy Donate Facebook Instagram X-twitter Shannon Taylor has spent 14 years as Henrico County’s top prosecutor — locking up violent criminals, taking on fraudsters, and keeping families safe.
+Now she’s running for Congress to prosecute the case against Rob Wittman and make Washington work for the people of Virginia’s First District.
+Paid for by Shannon Taylor for VA Shannon Taylor for VA P.O.
+Box 1171 Midlothian, VA, 23113

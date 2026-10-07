@@ -1,10 +1,34 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/MikeScottforMaineSenate",
-"https://mikescottformaine.com/",
-"https://mikescottformaine.com/about",
-"https://mikescottformaine.com/contact",
-"https://mikescottformaine.com/endorsements",
-"https://mikescottformaine.com/issues",
-"https://mikescottformaine.com/news"
+{
+"text": "About",
+"href": "https://www.mikescottformaine.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.mikescottformaine.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mikescottformaine.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.mikescottformaine.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.mikescottformaine.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Mike Scott for Maine]",
+"href": "https://www.mikescottformaine.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MikeScottforMaineSenate"
+}
 ]

@@ -1,9 +1,7 @@
-Terms and conditions
-Dr.
-Kumar for Congress
-1.
+0 Skip to Content HOME ABOUT MI-11 ACTION CENTER JOIN Donate Now Open Menu Close Menu HOME ABOUT MI-11 ACTION CENTER JOIN Donate Now Open Menu Close Menu HOME ABOUT MI-11 ACTION CENTER JOIN Donate Now Terms and conditions Dr.
+Kumar for Congress 1.
 By opting in to receive text messages from Dr.
-Kumar for Congress, you consent to receive voter contact, donation asks, and informational messages.
+Kumar for Congress , you consent to receive voter contact, donation asks, and informational messages.
 2.
 You can cancel the SMS service at any time.
 Just text "STOP" to the short code.
@@ -16,7 +14,9 @@ If you are experiencing issues with the messaging program you can reply with the
 Carriers are not liable for delayed or undelivered messages.
 5.
 As always, message and data rates may apply for any messages sent to you from us and to us from you.
-You will receive 1 per week.
+You will receive 1 per week .
 If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
 6.
-If you have any questions regarding privacy, please read our privacy policy:
+If you have any questions regarding privacy, please read our privacy policy : General Inquiries: info@drkumarforcongress.org DR.
+KUMAR FOR CONGRESS 2075 SQUIRREL RD BLOOMFIELD HILLS, MI 48304 Privacy Policy Terms and Conditions PAID FOR BY DR.
+ANIL KUMAR FOR CONGRESS

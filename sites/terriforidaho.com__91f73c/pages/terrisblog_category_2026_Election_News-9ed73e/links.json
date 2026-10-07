@@ -1,55 +1,290 @@
 [
-"https://facebook.com/TerriForIdaho",
-"https://instagram.com/terriforidaho",
-"https://secure.actblue.com/donate/terriforidaho-website",
-"https://store.terriforidaho.com/",
-"https://terriforidaho.com/",
-"https://terriforidaho.com/about",
-"https://terriforidaho.com/cart",
-"https://terriforidaho.com/contact",
-"https://terriforidaho.com/endorsements",
-"https://terriforidaho.com/events",
-"https://terriforidaho.com/get-involved",
-"https://terriforidaho.com/issues",
-"https://terriforidaho.com/learn-more",
-"https://terriforidaho.com/media",
-"https://terriforidaho.com/terrisblog",
-"https://terriforidaho.com/terrisblog/brad-littles-dangerous-farce",
-"https://terriforidaho.com/terrisblog/brad-littles-people-fight-the-bad-fight",
-"https://terriforidaho.com/terrisblog/category/2024+Election",
-"https://terriforidaho.com/terrisblog/category/2026+Election+News",
-"https://terriforidaho.com/terrisblog/category/Civil+%26amp%3B+Human+Rights",
-"https://terriforidaho.com/terrisblog/category/Extremism",
-"https://terriforidaho.com/terrisblog/category/Health+Care",
-"https://terriforidaho.com/terrisblog/category/Idaho+Families",
-"https://terriforidaho.com/terrisblog/category/Idaho+Legislature",
-"https://terriforidaho.com/terrisblog/category/Jobs+%2F+Economic+Growth",
-"https://terriforidaho.com/terrisblog/category/Labor",
-"https://terriforidaho.com/terrisblog/category/Public+Education",
-"https://terriforidaho.com/terrisblog/category/Public+Infrastructure",
-"https://terriforidaho.com/terrisblog/category/Public+Lands",
-"https://terriforidaho.com/terrisblog/category/Reproductive+Rights",
-"https://terriforidaho.com/terrisblog/category/Uncategorized",
-"https://terriforidaho.com/terrisblog/crash",
-"https://terriforidaho.com/terrisblog/freedom-shouldnt-cost-this-much",
-"https://terriforidaho.com/terrisblog/gov-little-lets-far-right-republicans-kill-freedom-and-kids",
-"https://terriforidaho.com/terrisblog/governor-dithers-idaho-reputation-withers",
-"https://terriforidaho.com/terrisblog/i-will-tone-it-down-when-we-get-back-our-rights",
-"https://terriforidaho.com/terrisblog/idaho-has-a-problem-with-bullies-in-power",
-"https://terriforidaho.com/terrisblog/idahos-super-bad-political-bowl",
-"https://terriforidaho.com/terrisblog/lets-celebrate-a-victory-for-truth",
-"https://terriforidaho.com/terrisblog/lies-damned-lies-and-governor-brad-little",
-"https://terriforidaho.com/terrisblog/moon-little-and-the-red-state-radicals-agree-freedoms-just-a-word-on-t-shirts",
-"https://terriforidaho.com/terrisblog/statement-from-terri-pickens-thank-you-governor-little-for-letting-us-know-you-dont-intend-to-run-again",
-"https://terriforidaho.com/terrisblog/statement-from-the-idaho-governor-that-we-need",
-"https://terriforidaho.com/terrisblog/terris-response-to-the-2024-state-of-the-state",
-"https://terriforidaho.com/terrisblog/the-lawlessness-begins",
-"https://terriforidaho.com/terrisblog/the-peepers-house",
-"https://terriforidaho.com/terrisblog/we-must-drop-politicians-who-make-idaho-dangerous-for-women",
-"https://terriforidaho.com/volunteer-sign-up",
-"https://terriforidaho.com/voting",
-"https://terriforidaho.com/yard-signs",
-"https://threads.com/@terriforidaho",
-"https://tiktok.com/terriforidaho",
-"https://youtube.com/@terriforidaho"
+{
+"text": "0",
+"href": "https://www.terriforidaho.com/cart"
+},
+{
+"text": "2024 Election",
+"href": "https://www.terriforidaho.com/terrisblog/category/2024+Election"
+},
+{
+"text": "2026 Election News",
+"href": "https://www.terriforidaho.com/terrisblog/category/2026+Election+News"
+},
+{
+"text": "About Terri",
+"href": "https://www.terriforidaho.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.terriforidaho.com/"
+},
+{
+"text": "Brad Little's Dangerous Farce",
+"href": "https://www.terriforidaho.com/terrisblog/brad-littles-dangerous-farce"
+},
+{
+"text": "Brad Little's People Fight the Bad Fight",
+"href": "https://www.terriforidaho.com/terrisblog/brad-littles-people-fight-the-bad-fight"
+},
+{
+"text": "Civil & Human Rights",
+"href": "https://www.terriforidaho.com/terrisblog/category/Civil+%26amp%3B+Human+Rights"
+},
+{
+"text": "Contact Us",
+"href": "https://www.terriforidaho.com/contact"
+},
+{
+"text": "Crash",
+"href": "https://www.terriforidaho.com/terrisblog/crash"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/terriforidaho-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.terriforidaho.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.terriforidaho.com/events"
+},
+{
+"text": "Extremism",
+"href": "https://www.terriforidaho.com/terrisblog/category/Extremism"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.terriforidaho.com/get-involved"
+},
+{
+"text": "Folder: Learn More",
+"href": "https://www.terriforidaho.com/learn-more"
+},
+{
+"text": "Freedom Shouldn't Cost This Much",
+"href": "https://www.terriforidaho.com/terrisblog/freedom-shouldnt-cost-this-much"
+},
+{
+"text": "Gov. Little Lets Far-Right Republicans Kill Freedom and Kids",
+"href": "https://www.terriforidaho.com/terrisblog/gov-little-lets-far-right-republicans-kill-freedom-and-kids"
+},
+{
+"text": "Governor dithers; Idaho reputation withers",
+"href": "https://www.terriforidaho.com/terrisblog/governor-dithers-idaho-reputation-withers"
+},
+{
+"text": "Health Care",
+"href": "https://www.terriforidaho.com/terrisblog/category/Health+Care"
+},
+{
+"text": "I will \"tone it down\" when we get back our rights",
+"href": "https://www.terriforidaho.com/terrisblog/i-will-tone-it-down-when-we-get-back-our-rights"
+},
+{
+"text": "Idaho Families",
+"href": "https://www.terriforidaho.com/terrisblog/category/Idaho+Families"
+},
+{
+"text": "Idaho Has a Problem With Bullies in Power",
+"href": "https://www.terriforidaho.com/terrisblog/idaho-has-a-problem-with-bullies-in-power"
+},
+{
+"text": "Idaho Legislature",
+"href": "https://www.terriforidaho.com/terrisblog/category/Idaho+Legislature"
+},
+{
+"text": "Idaho's Super Bad Political Bowl",
+"href": "https://www.terriforidaho.com/terrisblog/idahos-super-bad-political-bowl"
+},
+{
+"text": "Issues",
+"href": "https://www.terriforidaho.com/issues"
+},
+{
+"text": "Jobs / Economic Growth",
+"href": "https://www.terriforidaho.com/terrisblog/category/Jobs+%2F+Economic+Growth"
+},
+{
+"text": "Labor",
+"href": "https://www.terriforidaho.com/terrisblog/category/Labor"
+},
+{
+"text": "Let's Celebrate a Victory for Truth",
+"href": "https://www.terriforidaho.com/terrisblog/lets-celebrate-a-victory-for-truth"
+},
+{
+"text": "Lies, Damned Lies, and Governor Brad Little",
+"href": "https://www.terriforidaho.com/terrisblog/lies-damned-lies-and-governor-brad-little"
+},
+{
+"text": "Media",
+"href": "https://www.terriforidaho.com/media"
+},
+{
+"text": "Moon, Little, and the Red State Radicals Agree: Freedom's Just a Word On T-Shirts",
+"href": "https://www.terriforidaho.com/terrisblog/moon-little-and-the-red-state-radicals-agree-freedoms-just-a-word-on-t-shirts"
+},
+{
+"text": "Public Education",
+"href": "https://www.terriforidaho.com/terrisblog/category/Public+Education"
+},
+{
+"text": "Public Infrastructure",
+"href": "https://www.terriforidaho.com/terrisblog/category/Public+Infrastructure"
+},
+{
+"text": "Public Lands",
+"href": "https://www.terriforidaho.com/terrisblog/category/Public+Lands"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/brad-littles-dangerous-farce"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/brad-littles-people-fight-the-bad-fight"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/crash"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/freedom-shouldnt-cost-this-much"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/gov-little-lets-far-right-republicans-kill-freedom-and-kids"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/governor-dithers-idaho-reputation-withers"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/i-will-tone-it-down-when-we-get-back-our-rights"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/idaho-has-a-problem-with-bullies-in-power"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/idahos-super-bad-political-bowl"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/lets-celebrate-a-victory-for-truth"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/lies-damned-lies-and-governor-brad-little"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/moon-little-and-the-red-state-radicals-agree-freedoms-just-a-word-on-t-shirts"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/statement-from-terri-pickens-thank-you-governor-little-for-letting-us-know-you-dont-intend-to-run-again"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/statement-from-the-idaho-governor-that-we-need"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/terris-response-to-the-2024-state-of-the-state"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/the-lawlessness-begins"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/the-peepers-house"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/we-must-drop-politicians-who-make-idaho-dangerous-for-women"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://www.terriforidaho.com/terrisblog/category/Reproductive+Rights"
+},
+{
+"text": "Statement from Terri Pickens: Thank you Governor Little for letting us know you don't intend to run again",
+"href": "https://www.terriforidaho.com/terrisblog/statement-from-terri-pickens-thank-you-governor-little-for-letting-us-know-you-dont-intend-to-run-again"
+},
+{
+"text": "Statement from the Idaho Governor that We Need:",
+"href": "https://www.terriforidaho.com/terrisblog/statement-from-the-idaho-governor-that-we-need"
+},
+{
+"text": "Store",
+"href": "https://store.terriforidaho.com/"
+},
+{
+"text": "Terri Pickens for Governor",
+"href": "https://www.terriforidaho.com/"
+},
+{
+"text": "Terri's Blog",
+"href": "https://www.terriforidaho.com/terrisblog"
+},
+{
+"text": "Terri's Response to the 2024 State of the State",
+"href": "https://www.terriforidaho.com/terrisblog/terris-response-to-the-2024-state-of-the-state"
+},
+{
+"text": "The Lawlessness Begins",
+"href": "https://www.terriforidaho.com/terrisblog/the-lawlessness-begins"
+},
+{
+"text": "The Peepers’ House",
+"href": "https://www.terriforidaho.com/terrisblog/the-peepers-house"
+},
+{
+"text": "Uncategorized",
+"href": "https://www.terriforidaho.com/terrisblog/category/Uncategorized"
+},
+{
+"text": "Volunteer",
+"href": "https://www.terriforidaho.com/volunteer-sign-up"
+},
+{
+"text": "Voting",
+"href": "https://www.terriforidaho.com/voting"
+},
+{
+"text": "We Must Drop Politicians Who Make Idaho Dangerous for Women",
+"href": "https://www.terriforidaho.com/terrisblog/we-must-drop-politicians-who-make-idaho-dangerous-for-women"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.terriforidaho.com/yard-signs"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/terriforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TerriForIdaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/terriforidaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@terriforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@terriforidaho"
+}
 ]

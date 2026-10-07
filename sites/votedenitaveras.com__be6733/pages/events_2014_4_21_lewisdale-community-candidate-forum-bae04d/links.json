@@ -1,15 +1,62 @@
 [
-"http://facebook.com/10154924738362252",
-"http://google.com/calendar/event?action=TEMPLATE&text=Lewisdale+Community+Candidate+Forum&dates=20140424T230000Z%2F20140425T003000Z",
-"https://route1reporter.com/2021/04/14/on-hyattsville-forum-deleted-endorsement-is-latest-city-election-controversy",
-"https://votedenitaveras.com/",
-"https://votedenitaveras.com/about-deni",
-"https://votedenitaveras.com/achievements",
-"https://votedenitaveras.com/donate",
-"https://votedenitaveras.com/events",
-"https://votedenitaveras.com/events/2014/2/5/meet-and-greet-with-deni",
-"https://votedenitaveras.com/events/2014/4/21/cool-spring-terrance-civic-association-candidate-forum",
-"https://votedenitaveras.com/events/2014/4/21/lewisdale-community-candidate-forum?format=ical",
-"https://votedenitaveras.com/issues",
-"https://votedenitaveras.com/news"
+{
+"text": "ABOUT DENI",
+"href": "https://votedenitaveras.com/about-deni"
+},
+{
+"text": "ACHIEVEMENTS",
+"href": "https://votedenitaveras.com/achievements"
+},
+{
+"text": "Back to All Events",
+"href": "https://votedenitaveras.com/events"
+},
+{
+"text": "Cool Spring Terrance Civic Association Candidate Forum",
+"href": "https://votedenitaveras.com/events/2014/4/21/cool-spring-terrance-civic-association-candidate-forum"
+},
+{
+"text": "DONATE",
+"href": "https://votedenitaveras.com/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://votedenitaveras.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Lewisdale+Community+Candidate+Forum&dates=20140424T230000Z%2F20140425T003000Z"
+},
+{
+"text": "HOME",
+"href": "https://votedenitaveras.com/"
+},
+{
+"text": "ICS",
+"href": "https://votedenitaveras.com/events/2014/4/21/lewisdale-community-candidate-forum?format=ical"
+},
+{
+"text": "ISSUES",
+"href": "https://votedenitaveras.com/issues"
+},
+{
+"text": "Meet and Greet with Deni",
+"href": "https://votedenitaveras.com/events/2014/2/5/meet-and-greet-with-deni"
+},
+{
+"text": "NEWS",
+"href": "https://votedenitaveras.com/news"
+},
+{
+"text": "Vote Deni Taveras 2026",
+"href": "https://votedenitaveras.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/10154924738362252"
+},
+{
+"text": "the most consequential politician in the last 20 years in Hyattsville",
+"href": "https://route1reporter.com/2021/04/14/on-hyattsville-forum-deleted-endorsement-is-latest-city-election-controversy/"
+}
 ]

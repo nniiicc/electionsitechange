@@ -1,7 +1,7 @@
-Modesto, CA – Representative Josh Harder released the following statement endorsing Joe Biden to be the next President of the United States.
+Facebook-f Twitter Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL DONATE Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL Facebook-f Twitter DONATE Harder Endorses Joe Biden for President April 24, 2020 Modesto, CA – Representative Josh Harder released the following statement endorsing Joe Biden to be the next President of the United States.
 “Joe Biden has the experience, the temperament, and the priorities we need in the next President of the United States.
 I’m proud to endorse him.
 “Joe was instrumental in the effort to reform our broken health care system and ensure people with preexisting conditions can get access to health care coverage.
 Without his efforts, nearly 100,000 people in my Central Valley district wouldn’t have health care right now.
 “But there’s more work to do on health care – and Vice President Biden understands that.
-I look forward to working alongside him to protect the progress we’ve made on health care while also working to cut costs and expand coverage to everyone.”
+I look forward to working alongside him to protect the progress we’ve made on health care while also working to cut costs and expand coverage to everyone.” Josh Harder for Congress, PO Box 4220, Manteca, CA 95337 Phone: (209) 299-7487 volunteer donate Campaign Media Center is available here Privacy Policy PAID FOR BY JOSH HARDER FOR CONGRESS Built by Veracity Media Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL Facebook-f Twitter Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL DONATE Facebook-f Twitter Chip in to our campaign! $5 $25 $50 $100 $200 Chip In Continue to Website →

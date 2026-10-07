@@ -1,7 +1,11 @@
 {
  "description": "Family BBQ",
  "final_url": "https://www.pachecoforthepeople.com/fundraiser",
- "paid_for_by": null,
+ "fingerprint": "1e9db6484cb3b04281c62762116fb461f0e7688a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Family BBQ",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

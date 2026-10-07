@@ -1,5 +1,4 @@
-About Ray Pickett
-A native North Carolinian and resident of Blowing Rock, Ray Pickett has served in the North Carolina House of Representatives since 2020, where he represents District 93, which is comprised of Ashe, Alleghany and Watauga Counties.
+Skip to content Facebook Ray Pickett for NC House About Donate Use this form to donate to Ray Pickett’s campaign Gallery Contact About Ray Pickett A native North Carolinian and resident of Blowing Rock, Ray Pickett has served in the North Carolina House of Representatives since 2020, where he represents District 93, which is comprised of Ashe, Alleghany and Watauga Counties.
 In the House, Rep.
 Pickett quickly emerged as a leader in the area of higher education policy; he currently serves as chair of the House Standing Committee on Education – Universities.
 Above all, the legislative accomplishments for which Rep.
@@ -20,3 +19,9 @@ He has an adult daughter, who also lives in North Carolina.
 They have three Wheaten Terriers: Nia, Finn and Liam.
 Rep.
 Pickett is a dedicated fan of Appalachian State athletics.
+View Gallery Ray Pickett for NC House info@raypickett.com P.O.
+Box 265 Blowing Rock , NC 28605 USA Facebook About Donate Use this form to donate to Ray Pickett’s campaign Gallery Contact A WordPress.com site Close Previous Next Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website Subscribe Subscribed Ray Pickett for NC House Sign me up Have a WordPress.com account?
+Log in now.
+Ray Pickett for NC House Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

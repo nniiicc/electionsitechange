@@ -1,22 +1,82 @@
 [
-"https://bsky.app/profile/nurselee4az.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/NurseLee4AZ",
-"https://instagram.com/NurseLee4AZ",
-"https://linkedin.com/in/nurselee4az",
-"https://nationalnursesunited.org/sites/default/files/nnu/documents/0525_Federal_LegFactSheet_MFA_MedicareForAll.pdf",
-"https://nurselee4az.com/",
-"https://nurselee4az.com/JoinUs",
-"https://nurselee4az.com/Your_voice",
-"https://nurselee4az.com/about",
-"https://nurselee4az.com/community-resources",
-"https://nurselee4az.com/contact",
-"https://nurselee4az.com/elizabeth-lee-ana-priority-alignment.pdf",
-"https://nurselee4az.com/endorsements",
-"https://nurselee4az.com/events",
-"https://nurselee4az.com/issues",
-"https://nurselee4az.com/news",
-"https://nurselee4az.com/socials",
-"https://secure.actblue.com/donate/nurselee4az",
-"https://threads.net/@NurseLee4AZ"
+{
+"text": "About",
+"href": "https://www.nurselee4az.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.nurselee4az.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nurselee4az"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nurselee4az.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.nurselee4az.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.nurselee4az.com/issues"
+},
+{
+"text": "National Nurses Union.",
+"href": "https://www.nationalnursesunited.org/sites/default/files/nnu/documents/0525_Federal_LegFactSheet_MFA_MedicareForAll.pdf"
+},
+{
+"text": "News",
+"href": "https://www.nurselee4az.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://www.nurselee4az.com/elizabeth-lee-ana-priority-alignment.pdf"
+},
+{
+"text": "Resources",
+"href": "https://www.nurselee4az.com/community-resources"
+},
+{
+"text": "Socials",
+"href": "https://www.nurselee4az.com/socials"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nurselee4az.com/JoinUs"
+},
+{
+"text": "Your Voice",
+"href": "https://www.nurselee4az.com/Your_voice"
+},
+{
+"text": "[image: Elizabeth \"Nurse Lee\" for Congress | Arizona District 5 | 2026]",
+"href": "https://www.nurselee4az.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/nurselee4az.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/NurseLee4AZ"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/NurseLee4AZ"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/nurselee4az"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@NurseLee4AZ"
+}
 ]

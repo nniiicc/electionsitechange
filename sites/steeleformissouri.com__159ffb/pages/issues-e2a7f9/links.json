@@ -1,14 +1,78 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61578231523421",
-"https://instagram.com/steeleformissouri",
-"https://secure.actblue.com/donate/tracey-steele-1",
-"https://steeleformissouri.com/",
-"https://steeleformissouri.com/gallery",
-"https://steeleformissouri.com/issues/affordable-healthcare",
-"https://steeleformissouri.com/issues/issue-1",
-"https://steeleformissouri.com/issues/issue-2",
-"https://steeleformissouri.com/issues/respect-the-will-of-missouri-voters",
-"https://steeleformissouri.com/rebuilding-missouri",
-"https://steeleformissouri.com/vote"
+{
+"text": "Affordable Healthcare",
+"href": "https://www.steeleformissouri.com/issues/affordable-healthcare"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tracey-steele-1"
+},
+{
+"text": "Fully-Funded Schools",
+"href": "https://www.steeleformissouri.com/issues/issue-2"
+},
+{
+"text": "Home",
+"href": "https://www.steeleformissouri.com/"
+},
+{
+"text": "How to vote",
+"href": "https://www.steeleformissouri.com/vote"
+},
+{
+"text": "Lower the cost of Living",
+"href": "https://www.steeleformissouri.com/issues/issue-1"
+},
+{
+"text": "MEDIA GALLERY",
+"href": "https://www.steeleformissouri.com/gallery"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Rebuilding Missouri",
+"href": "https://www.steeleformissouri.com/rebuilding-missouri"
+},
+{
+"text": "Respect the will of Missouri voters",
+"href": "https://www.steeleformissouri.com/issues/respect-the-will-of-missouri-voters"
+},
+{
+"text": "View more",
+"href": "https://www.steeleformissouri.com/issues/affordable-healthcare"
+},
+{
+"text": "View more",
+"href": "https://www.steeleformissouri.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.steeleformissouri.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.steeleformissouri.com/issues/respect-the-will-of-missouri-voters"
+},
+{
+"text": "[image: steeleformissouri logo]",
+"href": "https://www.steeleformissouri.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.steeleformissouri.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61578231523421"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/steeleformissouri"
+},
+{
+"text": "steeleformissouri@gmail.com",
+"href": "mailto:steeleformissouri@gmail.com"
+}
 ]

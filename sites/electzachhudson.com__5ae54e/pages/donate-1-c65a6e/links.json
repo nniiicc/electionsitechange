@@ -1,9 +1,34 @@
 [
-"https://electzachhudson.com/",
-"https://electzachhudson.com/about",
-"https://electzachhudson.com/contact",
-"https://electzachhudson.com/donate-1",
-"https://electzachhudson.com/issues",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://secure.actblue.com/donate/zachfor49"
+{
+"text": "About",
+"href": "https://electzachhudson.com/about"
+},
+{
+"text": "Contact",
+"href": "https://electzachhudson.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://electzachhudson.com/donate-1"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/zachfor49"
+},
+{
+"text": "Home",
+"href": "https://electzachhudson.com/"
+},
+{
+"text": "Issues",
+"href": "https://electzachhudson.com/issues"
+},
+{
+"text": "Zach Hudson for State RepresentativeZach Hudson for State RepresentativeZach Hudson for State RepresentativeZach Hudson for State Representative",
+"href": "https://electzachhudson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

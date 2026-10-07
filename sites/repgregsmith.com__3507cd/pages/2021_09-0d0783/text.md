@@ -1,7 +1,5 @@
-Press Release: Rep Smith’s Statement Regarding Legislative Redistricting Maps
-SALEM, Ore.–September 27, 2021, the House passed SB 882, which reappropriated Oregon’s legislative districts.
-Representative Greg Smith (R-Heppner) released the following statement regarding changes to House District 57:
-District 57 is getting bigger!
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Press Release: Rep Smith’s Statement Regarding Legislative Redistricting Maps September 27, 2021 / in News SALEM, Ore.–September 27, 2021, the House passed SB 882, which reappropriated Oregon’s legislative districts.
+Representative Greg Smith (R-Heppner) released the following statement regarding changes to House District 57: District 57 is getting bigger!
 The district is fortunate to not only maintain its current configuration but to expand.
 On the eastern side, we gained the communities of Athena, Adams, and Helix in Umatilla County.
 To the south, the district gained the entirety of Wheeler County, which includes the incorporated cities of Fossil, Spray, and Mitchell.
@@ -9,3 +7,5 @@ As an aside, I briefly represented Wheeler County in 2001 and will be honored se
 The district experienced its largest geographic expansion on the western side, where it gained additional area in Wasco County, including the City of Maupin.
 The District also furthered its territory into the rural areas of Jefferson, Marion, and Clackamas Counties.
 This newly created district reignites old friendships and provides neighboring communities the opportunity to forge new relationships.
+Oregon House District Map (PDF) https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 admin https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png admin 2021-09-27 11:08:46 2023-01-27 20:02:39 Press Release: Rep Smith’s Statement Regarding Legislative Redistricting Maps July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

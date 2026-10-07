@@ -1,4 +1,5 @@
-October 2025
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all The Party of Lepers The Party of Lepers The Party of Lepers Nov 19, 2025 Nov 19, 2025 October 2025 Bullseye - Friday 17 October 16:52 - By Jonah O.
+Bullseye - Friday 17 October 16:52 - By Jonah O.
 Labor Day of this year an associate of mine and I decided to meet at the rally being held by Senator Bernie Sanders and Representative Ro Khanna at the State Capitol building.
 David and I stood by the replica of the liberty bell as the rally roared on in front of us.
 We were discussing the future of the Democratic Party, as a disheveled masked individual wearing a faux leather jacket and sweatpants came barreling towards us with his middle finger flipped firmly at my face.
@@ -19,6 +20,8 @@ Maybe, under the assumption I hate gay people, he thought I use the word often, 
 Maybe he just couldn’t bring himself to call me a nigger.
 Who knows why he employed that word in his verbal assault?
 I will give the boy props for having the gonads to scream at me; rather than veil his anger behind the piercing gaze of passive aggression employed by most who are in opposition to my position that the consent of one cannot govern the consent of another, and that children shouldn’t be medicalized into a lifetime of unintended consequences because they want to be non-conforming to the social standards of their sex.
+Mossy Nook - Saturday 18 October 14:44 - By Jonah O.
+Mossy Nook - Saturday 18 October 14:44 - By Jonah O.
 Ten years ago those positions wouldn’t have evoked but more than a shrug.
 Today, they evoke the wrath of a generation captured by the notion that sex is entirely mutable or the frigid isolation of being a leper.
 There is no doubt that this issue is overplayed in the stupidest of ways.
@@ -38,6 +41,8 @@ Whether it be immigration, abortion, or war.
 Whether it be any of the divisive topics of our time, all are portrayed in ways which pit people into emotional corners that one must defend as a matter of personal honor and dignity.
 Keeping we the people, from feeling as though we truly are ‘we the people’.
 Pitting families, friends, and coworkers against themselves as the robber barons get away with murder.
+Landfill Tour - Tuesday 7 October 12:05 - By Jonah O.
+Landfill Tour - Tuesday 7 October 12:05 - By Jonah O.
 Party politics have been in my head this month due to the 2025 New Hampshire Democratic Party convention.
 Otherwise known as the Raymond Buckley annual puppet show.
 It just so happened to coincide with an annual fall hike that my group of friends takes up Mount Monadnock but given the heavy nature of the politics of our time, I was determined to watch the show.
@@ -103,8 +108,7 @@ The base of the Democratic party is wrapped up in a mass case of Stockholm syndr
 Furthermore, pointing this out would be seen by some in the party as treasonous.
 They would say that one must hate the party to be able to lob such an accusation against it.
 Accusing the one who did of aiding the opposition and therefore justifying excommunication.
-During President Washington’s farewell address in 1796 he said, “The alternate domination of one faction over another, sharpened by the spirit of revenge, natural to party dissension, which in different ages and countries has perpetrated the most horrid enormities, is itself a frightful despotism.”
-His warning against private political organizations running our constitutional republic would result in them becoming instruments of division and chaos.
+During President Washington’s farewell address in 1796 he said, “The alternate domination of one faction over another, sharpened by the spirit of revenge, natural to party dissension, which in different ages and countries has perpetrated the most horrid enormities, is itself a frightful despotism.” His warning against private political organizations running our constitutional republic would result in them becoming instruments of division and chaos.
 Weapons of revenge and conflict which would divide the populace, ultimately destabilizing the nation itself entirely.
 Atrophying the ability of the citizenry, or it’s elected representatives to discuss the matters of the time; leaving the country in an unstoppable downward spiral.
 It is not hatred, nor treason - especially in this moment - to point out the fatal flaws in the organization that is the Democratic Party both statewide and nationally.
@@ -136,4 +140,5 @@ You must not fall victim to the trap of purity politics.
 You’ll need every voice you can get to demand that the doors open.
 The establishment glares at you as they would a leper.
 What do you have to lose?
-Back to all
+Full Moon Over the Windy Bridge - Saturday 11 October 21:41 - By Jonah O.
+Full Moon Over the Windy Bridge - Saturday 11 October 21:41 - By Jonah O. ‹ School House Rock and the Smoldering Sky ‹ School House Rock and the Smoldering Sky ‹ School House Rock and the Smoldering Sky A Brave New World › A Brave New World › A Brave New World › Back to all

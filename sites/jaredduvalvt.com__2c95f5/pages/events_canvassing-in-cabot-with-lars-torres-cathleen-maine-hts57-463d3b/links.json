@@ -1,22 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+in+Cabot+with+Lars+Torres+%26+Cathleen+Maine&dates=20220806T180000Z%2F20220806T210000Z&location=Cabot%2C+VT%2C+United+States",
-"http://maps.google.com/?q=+Cabot%2C+VT+United+States",
-"https://facebook.com/JaredDuvalVT",
-"https://instagram.com/jaredduvalvt",
-"https://instagram.com/p/DY0nYvClEYl",
-"https://jaredduvalvt.com/",
-"https://jaredduvalvt.com/about",
-"https://jaredduvalvt.com/cart",
-"https://jaredduvalvt.com/contact",
-"https://jaredduvalvt.com/endorsements",
-"https://jaredduvalvt.com/events",
-"https://jaredduvalvt.com/events/canvassing-in-cabot-with-lars-torres-cathleen-maine-hts57?format=ical",
-"https://jaredduvalvt.com/events/listening-talking-with-voters-at-harrys-hardware-rk6ns",
-"https://jaredduvalvt.com/events/listening-talking-with-voters-at-the-barre-town-transfer-station-4479j",
-"https://jaredduvalvt.com/get-involved",
-"https://jaredduvalvt.com/home",
-"https://jaredduvalvt.com/news",
-"https://jaredduvalvt.com/on-the-issues",
-"https://secure.actblue.com/donate/jared-duval-1",
-"https://youtube.com/@jaredduvalvt5365"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+cabot%2C+vt+united+states"
+},
+{
+"text": "0",
+"href": "https://www.jaredduvalvt.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.jaredduvalvt.com/about"
+},
+{
+"text": "BACK TO TOP",
+"href": "https://www.jaredduvalvt.com/home"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.jaredduvalvt.com/events"
+},
+{
+"text": "CONTACT",
+"href": "https://www.jaredduvalvt.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jared-duval-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jaredduvalvt.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jaredduvalvt.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jaredduvalvt.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+in+Cabot+with+Lars+Torres+%26+Cathleen+Maine&dates=20220806T180000Z%2F20220806T210000Z&location=Cabot%2C+VT%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-cabot-with-lars-torres-cathleen-maine-hts57?format=ical"
+},
+{
+"text": "Meet Jared",
+"href": "https://www.jaredduvalvt.com/about"
+},
+{
+"text": "News",
+"href": "https://www.jaredduvalvt.com/news"
+},
+{
+"text": "Next Next August 6 Listening & Talking with Voters at Harry's Hardware, Cabot",
+"href": "https://www.jaredduvalvt.com/events/listening-talking-with-voters-at-harrys-hardware-rk6ns"
+},
+{
+"text": "On the Issues",
+"href": "https://www.jaredduvalvt.com/on-the-issues"
+},
+{
+"text": "Previous Previous August 6 Listening & Talking with Voters at the Barre Town Transfer Station",
+"href": "https://www.jaredduvalvt.com/events/listening-talking-with-voters-at-the-barre-town-transfer-station-4479j"
+},
+{
+"text": "[image: Jared for House 2026]",
+"href": "https://www.jaredduvalvt.com/"
+},
+{
+"text": "[image: Thank you to all the Montpelier residents who provided your names and signatures to help me qualify for the August 11th primary ballot. Today I submitted your signatures (along with my consent of candidate and financial disclosure form) alongside @km][image: Thank you to all the Montpelier residents who provided your names and signatures to help me qualify for the August 11th primary ballot. Today I submitted your signatures (along with my consent of candidate and financial disclosure form) alongside @km]",
+"href": "https://www.instagram.com/p/DY0nYvClEYl/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JaredDuvalVT/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jaredduvalvt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@jaredduvalvt5365"
+}
 ]

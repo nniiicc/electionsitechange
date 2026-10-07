@@ -1,4 +1,10 @@
-Leilani Barnett believes the future of Texas depends on a strong, fully-funded public school system that serves every child—regardless of their ZIP code, family income, or learning needs.
+For a Better Texas Home About Leilani - - - - - Join Us in Making Texas a Better Place to Live for All!
+Enjoy Our Upcoming Events!
+Priority Issues for District 69 Thank You for Your Endorsements!
+Contact For a Better Texas Home About Leilani - - - - - Join Us in Making Texas a Better Place to Live for All!
+Enjoy Our Upcoming Events!
+Priority Issues for District 69 Thank You for Your Endorsements!
+Contact Home Priority Issues for District 69 Public Schools -- The Heart of Texas Towns Public Schools -- The Heart of Texas Towns Leilani Barnett believes the future of Texas depends on a strong, fully-funded public school system that serves every child—regardless of their ZIP code, family income, or learning needs.
 School vouchers fail that basic test of fairness.
 They siphon public dollars away from neighborhood schools and redirect them to private institutions that are not held to the same transparency, accountability, or nondiscrimination standards.
 In a state already struggling with teacher shortages, outdated classrooms, and widening achievement gaps, vouchers deepen inequity rather than solve it.
@@ -11,3 +17,5 @@ They are asking for excellent public schools.
 And the data is clear: no voucher program in the country has improved outcomes system-wide.
 Real progress comes from investing in what works.
 Strong public schools lift all Texans—and that’s where our commitment and our dollars should go.Is this conversation helpful so far?
+Clean, Safe, Abundant -- Water Solutions Make the Economy Work for Working People!
+Affordable Housing

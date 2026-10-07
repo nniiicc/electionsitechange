@@ -1,31 +1,186 @@
 [
-"http://bentoncreative.com/",
-"https://facebook.com/sallyharrellga",
-"https://sallyharrell.org/",
-"https://sallyharrell.org/2020-endorsements",
-"https://sallyharrell.org/2022-endorsements",
-"https://sallyharrell.org/2024-endorsements",
-"https://sallyharrell.org/2025/01/19/sallys-senate-snapshot-2025-01",
-"https://sallyharrell.org/2025/01/26/sallys-senate-snapshot-2025-2",
-"https://sallyharrell.org/2025/02/02/sallys-senate-snapshot-2025-3",
-"https://sallyharrell.org/2025/02/09/sallys-senate-snapshot-2025-4",
-"https://sallyharrell.org/2025/02/16/sallys-senate-snapshot-2025-5",
-"https://sallyharrell.org/2025/02/23/sallys-senate-snapshot-2025-6",
-"https://sallyharrell.org/about-sally",
-"https://sallyharrell.org/author/jharrell26",
-"https://sallyharrell.org/category/news",
-"https://sallyharrell.org/contact",
-"https://sallyharrell.org/contact/yardsign",
-"https://sallyharrell.org/events",
-"https://sallyharrell.org/newsletters",
-"https://sallyharrell.org/newsletters/page/2",
-"https://sallyharrell.org/newsletters/page/3",
-"https://sallyharrell.org/newsletters/page/31",
-"https://sallyharrell.org/newsletters/page/5",
-"https://sallyharrell.org/newsletters/page/6",
-"https://sallyharrell.org/priorities",
-"https://sallyharrell.org/priorities/2018-endorsements",
-"https://sallyharrell.org/vote",
-"https://secure.actblue.com/contribute/page/sallyharrell-sd40",
-"https://twitter.com/sallyharrellga"
+{
+"text": "2",
+"href": "https://sallyharrell.org/newsletters/page/2/"
+},
+{
+"text": "2018 Endorsements",
+"href": "https://sallyharrell.org/priorities/2018-endorsements"
+},
+{
+"text": "2020 Endorsements",
+"href": "https://sallyharrell.org/2020-endorsements/"
+},
+{
+"text": "2022 Endorsements",
+"href": "https://sallyharrell.org/2022-endorsements/"
+},
+{
+"text": "2024 Endorsements",
+"href": "https://sallyharrell.org/2024-endorsements/"
+},
+{
+"text": "3",
+"href": "https://sallyharrell.org/newsletters/page/3/"
+},
+{
+"text": "5",
+"href": "https://sallyharrell.org/newsletters/page/5/"
+},
+{
+"text": "6",
+"href": "https://sallyharrell.org/newsletters/page/6/"
+},
+{
+"text": "About Sally",
+"href": "https://sallyharrell.org/about-sally/"
+},
+{
+"text": "Benton Creative.",
+"href": "http://bentoncreative.com"
+},
+{
+"text": "Contact",
+"href": "https://sallyharrell.org/contact/"
+},
+{
+"text": "Criminal Justice & Police Reform",
+"href": "https://sallyharrell.org/priorities/#criminal-justice"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/contribute/page/sallyharrell-sd40"
+},
+{
+"text": "Education",
+"href": "https://sallyharrell.org/priorities/#education"
+},
+{
+"text": "Environment",
+"href": "https://sallyharrell.org/priorities/#environment"
+},
+{
+"text": "Events",
+"href": "https://sallyharrell.org/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sallyharrellga/"
+},
+{
+"text": "Healthcare",
+"href": "https://sallyharrell.org/priorities/#healthcare"
+},
+{
+"text": "Mail",
+"href": "mailto:sally@sallyharrell.org"
+},
+{
+"text": "News",
+"href": "https://sallyharrell.org/category/news/"
+},
+{
+"text": "Newsletters",
+"href": "https://sallyharrell.org/newsletters/"
+},
+{
+"text": "Other Issues",
+"href": "https://sallyharrell.org/priorities/#other-issues"
+},
+{
+"text": "Priorities",
+"href": "https://sallyharrell.org/priorities/"
+},
+{
+"text": "Sally Harrell",
+"href": "https://sallyharrell.org/author/jharrell26/"
+},
+{
+"text": "Sally’s Senate Snapshot 2025 #1",
+"href": "https://sallyharrell.org/2025/01/19/sallys-senate-snapshot-2025-01/"
+},
+{
+"text": "Sally’s Senate Snapshot 2025 #2",
+"href": "https://sallyharrell.org/2025/01/26/sallys-senate-snapshot-2025-2/"
+},
+{
+"text": "Sally’s Senate Snapshot 2025 #3",
+"href": "https://sallyharrell.org/2025/02/02/sallys-senate-snapshot-2025-3/"
+},
+{
+"text": "Sally’s Senate Snapshot 2025 #4",
+"href": "https://sallyharrell.org/2025/02/09/sallys-senate-snapshot-2025-4/"
+},
+{
+"text": "Sally’s Senate Snapshot 2025 #5",
+"href": "https://sallyharrell.org/2025/02/16/sallys-senate-snapshot-2025-5/"
+},
+{
+"text": "Sally’s Senate Snapshot 2025 #6",
+"href": "https://sallyharrell.org/2025/02/23/sallys-senate-snapshot-2025-6/"
+},
+{
+"text": "Transportation",
+"href": "https://sallyharrell.org/priorities/#transportation"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/sallyharrellga"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://sallyharrell.org/contact/#volunteer"
+},
+{
+"text": "Voter Info",
+"href": "https://sallyharrell.org/vote/"
+},
+{
+"text": "YARD SIGN",
+"href": "https://sallyharrell.org/contact/yardsign"
+},
+{
+"text": "[image: A snapshot in the Seanate]",
+"href": "https://sallyharrell.org/2025/02/16/sallys-senate-snapshot-2025-5/"
+},
+{
+"text": "[image: ERA press conference]",
+"href": "https://sallyharrell.org/2025/02/23/sallys-senate-snapshot-2025-6/"
+},
+{
+"text": "[image: Elect Sally Harrell]",
+"href": "https://sallyharrell.org/"
+},
+{
+"text": "[image: Freedom]",
+"href": "https://sallyharrell.org/2025/02/09/sallys-senate-snapshot-2025-4/"
+},
+{
+"text": "[image]",
+"href": "https://sallyharrell.org/2025/01/19/sallys-senate-snapshot-2025-01/"
+},
+{
+"text": "[image]",
+"href": "https://sallyharrell.org/2025/01/26/sallys-senate-snapshot-2025-2/"
+},
+{
+"text": "[image]",
+"href": "https://sallyharrell.org/2025/02/02/sallys-senate-snapshot-2025-3/"
+},
+{
+"text": "«",
+"href": "https://sallyharrell.org/newsletters/"
+},
+{
+"text": "»",
+"href": "https://sallyharrell.org/newsletters/page/31/"
+},
+{
+"text": "‹",
+"href": "https://sallyharrell.org/newsletters/page/3/"
+},
+{
+"text": "›",
+"href": "https://sallyharrell.org/newsletters/page/5/"
+}
 ]

@@ -1,4 +1,4 @@
-Naomi Riess has called Durango home for more than three decades.
+DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT She's the Experienced Candidate Meet Naomi Riess Naomi Riess has called Durango home for more than three decades.
 As a small-business owner, land-use consultant, farmer, mother, and longtime community volunteer, she has built her life around helping people navigate challenges, protect property rights, enjoy life, and strengthen the communities and families of Southwest Colorado.
 Naomi raised her family in Durango, where all three of her children graduated from Durango High School.
 Throughout those years, she was deeply involved in several local schools and youth programs, volunteering in the schools, serving as President of the Durango Early Learning Center Board, participating on the Durango 9-R District Accountability Advisory Committee, leading parent groups, coaching youth soccer, leading 4-H programs, and chairing the Durango High School After Prom Party.
@@ -17,3 +17,4 @@ That experience strengthened her belief that lasting solutions come from listeni
 Naomi’s life and career have been built on service, problem-solving, and a deep appreciation for the people and landscapes of Southwest Colorado.
 She brings decades of experience working directly with families, businesses, farmers, ranchers, and local governments, along with a practical and personal understanding of the issues facing House District 59.
 Rooted in community, committed to responsible stewardship, and guided by a lifelong dedication to helping others and a proven track record of service, Naomi Riess seeks to continue serving Southwest Colorado and helping ensure a strong future for the region’s families, businesses, and rural communities.
+Paid for by Riess for Colorado John Rice, Registered Agent Contact 970.946.3561 info@riessforcolorado.com PO BOX 1045 Durango, CO 81302 Media Kit Follow Riess for Colorado on Facebook Riess for Colorado Follow Naomi On Flickr

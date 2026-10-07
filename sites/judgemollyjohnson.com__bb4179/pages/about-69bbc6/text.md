@@ -1,27 +1,2 @@
-ABOUT JUDGE JOHNSON
-EDUCATION
-The University of Akron Law School
-Juris Doctorate
-Honors Society: Phi Delta Pi
-Denison University
-Bachelor of Arts: Spanish, Communication
-Honors Societies: Sigma Delta Pi, Lambda Pi Eta
-Youngstown State University
-Undergraduate credit toward Bachelor’s Degree
-Harvard University (via Harvard Extension School)
-Undergraduate credit toward Bachelor’s Degree
-Universidad Nacional de Costa Rica
-Undergraduate credit toward Bachelor’s Degree
-AFFILIATIONS
-The University of Akron School of Law- Former Adjunct Professor and Current Mentor
-Ohio Supreme Court Commission on Language Services- Chair
-Ohio Supreme Court Commission on Professionalism- Trustee Emeritus
-Mahoning County Bar Association Foundation- Three-time President
-Ohio Judicial College- Faculty
-YMCA of Youngstown- Trustee and Governance Committee Chair
-Zion Lutheran Church- Assistant Minister
-Association of Municipal and County Court Judges- Member
-Federal Bar Association- Member
-Nathanial R.
-Jones American Inn of Court- Member and Alternating Team Lead
-Mahoning County Bar Association-Member
+0 Skip to Content Home About Endorsements Contribute Open Menu Close Menu Home About Endorsements Contribute Open Menu Close Menu Home About Endorsements Contribute ABOUT JUDGE JOHNSON EDUCATION The University of Akron Law School Juris Doctorate Honors Society: Phi Delta Pi Denison University Bachelor of Arts: Spanish, Communication Honors Societies: Sigma Delta Pi, Lambda Pi Eta Youngstown State University Undergraduate credit toward Bachelor’s Degree Harvard University (via Harvard Extension School) Undergraduate credit toward Bachelor’s Degree Universidad Nacional de Costa Rica Undergraduate credit toward Bachelor’s Degree AFFILIATIONS The University of Akron School of Law- Former Adjunct Professor and Current Mentor Ohio Supreme Court Commission on Language Services- Chair Ohio Supreme Court Commission on Professionalism- Trustee Emeritus Mahoning County Bar Association Foundation- Three-time President Ohio Judicial College- Faculty YMCA of Youngstown- Trustee and Governance Committee Chair Zion Lutheran Church- Assistant Minister Association of Municipal and County Court Judges- Member Federal Bar Association- Member Nathanial R.
+Jones American Inn of Court- Member and Alternating Team Lead Mahoning County Bar Association- Member THE COMMITTEE TO ELECT MOLLY JOHNSON JUDGE Sarah Johnston, Treasurer 12 West Main Street Canfield, Ohio 44406 Phone: (330) 533-1921 Follow F acebook This page is paid for and maintained by the Committee to Elect Molly Johnson Judge, Sarah Johnston, Treasurer.

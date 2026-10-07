@@ -1,23 +1,16 @@
-IN THE NEWS
-For Immediate Release
-February 24, 2026
-Contact: info@jen4georgia.com
-Jen Jordan and Miracle Rankin Announce Campaigns for the Supreme Court of Georgia Rooted in Values of Democracy, Reproductive Freedom for All Georgians
-ATLANTA – Today, attorneys Jen Jordan and Miracle Rankin announced their campaigns for the Supreme Court of Georgia, pledging to uphold the rights and freedoms of all Georgians under the Georgia Constitution, protect equal justice under the law, and ensure the Court remains independent and accountable to the people of this state.
+0 Skip to Content Home Meet Jen News Endorsements Media Resources Jen Jordan for Georgia Supreme Court DONATE Open Menu Close Menu Home Meet Jen News Endorsements Media Resources Jen Jordan for Georgia Supreme Court DONATE Open Menu Close Menu Home Meet Jen News Endorsements Media Resources DONATE IN THE NEWS For Immediate Release February 24, 2026 Contact: info@jen4georgia.com Jen Jordan and Miracle Rankin Announce Campaigns for the Supreme Court of Georgia Rooted in Values of Democracy, Reproductive Freedom for All Georgians ATLANTA – Today, attorneys Jen Jordan and Miracle Rankin announced their campaigns for the Supreme Court of Georgia, pledging to uphold the rights and freedoms of all Georgians under the Georgia Constitution, protect equal justice under the law, and ensure the Court remains independent and accountable to the people of this state.
 Jordan and Rankin will challenge Justices Sarah Warren and Charlie Bethel, respectively, in the May 19th Georgia Supreme Court elections.
 The candidates launched their campaigns surrounded by members of Georgia’s legal community, civic leaders, anti-corruption advocates, and reproductive freedom supporters who emphasized the importance of protecting reproductive rights, fighting threats to democracy in Georgia, rooting out corruption, and ensuring equal justice under the law for all.
 “As an attorney, I have spent my career representing Georgians in some of the most difficult moments of their lives,” said Miracle Rankin.
 “Our Supreme Court carries an enormous responsibility.
 A justice must approach every case with independence, careful judgment, and respect for the Constitution and the law — without political pressure or personal agenda.
-That is the commitment I would bring to Georgia’s highest court.’”
-“Our Georgia Supreme Court must be our last line of defense against near-constant attacks on Georgians’ basic constitutional rights, from voting rights to reproductive freedom - and this Court majority is failing to meet the moment,” said Jen Jordan.“From the courtroom to the State Capitol, I’ve fought every day of my career to protect every Georgians rights and freedoms from the corrupt and well-connected, and I will continue that fight as a Supreme Court Justice.”
-“Since Georgia’s abortion ban took effect, we all know that women have died.
+That is the commitment I would bring to Georgia’s highest court.’” “Our Georgia Supreme Court must be our last line of defense against near-constant attacks on Georgians’ basic constitutional rights, from voting rights to reproductive freedom - and this Court majority is failing to meet the moment,” said Jen Jordan .“From the courtroom to the State Capitol, I’ve fought every day of my career to protect every Georgians rights and freedoms from the corrupt and well-connected, and I will continue that fight as a Supreme Court Justice.” “Since Georgia’s abortion ban took effect, we all know that women have died.
 Every day, women are suffering, stripped of the right to make a private medical decision,” said Dr.
 Mimi Zieman, a board-certified OB-GYN and women’s health advocate.
-“The health, privacy, and lives of Georgia women depend on courts willing to uphold the constitution - not personal ideology.”
-Jen Jordan, originally from Dodge County, is an experienced attorney who has spent her legal career representing families by holding the powerful accountable.
+“The health, privacy, and lives of Georgia women depend on courts willing to uphold the constitution - not personal ideology.” Jen Jordan, originally from Dodge County, is an experienced attorney who has spent her legal career representing families by holding the powerful accountable.
 She previously served as a State Senator and ran for Attorney General in 2022.
 Miracle Rankin is an experienced attorney who has built her career advocating for individuals and families navigating complex legal challenges.
 She stands up to powerful corporations to secure justice for Georgians.
 A graduate of Spelman College and the University of Georgia School of Law, Rankin has served in leadership roles within Georgia’s legal community and was the 40th president of the Georgia Association of Black Women Attorneys.
-###
+### DONATE PAID FOR BY FRIENDS OF JEN JORDAN, INC.
+POWERED BY FIRST EDITION STRATEGIES

@@ -1,76 +1,326 @@
 [
-"http://first-baptist-community-church.e-zekielcms.com/",
-"https://avivamientousa.com/",
-"https://bbcsaltlakecity.org/",
-"https://campkearnsutah.weebly.com/",
-"https://caseysaxton.com/",
-"https://caseysaxton.com/about",
-"https://caseysaxton.com/beliefs",
-"https://caseysaxton.com/campaign-sign",
-"https://caseysaxton.com/community",
-"https://caseysaxton.com/contact",
-"https://caseysaxton.com/donate",
-"https://caseysaxton.com/get-involved",
-"https://caseysaxton.com/news",
-"https://caseysaxton.com/priorities",
-"https://caseysaxton.com/privacy-policy",
-"https://caseysaxton.com/subscribe",
-"https://caseysaxton.com/survey",
-"https://caseysaxton.com/volunteer",
-"https://churchofjesuschrist.org/?lang=eng",
-"https://e-clubhouse.org/sites/westvalleyut/index.php",
-"https://facebook.com/NuevaEsperanzaUtah",
-"https://facebook.com/caseysaxton",
-"https://facebook.com/groups/520766265709240",
-"https://facebook.com/groups/525310553368943",
-"https://facebook.com/iglesiadejesucristo.kearnsutah.5",
-"https://facebook.com/people/Kiwanis-Club-of-Jordan-River-Utah/61583283152200",
-"https://facebook.com/profile.php?id=100072254454652&locale=fo_FO",
-"https://facebook.com/salt.lake.samoan.ag",
-"https://granitekids.org/",
-"https://hopeunlimitedslc.org/",
-"https://icbut.org/",
-"https://idpmi-montedesion.com/",
-"https://instagram.com/caseysaxton",
-"https://jw.org/en",
-"https://kearns.utah.gov/",
-"https://kidwater4ut.gov/",
-"https://linkedin.com/in/caseysaxton",
-"https://mykearns.org/home",
-"https://oquirrhrec.gov/",
-"https://saltlakecounty.gov/aging-adult-services/community/senior-centers/eddie-p-mayne-kearns",
-"https://schools.graniteschools.org/beehive",
-"https://schools.graniteschools.org/bennionjr",
-"https://schools.graniteschools.org/bridger",
-"https://schools.graniteschools.org/foxhills",
-"https://schools.graniteschools.org/gourley",
-"https://schools.graniteschools.org/hunterhigh",
-"https://schools.graniteschools.org/jeffersonjr",
-"https://schools.graniteschools.org/kearnshigh",
-"https://schools.graniteschools.org/kearnsjr",
-"https://schools.graniteschools.org/kennedyjr",
-"https://schools.graniteschools.org/silverhills",
-"https://schools.graniteschools.org/southkearns",
-"https://schools.graniteschools.org/taylorsvillehigh",
-"https://schools.graniteschools.org/westkearns",
-"https://sfxkearns.org/",
-"https://sites.google.com/view/kearns-utah/home",
-"https://slcolibrary.org/",
-"https://taylorsvilleut.gov/",
-"https://taylorsvilleut.gov/services/tvpd",
-"https://tbid.gov/",
-"https://thepointslc.com/",
-"https://twitter.com/caseysaxton",
-"https://unifiedfireut.gov/city/kearns-township",
-"https://unifiedfireut.gov/city/taylorsville-city",
-"https://unifiedpoliceut.gov/",
-"https://utahca.org/",
-"https://utaholympiclegacy.org/location/utah-olympic-oval",
-"https://vietnamcatholicslc.org/english",
-"https://vote.utah.gov/",
-"https://westjordan.utah.gov/",
-"https://westjordan.utah.gov/fire",
-"https://westjordan.utah.gov/police",
-"https://westjordanrotary.com/",
-"https://wfwrdutah.gov/"
+{
+"text": "ABOUT",
+"href": "https://www.caseysaxton.com/about"
+},
+{
+"text": "About Casey",
+"href": "https://www.caseysaxton.com/about"
+},
+{
+"text": "About Our Community",
+"href": "https://www.caseysaxton.com/community"
+},
+{
+"text": "American Legion Post 132",
+"href": "https://www.facebook.com/groups/520766265709240/"
+},
+{
+"text": "Beehive Elementary School",
+"href": "https://schools.graniteschools.org/beehive/"
+},
+{
+"text": "Bennion Jr High School",
+"href": "https://schools.graniteschools.org/bennionjr/"
+},
+{
+"text": "Bible Baptist Church",
+"href": "https://www.bbcsaltlakecity.org/"
+},
+{
+"text": "CONTACT",
+"href": "https://www.caseysaxton.com/contact"
+},
+{
+"text": "Camp Kearns, a former U.S. Army Airbase",
+"href": "https://campkearnsutah.weebly.com/"
+},
+{
+"text": "Casey's Beliefs",
+"href": "https://www.caseysaxton.com/beliefs"
+},
+{
+"text": "Copyright © Casey Saxton for State House",
+"href": "https://www.caseysaxton.com/privacy-policy"
+},
+{
+"text": "David Gourley Elementary School",
+"href": "https://schools.graniteschools.org/gourley/"
+},
+{
+"text": "Donate",
+"href": "https://www.caseysaxton.com/donate"
+},
+{
+"text": "Eddie P Mayne Kearns Senior Center",
+"href": "https://www.saltlakecounty.gov/aging-adult-services/community/senior-centers/eddie-p-mayne-kearns/"
+},
+{
+"text": "Fox Hills Elementary School",
+"href": "https://schools.graniteschools.org/foxhills/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.caseysaxton.com/get-involved"
+},
+{
+"text": "Get a Campaign Sign",
+"href": "https://www.caseysaxton.com/campaign-sign"
+},
+{
+"text": "Granite Education Foundation",
+"href": "https://granitekids.org/"
+},
+{
+"text": "HOME",
+"href": "https://www.caseysaxton.com"
+},
+{
+"text": "Hope Unlimited Church",
+"href": "https://hopeunlimitedslc.org/"
+},
+{
+"text": "Hunter High School",
+"href": "https://schools.graniteschools.org/hunterhigh/"
+},
+{
+"text": "Iglesia Adventista de Nueva Esperanza",
+"href": "https://www.facebook.com/NuevaEsperanzaUtah/"
+},
+{
+"text": "Iglesia Cristiana Avivamiento",
+"href": "https://www.avivamientousa.com/"
+},
+{
+"text": "Iglesia Cristiana Bíblica Utah",
+"href": "https://icbut.org/"
+},
+{
+"text": "Iglesia Cristiana Pentecostes Luz Y Verdad",
+"href": "https://www.facebook.com/profile.php?id=100072254454652&locale=fo_FO"
+},
+{
+"text": "Iglesia de Dios Pentecostal M.I. Monte de Sion",
+"href": "https://www.idpmi-montedesion.com/"
+},
+{
+"text": "Iglesia de Jesucristo",
+"href": "https://www.facebook.com/iglesiadejesucristo.kearnsutah.5/"
+},
+{
+"text": "Jim Bridger Elementary School",
+"href": "https://schools.graniteschools.org/bridger/"
+},
+{
+"text": "John F Kennedy Jr High School",
+"href": "https://schools.graniteschools.org/kennedyjr/"
+},
+{
+"text": "Kearns",
+"href": "https://www.kearns.utah.gov/"
+},
+{
+"text": "Kearns Community Council",
+"href": "https://sites.google.com/view/kearns-utah/home"
+},
+{
+"text": "Kearns High School",
+"href": "https://schools.graniteschools.org/kearnshigh/"
+},
+{
+"text": "Kearns Improvement District",
+"href": "https://www.kidwater4ut.gov/"
+},
+{
+"text": "Kearns Jr High School",
+"href": "https://schools.graniteschools.org/kearnsjr/"
+},
+{
+"text": "Kearns, Taylorsville, Bingham Creek, & West Jordan Libraries",
+"href": "https://www.slcolibrary.org/"
+},
+{
+"text": "Kingdom Hall of Jehovas Witnesses",
+"href": "https://www.jw.org/en/"
+},
+{
+"text": "Kiwanis Club of Jordan River",
+"href": "https://www.facebook.com/people/Kiwanis-Club-of-Jordan-River-Utah/61583283152200/"
+},
+{
+"text": "Legislative Issues Survey",
+"href": "https://www.caseysaxton.com/survey"
+},
+{
+"text": "MyKearns Community Coalition",
+"href": "https://mykearns.org/home/"
+},
+{
+"text": "Oquirrh Recreation & Parks District",
+"href": "https://www.oquirrhrec.gov/"
+},
+{
+"text": "Our Lady of Perpetual Help Catholic Church",
+"href": "https://vietnamcatholicslc.org/english"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.caseysaxton.com/priorities"
+},
+{
+"text": "Primera Iglesia Bautista of Kearns",
+"href": "http://first-baptist-community-church.e-zekielcms.com/"
+},
+{
+"text": "Register to Vote",
+"href": "https://vote.utah.gov/"
+},
+{
+"text": "Saint Francis Xavier Catholic Church",
+"href": "https://www.sfxkearns.org/"
+},
+{
+"text": "Salt Lake Samoan Assembly of God",
+"href": "https://www.facebook.com/salt.lake.samoan.ag/"
+},
+{
+"text": "Sign Up for Email Updates",
+"href": "https://www.caseysaxton.com/subscribe"
+},
+{
+"text": "Silver Hills Elementary School",
+"href": "https://schools.graniteschools.org/silverhills/"
+},
+{
+"text": "South Kearns Elementary School",
+"href": "https://schools.graniteschools.org/southkearns/"
+},
+{
+"text": "Taylorsville",
+"href": "https://www.taylorsvilleut.gov/"
+},
+{
+"text": "Taylorsville High School",
+"href": "https://schools.graniteschools.org/taylorsvillehigh/"
+},
+{
+"text": "Taylorsville Police Department",
+"href": "https://www.taylorsvilleut.gov/services/tvpd"
+},
+{
+"text": "Taylorsville-Bennion Improvement District",
+"href": "https://tbid.gov/"
+},
+{
+"text": "The Church of Jesus Christ of Latter-day Saints",
+"href": "https://www.churchofjesuschrist.org/?lang=eng"
+},
+{
+"text": "The Point Church",
+"href": "https://thepointslc.com/"
+},
+{
+"text": "Thomas Jefferson Jr High School",
+"href": "https://schools.graniteschools.org/jeffersonjr/"
+},
+{
+"text": "To-Ae-Ofa United Methodist Church",
+"href": "https://www.facebook.com/groups/525310553368943"
+},
+{
+"text": "UPDATES",
+"href": "https://www.caseysaxton.com/news"
+},
+{
+"text": "Unified Fire Authority",
+"href": "https://unifiedfireut.gov/city/kearns-township/"
+},
+{
+"text": "Unified Fire Authority",
+"href": "https://unifiedfireut.gov/city/taylorsville-city/"
+},
+{
+"text": "Unified Police Department",
+"href": "https://unifiedpoliceut.gov/"
+},
+{
+"text": "Utah Community Action",
+"href": "https://utahca.org/"
+},
+{
+"text": "Utah House District 37",
+"href": "https://www.caseysaxton.com/community#housedistrict37map"
+},
+{
+"text": "Utah Olympic Oval",
+"href": "https://utaholympiclegacy.org/location/utah-olympic-oval/"
+},
+{
+"text": "View District Map",
+"href": "https://www.caseysaxton.com/community#housedistrict37map"
+},
+{
+"text": "Volunteer",
+"href": "https://www.caseysaxton.com/volunteer"
+},
+{
+"text": "Wasatch Front Waste & Recycling District",
+"href": "https://wfwrdutah.gov/"
+},
+{
+"text": "West Jordan",
+"href": "https://www.westjordan.utah.gov/"
+},
+{
+"text": "West Jordan Fire Department",
+"href": "https://www.westjordan.utah.gov/fire/"
+},
+{
+"text": "West Jordan Police Department",
+"href": "https://www.westjordan.utah.gov/police/"
+},
+{
+"text": "West Jordan Rotary Club",
+"href": "https://www.westjordanrotary.com/"
+},
+{
+"text": "West Kearns Elementary School",
+"href": "https://schools.graniteschools.org/westkearns/"
+},
+{
+"text": "West Valley Lions Club",
+"href": "https://e-clubhouse.org/sites/westvalleyut/index.php"
+},
+{
+"text": "[image: Casey Saxton Logo]",
+"href": "https://www.caseysaxton.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/caseysaxton"
+},
+{
+"text": "[image: Freedom and Opportunity for All]",
+"href": "https://www.caseysaxton.com/beliefs"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/caseysaxton"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/caseysaxton"
+},
+{
+"text": "[image: X ]",
+"href": "https://www.twitter.com/caseysaxton"
+},
+{
+"text": "[no text]",
+"href": "https://www.caseysaxton.com"
+},
+{
+"text": "caseysaxtonut@gmail.com",
+"href": "mailto:caseysaxtonut@gmail.com"
+}
 ]

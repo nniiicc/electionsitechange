@@ -1,19 +1,86 @@
 [
-"http://voteannascharf.com/",
-"https://anedot.com/privacy",
-"https://facebook.com/voteannascharf",
-"https://oregonlegislature.gov/scharf/Pages/news.aspx",
-"https://voteannascharf.com/",
-"https://voteannascharf.com/about",
-"https://voteannascharf.com/cart",
-"https://voteannascharf.com/contact",
-"https://voteannascharf.com/district",
-"https://voteannascharf.com/donate",
-"https://voteannascharf.com/endorsed-by",
-"https://voteannascharf.com/endorsements",
-"https://voteannascharf.com/get-involved",
-"https://voteannascharf.com/meet-anna",
-"https://voteannascharf.com/news",
-"https://voteannascharf.com/privacy-policy",
-"https://voteannascharf.com/session-accomplishments"
+{
+"text": "0",
+"href": "https://www.voteannascharf.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.voteannascharf.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.voteannascharf.com/contact"
+},
+{
+"text": "District",
+"href": "https://www.voteannascharf.com/district"
+},
+{
+"text": "Donate",
+"href": "https://www.voteannascharf.com/donate"
+},
+{
+"text": "Endorsed By...",
+"href": "https://www.voteannascharf.com/endorsed-by"
+},
+{
+"text": "Endorsement Form",
+"href": "https://www.voteannascharf.com/endorsed-by#endorse"
+},
+{
+"text": "Folder: About",
+"href": "https://www.voteannascharf.com/about"
+},
+{
+"text": "Folder: Endorsements",
+"href": "https://www.voteannascharf.com/endorsements"
+},
+{
+"text": "Folder: News",
+"href": "https://www.voteannascharf.com/news"
+},
+{
+"text": "Get Involved",
+"href": "https://www.voteannascharf.com/get-involved"
+},
+{
+"text": "Meet Anna",
+"href": "https://www.voteannascharf.com/meet-anna"
+},
+{
+"text": "Press Releases",
+"href": "https://www.oregonlegislature.gov/scharf/Pages/news.aspx"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteannascharf.com/privacy-policy"
+},
+{
+"text": "Session Accomplishments",
+"href": "https://www.voteannascharf.com/session-accomplishments"
+},
+{
+"text": "Session Updates",
+"href": "https://www.oregonlegislature.gov/scharf/Pages/news.aspx"
+},
+{
+"text": "[image: Vote Anna Scharf]",
+"href": "https://www.voteannascharf.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/voteannascharf"
+},
+{
+"text": "contact@voteannascharf.com",
+"href": "mailto:contact@voteannascharf.com"
+},
+{
+"text": "privacy practices",
+"href": "https://www.anedot.com/privacy"
+},
+{
+"text": "voteannascharf.com",
+"href": "http://voteannascharf.com"
+}
 ]

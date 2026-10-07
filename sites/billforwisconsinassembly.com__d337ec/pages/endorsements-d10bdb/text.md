@@ -1,6 +1,2 @@
-our ENDORSErs
-Thank you to these leaders across the district and Wisconsin who believe in our vision for our community.
-Mike Bare
-Wisconsin State Representative, 80th Assembly District
-Clinton Anderson
-Wisconsin State Representative, 45th Assembly District
+0 Skip to Content About Bill Issues Endorsements Get Involved Donate Open Menu Close Menu About Bill Issues Endorsements Get Involved Donate Open Menu Close Menu About Bill Issues Endorsements Get Involved Donate our ENDORSErs Thank you to these leaders across the district and Wisconsin who believe in our vision for our community.
+Mike Bare Wisconsin State Representative, 80th Assembly District Clinton Anderson Wisconsin State Representative, 45th Assembly District Get Involved Donate billforwisconsinassembly@gmail.com Paid for by Bill for Wisconsin Assembly

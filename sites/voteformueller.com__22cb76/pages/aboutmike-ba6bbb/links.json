@@ -1,8 +1,34 @@
 [
-"https://facebook.com/mueller4statehouse",
-"https://secure.winred.com/mike-mueller-for-state-representative-af34910b/donate-today",
-"https://voteformueller.com/",
-"https://voteformueller.com/aboutmike",
-"https://voteformueller.com/getinvolved",
-"https://voteformueller.com/issues"
+{
+"text": "About Mike",
+"href": "https://www.voteformueller.com/aboutmike"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/mike-mueller-for-state-representative-af34910b/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://www.voteformueller.com/getinvolved"
+},
+{
+"text": "Home",
+"href": "https://www.voteformueller.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteformueller.com/issues"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/mueller4statehouse/"
+},
+{
+"text": "[image]",
+"href": "https://www.voteformueller.com/"
+},
+{
+"text": "info@voteformueller.com",
+"href": "mailto:info@voteformueller.com"
+}
 ]

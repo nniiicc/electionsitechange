@@ -1,8 +1,26 @@
 [
-"https://app.leg.wa.gov/bi/report/BillsBySponsor?biennium=2025-26&hasCompanionBills=false&billsBySponsorReportType=AllBills&sponsorType=House&HouseSponsorId=15410",
-"https://briannathomas.org/",
-"https://briannathomas.org/about",
-"https://briannathomas.org/careers",
-"https://secure.anedot.com/briannaforthe34th/donate",
-"https://thestranger.com/slog/2021/02/25/55457480/brianna-thomas-is-running-for-city-council"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/briannaforthe34th/donate"
+},
+{
+"text": "Home",
+"href": "https://www.briannathomas.org"
+},
+{
+"text": "Legislation",
+"href": "https://www.briannathomas.org/careers"
+},
+{
+"text": "Priorities",
+"href": "https://www.briannathomas.org/about"
+},
+{
+"text": "app.leg.wa.gov",
+"href": "https://app.leg.wa.gov/bi/report/BillsBySponsor/?biennium=2025-26&hasCompanionBills=false&billsBySponsorReportType=AllBills&sponsorType=House&HouseSponsorId=15410#:~:text=2025%2F02%2F12%2002%2F12%2F2025%20%20Thomas%20SB,S%20Rules%20X"
+},
+{
+"text": "thestranger.com",
+"href": "https://www.thestranger.com/slog/2021/02/25/55457480/brianna-thomas-is-running-for-city-council#:~:text=She%20also%20said%20she%20believes,fist%20during%20this%20economic%20crisis"
+}
 ]

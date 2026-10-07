@@ -1,11 +1,58 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://miaforri.com/",
-"https://miaforri.com/about",
-"https://miaforri.com/contact",
-"https://miaforri.com/get-involved",
-"https://miaforri.com/news",
-"https://twitter.com/wix",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.miaforri.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.miaforri.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.miaforri.com/contact"
+},
+{
+"text": "D 45 - Cumberland, Lincoln",
+"href": "https://www.miaforri.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.miaforri.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.miaforri.com/about"
+},
+{
+"text": "Mia Ackerman",
+"href": "https://www.miaforri.com"
+},
+{
+"text": "News",
+"href": "https://www.miaforri.com/news"
+},
+{
+"text": "RI STATE REPRESENTATIVE",
+"href": "https://www.miaforri.com"
+},
+{
+"text": "Wix.com",
+"href": "https://wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "miaforrep@gmail.com",
+"href": "mailto:miaforrep@gmail.com"
+}
 ]

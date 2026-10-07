@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.nanorrock.com/latest-news",
+ "fingerprint": "f70d8deadfcf14e48c3ead2442f3a43f6d114473",
+ "format": 3,
  "paid_for_by": "Paid for by Nan for Senate",
- "title": "Blog 2 \u2014 Nan for Senate",
+ "title": "Blog 2 — Nan for Senate",
  "years_mentioned": [
-  "2015"
+  "2015",
+  "2022"
  ]
 }

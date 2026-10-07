@@ -1,83 +1,338 @@
 [
-"https://kyleforcolorado.com/",
-"https://kyleforcolorado.com/contact-me",
-"https://kyleforcolorado.com/contactame",
-"https://kyleforcolorado.com/distrito-12",
-"https://kyleforcolorado.com/donate",
-"https://kyleforcolorado.com/hd12",
-"https://kyleforcolorado.com/los-resultados-importan",
-"https://kyleforcolorado.com/mi-cuento",
-"https://kyleforcolorado.com/my-story",
-"https://kyleforcolorado.com/newsletters",
-"https://kyleforcolorado.com/noticias",
-"https://kyleforcolorado.com/results-matter",
-"https://kyleforcolorado.com/results-matter?share=facebook",
-"https://kyleforcolorado.com/results-matter?share=twitter",
-"https://kyleforcolorado.com/unete-a-nuestra-campana",
-"https://kyleforcolorado.com/valores-progresivos-resultados-comprobados",
-"https://leg.colorado.gov/bills/HJR26-1022",
-"https://leg.colorado.gov/bills/hb24-1235",
-"https://leg.colorado.gov/bills/hb24-1258",
-"https://leg.colorado.gov/bills/hb25-1002",
-"https://leg.colorado.gov/bills/hb25-1027",
-"https://leg.colorado.gov/bills/hb25-1063",
-"https://leg.colorado.gov/bills/hb25-1091",
-"https://leg.colorado.gov/bills/hb25-1092",
-"https://leg.colorado.gov/bills/hb25-1094",
-"https://leg.colorado.gov/bills/hb25-1096",
-"https://leg.colorado.gov/bills/hb25-1109",
-"https://leg.colorado.gov/bills/hb25-1154",
-"https://leg.colorado.gov/bills/hb25-1182",
-"https://leg.colorado.gov/bills/hb25-1205",
-"https://leg.colorado.gov/bills/hb25-1259",
-"https://leg.colorado.gov/bills/hb25-1309",
-"https://leg.colorado.gov/bills/hb25-1372",
-"https://leg.colorado.gov/bills/hb25-1429",
-"https://leg.colorado.gov/bills/hb25-163",
-"https://leg.colorado.gov/bills/hb25b-1006",
-"https://leg.colorado.gov/bills/hb26-1002",
-"https://leg.colorado.gov/bills/hb26-1070",
-"https://leg.colorado.gov/bills/hb26-1147",
-"https://leg.colorado.gov/bills/hb26-1174",
-"https://leg.colorado.gov/bills/hb26-1175",
-"https://leg.colorado.gov/bills/hb26-1178",
-"https://leg.colorado.gov/bills/hb26-1289",
-"https://leg.colorado.gov/bills/hb26-1347",
-"https://leg.colorado.gov/bills/hb26-1348",
-"https://leg.colorado.gov/bills/hb26-1349",
-"https://leg.colorado.gov/bills/hb26-1356",
-"https://leg.colorado.gov/bills/hb26-1385",
-"https://leg.colorado.gov/bills/hb26-1390",
-"https://leg.colorado.gov/bills/hb26-1394",
-"https://leg.colorado.gov/bills/hb26-1396",
-"https://leg.colorado.gov/bills/hb26-1398",
-"https://leg.colorado.gov/bills/hb26-1405",
-"https://leg.colorado.gov/bills/hb26-1407",
-"https://leg.colorado.gov/bills/hb26-1408",
-"https://leg.colorado.gov/bills/hb26-1409",
-"https://leg.colorado.gov/bills/hb26-1413",
-"https://leg.colorado.gov/bills/hb26-1416",
-"https://leg.colorado.gov/bills/hb26-1419",
-"https://leg.colorado.gov/bills/hb26-1423",
-"https://leg.colorado.gov/bills/hb6-1425",
-"https://leg.colorado.gov/bills/sb25-010",
-"https://leg.colorado.gov/bills/sb25-048",
-"https://leg.colorado.gov/bills/sb25-083",
-"https://leg.colorado.gov/bills/sb25-182",
-"https://leg.colorado.gov/bills/sb25-299",
-"https://leg.colorado.gov/bills/sb26-003",
-"https://leg.colorado.gov/bills/sb26-006",
-"https://leg.colorado.gov/bills/sb26-032",
-"https://leg.colorado.gov/bills/sb26-155",
-"https://leg.colorado.gov/bills/sb26-178",
-"https://leg.colorado.gov/bills/sb26-181",
-"https://leg.colorado.gov/bills/sb26-187",
-"https://leg.colorado.gov/bills/sb26-289",
-"https://secure.actblue.com/donate/kyleforcolorado2024",
-"https://subscribe.wordpress.com/",
-"https://wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fkyleforcolorado.com%2Fresults-matter%2F",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fkyleforcolorado.com%252Fresults-matter%252F",
-"https://wordpress.com/start",
-"https://wp.me/P9GhS8-ph"
+{
+"text": "Contact Me",
+"href": "https://kyleforcolorado.com/contact-me/"
+},
+{
+"text": "Contáctame",
+"href": "https://kyleforcolorado.com/contactame/"
+},
+{
+"text": "Copy shortlink",
+"href": "https://wp.me/P9GhS8-ph"
+},
+{
+"text": "Distrito 12",
+"href": "https://kyleforcolorado.com/distrito-12/"
+},
+{
+"text": "Donate.",
+"href": "https://secure.actblue.com/donate/kyleforcolorado2024"
+},
+{
+"text": "HB24-1091",
+"href": "https://leg.colorado.gov/bills/hb25-1091"
+},
+{
+"text": "HB24-1235",
+"href": "https://leg.colorado.gov/bills/hb24-1235"
+},
+{
+"text": "HB24-1258",
+"href": "https://leg.colorado.gov/bills/hb24-1258"
+},
+{
+"text": "HB25-1002",
+"href": "https://leg.colorado.gov/bills/hb25-1002"
+},
+{
+"text": "HB25-1027",
+"href": "https://leg.colorado.gov/bills/hb25-1027"
+},
+{
+"text": "HB25-1063",
+"href": "https://leg.colorado.gov/bills/hb25-1063"
+},
+{
+"text": "HB25-1092",
+"href": "https://leg.colorado.gov/bills/hb25-1092"
+},
+{
+"text": "HB25-1094",
+"href": "https://leg.colorado.gov/bills/hb25-1094"
+},
+{
+"text": "HB25-1096",
+"href": "https://leg.colorado.gov/bills/hb25-1096"
+},
+{
+"text": "HB25-1109",
+"href": "https://leg.colorado.gov/bills/hb25-1109"
+},
+{
+"text": "HB25-1154",
+"href": "https://leg.colorado.gov/bills/hb25-1154"
+},
+{
+"text": "HB25-1182",
+"href": "https://leg.colorado.gov/bills/hb25-1182"
+},
+{
+"text": "HB25-1205",
+"href": "https://leg.colorado.gov/bills/hb25-1205"
+},
+{
+"text": "HB25-1259",
+"href": "https://leg.colorado.gov/bills/hb25-1259"
+},
+{
+"text": "HB25-1309",
+"href": "https://leg.colorado.gov/bills/hb25-1309"
+},
+{
+"text": "HB25B-1006",
+"href": "https://leg.colorado.gov/bills/hb25b-1006"
+},
+{
+"text": "HB26-1002",
+"href": "https://leg.colorado.gov/bills/hb26-1002"
+},
+{
+"text": "HB26-1070",
+"href": "https://leg.colorado.gov/bills/hb26-1070"
+},
+{
+"text": "HB26-1147",
+"href": "https://leg.colorado.gov/bills/hb26-1147"
+},
+{
+"text": "HB26-1174",
+"href": "https://leg.colorado.gov/bills/hb26-1174"
+},
+{
+"text": "HB26-1175",
+"href": "https://leg.colorado.gov/bills/hb26-1175"
+},
+{
+"text": "HB26-1178",
+"href": "https://leg.colorado.gov/bills/hb26-1178"
+},
+{
+"text": "HB26-1289",
+"href": "https://leg.colorado.gov/bills/hb26-1289"
+},
+{
+"text": "HB26-1347",
+"href": "https://leg.colorado.gov/bills/hb26-1347"
+},
+{
+"text": "HB26-1348",
+"href": "https://leg.colorado.gov/bills/hb26-1348"
+},
+{
+"text": "HB26-1349",
+"href": "https://leg.colorado.gov/bills/hb26-1349"
+},
+{
+"text": "HB26-1356",
+"href": "https://leg.colorado.gov/bills/hb26-1356"
+},
+{
+"text": "HB26-1372",
+"href": "https://leg.colorado.gov/bills/hb25-1372"
+},
+{
+"text": "HB26-1385",
+"href": "https://leg.colorado.gov/bills/hb26-1385"
+},
+{
+"text": "HB26-1390",
+"href": "https://leg.colorado.gov/bills/hb26-1390"
+},
+{
+"text": "HB26-1394",
+"href": "https://leg.colorado.gov/bills/hb26-1394"
+},
+{
+"text": "HB26-1396",
+"href": "https://leg.colorado.gov/bills/hb26-1396"
+},
+{
+"text": "HB26-1398",
+"href": "https://leg.colorado.gov/bills/hb26-1398"
+},
+{
+"text": "HB26-1405",
+"href": "https://leg.colorado.gov/bills/hb26-1405"
+},
+{
+"text": "HB26-1407",
+"href": "https://leg.colorado.gov/bills/hb26-1407"
+},
+{
+"text": "HB26-1408",
+"href": "https://leg.colorado.gov/bills/hb26-1408"
+},
+{
+"text": "HB26-1409",
+"href": "https://leg.colorado.gov/bills/hb26-1409"
+},
+{
+"text": "HB26-1413",
+"href": "https://leg.colorado.gov/bills/hb26-1413"
+},
+{
+"text": "HB26-1416",
+"href": "https://leg.colorado.gov/bills/hb26-1416"
+},
+{
+"text": "HB26-1419",
+"href": "https://leg.colorado.gov/bills/hb26-1419"
+},
+{
+"text": "HB26-1423",
+"href": "https://leg.colorado.gov/bills/hb26-1423"
+},
+{
+"text": "HB26-1425",
+"href": "https://leg.colorado.gov/bills/hb6-1425"
+},
+{
+"text": "HB26-1429",
+"href": "https://leg.colorado.gov/bills/hb25-1429"
+},
+{
+"text": "HJR26-1022",
+"href": "https://leg.colorado.gov/bills/HJR26-1022"
+},
+{
+"text": "Home",
+"href": "https://kyleforcolorado.com/"
+},
+{
+"text": "Inicio",
+"href": "https://kyleforcolorado.com/valores-progresivos-resultados-comprobados/"
+},
+{
+"text": "Kyle Brown: State Representative",
+"href": "https://kyleforcolorado.com/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fkyleforcolorado.com%252Fresults-matter%252F"
+},
+{
+"text": "Los Resultados Importan",
+"href": "https://kyleforcolorado.com/los-resultados-importan/"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "Mi Historia",
+"href": "https://kyleforcolorado.com/mi-cuento/"
+},
+{
+"text": "My Story",
+"href": "https://kyleforcolorado.com/my-story/"
+},
+{
+"text": "Newsletters",
+"href": "https://kyleforcolorado.com/newsletters/"
+},
+{
+"text": "Noticias",
+"href": "https://kyleforcolorado.com/noticias/"
+},
+{
+"text": "Our District: HD12",
+"href": "https://kyleforcolorado.com/hd12/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fkyleforcolorado.com%2Fresults-matter%2F"
+},
+{
+"text": "Results Matter",
+"href": "https://kyleforcolorado.com/results-matter/"
+},
+{
+"text": "SB25-010",
+"href": "https://leg.colorado.gov/bills/sb25-010"
+},
+{
+"text": "SB25-048",
+"href": "https://leg.colorado.gov/bills/sb25-048"
+},
+{
+"text": "SB25-083",
+"href": "https://leg.colorado.gov/bills/sb25-083"
+},
+{
+"text": "SB25-163",
+"href": "https://leg.colorado.gov/bills/hb25-163"
+},
+{
+"text": "SB25-182",
+"href": "https://leg.colorado.gov/bills/sb25-182"
+},
+{
+"text": "SB25-289",
+"href": "https://leg.colorado.gov/bills/sb26-289"
+},
+{
+"text": "SB25-299",
+"href": "https://leg.colorado.gov/bills/sb25-299"
+},
+{
+"text": "SB26-003",
+"href": "https://leg.colorado.gov/bills/sb26-003"
+},
+{
+"text": "SB26-006",
+"href": "https://leg.colorado.gov/bills/sb26-006"
+},
+{
+"text": "SB26-032",
+"href": "https://leg.colorado.gov/bills/sb26-032"
+},
+{
+"text": "SB26-155",
+"href": "https://leg.colorado.gov/bills/sb26-155"
+},
+{
+"text": "SB26-178",
+"href": "https://leg.colorado.gov/bills/sb26-178"
+},
+{
+"text": "SB26-181",
+"href": "https://leg.colorado.gov/bills/sb26-181"
+},
+{
+"text": "SB26-187",
+"href": "https://leg.colorado.gov/bills/sb26-187"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://kyleforcolorado.com/results-matter/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://kyleforcolorado.com/results-matter/?share=twitter"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Support My Campaign",
+"href": "https://kyleforcolorado.com/donate/"
+},
+{
+"text": "[image]Kyle Brown: State Representative",
+"href": "https://kyleforcolorado.com"
+},
+{
+"text": "[tooltip: Create a website or blog at WordPress.com]",
+"href": "https://wordpress.com/"
+},
+{
+"text": "kyleforcolorado@gmail.com",
+"href": "mailto:kyleforcolorado@gmail.com"
+},
+{
+"text": "Únete a Nuestra Campaña",
+"href": "https://kyleforcolorado.com/unete-a-nuestra-campana/"
+}
 ]

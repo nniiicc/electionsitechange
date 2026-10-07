@@ -1,22 +1,102 @@
 [
-"https://secure.winred.com/tim-mihalick-for-nd/donate",
-"https://secure.winred.com/tim-mihalick-for-nd/donate?amount=100",
-"https://secure.winred.com/tim-mihalick-for-nd/donate?amount=1000",
-"https://secure.winred.com/tim-mihalick-for-nd/donate?amount=200",
-"https://secure.winred.com/tim-mihalick-for-nd/donate?amount=25",
-"https://secure.winred.com/tim-mihalick-for-nd/donate?amount=50",
-"https://secure.winred.com/tim-mihalick-for-nd/donate?amount=500",
-"https://secure.winred.com/tim-mihalick-for-nd/donate?amount=750",
-"https://secure.winred.com/tim-mihalick-for-nd/donate?amount=other",
-"https://timfornd.com/",
-"https://timfornd.com/about",
-"https://timfornd.com/deslauriers-mihalick-top-district-3-republican-house-race",
-"https://timfornd.com/district-3-house-candidates-tim-mihalick-and-blaine-deslauriers-join-rob-port-on-plain-talk",
-"https://timfornd.com/get-involved",
-"https://timfornd.com/governor-kelly-armstrong-announces-first-round-of-endorsements-ahead-of-june-primary",
-"https://timfornd.com/home",
-"https://timfornd.com/minot-candidates-announce-joint-run-for-nd-house-in-district-3",
-"https://timfornd.com/news",
-"https://timfornd.com/tim-mihalick-and-blaine-deslauriers-announce-joint-campaign-for-north-dakota-house-of-representatives-in-district-3",
-"https://timfornd.com/vote"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate?amount=100"
+},
+{
+"text": "$200",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate?amount=200"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate?amount=500"
+},
+{
+"text": "$750",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate?amount=750"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate"
+},
+{
+"text": "DesLauriers, Mihalick top District 3 Republican House race",
+"href": "https://timfornd.com/deslauriers-mihalick-top-district-3-republican-house-race/"
+},
+{
+"text": "District 3 House Candidates Tim Mihalick and Blaine DesLauriers Join Rob Port on Plain Talk",
+"href": "https://timfornd.com/district-3-house-candidates-tim-mihalick-and-blaine-deslauriers-join-rob-port-on-plain-talk/"
+},
+{
+"text": "Get Involved",
+"href": "https://timfornd.com/get-involved/"
+},
+{
+"text": "Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary",
+"href": "https://timfornd.com/governor-kelly-armstrong-announces-first-round-of-endorsements-ahead-of-june-primary/"
+},
+{
+"text": "Meet Tim",
+"href": "https://timfornd.com/about/"
+},
+{
+"text": "Minot candidates announce joint run for ND House in District 3",
+"href": "https://timfornd.com/minot-candidates-announce-joint-run-for-nd-house-in-district-3/"
+},
+{
+"text": "News",
+"href": "https://timfornd.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate?amount=other"
+},
+{
+"text": "Priorities",
+"href": "https://timfornd.com/home/#priorities"
+},
+{
+"text": "Read More",
+"href": "https://timfornd.com/deslauriers-mihalick-top-district-3-republican-house-race/"
+},
+{
+"text": "Read More",
+"href": "https://timfornd.com/district-3-house-candidates-tim-mihalick-and-blaine-deslauriers-join-rob-port-on-plain-talk/"
+},
+{
+"text": "Read More",
+"href": "https://timfornd.com/governor-kelly-armstrong-announces-first-round-of-endorsements-ahead-of-june-primary/"
+},
+{
+"text": "Read More",
+"href": "https://timfornd.com/minot-candidates-announce-joint-run-for-nd-house-in-district-3/"
+},
+{
+"text": "Read More",
+"href": "https://timfornd.com/tim-mihalick-and-blaine-deslauriers-announce-joint-campaign-for-north-dakota-house-of-representatives-in-district-3/"
+},
+{
+"text": "Tim Mihalick and Blaine DesLauriers Announce Joint Campaign for North Dakota House of Representatives in District 3",
+"href": "https://timfornd.com/tim-mihalick-and-blaine-deslauriers-announce-joint-campaign-for-north-dakota-house-of-representatives-in-district-3/"
+},
+{
+"text": "Vote",
+"href": "https://timfornd.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://timfornd.com/"
+}
 ]

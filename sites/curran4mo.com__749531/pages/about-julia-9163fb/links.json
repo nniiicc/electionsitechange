@@ -1,10 +1,50 @@
 [
-"https://curran4mo.com/about-julia",
-"https://curran4mo.com/events",
-"https://curran4mo.com/get-involved",
-"https://curran4mo.com/home",
-"https://curran4mo.com/issues",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fcommittee-to-elect-julia-curran-1&sa=D&sntz=1&usg=AOvVaw3Km_BQ336M7hbZLZLpcglo",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61558182753878&sa=D&sntz=1&usg=AOvVaw0xoRkysN-tt0tQ0On4ooUq",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fcurran4missouri%2F&sa=D&sntz=1&usg=AOvVaw175LtCs1eq_QOB6hA1nDsv"
+{
+"text": "About Julia",
+"href": "https://www.curran4mo.com/about-julia"
+},
+{
+"text": "Curran4Missouri",
+"href": "https://www.curran4mo.com/home"
+},
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fcommittee-to-elect-julia-curran-1&sa=D&sntz=1&usg=AOvVaw3Km_BQ336M7hbZLZLpcglo"
+},
+{
+"text": "Events",
+"href": "https://www.curran4mo.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.curran4mo.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.curran4mo.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.curran4mo.com/issues"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61558182753878&sa=D&sntz=1&usg=AOvVaw0xoRkysN-tt0tQ0On4ooUq"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fcurran4missouri%2F&sa=D&sntz=1&usg=AOvVaw175LtCs1eq_QOB6hA1nDsv"
+},
+{
+"text": "[image]",
+"href": "https://www.curran4mo.com/home"
+},
+{
+"text": "[image]Curran4Missouri",
+"href": "https://www.curran4mo.com/home"
+},
+{
+"text": "campaign@curran4mo.com",
+"href": "mailto:campaign@curran4mo.com"
+}
 ]

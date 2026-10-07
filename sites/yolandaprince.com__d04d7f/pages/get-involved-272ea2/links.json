@@ -1,10 +1,50 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/yolandaprinceforthepeople",
-"https://yolandaprince.com/",
-"https://yolandaprince.com/about",
-"https://yolandaprince.com/get-involved",
-"https://yolandaprince.com/issues"
+{
+"text": "430-201-3371",
+"href": "tel:4302013371"
+},
+{
+"text": "About",
+"href": "https://yolandaprince.com/about"
+},
+{
+"text": "Contribute Now",
+"href": "https://secure.actblue.com/donate/yolandaprinceforthepeople"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/yolandaprinceforthepeople"
+},
+{
+"text": "Get Involved",
+"href": "https://yolandaprince.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://yolandaprince.com/"
+},
+{
+"text": "Issues",
+"href": "https://yolandaprince.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Yolanda is in! Chip in $5 right now.",
+"href": "https://secure.actblue.com/donate/yolandaprinceforthepeople"
+},
+{
+"text": "[image: Yolanda R. Prince for Congress]",
+"href": "https://yolandaprince.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

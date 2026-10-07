@@ -1,6 +1,3 @@
-County resolution would establish task force to recommend policies addressing violence against women
-Cook County Comm.
-Donna Miller (D-6) speaks about her Violence Against Women Task Force resolution at a board meeting on Oct. 23, 2025…
-Written By Guest User
-Previous
-Next
+0 Skip to Content Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Open Menu Close Menu Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Open Menu Close Menu Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate County resolution would establish task force to recommend policies addressing violence against women Oct 23 Written By Guest User Cook County Comm.
+Donna Miller (D-6) speaks about her Violence Against Women Task Force resolution at a board meeting on Oct.
+23, 2025… Guest User Previous Previous Donna Miller Files Petitions for 2nd Congressional District Seat Next Next Veterans reassured that County services remain open during federal government shutdown Media Center Please make checks payable to: Donna Miller for Congress PO Box 52 Glenwood, IL 60425 Paid for by Donna Miller for Congress

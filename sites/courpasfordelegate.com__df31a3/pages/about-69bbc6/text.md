@@ -1,43 +1,14 @@
-From her deep Carroll County roots to her years of community leadership, Corynne’s campaign is grounded in service, integrity, and a strong commitment to local families and small businesses.
+0 Skip to Content Corynne Courpas for State Delegate About Endorsements News Events Gallery Volunteer Contact DONATE Open Menu Close Menu Corynne Courpas for State Delegate About Endorsements News Events Gallery Volunteer Contact DONATE Open Menu Close Menu About Endorsements News Events Gallery Volunteer Contact DONATE From her deep Carroll County roots to her years of community leadership, Corynne’s campaign is grounded in service, integrity, and a strong commitment to local families and small businesses.
 Watch her candidate profile to learn more.
-About Corynne
-A Personal Note from Corynne
-I spent my early years in Baltimore, and that city energy has always stayed with me.
+About Corynne A Personal Note from Corynne I spent my early years in Baltimore, and that city energy has always stayed with me.
 My family later moved to Reisterstown, where I graduated from Franklin High School.
 In 1972, I came to Westminster to attend Western Maryland College (now McDaniel College) and decided to make it my permanent home in 1977.
 Since then, I’ve worked to give back to this community that has given me so much.
 Although I don’t have children of my own, I’m deeply involved in the lives of my nieces and nephews, and I’m committed to helping make Carroll County an even better place for their futures.
 You can learn more about my educational, professional, and community service background below.
-- Masters in Business Administration 1987, University of Baltimore.
-- Bachelor of Arts, Biology 1976, Western Maryland College, now McDaniel College.
-- Sales & Marketing, Performance Foodservice 1987-October 2020 (retired)
-- Part-time employee & active participant in family-owned business, Frisco Family Pub 1977-1995
-- Medical Technology, Springfield Hospital Center 1976-1987
-- Chair, McDaniel Heritage Society (current)
-- Board Member, Carroll County Arts Council (2025-present)
-- President, Arc Board of Directors (2020-2026)
-- President, Carroll County Torch Club (2022-2025)
-- Secretary, Maryland Democratic Party (2022-present)
-- Chair, Carroll County Democratic Central Committee (2022-2024)
-- President, Carroll County American Wine Society (2020-2022)
-- Treasurer, Carroll County Democratic Central Committee (2010-2022)
-- President, Alumni Council McDaniel College (2007-2009)
-- Secretary, Carroll County Democratic Central Committee (1999-2003)
-- President, YMCA Board of Managers (1999-2001)
-- Western Maryland PAC Summit Committee Member (2020-present)
-- Arc Carroll member (ongoing 20+ years)
-- Carroll County Historical Society (ongoing)
-- Carroll County Arts Council (ongoing)
-- Carroll County League of Women Voters (ongoing)
-- McDaniel College volunteer (ongoing)
-- Friend of Carroll County Public Library (ongoing)
-- Political involvement in local, state, and national Democratic activities (ongoing)
-- Carroll County Democratic Club (ongoing)
-- Carroll County American Wine Society (ongoing)
-- YMCA Board of Managers (1995-2001)
-- Arc Carroll Volunteer of the Year (2025)
-- Convention Delegate for Kamala Harris (May 2024)
-- Alumnus of the Year, McDaniel College (2023)
-- Served as Biden/Harris Elector to the Electoral College (2020)
-- Lifetime Achievement Award from Local Democratic Party (2017)
-- McDaniel College Annual Alumni Service Award (2014)
+Education Masters in Business Administration 1987, University of Baltimore.
+Bachelor of Arts, Biology 1976, Western Maryland College, now McDaniel College.
+Professional Sales & Marketing, Performance Foodservice 1987-October 2020 (retired) Part-time employee & active participant in family-owned business, Frisco Family Pub 1977-1995 Medical Technology, Springfield Hospital Center 1976-1987 Leadership Positions Chair, McDaniel Heritage Society (current) Board Member, Carroll County Arts Council (2025-present) President, Arc Board of Directors (2020-2026) President, Carroll County Torch Club (2022-2025) Secretary, Maryland Democratic Party (2022-present) Chair, Carroll County Democratic Central Committee (2022-2024) President, Carroll County American Wine Society (2020-2022) Treasurer, Carroll County Democratic Central Committee (2010-2022) President, Alumni Council McDaniel College (2007-2009) Secretary, Carroll County Democratic Central Committee (1999-2003) President, YMCA Board of Managers (1999-2001) Community Service Western Maryland PAC Summit Committee Member (2020-present) Arc Carroll member (ongoing 20+ years) Carroll County Historical Society (ongoing) Carroll County Arts Council (ongoing) Carroll County League of Women Voters (ongoing) McDaniel College volunteer (ongoing) Friend of Carroll County Public Library (ongoing) Political involvement in local, state, and national Democratic activities (ongoing) Carroll County Democratic Club (ongoing) Carroll County American Wine Society (ongoing) YMCA Board of Managers (1995-2001) Honors & Awards Arc Carroll Volunteer of the Year (2025) Convention Delegate for Kamala Harris (May 2024) Alumnus of the Year, McDaniel College (2023) Served as Biden/Harris Elector to the Electoral College (2020) Lifetime Achievement Award from Local Democratic Party (2017) McDaniel College Annual Alumni Service Award (2014) SUPPORT CORYNNE!
+Your Voice in Annapolis Starts Here!
+Corynne Courpas Candidate for Maryland House of Delegates, District 42C Authority Corynne Courpas for Delegate, Francine Hahn, Treasurer Made with Squarespace Contact 410-259-7509 CourpasForDelegate@gmail.com P.O.
+Box 1261 Westminster, MD 21158

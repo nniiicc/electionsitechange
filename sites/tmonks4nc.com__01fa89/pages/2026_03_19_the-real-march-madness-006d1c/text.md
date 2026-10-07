@@ -1,4 +1,4 @@
-Call me crazy, but I think the real madness this March isn’t happening on a basketball court—it’s happening, and has been happening, right here in North Carolina.
+Skip to content HOME About The CandiDate Donate The Agenda for Change Website Privacy Policy Cookie Policy March 19, 2026 The Real March Madness tmonks4nc Call me crazy, but I think the real madness this March isn’t happening on a basketball court—it’s happening, and has been happening, right here in North Carolina.
 While millions of Americans are glued to March Madness brackets, debating upsets and Cinderella stories, our state is living through a very different kind of bracket—one where every round has the same outcome: delay, dysfunction, and a legislature that still hasn’t done its most basic job.
 Passing a budget shouldn’t be dramatic.
 It shouldn’t be suspenseful.
@@ -51,3 +51,10 @@ No more drama.
 No more excuses.
 No more waiting.
 Just pass the budget.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted in: Uncategorized ← Previous: What It Means to Be Progressive — and Why Moving Forward Matters Next: 2026 General Election Voting in Cabarrus County → Leave a Reply Cancel reply Together: Not Me.
+Not You.
+US.
+EVENTS DONATE VOLUNTEER Cookie Policy Privacy Policy About Thomas Events Platform Register to Vote Events Platform Register to Vote Facebook Instagram TikTok Bluesky X YouTube Discover more from Thomas Monks 4 North Carlona Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

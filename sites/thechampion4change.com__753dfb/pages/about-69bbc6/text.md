@@ -1,13 +1,10 @@
-Bobby Joe Champion was born on December 17, 1963, graduated from North High School and is a life-long resident of North Minneapolis.
-Bobby Joe is a
-lifelong resident of North Minneapolis, a father of three and he currently lives in the Lyn Park neighborhood with his wife Angela, a pharmacist.
+top of page WELCOME ABOUT ISSUES VOLUNTEER DONATE ABOUT BOBBY JOE ​Bobby Joe Champion was born on December 17, 1963, graduated from North High School and is a life-long resident of North Minneapolis.
+Bobby Joe is a lifelong resident of North Minneapolis, a father of three and he currently lives in the Lyn Park neighborhood with his wife Angela, a pharmacist.
 While growing up, Bobby Joe loved to watch Perry Mason, and after graduating from high school Bobby knew that he wanted to become a lawyer.
-What type of lawyer he wanted to be was unclear until his exposure to the entertainment business.
-Bobby's passion for music grew from directing his church choir as a teenager for many years.
-He had no idea that eventually his own choir, Excelsior, would develop into a Stellar Award winning and Grammy-nominated choir and receive nationwide exposure.
-After leading the choir for 33 years, Excelsior is a 30-member group along with backup musicians, which has produced over 7 CD's.
-In his career, he has worked for Flyte Tyme Productions and Flyte Tyme’s Grammy Award winning producers Terry Lewis and James “Jimmy Jam” Harris.
-Outside of his passion for music, Bobby Joe also went on to graduate from Macalester College and William Mitchell College of Law.
+What type of lawyer he wanted to be was unclear until his exposure to the entertainment business. ​ Bobby's passion for music grew from directing his church choir as a teenager for many years.
+He had no idea that eventually his own choir, Excelsior, would develop into a Stellar Award winning and Grammy-nominated choir and receive nationwide exposure. ​​ After leading the choir for 33 years, Excelsior is a 30-member group along with backup musicians, which has produced over 7 CD's.
+In his career, he has worked for Flyte Tyme Productions and Flyte Tyme’s Grammy Award winning producers Terry Lewis and James “Jimmy Jam” Harris. ​ Outside of his passion for music, Bobby Joe also went on to graduate from Macalester College and William Mitchell College of Law.
 Bobby Joe is now a practicing attorney with a skill set of negotiation, extensive legal and business analysis, and advocacy.
 His past involvement includes serving as Program Director of Social Spaces with Stairstep Initiative and Executive Director of the National Association of Minority Contractors, Upper Midwest Chapter, the organization that promotes inclusion of people of color and women in the construction industry.
-He has also served with Minnesota Attorney General Keith Ellison as an attorney with the Legal Rights Center and as an Assistant Attorney General under both Skip Humphrey and Mike Hatch.
+He has also served with Minnesota Attorney General Keith Ellison as an attorney with the Legal Rights Center and as an Assistant Attorney General under both Skip Humphrey and Mike Hatch. ​​ Bobby Joe was elected to the Minnesota State Senate in 2012 and has focused on job creation, ending the home foreclosure crisis in North Minneapolis, protecting and restoring civil rights for Minnesotans, including ex-felons, and promoting good public schools.
+Please check the Agenda page to view his legislative agenda and bills authored. bottom of page

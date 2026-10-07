@@ -1,4 +1,5 @@
-Recently on October 25, 2023, County Commissioner Ernie VanGilder made false and half truth statements at a luncheon hosted by Delegate Phil Mallow who backed him up on his claims and gave him his support.
+Navigation Meet Guy Issues Updates Endorsements Volunteer Donate Contact Meet Guy Issues Updates Endorsements Volunteer Donate Contact News County Commissioner Ernie VanGilder Makes False and Half Truth Statements at Delegate Phil Mallow’s Luncheon about Civil Suit filed by former Delegate Guy Ward against the Marion County Commission.
+Guy Ward November 18, 2023 Uncategorized Recently on October 25, 2023, County Commissioner Ernie VanGilder made false and half truth statements at a luncheon hosted by Delegate Phil Mallow who backed him up on his claims and gave him his support.
 The false statements pertained to a lawsuit filed by former Delegate Guy Ward.
 The lawsuit basically stated that on April 26, 2023, the Marion County Commission willfully violated the Open Government Meetings Act by placing on their agenda and approving the hiring of Mr.
 Matthew Offutt to the position of Director of Media and Events.
@@ -12,13 +13,12 @@ It’s interesting that he was dismissed just a few days after the suit was file
 One might speculate that the suit had something to do with the dismissal.
 Regardless, the fact is Delegate Ward did not file suit after Mr.
 Offutt was terminated as Commissioner VanGilder claims.
-Here’s a copy of the complaint filed in Circuit Court with the date up in the top right hand corner to disprove the false claim by Ernie VanGilder:
-There is no excuse for VanGilder not to know this because when he was served a notice of the lawsuit, the date that the complaint was filed in court should’ve been on the papers.
+Here’s a copy of the complaint filed in Circuit Court with the date up in the top right hand corner to disprove the false claim by Ernie VanGilder: There is no excuse for VanGilder not to know this because when he was served a notice of the lawsuit, the date that the complaint was filed in court should’ve been on the papers.
 Regardless, it was public knowledge that the suit was filed before Mr.
 Offutt’s employment was terminated.
 Rumors started circulating almost immediately in the Courthouse.
-It was first reported in the news by WDTV Channel 5 on August 16th and then by West Virginia News on August 17th.
-It had extensive coverage in the Times West Virginian on August 20th.
+It was first reported in the news by WDTV Channel 5 on August 16th and then by West Virginia News on August 17th .
+It had extensive coverage in the Times West Virginian on August 20th .
 So, why would VanGilder make a false statement as to when the suit was filed?
 Is he trying to hide something?
 VanGilder also claimed that they had budgeted for the position of Director of Media and Events two months earlier before they hired for the position.
@@ -43,17 +43,14 @@ Regardless, this claim that VanGilder made about a budget revision was not part 
 However, Delegate Ward might’ve mentioned that he didn’t see any budget revisions for this new position in an interview or press release before Offutt was hired, which would be a true statement because there wasn’t any.
 VanGilder also said that they shouldn’t have settled out of court and that it was nonsense to do so.
 He also made the false claim that he was out voted.
-That’s not true because he voted for annulling the Director of Media and Events Director and to negotiate an out of court settlement in a special meeting of the Commission on September 7th.
+That’s not true because he voted for annulling the Director of Media and Events Director and to negotiate an out of court settlement in a special meeting of the Commission on September 7th .
 If he felt that strongly about not settling out of court, why did he vote yes?
 Also, during the luncheon, VanGilder claims he doesn’t charge the County mileage for travel.
 That’s nice but, how many times does he travel long distances for the County?
 Sources say hardly ever.
 However, he may not charge the County for mileage, but during his first seven years as a Commissioner his business (V&W Electric) charged the County $37,240.46.
 State Codes says the following: “§6B-2-5.
-Ethical standards for elected and appointed officials and public employees.
-(b) Use of public office for private gain. — (1) A public official or public employee may not knowingly and intentionally use his or her office or the prestige of his or her office for his or her own private gain or that of another person.”
-Here’s a copy of the last page of nine pages of payments made to V&W Electric before the State Auditor’s office put a stop to it:
-Prior to his becoming a Commissioner, the County bought very little from V&W Electric.
+Ethical standards for elected and appointed officials and public employees. (b) Use of public office for private gain. — (1) A public official or public employee may not knowingly and intentionally use his or her office or the prestige of his or her office for his or her own private gain or that of another person.” Here’s a copy of the last page of nine pages of payments made to V&W Electric before the State Auditor’s office put a stop to it: Prior to his becoming a Commissioner, the County bought very little from V&W Electric.
 Records from the County Clerk’s office show that from 1996 through 2012, the County only spent a total of $5,396.40 at V&W Electric.
 That averages out to be about $338 per year over a 16-year period.
 However, things changed after VanGilder took office.
@@ -97,3 +94,4 @@ Delegate Ward didn’t have to do this.
 In the fall of 2019, House Speaker Roger Hanshaw told Delegate Ward that the Republican Legislative Caucus knew that he could get elected back to the House because two of the Democrat Delegates, Mike Caputo and Linda Longstreth, were running for other offices.
 Not only did they want him back, but they wanted him to get rid of Delegate Angelucci and help get another Republican from Marion County elected, which he did as he was asked to do.
 You can find a copy of the video of the Luncheon on Facebook (the false claims begin around 1:01:30).
+Facebook RSS Meet Guy Issues Updates Endorsements Volunteer Donate Contact Paid for by the Committee to Elect Guy Ward 45 Timrod Dr.| Whitehall, WV 26554

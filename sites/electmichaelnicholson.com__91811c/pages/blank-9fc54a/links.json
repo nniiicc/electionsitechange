@@ -1,6 +1,22 @@
 [
-"https://electmichaelnicholson.com/",
-"https://electmichaelnicholson.com/blank",
-"https://electmichaelnicholson.com/blank-1",
-"https://facebook.com/NicholsonForME"
+{
+"text": "Home",
+"href": "https://www.electmichaelnicholson.com"
+},
+{
+"text": "Meet Michael",
+"href": "https://www.electmichaelnicholson.com/blank"
+},
+{
+"text": "Platform",
+"href": "https://www.electmichaelnicholson.com/blank-1"
+},
+{
+"text": "[image: Michael-Nicholson---Maine-District-39-State-House-Candidate-logo]",
+"href": "https://www.electmichaelnicholson.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NicholsonForME"
+}
 ]

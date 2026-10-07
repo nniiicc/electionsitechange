@@ -1,5 +1,5 @@
-Stamford Advocate letter to the editor: I strongly support Eilish Collins Main
-On Aug. 13, residents of Downtown, Shippan, and the South End have an opportunity to regain a voice in Hartford.
+0 Skip to Content Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Stamford Advocate letter to the editor: I strongly support Eilish Collins Main Aug 8 Written By Miles Halpine On Aug.
+13, residents of Downtown, Shippan, and the South End have an opportunity to regain a voice in Hartford.
 The candidate best prepared to advance your concerns, advocate on your behalf, and deliver for Stamford is Eilish Collins Main.
 Unfortunately, the current incumbent, David Michel, has chosen to use his position of public trust to advance his own agenda, ignoring the needs of his district and re-appearing every two years to beg for votes.
 Having run against him in 2022, I witnessed firsthand how disengaged he was, even taking credit for the successes of others within the Stamford delegation.
@@ -18,3 +18,5 @@ On Aug.13, let’s send a strong message that Stamford wants someone fighting fo
 Let’s finally relieve David Michel from the inconvenience of re-appearing in the 146th district every two years, only to rapidly disappear after each election.
 Eilish Collins Main has earned my vote.
 Thomas Concannon was an independent candidate in 2022 for state representatives in the 146th District.
+Miles Halpine Previous Previous News 12 Connecticut: Preview of the Democratic race for the 146th state House district that covers part of Stamford Next Next Stamford Advocate: Stamford Democrats to decide between David Michel and Eilish Collins Main in 146th CT House District primary Privacy Policy Paid for by Eilish Collins Main for CT, Christopher Brown, Treasurer.
+Approved by Eilish Collins Main.

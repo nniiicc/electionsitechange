@@ -1,22 +1,94 @@
 [
-"http://facebook.com/muckeyforsd",
-"http://twitter.com/erik_muckey",
-"https://erikmuckey.com/",
-"https://erikmuckey.com/about",
-"https://erikmuckey.com/cart",
-"https://erikmuckey.com/connect",
-"https://erikmuckey.com/issues-priorities",
-"https://erikmuckey.com/my-record-key-issues",
-"https://erikmuckey.com/vision-for-sd",
-"https://erikmuckey.com/voting-info",
-"https://erikmuckey.substack.com/",
-"https://google.com/maps/d/u/0/viewer?ceid=7039547&emci=40e92441-5446-ec11-9820-c896653b26c8&emdi=ca7ae9c6-5f46-ec11-9820-c896653b26c8&ll=43.57660726936624%2C-96.73548229316887&mid=1_HzuWmG5mq2dX8IbSnCYfqRdSPWb8dFg&z=13",
-"https://instagram.com/muckeyforsd",
-"https://linkedin.com/in/erikmuckey",
-"https://minnehahacounty.gov/dept/au/election/precinct_info/precinct_info.php",
-"https://sdsos.gov/elections-voting/upcoming-elections/general-information/default.aspx",
-"https://sdsos.gov/elections-voting/voting/absentee-voting.aspx",
-"https://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx",
-"https://secure.actblue.com/donate/erik-muckey-1",
-"https://vip.sdsos.gov/"
+{
+"text": "0",
+"href": "https://www.erikmuckey.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.erikmuckey.com/"
+},
+{
+"text": "Check Your Voter Registration",
+"href": "https://vip.sdsos.gov/"
+},
+{
+"text": "Connect",
+"href": "https://www.erikmuckey.com/connect"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/erik-muckey-1"
+},
+{
+"text": "Find your sample ballot",
+"href": "https://vip.sdsos.gov/"
+},
+{
+"text": "Folder: Issues & Priorities",
+"href": "https://www.erikmuckey.com/issues-priorities"
+},
+{
+"text": "Meet Erik",
+"href": "https://www.erikmuckey.com/about"
+},
+{
+"text": "My Record & Key Issues",
+"href": "https://www.erikmuckey.com/my-record-key-issues"
+},
+{
+"text": "Precinct information",
+"href": "https://www.minnehahacounty.gov/dept/au/election/precinct_info/precinct_info.php"
+},
+{
+"text": "Register to vote",
+"href": "https://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx"
+},
+{
+"text": "Stay Updated",
+"href": "https://erikmuckey.substack.com/"
+},
+{
+"text": "Vision for SD",
+"href": "https://www.erikmuckey.com/vision-for-sd"
+},
+{
+"text": "Voting Info",
+"href": "https://www.erikmuckey.com/voting-info"
+},
+{
+"text": "[image: Erik Muckey for District 15]",
+"href": "https://www.erikmuckey.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/maps/d/u/0/viewer?ceid=7039547&emci=40e92441-5446-ec11-9820-c896653b26c8&emdi=ca7ae9c6-5f46-ec11-9820-c896653b26c8&ll=43.57660726936624%2C-96.73548229316887&mid=1_HzuWmG5mq2dX8IbSnCYfqRdSPWb8dFg&z=13"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/muckeyforsd"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/erik_muckey"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/muckeyforsd"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/erikmuckey"
+},
+{
+"text": "absentee application",
+"href": "https://sdsos.gov/elections-voting/voting/absentee-voting.aspx"
+},
+{
+"text": "absentee voting info",
+"href": "https://sdsos.gov/elections-voting/voting/absentee-voting.aspx"
+},
+{
+"text": "election calendar",
+"href": "https://sdsos.gov/elections-voting/upcoming-elections/general-information/default.aspx"
+}
 ]

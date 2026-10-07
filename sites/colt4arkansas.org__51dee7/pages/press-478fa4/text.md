@@ -1,2 +1,3 @@
-In the News “I feel like I can make a difference and I’m running to win.” -Colt Shelby Blood, Roots, and Responsibility: Why I’m Supporting Colt Shelby for Governor by Dana Soller They Picked the Wrong Mountain!
-Read on Substack
+0 Skip to Content Home Issues Platform Voter Q&A Press Donate Open Menu Close Menu Home Issues Platform Voter Q&A Press Donate Open Menu Close Menu Home Issues Platform Voter Q&A Press Donate In the News “I feel like I can make a difference and I’m running to win.” -Colt Shelby Blood, Roots, and Responsibility: Why I’m Supporting Colt Shelby for Governor by Dana Soller They Picked the Wrong Mountain!
+Read on Substack Restoring trust, transparency, and accountability to the Governor's office.
+Contact 4723 Highway 41 Cecil, AR 72930 colt@colt4arkansas.org (479) 209-0177 Paid for by Colt Shelby for Arkansas.

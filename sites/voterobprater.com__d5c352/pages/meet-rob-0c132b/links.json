@@ -1,14 +1,70 @@
 [
-"https://facebook.com/voterobertprater",
-"https://registertovoteflorida.gov/home",
-"https://secure.anedot.com/robert-prater-for-florida-house-district/donate",
-"https://voteorangefl.gov/find-your-polling-place",
-"https://voterobprater.com/",
-"https://voterobprater.com/admin",
-"https://voterobprater.com/contact",
-"https://voterobprater.com/get-involved",
-"https://voterobprater.com/issues",
-"https://voterobprater.com/meet-rob",
-"https://voterobprater.com/privacy",
-"https://voteseminole.gov/how-to-vote/three-ways-to-vote"
+{
+"text": "Admin",
+"href": "https://voterobprater.com/admin"
+},
+{
+"text": "Contact",
+"href": "https://voterobprater.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/robert-prater-for-florida-house-district/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/robert-prater-for-florida-house-district/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://voterobprater.com/#endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://voterobprater.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://voterobprater.com/"
+},
+{
+"text": "Issues",
+"href": "https://voterobprater.com/issues"
+},
+{
+"text": "Meet Robert",
+"href": "https://voterobprater.com/meet-rob"
+},
+{
+"text": "PRATERDISTRICT 37",
+"href": "https://voterobprater.com/"
+},
+{
+"text": "Polling Place — Orange",
+"href": "https://voteorangefl.gov/find-your-polling-place/"
+},
+{
+"text": "Polling Place — Seminole",
+"href": "https://voteseminole.gov/how-to-vote/three-ways-to-vote/"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://voterobprater.com/privacy"
+},
+{
+"text": "Privacy Policy & Terms & Conditions",
+"href": "https://voterobprater.com/privacy"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovoteflorida.gov/home"
+},
+{
+"text": "See the Issues",
+"href": "https://voterobprater.com/issues"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/voterobertprater"
+}
 ]

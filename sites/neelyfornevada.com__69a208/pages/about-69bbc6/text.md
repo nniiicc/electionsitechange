@@ -1,5 +1,4 @@
-Get To Know Erica Neely
-If you’re a parent, homeowner, small business owner, or just someone tired of being ignored by Carson City, you need to know who Erica Neely is and why her fight is really your fight.
+Select Language Arabic Chinese (Simplified) Dutch English French German Italian Portuguese Russian Spanish Follow Follow Follow Home Meet Erica Where I Stand District 9 Photos News DONATE NOW DONATE NOW VOLUNTEER SIGNUP Select Language Arabic Chinese (Simplified) Dutch English French German Italian Portuguese Russian Spanish Home Meet Erica Where I Stand District 9 Photos News Get To Know Erica Neely If you’re a parent, homeowner, small business owner, or just someone tired of being ignored by Carson City, you need to know who Erica Neely is and why her fight is really your fight.
 Because Erica isn’t running for office to climb a ladder.
 She’s running because she got tired of being stepped on.
 Erica didn’t grow up with privilege.
@@ -13,8 +12,7 @@ Watching friends disappear into teen pregnancy, gangs, and hopelessness.
 Seeing what bad schools and broken policies actually do to kids.
 That matters.
 Because politicians who’ve never lived it don’t fix it.
-She Was a Democrat – Until Mugged by Reality
-Like in a lot of Hispanic families, Erica voted Democrat because that’s what “everyone else”did.
+She Was a Democrat – Until Mugged by Reality Like in a lot of Hispanic families, Erica voted Democrat because that’s what “everyone else” did.
 That’s what the media said “people like her” were supposed to do.
 Then she moved to Las Vegas to escape the growing problems and prices in California.
 Bought a home.
@@ -28,8 +26,7 @@ She realized the same policies she’d fled in California were being imported to
 So she re-registered as a Republican and hasn’t cast a Democrat ballot since.
 Not because someone told her to change.
 Because experience taught her to.
-Fighting for Sophia
-Erica married her husband, Laurence.
+Fighting for Sophia Erica married her husband, Laurence.
 Together they have six kids.
 They became foster parents.
 Nine foster children came through their home.
@@ -51,8 +48,7 @@ Sophia stayed.
 Today she’s adopted, thriving, and home.
 Navigating the adoption system was a nightmare – which fortunately had a happy ending.
 But that painful experience lives deep in Erica’s heart and drives her to fight for others.
-From Soccer Mom to Mama Bear
-With Sophia permanently adopted, Erica moved on.
+From Soccer Mom to Mama Bear With Sophia permanently adopted, Erica moved on.
 She coached youth soccer.
 Ran a tutoring business.
 Juggled work, kids, and bills like every other real family in District 9.
@@ -76,16 +72,14 @@ About violence.
 About chaos.
 About parents being shut out.
 One night, Laurence stopped her.
-“Why are you yelling at me?”
-That question changed everything.
+“Why are you yelling at me?” That question changed everything.
 Because Erica realized something many people never do.
 Complaining doesn’t protect your child.
 Action does.
 So she decided to pull her kids out of the Clark County school district and homeschool them.
 But when the Legislature tried to force homeschool families to adopt the same failing curriculum Erica had escaped, she took action again.
 David vs.
-Goliath – And Goliath Felt It
-Erica ran for school board in 2022.
+Goliath – And Goliath Felt It Erica ran for school board in 2022.
 Not as a politician.
 As a mom.
 She spoke plainly about discipline.
@@ -115,9 +109,8 @@ Twenty-to-one fundraising disadvantage.
 And she nearly knocked off the Speaker.
 That doesn’t happen unless voters are hungry for change.
 Real change.
-So real, in fact, that the Speaker decided not to seek re-election rather than face her again in 2026.
-What Erica Neely Means for YOU
-Electing Erica Neely isn’t about left vs. right.
+So real, in fact, that the Speaker decided not to seek re-election rather than face her again in 2026 .
+What Erica Neely Means for YOU Electing Erica Neely isn’t about left vs. right.
 It’s about right vs. wrong.
 It’s about whether Carson City finally starts listening to parents instead of lecturing them.
 It’s about safer schools, because she’s walked into principals’ offices and demanded answers.
@@ -139,13 +132,11 @@ Families who don’t have inside connections.
 She nearly shocked Nevada once.
 This time, the seat is open.
 And the only question left is whether voters are ready to send one of their own to Carson City.
-Vision & Mission
-Vision Statement: Empowering Las Vegas District 9 for a Thriving Future
-Mission: To foster a vibrant and inclusive community where small businesses flourish, education is a cornerstone of opportunity, and every voice is heard and valued.
+Vision & Mission Vision Statement: Empowering Las Vegas District 9 for a Thriving Future Mission: To foster a vibrant and inclusive community where small businesses flourish, education is a cornerstone of opportunity, and every voice is heard and valued.
 Striving to make a positive impact on the future of Nevada.
 For the journey towards a better tomorrow, a better Nevada today.
-SUPPORT ERICA’S CAMPAIGN
-$50
-$100
-$250
-$500
+SUPPORT ERICA’S CAMPAIGN BECAUSE OF WHAT WE CAN DO!
+Erica Neely for AD 9.
+Thank you for your donation. $# $# $# $#  Call ‪(702) 785-1160‬  Mail Erica Neely for Nevada 6545 S.
+Fort Apache Rd.
+Ste 135 PMB 215 LAS VEGAS, NV 89148  Email [email protected] Paid For By Erica Neely For Nevada Follow Follow Follow Follow Privacy Policy

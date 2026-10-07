@@ -1,5 +1,4 @@
-My Commitment to Fire & EMS Funding
-I initially ran on being—and have continued to be—a strong supporter of our volunteer fire departments and EMS organizations, because in District 88 these aren’t “nice-to-have” services.
+top of page Donate ABOUT Endorsement and Rankings Employment Education & Licenses Civic Involvement Major Accomplishments/Recognitions ISSUES Veteran Affairs VFDs and EMS Infrastructure & Technology COLAs for WV State Retirees Jobs Education Youth Illegal Drugs/Drug Abuse Elections & Term Limits Energy Government Health Public Safety & Consumer Protection Social Security & Taxation PHOTOS "On the Job" Photos Legislative Photos General Photos Family Photos My Commitment to Fire & EMS Funding I initially ran on being—and have continued to be—a strong supporter of our volunteer fire departments and EMS organizations, because in District 88 these aren’t “nice-to-have” services.
 They’re essential.
 When you call 911, you’re not calling a distant agency—you’re calling your neighbors.
 Supporting VFDs and EMS is one of the most basic responsibilities of government, and one of the smartest, most fiscally responsible uses of taxpayer dollars—especially when the state has budget surpluses.
@@ -11,13 +10,5 @@ I have (co)sponsored legislation that became law, including 2024 bills HB 5399 (
 In 2025, I (co)sponsored HB 2125 (newborn safety device) and successfully amended its provisions into SB 8 (providing additional sites and devices for newborn safe surrender).
 I also (co)sponsored HB 3148 (Firefighter Pilot CTE program) to help build the next generation of trained firefighters.
 During 2025 interim meetings, we also discussed the Volunteer Firefighter Tax Credit—up to $1,000—as a practical way to support recruitment and retention for the volunteers our communities depend on.
-For the 2026 Regular Session, I intend to reintroduce HB 3148 and advance additional legislation to:
-- Address county ambulance fees
-- Improve eligibility requirements for allocation of Fire Protection Funds
-- Advocate for sustained, reliable funding transfers so departments can plan ahead
-- Strengthen auditing and accountability to ensure funds are used efficiently and as intended
-Finally, I will introduce a Resolution for a Constitutional Amendment to reduce the threshold required to pass Fire and EMS levies, so communities that want to support their local departments have a fairer path to do so.
-VFDs and EMS
-| Bill | Title | Status | Committee | Step | Last Action | Title |
-| | To modify the state auditing practices of the volunteer and part-volunteer fire departments | Pending | Senate Government Organization | Committee | 02/29/24 | To modify the state auditing practices of the volunteer and part-volunteer fire departments |
-| | Directing transfer of moneys into fire protection funds at the end of each year | Signed | | | Effective Ninety Days from Passage - (June 3, 2024) | Directing transfer of moneys into fire protection funds at the end of each year |
+For the 2026 Regular Session, I intend to reintroduce HB 3148 and advance additional legislation to: Address county ambulance fees Improve eligibility requirements for allocation of Fire Protection Funds Advocate for sustained, reliable funding transfers so departments can plan ahead Strengthen auditing and accountability to ensure funds are used efficiently and as intended Finally, I will introduce a Resolution for a Constitutional Amendment to reduce the threshold required to pass Fire and EMS levies, so communities that want to support their local departments have a fairer path to do so.
+VFDs and EMS Bill Title Status Committee Step Last Action Title HB5399 To modify the state auditing practices of the volunteer and part-volunteer fire departments Pending Senate Government Organization Committee 02/29/24 To modify the state auditing practices of the volunteer and part-volunteer fire departments HB5128 Directing transfer of moneys into fire protection funds at the end of each year Signed Effective Ninety Days from Passage - (June 3, 2024) Directing transfer of moneys into fire protection funds at the end of each year 2024 Bills that I have lead or co-sponsored · Paid for by The Committee to Elect Rick Hillenbrand · © # All rights reserved – Privacy Policy Hosted and Maintained by WV Printing | Mineral County Print Shop LLC bottom of page

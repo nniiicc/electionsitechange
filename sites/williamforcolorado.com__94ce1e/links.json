@@ -1,14 +1,90 @@
 [
-"https://facebook.com/williamforcolorado",
-"https://secure.actblue.com/donate/williamforcoloradohome",
-"https://williamforcolorado.com/",
-"https://williamforcolorado.com/about",
-"https://williamforcolorado.com/campaign",
-"https://williamforcolorado.com/cart",
-"https://williamforcolorado.com/contact",
-"https://williamforcolorado.com/contact-the-campaign",
-"https://williamforcolorado.com/endorsements",
-"https://williamforcolorado.com/priorities",
-"https://williamforcolorado.com/volunteer",
-"https://x.com/WSLindstedt"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/williamforcoloradohome"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/williamforcoloradohome"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/williamforcoloradohome"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/williamforcoloradohome"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/williamforcoloradohome"
+},
+{
+"text": "0",
+"href": "https://www.williamforcolorado.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.williamforcolorado.com/"
+},
+{
+"text": "Click here to see more endorsements!",
+"href": "https://www.williamforcolorado.com/endorsements"
+},
+{
+"text": "Contact",
+"href": "https://www.williamforcolorado.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://www.williamforcolorado.com/contact-the-campaign"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/williamforcoloradohome"
+},
+{
+"text": "Endorsements",
+"href": "https://www.williamforcolorado.com/endorsements"
+},
+{
+"text": "Folder: Campaign",
+"href": "https://www.williamforcolorado.com/campaign"
+},
+{
+"text": "Home",
+"href": "https://www.williamforcolorado.com/"
+},
+{
+"text": "Learn More About William",
+"href": "https://www.williamforcolorado.com/about"
+},
+{
+"text": "Meet William",
+"href": "https://www.williamforcolorado.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/williamforcoloradohome"
+},
+{
+"text": "Priorities",
+"href": "https://www.williamforcolorado.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.williamforcolorado.com/volunteer"
+},
+{
+"text": "[image: William Lindstedt for State Senate]",
+"href": "https://www.williamforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/williamforcolorado"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/WSLindstedt"
+}
 ]

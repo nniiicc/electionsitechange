@@ -1,2 +1,3 @@
-Rooted in the 66th: March Farms – Bethlehem, CT August 6, 2026 March Farms of Bethlehem, CT has exploded with fresh produce and scenic vistas.
+Skip to primary navigation Skip to main content Skip to footer Karen Reddington-Hughes State Representative CT66 About Where I Stand News & Updates Our District Bethlehem Litchfield Morris Warren Woodbury Calendar Gallery Get Involved Rooted in the 66th: March Farms – Bethlehem, CT August 6, 2026 March Farms of Bethlehem, CT has exploded with fresh produce and scenic vistas.
 So fortunate to have this amazing farm in our 66th District!
+Filed Under: Uncategorized Donate Footer Vote Karen Reddington-Hughes State Representative for 66th District Our District Bethlehem Litchfield Morris Warren Woodbury Paid for by Reddington-Hughes for 66th, Joseph T Scott treasurer, approved by Karen Reddington-Hughes

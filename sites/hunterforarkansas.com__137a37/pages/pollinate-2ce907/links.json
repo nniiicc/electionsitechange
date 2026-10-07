@@ -1,16 +1,62 @@
 [
-"https://assets.zyrosite.com/ZzaY71GLU90D4AR0/campaign-buttons-34AefWbuGRvo2WBD.pdf",
-"https://assets.zyrosite.com/ZzaY71GLU90D4AR0/poster-A19l3EjrjWnCgciG.pdf",
-"https://facebook.com/profile.php?id=61586420812730",
-"https://hunterforarkansas.com/",
-"https://hunterforarkansas.com/believe",
-"https://hunterforarkansas.com/do-not-donate",
-"https://hunterforarkansas.com/most-interesting-veterinary-case",
-"https://hunterforarkansas.com/pollinate",
-"https://hunterforarkansas.com/videos",
-"https://hunterforarkansas.com/where-is-69",
-"https://instagram.com/hunterforarkansas?hl=en",
-"https://sos.arkansas.gov/elections/voter-information/voter-registration-information",
-"https://voterview.ar-nova.org/voterview",
-"https://x.com/HunterforAR"
+{
+"text": "BELIEVE",
+"href": "https://hunterforarkansas.com/believe"
+},
+{
+"text": "Campaign Button",
+"href": "https://assets.zyrosite.com/ZzaY71GLU90D4AR0/campaign-buttons-34AefWbuGRvo2WBD.pdf"
+},
+{
+"text": "Check Voter Registration",
+"href": "https://www.voterview.ar-nova.org/voterview"
+},
+{
+"text": "Do Not Donate",
+"href": "https://hunterforarkansas.com/do-not-donate"
+},
+{
+"text": "Garden",
+"href": "https://hunterforarkansas.com/"
+},
+{
+"text": "Most Interesting Veterinary Case",
+"href": "https://hunterforarkansas.com/most-interesting-veterinary-case"
+},
+{
+"text": "Pollinate",
+"href": "https://hunterforarkansas.com/pollinate"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/"
+},
+{
+"text": "Videos",
+"href": "https://hunterforarkansas.com/videos"
+},
+{
+"text": "Where Is 69",
+"href": "https://hunterforarkansas.com/where-is-69"
+},
+{
+"text": "Yard Sign",
+"href": "https://assets.zyrosite.com/ZzaY71GLU90D4AR0/poster-A19l3EjrjWnCgciG.pdf"
+},
+{
+"text": "[image]",
+"href": "https://hunterforarkansas.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/profile.php?id=61586420812730"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/hunterforarkansas/?hl=en"
+},
+{
+"text": "[tooltip: Go to Twitter page]",
+"href": "https://x.com/HunterforAR"
+}
 ]

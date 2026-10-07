@@ -1,12 +1,13 @@
-Producing Real Results from Government
-The fraud we have seen against Minnesota’s public programs is unacceptable.
+0 Skip to Content Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Folder: Get Involved Back Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Folder: Matt's Work Back Delivering Results at the Capitol Matt In The News Folder: Priorities Back Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Producing Real Results from Government The fraud we have seen against Minnesota’s public programs is unacceptable.
 That’s why Matt has taken action by passing two major anti-fraud bills.
 But Matt’s not stopping there.
 He’s got plans for how to increase accountability for your tax dollars.
-Matt’s Plan for Producing Real Results from Government
-- Conduct a top-to-bottom audit of state government Minnesotans need to be confident their tax dollars are going to the people they’re intended to help—kids with autism, disabled adults, low-income seniors—not greedy fraudsters.
+Matt’s Plan for Producing Real Results from Government Conduct a top-to-bottom audit of state government Minnesotans need to be confident their tax dollars are going to the people they’re intended to help—kids with autism, disabled adults, low-income seniors—not greedy fraudsters.
 To restore that confidence, Matt supports a top-to-bottom audit of state government when the new governor takes over in January.
-- Maximize the impact of your tax dollars Matt’s working on legislation that would require the legislature to outline measurable outcomes when new spending is approved.
+Maximize the impact of your tax dollars Matt’s working on legislation that would require the legislature to outline measurable outcomes when new spending is approved.
 Money must also be set aside up front to measure the results against those outcomes to make sure your tax dollars are only being spent on programs that work.
-- Ensure a strong start for the Office of the Inspector General In 2026, Matt authored legislation to create an independent watchdog in our state government called the Office of the Inspector General.
+Ensure a strong start for the Office of the Inspector General In 2026, Matt authored legislation to create an independent watchdog in our state government called the Office of the Inspector General.
 Through his work on the Inspector General Legislative Advisory Commission and future legislation, Matt will make sure this office has the tools and resources to do the job Minnesotans expect it to do from Day One.
+Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.
+P.O.
+Box 490868, Blaine, MN 55449

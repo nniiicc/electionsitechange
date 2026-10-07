@@ -1,7 +1,11 @@
 {
- "description": "The Professional Firefighters of Maine (PFFMaine) proudly endorses Mike Scott for Maine\u2019s State Senate in District 20. See the announcement here",
+ "description": "The Professional Firefighters of Maine (PFFMaine) proudly endorses Mike Scott for Maine’s State Senate in District 20. See the announcement here",
  "final_url": "https://www.mikescottformaine.com/news/news-1",
- "paid_for_by": null,
+ "fingerprint": "19e95dbfcc12c5128a265809044969fe95f5966b",
+ "format": 3,
+ "paid_for_by": "authorized by the candidate",
  "title": "Professional Fire Fighters of Maine Endorsement",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

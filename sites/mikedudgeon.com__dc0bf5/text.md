@@ -1,9 +1,8 @@
-Rock-Solid Conservative Voting Record.
-Fought Fraud, Waste & Millions in
-Pork-Barrel spending.
+BIG MIKE DUDGEO N Doesn't Back Down DONATE BIG MIKE DUDGEO N Doesn't Back Down DONATE BIG MIKE DUDGEO N Doesn't Back Down DONATE HE DOESN'T BACK DOWN DOESN'T BACK DOWN Rock-Solid Conservative Voting Record.
+Fought Fraud, Waste & Millions in Pork-Barrel spending.
 Ended Woke Policies in Our Schools.
 Started Successful Companies that Employed Hundreds in Georgia.
-Mike Dudgeon will never be the loudest in the room.
+STAND TALL WITH BIG MIKE STAND TALL WITH BIG MIKE JOIN THE CAMPAIGN TODAY Submit Mike Dudgeon will never be the loudest in the room.
 But he stands tall, with a spine of steel, and does the hard work that matters.
 A resident of Forsyth for over two decades and a Georgia Tech engineer with eight U.S. patents, Mike built several successful companies before getting elected to the Forsyth County School Board and the State House.
 On the School Board, Mike fought entrenched bureaucracy, rolled back wasteful spending, and got a woke grading system thrown out of our schools.
@@ -19,11 +18,5 @@ On Friday nights, you’ll find Mike refereeing high school sports as a 6’4”
 Forsyth County doesn’t need the loudest politician in the State Senate.
 It needs one who doesn’t back down.
 Mike Dudgeon has the experience, the record, and the spine of steel to stand up to the extremists and liberals working overtime to erode our conservative principles and impose their radical worldview on us.
-ADDRESS:
-Dudgeon For Senate, Inc.
-PO Box 352
-Cumming, GA 30028-0353
-EMAIL MIKE:
-Mike@MikeDudgeon.com
-CALL OR TEXT MIKE:
-770-490-7983
+ADDRESS: Dudgeon For Senate, Inc.
+PO Box 352 Cumming, GA 30028-0353 EMAIL MIKE: Mike@MikeDudgeon.com CALL OR TEXT MIKE: 770-490-7983 MEDIA ASSETS

@@ -1,5 +1,5 @@
-Why I'm running
-My name is Hannah Cole.
+Skip to content Menu Home Meet Hannah Issues Events News Comments Get Involved Contact Donate Meet Hannah I'm running because District 86 deserves a representative who shows up, listens, and fights for rural communities with common sense, human decency, and real work.
+My story Why I'm running My name is Hannah Cole.
 I was born at Hastings hospital in Tahlequah, and I was born and raised just north of there in Rose, Oklahoma.
 I grew up on a small farm.
 My dad was a carpenter, and my mom was a nurse.
@@ -21,3 +21,10 @@ I need a team of volunteers who can commit to helping me.
 It won't be glamorous.
 It will be hard work.
 Door knocking will be the key to success, getting out into the community and meeting constituents face to face.
+Join the Dirt-road Collective Quick facts Pronouns She / Hers Background Geriatric nurse (#+ years), raised rural, rooted in Northeast Oklahoma Campaign tone Bold.
+Welcoming.
+Honest.
+Read the issues Campaign materials Need campaign photos, logos, or a short biography for an event or story?
+Contact the campaign and we'll send the right materials.
+Request materials Cole for OK 86 Mailing address: P.O.
+Box 100, Rose, OK 74364 TikTok: @coleforok86 Facebook: Cole for OK 86 Authorized and paid for by Cole for OK 86 Links Meet Hannah Get involved Events Contact Compliance: OK Ethics Commission

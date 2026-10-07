@@ -1,5 +1,4 @@
-Get Involved
-A campaign is not built by one candidate.
+0 Skip to Content DONATE Volunteer Events Priorities Bonfire, Board Games, & Brew Press Open Menu Close Menu DONATE Volunteer Events Priorities Bonfire, Board Games, & Brew Press Open Menu Close Menu DONATE Volunteer Events Priorities Bonfire, Board Games, & Brew Press Get Involved A campaign is not built by one candidate.
 It is built by people who believe their community deserves better and are ready to help build it together.
 This campaign is about listening, showing up, and turning ideas into action.
 It is about building a future where families can afford to live, young people can find opportunity here, small businesses can grow, and rural communities have a real voice.
@@ -12,3 +11,5 @@ Every hour helps.
 Every person who steps up brings us closer to the kind of community we know is possible.
 Ready to get involved?
 Click the button below and our team will reach out with ways you can plug in and make a difference.
+Join the Team Fuel the Fight Fuel the Fight Fuel the Fight Follow Facebook Instagram TikTok I Vote Luke PO Box 24 Mount Pleasant, MI 48804 team@IVoteLUKE.com (989) 442- 7932 Paid for by Friends of Luke Del Castillo, PO Box 24, Mount Pleasant, MI 48804 | © # Friends of Luke Del Castillo.
+All rights reserved.

@@ -1,27 +1,20 @@
-Security
-The servers that house VoteTimmons.com are maintained in a manner that safeguards the information in our databases effectively.
-Contributions
-In particular, when you contribute online at VoteTimmons.com, the transaction is processed using encrypted code on a secure donation site, on a secure and dedicated web server.
+Skip to content William Timmons for Congress Serving South Carolina's Upstate About William Issues Volunteer Contact Donate Privacy Policy Security The servers that house VoteTimmons.com are maintained in a manner that safeguards the information in our databases effectively.
+Contributions In particular, when you contribute online at VoteTimmons.com, the transaction is processed using encrypted code on a secure donation site, on a secure and dedicated web server.
 The personal information that is requested is the same that we would request for donating through the mail.
 We do not retain records of contributors’ credit card numbers.
-Personal Information
-Unless you voluntarily provide us with any personal information, such as your e-mail address, this site does not collect personal information about you without your knowledge.
+Personal Information Unless you voluntarily provide us with any personal information, such as your e-mail address, this site does not collect personal information about you without your knowledge.
 When you visit our site, we collect the following information: The name of the domain from which you access the Internet (for example, yahoo.com, if you are connecting from a Yahoo! account).
 The date and time you access our site.
 The Internet address of the web site from which you linked directly to our site or the Internet address of the computer used to link to our site.
 This information is used for Site Management purposes only.
 NOTICE: Unless you choose to provide such information, we do not collect or maintain personal information about you when you visit our site.
 If you send us an e-mail message or complete a web form containing personal information, we collect and store the personal information which you choose to provide, such as your mailing address, e-mail address and the content of any request for information or any comments you may have.
-Use of Information
-If you choose to provide any personal information, such as your mailing address or phone number, we may use that information to contact you.
-Cookies
-What is a cookie?
+Use of Information If you choose to provide any personal information, such as your mailing address or phone number, we may use that information to contact you.
+Cookies What is a cookie?
 A cookie is a small piece of data that a website asks your browser to store on your computer or mobile device.
 The cookie allows the website to “remember” you, without containing any of your personal information.
 Most Internet browsers support cookies; however, users can set their browsers to decline certain types of cookies or specific cookies.
 Further, users can delete cookies at any time by clearing your cookies.
-Why do we use cookies?
-We use cookies to learn how you interact with our content and to improve your experience when visiting our website.
 What types of cookies do we use?
 We use both first-party and third-party cookies on this website.
 First-party cookies are cookies issued from the VoteTimmons.com domain.
@@ -31,10 +24,13 @@ How are cookies used for advertising purposes?
 Cookies and ad technology such as web beacons, pixels, and anonymous ad network tags help us serve relevant ads to you more effectively.
 They also help us evaluate performance reporting for advertisers.
 Pixels enable us to understand and improve the delivery of ads to you, and know when certain ads have been shown to you.
-Messaging Terms & Conditions
-You agree to receive informational messages from Timmons for Congress.
+Messaging Terms & Conditions You agree to receive informational messages from Timmons for Congress.
 Message frequency varies.
 Message and data rates may apply.
 For help, reply HELP or email us at comms@votetimmons.com.
 You can opt-out at any time by replying STOP.
 Mobile numbers will not be shared with third parties.
+Share Latest News Breaking: Timmons endorsed by 15 Congressional Veterans Opinion: Democrats’ attempts to pass voting bills are just a distraction More Bills Targeting the Vaccine Mandate Introduced Upstate Veterans Day ceremony honors veterans from WWII to Afghanistan Veterans honored in ceremony at Greenville’s County Square Over 40 SC House lawmakers will introduce a bill against vaccine mandate, Senate to follow soon Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date!
+Contact News Privacy Policy Resources Donate GET IN TOUCH Post Office Box 3416 Greenville, SC 29602 William Timmons is a member of the Air National Guard.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of Defense.
+Paid for by William Timmons for Congress

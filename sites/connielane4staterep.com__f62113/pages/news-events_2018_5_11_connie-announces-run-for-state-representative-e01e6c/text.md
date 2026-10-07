@@ -1,5 +1,5 @@
-Connie Announces Run for State Representative
-Connie Lane registered as a candidate for State Representative for Merrimack District 12 (Concord Ward 2) on June 6, 2018.
+Connie Lane - Merrimack District 16 About Connie Priorities News Volunteer Contact Donate About Connie Priorities News Volunteer Contact Connie Lane - Merrimack District 16 Donate Connie Announces Run for State Representative Connie Lane registered as a candidate for State Representative for Merrimack District 12 (Concord Ward 2) on June 6, 2018.
 She is running because she wants to ensure NH reflects the values our country was founded upon – equal justice and opportunity for all.
 To be a successful State, Connie feels that we must provide quality public education, affordable housing and health care, jobs that provide a livable wage, and a voting process that ensures every inhabitant of New Hampshire can exercise their most important right – the right to vote.
 If we do this, our economy will grow and we will be the envy of other states.
+Pamela Phelan May 11, 2018 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr 0 Likes Previous Letter to Governor Sununu About Face Coverings from 5/14/20 Daniel Lane October 9, 2020 © # Impact (603) 491-7379 connielane4staterep@gmail.com Powered by: Squarespace Photography by: www.jpuzaphoto.com and www.bryanjohnsonphotos.com Info Meet Connie Priorities News Paid for by: Campaign to Elect Connie Lane by Connie Lane, Fiscal Agent Action Volunteer Contact Donate

@@ -1,5 +1,4 @@
-Agriculture, Food Security, and Rural Strength
-I advocate for policies that bolster family farms and ranches, ensuring the Farm Bill benefits local producers rather than only large industrial entities.
+Meet Helene Helene Neville Backstory Issues News Volunteer Contribute Contact Helene Neville Professional Summary Home Home ❭ Issues ❭ Agriculture, Food Security, and Rural Strength Agriculture, Food Security, and Rural Strength I advocate for policies that bolster family farms and ranches, ensuring the Farm Bill benefits local producers rather than only large industrial entities.
 Farmers and ranchers deserve the resources necessary to create high-quality food, steward the land, and successfully transfer their farms to the next generation.
 Maintaining agriculture as a sustainable career option for future generations is essential.
 North Dakota farmers and ranchers face volatile markets, rising input costs, strict standards, and razor-thin margins.
@@ -12,3 +11,4 @@ When farmers struggle, rural communities struggle.
 And when rural communities struggle, hunger rises.
 Supporting agriculture is not just about economics — it’s about strengthening families, communities, and the future of North Dakota.
 I care about what has been done to our food as much as its contents.
+Next: Childcare and Working Families » Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

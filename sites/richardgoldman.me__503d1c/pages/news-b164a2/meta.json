@@ -1,7 +1,12 @@
 {
  "description": "Campaign news, endorsements, and press coverage.",
  "final_url": "https://richardgoldman.me/news/",
- "paid_for_by": null,
+ "fingerprint": "ee738ca72d1c1406d002b99a9281e1f03a3685cb",
+ "format": 3,
+ "paid_for_by": "authorized by Richard Goldman",
  "title": "News - Richard Goldman for Maine House 53",
- "years_mentioned": []
+ "years_mentioned": [
+  "1989",
+  "2026"
+ ]
 }

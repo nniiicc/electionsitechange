@@ -1,8 +1,26 @@
 [
-"https://facebook.com/CathleenFountain4NHCoos",
-"https://fountainfornh.org/candidate.html",
-"https://fountainfornh.org/index.html",
-"https://fountainfornh.org/issues_solutions.html",
-"https://secure.actblue.com/donate/cathleen-fountain-sd1",
-"https://twitter.com/CathyFountainNH"
+{
+"text": "Candidate",
+"href": "https://www.fountainfornh.org/candidate.html"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/cathleen-fountain-sd1"
+},
+{
+"text": "Home",
+"href": "https://www.fountainfornh.org/index.html"
+},
+{
+"text": "Issues_Solutions",
+"href": "https://www.fountainfornh.org/issues_solutions.html"
+},
+{
+"text": "[image: Social Icon]",
+"href": "https://www.facebook.com/CathleenFountain4NHCoos"
+},
+{
+"text": "[image: Social Icon]",
+"href": "https://www.twitter.com/CathyFountainNH"
+}
 ]

@@ -1,6 +1,1 @@
-Contact
-Vince Fong for Congress
-FEC ID C00859892
-For press inquiries, please contact ryan@strategyinsightshq.com
-For assistance with constituent services or federal policy, please visit https://fong.house.gov
-For all other questions, use the contact form below or call us at 1 (661) 282-7496
+Skip to content Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate Donate Join Vince Menu Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate Contact Vince Fong for Congress FEC ID C00859892 For press inquiries, please contact ryan@strategyinsightshq.com For assistance with constituent services or federal policy, please visit https://fong.house.gov For all other questions, use the contact form below or call us at 1 (661) 282-7496 Donate Join Us Stay up to date Email Stay Connected, Join the Newsletter Email Donate Join Us Paid for by Vince Fong for Congress Privacy Policy | Terms of Use Scroll To Top

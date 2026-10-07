@@ -1,18 +1,114 @@
 [
-"https://caearlyvoting.sos.ca.gov/",
-"https://covr.sos.ca.gov/",
-"https://designedtorun.com/",
-"https://instagram.com/motaforcongress",
-"https://motaforcongress.com/",
-"https://motaforcongress.com/about",
-"https://motaforcongress.com/contact",
-"https://motaforcongress.com/issues",
-"https://motaforcongress.com/issues/immigration-reform",
-"https://motaforcongress.com/issues/universal-healthcare",
-"https://motaforcongress.com/volunteer",
-"https://motaforcongress/",
-"https://secure.actblue.com/donate/motaforcongress",
-"https://tiktok.com/@motaforcongress",
-"https://voterstatus.sos.ca.gov/",
-"https://x.com/motaforcongress"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/motaforcongress"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/motaforcongress"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/motaforcongress"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/motaforcongress"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/motaforcongress"
+},
+{
+"text": "About",
+"href": "https://www.motaforcongress.com/about"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://voterstatus.sos.ca.gov/"
+},
+{
+"text": "Community-based projects",
+"href": "https://www.motaforcongress.com/issues"
+},
+{
+"text": "Contact",
+"href": "https://www.motaforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/motaforcongress"
+},
+{
+"text": "Early voting locations",
+"href": "https://caearlyvoting.sos.ca.gov/"
+},
+{
+"text": "Economic Security",
+"href": "https://www.motaforcongress.com/issues/universal-healthcare"
+},
+{
+"text": "Families",
+"href": "https://www.motaforcongress.com/issues/universal-healthcare"
+},
+{
+"text": "Immigration Reform",
+"href": "https://www.motaforcongress.com/issues/immigration-reform"
+},
+{
+"text": "Issues",
+"href": "https://www.motaforcongress.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.motaforcongress.com/issues"
+},
+{
+"text": "More Issues",
+"href": "https://www.motaforcongress.com/issues"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/motaforcongress"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://covr.sos.ca.gov/"
+},
+{
+"text": "Universal Healthcare",
+"href": "https://www.motaforcongress.com/issues/universal-healthcare"
+},
+{
+"text": "Volunteer",
+"href": "https://www.motaforcongress.com/volunteer"
+},
+{
+"text": "[image: Samantha Mota for Congress logo]",
+"href": "https://www.motaforcongress.com/"
+},
+{
+"text": "[image: Samantha Mota for Congress]",
+"href": "https://www.motaforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/motaforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://motaforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@motaforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/motaforcongress"
+}
 ]

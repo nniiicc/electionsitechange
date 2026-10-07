@@ -1,54 +1,5 @@
-Embedded Files
-Let's win this, together!
-Affordability
-- Build More Affordable Housing
-- Streamline Regulations that are Slowing Down the Construction of Family Homes
-- Expanded Tax Credit for First-Time Home Buyers
-- Restrict Sale of Homes to Private Equity Firms and Institutional Investors
-- Expand Health Care Access
-- Crack Down on Corporate-Driven Price Increases
-- Support Universal Health Care Coverage (MiCare)
-- Protect Medicaid
-- Support a $5,000 Caregiver Tax Credit
-- Child Care
-- Expand the RxKids Program to HD-35
-- Support Universal School Meals
-- Increase Wages for Child Care Workers
-- Lower Grocery Costs
-- Regulate Individualized Pricing (A.I.
-Price Gauging)
-Education
-- Early Education
-- Universal Pre-K
-- Support and Promote Youth Literacy and Other Educational Programs
-- Primary Education
-- Expand GED and High School Completion Programs
-- No Private School Vouchers
-- Expand Early Career Exploration
-- Higher Education
-- Fully Fund our Colleges/Universities
-- Support Multiple Career Pathways, Not Just College
-- Trade School, Military, and Workforce
-Energy Costs
-- Ban Regulated Utilities from Spending Money to Influence or Elect Politicians
-- This Includes DTE and Consumers*
-- Lower Your Costs, Permanently
-- Support Weatherization Programs, Creating Union Jobs
-- Offer Rebates For Efficient Appliances and HVAC Systems
-- Modernize Our Power Grid
-- Protect Michigan From Cyber Attacks and Climate Disasters
-- Temporarily Halt the Building of Data Centers in Michigan
-- Ensure Community Support and No Increased Utility Bills
-Inclusion
-- Support All in the District, No Matter Their Background
-- When I get to Lansing, I will be everybody's representative.
+Search this site Embedded Files Skip to main content Skip to navigation Let's win this, together!
+Donate Here Home Policy Agenda Contact Home Policy Agenda Contact More Home Policy Agenda Contact Policy Agenda Affordability Build More Affordable Housing Streamline Regulations that are Slowing Down the Construction of Family Homes Expanded Tax Credit for First-Time Home Buyers Restrict Sale of Homes to Private Equity Firms and Institutional Investors Expand Health Care Access Crack Down on Corporate-Driven Price Increases Support Universal Health Care Coverage (MiCare) Protect Medicaid Support a $5,000 Caregiver Tax Credit Child Care Expand the RxKids Program to HD-35 Support Universal School Meals Increase Wages for Child Care Workers Lower Grocery Costs Regulate Individualized Pricing (A.I.
+Price Gauging) Education Early Education Universal Pre-K Support and Promote Youth Literacy and Other Educational Programs Primary Education Expand GED and High School Completion Programs No Private School Vouchers Expand Early Career Exploration Higher Education Fully Fund our Colleges/Universities Support Multiple Career Pathways, Not Just College Trade School, Military, and Workforce Energy Costs Ban Regulated Utilities from Spending Money to Influence or Elect Politicians This Includes DTE and Consumers* Lower Your Costs, Permanently Support Weatherization Programs, Creating Union Jobs Offer Rebates For Efficient Appliances and HVAC Systems Modernize Our Power Grid Protect Michigan From Cyber Attacks and Climate Disasters Temporarily Halt the Building of Data Centers in Michigan Ensure Community Support and No Increased Utility Bills Inclusion Support All in the District, No Matter Their Background When I get to Lansing, I will be everybody's representative.
 Democrat or Republican, White or Black, Straight or Gay -- I will serve you.
-- Take Care of Our Seniors
-- Improve Accessibility in Public Buildings, Transportation, and Housing
-- Crack Down on Fraud that Targets our Seniors
-- Protect Our Children
-- Work With Parents and Educators to Create Environments Focused on Respect and Success
-- Increase Access to School Counselors and Mental Health Resources
-Page updated
-Google Sites
-Report abuse
+Take Care of Our Seniors Improve Accessibility in Public Buildings, Transportation, and Housing Crack Down on Fraud that Targets our Seniors Protect Our Children Work With Parents and Educators to Create Environments Focused on Respect and Success Increase Access to School Counselors and Mental Health Resources Donate Facebook Paid for by Jeff Cooley for House 35 Committee 99 Westwood St., Hillsdale MI 49242 Google Sites Report abuse Page details Page updated Google Sites Report abuse

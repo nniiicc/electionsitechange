@@ -1,10 +1,13 @@
-America’s Strength Starts with Alaska
-Join the Movement
-Advocating Alaska’s Economy, Freedom, and Growth
-Born and raised in Alaska, Bernadette understands firsthand the challenges and opportunities faced by Alaskan families and businesses.
+Skip to content About Vision for Alaska On the Issues Meet Mike Shower About Vision for Alaska On the Issues Meet Mike Shower Press Kit Press Release Merchandise Email Us Press Kit Press Release Merchandise Email Us Donate Now Donate Now Home About Vision for Alaska On the Issues Press Kit Press Releases Merchandise Contact Home About Vision for Alaska On the Issues Press Kit Press Releases Merchandise Contact America’s Strength Starts with Alaska Join the Movement First Name Last Name Email Phone Number Street Address City State Zip Code Volunteer Volunteer Yard Sign Yard Sign Host Event Host Event *Opt in to receive text updates *Opt in to receive text updates.
+By providing your telephone number, you consent to receive calls and text messages.
+Message & data rates may apply.
+Message frequency may vary.
+Messaging may include requests for donation.
+Reply "Stop" to opt-out and "Help" for help.
+View our Privacy Policy HERE for more info.
+Sign Up Advocating Alaska’s Economy, Freedom, and Growth Born and raised in Alaska, Bernadette understands firsthand the challenges and opportunities faced by Alaskan families and businesses.
 She has been a fierce advocate for small government, economic freedom, and individual liberties, from her role as CEO of the Alaska Policy Forum to her leadership at Americans for Prosperity.
-Meet Bernadette
-Born on the Kenai.
+Meet Bernadette Born on the Kenai.
 Raised in Anchorage.
 Built for Alaska.
 Bernadette Wilson is a lifelong Alaskan, small business owner, mother of three, and a passionate advocate for the people and future of Alaska.
@@ -23,16 +26,16 @@ She knows the challenges families and business owners face, because she’s live
 Her story is one of perseverance, faith, and deep commitment to the state she calls home.
 Today, Bernadette is standing up to ensure that the next generation of Alaskans has the opportunity to build their future right here in the Last Frontier.
 Alaska is in her blood and she’s ready to fight for its future.
-Vision for Alaska
-America’s strength starts with Alaska.
+Your browser does not support HTML5 video. 🔊 Tap to Unmute Vision for Alaska America’s strength starts with Alaska.
 From the trees that reach high into the skies of the Tongass National Forest, to the fish found deep in the waters of the Valdez Harbor and the legendary sockeye runs out of Bristol Bay; from the minerals in the silver rich islands of Southeast Alaska, all the way to our Arctic slopes; from the abundance of oil across our state to the grit and determination of our people, we will show America what Alaska is made of.
 Action will replace talk, and whether it’s AKLNG, NPRA, ANWR, or Willow, Ambler Road, West Susitna, King Cove, or beyond, we will develop and we will build.
 Our statutory Permanent Fund Dividend will be restored, and our children will attend the best schools in the country, right here at home.
 Bountiful salmon runs will be ensured for generations to come.
 It’s my hope that you will sit down for dinner at the new house your son just bought, that you will get to brag to your friends down in the Lower 48 that your daughter just started her new business, and that your grandchild is starting kindergarten in one of the best school districts in the country – all right here in Alaska.
-And when people tell stories of Alaska’s gold rush days and a pipeline era gone by, your children and grandchildren will look back fondly and say, “But we grew up in Alaska during America’s golden age.”
-It is time to rise again.
+And when people tell stories of Alaska’s gold rush days and a pipeline era gone by, your children and grandchildren will look back fondly and say, “But we grew up in Alaska during America’s golden age.” It is time to rise again.
 If this is to be the golden age of America, then let’s make sure the history books are filled with Alaska’s stories!
-EVENTS
-Your support helps build a brighter Alaska
-Contribute today and join Bernadette in championing freedom, prosperity, and strong communities.
+EVENTS Your support helps build a brighter Alaska Contribute today and join Bernadette in championing freedom, prosperity, and strong communities.
+Donate Now On the Issues Press Kit Press Release Press Inquiries On the Issues Press Kit Press Release Press Inquiries info@bernadetteforgovernor.com PO.
+Box 112149 Anchorage, Alaska 99511 Facebook-f Instagram X-twitter Youtube Tiktok Donate Facebook-f Instagram X-twitter Youtube Tiktok © Copyright # Bernadette For Alaska.
+Paid for by Bernadette for Governor PO.
+Box 112149 Anchorage, Alaska 99511 Privacy Policy

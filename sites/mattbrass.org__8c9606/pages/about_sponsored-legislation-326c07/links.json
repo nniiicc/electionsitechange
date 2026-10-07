@@ -1,48 +1,190 @@
 [
-"http://legis.ga.gov/Legislation/en-US/display/20172018/HB/139",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/HB/183",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/HB/374",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/HB/489",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/HB/65",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/HB/665",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/HB/763",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/HB/784",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/HB/853",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/HB/871",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/HB/888",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/SB/286",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/SB/363",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/SB/404",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/SB/428",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/SB/429",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/SB/430",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/SB/459",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/SB/469",
-"http://legis.ga.gov/Legislation/en-US/display/20172018/SB/491",
-"http://legis.ga.gov/Legislation/en-US/display/20192020/SB/162",
-"http://legis.ga.gov/Legislation/en-US/display/20192020/SB/167",
-"http://legis.ga.gov/Legislation/en-US/display/20192020/SB/177",
-"http://legis.ga.gov/Legislation/en-US/display/20192020/SB/247",
-"http://legis.ga.gov/Legislation/en-US/display/20192020/SB/263",
-"http://legis.ga.gov/Legislation/en-US/display/20192020/SB/335",
-"http://legis.ga.gov/Legislation/en-US/display/20192020/SB/401",
-"http://legis.ga.gov/Legislation/en-US/display/20192020/SB/439",
-"http://legis.ga.gov/Legislation/en-US/display/20192020/SB/481",
-"http://legis.ga.gov/Legislation/en-US/display/20192020/SB/483",
-"http://legis.ga.gov/Legislation/en-US/display/20192020/SB/496",
-"http://legis.ga.gov/Legislation/en-US/display/20192020/SB/74",
-"http://stoneridgegroup.com/",
-"https://confirmsubscription.com/h/r/B7997A5DB8EAF8B3",
-"https://facebook.com/Matt-Brass-for-State-Senate-173320099416718?fref=ts",
-"https://mattbrass.org/",
-"https://mattbrass.org/about",
-"https://mattbrass.org/about/about",
-"https://mattbrass.org/about/committee-service",
-"https://mattbrass.org/about/issues",
-"https://mattbrass.org/about/sponsored-legislation",
-"https://mattbrass.org/about/sponsored-legislation/@vote_matt_brass",
-"https://mattbrass.org/news",
-"https://mattbrass.org/newsletter-updates",
-"https://mattbrass.org/press-kit",
-"https://twitter.com/@vote_matt_brass"
+{
+"text": "About",
+"href": "https://mattbrass.org/about/about/"
+},
+{
+"text": "Committee Service",
+"href": "https://mattbrass.org/about/committee-service/"
+},
+{
+"text": "Home",
+"href": "https://mattbrass.org/"
+},
+{
+"text": "House Bill 139:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/HB/139"
+},
+{
+"text": "House Bill 183:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/HB/183"
+},
+{
+"text": "House Bill 374:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/HB/374"
+},
+{
+"text": "House Bill 489:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/HB/489"
+},
+{
+"text": "House Bill 65:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/HB/65"
+},
+{
+"text": "House Bill 665:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/HB/665"
+},
+{
+"text": "House Bill 763:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/HB/763"
+},
+{
+"text": "House Bill 784:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/HB/784"
+},
+{
+"text": "House Bill 853:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/HB/853"
+},
+{
+"text": "House Bill 871:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/HB/871"
+},
+{
+"text": "House Bill 888:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/HB/888"
+},
+{
+"text": "Issues",
+"href": "https://mattbrass.org/about/issues/"
+},
+{
+"text": "Meet Matt",
+"href": "https://mattbrass.org/about/"
+},
+{
+"text": "News",
+"href": "https://mattbrass.org/news/"
+},
+{
+"text": "Newsletter Updates",
+"href": "https://mattbrass.org/newsletter-updates/"
+},
+{
+"text": "Press Kit",
+"href": "https://mattbrass.org/press-kit/"
+},
+{
+"text": "Senate Bill 162:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20192020/SB/162"
+},
+{
+"text": "Senate Bill 167:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20192020/SB/167"
+},
+{
+"text": "Senate Bill 177:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20192020/SB/177"
+},
+{
+"text": "Senate Bill 247:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20192020/SB/247"
+},
+{
+"text": "Senate Bill 263:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20192020/SB/263"
+},
+{
+"text": "Senate Bill 286:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/SB/286"
+},
+{
+"text": "Senate Bill 335:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20192020/SB/335"
+},
+{
+"text": "Senate Bill 363:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/SB/363"
+},
+{
+"text": "Senate Bill 401",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20192020/SB/401"
+},
+{
+"text": "Senate Bill 404:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/SB/404"
+},
+{
+"text": "Senate Bill 428:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/SB/428"
+},
+{
+"text": "Senate Bill 429:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/SB/429"
+},
+{
+"text": "Senate Bill 430:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/SB/430"
+},
+{
+"text": "Senate Bill 439",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20192020/SB/439"
+},
+{
+"text": "Senate Bill 459:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/SB/459"
+},
+{
+"text": "Senate Bill 469:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/SB/469"
+},
+{
+"text": "Senate Bill 481:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20192020/SB/481"
+},
+{
+"text": "Senate Bill 483:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20192020/SB/483"
+},
+{
+"text": "Senate Bill 491:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20172018/SB/491"
+},
+{
+"text": "Senate Bill 496:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20192020/SB/496"
+},
+{
+"text": "Senate Bill 74:",
+"href": "http://www.legis.ga.gov/Legislation/en-US/display/20192020/SB/74"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://mattbrass.org/about/sponsored-legislation/"
+},
+{
+"text": "Volunteer",
+"href": "https://confirmsubscription.com/h/r/B7997A5DB8EAF8B3"
+},
+{
+"text": "[image]",
+"href": "http://www.stoneridgegroup.com"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/"
+},
+{
+"text": "[no text]",
+"href": "https://mattbrass.org/about/sponsored-legislation/@vote_matt_brass"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Matt-Brass-for-State-Senate-173320099416718/?fref=ts"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/@vote_matt_brass"
+}
 ]

@@ -1,9 +1,9 @@
 {
  "description": "Support Cassandra Hernandez for Texas - donate to her political campaign and find Texas voting information here.",
  "final_url": "https://cassandrafortexas.com/action",
- "paid_for_by": null,
+ "fingerprint": "67c56c49229f86079a3e487210227b7dda05840a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "action",
- "years_mentioned": [
-  "2023"
- ]
+ "years_mentioned": []
 }

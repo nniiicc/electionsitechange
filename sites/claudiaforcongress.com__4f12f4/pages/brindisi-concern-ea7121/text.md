@@ -1,5 +1,5 @@
-Brindisi Letter of Concern
-Good Morning, On behalf of the Camden Police Benevolent Association and several law enforcement leaders across New York’s 22nd Congressional District we would like to submit the attached letter of concern to you with recent votes and actions taken by Congressman Anthony Brinidisi.
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Previous page Letter of Concern NY22 Law Enforcement and Anthony Brindisi Share October 15 2020 Brindisi Letter of Concern Good Morning, On behalf of the Camden Police Benevolent Association and several law enforcement leaders across New York’s 22nd Congressional District we would like to submit the attached letter of concern to you with recent votes and actions taken by Congressman Anthony Brinidisi.
 We take particular concern with how HR 7120 will impact departments across the nation and district.
 Thank you for your time and consideration.
-Dan Salce, Camden Police Benevolent Association
+Dan Salce, Camden Police Benevolent Association Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

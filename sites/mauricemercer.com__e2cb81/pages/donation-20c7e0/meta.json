@@ -1,7 +1,9 @@
 {
  "description": "Make a safe and secure donation to the Maurice Mercer for America",
  "final_url": "https://www.mauricemercer.com/donation",
- "paid_for_by": "Paid for by&nbsp; Friends to Elect Maurice Mercer&nbsp; P",
+ "fingerprint": "3cb7f9de23df9706cd1e7f7a69d5140bbdf2a832",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends to Elect Maurice Mercer P",
  "title": "DONATION | Maurice Mercer For America",
  "years_mentioned": []
 }

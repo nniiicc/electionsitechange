@@ -1,5 +1,5 @@
-★ vote Kent for Senate ★
-Homegrown change for West Virginia
-★ FAYETTE ★ GREENBRIER ★ NICHOLAS ★ SUMMERS ★ & MONROE COUNTIES
-As a farmer, union leader, and retired prison worker, I've spent my life solving problems, standing up for working families, and fighting for fairness.
+Skip navigation menu About Issues Events Endorsements Volunteer Contact Donate ★ vote Kent for Senate ★ Homegrown change for West Virginia ★ FAYETTE ★ GREENBRIER ★ NICHOLAS ★ SUMMERS ★ & MONROE COUNTIES As a farmer, union leader, and retired prison worker, I've spent my life solving problems, standing up for working families, and fighting for fairness.
 It's time for leadership rooted in hard work and common sense — putting people before politics for a change.
+About Issues Events Endorsements Volunteer Contact Donate ★ vote Kent for Senate ★ Homegrown change for West Virginia ★ FAYETTE ★ GREENBRIER ★ NICHOLAS ★ SUMMERS ★ & MONROE COUNTIES As a farmer, union leader, and retired prison worker, I've spent my life solving problems, standing up for working families, and fighting for fairness.
+It's time for leadership rooted in hard work and common sense — putting people before politics for a change.
+Read below for some of our top priorities Data Center Regulation & Community Control Education Affordability Workers Rights Healthcare Access Agriculture & Agritourism Clean Water Donate to help elect Kent for Senate! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Privacy Policy If donating by mail, make checks payable to: Kent for Senate | 791 Sunset School Rd, Alderson, WV 24901 Powered by RUN! website builder Paid for by Kent for Senate You need to enable JavaScript to run this app.

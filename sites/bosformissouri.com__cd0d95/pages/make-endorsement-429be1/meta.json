@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://www.bosformissouri.com/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "f31c400772a5f0c9e9671a17815a1c51028e31ba",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": []
 }

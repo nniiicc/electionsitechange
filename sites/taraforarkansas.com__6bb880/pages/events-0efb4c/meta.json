@@ -1,7 +1,9 @@
 {
  "description": "Browse events for candidate Tara Shepard's campaign for Arkansas Senate District 15.",
  "final_url": "https://www.taraforarkansas.com/events",
- "paid_for_by": null,
- "title": "Events \u2014 Tara Shephard for AR Senate",
+ "fingerprint": "0c35b2b233d57fa69fa1b3c4bce1e4735c68897f",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Events — Tara Shephard for AR Senate",
  "years_mentioned": []
 }

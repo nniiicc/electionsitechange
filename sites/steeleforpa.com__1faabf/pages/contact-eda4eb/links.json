@@ -1,16 +1,58 @@
 [
-"https://facebook.com/SteeleforPA",
-"https://instagram.com/steeleforpa",
-"https://maps.app.goo.gl/2fC53oJVsUxaSL866",
-"https://maps.apple.com/?address=1300+Pittsburgh+St%2C+Cheswick%2C+PA++15024%2C+United+States&ll=40.540920%2C-79.802347&q=1300+Pittsburgh+St",
-"https://mobilize.us/steeleforpa",
-"https://secure.actblue.com/donate/steele-for-pa-1",
-"https://steeleforpa.com/",
-"https://steeleforpa.com/about",
-"https://steeleforpa.com/cart",
-"https://steeleforpa.com/contact",
-"https://steeleforpa.com/endorsements",
-"https://steeleforpa.com/our-district",
-"https://steeleforpa.com/platform",
-"https://twitter.com/steeleforpa"
+{
+"text": "0",
+"href": "https://www.steeleforpa.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.steeleforpa.com/about"
+},
+{
+"text": "Apple Maps",
+"href": "https://maps.apple.com/?address=1300+Pittsburgh+St%2C+Cheswick%2C+PA++15024%2C+United+States&ll=40.540920%2C-79.802347&q=1300+Pittsburgh+St"
+},
+{
+"text": "Contact",
+"href": "https://www.steeleforpa.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/steele-for-pa-1"
+},
+{
+"text": "District 33",
+"href": "https://www.steeleforpa.com/our-district"
+},
+{
+"text": "Endorsements",
+"href": "https://www.steeleforpa.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/steeleforpa/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SteeleforPA"
+},
+{
+"text": "Google Maps",
+"href": "https://maps.app.goo.gl/2fC53oJVsUxaSL866"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/steeleforpa/"
+},
+{
+"text": "Platform",
+"href": "https://www.steeleforpa.com/platform"
+},
+{
+"text": "Twitter",
+"href": "https://www.twitter.com/steeleforpa"
+},
+{
+"text": "[image: www.steeleforpa.com]",
+"href": "https://www.steeleforpa.com/"
+}
 ]

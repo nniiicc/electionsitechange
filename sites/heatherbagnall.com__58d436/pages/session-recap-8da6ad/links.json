@@ -1,89 +1,370 @@
 [
-"http://facebook.com/DelegateHeatherBagnall/events",
-"http://instagram.com/delegateheatherbagnall",
-"http://mgaleg.maryland.gov/",
-"https://aacounty.org/federal-employee-assistance",
-"https://facebook.com/DelegateHeatherBagnall",
-"https://facebook.com/DelegateHeatherBagnall/events",
-"https://heatherbagnall.com/",
-"https://heatherbagnall.com/2019-session-recap",
-"https://heatherbagnall.com/2020-session-recap",
-"https://heatherbagnall.com/2021-session-recap",
-"https://heatherbagnall.com/2022-session-recap",
-"https://heatherbagnall.com/2023-session-recap",
-"https://heatherbagnall.com/2024-session-recap",
-"https://heatherbagnall.com/2025-session-recap",
-"https://heatherbagnall.com/2026-session",
-"https://heatherbagnall.com/about-me",
-"https://heatherbagnall.com/articles",
-"https://heatherbagnall.com/campaign-update",
-"https://heatherbagnall.com/campaign-videos",
-"https://heatherbagnall.com/contact",
-"https://heatherbagnall.com/contribute",
-"https://heatherbagnall.com/delegate-news",
-"https://heatherbagnall.com/endorsements",
-"https://heatherbagnall.com/hgo-highlights-2022",
-"https://heatherbagnall.com/interviews",
-"https://heatherbagnall.com/leadership",
-"https://heatherbagnall.com/maryland-state-resource-archive",
-"https://heatherbagnall.com/scholarship-2025",
-"https://heatherbagnall.com/scholarships",
-"https://heatherbagnall.com/session-recap",
-"https://heatherbagnall.com/subscribe",
-"https://heatherbagnall.com/term-conditions",
-"https://heatherbagnall.com/virtual-town-halls",
-"https://heatherbagnall.com/volunteer",
-"https://heatherbagnall.com/voter-information",
-"https://labor.maryland.gov/federalworkers",
-"https://mgaleg.maryland.gov/2026RS/bills/hb/hb0042T.pdf",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0001?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0102?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0232?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0280?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0340?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0422?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0444?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0446?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0561?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0623?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0634?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0798?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0849?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0945?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1017?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1109?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1321?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1326?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1341?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1364?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1365?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1445?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1504?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1532?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1559?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1563?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0002?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0142?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0205?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0238?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0245?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0263?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0394?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0419?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0428?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0447?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0467?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0555?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0645?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0709?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0742?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0745?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0790?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0810?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0920?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0984?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0746?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1181?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1192?ys=2026rs",
-"https://youtube.com/channel/UCKYoHAIJrljAfVlvW57rvJQ"
+{
+"text": "2019 Session Recap",
+"href": "https://www.heatherbagnall.com/2019-session-recap"
+},
+{
+"text": "2020 Session Recap",
+"href": "https://www.heatherbagnall.com/2020-session-recap"
+},
+{
+"text": "2021 Session Recap",
+"href": "https://www.heatherbagnall.com/2021-session-recap"
+},
+{
+"text": "2022 Session Recap",
+"href": "https://www.heatherbagnall.com/2022-session-recap"
+},
+{
+"text": "2023 Session Recap",
+"href": "https://www.heatherbagnall.com/2023-session-recap"
+},
+{
+"text": "2024 Session Recap",
+"href": "https://www.heatherbagnall.com/2024-session-recap"
+},
+{
+"text": "2025 Session Recap",
+"href": "https://www.heatherbagnall.com/2025-session-recap"
+},
+{
+"text": "2026 Session Recap",
+"href": "https://www.heatherbagnall.com/2026-session"
+},
+{
+"text": "About Me",
+"href": "https://www.heatherbagnall.com/about-me"
+},
+{
+"text": "Articles",
+"href": "https://www.heatherbagnall.com/articles"
+},
+{
+"text": "Attend",
+"href": "http://www.facebook.com/DelegateHeatherBagnall/events/"
+},
+{
+"text": "CONTACT US",
+"href": "mailto:administrator@heatherbagnall.com?subject=A+Contact+from+HeatherBagnall.com"
+},
+{
+"text": "Campaign Update",
+"href": "https://www.heatherbagnall.com/campaign-update"
+},
+{
+"text": "Campaign Videos",
+"href": "https://www.heatherbagnall.com/campaign-videos"
+},
+{
+"text": "Contact",
+"href": "https://www.heatherbagnall.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.heatherbagnall.com/contribute"
+},
+{
+"text": "Delegate News",
+"href": "https://www.heatherbagnall.com/delegate-news"
+},
+{
+"text": "EVENTS",
+"href": "https://www.facebook.com/DelegateHeatherBagnall/events"
+},
+{
+"text": "Endorsements",
+"href": "https://www.heatherbagnall.com/endorsements"
+},
+{
+"text": "HB 1",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0001?ys=2026RS"
+},
+{
+"text": "HB 1017",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1017/?ys=2026rs"
+},
+{
+"text": "HB 102",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0102/?ys=2026rs"
+},
+{
+"text": "HB 1109",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1109/?ys=2026rs"
+},
+{
+"text": "HB 1181",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1181/?ys=2026rs"
+},
+{
+"text": "HB 1192",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1192/?ys=2026rs"
+},
+{
+"text": "HB 1321",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1321/?ys=2026rs"
+},
+{
+"text": "HB 1326",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1326?ys=2026RS"
+},
+{
+"text": "HB 1341",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1341/?ys=2026rs"
+},
+{
+"text": "HB 1364",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1364/?ys=2026rs"
+},
+{
+"text": "HB 1365",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1365/?ys=2026rs"
+},
+{
+"text": "HB 1445",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1445/?ys=2026rs"
+},
+{
+"text": "HB 1504",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1504/?ys=2026rs"
+},
+{
+"text": "HB 1532",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1532/?ys=2026rs"
+},
+{
+"text": "HB 1559",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1559/?ys=2026rs"
+},
+{
+"text": "HB 1563",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1563/?ys=2026rs"
+},
+{
+"text": "HB 232",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0232/?ys=2026rs"
+},
+{
+"text": "HB 280",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0280/?ys=2026rs"
+},
+{
+"text": "HB 340",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0340/?ys=2026rs"
+},
+{
+"text": "HB 42",
+"href": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0042T.pdf"
+},
+{
+"text": "HB 422",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0422/?ys=2026rs"
+},
+{
+"text": "HB 444",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0444/?ys=2026rs"
+},
+{
+"text": "HB 446",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0446/?ys=2026rs"
+},
+{
+"text": "HB 561",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0561/?ys=2026rs"
+},
+{
+"text": "HB 623",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0623/?ys=2026rs"
+},
+{
+"text": "HB 634",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0634/?ys=2026rs"
+},
+{
+"text": "HB 746",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0746/?ys=2026rs"
+},
+{
+"text": "HB 798",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0798/?ys=2026rs"
+},
+{
+"text": "HB 849",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0849/?ys=2026rs"
+},
+{
+"text": "HB 945",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0945/?ys=2026rs"
+},
+{
+"text": "HGO Highlights 2022",
+"href": "https://www.heatherbagnall.com/hgo-highlights-2022"
+},
+{
+"text": "Heather.Bagnall@house.maryland.gov",
+"href": "mailto:Heather.Bagnall@house.maryland.gov"
+},
+{
+"text": "Heather@HeatherBagnall.com",
+"href": "mailto:Heather@HeatherBagnall.com"
+},
+{
+"text": "Home",
+"href": "https://www.heatherbagnall.com/"
+},
+{
+"text": "Interviews",
+"href": "https://www.heatherbagnall.com/interviews"
+},
+{
+"text": "Leadership",
+"href": "https://www.heatherbagnall.com/leadership"
+},
+{
+"text": "SB 142",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0142?ys=2026RS"
+},
+{
+"text": "SB 2",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0002?ys=2026RS"
+},
+{
+"text": "SB 205",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0205?ys=2026RS"
+},
+{
+"text": "SB 238",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0238?ys=2026RS"
+},
+{
+"text": "SB 245",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0245?ys=2026RS"
+},
+{
+"text": "SB 263",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0263?ys=2026RS"
+},
+{
+"text": "SB 394",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0394?ys=2026RS"
+},
+{
+"text": "SB 419",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0419?ys=2026RS"
+},
+{
+"text": "SB 428",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0428?ys=2026RS"
+},
+{
+"text": "SB 447",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0447/?ys=2026rs"
+},
+{
+"text": "SB 467",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0467?ys=2026RS"
+},
+{
+"text": "SB 555",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0555?ys=2026RS"
+},
+{
+"text": "SB 645",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0645?ys=2026RS"
+},
+{
+"text": "SB 709",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0709?ys=2026RS"
+},
+{
+"text": "SB 742",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0742?ys=2026RS"
+},
+{
+"text": "SB 745",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0745?ys=2026RS"
+},
+{
+"text": "SB 790",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0790?ys=2026RS"
+},
+{
+"text": "SB 810",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0810?ys=2026RS"
+},
+{
+"text": "SB 920",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0920?ys=2026RS"
+},
+{
+"text": "SB 984",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0984?ys=2026RS"
+},
+{
+"text": "SCHOLARSHIPS",
+"href": "https://www.heatherbagnall.com/scholarship-2025"
+},
+{
+"text": "Scholarships",
+"href": "https://www.heatherbagnall.com/scholarships"
+},
+{
+"text": "Session Recap",
+"href": "https://www.heatherbagnall.com/session-recap"
+},
+{
+"text": "State Resource Archive",
+"href": "https://www.heatherbagnall.com/maryland-state-resource-archive"
+},
+{
+"text": "Subscribe",
+"href": "https://www.heatherbagnall.com/subscribe"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.heatherbagnall.com/term-conditions"
+},
+{
+"text": "Virtual Town Halls",
+"href": "https://www.heatherbagnall.com/virtual-town-halls"
+},
+{
+"text": "Volunteer",
+"href": "https://www.heatherbagnall.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.heatherbagnall.com/voter-information"
+},
+{
+"text": "[image: Heather Bagnall - Maryland State Delegate - District 33]",
+"href": "https://www.heatherbagnall.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/delegateheatherbagnall"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DelegateHeatherBagnall/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCKYoHAIJrljAfVlvW57rvJQ"
+},
+{
+"text": "[no text]",
+"href": "mailto:Heather@HeatherBagnall.com"
+},
+{
+"text": "http://mgaleg.maryland.gov",
+"href": "http://mgaleg.maryland.gov"
+},
+{
+"text": "https://labor.maryland.gov/federalworkers/",
+"href": "https://labor.maryland.gov/federalworkers/"
+},
+{
+"text": "https://www.aacounty.org/federal-employee-assistance",
+"href": "https://www.aacounty.org/federal-employee-assistance"
+}
 ]

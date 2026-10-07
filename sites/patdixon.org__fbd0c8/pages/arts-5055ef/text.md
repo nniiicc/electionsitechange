@@ -1,14 +1,11 @@
-These are my activities in arts:
-- I have been a board member and president of Panoramic Voices (previously known as Texas Choral Consort).
-Their web page is https://www.panoramicvoices.org
-- I have produced an album of original music entitled “HeHo” that is inspired by my 2015 CDT hike.
-Several of the pieces have been played on “The Trail Show” podcast (http://thetrailshow.com)
-- Apple Music link: https://music.apple.com/us/album/heho/1508885724
-- Google Play link: https://play.google.com/store/music/album/Pat_Dixon_HeHo?id=Bp5i2b3l3tiuvwovbwlz2r2b2ey
-- Spotify: https://open.spotify.com/album/5zaIjlCWEHVkvaW7L1SAF2?si=IdChD9FxQ9SwUy3zVrMarQ&fbclid=IwAR0xAusKZ9FFzXJ2KMMxOdHGvl4zpBS9DuF09IOQL1V64MMIZH-StCWWdWk
-- In 2024 I produced my second album “Sundown”.
+Skip to content Skip to content Home About Pat Dixon Policy Statements Exonerate Robert Roberson Free Market Sustainability Approval Voting School Choice Parent & Teacher Empowerment Non-Partisan Redistricting Texas Muslims AI Property Tax The Abbott Report The Border Election Integrity Texas Transportation Missed Opportunity?
+Hyperbole anyone?
+COVID How to Return Taxes Guns Texas Stance on Science Questionnaire Flock Cameras AI Data Centers The War on Hemp The Abbott Ad 765 kV Transmission iVoterGuide Questionnaire League of Women Voters General Election Voters Guide Marijuana Policy Project/Texas Cannabis Policy Center’s 2026 candidate survey New Braunfels Herald-Zeitung article 8/29/26 Minority Winner Israel Abbott’s Tax Plan About Greg Abbott Biblical Principles Texas Cannabis Policy Questionnaire Business DPAS-INC Sports and Outdoors CDT 2015 Bio My Journey Axyl Mail Stops About Me My Mom About PSP YouTube Channel Photos Arts Music Amazon author page Government Keep the Party Libertarian Texas Senate District 14 Lago Vista city council TX20 Policy Statements Media and Video Search for: Search Home Arts Arts These are my activities in arts: I have been a board member and president of Panoramic Voices (previously known as Texas Choral Consort).
+Their web page is https://www.panoramicvoices.org I have produced an album of original music entitled “HeHo” that is inspired by my 2015 CDT hike.
+Several of the pieces have been played on “The Trail Show” podcast ( http://thetrailshow.com ) Apple Music link: https://music.apple.com/us/album/heho/1508885724 Google Play link: https://play.google.com/store/music/album/Pat_Dixon_HeHo?id=Bp5i2b3l3tiuvwovbwlz2r2b2ey Spotify: https://open.spotify.com/album/5zaIjlCWEHVkvaW7L1SAF2?si=IdChD9FxQ9SwUy3zVrMarQ&fbclid=IwAR0xAusKZ9FFzXJ2KMMxOdHGvl4zpBS9DuF09IOQL1V64MMIZH-StCWWdWk In 2024 I produced my second album “Sundown”.
 Search “Pat AXYL Dixon Sundown” and you should find it available from several download sources.
-- Apple Music link: https://music.apple.com/us/album/sundown/1742720323
-- My author page http://amazon.com/author/pdixon lists books that I have published.
+Apple Music link: https://music.apple.com/us/album/sundown/1742720323 My author page http://amazon.com/author/pdixon lists books that I have published.
 My most recent book “HeHo” is published, which is the story of my 2015 hike on the Continental Divide Trail.
 All proceeds will go to CurePSP to help those that suffer from the disease that killed my mom.
+Campjam in Flagstaff, AZ with the “Attack of the Fifty Foot Woman” band, Oct 24, 1999 In 2008 I got to play bass guitar in studio with Jimmie Vaughan and my friend Jim Lark Rehearsal with Texas Choral Consort (now Panoramic Voices) Performance in Buenos Ares, Argentina with Panoramic Voices, July 2011 Texas Choral Consort performing Handel’s “Messiah” on the anniversary of its debut at the location of its debut on Fishamble Street in Dublin, Ireland in 2002 Comments are closed.
+Powered by Nirvana & WordPress.

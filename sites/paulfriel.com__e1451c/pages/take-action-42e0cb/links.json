@@ -1,13 +1,50 @@
 [
-"http://paulfriel.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSdNFCFjeaEghxAjjoa_RV2XzmA05J90TEIE77YvaHSctvswDg/viewform?usp=sf_link",
-"https://facebook.com/paulforpa",
-"https://instagram.com/paulfriel4pa",
-"https://paulfriel.com/",
-"https://paulfriel.com/endorsements",
-"https://paulfriel.com/home",
-"https://paulfriel.com/meet-paulfriel",
-"https://paulfriel.com/take-action",
-"https://secure.actblue.com/donate/paulfriel",
-"https://twitter.com/paulfrielforpa"
+{
+"text": ".",
+"href": "https://www.paulfriel.com"
+},
+{
+"text": "Click here to sign up to join #TeamPaul!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdNFCFjeaEghxAjjoa_RV2XzmA05J90TEIE77YvaHSctvswDg/viewform?usp=sf_link"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/paulfriel"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.paulfriel.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.paulfriel.com/home"
+},
+{
+"text": "MEET PAUL",
+"href": "https://www.paulfriel.com/meet-paulfriel"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.paulfriel.com/take-action"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/paulforpa"
+},
+{
+"text": "[image: Friel final logo_PRIMARY LOGO (1).png]",
+"href": "http://www.paulfriel.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/paulfriel4pa"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/paulfrielforpa"
+},
+{
+"text": "paul@paulfriel.com",
+"href": "mailto:team@paulfriel.com"
+}
 ]

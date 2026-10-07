@@ -1,5 +1,30 @@
 [
-"https://facebook.com/stetkis2014",
-"https://secure.anedot.com/stetkis-for-maine-senate/donate",
-"https://stetkisformaine.com/"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/stetkis-for-maine-senate/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.stetkisformaine.com/#endorsments"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stetkisformaine.com/#join"
+},
+{
+"text": "Home",
+"href": "https://www.stetkisformaine.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.stetkisformaine.com/#issues"
+},
+{
+"text": "Meet Joel",
+"href": "https://www.stetkisformaine.com/#about"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/stetkis2014"
+}
 ]

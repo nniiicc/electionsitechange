@@ -1,5 +1,5 @@
-Get to Know Judge cole
-Justice Cade R.
+HOME ABOUT ENDORSEMENTS ISSUES VOLUNTEER DONATE ABOUT Get to Know Judge cole “I will work every day to protect our families and stand up for our communities.
+My pledge to everyone is that I will fairly apply the law, never legislate from the bench, and always defend our Constitution and your liberty.” Justice Cade R.
 Cole has served you on the Louisiana Supreme Court since being elected without opposition in January of 2025.
 He is a proven defender of our rights, liberties, and the Constitution.
 He is a graduate of DeQuincy High School, Tulane, and the Tulane University School of Law.
@@ -20,56 +20,14 @@ Judge Cole served as a member of the vetting committee for federal judicial appo
 District Court for Western Louisiana’s Magistrate Judge selection committee.
 Cade is married to Rebekah Cole, a former Chemical Engineer.
 They have four children and reside in Lake Charles.
-PREVIOUS ENDORSEMENTS
-The law enforcement leaders of every parish in this supreme court district support Judge Cole because they know he will keep us safe.
-- Louisiana Attorney General Liz Murrill
-- Calcasieu Sheriff Stitch Guillory
-- Retired Calcasieu Sheriff Tony Mancuso
-- Cameron Sheriff Chris Savoie
-- Retired Cameron Sheriff Ron Johnson
-- Beauregard Sheriff Mark Hereford
-- Vernon Sheriff Sam Craft
-- Evangeline Sheriff Charles Guillory
-- Allen Sheriff Doug Hebert
-- Natchitoches Sheriff Stuart Wright
-- Sabine Sheriff Aaron Mitchell
-- DeSoto Sheriff Jayson Richardson
-- Retired DeSoto Sheriff Rodney Arbunkle
-- Caddo Sheriff Henry Whitehorn
-- St.
-Landry Sheriff Bobby Guidroz
-- Calcasieu District Attorney Stephen Dwight
-- Cameron District Attorney Tom Barrett
-- Vernon District Attorney Terry Lambright
-- Allen District Attorney Joe Green
-- Evangeline District Attorney Trent Brignac
-- Beauregard District Attorney Jimmy Lestage
-- Sabine District Attorney Don Burkett
-- Natchitoches District Attorney Billy Joe Harrington
-- Caddo District Attorney James Stewart
-- DeSoto District Attorney Charlie Adams
-- St.
-Landry District Attorney Chad Pitre
-- Sulphur Marshal Brandon Dever
-- Shreveport Marshal James Jefferson
-Legislators representing parts of District 3
-- Senator Jeremy Stine
-- Senator Mark Abraham
-- Senator Mike Reese
-- Senator Alan Seabaugh
-- Senator Thomas Pressly
-- Rep.
-Philip Tarver
-- Senator Sam Jenkins
-- Rep.
-Les Farnum
-- Rep.
-Ryan Bourriaque
-- Rep.
-Troy Romero
-- Rep.
-Gabe Firment
-- Rep.
-Rodney Schamerhorn
-- Rep.
-Dewith Carrier
+Slide title Write your caption here Button Slide title Write your caption here Button Slide title Write your caption here Button Slide title Write your caption here Button Slide title Write your caption here Button Slide title Write your caption here Button Slide title Write your caption here Button Slide title Write your caption here Button Slide title Write your caption here Button Slide title Write your caption here Button Slide title Write your caption here Button PREVIOUS ENDORSEMENTS The law enforcement leaders of every parish in this supreme court district support Judge Cole because they know he will keep us safe.
+Louisiana Attorney General Liz Murrill Calcasieu Sheriff Stitch Guillory Retired Calcasieu Sheriff Tony Mancuso Cameron Sheriff Chris Savoie Retired Cameron Sheriff Ron Johnson Beauregard Sheriff Mark Hereford Vernon Sheriff Sam Craft Evangeline Sheriff Charles Guillory Allen Sheriff Doug Hebert Natchitoches Sheriff Stuart Wright Sabine Sheriff Aaron Mitchell DeSoto Sheriff Jayson Richardson Retired DeSoto Sheriff Rodney Arbunkle Caddo Sheriff Henry Whitehorn St.
+Landry Sheriff Bobby Guidroz Calcasieu District Attorney Stephen Dwight Cameron District Attorney Tom Barrett Vernon District Attorney Terry Lambright Allen District Attorney Joe Green Evangeline District Attorney Trent Brignac Beauregard District Attorney Jimmy Lestage Sabine District Attorney Don Burkett Natchitoches District Attorney Billy Joe Harrington Caddo District Attorney James Stewart DeSoto District Attorney Charlie Adams St.
+Landry District Attorney Chad Pitre Sulphur Marshal Brandon Dever Shreveport Marshal James Jefferson Legislators representing parts of District 3 Senator Jeremy Stine Senator Mark Abraham Senator Mike Reese Senator Alan Seabaugh Senator Thomas Pressly Rep.
+Philip Tarver Senator Sam Jenkins Rep.
+Les Farnum Rep.
+Ryan Bourriaque Rep.
+Troy Romero Rep.
+Gabe Firment Rep.
+Rodney Schamerhorn Rep.
+Dewith Carrier judge cole WAS Endorsed by Button Button Button Button Button Button Button Button Button Also Endorsed By Button Button HOME ABOUT ENDORSEMENTS ISSUES VOLUNTEER VOLUNTEER DONATE Paid for by the Judge Cade Cole for Supreme Court Committee Share by:

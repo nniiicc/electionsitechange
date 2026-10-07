@@ -1,7 +1,13 @@
 {
  "description": "John Deatrich, candidate for State Representative",
  "final_url": "https://www.deatrichforstaterep.com/meet_john",
- "paid_for_by": null,
+ "fingerprint": "c5c0283eb7b37a87b5538869ae4121f481f8a951",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet John | John Deatrich",
- "years_mentioned": []
+ "years_mentioned": [
+  "1989",
+  "2002",
+  "2007"
+ ]
 }

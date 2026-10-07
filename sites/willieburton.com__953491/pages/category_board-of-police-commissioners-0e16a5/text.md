@@ -1,22 +1,23 @@
-- Search
-- Useful Links
-- Updates & Endorsements
-- Archives
-- Categories
-Category Archives: Board of Police Commissioners
-Electronic Surveillance Policy Conference
-How much is too much?
-Wednesday June 26th 6-8 PM Red Door Art Gallery 7500 Oakland St., Detroit, MI 48211 Panelists: Charles Williams (NAN) Eric Williams (ACLU) Willie Burton (Board of Police Commissioners) Darryl Brown (Board of Police Commissioners) Dan … Continue reading
-Commissioner Burton Questions Response Time Claims
-Commissioner Burton in’t taking response time statistics for granted.
+Willie E.
+Burton for State Representative Dist.
+9 Michigan's Ninth District will be better with Burton, because Burton means business!
+Skip to content Home Contribute Contact Us Meet Willie Burton Updates & Endorsements Helpful Contacts Category Archives: Board of Police Commissioners Electronic Surveillance Policy Conference Posted on June 26, 2019 by Willie Burton How much is too much?
+Wednesday June 26th 6-8 PM Red Door Art Gallery 7500 Oakland St., Detroit, MI 48211 Panelists: Charles Williams (NAN) Eric Williams (ACLU) Willie Burton (Board of Police Commissioners) Darryl Brown (Board of Police Commissioners) Dan … Continue reading → Posted in Board of Police Commissioners , Body Cams , Events , Issues , Networking | Tagged facial recognition | Leave a comment Commissioner Burton Questions Response Time Claims Posted on February 12, 2019 by Willie Burton Commissioner Burton in’t taking response time statistics for granted.
 He has been making news highlighting inconsistencies and inequities.
-Police commissioner wants answers on response times George Hunter Detroit News For years Detroit residents have expressed their concerns pertaining to slow response … Continue reading
-Family of Police Brutality Victim Interviewed
-On Sunday January 6th.
+Police commissioner wants answers on response times George Hunter Detroit News For years Detroit residents have expressed their concerns pertaining to slow response … Continue reading → Posted in Board of Police Commissioners , Response Times | Tagged Board of Police Commissioners , crime , Detroit , Police , Response Time , willie Burton | Leave a comment Family of Police Brutality Victim Interviewed Posted on January 8, 2019 by Willie Burton On Sunday January 6th.
 Commissioner Willie Burton and DRACO founder Scotty Boman filled in for Robert Ficano on 910 AM Superstation.
 They were joined by Special guest Greg Dunmore.
-Dunmore is multimedia journalist and executive producer of Pulse Beat Media. … Continue reading
-Willie Burton Speaks Out On Excessive Force & Mental Health
-Today Police Commissioner (Detoit District 5) Willie E.
+Dunmore is multimedia journalist and executive producer of Pulse Beat Media. … Continue reading → Posted in Board of Police Commissioners , Events , Issues , mental health , Use of Force | Tagged beating , Bob Ficano , brutality , Detroit , Dwayne Jones , Greg Dunmore , Kwajalyn Bradley , Lakeisha Williams , Police , Robert Ficano , Shantell Bradley , willie Burton | 1 Comment Willie Burton Speaks Out On Excessive Force & Mental Health Posted on December 19, 2018 by Willie Burton Today Police Commissioner (Detoit District 5) Willie E.
 Burton, National Action Network (Michigan Chapter) President Rev.
-Charles Williams, and Detroit Residents Advancing Civilian Oversight Founder Scotty Boman held a Press Conference with WDIV Local 4 / ClickOnDetroit (Jason Colthorp) and … Continue reading
+Charles Williams, and Detroit Residents Advancing Civilian Oversight Founder Scotty Boman held a Press Conference with WDIV Local 4 / ClickOnDetroit (Jason Colthorp) and … Continue reading → Posted in Board of Police Commissioners , mental health , Use of Force | Tagged Board of Police Commissioners , mental health , Use of Force | Leave a comment Search Search for: Useful Links Instagram My Facebook Michigan House of Representatives Official Board of Police Commissioners Site Updates & Endorsements Willie Burton to Participate in Eastside Candidate Forum 7-18-2026 Willie Burton Earns Endorsement from Teamsters Local 299 Willie Burton Earns Endorsement from ATU Local 26 13th District Democrats Endorse Willie Burton for State Representative Archives Archives Select Month July 2026 (3) May 2026 (1) October 2025 (1) August 2025 (2) July 2025 (1) June 2025 (1) May 2025 (1) June 2024 (1) November 2019 (1) June 2019 (1) May 2019 (1) February 2019 (2) January 2019 (1) December 2018 (1) November 2018 (1) October 2018 (1) May 2018 (1) April 2018 (2) February 2018 (1) December 2017 (1) October 2017 (1) September 2017 (1) August 2017 (1) July 2017 (1) May 2017 (1) April 2017 (2) February 2017 (1) January 2017 (1) October 2016 (1) July 2016 (1) May 2016 (1) April 2016 (1) April 2015 (1) March 2015 (1) January 2015 (1) March 2014 (1) February 2014 (2) Categories Categories Select Category Board of Police Commissioners Body Cams Business Detroit City Council District 5 Events Honors Human Resources Issues mental health Networking People Response Times Uncategorized Use of Force Calendar October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul Meta Create account Log in Entries feed Comments feed WordPress.com Campaign related items PAID FOR BY WILLIE BURTON FOR MI Detroit Mi 48207 October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul Willie E.
+Burton for State Representative Dist.
+9 Blog at WordPress.com.
+Subscribe Subscribed Willie E.
+Burton for State Representative Dist.
+9 Sign me up Have a WordPress.com account?
+Log in now.
+Willie E.
+Burton for State Representative Dist.
+9 View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

@@ -1,5 +1,5 @@
-Havre Daily News – April 7, 2022
-The stage is now set.
+Home Contribute Follow on Facebook In the News Select Page An old-fashioned idea: Let’s debate!
+Havre Daily News – April 7, 2022 The stage is now set.
 Although the general election is still months away, we know who will be on the ballot in November to represent Havre in the Montana House of Representatives.
 I’ve had the great honor of working for and with the community of Havre and a significant portion of northern Montana for the past 22 years in my role as executive director of Bear Paw Development Corp.
 During that time, I have worked with a committed team of economic and community development professionals to bring millions of dollars into our community to enhance our physical infrastructure, help small businesses start-up and expand and enhance the livability of a community and region that already has an outstanding quality of life.
@@ -13,7 +13,12 @@ What if both candidates agreed to a minimum of one debate per month between now 
 This would be an old-fashioned solution to the modern-day problem of pithy soundbites, partisan rhetoric and third-party attacks.
 I know I have something to offer Havre and the Hi-Line if elected, but I also know an informed citizenry is the hallmark of our democracy.
 So let’s debate.
-Count me in!
-——
-Paul Tuss is the Democratic candidate for House District 28 and serves as executive director of Bear Paw Development Corp.
+Count me in! —— Paul Tuss is the Democratic candidate for House District 28 and serves as executive director of Bear Paw Development Corp.
 He has served as chair of the Montana Board of Regents and as president of the Montana Economic Developers Association.
+Search Search Recent Posts A Brawl of the Wild tradition: Let the bands play!
+Supporting MSU-Northern Governing from the middle An old-fashioned idea: Let’s debate!
+Hill County Democrats introduce candidates Recent Comments No comments to show.
+Paid for by Tuss for House, P.O.
+Box 411, Havre, MT 59501.
+Debbie Rhines, Treasurer.
+Democrat Website by BigSkyWeb

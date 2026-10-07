@@ -1,27 +1,5 @@
-Endorsed By
-Austin Knudsen
-Montana Attorney General
-James Brown
-Montana State Auditor
-Matt Regier
-Montana Senate President
-Katie Zolnikov
-Montana House Speaker Pro Tempore
-Greg Hertz
-Montana State Senator, Fmr.
-Speaker of the House, Polson
-Tracy Sharp
-Montana State Representative, Polson
-Joe Read
-Fmr.
-Montana State Representative, Ronan
-Micah Robertson
-Ronan City Councilman
-Rick Jore
-Fmr.
-Montana State Representative, Ronan
-Tanner Smith
-Montana Republican Party - National Committeeman
-Adam Hertz
-Fmr.
-Montana State Representative, Missoula
+0 Skip to Content About Issues Endorsements Contact DONATE Open Menu Close Menu DONATE About Issues Endorsements Contact Open Menu Close Menu About Issues Endorsements Contact DONATE Endorsed By Austin Knudsen Montana Attorney General Susie Hedalen Montana State Superintendent James Brown Montana State Auditor Matt Regier Montana Senate President Katie Zolnikov Montana House Speaker Pro Tempore Greg Hertz Montana State Senator, Fmr.
+Speaker of the House, Polson Tracy Sharp Montana State Representative, Polson Joe Read Fmr.
+Montana State Representative, Ronan Micah Robertson Ronan City Councilman Rick Jore Fmr.
+Montana State Representative, Ronan Tanner Smith Montana Republican Party - National Committeeman Adam Hertz Fmr.
+Montana State Representative, Missoula Contact Cell: (406) 880-1593 Email: finley@finleyformontana.com Info About Issues Contact Donate Social Media Facebook Instagram Finley Warden for HD 13 Paid for by Finley Warden for HD 13 PO Box 783 Polson, MT 59860 - Republican Privacy Policy

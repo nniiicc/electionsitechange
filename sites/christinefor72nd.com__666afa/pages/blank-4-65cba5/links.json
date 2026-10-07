@@ -1,7 +1,34 @@
 [
-"https://christinefor72nd.com/",
-"https://christinefor72nd.com/blank-2-1",
-"https://christinefor72nd.com/blank-5",
-"https://christinefor72nd.com/privacy-policy",
-"https://secure.actblue.com/donate/christinefor72nd"
+{
+"text": "Connect",
+"href": "https://www.christinefor72nd.com#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/christinefor72nd"
+},
+{
+"text": "Events",
+"href": "https://www.christinefor72nd.com/blank-5#upcoming-events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.christinefor72nd.com/blank-2-1"
+},
+{
+"text": "Meet Christine",
+"href": "https://www.christinefor72nd.com#meet-christine"
+},
+{
+"text": "Priorities",
+"href": "https://www.christinefor72nd.com#my-priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.christinefor72nd.com/privacy-policy"
+},
+{
+"text": "christine@christinefor72nd.com",
+"href": "mailto:christine@christinefor72nd.com"
+}
 ]

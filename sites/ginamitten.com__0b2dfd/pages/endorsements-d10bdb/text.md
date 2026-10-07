@@ -1,63 +1,36 @@
-ENDORSEMENTS
-COMMUNITY LEADERS
-Brad Bakker, Esq.
-Hillary Anger Elfenbein
-Jim Faul, Esq.
-Peter Gariepy
-Sam Gladney, Esq.
+0 Skip to Content Endorsements Priorities Meet Gina Exposing the lies Contact Us DONATE Open Menu Close Menu Endorsements Priorities Meet Gina Exposing the lies Contact Us DONATE Open Menu Close Menu Endorsements Priorities Meet Gina Exposing the lies Contact Us DONATE ENDORSEMENTS COMMUNITY LEADERS Brad Bakker, Esq.
+Hillary Anger Elfenbein Jim Faul, Esq.
+Peter Gariepy Sam Gladney, Esq.
 Sheila Greenbaum, Esq.
 Gerry Greiman, Esq.
 Amy Gunn, Esq.
 Kevin Gunn, Esq.
-Scott Intagliata
-Maureen Jordan
-Linda Locke
-Joe Pereles, Esq.
-Jean Ponzi
-John Rava, Esq.
-Dana Sandweiss
-Bryan Sanger, Esq.
-Susan Sherman
-Gary Siegel, Esq.
-Rose-Lynn Sokol
-Lisa Suggs
-Nanora Sweet
-Karen Tokarz, Esq.
+Scott Intagliata Maureen Jordan Linda Locke Joe Pereles, Esq.
+Jean Ponzi John Rava, Esq.
+Dana Sandweiss Bryan Sanger, Esq.
+Susan Sherman Gary Siegel, Esq.
+Rose-Lynn Sokol Lisa Suggs Nanora Sweet Karen Tokarz, Esq.
 Dick Ulrich, Esq.
-ELECTED OFFICIALS
-Hon.
-State Senator Karla May
-Hon.
-State Senator Tracy McCreery
-Hon.
-Fred Wessels
-Hon.
-Michele Kratky
-Hon.
-State Representative LaDonna Appelbaum
-Hon.
-State Senator Stephen Webber
-Hon.
-Jill Schupp
-Hon.
-Daniela Velazquez
-Hon.
-Margaret Donnelly
-Hon.
-Barbara Fraser
-Hon.
-Jeanne Kirkton
-Hon.
-Peter Merideth
-Hon.
-Mary Nichols
-Hon.
-Betty VanUum
-Hon.
-Michelle Harris
-Hon.
-Harold Sanger
-Hon.
-Reggie Finney
-Hon.
-Michael Butler
+ELECTED OFFICIALS Hon.
+State Senator Karla May Hon.
+State Senator Tracy McCreery Hon.
+Fred Wessels Hon.
+Michele Kratky Hon.
+State Representative LaDonna Appelbaum Hon.
+State Senator Stephen Webber Hon.
+Jill Schupp Hon.
+Daniela Velazquez Hon.
+Margaret Donnelly Hon.
+Barbara Fraser Hon.
+Jeanne Kirkton Hon.
+Peter Merideth Hon.
+Mary Nichols Hon.
+Betty VanUum Hon.
+Michelle Harris Hon.
+Harold Sanger Hon.
+Reggie Finney Hon.
+Michael Butler Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay Connected Sign up to stay in touch with the campaign!
+Email Address Subscribe We respect your privacy Thank you!
+VOLUNTEER→ DONATE→ campaign@ginamitten.com (314) 384-9188 Paid for by Mitten for Missouri, Nelson Mitten, Treasurer

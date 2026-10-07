@@ -1,3 +1,5 @@
+Skip to content Search for: HOME ABOUT PLATFORM ENDORSEMENTS EVENTS VOLUNTEER FOLLOW THE MONEY DONATE CONTACT Previous Next Announcement: Lt.
+Gov Stratton at Lead Like Lincoln!
 I am so excited to announce our Guest Speaker for Lead Like Lincoln: Lieutenant Governor Julianna Stratton!
 Lieutenant Governor Juliana Stratton serves as Illinois 48th Lieutenant Governor and is the first Black woman to ever hold the position.
 In this role, her portfolio includes leading the Justice, Equity and Opportunity Initiative, and chairing the Illinois Council on Women and Girls, the Governor’s Rural Affairs Council, the Military Economic Development Council and the Illinois River Coordinating Council.
@@ -12,3 +14,10 @@ And when she can find a bit of free time, she enjoys going to concerts, a good d
 I am truly honored to host Lt.
 Governor Stratton in the 66th District!
 You won’t want to miss this!
+Get Your Tickets Here!
+By Roxie S | 2022-10-03T15:49:27+00:00 October 3, 2022 | Fundraiser , Upcoming Event | Comments Off on Announcement: Lt.
+Gov Stratton at Lead Like Lincoln!
+Share This Story, Choose Your Platform!
+Facebook LinkedIn Email Related Posts 6th Annual Lead Like Lincoln Campaign Fundraiser Gallery 6th Annual Lead Like Lincoln Campaign Fundraiser Join the Party Fundraiser 2026 Gallery Join the Party Fundraiser 2026 5th Annual Lead Like Lincoln Campaign Fundraiser Gallery 5th Annual Lead Like Lincoln Campaign Fundraiser Suds and Signatures Gallery Suds and Signatures Contact Our Team Address: P.O.
+Box 2633 Crystal Lake, IL 60014 Email: vote4suzanneness@gmail.com Call 224-208-8775 Connect with Team Ness Copyright | Citizens For Suzanne Ness | Privacy Policy Page load link This website uses cookies and third party services.
+Settings OK Go to Top

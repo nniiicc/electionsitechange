@@ -1,15 +1,62 @@
 [
-"http://facebook.com/electhadleyluddy",
-"https://facebook.com/electhadleyluddy",
-"https://hadleyluddy.com/",
-"https://hadleyluddy.com/cart",
-"https://hadleyluddy.com/contact",
-"https://hadleyluddy.com/home",
-"https://hadleyluddy.com/news",
-"https://hadleyluddy.com/newsletter",
-"https://hadleyluddy.com/priorities",
-"https://hadleyluddy.com/resources",
-"https://instagram.com/hadleyluddy",
-"https://instagram.com/hadleyluddy?hl=en",
-"https://secure.actblue.com/donate/friends-of-hadley-luddy-1"
+{
+"text": "0",
+"href": "https://www.hadleyluddy.com/cart"
+},
+{
+"text": "@hadleyluddy",
+"href": "https://instagram.com/hadleyluddy"
+},
+{
+"text": "About Hadley",
+"href": "https://www.hadleyluddy.com/"
+},
+{
+"text": "About Hadley",
+"href": "https://www.hadleyluddy.com/home"
+},
+{
+"text": "Contact",
+"href": "https://www.hadleyluddy.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-hadley-luddy-1"
+},
+{
+"text": "Hadley.Luddy@mahouse.gov",
+"href": "mailto:Hadley.Luddy@mahouse.gov"
+},
+{
+"text": "Legislative Priorities",
+"href": "https://www.hadleyluddy.com/priorities"
+},
+{
+"text": "My Newsletters",
+"href": "https://www.hadleyluddy.com/newsletter"
+},
+{
+"text": "News",
+"href": "https://www.hadleyluddy.com/news"
+},
+{
+"text": "Resources",
+"href": "https://www.hadleyluddy.com/resources"
+},
+{
+"text": "[image: MA State Representative Hadley Luddy]",
+"href": "https://www.hadleyluddy.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/electhadleyluddy"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/hadleyluddy/?hl=en"
+},
+{
+"text": "facebook.com/electhadleyluddy",
+"href": "https://facebook.com/electhadleyluddy"
+}
 ]

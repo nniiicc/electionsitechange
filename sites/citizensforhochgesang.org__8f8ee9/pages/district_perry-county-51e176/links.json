@@ -1,34 +1,154 @@
 [
-"https://14news.com/",
-"https://citizensforhochgesang.org/",
-"https://citizensforhochgesang.org/cdn-cgi/l/email-protection",
-"https://citizensforhochgesang.org/district",
-"https://citizensforhochgesang.org/district/perry-county/cannelton",
-"https://citizensforhochgesang.org/district/perry-county/tell-city",
-"https://citizensforhochgesang.org/events",
-"https://citizensforhochgesang.org/facts",
-"https://citizensforhochgesang.org/media",
-"https://citizensforhochgesang.org/news",
-"https://citizensforhochgesang.org/platform",
-"https://citizensforhochgesang.org/platform/data-centers",
-"https://citizensforhochgesang.org/platform/jobs",
-"https://citizensforhochgesang.org/platform/property-taxes",
-"https://citizensforhochgesang.org/store",
-"https://citizensforhochgesang.org/support",
-"https://duboiscountyherald.com/perry_county_news",
-"https://duboiscountyherald.com/perry_county_news/news/webb-wheel-request-tax-abatements-from-county-for-potential-expansion/article_849b258d-c005-5f38-a5c0-a28d68e3ae49.html",
-"https://facebook.com/bradhochgesangforindianastatesenate",
-"https://hoosierenergy.com/news-resources/data-centers-affordability-in-focus-at-annual-meeting",
-"https://impa.com/impa-municipal-power/tell-city",
-"https://in.gov/ifa/srf/files/Tell-City-LSLR-and-System-Improvements-CE.pdf-1.22.2026.pdf",
-"https://indianacapitalchronicle.com/2025/02/14/gov-mike-braun-joins-indiana-locals-in-long-held-opposition-against-proposed-forest-project",
-"https://inkfreenews.com/2025/08/29/evansville-approves-wheel-tax-tell-city-delays-decision",
-"https://instagram.com/bradhochgesang.official",
-"https://pchospital.org/our-services/perry-county-ems",
-"https://tribtown.com/2025/08/26/contentious-hoosier-national-forest-project-moving-forward-foresters-say-its-the-best-path-forward",
-"https://tristatehomepage.com/",
-"https://waupacafoundry.com/blog/waupaca-to-idle-most-of-etowah-foundry-cut-540-jobs",
-"https://weather.gov/lmk/HistoricRainfallFloodingApril2-62025",
-"https://wfyi.org/wfyi-news/2026-06-15/taxed-on-taxed-on-taxed-some-raise-concerns-about-road-funding-plan",
-"https://youtube.com/@CitizensforHochgesang"
+{
+"text": "14 News",
+"href": "https://www.14news.com/"
+},
+{
+"text": "About & Priorities",
+"href": "https://citizensforhochgesang.org/platform"
+},
+{
+"text": "CanneltonCannelton voted 71 percent to keep its school in November 2025. A town this determined should not have to keep proving it deserves to exist.",
+"href": "https://citizensforhochgesang.org/district/perry-county/cannelton"
+},
+{
+"text": "Contact Us",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "District",
+"href": "https://citizensforhochgesang.org/district"
+},
+{
+"text": "Events",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "Eyewitness News WEHT",
+"href": "https://www.tristatehomepage.com/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bradhochgesangforindianastatesenate"
+},
+{
+"text": "Home",
+"href": "https://citizensforhochgesang.org/"
+},
+{
+"text": "Hoosier Energy, data centers and affordability",
+"href": "https://www.hoosierenergy.com/news-resources/data-centers-affordability-in-focus-at-annual-meeting/"
+},
+{
+"text": "IMPA, Tell City municipal power",
+"href": "https://www.impa.com/impa-municipal-power/tell-city/"
+},
+{
+"text": "Indiana Capital Chronicle, Braun joins opposition to forest project",
+"href": "https://indianacapitalchronicle.com/2025/02/14/gov-mike-braun-joins-indiana-locals-in-long-held-opposition-against-proposed-forest-project/"
+},
+{
+"text": "Indiana Finance Authority, Tell City lead line replacement",
+"href": "https://www.in.gov/ifa/srf/files/Tell-City-LSLR-and-System-Improvements-CE.pdf-1.22.2026.pdf"
+},
+{
+"text": "InkFree News, Evansville adopts wheel tax while Tell City delays",
+"href": "https://www.inkfreenews.com/2025/08/29/evansville-approves-wheel-tax-tell-city-delays-decision/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bradhochgesang.official"
+},
+{
+"text": "Media & Press",
+"href": "https://citizensforhochgesang.org/media"
+},
+{
+"text": "Meet me in person",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "NWS Louisville, April 2025 historic flooding",
+"href": "https://www.weather.gov/lmk/HistoricRainfallFloodingApril2-62025"
+},
+{
+"text": "News",
+"href": "https://citizensforhochgesang.org/news"
+},
+{
+"text": "Our District",
+"href": "https://citizensforhochgesang.org/district"
+},
+{
+"text": "Perry County Memorial Hospital, EMS services",
+"href": "https://www.pchospital.org/our-services/perry-county-ems/"
+},
+{
+"text": "Perry County News",
+"href": "https://www.duboiscountyherald.com/perry_county_news/"
+},
+{
+"text": "Perry County News (via Dubois County Herald)",
+"href": "https://www.duboiscountyherald.com/perry_county_news/"
+},
+{
+"text": "Perry County News, Webb Wheel abatement request",
+"href": "https://www.duboiscountyherald.com/perry_county_news/news/webb-wheel-request-tax-abatements-from-county-for-potential-expansion/article_849b258d-c005-5f38-a5c0-a28d68e3ae49.html"
+},
+{
+"text": "Read where I stand →",
+"href": "https://citizensforhochgesang.org/platform/data-centers"
+},
+{
+"text": "Read where I stand →",
+"href": "https://citizensforhochgesang.org/platform/jobs"
+},
+{
+"text": "Read where I stand →",
+"href": "https://citizensforhochgesang.org/platform/property-taxes"
+},
+{
+"text": "Seymour Tribune, forest project moving forward amid lawsuits",
+"href": "https://tribtown.com/2025/08/26/contentious-hoosier-national-forest-project-moving-forward-foresters-say-its-the-best-path-forward/"
+},
+{
+"text": "Shirts & Signs",
+"href": "https://citizensforhochgesang.org/store"
+},
+{
+"text": "Support",
+"href": "https://citizensforhochgesang.org/support"
+},
+{
+"text": "Tell CityTell City keeps getting handed bills it did not run up, starting with a wheel tax the state all but ordered. This page tracks the river town ledger: roads, the hospital, water lines, and the jobs worth protecting.",
+"href": "https://citizensforhochgesang.org/district/perry-county/tell-city"
+},
+{
+"text": "Tell me what I'm missing",
+"href": "mailto:campaign@citizensforhochgesang.org?subject=From+Perry+County"
+},
+{
+"text": "The Record",
+"href": "https://citizensforhochgesang.org/facts"
+},
+{
+"text": "WFYI, concerns about the road funding plan",
+"href": "https://www.wfyi.org/wfyi-news/2026-06-15/taxed-on-taxed-on-taxed-some-raise-concerns-about-road-funding-plan"
+},
+{
+"text": "Waupaca Foundry, Etowah production shifts",
+"href": "https://waupacafoundry.com/blog/waupaca-to-idle-most-of-etowah-foundry-cut-540-jobs"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@CitizensforHochgesang"
+},
+{
+"text": "[email protected]",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "[image: Brad Hochgesang for State Senate campaign logo]Brad Hochgesangfor State Senate",
+"href": "https://citizensforhochgesang.org/"
+}
 ]

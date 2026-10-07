@@ -1,48 +1,310 @@
 [
-"http://waterresilience.ca.gov/wp-content/uploads/2020/01/California-Water-Resilience-Portfolio-2019-Final2.pdf",
-"https://amendments-rules.house.gov/amendments/GARAME_192_xml91820020511511.pdf",
-"https://congress.gov/bill/116th-congress/house-bill/5377",
-"https://congress.gov/bill/116th-congress/house-bill/7312?q=%7B%22search%22%3A%5B%22Garamendi%22%5D%7D&s=2&r=1",
-"https://facebook.com/johngaramendi",
-"https://flickr.com/photos/38900629@N06",
-"https://garamendi.org/",
-"https://garamendi.org/about",
-"https://garamendi.org/contact",
-"https://garamendi.org/contribute",
-"https://garamendi.org/contribute?am=100",
-"https://garamendi.org/contribute?am=1000",
-"https://garamendi.org/contribute?am=25",
-"https://garamendi.org/contribute?am=3300",
-"https://garamendi.org/contribute?am=50",
-"https://garamendi.org/contribute?am=500",
-"https://garamendi.org/events",
-"https://garamendi.org/in-the-district",
-"https://garamendi.org/issues",
-"https://garamendi.org/join",
-"https://garamendi.org/news",
-"https://garamendi.org/news/garamendi-advocates-california-walnut-and-olive-growers",
-"https://garamendi.org/news/garamendi-applauds-governor-newsoms-inclusion-sites-reservoir-project-water-plan",
-"https://garamendi.org/news/garamendi-bill-unlocks-federal-financing-sites-reservoir-and-central-valley-project-pumps",
-"https://garamendi.org/news/garamendi-honors-sikh-community-washington",
-"https://garamendi.org/news/garamendi-hosts-productive-district-work-day-solano-and-sacramento-counties",
-"https://garamendi.org/news/garamendi-introduces-home-act-create-new-affordable-housing",
-"https://garamendi.org/news/garamendi-votes-eliminate-cap-state-and-local-tax-deduction-thats-harming-californians",
-"https://garamendi.org/news/house-passes-garamendi-amendment-supporting-jones-act-enforcement-offshore-wind",
-"https://garamendi.org/news/house-passes-garamendi-wins-delta-and-central-valley-water-resources-development-act-0",
-"https://garamendi.org/news?page=0",
-"https://garamendi.org/news?page=10",
-"https://garamendi.org/news?page=11",
-"https://garamendi.org/news?page=16",
-"https://garamendi.org/news?page=3",
-"https://garamendi.org/news?page=4",
-"https://garamendi.org/news?page=5",
-"https://garamendi.org/news?page=6",
-"https://garamendi.org/news?page=7",
-"https://garamendi.org/news?page=8",
-"https://garamendi.org/news?page=9",
-"https://twitter.com/JohnGaramendi",
-"https://urldefense.proofpoint.com/v2/url?u=https-3A__www.congress.gov_bill_116th-2Dcongress_house-2Dbill_4447&d=DwMFaQ&c=L93KkjKsAC98uTvC4KvQDdTDRzAeWDDRmG6S3YXllH0&r=EO8ZrzOoGhM0kD3pd_G6k013r8TXbcItEFyaEHBO9lQ&m=ynPlDmXhw82ZYAk99UHWZpPsNGmIZ98gHVvPXIjOv_E&s=53n4HhVNMmJi0Xblt9Ov8leFvysb2Bm9L0OcwKw4YSI",
-"https://urldefense.proofpoint.com/v2/url?u=https-3A__www.congress.gov_bill_116th-2Dcongress_house-2Dbill_7575&d=DwMFaQ&c=L93KkjKsAC98uTvC4KvQDdTDRzAeWDDRmG6S3YXllH0&r=_JqVzAOw5dp-DAf4DVGZb7pLTsgp_fumBRhQWp-UeaE&m=Q2kAdzLQqjpGDfnizK8KHP3vdLSo92Mvjq6rFPyvTvI&s=Tls9d6PaBQNEIh7_wJFtnjKhFNh3dFvufYgcjioWr3Y",
-"https://urldefense.proofpoint.com/v2/url?u=https-3A__www.congress.gov_bill_116th-2Dcongress_house-2Dbill_8217&d=DwMFaQ&c=L93KkjKsAC98uTvC4KvQDdTDRzAeWDDRmG6S3YXllH0&r=EO8ZrzOoGhM0kD3pd_G6k013r8TXbcItEFyaEHBO9lQ&m=oOxTGbKNrYzyVTExgn2mnCw7O3Yzw-2AaIcffzJm-q0&s=dOkIdpOElAomyu2JSxSYrmLmic3kaClZcjS8e5kbFew",
-"https://youtube.com/user/JohnGaramendi/featured"
+{
+"text": "$100",
+"href": "https://www.garamendi.org/contribute?am=100"
+},
+{
+"text": "$1000",
+"href": "https://www.garamendi.org/contribute?am=1000"
+},
+{
+"text": "$25",
+"href": "https://www.garamendi.org/contribute?am=25"
+},
+{
+"text": "$3300",
+"href": "https://www.garamendi.org/contribute?am=3300"
+},
+{
+"text": "$50",
+"href": "https://www.garamendi.org/contribute?am=50"
+},
+{
+"text": "$500",
+"href": "https://www.garamendi.org/contribute?am=500"
+},
+{
+"text": "2020 Water Resilience Portfolio.",
+"href": "http://waterresilience.ca.gov/wp-content/uploads/2020/01/California-Water-Resilience-Portfolio-2019-Final2.pdf"
+},
+{
+"text": "About John",
+"href": "https://www.garamendi.org/about"
+},
+{
+"text": "Agriculture",
+"href": "https://www.garamendi.org/issues#agriculture"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://www.garamendi.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.garamendi.org/contribute"
+},
+{
+"text": "Current page 8",
+"href": "https://www.garamendi.org/news?page=7"
+},
+{
+"text": "Education",
+"href": "https://www.garamendi.org/issues#education"
+},
+{
+"text": "Environment",
+"href": "https://www.garamendi.org/issues#environment"
+},
+{
+"text": "Events",
+"href": "https://www.garamendi.org/events"
+},
+{
+"text": "First page « First",
+"href": "https://www.garamendi.org/news?page=0"
+},
+{
+"text": "Garamendi #33",
+"href": "https://amendments-rules.house.gov/amendments/GARAME_192_xml91820020511511.pdf"
+},
+{
+"text": "Garamendi Advocates for California Walnut and Olive Growers",
+"href": "https://www.garamendi.org/news/garamendi-advocates-california-walnut-and-olive-growers"
+},
+{
+"text": "Garamendi Applauds Governor Newsom’s Inclusion of Sites Reservoir Project in Water Plan",
+"href": "https://www.garamendi.org/news/garamendi-applauds-governor-newsoms-inclusion-sites-reservoir-project-water-plan"
+},
+{
+"text": "Garamendi Bill Unlocks Federal Financing for Sites Reservoir and Central Valley Project Pumps Modernization",
+"href": "https://www.garamendi.org/news/garamendi-bill-unlocks-federal-financing-sites-reservoir-and-central-valley-project-pumps"
+},
+{
+"text": "Garamendi Honors the Sikh Community in Washington",
+"href": "https://www.garamendi.org/news/garamendi-honors-sikh-community-washington"
+},
+{
+"text": "Garamendi Hosts Productive District Work Day in Solano and Sacramento Counties",
+"href": "https://www.garamendi.org/news/garamendi-hosts-productive-district-work-day-solano-and-sacramento-counties"
+},
+{
+"text": "Garamendi Introduces HOME Act to Create New Affordable Housing",
+"href": "https://www.garamendi.org/news/garamendi-introduces-home-act-create-new-affordable-housing"
+},
+{
+"text": "Garamendi Votes to Eliminate Cap on the State and Local Tax Deduction That’s Harming Californians",
+"href": "https://www.garamendi.org/news/garamendi-votes-eliminate-cap-state-and-local-tax-deduction-thats-harming-californians"
+},
+{
+"text": "H.R. 4447",
+"href": "https://urldefense.proofpoint.com/v2/url?u=https-3A__www.congress.gov_bill_116th-2Dcongress_house-2Dbill_4447&d=DwMFaQ&c=L93KkjKsAC98uTvC4KvQDdTDRzAeWDDRmG6S3YXllH0&r=EO8ZrzOoGhM0kD3pd_G6k013r8TXbcItEFyaEHBO9lQ&m=ynPlDmXhw82ZYAk99UHWZpPsNGmIZ98gHVvPXIjOv_E&s=53n4HhVNMmJi0Xblt9Ov8leFvysb2Bm9L0OcwKw4YSI&e="
+},
+{
+"text": "H.R.7575",
+"href": "https://urldefense.proofpoint.com/v2/url?u=https-3A__www.congress.gov_bill_116th-2Dcongress_house-2Dbill_7575&d=DwMFaQ&c=L93KkjKsAC98uTvC4KvQDdTDRzAeWDDRmG6S3YXllH0&r=_JqVzAOw5dp-DAf4DVGZb7pLTsgp_fumBRhQWp-UeaE&m=Q2kAdzLQqjpGDfnizK8KHP3vdLSo92Mvjq6rFPyvTvI&s=Tls9d6PaBQNEIh7_wJFtnjKhFNh3dFvufYgcjioWr3Y&e="
+},
+{
+"text": "H.R.8217",
+"href": "https://urldefense.proofpoint.com/v2/url?u=https-3A__www.congress.gov_bill_116th-2Dcongress_house-2Dbill_8217&d=DwMFaQ&c=L93KkjKsAC98uTvC4KvQDdTDRzAeWDDRmG6S3YXllH0&r=EO8ZrzOoGhM0kD3pd_G6k013r8TXbcItEFyaEHBO9lQ&m=oOxTGbKNrYzyVTExgn2mnCw7O3Yzw-2AaIcffzJm-q0&s=dOkIdpOElAomyu2JSxSYrmLmic3kaClZcjS8e5kbFew&e="
+},
+{
+"text": "HOME Investment Partnership Reauthorization Act",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/7312?q=%7B%22search%22%3A%5B%22Garamendi%22%5D%7D&s=2&r=1"
+},
+{
+"text": "Health Care",
+"href": "https://www.garamendi.org/issues#health-care"
+},
+{
+"text": "House Passes Garamendi Amendment Supporting Jones Act Enforcement in Offshore Wind",
+"href": "https://www.garamendi.org/news/house-passes-garamendi-amendment-supporting-jones-act-enforcement-offshore-wind"
+},
+{
+"text": "House Passes Garamendi Wins for Delta and Central Valley in Water Resources Development Act",
+"href": "https://www.garamendi.org/news/house-passes-garamendi-wins-delta-and-central-valley-water-resources-development-act-0"
+},
+{
+"text": "In the District",
+"href": "https://www.garamendi.org/in-the-district"
+},
+{
+"text": "Issues",
+"href": "https://www.garamendi.org/issues"
+},
+{
+"text": "January 25, 2020",
+"href": "https://www.garamendi.org/news/garamendi-votes-eliminate-cap-state-and-local-tax-deduction-thats-harming-californians"
+},
+{
+"text": "January 30, 2020",
+"href": "https://www.garamendi.org/news/garamendi-applauds-governor-newsoms-inclusion-sites-reservoir-project-water-plan"
+},
+{
+"text": "January 30, 2020",
+"href": "https://www.garamendi.org/news/garamendi-honors-sikh-community-washington"
+},
+{
+"text": "January 30, 2020",
+"href": "https://www.garamendi.org/news/garamendi-hosts-productive-district-work-day-solano-and-sacramento-counties"
+},
+{
+"text": "Jobs",
+"href": "https://www.garamendi.org/issues#jobs"
+},
+{
+"text": "John Garamendi Facebook",
+"href": "https://www.facebook.com/johngaramendi"
+},
+{
+"text": "John Garamendi Flickr",
+"href": "https://www.flickr.com/photos/38900629@N06/"
+},
+{
+"text": "John Garamendi Twitter",
+"href": "https://twitter.com/JohnGaramendi"
+},
+{
+"text": "John Garamendi YouTube",
+"href": "https://www.youtube.com/user/JohnGaramendi/featured"
+},
+{
+"text": "Join",
+"href": "https://www.garamendi.org/join"
+},
+{
+"text": "June 30, 2020",
+"href": "https://www.garamendi.org/news/garamendi-introduces-home-act-create-new-affordable-housing"
+},
+{
+"text": "Last page Last »",
+"href": "https://www.garamendi.org/news?page=16"
+},
+{
+"text": "Military Affairs and Foreign Relations",
+"href": "https://www.garamendi.org/issues#military-affairs-and-foreign-relations"
+},
+{
+"text": "News",
+"href": "https://www.garamendi.org/news"
+},
+{
+"text": "Next page Next ›",
+"href": "https://www.garamendi.org/news?page=8"
+},
+{
+"text": "October 8, 2020",
+"href": "https://www.garamendi.org/news/garamendi-advocates-california-walnut-and-olive-growers"
+},
+{
+"text": "October 8, 2020",
+"href": "https://www.garamendi.org/news/garamendi-bill-unlocks-federal-financing-sites-reservoir-and-central-valley-project-pumps"
+},
+{
+"text": "October 8, 2020",
+"href": "https://www.garamendi.org/news/house-passes-garamendi-amendment-supporting-jones-act-enforcement-offshore-wind"
+},
+{
+"text": "October 8, 2020",
+"href": "https://www.garamendi.org/news/house-passes-garamendi-wins-delta-and-central-valley-water-resources-development-act-0"
+},
+{
+"text": "Page 10",
+"href": "https://www.garamendi.org/news?page=9"
+},
+{
+"text": "Page 11",
+"href": "https://www.garamendi.org/news?page=10"
+},
+{
+"text": "Page 12",
+"href": "https://www.garamendi.org/news?page=11"
+},
+{
+"text": "Page 4",
+"href": "https://www.garamendi.org/news?page=3"
+},
+{
+"text": "Page 5",
+"href": "https://www.garamendi.org/news?page=4"
+},
+{
+"text": "Page 6",
+"href": "https://www.garamendi.org/news?page=5"
+},
+{
+"text": "Page 7",
+"href": "https://www.garamendi.org/news?page=6"
+},
+{
+"text": "Page 9",
+"href": "https://www.garamendi.org/news?page=8"
+},
+{
+"text": "Previous page ‹ Previous",
+"href": "https://www.garamendi.org/news?page=6"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-advocates-california-walnut-and-olive-growers"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-applauds-governor-newsoms-inclusion-sites-reservoir-project-water-plan"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-bill-unlocks-federal-financing-sites-reservoir-and-central-valley-project-pumps"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-honors-sikh-community-washington"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-hosts-productive-district-work-day-solano-and-sacramento-counties"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-introduces-home-act-create-new-affordable-housing"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-votes-eliminate-cap-state-and-local-tax-deduction-thats-harming-californians"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/house-passes-garamendi-amendment-supporting-jones-act-enforcement-offshore-wind"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/house-passes-garamendi-wins-delta-and-central-valley-water-resources-development-act-0"
+},
+{
+"text": "Restoring Tax Fairness for States and Localities Act",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/5377"
+},
+{
+"text": "Seniors",
+"href": "https://www.garamendi.org/issues#seniors"
+},
+{
+"text": "Social Justice",
+"href": "https://www.garamendi.org/issues#social-justice"
+},
+{
+"text": "Transportation",
+"href": "https://www.garamendi.org/issues#transportation"
+},
+{
+"text": "Veterans",
+"href": "https://www.garamendi.org/issues#veterans"
+},
+{
+"text": "Water",
+"href": "https://www.garamendi.org/issues#water"
+},
+{
+"text": "[image: Logo: John Garamendi for Congress]",
+"href": "https://www.garamendi.org/"
+}
 ]

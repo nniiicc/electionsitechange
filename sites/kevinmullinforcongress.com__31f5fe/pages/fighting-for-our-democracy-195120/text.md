@@ -1,6 +1,4 @@
-Kevin's Priorities
-Fighting For Our Democracy
-Now, more than ever before, we need democracy warriors in Congress who will fight for our shared American values.
+top of page Home Meet Kevin Current Updates State of Play: 2026 Kevin's Recent Activity State of Play: 2026 Kevin's Recent Activity Priorities Combatting Authoritarianism Fighting For Our Democracy Making Healthcare More Affordable Lowering the Cost of Housing Fighting for Climate Action Protecting Reproductive Rights Fiscal Responsibility & Fair Tax Policy Combatting Authoritarianism Fighting For Our Democracy Making Healthcare More Affordable Lowering the Cost of Housing Fighting for Climate Action Protecting Reproductive Rights Fiscal Responsibility & Fair Tax Policy Accomplishments Legislation Delivering For CA-15 Legislation Delivering For CA-15 Endorsements Menu Close SIGN UP DONATE Kevin's Priorities Fighting For Our Democracy Now, more than ever before, we need democracy warriors in Congress who will fight for our shared American values.
 Growing up, Kevin learned to value our democracy at his family dinner table.
 Kevin’s dad was a high school civics teacher on the Peninsula, and his family would have nightly conversations about the value of community and civic participation.
 These experiences instilled in him a fundamental sense of pride in healthy, functioning democratic processes - and eventually inspired Kevin to run for office.
@@ -10,3 +8,5 @@ Kevin is a proud cosponsor of the Freedom to Vote Act, which would bring more tr
 In the California Assembly, Kevin authored the landmark California DISCLOSE Act, to put a stop to the use of dark money in our elections and reveal the true funders of ballot measures and candidates.
 He helped pass universal vote-by-mail so every California voter receives a postage paid paper ballot, resulting in record participation and turnout.
 He was also a co-author of the law to automatically register Californians to vote.
+Join the Fight First name * Last name * Email * Phone Street Address City State Zip Code Host and event Request a call Request a yard sign Sign up to stay connected Submit Paid for by Kevin Mullin for Congress.
+PO Box 869 Belmont, CA 94002 Home Meet Kevin Current Updates State of Play: 2026 Kevin's Recent Activity Priorities Combatting Authoritarianism Fighting For Our Democracy Making Healthcare More Affordable Lowering the Cost of Housing Fighting for Climate Action Protecting Reproductive Rights Fiscal Responsibility & Fair Tax Policy Accomplishments Legislation Delivering For CA-15 Endorsements bottom of page

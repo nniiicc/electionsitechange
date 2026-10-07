@@ -1,4 +1,4 @@
-I grew up in a family that struggled financially.
+Toggle navigation Meet Adrian About Adrian Values Contact Us The District Missouri’s 47th House District Find Your Polling Place Endorsements Volunteer Donate Facebook Twitter About Adrian Plank I grew up in a family that struggled financially.
 My father worked 3 part-time jobs, and there was never enough money.
 He drove the old car to his jobs and Mom was stuck in the house with my 3 brothers and me.
 Food stamps helped some, and I remember those 5-pound blocks of government cheese.
@@ -57,3 +57,5 @@ Have you noticed how they all say it won’t be “politics as usual” if they�
 And then, have you noticed how it plays out?
 Is anyone else fed up besides me?
 A vote for Adrian Plank is a vote for all of us.
+Meet Adrian The District Volunteer Contact Us PAID FOR BY FRIENDS OF ADRIAN PLANK Peter Schneeberger, Treasurer Copyright # Friends of Adrian Plank.
+All rights reserved.

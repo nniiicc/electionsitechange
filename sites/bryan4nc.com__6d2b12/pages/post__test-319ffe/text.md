@@ -1,7 +1,5 @@
-Opinion Column: "Undermining Democracy: Stripping Women's Rights Without Voter Input"
-Updated: May 7, 2024
-By Bryan Cohn - Published April 29, 2024 in The Henderson Daily Dispatch
-The recent ruling by the Arizona Supreme Court to enforce a Civil War-era abortion law is a stark warning for North Carolina.
+top of page DONATE Home Meet Bryan Priorities News Volunteer More Use tab to navigate through the menu items.
+All Posts Search Opinion Column: "Undermining Democracy: Stripping Women's Rights Without Voter Input" Bryan Cohn Apr 29, 2024 3 min read Updated: May 7, 2024 By Bryan Cohn - Published April 29, 2024 in The Henderson Daily Dispatch The recent ruling by the Arizona Supreme Court to enforce a Civil War-era abortion law is a stark warning for North Carolina.
 Republicans will attempt to end a woman’s right to an abortion in ways that circumvent modern American democracy, and they will do so despite the will of the people.
 North Carolinians who believe in equal rights for women must stand together by defending democracy and exercising our right to vote this fall.
 Arizona’s “new” abortion ban in cases of even incest and rape is a relic of a time of gross inequality.
@@ -39,4 +37,6 @@ Those wanting to restrict women's rights have done so by fooling voters, trying 
 We must stand up for equality and women’s rights by demanding and exercising democracy.
 If we are going to stand up for all women, we must all vote.
 Bryan Cohn is a resident of Oxford serving on the Oxford City Board of Commissioners.
-He is the Democratic nominee for the NC House of Representatives for NC House Dist. 32, which includes all of Granville County and much of Vance County.
+He is the Democratic nominee for the NC House of Representatives for NC House Dist.
+32, which includes all of Granville County and much of Vance County.
+CONTACT THE CAMPAIGN Paid for by Bryan Cohn For NC PO Box 10541 Raleigh, NC 27605 Privacy Statement bottom of page

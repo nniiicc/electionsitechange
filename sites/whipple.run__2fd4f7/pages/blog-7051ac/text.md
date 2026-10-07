@@ -1,9 +1,7 @@
-Questions and Responses to Survey from the Hardin County Farm Bureau “Measure the Candidate” forum on 1 OCT 2026
-On Thursday, October 1st Hardin County Farm Bureau had a candidate forum at the Pritchard Center.
+0 Skip to Content The 10th District Project My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Open Menu Close Menu The 10th District Project My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Open Menu Close Menu My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Questions and Responses to Survey from the Hardin County Farm Bureau “Measure the Candidate” forum on 1 OCT 2026 On Thursday, October 1st Hardin County Farm Bureau had a candidate forum at the Pritchard Center.
 It was open to all state and county candidates to participate in.
 Candidates were sent surveys and asked to submit their answers for the public.
-Below are the questions and my responses:
-1) Do you support continuing 50% of the Master settlement Agreement being directed to agriculture thru the Kentucky Office of Agricultural policy?
+Below are the questions and my responses: 1) Do you support continuing 50% of the Master settlement Agreement being directed to agriculture thru the Kentucky Office of Agricultural policy?
 Yes, I fully support 50% of the Master Settlement Agreement being used to support agricultural diversification and farm families.
 2) Hardin County Farm Bureau’s office property taxes increased 22% last year.
 Our board considered this a burdensome increase.
@@ -60,8 +58,7 @@ Spent nuclear fuel can be recycled to produce fresh reactor fuel.
 About 94-96% of spent nuclear fuel is still usable.
 Radioactive by-products in spent nuclear fuel can be extracted for medical use.
 Honestly, I believe that there are cleaner, less troublesome ways to produce strong, reliable energy for Kentucky’s needs other than nuclear, but I would consider nuclear energy as an option.
-3 May, 2026
-Thoughts on the recent Supreme Court decision regarding Section 2 of the 1965 Voting Rights Act.
+3 May, 2026 Thoughts on the recent Supreme Court decision regarding Section 2 of the 1965 Voting Rights Act.
 I need to take a few minutes to share some thoughts about the recent Supreme Court decision regarding the Voting Rights Act of 1965.
 First, this decision, in my opinion, is not about voting rights.
 No one will lose the right to vote due to this decision.
@@ -74,8 +71,7 @@ Section 2 of the Voting Rights Act of 1965 basically said that lawmakers could s
 This meant that voting districts had to be drawn in order to leave at least the appearance of a chance that a Black voter could possibly have a Black candidate to vote for.
 With this Supreme Court decision districts will be able to be drawn in a way that is expected to lower minority representation in Congress from many states.
 In other words, minorities will have the same right to vote for the white candidates that the white people have.
-HOW DO WE FIX THIS:
-First, we follow the law and our legal traditions.
+HOW DO WE FIX THIS: First, we follow the law and our legal traditions.
 We’re not supposed to redraw Congressional districts until after the 2030 census.
 Every state legislature and governor should have told President Trump NO when he made has unethical request for states to change their own rules to suit him.
 But that didn’t happen and here we are.
@@ -98,11 +94,8 @@ Respect for Political Subdivisions: District lines should follow existing border
 Competitive Representation: Good districts often promote competition rather than creating "safe seats" that protect incumbents and ignore minority party voters.
 Racial Equity: The districts must comply with the Voting Rights Act, prohibiting the dilution of minority voting power through methods like "packing" or "cracking".
 (This last part I highlighted, because it is the part that our US Supreme Court says is not necessary.
-I believe that it is and that it should be considered when drawing a proper map with respect to REPRESENTATION for all)
-Democracy thrives in rural Kentucky!
-31 March, 2026
-Breckinridge County Chamber of Commerce Candidate Forum
-Over the past week the Breckinridge County Chamber of Commerce and the Farm Bureau have hosted a candidate forum in the BC High School.
+I believe that it is and that it should be considered when drawing a proper map with respect to REPRESENTATION for all) Democracy thrives in rural Kentucky!
+31 March, 2026 Breckinridge County Chamber of Commerce Candidate Forum Over the past week the Breckinridge County Chamber of Commerce and the Farm Bureau have hosted a candidate forum in the BC High School.
 We got to hear candidates for Magistrate, Judge Executive, Sheriff, Jailor and, last night, for the 10th District state House of Representatives seat.
 I am so proud to live in Breck County and see all the good men and women stepping up to serve the public.
 Last night was my chance to speak, along with Rep.
@@ -110,12 +103,7 @@ Calloway and Ms.
 Cantwell.
 The questions asked were well thought out and important for our district.
 I'd also like to give a shout out and thank the folks at WXBC for moderating and filming the event.
-Below is the link to the State House portion of the program:
-https://www.youtube.com/watch?v=Pi8LDsbgJs0&t=23s
-28 March, 2026
-The Day after No Kings Day
-My response to a Facebook comment
-I shared my last blog post on facebook and got a comment from a young man in our county.
+Below is the link to the State House portion of the program: https://www.youtube.com/watch?v=Pi8LDsbgJs0&t=23s 28 March, 2026 The Day after No Kings Day My response to a Facebook comment I shared my last blog post on facebook and got a comment from a young man in our county.
 I’m going to share his post and my response.
 His comment: BS if you're going to a Kings rally, and you're a Democrat, and you're running for office as a Democrat.
 You're actually going there to protest President Trump and the Republican party.
@@ -159,10 +147,7 @@ I have been registered as a Republican, and voted for MANY Republicans in the pa
 I have no doubt that I'll vote for a qualified Republican in the future.
 And, just so we're clear, there are MANY Democratic politicians I am not happy with either.
 It's not about party, Bobby.
-It's about the law
-27 March, 2026
-Why I will be at the No Kings Day Demonstration
-First off, I do not believe that we should be protesting.
+It's about the law 27 March, 2026 Why I will be at the No Kings Day Demonstration First off, I do not believe that we should be protesting.
 You protest AGAINST things.
 Racism.
 Authoritarianism.
@@ -188,15 +173,13 @@ So let’s start where we can agree and demonstrate our support of the Constitut
 The name of the event, NO KINGS, is a reminder.
 We threw off our king and established a government of the people, by the people, for the people.
 Let’s all work on protecting that, shall we?
-As a candidate for office people often ask me, “If you had a magic wand, what would you change?”
-Well, my answer, on “No Kings Day” is that I would have every member of the US military wear a patch on their uniform saying “250 YEARS NO KINGS IN AMERICA”.
-Because sometimes we need a reminder of what George Washington and the Continental Army fought for all those 250 years ago.
+As a candidate for office people often ask me, “If you had a magic wand, what would you change?” Well, my answer, on “No Kings Day” is that I would have every member of the US military wear a patch on their uniform saying “250 YEARS NO KINGS IN AMERICA”.
+Because sometimes we need a reminder of what George Washington and the Continental Army fought for all those #ago.
 No Freaking Kings.
 This is why I will be demonstrating FOR our Constitutional rights on this No Kings Day and every other.
 Because I was a Soldier and swore an Oath to Uphold and Defend the Constitution against all enemies, foreign and domestic and I still live by that Oath.
 God Bless America, and God protect the men and women serving in our Armed Forces.
-25 March
-Reply to question from a concerned voter.
+25 March Reply to question from a concerned voter.
 I got the below message from a young man on Facebook doing the right thing, asking questions to be an informed voter.
 I know that others may have the same questions so I posted my reply here.
 What are your plans to help job opportunities, and support for families?
@@ -249,4 +232,5 @@ It can help or it can be abused.
 We need to make sure it only ends up in the hands of those who need it.
 Thank you again for your questions.
 I hope my answers help.
-John
+John JOHN WHIPPLE 3/27/26 JOHN WHIPPLE 3/27/26 Comments on the reaction to the death of Renee Good.
+Read More JOHN WHIPPLE 12/17/25 JOHN WHIPPLE 12/17/25 Notes from the 2015 Kentucky Voices for Health Conference, dec 2025 Read More This site built and maintained by the Campaign for John Whipple Made with Squarespace by Gravel Road Strategies Donate to the Campaign

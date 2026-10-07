@@ -1,17 +1,66 @@
 [
-"https://dinatitus.com/",
-"https://dinatitus.com/about-3",
-"https://dinatitus.com/copy-of-about",
-"https://dinatitus.com/endorsements",
-"https://dinatitus.com/news-1",
-"https://dinatitus.com/privacy-policy",
-"https://facebook.com/titusforcongress",
-"https://instagram.com/",
-"https://instagram.com/dinatitus",
-"https://mobilize.us/dinatitusforcongress",
-"https://platform.winnable.app/",
-"https://secure.actblue.com/donate/titus-website",
-"https://x.com/dinatitus",
-"https://youtu.be/JbonfSX9iPY",
-"https://youtube.com/channel/UCyM2fQxEmPKKd1Tj2VJRciA"
+{
+"text": "ABOUT",
+"href": "https://www.dinatitus.com/about-3"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/titus-website"
+},
+{
+"text": "EN ESPANOL",
+"href": "https://www.dinatitus.com/copy-of-about"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.dinatitus.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.mobilize.us/dinatitusforcongress/"
+},
+{
+"text": "HOME",
+"href": "https://www.dinatitus.com"
+},
+{
+"text": "NEWS",
+"href": "https://www.dinatitus.com/news-1"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.dinatitus.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://platform.winnable.app"
+},
+{
+"text": "[image: 273284-Titus-17x11 SS Rally Sign Revised Proof.jpg]",
+"href": "https://www.dinatitus.com"
+},
+{
+"text": "[image: Facebook ]",
+"href": "https://www.facebook.com/titusforcongress/"
+},
+{
+"text": "[image: Instagram ]",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "[image: Instagram ]",
+"href": "https://www.instagram.com/dinatitus/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/dinatitus"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/channel/UCyM2fQxEmPKKd1Tj2VJRciA"
+},
+{
+"text": "[image]",
+"href": "https://youtu.be/JbonfSX9iPY"
+}
 ]

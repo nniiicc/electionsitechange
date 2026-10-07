@@ -1,97 +1,15 @@
-Local Leaders
-Frantz Ambroise
-Community Leader
-Mikki Belvedere
-Fmr Commissioner, Coconut Creek
-Mike Bracchi
-Commissioner, Wilton Manors
-Scott Brook
-Mayor, Coral Springs
-Bill Brown
-Retired Firefighter, President of Ft.
-Lauderdale Civic Association
-Chris Caputo
-Vice Mayor, Wilton Manors
-Emma Collum
-Democratic Activist
-Angelo Castillo
-Mayor, Pembroke Pines
-Don D'Arminio
-Commissioner, Wilton Manors
-Maggie Davidson
-Democratic Activist
-Barbara Effman
-Democratic Activist
-Carolyn Eggelletion
-Retired Principal, Winston Park Elementary School
-Ken Evans
-Fmr.
-Florida Democratic Party State Committeeman
-Saima Farooqui
-Democratic Activist
-Anna Fusco
-President, Broward County Teacher's Union
-Gregory Gayle
-Democratic Activist
-Steve Geller
-Broward County Commissioner
-Linda Gonzalez
-Democratic Activist
-Joanne Goodwin
-President Emeritus, North Broward Democratic Club
-Debbi Hixon
-Board Member, Broard County School Board
-Ilona Holmes
-Retired Judge, 17th Circuit Court
-Novice Johnson
-Community Leader
-Art Kennedy, Sr
-Fmr.
+Skip to content Endorsements The Latest Voting Information Media Endorsements The Latest Voting Information Media X-twitter Facebook Instagram Volunteer Donate #TEAMDWS Endorsements National Organizations Sun Sentinel Florida AFL-CIO Broward County AFL-CIO Bless Broward Equality PAC League of Conservation Voters Alliance for Retired Americans Planned Parenthood Moms Demand Action Gunsense Candidate Giffords DMFI PAC Service Employees International Union - FL Democratic Environmental Caucus of Florida Save Action PAC Local 355 South Florida Broward Teachers Union Local Leaders Frantz Ambroise Community Leader Mikki Belvedere Fmr Commissioner, Coconut Creek Mike Bracchi Commissioner, Wilton Manors Scott Brook Mayor, Coral Springs Bill Brown Retired Firefighter, President of Ft.
+Lauderdale Civic Association Chris Caputo Vice Mayor, Wilton Manors Emma Collum Democratic Activist Angelo Castillo Mayor, Pembroke Pines Don D'Arminio Commissioner, Wilton Manors Maggie Davidson Democratic Activist Barbara Effman Democratic Activist Carolyn Eggelletion Retired Principal, Winston Park Elementary School Ken Evans Fmr.
+Florida Democratic Party State Committeeman Saima Farooqui Democratic Activist Anna Fusco President, Broward County Teacher's Union Gregory Gayle Democratic Activist Steve Geller Broward County Commissioner Linda Gonzalez Democratic Activist Joanne Goodwin President Emeritus, North Broward Democratic Club Debbi Hixon Board Member, Broard County School Board Ilona Holmes Retired Judge, 17th Circuit Court Novice Johnson Community Leader Art Kennedy, Sr Fmr.
 Chief of Staff to Rep.
-Alcee Hastings
-Bill Kisseadoo
-National Air Traffic Controllers Association Leader
-Sajan Kurian
-AAPI Advocate
-Sarah Leonardi
-Chair, Broard County School Board
-Scott Newton
-Mayor, Wilton Manors
-Alfredo Olvera
-LGBTQ Advocate
-Laurie Plotnick
-Democratic Activist
-Tina Polsky
-Florida State Senator, FL-SD-30
-Jackie Railey
-Commissioner and Past Mayor, Coconut Creek
-Louis Reinstein
-Councilmember, Plantation
-Josh Rydell
-Vice Mayor, Coconut Creek
-Arlene Schwartz
-Commissioner, Margate
-Joey Scuotto
-Commissioner, Sunrise
-Jack Seiler
-Former Mayor of Ft Lauderdale
-Daniel Shanetzky
-Commissioner, Deerfield Beach
-Alice Simon
-Broward Democratic Jewish Caucus Boardmember
-Darlene Smith
-Commissioner, Pompano Beach
-Lillian Small
-Community Leader
-Melanie Snipes
-Community Leader and daughter of former Supervisor of Elections, Dr.
+Alcee Hastings Bill Kisseadoo National Air Traffic Controllers Association Leader Sajan Kurian AAPI Advocate Sarah Leonardi Chair, Broard County School Board Scott Newton Mayor, Wilton Manors Alfredo Olvera LGBTQ Advocate Laurie Plotnick Democratic Activist Tina Polsky Florida State Senator, FL-SD-30 Jackie Railey Commissioner and Past Mayor, Coconut Creek Louis Reinstein Councilmember, Plantation Mike Ryan Mayor, Sunrise Josh Rydell Vice Mayor, Coconut Creek Arlene Schwartz Commissioner, Margate Joey Scuotto Commissioner, Sunrise Jack Seiler Former Mayor of Ft Lauderdale Daniel Shanetzky Commissioner, Deerfield Beach Alice Simon Broward Democratic Jewish Caucus Boardmember Darlene Smith Commissioner, Pompano Beach Lillian Small Community Leader Melanie Snipes Community Leader and daughter of former Supervisor of Elections, Dr.
 Brenda Snipes.
 Dr.
-Gregory Tony
-Sheriff, Broward County
-Dean Trantalis
-Mayor, Ft Lauderdale
-Jeff Wasserman
-Mayor, Coconut Creek
-Loretta Young
-Veterans' Advocate
+Gregory Tony Sheriff, Broward County Dean Trantalis Mayor, Ft Lauderdale Jeff Wasserman Mayor, Coconut Creek Loretta Young Veterans' Advocate JOIN OUR FIGHT First Name Last Name Email Zipcode Phone Sign Up By providing your cell phone number you consent to receive recurring updates from Debbie Wasserman Schultz for Congress, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy.
+X-twitter Facebook Instagram Endorsements The Latest Press Inquiries Media Volunteer Endorsements The Latest Press Inquiries Media Volunteer Endorsements The Latest Press Inquiries Media Volunteer Endorsements The Latest Press Inquiries Media Volunteer Democrat Debbie Wasserman Schultz has spent her entire career fighting for Broward County to protect Social Security and Medicare, defend reproductive freedom, strengthen public schools, lower healthcare costs, prevent gun violence and fighting the reckless Trump agenda.
+For press inquiries, contact press@dwsforcongress.com.
+Donate Volunteer Contributions can be mailed to: Debbie Wasserman Schultz for Congress 400 NW 7th Avenue, #39 Ft.
+Lauderdale, FL 33311 Paid for by Debbie Wasserman Schultz for Congress Privacy Policy

@@ -1,42 +1,254 @@
 [
-"http://twitter.com/maiforus",
-"https://facebook.com/MaiForUs",
-"https://instagram.com/maiforus",
-"https://maiforus.com/",
-"https://maiforus.com/about",
-"https://maiforus.com/about-mai",
-"https://maiforus.com/cart",
-"https://maiforus.com/contact",
-"https://maiforus.com/debate",
-"https://maiforus.com/endorsements",
-"https://maiforus.com/facts",
-"https://maiforus.com/get-involved",
-"https://maiforus.com/houseparty",
-"https://maiforus.com/jobs",
-"https://maiforus.com/map",
-"https://maiforus.com/media",
-"https://maiforus.com/platform",
-"https://maiforus.com/press/20260103-venezuela",
-"https://maiforus.com/press/20260605ballot",
-"https://maiforus.com/press/2026superpacs",
-"https://maiforus.com/press/breaking-point-podcast-december-19",
-"https://maiforus.com/press/councilmember-mai-vang-condemns-racial-profiling-of-afghan-familiesstands-with-communities",
-"https://maiforus.com/press/mai-vang-headlines-working-families-party-national-mass-call",
-"https://maiforus.com/press/mai-vang-receives-california-federation-of-labor-unions-endorsement",
-"https://maiforus.com/press/matsui-declines-debate-challenge-vang-continues-showing-up",
-"https://maiforus.com/press/matsuiredbox",
-"https://maiforus.com/press/press-release-california-democratic-party-delegates-submit-petitions-to-pull-doris-matsui-from-consent-calendar-for-endorsement",
-"https://maiforus.com/press/press-release-councilmember-mai-vang-overtakes-doris-matsui-in-ca-07-official-secures-spot-on-november-ballot",
-"https://maiforus.com/press/press-release-councilmember-mai-vang-stands-with-nurses-on-medicares-61st-anniversary",
-"https://maiforus.com/press/press-release-mai-vang-challenges-rep-doris-matsui-to-televised-debates-for-ca-7-primary",
-"https://maiforus.com/press/sacramento-bee-endorses-mai-vang-for-californias-7th-congressional-district",
-"https://maiforus.com/press/statement-276-days-in-and-still-no-real-vision-for-working-families",
-"https://maiforus.com/press/vang-challenges-tainted-endorsement-after-pelosi-violates-caucus-rules-to-support-matsui",
-"https://maiforus.com/press/vang-vows-to-keep-fighting-for-working-families-as-party-elites-break-own-rules-to-back-21-year-incumbent",
-"https://maiforus.com/volunteer",
-"https://maiforus.com/vote",
-"https://mobilize.us/maiforus",
-"https://secure.numero.ai/contribute/Mai-Vang-for-Congress",
-"https://tiktok.com/@maiforus",
-"https://youtube.com/channel/UCnQC62sw1r3U1XF74j1nKfA"
+{
+"text": "0",
+"href": "https://www.maiforus.com/cart"
+},
+{
+"text": "8/27 - CA7 Debate",
+"href": "https://www.maiforus.com/debate"
+},
+{
+"text": "Back",
+"href": "https://www.maiforus.com/"
+},
+{
+"text": "Breaking Point Podcast - December 19",
+"href": "https://www.maiforus.com/press/breaking-point-podcast-december-19"
+},
+{
+"text": "CONTACT",
+"href": "https://www.maiforus.com/contact"
+},
+{
+"text": "Councilmember Mai Vang condemns racial profiling of Afghan families.Stands with Communities.",
+"href": "https://www.maiforus.com/press/councilmember-mai-vang-condemns-racial-profiling-of-afghan-familiesstands-with-communities"
+},
+{
+"text": "CouncilmemberMai Vang Response to Illegal Acts of War in Venezuela",
+"href": "https://www.maiforus.com/press/20260103-venezuela"
+},
+{
+"text": "DONATE",
+"href": "https://secure.numero.ai/contribute/Mai-Vang-for-Congress"
+},
+{
+"text": "District 7",
+"href": "https://www.maiforus.com/map"
+},
+{
+"text": "Endorsements",
+"href": "https://www.maiforus.com/endorsements"
+},
+{
+"text": "Fact Check",
+"href": "https://www.maiforus.com/facts"
+},
+{
+"text": "Field Activations",
+"href": "https://www.mobilize.us/maiforus/"
+},
+{
+"text": "Folder: About Mai",
+"href": "https://www.maiforus.com/about-mai"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.maiforus.com/get-involved"
+},
+{
+"text": "Get A Yard Sign",
+"href": "https://www.maiforus.com/#yardsign"
+},
+{
+"text": "Host A House Party",
+"href": "https://www.maiforus.com/houseparty"
+},
+{
+"text": "Job Opportunities",
+"href": "https://www.maiforus.com/jobs"
+},
+{
+"text": "MEDIA",
+"href": "https://www.maiforus.com/media"
+},
+{
+"text": "Mai Vang Headlines Working Families Party National Mass Call",
+"href": "https://www.maiforus.com/press/mai-vang-headlines-working-families-party-national-mass-call"
+},
+{
+"text": "Mai's Story",
+"href": "https://www.maiforus.com/about"
+},
+{
+"text": "Matsui Declines Debate Challenge, Vang Continues Showing Up",
+"href": "https://www.maiforus.com/press/matsui-declines-debate-challenge-vang-continues-showing-up"
+},
+{
+"text": "Platform",
+"href": "https://www.maiforus.com/platform"
+},
+{
+"text": "Press Release - Councilmember Mai Vang Surges in Latest Count, Moves Into First in Sacramento County",
+"href": "https://www.maiforus.com/press/20260605ballot"
+},
+{
+"text": "Press Release - Mai Vang Challenges Rep. Doris Matsui to Televised Debates for CA-7 Primary",
+"href": "https://www.maiforus.com/press/press-release-mai-vang-challenges-rep-doris-matsui-to-televised-debates-for-ca-7-primary"
+},
+{
+"text": "Press Release - Mai Vang Receives California Federation of Labor Unions Endorsement",
+"href": "https://www.maiforus.com/press/mai-vang-receives-california-federation-of-labor-unions-endorsement"
+},
+{
+"text": "Press Release - Matsui Campaign Boosting MAGA Republican Who Wants More ICE",
+"href": "https://www.maiforus.com/press/matsuiredbox"
+},
+{
+"text": "Press Release - Matsui Drops $1.4 Million of Personal Wealth Into Her Campaign While Allied Super PAC Boosts Trump Republican Into November",
+"href": "https://www.maiforus.com/press/2026superpacs"
+},
+{
+"text": "Press Release - Sacramento Bee Endorses Mai Vang for California's 7th Congressional District",
+"href": "https://www.maiforus.com/press/sacramento-bee-endorses-mai-vang-for-californias-7th-congressional-district"
+},
+{
+"text": "Press Release - Vang Vows to Keep Fighting for Working Families as Party Elites Break Own Rules to Back 21 Year Incumbent",
+"href": "https://www.maiforus.com/press/vang-vows-to-keep-fighting-for-working-families-as-party-elites-break-own-rules-to-back-21-year-incumbent"
+},
+{
+"text": "Press Release: California Democratic Party Delegates Submit Petitions to Pull Doris Matsui from Consent Calendar for Endorsement",
+"href": "https://www.maiforus.com/press/press-release-california-democratic-party-delegates-submit-petitions-to-pull-doris-matsui-from-consent-calendar-for-endorsement"
+},
+{
+"text": "Press Release: Councilmember Mai Vang Overtakes Doris Matsui in CA-07, Officially Secures Spot on November Ballot",
+"href": "https://www.maiforus.com/press/press-release-councilmember-mai-vang-overtakes-doris-matsui-in-ca-07-official-secures-spot-on-november-ballot"
+},
+{
+"text": "Press Release: Councilmember Mai Vang Stands With Nurses on Medicare's 61st Anniversary",
+"href": "https://www.maiforus.com/press/press-release-councilmember-mai-vang-stands-with-nurses-on-medicares-61st-anniversary"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/20260103-venezuela"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/20260605ballot"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/2026superpacs"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/breaking-point-podcast-december-19"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/councilmember-mai-vang-condemns-racial-profiling-of-afghan-familiesstands-with-communities"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/mai-vang-headlines-working-families-party-national-mass-call"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/mai-vang-receives-california-federation-of-labor-unions-endorsement"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/matsui-declines-debate-challenge-vang-continues-showing-up"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/matsuiredbox"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/press-release-california-democratic-party-delegates-submit-petitions-to-pull-doris-matsui-from-consent-calendar-for-endorsement"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/press-release-councilmember-mai-vang-overtakes-doris-matsui-in-ca-07-official-secures-spot-on-november-ballot"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/press-release-councilmember-mai-vang-stands-with-nurses-on-medicares-61st-anniversary"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/press-release-mai-vang-challenges-rep-doris-matsui-to-televised-debates-for-ca-7-primary"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/sacramento-bee-endorses-mai-vang-for-californias-7th-congressional-district"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/statement-276-days-in-and-still-no-real-vision-for-working-families"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/vang-challenges-tainted-endorsement-after-pelosi-violates-caucus-rules-to-support-matsui"
+},
+{
+"text": "Read More",
+"href": "https://www.maiforus.com/press/vang-vows-to-keep-fighting-for-working-families-as-party-elites-break-own-rules-to-back-21-year-incumbent"
+},
+{
+"text": "Statement: 276 Days In and Still No Real Vision for Working Families",
+"href": "https://www.maiforus.com/press/statement-276-days-in-and-still-no-real-vision-for-working-families"
+},
+{
+"text": "Vang Challenges Tainted Endorsement After Pelosi Violates Caucus Rules To Support Matsui",
+"href": "https://www.maiforus.com/press/vang-challenges-tainted-endorsement-after-pelosi-violates-caucus-rules-to-support-matsui"
+},
+{
+"text": "Volunteer",
+"href": "https://www.maiforus.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.maiforus.com/vote"
+},
+{
+"text": "[image: Councilmember Mai Vang condemns racial profiling of Afghan families.Stands with Communities.]",
+"href": "https://www.maiforus.com/press/councilmember-mai-vang-condemns-racial-profiling-of-afghan-familiesstands-with-communities"
+},
+{
+"text": "[image: CouncilmemberMai Vang Response to Illegal Acts of War in Venezuela]",
+"href": "https://www.maiforus.com/press/20260103-venezuela"
+},
+{
+"text": "[image: Mai Vang Headlines Working Families Party National Mass Call]",
+"href": "https://www.maiforus.com/press/mai-vang-headlines-working-families-party-national-mass-call"
+},
+{
+"text": "[image: Mai Vang for Congress]",
+"href": "https://www.maiforus.com/"
+},
+{
+"text": "[image: Statement: 276 Days In and Still No Real Vision for Working Families]",
+"href": "https://www.maiforus.com/press/statement-276-days-in-and-still-no-real-vision-for-working-families"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/maiforus"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MaiForUs"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maiforus/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@maiforus"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCnQC62sw1r3U1XF74j1nKfA"
+}
 ]

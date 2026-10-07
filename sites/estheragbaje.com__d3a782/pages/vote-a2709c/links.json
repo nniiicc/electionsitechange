@@ -1,24 +1,106 @@
 [
-"http://mnvotes.gov/",
-"https://estheragbaje.com/",
-"https://estheragbaje.com/endorsements",
-"https://estheragbaje.com/get-involved",
-"https://estheragbaje.com/meet-esther",
-"https://estheragbaje.com/priorities",
-"https://estheragbaje.com/privacy-policy",
-"https://estheragbaje.com/vote",
-"https://facebook.com/go4esther",
-"https://instagram.com/Go4Esther",
-"https://mnvotes.sos.mn.gov/abrequest/index",
-"https://mnvotes.sos.mn.gov/voterstatuscheck/index",
-"https://secure.actblue.com/donate/go4esther",
-"https://sos.mn.gov/elections-voting/election-day-voting/where-do-i-vote",
-"https://sos.mn.gov/elections-voting/other-ways-to-vote/voting-locations-before-election-day",
-"https://sos.mn.gov/elections-voting/register-to-vote/automatic-voter-registration",
-"https://sos.mn.gov/elections-voting/register-to-vote/register-on-election-day",
-"https://sos.mn.gov/elections-voting/register-to-vote/register-on-paper",
-"https://sos.mn.gov/elections-voting/register-to-vote/register-online",
-"https://sos.mn.gov/elections-voting/register-to-vote/who-can-vote",
-"https://techforcampaigns.org/",
-"https://vote.minneapolismn.gov/voters/vote-early-in-person"
+{
+"text": "Check registration",
+"href": "https://mnvotes.sos.mn.gov/voterstatuscheck/index"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/go4esther"
+},
+{
+"text": "Endorsements",
+"href": "https://estheragbaje.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/go4esther/"
+},
+{
+"text": "Find voting location",
+"href": "https://vote.minneapolismn.gov/voters/vote-early-in-person/"
+},
+{
+"text": "Get Involved",
+"href": "https://estheragbaje.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://estheragbaje.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/Go4Esther"
+},
+{
+"text": "Meet Esther",
+"href": "https://estheragbaje.com/meet-esther/"
+},
+{
+"text": "Polling Place Finder",
+"href": "https://www.sos.mn.gov/elections-voting/election-day-voting/where-do-i-vote/"
+},
+{
+"text": "Priorities",
+"href": "https://estheragbaje.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://estheragbaje.com/privacy-policy/"
+},
+{
+"text": "Register when you vote",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/register-on-election-day/"
+},
+{
+"text": "Request ballot",
+"href": "https://mnvotes.sos.mn.gov/abrequest/index"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "Use a paper form",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/register-on-paper/"
+},
+{
+"text": "Vote",
+"href": "https://estheragbaje.com/vote/"
+},
+{
+"text": "Who Can Vote",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/who-can-vote/"
+},
+{
+"text": "[image: Logo for Esther Agbaje's campaign. It features three stars and a stylized \"E\" that looks like a flag.]",
+"href": "https://estheragbaje.com/"
+},
+{
+"text": "automatically registered",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/automatic-voter-registration/"
+},
+{
+"text": "county election office",
+"href": "https://vote.minneapolismn.gov/voters/vote-early-in-person/"
+},
+{
+"text": "esther@estheragbaje.com",
+"href": "mailto:esther@estheragbaje.com"
+},
+{
+"text": "mnvotes.gov",
+"href": "http://mnvotes.gov"
+},
+{
+"text": "proof of residence",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/register-on-election-day/"
+},
+{
+"text": "register online",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/register-online/"
+},
+{
+"text": "voting locations before Election Day",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/voting-locations-before-election-day/"
+}
 ]

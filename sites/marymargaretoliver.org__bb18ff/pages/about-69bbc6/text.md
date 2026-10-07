@@ -1,4 +1,4 @@
-Georgia State Representative Mary Margaret Oliver is a DeKalb County native and a practicing attorney in Decatur.
+Home About Mary Margaret Voting Info Press Newsletters Request a Yard Sign DONATE About Mary Margaret Oliver Georgia State Representative Mary Margaret Oliver is a DeKalb County native and a practicing attorney in Decatur.
 Her House District, 84, currently encompasses parts of Decatur, Stonecrest, and Atlanta.
 It includes Emory Law School, Emory Medical School, Agnes Scott College, and Columbia Seminary.
 For over twenty-five years, Mary Margaret Oliver has served multiple terms in the Georgia House and Senate, focusing on legislation protecting children and consumers and having the distinction of chairing both the House and Senate Judiciary Committees.
@@ -16,4 +16,7 @@ Her legislative work has also garnered recognition by the Atlanta YWCA, Georgia 
 In October 2023 Oliver received the Georgia First Amendment Foundation’s 2023 Charles Weltner Freedom of Information Award.
 Representative Oliver is a frequent guest on WABE’s Politically Georgia and a timely contributor of opinion pieces on legislative issues to the Atlanta Journal Constitution.
 A golfer and avid gardener with a love of Georgia’s natural beauty, Oliver serves on the board of the Altamaha Riverkeepers.
-She is a lifelong member of All Saints’ Episcopal Church in Midtown Atlanta, where she teaches an annual Sunday School class, “Jesus on the Front Page of the New York Times."
+She is a lifelong member of All Saints’ Episcopal Church in Midtown Atlanta, where she teaches an annual Sunday School class, “Jesus on the Front Page of the New York Times." Stay Updated about Mary Margaret Oliver’s Campaign Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form. mmo@mmolaw.com

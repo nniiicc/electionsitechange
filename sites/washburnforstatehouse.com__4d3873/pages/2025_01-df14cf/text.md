@@ -1,5 +1,5 @@
-by Dale Washburn | Jan 21, 2025 | News
-The 40-day Georgia legislative session gaveled in on Monday, January 13 and legislators quickly handled ceremonial and preliminary duties that accompany new terms.
+888.888.8888 name@email.com Facebook Instagram Facebook Instagram MEET DALE PRIORITIES Public Office NEWS Contact Sign Up for Capitol Updates Select Page Week 1 Legislative Session Recap 2025 by Dale Washburn | Jan 21, 2025 | News The 40-day Georgia legislative session gaveled in on Monday, January 13 and legislators quickly handled ceremonial and preliminary duties that accompany new terms.
 The House reelected Rep.
 Jon Burns, R-Newington, as Speaker and Rep.
 Jan Jones, R-Milton, as House...
+Search for: Recent Posts Week 12 Legislative Session Recap 2026 Week 11 Legislative Session Recap 2026 Week 10 Legislative Session Recap 2026 Week 9 Legislative Session Recap 2026 Week 8 Legislative Session Recap 2026 Recent Comments Archives April 2026 March 2026 February 2026 January 2026 April 2025 March 2025 February 2025 January 2025 December 2024 April 2024 March 2024 February 2024 January 2024 April 2023 March 2023 February 2023 January 2023 April 2022 March 2022 February 2022 January 2022 March 2020 February 2020 March 2019 February 2019 January 2019 Categories News Uncategorized Meta Log in Entries feed Comments feed WordPress.org Facebook Instagram © # Dale Washburn for State House | Website by Pipeline Social Media

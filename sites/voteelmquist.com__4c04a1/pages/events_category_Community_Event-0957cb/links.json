@@ -1,32 +1,162 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Mounds+View+Day+in+the+Park+Parade&dates=20260821T220000Z%2F20260822T013000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=National+Night+to+Unite&dates=20260804T223000Z%2F20260805T013000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=New+Brighton+Stockyard+Days+Parade&dates=20260808T140000Z%2F20260808T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Slice+of+Shoreview+Parade&dates=20260725T140000Z%2F20260725T170000Z",
-"https://docs.google.com/forms/d/e/1FAIpQLSd6s9RNxnUY6ngJPo4r1qNETY4mr99EG-PYctRR9FviMtsJmQ/viewform?usp=publish-editor",
-"https://facebook.com/profile.php?id=61582579073857",
-"https://forms.gle/3LGdDdWyz1sSn8h59",
-"https://forms.gle/4P2g2Adn9dHzWXhu7",
-"https://secure.actblue.com/donate/aisha-elmquist-1",
-"https://voteelmquist.com/",
-"https://voteelmquist.com/cart",
-"https://voteelmquist.com/contact",
-"https://voteelmquist.com/endorsements",
-"https://voteelmquist.com/events",
-"https://voteelmquist.com/events/2026-mounds-view-day-in-the-park-parade",
-"https://voteelmquist.com/events/2026-mounds-view-day-in-the-park-parade?format=ical",
-"https://voteelmquist.com/events/2026-national-night-out",
-"https://voteelmquist.com/events/2026-national-night-out?format=ical",
-"https://voteelmquist.com/events/2026-new-brighton-stockyard-days-parade",
-"https://voteelmquist.com/events/2026-new-brighton-stockyard-days-parade?format=ical",
-"https://voteelmquist.com/events/2026-slice-of-shoreview-parade",
-"https://voteelmquist.com/events/2026-slice-of-shoreview-parade?format=ical",
-"https://voteelmquist.com/events?category=Community+Event",
-"https://voteelmquist.com/meet",
-"https://voteelmquist.com/priorities",
-"https://voteelmquist.com/resources",
-"https://voteelmquist.com/take-action",
-"https://voteelmquist.com/volunteer",
-"https://voteelmquist.com/volunteer-1",
-"https://voteelmquist.com/voting-info"
+{
+"text": "0",
+"href": "https://www.voteelmquist.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.voteelmquist.com/meet"
+},
+{
+"text": "Back",
+"href": "https://www.voteelmquist.com/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/aisha-elmquist-1"
+},
+{
+"text": "Community Event",
+"href": "https://www.voteelmquist.com/events?category=Community+Event"
+},
+{
+"text": "Contact",
+"href": "https://www.voteelmquist.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteelmquist.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.voteelmquist.com/events"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://www.voteelmquist.com/take-action"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Mounds+View+Day+in+the+Park+Parade&dates=20260821T220000Z%2F20260822T013000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=National+Night+to+Unite&dates=20260804T223000Z%2F20260805T013000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=New+Brighton+Stockyard+Days+Parade&dates=20260808T140000Z%2F20260808T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Slice+of+Shoreview+Parade&dates=20260725T140000Z%2F20260725T170000Z"
+},
+{
+"text": "Home",
+"href": "https://www.voteelmquist.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/2026-mounds-view-day-in-the-park-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/2026-national-night-out?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/2026-new-brighton-stockyard-days-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/2026-slice-of-shoreview-parade?format=ical"
+},
+{
+"text": "Immigration and Community Resources",
+"href": "https://www.voteelmquist.com/resources"
+},
+{
+"text": "Mounds View Day in the Park Parade",
+"href": "https://www.voteelmquist.com/events/2026-mounds-view-day-in-the-park-parade"
+},
+{
+"text": "National Night to Unite",
+"href": "https://www.voteelmquist.com/events/2026-national-night-out"
+},
+{
+"text": "New Brighton Stockyard Days Parade",
+"href": "https://www.voteelmquist.com/events/2026-new-brighton-stockyard-days-parade"
+},
+{
+"text": "Priorities",
+"href": "https://www.voteelmquist.com/priorities"
+},
+{
+"text": "RSVP Here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd6s9RNxnUY6ngJPo4r1qNETY4mr99EG-PYctRR9FviMtsJmQ/viewform?usp=publish-editor"
+},
+{
+"text": "RSVP Here",
+"href": "https://forms.gle/3LGdDdWyz1sSn8h59"
+},
+{
+"text": "RSVP Here",
+"href": "https://forms.gle/4P2g2Adn9dHzWXhu7"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://www.voteelmquist.com/volunteer-1"
+},
+{
+"text": "Slice of Shoreview Parade",
+"href": "https://www.voteelmquist.com/events/2026-slice-of-shoreview-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/2026-mounds-view-day-in-the-park-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/2026-national-night-out"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/2026-new-brighton-stockyard-days-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.voteelmquist.com/events/2026-slice-of-shoreview-parade"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteelmquist.com/volunteer"
+},
+{
+"text": "Voting Info",
+"href": "https://www.voteelmquist.com/voting-info"
+},
+{
+"text": "[image: Elmquist for House]",
+"href": "https://www.voteelmquist.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582579073857"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/2026-mounds-view-day-in-the-park-parade"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/2026-national-night-out"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/2026-new-brighton-stockyard-days-parade"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteelmquist.com/events/2026-slice-of-shoreview-parade"
+}
 ]

@@ -1,9 +1,19 @@
 {
  "description": "",
  "final_url": "https://www.dubnikforhouse.com/scorecard/",
- "paid_for_by": null,
- "title": "Scorecard \u2013 Dubnik for House",
+ "fingerprint": "e2056d51af1aa4b287e16f8f356857d5752f1908",
+ "format": 3,
+ "paid_for_by": "authorized by: Committee to Elect Matt Dubnik",
+ "title": "Scorecard – Dubnik for House",
  "years_mentioned": [
+  "2018",
+  "2019",
+  "2020",
+  "2021",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
   "2026"
  ]
 }

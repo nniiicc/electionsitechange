@@ -1,14 +1,70 @@
 [
-"https://1918.media/grider/2026/griderMail1Version3.pdf",
-"https://1918.media/grider/2026/griderMail2Version3.pdf",
-"https://1918.media/grider/2026/griderMail3Version3.pdf",
-"https://1918.media/grider/2026/griderMail4Version2.pdf",
-"https://1918.media/grider/griderLedger2026volume1.pdf",
-"https://votekarmingrider.com/",
-"https://votekarmingrider.com/current-legislator",
-"https://votekarmingrider.com/donate",
-"https://votekarmingrider.com/material",
-"https://votekarmingrider.com/material/proposed-transmission-line-routes",
-"https://votekarmingrider.com/material/pushcard-page",
-"https://votekarmingrider.com/mission"
+{
+"text": "Bonus Mailer",
+"href": "https://1918.media/grider/2026/griderMail4Version2.pdf"
+},
+{
+"text": "Current Legislator",
+"href": "https://www.votekarmingrider.com/current-legislator"
+},
+{
+"text": "Donate",
+"href": "https://www.votekarmingrider.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votekarmingrider.com"
+},
+{
+"text": "Mailer 1",
+"href": "https://1918.media/grider/2026/griderMail1Version3.pdf"
+},
+{
+"text": "Mailer 2",
+"href": "https://1918.media/grider/2026/griderMail2Version3.pdf"
+},
+{
+"text": "Mailer 3",
+"href": "https://1918.media/grider/2026/griderMail3Version3.pdf"
+},
+{
+"text": "Material",
+"href": "https://www.votekarmingrider.com/material"
+},
+{
+"text": "Mission",
+"href": "https://www.votekarmingrider.com/mission"
+},
+{
+"text": "[image: Screenshot 2026-06-13 at 6.04.20 PM.png]",
+"href": "https://1918.media/grider/2026/griderMail4Version2.pdf"
+},
+{
+"text": "[image: griderPushcard1.jpg]",
+"href": "https://www.votekarmingrider.com/material/pushcard-page"
+},
+{
+"text": "[image: griderPushcard2.jpg]",
+"href": "https://www.votekarmingrider.com/material/pushcard-page"
+},
+{
+"text": "[image: griderTabloidCover.jpg]",
+"href": "https://1918.media/grider/griderLedger2026volume1.pdf"
+},
+{
+"text": "[image: transsourceMap.jpg]",
+"href": "https://www.votekarmingrider.com/material/proposed-transmission-line-routes"
+},
+{
+"text": "[image]",
+"href": "https://1918.media/grider/2026/griderMail1Version3.pdf"
+},
+{
+"text": "[image]",
+"href": "https://1918.media/grider/2026/griderMail2Version3.pdf"
+},
+{
+"text": "[image]",
+"href": "https://1918.media/grider/2026/griderMail3Version3.pdf"
+}
 ]

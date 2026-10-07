@@ -1,9 +1,12 @@
-top of page
-No events at the moment
+top of page Home Meet Bernice Legislative Wins How to Vote Scholarship Get Involved Events Volunteer Intern Media Gallery News Contact More Use tab to navigate through the menu items.
+Contribute Build with Bernice No events at the moment Past Events Sun, Sep 27 Downtime with Delegate: on the farm / Lone Oak Farm Brewing Company Details Sep 27, 2026, 4:00 PM Lone Oak Farm Brewing Company, 5000 Olney Laytonsville Rd, Olney, MD 20832, USA Tue, Sep 15 Downtime with the Delegate / Fidel's Peruvian Chicken Details Sep 15, 2026, 5:30 PM – 6:30 PM Fidel's Peruvian Chicken, 13439 New Hampshire Ave, Silver Spring, MD 20904, USA Burritos with Bernice Fri, May 22 Pre-World Cup Watch Party and Fundraiser / Authentic African Restaurant Buy Tickets May 22, 2026, 3:00 PM – 7:30 PM Authentic African Restaurant, 13075 Wisteria Dr, Germantown, MD 20874, USA Meet Delegate Mireku-North to watch the soccer game between Mexico and Ghana.
+Stay post-game to raise funds for her campaign to stand for election in the June 23rd !
+Confirmed Guest: Maryland Speaker of the House Joseline Peña-Melnyk.
+More at: https://secure.actblue.com/donate/soccerwithbernice See All Sun, May 03 Olney Parade / Georgia Avenue & Spartan Road Details May 03, 2026, 2:00 PM – 3:00 PM Georgia Avenue & Spartan Road, Georgia Ave & Spartan Rd, Olney, MD 20832, USA Mon, Apr 20 District 14 wrap-up / Marilyn J Praisner Community Recreation Details Apr 20, 2026, 7:30 PM – 8:30 PM Marilyn J Praisner Community Recreation , 14906 Old Columbia Pike, Burtonsville, MD 20866, USA See All Sat, Apr 18 Fairland Park Clean Up with Comptroller Brooke Lierman / Fairland Recreational Park Details Apr 18, 2026, 1:00 PM – 3:00 PM Fairland Recreational Park, 3928 Greencastle Rd, Burtonsville, MD 20866, USA Sat, Mar 28 No Kings Day / Sandy Spring Details Mar 28, 2026, 2:00 PM – 6:00 PM Sandy Spring, Sandy Spring, Ashton-Sandy Spring, MD, USA Sat, Feb 21 Meet and Greet / Restaurant 198 Details Feb 21, 2026, 7:00 PM Restaurant 198, 15540 Old Columbia Pike, Burtonsville, MD 20866, USA Are you interested in learning more about Delegate Mireku-North and the campaign?
+Sign up now to join us February 21, 2026 2pm to 6pm at Restuarant 198 in Burtonsville.
+Preferred RSVP by February 19, 2026.
+Thank you for your support!
 Leadership you can count on for healthier, safer, stronger communities.
-Quick Links
-About Bernice | Priorities | How to Vote | Volunteer | Events | Gallery | Contact
-Follow Online
-Paid for by Friends of Bernice Mireku-North, Matthew Enokwe, Treasurer.
+Quick Links About Bernice | Priorities | How to Vote | Volunteer | Events | Gallery | Contact Subscribe for Updates Follow Online Paid for by Friends of Bernice Mireku-North, Matthew Enokwe, Treasurer. © # Friends of Bernice Mireku-North.
 All rights reserved.
-bottom of page
+Privacy Policy & Terms of Service bottom of page

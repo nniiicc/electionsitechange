@@ -1,5 +1,54 @@
 [
-"https://mckenna.vote/",
-"https://mckenna.vote/donate",
-"https://secure.winred.com/"
+{
+"text": "$100",
+"href": "https://secure.winred.com/"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/"
+},
+{
+"text": "Contact",
+"href": "https://mckenna.vote/#contact"
+},
+{
+"text": "Donate",
+"href": "https://mckenna.vote/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://mckenna.vote/#get-involved"
+},
+{
+"text": "Meet Jonathan",
+"href": "https://mckenna.vote/"
+},
+{
+"text": "Open WinRed",
+"href": "https://secure.winred.com/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/"
+},
+{
+"text": "Priorities",
+"href": "https://mckenna.vote/#priorities"
+},
+{
+"text": "Why Now",
+"href": "https://mckenna.vote/#why-now"
+},
+{
+"text": "[image: Vote McKenna AZ]",
+"href": "https://mckenna.vote/"
+}
 ]

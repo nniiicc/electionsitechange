@@ -1,4 +1,4 @@
-As a former FBI Special Agent and Federal Prosecutor, spending my entire career arresting corrupt politicians, I’ve now made it my mission to take on a broken and dysfunctional Washington.
+Brian Fitzpatrick For Congress Home Bio Issues Contact Media Vote by Mail Endorsements Header Buttons Donate Protecting our Families Opportunity for All Government Reform Protecting Medicare & Social Security A Health Care System That Works for Everyone An Immigration System That Works for Everyone Opioid Addiction and Mental Health Workforce Training and Development Empowering Women Protecting our Environment and Clean Water Protecting our Animals Equality and Diversity Promoting Education and Affordability Supporting our Veterans and Law Enforcement Government Reform As a former FBI Special Agent and Federal Prosecutor, spending my entire career arresting corrupt politicians, I’ve now made it my mission to take on a broken and dysfunctional Washington.
 On my very first day in office, I introduced a bold and sweeping government reform package to challenge the career politicians, impose term limits, and abolish congressional pensions for members of Congress.
 But we still have more work to do.
 In Congress, we are fighting to reform a broken Washington.
@@ -10,3 +10,6 @@ If over 800,000 federal employees and their families were forced to live without
 If Members of Congress actually feel the pain of the people they represent, perhaps they would approach their jobs differently.
 I am the author of the “No Budget, No Pay” legislation and I will always abide by it.
 Do you support term limits for Members of Congress?
+Yes No Email Quotes “Rep.
+Brian Fitzpatrick earned the highest Bipartisan Index score we have ever recorded by a House member,” - Dan Diller, Policy Director, The Lugar Center, Georgetown University, 5/12/20 "Pa's Fitzpatrick Leads U.S.
+House in Bipartisan, New Rankings Show" - Pennsylvania Capital-Star, 2/21/2020 Paid for by Brian Fitzpatrick for All of Us Privacy Policy Terms and Conditions PO Box 939 Langhorne, PA 19047 info@brianfitzpatrick.com

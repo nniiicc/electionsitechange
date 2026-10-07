@@ -1,11 +1,5 @@
-Back to All Events
-Come meet the candidates!
-This event is part of the South Texas Sweep Tour 2026: Connecting West Texas voters with Democratic candidates.
+0 Skip to Content Why I'm Running Values Experience Bio Endorsements Calendar News + Media Tours es Inicio Por qué me postulo Valores Experiencia Biografía Respaldos Calendario Noticias y medios Privacidad zh 首页 我为什么竞选 价值观 经验 个人简介 竞选背书 日程 新闻与媒体 隐私 DONATE Open Menu Close Menu Open Menu Close Menu Why I'm Running Values Experience Bio Endorsements Calendar News + Media Tours es Inicio Por qué me postulo Valores Experiencia Biografía Respaldos Calendario Noticias y medios Privacidad zh 首页 我为什么竞选 价值观 经验 个人简介 竞选背书 日程 新闻与媒体 隐私 DONATE Why I'm Running Values Experience Bio Endorsements Calendar News + Media Tours Folder: es Back Inicio Por qué me postulo Valores Experiencia Biografía Respaldos Calendario Noticias y medios Privacidad Folder: zh Back 首页 我为什么竞选 价值观 经验 个人简介 竞选背书 日程 新闻与媒体 隐私 DONATE Back to All Events Crystal City Meet & Greet Saturday, August 8, 2026 7:00 PM 8:15 PM Miguelito's Mexican Grill 1023 North 1st Avenue Crystal City, Texas, 78839 United States (map) Google Calendar ICS Come meet the candidates!
+This event is part of the South Texas Sweep Tour 2026 : Connecting West Texas voters with Democratic candidates.
 The inclusion of any judge or judicial candidate does not constitute an endorsement by that judge or judicial candidate of any other candidate.
-Previous
-Previous
-July 25
-Alpine Meet & Greet
-Next
-Next
-August 9
+Previous Previous July 25 Alpine Meet & Greet Next Next August 9 Pearsall Meet & Greet Why I’m Running Values Experience Bio Endorsements Calendar News + Media Political advertisement paid for by the Holly Taylor campaign.
+Privacy Policy ©#-#

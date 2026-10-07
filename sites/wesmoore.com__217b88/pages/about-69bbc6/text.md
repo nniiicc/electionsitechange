@@ -1,6 +1,4 @@
-FOR MARYLAND
-MEET WES
-Wes Moore is the 63rd Governor of Maryland – a combat veteran, bestselling author, former nonprofit CEO, and a relentless fighter for economic opportunity and equity.
+Skip to content Chip in $25 to Re-Elect Wes Moore Chip in $25 to Re-Elect Wes Moore About Meet Wes Meet Aruna Accomplishments News Shop Volunteer About Meet Wes Meet Aruna Accomplishments News Shop Volunteer Facebook Instagram Youtube Donate Donate Donate Donate FOR MARYLAND MEET WES Wes Moore is the 63rd Governor of Maryland – a combat veteran, bestselling author, former nonprofit CEO, and a relentless fighter for economic opportunity and equity.
 Though his work has taken him across the country, Moore and his family have always remained rooted in Maryland, where his commitment to service and community began.
 Before taking office, Moore served as a paratrooper with the 82nd Airborne Division where he led soldiers in Afghanistan.
 It was there he came to understand that service will save us.
@@ -17,3 +15,14 @@ In moments of crisis – including the collapse of the Francis Scott Key Bridge 
 As federal leaders prioritize billionaires and large corporations, Moore continues to stand with and fight for the middle class.
 Moore is driven by the same purpose that brought him into office in the first place: to make Maryland’s public schools the best in America, to end childhood poverty once and for all, and to ensure more Marylanders can afford to live, work, and thrive in the state they love.
 Of all the titles Wes Moore has held, the two he’s proudest of are husband and father.
+Donate Now to help Fuel Our Re-Election Fight $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Donate OTHER Donate OTHER *If you've saved your information with ActBlue Express, your donation will go through immediately.
+TAKE ACTION By providing your phone number and opting-in, you agree to receive periodic automated text messages about donating and voter contact.
+Msg Frequency varies.
+Msg & Data rates May apply.
+Text HELP for assistance & STOP to opt-out.
+For questions please reach out to [email protected] .
+Your mobile information will not be shared with third parties/affiliates for marketing/promotional purposes.
+To learn more about Wes Moore for Maryland’s personal information handling practices review the Privacy Notice .
+Home About Accomplishments News Shop Work With us Volunteer Donate Wes Moore for Maryland PO Box 50123 Baltimore, MD 21211 Facebook Instagram Youtube Contact Us Privacy Policy Accessibility BY AUTHORITY: WES MOORE FOR MARYLAND, MARY TYDINGS, TREASURER.
+Use of military rank, job titles and photographs in uniform do not imply endorsement from the Department of Defense.
+Powered by Apollo About Meet Wes Meet Aruna Accomplishments News Shop Volunteer Donate Donate Facebook Instagram Youtube Donate Today $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Donate OTHER Donate OTHER If you've saved your information with ActBlue Express, your donation will go through immediately.

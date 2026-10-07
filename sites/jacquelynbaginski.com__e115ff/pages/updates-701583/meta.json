@@ -1,9 +1,9 @@
 {
  "description": "Stay updated with the Jacquelyn Baginski Campaign for RI House District 17! Subscribe for political updates and insights.",
  "final_url": "https://jacquelynbaginski.com/updates",
- "paid_for_by": null,
+ "fingerprint": "731e665db0aaa47db72d628fadb4738e52254f3c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Updates",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

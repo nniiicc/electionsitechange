@@ -1,9 +1,34 @@
 [
-"http://createscapeent.com/",
-"https://charlesfallforny.com/",
-"https://charlesfallforny.com/accomplishments",
-"https://charlesfallforny.com/endorsements",
-"https://charlesfallforny.com/meet-charles",
-"https://charlesfallforny.com/press",
-"https://secure.actblue.com/donate/charles-fall-for-ny"
+{
+"text": "ACCOMPLISHMENTS",
+"href": "https://www.charlesfallforny.com/accomplishments"
+},
+{
+"text": "CreatEscape",
+"href": "http://www.createscapeent.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/charles-fall-for-ny"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.charlesfallforny.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.charlesfallforny.com"
+},
+{
+"text": "MEET CHARLES",
+"href": "https://www.charlesfallforny.com/meet-charles"
+},
+{
+"text": "PRESS",
+"href": "https://www.charlesfallforny.com/press"
+},
+{
+"text": "[image: FALL_logo1_stack.png]",
+"href": "https://www.charlesfallforny.com"
+}
 ]

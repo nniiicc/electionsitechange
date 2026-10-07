@@ -1,8 +1,14 @@
-In light of law enforcement scrutiny this summer culminating in calls by some to defund the police, House Republicans remain more committed than ever to supporting and strengthening the capabilities of Indiana’s law enforcement officers in order to keep our communities safe.
+Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Healthcare Mental Health/Substance Abuse Supporting Law Enforcement, Boosting Accountability & Transparency In Policing by Cindy Ledbetter Posted on February 3, 2021 February 17, 2021 In light of law enforcement scrutiny this summer culminating in calls by some to defund the police, House Republicans remain more committed than ever to supporting and strengthening the capabilities of Indiana’s law enforcement officers in order to keep our communities safe.
 Recognizing that a narrow percentage of dishonest officers delegitimize the efforts and integrity of upstanding, quality officers who risk their lives every day to protect Hoosiers, House Republicans are also committed to increasing transparency and accountability within the law enforcement field.
 Discussions where had with the Indiana Sheriff’s Association, the Indiana Association of the Chiefs of Police, Fraternal Order of Police, and the Indiana State Police.
 House Bill 1006 renders Indiana poised to be the envy of the Midwest in terms of law enforcement training capabilities.
 Passing the house in early February this major police reform bill of 2021 is well on its way.
 Supported by law enforcement, public defenders and key organizations in Black communities, the measure requires de-escalation training for all police officers.
 It treats chokeholds as deadly force.
-And it allows the state training board to “decertify” officers who commit misconduct.
+And it allows the state training board to “decertify” officers who commit misconduct. https://www.wthr.com/article/news/local/indiana/house-bill-1006-indiana-police-officers-deescalation-chokehold/531-a1cff591-91f9-409e-b22c-3ee5e14ec353 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Post navigation Prev Supporting Education Next Supporting lawful gun owners in Indiana Leave a comment Cancel reply Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
+Box 1174 Newburgh, IN 47629 voteledbetter@gmail.com © # Vote Cindy Ledbetter.
+All rights reserved.
+Paid for by Ledbetter for State Representative Blog at WordPress.com.
+Search for: Search × Comment Reblog Subscribe Subscribed votecindyledbetter.com Sign me up Have a WordPress.com account?
+Log in now. votecindyledbetter.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

@@ -1,17 +1,82 @@
 [
-"https://facebook.com/PatRyanUC",
-"https://forms.gle/wjDLbvxUpRhRWYm49",
-"https://patryanforcongress.com/",
-"https://patryanforcongress.com/priorities",
-"https://patryanforcongress.com/privacy-policy",
-"https://patryanforcongress.com/resources",
-"https://patryanforcongress.com/volunteer",
-"https://patryanforcongress.myshopify.com/",
-"https://secure.actblue.com/donate/pr-web",
-"https://secure.actblue.com/donate/pr-web?amount=10",
-"https://secure.actblue.com/donate/pr-web?amount=100",
-"https://secure.actblue.com/donate/pr-web?amount=25",
-"https://secure.actblue.com/donate/pr-web?amount=250",
-"https://secure.actblue.com/donate/pr-web?amount=50",
-"https://twitter.com/patryanuc"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/pr-web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/pr-web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/pr-web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/pr-web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/pr-web?amount=50"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/pr-web"
+},
+{
+"text": "HOME",
+"href": "https://www.patryanforcongress.com"
+},
+{
+"text": "Keep Reading",
+"href": "https://www.patryanforcongress.com/priorities"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/pr-web"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.patryanforcongress.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.patryanforcongress.com/privacy-policy"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://forms.gle/wjDLbvxUpRhRWYm49"
+},
+{
+"text": "RESOURCES",
+"href": "https://www.patryanforcongress.com/resources"
+},
+{
+"text": "STORE",
+"href": "https://patryanforcongress.myshopify.com/"
+},
+{
+"text": "SUPPORT PAT'S CAMPAIGN >",
+"href": "https://secure.actblue.com/donate/pr-web"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.patryanforcongress.com/volunteer"
+},
+{
+"text": "View all priorities",
+"href": "https://www.patryanforcongress.com/priorities"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/PatRyanUC"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/patryanuc"
+},
+{
+"text": "[image]",
+"href": "https://www.patryanforcongress.com"
+}
 ]

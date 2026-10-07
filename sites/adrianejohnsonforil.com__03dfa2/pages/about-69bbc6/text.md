@@ -1,6 +1,4 @@
-State Senator
-Adriane Johnson
-State Senator Adriane Johnson was sworn in as the first Black state Senator from Lake County to represent the 30th District in October 2020.
+Skip to content Home About 30th District Issues Events Resources Contact Home About 30th District Issues Events Resources Contact contribute State Senator Adriane Johnson State Senator Adriane Johnson was sworn in as the first Black state Senator from Lake County to represent the 30th District in October 2020.
 As commissioner of the Buffalo Grove Park District Board and the president of the Buffalo Grove-Lincolnshire Chamber of Commerce, Johnson had dedicated her life to serving the residents, small businesses and local parks of the northern suburbs.
 Prior to her current job, Johnson served as the president of the Buffalo Grove Park District.
 Johnson is also currently the chair of the Illinois Association of Park Districts’ Board of Trustees, a member of the Village’s Board of Fire and Police Commissioners, a member of the Rotary Club of Buffalo Grove, and serves as a volunteer with the Taproot Foundation.
@@ -10,3 +8,5 @@ Johnson received a Bachelor of Arts degree in Liberal Studies from Columbia Coll
 She lives with her husband, Bruce, in Buffalo Grove.
 The couple has an adult daughter who lives in Chicago.
 The 30th State Senate District includes all or part of Waukegan, Buffalo Grove, Vernon Hills, Mundelein, North Chicago, Wheeling, Gurnee, Park City, Lincolnshire, Riverwoods and Beach Park.
+About 30th District Issues Events Resources Contact Privacy Policy campaign committee address 2033 N.
+Milwaukee Avenue, #214, Riverwoods, IL 60015 friendsofadrianejohnson@gmail.com Facebook

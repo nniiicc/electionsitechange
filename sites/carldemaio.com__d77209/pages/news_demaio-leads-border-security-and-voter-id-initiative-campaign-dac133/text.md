@@ -1,8 +1,12 @@
-|
-Image Credit:
-60,000 migrants have flooded San Diego since September
-DeMaio says proposal to use taxpayer funds to fight these deportations is “offensive” & will cause crime to skyrocket
-California politicians aim to put illegal immigrants’ voices before citizens with a new city charter proposal in San ...
-The California Voter ID Initiative has been formally filed with the Secretary of State
-California Governor Gavin Newsom finally delivered his long-delayed State-of-the State address
-New report lays the blame for higher costs on California politicians for costly mandates and negligent policies.
+ Contribute About District News Reform CA Voter Guide Events Podcast Volunteer Store FAQs  Contribute  Search for articles  Get Reform California's Voter Guide Here >> | DeMaio Leads Border Security and Voter ID Initiative Campaign  January 29, 2024  Subscribe to YouTube Channel Image Credit: Spread the Word — Share This Story!  Share  Tweet  Email Check Out Our Youtube Channel!  Subscribe to Channel Follow Carl on Social Media     Tweets by carldemaio More Campaigns Related News  December 5, 2023 Fox: DeMaio Slams Biden Border Failures as Migrants Flood California 60,000 migrants have flooded San Diego since September  April 13, 2023 DeMaio Warns of CA Democrat Plan to Fight Deportation of Illegal Immigrant Violent Felons with Your Tax Dollars DeMaio says proposal to use taxpayer funds to fight these deportations is “offensive” & will cause crime to skyrocket  July 15, 2022 DeMaio Opposes Chula Vista CA Proposal to Let Illegal Immigrants Serve on City Commissions California politicians aim to put illegal immigrants’ voices before citizens with a new city charter proposal in San ...
+Browse all articles Top News  July 17, 2025 DeMaio Authors CA Voter ID Initiative - Leads Campaign for Passage The California Voter ID Initiative has been formally filed with the Secretary of State  September 11, 2025 DeMaio Responds to Newsom’s Dishonest State-of-State Address California Governor Gavin Newsom finally delivered his long-delayed State-of-the State address  November 13, 2025 Living in CA Imposes a $29,753.16 “Cost-of-Living Penalty” on Typical Middle-Class Family New report lays the blame for higher costs on California politicians for costly mandates and negligent policies.
+Browse all articles Join the Fight $5,000 $1,000 $500 $250 $100 $50 $25 Other Join Carl DeMaio’s Movement to Reform California!
+Receive text message updates?
+Texts may be sent using automatic telephone dialing system.
+Reply/consent not required for any purchase.
+Periodic messages.
+Reply STOP to cancel, Reply HELP for help.
+Message & Data rates may apply.
+No mobile information will be shared by us with third parties/affiliates for marketing/promotional purposes.
+Text messaging originator opt-in data and consent will not be shared by us with any third parties.  Thanks for joining our newsletter Oops!
+Something went wrong while submitting the form.     About About Carl DeMaio Reform California Privacy Policy The Latest News Podcast Get Involved Events Volunteer Contribute Store Contact Carl DeMaio for State Assembly PO Box 27227 San Diego, CA 92198 (619) 786-8019 Ad paid for by Carl DeMaio for State Assembly 2026 - FPPC # 1476859

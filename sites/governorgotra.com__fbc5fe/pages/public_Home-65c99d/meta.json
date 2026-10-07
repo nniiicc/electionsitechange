@@ -1,7 +1,9 @@
 {
  "description": "Governor Gotra helps you organize, track, and share your work in 1 unified workspace. Built for teams and solo users who want clarity and speed.",
  "final_url": "https://governorgotra.com/public/Home",
- "paid_for_by": null,
+ "fingerprint": "86622db2cc99d6721042dbdc6230411d161a0e66",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Governor Gotra",
  "years_mentioned": []
 }

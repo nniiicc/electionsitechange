@@ -1,2 +1,1 @@
-Watch my remarks on the House floor explaining this amendment and why closing this loophole matters. https://youtu.be/Njlos5sX6p8 "If people continue to find new ways to kill unborn children, we need to continue to find ways to prevent that " Protecting …
-Continue reading
+Home About News Contact Donate February 9, 2026 Home 2026 February Day: February 9, 2026 February 9, 2026 Uncategorized Protecting Life and Closing Dangerous Loopholes Watch my remarks on the House floor explaining this amendment and why closing this loophole matters. https://youtu.be/Njlos5sX6p8 "If people continue to find new ways to kill unborn children, we need to continue to find ways to prevent that " Protecting … Continue reading Paid for by Travis Moore for House Home About News Contact Donate

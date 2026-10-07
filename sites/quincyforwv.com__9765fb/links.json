@@ -1,9 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61586425866990",
-"https://quincyforwv.com/",
-"https://quincyforwv.com/about-9",
-"https://quincyforwv.com/donate",
-"https://quincyforwv.com/general-clean",
-"https://quincyforwv.com/s-projects-basic",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.quincyforwv.com/about-9"
+},
+{
+"text": "Donate",
+"href": "https://www.quincyforwv.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://www.quincyforwv.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.quincyforwv.com"
+},
+{
+"text": "Meet Quincy",
+"href": "https://www.quincyforwv.com/about-9"
+},
+{
+"text": "On the Campaign Trail",
+"href": "https://www.quincyforwv.com/general-clean"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.quincyforwv.com/s-projects-basic"
+},
+{
+"text": "Welcome",
+"href": "https://www.quincyforwv.com"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61586425866990"
+},
+{
+"text": "info@quincyforwv.com",
+"href": "mailto:info@quincyforwv.com"
+}
 ]

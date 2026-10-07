@@ -1,15 +1,6 @@
-Previous
-Previous
-June 12
-Meet Rick Bennett in Medway
-Next
-Next
-June 17
-Back to All Events
-Bennett Headquarters Grand Opening!
-Support Rick Bennett
+0 Skip to Content Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine Folder: The Issues Back Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Back to All Events Bennett Headquarters Grand Opening!
+Monday, June 15, 2026 5:30 PM 7:00 PM Bennett For Governor Headquarters 1 Great Falls Plaza Auburn, Maine, 04210 United States (map) Google Calendar ICS Click here for more details and to RSVP Source: https://www.supportrickbennett.com/6_15_hq Previous Previous June 12 Meet Rick Bennett in Medway Next Next June 17 Meet Rick in Portland Contact Bennett for Governor info@BennettForGovernor.com P.O.
+Box 35 | Raymond, ME 04071 Privacy Policy | Terms of Use Paid for and authorized by Bennett for Governor. × Support Rick Bennett Your Help Matters.
 This is your movement.
 We can’t do it without your help.
-Rick’s campaign for Governor is building real momentum across Maine — chip in today and help us keep growing.
-Donate Now See All Donation Options
-Choose an amount above or continue to the full donation page.
+Rick’s campaign for Governor is building real momentum across Maine — chip in today and help us keep growing. $25 $50 $100 Donate Now See All Donation Options Choose an amount above or continue to the full donation page.

@@ -1,16 +1,58 @@
 [
-"https://bsky.app/profile/rg4philly.bsky.social",
-"https://facebook.com/profile.php?id=61582168496085",
-"https://instagram.com/rg_4_philly",
-"https://mobilize.us/robforphilly",
-"https://robgurtcheff4philly.com/",
-"https://robgurtcheff4philly.com/cart",
-"https://robgurtcheff4philly.com/endorsements",
-"https://robgurtcheff4philly.com/getinvolved",
-"https://robgurtcheff4philly.com/issues",
-"https://robgurtcheff4philly.com/media",
-"https://robgurtcheff4philly.com/meetrob",
-"https://secure.actblue.com/donate/robert-gurtcheff-2",
-"https://tiktok.com/@rg4philly",
-"https://vote.pa.gov/"
+{
+"text": "0",
+"href": "https://www.robgurtcheff4philly.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/robert-gurtcheff-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.robgurtcheff4philly.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.robgurtcheff4philly.com/getinvolved"
+},
+{
+"text": "In the Media",
+"href": "https://www.robgurtcheff4philly.com/media"
+},
+{
+"text": "Issues",
+"href": "https://www.robgurtcheff4philly.com/issues"
+},
+{
+"text": "Meet Rob",
+"href": "https://www.robgurtcheff4philly.com/meetrob"
+},
+{
+"text": "Sign up to volunteer!",
+"href": "https://www.mobilize.us/robforphilly"
+},
+{
+"text": "Voter Resources",
+"href": "https://vote.pa.gov"
+},
+{
+"text": "[image: Rob Gurtcheff for Philly]",
+"href": "https://www.robgurtcheff4philly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/rg4philly.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582168496085"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rg_4_philly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@rg4philly"
+}
 ]

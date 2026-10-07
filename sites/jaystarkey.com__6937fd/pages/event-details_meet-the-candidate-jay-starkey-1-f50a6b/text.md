@@ -1,6 +1,1 @@
-top of page
-Meet the Candidate - Jay Starkey
-Thu, Mar 12
-|108 E Main St, Boswell, IN 47921, USA
-Registration is closed
-bottom of page
+top of page Menu Close Home Meet Jay Platform Volunteer Donate Contact Home Meet Jay Platform Volunteer Donate Contact Menu Close Meet the Candidate - Jay Starkey Thu, Mar 12 | 108 E Main St, Boswell, IN 47921, USA Registration is closed See other events Time & Location Mar 12, 2026, 6:00 PM – 8:00 PM 108 E Main St, Boswell, IN 47921, USA Share this event ​ Paid for by Committee to Elect James "Jay" Starkey Privacy Policy Home Meet Jay Platform Volunteer Donate Contact bottom of page

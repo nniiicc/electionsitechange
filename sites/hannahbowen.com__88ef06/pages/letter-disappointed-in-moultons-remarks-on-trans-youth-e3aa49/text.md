@@ -1,5 +1,5 @@
-An open letter to Representative Moulton:
-I am disappointed that your recent remarks (eg, Salem News, Nov. 13, “Moulton defends trans comments after backlash”) added a new issue for MA-06 constituents to face, on top of things like navigating teacher strikes, fighting brush fires, keeping residents safe, and advancing projects that your office has partnered with us on in the past, such as the Hall-Whitaker Bridge and McPherson Youth Center in Beverly.
+Skip to content Open Facebook in a new tab Open Instagram in a new tab Open LinkedIn in a new tab About Hannah 2025 Endorsements News Priorities Donate Contact Menu Letter: Disappointed in Moulton’s remarks on trans youth Post author By Website Manager Post date November 18, 2024 An open letter to Representative Moulton: I am disappointed that your recent remarks (eg, Salem News, Nov.
+13, “Moulton defends trans comments after backlash”) added a new issue for MA-06 constituents to face, on top of things like navigating teacher strikes, fighting brush fires, keeping residents safe, and advancing projects that your office has partnered with us on in the past, such as the Hall-Whitaker Bridge and McPherson Youth Center in Beverly.
 Your remarks about Democratic Party strategy may not be meant for us, since 65% of Essex County voters are registered “Unenrolled” (independent of either party).
 But since we’ve heard them, I think it’s important to help move us out of the cycle of provocation and outrage your comments fed.
 So I’d like to try a public response that simply says: I disagree with you, here’s why, and here’s what I’d like to see going forward.
@@ -23,5 +23,4 @@ That responding to someone’s statements with disappointment, disagreement, or 
 And that all of us are constantly learning.
 I invite you to join me in learning more about why your comments struck such a painful chord for many.
 We can do that and simultaneously address the infrastructure, budget, and policy challenges that all our constituents — with all their complex, diverse identities — have brought to our attention.
-Hannah Bowen, City Councilor at-Large, Beverly
-Read the letter in the Salem News: https://www.salemnews.com/opinion/letter-disappointed-in-moultons-remarks-on-trans-youth/article_e25990fe-a2aa-11ef-895b-6b2a63fdc748.html
+Hannah Bowen, City Councilor at-Large, Beverly Read the letter in the Salem News: https://www.salemnews.com/opinion/letter-disappointed-in-moultons-remarks-on-trans-youth/article_e25990fe-a2aa-11ef-895b-6b2a63fdc748.html About Hannah 2025 Endorsements Priorities News Donate Contact Sign up for SMS Open Facebook in a new tab Open Instagram in a new tab Open LinkedIn in a new tab © # Committee to Elect Hannah Bowen

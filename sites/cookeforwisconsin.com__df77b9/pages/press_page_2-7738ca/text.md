@@ -1,39 +1,5 @@
-Local + National Press
-WEAU
-Rebecca Cooke rallied volunteers with Sen.
-Tammy Baldwin in Eau Claire
-August 27, 2026
-The New Republic
-How Trump’s Crazed Fury at Canada Is Already Backfiring Badly for Him
-August 25, 2026
-News 8
-Rebecca Cooke holds ‘Coming Together Tour’
-August 18, 2026
-NYPost
-Wisconsin Dem calls out party for abandoning rural voters: ‘They’re out of touch’
-August 15, 2026
-FOX News
-Wisconsin Democratic candidate says her party ‘left behind’ rural America
-August 14, 2026
-New York Times
-Rebecca Cooke Wins Democratic Primary for Key Wisconsin House Seat
-August 11, 2026
-NBC News
-Democrat backed by Blue Dogs and Bernie Sanders wins primary as parties prepare to battle for the House
-August 11, 2026
-WEAU
-Rebecca Cooke opens campaign headquarters on Water Street
-March 21, 2026
-Milwaukke Journal-Sentinel
-National Democrats highlight Rebecca Cooke in ‘Red to Blue’ program
-February 23, 2026
-News 8
-Congressional candidate Rebecca Cooke and Sen.
-Baldwin discuss healthcare costs during visit to La Crosse
-February 17, 2026
-Spectrum WI
-Competitive congressional race in Wisconsin heats up, as Democrats try to take back House
-February 13, 2026
-MS NOW
-Democrats’ path to the majority in the House: Affordability
-January 16, 2026
+About Rebecca Meet Rebecca Priorities Endorsements Press Join the Movement Join a Coalition Volunteer Get a Yard Sign Buy Merch Contact Connect With the Campaign Media Toolkit Donate About Rebecca Meet Rebecca Priorities Endorsements Press Join the Movement Join a Coalition Volunteer Get a Yard Sign Buy Merch Contact Connect With the Campaign Media Toolkit Donate The Latest Press Local + National Press WEAU Rebecca Cooke rallied volunteers with Sen.
+Tammy Baldwin in Eau Claire August 27, 2026 Read More The New Republic How Trump’s Crazed Fury at Canada Is Already Backfiring Badly for Him August 25, 2026 Read More News 8 Rebecca Cooke holds ‘Coming Together Tour’ August 18, 2026 Read More NYPost Wisconsin Dem calls out party for abandoning rural voters: ‘They’re out of touch’ August 15, 2026 Read More FOX News Wisconsin Democratic candidate says her party ‘left behind’ rural America August 14, 2026 Read More New York Times Rebecca Cooke Wins Democratic Primary for Key Wisconsin House Seat August 11, 2026 Read More NBC News Democrat backed by Blue Dogs and Bernie Sanders wins primary as parties prepare to battle for the House August 11, 2026 Read More WEAU Rebecca Cooke opens campaign headquarters on Water Street March 21, 2026 Read More Milwaukke Journal-Sentinel National Democrats highlight Rebecca Cooke in ‘Red to Blue’ program February 23, 2026 Read More News 8 Congressional candidate Rebecca Cooke and Sen.
+Baldwin discuss healthcare costs during visit to La Crosse February 17, 2026 Read More Spectrum WI Competitive congressional race in Wisconsin heats up, as Democrats try to take back House February 13, 2026 Read More MS NOW Democrats’ path to the majority in the House: Affordability January 16, 2026 Read More Previous 1 2 3 Next Our campaign is 100% people powered.
+Join us to keep building the movement.
+Media Toolkit Privacy Policy PO Box 1846, Eau Claire, WI 54702 Paid for by Cooke for Congress Branding and photography by Knorth Studios Website design and development by Andrew Tarcon

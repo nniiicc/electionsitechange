@@ -1,6 +1,6 @@
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
 Rep.
-Chuck Martin appointed to serve as vice-chairman of the Halls of Fame Authority Overview Committee
-August 29, 2023
-Working to honor generations of Georgians
-"I'm honored to be selected by Speaker Jon Burns to serve in leadership for the Halls of Fame Authority Overview Committee" - Rep.
-Chuck Martin
+Chuck Martin appointed to serve as vice-chairman of the Halls of Fame Authority Overview Committee August 29, 2023 Working to honor generations of Georgians "I'm honored to be selected by Speaker Jon Burns to serve in leadership for the Halls of Fame Authority Overview Committee" - Rep.
+Chuck Martin < Older Post Newer Post > Share Tweet Share Mail Updates from Chuck Listening First on Local Taxes July 27, 2026 The first meeting of the Blue-Ribbon Study Committee on Local Government Taxation, Funding, and Budgeting.
+University of North Georgia STEM Excellence Center Groundbreaking By Chuck Martin • July 14, 2026 University of North Georgia - STEM Excellence Center Groundbreaking 1 (current) 2 3 ...
+8 HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:

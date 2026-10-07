@@ -1,5 +1,2 @@
-21
-Apr
-Tuesday, 8:56 PM · 2026
-Paid for by the gunther4assembly committee
-Powered by CampaignPartner.com - Political Websites
+Meet John News Endorsements Volunteer Voter Information Donate by Mail Contribute News / John Gunther Announces his Candidacy for New York State Assembly District 114 21 Apr Tuesday, 8:56 PM · 2026 John Gunther Announces his Candidacy for New York State Assembly District 114 Add your expanded detail here.
+Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com - Political Websites Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

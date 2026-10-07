@@ -1,5 +1,4 @@
-Legislative Session 2025 Week #12
-As we approach Sine Die, I’ve taken time this week to reflect on the wins, lessons, and areas for growth from this year’s legislative session.
+Skip to main content Wheeler For Idaho Menu Why I Am Running About Josh Blog Contact Campaign Voting Record Donate Volunteer Search the site Expand Search Legislative Session 2025 Week #12 As we approach Sine Die, I’ve taken time this week to reflect on the wins, lessons, and areas for growth from this year’s legislative session.
 Among the most significant victories was the passage of House Bill 445, which establishes ongoing funding for water infrastructure projects across Idaho.
 This is likely the single most impactful piece of legislation we passed this year—an investment not just in today's needs, but in the long-term stability and sustainability of our state's most critical natural resource.
 I was also proud to join Governor Little at the signing ceremony for House Bill 134, which improves access to early breast cancer detection for women throughout Idaho.
@@ -20,6 +19,4 @@ Decisions were slower, and the public—and even some legislators—had less vis
 It’s an area where we must do better.
 I remain deeply grateful for the opportunity to serve District 35.
 Thank you for staying engaged, for reaching out, and for keeping me grounded in the values and needs of our community.
-Sincerely,
-Josh Wheeler
-Idaho State Representative, District 35
+Sincerely, Josh Wheeler Idaho State Representative, District 35 31 Mar 2025 Home Campaign Updates Legislative Session 2025 Week #12 Wheeler for Idaho Ben Spencer - Treasurer (208) 360-3926 © # Home About Josh Contact Campaign Back to top

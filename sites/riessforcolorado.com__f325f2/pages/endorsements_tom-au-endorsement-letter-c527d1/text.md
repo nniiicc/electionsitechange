@@ -1,5 +1,4 @@
-Friends and Neighbors,
-I am proud to offer my strong support for Naomi Riess as our next Representative for House District 59.
+DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Tom Au Tom Au Friends and Neighbors, I am proud to offer my strong support for Naomi Riess as our next Representative for House District 59.
 I have known and worked with Naomi since the late 1990s.
 As the owner of Pinnacle Surveying Inc., I have worked with her on many development and land-use projects over the years.
 In addition, I currently serve as Mayor of the Town of Bayfield and have been actively involved in local government and community leadership for more than a decade.
@@ -14,7 +13,5 @@ She speaks up for what is right, understands what works, and is not afraid to ad
 She comes to the table well prepared, asks the right questions, and follows through.
 House District 59 needs a representative who understands our communities, respects local decision-making, and can cut through red tape to deliver real results.
 Naomi Riess is exactly that leader, and I wholeheartedly endorse her.
-Sincerely,
-Tom Au
-Owner, Pinnacle Surveying Inc.
-Mayor, Town of Bayfield
+Sincerely, Tom Au Owner, Pinnacle Surveying Inc.
+Mayor, Town of Bayfield Paid for by Riess for Colorado John Rice, Registered Agent Contact 970.946.3561 info@riessforcolorado.com PO BOX 1045 Durango, CO 81302 Media Kit Follow Riess for Colorado on Facebook Riess for Colorado Follow Naomi On Flickr

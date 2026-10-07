@@ -1,7 +1,9 @@
 {
  "description": "MY SITE",
  "final_url": "https://www.cking4ar.com/vote.html",
- "paid_for_by": null,
+ "fingerprint": "bd4d0b8b70a6d86400f908a354137106673a6e83",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Vote - MY SITE",
  "years_mentioned": [
   "2025"

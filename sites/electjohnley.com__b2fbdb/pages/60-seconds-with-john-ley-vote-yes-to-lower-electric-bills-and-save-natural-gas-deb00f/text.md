@@ -1,4 +1,4 @@
-The Clark Public Utilities River Road power plant uses clean natural gas to generate 35 percent of the power CPU provides to its customers.
+Home News Latest News 60 Seconds With John Ley About Me Donate 60 Seconds With John Ley Issues 60 Seconds with John Ley • Vote Yes to Lower Electric Bills and Save Natural Gas August 18, 2024 by John Ley The Clark Public Utilities River Road power plant uses clean natural gas to generate 35 percent of the power CPU provides to its customers.
 It’s a wonderful way for them to meet demand when our hydroelectric dams can’t produce enough electricity.
 The Washington state Climate Commitment Act requires those who buy fossil fuels, including natural gas, to buy “carbon credits”.
 Customers like you and me, and Clark Public Utilities are charged by NW Natural Gas, who has to buy those carbon credits.
@@ -10,8 +10,7 @@ Additionally, people can support I-2066.
 It will reverse the state’s ban on natural gas for home heating, cooking and for businesses like Clark Public Utilities.
 Vote Yes, Pay Less!
 Let’s make Washington more affordable!
-Transcript
-Hello, folks.
+Transcript Hello, folks.
 John Ley here.
 I’m in front of the Clark Public Utilities River Road power generation plant.
 They use clean natural gas to generate electricity for our homes and our businesses here.
@@ -29,3 +28,8 @@ That would cost tens of thousands of dollars.
 Additionally, many builders have said it will add tens of thousands of dollars to the cost of a new home if they can’t use natural gas for heating and cooking.
 Go to ElectJohnLey.com to learn more about my battle to lower your cost of living, to support you in your choice of energy for your homes.
 ElectJohnLey.com and let’s make Washington state affordable again.
+18th Legislative District affordable energy carbon credits carbon tax repeal Clark Public Utilities clean natural gas Climate Commitment Act conservative leadership cost of living ElectJohnLey.com electricity prices energy bills energy choice home cooking home heating I-2066 I-2117 John Ley natural gas ban new construction NW Natural Gas residential electricity River Road power plant state spending tax relief utility costs Washington residents Washington State by John Ley previous Paying too much for too many MAX light rail vehicles next Ten thousand page Draft Supplemental Environmental Impact Statement likely to be released next month Help me fight for the people and common sense solutions.
+I want to serve YOU in Olympia.
+Donate Contact electjohnley@gmail.com P.O.
+Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.
+Box 822041, Vancouver, WA 98682

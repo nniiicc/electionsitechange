@@ -1,19 +1,90 @@
 [
-"https://bradbatt.com/",
-"https://bradbatt.com/issues",
-"https://bradbatt.com/meet-brad",
-"https://bradbatt.com/vote",
-"https://bsky.app/profile/bradbatt.bsky.social",
-"https://facebook.com/BradBatt4TN",
-"https://google.com/maps/dir?api=1&destination=Freedom+Hall%2C+1320+Pactolas+Rd%2C+Johnson+City%2C+TN+37604",
-"https://google.com/maps/dir?api=1&destination=Johnson+City+Fire+Station+%238+%28Gray%29%2C+106+Gray+Commons+Circle%2C+Gray%2C+TN+37615",
-"https://google.com/maps/dir?api=1&destination=Old+Jonesborough+Middle+School%2C+308+Forest+Dr%2C+Jonesborough%2C+TN+37659",
-"https://ovr.govote.tn.gov/",
-"https://secure.actblue.com/donate/bradbatt2026",
-"https://sos.tn.gov/elections/services/absentee-voting",
-"https://sos.tn.gov/elections/voter-id-requirements",
-"https://threads.com/@bradbatt",
-"https://tnmap.tn.gov/voterlookup",
-"https://wcecoffice.com/",
-"https://wcecoffice.com/live-election-results"
+{
+"text": "(423) 753-1688",
+"href": "tel:+14237531688"
+},
+{
+"text": "Absentee rules & form →",
+"href": "https://sos.tn.gov/elections/services/absentee-voting"
+},
+{
+"text": "Am I registered?",
+"href": "https://tnmap.tn.gov/voterlookup/"
+},
+{
+"text": "Am I registered? →",
+"href": "https://tnmap.tn.gov/voterlookup/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bradbatt2026"
+},
+{
+"text": "Find my polling place →",
+"href": "https://tnmap.tn.gov/voterlookup/"
+},
+{
+"text": "Full ID list →",
+"href": "https://sos.tn.gov/elections/voter-id-requirements"
+},
+{
+"text": "Get directions →",
+"href": "https://www.google.com/maps/dir/?api=1&destination=Freedom+Hall%2C+1320+Pactolas+Rd%2C+Johnson+City%2C+TN+37604"
+},
+{
+"text": "Get directions →",
+"href": "https://www.google.com/maps/dir/?api=1&destination=Johnson+City+Fire+Station+%238+%28Gray%29%2C+106+Gray+Commons+Circle%2C+Gray%2C+TN+37615"
+},
+{
+"text": "Get directions →",
+"href": "https://www.google.com/maps/dir/?api=1&destination=Old+Jonesborough+Middle+School%2C+308+Forest+Dr%2C+Jonesborough%2C+TN+37659"
+},
+{
+"text": "How to Vote",
+"href": "https://bradbatt.com/vote"
+},
+{
+"text": "Issues",
+"href": "https://bradbatt.com/issues"
+},
+{
+"text": "Meet Brad",
+"href": "https://bradbatt.com/meet-brad"
+},
+{
+"text": "Register or update →",
+"href": "https://ovr.govote.tn.gov/"
+},
+{
+"text": "Register to vote by Oct 5Register now →",
+"href": "https://bradbatt.com/vote"
+},
+{
+"text": "See the results →",
+"href": "https://www.wcecoffice.com/live-election-results/"
+},
+{
+"text": "Vote",
+"href": "https://bradbatt.com/vote"
+},
+{
+"text": "[image: Brad Batt]",
+"href": "https://bradbatt.com/"
+},
+{
+"text": "[tooltip: Bluesky]",
+"href": "https://bsky.app/profile/bradbatt.bsky.social"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/BradBatt4TN/"
+},
+{
+"text": "[tooltip: Threads]",
+"href": "https://www.threads.com/@bradbatt"
+},
+{
+"text": "wcecoffice.com →",
+"href": "https://www.wcecoffice.com/"
+}
 ]

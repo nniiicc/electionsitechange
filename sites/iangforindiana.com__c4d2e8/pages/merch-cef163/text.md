@@ -1,4 +1,4 @@
-Get Official Campaign Merchandise!
+Skip to Content Open Menu Close Menu Campaign Merchandise More From Ian About Donate Power Our Future Volunteer Contact ( 0 ) Cart ( 0 ) Campaign Merchandise More From Ian About Donate Power Our Future Volunteer Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Campaign Merchandise More From Ian About Donate Power Our Future Volunteer Contact Get Official Campaign Merchandise!
 All campaign art has been lovingly crafted by Ian G.
 Richardson himself using tools like Canva, and GIMP GNU.
 Please feel free to buy all the merch!
@@ -9,3 +9,5 @@ Set of pin buttons from $9.58 Select Size 1.25″ 2.25″ Add To Cart Added!
 Unisex classic tee from $16.00 View Options No results found No results match your search.
 Try removing a few filters.
 Have Questions?
+Paid for by Elect Ian Richardson Made with Squarespace Contact iangforindiana@gmail.com 260-205-8781 Ian G.
+Richardson PO Box 110 Bluffton, IN 46714

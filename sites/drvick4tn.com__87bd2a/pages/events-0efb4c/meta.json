@@ -1,9 +1,12 @@
 {
  "description": "Dr. Robert C. Vick Campaign Events",
  "final_url": "https://drvick4tn.com/events",
- "paid_for_by": null,
+ "fingerprint": "e43619844ce90998add8e2b67bd57540d90f8bbb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Dr. Robert C. Vick Campaign Events",
  "years_mentioned": [
-  "2026"
+  "2026",
+  "2027"
  ]
 }

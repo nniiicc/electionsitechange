@@ -1,11 +1,3 @@
-top of page
-Parade of Hearts
-In a new Shawnee Park on Nieman Road.
-Downtown Mural
-Jacob Cromer, Artist and Shawnee resident.
-Heart at City Hall
-Another heart from the Parade of Hearts.
-Parade of Hearts
-In a new Shawnee Park on Nieman Road.
-1/4
-bottom of page
+top of page HOME MEET CINDY ENDORSEMENTS ISSUES VOLUNTEER CONTRIBUTE VOTER INFO More Use tab to navigate through the menu items.
+District 18 Serving the Heart of Shawnee & Northwest Merriam Parade of Hearts In a new Shawnee Park on Nieman Road. press to zoom Downtown Mural Jacob Cromer, Artist and Shawnee resident. press to zoom Heart at City Hall Another heart from the Parade of Hearts. press to zoom Parade of Hearts In a new Shawnee Park on Nieman Road. press to zoom 1/4 HOME MEET CINDY ENDORSEMENTS ISSUES VOLUNTEER CONTRIBUTE VOTER INFO More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: © # Cindy Neighbor for Kansas - Jeff Meyers, Treasurer bottom of page

@@ -1,11 +1,74 @@
 [
-"https://elections.maricopa.gov/voting/active-early-voting-list.html",
-"https://elections.maricopa.gov/voting/voter-dashboard-login.html",
-"https://elections.maricopa.gov/voting/where-to-vote.html",
-"https://forms.gle/RXz33HByDQPqgwMF6",
-"https://munoz4az.com/en",
-"https://munoz4az.com/en/voter-resources",
-"https://munoz4az.com/es/voter-resources",
-"https://recorder.maricopa.gov/Elections/EarlyVotingBallot/earlyvotingballotrequest.aspx",
-"https://servicearizona.com/VoterRegistration/selectLanguage"
+{
+"text": "About",
+"href": "https://www.munoz4az.com/en/#about"
+},
+{
+"text": "Back to the campaign",
+"href": "https://www.munoz4az.com/en"
+},
+{
+"text": "Check Your Voter RegistrationConfirm you are registered and that your address, precinct, and party are current before Election Day. The process takes less than a minute.Check my status",
+"href": "https://elections.maricopa.gov/voting/voter-dashboard-login.html"
+},
+{
+"text": "Check your registration status",
+"href": "https://elections.maricopa.gov/voting/voter-dashboard-login.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.munoz4az.com/en/#endorsements"
+},
+{
+"text": "Español",
+"href": "https://www.munoz4az.com/es/voter-resources"
+},
+{
+"text": "Find Your Polling LocationSee your assigned polling place and its hours for Election Day, or locate an early voting center near you.Find where to vote",
+"href": "https://elections.maricopa.gov/voting/where-to-vote.html"
+},
+{
+"text": "Home",
+"href": "https://www.munoz4az.com/en"
+},
+{
+"text": "Join the Active Early Voting List (AEVL)Automatically receive a ballot by mail for every election — formerly the Permanent Early Voting List (PEVL).Join the AEVL",
+"href": "https://elections.maricopa.gov/voting/active-early-voting-list.html"
+},
+{
+"text": "Map",
+"href": "https://www.munoz4az.com/en/#map"
+},
+{
+"text": "Register or update",
+"href": "https://servicearizona.com/VoterRegistration/selectLanguage"
+},
+{
+"text": "Request an Early BallotVote from home at your own pace. Request a ballot to be mailed to you and return it by mail or at an official drop-off location.Request an early ballot",
+"href": "https://recorder.maricopa.gov/Elections/EarlyVotingBallot/earlyvotingballotrequest.aspx"
+},
+{
+"text": "Socials",
+"href": "https://www.munoz4az.com/en/#socials"
+},
+{
+"text": "Vision",
+"href": "https://www.munoz4az.com/en/#vision"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/RXz33HByDQPqgwMF6"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.munoz4az.com/en/voter-resources"
+},
+{
+"text": "[image: Vote Betsy Muñoz]",
+"href": "https://www.munoz4az.com/en"
+},
+{
+"text": "munoz4az@gmail.com",
+"href": "mailto:munoz4az@gmail.com"
+}
 ]

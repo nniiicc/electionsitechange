@@ -1,14 +1,50 @@
 [
-"https://facebook.com/1854097581514950",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/kent_roberson",
-"https://kentroberson.org/about-kent",
-"https://kentroberson.org/contact-us",
-"https://kentroberson.org/donate",
-"https://kentroberson.org/legislative-updates",
-"https://kentroberson.org/privacy",
-"https://kentroberson.org/scholarships",
-"https://kentroberson.org/upcoming-events-1",
-"https://kentroberson.org/welcome",
-"https://x.com/kentaroberson?lang=en"
+{
+"text": "About Kent",
+"href": "https://kentroberson.org/about-kent"
+},
+{
+"text": "Contact Us",
+"href": "https://kentroberson.org/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://kentroberson.org/donate"
+},
+{
+"text": "Legislative Updates",
+"href": "https://kentroberson.org/legislative-updates"
+},
+{
+"text": "Privacy",
+"href": "https://kentroberson.org/privacy"
+},
+{
+"text": "Scholarships",
+"href": "https://kentroberson.org/scholarships"
+},
+{
+"text": "Upcoming Events",
+"href": "https://kentroberson.org/upcoming-events-1"
+},
+{
+"text": "Welcome",
+"href": "https://kentroberson.org/welcome"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/1854097581514950"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kent_roberson"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/kentaroberson?lang=en"
+}
 ]

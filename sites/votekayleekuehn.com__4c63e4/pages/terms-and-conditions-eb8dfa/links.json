@@ -1,12 +1,86 @@
 [
-"https://facebook.com/votekayleekuehn",
-"https://instagram.com/votekayleekuehn",
-"https://secure.actblue.com/donate/kaylee-kuehn-1",
-"https://votekayleekuehn.com/",
-"https://votekayleekuehn.com/contact",
-"https://votekayleekuehn.com/events",
-"https://votekayleekuehn.com/media",
-"https://votekayleekuehn.com/privacy-policy",
-"https://votekayleekuehn.com/terms-and-conditions",
-"https://voter.votewa.gov/portal2023/login.aspx"
+{
+"text": "About",
+"href": "https://votekayleekuehn.com/#meetkaylee"
+},
+{
+"text": "Check your voter registration status!",
+"href": "https://voter.votewa.gov/portal2023/login.aspx"
+},
+{
+"text": "Community Members",
+"href": "https://votekayleekuehn.com/#community-member-endorsements"
+},
+{
+"text": "Contact",
+"href": "https://votekayleekuehn.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kaylee-kuehn-1"
+},
+{
+"text": "Endorse Kaylee",
+"href": "https://votekayleekuehn.com/#endorse-kaylee"
+},
+{
+"text": "Endorsements",
+"href": "https://votekayleekuehn.com/#state-and-local-endorsements"
+},
+{
+"text": "Events",
+"href": "https://votekayleekuehn.com/events"
+},
+{
+"text": "Home",
+"href": "https://votekayleekuehn.com/"
+},
+{
+"text": "Media",
+"href": "https://votekayleekuehn.com/media"
+},
+{
+"text": "Organizations",
+"href": "https://votekayleekuehn.com/#organization-endorsements"
+},
+{
+"text": "Platform",
+"href": "https://votekayleekuehn.com/#platform"
+},
+{
+"text": "Platform",
+"href": "https://votekayleekuehn.com/#priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votekayleekuehn.com/privacy-policy"
+},
+{
+"text": "State and Local",
+"href": "https://votekayleekuehn.com/#state-and-local-endorsements"
+},
+{
+"text": "Terms",
+"href": "https://votekayleekuehn.com/terms-and-conditions"
+},
+{
+"text": "[image: Vote Kaylee Kuehn logo]",
+"href": "https://votekayleekuehn.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/votekayleekuehn"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/votekayleekuehn"
+},
+{
+"text": "contact@votekayleekuehn.co",
+"href": "mailto:contact@votekayleekuehn.com"
+},
+{
+"text": "contact@votekayleekuehn.com",
+"href": "mailto:contact@votekayleekuehn.com"
+}
 ]

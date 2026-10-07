@@ -1,11 +1,62 @@
 [
-"http://facebook.com/owforsenate",
-"https://owforsenate.com/",
-"https://owforsenate.com/about",
-"https://owforsenate.com/get-involved",
-"https://owforsenate.com/news",
-"https://owforsenate.com/post/affordable-housing-shouldn-t-mean-surrendering-local-control",
-"https://owforsenate.com/post/make-no-mistake-connecticut-cannot-afford-to-subsidize-the-ai-data-center-boom-on-the-backs-of-work",
-"https://owforsenate.com/post/weaver-and-collins-call-for-immediate-action-not-a-pause-on-surveillance-cameras",
-"https://owforsenate.com/profile/004b8da7-b0b3-4e43-9dce-7a976bfa81c871926/profile"
+{
+"text": "About",
+"href": "https://www.owforsenate.com/about"
+},
+{
+"text": "Admin",
+"href": "https://www.owforsenate.com/profile/004b8da7-b0b3-4e43-9dce-7a976bfa81c871926/profile"
+},
+{
+"text": "Affordable Housing Shouldn’t Mean Surrendering Local Control",
+"href": "https://www.owforsenate.com/post/affordable-housing-shouldn-t-mean-surrendering-local-control"
+},
+{
+"text": "All Posts",
+"href": "https://www.owforsenate.com/news"
+},
+{
+"text": "Email: owen@owforsenate.com",
+"href": "mailto:owen@owforsenate.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.owforsenate.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.owforsenate.com"
+},
+{
+"text": "Make No Mistake: Connecticut Cannot Afford to Subsidize the AI Data Center Boom on the Backs of Working Families",
+"href": "https://www.owforsenate.com/post/make-no-mistake-connecticut-cannot-afford-to-subsidize-the-ai-data-center-boom-on-the-backs-of-work"
+},
+{
+"text": "News",
+"href": "https://www.owforsenate.com/news"
+},
+{
+"text": "See All",
+"href": "https://www.owforsenate.com/news"
+},
+{
+"text": "Weaver and Collins Call for Immediate Action. Not a Pause, on Surveillance Cameras",
+"href": "https://www.owforsenate.com/post/weaver-and-collins-call-for-immediate-action-not-a-pause-on-surveillance-cameras"
+},
+{
+"text": "[image: Affordable Housing Shouldn’t Mean Surrendering Local Control]",
+"href": "https://www.owforsenate.com/post/affordable-housing-shouldn-t-mean-surrendering-local-control"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://facebook.com/owforsenate"
+},
+{
+"text": "[image: Make No Mistake: Connecticut Cannot Afford to Subsidize the AI Data Center Boom on the Backs of Working Families]",
+"href": "https://www.owforsenate.com/post/make-no-mistake-connecticut-cannot-afford-to-subsidize-the-ai-data-center-boom-on-the-backs-of-work"
+},
+{
+"text": "[image: Weaver and Collins Call for Immediate Action. Not a Pause, on Surveillance Cameras]",
+"href": "https://www.owforsenate.com/post/weaver-and-collins-call-for-immediate-action-not-a-pause-on-surveillance-cameras"
+}
 ]

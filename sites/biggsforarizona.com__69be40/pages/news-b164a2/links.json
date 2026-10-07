@@ -1,36 +1,162 @@
 [
-"https://biggsforarizona.com/",
-"https://biggsforarizona.com/action-center",
-"https://biggsforarizona.com/endorsements",
-"https://biggsforarizona.com/issues",
-"https://biggsforarizona.com/media-kit",
-"https://biggsforarizona.com/meet-andy",
-"https://biggsforarizona.com/meet-sine",
-"https://biggsforarizona.com/news",
-"https://biggsforarizona.com/news/page/15",
-"https://biggsforarizona.com/news/page/2",
-"https://biggsforarizona.com/news/page/3",
-"https://biggsforarizona.com/press-release/andy-biggs-calls-out-katie-hobbs-on-education-and-public-safety-failures",
-"https://biggsforarizona.com/press-release/andy-biggs-takes-debate-stage-tonight-for-first-gubernatorial-debate-in-arizona",
-"https://biggsforarizona.com/press-release/andy-biggs-takes-message-to-independent-voters-on-podcast-interview",
-"https://biggsforarizona.com/press-release/biggs-kerr-campaign-release-policy-platform",
-"https://biggsforarizona.com/press-release/biggs-kerr-campaign-releases-maha-platform",
-"https://biggsforarizona.com/press-release/biggs-kerr-for-arizona-statement-on-katie-hobbss-culture-of-corruption",
-"https://biggsforarizona.com/press-release/biggs-kerr-on-the-campaign-trail-recap",
-"https://biggsforarizona.com/press-release/katie-hobbs-refuses-to-debate-and-defend-her-terrible-record-as-governor",
-"https://biggsforarizona.com/press-release/media-recap-biggs-kerr-wins-positive-coverage-for-policy-platform-rollout",
-"https://biggsforarizona.com/privacy-policy",
-"https://biggsforarizona.com/terms-and-conditions",
-"https://biggsforarizona.com/wp-content/uploads/2026/08/Biggs-Contribution-Form.pdf",
-"https://facebook.com/biggsforarizona",
-"https://instagram.com/andybiggsaz?hl=en",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=100",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=15",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=25",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=5",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=50",
-"https://secure.winred.com/biggs-for-arizona/storefront",
-"https://x.com/andybiggs4az",
-"https://youtube.com/@BiggsForArizona"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=100"
+},
+{
+"text": "$15",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=15"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=50"
+},
+{
+"text": "15",
+"href": "https://biggsforarizona.com/news/page/15/"
+},
+{
+"text": "2",
+"href": "https://biggsforarizona.com/news/page/2/"
+},
+{
+"text": "3",
+"href": "https://biggsforarizona.com/news/page/3/"
+},
+{
+"text": "Action Center",
+"href": "https://biggsforarizona.com/action-center/"
+},
+{
+"text": "Andy Biggs Takes Debate Stage Tonight for First Gubernatorial Debate in ArizonaOctober 1, 2026 - Press ReleaseBiggs/Kerr campaign hosting tonight’s debate before Governor and Lt. Governor Debates next week in ScottsdaleGILBERT, AZ— Republican nominee for Governor...Read More →",
+"href": "https://biggsforarizona.com/press-release/andy-biggs-takes-debate-stage-tonight-for-first-gubernatorial-debate-in-arizona/"
+},
+{
+"text": "Biggs/Kerr Campaign Release Policy PlatformSeptember 22, 2026 - Press ReleasePlatform lays out clear vision for Arizona voters on how Biggs and Kerr would improve their quality of life from...Read More →",
+"href": "https://biggsforarizona.com/press-release/biggs-kerr-campaign-release-policy-platform/"
+},
+{
+"text": "Biggs/Kerr On The Campaign Trail RecapOctober 3, 2026 - Press ReleaseNew endorsements and earned media for Biggs/Kerr while Hobbs hides out and avoids interviews MEDIA HIGHLIGHTS FROM THE CAMPAIGN TRAIL...Read More →",
+"href": "https://biggsforarizona.com/press-release/biggs-kerr-on-the-campaign-trail-recap-2/"
+},
+{
+"text": "Biggs/Kerr On The Campaign Trail RecapSeptember 25, 2026 - Press ReleasePolicy Platform rollout plus stops in Mohave, Pinal, and Maricopa Counties as GOP ticket picks up momentum and earned media...Read More →",
+"href": "https://biggsforarizona.com/press-release/biggs-kerr-on-the-campaign-trail-recap/"
+},
+{
+"text": "Biggs/Kerr for Arizona Statement on Katie Hobbs’s Culture of CorruptionSeptember 25, 2026 - Press ReleaseHobbs trying to run from alleged pay-to-play scheme, insider contracts, and shipping millions in taxpayer dollars to scammers GILBERT, AZ—...Read More →",
+"href": "https://biggsforarizona.com/press-release/biggs-kerr-for-arizona-statement-on-katie-hobbss-culture-of-corruption/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona"
+},
+{
+"text": "Donate By Mail",
+"href": "https://biggsforarizona.com/wp-content/uploads/2026/08/Biggs-Contribution-Form.pdf"
+},
+{
+"text": "Donate Online",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona"
+},
+{
+"text": "Donate →",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona"
+},
+{
+"text": "Endorsements",
+"href": "https://biggsforarizona.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://biggsforarizona.com/"
+},
+{
+"text": "ICYMI: Biggs/Kerr Campaign Floods Local Media Before Ballots Drop in ArizonaOctober 5, 2026 - Press ReleaseNew endorsements and earned media for Biggs/Kerr while Hobbs hides out and avoids interviews MEDIA HIGHLIGHTS FROM THE CAMPAIGN TRAIL...Read More →",
+"href": "https://biggsforarizona.com/press-release/icymi-biggs-kerr-campaign-floods-local-media-before-ballots-drop-in-arizona/"
+},
+{
+"text": "Issues",
+"href": "https://biggsforarizona.com/issues/"
+},
+{
+"text": "Katie Hobbs Refuses To Debate and Defend Her Terrible Record as GovernorOctober 2, 2026 - Press ReleaseNew video highlights Hobbs’s cowardice as empty podium while Biggs provides clear, optimistic vision for Arizonans GILBERT, AZ— Katie Hobbs’s...Read More →",
+"href": "https://biggsforarizona.com/press-release/katie-hobbs-refuses-to-debate-and-defend-her-terrible-record-as-governor/"
+},
+{
+"text": "Media Kit",
+"href": "https://biggsforarizona.com/media-kit/"
+},
+{
+"text": "Media Recap: Biggs/Kerr Wins Positive Coverage for Policy Platform RolloutSeptember 23, 2026 - Press ReleasePlatform lays out clear vision for Arizona voters on how Biggs and Kerr would improve their quality of life from...Read More →",
+"href": "https://biggsforarizona.com/press-release/media-recap-biggs-kerr-wins-positive-coverage-for-policy-platform-rollout/"
+},
+{
+"text": "Meet Andy",
+"href": "https://biggsforarizona.com/meet-andy/"
+},
+{
+"text": "Meet Sine",
+"href": "https://biggsforarizona.com/meet-sine/"
+},
+{
+"text": "News",
+"href": "https://biggsforarizona.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona"
+},
+{
+"text": "Privacy Policy",
+"href": "https://biggsforarizona.com/privacy-policy/"
+},
+{
+"text": "Sine Kerr Takes Debate Stage Tonight at 6pm While John Giles Cowers in FearOctober 5, 2026 - Press ReleaseDebate hosted by Arizona Citizens Clean Elections Commission to feature Republican Lt. Governor nominee GILBERT, AZ— Republican nominee for Lt....Read More →",
+"href": "https://biggsforarizona.com/press-release/sine-kerr-takes-debate-stage-tonight-at-6pm-while-john-giles-cowers-in-fear/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/biggs-for-arizona/storefront/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://biggsforarizona.com/terms-and-conditions/"
+},
+{
+"text": "[image: Andy Biggs for Arizona]",
+"href": "https://biggsforarizona.com"
+},
+{
+"text": "[image: Biggs for Arizona]",
+"href": "https://biggsforarizona.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/biggsforarizona/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andybiggsaz/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@BiggsForArizona"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/andybiggs4az"
+},
+{
+"text": "→",
+"href": "https://biggsforarizona.com/news/page/2/"
+}
 ]

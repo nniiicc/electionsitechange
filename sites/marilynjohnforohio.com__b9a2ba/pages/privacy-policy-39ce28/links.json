@@ -1,6 +1,18 @@
 [
-"http://networkadvertising.org/choices",
-"https://marilynjohnforohio.com/",
-"https://marilynjohnforohio.com/privacy-policy",
-"https://secure.winred.com/friends-of-marilyn-john/donate"
+{
+"text": "<< Back to site",
+"href": "https://www.marilynjohnforohio.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-marilyn-john/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.marilynjohnforohio.com/privacy-policy"
+},
+{
+"text": "http://www.networkadvertising.org/choices/.",
+"href": "http://www.networkadvertising.org/choices/"
+}
 ]

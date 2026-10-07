@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.williamsricefornd.com/news/endorsed-by-the-north-dakota-afl-cio",
- "paid_for_by": "Paid for by Tiffany Williams-Rice for ND",
+ "fingerprint": "a989d09d520bd9f615e9de445e291c3d13fc7b8e",
+ "format": 3,
+ "paid_for_by": "Paid for by Tiffany Williams-Rice for ND You need to enable JavaScript to run this app",
  "title": "Endorsed by the North Dakota AFL-CIO",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

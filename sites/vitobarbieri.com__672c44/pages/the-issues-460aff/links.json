@@ -1,11 +1,42 @@
 [
-"https://facebook.com/",
-"https://instagram.com/",
-"https://tiktok.com/",
-"https://vitobarbieri.com/",
-"https://vitobarbieri.com/about-vito",
-"https://vitobarbieri.com/contact",
-"https://vitobarbieri.com/privacy-policy",
-"https://vitobarbieri.com/the-issues",
-"https://x.com/"
+{
+"text": "About Vito",
+"href": "https://vitobarbieri.com/about-vito"
+},
+{
+"text": "Contact",
+"href": "https://vitobarbieri.com/contact"
+},
+{
+"text": "Home",
+"href": "https://vitobarbieri.com/"
+},
+{
+"text": "Privacy policy",
+"href": "https://vitobarbieri.com/privacy-policy"
+},
+{
+"text": "The Issues",
+"href": "https://vitobarbieri.com/the-issues"
+},
+{
+"text": "Vito Barbieri",
+"href": "https://vitobarbieri.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "[tooltip: Go to Tiktok page]",
+"href": "https://tiktok.com/"
+},
+{
+"text": "[tooltip: Go to Twitter page]",
+"href": "https://x.com/"
+}
 ]

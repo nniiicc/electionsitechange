@@ -1,14 +1,62 @@
 [
-"http://facebook.com/TerryWilsonPage",
-"https://terrywilsonfortexas.com/",
-"https://terrywilsonfortexas.com/articles",
-"https://terrywilsonfortexas.com/articleslist/16",
-"https://terrywilsonfortexas.com/articleslist/17",
-"https://terrywilsonfortexas.com/articleslist/18",
-"https://terrywilsonfortexas.com/articleslist?author=58ff688c8419c2b2a27a28ae",
-"https://terrywilsonfortexas.com/bio",
-"https://terrywilsonfortexas.com/donate",
-"https://terrywilsonfortexas.com/endorsements2024",
-"https://terrywilsonfortexas.com/issues",
-"https://terrywilsonfortexas.com/take-action"
+{
+"text": "About",
+"href": "https://www.terrywilsonfortexas.com/bio"
+},
+{
+"text": "Articles",
+"href": "https://www.terrywilsonfortexas.com/articles"
+},
+{
+"text": "Donate",
+"href": "https://www.terrywilsonfortexas.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.terrywilsonfortexas.com/endorsements2024"
+},
+{
+"text": "Home",
+"href": "https://www.terrywilsonfortexas.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.terrywilsonfortexas.com/issues"
+},
+{
+"text": "Jeff Frazier",
+"href": "https://www.terrywilsonfortexas.com/articleslist?author=58ff688c8419c2b2a27a28ae"
+},
+{
+"text": "May 10, 2018",
+"href": "https://www.terrywilsonfortexas.com/articleslist/17"
+},
+{
+"text": "Sit-Rep #16 - Solving the Property Tax Paradox",
+"href": "https://www.terrywilsonfortexas.com/articleslist/16"
+},
+{
+"text": "Sit-Rep #17 - Importance of Local Elections",
+"href": "https://www.terrywilsonfortexas.com/articleslist/17"
+},
+{
+"text": "Sit-Rep #18 - Support Congressman John Carter",
+"href": "https://www.terrywilsonfortexas.com/articleslist/18"
+},
+{
+"text": "Take Action",
+"href": "https://www.terrywilsonfortexas.com/take-action"
+},
+{
+"text": "[image: Terry Wilson]",
+"href": "https://www.terrywilsonfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/TerryWilsonPage"
+},
+{
+"text": "volunteering",
+"href": "https://www.terrywilsonfortexas.com/take-action"
+}
 ]

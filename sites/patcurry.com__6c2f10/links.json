@@ -1,18 +1,106 @@
 [
-"https://facebook.com/people/Pat-Curry-Republican-for-Texas-House/61551098733770",
-"https://instagram.com/patcurryfortexashouse?next=%2F",
-"https://patcurry.com/",
-"https://patcurry.com/index.php/about",
-"https://patcurry.com/index.php/about-pat-curry",
-"https://patcurry.com/index.php/endorsements",
-"https://patcurry.com/index.php/issues",
-"https://patcurry.com/index.php/legislative-accomplishments",
-"https://patcurry.com/index.php/privacy-policy",
-"https://patcurry.com/index.php/skeet-shoot",
-"https://patcurry.com/index.php/volunteer",
-"https://secure.winred.com/pat-curry-campaign/donate-today",
-"https://secure.winred.com/pat-curry-campaign/donate-today?amount=100",
-"https://secure.winred.com/pat-curry-campaign/donate-today?amount=25",
-"https://secure.winred.com/pat-curry-campaign/donate-today?amount=250",
-"https://secure.winred.com/pat-curry-campaign/donate-today?amount=50"
+{
+"text": "$100",
+"href": "https://secure.winred.com/pat-curry-campaign/donate-today?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/pat-curry-campaign/donate-today?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/pat-curry-campaign/donate-today?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/pat-curry-campaign/donate-today?amount=50"
+},
+{
+"text": "About",
+"href": "https://patcurry.com/index.php/about-pat-curry/"
+},
+{
+"text": "Conservative Wins",
+"href": "https://patcurry.com/index.php/legislative-accomplishments/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/pat-curry-campaign/donate-today"
+},
+{
+"text": "Endorsed by President Donald J. Trump, Senator Ted Cruz, and Governor Greg Abbott",
+"href": "https://patcurry.com/index.php/endorsements/"
+},
+{
+"text": "Endorsements",
+"href": "https://patcurry.com/index.php/endorsements/"
+},
+{
+"text": "Issues",
+"href": "https://patcurry.com/index.php/issues/"
+},
+{
+"text": "Learn More About Pat",
+"href": "https://patcurry.com/index.php/about/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/pat-curry-campaign/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://patcurry.com/index.php/privacy-policy/"
+},
+{
+"text": "Skeet Shoot",
+"href": "https://patcurry.com/index.php/skeet-shoot/"
+},
+{
+"text": "Terms and Conditions.",
+"href": "https://patcurry.com/index.php/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://patcurry.com/index.php/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://patcurry.com/"
+},
+{
+"text": "[image] Defending the Second Amendment",
+"href": "https://patcurry.com/index.php/issues/"
+},
+{
+"text": "[image] Improving Teacher Pay and Public Education",
+"href": "https://patcurry.com/index.php/issues/"
+},
+{
+"text": "[image] Lowering Property Taxes",
+"href": "https://patcurry.com/index.php/issues/"
+},
+{
+"text": "[image] Protecting Agriculture and Private Property Owner Rights",
+"href": "https://patcurry.com/index.php/issues/"
+},
+{
+"text": "[image] Protecting Life and our Conservative Christian Values",
+"href": "https://patcurry.com/index.php/issues/"
+},
+{
+"text": "[image] Protecting the City of Waco’s Water Supply",
+"href": "https://patcurry.com/index.php/issues/"
+},
+{
+"text": "[image] Securing the Border",
+"href": "https://patcurry.com/index.php/issues/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Pat-Curry-Republican-for-Texas-House/61551098733770/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/patcurryfortexashouse/?next=%2F"
+}
 ]

@@ -1,11 +1,38 @@
 [
-"https://allison4nh.org/",
-"https://allison4nh.org/about",
-"https://allison4nh.org/cart",
-"https://allison4nh.org/endorsements",
-"https://allison4nh.org/get-involved",
-"https://allison4nh.org/priorities",
-"https://allison4nh.org/stratham-vote",
-"https://instagram.com/allison4nh",
-"https://secure.actblue.com/donate/allison4nh"
+{
+"text": "0",
+"href": "https://www.allison4nh.org/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/allison4nh"
+},
+{
+"text": "Endorsements",
+"href": "https://www.allison4nh.org/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.allison4nh.org/get-involved"
+},
+{
+"text": "Meet Allison",
+"href": "https://www.allison4nh.org/about"
+},
+{
+"text": "Priorities",
+"href": "https://www.allison4nh.org/priorities"
+},
+{
+"text": "Vote in Stratham",
+"href": "https://www.allison4nh.org/stratham-vote"
+},
+{
+"text": "[image: Allison Knab for Stratham State Representative]",
+"href": "https://www.allison4nh.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/allison4nh"
+}
 ]

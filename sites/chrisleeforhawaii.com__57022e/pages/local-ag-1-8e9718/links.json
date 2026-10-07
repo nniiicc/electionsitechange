@@ -1,17 +1,62 @@
 [
-"https://agleaderhi.org/",
-"https://capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HCR&billnumber=223&year=2019",
-"https://capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HR&billnumber=167&year=2014",
-"https://capitol.hawaii.gov/session2018/bills/HB1577_CD1_.htm",
-"https://capitol.hawaii.gov/session2018/bills/HB2025_CD1_.htm",
-"https://chrisleeforhawaii.com/",
-"https://chrisleeforhawaii.com/about",
-"https://chrisleeforhawaii.com/creating-change",
-"https://chrisleeforhawaii.com/do-the-right-thing",
-"https://chrisleeforhawaii.com/protecting-our-community",
-"https://facebook.com/chrisleeHI",
-"https://instagram.com/chrisleehawaii",
-"https://secure.actblue.com/donate/friends-of-chris-lee-1",
-"https://twitter.com/chrisleehawaii",
-"https://washingtonexaminer.com/hawaii-starts-to-look-beyond-the-pineapple"
+{
+"text": "ABOUT CHRIS",
+"href": "https://www.chrisleeforhawaii.com/about"
+},
+{
+"text": "COMMUNITY WINS",
+"href": "https://www.chrisleeforhawaii.com/protecting-our-community"
+},
+{
+"text": "Class 13 of the Hawaii Agricultural Leadership Program",
+"href": "https://agleaderhi.org/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-chris-lee-1"
+},
+{
+"text": "Go Now",
+"href": "https://www.chrisleeforhawaii.com/do-the-right-thing"
+},
+{
+"text": "TACKLING OUR ISSUES",
+"href": "https://www.chrisleeforhawaii.com/creating-change"
+},
+{
+"text": "[image: RegularLeeLogoLargeJust white.png]",
+"href": "https://www.chrisleeforhawaii.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/chrisleeHI/"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/chrisleehawaii/"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/chrisleehawaii"
+},
+{
+"text": "bills to help farmers reduce their cost of energy",
+"href": "https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HR&billnumber=167&year=2014"
+},
+{
+"text": "create compost and food production",
+"href": "https://www.capitol.hawaii.gov/session2018/bills/HB2025_CD1_.htm"
+},
+{
+"text": "legislation to help increase the market for local produce",
+"href": "https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HCR&billnumber=223&year=2019"
+},
+{
+"text": "nation’s first tax credits to help farmers with up to $50,000 in assistance to grow local organic food",
+"href": "https://www.washingtonexaminer.com/hawaii-starts-to-look-beyond-the-pineapple"
+},
+{
+"text": "passed bills creating a grant program",
+"href": "https://www.capitol.hawaii.gov/session2018/bills/HB1577_CD1_.htm"
+}
 ]

@@ -1,7 +1,12 @@
 {
  "description": "Get all the materials that you need to help support Chris Gallant for Congress.",
  "final_url": "https://gallantny.com/toolkit/",
+ "fingerprint": "804437bcc6dd3c128abab66859aea0d169e0b25c",
+ "format": 3,
  "paid_for_by": "Paid for by Gallant for Congress info@gallantny",
  "title": "Team Gallant Toolkit",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026",
+  "2027"
+ ]
 }

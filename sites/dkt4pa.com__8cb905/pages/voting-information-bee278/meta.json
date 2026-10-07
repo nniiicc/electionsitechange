@@ -1,7 +1,11 @@
 {
  "description": "Check your Pennsylvania voter registration, request a mail ballot, find your polling place, and view key election dates for District 183.",
  "final_url": "https://www.dkt4pa.com/voting-information",
- "paid_for_by": null,
+ "fingerprint": "211a3f881cd4726205cbe60eaa3390e20a43496a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voting Information | Deirdre Kamber Todd for PA House",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

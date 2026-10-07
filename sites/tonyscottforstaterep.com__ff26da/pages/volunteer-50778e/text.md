@@ -1,6 +1,7 @@
-Request a Campaign Sign or Volunteer
-Please sign-up below if you would like to request a campaign sign or volunteer to support the campaign.
-Paid for by Tony Scott for State Rep.
+Home Meet Tony Issues Endorsements Press Releases Request a Sign Request a Campaign Sign or Volunteer Please sign-up below if you would like to request a campaign sign or volunteer to support the campaign.
+VOTING INFO HELP CAMPAIGN Get Updates Thank you for signing up!
+News State Rep.
+Tony Scott outlines 2026 legislative priorities Tony Scott announces campaign for reelection to the Connecticut State House Monroe legislators take on fraud, homelessness, domestic violence, support veterans, first responders Voter Information Contact Paid for by Tony Scott for State Rep.
 Loretta Chory, Treasurer.
 Approved by Tony Scott.
-Powered by CampaignPartner.com - Political Websites
+Powered by CampaignPartner.com - Political Websites Home Meet Tony Issues Endorsements Press Releases Request a Sign Contact Voter Information Close Menu

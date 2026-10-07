@@ -1,11 +1,42 @@
 [
-"https://facebook.com/MattGoffForAR",
-"https://instagram.com/mattgoffforar",
-"https://mattgoffforarkansas.com/",
-"https://mattgoffforarkansas.com/about",
-"https://mattgoffforarkansas.com/news",
-"https://mattgoffforarkansas.com/privacy",
-"https://mattgoffforarkansas.com/terms",
-"https://mattgoffforarkansas.com/volunteer",
-"https://secure.winred.com/matt-goff-for-arkansas/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/matt-goff-for-arkansas/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.mattgoffforarkansas.com/"
+},
+{
+"text": "Meet Matt",
+"href": "https://www.mattgoffforarkansas.com/about/"
+},
+{
+"text": "News",
+"href": "https://www.mattgoffforarkansas.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mattgoffforarkansas.com/privacy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.mattgoffforarkansas.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mattgoffforarkansas.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/MattGoffForAR/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/mattgoffforar/"
+},
+{
+"text": "[image]",
+"href": "https://www.mattgoffforarkansas.com/"
+}
 ]

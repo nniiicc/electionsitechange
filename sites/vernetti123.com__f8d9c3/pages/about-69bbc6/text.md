@@ -1,5 +1,4 @@
-About Jeff Vernetti
-Jeff Vernetti was elected to the House of Representatives in November of 2024, representing Camden County and the 123rd District.
+info@vernetti123.com Facebook Facebook HOME ABOUT PRESS RELEASES DONATE Select Page About Jeff Vernetti ​Jeff Vernetti was elected to the House of Representatives in November of 2024, representing Camden County and the 123rd District.
 He is a local business owner and real estate developer.
 He owns his own company, which is involved in a number of real estate projects around the Lake of the Ozarks area.
 He is also the co-founder and co-owner of Ballparks National, one of the premier youth baseball and softball facilities in the country.
@@ -23,7 +22,8 @@ He is involved in a number of local organizations and is currently a member of t
 Previously he sat on the board of directors for Central Ozarks Medical Center (COMC), the Lake West Chamber of Commerce, and the Lake of the Ozarks Regional Economic Development Council.
 He has been married to his wife Kelly, who is currently a teacher at School of the Osage High School, since 2001.
 They have two adult children, Dominick and Isabella.
-Let's Keep Working Together
-By providing your cell phone or mobile phone number you are consenting to receive texts, including autodialed and automated texts, to that number with campaign notifications from the Committee to Elect Jeff Vernetti.
+Let's Keep Working Together Sign up to join Team Vernetti and keep working for the 123rd District!
+Fill out my online form . <a href="https://bpn.wufoo.com/forms/syg7osh1rj7xcl?entsource=wordpress" rel="nofollow">Fill out my Wufoo form!</a> By providing your cell phone or mobile phone number you are consenting to receive texts, including autodialed and automated texts, to that number with campaign notifications from the Committee to Elect Jeff Vernetti.
 Recurring messages, msg; data rates may apply.
 SMS data will not be sold, rented, or shared.
+HOME ABOUT PRESS RELEASES DONATE Facebook Paid for by the Committee to Elect Jeff Vernetti, Craig Roonan Treasurer

@@ -1,8 +1,42 @@
 [
-"https://reedfornd.com/category/press-release",
-"https://reedfornd.com/get-involved",
-"https://reedfornd.com/home",
-"https://reedfornd.com/reed-johnson-announces-candidacy-for-north-dakota-house-of-representatives-in-district-17",
-"https://reedfornd.com/und-law-students-and-faculty-honored-at-2026-leadership-awards",
-"https://secure.winred.com/reed-for-nd/donate?sc=winred-directory&money_bomb=false&recurring=false"
+{
+"text": "Contact",
+"href": "https://reedfornd.com/home/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/reed-for-nd/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/reed-for-nd/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Get Involved",
+"href": "https://reedfornd.com/get-involved/"
+},
+{
+"text": "Meet Reed",
+"href": "https://reedfornd.com/home/#about"
+},
+{
+"text": "News",
+"href": "https://reedfornd.com/home/#news"
+},
+{
+"text": "Press Release",
+"href": "https://reedfornd.com/category/press-release/"
+},
+{
+"text": "Priorities",
+"href": "https://reedfornd.com/home/#priorities"
+},
+{
+"text": "Reed Johnson Announces Candidacy for North Dakota House of Representatives in District 17",
+"href": "https://reedfornd.com/reed-johnson-announces-candidacy-for-north-dakota-house-of-representatives-in-district-17/"
+},
+{
+"text": "UND Law Students and Faculty Honored at 2026 Leadership Awards",
+"href": "https://reedfornd.com/und-law-students-and-faculty-honored-at-2026-leadership-awards/"
+}
 ]

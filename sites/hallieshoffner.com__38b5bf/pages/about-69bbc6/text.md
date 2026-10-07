@@ -1,5 +1,4 @@
-Meet Hallie
-Hallie Shoffner is a 6th-generation farmer and small-business owner running for the U.S.
+0 Skip to Content Meet Hallie The Issues Take Action News Events Endorsements Store DONATE Open Menu Close Menu Meet Hallie The Issues Take Action News Events Endorsements Store DONATE Open Menu Close Menu Meet Hallie The Issues Take Action News Events Endorsements Store DONATE Meet Hallie Hallie Shoffner is a 6th-generation farmer and small-business owner running for the U.S.
 Senate to fight for working families.
 Hallie grew up in Shoffner, a small farming community in the Arkansas Delta, raised in the fields alongside her farmer parents - learning to grow soybeans, rice, corn, cotton, and wheat.
 For the past nine years, she operated the family farm - making payroll, working with lenders and insurers, and balancing the realities of farming while raising a family.
@@ -11,7 +10,6 @@ She has worked to advance conservation, sustainable farming, and regional food p
 A Presidential Leadership Scholar and board member of the Arkansas Foodbank, Hallie is a servant leader - not a politician.
 She didn’t plan to run for office.
 She wanted to farm.
-But if Hallie can’t farm, she’s going to fight- for families, for Arkansas, and for you.
-take action
-Hallie Shoffner is running for the US Senate to rebuild Arkansas’s economy from the ground up.
-Support her today!
+But if Hallie can’t farm, she’s going to fight- for families, for Arkansas, and for you. take action Hallie Shoffner is running for the US Senate to rebuild Arkansas’s economy from the ground up.
+Support her today! learn how to get involved Follow us DONATE Contact: (501) 295-3428 info@shoffnerforarkansas.com Mailing Address: 600 E Capitol PO Box 57 Little Rock, AR 72202 Little Rock Office: 415 W 12th St Little Rock, AR 72202 Please direct all media requests to media@shoffnerforarkansas.com.
+Privacy Policy

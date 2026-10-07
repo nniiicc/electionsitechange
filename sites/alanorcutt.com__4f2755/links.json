@@ -1,7 +1,34 @@
 [
-"https://alanorcutt.com/",
-"https://alanorcutt.com/cart",
-"https://alanorcutt.com/contact",
-"https://maine.gov/cleanelections",
-"https://maine.gov/portal/government/edemocracy/voter_lookup.php"
+{
+"text": "0",
+"href": "https://www.alanorcutt.com/cart"
+},
+{
+"text": "About Alan",
+"href": "https://www.alanorcutt.com/#about"
+},
+{
+"text": "Alan Orcutt for State Representative",
+"href": "https://www.alanorcutt.com/"
+},
+{
+"text": "Check your District",
+"href": "https://www.maine.gov/portal/government/edemocracy/voter_lookup.php"
+},
+{
+"text": "Contact",
+"href": "https://www.alanorcutt.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://maine.gov/cleanelections"
+},
+{
+"text": "On the Issues",
+"href": "https://www.alanorcutt.com/#issues"
+},
+{
+"text": "[image]",
+"href": "https://maine.gov/cleanelections"
+}
 ]

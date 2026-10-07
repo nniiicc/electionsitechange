@@ -1,6 +1,4 @@
-Rachel Gross believes in
-HB 4141 - Restricting Cell Phones in Schools
-The Michigan Legislature has recently advanced House Bill 4141, restricting the use of cell phones during instructional time.
+Skip navigation menu About Volunteer Issues Events Endorsements Contact Donate About Volunteer Issues Events Endorsements Contact Donate Safe Nurse Staffing Standards HB 4141 - Restricting Cell Phones in Schools Rural Homeownership & Housing Stability Rural Rental Housing Relief Mental Health & Youth Wellness Rachel Gross believes in HB 4141 - Restricting Cell Phones in Schools The Michigan Legislature has recently advanced House Bill 4141, restricting the use of cell phones during instructional time.
 As a nurse, I believe policy decisions should be rooted in evidence and centered on well‑being.
 Research consistently shows that reducing cell phone distractions during class improves student focus, academic performance, and overall engagement.
 Studies have also linked excessive phone use to increased anxiety, decreased attention span, and negative impacts on adolescent mental health.
@@ -15,3 +13,4 @@ Our educators should not have to compete for students’ attention during valuab
 They deserve clear policy backing that empowers them to teach effectively.
 As your State House Representative, I will continue to advocate for policies grounded in evidence, guided by parental perspective, and focused on student well‑being.
 Every child deserves a high‑quality education in an environment that promotes focus, mental health, and academic success.
+Gallery Contact: info@votegross.com Powered by RUN! website builder Paid for by the Committee to Elect Rachel Gross 7434 Juniper Ln, Portland, MI 48875 You need to enable JavaScript to run this app.

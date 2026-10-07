@@ -1,8 +1,10 @@
 {
  "description": "Find future events and appearances regarding Dr. Eric Moore's campaign and candidacy for Georgia State Senate.",
  "final_url": "https://www.ericmooreforgasenate.org/upcoming-events/",
- "paid_for_by": null,
- "title": "Upcoming Events - Dr. Eric Moore's CampaignUpcoming Events - Dr. Eric Moore's CampaignInformation iconCookie iconCookie icon",
+ "fingerprint": "b4c0d3eaa23959e36be07b361b8f585233520c9e",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Upcoming Events - Dr. Eric Moore's Campaign",
  "years_mentioned": [
   "2026"
  ]

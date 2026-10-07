@@ -1,10 +1,38 @@
 [
-"https://secure.winred.com/friends-of-phil-fortunato/donate?sc=winred-directory&money_bomb=false&recurring=false",
-"https://votefortunato.org/",
-"https://votefortunato.org/about-me",
-"https://votefortunato.org/blueprint-for-washington",
-"https://votefortunato.org/contact-me",
-"https://votefortunato.org/contribute",
-"https://votefortunato.org/endorsements",
-"https://votefortunato.org/wp-content/uploads/2026/03/Phil-w9-26.pdf"
+{
+"text": "About Me",
+"href": "https://www.votefortunato.org/about-me/"
+},
+{
+"text": "Blueprint for Washington",
+"href": "https://www.votefortunato.org/blueprint-for-washington/"
+},
+{
+"text": "Contact",
+"href": "https://www.votefortunato.org/contact-me/"
+},
+{
+"text": "Contribute",
+"href": "https://www.votefortunato.org/contribute/"
+},
+{
+"text": "Donate Here.",
+"href": "https://secure.winred.com/friends-of-phil-fortunato/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votefortunato.org/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.votefortunato.org"
+},
+{
+"text": "Phil Fortunato for Senate",
+"href": "https://www.votefortunato.org/"
+},
+{
+"text": "W-9 Information",
+"href": "https://www.votefortunato.org/wp-content/uploads/2026/03/Phil-w9-26.pdf"
+}
 ]

@@ -1,6 +1,4 @@
-10/15 – NHPR / Granite State News Collaborative Candidate Forum (NH-02) – Keene
-October 15 @ 5:00 pm
-Thursday, 10/15 – Doors open at 5:00 PM, forum at 6:00 PM
-Brewbaker Cafe, Keene, NH
-A live-to-tape forum with a panel of New Hampshire journalists, using questions submitted by voters.
+Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate « All Events 10/15 – NHPR / Granite State News Collaborative Candidate Forum (NH-02) – Keene October 15 @ 5:00 pm « TEAM LILY – Nashua Republican City Committee Meeting TEAM LILY – Bow Republican Committee Meeting » Thursday, 10/15 – Doors open at 5:00 PM, forum at 6:00 PM Brewbaker Cafe, Keene, NH A live-to-tape forum with a panel of New Hampshire journalists, using questions submitted by voters.
 It airs statewide on NHPR on Friday, 10/16 at 9:00 AM and 7:00 PM.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 15 Time: 5:00 pm Event Category: Events « TEAM LILY – Nashua Republican City Committee Meeting TEAM LILY – Bow Republican Committee Meeting » © # Lily4Congress Committee.
+Paid for by Lily4Congress Committee. | Privacy Policy

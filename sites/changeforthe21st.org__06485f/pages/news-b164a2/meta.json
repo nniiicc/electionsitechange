@@ -1,7 +1,12 @@
 {
  "description": "Building a brighter future for Delaware's 21st District",
  "final_url": "https://changeforthe21st.org/news",
- "paid_for_by": null,
+ "fingerprint": "b039aff694b8d7678482a00096ec5fea5bddb747",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
- "years_mentioned": []
+ "years_mentioned": [
+  "2023",
+  "2024"
+ ]
 }

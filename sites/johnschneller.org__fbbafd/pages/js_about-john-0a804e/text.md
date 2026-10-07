@@ -1,5 +1,4 @@
-JOHN SCHNELLER
-I am asking for your vote for State Representative from Bedford, District 2, in the State Primary on September 8, 2026 and the General Election on November 3, 2026.
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page JOHN SCHNELLER I am asking for your vote for State Representative from Bedford, District 2, in the State Primary on September 8, 2026 and the General Election on November 3, 2026.
 I am an entrepreneur and presently a partner and Chief Financial Officer at Finanova Financial Services, a financial technology firm.
 I have almost three decades of experience in financial analysis, banking, and executive management positions.
 In addition to practical experience, I received a BA in history from UMass Amherst, a Masters in Public Administration from Suffolk University in Boston, and an MBA from Cornell’s Johnson Graduate School of Management.
@@ -15,6 +14,4 @@ Doreen and I believe that successful education is achieved at the local level.
 Collaboration between hard-working, dedicated teachers and administrators, working side-by-side with involved parents and children is required for true educational success and is the reason I served on the Bedford School Board and Curriculum Committee.
 Our oldest son graduated from Bedford High School and attends Hillsdale College while our younger son is a senior at Bishop Guertin High School.
 Our family happily attends Bethany Covenant Church here in Bedford.
-VOTING DATES
-- STATE PRIMARY – SEPTEMBER 8, 2026
-- GENERAL ELECTION – NOVEMBER 3, 2026
+VOTING DATES STATE PRIMARY – SEPTEMBER 8, 2026 GENERAL ELECTION – NOVEMBER 3, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

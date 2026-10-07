@@ -1,10 +1,42 @@
 [
-"https://facebook.com/JohnOlszewskiJr",
-"https://fec.gov/data/committee/C00867747?tab=filings",
-"https://gojohnnyo.com/",
-"https://gojohnnyo.com/priorities",
-"https://gojohnnyo.com/volunteer",
-"https://instagram.com/johnnyolszewskijr",
-"https://secure.actblue.com/donate/jo4c-web",
-"https://twitter.com/JohnnyOJr"
+{
+"text": "About",
+"href": "https://gojohnnyo.com/#about"
+},
+{
+"text": "Campaign Finance Activity",
+"href": "https://www.fec.gov/data/committee/C00867747/?tab=filings"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jo4c-web"
+},
+{
+"text": "Priorities",
+"href": "https://gojohnnyo.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://gojohnnyo.com/volunteer/"
+},
+{
+"text": "[image: Johnny O for Congress Logo]",
+"href": "https://gojohnnyo.com/"
+},
+{
+"text": "[image: Johnny O for Congress Logo]",
+"href": "https://gojohnnyo.com/?no-popup="
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JohnnyOJr"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JohnOlszewskiJr/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/johnnyolszewskijr/"
+}
 ]

@@ -1,8 +1,26 @@
 [
-"https://donorbox.org/vote-tim-roberts",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/tim-roberts-1",
-"https://votetimroberts.com/"
+{
+"text": "Donate",
+"href": "https://donorbox.org/vote-tim-roberts"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tim-roberts-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Vote Tim RobertsState senate district 11Vote Tim Roberts State senate district 11Vote Tim Roberts State senate district 11Vote Tim Roberts State senate district 11",
+"href": "https://votetimroberts.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

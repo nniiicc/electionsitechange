@@ -1,7 +1,14 @@
 {
  "description": "",
  "final_url": "https://www.bellforus.com/blog/archive/2017/01",
- "paid_for_by": null,
+ "fingerprint": "b3bcf29f34a8be98fadbdffecd0bfd72736f40a1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "January - 2017",
- "years_mentioned": []
+ "years_mentioned": [
+  "2016",
+  "2017",
+  "2018",
+  "2020"
+ ]
 }

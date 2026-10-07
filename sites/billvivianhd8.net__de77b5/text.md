@@ -1,17 +1,5 @@
-Oregon House of Representatives District #8 Needs Leadership Change
-Elect Bill Vivian
-Conservative for Change
-Who I Am- Disabled US Navy Veteran; Retired Quality Engineer with Team Experience in Problem Solving
-Focused on South Eugene and southern country of Lane County
-Are you concerned about HD#8:
-NOTAXOR and Salem Gas Tax
-Gun Rights
-Listening to Citizens
-Public School Education
-Quality auditing and Efficient Government
-Common sense citizen protection
-Loving the next generation to next generation
-Working the fields
-Contact Email: conservedistr8@gmail.com
-X account: https://x.com/bill_vivian_
-Paid by Bill Vivian
+Meet Bill Issues News Volunteer Contribute Support Our Campaign Make a Contribution Today Click Here to Contribute Join the Campaign Become a Volunteer Click Here to Sign Up Show Your Support!
+Request a Yard Sign Click Here to Request a Sign Need Voting Information?
+Register & Find Your Polling Location Click Here for Information Oregon House of Representatives District #8 Needs Leadership Change Elect Bill Vivian Conservative for Change Who I Am- Disabled US Navy Veteran; Retired Quality Engineer with Team Experience in Problem Solving Focused on South Eugene and southern country of Lane County Are you concerned about HD#8: NOTAXOR and Salem Gas Tax Gun Rights Listening to Citizens Public School Education Quality auditing and Efficient Government Common sense citizen protection Loving the next generation to next generation Working the fields Contact Email: conservedistr8@gmail.com X account: https://x.com/bill_vivian_ Paid by Bill Vivian Make a Donation Our campaign is powered by your donations. $# $#.# $# $# $# $# Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+News Eugene Blue Protest includes Bill Vivian Sign Candidates Q&A Event- Out of the Horse's Mouth Oregon Pro-Life Gala Atttendance U of O Ducks Opening Football Game Day Flag Waving- Labor Day Weekend Voter Information Endorsements Yard Signs Events Photos Contact Self Treasurer to Elect Bill Vivian Powered by CampaignPartner.com - Political Websites Home Meet Bill Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

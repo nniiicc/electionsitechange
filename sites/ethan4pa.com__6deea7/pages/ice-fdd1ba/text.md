@@ -1,5 +1,1 @@
-Prohibit state and local law enforcement from using state funds to enforce federal immigration laws; Redirect funds into local services
-(Fire, EMS, etc.)
-Prohibit participation in 287(g) agreements
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Home Healthcare Housing Family Flock Cameras Data Centers ICE Gift Ban Contribution Limits No Corpo Election Money More Home Healthcare Housing Family Flock Cameras Data Centers ICE Gift Ban Contribution Limits No Corpo Election Money Home Healthcare Housing Family Flock Cameras Data Centers ICE Gift Ban Contribution Limits No Corpo Election Money About Us Support Legislation to: Prohibit state and local law enforcement from using state funds to enforce federal immigration laws; Redirect funds into local services (Fire, EMS, etc.) Support Legislation to: Prohibit participation in 287(g) agreements

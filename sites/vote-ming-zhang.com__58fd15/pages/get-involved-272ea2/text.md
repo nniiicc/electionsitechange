@@ -1,6 +1,3 @@
-top of page
-Ming Zhang for MA state senate
-Worcester & middlesex
-Join the Movement, Get Involved
-Please directly contact Ming
-bottom of page
+top of page Ming Zhang for MA state senate Worcester & middlesex Log In Home News About Get Involved Contact Join the Movement, Get Involved Please directly contact Ming ​Support Our Cause When making a donation, please make sure that you are:​​ - At least eighteen years old. - The contribution is made from your own funds, and funds are not being provided to you by another person or entity for the purpose of making this contribution. - You are a U.S. citizen or permanent resident. - You are responsible for paying all charges incurred in using the debit or credit card to be charged, and that your personal funds will be the true source of the contribution. - You are making this contribution with your own personal credit card and not with a corporate or business credit card or a card issue to another person.
+Frequency One time One time Monthly Monthly Amount $10 $10 $50 $50 $100 $100 $200 $200 Other Other Donate $10 Monthly Newsletters Newsletter - April Issue 20 Hampshire Road Wayland, MA 01778.
+Newsletter - May Issue Newsletter - June Issue Newsletter - July Issue Newsletter - August Issue Home About Me Get Involved Contact Ming Zhang - FOR STATE SENATE- Terms & Conditions Privacy Policy Accessibility Statement ​ Zhang Committee, ngdddd Westford, MA 01886 mingzhang.for2026@gmail.com 617-460-1538 bottom of page

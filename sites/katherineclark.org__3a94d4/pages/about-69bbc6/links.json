@@ -1,8 +1,38 @@
 [
-"https://facebook.com/KatherineClarkForCongress",
-"https://katherineclark.org/",
-"https://katherineclark.org/about",
-"https://katherineclark.org/priorities",
-"https://secure.actblue.com/donate/katherine-clark-web",
-"https://twitter.com/TeamKClark"
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/katherine-clark-web"
+},
+{
+"text": "Facebook Icon",
+"href": "https://www.facebook.com/KatherineClarkForCongress"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/TeamKClark"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/KatherineClarkForCongress"
+},
+{
+"text": "Meet Katherine",
+"href": "https://katherineclark.org/about/"
+},
+{
+"text": "Priorities",
+"href": "https://katherineclark.org/priorities/"
+},
+{
+"text": "Twitter Icon",
+"href": "https://twitter.com/TeamKClark"
+},
+{
+"text": "[image]",
+"href": "https://katherineclark.org/"
+},
+{
+"text": "[tooltip: Close dialog window]",
+"href": "javascript:;"
+}
 ]

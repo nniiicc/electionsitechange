@@ -1,44 +1,190 @@
 [
-"https://abc15.com/news/local-news/state-budget-to-boost-payments-when-mobile-home-owners-forced-to-move",
-"https://apps.azleg.gov/BillStatus/BillOverview/79618?SessionId=127",
-"https://apps.azleg.gov/BillStatus/BillOverview/79631?SessionId=127",
-"https://apps.azleg.gov/BillStatus/BillOverview/79650?SessionId=127",
-"https://apps.azleg.gov/BillStatus/BillOverview/79658?SessionId=127",
-"https://apps.azleg.gov/BillStatus/BillOverview/81460?SessionId=128",
-"https://apps.azleg.gov/BillStatus/BillOverview/81464?SessionId=128",
-"https://apps.azleg.gov/BillStatus/BillOverview/81465?SessionId=128",
-"https://apps.azleg.gov/BillStatus/BillOverview/82352?SessionId=129",
-"https://apps.azleg.gov/BillStatus/BillOverview/83366?SessionId=129",
-"https://apps.azleg.gov/BillStatus/BillOverview/83370?SessionId=129",
-"https://apps.azleg.gov/BillStatus/BillOverview/84436?SessionId=130",
-"https://apps.azleg.gov/BillStatus/BillOverview/84438?SessionId=130",
-"https://apps.azleg.gov/BillStatus/BillOverview/84440?SessionId=130",
-"https://apps.azleg.gov/BillStatus/BillOverview/84441?SessionId=130",
-"https://apps.azleg.gov/BillStatus/BillOverview/84444?SessionId=130",
-"https://apps.azleg.gov/BillStatus/BillOverview/84445?SessionId=130",
-"https://apps.azleg.gov/BillStatus/BillOverview/85651?SessionId=130",
-"https://apps.azleg.gov/BillStatus/BillOverview/85654?SessionId=130",
-"https://apps.azleg.gov/BillStatus/BillOverview/85655?SessionId=130",
-"https://apps.azleg.gov/BillStatus/BillOverview/85659?SessionId=130",
-"https://apps.azleg.gov/BillStatus/BillOverview/85660?SessionId=130",
-"https://azcentral.com/story/news/local/arizona-education/2021/12/10/arizona-promise-program-provides-free-tuition-low-income-students/6424609001",
-"https://azed.gov/hns/school-year-2025-2026",
-"https://azfamily.com/2026/06/10/arizona-budget-deal-includes-3-year-pause-data-center-tax-exemptions",
-"https://azfoodbanks.org/wp-content/uploads/2025/01/School-Meal-Participation-Before-After-Policy-Changes_Policy-Brief_11-18-24.pdf",
-"https://azmirror.com/briefs/hobbs-signs-bill-allowing-casitas-in-cities-across-arizona",
-"https://azregents.edu/programs/arizona-promise-program",
-"https://facebook.com/LorenaAustinAZ",
-"https://housing.az.gov/programs/office-of-manufactured-housing/relocation-fund",
-"https://instagram.com/LorenaAustinaz",
-"https://lorenaaustin.com/",
-"https://lorenaaustin.com/accomplishments",
-"https://lorenaaustin.com/contact",
-"https://lorenaaustin.com/endorsements",
-"https://lorenaaustin.com/events",
-"https://lorenaaustin.com/issues",
-"https://lorenaaustin.com/meet-lorena",
-"https://lorenaaustin.com/resources",
-"https://propublica.org/article/arizona-snap-benefits-trump-legislation",
-"https://secure.actblue.com/donate/lorenaforaz",
-"https://twitter.com/LorenaAustin4Az"
+{
+"text": "Accomplishments",
+"href": "https://www.lorenaaustin.com/accomplishments"
+},
+{
+"text": "Contact",
+"href": "https://www.lorenaaustin.com/contact"
+},
+{
+"text": "Contact Lorena",
+"href": "https://www.lorenaaustin.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lorenaforaz"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lorenaaustin.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.lorenaaustin.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/LorenaAustinAZ/"
+},
+{
+"text": "HB2531",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/82352?SessionId=129"
+},
+{
+"text": "HB2626",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/84436?SessionId=130"
+},
+{
+"text": "HB2627",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/84438?SessionId=130"
+},
+{
+"text": "HB2628",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/84440?SessionId=130"
+},
+{
+"text": "HB2629",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/84441?SessionId=130"
+},
+{
+"text": "HB2630",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/84444?SessionId=130"
+},
+{
+"text": "HB2631",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/84445?SessionId=130"
+},
+{
+"text": "HB2771",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/79650?SessionId=127"
+},
+{
+"text": "HB2772",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/79631?SessionId=127"
+},
+{
+"text": "HB2773",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/79618?SessionId=127"
+},
+{
+"text": "HB2841",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/81460?SessionId=128"
+},
+{
+"text": "HB2847",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/81464?SessionId=128"
+},
+{
+"text": "HB2848",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/81465?SessionId=128"
+},
+{
+"text": "HB2899",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/83366?SessionId=129"
+},
+{
+"text": "HB2900",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/83370?SessionId=129"
+},
+{
+"text": "HB4123",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/85651?SessionId=130"
+},
+{
+"text": "HB4124",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/85654?SessionId=130"
+},
+{
+"text": "HB4125",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/85655?SessionId=130"
+},
+{
+"text": "HB4126",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/85659?SessionId=130"
+},
+{
+"text": "HB4127",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/85660?SessionId=130"
+},
+{
+"text": "HCR2042",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/79658?SessionId=127"
+},
+{
+"text": "Home",
+"href": "https://www.lorenaaustin.com"
+},
+{
+"text": "How to Apply",
+"href": "https://housing.az.gov/programs/office-of-manufactured-housing/relocation-fund"
+},
+{
+"text": "How to Apply",
+"href": "https://www.azed.gov/hns/school-year-2025-2026"
+},
+{
+"text": "How to Apply",
+"href": "https://www.azregents.edu/programs/arizona-promise-program"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/LorenaAustinaz/"
+},
+{
+"text": "Issues",
+"href": "https://www.lorenaaustin.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://azfoodbanks.org/wp-content/uploads/2025/01/School-Meal-Participation-Before-After-Policy-Changes_Policy-Brief_11-18-24.pdf"
+},
+{
+"text": "Learn More",
+"href": "https://azmirror.com/briefs/hobbs-signs-bill-allowing-casitas-in-cities-across-arizona/"
+},
+{
+"text": "Learn More",
+"href": "https://www.abc15.com/news/local-news/state-budget-to-boost-payments-when-mobile-home-owners-forced-to-move"
+},
+{
+"text": "Learn More",
+"href": "https://www.azcentral.com/story/news/local/arizona-education/2021/12/10/arizona-promise-program-provides-free-tuition-low-income-students/6424609001/"
+},
+{
+"text": "Learn More",
+"href": "https://www.azfamily.com/2026/06/10/arizona-budget-deal-includes-3-year-pause-data-center-tax-exemptions/"
+},
+{
+"text": "Learn More",
+"href": "https://www.propublica.org/article/arizona-snap-benefits-trump-legislation"
+},
+{
+"text": "Meet Lorena",
+"href": "https://www.lorenaaustin.com/meet-lorena"
+},
+{
+"text": "Resources",
+"href": "https://www.lorenaaustin.com/resources"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/LorenaAustinAZ"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/LorenaAustinaz/"
+},
+{
+"text": "[image: Lorena Austin Long Logo.png]",
+"href": "https://www.lorenaaustin.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/LorenaAustin4Az"
+},
+{
+"text": "lorena@lorenaaustin.com",
+"href": "mailto:lorena@lorenaaustin.com"
+}
 ]

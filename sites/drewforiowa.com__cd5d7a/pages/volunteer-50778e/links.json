@@ -1,10 +1,42 @@
 [
-"https://drewforiowa.com/",
-"https://drewforiowa.com/news",
-"https://drewforiowa.com/volunteer",
-"https://facebook.com/drewforiowa",
-"https://instagram.com/drewforiowa",
-"https://rayguncustom.com/collections/drew-stensland-for-iowa",
-"https://secure.actblue.com/donate/drew-stensland-1",
-"https://secure.actblue.com/donate/drew-stensland-for-iowa"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/drew-stensland-for-iowa"
+},
+{
+"text": "Donate now through ActBlue!",
+"href": "https://secure.actblue.com/donate/drew-stensland-1"
+},
+{
+"text": "Home",
+"href": "https://www.drewforiowa.com"
+},
+{
+"text": "News",
+"href": "https://www.drewforiowa.com/news"
+},
+{
+"text": "Store",
+"href": "https://www.rayguncustom.com/collections/drew-stensland-for-iowa"
+},
+{
+"text": "Volunteer",
+"href": "https://www.drewforiowa.com/volunteer"
+},
+{
+"text": "[image: DONATE.png]",
+"href": "https://secure.actblue.com/donate/drew-stensland-for-iowa"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/drewforiowa"
+},
+{
+"text": "[image: Full-Color.png]",
+"href": "https://www.drewforiowa.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/drewforiowa"
+}
 ]

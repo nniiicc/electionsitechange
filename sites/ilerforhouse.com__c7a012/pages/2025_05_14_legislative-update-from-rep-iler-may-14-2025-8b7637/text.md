@@ -1,6 +1,5 @@
-Legislative Update from Rep.
-Iler — May 14, 2025
-Last week at the North Carolina General Assembly was about the busiest ever, particularly in the House of Representatives.
+Skip to content Common Sense - Competent - Conservative Home About Frank Iler Accomplishments Issues News Legislative Updates Donate Contact Legislative Update from Rep.
+Iler — May 14, 2025 By Frank Iler | May 14, 2025 Last week at the North Carolina General Assembly was about the busiest ever, particularly in the House of Representatives.
 We were faced with a deadline to get our part of the state budget done, as well as a firm deadline to get our bills voted out of the House and over to the Senate.
 Personally, I frequently had meetings of committees which am a member at the same time I was presenting bills that I had filed in another committee.
 Between committee meetings we were meeting with our fiscal staff and bill drafters to complete our area of the budget by the end of the week.
@@ -22,3 +21,5 @@ There was not much time to meet with visiting groups, but was good to spend a fe
 Homebuilders from southeastern N.C.
 This week we will be reviewing the bills that came over from the Senate and scheduling our committees to hear them.
 The Chairs of the House Appropriations Committee will be assembling the area budgets which we gave them last week and deciding on some major items for the final House budget.
+Posted in Legislative Updates © # Frank Iler for N.C.
+House – Brunswick County, N.C. | Powered by Beaver Builder

@@ -1,4 +1,5 @@
-Bill Foster comes from a long line of inventors, scientists, and political activists.
+Contribute Now Make a donation to Bill Foster for Congress!
+Volunteer Contribute Meet Bill Business Career Science Career Congressional Career Family Professional Awards Issues Defending the Constitution Economy Science and Technology Healthcare Reproductive Freedom Immigration Reviving American Manufacturing Reducing Gun Violence Combating the Climate Crisis The Financial Crisis Reforming Wall Street Education Endorsements The District News Latest News Photo Gallery Meet Bill Foster Bill’s Family Business Career Science Career Congressional Career Bill's Family Professional Awards Business Career Science Career Congressional Career Bill’s Family Professional Awards Bill with his mother, son Billy, wife Aesook, and daughter Christine on Christmas Day 2012 Bill Foster comes from a long line of inventors, scientists, and political activists.
 Bill’s father was trained as a chemist but spent much of his career as a civil rights lawyer.
 He wrote many of the federal regulations behind the Civil Rights Act of 1964 – specifically, the part that denied federal funds to school systems that refused to desegregate.
 Bill’s mother came from a long line of inventors, and worked in her career to help law enforcement officers get college degrees, and to help college students become cops.
@@ -12,7 +13,7 @@ After 16 years of research at Fermilab, she worked for the Office of Science in 
 From 2008 until 2013, she managed the construction of a next generation light source facility located in Long Island, NY.
 During this time, Aesook commuted to the construction site on Long Island every week while making sure to maximize their time together at home in Illinois.
 Bill and Aesook live on Aurora Avenue in downtown Naperville.
-Bill’s children Billy and Christine were both raised in the Fox Valley.
+Bill and Aesook on their way home after voting in Naperville November 2012 Bill’s children Billy and Christine were both raised in the Fox Valley.
 His son Billy was born in 1984 and attended the 4th St.
 School in Geneva, J.B.
 Nelson Elementary School in Batavia and Batavia Middle School, graduated from Batavia High school, and received a BA in Math and Computer Science from the University of Wisconsin-Madison in 2006.
@@ -24,7 +25,7 @@ Bill’s daughter Christine was born in in 1987 and went to public schools in Ba
 After graduating from Stanford University, she worked for a company in California developing educational software.
 She recently graduated from the Lyndon B.
 Johnson School of Public Affairs in the University of Texas at Austin, worked in India for a nonprofit foundation dedicated to improving healthcare delivery, and worked at Yale University and now with the State of Massachusetts analyzing healthcare cost and quality.
-For many years Bill coached Christine’s tri-cities soccer team with co-coach Dick Brunton.
+Bill and his grandson May 2021 For many years Bill coached Christine’s tri-cities soccer team with co-coach Dick Brunton.
 Bill is pretty sure that they ended up with a winning lifetime record.
 Both of Bill’s children are now married, and Bill recently welcomed his first two grandchildren!
 Bill’s ex-wife Annie recently retired after working as a software engineer for Bill’s company in Wisconsin.
@@ -37,4 +38,5 @@ He is a fine businessman, a great scientist and a thoughtful elected official, a
 He holds a deep commitment to his family, to people, and to our country.
 I trust him and his judgment completely.
 And most importantly, I trust him with the people I cherish most in my life: our children.
-I totally support him and his service as a member of US Congress.”
+I totally support him and his service as a member of US Congress.” Meet Bill Issues Endorsements The District News Contribute Bill Foster for Congress P.O Box 9104 Aurora, IL 60598 630-216-9340.
+Privacy Policy Messaging Contact Us Paid for by Bill Foster for Congress Meet Bill Business Career Science Career Congressional Career Family Professional Awards Issues Defending the Constitution Economy Science and Technology Healthcare Reproductive Freedom Immigration Reviving American Manufacturing Reducing Gun Violence Combating the Climate Crisis The Financial Crisis Reforming Wall Street Education Endorsements The District News Latest News Photo Gallery Donate Now On the Issues On the Issues Volunteer Volunteer Contribute Contribute

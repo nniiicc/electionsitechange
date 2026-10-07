@@ -1,6 +1,8 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.christopherdeanforwisconsin.com/vote",
+ "fingerprint": "25deb572e454d3c8f6a9bbcb793a0a31894b646a",
+ "format": 3,
  "paid_for_by": "Paid for by Christopher Dean For Wisconsin Powered by CampaignPartner",
  "title": "Voter Registration Information",
  "years_mentioned": []

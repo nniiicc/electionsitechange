@@ -1,15 +1,4 @@
-Back to All Events
-Come volunteer with the DFL SD 27 & 30 run a booth at the Wright-Sherburne Sherburne Pride.
+0 Skip to Content Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Back to All Events Wright-Sherburne Pride Festival Saturday, July 18, 2026 11:00 AM 3:00 PM Ellison Park Monticello, MN (map) Google Calendar ICS Come volunteer with the DFL SD 27 & 30 run a booth at the Wright-Sherburne Sherburne Pride.
 There will be 3 tables with 2 hour slots.
-Sign Up: Google Doc
-Date & Time:
-Saturday (7/18) 11AM-3PM
-Location:
-Ellison Park in Monticello MN.
-Previous
-Previous
-July 18
-Sherburne County Fair Parade
-Next
-Next
-July 22
+Sign Up: Google Doc Date & Time: Saturday (7/18) 11AM-3PM Location: Ellison Park in Monticello MN.
+Previous Previous July 18 Sherburne County Fair Parade Next Next July 22 Orrock Door Knocking Paid for by Davenport for Minnesota House 27A

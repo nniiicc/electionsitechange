@@ -1,13 +1,58 @@
 [
-"https://bonfire.com/store/lori4idaho",
-"https://facebook.com/lori4idaho",
-"https://instagram.com/lori4idaho",
-"https://lori4idaho.com/",
-"https://lori4idaho.com/about-lori",
-"https://lori4idaho.com/blog",
-"https://lori4idaho.com/endorse-lori",
-"https://lori4idaho.com/events",
-"https://lori4idaho.com/privacy-policy",
-"https://secure.actblue.com/donate/lorihickman-website?amount=25",
-"https://tiktok.com/@loriforidaho"
+{
+"text": "ABOUT LORI",
+"href": "https://www.lori4idaho.com/about-lori"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lorihickman-website?amount=25"
+},
+{
+"text": "ENDORSE LORI",
+"href": "https://www.lori4idaho.com/endorse-lori"
+},
+{
+"text": "EVENTS",
+"href": "https://www.lori4idaho.com/events"
+},
+{
+"text": "HOME",
+"href": "https://www.lori4idaho.com"
+},
+{
+"text": "MERCH",
+"href": "https://www.bonfire.com/store/lori4idaho/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.lori4idaho.com"
+},
+{
+"text": "Press Releases",
+"href": "https://www.lori4idaho.com/blog"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lori4idaho.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/lori4idaho"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/lori4idaho/"
+},
+{
+"text": "[image: Lori Hickman, candidate for Idaho Attorney General, white logo]",
+"href": "https://www.lori4idaho.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@loriforidaho"
+},
+{
+"text": "info@loriforidaho.com",
+"href": "mailto:info@loriforidaho.com"
+}
 ]

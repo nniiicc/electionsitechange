@@ -1,4 +1,18 @@
 [
-"https://holleyforflorida.com/",
-"https://holleyforflorida.com/privacy-policy"
+{
+"text": "Home",
+"href": "https://www.holleyforflorida.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.holleyforflorida.com/privacy-policy/"
+},
+{
+"text": "[image: Hilary Holley]",
+"href": "https://www.holleyforflorida.com/"
+},
+{
+"text": "info@holleyforflorida.com",
+"href": "mailto:info@holleyforflorida.com"
+}
 ]

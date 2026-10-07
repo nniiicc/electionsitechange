@@ -1,24 +1,110 @@
 [
-"https://facebook.com/SenatorLondonLamar",
-"https://instagram.com/senatorlondonlamar",
-"https://londonlamar.com/",
-"https://londonlamar.com/about-london-lamar",
-"https://londonlamar.com/aboutlondon",
-"https://londonlamar.com/contact",
-"https://londonlamar.com/copy-of-healthy-families",
-"https://londonlamar.com/copy-of-strong-schools",
-"https://londonlamar.com/donate",
-"https://londonlamar.com/news",
-"https://londonlamar.com/news/categories/blog",
-"https://londonlamar.com/news/categories/criminal-justice",
-"https://londonlamar.com/news/categories/education",
-"https://londonlamar.com/news/categories/healthcare",
-"https://londonlamar.com/news/categories/human-trafficking",
-"https://londonlamar.com/news/categories/maternal-healthcare",
-"https://londonlamar.com/news/categories/politics",
-"https://londonlamar.com/news/categories/racial-justice",
-"https://londonlamar.com/news/categories/social-justice",
-"https://londonlamar.com/news/categories/voting-rights",
-"https://londonlamar.com/services-7",
-"https://londonlamar.com/volunteer"
+{
+"text": "ABOUT",
+"href": "https://www.londonlamar.com/about-london-lamar"
+},
+{
+"text": "About Me",
+"href": "https://www.londonlamar.com/aboutlondon"
+},
+{
+"text": "All Articles",
+"href": "https://www.londonlamar.com/news"
+},
+{
+"text": "Blog",
+"href": "https://www.londonlamar.com/news/categories/blog"
+},
+{
+"text": "CONTACT",
+"href": "https://www.londonlamar.com/contact"
+},
+{
+"text": "Criminal Justice",
+"href": "https://www.londonlamar.com/news/categories/criminal-justice"
+},
+{
+"text": "DONATE",
+"href": "https://www.londonlamar.com/donate"
+},
+{
+"text": "Education",
+"href": "https://www.londonlamar.com/news/categories/education"
+},
+{
+"text": "Events",
+"href": "https://www.londonlamar.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.londonlamar.com/volunteer"
+},
+{
+"text": "HOME",
+"href": "https://www.londonlamar.com"
+},
+{
+"text": "Healthcare",
+"href": "https://www.londonlamar.com/news/categories/healthcare"
+},
+{
+"text": "Healthy Families",
+"href": "https://www.londonlamar.com/copy-of-strong-schools"
+},
+{
+"text": "Home",
+"href": "https://www.londonlamar.com/news/categories/healthcare"
+},
+{
+"text": "Human Trafficking",
+"href": "https://www.londonlamar.com/news/categories/human-trafficking"
+},
+{
+"text": "Maternal Healthcare",
+"href": "https://www.londonlamar.com/news/categories/maternal-healthcare"
+},
+{
+"text": "News",
+"href": "https://www.londonlamar.com/news"
+},
+{
+"text": "Politics",
+"href": "https://www.londonlamar.com/news/categories/politics"
+},
+{
+"text": "Racial Justice",
+"href": "https://www.londonlamar.com/news/categories/racial-justice"
+},
+{
+"text": "Safe Communities",
+"href": "https://www.londonlamar.com/copy-of-healthy-families"
+},
+{
+"text": "Social Justice",
+"href": "https://www.londonlamar.com/news/categories/social-justice"
+},
+{
+"text": "Strong Schools",
+"href": "https://www.londonlamar.com/services-7"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.londonlamar.com/volunteer"
+},
+{
+"text": "Voting Rights",
+"href": "https://www.londonlamar.com/news/categories/voting-rights"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SenatorLondonLamar/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/senatorlondonlamar"
+},
+{
+"text": "info@LondonLamar.com",
+"href": "mailto:info@LondonLamar.com"
+}
 ]

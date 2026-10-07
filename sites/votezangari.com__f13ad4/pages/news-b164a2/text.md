@@ -1,22 +1,8 @@
-John in the News
-September 16, 2026
-Centre County League of Women Voters to Host 2026 Candidates’ Night
-Candidates, including John Zangari, “will have an opportunity to answer questions from Central Pennsylvania voters during the League of Women Voters of Centre County’s 2026 General Election Candidates’ Night…at 7 p.m.
-Wednesday, Sept. 30, in the State College Borough Council Chambers at 243 S.
-Allen St.”
-September 16, 2026
-September 3, 2026
-Data center development is booming.
-Here’s how it’s being opposed, regulated in Pennsylvania
-“John Zangari, secretary of No Data Centers in Mifflin County, said rural areas are prime locations [for data centers], as they have large swathes of relatively flat and undeveloped land.
-A data center proposal by PA Data Center Partners and PowerHouse Data Centers was introduced and later rejected in Granville…
-September 3, 2026
-September 3, 2026
-Zangari proposes state park for former Rockview prison land
-“We all know in our gut what will likely happen, our land sold off in sweetheart deals to politically connected developers,” Zangari said.
-“My plan would preserve this rich farmland for our farmers to till, protect our Spring Creek watershed, and prevent data centers from ever getting a foothold on…
-September 3, 2026
-July 15, 2026
-May 1, 2026
-April 30, 2026
-February 17, 2026
+Skip to content Home John on Policy John in the News Contact Us Volunteer Signup Newsletter Signup Fundraiser Donate Donate News John in the News September 16, 2026 Centre County League of Women Voters to Host 2026 Candidates’ Night Candidates, including John Zangari, “will have an opportunity to answer questions from Central Pennsylvania voters during the League of Women Voters of Centre County’s 2026 General Election Candidates’ Night…at 7 p.m.
+Wednesday, Sept.
+30, in the State College Borough Council Chambers at 243 S.
+Allen St.” Read More September 16, 2026 September 3, 2026 Data center development is booming.
+Here’s how it’s being opposed, regulated in Pennsylvania “John Zangari, secretary of No Data Centers in Mifflin County, said rural areas are prime locations [for data centers], as they have large swathes of relatively flat and undeveloped land.
+A data center proposal by PA Data Center Partners and PowerHouse Data Centers was introduced and later rejected in Granville… Read More September 3, 2026 September 3, 2026 Zangari proposes state park for former Rockview prison land “We all know in our gut what will likely happen, our land sold off in sweetheart deals to politically connected developers,” Zangari said.
+“My plan would preserve this rich farmland for our farmers to till, protect our Spring Creek watershed, and prevent data centers from ever getting a foothold on… Read More September 3, 2026 July 15, 2026 Mifflin County residents vow to fight data center proposal Read More July 15, 2026 May 1, 2026 2026 Pennsylvania Primary Election Guide | John Zangari, Democratic candidate in Pennsylvania’s 171st House District Read More May 1, 2026 April 30, 2026 Zangari announces campaign for state House District 171 Read More April 30, 2026 February 17, 2026 Mifflin County’s John Zangari announces campaign for Pennsylvania’s 171st House District Read More February 17, 2026 Videos Granville Township Data Center Ordinance + Kerry Benninghoff Comments Data Centers in PA Campaign Update - May 1st PA Turnpike To Start Sending Texts for Unpaid Tolls State College Developer Kicking Out Seniors for Students PA Turnpike Commission To Start Sending Text Messages!?!?
+"We can't take care of daycare!" Trump claims the federal government can't help with daycare anymore Subscribe Home John on Policy John in the News Contact Us Volunteer Signup Newsletter Signup Fundraiser Donate Donate +1 (717) 513-2632 [email protected] Paid for by Friends of John Zangari Copyright © # Friends of John Zangari

@@ -1,27 +1,110 @@
 [
-"http://russdiamond.vote/images/hbs98314.jpg",
-"https://facebook.com/friendsofrussdiamond",
-"https://facebook.com/repdiamond/reels",
-"https://house.state.pa.us/rules.cfm?rules=ss1general",
-"https://instagram.com/russdiamond",
-"https://legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2019&sessInd=0&billBody=H&billTyp=B&billNbr=0963&pn=1130",
-"https://legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2021&sessInd=0&billBody=H&billTyp=B&billNbr=0014&pn=1017",
-"https://legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2023&sInd=0&body=S&type=B&bn=1",
-"https://legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2023&sInd=1&body=H&type=B&bn=1",
-"https://legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2023&sInd=1&body=H&type=B&bn=2",
-"https://legis.state.pa.us/cfdocs/billinfo/bill_history.cfm?syear=1983&sind=0&body=S&type=B&bn=672",
-"https://legis.state.pa.us/cfdocs/billinfo/bill_history.cfm?syear=2001&sind=0&body=S&type=B&bn=212",
-"https://legis.state.pa.us/cfdocs/billinfo/bill_history.cfm?syear=2019&sind=0&body=H&type=B&bn=962",
-"https://repdiamond.com/",
-"https://russdiamond.vote/about.php",
-"https://russdiamond.vote/blog.php",
-"https://russdiamond.vote/connect.php",
-"https://russdiamond.vote/contribute.php",
-"https://russdiamond.vote/index.php",
-"https://russdiamond.vote/privacy.php",
-"https://russdiamond.vote/updates.php",
-"https://spotlightpa.org/news/2021/02/pennsylvania-clergy-abuse-survivors-constitutional-amendment-wolf-administration",
-"https://spotlightpa.org/news/2021/05/pa-primary-2021-ballot-question-disaster-declaration-results",
-"https://susvalleypolicy.org/wp-content/uploads/2023/01/January-10-2023-FInal-Report.pdf",
-"https://x.com/russdiamond"
+{
+"text": "About",
+"href": "https://russdiamond.vote/about.php"
+},
+{
+"text": "Act 67 of 1984",
+"href": "https://www.legis.state.pa.us/cfdocs/billinfo/bill_history.cfm?syear=1983&sind=0&body=S&type=B&bn=672"
+},
+{
+"text": "Act 86 of 2002",
+"href": "https://www.legis.state.pa.us/cfdocs/billinfo/bill_history.cfm?syear=2001&sind=0&body=S&type=B&bn=212"
+},
+{
+"text": "Act 87 of 2019",
+"href": "https://www.legis.state.pa.us/cfdocs/billinfo/bill_history.cfm?syear=2019&sind=0&body=H&type=B&bn=962"
+},
+{
+"text": "Blog",
+"href": "https://russdiamond.vote/blog.php"
+},
+{
+"text": "Connect",
+"href": "https://russdiamond.vote/connect.php"
+},
+{
+"text": "Donate",
+"href": "https://russdiamond.vote/contribute.php"
+},
+{
+"text": "HB 963 in 2020",
+"href": "https://www.legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2019&sessInd=0&billBody=H&billTyp=B&billNbr=0963&pn=1130"
+},
+{
+"text": "HB14",
+"href": "https://www.legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2021&sessInd=0&billBody=H&billTyp=B&billNbr=0014&pn=1017"
+},
+{
+"text": "HB14 was not the same language as the previously approved HB963",
+"href": "http://russdiamond.vote/images/hbs98314.jpg"
+},
+{
+"text": "Home",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "News",
+"href": "https://russdiamond.vote/updates.php"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.russdiamond.vote/privacy.php"
+},
+{
+"text": "SB1",
+"href": "https://www.legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2023&sInd=0&body=S&type=B&bn=1"
+},
+{
+"text": "The rules adopted for the special session in the House",
+"href": "https://www.house.state.pa.us/rules.cfm?rules=ss1general"
+},
+{
+"text": "[image: Captiol Insights - State Representative Russ Diamond's Blog]",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "[image: Click to email my campaign.]",
+"href": "mailto:russdiamond4pa@gmail.com?Subject=Campaign+page+viewer+message"
+},
+{
+"text": "[image: Click to follow Friends of Russ Diamond on Facebook.]",
+"href": "https://www.facebook.com/friendsofrussdiamond"
+},
+{
+"text": "[image: Click to follow me on Instagram.]",
+"href": "https://www.instagram.com/russdiamond"
+},
+{
+"text": "[image: Click to follow me on X (Twitter}.]",
+"href": "https://www.x.com/russdiamond"
+},
+{
+"text": "[image: Click to view videos of Russ.]",
+"href": "https://www.facebook.com/repdiamond/reels/"
+},
+{
+"text": "[image: Click to visit Russ's legislative page.]",
+"href": "https://www.repdiamond.com/"
+},
+{
+"text": "constitutional amendment",
+"href": "https://www.legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2023&sInd=1&body=H&type=B&bn=1"
+},
+{
+"text": "other constitutional amendments on the docket for that same election",
+"href": "https://www.spotlightpa.org/news/2021/05/pa-primary-2021-ballot-question-disaster-declaration-results/"
+},
+{
+"text": "statutory change",
+"href": "https://www.legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2023&sInd=1&body=H&type=B&bn=2"
+},
+{
+"text": "the Wolf Administration failed to properly advertise the SoL amendment",
+"href": "https://www.spotlightpa.org/news/2021/02/pennsylvania-clergy-abuse-survivors-constitutional-amendment-wolf-administration/"
+},
+{
+"text": "to the tune of 5 to 32.5 billion dollars",
+"href": "https://susvalleypolicy.org/wp-content/uploads/2023/01/January-10-2023-FInal-Report.pdf"
+}
 ]

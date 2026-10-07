@@ -1,10 +1,6 @@
-Rep.
-Dye earns award for ag service
-PRINTED IN THE COLUMBIA BASIN HERALD
-Staff Report | November 27, 2024 1:00 AM
-WENATCHEE — Ninth District Representative Mary Dye (R-Pomeroy) received the State Representative Legislator of the Year award from the Washington Farm Bureau at its annual meeting last week in Wenatchee.
-“(The award recognizes) leaders who champion critical agricultural issues and advance policies benefiting farmers and ranchers,” according to a WFB press release.
-Dye is the ranking Republican member on the House Environment and Energy Committee.
-“(Dye) was honored for her advocacy on water and land use issues, amending dredge and fill regulations, and championing agriculture’s role in food security,” the press release said.
-“Her steadfast support has earned her great respect among Washington farmers.”
-The Washington Farm Bureau release can be viewed here.
+0 Skip to Content Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Rep.
+Dye earns award for ag service Dec 13 Written By Jim Hedemark Mary Dye, R-Pomeroy, was recognized for her service to agriculture with an award from the Washington Farm Bureau.
+COURTESY PHOTO/WASHINGTON FARM BUREAU PRINTED IN THE COLUMBIA BASIN HERALD Staff Report | November 27, 2024 1:00 AM WENATCHEE — Ninth District Representative Mary Dye (R-Pomeroy) received the State Representative Legislator of the Year award from the Washington Farm Bureau at its annual meeting last week in Wenatchee. “(The award recognizes) leaders who champion critical agricultural issues and advance policies benefiting farmers and ranchers,” according to a WFB press release.
+Dye is the ranking Republican member on the House Environment and Energy Committee. “(Dye) was honored for her advocacy on water and land use issues, amending dredge and fill regulations, and championing agriculture’s role in food security,” the press release said.
+“Her steadfast support has earned her great respect among Washington farmers.” The Washington Farm Bureau release can be viewed here.
+Jim Hedemark Previous Previous Washington State Representative Mary Dye (R-Pomeroy) received the Distinguished Leader Award Next Next Mary Dye: Vote yes on I-2117 to pay less and protect critical projects Committee to Elect Mary Dye Republican for Washington State Representative District 9, Position 1 PO Box 336 Pomeroy, WA 99347 electmarydye@gmail.com Meet Mary Priorities District News Gallery

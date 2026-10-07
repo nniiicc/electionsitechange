@@ -1,15 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Progressive+MA&dates=20260808T180000Z%2F20260808T200000Z&location=52+Avenue+A%2C+Montague%2C+Massachusetts%2C+01376%2C+United+States",
-"http://maps.google.com/?q=52+Avenue+A+Montague%2C+Massachusetts%2C+01376+United+States",
-"https://facebook.com/WondolowskiFranklin1st",
-"https://instagram.com/WondolowskiFranklin1st",
-"https://secure.actblue.com/donate/lora-wondolowski-1",
-"https://wondoforrep.org/",
-"https://wondoforrep.org/cart",
-"https://wondoforrep.org/endorsements",
-"https://wondoforrep.org/events",
-"https://wondoforrep.org/events/canvass-with-progressive-ma?format=ical",
-"https://wondoforrep.org/events/event-one-rg2bh-mx2wm-agmze",
-"https://wondoforrep.org/get-involved",
-"https://wondoforrep.org/store"
+{
+"text": "(0)",
+"href": "https://wondoforrep.org/cart"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=52+avenue+a+montague%2C+massachusetts%2C+01376+united+states"
+},
+{
+"text": "About",
+"href": "https://wondoforrep.org/#about"
+},
+{
+"text": "Back to All Events",
+"href": "https://wondoforrep.org/events"
+},
+{
+"text": "Cart (0)",
+"href": "https://wondoforrep.org/cart"
+},
+{
+"text": "Contact",
+"href": "https://wondoforrep.org/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lora-wondolowski-1"
+},
+{
+"text": "Endorsements",
+"href": "https://wondoforrep.org/endorsements"
+},
+{
+"text": "Events",
+"href": "https://wondoforrep.org/events"
+},
+{
+"text": "Get Involved",
+"href": "https://wondoforrep.org/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Progressive+MA&dates=20260808T180000Z%2F20260808T200000Z&location=52+Avenue+A%2C+Montague%2C+Massachusetts%2C+01376%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://wondoforrep.org/events/canvass-with-progressive-ma?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://wondoforrep.org/#issues"
+},
+{
+"text": "Next Next August 9 Greenfield Group Canvass launch",
+"href": "https://wondoforrep.org/events/event-one-rg2bh-mx2wm-agmze"
+},
+{
+"text": "Store",
+"href": "https://wondoforrep.org/store"
+},
+{
+"text": "[image: Wondo For Rep]",
+"href": "https://wondoforrep.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WondolowskiFranklin1st/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/WondolowskiFranklin1st"
+},
+{
+"text": "info@wondoforrep.org",
+"href": "mailto:info@wondoforrep.org"
+}
 ]

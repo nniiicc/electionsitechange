@@ -1,7 +1,11 @@
 {
  "description": "Read campaign news, policy briefs, and press releases from Forrest Satterfield, Democratic nominee for Alabama House District 21 in Madison County.",
  "final_url": "https://www.forrestforalabama.com/news",
+ "fingerprint": "0b32615c29d5083d73734906ace4226a989bb9b3",
+ "format": 3,
  "paid_for_by": "Paid for by Forrest Via Satterfield 740 SW Constellation Pl Dr, Apt",
  "title": "Alabama House District 21 News | Forrest Satterfield",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

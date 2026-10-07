@@ -1,28 +1,114 @@
 [
-"https://facebook.com/VoteBraun",
-"https://instagram.com/votebraun",
-"https://luma.com/3wjtrzk0",
-"https://luma.com/brauncallsoct14",
-"https://luma.com/brauncallsoct16",
-"https://luma.com/brauncallsoct21",
-"https://luma.com/brauncallsoct23",
-"https://luma.com/brauncallsoct28",
-"https://luma.com/brauncallsoct7",
-"https://luma.com/brauncallsoct9",
-"https://luma.com/braundoorsoct31",
-"https://luma.com/clarkdoorsoct10",
-"https://luma.com/clarkdoorsoct17",
-"https://luma.com/clarkdoorsoct24",
-"https://luma.com/na5upmfx",
-"https://luma.com/w4vvdoos",
-"https://secure.anedot.com/john-braun-for-congress/donate",
-"https://votebraun.com/",
-"https://votebraun.com/about",
-"https://votebraun.com/events",
-"https://votebraun.com/issues",
-"https://votebraun.com/news",
-"https://votebraun.com/privacy-policy",
-"https://votebraun.com/terms-and-conditions",
-"https://votebraun.com/volunteer",
-"https://x.com/votejohnbraun"
+{
+"text": "About",
+"href": "https://www.votebraun.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/john-braun-for-congress/donate"
+},
+{
+"text": "Events",
+"href": "https://www.votebraun.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.votebraun.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votebraun.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.votebraun.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votebraun.com/privacy-policy"
+},
+{
+"text": "RSVP",
+"href": "https://luma.com/3wjtrzk0"
+},
+{
+"text": "RSVP",
+"href": "https://luma.com/brauncallsoct14"
+},
+{
+"text": "RSVP",
+"href": "https://luma.com/brauncallsoct16"
+},
+{
+"text": "RSVP",
+"href": "https://luma.com/brauncallsoct21"
+},
+{
+"text": "RSVP",
+"href": "https://luma.com/brauncallsoct23"
+},
+{
+"text": "RSVP",
+"href": "https://luma.com/brauncallsoct28"
+},
+{
+"text": "RSVP",
+"href": "https://luma.com/brauncallsoct7"
+},
+{
+"text": "RSVP",
+"href": "https://luma.com/brauncallsoct9"
+},
+{
+"text": "RSVP",
+"href": "https://luma.com/braundoorsoct31"
+},
+{
+"text": "RSVP",
+"href": "https://luma.com/clarkdoorsoct10"
+},
+{
+"text": "RSVP",
+"href": "https://luma.com/clarkdoorsoct17"
+},
+{
+"text": "RSVP",
+"href": "https://luma.com/clarkdoorsoct24"
+},
+{
+"text": "RSVP",
+"href": "https://luma.com/na5upmfx"
+},
+{
+"text": "RSVP",
+"href": "https://luma.com/w4vvdoos"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.votebraun.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votebraun.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.votebraun.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteBraun/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votebraun/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/votejohnbraun"
+},
+{
+"text": "‍",
+"href": "https://votebraun.com/privacy-policy/"
+}
 ]

@@ -1,14 +1,7 @@
-Senator Nick Miller
-14th District, PA
-Sign up for updates
-“Lehigh Valley residents deserve effective, unifying leaders who are purposeful in how they get things done.
-I’m committed to bringing folks together to ensure the Lehigh Valley remains a great place to live, work, and visit.”
-— Nick Miller, State Senator, District 14
-Priorities
-Elevating Educational Opportunities
-Creating a promising future in Lehigh Valley means investing in a great education for all students.
-Enhancing Community Safety
-Safety means more than a fight against crime.
+Skip to content Home Meet Nick Priorities Get Involved Endorsements Donate Vote Senator Nick Miller 14th District, PA Sign up for updates “Lehigh Valley residents deserve effective, unifying leaders who are purposeful in how they get things done.
+I’m committed to bringing folks together to ensure the Lehigh Valley remains a great place to live, work, and visit.” — Nick Miller, State Senator, District 14 Priorities Elevating Educational Opportunities Creating a promising future in Lehigh Valley means investing in a great education for all students.
+Enhancing Community Safety Safety means more than a fight against crime.
 Pennsylvania residents deserve physical, mental, and psychological safety in their communities.
-Spurring Economic Development
-Attracting and retaining businesses in PA starts with providing quality, family-sustaining jobs that keep our communities strong.
+Spurring Economic Development Attracting and retaining businesses in PA starts with providing quality, family-sustaining jobs that keep our communities strong.
+Join Nick Miller in building a better Pennsylvania for all Volunteer Today Join Nick Miller in building a better Pennsylvania for all Volunteer Today Endorsements View all endorsements Your support is crucial Donate to help Nick fight for affordable housing, strong schools, and a better future for Lehigh Valley.
+Every contribution counts. $25 $50 $150 $250 $500 $1000 Other Amount Home Meet Nick Priorities Get Involved Endorsements Contact PO Box 1799 Allentown, PA 18105 info@NickMillerforPA.com Donate Privacy Policy Follow us Facebook Instagram X LinkedIn Prepared and Paid for by Friends of Nick Miller Powered by Tech for Campaigns

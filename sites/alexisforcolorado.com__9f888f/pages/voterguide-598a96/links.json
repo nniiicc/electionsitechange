@@ -1,20 +1,78 @@
 [
-"http://bsky.app/profile/alexisforcolorado.bsky.social",
-"http://instagram.com/alexisforcolorado",
-"https://alexisforcolorado.com/",
-"https://alexisforcolorado.com/cart",
-"https://alexisforcolorado.com/endorsements",
-"https://alexisforcolorado.com/events",
-"https://alexisforcolorado.com/media",
-"https://alexisforcolorado.com/voterguide",
-"https://coleg.maps.arcgis.com/apps/instant/basic/index.html?appid=29d34884cf8c4bcc9b2fd6fa8ef168d2",
-"https://facebook.com/profile.php?id=61575273157265",
-"https://jeffcopublicschools.org/about/bond-and-mill-levy-overview/2026-mill-levy-override-and-special-mill",
-"https://meganhelseth.com/",
-"https://secure.actblue.com/donate/alexisforcolorado",
-"https://secure.actblue.com/donate/alexisforcolorado?recurring=true",
-"https://sos.state.co.us/pubs/elections/Initiatives/ballot/contacts/2026.html",
-"https://sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml",
-"https://whoisadvancecolorado.org/",
-"https://yourwheatridge.com/"
+{
+"text": "0",
+"href": "https://www.alexisforcolorado.com/cart"
+},
+{
+"text": "Click here to learn more about Advance Colorado",
+"href": "https://www.whoisadvancecolorado.org/"
+},
+{
+"text": "Contact Alexis",
+"href": "mailto:alexisforcolorado@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/alexisforcolorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexisforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.alexisforcolorado.com/events"
+},
+{
+"text": "GIVE MONTHLY",
+"href": "https://secure.actblue.com/donate/alexisforcolorado?recurring=true"
+},
+{
+"text": "MHW Consulting, L.L.C.",
+"href": "https://meganhelseth.com"
+},
+{
+"text": "Map of District 23",
+"href": "https://coleg.maps.arcgis.com/apps/instant/basic/index.html?appid=29d34884cf8c4bcc9b2fd6fa8ef168d2"
+},
+{
+"text": "Media",
+"href": "https://www.alexisforcolorado.com/media"
+},
+{
+"text": "Read more about it here",
+"href": "https://www.yourwheatridge.com/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+},
+{
+"text": "Voting Guide",
+"href": "https://www.alexisforcolorado.com/voterguide"
+},
+{
+"text": "[image: Alexis for Colorado]",
+"href": "https://www.alexisforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "http://bsky.app/profile/alexisforcolorado.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/alexisforcolorado"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575273157265"
+},
+{
+"text": "https://www.jeffcopublicschools.org/about/bond-and-mill-levy-overview/2026-mill-levy-override-and-special-mill",
+"href": "https://www.jeffcopublicschools.org/about/bond-and-mill-levy-overview/2026-mill-levy-override-and-special-mill"
+},
+{
+"text": "visit the Secretary of State’s site.",
+"href": "https://www.sos.state.co.us/pubs/elections/Initiatives/ballot/contacts/2026.html"
+}
 ]

@@ -1,9 +1,42 @@
 [
-"https://maxwellforhouse.com/",
-"https://maxwellforhouse.com/my-story",
-"https://maxwellforhouse.com/our-fight",
-"https://maxwellforhouse.com/our-fight/affordability/child-care",
-"https://maxwellforhouse.com/our-fight/affordability/cost-of-living",
-"https://maxwellforhouse.com/our-fight/affordability/housing",
-"https://secure.anedot.com/maxwell-for-montana/donate"
+{
+"text": "Child Care →",
+"href": "https://maxwellforhouse.com/our-fight/affordability/child-care/"
+},
+{
+"text": "Cost of Living →",
+"href": "https://maxwellforhouse.com/our-fight/affordability/cost-of-living/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/maxwell-for-montana/donate"
+},
+{
+"text": "Home",
+"href": "https://maxwellforhouse.com/"
+},
+{
+"text": "Housing →",
+"href": "https://maxwellforhouse.com/our-fight/affordability/housing/"
+},
+{
+"text": "My Story",
+"href": "https://maxwellforhouse.com/my-story/"
+},
+{
+"text": "Our Fight",
+"href": "https://maxwellforhouse.com/our-fight/"
+},
+{
+"text": "Our Fight",
+"href": "https://maxwellforhouse.com/our-fight/#topics"
+},
+{
+"text": "Read my story",
+"href": "https://maxwellforhouse.com/my-story/"
+},
+{
+"text": "[image: Maxwell] House District 47",
+"href": "https://maxwellforhouse.com/"
+}
 ]

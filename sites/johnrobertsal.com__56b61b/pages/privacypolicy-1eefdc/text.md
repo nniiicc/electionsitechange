@@ -1,14 +1,11 @@
-Privacy Policy
-Overview
-Welcome to the official web site (the “Site”) of John Roberts for State Senate.
+top of page GET INVOLVED DONATE HOME ABOUT THE ISSUES Privacy Policy Overview Welcome to the official web site (the “Site”) of John Roberts for State Senate.
 This Privacy Policy outlines our practices for collection, use and disclosure of your information that you provide to us when you use the Site.
 By using this Site, you agree that your use of the Site is governed by this Privacy Policy and our Terms of Service.
 From time to time, we may update this Privacy Policy.
 We encourage you to periodically check this Site for updates.
 Your continued use of the Site affirms your agreement to any changes we make to this Privacy Policy.
 Please note the distinction between our privacy practices in connection with your visit to the Site, and our Terms of Service.
-Information Collected and How It Is Collected
-Voluntary Information: We may collect personal information you voluntarily provide to us including, but not limited to your name, e-mail address, postal address, phone number, mobile number and geographic location.
+Information Collected and How It Is Collected Voluntary Information: We may collect personal information you voluntarily provide to us including, but not limited to your name, e-mail address, postal address, phone number, mobile number and geographic location.
 You may provide this information when you request information, register, make a purchase or for other purposes.
 We may also collect demographic information such as gender, date of birth, occupation, employer name and zip code.
 In limited circumstances, we may collect payment information such as credit card number where needed to complete a requested service or transaction.
@@ -23,8 +20,7 @@ We use this information to determine the general physical location of the device
 We also may use your non-personally identifiable information to enhance the Site.
 All Site users remain anonymous unless they choose to give us their personal information.
 You may elect not to allow us to collect and use this non-personally identifiable data as part of our Service by following the Opt-Out procedures described below.
-Cookies and Other Technologies
-Overview: We may use cookies and other technologies to obtain certain types of information when your web browser accesses the Site or visits a web site in our network. ‘Cookies’ are small pieces of information that are stored by your browser.
+Cookies and Other Technologies Overview: We may use cookies and other technologies to obtain certain types of information when your web browser accesses the Site or visits a web site in our network. ‘Cookies’ are small pieces of information that are stored by your browser.
 Cookies help us improve your experience on the Site, however, if you wish to block, erase or be warned of the use of cookies, please refer to the paragraph below entitled Disabling Cookies or to your browser manufacturer.
 When you view a video on our Sites, a third party may also set a ‘flash cookie’ on your computer.
 Since removing and rejecting browser cookies may not also remove or reject flash cookies, you will also need to visit: http://www.adobe.com/products/flashplayer/security in order to delete or disable flash cookies.
@@ -49,8 +45,7 @@ The persistent cookie is removed when you log out.
 Disabling Cookies: The ‘Help’ portion of the toolbar on most browsers will tell you how to prevent your browser from accepting cookies, how to have the browser notify you when you receive cookies and how to disable cookies altogether.
 Note that if you reject or block cookies, it may affect your ability to enjoy the full functionality and experience of the Site.
 Web Beacons: Pages of the Site [and our e-mails] may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit John Roberts for State Senate for example, to count users who have visited those pages or opened an e-mail and for other related web site statistics (for example, recording the popularity of certain web site content and verifying system and server integrity).
-INFORMATION USE AND SHARING
-Use of Personal Information: If we do receive your personal information, we will only use it for the purposes described where it is collected or otherwise described in this Privacy Policy.
+INFORMATION USE AND SHARING Use of Personal Information: If we do receive your personal information, we will only use it for the purposes described where it is collected or otherwise described in this Privacy Policy.
 We may share this information outside of John Roberts for State Senate if: (1) you authorize us to do so; (2) it is necessary to allow our service providers or agents to provide products or services for us; (3) it is necessary in order to provide our products or services to you (and contacting you when necessary); (4) subject to applicable contractual or legal restrictions, it is necessary to disclose to entities that perform marketing services on our behalf or to other entities with whom we have joint marketing agreements; (5) subject to applicable contractual or legal restrictions, it is necessary in connection with a sale of all or substantially all of the assets of John Roberts for State Senate or the merger of John Roberts for State Senate into another entity or any consolidation, share exchange, combination, reorganization, or like transaction in which John Roberts for State Senate is not the survivor; (6) it is necessary in connection with other business purposes including, without limitation, responding to your inquiries or requests for information or services, customer care, service quality, business management and operation, risk assessment, security, fraud and crime prevention/detection, monitoring, research and analysis, marketing, customer purchasing preferences and trends, dispute resolution, credit checking and debt collection; (7) it is necessary to disclose in order to protect or defend our rights or property or those of our users; (8) it is necessary to disclose in order to protect the personal safety of our users or the public; (9) it is necessary for us to provide it to our attorneys, accountants, regulators, auditors or other advisors; or (10) otherwise as we are required or permitted by law or required to comply with legal process served upon us, our agents, representatives or our affiliates.
 We may also aggregate your personal information with the information of others and may disclose such information in aggregate form for marketing and promotional purposes in a way that would not identify you individually.
 Use of Non-Personally Identifiable Information: John Roberts for State Senate or our service providers or agents that provide services for us may use non-personally identifiable information as part of the Services to better tailor advertisements and other content in an effort to create a more relevant experience for each person that visits the Site or elsewhere on the Internet.
@@ -67,8 +62,7 @@ In connection with any contests and other promotions that we may offer from time
 Subject to applicable contractual or legal restrictions, we also may use the information to communicate with you, or the other people you select, about our products and services or our service providers or agents partners may use such information to communicate with you about the contests and other promotions or their products and services.
 If you choose to participate in these promotions, and are eligible to do so, we may ask you for information such as your name, e-mail address, date of birth and telephone number.
 Official Contest Rules will accompany any contest sponsored by John Roberts for State Senate.
-THIRD PARTY FEATURES
-Third Party Links: For your convenience, we may include or offer third party offers, products or services on the Site.
+THIRD PARTY FEATURES Third Party Links: For your convenience, we may include or offer third party offers, products or services on the Site.
 Third party vendors may use cookies or other technologies to serve ads on other web sites based on your visit to this Site and other web sites on the Internet.
 We cannot be responsible for the privacy practices of any web sites or pages not under our control and we do not endorse any of these web sites or pages, the services or products described or offered on such sites or pages or any of the content contained on those sites or pages.
 Nonetheless, we seek to protect the integrity of the Site and welcome any feedback about these web sites.
@@ -80,8 +74,7 @@ Although we may take certain precautions to protect those who use these areas of
 The information you post can be collected and used by people you don’t know.
 We cannot guarantee the privacy and safety of these areas and are therefore not responsible for any information you choose to post.
 Your use of these features is fully at your own risk.
-E-MAIL SIGNUPS
-E-mail: We appreciate your questions and comments about the Site and services and welcome your e-mails and questions submitted to the Site.
+E-MAIL SIGNUPS E-mail: We appreciate your questions and comments about the Site and services and welcome your e-mails and questions submitted to the Site.
 We will share your messages with those within our organization who are most capable of addressing the issues contained in your message.
 We may archive your message for a certain period of time or discard it, but your e-mail address and message will only be used in accordance with this Privacy Policy.
 Submitting your e-mail: Submitting your address anywhere on the Site may result in your e-mail address being added to the John Roberts for State Senate e-mail list.
@@ -92,27 +85,21 @@ Suggesting the Site to a Friend: If you elect to use any feature that includes s
 The Site may automatically send the friend a one-time e-mail inviting them to visit the Site or otherwise provide the information requested by you.
 John Roberts for State Senate will store and use this information in accordance with this Privacy Policy.
 Your friend may contact John Roberts for State Senate to request the removal of this information from our databases.
-TEXT MESSAGING OPT-IN DATA
-We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
-SECURITY
-We employ and maintain technology and security measures designed to protect your personal information.
+TEXT MESSAGING OPT-IN DATA We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
+SECURITY We employ and maintain technology and security measures designed to protect your personal information.
 However, no data transmission over the Internet can be guaranteed as 100% secure.
 As a result, while we strive to protect your information, we cannot ensure or warrant the security of any information you transmit to us or receive from us.
-OPT OUT
-Overview: We may use non-personally identifiable information to provide more relevant advertising and content.
+OPT OUT Overview: We may use non-personally identifiable information to provide more relevant advertising and content.
 If you’d like to stop the Site from collecting certain types of information that provide more tailored online ads and messages to you, please click here.
 If you elect to opt out of this type of advertising, we will place a cookie on your computer to flag that we should not collect data to tailor advertising to your browser.
 If you delete your cookies, install a new browser, or use a different computer, you may need to revisit this page to opt out.
-YOUR CALIFORNIA PRIVACY RIGHTS
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (a) a list of the categories of personal information, such as name, e-mail and mailing address and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes and (b) the names and addresses of all such third parties.
-To request the above information, please contact John Roberts for State Senate on the Site
-CHILDREN
-We strongly encourage parents and guardians to regularly monitor and supervise their children’s online activities.
+YOUR CALIFORNIA PRIVACY RIGHTS Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (a) a list of the categories of personal information, such as name, e-mail and mailing address and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes and (b) the names and addresses of all such third parties.
+To request the above information, please contact John Roberts for State Senate on the Site CHILDREN We strongly encourage parents and guardians to regularly monitor and supervise their children’s online activities.
 We do not knowingly collect personal information from children under 13.
-VISITING THE SITE FROM OUTSIDE OF THE UNITED STATES
-If you are visiting the Site from outside of the United States of America, please be aware that your information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated.
+VISITING THE SITE FROM OUTSIDE OF THE UNITED STATES If you are visiting the Site from outside of the United States of America, please be aware that your information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated.
 The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy.
 By using the Site, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
-YOUR INFORMATION AND THIRD PARTIES
-John Roberts for State Senate is committed to protecting your privacy and data and will not sell the personal information or data you provide us with to third parties.
+YOUR INFORMATION AND THIRD PARTIES John Roberts for State Senate is committed to protecting your privacy and data and will not sell the personal information or data you provide us with to third parties.
 Any data you provide will be used solely for the purposes outlined in this Privacy Policy.
+Follow John on Social Media!
+Paid for by John Roberts for State Senate PO Box 4732 Huntsville, AL 35815 bottom of page

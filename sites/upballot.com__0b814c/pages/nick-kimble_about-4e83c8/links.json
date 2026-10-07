@@ -1,18 +1,98 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSdC4eeF2RXlR7C47ZAxKeJbeq5s5knWTTKj7R8bi9lwO5m1gw/viewform?vc=0&c=0&w=1&flr=0",
-"https://docs.google.com/forms/d/e/1FAIpQLSf9t53eClXUrtor2XI2AQhTT-LVIrQcsKjQs8qd5KjftSLlDQ/viewform?vc=0&c=0&w=1&flr=0",
-"https://facebook.com/profile.php?id=100095399677677",
-"https://instagram.com/kimblestl_82",
-"https://secure.actblue.com/donate/kimble-for-missouri-1",
-"https://twitter.com/Nick_KimbleSTL",
-"https://upballot.com/",
-"https://upballot.com/nick-kimble",
-"https://upballot.com/nick-kimble/about",
-"https://upballot.com/nick-kimble/events",
-"https://upballot.com/nick-kimble/get-involved",
-"https://upballot.com/nick-kimble/issues",
-"https://upballot.com/nick-kimble/news",
-"https://upballot.com/nick-kimble/news/about-nick",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Nick",
+"href": "https://www.upballot.com/nick-kimble/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/kimble-for-missouri-1"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/nick-kimble/events/"
+},
+{
+"text": "Get Campaign Updates",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf9t53eClXUrtor2XI2AQhTT-LVIrQcsKjQs8qd5KjftSLlDQ/viewform?vc=0&c=0&w=1&flr=0"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/nick-kimble/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/nick-kimble"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/nick-kimble/issues/"
+},
+{
+"text": "KimbleForMO@gmail.com",
+"href": "mailto:KimbleForMO@gmail.com"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/kimble-for-missouri-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "See All Updates",
+"href": "https://www.upballot.com/nick-kimble/news/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "Updates",
+"href": "https://www.upballot.com/nick-kimble/news/"
+},
+{
+"text": "Volunteer Now",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdC4eeF2RXlR7C47ZAxKeJbeq5s5knWTTKj7R8bi9lwO5m1gw/viewform?vc=0&c=0&w=1&flr=0"
+},
+{
+"text": "[image: Nick Kimble Logo]",
+"href": "https://www.upballot.com/nick-kimble/"
+},
+{
+"text": "[image] July 24 About Nick Read More",
+"href": "https://www.upballot.com/nick-kimble/news/about-nick"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Nick_KimbleSTL"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100095399677677"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kimblestl_82/"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/profile.php?id=100095399677677"
+},
+{
+"text": "[tooltip: View Instagram Link]",
+"href": "https://www.instagram.com/kimblestl_82/"
+},
+{
+"text": "[tooltip: View Twitter Link]",
+"href": "https://twitter.com/Nick_KimbleSTL"
+},
+{
+"text": "tel:314-546-2936",
+"href": "tel:314-546-2936"
+}
 ]

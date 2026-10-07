@@ -1,10 +1,10 @@
-← All events
-TEAM JAMIE DAVIS-COMMUNITY CANVASS-ACADIANA
-- Where
-- Lafayette · LA
-About this event
-## Door Knockin' We need you on the ground.
-We're rolling out canvass crews throughout the week and every weekend to talk directly with voters and build momentum for Jamie. ### Morning Canvass **8:00–11:00 AM** | Meet at 7:30 AM ### Afternoon Canvass **4:00–7:00 PM** | Meet at 3:30 PM ### Can you give us a few hours this week?
-Let me know ASAP so we can get you plugged in! ### Want to organize a canvass in your own neighborhood?
+Skip to main content CONTRIBUTE Lauren Jewett for Congress - Return to homepage Open main navigation menu Meet Lauren Issues District & Voting Endorsements Events Volunteer CONTRIBUTE ← All events TEAM JAMIE DAVIS-COMMUNITY CANVASS-ACADIANA Available times Saturday, Sep 19, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab) Saturday, Sep 19, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab) Saturday, Sep 26, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab) Saturday, Sep 26, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 3, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab) Saturday, Oct 3, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 10, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab) Saturday, Oct 10, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 17, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab) Saturday, Oct 17, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 24, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab) Saturday, Oct 24, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 31, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab) Saturday, Oct 31, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab) Where Lafayette · LA About this event ## Door Knockin' We need you on the ground.
+We're rolling out canvass crews throughout the week and every weekend to talk directly with voters and build momentum for Jamie.
+### Morning Canvass **8:00–11:00 AM** | Meet at 7:30 AM ### Afternoon Canvass **4:00–7:00 PM** | Meet at 3:30 PM ### Can you give us a few hours this week?
+Let me know ASAP so we can get you plugged in!
+### Want to organize a canvass in your own neighborhood?
 Let's do it!
 I'm happy to build your turf list and get you everything you need to lead an activation right where you live.
+RSVP on Mobilize (opens in a new tab) STAY IN TOUCH Email Zip JOIN US Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Lauren Jewett for Congress Meet Lauren Issues District & Voting Endorsements Events Volunteer Yard Sign Contact Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Chip In Now Every contribution makes a difference in our grassroots campaign $ 25 $ 50 $ 100 $ 250 $ 25 $ 50 $ 100 $ 250

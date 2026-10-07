@@ -1,9 +1,6 @@
-FOR IMMEDIATE RELEASE – June 29, 2026
-Today, the Bill Hill campaign announced the endorsements of these Alaska Native leaders from across Alaska:
-“Decisions made in DC have an outsize impact on Alaska Native peoples and on our ways of life.
+Skip to content Bill’s Platform Bill’s Story Volunteer Press Endorsements Endorse Bill Contact Upcoming Events Jobs Request a Yard Sign Store Bill’s Platform Bill’s Story Volunteer Press Endorsements Endorse Bill Contact Upcoming Events Jobs Request a Yard Sign Store DONATE Facebook Instagram X-twitter Tiktok Youtube Flickr Endorsements , press release Alaska Native leaders from across Alaska back Bill Hill June 29, 2026 FOR IMMEDIATE RELEASE – June 29, 2026 Today, the Bill Hill campaign announced the endorsements of these Alaska Native leaders from across Alaska: “Decisions made in DC have an outsize impact on Alaska Native peoples and on our ways of life.
 We need a team in Congress that gets it,” said Bill Hill.
-“I’m deeply honored to have the support of these leaders, and I’m going to do everything I can to do right by them, and right by Alaska.”
-Bill Hill is Dena’ina Athabascan and grew up in Kokhanok with a traditional Bush upbringing.
+“I’m deeply honored to have the support of these leaders, and I’m going to do everything I can to do right by them, and right by Alaska.” Bill Hill is Dena’ina Athabascan and grew up in Kokhanok with a traditional Bush upbringing.
 He served on the board of his village corporation, Paug-Vik, for 15 years, including 10 as President.
 As a superintendent of the Bristol Bay Borough School District, Hill worked with regional school districts and the University of Alaska to create a Master’s program for teachers in rural Alaska to immerse them more deeply in local communities and culture.
 That program dramatically improved teacher retention in the district.
@@ -11,7 +8,4 @@ In Congress, Bill Hill will defend subsistence rights, stand up for tribal sover
 He will work to make sure the people whose families have lived in rural communities for generations continue to have that opportunity by bringing down the cost of housing and energy, and championing investments in basic infrastructure.
 He will protect access to traditional lands and cultural sites that hold the history and culture of Alaska Native people.
 And he will be an unrelenting champion for the economic self-determination of Native people, including defending contracting opportunities for Alaska Native corporations that are an economic engine for the state.
-###
-Media Contact: Kevin Groh, Campaign Manager
-951-203-2287, kevin@billhillforalaskans.com
-Paid for by Bill Hill for Alaskans
+### Media Contact: Kevin Groh, Campaign Manager 951-203-2287, kevin@billhillforalaskans.com Paid for by Bill Hill for Alaskans Email Facebook X Latest News The United Auto Workers Region 6 Western States CAP & PAC Council endorse Bill Hill July 6, 2026 Bill Hill returns to Bristol Bay for 49th commercial fishing opener July 3, 2026 Alaska Native leaders from across Alaska back Bill Hill June 29, 2026 UFCW Local 1496 Endorses Bill Hill for Congress June 24, 2026 The Association of Flight Attendants-CWA endorses Bill Hill June 23, 2026 The Alaska Public Employees Association endorses Bill Hill June 22, 2026 Commercial fisherman Construction worker Teacher and Superintendent Small business owner Menu Home Bill’s Platform Bill’s Story Volunteer Press Endorsements Contact Donate Request a Yard Sign Store Home Bill’s Platform Bill’s Story Volunteer Press Endorsements Contact Donate Request a Yard Sign Store Social Media Bill Hill for Alaskans billhillforalaskans @BillHillAK billhillforalaskans BillHillForAlaskans billhillforalaskans Checks can be mailed to: Bill Hill For Alaskans PO Box 220703, Anchorage AK 99522 Messaging & visual assets Paid for by Bill Hill for Alaskans Privacy Policy

@@ -1,6 +1,5 @@
-Platform - Healthcare
-Healthcare
-Every Ohioan deserves accessible, affordable, high-quality healthcare—regardless of income, location, or age.
+top of page Ari for Ohio Home About News Events Issues Equality Families Education Healthcare Economy Accountability Farms 2nd Amendment Yard Sign Request Contact Vote More Use tab to navigate through the menu items.
+Donate Now Log In Platform - Healthcare Support Ari's Campaign > Healthcare Every Ohioan deserves accessible, affordable, high-quality healthcare—regardless of income, location, or age.
 As your representative, I will fight to strengthen our healthcare system, protect vulnerable patients, support frontline workers, and ensure no one faces bankruptcy or denial of care due to costs or barriers.
 Champion safe nurse staffing standards in hospitals (building on efforts like the Nurse Workforce and Safe Patient Care Act) to establish registered nurse-to-patient ratios, create nurse-led staffing committees, and improve working conditions—reducing burnout, enhancing patient safety, and addressing Ohio's nursing shortages for better hospital care statewide.
 Cap out-of-pocket insulin costs at $35 per month for all Ohioans, ensuring life-saving diabetes treatment remains affordable—opposing price gouging and supporting families who rely on insulin to manage this chronic condition without financial hardship.
@@ -8,3 +7,6 @@ Protect and expand access to mental health and substance use disorder treatment,
 Create a loan-to-grant pipeline for Ohio nursing students by establishing or expanding state-funded loan programs that convert to full grants after graduates commit to working as nurses in Ohio for five years—removing financial barriers to entry, encouraging more people to pursue nursing careers, and helping retain skilled nurses in our communities to address the ongoing nursing shortage and improve patient care.
 Increase funding and oversight for the Ohio Department of Aging to expand in-home care services, support direct care workers with better wages/training, strengthen nursing home quality monitoring and abuse prevention, and implement recommendations from recent task forces—helping seniors age with dignity at home while improving long-term care safety.
 Support rural hospitals by advocating for stable funding, opposing harmful Medicaid cuts that threaten closures and access in underserved areas, and promoting investments in workforce recruitment and telehealth—keeping essential care close to home for rural Ohio families.
+These policies will lower costs, improve outcomes, support our healthcare workforce, and build a system that puts people first—because health isn't a privilege, it's a right.
+ABOUT ARI > Arienne Childrey: Community leader and advocate bringing common-sense solutions to affordable living, public safety, and equality for Ohio's 84th District.
+Sign up for occasional campaign emails: Email * Yes, sign me up! * Subscribe Now FACEBOOK TWITTER CONTACT > E: ARI4OHIO@GMAIL.COM © # Paid for by Friends of Arienne Childrey. bottom of page

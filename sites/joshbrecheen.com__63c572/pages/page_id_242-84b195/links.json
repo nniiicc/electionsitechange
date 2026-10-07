@@ -1,13 +1,50 @@
 [
-"https://facebook.com/JoshBrecheenforCongress",
-"https://instagram.com/joshbrecheenforcongress",
-"https://joshbrecheen.com/",
-"https://joshbrecheen.com/?page_id=242",
-"https://joshbrecheen.com/about-page",
-"https://joshbrecheen.com/contact",
-"https://joshbrecheen.com/endorsements",
-"https://joshbrecheen.com/issues-2",
-"https://secure.anedot.com/joshbrecheen/donatenow",
-"https://secure.anedot.com/joshbrecheen/volunteer",
-"https://twitter.com/Brecheen4OK"
+{
+"text": "Contact",
+"href": "https://joshbrecheen.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/joshbrecheen/donatenow"
+},
+{
+"text": "Endorsed by Trump",
+"href": "https://joshbrecheen.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://joshbrecheen.com/"
+},
+{
+"text": "Meet Josh",
+"href": "https://joshbrecheen.com/about-page/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://joshbrecheen.com/?page_id=242"
+},
+{
+"text": "The Issues",
+"href": "https://joshbrecheen.com/issues-2/"
+},
+{
+"text": "Vote for Josh Brecheen in the Primary on June 16",
+"href": "https://secure.anedot.com/joshbrecheen/volunteer"
+},
+{
+"text": "[image: Brecheen]",
+"href": "https://joshbrecheen.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Brecheen4OK"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoshBrecheenforCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joshbrecheenforcongress/"
+}
 ]

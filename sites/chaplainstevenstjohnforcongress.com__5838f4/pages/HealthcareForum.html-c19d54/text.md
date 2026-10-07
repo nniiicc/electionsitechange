@@ -1,5 +1,4 @@
-A nonpartisan online conversation about healthcare in the upcoming midterm election
-Healthcare affects every family, every community, every business, and every generation.
+The Healthcare Forum A nonpartisan online conversation about healthcare in the upcoming midterm election Healthcare affects every family, every community, every business, and every generation.
 The Healthcare Forum was created because our nation is approaching one of the most significant periods of healthcare change in decades.
 The people elected in November 2026 will help determine how those changes are implemented and whether modifications are made to ensure that everyone has access to healthcare.
 That is why this election matters.
@@ -17,41 +16,13 @@ In addition, it is expected to raise insurance premiums by 20-25%.
 The bottom line is this ...
 Slowing the growth of Medicaid spending helps reduce federal spending and makes extending tax cuts more economically feasible.
 What are the two pending pieces of legislation?
-Protecting Americans’ Health Care Act and Big Medicine Act
-What are some of the challenges we face?
-The changes to Medicare as it relates to seniors
-The Affordable Care Act and the lack of subsidies
-The affordability of health insurance
-Hospital funding
-Rural healthcare
-Prescription drug costs
-Workforce shortages
-Long-term care
-Veterans' healthcare
-Preventive care
-Homelessness as a consequence
-The consequences to seniors
-The economic effects of healthcare on our economy
-For many Americans, these changes are not abstract.
+Protecting Americans’ Health Care Act and Big Medicine Act What are some of the challenges we face?
+The changes to Medicare as it relates to seniors The Affordable Care Act and the lack of subsidies The affordability of health insurance Hospital funding Rural healthcare Prescription drug costs Workforce shortages Long-term care Veterans' healthcare Preventive care Homelessness as a consequence The consequences to seniors The economic effects of healthcare on our economy For many Americans, these changes are not abstract.
 They may determine whether families keep their health coverage, whether hospitals face increasing uncompensated care costs, and whether patients delay seeking medical care because they fear they cannot afford it.
 As a hospital chaplain, I have seen the consequences of delayed medical care.
 Sometimes those consequences cannot be reversed.
 That is why The Healthcare Forum exists—to bring together patients, healthcare professionals, caregivers, business leaders, policymakers, and members of the public to better understand these changes, discuss practical solutions, and help ensure voters are informed before they cast their ballots.
 Healthcare Forum is an ongoing online discussion hosted by Steven St John, hospital chaplain.
-- Patients
-- Family caregivers
-- Physicians
-- Nurses
-- Hospital administrators
-- Hospital chaplains
-- EMTs and paramedics
-- Veterans
-- Seniors
-- Business leaders
-- Healthcare organizations
-- Policy experts
-- Community leaders
-- Members of the public
-Use the form below if you would like to attend, serve as a panelist, share your healthcare story, submit a question, or receive updates about upcoming online discussions.
-For questions about The Healthcare Forum, email:
-chaplainforcongress@gmail.com
+Who Is Invited?
+Patients Family caregivers Physicians Nurses Hospital administrators Hospital chaplains EMTs and paramedics Veterans Seniors Business leaders Healthcare organizations Policy experts Community leaders Members of the public Participate in The Healthcare Forum Use the form below if you would like to attend, serve as a panelist, share your healthcare story, submit a question, or receive updates about upcoming online discussions.
+Name Email Organization / Profession / Role (Optional) I would like to: Please select one Attend the forum Serve as a panelist Share my healthcare story Submit a question Receive updates Help organize the forum Comments / Questions / Healthcare Story Submit Contact For questions about The Healthcare Forum, email: chaplainforcongress@gmail.com Paid for by Steven St John for Congress ← Return to Home

@@ -1,20 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Clean+Up+Day%21&dates=20260404T200000Z%2F20260404T210000Z&location=945+Ave+D+NW%2C+Great+Falls%2C+MT%2C+59404%2C+United+States",
-"http://maps.google.com/?q=945+Ave+D+NW+Great+Falls%2C+MT%2C+59404+United+States",
-"https://bsky.app/profile/valyndaformt.bsky.social",
-"https://facebook.com/valyndaformt",
-"https://instagram.com/valyndaformt",
-"https://secure.actblue.com/donate/valyndaformt",
-"https://tiktok.com/@valyndaformt",
-"https://valyndaformt.com/",
-"https://valyndaformt.com/about",
-"https://valyndaformt.com/calendar",
-"https://valyndaformt.com/calendar/cascade-county-democrats-candidate-meet-greet",
-"https://valyndaformt.com/calendar/clean-up-day?format=ical",
-"https://valyndaformt.com/calendar/vivacity-leadership-alliance",
-"https://valyndaformt.com/cart",
-"https://valyndaformt.com/contact",
-"https://valyndaformt.com/endorsements",
-"https://x.com/valyndaformt",
-"https://youtube.com/@ValyndaforMT"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=945+ave+d+nw+great+falls%2C+mt%2C+59404+united+states"
+},
+{
+"text": "0",
+"href": "https://www.valyndaformt.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.valyndaformt.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.valyndaformt.com/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.valyndaformt.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.valyndaformt.com/contact"
+},
+{
+"text": "Donate To The Cause!",
+"href": "https://secure.actblue.com/donate/valyndaformt"
+},
+{
+"text": "Endorsements",
+"href": "https://www.valyndaformt.com/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Clean+Up+Day%21&dates=20260404T200000Z%2F20260404T210000Z&location=945+Ave+D+NW%2C+Great+Falls%2C+MT%2C+59404%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.valyndaformt.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.valyndaformt.com/calendar/clean-up-day?format=ical"
+},
+{
+"text": "Next Next April 12 Vivacity Leadership Alliance",
+"href": "https://www.valyndaformt.com/calendar/vivacity-leadership-alliance"
+},
+{
+"text": "Previous Previous March 31 Cascade County Democrats Candidate Meet & Greet",
+"href": "https://www.valyndaformt.com/calendar/cascade-county-democrats-candidate-meet-greet"
+},
+{
+"text": "[image: Valynda Holland for MT Senate District 11]",
+"href": "https://www.valyndaformt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/valyndaformt.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/valyndaformt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/valyndaformt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@valyndaformt"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ValyndaforMT"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/valyndaformt"
+}
 ]

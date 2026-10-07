@@ -1,40 +1,174 @@
 [
-"https://bsky.app/profile/joshsmead.bsky.social",
-"https://facebook.com/profile.php?id=61574602100872",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/smead_for_missouri",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress",
-"https://secure.actblue.com/donate/votesmead",
-"https://store.votesmead.com/",
-"https://threads.com/@smead_for_missouri",
-"https://tiktok.com/@josh.smead",
-"https://votesmead.com/",
-"https://votesmead.com/?post_type=tribe_events&eventDisplay=day&paged=2",
-"https://votesmead.com/event/1st-annual-tubesteak-fry",
-"https://votesmead.com/event/chariton-county-democrats-cake-auction",
-"https://votesmead.com/event/league-of-women-voters-candidate-zoom-forum",
-"https://votesmead.com/event/liberty-4th-of-july-parade",
-"https://votesmead.com/event/linn-county-farm-bureau-annual-meeting",
-"https://votesmead.com/event/marceline-4th-of-july-parade",
-"https://votesmead.com/event/rally-for-the-people-bethany-mo",
-"https://votesmead.com/event/richmond-candidate-forum",
-"https://votesmead.com/event/show-me-equality-hosted-by-the-northland-pride-network",
-"https://votesmead.com/event/spotlight-on-the-candidates",
-"https://votesmead.com/events",
-"https://votesmead.com/events/list",
-"https://votesmead.com/events/list/page/2",
-"https://votesmead.com/events/list/page/2?eventDisplay=past&ical=1",
-"https://votesmead.com/events/list/page/2?eventDisplay=past&outlook-ical=1",
-"https://votesmead.com/events/list/page/3?eventDisplay=past",
-"https://votesmead.com/events/list?eventDisplay=past",
-"https://votesmead.com/events/month",
-"https://votesmead.com/freedom",
-"https://votesmead.com/get-involved",
-"https://votesmead.com/media",
-"https://votesmead.com/meet-josh",
-"https://votesmead.com/privacy-policy",
-"https://votesmead.com/the-plan",
-"https://x.com/JoshSmead",
-"https://youtube.com/@JoshSmead"
+{
+"text": "#ago",
+"href": "https://votesmead.com/events/list/"
+},
+{
+"text": "1st Annual TubeSteak Fry",
+"href": "https://votesmead.com/event/1st-annual-tubesteak-fry/"
+},
+{
+"text": "Chariton County Democrats Cake Auction",
+"href": "https://votesmead.com/event/chariton-county-democrats-cake-auction/"
+},
+{
+"text": "Day",
+"href": "https://votesmead.com/?post_type=tribe_events&eventDisplay=day&paged=2"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesmead"
+},
+{
+"text": "Events",
+"href": "https://votesmead.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://votesmead.com/events/list/page/2/?eventDisplay=past&ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://votesmead.com/events/list/page/2/?eventDisplay=past&outlook-ical=1#038;ical=1"
+},
+{
+"text": "Get Involved",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Knox County Corn Festival",
+"href": "https://votesmead.com/event/knox-county-corn-festival/"
+},
+{
+"text": "League of Women Voters Candidate ZOOM Forum",
+"href": "https://votesmead.com/event/league-of-women-voters-candidate-zoom-forum/"
+},
+{
+"text": "Linn County Farm Bureau Annual Meeting",
+"href": "https://votesmead.com/event/linn-county-farm-bureau-annual-meeting/"
+},
+{
+"text": "List",
+"href": "https://votesmead.com/events/list/page/2/"
+},
+{
+"text": "Marceline 4th of July Parade",
+"href": "https://votesmead.com/event/marceline-4th-of-july-parade/"
+},
+{
+"text": "Media",
+"href": "https://votesmead.com/media/"
+},
+{
+"text": "Meet Josh",
+"href": "https://votesmead.com/meet-josh/"
+},
+{
+"text": "Month",
+"href": "https://votesmead.com/events/month/"
+},
+{
+"text": "Next Events",
+"href": "https://votesmead.com/events/list/?eventDisplay=past"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress"
+},
+{
+"text": "Previous Events",
+"href": "https://votesmead.com/events/list/page/3/?eventDisplay=past"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votesmead.com/privacy-policy/"
+},
+{
+"text": "Rally for the People- Bethany MO",
+"href": "https://votesmead.com/event/rally-for-the-people-bethany-mo/"
+},
+{
+"text": "Richmond Candidate Forum",
+"href": "https://votesmead.com/event/richmond-candidate-forum/"
+},
+{
+"text": "Show Me Equality: Hosted by the Northland PRIDE Network",
+"href": "https://votesmead.com/event/show-me-equality-hosted-by-the-northland-pride-network/"
+},
+{
+"text": "Spotlight on the Candidates",
+"href": "https://votesmead.com/event/spotlight-on-the-candidates/"
+},
+{
+"text": "Store",
+"href": "https://store.votesmead.com/"
+},
+{
+"text": "The Plan",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "The Platform",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "Volunteer",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "What Freedom Means",
+"href": "https://votesmead.com/freedom/"
+},
+{
+"text": "[image: Josh Smead for Congress]",
+"href": "https://votesmead.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joshsmead.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61574602100872"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/smead_for_missouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@smead_for_missouri"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@josh.smead"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JoshSmead"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JoshSmead"
+},
+{
+"text": "[tooltip: Next Events]",
+"href": "https://votesmead.com/events/list/?eventDisplay=past"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://votesmead.com/events/list/page/3/?eventDisplay=past"
+},
+{
+"text": "iCalendar",
+"href": "webcal://votesmead.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

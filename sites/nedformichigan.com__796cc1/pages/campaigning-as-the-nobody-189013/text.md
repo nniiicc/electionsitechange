@@ -1,4 +1,4 @@
-I chose the title “Campaigning as the Nobody” not because I doubt my leadership but because it captures a truth.
+Skip to content Meet Ned Core Beliefs Get Involved Blog & News Events Meet Ned Core Beliefs Get Involved Blog & News Events Donate Campaigning as the Nobody Campaigning as the Nobody August 13, 2025 I chose the title “Campaigning as the Nobody” not because I doubt my leadership but because it captures a truth.
 I am someone with no political pedigree and no insider connections.
 From that vantage point, I have become even more certain that Michigan, perhaps now more than ever.. needs true representation rooted in the everyday experiences of working families and the communities we live in.
 In District 66, Republicans act as though they have the seat locked in permanently.
@@ -43,3 +43,8 @@ I am running to bring a voice anchored in the values of working class Michigan.
 I believe in common sense leadership that focuses on real problems like the cost of living, healthcare, housing, education, and defending our state from overreach that would strip away our rights.
 I know one person cannot change everything, but I also know that someone has to start.
 Someone has to step up and fight for representation that serves people instead of money.
+This Campaign is proudly endorsed by: For Our Future.
+For Our Families .
+For Michigan .
+Facebook Instagram Paid for by Ned Zimmer for House Representative P.O.
+Box 182 Oxford, MI 48371

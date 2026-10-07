@@ -1,20 +1,110 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSdVGsvuEAq_PpobE6-r3fLJaYcHKaw8S0oTNCPyDH41Q6-olA/viewform",
-"https://facebook.com/monicaforpa",
-"https://instagram.com/monicaforstaterep",
-"https://linkedin.com/in/monica-weninger-5666a358",
-"https://monicaforpa.com/",
-"https://monicaforpa.com/178th-district",
-"https://monicaforpa.com/about",
-"https://monicaforpa.com/endorsements",
-"https://monicaforpa.com/events",
-"https://monicaforpa.com/issues",
-"https://monicaforpa.com/priorities",
-"https://monicaforpa.com/volunteer",
-"https://secure.actblue.com/donate/monica-for-pa",
-"https://secure.actblue.com/donate/monica-for-pa?amount=100",
-"https://secure.actblue.com/donate/monica-for-pa?amount=25",
-"https://secure.actblue.com/donate/monica-for-pa?amount=250",
-"https://secure.actblue.com/donate/monica-for-pa?amount=50",
-"https://secure.actblue.com/donate/september-22"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/monica-for-pa?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/monica-for-pa?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/monica-for-pa?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/monica-for-pa?amount=50"
+},
+{
+"text": "178th District",
+"href": "https://monicaforpa.com/178th-district/"
+},
+{
+"text": "215-598-2613",
+"href": "tel:2155982613"
+},
+{
+"text": "About",
+"href": "https://monicaforpa.com/about/"
+},
+{
+"text": "About Monica",
+"href": "https://monicaforpa.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/monica-for-pa"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/monica-for-pa"
+},
+{
+"text": "Endorsements",
+"href": "https://monicaforpa.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://monicaforpa.com/events/"
+},
+{
+"text": "Explore the district",
+"href": "https://monicaforpa.com/178th-district/"
+},
+{
+"text": "Home",
+"href": "https://monicaforpa.com/"
+},
+{
+"text": "Issues",
+"href": "https://monicaforpa.com/issues/"
+},
+{
+"text": "Join Team Monica →",
+"href": "https://monicaforpa.com/volunteer/"
+},
+{
+"text": "Learn More About Monica",
+"href": "https://monicaforpa.com/about/"
+},
+{
+"text": "Monica Weninger for PA",
+"href": "https://monicaforpa.com"
+},
+{
+"text": "Monica WeningerPA House · District 178",
+"href": "https://monicaforpa.com/"
+},
+{
+"text": "Priorities",
+"href": "https://monicaforpa.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdVGsvuEAq_PpobE6-r3fLJaYcHKaw8S0oTNCPyDH41Q6-olA/viewform"
+},
+{
+"text": "Volunteer",
+"href": "https://monicaforpa.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/september-22"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/monicaforpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/monicaforstaterep"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/monica-weninger-5666a358/"
+},
+{
+"text": "info@monicaforpa.com",
+"href": "mailto:info@monicaforpa.com"
+}
 ]

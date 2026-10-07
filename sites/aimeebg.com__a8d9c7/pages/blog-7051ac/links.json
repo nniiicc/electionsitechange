@@ -1,11 +1,90 @@
 [
-"https://aimeebg.com/",
-"https://aimeebg.com/blog",
-"https://aimeebg.com/blog/ask-me-at-your-door",
-"https://aimeebg.com/blog/eversource-rate-hike",
-"https://aimeebg.com/blog/my-250-cents",
-"https://aimeebg.com/blog/people-with-disabilities-belong",
-"https://facebook.com/Aimee4Ridgefield",
-"https://instagram.com/aimeebg2026",
-"https://tiktok.com/@aimeebergergirvaloct"
+{
+"text": "About",
+"href": "https://aimeebg.com/#about"
+},
+{
+"text": "About Aimee",
+"href": "https://aimeebg.com/#about"
+},
+{
+"text": "Aimee Berger-Girvalo State Representative · 111th District",
+"href": "https://aimeebg.com/"
+},
+{
+"text": "Ask Aimee",
+"href": "https://aimeebg.com/#issues"
+},
+{
+"text": "Contact Aimee",
+"href": "mailto:aimee@aimeebg.com"
+},
+{
+"text": "Contact the Campaign",
+"href": "mailto:campaign@aimeebg.com"
+},
+{
+"text": "Get Involved",
+"href": "https://aimeebg.com/#involved"
+},
+{
+"text": "Her Record",
+"href": "https://aimeebg.com/#record"
+},
+{
+"text": "My 250 Cents",
+"href": "https://aimeebg.com/blog/my-250-cents/"
+},
+{
+"text": "People with Disabilities Belong in Their Communities",
+"href": "https://aimeebg.com/blog/people-with-disabilities-belong/"
+},
+{
+"text": "Read the full post →",
+"href": "https://aimeebg.com/blog/ask-me-at-your-door/"
+},
+{
+"text": "Read the full post →",
+"href": "https://aimeebg.com/blog/eversource-rate-hike/"
+},
+{
+"text": "Read the full post →",
+"href": "https://aimeebg.com/blog/my-250-cents/"
+},
+{
+"text": "Read the full post →",
+"href": "https://aimeebg.com/blog/people-with-disabilities-belong/"
+},
+{
+"text": "Record",
+"href": "https://aimeebg.com/#record"
+},
+{
+"text": "Standing Against the Eversource Rate Hike",
+"href": "https://aimeebg.com/blog/eversource-rate-hike/"
+},
+{
+"text": "Volunteer",
+"href": "https://aimeebg.com/#involved"
+},
+{
+"text": "What I Hope You’ll Ask Me at Your Door",
+"href": "https://aimeebg.com/blog/ask-me-at-your-door/"
+},
+{
+"text": "What Matters to Ridgefield",
+"href": "https://aimeebg.com/blog/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Aimee4Ridgefield"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/aimeebg2026"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@aimeebergergirvaloct"
+}
 ]

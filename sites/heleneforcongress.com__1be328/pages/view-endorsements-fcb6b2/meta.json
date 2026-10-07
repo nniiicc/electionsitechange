@@ -1,7 +1,11 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.heleneforcongress.com/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "19f5676c82fd686e2408f1d953bc2b51ce351905",
+ "format": 3,
+ "paid_for_by": "",
  "title": "View Endorsements",
- "years_mentioned": []
+ "years_mentioned": [
+  "2008"
+ ]
 }

@@ -1,17 +1,74 @@
 [
-"http://google.com/url?q=http%3A%2F%2Fwww.scanlonforrep.com&sa=D&sntz=1&usg=AOvVaw2zMsPI73oSev4Di_X04249",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fthe-committee-to-elect-adam-scanlon-1%3Ffbclid%3DIwAR3fBXnnEVxrf3ZF_1myECFQphzO0pV6xfAPDv9ZzLMlOOysk3JL6RrOosA%23&sa=D&sntz=1&usg=AOvVaw0lS-4yGgsGj8wHwcBsuJJP",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fthe-committee-to-elect-adam-scanlon-1%3Ffbclid%3DIwAR3fBXnnEVxrf3ZF_1myECFQphzO0pV6xfAPDv9ZzLMlOOysk3JL6RrOosA&sa=D&sntz=1&usg=AOvVaw2re_wQ9GznU6XWMaq8zYxm",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fadamscanlonstaterep%2F&sa=D&sntz=1&usg=AOvVaw37MfUkofhnEC2DfUxlWj8W",
-"https://google.com/url?q=https%3A%2F%2Fwww.officeofrepscanlon.com%2F&sa=D&sntz=1&usg=AOvVaw3oeeQpZdVxfrFCt4bQcdFQ",
-"https://google.com/url?q=https%3A%2F%2Fwww.scanlonforstaterepma.com%2Fprivacy-policy&sa=D&sntz=1&usg=AOvVaw2FBPt24niL_zyfkPGC9UKW",
-"https://scanlonforrep.com/home",
-"https://scanlonforrep.com/issues",
-"https://scanlonforrep.com/issues/economic-development",
-"https://scanlonforrep.com/issues/education",
-"https://scanlonforrep.com/issues/environment",
-"https://scanlonforrep.com/issues/healthcare",
-"https://scanlonforrep.com/issues/public-safety",
-"https://scanlonforrep.com/issues/seniors-and-veterans",
-"https://scanlonforrep.com/meet-adam"
+{
+"text": "DONATE",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fthe-committee-to-elect-adam-scanlon-1%3Ffbclid%3DIwAR3fBXnnEVxrf3ZF_1myECFQphzO0pV6xfAPDv9ZzLMlOOysk3JL6RrOosA&sa=D&sntz=1&usg=AOvVaw2re_wQ9GznU6XWMaq8zYxm"
+},
+{
+"text": "DONATE NOW",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fthe-committee-to-elect-adam-scanlon-1%3Ffbclid%3DIwAR3fBXnnEVxrf3ZF_1myECFQphzO0pV6xfAPDv9ZzLMlOOysk3JL6RrOosA%23&sa=D&sntz=1&usg=AOvVaw0lS-4yGgsGj8wHwcBsuJJP"
+},
+{
+"text": "Economic Development",
+"href": "https://www.scanlonforrep.com/issues/economic-development"
+},
+{
+"text": "Education",
+"href": "https://www.scanlonforrep.com/issues/education"
+},
+{
+"text": "Environment",
+"href": "https://www.scanlonforrep.com/issues/environment"
+},
+{
+"text": "HOME",
+"href": "https://www.scanlonforrep.com/home"
+},
+{
+"text": "Healthcare",
+"href": "https://www.scanlonforrep.com/issues/healthcare"
+},
+{
+"text": "ISSUES",
+"href": "https://www.scanlonforrep.com/issues"
+},
+{
+"text": "MEET ADAM",
+"href": "https://www.scanlonforrep.com/meet-adam"
+},
+{
+"text": "PRIVACY",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.scanlonforstaterepma.com%2Fprivacy-policy&sa=D&sntz=1&usg=AOvVaw2FBPt24niL_zyfkPGC9UKW"
+},
+{
+"text": "Public Safety",
+"href": "https://www.scanlonforrep.com/issues/public-safety"
+},
+{
+"text": "Seniors and Veterans",
+"href": "https://www.scanlonforrep.com/issues/seniors-and-veterans"
+},
+{
+"text": "Visit officeofrepscanlon",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.officeofrepscanlon.com%2F&sa=D&sntz=1&usg=AOvVaw3oeeQpZdVxfrFCt4bQcdFQ"
+},
+{
+"text": "[image]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Fwww.scanlonforrep.com&sa=D&sntz=1&usg=AOvVaw2zMsPI73oSev4Di_X04249"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fadamscanlonstaterep%2F&sa=D&sntz=1&usg=AOvVaw37MfUkofhnEC2DfUxlWj8W"
+},
+{
+"text": "[image]",
+"href": "https://www.scanlonforrep.com/home"
+},
+{
+"text": "[image]",
+"href": "https://www.scanlonforrep.com/meet-adam"
+},
+{
+"text": "adam.scanlon@scanlonforstaterepma.com",
+"href": "mailto:adam.scanlon@scanlonforstaterepma.com"
+}
 ]

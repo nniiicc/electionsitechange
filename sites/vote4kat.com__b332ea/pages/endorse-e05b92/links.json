@@ -1,15 +1,62 @@
 [
-"https://facebook.com/profile.php?id=61587871981297",
-"https://instagram.com/electkat",
-"https://secure.actblue.com/donate/vote4kat",
-"https://tiktok.com/",
-"https://vote4kat.com/",
-"https://vote4kat.com/about-katherine",
-"https://vote4kat.com/c/cart",
-"https://vote4kat.com/dts-voters",
-"https://vote4kat.com/endorse",
-"https://vote4kat.com/media",
-"https://vote4kat.com/no-fossil-fuel-pledge",
-"https://vote4kat.com/priorities-copy",
-"https://vote4kat.com/weekends"
+{
+"text": "About",
+"href": "https://www.vote4kat.com/about-katherine"
+},
+{
+"text": "Decline-To-State Voters",
+"href": "https://www.vote4kat.com/dts-voters"
+},
+{
+"text": "Donate Via ActBlue",
+"href": "https://secure.actblue.com/donate/vote4kat"
+},
+{
+"text": "Endorsements",
+"href": "https://www.vote4kat.com/endorse"
+},
+{
+"text": "Home",
+"href": "https://www.vote4kat.com/"
+},
+{
+"text": "Media",
+"href": "https://www.vote4kat.com/media"
+},
+{
+"text": "No Fossil Fuel Pledge",
+"href": "https://www.vote4kat.com/no-fossil-fuel-pledge"
+},
+{
+"text": "Priorities",
+"href": "https://www.vote4kat.com/priorities-copy"
+},
+{
+"text": "[image] [image]",
+"href": "https://www.vote4kat.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587871981297"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electkat"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.vote4kat.com/c/cart"
+},
+{
+"text": "[no text]",
+"href": "mailto:katherine@vote4kat.com"
+},
+{
+"text": "[no text]",
+"href": "tel:5053025050"
+}
 ]

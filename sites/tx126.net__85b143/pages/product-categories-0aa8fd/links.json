@@ -1,15 +1,58 @@
 [
-"https://tx126.net/",
-"https://tx126.net/cart",
-"https://tx126.net/my-account/lost-password",
-"https://tx126.net/product-categories",
-"https://tx126.net/product-category/general-donation",
-"https://tx126.net/product-category/outreach",
-"https://tx126.net/product-category/uncategorized",
-"https://tx126.net/product/706",
-"https://tx126.net/product/business-cards-outreach",
-"https://tx126.net/product/door",
-"https://tx126.net/product/yardsign",
-"https://tx126.net/register",
-"https://tx126.net/shop"
+{
+"text": "All products",
+"href": "https://www.tx126.net/shop/"
+},
+{
+"text": "Categories",
+"href": "https://www.tx126.net/product-categories/"
+},
+{
+"text": "Create an account",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "Lost Password?",
+"href": "https://www.tx126.net/my-account/lost-password/"
+},
+{
+"text": "Register",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "[image: Business Cards] Business Cards",
+"href": "https://www.tx126.net/product/business-cards-outreach/"
+},
+{
+"text": "[image: Campaign Donation] Campaign Donation",
+"href": "https://www.tx126.net/product/706/"
+},
+{
+"text": "[image: Door Hanger] Door Hanger",
+"href": "https://www.tx126.net/product/door/"
+},
+{
+"text": "[image: General Donation] General Donation (1)",
+"href": "https://www.tx126.net/product-category/general-donation/"
+},
+{
+"text": "[image: Lisa for TX 126]",
+"href": "https://www.tx126.net/"
+},
+{
+"text": "[image: Outreach] Outreach (1)",
+"href": "https://www.tx126.net/product-category/outreach/"
+},
+{
+"text": "[image: Uncategorized] Uncategorized (2)",
+"href": "https://www.tx126.net/product-category/uncategorized/"
+},
+{
+"text": "[image: Yard Sign] Yard Sign",
+"href": "https://www.tx126.net/product/yardsign/"
+},
+{
+"text": "[tooltip: View Cart]",
+"href": "https://www.tx126.net/cart/"
+}
 ]

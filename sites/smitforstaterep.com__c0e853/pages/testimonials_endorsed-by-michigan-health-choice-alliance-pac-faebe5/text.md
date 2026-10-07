@@ -1,3 +1,4 @@
-Endorsed by Michigan Health Choice Alliance PAC
-“The Michigan Health Choice Alliance (MHCA) is dedicated to protecting freedom.
-We do this by ensuring that the value of health choice remains at the forefront of political discourse, drafting informed choice and health choice legislation, and promoting both candidates and incumbents who strongly support our values.”
+Home Meet Rachelle Priorities Endorsements Press Merch Get Involved District Map Yard Signs Contact Endorsed by Michigan Health Choice Alliance PAC Home / Testimonials / Endorsed by Michigan Health Choice Alliance PAC Endorsed by Michigan Health Choice Alliance PAC “The Michigan Health Choice Alliance (MHCA) is dedicated to protecting freedom.
+We do this by ensuring that the value of health choice remains at the forefront of political discourse, drafting informed choice and health choice legislation, and promoting both candidates and incumbents who strongly support our values.” Elect Rachelle Smit – 43rd District P.O.
+Box 124, Shelbyville, Michigan 49344 | Phone: | E-mail: rachelle@smitforstaterep.com Paid for by the Committee to Elect Rachelle Smit for State Representative Copyright © # Committee to Elect Rachelle Smit for State Representative.
+All Rights Reserved.

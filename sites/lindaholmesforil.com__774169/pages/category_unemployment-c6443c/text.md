@@ -1,3 +1,2 @@
-Unemployment
-Holmes’ unemployment security reforms pass the Illinois Senate, addressing flaws after claims skyrocketed during pandemic
-SPRINGFIELD – After an unprecedented 14 months for the Illinois Department of Employment Security with thousands of residents out of work due to the COVID-19 pandemic,
+Skip to content Home About Issues Accomplishments News Contact Menu Home About Issues Accomplishments News Contact contribute Category: Unemployment Unemployment Holmes’ unemployment security reforms pass the Illinois Senate, addressing flaws after claims skyrocketed during pandemic SPRINGFIELD – After an unprecedented 14 months for the Illinois Department of Employment Security with thousands of residents out of work due to the COVID-19 pandemic, Read More » June 28, 2021 No Comments Sign up for updates Name Email Sign Up Paid for by citizens for Linda holmes P.O.
+Box 6374 | Aurora, IL 60598 Facebook Linkedin

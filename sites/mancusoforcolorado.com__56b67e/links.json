@@ -1,8 +1,38 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://mancusoforcolorado.com/",
-"https://mancusoforcolorado.com/about-us",
-"https://mancusoforcolorado.com/privacy-policy",
-"https://secure.anedot.com/mancuso-for-colorado-sd20/donate"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/mancuso-for-colorado-sd20/donate"
+},
+{
+"text": "Events",
+"href": "https://www.mancusoforcolorado.com/about-us"
+},
+{
+"text": "Home",
+"href": "https://www.mancusoforcolorado.com"
+},
+{
+"text": "Paid for by Mancuso for Colorado, Registered Agent Marge Klein",
+"href": "https://www.mancusoforcolorado.com/privacy-policy"
+},
+{
+"text": "R. Mancuso",
+"href": "https://www.mancusoforcolorado.com"
+},
+{
+"text": "Rich Mancuso",
+"href": "https://www.mancusoforcolorado.com"
+},
+{
+"text": "Rich@MancusoForColorado.com",
+"href": "mailto:Rich@MancusoForColorado.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+}
 ]

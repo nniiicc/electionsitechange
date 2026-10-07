@@ -1,12 +1,54 @@
 [
-"http://susandoman.com/",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61590210223123",
-"https://susandoman.com/",
-"https://susandoman.com/_sites/www.susandoman.com/privacy-policy",
-"https://susandoman.com/about",
-"https://susandoman.com/contact",
-"https://susandoman.com/endorsements",
-"https://susandoman.com/issues",
-"https://susandoman.com/volunteer"
+{
+"text": "About",
+"href": "https://www.susandoman.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.susandoman.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.susandoman.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.susandoman.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.susandoman.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "SusanDomanForKY@gmail.com",
+"href": "mailto:SusanDomanForKY@gmail.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.susandoman.com/volunteer"
+},
+{
+"text": "Your Privacy Is Important",
+"href": "https://www.susandoman.com/_sites/www.susandoman.com/privacy-policy"
+},
+{
+"text": "[image: Susan Doman logo]",
+"href": "https://www.susandoman.com/"
+},
+{
+"text": "[image: Susan Doman]",
+"href": "https://www.susandoman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61590210223123"
+},
+{
+"text": "www.susandoman.com",
+"href": "http://www.susandoman.com"
+}
 ]

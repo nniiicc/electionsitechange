@@ -1,24 +1,90 @@
 [
-"https://governorgotra.com/",
-"https://governorgotra.com/Dashboard",
-"https://governorgotra.com/Vault",
-"https://governorgotra.com/Volunteers",
-"https://governorgotra.com/about",
-"https://governorgotra.com/brochure",
-"https://governorgotra.com/christchurchevent",
-"https://governorgotra.com/contribute",
-"https://governorgotra.com/eventmedia",
-"https://governorgotra.com/events",
-"https://governorgotra.com/events/kickoff-warwick",
-"https://governorgotra.com/live",
-"https://governorgotra.com/news",
-"https://governorgotra.com/policies",
-"https://governorgotra.com/press",
-"https://governorgotra.com/privacy-policy",
-"https://governorgotra.com/terms",
-"https://governorgotra.com/terms-of-service",
-"https://governorgotra.com/thank-you",
-"https://governorgotra.com/unsubscribe",
-"https://governorgotra.com/volunteer",
-"https://governorgotra.com/yourvoice"
+{
+"text": "About",
+"href": "https://governorgotra.com/about"
+},
+{
+"text": "Brochure Page",
+"href": "https://governorgotra.com/brochure"
+},
+{
+"text": "Campaign Dashboard",
+"href": "https://governorgotra.com/Dashboard"
+},
+{
+"text": "Campaign Vault",
+"href": "https://governorgotra.com/Vault"
+},
+{
+"text": "Campaign Volunteers",
+"href": "https://governorgotra.com/Volunteers"
+},
+{
+"text": "Christchurch Event",
+"href": "https://governorgotra.com/christchurchevent"
+},
+{
+"text": "Community Voice",
+"href": "https://governorgotra.com/yourvoice"
+},
+{
+"text": "Contribute Page",
+"href": "https://governorgotra.com/contribute"
+},
+{
+"text": "Event Kickoff Warwick",
+"href": "https://governorgotra.com/events/kickoff-warwick"
+},
+{
+"text": "Event Media Upload",
+"href": "https://governorgotra.com/eventmedia"
+},
+{
+"text": "Events Public Page",
+"href": "https://governorgotra.com/events"
+},
+{
+"text": "Live",
+"href": "https://governorgotra.com/live"
+},
+{
+"text": "Policies",
+"href": "https://governorgotra.com/policies"
+},
+{
+"text": "Press Kit",
+"href": "https://governorgotra.com/press"
+},
+{
+"text": "Press Page",
+"href": "https://governorgotra.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://governorgotra.com/privacy-policy"
+},
+{
+"text": "Public Home Page",
+"href": "https://governorgotra.com/"
+},
+{
+"text": "Terms And Conditions",
+"href": "https://governorgotra.com/terms"
+},
+{
+"text": "Terms Of Service",
+"href": "https://governorgotra.com/terms-of-service"
+},
+{
+"text": "Thank You Page",
+"href": "https://governorgotra.com/thank-you"
+},
+{
+"text": "Unsubscribe",
+"href": "https://governorgotra.com/unsubscribe"
+},
+{
+"text": "Volunteer Page",
+"href": "https://governorgotra.com/volunteer"
+}
 ]

@@ -1,11 +1,13 @@
 {
  "description": "",
  "final_url": "https://joncardin.com/accomplishments",
- "paid_for_by": null,
+ "fingerprint": "e122b5754d15be4b7c2698304435f3bbf3dbfde3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Accomplishments | Jon Cardin",
  "years_mentioned": [
+  "2007",
   "2013",
-  "2020",
   "2023"
  ]
 }

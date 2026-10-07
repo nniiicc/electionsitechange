@@ -1,9 +1,34 @@
 [
-"https://facebook.com/TimWilk4CT",
-"https://instagram.com/timwilk4ct",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://timwilk4ct.com/",
-"https://timwilk4ct.com/contact",
-"https://timwilk4ct.com/privacy-policy"
+{
+"text": "Contact",
+"href": "https://timwilk4ct.com/contact"
+},
+{
+"text": "Home",
+"href": "https://timwilk4ct.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://timwilk4ct.com/privacy-policy"
+},
+{
+"text": "Privacy Policy & Terms of Use",
+"href": "https://timwilk4ct.com/privacy-policy#8b1004e9-dbce-4023-a881-3602a9d38173"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TimWilk4CT"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/timwilk4ct"
+}
 ]

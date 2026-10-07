@@ -1,25 +1,106 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260926T150000Z%2F20260926T160000Z&location=2811+58th+Street%2C+Lubbock%2C+Texas%2C+79413%2C+United+States",
-"http://maps.google.com/?q=2811+58th+Street+Lubbock%2C+Texas%2C+79413+United+States",
-"https://bsky.app/profile/rablekyle.bsky.social",
-"https://facebook.com/profile.php?id=61574961930745",
-"https://instagram.com/rableforwesttexas",
-"https://mobilize.us/texasdemocrats/event/1018388",
-"https://rableforwesttexas.com/",
-"https://rableforwesttexas.com/about",
-"https://rableforwesttexas.com/cart",
-"https://rableforwesttexas.com/contact",
-"https://rableforwesttexas.com/donate",
-"https://rableforwesttexas.com/endorsements",
-"https://rableforwesttexas.com/events",
-"https://rableforwesttexas.com/events/cjpwm9w9zf4xgbzlsmfcrkxy8y7x3l?format=ical",
-"https://rableforwesttexas.com/events/lbk-phone-bank-1",
-"https://rableforwesttexas.com/events/rable-phone-banking-3",
-"https://rableforwesttexas.com/get-involved",
-"https://rableforwesttexas.com/issues",
-"https://rableforwesttexas.com/privacypolicy",
-"https://rableforwesttexas.com/termsandconditions",
-"https://store.rableforwesttexas.com/",
-"https://tiktok.com/@rableforwesttexas",
-"https://x.com/RableKyle"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2811+58th+street+lubbock%2C+texas%2C+79413+united+states"
+},
+{
+"text": "0",
+"href": "https://www.rableforwesttexas.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.rableforwesttexas.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.rableforwesttexas.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.rableforwesttexas.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.rableforwesttexas.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rableforwesttexas.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.rableforwesttexas.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.rableforwesttexas.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260926T150000Z%2F20260926T160000Z&location=2811+58th+Street%2C+Lubbock%2C+Texas%2C+79413%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/cjpwm9w9zf4xgbzlsmfcrkxy8y7x3l?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.rableforwesttexas.com/issues"
+},
+{
+"text": "Next Next September 26 LBK Phone Bank",
+"href": "https://www.rableforwesttexas.com/events/lbk-phone-bank-1"
+},
+{
+"text": "Previous Previous September 24 Rable Phone Banking",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking-3"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rableforwesttexas.com/privacypolicy"
+},
+{
+"text": "Shop",
+"href": "https://store.rableforwesttexas.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.rableforwesttexas.com/termsandconditions"
+},
+{
+"text": "[image: Kyle Rable Democrat For Congress]",
+"href": "https://www.rableforwesttexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/rablekyle.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61574961930745"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rableforwesttexas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@rableforwesttexas"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/RableKyle"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@rableforwesttexas.com"
+},
+{
+"text": "campaign@rableforwesttexas.com",
+"href": "mailto:campaign@rableforwesttexas.com"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1018388/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1018388/"
+}
 ]

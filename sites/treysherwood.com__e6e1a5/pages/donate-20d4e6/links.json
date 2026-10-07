@@ -1,16 +1,66 @@
 [
-"http://squarespace.com/?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3",
-"https://facebook.com/reptreysherwood",
-"https://instagram.com/electtreysherwood",
-"https://lightfolly.com/",
-"https://secure.actblue.com/donate/trey",
-"https://treysherwood.com/",
-"https://treysherwood.com/contact",
-"https://treysherwood.com/donate",
-"https://treysherwood.com/mascot",
-"https://treysherwood.com/platfom",
-"https://treysherwood.com/record",
-"https://treysherwood.com/search",
-"https://treysherwood.com/volunteer",
-"https://treysherwood.com/vote"
+{
+"text": "Contact",
+"href": "https://treysherwood.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/trey"
+},
+{
+"text": "Donate",
+"href": "https://treysherwood.com/donate"
+},
+{
+"text": "Home",
+"href": "https://treysherwood.com/"
+},
+{
+"text": "I Believe",
+"href": "https://treysherwood.com/platfom"
+},
+{
+"text": "Lightfolly",
+"href": "https://www.lightfolly.com"
+},
+{
+"text": "Mascot",
+"href": "https://treysherwood.com/mascot"
+},
+{
+"text": "Record",
+"href": "https://treysherwood.com/record"
+},
+{
+"text": "SQUARESPACE",
+"href": "http://www.squarespace.com?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3"
+},
+{
+"text": "Volunteer",
+"href": "https://treysherwood.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://treysherwood.com/vote"
+},
+{
+"text": "[image: Trey Sherwood]",
+"href": "https://treysherwood.com/"
+},
+{
+"text": "[no text]",
+"href": "https://treysherwood.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/reptreysherwood/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electtreysherwood/"
+},
+{
+"text": "[no text]",
+"href": "mailto:treysherwood@gmail.com"
+}
 ]

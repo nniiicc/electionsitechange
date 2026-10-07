@@ -1,8 +1,3 @@
-RUNNING FOR HOUSE DISTRICT 18 IN NORTH ANCHORAGE
-Resources
-Revenue
-Responsibility
-Bringing new energy and a fresh perspective
-Meet Dan
-Dan and Claire live in Government Hill and just welcomed their first child, Liberty in May.
+0 Skip to Content Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate RUNNING FOR HOUSE DISTRICT 18 IN NORTH ANCHORAGE Resources Revenue Responsibility Bringing new energy and a fresh perspective Meet Dan Dan and Claire live in Government Hill and just welcomed their first child, Liberty in May.
 Claire works as a mental health professional and Dan works in the building materials industry and manages their rental properties.
+Why I’m Running Voting Information Register To Vote Vote Absentee Find Your Polling Place Contact dan@sagerforalaska.com (907) 201-8816 Paid for by Dan Sager for Alaska 233 ½ E Manor Ave, Anchorage, AK 99501 Made with Squarespace

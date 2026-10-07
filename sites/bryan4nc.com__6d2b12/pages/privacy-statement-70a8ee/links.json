@@ -1,9 +1,38 @@
 [
-"https://bryan4nc.com/",
-"https://bryan4nc.com/blog",
-"https://bryan4nc.com/meet-bryan",
-"https://bryan4nc.com/priorities",
-"https://bryan4nc.com/privacy-statement",
-"https://bryan4nc.com/volunteer",
-"https://secure.actblue.com/donate/bcweb32"
+{
+"text": "CONTACT THE CAMPAIGN",
+"href": "mailto:team@bryan4nc.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bcweb32"
+},
+{
+"text": "Home",
+"href": "https://www.bryan4nc.com"
+},
+{
+"text": "Meet Bryan",
+"href": "https://www.bryan4nc.com/meet-bryan"
+},
+{
+"text": "News",
+"href": "https://www.bryan4nc.com/blog"
+},
+{
+"text": "Priorities",
+"href": "https://www.bryan4nc.com/priorities"
+},
+{
+"text": "Privacy Statement",
+"href": "https://www.bryan4nc.com/privacy-statement"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bryan4nc.com/volunteer"
+},
+{
+"text": "jeremy@bryanfornc.com",
+"href": "mailto:jeremy@bryanfornc.com"
+}
 ]

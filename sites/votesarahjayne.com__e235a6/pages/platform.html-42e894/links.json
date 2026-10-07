@@ -1,9 +1,34 @@
 [
-"https://secure.actblue.com/donate/votesarahjayne",
-"https://votesarahjayne.com/",
-"https://votesarahjayne.com/_blank",
-"https://votesarahjayne.com/about-me.html",
-"https://votesarahjayne.com/join-team-sjdv.html",
-"https://votesarahjayne.com/platform.html",
-"https://votesarahjayne.com/where-to-find-me.html"
+{
+"text": "About Me",
+"href": "https://www.votesarahjayne.com/about-me.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesarahjayne"
+},
+{
+"text": "Home",
+"href": "https://www.votesarahjayne.com/"
+},
+{
+"text": "Join Team SJDV!",
+"href": "https://www.votesarahjayne.com/join-team-sjdv.html"
+},
+{
+"text": "MEET SARAH JAYNE",
+"href": "https://www.votesarahjayne.com/"
+},
+{
+"text": "Platform",
+"href": "https://www.votesarahjayne.com/platform.html"
+},
+{
+"text": "Weebly",
+"href": "https://www.weebly.com/"
+},
+{
+"text": "Where to Find Me",
+"href": "https://www.votesarahjayne.com/where-to-find-me.html"
+}
 ]

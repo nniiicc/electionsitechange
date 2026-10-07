@@ -1,4 +1,4 @@
-A lifelong resident of Amsterdam, Paul has served as a progressive champion in the U.S.
+Home Meet Paul Issues Updates Volunteer card2025 CONTRIBUTE More Home Meet Paul Issues Updates Volunteer card2025 CONTRIBUTE Home Meet Paul Issues Updates Volunteer card2025 CONTRIBUTE Meet Paul A lifelong resident of Amsterdam, Paul has served as a progressive champion in the U.S.
 House of Representatives for the Capital Region since 2009.
 He is running for re-election to strengthen the voices of his constituents and all Americans who value good jobs, quality education, and economic and social justice.
 Paul studied at Clarkson University in Potsdam, where he earned a degree in Mechanical and Industrial Engineering.
@@ -6,8 +6,10 @@ As one of the few engineers in Congress, he takes a unique, measured and analyti
 It’s the same approach he took as the President and CEO of the New York State Energy Research and Development Authority (NYSERDA), as well as during his twenty-five years in the New York State Assembly.
 As a senior member on the House Committee on Energy and Commerce – and the Chairman of its subcommittee on the Environment and Climate Change – Paul continues to push for a clean energy economy that enhances public health and pioneers an emerging market for new jobs.
 He also serves on the House Science, Space and Technology Committee and on the House Committee on Natural Resources, positioning him as a leading architect of climate action in Congress.
-New York’s 20th Congressional District includes all of Albany and Schenectady Counties, and parts of Montgomery, Rensselaer, and Saratoga Counties.
+Learn More about NY20 New York’s 20th Congressional District includes all of Albany and Schenectady Counties, and parts of Montgomery, Rensselaer, and Saratoga Counties.
 The communities of Albany, Schenectady, Troy, Saratoga Springs, and Amsterdam all lie within the district’s boundaries.
-Copyright © 2021-2026 Paul Tonko for Congress - All Rights Reserved.
-911 Central Ave., #221 Albany, NY 12206
-info@paultonko.com | 518.217.2726
+Find out more Contribute to help advance Progressive values today!
+DONATE Among other issues, Paul's priorities include: Continuing to bring quality jobs to the Capital Region and providing the tools local businesses need A national clean energy policy that harnesses and encourages innovation; Strengthening health care and making the Affordable Care Act work for everyone; Investing in our infrastructure to upgrade our roads, bridge, pipes, and water systems; Getting big money out of politics; Fighting “alternative facts” & protecting truth and facts from political spin; Protecting and promoting our National Heritage Areas; Advancing STEM education and meeting the needs of future job markets, and; Ensuring equal access to the ballot box for all.
+Join TEAM TONKO and contribute!
+DONATE Connect with Paul on Social Media Copyright © #-# Paul Tonko for Congress - All Rights Reserved.
+911 Central Ave., #221 Albany, NY 12206 info@paultonko.com | 518.217.2726 Privacy Policy CONTRIBUTE

@@ -1,13 +1,98 @@
 [
-"https://chuckforhouse.com/",
-"https://chuckforhouse.com/about",
-"https://chuckforhouse.com/issues",
-"https://facebook.com/RepChuckEfstration",
-"https://secure.anedot.com/efstration-for-house/cfc86e1a-c40c-4985-80b6-11504b6f127f",
-"https://secure.anedot.com/efstration-for-house/cfc86e1a-c40c-4985-80b6-11504b6f127f?amount=100",
-"https://secure.anedot.com/efstration-for-house/cfc86e1a-c40c-4985-80b6-11504b6f127f?amount=200",
-"https://secure.anedot.com/efstration-for-house/cfc86e1a-c40c-4985-80b6-11504b6f127f?amount=25",
-"https://secure.anedot.com/efstration-for-house/cfc86e1a-c40c-4985-80b6-11504b6f127f?amount=50",
-"https://secure.anedot.com/efstration-for-house/cfc86e1a-c40c-4985-80b6-11504b6f127f?amount=500",
-"https://twitter.com/ChuckEfstration"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/efstration-for-house/cfc86e1a-c40c-4985-80b6-11504b6f127f?amount=100"
+},
+{
+"text": "$200",
+"href": "https://secure.anedot.com/efstration-for-house/cfc86e1a-c40c-4985-80b6-11504b6f127f?amount=200"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/efstration-for-house/cfc86e1a-c40c-4985-80b6-11504b6f127f?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/efstration-for-house/cfc86e1a-c40c-4985-80b6-11504b6f127f?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/efstration-for-house/cfc86e1a-c40c-4985-80b6-11504b6f127f?amount=500"
+},
+{
+"text": "ABOUT",
+"href": "https://www.chuckforhouse.com/about"
+},
+{
+"text": "Button",
+"href": "https://www.chuckforhouse.com/issues#Issue01"
+},
+{
+"text": "Button",
+"href": "https://www.chuckforhouse.com/issues#Issue02"
+},
+{
+"text": "Button",
+"href": "https://www.chuckforhouse.com/issues#Issue03"
+},
+{
+"text": "Button",
+"href": "https://www.chuckforhouse.com/issues#Issue04"
+},
+{
+"text": "CONTACT",
+"href": "https://www.chuckforhouse.com/#VOLUNTEER"
+},
+{
+"text": "DONATE →",
+"href": "https://secure.anedot.com/efstration-for-house/cfc86e1a-c40c-4985-80b6-11504b6f127f"
+},
+{
+"text": "HOME",
+"href": "https://www.chuckforhouse.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.chuckforhouse.com/issues"
+},
+{
+"text": "LEARN MORE →",
+"href": "https://www.chuckforhouse.com/about"
+},
+{
+"text": "OTHER →",
+"href": "https://secure.anedot.com/efstration-for-house/cfc86e1a-c40c-4985-80b6-11504b6f127f"
+},
+{
+"text": "SEE THEM ALL →",
+"href": "https://www.chuckforhouse.com/issues"
+},
+{
+"text": "[image]",
+"href": "https://www.chuckforhouse.com/issues#Issue01"
+},
+{
+"text": "[image]",
+"href": "https://www.chuckforhouse.com/issues#Issue02"
+},
+{
+"text": "[image]",
+"href": "https://www.chuckforhouse.com/issues#Issue03"
+},
+{
+"text": "[image]",
+"href": "https://www.chuckforhouse.com/issues#Issue04"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ChuckEfstration"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepChuckEfstration"
+},
+{
+"text": "chuckefstration@gmail.com",
+"href": "mailto:chuckefstration@gmail.com"
+}
 ]

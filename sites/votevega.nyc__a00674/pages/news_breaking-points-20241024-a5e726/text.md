@@ -1,3 +1,6 @@
-Jose Vega talks with Breaking Points about running as an Independent
-October 24, 2024
-Jose Vega talks about the necessity of a Cross-Bronx Expressway for the Bronx and as policy, running as an independent, and American statesmanship with James Li from Breaking Points.
+Skip to content Meet Jose Press News & Media Campaign Statements Events Policy A real medicare for all policy Make the Bronx the center for reindustrialization of the United States A robust immigration reform A revolutionary approach to foreign policy: Peace through Development All Policies Esp Donate Sign Up Jose Vega talks with Breaking Points about running as an Independent October 24, 2024 Jose Vega talks about the necessity of a Cross-Bronx Expressway for the Bronx and as policy, running as an independent, and American statesmanship with James Li from Breaking Points.
+Share This Article Share on X Share on Facebook Email Previous Article New Video: How Zelenskyy stopped worrying and learned to love ATACMS Next Article "No-Ball" Economist Paul Krugman Is A Liar –– The Economy Has Failed 80% of the People, So Let's Take A Different Path Back to All News Support Our Movement Your contribution powers real change in the Bronx.
+Every donation helps us fight for Medicare for All, reindustrialization, and peace through development.
+Donate Now Join Our Campaign Stay informed about our fight to transform the Bronx.
+Get updates on events, policy announcements, and campaign news.
+Join Now press@votevega.nyc Bronx, NY 10459 (800) 498-8561 Privacy Policy | Terms and Conditions | Paid for by Vega for Congress

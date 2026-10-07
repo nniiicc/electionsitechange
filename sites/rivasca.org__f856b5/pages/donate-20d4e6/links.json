@@ -1,27 +1,106 @@
 [
-"https://bsky.app/profile/caspeakerrivas.bsky.social",
-"https://facebook.com/assemblymemberrivas",
-"https://flickr.com/photos/155539210@N04",
-"https://instagram.com/robertrivas_ca",
-"https://rivasca.org/",
-"https://rivasca.org/accessibility",
-"https://rivasca.org/affordable-future",
-"https://rivasca.org/contact",
-"https://rivasca.org/disclaimer",
-"https://rivasca.org/donate",
-"https://rivasca.org/endorsements",
-"https://rivasca.org/getting-results",
-"https://rivasca.org/join-the-campaign",
-"https://rivasca.org/meet-robert",
-"https://rivasca.org/privacy-policy",
-"https://rivasca.org/shop",
-"https://secure.actblue.com/about",
-"https://secure.actblue.com/donate/robert-rivas-1",
-"https://secure.actblue.com/donate/robert-rivas-1?amount=100",
-"https://secure.actblue.com/donate/robert-rivas-1?amount=1000",
-"https://secure.actblue.com/donate/robert-rivas-1?amount=25",
-"https://secure.actblue.com/donate/robert-rivas-1?amount=2500",
-"https://secure.actblue.com/donate/robert-rivas-1?amount=50",
-"https://secure.actblue.com/donate/robert-rivas-1?amount=5900",
-"https://youtube.com/@RobertRivasCA"
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/robert-rivas-1?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/robert-rivas-1?amount=25"
+},
+{
+"text": "$2500",
+"href": "https://secure.actblue.com/donate/robert-rivas-1?amount=2500"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/robert-rivas-1?amount=50"
+},
+{
+"text": "$5900",
+"href": "https://secure.actblue.com/donate/robert-rivas-1?amount=5900"
+},
+{
+"text": "$99",
+"href": "https://secure.actblue.com/donate/robert-rivas-1?amount=100"
+},
+{
+"text": "$___",
+"href": "https://secure.actblue.com/donate/robert-rivas-1"
+},
+{
+"text": "Accessibility",
+"href": "https://rivasca.org/accessibility/"
+},
+{
+"text": "Affordable Future",
+"href": "https://rivasca.org/affordable-future/"
+},
+{
+"text": "Contact",
+"href": "https://rivasca.org/contact/"
+},
+{
+"text": "Disclaimer",
+"href": "https://rivasca.org/disclaimer/"
+},
+{
+"text": "Donate",
+"href": "https://rivasca.org/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://rivasca.org/endorsements/"
+},
+{
+"text": "Getting Results",
+"href": "https://rivasca.org/getting-results/"
+},
+{
+"text": "Home",
+"href": "https://rivasca.org/"
+},
+{
+"text": "Join the Campaign",
+"href": "https://rivasca.org/join-the-campaign/"
+},
+{
+"text": "Meet Robert",
+"href": "https://rivasca.org/meet-robert/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rivasca.org/privacy-policy/"
+},
+{
+"text": "Robert Rivas",
+"href": "https://rivasca.org"
+},
+{
+"text": "Shop",
+"href": "https://rivasca.org/shop/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/caspeakerrivas.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/photos/155539210@N04/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/assemblymemberrivas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/robertrivas_ca/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RobertRivasCA"
+},
+{
+"text": "here",
+"href": "https://secure.actblue.com/about"
+}
 ]

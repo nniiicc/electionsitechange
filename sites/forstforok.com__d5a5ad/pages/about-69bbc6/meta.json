@@ -1,7 +1,11 @@
 {
  "description": "Learn more about Aaron Forst and who he is as a person",
  "final_url": "https://www.forstforok.com/about",
- "paid_for_by": null,
+ "fingerprint": "ccbc2ca1f055842774df17c3d96bfb0506dee2a0",
+ "format": 3,
+ "paid_for_by": "authorized by Forst for OK Aaron@ForstForOK",
  "title": "Learn About Aaron | Aaron Forst For State Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2008"
+ ]
 }

@@ -1,32 +1,138 @@
 [
-"https://allisonrusso.com/",
-"https://allisonrusso.com/accessibility",
-"https://allisonrusso.com/endorsements",
-"https://allisonrusso.com/get-involved",
-"https://allisonrusso.com/how-to-vote",
-"https://allisonrusso.com/meet-allison",
-"https://allisonrusso.com/news",
-"https://allisonrusso.com/privacy-policy",
-"https://facebook.com/Russo4Ohio",
-"https://instagram.com/russo4ohio",
-"https://ohiosos.gov/directories/county-boards-of-elections",
-"https://ohiosos.gov/elections/register-to-vote",
-"https://ohiosos.gov/elections/voters",
-"https://ohiosos.gov/elections/voters/absentee-voting",
-"https://secure.actblue.com/donate/allison-russo-sos",
-"https://secure.actblue.com/donate/allison-russo-sos?amount=10",
-"https://secure.actblue.com/donate/allison-russo-sos?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/allison-russo-sos?amount=100",
-"https://secure.actblue.com/donate/allison-russo-sos?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/allison-russo-sos?amount=25",
-"https://secure.actblue.com/donate/allison-russo-sos?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/allison-russo-sos?amount=250",
-"https://secure.actblue.com/donate/allison-russo-sos?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/allison-russo-sos?amount=5&express_lane=true",
-"https://secure.actblue.com/donate/allison-russo-sos?amount=50",
-"https://secure.actblue.com/donate/allison-russo-sos?amount=50&express_lane=true",
-"https://secure.actblue.com/donate/allison-russo-sos?express_lane=true",
-"https://threads.com/@russo4ohio",
-"https://voterlookup.ohiosos.gov/",
-"https://x.com/Russo4Ohio"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/allison-russo-sos?amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/allison-russo-sos?amount=10&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/allison-russo-sos?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/allison-russo-sos?amount=100&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/allison-russo-sos?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/allison-russo-sos?amount=25&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/allison-russo-sos?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/allison-russo-sos?amount=250&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/allison-russo-sos?amount=5&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/allison-russo-sos?amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/allison-russo-sos?amount=50&express_lane=true"
+},
+{
+"text": "Accessibility",
+"href": "https://allisonrusso.com/accessibility/"
+},
+{
+"text": "Check Your Polling Location",
+"href": "https://voterlookup.ohiosos.gov/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/allison-russo-sos"
+},
+{
+"text": "Endorsements",
+"href": "https://allisonrusso.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Russo4Ohio/"
+},
+{
+"text": "Find Polling Location",
+"href": "https://voterlookup.ohiosos.gov/"
+},
+{
+"text": "Find Your County BOE",
+"href": "https://www.ohiosos.gov/directories/county-boards-of-elections"
+},
+{
+"text": "Get Involved",
+"href": "https://allisonrusso.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://allisonrusso.com/"
+},
+{
+"text": "How to Vote",
+"href": "https://allisonrusso.com/how-to-vote/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/russo4ohio"
+},
+{
+"text": "Meet Allison",
+"href": "https://allisonrusso.com/meet-allison/"
+},
+{
+"text": "News",
+"href": "https://allisonrusso.com/news/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/allison-russo-sos"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/allison-russo-sos?express_lane=true"
+},
+{
+"text": "Privacy Policy",
+"href": "https://allisonrusso.com/privacy-policy/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.ohiosos.gov/elections/register-to-vote"
+},
+{
+"text": "Request Ballot",
+"href": "https://www.ohiosos.gov/elections/voters/absentee-voting/"
+},
+{
+"text": "See Early Voting Hours",
+"href": "https://www.ohiosos.gov/elections/voters/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@russo4ohio"
+},
+{
+"text": "Visit Ohio Voter Information Center",
+"href": "https://www.ohiosos.gov/elections/voters/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/Russo4Ohio"
+},
+{
+"text": "[image]",
+"href": "https://allisonrusso.com"
+}
 ]

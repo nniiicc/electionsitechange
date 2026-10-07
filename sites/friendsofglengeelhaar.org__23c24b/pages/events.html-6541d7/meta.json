@@ -1,7 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.friendsofglengeelhaar.org/events.html",
- "paid_for_by": null,
+ "fingerprint": "ad91b508287d6c062037eb191eb08e1f7c8e02fe",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2023",
+  "2024",
+  "2025"
+ ]
 }

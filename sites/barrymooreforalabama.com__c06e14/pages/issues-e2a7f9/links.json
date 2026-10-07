@@ -1,18 +1,78 @@
 [
-"https://barrymooreforalabama.com/",
-"https://barrymooreforalabama.com/about",
-"https://barrymooreforalabama.com/contact",
-"https://barrymooreforalabama.com/in-the-news",
-"https://barrymooreforalabama.com/issues",
-"https://barrymooreforalabama.com/privacy-policy",
-"https://barrymooreforalabama.com/volunteer",
-"https://facebook.com/BarryMooreforSenate",
-"https://secure.anedot.com/barry-moore-alabama-victory/barry-moore-alabama-victory-usa?exitIntent=true",
-"https://secure.winred.com/barrymoore/9a96a362-b3c2-4882-8e29-730f780c64f9?recurring=false",
-"https://secure.winred.com/barrymoore/storefront",
-"https://truthsocial.com/@barrymooreforcongress",
-"https://vimeo.com/1153228797",
-"https://x.com/BMooreSenate",
-"https://youtube.com/@barrymooreforcongress",
-"https://youtube.com/@barrymooreforsenate"
+{
+"text": "About",
+"href": "https://barrymooreforalabama.com/about/"
+},
+{
+"text": "Action Center",
+"href": "https://barrymooreforalabama.com/volunteer/"
+},
+{
+"text": "Contact Us",
+"href": "https://barrymooreforalabama.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/barrymoore/9a96a362-b3c2-4882-8e29-730f780c64f9?recurring=false"
+},
+{
+"text": "Donate Crypto",
+"href": "https://secure.anedot.com/barry-moore-alabama-victory/barry-moore-alabama-victory-usa?exitIntent=true"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BarryMooreforSenate"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/BarryMooreforSenate"
+},
+{
+"text": "Home",
+"href": "https://barrymooreforalabama.com/"
+},
+{
+"text": "In the News",
+"href": "https://barrymooreforalabama.com/in-the-news/"
+},
+{
+"text": "Issues",
+"href": "https://barrymooreforalabama.com/issues/"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.winred.com/barrymoore/9a96a362-b3c2-4882-8e29-730f780c64f9?recurring=false"
+},
+{
+"text": "Merch",
+"href": "https://secure.winred.com/barrymoore/storefront/"
+},
+{
+"text": "Press Kit",
+"href": "https://vimeo.com/1153228797"
+},
+{
+"text": "Privacy Policy",
+"href": "https://barrymooreforalabama.com/privacy-policy/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/BMooreSenate"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@barrymooreforcongress"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@barrymooreforsenate"
+},
+{
+"text": "[image]",
+"href": "https://barrymooreforalabama.com"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/@barrymooreforcongress"
+}
 ]

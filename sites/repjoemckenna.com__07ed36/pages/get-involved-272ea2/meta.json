@@ -1,7 +1,11 @@
 {
  "description": "Join the campaign to elect Joe McKenna as State Representative. Volunteer, host an event, or spread the word.",
  "final_url": "https://www.repjoemckenna.com/get-involved",
- "paid_for_by": "Paid for by the Committee to Elect Joe McKenna Privacy Policy Terms &amp; Conditions \u00a9 2026 Joe McKenna for State Rep",
+ "fingerprint": "eb0181beac3a264a4f5deaeef68fcde3a3d3c8c6",
+ "format": 3,
+ "paid_for_by": "Paid for by the Committee to Elect Joe McKenna Privacy Policy Terms & Conditions © 2026 Joe McKenna for State Rep",
  "title": "Get Involved | Joe McKenna for State Representative | Joe McKenna for State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

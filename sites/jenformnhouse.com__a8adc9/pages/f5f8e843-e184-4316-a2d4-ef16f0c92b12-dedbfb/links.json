@@ -1,18 +1,74 @@
 [
-"http://jenformnhouse.com/",
-"https://app.termly.io/dsar/b306d12a-5f92-4eec-9787-010f782f3168",
-"https://bsky.app/profile/jenbloom.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/Jen4MNhouse",
-"https://instagram.com/jenformnhouse",
-"https://jenformnhouse.com/",
-"https://jenformnhouse.com/about",
-"https://jenformnhouse.com/contact",
-"https://jenformnhouse.com/endorsements",
-"https://jenformnhouse.com/events",
-"https://jenformnhouse.com/issues",
-"https://jenformnhouse.com/volunteer",
-"https://secure.actblue.com/donate/jenformn",
-"https://termly.io/products/privacy-policy-generator",
-"https://threads.net/@jenbloomquist"
+{
+"text": "About",
+"href": "https://www.jenformnhouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.jenformnhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jenformn"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jenformnhouse.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jenformnhouse.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.jenformnhouse.com/issues"
+},
+{
+"text": "Privacy Policy Generator",
+"href": "https://termly.io/products/privacy-policy-generator/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jenformnhouse.com/volunteer"
+},
+{
+"text": "[image: Logo for the Jen Bloomquist for MN House 31B campaign]",
+"href": "https://www.jenformnhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://app.termly.io/dsar/b306d12a-5f92-4eec-9787-010f782f3168"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jenbloom.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Jen4MNhouse"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/jenformnhouse"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@jenbloomquist"
+},
+{
+"text": "data subject access request",
+"href": "https://app.termly.io/dsar/b306d12a-5f92-4eec-9787-010f782f3168"
+},
+{
+"text": "http://www.jenformnhouse.com",
+"href": "http://www.jenformnhouse.com"
+},
+{
+"text": "jen@jenformnhouse.com",
+"href": "mailto:jen@jenformnhouse.com"
+}
 ]

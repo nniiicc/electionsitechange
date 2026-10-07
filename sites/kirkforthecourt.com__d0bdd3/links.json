@@ -1,5 +1,14 @@
 [
-"https://courtswv.gov/",
-"https://facebook.com/profile.php?id=61585928833577",
-"https://kirkforthecourt.com/"
+{
+"text": "Follow on Facebook",
+"href": "https://www.facebook.com/profile.php?id=61585928833577"
+},
+{
+"text": "Kirk For The Court",
+"href": "https://www.kirkforthecourt.com/"
+},
+{
+"text": "WV Supreme Court of Appeals",
+"href": "https://www.courtswv.gov"
+}
 ]

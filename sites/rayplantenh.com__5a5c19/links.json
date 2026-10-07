@@ -1,6 +1,26 @@
 [
-"https://favebook.com/ray.plante",
-"https://instagram.com/ray.plante",
-"https://rayplantenh.com/contact",
-"https://secure.anedot.com/ray-plante-nh/donate"
+{
+"text": "Contact",
+"href": "https://rayplantenh.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/ray-plante-nh/donate"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/ray-plante-nh/donate"
+},
+{
+"text": "SUPPORT THE CAMPAIGN",
+"href": "https://secure.anedot.com/ray-plante-nh/donate"
+},
+{
+"text": "[no text]",
+"href": "https://favebook.com/ray.plante"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ray.plante"
+}
 ]

@@ -1,5 +1,4 @@
-Meet Ryan
-Delegate Ryan Spiegel represents District 17 (Gaithersburg and Rockville) in the Maryland House of Delegates.
+top of page HOME MEET RYAN NEWSLETTERS CONTRIBUTE ENDORSEMENTS DONATE Meet Ryan Delegate Ryan Spiegel represents District 17 (Gaithersburg and Rockville) in the Maryland House of Delegates.
 There, he serves on the influential Appropriations Committee and the Joint Audit and Evaluation Committee.
 He is also the Chair of the Montgomery County House Delegation's Committee on Land Use, Transportation, and Public Safety.
 He has sponsored legislation on several important topics ranging from bills expanding financial opportunity for underserved communities to proposals to strengthen resources for transportation.
@@ -17,3 +16,5 @@ He has also spent hundreds of hours doing pro bono work on a variety of cases ra
 Ryan has also served on the Board of Directors of the University of Maryland Hillel, YouthAchieve, Inc., and the Metropolitan Washington Council of Governments.
 Ryan lives in the Washingtonian Woods neighborhood of Gaithersburg with his wife Rachael, a professional photographer, their children Jack and Dalia, and their dog Charlie.
 They are active members of Shaare Torah congregation.
+DISTRICT 17 DEMOCRAT Join Delegate Ryan Spiegel!
+HOME MEET RYAN NEWSLETTERS CONTRIBUTE ENDORSEMENTS BY AUTHORITY: FRIENDS OF RYAN SPIEGEL, DAVID FREIMAN, TREASURER bottom of page

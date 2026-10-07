@@ -1,3 +1,8 @@
-Tom has always believed that border security is the most important component of our immigration policy.
+Skip to content Tom Cole For Congress About About Tom About the District Press Packet News Room Connect On The Issues All Issues Growing the Economy Debt and Spending Securing Our Border Preserving our Second Amendment Protecting the Unborn National Security American Energy Independence Veterans Securing Our Border Donate Tom has always believed that border security is the most important component of our immigration policy.
 Tom voted in favor of the One Big Beautiful Bill which rushed historic resources to President Trump and helped deliver the most secure border in our nation’s history.
 The Biden administration’s crisis on the border, combined with the Far-Left Democrats government shutdown theater only indicate the fight is not over on securing the border and Tom will always stand with the American people for a safe and secure border.
+Post navigation Previous: Preserving our Second Amendment Next: Veterans Connect Recent Posts Tom Cole Announces For Re-Election Breaking: President Trump Endorses Congressman Tom Cole Cole: Promises Made, Promises Kept Tom Cole Is Endorsed By the Republican Jewish Coalition Tom Cole Is Endorsed By The State Chamber of Oklahoma PAC Keep up with the Campaign via Email Name First Last Email Phone (Required) (Required) By providing your phone number, you agree to receive text messages from Cole for Congress.
+Message & data rates may apply.
+Message frequency varies. donations may be solicited.
+Reply STOP to opt out, reply HELP for help.
+Privacy Policy About Tom On The Issues News Room Connect Privacy Policy Donate Paid for by Cole for Congress Powered By Push Digital © #

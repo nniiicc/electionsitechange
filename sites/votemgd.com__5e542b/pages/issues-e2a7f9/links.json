@@ -1,15 +1,66 @@
 [
-"http://x.com/mgdawicki",
-"https://facebook.com/mgdawicki",
-"https://facebook.com/votemorgandawicki",
-"https://instagram.com/mgdawicki",
-"https://instagram.com/votemorgandawicki",
-"https://morgangifforddawicki.substack.com/",
-"https://votemgd.com/",
-"https://votemgd.com/donate",
-"https://votemgd.com/issues",
-"https://votemgd.com/meet-morgan-dawicki",
-"https://votemgd.com/resources",
-"https://votemgd.com/volunteer",
-"https://x.com/mgdawicki"
+{
+"text": "Blog",
+"href": "https://morgangifforddawicki.substack.com/"
+},
+{
+"text": "DONATE",
+"href": "https://votemgd.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://votemgd.com/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://votemgd.com/volunteer/"
+},
+{
+"text": "Issues",
+"href": "https://votemgd.com/issues/"
+},
+{
+"text": "Meet Morgan",
+"href": "https://votemgd.com/meet-morgan-dawicki/"
+},
+{
+"text": "Meet Morgan Dawicki",
+"href": "https://votemgd.com/meet-morgan-dawicki/"
+},
+{
+"text": "Resources",
+"href": "https://votemgd.com/resources/"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/mgdawicki"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mgdawicki"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votemorgandawicki"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mgdawicki/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votemorgandawicki"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mgdawicki"
+}
 ]

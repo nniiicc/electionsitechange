@@ -1,8 +1,30 @@
 [
-"https://electandrewbarkis.org/",
-"https://electandrewbarkis.org/barkis-about",
-"https://electandrewbarkis.org/barkis-contact-2",
-"https://electandrewbarkis.org/barkis-donate",
-"https://electandrewbarkis.org/barkis-endorsements",
-"https://electandrewbarkis.org/barkis-home"
+{
+"text": "About",
+"href": "https://electandrewbarkis.org/barkis-about/"
+},
+{
+"text": "Contact",
+"href": "https://electandrewbarkis.org/barkis-contact-2/"
+},
+{
+"text": "Donate",
+"href": "https://electandrewbarkis.org/barkis-donate/"
+},
+{
+"text": "Donate Now",
+"href": "https://electandrewbarkis.org/barkis-donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://electandrewbarkis.org/barkis-endorsements/"
+},
+{
+"text": "Home",
+"href": "https://electandrewbarkis.org/"
+},
+{
+"text": "[image]",
+"href": "https://electandrewbarkis.org/barkis-home/"
+}
 ]

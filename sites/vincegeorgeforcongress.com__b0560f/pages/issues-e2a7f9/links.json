@@ -1,10 +1,46 @@
 [
-"https://secure.actblue.com/donate/vince-george-1",
-"https://vincegeorgeforcongress.com/",
-"https://vincegeorgeforcongress.com/about",
-"https://vincegeorgeforcongress.com/copy-of-privacy-policy",
-"https://vincegeorgeforcongress.com/get-involved",
-"https://vincegeorgeforcongress.com/issues",
-"https://vincegeorgeforcongress.com/privacy-policy",
-"https://wix.com/"
+{
+"text": "About Vince",
+"href": "https://www.vincegeorgeforcongress.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vince-george-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.vincegeorgeforcongress.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.vincegeorgeforcongress.com"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.vincegeorgeforcongress.com/get-involved"
+},
+{
+"text": "Mail",
+"href": "mailto:contact@vincegeorgeforcongress.com"
+},
+{
+"text": "Platform",
+"href": "https://www.vincegeorgeforcongress.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.vincegeorgeforcongress.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.vincegeorgeforcongress.com/copy-of-privacy-policy"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Vince George's Logo]",
+"href": "https://www.vincegeorgeforcongress.com"
+}
 ]

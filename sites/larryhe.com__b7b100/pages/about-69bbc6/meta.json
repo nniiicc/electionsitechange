@@ -1,7 +1,9 @@
 {
  "description": "Official campaign website for Dr. Larry He, candidate for New York State Senate District 17. Learn about his priorities, community work, upcoming events, volunteer opportunities, and vision for a safer and stronger South Brooklyn.",
  "final_url": "https://www.larryhe.com/about",
- "paid_for_by": null,
+ "fingerprint": "aa1183faeadf6e828020b154ecca81d4768521cd",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Dr. Larry He | Dr. Larry He for State Senate",
  "years_mentioned": []
 }

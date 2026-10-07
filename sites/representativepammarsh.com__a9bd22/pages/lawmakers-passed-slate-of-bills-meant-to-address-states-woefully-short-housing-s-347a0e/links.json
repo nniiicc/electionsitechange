@@ -1,40 +1,166 @@
 [
-"https://casaoforegon.org/manufactured-housing",
-"https://census.gov/quickfacts/fact/table/OR/PST045224",
-"https://facebook.com/representativepammarsh",
-"https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureAnalysisDocument/93680",
-"https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2138",
-"https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2258",
-"https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2698",
-"https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3031",
-"https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3054",
-"https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3144",
-"https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3145",
-"https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3506",
-"https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3521",
-"https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3589",
-"https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3644",
-"https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3746",
-"https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB974",
-"https://orcities.org/resources/communications/bulletin/condo-defect-law-reform",
-"https://oregon.gov/das/financial/documents/2025-27_gb.pdf",
-"https://oregon.gov/das/oea/Documents/OHNA-Methodology-Report-2024.pdf",
-"https://oregoncapitalchronicle.com/2025/05/29/oregon-sees-a-rise-in-eviction-filings-but-rent-assistance-programs-are-working",
-"https://oregoncapitalchronicle.com/2025/07/07/oregon-lawmakers-pass-at-least-a-dozen-bills-addressing-housing",
-"https://oregoncapitalchronicle.com/author/mmaldonado",
-"https://oregonlegislature.gov/marsh/Pages/default.aspx",
-"https://oregonlive.com/politics/2025/06/oregon-lawmakers-to-slash-homelessness-prevention-funding-gov-kotek-calls-on-them-to-reconsider.html",
-"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4003575",
-"https://redfin.com/blog/condo-vs-house",
-"https://representativepammarsh.com/",
-"https://representativepammarsh.com/2026-endorsements",
-"https://representativepammarsh.com/2063-2",
-"https://representativepammarsh.com/about-pam",
-"https://representativepammarsh.com/oregon-increasing-beaver-protections-to-help-salmon-slow-wildfire",
-"https://representativepammarsh.com/oregon-lawmakers-approve-measure-to-help-pay-for-wildfire-prevention",
-"https://representativepammarsh.com/wp-content/uploads/2026/08/Housing-Bills-Lynne-Terry.jpg",
-"https://secure.actblue.com/donate/pam-marsh-for-oregon-1",
-"https://themeansar.com/",
-"https://themeansar.com/free-themes/newsup",
-"https://wordpress.org/"
+{
+"text": "$204 million",
+"href": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureAnalysisDocument/93680"
+},
+{
+"text": "2026 Endorsements",
+"href": "https://representativepammarsh.com/2026-endorsements/"
+},
+{
+"text": "ABOUT",
+"href": "https://representativepammarsh.com/about-pam/"
+},
+{
+"text": "CASA of Oregon",
+"href": "https://casaoforegon.org/manufactured-housing/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/pam-marsh-for-oregon-1"
+},
+{
+"text": "DONATE TO PAM'S 2026 CAMPAIGN",
+"href": "https://secure.actblue.com/donate/pam-marsh-for-oregon-1"
+},
+{
+"text": "House Bill 2138",
+"href": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2138"
+},
+{
+"text": "House Bill 2258",
+"href": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2258"
+},
+{
+"text": "House Bill 2698",
+"href": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2698"
+},
+{
+"text": "House Bill 3031",
+"href": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3031"
+},
+{
+"text": "House Bill 3054",
+"href": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3054"
+},
+{
+"text": "House Bill 3144",
+"href": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3144"
+},
+{
+"text": "House Bill 3145",
+"href": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3145"
+},
+{
+"text": "House Bill 3506",
+"href": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3506"
+},
+{
+"text": "House Bill 3521",
+"href": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3521"
+},
+{
+"text": "House Bill 3589",
+"href": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3589"
+},
+{
+"text": "House Bill 3644",
+"href": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3644"
+},
+{
+"text": "House Bill 3746",
+"href": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3746"
+},
+{
+"text": "LEGISLATIVE EMAILS",
+"href": "https://representativepammarsh.com/2063-2/"
+},
+{
+"text": "LINK TO ARTICLE",
+"href": "https://oregoncapitalchronicle.com/2025/07/07/oregon-lawmakers-pass-at-least-a-dozen-bills-addressing-housing/"
+},
+{
+"text": "League of Oregon Cities.",
+"href": "https://www.orcities.org/resources/communications/bulletin/condo-defect-law-reform"
+},
+{
+"text": "Mia Maldonado",
+"href": "https://oregoncapitalchronicle.com/author/mmaldonado/"
+},
+{
+"text": "Newsup",
+"href": "https://themeansar.com/free-themes/newsup/"
+},
+{
+"text": "Oregon increasing beaver protections to help salmon, slow wildfire",
+"href": "https://representativepammarsh.com/oregon-increasing-beaver-protections-to-help-salmon-slow-wildfire/"
+},
+{
+"text": "Oregon lawmakers approve measure to help pay for wildfire prevention",
+"href": "https://representativepammarsh.com/oregon-lawmakers-approve-measure-to-help-pay-for-wildfire-prevention/"
+},
+{
+"text": "Proudly powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "REPRESENTATIVE PAM MARSH",
+"href": "https://representativepammarsh.com/"
+},
+{
+"text": "STATE WEBPAGE",
+"href": "https://www.oregonlegislature.gov/marsh/Pages/default.aspx"
+},
+{
+"text": "Senate Bill 974",
+"href": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB974"
+},
+{
+"text": "Themeansar",
+"href": "https://themeansar.com/"
+},
+{
+"text": "U.S. Census Bureau.",
+"href": "https://www.census.gov/quickfacts/fact/table/OR/PST045224"
+},
+{
+"text": "[image: REPRESENTATIVE PAM MARSH]",
+"href": "https://representativepammarsh.com/"
+},
+{
+"text": "[image]",
+"href": "https://representativepammarsh.com/wp-content/uploads/2026/08/Housing-Bills-Lynne-Terry.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://representativepammarsh.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/representativepammarsh"
+},
+{
+"text": "are usually",
+"href": "https://www.redfin.com/blog/condo-vs-house/"
+},
+{
+"text": "budget proposal",
+"href": "https://www.oregon.gov/das/financial/documents/2025-27_gb.pdf"
+},
+{
+"text": "report",
+"href": "https://www.oregon.gov/das/oea/Documents/OHNA-Methodology-Report-2024.pdf"
+},
+{
+"text": "reported",
+"href": "https://www.oregonlive.com/politics/2025/06/oregon-lawmakers-to-slash-homelessness-prevention-funding-gov-kotek-calls-on-them-to-reconsider.html"
+},
+{
+"text": "state’s eviction prevention services",
+"href": "https://oregoncapitalchronicle.com/2025/05/29/oregon-sees-a-rise-in-eviction-filings-but-rent-assistance-programs-are-working/"
+},
+{
+"text": "two out of five",
+"href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4003575"
+}
 ]

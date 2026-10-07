@@ -1,31 +1,150 @@
 [
-"http://facebook.com/bradstockforcongress",
-"http://instagram.com/bradstock4congress",
-"http://threads.com/@bradstock4congress",
-"https://andymuth.com/",
-"https://app.reach.vote/",
-"https://bradstockforcongress.com/",
-"https://bradstockforcongress.com/about",
-"https://bradstockforcongress.com/cart",
-"https://bradstockforcongress.com/get-involved",
-"https://bradstockforcongress.com/issues",
-"https://bradstockforcongress.com/reach",
-"https://bradstockforcongress.com/townhalls",
-"https://bradstockforcongress.com/voter-information",
-"https://bsky.app/profile/bradstock.bsky.social",
-"https://docs.google.com/presentation/d/1trgIk-h13iI4HwbZUD_olnEynjlua5jm/edit?usp=sharing&ouid=102062731769148562430&rtpof=true&sd=true",
-"https://drive.google.com/file/d/16NW-yJnNrk_xIFTunPmcbpKoLgceEjN3/view?usp=sharing",
-"https://drive.google.com/file/d/1ETdzjPwrEvKTy8nhKfCWQOOBtxGo9WSh/view?usp=share_link",
-"https://facebook.com/bradstockforcongress",
-"https://instagram.com/bradstock4congress",
-"https://itunes.apple.com/us/app/reach-vote/id1433809365",
-"https://play.google.com/store/apps/details?id=com.reachVoteTech",
-"https://reach.vote/get-the-app",
-"https://reach.vote/knowledge-base",
-"https://reach.vote/privacy",
-"https://secure.actblue.com/donate/bradstock",
-"https://threads.com/@bradstock4congress",
-"https://x.com/BradstockPA14",
-"https://youtube.com/channel/UCfGfY1rBofwtD0LaXsEyvcA",
-"https://youtube.com/watch?v=vhHLDJtGjRo"
+{
+"text": "0",
+"href": "https://www.bradstockforcongress.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.bradstockforcongress.com/about"
+},
+{
+"text": "About Alan",
+"href": "https://www.bradstockforcongress.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bradstock"
+},
+{
+"text": "Download forAndroid",
+"href": "https://play.google.com/store/apps/details?id=com.reachVoteTech"
+},
+{
+"text": "Download foriPhone",
+"href": "https://itunes.apple.com/us/app/reach-vote/id1433809365"
+},
+{
+"text": "Email the campaign",
+"href": "mailto:info@bradstockforcongress.com?subject=Reach+app+help"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bradstockforcongress.com/get-involved"
+},
+{
+"text": "Get the app",
+"href": "https://reach.vote/get-the-app/"
+},
+{
+"text": "Home",
+"href": "https://www.bradstockforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.bradstockforcongress.com/issues"
+},
+{
+"text": "PDF GuideReach Fundamentals",
+"href": "https://drive.google.com/file/d/1ETdzjPwrEvKTy8nhKfCWQOOBtxGo9WSh/view?usp=share_link"
+},
+{
+"text": "PDF GuideReach Getting Started Guide",
+"href": "https://drive.google.com/file/d/16NW-yJnNrk_xIFTunPmcbpKoLgceEjN3/view?usp=sharing"
+},
+{
+"text": "Reach",
+"href": "https://www.bradstockforcongress.com/reach"
+},
+{
+"text": "ReferenceReach Knowledge Base",
+"href": "https://reach.vote/knowledge-base/"
+},
+{
+"text": "SlidesReach Webinar Slides",
+"href": "https://docs.google.com/presentation/d/1trgIk-h13iI4HwbZUD_olnEynjlua5jm/edit?usp=sharing&ouid=102062731769148562430&rtpof=true&sd=true"
+},
+{
+"text": "Town Halls",
+"href": "https://www.bradstockforcongress.com/townhalls"
+},
+{
+"text": "VideoVolunteer Training Webinar",
+"href": "https://www.youtube.com/watch?v=vhHLDJtGjRo"
+},
+{
+"text": "Vote",
+"href": "https://www.bradstockforcongress.com/voter-information"
+},
+{
+"text": "Voter Information",
+"href": "https://www.bradstockforcongress.com/voter-information"
+},
+{
+"text": "[image: Alan Bradstock for Congress]",
+"href": "https://www.bradstockforcongress.com/"
+},
+{
+"text": "[image: Bradstock for Congress]",
+"href": "https://www.bradstockforcongress.com/"
+},
+{
+"text": "[image: andy muth.]",
+"href": "https://andymuth.com"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/bradstock"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/bradstockforcongress"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/bradstock4congress"
+},
+{
+"text": "[no text]",
+"href": "http://threads.com/@bradstock4congress"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/bradstock.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/bradstockforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/bradstock4congress"
+},
+{
+"text": "[no text]",
+"href": "https://threads.com/@bradstock4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCfGfY1rBofwtD0LaXsEyvcA"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/BradstockPA14"
+},
+{
+"text": "app.reach.vote",
+"href": "https://app.reach.vote"
+},
+{
+"text": "info@bradstockforcongress.com",
+"href": "mailto:info@bradstockforcongress.com"
+},
+{
+"text": "reach.vote/knowledge-base",
+"href": "https://reach.vote/knowledge-base/"
+},
+{
+"text": "reach.vote/privacy",
+"href": "https://reach.vote/privacy/"
+}
 ]

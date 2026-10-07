@@ -1,31 +1,126 @@
 [
-"http://byrncliff.com/",
-"http://eabookworm.com/",
-"http://facebook.com/ikrestaurant",
-"http://kornerstonecafe.com/",
-"http://sammyswash.com/",
-"http://sugarbusharmory.com/",
-"https://cafevertical.com/",
-"https://dipietroforyou.com/",
-"https://dipietroforyou.com/about",
-"https://dipietroforyou.com/blog",
-"https://dipietroforyou.com/buygiftcards",
-"https://dipietroforyou.com/issues",
-"https://dipietroforyou.com/leadership-partner",
-"https://dipietroforyou.com/silentmajorityspeakspodcast",
-"https://dipietroforyou.com/thedaviddipietroshow",
-"https://dipietroforyou.com/theshows",
-"https://dipietroforyou.com/volunteer",
-"https://facebook.com/MistersBarAndLanes",
-"https://facebook.com/alyssacutcliffelmt",
-"https://facebook.com/profile.php?id=100057753832479",
-"https://facebook.com/wallenweins",
-"https://ftwny.com/online-ny-pistol-permit-class",
-"https://logelappliance.com/",
-"https://montgomeryslumber.com/",
-"https://morluskis.com/",
-"https://secure.winred.com/dipietro-for-you/donate-to-dave",
-"https://silverlakefamilyrestaurant.com/",
-"https://twitter.com/DiPietroForYou",
-"https://youtube.com/@assemblymandipietro"
+{
+"text": "ABOUT DAVE",
+"href": "https://www.dipietroforyou.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/dipietro-for-you/donate-to-dave"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.dipietroforyou.com/volunteer"
+},
+{
+"text": "HOME",
+"href": "https://www.dipietroforyou.com"
+},
+{
+"text": "LATEST NEWS",
+"href": "https://www.dipietroforyou.com/blog"
+},
+{
+"text": "OPERATION GIFT CERTIFICATE",
+"href": "https://www.dipietroforyou.com/buygiftcards"
+},
+{
+"text": "POWERFUL PARTNERSHIP",
+"href": "https://www.dipietroforyou.com/leadership-partner"
+},
+{
+"text": "Silent Majority Speaks Podcast",
+"href": "https://www.dipietroforyou.com/silentmajorityspeakspodcast"
+},
+{
+"text": "THE ISSUES",
+"href": "https://www.dipietroforyou.com/issues"
+},
+{
+"text": "THE SHOWS",
+"href": "https://www.dipietroforyou.com/theshows"
+},
+{
+"text": "The David DiPietro Show",
+"href": "https://www.dipietroforyou.com/thedaviddipietroshow"
+},
+{
+"text": "[image: DiPietro For You Logo]",
+"href": "https://www.dipietroforyou.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100057753832479"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/DiPietroForYou"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@assemblymandipietro"
+},
+{
+"text": "byrncliff.com",
+"href": "http://byrncliff.com"
+},
+{
+"text": "daviddipietroforyou@gmail.com",
+"href": "mailto:daviddipietroforyou@gmail.com"
+},
+{
+"text": "eabookworm.com",
+"href": "http://eabookworm.com"
+},
+{
+"text": "facebook.com/ikrestaurant",
+"href": "http://facebook.com/ikrestaurant"
+},
+{
+"text": "http://sammyswash.com/",
+"href": "http://sammyswash.com/"
+},
+{
+"text": "https://cafevertical.com/",
+"href": "https://cafevertical.com/"
+},
+{
+"text": "https://ftwny.com/online-ny-pistol-permit-class/",
+"href": "https://ftwny.com/online-ny-pistol-permit-class/"
+},
+{
+"text": "https://montgomeryslumber.com/",
+"href": "https://montgomeryslumber.com/"
+},
+{
+"text": "https://www.facebook.com/MistersBarAndLanes",
+"href": "https://www.facebook.com/MistersBarAndLanes"
+},
+{
+"text": "https://www.facebook.com/alyssacutcliffelmt/",
+"href": "https://www.facebook.com/alyssacutcliffelmt/"
+},
+{
+"text": "https://www.facebook.com/wallenweins/",
+"href": "https://www.facebook.com/wallenweins/"
+},
+{
+"text": "https://www.logelappliance.com/",
+"href": "https://www.logelappliance.com/"
+},
+{
+"text": "https://www.morluskis.com/",
+"href": "https://www.morluskis.com/"
+},
+{
+"text": "https://www.silverlakefamilyrestaurant.com/",
+"href": "https://www.silverlakefamilyrestaurant.com/"
+},
+{
+"text": "sugarbusharmory.com",
+"href": "http://sugarbusharmory.com"
+},
+{
+"text": "www.kornerstonecafe.com",
+"href": "http://www.kornerstonecafe.com"
+}
 ]

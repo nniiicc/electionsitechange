@@ -1,15 +1,66 @@
 [
-"http://cnn.com/ALLPOLITICS/1996/conventions/san.diego/facts/gop.platform/platform.all.shtml",
-"http://ewtn.com/library/PROLENC/ENCYC136.HTM",
-"http://kevincraig.us/",
-"https://kevincraig.us/arts.htm",
-"https://kevincraig.us/burden.htm",
-"https://kevincraig.us/campaign.htm",
-"https://kevincraig.us/commerce.htm",
-"https://kevincraig.us/contents.htm",
-"https://kevincraig.us/education.htm",
-"https://kevincraig.us/energy.htm",
-"https://kevincraig.us/enumerated.htm",
-"https://kevincraig.us/housing.htm",
-"https://kevincraig.us/tentacles.htm"
+{
+"text": "Campaign Finance, Corruption and the Oath of Office",
+"href": "https://kevincraig.us/campaign.htm"
+},
+{
+"text": "Commerce",
+"href": "https://kevincraig.us/commerce.htm"
+},
+{
+"text": "Domestic",
+"href": "https://kevincraig.us/contents.htm#Domestic"
+},
+{
+"text": "Education",
+"href": "https://kevincraig.us/education.htm"
+},
+{
+"text": "Energy",
+"href": "https://kevincraig.us/energy.htm"
+},
+{
+"text": "Enumerated Powers",
+"href": "https://kevincraig.us/enumerated.htm"
+},
+{
+"text": "Foreign",
+"href": "https://kevincraig.us/contents.htm#Foreign"
+},
+{
+"text": "Government",
+"href": "https://kevincraig.us/contents.htm#Government"
+},
+{
+"text": "Housing and Urban Development",
+"href": "https://kevincraig.us/housing.htm"
+},
+{
+"text": "Morality and Culture",
+"href": "https://kevincraig.us/contents.htm#Culture"
+},
+{
+"text": "National Endowment for the Arts",
+"href": "https://kevincraig.us/arts.htm"
+},
+{
+"text": "The Real Tax Burden",
+"href": "https://kevincraig.us/burden.htm"
+},
+{
+"text": "[no text]",
+"href": "http://kevincraig.us"
+},
+{
+"text": "pornographic �art,�",
+"href": "http://www.ewtn.com/library/PROLENC/ENCYC136.HTM"
+},
+{
+"text": "the Republican Party National Platform",
+"href": "http://www.cnn.com/ALLPOLITICS/1996/conventions/san.diego/facts/gop.platform/platform.all.shtml"
+},
+{
+"text": "the Tip of the Iceberg",
+"href": "https://kevincraig.us/tentacles.htm"
+}
 ]

@@ -1,8 +1,42 @@
 [
-"https://altermanprojects.com/about-mikhail",
-"https://altermanprojects.com/contact",
-"https://altermanprojects.com/home",
-"https://altermanprojects.com/issues",
-"https://facebook.com/groups/CitizensWithMikhailAlterman",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2FCitizensWithMikhailAlterman&sa=D&sntz=1&usg=AOvVaw1KsnwdLc6J01icac8j2d7S"
+{
+"text": "About Mikhail",
+"href": "https://www.altermanprojects.com/about-mikhail"
+},
+{
+"text": "Citizens With Mikhail Alterman",
+"href": "https://www.altermanprojects.com/home"
+},
+{
+"text": "Contact",
+"href": "https://www.altermanprojects.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.altermanprojects.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.altermanprojects.com/issues"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2FCitizensWithMikhailAlterman&sa=D&sntz=1&usg=AOvVaw1KsnwdLc6J01icac8j2d7S"
+},
+{
+"text": "[image]",
+"href": "https://www.altermanprojects.com/home"
+},
+{
+"text": "[image]Citizens With Mikhail Alterman",
+"href": "https://www.altermanprojects.com/home"
+},
+{
+"text": "https://www.facebook.com/groups/CitizensWithMikhailAlterman",
+"href": "https://www.facebook.com/groups/CitizensWithMikhailAlterman"
+},
+{
+"text": "mikhail@altermanprojects.com",
+"href": "mailto:mikhail@altermanprojects.com"
+}
 ]

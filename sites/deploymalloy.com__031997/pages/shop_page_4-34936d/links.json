@@ -1,27 +1,146 @@
 [
-"https://deploymalloy.com/",
-"https://deploymalloy.com/compliance",
-"https://deploymalloy.com/landing",
-"https://deploymalloy.com/landing/about",
-"https://deploymalloy.com/landing/album",
-"https://deploymalloy.com/landing/email-signup",
-"https://deploymalloy.com/landing/events",
-"https://deploymalloy.com/landing/positions",
-"https://deploymalloy.com/landing/qanda",
-"https://deploymalloy.com/landing/request-a-sign",
-"https://deploymalloy.com/product-category/help-deploy-malloy",
-"https://deploymalloy.com/product-category/the-mission",
-"https://deploymalloy.com/product/baby-jersey-short-sleeve-tee",
-"https://deploymalloy.com/product/deploy-malloy-large-organic-tote-bag",
-"https://deploymalloy.com/product/deploy-malloy-spiral-notebook",
-"https://deploymalloy.com/product/organic-bucket-hat",
-"https://deploymalloy.com/product/skater-dress",
-"https://deploymalloy.com/shop",
-"https://deploymalloy.com/shop/page/1",
-"https://deploymalloy.com/shop/page/2",
-"https://deploymalloy.com/shop/page/3",
-"https://deploymalloy.com/shop/page/4?add-to-cart=1480",
-"https://deploymalloy.com/shop/page/4?add-to-cart=1484",
-"https://facebook.com/geraldmalloyvt",
-"https://secure.anedot.com/gerald-malloy-for-u-s-congress-limited/geraldmalloy"
+{
+"text": "1",
+"href": "https://www.deploymalloy.com/shop/page/1/"
+},
+{
+"text": "2",
+"href": "https://www.deploymalloy.com/shop/page/2/"
+},
+{
+"text": "3",
+"href": "https://www.deploymalloy.com/shop/page/3/"
+},
+{
+"text": "About",
+"href": "https://www.deploymalloy.com/landing/about/"
+},
+{
+"text": "Album",
+"href": "https://www.deploymalloy.com/landing/album/"
+},
+{
+"text": "Deploy Malloy Baby Jersey Short Sleeve Tee",
+"href": "https://www.deploymalloy.com/product/baby-jersey-short-sleeve-tee/"
+},
+{
+"text": "Deploy Malloy Large organic tote bag",
+"href": "https://www.deploymalloy.com/product/deploy-malloy-large-organic-tote-bag/"
+},
+{
+"text": "Deploy Malloy Spiral notebook",
+"href": "https://www.deploymalloy.com/product/deploy-malloy-spiral-notebook/"
+},
+{
+"text": "Deploy Malloy organic bucket hat",
+"href": "https://www.deploymalloy.com/product/organic-bucket-hat/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/gerald-malloy-for-u-s-congress-limited/geraldmalloy"
+},
+{
+"text": "Events",
+"href": "https://www.deploymalloy.com/landing/events/"
+},
+{
+"text": "Help Deploy Malloy!",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/"
+},
+{
+"text": "Home",
+"href": "https://www.deploymalloy.com/"
+},
+{
+"text": "Media Request",
+"href": "mailto:mediarequests@deploymalloy.com"
+},
+{
+"text": "Positions",
+"href": "https://www.deploymalloy.com/landing/positions/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.deploymalloy.com/compliance/"
+},
+{
+"text": "Q&A",
+"href": "https://www.deploymalloy.com/landing/qanda/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/baby-jersey-short-sleeve-tee/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/organic-bucket-hat/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/skater-dress/"
+},
+{
+"text": "Shop",
+"href": "https://www.deploymalloy.com/shop/"
+},
+{
+"text": "Signs",
+"href": "https://www.deploymalloy.com/landing/request-a-sign/"
+},
+{
+"text": "Skater Dress",
+"href": "https://www.deploymalloy.com/product/skater-dress/"
+},
+{
+"text": "Subscribe",
+"href": "https://www.deploymalloy.com/landing/email-signup/"
+},
+{
+"text": "The mission",
+"href": "https://www.deploymalloy.com/product-category/the-mission/"
+},
+{
+"text": "[image]",
+"href": "https://www.deploymalloy.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.deploymalloy.com/landing/"
+},
+{
+"text": "[image]",
+"href": "https://www.deploymalloy.com/product/deploy-malloy-large-organic-tote-bag/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/geraldmalloyvt"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/baby-jersey-short-sleeve-tee/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/deploy-malloy-spiral-notebook/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/organic-bucket-hat/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/skater-dress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/shop/page/3/"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/shop/page/4/?add-to-cart=1480"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/shop/page/4/?add-to-cart=1484"
+}
 ]

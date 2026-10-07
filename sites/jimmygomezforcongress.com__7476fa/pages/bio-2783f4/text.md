@@ -1,4 +1,4 @@
-Jimmy Gomez is an educator, renters’ advocate, former union organizer, and now a United States Representative helping lead a new generation of Democrats and delivering results for working families.
+Meet Jimmy Bio Progressive Record Supporters On The Issues Photos The Latest Campaign Updates In the News Get Updates Donate Now Meet Jimmy Bio Progressive Record Supporters On The Issues Photos The Latest Campaign Updates In the News Get Updates Meet Jimmy Share Jimmy Gomez is an educator, renters’ advocate, former union organizer, and now a United States Representative helping lead a new generation of Democrats and delivering results for working families.
 Jimmy’s values come from his parents.
 A proud son of Mexican immigrants, his parents worked long hours just to make ends meet.
 Jimmy grew up without health insurance, and when he got pneumonia as a child, his family nearly went bankrupt due to the medical bills.
@@ -24,3 +24,6 @@ In August of 2021, Jimmy successfully fought to extend the eviction moratorium b
 Jimmy knows that activism inspires change.
 Jimmy Gomez fights for us – and will never stop advocating for working families.
 Jimmy lives in Eagle Rock with his wife Mary and their toddler son, Hodge.
+Share A Fighter For Working Families!
+Email ZIP code Stay Up-to-Date Contribute Now! $5 $10 $25 $50 Media Privacy Policy Jimmy Gomez for Congress P.O.
+Box 41018, Los Angeles, CA 90041 213-557-1348 info@jimmygomezforcongress.com Paid for by Jimmy Gomez for Congress Get Involved

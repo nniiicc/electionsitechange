@@ -1,22 +1,86 @@
 [
-"http://joyceforcongress.com/connect-with-dave",
-"http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_00_56_14.Still004.jpg",
-"http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_00_58_01.Still001.jpg",
-"http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_03_44_11.Still003.jpg",
-"http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_03_45_09.Still002.jpg",
-"http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_04_29_18.Still005.jpg",
-"http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_05_29_10.Still006.jpg",
-"http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_07_23_17.Still007.jpg",
-"http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_08_34_06.Still008.jpg",
-"http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_10_55_22.Still009.jpg",
-"http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_15_57_22.Still010.jpg",
-"https://facebook.com/DaveJoyceOH",
-"https://joyceforcongress.com/",
-"https://joyceforcongress.com/bio",
-"https://joyceforcongress.com/connect-with-dave/in-the-news",
-"https://joyceforcongress.com/contact",
-"https://joyceforcongress.com/volunteer",
-"https://joyceforcongress.com/voteearly",
-"https://secure.winred.com/davejoyce/donate",
-"https://twitter.com/DaveJoyceOH14"
+{
+"text": "Connect With Dave",
+"href": "http://joyceforcongress.com/connect-with-dave/"
+},
+{
+"text": "Contact",
+"href": "https://joyceforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/davejoyce/donate"
+},
+{
+"text": "Download Image",
+"href": "http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_00_56_14.Still004.jpg"
+},
+{
+"text": "Download Image",
+"href": "http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_00_58_01.Still001.jpg"
+},
+{
+"text": "Download Image",
+"href": "http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_03_44_11.Still003.jpg"
+},
+{
+"text": "Download Image",
+"href": "http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_03_45_09.Still002.jpg"
+},
+{
+"text": "Download Image",
+"href": "http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_04_29_18.Still005.jpg"
+},
+{
+"text": "Download Image",
+"href": "http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_05_29_10.Still006.jpg"
+},
+{
+"text": "Download Image",
+"href": "http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_07_23_17.Still007.jpg"
+},
+{
+"text": "Download Image",
+"href": "http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_08_34_06.Still008.jpg"
+},
+{
+"text": "Download Image",
+"href": "http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_10_55_22.Still009.jpg"
+},
+{
+"text": "Download Image",
+"href": "http://joyceforcongress.com/wp-content/uploads/2024/06/06_12_Sheriff_Ohio_Stills.00_15_57_22.Still010.jpg"
+},
+{
+"text": "Home",
+"href": "https://joyceforcongress.com/"
+},
+{
+"text": "In The News",
+"href": "https://joyceforcongress.com/connect-with-dave/in-the-news/"
+},
+{
+"text": "Meet Dave",
+"href": "https://joyceforcongress.com/bio/"
+},
+{
+"text": "Volunteer",
+"href": "https://joyceforcongress.com/volunteer/"
+},
+{
+"text": "Voting",
+"href": "https://joyceforcongress.com/voteearly/"
+},
+{
+"text": "[image]",
+"href": "https://joyceforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/DaveJoyceOH14"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DaveJoyceOH/"
+}
 ]

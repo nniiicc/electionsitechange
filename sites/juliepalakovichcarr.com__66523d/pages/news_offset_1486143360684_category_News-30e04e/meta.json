@@ -1,8 +1,10 @@
 {
  "description": "News",
  "final_url": "https://www.juliepalakovichcarr.com/news?offset=1486143360684&category=News",
- "paid_for_by": null,
- "title": "News \u2014 Julie Palakovich Carr",
+ "fingerprint": "55dc16c1bee3c00eeeabec76dda44d6a197b62ee",
+ "format": 3,
+ "paid_for_by": "Authorized by Friends of Julie Palakovich Carr, Treasurer Yamil Hernandez Contact Julie at Julie@JuliePalakovichCarr",
+ "title": "News — Julie Palakovich Carr",
  "years_mentioned": [
   "2016"
  ]

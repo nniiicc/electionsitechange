@@ -1,6 +1,4 @@
-Endorsement from Shelly Boeglin, sister of Denise Slipy
-Submitted by Shelly Boeglin, Denise Slipy’s sister:
-“Where to start...
+0 Skip to Content Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise Folder: What I'll Fight For Back Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Folder: Get Involved Back Events Join Team Slipy Contact Donate Endorsement from Shelly Boeglin, sister of Denise Slipy Apr 23 Written By Ryan Whitaker Submitted by Shelly Boeglin, Denise Slipy’s sister: “Where to start...
 I guess I'll start with telling you my name is Shelly and I am Denise's sister.
 I got to meet some of you last week.
 I want to thank all of you for the long hours and hard work that you are putting in to help Denise get elected.
@@ -11,8 +9,7 @@ So much energy and life that she kept them on their toes every minute of the day
 She grew into a vibrant and strong-willed young woman who knew what she wanted and went after it.
 From time to time this could get her into trouble.
 I've even had to pin her down on the floor and sit on her a few times.
-(LOL)
-She never was the kind to go with the status quo.
+(LOL) She never was the kind to go with the status quo.
 She wanted answers for everything.
 "Because I said so" was not gonna cut it - she questioned everything.
 If you could not give her a satisfactory answer, she was going to search until she found one.
@@ -33,4 +30,10 @@ You make me so proud.
 I would vote for you in a flat second if I could.
 We will be cheering you on from home.
 We love you.
-GO GET'EM NEENEE!!!!”
+GO GET'EM NEENEE!!!!” Ryan Whitaker Previous Previous Endorsement from Candi Wilmes Greer, daughter of Denise Slipy Donate Today Together, We Can Build a Better Future!
+Have a question, idea, or concern?
+I want to hear from you!
+Your input is vital in shaping the future of our community.
+Whether it’s a suggestion, a concern, or a topic you're passionate about, together we can make a real difference.
+Reach out today and be part of the change we need to see!
+Website Designed by Local Artist, Heidi Jeub , From Do-Somthing-Creative Prepared and Paid for by Slipy4Senate Campaign Committee PO Box 254 Brainerd, MN 56401

@@ -1,11 +1,11 @@
-A Leader for our Community
-A Leader for our
-Community
-Michelle Rodriguez has always been guided by the values she learned growing up in the Inland Empire.
-She was born and raised in Ontario, CA, and is a lifelong resident of the 53rd Assembly District.
+Skip to content Toll-free: 800-2345-6789 Login | Register Twitter Facebook-f Youtube Linkedin Home Meet Michelle Priorities Safe Neighborhoods Cleaner Air and Water Healthcare for All Jobs and the Economy Women’s Equality Homelessness Schools and Higher Education News Join Team Michelle!
+Supporters Gallery DONATE Join Team Michelle Get campaign updates and information on volunteer opportunities. join us Join Team Michelle Get campaign updates and information on volunteer opportunities. join us A Leader for our Community A Leader for our Community Michelle Rodriguez has always been guided by the values she learned growing up in the Inland Empire.
+She was born and raised in Ontario, CA, and is a lifelong resident of the 53 rd Assembly District.
 Michelle is currently serving as a Commissioner for the California Police Officer Standards and Training (POST) Commission, which sets policy for law enforcement across California.
 Michelle previously worked for Inter Valley Health Plan, a not-for-profit Medicare Advantage Organization, and ProMed Healthcare Administrators, administering managed care services.
 Michelle has committed her life to advocating for public safety and education.
 She graduated from Northwest College with a Medical Assistant Certification, earned a Certificate in Campus Security from Pomona Unified School District and has also held positions at Chaffey Unified School District and Bonita Unified School District.
 Together with her husband Freddie, an E.M.T., they have raised four children (Desirae, Freddie, Jr., Vincent, and Selena) in Pomona and have three beautiful grandchildren.
 Michelle will continue to fight for working families and children in the 53rd District.
+Learn more Michelle’s Priorities Safe Neighborhoods Cleaner Air and Water Healthcare for All Jobs and the Economy Women’s Equality Homelessness Schools and Higher Education Hurry Up The clock is ticking, so hurry up to make your contribution into building a better America for yourself and your kids!
+# # Day(s) : # # Hour(s) : # # Minute(s) : # # Second(s) Get Involved I`M IN San Bernardino County Elections Los Angeles County Elections 53rd Assembly District Contact Michelle info@michelleforassembly.com 2063 Rancho Valley Dr., Ste 320, #154, Pomona, CA, 91766 Join the Movement Join Team Michelle Endorse Michelle Donate • Paid for by Michelle Rodriguez for Assembly 2026 • FPPC ID 1477034 • 2063 Rancho Valley Dr., Ste 320, #154, Pomona, California, 91766 Twitter Facebook-f

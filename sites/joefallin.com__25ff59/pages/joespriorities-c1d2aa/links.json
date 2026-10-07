@@ -1,8 +1,38 @@
 [
-"https://facebook.com/votejoefallin",
-"https://joefallin.com/",
-"https://joefallin.com/aboutjoe",
-"https://joefallin.com/events",
-"https://joefallin.com/joespriorities",
-"https://secure.anedot.com/fallin/donate"
+{
+"text": "About Joe",
+"href": "https://www.joefallin.com/aboutjoe"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/fallin/donate"
+},
+{
+"text": "Events",
+"href": "https://www.joefallin.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.joefallin.com"
+},
+{
+"text": "Home",
+"href": "https://www.joefallin.com"
+},
+{
+"text": "Joe's Priorities",
+"href": "https://www.joefallin.com/joespriorities"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/votejoefallin/"
+},
+{
+"text": "[no text]",
+"href": "https://www.joefallin.com/joespriorities"
+},
+{
+"text": "fallinfordistrict85@gmail.com",
+"href": "mailto:fallinfordistrict85@gmail.com"
+}
 ]

@@ -1,9 +1,12 @@
 {
  "description": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
  "final_url": "https://okforclay.com/hello-world/",
- "paid_for_by": "Paid for by Friends of Clay Staires for Representative 2026 Facebook Twitter Instagram &copy; 2026 OK for Clay",
+ "fingerprint": "87fabeaaf9df22859555c2ce42997a3a8d8c8809",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Clay Staires for Representative 2026 Facebook Twitter Instagram © # OK for Clay",
  "title": "Hello world! - OK for Clay",
  "years_mentioned": [
-  "2021"
+  "2021",
+  "2026"
  ]
 }

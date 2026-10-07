@@ -1,7 +1,9 @@
 {
  "description": "Contribute to the campaign",
  "final_url": "https://www.electdavidfabrikant.com/contribute?amount=25",
- "paid_for_by": null,
+ "fingerprint": "ad22251311e877f05fbff8c10dd72bfab6a996c2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contribute",
  "years_mentioned": []
 }

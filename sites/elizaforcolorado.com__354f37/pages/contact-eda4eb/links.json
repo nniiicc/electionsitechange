@@ -1,12 +1,50 @@
 [
-"https://elizaforcolorado.com/",
-"https://elizaforcolorado.com/contact",
-"https://elizaforcolorado.com/endorsements",
-"https://elizaforcolorado.com/issues",
-"https://elizaforcolorado.com/join-us",
-"https://elizaforcolorado.com/meet-eliza",
-"https://facebook.com/eliza4colorado",
-"https://instagram.com/eliza4colorado",
-"https://secure.actblue.com/donate/eliza-for-colorado-1",
-"https://twitter.com/eliza4colorado"
+{
+"text": "720-805-5063",
+"href": "tel:7208055063"
+},
+{
+"text": "Contact Us",
+"href": "https://www.elizaforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/eliza-for-colorado-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.elizaforcolorado.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.elizaforcolorado.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://www.elizaforcolorado.com/join-us"
+},
+{
+"text": "Meet Eliza",
+"href": "https://www.elizaforcolorado.com/meet-eliza"
+},
+{
+"text": "[image: Eliza Hamrick for Colorado House]",
+"href": "https://www.elizaforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/eliza4colorado"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/eliza4colorado"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/eliza4colorado"
+},
+{
+"text": "eliza@elizaforcolorado.com",
+"href": "mailto:eliza@elizaforcolorado.com"
+}
 ]

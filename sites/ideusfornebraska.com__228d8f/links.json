@@ -1,7 +1,26 @@
 [
-"https://facebook.com/ideusfornebraska",
-"https://ideusfornebraska.com/",
-"https://ideusfornebraska.com/cart",
-"https://ideusfornebraska.com/s/Ideus-Release.pdf",
-"https://secure.winred.com/ideus-for-nebraska/donate"
+{
+"text": "0",
+"href": "https://www.ideusfornebraska.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/ideus-for-nebraska/donate"
+},
+{
+"text": "Read our Press Release",
+"href": "https://www.ideusfornebraska.com/s/Ideus-Release.pdf"
+},
+{
+"text": "Volunteer or Take a Sign",
+"href": "https://www.ideusfornebraska.com/#volunteer"
+},
+{
+"text": "[image: Cally Ideus for Legislature]",
+"href": "https://www.ideusfornebraska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ideusfornebraska/"
+}
 ]

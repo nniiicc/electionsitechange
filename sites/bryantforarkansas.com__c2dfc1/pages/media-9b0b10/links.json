@@ -1,8 +1,30 @@
 [
-"http://facebook.com/BryantForArkansas",
-"https://bryantforarkansas.com/",
-"https://bryantforarkansas.com/donate",
-"https://bryantforarkansas.com/media",
-"https://bryantforarkansas.com/news",
-"https://bryantforarkansas.com/take-action"
+{
+"text": "Donate",
+"href": "https://www.bryantforarkansas.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.bryantforarkansas.com/"
+},
+{
+"text": "Media",
+"href": "https://www.bryantforarkansas.com/media"
+},
+{
+"text": "News",
+"href": "https://www.bryantforarkansas.com/news"
+},
+{
+"text": "Take Action",
+"href": "https://www.bryantforarkansas.com/take-action"
+},
+{
+"text": "Veteran. Small Businessman. Leader.",
+"href": "https://www.bryantforarkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/BryantForArkansas"
+}
 ]

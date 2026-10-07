@@ -1,5 +1,5 @@
-Election Integrity
-A government for the People only exists by the People when the People have confidence that the results of an election are a reflection of the collective intent of the voters.
+Home About News Priorities and Issues Videos Endorsements Get Involved Contact Us Endorse Senator Bob Hall!
+CHR $ Capitol Hall Report – October 20, 2016 – Election Integrity October 20, 2016 Tweet Election Integrity A government for the People only exists by the People when the People have confidence that the results of an election are a reflection of the collective intent of the voters.
 That confidence will cease to exist when the ability to post-facto, independently confirm that all votes cast were counted as intended by each voter, and that no improper votes were included in the count.
 Without election integrity, America will become a third-world banana republic in which the people have no voice in who is declared the winner in any election.
 It had been the confidence in the integrity of our elections that has set the United States of America apart from all other nations when we transfer power from one political party to another through free and open elections rather than bloodshed.
@@ -32,3 +32,7 @@ The sad truth, that most citizens are not aware of, is that today, where electro
 The people of Texas want, and deserve an election process that is above reproach.
 Rest assured, the changes needed to return integrity to Texas elections will be addressed these issues will be addressed in the upcoming session.
 We will propose legislation to ensure that we have the tools and procedures so Texas citizens can be confident their vote counts.
+Get the Capitol Hall Report Email Address Zip Code Keep me informed Thanks for subscribing! * Valid Email Address required.
+Home CHR About Priorities and Issues Endorsements News Trusted Conservative Get Involved Get Involved Endorse Senator Hall!
+Contact Us Privacy $ Email Address Zip Code Sign up Thanks for subscribing! * Valid Email Address required Political Advertising Paid for by Texans for Bob Hall, P.O.
+Box 513, Canton, Texas 75103, Mike Slaton, Treasurer Site by Vici Media Group

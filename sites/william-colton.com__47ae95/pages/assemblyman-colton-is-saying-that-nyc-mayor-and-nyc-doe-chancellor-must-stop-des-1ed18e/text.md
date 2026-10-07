@@ -1,5 +1,6 @@
-October 6, 2021
-Assemblyman William Colton (D – Gravesend, Bensonhurst, Bath Beach, and Dyker Heights) is saying that back in September of 2019 the mayor’s clueless advisors came up with an absurd idea, to eliminate gifted and talented programs throughout New York City.
+Skip to content Colton For Assembly We can't just sit back and let those horrible attacks continue.
+An act of hate against anyone is against everyone.
+Menu expanded collapsed Home Meet Bill Colton Press Releases Gallery Volunteer Donate ASSEMBLYMAN COLTON IS SAYING THAT NYC MAYOR AND NYC DOE CHANCELLOR MUST STOP DESTROYING OUR SCHOOL SYSTEM AND THE FUTURE OF OUR KIDS October 6, 2021 Assemblyman William Colton (D – Gravesend, Bensonhurst, Bath Beach, and Dyker Heights) is saying that back in September of 2019 the mayor’s clueless advisors came up with an absurd idea, to eliminate gifted and talented programs throughout New York City.
 “After a long controversy Mayor de Blasio decided to give the Gifted and Talented program entrance exam this spring before changing it, but the city’s Panel for Education Policy voted against renewing a contract with the test’s makers during a meeting in January.
 Now last month the DOE announced that instead of establishing admissions for G&T programs on a single exam it will be selecting students via a lottery questionnaire.
 The DOE decided to completely exclude parents from the process of determining the future of the Gifted and Talented program.
@@ -17,3 +18,6 @@ The excellence in education must be led by the Chancellor in the right direction
 The obligations of Mayor De Blasio and Chancellor Porter are to make sure that every child receives an equal and quality education.
 We need to bring out the best in our children and to teach them that education is the number one key to success in their future, teach them to strive in order to achieve their best.
 Therefore, as a former educator and a long-time supporter of quality education, I fully and solely support parents, their petition, and the Gifted and Talented program for the NYC school system,” Colton added.
+Facebook Twitter William Colton For Assembly Home Meet Bill Colton Press Releases Gallery Volunteer Donate Colton For Assembly , Create a website or blog at WordPress.com Colton For Assembly Copy shortlink Manage subscriptions Sign up Log in Report this content Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

@@ -1,6 +1,4 @@
-Skip navigation menu
-Assembly Candidate, Victor Hernandez, Advances to General Election in an Historic Primary Win in Competitive CA AD-59 Primary
-[Brea, California] — July 14, 2026 – Victor Hernandez secured his place in the November 5 general election for California's 59th Assembly District, finishing second in Orange County’s top-two primary behind incumbent Republican Phillip Chen.
+Skip navigation menu Meet Victor Issues Events News Endorsements Volunteer Donate News Meet Victor Issues Events News Endorsements Volunteer Donate News Candidate Statement Ladera Ranch – Pesticides In Our Communities Podcast Interview EcoSocialist Notes with Howie Hawkins: Episode 287 with Special Guest Victor Hernandez PRESS RELEASE Assembly Candidate, Victor Hernandez, Advances to General Election in an Historic Primary Win in Competitive CA AD-59 Primary Press Release Assembly Candidate, Victor Hernandez, Responds to Escalating Wildfire Crisis Across the West – Emphasizes Local Threat to District 59 Jul 14 2026 PRESS RELEASE Assembly Candidate, Victor Hernandez, Advances to General Election in an Historic Primary Win in Competitive CA AD-59 Primary [Brea, California] — July 14, 2026 – Victor Hernandez secured his place in the November 5 general election for California's 59th Assembly District, finishing second in Orange County’s top-two primary behind incumbent Republican Phillip Chen.
 With both candidates moving forward, Orange County voters will decide the seat's future in this important Assembly District’s legislative race.
 Official election results show Hernandez capturing approximately 33.7% of the vote, with more than 126,000 ballots cast across the district.
 This June’s 40.3% turnout among registered voters represents a marked increase from prior primary cycles.
@@ -11,16 +9,9 @@ Since California switched to top-two ("jungle") primaries in 2010—a reform tha
 I think that’s what we saw with our historic primary results.
 While I'm grateful for the thousands who believed in our campaign during this primary, the real work begins now," said Hernandez reflecting on his decisive win.
 "Our grassroots campaign challenges the status quo backroom dealings and corporate influence in Sacramento.
-On November 3rd, voters will choose between worsening conditions or real, positive change for working families in our district.”
-The campaign garnered support from large numbers of volunteers and is actively seeking small-dollar donations to enable robust digital and direct mail outreach campaigns heading into the fall season.
+On November 3rd, voters will choose between worsening conditions or real, positive change for working families in our district.” The campaign garnered support from large numbers of volunteers and is actively seeking small-dollar donations to enable robust digital and direct mail outreach campaigns heading into the fall season.
 Hernandez and Chen will compete head-to-head in the general election.
-Hernandez is already scheduled to host town halls and various community events throughout August focused on affordable housing costs, universal healthcare, and environmental protection investments for safe and thriving communities across the 59th Assembly District.
-For more information on Victor Hernandez's full platform, visit his website: https://www.victorforassembly.com/
-Support the mission: donate, volunteer, and follow on social media.
+Hernandez is already scheduled to host town halls and various community events throughout August focused on affordable housing costs, universal healthcare, and environmental protection investments for safe and thriving communities across the 59th Assembly District. --- For more information on Victor Hernandez's full platform, visit his website: https://www.victorforassembly.com/ Support the mission: donate, volunteer, and follow on social media.
 Victor's campaign rejects corporate influence in favor of grassroots power.
 From affordable housing and healthcare-for-all to defending immigrants and our communities, Victor is putting the needs of California’s working families and small businesses above corporate greed.
-PRESS RELEASE
----
-Contact information:
-https://www.victorforassembly.com/
-@victorforassembly (Instagram/Facebook)
+Contact information : Alice Reid Press Secretary Victor for Assembly 2026 press@victorforassembly.com https://www.victorforassembly.com/ @victorforassembly (Instagram/Facebook) Press Kit Press Kit Contact Privacy Policy FPPC #1491723 Powered by RUN! website builder Paid by Victor Hernandez for Assembly 2026 You need to enable JavaScript to run this app.

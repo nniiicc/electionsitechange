@@ -1,32 +1,142 @@
 [
-"http://linkedin.com/in/stevenagoforth",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fmeet-christina&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fopen-house&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fvolunteer-meetup&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/stevengoforthforcongress",
-"https://facebook.com/wix",
-"https://instagram.com/stevengoforthforcongress",
-"https://instagram.com/wix",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fmeet-christina",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fopen-house",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fvolunteer-meetup",
-"https://stevengoforth.com/",
-"https://stevengoforth.com/about",
-"https://stevengoforth.com/accessibility-statement",
-"https://stevengoforth.com/contact",
-"https://stevengoforth.com/events-1",
-"https://stevengoforth.com/events/meet-christina",
-"https://stevengoforth.com/events/open-house",
-"https://stevengoforth.com/events/volunteer-meetup",
-"https://stevengoforth.com/get-involved",
-"https://stevengoforth.com/news",
-"https://stevengoforth.com/privacy-policy",
-"https://stevengoforth.com/terms-and-conditions",
-"https://threads.com/@stevengoforthforcongress",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fmeet-christina&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fopen-house&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fvolunteer-meetup&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/wix",
-"https://x.com/StevenAGoforth",
-"https://youtube.com/@StevenGoforthforCongress"
+{
+"text": "About",
+"href": "https://www.stevengoforth.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.stevengoforth.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.stevengoforth.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.stevengoforth.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.stevengoforth.com"
+},
+{
+"text": "Events",
+"href": "https://www.stevengoforth.com/events-1"
+},
+{
+"text": "FOR CONGRESS",
+"href": "https://www.stevengoforth.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stevengoforth.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.stevengoforth.com/events-1"
+},
+{
+"text": "MEDIA PORTAL",
+"href": "https://www.stevengoforth.com"
+},
+{
+"text": "News",
+"href": "https://www.stevengoforth.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.stevengoforth.com/privacy-policy"
+},
+{
+"text": "REGISTER NOW",
+"href": "https://www.stevengoforth.com/events/meet-christina"
+},
+{
+"text": "REGISTER NOW",
+"href": "https://www.stevengoforth.com/events/open-house"
+},
+{
+"text": "REGISTER NOW",
+"href": "https://www.stevengoforth.com/events/volunteer-meetup"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.stevengoforth.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/stevengoforthforcongress"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/stevengoforthforcongress/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.youtube.com/@StevenGoforthforCongress"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@stevengoforthforcongress"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/StevenAGoforth"
+},
+{
+"text": "[image: Youtube]",
+"href": "http://www.linkedin.com/in/stevenagoforth"
+},
+{
+"text": "[image]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fmeet-christina&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fopen-house&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fvolunteer-meetup&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fmeet-christina&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fopen-house&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fvolunteer-meetup&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fmeet-christina"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fopen-house"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.stevengoforth.com%2Fevents%2Fvolunteer-meetup"
+},
+{
+"text": "campaign@stevengoforth.com",
+"href": "mailto:campaign@stevengoforth.com"
+}
 ]

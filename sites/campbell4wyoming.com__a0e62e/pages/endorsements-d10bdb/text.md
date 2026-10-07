@@ -1,4 +1,4 @@
-I have known Elissa Campbell nearly as long as I’ve been a Casper resident and have worked with her in several capacities.
+0 Skip to Content Elissa Campbell House District 56 Home About Experience Endorsements Contribute Contact Open Menu Close Menu Elissa Campbell House District 56 Home About Experience Endorsements Contribute Contact Open Menu Close Menu Home About Experience Endorsements Contribute Contact I have known Elissa Campbell nearly as long as I’ve been a Casper resident and have worked with her in several capacities.
 In early 2018 she provided valuable guidance and feedback in her position with Elevate Wyoming.
 I also had the pleasure of participating in the Wyoming High School “Be Entrepreneurial” Pitch Night, led by Elissa.
 Her excitement and belief in these kids continue to amaze.
@@ -19,8 +19,7 @@ She will sponsor and support legislation that is best for the people in her dist
 We desperately need people who can advance good governance, who are honest and not self-serving, all while remaining optimistic.
 Mostly, we need leaders who can compromise, are respectful of others, and serve people over party.
 Elissa is that person.
-Greg Dixson - President Hilltop Bank
-Thank you for your support!
+Greg Dixson - President Hilltop Bank Thank you for your support!
 We wholeheartedly stand in support of Elissa Campbell’s candidacy for House District 56.
 Ms.
 Campbell served for two years with us on the Wyoming Wildlife Taskforce in 2021 and 2022.
@@ -36,8 +35,7 @@ Elissa is skilled at listening to understand, connecting with people, and buildi
 We believe that Ms.
 Campbell has the intellect, skills, and strong moral character to become a very good legislator.
 We encourage the Republicans of House District 56 to vote for Elissa Campbell at the August 20 primary.
-Ogden Driskill – President of the Wyoming Senate; Albert Sommers – Speaker of the Wyoming House; Josh Coursey – Muley Fanatic Foundation, Sportsman
-I was blessed to serve in the Wyoming House for almost 10 years.
+Ogden Driskill – President of the Wyoming Senate; Albert Sommers – Speaker of the Wyoming House; Josh Coursey – Muley Fanatic Foundation, Sportsman I was blessed to serve in the Wyoming House for almost 10 years.
 Over that time, I saw dozens of new representatives come and go.
 Those who were the most effective were those who were invested and involved in their communities long before they ever held elected office.
 Those are the people who knew and understood the issues important to their neighbors and their constituents.
@@ -49,4 +47,4 @@ Elissa supported education by pushing practical training programs in Natrona Cou
 She has the experience of knowing our community and the skills needed to represent us.
 Please for Elissa Campbell for House District 56.
 You won’t be sorry that you did.
-Tim Stubson - Casper
+Tim Stubson - Casper Campbell4Wyoming Elissa Campbell House District 56 Casper, Wyoming Contact elissa@campbell4wyoming.com (307) 439-5364 PO Box 904, Casper Wyoming, 82602

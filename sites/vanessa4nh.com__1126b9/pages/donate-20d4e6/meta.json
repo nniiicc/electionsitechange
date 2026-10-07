@@ -1,9 +1,12 @@
 {
  "description": "Support Vanessa&#39;s campaign by making campaign donations online or by check. Join us in making a difference in New Hampshire!",
  "final_url": "https://vanessa4nh.com/donate",
- "paid_for_by": null,
+ "fingerprint": "11679fb4f7fa686ed6ba469d78262141c4f6e556",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
  "years_mentioned": [
+  "2025",
   "2026"
  ]
 }

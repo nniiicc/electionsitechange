@@ -1,9 +1,14 @@
-American Rescue Plan Act Funding
-The federal American Rescue Plan Act (ARPA) provided approximately $8.7 billion to Massachusetts through the new Coronavirus State and Local Fiscal Recovery Funds.
-The Commonwealth received $5.3 billion from the Coronavirus State Fiscal Recovery Fund (CSFRF).
-Municipalities and functional counties in the Commonwealth received $3.4 billion from the Coronavirus Local Fiscal Recovery Fund (CLFRF).
-There are 4 areas where ARPA Funds can be used:
-- Respond to the public health emergency with respect to COVID-19 or its negative economic impacts
-- Provide premium pay to employees providing essential work during the COVID-19 public health emergency
-- Provide government services to the extent of a government's reduction in revenue due to COVID-19
-- Invest in water, sewer, or broadband infrastructure.
+top of page Home Meet Steve Meet the Team Contact Steve Policy Legislative Wins Issues Funding Resources Newsroom More Use tab to navigate through the menu items.
+American Rescue Plan Act Funding The federal American Rescue Plan Act (ARPA) provided approximately $8.7 billion to Massachusetts through the new Coronavirus State and Local Fiscal Recovery Funds.
+The Commonwealth received $5.3 billion from the Coronavirus State Fiscal Recovery Fund (CSFRF) .
+Municipalities and functional counties in the Commonwealth received $3.4 billion from the Coronavirus Local Fiscal Recovery Fund (CLFRF) . ​ There are 4 areas where ARPA Funds can be used: Respond to the public health emergency with respect to COVID-19 or its negative economic impacts Provide premium pay to employees providing essential work during the COVID-19 public health emergency Provide government services to the extent of a government's reduction in revenue due to COVID-19 Invest in water, sewer, or broadband infrastructure. ​ Urban and Community Forestry Greening $100,000 was allocated to improve Malden's urban and community forestry greening Malden City Archive $125,000 was set aside for the creation of a city archive in Malden accessible for all residents.
+Eastern Malden Fire Station In order to conduct a feasibility study on the establishment of a fire station in Eastern Malden, $75,000 was secured through the State.
+Updates to Malden Library $100,000 will be used to upgrade equipment for the advancement of online services at the Malden Library Town Line Brook Floodgate The lack of maintenance and repairs to the Town Line Brook flood gates has led to severe flooding experienced by residents in Malden and Revere.
+With the help of Rep.
+Jessica Ann Giannino in Revere, we secured $50,000 to cover the repair costs of the flood gates.
+Bread of Life Services $250,000 in funds were given to Bread of Life in Malden to expand services addressing food security and homelessness Malden River Works Project $150,000 was allocated f or environmental remediation and climate resilience for the Malden River Works Project Energy Efficient Street Lighting $85,000 was allocated to replace Malden's street lighting with energy-efficient alternatives.
+Malden Overcoming Addiction Upgrades $60,000 was provided to MOA for facility upgrades and capital improvements at the organization's Club 24 facility.
+Immigrant Learning Center Upgrades Malden's Immigrant Learning Center received $250,000 for accessibility upgrades and other capital improvements.
+YWCA of Malden Upgrades $100,000 was allocated to Malden's YWCA for energy efficiency upgrades and other capital improvements to Wilcox Hall in the city of Malden.
+Sign Up Thanks for submitting!
+Tel: (617) 722-2877 Email: Steven.Ultrino@MAhouse.gov State House, Room 174, Boston, MA 02133 © # Paid for by The Committee To Elect Steve Ultrino bottom of page

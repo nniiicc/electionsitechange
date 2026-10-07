@@ -1,12 +1,74 @@
 [
-"https://elections.maricopa.gov/voting/voter-dashboard-login.html",
-"https://elections.maricopa.gov/voting/where-to-vote.html",
-"https://facebook.com/munoz4az",
-"https://forms.gle/RXz33HByDQPqgwMF6",
-"https://instagram.com/munoz4az",
-"https://munoz4az.com/en",
-"https://munoz4az.com/en/voter-resources",
-"https://munoz4az.com/es",
-"https://servicearizona.com/VoterRegistration/selectLanguage",
-"https://tiktok.com/@munoz4az"
+{
+"text": "About",
+"href": "https://www.munoz4az.com/en/#about"
+},
+{
+"text": "Check Status",
+"href": "https://elections.maricopa.gov/voting/voter-dashboard-login.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.munoz4az.com/en/#endorsements"
+},
+{
+"text": "Español",
+"href": "https://www.munoz4az.com/es"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/munoz4az"
+},
+{
+"text": "Home",
+"href": "https://www.munoz4az.com/en"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/munoz4az/"
+},
+{
+"text": "Map",
+"href": "https://www.munoz4az.com/en/#map"
+},
+{
+"text": "Register To Vote",
+"href": "https://servicearizona.com/VoterRegistration/selectLanguage"
+},
+{
+"text": "Socials",
+"href": "https://www.munoz4az.com/en/#socials"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@munoz4az"
+},
+{
+"text": "Vision",
+"href": "https://www.munoz4az.com/en/#vision"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/RXz33HByDQPqgwMF6"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.munoz4az.com/en/voter-resources"
+},
+{
+"text": "Voter Resources & Guide",
+"href": "https://www.munoz4az.com/en/voter-resources"
+},
+{
+"text": "Where to Vote",
+"href": "https://elections.maricopa.gov/voting/where-to-vote.html"
+},
+{
+"text": "[image: Vote Betsy Muñoz]",
+"href": "https://www.munoz4az.com/en"
+},
+{
+"text": "munoz4az@gmail.com",
+"href": "mailto:munoz4az@gmail.com"
+}
 ]

@@ -1,10 +1,3 @@
-Back to All Events
-What a great turnout and a fun parade!
+0 Skip to Content Home About Me Endorsements Contact Events Facebook Donate Now Open Menu Close Menu Home About Me Endorsements Contact Events Facebook Donate Now Open Menu Close Menu Home About Me Endorsements Contact Events Facebook Donate Now Back to All Events July 4th Parade Friday, July 4, 2025 10:00 AM 12:00 PM Google Calendar ICS What a great turnout and a fun parade!
 If anyone is interested in walking with us in future parades, please reach out.
-Previous
-Previous
-June 14
-Flag Day Parade
-Next
-Next
-July 26
+Previous Previous June 14 Flag Day Parade Next Next July 26 Marion County Fair Parade Paid for by Committee to Elect Roth McElvain, Treasurer Chad Englehardt mcelvainformissouri@gmail.com

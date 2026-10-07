@@ -1,4 +1,4 @@
-[February 07, 2022] | I am glad I live where we do.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK REPORT FROM THE CAPITOL [ February 07, 2022 ] | I am glad I live where we do.
 We were not in session on Friday, and Marcia and I had errands and folks to see for business all around town.
 I was blown away by the friendliness of folks, saying, "Hi," and asking how things were going, filling me in on what was going on that I may not know about.
 When I got back in my truck to go home, I just smiled.
@@ -27,3 +27,4 @@ I have received quite a few emails and calls at the Capitol in the past week fro
 Good to hear from you, and I want to encourage you to let us know what you?re thinking, or let us try to answer questions you may have heard about certain legislation.
 You can contact me at the Capitol at 404-646-7153, and you can email me at rick.jasperse@house.ga.gov, or stop me in the grocery store or wherever in town.
 As always, thank you for allowing me to serve as your State Representative; look forward to hearing from you.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

@@ -1,6 +1,4 @@
-Commentary: Protect school choice in rural Vermont
-Updated: Apr 1
-Rural schools operate under different realities than schools in larger cities or suburban areas.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE All Posts Education Press Release Housing Service Endorsements Search Commentary: Protect school choice in rural Vermont Thomas West Mar 10 3 min read Updated: Apr 1 Rural schools operate under different realities than schools in larger cities or suburban areas.
 In small towns, geography and population size shape what is possible in ways that policy discussions in Montpelier sometimes overlook.
 For generations, Vermont responded to those realities with practical solutions.
 One of the most important is school choice, which allows students in small towns to attend schools that best meet their needs.
@@ -43,3 +41,8 @@ The answer has never been one-size-fits-all.
 It has been practical solutions that reflect the realities of small towns.
 Protecting and strengthening school choice is one of those solutions.
 Published on March 11, 2025 via Manchester Journal.
+Tags: School Choice Education Affordability Education Recent Posts See All Commentary: Gov.
+Phil Scott is Wrong on Universal School Meals Home Meet Thomas Issues Get Involved News Contact PAID FOR BY WEST FOR VERMONT PO BOX 1861 Manchester Center, VT 05255​ (802) 768-7801​​ thomas@ westforvermont.com Thomas West is a former member of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Army, the Department of Defense, or any branch of the U.S. government. bottom of page

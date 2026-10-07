@@ -1,7 +1,9 @@
 {
  "description": "markformaine's campaign",
  "final_url": "https://www.markformaine.com/",
- "paid_for_by": null,
+ "fingerprint": "4361c7fa660d4fec06c4fcc8de4667b70aaf8a4f",
+ "format": 3,
+ "paid_for_by": "authorized by Mark Vigliotta for Senate You need to enable JavaScript to run this app",
  "title": "Mark for Maine",
  "years_mentioned": []
 }

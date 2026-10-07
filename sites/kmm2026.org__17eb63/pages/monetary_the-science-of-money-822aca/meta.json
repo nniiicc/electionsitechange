@@ -1,9 +1,15 @@
 {
  "description": "The Science of Money by Alexander del Mar, 1896, formatted for HTML with contents and index.",
  "final_url": "https://www.kmm2026.org/monetary/the-science-of-money",
- "paid_for_by": null,
+ "fingerprint": "67aaa285140fbd7a92f972fcb8672ace5cde8645",
+ "format": 3,
+ "paid_for_by": "",
  "title": "The Science of Money",
  "years_mentioned": [
-  "2019"
+  "2000",
+  "2016",
+  "2019",
+  "2026",
+  "2037"
  ]
 }

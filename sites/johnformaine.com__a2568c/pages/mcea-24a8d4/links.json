@@ -1,21 +1,94 @@
 [
-"http://maine.gov/cleanelections",
-"https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/index.pl",
-"https://facebook.com/JohnForMaine",
-"https://instagram.com/johnformaine",
-"https://johnformaine.com/",
-"https://johnformaine.com/cart",
-"https://johnformaine.com/connect",
-"https://johnformaine.com/donate",
-"https://johnformaine.com/healthcare",
-"https://johnformaine.com/healthy-food",
-"https://johnformaine.com/heating",
-"https://johnformaine.com/housing",
-"https://johnformaine.com/outdoor-heritage",
-"https://johnformaine.com/platform",
-"https://johnformaine.com/press",
-"https://maine.gov/ethics/candidates/maine-clean-election-act",
-"https://registertovote.sos.maine.gov/OnlineVoterRegistration/Registration",
-"https://tiktok.com/@johnformaine?_r=1&_t=ZT-98LLOvcpbcT",
-"https://youtube.com/@JohnForMaine"
+{
+"text": "0",
+"href": "https://www.johnformaine.com/cart"
+},
+{
+"text": "Absentee Ballot Request",
+"href": "https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/index.pl"
+},
+{
+"text": "Back",
+"href": "https://www.johnformaine.com/"
+},
+{
+"text": "Donate",
+"href": "https://www.johnformaine.com/donate"
+},
+{
+"text": "Donate $5 Today!",
+"href": "https://www.johnformaine.com/donate"
+},
+{
+"text": "Donate Today!",
+"href": "http://maine.gov/cleanelections"
+},
+{
+"text": "Folder: Platform",
+"href": "https://www.johnformaine.com/platform"
+},
+{
+"text": "Healthcare",
+"href": "https://www.johnformaine.com/healthcare"
+},
+{
+"text": "Healthy Food",
+"href": "https://www.johnformaine.com/healthy-food"
+},
+{
+"text": "Heating",
+"href": "https://www.johnformaine.com/heating"
+},
+{
+"text": "Housing",
+"href": "https://www.johnformaine.com/housing"
+},
+{
+"text": "John Henkelman for Maine House",
+"href": "https://www.johnformaine.com/"
+},
+{
+"text": "John@JohnForMaine.com",
+"href": "mailto:John@JohnForMaine.com?subject=MCEA+Help+%5BJohn+For+Maine+House%5D"
+},
+{
+"text": "Learn More About The Maine Clean Elections Act",
+"href": "https://www.maine.gov/ethics/candidates/maine-clean-election-act"
+},
+{
+"text": "News & Updates",
+"href": "https://www.johnformaine.com/press"
+},
+{
+"text": "Outdoor Heritage",
+"href": "https://www.johnformaine.com/outdoor-heritage"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovote.sos.maine.gov/OnlineVoterRegistration/Registration"
+},
+{
+"text": "Stay Connected",
+"href": "https://www.johnformaine.com/connect"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JohnForMaine"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/johnformaine/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@johnformaine?_r=1&_t=ZT-98LLOvcpbcT"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JohnForMaine"
+},
+{
+"text": "http://maine.gov/cleanelections",
+"href": "http://maine.gov/cleanelections"
+}
 ]

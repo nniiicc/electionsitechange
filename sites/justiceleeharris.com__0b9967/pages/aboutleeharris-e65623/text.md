@@ -1,5 +1,4 @@
-About Justice Lee Harris
-Justice Lee Harris is a 1993 graduate of Baylor Law School.
+0 Skip to Content Justice Lee Harris About Justice Lee Harris Donate Open Menu Close Menu Justice Lee Harris About Justice Lee Harris Donate Open Menu Close Menu About Justice Lee Harris Donate About Justice Lee Harris Justice Lee Harris is a 1993 graduate of Baylor Law School.
 Judge Harris received his undergraduate degree from Stephen F.
 Austin State University, where he graduated Cum Laude with a Bachelor of Science in Agriculture.
 From September 1, 2005, until December 31, 2014, Judge Harris served as the first judge of the County Court at Law of Hill County, Texas.
@@ -20,3 +19,4 @@ Elizabeth Wagner and her husband, Jeff, blessed them with two grandsons.
 He is a deacon at Peoria Baptist Church.
 Judge Harris also serves on the Board of Directors of Amigos Internacionales.
 Amigos is an organization that exists to aid in natural disasters, help solve world hunger problems, and provide safe drinking water, schools, orphanages, and a safe harbor for children from sex trafficking in Uganda and across the globe.
+Justice Lee Harris Campaign PO Box 573 Hillsboro, TX, 76645 Political Advertising Paid by Justice Lee Harris Campaign, Holly Harris Treasurer In compliance with the limitations of the Texas Judicial Campaign Fairness Act Connect on Facebook DONATE HERE

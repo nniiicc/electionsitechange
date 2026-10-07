@@ -1,11 +1,46 @@
 [
-"https://alstirpeassembly.org/",
-"https://alstirpeassembly.org/about-al",
-"https://alstirpeassembly.org/contact-al",
-"https://alstirpeassembly.org/endorsements",
-"https://alstirpeassembly.org/privacy-policy",
-"https://alstirpeassembly.org/volunteer",
-"https://facebook.com/AlStirpeforAssembly",
-"https://secure.actblue.com/donate/stirpewebsite",
-"https://x.com/stirpeal"
+{
+"text": "0",
+"href": "https://facebook.com/AlStirpeforAssembly"
+},
+{
+"text": "0",
+"href": "https://x.com/stirpeal"
+},
+{
+"text": "About",
+"href": "https://alstirpeassembly.org/about-al/"
+},
+{
+"text": "Contact",
+"href": "https://alstirpeassembly.org/contact-al/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/stirpewebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://alstirpeassembly.org/endorsements/"
+},
+{
+"text": "Volunteer",
+"href": "https://alstirpeassembly.org/volunteer/"
+},
+{
+"text": "[image: Al Stirpe For State Assembly]",
+"href": "https://alstirpeassembly.org/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/AlStirpeforAssembly"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/stirpeal"
+},
+{
+"text": "link to Privacy Policy page",
+"href": "https://alstirpeassembly.org/privacy-policy/"
+}
 ]

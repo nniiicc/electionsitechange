@@ -1,13 +1,50 @@
 [
-"https://facebook.com/profile.php?id=61584141414323",
-"https://instagram.com/nateforcolorado",
-"https://nateforcolorado.com/",
-"https://nateforcolorado.com/endorsements",
-"https://nateforcolorado.com/hear-from-nate",
-"https://nateforcolorado.com/privacy-policy",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/nate-for-colorado-hd43/donate",
-"https://secure.anedot.com/nate-for-colorado-hd43/donate?exitIntent=true",
-"https://x.com/nate4colorado?s=11"
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/nate-for-colorado-hd43/donate"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/nate-for-colorado-hd43/donate?exitIntent=true"
+},
+{
+"text": "Endorsements",
+"href": "https://nateforcolorado.com/endorsements"
+},
+{
+"text": "Hear From Nate",
+"href": "https://nateforcolorado.com/hear-from-nate"
+},
+{
+"text": "Home",
+"href": "https://nateforcolorado.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nateforcolorado.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Nate for Colorado]",
+"href": "https://nateforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584141414323"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nateforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/nate4colorado?s=11"
+}
 ]

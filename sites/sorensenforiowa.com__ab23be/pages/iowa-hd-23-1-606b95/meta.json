@@ -1,10 +1,11 @@
 {
  "description": "Help out Bubba's campaign",
  "final_url": "https://sorensenforiowa.com/iowa-hd-23-1",
- "paid_for_by": null,
+ "fingerprint": "cf0bbda2fcaeb214f640ad46252ba18d0c9ad6ce",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Iowa HD 23",
  "years_mentioned": [
-  "2020",
-  "2026"
+  "2020"
  ]
 }

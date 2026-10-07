@@ -1,23 +1,110 @@
 [
-"https://calebforcongress.com/",
-"https://calebforcongress.com/about",
-"https://calebforcongress.com/accessibility-statement",
-"https://calebforcongress.com/blog",
-"https://calebforcongress.com/blog/categories/campaign-trail",
-"https://calebforcongress.com/blog/categories/community",
-"https://calebforcongress.com/blog/categories/events",
-"https://calebforcongress.com/blog/categories/news",
-"https://calebforcongress.com/blog/categories/policy",
-"https://calebforcongress.com/blog/categories/veterans",
-"https://calebforcongress.com/blog/categories/videos",
-"https://calebforcongress.com/donate-contact",
-"https://calebforcongress.com/events/meet-caleb-acadiana-mall",
-"https://calebforcongress.com/issues",
-"https://calebforcongress.com/post/on-the-trail-this-week-forums-in-rayne-and-lafayette-meet-and-greet-at-acadiana-mall",
-"https://calebforcongress.com/privacy-policy",
-"https://calebforcongress.com/profile/walker31887519/profile",
-"https://calebforcongress.com/volunteer",
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://twitter.com/wix"
+{
+"text": "ABOUT",
+"href": "https://www.calebforcongress.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.calebforcongress.com"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.calebforcongress.com/accessibility-statement"
+},
+{
+"text": "All Posts",
+"href": "https://www.calebforcongress.com/blog"
+},
+{
+"text": "Campaign Trail",
+"href": "https://www.calebforcongress.com/blog/categories/campaign-trail"
+},
+{
+"text": "Community",
+"href": "https://www.calebforcongress.com/blog/categories/community"
+},
+{
+"text": "Contact",
+"href": "https://www.calebforcongress.com/donate-contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.calebforcongress.com/donate-contact"
+},
+{
+"text": "EVENTS",
+"href": "https://www.calebforcongress.com/events/meet-caleb-acadiana-mall"
+},
+{
+"text": "Events",
+"href": "https://www.calebforcongress.com/blog/categories/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.calebforcongress.com/volunteer"
+},
+{
+"text": "HOME",
+"href": "https://www.calebforcongress.com"
+},
+{
+"text": "Home",
+"href": "https://www.calebforcongress.com/post/on-the-trail-this-week-forums-in-rayne-and-lafayette-meet-and-greet-at-acadiana-mall"
+},
+{
+"text": "ISSUES",
+"href": "https://www.calebforcongress.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.calebforcongress.com/blog/categories/news"
+},
+{
+"text": "Policy",
+"href": "https://www.calebforcongress.com/blog/categories/policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.calebforcongress.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.calebforcongress.com"
+},
+{
+"text": "UPDATES",
+"href": "https://www.calebforcongress.com/blog"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.calebforcongress.com/volunteer"
+},
+{
+"text": "Veterans",
+"href": "https://www.calebforcongress.com/blog/categories/veterans"
+},
+{
+"text": "Videos",
+"href": "https://www.calebforcongress.com/blog/categories/videos"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "info@calebforcongress.com",
+"href": "mailto:info@calebforcongress.com"
+},
+{
+"text": "walker3186",
+"href": "https://www.calebforcongress.com/profile/walker31887519/profile"
+}
 ]

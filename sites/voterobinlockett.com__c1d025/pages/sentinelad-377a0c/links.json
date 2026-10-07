@@ -1,15 +1,58 @@
 [
-"http://facebook.com/share/18MAUvvgUH",
-"http://instagram.com/voterobinlockett",
-"http://x.com/RobinForTampa",
-"https://voterobinlockett.com/",
-"https://voterobinlockett.com/137-2",
-"https://voterobinlockett.com/about",
-"https://voterobinlockett.com/contactus",
-"https://voterobinlockett.com/events",
-"https://voterobinlockett.com/new-sample-endorsement-page",
-"https://voterobinlockett.com/news",
-"https://voterobinlockett.com/photos",
-"https://voterobinlockett.com/supporters",
-"https://voterobinlockett.com/volunteer"
+{
+"text": "About",
+"href": "https://voterobinlockett.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://voterobinlockett.com/contactus/"
+},
+{
+"text": "Donate",
+"href": "https://voterobinlockett.com/137-2/"
+},
+{
+"text": "Endorsements",
+"href": "https://voterobinlockett.com/new-sample-endorsement-page/"
+},
+{
+"text": "Events",
+"href": "https://voterobinlockett.com/events/"
+},
+{
+"text": "Follow",
+"href": "http://www.facebook.com/share/18MAUvvgUH"
+},
+{
+"text": "Follow",
+"href": "http://www.instagram.com/voterobinlockett"
+},
+{
+"text": "Follow",
+"href": "http://www.x.com/RobinForTampa"
+},
+{
+"text": "Home",
+"href": "https://voterobinlockett.com/"
+},
+{
+"text": "News",
+"href": "https://voterobinlockett.com/news/"
+},
+{
+"text": "Photos",
+"href": "https://voterobinlockett.com/photos/"
+},
+{
+"text": "Supporters",
+"href": "https://voterobinlockett.com/supporters/"
+},
+{
+"text": "Volunteer",
+"href": "https://voterobinlockett.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://voterobinlockett.com/supporters/"
+}
 ]

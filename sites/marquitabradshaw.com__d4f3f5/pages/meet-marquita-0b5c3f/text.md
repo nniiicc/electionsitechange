@@ -1,3 +1,9 @@
+Skip navigation menu Meet Marquita Priorities Events Volunteer Go Vote Store Connect Donate Proven Leader.
+Trusted Problem Solver.
+Marquita Bradshaw brings years of grassroots leadership and community advocacy to complex challenges facing Tennesseans.
+Meet Marquita Priorities Events Volunteer Go Vote Store Connect Donate Proven Leader.
+Trusted Problem Solver.
+Marquita Bradshaw brings years of grassroots leadership and community advocacy to complex challenges facing Tennesseans.
 I’m Marquita Bradshaw, the official Democratic nominee for United States Senate in Tennessee.
 A tenth-generation South Memphis resident, Marquita has built on her family’s tradition of labor and community advocacy by working on issues affecting working families and historically underserved neighborhoods.
 Her career has focused on environmental health, workers’ rights, economic opportunity, and public accountability.
@@ -5,5 +11,5 @@ As executive director of Sowing Justice, an environmental justice nonprofit, she
 Drawing on years of grassroots advocacy, Marquita emphasizes community participation and government accountability.
 Her approach centers the experiences of residents directly affected by public policy and seeks to ensure that communities have a role in decisions concerning their health, livelihoods, and future.
 "My public service is rooted in the challenges facing working families and a commitment to giving Tennesseans a stronger voice in Washington.
-My priorities include affordable healthcare and housing, strong public schools, universal broadband, voting rights, fair electoral districts, climate resilience, environmental justice, and greater economic opportunity
-for every community." -- Marquita Bradshaw
+My priorities include affordable healthcare and housing, strong public schools, universal broadband, voting rights, fair electoral districts, climate resilience, environmental justice, and greater economic opportunity for every community." -- Marquita Bradshaw JOIN OUR MOVEMENT Tennesseans deserve better, join Marquita in building a grassroots campaign that moves Tennessee forward.
+This race won’t be easy, and every supporter matters. $ 25 $ 50 $ 100 $ 250 $ 500 Other $ 25 $ 50 $ 100 $ 250 $ 500 Other DONATE BY MAIL Marquita Bradshaw for United States Senate 1498 Union #901 Memphis, Tennessee 38104 Please provide occupation and employer information for individual donations greater than $# PRESS CONTACT GENERAL CONTACT Designed and Created by Swing State Powered by RUN! website builder PAID FOR BY MARQUITA BRADSHAW FOR UNITED STATES SENATE You need to enable JavaScript to run this app.

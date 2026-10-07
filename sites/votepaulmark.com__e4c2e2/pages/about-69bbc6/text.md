@@ -1,6 +1,4 @@
-About Paul
-Paul Mark
-Representative Paul Mark has spent his career fighting for the people of Western Massachusetts.
+Skip to content Home About Get Involved Events Priorities Endorsements Donate Now About Paul Paul Mark Representative Paul Mark has spent his career fighting for the people of Western Massachusetts.
 His commitment to this work is grounded in his blue-collar background.
 Paul understands and has lived the same challenges that many in our community are facing today.
 He also knows firsthand the power that opportunities like higher education, a union job, and access to good healthcare can have.
@@ -20,5 +18,6 @@ In 2010, Paul was elected to the Massachusetts House of Representatives to serve
 Since taking office, Paul has been an outspoken champion and strong advocate for the progressive, working class issues important to all of us.
 In the State House, Paul has advocated for Medicare-for-all; higher education funding reform, student debt relief, and additional funding for vocational programs across our state; big and transformative solutions to combat the climate crisis while providing good paying jobs for our communities; and ensuring that Western Mass has access to affordable transportation and high-speed broadband internet.
 As our State Senator, Paul will fight for our communities in Berkshire, Franklin, Hampden, and Hampshire counties.
-With the difficult and evolving challenges we face today, nobody will work harder than Paul to ensure that the people in our communities are well represented on Beacon Hill.
-PAID FOR BY THE COMMITTEE TO ELECT PAUL MARK
+With the difficult and evolving challenges we face today, n obody will work harder than Paul to ensure that the people in our communities are well represented on Beacon Hill.
+Follow us on the campaign trail!
+Instagram Facebook Twitter PAID FOR BY THE COMMITTEE TO ELECT PAUL MARK Theme of Rigorous Themes.

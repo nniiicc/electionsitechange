@@ -1,11 +1,8 @@
-"Tennessee is one of the most biodiverse states in the country, and even has some of the most biodiverse ecology in the world.
+Home Donate Volunteer Platform Resource Link 1 Resource Link 2 Resource Link 3 Call Dave Nature Lovers "Tennessee is one of the most biodiverse states in the country, and even has some of the most biodiverse ecology in the world.
 Our land is lush and beautiful, and we need to keep it that way.
-These policies protect nature and biodiversity, and take steps to restore the land's habitats, tree cover, and more."
-- Dave Seeman
-Honor First Nations
+These policies protect nature and biodiversity, and take steps to restore the land's habitats, tree cover, and more." - Dave Seeman Honor First Nations Protect Indigenous sacred sites, teach Tennessee students about indigenous history of the state, build government-to-government partnerships with tribal nations, and return remains and sacred objects from state museums.
+Explore → Copied!
 Protect Indigenous sacred sites, teach Tennessee students about indigenous history of the state, build government-to-government partnerships with tribal nations, and return remains and sacred objects from state museums.
-Explore →
-Copied!
 The word "Tennessee" comes from Tanasi, a Cherokee town on the Little Tennessee River.
 Before this was Tennessee, it was already home.
 At Red Clay, the Cherokee Nation held its last councils before removal.
@@ -17,9 +14,9 @@ We'll build government-to-government partnerships with the Cherokee Nation, Chic
 And we'll accelerate the return of remains and sacred objects held by state museums.
 Tennessee's story didn't begin in 1796.
 Honoring the people who came before us makes our state more complete, not less.
-Civil Rights & Freedoms
-Community Enrichment
-Make PFAS Polluters Pay for Tennessee's Cleanup
+Civil Rights & Freedoms Community Enrichment Collapse ↑ Make PFAS Polluters Pay for Tennessee's Cleanup Billions in settlement money is sitting on the table.
+Tennessee collects only if every water system files.
+Explore → Copied!
 Billions in settlement money is sitting on the table.
 Tennessee collects only if every water system files.
 Two national PFAS settlements are already paying out to public water systems: 3M's package worth $10.3 billion and a combined Chemours, DuPont, and Corteva settlement adds $1.185 billion.
@@ -32,9 +29,8 @@ Roughly one in five Tennesseans rely on private wells with no federal monitoring
 These families have no way to know what's in their water.
 So our fund will pay for two things: getting PFAS firefighting foam out of Tennessee fire stations and testing and treating private wells.
 All of this without new taxes or existing revenue - the companies that made the chemicals pay to clean them up.
-Democracy & Government
-Public Accountability
-Pay Farmers and Foresters to Restore Land and Waterways
+Democracy & Government Public Accountability Collapse ↑ Pay Farmers and Foresters to Restore Land and Waterways Tennessee farmers and forest landowners get paid for practices that build soil carbon, maintain tree cover, and keep nitrogen and phosphorus out of rivers and streams.
+Explore → Copied!
 Tennessee farmers and forest landowners get paid for practices that build soil carbon, maintain tree cover, and keep nitrogen and phosphorus out of rivers and streams.
 Tennessee has about 14 million acres of forestland and almost 11 million acres of farmland.
 Both are carbon sinks.
@@ -47,9 +43,8 @@ The Tennessee Agricultural Enhancement Program has invested more than $309 milli
 We'll add nutrient-reduction practices as eligible cost-share categories, including cover crops, saturated buffers, and riparian plantings.
 Tennessee's own data attributes 85% of nitrogen and 89% of phosphorus loads to nonpoint, precipitation-driven sources.
 This uses an existing program farmers already trust to cut the pollution flowing into Tennessee's rivers.
-Farms & Food
-Climate Action
-Protect TVA and Hold Nuclear Accountable
+Farms & Food Climate Action Collapse ↑ Protect TVA and Hold Nuclear Accountable Keep TVA public, and demand rigorous cost oversight on the small modular reactor Tennessee taxpayers are helping fund at Clinch River.
+Explore → Copied!
 Keep TVA public, and demand rigorous cost oversight on the small modular reactor Tennessee taxpayers are helping fund at Clinch River.
 In Tennessee, TVA operates four nuclear reactors across two plants, generating enough clean baseload power to serve more than 4.5 million homes.
 TVA is also now developing a small modular reactor (SMR) at Clinch River, backed by $400 million from the Department of Energy and up to $50 million in state funds committed in the state budget.
@@ -61,9 +56,8 @@ SMR technology carries real cost pressures, timeline risks, and ongoing risk fro
 We'll make sure no corners are cut because Tennessee ratepayers deserve rigorous accountability for every dollar spent.
 Lastly, Tennessee Valley Authority is a public utility and must stay that way.
 No privatization or sell-off, unless we can transfer ownership of our grid to Tennessee itself, which could further unlock renewable energy generation at all levels in our state.
-Energy & Infrastructure
-Climate Action
-Regulate AI and Datacenters on Tennessee's Terms
+Energy & Infrastructure Climate Action Collapse ↑ Regulate AI and Datacenters on Tennessee's Terms Extend the ELVIS Act's voice protections to every form of synthetic media, ban AI-driven social scoring and mass surveillance, and hold AI companies to standards when their decisions affect Tennesseans' jobs, housing, healthcare, or freedom.
+Explore → Copied!
 Extend the ELVIS Act's voice protections to every form of synthetic media, ban AI-driven social scoring and mass surveillance, and hold AI companies to standards when their decisions affect Tennesseans' jobs, housing, healthcare, or freedom.
 Tennessee started this fight.
 The Ensuring Likeness, Voice, and Image Security Act was the first law protecting against AI voice cloning.
@@ -75,9 +69,8 @@ AI-generated media will carry provenance markings, extending the ELVIS Act's pro
 Companies following the National Institute of Standards and Technology AI standards earn a rebuttable presumption of compliance.
 Cut corners and you're exposed.
 And a Tennessee AI Commission will classify systems and recommend enforcement.
-Civil Rights & Freedoms
-Public Accountability
-Restore Tennessee's Rivers and Wildlife
+Civil Rights & Freedoms Public Accountability Collapse ↑ Restore Tennessee's Rivers and Wildlife Tennessee sits in the most aquatically biodiverse river system on the continent, and the federal government will pay most of the cost to protect it.
+Explore → Copied!
 Tennessee sits in the most aquatically biodiverse river system on the continent, and the federal government will pay most of the cost to protect it.
 Tennessee's rivers are home to more freshwater species than almost anywhere on Earth.
 The Cumberland River Aquatic Center has already produced 170,990 juvenile mussels across 17 species, 11 of which are federally endangered.
@@ -86,7 +79,10 @@ We'll draw down every available dollar from the federal State Wildlife Grants pr
 Tennessee's 2025 State Wildlife Action Plan was approved by the U.S.
 Fish and Wildlife Service in May 2026, unlocking that match.
 We'll also scale the propagation center and expand recovery across the Tennessee and Cumberland river systems.
-Stop Burying What Tennessee Can Recycle
+Energy & Infrastructure Climate Action Collapse ↑ Stop Burying What Tennessee Can Recycle Tennessee recycles less than almost every other state.
+The fund that's supposed to fix that is sitting on $24 million.
+Spend it.
+Explore → Copied!
 Tennessee recycles less than almost every other state.
 The fund that's supposed to fix that is sitting on $24 million.
 Spend it.
@@ -99,9 +95,8 @@ We'll direct that money to convenience centers, recycling equipment, and organic
 We'll also defend the Jackson Law, which givescounties and cities the right to reject new landfill proposals.
 A 2026 state task force is actively trying to weaken it at the waste industry's urging.
 We'll protect that authority and publish model host-community-agreement standards so counties consenting to host landfills stop getting shortchanged.
-Energy & Infrastructure
-Community Enrichment
-Track Tennessee Living Standards in the Open
+Energy & Infrastructure Community Enrichment Collapse ↑ Track Tennessee Living Standards in the Open Publish an annual Wellbeing Report and Environmental Quality Report in plain English, showing whether Tennesseans are measurably better off than last year and at what cost to the land and water we pass on.
+Explore → Copied!
 Publish an annual Wellbeing Report and Environmental Quality Report in plain English, showing whether Tennesseans are measurably better off than last year and at what cost to the land and water we pass on.
 Tennessee's agencies produce good data, but nobody puts the whole picture together to answer the question taxpayers deserve: are Tennesseans measurably better off this year than last, and what cost to the land and water did we pass on?
 We'll create a Tennessee Outcomes Commissioner under the Comptroller, with a six-year term that spans governors.
@@ -110,6 +105,4 @@ Both reports will be published in machine-readable format and made available to 
 A statutory cap of 30 indicators keeps the reports focused and readable.
 The Governor will be expected to address the findings in the annual budget message.
 Transparency, not compulsion.
-Handmade in Tennessee
-Paid for by David Seeman for Governor.
-Paid for by David Seeman for Governor.
+Democracy & Government Public Accountability Collapse ↑ ← Back to Policy for Me Donate now Support Donate Volunteer Signs & Shirts Connect Facebook Instagram Events & More More FAQ Share your Advocacy Endorse Dave for Tennessee Request Appearance Handmade in Tennessee Paid for by David Seeman for Governor.

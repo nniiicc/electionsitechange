@@ -1,13 +1,58 @@
 [
-"https://facebook.com/hassan.nehme.7773",
-"https://hassannehme.com/",
-"https://hassannehme.com/cdn-cgi/l/email-protection",
-"https://hassannehme.com/contact",
-"https://hassannehme.com/contact?lang=ar",
-"https://hassannehme.com/donate",
-"https://hassannehme.com/endorsements",
-"https://hassannehme.com/events",
-"https://hassannehme.com/issues",
-"https://hassannehme.com/meet-hassan",
-"https://hassannehme.com/store"
+{
+"text": "Contact",
+"href": "https://hassannehme.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://hassannehme.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://hassannehme.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://hassannehme.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/hassan.nehme.7773"
+},
+{
+"text": "Home",
+"href": "https://hassannehme.com/"
+},
+{
+"text": "Issues",
+"href": "https://hassannehme.com/issues"
+},
+{
+"text": "Meet Hassan",
+"href": "https://hassannehme.com/meet-hassan"
+},
+{
+"text": "Sign up to help",
+"href": "https://hassannehme.com/contact#volunteer"
+},
+{
+"text": "Store",
+"href": "https://hassannehme.com/store"
+},
+{
+"text": "[email protected]",
+"href": "mailto:contact@votenehme.com"
+},
+{
+"text": "[image: Hassan Nehme for State Representative]",
+"href": "https://hassannehme.com/"
+},
+{
+"text": "f",
+"href": "https://www.facebook.com/hassan.nehme.7773"
+},
+{
+"text": "العربية",
+"href": "https://hassannehme.com/contact?lang=ar"
+}
 ]

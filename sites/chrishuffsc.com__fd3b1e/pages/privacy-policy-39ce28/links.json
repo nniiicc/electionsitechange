@@ -1,8 +1,34 @@
 [
-"https://api.leadconnectorhq.com/widget/form/VWAv09Sx0pZ01cDG5hnm",
-"https://chrishuffsc.com/cdn-cgi/l/email-protection",
-"https://chrishuffsc.com/privacy-policy",
-"https://chrishuffsc.com/terms-and-conditions",
-"https://facebook.com/VoteChrisHuff",
-"https://secure.winred.com/huff-for-state-house/donate"
+{
+"text": "Check our Facebook.",
+"href": "https://www.facebook.com/VoteChrisHuff"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/huff-for-state-house/donate%20"
+},
+{
+"text": "Join our email list.",
+"href": "https://api.leadconnectorhq.com/widget/form/VWAv09Sx0pZ01cDG5hnm"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrishuffsc.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://chrishuffsc.com/terms-and-conditions"
+},
+{
+"text": "VoteChrisHuff",
+"href": "https://www.facebook.com/VoteChrisHuff"
+},
+{
+"text": "[email protected]",
+"href": "mailto:chris@chrishuffsc.com"
+},
+{
+"text": "https://chrishuffsc.com",
+"href": "https://chrishuffsc.com/privacy-policy"
+}
 ]

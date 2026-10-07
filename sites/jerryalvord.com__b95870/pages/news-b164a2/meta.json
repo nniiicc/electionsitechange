@@ -1,7 +1,11 @@
 {
  "description": "Conservative Republican, rancher, and businessman Jerry Alvord is on the campaign trail seeking to represent you in the Oklahoma State Senate. Check here for news updates.",
  "final_url": "https://www.jerryalvord.com/news",
- "paid_for_by": "Paid for by Friends of Jerry Alvord for State Senate 2022 &nbsp;POB 522, Lone Grove, OK 73443 bottom of page",
+ "fingerprint": "9ce50138c1434e6d26676d3077d1424dd6c3751f",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Jerry Alvord for State Senate 2022 POB 522, Lone Grove, OK 73443 bottom of page",
  "title": "News | Jerry Alvord for State Senate 2022",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022"
+ ]
 }

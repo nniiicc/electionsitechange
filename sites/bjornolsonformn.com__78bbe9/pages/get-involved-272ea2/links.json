@@ -1,16 +1,66 @@
 [
-"https://bjornolsonformn.com/",
-"https://bjornolsonformn.com/about-bjorn",
-"https://bjornolsonformn.com/contact-bjorn",
-"https://bjornolsonformn.com/donate",
-"https://bjornolsonformn.com/get-involved",
-"https://bjornolsonformn.com/get-involved?share=facebook",
-"https://bjornolsonformn.com/get-involved?share=x",
-"https://bjornolsonformn.com/home",
-"https://bjornolsonformn.com/issues/issues",
-"https://bjornolsonformn.com/news",
-"https://bjornolsonformn.com/privacy-policy",
-"https://bjornolsonformn.com/vote",
-"https://secure.winred.com/bjorn-olson/donate-today",
-"https://wpoperation.com/"
+{
+"text": "About",
+"href": "https://bjornolsonformn.com/about-bjorn/"
+},
+{
+"text": "About Bjorn",
+"href": "https://bjornolsonformn.com/about-bjorn/"
+},
+{
+"text": "Bjorn Olson For MN House",
+"href": "https://bjornolsonformn.com/"
+},
+{
+"text": "Contact Bjorn",
+"href": "https://bjornolsonformn.com/contact-bjorn/"
+},
+{
+"text": "Donate",
+"href": "https://bjornolsonformn.com/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://bjornolsonformn.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://bjornolsonformn.com"
+},
+{
+"text": "Home",
+"href": "https://bjornolsonformn.com/home/"
+},
+{
+"text": "Issues",
+"href": "https://bjornolsonformn.com/issues/issues/"
+},
+{
+"text": "News",
+"href": "https://bjornolsonformn.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bjornolsonformn.com/privacy-policy/"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://bjornolsonformn.com/get-involved/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://bjornolsonformn.com/get-involved/?share=x"
+},
+{
+"text": "Vote",
+"href": "https://bjornolsonformn.com/vote/"
+},
+{
+"text": "WPoperation",
+"href": "https://wpoperation.com/"
+},
+{
+"text": "make a donation here",
+"href": "https://secure.winred.com/bjorn-olson/donate-today"
+}
 ]

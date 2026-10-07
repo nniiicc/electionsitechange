@@ -1,40 +1,182 @@
 [
-"https://aarp.org/ppi",
-"https://acf.hhs.gov/",
-"https://apta.com/",
-"https://ashleybeanthornton.com/",
-"https://ashleybeanthornton.com/blog",
-"https://ashleybeanthornton.com/build-the-texas",
-"https://ashleybeanthornton.com/disclaimer",
-"https://ashleybeanthornton.com/donate",
-"https://ashleybeanthornton.com/es/la-economia-de-texas-deberia-funcionar-para-todos-nosotros",
-"https://ashleybeanthornton.com/privacy-policy",
-"https://ashleybeanthornton.com/public-schools",
-"https://ashleybeanthornton.com/stay-in-the-loop",
-"https://ashleybeanthornton.com/terms-of-service",
-"https://ashleybeanthornton.com/texas-economy",
-"https://ashleybeanthornton.com/the-texas-economy-should-work-for-all-ofus",
-"https://ashleybeanthornton.com/volunteer",
-"https://ashleybeanthornton.com/work-together",
-"https://census.gov/programs-surveys/acs",
-"https://childcareaware.org/",
-"https://commonwealthfund.org/",
-"https://comptroller.texas.gov/",
-"https://cscce.berkeley.edu/",
-"https://digitalmediabutterfly.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSfphAk0jaOzBtCjSFXqzUPm_ktb3To70vRNxnz59sKJDp9peQ/viewform?pli=1",
-"https://ebri.org/",
-"https://epi.org/minimum-wage-tracker",
-"https://facebook.com/ThorntonForTexas",
-"https://instagram.com/thorntonfortexas",
-"https://kff.org/",
-"https://lincolninst.edu/",
-"https://macpac.gov/",
-"https://nationalskillscoalition.org/",
-"https://ncsl.org/health",
-"https://phinational.org/",
-"https://store.holeintheroof.com/ashleybeanthornton/shop/products/all?page=1",
-"https://ternercenter.berkeley.edu/",
-"https://tha.org/",
-"https://unitedforalice.org/texas"
+{
+"text": "Blog",
+"href": "https://ashleybeanthornton.com/blog/"
+},
+{
+"text": "Digital Media Butterfly",
+"href": "https://digitalmediabutterfly.com"
+},
+{
+"text": "Disclaimer",
+"href": "https://ashleybeanthornton.com/disclaimer/"
+},
+{
+"text": "Donate",
+"href": "https://ashleybeanthornton.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://ashleybeanthornton.com/donate/"
+},
+{
+"text": "FB",
+"href": "https://www.facebook.com/ThorntonForTexas/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ThorntonForTexas/"
+},
+{
+"text": "Home",
+"href": "https://ashleybeanthornton.com/"
+},
+{
+"text": "IG",
+"href": "https://www.instagram.com/thorntonfortexas/"
+},
+{
+"text": "Info@AshleyBeanThornton.com",
+"href": "mailto:info@ashleybeanthornton.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/thorntonfortexas/"
+},
+{
+"text": "Join the Newsletter",
+"href": "https://ashleybeanthornton.com/stay-in-the-loop/"
+},
+{
+"text": "Newsletter",
+"href": "https://ashleybeanthornton.com/stay-in-the-loop/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ashleybeanthornton.com/privacy-policy/"
+},
+{
+"text": "Shop",
+"href": "https://store.holeintheroof.com/ashleybeanthornton/shop/products/all?page=1"
+},
+{
+"text": "Strong Public Schools",
+"href": "https://ashleybeanthornton.com/public-schools/"
+},
+{
+"text": "Terms of Service",
+"href": "https://ashleybeanthornton.com/terms-of-service/"
+},
+{
+"text": "The Texas Economy",
+"href": "https://ashleybeanthornton.com/texas-economy/"
+},
+{
+"text": "The Texas We want",
+"href": "https://ashleybeanthornton.com/build-the-texas/"
+},
+{
+"text": "Volunteer",
+"href": "https://ashleybeanthornton.com/volunteer/"
+},
+{
+"text": "Working Together",
+"href": "https://ashleybeanthornton.com/work-together/"
+},
+{
+"text": "Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfphAk0jaOzBtCjSFXqzUPm_ktb3To70vRNxnz59sKJDp9peQ/viewform?pli=1"
+},
+{
+"text": "[image]",
+"href": "https://ashleybeanthornton.com/"
+},
+{
+"text": "[image] English",
+"href": "https://ashleybeanthornton.com/the-texas-economy-should-work-for-all-ofus/"
+},
+{
+"text": "[image] Spanish",
+"href": "https://ashleybeanthornton.com/es/la-economia-de-texas-deberia-funcionar-para-todos-nosotros/"
+},
+{
+"text": "https://ashleybeanthornton.com/stay-in-the-loop/.",
+"href": "https://ashleybeanthornton.com/stay-in-the-loop/"
+},
+{
+"text": "https://comptroller.texas.gov/",
+"href": "https://comptroller.texas.gov/"
+},
+{
+"text": "https://cscce.berkeley.edu/",
+"href": "https://cscce.berkeley.edu/"
+},
+{
+"text": "https://nationalskillscoalition.org/",
+"href": "https://nationalskillscoalition.org/"
+},
+{
+"text": "https://phinational.org/",
+"href": "https://phinational.org/"
+},
+{
+"text": "https://ternercenter.berkeley.edu/",
+"href": "https://ternercenter.berkeley.edu/"
+},
+{
+"text": "https://www.aarp.org/ppi/",
+"href": "https://www.aarp.org/ppi/"
+},
+{
+"text": "https://www.acf.hhs.gov/",
+"href": "https://www.acf.hhs.gov/"
+},
+{
+"text": "https://www.apta.com/",
+"href": "https://www.apta.com/"
+},
+{
+"text": "https://www.census.gov/programs-surveys/acs/",
+"href": "https://www.census.gov/programs-surveys/acs/"
+},
+{
+"text": "https://www.childcareaware.org/",
+"href": "https://www.childcareaware.org/"
+},
+{
+"text": "https://www.commonwealthfund.org/",
+"href": "https://www.commonwealthfund.org/"
+},
+{
+"text": "https://www.ebri.org/",
+"href": "https://www.ebri.org/"
+},
+{
+"text": "https://www.epi.org/minimum-wage-tracker/",
+"href": "https://www.epi.org/minimum-wage-tracker/"
+},
+{
+"text": "https://www.kff.org/",
+"href": "https://www.kff.org/"
+},
+{
+"text": "https://www.lincolninst.edu/",
+"href": "https://www.lincolninst.edu/"
+},
+{
+"text": "https://www.macpac.gov/",
+"href": "https://www.macpac.gov/"
+},
+{
+"text": "https://www.ncsl.org/health",
+"href": "https://www.ncsl.org/health"
+},
+{
+"text": "https://www.tha.org/",
+"href": "https://www.tha.org/"
+},
+{
+"text": "https://www.unitedforalice.org/texas",
+"href": "https://www.unitedforalice.org/texas"
+}
 ]

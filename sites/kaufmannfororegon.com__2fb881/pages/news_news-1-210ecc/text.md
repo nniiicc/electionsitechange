@@ -1,7 +1,6 @@
-PRESS RELEASE
-Independent Candidate Roy Kaufmann Wins Democratic Write-in Vote for HD18
-Salem, Ore. - Democratic primary voters have nominated pro-working families Independent Roy Kaufmann for Oregon House District 18.
+Skip navigation menu Home About Roy Priorities News Endorsements Events Volunteer Contact Donate Home About Roy Priorities News Endorsements Events Volunteer Contact Donate PRESS RELEASE Economics 101: Tariffs are a tax on everything we buy for our families and businesses.
+PRESS RELEASE Independent Candidate Roy Kaufmann Wins Democratic Write-in Vote for HD18 PRESS RELEASE Working Families Party of Oregon Endorses Roy Kaufmann for HD18 NEWS COVERAGE KOIN NEWS: Roy Kaufmann discusses his vision for the Independent Party in Oregon NEWS ARTICLE Our Town: Kaufmann Takes on Staehely in November Jun 30 2026 PRESS RELEASE Independent Candidate Roy Kaufmann Wins Democratic Write-in Vote for HD18 Salem, Ore. - Democratic primary voters have nominated pro-working families Independent Roy Kaufmann for Oregon House District 18.
 Kaufmann, who has lived and worked in Oregon for twenty years, lives in Silverton with his fiancé.
 Kaufmann thanked the Democratic Party of Marion County for their open-mindedness and big-tent approach to flipping House District 18, which Republicans have held for decades, with little to show the residents to the district for it.
 "Marion County's forward-minded Democrats are integral to electing a clear and independent voice to represent the working families and retired lifelong workers of HD18," Kaufmann said.
-###
+### Powered by RUN! website builder You need to enable JavaScript to run this app.

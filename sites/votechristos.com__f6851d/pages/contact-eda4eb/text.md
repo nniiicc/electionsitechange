@@ -1,4 +1,2 @@
-Contact Christos
-I look forward to hearing from you, please reach out to me by email or by phone.
-Email: votechristos@gmail.com
-Phone: 763-900-9591
+0 Skip to Content Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Open Menu Close Menu Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Open Menu Close Menu Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Contact Christos I look forward to hearing from you, please reach out to me by email or by phone.
+Email: votechristos@gmail.com Phone: 763-900-9591 Prepared and paid for by: Volunteers for Christos Jensen, PO Box 21101, Eagan MN 55121 votechristos@gmail.com

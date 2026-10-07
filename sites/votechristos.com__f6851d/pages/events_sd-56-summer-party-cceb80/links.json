@@ -1,17 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=SD+56+Summer+Party&dates=20260820T220000Z%2F20260821T010000Z&location=1398+Carriage+Hills+Drive%2C+Eagan%2C+Minnesota%2C+55123%2C+United+States",
-"http://maps.google.com/?q=1398+Carriage+Hills+Drive+Eagan%2C+Minnesota%2C+55123+United+States",
-"https://facebook.com/events/jenson-lake-trailhead-lebanon-hills-regional-park/sd-56-dfl-annual-summer-picnic-potluck/1575343864605236",
-"https://forms.gle/uxuV4VfjzyDBXQqB9",
-"https://secure.actblue.com/donate/votechristos",
-"https://votechristos.com/",
-"https://votechristos.com/cart",
-"https://votechristos.com/contact",
-"https://votechristos.com/endorsements",
-"https://votechristos.com/events",
-"https://votechristos.com/events/burnsville-fire-muster-parade",
-"https://votechristos.com/events/sd-56-summer-party?format=ical",
-"https://votechristos.com/events/yx3xkudipdahefamr97if5vpgs4zz5",
-"https://votechristos.com/pictures",
-"https://votechristos.com/priorities"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1398+carriage+hills+drive+eagan%2C+minnesota%2C+55123+united+states"
+},
+{
+"text": "0",
+"href": "https://votechristos.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://votechristos.com/events"
+},
+{
+"text": "Contact",
+"href": "https://votechristos.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/votechristos"
+},
+{
+"text": "Endorsements",
+"href": "https://votechristos.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://votechristos.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=SD+56+Summer+Party&dates=20260820T220000Z%2F20260821T010000Z&location=1398+Carriage+Hills+Drive%2C+Eagan%2C+Minnesota%2C+55123%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://votechristos.com/"
+},
+{
+"text": "ICS",
+"href": "https://votechristos.com/events/sd-56-summer-party?format=ical"
+},
+{
+"text": "Next Next August 22 Great MN Knock Together",
+"href": "https://votechristos.com/events/yx3xkudipdahefamr97if5vpgs4zz5"
+},
+{
+"text": "Pictures",
+"href": "https://votechristos.com/pictures"
+},
+{
+"text": "Previous Previous August 18 Burnsville Fire Muster Parade",
+"href": "https://votechristos.com/events/burnsville-fire-muster-parade"
+},
+{
+"text": "Priorities",
+"href": "https://votechristos.com/priorities"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://forms.gle/uxuV4VfjzyDBXQqB9"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/uxuV4VfjzyDBXQqB9"
+},
+{
+"text": "[image: Christos Jensen for MN house]",
+"href": "https://votechristos.com/"
+},
+{
+"text": "https://www.facebook.com/events/jenson-lake-trailhead-lebanon-hills-regional-park/sd-56-dfl-annual-summer-picnic-potluck/1575343864605236/",
+"href": "https://www.facebook.com/events/jenson-lake-trailhead-lebanon-hills-regional-park/sd-56-dfl-annual-summer-picnic-potluck/1575343864605236/"
+},
+{
+"text": "votechristos@gmail.com",
+"href": "mailto:votechristos@gmail.com"
+}
 ]

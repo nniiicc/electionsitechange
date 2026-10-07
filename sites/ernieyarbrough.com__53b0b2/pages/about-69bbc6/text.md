@@ -1,6 +1,4 @@
-Hi, I'm Ernie Yarbrough
-About Me
-I am Ernie Yarbrough, and I am so glad you are here.
+Home Politics About Contact Hi, I'm Ernie Yarbrough About Me I am Ernie Yarbrough, and I am so glad you are here.
 I hope you find a place of encouragement, friendship and wisdom here as you {with me} seek God’s direction for some of the most important and foundational areas of our lives.
 I am both a freedom fighter – as you can see from my “Yarbrough 4 House” page – and also a lover of localism as way to “do and think about life”.
 This website exists to simultaneously encourage you in 3 key areas – faith, family & business – while also serving as a launch pad for defending, restoring and supporting these 3 key components in the halls of our government.
@@ -22,3 +20,4 @@ I saw first-hand the importance of standing for our values.
 I learned the importance of forming children’s minds with the love and knowledge of God.
 Our spiritual foundations form an essential support for living to the glory of God and the good of our neighbors rather than for public praise or selfish benefit.
 I also learned how a deep conviction of eternal truth and precious freedoms inspire, shape and mold the coming generations to new heights of intellectual, spiritual and ministry excellence.
+About Contact Home Politics About Contact © # Ernie Yarbrough Powered by Kajabi Stay Connected Join my mailing list to receive free weekly tips and insights!

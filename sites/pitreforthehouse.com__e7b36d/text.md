@@ -1,1 +1,5 @@
-Rebecca and her rescue dog Solo Veno Rebecca Pitre Republican for Lamoille County District 3 Representative
+Skip to content Search for: Rebecca Pitre Republican for Lamoille County District 3 Representative Menu Home About Rebecca The Issues Donate Rebecca and her rescue dog Solo Veno Rebecca Pitre Republican for Lamoille County District 3 Representative Recent Posts November 4, 2022 August 11, 2026 rebeccapitre Your Public Servant October 26, 2022 June 22, 2026 rebeccapitre Why the Housing Shortage?
+More Posts → Twitter Instagram ← Back Thank you for your response. ✨ Name (required) Email (required) Message (required) Submit Δ Twitter Instagram Powered by WordPress.com .
+Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

@@ -1,13 +1,46 @@
 [
-"https://campaignpartner.com/",
-"https://donnamercadokim.com/",
-"https://donnamercadokim.com/about_donna",
-"https://donnamercadokim.com/community-bulletin",
-"https://donnamercadokim.com/events",
-"https://donnamercadokim.com/home",
-"https://donnamercadokim.com/news",
-"https://donnamercadokim.com/photos",
-"https://facebook.com/Friends-of-Donna-Mercado-Kim-162007987214365",
-"https://i.campaignpartner.net/images/cdn_queue/61860/73ca1c649c85426fbc66bb34f7b14fba.jpg",
-"https://instagram.com/donnamercadokim14"
+{
+"text": "About Donna",
+"href": "https://donnamercadokim.com/about_donna"
+},
+{
+"text": "Community Bulletin",
+"href": "https://donnamercadokim.com/community-bulletin"
+},
+{
+"text": "Events",
+"href": "https://donnamercadokim.com/events"
+},
+{
+"text": "Home",
+"href": "https://donnamercadokim.com/home"
+},
+{
+"text": "News",
+"href": "https://donnamercadokim.com/news"
+},
+{
+"text": "Photo Gallery",
+"href": "https://donnamercadokim.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "[image]",
+"href": "https://donnamercadokim.com/"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/61860/73ca1c649c85426fbc66bb34f7b14fba.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Friends-of-Donna-Mercado-Kim-162007987214365/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/donnamercadokim14/"
+}
 ]

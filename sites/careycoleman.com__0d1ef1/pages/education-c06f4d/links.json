@@ -1,19 +1,74 @@
 [
-"http://facebook.com/colemanforohio",
-"https://careycoleman.com/",
-"https://careycoleman.com/about",
-"https://careycoleman.com/education",
-"https://careycoleman.com/events",
-"https://careycoleman.com/get-involved",
-"https://careycoleman.com/issues",
-"https://careycoleman.com/privacy-policy",
-"https://careycoleman.com/terms-of-service",
-"https://fbi.gov/news/stories/public-corruption-fugitive-extradited-to-us",
-"https://instagram.com/colemanforcongress",
-"https://justice.gov/archives/opa/pr/former-ohio-deputy-treasurer-extradited-pakistan-serve-15-year-sentence-bribery",
-"https://ohiosos.gov/office/media-center/publications",
-"https://sec.gov/litigation/admin/2016/34-76904.pdf",
-"https://secure.winred.com/carey-coleman-for-congress/take-back-13",
-"https://tiktok.com/@colemanforcongress",
-"https://x.com/colemanforohio"
+{
+"text": "About",
+"href": "https://careycoleman.com/about/"
+},
+{
+"text": "DOJ Source",
+"href": "https://www.justice.gov/archives/opa/pr/former-ohio-deputy-treasurer-extradited-pakistan-serve-15-year-sentence-bribery"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/carey-coleman-for-congress/take-back-13"
+},
+{
+"text": "Education",
+"href": "https://careycoleman.com/education/"
+},
+{
+"text": "Events",
+"href": "https://careycoleman.com/events/"
+},
+{
+"text": "FBI Source",
+"href": "https://www.fbi.gov/news/stories/public-corruption-fugitive-extradited-to-us"
+},
+{
+"text": "Facebook-f",
+"href": "http://facebook.com/colemanforohio"
+},
+{
+"text": "Get Involved",
+"href": "https://careycoleman.com/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/colemanforcongress/"
+},
+{
+"text": "Issues",
+"href": "https://careycoleman.com/issues/"
+},
+{
+"text": "Ohio Secretary of State Source",
+"href": "https://www.ohiosos.gov/office/media-center/publications#overview"
+},
+{
+"text": "Privacy Policy",
+"href": "https://careycoleman.com/privacy-policy/"
+},
+{
+"text": "SEC Source",
+"href": "https://www.sec.gov/litigation/admin/2016/34-76904.pdf"
+},
+{
+"text": "Terms of Service",
+"href": "https://careycoleman.com/terms-of-service/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@colemanforcongress"
+},
+{
+"text": "Volunteer",
+"href": "https://careycoleman.com/get-involved/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/colemanforohio"
+},
+{
+"text": "[image]",
+"href": "https://careycoleman.com/"
+}
 ]

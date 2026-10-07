@@ -1,9 +1,30 @@
 [
-"https://secure.winred.com/young-for-ohio/website",
-"https://youngforohio.com/",
-"https://youngforohio.com/cart",
-"https://youngforohio.com/contact-us",
-"https://youngforohio.com/endorsements",
-"https://youngforohio.com/in-the-news",
-"https://youngforohio.com/meet-tom-young"
+{
+"text": "0",
+"href": "https://www.youngforohio.com/cart"
+},
+{
+"text": "Contact Us",
+"href": "https://www.youngforohio.com/contact-us"
+},
+{
+"text": "Endorsements",
+"href": "https://www.youngforohio.com/endorsements"
+},
+{
+"text": "In The News",
+"href": "https://www.youngforohio.com/in-the-news"
+},
+{
+"text": "MAKE A DONATION",
+"href": "https://secure.winred.com/young-for-ohio/website"
+},
+{
+"text": "Meet Tom Young",
+"href": "https://www.youngforohio.com/meet-tom-young"
+},
+{
+"text": "[image: Tom Young for State Representative]",
+"href": "https://www.youngforohio.com/"
+}
 ]

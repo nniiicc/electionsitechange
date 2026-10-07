@@ -1,4 +1,8 @@
-You’ll notice immigration isn’t one of my four planks.
+Skip to content The URL says Tucson.
+The campaign says all of District 6.
+Home Why Me?
+The Platform How To Write Me In The Ledger Help Wanted About Contact Privacy Policy Home Why Me?
+The Platform How To Write Me In The Ledger Help Wanted About Contact Privacy Policy ← Back to The Platform Before the Four: The Border, ICE, and the Fear Machine You’ll notice immigration isn’t one of my four planks.
 That’s deliberate, and you deserve to know why: I don’t have a comprehensive immigration plan.
 Neither does anyone else — the honest ones just admit it.
 What I have is a district that shares a border with Sonora, a test for every vote, and a refusal to sell you fear.
@@ -21,8 +25,7 @@ It ran on my grandfather.
 It’s running on you.
 Fear is the product.
 I’m not selling it.
-What my one vote does:
-Due process for everyone — citizen or not, papers or not.
+What my one vote does: Due process for everyone — citizen or not, papers or not.
 Not because it’s nice.
 Because a government that can detain and deport anyone without a hearing has made everyone’s papers worthless, including yours.
 Due process isn’t protection for them.
@@ -34,10 +37,11 @@ The other is dangerous, unglamorous law-enforcement work that border residents h
 Fund the second one.
 And when a rancher calls for help, someone should come.
 Against making it worse: no raids on schools, hospitals, and churches; no indefinite detention without a hearing; no treating protest, filming, or witnessing as a crime.
-Crimes are crimes — charge people for what they did, not for who they are or what ideology the government decides they have.
+Crimes are crimes — charge people for what they did , not for who they are or what ideology the government decides they have.
 For the boring fixes nobody fundraises on: more immigration judges to clear a court backlog measured in years, modern ports of entry that move commerce and catch contraband, and legal pathways that match the labor this state’s economy actually runs on.
 Ask any farmer in this district.
 I can’t legislate anyone’s fear away — no one can, which is why it sells so well.
 What I can do is take the real fear seriously, refuse to feed the manufactured kind, and vote like human beings are human beings — the ones crossing the desert, and the ones whose land it is.
 That shouldn’t be a controversial platform.
-The fact that it is tells you most of what’s wrong.
+The fact that it is tells you most of what’s wrong. ← Back to The Platform Paid for by Michael Dorland, out of his own pocket, which is why the site has a weird mixture of pictures on it.
+Currently not authorized by any candidate committee or party — mainly because we have no money to spend. © # Michael Dorland Connect With Us Facebook Youtube Instagram Twitch

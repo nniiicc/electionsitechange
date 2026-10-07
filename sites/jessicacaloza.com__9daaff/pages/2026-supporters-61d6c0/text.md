@@ -1,271 +1,40 @@
-Public Educators
-- California Teachers Association (CTA)
-- California Federation of Teachers (CFT)
-- California School Employees Association (CSEA)
-- California State University Employees Union / SEIU Local 2579
-- United Teachers of Los Angeles (UTLA)
-- SEIU Local 99 - Education Workers United
-- Association of California School Administrators (ACSA)
-- L.A.
-College Faculty Guild / American Federation of Teachers (AFT) Local 1521
-- Glendale College Guild / AFT Local 2276
-- Faculty Association of California Community Colleges (FACCC)
-Women's Rights Organizations
-- Planned Parenthood Advocacy Project L.A.
-County Action Fund
-- Reproductive Freedom for All California
-- California Democratic Legislative Women’s Caucus
-- California Women’s List
-- National Women's Political Caucus California (NWPC-CA)
-- Women's Political Committee (WPC)
-- A Pipeline Project (APP)
-- Fund Her
-Environmental Organizations
-- Sierra Club California
-- California Environmental Voters
-Frontline Healthcare Workers
-- California Nurses Association (CNA)
-- SEIU Local 121 Registered Nurses
-- SEIU Local 721 - Nurses, Social Workers and Public Sector Workers
-- SEIU United Healthcare Workers West (UHWW)
-- SEIU Local 2015 - Long Term Care Workers
-- National Union of Healthcare Workers (NUHW)
-- United Nurses Associations of California/Union of Health Care Professionals (UNAC/UHCP)
-Pro-Housing Organizations
-- Abundant Housing Los Angeles
-- Housing Action Coalition
-- California YIMBY
-- YIMBY Action
-Construction Workers
-- State Building & Construction Trades Council of California
-- Los Angeles / Orange County Building and Construction Trades Council
-- Western States Regional Council of Carpenters
-- Ironworkers Local 416
-- Ironworkers Local 433
-- United Association (UA) Local 250 Refrigeration, Steamfitters, Welders, and Pipefitters
-- United Association (UA) Local 709 Sprinklefitters
-- United Association (UA) 761 Plumbers and Pipefitters
-- Sheet Metal, Air, Rail, Transit (SMART) Local 105
-- California Legislative Board SMART - Transportation Division
-- United Steelworkers (USW) Local 675/USW L.A. and O.C.
-Legislative Education Committee
-- International Brotherhood of Electrical Workers (IBEW) Local 11
-- International Brotherhood of Electrical Workers (IBEW) Local 40
-- International Brotherhood of Electrical Workers (IBEW) Local 47
-- International Union of Painters & Allied Trades District Council 36
-- Bricklayers & Allied Craftworkers Local 4
-- Laborers International Union of North America (LiUNA!) Union Local 300
-Public & Private Sector Workers
-- California Professional Firefighters
-- Service Employees International Union (SEIU) California State Council
-- L.A.
-County Federation of Labor, AFL-CIO
-- United Firefighters of Los Angeles City (UFLAC), IAFF Local 112
-- Los Angeles County Firefighters, IAFF Local 1014
-- CAL FIRE Local 2881
-- SEIU United Services Workers West (USWW)
-- SEIU Local 1000 - State Workers
-- Teamsters Joint Council 42
-- UNITE HERE Local 11
-- American Federation of State, County, and Municipal Employees (AFSCME) Local 3634 - Metro Supervisors
-- AFSCME Union of American Physicians and Dentists (UAPD)
-- AFSCME Local 1902-Metropolitan Water District
-- AFSCME District Council 36
-- International Longshore and Warehouse Union (ILWU) Local 13
-- ILWU Southern California District Council
-- International Alliance of Theatrical Stage Employees (IATSE) Local 33
-- International Union of Operating Engineers (IUOE) Local 12
-- Amalgamated Transit Union (ATU) Local 1277
-- Transportation Communications Union (TCU) Local 1315
-- Professional Engineers in California Government (PECG)
-- California Association of Psychiatric Technicians
-- United Auto Workers (UAW) Region 6
-- United Farm Workers (UFW)
-- United Domestic Workers of America (UDW) / AFSCME Local 3930
-- United Food and Commercial Workers (UFCW) Western States Council and UFCW Local 770
-Grassroots Democrats
-- California Democratic Party (CDP)
-- California Young Democrats (CYD)
-- California Young Democrats (CYD) Asian Pacific Islander Caucus
-- East Area Progressive Democrats (EAPD)
-- Democrats for Neighborhood Action (DNA)
-- California College Democrats (CCD)
-- UCLA Bruin Democrats
-- California High School Democrats (CAHSD)
-- L.A.
-County Young Democrats (LACYD)
-- Asian Democrats of Los Angeles County (ADLAC)
-- Southern California Armenian Democrats (SCAD)
-- Heart of L.A.
-Democratic Club
-- Stonewall Democratic Club
-- Stonewall Young Democrats
-- Democratic Party of San Fernando Valley (DPSFV)
-- Democrats for the Protection of Animals
-Local, Statewide, & National Organizations
-- Equality California (EQCA)
-- California Asian & Pacific Islander (API) Legislative Caucus
-- Armenian National Committee of America – Western Region (ANCA –Western Region)
-- Armenian National Committee of America – Glendale Chapter (ANCA – Glendale)
-Elected Officials
-- U.S.
-Congressmember Judy Chu
-- U.S.
-Congressmember Sydney Kamlager-Dove
-- U.S.
-Congressmember Ted Lieu
-- California Attorney General Rob Bonta
-- California State Treasurer Fiona Ma
-- State Senator Maria Elena Durazo
-- State Senator Nancy Skinner (ret.)
-- State Senator Lola Smallwood-Cuevas
-- State Senator Josh Becker
-- State Senator Ben Allen
-- State Senator Anthony Portantino (ret.)
-- State Senator Bob Hertzberg (ret.)
-- Assembly Speaker Emeritus John A.
-Pérez
-- Assemblymember Miguel Santiago (ret.)
-- Assemblymember Jesse Gabriel
-- Assemblymember Tina McKinnor
-- Assemblymember Dawn Addis
-- Assemblymember Rebecca Bauer-Kahan
-- Assemblymember Marc Berman
-- Assemblymember Tasha Boerner
-- Assemblymember Mia Bonta
-- Assemblymember Ash Kalra
-- Assemblymember Juan Carrillo
-- Assemblymember Isaac Bryan
-- Assemblymember Mike Fong, API Legislative Caucus Chair
-- Assemblymember Matt Haney
-- Assemblymember Alex Lee
-- Assemblymember Stephanie Nguyen
-- Assemblymember Liz Ortega
-- Assemblymember Jasmeet Bains
-- Assemblymember Mike Gipson
-- Assemblymember Blanca Pacheco
-- Assemblymember Blanca Rubio
-- Assemblymember Gail Pellerin
-- Assemblymember Rick Chavez Zbur, Democratic Caucus Chair
-- Assemblymember Cecilia Aguiar-Curry, Majority Leader and Chair of the California Legislative Women’s Caucus
-- Assemblymember (ret.) and San Diego Mayor Todd Gloria
-- Assemblymember (ret.) and San Francisco City Attorney David Chiu
-- Assemblymember (ret.) Mike Eng
-- L.A.
+top of page DONATE HOME MEET JESSICA MY SUPPORTERS ISSUES GET INVOLVED More Use tab to navigate through the menu items.
+Public Educators California Teachers Association (CTA) California Federation of Teachers (CFT) California School Employees Association (CSEA) California State University Employees Union / SEIU Local 2579 United Teachers of Los Angeles (UTLA) ​ SEIU Local 99 - Education Workers United Association of California School Administrators (ACSA) L.A.
+College Faculty Guild / American Federation of Teachers (AFT) Local 1521 Glendale College Guild / AFT Local 2276 Faculty Association of California Community Colleges (FACCC) Women's Rights Organizations Planned Parenthood Advocacy Project L.A.
+County Action Fund Reproductive Freedom for All California California Democratic Legislative Women’s Caucus California Women’s List National Women's Political Caucus California (NWPC-CA) Women's Political Committee (WPC) A Pipeline Project (APP) Fund Her Environmental Organizations Sierra Club California California Environmental Voters ​ Frontline Healthcare Workers ​ California Nurses Association (CNA) SEIU Local 121 Registered Nurses SEIU Local 721 - Nurses, Social Workers and Public Sector Workers SEIU United Healthcare Workers West (UHWW) SEIU Local 2015 - Long Term Care Workers National Union of Healthcare Workers (NUHW) ​ United Nurses Associations of California/Union of Health Care Professionals (UNAC/UHCP) Pro-Housing Organizations Abundant Housing Los Angeles Housing Action Coalition California YIMBY YIMBY Action Construction Workers ​ State Building & Construction Trades Council of California Los Angeles / Orange County Building and Construction Trades Council ​ Western States Regional Council of Carpenters Ironworkers Local 416 Ironworkers Local 433 United Association (UA) Local 250 Refrigeration, Steamfitters, Welders, and Pipefitters United Association (UA) Local 709 Sprinklefitters United Association (UA) 761 Plumbers and Pipefitters Sheet Metal, Air, Rail, Transit (SMART) Local 105 California Legislative Board SMART - Transportation Division United Steelworkers (USW) Local 675/USW L.A. and O.C.
+Legislative Education Committee International Brotherhood of Electrical Workers (IBEW) Local 11 International Brotherhood of Electrical Workers (IBEW) Local 40 International Brotherhood of Electrical Workers (IBEW) Local 47 International Union of Painters & Allied Trades District Council 36 Bricklayers & Allied Craftworkers Local 4 Laborers International Union of North America (LiUNA!) Union Local 300 Public & Private Sector Workers California Professional Firefighters Service Employees International Union (SEIU) California State Council L.A.
+County Federation of Labor, AFL-CIO United Firefighters of Los Angeles City (UFLAC), IAFF Local 112 Los Angeles County Firefighters, IAFF Local 1014 ​ CAL FIRE Local 2881 SEIU United Services Workers West (USWW) SEIU Local 1000 - State Workers Teamsters Joint Council 42 UNITE HERE Local 11 American Federation of State, County, and Municipal Employees (AFSCME) Local 3634 - Metro Supervisors AFSCME Union of American Physicians and Dentists (UAPD) AFSCME Local 1902-Metropolitan Water District AFSCME District Council 36 International Longshore and Warehouse Union (ILWU) Local 13 ILWU Southern California District Council International Alliance of Theatrical Stage Employees (IATSE) Local 33 International Union of Operating Engineers (IUOE) Local 12 Amalgamated Transit Union (ATU) Local 1277 Transportation Communications Union (TCU) Local 1315 Professional Engineers in California Government (PECG) California Association of Psychiatric Technicians United Auto Workers (UAW) Region 6 United Farm Workers (UFW) ​ United Domestic Workers of America (UDW) / AFSCME Local 3930 ​ United Food and Commercial Workers (UFCW) Western States Council and UFCW Local 770 ​ ​ Grassroots Democrats California Democratic Party (CDP) California Young Democrats (CYD) California Young Democrats (CYD) Asian Pacific Islander Caucus East Area Progressive Democrats (EAPD) Democrats for Neighborhood Action (DNA) California College Democrats (CCD) UCLA Bruin Democrats California High School Democrats (CAHSD) L.A.
+County Young Democrats (LACYD) Asian Democrats of Los Angeles County (ADLAC) Southern California Armenian Democrats (SCAD) ​ Heart of L.A.
+Democratic Club ​ Stonewall Democratic Club Stonewall Young Democrats Democratic Party of San Fernando Valley (DPSFV) ​ Democrats for the Protection of Animals Local, Statewide, & National Organizations ​Equality California (EQCA) California Asian & Pacific Islander (API) Legislative Caucus Armenian National Committee of America – Western Region (ANCA –Western Region) Armenian National Committee of America – Glendale Chapter (ANCA – Glendale) ​ ​ Elected Officials U.S.
+Congressmember Judy Chu U.S.
+Congressmember Sydney Kamlager-Dove U.S.
+Congressmember Ted Lieu California Attorney General Rob Bonta California State Treasurer Fiona Ma State Senator Maria Elena Durazo State Senator Nancy Skinner (ret.) State Senator Lola Smallwood-Cuevas State Senator Josh Becker State Senator Ben Allen State Senator Anthony Portantino (ret.) State Senator Bob Hertzberg (ret.) Assembly Speaker Emeritus John A.
+Pérez Assemblymember Miguel Santiago (ret.) Assemblymember Jesse Gabriel ​ Assemblymember Tina McKinnor Assemblymember Dawn Addis Assemblymember Rebecca Bauer-Kahan ​Assemblymember Marc Berman Assemblymember Tasha Boerner Assemblymember Mia Bonta Assemblymember Ash Kalra Assemblymember Juan Carrillo Assemblymember Isaac Bryan Assemblymember Mike Fong, API Legislative Caucus Chair Assemblymember Matt Haney Assemblymember Alex Lee Assemblymember Stephanie Nguyen Assemblymember Liz Ortega Assemblymember Jasmeet Bains Assemblymember Mike Gipson Assemblymember Blanca Pacheco Assemblymember Blanca Rubio Assemblymember Gail Pellerin Assemblymember Rick Chavez Zbur, Democratic Caucus Chair Assemblymember Cecilia Aguiar-Curry, Majority Leader and Chair of the California Legislative Women’s Caucus Assemblymember (ret.) and San Diego Mayor Todd Gloria Assemblymember (ret.) and San Francisco City Attorney David Chiu Assemblymember (ret.) Mike Eng L.A.
 County Supervisor Hilda Solis, former U.S.
-Secretary of Labor
-- L.A.
-County Supervisor Lindsey Horvath
-- L.A.
-County Assessor Jeff Prang
-- L.A.
-City Council President (ret.) Paul Krekorian
-- L.A.
-City Councilmember Eunisses Hernandez
-- L.A.
-City Councilmember Hugo Soto-Martinez
-- L.A.
-City Councilmember Nithya Raman
-- L.A.
-City Councilmember Tim McOsker
-- L.A.
-City Councilmember (ret.) Paul Koretz
-- L.A.
-City Controller (ret.) Ron Galperin
-- L.A.
-Community College District Trustee Nichelle Henderson
-- L.A.
+Secretary of Labor L.A.
+County Supervisor Lindsey Horvath L.A.
+County Assessor Jeff Prang L.A.
+City Council President (ret.) Paul Krekorian L.A.
+City Councilmember Eunisses Hernandez L.A.
+City Councilmember Hugo Soto-Martinez L.A.
+City Councilmember Nithya Raman L.A.
+City Councilmember Tim McOsker L.A.
+City Councilmember (ret.) Paul Koretz L.A.
+City Controller (ret.) Ron Galperin L.A.
+Community College District Trustee Nichelle Henderson L.A.
 Community College District Trustee Dr.
-Kelsey Iino
-- L.A.
-Community College District Trustee Sara Hernandez
-- L.A.
+Kelsey Iino L.A.
+Community College District Trustee Sara Hernandez L.A.
 Community College District Trustee Dr.
-Gabriel Buelna
-- L.A.
-Community College District Trustee Andra Hoffman
-- L.A.
-Community College District Trustee David Vela
-- L.A.
+Gabriel Buelna L.A.
+Community College District Trustee Andra Hoffman L.A.
+Community College District Trustee David Vela L.A.
 Unified School District (LAUSD) Board Member Dr.
-Rocio Rivas
-- Glendale City Clerk Dr.
-Suzie Abajian
-- Glendale City Councilmember Ardy Kassakhian
-- Glendale City Councilmember Elen Asatryan
-- Glendale City Councilmember Dan Brotman
-- Glendale City Councilmember (ret.) Paula DeVine
-- Glendale Community College Trustee President Desiree Portillo-Rabinov
-- Glendale Community College Trustee Vice President Yvette Vartanian Davis
-- Glendale Community College Trustee Dr.
-Sevan Benlian
-- Glendale Unified School District Trustee Ingrid Gunnell
-- Glendale Unified School District Trustee Telly Tse
-- Alhambra City Councilmember Jeff Maloney
-- Artesia Mayor (ret.) Victor Manalo
-- Burbank Councilmember Konstantine Anthony
-- Burbank Unified School District Board of Education Trustee Dr.
-Armond Aghakhanian
-- Carson City Councilmember Arleen Rojas
-- Cerritos City Councilmember Frank Yokoyama
-- Cerritos Mayor (ret.) Mark Pulido
-- Culver City Mayor Yasmine-Imani McMorrin
-- Daly City Mayor Juslyn Manalo
-- Daly City Mayor (ret.) Ray Buenaventura
-- El Camino Community College District Board of Trustees Vice President Trisha Murakawa
-- El Cerrito City Councilmember Gabriel Quinto
-- Irvine Vice Mayor Tammy Kim
-- Long Beach City Councilmember Dr.
-Suely Saro
-- Montebello City Councilmember Angie Jimenez
-- Montebello City Councilmember Salvador Melendez
-- Monterey Park City Councilmember Thomas Wong
-- Mountain View City Councilmember Emily Ramos
-- Mountain View Councilmember Margaret Abe-Koga
-- Mountain View School District Boardmember Cindy Wu
-- Oakland City Council President Nikki Fortunato Bas
-- Pasadena City College Trustee Alton Wang
-- Pasadena City College Trustee Sandra Chen Lau
-- Rancho Palos Verdes City Councilmember Paul Seo
-- Rosemead Mayor Pro Tem (ret.) John Tang
-- San Bernardino Mayor Helen Tran
-- San Diego City Councilmember Kent Lee
-- Santa Clara County Supervisor Otto Lee
-- Torrance Unified School District Board Member Betty Lieu
-- West Covina City Councilmember (ret.) James Toma
-Community Leaders
-- Abigail Zelenski, LA Civil Rights Commission Chair and Small Business Owner*
-- Adrienne Hament, St.
-Ignatius Church Community Advocate*
-- Alma Morales, Community Member & Organizer*
-- Aquilina Soriano Versoza, Executive Director, Pilipino Action Center*
-- Carlos Medina, LGBTQ+ Advocate and Los Feliz Resident*
-- Hans Johnson, LGBTQ+ and Environmental Justice Leader & President, East Area Progressive Democrats (EAPD)*
-- Hoang Nguyen, Non-profit Leader*
-- Jaime Geaga, LA Central Area Planning Commissioner & PALAD Boardmember*
-- James Johnson, Animal Rights Advocate and Mt.
-Washington Resident
-- James Ta’bor, Veteran and Housing Advocate and Eagle Rock Resident*
-- Janet Nepales, Community Leader*
-- Joselyn Geaga-Rosenthal, Friends of Echo Park Library & PALAD Founding President*
-- Jun Miranda, Restaurant Owner, Kusina Filipina L.A.*
-- Kira Conlon, Highland Park Resident*
-- Koreen Cea-Heier, Retired LAUSD Teacher & Eagle Rock Resident*
-- Luis Lopez, Non-profit Healthcare Director & Democratic Party Delegate*
-- Luisa Blue, Retired Executive Vice President, Service Employees International Union (SEIU)*
-- Mary Grace Barrios, PALAD Vice President of Labor Relations*
-- Rosalie Caratao, President, The LA Philippine Women’s Club & Echo Park Resident*
-- Ruben Nepales, Community Leader*
-- Saik-Choon Poh, Civil Engineer*
-- Susana Reyes, Sierra Club National Political Program Volunteer Co-Lead*
-- Teresa Villegas, Vice President, L.A.
-City Public Works Commissioner and Highland Park Resident*
-- Terry Hair, President, Democrats for Neighborhood Action (DNA) and Echo Park Resident*
-- Thomas Atkins, Retiree, Veterans Organization President, & Eagle Rock Resident*
-- Tracy Stone, Architect & Elysian Valley Resident*
-- Vicky Perez, Registered Nurse & Manzanar Committee Board Member*
-- Victor Chico, Eagle Rock Resident*
-- Vlad Minasyan, Business Owner & Glendale Resident*
-- Wyatt Conlon, Highland Park Resident*
-- Zoe Zelenski, LAUSD Student and #KidsforCaloza Chair*
-*Titles for identification purposes only
+Rocio Rivas Glendale City Clerk Dr.
+Suzie Abajian Glendale City Councilmember Ardy Kassakhian Glendale City Councilmember Elen Asatryan Glendale City Councilmember Dan Brotman Glendale City Councilmember (ret.) Paula DeVine Glendale Community College Trustee President Desiree Portillo-Rabinov Glendale Community College Trustee Vice President Yvette Vartanian Davis Glendale Community College Trustee Dr.
+Sevan Benlian Glendale Unified School District Trustee Ingrid Gunnell Glendale Unified School District Trustee Telly Tse Alhambra City Councilmember Jeff Maloney Artesia Mayor (ret.) Victor Manalo Burbank Councilmember Konstantine Anthony Burbank Unified School District Board of Education Trustee Dr.
+Armond Aghakhanian Carson City Councilmember Arleen Rojas Cerritos City Councilmember Frank Yokoyama Cerritos Mayor (ret.) Mark Pulido Culver City Mayor Yasmine-Imani McMorrin Daly City Mayor Juslyn Manalo Daly City Mayor (ret.) Ray Buenaventura El Camino Community College District Board of Trustees Vice President Trisha Murakawa El Cerrito City Councilmember Gabriel Quinto Irvine Vice Mayor Tammy Kim Long Beach City Councilmember Dr.
+Suely Saro Montebello City Councilmember Angie Jimenez Montebello City Councilmember Salvador Melendez Monterey Park City Councilmember Thomas Wong Mountain View City Councilmember Emily Ramos Mountain View Councilmember Margaret Abe-Koga Mountain View School District Boardmember Cindy Wu Oakland City Council President Nikki Fortunato Bas Pasadena City College Trustee Alton Wang Pasadena City College Trustee Sandra Chen Lau Rancho Palos Verdes City Councilmember Paul Seo Rosemead Mayor Pro Tem (ret.) John Tang San Bernardino Mayor Helen Tran San Diego City Councilmember Kent Lee Santa Clara County Supervisor Otto Lee Torrance Unified School District Board Member Betty Lieu West Covina City Councilmember (ret.) James Toma ​ ​ Community Leaders ​Abigail Zelenski, LA Civil Rights Commission Chair and Small Business Owner* Adrienne Hament, St.
+Ignatius Church Community Advocate* Alma Morales, Community Member & Organizer* Aquilina Soriano Versoza, Executive Director, Pilipino Action Center* Carlos Medina, LGBTQ+ Advocate and Los Feliz Resident* Hans Johnson, LGBTQ+ and Environmental Justice Leader & President, East Area Progressive Democrats (EAPD)* Hoang Nguyen, Non-profit Leader* Jaime Geaga, LA Central Area Planning Commissioner & PALAD Boardmember* James Johnson, Animal Rights Advocate and Mt.
+Washington Resident James Ta’bor, Veteran and Housing Advocate and Eagle Rock Resident* Janet Nepales, Community Leader* Joselyn Geaga-Rosenthal, Friends of Echo Park Library & PALAD Founding President* Jun Miranda, Restaurant Owner, Kusina Filipina L.A.* Kira Conlon, Highland Park Resident* Koreen Cea-Heier, Retired LAUSD Teacher & Eagle Rock Resident* Luis Lopez, Non-profit Healthcare Director & Democratic Party Delegate* Luisa Blue, Retired Executive Vice President, Service Employees International Union (SEIU)* Mary Grace Barrios, PALAD Vice President of Labor Relations* Rosalie Caratao, President, The LA Philippine Women’s Club & Echo Park Resident* Ruben Nepales, Community Leader* Saik-Choon Poh, Civil Engineer* Susana Reyes, Sierra Club National Political Program Volunteer Co-Lead* Teresa Villegas, Vice President, L.A.
+City Public Works Commissioner and Highland Park Resident* Terry Hair, President, Democrats for Neighborhood Action (DNA) and Echo Park Resident* Thomas Atkins, Retiree, Veterans Organization President, & Eagle Rock Resident* Tracy Stone, Architect & Elysian Valley Resident* Vicky Perez, Registered Nurse & Manzanar Committee Board Member* Victor Chico, Eagle Rock Resident* Vlad Minasyan, Business Owner & Glendale Resident* Wyatt Conlon, Highland Park Resident* Zoe Zelenski, LAUSD Student and #KidsforCaloza Chair* *Titles for identification purposes only Endorsements HOME MEET JESSICA MY SUPPORTERS ISSUES GET INVOLVED More Use tab to navigate through the menu items. ​ Contact us at Caloza4California@gmail.com ​ Paid for by Caloza for Assembly 2026 (FPPC # 1461642) 1700 Tribute Road, Suite 201, Sacramento, CA 95815 bottom of page

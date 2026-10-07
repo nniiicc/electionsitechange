@@ -1,9 +1,2 @@
-Back to All Events
-Please join Edward Ritter and Konnor Grimek for a town hall.
-Previous
-Previous
-August 2
-York State Fair
-Next
-Next
-August 15
+0 Skip to Content Plaidsylvania Events Subscribe to Edward's Newsletter Donate Open Menu Close Menu Donate Plaidsylvania Events Subscribe to Edward's Newsletter Open Menu Close Menu Events Subscribe to Edward's Newsletter Donate Back to All Events Town Hall with Edward Ritter and Konnor Grimek Thursday, August 13, 2026 6:30 PM 8:00 PM Springettsbury Township Building 1501 Mount Zion Road York, Pennsylvania, 17402 United States (map) Google Calendar ICS Please join Edward Ritter and Konnor Grimek for a town hall.
+Previous Previous August 2 York State Fair Next Next August 15 Day of Action - Canvassing in Springettsbury Township Paid for by Plaidsylvania Made with Squarespace

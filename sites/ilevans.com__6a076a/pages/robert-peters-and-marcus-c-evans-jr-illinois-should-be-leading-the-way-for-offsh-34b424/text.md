@@ -1,4 +1,6 @@
-Talk to anyone about politics in the last two months, and the two biggest issues on people’s minds are gas prices and inflation.
+Skip to content Home Meet Marcus Latest News Take Action Donate Get a Yard Sign Volunteer Contact Home Meet Marcus Latest News Take Action Donate Get a Yard Sign Volunteer Contact Robert Peters and Marcus C.
+Evans Jr.: Illinois should be leading the way for offshore wind on the Great Lakes Marcus Evans for State Rep - news - Robert Peters and Marcus C.
+Evans Jr.: Illinois should be leading the way for offshore wind on the Great Lakes August 17, 2022 By staff news (0) Comment Talk to anyone about politics in the last two months, and the two biggest issues on people’s minds are gas prices and inflation.
 And for good reason.
 With no end in sight to Russia’s war on Ukraine, energy prices will continue to fluctuate as crude oil supply chains are disrupted.
 At their peak, gas prices, the main driver of inflation, rose above $5 a gallon.
@@ -15,8 +17,9 @@ President Joe Biden’s Executive Order on Climate Change includes new investmen
 The opportunity is there, and Illinois needs to act now.
 Many other states are competing for these funds — right now there’s $100 billion in offshore wind construction planned off the East Coast.
 There’s no reason for Illinois to lose out on this huge opportunity to build long-lasting green energy infrastructure that will create thousands of good-paying clean energy jobs in the same communities that have endured decades of environmental racism.
-Illinois is fifth in the nation for clean energy jobs, and investing in offshore wind will keep Illinois on the path to sustainability and continued economic growth.
-Aug. 15-19 also marks American Clean Power Week, which showcases clean power as the lowest-cost, fastest-growing source of power in America.
+Illinois is fifth in the nation for clean energy jobs , and investing in offshore wind will keep Illinois on the path to sustainability and continued economic growth.
+Aug.
+15-19 also marks American Clean Power Week , which showcases clean power as the lowest-cost, fastest-growing source of power in America.
 After the passage of the Clean Energy Jobs Act — the most comprehensive clean energy legislation in the country — Illinois has never been more ready to pioneer offshore wind.
 Our state has a once-in-a-generation chance to get in early, benefit from this federal investment, and become a hub for Great Lakes offshore wind power.
 Doing so will ensure stable energy supply and prices, while creating thousands of jobs right here in Illinois.
@@ -26,3 +29,5 @@ Robert Peters represents the 13th District.
 State Rep.
 Marcus C.
 Evans Jr. represents the 33rd District.
+Source: https://www.chicagotribune.com/opinion/commentary/ct-opinion-renewable-energy-wind-power-illinois-20220817-skrpxu6ulfdbffpfsr7kd3wwxm-story.html Tags: Marcus Evans Contact Us PO Box 1043 Chicago, IL 60690 773.800.9216 marcus@ilevans.com Take Action Donate Get a Yard Sign Volunteer Latest News Thank You District 33! © # Citizens for Marcus C.
+Evans, Jr.

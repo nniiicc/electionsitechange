@@ -1,10 +1,11 @@
 {
  "description": "Explore Vermont State Representative testimonials for John Kingston&#39;s impactful leadership and community support.",
  "final_url": "https://kingston4vt.com/endorsements%2Ftestimonials",
- "paid_for_by": null,
+ "fingerprint": "fe79ba6dd6f2e7b03f75122070cacc557c1170ce",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements/Testimonials",
  "years_mentioned": [
-  "2019",
-  "2026"
+  "2019"
  ]
 }

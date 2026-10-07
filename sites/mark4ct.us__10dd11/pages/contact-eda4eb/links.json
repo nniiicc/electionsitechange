@@ -1,16 +1,58 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/Mark4CT",
-"https://instagram.com/mark4ct",
-"https://mark4ct.us/",
-"https://mark4ct.us/contact",
-"https://mark4ct.us/contribute",
-"https://mark4ct.us/endorsements",
-"https://mark4ct.us/home",
-"https://mark4ct.us/issues",
-"https://mark4ct.us/meet_mark_w",
-"https://mark4ct.us/military-service",
-"https://mark4ct.us/privacy-policy",
-"https://mark4ct.us/volunteer",
-"https://mark4ct.us/vote"
+{
+"text": "Contact",
+"href": "https://www.mark4ct.us/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.mark4ct.us/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mark4ct.us/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.mark4ct.us/home"
+},
+{
+"text": "Issues",
+"href": "https://www.mark4ct.us/issues"
+},
+{
+"text": "Meet Mark",
+"href": "https://www.mark4ct.us/meet_mark_w"
+},
+{
+"text": "Military Service",
+"href": "https://www.mark4ct.us/military-service"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mark4ct.us/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mark4ct.us/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.mark4ct.us/vote"
+},
+{
+"text": "[image: MARK4CT, MARK W. ANDERSON Your STATE REPRESENTATIVE representing Barkhamsted, Granby, Hartland, and New Hartford]",
+"href": "https://www.mark4ct.us/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Mark4CT/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mark4ct/"
+}
 ]

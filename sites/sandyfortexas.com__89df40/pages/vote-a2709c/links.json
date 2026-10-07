@@ -1,24 +1,102 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/SandyForTexas",
-"https://instagram.com/sandyfortexas",
-"https://sandyfortexas.com/",
-"https://sandyfortexas.com/contact",
-"https://sandyfortexas.com/contribute",
-"https://sandyfortexas.com/donate-via-zelle-or-check",
-"https://sandyfortexas.com/events",
-"https://sandyfortexas.com/home",
-"https://sandyfortexas.com/issues",
-"https://sandyfortexas.com/make-endorsement",
-"https://sandyfortexas.com/meet_sandy",
-"https://sandyfortexas.com/texas-house-district-28",
-"https://sandyfortexas.com/view-endorsements",
-"https://sandyfortexas.com/volunteer",
-"https://sandyfortexas.com/vote",
-"https://sandyfortexas.com/yard-sign",
-"https://sos.state.tx.us/elections/voter/important-election-dates.shtml",
-"https://tiktok.com/@sandyibanezfortexas",
-"https://votetexas.gov/",
-"https://x.com/SandyForTXHD28",
-"https://youtube.com/@SandyForTexas"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://sandyfortexas.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://sandyfortexas.com/contribute"
+},
+{
+"text": "Donate via Zelle or Check",
+"href": "https://sandyfortexas.com/donate-via-zelle-or-check"
+},
+{
+"text": "Endorse Sandy!",
+"href": "https://sandyfortexas.com/make-endorsement"
+},
+{
+"text": "Endorsements",
+"href": "https://sandyfortexas.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://sandyfortexas.com/home"
+},
+{
+"text": "Issues",
+"href": "https://sandyfortexas.com/issues"
+},
+{
+"text": "Meet Sandy",
+"href": "https://sandyfortexas.com/meet_sandy"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.votetexas.gov/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://www.votetexas.gov/"
+},
+{
+"text": "Texas House District 28",
+"href": "https://sandyfortexas.com/texas-house-district-28"
+},
+{
+"text": "Updates",
+"href": "https://sandyfortexas.com/events"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://www.votetexas.gov/"
+},
+{
+"text": "Volunteer | Get Involved",
+"href": "https://sandyfortexas.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://sandyfortexas.com/vote"
+},
+{
+"text": "Where is my polling place?",
+"href": "https://www.votetexas.gov/"
+},
+{
+"text": "Yard Signs",
+"href": "https://sandyfortexas.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://sandyfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SandyForTexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sandyfortexas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@sandyibanezfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@SandyForTexas"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SandyForTXHD28"
+},
+{
+"text": "here",
+"href": "https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml"
+}
 ]

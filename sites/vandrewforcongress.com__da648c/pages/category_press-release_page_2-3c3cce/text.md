@@ -1,3 +1,24 @@
-Van Drew Announces Lake Lenape Dam Wins National Dam Award
-June 26, 2026 — Congressman Van Drew announced that South Jersey’s Lake Lenape Dam has won a national competition held by the Association of State Dam Safety Officials (ASDSO) for their highest honor, the 2026 National Dam Rehabilitation Award.
-The project was made possible after Congressman Van Drew secured $4.6 million in federal funding to […]
+TEXT JVD TO 71858 Wins for South Jersey Awards & Endorsements Latest News Events Support Jeff Boots on the Ground Store Donate Category: Press Release Press Release Van Drew Announces Lake Lenape Dam Wins National Dam Award June 26, 2026 — Congressman Van Drew announced that South Jersey’s Lake Lenape Dam has won a national competition held by the Association of State Dam Safety Officials (ASDSO) for their highest honor, the 2026 National Dam Rehabilitation Award.
+The project was made possible after Congressman Van Drew secured $4.6 million in federal funding to […] Read More Press Release VAN DREW CAMPAIGN WARNS VOTERS TO PREPARE FOR FAKE POLLS IN THE 2nd CONGRESSIONAL DISTRICT As Yogi Berra said, “It’s Déjà Vu all over again!” June 25, 2026 — United States Congressman Jeff Van Drew’s campaign released the following statement in anticipation of the Democrat’s polling in New Jersey’s 2nd Congressional District.
+“We go through this year in and year out and it’s really getting old,” said Van Drew’s Campaign […] Read More Press Release Van Drew: New Jersey Should Focus on Conditions in Its Own Prisons June 23, 2026 — Congressman Van Drew issued the following statement after a new report from the Office of New Jersey’s Corrections Ombudsperson detailed overcrowding, extreme heat, and unsanitary conditions at Bayside State Prison in Cumberland County.
+“For weeks, officials across New Jersey have been outraged over conditions at Delaney Hall,” said Congressman Van Drew.
+“They have […] Read More Press Release Van Drew Slams Democrats for Pushing False Narratives About Delaney Hall June 17, 2026 — Congressman Van Drew issued the following statement regarding House Democrats’ forum on the conditions at Delaney Hall detention center in Newark, New Jersey.
+“What we saw today was not a serious effort to tell the truth,” said Congressman Van Drew.
+“It was another attempt to push a political narrative, demonize ICE, […] Read More Press Release Van Drew Calls for Elimination of Delivery Fees In Order to Lower Utility Bills Following Junk Fee Executive Order June 16, 2026 — Congressman Van Drew issued the following statement regarding Governor Mikie Sherrill’s executive order targeting junk fees in New Jersey.
+“This is a good start, but we need to go further,” said Congressman Van Drew.
+“The biggest ‘junk fees’ in New Jersey are the ones families see every month on their electric […] Read More Press Release Van Drew: The Demonization of ICE Must Stop June 15, 2026 — Congressman Van Drew released the following statement after reports that an ICE agent was struck by a vehicle during an enforcement operation in Stafford Township, New Jersey.
+“ICE agents put their lives on the line every day to enforce our nation’s laws and protect our communities,” said Congressman Van Drew.
+“Yet too many politicians […] Read More Press Release Van Drew Calls on Governor Sherrill to Bring State Police Back to Delaney Hall June 9, 2026 — Congressman Van Drew sent a letter to Governor Sherrill calling on her to bring New Jersey State Police back to Delaney Hall ICE facility to work with local law enforcement and restore order.
+“We are a nation of laws, and this is America,” said Congressman Van Drew.
+“What we have seen […] Read More Press Release Van Drew Advances More Than $43 Million in South Jersey Priorities Through House Appropriations Committee June 8, 2026 — Congressman Van Drew announced that more than $43 million in funding for South Jersey projects and priorities has been approved by the House Appropriations Committee as part of the Fiscal Year 2027 appropriations process.
+Next, the funding will go to the House floor for a full vote.
+“Every year, I work to […] Read More Press Release Van Drew Slams Gov.
+Sherrill’s Plan to Spend $20.2 Million Defending Illegal Immigrants While New Jersey Families Struggle June 4, 2026 — Congressman Van Drew released the following statement condemning Governor Sherrill’s decision to increase funding for New Jersey’s Detention and Deportation Defense Initiative by an additional $12 million, bringing the total taxpayer-funded program to more than $20 million.
+The funding is intended to provide legal assistance to individuals facing deportation and detention […] Read More Press Release Van Drew Meets with Breeze Airways Leadership, Announces Major Expansion in Atlantic City June 4, 2026 — Congressman Van Drew met with senior officials from Breeze Airways to discuss the airline’s growing presence at Atlantic City International Airport and its plans to expand service for New Jersey travelers.
+“Breeze Airways is stepping up to expand service in Atlantic City in a big way,” said Congressman Van Drew.
+“By the end […] Read More Newer Articles Older Articles Paid for by Van Drew for Congress Privacy Policy Terms & Conditions By checking this box to opt-in you are agreeing to receive recurring text messages from the Van Drew for Congress campaign.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+SMS opt in will not be sold, rented, or shared.
+Reply STOP to cancel.
+Reply HELP for help. https://vandrewforcongress.com/privacy-policy.

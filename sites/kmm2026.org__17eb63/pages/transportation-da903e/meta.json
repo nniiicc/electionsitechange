@@ -1,7 +1,9 @@
 {
  "description": "discuss the Texas transportation system",
  "final_url": "https://www.kmm2026.org/transportation",
- "paid_for_by": null,
+ "fingerprint": "2ee6ef37663ad56b334eb8bf08c2a8d760d9e1c6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Transportation",
  "years_mentioned": [
   "2016",

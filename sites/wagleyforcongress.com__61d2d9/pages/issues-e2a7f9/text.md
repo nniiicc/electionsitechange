@@ -1,14 +1,11 @@
-Stephen Wagley on the Issues
-Protecting Life
-Life begins at conception.
+top of page Home Issues About Contact Stephen Wagley on the Issues Protecting Life Life begins at conception.
 As a Christian, it is my duty to protect the unborn.
 As your Congressman, it is my responsibility to make sure our tax dollars are not spent on infanticide and our state laws are not encroached.
 As your Congressman, I will fight to make sure none of our tax dollars fund Planned Parenthood.
 Our laws here in Louisiana protecting the unborn are being targeted by Democrats in DC who want abortion drugs flooding the state.
 I fear this is only the start of what will be a coordinated campaign by these radicals to bring abortion back into our state either through laws passed in Congress or regulations drafted by career bureaucrats.
 It will be my top priority to fight their attack on our state’s protection of the unborn.
-Supporting our Businesses
-As a private businessman, I have real life experience in signing both sides of a check.
+Supporting our Businesses As a private businessman, I have real life experience in signing both sides of a check.
 I know the responsibility that comes with making payroll and taking care of my employees.
 I also know first-hand the burdens that government puts on businesses with red tape, regulations and taxes.
 Our district has one of our country’s largest energy corridors for oil and gas along with a thriving maritime and port industry along the Mississippi River.
@@ -54,16 +51,14 @@ America First means Americans First!
 The same politicians who caused this crisis want you to believe high prices are just "the new normal." They are all talk and no action.
 Not on my watch.
 Affordability isn't a talking point or some focus group speak to me – it will be my stress test on every vote I make in Washington before a single taxpayer dollar gets spent.
-Securing Our Border
-President Trump has been fighting to build the wall across our Southern border since the very beginning his first term.
+Securing Our Border President Trump has been fighting to build the wall across our Southern border since the very beginning his first term.
 He has been fought every step of the way by the radical Washington DC Democrats and bureaucrats.
 The reality is that the Democrats want to flood our country with low skilled and under educated illegals because they see them as their voters, not the burden against our safety net, schools and services.
 The border is the prime target of the Cartels and Islamist terrorists who cause terror on our communities nationwide through the flow of drugs and seek our destruction with terrorism.
 The Cartels and criminal smuggling networks make billions of dollars every year bring children across the border who suffer in ways that I will not describe.
 I will do everything in my power as your Congressman to support President Trump’s mission in building the wall, fighting the Cartels and criminals and supporting Louisiana’s coordination with the Trump administration on protecting us from the Cartels, smugglers and Islamists terrorists.
 LET’S BUILD THE WALL!
-Fighting for the MAGA Movement and President Trump
-I have supported President Trump’s candidacy for office since 2011.
+Fighting for the MAGA Movement and President Trump I have supported President Trump’s candidacy for office since 2011.
 In 2014, I took the opportunity to drive President Trump to and from the Republican Leadership Conference where I promised him he could count on my support.
 I keep my promises.
 As we all saw during his first term, the Democrats sole mission is to defeat President Trump and stop the Make America Great agenda.
@@ -73,8 +68,7 @@ The MAGA agenda represents our district as it fights to make us stronger, health
 As your Congressman, I will fight for President Trump and our MAGA agenda.
 I will do everything in my power to stop any future attempt by the Democrats to impeach President Trump or harass the White House with investigations.
 As we all know, an attack on the President and his agenda is an attack on all of us and our values.
-Defending the Second Amendment
-Our Founding Fathers understood that the last line of defense against tyranny is the inherent right to arm ourselves.
+Defending the Second Amendment Our Founding Fathers understood that the last line of defense against tyranny is the inherent right to arm ourselves.
 The Bible teaches in Exodus 22:2 “If a thief be found breaking in and be smitten so that he die, there shall no blood be shed for him.” The Second Amendment is sacrosanct.
 It is the legal basis that allows us to protect ourselves, our families and our homes.
 I sleep well every night in my home knowing that I can protect my wife and daughters with my five firearms.
@@ -85,8 +79,7 @@ I will work to shoot down any attempt in Washington DC to bring back the assault
 Our local firearms sector can also count on me to fight against regulatory burdens, banking discrimination and red tape targeting them.
 My door will always be open to hear any concerns from gun owners, gun manufacturers, gun dealers and range owners.
 Your fundamental rights are not up for debate.
-Serving Local Law Enforcement
-I support the Blue.
+Serving Local Law Enforcement I support the Blue.
 The men and women who wear the badge put their lives on the line every single day to protect all of us.
 They deserve our respect, appreciation and all protections in law.
 Make no mistake, the Radical Democrats and Communists who will be elected to the next term of Congress will seek defund and dismantle the local police any way possible.
@@ -98,8 +91,7 @@ I will make sure our district has priority access to federal surplus equipment p
 My budget submissions will prioritize our local law enforcement, and I will monitor all developments.
 Our Blue will be able to count on me for all the support it needs.
 It will be my honor to serve you as you in Congress.
-Protecting the Lousiana Vote
-President Trump is boldly looking for any avenue to have the SAVE AMERICA ACT pass Congress.
+Protecting the Lousiana Vote President Trump is boldly looking for any avenue to have the SAVE AMERICA ACT pass Congress.
 I applaud Speaker Johnson and Majority Whip Scalise for already passing the SAVE AMERICA ACT three times to put as much pressure as possible on the Senate.
 I also fully support any future legislative maneuver the Speaker and Majority Whip decide, whether through budget reconciliation or another avenue, to force the Senate’s hand and get this bill to President Trump’s desk.
 The SAVE AMERICA ACT simply requires proof of citizenship to vote.
@@ -108,8 +100,7 @@ Yet Democrats oppose this commonsense measure to secure our elections.
 We all know why, the Democrats want illegals to vote in our elections.
 I want our district to know that their vote in the 2028 election will not be undone in blue or purple states.
 President Trump, Speaker Johnson, Majority Whip Scalise and most importantly, you my constituent, can count on my support for any and all measure to pass the SAVE AMERICA ACT.
-America MUST be the Crypto Capital of the World
-America was built on the freedom to innovate, own property, and keep government out of our wallets.
+America MUST be the Crypto Capital of the World America was built on the freedom to innovate, own property, and keep government out of our wallets.
 That's why I support a pro-growth, pro-innovation approach to cryptocurrency and digital assets.
 America must be the Crypto Capital of the world, so the U.S. dollar remains the global reserve currency.
 While the Biden administration notoriously used "regulation by enforcement" with the strong support and coordination of Elizabeth Warren to punish American innovators and push blockchain jobs overseas, China and other adversaries used that bone headed Biden policy to race ahead.
@@ -146,3 +137,10 @@ The miners’ warehouses are already built efficiently WITHOUT government subsid
 Digital assets represent the same entrepreneurial spirit that built this country.
 I'll work to ensure Washington stays out of the way, protects consumers from fraud through smart — not suffocating — rules, and lets American innovation lead the world.
 Our district will be part of the Crypto Revolution!
+First name Last name Phone By providing your phone number and/or email, you are consenting to receive emails, calls, and SMS/MMS messages, including autodialed and automated calls and texts, to that number from WAGLEY FOR CONGRESS.
+Message and data rates may apply.
+Message frequency may vary.
+Text STOP to opt out or HELP for help.
+You can view our Privacy Policy and Mobile Terms of Service here.
+Submit WAGLEY FOR CONGRESS P.O.
+Box 78093, Baton Rouge, LA 70837 bottom of page

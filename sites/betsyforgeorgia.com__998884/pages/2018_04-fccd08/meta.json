@@ -1,9 +1,12 @@
 {
  "description": "Article of . Betsy for Georgia Re-elect Betsy Holland for Georgia's 54th",
  "final_url": "https://betsyforgeorgia.com/2018/04/",
- "paid_for_by": null,
+ "fingerprint": "87b68d44747e7e5948102537dc97ecf39063d2d0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "April 2018 - Betsy for Georgia",
  "years_mentioned": [
+  "1997",
   "2018"
  ]
 }

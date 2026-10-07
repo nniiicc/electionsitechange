@@ -1,34 +1,234 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSeU61FNmjWLIcxE29KcyTVza-PrYXkf4TBstJy1mA_9PdcIyg/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSfB47OUJXcLWwVIK6cv1PeZMIi8Rpxis0pFA3Aba-wCAV6aNQ/viewform?usp=header",
-"https://facebook.com/JanooForVT",
-"https://instagram.com/janooforvt",
-"https://janooforvt.com/",
-"https://janooforvt.com/14-sheet-janoo-2",
-"https://janooforvt.com/about-page",
-"https://janooforvt.com/all-events?event=1079",
-"https://janooforvt.com/all-events?event=1080",
-"https://janooforvt.com/all-events?event=1081",
-"https://janooforvt.com/all-events?event=1082",
-"https://janooforvt.com/all-events?event=1083",
-"https://janooforvt.com/all-events?event=1084",
-"https://janooforvt.com/all-events?event=1086",
-"https://janooforvt.com/all-events?event=1087",
-"https://janooforvt.com/all-events?event=1088",
-"https://janooforvt.com/all-events?event=1089",
-"https://janooforvt.com/endorsements",
-"https://janooforvt.com/platform-page",
-"https://janooforvt.com/privacy-policy",
-"https://janooforvt.com/wp-content/uploads/2026/10/14-Sheet-Janoo-.pdf",
-"https://janooforvt.solidarity.tech/campaign-suggestion-box",
-"https://janooforvt.solidarity.tech/canvass-events",
-"https://janooforvt.solidarity.tech/get-involved",
-"https://janooforvt.solidarity.tech/join-page",
-"https://janooforvt.solidarity.tech/lawn-sign-request",
-"https://janooforvt.solidarity.tech/phone-bank-events",
-"https://janooforvt.solidarity.tech/town-hall-statewide-tour",
-"https://secure.actblue.com/donate/janoo-for-vt",
-"https://store.janooforvt.com/",
-"https://tiktok.com/@janooforvt",
-"https://youtube.com/@janooforvt"
+{
+"text": "All Campaign Events",
+"href": "https://janooforvt.solidarity.tech/join-page"
+},
+{
+"text": "Amanda",
+"href": "https://www.janooforvt.com/about-page/"
+},
+{
+"text": "Bennington Community Conversations w/ Amanda Janoo at Pangea Cafe",
+"href": "https://www.janooforvt.com/all-events/?event=1088"
+},
+{
+"text": "Brattleboro Community Conversations w/ Amanda Janoo @ the Library",
+"href": "https://www.janooforvt.com/all-events/?event=1083"
+},
+{
+"text": "Bristol Community Conversations with Amanda Janoo at Tandem",
+"href": "https://www.janooforvt.com/all-events/?event=1086"
+},
+{
+"text": "Burlington Musical Rally at SEABA with Amanda Janoo",
+"href": "https://www.janooforvt.com/all-events/?event=1089"
+},
+{
+"text": "Campaign Stops",
+"href": "https://www.janooforvt.com/#events"
+},
+{
+"text": "Canvass",
+"href": "https://janooforvt.solidarity.tech/canvass-events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/janoo-for-vt"
+},
+{
+"text": "Download 1/4 Sheets",
+"href": "https://www.janooforvt.com/14-sheet-janoo-2/"
+},
+{
+"text": "Download 1/4 Sheets",
+"href": "https://www.janooforvt.com/wp-content/uploads/2026/10/14-Sheet-Janoo-.pdf"
+},
+{
+"text": "Endorse Amanda",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfB47OUJXcLWwVIK6cv1PeZMIi8Rpxis0pFA3Aba-wCAV6aNQ/viewform?usp=header"
+},
+{
+"text": "Endorsements",
+"href": "https://www.janooforvt.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://janooforvt.solidarity.tech/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.janooforvt.com"
+},
+{
+"text": "Host an Event",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeU61FNmjWLIcxE29KcyTVza-PrYXkf4TBstJy1mA_9PdcIyg/viewform"
+},
+{
+"text": "Morrisville Community Conversations with Amanda Janoo at Soulmate",
+"href": "https://www.janooforvt.com/all-events/?event=1081"
+},
+{
+"text": "Newport Community Conversations with Amanda Janoo at Sol Cafe",
+"href": "https://www.janooforvt.com/all-events/?event=1082"
+},
+{
+"text": "News",
+"href": "https://www.janooforvt.com#news"
+},
+{
+"text": "Phone Bank",
+"href": "https://janooforvt.solidarity.tech/phone-bank-events"
+},
+{
+"text": "Plainfield Community Conversations w/ Amanda Janoo @ the Granary",
+"href": "https://www.janooforvt.com/all-events/?event=1084"
+},
+{
+"text": "Platform",
+"href": "https://www.janooforvt.com/platform-page/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.janooforvt.com/privacy-policy/"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://janooforvt.solidarity.tech/lawn-sign-request"
+},
+{
+"text": "Rutland Community Conversations with Amanda Janoo at Speakeasy",
+"href": "https://www.janooforvt.com/all-events/?event=1087"
+},
+{
+"text": "Saint Johnsbury Community Conversations w/ Amanda at the Buttery",
+"href": "https://www.janooforvt.com/all-events/?event=1080"
+},
+{
+"text": "South Hero Community Conversations with Amanda Janoo @ Two Heroes",
+"href": "https://www.janooforvt.com/all-events/?event=1079"
+},
+{
+"text": "Store",
+"href": "https://store.janooforvt.com/"
+},
+{
+"text": "Suggestion Box",
+"href": "https://janooforvt.solidarity.tech/campaign-suggestion-box"
+},
+{
+"text": "Town Hall State Tour",
+"href": "https://janooforvt.solidarity.tech/town-hall-statewide-tour"
+},
+{
+"text": "View Details",
+"href": "https://www.janooforvt.com/all-events/?event=1079"
+},
+{
+"text": "View Details",
+"href": "https://www.janooforvt.com/all-events/?event=1080"
+},
+{
+"text": "View Details",
+"href": "https://www.janooforvt.com/all-events/?event=1081"
+},
+{
+"text": "View Details",
+"href": "https://www.janooforvt.com/all-events/?event=1082"
+},
+{
+"text": "View Details",
+"href": "https://www.janooforvt.com/all-events/?event=1083"
+},
+{
+"text": "View Details",
+"href": "https://www.janooforvt.com/all-events/?event=1084"
+},
+{
+"text": "View Details",
+"href": "https://www.janooforvt.com/all-events/?event=1086"
+},
+{
+"text": "View Details",
+"href": "https://www.janooforvt.com/all-events/?event=1087"
+},
+{
+"text": "View Details",
+"href": "https://www.janooforvt.com/all-events/?event=1088"
+},
+{
+"text": "View Details",
+"href": "https://www.janooforvt.com/all-events/?event=1089"
+},
+{
+"text": "Volunteer Opportunities",
+"href": "https://janooforvt.solidarity.tech/get-involved"
+},
+{
+"text": "Volunteer Opportunities",
+"href": "https://www.janooforvt.com/#events-volunteer"
+},
+{
+"text": "[image: Amanda Janoo for Governor]",
+"href": "https://www.janooforvt.com"
+},
+{
+"text": "[image: Bennington Community Conversations w/ Amanda Janoo at Pangea Cafe]",
+"href": "https://www.janooforvt.com/all-events/?event=1088"
+},
+{
+"text": "[image: Brattleboro Community Conversations w/ Amanda Janoo @ the Library]",
+"href": "https://www.janooforvt.com/all-events/?event=1083"
+},
+{
+"text": "[image: Bristol Community Conversations with Amanda Janoo at Tandem]",
+"href": "https://www.janooforvt.com/all-events/?event=1086"
+},
+{
+"text": "[image: Burlington Musical Rally at SEABA with Amanda Janoo]",
+"href": "https://www.janooforvt.com/all-events/?event=1089"
+},
+{
+"text": "[image: Morrisville Community Conversations with Amanda Janoo at Soulmate]",
+"href": "https://www.janooforvt.com/all-events/?event=1081"
+},
+{
+"text": "[image: Newport Community Conversations with Amanda Janoo at Sol Cafe]",
+"href": "https://www.janooforvt.com/all-events/?event=1082"
+},
+{
+"text": "[image: Plainfield Community Conversations w/ Amanda Janoo @ the Granary]",
+"href": "https://www.janooforvt.com/all-events/?event=1084"
+},
+{
+"text": "[image: Rutland Community Conversations with Amanda Janoo at Speakeasy]",
+"href": "https://www.janooforvt.com/all-events/?event=1087"
+},
+{
+"text": "[image: Saint Johnsbury Community Conversations w/ Amanda at the Buttery]",
+"href": "https://www.janooforvt.com/all-events/?event=1080"
+},
+{
+"text": "[image: South Hero Community Conversations with Amanda Janoo @ Two Heroes]",
+"href": "https://www.janooforvt.com/all-events/?event=1079"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JanooForVT/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/janooforvt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@janooforvt"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@janooforvt"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@janooforvt.com"
+}
 ]

@@ -1,18 +1,94 @@
 [
-"https://apolloartistry.com/",
-"https://schwartzforcongress.com/",
-"https://schwartzforcongress.com/bluesky",
-"https://schwartzforcongress.com/cdn-cgi/l/email-protection",
-"https://schwartzforcongress.com/donate",
-"https://schwartzforcongress.com/instagram",
-"https://schwartzforcongress.com/privacy-policy",
-"https://schwartzforcongress.com/threads",
-"https://schwartzforcongress.com/twitter",
-"https://secure.actblue.com/donate/daniel-schwartz-1?amount=10",
-"https://secure.actblue.com/donate/daniel-schwartz-1?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/daniel-schwartz-1?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/daniel-schwartz-1?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/daniel-schwartz-1?amount=50&express_lane=true",
-"https://secure.actblue.com/donate/daniel-schwartz-1?amount=500&express_lane=true",
-"https://secure.actblue.com/donate/daniel-schwartz-1?express_lane=true"
+{
+"text": "$10 $10",
+"href": "https://secure.actblue.com/donate/daniel-schwartz-1?amount=10&express_lane=true"
+},
+{
+"text": "$100 $100",
+"href": "https://secure.actblue.com/donate/daniel-schwartz-1?amount=100&express_lane=true"
+},
+{
+"text": "$25 $25",
+"href": "https://secure.actblue.com/donate/daniel-schwartz-1?amount=25&express_lane=true"
+},
+{
+"text": "$50 $50",
+"href": "https://secure.actblue.com/donate/daniel-schwartz-1?amount=50&express_lane=true"
+},
+{
+"text": "$500 $500",
+"href": "https://secure.actblue.com/donate/daniel-schwartz-1?amount=500&express_lane=true"
+},
+{
+"text": "Al enviar su número de celular, acepte recibir mensajes de texto de la campaña periódicamente. Pueden aplicarse tarifas por mensajes y datos. Envíe \"HELP\" para más información. Envíe \"STOP\" para dejar de recibir mensajes.",
+"href": "https://schwartzforcongress.com/privacy-policy"
+},
+{
+"text": "Al enviar tu número de celular, acepte recibir mensajes de texto de la campaña periódicamente. Pueden aplicarse tarifas por mensajes y datos. Envíe \"HELP\" para más información. Envíe \"STOP\" para dejar de recibir mensajes.",
+"href": "https://schwartzforcongress.com/privacy-policy"
+},
+{
+"text": "Consulta de Prensa",
+"href": "mailto:info@schwartzforcongress.com"
+},
+{
+"text": "Contacto",
+"href": "mailto:info@schwartzforcongress.com"
+},
+{
+"text": "Donar",
+"href": "https://schwartzforcongress.com/donate"
+},
+{
+"text": "Donar Ahora Donar Ahora",
+"href": "https://secure.actblue.com/donate/daniel-schwartz-1?amount=10"
+},
+{
+"text": "Donar Donar",
+"href": "https://schwartzforcongress.com/donate"
+},
+{
+"text": "EN EN",
+"href": "https://schwartzforcongress.com"
+},
+{
+"text": "English",
+"href": "https://schwartzforcongress.com"
+},
+{
+"text": "English English",
+"href": "https://schwartzforcongress.com"
+},
+{
+"text": "Instagram",
+"href": "https://schwartzforcongress.com/instagram"
+},
+{
+"text": "Otra cantidad… Other Amount...",
+"href": "https://secure.actblue.com/donate/daniel-schwartz-1?express_lane=true"
+},
+{
+"text": "Política Privada",
+"href": "https://schwartzforcongress.com/privacy-policy"
+},
+{
+"text": "Powered by Apollo",
+"href": "https://apolloartistry.com/"
+},
+{
+"text": "Threads",
+"href": "https://schwartzforcongress.com/threads"
+},
+{
+"text": "X-twitter",
+"href": "https://schwartzforcongress.com/twitter"
+},
+{
+"text": "[image]",
+"href": "https://schwartzforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://schwartzforcongress.com/bluesky"
+}
 ]

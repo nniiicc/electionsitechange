@@ -1,16 +1,2 @@
-0
-Skip to Content
-→ Donate
-→ Events
-→ Join the Winning Team
-Open Menu
-Close Menu
-→ Donate
-→ Events
-→ Join the Winning Team
-Open Menu
-Close Menu
-→ Donate
-→ Events
-→ Join the Winning Team
-Upcoming Events:
+0 Skip to Content → Donate → Events → Join the Winning Team Open Menu Close Menu → Donate → Events → Join the Winning Team Open Menu Close Menu → Donate → Events → Join the Winning Team Upcoming Events: VOTE DAVE CANTRELL Independent Candidate for WV District 3 JOIN THE WINNING TEAM DONATE paid for by Dave for Delegate → FACEBOOK → INSTAGRAM WELLSBURG FOLLANSBEE WEST LIBERTY BETHANY photos by Zane A.
+Miller and Gia Campbell

@@ -1,7 +1,8 @@
-Contribute
-Thank you so much for your contribution to my campaign.
+Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Contribute Thank you so much for your contribution to my campaign.
 You can contribute electronically through this website or by mail to my home address at 16452 449th Avenue, Florence, SD, 57235.
 You can contribute a campaign gift in any amount up to $1000 per person or $2000 per couple.
-Checks should be made out to "Fred for House."
-Everything we've been able to accomplish - lowering taxes, shrinking the size of government, and defending life and liberty - has only been possible because of you.
+Checks should be made out to "Fred for House." Everything we've been able to accomplish - lowering taxes, shrinking the size of government, and defending life and liberty - has only been possible because of you.
 Thank you again for your faith in me and standing up for our future.
+Complete your $ 50 contribution: Select Your Information Choose an amount: $25 $50 $100 $250 $500 $1000 Other Amount $ Choose payment method: Credit Card First Name * Last Name * Email * Phone Address * City/Town * State * Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip * Occupation Employer Address * Phone Number * Add $ 0.00 to help cover PayPal processing fees?
+Add $ 0.00 to help cover card processing fees?
+Submit Contribution Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com - Political Websites Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu

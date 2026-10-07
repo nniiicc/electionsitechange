@@ -1,9 +1,34 @@
 [
-"https://briefortennessee.com/",
-"https://briefortennessee.com/about",
-"https://briefortennessee.com/contact",
-"https://facebook.com/share/1BPtLzxfJQ?mibextid=wwXIfr",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/brieanna-akers-1"
+{
+"text": "About",
+"href": "https://briefortennessee.com/about"
+},
+{
+"text": "Contact",
+"href": "https://briefortennessee.com/contact"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.actblue.com/donate/brieanna-akers-1"
+},
+{
+"text": "Home",
+"href": "https://briefortennessee.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1BPtLzxfJQ/?mibextid=wwXIfr"
+},
+{
+"text": "brie for F.R.E.E. Tennesseebrie for F.R.E.E. Tennesseebrie for F.R.E.E. Tennesseebrie for F.R.E.E. Tennessee",
+"href": "https://briefortennessee.com/"
+}
 ]

@@ -1,5 +1,4 @@
-About Sean
-Sean Frame lives in unincorporated Sacramento County with his wife Ellyn, in the house she grew up in.
+0 Skip to Content Home Endorsements Donate Endorse Sean About Sean Issues Senate District 6 Map Upcoming Events and Actions Re-FRAME the Senate Open Menu Close Menu Open Menu Close Menu Home Endorsements Donate Endorse Sean About Sean Issues Senate District 6 Map Upcoming Events and Actions Re-FRAME the Senate Home Endorsements Donate Endorse Sean About Sean Issues Senate District 6 Map Upcoming Events and Actions Re-FRAME the Senate About Sean Sean Frame lives in unincorporated Sacramento County with his wife Ellyn, in the house she grew up in.
 He is a union education worker, a dad, and a grandfather.
 Sean was called to lead on education after his son's principal was shot and killed during the school day.
 He helped the school community heal, then was elected to the school board and served nine years.
@@ -26,8 +25,8 @@ There is no ceiling on what a person will pay to save their own life or the life
 Sean supports a California single payer plan because it puts a straight line between the people paying for care and the people providing it.
 Across all of it, Sean has met California's systems to the point where they stop being policy and become somebody's actual week.
 That is the standard he would take to the Senate.
-A person
-who works in this district should be able to afford a home here, get care here, educate their children here, and stay in the community where they built their life.
+A person who works in this district should be able to afford a home here, get care here, educate their children here, and stay in the community where they built their life.
 Sean's two adult sons are proud graduates of California public schools, one from Cal Poly San Luis Obispo and one currently a graduate student there.
 The most recent addition to the Frame family is a grandson.
 He earned his undergraduate degree at San Jose State and a graduate degree at San Francisco State.
+Sean Frame for California State Senate, District 6 1700 Tribute Road, Suite 201 Sacramento, CA 95815 415-309-6912 team@seanframe.com Paid for by Frame for Senate 2026 FPPC ID #1486532 Privacy Policy

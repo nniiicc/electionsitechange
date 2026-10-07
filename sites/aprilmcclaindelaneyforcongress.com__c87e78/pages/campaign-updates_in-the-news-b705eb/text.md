@@ -1,6 +1,9 @@
-Contribute Now
-Donate to the Campaign!
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Toggle Mobile Menu Donate Now!
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer Category In the News Campaign News In the News Press Releases Campaign News · In the News McClain Delaney’s legal team sends Cease-and-Desist to Trone over ‘Congressman’ title 04.24.26 Campaign News · In the News Maryland lawmaker calls for Trump’s impeachment in wake of Venezuela operation 01.05.26 In the News McClain Delaney gains key endorsements, taps Moore alum to run campaign 11.14.25 In the News McClain Delaney’s rural visits preview reelection bid in Maryland’s lone swing district 09.02.25 In the News Frederick News Post: Grammar Drops Out, Endorses April McClain Delaney 03.29.24 In the News MoCo 360: Endorsements Stack up in Maryland 6th Congressional District 03.26.24 In the News Frederick NewsPost: Democratic Congressional Candidates Hold Forum in Frederick 03.25.24 1 2 3 Next » Up Next New Ad: Team Maryland Stands With April McClain Delaney Contribute Now Donate to the Campaign!
 We've launched our campaign and are looking for your support!
 Donate today to become a founding donor.
 Click on an option to get started.
-If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Join Her Campaign!
+Meet April Endorsements Campaign News Get Involved April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Contact Us [email protected] Address April McClain Delaney for Congress PO Box 83940 Gaithersburg, MD 20883-83940 Accessibility Statement PAID FOR BY APRIL MCCLAIN DELANEY FOR CONGRESS Site made with ❤️ by Landslide Digital I'll never stop fighting for you.
+Donate now!
+Jump to Content Toggle High Contrast Toggle Font Size

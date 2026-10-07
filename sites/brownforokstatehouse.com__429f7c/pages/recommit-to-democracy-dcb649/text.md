@@ -1,9 +1,7 @@
-Recommit to Democracy
-As Americans, we must protect our democracy and defend against authoritarian rule.
+Skip to content Home My Story Issues Contact Home My Story Issues Contact Recommit to Democracy As Americans, we must protect our democracy and defend against authoritarian rule.
 We must continue to follow the Constitution.
 This includes maintaining our system of checks and balances, the independent rule of law, and due process.
-We must fight to remain a country “of the people, by the people, for the people.”
-In Oklahoma, we must always work for a free and fair state, where individual rights are respected and each vote matters.
+We must fight to remain a country “of the people, by the people, for the people.” In Oklahoma, we must always work for a free and fair state, where individual rights are respected and each vote matters.
 We must work to increase voter participation, pass SQ836, and repeal Oklahoma Senate Bill 1027.
 We must end gerrymandering and let the voters choose their politicians, not politicians choosing their voters.
 We’ve all heard the saying “follow the money.” We must continue to fight against dark money, special interests, and the ultra wealthy billionaires having an oversized influence in politics.
@@ -20,3 +18,4 @@ Bibles belong in Sunday school, not Monday school.
 We must continue to strive to have the highest moral character.
 To be a state and country where we respect all people, even those who may look different than us, come from other countries, or have different opinions.
 Lastly, we must continue to work toward the middle in politics – there are no solutions in extremism.
+Authorized and Paid for by Brown for State House 2026

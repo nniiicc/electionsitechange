@@ -1,11 +1,42 @@
 [
-"https://kirkcullimore.com/",
-"https://kirkcullimore.com/donate",
-"https://kirkcullimore.com/real-results",
-"https://kirkcullimore.com/real-results-businesses",
-"https://kirkcullimore.com/real-results-families",
-"https://kirkcullimore.com/real-results-future",
-"https://kirkcullimore.com/real-results-kids",
-"https://kirkcullimore.com/real-results-safe-communities",
-"https://kirkcullimore.com/real-results-taxpayers"
+{
+"text": "Donate",
+"href": "https://kirkcullimore.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://kirkcullimore.com"
+},
+{
+"text": "Real Results",
+"href": "https://kirkcullimore.com/real-results/"
+},
+{
+"text": "Real Results for Safer Communities",
+"href": "https://kirkcullimore.com/real-results-safe-communities/"
+},
+{
+"text": "Real Results for Utah Businesses",
+"href": "https://kirkcullimore.com/real-results-businesses/"
+},
+{
+"text": "Real Results for Utah Families",
+"href": "https://kirkcullimore.com/real-results-families/"
+},
+{
+"text": "Real Results for Utah Kids",
+"href": "https://kirkcullimore.com/real-results-kids/"
+},
+{
+"text": "Real Results for Utah Taxpayers",
+"href": "https://kirkcullimore.com/real-results-taxpayers/"
+},
+{
+"text": "Real Results for Utah’s Future",
+"href": "https://kirkcullimore.com/real-results-future/"
+},
+{
+"text": "[image: Senator Kirk Cullimore]",
+"href": "https://kirkcullimore.com"
+}
 ]

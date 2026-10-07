@@ -1,28 +1,23 @@
-| The 437th Session of the Maryland General Assembly convenes today.
-Although the legislature only meets for 90 days, as your Delegate I work year-round to represent each of you and our district.
-But the next 90 days will be a sprint of legislative productivity in Annapolis.
-I will be called upon to consider and vote on numerous legislative issues during the session, many of which you may have read about in the news.
-Below are some of the major issues on my own Annapolis agenda for the year.
-Many of these issues will be the subject of future emails | Author Write something about yourself.
-No need to be fancy, just an overview.
-Archives Categories |
-| | If you are a regular reader of my updates, you know I try to stay in my lane as a state elected official.
+Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe LATEST NEWS National Politics 1/31/2017 If you are a regular reader of my updates, you know I try to stay in my lane as a state elected official.
 But recent national events have stirred me and many others up.
 I spent a part of last weekend asking Governor Hogan to explain how he would implement the President's Executive Order regarding visitors and refugees in the state-owned Marshall-BWI Airport.
 Thus far, the Governor has not responded with any specifics.
-I also joined my colleagues in a statement regarding the misguided order which I believe will not make us safer--none of the countries covered by the order have had an immigrant cause a terrorist incident as far back as, and including, 9/11--and runs counter to our values. |
-| | As a member of the Appropriations Committee, I spend a lot of time working on the state budget.
+I also joined my colleagues in a statement regarding the misguided order which I believe will not make us safer--none of the countries covered by the order have had an immigrant cause a terrorist incident as far back as, and including, 9/11--and runs counter to our values.
+Read More The Budget 1/24/2017 As a member of the Appropriations Committee, I spend a lot of time working on the state budget.
 Last week, that process began with the introduction of the Governor's budget proposal.
 The budget includes an operating budget (costs to run state agencies), capital budget (costs for state construction projects), and a Budget Reconciliation and Financing Act (known as the BRFA).
 The BRFA is used to alter state funding formulas when necessary to bring the budget into balance.
-You can review the Governor's submission here.
-The Department of Legislative Services provided a fiscal briefing on Monday analyzing the budget and you can read that online as well. |
-| | The legislature has been back in Annapolis for one week.
+You can review the Governor's submission here .
+The Department of Legislative Services provided a fiscal briefing on Monday analyzing the budget and you can read that online as well . ​ Read More First Week Back 1/17/2017 The legislature has been back in Annapolis for one week.
 The first few days of the session are like the first few days of a new school year.
 Friends and colleagues reconnect, catch up, and discuss the exciting months ahead.
 It is about this time that the real work begins.
-Sleeves get rolled up, bill hearings begin, and in the case of the Appropriations Committee I serve on, the budget gets introduced |
-| | The WMATA-Metro Work Group will reconvene during the 2017 legislative session.
-Work Group co-chair Delegate Erek Barron (Prince George's County) and I are pleased to announce the tentative schedule.
-Two major issues facing Metro will also be a significant focus for the session: addressing some of Metro’s budget problems and the formation of the new, federally mandated Metro Safety Commission. |
-By Authority of Friends of Marc Korman; Mark Brown, Treasurer
+Sleeves get rolled up, bill hearings begin, and in the case of the Appropriations Committee I serve on, the budget gets introduced Read More An Annapolis Agenda for 2017 1/11/2017 The 437th Session of the Maryland General Assembly convenes today.
+Although the legislature only meets for 90 days, as your Delegate I work year-round to represent each of you and our district.
+But the next 90 days will be a sprint of legislative productivity in Annapolis. ​I will be called upon to consider and vote on numerous legislative issues during the session, many of which you may have read about in the news.
+Below are some of the major issues on my own Annapolis agenda for the year.
+Many of these issues will be the subject of future emails Read More WMATA-Metro Work Group 2017 Meetings 1/2/2017 The WMATA-Metro Work Group will reconvene during the 2017 legislative session.
+Work Group co-chair Delegate Erek Barron (Prince George's County) and I are pleased to announce the tentative schedule. ​Two major issues facing Metro will also be a significant focus for the session: addressing some of Metro’s budget problems and the formation of the new, federally mandated Metro Safety Commission.
+Read More Author Write something about yourself.
+No need to be fancy, just an overview.
+Archives July 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 March 2025 February 2025 January 2025 December 2024 November 2024 October 2024 September 2024 August 2024 July 2024 June 2024 May 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 October 2023 September 2023 August 2023 July 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 November 2022 October 2022 September 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 December 2018 November 2018 October 2018 September 2018 August 2018 July 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 November 2017 October 2017 September 2017 August 2017 July 2017 June 2017 May 2017 April 2017 March 2017 February 2017 January 2017 December 2016 November 2016 October 2016 September 2016 August 2016 July 2016 June 2016 May 2016 April 2016 March 2016 February 2016 January 2016 December 2015 November 2015 October 2015 September 2015 August 2015 July 2015 June 2015 May 2015 April 2015 March 2015 February 2015 January 2015 December 2014 November 2014 October 2014 June 2014 May 2014 March 2014 February 2014 January 2014 September 2013 August 2013 July 2013 June 2013 May 2013 Categories All Legislative Session Update Monthly Update News Clip RSS Feed By Authority of Friends of Marc Korman; Mark Brown, Treasurer HOME ABOUT MARC ISSUES SCHOLARSHIP LATEST NEWS CONTRIBUTE CONTACT sign up to receive updates

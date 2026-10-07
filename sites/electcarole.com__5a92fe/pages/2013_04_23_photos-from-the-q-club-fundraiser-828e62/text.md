@@ -1,4 +1,6 @@
-Photos from the Q Club Fundraiser April 23, 2013 our fundraiser at The Q Club was a tremendous success!
+Skip to content Menu Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole Photos from the Q Club Fundraiser April 23, 2013 our fundraiser at The Q Club was a tremendous success!
 There were so many supporters and so much positive energy in the room!
 Thank you to all!
-Share this: Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Related Posted in News
+Share this: Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Related Posted in News Sitemap Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole Tweets by @CaroleFiola Sign up to the Newsletter Email Address Sitemap Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole Recent Posts 10/5/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 9/28/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 9/15/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 8/31/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 4/6/2026 Weekly Hot Jobs from the Fall River MassHire Career Center Sign up to the Newsletter Email Address Find it 2016 Carole Fiola State Representative, The 6th Bristol District Fall River Marketing Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

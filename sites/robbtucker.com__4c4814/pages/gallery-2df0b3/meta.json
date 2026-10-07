@@ -1,7 +1,9 @@
 {
  "description": "News Publication Example",
  "final_url": "https://robbtucker.com/gallery/",
- "paid_for_by": "Paid for by Robb Tucker for Congress Privacy Policy | Terms of Use Scroll To Top",
+ "fingerprint": "99aa38d5aba24c6de04c860497ed87c48c126923",
+ "format": 3,
+ "paid_for_by": "Paid for by Robb Tucker for Congress Privacy Policy",
  "title": "Gallery - Robb Tucker for Congress",
  "years_mentioned": []
 }

@@ -1,7 +1,4 @@
-Get Updates from Nick:
-Service Above Self
-Support Nick’s fight to put Long Island Families First:
-A Safer Long Island and America
-Homeland Security: Border & ImmigrationLaw Enforcement & Public SafetyPeace Through Strength
-Fighting for Long Island
-Environment & Water QualityFederal Funding for Local ProjectsHonoring Service & Sacrifice
+0 Skip to Content Home Meet Nick Issues Get Involved Endorsements Photos CONTRIBUTE Open Menu Close Menu Home Meet Nick Issues Get Involved Endorsements Photos CONTRIBUTE Open Menu Close Menu Home Meet Nick Issues Get Involved Endorsements Photos CONTRIBUTE Get Updates from Nick: Service Above Self Support Nick’s fight to put Long Island Families First: Donate $25 Donate $50 Donate $100 Navy Veteran, Family Man, Public Servant: Putting Long Island First.
+Meet Nick A Safer Long Island and America Homeland Security: Border & Immigration Law Enforcement & Public Safety Peace Through Strength A More Affordable, Prosperous Life Economy, Affordability & Tax Cuts Health Care Accessibility Fighting Fraud, Waste & Abuse Freedom vs.
+Socialism Fighting for Long Island Environment & Water Quality Federal Funding for Local Projects Honoring Service & Sacrifice An Independent Voice State and Local Tax (SALT) Relief Standing Up for the American Worker Making Washington Work for Long Island Get Updates Directly from Nick: LALOTA FOR CONGRESS | PO BOX 5744 | HAUPPAUGE, NY 11788 USE OF MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF WAR.
+Privacy Policy PAID FOR BY LALOTA FOR CONGRESS

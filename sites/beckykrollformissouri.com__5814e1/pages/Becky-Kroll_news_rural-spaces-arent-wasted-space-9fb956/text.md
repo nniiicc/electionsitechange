@@ -1,4 +1,4 @@
-I've been talking a lot about data centers lately, and one question keeps coming up: why are they going after farmland?
+About Becky Issues Get Involved Events Updates Donate Now Home About Becky Issues Get Involved Events Updates Donate Now August 4, 2026 Rural Spaces Aren't Wasted Space I've been talking a lot about data centers lately, and one question keeps coming up: why are they going after farmland?
 The answer isn't that complicated.
 Farmland is already cleared.
 There are fewer neighbors.
@@ -30,3 +30,4 @@ It needs jobs and opportunities.
 But needing investment doesn't mean we have to take whatever we're offered.
 Rural spaces aren't wasted space.
 They already have value.
+Support Becky Kroll’s Campaign for Missouri Donate Now Becky Kroll For Missouri 1603 Kroll Road, Lohman, Mo 65053 tel:573-690-3431 | becky@beckykrollformissouri.com Melba Price, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

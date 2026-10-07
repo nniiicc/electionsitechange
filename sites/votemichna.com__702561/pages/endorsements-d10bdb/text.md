@@ -1,19 +1,4 @@
-top of page
-Mike Michna for TX House District 134
-Firefighter Veteran Neighbor
-Ready to Serve TX House District 134
-Endorsements
-Houston Professional Fire Fighter Association
-Local 341
-Houston Police Officers Union
-United Republicans
-Of Harris County
-Cecil Bell Jr.
-TX House of Representatives District 3
-Allen Fletcher
-Former TX House of Representatives District 130
-Debbie Riddle
-Former TX House of Representatives District 150
-Braden Wallis
-Milam County Precent 318 chair
-bottom of page
+top of page ​Mike Michna for TX House District 134 Firefighter Veteran Neighbor Ready to Serve TX House District 134 Home Donate Welcome Endorsements About Instagram More Use tab to navigate through the menu items.
+Endorsements Houston Professional Fire Fighter Association Local 341 Houston Police Officers Union United Republicans Of Harris County Cecil Bell Jr.
+TX House of Representatives District 3 Allen Fletcher Former TX House of Representatives District 130 Debbie Riddle Former TX House of Representatives District 150 Braden Wallis Milam County Precent 318 chair Donate Stay Connected for Updates Yes, subscribe me to your newsletter. * First name Last name Email * Phone Long answer Subscribe Houston, TX, USA www.VoteMichna.com Mike.Michna134@gmail.com Political advertising paid for by Mike Michna Campaign, Delphine Michna, Treasurer.
+Privacy Policy Accessibility Statement Terms & Conditions ​ bottom of page

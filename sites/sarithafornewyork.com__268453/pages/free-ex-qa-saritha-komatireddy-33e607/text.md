@@ -1,8 +1,7 @@
-The Harvard-educated daughter of Indian immigrants is running for New York attorney general against Trump nemesis Letitia James.
-Wall Street Journal
-By Tunku Varadarajan
-Sept. 8, 2026
-New York hasn’t elected a Republican as attorney general since 1995, when Dennis Vacco was voted in as the state’s chief legal officer.
+Skip to content HOME ABOUT IN THE NEWS In the News Press Releases Statements Speeches and Editorials Coalitions African Americans for Saritha Asians for Saritha Dads for Saritha Democrats for Saritha Desis for Saritha Jewish New Yorkers for Saritha Latinos for Saritha Law Enforcement for Saritha Moms for Saritha CONTACT VOLUNTEER CONTRIBUTION FORM HOME ABOUT IN THE NEWS In the News Press Releases Statements Speeches and Editorials Coalitions African Americans for Saritha Asians for Saritha Dads for Saritha Democrats for Saritha Desis for Saritha Jewish New Yorkers for Saritha Latinos for Saritha Law Enforcement for Saritha Moms for Saritha CONTACT VOLUNTEER CONTRIBUTION FORM © # Saritha for New York.
+DONATE SHOP Free Ex Q&A: Saritha Komatireddy The Harvard-educated daughter of Indian immigrants is running for New York attorney general against Trump nemesis Letitia James.
+Wall Street Journal By Tunku Varadarajan Sept.
+8, 2026 New York hasn’t elected a Republican as attorney general since 1995, when Dennis Vacco was voted in as the state’s chief legal officer.
 Former federal prosecutor Saritha Komatireddy, 41, is determined to bring her party back in from the wilderness in November.
 Her opponent, Letitia “Tish” James, 67, is the fifth consecutive Democrat in the job, now running for a third term.
 The state’s demographics favor Ms.
@@ -32,7 +31,7 @@ Past attorneys general, Republican and Democrat, have used their powers to prose
 The head of the Organized Crime Task Force is appointed to prosecute organized crime.
 What does that mean?
 If you actually read the law, it says any crime that crosses a county line.
-In New York City, that’s every crime.
+In New York City , that’s every crime.
 That’s subway crime, car theft, shoplifting and many hate crimes.
 The Task Force is just one jurisdictional grant.
 There are other parts of the executive law that talk about how the AG can prosecute any crime that a DA can prosecute, under different circumstances.
@@ -105,7 +104,7 @@ Find the warning signs, intervene.
 For innocent people, it prevents them from getting hurt.
 For the people who are about to commit the crime, it prevents them from doing something irreversible.
 It gives them an opportunity to get on the right path.
-New York’s “bail reform” has been a disaster.
+New York’s “bail reform” has been a disaster .
 I’ve spoken with public defenders and probation officers.
 They tell me bail reform is actually bad for their clients.
 It used to be that when someone came in, they had a chance to get them on the right path.
@@ -212,7 +211,7 @@ We freeze that money and use it to fund residential treatment for every New York
 As a state, when we’ve gotten $3 billion in a “lottery,” we should use it to make a generational change that will improve the lives of New Yorkers.
 That’s what I’ll do.
 There’s no one right now in state government who’s even thinking that way.
-I call my approach “Law and order / Love and order.” It really is about making sure we take care of New Yorkers.
+I call my approach “ Law and order / Love and order.” It really is about making sure we take care of New Yorkers.
 That’s not even on the AG’s radar.
 Letitia James has had two terms in office.
 The only reason she gets to run again is because we don’t have term limits in New York.
@@ -254,7 +253,8 @@ Tish James has never prosecuted a hate crime in her seven years.
 Not once, even though the AG’s office has special jurisdiction to prosecute such crimes.
 Are you going to have pre-election debates with Ms.
 James?
-We have a debate scheduled for Oct. 8.
+We have a debate scheduled for Oct.
+8.
 I challenged her to a series of debates in every major city in New York.
 She has accepted only one.
 Because state law requires her to accept one.
@@ -281,4 +281,4 @@ Give it a shot.
 I wasn’t running against her.
 Mr.
 Varadarajan, a Journal contributor, is a fellow at the American Enterprise Institute and at NYU Law School’s Classical Liberal Institute.
-###
+### Category In the news Top Hits Post navigation Previous post Saritha Komatireddy on Restored Victim Services Funding: “A Start, Not A Solution” Post navigation Next post New York Hasn’t Faced a Threat Like This Since 9/11 Recent Posts Bob Holden and Marty Dolan Endorse Saritha Komatireddy for New York Attorney General Saritha Komatireddy Issues Statement on Mamdani’s Antisemitism Plan: “Funding Welcome, But Someone Has To Prosecute.” AG Candidate Saritha Komatireddy Calls for Accountability as Investigation of Rochester’s Officer of the Year Drags On Saritha Komatireddy’s Statement on Endorsing Safe Buffer Zones Saritha Komatireddy: An Open Letter to New York’s Hospital Workers Archives October 2026 September 2026 August 2026 July 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 March 2025 February 2025 October 2024 February 2023 March 2021 September 2019 November 2017 September 2017 July 2015 Categories Drug Cartels Fraud In the news Press Releases Speeches and Editorials Statements Terrorism Top Hits Uncategorized PO BOX 286199 New York, NY 10128 Paid for by Saritha for New York © # Saritha for New York.

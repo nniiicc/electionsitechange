@@ -1,36 +1,182 @@
 [
-"https://bluespringsdems.com/",
-"https://bsky.app/profile/herreraformissouri.bsky.social",
-"https://cookiedatabase.org/tcf/purposes",
-"https://facebook.com/profile.php?id=61576755631122",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20261021T183000%2F20261021T200000&text=Blue+Springs+Democrats+Club+Meeting&details=Join+fellow+Democrats+for+the+Blue+Springs+Democrats+club+meeting.+All+are+welcome%2C+whether+you%27re+a+longtime+member+or+just+getting+involved.+Come+connect+with+your+community+and+learn+how+you+can+support+Democratic+candidates+in+your+area.+%F0%9F%87%BA%F0%9F%87%B8%F0%9F%92%99+%23MO04&location=The+Table%2C+3609+SW+State+Rte+7%2C+Blue+Springs%2C+MO%2C+64014%2C+United+States&trp=false&ctz=America%2FChicago&sprop=website%3Ahttps%3A%2F%2Fjordanjherrera.com",
-"https://instagram.com/jordanherreraforcongress",
-"https://jordanjherrera.com/",
-"https://jordanjherrera.com/about",
-"https://jordanjherrera.com/contact",
-"https://jordanjherrera.com/event/bates-county-democrats-club-meeting-2",
-"https://jordanjherrera.com/event/benton-county-democratic-party-meeting-2",
-"https://jordanjherrera.com/events",
-"https://jordanjherrera.com/home",
-"https://jordanjherrera.com/issues",
-"https://jordanjherrera.com/message-from-the-candidate",
-"https://jordanjherrera.com/privacy-statement-us",
-"https://jordanjherrera.com/terms-and-conditions",
-"https://jordanjherrera.com/volunteer",
-"https://jordanjherrera.com/vote",
-"https://linkedin.com/in/jordan-herrera-5a819a207",
-"https://maps.google.com/maps?f=q&hl=en&q=3609+SW+State+Rte+7+Blue+Springs+MO+64014+United+States",
-"https://nerotechsolutions.com/",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-10-21T18%3A30%3A00-05%3A00&enddt=2026-10-21T20%3A00%3A00-05%3A00&location=The+Table%2C+3609+SW+State+Rte+7%2C+Blue+Springs%2C+MO%2C+64014%2C+United+States&subject=Blue+Springs+Democrats+Club+Meeting&body=Join+fellow+Democrats+for+the+Blue+Springs+Democrats+club+meeting.+All+are+welcome%2C+whether+you%27re+a+longtime+member+or+just+getting+involved.+Come+connect+with+your+community+and+learn+how+you+can+support+Democratic+candidates+in+your+area.+%F0%9F%87%BA%F0%9F%87%B8%F0%9F%92%99+%23MO04",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-10-21T18%3A30%3A00-05%3A00&enddt=2026-10-21T20%3A00%3A00-05%3A00&location=The+Table%2C+3609+SW+State+Rte+7%2C+Blue+Springs%2C+MO%2C+64014%2C+United+States&subject=Blue+Springs+Democrats+Club+Meeting&body=Join+fellow+Democrats+for+the+Blue+Springs+Democrats+club+meeting.+All+are+welcome%2C+whether+you%27re+a+longtime+member+or+just+getting+involved.+Come+connect+with+your+community+and+learn+how+you+can+support+Democratic+candidates+in+your+area.+%F0%9F%87%BA%F0%9F%87%B8%F0%9F%92%99+%23MO04",
-"https://secure.actblue.com/donate/jordan-herrera-1",
-"https://secure.actblue.com/donate/jordan-herrera-1?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/jordan-herrera-1?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/jordan-herrera-1?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/jordan-herrera-1?amount=5&express_lane=true",
-"https://secure.actblue.com/donate/jordan-herrera-1?amount=50&express_lane=true",
-"https://store.jordanjherrera.com/",
-"https://thetablebluesprings.com/",
-"https://threads.com/@jordanherreraforcongress",
-"https://tiktok.com/@herreraformissouri?lang=en"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1?amount=100&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1?amount=25&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1?amount=250&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1?amount=5&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1?amount=50&express_lane=true"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=3609+SW+State+Rte+7+Blue+Springs+MO+64014+United+States"
+},
+{
+"text": "About",
+"href": "https://jordanjherrera.com/about"
+},
+{
+"text": "About",
+"href": "https://jordanjherrera.com/about/"
+},
+{
+"text": "Bates County Democrats Club Meeting »",
+"href": "https://jordanjherrera.com/event/bates-county-democrats-club-meeting-2/"
+},
+{
+"text": "Contact",
+"href": "https://jordanjherrera.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://jordanjherrera.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1"
+},
+{
+"text": "Events",
+"href": "https://jordanjherrera.com/events"
+},
+{
+"text": "Events",
+"href": "https://jordanjherrera.com/events/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20261021T183000%2F20261021T200000&text=Blue+Springs+Democrats+Club+Meeting&details=Join+fellow+Democrats+for+the+Blue+Springs+Democrats+club+meeting.+All+are+welcome%2C+whether+you%27re+a+longtime+member+or+just+getting+involved.+Come+connect+with+your+community+and+learn+how+you+can+support+Democratic+candidates+in+your+area.+%F0%9F%87%BA%F0%9F%87%B8%F0%9F%92%99+%23MO04&location=The+Table%2C+3609+SW+State+Rte+7%2C+Blue+Springs%2C+MO%2C+64014%2C+United+States&trp=false&ctz=America%2FChicago&sprop=website%3Ahttps%3A%2F%2Fjordanjherrera.com"
+},
+{
+"text": "Home",
+"href": "https://jordanjherrera.com/home"
+},
+{
+"text": "Issues",
+"href": "https://jordanjherrera.com/issues"
+},
+{
+"text": "Issues",
+"href": "https://jordanjherrera.com/issues/"
+},
+{
+"text": "Merch",
+"href": "https://store.jordanjherrera.com"
+},
+{
+"text": "Message from Jordan",
+"href": "https://jordanjherrera.com/message-from-the-candidate/"
+},
+{
+"text": "Message from the Candidate",
+"href": "https://jordanjherrera.com/message-from-the-candidate"
+},
+{
+"text": "Nerotech Solutions LLC",
+"href": "https://nerotechsolutions.com"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T18%3A30%3A00-05%3A00&enddt=%23T20%3A00%3A00-05%3A00&location=The+Table%2C+3609+SW+State+Rte+7%2C+Blue+Springs%2C+MO%2C+64014%2C+United+States&subject=Blue+Springs+Democrats+Club+Meeting&body=Join+fellow+Democrats+for+the+Blue+Springs+Democrats+club+meeting.+All+are+welcome%2C+whether+you%27re+a+longtime+member+or+just+getting+involved.+Come+connect+with+your+community+and+learn+how+you+can+support+Democratic+candidates+in+your+area.+%F0%9F%87%BA%F0%9F%87%B8%F0%9F%92%99+%23MO04"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T18%3A30%3A00-05%3A00&enddt=%23T20%3A00%3A00-05%3A00&location=The+Table%2C+3609+SW+State+Rte+7%2C+Blue+Springs%2C+MO%2C+64014%2C+United+States&subject=Blue+Springs+Democrats+Club+Meeting&body=Join+fellow+Democrats+for+the+Blue+Springs+Democrats+club+meeting.+All+are+welcome%2C+whether+you%27re+a+longtime+member+or+just+getting+involved.+Come+connect+with+your+community+and+learn+how+you+can+support+Democratic+candidates+in+your+area.+%F0%9F%87%BA%F0%9F%87%B8%F0%9F%92%99+%23MO04"
+},
+{
+"text": "Phone: +1 816-287-2326",
+"href": "tel:+18162872326"
+},
+{
+"text": "Privacy Statement",
+"href": "https://jordanjherrera.com/privacy-statement-us"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://jordanjherrera.com/terms-and-conditions"
+},
+{
+"text": "View Organizer Website",
+"href": "https://www.bluespringsdems.com"
+},
+{
+"text": "View Venue Website",
+"href": "https://www.thetablebluesprings.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://jordanjherrera.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://jordanjherrera.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://jordanjherrera.com/vote"
+},
+{
+"text": "Vote",
+"href": "https://jordanjherrera.com/vote/"
+},
+{
+"text": "[image: Jordan J Herrera]",
+"href": "https://jordanjherrera.com"
+},
+{
+"text": "[image]",
+"href": "https://jordanjherrera.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/herreraformissouri.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576755631122"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jordanherreraforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/jordan-herrera-5a819a207"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@jordanherreraforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@herreraformissouri?lang=en"
+},
+{
+"text": "iCalendar",
+"href": "webcal://jordanjherrera.com/event/blue-springs-democrats-club-meeting/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://jordanjherrera.com/events/"
+},
+{
+"text": "« Benton County Democratic Party Meeting",
+"href": "https://jordanjherrera.com/event/benton-county-democratic-party-meeting-2/"
+}
 ]

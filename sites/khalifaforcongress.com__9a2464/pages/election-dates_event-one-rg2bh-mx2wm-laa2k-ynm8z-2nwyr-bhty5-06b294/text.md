@@ -1,11 +1,4 @@
-Back to All Events
-Zyon Khalifa, candidate for Congress in South Carolina’s 2nd District, will be a featured speaker at We Are the People: An Educational Conversation with Politicians at Claflin University.
+Skip to Content Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact ( 0 ) Cart ( 0 ) Donate Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact ( 0 ) Cart ( 0 ) Donate Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact Donate Back to All Events We Are The People Friday, May 22, 2026 6:00 PM 7:00 PM Claflin University 400 Magnolia Street Orangeburg, SC, 29115 United States (map) Google Calendar ICS Zyon Khalifa, candidate for Congress in South Carolina’s 2nd District, will be a featured speaker at We Are the People: An Educational Conversation with Politicians at Claflin University.
 This forum brings together students, community members, and leaders to engage in meaningful dialogue on issues impacting our local, state, and national communities.
 Join Zyon as he shares his perspective and connects with the next generation of leaders in an evening focused on education, opportunity, and progress.
-Previous
-Previous
-May 21
-ACDP Monthly Meeting
-Next
-Next
-May 23
+Previous Previous May 21 ACDP Monthly Meeting Next Next May 23 Meet and Greet with Zyon Khalifa (Copy) Meet Zyon Khalifa Platform Volunteer Privacy Policy

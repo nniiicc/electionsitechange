@@ -1,33 +1,158 @@
 [
-"https://facebook.com/SarahEMcBrideDE",
-"https://forms.gle/3uW9KcLkvCkEGKbCA",
-"https://instagram.com/sarahemcbride?hl=en",
-"https://middleseat.co/",
-"https://sarahmcbride.com/",
-"https://sarahmcbride.com/about",
-"https://sarahmcbride.com/category/press-release",
-"https://sarahmcbride.com/contact",
-"https://sarahmcbride.com/endorsements",
-"https://sarahmcbride.com/news",
-"https://sarahmcbride.com/priorities",
-"https://sarahmcbride.com/priority/building-a-working-families-economy",
-"https://sarahmcbride.com/priority/climate-change-sustainability",
-"https://sarahmcbride.com/priority/criminal-justice-reform",
-"https://sarahmcbride.com/priority/gun-violence",
-"https://sarahmcbride.com/priority/modern-economy",
-"https://sarahmcbride.com/priority/protect-and-expand-access-to-voting",
-"https://sarahmcbride.com/priority/protect-reproductive-health-care",
-"https://sarahmcbride.com/priority/universal-health-care-expansion",
-"https://sarahmcbride.com/priority/workers-rights-strong-unions",
-"https://sarahmcbride.com/privacy-policy",
-"https://sarahmcbride.com/results",
-"https://secure.actblue.com/donate/mcb_web",
-"https://secure.actblue.com/donate/mcb_web?amount=10",
-"https://secure.actblue.com/donate/mcb_web?amount=100",
-"https://secure.actblue.com/donate/mcb_web?amount=25",
-"https://secure.actblue.com/donate/mcb_web?amount=250",
-"https://secure.actblue.com/donate/mcb_web?amount=500",
-"https://store.sarahmcbride.com/",
-"https://tiktok.com/@sarahemcbride",
-"https://twitter.com/SarahEMcBride"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/mcb_web?amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/mcb_web?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/mcb_web?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/mcb_web?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/mcb_web?amount=500"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/mcb_web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/mcb_web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/mcb_web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/mcb_web?amount=250"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/mcb_web?amount=500"
+},
+{
+"text": "Building a Working Families Economy",
+"href": "https://sarahmcbride.com/priority/building-a-working-families-economy/"
+},
+{
+"text": "Climate Change & Sustainability",
+"href": "https://sarahmcbride.com/priority/climate-change-sustainability/"
+},
+{
+"text": "Contact",
+"href": "https://sarahmcbride.com/contact/"
+},
+{
+"text": "Criminal Justice Reform",
+"href": "https://sarahmcbride.com/priority/criminal-justice-reform/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mcb_web"
+},
+{
+"text": "Endorsements",
+"href": "https://sarahmcbride.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SarahEMcBrideDE/"
+},
+{
+"text": "Gun Violence",
+"href": "https://sarahmcbride.com/priority/gun-violence/"
+},
+{
+"text": "Home",
+"href": "https://sarahmcbride.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/sarahemcbride/?hl=en"
+},
+{
+"text": "Meet Sarah",
+"href": "https://sarahmcbride.com/about/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Modern Economy",
+"href": "https://sarahmcbride.com/priority/modern-economy/"
+},
+{
+"text": "News",
+"href": "https://sarahmcbride.com/news/"
+},
+{
+"text": "Other amount",
+"href": "https://secure.actblue.com/donate/mcb_web"
+},
+{
+"text": "Press Release",
+"href": "https://sarahmcbride.com/category/press-release/"
+},
+{
+"text": "Priorities",
+"href": "https://sarahmcbride.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://sarahmcbride.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy and Terms",
+"href": "https://sarahmcbride.com/privacy-policy/"
+},
+{
+"text": "Protect Reproductive Health Care",
+"href": "https://sarahmcbride.com/priority/protect-reproductive-health-care/"
+},
+{
+"text": "Protect and Expand Access to Voting",
+"href": "https://sarahmcbride.com/priority/protect-and-expand-access-to-voting/"
+},
+{
+"text": "Results",
+"href": "https://sarahmcbride.com/results/"
+},
+{
+"text": "Sarah McBride for Congress [image: Sarah McBride for Congress]",
+"href": "https://sarahmcbride.com"
+},
+{
+"text": "Store",
+"href": "https://store.sarahmcbride.com/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@sarahemcbride"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/SarahEMcBride"
+},
+{
+"text": "Universal Health Care Expansion",
+"href": "https://sarahmcbride.com/priority/universal-health-care-expansion/"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/3uW9KcLkvCkEGKbCA"
+},
+{
+"text": "Workers’ Rights & Strong Unions",
+"href": "https://sarahmcbride.com/priority/workers-rights-strong-unions/"
+}
 ]

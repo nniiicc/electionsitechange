@@ -1,5 +1,18 @@
 [
-"https://facebook.com/profile.php?id=100057965414933",
-"https://georgebrownky.com/index.html",
-"https://twitter.com/GeorgeBrownKY77?ref_src=twsrc%5Etfw"
+{
+"text": "George Brown",
+"href": "https://www.facebook.com/profile.php?id=100057965414933"
+},
+{
+"text": "GeorgeBrownKY77@gmail.com",
+"href": "mailto:GeorgeBrownKY77@gmail.com"
+},
+{
+"text": "Tweets by GeorgeBrownKY77",
+"href": "https://twitter.com/GeorgeBrownKY77?ref_src=twsrc%5Etfw"
+},
+{
+"text": "[no text]",
+"href": "https://www.georgebrownky.com/index.html#carousel-example-generic"
+}
 ]

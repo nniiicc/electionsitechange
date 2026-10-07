@@ -1,7 +1,9 @@
 {
- "description": "Let\u2019s build something better together for PA-12.",
+ "description": "Let’s build something better together for PA-12.",
  "final_url": "https://jameshayesforpa.com/donate",
- "paid_for_by": null,
+ "fingerprint": "ec45d4f62143823295ff53b0d0a19e89056fca03",
+ "format": 3,
+ "paid_for_by": "",
  "title": "DONATE",
  "years_mentioned": []
 }

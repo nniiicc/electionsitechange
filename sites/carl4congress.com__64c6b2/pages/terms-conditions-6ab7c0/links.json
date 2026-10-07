@@ -1,13 +1,66 @@
 [
-"https://carl4congress.com/",
-"https://carl4congress.com/carls-blog",
-"https://carl4congress.com/privacy-policy",
-"https://carl4congress.com/terms-conditions",
-"https://carl4congress.com/volunteer",
-"https://facebook.com/carl4congress",
-"https://gulfcoastwebnet.com/",
-"https://secure.anedot.com/carlforcongress/donate",
-"https://twitter.com/carl4congressms?s=21&t=StHrQSfkgRiiXdAlo25iQQ",
-"https://wordpress.org/plugins/gdpr-cookie-compliance",
-"https://youtube.com/channel/UCMx-V2JtFUodfSO7DIus_Mg"
+{
+"text": "Carl4Congressms@gmail.com",
+"href": "mailto:Carl4Congressms@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/carlforcongress/donate"
+},
+{
+"text": "Farmed Fresh for MS",
+"href": "https://carl4congress.com/#farmed-fresh"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/carl4congressms?s=21&t=StHrQSfkgRiiXdAlo25iQQ"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/carl4congress"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/channel/UCMx-V2JtFUodfSO7DIus_Mg/"
+},
+{
+"text": "GulfCoastWebNet.com",
+"href": "https://www.gulfcoastwebnet.com"
+},
+{
+"text": "Home",
+"href": "https://carl4congress.com"
+},
+{
+"text": "Positions",
+"href": "https://carl4congress.com/carls-blog/"
+},
+{
+"text": "Privacy",
+"href": "https://carl4congress.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://carl4congress.com/privacy-policy/"
+},
+{
+"text": "Terms",
+"href": "https://carl4congress.com/terms-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://carl4congress.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://carl4congress.com"
+},
+{
+"text": "[image]",
+"href": "https://carl4congress.com/"
+},
+{
+"text": "privacy policy",
+"href": "https://carl4congress.com/privacy-policy/"
+}
 ]

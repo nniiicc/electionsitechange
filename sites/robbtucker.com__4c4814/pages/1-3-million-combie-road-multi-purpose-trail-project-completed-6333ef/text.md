@@ -1,8 +1,5 @@
-IN THE NEWS $1.3 Million Combie Road Multi-Purpose Trail Project Completed
-Nevada City, Calif. — County officials, school officials and community members celebrated the completion of the new $1.3 million Combie Road Multi-Purpose Trail on Friday.
+Skip to content Home About Platform Endorsements News and Events Gallery Contact DONATE IN THE NEWS $1.3 Million Combie Road Multi-Purpose Trail Project Completed Yuba Net | August 30, 2025 Nevada City, Calif. — County officials, school officials and community members celebrated the completion of the new $1.3 million Combie Road Multi-Purpose Trail on Friday.
 The paved, concrete trail stretches three-quarters of a mile from Higgins Road to West Hacienda Drive, providing safe, pedestrian-friendly access for residents of Lake of the Pines and neighboring school, Bear River High.
 It also connects to both the Higgins Village and Higgins Marketplace shopping centers.
 “As the supervisor for this district, I’m thrilled to celebrate the opening of this path,” said Supervisor Robb Tucker.
-“It’s an important investment in our residents’ well-being and I look forward to seeing it enjoyed for generations to come.”
-…
-View Original Publication: Yuba Net
+“It’s an important investment in our residents’ well-being and I look forward to seeing it enjoyed for generations to come.” … View Original Publication: Yuba Net TAKE ACTION DONATE Quickly & Securely Online JOIN ROBB Endorse | Volunteer | Yard Sign LATEST NEWS Fundraising Reception – October 8th Fundraising Reception – September 24th Fundraising Reception – August 20th Fundraising Reception – August 30th Robb Tucker Condemns Ami Bera’s Comments on the Rise of Socialism Fundraising Reception – July 17th All News DONATE JOIN ROBB Paid for by Robb Tucker for Congress Privacy Policy | Terms of Use Scroll To Top

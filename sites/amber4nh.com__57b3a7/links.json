@@ -1,11 +1,42 @@
 [
-"https://amber4nh.com/",
-"https://amber4nh.com/about",
-"https://amber4nh.com/cart",
-"https://amber4nh.com/contact",
-"https://amber4nh.com/new-page",
-"https://amber4nh.com/new-page-1",
-"https://amber4nh.com/policyissues",
-"https://facebook.com/amber4nh",
-"https://secure.actblue.com/donate/amber-schaefer-1"
+{
+"text": "0",
+"href": "https://www.amber4nh.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.amber4nh.com/about"
+},
+{
+"text": "Amber Schaefer for NH State Representative",
+"href": "https://www.amber4nh.com/"
+},
+{
+"text": "Campaign Donations",
+"href": "https://secure.actblue.com/donate/amber-schaefer-1"
+},
+{
+"text": "Contact",
+"href": "https://www.amber4nh.com/contact"
+},
+{
+"text": "Current Legislation",
+"href": "https://www.amber4nh.com/new-page-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/amber4nh"
+},
+{
+"text": "Facebook Feed",
+"href": "https://www.amber4nh.com/new-page"
+},
+{
+"text": "Learn more",
+"href": "https://www.amber4nh.com/about"
+},
+{
+"text": "Policy Issues",
+"href": "https://www.amber4nh.com/policyissues"
+}
 ]

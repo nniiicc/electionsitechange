@@ -1,9 +1,12 @@
 {
  "description": "In a race between George Hruza and Tracy Mccreery, George Hruza is named as a candidate who can flip Missouri State Senate Seat 24.",
  "final_url": "https://hruzaformissouri.com/george-is-featured-in-the-st-louis-dispatch/",
- "paid_for_by": null,
+ "fingerprint": "e906ec9959c597e25e9046950a22a58332694650",
+ "format": 3,
+ "paid_for_by": "",
  "title": "%%title%% %%sep%% %%sitename%%",
  "years_mentioned": [
-  "2014"
+  "2014",
+  "2023"
  ]
 }

@@ -1,6 +1,4 @@
-About
-Cindy Abrams
-State Representative Cindy Abrams is serving her third term in the Ohio House of Representatives.
+About Get Involved Donate About Get Involved Donate Scroll About Cindy Abrams State Representative Cindy Abrams is serving her third term in the Ohio House of Representatives.
 She represents the 29th Ohio House District, which encompasses western Hamilton County.
 Abrams currently serves as the Chairwoman of the House Public Safety Committee.
 Abrams is proud of her long record of public service, as she previously served as a Police Officer for the City of Cincinnati and as City Councilwoman for the City of Harrison before being appointed to the 29th district seat in 2019.
@@ -15,3 +13,4 @@ She served on the boards of the Hamilton County Emergency Management & Homeland 
 Active in the Hamilton County Republican Party, Abrams serves on the Hamilton County Judicial Screening Committee.
 Additionally, she established the Harrison Junior City Council Program.
 She has been married to her husband for over 20 years, and they reside in Harrison.
+About Cindy Abrams | Abrams for Ohio Privacy Policy Paid for by Abrams for Ohio

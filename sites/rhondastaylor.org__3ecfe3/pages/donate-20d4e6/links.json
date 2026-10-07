@@ -1,8 +1,26 @@
 [
-"https://rhondastaylor.org/",
-"https://rhondastaylor.org/donate",
-"https://rhondastaylor.org/get-involved",
-"https://rhondastaylor.org/meet-rhonda",
-"https://rhondastaylor.org/pledge",
-"https://secure.actblue.com/donate/committee-to-elect-rhonda-s--taylor-1"
+{
+"text": "Donate",
+"href": "https://www.rhondastaylor.org/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.rhondastaylor.org/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.rhondastaylor.org"
+},
+{
+"text": "Pledge",
+"href": "https://www.rhondastaylor.org/pledge"
+},
+{
+"text": "Rhonda",
+"href": "https://www.rhondastaylor.org/meet-rhonda"
+},
+{
+"text": "[image: Donation Banner.jpg]",
+"href": "https://secure.actblue.com/donate/committee-to-elect-rhonda-s--taylor-1"
+}
 ]

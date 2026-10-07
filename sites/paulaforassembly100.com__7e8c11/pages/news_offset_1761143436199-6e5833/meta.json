@@ -1,9 +1,12 @@
 {
  "description": "Read news articles published about Paula Elaine Kay, candidate for the 100 Assembly District in the State of New York.",
  "final_url": "https://paulaforassembly100.com/news?offset=1761143436199",
+ "fingerprint": "5062b7a9b5f6d0d6afd81522ec30305389cdad9d",
+ "format": 3,
  "paid_for_by": "Paid for by Paula for Assembly",
  "title": "News | Paula for Assembly",
  "years_mentioned": [
+  "1972",
   "2025",
   "2026"
  ]

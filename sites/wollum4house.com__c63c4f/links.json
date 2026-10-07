@@ -1,4 +1,10 @@
 [
-"https://wollum4house.com/",
-"https://wollum4house.com/?page_id=3"
+{
+"text": "Support the Campaign",
+"href": "https://wollum4house.com/#support"
+},
+{
+"text": "wollum4house@yahoo.com",
+"href": "mailto:wollum4house@yahoo.com"
+}
 ]

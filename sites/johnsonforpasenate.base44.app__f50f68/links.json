@@ -1,6 +1,18 @@
 [
-"https://johnsonforpasenate.base44.app/about",
-"https://johnsonforpasenate.base44.app/contact",
-"https://johnsonforpasenate.base44.app/get-involved",
-"https://johnsonforpasenate.base44.app/issues"
+{
+"text": "About",
+"href": "https://johnsonforpasenate.base44.app/about"
+},
+{
+"text": "Contact",
+"href": "https://johnsonforpasenate.base44.app/contact"
+},
+{
+"text": "Get Involved",
+"href": "https://johnsonforpasenate.base44.app/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://johnsonforpasenate.base44.app/issues"
+}
 ]

@@ -1,12 +1,62 @@
 [
-"https://friendsofjohnnyhorne.com/",
-"https://friendsofjohnnyhorne.com/blank-12",
-"https://friendsofjohnnyhorne.com/blog",
-"https://friendsofjohnnyhorne.com/event-details/community-town-hall-with-rep-johnny-horne",
-"https://friendsofjohnnyhorne.com/event-details/jazz-night-support-local-arts",
-"https://friendsofjohnnyhorne.com/event-details/veterans-appreciation-day-celebration",
-"https://friendsofjohnnyhorne.com/event-list",
-"https://friendsofjohnnyhorne.com/groups",
-"https://friendsofjohnnyhorne.com/my-groups",
-"https://friendsofjohnnyhorne.com/notifications"
+{
+"text": "Blog",
+"href": "https://www.friendsofjohnnyhorne.com/blog"
+},
+{
+"text": "Community Town Hall with Rep. Johnny Horne",
+"href": "https://www.friendsofjohnnyhorne.com/event-details/community-town-hall-with-rep-johnny-horne"
+},
+{
+"text": "Details",
+"href": "https://www.friendsofjohnnyhorne.com/event-details/community-town-hall-with-rep-johnny-horne"
+},
+{
+"text": "Details",
+"href": "https://www.friendsofjohnnyhorne.com/event-details/jazz-night-support-local-arts"
+},
+{
+"text": "Details",
+"href": "https://www.friendsofjohnnyhorne.com/event-details/veterans-appreciation-day-celebration"
+},
+{
+"text": "Events",
+"href": "https://www.friendsofjohnnyhorne.com/event-list"
+},
+{
+"text": "Groups",
+"href": "https://www.friendsofjohnnyhorne.com/groups"
+},
+{
+"text": "Home",
+"href": "https://www.friendsofjohnnyhorne.com"
+},
+{
+"text": "Jazz Night: Support Local Arts",
+"href": "https://www.friendsofjohnnyhorne.com/event-details/jazz-night-support-local-arts"
+},
+{
+"text": "Notifications",
+"href": "https://www.friendsofjohnnyhorne.com/notifications"
+},
+{
+"text": "Portfolio",
+"href": "https://www.friendsofjohnnyhorne.com/blank-12"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.friendsofjohnnyhorne.com/event-details/community-town-hall-with-rep-johnny-horne"
+},
+{
+"text": "Veterans Appreciation Day Celebration",
+"href": "https://www.friendsofjohnnyhorne.com/event-details/veterans-appreciation-day-celebration"
+},
+{
+"text": "Voter Info",
+"href": "https://www.friendsofjohnnyhorne.com/my-groups"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.friendsofjohnnyhorne.com"
+}
 ]

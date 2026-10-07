@@ -1,11 +1,42 @@
 [
-"https://cdn.prod.website-files.com/6949633fd62adcbf9ac500f8/6971bf99697eab401e72dbd3_Privacy%20Policy.pdf",
-"https://facebook.com/braxton.seifert",
-"https://instagram.com/braxton.seifert",
-"https://seifertforsenate.com/",
-"https://seifertforsenate.com/about",
-"https://seifertforsenate.com/contact",
-"https://seifertforsenate.com/donate",
-"https://seifertforsenate.com/issues",
-"https://tiktok.com/@braxton_seifert"
+{
+"text": "About",
+"href": "https://www.seifertforsenate.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.seifertforsenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.seifertforsenate.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.seifertforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.seifertforsenate.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://cdn.prod.website-files.com/6949633fd62adcbf9ac500f8/6971bf99697eab401e72dbd3_Privacy%20Policy.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/braxton.seifert"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/braxton.seifert/"
+},
+{
+"text": "[no text]",
+"href": "https://www.seifertforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@braxton_seifert"
+}
 ]

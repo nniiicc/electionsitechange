@@ -1,9 +1,9 @@
 {
  "description": "Learn more about Norman Sanderson, a candidate running for the North Carolina Senate seat. Find out his vision and plans for the state.",
  "final_url": "https://normansanderson.com/",
- "paid_for_by": null,
+ "fingerprint": "a9011375d5e4b7478b755d3bafd1cdc604a28efe",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Norman Sanderson | NC Senate Candidate",
- "years_mentioned": [
-  "2024"
- ]
+ "years_mentioned": []
 }

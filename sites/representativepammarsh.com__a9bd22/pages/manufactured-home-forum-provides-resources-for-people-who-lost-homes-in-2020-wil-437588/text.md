@@ -1,5 +1,5 @@
-Jefferson Public Radio | By Jane Vaughan
-A manufactured home in Medford barely survived the Almeda Fire, but it took some damage.
+Skip to content Tue.
+Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Manufactured home forum provides resources for people who lost homes in 2020 wildfires Jefferson Public Radio | By Jane Vaughan LISTEN HERE April Ehrlich / JPR News A manufactured home in Medford barely survived the Almeda Fire, but it took some damage.
 A variety of programs are being offered by the state and nonprofits to help those who lived in manufactured homes purchase or rebuild energy-efficient units.
 A year and a half ago, the Almeda fire destroyed about 2,300 residences in the Rogue Valley, including about 1,500 manufactured homes.
 While many single-family homeowners had insurance, that’s been less common for manufactured home owners, according to Southern Oregon Rep.
@@ -20,7 +20,8 @@ The manufactured home replacement program includes $10,000 to $16,000 in incenti
 An additional program from the Oregon Department of Energy will offer up to $12,500 in incentives for individuals who build energy efficient manufactured homes.
 ACCESS is helping connect residents with the appropriate programs.
 “What we’ve heard over and over again is an interest in coming back to manufactured home parks, but coming back in a way that’s affordable for people and recognizing that’s a big barrier,” Marsh said.
-“That’s exactly what we’re trying to address in these state programs.”
-Jane Vaughan is a reporter at JPR who previously worked as a producer at New Hampshire Public Radio and as a newspaper reporter in Maine.
+“That’s exactly what we’re trying to address in these state programs.” Jane Vaughan Jane Vaughan is a reporter at JPR who previously worked as a producer at New Hampshire Public Radio and as a newspaper reporter in Maine.
 She’s earning her Master’s in Journalism at the Medill School of Journalism at Northwestern University in Chicago.
 When she’s not reporting, she enjoys hiking, reading, and kickboxing.
+See stories by Jane Vaughan Post navigation Phoenix-Talent schools to regain money lost from fire Spotlight: Broadbandland DONATE TO PAM'S 2026 CAMPAIGN Follow Pam on Facebook REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 Proudly powered by WordPress | Theme: Newsup by Themeansar .
+ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements

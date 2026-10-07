@@ -1,7 +1,9 @@
 {
  "description": "Support the campaign through a donation!",
  "final_url": "https://sites.google.com/view/adams4assembly/donate",
- "paid_for_by": null,
+ "fingerprint": "fea56b73e10b84a00d95e84afd25b431bb260390",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Adams for Assembly - Donate",
  "years_mentioned": [
   "2026"

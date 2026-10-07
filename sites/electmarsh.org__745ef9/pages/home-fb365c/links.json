@@ -1,12 +1,50 @@
 [
-"http://google.com/url?q=http%3A%2F%2Fmigreenparty.org&sa=D&sntz=1&usg=AOvVaw06CX-ZxCpYQVxHQAIlua_y",
-"http://muckrack.com/douglas-marsh",
-"https://electmarsh.org/contact",
-"https://electmarsh.org/donate",
-"https://electmarsh.org/home",
-"https://electmarsh.org/media",
-"https://electmarsh.org/tax-returns",
-"https://migreenparty.org/",
-"https://mvic.sos.state.mi.us/",
-"https://tww.nyc/blog/2023/11/local-law-18-is-already-having-an-impact"
+{
+"text": "Contact",
+"href": "https://www.electmarsh.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.electmarsh.org/donate"
+},
+{
+"text": "Home",
+"href": "https://www.electmarsh.org/home"
+},
+{
+"text": "MARSH for MI",
+"href": "https://www.electmarsh.org/home"
+},
+{
+"text": "Media",
+"href": "https://www.electmarsh.org/media"
+},
+{
+"text": "Tax Returns",
+"href": "https://www.electmarsh.org/tax-returns"
+},
+{
+"text": "Vote",
+"href": "https://mvic.sos.state.mi.us"
+},
+{
+"text": "[image]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Fmigreenparty.org&sa=D&sntz=1&usg=AOvVaw06CX-ZxCpYQVxHQAIlua_y"
+},
+{
+"text": "[image]",
+"href": "https://www.electmarsh.org/media"
+},
+{
+"text": "community journalist",
+"href": "http://muckrack.com/douglas-marsh"
+},
+{
+"text": "migreenparty.org/",
+"href": "https://migreenparty.org/"
+},
+{
+"text": "regulated",
+"href": "https://www.tww.nyc/blog/2023/11/local-law-18-is-already-having-an-impact/"
+}
 ]

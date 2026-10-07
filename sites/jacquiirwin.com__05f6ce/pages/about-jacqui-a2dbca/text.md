@@ -1,3 +1,4 @@
+0 Skip to Content Home About About Jacqui Photo Gallery Endorsements District 26 Map Contact Us Donate Open Menu Close Menu Donate Home About About Jacqui Photo Gallery Endorsements District 26 Map Contact Us Open Menu Close Menu Home Folder: About Back About Jacqui Photo Gallery Endorsements District 26 Map Contact Us Donate About Jacqui Assemblymember Irwin and her dogs.
 Assemblymember Jacqui Irwin is a mother, engineer, and community leader with two decades of leadership in our community.
 Jacqui Irwin works across party lines to help create jobs, balance our local and state budgets, and she works to keep our communities safe.
 Jacqui Irwin was first elected in 2014 to represent California’s 44th Assembly District, which included the cities of Camarillo, Moorpark, Oxnard, Port Hueneme, Thousand Oaks, Westlake Village and the communities of Casa Conejo, Channel Islands Beach, El Rio, Lake Sherwood, Oak Park, and Santa Rosa Valley.
@@ -26,4 +27,16 @@ Irwin spearheaded efforts to collect personal protective equipment (PPE) for fro
 Irwin also brought together local governments, academics, private businesses, and non-profits to conduct a COVID-19 antibody testing study in Ventura County.
 Irwin worked with the group to acquire reliable and available serology tests to be used for the study.
 She also helped identify and secure locations that would be utilized as testing sites for the countywide study which offered free COVID-19 antibody testing to residents.
-The antibody testing study was developed to not only understand the prevalence of COVID-19 in Ventura County, but was also modeled to understand the prevalence in targeted groups including first responders, low-income households, and those experiencing homelessness
+The antibody testing study was developed to not only understand the prevalence of COVID-19 in Ventura County, but was also modeled to understand the prevalence in targeted groups including first responders, low-income households, and those experiencing homelessness Assemblymember Irwin and local youth athletes.
+Her career in public service began on the Thousand Oaks City Council, where she was first elected in 2004.
+Irwin served two terms as mayor of Thousand Oaks.
+On the City Council she was a strong advocate for the preservation of open space and responsible development, while working tirelessly to ensure that families had a safe community.
+Prior to her public service, Irwin worked as an engineer at Teledyne Systems and at Johns Hopkins University’s Applied Physics Lab.
+She has been honored as Assemblymember of the Year by TechNet, the Woman of the Year for the Greater Conejo Valley Chamber of Commerce, the Champion for College Opportunity and Student Success by the Campaign for College Opportunity, and received the California Bear Award for her service to the California National Guard.
+Assemblymember Irwin holds a Bachelor of Science in Systems Engineering from UC San Diego.
+While earning her degree Irwin was an All-American swimmer and competed in the national championships all four years.
+A proud mother of three young adults, Jacqui Irwin and her husband Jon have lived in Thousand Oaks for nearly 20 years.
+In addition to her work in the Assembly, Irwin has been appointed by the Assembly Speaker to serve on the Cradle to Career Data System Governing Board and previously held appointments on the Governor’s Military Council, the State Public Works Board, the Inter-Agency Council on Veterans, and the Interstate Compact on Educational Opportunity for Military Children.
+Assemblymember Jacqui Irwin has a record of putting our communities first to deliver real local results.
+Like you, Jacqui works and raises her family in this community.
+SIGN UP Paid for by Jacqui Irwin for Congress FEC ID C00933630 400 Capitol Mall, Suite 2400, Sacramento CA 95814 Privacy Policy Terms & Conditions

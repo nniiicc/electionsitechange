@@ -1,19 +1,70 @@
 [
-"https://drive.google.com/drive/folders/1gpei1Oj_1qHSLBlznsK3xPv1Jo3wqIA5?usp=sharing",
-"https://facebook.com/profile.php?id=61584696467365",
-"https://forms.gle/Djz59MnWnVk7eQQDA",
-"https://instagram.com/woodsonforhd42",
-"https://secure.actblue.com/donate/woodsonforhd42",
-"https://woodsonforcolorado.com/",
-"https://woodsonforcolorado.com/about",
-"https://woodsonforcolorado.com/accessibility-statement",
-"https://woodsonforcolorado.com/contact",
-"https://woodsonforcolorado.com/events-1",
-"https://woodsonforcolorado.com/general-clean",
-"https://woodsonforcolorado.com/get-involved",
-"https://woodsonforcolorado.com/privacy-policy",
-"https://woodsonforcolorado.com/team-4",
-"https://woodsonforcolorado.com/terms-and-conditions",
-"https://woodsonforcolorado.com/vision",
-"https://x.com/WoodsonSar57775"
+{
+"text": "About",
+"href": "https://www.woodsonforcolorado.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.woodsonforcolorado.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.woodsonforcolorado.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/woodsonforhd42"
+},
+{
+"text": "Endorsements",
+"href": "https://www.woodsonforcolorado.com/team-4"
+},
+{
+"text": "Events",
+"href": "https://www.woodsonforcolorado.com/events-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.woodsonforcolorado.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.woodsonforcolorado.com"
+},
+{
+"text": "In Community",
+"href": "https://www.woodsonforcolorado.com/general-clean"
+},
+{
+"text": "MEDIA KIT",
+"href": "https://drive.google.com/drive/folders/1gpei1Oj_1qHSLBlznsK3xPv1Jo3wqIA5?usp=sharing"
+},
+{
+"text": "Priorities",
+"href": "https://www.woodsonforcolorado.com/vision"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.woodsonforcolorado.com/privacy-policy"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://forms.gle/Djz59MnWnVk7eQQDA"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.woodsonforcolorado.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61584696467365"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/woodsonforhd42/"
+},
+{
+"text": "[image]",
+"href": "https://x.com/WoodsonSar57775"
+}
 ]

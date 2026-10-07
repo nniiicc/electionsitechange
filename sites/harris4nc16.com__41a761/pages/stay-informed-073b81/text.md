@@ -1,4 +1,5 @@
-Here's a curated collection of issues related to our political environment, processes, and current challenges.
+Help Share the Good News We're looking for Volunteers - click HERE to sign up!
+Home Quick Summary Find Out More Donations Link Subscribe About Current Events Contact Jim Stay Informed Press Q & A Photo Gallery More Home Quick Summary Find Out More Donations Link Subscribe About Current Events Contact Jim Stay Informed Press Q & A Photo Gallery Home Quick Summary Find Out More Donations Link Subscribe About Current Events Contact Jim Stay Informed Press Q & A Photo Gallery Stay Informed Here's a curated collection of issues related to our political environment, processes, and current challenges.
 Please click on the link to access the file referenced.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Josh Stein's Open Letter to the General Assembly regarding Budgetary Critical Needs_FY25-26 (pdf) Download NC Lack of Budget Impacts (pdf) Download NCDHHS Impact of Medicaid Cuts (pdf) Download How Much People Spend on Healthcare (pdf) Download USA Facts State of the Union in Numbers not Rhetoric (pdf) Download Does it Hurt to Think about Social Security? (pdf) Download Pender County Demographic Details per 2020 Census (pdf) Download North Carolina House of Representatives District Map (png) Download 2026 Pender County Precinct Consolidation Cross Reference (png) Download Copyright © # Harris for NC 16 - All Rights Reserved.
+PAID FOR BY HARRIS FOR NC 16 CAMPAIGN COMMITTEE Powered by

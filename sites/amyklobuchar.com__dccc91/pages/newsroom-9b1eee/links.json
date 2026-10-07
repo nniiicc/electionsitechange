@@ -1,31 +1,154 @@
 [
-"https://amyklobuchar.com/",
-"https://amyklobuchar.com/careers",
-"https://amyklobuchar.com/cdn-cgi/l/email-protection",
-"https://amyklobuchar.com/donate",
-"https://amyklobuchar.com/facts",
-"https://amyklobuchar.com/get-involved",
-"https://amyklobuchar.com/lawn-signs",
-"https://amyklobuchar.com/meet-amy",
-"https://amyklobuchar.com/meet-ben",
-"https://amyklobuchar.com/newsroom",
-"https://amyklobuchar.com/newsroom/amy-klobuchar-pushes-back-on-gop-fraud-attack-as-minnesota-governors-race-heats-up",
-"https://amyklobuchar.com/newsroom/childcare-plan-brainerd-dispatch",
-"https://amyklobuchar.com/newsroom/childcare-plan-lakeland-pbs",
-"https://amyklobuchar.com/newsroom/healthcare-340b-kttc",
-"https://amyklobuchar.com/newsroom/healthcare-plan-inforum",
-"https://amyklobuchar.com/newsroom/healthcare-workforce-kttc",
-"https://amyklobuchar.com/newsroom/page/2",
-"https://amyklobuchar.com/newsroom/page/3",
-"https://amyklobuchar.com/newsroom/rural-economy-inforum",
-"https://amyklobuchar.com/newsroom/steelworkers-endorse-mesabi-tribune",
-"https://amyklobuchar.com/newsroom/steelworkers-endorse-wdio",
-"https://amyklobuchar.com/newsroom/tourism-plan-kttc",
-"https://amyklobuchar.com/priorities",
-"https://amyklobuchar.com/privacy-policy",
-"https://facebook.com/amyklobuchar",
-"https://instagram.com/amyklobuchar",
-"https://store.amyklobuchar.com/",
-"https://twitter.com/amyklobuchar",
-"https://youtube.com/amyklobuchar"
+{
+"text": "2",
+"href": "https://www.amyklobuchar.com/newsroom/page/2/"
+},
+{
+"text": "3",
+"href": "https://www.amyklobuchar.com/newsroom/page/3/"
+},
+{
+"text": "Amy Klobuchar pushes back on GOP fraud attack as Minnesota governor’s race heats up",
+"href": "https://www.amyklobuchar.com/newsroom/amy-klobuchar-pushes-back-on-gop-fraud-attack-as-minnesota-governors-race-heats-up/"
+},
+{
+"text": "Careers",
+"href": "https://www.amyklobuchar.com/careers"
+},
+{
+"text": "Donate",
+"href": "https://www.amyklobuchar.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://www.amyklobuchar.com/donate"
+},
+{
+"text": "Expand Minnesota’s Rural and Agricultural Economy",
+"href": "https://www.amyklobuchar.com/priorities#rural-and-agricultural-economy"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/amyklobuchar"
+},
+{
+"text": "Get Involved",
+"href": "https://www.amyklobuchar.com/get-involved"
+},
+{
+"text": "Get the Facts",
+"href": "https://www.amyklobuchar.com/facts/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/amyklobuchar"
+},
+{
+"text": "Klobuchar Stops in Brainerd To Discuss Affordable Childcare Plan for MN",
+"href": "https://www.amyklobuchar.com/newsroom/childcare-plan-lakeland-pbs/"
+},
+{
+"text": "Klobuchar outlines childcare plan at Brainerd Family YMCA visit",
+"href": "https://www.amyklobuchar.com/newsroom/childcare-plan-brainerd-dispatch/"
+},
+{
+"text": "Klobuchar promotes tourism plan during Lanesboro stop",
+"href": "https://www.amyklobuchar.com/newsroom/tourism-plan-kttc/"
+},
+{
+"text": "Klobuchar touts healthcare as key campaign platform as November election draws closer",
+"href": "https://www.amyklobuchar.com/newsroom/healthcare-340b-kttc/"
+},
+{
+"text": "Klobuchar unveils healthcare workforce plan during Winona visit",
+"href": "https://www.amyklobuchar.com/newsroom/healthcare-workforce-kttc/"
+},
+{
+"text": "Lawn Signs",
+"href": "https://www.amyklobuchar.com/lawn-signs/"
+},
+{
+"text": "Lower Costs for Minnesotans",
+"href": "https://www.amyklobuchar.com/priorities#lower-costs-for-minnesotans"
+},
+{
+"text": "Make Government Accountable and Root out Fraud",
+"href": "https://www.amyklobuchar.com/priorities#make-government-accountable"
+},
+{
+"text": "Media Inquiries",
+"href": "mailto:info@amyklobuchar.com"
+},
+{
+"text": "Meet Amy",
+"href": "https://www.amyklobuchar.com/meet-amy"
+},
+{
+"text": "Meet Ben",
+"href": "https://www.amyklobuchar.com/meet-ben"
+},
+{
+"text": "Minnesota Steelworkers endorse Klobuchar for governor",
+"href": "https://www.amyklobuchar.com/newsroom/steelworkers-endorse-mesabi-tribune/"
+},
+{
+"text": "Newsroom",
+"href": "https://www.amyklobuchar.com/newsroom"
+},
+{
+"text": "Prepare Minnesota’s Workforce for the Future",
+"href": "https://www.amyklobuchar.com/priorities#prepare-minnesotas-workforce"
+},
+{
+"text": "Priorities",
+"href": "https://www.amyklobuchar.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.amyklobuchar.com/privacy-policy"
+},
+{
+"text": "Sen. Amy Klobuchar highlights healthcare plans",
+"href": "https://www.amyklobuchar.com/newsroom/healthcare-plan-inforum/"
+},
+{
+"text": "Store",
+"href": "https://store.amyklobuchar.com"
+},
+{
+"text": "Support Conservation and Outdoor Recreation",
+"href": "https://www.amyklobuchar.com/priorities#support-conservation-and-outdoor-recreation"
+},
+{
+"text": "U.S. Sen. Amy Klobuchar announces plan to grow rural Minnesota economy",
+"href": "https://www.amyklobuchar.com/newsroom/rural-economy-inforum/"
+},
+{
+"text": "United Steelworkers endorse Sen. Amy Klobuchar for governor",
+"href": "https://www.amyklobuchar.com/newsroom/steelworkers-endorse-wdio/"
+},
+{
+"text": "X (Twitter)",
+"href": "https://twitter.com/amyklobuchar"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.amyklobuchar.com/lawn-signs"
+},
+{
+"text": "YouTube",
+"href": "https://youtube.com/amyklobuchar"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@amyklobuchar.com"
+},
+{
+"text": "[image: Amy Klobuchar Logo (inverted)] [image: Klobuchar Logo (inverted)]",
+"href": "https://www.amyklobuchar.com/"
+},
+{
+"text": "→",
+"href": "https://www.amyklobuchar.com/newsroom/page/2/"
+}
 ]

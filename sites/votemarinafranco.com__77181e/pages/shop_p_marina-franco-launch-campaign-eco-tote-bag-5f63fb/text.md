@@ -1,19 +1,4 @@
-Image 1 of 4
-Image 2 of 4
-Image 3 of 4
-Image 4 of 4
-$23.00
+Skip to Content Open Menu Close Menu About Contact Shop ( 0 ) Cart ( 0 ) Donate Now Open Menu Close Menu ( 0 ) Cart ( 0 ) Donate Now About Contact Shop About Contact Shop Donate Now Shop › Marina Franco Launch Campaign - Eco Tote Bag Image 1 of 4 Image 2 of 4 Image 3 of 4 Image 4 of 4 Marina Franco Launch Campaign - Eco Tote Bag $23.00 Say goodbye to plastic, and bag your goodies in this organic cotton tote bag.
+There’s more than enough room for groceries, books, and anything in between. • 100% certified organic cotton 3/1 twill • Fabric weight: 8 oz/yd² (272 g/m²) • Dimensions: 16″ × 14 ½″ × 5″ (40.6 cm × 35.6 cm × 12.7 cm) • Weight limit: 30 lbs (13.6 kg) • 1″ (2.5 cm) wide dual straps, 24.5″ (62.2 cm) length • Open main compartment • Blank product sourced from India Color: Black Oyster Add To Cart Added!
 Say goodbye to plastic, and bag your goodies in this organic cotton tote bag.
-There’s more than enough room for groceries, books, and anything in between.
-• 100% certified organic cotton 3/1 twill
-• Fabric weight: 8 oz/yd² (272 g/m²)
-• Dimensions: 16″ × 14 ½″ × 5″ (40.6 cm × 35.6 cm × 12.7 cm)
-• Weight limit: 30 lbs (13.6 kg)
-• 1″ (2.5 cm) wide dual straps, 24.5″ (62.2 cm) length
-• Open main compartment
-• Blank product sourced from India
-• 100% certified organic cotton 3/1 twill
-• Fabric weight: 8 oz/yd² (272 g/m²)
-• Weight limit: 30 lbs (13.6 kg)
-• Open main compartment
-• Blank product sourced from India
+There’s more than enough room for groceries, books, and anything in between. • 100% certified organic cotton 3/1 twill • Fabric weight: 8 oz/yd² (272 g/m²) • Dimensions: 16″ × 14 ½″ × 5″ (40.6 cm × 35.6 cm × 12.7 cm) • Weight limit: 30 lbs (13.6 kg) • 1″ (2.5 cm) wide dual straps, 24.5″ (62.2 cm) length • Open main compartment • Blank product sourced from India PAID FOR FRIENDS FOR MARINA FRANCO COMMITTEE

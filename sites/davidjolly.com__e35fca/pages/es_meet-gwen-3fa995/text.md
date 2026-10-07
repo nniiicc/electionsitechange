@@ -1,12 +1,18 @@
-Conoce a Gwen.
+Skip to content Meet Gwen Get Involved Tienda EN | ES | HT Meet Gwen Get Involved Tienda Donar $5 $10 $20 $50 $100 $250 $500 Otro EN | ES | HT Conoce a Gwen.
 Ella no es solo una compañera en la boleta electoral.
 Ella es una aliada.
 Mucho antes de ser la compañera de David Jolly en esta boleta electoral, ella ya era una líder reconocida en Florida por el gran trabajo que ha desempeñado construyendo paso a paso un estilo personal de liderazgo eficaz y competente.
-Haz clic aquí para ver su presentación
-Habrá quienes traten de decirte quién es Gwen Graham.
+Haz clic aquí para ver su presentación Habrá quienes traten de decirte quién es Gwen Graham.
 Esta página te permite conocerla personalmente y saber más sobre ella, sin etiquetas ni las típicas frases hechas de las campañas políticas.
-La historia de Gwen
-Gwen Graham nació en Miami Lakes y creció en el seno de una familia dedicada al servicio público.
+La próxima Vicegobernadora de Florida Empieza aquí.
+Quién es Gwen, y la experiencia que aporta a esta fórmula.
+Competencia.
+Carácter.
+Confianza.
+El estándar al que se exige a sí misma, y lo que Florida puede esperar de él.
+Gwen Graham, orgullosa de servir junto a David Jolly El liderazgo no se trata del título.
+Se trata de estar presente cuando el momento lo pide.
+La historia de Gwen Gwen Graham nació en Miami Lakes y creció en el seno de una familia dedicada al servicio público.
 Ella se enorgullece de ser egresada de las escuelas públicas de Florida y de ser madre de tres hijos.
 Gwen comenzó su carrera en el ámbito de la educación.
 Fue presidenta de la Asociación de Padres y Maestros y del Concejo de Asesoría Escolar, y luego trabajó en el distrito escolar del condado de Leon, donde se dedicó a apoyar a los maestros y a los estudiantes.
@@ -17,4 +23,7 @@ Con gran orgullo, se sumó al congresista y legendario activista político John 
 Entre 2021 y 2025, Gwen se desempeñó como secretaria adjunta del Departamento de Educación de los Estados Unidos.
 Además, ella es licenciada de la Universidad de Carolina del Norte en Chapel Hill y tiene un doctorado en leyes de la American University.
 Gwen y su esposo Steve viven en Tallahassee.
-Gwen tiene su propio sitio de campaña en gwengrahamfl.com, donde cuenta su historia en sus propias palabras, comparte videos del camino e invita a los floridanos a acompañarla.
+Gwen tiene su propio sitio de campaña en gwengrahamfl.com , donde cuenta su historia en sus propias palabras, comparte videos del camino e invita a los floridanos a acompañarla.
+Sobre David Jolly · La postura de David · Videos · Comentarios · La contienda de 2026 Únete al movimiento PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
+Todos los derechos reservados.
+Construido con AVM

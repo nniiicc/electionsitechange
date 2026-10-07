@@ -1,21 +1,98 @@
 [
-"https://elections.ny.gov/NYSBOE/download/voting/AbsenteeBallot-English.pdf",
-"https://elections.ny.gov/NYSBOE/download/voting/AbsenteeBallot-Spanish.pdf",
-"https://elections.ny.gov/VotingAbsentee.html",
-"https://facebook.com/JamesSkoufis",
-"https://instagram.com/jamesskoufis",
-"https://ny.gov/services/register-vote",
-"https://orangecountygov.com/783/Board-of-Elections",
-"https://secure.actblue.com/donate/friends-of-james-skoufis-1",
-"https://secure.actblue.com/donate/james-skoufis",
-"https://skoufisforny.com/",
-"https://skoufisforny.com/about-james",
-"https://skoufisforny.com/contact",
-"https://skoufisforny.com/media",
-"https://skoufisforny.com/the-issues",
-"https://skoufisforny.com/topics",
-"https://skoufisforny.com/voting",
-"https://twitter.com/JamesSkoufis",
-"https://vote.org/am-i-registered-to-vote",
-"https://voterlookup.elections.ny.gov/"
+{
+"text": "ABOUT JAMES",
+"href": "https://skoufisforny.com/about-james"
+},
+{
+"text": "ABOUT JAMES",
+"href": "https://skoufisforny.com/about-james/"
+},
+{
+"text": "Are You Registered to Vote",
+"href": "https://www.vote.org/am-i-registered-to-vote/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/friends-of-james-skoufis-1"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/james-skoufis"
+},
+{
+"text": "English",
+"href": "https://www.elections.ny.gov/NYSBOE/download/voting/AbsenteeBallot-English.pdf"
+},
+{
+"text": "Español",
+"href": "https://www.elections.ny.gov/NYSBOE/download/voting/AbsenteeBallot-Spanish.pdf"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://skoufisforny.com/contact/"
+},
+{
+"text": "ISSUES",
+"href": "https://skoufisforny.com/the-issues/"
+},
+{
+"text": "ISSUES",
+"href": "https://skoufisforny.com/topics"
+},
+{
+"text": "JOIN US",
+"href": "https://skoufisforny.com/contact"
+},
+{
+"text": "Join Email List",
+"href": "https://skoufisforny.com/contact/#email"
+},
+{
+"text": "MEDIA",
+"href": "https://skoufisforny.com/media"
+},
+{
+"text": "New York Register to Vote",
+"href": "https://www.ny.gov/services/register-vote"
+},
+{
+"text": "Orange County Board of Elections Website",
+"href": "https://www.orangecountygov.com/783/Board-of-Elections"
+},
+{
+"text": "VOTE",
+"href": "https://skoufisforny.com/voting"
+},
+{
+"text": "VOTE",
+"href": "https://skoufisforny.com/voting/"
+},
+{
+"text": "[image: Logo] [image: Logo] [image: Logo] [image: Logo] [image: Logo]",
+"href": "https://skoufisforny.com/"
+},
+{
+"text": "[image] 845-397-7625",
+"href": "tel:845-397-7625"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JamesSkoufis"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JamesSkoufis"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jamesskoufis/"
+},
+{
+"text": "visit this page",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
+"text": "voting absentee",
+"href": "https://www.elections.ny.gov/VotingAbsentee.html"
+}
 ]

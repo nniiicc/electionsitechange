@@ -1,11 +1,46 @@
 [
-"https://afcguam.com/",
-"https://afcguam.com/about",
-"https://afcguam.com/author/afcadmin",
-"https://afcguam.com/category/press-releases",
-"https://afcguam.com/contact",
-"https://afcguam.com/events",
-"https://afcguam.com/platform",
-"https://afcguam.com/volunteer-sign-up",
-"https://afcguam.com/wp-content/uploads/2026/05/FOR-IMMEDIATE-RELEASE_Limtiaco-Formally-Enters-Congressional-Race_PR26-101.PRINT-FILE.pdf"
+{
+"text": "AFC Team",
+"href": "https://afcguam.com/author/afcadmin/"
+},
+{
+"text": "About",
+"href": "https://afcguam.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://afcguam.com/contact/"
+},
+{
+"text": "Download",
+"href": "https://afcguam.com/wp-content/uploads/2026/05/FOR-IMMEDIATE-RELEASE_Limtiaco-Formally-Enters-Congressional-Race_PR26-101.PRINT-FILE.pdf"
+},
+{
+"text": "Events",
+"href": "https://afcguam.com/events/"
+},
+{
+"text": "Home",
+"href": "https://afcguam.com/"
+},
+{
+"text": "Join the Campaign",
+"href": "https://afcguam.com/volunteer-sign-up/"
+},
+{
+"text": "Platform",
+"href": "https://afcguam.com/platform/"
+},
+{
+"text": "Press Releases",
+"href": "https://afcguam.com/category/press-releases/"
+},
+{
+"text": "[image: Alicia for Congress]",
+"href": "https://afcguam.com/"
+},
+{
+"text": "_FOR IMMEDIATE RELEASE_Limtiaco Formally Enters Congressional Race_PR26-101.PRINT FILE",
+"href": "https://afcguam.com/wp-content/uploads/2026/05/FOR-IMMEDIATE-RELEASE_Limtiaco-Formally-Enters-Congressional-Race_PR26-101.PRINT-FILE.pdf"
+}
 ]

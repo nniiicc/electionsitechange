@@ -1,15 +1,74 @@
 [
-"http://twitter.com/nily",
-"https://facebook.com/NilyDRozic",
-"https://nilyrozic.org/",
-"https://nilyrozic.org/district",
-"https://nilyrozic.org/endorsements",
-"https://nilyrozic.org/get-invloved",
-"https://nilyrozic.org/issues",
-"https://nilyrozic.org/media",
-"https://nilyrozic.org/product-page/support-nily-tote",
-"https://nilyrozic.org/product-page/t-shirt",
-"https://nilyrozic.org/shop",
-"https://nilyrozic.org/why-choose-us",
-"https://secure.actblue.com/donate/nily-rozic-1"
+{
+"text": "About",
+"href": "https://www.nilyrozic.org/why-choose-us"
+},
+{
+"text": "District",
+"href": "https://www.nilyrozic.org/district"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nily-rozic-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nilyrozic.org/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.nilyrozic.org/get-invloved"
+},
+{
+"text": "Home",
+"href": "https://www.nilyrozic.org"
+},
+{
+"text": "Issues",
+"href": "https://www.nilyrozic.org/issues"
+},
+{
+"text": "Media",
+"href": "https://www.nilyrozic.org/media"
+},
+{
+"text": "Merch",
+"href": "https://www.nilyrozic.org/shop"
+},
+{
+"text": "Team Nily T- ShirtPrice$25.00",
+"href": "https://www.nilyrozic.org/product-page/t-shirt"
+},
+{
+"text": "Team Nily TotePrice$10.00",
+"href": "https://www.nilyrozic.org/product-page/support-nily-tote"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/NilyDRozic/"
+},
+{
+"text": "[image: Twitter Social Icon]",
+"href": "http://www.twitter.com/nily"
+},
+{
+"text": "[image]",
+"href": "https://www.nilyrozic.org"
+},
+{
+"text": "[image][image]Quick View",
+"href": "https://www.nilyrozic.org/product-page/support-nily-tote"
+},
+{
+"text": "[image][image]Quick View",
+"href": "https://www.nilyrozic.org/product-page/t-shirt"
+},
+{
+"text": "[image][image][image]",
+"href": "mailto:RozicN@nyassembly.gov"
+},
+{
+"text": "[no text]",
+"href": "https://www.nilyrozic.org/shop"
+}
 ]

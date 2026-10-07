@@ -1,22 +1,90 @@
 [
-"https://facebook.com/marisaforwv",
-"https://herald-dispatch.com/news/section-504-complaint-draws-statewide-concern-from-parents-caregivers/article_8c1acf14-f09d-11ef-99df-c785d1b7c066.html",
-"https://heyvictor.com/",
-"https://journalism.wvu.edu/wv-today/wvtoday-story/2025/10/07/parents-weigh-in-on-potential-changes-to-vaccine-exemptions-for-wv-children",
-"https://marisaforwv.com/",
-"https://marisaforwv.com/accessibility-statement",
-"https://marisaforwv.com/aclu-wv-msj-file-suit-to-stop-enforcement-of-gov-morriseys-vaccine-exemption-order",
-"https://marisaforwv.com/endorsements",
-"https://marisaforwv.com/events",
-"https://marisaforwv.com/issues",
-"https://marisaforwv.com/meet-candidate",
-"https://marisaforwv.com/news",
-"https://marisaforwv.com/terms-of-service",
-"https://marisaforwv.com/volunteer",
-"https://marisaforwv.com/voting-info",
-"https://nbcnews.com/health/health-news/west-virginia-school-vaccine-lawsuit-rfk-jr-morrisey-rcna229331",
-"https://secure.actblue.com/donate/marisa-jackson-1",
-"https://westvirginiawatch.com/2025/05/06/morriseys-vaccine-mandate-met-with-fractured-confused-response-as-state-law-remains-unchanged",
-"https://wvgazettemail.com/news/section-504-legal-filing-draws-statewide-concern-from-parents-caregivers-teachers/article_a4db9e16-f0b1-11ef-9ab1-bb4ab0f0d3aa.html",
-"https://youtube.com/watch?app=desktop&v=cMpa5bjP574"
+{
+"text": "Accessibility Statement",
+"href": "https://marisaforwv.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/marisa-jackson-1?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://marisaforwv.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://marisaforwv.com/events/"
+},
+{
+"text": "Home",
+"href": "https://marisaforwv.com/"
+},
+{
+"text": "Issues",
+"href": "https://marisaforwv.com/issues/"
+},
+{
+"text": "Meet Marisa",
+"href": "https://marisaforwv.com/meet-candidate/"
+},
+{
+"text": "News",
+"href": "https://marisaforwv.com/news/"
+},
+{
+"text": "News Article February 23, 2025 Section 504 Complaint Draws Statewide Concern from Parents, Caregivers Read Article",
+"href": "https://www.herald-dispatch.com/news/section-504-complaint-draws-statewide-concern-from-parents-caregivers/article_8c1acf14-f09d-11ef-99df-c785d1b7c066.html"
+},
+{
+"text": "News Article February 24, 2025 Section 504 Lawsuit Draws Statewide Concern from Parents, Caregivers, Teachers Read Article",
+"href": "https://www.wvgazettemail.com/news/section-504-legal-filing-draws-statewide-concern-from-parents-caregivers-teachers/article_a4db9e16-f0b1-11ef-9ab1-bb4ab0f0d3aa.html"
+},
+{
+"text": "News Article May 6, 2025 Morrisey’s vaccine mandate met with fractured, confused response as state law remains unchanged Read Article",
+"href": "https://westvirginiawatch.com/2025/05/06/morriseys-vaccine-mandate-met-with-fractured-confused-response-as-state-law-remains-unchanged/"
+},
+{
+"text": "News Article October 7, 2025 Parents weigh in on potential changes to vaccine requirements Read Article",
+"href": "https://journalism.wvu.edu/wv-today/wvtoday-story/2025/10/07/parents-weigh-in-on-potential-changes-to-vaccine-exemptions-for-wv-children"
+},
+{
+"text": "News Article September 16, 2025 How Lower Vaccination Rates Are Affecting High Risk Students Read Article",
+"href": "https://www.youtube.com/watch?app=desktop&v=cMpa5bjP574"
+},
+{
+"text": "News Article September 16, 2025 In West Virginia, a legal battle over school vaccine mandates reflects national tension Read Article",
+"href": "https://www.nbcnews.com/health/health-news/west-virginia-school-vaccine-lawsuit-rfk-jr-morrisey-rcna229331"
+},
+{
+"text": "Press Release May 23, 2025 ACLU-WV, MSJ File Suit to Stop Enforcement of Gov. Morrisey’s Vaccine Exemption Order Read Press Release",
+"href": "https://marisaforwv.com/aclu-wv-msj-file-suit-to-stop-enforcement-of-gov-morriseys-vaccine-exemption-order/"
+},
+{
+"text": "Terms of Service",
+"href": "https://marisaforwv.com/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://marisaforwv.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://marisaforwv.com/voting-info/"
+},
+{
+"text": "[image] [image]",
+"href": "https://marisaforwv.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/marisaforwv"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+}
 ]

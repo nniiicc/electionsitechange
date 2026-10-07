@@ -1,24 +1,19 @@
-On The Issues
-Palliative Education Solutions
-In Brief
-Enact Anti-Lobbying Rules for Teachers and Teacher Unions.
-Implement Parental School Choice, where PARENTS choose the school, not the zip code.
-End Teacher Tenure.
-Create Merit-Based Bonuses for Teachers.
-Limit School Tax Increases.
-End the Administrator Bloat.
-Use Periodic Zero-Based Budgeting.
-In Depth
-Education in Pennsylvania is in terrible shape.
+Home Events Press Releases Issues Education Taxes Elections Abortion Crime Gun Control Drugs Welfare LGBT Environment Constitution Shutdowns Flock Cameras Data Centers Responses to Facebook Questions Volunteer Donate Campaign Songs Socials   Select Page On The Issues Palliative Education Solutions In Brief 9 Enact Anti-Lobbying Rules for Teachers and Teacher Unions.
+9 Implement Parental School Choice, where PARENTS choose the school, not the zip code.
+9 End Teacher Tenure.
+9 Create Merit-Based Bonuses for Teachers.
+9 Limit School Tax Increases .
+9 End the Administrator Bloat.
+9 Use Periodic Zero-Based Budgeting.
+In Depth Education in Pennsylvania is in terrible shape.
 Appallingly terrible!
 More than half the kids cannot read at grade level, and two-thirds cannot meet the math requirements.
 Clearly and without a doubt, whatever we’re currently doing with education is not working.
 But what needs to be done to fix things?
 The best solution is to get Harrisburg’s politicians and bureaucrats completely out of the way by privatizing the schools.
-Read all about the privatization plan details here.
+Read all about the privatization plan details here .
 But if the political will cannot be mustered to save our children by privatizing the schools, there are several baby steps that can be taken legislatively to incrementally improve education.
-Highest priority first, they include:
-Enacting Anti-Lobbying Rules for Teachers and Teacher Unions.
+Highest priority first, they include: Enacting Anti-Lobbying Rules for Teachers and Teacher Unions.
 Statistics show that 95% of all teacher and teacher union political contributions go to Democrat politicians to lobby against reforms such as Charter Schools, homeschooling, vouchers, cyber schools, apprentice programs, and Parental School Choice, among many others.
 Federal law currently forbids lobbying by federal employees and unions; the same rules should be enacted in Pennsylvania.
 That means that teachers would not be allowed to lobby, tell individuals or outside organizations to contact their legislators, or provide support to lobbying campaigns by third parties such as trade associations or non-profit organizations.
@@ -46,10 +41,9 @@ Virtually all non-union jobs in Pennsylvania are generally considered “at-will
 Unfortunately, approximately 75% of experienced teachers are tenured, and such widespread tenure likely contributes to poor student performance.
 If tenure were working, student results would reflect its value.
 But they don’t.
-Replacing tenure with at-will contracts would reward excellence, improve student results, and parents would receive greater value for their tax dollars
-Merit-Based Bonuses for Teachers.
+Replacing tenure with at-will contracts would reward excellence, improve student results, and parents would receive greater value for their tax dollars Merit-Based Bonuses for Teachers .
 It’s a fact that some teachers are better than others, and they should be rewarded for their skill.
-Bonuses for teachers should be awarded based on how many of their students score in the top 50th percentile of a statewide standardized test.
+Bonuses for teachers should be awarded based on how many of their students score in the top 50 th percentile of a statewide standardized test.
 Another approach would be to reward a teacher for a close correlation between a student’s report card and their standardized test scores.
 Should a student get an A in a subject but fail the test, surely something is amiss.
 Conversely, should a student get an F in a subject, yet score highly in the test, again something is out of kilter.
@@ -73,5 +67,6 @@ By periodically resetting school budgets to zero, unnecessary or redundant spend
 Spending is tied more directly to strategic priorities, and promotes consistent, auditable data for analysis and reporting.
 Re-justifying each and every expense periodically is sure to uncover waste and reduce expenses.
 Keeping the same budgeting flywheel spinning would not.
-In summary, these band aids would marginally improve education in Pennsylvania, but the best solution remaining is to privatize the schools.
+In summary , these band aids would marginally improve education in Pennsylvania, but the best solution remaining is to privatize the schools .
 Given the lack of political will in Harrisburg, the best way to achieve any of these reforms—and apparently the ONLY way—is to vote Libertarian.
+Home Events Press Releases Issues Volunteer Donate Campaign Songs Socials Facebook X RSS Designed by Elegant Themes | Powered by WordPress

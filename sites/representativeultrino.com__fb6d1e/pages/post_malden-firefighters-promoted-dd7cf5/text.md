@@ -1,3 +1,5 @@
-Malden Firefighters Promoted
-This morning, I was honored to join Mayor Christenson, State Representative Paul Donato and State Representative Kate Lipper-Garabedian for the promotion and induction ceremony of Malden Fire’s Chief Bill Sullivan, alongside other officers and new firefighters in the Department.
+top of page Home Meet Steve Meet the Team Contact Steve Policy Legislative Wins Issues Funding Resources Newsroom More Use tab to navigate through the menu items.
+All Posts Press Releases Community Updates Grants & Other Resources Achievements Newsletters Events Wellness Wednesday Search Malden Firefighters Promoted Steven Ultrino Oct 8, 2020 1 min read This morning, I was honored to join Mayor Christenson, State Representative Paul Donato and State Representative Kate Lipper-Garabedian for the promotion and induction ceremony of Malden Fire’s Chief Bill Sullivan, alongside other officers and new firefighters in the Department.
 Congratulations to all for this recognition of your leadership and service to our community!
+Achievements Recent Posts See All State Representative Steven Ultrino Honored as Legislator of the Year by Providers’ Council The CROWN Act Signed into Law by Governor Baker Commemorating World AIDS Day Log In Sign Up Thanks for submitting!
+Tel: (617) 722-2877 Email: Steven.Ultrino@MAhouse.gov State House, Room 174, Boston, MA 02133 © # Paid for by The Committee To Elect Steve Ultrino bottom of page

@@ -1,6 +1,4 @@
-Memorial Day, 2026
-5/25/26
-Citizens!
+Skip to content Memorial Day, 2026 5/25/26 Citizens!
 Today is Memorial Day here in the US, a day set aside for honoring our nation’s war dead, a worthwhile and solemn occasion.
 Its roots date back to the period after the Civil War, when communities placed flowers on the graves of those who died in that war, though it did not become a federal holiday until 1971.
 There are probably few families in America who have not had someone go off to war, and while, statistically, most people come back from their war, some do not.
@@ -15,4 +13,6 @@ Please, do not thank a veteran or a current servicemember today.
 It is inappropriate, and we would resent it.
 Do, however, take a moment to remember those who did not come back and do so without fussing over whether or not you supported the wars they died in.
 Every one of them died for our country.
-Thank you for reading,
+Thank you for reading, Get on board today.
+It’s time to make a difference.
+Home Facebook Comments Box Gaylon Kent For Congress , Proudly powered by WordPress.

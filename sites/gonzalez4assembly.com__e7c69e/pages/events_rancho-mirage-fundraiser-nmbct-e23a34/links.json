@@ -1,24 +1,102 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Coachella+Fundraiser&dates=20261014T210000Z%2F20261014T233000Z&location=51270+Jackson+Street%2C+Coachella%2C+California%2C+92236%2C+United+States",
-"http://maps.google.com/?q=51270+Jackson+Street+Coachella%2C+California%2C+92236+United+States",
-"https://dropbox.com/scl/fo/wqr4xtv0o7c7u81x8ihtm/ACYg7LThSpMtm-m5R1iV4to?rlkey=b0cr4vub5kie2iqaosvgyyy9s&st=xw16wngm&dl=0",
-"https://efundraisingconnections.com/c/JeffGonzalezforAssembly2026",
-"https://efundraisingconnections.com/c/JeffGonzalezforAssembly2026/10142026Reception",
-"https://facebook.com/gonzalez4assembly",
-"https://gonzalez4assembly.com/",
-"https://gonzalez4assembly.com/about",
-"https://gonzalez4assembly.com/cart",
-"https://gonzalez4assembly.com/contact",
-"https://gonzalez4assembly.com/contact-1",
-"https://gonzalez4assembly.com/endorsements",
-"https://gonzalez4assembly.com/events",
-"https://gonzalez4assembly.com/events/rancho-mirage-fundraiser-g2w2y-kh5hs",
-"https://gonzalez4assembly.com/events/rancho-mirage-fundraiser-nmbct?format=ical",
-"https://gonzalez4assembly.com/issues",
-"https://gonzalez4assembly.com/media-1",
-"https://gonzalez4assembly.com/news",
-"https://gonzalez4assembly.com/privacy-policy",
-"https://gonzalez4assembly.com/yard-sign-request",
-"https://instagram.com/gonzalez4assembly",
-"https://twitter.com/Gonzalez4AD36"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=51270+jackson+street+coachella%2C+california%2C+92236+united+states"
+},
+{
+"text": "0",
+"href": "https://www.gonzalez4assembly.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.gonzalez4assembly.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.gonzalez4assembly.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.gonzalez4assembly.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://www.efundraisingconnections.com/c/JeffGonzalezforAssembly2026"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.gonzalez4assembly.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.gonzalez4assembly.com/events"
+},
+{
+"text": "Folder: MEDIA",
+"href": "https://www.gonzalez4assembly.com/media-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coachella+Fundraiser&dates=20261014T210000Z%2F20261014T233000Z&location=51270+Jackson+Street%2C+Coachella%2C+California%2C+92236%2C+United+States"
+},
+{
+"text": "HOST AN EVENT",
+"href": "https://www.gonzalez4assembly.com/contact"
+},
+{
+"text": "ICS",
+"href": "https://www.gonzalez4assembly.com/events/rancho-mirage-fundraiser-nmbct?format=ical"
+},
+{
+"text": "ISSUES",
+"href": "https://www.gonzalez4assembly.com/issues"
+},
+{
+"text": "MAKE A SECURE DONATION",
+"href": "https://www.efundraisingconnections.com/c/JeffGonzalezforAssembly2026"
+},
+{
+"text": "NEWS",
+"href": "https://www.gonzalez4assembly.com/news"
+},
+{
+"text": "PHOTOS",
+"href": "https://www.dropbox.com/scl/fo/wqr4xtv0o7c7u81x8ihtm/ACYg7LThSpMtm-m5R1iV4to?rlkey=b0cr4vub5kie2iqaosvgyyy9s&st=xw16wngm&dl=0"
+},
+{
+"text": "PRIVACY POLICY & TERMS AND CONDITIONS",
+"href": "https://www.gonzalez4assembly.com/privacy-policy"
+},
+{
+"text": "Previous Previous September 18 Imperial County Campaign Kickoff",
+"href": "https://www.gonzalez4assembly.com/events/rancho-mirage-fundraiser-g2w2y-kh5hs"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.gonzalez4assembly.com/contact-1"
+},
+{
+"text": "YARD SIGN REQUEST",
+"href": "https://www.gonzalez4assembly.com/yard-sign-request"
+},
+{
+"text": "[image: Jeff Gonzalez for Assembly]",
+"href": "https://www.gonzalez4assembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Gonzalez4AD36"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/gonzalez4assembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/gonzalez4assembly"
+},
+{
+"text": "https://www.efundraisingconnections.com/c/JeffGonzalezforAssembly2026/10142026Reception",
+"href": "https://www.efundraisingconnections.com/c/JeffGonzalezforAssembly2026/10142026Reception"
+}
 ]

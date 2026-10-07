@@ -1,4 +1,4 @@
-Roman Kozak is the grandson of four World War II Nazi labor camp survivors.
+HOME ABOUT DONATE ISSUES ENDORSEMENTS VOLUNTEER VOTE HOME ABOUT DONATE ISSUES ENDORSEMENTS VOLUNTEER VOTE More HOME ABOUT DONATE ISSUES ENDORSEMENTS VOLUNTEER VOTE HOME ABOUT DONATE ISSUES ENDORSEMENTS VOLUNTEER VOTE meet roman kozak Roman Kozak is the grandson of four World War II Nazi labor camp survivors.
 Born and raised in Western Pennsylvania, his family history and upbringing ingrained in him the values that made the United States the greatest country in the world.
 He was taught to value and cherish the freedom and incredible opportunity this country gave his family.
 At the heart of these values are his Christian faith and conservative principles of government.
@@ -17,5 +17,4 @@ Roman is a graduate of Geneva College and has served as a youth soccer, baseball
 He currently ranks as a blue belt in Brazilian Jiu-Jitsu.
 Roman, his wife Lauren (Pasquale) own two small businesses.
 They and their four sons live and attend church in the Beaver Falls area.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+KozakForPA Copyright © # - Paid for by Citizens For Kozak - All Rights Reserved Powered by

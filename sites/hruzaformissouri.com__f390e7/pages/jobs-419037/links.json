@@ -1,12 +1,46 @@
 [
-"https://hruzaformissouri.com/",
-"https://hruzaformissouri.com/about-george",
-"https://hruzaformissouri.com/author/george",
-"https://hruzaformissouri.com/campaign-updates-2",
-"https://hruzaformissouri.com/category/hiring",
-"https://hruzaformissouri.com/contact",
-"https://hruzaformissouri.com/get-involved",
-"https://hruzaformissouri.com/labor-day",
-"https://hruzaformissouri.com/the-issues",
-"https://secure.winred.com/hruza-for-missouri/donate-today-copy-9f6af015b37ffe1f"
+{
+"text": "About George",
+"href": "https://hruzaformissouri.com/about-george/"
+},
+{
+"text": "Contact",
+"href": "https://hruzaformissouri.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/hruza-for-missouri/donate-today-copy-9f6af015b37ffe1f"
+},
+{
+"text": "Get Involved",
+"href": "https://hruzaformissouri.com/get-involved/"
+},
+{
+"text": "Hiring",
+"href": "https://hruzaformissouri.com/category/hiring/"
+},
+{
+"text": "Home",
+"href": "https://hruzaformissouri.com/"
+},
+{
+"text": "Next Post →",
+"href": "https://hruzaformissouri.com/labor-day/"
+},
+{
+"text": "The Issues",
+"href": "https://hruzaformissouri.com/the-issues/"
+},
+{
+"text": "[image: George Hruza for Missouri]",
+"href": "https://hruzaformissouri.com/"
+},
+{
+"text": "george",
+"href": "https://hruzaformissouri.com/author/george/"
+},
+{
+"text": "← Previous Post",
+"href": "https://hruzaformissouri.com/campaign-updates-2/"
+}
 ]

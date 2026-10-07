@@ -1,11 +1,4 @@
-Minnesota is broken — partisan bickering, extreme agendas, dysfunctional government.
+Home Meet Shannon Endorsements Photos Issues Join the Team Donate × Home Meet Shannon Endorsements Photos Issues Join the Team Donate Donate Minnesota is broken — partisan bickering, extreme agendas, dysfunctional government.
 I’m running for State Senate to bring back civility and common sense.
 As a business owner and former Minnetrista City Council member, you can count on me to hold government accountable and put people over politics.
-Shannon Bruce
-Let’s Fix Minnesota
-Common Sense Solutions
-Require Government Accountability
-Improve our
-Schools
-Safe Cities
-Plug in — Stay Up to Date
+Shannon Bruce Let’s Fix Minnesota Common Sense Solutions Require Government Accountability Improve our Schools Safe Cities Plug in — Stay Up to Date First Name (Required) Last Name (Required) Email Address (Required) → Δ Meet Shannon Shannon On The Issues Join #TeamShannon Donate Prepared & paid for by Committee to Elect Shannon Bruce, PO Box 6, Mound, MN 55364 Privacy Policy

@@ -1,6 +1,26 @@
 [
-"https://le.utah.gov/GIS/findDistrict.jsp",
-"https://strong4utah.com/",
-"https://strong4utah.com/cart",
-"https://strong4utah.com/contact"
+{
+"text": "(385) 275-5682",
+"href": "tel:3852755682"
+},
+{
+"text": "0",
+"href": "https://www.strong4utah.com/cart"
+},
+{
+"text": "Click Here",
+"href": "https://le.utah.gov/GIS/findDistrict.jsp"
+},
+{
+"text": "Contact",
+"href": "https://www.strong4utah.com/contact"
+},
+{
+"text": "[image: Mark Strong]",
+"href": "https://www.strong4utah.com/"
+},
+{
+"text": "mstrong@le.utah.gov",
+"href": "mailto:mstrong@le.utah.gov"
+}
 ]

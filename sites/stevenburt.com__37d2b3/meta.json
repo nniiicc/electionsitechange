@@ -1,7 +1,11 @@
 {
  "description": "Support Steven Burt's campaign for the U.S. House of Representatives in District 4. Join us today!",
  "final_url": "https://stevenburt.com/",
- "paid_for_by": "PAID FOR BY VOTE STEVEN BURT \u00a9 2025 stevenburt",
+ "fingerprint": "7fa62aaa5295027bc89ec9c4a93baed4fcd9c70e",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY VOTE STEVEN BURT © # stevenburt",
  "title": "Vote Steven Burt for Congress!",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

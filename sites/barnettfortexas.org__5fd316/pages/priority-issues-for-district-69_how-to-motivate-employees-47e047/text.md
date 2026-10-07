@@ -1,4 +1,10 @@
-Leilani Barnett believes every child deserves to learn in a school where safety is a given—not a privilege.
+For a Better Texas Home About Leilani - - - - - Join Us in Making Texas a Better Place to Live for All!
+Enjoy Our Upcoming Events!
+Priority Issues for District 69 Thank You for Your Endorsements!
+Contact For a Better Texas Home About Leilani - - - - - Join Us in Making Texas a Better Place to Live for All!
+Enjoy Our Upcoming Events!
+Priority Issues for District 69 Thank You for Your Endorsements!
+Contact Home Priority Issues for District 69 Safe Schools - Simple Solutionsto Create Safer Buildings Safe Schools - Simple Solutionsto Create Safer Buildings Leilani Barnett believes every child deserves to learn in a school where safety is a given—not a privilege.
 Creating safer buildings doesn’t require turning our schools into fortresses; it requires smart, practical, research-based solutions that protect students and teachers while preserving the warmth and openness of a learning environment.
 Simple upgrades can make a dramatic difference.
 The newest door lock stops, for example, allow teachers to secure a classroom in seconds without complicated systems or expensive renovations.
@@ -13,3 +19,4 @@ And, we cannot ignore the broader issue: building safety must go hand-in-hand wi
 That means expanding background checks, closing loopholes that allow dangerous individuals to obtain firearms, and supporting red-flag laws that empower families and law enforcement to act when someone poses a threat.
 These commonsense measures respect the Second Amendment while prioritizing the safety of our children.
 When we pair practical school upgrades with sensible gun policy, we create a holistic approach that keeps classrooms safe and communities strong.
+Public Schools -- The Heart of Texas Towns Clean, Safe, Abundant -- Water Solutions Make the Economy Work for Working People!

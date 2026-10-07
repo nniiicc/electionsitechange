@@ -1,23 +1,150 @@
 [
-"https://facebook.com/rahmanforga",
-"https://gwinnettcounty.com/web/gwinnett/departments/elections/absenteevoting-civilians/absenteevotingmail",
-"https://gwinnettcounty.com/web/gwinnett/departments/elections/electionschedule",
-"https://ikjweb.com/",
-"https://instagram.com/RahmanforGA",
-"https://mvp.sos.ga.gov/MVP/mvp.do",
-"https://rahmanforgeorgia.com/",
-"https://rahmanforgeorgia.com/contact-me",
-"https://rahmanforgeorgia.com/endorsements-2024",
-"https://rahmanforgeorgia.com/feature-in-atlanta-magazine",
-"https://rahmanforgeorgia.com/georgia-senator-sheikh-rahman-honors-president-jimmy-carter",
-"https://rahmanforgeorgia.com/gwinnett-chamber-georgia-indo-american-chamber-agree-to-work-together",
-"https://rahmanforgeorgia.com/issues",
-"https://rahmanforgeorgia.com/meet-sheikh",
-"https://rahmanforgeorgia.com/news-2",
-"https://rahmanforgeorgia.com/sheikh-rahman-wins-a-state-senate-seat",
-"https://rahmanforgeorgia.com/state-override-of-redistricting-maps-prompts-gwinnett-legislators-resolution",
-"https://rahmanforgeorgia.com/volunteer",
-"https://registertovote.sos.ga.gov/GAOLVR/welcome.do",
-"https://secure.actblue.com/donate/sheikh-rahman-2",
-"https://twitter.com/RahmanforGA"
+{
+"text": "Absentee Ballots",
+"href": "https://www.gwinnettcounty.com/web/gwinnett/departments/elections/absenteevoting-civilians/absenteevotingmail"
+},
+{
+"text": "Contact Me",
+"href": "https://rahmanforgeorgia.com/contact-me/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sheikh-rahman-2"
+},
+{
+"text": "Election Schedule",
+"href": "https://www.gwinnettcounty.com/web/gwinnett/departments/elections/electionschedule"
+},
+{
+"text": "Email Me",
+"href": "https://rahmanforgeorgia.com/contact-me/"
+},
+{
+"text": "Endorsements 2024",
+"href": "https://rahmanforgeorgia.com/endorsements-2024/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/rahmanforga"
+},
+{
+"text": "Feature in Atlanta Magazine",
+"href": "https://rahmanforgeorgia.com/feature-in-atlanta-magazine/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/RahmanforGA"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/rahmanforga"
+},
+{
+"text": "Georgia Senator Sheikh Rahman Honors President Jimmy Carter",
+"href": "https://rahmanforgeorgia.com/georgia-senator-sheikh-rahman-honors-president-jimmy-carter/"
+},
+{
+"text": "Gwinnett Chamber, Georgia Indo-American Chamber agree to work together",
+"href": "https://rahmanforgeorgia.com/gwinnett-chamber-georgia-indo-american-chamber-agree-to-work-together/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/RahmanforGA/"
+},
+{
+"text": "Issues",
+"href": "https://rahmanforgeorgia.com/issues/"
+},
+{
+"text": "Meet Sheikh",
+"href": "https://rahmanforgeorgia.com/meet-sheikh/"
+},
+{
+"text": "News",
+"href": "https://rahmanforgeorgia.com/news-2/"
+},
+{
+"text": "Register To Vote",
+"href": "https://registertovote.sos.ga.gov/GAOLVR/welcome.do#no-back-button"
+},
+{
+"text": "Sheikh Rahman wins a state Senate seat",
+"href": "https://rahmanforgeorgia.com/sheikh-rahman-wins-a-state-senate-seat/"
+},
+{
+"text": "Site design by IKJWeb",
+"href": "https://ikjweb.com"
+},
+{
+"text": "State override of redistricting maps prompts Gwinnett legislator’s resolution",
+"href": "https://rahmanforgeorgia.com/state-override-of-redistricting-maps-prompts-gwinnett-legislators-resolution/"
+},
+{
+"text": "Volunteer",
+"href": "https://rahmanforgeorgia.com/volunteer/"
+},
+{
+"text": "Where do I vote",
+"href": "https://www.mvp.sos.ga.gov/MVP/mvp.do"
+},
+{
+"text": "X",
+"href": "https://twitter.com/RahmanforGA"
+},
+{
+"text": "[image: Endorsements 2024]",
+"href": "https://rahmanforgeorgia.com/endorsements-2024/"
+},
+{
+"text": "[image: Feature in Atlanta Magazine]",
+"href": "https://rahmanforgeorgia.com/feature-in-atlanta-magazine/"
+},
+{
+"text": "[image: Georgia Senator Sheikh Rahman Honors President Jimmy Carter]",
+"href": "https://rahmanforgeorgia.com/georgia-senator-sheikh-rahman-honors-president-jimmy-carter/"
+},
+{
+"text": "[image: Gwinnett Chamber, Georgia Indo-American Chamber agree to work together]",
+"href": "https://rahmanforgeorgia.com/gwinnett-chamber-georgia-indo-american-chamber-agree-to-work-together/"
+},
+{
+"text": "[image: Rahman for Georgia logo]",
+"href": "https://rahmanforgeorgia.com"
+},
+{
+"text": "[image: Senator Sheikh Rahman]",
+"href": "https://rahmanforgeorgia.com/"
+},
+{
+"text": "[image: Sheikh Rahman wins a state Senate seat]",
+"href": "https://rahmanforgeorgia.com/sheikh-rahman-wins-a-state-senate-seat/"
+},
+{
+"text": "[image: State override of redistricting maps prompts Gwinnett legislator’s resolution]",
+"href": "https://rahmanforgeorgia.com/state-override-of-redistricting-maps-prompts-gwinnett-legislators-resolution/"
+},
+{
+"text": "read more",
+"href": "https://rahmanforgeorgia.com/endorsements-2024/"
+},
+{
+"text": "read more",
+"href": "https://rahmanforgeorgia.com/feature-in-atlanta-magazine/"
+},
+{
+"text": "read more",
+"href": "https://rahmanforgeorgia.com/georgia-senator-sheikh-rahman-honors-president-jimmy-carter/"
+},
+{
+"text": "read more",
+"href": "https://rahmanforgeorgia.com/gwinnett-chamber-georgia-indo-american-chamber-agree-to-work-together/"
+},
+{
+"text": "read more",
+"href": "https://rahmanforgeorgia.com/sheikh-rahman-wins-a-state-senate-seat/"
+},
+{
+"text": "read more",
+"href": "https://rahmanforgeorgia.com/state-override-of-redistricting-maps-prompts-gwinnett-legislators-resolution/"
+}
 ]

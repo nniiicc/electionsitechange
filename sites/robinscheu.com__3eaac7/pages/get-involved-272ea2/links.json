@@ -1,11 +1,54 @@
 [
-"http://robinscheu.com/",
-"http://robinscheu.com/endorsements",
-"http://robinscheu.com/get-involved",
-"http://robinscheu.com/issues",
-"http://robinscheu.com/legislative-updates",
-"http://robinscheu.com/new-page",
-"https://mvp.sec.state.vt.us/",
-"https://olvr.sec.state.vt.us/",
-"https://secure.actblue.com/donate/scheu2018"
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/scheu2018"
+},
+{
+"text": "Endorsements",
+"href": "http://www.robinscheu.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "http://www.robinscheu.com/get-involved/"
+},
+{
+"text": "Get Involved",
+"href": "http://www.robinscheu.com/get-involved"
+},
+{
+"text": "Home",
+"href": "http://www.robinscheu.com/"
+},
+{
+"text": "Issues",
+"href": "http://www.robinscheu.com/issues"
+},
+{
+"text": "Legislative Updates",
+"href": "http://www.robinscheu.com/legislative-updates"
+},
+{
+"text": "Meet Robin",
+"href": "http://www.robinscheu.com/new-page"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://olvr.sec.state.vt.us/"
+},
+{
+"text": "Request a Ballot",
+"href": "https://www.mvp.sec.state.vt.us/"
+},
+{
+"text": "Robin Scheu",
+"href": "http://www.robinscheu.com/"
+},
+{
+"text": "[image: Robin Scheu]",
+"href": "http://www.robinscheu.com/"
+},
+{
+"text": "[image: Robin Scheu] For Middlebury",
+"href": "http://www.robinscheu.com/"
+}
 ]

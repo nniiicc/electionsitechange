@@ -1,5 +1,4 @@
-Meet Salud
-First elected to Congress in 2016, Salud Carbajal has a proven track record of standing up for Central Coast values and building stronger communities.
+Skip to primary navigation Skip to content × Close Meet Salud En Español Get Involved Join the Team Endorsements Contact × Close Meet Salud En Español Get Involved Join the Team Endorsements Contact x x search x MENU Contribute Facebook icon Twitter icon Flickr icon Home Meet Salud First elected to Congress in 2016, Salud Carbajal has a proven track record of standing up for Central Coast values and building stronger communities.
 He’s running for Congress to lower the cost of living, expand opportunities for working families, defend immigrant communities from extreme ICE raids, and to protect our local environment.
 Salud and his family lived in a small copper mining town in Arizona, after immigrating from Moroleón, Guanajuato, Mexico when Salud was five.
 His father worked in the mines while his mother maintained the home for their eight children.
@@ -22,18 +21,8 @@ As a senior member of the House Transportation and Infrastructure Committee, Sal
 More than half of the bills Salud is working on in Congress are bipartisan – and he has championed measures to protect farmworkers, address the climate crisis, create affordable housing for veterans, reform the immigration process, and more.
 Salud is married to his wife, Gina, and has two children, Natasha and Michael.
 Salud has served on a number of national and regional committees focusing on climate change, children and families, and senior issues.
-He has been awarded for his leadership by a number of organizations:
-- 2026 Frank Courtenay “Salute to Congress” Award
-- 2026 CenCal Health Board of Directors Resolution Recognizing Rep.
-Carbajal’s Leadership and Advocacy on Behalf of Medi-Cal Patients and Providers
-- 2025 NHSA PROMISE (Protecting Our Most Important Students Early) Award
-- 2025 Humane Society Humane Advocate Award
-- 2022 California Special Districts Association Legislator of the Year Award
-- 2019 Congressional Management Fund Best Workplace Environment Award
-- 2018 Chamber of Commerce Spirit of Enterprise Award
-- 2014 Community Environmental Council Environmental Hero
-- Area Agency on Aging 2009 Public Official of the Year
-- 2008 Planned Parenthood Action Fund of Santa Barbara, Ventura and San Luis Obispo Counties “Sticking His Neck Out” award
-- 2008 Santa Barbara Jewish Federation Ambassador of Freedom Award
-- 2008 Santa Barbara Hispanic Chamber Elected Official of the Year
-- Named a “Community Role Model” by Women’s Economic Ventures
+He has been awarded for his leadership by a number of organizations: 2026 Frank Courtenay “Salute to Congress” Award 2026 CenCal Health Board of Directors Resolution Recognizing Rep.
+Carbajal’s Leadership and Advocacy on Behalf of Medi-Cal Patients and Providers 2025 NHSA PROMISE (Protecting Our Most Important Students Early) Award 2025 Humane Society Humane Advocate Award 2022 California Special Districts Association Legislator of the Year Award 2019 Congressional Management Fund Best Workplace Environment Award 2018 Chamber of Commerce Spirit of Enterprise Award 2014 Community Environmental Council Environmental Hero Area Agency on Aging 2009 Public Official of the Year 2008 Planned Parenthood Action Fund of Santa Barbara, Ventura and San Luis Obispo Counties “Sticking His Neck Out” award 2008 Santa Barbara Jewish Federation Ambassador of Freedom Award 2008 Santa Barbara Hispanic Chamber Elected Official of the Year Named a “Community Role Model” by Women’s Economic Ventures Need more information?
+Give us a Call!
+Our phone number is (805) 845-9745 Contribute Meet Salud En Español Issues Get Involved Contact Privacy Policy Salud Carbajal for Congress P.O.
+Box 1290 Santa Barbara, CA, 93102 (805) 845-9745 Facebook icon Twitter icon Flickr icon Paid for by Salud Carbajal for Congress

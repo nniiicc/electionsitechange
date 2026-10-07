@@ -1,22 +1,90 @@
 [
-"https://ashleyforfloridahouse.com/",
-"https://ashleyforfloridahouse.com/ai-and-datacenters",
-"https://ashleyforfloridahouse.com/civil-rights",
-"https://ashleyforfloridahouse.com/democracy",
-"https://ashleyforfloridahouse.com/environment",
-"https://ashleyforfloridahouse.com/healthcare",
-"https://ashleyforfloridahouse.com/housing",
-"https://ashleyforfloridahouse.com/infrastructure",
-"https://ashleyforfloridahouse.com/labor",
-"https://ashleyforfloridahouse.com/lgbtq",
-"https://ashleyforfloridahouse.com/safety",
-"https://ashleyforfloridahouse.com/transit",
-"https://facebook.com/ashleyforflorida",
-"https://instagram.com/elect_herrmann",
-"https://secure.actblue.com/donate/hd69",
-"https://secure.actblue.com/donate/hd69?amount=10",
-"https://secure.actblue.com/donate/hd69?amount=100",
-"https://secure.actblue.com/donate/hd69?amount=25",
-"https://secure.actblue.com/donate/hd69?amount=250",
-"https://secure.actblue.com/donate/hd69?amount=50"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/hd69?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/hd69?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/hd69?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/hd69?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/hd69?amount=50"
+},
+{
+"text": "Civil Rights For All",
+"href": "https://ashleyforfloridahouse.com/civil-rights"
+},
+{
+"text": "Democracy For All",
+"href": "https://ashleyforfloridahouse.com/democracy"
+},
+{
+"text": "Development, Land Use & Home Rule",
+"href": "https://ashleyforfloridahouse.com/infrastructure"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hd69"
+},
+{
+"text": "Environment & Climate",
+"href": "https://ashleyforfloridahouse.com/environment"
+},
+{
+"text": "Healthcare For All",
+"href": "https://ashleyforfloridahouse.com/healthcare"
+},
+{
+"text": "Housing For All",
+"href": "https://ashleyforfloridahouse.com/housing"
+},
+{
+"text": "Mobility For All",
+"href": "https://ashleyforfloridahouse.com/transit"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/hd69"
+},
+{
+"text": "Pride For All",
+"href": "https://ashleyforfloridahouse.com/lgbtq"
+},
+{
+"text": "Safety For All",
+"href": "https://ashleyforfloridahouse.com/safety"
+},
+{
+"text": "Standing Up To Data Centers",
+"href": "https://ashleyforfloridahouse.com/ai-and-datacenters"
+},
+{
+"text": "Workers Rights For All",
+"href": "https://ashleyforfloridahouse.com/labor"
+},
+{
+"text": "[image: Jose Freites for Florida House District 56 main logo]",
+"href": "https://ashleyforfloridahouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ashleyforflorida"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/elect_herrmann"
+},
+{
+"text": "[no text]",
+"href": "mailto:elect.herrmann@gmail.com"
+}
 ]

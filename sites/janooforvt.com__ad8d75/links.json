@@ -1,47 +1,266 @@
 [
-"https://benningtonbanner.com/local-news/candidate-spotlight-economist-and-strafford-native-amanda-janoo-has-thrown-her-hat-into-the-race/article_da727e63-fde1-4aa4-8fb5-6d1ecd04ef19.html",
-"https://bostonglobe.com/2026/08/11/metro/vermont-primary-results-amanda-janoo",
-"https://docs.google.com/forms/d/e/1FAIpQLSeU61FNmjWLIcxE29KcyTVza-PrYXkf4TBstJy1mA_9PdcIyg/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSfB47OUJXcLWwVIK6cv1PeZMIi8Rpxis0pFA3Aba-wCAV6aNQ/viewform?usp=header",
-"https://facebook.com/JanooForVT",
-"https://instagram.com/janooforvt",
-"https://janooforvt.com/",
-"https://janooforvt.com/14-sheet-janoo-2",
-"https://janooforvt.com/about-page",
-"https://janooforvt.com/aj_zine_sm-2",
-"https://janooforvt.com/endorsements",
-"https://janooforvt.com/event-types?event_type=19",
-"https://janooforvt.com/event-types?event_type=20",
-"https://janooforvt.com/event-types?event_type=21",
-"https://janooforvt.com/platform-page",
-"https://janooforvt.com/privacy-policy",
-"https://janooforvt.com/wp-content/uploads/2026/10/14-Sheet-Janoo-.pdf",
-"https://janooforvt.com/youprintfoldinginstructions",
-"https://janooforvt.solidarity.tech/campaign-suggestion-box",
-"https://janooforvt.solidarity.tech/canvass-events",
-"https://janooforvt.solidarity.tech/get-involved",
-"https://janooforvt.solidarity.tech/join-page",
-"https://janooforvt.solidarity.tech/lawn-sign-request",
-"https://janooforvt.solidarity.tech/phone-bank-events",
-"https://janooforvt.solidarity.tech/town-hall-statewide-tour",
-"https://newsweek.com/americas-most-popular-gop-governor-trails-democratic-rival-latest-polls-12489430",
-"https://newsweek.com/how-democrat-amanda-janoo-plans-to-defeat-americas-most-popular-governor-11815932",
-"https://reformer.com/local-news/governor-hopeful-amanda-janoo-visits-bellows-falls/article_ba0a079c-af4f-467e-b15f-ccf534940f95.html",
-"https://samessenger.com/news/government/amanda-janoo-seeks-governorship-to-create-wellbeing-economy/article_19347039-e744-4bb1-bd6a-cad097e03378.html",
-"https://scholars.unh.edu/cgi/viewcontent.cgi?article=2005&context=survey_center_polls",
-"https://secure.actblue.com/donate/janoo-for-vt",
-"https://secure.actblue.com/donate/janoo-for-vt?amount=10",
-"https://secure.actblue.com/donate/janoo-for-vt?amount=100",
-"https://secure.actblue.com/donate/janoo-for-vt?amount=25",
-"https://secure.actblue.com/donate/janoo-for-vt?amount=50",
-"https://sevendaysvt.com/news/politics/new-poll-shows-janoo-with-narrow-lead-over-incumbent-gov-scott",
-"https://store.janooforvt.com/",
-"https://thevpo.org/2026/09/28/politics-as-unusual",
-"https://tiktok.com/@janooforvt",
-"https://vermontpublic.org/local-news/2026-08-12/amanda-janoo-wins-vermont-democratic-primary-governor",
-"https://vtcng.com/news_and_citizen/opinion/letters_to_the_editor/amanda-janoo-finds-solutions/article_38a20826-fcaa-44fc-b675-9b229848fa50.html",
-"https://vtdigger.org/2026/08/12/how-amanda-janoo-a-progressive-political-outsider-won-vermonts-democratic-primary-for-governor",
-"https://vtdigger.org/2026/09/10/5-things-were-watching-in-vermonts-general-election",
-"https://waterburyroundabout.org/opinion-archive/howard-dean-why-im-supporting-amanda-janoo-for-governor",
-"https://youtube.com/@janooforvt"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/janoo-for-vt?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/janoo-for-vt?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/janoo-for-vt?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/janoo-for-vt?amount=50"
+},
+{
+"text": "All Campaign Events",
+"href": "https://janooforvt.solidarity.tech/join-page"
+},
+{
+"text": "Amanda",
+"href": "https://www.janooforvt.com/about-page/"
+},
+{
+"text": "Ban AI Data Centers & Retake Control from Big TechThe concentration of power in the hands of a few AI companies and tech giants is a threat to our democracy, economy and planet. Vermont can be a national leader in advancing the regulations and protections needed to ensure everyone has control of their data, their privacy and their lives.",
+"href": "https://www.janooforvt.com/platform-page#acc-4"
+},
+{
+"text": "Campaign Stops",
+"href": "https://www.janooforvt.com/#events"
+},
+{
+"text": "Canvass",
+"href": "https://janooforvt.solidarity.tech/canvass-events"
+},
+{
+"text": "Canvassing",
+"href": "https://www.janooforvt.com/event-types/?event_type=20"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/janoo-for-vt"
+},
+{
+"text": "Download 1/4 Sheets",
+"href": "https://www.janooforvt.com/14-sheet-janoo-2/"
+},
+{
+"text": "Download 1/4 Sheets",
+"href": "https://www.janooforvt.com/wp-content/uploads/2026/10/14-Sheet-Janoo-.pdf"
+},
+{
+"text": "Download our campaign zine!",
+"href": "https://www.janooforvt.com/aj_zine_sm-2/"
+},
+{
+"text": "Endorse Amanda",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfB47OUJXcLWwVIK6cv1PeZMIi8Rpxis0pFA3Aba-wCAV6aNQ/viewform?usp=header"
+},
+{
+"text": "Endorsements",
+"href": "https://www.janooforvt.com/endorsements/"
+},
+{
+"text": "Follow on Instagram",
+"href": "https://www.instagram.com/janooforvt/"
+},
+{
+"text": "Free, Universal Primary & Preventive CareReduce the overall cost of healthcare by implementing universal primary care, and emphasize preventive medicine by making sure there is a community doctor for every Vermonter.",
+"href": "https://www.janooforvt.com/platform-page#acc-5"
+},
+{
+"text": "Get Involved",
+"href": "https://janooforvt.solidarity.tech/get-involved"
+},
+{
+"text": "Green Mountain State Poll",
+"href": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=2005&context=survey_center_polls"
+},
+{
+"text": "Home",
+"href": "https://www.janooforvt.com"
+},
+{
+"text": "Homes for Vermonters, Not InvestorsTogether, we can build a housing system where every Vermonter can afford to rent, buy, or build a home in the community they love.",
+"href": "https://www.janooforvt.com/platform-page#acc-2"
+},
+{
+"text": "Host an Event",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeU61FNmjWLIcxE29KcyTVza-PrYXkf4TBstJy1mA_9PdcIyg/viewform"
+},
+{
+"text": "How to fold a zine →",
+"href": "https://www.janooforvt.com/youprintfoldinginstructions/"
+},
+{
+"text": "Local Businesses, Strong CommunitiesStrengthening Vermont's economy from the bottom up by investing in local businesses, farmers, workers, and cooperatives, keeping more wealth circulating in our communities instead of flowing to distant corporations and shareholders.",
+"href": "https://www.janooforvt.com/platform-page#acc-1"
+},
+{
+"text": "Local Food, Healthy Communities, & A Vermont That Can Feed ItselfEvery Vermonter should have access to healthy, nutritious food, and every farmer should be able to earn a good living feeding their community.",
+"href": "https://www.janooforvt.com/platform-page#acc-7"
+},
+{
+"text": "Meet Amanda",
+"href": "https://www.janooforvt.com/event-types/?event_type=19"
+},
+{
+"text": "News",
+"href": "https://www.janooforvt.com#news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/janoo-for-vt"
+},
+{
+"text": "Phone Bank",
+"href": "https://janooforvt.solidarity.tech/phone-bank-events"
+},
+{
+"text": "Platform",
+"href": "https://www.janooforvt.com/platform-page/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.janooforvt.com/privacy-policy/"
+},
+{
+"text": "Protect & Invest in Community SchoolsTogether, we can protect and strengthen Vermont's schools by investing in them as the heart of every community—bringing essential services closer to home, strengthening local economies, and giving communities more power to shape their own future.",
+"href": "https://www.janooforvt.com/platform-page#acc-3"
+},
+{
+"text": "Protect Vermont, Deepen DemocracyTogether, we can build the most democratic state in America by protecting our freedoms, giving every Vermonter a meaningful voice in the decisions that affect their lives, and returning more power to our communities.",
+"href": "https://www.janooforvt.com/platform-page#acc-6"
+},
+{
+"text": "Read more",
+"href": "https://thevpo.org/2026/09/28/politics-as-unusual/"
+},
+{
+"text": "Read more",
+"href": "https://vtdigger.org/2026/08/12/how-amanda-janoo-a-progressive-political-outsider-won-vermonts-democratic-primary-for-governor/"
+},
+{
+"text": "Read more",
+"href": "https://vtdigger.org/2026/09/10/5-things-were-watching-in-vermonts-general-election/"
+},
+{
+"text": "Read more",
+"href": "https://www.benningtonbanner.com/local-news/candidate-spotlight-economist-and-strafford-native-amanda-janoo-has-thrown-her-hat-into-the-race/article_da727e63-fde1-4aa4-8fb5-6d1ecd04ef19.html"
+},
+{
+"text": "Read more",
+"href": "https://www.bostonglobe.com/2026/08/11/metro/vermont-primary-results-amanda-janoo/"
+},
+{
+"text": "Read more",
+"href": "https://www.newsweek.com/americas-most-popular-gop-governor-trails-democratic-rival-latest-polls-12489430#Echobox=1790367365"
+},
+{
+"text": "Read more",
+"href": "https://www.newsweek.com/how-democrat-amanda-janoo-plans-to-defeat-americas-most-popular-governor-11815932"
+},
+{
+"text": "Read more",
+"href": "https://www.reformer.com/local-news/governor-hopeful-amanda-janoo-visits-bellows-falls/article_ba0a079c-af4f-467e-b15f-ccf534940f95.html"
+},
+{
+"text": "Read more",
+"href": "https://www.samessenger.com/news/government/amanda-janoo-seeks-governorship-to-create-wellbeing-economy/article_19347039-e744-4bb1-bd6a-cad097e03378.html"
+},
+{
+"text": "Read more",
+"href": "https://www.sevendaysvt.com/news/politics/new-poll-shows-janoo-with-narrow-lead-over-incumbent-gov-scott/"
+},
+{
+"text": "Read more",
+"href": "https://www.vermontpublic.org/local-news/2026-08-12/amanda-janoo-wins-vermont-democratic-primary-governor"
+},
+{
+"text": "Read more",
+"href": "https://www.vtcng.com/news_and_citizen/opinion/letters_to_the_editor/amanda-janoo-finds-solutions/article_38a20826-fcaa-44fc-b675-9b229848fa50.html"
+},
+{
+"text": "Read more",
+"href": "https://www.waterburyroundabout.org/opinion-archive/howard-dean-why-im-supporting-amanda-janoo-for-governor"
+},
+{
+"text": "Read my full policies",
+"href": "https://www.janooforvt.com/platform-page/"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://janooforvt.solidarity.tech/lawn-sign-request"
+},
+{
+"text": "See more events →",
+"href": "https://janooforvt.solidarity.tech/join-page"
+},
+{
+"text": "See upcoming events →",
+"href": "https://janooforvt.solidarity.tech/join-page"
+},
+{
+"text": "Store",
+"href": "https://store.janooforvt.com/"
+},
+{
+"text": "Suggestion Box",
+"href": "https://janooforvt.solidarity.tech/campaign-suggestion-box"
+},
+{
+"text": "Town Hall State Tour",
+"href": "https://janooforvt.solidarity.tech/town-hall-statewide-tour"
+},
+{
+"text": "Volunteer Opportunities",
+"href": "https://janooforvt.solidarity.tech/get-involved"
+},
+{
+"text": "Volunteer Opportunities",
+"href": "https://www.janooforvt.com/#events-volunteer"
+},
+{
+"text": "Volunteer Opportunities",
+"href": "https://www.janooforvt.com/event-types/?event_type=21"
+},
+{
+"text": "[image: Amanda Janoo for Governor]",
+"href": "https://www.janooforvt.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JanooForVT/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/janooforvt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@janooforvt"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@janooforvt"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@janooforvt.com"
+},
+{
+"text": "here",
+"href": "https://janooforvt.solidarity.tech/lawn-sign-request"
+},
+{
+"text": "info@janooforvt.com",
+"href": "mailto:info@janooforvt.com"
+},
+{
+"text": "press@janooforvt.com",
+"href": "mailto:press@janooforvt.com"
+}
 ]

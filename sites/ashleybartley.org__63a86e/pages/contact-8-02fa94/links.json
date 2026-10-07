@@ -1,8 +1,38 @@
 [
-"http://eepurl.com/hY-7Kn",
-"https://ashleybartley.org/",
-"https://ashleybartley.org/blog",
-"https://ashleybartley.org/contact-8",
-"https://ashleybartley.org/team-1",
-"https://secure.anedot.com/15478d57-bd32-4518-b7db-a24d283a7a30/donate"
+{
+"text": "CAMPAIGN UPDATES",
+"href": "https://www.ashleybartley.org/blog"
+},
+{
+"text": "CONTACT",
+"href": "https://www.ashleybartley.org/contact-8"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/15478d57-bd32-4518-b7db-a24d283a7a30/donate"
+},
+{
+"text": "DONATE TO ASHLEY!",
+"href": "https://www.ashleybartley.org"
+},
+{
+"text": "HOME",
+"href": "https://www.ashleybartley.org"
+},
+{
+"text": "SIGN-UP FOR UPDATES",
+"href": "http://eepurl.com/hY-7Kn"
+},
+{
+"text": "WHY I RAN",
+"href": "https://www.ashleybartley.org/team-1"
+},
+{
+"text": "ashley@ashleybartley.org",
+"href": "mailto:ashley@ashleybartley.org"
+},
+{
+"text": "ashley@ashleybartley.org",
+"href": "mailto:info@mysite.com"
+}
 ]

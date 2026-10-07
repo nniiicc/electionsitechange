@@ -1,23 +1,25 @@
-August 29, 2025 Backed by a hefty list of prominent endorsers, Los Angeles County Supervisor Hilda Solis has officially kicked off her bid for a southeast L.A.
+Skip to content Home Join Team Hilda Supporters Gallery Donate Category: News Home | News News Supervisor Hilda Solis says she’ll run for Congress if new maps are approved admin September 9, 2025 August 29, 2025 Backed by a hefty list of prominent endorsers, Los Angeles County Supervisor Hilda Solis has officially kicked off her bid for a southeast L.A.
 County congressional seat, should new district maps be approved by California voters in November....
-El 7 de junio se realizarán elecciones primarias para el Distrito 1 de la Junta de Supervisores del condado de Los Ángeles.
+Read More News Por Hilda Solís como Supervisora del Condado de Los Ángeles admin May 18, 2022 El 7 de junio se realizarán elecciones primarias para el Distrito 1 de la Junta de Supervisores del condado de Los Ángeles.
 El Distrito, recientemente rediseñado, perdió parte de sus residentes latinos e incorporó a otros de origen asiático.
 El...
-Hilda Solis virtually remade the Board of Supervisors, along with Sheila Kuehl, when both were elected in 2014.
+Read More News Endorsement: Hilda Solis remains the best choice for the Board of Supervisors admin May 18, 2022 Hilda Solis virtually remade the Board of Supervisors, along with Sheila Kuehl, when both were elected in 2014.
 Twenty years had passed since Los Angeles County’s close brush with bankruptcy, and the previous board kept the prospect of insolvency in the...
-Hilda Solis led the efforts to bring $10 Million in financial assistance to provide supportive services at interim housing sites in LA County.
+Read More News Hilda leads efforts to bring $10 Million in funding to provide supportive services at interim housing sites (11/3/21) admin November 11, 2021 Hilda Solis led the efforts to bring $10 Million in financial assistance to provide supportive services at interim housing sites in LA County.
 This is due to the fact that as local jurisdictions expand the supply of housing for those...
-Low participation rates in the state’s rental assistance program prompted Supervisor Solis to urge the community to utilize these funds.
+Read More News Supervisor Solis urges community to use emergency rental assistance (11/2/21) admin November 11, 2021 Low participation rates in the state’s rental assistance program prompted Supervisor Solis to urge the community to utilize these funds.
 Some areas in her district including East LA, Southeast LA, and parts of San Gabriel Valley were among the communities...
-Metro, at the direction of Chair Solis, has launched a 23-month pilot program which will allow K-12 and community college students to ride Metro fare-free.
+Read More News Metro Chair Solis supports free ride program for LAUSD Students (9/23/21) admin November 11, 2021 Metro, at the direction of Chair Solis, has launched a 23-month pilot program which will allow K-12 and community college students to ride Metro fare-free.
 This pilot program began on November 1st, 2021 and will continue until October 2023.
 The...
-Supervisor Solis and the LA County Board of Supervisors voted and approved for a pilot program aimed to provide a guaranteed income of $1,204 a month to young adults in Los Angeles County.
+Read More News Supervisor Solis supports pilot program for youth (7/28/21) admin November 11, 2021 Supervisor Solis and the LA County Board of Supervisors voted and approved for a pilot program aimed to provide a guaranteed income of $1,204 a month to young adults in Los Angeles County.
 The program, approved unanimously by the L.A....
-Supervisor Solis was named chair of the Metro board during the 2021 State of the Agency event making this the first time in history that both the CEO and the Chair of Metro are both women.
+Read More News Hilda Solis becomes Metro Chair!
+(7/15/21) admin November 11, 2021 Supervisor Solis was named chair of the Metro board during the 2021 State of the Agency event making this the first time in history that both the CEO and the Chair of Metro are both women.
 Solis took this opportunity...
-Supervisor Solis and the L.A.
+Read More News Supervisor Solis advocates to bring $13.56 million to new park in El Monte 6/23/21 admin November 11, 2021 Supervisor Solis and the L.A.
 County Board of Supervisors approved spending $13.56 million for a park to be built in El Monte on the grounds of the former MacLaren Children’s Center.
 This site operated for decades as a county-run orphanage...
-In just under five months, a vacant lot in downtown Los Angeles between the county jail and a rusted hulk of a factory was transformed into the Hilda Solis Care First Village.
+Read More News This L.A. project shows that homeless housing can be done quickly and cheaply (1/15/21) admin November 11, 2021 In just under five months, a vacant lot in downtown Los Angeles between the county jail and a rusted hulk of a factory was transformed into the Hilda Solis Care First Village.
 The 232-bed Vignes Street development has shattered the...
+Read More Posts navigation 1 2 Contact info@hildasolis.com 10643 Valley Blvd., Suite C #144 El Monte, CA 91731 Join the Movement Join Team Hilda Endorse Hilda Donate Paid for by Solis for Congress

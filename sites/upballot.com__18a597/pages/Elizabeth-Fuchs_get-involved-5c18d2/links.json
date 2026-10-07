@@ -1,15 +1,86 @@
 [
-"https://facebook.com/profile.php?id=61553632804092",
-"https://instagram.com/lillyforthelou",
-"https://secure.actblue.com/donate/friends-for-fuchs-1",
-"https://sos.mo.gov/elections/goVoteMissouri/register",
-"https://twitter.com/elizabethfuchs?lang=en",
-"https://upballot.com/",
-"https://upballot.com/Elizabeth-Fuchs",
-"https://upballot.com/Elizabeth-Fuchs/about",
-"https://upballot.com/Elizabeth-Fuchs/events",
-"https://upballot.com/Elizabeth-Fuchs/get-involved",
-"https://upballot.com/Elizabeth-Fuchs/issues",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Elizabeth 'Lilly'",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/friends-for-fuchs-1"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/Elizabeth-Fuchs"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "Reach Out",
+"href": "mailto:lillyforthelou@gmail.com?subject=Volunteer+Interest+for+Elizabeth+%27Lilly%27+Fuchs&body=I%E2%80%99m+interested+in+volunteering+for+Elizabeth+%27Lilly%27+Fuchs%E2%80%99s+campaign."
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "View Events",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/events/"
+},
+{
+"text": "Visit Site",
+"href": "https://www.sos.mo.gov/elections/goVoteMissouri/register"
+},
+{
+"text": "[image: Elizabeth 'Lilly' Fuchs Logo]",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/elizabethfuchs?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61553632804092"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lillyforthelou/"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/profile.php?id=61553632804092"
+},
+{
+"text": "[tooltip: View Instagram Link]",
+"href": "https://www.instagram.com/lillyforthelou/"
+},
+{
+"text": "[tooltip: View Twitter Link]",
+"href": "https://twitter.com/elizabethfuchs?lang=en"
+},
+{
+"text": "lillyforthelou@gmail.com",
+"href": "mailto:lillyforthelou@gmail.com"
+},
+{
+"text": "tel:314-323-0584",
+"href": "tel:314-323-0584"
+}
 ]

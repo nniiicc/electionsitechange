@@ -1,8 +1,4 @@
-A VOICE FOR NEVADA
-LIFELONG DEMOCRAT
-FIGHTING FOR NEVADA FROM TRUMP'S LAWLESS ADMINISTRATION
-HELPING SOUTHERN NEVADA IN WATER CONSERVATION
-Sign Up for Updates
-Thanks for signing up!
-Committee to Elect Jan Aspelund
-Powered by CampaignPartner.com - Political Websites
+Home Meet Jan Photos Issues News Volunteer Contribute Contact Support Our Campaign Make a Contribution Today Click Here to Contribute Join the Campaign Become a Volunteer Click Here to Sign Up Show Your Support!
+Request a Yard Sign Click Here to Request a Sign Need Voting Information?
+Register & Find Your Polling Location Click Here for Information A VOICE FOR NEVADA LIFELONG DEMOCRAT FIGHTING FOR NEVADA FROM TRUMP'S LAWLESS ADMINISTRATION HELPING SOUTHERN NEVADA IN WATER CONSERVATION Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jan Aspelund Powered by CampaignPartner.com - Political Websites Home Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,7 +1,38 @@
 [
-"https://facebook.com/mikecheokas",
-"https://facebook.com/reddyforhouse",
-"https://secure.anedot.com/mike-cheokas-working-for-georgia/donate",
-"https://stoneridgegroup.com/",
-"https://votemikecheokas.com/"
+{
+"text": "About",
+"href": "https://www.votemikecheokas.com/#About"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/mike-cheokas-working-for-georgia/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votemikecheokas.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votemikecheokas.com/#Issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votemikecheokas.com/#Volunteer"
+},
+{
+"text": "[image]",
+"href": "https://stoneridgegroup.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.votemikecheokas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mikecheokas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/reddyforhouse"
+}
 ]

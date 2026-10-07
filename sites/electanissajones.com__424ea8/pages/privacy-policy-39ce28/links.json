@@ -1,20 +1,74 @@
 [
-"https://campaignpartner.com/",
-"https://electanissajones.com/",
-"https://electanissajones.com/contact",
-"https://electanissajones.com/contribute",
-"https://electanissajones.com/events",
-"https://electanissajones.com/home",
-"https://electanissajones.com/issues",
-"https://electanissajones.com/meet_anissa",
-"https://electanissajones.com/news",
-"https://electanissajones.com/photos",
-"https://electanissajones.com/privacy-policy",
-"https://electanissajones.com/view-endorsements",
-"https://electanissajones.com/volunteer",
-"https://electanissajones.com/vote",
-"https://facebook.com/drnissapolitico",
-"https://freeprivacypolicy.com/blog/sample-privacy-policy-template",
-"https://freeprivacypolicy.com/free-privacy-policy-generator",
-"https://instagram.com/drnissapolitico"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.electanissajones.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.electanissajones.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electanissajones.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.electanissajones.com/events"
+},
+{
+"text": "Free Privacy Policy Generator",
+"href": "https://www.freeprivacypolicy.com/free-privacy-policy-generator/"
+},
+{
+"text": "Home",
+"href": "https://www.electanissajones.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.electanissajones.com/issues"
+},
+{
+"text": "Meet Anissa",
+"href": "https://www.electanissajones.com/meet_anissa"
+},
+{
+"text": "News",
+"href": "https://www.electanissajones.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.electanissajones.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electanissajones.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electanissajones.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.electanissajones.com/vote"
+},
+{
+"text": "[image: Anissa Jones for Georgia House]",
+"href": "https://www.electanissajones.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/drnissapolitico/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/drnissapolitico/"
+},
+{
+"text": "https://www.electanissajones.com/",
+"href": "https://www.electanissajones.com/"
+}
 ]

@@ -1,31 +1,146 @@
 [
-"https://bsky.app/profile/fjohnd4.bsky.social",
-"https://facebook.com/JohnDuresky4Congress",
-"https://instagram.com/johnduresky4congress",
-"https://johnduresky4congress.com/",
-"https://johnduresky4congress.com/about",
-"https://johnduresky4congress.com/ballot-drop-boxes",
-"https://johnduresky4congress.com/cart",
-"https://johnduresky4congress.com/contact",
-"https://johnduresky4congress.com/donate",
-"https://johnduresky4congress.com/endorsements",
-"https://johnduresky4congress.com/events",
-"https://johnduresky4congress.com/home",
-"https://johnduresky4congress.com/issues",
-"https://johnduresky4congress.com/john-duresky",
-"https://johnduresky4congress.com/news",
-"https://johnduresky4congress.com/privacy",
-"https://johnduresky4congress.com/the-district",
-"https://johnduresky4congress.com/veterans-for-john",
-"https://johnduresky4congress.com/volunteer",
-"https://secure.actblue.com/donate/john-duresky",
-"https://secure.actblue.com/donate/john-duresky?amount=10",
-"https://secure.actblue.com/donate/john-duresky?amount=100",
-"https://secure.actblue.com/donate/john-duresky?amount=25",
-"https://secure.actblue.com/donate/john-duresky?amount=250",
-"https://secure.actblue.com/donate/john-duresky?amount=50",
-"https://threads.com/@johnduresky4congress",
-"https://tiktok.com/@johnduresky",
-"https://x.com/JohnDuresky4",
-"https://youtube.com/@johnduresky4congress"
+{
+"text": "0",
+"href": "https://www.johnduresky4congress.com/cart"
+},
+{
+"text": "About‍",
+"href": "https://www.johnduresky4congress.com/john-duresky"
+},
+{
+"text": "Back",
+"href": "https://www.johnduresky4congress.com/"
+},
+{
+"text": "Ballot drop boxes",
+"href": "https://www.johnduresky4congress.com/ballot-drop-boxes"
+},
+{
+"text": "Contact",
+"href": "https://www.johnduresky4congress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.johnduresky4congress.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.johnduresky4congress.com/endorsements"
+},
+{
+"text": "Endorsements‍",
+"href": "https://www.johnduresky4congress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.johnduresky4congress.com/events"
+},
+{
+"text": "Folder: About",
+"href": "https://www.johnduresky4congress.com/about"
+},
+{
+"text": "Home",
+"href": "https://www.johnduresky4congress.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.johnduresky4congress.com/issues"
+},
+{
+"text": "Issues‍",
+"href": "https://www.johnduresky4congress.com/issues"
+},
+{
+"text": "John Duresky",
+"href": "https://www.johnduresky4congress.com/john-duresky"
+},
+{
+"text": "News",
+"href": "https://www.johnduresky4congress.com/news"
+},
+{
+"text": "Privacy Policy‍",
+"href": "https://www.johnduresky4congress.com/privacy"
+},
+{
+"text": "The District",
+"href": "https://www.johnduresky4congress.com/the-district"
+},
+{
+"text": "Veterans for John",
+"href": "https://www.johnduresky4congress.com/veterans-for-john"
+},
+{
+"text": "Volunteer",
+"href": "https://www.johnduresky4congress.com/volunteer"
+},
+{
+"text": "[image: Button labeled 'Other' with a yellow font on a dark background]",
+"href": "https://secure.actblue.com/donate/john-duresky"
+},
+{
+"text": "[image: JOHN DURESKY FOR CONGRESS]",
+"href": "https://www.johnduresky4congress.com/"
+},
+{
+"text": "[image: Yellow and orange cash withdrawal card with a $10 amount displayed]",
+"href": "https://secure.actblue.com/donate/john-duresky?amount=10"
+},
+{
+"text": "[image: Yellow button card with $50 printed on it.]",
+"href": "https://secure.actblue.com/donate/john-duresky?amount=50"
+},
+{
+"text": "[image: Yellow button displaying $250]",
+"href": "https://secure.actblue.com/donate/john-duresky?amount=250"
+},
+{
+"text": "[image: Yellow button with $25 printed on it.]",
+"href": "https://secure.actblue.com/donate/john-duresky?amount=25"
+},
+{
+"text": "[image: Yellow button with black text displaying \"$100\".]",
+"href": "https://secure.actblue.com/donate/john-duresky?amount=100"
+},
+{
+"text": "[image]",
+"href": "https://www.johnduresky4congress.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/fjohnd4.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JohnDuresky4Congress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/johnduresky4congress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.johnduresky4congress.com/privacy"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@johnduresky4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@johnduresky"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@johnduresky4congress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JohnDuresky4"
+},
+{
+"text": "info@johnduresky.com",
+"href": "mailto:info@johnduresky.com"
+}
 ]

@@ -1,23 +1,102 @@
 [
-"http://gozoek.com/",
-"http://linkedin.com/in/bobfioretti",
-"http://veritasintelgroup.com/",
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.bobforillinois.com%2Fevent-details%2Ffioretti-debate-challenge-lincoln-douglas-series-aug-oct",
-"https://bobforillinois.com/",
-"https://bobforillinois.com/blog",
-"https://bobforillinois.com/donate",
-"https://bobforillinois.com/donate-2",
-"https://bobforillinois.com/event-details/lincoln-douglas-debate-4-charleston-il",
-"https://bobforillinois.com/event-list",
-"https://bobforillinois.com/general-1",
-"https://bobforillinois.com/post/robert-fioretti-a-new-vision-for-illinois-justice",
-"https://bobforillinois.com/s-projects-basic",
-"https://bobforillinois.com/services-7",
-"https://facebook.com/FiorettiForCook/about",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bobforillinois.com%2Fevent-details%2Ffioretti-debate-challenge-lincoln-douglas-series-aug-oct",
-"https://instagram.com/bobfioretti_2026",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.bobforillinois.com%2Fevent-details%2Ffioretti-debate-challenge-lincoln-douglas-series-aug-oct",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.bobforillinois.com%2Fevent-details%2Ffioretti-debate-challenge-lincoln-douglas-series-aug-oct",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.bobforillinois.com%2Fevent-details%2Ffioretti-debate-challenge-lincoln-douglas-series-aug-oct&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://x.com/BobFiorettiChi"
+{
+"text": "773-828-9696",
+"href": "tel:7738288495"
+},
+{
+"text": "ABOUT BOB",
+"href": "https://www.bobforillinois.com/post/robert-fioretti-a-new-vision-for-illinois-justice"
+},
+{
+"text": "BLOG",
+"href": "https://www.bobforillinois.com/blog"
+},
+{
+"text": "DONATE",
+"href": "https://www.bobforillinois.com/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://bobforillinois.com/event-list"
+},
+{
+"text": "EVENTS",
+"href": "https://bobforillinois.com/event-list#upcoming-events"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bobforillinois.com%2Fevent-details%2Ffioretti-debate-challenge-lincoln-douglas-series-aug-oct"
+},
+{
+"text": "Fioretti Direct Mail Campaign",
+"href": "https://www.bobforillinois.com/donate-2"
+},
+{
+"text": "GoZoek.com",
+"href": "http://gozoek.com"
+},
+{
+"text": "HOME",
+"href": "https://www.bobforillinois.com"
+},
+{
+"text": "ON THE TRAIL WITH BOB FIORETTI",
+"href": "https://www.bobforillinois.com/s-projects-basic"
+},
+{
+"text": "PODCASTS/MEDIA",
+"href": "https://www.bobforillinois.com/general-1"
+},
+{
+"text": "TeamFioretti@bobforillinois.com​",
+"href": "mailto:TeamFioretti@bobforillinois.com?subject=Inquiry"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.bobforillinois.com/services-7"
+},
+{
+"text": "Veritas Intel Group",
+"href": "http://www.veritasintelgroup.com"
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send/?phone=&text=https%3A%2F%2Fwww.bobforillinois.com%2Fevent-details%2Ffioretti-debate-challenge-lincoln-douglas-series-aug-oct"
+},
+{
+"text": "X (Twitter)",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.bobforillinois.com%2Fevent-details%2Ffioretti-debate-challenge-lincoln-douglas-series-aug-oct"
+},
+{
+"text": "[image: Charleston Debate No 4 FIORETTI_edited.jpg]",
+"href": "https://www.bobforillinois.com/event-details/lincoln-douglas-debate-4-charleston-il"
+},
+{
+"text": "[image: FIGHTING FOR YOU_edited.jpg]",
+"href": "https://www.bobforillinois.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/FiorettiForCook/about/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/bobfioretti_2026/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "http://www.linkedin.com/in/bobfioretti"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/BobFiorettiChi"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.bobforillinois.com%2Fevent-details%2Ffioretti-debate-challenge-lincoln-douglas-series-aug-oct&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.bobforillinois.com%2Fevent-details%2Ffioretti-debate-challenge-lincoln-douglas-series-aug-oct"
+}
 ]

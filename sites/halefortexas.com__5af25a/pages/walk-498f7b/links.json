@@ -1,29 +1,202 @@
 [
-"https://facebook.com/share/1BAo9UPeDN",
-"https://gettruvo.com/",
-"https://halefortexas.com/",
-"https://halefortexas.com/about",
-"https://halefortexas.com/blog",
-"https://halefortexas.com/endorsements",
-"https://halefortexas.com/es/walk.html",
-"https://halefortexas.com/merchandise",
-"https://halefortexas.com/priorities/affordability",
-"https://halefortexas.com/priorities/energy",
-"https://halefortexas.com/priorities/fiscal",
-"https://halefortexas.com/priorities/healthcare",
-"https://halefortexas.com/priorities/local",
-"https://halefortexas.com/priorities/safety",
-"https://halefortexas.com/privacy",
-"https://halefortexas.com/social",
-"https://halefortexas.com/terms",
-"https://halefortexas.com/vi/walk.html",
-"https://halefortexas.com/volunteer",
-"https://halefortexas.com/walk",
-"https://halefortexas.com/walk/login",
-"https://halefortexas.com/zh/walk.html",
-"https://instagram.com/halefortexas",
-"https://linkedin.com/in/alexanderbhale",
-"https://secure.winred.com/alexander-hale-for-congress/donate",
-"https://tiktok.com/@halefortexas",
-"https://x.com/halefortexas"
+{
+"text": "(713) 487-6231",
+"href": "tel:+17134876231"
+},
+{
+"text": "01Houston's Energy Economy",
+"href": "https://www.halefortexas.com/priorities/energy"
+},
+{
+"text": "01Houston's Energy Economy→",
+"href": "https://www.halefortexas.com/priorities/energy"
+},
+{
+"text": "02Increasing Affordability",
+"href": "https://www.halefortexas.com/priorities/affordability"
+},
+{
+"text": "02Increasing Affordability→",
+"href": "https://www.halefortexas.com/priorities/affordability"
+},
+{
+"text": "03Lowering Healthcare Costs",
+"href": "https://www.halefortexas.com/priorities/healthcare"
+},
+{
+"text": "03Lowering Healthcare Costs→",
+"href": "https://www.halefortexas.com/priorities/healthcare"
+},
+{
+"text": "04Public Safety",
+"href": "https://www.halefortexas.com/priorities/safety"
+},
+{
+"text": "04Public Safety→",
+"href": "https://www.halefortexas.com/priorities/safety"
+},
+{
+"text": "05Fiscal Responsibility",
+"href": "https://www.halefortexas.com/priorities/fiscal"
+},
+{
+"text": "05Fiscal Responsibility→",
+"href": "https://www.halefortexas.com/priorities/fiscal"
+},
+{
+"text": "06State and Local Empowerment",
+"href": "https://www.halefortexas.com/priorities/local"
+},
+{
+"text": "06State and Local Empowerment→",
+"href": "https://www.halefortexas.com/priorities/local"
+},
+{
+"text": "About Alexander",
+"href": "https://www.halefortexas.com/about"
+},
+{
+"text": "About Alexander→",
+"href": "https://www.halefortexas.com/about"
+},
+{
+"text": "Contact Form",
+"href": "https://www.halefortexas.com/volunteer"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate"
+},
+{
+"text": "EN",
+"href": "https://www.halefortexas.com/walk"
+},
+{
+"text": "ES",
+"href": "https://www.halefortexas.com/es/walk.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.halefortexas.com/endorsements"
+},
+{
+"text": "Endorsements→",
+"href": "https://www.halefortexas.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.halefortexas.com/volunteer"
+},
+{
+"text": "HALE FOR TEXAS",
+"href": "https://www.halefortexas.com/"
+},
+{
+"text": "Host an Event",
+"href": "https://www.halefortexas.com/volunteer"
+},
+{
+"text": "Meet Alexander",
+"href": "https://www.halefortexas.com/about"
+},
+{
+"text": "Merchandise",
+"href": "https://www.halefortexas.com/merchandise"
+},
+{
+"text": "Merchandise→",
+"href": "https://www.halefortexas.com/merchandise"
+},
+{
+"text": "News",
+"href": "https://www.halefortexas.com/#news"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:info@halefortexas.com?subject=Press+Inquiry"
+},
+{
+"text": "Priorities",
+"href": "https://www.halefortexas.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.halefortexas.com/privacy"
+},
+{
+"text": "Reach the campaign here.",
+"href": "https://www.halefortexas.com/volunteer"
+},
+{
+"text": "Sign in with your access code",
+"href": "https://www.halefortexas.com/walk/login"
+},
+{
+"text": "Social Media",
+"href": "https://www.halefortexas.com/social"
+},
+{
+"text": "Social Media→",
+"href": "https://www.halefortexas.com/social"
+},
+{
+"text": "TT",
+"href": "https://www.tiktok.com/@halefortexas"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.halefortexas.com/terms"
+},
+{
+"text": "Updates",
+"href": "https://www.halefortexas.com/blog"
+},
+{
+"text": "VI",
+"href": "https://www.halefortexas.com/vi/walk.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.halefortexas.com/volunteer"
+},
+{
+"text": "Volunteer→",
+"href": "https://www.halefortexas.com/volunteer"
+},
+{
+"text": "Walk Your Street",
+"href": "https://www.halefortexas.com/walk"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.halefortexas.com/volunteer"
+},
+{
+"text": "[image: Truvo]",
+"href": "https://gettruvo.com"
+},
+{
+"text": "f",
+"href": "https://www.facebook.com/share/1BAo9UPeDN/"
+},
+{
+"text": "ig",
+"href": "https://www.instagram.com/halefortexas"
+},
+{
+"text": "in",
+"href": "https://www.linkedin.com/in/alexanderbhale"
+},
+{
+"text": "info@halefortexas.com",
+"href": "mailto:info@halefortexas.com"
+},
+{
+"text": "中文",
+"href": "https://www.halefortexas.com/zh/walk.html"
+},
+{
+"text": "𝕏",
+"href": "https://x.com/halefortexas"
+}
 ]

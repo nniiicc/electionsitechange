@@ -1,7 +1,12 @@
 {
- "description": "Nevada Assemblymember Erica Mosca, representing Assembly District 14. I\u2019m proud to serve Southern Nevada and will always stand up for working families by expanding access to education, supporting paid family leave, and addressing housing and climate challenges.",
+ "description": "Nevada Assemblymember Erica Mosca, representing Assembly District 14. I’m proud to serve Southern Nevada and will always stand up for working families by expanding access to education, supporting paid family leave, and addressing housing and climate challenges.",
  "final_url": "https://www.ericamosca.com/",
- "paid_for_by": null,
+ "fingerprint": "ce765b738b9c599afcb0c2188d6667a376099c8c",
+ "format": 3,
+ "paid_for_by": "Authorized by the Committee to Elect Erica Mosca 2126 Citroen St",
  "title": "Assemblymember Erica Mosca | Nevada Assembly District 14",
- "years_mentioned": []
+ "years_mentioned": [
+  "2008",
+  "2025"
+ ]
 }

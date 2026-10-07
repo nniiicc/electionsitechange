@@ -1,12 +1,8 @@
-Cocktail Party
-Time
-Thursday, Oct 22, 2026
-5:00 PM – 8:00 PM
-About this event
-Come spend an evening with Ed Pacheco and Friends at the Wamsutta Club at the Historic James Arnold Mansion.
+Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Events / Cocktail Party Cocktail Party Time Thursday, Oct 22, 2026 5:00 PM – 8:00 PM Location 427 County Street, New Bedford, MA, 02740 Map Pachecoforthepeople.com About this event Come spend an evening with Ed Pacheco and Friends at the Wamsutta Club at the Historic James Arnold Mansion.
 Cash Bar, Light Appetizers, Music.
 Tickets $50 prior to Oct 17, $60 afterwards.
 No Corporate Checks, Please.
 Make check payable to Pacheco Committee or reserve online by making your donation @ pachecoforthepeople.com, click donate, select donation amount and type cocktail in the memo line.
 Tickets will not be issued for this event.
 Please check in upon arrival.
+Map 427 County Street New Bedford, MA 02740 (774) 328-4688 Pachecoforthepeople.com Directions → Add to calendar Sign up for this event First Name Last Name Email Phone Address City/Town State Alabama Alaska American Samoa Arizona Arkansas Armed Forces Americas Armed Forces Europe Armed Forces Pacific California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Marshall Islands Maryland Massachusetts Michigan Micronesia Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Palau Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virgin Islands Virginia Washington West Virginia Wisconsin Wyoming Zip RSVP Share on Facebook Share via email Copy invite link Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

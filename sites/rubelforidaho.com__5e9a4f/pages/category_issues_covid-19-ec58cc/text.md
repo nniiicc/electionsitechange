@@ -1,16 +1,14 @@
-Mar 17, 2021
-Let’s hope we’re heading into the final stretch.
+Donate Volunteer Yard Sign Home Blog / News Legislation Education Environment and Quality of Life Healthcare and Community Safety Endorsements Team D18 Voter Survey Contact Happenings at the Statehouse – March 17, 2021 Mar 17, 2021 Let’s hope we’re heading into the final stretch.
 We now have three House members who tested positive for COVID just this week, so it would seem wise to wrap things up before it gets worse.
 Foster care I wanted to start with some good news.
 Our bill to...
-Jan 14, 2021
-Article: Idaho State Journal Excerpt: “House Minority Leader Ilana Rubel, D-Boise, noted that the motion was pared down at the last minute to make it as narrow as possible, allowing remote voting only for “a member of the House who has a physical impairment that...
-Aug 26, 2020
-Idaho State Capitol – On Wednesday, the Idaho House passed House Bill 6, which would provide immunity from civil liability related to damages or injury from coronavirus, including for grossly negligent conduct.
+1/14/2021 – Article: “Idaho House rejects remote participation amid virus concerns” Jan 14, 2021 Article: Idaho State Journal Excerpt: “House Minority Leader Ilana Rubel, D-Boise, noted that the motion was pared down at the last minute to make it as narrow as possible, allowing remote voting only for “a member of the House who has a physical impairment that...
+Coronavirus Civil Liability Immunity Legislation Passes Idaho House Aug 26, 2020 Idaho State Capitol – On Wednesday, the Idaho House passed House Bill 6, which would provide immunity from civil liability related to damages or injury from coronavirus, including for grossly negligent conduct.
 The legislation now awaits a hearing in the Senate...
-Jul 28, 2020
-In the closing weeks of the 2020 legislative session, it was apparent we were heading into a crisis of unprecedented proportions that would impact not only Idahoans’ health but also our economy, jobs, education system and every other facet of our lives.
+“GOP Legislators deliver gut punch to Idaho businesses” – by Rep.
+Ilana Rubel Jul 28, 2020 In the closing weeks of the 2020 legislative session, it was apparent we were heading into a crisis of unprecedented proportions that would impact not only Idahoans’ health but also our economy, jobs, education system and every other facet of our lives.
 Businesses had...
-Jul 20, 2020
-On Monday, the Idaho Democratic leadership held a press conference to propose a slate of Democratic solutions that would address the impacts of the coronavirus pandemic and set the state on the path to a better future.
+Democrats Propose Slate of Solutions for Idaho Jul 20, 2020 On Monday, the Idaho Democratic leadership held a press conference to propose a slate of Democratic solutions that would address the impacts of the coronavirus pandemic and set the state on the path to a better future.
 Senate Democratic Leader Michelle...
+Search Search All Issues Business / Job Creation Climate Change / Solar Rights Bill COVID 19 Criminal Justice Reform Events First Responders Compensation Gerrymandering / Voting Rights Human Rights Medicaid Expansion / Health Care Public Education Slider State of the State / Revenue Situation Taxes January 2024 September 2022 March 2022 February 2022 January 2022 May 2021 April 2021 March 2021 February 2021 January 2021 October 2020 August 2020 July 2020 June 2020 March 2020 February 2020 January 2020 April 2019 March 2019 February 2019 January 2019 January 2018 January 2017 February 2014 Paid for by Rubel for Idaho | Treasurer Sally Stone 2750 E.
+Migratory Drive, Boise, ID 83706 Follow Follow Follow

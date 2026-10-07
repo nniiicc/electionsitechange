@@ -1,9 +1,5 @@
-⚡ Quick Donate via PayPal
-Click an amount to donate instantly - no form required!
-Make a Contribution
+LM Linda Matthews For Ohio Senate Home About Platform Contact Invest in Ohio's Future Your contribution powers our grassroots campaign to bring conservative leadership to the Ohio Senate. ⚡ Quick Donate via PayPal Click an amount to donate instantly - no form required! $25 $50 $100 $250 $500 Make a Contribution ✓ Redirecting you to PayPal to complete your donation...
 Your donation will be securely processed through PayPal.
-You can pay with your PayPal account or any major credit/debit card.
-Contribution Rules:
-Contributions to Matthews for Ohio Senate are not tax-deductible.
+You can pay with your PayPal account or any major credit/debit card. $25 $50 $100 $250 $500 $1,000 Or enter a custom amount: $ Make this a monthly recurring donation Your Information (Optional - for our records) First Name Last Name Email Address Phone (Optional) Employer Information (Required by FEC for donations over $#) Employer Occupation Donate $100 with PayPal Secure donation processed by PayPal Your Donation Supports: Reaching voters across the district Door-to-door canvassing operations Digital and print advertising Campaign events and rallies Get-out-the-vote efforts "I believe in government that works smarter, not harder—using innovation and common sense to serve every Ohioan." — Linda Matthews Contribution Rules: Contributions to Matthews for Ohio Senate are not tax-deductible.
 Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation, and employer of individuals whose contributions exceed $200 in an election cycle.
 By making this contribution, I confirm that I am a U.S. citizen or lawfully admitted permanent resident, that this contribution is not made from the general treasury funds of a corporation, labor organization, or national bank, and that this contribution is made from my own funds and will not be reimbursed by any other person or entity.

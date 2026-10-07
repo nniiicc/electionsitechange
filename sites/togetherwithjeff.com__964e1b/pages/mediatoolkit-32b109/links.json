@@ -1,30 +1,134 @@
 [
-"http://secure.actblue.com/donate/togetherwithjeffweb",
-"http://twitter.com/jeffsmithdem",
-"https://facebook.com/togetherwithjeff",
-"https://secure.actblue.com/donate/togetherwithjeffweb",
-"https://togetherwithjeff.com/",
-"https://togetherwithjeff.com/2026-endorsements",
-"https://togetherwithjeff.com/district-31",
-"https://togetherwithjeff.com/gallery",
-"https://togetherwithjeff.com/mediatoolkit",
-"https://togetherwithjeff.com/meetjeff",
-"https://togetherwithjeff.com/priorities",
-"https://togetherwithjeff.com/s/Jeff-Smith_-Cheering-with-Supporters",
-"https://togetherwithjeff.com/s/Jeff-Smith_-Health-Care-Professionals",
-"https://togetherwithjeff.com/s/Jeff-Smith_2022-Parade",
-"https://togetherwithjeff.com/s/Jeff-Smith_Arms-Crossed-Headshot",
-"https://togetherwithjeff.com/s/Jeff-Smith_Constituent-at-Cafe",
-"https://togetherwithjeff.com/s/Jeff-Smith_Dairy-Farm",
-"https://togetherwithjeff.com/s/Jeff-Smith_Elementary-School-Students",
-"https://togetherwithjeff.com/s/Jeff-Smith_Lecturn",
-"https://togetherwithjeff.com/s/Jeff-Smith_Manufacturing",
-"https://togetherwithjeff.com/s/Jeff-Smith_Pasture",
-"https://togetherwithjeff.com/s/Jeff-Smith_Right-to-Work-Protest",
-"https://togetherwithjeff.com/s/Jeff-Smith_Speaking-on-Senate-Floor",
-"https://togetherwithjeff.com/s/Jeff-Smith_Speaking-with-Supporter",
-"https://togetherwithjeff.com/s/Jeff-Smith_Window-Cleaning-Truck",
-"https://togetherwithjeff.com/s/Jeff-Smith_Workshop-Tinkering",
-"https://togetherwithjeff.com/search",
-"https://togetherwithjeff.com/volunteerwithjeff"
+{
+"text": "Contribute to Re-elect Senator Jeff Smith",
+"href": "https://secure.actblue.com/donate/togetherwithjeffweb"
+},
+{
+"text": "District 31",
+"href": "https://www.togetherwithjeff.com/district-31"
+},
+{
+"text": "Donate",
+"href": "http://secure.actblue.com/donate/togetherwithjeffweb"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/togetherwithjeffweb"
+},
+{
+"text": "Endorsements",
+"href": "https://www.togetherwithjeff.com/2026-endorsements"
+},
+{
+"text": "Gallery",
+"href": "https://www.togetherwithjeff.com/gallery"
+},
+{
+"text": "Media Toolkit",
+"href": "https://www.togetherwithjeff.com/mediatoolkit"
+},
+{
+"text": "Meet Jeff",
+"href": "https://www.togetherwithjeff.com/meetjeff"
+},
+{
+"text": "Priorities",
+"href": "https://www.togetherwithjeff.com/priorities"
+},
+{
+"text": "Read all about Jeff’s priorities here",
+"href": "https://www.togetherwithjeff.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.togetherwithjeff.com/volunteerwithjeff"
+},
+{
+"text": "Volunteer with Jeff",
+"href": "https://www.togetherwithjeff.com/volunteerwithjeff"
+},
+{
+"text": "[image: A man scoops manure into spreader as a red holstein cow stands in the background watching]",
+"href": "https://www.togetherwithjeff.com/s/Jeff-Smith_Pasture"
+},
+{
+"text": "[image: A man stands facing away from the camera looking into a barn of dairy cattle]",
+"href": "https://www.togetherwithjeff.com/s/Jeff-Smith_Dairy-Farm"
+},
+{
+"text": "[image: A man stands in a large crowd of protestors outdoors with American flag flying overhead]",
+"href": "https://www.togetherwithjeff.com/s/Jeff-Smith_Right-to-Work-Protest"
+},
+{
+"text": "[image: A man stands in the bucket of a white bucket truck]",
+"href": "https://www.togetherwithjeff.com/s/Jeff-Smith_Window-Cleaning-Truck"
+},
+{
+"text": "[image: A man stands on the floor of the Wisconsin State Senate chambers speaking]",
+"href": "https://www.togetherwithjeff.com/s/Jeff-Smith_Speaking-on-Senate-Floor"
+},
+{
+"text": "[image: A white man standing in front of a truck above which two American flags are flying]",
+"href": "https://www.togetherwithjeff.com/s/Jeff-Smith_2022-Parade"
+},
+{
+"text": "[image: Crowd stands in front of Jeff Smith's \"Stop n Talk\" Truck]",
+"href": "https://www.togetherwithjeff.com/s/Jeff-Smith_-Cheering-with-Supporters"
+},
+{
+"text": "[image: Jeff and a constituent sit at an outdoor table of a cafe in front of a mural-painted brick wall]",
+"href": "https://www.togetherwithjeff.com/s/Jeff-Smith_Constituent-at-Cafe"
+},
+{
+"text": "[image: Jeff stands outdoors in front of a hospital emergency room entrance with two health care professionals, one wearing scrubs and one wearing a white doctor's coat]",
+"href": "https://www.togetherwithjeff.com/s/Jeff-Smith_-Health-Care-Professionals"
+},
+{
+"text": "[image: Jeff stands with his arms crossed in front of the open door of his workshop]",
+"href": "https://www.togetherwithjeff.com/s/Jeff-Smith_Arms-Crossed-Headshot"
+},
+{
+"text": "[image: Jeff stands with two men inside a warehouse each wearing protective goggles and high-visibility vests]",
+"href": "https://www.togetherwithjeff.com/s/Jeff-Smith_Manufacturing"
+},
+{
+"text": "[image: Jeff works on an antique car engine in front of a wall full of hanging tools in his workshop]",
+"href": "https://www.togetherwithjeff.com/s/Jeff-Smith_Workshop-Tinkering"
+},
+{
+"text": "[image: Man speaking at lecturn]",
+"href": "https://www.togetherwithjeff.com/s/Jeff-Smith_Lecturn"
+},
+{
+"text": "[image: Together with Jeff Smith]",
+"href": "https://www.togetherwithjeff.com/"
+},
+{
+"text": "[image: Two elementary school students sit with their backs to the camera facing Jeff who is holding a picture open while reading]",
+"href": "https://www.togetherwithjeff.com/s/Jeff-Smith_Elementary-School-Students"
+},
+{
+"text": "[image: Two men stand next to a mailbox on residential street having a conversation]",
+"href": "https://www.togetherwithjeff.com/s/Jeff-Smith_Speaking-with-Supporter"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/jeffsmithdem"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/togetherwithjeff/"
+},
+{
+"text": "[no text]",
+"href": "https://www.togetherwithjeff.com/search"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@togetherwithjeff.com"
+},
+{
+"text": "info@togetherwithjeff.com",
+"href": "mailto:info@togetherwithjeff.com"
+}
 ]

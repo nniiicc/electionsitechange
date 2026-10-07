@@ -1,11 +1,46 @@
 [
-"https://coryfortexas.com/",
-"https://coryfortexas.com/about",
-"https://coryfortexas.com/cart",
-"https://coryfortexas.com/contact",
-"https://coryfortexas.com/donate",
-"https://coryfortexas.com/home",
-"https://coryfortexas.com/privacy-policy",
-"https://linkedin.com/in/coryliujd",
-"https://x.com/coryliu"
+{
+"text": "0",
+"href": "https://www.coryfortexas.com/cart"
+},
+{
+"text": "About Cory",
+"href": "https://www.coryfortexas.com/about"
+},
+{
+"text": "About Cory",
+"href": "https://www.coryfortexas.com/about#about-cory"
+},
+{
+"text": "Contact Us",
+"href": "https://www.coryfortexas.com/contact#form"
+},
+{
+"text": "Donate",
+"href": "https://www.coryfortexas.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.coryfortexas.com/donate#donate"
+},
+{
+"text": "Privacy Policy & Terms of Use",
+"href": "https://www.coryfortexas.com/privacy-policy#statement"
+},
+{
+"text": "[image: Cory Liu for Texas Third Court of Appeals]",
+"href": "https://www.coryfortexas.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.coryfortexas.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/coryliujd"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/coryliu"
+}
 ]

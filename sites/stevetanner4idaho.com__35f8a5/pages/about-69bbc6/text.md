@@ -1,5 +1,4 @@
-About Me
-I was born into a military family.
+Skip to content × Home About Endorsements News Contact Donate About Me I was born into a military family.
 My father was a WW-II Navy corpsman and landed on Okinawa on the first day of the invasion.
 He retired as a captain in the Medical Service Corps as a hospital administrator.
 It goes without saying, that as a child we moved from base to base, from Philadelphia to San Diego to the Subic Bay, Philippines.
@@ -14,12 +13,12 @@ Prior to serving in the Idaho legislature, throughout the years, I worked as a d
 With my wife and youngest son, we relocated to Idaho 9 ½ years ago as political refugees wanting more freedom.
 I saw California change from a state that elected Republican governors to become a one-party leftist playground.
 Many parts of the state are still conservative, but the political structures are so deeply entrenched with socialist thinking.
-I first visited Boise over 30 years ago and fell in love with Idaho right away.
+I first visited Boise over #ago and fell in love with Idaho right away.
 It felt like the America I grew up in.
 People look you in the eye and say “howdy” and make small talk.
 Waving is a thing here and I love that.
 Over the years I visited the Treasure Valley another half-dozen times.
-My wife and I spent a long weekend here about 25 years ago looking to relocate at that time.
+My wife and I spent a long weekend here about #ago looking to relocate at that time.
 It didn’t work out then, but Idaho remained a relocation destination for me.
 Once we finally moved here, we realized that a lot of the things we left in California had already taken root here in Idaho too.
 My assessment of Idaho is most people here hold conservative values, but conservatism comes in different flavors in different parts of the state.
@@ -34,3 +33,6 @@ I am NOT one of those people that put an “R” by their name at election time,
 Not me.
 It is the privilege of a lifetime and a deep honor to serve in the state legislature representing legislative district 13.
 As I promised, I vote consistently according to Idaho Republican platform values.
+Paid for by Steve Tanner 4 Idaho | Treasurer: Treasurer Nicole Hyland © # Steve Tanner for Idaho.
+All rights reserved.
+Powered by Verastly ×

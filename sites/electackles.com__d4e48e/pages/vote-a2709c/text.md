@@ -1,33 +1,3 @@
-HOME
-MEET JANENE
-OUR FIGHT
-ENDORSEMENTS
-EVENTS
-VOLUNTEER
-CONTACT
-YOUR VOTE IS YOUR VOICE ...
-MAKE A PLAN TO VOTE DURING EARLY VOTING Oct 17 - Nov 2
-17 October - 2 November | EARLY VOTING
-5 November | ELECTION DAY
-Verify your Voter Registration Status
-Register to Vote
-Request an Absentee Ballot
-DONATE
-FUNDRAISER
-VOLUNTEER
-FACEBOOK
-Get Updates
-Thank you for signing up!
-Committee to Elect Janene Ackles
-Powered by CampaignPartner.com -
-Political Websites
-HOME
-MEET JANENE
-OUR FIGHT
-ENDORSEMENTS
-EVENTS
-VOLUNTEER
-CONTACT
-Voter Information
-PHOTOS
-Close Menu
+HOME MEET JANENE OUR FIGHT ENDORSEMENTS EVENTS VOLUNTEER CONTACT YOUR VOTE IS YOUR VOICE ...
+MAKE A PLAN TO VOTE DURING EARLY VOTING Oct 17 - Nov 2 17 October - 2 November | EARLY VOTING 5 November | ELECTION DAY Verify your Voter Registration Status Register to Vote Request an Absentee Ballot DONATE FUNDRAISER VOLUNTEER FACEBOOK Get Updates Thank you for signing up!
+Voter Information ENDORSEMENTS EVENTS PHOTOS CONTACT Committee to Elect Janene Ackles Powered by CampaignPartner.com - Political Websites HOME MEET JANENE OUR FIGHT ENDORSEMENTS EVENTS VOLUNTEER CONTACT Voter Information PHOTOS Close Menu

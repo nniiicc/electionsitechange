@@ -1,14 +1,1 @@
-Kitchen Table Solutions Tour
-Media
-Blog
-Issues
-Volunteer
-Yard Sign Request
-Newsletter Sign Up
-Donate
-NY-22 Congressional Candidate Kailee Buller points Blame for Government Shutdown and TSA Delays
-Mar 27, 2026
-Back to Blog
-Talk of The Town – WUTQ
-·
-NY-22 Congressional Candidate Kailee Buller Points Blame for Government Shutdown and TSA Mess
+Kitchen Table Solutions Tour Media Blog Issues Volunteer Yard Sign Request Newsletter Sign Up Donate NY-22 Congressional Candidate Kailee Buller points Blame for Government Shutdown and TSA Delays Mar 27, 2026 Back to Blog Talk of The Town – WUTQ · NY-22 Congressional Candidate Kailee Buller Points Blame for Government Shutdown and TSA Mess Donate Follow Follow Follow Follow PAID FOR BY Kailee for Congress Privacy Policy | Terms & Conditions Contact us: [email protected]

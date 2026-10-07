@@ -1,17 +1,82 @@
 [
-"https://facebook.com/stallworthforpa",
-"https://instagram.com/stallworthforpa",
-"https://secure.actblue.com/donate/stallworthforpa",
-"https://stallworthforpa.com/",
-"https://stallworthforpa.com/about",
-"https://stallworthforpa.com/accessibility-statement",
-"https://stallworthforpa.com/blank-1",
-"https://stallworthforpa.com/blank-3",
-"https://stallworthforpa.com/blog",
-"https://stallworthforpa.com/endorsements",
-"https://stallworthforpa.com/events",
-"https://stallworthforpa.com/join",
-"https://stallworthforpa.com/privacy-policy",
-"https://stallworthforpa.com/students",
-"https://stallworthforpa.com/terms-of-service"
+{
+"text": "About",
+"href": "https://www.stallworthforpa.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.stallworthforpa.com/accessibility-statement"
+},
+{
+"text": "Blog",
+"href": "https://www.stallworthforpa.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/stallworthforpa"
+},
+{
+"text": "Endorsements",
+"href": "https://www.stallworthforpa.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.stallworthforpa.com/events"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.stallworthforpa.com"
+},
+{
+"text": "Home",
+"href": "https://www.stallworthforpa.com"
+},
+{
+"text": "Issues",
+"href": "https://www.stallworthforpa.com/blank-1"
+},
+{
+"text": "Join Us",
+"href": "https://www.stallworthforpa.com/join"
+},
+{
+"text": "Like",
+"href": "https://www.facebook.com/stallworthforpa"
+},
+{
+"text": "Like",
+"href": "https://www.instagram.com/stallworthforpa"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.stallworthforpa.com/privacy-policy"
+},
+{
+"text": "Students for Stallworth",
+"href": "https://www.stallworthforpa.com/students"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.stallworthforpa.com/terms-of-service"
+},
+{
+"text": "Vote",
+"href": "https://www.stallworthforpa.com/blank-3"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/stallworthforpa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/stallworthforpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.stallworthforpa.com/blank-1"
+},
+{
+"text": "hello@stallworthforpa.com",
+"href": "mailto:hello@stallworthforpa.com"
+}
 ]

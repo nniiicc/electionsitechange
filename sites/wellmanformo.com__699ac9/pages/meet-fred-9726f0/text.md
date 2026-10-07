@@ -1,8 +1,6 @@
-Meet Fred
-Fred is a veteran, entrepreneur, and father who has dedicated his life to service — service to his country, his fellow veterans, and the truth.
+0 Skip to Content Meet Fred Policy Volunteer Events Endorsements Merch Media Press Center Blog Contact DONATE Open Menu Close Menu Meet Fred Policy Volunteer Events Endorsements Merch Media Press Center Blog Contact DONATE Open Menu Close Menu Meet Fred Policy Volunteer Events Endorsements Merch Folder: Media Back Press Center Blog Contact DONATE Meet Fred Fred is a veteran, entrepreneur, and father who has dedicated his life to service — service to his country, his fellow veterans, and the truth.
 Now he’s running as a Democrat to serve his friends and neighbors as Missouri’s Second Congressional District’s Representative in Congress.
-Early Life & Military Service
-The Wellmans moved Fred and his three siblings to Kirkwood, Missouri, when Fred was still an infant.
+Early Life & Military Service The Wellmans moved Fred and his three siblings to Kirkwood, Missouri, when Fred was still an infant.
 He grew up in the Kirkwood public schools, graduating from Kirkwood High School in 1983.
 Fred continues to be thankful that his parents made such a wise choice when choosing where to settle down.
 Fred’s siblings all stayed close to home and proudly headed to MIZZOU, but Fred knew he wanted to serve.
@@ -20,9 +18,7 @@ After his second tour in Iraq, Fred decided it was time to go back to school.
 He attended the Harvard Kennedy School, attaining a Master's degree as a Presidential Scholar, Public Service Fellow, and graduating with a Littauer Fellowship.
 But he wasn’t ready for civilian life just yet.
 Fred was posted to the Army Headquarters at the Pentagon and returned to Iraq for one last combat tour.
-After decades in the military, Fred finally retired in 2010
-Post Military Life
-Not long after retiring, Fred launched ScoutComms, a firm focused on serving veterans and military families.
+After decades in the military, Fred finally retired in 2010 Post Military Life Not long after retiring, Fred launched ScoutComms, a firm focused on serving veterans and military families.
 For almost a decade, ScoutComms worked with top nonprofits and corporations to invest in the veteran community.
 Fred and his team would go on to win multiple community awards for their work.
 When COVID hit, Fred was called on to serve once again.
@@ -48,3 +44,8 @@ Today, Fred continues to appreciate his fiancée’s encouragement to move back 
 Together, they live in Wildwood with their dogs, Ash and Maple, and the very opinionated cat, Shugs.
 When he’s not chasing them he is hiking and walking all across the region.
 He insists he’ll still have plenty of time left for them in between fighting to serve us in Congress.
+Support our campaign online here : Donate To contribute by mail, please include your occupation and employer (we can’t accept the donation without it!) and make checks payable to: Wellman for Missouri 15455 Manchester Road, P.O.
+Box 36, Ballwin, MO 63011 PAID FOR BY WELLMAN FOR MISSOURI USE OF MILITARY RANK, JOB TITLES, PHOTOGRAPHS IN UNIFORM, AND THE APPEARANCE OF U.S.
+DEPARTMENT OF DEFENSE VISUAL INFORMATION DOES NOT IMPLY ENDORSEMENT BY THE U.S.
+DEPARTMENT OF DEFENSE OR ANY OF ITS BRANCHES.
+Privacy Policy Media Kit

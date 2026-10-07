@@ -1,6 +1,9 @@
+Home About Issues In the News Action Center Contact Us Merch Home About Issues In the News Action Center Contact Us Merch Donate Donate Crypto Home About Issues In the News Action Center Contact Us Merch Make a Donation Donate Crypto X-twitter Facebook-f Youtube Alabama’s Proven Conservative.
 Trump’s First Elected Endorsement.
 Born and raised in Coffee County, Barry Moore learned early the values that still guide him: faith, family, hard work, and integrity.
 He’s never been part of the political class — just a Christian, small business owner, and conservative fighter.
+Born to Serve.
+Built to Lead.
 Barry grew up in Coffee County, where faith, hard work, and service weren’t slogans — they were a way of life.
 He’s carried those Alabama values with him ever since.
 Barry Moore is Alabama’s true conservative and the first elected official in Alabama to endorse Donald Trump for President in 2016..
@@ -32,6 +35,10 @@ As your United States Senator, Barry will fight, fight, fight, with President Tr
 Since 2015, Barry has stayed loyal to the President and advanced his agenda in Montgomery and DC.
 With the border closed, wages growing, and the Deep State vanquished, Barry and President Trump have made incredible strides – but the work is just beginning.
 Barry and Heather have four children (Jeremy and his wife Brittany, Kathleen and her husband Jack, Claudia and her husband Garrett, and Jeb), two grandchildren, and two dogs.
-He still lives in Coffee County.
-Rep.
-Barry Moore
+He still lives in Coffee County. $10 $25 $50 $100 $250 Donate Donate to Barry’s Campaign!
+“Too many politicians want to make Alabama more like DC.
+I’m running to make DC more like Alabama.” Rep.
+Barry Moore Moore Visits Trussville Join Team Barry!
+Home About Issues In the News Action Center Contact Us Merch Home About Issues In the News Action Center Contact Us Merch Youtube X-twitter Facebook Barry Moore for U.S.
+Senate, All Rights Reserved Press Kit Privacy Policy Paid for by Barry Moore for U.S.
+Senate

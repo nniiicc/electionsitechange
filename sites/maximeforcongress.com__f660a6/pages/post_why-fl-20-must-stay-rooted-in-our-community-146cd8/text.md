@@ -1,7 +1,6 @@
-Why FL-20 Must Stay Rooted in Our Community | Dr.
-Kedner Maxime
-"Give to Caesar what belongs to Caesar." (Matthew 22:21)
-Florida's 20th Congressional District is more than a line on a map.
+top of page Meet Dr.
+Maxime Issues Lower Costs Immigration Healthcare Education Ownership Equity Jobs & Economic Security Small Business Accountability Students & Opportunity Civility & Unity Lower Costs Immigration Healthcare Education Ownership Equity Jobs & Economic Security Small Business Accountability Students & Opportunity Civility & Unity Get Involved Events News DONATE All Posts Why FL-20 Must Stay Rooted in Our Community | Dr.
+Kedner Maxime Kedner Maxime #ago 2 min read "Give to Caesar what belongs to Caesar." (Matthew 22:21) Florida's 20th Congressional District is more than a line on a map.
 It is a historic anchor of Black political power in our state, built on decades of community sacrifice.
 This is the district that gave us leaders like Alcee Hastings.
 It belongs to the people who built it.
@@ -21,21 +20,17 @@ This is also bigger than one district.
 The world is changing.
 Other nations no longer see the United States as the only superpower.
 Now is the time for us to be stronger and truly united, and to build a better future for all of us, no matter which party we belong to.
-Only then can we tackle the issues that matter to every family:
-- Healthcare for all
-- Lower gas prices
-- Lower everyday costs, including property insurance
-- An end to wars overseas
-- Affordable housing
-- Pathways to legal immigration status for people who contribute to our communities and obey the law
-And when I am elected as your next U.S.
+Only then can we tackle the issues that matter to every family: Healthcare for all Lower gas prices Lower everyday costs, including property insurance An end to wars overseas Affordable housing Pathways to legal immigration status for people who contribute to our communities and obey the law And when I am elected as your next U.S.
 Congressman for Florida's 20th District, I will fight for Black representation every single day.
-Join Us
-Roll up your sleeves with the campaign, make a donation to keep this movement going, or see where I will be next in the community.
-You can reach the campaign at (954) 671-7402 or campaign@maximeforcongress.com.
+Join Us Roll up your sleeves with the campaign , make a donation to keep this movement going, or see where I will be next in the community .
+You can reach the campaign at (954) 671-7402 or campaign@maximeforcongress.com .
 And please share this message with your family, your church, and your neighbors.
 Election Day is Tuesday, November 3, 2026, and early voting runs October 19 through November 1.
 This seat belongs to our community.
-Let's keep it that way.
-— Dr.
-Kedner Maxime, Independent for Congress, FL-20
+Let's keep it that way. — Dr.
+Kedner Maxime, Independent for Congress, FL-20 Recent Posts See All Barbershop Series Kicks Off | Dr.
+Kedner Maxime Responding to Laura Loomer's Attacks on Black Women in Politics A Closer Look at Amendment 3 and Our Property Tax Debate DONATE Follow The Campaign A vision for Florida's District 20.
+Dedicated to bringing principled leadership and community-focused advocacy to Washington through grassroots support and donation.
+Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com VOLUNTEER Paid for by Dr.
+Kedner Maxime for Congress.
+Privacy Policy bottom of page

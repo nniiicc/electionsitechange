@@ -1,10 +1,15 @@
 {
  "description": "Explore Cutler&#39;s Centerville campaign for Utah State Legislature. Stay updated with news, events, and subscribe to newsletters for insights.",
  "final_url": "https://votepaulcutler.com/",
- "paid_for_by": null,
+ "fingerprint": "7aea9a1ea39c79c0497047c0351312713d3bd874",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Paul Cutler, Utah State Legislature House District 18",
  "years_mentioned": [
+  "2005",
   "2023",
+  "2024",
+  "2025",
   "2026"
  ]
 }

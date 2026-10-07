@@ -1,11 +1,42 @@
 [
-"https://facebook.com/repjerrygovan",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://govanforsc.com/contact-us",
-"https://govanforsc.com/home",
-"https://govanforsc.com/media",
-"https://govanforsc.com/meet-jerry",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/district-93"
+{
+"text": "Contact Us",
+"href": "https://govanforsc.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/district-93"
+},
+{
+"text": "Home",
+"href": "https://govanforsc.com/home"
+},
+{
+"text": "Media",
+"href": "https://govanforsc.com/media"
+},
+{
+"text": "Meet Jerry",
+"href": "https://govanforsc.com/meet-jerry"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Govan For Education]",
+"href": "https://govanforsc.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/repjerrygovan"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

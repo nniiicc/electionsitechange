@@ -1,7 +1,12 @@
 {
  "description": "Lisa Emerson for Texas House District 126 in 2026 - Offical Campaign Site",
  "final_url": "https://www.tx126.net/blog/",
- "paid_for_by": null,
+ "fingerprint": "93e4a87dcfa76417b78e9285ac03d830d99f9bda",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Blog - Lisa for TX 126",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

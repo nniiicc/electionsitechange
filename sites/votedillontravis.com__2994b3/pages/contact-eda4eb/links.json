@@ -1,10 +1,58 @@
 [
-"https://facebook.com/votedillontravis",
-"https://secure.anedot.com/dillon-travis-for-state-house/f87ae913-1761-412c-a5b0-96553dd210a6",
-"https://votedillontravis.com/",
-"https://votedillontravis.com/contact",
-"https://votedillontravis.com/media",
-"https://votedillontravis.com/privacy-policy",
-"https://votedillontravis.com/terms-and-conditions",
-"https://votedillontravis.com/vote"
+{
+"text": "CONTACT",
+"href": "https://votedillontravis.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/dillon-travis-for-state-house/f87ae913-1761-412c-a5b0-96553dd210a6"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votedillontravis"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://votedillontravis.com/#get-involved"
+},
+{
+"text": "HOME",
+"href": "https://votedillontravis.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://votedillontravis.com/#issues"
+},
+{
+"text": "MEDIA",
+"href": "https://votedillontravis.com/media/"
+},
+{
+"text": "MEET DILLON",
+"href": "https://votedillontravis.com/#meet"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://votedillontravis.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votedillontravis.com/privacy-policy"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://votedillontravis.com/terms-and-conditions/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://votedillontravis.com/terms-and-conditions"
+},
+{
+"text": "VOTE",
+"href": "https://votedillontravis.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://votedillontravis.com"
+}
 ]

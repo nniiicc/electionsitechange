@@ -1,10 +1,1 @@
-Phone Banking Training
-Time
-Thursday, Sep 24, 2026
-6:00 PM – 7:00 PM
-About this event
-Add your event description here
-Map
-328 Hillcrest Drive, Suite 1
-Laurens, SC 29360
-864-733-3670
+Home Meet Michanna Events Endorsements Issues Volunteer Contribute Events / Phone Banking Training Phone Banking Training Time Thursday, Sep 24, 2026 6:00 PM – 7:00 PM Location 328 Hillcrest Drive, Suite 1, Laurens, SC, 29360 Map About this event Add your event description here Map 328 Hillcrest Drive, Suite 1 Laurens, SC 29360 864-733-3670 Directions → Add to calendar Home News Photos Make Endorsement Contact Privacy Policy Committee to Elect Michanna Tate Powered by CampaignPartner.com - Political Campaign Websites Home Meet Michanna Endorsements Issues Events Contribute Volunteer Close Menu

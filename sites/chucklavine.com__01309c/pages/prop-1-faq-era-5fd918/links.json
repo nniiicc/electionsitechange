@@ -1,8 +1,38 @@
 [
-"https://chucklavine.com/",
-"https://chucklavine.com/prop-1-faq-era",
-"https://facebook.com/728783907276934",
-"https://instagram.com/lavine4assembly",
-"https://secure.actblue.com/donate/charles-lavine-1",
-"https://x.com/Lavine4Assembly"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/charles-lavine-1"
+},
+{
+"text": "Home",
+"href": "https://chucklavine.com/"
+},
+{
+"text": "More Information",
+"href": "https://chucklavine.com/prop-1-faq-era"
+},
+{
+"text": "Prop 1 FAQ (ERA)",
+"href": "https://chucklavine.com/prop-1-faq-era"
+},
+{
+"text": "[image: Chuck Lavine for Assembly]",
+"href": "https://chucklavine.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/728783907276934"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lavine4assembly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/Lavine4Assembly"
+},
+{
+"text": "info@chucklavine.com",
+"href": "mailto:info@chucklavine.com"
+}
 ]

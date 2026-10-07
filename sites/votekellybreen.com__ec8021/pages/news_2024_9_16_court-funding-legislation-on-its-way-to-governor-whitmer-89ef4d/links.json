@@ -1,37 +1,158 @@
 [
-"http://theguerrillapolitic.com/",
-"https://cbsnews.com/detroit/news/michigan-attorney-general-dana-nessel-leaders-gun-violence-prevention-town-hall-novi-metro-detroit",
-"https://courts.michigan.gov/administration/offices/scao-main",
-"https://docs.google.com/forms/d/e/1FAIpQLSfOl5DoWS4b7_kfABNbu83veG230TSyzLAqe_uP-JO9C2ZfrA/viewform?usp=sf_link",
-"https://facebook.com/VoteKellyBreen",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2024%2F9%2F16%2Fcourt-funding-legislation-on-its-way-to-governor-whitmer",
-"https://gophouse.org/member/repgrahamfiller/about",
-"https://house.mi.gov/Committee/HCRIM",
-"https://house.mi.gov/Committee/HSJUD",
-"https://housedems.com/kelly-breen",
-"https://instagram.com/kellybreenmi",
-"https://legislature.mi.gov/documents/2023-2024/billintroduced/House/htm/2024-HIB-5534.htm",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2024%2F9%2F16%2Fcourt-funding-legislation-on-its-way-to-governor-whitmer",
-"https://michiganadvance.com/2025/02/17/michigan-lawmakers-decry-trump-moves-against-education-department",
-"https://pinterest.com/pin/create/link?media=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F59126b375016e19a169b8f41%2F1790611812363-2UTQA8QBWXBM3JGKOV17%2FScreenshot+2026-09-28+at+12.09.56%E2%80%AFPM.png&url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2024%2F9%2F16%2Fcourt-funding-legislation-on-its-way-to-governor-whitmer",
-"https://reddit.com/submit?url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2024%2F9%2F16%2Fcourt-funding-legislation-on-its-way-to-governor-whitmer",
-"https://secure.actblue.com/donate/kellybreenwebsite",
-"https://tumblr.com/share/link?url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2024%2F9%2F16%2Fcourt-funding-legislation-on-its-way-to-governor-whitmer",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2024%2F9%2F16%2Fcourt-funding-legislation-on-its-way-to-governor-whitmer",
-"https://votekellybreen.com/",
-"https://votekellybreen.com/about",
-"https://votekellybreen.com/better-education",
-"https://votekellybreen.com/contact",
-"https://votekellybreen.com/endorsements",
-"https://votekellybreen.com/healthier-michigan",
-"https://votekellybreen.com/meetkelly",
-"https://votekellybreen.com/news",
-"https://votekellybreen.com/news?author=5a09b5d26f935eb2a92fcfe5",
-"https://votekellybreen.com/priorities",
-"https://votekellybreen.com/search",
-"https://votekellybreen.com/thriving-michigan",
-"https://votekellybreen.com/tighter-knit",
-"https://votekellybreen.com/updates-in-progress-1",
-"https://votekellybreen.com/volunteer2",
-"https://wemu.org/michigan-news/2024-05-10/court-funding-legislation-on-its-way-to-governor-whitmer"
+{
+"text": "A Better Educated Michigan",
+"href": "https://www.votekellybreen.com/better-education"
+},
+{
+"text": "A Healthier Michigan",
+"href": "https://www.votekellybreen.com/healthier-michigan"
+},
+{
+"text": "A More Affordable Michigan",
+"href": "https://www.votekellybreen.com/thriving-michigan"
+},
+{
+"text": "A Tighter-Knit Michigan",
+"href": "https://www.votekellybreen.com/tighter-knit"
+},
+{
+"text": "About",
+"href": "https://www.votekellybreen.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votekellybreen.com/contact"
+},
+{
+"text": "Court funding legislation on its way to Governor Whitmer",
+"href": "https://www.wemu.org/michigan-news/2024-05-10/court-funding-legislation-on-its-way-to-governor-whitmer"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kellybreenwebsite"
+},
+{
+"text": "Endorsed",
+"href": "https://www.votekellybreen.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votekellybreen.com/endorsements"
+},
+{
+"text": "Facebook0",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2024%2F9%2F16%2Fcourt-funding-legislation-on-its-way-to-governor-whitmer"
+},
+{
+"text": "Get Together",
+"href": "https://www.votekellybreen.com/meetkelly"
+},
+{
+"text": "Graham Filler",
+"href": "https://gophouse.org/member/repgrahamfiller/about"
+},
+{
+"text": "Home",
+"href": "https://www.votekellybreen.com/"
+},
+{
+"text": "House Criminal Justice Committee",
+"href": "https://www.house.mi.gov/Committee/HCRIM"
+},
+{
+"text": "House Judiciary Committee",
+"href": "https://www.house.mi.gov/Committee/HSJUD"
+},
+{
+"text": "In the News",
+"href": "https://www.votekellybreen.com/news"
+},
+{
+"text": "Kelly Breen",
+"href": "https://housedems.com/kelly-breen/"
+},
+{
+"text": "Kelly Breen",
+"href": "https://www.votekellybreen.com/news?author=5a09b5d26f935eb2a92fcfe5"
+},
+{
+"text": "Legislation",
+"href": "https://www.legislature.mi.gov/documents/2023-2024/billintroduced/House/htm/2024-HIB-5534.htm"
+},
+{
+"text": "LinkedIn0",
+"href": "https://www.linkedin.com/shareArticle?mini=true&summary=&url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2024%2F9%2F16%2Fcourt-funding-legislation-on-its-way-to-governor-whitmer"
+},
+{
+"text": "Next Michigan Attorney General Dana Nessel, other leaders hold gun violence prevention town hall in Metro Detroit Kelly BreenApril 1, 2024",
+"href": "https://www.cbsnews.com/detroit/news/michigan-attorney-general-dana-nessel-leaders-gun-violence-prevention-town-hall-novi-metro-detroit/"
+},
+{
+"text": "Pinterest0",
+"href": "https://www.pinterest.com/pin/create/link/?description=&media=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F59126b375016e19a169b8f41%2F1790611812363-2UTQA8QBWXBM3JGKOV17%2FScreenshot+%23+at+12.09.56%E2%80%AFPM.png&url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2024%2F9%2F16%2Fcourt-funding-legislation-on-its-way-to-governor-whitmer"
+},
+{
+"text": "Previous Michigan lawmakers decry Trump moves against education department Kelly BreenFebruary 17, 2025",
+"href": "https://michiganadvance.com/2025/02/17/michigan-lawmakers-decry-trump-moves-against-education-department/"
+},
+{
+"text": "Priorities",
+"href": "https://www.votekellybreen.com/priorities"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfOl5DoWS4b7_kfABNbu83veG230TSyzLAqe_uP-JO9C2ZfrA/viewform?usp=sf_link"
+},
+{
+"text": "Re-Elect Kelly Breen",
+"href": "https://www.votekellybreen.com/updates-in-progress-1"
+},
+{
+"text": "Read more",
+"href": "https://www.wemu.org/michigan-news/2024-05-10/court-funding-legislation-on-its-way-to-governor-whitmer"
+},
+{
+"text": "Reddit",
+"href": "https://www.reddit.com/submit?url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2024%2F9%2F16%2Fcourt-funding-legislation-on-its-way-to-governor-whitmer"
+},
+{
+"text": "State Court Administrative Office",
+"href": "https://www.courts.michigan.gov/administration/offices/scao-main/"
+},
+{
+"text": "THE GUERRILLA POLITIC, LLC",
+"href": "http://www.theguerrillapolitic.com"
+},
+{
+"text": "Tumblr",
+"href": "https://www.tumblr.com/share/link?url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2024%2F9%2F16%2Fcourt-funding-legislation-on-its-way-to-governor-whitmer"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2024%2F9%2F16%2Fcourt-funding-legislation-on-its-way-to-governor-whitmer&text="
+},
+{
+"text": "Volunteer",
+"href": "https://www.votekellybreen.com/volunteer2"
+},
+{
+"text": "[image: Kelly Breen for State Representatitve]",
+"href": "https://www.votekellybreen.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteKellyBreen"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kellybreenmi/"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekellybreen.com/search"
+},
+{
+"text": "[no text]",
+"href": "mailto:hello@kellybreen.com"
+}
 ]

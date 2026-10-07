@@ -1,9 +1,34 @@
 [
-"https://cprforwv.com/",
-"https://cprforwv.com/contact--donate.html",
-"https://cprforwv.com/endorsements.html",
-"https://cprforwv.com/issues.html",
-"https://cprforwv.com/join-team-riley---yard-sign-request.html",
-"https://cprforwv.com/meet-delegate-riley.html",
-"https://cprforwv.com/news.html"
+{
+"text": "Contact & Donate",
+"href": "https://www.cprforwv.com/contact--donate.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cprforwv.com/endorsements.html"
+},
+{
+"text": "Home",
+"href": "https://www.cprforwv.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.cprforwv.com/issues.html"
+},
+{
+"text": "Join Team Riley - Yard Sign Request",
+"href": "https://www.cprforwv.com/join-team-riley---yard-sign-request.html"
+},
+{
+"text": "Meet Delegate Riley",
+"href": "https://www.cprforwv.com/meet-delegate-riley.html"
+},
+{
+"text": "News",
+"href": "https://www.cprforwv.com/news.html"
+},
+{
+"text": "[image: CLAY P. RILEY]",
+"href": "https://www.cprforwv.com/"
+}
 ]

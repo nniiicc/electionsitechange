@@ -1,10 +1,38 @@
 [
-"https://collincountytx.gov/Elections/polling-locations?electionId=70&scheduleType=ev&electionDesc=March+3%2C+2026+Primary+Election",
-"https://facebook.com/CandyNobleHD89",
-"https://instagram.com/candynoble",
-"https://secure.winred.com/candy-noble-campaign/donate2",
-"https://votecandynoble.com/policies/privacy",
-"https://votecandynoble.com/policies/terms",
-"https://votecandynoble.com/proven-record",
-"https://x.com/CandyNobleHD89"
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/candy-noble-campaign/donate2"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/CandyNobleHD89/"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://www.collincountytx.gov/Elections/polling-locations?electionId=70&scheduleType=ev&electionDesc=March+3%2C+2026+Primary+Election"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/candynoble"
+},
+{
+"text": "Proven Record",
+"href": "https://votecandynoble.com/proven-record"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://votecandynoble.com/policies/terms"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/CandyNobleHD89"
+},
+{
+"text": "privacy policy",
+"href": "https://votecandynoble.com/policies/privacy"
+},
+{
+"text": "terms",
+"href": "https://votecandynoble.com/policies/terms"
+}
 ]

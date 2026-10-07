@@ -1,19 +1,74 @@
 [
-"https://bernieperryman.com/",
-"https://bernieperryman.com/about",
-"https://bernieperryman.com/articles",
-"https://bernieperryman.com/audio-ad-transcripts",
-"https://bernieperryman.com/bills",
-"https://bernieperryman.com/contact",
-"https://bernieperryman.com/donate",
-"https://bernieperryman.com/events",
-"https://bernieperryman.com/photos",
-"https://bernieperryman.com/priorities-survey",
-"https://bernieperryman.com/voting",
-"https://facebook.com/bernieforsenate",
-"https://flickr.com/photos/196266196@N04/with/54942125272",
-"https://instagram.com/bernieforsenate",
-"https://mnhouserepublicans.com/whistleblower-portal",
-"https://x.com/bernieforsenate",
-"https://youtube.com/@BerniePerryman"
+{
+"text": "About",
+"href": "https://bernieperryman.com/about/"
+},
+{
+"text": "Articles",
+"href": "https://bernieperryman.com/articles/"
+},
+{
+"text": "Audio Ad Transcripts",
+"href": "https://bernieperryman.com/audio-ad-transcripts/"
+},
+{
+"text": "Bills",
+"href": "https://bernieperryman.com/bills/"
+},
+{
+"text": "Contact",
+"href": "https://bernieperryman.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://bernieperryman.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://bernieperryman.com/events/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/bernieforsenate"
+},
+{
+"text": "Follow",
+"href": "https://www.flickr.com/photos/196266196@N04/with/54942125272/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/bernieforsenate/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@BerniePerryman"
+},
+{
+"text": "Follow",
+"href": "https://x.com/bernieforsenate"
+},
+{
+"text": "Home",
+"href": "https://bernieperryman.com/"
+},
+{
+"text": "MNFraud.com",
+"href": "https://mnhouserepublicans.com/whistleblower-portal/"
+},
+{
+"text": "Photos",
+"href": "https://bernieperryman.com/photos/"
+},
+{
+"text": "Priorities Survey",
+"href": "https://bernieperryman.com/priorities-survey/"
+},
+{
+"text": "Voting",
+"href": "https://bernieperryman.com/voting/"
+},
+{
+"text": "[image: Bernie Perryman for Senate]",
+"href": "https://bernieperryman.com"
+}
 ]

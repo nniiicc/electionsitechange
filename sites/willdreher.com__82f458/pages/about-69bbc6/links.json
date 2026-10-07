@@ -1,13 +1,46 @@
 [
-"https://secure.actblue.com/donate/willdreher",
-"https://willdreher.com/",
-"https://willdreher.com/about",
-"https://willdreher.com/about/unnamed-1",
-"https://willdreher.com/about/unnamed-1-2",
-"https://willdreher.com/endorsements",
-"https://willdreher.com/faq",
-"https://willdreher.com/get-involved",
-"https://willdreher.com/news",
-"https://willdreher.com/platform",
-"https://willdreher.com/unnamed-2"
+{
+"text": "About Will",
+"href": "https://willdreher.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/willdreher"
+},
+{
+"text": "Endorsements",
+"href": "https://willdreher.com/endorsements/"
+},
+{
+"text": "FAQ",
+"href": "https://willdreher.com/faq/"
+},
+{
+"text": "Get Involved",
+"href": "https://willdreher.com/get-involved/"
+},
+{
+"text": "News",
+"href": "https://willdreher.com/news/"
+},
+{
+"text": "Platform",
+"href": "https://willdreher.com/platform/"
+},
+{
+"text": "[image: Will Dreher | Democrat for State Rep | 46th LD]",
+"href": "https://willdreher.com/"
+},
+{
+"text": "[image: unnamed (1)]",
+"href": "https://willdreher.com/about/unnamed-1-2/"
+},
+{
+"text": "[image: unnamed (1)]",
+"href": "https://willdreher.com/about/unnamed-1/"
+},
+{
+"text": "[image: unnamed (2)]",
+"href": "https://willdreher.com/unnamed-2/"
+}
 ]

@@ -1,11 +1,38 @@
 [
-"http://rivetersolutions.com/",
-"https://allisonforarkansas.com/",
-"https://allisonforarkansas.com/about-allison",
-"https://allisonforarkansas.com/contact",
-"https://allisonforarkansas.com/privacy-policy",
-"https://facebook.com/allisonforarkansas",
-"https://goodchange.app/donate/suppo-cd",
-"https://instagram.com/allisonforarkansas",
-"https://x.com/allisonforar"
+{
+"text": "About",
+"href": "https://allisonforarkansas.com/about-allison/"
+},
+{
+"text": "Contact",
+"href": "https://allisonforarkansas.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://goodchange.app/donate/suppo-cd"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/allisonforarkansas/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/allisonforarkansas/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://allisonforarkansas.com/privacy-policy/"
+},
+{
+"text": "Riveter Solutions",
+"href": "http://www.rivetersolutions.com"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/allisonforar/"
+},
+{
+"text": "[image]",
+"href": "https://allisonforarkansas.com/"
+}
 ]

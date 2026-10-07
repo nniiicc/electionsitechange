@@ -1,6 +1,6 @@
-District 2 had a huge win in the primary on June 2nd, and it wasn’t my race.
-The big win was Leah Anderson’s for Minnehaha County Auditor.
-Leah won the Republican primary with 73% of the vote.
+Home Meet Manuel Platform Scorecard News Endorsements Photos Contact News / Big Win in the Primary – and it wasn’t mine… 10 Jun Wednesday, 6:32 PM · 2026 Big Win in the Primary – and it wasn’t mine… District 2 had a huge win in the primary on June 2 nd , and it wasn’t my race.
+The big win was Leah Anderson ’s for Minnehaha County Auditor.
+Leah won the Republican primary with 73% of the vote .
 In California the candidate who raises the most money wins.
 Always.
 Why?
@@ -19,3 +19,4 @@ Yes, I am celebrating my win in the primary.
 I am looking forward to meeting more amazing residents while campaigning for the general election on November 3rd.
 But the real win I am celebrating is that of our Minnehaha County Auditor, Leah Anderson.
 I will be praying big for her to pull through in the general election as well.
+Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

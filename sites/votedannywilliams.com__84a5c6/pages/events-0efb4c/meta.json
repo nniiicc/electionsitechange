@@ -1,9 +1,12 @@
 {
  "description": "Stay updated with Danny Williams' campaign events in Oklahoma. Attend rallies, town halls, and meet Danny Williams OK. Join us and support the movement.",
  "final_url": "https://www.votedannywilliams.com/events",
+ "fingerprint": "c9bb91e2a3d2d23b33cfb194ba1b9ac6feb84b2a",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Danny Williams 2026",
  "title": "Danny Williams Oklahoma Campaign Events | Danny Williams OK-Vote Danny Williams",
  "years_mentioned": [
-  "2024"
+  "2024",
+  "2026"
  ]
 }

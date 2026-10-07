@@ -1,39 +1,154 @@
 [
-"http://cityofparma-oh.gov/en-US/City-Council.aspx",
-"https://allfaithspantry.org/",
-"https://archives.gov/founding-docs/constitution-transcript",
-"https://ashbrook.org/news/teaching-past-and-present-city-council-president-and-government-teacher-sean-brennan",
-"https://brennanforohio.com/contact-sean",
-"https://brennanforohio.com/district-14-maps",
-"https://brennanforohio.com/home",
-"https://brennanforohio.com/official",
-"https://brennanforohio.com/sean%E2%80%99s-useful-web-links",
-"https://brennanforohio.com/sean-city-council-record",
-"https://brennanforohio.com/sean-on-the-issues",
-"https://brennanforohio.com/seans-community-service",
-"https://brennanforohio.com/seans-photo-gallery",
-"https://brennanforohio.com/seans-promises",
-"https://brennanforohio.com/testimonials",
-"https://brennanforohio.com/we-endorse-sean",
-"https://cleveland.com/community/2020/05/parma-city-council-president-and-bbhhs-teacher-sean-brennan-receives-neoeas-positive-image-award.html",
-"https://cleveland.com/community/2020/12/parma-runner-marks-his-100th-marathon-with-peanut-butter-drive-talk-of-the-towns.html",
-"https://cleveland.com/parma/2015/04/parma_council_president_sean_b_1.html",
-"https://cleveland.com/seven-hills/2016/12/trafis_and_brennan_share_their_1.html",
-"https://cleveland.com/staff/SeanBrennan/index.html",
-"https://cleveland19.com/2020/12/04/parma-city-council-presidents-marathon-will-benefit-local-food-pantry",
-"https://cleveland19.com/story/38014579/parma-councilman-aims-to-run-100-marathons",
-"https://facebook.com/brennanforohio",
-"https://fb.watch/7-S9urAZYE",
-"https://fox8.com/news/script-parma-sign-unveiled",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://joyce.house.gov/press-releases/joyce-takes-main-street-tour-in-brecksville",
-"https://legislature.ohio.gov/Assets/Laws/Constitution.pdf",
-"https://mountvernon.org/blog/2018/09/a-teachers-perspective-george-washington-and-the-principles-of-the-constitution",
-"https://news5cleveland.com/news/e-team/city-council-president-raising-the-money-through-his-own-non-profit",
-"https://parmayps.com/2020/03/23/qa-with-city-council-president-sean-brennan",
-"https://runsignup.com/Race/OH/Parma/runwalkforpierogies",
-"https://wkyc.com/article/features/brecksville-broadview-heights-high-school-teacher-runs-marathons-through-students-neighborhoods-to-boost-morale/95-44be985a-0bc4-40ba-ac3c-78eabf7a58f0",
-"https://x.com/BrennanForOhio",
-"https://youtu.be/x7iN_N85ReI",
-"https://youtube.com/watch?v=TeL7QO8ijAc"
+{
+"text": "A Teacher's Perspective: George Washington and the Principles of the Constitution",
+"href": "https://www.mountvernon.org/blog/2018/09/a-teachers-perspective-george-washington-and-the-principles-of-the-constitution/"
+},
+{
+"text": "Brennan For OhioBrennan For OhioBrennan For OhioBrennan For Ohio",
+"href": "https://brennanforohio.com/home"
+},
+{
+"text": "Congressman Dave Joyce Takes Main Street Tour",
+"href": "https://joyce.house.gov/press-releases/joyce-takes-main-street-tour-in-brecksville"
+},
+{
+"text": "Contact Sean",
+"href": "https://brennanforohio.com/contact-sean"
+},
+{
+"text": "District 14 Maps",
+"href": "https://brennanforohio.com/district-14-maps"
+},
+{
+"text": "Home",
+"href": "https://brennanforohio.com/home"
+},
+{
+"text": "Naturalization Ceremony Planned by Sean",
+"href": "https://www.youtube.com/watch?v=TeL7QO8ijAc"
+},
+{
+"text": "Official",
+"href": "https://brennanforohio.com/official"
+},
+{
+"text": "Parma City Council President and BBHHS teacher Sean Brennan receives NEOEA’s Positive Image Award",
+"href": "https://www.cleveland.com/community/2020/05/parma-city-council-president-and-bbhhs-teacher-sean-brennan-receives-neoeas-positive-image-award.html"
+},
+{
+"text": "Parma City Council president’s 100th marathon will benefit local food pantry",
+"href": "https://www.cleveland19.com/2020/12/04/parma-city-council-presidents-marathon-will-benefit-local-food-pantry/"
+},
+{
+"text": "Parma Council President Runs the Boston Marathon",
+"href": "https://www.cleveland.com/parma/2015/04/parma_council_president_sean_b_1.html"
+},
+{
+"text": "Parma Councilman Aims to Run 100 Marathons",
+"href": "https://www.cleveland19.com/story/38014579/parma-councilman-aims-to-run-100-marathons/"
+},
+{
+"text": "Parma Raising $15,000 for its own \"script sign\"",
+"href": "https://www.news5cleveland.com/news/e-team/city-council-president-raising-the-money-through-his-own-non-profit"
+},
+{
+"text": "Parma Young Professionals Spotlight Sean Brennan",
+"href": "https://parmayps.com/2020/03/23/qa-with-city-council-president-sean-brennan/"
+},
+{
+"text": "Runner Marks 100th Marathon with Peanut Butter Drive",
+"href": "https://www.cleveland.com/community/2020/12/parma-runner-marks-his-100th-marathon-with-peanut-butter-drive-talk-of-the-towns.html"
+},
+{
+"text": "Script Parma Sign Unveiled",
+"href": "https://fox8.com/news/script-parma-sign-unveiled/"
+},
+{
+"text": "Sean Brennan - A Real Teacher Hero",
+"href": "https://youtu.be/x7iN_N85ReI%20"
+},
+{
+"text": "Sean Brennan on Cleveland.com",
+"href": "https://www.cleveland.com/staff/SeanBrennan/index.html"
+},
+{
+"text": "Sean City Council Record",
+"href": "https://brennanforohio.com/sean-city-council-record"
+},
+{
+"text": "Sean On the Issues",
+"href": "https://brennanforohio.com/sean-on-the-issues"
+},
+{
+"text": "Sean is Awarded the Cleveland Cavs Head of the Class Award",
+"href": "https://fb.watch/7-S9urAZYE/"
+},
+{
+"text": "Sean's Community Service",
+"href": "https://brennanforohio.com/seans-community-service"
+},
+{
+"text": "Sean's Photo Gallery",
+"href": "https://brennanforohio.com/seans-photo-gallery"
+},
+{
+"text": "Sean's Promises",
+"href": "https://brennanforohio.com/seans-promises"
+},
+{
+"text": "Sean’s Useful Web Links",
+"href": "https://brennanforohio.com/sean%E2%80%99s-useful-web-links"
+},
+{
+"text": "Teacher Runs Marathon through Students Neighborhoods to Boost Morale",
+"href": "https://www.wkyc.com/article/features/brecksville-broadview-heights-high-school-teacher-runs-marathons-through-students-neighborhoods-to-boost-morale/95-44be985a-0bc4-40ba-ac3c-78eabf7a58f0"
+},
+{
+"text": "Teaching Past and Present: City Council President and Government Teacher Sean Brennan",
+"href": "https://ashbrook.org/news/teaching-past-and-present-city-council-president-and-government-teacher-sean-brennan/"
+},
+{
+"text": "Testimonials",
+"href": "https://brennanforohio.com/testimonials"
+},
+{
+"text": "Trafis and Brennan Share their Admiration for John Glenn",
+"href": "https://www.cleveland.com/seven-hills/2016/12/trafis_and_brennan_share_their_1.html"
+},
+{
+"text": "We Endorse Sean!",
+"href": "https://brennanforohio.com/we-endorse-sean"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/brennanforohio"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/BrennanForOhio"
+},
+{
+"text": "http://cityofparma-oh.gov/en-US/City-Council.aspx",
+"href": "http://cityofparma-oh.gov/en-US/City-Council.aspx"
+},
+{
+"text": "https://allfaithspantry.org/",
+"href": "https://allfaithspantry.org/"
+},
+{
+"text": "https://runsignup.com/Race/OH/Parma/runwalkforpierogies",
+"href": "https://runsignup.com/Race/OH/Parma/runwalkforpierogies"
+},
+{
+"text": "https://www.archives.gov/founding-docs/constitution-transcript",
+"href": "https://www.archives.gov/founding-docs/constitution-transcript%C2%A0"
+},
+{
+"text": "https://www.legislature.ohio.gov/Assets/Laws/Constitution.pdf",
+"href": "https://www.legislature.ohio.gov/Assets/Laws/Constitution.pdf%C2%A0"
+}
 ]

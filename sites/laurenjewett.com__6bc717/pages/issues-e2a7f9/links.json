@@ -1,38 +1,154 @@
 [
-"https://bsky.app/profile/doitjewett.bsky.social",
-"https://docs.google.com/forms/d/e/1FAIpQLScjW7jw_HJbn1SID7BwG_IV_gjStSjfoCibQCosi-OLK8vKeg/viewform",
-"https://facebook.com/electlaurenjewett",
-"https://instagram.com/electlaurenjewett",
-"https://laurenjewett.com/",
-"https://laurenjewett.com/about",
-"https://laurenjewett.com/accessibility",
-"https://laurenjewett.com/contact",
-"https://laurenjewett.com/district-voting",
-"https://laurenjewett.com/endorsements",
-"https://laurenjewett.com/events",
-"https://laurenjewett.com/issues",
-"https://laurenjewett.com/issues/affordable-housing",
-"https://laurenjewett.com/issues/agriculture-and-seafood",
-"https://laurenjewett.com/issues/clean-energy-coast-environment",
-"https://laurenjewett.com/issues/congressional-accountability",
-"https://laurenjewett.com/issues/foreign-policy",
-"https://laurenjewett.com/issues/immigration",
-"https://laurenjewett.com/issues/infrastructure",
-"https://laurenjewett.com/issues/insurance-costs",
-"https://laurenjewett.com/issues/modern-economy",
-"https://laurenjewett.com/issues/protect-the-right-to-vote",
-"https://laurenjewett.com/issues/public-safety",
-"https://laurenjewett.com/issues/quality-healthcare",
-"https://laurenjewett.com/issues/social-security",
-"https://laurenjewett.com/issues/stronger-schools",
-"https://laurenjewett.com/privacy-policy",
-"https://laurenjewett.com/volunteer",
-"https://secure.numero.ai/contribute/laurenjewett",
-"https://secure.numero.ai/contribute/laurenjewett?amount=100",
-"https://secure.numero.ai/contribute/laurenjewett?amount=25",
-"https://secure.numero.ai/contribute/laurenjewett?amount=250",
-"https://secure.numero.ai/contribute/laurenjewett?amount=50",
-"https://tiktok.com/@electlaurenjewett",
-"https://x.com/ElectLJewett",
-"https://youtube.com/@ElectLaurenJewett"
+{
+"text": "$100",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=50"
+},
+{
+"text": "Accessibility",
+"href": "https://www.laurenjewett.com/accessibility"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.numero.ai/contribute/laurenjewett"
+},
+{
+"text": "Contact",
+"href": "https://www.laurenjewett.com/contact"
+},
+{
+"text": "District & Voting",
+"href": "https://www.laurenjewett.com/district-voting"
+},
+{
+"text": "Endorsements",
+"href": "https://www.laurenjewett.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.laurenjewett.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.laurenjewett.com/issues"
+},
+{
+"text": "Lauren Jewett for Congress - Return to homepage[image: Lauren Jewett for Congress LA-01 campaign logo]",
+"href": "https://www.laurenjewett.com/"
+},
+{
+"text": "Lauren Jewett for Congress[image: Lauren Jewett for Congress LA-01]",
+"href": "https://www.laurenjewett.com/"
+},
+{
+"text": "Meet Lauren",
+"href": "https://www.laurenjewett.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.laurenjewett.com/privacy-policy"
+},
+{
+"text": "Read more about Affordable Housing, Stronger Communities",
+"href": "https://www.laurenjewett.com/issues/affordable-housing"
+},
+{
+"text": "Read more about Defend Social Security",
+"href": "https://www.laurenjewett.com/issues/social-security"
+},
+{
+"text": "Read more about Foreign Policy and International Diplomacy",
+"href": "https://www.laurenjewett.com/issues/foreign-policy"
+},
+{
+"text": "Read more about Good Jobs and Benefits, Modern Economy",
+"href": "https://www.laurenjewett.com/issues/modern-economy"
+},
+{
+"text": "Read more about Hold Congress Accountable",
+"href": "https://www.laurenjewett.com/issues/congressional-accountability"
+},
+{
+"text": "Read more about Immigration",
+"href": "https://www.laurenjewett.com/issues/immigration"
+},
+{
+"text": "Read more about Infrastructure That Works for Everyone",
+"href": "https://www.laurenjewett.com/issues/infrastructure"
+},
+{
+"text": "Read more about Promote Clean Energy, Protect Our Coast and Environment",
+"href": "https://www.laurenjewett.com/issues/clean-energy-coast-environment"
+},
+{
+"text": "Read more about Protect the Right to Vote",
+"href": "https://www.laurenjewett.com/issues/protect-the-right-to-vote"
+},
+{
+"text": "Read more about Public Safety",
+"href": "https://www.laurenjewett.com/issues/public-safety"
+},
+{
+"text": "Read more about Quality Healthcare is a Human Right for Every Community",
+"href": "https://www.laurenjewett.com/issues/quality-healthcare"
+},
+{
+"text": "Read more about Skyrocketing Insurance Costs",
+"href": "https://www.laurenjewett.com/issues/insurance-costs"
+},
+{
+"text": "Read more about Stronger Education for Every Child and Adult",
+"href": "https://www.laurenjewett.com/issues/stronger-schools"
+},
+{
+"text": "Read more about Support Local Agriculture and Seafood",
+"href": "https://www.laurenjewett.com/issues/agriculture-and-seafood"
+},
+{
+"text": "Share Your Ideas →",
+"href": "https://www.laurenjewett.com/contact"
+},
+{
+"text": "Volunteer",
+"href": "https://www.laurenjewett.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScjW7jw_HJbn1SID7BwG_IV_gjStSjfoCibQCosi-OLK8vKeg/viewform"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/doitjewett.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ElectLaurenJewett"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ElectLJewett"
+}
 ]

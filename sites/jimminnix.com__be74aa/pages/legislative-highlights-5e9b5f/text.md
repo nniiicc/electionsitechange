@@ -1,8 +1,4 @@
-The Kansas Legislature addresses many issues during each session.
+↓ Home Mobile Menu ↓ Skip to primary content Skip to secondary content Home About Jim News Jim in the News Jim’s Newsletters Legislature Jim in the Legislature Legislative Highlights Policy Resources Resource Links House District 118 Contact Donate Jim Minnix for Kansas House Kansas House District 118 Legislative Highlights The Kansas Legislature addresses many issues during each session.
 Some of these legislative actions are “high profile” and reported regularly in the news; many are not – but, all actions by the Legislature do to some greater or lesser degree affect the citizens of Kansas.
-Highlights – 2023 Legislative Session:
-Highlights – 2022 Legislative Session:
-- 2022 Legislative Highlights
-- 2022 Summary of Legislation
-- Interim Committee Reports
-- 2022 Legislator Briefing Book
+Highlights – 2023 Legislative Session: Performance Measures for FY 2023 Budget Interim Committee Reports 2023 Legislator Briefing Book Highlights – 2022 Legislative Session: 2022 Legislative Highlights 2022 Summary of Legislation Interim Committee Reports 2022 Legislator Briefing Book Highlights – 2021 Legislative Session: 2021 Legislative Highlights 2021 Summary of Legislation Committee Reports to the 2021 Kansas Legislature Committee Reports to the 2021 Kansas Legislature – Supplement 2021 Legislator Briefing Book Highlights Archive – Earlier Sessions Jim’s Mailing List Subscribe to Jim’s mailing list .
+Minnix for Kansas House Kansas Legislature About the Legislature The Kansas House Find Your Legislator Kansas Legislative Guide Contact Jim 8101 W Road 40 Scott City, Kansas 67871 Phone: 620-874-4498 jimminnix@icloud.com Paid for by Minnix for Kansas House | Perry Nowak, Treasurer ↑

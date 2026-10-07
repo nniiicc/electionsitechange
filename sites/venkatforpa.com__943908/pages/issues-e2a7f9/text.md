@@ -1,2 +1,2 @@
-My focus is on building a better future for all of our communities.
-Reproductive Health and Liberty Public Safety Healthcare Good Government Gun Violence Infrastructure Education Environment
+0 Skip to Content About Issues News Contact Donate Today Open Menu Close Menu Donate Today About Issues News Contact Open Menu Close Menu About Issues News Contact Donate Today My focus is on building a better future for all of our communities.
+Reproductive Health and Liberty Public Safety Healthcare Good Government Gun Violence Infrastructure Education Environment Donate Supported by Friends of Arvind Venkat PO Box 489 - Wexford, PA 15090 info@venkatforpa.com Issues About News Contact

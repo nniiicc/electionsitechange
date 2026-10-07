@@ -1,5 +1,4 @@
-Global Strategy for State Lands Use and Preservation
-We need a global strategy for state land parcels in Teton County.
+About Positions Endorsements Voter Info News Contact Support About Positions Endorsements Voter Info News Contact Support Global Strategy for State Lands Use and Preservation We need a global strategy for state land parcels in Teton County.
 The parcels exist to provide funding for Wyoming schools, benefiting the school children of Wyoming in perpetuity.
 As a community, we once again find ourselves at odds with the State Board of Land Commissioners with the recent decision to lease the state lands parcel on highway 390 for storage and the Munger Mountain parcel for a high-end camping site.
 We can achieve the goals of state lands and State Board of Land Commissioners (SBLC) while maintaining the community character of these parcels.
@@ -20,3 +19,4 @@ How much money can/should we generate for schools and by when?
 With the ongoing changes in the energy economy, our state continues to experience significant budget cuts and schools are facing major budgetary challenges.
 We should have a dedicated person charged with monitoring land values, opportunities, and local regulations for school parcels.
 I am asking for your vote in November to continue to advocate for Teton County, for Wyoming, and for our schools.
+Frederick Mountain Group August 27, 2022 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr Pinterest 0 0 Likes Previous Travel and Recreation Committee - August & September Updates Frederick Mountain Group September 15, 2022 Next How to Reduce Property Taxes Frederick Mountain Group August 27, 2022 ©# Paid for by the Committee to Elect Mike Gierau PO 2975 Jackson, WY 83001

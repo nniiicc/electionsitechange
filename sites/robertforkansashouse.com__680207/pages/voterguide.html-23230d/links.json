@@ -1,8 +1,34 @@
 [
-"https://open.spotify.com/show/4aHryqMRcsBQRwAW1e3NXI",
-"https://robertforkansashouse.com/index.html",
-"https://robertforkansashouse.com/issues.html",
-"https://robertforkansashouse.com/map.html",
-"https://robertforkansashouse.com/voterguide.html",
-"https://secure.anedot.com/robert-whitman-for-kansas-house/donate"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/robert-whitman-for-kansas-house/donate%0A"
+},
+{
+"text": "District Map",
+"href": "https://robertforkansashouse.com/map.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/robert-whitman-for-kansas-house/donate"
+},
+{
+"text": "Email Robert",
+"href": "mailto:robert@robertforkansashouse.com"
+},
+{
+"text": "Home",
+"href": "https://robertforkansashouse.com/index.html"
+},
+{
+"text": "Issues",
+"href": "https://robertforkansashouse.com/issues.html"
+},
+{
+"text": "Listen to my podcast on Spotify",
+"href": "https://open.spotify.com/show/4aHryqMRcsBQRwAW1e3NXI"
+},
+{
+"text": "Voter Guide",
+"href": "https://robertforkansashouse.com/voterguide.html"
+}
 ]

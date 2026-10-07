@@ -1,8 +1,8 @@
-The Plan
-This is how we take our government back
-We don't have to have a majority in the house to be heard, we just have to take the majority from the two parties.
+top of page Home The Plan About Get Involved Contact Jeff Birdsall For Colorado State Representative District 53 SUBSCRIBE The Plan This is how we take our government back We don't have to have a majority in the house to be heard, we just have to take the majority from the two parties.
 The divide is always so razor thin that it doesn't take many seats to create what I call "The Wedge".
 If we can stand up and reject the trend of money first, nation second, than we can shape this country to be what we want.
 It takes a simple majority to pass a bill in the house.
 By taking the majority from both parties, they are forced to get our votes to move any bill, which gives us the leverage to implement amendments to chip away at the power the oligarchy has over the system.
-We will either get what we want, stop legislation from passing, or the two parties will start working together to circumnavigate The Honest Fight, which will be very eye opening to the public, to see a blatant disregard for what the people want, and constant support for the oligarchy.
+We will either get what we want, stop legislation from passing, or the two parties will start working together to circumnavigate The Honest Fight, which will be very eye opening to the public, to see a blatant disregard for what the people want, and constant support for the oligarchy. -No candidate can accept donations outside of their districts -It should be illegal for representatives to become lobbyists after their term -It should be illegal for representatives or their immediate family to buy and sells stocks while in office -Representatives should be required to announce who their top 10 donors are before speaking -Super PACs should be illegal, we need to strike down Citizens United -Lobbyist gifts should be illegal This is the goal START CHANGING Let's Get to Work!
+VOLUNTEER STAY CONNECTED Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+Home The Plan About Me Get Involved Contact Jeff Birdsall - FOR STATE REP - Thehonestfight@gmail.com (540) 540-5580 bottom of page

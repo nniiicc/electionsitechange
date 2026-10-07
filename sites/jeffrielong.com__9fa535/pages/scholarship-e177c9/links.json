@@ -1,18 +1,82 @@
 [
-"http://mdelect.net/",
-"http://mhec.state.md.us/financialaid/Unique%20Major%20Application%2003202013%202.pdf",
-"https://docs.google.com/forms/d/e/1FAIpQLSeJ9vzZO54ToWGc9TCXnej9NHxlffO19Y53iIBOs_9s8enGvQ/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSeZxVwqJ_coMzqiubOplGeAxJj38Q3j5hlEh4xSkA1S4NyBtA/viewform",
-"https://facebook.com/jeffrielongjr",
-"https://instagram.com/jeffrielongjr",
-"https://jeffrielong.com/",
-"https://jeffrielong.com/about",
-"https://jeffrielong.com/calvert-resoruces",
-"https://jeffrielong.com/platform",
-"https://jeffrielong.com/prince-georges-resources",
-"https://jeffrielong.com/scholarship",
-"https://jeffrielong.com/updates",
-"https://secure.actblue.com/donate/friends-of-jeffrie-long-2",
-"https://studentaid.gov/h/apply-for-aid/fafsa",
-"https://twitter.com/jeffrielongjr"
+{
+"text": "About",
+"href": "https://www.jeffrielong.com/about"
+},
+{
+"text": "Calvert County",
+"href": "https://www.jeffrielong.com/calvert-resoruces"
+},
+{
+"text": "Click to Apply to The Delegate Long Scholarship",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeZxVwqJ_coMzqiubOplGeAxJj38Q3j5hlEh4xSkA1S4NyBtA/viewform"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/friends-of-jeffrie-long-2"
+},
+{
+"text": "Free Application for Federal Student Aid",
+"href": "https://studentaid.gov/h/apply-for-aid/fafsa"
+},
+{
+"text": "Issues",
+"href": "https://www.jeffrielong.com/platform"
+},
+{
+"text": "Jeffrie E.",
+"href": "https://www.jeffrielong.com"
+},
+{
+"text": "Legislative Updates",
+"href": "https://www.jeffrielong.com/updates"
+},
+{
+"text": "Long, Jr",
+"href": "https://www.jeffrielong.com"
+},
+{
+"text": "Prince George's County",
+"href": "https://www.jeffrielong.com/prince-georges-resources"
+},
+{
+"text": "Scholarship",
+"href": "https://www.jeffrielong.com/scholarship"
+},
+{
+"text": "Unique Major Application",
+"href": "http://www.mhec.state.md.us/financialaid/Unique%20Major%20Application%2003202013%202.pdf"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/jeffrielongjr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jeffrielongjr/"
+},
+{
+"text": "[image: JeffLongFinal-03.png]",
+"href": "https://www.jeffrielong.com"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/jeffrielongjr"
+},
+{
+"text": "[no text]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeJ9vzZO54ToWGc9TCXnej9NHxlffO19Y53iIBOs_9s8enGvQ/viewform"
+},
+{
+"text": "jeffrie.long@house.state.md.us",
+"href": "mailto:jeffrie.long@house.state.md.us"
+},
+{
+"text": "mdelect.net",
+"href": "http://mdelect.net/"
+},
+{
+"text": "this form",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeJ9vzZO54ToWGc9TCXnej9NHxlffO19Y53iIBOs_9s8enGvQ/viewform"
+}
 ]

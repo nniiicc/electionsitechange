@@ -1,6 +1,22 @@
 [
-"https://facebook.com/gilda.cobbhunter",
-"https://gilda66.com/",
-"https://secure.actblue.com/donate/gildacobbhunter",
-"https://twitter.com/GCobbHunter"
+{
+"text": "Gilda Cobb-Hunter",
+"href": "https://gilda66.com"
+},
+{
+"text": "[image: Donate!][image: Donate!]",
+"href": "https://secure.actblue.com/donate/gildacobbhunter"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/gilda.cobbhunter/"
+},
+{
+"text": "[image: Gilda Cobb-Hunter]",
+"href": "https://gilda66.com"
+},
+{
+"text": "[image: Twitter][image: Twitter]",
+"href": "https://twitter.com/GCobbHunter"
+}
 ]

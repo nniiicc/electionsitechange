@@ -1,17 +1,66 @@
 [
-"https://facebook.com/fallonfortexas",
-"https://fallonforcongress.com/",
-"https://fallonforcongress.com/2020/08/18/pat-fallon-on-the-chris-salcedo-show-2020-08-18",
-"https://fallonforcongress.com/2020/08/19/pat-fallon-on-the-mark-davis-show-2020-08-19",
-"https://fallonforcongress.com/2020/10/09/pat-fallon-on-the-mark-levin-show-2020-10-09",
-"https://fallonforcongress.com/about",
-"https://fallonforcongress.com/contact",
-"https://fallonforcongress.com/donate",
-"https://fallonforcongress.com/endorsements",
-"https://fallonforcongress.com/fake-news",
-"https://fallonforcongress.com/issues",
-"https://fallonforcongress.com/news",
-"https://fallonforcongress.com/privacy",
-"https://fallonforcongress.com/volunteer",
-"https://twitter.com/FallonForTexas"
+{
+"text": "Contact",
+"href": "https://www.fallonforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.fallonforcongress.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fallonforcongress.com/endorsements/"
+},
+{
+"text": "Fake News",
+"href": "https://www.fallonforcongress.com/fake-news/"
+},
+{
+"text": "Home",
+"href": "https://www.fallonforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.fallonforcongress.com/issues/"
+},
+{
+"text": "Meet Pat",
+"href": "https://www.fallonforcongress.com/about/"
+},
+{
+"text": "News",
+"href": "https://www.fallonforcongress.com/news/"
+},
+{
+"text": "Pat Fallon on The Chris Salcedo Show",
+"href": "https://www.fallonforcongress.com/2020/08/18/pat-fallon-on-the-chris-salcedo-show-2020-08-18/"
+},
+{
+"text": "Pat Fallon on The Mark Davis Show",
+"href": "https://www.fallonforcongress.com/2020/08/19/pat-fallon-on-the-mark-davis-show-2020-08-19/"
+},
+{
+"text": "Pat Fallon on The Mark Levin Show",
+"href": "https://www.fallonforcongress.com/2020/10/09/pat-fallon-on-the-mark-levin-show-2020-10-09/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.fallonforcongress.com/privacy/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fallonforcongress.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/FallonForTexas"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/fallonfortexas"
+},
+{
+"text": "[image]",
+"href": "https://www.fallonforcongress.com/"
+}
 ]

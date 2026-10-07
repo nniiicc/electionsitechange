@@ -1,5 +1,6 @@
-ABOUT NICK RONNENBERG
-Nick Ronnenberg is an Army veteran and a longtime Albert Lea resident running for the Minnesota House because he’s tired of watching Saint Paul make a mess and hand the bill to everyone else.
+top of page HOME ABOUT ISSUES Stop the Waste.
+Stop the Fraud.
+Taxes & Cost of Living Back the Blue Second Amendment Faith, Family, and Life Protecting Kids & Girls Sports Education That Gets Results Farmers, Ag, and Rural Minnesota DONATE ABOUT NICK RONNENBERG Nick Ronnenberg is an Army veteran and a longtime Albert Lea resident running for the Minnesota House because he’s tired of watching Saint Paul make a mess and hand the bill to everyone else.
 Nick joined the army right out of high school largely in part because of family tradition.
 His family’s military service goes back generations, and Nick carried that forward with 22 years on active duty, including deployments abroad.
 After, he stayed in through the Army Reserve and served until retirement in 2012.
@@ -17,3 +18,4 @@ He is running to keep what’s working, fix what’s broken, and bring common se
 Nick resides in Albert Lea.
 His three kids are now grown and doing well, and he’s proud of the life they built here.
 For Nick, this campaign is simple: protect what we’ve gained, stand up for southern Minnesota, and make sure the people paying the bills finally have a voice in the Capitol.
+DONATE CONTACT PRIVACY POLICY TERMS & CONDITIONS Prepared and paid for by Ronnenberg For MN PO BOX 21 Albert Lea, MN 56007 bottom of page

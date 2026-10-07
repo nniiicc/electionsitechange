@@ -1,12 +1,78 @@
 [
-"http://facebook.com/barbaraehardt",
-"https://facebook.com/barbaraehardt",
-"https://instagram.com/rep.ehardt.idaho",
-"https://standupidaho.org/",
-"https://standupidaho.org/contribute",
-"https://standupidaho.org/copy-of-contribute",
-"https://standupidaho.org/how-to-vote",
-"https://standupidaho.org/videos",
-"https://standupidaho.org/who-i-am",
-"https://youtube.com/channel/UCfTW7wU_IpcS7Tc9-aQ5pVQ"
+{
+"text": "CONTACT",
+"href": "https://www.standupidaho.org"
+},
+{
+"text": "DONATE",
+"href": "https://www.standupidaho.org/contribute"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/barbaraehardt"
+},
+{
+"text": "GET A YARD SIGN",
+"href": "https://www.standupidaho.org/copy-of-contribute"
+},
+{
+"text": "HELP BARBARA WIN",
+"href": "https://www.standupidaho.org/copy-of-contribute"
+},
+{
+"text": "HOW I VOTE",
+"href": "https://www.standupidaho.org"
+},
+{
+"text": "STAND WITH ME",
+"href": "https://www.standupidaho.org/who-i-am"
+},
+{
+"text": "VIDEOS",
+"href": "https://www.standupidaho.org/videos"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.standupidaho.org/copy-of-contribute"
+},
+{
+"text": "VOTE FOR BARBARA MAY 19th",
+"href": "https://www.standupidaho.org/how-to-vote"
+},
+{
+"text": "WHAT I STAND FOR",
+"href": "https://www.standupidaho.org"
+},
+{
+"text": "WHO I AM",
+"href": "https://www.standupidaho.org"
+},
+{
+"text": "WHO STANDS WITH ME",
+"href": "https://www.standupidaho.org"
+},
+{
+"text": "[image: Barbara-Ehardt.png]",
+"href": "https://www.standupidaho.org"
+},
+{
+"text": "[image: Black Facebook Icon]",
+"href": "https://www.facebook.com/barbaraehardt"
+},
+{
+"text": "[image: Instagram ]",
+"href": "https://www.instagram.com/rep.ehardt.idaho/"
+},
+{
+"text": "[image: Youtube ]",
+"href": "https://www.youtube.com/channel/UCfTW7wU_IpcS7Tc9-aQ5pVQ"
+},
+{
+"text": "[image: republicanlogo.png]",
+"href": "https://www.standupidaho.org"
+},
+{
+"text": "info@standupidaho.org",
+"href": "mailto:info@standupidaho.org?subject=Hi+Barbara%21"
+}
 ]

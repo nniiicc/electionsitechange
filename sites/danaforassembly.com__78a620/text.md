@@ -1,2 +1,2 @@
-“I’m on a mission to build healthy communities in every sense of the word - environmentally healthy, economically healthy, physically and mentally healthy, all through the lens of equity.
-I’m working hard in Albany to deliver results for the Hudson Valley.”
+Skip to content Meet Dana On the Issues Sobre los temas Volunteer Endorsements Email Sign-Up Donate Menu Meet Dana On the Issues Sobre los temas Volunteer Endorsements Email Sign-Up Donate Building Healthy Communities Meet Dana On the Issues Your Support Makes a Difference Volunteer Email Sign Up DONATE “I’m on a mission to build healthy communities in every sense of the word - environmentally healthy, economically healthy, physically and mentally healthy, all through the lens of equity.
+I’m working hard in Albany to deliver results for the Hudson Valley.” Dana Levenberg Join Dana on Social Media Facebook-f Twitter Instagram dana@danaforassembly.com Privacy Policy

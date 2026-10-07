@@ -1,14 +1,58 @@
 [
-"https://claggettforohio.com/",
-"https://claggettforohio.com/about-thad",
-"https://claggettforohio.com/contact-us",
-"https://claggettforohio.com/donate",
-"https://claggettforohio.com/endorsements",
-"https://claggettforohio.com/ivoter-guide",
-"https://claggettforohio.com/media-releases",
-"https://claggettforohio.com/search",
-"https://claggettforohio.com/volunteer",
-"https://claggettforohio.com/yard-sign",
-"https://claggettforohio.com/yard-sign-registration",
-"https://facebook.com/Claggett-For-Ohio-103117627898141"
+{
+"text": "About Thad",
+"href": "https://www.claggettforohio.com/about-thad"
+},
+{
+"text": "Contact Us",
+"href": "https://www.claggettforohio.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://www.claggettforohio.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.claggettforohio.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.claggettforohio.com/"
+},
+{
+"text": "Media Releases",
+"href": "https://www.claggettforohio.com/media-releases"
+},
+{
+"text": "Register",
+"href": "https://www.claggettforohio.com/yard-sign-registration"
+},
+{
+"text": "Volunteer Sign-Up",
+"href": "https://www.claggettforohio.com/volunteer"
+},
+{
+"text": "Yard Sign Sign-Up",
+"href": "https://www.claggettforohio.com/yard-sign"
+},
+{
+"text": "[image: Claggett for Ohio]",
+"href": "https://www.claggettforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.claggettforohio.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Claggett-For-Ohio-103117627898141/"
+},
+{
+"text": "claggettforohio@gmail.com",
+"href": "mailto:claggettforohio@gmail.com"
+},
+{
+"text": "iVoter Guide",
+"href": "https://www.claggettforohio.com/ivoter-guide"
+}
 ]

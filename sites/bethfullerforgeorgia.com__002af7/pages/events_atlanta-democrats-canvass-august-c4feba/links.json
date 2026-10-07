@@ -1,20 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Atlanta+Democrats+Canvass+%7C+August&dates=20260829T150000Z%2F20260829T170000Z",
-"http://maps.google.com/?q=Private+%28RSVP+at+mobilize+link+below%29",
-"https://bethfullerforgeorgia.com/",
-"https://bethfullerforgeorgia.com/articles",
-"https://bethfullerforgeorgia.com/cart",
-"https://bethfullerforgeorgia.com/endorsements",
-"https://bethfullerforgeorgia.com/events",
-"https://bethfullerforgeorgia.com/events/atlanta-democrats-canvass-august?format=ical",
-"https://bethfullerforgeorgia.com/events/canvass-with-georgia-majority",
-"https://bethfullerforgeorgia.com/events/knock-doors-with-north-fulton-dems",
-"https://bethfullerforgeorgia.com/events?tag=Canvassing",
-"https://bethfullerforgeorgia.com/get-involved",
-"https://bethfullerforgeorgia.com/meet-beth",
-"https://bethfullerforgeorgia.com/policy-priorities",
-"https://facebook.com/profile.php?id=61584803198605",
-"https://instagram.com/bethfuller4ga",
-"https://mobilize.us/mobilize/event/991859",
-"https://secure.actblue.com/donate/elizabeth-fuller-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=private+%28rsvp+at+mobilize+link+below%29"
+},
+{
+"text": "0",
+"href": "https://www.bethfullerforgeorgia.com/cart"
+},
+{
+"text": "Articles",
+"href": "https://www.bethfullerforgeorgia.com/articles"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Canvassing",
+"href": "https://www.bethfullerforgeorgia.com/events?tag=Canvassing"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/elizabeth-fuller-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bethfullerforgeorgia.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bethfullerforgeorgia.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Atlanta+Democrats+Canvass+%7C+August&dates=20260829T150000Z%2F20260829T170000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/atlanta-democrats-canvass-august?format=ical"
+},
+{
+"text": "Meet Beth",
+"href": "https://www.bethfullerforgeorgia.com/meet-beth"
+},
+{
+"text": "Next Next August 29 Knock Doors with North Fulton Dems",
+"href": "https://www.bethfullerforgeorgia.com/events/knock-doors-with-north-fulton-dems"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.bethfullerforgeorgia.com/policy-priorities"
+},
+{
+"text": "Previous Previous August 23 Canvass with Georgia Majority",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-with-georgia-majority"
+},
+{
+"text": "[image: Beth Fuller for Georgia | District 53 State House]",
+"href": "https://www.bethfullerforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584803198605"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bethfuller4ga/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@bethfullerforgeorgia.com"
+},
+{
+"text": "https://www.mobilize.us/mobilize/event/991859/",
+"href": "https://www.mobilize.us/mobilize/event/991859/"
+}
 ]

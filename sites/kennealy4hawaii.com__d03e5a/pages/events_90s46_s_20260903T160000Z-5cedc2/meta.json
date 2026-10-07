@@ -1,7 +1,9 @@
 {
  "description": "Add your event description here",
  "final_url": "https://www.kennealy4hawaii.com/events/90s46?s=20260903T160000Z",
- "paid_for_by": null,
+ "fingerprint": "46fa42042476e64ba3cf3f39c06aea01201ec2f1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Sign Waving",
  "years_mentioned": [
   "2026"

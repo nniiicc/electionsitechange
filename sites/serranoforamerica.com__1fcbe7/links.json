@@ -1,9 +1,34 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://secure.anedot.com/serrano-for-america/donate",
-"https://serranoforamerica.com/",
-"https://serranoforamerica.com/data-center-ordinance",
-"https://serranoforamerica.com/jackson-county-reports",
-"https://serranoforamerica.com/jackson-county-reports-ii",
-"https://serranoforamerica.com/stories"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/serrano-for-america/donate"
+},
+{
+"text": "Data Center Ordinance",
+"href": "https://serranoforamerica.com/data-center-ordinance"
+},
+{
+"text": "Home",
+"href": "https://serranoforamerica.com/"
+},
+{
+"text": "Jackson County Reports",
+"href": "https://serranoforamerica.com/jackson-county-reports"
+},
+{
+"text": "Jackson County Reports II",
+"href": "https://serranoforamerica.com/jackson-county-reports-ii"
+},
+{
+"text": "SERRANO FOR AMERICASERRANO FOR AMERICASERRANO FOR AMERICASERRANO FOR AMERICA",
+"href": "https://serranoforamerica.com/"
+},
+{
+"text": "Stories",
+"href": "https://serranoforamerica.com/stories"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

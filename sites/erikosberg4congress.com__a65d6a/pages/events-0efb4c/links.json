@@ -1,66 +1,398 @@
 [
-"https://coraandkrist.com/",
-"https://erikosberg4congres.com/",
-"https://erikosberg4congress.com/",
-"https://erikosberg4congress.com/38doors",
-"https://erikosberg4congress.com/38phones",
-"https://erikosberg4congress.com/accessibility",
-"https://erikosberg4congress.com/events",
-"https://erikosberg4congress.com/get-involved",
-"https://erikosberg4congress.com/join-the-team",
-"https://erikosberg4congress.com/media-toolkit",
-"https://erikosberg4congress.com/meet-erik",
-"https://erikosberg4congress.com/priorities",
-"https://erikosberg4congress.com/priorities/agriculture-the-farm-bill",
-"https://erikosberg4congress.com/priorities/defend-the-constitution",
-"https://erikosberg4congress.com/priorities/environmental-stewardship",
-"https://erikosberg4congress.com/priorities/equal-rights-no-exceptions",
-"https://erikosberg4congress.com/priorities/fighting-fraud-waste-in-government",
-"https://erikosberg4congress.com/priorities/firearms-gun-safety",
-"https://erikosberg4congress.com/priorities/get-corporate-money-out-of-politics",
-"https://erikosberg4congress.com/priorities/healthcare-for-everyone",
-"https://erikosberg4congress.com/priorities/honoring-our-veterans",
-"https://erikosberg4congress.com/priorities/housing-homelessness",
-"https://erikosberg4congress.com/priorities/protecting-our-seniors",
-"https://erikosberg4congress.com/priorities/reproductive-rights",
-"https://erikosberg4congress.com/priorities/strengthening-public-education",
-"https://erikosberg4congress.com/priorities/with-liberty-and-justice-for-all",
-"https://erikosberg4congress.com/priorities/workers-rights-union-protections",
-"https://erikosberg4congress.com/privacy-policy-terms-of-use",
-"https://erikosberg4congress.com/updates",
-"https://erikosberg4congress.com/volunteer-hub",
-"https://erikosberg4congress.com/voting",
-"https://facebook.com/ErikOsbergForCongress",
-"https://instagram.com/ErikOsbergMN",
-"https://mobilize.us/erikosbergforcongress",
-"https://mobilize.us/erikosbergforcongress/event/1034201",
-"https://mobilize.us/erikosbergforcongress/event/1034605",
-"https://mobilize.us/erikosbergforcongress/event/1041182",
-"https://mobilize.us/erikosbergforcongress/event/1044830",
-"https://mobilize.us/erikosbergforcongress/event/1048849",
-"https://mobilize.us/erikosbergforcongress/event/1050393",
-"https://mobilize.us/erikosbergforcongress/event/1050413",
-"https://mobilize.us/erikosbergforcongress/event/1050432",
-"https://mobilize.us/erikosbergforcongress/event/1050569",
-"https://mobilize.us/erikosbergforcongress/event/1050582",
-"https://mobilize.us/erikosbergforcongress/event/1050587",
-"https://mobilize.us/erikosbergforcongress/event/1051286",
-"https://mobilize.us/erikosbergforcongress/event/972527",
-"https://mobilize.us/erikosbergforcongress/event/993722",
-"https://mobilize.us/erikosbergforcongress/event/994092",
-"https://mobilize.us/erikosbergforcongress/event/994101",
-"https://mobilize.us/erikosbergforcongress/event/994105",
-"https://mobilize.us/erikosbergforcongress/event/994112",
-"https://mobilize.us/erikosbergforcongress/event/994118",
-"https://mobilize.us/erikosbergforcongress/event/994122",
-"https://mobilize.us/erikosbergforcongress/event/994127",
-"https://mobilize.us/erikosbergforcongress/event/994129",
-"https://mobilize.us/erikosbergforcongress/event/994134",
-"https://mobilize.us/erikosbergforcongress/event/994171",
-"https://mobilize.us/erikosbergforcongress/event/994173",
-"https://secure.actblue.com/donate/erik-osberg",
-"https://store.erikosberg4congress.com/",
-"https://tiktok.com/@erikosbergmn",
-"https://x.com/ErikOsbergMN",
-"https://youtube.com/@ErikOsbergForCongress"
+{
+"text": "38 Door Club",
+"href": "https://www.erikosberg4congress.com/38doors/"
+},
+{
+"text": "38 Phones Club",
+"href": "https://www.erikosberg4congress.com/38phones/"
+},
+{
+"text": "Accessibility",
+"href": "https://www.erikosberg4congress.com/accessibility/"
+},
+{
+"text": "Agriculture & the Farm Bill",
+"href": "https://www.erikosberg4congress.com/priorities/agriculture-the-farm-bill/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1034201/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1041182/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1044830/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1048849/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1050582/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1050587/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1051286/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1051324/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1054832/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1054835/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1054841/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1054926/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/972527/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/993722/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994092/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994105/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994112/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994118/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994122/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994127/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994129/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994134/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994171/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994173/"
+},
+{
+"text": "Click here for more information",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994191/"
+},
+{
+"text": "Cora+Krist",
+"href": "https://coraandkrist.com"
+},
+{
+"text": "Defend The Constitution",
+"href": "https://www.erikosberg4congress.com/priorities/defend-the-constitution/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/erik-osberg"
+},
+{
+"text": "Doorknock for Erik and local candidates in Pierz",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1050582/"
+},
+{
+"text": "Doorknock for Erik in Clara City",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1054832/"
+},
+{
+"text": "Doorknock for Erik in Glenwood",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1051324/"
+},
+{
+"text": "Doorknock for Erik in Montevideo",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1054841/"
+},
+{
+"text": "Doorknock for Erik in Morris",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1050587/"
+},
+{
+"text": "Doorknock with Erik and Julie in Willmar",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1051286/"
+},
+{
+"text": "Doorknock with Erik in Granite Falls",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1054926/"
+},
+{
+"text": "Doorknock with Erik in Marshall",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1054835/"
+},
+{
+"text": "Doorknock with Team Erik in Alexandria Every Thursday",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1034201/"
+},
+{
+"text": "Doorknock with Team Erik in Lancaster",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1048849/"
+},
+{
+"text": "Environmental Stewardship",
+"href": "https://www.erikosberg4congress.com/priorities/environmental-stewardship/"
+},
+{
+"text": "Equal Rights. No Exceptions.",
+"href": "https://www.erikosberg4congress.com/priorities/equal-rights-no-exceptions/"
+},
+{
+"text": "Erik Osberg for Congress",
+"href": "https://www.erikosberg4congress.com"
+},
+{
+"text": "Erik Osberg for Congress",
+"href": "https://www.mobilize.us/erikosbergforcongress/"
+},
+{
+"text": "Events",
+"href": "https://www.erikosberg4congress.com/events"
+},
+{
+"text": "Events",
+"href": "https://www.erikosberg4congress.com/events/"
+},
+{
+"text": "Fighting Fraud & Waste in Government",
+"href": "https://www.erikosberg4congress.com/priorities/fighting-fraud-waste-in-government/"
+},
+{
+"text": "Firearms & Gun Safety",
+"href": "https://www.erikosberg4congress.com/priorities/firearms-gun-safety/"
+},
+{
+"text": "Get Corporate Money Out of Politics",
+"href": "https://www.erikosberg4congress.com/priorities/get-corporate-money-out-of-politics/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.erikosberg4congress.com/get-involved/"
+},
+{
+"text": "Healthcare for Everyone",
+"href": "https://www.erikosberg4congress.com/priorities/healthcare-for-everyone/"
+},
+{
+"text": "Home",
+"href": "https://erikosberg4congres.com/"
+},
+{
+"text": "Honoring Our Veterans",
+"href": "https://www.erikosberg4congress.com/priorities/honoring-our-veterans/"
+},
+{
+"text": "House Party Hosted by Becky Parker",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1044830/"
+},
+{
+"text": "Housing & Homelessness",
+"href": "https://www.erikosberg4congress.com/priorities/housing-homelessness/"
+},
+{
+"text": "Join The Team",
+"href": "https://www.erikosberg4congress.com/join-the-team/"
+},
+{
+"text": "Kandiyohi County Fish Fry Town Hall",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994112/"
+},
+{
+"text": "Kittson County Fish Fry Town Hall",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994129/"
+},
+{
+"text": "Lincoln County Fish Fry Town Hall",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994122/"
+},
+{
+"text": "Lyon County Fish Fry Town Hall",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994092/"
+},
+{
+"text": "Marshall County Fish Fry Town Hall",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994171/"
+},
+{
+"text": "McLeod County Fish Fry Town Hall",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994105/"
+},
+{
+"text": "Media Toolkit",
+"href": "https://www.erikosberg4congress.com/media-toolkit/"
+},
+{
+"text": "Meet Erik",
+"href": "https://www.erikosberg4congress.com/meet-erik"
+},
+{
+"text": "Meet Erik",
+"href": "https://www.erikosberg4congress.com/meet-erik/"
+},
+{
+"text": "Moorhead Mondays with Team Osberg",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/993722/"
+},
+{
+"text": "Pennington County Fish Fry Town Hall",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994173/"
+},
+{
+"text": "Priorities",
+"href": "https://www.erikosberg4congress.com/priorities/"
+},
+{
+"text": "Privacy Policy & Terms of Use",
+"href": "https://www.erikosberg4congress.com/privacy-policy-terms-of-use/"
+},
+{
+"text": "Privacy Policy and Terms & Conditions.",
+"href": "https://www.erikosberg4congress.com/privacy-policy-terms-of-use/"
+},
+{
+"text": "Protecting Our Seniors",
+"href": "https://www.erikosberg4congress.com/priorities/protecting-our-seniors/"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://www.erikosberg4congress.com/priorities/reproductive-rights/"
+},
+{
+"text": "Roseau County Fish Fry Town Hall",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994134/"
+},
+{
+"text": "Stevens County Fish Fry Town Hall",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994118/"
+},
+{
+"text": "Store",
+"href": "https://store.erikosberg4congress.com"
+},
+{
+"text": "Store",
+"href": "https://store.erikosberg4congress.com/"
+},
+{
+"text": "Strengthening Public Education",
+"href": "https://www.erikosberg4congress.com/priorities/strengthening-public-education/"
+},
+{
+"text": "Thief River Falls Thursdays with Team Osberg",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/1041182/"
+},
+{
+"text": "Traverse County Fish Fry Town Hall",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994127/"
+},
+{
+"text": "Turnout Tuesdays with Team Erik",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/972527/"
+},
+{
+"text": "Updates",
+"href": "https://www.erikosberg4congress.com/updates"
+},
+{
+"text": "Updates",
+"href": "https://www.erikosberg4congress.com/updates/"
+},
+{
+"text": "View More Events On Mobilize",
+"href": "https://www.mobilize.us/erikosbergforcongress/"
+},
+{
+"text": "Volunteer Hub",
+"href": "https://www.erikosberg4congress.com/volunteer-hub/"
+},
+{
+"text": "Voting",
+"href": "https://www.erikosberg4congress.com/voting"
+},
+{
+"text": "Voting",
+"href": "https://www.erikosberg4congress.com/voting/"
+},
+{
+"text": "Wadena County Fish Fry Town Hall",
+"href": "https://www.mobilize.us/erikosbergforcongress/event/994191/"
+},
+{
+"text": "With Liberty and Justice for All",
+"href": "https://www.erikosberg4congress.com/priorities/with-liberty-and-justice-for-all/"
+},
+{
+"text": "Workers’ Rights & Union Protections",
+"href": "https://www.erikosberg4congress.com/priorities/workers-rights-union-protections/"
+},
+{
+"text": "[image: Erik Osberg for Congress]",
+"href": "https://www.erikosberg4congress.com"
+},
+{
+"text": "[image]",
+"href": "hhttps://bsky.app/profile/erikosbergmn.bsky.social"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/ErikOsbergForCongress/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/ErikOsbergMN"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@erikosbergmn"
+},
+{
+"text": "[image]",
+"href": "https://www.x.com/ErikOsbergMN"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@ErikOsbergForCongress"
+},
+{
+"text": "info@erikosberg4congress.com",
+"href": "mailto:info@erikosberg4congress.com"
+}
 ]

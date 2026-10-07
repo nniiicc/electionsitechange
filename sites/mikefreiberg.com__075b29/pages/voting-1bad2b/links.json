@@ -1,18 +1,70 @@
 [
-"https://crystalmn.gov/resident/voting_and_elections",
-"https://facebook.com/FreibergForStateSenator",
-"https://gis.lcc.mn.gov/pdf/leg2022/senate/43.pdf",
-"https://goldenvalleymn.gov/224/Voting-Elections",
-"https://mikefreiberg.com/",
-"https://mikefreiberg.com/accomplishments",
-"https://mikefreiberg.com/donate",
-"https://mikefreiberg.com/endorsements",
-"https://mikefreiberg.com/events",
-"https://mikefreiberg.com/issues",
-"https://mikefreiberg.com/media",
-"https://mikefreiberg.com/voting",
-"https://newhopemn.gov/city_hall/city_clerk/elections",
-"https://plymouthmn.gov/departments/administrative-services-/city-clerk/elections",
-"https://robbinsdalemn.com/209/Early-Voting",
-"https://sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-in-person"
+{
+"text": "Accomplishments",
+"href": "https://www.mikefreiberg.com/accomplishments"
+},
+{
+"text": "Crystal",
+"href": "https://www.crystalmn.gov/resident/voting_and_elections"
+},
+{
+"text": "Donate",
+"href": "https://www.mikefreiberg.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mikefreiberg.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mikefreiberg.com/events"
+},
+{
+"text": "Golden Valley",
+"href": "https://www.goldenvalleymn.gov/224/Voting-Elections"
+},
+{
+"text": "Here is a map of the district",
+"href": "https://gis.lcc.mn.gov/pdf/leg2022/senate/43.pdf"
+},
+{
+"text": "Issues",
+"href": "https://www.mikefreiberg.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.mikefreiberg.com/media"
+},
+{
+"text": "Mike Freiberg",
+"href": "https://www.mikefreiberg.com"
+},
+{
+"text": "Minnesota Secretary of State",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-in-person/"
+},
+{
+"text": "New Hope",
+"href": "https://www.newhopemn.gov/city_hall/city_clerk/elections"
+},
+{
+"text": "Plymouth",
+"href": "https://www.plymouthmn.gov/departments/administrative-services-/city-clerk/elections"
+},
+{
+"text": "Robbinsdale",
+"href": "https://www.robbinsdalemn.com/209/Early-Voting"
+},
+{
+"text": "Voting",
+"href": "https://www.mikefreiberg.com/voting"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/FreibergForStateSenator/"
+},
+{
+"text": "freibergforsenate@gmail.com",
+"href": "mailto:freibergforsenate@gmail.com"
+}
 ]

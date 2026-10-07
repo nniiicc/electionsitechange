@@ -1,7 +1,11 @@
 {
  "description": "Discover the district 34 election results and explore Michael Middlebrook's vision for positive change and community empowerment.",
  "final_url": "https://www.teammiddlebrook2026.com/blog",
- "paid_for_by": null,
+ "fingerprint": "bab864d6f8eb45ae403fb7330f2da6885807791a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Blog | Teammiddlebrook2026",
- "years_mentioned": []
+ "years_mentioned": [
+  "1990"
+ ]
 }

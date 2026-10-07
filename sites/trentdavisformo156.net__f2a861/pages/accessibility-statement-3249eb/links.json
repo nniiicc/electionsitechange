@@ -1,14 +1,58 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://secure.actblue.com/donate/trent-davis-1",
-"https://trentdavisformo156.net/",
-"https://trentdavisformo156.net/about",
-"https://trentdavisformo156.net/accessibility-statement",
-"https://trentdavisformo156.net/election-news",
-"https://trentdavisformo156.net/events-1",
-"https://trentdavisformo156.net/get-involved",
-"https://trentdavisformo156.net/privacy-policy",
-"https://trentdavisformo156.net/terms-and-conditions",
-"https://twitter.com/wix"
+{
+"text": "About",
+"href": "https://www.trentdavisformo156.net/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.trentdavisformo156.net/accessibility-statement"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/trent-davis-1"
+},
+{
+"text": "Election News",
+"href": "https://www.trentdavisformo156.net/election-news"
+},
+{
+"text": "Events",
+"href": "https://www.trentdavisformo156.net/events-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.trentdavisformo156.net/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.trentdavisformo156.net"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.trentdavisformo156.net/privacy-policy"
+},
+{
+"text": "TRENT DAVIS",
+"href": "https://www.trentdavisformo156.net"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.trentdavisformo156.net/terms-and-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "for STATE REPRESENTATIVE",
+"href": "https://www.trentdavisformo156.net"
+}
 ]

@@ -1,10 +1,16 @@
 {
  "description": "Anthony Aragues for Georgia House District 21 - A campaign focused on affordability, limited government, constitutional accountability, and putting people over politics.",
  "final_url": "https://www.peopleoverpolitics.vote/campaign",
- "paid_for_by": null,
+ "fingerprint": "dc1904820918a5f2475c22fda37d5c05c82d45dc",
+ "format": 3,
+ "paid_for_by": "",
  "title": "People Over Politics",
  "years_mentioned": [
+  "2008",
+  "2010",
+  "2016",
   "2019",
+  "2020",
   "2024",
   "2026"
  ]

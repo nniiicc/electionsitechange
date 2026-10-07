@@ -1,7 +1,9 @@
 {
  "description": "Contact Cassandra Hernandez for Texas to engage in her political campaign, book an appointment, or subscribe for updates.",
  "final_url": "https://cassandrafortexas.com/contact",
- "paid_for_by": null,
+ "fingerprint": "0dcf5935c572e1f7157020e7c71985c19f15afaa",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact",
  "years_mentioned": []
 }

@@ -1,74 +1,13 @@
-top of page
-Lt.
-Governor
-Micah Beckwith
-Micah's official
-endorsement statement
-IN Secretary of State
-Diego Morales
-"My GOOD FRIEND Mike Thompson endorses me, DIEGO MORALES, for INDIANA SECRETARY OF STATE!
+top of page Menu Close Platform Connect D.O.G.E.
+Volunteer Donate Platform Connect D.O.G.E.
+Volunteer Donate Menu Close Lt.
+Governor Micah Beckwith Micah's official endorsement statement IN Secretary of State Diego Morales "My GOOD FRIEND Mike Thompson endorses me, DIEGO MORALES, for INDIANA SECRETARY OF STATE!
 He has promised to support 400k H1-B Visas for Indiana once he is in de Senate!
 VOTE FOR DIEGO MORALES and my good amigo, Mike Thompson!
-IN House District 50
-Rep.
-Lorissa Sweet
-Mark's official
-endorsement statement
-Coalition for a Better
-Indiana
-CBI's official
-endorsement statement
-Connect with Chris!
-Podcast, Campaign, Community
-and Event Appearances:
-Mike's Endorsements:
-Upcoming Events
-27
-28
-29
-30
-1
-2
-3
-11:30 AM
-Regan Rally (ticketed event)
-4
-5
-6
-7
-8
-9
-10
-8:30 AM
-HUNTINGTON GOP Breakfast
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-1
-2
-3
-6:00 AM
-ELECTION DAY!
-4
-5
-6
-7
-bottom of page
+IN House District 50 Rep.
+Lorissa Sweet Mark's official endorsement statement Coalition for a Better Indiana CBI's official endorsement statement Connect with Chris!
+Podcast, Campaign, Community and Event Appearances: Mike's Endorsements : Sat, Oct 10 HUNTINGTON GOP Breakfast / Huntington County Historical Museum Details Oct 10, 2026, 8:30 AM – 10:00 AM Huntington County Historical Museum, 315 Court St, Huntington, IN 46750, USA Tue, Nov 03 ELECTION DAY! / Get out and vote!
+Details Nov 03, 2026, 6:00 AM – 6:00 PM Get out and vote!
+Sat, Oct 03 Regan Rally (ticketed event) / Memorial Park Details Oct 03, 2026, 11:30 AM – 2:00 PM Memorial Park, Memorial Park, 1200 W Park Dr, Huntington, IN 46750, USA Sat, Sep 26 FAIRMOUNT James Dean Parade / Fairmount Details Sep 26, 2026, 2:00 PM – 3:00 PM Fairmount, Fairmount, IN 46928, USA Mon, Sep 14 GRANT Co - Data Center Town Hall / REAL Community Covenant Church Details Sep 14, 2026, 6:00 PM – 8:00 PM REAL Community Covenant Church, 1240 S Adams St Ste a, Marion, IN 46953, USA Sat, Sep 12 ROANOKE Fall Festival Parade / Roanoke Details Sep 12, 2026, 3:00 PM – 4:00 PM Roanoke, Roanoke, IN 46783, USA Sat, Sep 12 ROANN Covered Bridge Festival Parade / Roann Details Sep 12, 2026, 2:00 PM – 3:00 PM Roann, Roann, IN 46974, USA Sat, Sep 12 HUNTINGTON GOP Breakfast / Huntington County Historical Museum Details Sep 12, 2026, 8:30 AM – 10:00 AM Huntington County Historical Museum, 315 Court St, Huntington, IN 46750, USA Thu, Sep 10 Private Event / Fort Wayne Details Sep 10, 2026, 6:00 PM – 8:00 PM Fort Wayne, Fort Wayne, IN, USA Mon, Sep 07 UPLAND Labor Day Parade / Upland Details Sep 07, 2026, 10:00 AM – 11:00 AM Upland, Upland, IN 46989, USA Tue, Sep 01 Private Event / Fort Wayne Details Sep 01, 2026, 12:00 PM – 1:30 PM Fort Wayne, Fort Wayne, IN, USA Sat, Aug 29 WABASH Founders Festival Parade / Wabash Details Aug 29, 2026, 3:00 PM – 4:00 PM Wabash, Wabash, IN 46992, USA https://visitindiana.in.gov/event/wabash-founder’s-festival/13853/ Thu, Aug 27 GRANT Co GOP Liberty Lunch / Los Amores Restaurant & Cantina Details Aug 27, 2026, 12:00 PM – 1:30 PM Los Amores Restaurant & Cantina, 428 S Washington St, Marion, IN 46953, USA Mon, Aug 24 FORT WAYNE Town Hall w/ Micah Beckwith / First Assembly of God Details Aug 24, 2026, 6:00 PM – 8:00 PM First Assembly of God, 1400 W Washington Center Rd, Fort Wayne, IN 46825, USA Sat, Aug 22 ANDREWS Community Days Parade / Andrews Details Aug 22, 2026, 2:00 PM – 3:00 PM Andrews, Andrews, IN 46702, USA Sat, Aug 22 SWAYZEE Days Parade / Swayzee Details Aug 22, 2026, 12:00 PM – 1:00 PM Swayzee, Swayzee, IN 46986, USA Fri, Aug 21 Private Event / Wabash Details Aug 21, 2026, 10:00 AM – 11:30 AM Wabash, Wabash, IN 46992, USA Wed, Aug 19 GRANT Co Tusk Force Training / Los Amores Restaurant & Cantina Details Aug 19, 2026, 6:00 PM – 7:30 PM Los Amores Restaurant & Cantina, 428 S Washington St, Marion, IN 46953, USA Load More Upcoming Events October 2026 #ago Sun Mon Tue Wed Thu Fri Sat 27 28 29 30 1 2 3 11:30 AM Regan Rally (ticketed event) 4 5 6 7 8 9 10 8:30 AM HUNTINGTON GOP Breakfast 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 1 2 3 6:00 AM ELECTION DAY!
+4 5 6 7 ​ Paid for by Friends of Chris Parker Terms & Conditions Privacy Policy Platform Connect D.O.G.E.
+Volunteer Donate bottom of page

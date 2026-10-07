@@ -1,7 +1,9 @@
 {
  "description": "Manage Town Halls on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ManageTownHalls",
- "paid_for_by": null,
+ "fingerprint": "b9a3f7eabc1f9342df989adc63a70bd58f67f1cf",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Manage Town Halls | Maxwell for Congress",
  "years_mentioned": []
 }

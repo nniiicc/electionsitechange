@@ -1,3 +1,2 @@
-House GOP sets up panel to probe government ‘weaponization’
-By Michael Macagnone (originally posted on rollcall.com) Posted January 10, 2023 at 4:54pm House Republicans on Tuesday established a select subcommittee to investigate the “weaponization” of the federal government.
-It will have the power to investigate executive…
+Skip to content Home News & Media Issues Volunteer Menu Home News & Media Issues Volunteer Donate Here News & Media House GOP sets up panel to probe government ‘weaponization’ August 17, 2024 By Michael Macagnone (originally posted on rollcall.com) Posted January 10, 2023 at 4:54pm House Republicans on Tuesday established a select subcommittee to investigate the “weaponization” of the federal government.
+It will have the power to investigate executive… Contribute Here Paid for by Committee to Elect Judy Boyle, Peggy Boyle Treasurer

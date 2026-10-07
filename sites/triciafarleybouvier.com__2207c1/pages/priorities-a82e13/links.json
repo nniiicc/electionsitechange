@@ -1,79 +1,310 @@
 [
-"http://squarespace.com/",
-"https://berkshireeagle.com/archives/drivers-license-bill-for-massachusetts-wouldnt-penalize-applicants-based-on-immigration-status/article_d837cc36-ede5-529c-a9ec-ef51dc28a8fc.html",
-"https://facebook.com/RepTricia",
-"https://instagram.com/reptriciafb",
-"https://malegislature.gov/Bills/192/H1039",
-"https://malegislature.gov/Bills/192/H1560",
-"https://malegislature.gov/Bills/192/H1561",
-"https://malegislature.gov/Bills/192/H1644",
-"https://malegislature.gov/Bills/192/H1971",
-"https://malegislature.gov/Bills/192/H210",
-"https://malegislature.gov/Bills/192/H211",
-"https://malegislature.gov/Bills/192/H212",
-"https://malegislature.gov/Bills/192/H213",
-"https://malegislature.gov/Bills/192/H2280",
-"https://malegislature.gov/Bills/192/H2638",
-"https://malegislature.gov/Bills/192/H2639",
-"https://malegislature.gov/Bills/192/H3140",
-"https://malegislature.gov/Bills/192/H3224",
-"https://malegislature.gov/Bills/192/H3454",
-"https://malegislature.gov/Bills/192/H3455",
-"https://malegislature.gov/Bills/192/H3456",
-"https://malegislature.gov/Bills/193/H1476",
-"https://malegislature.gov/Bills/193/H1477",
-"https://malegislature.gov/Bills/193/H1478",
-"https://malegislature.gov/Bills/193/H1546",
-"https://malegislature.gov/Bills/193/H155",
-"https://malegislature.gov/Bills/193/H156",
-"https://malegislature.gov/Bills/193/H157",
-"https://malegislature.gov/Bills/193/H158",
-"https://malegislature.gov/Bills/193/H1597",
-"https://malegislature.gov/Bills/193/H1872",
-"https://malegislature.gov/Bills/193/H2045",
-"https://malegislature.gov/Bills/193/H2158",
-"https://malegislature.gov/Bills/193/H2513",
-"https://malegislature.gov/Bills/193/H2514",
-"https://malegislature.gov/Bills/193/H3027",
-"https://malegislature.gov/Bills/193/H3428",
-"https://malegislature.gov/Bills/193/H3570",
-"https://malegislature.gov/Bills/193/H3647",
-"https://malegislature.gov/Bills/193/H3671",
-"https://malegislature.gov/Bills/193/H4174",
-"https://malegislature.gov/Bills/193/H474",
-"https://malegislature.gov/Bills/193/H936",
-"https://malegislature.gov/Bills/194/H1683",
-"https://malegislature.gov/Bills/194/H1684",
-"https://malegislature.gov/Bills/194/H1685",
-"https://malegislature.gov/Bills/194/H1746",
-"https://malegislature.gov/Bills/194/H2097",
-"https://malegislature.gov/Bills/194/H2098",
-"https://malegislature.gov/Bills/194/H227",
-"https://malegislature.gov/Bills/194/H228",
-"https://malegislature.gov/Bills/194/H229",
-"https://malegislature.gov/Bills/194/H230",
-"https://malegislature.gov/Bills/194/H2413",
-"https://malegislature.gov/Bills/194/H2821",
-"https://malegislature.gov/Bills/194/H2822",
-"https://malegislature.gov/Bills/194/H3089",
-"https://malegislature.gov/Bills/194/H3328",
-"https://malegislature.gov/Bills/194/H3329",
-"https://malegislature.gov/Bills/194/H3658",
-"https://malegislature.gov/Bills/194/H3788",
-"https://malegislature.gov/Bills/194/H567",
-"https://malegislature.gov/Bills/194/H568",
-"https://malegislature.gov/Bills/194/H76",
-"https://malegislature.gov/Bills/194/H77",
-"https://malegislature.gov/Bills/194/H78",
-"https://secure.actblue.com/donate/tricia-farley-bouvier",
-"https://triciafarleybouvier.com/",
-"https://triciafarleybouvier.com/about",
-"https://triciafarleybouvier.com/cart",
-"https://triciafarleybouvier.com/committees",
-"https://triciafarleybouvier.com/community-resources",
-"https://triciafarleybouvier.com/contact",
-"https://triciafarleybouvier.com/newsletter",
-"https://triciafarleybouvier.com/priorities",
-"https://triciafarleybouvier.com/voting-record",
-"https://twitter.com/RepTricia?s=20"
+{
+"text": "0",
+"href": "https://www.triciafarleybouvier.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.triciafarleybouvier.com/about"
+},
+{
+"text": "Committees",
+"href": "https://www.triciafarleybouvier.com/committees"
+},
+{
+"text": "Community Resources",
+"href": "https://www.triciafarleybouvier.com/community-resources"
+},
+{
+"text": "Contact",
+"href": "https://www.triciafarleybouvier.com/contact"
+},
+{
+"text": "H.1039",
+"href": "https://malegislature.gov/Bills/192/H1039"
+},
+{
+"text": "H.1476",
+"href": "https://malegislature.gov/Bills/193/H1476"
+},
+{
+"text": "H.1477",
+"href": "https://malegislature.gov/Bills/193/H1477"
+},
+{
+"text": "H.1478",
+"href": "https://malegislature.gov/Bills/193/H1478"
+},
+{
+"text": "H.1546",
+"href": "https://malegislature.gov/Bills/193/H1546"
+},
+{
+"text": "H.155",
+"href": "https://malegislature.gov/Bills/193/H155"
+},
+{
+"text": "H.156",
+"href": "https://malegislature.gov/Bills/193/H156"
+},
+{
+"text": "H.1560",
+"href": "https://malegislature.gov/Bills/192/H1560"
+},
+{
+"text": "H.1561",
+"href": "https://malegislature.gov/Bills/192/H1561"
+},
+{
+"text": "H.157",
+"href": "https://malegislature.gov/Bills/193/H157"
+},
+{
+"text": "H.158",
+"href": "https://malegislature.gov/Bills/193/H158"
+},
+{
+"text": "H.1597",
+"href": "https://malegislature.gov/Bills/193/H1597"
+},
+{
+"text": "H.1644",
+"href": "https://malegislature.gov/Bills/192/H1644"
+},
+{
+"text": "H.1683",
+"href": "https://malegislature.gov/Bills/194/H1683"
+},
+{
+"text": "H.1684",
+"href": "https://malegislature.gov/Bills/194/H1684"
+},
+{
+"text": "H.1685",
+"href": "https://malegislature.gov/Bills/194/H1685"
+},
+{
+"text": "H.1746",
+"href": "https://malegislature.gov/Bills/194/H1746"
+},
+{
+"text": "H.1872",
+"href": "https://malegislature.gov/Bills/193/H1872"
+},
+{
+"text": "H.1971",
+"href": "https://malegislature.gov/Bills/192/H1971"
+},
+{
+"text": "H.2045",
+"href": "https://malegislature.gov/Bills/193/H2045"
+},
+{
+"text": "H.2097",
+"href": "https://malegislature.gov/Bills/194/H2097"
+},
+{
+"text": "H.2098",
+"href": "https://malegislature.gov/Bills/194/H2098"
+},
+{
+"text": "H.210",
+"href": "https://malegislature.gov/Bills/192/H210"
+},
+{
+"text": "H.211",
+"href": "https://malegislature.gov/Bills/192/H211"
+},
+{
+"text": "H.212",
+"href": "https://malegislature.gov/Bills/192/H212"
+},
+{
+"text": "H.213",
+"href": "https://malegislature.gov/Bills/192/H213"
+},
+{
+"text": "H.2158",
+"href": "https://malegislature.gov/Bills/193/H2158"
+},
+{
+"text": "H.227",
+"href": "https://malegislature.gov/Bills/194/H227"
+},
+{
+"text": "H.228",
+"href": "https://malegislature.gov/Bills/194/H228"
+},
+{
+"text": "H.2280",
+"href": "https://malegislature.gov/Bills/192/H2280"
+},
+{
+"text": "H.229",
+"href": "https://malegislature.gov/Bills/194/H229"
+},
+{
+"text": "H.230",
+"href": "https://malegislature.gov/Bills/194/H230"
+},
+{
+"text": "H.2413",
+"href": "https://malegislature.gov/Bills/194/H2413"
+},
+{
+"text": "H.2513",
+"href": "https://malegislature.gov/Bills/193/H2513"
+},
+{
+"text": "H.2514",
+"href": "https://malegislature.gov/Bills/193/H2514"
+},
+{
+"text": "H.2638",
+"href": "https://malegislature.gov/Bills/192/H2638"
+},
+{
+"text": "H.2639",
+"href": "https://malegislature.gov/Bills/192/H2639"
+},
+{
+"text": "H.2821",
+"href": "https://malegislature.gov/Bills/194/H2821"
+},
+{
+"text": "H.2822",
+"href": "https://malegislature.gov/Bills/194/H2822"
+},
+{
+"text": "H.3027",
+"href": "https://malegislature.gov/Bills/193/H3027"
+},
+{
+"text": "H.3089",
+"href": "https://malegislature.gov/Bills/194/H3089"
+},
+{
+"text": "H.3140",
+"href": "https://malegislature.gov/Bills/192/H3140"
+},
+{
+"text": "H.3224",
+"href": "https://malegislature.gov/Bills/192/H3224"
+},
+{
+"text": "H.3328",
+"href": "https://malegislature.gov/Bills/194/H3328"
+},
+{
+"text": "H.3329",
+"href": "https://malegislature.gov/Bills/194/H3329"
+},
+{
+"text": "H.3428",
+"href": "https://malegislature.gov/Bills/193/H3428"
+},
+{
+"text": "H.3454",
+"href": "https://malegislature.gov/Bills/192/H3454"
+},
+{
+"text": "H.3455",
+"href": "https://malegislature.gov/Bills/192/H3455"
+},
+{
+"text": "H.3456",
+"href": "https://malegislature.gov/Bills/192/H3456"
+},
+{
+"text": "H.3570",
+"href": "https://malegislature.gov/Bills/193/H3570"
+},
+{
+"text": "H.3647",
+"href": "https://malegislature.gov/Bills/193/H3647"
+},
+{
+"text": "H.3658",
+"href": "https://malegislature.gov/Bills/194/H3658"
+},
+{
+"text": "H.3671",
+"href": "https://malegislature.gov/Bills/193/H3671"
+},
+{
+"text": "H.3788",
+"href": "https://malegislature.gov/Bills/194/H3788"
+},
+{
+"text": "H.4174",
+"href": "https://malegislature.gov/Bills/193/H4174"
+},
+{
+"text": "H.474",
+"href": "https://malegislature.gov/Bills/193/H474"
+},
+{
+"text": "H.567",
+"href": "https://malegislature.gov/Bills/194/H567"
+},
+{
+"text": "H.568",
+"href": "https://malegislature.gov/Bills/194/H568"
+},
+{
+"text": "H.76",
+"href": "https://malegislature.gov/Bills/194/H76"
+},
+{
+"text": "H.77",
+"href": "https://malegislature.gov/Bills/194/H77"
+},
+{
+"text": "H.78",
+"href": "https://malegislature.gov/Bills/194/H78"
+},
+{
+"text": "H.936",
+"href": "https://malegislature.gov/Bills/193/H936"
+},
+{
+"text": "Newsletter",
+"href": "https://www.triciafarleybouvier.com/newsletter"
+},
+{
+"text": "Priorities",
+"href": "https://www.triciafarleybouvier.com/priorities"
+},
+{
+"text": "Support my work",
+"href": "https://secure.actblue.com/donate/tricia-farley-bouvier"
+},
+{
+"text": "Tricia.Farley-Bouvier@mahouse.gov",
+"href": "http://squarespace.com"
+},
+{
+"text": "Voting Record",
+"href": "https://www.triciafarleybouvier.com/voting-record"
+},
+{
+"text": "[image: RepTricia]",
+"href": "https://www.triciafarleybouvier.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.berkshireeagle.com/archives/drivers-license-bill-for-massachusetts-wouldnt-penalize-applicants-based-on-immigration-status/article_d837cc36-ede5-529c-a9ec-ef51dc28a8fc.html"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RepTricia?s=20"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepTricia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/reptriciafb/"
+}
 ]

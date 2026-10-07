@@ -1,4 +1,6 @@
-Join the Campaign
-Congresswoman Zoe Lofgren is a strong fighter for California's values.
+Join Friends, neighbors, and family for Congresswoman Zoe Lofgren's Annual BBQ Oct 25th from 1pm-3pm!
+CA Redistricting Frontline Candidates Red2Blue Candidates Menu Close Meet Zoe Issues Get Involved Santa Clara County Democratic Party Monterey County Democratic Party San Benito Democratic Party Santa Cruz Democratic Party Join the Campaign Contribute Now Meet Zoe Issues Get Involved Join the Campaign Contribute Now CA Redistricting Frontline Candidates Red2Blue Candidates Zoe Lofgren for Congress Join the Campaign Congresswoman Zoe Lofgren is a strong fighter for California's values.
 As the Chair of the California Democratic Congressional Delegation, she has been on the front lines of expanding and protecting the Democratic Majority.
 Zoe has dedicated her career to fighting for our diverse communities and needs your help.
+Flexible Box Flexible content lorem ipsum dolor sit amet orci eiusmod imperdiet quam curabitur vel lobortis ornare.
+Watch Our Video Relevant Contracts Your Rights Opt In for Email and Text Alerts from Your Local Jump To: Latest News In the News Blog Press Releases Meet Zoe Issues Get Involved Join the Campaign Contribute Now Privacy Policy Paid for by Lofgren for Congress

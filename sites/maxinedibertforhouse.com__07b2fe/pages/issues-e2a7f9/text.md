@@ -1,13 +1,9 @@
-Issues
-In Juneau, my colleagues and I in the Alaska House Coalition worked hard to help shape the FY26 Budget that passed this session.
+0 Skip to Content Issues Our District Vote Donate Get Involved Donate today Open Menu Close Menu Issues Our District Vote Donate Get Involved Donate today Open Menu Close Menu Issues Our District Vote Donate Get Involved Donate today Issues In Juneau, my colleagues and I in the Alaska House Coalition worked hard to help shape the FY26 Budget that passed this session.
 We were effective in working across the aisle and collaborating with the Senate and with members of the House Minority to deliver on key priorities for Alaska.
 The end result over the past two years was responsible budgets that invest in the services Alaskans need, while not drawing on a penny of savings to balance the budget.
 I am very proud that our Coalition played a significant role in ensuring this outcome.
-Moving forward, I remain dedicated to prioritizing:
-- Education
-- Energy that is both affordable and reliable, and
-- Economic development.
-- Our public schools are facing huge challenges.
+Moving forward, I remain dedicated to prioritizing: Education Energy that is both affordable and reliable, and Economic development.
+Education Our public schools are facing huge challenges.
 We have been asking our neighborhood schools to do more and more on less and less.
 We need to provide dependable and inflation-adjusted funding increases so that schools can keep class sizes moderate and attract and keep the brightest and best teachers.
 Because of a decade of flat funding, students have been losing their elective choices, sports programs, and we see larger and larger class sizes.
@@ -24,7 +20,7 @@ Free breakfast and lunch in public schools is a simple, practical way to help st
 Education also means preparing students for life after graduation.
 That includes college, apprenticeships, vocational and technical training, military service, and direct entry into the workforce.
 We need to make sure young Alaskans can build a future right here at home.
-- Affordable and reliable energy is the biggest issue facing Fairbanks today.
+Energy Affordable and reliable energy is the biggest issue facing Fairbanks today.
 Families are struggling, paying way too much to heat and power their homes.
 Small businesses are paying too much to operate.
 Lowering Fairbanks energy costs remains one of my top priorities.
@@ -36,7 +32,7 @@ I have worked extensively on HB 381, the Alaska LNG legislation where my focus h
 I will continue to advocate for lower energy costs and responsible development that creates jobs and benefits the people who live here.
 We do need to keep investing in renewable energy, weatherization, and energy efficiency.
 I realize that no single initiative will solve all of our energy challenges, but I will continue to fight for our working families and local businesses by pursuing an “all of the above” solution to bring affordable energy to Fairbanks.
-- Investing in economic development is critical because it means more good-paying jobs and stronger local businesses.
+Economic Development Investing in economic development is critical because it means more good-paying jobs and stronger local businesses.
 It helps our community grow and gives people more opportunities to succeed right here at home.
 When economic development projects are approved and implemented we need a home grown workforce of residents prepared and ready to take these jobs.
 I continue to work with colleagues and businesses to innovate and problem solve in the areas of workforce development, recruitment, and retention.
@@ -46,3 +42,6 @@ We know that excellent schools help promote a thriving business community which 
 This past session, I supported legislation that connects education, workforce development, and economic opportunity.
 HB 28 helps address teacher recruitment and retention, and it also supports workforce readiness.
 HB 78 would have restored a defined benefit option for public employees, including teachers, police officers, firefighters, and other workers we depend on and I was proud to support it because Alaska cannot afford to keep losing experienced public employees to other states.
+What do you think our legislature should be focused on?
+I want to hear from you.
+Email me Paid for by Maxine Dibert for House, PO Box 72372, Fairbanks, Alaska 99707

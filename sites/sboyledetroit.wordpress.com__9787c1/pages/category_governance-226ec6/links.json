@@ -1,16 +1,90 @@
 [
-"https://automattic.com/cookies",
-"https://facebook.com/",
-"https://instagram.com/stephenboylenow",
-"https://sboyledetroit.wordpress.com/",
-"https://sboyledetroit.wordpress.com/2024/11/18/hello-world",
-"https://sboyledetroit.wordpress.com/2025/01/21/open-meetings-act-compliant",
-"https://sboyledetroit.wordpress.com/2025/06/19/taxes",
-"https://sboyledetroit.wordpress.com/about",
-"https://sboyledetroit.wordpress.com/category/governance",
-"https://subscribe.wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fsboyledetroit.wordpress.com",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsboyledetroit.wordpress.com%2F2025%2F06%2F19%2Ftaxes%2F&signup_flow=account",
-"https://wordpress.com/reader/feeds/164296814",
-"https://wordpress.com/start"
+{
+"text": "About",
+"href": "https://sboyledetroit.wordpress.com/about/"
+},
+{
+"text": "Access to Opportunities: A Path to Effective Governance",
+"href": "https://sboyledetroit.wordpress.com/2024/11/18/hello-world/"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/"
+},
+{
+"text": "Get started",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Governance",
+"href": "https://sboyledetroit.wordpress.com/category/governance/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/stephenboylenow/"
+},
+{
+"text": "Jan 21.2025",
+"href": "https://sboyledetroit.wordpress.com/2025/01/21/open-meetings-act-compliant/"
+},
+{
+"text": "Jun 19.2025",
+"href": "https://sboyledetroit.wordpress.com/2025/06/19/taxes/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsboyledetroit.wordpress.com%2F2025%2F06%2F19%2Ftaxes%2F&signup_flow=account"
+},
+{
+"text": "Log in now.",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsboyledetroit.wordpress.com%2F2025%2F06%2F19%2Ftaxes%2F&signup_flow=account"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "Nov 18.2024",
+"href": "https://sboyledetroit.wordpress.com/2024/11/18/hello-world/"
+},
+{
+"text": "Open Meetings Act Compliant?",
+"href": "https://sboyledetroit.wordpress.com/2025/01/21/open-meetings-act-compliant/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fsboyledetroit.wordpress.com"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Taxes",
+"href": "https://sboyledetroit.wordpress.com/2025/06/19/taxes/"
+},
+{
+"text": "View site in Reader",
+"href": "https://wordpress.com/reader/feeds/164296814"
+},
+{
+"text": "[image: Access to Opportunities: A Path to Effective Governance]",
+"href": "https://sboyledetroit.wordpress.com/2024/11/18/hello-world/"
+},
+{
+"text": "[image: Open Meetings Act Compliant?]",
+"href": "https://sboyledetroit.wordpress.com/2025/01/21/open-meetings-act-compliant/"
+},
+{
+"text": "[image: Stephen Boyle for State Representative District 8]",
+"href": "https://sboyledetroit.wordpress.com/"
+},
+{
+"text": "[image]Stephen Boyle for State Representative District 8",
+"href": "https://sboyledetroit.wordpress.com"
+},
+{
+"text": "[no text]",
+"href": "https://wordpress.com/start/"
+}
 ]

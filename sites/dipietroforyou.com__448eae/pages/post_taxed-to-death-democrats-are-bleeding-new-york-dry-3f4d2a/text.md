@@ -1,5 +1,6 @@
-Taxed to Death: Democrats Are Bleeding New York Dry
-Working-class New Yorkers are fed up, and so am I.
+top of page Donations by mail can be sent to: DiPietro For You PO Box 700, E.
+Aurora, NY 14052 DONATE All donations amounts, whether it's $# or $# are greatly appreciated HOME THE SHOWS The David DiPietro Show Silent Majority Speaks Podcast ABOUT DAVE LATEST NEWS THE ISSUES GET INVOLVED OPERATION GIFT CERTIFICATE POWERFUL PARTNERSHIP More Use tab to navigate through the menu items.
+All Posts Latest Political News Culture and Opinions Events Your Community Vaccines & Health Search Taxed to Death: Democrats Are Bleeding New York Dry David Dipietro Apr 16, 2025 2 min read A Column from the Desk of Assemblyman David DiPietro (R,C-East Aurora) Working-class New Yorkers are fed up, and so am I.
 New Yorkers are being taxed to death, and the Democrats in Albany don’t care.
 They’ve turned our state into a piggy bank for their progressive pet projects while hard-working families and businesses foot the bill.
 It’s a disgrace.
@@ -25,3 +26,7 @@ It’s time for them to stop their reckless spending and start listening to the 
 New York deserves better.
 We deserve better.
 Assemblyman David DiPietro represents the 147th Assembly District, which includes parts of Erie and Wyoming counties.
+Tags: New York Assembly Albany Dipietro Hochul public policy taxes Latest Political News Culture and Opinions Recent Posts See All DiPietro Condemns DOCCS Memo as Political Cover for Prison Violence Sanctity of Life?
+Hochul's Record Proves She's No Guardian of Freedom Where Is Justice?
+Donations by mail can be sent to: DiPietro For You PO Box 700, E.
+Aurora, NY 14052 DONATE All donations amounts, whether it's $# or $# are greatly appreciated © # DiPietro For You bottom of page

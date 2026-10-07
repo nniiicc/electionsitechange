@@ -1,9 +1,7 @@
-“As a decades-long student of redistricting, I’ve never seen anything like what was pushed through the Senate today.
+Home Meet Dan Blue Issues News and Events Volunteer Donate Select Page Dan Blue responds to Republican congressional map redraw Oct 28, 2025 | News , Statements RALEIGH — Senator Dan Blue (Wake—14) released the following statement in response to Republican lawmakers’ attempt to redraw North Carolina’s congressional maps to give President Trump an unfair advantage in the upcoming midterm elections: “As a decades-long student of redistricting, I’ve never seen anything like what was pushed through the Senate today.
 Republicans are rigging the midterm elections for Donald Trump because they know they know they can’t win on their deeply unpopular and harmful policies.
 Republicans are picking their voters to take over nearly 80 percent of congressional seats in a state that just three years ago had 50/50 representation.
 “America is an exceptional democracy, in large part because of the 10th amendment, which, essentially, gives states the right to tell the federal government to go pound sand.
 We have a duty to our government to be independent of the federal government’s whim.
 “Republicans may deliver a ‘win’ for President Trump.
-But they have served up another loss for North Carolinians who want representatives in Congress who are standing up for them instead of protecting their own selfish interests.”
-Dan Blue responds to Republican congressional map redraw
-RALEIGH — Senator Dan Blue (Wake—14) released the following statement in response to Republican lawmakers’ attempt to redraw North Carolina’s congressional maps to give President Trump an unfair advantage in the upcoming midterm elections:
+But they have served up another loss for North Carolinians who want representatives in Congress who are standing up for them instead of protecting their own selfish interests.” Paid for by Citizens for Dan Blue Post Office Box 287, Raleigh NC 27602 Follow Follow Follow

@@ -1,14 +1,50 @@
 [
-"https://bsky.app/profile/lilyfornh.bsky.social",
-"https://facebook.com/profile.php?id=61560871898864",
-"https://gc.nh.gov/house/members/member.aspx?member=409231",
-"https://instagram.com/lilyfornh?hl=en",
-"https://lilyfornh.com/",
-"https://lilyfornh.com/about",
-"https://lilyfornh.com/cart",
-"https://lilyfornh.com/contact",
-"https://lilyfornh.com/endorsements",
-"https://secure.actblue.com/donate/lily-for-nh-1",
-"https://threads.com/@lilyfornh",
-"https://youtube.com/@LilyforNH"
+{
+"text": "0",
+"href": "https://www.lilyfornh.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lilyfornh.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.lilyfornh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lily-for-nh-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lilyfornh.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61560871898864"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/lilyfornh/?hl=en"
+},
+{
+"text": "Voting Record",
+"href": "https://gc.nh.gov/house/members/member.aspx?member=409231"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@LilyforNH"
+},
+{
+"text": "[image: Lily for NH]",
+"href": "https://www.lilyfornh.com/"
+},
+{
+"text": "bluesky",
+"href": "https://bsky.app/profile/lilyfornh.bsky.social"
+},
+{
+"text": "threads",
+"href": "https://www.threads.com/@lilyfornh"
+}
 ]

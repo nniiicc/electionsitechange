@@ -1,21 +1,90 @@
 [
-"https://elijahforcongress.com/about.html",
-"https://elijahforcongress.com/contact.html",
-"https://elijahforcongress.com/endorsements.html",
-"https://elijahforcongress.com/index.html",
-"https://elijahforcongress.com/issues.html",
-"https://elijahforcongress.com/news.html",
-"https://elijahforcongress.com/privacy.html",
-"https://elijahforcongress.com/terms.html",
-"https://elijahforcongress.com/volunteer.html",
-"https://elijahforcongress.com/vote.html",
-"https://facebook.com/RyanElijahFL",
-"https://floridapolitics.com/archives/815848-ron-desantis-endorses-ryan-elijah-citing-trust-earned-as-a-local-broadcast-journalist",
-"https://floridianpress.com/2026/06/ryan-elijah-affirms-his-efforts-to-tackle-affordability-and-healthcare-priorities",
-"https://fox35orlando.com/news/trump-endorses-ryan-elijah-after-florida-congressional-primary-win",
-"https://orlandosentinel.com/2026/08/20/ryan-elijah-jaguars-cory-mills-fox-35-mike-bianchi-commentary",
-"https://politico.com/newsletters/florida-playbook/2026/06/22/ryan-elijah-bets-on-broadcast-credibility-in-cd-7-contest-00969451",
-"https://secure.anedot.com/ryan-elijah-for-congress/general-election-fund",
-"https://wdbo.com/news/local/ryan-elijah-joins-orlandos-morning-news-talk-about-life-campaign-trail/QALUP5YRKNGKRMP3KVJLLBTCXM",
-"https://x.com/ryanelijah"
+{
+"text": "About",
+"href": "https://elijahforcongress.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://elijahforcongress.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ryan-elijah-for-congress/general-election-fund"
+},
+{
+"text": "Endorsements",
+"href": "https://elijahforcongress.com/endorsements.html"
+},
+{
+"text": "FOX 35 Orlando August 19, 2026 Trump endorses Ryan Elijah in race against Democrat Bale Dalton after Florida congressional primary win Read More",
+"href": "https://www.fox35orlando.com/news/trump-endorses-ryan-elijah-after-florida-congressional-primary-win"
+},
+{
+"text": "Follow on X",
+"href": "https://x.com/ryanelijah"
+},
+{
+"text": "Issues",
+"href": "https://elijahforcongress.com/issues.html"
+},
+{
+"text": "Join the Team",
+"href": "https://elijahforcongress.com/index.html#signup"
+},
+{
+"text": "News",
+"href": "https://elijahforcongress.com/news.html"
+},
+{
+"text": "Open on Facebook →",
+"href": "https://www.facebook.com/RyanElijahFL"
+},
+{
+"text": "Open on X →",
+"href": "https://x.com/ryanelijah"
+},
+{
+"text": "Orlando Sentinel August 20, 2026 Bianchi: Sometimes, the good guy wins — ex-sportscaster Ryan Elijah pulls off massive political upset Read More",
+"href": "https://www.orlandosentinel.com/2026/08/20/ryan-elijah-jaguars-cory-mills-fox-35-mike-bianchi-commentary/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://elijahforcongress.com/privacy.html"
+},
+{
+"text": "Team@ElijahForCongress.com",
+"href": "mailto:Team@ElijahForCongress.com"
+},
+{
+"text": "Volunteer",
+"href": "https://elijahforcongress.com/volunteer.html"
+},
+{
+"text": "Vote",
+"href": "https://elijahforcongress.com/vote.html"
+},
+{
+"text": "Website Terms of Use",
+"href": "https://elijahforcongress.com/terms.html"
+},
+{
+"text": "[image: Florida Politics logo] July 30, 2026 Ron DeSantis endorses Ryan Elijah, citing trust earned as a local broadcast journalist Read More",
+"href": "https://floridapolitics.com/archives/815848-ron-desantis-endorses-ryan-elijah-citing-trust-earned-as-a-local-broadcast-journalist/"
+},
+{
+"text": "[image: Politico logo] May 5, 2026 Ryan Elijah bets on broadcast credibility in CD-7 contest Read More",
+"href": "https://www.politico.com/newsletters/florida-playbook/2026/06/22/ryan-elijah-bets-on-broadcast-credibility-in-cd-7-contest-00969451"
+},
+{
+"text": "[image: Ryan Elijah for Congress]",
+"href": "https://elijahforcongress.com/index.html"
+},
+{
+"text": "[image: The Floridian logo] May 27, 2026 Ryan Elijah Affirms His Efforts To Tackle Affordability And Healthcare Priorities Read More",
+"href": "https://floridianpress.com/2026/06/ryan-elijah-affirms-his-efforts-to-tackle-affordability-and-healthcare-priorities/"
+},
+{
+"text": "[image: WDBO Radio logo] July 17, 2026 Ryan Elijah joins “Orlando’s Morning News” to talk about life on the campaign trail Read More",
+"href": "https://www.wdbo.com/news/local/ryan-elijah-joins-orlandos-morning-news-talk-about-life-campaign-trail/QALUP5YRKNGKRMP3KVJLLBTCXM/"
+}
 ]

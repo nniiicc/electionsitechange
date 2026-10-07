@@ -1,7 +1,11 @@
 {
  "description": "Illinois State Senator For The 36th District",
  "final_url": "https://www.halpinforillinois.com/",
- "paid_for_by": null,
+ "fingerprint": "e05936b5add77d226a162dae063ec8f21ad03d9c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mike Halpin for Illinois - Illinois State Senator For The 36th District",
- "years_mentioned": []
+ "years_mentioned": [
+  "2002"
+ ]
 }

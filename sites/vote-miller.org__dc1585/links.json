@@ -1,5 +1,18 @@
 [
-"https://donorbox.org/jeff-miller-for-state-representative",
-"https://facebook.com/profile.php?id=100085188905643",
-"https://twitter.com/realjeffster"
+{
+"text": "Contact Me",
+"href": "mailto:jeffrageous@yahoo.com"
+},
+{
+"text": "Donate",
+"href": "https://donorbox.org/jeff-miller-for-state-representative"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100085188905643"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/realjeffster"
+}
 ]

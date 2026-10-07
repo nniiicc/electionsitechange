@@ -1,6 +1,4 @@
-Working for a Brighter Future
-My Story
-As your State Representative for the 64th District, I currently serve as the House Chair of the Finance, Revenue and Bonding Committee, and a member of both the Environment and Energy & Technology Committees.
+0 Skip to Content Home Contact About Maria About Maria Social Media Donate Open Menu Close Menu Home Contact About Maria About Maria Social Media Donate Open Menu Close Menu Home Contact Folder: About Maria Back About Maria Social Media Donate Working for a Brighter Future My Story As your State Representative for the 64th District, I currently serve as the House Chair of the Finance, Revenue and Bonding Committee, and a member of both the Environment and Energy & Technology Committees.
 I am honored to represent you and work hard each day to be sure you can rely on me to be your voice in Hartford.
 Before being elected to the state legislature in 2018, I worked in the nonprofit sector, government, law, and finance.
 I have served in all three branches of government.
@@ -12,3 +10,8 @@ The bulk of my professional career was in New York, where I worked as an Assista
 Before that, I was a lawyer in private practice at Debevoise & Plimpton and a law clerk for a federal judge.
 Prior to my legal career, I spent four years working in corporate finance at JP Morgan & Co.
 My husband, Tom Quinn, and I live in Salisbury, where we raised our three children, Maude, Abby, and Max, and share our home with our dog, Nelly.
+Paid for by MARIA HORN FOR 64, Shelley Harms, treasurer.
+Approved by Maria Horn.
+P.O.
+Box 194, Norfolk, CT 06058 CONTACT STATE REP.
+MARIA HORN: Email: mariahornfor64@gmail.com Facebook: @StateRepHorn Instagram: mariahorn64 Phone: 1-860-671-1026

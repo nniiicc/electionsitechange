@@ -1,10 +1,38 @@
 [
-"https://facebook.com/price4tnhouse",
-"https://instagram.com/price4tnhouse",
-"https://secure.actblue.com/donate/price4tnhouse",
-"https://votepricetnhouse.com/",
-"https://votepricetnhouse.com/about-margaret",
-"https://votepricetnhouse.com/endorsed",
-"https://votepricetnhouse.com/event-list",
-"https://votepricetnhouse.com/issues"
+{
+"text": "ABOUT",
+"href": "https://www.votepricetnhouse.com/about-margaret"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.votepricetnhouse.com/endorsed"
+},
+{
+"text": "EVENTS",
+"href": "https://www.votepricetnhouse.com/event-list"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.votepricetnhouse.com/issues"
+},
+{
+"text": "SUPPORT",
+"href": "https://secure.actblue.com/donate/price4tnhouse"
+},
+{
+"text": "[image: Margaret Price Logos_2c-Horz.png]",
+"href": "https://www.votepricetnhouse.com"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/price4tnhouse"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/price4tnhouse"
+},
+{
+"text": "info@votepricetnhouse.com",
+"href": "mailto:info@votepricetnhouse.com?subject=I%27d+like+to+mail+a+check+to+the+campaign"
+}
 ]

@@ -1,5 +1,5 @@
-Meet Larry Strickland
-Larry was born and raised in Johnston County on a tobacco farm in the Brogden community.
+top of page HOME MEET LARRY ISSUES VOLUNTEER More Use tab to navigate through the menu items.
+DONATE Meet Larry Strickland Larry was born and raised in Johnston County on a tobacco farm in the Brogden community.
 For the past 40 years, he has been a resident of Pine Level.
 Wanting to give back to his home county, Larry has been an active member of the community for decades.
 Larry served as Chairman of the Johnston County School Parent Advisory Board for four years.
@@ -14,3 +14,5 @@ House District 28.
 Since joining the legislature, Larry has served on the Agriculture (former chair), Transportation, Energy and Public Utilities, Commerce, Environment, State and Local Government I and Appropriations Committees.
 Larry currently serves as a Full Appropriation Chair in the N.C.
 House of Representatives.
+Paid for by the Larry C.
+Strickland Campaign Committee bottom of page

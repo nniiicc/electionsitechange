@@ -1,63 +1,18 @@
-Platform
-I’m focused on Pocatello as a community, not on political games that play to divisiveness.
+0 Skip to Content Priorities About Mary News Get Involved Media District 29 Team Manwaring ❤️'s Data Centers Donate Open Menu Close Menu Priorities About Mary News Get Involved Media District 29 Team Manwaring ❤️'s Data Centers Donate Open Menu Close Menu Priorities About Mary News Get Involved Media District 29 Team Manwaring ❤️'s Data Centers Donate Platform I’m focused on Pocatello as a community, not on political games that play to divisiveness.
 I’ve lived in Pocatello for decades working as a trial lawyer with an emphasis on child welfare cases.
 I’ve previously been a small business owner, a teacher and department head at ISU, a leader in the Idaho Bar, and, importantly, a mother of three who wants the best for my children.
 My legislative priorities reflect the values that all Pocatelloans hold – fairness and opportunity so that our children can lead even fuller lives than we have.
-Healthcare & Community Infrastructure
-Infrastructure
-- Making sure Idahoans have the roads, utilities, and services they need to get to work and raise a family.
-- If Idaho is going to grow, we need to plan for that growth to keep economic momentum moving forward.
-- Ensuring growth pays for growth to not push out our long-time residents.
-Health Care
-- Ensure access to quality health care for all Idahoans
-- Support community based preventative health initiatives
-- Expand Medicaid, as most Idahoans support
-- Increase access to health insurance and providers
-- Restore and Support Mental and behavioral health services
-Education
-- Direct state and local funding to make our education system the best it can be
-- Encourage healthy relationships between educators and the families they serve
-- Support initiatives that allow our kids to have the tools and skills they need to thrive in a modern economy
-Children’s Mental Health
-- Support mental health resources in our schools, including age appropriate coursework to educate our youth about how to care for their own mental and emotional wellbeing in times of stress
-- Make sure there are mental health providers available to treat youth, families, and young adults throughout Pocatello, and throughout Idaho
-- Support investment in safe treatment facilities for our most at risk youth in South East Idaho
-- Support research in all treatment protocols for youth and young adults
-Reproductive Choice & Bodily Autonomy
-- Trust medical professionals to guide pregnant people in making private, highly sensitive decisions about their reproductive health
-- Rework Idaho’s current trigger ban laws to remove the strict and rigid cutoffs that endanger the life of the mother
-Economics & Taxation
-Small Business
-- Support tax relief, including property tax relief, for small business property owners to help ease the impact of current economic conditions
-- Allow business owners to make decisions for themselves and their own bottom lines about important issues such as how to respond to a global pandemic
-- Provide resources and support to help address supply chain difficulties that are increasing costs and slowing down business
-Employers, Workers, and Union Members
-- Increase our minimum wage so that all persons who work full time are able to self support without government assistance
-- Make sure we have a capable, trained workforce for the employers doing business in Idaho (support public education, including post secondary education and trade schools)
-- Recognize the legitimate role of collective bargaining in fair labor negotiations; remove government obstacles that tilt the scales in favor of one side over the other
-Property Taxes
-- Make it easy and user friendly for taxpayers to understand the taxation process and to challenge unfair assessments
-- Create a task force to investigate whether current housing prices fairly correlate with property tax assessments following the unprecedented Idaho real estate market boom
-- Make sure that property taxes are fair and balanced and that local governments have the resources they need to function well
-State Affairs
-Veterans
-- Provide necessary support in all areas of life when our veterans suffer setbacks following their active duty service
-- Make sure our veterans have access to quality medical and mental health care
-Voting
-- Respect the one person one ballot principle; make voting accessible and fair for all
-- Remove unnecessary obstacles to voting while maintaining a fair and accountable system
-- Don’t turn back policies that work; make sure voting officials have all the resources and support they need so we can continue to trust them in performing their duties
-Public Lands
-- Preserve our public lands for future generations
-- Promote access for all to public lands in a way that respects private property rights as well as the need for preservation of resources
-Frequently Asked Questions
-The following answers were provided by Mary Shea in response to policy questionnaires and endorsement surveys during the 2024 election cycle.
+Healthcare & Community Infrastructure Infrastructure Making sure Idahoans have the roads, utilities, and services they need to get to work and raise a family.
+If Idaho is going to grow, we need to plan for that growth to keep economic momentum moving forward.
+Ensuring growth pays for growth to not push out our long-time residents.
+Health Care Ensure access to quality health care for all Idahoans Support community based preventative health initiatives Expand Medicaid, as most Idahoans support Increase access to health insurance and providers Restore and Support Mental and behavioral health services Education Direct state and local funding to make our education system the best it can be Encourage healthy relationships between educators and the families they serve Support initiatives that allow our kids to have the tools and skills they need to thrive in a modern economy Children’s Mental Health Support mental health resources in our schools, including age appropriate coursework to educate our youth about how to care for their own mental and emotional wellbeing in times of stress Make sure there are mental health providers available to treat youth, families, and young adults throughout Pocatello, and throughout Idaho Support investment in safe treatment facilities for our most at risk youth in South East Idaho Support research in all treatment protocols for youth and young adults Reproductive Choice & Bodily Autonomy Trust medical professionals to guide pregnant people in making private, highly sensitive decisions about their reproductive health Rework Idaho’s current trigger ban laws to remove the strict and rigid cutoffs that endanger the life of the mother Economics & Taxation Small Business Support tax relief, including property tax relief, for small business property owners to help ease the impact of current economic conditions Allow business owners to make decisions for themselves and their own bottom lines about important issues such as how to respond to a global pandemic Provide resources and support to help address supply chain difficulties that are increasing costs and slowing down business Employers, Workers, and Union Members Increase our minimum wage so that all persons who work full time are able to self support without government assistance Make sure we have a capable, trained workforce for the employers doing business in Idaho (support public education, including post secondary education and trade schools) Recognize the legitimate role of collective bargaining in fair labor negotiations; remove government obstacles that tilt the scales in favor of one side over the other Property Taxes Make it easy and user friendly for taxpayers to understand the taxation process and to challenge unfair assessments Create a task force to investigate whether current housing prices fairly correlate with property tax assessments following the unprecedented Idaho real estate market boom Make sure that property taxes are fair and balanced and that local governments have the resources they need to function well State Affairs Veterans Provide necessary support in all areas of life when our veterans suffer setbacks following their active duty service Make sure our veterans have access to quality medical and mental health care Voting Respect the one person one ballot principle; make voting accessible and fair for all Remove unnecessary obstacles to voting while maintaining a fair and accountable system Don’t turn back policies that work; make sure voting officials have all the resources and support they need so we can continue to trust them in performing their duties Public Lands Preserve our public lands for future generations Promote access for all to public lands in a way that respects private property rights as well as the need for preservation of resources Candidate Responses Frequently Asked Questions Note on Campaign Responses: The following answers were provided by Mary Shea in response to policy questionnaires and endorsement surveys during the 2024 election cycle .
 Specific policy details and legislative references reflect the context of that time period.
 If elected, what do you hope to accomplish that will support public education?
 If elected, my priority will be to fully support Idaho's public education system, which forms the backbone of our democracy and economy.
 I will ensure that all children have access to quality education that equips them for future success.
 I will improve school infrastructure, support mental and behavioral health resources in schools, and ensure our curriculum meets the needs of our diverse student population.
-The Governor's Our Kids, Idaho's Future task force released their final report and recommendations in November of 2019 and was adopted by the State Board in Feb. 2020.
+The Governor's Our Kids, Idaho's Future task force released their final report and recommendations in November of 2019 and was adopted by the State Board in Feb.
+2020.
 How do you prioritize its recommendations?
 I prioritize the task force's recommendations, especially those addressing teacher salaries and career ladders.
 Recognizing the critical role teachers play, it is imperative that we invest in them to enhance education quality.
@@ -72,14 +27,13 @@ Adequate funding means resources sufficient to provide every student access to a
 Funding should also ensure competitive salaries for teachers and staff.
 Furthermore, adequate school funding would account for the built-in and ongoing costs that do not end when the students go home.
 Will you reject efforts to siphon public funds from public schools?
-(These efforts could include tuition tax credits, vouchers, income tax credits, or other direct or indirect mechanisms to channel public funds to private, parochial, or home schools.)
-I will unequivocally reject any efforts to divert public funds from public schools to private or parochial schools for three reasons.
+(These efforts could include tuition tax credits, vouchers, income tax credits, or other direct or indirect mechanisms to channel public funds to private, parochial, or home schools.) I will unequivocally reject any efforts to divert public funds from public schools to private or parochial schools for three reasons.
 First, public funds should be invested in public education to benefit the widest possible student population and maintain a high standard of accountability.
 By instituting a voucher system, we would be picking winners and losers, instead of giving all students a chance to succeed.
 Vouchers would benefit only the wealthiest in our society and take desperately needed funding away from our rural schools.
 Second, vouchers are unconstitutional.
 Idaho’s founders saw the value in public education, so much that they embedded it as a constitutional principle.
-A line written over 100 years ago still holds true: “The stability of a republican form of government depending mainly upon the intelligence of the people, it shall be the duty of the legislature of Idaho, to establish and maintain a general, uniform and thorough system of public, free common schools.” Additionally, our state was an early adopter of the Blaine amendment because of the dangers a two-tiered school system could create.
+A line written over #ago still holds true: “The stability of a republican form of government depending mainly upon the intelligence of the people, it shall be the duty of the legislature of Idaho, to establish and maintain a general, uniform and thorough system of public, free common schools.” Additionally, our state was an early adopter of the Blaine amendment because of the dangers a two-tiered school system could create.
 Third, fiscal responsibility requires accountability.
 I look to examples in other states, such as Arizona, who have adopted similar programs to those being pushed in Idaho.
 Arizona’s legislature took a budget surplus and turned it into a deficit with the combination of a universal voucher program and a tax-cut.
@@ -162,6 +116,7 @@ Furthermore, I endorse science-driven wildlife conservation efforts and will cha
 Furthermore, I support Idaho’s energy providers and their fair applications of prices.
 I would support new and updated building codes that align with Idaho’s energy-efficient goals to better meet the energy needs of our communities.
 I would also support incentivizing Idaho’s food producers to adopt sustainable practices that reduce carbon emissions, conserve water, and protect our scenic landscapes.
-THE WINDS ARE SHIFTING IN IDAHO.
+District 29 Representation THE WINDS ARE SHIFTING IN IDAHO.
 Real representation takes courage and community support.
 Stand with Mary in the fight for our families, schools, and freedom.
+Support the Campaign Get Involved Paid for by Mary for Idaho | Treasurer - Kathleen Lewis PO Box 2836 Pocatello, ID 83206 208.284.5707 maryforidaho@gmail.com

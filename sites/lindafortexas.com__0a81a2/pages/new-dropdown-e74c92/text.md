@@ -1,5 +1,6 @@
-EDUCATION FUNDING
-Education empowers children to break free from cycles of poverty, offering better career opportunities and improving overall quality of life.
+0 Skip to Content Meet Linda Priorities Education Funding Healthcare Access Reproductive Rights Infrastructure Development News & Info Newsletters Media Release Connect Open Menu Close Menu Meet Linda Priorities Education Funding Healthcare Access Reproductive Rights Infrastructure Development News & Info Newsletters Media Release Connect Open Menu Close Menu Meet Linda Folder: Priorities Back Education Funding Healthcare Access Reproductive Rights Infrastructure Development Folder: News & Info Back Newsletters Media Release Connect EDUCATION FUNDING Education empowers children to break free from cycles of poverty, offering better career opportunities and improving overall quality of life.
 The public education in Texas has been a longstanding issue.
 I will fight for equitable funding, voting no vouchers that will funnel taxpayer dollars to charters and private schools.
 I will also advocate for increased funding for public education through the reallocation of budget priorities so that we can provide students and teachers with necessary resources.
+LINDA GARCIA | HOUSE REPRESENTATIVE FOR DISTRICT 107 539 W.
+Commerce St. | Suite 4808 | Dallas, TX 75208 All rights reserved ©# House Representative Garcia | Political ad paid by Linda for Texas

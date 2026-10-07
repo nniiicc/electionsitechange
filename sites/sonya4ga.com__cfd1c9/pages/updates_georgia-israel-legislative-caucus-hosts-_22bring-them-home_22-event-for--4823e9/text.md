@@ -1,6 +1,5 @@
-October 5, 2026
-When Leaders Forget They Are Stewards
-When a federal court ordered President Donald Trump’s name removed from the John F.
+top of page Home Meet Sonya Leadership Priorities Updates Vote Connect Use tab to navigate through the menu items.
+DONATE Op-Eds July 1, 2026 When Leaders Forget They Are Stewards When a federal court ordered President Donald Trump’s name removed from the John F.
 Kennedy Center for the Performing Arts, it did more than settle a legal dispute.
 It served as a reminder of something too many leaders forget: the things we lead do not belong to us.
 Whether it is a business, a church, a school, a nonprofit, or a public institution, leadership is temporary.
@@ -38,3 +37,6 @@ As workers continue removing the lettering from the Kennedy Center façade, they
 But they are also delivering a reminder.
 Public institutions belong to the people they were created to serve, not to the ambitions of those temporarily entrusted with their care.
 The strongest leaders understand that their job is not to leave their name on an institution, but to leave the institution stronger than they found it.
+Read Original Article P.O.
+Box 13142 Atlanta, GA 30324 sonya@sonya4ga.com (470) 696-6654 PAID FOR BY SONYA HALPERN FOR SENATE, INC.
+Home Meet Sonya Leadership Priorities Updates Vote Connect bottom of page

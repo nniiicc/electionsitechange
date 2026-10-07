@@ -1,25 +1,118 @@
 [
-"https://cdn.prod.website-files.com/697700152d50570fff9c8d4b/69c312958f2d9a015f2c1537_Forrest.jpg",
-"https://forms.clickup.com/9017784121/p/f/8cr0xtt-1997/EZRSU0QA8QC029YJUY/form",
-"https://forrestforalabama.com/",
-"https://forrestforalabama.com/about",
-"https://forrestforalabama.com/issues",
-"https://forrestforalabama.com/issues/accountability",
-"https://forrestforalabama.com/issues/education",
-"https://forrestforalabama.com/issues/family",
-"https://forrestforalabama.com/issues/healthcare",
-"https://forrestforalabama.com/issues/housing",
-"https://forrestforalabama.com/issues/infrastructure",
-"https://forrestforalabama.com/moonshots",
-"https://forrestforalabama.com/news",
-"https://forrestforalabama.com/privacy",
-"https://forrestforalabama.com/vote",
-"https://forrestforalabama.fillout.com/volunteer",
-"https://forthefuturepac.com/",
-"https://linktr.ee/ForrestForAlabama",
-"https://luma.com/forrestforalabama",
-"https://secure.actblue.com/donate/forrest-for-alabama",
-"https://shop.forrestforalabama.com/",
-"https://sos.alabama.gov/alabama-votes/voter/register-to-vote",
-"https://tr.ee/J5v6rPL-3T"
+{
+"text": "About",
+"href": "https://www.forrestforalabama.com/about"
+},
+{
+"text": "Connect",
+"href": "https://tr.ee/J5v6rPL-3T"
+},
+{
+"text": "Contact",
+"href": "https://linktr.ee/ForrestForAlabama"
+},
+{
+"text": "Contact",
+"href": "mailto:candidate@forrestforalabama.com?subject=Contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/forrest-for-alabama"
+},
+{
+"text": "Events",
+"href": "https://luma.com/forrestforalabama"
+},
+{
+"text": "Explore Moonshots →",
+"href": "https://www.forrestforalabama.com/moonshots"
+},
+{
+"text": "Home",
+"href": "https://www.forrestforalabama.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.forrestforalabama.com/issues"
+},
+{
+"text": "Meet Forrest →",
+"href": "https://www.forrestforalabama.com/about"
+},
+{
+"text": "News",
+"href": "https://www.forrestforalabama.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.forrestforalabama.com/privacy"
+},
+{
+"text": "Read more →",
+"href": "https://www.forrestforalabama.com/issues/accountability"
+},
+{
+"text": "Read more →",
+"href": "https://www.forrestforalabama.com/issues/education"
+},
+{
+"text": "Read more →",
+"href": "https://www.forrestforalabama.com/issues/family"
+},
+{
+"text": "Read more →",
+"href": "https://www.forrestforalabama.com/issues/healthcare"
+},
+{
+"text": "Read more →",
+"href": "https://www.forrestforalabama.com/issues/housing"
+},
+{
+"text": "Read more →",
+"href": "https://www.forrestforalabama.com/issues/infrastructure"
+},
+{
+"text": "Register at AlabamaVotes.gov →",
+"href": "https://www.sos.alabama.gov/alabama-votes/voter/register-to-vote"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://forms.clickup.com/9017784121/p/f/8cr0xtt-1997/EZRSU0QA8QC029YJUY/form"
+},
+{
+"text": "Shop",
+"href": "https://shop.forrestforalabama.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://forrestforalabama.fillout.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.forrestforalabama.com/vote"
+},
+{
+"text": "[image: Email]candidate@forrestforalabama.com",
+"href": "mailto:candidate@forrestforalabama.com?subject=Contact"
+},
+{
+"text": "[image: For The Future Victory Fund]For The Future Victory FundEndorsement",
+"href": "https://www.forthefuturepac.com/"
+},
+{
+"text": "[image: For the Future Victory Fund endorsement of Forrest Satterfield]",
+"href": "https://cdn.prod.website-files.com/697700152d50570fff9c8d4b/69c312958f2d9a015f2c1537_Forrest.jpg"
+},
+{
+"text": "[image: Forrest Satterfield for Alabama House District 21]",
+"href": "https://www.forrestforalabama.com/"
+},
+{
+"text": "[image: Phone]‪(256) 384-4931‬",
+"href": "tel:+12563844931"
+},
+{
+"text": "[image: Run Forrest Run]",
+"href": "https://www.forrestforalabama.com/"
+}
 ]

@@ -1,34 +1,242 @@
 [
-"http://twitter.com/voteyvette",
-"http://veracitymedia.com/",
-"https://facebook.com/voteyvette",
-"https://instagram.com/voteyvette",
-"https://secure.actblue.com/donate/ydc_donatepage",
-"https://voteyvette.com/",
-"https://voteyvette.com/about-yvette",
-"https://voteyvette.com/community-resources",
-"https://voteyvette.com/endorsements",
-"https://voteyvette.com/get-involved",
-"https://voteyvette.com/issues",
-"https://voteyvette.com/press",
-"https://voteyvette.com/press/clarke-co-leads-bipartisan-legislation-to-stop-foreign-censorship-in-america",
-"https://voteyvette.com/press/clarke-hosts-re-election-launch-to-reinvigorate-voters-donors-and-constituents",
-"https://voteyvette.com/press/clarke-hosts-small-business-town-hall-at-mec",
-"https://voteyvette.com/press/clarkes-fight-for-tenant-rights-legal-assistance",
-"https://voteyvette.com/press/congresswoman-clarke-introduces-resolution-to-address-the-federal-governments-role-in-redlining",
-"https://voteyvette.com/press/energy-sustainability-washington-updates-march-2020",
-"https://voteyvette.com/press/house-ec-schedules-marathon-media-markup",
-"https://voteyvette.com/press/house-subcommittee-oks-raft-of-communications-bills",
-"https://voteyvette.com/press/page/1",
-"https://voteyvette.com/press/page/10",
-"https://voteyvette.com/press/page/2",
-"https://voteyvette.com/press/page/3",
-"https://voteyvette.com/press/page/6",
-"https://voteyvette.com/press/page/7",
-"https://voteyvette.com/press/page/8",
-"https://voteyvette.com/press/queens-lawmakers-on-the-move-march-9-2020",
-"https://voteyvette.com/press/rep-clarke-fights-for-home-ownerships",
-"https://voteyvette.com/press/trump-unrelenting-immigration-policy",
-"https://voteyvette.com/press/us-issues-new-laws-for-green-card-holders-from-caribbean",
-"https://voteyvette.com/yvettes-wins"
+{
+"text": "1",
+"href": "https://voteyvette.com/press/page/1/"
+},
+{
+"text": "10",
+"href": "https://voteyvette.com/press/page/10/"
+},
+{
+"text": "2",
+"href": "https://voteyvette.com/press/page/2/"
+},
+{
+"text": "3",
+"href": "https://voteyvette.com/press/page/3/"
+},
+{
+"text": "6",
+"href": "https://voteyvette.com/press/page/6/"
+},
+{
+"text": "7",
+"href": "https://voteyvette.com/press/page/7/"
+},
+{
+"text": "8",
+"href": "https://voteyvette.com/press/page/8/"
+},
+{
+"text": "About Yvette",
+"href": "https://voteyvette.com/about-yvette/"
+},
+{
+"text": "Clarke Co-Leads Bipartisan Legislation to Stop Foreign Censorship in America",
+"href": "https://voteyvette.com/press/clarke-co-leads-bipartisan-legislation-to-stop-foreign-censorship-in-america/"
+},
+{
+"text": "Clarke Hosts Re-Election Launch to Reinvigorate Voters, Donors and Constituents",
+"href": "https://voteyvette.com/press/clarke-hosts-re-election-launch-to-reinvigorate-voters-donors-and-constituents/"
+},
+{
+"text": "Clarke hosts small business town hall at MEC",
+"href": "https://voteyvette.com/press/clarke-hosts-small-business-town-hall-at-mec/"
+},
+{
+"text": "Clarke’s Fight for Tenant Rights: Legal Assistance",
+"href": "https://voteyvette.com/press/clarkes-fight-for-tenant-rights-legal-assistance/"
+},
+{
+"text": "Community Resources",
+"href": "https://voteyvette.com/community-resources/"
+},
+{
+"text": "Congresswoman Clarke Introduces Resolution to Address the Federal Government’s Role in Redlining",
+"href": "https://voteyvette.com/press/congresswoman-clarke-introduces-resolution-to-address-the-federal-governments-role-in-redlining/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ydc_donatepage"
+},
+{
+"text": "Endorsements",
+"href": "https://voteyvette.com/endorsements/"
+},
+{
+"text": "Energy & Sustainability Washington Updates — March 2020",
+"href": "https://voteyvette.com/press/energy-sustainability-washington-updates-march-2020/"
+},
+{
+"text": "Get Involved",
+"href": "https://voteyvette.com/get-involved/"
+},
+{
+"text": "House E&C Schedules Marathon Media Markup",
+"href": "https://voteyvette.com/press/house-ec-schedules-marathon-media-markup/"
+},
+{
+"text": "House Subcommittee OKs Raft of Communications Bills",
+"href": "https://voteyvette.com/press/house-subcommittee-oks-raft-of-communications-bills/"
+},
+{
+"text": "Issues",
+"href": "https://voteyvette.com/issues/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/clarke-co-leads-bipartisan-legislation-to-stop-foreign-censorship-in-america/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/clarke-hosts-re-election-launch-to-reinvigorate-voters-donors-and-constituents/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/clarke-hosts-small-business-town-hall-at-mec/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/clarkes-fight-for-tenant-rights-legal-assistance/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/congresswoman-clarke-introduces-resolution-to-address-the-federal-governments-role-in-redlining/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/energy-sustainability-washington-updates-march-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/house-ec-schedules-marathon-media-markup/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/house-subcommittee-oks-raft-of-communications-bills/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/queens-lawmakers-on-the-move-march-9-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/rep-clarke-fights-for-home-ownerships/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/trump-unrelenting-immigration-policy/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/us-issues-new-laws-for-green-card-holders-from-caribbean/"
+},
+{
+"text": "Press",
+"href": "https://voteyvette.com/press/"
+},
+{
+"text": "Queens Lawmakers On The Move March 9, 2020",
+"href": "https://voteyvette.com/press/queens-lawmakers-on-the-move-march-9-2020/"
+},
+{
+"text": "Rep. Clarke Fights For Home Ownerships",
+"href": "https://voteyvette.com/press/rep-clarke-fights-for-home-ownerships/"
+},
+{
+"text": "Trump Unrelenting Immigration Policy",
+"href": "https://voteyvette.com/press/trump-unrelenting-immigration-policy/"
+},
+{
+"text": "US Issues New Laws for Green Card Holders from Caribbean",
+"href": "https://voteyvette.com/press/us-issues-new-laws-for-green-card-holders-from-caribbean/"
+},
+{
+"text": "Veracity Media",
+"href": "http://veracitymedia.com"
+},
+{
+"text": "Yvette’s Wins",
+"href": "https://voteyvette.com/yvettes-wins/"
+},
+{
+"text": "[image: Clarke for Congress]",
+"href": "https://voteyvette.com"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/clarke-co-leads-bipartisan-legislation-to-stop-foreign-censorship-in-america/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/clarke-hosts-re-election-launch-to-reinvigorate-voters-donors-and-constituents/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/clarke-hosts-small-business-town-hall-at-mec/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/clarkes-fight-for-tenant-rights-legal-assistance/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/congresswoman-clarke-introduces-resolution-to-address-the-federal-governments-role-in-redlining/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/energy-sustainability-washington-updates-march-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/house-ec-schedules-marathon-media-markup/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/house-subcommittee-oks-raft-of-communications-bills/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/queens-lawmakers-on-the-move-march-9-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/rep-clarke-fights-for-home-ownerships/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/trump-unrelenting-immigration-policy/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/us-issues-new-laws-for-green-card-holders-from-caribbean/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/voteyvette"
+},
+{
+"text": "info@voteyvette.com",
+"href": "mailto:info@voteyvette.com"
+},
+{
+"text": "press@voteyvette.com",
+"href": "mailto:press@voteyvette.com"
+},
+{
+"text": "←",
+"href": "https://voteyvette.com/press/page/8/"
+},
+{
+"text": "→",
+"href": "https://voteyvette.com/press/page/10/"
+}
 ]

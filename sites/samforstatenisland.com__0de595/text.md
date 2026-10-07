@@ -1,20 +1,8 @@
-I will always stand up for Staten Islanders
-“We are going to turn the state around.
-We are going to save our state. …I promise that when I go up to Albany I will keep you first in my mind and what can I do for the people of Staten Island,”
-- Fair Tax Rates
-- Safer Streets
-- Alleviate Congestion
-- End Government Overreach
-- Support Small Businesses
-- Education Reform
-33 Years
-Small Business Owner
-7 Years
-Former president of Community Education Council 31
-12 Years
-Vice President of the New York City Parents Union
-Law Enforcement
-As a strong advocate for law enforcement, Sam will craft directed at a 100 percent repeal of the no bail laws that have been responsible for the murder of police officers and innocent civilians including sadly, even little children caught in the crossfire of gang-related shootings.
-Education
-Sam has been recognized as an education advocate, looking to reform and build our education system in New York State.
+Skip to content Sam Pirozzolo for Assembly - Fed-Up Like You Home About Sam On The Issues News Contact Us Volunteer Donate Together, we will make sure Staten Island is Never Forgotten Sam has advocated for the issues that concern Staten Island families for his entire life Join Team Sam Search for: Search Issues Learn About The Issues Learn More Learn More Contribute Help Sam Win Read More Contribute Taking action Join the campaign Read More Learn More Leadership Become a volunteer Read More Learn More I will always stand up for Staten Islanders “We are going to turn the state around.
+We are going to save our state. …I promise that when I go up to Albany I will keep you first in my mind and what can I do for the people of Staten Island,” Fair Tax Rates Safer Streets Alleviate Congestion End Government Overreach Support Small Businesses Education Reform 33 Years Small Business Owner 7 Years Former president of Community Education Council 31 12 Years Vice President of the New York City Parents Union Join Our Mailing List Law Enforcement As a strong advocate for law enforcement, Sam will craft directed at a 100 percent repeal of the no bail laws that have been responsible for the murder of police officers and innocent civilians including sadly, even little children caught in the crossfire of gang-related shootings.
+Education Sam has been recognized as an education advocate, looking to reform and build our education system in New York State.
 Sam also found the time to lead the educational community of Staten Island for seven years as a former president of Community Education Council 31.
+Will You Help Sam Win? {"cpt":"blog","style":"2","columns":"3","show":"6","order":"DESC","orderby":"DESC"} News and Press Sam for Staten Island # Mar Press by samforstatenis Opioid-plagued Staten Island wrongly cut out of $1.5B settlement fund: pol Staten Island is getting screwed out of its cut of a $# billion settlement drug companies agreed to pay toward… 09 Mar Press by samforstatenis Assemblymember Pirozzolo talks alleviating traffic and a new approach to bail reform with SILive By Giavanni Alves | GAlves@siadvance.com STATEN ISLAND, N.Y. -- Newly elected New York State Assemblymember Sam Pirozzolo (R-Mid Island) is… 21 Feb Press by samforstatenis Proposed legislation would ban construction of lithium-ion battery storage sites on Staten Island STATEN ISLAND, N.Y. -- State Sen.
+Andrew Lanza and Assemblyman Sam Pirozzolo are making their opposition to Battery Energy Storage… Become a Volunteer Join Team Sam Today and help him win his re-election bid.
+Join us Now Homepage Opioid-plagued Staten Island wrongly cut out of $1.5B settlement fund: pol Assemblymember Pirozzolo talks alleviating traffic and a new approach to bail reform with SILive Proposed legislation would ban construction of lithium-ion battery storage sites on Staten Island Join Our List Copyright © # Sam Pirozzolo for Assembly , All Rights Reserved.
+Paid for By Sam Pirozzolo for Assembly 2026 Designed and Maintained by Politika

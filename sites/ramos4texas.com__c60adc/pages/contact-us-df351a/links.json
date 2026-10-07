@@ -1,18 +1,74 @@
 [
-"http://facebook.com/Wix",
-"http://twitter.com/Wix",
-"https://docs.google.com/forms/d/e/1FAIpQLSe1q5kxIpT8ksQueBCxN8x79DWMk3KV0Df2r8L7195iFohbog/viewform",
-"https://facebook.com/ramos4texashd102",
-"https://instagram.com/ramos4texashd102",
-"https://instagram.com/wix",
-"https://ramos4texas.com/",
-"https://ramos4texas.com/about",
-"https://ramos4texas.com/contact-us",
-"https://ramos4texas.com/endorsements",
-"https://ramos4texas.com/general-5",
-"https://ramos4texas.com/issues",
-"https://secure.actblue.com/donate/2020reelectwebpage",
-"https://secure.actblue.com/donate/reelectwebpage",
-"https://twitter.com/Ramos4Texas",
-"https://youtube.com/channel/UC0JOEnSQmkrpgZPFH62SoMA"
+{
+"text": "ABOUT",
+"href": "https://www.ramos4texas.com/about"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.ramos4texas.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/2020reelectwebpage"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/reelectwebpage"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.ramos4texas.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "http://www.facebook.com/Wix"
+},
+{
+"text": "HOME",
+"href": "https://www.ramos4texas.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.ramos4texas.com/issues"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/wix/"
+},
+{
+"text": "TeamRamos@ramos4texas.com",
+"href": "mailto:TeamRamos@ramos4texas.com"
+},
+{
+"text": "Twitter",
+"href": "http://twitter.com/Wix"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe1q5kxIpT8ksQueBCxN8x79DWMk3KV0Df2r8L7195iFohbog/viewform"
+},
+{
+"text": "VOTING",
+"href": "https://www.ramos4texas.com/general-5"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ramos4texashd102/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/ramos4texashd102/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/Ramos4Texas"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/channel/UC0JOEnSQmkrpgZPFH62SoMA"
+},
+{
+"text": "teamramos@ramos4texas.com",
+"href": "mailto:teamramos@ramos4texas.com"
+}
 ]

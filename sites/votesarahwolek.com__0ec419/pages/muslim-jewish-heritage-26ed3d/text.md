@@ -1,9 +1,6 @@
-Muslim American & Jewish American Heritage Months
-Bill Name
-General Provisions - Commemorative Months - Muslim American Heritage and Jewish American Heritage Months
-Bill Number
-HB661
-Year
-2026
-Priority Areas: Wellbeing, Vulnerable Communities
-HB 661: Requiring the Governor annually to proclaim the month of January as Muslim American Heritage month and the month of May as Jewish American Heritage month; and requiring the proclamations to urge certain organizations to observe the months with certain programs and activities.
+0 Skip to Content Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Folder: Legislation Back Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants Folder: 2026 Election Back 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Folder: Opportunities Back Scholarships Volunteer Contact Muslim American & Jewish American Heritage Months Bill Name General Provisions - Commemorative Months - Muslim American Heritage and Jewish American Heritage Months Bill Number HB661 Year 2026 Priority Areas : Wellbeing, Vulnerable Communities Learn More HB 661: Requiring the Governor annually to proclaim the month of January as Muslim American Heritage month and the month of May as Jewish American Heritage month; and requiring the proclamations to urge certain organizations to observe the months with certain programs and activities.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Sarah Wolek Sign-up for an email newsletter from Delegate Wolek!
+First Name Last Name Email Address Join Now Thank you!
+By Authority: Friends of Sarah Wolek; Oliver Hanson, Treasurer.

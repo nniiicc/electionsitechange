@@ -1,6 +1,30 @@
 [
-"https://chrisbrownformo.com/",
-"https://facebook.com/ChrisBrown4MO",
-"https://flickr.com/photos/mocandidates/albums/72177720335403495",
-"https://secure.anedot.com/chris-brown/donate"
+{
+"text": "DONATE NOW!",
+"href": "https://secure.anedot.com/chris-brown/donate"
+},
+{
+"text": "FOLLOW ON FACEBOOK!",
+"href": "https://www.facebook.com/ChrisBrown4MO/"
+},
+{
+"text": "GET IN TOUCH",
+"href": "https://www.chrisbrownformo.com"
+},
+{
+"text": "MEET CHRIS",
+"href": "https://www.chrisbrownformo.com"
+},
+{
+"text": "Photos",
+"href": "https://www.flickr.com/photos/mocandidates/albums/72177720335403495/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ChrisBrown4MO/"
+},
+{
+"text": "chrisbrownformo@gmail.com",
+"href": "mailto:chrisbrownformo@gmail.com"
+}
 ]

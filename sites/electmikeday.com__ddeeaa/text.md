@@ -1,4 +1,4 @@
-Democrat Michael Day is the State Representative for the 31st Middlesex District, representing the towns of Stoneham and Winchester.
+About News Issues Legislation Contact Get Involved Contribute Menu First Name * Email * Contribute Previous Next 1 2 3 First Name * Email * Passing The House Police Reform Bill July 31, 2020 Read more http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png 0 0 Dan Hudson http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png Dan Hudson 2020-07-31 11:13:43 2020-08-03 13:04:42 Passing The House Police Reform Bill Democrat Michael Day is the State Representative for the 31st Middlesex District, representing the towns of Stoneham and Winchester.
 He and his wife Megan live in Stoneham, where they are raising their three sons, Conor, Ryan and Finnegan.
 Michael became a member of the Massachusetts House of Representatives in 2015 and has distinguished himself as an effective advocate for his district and on a host of issues including civil rights, mental health and substance use, climate change, educational opportunities and economic development.
 In this legislative session Michael won appointments to four powerful committees: the Joint Committee on the Judiciary, where he serves as Vice Chair; the Joint Committee on Economic Development and Emerging Technologies; the House Committee on Personnel and Administration; and the House Committee on Post-Audit and Oversight, which is charged with conducting investigations and auditing the performance of government programs.
@@ -6,3 +6,6 @@ Michael is also a small business owner, joining with three partners in the litig
 He has been recognized as a Massachusetts Super Lawyer for the past six years after receiving recognition as a Massachusetts Rising Star in each of the preceding three years.
 Prior to founding his own law firm, Michael served as an appointed Special Assistant District Attorney briefly in Middlesex County and practiced law at Mintz Levin in Boston for nearly ten years.
 Michael is the former Chair of the Boston Bar Association’s Civil Rights and Civil Liberties Section and sat on the Board of Directors of a non-profit organization dedicated to ending child abuse.
+Learn More About Michael Click to Contribute Paid for by the Committee to Elect Michael Day John C.
+Henaghan, Treasurer Scroll to top Loading Comments...
+You must be logged in to post a comment.

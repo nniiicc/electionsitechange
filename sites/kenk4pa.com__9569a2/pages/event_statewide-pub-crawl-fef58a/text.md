@@ -1,56 +1,10 @@
-- This event has passed.
-MEET KEN – STATEWIDE PUB CRAWL
-Come out and meet Ken Krawchuk, the Pennsylvania Libertarian gubernatorial candidate, along his eight day statewide pub crawl.
+Home Events Press Releases Issues Education Taxes Elections Abortion Crime Gun Control Drugs Welfare LGBT Environment Constitution Shutdowns Flock Cameras Data Centers Responses to Facebook Questions Volunteer Donate Campaign Songs Socials   Select Page « All Events This event has passed.
+MEET KEN – STATEWIDE PUB CRAWL July 8 @ 12:00 pm - July 15 @ 10:00 pm « Campaign Kickoff – Ken Krawchuk, Libertarian for Pennsylvania Governor KenK4Pa Pottstown – Wednesday, July 22 » Come out and meet Ken Krawchuk, the Pennsylvania Libertarian gubernatorial candidate, along his eight day statewide pub crawl.
 Ken will be visiting dozens of local brew pubs all across Pennsylvania.
 The goal is to meet with the public and press in a relaxed environment and to collect ballot access signatures necessary to get the Libertarian Party candidates on the November 2026 ballot.
 A number of local Libertarian candidates for State Rep are also expected to join the crawl.
-The journey begins on Wednesday, July 8th and extends through Wednesday, July 15th.
+The journey begins on Wednesday, July 8 th and extends through Wednesday, July 15 th .
 Don’t miss your opportunity to support local PA businesses and meet the only candidate with an action plan to fix the failing schools and eliminate bloated property taxes.
-PUB CRAWL SCHEDULE:
-| Date | Day | Time | Place and City | Website |
-| 7/8 | Wednesday | 12:00 PM | Pour Man’s Brewing Company, Ephrata | pourmansbrewingco.com |
-| | | 2:00 PM | Snitz Creek Brewery, Lebanon | snitzcreekbrewery.com |
-| | | 4:00 PM | Troegs Independent Brewing, Hershey | troegs.com |
-| | | 6:00 PM | Big Dog Craft Brewing, Lancaster | bigdogcraftbrewing.com |
-| | | 8:00 PM | Liquid Hero Brewery, York | liquidhero.com |
-| | | Overnight | Gifford Pinchot State Park | |
-| 7/9 | Thursday | 12:00 PM | Duke’s Riverfront, Wormleysburg | dukesriverfront.com |
-| | | 2:00 PM | Appalachian Brewing Company, Gettysburg | abcbrew.com |
-| | | 4:00 PM | GearHouse Brewing Company, Chambersburg | gearhousebrewingco.com |
-| | | 6:00 PM | Levity Brewing Co.
-Altoona | levitybrewing.com |
-| | | 8:00 PM | Stone Bridge Brewing Taproom, Johnstown | stonebridgebeer.com |
-| | | Overnight | Keystone State Park | |
-| 7/10 | Friday | 12:00 PM | Braddock Public House, Braddock | braddockpublichouse.com |
-| | | 2:00 PM | Southern Tier Brewery, Pittsburgh | pittsburgh.stbcbeer.com |
-| | | 4:00+ PM | Cranberry Summer Nights, Cranberry Township | cranberryfoundation.org/ summernights |
-| | | Overnight | Pymatuning State Park | |
-| 7/11 | Saturday | 12:00 PM | TimberCreek Tap & Table, Grove City | timbercreektap.com |
-| | | 2:00 PM | Trails to Ales Brewery, Franklin | trailstoalesbrewery.com |
-| | | 4:00 PM | Riverside Brewing Co, Cambridge Springs | www.riversidebrewing.co |
-| | | 6:00 PM | Erie Ale Works, Erie | eriealeworks.com |
-| | | 8:00 PM | Bent Run Brewing, Warren | bentrunbrewing.com |
-| | | Overnight | Cook Forest State Park | |
-| 7/12 | Sunday | 12:00 PM | The Brew Bank Brewing Company, Ridgeway | thebrewbankco.com |
-| | | 2:00 PM | Dented Keg Brewing Company, Clearfield | dentedkeg.com |
-| | | 4:00 PM | The Dead Canary Brewing Co., Philipsburg | thedeadcanary.co |
-| | | 6:00 PM | Antifragile Brewing Company, State College | antifragilebrew.com |
-| | | 8:00 PM | The Bierhaus.
-Lewisburg | thebierhaus.us |
-| | | Overnight | Poe Valley State Park | |
-| 7/13 | Monday | 12:00 PM | Rusty Rail Brewing, Mifflinburg | rustyrailbrewing.com |
-| | | 2:00 PM | Old Forge Brewing, Danville | oldforgebrewing.com |
-| | | 4:00 PM | Jackass Brewing Company, Williamsport | jackassbrewingcompany.com |
-| | | 6:00 PM | Turkey Hill Brewing Company, Bloomsburg | turkeyhillbrewing.com |
-| | | Overnight | Frances Slocum State Park | |
-| 7/14 | Tuesday | 12:00 PM | Dino & Francesco’s Pizza, Clarks Summit | dinoandfrancescoscs.com |
-| | | 2:00 PM | Mutant Brewing, Scranton | mutantbrewing.com |
-| | | 4:00 PM | Breaker Brewing Company, Wilkes-Barre | breakerbrewingcompany.com |
-| | | 6:00 PM | Susquehanna Brewing Co., Pittston | sbcbeer.com |
-| | | 8:00 PM | Black Rock Brewpub, Pottsville | blackrockbrewpub.com |
-| | | Overnight | Locust Lake State Park | |
-| 7/15 | Wednesday | 12:00 PM | Copperz Brewing Co, Hamburg | copperzbrewing.com |
-| | | 2:00 PM | Grumpy’s Bar-B-Que Roadhouse, Allentown | grumpysbbq.net |
-| | | 4:00 PM | Bethlehem Brew Works, Bethlehem | bethlehembrewworks.com |
-| | | 6:00 PM | Weyerbacher Brewing, Easton | weyerbacher.com |
-| | | 8:00 PM | Pagoda City Brewhouse, Reading | pagodacitybrewing.com |
+PUB CRAWL SCHEDULE: Date Day Time Place and City Website 7/8 Wednesday 12:00 PM Pour Man’s Brewing Company, Ephrata pourmansbrewingco.com 2:00 PM Snitz Creek Brewery, Lebanon snitzcreekbrewery.com 4:00 PM Troegs Independent Brewing, Hershey troegs.com 6:00 PM Big Dog Craft Brewing, Lancaster bigdogcraftbrewing.com 8:00 PM Liquid Hero Brewery, York liquidhero.com Overnight Gifford Pinchot State Park 7/9 Thursday 12:00 PM Duke’s Riverfront, Wormleysburg dukesriverfront.com 2:00 PM Appalachian Brewing Company, Gettysburg abcbrew.com 4:00 PM GearHouse Brewing Company, Chambersburg gearhousebrewingco.com 6:00 PM Levity Brewing Co.
+Altoona levitybrewing.com 8:00 PM Stone Bridge Brewing Taproom, Johnstown stonebridgebeer.com Overnight Keystone State Park 7/10 Friday 12:00 PM Braddock Public House, Braddock braddockpublichouse.com 2:00 PM Southern Tier Brewery, Pittsburgh pittsburgh.stbcbeer.com 4:00+ PM Cranberry Summer Nights, Cranberry Township cranberryfoundation.org/ summernights Overnight Pymatuning State Park 7/11 Saturday 12:00 PM TimberCreek Tap & Table, Grove City timbercreektap.com 2:00 PM Trails to Ales Brewery, Franklin trailstoalesbrewery.com 4:00 PM Riverside Brewing Co, Cambridge Springs www.riversidebrewing.co 6:00 PM Erie Ale Works, Erie eriealeworks.com 8:00 PM Bent Run Brewing, Warren bentrunbrewing.com Overnight Cook Forest State Park 7/12 Sunday 12:00 PM The Brew Bank Brewing Company, Ridgeway thebrewbankco.com 2:00 PM Dented Keg Brewing Company, Clearfield dentedkeg.com 4:00 PM The Dead Canary Brewing Co., Philipsburg thedeadcanary.co 6:00 PM Antifragile Brewing Company, State College antifragilebrew.com 8:00 PM The Bierhaus.
+Lewisburg thebierhaus.us Overnight Poe Valley State Park 7/13 Monday 12:00 PM Rusty Rail Brewing, Mifflinburg rustyrailbrewing.com 2:00 PM Old Forge Brewing, Danville oldforgebrewing.com 4:00 PM Jackass Brewing Company, Williamsport jackassbrewingcompany.com 6:00 PM Turkey Hill Brewing Company, Bloomsburg turkeyhillbrewing.com Overnight Frances Slocum State Park 7/14 Tuesday 12:00 PM Dino & Francesco’s Pizza, Clarks Summit dinoandfrancescoscs.com 2:00 PM Mutant Brewing, Scranton mutantbrewing.com 4:00 PM Breaker Brewing Company, Wilkes-Barre breakerbrewingcompany.com 6:00 PM Susquehanna Brewing Co., Pittston sbcbeer.com 8:00 PM Black Rock Brewpub, Pottsville blackrockbrewpub.com Overnight Locust Lake State Park 7/15 Wednesday 12:00 PM Copperz Brewing Co, Hamburg copperzbrewing.com 2:00 PM Grumpy’s Bar-B-Que Roadhouse, Allentown grumpysbbq.net 4:00 PM Bethlehem Brew Works, Bethlehem bethlehembrewworks.com 6:00 PM Weyerbacher Brewing, Easton weyerbacher.com 8:00 PM Pagoda City Brewhouse, Reading pagodacitybrewing.com Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Start: July 8 @ 12:00 pm End: July 15 @ 10:00 pm Event Tags: 2026 « Campaign Kickoff – Ken Krawchuk, Libertarian for Pennsylvania Governor KenK4Pa Pottstown – Wednesday, July 22 » Home Events Press Releases Issues Volunteer Donate Campaign Songs Socials Facebook X RSS Designed by Elegant Themes | Powered by WordPress

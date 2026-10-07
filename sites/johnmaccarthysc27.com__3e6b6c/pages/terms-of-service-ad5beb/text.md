@@ -1,12 +1,2 @@
-Donate
-Menu
-Home
-Why John
-Issues
-Some Challenges and Not So Fun Facts
-Terms of Service
-Text
-Stay Up To Date
-Follow us on the campaign trail!
-Email
-Subscribe
+Donate Menu Home Why John Issues Some Challenges and Not So Fun Facts Follow us Terms of Service Text Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Why John Issues Some Challenges and Not So Fun Facts Donate Follow us Accessibility Statement Terms of Service Contact Paid for by John MacCarthy for SC House 27 johnmaccarthy4sc27@gmail.com John MacCarthy 4 SC 27 25 Goldsmith Street c/o Paul Merlo Greenville, SC 29609 864.399.8477 John MacCarthy for SC House 27 © #

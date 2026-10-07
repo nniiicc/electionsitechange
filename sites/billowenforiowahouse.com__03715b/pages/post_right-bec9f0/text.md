@@ -1,5 +1,4 @@
-Right
-I think it is time for the grown-ups to step in.
+top of page PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close Bill Owen Bill Owen Bill Owen Bill Owen District 11 Map Donate All Posts News Right Feb 11 2 min read I think it is time for the grown-ups to step in.
 I never liked it when that time came in my former career.
 Whether it was people I supervised or those that supervised me, it was always a very stressful, difficult challenge to tell grown-ups, in a grown-up way, that they need to start acting like grown-ups.
 No matter your position in the organization, the resources made available to you are not yours, they belong to the organization, business, institution or government agency you work for.
@@ -30,3 +29,7 @@ I am running for office in Iowa House District 11 to add my voice to those calli
 We all want to Stop the Fussing and start Fixing Iowa.
 Right?
 Right!
+News Recent Posts See All Bill Owen Talks Education, Skilled Trades, and Wages in Coon Rapids USA!
+USA!
+USA!
+Making Sense of Cancer and Your Water PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close (712) 571-8544 billowenforiowahouse@gmail.com Design by SPB Website Designs Paid for by Bill Owen for Iowa House Privacy Policy PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

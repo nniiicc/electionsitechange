@@ -1,20 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Cocktail+Hour+at+Kimi%E2%80%99s+House&dates=20261007T000000Z%2F20261007T020000Z&location=4699+Highland+Drive%2C+Holladay%2C+Utah%2C+84117%2C+United+States",
-"http://maps.google.com/?q=4699+Highland+Drive+Holladay%2C+Utah%2C+84117+United+States",
-"https://electivawilliams.com/",
-"https://electivawilliams.com/about",
-"https://electivawilliams.com/calendar",
-"https://electivawilliams.com/calendar/fundraiser-at-kimis?format=ical",
-"https://electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2",
-"https://electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2-7tsht",
-"https://electivawilliams.com/cart",
-"https://electivawilliams.com/contact",
-"https://electivawilliams.com/endorsements",
-"https://electivawilliams.com/get-involved",
-"https://electivawilliams.com/priorities",
-"https://electivawilliams.com/volunteer",
-"https://facebook.com/share/1BdWvkF5ug?mibextid=wwXIfr",
-"https://instagram.com/elect.iva",
-"https://secure.actblue.com/donate/electivawilliams",
-"https://secure.actblue.com/donate/ivakimis"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4699+highland+drive+holladay%2C+utah%2C+84117+united+states"
+},
+{
+"text": "0",
+"href": "https://www.electivawilliams.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electivawilliams.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.electivawilliams.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.electivawilliams.com/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.electivawilliams.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.electivawilliams.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/electivawilliams"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electivawilliams.com/endorsements"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.electivawilliams.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cocktail+Hour+at+Kimi%E2%80%99s+House&dates=20261007T000000Z%2F20261007T020000Z&location=4699+Highland+Drive%2C+Holladay%2C+Utah%2C+84117%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/fundraiser-at-kimis?format=ical"
+},
+{
+"text": "Next Next October 13 Sandy Library Cottage Meeting",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2-7tsht"
+},
+{
+"text": "Previous Previous October 1 Sandy Library Cottage Meeting",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2"
+},
+{
+"text": "Priorities",
+"href": "https://www.electivawilliams.com/priorities"
+},
+{
+"text": "RSVP Here",
+"href": "https://secure.actblue.com/donate/ivakimis"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electivawilliams.com/volunteer"
+},
+{
+"text": "[image: Elect Iva Williams]",
+"href": "https://www.electivawilliams.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1BdWvkF5ug/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/elect.iva"
+}
 ]

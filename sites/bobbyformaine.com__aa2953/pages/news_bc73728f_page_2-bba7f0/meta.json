@@ -1,7 +1,9 @@
 {
  "description": "Latest news and updates from Bobby Charles' campaign for Maine Governor. Read about his vision for public safety, lower taxes, and conservative values.",
  "final_url": "https://www.bobbyformaine.com/news?bc73728f_page=2",
- "paid_for_by": null,
+ "fingerprint": "cbd6a5968c2ac9e97062fad40503626c06e377c6",
+ "format": 3,
+ "paid_for_by": "authorized by Bobby Charles for Maine Governor Campaign Committee",
  "title": "Bobby In The News",
  "years_mentioned": [
   "2026"

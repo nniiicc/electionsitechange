@@ -1,5 +1,4 @@
-A Successful Landing
-Like bringing a jumbo jet in for a safe landing, Governor Scott, his administration, the House and Senate, and Democrat and Republican leadership all skillfully collaborated to navigate the big H.454 Education bill home to a successful landing on Monday to close out the 2025 legislative session.
+0 Skip to Content Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact A Successful Landing Jun 17 Written By North for VT House Like bringing a jumbo jet in for a safe landing, Governor Scott, his administration, the House and Senate, and Democrat and Republican leadership all skillfully collaborated to navigate the big H.454 Education bill home to a successful landing on Monday to close out the 2025 legislative session.
 There were many contrary voices at work trying to divert the bold mission on which the Governor launched us at the beginning of this year’s session to reform Vermont’s education system.
 They were saying, “We moved too quickly.
 We aren’t moving fast enough.
@@ -39,7 +38,10 @@ And even with this bill passed, we’re not done.
 After the Districting Task Force does its work this off-season, we’ll be refueled and ready to take flight again in next year’s session to continue the work on education reform that we boldly began this year.
 I’ve only skimmed the surface of this comprehensive reform package.
 If you have questions on these or other aspects of the bill, please contact me directly.
-I remain honored to be your Representative,
-Rob North
-www.NorthForVTHouse.com
-Addison, Ferrisburgh, New Haven, Panton, Vergennes, and Waltham
+I remain honored to be your Representative, Rob North www.NorthForVTHouse.com Addison, Ferrisburgh, New Haven, Panton, Vergennes, and Waltham North for VT House Previous Previous Addison County GOP Ice Cream Social, Thursday, 8/14, 6:30-8:30, Ferrisburgh Town Hall Next Next Wow, What a Week!
+Rob North for a Change Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Paid for by North for State Representative Committee, Warren VanWyck, Treas.
+3502 Middlebrook Rd, Ferrisburgh, VT 05456 info@NorthForVTHouse.com

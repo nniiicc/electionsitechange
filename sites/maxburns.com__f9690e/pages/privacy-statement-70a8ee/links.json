@@ -1,18 +1,74 @@
 [
-"https://facebook.com/VoteMaxBurns",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://img1.wsimg.com/blobby/go/005caa26-6b27-4cc3-965f-15de44496708/MB4SS%20Privacy%20Statement.pdf",
-"https://instagram.com/votemaxburns",
-"https://maxburns.com/",
-"https://maxburns.com/archived-news",
-"https://maxburns.com/contact",
-"https://maxburns.com/contribute",
-"https://maxburns.com/issues",
-"https://maxburns.com/meet-max",
-"https://maxburns.com/news-1",
-"https://maxburns.com/newsletter",
-"https://maxburns.com/press",
-"https://maxburns.com/privacy-statement",
-"https://maxburns.com/signs",
-"https://x.com/@votemaxburns"
+{
+"text": "Archived News",
+"href": "https://maxburns.com/archived-news"
+},
+{
+"text": "Contact",
+"href": "https://maxburns.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://maxburns.com/contribute"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/005caa26-6b27-4cc3-965f-15de44496708/MB4SS%20Privacy%20Statement.pdf"
+},
+{
+"text": "Home",
+"href": "https://maxburns.com/"
+},
+{
+"text": "Issues",
+"href": "https://maxburns.com/issues"
+},
+{
+"text": "Meet Max",
+"href": "https://maxburns.com/meet-max"
+},
+{
+"text": "News",
+"href": "https://maxburns.com/news-1"
+},
+{
+"text": "Newsletter",
+"href": "https://maxburns.com/newsletter"
+},
+{
+"text": "Press",
+"href": "https://maxburns.com/press"
+},
+{
+"text": "Privacy Statement",
+"href": "https://maxburns.com/privacy-statement"
+},
+{
+"text": "Signs",
+"href": "https://maxburns.com/signs"
+},
+{
+"text": "[image: Max Burns for State Senate]",
+"href": "https://maxburns.com/"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/005caa26-6b27-4cc3-965f-15de44496708/MB4SS%20Privacy%20Statement.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteMaxBurns"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votemaxburns/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/@votemaxburns"
+}
 ]

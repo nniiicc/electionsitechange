@@ -1,28 +1,130 @@
 [
-"https://automattic.com/cookies",
-"https://ballotpedia.org/Stephen_Boyle",
-"https://facebook.com/",
-"https://fuzzyteck.wordpress.com/",
-"https://instagram.com/p/DZG_lKhFfU0",
-"https://instagram.com/p/DZgYtkzEoMB",
-"https://instagram.com/p/DdDbByjDoNv",
-"https://instagram.com/reel/DaGG1TkFZ5q",
-"https://instagram.com/reel/DdWuJ9RjIYC",
-"https://instagram.com/reel/DeCxcP0QqD8",
-"https://instagram.com/stephenboylenow",
-"https://migreenparty.org/",
-"https://sboyledetroit.wordpress.com/",
-"https://sboyledetroit.wordpress.com/2025/01/21/open-meetings-act-compliant",
-"https://sboyledetroit.wordpress.com/2025/06/19/streetscape-projects",
-"https://sboyledetroit.wordpress.com/2025/06/19/taxes",
-"https://sboyledetroit.wordpress.com/2025/11/06/public-transportation-dependency",
-"https://sboyledetroit.wordpress.com/about",
-"https://sboyledetroit.wordpress.com/about?share=facebook",
-"https://sboyledetroit.wordpress.com/about?share=twitter",
-"https://subscribe.wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fsboyledetroit.wordpress.com%2Fabout%2F",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsboyledetroit.wordpress.com%2Fabout%2F&signup_flow=account",
-"https://wordpress.com/reader/blogs/239131096/posts/1",
-"https://wordpress.com/start",
-"https://wp.me/PgbmVa-1"
+{
+"text": "About",
+"href": "https://sboyledetroit.wordpress.com/about/"
+},
+{
+"text": "Ballotpedia",
+"href": "https://ballotpedia.org/Stephen_Boyle"
+},
+{
+"text": "Copy shortlink",
+"href": "https://wp.me/PgbmVa-1"
+},
+{
+"text": "Deep Thoughts Surfacing",
+"href": "https://fuzzyteck.wordpress.com/"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/"
+},
+{
+"text": "Get started",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/stephenboylenow/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsboyledetroit.wordpress.com%2Fabout%2F&signup_flow=account"
+},
+{
+"text": "Log in now.",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsboyledetroit.wordpress.com%2Fabout%2F&signup_flow=account"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "Michigan Green Party, click here",
+"href": "https://migreenparty.org"
+},
+{
+"text": "Next",
+"href": "https://sboyledetroit.wordpress.com/"
+},
+{
+"text": "Open Meetings Act Compliant?",
+"href": "https://sboyledetroit.wordpress.com/2025/01/21/open-meetings-act-compliant/"
+},
+{
+"text": "Public Transportation Dependency",
+"href": "https://sboyledetroit.wordpress.com/2025/11/06/public-transportation-dependency/"
+},
+{
+"text": "Read more",
+"href": "https://sboyledetroit.wordpress.com/about/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fsboyledetroit.wordpress.com%2Fabout%2F"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://sboyledetroit.wordpress.com/about/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://sboyledetroit.wordpress.com/about/?share=twitter"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Stephen Boyle for State Representative District 8",
+"href": "https://sboyledetroit.wordpress.com"
+},
+{
+"text": "Streetscape Projects",
+"href": "https://sboyledetroit.wordpress.com/2025/06/19/streetscape-projects/"
+},
+{
+"text": "Taxes",
+"href": "https://sboyledetroit.wordpress.com/2025/06/19/taxes/"
+},
+{
+"text": "View post in Reader",
+"href": "https://wordpress.com/reader/blogs/239131096/posts/1"
+},
+{
+"text": "[image: Bitcoin went down 7.3% the last 24 hours. Over the past year it's lost almost 40% of valuation.]",
+"href": "https://www.instagram.com/p/DZG_lKhFfU0/"
+},
+{
+"text": "[image: From the #PeoplesForum2026Detroit ]",
+"href": "https://www.instagram.com/reel/DaGG1TkFZ5q/"
+},
+{
+"text": "[image: I've received proof ballots from Oakland & Wayne County Clerks. I'm right there... ✅️ Green Party candidate for Michigan State Representative District 8 - northern Detroit, Ferndale. Pleasant Ridge.]",
+"href": "https://www.instagram.com/p/DdDbByjDoNv/"
+},
+{
+"text": "[image: Short clip from one of the upcoming films regarding DPSCD in 2027. There's history, legislative issues, social topics and more.]",
+"href": "https://www.instagram.com/reel/DeCxcP0QqD8/"
+},
+{
+"text": "[image: Stephen Boyle for State Representative District 8]",
+"href": "https://sboyledetroit.wordpress.com/"
+},
+{
+"text": "[image: https://www.instagram.com/reel/DdWuJ9RjIYC/]",
+"href": "https://www.instagram.com/reel/DdWuJ9RjIYC/"
+},
+{
+"text": "[image: 🎉 Facebook recognized me as a consistent post creator this week!]",
+"href": "https://www.instagram.com/p/DZgYtkzEoMB/"
+},
+{
+"text": "[image]Stephen Boyle for State Representative District 8",
+"href": "https://sboyledetroit.wordpress.com"
+},
+{
+"text": "[no text]",
+"href": "https://wordpress.com/start/"
+}
 ]

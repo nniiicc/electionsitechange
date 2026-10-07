@@ -1,38 +1,26 @@
-FOR IMMEDIATE RELEASE
-March 23, 2026
-March 23 marks the 16th anniversary of passage of the Affordable Care Act (ACA), landmark legislation that expanded health care access to millions of Americans
-The ACA enabled ~340,000 Mississippians to access health coverage through the state marketplace — in one of the nation’s poorest and most medically underserved states
-Since arriving in Washington, Cindy Hyde-Smith has voted repeatedly to undermine health care access for Mississippians
-District Attorney Colom: “Since Cindy Hyde-Smith got to Washington, she’s voted to cut health care for 142,000 of our neighbors to give a tax cut to people already making $600,000 a year […] that’s a betrayal”
-WATCH: Scott Colom talks to real Mississippians about the impact of the Affordable Care Act on their lives – VIDEO HERE
-Columbus, MS — Sixteen years ago today, the Affordable Care Act (ACA) gave millions of Mississippians access to health coverage they’d never had.
+Skip to content The Latest Endorsements Store Volunteer Voting Information The Latest Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate March 23, 2026 Press Release Sixteen Years After Passage of Affordable Care Act, Cindy Hyde-Smith Has Made Mississippi’s Health Care Crisis Worse FOR IMMEDIATE RELEASE March 23, 2026 March 23 marks the 16th anniversary of passage of the Affordable Care Act (ACA), landmark legislation that expanded health care access to millions of Americans The ACA enabled ~340,000 Mississippians to access health coverage through the state marketplace — in one of the nation’s poorest and most medically underserved states Since arriving in Washington, Cindy Hyde-Smith has voted repeatedly to undermine health care access for Mississippians District Attorney Colom : “Since Cindy Hyde-Smith got to Washington, she’s voted to cut health care for 142,000 of our neighbors to give a tax cut to people already making $600,000 a year […] that’s a betrayal” WATCH : Scott Colom talks to real Mississippians about the impact of the Affordable Care Act on their lives – VIDEO HERE Columbus, MS — Sixteen years ago today, the Affordable Care Act (ACA) gave millions of Mississippians access to health coverage they’d never had.
 Today, that progress is being dismantled — and Senator Cindy Hyde-Smith has had her hand on the wrecking ball since she arrived in Washington.
 “Sixteen years ago, the ACA gave Mississippi families a lifeline.
 Since Cindy Hyde-Smith got to Washington, she’s voted to cut health care for 142,000 of our neighbors to give a tax cut to people already making $600,000 a year.
 Now eight of our rural hospitals are on the brink of closing, and families buying their own insurance are staring down a more than 300% premium increase.
 That’s a betrayal,” said District Attorney Colom in commemoration of the ACA’s anniversary.
 Colom continued: “I’m running to lower costs for Mississippi families, save our hospitals, and bring real health care access home.
-Because Mississippi matters, and we deserve a Senator who acts like it.”
-[Watch video of Scott Colom discussing the impact of the ACA with Mississippians who benefited from the legislation HERE]
-The state of health care in Mississippi — by the numbers:
-- 8 Mississippi rural hospitals are now at risk of closing due to health care cuts Hyde-Smith supported.
-(Clarion-Ledger)
-- 338,159 Mississippians enrolled in the ACA marketplace are being hit with an average premium increase of 314% beginning this year — forcing families to choose between coverage and groceries.
-(Kaiser Family Foundation/Protect Our Care)
-- 110,000 Mississippians are projected to lose coverage entirely as a result.
-(Kaiser Family Foundation)
-- Providers across the state will lose an additional $981 million in funding.
-(Urban Institute)
-Cindy Hyde-Smith’s record:
-- Cindy Hyde-Smith voted to cut health care benefits for 142,000 Mississippians to give a permanent tax cut to Americans making over $600,000 a year.
-- She voted against extending the ACA premium tax credits that kept marketplace coverage affordable for working Mississippians.
-(U.S.
-Senate Roll Call, December 2025)
-- While Mississippians’ premiums skyrocketed, she billed nearly $10,000 in Las Vegas hotel stays and meals to her campaign — then voted against the very transparency measures that would have required her to explain them.
-(Mississippi Free Press)
-- She has never held a public town hall to answer for any of it.
-###
-About Scott: Scott Colom is a seventh-generation Mississippian, proud husband and father of two, and district attorney who fights every day to keep Mississippians safe.
+Because Mississippi matters, and we deserve a Senator who acts like it.” [Watch video of Scott Colom discussing the impact of the ACA with Mississippians who benefited from the legislation HERE ] The state of health care in Mississippi — by the numbers: 8 Mississippi rural hospitals are now at risk of closing due to health care cuts Hyde-Smith supported. ( Clarion-Ledger ) 338,159 Mississippians enrolled in the ACA marketplace are being hit with an average premium increase of 314% beginning this year — forcing families to choose between coverage and groceries. ( Kaiser Family Foundation / Protect Our Care ) 110,000 Mississippians are projected to lose coverage entirely as a result. ( Kaiser Family Foundation ) Providers across the state will lose an additional $981 million in funding. ( Urban Institute ) Cindy Hyde-Smith’s record: Cindy Hyde-Smith voted to cut health care benefits for 142,000 Mississippians to give a permanent tax cut to Americans making over $600,000 a year.
+She voted against extending the ACA premium tax credits that kept marketplace coverage affordable for working Mississippians. ( U.S.
+Senate Roll Call, December 2025 ) While Mississippians’ premiums skyrocketed, she billed nearly $10,000 in Las Vegas hotel stays and meals to her campaign — then voted against the very transparency measures that would have required her to explain them. ( Mississippi Free Press ) She has never held a public town hall to answer for any of it.
+### About Scott : Scott Colom is a seventh-generation Mississippian, proud husband and father of two, and district attorney who fights every day to keep Mississippians safe.
 Guided by his Christian faith, Scott has dedicated his life to serving his neighbors and keeping them safe from violent criminals.
 Now he’s running to lower costs for families, save our Mississippi hospitals, and bring good jobs home.
 Scott loves his state and will always put Mississippi first – and he’ll work with anyone, Republican or Democrat, to get things done for us.
+SHARE Let's Go!
+Sign Up To Join The Team Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy. or chip in $ 17 text Scott to 54937 Scott Colom is a seventh-generation Mississippian, proud husband and father of two, and district attorney who fights every day to keep Mississippians safe.
+Now, he’s running to serve in the United States Senate in the November 2026 election.
+Support his campaign by making a contribution or signing up to volunteer .
+Facebook X-twitter Instagram Tiktok Contributions can be mailed to: Scott Colom for Senate PO Box 112, Columbus, MS 39703 Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Paid for by Scott Colom for Senate By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy. © Copyright # Scott Colom for Senate.
+All Rights Reserved.

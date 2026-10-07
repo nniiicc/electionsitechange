@@ -1,7 +1,12 @@
 {
  "description": "Visit the post for more.",
  "final_url": "https://stellarpollard.com/blog-feed/",
- "paid_for_by": null,
- "title": "Blog Feed \u2013 Stella for KY",
- "years_mentioned": []
+ "fingerprint": "0fe1da6d3d9ad01e680302485793863c4fd69964",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Blog Feed – Stella for KY",
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

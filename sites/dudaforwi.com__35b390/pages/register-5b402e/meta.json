@@ -1,8 +1,10 @@
 {
  "description": "General Election, Tuesday, November 3, 2026. Register online by 11:59 PM Wed, Oct 14, at your municipal clerk by Fri, Oct 30, or at the polls on election day. Official state service: myvote.wi.gov/en-US/RegisterToVote. Verify any and all information at myvote.wi.gov.",
  "final_url": "https://www.dudaforwi.com/register?refcode=vb-register",
- "paid_for_by": null,
- "title": "Register to vote \u00b7 Nov 3 Wisconsin general election \u00b7 Adam Duda for State Senate",
+ "fingerprint": "bd6ec068a764179d28e2df7f7209f3784ca7dabb",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Register to vote · Nov 3 Wisconsin general election · Adam Duda for State Senate",
  "years_mentioned": [
   "2026"
  ]

@@ -1,25 +1,10 @@
-Skip navigation menu
-Growing up as the daughter of farmworkers, I know the sacrifices and hard work it takes just to make ends meet.
+Skip navigation menu Home About Issues Take Action Endorsements News Media Contact Donate A Strong Voice for the Valley Email Email Phone Phone ZIP Code ZIP Code Submit By providing your email you agree to receive communications from the Melissa Hurtado for State Senate campaign.
+Message frequency varies.
+Home About Issues Take Action Endorsements News Media Contact Donate A Strong Voice for the Valley Email Email Phone Phone ZIP Code ZIP Code Submit By providing your email you agree to receive communications from the Melissa Hurtado for State Senate campaign.
+Message frequency varies.
+Dear Friend, Growing up as the daughter of farmworkers, I know the sacrifices and hard work it takes just to make ends meet.
 Special interests have lobbyists who advocate for them in Sacramento.
 My mission is to advocate for the people of the Central Valley and to hold powerful interests accountable.
-As your State Senator, I have fought for laws to:
-• Reduce healthcare costs and force insurance companies to respond to consumers.
-• Lower prices on groceries, gas, and utilities by tackling corporate price fixing.
-• Protect consumers by holding tech companies responsible for data breaches.
-• Build housing by cutting the red tape that makes construction unaffordable.
-Watch our New ad
-In the State Senate
-Melissa Hurtado has fought to:
-Lower prices of gas and groceries by combating price fixing
-Build housing that working families can afford
-Help businesses cut red tape and create good paying jobs
-Invest in water infrastructure to help farms and lower prices
-Fight crime by fully funding local law enforcement, and combat addiction and reduce drug overdoses
-Fund public schools to ensure Valley kids can thrive
-Improve healthcare access throughout the Valley
-Raise wages by providing tax credits for farms and farmworkers
-“Our Valley raised me, and I’ll always stand up for Valley families.”
-Dear Friend,
-I would be honored to earn your vote.
--Melissa
--State Senator Melissa Hurtado
+As your State Senator, I have fought for laws to: • Reduce healthcare costs and force insurance companies to respond to consumers. • Lower prices on groceries, gas, and utilities by tackling corporate price fixing. • Protect consumers by holding tech companies responsible for data breaches. • Build housing by cutting the red tape that makes construction unaffordable.
+I would be honored to earn your vote. -Melissa Watch our New ad State Senator Melissa Hurtado opposed gas tax increases and higher utility rates, helped fix the canal, and fought to ensure clean, safe water for Valley families and farms.
+In the State Senate Melissa Hurtado has fought to: Lower prices of gas and groceries by combating price fixing Build housing that working families can afford Help businesses cut red tape and create good paying jobs Invest in water infrastructure to help farms and lower prices Fight crime by fully funding local law enforcement, and combat addiction and reduce drug overdoses Fund public schools to ensure Valley kids can thrive Improve healthcare access throughout the Valley Raise wages by providing tax credits for farms and farmworkers “Our Valley raised me, and I’ll always stand up for Valley families.” -State Senator Melissa Hurtado Support Melissa Hurtado for State Senate! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Paid for by Valley Families for Melissa Hurtado for Senate 2026 You need to enable JavaScript to run this app.

@@ -1,10 +1,11 @@
 {
  "description": "",
  "final_url": "https://jessegabriel.com/assembly-district-46-1",
- "paid_for_by": null,
+ "fingerprint": "57a854ebcfeb10bcff4b243335ffe56ed95f956e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Assembly District 46",
  "years_mentioned": [
-  "2023",
   "2026"
  ]
 }

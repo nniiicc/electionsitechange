@@ -1,25 +1,12 @@
-Oklahoma City, OK – Today, the campaign for Oklahoma Attorney General candidate Jon Echols announced a new list of 13 Sheriff endorsements.
+Skip to content Home Priorities Meet Jon News Endorsements Media Contact Home Priorities Meet Jon News Endorsements Media Contact Donate Echols Campaign Announces Endorsement by Over Half of all Oklahoma Sheriffs September 4, 2025 Oklahoma City, OK – Today, the campaign for Oklahoma Attorney General candidate Jon Echols announced a new list of 13 Sheriff endorsements.
 With the announcement, Echols has officially locked in the endorsement of over half the Sheriffs in Oklahoma.
 He now sits at 39 Sheriffs since his announcement in late February.
 The full list can be viewed here.
-Adam Woodruff – Latimer County Sheriff
-Dan Day – Custer County Sheriff
-David Dean – Ottawa County Sheriff
-Heath Winfrey – Craig County Sheriff
-Jason Chennault – Cherokee County Sheriff
-Kody Simpson – Atoka County Sheriff
-Larry Lane – Sequoyah County Sheriff
-Oscar Juanes – Tillman County Sheriff
-Spencer Davis – Caddo County Sheriff
-Stacy Randolph – Jackson County Sheriff
-Steve Kelley – Kay County Sheriff
-Terry Garland – Haskell County Sheriff
-Tony Robinson – Major County Sheriff
-“The public safety coalition behind this campaign is not just about the incredible support we have across the state; it is also about the fact that public safety and backing law enforcement are unshakable pillars of this campaign,” Jon Echols said regarding the new endorsements.
-“Jon Echols is clearly the law-and-order candidate in this race.
+Adam Woodruff – Latimer County Sheriff Dan Day – Custer County Sheriff David Dean – Ottawa County Sheriff Heath Winfrey – Craig County Sheriff Jason Chennault – Cherokee County Sheriff Kody Simpson – Atoka County Sheriff Larry Lane – Sequoyah County Sheriff Oscar Juanes – Tillman County Sheriff Spencer Davis – Caddo County Sheriff Stacy Randolph – Jackson County Sheriff Steve Kelley – Kay County Sheriff Terry Garland – Haskell County Sheriff Tony Robinson – Major County Sheriff “ The public safety coalition behind this campaign is not just about the incredible support we have across the state; it is also about the fact that public safety and backing law enforcement are unshakable pillars of this campaign ,” Jon Echols said regarding the new endorsements. “ Jon Echols is clearly the law-and-order candidate in this race.
 There are still 10 months remaining in this Primary, and Jon already has over half the Sheriffs in this state.
-That is a testament to the hard work of this campaign and Jon’s unwavering support for our brave law enforcement officers.” said campaign manager Isaac Hadam.
+That is a testament to the hard work of this campaign and Jon’s unwavering support for our brave law enforcement officers. ” said campaign manager Isaac Hadam.
 Jon Echols is a 5th generation Oklahoman and is the former Majority Floor Leader of the Oklahoma House of Representatives.
 Holding the title for 8 years he is the longest serving Floor Leader in Oklahoma history.
 Jon has a proven track record of conservative leadership and is running for Attorney General to make Oklahoma safer, freer and stronger.
-###
+### Share: More Posts Oklahoma Farm Bureau Endorses Jon Echols for Attorney General Oklahoma City, OK – Today, in a sign of continued momentum for the campaign, the Oklahoma Farm Bureau is officially endorsing Republican nominee, Jon Echols, Oklahoma Faith Leaders President, Paul Abner, Endorses Jon Echols for Attorney General Oklahoma City, OK – As Oklahoma conservatives continue to coalesce behind one candidate for Attorney General, Jon Echols, the President for Oklahoma Faith Leaders, Paul Polling Memo: Echols Holds Commanding Lead in AG’s Race New polling is out and it shows Jon Echols up by 20 points in the Republican Primary for Attorney General.
+The full memo is below Media Advisory: Echols to File for Attorney General Contact: Isaac Hadam – isaac@jonechols.com Oklahoma City, OK – The Conservative candidate for Attorney General, Jon Echols, will formally file his paperwork at the State Capitol today.

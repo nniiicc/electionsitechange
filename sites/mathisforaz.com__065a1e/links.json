@@ -1,9 +1,42 @@
 [
-"https://facebook.com/mathisforaz",
-"https://instagram.com/mathisforAZ",
-"https://mathisforaz.com/",
-"https://mathisforaz.com/endorsements",
-"https://secure.actblue.com/donate/mathis2026-website",
-"https://twitter.com/MathisforAZ",
-"https://us17.list-manage.com/survey?u=e82b59b8f47414139f3ca1a98&id=115eb2d87c&attribution=false"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mathis2026-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mathisforaz.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.mathisforaz.com"
+},
+{
+"text": "Join",
+"href": "https://www.mathisforaz.com"
+},
+{
+"text": "Meet Chris",
+"href": "https://www.mathisforaz.com"
+},
+{
+"text": "Sign up to Volunteer with the Campaign!",
+"href": "https://us17.list-manage.com/survey?u=e82b59b8f47414139f3ca1a98&id=115eb2d87c&attribution=false"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mathisforaz.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/mathisforaz/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mathisforAZ/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/MathisforAZ"
+}
 ]

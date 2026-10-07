@@ -1,6 +1,4 @@
-Luke believes in
-Protecting Medicare, Medicaid, & Pushing for Universal Healthcare
-Our healthcare system is broken.
+Skip navigation menu About Issues Endorsements Contact Lawn Signs Jobs Donate About Issues Endorsements Contact Lawn Signs Jobs Donate Bringing Down Costs Abolishing ICE & Fixing Our Immigration System Protecting Medicare, Medicaid, & Pushing for Universal Healthcare Building More Housing Affordable Childcare & Eldercare Safeguarding Reproductive Freedom Protecting LGBTQ+ Rights Taking Climate Change Seriously Fighting Corruption Creating a Fair Tax Code Reducing Gun Violence Educating Our Kids Building Modern Infrastructure Strengthening Social Security Getting the Balance Right with Artificial Intelligence Luke believes in Protecting Medicare, Medicaid, & Pushing for Universal Healthcare Our healthcare system is broken.
 Healthcare costs keep going up.
 Health insurance depends too much on where you work.
 Even when you have good coverage, it can feel impossible to navigate the healthcare system.
@@ -11,10 +9,13 @@ We need to protect and strengthen Medicare and Medicaid, negotiate down the pric
 We need a strong public option so that any American who wants to participate in Medicare can do so.
 Every single American should have access to primary and preventive care.
 And we need to get rid of the ridiculous administrative costs and unnecessary middlemen that suck up so much money in the healthcare system.
-In the near term, we must pass the Break Up Big Medicine Act, a bipartisan bill put forward by an unlikely alliance: Elizabeth Warren and Josh Hawley.
+In the near term, we must pass the Break Up Big Medicine Act , a bipartisan bill put forward by an unlikely alliance: Elizabeth Warren and Josh Hawley.
 The healthcare industry is consolidating like crazy.
 The same big corporations are taking control of insurance, pharmacy benefit management, pharmacies, medical practices and healthcare providers.
 And they’re extracting massive profit.
 Healthcare monopolies aren’t healthy for our country.
 In Congress, I’ll fight to break up healthcare monopolies to protect Americans from extracting profit at the expense of affordable, accessible healthcare.
 We also have a chance to save lives and save money by investing in research and development to help diagnose disease early and develop new treatments and cures, for everything from chronic conditions to cancer.
+For press inquiries, email press@broninforcongress.com.
+For all other inquiries, please contact info@broninforcongress.com.
+Checks may be made out to "Luke Bronin for Congress" and mailed to: Luke Bronin for Congress, PO Box 230161, Hartford, CT 06123 Paid for by Luke Bronin for Congress You need to enable JavaScript to run this app.

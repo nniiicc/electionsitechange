@@ -1,9 +1,9 @@
 {
  "description": "Get in touch with Penny for NC House! Use our contact form for inquiries, email updates, and learn how to get involved. Join our newsletter today!",
  "final_url": "https://pennyfornchouse.com/contact-us",
- "paid_for_by": null,
+ "fingerprint": "dc63e6e8fc9a6947957b889463a81d6ccc8d1fd7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Penny for NC House",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

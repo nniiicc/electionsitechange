@@ -1,12 +1,46 @@
 [
-"https://facebook.com/HashimotoForSenate",
-"https://instagram.com/hashimoto4senate",
-"https://secure.actblue.com/donate/troyhashimoto-senate",
-"https://troyhashimoto.com/",
-"https://troyhashimoto.com/about-troy",
-"https://troyhashimoto.com/contact-2",
-"https://troyhashimoto.com/governor-ige-appoints-troy-hashimoto",
-"https://troyhashimoto.com/issues2",
-"https://troyhashimoto.com/join-troy-hashimoto-for-fundraiser",
-"https://troyhashimoto.com/media"
+{
+"text": "About Troy",
+"href": "https://www.troyhashimoto.com/about-troy/"
+},
+{
+"text": "Contact",
+"href": "https://www.troyhashimoto.com/contact-2/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/troyhashimoto-senate"
+},
+{
+"text": "Governor Ige Appoints Troy Hashimoto",
+"href": "https://www.troyhashimoto.com/governor-ige-appoints-troy-hashimoto/"
+},
+{
+"text": "Home",
+"href": "https://www.troyhashimoto.com"
+},
+{
+"text": "Issues",
+"href": "https://www.troyhashimoto.com/issues2/"
+},
+{
+"text": "Join Troy for a Fundraiser on June 28",
+"href": "https://www.troyhashimoto.com/join-troy-hashimoto-for-fundraiser/"
+},
+{
+"text": "Media",
+"href": "https://www.troyhashimoto.com/media/"
+},
+{
+"text": "[image: Troy Hashimoto for State Senate]",
+"href": "https://www.troyhashimoto.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HashimotoForSenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/hashimoto4senate/"
+}
 ]

@@ -1,31 +1,142 @@
 [
-"http://amazon.com/stores/Mark-W.-Yonkman/author/B0CTTV6WQ6?isDramIntegrated=true&shoppingPortalEnabled=true",
-"http://barnesandnoble.com/w/reclaim-the-rural-vote-and-win-in-2024-a-democratic-operatives-handbook-mark-yonkman/1144951089?ean=9798987147191",
-"http://markyonkman.com/",
-"https://facebook.com/yonkmanforsenate",
-"https://instagram.com/yonkmanforsenate",
-"https://link.clover.com/urlshortener/6t47s7",
-"https://link.clover.com/urlshortener/8Z5SN3",
-"https://link.clover.com/urlshortener/GPVn83",
-"https://link.clover.com/urlshortener/GPvKvy",
-"https://link.clover.com/urlshortener/KL5cpS",
-"https://link.clover.com/urlshortener/MzGss5",
-"https://link.clover.com/urlshortener/yKx3zZ",
-"https://link.clover.com/urlshortener/zbmrhd",
-"https://secure.actblue.com/donate/mark-yonkman-1",
-"https://x.com/YonkmanSenate",
-"https://yonkmanforsenate.org/",
-"https://yonkmanforsenate.org/_files/ugd/291491_40ce9c77b8c44c1f9b2db147d31dcfc9.pdf",
-"https://yonkmanforsenate.org/about",
-"https://yonkmanforsenate.org/accessibility-statement",
-"https://yonkmanforsenate.org/agriculture",
-"https://yonkmanforsenate.org/articles",
-"https://yonkmanforsenate.org/campaignannouncement",
-"https://yonkmanforsenate.org/contact",
-"https://yonkmanforsenate.org/dugganvisit",
-"https://yonkmanforsenate.org/get-involved",
-"https://yonkmanforsenate.org/news-and-events",
-"https://yonkmanforsenate.org/priorities",
-"https://yonkmanforsenate.org/privacy-policy",
-"https://yonkmanforsenate.org/terms-and-conditions"
+{
+"text": "About Me",
+"href": "https://www.yonkmanforsenate.org/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.yonkmanforsenate.org/accessibility-statement"
+},
+{
+"text": "ActBlue",
+"href": "https://secure.actblue.com/donate/mark-yonkman-1"
+},
+{
+"text": "Articles by Mark",
+"href": "https://www.yonkmanforsenate.org/articles"
+},
+{
+"text": "CampaignAnnouncement",
+"href": "https://www.yonkmanforsenate.org/campaignannouncement"
+},
+{
+"text": "Choose a Donation (up to $#)",
+"href": "https://link.clover.com/urlshortener/8Z5SN3"
+},
+{
+"text": "Contact",
+"href": "https://www.yonkmanforsenate.org/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.yonkmanforsenate.org"
+},
+{
+"text": "Donate $10",
+"href": "https://link.clover.com/urlshortener/zbmrhd"
+},
+{
+"text": "Donate $100",
+"href": "https://link.clover.com/urlshortener/GPvKvy"
+},
+{
+"text": "Donate $1000",
+"href": "https://link.clover.com/urlshortener/MzGss5"
+},
+{
+"text": "Donate $25",
+"href": "https://link.clover.com/urlshortener/KL5cpS"
+},
+{
+"text": "Donate $250",
+"href": "https://link.clover.com/urlshortener/6t47s7"
+},
+{
+"text": "Donate $50",
+"href": "https://link.clover.com/urlshortener/yKx3zZ"
+},
+{
+"text": "Donate $500",
+"href": "https://link.clover.com/urlshortener/GPVn83"
+},
+{
+"text": "DugganVisit",
+"href": "https://www.yonkmanforsenate.org/dugganvisit"
+},
+{
+"text": "Events",
+"href": "https://www.yonkmanforsenate.org/news-and-events"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.yonkmanforsenate.org/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.yonkmanforsenate.org/agriculture"
+},
+{
+"text": "Mark@MarkYonkman.com",
+"href": "mailto:Mark@MarkYonkman.com"
+},
+{
+"text": "Meet Mark",
+"href": "https://www.yonkmanforsenate.org/about"
+},
+{
+"text": "News",
+"href": "https://www.yonkmanforsenate.org/news-and-events"
+},
+{
+"text": "News & Events",
+"href": "https://www.yonkmanforsenate.org/news-and-events"
+},
+{
+"text": "Priorities",
+"href": "https://www.yonkmanforsenate.org/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.yonkmanforsenate.org/privacy-policy"
+},
+{
+"text": "See Mark's Book",
+"href": "http://markyonkman.com"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.yonkmanforsenate.org/terms-and-conditions"
+},
+{
+"text": "[image: 3d 6x9.png]",
+"href": "http://markyonkman.com"
+},
+{
+"text": "[image: Amazon-Logo.png]",
+"href": "http://amazon.com/stores/Mark-W.-Yonkman/author/B0CTTV6WQ6?isDramIntegrated=true&shoppingPortalEnabled=true"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/yonkmanforsenate"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/yonkmanforsenate"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/YonkmanSenate"
+},
+{
+"text": "[image: b&N icon.jpg]",
+"href": "http://barnesandnoble.com/w/reclaim-the-rural-vote-and-win-in-2024-a-democratic-operatives-handbook-mark-yonkman/1144951089?ean=9798987147191"
+},
+{
+"text": "[image: mark yonkman senate logo.png]",
+"href": "https://www.yonkmanforsenate.org"
+},
+{
+"text": "here",
+"href": "https://www.yonkmanforsenate.org/_files/ugd/291491_40ce9c77b8c44c1f9b2db147d31dcfc9.pdf"
+}
 ]

@@ -1,16 +1,70 @@
 [
-"https://facebook.com/profile.php?id=61578793325125",
-"https://instagram.com/owen.t.farnsworth",
-"https://owenfarnsworth.com/",
-"https://owenfarnsworth.com/contact",
-"https://owenfarnsworth.com/education",
-"https://owenfarnsworth.com/fair-work",
-"https://owenfarnsworth.com/farms",
-"https://owenfarnsworth.com/healthcare",
-"https://owenfarnsworth.com/my-policies",
-"https://owenfarnsworth.com/our-roads",
-"https://owenfarnsworth.com/prices",
-"https://owenfarnsworth.com/volunteer",
-"https://secure.actblue.com/donate/owen-farnsworth",
-"https://tiktok.com/@owen.t.farnsworth?is_from_webapp=1&sender_device=pc"
+{
+"text": "ActBlue Donate",
+"href": "https://secure.actblue.com/donate/owen-farnsworth"
+},
+{
+"text": "Affordability",
+"href": "https://www.owenfarnsworth.com/prices"
+},
+{
+"text": "Campaign@OwenFarnsworth.com",
+"href": "mailto:Campaign@OwenFarnsworth.com"
+},
+{
+"text": "Contact",
+"href": "https://www.owenfarnsworth.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/owen-farnsworth"
+},
+{
+"text": "Education",
+"href": "https://www.owenfarnsworth.com/education"
+},
+{
+"text": "Fair Work",
+"href": "https://www.owenfarnsworth.com/fair-work"
+},
+{
+"text": "Farms",
+"href": "https://www.owenfarnsworth.com/farms"
+},
+{
+"text": "Healthcare",
+"href": "https://www.owenfarnsworth.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.owenfarnsworth.com"
+},
+{
+"text": "My Policies",
+"href": "https://www.owenfarnsworth.com/my-policies"
+},
+{
+"text": "Our Roads",
+"href": "https://www.owenfarnsworth.com/our-roads"
+},
+{
+"text": "Volunteer",
+"href": "https://www.owenfarnsworth.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61578793325125"
+},
+{
+"text": "[image: Red Banner Logo NoBG.png]",
+"href": "https://www.owenfarnsworth.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@owen.t.farnsworth?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "[image: twitter]",
+"href": "https://www.instagram.com/owen.t.farnsworth"
+}
 ]

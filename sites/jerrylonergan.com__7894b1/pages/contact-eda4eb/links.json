@@ -1,10 +1,46 @@
 [
-"http://jerrylonergan.com/",
-"http://jerrylonergan.com/contact",
-"https://facebook.com/profile.php?id=61589284863740",
-"https://instagram.com/jerryfortheprairie?igsh=Y3dwejVyaTl6b3lz",
-"https://jerrylonergan.com/",
-"https://jerrylonergan.com/about",
-"https://jerrylonergan.com/contact",
-"https://secure.actblue.com/donate/jerry-for-the-prairie"
+{
+"text": "About",
+"href": "https://jerrylonergan.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://jerrylonergan.com/contact/"
+},
+{
+"text": "Donate",
+"href": "http://jerrylonergan.com/contact#donate"
+},
+{
+"text": "Donate Online",
+"href": "https://secure.actblue.com/donate/jerry-for-the-prairie"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61589284863740"
+},
+{
+"text": "Home",
+"href": "https://jerrylonergan.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/jerryfortheprairie?igsh=Y3dwejVyaTl6b3lz"
+},
+{
+"text": "Jerry Lonergan 4 KS State Rep",
+"href": "https://www.facebook.com/profile.php?id=61589284863740"
+},
+{
+"text": "Values",
+"href": "http://jerrylonergan.com/#values"
+},
+{
+"text": "[image]",
+"href": "https://jerrylonergan.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61589284863740"
+}
 ]

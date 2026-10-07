@@ -1,20 +1,74 @@
 [
-"https://campaignpartner.com/",
-"https://hamilton4fl.com/",
-"https://hamilton4fl.com/Events?range=2026-10",
-"https://hamilton4fl.com/Events?range=2026-10-05",
-"https://hamilton4fl.com/Events?range=2026-7",
-"https://hamilton4fl.com/Events?range=2026-9",
-"https://hamilton4fl.com/Events?range=2026-W41",
-"https://hamilton4fl.com/contact",
-"https://hamilton4fl.com/contribute",
-"https://hamilton4fl.com/events",
-"https://hamilton4fl.com/find-your-district",
-"https://hamilton4fl.com/home",
-"https://hamilton4fl.com/issues",
-"https://hamilton4fl.com/meet_michaelangelo",
-"https://hamilton4fl.com/news",
-"https://hamilton4fl.com/photos",
-"https://hamilton4fl.com/volunteer",
-"https://hamilton4fl.com/yard-sign"
+{
+"text": "#ago",
+"href": "https://www.hamilton4fl.com/Events?range=%23"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.hamilton4fl.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.hamilton4fl.com/contribute"
+},
+{
+"text": "Events",
+"href": "https://www.hamilton4fl.com/events"
+},
+{
+"text": "Find Your District",
+"href": "https://www.hamilton4fl.com/find-your-district"
+},
+{
+"text": "Home",
+"href": "https://www.hamilton4fl.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.hamilton4fl.com/issues"
+},
+{
+"text": "Meet Michaelangelo",
+"href": "https://www.hamilton4fl.com/meet_michaelangelo"
+},
+{
+"text": "News",
+"href": "https://www.hamilton4fl.com/news"
+},
+{
+"text": "Next ›",
+"href": "https://www.hamilton4fl.com/Events?range=2026-9"
+},
+{
+"text": "Photos",
+"href": "https://www.hamilton4fl.com/photos"
+},
+{
+"text": "This Month",
+"href": "https://www.hamilton4fl.com/Events?range=2026-10"
+},
+{
+"text": "This Week",
+"href": "https://www.hamilton4fl.com/Events?range=2026-W41"
+},
+{
+"text": "Volunteer",
+"href": "https://www.hamilton4fl.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.hamilton4fl.com/yard-sign"
+},
+{
+"text": "[image: Michaelangelo Hamilton U.S. Representative]",
+"href": "https://www.hamilton4fl.com/"
+},
+{
+"text": "‹ Previous",
+"href": "https://www.hamilton4fl.com/Events?range=2026-7"
+}
 ]

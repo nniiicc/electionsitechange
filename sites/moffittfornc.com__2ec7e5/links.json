@@ -1,6 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61584813847360",
-"https://instagram.com/moffittfornc?igsh=MW9xcHlqY283Ym5lMQ%3D%3D",
-"https://secure.anedot.com/ryan-moffitt-for-nc-house/donate",
-"https://x.com/moffittfornc?s=21"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/ryan-moffitt-for-nc-house/donate"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/ryan-moffitt-for-nc-house/donate"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/ryan-moffitt-for-nc-house/donate"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/ryan-moffitt-for-nc-house/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/ryan-moffitt-for-nc-house/donate"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/ryan-moffitt-for-nc-house/donate"
+},
+{
+"text": "Info@MoffittForNC.com",
+"href": "mailto:Info@MoffittForNC.com"
+},
+{
+"text": "OTHER AMOUNT",
+"href": "https://secure.anedot.com/ryan-moffitt-for-nc-house/donate"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61584813847360"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/moffittfornc?igsh=MW9xcHlqY283Ym5lMQ%3D%3D"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/moffittfornc?s=21"
+}
 ]

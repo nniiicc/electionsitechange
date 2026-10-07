@@ -1,16 +1,29 @@
 {
  "description": "Larry Thompson in the News",
  "final_url": "https://www.larrythompsonforcongress.com/news",
- "paid_for_by": "Paid for by&nbsp;Larry Thompson&nbsp;for Congress For further information or to schedule an interview with&nbsp;Mr",
+ "fingerprint": "d8b7cc81ced097074680633621747e0fa596c918",
+ "format": 3,
+ "paid_for_by": "Paid for by Larry Thompson for Congress For further information or to schedule an interview with Mr",
  "title": "News",
  "years_mentioned": [
+  "1968",
+  "1974",
+  "1976",
+  "1978",
+  "1981",
+  "1982",
+  "1986",
+  "1996",
   "2013",
   "2016",
   "2017",
   "2018",
+  "2019",
   "2020",
   "2023",
   "2024",
+  "2025",
+  "2026",
   "2027"
  ]
 }

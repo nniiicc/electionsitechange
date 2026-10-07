@@ -1,7 +1,22 @@
 {
- "description": "Legislation Learn more about the legislation Senator Mike McKay has sponsored, as well as his \"third-reader\" or final floor votes on every bill that has come to the floor. Annual [\u2026]",
+ "description": "Legislation Learn more about the legislation Senator Mike McKay has sponsored, as well as his \"third-reader\" or final floor votes on every bill that has come to the floor. Annual […]",
  "final_url": "https://mikemckaymd.com/mike-mckay-legislation/",
- "paid_for_by": null,
+ "fingerprint": "985352ef43beb40e552cf59131fa1be268cccef2",
+ "format": 3,
+ "paid_for_by": "sponsored by Sen",
  "title": "Legislation - State Senator Mike McKay for Maryland District 1",
- "years_mentioned": []
+ "years_mentioned": [
+  "2015",
+  "2016",
+  "2017",
+  "2018",
+  "2019",
+  "2020",
+  "2021",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

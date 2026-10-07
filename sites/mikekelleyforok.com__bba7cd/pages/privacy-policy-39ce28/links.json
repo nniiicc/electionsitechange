@@ -1,8 +1,42 @@
 [
-"http://secure.anedot.com/mikekelleyhd60/donate",
-"https://mikekelleyforok.com/",
-"https://mikekelleyforok.com/contact",
-"https://mikekelleyforok.com/privacy-policy",
-"https://okvoterportal.okelections.us/Home/RegWizard",
-"https://voteeosmith.com/contact"
+{
+"text": "CONTACT US",
+"href": "https://mikekelleyforok.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "http://secure.anedot.com/mikekelleyhd60/donate"
+},
+{
+"text": "HOME",
+"href": "https://mikekelleyforok.com/"
+},
+{
+"text": "MEET MIKE",
+"href": "https://mikekelleyforok.com#meet"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://mikekelleyforok.com/privacy-policy/"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://okvoterportal.okelections.us/Home/RegWizard"
+},
+{
+"text": "TAKE ACTION",
+"href": "https://mikekelleyforok.com#take-action"
+},
+{
+"text": "VALUES",
+"href": "https://mikekelleyforok.com#values"
+},
+{
+"text": "[image]",
+"href": "https://mikekelleyforok.com"
+},
+{
+"text": "please contact us.",
+"href": "https://voteeosmith.com/contact/"
+}
 ]

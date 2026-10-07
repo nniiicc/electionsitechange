@@ -1,13 +1,62 @@
 [
-"https://electchriselliott.com/",
-"https://electchriselliott.com/accessibility",
-"https://electchriselliott.com/contact",
-"https://electchriselliott.com/get-our-share",
-"https://electchriselliott.com/meet-chris",
-"https://electchriselliott.com/privacy",
-"https://electchriselliott.com/terms",
-"https://electchriselliott.com/working-for-you",
-"https://facebook.com/SenatorElliott",
-"https://secure.anedot.com/chriselliott/donate",
-"https://twitter.com/SenatorElliott"
+{
+"text": "251-990-4615",
+"href": "tel:2519904645"
+},
+{
+"text": "Accessibility",
+"href": "https://electchriselliott.com/accessibility/"
+},
+{
+"text": "Contact",
+"href": "https://electchriselliott.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/chriselliott/donate"
+},
+{
+"text": "Get Our Share",
+"href": "https://electchriselliott.com/get-our-share/"
+},
+{
+"text": "Home",
+"href": "https://electchriselliott.com/"
+},
+{
+"text": "Meet Chris",
+"href": "https://electchriselliott.com/meet-chris/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electchriselliott.com/privacy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://electchriselliott.com/terms/"
+},
+{
+"text": "Working for You",
+"href": "https://electchriselliott.com/working-for-you/"
+},
+{
+"text": "[image]",
+"href": "https://electchriselliott.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/SenatorElliott"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SenatorElliott"
+},
+{
+"text": "chris.elliott@alsenate.gov",
+"href": "mailto:chris.elliott@alsenate.gov"
+},
+{
+"text": "https://electchriselliott.com/privacypolicy",
+"href": "https://electchriselliott.com/privacy/"
+}
 ]

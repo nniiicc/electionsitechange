@@ -1,28 +1,126 @@
 [
-"https://bsky.app/profile/claireforqueens.bsky.social",
-"https://clairevaldezforcongress.com/",
-"https://clairevaldezforcongress.com/endorsements",
-"https://clairevaldezforcongress.com/es/issues",
-"https://clairevaldezforcongress.com/issues",
-"https://clairevaldezforcongress.com/issues/memo/climate",
-"https://clairevaldezforcongress.com/issues/memo/housing",
-"https://clairevaldezforcongress.com/issues/memo/immigration",
-"https://clairevaldezforcongress.com/issues/memo/nowar",
-"https://clairevaldezforcongress.com/issues/memo/puerto-rico",
-"https://clairevaldezforcongress.com/issues/memo/queer-and-trans-liberation",
-"https://clairevaldezforcongress.com/issues/memo/transportation",
-"https://clairevaldezforcongress.com/issues/memo/unionpower",
-"https://clairevaldezforcongress.com/volunteer",
-"https://congress.gov/bill/119th-congress/senate-bill/4214/text",
-"https://facebook.com/claireforqueens",
-"https://forge.coop/",
-"https://instagram.com/claireforny",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/cvct",
-"https://store.clairevaldezforcongress.com/",
-"https://threads.com/@claireforny",
-"https://tiktok.com/@claireforny",
-"https://x.com/claireforny",
-"https://youtube.com/@claireforny"
+{
+"text": "About",
+"href": "https://clairevaldezforcongress.com/#about"
+},
+{
+"text": "Artificial Intelligence (AI) Data Center Moratorium Act",
+"href": "https://www.congress.gov/bill/119th-congress/senate-bill/4214/text"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cvct"
+},
+{
+"text": "Endorsements",
+"href": "https://clairevaldezforcongress.com/endorsements"
+},
+{
+"text": "Español",
+"href": "https://clairevaldezforcongress.com/es/issues"
+},
+{
+"text": "Issues",
+"href": "https://clairevaldezforcongress.com/issues"
+},
+{
+"text": "Jobs",
+"href": "https://clairevaldezforcongress.com/jobs"
+},
+{
+"text": "Merch",
+"href": "https://store.clairevaldezforcongress.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Read Claire's full LGBTQIA+ platform",
+"href": "https://clairevaldezforcongress.com/issues/memo/queer-and-trans-liberation"
+},
+{
+"text": "Read Claire's full Puerto Rico platform",
+"href": "https://clairevaldezforcongress.com/issues/memo/puerto-rico"
+},
+{
+"text": "Read Claire's full climate platform",
+"href": "https://clairevaldezforcongress.com/issues/memo/climate"
+},
+{
+"text": "Read Claire's full foreign policy platform",
+"href": "https://clairevaldezforcongress.com/issues/memo/nowar"
+},
+{
+"text": "Read Claire's full housing platform",
+"href": "https://clairevaldezforcongress.com/issues/memo/housing"
+},
+{
+"text": "Read Claire's full immigration platform",
+"href": "https://clairevaldezforcongress.com/issues/memo/immigration"
+},
+{
+"text": "Read Claire's full labor platform",
+"href": "https://clairevaldezforcongress.com/issues/memo/unionpower"
+},
+{
+"text": "Read Claire's full transportation platform",
+"href": "https://clairevaldezforcongress.com/issues/memo/transportation"
+},
+{
+"text": "Reclaiming the economic gains of automation for workers",
+"href": "https://clairevaldezforcongress.com/issues/memo/unionpower"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://clairevaldezforcongress.com/volunteer"
+},
+{
+"text": "[image: Built by Forge.coop]",
+"href": "https://www.forge.coop"
+},
+{
+"text": "[image: Claire Valdez for Congress]",
+"href": "https://clairevaldezforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/claireforqueens.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/claireforqueens/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/claireforny"
+},
+{
+"text": "info@clairevaldezforcongress.com",
+"href": "mailto:info@clairevaldezforcongress.com"
+},
+{
+"text": "press@clairevaldezforcongress.com",
+"href": "mailto:press@clairevaldezforcongress.com"
+}
 ]

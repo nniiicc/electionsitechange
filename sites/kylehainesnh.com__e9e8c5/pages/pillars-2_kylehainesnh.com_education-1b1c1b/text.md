@@ -1,11 +1,9 @@
-Education
-Education is the silver bullet.
+Skip to content Home About Pillars Education Stewardship: Conservation, Energy & The Future Democracy & Representation Rights & Liberties Housing & Main Street Justice, Safety & Accountability Schedule Contact Home About Pillars Education Stewardship: Conservation, Energy & The Future Democracy & Representation Rights & Liberties Housing & Main Street Justice, Safety & Accountability Schedule Contact Kyle Haines for Hillsborough 12 Education Education is the silver bullet.
 Education is everything.
 We don’t need little changes, we need gigantic, monumental changes.
 Schools should be palaces.
 The competition for the best teachers should be fierce.
-They should be making six-figure salaries. ~Sam Seaborn, The West Wing (Aaron Sorkin)
-The education of the next generation is perhaps the most crucial undertaking a society can embark upon.
+They should be making six-figure salaries. ~Sam Seaborn, The West Wing (Aaron Sorkin) The education of the next generation is perhaps the most crucial undertaking a society can embark upon.
 It is the driver of the economic engine, it impacts crime rates, life expectancy and chronic illness, leads to a stronger Republic, reduces poverty, increases innovation, and is a determiner on a household valuing education, which in turn leads to a feedback loop of even more educated citizens.
 And yet like so many other institutions we have let stagnate, we continue to demand more and more of it until it reaches its breaking point.
 The roofs of our schools are leaking and test scores are falling.
@@ -18,9 +16,7 @@ Only Maine pays their teachers less.
 Here in NH our teachers have an average starting pay of 42000, and an average salary of 67,000.
 Compare this to our neighbors to the west, Vermont, who start their teachers at 44,000 and an average of 69,000; and teachers immediately to our south in Massachusetts starting out making 52,000 and averaging 92,000.
 This has led to a drain on well trained and qualified teachers fleeing for higher earnings.
-Read more on teacher salaries
-HERE (Educationdata.org Public Education Spending Statistics)
-And yet over the last 20 years our average per pupil spending has gone up dramatically.
+Read more on teacher salaries HERE (Educationdata.org Public Education Spending Statistics) And yet over the last 20 years our average per pupil spending has gone up dramatically.
 Adjusting for inflation since 2001 our per pupil spending has increased 96% to its current 7th in the nation $26,000.
 In this time teachers saw an inflation adjusted wage increase of 8% and the teacher workforce increased by 1%.
 Meanwhile enrollment has fallen by over 40000 students.
@@ -31,9 +27,7 @@ We spent the money.
 We just didn’t spend it on classrooms.
 So what did we get for such a drastic increase in per pupil spending and administrative bureaucracy?
 New Hampshire schools saw our test scores fall 21 points while the nationwide average was 7.
-Read more on spending, staffing, and test scores
-HERE (Josiah Bartlett Center for Public Policy, Falling Students, Rising Spending II)
-We are in need of a course correction, and what I want is to reform the system so that it serves our students first.
+Read more on spending, staffing, and test scores HERE (Josiah Bartlett Center for Public Policy, Falling Students, Rising Spending II) We are in need of a course correction, and what I want is to reform the system so that it serves our students first.
 Starting with leadership: Every school has a principal, the captain of the ship.
 Below them are the teachers, the ones doing the work of educating the next generations.
 Next you have the people who support students outside of the classroom: the nurses, custodians, counselors.
@@ -42,8 +36,7 @@ They are there to serve the needs of the school, not rule over it.
 The bloat exists beyond individual school buildings, it is excessive for us to have over 100 SAUs worth of administrative positions.
 We should trim duplicated central-office positions, merge redundant functions, and redirect every saved dollar back into the classrooms.
 Every administrative position should be evaluated by one question: Does this make it easier for a teacher to teach and a student to learn?
-Teachers are professionals, and they deserve to be paid like it
-Structural reforms and increasing teacher compensation are necessary, but they are not the only improvements worth investing in.
+Teachers are professionals, and they deserve to be paid like it Structural reforms and increasing teacher compensation are necessary, but they are not the only improvements worth investing in.
 The research is clear that student performance is also shaped by factors that happen before a child ever opens a textbook.
 First and foremost is what time we expect kids to wake up.
 Over 80% of 12th graders are not getting enough sleep, a condition that impacts academic performance, behavioral issues, and has a marked increase on the number one cause of death amongst teens: car accidents.
@@ -53,8 +46,7 @@ The benefits would be enormous: On top of better attendance, less tardiness, les
 Teachers would even get benefits in the form of less stress, better rest, and fewer students with behavioral issues.
 The think tank Rand even argues that nationally the economic benefit could be in the billions.
 Yes there would need to be some logistics issues worked out for transporting kids to and from school efficiently, yes after school curricula would be pushed back, but the sheer number of benefits that would come from making this switch are too immense to not consider if we truly want to put the next generation first.
-Read more on school start times HERE()
-But now we have to get the students to school.
+Read more on school start times HERE() But now we have to get the students to school.
 Some of the best preparation for a school day happens on the way there.
 The bike bus is a simple concept: students ride to school together along a designated safe route, often led by parents or teacher volunteers.
 It is commuting re-imagined as both a community event and health forward activity, and the benefits compound in every direction.
@@ -67,9 +59,7 @@ It is the kind of organic connection that no structured program can manufacture.
 And the traffic impact should not be understated.
 School drop-off is a genuine safety hazard, so reducing the number of cars converging on a school building at the same time every morning makes the school safer, the neighborhood quieter, and children primed for learning for the day.
 The state should take an active role in fostering safe biking paths for students.
-Read more about Bike Bus
-HERE( BikeBus.org Benefits of Cycling to School)
-Rest is the foundation.
+Read more about Bike Bus HERE( BikeBus.org Benefits of Cycling to School) Rest is the foundation.
 But a rested kid sitting still for six hours without movement isn’t reaching their potential either.
 We must also make an investment in how to keep them alert and healthy throughout the day.
 Recess is a part of childhood.
@@ -81,8 +71,7 @@ By ensuring mandatory recess we can expect to see improved alertness throughout 
 And it must be protected.
 Recess withheld as punishment disproportionately falls on the students who need movement most.
 School time is precious, yes, but what good is it doing if the students can’t keep their focus throughout 5th period.
-Read more about the benefits of recess HERE()
-And focus requires fuel.
+Read more about the benefits of recess HERE() And focus requires fuel.
 As the state compels the student to be in school, so too does the state have the obligation to make sure the children are properly energized throughout the day.
 Universal meals, for both breakfast and lunch, are associated with increased participation, reduced food insecurity, decreased obesity, and fewer suspensions.
 With federal reimbursements and the elimination of means-testing bureaucracy, costs stay manageable.
@@ -97,9 +86,7 @@ Kids serve each other.
 They clean up together.
 The meal is part of the school day and helps foster a sense of community.
 The question of whether we can afford to feed our children answers itself.
-Read more about the benefits of universal meal access
-HERE(Lund University Free and Nutritious School Lunches Create Richer and Healthier Adults)
-Everything we have discussed: when school starts, how students arrive, when they rest, what they eat, reflects a single philosophy.
+Read more about the benefits of universal meal access HERE(Lund University Free and Nutritious School Lunches Create Richer and Healthier Adults) Everything we have discussed: when school starts, how students arrive, when they rest, what they eat, reflects a single philosophy.
 That we owe it to our children to invest in their success as a whole human being, and not just a test score.
 Physical education is where that conviction meets the curriculum.
 In too many of our schools it has become a fitness test that measures where you stand against your peers, not how far you have come.
@@ -110,4 +97,5 @@ They are the foundation to a healthy population.
 An education system worthy of New Hampshire does not merely produce test scores.
 It forms capable, healthy, self-respecting citizens.
 That is the whole student.
-That is the standard.
+That is the standard. © # .
+Created for free using WordPress and Colibri

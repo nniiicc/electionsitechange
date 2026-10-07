@@ -1,7 +1,11 @@
 {
- "description": "See Kathy\u2019s upcoming campaign events happening near you.",
+ "description": "See Kathy’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/kathy-steinhoff/events/",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "5bfdbb1c157d4ed1627ef1cb329411419a337cc9",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Upcoming Kathy Steinhoff Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

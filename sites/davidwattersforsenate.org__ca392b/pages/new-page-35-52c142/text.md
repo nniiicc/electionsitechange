@@ -1,5 +1,4 @@
-The Climate Crisis and Renewable Energy
-New Hampshire should move quickly to give power to people to take charge of their energy costs.
+Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation The Climate Crisis and Renewable Energy New Hampshire should move quickly to give power to people to take charge of their energy costs.
 This can be done by lifting limits on net metering so residents, businesses, and municipalities can take advantage right now of lower-cost solar energy.
 The state can move much more quickly on building an electric vehicle charging network on state roads, and offer incentives for this installation for individuals, multifamily housing, businesses, and municipalities.
 The state should immediately increase the funding for energy efficiency for residential structures since this will reduce energy costs right away.
@@ -16,3 +15,6 @@ Senator Watters is also the legislative leader on electric vehicle adoption and 
 His bill created the New Hampshire Commission on Electric Vehicle Infrastructure, which he chaired, and subsequent legislation has established implementation procedure, guidelines for rate setting, and a state plan for a charging network.
 New legislation proposes vehicle-to-grid regulation and a pilot program for electric school buses to save school districts money and improve student health.
 Looking to the future, Senator Watters will propose legislation to create green hydrogen infrastructure so hydrogen can serve as an energy storage fuel, replace coal and natural gas in electricity generation, and fuel heavy vehicles such as interstate trucking.
+Back to Top PAID FOR BY THE COMMITTEE TO ELECT DAVID WATTERS.
+FISCAL AGENT.
+19 MAPLE STREET, DOVER, NH 03280

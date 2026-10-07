@@ -1,36 +1,250 @@
 [
-"http://twitter.com/voteyvette",
-"http://veracitymedia.com/",
-"https://facebook.com/voteyvette",
-"https://instagram.com/voteyvette",
-"https://secure.actblue.com/donate/ydc_donatepage",
-"https://voteyvette.com/",
-"https://voteyvette.com/about-yvette",
-"https://voteyvette.com/community-resources",
-"https://voteyvette.com/endorsements",
-"https://voteyvette.com/get-involved",
-"https://voteyvette.com/issues",
-"https://voteyvette.com/press",
-"https://voteyvette.com/press/brooklyn-briefing-3-20-marriage-bureau-closed-tax-filing-deadline-extended-luna-park-opening-postponed",
-"https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-march-24-2020",
-"https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-march-26-2020",
-"https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-march-30-2020",
-"https://voteyvette.com/press/caribbeat-caribbean-rooted-artist-laura-james-wields-art-and-prayer-power-to-fight-covid-19-fears",
-"https://voteyvette.com/press/clarke-practice-coronavirus-recommended-precautions",
-"https://voteyvette.com/press/coronavirus-outbreak-pushes-local-governments-to-freeze-home-evictions",
-"https://voteyvette.com/press/ny-delegation-calls-for-federal-tax-deadline-extension-2",
-"https://voteyvette.com/press/page/1",
-"https://voteyvette.com/press/page/10",
-"https://voteyvette.com/press/page/2",
-"https://voteyvette.com/press/page/3",
-"https://voteyvette.com/press/page/4",
-"https://voteyvette.com/press/page/5",
-"https://voteyvette.com/press/page/6",
-"https://voteyvette.com/press/page/8",
-"https://voteyvette.com/press/page/9",
-"https://voteyvette.com/press/postpone-census-pols-urge-commerce-secretary",
-"https://voteyvette.com/press/postpone-census-pols-urge-commerce-secretary-2",
-"https://voteyvette.com/press/rep-schiff-and-members-of-congress-send-letter-urging-relief-for-entertainment-industry-professionals",
-"https://voteyvette.com/press/rep-yvette-clarke-promotes-public-wifi-kiosks-during-coronavirus-pandemic",
-"https://voteyvette.com/yvettes-wins"
+{
+"text": "1",
+"href": "https://voteyvette.com/press/page/1/"
+},
+{
+"text": "10",
+"href": "https://voteyvette.com/press/page/10/"
+},
+{
+"text": "2",
+"href": "https://voteyvette.com/press/page/2/"
+},
+{
+"text": "3",
+"href": "https://voteyvette.com/press/page/3/"
+},
+{
+"text": "4",
+"href": "https://voteyvette.com/press/page/4/"
+},
+{
+"text": "5",
+"href": "https://voteyvette.com/press/page/5/"
+},
+{
+"text": "6",
+"href": "https://voteyvette.com/press/page/6/"
+},
+{
+"text": "8",
+"href": "https://voteyvette.com/press/page/8/"
+},
+{
+"text": "9",
+"href": "https://voteyvette.com/press/page/9/"
+},
+{
+"text": "About Yvette",
+"href": "https://voteyvette.com/about-yvette/"
+},
+{
+"text": "Brooklyn Briefing 3/20: Marriage Bureau Closed, Tax Filing Deadline Extended, Luna Park Opening Postponed",
+"href": "https://voteyvette.com/press/brooklyn-briefing-3-20-marriage-bureau-closed-tax-filing-deadline-extended-luna-park-opening-postponed/"
+},
+{
+"text": "Brooklyn Lawmakers on the Move March 24, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-march-24-2020/"
+},
+{
+"text": "Brooklyn Lawmakers on the Move March 26, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-march-26-2020/"
+},
+{
+"text": "Brooklyn Lawmakers on the Move March 30, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-march-30-2020/"
+},
+{
+"text": "CARIBBEAT: Caribbean-rooted artist Laura James wields art and prayer-power to fight COVID-19 fears",
+"href": "https://voteyvette.com/press/caribbeat-caribbean-rooted-artist-laura-james-wields-art-and-prayer-power-to-fight-covid-19-fears/"
+},
+{
+"text": "Clarke: Practice coronavirus recommended precautions",
+"href": "https://voteyvette.com/press/clarke-practice-coronavirus-recommended-precautions/"
+},
+{
+"text": "Community Resources",
+"href": "https://voteyvette.com/community-resources/"
+},
+{
+"text": "Coronavirus Outbreak Pushes Local Governments to Freeze Home Evictions",
+"href": "https://voteyvette.com/press/coronavirus-outbreak-pushes-local-governments-to-freeze-home-evictions/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ydc_donatepage"
+},
+{
+"text": "Endorsements",
+"href": "https://voteyvette.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://voteyvette.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://voteyvette.com/issues/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-briefing-3-20-marriage-bureau-closed-tax-filing-deadline-extended-luna-park-opening-postponed/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-march-24-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-march-26-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-march-30-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/caribbeat-caribbean-rooted-artist-laura-james-wields-art-and-prayer-power-to-fight-covid-19-fears/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/clarke-practice-coronavirus-recommended-precautions/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/coronavirus-outbreak-pushes-local-governments-to-freeze-home-evictions/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/ny-delegation-calls-for-federal-tax-deadline-extension-2/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/postpone-census-pols-urge-commerce-secretary-2/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/postpone-census-pols-urge-commerce-secretary/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/rep-schiff-and-members-of-congress-send-letter-urging-relief-for-entertainment-industry-professionals/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/rep-yvette-clarke-promotes-public-wifi-kiosks-during-coronavirus-pandemic/"
+},
+{
+"text": "NY delegation calls for federal tax deadline extension",
+"href": "https://voteyvette.com/press/ny-delegation-calls-for-federal-tax-deadline-extension-2/"
+},
+{
+"text": "Postpone Census Pols urge commerce secretary",
+"href": "https://voteyvette.com/press/postpone-census-pols-urge-commerce-secretary/"
+},
+{
+"text": "Postpone Census, pols urge commerce secretary",
+"href": "https://voteyvette.com/press/postpone-census-pols-urge-commerce-secretary-2/"
+},
+{
+"text": "Press",
+"href": "https://voteyvette.com/press/"
+},
+{
+"text": "Rep. Schiff and Members of Congress Send Letter Urging Relief for Entertainment Industry Professionals",
+"href": "https://voteyvette.com/press/rep-schiff-and-members-of-congress-send-letter-urging-relief-for-entertainment-industry-professionals/"
+},
+{
+"text": "Rep. Yvette Clarke promotes public WiFi Kiosks during coronavirus pandemic",
+"href": "https://voteyvette.com/press/rep-yvette-clarke-promotes-public-wifi-kiosks-during-coronavirus-pandemic/"
+},
+{
+"text": "Veracity Media",
+"href": "http://veracitymedia.com"
+},
+{
+"text": "Yvette’s Wins",
+"href": "https://voteyvette.com/yvettes-wins/"
+},
+{
+"text": "[image: Clarke for Congress]",
+"href": "https://voteyvette.com"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-briefing-3-20-marriage-bureau-closed-tax-filing-deadline-extended-luna-park-opening-postponed/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-march-24-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-march-26-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-march-30-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/caribbeat-caribbean-rooted-artist-laura-james-wields-art-and-prayer-power-to-fight-covid-19-fears/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/clarke-practice-coronavirus-recommended-precautions/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/coronavirus-outbreak-pushes-local-governments-to-freeze-home-evictions/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/ny-delegation-calls-for-federal-tax-deadline-extension-2/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/postpone-census-pols-urge-commerce-secretary-2/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/postpone-census-pols-urge-commerce-secretary/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/rep-schiff-and-members-of-congress-send-letter-urging-relief-for-entertainment-industry-professionals/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/rep-yvette-clarke-promotes-public-wifi-kiosks-during-coronavirus-pandemic/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/voteyvette"
+},
+{
+"text": "info@voteyvette.com",
+"href": "mailto:info@voteyvette.com"
+},
+{
+"text": "press@voteyvette.com",
+"href": "mailto:press@voteyvette.com"
+},
+{
+"text": "←",
+"href": "https://voteyvette.com/press/page/6/"
+},
+{
+"text": "→",
+"href": "https://voteyvette.com/press/page/8/"
+}
 ]

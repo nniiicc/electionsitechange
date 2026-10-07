@@ -1,4 +1,4 @@
-Grantsburg, WI – Duke Tucker extends his heartfelt thanks to the voters of Wisconsin’s 75th Assembly District for their support and trust in this election.
+campaign@DukeforWisconsin.com Facebook Facebook Home Biography District 75 Endorsements News The Issues Donate Contact Select Page Duke Tucker Elected to Represent Wisconsin’s 75th Assembly District by Admin01 | Nov 13, 2024 | News Grantsburg, WI – Duke Tucker extends his heartfelt thanks to the voters of Wisconsin’s 75th Assembly District for their support and trust in this election.
 With your voices, we have succeeded in our mission, and it is with great honor that I step forward as your new representative.
 Last Tuesday’s victory is a testament to our shared values and commitment to a prosperous future.
 I am truly grateful to every volunteer, supporter, and community member who dedicated time and energy to this campaign.
@@ -9,7 +9,4 @@ My commitment to conservative fiscal stewardship and safeguarding the rights and
 I look forward to serving you, standing up for our district’s needs in Madison, and working together to ensure a brighter future for the 75th District.
 Thank you, Wisconsin!
 Let’s keep moving forward together.
-Contact:
-Duke for Wisconsin Campaign
-campaign@dukeforwisconsin.com
-www.dukeforwisconsin.com
+Contact: Duke for Wisconsin Campaign campaign@dukeforwisconsin.com www.dukeforwisconsin.com Facebook Copyright © #-# KAM Paid for by Duke for Wisconsin

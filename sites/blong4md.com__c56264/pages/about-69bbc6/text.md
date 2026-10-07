@@ -1,6 +1,5 @@
-Signed in as:
-filler@godaddy.com
-About Me
+Keep up-to-date with the campaign on Facebook!
+Home Donate About Issues Blog My Work Contact Us Gallery More Home Donate About Issues Blog My Work Contact Us Gallery Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home Donate About Issues Blog My Work Contact Us Gallery Account My Account Sign out Sign In My Account About Me Promises Made, Promises Kept!!
 My story begins with my grandfather in West Virginia — a widower who raised eight children on his own.
 He could not read or write, yet he worked tirelessly in the coal mines to provide for his family, relying on the land to help feed them.
 His strength and sacrifice laid the foundation for everything I believe in today.
@@ -19,3 +18,5 @@ Now, I humbly ask for your continued support and your vote on Election Day so we
 Because for me, this has never been about politics — it’s about people, community, and keeping the promises we make.
 Promises Made.
 Promises Kept.
+Show More Copyright © # -Friends of Bob Long; Lois Temple, Treasurer - All Rights Reserved.
+Powered by

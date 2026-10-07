@@ -1,9 +1,2 @@
-Back to All Events
-Warm up your singing voice and join Krista for a night of karaoke! 🎤
-Previous
-Previous
-April 8
-Custard and Conversations with Krista
-Next
-Next
-June 3
+0 Skip to Content Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Open Menu Close Menu Donate Home About Krista Media What Krista Believes Endorsements Learn More Events Open Menu Close Menu Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Back to All Events Karaoke With Krista Friday, April 24, 2026 6:30 PM 8:30 PM District One Eleven Social Lounge 111 Cleveland Avenue Southwest Canton, OH, 44702 United States (map) Google Calendar ICS Warm up your singing voice and join Krista for a night of karaoke! 🎤 Previous Previous April 8 Custard and Conversations with Krista Next Next June 3 Flip the 49th Kickoff Fundraiser Contact Us | Privacy Policy Stay Up-To Date Paid for by Community for Krista L.
+Allison //

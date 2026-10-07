@@ -1,8 +1,6 @@
-Back to All Events
-Join us for a beer as we support Jaime’s campaign to become Downriver’s next State Representative!
+0 Skip to Content About Jaime House District 27 Priorities Endorsements Events Subscribe Volunteer Request a Yard Sign English Donate Now Open Menu Close Menu About Jaime House District 27 Priorities Endorsements Events Subscribe Volunteer Request a Yard Sign English Donate Now Open Menu Close Menu About Jaime House District 27 Priorities Endorsements Events Subscribe Volunteer Request a Yard Sign English Back Donate Now Back to All Events Wyandotte Beer Co Fundraiser Thursday, October 14, 2021 9:00 PM 11:00 PM Wyandotte Beer Company 3016 1st Street Wyandotte, MI, 48192 United States (map) Google Calendar ICS Join us for a beer as we support Jaime’s campaign to become Downriver’s next State Representative!
 At the Wyandotte Beer Co.
-3016 1st Street, Wyandotte, MI 48192
-Thursday, October 14, 6:00 - 8:00pm
-Next
-Next
-December 9
+3016 1st Street, Wyandotte, MI 48192 Thursday, October 14, 6:00 - 8:00pm Purchase your ticket online today!
+Source: https://secure.actblue.com/donate/churchesatwyandottebeerco?refcode=web Next Next December 9 Auburn Cafe Fundraiser About ‍ ‍ Contact ‍ ‍ Subscribe ‍ ‍ Volunteer ‍ ‍ Donate‍ ‍ Paid for by Friends of Jaime Churches | info@jaimechurches.com | PO Box 23 Grosse Ile, MI 48138 | Political donations are not tax exempt.
+Friends of Jaime Churches upholds stringent privacy standards, guaranteeing that the personal information of our users and members remains confidential and is never sold, rented out, disclosed, or exchanged with any third parties unless explicitly authorized by the user or required by law.
+Contact us at: jaime@jaimechurches.com

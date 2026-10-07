@@ -1,15 +1,1 @@
-Endorsements
-Delaware County Democratic Committee
-PA AFL-CIO
-Planned Parenthood PA
-PASNAP
-AFSCME DC 88
-Pennsylvania State Council-SEIU
-International Brotherhood of Teamsters
-Delaware County Labor Council
-Sheet Metal Workers’ Local 19
-Bricklayers Local 1
-Communication Workers’ of America
-PSEA/PACE
-UFCW 1776-KS
-Humane PA PAC
+About About Dave Issues Endorsements The 162nd District Contact Us Contribute About About Dave Issues Endorsements The 162nd District Contact Us Contribute About About Dave Issues Endorsements Endorsements Delaware County Democratic Committee PA AFL-CIO Planned Parenthood PA PASNAP AFSCME DC 88 Pennsylvania State Council-SEIU International Brotherhood of Teamsters Delaware County Labor Council Sheet Metal Workers’ Local 19 Bricklayers Local 1 Communication Workers’ of America PSEA/PACE UFCW 1776-KS Humane PA PAC Back to Top Dave Delloso for DelCo State Rep, 2 North Chester Pike, Glenolden, PA, 19036 610-915-3020 Paid for by Friends of Dave Delloso

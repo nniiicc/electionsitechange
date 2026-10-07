@@ -1,5 +1,4 @@
-ABOUT PETER OBERACKER
-They say there are two things you should never see made, laws and sausage.
+top of page ABOUT PETER ABOUT PETER OBERACKER They say there are two things you should never see made, laws and sausage.
 Well, Peter Oberacker knows both.
 The son of a German sausage maker, Peter grew up working in his family’s meat market in Schenevus, New York, starting at just eight years old.
 It was there he learned the values that still guide him today, hard work, discipline, and finishing the job.
@@ -21,3 +20,5 @@ Of all his titles, “Pop-Pop” is the one he cherishes most, and it is what dr
 Peter Oberacker is a proven businessman, a results-driven leader, and a dedicated public servant.
 He believes in common sense, accountability, and putting people over politics, and he brings that mindset to every decision he makes.
 Because at the end of the day, whether it is business, public service, or even sausage, Peter Oberacker knows how it is made, and more importantly, how to get it right.
+PAID FOR BY PETER FOR NY INC.
+HOME bottom of page

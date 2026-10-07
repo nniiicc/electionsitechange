@@ -1,12 +1,46 @@
 [
-"https://facebook.com/PatRyanUC",
-"https://forms.gle/wjDLbvxUpRhRWYm49",
-"https://patryanforcongress.com/",
-"https://patryanforcongress.com/priorities",
-"https://patryanforcongress.com/privacy-policy",
-"https://patryanforcongress.com/resources",
-"https://patryanforcongress.com/volunteer",
-"https://patryanforcongress.myshopify.com/",
-"https://secure.actblue.com/donate/pr-web",
-"https://twitter.com/patryanuc"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/pr-web"
+},
+{
+"text": "HOME",
+"href": "https://www.patryanforcongress.com"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.patryanforcongress.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.patryanforcongress.com/privacy-policy"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://forms.gle/wjDLbvxUpRhRWYm49"
+},
+{
+"text": "RESOURCES",
+"href": "https://www.patryanforcongress.com/resources"
+},
+{
+"text": "STORE",
+"href": "https://patryanforcongress.myshopify.com/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.patryanforcongress.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/PatRyanUC"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/patryanuc"
+},
+{
+"text": "[image]",
+"href": "https://www.patryanforcongress.com"
+}
 ]

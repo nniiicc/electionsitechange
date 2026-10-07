@@ -1,6 +1,5 @@
-First Church’s Rev.
-Rebecca Pugh Honored with Pride Award
-BOSTON, MA — Rev.
+0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE First Church’s Rev.
+Rebecca Pugh Honored with Pride Award News Jun 30 Written By Kristin Kassner BOSTON, MA — Rev.
 Dr.
 Rebecca Pugh, senior minister of the First Church of Ipswich, was honored at the State House on Wednesday, June 17, as a recipient of the inaugural Commonwealth Pride Award.
 The milestone event, designed to recognize outstanding individuals within the state’s LGBTQ+ community, brought together leaders, advocates, and lawmakers under the historic golden dome for an afternoon of celebration and reflection.
@@ -11,15 +10,13 @@ Rep.
 Kristin Kassner nominated Pugh, describing her as a vital and unifying force within the local community.
 “I was thrilled to nominate the Reverend Dr.
 Rebecca Pugh,” Kassner said.
-“Reverend Rebecca is a convener in the community, bringing so many together to celebrate each other, our earth, and the town.”
-Kassner also highlighted Pugh’s tireless commitment to local advocacy, noting that environmental stewardship is always at the forefront of her mind.
+“Reverend Rebecca is a convener in the community, bringing so many together to celebrate each other, our earth, and the town.” Kassner also highlighted Pugh’s tireless commitment to local advocacy, noting that environmental stewardship is always at the forefront of her mind.
 According to Kassner, the very first request Pugh made upon arriving at the State House for the ceremony was to ask Kassner’s office to co-sponsor critical legislative amendments aimed at protecting regional bird populations and horseshoe crabs within the state’s Environmental Bond Bill.
 “Always thinking of others — even our feathery friends!” Kassner said.
 Pugh brings a deep academic background to her decades of service, holding a bachelor’s degree in political science from Yale University, a master’s degree in divinity from Harvard University, and a doctorate in education from Lesley College.
 She has channeled this expertise into more than 30 years of active ministry, focusing heavily on intergenerational community building.
 Her local and international outreach work includes developing dedicated programming for seniors and children within her parish, providing direct aid and support to refugees, and actively promoting cross-cultural peace movements.
-In addition to her spiritual and humanitarian leadership, Pugh connects with North Shore residents through her regular column in the Ipswich Local News, “Running With Birds.”
-Her recurring feature is a unique multi-disciplinary narrative that has been described as part sport, part ornithology, part ethics, and part ecology, tailored specifically for local athletes who run alongside the region’s native bird species.
+In addition to her spiritual and humanitarian leadership, Pugh connects with North Shore residents through her regular column in the Ipswich Local News, “Running With Birds.” Her recurring feature is a unique multi-disciplinary narrative that has been described as part sport, part ornithology, part ethics, and part ecology, tailored specifically for local athletes who run alongside the region’s native bird species.
 The State House ceremony took place inside a crowded House Chamber, where lawmakers and honorees gathered to mark what state officials called a historic step forward in formal recognition.
 During the presentation, Pugh stood alongside her fellow recipients to receive a formal citation from the House of Representatives, signed by House Speaker Ronald J.
 Mariano, as the chamber recognized the impact of the inaugural class.
@@ -32,4 +29,6 @@ Spilka (D-Ashland) echoed these sentiments, noting that formal celebrations of d
 “In Massachusetts, we will not only defend but celebrate our LGBTQ+ friends, neighbors, and loved ones,” Spilka said.
 The Massachusetts LGBTQ+ Legislative Caucus, which serves as an advocacy and policy network for queer lawmakers in the state, intends to host the Commonwealth Pride Awards as an annual milestone every June.
 The event will continue to shine a spotlight on local leaders like Pugh who work daily to make their communities more inclusive, vibrant, and welcoming.
-The
+The Kristin Kassner https://kristinkassner.org Previous Previous ICYMI: Hamilton Woman Nominated For State Heroine Next Next ICYMI: Hamilton’s Mcdonough Honored for Service in War and Community Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.
+Box 652 Ipswich, MA 01938 committee@kristinkassner.org Newsletter Archive Contact Us Press: communications @kristinkassner.org Paid for by The Committee to Elect Kristin Kassner

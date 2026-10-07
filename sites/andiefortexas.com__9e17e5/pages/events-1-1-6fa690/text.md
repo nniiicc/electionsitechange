@@ -1,16 +1,7 @@
-Upcoming Events
-Sep
-10
-Caitlin Rourk Fundraiser
-What: Meet candidates Caitlin Rourk (TX-10) and Andie Ho.
+0 Skip to Content Home Meet Andie Issues Pathways to Citizenship SpaceX in Grimes County Environmental Conservation Healthcare for All Strong Public Schools Volunteer Events Endorsements Yard Signs DONATE Open Menu Close Menu Home Meet Andie Issues Pathways to Citizenship SpaceX in Grimes County Environmental Conservation Healthcare for All Strong Public Schools Volunteer Events Endorsements Yard Signs DONATE Open Menu Close Menu Home Meet Andie Folder: Issues Back Pathways to Citizenship SpaceX in Grimes County Environmental Conservation Healthcare for All Strong Public Schools Volunteer Events Endorsements Yard Signs DONATE Upcoming Events Oct 8 Save Our Public Schools Thursday, October 8, 2026 6:00 PM 8:00 PM Unitarian Universalist Church (map) Google Calendar ICS What: A town hall on public education When: Thursday, October 8, 2026 at 6–8 pm Where: Unitarian Universalist Church, 1719 E.
+29th St, Bryan, TX 77802 Featuring: Herb Krasner (Save Our Public Schools Texas), Senator Sarah Eckhardt, Representative Vikki Goodwin, local candidates Sponsored by: Andie Ho (HD-12), Caitlin Rourk (CD-10), Paul Thomasson (SD-5), Janet Dudding (HD-14) View Event → Sep 10 Caitlin Rourk Fundraiser Thursday, September 10, 2026 6:00 PM 8:00 PM Imerj Art & Advocacy Projects/Be Free Gallery (map) Google Calendar ICS What: Meet candidates Caitlin Rourk (TX-10) and Andie Ho.
 Refreshments provided.
-Where: Imerj Art & Advocacy Projects/Be Free Gallery; 1000 12th Street, Huntsville, Texas, 77340
-When: Thursday, September 10 from 6 pm – 8 pm
-Cost: Your donation
-Sep
-9
-Bearkat Mania @ SHSU
-What: Visit the Democrats’ table to register to vote, enjoy free food, and enter a raffle!
-Where: Frank Parker Plaza (aka The Yard) on the Sam Houston State University campus in Huntsville
-When: Sep 9, 2026, 10:00AM - 12:30PM
-Cost: Free
+Where: Imerj Art & Advocacy Projects/Be Free Gallery; 1000 12th Street, Huntsville, Texas, 77340 When: Thursday, September 10 from 6 pm – 8 pm Cost: Your donation View Event → Sep 9 Bearkat Mania @ SHSU Wednesday, September 9, 2026 10:00 AM 12:30 PM Frank Parker Plaza (aka The Yard) on the Sam Houston State University Camous (map) Google Calendar ICS What: Visit the Democrats’ table to register to vote, enjoy free food, and enter a raffle!
+Where: Frank Parker Plaza (aka The Yard) on the Sam Houston State University campus in Huntsville When: Sep 9, 2026, 10:00AM - 12:30PM Cost: Free View Event → Andie for Texas Political advertisement paid for by Andie Ho.
+Copyright #.
+Contact andieforHD12@gmail.com

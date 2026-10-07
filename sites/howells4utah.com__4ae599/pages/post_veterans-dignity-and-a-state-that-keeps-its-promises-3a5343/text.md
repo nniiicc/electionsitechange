@@ -1,5 +1,7 @@
-Veterans, dignity, and a state that keeps its promises
-Utah has never been short on gratitude for veterans.
+top of page HOME WHERE I STAND ON THE ISSUES ABOUT DREW SERVICE BEFORE SELF POLICY & PERSPECTIVE BLOG GET INVOLVED More Use tab to navigate through the menu items.
+Policy, Philosophy & Thoughts Search Veterans, dignity, and a state that keeps its promises Drew Howells Jun 22 9 min read Drew in 2007 taking the oath of enlistment for his third term of service, this time changing uniforms and transfering into the Utah Army National Guard.
+Note: Drew Howells is a medically retired veteran of the United States Air Force, the Utah Air National Guard, and the Utah Army National Guard.
+Use of his military rank, titles, images, and photographs from his service does not imply endorsement by the Department of the Army, the Department of the Air Force, the Utah National Guard, or the Department of Defense.) Utah has never been short on gratitude for veterans.
 What it has too often lacked is a state system with enough authority, capacity, and leverage to turn that gratitude into results when other systems fail.
 Utah has committed people doing important work through the Department of Veterans and Military Affairs.
 Its accredited Veteran Service Officers help veterans file claims, navigate appeals, and understand benefits they have earned.
@@ -109,7 +111,7 @@ Welcome matters.
 Dignity matters.
 The details determine whether a service is truly accessible.
 This housing hub should function as a point of connection, not a dead end.
-Case management should be individualized, trauma-informed, and focused on outcomes— securing benefits, stabilizing health, rebuilding community ties, and moving people into permanent housing as quickly and safely as possible.
+Case management should be i ndividualized, trauma-informed, and focused on outcomes— securing benefits, stabilizing health, rebuilding community ties, and moving people into permanent housing as quickly and safely as possible.
 Success should not be measured by how many beds remain filled.
 It should be measured by how many veterans no longer need them.
 Funding this work is not charity.
@@ -130,9 +132,13 @@ It looks like a returned phone call, a claim followed through to the end, a safe
 This is also about trust.
 When veterans see their state respond clearly, competently, and without stigma, it reinforces something larger than a single program.
 It shows that service still matters, public institutions can still be worthy of trust, and promises are meant to be kept even when keeping them becomes difficult.
-My vision for Utah’s veterans policy is grounded in the same principle that runs through my entire platform: stewardship.
+My vision for Utah’s veterans policy is grounded in the same principle that runs through my entire platform: stewardship .
 We do not use people up and discard them.
 We do not celebrate sacrifice and then look away from its consequences.
 We build systems that honor service with substance, recognize human complexity, and plan for the long term.
 A just state meets veterans where they are, not where it is most convenient.
 Expanding the Utah Department of Veterans and Military Affairs into a stronger, well-funded, and empowered advocate is how we begin closing the distance between promises and reality— and make sure no Utah veteran is left alone inside that gap.
+Recent Posts See All We Are Building Data Centers Blind Education Is Where the Future Begins Medical cannabis, patient dignity, and regulatory accountability Howells for Utah HD39 We can only achieve success in this campaign with your support.
+Please consider making a donation through ActBlue—it's quick and makes a BIG impact.
+Every dollar matters!
+Follow my Linktree - https://linktr.ee/HowellsForUtah © # by Howells for Utah HD39 Accessibility Statement Use of military rank, job titles, photographs in uniform, and references to military service does not imply endorsement by the Department of Defense, the Department of the Air Force, the Department of the Army, the National Guard, or any military service branch. bottom of page

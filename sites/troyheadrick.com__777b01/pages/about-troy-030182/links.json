@@ -1,10 +1,34 @@
 [
-"https://instagram.com/troyheadrick",
-"https://secure.anedot.com/711fc9d1-dfb2-47e1-b0c3-74d17c1af8e1/donate",
-"https://threads.net/@troyheadrick",
-"https://troyheadrick.com/",
-"https://troyheadrick.com/about-troy",
-"https://troyheadrick.com/blog-entries",
-"https://troyheadrick.com/contact",
-"https://troyheadrick.com/privacy-policy"
+{
+"text": "About Troy",
+"href": "https://www.troyheadrick.com/about-troy/"
+},
+{
+"text": "Blog",
+"href": "https://www.troyheadrick.com/blog-entries/"
+},
+{
+"text": "Contact",
+"href": "https://www.troyheadrick.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/711fc9d1-dfb2-47e1-b0c3-74d17c1af8e1/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.troyheadrick.com/privacy-policy/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.threads.net/@troyheadrick"
+},
+{
+"text": "[image: Threads]",
+"href": "https://www.instagram.com/troyheadrick/"
+},
+{
+"text": "[image: Troy Headrick]",
+"href": "https://www.troyheadrick.com"
+}
 ]

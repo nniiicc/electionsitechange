@@ -1,11 +1,12 @@
-| HARTFORD – In the House of Representatives on June 6, State Representative David Rutigliano (R-123) stood in strong opposition to a proposal that would take the first steps towards implementing electronic tolls throughout Connecticut.
+David Rutigliano Issues In The News Donate Contact Rep Rutigliano Facebook Donate to Campaign Campaign Video Representative Rutigliano Opposes CT Toll Plan 6/7/2018 0 Comments HARTFORD – In the House of Representatives on June 6, State Representative David Rutigliano (R-123) stood in strong opposition to a proposal that would take the first steps towards implementing electronic tolls throughout Connecticut.
 The proposal, offered as a strike-all amendment by the legislature’s Transportation Committee, would have requested the Commissioner of Transportation to prepare a state-wide plan to implement electronic tolling systems on the highways of this state.
 One of the proposed plans pushed by the Department of Transportation would have ten tolls on the Merritt Parkway from Greenwich to New Haven, twelve tolls on I-95 from Greenwich to New Haven, and potentially 72 tolls throughout the state.
 These tolls to not affect some of our federal funding would be have to be a controversial congested priced scheme which means the toll would increase during high traffic times.
 “At last week’s presentation by DOT, I was shocked at the enormous breath and scope of their tolling proposal.
 They seem to want to toll every limited access highway from I-95 to the Merritt Parkway to Route 8, Route 25 and Route 7.
 Also the findings that 70% of toll money would be paid by Connecticut residents flies in the face of trying to get the out-of-state drivers and instead is just another tax on our already overburdened residents,” said Rep.
-Rutigliano.
+Rutigliano .
 “Connecticut does not have a revenue problem, we have a spending problem.
 Until we seriously reconsider how we spend taxpayers’ dollars, we cannot impose yet another tax upon the residents of Connecticut.” The requested plan would seek to identify the highways, or the portions thereof, where such electronic tolling systems may be located and the toll amounts that may be charged; including the use of dynamic pricing witch could potentially penalize commuters as toll pricing would change during peak use hours or periods of heavy traffic.
-The bill was tabled after a few hours of debate when it became apparent that the toll proposal would not have enough votes to pass in the House of Representatives. | |
+The bill was tabled after a few hours of debate when it became apparent that the toll proposal would not have enough votes to pass in the House of Representatives.
+0 Comments Archives October 2026 September 2026 June 2026 May 2026 May 2025 August 2024 September 2020 May 2020 February 2020 June 2018 May 2018 April 2018 Categories All RSS Feed David Rutigliano Issues In The News Donate Contact Rep Rutigliano Facebook Donate to Campaign Campaign Video

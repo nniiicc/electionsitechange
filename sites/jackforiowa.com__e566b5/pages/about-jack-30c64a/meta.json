@@ -1,9 +1,12 @@
 {
  "description": "Help us campaign today for a better tomorrow!",
  "final_url": "https://jackforiowa.com/about-jack",
- "paid_for_by": "Paid for by Friends of Jack Goodman Copyright \u00a9 2026 Jack Goodman for Iowa State Representative - All Rights Reserved",
+ "fingerprint": "0332ef64ec642df05309cf209947f0464bba89e9",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Jack Goodman Copyright © # Jack Goodman for Iowa State Representative - All Rights Reserved",
  "title": "About Jack | Jack Goodman for Iowa State Representative",
  "years_mentioned": [
+  "2000",
   "2015"
  ]
 }

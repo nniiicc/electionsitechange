@@ -1,7 +1,11 @@
 {
  "description": "David Johnson Campaign Events",
  "final_url": "https://davidjohnsonad23.com/Events?range=2026-12",
- "paid_for_by": null,
+ "fingerprint": "104b883c38e5f0434b2a4fafb77f532c3db97d84",
+ "format": 3,
+ "paid_for_by": "",
  "title": "David Johnson Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

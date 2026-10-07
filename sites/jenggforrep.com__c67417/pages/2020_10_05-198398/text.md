@@ -1,3 +1,5 @@
-If voters want to decrease the domination of Democrats in the Illinois House led by Speaker Michael Madigan, they’ll get their opportunity on the November ballot when 66 of the chamber’s 118 districts will feature a contested race.
+P.O.
+Box 3042 Glenview, Illinois 60025 Email: Jen@JenGGforRep.com Home About Jen Issues News Take Action Donate Volunteer Yard Sign Contact Daily Archives: October 5, 2020 Home 2020 October 5 Editorial: For the Illinois House: Gong-Gershowitz, Matlis, LaPointe, Hurley, Ozinga, Meyers-Martin, Wehrli, Mejia-Beal, Lewis staff October 5, 2020 If voters want to decrease the domination of Democrats in the Illinois House led by Speaker Michael Madigan, they’ll get their opportunity on the November ballot when 66 of the chamber’s 118 districts will feature a contested race.
 Currently the House has 74 Democrats and 44 Republicans.
-The candidates we like best — Democrats as well as Republicans — are independent-minded, fiscally prudent and
+The candidates we like best — Democrats as well as Republicans — are independent-minded, fiscally prudent and Read More Latest News Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Socials Recent Posts Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Contact Info Jen@JenGGforRep.com P.O.
+Box 3042 Glenview, Illinois 60025 Take Action Donate Volunteer Yard Sign 2022 Paid for by Friends for Jennifer All rights reserved.

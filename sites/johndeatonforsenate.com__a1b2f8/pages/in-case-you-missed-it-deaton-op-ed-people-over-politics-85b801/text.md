@@ -1,20 +1,10 @@
-IN CASE YOU MISSED IT!
-Deaton Op-Ed: 'People Over Politics'
-FOR IMMEDIATE RELEASE
-September 30, 2026
-Press Contact:
-Vincent Errichetti
-(617) 922-1824
-Press@johndeatonforsenate.com
-BOSTON — Massachusetts U.S.
+Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security DONATE DONATE Meet John Issues Volunteer Contact Vote News Store Events DONATE IN CASE YOU MISSED IT!
+Deaton Op-Ed: 'People Over Politics' FOR IMMEDIATE RELEASE September 30, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON — Massachusetts U.S.
 Senate candidate John Deaton has released the first in a series of op-eds for the final month of the campaign.
 Titled "People Over Politics," Deaton -- a Marine, cancer survivor, and lawyer for working Americans -- expands on his argument that Senator Ed Markey has nothing left to add after 53 years in office except status quo Washington politics.
 Deaton highlights his biography as a survivor of childhood poverty and sexual abuse before underscoring his promise to serve just two six-year terms.
 Markey has labeled Deaton a "MAGA Republican" despite Deaton never having voted for the president, a sign that the 80-year-old incumbent -- who on Monday backed out of a second debate -- has no record to run on.
-MASS DAILY NEWS
-By John Deaton
-9/29/26
-Sen.
+Deaton: People Over Politics MASS DAILY NEWS By John Deaton 9/29/26 Sen.
 Ed Markey just survived another primary.
 He treated it like the end of the story.
 It isn't.
@@ -79,8 +69,21 @@ I'm not asking you to like my party.
 I'm asking you to look past the label Ed Markey wants you to see and judge me on what I've done and what I'll do.
 Put people over politics.
 That's the only test that matters.
-####
-JOHN DEATON will fight for what is right.
-Stay Connected
+#### < Older Post Newer Post > JOHN DEATON will fight for what is right.
+Stay Connected Last Name Email Address Zip Code Thank you for signing up.
+We will continue to stay connected and share with you the latest from our campaign.
+Oops, there was an error sending your message.
+Please try again later.
 By providing your email address and cell phone number you consent to receive periodic campaign updates from John Deaton for US Senate Inc.
 Texting & data rates may apply.
+WE TAKE CRYPTO SUPPORT JOHN'S CAMPAIGN ﻿ John Deaton’s campaign counts on everyday people like you to chip in what you can.
+Every donation counts.
+DONATE TODAY JOHN DEATON FOR SENATE INC.
+General inquiries: info@johndeatonforsenate.com Press inquiries: press@johndeatonforsenate.com Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security PAID FOR BY JOHN DEATON FOR SENATE INC.
+PRIVACY POLICY TERMS OF SERVICE By providing your email address you consent to receive periodic campaign updates from John Deaton for Senate Inc.
+By providing your phone number, you are consenting to receive calls and recurring SMS/MMS messages, including artificial, pre-recorded, autodialed and automated calls and texts, to that number from John Deaton for Senate Inc.
+Msg&data rates may apply.
+Reply HELP for help, STOP to end.
+Terms & conditions/privacy policy apply.
+John Deaton was a Captain in the United States Marine Corps.
+Use of his military rank, job titles, and photographs in uniform does not constitute or imply endorsement by the Marine Corps or the Department of Defense. ﻿ Share by:

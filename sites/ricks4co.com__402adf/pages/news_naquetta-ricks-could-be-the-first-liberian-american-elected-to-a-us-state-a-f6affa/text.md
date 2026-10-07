@@ -1,1 +1,4 @@
-Kwon Atlas July 21, 2020 Naquetta Ricks Could Be the First Liberian-American Elected to a US State Assembly Kwon Atlas July 21, 2020
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Kwon Atlas July 21, 2020 Naquetta Ricks Could Be the First Liberian-American Elected to a US State Assembly Kwon Atlas July 21, 2020 Source: https://frontpageafricaonline.com/front-slider/naquetta-ricks-could-be-the-first-liberian-american-elected-to-a-us-state-congress/ Newer Post Biden executive order brings hope and memories to one Liberian immigrant Older Post Ricks takes lead in House District 40 Democratic primary Back to Top Sign up for my newsletter!
+Paid for by Naquetta Ricks for Colorado

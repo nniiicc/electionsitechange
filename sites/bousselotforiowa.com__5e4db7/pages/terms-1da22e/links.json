@@ -1,10 +1,38 @@
 [
-"https://bousselotforiowa.com/",
-"https://bousselotforiowa.com/about",
-"https://bousselotforiowa.com/cdn-cgi/l/email-protection",
-"https://bousselotforiowa.com/privacy",
-"https://bousselotforiowa.com/terms",
-"https://bousselotforiowa.com/volunteer",
-"https://facebook.com/MikeBforIowa",
-"https://secure.winred.com/bousselot-for-iowa/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/bousselot-for-iowa/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.bousselotforiowa.com/"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.bousselotforiowa.com/about/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bousselotforiowa.com/privacy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.bousselotforiowa.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bousselotforiowa.com/volunteer/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:mikebforiowahouse@gmail.com"
+},
+{
+"text": "[image]",
+"href": "https://www.bousselotforiowa.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/MikeBforIowa/"
+}
 ]

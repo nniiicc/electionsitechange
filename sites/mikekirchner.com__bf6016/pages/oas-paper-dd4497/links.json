@@ -1,10 +1,46 @@
 [
-"https://mikekirchner.com/",
-"https://mikekirchner.com/about",
-"https://mikekirchner.com/oas-paper",
-"https://mikekirchner.com/walk-or-talk-with-mike-kirchner",
-"https://mikekirchner.com/wp-content/uploads/2026/01/reasons-for-not-promoting-OAS-paper.xlsx",
-"https://mikekirchner.com/wp-content/uploads/2026/08/Supplement-to-Preparing-for-OAS-Catastrophe-August-2026.pdf",
-"https://mikekirchner.com/wp-content/uploads/2026/09/Preparing-for-the-OAS-Catastrophe-A31.pdf",
-"https://wordpress.org/"
+{
+"text": "About",
+"href": "https://mikekirchner.com/about/"
+},
+{
+"text": "Download",
+"href": "https://mikekirchner.com/wp-content/uploads/2026/01/reasons-for-not-promoting-OAS-paper.xlsx"
+},
+{
+"text": "Download",
+"href": "https://mikekirchner.com/wp-content/uploads/2026/08/Supplement-to-Preparing-for-OAS-Catastrophe-August-2026.pdf"
+},
+{
+"text": "Download",
+"href": "https://mikekirchner.com/wp-content/uploads/2026/09/Preparing-for-the-OAS-Catastrophe-A31.pdf"
+},
+{
+"text": "Mike Kirchner",
+"href": "https://mikekirchner.com"
+},
+{
+"text": "OAS Paper",
+"href": "https://mikekirchner.com/oas-paper/"
+},
+{
+"text": "Preparing for the OAS Catastrophe A31",
+"href": "https://mikekirchner.com/wp-content/uploads/2026/09/Preparing-for-the-OAS-Catastrophe-A31.pdf"
+},
+{
+"text": "Supplement to Preparing for OAS Catastrophe August 2026",
+"href": "https://mikekirchner.com/wp-content/uploads/2026/08/Supplement-to-Preparing-for-OAS-Catastrophe-August-2026.pdf"
+},
+{
+"text": "Walk or Talk with Mike Kirchner",
+"href": "https://mikekirchner.com/walk-or-talk-with-mike-kirchner/"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org"
+},
+{
+"text": "[image: Mike Kirchner]",
+"href": "https://mikekirchner.com/"
+}
 ]

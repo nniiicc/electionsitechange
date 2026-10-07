@@ -1,6 +1,22 @@
 [
-"https://deanrummel.com/contact",
-"https://deanrummel.com/home",
-"https://deanrummel.com/news",
-"https://secure.winred.com/rummel-for-senate/donate"
+{
+"text": "Contact",
+"href": "https://deanrummel.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/rummel-for-senate/donate"
+},
+{
+"text": "Meet Dean",
+"href": "https://deanrummel.com/home/#about"
+},
+{
+"text": "News",
+"href": "https://deanrummel.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://deanrummel.com/home/#priorities"
+}
 ]

@@ -1,14 +1,1 @@
-On the Hill
-Email
-gmiller@le.utah.gov
-Phone
-(801) 520-0099
-Address
-350 N State Street, Suite 350, Salt Lake City, UT, 84114
-Campaign Info
-Email
-grantmillerhouse24@gmail.com
-Phone
-(385) 355-4588
-Address
-1953 S 1100 E #521817 Salt Lake City UT, 84106
+0 Skip to Content Contact Newletter Issues Meet Grant DONATE Open Menu Close Menu Contact Newletter Issues Meet Grant DONATE Open Menu Close Menu Contact Newletter Issues Meet Grant DONATE On the Hill Email gmiller@le.utah.gov Phone (801) 520-0099 Address 350 N State Street, Suite 350, Salt Lake City, UT, 84114 Campaign Info Email grantmillerhouse24@gmail.com Phone (385) 355-4588 Address 1953 S 1100 E #521817 Salt Lake City UT, 84106 Donate Paid for by Grant Miller for House District 24

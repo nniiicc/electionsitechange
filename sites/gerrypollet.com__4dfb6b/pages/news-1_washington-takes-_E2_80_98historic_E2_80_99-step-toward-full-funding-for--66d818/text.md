@@ -1,6 +1,5 @@
-Washington State Standard
-Apr 16, 2025
-Rep.
+top of page About Gerry Issues Endorsements News Media More Use tab to navigate through the menu items.
+DONATE < Back Washington takes ‘historic’ step toward full funding for special education Washington State Standard Washington State Standard Apr 16, 2025 Rep.
 Gerry Pollet, D-Seattle, who called the cap “unconscionable and maybe unconstitutional,” said its elimination is “a historic achievement.” It commits the state to amply fund the education of every child with a disability, he said....
 Washington lawmakers are on the cusp of eliminating a special education funding cap, which critics said was straining school finances, hurting students, and putting the state at risk of a major lawsuit.
 On a 97-0 vote, the House amended, then passed Senate Bill 5263 on Wednesday to put Washington, for the first time, on a course to fully fund special education in its public schools.
@@ -24,8 +23,7 @@ An additional $214.94 is provided for each high school student.
 That’s four dollars more than the current rate.
 Couture opposed this legislation, saying it’s too small an increase to help the most needy districts.
 “I don’t think an extra $35 will keep the lights on,” he said.
-Cap would be removed
-Special education is the area where the gap is largest between what districts receive from the state and what they pay for with local dollars.
+Cap would be removed Special education is the area where the gap is largest between what districts receive from the state and what they pay for with local dollars.
 In the 2022-23 school year, districts spent $590 million of local levy receipts to make up the difference, according to a performance audit issued in January by the Joint Legislative Audit and Review Committee.
 Washington uses two key mechanisms for determining what a district receives.
 First, there is the cap on the percentage of a school district’s student population that can receive extra dollars for special education services.
@@ -36,8 +34,7 @@ Senate Bill 5263 removes the enrollment cap and increases the multiplier to send
 It also simplifies the formula used by the state to determine how much will be provided per student.
 And it makes it easier for districts to qualify for additional special education dollars through a safety net program run by the Office of Superintendent of Public Instruction.
 Senate Majority Leader Jamie Pedersen, D-Seattle, and Senate Minority Leader John Braun, R-Centralia, are the bill’s co-sponsors.
-Pedersen, prior to the Senate vote, acknowledged the state’s tight budget situation this year but said Washington’s Constitution “is very clear that funding basic education is our paramount duty.”
-“The fact that it is expensive doesn’t change that on the ground we’ve got kids with special needs who are in our charge and are relying on us to make sure that they get the education to which they’re entitled,” he said.
+Pedersen, prior to the Senate vote, acknowledged the state’s tight budget situation this year but said Washington’s Constitution “is very clear that funding basic education is our paramount duty.” “The fact that it is expensive doesn’t change that on the ground we’ve got kids with special needs who are in our charge and are relying on us to make sure that they get the education to which they’re entitled,” he said.
 Initially, the House upped the multiplier and safety net but left the enrollment cap in place.
 Pollet continued to press for the cap’s erasure as he has for the past 13 years.
 This time he prevailed.
@@ -49,3 +46,5 @@ The bill would also make other changes that could help districts receive more ta
 A fiscal analysis estimates that uncapping the state property tax would bring in an additional $200 million in the next biennium and $618 million in the 2027-29 budget.
 School districts collectively could raise another $900 million locally over four years.
 The legislation is slated to be voted on Friday in the House Finance Committee.
+Previous Next Join Our Email List Submit Thanks for submitting!
+7750 17th Ave NE Seattle, WA 98115 info@gerrypollet.com Paid for by Gerry Pollet for State Representative bottom of page

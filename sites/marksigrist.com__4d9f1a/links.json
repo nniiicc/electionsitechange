@@ -1,17 +1,82 @@
 [
-"http://facebook.com/MarkSigristDistrict10",
-"https://instagram.com/sigristforohio",
-"https://marksigrist.com/",
-"https://marksigrist.com/about",
-"https://marksigrist.com/blog-1-copy-1-1",
-"https://marksigrist.com/cart",
-"https://marksigrist.com/community-service",
-"https://marksigrist.com/issues",
-"https://marksigrist.com/join-us",
-"https://secure.actblue.com/donate/friends-of-mark-sigrist-1",
-"https://secure.actblue.com/donate/friends-of-mark-sigrist-1&amount=100",
-"https://secure.actblue.com/donate/friends-of-mark-sigrist-1&amount=25",
-"https://secure.actblue.com/donate/friends-of-mark-sigrist-1&amount=250",
-"https://secure.actblue.com/donate/friends-of-mark-sigrist-1&amount=50",
-"https://secure.actblue.com/donate/friends-of-mark-sigrist-1&amount=500"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/friends-of-mark-sigrist-1&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/friends-of-mark-sigrist-1&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/friends-of-mark-sigrist-1&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/friends-of-mark-sigrist-1&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/friends-of-mark-sigrist-1&amount=500"
+},
+{
+"text": "0",
+"href": "https://www.marksigrist.com/cart"
+},
+{
+"text": "Blog",
+"href": "https://www.marksigrist.com/blog-1-copy-1-1"
+},
+{
+"text": "Community Service",
+"href": "https://www.marksigrist.com/community-service"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-mark-sigrist-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.marksigrist.com/join-us"
+},
+{
+"text": "Home",
+"href": "https://www.marksigrist.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.marksigrist.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://www.marksigrist.com/join-us"
+},
+{
+"text": "Learn More",
+"href": "https://www.marksigrist.com/issues"
+},
+{
+"text": "Learn more",
+"href": "https://www.marksigrist.com/about"
+},
+{
+"text": "Meet Mark",
+"href": "https://www.marksigrist.com/about"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/friends-of-mark-sigrist-1"
+},
+{
+"text": "[image: Vote for Mark Sigrist]",
+"href": "https://www.marksigrist.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/MarkSigristDistrict10"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sigristforohio/"
+}
 ]

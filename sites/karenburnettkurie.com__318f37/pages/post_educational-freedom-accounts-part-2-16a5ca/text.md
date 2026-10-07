@@ -1,7 +1,5 @@
-Educational Freedom Accounts Part 2:
-Updated: Oct 21, 2024
-Letter to the Editor:
-This letter provides additional information about Education Freedom Accounts (EFA).
+top of page KAREN BURNETT-KURIE NH HOUSE REPRESENTATIVE FOR DISTRICT 7 OSSIPEE/ TUFTONBORO/WOLFEBORO HOME GET TO KNOW KAREN PRIORITIES KAREN'S COMMENTARIES CONNECT WITH KAREN DONATE More Use tab to navigate through the menu items.
+All Posts Affordability Fair Taxation Education Natural Environment Local Rights & Control Health Care Child Care Housing Search Educational Freedom Accounts Part 2: Karen Burnett-Kurie Jun 3, 2024 2 min read Updated: Oct 21, 2024 Letter to the Editor: This letter provides additional information about Education Freedom Accounts (EFA).
 Part 1 was published May30, 2024 in the Granite State News.
 The first year EFA families received $3,500 per student from the state, via the Children’s Scholarship Fund.
 In this, the third year on average students receive $5,255.
@@ -27,4 +25,5 @@ Instead, they report to the Children's Scholarship Fund.
 Rather than the homeschool family being responsible for retaining all records, the scholarship program is responsible for reporting receipt of the annual record of educational attainment - without any personally identifying information and reports that to the NHDOE.
 Since the CSF only provides aggregate data, the NHDOE does not have any information about the progress of individual students.
 This begs the question of accountability for those dollars and the students, but also this is apparently causing problems in the state's auditing process.
-Karen Burnett-Kurie
+Karen Burnett-Kurie Education Recent Posts See All NH Better Served by Quality Education & Lower Property Taxes Education Freedom Accounts- Part 1 Charter Schools in NH Paid for by Friends of Karen Burnett-Kurie for House of Representatives.
+PO Box 1652 Wolfeboro NH 03894, Zoe Dubois, Fiscal Agent. bottom of page

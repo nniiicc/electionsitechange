@@ -1,22 +1,86 @@
 [
-"https://facebook.com/profile.php?id=61573259231985",
-"https://instagram.com/Wrightson4PA",
-"https://secure.actblue.com/donate/bw40web?amount=10",
-"https://secure.actblue.com/donate/bw40web?amount=100",
-"https://secure.actblue.com/donate/bw40web?amount=1000",
-"https://secure.actblue.com/donate/bw40web?amount=25",
-"https://secure.actblue.com/donate/bw40web?amount=250",
-"https://secure.actblue.com/donate/bw40web?amount=2500",
-"https://secure.actblue.com/donate/bw40web?amount=50",
-"https://secure.actblue.com/donate/bw40web?amount=500",
-"https://secure.actblue.com/donate/bw40web?amount=75",
-"https://secure.actblue.com/donate/bwicecream",
-"https://secure.actblue.com/donate/bwoly17",
-"https://wrightsonforsenate.net/",
-"https://wrightsonforsenate.net/?page_id=850",
-"https://wrightsonforsenate.net/endorsed",
-"https://wrightsonforsenate.net/events",
-"https://wrightsonforsenate.net/issues",
-"https://wrightsonforsenate.net/meetbrian-2",
-"https://x.com/Wrightson4PA"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/bw40web/?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/bw40web/?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/bw40web/?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/bw40web/?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/bw40web/?amount=250"
+},
+{
+"text": "$2500",
+"href": "https://secure.actblue.com/donate/bw40web/?amount=2500"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/bw40web/?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/bw40web/?amount=500"
+},
+{
+"text": "$75",
+"href": "https://secure.actblue.com/donate/bw40web/?amount=75"
+},
+{
+"text": "Contribute TODAY To Support Brian Wrightson For PA Senate District 40",
+"href": "https://secure.actblue.com/donate/bw40web/?amount=50"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://wrightsonforsenate.net/endorsed/"
+},
+{
+"text": "EVENTS",
+"href": "https://wrightsonforsenate.net/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61573259231985"
+},
+{
+"text": "I WANT TO ATTEND",
+"href": "https://secure.actblue.com/donate/bwicecream"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/Wrightson4PA"
+},
+{
+"text": "MEET BRIAN",
+"href": "https://wrightsonforsenate.net/meetbrian-2/"
+},
+{
+"text": "Text / Communication Opt Out Policy",
+"href": "https://wrightsonforsenate.net/?page_id=850"
+},
+{
+"text": "WHERE I STAND",
+"href": "https://wrightsonforsenate.net/issues/"
+},
+{
+"text": "X",
+"href": "https://x.com/Wrightson4PA"
+},
+{
+"text": "[image: Brian Wrightson For PA Senate District 40]",
+"href": "https://wrightsonforsenate.net/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/bwoly17"
+}
 ]

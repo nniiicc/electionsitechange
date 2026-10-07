@@ -1,5 +1,4 @@
-Tested, Trusted and Ready to Serve
-A decorated military veteran and law enforcement official who has dedicated his life to serving his town and his country, Patrick Chludzinski has been endorsed by the Erie County Republican and Conservative committees to run for the New York State Assembly in the 143rd district.
+top of page HOME MEET PAT ENDORSEMENTS VOLUNTEER PAT IN THE NEWS MARYVALE UPDATE DONATE Tested, Trusted and Ready to Serve A decorated military veteran and law enforcement official who has dedicated his life to serving his town and his country, Patrick Chludzinski has been endorsed by the Erie County Republican and Conservative committees to run for the New York State Assembly in the 143rd district.
 Born and raised in the Village of Sloan, Pat is a life-long resident of the Town of Cheektowaga.
 As a first-time candidate for public office, he is committed to representing the values and best interests of his community in our state capital.
 He possesses the strength and the courage necessary to stand up to the special interests and status quo that has made our state less safe, and less affordable while diminishing our quality of life.
@@ -16,9 +15,7 @@ He is the recipient of two Army Commendation Medals with Combat Valor Device, a 
 While public safety and public service have been Pat Chludzinski’s passions, they have also informed him and made him ready to serve as our next State Assemblymember.
 Pat’s career has given him a close-up view of how poor public policy decisions like bail reform and the mishandling of the migrant crisis have made our community less safe.
 He has seen firsthand the struggles young families and senior citizens are forced to endure when high taxes and misguided spending policies make it difficult for Western New Yorkers to make ends meet.
-No one knows the challenges and the needs of the residents of the 143rd Assembly District better than Pat Chludzinski, and no one has a better record of service to prove they are ready for the job.
-Prior to joining the Cheektowaga Police Department, Pat received an associate degree in Science Humanities from Erie Community College and studied Psychology and Criminal Justice at Buffalo State College.
+No one knows the challenges and the needs of the residents of the 143rd Assembly District better than Pat Chludzinski, and no one has a better record of service to prove they are ready for the job. ​ Prior to joining the Cheektowaga Police Department, Pat received an associate degree in Science Humanities from Erie Community College and studied Psychology and Criminal Justice at Buffalo State College.
 Pat and his wife Tanya are the proud parents of three daughters, Ava (16), Kendra (14), and Reyha (8).
 Pat Chludzinski is an officer for the Cheektowaga Police Department.
-Use of his rank, job titles and photographs in uniform does not imply endorsement by the Cheektowaga PD.
-The photograph in uniform does not imply endorsement by the Department of Defense or the Department of the Army
+Use of his rank, job titles and photographs in uniform does not imply endorsement by the Cheektowaga PD. ​ The photograph in uniform does not imply endorsement by the Department of Defense or the Department of the Army Straight From Pat Paid for by Chludzinski for Assembly Pat Chludzinski | NYS Assembly District 143 Cheektowaga | Lancaster | Buffalo bottom of page

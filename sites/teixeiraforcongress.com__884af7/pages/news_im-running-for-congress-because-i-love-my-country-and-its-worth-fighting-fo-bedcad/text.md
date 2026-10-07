@@ -1,2 +1,2 @@
-I’m running for Congress because I love this country, and it’s worth fighting for. pic.twitter.com/rwwEPExXXF
-— Mark Teixeira (@teixeiramark25) October 31, 2025
+Menu Meet Mark Endorsements Issues News Volunteer Contact Facebook Twitter Instagram Official Merch "I'm running for Congress because I love my country, and it's worth fighting for." I’m running for Congress because I love this country, and it’s worth fighting for. pic.twitter.com/rwwEPExXXF — Mark Teixeira (@teixeiramark25) October 31, 2025 Contribute Facebook Twitter Instagram To Donate By Mail: Mark Teixeira for Congress PO Box 1073 1450 W.
+Highway 290 Dripping Springs, TX 78620 © Copyright Mark "Tex" Teixeira for Congress - All Rights Reserved - Privacy Policy | Terms and Conditions Paid for by Mark Teixeira for Congress

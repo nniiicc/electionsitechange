@@ -1,22 +1,94 @@
 [
-"http://facebook.com/brianwalkerforward",
-"http://google.com/calendar/event?action=TEMPLATE&text=NW+Food+Truck+Fest&dates=20260613T170000Z%2F20260614T000000Z&location=7925+161st+Avenue+Northwest%2C+Ramsey%2C+Minnesota%2C+55303%2C+United+States",
-"http://instagram.com/walker.forward",
-"http://maps.google.com/?q=7925+161st+Avenue+Northwest+Ramsey%2C+Minnesota%2C+55303+United+States",
-"https://facebook.com/p/NW-Food-Truck-Fests-61557248450831",
-"https://walkerforward.com/",
-"https://walkerforward.com/cart",
-"https://walkerforward.com/contact",
-"https://walkerforward.com/donate",
-"https://walkerforward.com/events",
-"https://walkerforward.com/events/anoka-county-dfl-volunteer-fair",
-"https://walkerforward.com/events/nw-food-truck-fest?format=ical",
-"https://walkerforward.com/events/the-draw-concerts-in-the-park-ramsey",
-"https://walkerforward.com/events?tag=ramsey",
-"https://walkerforward.com/faq",
-"https://walkerforward.com/news",
-"https://walkerforward.com/privacy-policy",
-"https://walkerforward.com/store",
-"https://walkerforward.com/volunteer",
-"https://walkerforward.com/yard-sign"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7925+161st+avenue+northwest+ramsey%2C+minnesota%2C+55303+united+states"
+},
+{
+"text": "0",
+"href": "https://www.walkerforward.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.walkerforward.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.walkerforward.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.walkerforward.com/faq"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=NW+Food+Truck+Fest&dates=20260613T170000Z%2F20260614T000000Z&location=7925+161st+Avenue+Northwest%2C+Ramsey%2C+Minnesota%2C+55303%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.walkerforward.com/events/nw-food-truck-fest?format=ical"
+},
+{
+"text": "NW Food Truck",
+"href": "https://www.facebook.com/p/NW-Food-Truck-Fests-61557248450831/"
+},
+{
+"text": "News",
+"href": "https://www.walkerforward.com/news"
+},
+{
+"text": "Next Next June 18 The Draw Concerts In the Park - Ramsey",
+"href": "https://www.walkerforward.com/events/the-draw-concerts-in-the-park-ramsey"
+},
+{
+"text": "Previous Previous June 6 Anoka County DFL Volunteer Fair",
+"href": "https://www.walkerforward.com/events/anoka-county-dfl-volunteer-fair"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.walkerforward.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://www.walkerforward.com/store"
+},
+{
+"text": "Volunteer",
+"href": "https://www.walkerforward.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.walkerforward.com/yard-sign"
+},
+{
+"text": "[image: Walker Forward]",
+"href": "https://www.walkerforward.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/brianwalkerforward"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/walker.forward"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@walkerforward.com"
+},
+{
+"text": "campaign@walkerforward.com",
+"href": "mailto:campaign@walkerforward.com"
+},
+{
+"text": "ramsey",
+"href": "https://www.walkerforward.com/events?tag=ramsey"
+}
 ]

@@ -1,4 +1,18 @@
 [
-"https://votejoecleveland.com/",
-"https://votejoecleveland.com/endorsements"
+{
+"text": "Contact",
+"href": "mailto:votejoecleveland@gmail.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejoecleveland.com/endorsements"
+},
+{
+"text": "Get in touch about endorsing",
+"href": "mailto:votejoecleveland@gmail.com?subject=Endorsement+inquiry+for+Joe+Cleveland"
+},
+{
+"text": "See Joe's priorities",
+"href": "https://www.votejoecleveland.com/#priorities"
+}
 ]

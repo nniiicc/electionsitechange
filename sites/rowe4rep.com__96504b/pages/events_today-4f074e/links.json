@@ -1,19 +1,98 @@
 [
-"http://eepurl.com/iLX4JM",
-"https://facebook.com/JRowe.Rep",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Frowe4rep.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Frowe4rep.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Judy+Rowe+For+State+Rep+",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Frowe4rep.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Judy+Rowe+For+State+Rep+",
-"https://rowe4rep.com/",
-"https://rowe4rep.com/about",
-"https://rowe4rep.com/contact",
-"https://rowe4rep.com/events",
-"https://rowe4rep.com/events/2026-10-04",
-"https://rowe4rep.com/events/list",
-"https://rowe4rep.com/events/month",
-"https://rowe4rep.com/events/today",
-"https://rowe4rep.com/events/today?ical=1",
-"https://rowe4rep.com/events/today?outlook-ical=1",
-"https://rowe4rep.com/issues",
-"https://secure.actblue.com/donate/judy-rowe-1"
+{
+"text": "#ago",
+"href": "https://rowe4rep.com/events/today/"
+},
+{
+"text": "About",
+"href": "https://rowe4rep.com/about/"
+},
+{
+"text": "Day",
+"href": "https://rowe4rep.com/events/today/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/judy-rowe-1"
+},
+{
+"text": "Events",
+"href": "https://rowe4rep.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://rowe4rep.com/events/today/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://rowe4rep.com/events/today/?outlook-ical=1"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Frowe4rep.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://rowe4rep.com/"
+},
+{
+"text": "Issues",
+"href": "https://rowe4rep.com/issues/"
+},
+{
+"text": "Join the Bold Bunch",
+"href": "https://rowe4rep.com/contact/"
+},
+{
+"text": "List",
+"href": "https://rowe4rep.com/events/list/"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/judy-rowe-1"
+},
+{
+"text": "Month",
+"href": "https://rowe4rep.com/events/month/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Frowe4rep.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Judy+Rowe+For+State+Rep+#51+Events+Archive+-+Judy+Rowe+For+State+Rep+#51"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Frowe4rep.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Judy+Rowe+For+State+Rep+#51+Events+Archive+-+Judy+Rowe+For+State+Rep+#51"
+},
+{
+"text": "Previous Day",
+"href": "https://rowe4rep.com/events/2026-10-04/"
+},
+{
+"text": "Team@ReadyForBold.com",
+"href": "mailto:Team@ReadyForBold.com"
+},
+{
+"text": "Visit us on Facebook",
+"href": "https://www.facebook.com/JRowe.Rep"
+},
+{
+"text": "[image: Intuit Mailchimp]",
+"href": "http://eepurl.com/iLX4JM"
+},
+{
+"text": "[image: Judy Rowe For State Rep #51]",
+"href": "https://rowe4rep.com"
+},
+{
+"text": "[tooltip: Previous day]",
+"href": "https://rowe4rep.com/events/2026-10-04/"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/JRowe.Rep"
+},
+{
+"text": "iCalendar",
+"href": "webcal://rowe4rep.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

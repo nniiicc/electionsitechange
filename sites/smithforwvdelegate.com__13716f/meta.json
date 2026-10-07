@@ -1,7 +1,9 @@
 {
  "description": "Join the grassroots political campaign powering Smith for Delegate in West Virginia; sign up online to volunteer, donate, or stay informed.",
  "final_url": "https://www.smithforwvdelegate.com/",
- "paid_for_by": null,
+ "fingerprint": "e29d0b10bc266452b09176bb799d30f0129518a0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Home | Smith for WV House 12",
  "years_mentioned": []
 }

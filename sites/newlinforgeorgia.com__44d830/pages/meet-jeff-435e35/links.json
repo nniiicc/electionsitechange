@@ -1,13 +1,50 @@
 [
-"https://campaignmanager.newlinforgeorgia.com/privacy",
-"https://facebook.com/profile.php?id=61562474787142",
-"https://instagram.com/newlin4georgia",
-"https://newlinforgeorgia.com/compare",
-"https://newlinforgeorgia.com/district-map",
-"https://newlinforgeorgia.com/home",
-"https://newlinforgeorgia.com/join",
-"https://newlinforgeorgia.com/meet-jeff",
-"https://newlinforgeorgia.com/priorities",
-"https://secure.anedot.com/newlin-for-georgia/donate",
-"https://x.com/newlin4georgia"
+{
+"text": "Compare",
+"href": "https://newlinforgeorgia.com/compare"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/newlin-for-georgia/donate"
+},
+{
+"text": "District 41",
+"href": "https://newlinforgeorgia.com/district-map"
+},
+{
+"text": "Jeff's Priorities",
+"href": "https://newlinforgeorgia.com/priorities"
+},
+{
+"text": "Join The Team",
+"href": "https://newlinforgeorgia.com/join"
+},
+{
+"text": "Meet Jeff",
+"href": "https://newlinforgeorgia.com/meet-jeff"
+},
+{
+"text": "NEWLIN for STATE SENATE",
+"href": "https://newlinforgeorgia.com/home"
+},
+{
+"text": "Priorities",
+"href": "https://newlinforgeorgia.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://campaignmanager.newlinforgeorgia.com/privacy"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61562474787142"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/newlin4georgia"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/newlin4georgia"
+}
 ]

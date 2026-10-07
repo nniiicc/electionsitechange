@@ -1,18 +1,106 @@
 [
-"https://facebook.com/profile.php?id=61588130812049",
-"https://instagram.com/jocelynfornchouse",
-"https://instagram.com/wix",
-"https://iwillvote.com/",
-"https://jocelynfornc.com/",
-"https://jocelynfornc.com/about",
-"https://jocelynfornc.com/accessibility-statement",
-"https://jocelynfornc.com/contact",
-"https://jocelynfornc.com/event-list",
-"https://jocelynfornc.com/get-involved",
-"https://jocelynfornc.com/nc-67-map",
-"https://jocelynfornc.com/privacy-policy",
-"https://jocelynfornc.com/terms-and-conditions",
-"https://jocelynfornc.com/why-voting-matters",
-"https://secure.actblue.com/donate/jocelyn-torres-1",
-"https://vt.ncsbe.gov/EVSite"
+{
+"text": "About",
+"href": "https://www.jocelynfornc.com/about"
+},
+{
+"text": "About Jocelyn",
+"href": "https://www.jocelynfornc.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.jocelynfornc.com/accessibility-statement"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://iwillvote.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.jocelynfornc.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jocelyn-torres-1"
+},
+{
+"text": "DONATE",
+"href": "https://www.jocelynfornc.com"
+},
+{
+"text": "Early voting locations",
+"href": "https://vt.ncsbe.gov/EVSite/"
+},
+{
+"text": "Events",
+"href": "https://www.jocelynfornc.com/event-list"
+},
+{
+"text": "FOR NC House District 67",
+"href": "https://www.jocelynfornc.com"
+},
+{
+"text": "GET UPDATES",
+"href": "https://www.jocelynfornc.com#subscribe"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jocelynfornc.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.jocelynfornc.com"
+},
+{
+"text": "Jocelyn Torres",
+"href": "https://www.jocelynfornc.com"
+},
+{
+"text": "NC-67 Map",
+"href": "https://www.jocelynfornc.com/nc-67-map"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jocelynfornc.com/privacy-policy"
+},
+{
+"text": "Register to vote",
+"href": "https://iwillvote.com/"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://iwillvote.com/"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.jocelynfornc.com"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.jocelynfornc.com/terms-and-conditions"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.jocelynfornc.com/get-involved"
+},
+{
+"text": "Why Voting Matters",
+"href": "https://www.jocelynfornc.com/why-voting-matters"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61588130812049"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jocelynfornchouse/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "jocelynfornc@gmail.com",
+"href": "mailto:jocelynfornc@gmail.com"
+}
 ]

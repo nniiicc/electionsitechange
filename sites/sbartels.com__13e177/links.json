@@ -1,12 +1,66 @@
 [
-"https://facebook.com/stephenbartels",
-"https://instagram.com/stevebartels01",
-"https://sbartels.com/",
-"https://sbartels.com/bio",
-"https://sbartels.com/contact",
-"https://sbartels.com/issues",
-"https://sbartels.com/stay-informed",
-"https://sbartels.com/volunteer",
-"https://sbartels.com/who-we-are",
-"https://twitter.com/stevebartels01"
+{
+"text": "About",
+"href": "https://www.sbartels.com/bio#About"
+},
+{
+"text": "B",
+"href": "https://www.sbartels.com/who-we-are"
+},
+{
+"text": "Bio",
+"href": "https://www.sbartels.com/bio"
+},
+{
+"text": "Experience",
+"href": "https://www.sbartels.com/bio#Experience"
+},
+{
+"text": "Issues",
+"href": "https://www.sbartels.com/issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.sbartels.com/bio"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.sbartels.com/issues"
+},
+{
+"text": "Stay Informed",
+"href": "https://www.sbartels.com/stay-informed"
+},
+{
+"text": "V",
+"href": "https://www.sbartels.com/contact"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sbartels.com/volunteer"
+},
+{
+"text": "[image: Stephen Bartels - State Representative]",
+"href": "https://www.sbartels.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.sbartels.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/stevebartels01"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/stephenbartels/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/stevebartels01/"
+},
+{
+"text": "[no text]",
+"href": "mailto:Steve@SBartels.com"
+}
 ]

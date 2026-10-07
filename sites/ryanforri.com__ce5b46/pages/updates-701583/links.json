@@ -1,7 +1,26 @@
 [
-"https://ryanforri.com/",
-"https://ryanforri.com/about-ryan",
-"https://ryanforri.com/issues",
-"https://ryanforri.com/updates",
-"https://secure.actblue.com/donate/ryan-pearson-1"
+{
+"text": "ABOUT RYAN",
+"href": "https://www.ryanforri.com/about-ryan"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ryan-pearson-1"
+},
+{
+"text": "HOME",
+"href": "https://www.ryanforri.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.ryanforri.com/issues"
+},
+{
+"text": "Updates",
+"href": "https://www.ryanforri.com/updates"
+},
+{
+"text": "info@ryanforri.com",
+"href": "mailto:info@ryanforri.com"
+}
 ]

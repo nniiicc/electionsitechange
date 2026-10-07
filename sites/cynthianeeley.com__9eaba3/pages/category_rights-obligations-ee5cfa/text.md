@@ -1,9 +1,13 @@
-The Michigan House Criminal Justice Committee met Tuesday, Jun 4th, 2024 for a hearing on Messiah’s Law.
-The two-bill package of legislation is designed to…
-Representative Cynthia Neeley is #ThrivingTogether with the Flint and Saginaw Branch of the NAACP.
-Bringing a vision into reality by transforming one of Flint’s oldest manufacturing sites into a recreational opportunity for families.
-Yesterday, the governor and Flint Mayor…
-Join Michigan House Democrats and Rep.
-Sarah Anthony for the premiere of a special Black History Month video project – Facing the Rising Sun: Black…
-Act No. 387Public Acts of 2020Approved by the GovernorJanuary 4, 2021Filed with the Secretary of StateJanuary 4, 2021EFFECTIVE DATE: October 1, 2021STATE OF MICHIGAN100TH LEGISLATUREREGULAR…
-LANSING, Mich., Sept. 24, 2020 – The Michigan House of Representatives passed House Bill 6235 today to block the state from denying to issue or…
+Home About News Volunteer Donate Contact Contribute Rights & Obligations Home All Posts Rights & Obligations Home About News Volunteer Donate Contact Family Law News Rights & Obligations June 5, 2024 House Criminal Justice Committee holds hearing on Messiah’s Law by webmaster 0 Comments The Michigan House Criminal Justice Committee met Tuesday, Jun 4th, 2024 for a hearing on Messiah’s Law.
+The two-bill package of legislation is designed to… Continue reading Priorities & Structure Rights & Obligations October 16, 2023 Rep.
+Cynthia Neeley Thriving Together with the NAACP by webmaster 0 Comments Representative Cynthia Neeley is #ThrivingTogether with the Flint and Saginaw Branch of the NAACP.
+Continue reading News Priorities & Structure Rights & Obligations April 1, 2022 Recognizing Civil Rights leader and Union organizer Cesar Chavez by webmaster 0 Comments Bringing a vision into reality by transforming one of Flint’s oldest manufacturing sites into a recreational opportunity for families.
+Yesterday, the governor and Flint Mayor… Continue reading News Rights & Obligations February 25, 2021 Facing the Rising Sun: Black Leadership in the Michigan Legislature by webmaster 0 Comments Join Michigan House Democrats and Rep.
+Sarah Anthony for the premiere of a special Black History Month video project – Facing the Rising Sun: Black… Continue reading Family News Rights & Obligations February 22, 2021 Commemorating History Makers by webmaster 0 Comments Continue reading Family Law News Rights & Obligations January 31, 2021 Working together with a positive heart brings about real change. by webmaster 0 Comments Continue reading Law News Rights & Obligations January 4, 2021 HB6235, introduced into law by 34th District State Representative Cynthia Neeley by webmaster 0 Comments Act No.
+387Public Acts of 2020Approved by the GovernorJanuary 4, 2021Filed with the Secretary of StateJanuary 4, 2021EFFECTIVE DATE: October 1, 2021STATE OF MICHIGAN100TH LEGISLATUREREGULAR… Continue reading News Priorities & Structure Rights & Obligations September 24, 2020 Neeley stands up for Michigan Drivers by webmaster 0 Comments LANSING, Mich., Sept.
+24, 2020 – The Michigan House of Representatives passed House Bill 6235 today to block the state from denying to issue or… Continue reading Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
+Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.
+October 7, 2024 Election, News Attending the 2024 Democratic National Convention August 26, 2024 Tags articles law news Opinions politics Topics Calendar October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Oct twitter facebook youtube Useful Links Home About Cynthia News Volunteer Privacy Policy Contact Contact Info 1809 James P Cole Blvd Flint, MI 48503 (810) 458-3936 cynthia@cynthianeeley.com Stay in Touch Paid for by Committee to Elect Cynthia R.
+Neeley, 2305 Begole St.
+Flint, MI 48504 | ©#.
+All Rights Reserved.

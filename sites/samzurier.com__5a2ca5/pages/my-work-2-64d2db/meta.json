@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://samzurier.com/my-work-2/",
- "paid_for_by": null,
+ "fingerprint": "bf0778ac2190217aa5b628854ce0602150a8ad8d",
+ "format": 3,
+ "paid_for_by": "sponsored by Meeting Street School",
  "title": "My Work | Sam Zurier New Site",
  "years_mentioned": [
   "2011",
@@ -9,6 +11,10 @@
   "2014",
   "2015",
   "2017",
-  "2018"
+  "2018",
+  "2022",
+  "2024",
+  "2025",
+  "2026"
  ]
 }

@@ -1,34 +1,17 @@
-- Recent Tweets Tweets by sbpres
-- Events
-- Recent Posts
-- Archives
-- Categories
-- Meta
-Monthly Archives: October 2020
-Scott Burns has a proven track record of service to Franklin
-Scott Burns has a proven track record of service to Franklin To The Daily Sun, I am writing to support the candidacy of Scott Burns, who is running for state representative for Franklin and Hill.
-I have known Scott for … Continue reading
-Meet and Greet in our Backyard with the Democratic Candidates
-Endorsement of Our Moment Pac
-I am proud of the endorsement of Our Moment Pac.
+scottaburns Running for State Representataive Skip to content Home About Contact Donate Endorsements Events Moving Forward Organizations Monthly Archives: October 2020 Scott Burns has a proven track record of service to Franklin Posted on October 24, 2020 by Scott Burns for State Representative Scott Burns has a proven track record of service to Franklin To The Daily Sun, I am writing to support the candidacy of Scott Burns, who is running for state representative for Franklin and Hill.
+I have known Scott for … Continue reading → Posted in Uncategorized | Leave a comment Meet and Greet in our Backyard with the Democratic Candidates Posted on October 23, 2020 by Scott Burns for State Representative Posted in Uncategorized | Leave a comment Endorsement of Our Moment Pac Posted on October 22, 2020 by Scott Burns for State Representative I am proud of the endorsement of Our Moment Pac.
 Click on the link to see the endorsement and who they are.
-I like diversity. https://www.ourmomentpac.com/candidates
-Scott Burns would do a good job for Franklin and Hill
-To THE Daily Sun, While I , unfortunately, do not live in Scott Burns’ District, I can speak to his character.
+I like diversity. https://www.ourmomentpac.com/candidates Posted in Uncategorized | Leave a comment Endorse by SEA/SEIU Local 1984 Posted on October 21, 2020 by Scott Burns for State Representative Posted in Uncategorized | Leave a comment Scott Burns would do a good job for Franklin and Hill Posted on October 17, 2020 by Scott Burns for State Representative To THE Daily Sun, While I , unfortunately, do not live in Scott Burns’ District, I can speak to his character.
 Scott and I attended school together.
-You can learn a lot about someone’s personal integrity from an early age … Continue reading
-Burns has Franklin’s Interest in mind
-Scott Burns has been an active, integral member of Franklin all his life.
+You can learn a lot about someone’s personal integrity from an early age … Continue reading → Posted in Uncategorized | Leave a comment Burns has Franklin’s Interest in mind Posted on October 16, 2020 by Scott Burns for State Representative Scott Burns has been an active, integral member of Franklin all his life.
 I have personally known him since he was a child.
 After high school and college, Scott gained experience in politics in Virginia and other states.
-He returned … Continue reading
-Sierra Club Endorsement
-I am thrilled to receive the Sierra Club Endorsement once again.
+He returned … Continue reading → Posted in Uncategorized | Leave a comment Sierra Club Endorsement Posted on October 9, 2020 by Scott Burns for State Representative I am thrilled to receive the Sierra Club Endorsement once again.
 I hope to be able to save some money for our communities with my recycling waste initiatives.
-I look forward to work with Sierra Club and others on climate … Continue reading
-Fair Funding Project and Education Study Commission
-I just want to thank everyone for their support.
+I look forward to work with Sierra Club and others on climate … Continue reading → Posted in Uncategorized | Leave a comment Franklin Candidate Forum Posted on October 6, 2020 by Scott Burns for State Representative Posted in Uncategorized | Leave a comment Fair Funding Project and Education Study Commission Posted on October 2, 2020 by Scott Burns for State Representative I just want to thank everyone for their support.
 I will be at the Hill Town Dump on Saturday.
 Then canvassing Hill.
 I have been told Hill got a tax bill that will be more.
-I will be talking about … Continue reading
+I will be talking about … Continue reading → Posted in Uncategorized | Leave a comment Recent Tweets Tweets by sbpres Events October 2020 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Sep Nov » Search for: Recent Posts (no title) I am Running Moving Forward In new lawsuit, 3 taxpayers argue N.H. school funding remains unfair Council approves provider contract for paid leave program amid some skepticism from Republicans Archives October 2026 June 2026 May 2026 June 2022 November 2020 October 2020 September 2020 August 2020 February 2020 November 2018 October 2018 September 2018 August 2018 March 2018 June 2016 April 2016 December 2015 November 2015 August 2015 July 2015 June 2015 April 2015 March 2015 January 2015 December 2014 November 2014 October 2014 September 2014 April 2014 March 2014 December 2013 November 2013 August 2013 July 2013 January 2013 December 2012 November 2012 October 2012 September 2012 June 2012 May 2012 Categories Uncategorized Meta Create account Log in Entries feed Comments feed WordPress.com scottaburns Create a free website or blog at WordPress.com.
+Subscribe Subscribed scottaburns Sign me up Have a WordPress.com account?
+Log in now. scottaburns View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Design a site like this with WordPress.com Get started

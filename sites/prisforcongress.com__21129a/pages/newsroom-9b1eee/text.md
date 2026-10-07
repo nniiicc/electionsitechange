@@ -1,59 +1,28 @@
-Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Skip Link Text Menu Home ActBlue About Endorsements & Support Supporting the PACT Act Community Based Legal Logic RAICES 1st Corpus Christi Pride Parade Documents FEC Filings Parishes Acadia Parish Crime Rate Poverty Calcasieu Parish Housing Infant Mortality Crime Poverty Cameron Parish Crime Poverty Iberia Parish Crime Jeff Davis Parish Lake Charles Crime in Lake Charles Crime Poverty Lafayette Parish St.
+Mary Parish St.
+Martin Parish Drainage System Flooding and Erosion Terrebonne Parish Vermilion Parish Crime in Vermilion Parish Crime Juvenile Crime Issues Criminal Justice Reform Economy Education and Workforce Teacher Salaries Louisiana SB26 Healthcare Infant Mortality Maternal Mortality Hurricanes Infrastructure Taxes State Income Tax News Social Ballotpedia FaceBook Discord Reddit X Threads Donate ActBlue PayPal Venmo Cash App Home ActBlue About Endorsements & Support Supporting the PACT Act Community Based Legal Logic RAICES 1st Corpus Christi Pride Parade Documents FEC Filings Parishes Acadia Parish Crime Rate Poverty Calcasieu Parish Housing Infant Mortality Crime Poverty Cameron Parish Crime Poverty Iberia Parish Crime Jeff Davis Parish Lake Charles Crime in Lake Charles Crime Poverty Lafayette Parish St.
+Mary Parish St.
+Martin Parish Drainage System Flooding and Erosion Terrebonne Parish Vermilion Parish Crime in Vermilion Parish Crime Juvenile Crime Issues Criminal Justice Reform Economy Education and Workforce Teacher Salaries Louisiana SB26 Healthcare Infant Mortality Maternal Mortality Hurricanes Infrastructure Taxes State Income Tax News Social Ballotpedia FaceBook Discord Reddit X Threads Donate ActBlue PayPal Venmo Cash App yes Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-Phone
+Phone (337) 279-8329 Email prisforcongress@gmail.com Newsroom FOR IMMEDIATE RELEASE Priscilla Gonzalez Challenges Congressman Clay Higgins to… FOR IMMEDIATE RELEASE Priscilla Gonzalez Challenges Congressman Clay Higgins to Public Debate in Louisiana’s 3rd Congressional District LAFAYETTE, LOUISIANA — October 6, 2026 — Priscilla Gonzalez, candidate for the US [Click Title to Continue Reading] October 6, 2026 no comments Here are nine documented controversies involving Clay Higgins over the years.
+Th… Here are nine documented controversies involving Clay Higgins over the years.
+This covers major public incidents, rather than every criticism of his record.
+1.
+Police misconduct allegations, 2007.
+Opelousas police [Click Title to Continue Reading] October 6, 2026 no comments Your congressman Clay Higgins voted not to bring our soldiers home.
 Your congressman Clay Higgins voted not to bring our soldiers home.
-Source
-[Click Title to Continue Reading]
-October 3, 2026
-no comments
-It is time to say adios to Clay Higgins and voted new leadership.
+Source [Click Title to Continue Reading] October 3, 2026 no comments It is time to say adios to Clay Higgins and voted new leadership.
+I am not askin… It is time to say adios to Clay Higgins and voted new leadership.
 I am not asking you to vote for me.
-Please just get out and vote and District
-[Click Title to Continue Reading]
-October 3, 2026
-no comments
-In June 2017, Representative Clay Higgins, a Republican congressman from Louisiana, ignited a firestorm of controversy with a provocative and deeply disturbing Facebook post calling for the $illing of “radicalized”
-[Click Title to Continue Reading]
-October 2, 2026
-no comments
-Never forget that your congressman could not say if he swears his allegiance to Israel or the United States of America.
-Please watch this video. ￼ Also please register everybody
-[Click Title to Continue Reading]
-October 1, 2026
-no comments
-Just a quick reminder that Clay Higgins’s ￼ loyalty as to Israel.
+Please just get out and vote and District [Click Title to Continue Reading] October 3, 2026 no comments In June 2017, Representative Clay Higgins, a Republican congressman from Louisia… In June 2017, Representative Clay Higgins, a Republican congressman from Louisiana, ignited a firestorm of controversy with a provocative and deeply disturbing Facebook post calling for the $illing of “radicalized” [Click Title to Continue Reading] October 2, 2026 no comments Never forget that your congressman could not say if he swears his allegiance to … Never forget that your congressman could not say if he swears his allegiance to Israel or the United States of America.
+Please watch this video. ￼ Also please register everybody [Click Title to Continue Reading] October 1, 2026 no comments Just a quick reminder that Clay Higgins’s ￼ loyalty as to Israel.
+He does not ca… Just a quick reminder that Clay Higgins’s ￼ loyalty as to Israel.
 He does not care about district 3.
-For the love of God, please vote for your children, your
-[Click Title to Continue Reading]
-October 1, 2026
-no comments
-Clay Higgins voted against raising the federal minimum wage in LouisianaIt is $7.25.
+For the love of God, please vote for your children, your [Click Title to Continue Reading] October 1, 2026 no comments Clay Higgins voted against raising the federal minimum wage in LouisianaIt is $7… Clay Higgins voted against raising the federal minimum wage in LouisianaIt is $7.25.
 Please get out and vote.
-We need a congressman or a Congressman or woman that is going
-[Click Title to Continue Reading]
-October 1, 2026
-no comments
-When Congressman Higgins voted against expanding the Child Tax Credit, working families and children are the ones who feel the consequences.
-Families are struggling with the rising costs of food,
-[Click Title to Continue Reading]
-October 1, 2026
-no comments
-Please make sure you’re registered to vote! ￼ Source
-[Click Title to Continue Reading]
-September 21, 2026
-no comments
-It’s time for him to go, and it’s time for us to like the leader that is going to be for the people!
-I’m not asking Hope for me.
-I’m
-[Click Title to Continue Reading]
-September 19, 2026
-no comments
-Congress is out for ￼vacation.
-Just remember that ￼ why you are shopping for groceries and pumping gas .
-Source
-[Click Title to Continue Reading]
-September 19, 2026
-no comments
-Stay up to date with the latest news from Priscilla Gonzalez's campaign
-Priscilla Gonzalez for Louisiana State Representative, 3rd District
-Design & Developed by Buy WordPress Templates
+We need a congressman or a Congressman or woman that is going [Click Title to Continue Reading] October 1, 2026 no comments When Congressman Higgins voted against expanding the Child Tax Credit, working … When Congressman Higgins voted against expanding the Child Tax Credit, working families and children are the ones who feel the consequences.
+Families are struggling with the rising costs of food, [Click Title to Continue Reading] October 1, 2026 no comments Please make sure you’re registered to vote! ￼ Please make sure you’re registered to vote! ￼ Source [Click Title to Continue Reading] September 21, 2026 no comments 1 2 3 … 13 Next » Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
+Martin Parish St.
+Mary Parish Terrebonne Parish Vermilion Parish Subscribe To Our Newsletter Stay up to date with the latest news from Priscilla Gonzalez's campaign Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
+Martin Parish St.
+Mary Parish Terrebonne Parish Vermilion Parish Donate ActBlue Threads PayPal Venmo Cash App Social Ballotpedia Discord Reddit Facebook X Priscilla Gonzalez for Louisiana State Representative, 3rd District Design & Developed by Buy WordPress Templates

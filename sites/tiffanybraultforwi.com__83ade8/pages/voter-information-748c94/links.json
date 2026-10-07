@@ -1,14 +1,54 @@
 [
-"https://bsky.app/profile/tiffanyforwi.bsky.social",
-"https://facebook.com/tiffanyforWI",
-"https://instagram.com/tiffanybraultforwi",
-"https://myvote.wi.gov/en-us",
-"https://tiffanybraultforwi.com/",
-"https://tiffanybraultforwi.com/about",
-"https://tiffanybraultforwi.com/cart",
-"https://tiffanybraultforwi.com/donate",
-"https://tiffanybraultforwi.com/issues",
-"https://tiffanybraultforwi.com/s/Assembly-District-60-Map.pdf",
-"https://tiffanybraultforwi.com/voter-information",
-"https://x.com/tiffanyforwi"
+{
+"text": "0",
+"href": "https://www.tiffanybraultforwi.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.tiffanybraultforwi.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.tiffanybraultforwi.com/donate"
+},
+{
+"text": "Download District Map",
+"href": "https://www.tiffanybraultforwi.com/s/Assembly-District-60-Map.pdf"
+},
+{
+"text": "Home",
+"href": "https://www.tiffanybraultforwi.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.tiffanybraultforwi.com/issues"
+},
+{
+"text": "Tiffany Brault for Wisconsin State Assembly",
+"href": "https://www.tiffanybraultforwi.com/"
+},
+{
+"text": "Visit My Vote WI",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "Voter Information",
+"href": "https://www.tiffanybraultforwi.com/voter-information"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/tiffanyforwi.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/tiffanyforWI"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tiffanybraultforwi/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/tiffanyforwi"
+}
 ]

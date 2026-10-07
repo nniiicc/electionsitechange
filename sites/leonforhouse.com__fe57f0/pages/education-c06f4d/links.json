@@ -1,12 +1,50 @@
 [
-"http://speakstrategic.com/",
-"https://facebook.com/Leon-Stavrinakis-18211169490?fref=ts",
-"https://leonforhouse.com/",
-"https://leonforhouse.com/action",
-"https://leonforhouse.com/issues",
-"https://leonforhouse.com/meet-leon",
-"https://leonforhouse.com/news",
-"https://leonforhouse.com/survey",
-"https://secure.actblue.com/contribute/page/leonforhouse",
-"https://twitter.com/leonstav"
+{
+"text": "Action",
+"href": "https://www.leonforhouse.com/action"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/contribute/page/leonforhouse"
+},
+{
+"text": "Home",
+"href": "https://www.leonforhouse.com"
+},
+{
+"text": "Issues",
+"href": "https://www.leonforhouse.com/issues"
+},
+{
+"text": "Meet Leon",
+"href": "https://www.leonforhouse.com/meet-leon"
+},
+{
+"text": "News",
+"href": "https://www.leonforhouse.com/news"
+},
+{
+"text": "Site by",
+"href": "http://www.speakstrategic.com"
+},
+{
+"text": "Survey",
+"href": "https://www.leonforhouse.com/survey"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/Leon-Stavrinakis-18211169490/?fref=ts"
+},
+{
+"text": "[image: Twitter Social Icon]",
+"href": "https://twitter.com/leonstav"
+},
+{
+"text": "[image]",
+"href": "http://www.speakstrategic.com"
+},
+{
+"text": "[image]",
+"href": "https://www.leonforhouse.com"
+}
 ]

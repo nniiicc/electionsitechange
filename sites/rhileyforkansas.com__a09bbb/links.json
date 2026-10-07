@@ -1,19 +1,74 @@
 [
-"https://facebook.com/BillRhileyforKansas",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://rhileyforkansas.com/",
-"https://rhileyforkansas.com/about-1",
-"https://rhileyforkansas.com/alec",
-"https://rhileyforkansas.com/contact",
-"https://rhileyforkansas.com/election-questions",
-"https://rhileyforkansas.com/family-policy-issues-%231",
-"https://rhileyforkansas.com/faq",
-"https://rhileyforkansas.com/general-issues",
-"https://rhileyforkansas.com/issues-%231",
-"https://rhileyforkansas.com/issues-%232",
-"https://rhileyforkansas.com/issues-%233",
-"https://rhileyforkansas.com/ks-rep-party-platform",
-"https://rhileyforkansas.com/laws-needing-change",
-"https://rhileyforkansas.com/principals",
-"https://rhileyforkansas.com/quotes"
+{
+"text": "ALEC",
+"href": "https://rhileyforkansas.com/alec"
+},
+{
+"text": "About",
+"href": "https://rhileyforkansas.com/about-1"
+},
+{
+"text": "Contact",
+"href": "https://rhileyforkansas.com/contact"
+},
+{
+"text": "Contact Us",
+"href": "https://rhileyforkansas.com/contact"
+},
+{
+"text": "Election questions",
+"href": "https://rhileyforkansas.com/election-questions"
+},
+{
+"text": "FAQ",
+"href": "https://rhileyforkansas.com/faq"
+},
+{
+"text": "Family Policy Issues #1",
+"href": "https://rhileyforkansas.com/family-policy-issues-%231"
+},
+{
+"text": "General Issues",
+"href": "https://rhileyforkansas.com/general-issues"
+},
+{
+"text": "Home",
+"href": "https://rhileyforkansas.com/"
+},
+{
+"text": "Issues #1",
+"href": "https://rhileyforkansas.com/issues-%231"
+},
+{
+"text": "Issues #2",
+"href": "https://rhileyforkansas.com/issues-%232"
+},
+{
+"text": "Issues #3",
+"href": "https://rhileyforkansas.com/issues-%233"
+},
+{
+"text": "KS Rep. Party Platform",
+"href": "https://rhileyforkansas.com/ks-rep-party-platform"
+},
+{
+"text": "Laws Needing Change",
+"href": "https://rhileyforkansas.com/laws-needing-change"
+},
+{
+"text": "Principals",
+"href": "https://rhileyforkansas.com/principals"
+},
+{
+"text": "Quotes",
+"href": "https://rhileyforkansas.com/quotes"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BillRhileyforKansas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

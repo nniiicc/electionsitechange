@@ -1,14 +1,17 @@
-Commitment
-For too long, career politicians have pledged support for public safety, healthcare, education, and infrastructure—especially during election season.
+0 Skip to Content Joseph B.D.
+Arriola 2026 ABOUT WHY NOW OUR VISION OUR MISSION COMMITMENT OUR GOVERNMENT IS BROKEN FOCUS ON PROGRESS AND REPRESENTATION PLATFORM FOR THE PEOPLE PHOTO GALLERY CONTACT US Open Menu Close Menu Joseph B.D.
+Arriola 2026 ABOUT WHY NOW OUR VISION OUR MISSION COMMITMENT OUR GOVERNMENT IS BROKEN FOCUS ON PROGRESS AND REPRESENTATION PLATFORM FOR THE PEOPLE PHOTO GALLERY CONTACT US Open Menu Close Menu ABOUT WHY NOW OUR VISION OUR MISSION COMMITMENT OUR GOVERNMENT IS BROKEN FOCUS ON PROGRESS AND REPRESENTATION PLATFORM FOR THE PEOPLE PHOTO GALLERY CONTACT US Mariana's Fruit Dove, aka Totot, faces extinction due to habitat loss throughout its range.
+Why is this significant?
+Like the Totot, we are losing our culture, our identity, our traditions.
+We can make a comeback just like this beautiful Totot.
+Commitment For too long, career politicians have pledged support for public safety, healthcare, education, and infrastructure—especially during election season.
 But the truth is, our community still faces serious challenges.
 Rising costs.
 Underfunded schools.
 Crumbling roads.
 Families struggling to make ends meet.
-GUAM DESERVES BETTER
-We need leaders who don’t just talk during campaign season—we need leaders who act, who listen, and who care deeply about the people they serve.
-This election is about choosing candidates who are rooted in our community, not just in politics
-As a veteran, I have served my country in uniform and now will serve my island in office.
+GUAM DESERVES BETTER We need leaders who don’t just talk during campaign season—we need leaders who act, who listen, and who care deeply about the people they serve.
+This election is about choosing candidates who are rooted in our community, not just in politics As a veteran, I have served my country in uniform and now will serve my island in office.
 My military service has instilled in me a deep understanding of the importance of discipline, sacrifice, and unity.
 I have witnessed leadership under pressure and have learned that true strength lies not in rank but in responsibility.
 As a senator, I will carry these lessons into every decision I make.

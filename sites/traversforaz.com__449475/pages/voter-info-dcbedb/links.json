@@ -1,26 +1,102 @@
 [
-"https://elections.maricopa.gov/asset/jcr:31c22f9a-8dbe-4c8e-b14e-2ef42ff39e8f/!AZ%20State%20VR%20form%20fillable%20Dec2025.pdf",
-"https://elections.maricopa.gov/voting/voter-dashboard-login.html",
-"https://elections.maricopa.gov/voting/where-to-vote.html",
-"https://facebook.com/traversforaz",
-"https://recorder.maricopa.gov/beballotready",
-"https://recorder.maricopa.gov/elections/registrationform.aspx",
-"https://secure.actblue.com/donate/traversforaz",
-"https://secure.actblue.com/donate/traversforaz?amount=10",
-"https://secure.actblue.com/donate/traversforaz?amount=100",
-"https://secure.actblue.com/donate/traversforaz?amount=1000",
-"https://secure.actblue.com/donate/traversforaz?amount=25",
-"https://secure.actblue.com/donate/traversforaz?amount=250",
-"https://secure.actblue.com/donate/traversforaz?amount=50",
-"https://secure.actblue.com/donate/traversforaz?amount=500",
-"https://servicearizona.com/VoterRegistration/selectLanguage",
-"https://traversforaz.com/",
-"https://traversforaz.com/endorsements",
-"https://traversforaz.com/gallery",
-"https://traversforaz.com/get-involved",
-"https://traversforaz.com/issues",
-"https://traversforaz.com/meet-stacey",
-"https://traversforaz.com/voter-info",
-"https://traversforaz.com/why-im-running",
-"https://twitter.com/traversforaz?s=11"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/traversforaz?amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/traversforaz?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/traversforaz?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/traversforaz?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/traversforaz?amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/traversforaz?amount=500"
+},
+{
+"text": "$#,#",
+"href": "https://secure.actblue.com/donate/traversforaz?amount=1000"
+},
+{
+"text": "(CLICK HERE)",
+"href": "https://elections.maricopa.gov/asset/jcr:31c22f9a-8dbe-4c8e-b14e-2ef42ff39e8f/!AZ%20State%20VR%20form%20fillable%20Dec2025.pdf"
+},
+{
+"text": "Click Here to see your information",
+"href": "https://recorder.maricopa.gov/beballotready/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/traversforaz"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://traversforaz.com/endorsements"
+},
+{
+"text": "GAllery",
+"href": "https://traversforaz.com/gallery"
+},
+{
+"text": "Get Involved",
+"href": "https://traversforaz.com/get-involved"
+},
+{
+"text": "HERE",
+"href": "https://elections.maricopa.gov/voting/voter-dashboard-login.html"
+},
+{
+"text": "Issues",
+"href": "https://traversforaz.com/issues"
+},
+{
+"text": "Meet Stacey",
+"href": "https://traversforaz.com/meet-stacey"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/traversforaz"
+},
+{
+"text": "Update/Register to Vote WITH a driver's license. Click Here.",
+"href": "https://servicearizona.com/VoterRegistration/selectLanguage"
+},
+{
+"text": "Update/Register to Vote WITHOUT a driver's license. Click Here.",
+"href": "https://recorder.maricopa.gov/elections/registrationform.aspx"
+},
+{
+"text": "Voter Info",
+"href": "https://traversforaz.com/voter-info"
+},
+{
+"text": "Why I'm Running",
+"href": "https://traversforaz.com/why-im-running"
+},
+{
+"text": "[image: Stacey Travers for AZ House]",
+"href": "https://traversforaz.com/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/traversforaz?s=11"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/traversforaz"
+},
+{
+"text": "here",
+"href": "https://elections.maricopa.gov/voting/where-to-vote.html"
+}
 ]

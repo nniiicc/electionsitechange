@@ -1,4 +1,4 @@
-| Today is Wednesday and this morning I awoke from a dream that I was back home in Spencer, NC.
+Home Why I'm Running Issues Two Americas Contact Donate Volunteer #TwoAmericas We live in #TwoAmericas the Extreme Rich and Everybody else who is the #workingclass. wEDNESDAY BEFORE THANKSGIVING 11/25/2020 Today is Wednesday and this morning I awoke from a dream that I was back home in Spencer, NC.
 My late Grandmother, Clelia Eakins Myers, would wake me at 6am to get ready for school at North Rowan High.
 Wednesdays before Thanksgiving would be a half day.
 Because in uptown Spencer the Thanksgiving parade would be marching down main street at noon.
@@ -30,9 +30,11 @@ There will be happiness and sorrow for so many that honestly could have been avo
 We see the numbers spiking.
 North Carolina is #11 on the COVID19 fatality list.
 This ranking is because people are ideologically divided, refusing to wear a mask or accept the recommendations of medical experts.
-Here are the numbers right now: The USA has 12,969,067 cases – you might as well call it 13 million. 266,146 friends, family, loved ones are dead.
+Here are the numbers right now: The USA has 12,969,067 cases – you might as well call it 13 million.
+266,146 friends, family, loved ones are dead.
 Our medical infrastructure is at a breaking point.
-Infections have reached 171,000 a day. 1,500 or more are dying each day.
+Infections have reached 171,000 a day.
+1,500 or more are dying each day.
 My god that’s a death every minute.
 People are not heeding the warnings and are traveling during this COVID19 Turkey Holiday.
 Have a Thanksgiving gathering and you'll have a Covid19 Christmas.
@@ -62,7 +64,11 @@ So far with your support we have provided over 45,000 meals.
 The 2nd Harvest Food Bank in Winston Salem is a wonderful organization.
 I just made a donation of $250.
 It will provide up to 1,750 meals and make an Instant Impact on so many #NC lives.
-Plz click the link right now and help me feed more. https://secure.qgiv.com/event/crvfd/team/871566/ | Posts from before 2025 were written during Scott's campaigns for U.S.
+Plz click the link right now and help me feed more. https://secure.qgiv.com/event/crvfd/team/871566/ Posts from before 2025 were written during Scott's campaigns for U.S.
 Congress and are kept here as part of his public record.
 Author Scott Huffman Concerned Citizen, Small Business Entrepreneur, Veteran, turned Activist who ran for U.S.
-Congress Archives Categories |
+Congress Archives October 2026 September 2026 July 2026 May 2026 April 2026 October 2025 September 2025 June 2025 November 2021 September 2021 August 2021 February 2021 January 2021 November 2020 November 2019 September 2019 August 2019 July 2019 April 2019 March 2019 February 2019 May 2018 April 2016 Categories All RSS Feed × Before you go, can you donate $10?
+Donate $10 Not Now Paid for by Scott Huffman for NC House 76 Follow Scott on @TikTok at HuffmanForNC Use of Scott's military rank, titles, or photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+For inquiries, please contact [email protected] © COPYRIGHT #.
+Scott Huffman.
+ALL RIGHTS RESERVED Home Why I'm Running Issues Two Americas Contact Donate Volunteer Scott Huffman for NC

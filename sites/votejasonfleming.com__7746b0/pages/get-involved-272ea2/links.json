@@ -1,11 +1,46 @@
 [
-"https://facebook.com/",
-"https://instagram.com/",
-"https://linkedin.com/",
-"https://secure.winred.com/jason-fleming-for-district-35/donate-today",
-"https://votejasonfleming.com/",
-"https://votejasonfleming.com/about",
-"https://votejasonfleming.com/contact",
-"https://votejasonfleming.com/get-involved",
-"https://votejasonfleming.com/issues"
+{
+"text": "About",
+"href": "https://votejasonfleming.com/about"
+},
+{
+"text": "Contact",
+"href": "https://votejasonfleming.com/contact"
+},
+{
+"text": "Contribute Now",
+"href": "https://secure.winred.com/jason-fleming-for-district-35/donate-today"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/jason-fleming-for-district-35/donate-today"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/jason-fleming-for-district-35/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com"
+},
+{
+"text": "Get Involved",
+"href": "https://votejasonfleming.com/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com"
+},
+{
+"text": "Issues",
+"href": "https://votejasonfleming.com/issues/"
+},
+{
+"text": "LinkedIn",
+"href": "https://linkedin.com"
+},
+{
+"text": "[image: Vote Jason Fleming]",
+"href": "https://votejasonfleming.com/"
+}
 ]

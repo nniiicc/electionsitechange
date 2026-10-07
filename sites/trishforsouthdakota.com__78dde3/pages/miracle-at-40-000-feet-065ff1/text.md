@@ -1,11 +1,9 @@
-Miracle at 40,000 feet
-It's always best to know who is in control!
-Miracle at 40,000 Feet
-As you may recall from my previous article, I attended the American Legislative Exchange Council (ALEC) conference in Indianapolis, Indiana last week.
+Home Take Action Contribute Volunteer Contact Articles SD Property Tax Reform Legislative Background About Trish Blog Bio On the Issues Privacy Policy Get in touch 555-555-5555 mymail@mailservice.com Miracle at 40,000 feet July 7, 2026 It's always best to know who is in control!
+Miracle at 40,000 Feet As you may recall from my previous article, I attended the American Legislative Exchange Council (ALEC) conference in Indianapolis, Indiana last week.
 The conference was incredible — packed with valuable insights and ideas that I’m excited to bring back to our state and district.
 But as remarkable as the conference was, it couldn’t compare to what happened on my flight home.
 I was on my way from Indianapolis to Denver, where I’d catch my connection to Rapid City.
-About halfway through the flight, I noticed an older woman — likely in her 90s — slowly making her way toward the restroom at the front of the plane, but collapsed just inside the forward cabin.
+About halfway through the flight, I noticed an older woman — likely in her #s — slowly making her way toward the restroom at the front of the plane, but collapsed just inside the forward cabin.
 I heard the snap of a seatbelt behind me as a woman rushed forward to help.
 I later learned she was the elderly woman’s daughter.
 One of the flight attendants did his best to get the woman into a seated position on the floor, then hurried to the back of the plane for assistance.
@@ -20,8 +18,7 @@ The man assisting the elderly woman gently lifted her into his arms — as if sh
 He settled into the seat next to her, cradling her with his left arm for support and holding the IV bag with his right.
 I could see beads of sweat forming on the man’s brow and thought to myself, I wish there was something I could do to help.
 I extended my seatbelt as far as it would go without taking it off, leaned forward, and asked if I could hold the IV bag for him.
-He turned to me and said, “God bless you!”
-My seatmate leaned over and quietly said, “Just like Aaron, holding up Moses’ arms at the Red Sea.” He reached for my hand, and together, we prayed for the elderly woman in front of us, who was drifting in and out of consciousness.
+He turned to me and said, “God bless you!” My seatmate leaned over and quietly said, “Just like Aaron, holding up Moses’ arms at the Red Sea.” He reached for my hand, and together, we prayed for the elderly woman in front of us, who was drifting in and out of consciousness.
 The man beside her kept speaking gently, again and again: “You’re okay.
 We’re almost there.
 I’m not going to leave you.” His voice was steady, calm, reassuring — a lifeline in that moment of uncertainty.
@@ -39,4 +36,4 @@ The woman said she was a nurse — she had originally been scheduled to fly to D
 The gentleman told us he was an EMT who hadn't planned to fly to Denver that day at all — his flight had been redirected.
 There have been times in my life when I’ve realized I was in the middle of a miracle... and this was truly one of those moments.
 Everyone who played a role were on that specific flight, for a specific reason.
-God definitely had a plan!
+God definitely had a plan! < Older Post Newer Post > Privacy Policy Paid for by Trish For South Dakota Share by:

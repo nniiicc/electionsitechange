@@ -1,16 +1,62 @@
 [
-"https://billingsgazette.com/news/local/government-politics/elections/article_ffd222a5-6d09-47bc-9ad1-47ffb44bb832.html",
-"https://facebook.com/people/Hippler-for-Montana-Senate-District-25/61575775461575",
-"https://hipplerformontana.com/",
-"https://hipplerformontana.com/about-me",
-"https://hipplerformontana.com/donate",
-"https://hipplerformontana.com/endorsements",
-"https://hipplerformontana.com/press",
-"https://hipplerformontana.com/press/author/user",
-"https://hipplerformontana.com/press/category/uncategorized",
-"https://hipplerformontana.com/press?query-page=1",
-"https://hipplerformontana.com/priorities",
-"https://instagram.com/hippler4montana",
-"https://linkedin.com/company/hippler-for-montana",
-"https://tiktok.com/@hippler4montana"
+{
+"text": "ABOUT ME",
+"href": "https://www.hipplerformontana.com/about-me/"
+},
+{
+"text": "Back",
+"href": "https://www.hipplerformontana.com/press/?query-page=1"
+},
+{
+"text": "DONATE!",
+"href": "https://www.hipplerformontana.com/donate/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.hipplerformontana.com/endorsements/"
+},
+{
+"text": "HOME",
+"href": "https://www.hipplerformontana.com/"
+},
+{
+"text": "Julie Hippler",
+"href": "https://www.hipplerformontana.com/press/author/user/"
+},
+{
+"text": "PRESS",
+"href": "https://www.hipplerformontana.com/press/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.hipplerformontana.com/priorities/"
+},
+{
+"text": "Uncategorized",
+"href": "https://www.hipplerformontana.com/press/category/uncategorized/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Hippler-for-Montana-Senate-District-25/61575775461575/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/hippler4montana/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/company/hippler-for-montana"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@hippler4montana"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@hipplerformontana.com"
+},
+{
+"text": "https://billingsgazette.com/news/local/government-politics/elections/article_ffd222a5-6d09-47bc-9ad1-47ffb44bb832.html",
+"href": "https://billingsgazette.com/news/local/government-politics/elections/article_ffd222a5-6d09-47bc-9ad1-47ffb44bb832.html"
+}
 ]

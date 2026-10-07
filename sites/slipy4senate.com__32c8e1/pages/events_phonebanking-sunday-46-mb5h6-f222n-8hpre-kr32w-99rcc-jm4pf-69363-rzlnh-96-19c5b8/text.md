@@ -1,11 +1,9 @@
-Back to All Events
-Join us for a virtual phonebank via Zoom from 5:00 to 7:30 PM!
-To sign up, please visit: https://secure.ngpvan.com/P50iVOY8pUe4EW1_fd3v8g2
-You will be emailed meeting details and more information after signing up.
-Previous
-Previous
-April 26
-Grand Rapids Doorknock Saturday 4/26
-Next
-Next
-April 27
+0 Skip to Content Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise Folder: What I'll Fight For Back Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Folder: Get Involved Back Events Join Team Slipy Contact Donate Back to All Events Phonebank Saturday 4/26 Saturday, April 26, 2025 5:00 PM 7:30 PM Google Calendar ICS Join us for a virtual phonebank via Zoom from 5:00 to 7:30 PM!
+To sign up, please visit: https://secure.ngpvan.com/P50iVOY8pUe4EW1_fd3v8g2 You will be emailed meeting details and more information after signing up.
+Posted In: Phonebank Tagged: Phonebank Previous Previous April 26 Grand Rapids Doorknock Saturday 4/26 Next Next April 27 Grand Rapids Doorknock Sunday 4/27 Donate Today Together, We Can Build a Better Future!
+Have a question, idea, or concern?
+I want to hear from you!
+Your input is vital in shaping the future of our community.
+Whether it’s a suggestion, a concern, or a topic you're passionate about, together we can make a real difference.
+Reach out today and be part of the change we need to see!
+Website Designed by Local Artist, Heidi Jeub , From Do-Somthing-Creative Prepared and Paid for by Slipy4Senate Campaign Committee PO Box 254 Brainerd, MN 56401

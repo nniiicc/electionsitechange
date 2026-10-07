@@ -1,16 +1,3 @@
-Showing all 15 results
-- 15oz Black Mug — Rainbow ‘HARRIS’ Design with “The Only Action Is Action” Slogan $14.33
-- Act 4 Harris Senate Ceramic Ornament — Rainbow QR Campaign Holiday Decoration $10.37
-- Campfire Graphic Tee — “Be the FIRE!” Motivational Political Campaign T‑Shirt Price range: $30.60 through $43.22
-- Crewneck Sweatshirt — “How do you VOTE?!” Independent Buffalo with Rainbow Harris Back Print Price range: $62.18 through $72.97
-- Crewneck Sweatshirt — “How Do You Vote?” Independent Buffalo with Harris Rainbow Campaign Design Price range: $62.18 through $72.97
-- Dad Cap — ‘Act Harris’ Campaign Patch Baseball Hat $33.47
-- Denim Jacket — Rainbow ‘HARRIS’ Patch Back Logo Jacket $68.60
-- Denim Jacket — Rainbow ‘HARRIS’ Patch Back Logo Jacket $68.60
-- Harris for Senator New Hampshire Zip Hoodie — Rainbow Campaign Design Price range: $58.70 through $69.08
-- Harris Pride Embroidered Cuffed Beanie $24.65
-- Harris Rainbow Beer Stein Mug — “The Only Action Is Action” Printed Ceramic Stein $33.10
-- Harris Senate Campaign V-Neck Tee — Rainbow Political Support Shirt Price range: $34.32 through $38.07
-- Harris US Senator New Hampshire Trucker Cap — Rainbow Campaign Hat $24.20
-- Hooded Long Sleeve Tee — Rainbow ‘HARRIS’ Back Graphic Price range: $53.67 through $56.82
-- Quarter-Zip Pullover — Rainbow “HARRIS” Logo Price range: $52.07 through $61.58
+Harris 4 Senate Phone: 603-988-4203 About The 9 Solutions The Answers The What The When The Where The Why The How Merch 4 Senate Join 4 Change Vote 4 Change Find Tim 0 Home / Merch 4 Senate Merch 4 Senate Showing all 15 results Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low 15oz Black Mug — Rainbow ‘HARRIS’ Design with “The Only Action Is Action” Slogan $ 14.33 Select options Act 4 Harris Senate Ceramic Ornament — Rainbow QR Campaign Holiday Decoration $ 10.37 Select options Campfire Graphic Tee — “Be the FIRE!” Motivational Political Campaign T‑Shirt $ 30.60 – $ 43.22 Price range: $30.60 through $43.22 Select options Crewneck Sweatshirt — “How do you VOTE?!” Independent Buffalo with Rainbow Harris Back Print $ 62.18 – $ 72.97 Price range: $62.18 through $72.97 Select options Crewneck Sweatshirt — “How Do You Vote?” Independent Buffalo with Harris Rainbow Campaign Design $ 62.18 – $ 72.97 Price range: $62.18 through $72.97 Select options Dad Cap — ‘Act Harris’ Campaign Patch Baseball Hat $ 33.47 Select options Denim Jacket — Rainbow ‘HARRIS’ Patch Back Logo Jacket $ 68.60 Select options Denim Jacket — Rainbow ‘HARRIS’ Patch Back Logo Jacket $ 68.60 Select options Harris for Senator New Hampshire Zip Hoodie — Rainbow Campaign Design $ 58.70 – $ 69.08 Price range: $58.70 through $69.08 Select options Harris Pride Embroidered Cuffed Beanie $ 24.65 Select options Harris Rainbow Beer Stein Mug — “The Only Action Is Action” Printed Ceramic Stein $ 33.10 Select options Harris Senate Campaign V-Neck Tee — Rainbow Political Support Shirt $ 34.32 – $ 38.07 Price range: $34.32 through $38.07 Select options Harris US Senator New Hampshire Trucker Cap — Rainbow Campaign Hat $ 24.20 Select options Hooded Long Sleeve Tee — Rainbow ‘HARRIS’ Back Graphic $ 53.67 – $ 56.82 Price range: $53.67 through $56.82 Select options Quarter-Zip Pullover — Rainbow “HARRIS” Logo $ 52.07 – $ 61.58 Price range: $52.07 through $61.58 Select options Harris 4 Senate Your cart (items: 0) Products in cart Product Details Total Available on backorder Previous price: Discounted price: Save − ＋ Remove item Save Subtotal $0.00 Shipping and discounts calculated at checkout.
+View my cart Go to checkout Your cart is currently empty!
+Start shopping Notifications

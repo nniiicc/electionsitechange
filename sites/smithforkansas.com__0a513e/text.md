@@ -1,21 +1,9 @@
-My philosophy on government is simple: provide the essential services the public demands at an equally fair tax rate to all.
+Skip to content Skip to content Representative Adam Smith Adam.Smith@House.KS.Gov Adam.Smith@House.KS.Gov Open Menu Home Latest News About Contact Close Menu Close Menu Contribute Donate Now State Representative Adam Smith My philosophy on government is simple: provide the essential services the public demands at an equally fair tax rate to all.
 I feel this applies to all levels of government – local, state, and federal.
 It is then a legislator’s primary duty to examine with due diligence that your tax dollars are being spent as efficiently and effectively as possible.
 This will give surety that Kansas is providing the HIGHEST VALUE per dollar to the taxpayers.
-Representative Smith’s Legislative Assignments
-Committees
-Taxation
-Monday-Friday 3:30-5:00
-Water
-Tuesday & Thursday 9:00-10:30
-Legislative Modernization
-Monday & Wednesday 9:00-10:30
-Rules and Journal
-On Call
-Appointments and Elected Positions
-- Chairman, House Taxation Committee
-- State Coordinator, NCSL
-- Delegate, NCSL State and Local Tax Task Force
-- Delegate, NCSL Budgets and Revenue Committee
-- Board Member, Republican House Campaign Committee
-- Executive Vice President, Streamlined Sales Tax Governing Board
+Deep Kansas Roots Adam and his family are 5th generation Kansans and the 3rd generation to own and operate their ranch… Read more… Western Kansas Work Ethic From work boots to business suits, Adam brings the same no-nonsense tenacity to get the job done right… Read more… Politician or Public Servant A politician loves political games, but a public servant serves the people.
+I’m here to work, not play games… Read more… Teamwork Under the Dome We should not allow conflict to drive a division between us to the point nothing gets accomplished….
+Read more… Sometimes We Get It WRONG Adam stands up against bad policy like data centers, using tax dollars for sports stadiums, and more!
+Read more… Latest News Stories Proposed Transmission Line Public Meeting September 29, 2026 Smith Releases Property Tax Relief Plan July 20, 2026 June Water Task Force Meeting June 18, 2026 Challenge for the 120th District Seat June 1, 2026 Representative Smith’s Legislative Assignments Committees Taxation Monday-Friday 3:30-5:00 Water Tuesday & Thursday 9:00-10:30 Legislative Modernization Monday & Wednesday 9:00-10:30 Rules and Journal On Call Appointments and Elected Positions Chairman, House Taxation Committee State Coordinator, NCSL Delegate, NCSL State and Local Tax Task Force Delegate, NCSL Budgets and Revenue Committee Board Member, Republican House Campaign Committee Executive Vice President, Streamlined Sales Tax Governing Board Capitol Office 300 SW 10th Street Topeka, KS 66612 185-N (First Floor, North Wing) 785-296-0715 Copyright © # All Rights Reserved.
+Resources Kansas Legislature Kansas Historical Society Kansas.gov Search Search for:

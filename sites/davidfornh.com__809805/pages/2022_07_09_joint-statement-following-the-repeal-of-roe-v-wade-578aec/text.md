@@ -1,15 +1,13 @@
-July 9, 2022
-On the morning of June 24th, I caught an early morning flight from Portland to D.C. for work.
+Skip to content Home Meet David Priorities News Get Involved Menu Home Meet David Priorities News Get Involved Donate Joint Statement following the repeal of Roe v.
+Wade July 9, 2022 On the morning of June 24th, I caught an early morning flight from Portland to D.C. for work.
 By 9AM, I had settled into my hotel to catch my breath, make a cup of coffee, and prep for a busy day of meetings.
-Only an hour later everything changed—the Supreme Court released its opinion in Dobbs, undoing decades of precedent and putting women’s rights in jeopardy all over our country.
+Only an hour later everything changed—the Supreme Court released its opinion in Dobbs , undoing decades of precedent and putting women’s rights in jeopardy all over our country.
 Finding myself less than two miles from the Supreme Court at this historic moment, I quickly rejiggered my day and walked with a friend to join as protesters began to gather.
 The scene that greeted us was one of shock and dismay—but also unwavering resolve.
 Let’s be clear—women’s rights are in jeopardy here in New Hampshire and we cannot afford complacency.
 Along with my fellow Democratic candidates, I bring that spirit of resolve I saw in D.C. forward as we seek change in Concord.
-I’m proud to join as a co-signer of the joint statement below.
-—D
-Joint Statement
-The decision to override Roe v.
+I’m proud to join as a co-signer of the joint statement below. —D The scene in D.C. heading into the evening of June 24th.
+Joint Statement The decision to override Roe v.
 Wade has led many Granite Staters to wonder what the future of women’s reproductive rights will be in N.H.
 As it currently stands, N.H. law allows abortions up to 24 weeks, and after that only for fatal fetal anomalies and for the protection of the life of mother.
 However, providers who violate the law can be imprisoned for up to seven years and face a fine of up to $100,000.
@@ -44,25 +42,10 @@ We are your slate of Democratic candidates for public office in Carroll County i
 We pledge to work to ensure that a woman’s right to make her own reproductive decisions is not left to a legislative body that has wedged itself into doctor’s offices to take control of life altering decisions for women.
 Your vote and support are the single best way to keep out of office those who want to make these decisions on your behalf.
 State Rep.
-William Marsh, candidate for State Senate, Wolfeboro
-State Rep.
-Anita Burroughs, Glen
-State Rep.
-Jerry Knirk, Freedom
-State Rep.
-Chris McAleer, Jackson
-State Rep.
-Steve Woodcock, Conway
-Bobbi Boudman, candidate for state representative, Wolfeboro
-Carrie Duran, candidate for state representative, Wolfeboro
-Gogi Millner, candidate for state representative, Wolfeboro
-Knute Ogren, candidate for state representative, Effingham
-David Paige, candidate for state representative, Conway
-Patricia Pustell, candidate for state representative, Ossipee
-Sandra Ringelstein, candidate for state representative, Moultonboro
-Peaco Todd, candidate for state representative, Tamworth
-Gabrielle Watson, candidate for state representative, Tamworth
-Adam Heard, candidate for Carroll County commissioner, Sandwich
-Theresa Swanick, candidate for Carroll County commissioner, Effingham
-The Honorable Ed Butler, Chair, Carroll County Democrats, Hart’s Location
-Mayor Dana Hilliard, candidate for Executive Councilor, District 1, Somersworth
+William Marsh, candidate for State Senate, Wolfeboro State Rep.
+Anita Burroughs, Glen State Rep.
+Jerry Knirk, Freedom State Rep.
+Chris McAleer, Jackson State Rep.
+Steve Woodcock, Conway Bobbi Boudman, candidate for state representative, Wolfeboro Carrie Duran, candidate for state representative, Wolfeboro Gogi Millner, candidate for state representative, Wolfeboro Knute Ogren, candidate for state representative, Effingham David Paige, candidate for state representative, Conway Patricia Pustell, candidate for state representative, Ossipee Sandra Ringelstein, candidate for state representative, Moultonboro Peaco Todd, candidate for state representative, Tamworth Gabrielle Watson, candidate for state representative, Tamworth Adam Heard, candidate for Carroll County commissioner, Sandwich Theresa Swanick, candidate for Carroll County commissioner, Effingham The Honorable Ed Butler, Chair, Carroll County Democrats, Hart’s Location Mayor Dana Hilliard, candidate for Executive Councilor, District 1, Somersworth Volunteer Sign-Up Donate Paid for by David Paige for New Hampshire.
+David Paige, Fiscal Agent.
+1230 W Side Rd, N Conway, NH 03860.

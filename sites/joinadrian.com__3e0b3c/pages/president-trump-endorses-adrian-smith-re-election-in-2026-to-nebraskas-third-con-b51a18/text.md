@@ -1,19 +1,17 @@
-FOR IMMEDIATE RELEASE
-SCOTTSBLUFF, NE – In a Truth Social post on Monday, President Donald J.
-Trump endorsed Congressman Adrian Smith for re-election in 2026 saying in part, “Adrian Smith has my Complete and Total Endorsement for Re-Election – HE WILL NEVER LET YOU DOWN!”
-In response, Congressman Smith said:
-“Thank you, Mr.
+Skip to content Phone 308-220-3211 | committee@joinadrian.com Facebook DONATE TODAY!
+Search for: Home About Issues Media News Photos Donate Volunteer Contact Search for: Home About Issues Media News Photos Donate Volunteer Contact Home About Issues Media News Photos Donate Volunteer Contact President Trump endorses Adrian Smith re-election in 2026 to Nebraska’s Third Congressional District Previous Next President Trump endorses Adrian Smith re-election in 2026 to Nebraska’s Third Congressional District FOR IMMEDIATE RELEASE SCOTTSBLUFF, NE – In a Truth Social post on Monday, President Donald J.
+Trump endorsed Congressman Adrian Smith for re-election in 2026 saying in part, “Adrian Smith has my Complete and Total Endorsement for Re-Election – HE WILL NEVER LET YOU DOWN!” In response, Congressman Smith said: “Thank you, Mr.
 President!
 It’s been an honor to work alongside you this year to deliver for the American people through the Working Family Tax Cuts — the One Big Beautiful Bill.
 Your leadership made this possible.
-This historic legislation not only stops massive tax hikes but expands tax relief for family farms, small businesses, and hardworking middle-class Americans.”
-“Because of your vision, we’re also strengthening vital Farm Bill programs, securing our border, empowering parents with real educational choice, supporting our biofuels producers, and keeping energy affordable for families across the heartland.
-I’m proud to represent Nebraska’s Big Third Congressional District — and even prouder to stand with President Trump as we fight for Nebraska families, freedom, and the future of our great nation!”
-The full Truth Social post from President Trump (in italics):
-Congressman Adrian Smith is a Tremendous Champion for Nebraska’s 3rd Congressional District!
+This historic legislation not only stops massive tax hikes but expands tax relief for family farms, small businesses, and hardworking middle-class Americans.” “Because of your vision, we’re also strengthening vital Farm Bill programs, securing our border, empowering parents with real educational choice, supporting our biofuels producers, and keeping energy affordable for families across the heartland.
+I’m proud to represent Nebraska’s Big Third Congressional District — and even prouder to stand with President Trump as we fight for Nebraska families, freedom, and the future of our great nation!” The full Truth Social post from President Trump (in italics): Congressman Adrian Smith is a Tremendous Champion for Nebraska’s 3rd Congressional District!
 As a Member of the POWERFUL Ways & Means Committee, Adrian knows the America First Policies required to Promote our Amazing Farmers and Ranchers, Create GREAT Jobs, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, and Champion our Nation’s Golden Age.
 He is also fighting tirelessly to Keep our now very Secure Border, SECURE, Stop Migrant Crime, Strengthen our Brave Military/Veterans, and Defend our always under siege Second Amendment.
 Adrian Smith has my Complete and Total Endorsement for Re-Election – HE WILL NEVER LET YOU DOWN!
 Congressman Smith currently serves on the House Ways and Means Committee, and is the Chairman of the Subcommittee on Trade.
 The Third District covers 80 of Nebraska’s 93 counties.
 Congressman Smith and his wife Andrea, along with their two children, reside in Gering.
+Adrian Smith for Congress 2026-01-16T21:26:00-06:00 November 4th, 2025 | Press Release | Share This Story, Choose Your Platform!
+Facebook X Reddit LinkedIn Tumblr Pinterest Email 1126 Avenue A, #6 Scottsbluff, NE 69361 Phone: 308-220-3211 Fax: 308-635-7412 Email: committee@joinadrian.com Web: http://joinadrian.com Recent News Congressman Smith welcomes President Trump to Grand Island October 5, 2026 We’ve delivered results, and we’ll keep working until the job is done!
+May 8, 2026 “Ranchers for Adrian” joins growing list of Endorsements for Proven Conservative Nebraska Congressman Adrian Smith May 8, 2026 Adrian Smith Files for Re-election to Defend Conservative Leadership and Advance President Trump’s Agenda January 16, 2026 President Trump endorses Adrian Smith re-election in 2026 to Nebraska’s Third Congressional District November 4, 2025 Follow Adrian on Facebook Paid for by Adrian Smith for Congress | All Rights Reserved Facebook Page load link Go to Top

@@ -1,11 +1,42 @@
 [
-"http://eepurl.com/47AghGjWaN",
-"https://bsky.app/profile/rich4sc.bsky.social",
-"https://facebook.com/Rich4SC",
-"https://instagram.com/rich4sc",
-"https://rich4sc.org/",
-"https://rich4sc.org/about",
-"https://rich4sc.org/blog",
-"https://rich4sc.org/events",
-"https://secure.actblue.com/donate/rich4sc"
+{
+"text": "About",
+"href": "https://rich4sc.org/about/"
+},
+{
+"text": "Blog",
+"href": "https://rich4sc.org/blog/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/rich4sc.bsky.social"
+},
+{
+"text": "Events",
+"href": "https://rich4sc.org/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Rich4SC/"
+},
+{
+"text": "Home",
+"href": "https://rich4sc.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rich4sc/"
+},
+{
+"text": "Rich4SC at ActBlue [image]",
+"href": "https://secure.actblue.com/donate/rich4sc"
+},
+{
+"text": "[image: Intuit Mailchimp]",
+"href": "http://eepurl.com/47AghGjWaN"
+},
+{
+"text": "[image]",
+"href": "https://rich4sc.org/"
+}
 ]

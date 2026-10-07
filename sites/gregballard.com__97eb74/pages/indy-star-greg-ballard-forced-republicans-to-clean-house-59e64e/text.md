@@ -1,14 +1,12 @@
-By Rob Kendall
-After Secretary of State Diego Morales suffered an embarrassing defeat at the Indiana Republican Party state convention on June 20, someone sent a text thanking me for getting rid of him.
+About Meet Greg Ballard Podcast Meet Greg News & Updates Greg’s Plan Voters Guide Indiana Election Integrity Act Hands-on Clerk Training Nonpartisan Recount Commission Support Donate Get a Yard Sign Buy a Shirt Volunteer CONTRIBUTE Meet Greg Ballard Greg’s Plan Voter’s Guide Indiana Election Integrity Act Hands-on Clerk Training Nonpartisan Recount Commission News and Updates Support Donate Get a Yard Sign Buy a Shirt Volunteer Subscribe Contribute Jun 30, 2026 INDY STAR: Greg Ballard forced Republicans to clean house By Rob Kendall After Secretary of State Diego Morales suffered an embarrassing defeat at the Indiana Republican Party state convention on June 20, someone sent a text thanking me for getting rid of him.
 I was quick to accept.
 After all, I had spent the better part of four years raising red flags about Indiana’s highly unethical secretary of state.
 From a mysterious trip to India funded by an unknown individual, to massive no-bid contracts to campaign megadonors, to the alleged use of state resources to film a campaign commercial, the brazen corruption of Morales knew no bounds.
 Then, after a quick victory lap, I realized I did not get rid of Morales.
 After years of begging and pleading with Republicans to do something about Morales, he was not only still in the office, but likely headed toward re-nomination as of May.
-Greg Ballard’s entry caused Republicans to finally act
-Something changed.
+Greg Ballard’s entry caused Republicans to finally act Something changed.
 The answer was the surging campaign of former Indianapolis Mayor Greg Ballard.
-Ballard announced his attempt to secure a spot on the ballot as an independent candidate in March.
+Ballard announced his attempt to secure a spot on the ballot as an independent candidate in March .
 Republicans initially laughed off his longshot candidacy, given the requirement to obtain nearly 37,000 verified signatures for ballot access.
 Then they watched Ballard’s impressive campaign finance report and operation take hold.
 It became abundantly clear Ballard was here to stay.
@@ -30,23 +28,20 @@ A safe harbor.
 He represented an opportunity for those people to express their dissatisfaction with not only Morales, but a party that willfully refused to attempt to stop him.
 People could easily vote for Ballard.
 That math was scary.
-I wrote last month there was a very real world in which Bayh could end up winning the election with less than 45% of the vote.
-Ballard’s success could hobble Republicans for years
-Ballard also represents something more frightening: A third party with primary ballot access the next four years.
+I wrote last month there was a very real world in which Bayh could end up winning the election with less than 45% of the vote .
+Ballard’s success could hobble Republicans for years Ballard also represents something more frightening: A third party with primary ballot access the next four years.
 In Indiana, any political party (including Ballard’s new Lincoln Party) that gets 10% in the secretary of state’s race gets primary ballot access.
 Currently, only Republicans and Democrats have access.
 Libertarians gained general election ballot access after acquiring the required 2%.
 Primary ballot access, though, means millions of dollars annually in taxpayer-subsidized advertising.
 That is the exact shot in the arm a new party would need to be competitive in races up and down the ballot.
-“People are telling us on the back end of this, this is an easy signature to get,” Ballard told me June 23 on my Rob Kendall Show podcast, where he announced the campaign had acquired more than 64,000.
+“People are telling us on the back end of this, this is an easy signature to get,” Ballard told me June 23 on my Rob Kendall Show podcast , where he announced the campaign had acquired more than 64,000.
 “I’m not doing this just for myself.
-I’m doing this for the people of Indiana.”
-Ballard’s campaign could prove massively successful even if he is not victorious.
+I’m doing this for the people of Indiana.” Ballard’s campaign could prove massively successful even if he is not victorious.
 Anything over 10% by Ballard would give his new party complete legitimacy in every race across Indiana and could lead to Bayh taking the office from Republicans.
 Bayh serves as a massive risk to the GOP because of his pledge to produce an independent audit of the last four years.
 That audit could not only expose Morales on a host of issues, both known and unknown, but also Republican politicians and donors.
-Republicans turn to unvetted Max Engling in panic
-Replacing Morales put Republicans in a pickle.
+Republicans turn to unvetted Max Engling in panic Replacing Morales put Republicans in a pickle.
 They needed a candidate who could both win and be counted on to not expose the dirty deeds of Morales.
 Highly qualified Knox County Clerk David Shelton was already Morales’ opponent.
 In my interview with Ballard, he indicated the quiet, competent Shelton would have posed the most problems for his campaign.
@@ -65,8 +60,7 @@ A consultant with ties to Morales also claimed in a mass text to delegates that 
 When I asked Elliott, an Engling supporter, on my show if he knew about the criminal charges, he admitted he did not.
 “I will just say this.
 When I was a young man I ran faster,” Elliott said in Engling’s defense.
-“Not everyone knows everything about everyone.”
-That's not exactly a ringing endorsement for the scrutiny behind the pick from one of our state’s top officials.
+“Not everyone knows everything about everyone.” That's not exactly a ringing endorsement for the scrutiny behind the pick from one of our state’s top officials.
 It is clear the Republican power structure was in a panic.
 They had to find someone they thought could beat Bayh, but also who could be counted on to not expose Morales' dirt.
 Engling’s reliability with McCarthy and Banks made him feel safe.
@@ -80,4 +74,4 @@ Today, we celebrate the victory that was Morales’ defeat.
 Ballard’s entry into the race made Republicans dump Morales.
 That is already an incredible service to our state.
 For that, we all owe him a giant thanks.
-This column originally appeared in the Indy Star
+This column originally appeared in the Indy Star ABOUT Volunteer Donate info@gregballard.com Follow Follow Follow Follow PAID FOR BY GREG FOR INDIANA Use of military rank, job titles and photographs in uniform does not imply endorsement by the United States Marine Corps or the Department of Defense.

@@ -1,4 +1,4 @@
-Let’s create something meaningful together.
+0 Skip to Content AuCoin for House District 55 Home About Priorities Making Change Community Endorsements Contact Donate Open Menu Close Menu AuCoin for House District 55 Home About Priorities Making Change Community Endorsements Contact Donate Open Menu Close Menu Home About Priorities Making Change Community Endorsements Contact Donate Let’s create something meaningful together.
 Real change starts with conversations.
 I am running to represent YOU.
 That means that I want to know what residents of Manchester, West Gardiner and Hallowell care about the most.
@@ -17,3 +17,4 @@ Hallowell is fortunate to have a number of folks that also show up wherever ther
 A huge thank you to the staff, volunteers and organizations that made life a little better for some elders in Hallowell.
 It was an honor to celebrate America 250 on July 4th in Hallowell by reading the Declaration of Independence to a crowded City Hall auditorium.
 As cities and towns across Maine celebrate this important milestone, we honor the words that still resonate today as we continue to pursue independence, equality and freedom for all.
+AuCoin for House District 55 (207) 446-3479 aucoinforhouse55@gmail.com Paid for and authorized by the candidate

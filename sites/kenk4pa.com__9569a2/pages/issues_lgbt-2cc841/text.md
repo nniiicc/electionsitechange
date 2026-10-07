@@ -1,13 +1,9 @@
-On The Issues
-LGBT
-In Brief
-You have the God-given, inalienable right to live your life your way, without government interference, provided that you respect the rights and property of others.
-It’s none of the government’s business what goes on between consenting adults.
-All must be equal in the eyes of the law.
+Home Events Press Releases Issues Education Taxes Elections Abortion Crime Gun Control Drugs Welfare LGBT Environment Constitution Shutdowns Flock Cameras Data Centers Responses to Facebook Questions Volunteer Donate Campaign Songs Socials   Select Page On The Issues LGBT In Brief 9 You have the God-given, inalienable right to live your life your way, without government interference, provided that you respect the rights and property of others.
+9 It’s none of the government’s business what goes on between consenting adults.
+9 All must be equal in the eyes of the law.
 No special benefits, no special handicaps, no special treatment.
-What’s good for the goose and gander is good for the goose and goose, and the gander and gander.
-In Depth
-The Libertarian Party is different from the two old parties in that we are the party of principle.
+9 What’s good for the goose and gander is good for the goose and goose, and the gander and gander.
+In Depth The Libertarian Party is different from the two old parties in that we are the party of principle.
 Every law we support, every law we oppose, can all be traced to one central principle: that your life is yours, your property is yours, that you have the God-given, inalienable right to live your life your way, without government interference, provided that you respect the rights and property of others.
 That said, it’s obvious how I stand on gay issues: your life is yours to live your way.
 Period.
@@ -26,3 +22,4 @@ Instead, I pay people more than the average wage and allow them to buy insurance
 The government should not interfere in any private affairs.
 It’s none of the government’s business what goes on between consenting adults.
 The best way to ensure that private affairs remain private is to vote Libertarian.
+Home Events Press Releases Issues Volunteer Donate Campaign Songs Socials Facebook X RSS Designed by Elegant Themes | Powered by WordPress

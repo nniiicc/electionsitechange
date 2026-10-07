@@ -1,9 +1,10 @@
-Stephanie M.
-Vargas
-for Congress
-June 2, 2026
-Ephesians 6:10-20
-Put on the Full Armor of God that you may be able to Stand
-10 Finally, my brethren, be strong in the Lord and in the power of His might. 11 Put on the whole armor of God, that you may be able to stand against the wiles of the devil. 12 For we do not wrestle against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this age, against spiritual hosts of wickedness in the heavenly places. 13 Therefore take up the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand.
-14 Stand therefore, having girded your waist with truth, having put on the breastplate of righteousness, 15 and having shod your feet with the preparation of the gospel of peace; 16 above all, taking the shield of faith with which you will be able to quench all the fiery darts of the wicked one. 17 And take the helmet of salvation, and the sword of the Spirit, which is the word of God;
-18 praying always with all prayer and supplication in the Spirit, being watchful to this end with all perseverance and supplication for all the saints— 19 and for me, that utterance may be given to me, that I may open my mouth boldly to make known the mystery of the gospel, 20 for which I am an ambassador in chains; that in it I may speak boldly, as I ought to speak.
+top of page Stephanie M.
+Vargas for Congress June 2, 2026 Home Endorsements Platform Meet Stephanie Donate Get Involved Simple Politics Election Integrity Parental Rights High Gas Prices Ephesians 6:10-20 News Blog More Use tab to navigate through the menu items.
+DONATE Click Here to Register to Vote Click Here to Report Voter Fraud Ephesians 6:10-20 Put on the Full Armor of God that you may be able to Stand ​ 10 Finally, my brethren, be strong in the Lord and in the power of His might.
+11 Put on the whole armor of God, that you may be able to stand against the wiles of the devil.
+12 For we do not wrestle against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this age, against spiritual hosts of wickedness in the heavenly places.
+13 Therefore take up the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand. ​ 14 Stand therefore , having girded your waist with truth, having put on the breastplate of righteousness, 15 and having shod your feet with the preparation of the gospel of peace; 16 above all, taking the shield of faith with which you will be able to quench all the fiery darts of the wicked one.
+17 And take the helmet of salvation, and the sword of the Spirit, which is the word of God; 18 praying always with all prayer and supplication in the Spirit, being watchful to this end with all perseverance and supplication for all the saints— 19 and for me, that utterance may be given to me, that I may open my mouth boldly to make known the mystery of the gospel, 20 for which I am an ambassador in chains; that in it I may speak boldly, as I ought to speak.
+Home Endorsements Platform Meet Stephanie Donate Get Involved Simple Politics Election Integrity Parental Rights High Gas Prices Ephesians 6:10-20 News Blog More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Paid for by Friends of Stephanie Vargas Terms & Conditions Privacy Policy Accessibility Statement © # by Stephanie M.
+Vargas, Powered and secured by Wix bottom of page

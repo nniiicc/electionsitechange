@@ -1,21 +1,82 @@
 [
-"https://bsky.app/profile/donnaforcongress.bsky.social",
-"https://docs.google.com/forms/d/e/1FAIpQLSdH3WAfQJXKRMTfVX0q750SCudhvyaoxVJIk8M5ejj6K3AVLw/viewform",
-"https://donnaforcongress.com/",
-"https://donnaforcongress.com/cart",
-"https://donnaforcongress.com/contact",
-"https://donnaforcongress.com/district-map",
-"https://donnaforcongress.com/endorsements",
-"https://donnaforcongress.com/in-the-news",
-"https://donnaforcongress.com/media-center",
-"https://donnaforcongress.com/meet-donna",
-"https://donnaforcongress.com/news_stories/miller-opens-campaign-headquarters-in-flossmoor",
-"https://donnaforcongress.com/news_stories/naacp-chicago-far-south-suburban-branch-kicks-off-youth-civic-engagement-program",
-"https://donnaforcongress.com/news_stories?author=6a15bd928957615f7e18cae8",
-"https://donnaforcongress.com/priorities",
-"https://elections.il.gov/VotingAndRegistrationSystems/EarlyVotingLocationsSearch.aspx",
-"https://facebook.com/donnamillerforcongress",
-"https://instagram.com/donnaforcongress",
-"https://secure.actblue.com/donate/godonnago2congress",
-"https://x.com/Donna4Congress"
+{
+"text": "0",
+"href": "https://donnaforcongress.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://donnaforcongress.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://donnaforcongress.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/godonnago2congress"
+},
+{
+"text": "Endorsements",
+"href": "https://donnaforcongress.com/endorsements"
+},
+{
+"text": "Guest User",
+"href": "https://donnaforcongress.com/news_stories?author=6a15bd928957615f7e18cae8"
+},
+{
+"text": "In the News",
+"href": "https://donnaforcongress.com/in-the-news"
+},
+{
+"text": "Media Center",
+"href": "https://donnaforcongress.com/media-center"
+},
+{
+"text": "Meet Donna",
+"href": "https://donnaforcongress.com/meet-donna"
+},
+{
+"text": "Next Next NAACP Chicago Far South Suburban branch kicks off youth civic engagement program",
+"href": "https://donnaforcongress.com/news_stories/naacp-chicago-far-south-suburban-branch-kicks-off-youth-civic-engagement-program"
+},
+{
+"text": "Previous Previous Miller opens campaign headquarters in Flossmoor",
+"href": "https://donnaforcongress.com/news_stories/miller-opens-campaign-headquarters-in-flossmoor"
+},
+{
+"text": "Priorities",
+"href": "https://donnaforcongress.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdH3WAfQJXKRMTfVX0q750SCudhvyaoxVJIk8M5ejj6K3AVLw/viewform"
+},
+{
+"text": "Vote",
+"href": "https://www.elections.il.gov/VotingAndRegistrationSystems/EarlyVotingLocationsSearch.aspx"
+},
+{
+"text": "[image: Donna Miller for Congress]",
+"href": "https://donnaforcongress.com/"
+},
+{
+"text": "[image] Guest User",
+"href": "https://donnaforcongress.com/news_stories?author=6a15bd928957615f7e18cae8"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/donnaforcongress.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/donnamillerforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/donnaforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Donna4Congress"
+}
 ]

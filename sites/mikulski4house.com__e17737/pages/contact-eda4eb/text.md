@@ -1,2 +1,2 @@
-Submit an Inquiry
-Kindly complete the brief inquiry form to find out how you can join me to restore Minnesota back to the life it once was, and can be again.
+0 Skip to Content Home Donate Gallery Contact Open Menu Close Menu Home Donate Gallery Contact Open Menu Close Menu Home Donate Gallery Contact Submit an Inquiry Kindly complete the brief inquiry form to find out how you can join me to restore Minnesota back to the life it once was, and can be again.
+Mikulski for Minnesota House District 53B PO Box 2012 Inver Grove Heights MN 55076 612-282-6054 Paid for by Mikulski 4 MN House mikulski@mikulski4house.com

@@ -1,7 +1,11 @@
+Endorsements Issues Voting Information Donate Donate Home Endorsements Issues Voting Information Roarx gets Results!
+Fighting for you, not an ideology.
+In her first legislative session, Rachel worked across the political aisle as the Primary Co-Sponsor of HB 191 pertaining to vacancies of Louisville Metro Councilmembers.
+The bill requires an election rather than an appointment to fill the vacancies.
 Roarx gets Results!
 Fighting for you, not an ideology.
-Meet Rachel
-Rachel lives in the Parkwood Neighborhood with her husband Derrick Davis.
+Volunteer with Rachel Interested in volunteering?
+Sign up here Meet Rachel Rachel lives in the Parkwood Neighborhood with her husband Derrick Davis.
 They have been lifelong Southend residents and are high school sweethearts.
 Rachel was elected State Representative for Kentucky House District 38 in November 2022 and began her service in January 2023.
 Rachel ran for office because she is a strong voice for labor, first responders, healthcare, safety, infrastructure, and the Southend.
@@ -16,3 +20,4 @@ In her free time, she serves as the nonprofit Immediate Past Board President of 
 Rachel strives to listen to all residents of the 38th House District by going door-to-door to earn your support!
 Rachel has a proven track record for fostering bi-partisan support in Frankfort and being responsive to constituents.
 Re-elect Rachel Roarx by voting on November 5, 2024.
+Paid for by Committee to Elect Rachel Roarx Powered by Impact Kentucky

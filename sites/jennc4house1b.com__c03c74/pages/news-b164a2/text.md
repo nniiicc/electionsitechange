@@ -1,5 +1,4 @@
-news & press
-Latest Campaign Developments
-So much is happening right now.
+Skip navigation menu Home About Issues News Endorsements Events Volunteer Contact Donate Home About Issues News Endorsements Events Volunteer Contact Donate news & press Latest Campaign Developments So much is happening right now.
 Stay connected with campaign updates, community conversations, media coverage, announcements, and important issues impacting District 1B.
 This page will include updates from the campaign trail, local events, policy discussions, and ways we’re working to keep community voices at the center of this campaign.
+NEWS ARTICLE Jennifer Compeau announces candidacy for Minnesota House of Representatives in District 1B Read more May 11 2026 Contact: jennc4house1b@gmail.com Powered by RUN! website builder Prepared and paid for by the Jennifer Compeau for MN House 1B Committee P.O Box 49, East Grand Forks MN 56721 You need to enable JavaScript to run this app.

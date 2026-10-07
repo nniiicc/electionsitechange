@@ -1,5 +1,4 @@
-MEET SUE SHINK
-Sue Shink is a community advocate, public servant, and mother who has dedicated her adult life to building healthier, more resilient communities.
+0 Skip to Content Meet Sue Shink Priorities Endorsements Get Involved CONTRIBUTE Open Menu Close Menu Meet Sue Shink Priorities Endorsements Get Involved CONTRIBUTE Open Menu Close Menu Meet Sue Shink Priorities Endorsements Get Involved CONTRIBUTE MEET SUE SHINK Sue Shink is a community advocate, public servant, and mother who has dedicated her adult life to building healthier, more resilient communities.
 Hailing from a proud union family, Sue learned the importance of community, service above self, and treating others with respect growing up in Southeastern Michigan.
 Her father, a civil engineer who grew up in poverty, and her mother, a longtime teacher, balanced the demands of raising four kids and worked hard to build a middle-class life for their bustling family.
 Sue started babysitting and lifeguarding in high school, working hard both in and out of the classroom to pitch in any way she could at home.
@@ -19,3 +18,4 @@ Their family spent many hours at 4-H and sports and now enjoys biking the commun
 Elected in 2022, Sue is serving in the State Senate in the new 14th District to help every Michigan family, worker, professional, senior, small business, and child get a fair shot to get ahead.
 She believes that government’s role is to serve the people with skill, honesty and integrity.
 From economic opportunity to public education to mental health to water quality to sustainable development, Sue has the drive, experience, and forward-focused vision needed to bridge the divides between neighbors, build pathways to opportunity, and be a relentless, solutions-oriented voice for the people of our communities.
+DONATE Paid for by Vote Sue Shink PO Box 185 Dexter, MI 48130 Learn More Meet Sue Priorities Get Involved Follow Facebook Twitter Instagram

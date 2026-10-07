@@ -1,6 +1,4 @@
-about
-Lynne Russo
-I was in my condo on a mountain in Western North Carolina the night Hurricane Helene hit.
+0 Skip to Content Home Priorities Cost of Living Plan Rebuild WNC Activities & Events Meet Lynne About Values Get Involved Volunteer Newsletter Host a Coffee Talk Host an Event Voter Registration News Donate Open Menu Close Menu Home Priorities Cost of Living Plan Rebuild WNC Activities & Events Meet Lynne About Values Get Involved Volunteer Newsletter Host a Coffee Talk Host an Event Voter Registration News Donate Open Menu Close Menu Home Priorities Cost of Living Plan Rebuild WNC Activities & Events Folder: Meet Lynne Back About Values Folder: Get Involved Back Volunteer Newsletter Host a Coffee Talk Host an Event Voter Registration News Donate about Lynne Russo I was in my condo on a mountain in Western North Carolina the night Hurricane Helene hit.
 Like everyone else, I didn't fully understand what was coming.
 When the storm passed, I stepped outside and saw trees down everywhere.
 Roads were blocked.
@@ -55,10 +53,4 @@ Not just promises, but results people can actually feel.
 It means fighting for affordable healthcare, strong public schools, and protecting the things that hold this region together, our farmers, our rural hospitals, and our nursing homes.
 And it means making sure no child in this state goes hungry.
 I'm ready to do that work.
-And that’s exactly what Lynne will do:
-Fight for real Hurricane Helene recovery — not just promises, but results people can fee
-Fight for affordable healthcare
-Fight to make sure no child in this state goes hungry
-Fight for farmers, rural hospitals, and our struggling nursing homes
-Fight for strong public schools
-Fight for a better future through meaningful investments in public education
+And that’s exactly what Lynne will do: Fight for real Hurricane Helene recovery — not just promises, but results people can fee Fight for affordable healthcare Fight to make sure no child in this state goes hungry Fight for farmers, rural hospitals, and our struggling nursing homes Fight for strong public schools Fight for a better future through meaningful investments in public education DONATE DONATE VOLUNTEER contact@lynnerussofornc.com Friends of Lynne Russo | PO Box 92, Horse Shoe, NC 28742 PRIVACY POLICY Paid for by Friends of Lynne Russo

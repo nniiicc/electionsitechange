@@ -1,17 +1,58 @@
 [
-"https://adamneylon.com/",
-"https://adamneylon.com/contact",
-"https://adamneylon.com/contribute",
-"https://adamneylon.com/home",
-"https://adamneylon.com/issues",
-"https://adamneylon.com/meet_adam",
-"https://adamneylon.com/news",
-"https://adamneylon.com/photos",
-"https://adamneylon.com/volunteer",
-"https://adamneylon.com/vote",
-"https://adamneylon.com/yard-sign",
-"https://campaignpartner.com/",
-"https://myvote.wi.gov/en-us/Find-My-Polling-Place",
-"https://myvote.wi.gov/en-us/Register-To-Vote",
-"https://myvote.wi.gov/en-us/Vote-Absentee-By-Mail"
+{
+"text": "Contact",
+"href": "https://www.adamneylon.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.adamneylon.com/contribute"
+},
+{
+"text": "FIND YOUR POLLING PLACE",
+"href": "https://myvote.wi.gov/en-us/Find-My-Polling-Place"
+},
+{
+"text": "Home",
+"href": "https://www.adamneylon.com/home"
+},
+{
+"text": "Meet Adam",
+"href": "https://www.adamneylon.com/meet_adam"
+},
+{
+"text": "News",
+"href": "https://www.adamneylon.com/news"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Register to Vote",
+"href": "https://myvote.wi.gov/en-us/Register-To-Vote"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://myvote.wi.gov/en-us/Vote-Absentee-By-Mail"
+},
+{
+"text": "The Plan",
+"href": "https://www.adamneylon.com/theplan"
+},
+{
+"text": "Volunteer",
+"href": "https://www.adamneylon.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.adamneylon.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.adamneylon.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://www.adamneylon.com/"
+}
 ]

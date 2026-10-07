@@ -1,17 +1,70 @@
 [
-"http://billmccaskill.com/",
-"https://billmccaskill.com/",
-"https://billmccaskill.com/2930-2",
-"https://billmccaskill.com/category/info",
-"https://billmccaskill.com/donate",
-"https://billmccaskill.com/imunify-bot-check",
-"https://billmccaskill.com/meet-bill",
-"https://billmccaskill.com/priorities",
-"https://billmccaskill.com/register-to-vote",
-"https://billmccaskill.com/volunteer-with-bills-campaign",
-"https://facebook.com/BillMcCaskillforNCHouse",
-"https://follow.it/now",
-"https://secure.actblue.com/donate/william-mccaskill-1",
-"https://themeisle.com/",
-"https://youtube.com/@BillMcCaskillForNCHouse70"
+{
+"text": "Contact",
+"href": "http://billmccaskill.com/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/william-mccaskill-1"
+},
+{
+"text": "Donate",
+"href": "https://billmccaskill.com/donate"
+},
+{
+"text": "Experience, Integrity, Commitment",
+"href": "https://billmccaskill.com/meet-bill/"
+},
+{
+"text": "Info",
+"href": "https://billmccaskill.com/category/info/"
+},
+{
+"text": "Putting NC First",
+"href": "https://billmccaskill.com/priorities/"
+},
+{
+"text": "Read more",
+"href": "https://billmccaskill.com/2930-2/"
+},
+{
+"text": "Read more",
+"href": "https://billmccaskill.com/register-to-vote/"
+},
+{
+"text": "Register to Vote",
+"href": "https://billmccaskill.com/register-to-vote/"
+},
+{
+"text": "ThemeIsle",
+"href": "https://themeisle.com"
+},
+{
+"text": "Volunteer",
+"href": "https://billmccaskill.com/volunteer-with-bills-campaign/"
+},
+{
+"text": "Where is District 70?",
+"href": "https://billmccaskill.com/2930-2/"
+},
+{
+"text": "[image: Elect Bill McCaskill to NC House District 70]",
+"href": "https://billmccaskill.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BillMcCaskillforNCHouse"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@BillMcCaskillForNCHouse70"
+},
+{
+"text": "[image]",
+"href": "https://follow.it/now"
+},
+{
+"text": "imunify-bot-check",
+"href": "https://billmccaskill.com/imunify-bot-check"
+}
 ]

@@ -1,7 +1,9 @@
 {
- "description": "Address: Post Office Box 1113Anniston, AL 36202 Phone: 256-235-2180 Name(Required) First Last Email(Required) How Can We Help You?(Required) \u0394",
+ "description": "Address: Post Office Box 1113Anniston, AL 36202 Phone: 256-235-2180 Name(Required) First Last Email(Required) How Can We Help You?(Required) Δ",
  "final_url": "https://www.mikerogersforcongress.com/contact/",
- "paid_for_by": null,
+ "fingerprint": "49e5e18bd5577c8f5622c02712ca2f467a56118f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact - Mike Rogers For Congress",
  "years_mentioned": []
 }

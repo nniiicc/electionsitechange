@@ -1,30 +1,134 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/VoteRonEller",
-"https://instagram.com/voteroneller",
-"https://linkedin.com/in/ron-eller-912008116",
-"https://threads.net/@voteroneller",
-"https://tiktok.com/@ronellerforcongress",
-"https://voteroneller.com/",
-"https://voteroneller.com/contact",
-"https://voteroneller.com/contribute",
-"https://voteroneller.com/contribute?amount=10",
-"https://voteroneller.com/contribute?amount=100",
-"https://voteroneller.com/contribute?amount=1000",
-"https://voteroneller.com/contribute?amount=25",
-"https://voteroneller.com/contribute?amount=250",
-"https://voteroneller.com/contribute?amount=50",
-"https://voteroneller.com/contribute?amount=500",
-"https://voteroneller.com/home",
-"https://voteroneller.com/issues",
-"https://voteroneller.com/meet_ron",
-"https://voteroneller.com/news",
-"https://voteroneller.com/photos",
-"https://voteroneller.com/swag",
-"https://voteroneller.com/view-endorsements",
-"https://voteroneller.com/volunteer",
-"https://voteroneller.com/vote",
-"https://voteroneller.com/yard-sign",
-"https://x.com/VoteRon",
-"https://youtube.com/watch?v=f2NjBBRSP6g"
+{
+"text": "$#",
+"href": "https://www.voteroneller.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.voteroneller.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.voteroneller.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.voteroneller.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://www.voteroneller.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://www.voteroneller.com/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://www.voteroneller.com/contribute?amount=1000"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.voteroneller.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.voteroneller.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteroneller.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.voteroneller.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.voteroneller.com/issues"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://www.voteroneller.com/volunteer"
+},
+{
+"text": "Meet Ron",
+"href": "https://www.voteroneller.com/meet_ron"
+},
+{
+"text": "Need Voting Information? Register & Find Your Polling Location Click Here for Information",
+"href": "https://www.voteroneller.com/vote"
+},
+{
+"text": "News",
+"href": "https://www.voteroneller.com/news"
+},
+{
+"text": "Other",
+"href": "https://www.voteroneller.com/contribute"
+},
+{
+"text": "Photos",
+"href": "https://www.voteroneller.com/photos"
+},
+{
+"text": "Show Your Support! Request a Yard Sign Click Here to Request a Sign",
+"href": "https://www.voteroneller.com/yard-sign"
+},
+{
+"text": "Support Our Campaign Make a Contribution Today Click Here to Contribute",
+"href": "https://www.voteroneller.com/contribute"
+},
+{
+"text": "Swag",
+"href": "https://www.voteroneller.com/swag"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteroneller.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.voteroneller.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.voteroneller.com/yard-sign"
+},
+{
+"text": "[image: Ron Eller for Congress]",
+"href": "https://www.voteroneller.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteRonEller"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/voteroneller/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/ron-eller-912008116/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@voteroneller"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ronellerforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=f2NjBBRSP6g"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VoteRon"
+}
 ]

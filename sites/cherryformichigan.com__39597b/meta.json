@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://www.cherryformichigan.com/",
- "paid_for_by": "Paid for by Supporters of John Cherry \u00b7 PO Box 520 \u00b7 Clio, MI 48420 About Record Investments Priorities Conservation Get Involved Contact",
+ "fingerprint": "358df051cb171705f3bfa0b758bc6074a405b86d",
+ "format": 3,
+ "paid_for_by": "Paid for by Supporters of John Cherry · PO Box 520 · Clio, MI 48420 About Record Investments Priorities Conservation Get Involved Contact",
  "title": "John Cherry for State Senate | District 27",
  "years_mentioned": [
   "2015",
@@ -10,6 +12,7 @@
   "2022",
   "2023",
   "2024",
+  "2025",
   "2026"
  ]
 }

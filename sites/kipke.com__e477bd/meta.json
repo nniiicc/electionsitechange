@@ -1,7 +1,13 @@
 {
  "description": "Delegate Kipke has earned a reputation for being a caring and conservative legislator.",
  "final_url": "https://kipke.com/",
- "paid_for_by": null,
+ "fingerprint": "3d008e83d9eb4f6ba2f9b3b68b1ce6438aa2cbe1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Nic Kipke - MD Delegate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2021",
+  "2025",
+  "2026"
+ ]
 }

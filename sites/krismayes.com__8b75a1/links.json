@@ -1,21 +1,90 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/KrisMayesforAZ",
-"https://instagram.com//krismayes",
-"https://krismayes.com/",
-"https://krismayes.com/about",
-"https://krismayes.com/endorsements",
-"https://krismayes.com/kris-captains",
-"https://krismayes.com/priorities",
-"https://krismayes.com/privacy-policy",
-"https://secure.actblue.com/donate/kris-mayes-website",
-"https://secure.actblue.com/donate/kris-mayes-website?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/kris-mayes-website?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/kris-mayes-website?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/kris-mayes-website?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/kris-mayes-website?express_lane=true&amount=50",
-"https://secure.numero.ai/signup/Volunteer-with-Kris-Mayes-for-Arizona",
-"https://store.krismayes.com/",
-"https://x.com/krismayes",
-"https://youtube.com/channel/UCa6pKiH1X2ySiXiYKs2Fl8w"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/kris-mayes-website?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/kris-mayes-website?express_lane=true&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/kris-mayes-website?express_lane=true&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/kris-mayes-website?express_lane=true&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/kris-mayes-website?express_lane=true&amount=50"
+},
+{
+"text": "About",
+"href": "https://www.krismayes.com/about"
+},
+{
+"text": "Contact",
+"href": "mailto:info@krismayes.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kris-mayes-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.krismayes.com/endorsements"
+},
+{
+"text": "Kris Captains",
+"href": "https://www.krismayes.com/kris-captains"
+},
+{
+"text": "Learn more",
+"href": "https://www.krismayes.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/kris-mayes-website"
+},
+{
+"text": "Priorities",
+"href": "https://www.krismayes.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.krismayes.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Shop",
+"href": "https://store.krismayes.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.numero.ai/signup/Volunteer-with-Kris-Mayes-for-Arizona"
+},
+{
+"text": "[image: Kris Mayes for Arizona Attorney General 2026 ]",
+"href": "https://www.krismayes.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/KrisMayesforAZ"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com//krismayes"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCa6pKiH1X2ySiXiYKs2Fl8w"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/krismayes"
+}
 ]

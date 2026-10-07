@@ -1,15 +1,58 @@
 [
-"https://bernyforflorida.com/",
-"https://bernyforflorida.com/meet-berny",
-"https://bernyforflorida.com/news",
-"https://dos.elections.myflorida.com/committees/ComDetail.asp?account=74484",
-"https://facebook.com/BernyForFlorida",
-"https://floridapolitics.com/archives/493770-tour-florida-and-see-where-boundary-lines-shifted-on-state-legislative-maps",
-"https://floridapolitics.com/archives/506023-alen-tomczak-withdraws-from-hd-66-race",
-"https://floridapolitics.com/archives/520266-nick-diceglie-endorses-jennifer-wilson-as-his-preferred-successor",
-"https://floridapolitics.com/archives/523852-berny-jacques-collects-20k-in-april-leading-hd-59-field",
-"https://instagram.com/bernyjacques",
-"https://linkedin.com/in/berny-jacques-09219311",
-"https://secure.anedot.com/berny-jacques-election-campaign/donate",
-"https://twitter.com/BernyJacques"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/berny-jacques-election-campaign/donate"
+},
+{
+"text": "Florida Politics",
+"href": "https://floridapolitics.com/archives/523852-berny-jacques-collects-20k-in-april-leading-hd-59-field/"
+},
+{
+"text": "Florida Values Coalition",
+"href": "https://dos.elections.myflorida.com/committees/ComDetail.asp?account=74484"
+},
+{
+"text": "Home",
+"href": "https://bernyforflorida.com/"
+},
+{
+"text": "In the News",
+"href": "https://bernyforflorida.com/news/"
+},
+{
+"text": "Meet Berny",
+"href": "https://bernyforflorida.com/meet-berny/"
+},
+{
+"text": "[image: Berny Jacques for State Representative]",
+"href": "https://bernyforflorida.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/BernyForFlorida"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/bernyjacques"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BernyJacques"
+},
+{
+"text": "analyst for Bay News 9",
+"href": "https://www.linkedin.com/in/berny-jacques-09219311/"
+},
+{
+"text": "endorsed Wilson",
+"href": "https://floridapolitics.com/archives/520266-nick-diceglie-endorses-jennifer-wilson-as-his-preferred-successor/"
+},
+{
+"text": "he ended his campaign",
+"href": "https://floridapolitics.com/archives/506023-alen-tomczak-withdraws-from-hd-66-race/"
+},
+{
+"text": "located in Pinellas County",
+"href": "https://floridapolitics.com/archives/493770-tour-florida-and-see-where-boundary-lines-shifted-on-state-legislative-maps/"
+}
 ]

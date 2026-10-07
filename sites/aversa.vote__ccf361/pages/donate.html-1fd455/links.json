@@ -1,21 +1,110 @@
 [
-"https://apps.arizona.vote/electioninfo/Election/68",
-"https://aversa.vote/",
-"https://aversa.vote/contact.html",
-"https://aversa.vote/donate.html",
-"https://aversa.vote/issues.html",
-"https://bitcoin.org/",
-"https://cash.app/$AversaVote",
-"https://cash.app/$AversaVote?qr=1",
-"https://donate.stripe.com/6oU3cv0bXfYR3atbeE3oA00",
-"https://fec.gov/data/candidate/H4AZ03174?cycle=2026",
-"https://fec.gov/help-candidates-and-committees/candidate-taking-receipts/contribution-limits",
-"https://getmonero.org/",
-"https://help4her.com/",
-"https://linkedin.com/in/alan-aversa",
-"https://orcid.org/0000-0002-8497-6259",
-"https://x.com/SententiaeDeo",
-"https://youtube.com/@AlanAversa",
-"https://zellepay.com/faq/are-there-any-fees-send-money-using-zelle",
-"https://zellepay.com/qr-codes?data=eyJ0b2tlbiI6ImF2ZXJzYS52b3RlQHByb3Rvbi5tZSIsIm5hbWUiOiJBTEFOIn0%3D"
+{
+"text": "Contact",
+"href": "https://aversa.vote/contact.html"
+},
+{
+"text": "Contribution Limits",
+"href": "https://www.fec.gov/help-candidates-and-committees/candidate-taking-receipts/contribution-limits/"
+},
+{
+"text": "Donate",
+"href": "https://aversa.vote/donate.html"
+},
+{
+"text": "Help fund Alan’s TV ads!",
+"href": "https://aversa.vote/donate.html"
+},
+{
+"text": "Home",
+"href": "https://aversa.vote/"
+},
+{
+"text": "Issues",
+"href": "https://aversa.vote/issues.html"
+},
+{
+"text": "No fees.",
+"href": "https://www.zellepay.com/faq/are-there-any-fees-send-money-using-zelle"
+},
+{
+"text": "Pregnant? Need help?",
+"href": "https://www.help4her.com/"
+},
+{
+"text": "[image: Bitcoin address QR code]",
+"href": "bitcoin:bc1q62wc0eruzavhsgy7jygdd2xfszuqu0jx3m2se5?message=https%3A%2F%2FAversa.vote+donation+%282026+election%29"
+},
+{
+"text": "[image: Monero address QR code]",
+"href": "monero:8C2WLZ7mBdienbbAe6oGRR9Zz4QaW3LBudP35qphHNp2Q5UF64ixXp2BbzpusFjjTTCbMsqKfnMa3QjDwcL6yjMQ7iyKNnc?recipient_name=Alan+Aversa&tx_description=https%3A%2F%2Faversa.vote+donation+%282026+election%29"
+},
+{
+"text": "[image: Stripe QR code]",
+"href": "https://cash.app/%24AversaVote?qr=1"
+},
+{
+"text": "[image: Stripe QR code]",
+"href": "https://donate.stripe.com/6oU3cv0bXfYR3atbeE3oA00"
+},
+{
+"text": "[image: Zelle® QR code]",
+"href": "https://www.zellepay.com/qr-codes/?data=eyJ0b2tlbiI6ImF2ZXJzYS52b3RlQHByb3Rvbi5tZSIsIm5hbWUiOiJBTEFOIn0%3D"
+},
+{
+"text": "[no text]",
+"href": "https://orcid.org/0000-0002-8497-6259"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/alan-aversa/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AlanAversa"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SententiaeDeo"
+},
+{
+"text": "[no text]",
+"href": "mailto:Aversa.vote@proton.me?subject=email+from+Aversa.vote"
+},
+{
+"text": "[no text]",
+"href": "sgnl://signal.group/#CjQKIHXGY_WcslkqIjebfl2VrYKybYCOalBTMxRKdM1lsAFGEhDRzhoV0jNROdNpwhVeCcot"
+},
+{
+"text": "[tooltip: Donate U.S. $ with CashApp.]",
+"href": "https://cash.app/%24AversaVote"
+},
+{
+"text": "[tooltip: Donate U.S. $ with Stripe.]",
+"href": "https://donate.stripe.com/6oU3cv0bXfYR3atbeE3oA00"
+},
+{
+"text": "[tooltip: Donate U.S. $ with Zelle.]",
+"href": "https://www.zellepay.com/qr-codes/?data=eyJ0b2tlbiI6ImF2ZXJzYS52b3RlQHByb3Rvbi5tZSIsIm5hbWUiOiJBTEFOIn0%3D"
+},
+{
+"text": "[tooltip: Donate bitcoin ₿.]",
+"href": "bitcoin:bc1q62wc0eruzavhsgy7jygdd2xfszuqu0jx3m2se5?message=https%3A%2F%2FAversa.vote+donation+%282026+election%29"
+},
+{
+"text": "[tooltip: Donate monero ɱ.]",
+"href": "monero:8C2WLZ7mBdienbbAe6oGRR9Zz4QaW3LBudP35qphHNp2Q5UF64ixXp2BbzpusFjjTTCbMsqKfnMa3QjDwcL6yjMQ7iyKNnc?recipient_name=Alan+Aversa&tx_description=https%3A%2F%2Faversa.vote+donation+%282026+election%29"
+},
+{
+"text": "bitcoin ₿",
+"href": "https://bitcoin.org/"
+},
+{
+"text": "contact me",
+"href": "https://aversa.vote/contact.html"
+},
+{
+"text": "monero ɱ",
+"href": "https://www.getmonero.org/"
+}
 ]

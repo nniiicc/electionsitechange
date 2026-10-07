@@ -1,21 +1,4 @@
-top of page
-Acerca de
-Endorsements
-Delaware Congresswoman Lisa Blunt-Rochester
-Delaware Stonewall PAC
-Delaware Building Trades
-Progressive Democrats for Delaware
-DE Sierra Club
-LGBTQ Victory Fund
-LPAC
-DSEA
-AFSCME
-Moms Demand Action
-Human Rights Campaign PAC
-Delaware Coalition Against Gun Violence
-Senator Elizabeth "Tizzy" Lockman, 3rd Senate District
-Representative Sherry Dorsey-Walker, 3rd Representative District
-New Castle County Councilman Brandon Toole
-Delaware Congresswoman Lisa Blunt-Rochester
-Senator Sarah McBride, 1st Senate District
-bottom of page
+top of page DONATE Home Issues About Events Endorsements Get Involved Contact More Use tab to navigate through the menu items.
+Re-Elect Acerca de Endorsements Delaware Congresswoman Lisa Blunt-Rochester Delaware Stonewall PAC Delaware Building Trades Progressive Democrats for Delaware DE Sierra Club LGBTQ Victory Fund LPAC DSEA AFSCME Moms Demand Action Human Rights Campaign PAC Delaware Coalition Against Gun Violence Senator Elizabeth "Tizzy" Lockman, 3rd Senate District Representative Sherry Dorsey-Walker, 3rd Representative District New Castle County Councilman Brandon Toole Delaware Congresswoman Lisa Blunt-Rochester Senator Sarah McBride, 1st Senate District EMPOWERING VOTERS Support Our Cause DONATE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+Home About Me Issues Get Involved Contact ​ DESHANNA NEAL -DEMOCRAT FOR DISTRICT 13 STATE REPRESENTATIVE- © # PAID FOR BY DESHANNA NEAL FOR DISTRICT 13 CAMPAIGN COMMITTEE DeShanna Neal P.O.
+Box 30825 Wilmington, Delaware 19805 deshanna4district13@gmail.com ​ bottom of page

@@ -1,3 +1,4 @@
-KWLM: “Senate DFLers want Walz to allow Red Dye Diesel use on MN roads” Posted on October 1, 2026 by Aric Putnam ST.
+Skip to content Aric for MN Together with Purpose Primary Menu Home Meet Aric What We’ve Done Social Media Policy Events & Volunteering Voting Endorsements Donate KWLM: “Senate DFLers want Walz to allow Red Dye Diesel use on MN roads” Posted on October 1, 2026 by Aric Putnam ST.
 PAUL (KWLM) — Senators Aric Putnam and Rob Kupec, both leaders on the Senate Agriculture Committee, are asking Governor Walz to temporarily let farmers use lower-taxed red dye diesel on public highways and not just in the field.
-Read more
+Read more Posted in News Tagged Aric , Putnam , SD14 Post navigation Minnesota News Network: “Minnesota Senators Pushing Governor for Diesel Fuel Tax Relief” PO Box 5012 St.
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

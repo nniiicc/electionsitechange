@@ -1,11 +1,46 @@
 [
-"https://ims.jocogov.org/mapitdirect/out/pubmaps_save/elc_rep.pdf",
-"https://myvoteinfo.voteks.org/VoterView",
-"https://open.spotify.com/show/4aHryqMRcsBQRwAW1e3NXI",
-"https://robertforkansashouse.com/images/districtmap.pdf",
-"https://robertforkansashouse.com/index.html",
-"https://robertforkansashouse.com/issues.html",
-"https://robertforkansashouse.com/map.html",
-"https://robertforkansashouse.com/voterguide.html",
-"https://secure.anedot.com/robert-whitman-for-kansas-house/donate"
+{
+"text": "Click this line to download as PDF",
+"href": "https://robertforkansashouse.com/images/districtmap.pdf"
+},
+{
+"text": "Click this line to download from the Johnson County Election Office",
+"href": "https://ims.jocogov.org/mapitdirect/out/pubmaps_save/elc_rep.pdf"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/robert-whitman-for-kansas-house/donate%0A"
+},
+{
+"text": "District Map",
+"href": "https://robertforkansashouse.com/map.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/robert-whitman-for-kansas-house/donate"
+},
+{
+"text": "Email Robert",
+"href": "mailto:robert@robertforkansashouse.com"
+},
+{
+"text": "Home",
+"href": "https://robertforkansashouse.com/index.html"
+},
+{
+"text": "If you are unsure in which ward and precinct you are registered, click this paragraph to lookup your voter registration information at the Voter View. After filling out the first name, last name, and date of birth on the form, click \"Look Up\". Your precinct is listed at the top of the page.",
+"href": "https://myvoteinfo.voteks.org/VoterView"
+},
+{
+"text": "Issues",
+"href": "https://robertforkansashouse.com/issues.html"
+},
+{
+"text": "Listen to my podcast on Spotify",
+"href": "https://open.spotify.com/show/4aHryqMRcsBQRwAW1e3NXI"
+},
+{
+"text": "Voter Guide",
+"href": "https://robertforkansashouse.com/voterguide.html"
+}
 ]

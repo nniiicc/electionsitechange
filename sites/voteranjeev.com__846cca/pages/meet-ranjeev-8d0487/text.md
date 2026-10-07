@@ -1,5 +1,4 @@
-Meet Ranjeev Puri
-AUTO GUY.
+Ranjeev 2025 Meet Ranjeev Issues News Endorsements Contact Volunteer Contribute Ranjeev 2025 #BELIEVEINRANJEEV Meet Ranjeev Issues News Endorsements Contact Volunteer Contribute Meet Ranjeev Puri “ My family’s American Dream, is the story of Michigan. ” AUTO GUY.
 DAD.
 I’m a father to three young boys and I understand how important it is to ensure we are all doing whatever we can to enable our future generations to succeed.
 That means waking up every day to ensure our kids are healthy, safe, have access to clean water and clean air, and are getting a quality education, regardless of their zip code.
@@ -15,3 +14,4 @@ Our campaign is based on inclusion, equity, and equality, and I will fight to en
 As the son of immigrants - my mom a Registered Nurse and my dad an Engineer, I have seen first hand how hard families work in their pursuit of the American dream - one that I’m proud to say I am the product of.
 Thanks to the opportunities I have had, I am a proud MBA, Canton homeowner, and father of three, and my goal is to work as hard for Michigan’s future as my immigrant parents worked for me.
 That means continuing to serve my community by serving on the Board of Directors of local non-profits, being a fierce activist for local candidates and organizations, and being a voice for all communities across District 24.
+Volunteer Contribute Media Kit Contact Us Paid for by Friends of Ranjeev Puri PO Box 871007 Canton, MI 48187 © Copyright #

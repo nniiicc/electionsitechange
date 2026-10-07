@@ -1,5 +1,4 @@
-New opportunities for our youth
-Current federal student loan debt is about $1.6 trillion, and the average debt balance per individual is about $37,000.
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate New opportunities for our youth Apr 26 Written By Jesse Whitfield Current federal student loan debt is about $1.6 trillion, and the average debt balance per individual is about $37,000.
 This debt burden weighs on young people for many years after graduation.
 In addition, the availability of student loans has allowed colleges and universities to raise tuition with the assumption that students will be able to take out loans to pay, leading to runaway costs for higher education.
 Moreover, politicians such as Joseph Biden are tempted to forgive the student loan debt, shifting the debt burden to taxpayers.
@@ -15,3 +14,9 @@ Everyone would know that if they want to have a comfortable retirement, they nee
 There would certainly be cases of failures where people make poor choices, but such risks are part of what it means to have the freedom to pursue different opportunities and have a meaningful life.
 In cases of utter failure, people would still have the universal basic incomes as a safety net for the rest of their lives.
 You can find out more details and make a donation to my campaign at davidpanforcongress.com.
+Jesse Whitfield Previous Previous A New Kind of Politics Next Next A Victory in the House of Representatives for Democracy Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

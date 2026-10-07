@@ -1,13 +1,5 @@
-Home
-About
-On the Issues
-Get Involved
-Events
-Contact
-More
-Get Involved, Make a Difference
-Tell us how you’d like to help and a member of our team will get in touch soon
-Help elect Jonathan Hescock
-Mailing List
-To learn about upcoming events and other news from the campaign, join our list!
-Thanks for submitting!
+top of page Home About On the Issues Get Involved Events Contact More Use tab to navigate through the menu items.
+SUPPORT JONATHAN HESCOCK Get Involved, Make a Difference Volunteer Tell us how you’d like to help and a member of our team will get in touch soon Multi choice Knock on Doors Make Calls Social Media Host Neighborhood Gatherings Help Plan & Organize Signs & Placement Other Long answer When can you help?
+All days of the week Weekdays only Weekends only Specific days or times of the week Long answer First name * Last name * Email * Phone Zip code Submit Donate Help elect Jonathan Hescock First name * Last name * Email * Town * State * Donation $# $# $# Donate Mailing List To learn about upcoming events and other news from the campaign, join our list!
+Enter your email here Sign Up Thanks for submitting!
+Home About On the Issues Get Involved Events Contact Jonathan Hescock - FOR VERMONT STATE HOUSE REPRESENTATIVE- Terms & Conditions Privacy Policy Accessibility Statement © # by the Hescocks jhescockvt@gmail.com Shoreham, VT bottom of page

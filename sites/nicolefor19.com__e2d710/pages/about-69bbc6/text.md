@@ -1,5 +1,4 @@
-Meet Nicole
-I was raised with the simple but radical belief that we should care for one another.
+0 Skip to Content Home About Platform Endorsements Canvass Volunteer Open Menu Close Menu Home About Platform Endorsements Canvass Volunteer Open Menu Close Menu Home About Platform Endorsements Canvass Volunteer Meet Nicole I was raised with the simple but radical belief that we should care for one another.
 As a lifelong Ohioan, I know many of my friends and neighbors share that same value.
 I grew up in the suburbs of Cleveland.
 Here in Ohio, we look out for each other.
@@ -20,3 +19,6 @@ Together, we can build an Ohio where every family has the opportunities, support
 Nicole with her husband, Lucas, and their camera-shy Miniature Poodle, Charlie!
 Lucas and I met in 2020, married in 2024, and are proud residents of Cleveland’s Old Brooklyn neighborhood.
 Together we frequent our many local Metroparks, enjoy visiting various breweries and coffee shops, and love traveling across the country.
+House District 19 includes the communities of Highland Heights, Mayfield Heights, Hunting Valley, Moreland Hills, Pepper Pike, Chagrin Falls, Bentleyville, Solon, Glenwillow, Oakwood, Walton Hills, Valley View, Brecksville, Newburgh Heights, Independence, Seven Hills, Brooklyn Heights, Cuyahoga Heights, and Cleveland Ward 4 precincts A, G, M, N, O, and Q.
+Contact PAID FOR BY FRIENDS OF NICOLE SIGURDSON ©# Friends of Nicole Sigurdson.
+All rights reserved.

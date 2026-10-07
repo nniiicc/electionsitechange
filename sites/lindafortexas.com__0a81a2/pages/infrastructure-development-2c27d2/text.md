@@ -1,5 +1,6 @@
-INFRASTRUCTURE DEVELOPMENT
-Strong infrastructure boosts the economy by creating jobs, improving transportation, and making it easier for businesses to operate.
+0 Skip to Content Meet Linda Priorities Education Funding Healthcare Access Reproductive Rights Infrastructure Development News & Info Newsletters Media Release Connect Open Menu Close Menu Meet Linda Priorities Education Funding Healthcare Access Reproductive Rights Infrastructure Development News & Info Newsletters Media Release Connect Open Menu Close Menu Meet Linda Folder: Priorities Back Education Funding Healthcare Access Reproductive Rights Infrastructure Development Folder: News & Info Back Newsletters Media Release Connect INFRASTRUCTURE DEVELOPMENT Strong infrastructure boosts the economy by creating jobs, improving transportation, and making it easier for businesses to operate.
 It also enhances quality of life by ensuring safe drinking water, reliable power, faster internet, and safer, more efficient travel.
 With a growing Texas population, we face challenges in maintaining and expanding its infrastructure, including transportation systems, water resources, and housing affordability.
 I will advocate for investment in our infrastructure and affordable housing initiatives to meet the demand of our growing city.
+LINDA GARCIA | HOUSE REPRESENTATIVE FOR DISTRICT 107 539 W.
+Commerce St. | Suite 4808 | Dallas, TX 75208 All rights reserved ©# House Representative Garcia | Political ad paid by Linda for Texas

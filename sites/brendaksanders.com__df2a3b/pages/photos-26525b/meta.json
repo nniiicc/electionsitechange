@@ -1,10 +1,14 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://www.brendaksanders.com/photos",
- "paid_for_by": null,
+ "fingerprint": "40f695f7a5f9fcb1b040dfae9ff8d356ebc2dceb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": [
+  "2008",
   "2014",
-  "2015"
+  "2015",
+  "2026"
  ]
 }

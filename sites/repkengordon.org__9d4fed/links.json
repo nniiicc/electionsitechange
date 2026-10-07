@@ -1,19 +1,86 @@
 [
-"https://facebook.com/StateRepKenGordon",
-"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2FStateRepKenGordon%2F&data=05%7C02%7Cnathan.hall%40mahouse.gov%7Cde8fd0a0c5a540371ba608ddfabbf8b3%7C0b947e6bff264b13ae1c573c6750c888%7C0%7C0%7C638942408179116253%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C80000%7C%7C%7C&sdata=wRSQnUfYMZAwUiIJZwNLFra8O54YiFrDjNCsur493aY%3D&reserved=0",
-"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Frepkengordon_ma%2F&data=05%7C02%7Cnathan.hall%40mahouse.gov%7Cde8fd0a0c5a540371ba608ddfabbf8b3%7C0b947e6bff264b13ae1c573c6750c888%7C0%7C0%7C638942408179090046%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C80000%7C%7C%7C&sdata=PgLe4TEVF%2FaBejlgUaDx2PFtvV8tI0Y9RnPissECunE%3D&reserved=0",
-"https://instagram.com/repkengordon",
-"https://instagram.com/repkengordon_ma?hl=en",
-"https://malegislature.gov/Legislators/Profile/KIG1",
-"https://malegislature.gov/Search/FindMyLegislator",
-"https://repkengordon.org/",
-"https://repkengordon.org/about-ken",
-"https://repkengordon.org/in-the-news/newsletter",
-"https://repkengordon.org/issues",
-"https://repkengordon.org/leadership",
-"https://repkengordon.org/news",
-"https://repkengordon.org/rappinwiththerep",
-"https://repkengordon.org/recipes",
-"https://repkengordon.org/support-ken",
-"https://twitter.com/repkengordon"
+{
+"text": "About Ken Gordon",
+"href": "https://repkengordon.org/about-ken/"
+},
+{
+"text": "Facebook",
+"href": "https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2FStateRepKenGordon%2F&data=05%7C02%7Cnathan.hall%40mahouse.gov%7Cde8fd0a0c5a540371ba608ddfabbf8b3%7C0b947e6bff264b13ae1c573c6750c888%7C0%7C0%7C638942408179116253%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C80000%7C%7C%7C&sdata=wRSQnUfYMZAwUiIJZwNLFra8O54YiFrDjNCsur493aY%3D&reserved=0"
+},
+{
+"text": "Find My Legislator",
+"href": "https://malegislature.gov/Search/FindMyLegislator"
+},
+{
+"text": "Follow Rep. Gordon on Facebook",
+"href": "https://www.facebook.com/StateRepKenGordon/"
+},
+{
+"text": "Follow Rep. Gordon on Instagram",
+"href": "https://www.instagram.com/repkengordon_ma/?hl=en"
+},
+{
+"text": "Get Involved/Donate",
+"href": "https://repkengordon.org/support-ken/"
+},
+{
+"text": "Home",
+"href": "https://repkengordon.org/"
+},
+{
+"text": "Instagram",
+"href": "https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Frepkengordon_ma%2F&data=05%7C02%7Cnathan.hall%40mahouse.gov%7Cde8fd0a0c5a540371ba608ddfabbf8b3%7C0b947e6bff264b13ae1c573c6750c888%7C0%7C0%7C638942408179090046%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C80000%7C%7C%7C&sdata=PgLe4TEVF%2FaBejlgUaDx2PFtvV8tI0Y9RnPissECunE%3D&reserved=0"
+},
+{
+"text": "Issues",
+"href": "https://repkengordon.org/issues/"
+},
+{
+"text": "Leadership",
+"href": "https://repkengordon.org/leadership/"
+},
+{
+"text": "Newsletter",
+"href": "https://repkengordon.org/in-the-news/newsletter/"
+},
+{
+"text": "Rappin’ with the Rep",
+"href": "https://repkengordon.org/rappinwiththerep/"
+},
+{
+"text": "Recent Press",
+"href": "https://repkengordon.org/news/"
+},
+{
+"text": "Recipes",
+"href": "https://repkengordon.org/recipes/"
+},
+{
+"text": "Support Ken",
+"href": "https://repkengordon.org/support-ken/"
+},
+{
+"text": "View Rep. Gordon’s MA Legislature profile",
+"href": "https://malegislature.gov/Legislators/Profile/KIG1"
+},
+{
+"text": "[image: Massachusetts State Rep. Ken Gordon] [image: Massachusetts State Rep. Ken Gordon]",
+"href": "https://repkengordon.org/"
+},
+{
+"text": "[no text]",
+"href": "https://repkengordon.org/support-ken/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/repkengordon"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StateRepKenGordon/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/repkengordon/"
+}
 ]

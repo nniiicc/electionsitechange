@@ -1,23 +1,98 @@
 [
-"http://x.com/AlexPereszlenyi",
-"https://alexfornevada.com/",
-"https://alexfornevada.com/aboutme",
-"https://alexfornevada.com/cart",
-"https://alexfornevada.com/community-events",
-"https://alexfornevada.com/issues",
-"https://alexfornevada.com/volunteer",
-"https://bsky.app/profile/alexpereszlenyi.bsky.social",
-"https://facebook.com/AlexForNevada",
-"https://forms.gle/tUFdgiTxHGMdTjue9",
-"https://instagram.com/alexpereszlenyi",
-"https://secure.actblue.com/donate/alex-pereszlenyi-nv",
-"https://secure.actblue.com/donate/alex-pereszlenyi-nv?amount=100",
-"https://secure.actblue.com/donate/alex-pereszlenyi-nv?amount=15",
-"https://secure.actblue.com/donate/alex-pereszlenyi-nv?amount=25",
-"https://secure.actblue.com/donate/alex-pereszlenyi-nv?amount=49",
-"https://secure.actblue.com/donate/alex-pereszlenyi-nv?amount=7",
-"https://secure.actblue.com/donate/alex-pereszlenyi-nv?amount=Other",
-"https://threads.com/@alexpereszlenyi",
-"https://tiktok.com/@alexpereszlenyi",
-"https://youtube.com/@AlexPereszlenyi"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/alex-pereszlenyi-nv?amount=100"
+},
+{
+"text": "$15",
+"href": "https://secure.actblue.com/donate/alex-pereszlenyi-nv?amount=15"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/alex-pereszlenyi-nv?amount=25"
+},
+{
+"text": "$49",
+"href": "https://secure.actblue.com/donate/alex-pereszlenyi-nv?amount=49"
+},
+{
+"text": "$7",
+"href": "https://secure.actblue.com/donate/alex-pereszlenyi-nv?amount=7"
+},
+{
+"text": "0",
+"href": "https://www.alexfornevada.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.alexfornevada.com/aboutme"
+},
+{
+"text": "Click Here for More Issues",
+"href": "https://www.alexfornevada.com/issues"
+},
+{
+"text": "Community Events",
+"href": "https://www.alexfornevada.com/community-events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/alex-pereszlenyi-nv"
+},
+{
+"text": "Home",
+"href": "https://www.alexfornevada.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.alexfornevada.com/issues"
+},
+{
+"text": "Meet Alex",
+"href": "https://www.alexfornevada.com/aboutme"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/alex-pereszlenyi-nv?amount=Other"
+},
+{
+"text": "Tell me what you want me to fight for: Fill out this Form",
+"href": "https://forms.gle/tUFdgiTxHGMdTjue9"
+},
+{
+"text": "Volunteer",
+"href": "https://www.alexfornevada.com/volunteer"
+},
+{
+"text": "[image: Alex For Nevada]",
+"href": "https://www.alexfornevada.com/"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/AlexPereszlenyi"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/alexpereszlenyi.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AlexForNevada"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/alexpereszlenyi/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@alexpereszlenyi"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@alexpereszlenyi"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AlexPereszlenyi"
+}
 ]

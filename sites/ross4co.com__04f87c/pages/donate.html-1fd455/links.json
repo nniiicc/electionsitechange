@@ -1,21 +1,82 @@
 [
-"https://facebook.com/profile.php?id=61591653666960",
-"https://instagram.com/ross4co",
-"https://ross4co.com/about.html",
-"https://ross4co.com/cdn-cgi/l/email-protection",
-"https://ross4co.com/contact.html",
-"https://ross4co.com/donate.html",
-"https://ross4co.com/events.html",
-"https://ross4co.com/index.html",
-"https://ross4co.com/issues.html",
-"https://ross4co.com/privacy.html",
-"https://ross4co.com/volunteer.html",
-"https://secure.anedot.com/ross4co/c4801d1b-0a02-473b-acb1-1e9863fc9005",
-"https://secure.anedot.com/ross4co/c4801d1b-0a02-473b-acb1-1e9863fc9005?amount=100",
-"https://secure.anedot.com/ross4co/c4801d1b-0a02-473b-acb1-1e9863fc9005?amount=25",
-"https://secure.anedot.com/ross4co/c4801d1b-0a02-473b-acb1-1e9863fc9005?amount=250",
-"https://secure.anedot.com/ross4co/c4801d1b-0a02-473b-acb1-1e9863fc9005?amount=450",
-"https://secure.anedot.com/ross4co/c4801d1b-0a02-473b-acb1-1e9863fc9005?amount=50",
-"https://tracer.colorado.gov/",
-"https://x.com/ross4co"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/ross4co/c4801d1b-0a02-473b-acb1-1e9863fc9005?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/ross4co/c4801d1b-0a02-473b-acb1-1e9863fc9005?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/ross4co/c4801d1b-0a02-473b-acb1-1e9863fc9005?amount=250"
+},
+{
+"text": "$450",
+"href": "https://secure.anedot.com/ross4co/c4801d1b-0a02-473b-acb1-1e9863fc9005?amount=450"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/ross4co/c4801d1b-0a02-473b-acb1-1e9863fc9005?amount=50"
+},
+{
+"text": "About",
+"href": "https://ross4co.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://ross4co.com/contact.html"
+},
+{
+"text": "Contribute Any Amount",
+"href": "https://secure.anedot.com/ross4co/c4801d1b-0a02-473b-acb1-1e9863fc9005"
+},
+{
+"text": "Donate",
+"href": "https://ross4co.com/donate.html"
+},
+{
+"text": "Events",
+"href": "https://ross4co.com/events.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61591653666960"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ross4co/"
+},
+{
+"text": "Issues",
+"href": "https://ross4co.com/issues.html"
+},
+{
+"text": "Privacy",
+"href": "https://ross4co.com/privacy.html"
+},
+{
+"text": "Volunteer",
+"href": "https://ross4co.com/volunteer.html"
+},
+{
+"text": "X",
+"href": "https://x.com/ross4co"
+},
+{
+"text": "[email protected]",
+"href": "mailto:hello@ross4co.com"
+},
+{
+"text": "[image: Ross Metler for Colorado House District 23]",
+"href": "https://ross4co.com/index.html"
+},
+{
+"text": "[image: Ross Metler]",
+"href": "https://ross4co.com/index.html"
+},
+{
+"text": "tracer.colorado.gov",
+"href": "https://tracer.colorado.gov"
+}
 ]

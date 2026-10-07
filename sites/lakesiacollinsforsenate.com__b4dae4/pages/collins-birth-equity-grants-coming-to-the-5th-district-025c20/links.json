@@ -1,10 +1,50 @@
 [
-"https://facebook.com/sencollins5",
-"https://instagram.com/senlakesiacollins",
-"https://lakesiacollinsforsenate.com/",
-"https://lakesiacollinsforsenate.com/about",
-"https://lakesiacollinsforsenate.com/contact",
-"https://lakesiacollinsforsenate.com/issues",
-"https://lakesiacollinsforsenate.com/news-achievements",
-"https://secure.actblue.com/donate/friends-of-lakesia-2"
+{
+"text": "About Lakesia",
+"href": "https://lakesiacollinsforsenate.com/about/"
+},
+{
+"text": "Back to newsroom",
+"href": "https://lakesiacollinsforsenate.com/news-achievements/"
+},
+{
+"text": "Contact",
+"href": "https://lakesiacollinsforsenate.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-lakesia-2"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sencollins5/"
+},
+{
+"text": "Home",
+"href": "https://lakesiacollinsforsenate.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/senlakesiacollins/"
+},
+{
+"text": "Issues",
+"href": "https://lakesiacollinsforsenate.com/issues/"
+},
+{
+"text": "News & Achievements",
+"href": "https://lakesiacollinsforsenate.com/news-achievements/"
+},
+{
+"text": "[image]",
+"href": "https://lakesiacollinsforsenate.com"
+},
+{
+"text": "about",
+"href": "https://lakesiacollinsforsenate.com/about/"
+},
+{
+"text": "achievements",
+"href": "https://lakesiacollinsforsenate.com/news-achievements/"
+}
 ]

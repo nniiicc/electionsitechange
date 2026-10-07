@@ -1,6 +1,4 @@
-Retzke Participates in Ottawa County Farm Bureau Legislative Luncheon, Engages Agricultural Leaders and Elected Officials
-March 30, 2026
-Oak Harbor, Ohio — Retzke participated today in the Ottawa County Farm Bureau Legislative Luncheon, held at Sheldon Miller Farms in Oak Harbor, bringing together farmers, agricultural leaders, and elected officials for a focused discussion on the challenges and opportunities facing Ohio’s agricultural sector and rural economy.
+Home Meet the Candidate My Platform News Events Donate Follow us Donate Follow us Menu Retzke Participates in Ottawa County Farm Bureau Legislative Luncheon, Engages Agricultural Leaders and Elected Officials March 30, 2026 Oak Harbor, Ohio — Retzke participated today in the Ottawa County Farm Bureau Legislative Luncheon, held at Sheldon Miller Farms in Oak Harbor, bringing together farmers, agricultural leaders, and elected officials for a focused discussion on the challenges and opportunities facing Ohio’s agricultural sector and rural economy.
 The event provided a structured opportunity for dialogue between producers and policymakers at a time when agricultural communities are navigating significant economic, environmental, and land use pressures.
 Hosted in a working farm setting, the luncheon provided an opportunity for direct engagement between policymakers and producers in an environment rooted in the day-to-day realities of Ohio agriculture.
 The gathering emphasized practical, ground-level discussion of issues affecting family farms, agribusiness operations, and rural communities across Ottawa County and the broader Western Lake Erie Basin region, where agriculture remains both an economic foundation and a central part of community identity.
@@ -25,4 +23,8 @@ He noted that agricultural communities are not only economic drivers in Northwes
 Retzke also expressed appreciation to Sheldon Miller Farms for hosting the event and to the Ottawa County Farm Bureau for organizing a forum that allowed for meaningful, direct engagement between policymakers and the agricultural community.
 He added that opportunities like this are essential for ensuring rural voices remain central in conversations about land use, economic development, and environmental policy.
 The luncheon concluded with a continued commitment among attendees to maintain open lines of communication and to support policies that strengthen Ohio’s agricultural economy while preserving the long-term viability of family farms.
-Participants expressed a shared interest in continuing these conversations beyond a single event and into ongoing legislative engagement at both the state and local levels.
+Participants expressed a shared interest in continuing these conversations beyond a single event and into ongoing legislative engagement at both the state and local levels. ← Back To News In Other News Press Release September 30, 2026 Sandusky City Commissioner Richard Koonce Endorses Easton Retzke for Ohio House District 89 Read Press Release News Article September 26, 2026 In-school debate series returns Read Article Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Meet the Candidate My Platform News Events Donate Follow us Terms of Service Contact Accessibility Statement Paid for by the committee to elect easton retzke 403.
+E.
+Washington St.
+Sandusky, OH 44870 Email: info@retzkeforrepresentative.com Retzke for Representative © #

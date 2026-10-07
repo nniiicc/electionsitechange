@@ -1,20 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=DART+Independent+Candidate+Forum&dates=20260910T200000Z%2F20260910T220000Z&location=411+N+15th+St%2C+Coeur+d%26%2339%3BAlene%2C+ID+83814%2C+United+States",
-"http://instagram.com/stegnerforidaho",
-"http://maps.google.com/?q=411+N+15th+St+Coeur+d%27Alene%2C+ID+83814+United+States",
-"https://eventbrite.com/e/dart-independent-candidate-forum-in-cda-tickets-1999548827369",
-"https://facebook.com/StegnerforIdaho",
-"https://stegnerforidaho.com/",
-"https://stegnerforidaho.com/cart",
-"https://stegnerforidaho.com/donate",
-"https://stegnerforidaho.com/events",
-"https://stegnerforidaho.com/events/dart-independent-candidate-forum?format=ical",
-"https://stegnerforidaho.com/events/idaho-falls-5se59",
-"https://stegnerforidaho.com/events/nampa",
-"https://stegnerforidaho.com/get-involved",
-"https://stegnerforidaho.com/media",
-"https://stegnerforidaho.com/meet-john",
-"https://stegnerforidaho.com/priorities",
-"https://stegnerforidaho.com/privacy-policy",
-"https://stegnerforidaho.com/terms"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=411+n+15th+st+coeur+d%27alene%2C+id+83814+united+states"
+},
+{
+"text": "0",
+"href": "https://www.stegnerforidaho.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.stegnerforidaho.com/events"
+},
+{
+"text": "Donate",
+"href": "https://www.stegnerforidaho.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.stegnerforidaho.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stegnerforidaho.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=DART+Independent+Candidate+Forum&dates=20260910T200000Z%2F20260910T220000Z&location=411+N+15th+St%2C+Coeur+d%26%2339%3BAlene%2C+ID+83814%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.stegnerforidaho.com/events/dart-independent-candidate-forum?format=ical"
+},
+{
+"text": "Media",
+"href": "https://www.stegnerforidaho.com/media"
+},
+{
+"text": "Meet John",
+"href": "https://www.stegnerforidaho.com/meet-john"
+},
+{
+"text": "Next Next September 16 Join John in Nampa",
+"href": "https://www.stegnerforidaho.com/events/nampa"
+},
+{
+"text": "Previous Previous August 22 Join John in American Falls",
+"href": "https://www.stegnerforidaho.com/events/idaho-falls-5se59"
+},
+{
+"text": "Priorities",
+"href": "https://www.stegnerforidaho.com/priorities"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.stegnerforidaho.com/privacy-policy"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.eventbrite.com/e/dart-independent-candidate-forum-in-cda-tickets-1999548827369"
+},
+{
+"text": "Terms & conditions",
+"href": "https://www.stegnerforidaho.com/terms"
+},
+{
+"text": "[image: John Stegner for Governor]",
+"href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/stegnerforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StegnerforIdaho"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@stegnerforidaho.com"
+}
 ]

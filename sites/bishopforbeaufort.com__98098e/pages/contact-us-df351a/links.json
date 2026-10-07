@@ -1,6 +1,18 @@
 [
-"https://bishopforbeaufort.com/",
-"https://bishopforbeaufort.com/blank",
-"https://bishopforbeaufort.com/contact-us",
-"https://secure.actblue.com/donate/shauna-bishop-4usall"
+{
+"text": "About",
+"href": "https://www.bishopforbeaufort.com/blank"
+},
+{
+"text": "Contact",
+"href": "https://www.bishopforbeaufort.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/shauna-bishop-4usall"
+},
+{
+"text": "Home",
+"href": "https://www.bishopforbeaufort.com"
+}
 ]

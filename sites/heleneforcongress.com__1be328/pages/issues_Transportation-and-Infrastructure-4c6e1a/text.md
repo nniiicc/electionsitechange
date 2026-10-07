@@ -1,33 +1,14 @@
-Transportation and Infrastructure
-Infrastructure is not just about convenience — it is about safety, economic growth, and public health.
+Meet Helene Helene Neville Backstory Issues News Volunteer Contribute Contact Helene Neville Professional Summary Home Home ❭ Issues ❭ Transportation and Infrastructure Transportation and Infrastructure Infrastructure is not just about convenience — it is about safety, economic growth, and public health.
 Clean drinking water, reliable roads, and resilient infrastructure help communities grow, support businesses, and protect families.
 Investing in infrastructure also creates good-paying jobs and strengthens local economies.
-We must prioritize:
-• Repairing roads, bridges, and transportation networks
-• Modernizing drinking water and wastewater systems
-• Supporting rural communities and small municipalities
-• Partnering with Tribal governments to improve essential infrastructure
-• Strengthening infrastructure to withstand natural disasters and extreme weather
-• Improving transportation efficiency and reducing emissions
-My experience as a Community Health Consultant in Iowa included implementing federal grants through the Agency for Toxic Substances and Disease Registry (ATSDR), the Centers for Disease Control and Prevention (CDC), and the Federal Emergency Management Agency (FEMA).
+We must prioritize: • Repairing roads, bridges, and transportation networks • Modernizing drinking water and wastewater systems • Supporting rural communities and small municipalities • Partnering with Tribal governments to improve essential infrastructure • Strengthening infrastructure to withstand natural disasters and extreme weather • Improving transportation efficiency and reducing emissions My experience as a Community Health Consultant in Iowa included implementing federal grants through the Agency for Toxic Substances and Disease Registry (ATSDR), the Centers for Disease Control and Prevention (CDC), and the Federal Emergency Management Agency (FEMA).
 Following the historic Iowa Flood of 1993, I worked on communicable disease surveillance, environmental health assessments, and public health education in communities affected by flooding and hazardous exposures.
 I also worked with communities impacted by Superfund sites, helping address environmental risks and protect public health.
 These experiences reinforced a simple truth: infrastructure decisions directly affect the health, safety, and quality of life of our communities.
-North Dakota Infrastructure
-North Dakota’s infrastructure is essential to our state’s economy and quality of life.
+North Dakota Infrastructure North Dakota’s infrastructure is essential to our state’s economy and quality of life.
 A recent infrastructure report graded North Dakota’s overall infrastructure as a C, indicating systems that are functional but showing signs of deterioration.
-Some key areas of concern include:
-• Bridges — D+
-• Dams — D
-• Drinking Water — C
-• Energy — C+
-• Levees — C+
-• Roads — B-
-• Transit — C-
-• Wastewater — C-
-These grades show that while North Dakota’s infrastructure is functioning, many systems require attention and investment to prevent future problems.
-North Dakota has taken steps to invest in infrastructure through funds such as the North Dakota
-Legacy Fund and Growth Fund, which help support long-term economic development and infrastructure improvements.
+Some key areas of concern include: • Bridges — D+ • Dams — D • Drinking Water — C • Energy — C+ • Levees — C+ • Roads — B- • Transit — C- • Wastewater — C- These grades show that while North Dakota’s infrastructure is functioning, many systems require attention and investment to prevent future problems.
+North Dakota has taken steps to invest in infrastructure through funds such as the North Dakota Legacy Fund and Growth Fund, which help support long-term economic development and infrastructure improvements.
 However, continued investment and planning are essential to ensure that communities — especially rural communities — have safe roads, reliable water systems, and resilient infrastructure.
 Strong infrastructure supports public safety, strengthens the economy, and protects public health.
-Investing in infrastructure today helps ensure North Dakota remains strong for future generations
+Investing in infrastructure today helps ensure North Dakota remains strong for future generations « Previous: Substance Use Disorders Next: Tribal Sovereignty and Tribal Partnership » Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

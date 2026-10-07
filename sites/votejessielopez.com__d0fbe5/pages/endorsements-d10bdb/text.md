@@ -1,129 +1,43 @@
-- SEIU California
-- California Nurses Association (CNA)
-- California Legislative Progressive Caucus
-- California Legislative Women’s Caucus
-- United Food and Commercial Workers Western States Council (UFCW)
-- Chirla Action Fund
-- California Women’s List
-- CAIR Action PAC
-- Progressive Era PAC
-- UDW
-- AFSCME 3299
-- California School Employees Association (CSEA)
-- California Faculty Association (CFA)
-- California Federation of Teachers (CFT)
-- United Food and Commercial Workers (UFCW) Local 324
-- National Union of Healthcare Workers (NUHW)
-- UPTE CWA 9119
-- Smart Justice California
-- Consumer Attorneys of California
-- SMART Local 170
-- AFSCME Local 1902 Water Works
-- Chispa
-- OC Action
-- California Working Families Party
-- The Sierra Club
-- California Environmental Voters
-- Center for Biological Diversity Equity Fund
-- Jane Fonda Climate PAC
-- California Black Power Network Action Fund
-- Our Revolution
-- Honor PAC
-- Courage California
-- Fund Her
-- Her Bold Move
-- Latinas Lead California
-- National Women’s Political Caucus California
-- National Organization for Women California (NOW)
-- Women for American Values and Ethics (WAVE)
-- California High School Democrats (CAHSD)
-- Initiate Justice Action
-- Project Super Bloom
-- Iranian American Democrats of California
-- Asian Americans and Pacific Islanders for Civic Empowerment
-- ACCE
-- Women in Leadership
-- Yes We Can Democratic Club
-- Power California
-- Dolores Huerta Action Fund
-- Organize for Peace
-- CALBIKE
-- Senator Bernie Sanders
-- California Insurance Commissioner Candidate Jane Kim
-- Congressman Derek Tran
-- Former State Senator Josh Newman
-- Assemblymember & Chair of the California Legislative Progressive Caucus Alex Lee
-- Assemblywoman Sharon Quirk-Silva
-- Orange County Supervisor Vicente Sarmiento
-- Santa Ana Mayor Dan Griset (Fmr.)
-- Santa Ana Mayor Pro Tem Benjamin Vazquez
-- Rancho Santiago Community College District Trustee David Crockett
-- Santa Ana Unified School District Board President Hector Bustos
-- Santa Ana Unified School District Board Trustee Valerie Magdaleno
-- Santa Ana Unified School District Trustee Dr.
-Alfonso Alvarez
-- Orange Unified School Board Trustee Kris Erickson
-- Anaheim Union High School District Board Dr.
-Jose Paolo Magcalas
-- Anaheim Elementary School District Board Trustee Juan Álvarez
-- Anaheim Union High School District Board Trustee Jessica Guerrero
-- Anaheim Union High School District Board Al Jabbar (Fmr.)
-- Costa Mesa Councilmember Andrea Marr
-- Costa Mesa Councilmember Arlis Reynold
-- Cypress Councilmember Frances Marquez
-- Fullerton Councilmember Dr.
-Shayna Charles
-- Fullerton Joint Union High School District Board Clerk Dr Vicki Calhoun
-- Ocean View School District Board Clerk Gina Clayton-Tarvin
-- Orange Councilmember Ana Gutierrez
-- Tustin Councilmember Leticia Clark (Fmr.)
-- Tustin Unified School District Board President Allyson Muñiz Damikolas
-- Irvine Councilmember Dr Kathleen Treseder
-- Los Ángeles Councilmember Eunisses Hernandez
-- Community Leader Fatima Iqbal-Zubair
-- Burbank Councilmember Konstantine Anthony
-- Santa Monica Mayor Caroline Torosis
-- Civil Rights Activist Dolores Huerta
-“As the former Mayor of Santa Ana and current 2nd District Orange County Supervisor, I’ve had the chance to work with all the candidates in this race.
+Skip to content About Candidate Statement Vote Endorsements Accomplishments Media Photo Gallery News Get Involved!
+Volunteer Request a Lawn Sign Subscribe Contact About Candidate Statement Vote Endorsements Accomplishments Media Photo Gallery News Get Involved!
+Volunteer Request a Lawn Sign Subscribe Contact Facebook X-twitter Instagram DONATE From Our Community to Sacramento Endorsements Senator Bernie Sanders Congressman Derek Tran OC Supervisor Vicente Sarmiento CA Senator Caroline Menjivar CA Insurance Commissioner Candidate Jane Kim Assemblymember Alex Lee Rancho Santiago Community College District Trustee David Crockett Orange Councilmember Ana Gutierrez Orange Unified School District Board Member Kris Erickson Civil Rights Leader Dolores Huerta Organizations SEIU California California Nurses Association (CNA) California Legislative Progressive Caucus California Legislative Women’s Caucus United Food and Commercial Workers Western States Council (UFCW) Chirla Action Fund California Women’s List CAIR Action PAC Progressive Era PAC UDW AFSCME 3299 California School Employees Association (CSEA) California Faculty Association (CFA) California Federation of Teachers (CFT) United Food and Commercial Workers (UFCW) Local 324 National Union of Healthcare Workers (NUHW) UPTE CWA 9119 Smart Justice California Consumer Attorneys of California SMART Local 170 AFSCME Local 1902 Water Works Western States Carpenters Chispa OC Action California Working Families Party The Sierra Club California Environmental Voters Center for Biological Diversity Equity Fund Jane Fonda Climate PAC California Black Power Network Action Fund Our Revolution Honor PAC Courage California Fund Her Her Bold Move Latinas Lead California National Women’s Political Caucus California National Organization for Women California (NOW) Women for American Values and Ethics (WAVE) California High School Democrats (CAHSD) Initiate Justice Action Project Super Bloom Iranian American Democrats of California Asian Americans and Pacific Islanders for Civic Empowerment ACCE Women in Leadership Yes We Can Democratic Club Power California Dolores Huerta Action Fund Organize for Peace CALBIKE Elected Officials & COMMUNITY LEADERS Senator Bernie Sanders California Insurance Commissioner Candidate Jane Kim Congressman Derek Tran Former State Senator Josh Newman Assemblymember & Chair of the California Legislative Progressive Caucus Alex Lee Assemblywoman Sharon Quirk-Silva Orange County Supervisor Vicente Sarmiento Santa Ana Mayor Dan Griset (Fmr.) Santa Ana Mayor Pro Tem Benjamin Vazquez Rancho Santiago Community College District Trustee David Crockett Santa Ana Unified School District Board President Hector Bustos Santa Ana Unified School District Board Trustee Valerie Magdaleno Santa Ana Unified School District Trustee Dr.
+Alfonso Alvarez Orange Unified School Board Trustee Kris Erickson Anaheim Union High School District Board Dr.
+Jose Paolo Magcalas Anaheim Elementary School District Board Trustee Juan Álvarez Anaheim Union High School District Board Trustee Jessica Guerrero Anaheim Union High School District Board Al Jabbar (Fmr.) Costa Mesa Councilmember Andrea Marr Costa Mesa Councilmember Arlis Reynold Cypress Councilmember Frances Marquez Fullerton Councilmember Dr.
+Shayna Charles Fullerton Joint Union High School District Board Clerk Dr Vicki Calhoun Ocean View School District Board Clerk Gina Clayton-Tarvin Orange Councilmember Ana Gutierrez Tustin Councilmember Leticia Clark (Fmr.) Tustin Unified School District Board President Allyson Muñiz Damikolas Irvine Councilmember Dr Kathleen Treseder Los Ángeles Councilmember Eunisses Hernandez Community Leader Fatima Iqbal-Zubair Burbank Councilmember Konstantine Anthony Santa Monica Mayor Caroline Torosis Civil Rights Activist Dolores Huerta What The Community Is SayIng Vicente Sarmiento Orange County Supervisor and Former Santa Ana Mayor “As the former Mayor of Santa Ana and current 2nd District Orange County Supervisor, I’ve had the chance to work with all the candidates in this race.
 I know that Jessie Lopez is the progressive champion that the working families of the 68th District need.
 I am proud to have worked alongside Jessie Lopez on the city council to pass a historic rent control ordinance, implement renter protections, provide direct covid relief funds to residents, and pass environmental reforms to help protect our most vulnerable families from industrial pollution.
 For far too long the entrenched state representatives have ignored the needs of our working class families and catered to their corporate backers.
-I know that Jessie is the type of fighter that we need in Sacramento to fight for universal health care, statewide rent caps, and universal childcare.”
-“Jessie Lopez is a proven labor champion and a stalwart advocate for patient care.
+I know that Jessie is the type of fighter that we need in Sacramento to fight for universal health care, statewide rent caps, and universal childcare.” SAL ROSSELLI President Emeritus, NUHW “Jessie Lopez is a proven labor champion and a stalwart advocate for patient care.
 She has stood by us at the picketline as our members fought for better access to mental health services, and we look forward to fighting beside her in Sacramento to pass Medicare for All in California.
-We support Jessie because we believe healthcare workers and patients deserve a system that works for us.”
-“Jessie Lopez is a results-driven leader who takes on entrenched interests and wins for working families.
+We support Jessie because we believe healthcare workers and patients deserve a system that works for us.” Alex Lee CA Progressive Caucus Chair and State Assemblymember “Jessie Lopez is a results-driven leader who takes on entrenched interests and wins for working families.
 On the Santa Ana City Council, she challenged the status quo to expand affordable housing, protect renters, defend immigrant communities, and advance environmental justice.
-The Legislative Progressive Caucus is proud to stand with Jessie Lopez as she brings this same fight and effectiveness to the State Assembly to deliver real results for working families across California.”
-“Courage California is proud to endorse Jessie Lopez as the progressive candidate for AD68 who is best positioned to champion our communities in the California Legislature.
+The Legislative Progressive Caucus is proud to stand with Jessie Lopez as she brings this same fight and effectiveness to the State Assembly to deliver real results for working families across California.” Irene Kao Courage Campaign Executive Director “Courage California is proud to endorse Jessie Lopez as the progressive candidate for AD68 who is best positioned to champion our communities in the California Legislature.
 As a Santa Ana city councilmember, Lopez has worked closely with local organizations and leaders to pass policies and budgets that protect working families on affordable housing, climate justice, and public safety.
-Her experience, leadership, and clear vision for equity and justice are needed in Sacramento, at the forefront of decision-making, courageously fighting for every Californian.”
-“Jessie Lopez is a proven City Council Member and effective advocate for working families.
+Her experience, leadership, and clear vision for equity and justice are needed in Sacramento, at the forefront of decision-making, courageously fighting for every Californian.” David Huerta President of SEIU State Council and SEUI United Service Workers “Jessie Lopez is a proven City Council Member and effective advocate for working families.
 Throughout her career, she has taken on powerful corporate interests to deliver real results for Orange County residents.
-Jessie Lopez is the kind of Democratic leader we can rely on to stand up to Donald Trump, expand access to affordable healthcare, confront the housing crisis, and defend immigrant communities.”
-“CHIRLA Action Fund is proud to endorse Jessie Lopez because she has been the only candidate in this race to stand on the front lines defending our community from ICE attacks.
+Jessie Lopez is the kind of Democratic leader we can rely on to stand up to Donald Trump, expand access to affordable healthcare, confront the housing crisis, and defend immigrant communities.” CHIRLA ACTION FUND The Coalition for Humane Immigrant Rights “CHIRLA Action Fund is proud to endorse Jessie Lopez because she has been the only candidate in this race to stand on the front lines defending our community from ICE attacks.
 When the city was under attack, she showed up and worked alongside immigrant rights organizations to protect our families.
 As the daughter of immigrants, she brings both lived experience and a deep commitment to this work.
-We believe no one else in this race is more dedicated to advancing policies that support mixed-status households.”
-“The California Legislative Women’s Caucus proudly endorses Jessie Lopez for State Assembly because she will be a strong and effective partner in advancing policies that support women, children, and working families across our state.
+We believe no one else in this race is more dedicated to advancing policies that support mixed-status households.” Cecilia Aguiar-Curry Assembly Majority Leader and Chair of the California Legislative Women's Caucus “The California Legislative Women’s Caucus proudly endorses Jessie Lopez for State Assembly because she will be a strong and effective partner in advancing policies that support women, children, and working families across our state.
 She understands that investing in child care, affordability, and small businesses is key to building thriving communities.
-A proven and tenacious leader, she has consistently delivered practical solutions and real results, and we are confident she will continue to lead with courage, integrity, and a deep commitment to the people of California.”
-“I’ve seen Jessie fight for her constituents, stand up to powerful interests, and advocate for policies that lower the cost of living for working families.
-As Assembly member, I know she’ll bring that same determination to fighting for consumers, lowering the cost of living, and making sure Californians, not powerful corporations, have someone in their corner.”
-“Jessie Lopez is the fighter working families need in Sacramento.
+A proven and tenacious leader, she has consistently delivered practical solutions and real results, and we are confident she will continue to lead with courage, integrity, and a deep commitment to the people of California.” Jane Kim Candidate for California Insurance Commissioner “I’ve seen Jessie fight for her constituents, stand up to powerful interests, and advocate for policies that lower the cost of living for working families.
+As Assembly member, I know she’ll bring that same determination to fighting for consumers, lowering the cost of living, and making sure Californians, not powerful corporations, have someone in their corner.” Andrea Zinder United Food and Commercial Workers “Jessie Lopez is the fighter working families need in Sacramento.
 She’s unafraid to take on tough fights, and we can count on her to stand shoulder to shoulder with workers as we push for better wages, safer workplaces, and a lower cost of living.
-Our members are proud to support her.”
-“The California Faculty Association is proud to endorse Jessie Lopez for State Assembly.
+Our members are proud to support her.” Dr.
+Jessie Peissig CFA Fullerton Vice President, Professor of Psychology “The California Faculty Association is proud to endorse Jessie Lopez for State Assembly.
 A CSU alumna, Jessie is deeply committed to making higher education affordable and accessible for all.
 A former student organizer, Jessie stands up for educators and workers.
-In the State Assembly, we know that Jessie will keep fighting to protect the rights of workers, strengthen support for teachers, protect academic freedom, and advance opportunity for all our students.”
-“We’re proud to endorse Jessie Lopez because she has a proven track record of environmental leadership at the local level and a deep commitment to protecting the health of her community.
+In the State Assembly, we know that Jessie will keep fighting to protect the rights of workers, strengthen support for teachers, protect academic freedom, and advance opportunity for all our students.” Matt Abularach-Macias Political Director, California Environmental Voters “We’re proud to endorse Jessie Lopez because she has a proven track record of environmental leadership at the local level and a deep commitment to protecting the health of her community.
 In a time when corporate polluters and special interests continue to put profit over people, Jessie has consistently stood up for clean air, safe water, and affordable clean energy.
-We know she’ll bring that same courage and integrity to higher office—and that’s exactly the kind of leadership California needs right now.”
-“SMART Local 170 is proud to endorse Councilwoman Jessie Lopez in her campaign for State Assembly.
+We know she’ll bring that same courage and integrity to higher office—and that’s exactly the kind of leadership California needs right now.” Robert Torres SMART Local 170 “SMART Local 170 is proud to endorse Councilwoman Jessie Lopez in her campaign for State Assembly.
 Jessie has consistently stood with working families—fighting for better wages, safer job sites, and the right to unionize.
 She’s walked our picket lines, shown up when it counted, and never backed down from a fight for workers’ rights.
 Now, we’re ready to stand shoulder to shoulder with her—just like she’s done for us.
-Working families in AD-68 have a true champion in Jessie Lopez, and SMART 170 is all in.”
+Working families in AD-68 have a true champion in Jessie Lopez, and SMART 170 is all in.” Join in the fight for the working families of CA AD-68!
+Chip in now to support Jessie's campaign: DONATE NOW About Candidate Statement Vote Endorsements Accomplishments Media News Subscribe Get Involved Contact Privacy Policy Mobile Terms of Service About Candidate Statement Vote Endorsements Accomplishments Media News Subscribe Get Involved Contact Privacy Policy Mobile Terms of Service DONATE NOW!
+Facebook Instagram X-twitter Paid for by Jessie Lopez for Assembly 2026 FPPC# 1478693 ©# Jessie Lopez for Assembly 2026 • All Rights Reserved.
+Show Your Support!
+Get A Lawn Sign!
 Lawn signs are a great way to show your support and strike up conversations with friends and neighbors!
 Click below to request one and a team member will drop one off.
+Request A Lawn Sign

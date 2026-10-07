@@ -1,5 +1,5 @@
-Indiana Drew a Line, and It Wasn’t on a Map.
-Today, the voices of Hoosier voters prevailed over big government interference from D.C.
+0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Indiana Drew a Line, and It Wasn’t on a Map.
+Dec 11 Written By Lauri Shillings Today, the voices of Hoosier voters prevailed over big government interference from D.C.
 I am incredibly proud of the 31 Indiana State Senators who rejected Trump’s plea to gerrymander our state’s congressional districts.
 This vote was not about party loyalty or political advantage.
 It was about whether Indiana would allow outside pressure to override community integrity and the will of voters.
@@ -16,3 +16,5 @@ We don’t need directives from D.C. to tell us how to define our communities or
 Our democracy works best when representation reflects people, not political insiders.
 Today, the Indiana Senate affirmed a simple but essential principle: Our elections belong to individual Hoosiers.
 When elected officials honor that responsibility, our democracy is stronger for it.
+Lauri Shillings Previous Previous Low Voter Turnout Is a Policy Failure Next Next Interview with Steve Guinn on WHBU Media & Press Inquiry Sign up for our newsletter Stay Connected!
+Paid for by Lauri for Liberty.

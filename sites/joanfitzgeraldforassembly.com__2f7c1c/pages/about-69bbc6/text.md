@@ -1,6 +1,4 @@
-About Joan
-Inauguration Day 2025
-Joan Fitzgerald is a mom, a retired public school teacher who was elected twice to the Jefferson County Board, and a proven leader whose focus is on making positive change happen for the people she serves.
+0 Skip to Content About Endorsements Request a yard sign/volunteer Events Contact Contribute Open Menu Close Menu About Endorsements Request a yard sign/volunteer Events Contact Contribute Open Menu Close Menu About Endorsements Request a yard sign/volunteer Events Contact Contribute About Joan Inauguration Day 2025 Joan Fitzgerald is a mom, a retired public school teacher who was elected twice to the Jefferson County Board, and a proven leader whose focus is on making positive change happen for the people she serves.
 Born and raised in Wisconsin, Joan taught high school math for 33 years in Jefferson public schools.
 Joan was a proud member of the Jefferson Education Association serving as President, Vice-President and Treasurer and as a member of the Negotiations Team.
 After teaching, Joan found a new way to serve her community as a Supervisor on the Jefferson County Board.
@@ -13,5 +11,4 @@ An active member of the Jefferson County and Fort Atkinson communities, Joan was
 Joan and her husband of 38-years Jerry, have two grown children, both graduates of Fort Atkinson public schools.
 I am running for State Assembly because I know the best way to get things done in Madison is through responsive, collaborative, and common sense representation.
 We can make positive change happen if we elect representatives who are committed to listening to their constituents.
-I’m ready to continue fighting for our shared values and get things done for the people I serve.
-—Joan Fitzgerald
+I’m ready to continue fighting for our shared values and get things done for the people I serve. —Joan Fitzgerald Home ‍ ‍ About ‍ ‍ Volunteer ‍ ‍ Contact ‍ ‍ Contribute Joan Fitzgerald for Assembly PO Box 72 Fort Atkinson, WI 53538 info@joanfitzgeraldforassembly.com © Copyright # All Rights Reserved Paid for by Joan Fitzgerald for Assembly, Laura Payne Treasurer

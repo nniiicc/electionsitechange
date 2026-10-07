@@ -1,10 +1,15 @@
 {
  "description": "Campaign claims, primary documents, independent sources, verification dates, and a public correction log.",
  "final_url": "https://citizensforhochgesang.org/facts",
+ "fingerprint": "39f3d8c0e759e9c77f80e1868acde6df1007e19d",
+ "format": 3,
  "paid_for_by": "Paid for by Citizens For Hochgesang",
  "title": "The Record | Claims, Sources & Corrections | Brad Hochgesang for State Senate",
  "years_mentioned": [
   "2023",
-  "2025"
+  "2024",
+  "2025",
+  "2026",
+  "2028"
  ]
 }

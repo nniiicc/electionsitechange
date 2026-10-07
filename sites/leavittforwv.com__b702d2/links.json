@@ -1,32 +1,138 @@
 [
-"https://a4publicsafety.com/",
-"https://americansforprosperity.org/page/4?state=west-virginia",
-"https://bigiwv.org/",
-"https://facebook.com/LeavittforWV",
-"https://flickr.com/photos/199940031@N02",
-"https://hbawv.org/",
-"https://home.nra.org/",
-"https://instagram.com/leavittforwv",
-"https://leavittforwv.com/",
-"https://leavittforwv.com/about",
-"https://leavittforwv.com/about-7",
-"https://leavittforwv.com/donate",
-"https://leavittforwv.com/news",
-"https://leavittforwv.com/values",
-"https://leavittforwv.com/volunteer",
-"https://linkedin.com/in/tristanleavitt",
-"https://omegawv.com/",
-"https://secure.winred.com/leavitt-for-west-virginia/donate",
-"https://twitter.com/leavittforwv",
-"https://wvbic.org/",
-"https://wvcdl.org/join-wvcdl",
-"https://wvchamber.com/",
-"https://wvcoal.com/",
-"https://wvforlife.org/",
-"https://wvhca.org/home",
-"https://wvma.com/",
-"https://wvsheriff.org/",
-"https://wvsma.org/wespac",
-"https://wvtrucking.com/",
-"https://wvwholesalers.org/"
+{
+"text": "ABOUT",
+"href": "https://www.leavittforwv.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/leavitt-for-west-virginia/donate"
+},
+{
+"text": "Donate now",
+"href": "https://www.leavittforwv.com/donate"
+},
+{
+"text": "ISSUES",
+"href": "https://www.leavittforwv.com/values"
+},
+{
+"text": "Learn More",
+"href": "https://www.leavittforwv.com/about"
+},
+{
+"text": "Learn More",
+"href": "https://www.leavittforwv.com/values"
+},
+{
+"text": "Please view our Privacy Policy here",
+"href": "https://www.leavittforwv.com/about-7"
+},
+{
+"text": "Team Leavitt in the News",
+"href": "https://www.leavittforwv.com/news"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.leavittforwv.com/volunteer"
+},
+{
+"text": "[image: Capitol.png]",
+"href": "https://www.leavittforwv.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/LeavittforWV/"
+},
+{
+"text": "[image: Flickr ]",
+"href": "https://www.flickr.com/photos/199940031@N02/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/leavittforwv/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/tristanleavitt/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/leavittforwv"
+},
+{
+"text": "[image: image.png]",
+"href": "https://a4publicsafety.com/"
+},
+{
+"text": "[image: image.png]",
+"href": "https://americansforprosperity.org/page/4/?state=west-virginia"
+},
+{
+"text": "[image: image.png]",
+"href": "https://home.nra.org/"
+},
+{
+"text": "[image: image.png]",
+"href": "https://wvcdl.org/join-wvcdl/"
+},
+{
+"text": "[image: image.png]",
+"href": "https://wvchamber.com/"
+},
+{
+"text": "[image: image.png]",
+"href": "https://www.bigiwv.org/"
+},
+{
+"text": "[image: image.png]",
+"href": "https://www.hbawv.org/"
+},
+{
+"text": "[image: image.png]",
+"href": "https://www.omegawv.com/"
+},
+{
+"text": "[image: image.png]",
+"href": "https://www.wvbic.org/"
+},
+{
+"text": "[image: image.png]",
+"href": "https://www.wvcoal.com/"
+},
+{
+"text": "[image: image.png]",
+"href": "https://www.wvforlife.org/"
+},
+{
+"text": "[image: image.png]",
+"href": "https://www.wvhca.org/home"
+},
+{
+"text": "[image: image.png]",
+"href": "https://www.wvma.com/"
+},
+{
+"text": "[image: image.png]",
+"href": "https://www.wvsheriff.org/"
+},
+{
+"text": "[image: image.png]",
+"href": "https://www.wvsma.org/wespac/"
+},
+{
+"text": "[image: image.png]",
+"href": "https://www.wvtrucking.com/"
+},
+{
+"text": "[image: image.png]",
+"href": "https://www.wvwholesalers.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.leavittforwv.com#about"
+},
+{
+"text": "info@leavittforwv.com",
+"href": "mailto:info@leavittforwv.com"
+}
 ]

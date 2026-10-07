@@ -1,7 +1,11 @@
 {
  "description": "Posts about news written by Sam Powell",
  "final_url": "https://sampowellforsenate.com/tag/news/",
- "paid_for_by": null,
- "title": "news \u2013 Sam Powell for Senate",
- "years_mentioned": []
+ "fingerprint": "3f2e5d415ab82b13b0ed0514e08082a35345010f",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "news – Sam Powell for Senate",
+ "years_mentioned": [
+  "2026"
+ ]
 }

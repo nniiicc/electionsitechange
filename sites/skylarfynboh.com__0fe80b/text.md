@@ -1,5 +1,13 @@
-Why it’s right
+Skip to Content About Issues Blog Get Involved Volunteer Events Endorsements Yard Sign Donate Contact Contact Us About Issues Blog Get Involved Volunteer Events Endorsements Yard Sign Donate Contact Contact Us Taking care of people is the right thing to do.
 Duty.
+Honor.
+Integrity.
+Accountability.
+Skylar Fynboh for Minnesota Senate District 5.
+Subscribe to updates Pick what you want to hear about.
+No spam.
+Unsubscribe anytime.
+Meet Skylar Volunteer Why it’s right Duty.
 Honor.
 Integrity.
 Accountability.
@@ -13,8 +21,7 @@ We used to expect it from the people we sent to represent us.
 We are allowed to expect it again.
 This is what Skylar is running on.
 The rest is on the about page.
-Why it’s responsible
-An ambulance that shows up when it is needed.
+Skylar’s story Why it’s responsible An ambulance that shows up when it is needed.
 A lake that does not turn green every summer.
 A school that stays open, and a hospital that does not shutter.
 These are not luxuries.
@@ -27,7 +34,7 @@ It gets solved by a legislature willing to do the boring work of keeping the thi
 That is not charity.
 That is stewardship.
 It is also what grown-up governing looks like.
-Every month, on the record.
+The issues Every month, on the record.
 Every quarter, in the room.
 A video update each month on the votes cast, the reasoning behind them, and the legislative work that affects this district.
 A town hall every quarter where the hard questions get answered out loud.
@@ -44,5 +51,12 @@ Introduce us to someone who has not heard about the campaign yet.
 The math on a race like this is simple.
 Enough hands, it works.
 Not enough, it does not.
-People who know the ground.
+Volunteer No experience required.
+Training provided.
+Sign up Donate Minnesota refunds the first seventy-five dollars through the Political Contribution Refund.
+Donate Stay in the loop Events, updates, where the race stands.
+Subscribe Come find us.
+Events, town halls, cookouts, and door-knocks across the district.
+All events People who know the ground.
 Endorsements from neighbors, former legislators, and organizations in the district.
+All endorsements Explore Home About Skylar Where I Stand Privacy Policy Contact Get Involved Volunteer Donate Request a Yard Sign Events Connect [email protected] Send a Message © # Skylar Fynboh for Senate District 5 Prepared and paid for by Skylar Fynboh for Senate District 5, PO Box 6, Akeley, MN 56433

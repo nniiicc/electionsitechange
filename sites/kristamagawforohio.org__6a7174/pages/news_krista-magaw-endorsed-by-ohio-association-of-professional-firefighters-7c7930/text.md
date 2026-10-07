@@ -1,12 +1,3 @@
-Krista Magaw
-Home
-About
-Issues
-News
-Volunteer
-Events
-Contact
-More
-FOR OHIO HOUSE DISTRICT 71
-Sep 28, 2026
-Krista Magaw has been endorsed by the Ohio Association of Professional Firefighters.
+top of page DONATE GET INVOLVED Krista Magaw Home About Issues News Volunteer Events Contact More Use tab to navigate through the menu items.
+Krista Magaw FOR OHIO HOUSE DISTRICT 71 < Back Krista Magaw Endorsed by Ohio Association of Professional Firefighters ​ Sep 28, 2026 ​ Krista Magaw has been endorsed by the Ohio Association of Professional Firefighters.
+Previous Next Home About Me Get Involved Contact Krista Magaw - FOR DISTRICT 71 - Terms & Conditions Privacy Policy Accessibility Statement © # by Krista Magaw For Ohio ​ Krista Magaw for Ohio PO Box 652 Yellow Springs, Oh 45387 bottom of page

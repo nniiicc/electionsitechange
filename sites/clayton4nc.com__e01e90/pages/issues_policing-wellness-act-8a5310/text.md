@@ -1,6 +1,5 @@
-David Clayton believes in
-The Policing Wellness Act
-National mandate for randomized and ongoing psychological evaluation for all law enforcement.
+Skip navigation menu Home About Issues Events Volunteer Contact Donate Home About Issues Events Volunteer Contact Donate Homeless Veterans The Social Security, Medicaid, & Medicare Protections Act The Patient Priority Act No Stock Trades For Elected Officials National Conflict of Interest Bill Incumbent Representative Campaign Reform Congressional Wage / Minimum Wage Reciprocity Act The Policing Wellness Act The Due Process Act Zero Kings Act David Clayton believes in The Policing Wellness Act National mandate for randomized and ongoing psychological evaluation for all law enforcement.
 Policing is stressful work.
 This bill ensures that police officers receive the psychological help they need, simultaneously lowering the number of police brutality cases and civil suits brought against officers and their employers which cost taxpayers billions of dollars.
 Good cops make good communities.
+Stronger Together & Together Stronger Powered by RUN! website builder Paid for by Clayton4Congress You need to enable JavaScript to run this app.

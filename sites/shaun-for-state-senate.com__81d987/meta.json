@@ -1,7 +1,9 @@
 {
  "description": "Candidate for Michigan State Senate",
  "final_url": "https://www.shaun-for-state-senate.com/",
- "paid_for_by": null,
+ "fingerprint": "84c2a5b91288cbf93150599620fa359c51366cac",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Shaun for State Senate",
  "years_mentioned": []
 }

@@ -1,4 +1,4 @@
-If you were to ask almost any Iowa family what they have noticed about digital entertainment or “the shows they watch,” they will say that even though there are more streaming services, there are fewer quality shows, and that what they are watching just gets more expensive.
+Donate Connect with Brenna News Donate News To Save American Movies, I’m Taking California To The Supreme Court August 25, 2026 Daily Wire If you were to ask almost any Iowa family what they have noticed about digital entertainment or “the shows they watch,” they will say that even though there are more streaming services, there are fewer quality shows, and that what they are watching just gets more expensive.
 That’s what happens when one company gets too far out in front, and the companies chasing it are too small to catch up.
 In other words, not enough real competition means everyday Iowans — and everyday Americans — are paying more.
 A successful Paramount-Warner Bros. merger would change that.
@@ -55,3 +55,4 @@ Without that ruling, we would be walking into a case filed by California before 
 Just like California should keep its hands off America’s bacon, California needs to understand that it doesn’t get to decide what Americans can choose to watch or stream.
 If California believes a transaction that 68 regulators approved is nevertheless illegal, it is free to make that argument.
 But it should make it in the one court with the authority to bind all of us, and it should make it now, before the bill for the delay comes due.
+Read More Here Share: Paid For By Bird For Iowa PRIVACY POLICY · TERMS & CONDITIONS · RESEARCH · INFORMATION

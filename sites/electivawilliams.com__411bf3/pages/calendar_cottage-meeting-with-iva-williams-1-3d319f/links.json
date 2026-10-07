@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Cottage+Meeting+with+Iva+Williams&dates=20260731T000000Z%2F20260731T020000Z",
-"https://electivawilliams.com/",
-"https://electivawilliams.com/about",
-"https://electivawilliams.com/calendar",
-"https://electivawilliams.com/calendar/cottage-meeting-with-iva-williams",
-"https://electivawilliams.com/calendar/cottage-meeting-with-iva-williams-1?format=ical",
-"https://electivawilliams.com/calendar/phonebank-with-iva-williams",
-"https://electivawilliams.com/cart",
-"https://electivawilliams.com/contact",
-"https://electivawilliams.com/endorsements",
-"https://electivawilliams.com/get-involved",
-"https://electivawilliams.com/priorities",
-"https://electivawilliams.com/volunteer",
-"https://facebook.com/share/1BdWvkF5ug?mibextid=wwXIfr",
-"https://instagram.com/elect.iva",
-"https://mobilize.us/utahdemocrats/event/991938?referring_vol=11486092&rname=Mason&share_context=event_details&share_medium=copy_link",
-"https://secure.actblue.com/donate/electivawilliams"
+{
+"text": "0",
+"href": "https://www.electivawilliams.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electivawilliams.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.electivawilliams.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.electivawilliams.com/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.electivawilliams.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.electivawilliams.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/electivawilliams"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electivawilliams.com/endorsements"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.electivawilliams.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cottage+Meeting+with+Iva+Williams&dates=20260731T000000Z%2F20260731T020000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/cottage-meeting-with-iva-williams-1?format=ical"
+},
+{
+"text": "Next Next August 11 Phonebank with Iva Williams",
+"href": "https://www.electivawilliams.com/calendar/phonebank-with-iva-williams"
+},
+{
+"text": "Previous Previous July 29 Cottage Meeting with Iva Williams",
+"href": "https://www.electivawilliams.com/calendar/cottage-meeting-with-iva-williams"
+},
+{
+"text": "Priorities",
+"href": "https://www.electivawilliams.com/priorities"
+},
+{
+"text": "RSVP Here",
+"href": "https://www.mobilize.us/utahdemocrats/event/991938/?referring_vol=11486092&rname=Mason&share_context=event_details&share_medium=copy_link"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electivawilliams.com/volunteer"
+},
+{
+"text": "[image: Elect Iva Williams]",
+"href": "https://www.electivawilliams.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1BdWvkF5ug/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/elect.iva"
+}
 ]

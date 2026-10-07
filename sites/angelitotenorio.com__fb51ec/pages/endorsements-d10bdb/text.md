@@ -1,35 +1,8 @@
-top of page
-Endorsements
-Planned Parenthood Advocates of Wisconsin
-Wisconsin State AFL-CIO
-SEIU Wisconsin
-Wisconsin Laborers' District Council - LiUNA!
-Teamsters Joint Council 39
-IBEW State Conference
-Wisconsin Education Association Council (WEAC)
-Wisconsin Bricklayers and Allied Craftworkers Union
-Wisconsin Conservation Voters
-Clean Wisconsin
-Sierra Club
-Climate Cabinet
-Citizen Action of Wisconsin
-Shepherd Express
-Committee to Protect Health Care
-Voces De La Frontera
-Wisconsin Progress
-Wisconsin Young Progressives Alliance
-New Politics
-National Association of Social Workers, Wisconsin Chapter
-Mental Health Now Candidate Distinction
-Moms Demand Action Gun Sense Candidate Distinction
-West Allis Common Council President Kevin Haass
-West Allis West Milwaukee School Board Member Kristen Keyser
-West Allis West Milwaukee School Board Member
-State Representative Francesca Hong
-State Representative Alex Joers
-State Representative Lisa Subeck
-Endorse
-Angelito for Assembly!
+top of page DONATE Home Meet Angelito Priorities Get Involved Map Endorsements Contact Donate More Use tab to navigate through the menu items.
+Endorsements Planned Parenthood Advocates of Wisconsin Wisconsin State AFL-CIO SEIU Wisconsin Wisconsin Laborers' District Council - LiUNA!
+Teamsters Joint Council 39 IBEW State Conference Wisconsin Education Association Council (WEAC) Wisconsin Bricklayers and Allied Craftworkers Union Wisconsin Conservation Voters Clean Wisconsin Sierra Club Climate Cabinet Citizen Action of Wisconsin Shepherd Express Committee to Protect Health Care Voces De La Frontera Wisconsin Progress Wisconsin Young Progressives Alliance New Politics National Association of Social Workers, Wisconsin Chapter Mental Health Now Candidate Distinction Moms Demand Action Gun Sense Candidate Distinction West Allis Common Council President Kevin Haass West Allis West Milwaukee School Board Member Kristen Keyser West Allis West Milwaukee School Board Member State Representative Francesca Hong State Representative Alex Joers State Representative Lisa Subeck Endorse Angelito for Assembly!
 Join the campaign and fill out the endorsement form below.
 Thank you for your support!
-bottom of page
+First name Last name Position Phone Email Submit Make A Difference Take Action DONATE VOLUNTEER Get the latest updates from the campaign trail JOIN THE TEAM Thank you for your support!
+Home Issues Get Involved Contact Photos of Angelito Tenorio in military uniform do not imply endorsement from the United States Army or the Department of Defense.
+Authorized and Paid for by Angelito for Assembly Angelito for Assembly PO Box 14022 West Allis, WI 53214 ​ 414-522-7122 angelitoforassembly@gmail.com bottom of page

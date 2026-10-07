@@ -1,9 +1,38 @@
 [
-"https://facebook.com/JessicaEthridgeSC",
-"https://google.com/maps/search/3620+Pelham+Rd.,+Suite+5+%0D%0A++++++++++++++++++++++++South+Carolina,+++29615?entry=gmail",
-"https://instagram.com/JessicaEthridgeSC",
-"https://jessica4sc.com/",
-"https://jessica4sc.com/blank",
-"https://jessica4sc.com/donate",
-"https://x.com/JessEthridgeSC"
+{
+"text": "3620 Pelham Rd., Suite 5",
+"href": "https://www.google.com/maps/search/3620+Pelham+Rd.,+Suite+5+%0D%0A++++++++++++++++++++++++South+Carolina,+++29615?entry=gmail"
+},
+{
+"text": "DONATE",
+"href": "https://www.jessica4sc.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.jessica4sc.com"
+},
+{
+"text": "South Carolina, 29615",
+"href": "https://www.google.com/maps/search/3620+Pelham+Rd.,+Suite+5+%0D%0A++++++++++++++++++++++++South+Carolina,+++29615?entry=gmail"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.jessica4sc.com/blank"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JessicaEthridgeSC"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/JessicaEthridgeSC"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/JessEthridgeSC"
+},
+{
+"text": "jessicaethridgeforsc@gmail.com",
+"href": "mailto:jessicaethridgeforsc@gmail.com"
+}
 ]

@@ -1,4 +1,8 @@
-Hello, I’m Senator Paul Bailey bringing you a capitol update from Nashville.
+Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
+Not a member?
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home News / Weekly Capitol Update – Week of Feb.
+14, 2018 Weekly Capitol Update – Week of Feb.
+14, 2018 Hello, I’m Senator Paul Bailey bringing you a capitol update from Nashville.
 We’re picking up the pace this week in the Tennessee General Assembly.
 Our committees have full calendars and we’re continuing to study the budget of each State Department.
 On Monday night, we approve two important measures.
@@ -12,6 +16,9 @@ It’s important to keep kids with addiction disorders in school and on the righ
 Finally, as Chair under the Senate Transportation Safety Committee, I’m very excited about the plan proposed by President Trump on Monday that will boost spending on infrastructure and the US.
 Governor Haslam has reported that after meeting with the White House, Tennessee is well positioned to take advantage of this funding.
 Roads are critical to Tennessee’s economy, not to mention the need for safety.
-I look forward to reviewing the plan and will work with Governor Haslam and [??? 1:25] to ensure that Tennessee takes full advantage of bringing these dollars to our state.
+I look forward to reviewing the plan and will work with Governor Haslam and [???
+1:25] to ensure that Tennessee takes full advantage of bringing these dollars to our state.
 As always, please feel free to contact my office with concerns or if you wish to weigh in on the issues.
 Until next week, this is Senator Paul Bailey giving you a capitol update.
+Previous Article Next Article Share With Facebook Tweet With Twitter SEARCH RECENT UPDATES Capitol Hill Update 4/17/2026 Capitol Hill Update 4/10/2026 Capitol Hill Update 4/3/2026 NEWSLETTER Please enable JavaScript in your browser to complete this form.
+Email * SUBMIT

@@ -1,8 +1,7 @@
-Tell us, what’s on your mind?
+0 Skip to Content Home About Meet Casey My Story Why I am Running Endorsements From the Community Issues Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Get Involved Volunteer Events & Outreach Request A Yard Sign Merch Contact Voter Information Election Dates MO Voting Center 2026 Ballot Measures Donate Open Menu Close Menu Home About Meet Casey My Story Why I am Running Endorsements From the Community Issues Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Get Involved Volunteer Events & Outreach Request A Yard Sign Merch Contact Voter Information Election Dates MO Voting Center 2026 Ballot Measures Donate Open Menu Close Menu Home Folder: About Back Meet Casey My Story Why I am Running Endorsements From the Community Folder: Issues Back Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Folder: Get Involved Back Volunteer Events & Outreach Request A Yard Sign Merch Contact Folder: Voter Information Back Election Dates MO Voting Center 2026 Ballot Measures Donate Tell us, what’s on your mind?
 We’re building this campaign together.
 Take a moment to fill out the form below and share the issues and challenges you’ve been facing.
 Your voice helps shape our priorities and ensures this campaign is truly led by the people it serves.
 You may even see your concerns reflected—anonymously—on our policy page as we continue this work together.
-Casey Scott For Missouri
-P.O.
-Box 123 Trenton, MO 64683
+Casey Scott For Missouri P.O.
+Box 123 Trenton, MO 64683 caseyscottformissouri@gmail.com

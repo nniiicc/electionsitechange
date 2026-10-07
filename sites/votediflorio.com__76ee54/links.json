@@ -1,13 +1,50 @@
 [
-"http://facebook.com/TracyDiFlorioforChili",
-"http://secure.winred.com/committee-to-elect-tracy-diflorio/donate-today",
-"http://twitter.com/tdiflorio001",
-"https://absenteeballot.elections.ny.gov/",
-"https://facebook.com/tracydifloriofor138thassembly",
-"https://monroecounty.gov/etc/voter",
-"https://secure.winred.com/committee-to-elect-tracy-diflorio/bills-watch-party",
-"https://secure.winred.com/committee-to-elect-tracy-diflorio/donate-today",
-"https://votediflorio.com/",
-"https://votediflorio.com/contact",
-"https://votediflorio.com/join"
+{
+"text": "Bills Watch Party Tickets Here!",
+"href": "https://secure.winred.com/committee-to-elect-tracy-diflorio/bills-watch-party"
+},
+{
+"text": "Check Voter Status",
+"href": "https://www.monroecounty.gov/etc/voter"
+},
+{
+"text": "Contact Tracy",
+"href": "https://votediflorio.com/contact/"
+},
+{
+"text": "Donate",
+"href": "http://secure.winred.com/committee-to-elect-tracy-diflorio/donate-today"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-tracy-diflorio/donate-today"
+},
+{
+"text": "Follow on Facebook",
+"href": "https://www.facebook.com/tracydifloriofor138thassembly/"
+},
+{
+"text": "Get Absentee Ballot",
+"href": "https://absenteeballot.elections.ny.gov/"
+},
+{
+"text": "Home",
+"href": "https://votediflorio.com/"
+},
+{
+"text": "Join the Team",
+"href": "https://votediflorio.com/join/"
+},
+{
+"text": "[no text]",
+"href": "https://votediflorio.com/"
+},
+{
+"text": "[tooltip: ]",
+"href": "http://facebook.com/TracyDiFlorioforChili/"
+},
+{
+"text": "[tooltip: ]",
+"href": "http://twitter.com/tdiflorio001"
+}
 ]

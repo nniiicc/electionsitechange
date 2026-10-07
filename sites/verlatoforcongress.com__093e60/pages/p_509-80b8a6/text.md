@@ -1,4 +1,4 @@
-In early December, Arcadia Mayor April Verlato announced her campaign on a heartfelt and dedicated mission as she pioneers her run for the Congressional seat in California’s 28th District.
+News and Updates April Verlato Campaigns for Seat in Congress In early December, Arcadia Mayor April Verlato announced her campaign on a heartfelt and dedicated mission as she pioneers her run for the Congressional seat in California’s 28th District.
 As the first mayor to challenge incumbent Rep.
 Judy Chu, Verlato’s decision to run is a poignant response to the overlooked yet pressing crises facing both the district and the nation.
 Verlato, driven by her passion for solving community issues such as homelessness and public safety, emerges as a determined leader, prepared to tackle the challenges that lie ahead.
@@ -13,3 +13,5 @@ Her vision includes bringing back economic prosperity and growth to the San Gabr
 Verlato aims to bring hope back to California.
 Her candidacy, which is endorsed by more than 30 Republican and Democrat elected officials, represents a pledge to work tirelessly for the well-being and prosperity of the 28th District and the entire state, echoing her belief that, together, Californians can overcome challenges and build a brighter future.
 First published in the January 25 print issue of the Outlook Valley Sun.
+Share: More Posts Get Involved Stand with April!
+Sign Up

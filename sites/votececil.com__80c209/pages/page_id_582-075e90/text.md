@@ -1,5 +1,4 @@
-Private Monopolies and Mass Surveillance: My Plan to Tear Down Flock Cameras in Missouri 🛑📸
-If you drive through Springfield or anywhere in Southwest Missouri today, you are being watched.
+Skip to content Home Candidate Bio Platform Issues Donate Volunteer Campaign Calendar In the News Endorsements Adopt-a-street Links Contact Us Cecil Ince for Missouri State Senate Vote November 3rd Private Monopolies and Mass Surveillance: My Plan to Tear Down Flock Cameras in Missouri 🛑📸 If you drive through Springfield or anywhere in Southwest Missouri today, you are being watched.
 Without a warrant, without your consent, and without individual probable cause, your daily movements are being logged into a permanent database.
 I’m talking about Flock Safety cameras—the automated license plate readers that have quietly taken over our street corners.
 Right now, the Springfield Police Department operates 41 of these active devices, and the network is expanding.
@@ -20,8 +19,7 @@ But there is a massive difference: an interlock device is a targeted penalty for
 Flock cameras are mass surveillance targeting 100% of innocent, law-abiding citizens under the assumption that you might commit a crime in the future.
 That is not free enterprise.
 That is environmental trespassing on our public space.
-Here is my solution:
-We don’t need to pass a hundred tiny regulations.
+Here is my solution: We don’t need to pass a hundred tiny regulations.
 We need to cut the single thread keeping these surveillance grids legal.
 In the State Senate, I will introduce legislation that completely closes the Third-Party Doctrine loophole for political subdistricts.
 My bill will establish a strict Anti-Outsourcing Clause stating a simple, unbreakable rule: No government entity in Missouri may enter into a contract with a private vendor to collect, store, or process data that would be unconstitutional for the government to collect itself.
@@ -31,3 +29,5 @@ By law, the cameras will have to be dismantled and taken down within 30 days.
 The proper role of government is highly restricted: to protect individual life, liberty, and property.
 Mass surveillance grids run by private monopolies do the exact opposite.
 Let’s restore true constitutional boundaries, eliminate warrantless tracking, and protect the privacy of every Missourian.
+PAID FOR BY THE COMMITTEE TO ELECT CECIL INCE Toggle Statistics Statistics Toggle Google Analytics Google Analytics Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.
+Service URL: policies.google.com (opens in a new window) Accept All Close Save and Close Powered by (opens in a new window) Home Candidate Bio Platform Issues Donate Volunteer Campaign Calendar In the News Endorsements Adopt-a-street Links Contact Us

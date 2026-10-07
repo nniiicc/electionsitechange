@@ -1,6 +1,5 @@
-Boise, ID- Congressman Mike Simpson and Kathy Simpson announced today their endorsement of President Donald J.
-Trump in the 2024 Presidential Election and released the following statement:
-“President Donald J.
+Skip to content Home About Mike News Issues Endorsements Volunteer Media FIND VOTING LOCATION DONATE SIMPSON ENDORSES TRUMP IN 2024 PRESIDENTIAL ELECTION January 22, 2024 Boise, ID- Congressman Mike Simpson and Kathy Simpson announced today their endorsement of President Donald J.
+Trump in the 2024 Presidential Election and released the following statement: “President Donald J.
 Trump has mine and Kathy’s full support and endorsement in the 2024 Presidential Election.
 America was stronger, more prosperous, and safer under the leadership of President Trump.
 President Trump has been a strong champion for Idaho – cutting job-killing regulations, supercharging our economy, enacting historic tax reforms, and supporting policies that raised the median household income to the highest level in our country’s history.
@@ -12,4 +11,6 @@ During his time in office, our military regained the critical support it needs f
 Biden’s disastrous policies have crippled America’s energy independence, crushed hard-working Americans with run-away inflation, and threatened our national security.
 Biden has created an even worse crisis on our Southern Border as millions of illegal immigrants, including dangerous criminals, drug traffickers, and suspected terrorists on Homeland Security’s watchlist have flooded our unsecure border and entered our country.
 “It’s time for the Republican Party to come together so we can defeat Joe Biden in November.
-I encourage my fellow Idahoans to participate in the upcoming Presidential Caucus on March 2nd and join me in supporting President Trump,” said Congressman Mike Simpson.
+I encourage my fellow Idahoans to participate in the upcoming Presidential Caucus on March 2nd and join me in supporting President Trump,” said Congressman Mike Simpson. « Previous: An Important Message from Senator Risch and Governor Otter Sign up for Updates First Name (Required) Last Name (Required) Email (Required) Zip Code Submit Twitter Facebook YouTube Paid for by Simpson for Congress, T.
+Layne Van Orden, Treasurer privacy Policy P.O.
+Box 1541, Boise, ID 83701 Phone: 208-367-1927 Email: info@simpsonforcongress.com

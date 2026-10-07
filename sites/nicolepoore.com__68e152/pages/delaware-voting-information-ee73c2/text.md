@@ -1,19 +1,14 @@
-Utilizing your right to vote is a great thing!
+Press: Reflecting on Progress: What’s Next… One Month Left of the… Emergency Closure of Lorewood Grove… New Air Quality Initiatives Launching… Legislative Recap: April 2026 info@nicolepoore.com Donate About About Senator Poore FAQs About Senator Poore Delaware Voting Information Endorsements Delaware Democrat Values 12th District Legislation Social Policy Guns Education Consumer Protection Crime and Public Safety Criminal Law and Courts Business & Economic Development/Policy Energy and Environment Health and Social Services Joint Sunset Committee Open Government/Government Operations Contact Volunteer News News/Blog Senator Poore 12th District Newsletter About About Senator Poore FAQs About Senator Poore Delaware Voting Information Endorsements Delaware Democrat Values 12th District Legislation Social Policy Guns Education Consumer Protection Crime and Public Safety Criminal Law and Courts Business & Economic Development/Policy Energy and Environment Health and Social Services Joint Sunset Committee Open Government/Government Operations Contact Volunteer News News/Blog Senator Poore 12th District Newsletter Delaware Voting Information Home Delaware Voting Information Utilizing your right to vote is a great thing!
 Be sure to register to vote, and be sure to vote in each election.
 Democratic Primary Election Day is Tuesday, September 15, 2026!
-The State of Delaware Department of Elections provides a lot of useful, online-wizard-based voting information, including details and instructions for:
-- Registering to Vote
-- Voting with Special Needs
-- Voting by Absentee Ballot (when you are away for for college, work, vacation, etc.)
-- Voting when you don’t have a Fixed Residence
-- and more
-Click the links above to learn more.
-Early Voting
-Early Voting at an Early Voting Site prior to Election Day:
-You may vote in person at any Early Voting Site in your county of residence during the 10 day early voting period before Election Day.
-- Please see a listing of Early Voting Sites & Early Voting Schedule
-- Find an Early Voting Site close to home using the Department’s GIS-Based Early Voting Site Lookup Tool.
-The voting process for Early Voting is identical to the Election Day voting, except that voters may vote at any early site in their county of residence during the 10 day early voting period before Election Day:
-- Voters’ eligibility to vote is verified by Election Officers.
-- Voters sign the pollbook.
-- Voters vote their ballot on Delaware’s fully accessible/ADA compliant ExpressVote XL voting machine.
+The State of Delaware Department of Elections provides a lot of useful, online-wizard-based voting information, including details and instructions for: Registering to Vote Voting with Special Needs Voting by Absentee Ballot (when you are away for for college, work, vacation, etc.) Voting when you don’t have a Fixed Residence and more Click the links above to learn more.
+Early Voting Early Voting at an Early Voting Site prior to Election Day: You may vote in person at any Early Voting Site in your county of residence during the # day early voting period before Election Day.
+Please see a listing of Early Voting Sites & Early Voting Schedule Find an Early Voting Site close to home using the Department’s GIS-Based Early Voting Site Lookup Tool .
+The voting process for Early Voting is identical to the Election Day voting, except that voters may vote at any early site in their county of residence during the # day early voting period before Election Day: Voters’ eligibility to vote is verified by Election Officers.
+Voters sign the pollbook.
+Voters vote their ballot on Delaware’s fully accessible/ADA compliant ExpressVote XL voting machine .
+Senator Poore’s Newsletter Latest News Reflecting on Progress: What’s Next for Us?… admin 7 Aug 2026 One Month Left of the 153rd General… admin 13 Jun 2026 Emergency Closure of Lorewood Grove Road admin 23 May 2026 New Air Quality Initiatives Launching in Delaware… admin 11 Apr 2026 Legislative Recap: April 2026 admin 7 Apr 2026 About Lifelong New Castle County resident Senator Nicole Poore is a family-oriented professional who consistently demonstrates how hard work, dedication, integrity, and solid family values are paramount to achieving family, personal, and professional goals.
+Contact Senator Poore Quick Links Home 12th District Contact Legislation News/Blog Donate Accessibility Latest Posts Reflecting on Progress: What’s Next for Us?… admin 7 Aug 2026 One Month Left of the 153rd General… admin 13 Jun 2026 Emergency Closure of Lorewood Grove Road admin 23 May 2026 Delaware Voting Information 2016 Delaware Election Calendar Delaware Polling Place Locator Registering to Vote Voters with Special Needs Voting by Absentee Ballot © # Nicole Poore.
+Site design by The Writer's Block .
+Accessibility Statement . × How much would you like to donate?
+Donate Now

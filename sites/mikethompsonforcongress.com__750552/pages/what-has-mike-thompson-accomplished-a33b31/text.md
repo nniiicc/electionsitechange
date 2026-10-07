@@ -1,42 +1,29 @@
-DELIVERING RESULTS FOR OUR COMMUNITY
-$100 Million Recouped for Residents: Mike has helped return more than $100 million from federal agencies to residents of California’s Fourth Congressional District.
-$500 Million in Tax Relief for Fire Survivors: Mike passed $500 million in tax relief so fire survivors who received settlements for the loss of their homes would no longer have to pay federal taxes on those settlement payments.
+Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources What has Mike Thompson Accomplished?
+DELIVERING RESULTS FOR OUR COMMUNITY $100 Million Recouped for Residents: Mike has helped return more than $100 million from federal agencies to residents of California’s Fourth Congressional District. $500 Million in Tax Relief for Fire Survivors: Mike passed $500 million in tax relief so fire survivors who received settlements for the loss of their homes would no longer have to pay federal taxes on those settlement payments.
 1,564 New Affordable Housing Units: Mike secured $98 million in low-income housing tax credits to help build affordable housing in communities hit hardest by disasters.
-These credits have supported the construction of 1,564 homes in the district, with more currently under construction.
-$1.8+ Billion for Flood Protection: Mike secured over $300 million for critical flood protection in Napa, Sonoma Creek, and elsewhere while also laying the foundation to secure $1.5 billion in state and federal funds for West Sacramento.
-These investments have helped protect lives and property while supporting economic growth and job creation.
-$10 Billion to Help Farmers Recover: Mike authored the law creating the Emergency Relief Program (ERP), formerly known as WHIP+, which secured $10 billion to help farmers recover from wildfires, droughts, and other natural disasters.
-1 Million Acres of Land Preserved: Mike has helped protect more than 1 million acres of public land in California, including through the designation of Berryessa Snow Mountain National Monument.
-$65.4 million in Community Project Funding: Mike works closely with local leaders and stakeholders to identify, develop, and fund projects that strengthen our communities and make our district a better place to live.
+These credits have supported the construction of 1,564 homes in the district, with more currently under construction. $1.8+ Billion for Flood Protection: Mike secured over $300 million for critical flood protection in Napa, Sonoma Creek, and elsewhere while also laying the foundation to secure $1.5 billion in state and federal funds for West Sacramento.
+These investments have helped protect lives and property while supporting economic growth and job creation. $10 Billion to Help Farmers Recover: Mike authored the law creating the Emergency Relief Program (ERP), formerly known as WHIP+, which secured $10 billion to help farmers recover from wildfires, droughts, and other natural disasters.
+1 Million Acres of Land Preserved: Mike has helped protect more than 1 million acres of public land in California, including through the designation of Berryessa Snow Mountain National Monument. $65.4 million in Community Project Funding: Mike works closely with local leaders and stakeholders to identify, develop, and fund projects that strengthen our communities and make our district a better place to live.
 Since Community Project Funding was reinstated in 2021, he has helped deliver more than $65.4 million to communities across our district.
-FIGHTING FOR AFFORDABILITY
-Lowering Costs: Mike is working to make life more affordable for families across California.
+FIGHTING FOR AFFORDABILITY Lowering Costs: Mike is working to make life more affordable for families across California.
 He recently introduced the American Affordability Act, a comprehensive proposal focused on lowering the cost of living.
-The bill would:
-- Make housing more affordable
-- Lower energy and transportation costs
-- Support families and reduce childcare costs
-- Reduce education costs and increase workers' pay
-- Lower healthcare costs
-Increasing Access to Housing: Mike voted to pass the 21st Century ROAD to Housing Act, landmark legislation designed to increase the supply of affordable housing, streamline the construction process, modernize outdated federal housing programs, expand pathways to homeownership, and provide relief for renters.
+The bill would: Make housing more affordable Lower energy and transportation costs Support families and reduce childcare costs Reduce education costs and increase workers' pay Lower healthcare costs Increasing Access to Housing: Mike voted to pass the 21st Century ROAD to Housing Act, landmark legislation designed to increase the supply of affordable housing, streamline the construction process, modernize outdated federal housing programs, expand pathways to homeownership, and provide relief for renters.
 Opposing the Reckless Trade War: Mike has opposed the administration’s trade war, which he says has cost the average California family approximately $1,900 more.
 His Illegal Tariff Refund Act would return money collected through unlawful tariffs directly to American households rather than allowing corporations that raised prices to keep the proceeds.
-STANDING UP FOR VETERANS AND NATIONAL SECURITY
-Strengthening National Security: Mike worked to bring C-17 aircraft to Travis Air Force Base, strengthening regional defense capabilities while supporting jobs in the district.
+STANDING UP FOR VETERANS AND NATIONAL SECURITY Strengthening National Security: Mike worked to bring C-17 aircraft to Travis Air Force Base, strengthening regional defense capabilities while supporting jobs in the district.
 He also secured funding for a new air traffic control tower and a new facility to house the Travis Air Force Base band.
 Helping and Honoring Veterans: Mike voted to pass the PACT Act, which was the largest expansion of veterans' benefits in a generation.
 He also proudly voted for the COMPACT Act, which expanded crisis care for veterans at risk of suicide.
 Mike was responsible for bringing a new VA outpatient clinic to Lake County, giving local veterans greater access to care without requiring long-distance travel.
 He also passed legislation directing the VA to repair and maintain the historic Mare Island Veterans Cemetery.
 Mike successfully fought to declassify records documenting the Department of Defense's testing of chemical weapons on servicemembers during the Vietnam War as part of the secret Project SHAD program.
-PROTECTING FAMILIES AND COMMUNITIES
-Preventing Gun Violence: As Chair of the Gun Violence Prevention Task Force, Mike helped develop and pass the most significant federal gun violence prevention legislation signed into law in decades.
+PROTECTING FAMILIES AND COMMUNITIES Preventing Gun Violence: As Chair of the Gun Violence Prevention Task Force, Mike helped develop and pass the most significant federal gun violence prevention legislation signed into law in decades.
 The law helps keep firearms out of the hands of domestic abusers and strengthens efforts to combat illegal gun trafficking.
 Addressing Violent Crime: As a California State Senator, Mike introduced and passed legislation allowing law enforcement agencies to share information about parolees, violent criminals, habitual sexual offenders, and registered sex offenders.
 Expanding Telehealth Access: Mike authored and passed legislation expanding telehealth access for Medicare patients during the COVID-19 pandemic.
 He subsequently led efforts to preserve critical telehealth services beyond the pandemic.
-FIGHTING FOR CALIFORNIA'S ECONOMY & ENVIRONMENT
-Fighting Climate Change: Mike wrote and helped enact the largest investment in combating climate change in U.S. history.
+FIGHTING FOR CALIFORNIA'S ECONOMY & ENVIRONMENT Fighting Climate Change: Mike wrote and helped enact the largest investment in combating climate change in U.S. history.
 The landmark renewable energy policies he authored have helped drive down energy costs while generating an estimated $400 billion in U.S. investment and supporting 400,000 jobs.
 Protecting Our Fishing Economy: Following a massive fish kill in the Klamath River that killed approximately 80,000 spawning salmon amid disputes over water diversions and federal management, Mike brought national attention to the issue by delivering 500 pounds of dead salmon to the steps of the U.S.
 Department of the Interior.
@@ -45,3 +32,4 @@ Supporting Agriculture: Mike secured funding for UC Davis research into smoke ex
 When the program was later eliminated, Mike successfully fought to restore its funding and bring the researchers back.
 Mike also secured $9 million in aid for peach growers in Yuba and Sutter counties after the closure of the Del Monte facility.
 Supporting Endangered Species: Mike wrote and enacted tax legislation that compensates farmers who adopt land-management practices that support endangered species conservation.
+Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

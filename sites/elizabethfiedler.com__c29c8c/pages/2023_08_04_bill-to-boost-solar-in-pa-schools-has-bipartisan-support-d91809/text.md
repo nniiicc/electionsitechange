@@ -1,9 +1,8 @@
-August 4, 2023
-A proposal in the state legislature would help boost renewables in Pennsylvania by easing the process for schools to install solar panels.
+Skip to content Elizabeth Fiedler Representative, House District 184 Primary Menu Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Bill to boost solar in Pa. schools has bipartisan support Posted on August 4, 2023 December 21, 2023 by Sarah Bishop-Stone August 4, 2023 A proposal in the state legislature would help boost renewables in Pennsylvania by easing the process for schools to install solar panels.
 The Solar for Schools bill passed the House in June with a bipartisan vote of 134-69 and is now waiting for a vote in the Senate.
 The initiative would give the Department of Community and Economic Development the ability to set up a grant program for schools to apply for federal climate money to cover up to half the cost of installing solar.
 The state would provide technical support to help navigate the process.
 The bill’s sponsor, Rep.
 Elizabeth Fiedler (D-Philadelphia), said schools are facing high energy bills and few administrators have the bandwidth to navigate a solar energy contract.
-Read more here:
-https://www.pahouse.com/Fiedler/InTheNews/NewsRelease/?id=131961
+Read more here: https://www.pahouse.com/Fiedler/InTheNews/NewsRelease/?id=131961 Posted in News , Uncategorized Post navigation Solar energy grant program for Pa. school districts gets bipartisan support in state House Doctors in Pa. can’t perform pelvic exams without consent, new law says Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Connect with us Facebook Twitter Instagram YouTube Mail Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Paid for by: Friends of Elizabeth Fiedler Powered by Tech for Campaigns

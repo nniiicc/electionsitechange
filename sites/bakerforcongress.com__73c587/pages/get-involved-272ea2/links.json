@@ -1,17 +1,66 @@
 [
-"https://bakerforcongress.com/",
-"https://bakerforcongress.com/about-ethan",
-"https://bakerforcongress.com/announcement-video",
-"https://bakerforcongress.com/cart",
-"https://bakerforcongress.com/disclaimer",
-"https://bakerforcongress.com/get-involved",
-"https://bakerforcongress.com/issues",
-"https://bakerforcongress.com/mediareleases",
-"https://bakerforcongress.com/privacy-policy",
-"https://bakerforcongress.com/terms-of-service",
-"https://bakerforcongress.com/why-im-running",
-"https://facebook.com/EthanBakerMI",
-"https://instagram.com/EthanBakerMI",
-"https://secure.anedot.com/baker-for-congress/donate",
-"https://x.com/EthanBakerMI"
+{
+"text": "0",
+"href": "https://www.bakerforcongress.com/cart"
+},
+{
+"text": "About Ethan",
+"href": "https://www.bakerforcongress.com/about-ethan"
+},
+{
+"text": "Announcement Video",
+"href": "https://www.bakerforcongress.com/announcement-video"
+},
+{
+"text": "Disclaimer",
+"href": "https://www.bakerforcongress.com/disclaimer"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/baker-for-congress/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bakerforcongress.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.bakerforcongress.com/issues"
+},
+{
+"text": "Media Releases",
+"href": "https://www.bakerforcongress.com/mediareleases"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bakerforcongress.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.bakerforcongress.com/terms-of-service"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.bakerforcongress.com/why-im-running"
+},
+{
+"text": "[image: Baker for Congress]",
+"href": "https://www.bakerforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EthanBakerMI"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/EthanBakerMI"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/EthanBakerMI"
+},
+{
+"text": "contact@BakerForCongress.com",
+"href": "mailto:contact@BakerForCongress.com"
+}
 ]

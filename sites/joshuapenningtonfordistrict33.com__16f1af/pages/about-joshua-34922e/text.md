@@ -1,6 +1,4 @@
-About Joshua:
-A Candidate for the Community
-Joshua Pennington has lived in District 33 for most of his life.
+top of page Donate using Act Blue About the Campaign About Joshua Contact and Donate Endorsements About Joshua: A Candidate for the Community Joshua Pennington has lived in District 33 for most of his life.
 As a child he grew up in Bowers where his family has served as part of the Bowers Volunteer Fire Company for several years, and himself served as a cadet in the company during his youth.
 In his later years he moved to Harrington and began working, so that he could explore different vocational opportunities.
 His proffesional experience includes work with Dover ILC, Child Nutritional Work for the Caesar Rodney School District, and several other vocations.
@@ -19,3 +17,7 @@ He will be an advocate for working across the aisle, listen to voter concerns, a
 A vote for Joshua is not just a vote for a single candidate.
 It is a vote for yourself, your neighbor, and your community.
 Together, Joshua we can work to bring the 33rd District to a brighter future.
+Are you registered to vote?
+Click here to register!
+Not sure if you live in RD 33?
+Check with the Dept of Elections here , for available district mapping ​ ​ ​ Privacy Policy Accessibility Statement © # by Committee for Joshua Pennington for District 33 and secured by Wix bottom of page

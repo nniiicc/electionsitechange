@@ -1,17 +1,8 @@
-Press Release: Representative Greg Smith Comments on Quarterly Revenue Forecast
-FOR IMMEDIATE RELEASE:
-August 30, 2023
-Representative Greg Smith Comments on Quarterly Revenue Forecast
-SALEM, Ore. – Representative Greg Smith (R-Heppner) released the following statement in response to the Office of Economic Analysis’s September Economic and Revenue Forecast announced today:
-“Today’s revenue forecast continues the upward trend of previous forecasts; however, while inflation is slowing, the effects of it are still being felt by Oregonians.
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Press Release: Representative Greg Smith Comments on Quarterly Revenue Forecast August 30, 2023 / in News FOR IMMEDIATE RELEASE : August 30, 2023 Representative Greg Smith Comments on Quarterly Revenue Forecast SALEM, Ore. – Rep resentative Greg Smith (R-Heppner) release d the following statement in response to the Office of Economic Analysis’s September Economic and Revenue Forecast announced today: “Today’s revenue forecast continues the upward trend of previous forecasts ; however, while inflation is slowing, the effects of it are still being felt by Oregonians .
 Given this, fiscal prudence is paramount when managing Oregon’s finances and balancing the budget.
-The legislature must take a balanced approach by prioritizing investments in critical programs and infrastructure projects.”
-Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4th longest serving State Representative in Oregon History.
-He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
+The legislature must take a balanced approach by prioritizing investments in critical programs and infrastructure projects.” Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4 th longest serving State Representative in Oregon History .
+He holds a gavel as t he Co-Chai r of the Joint Ways and Means Subcommittee on General Government.
 Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
-Additionally, he is the ranking member on the House Revenue Committee.
-To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov
-###
-CONTACT INFORMATION:
-Representative Greg Smith
-541-993-5236
+Additional ly, he is the ranking member on the House Revenue Committee.
+To reach out, please visit Rep Smith’s Facebook Page or send him a n email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2023-08-30 12:25:32 2024-03-12 10:03:21 Press Release: Representative Greg Smith Comments on Quarterly Revenue Forecast July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

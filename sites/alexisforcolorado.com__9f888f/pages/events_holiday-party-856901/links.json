@@ -1,21 +1,86 @@
 [
-"http://bsky.app/profile/alexisforcolorado.bsky.social",
-"http://google.com/calendar/event?action=TEMPLATE&text=Holiday+Party&dates=20251205T003000Z%2F20251205T030000Z&location=9505+West+44th+Avenue%2C+Wheat+Ridge%2C+CO%2C+80033%2C+United+States",
-"http://instagram.com/alexisforcolorado",
-"http://maps.google.com/?q=9505+West+44th+Avenue+Wheat+Ridge%2C+CO%2C+80033+United+States",
-"https://alexisforcolorado.com/",
-"https://alexisforcolorado.com/cart",
-"https://alexisforcolorado.com/endorsements",
-"https://alexisforcolorado.com/events",
-"https://alexisforcolorado.com/events/community-canvass",
-"https://alexisforcolorado.com/events/holiday-party?format=ical",
-"https://alexisforcolorado.com/events/meet-greet-with-dr-alexis",
-"https://alexisforcolorado.com/media",
-"https://alexisforcolorado.com/voterguide",
-"https://coleg.maps.arcgis.com/apps/instant/basic/index.html?appid=29d34884cf8c4bcc9b2fd6fa8ef168d2",
-"https://facebook.com/profile.php?id=61575273157265",
-"https://meganhelseth.com/",
-"https://secure.actblue.com/donate/alexisforcolorado",
-"https://secure.actblue.com/donate/alexisforcolorado?recurring=true",
-"https://sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=9505+west+44th+avenue+wheat+ridge%2C+co%2C+80033+united+states"
+},
+{
+"text": "0",
+"href": "https://www.alexisforcolorado.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.alexisforcolorado.com/events"
+},
+{
+"text": "Contact Alexis",
+"href": "mailto:alexisforcolorado@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/alexisforcolorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexisforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.alexisforcolorado.com/events"
+},
+{
+"text": "GIVE MONTHLY",
+"href": "https://secure.actblue.com/donate/alexisforcolorado?recurring=true"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Holiday+Party&dates=20251205T003000Z%2F20251205T030000Z&location=9505+West+44th+Avenue%2C+Wheat+Ridge%2C+CO%2C+80033%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.alexisforcolorado.com/events/holiday-party?format=ical"
+},
+{
+"text": "MHW Consulting, L.L.C.",
+"href": "https://meganhelseth.com"
+},
+{
+"text": "Map of District 23",
+"href": "https://coleg.maps.arcgis.com/apps/instant/basic/index.html?appid=29d34884cf8c4bcc9b2fd6fa8ef168d2"
+},
+{
+"text": "Media",
+"href": "https://www.alexisforcolorado.com/media"
+},
+{
+"text": "Next Next February 7 Community Canvass",
+"href": "https://www.alexisforcolorado.com/events/community-canvass"
+},
+{
+"text": "Previous Previous November 23 Meet & Greet with Dr. Alexis",
+"href": "https://www.alexisforcolorado.com/events/meet-greet-with-dr-alexis"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+},
+{
+"text": "Voting Guide",
+"href": "https://www.alexisforcolorado.com/voterguide"
+},
+{
+"text": "[image: Alexis for Colorado]",
+"href": "https://www.alexisforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "http://bsky.app/profile/alexisforcolorado.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/alexisforcolorado"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575273157265"
+}
 ]

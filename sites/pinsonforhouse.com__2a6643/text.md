@@ -1,26 +1,27 @@
-I am 40 years old and reside just outside Point Pleasant.
+Commitment Honesty Integrity Commitment Honesty Integrity Commitment Honesty Integrity Commitment Honesty Integrity Home Service and Leadership Donation Questions Donate Contact Us More Home Service and Leadership Donation Questions Donate Contact Us Commitment Honesty Integrity Commitment Honesty Integrity Commitment Honesty Integrity Commitment Honesty Integrity Home Service and Leadership Donation Questions Donate Contact Us Follow the Campaign Jonathan Adam Pinson About Jonathan I am 40 years old and reside just outside Point Pleasant.
 First and foremost, I am a Christian.
 I also get to be a husband, father, pastor and hobby farmer.
 I am a graduate of Ravenswood High School and WVU of Parkersburg.
 I will stand with conservatives for West Virginia.
-I have a desire to stand up for faith and families all across our community.
+The Platform Pro-Faith I have a desire to stand up for faith and families all across our community.
 As a citizen and as a Pastor, I cannot stand by and allow individuals to harm family values and erode religious liberties and fail to act.
 Freedom to worship and freedom to teach and preach God's Holy Word without censorship from any group, party, or man made laws must always remain.
-I stand against abortion.
+Pro-Life I stand against abortion.
 I believe the unborn have the right to life.
 However, WV women (18yrs+) should have access to reduced cost or free birth control to prevent pregnancy.
 Abortion is not the answer.
 Our pregnancy resource centers must remain open with added locations.
-I have been married to my wife, Amy, for 16 years.
+Pro-Family I have been married to my wife, Amy, for 16 years.
 We have 8 children, biological and adopted, and are an open foster home.
-I believe in the right to own and to bear arms for the safety of our homes, our state and our nation.
-I am grateful for the many successful small businesses within our state.
+Pro-Second Amendment I believe in the right to own and to bear arms for the safety of our homes, our state and our nation.
+Pro Business and Economy I am grateful for the many successful small businesses within our state.
 Business owners and entrepreneurs will always have my respect and support.
 I believe in self reliance.
 West Virginians are known for our work ethic.
 Our state and our workforce should draw businesses and corporations of every size, and we are!
 For example, Nucor and Frontieras coming to Mason County as well as Timet in Jackson County as evidence.
 Big, exciting developments to help the growth of our state economy are happening in both Mason & Jackson Counties.
+Why Politics?
 I have served people on a city and then county level since I was 19 years old.
 I spent 7 years as a police officer.
 First for the city of Ripley, then Ravenswood, and eventually the Jackson County Sheriff’s Department.
@@ -36,3 +37,5 @@ It would be an honor to continue to serve which is why I am again seeking re-ele
 Follow my campaign Facebook page for legislative session updates and to see what bills I am working on.
 Let’s not lose momentum!
 Vote Pinson!
+Pinson for House 631 Bethel Rd Point Pleasant, WV 25550 304-531-5293 Copyright © # Paid for by the Candidate - All Rights Reserved.
+Powered by

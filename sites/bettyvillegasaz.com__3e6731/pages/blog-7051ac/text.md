@@ -1,3 +1,3 @@
-The PCCLT Richard Elias Housing Champion Award It was a deep honor to receive this award and to be recognized alongside my friend Liz Morales, Assistant City Manager for the City of Tucson, and corporate awardee WaFd Bank in South Tucson, represented by Manager Deanna Quihada and Vice President Kim Dees.
+top of page Villegas for AZ ABOUT BETTY Media Blog ABOUT LD 20 OUR ISSUES RE-ELECT BETTY CONTACT Betty's Blog All Posts Full Circle Moments in the Work of Housing and Community The PCCLT Richard Elias Housing Champion Award It was a deep honor to receive this award and to be recognized alongside my friend Liz Morales, Assistant City Manager for the City of Tucson, and corporate awardee WaFd Bank in South Tucson, represented by Manager Deanna Quihada and Vice President Kim Dees.
 This recognition was especially meaningful to me because it brought together so many parts of my personal and professional journey in one moment.
-What many people may not kn
+What many people may not kn Betty Villegas Mar 29 2 min read PAID FOR BY Betty Villegas for Arizona Authorized by Betty Villegas. ​ Privacy Policy Terms and Conditions Register to VOTE bottom of page

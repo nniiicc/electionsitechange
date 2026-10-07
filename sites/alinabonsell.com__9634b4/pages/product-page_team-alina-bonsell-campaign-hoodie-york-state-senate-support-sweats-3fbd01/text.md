@@ -1,20 +1,7 @@
-Campaign Hoodie — "Team Alina Bonsell" Political Support Sweatshirt
-$55.00Price
-A cozy, purpose-driven hoodie that carries a clear community message.
+top of page HOME MEET ALINA 8-POINT PLAN EVENTS NEWS CONTACT MERCH FOLLOW US GET INVOLVED DONATE Campaign Hoodie — "Team Alina Bonsell" Political Support Sweatshirt $55.00 Price Size * S M L XL 2XL Color * Irish Green Quantity * Add to Cart Buy Now A cozy, purpose-driven hoodie that carries a clear community message.
 Soft yet sturdy, it wraps you in warmth while showing support for a local campaign.
 The front keeps things simple and personal with a handwritten-name style script beneath a small team label.
 The back presents bold, readable messaging and campaign details in layered typography — a design meant to be seen on neighborhood walks, volunteer shifts, and weekend rallies.
 Wear it when you're canvassing, chatting on porches, or grabbing coffee between shifts.
 The roomy pouch and double-lined hood make it practical for long days outdoors; the no-seam construction and quality blend keep the silhouette clean and easy to move in.
-Product features
-- 50/50 cotton-poly blend for warmth and print-friendly surface
-- Tubular (no side seams) knit for cleaner look and reduced waste
-- Drawstring double-lined hood and kangaroo pouch pocket for comfort
-- DTF and DTG printing options plus available embroidery placements
-- Medium-heavy 8 oz fabric weight with tear-away label and OEKO-TEX® certified dyes
-Care instructions
-- Tumble dry: medium
-- Iron, steam or dry: low heat
-- Do not dryclean
-- Machine wash: cold (max 30C or 90F)
-- Non-chlorine: bleach as needed
+Product features - 50/50 cotton-poly blend for warmth and print-friendly surface - Tubular (no side seams) knit for cleaner look and reduced waste - Drawstring double-lined hood and kangaroo pouch pocket for comfort - DTF and DTG printing options plus available embroidery placements - Medium-heavy 8 oz fabric weight with tear-away label and OEKO-TEX® certified dyes Care instructions - Tumble dry: medium - Iron, steam or dry: low heat - Do not dryclean - Machine wash: cold (max 30C or 90F) - Non-chlorine: bleach as needed CONTACT info@alinabonsell.com 917-819-2636 PAID FOR BY ALINA FOR NY 2026 FIGHT FOR NY DONATE FOLLOW US bottom of page

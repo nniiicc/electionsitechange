@@ -1,7 +1,26 @@
 [
-"https://facebook.com/share/1A7B5KBYxN?mibextid=wwXIfr",
-"https://secure.winred.com/steve-baker-for-missouri/donate-today",
-"https://stevebakerformissouri.com/",
-"https://stevebakerformissouri.com/cart",
-"https://stevebakerformissouri.com/contact"
+{
+"text": "0",
+"href": "https://www.stevebakerformissouri.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.stevebakerformissouri.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/steve-baker-for-missouri/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.stevebakerformissouri.com/"
+},
+{
+"text": "Steve Baker for Missouri",
+"href": "https://www.stevebakerformissouri.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1A7B5KBYxN/?mibextid=wwXIfr"
+}
 ]

@@ -1,15 +1,66 @@
 [
-"https://bsky.app/profile/jennaarsenault.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/jennaarsenaultforsc",
-"https://instagram.com/jennaarsenaultforsc",
-"https://jennasc.com/",
-"https://jennasc.com/about",
-"https://jennasc.com/contact",
-"https://jennasc.com/district-112",
-"https://jennasc.com/events",
-"https://jennasc.com/issues",
-"https://jennasc.com/privacy-policy",
-"https://jennasc.com/volunteer",
-"https://secure.actblue.com/donate/ja112website"
+{
+"text": "Contact",
+"href": "https://www.jennasc.com/contact"
+},
+{
+"text": "District 112",
+"href": "https://www.jennasc.com/district-112"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ja112website"
+},
+{
+"text": "Events",
+"href": "https://www.jennasc.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.jennasc.com/"
+},
+{
+"text": "Meet Jenna",
+"href": "https://www.jennasc.com/about"
+},
+{
+"text": "Priorities",
+"href": "https://www.jennasc.com/issues"
+},
+{
+"text": "Privacy Policy and Messaging Terms and Conditions",
+"href": "https://www.jennasc.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jennasc.com/volunteer"
+},
+{
+"text": "[image: Jenna Arsenault for South Carolina House District 112]",
+"href": "https://www.jennasc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jennaarsenault.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/jennaarsenaultforsc"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/jennaarsenaultforsc"
+},
+{
+"text": "info@JennaSC.com",
+"href": "mailto:info@JennaSC.com"
+},
+{
+"text": "jenna@jennasc.com",
+"href": "mailto:jenna@jennasc.com"
+}
 ]

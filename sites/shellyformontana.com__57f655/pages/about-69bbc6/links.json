@@ -1,7 +1,38 @@
 [
-"https://secure.actblue.com/donate/shelly-fyant-1",
-"https://shellyformontana.com/",
-"https://shellyformontana.com/about",
-"https://shellyformontana.com/issues",
-"https://shellyformontana.com/support"
+{
+"text": "(406) 546-5633",
+"href": "tel:+14065465633"
+},
+{
+"text": "About",
+"href": "https://shellyformontana.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shelly-fyant-1"
+},
+{
+"text": "Home",
+"href": "https://shellyformontana.com/"
+},
+{
+"text": "Issues",
+"href": "https://shellyformontana.com/issues/"
+},
+{
+"text": "Support",
+"href": "https://shellyformontana.com/support/"
+},
+{
+"text": "Volunteer",
+"href": "https://shellyformontana.com/support/"
+},
+{
+"text": "[image]",
+"href": "https://shellyformontana.com/"
+},
+{
+"text": "shellyformontana@gmail.com",
+"href": "mailto:shellyformontana@gmail.com"
+}
 ]

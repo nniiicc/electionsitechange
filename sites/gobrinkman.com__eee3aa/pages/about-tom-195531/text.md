@@ -1,14 +1,11 @@
-Tom Brinkman was a member of the Ohio House of Representative for four 2-year terms from 2001 to 2008, when he retired due to constitutionally mandated term limits.
+Skip to primary content Go Brinkman Go Brinkman!
+Search Main menu Home About Tom Accomplishments Contact Us Contribute CountMeIn Economic and Personal Liberty Endorsements Home Issues Join Us Neighborhoods Neighborhoods Old Pro Life Legislation Request Vote by Mail Application What’s New About Tom [ld_fancy_heading tag=”h2″ use_custom_fonts_title=”true” enable_fit=”true” compressor=”0.5″ maxfontsize=”40″ fs=”40px” lh=”1.25em”]Legislative Experience[/ld_fancy_heading][ld_spacer height=”22px”] Tom Brinkman was a member of the Ohio House of Representative for four 2-year terms from 2001 to 2008, when he retired due to constitutionally mandated term limits.
 During his tenure he maintained a perfect attendance record over eight years and served as Chairman of the House Committee of Commerce and Labor where he crafted House Bill 100, which was part of a one – two punch that turned the corrupt Ohio Bureau of Worker’s Compensation back from the brink of insolvency.
 Other legislative accomplishments included the reform of Ohio’s adoption system and forcing state government into the 21st century with the Transparency and Accountability Act.
 Known by many of his constituents and supporters as the “Tax Killer” for never voting for a tax increase, he has also led the charge to reduce the size of government, expand individual liberty, and has a 100 percent pro-life voting record.
-Furthermore, Tom has won every one-on-one state representative election in which he has competed.
-Tom is a graduate of George Washington University in Washington, D.C.
-(1979) with a Bachelor of Arts degree in History and Political Science.
-— Mt.
-Lookout Civic Club Man of the Year 2008
-— Watchdog of the Treasury Award (three times)
-— Most Principled legislator (Voted Most Principled Legislator in the Ohio House three times.)
-Tom and his wife Cathy live in the Cincinnati neighborhood of Mt.
+Furthermore, Tom has won every one-on-one state representative election in which he has competed. [ld_images_group_container][ld_images_group_element enable_effects=”yes” parallax=”yes” enable_reveal=”yes” scale_from_x=”1″ scale_from_y=”1″ scale_from_z=”1″ from_opacity=”1″ scale_to_x=”1″ scale_to_y=”1″ scale_to_z=”1″ to_opacity=”1″ image=”7034″ translate_from_y=”0″ translate_to_y=”-95″ rotate_to_y=”0″][/ld_images_group_element][/ld_images_group_container] [ld_fancy_heading tag=”h2″ alignment=”text-center” transform=”text-uppercase” ca_init_scale_x=”1″ ca_init_scale_y=”1″ ca_init_scale_z=”1″ ca_init_opacity=”1″ ca_an_scale_x=”1″ ca_an_scale_y=”1″ ca_an_scale_z=”1″ ca_an_opacity=”1″ use_custom_fonts_title=”true” enable_split=”true” use_mask=”true” fs=”35px” lh=”1.1em” duration=”1200″ delay=”160″ ca_init_translate_y=”91″] Meet – TOM BRINKMAN [/ld_fancy_heading] [ld_fancy_heading tag=”h2″ use_custom_fonts_title=”true” enable_fit=”true” compressor=”0.5″ maxfontsize=”40″ fs=”40px” lh=”1.25em”]Education[/ld_fancy_heading] Tom is a graduate of George Washington University in Washington, D.C.
+(1979) with a Bachelor of Arts degree in History and Political Science. [ld_fancy_heading tag=”h2″ use_custom_fonts_title=”true” enable_fit=”true” compressor=”0.5″ maxfontsize=”40″ fs=”40px” lh=”1.25em”]Awards[/ld_fancy_heading] — Mt.
+Lookout Civic Club Man of the Year 2008 — Watchdog of the Treasury Award (three times) — Most Principled legislator (Voted Most Principled Legislator in the Ohio House three times.) [ld_fancy_heading tag=”h2″ use_custom_fonts_title=”true” enable_fit=”true” compressor=”0.5″ maxfontsize=”40″ fs=”40px” lh=”1.25em”]Family[/ld_fancy_heading] Tom and his wife Cathy live in the Cincinnati neighborhood of Mt.
 Lookout, where they raised their 6 children.
 They enjoy spending time with their seven grandchildren.
+Proudly powered by WordPress nhentai footjob 無料 エッチ 動画 porno por categorias porno

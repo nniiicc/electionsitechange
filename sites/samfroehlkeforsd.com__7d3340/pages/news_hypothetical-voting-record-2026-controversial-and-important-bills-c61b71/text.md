@@ -1,4 +1,4 @@
-Let’s start with the bills particularly controversial to District 4.
+Meet Sam Platform Yard Signs and Highway Signs News and Articles News and Articles / Hypothetical voting record 2026 (Controversial and important bills) 13 Jun Saturday, 8:55 PM · 2026 Hypothetical voting record 2026 (Controversial and important bills) Let’s start with the bills particularly controversial to District 4.
 I will preface these two bills with my opinion on JR 7-7.
 The intent behind “smoking out” a bill is to force a floor vote on a bill which failed in committee.
 There is, as far as I can tell, only one occasion on which a smoke out would be reasonable.
@@ -101,9 +101,8 @@ HB1056 - An Act to require that the Department of Social Services submit a feder
 Yea – My biggest issue here is not the bill itself; I agree on the intention.
 But how on earth does it cost us a quarter million dollars to do it?
 The fiscal note indicates an estimated cost of ~$250,000 in FY2028, as well as over $80,000 for another FTE, and unspecified other expenses to be absorbed into the existing budget.
-I understand the need for enforcement requires an employee to verify compliance, but the fiscal note only describes the larger sum as such: “Other states, like Nebraska and Iowa, have used contracted vendors to meet reporting obligations.
-A contract to meet reporting obligations could cost $250,000 per year based on similar existing contracts made by other states.”
-I would very much like more explanation of what those reporting obligations are, and why they cost this much.
+I understand the need for enforcement requires an employee to verify compliance, but the fiscal note only describes the larger sum as such: “ Other states, like Nebraska and Iowa, have used contracted vendors to meet reporting obligations.
+A contract to meet reporting obligations could cost $250,000 per year based on similar existing contracts made by other states .” I would very much like more explanation of what those reporting obligations are, and why they cost this much.
 But the intended consequences of the bill are still important, and I would have to vote to pass it.
 Our health and obesity crisis is bad enough without SNAP paying people to eat unhealthily.
 SB85 - An Act to require an election for an excess tax levy of a school district.
@@ -201,3 +200,4 @@ Yes, the government today is like a modern pickup.
 Huge, less functional than it used to be, frequently breaking, and insanely overpriced.
 But the process to convert it into the 45 year old Datsun it needs to be is grueling, complicated, and takes a long, long time.
 Just hacking off a wheel, because that way it’s smaller, accomplishes nothing and loses the time and political capital that could have been better spent elsewhere.
+Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

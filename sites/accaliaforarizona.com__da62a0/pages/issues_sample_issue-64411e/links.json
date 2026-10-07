@@ -1,19 +1,74 @@
 [
-"https://accaliaforarizona.com/",
-"https://accaliaforarizona.com/contact",
-"https://accaliaforarizona.com/contribute",
-"https://accaliaforarizona.com/events",
-"https://accaliaforarizona.com/home",
-"https://accaliaforarizona.com/issues",
-"https://accaliaforarizona.com/issues/public-education",
-"https://accaliaforarizona.com/make-endorsement",
-"https://accaliaforarizona.com/meet_jayme",
-"https://accaliaforarizona.com/photos",
-"https://accaliaforarizona.com/view-endorsements",
-"https://accaliaforarizona.com/volunteer",
-"https://accaliaforarizona.com/vote",
-"https://accaliaforarizona.com/yard-sign",
-"https://campaignpartner.com/",
-"https://facebook.com/AccaliaforAZLD15",
-"https://instagram.com/accalia.for.azld15"
+{
+"text": "Contact",
+"href": "https://www.accaliaforarizona.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.accaliaforarizona.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.accaliaforarizona.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.accaliaforarizona.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.accaliaforarizona.com/"
+},
+{
+"text": "Home",
+"href": "https://www.accaliaforarizona.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.accaliaforarizona.com/issues"
+},
+{
+"text": "Make Endorsement",
+"href": "https://www.accaliaforarizona.com/make-endorsement"
+},
+{
+"text": "Meet Jayme",
+"href": "https://www.accaliaforarizona.com/meet_jayme"
+},
+{
+"text": "Next: Public Education »",
+"href": "https://www.accaliaforarizona.com/issues/public-education"
+},
+{
+"text": "Photos",
+"href": "https://www.accaliaforarizona.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.accaliaforarizona.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.accaliaforarizona.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.accaliaforarizona.com/yard-sign"
+},
+{
+"text": "[image: Accalia For Arizona Logo, State outline with farm and cactus graphic inside]",
+"href": "https://www.accaliaforarizona.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AccaliaforAZLD15/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/accalia.for.azld15/"
+}
 ]

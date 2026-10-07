@@ -1,12 +1,50 @@
 [
-"https://dolanforvthouse.com/",
-"https://dolanforvthouse.com/about-karen",
-"https://dolanforvthouse.com/contact-karen",
-"https://dolanforvthouse.com/get-involved",
-"https://dolanforvthouse.com/news",
-"https://dolanforvthouse.com/priorities",
-"https://dolanforvthouse.com/voter-information",
-"https://facebook.com/Karen-Dolan-for-Vermont-House-108367920718252",
-"https://instagram.com/karendolanforvt",
-"https://mvp.vermont.gov/"
+{
+"text": "About Karen",
+"href": "https://www.dolanforvthouse.com/about-karen"
+},
+{
+"text": "Contact Karen",
+"href": "https://www.dolanforvthouse.com/contact-karen"
+},
+{
+"text": "Get Involved",
+"href": "https://www.dolanforvthouse.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.dolanforvthouse.com/voter-information"
+},
+{
+"text": "News",
+"href": "https://www.dolanforvthouse.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.dolanforvthouse.com/priorities"
+},
+{
+"text": "Voter Information",
+"href": "https://www.dolanforvthouse.com/voter-information"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/karendolanforvt/"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/Karen-Dolan-for-Vermont-House-108367920718252/"
+},
+{
+"text": "[image: logo.png]",
+"href": "https://www.dolanforvthouse.com"
+},
+{
+"text": "https://mvp.vermont.gov/",
+"href": "https://mvp.vermont.gov/"
+},
+{
+"text": "karen@dolanforvthouse.com",
+"href": "mailto:karen@dolanforvthouse.com"
+}
 ]

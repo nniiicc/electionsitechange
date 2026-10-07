@@ -1,10 +1,2 @@
-Skip to content
-Contribute TODAY To Support Brian Wrightson For PA Senate District 40
-Facebook
-Instagram
-X
-MEET BRIAN
-EVENTS
-ENDORSEMENTS
-WHERE I STAND
-Proud to Have Earned These Endorsements:
+Skip to content Contribute TODAY To Support Brian Wrightson For PA Senate District 40 Facebook Instagram X MEET BRIAN EVENTS ENDORSEMENTS WHERE I STAND Proud to Have Earned These Endorsements: Chip In TODAY!
+To Elect Brian to the PA Senate $10 $25 $50 $75 $100 $250 $500 $1000 $2500 CONTRIBUTIONS By Mail – Make Check Out To: FRIENDS OF BRIAN WRIGHTSON – PO BOX 422 – HONESDALE PA 18431 Contact Us volunteer@wrightsonforsenate.com Facebook Instagram X PAID FOR BY FRIENDS OF BRIAN WRIGHTSON Friends of Brian Wrightson – PO BOX 422 – HONESDALE PA 18431 Scroll to Top Text / Communication Opt Out Policy

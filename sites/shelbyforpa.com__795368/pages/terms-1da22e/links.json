@@ -1,11 +1,42 @@
 [
-"https://facebook.com/ShelbyforPA",
-"https://secure.anedot.com/friends-of-shelby-labs/donate",
-"https://shelbyforpa.com/",
-"https://shelbyforpa.com/about",
-"https://shelbyforpa.com/cdn-cgi/l/email-protection",
-"https://shelbyforpa.com/priorities",
-"https://shelbyforpa.com/privacy",
-"https://shelbyforpa.com/terms",
-"https://shelbyforpa.com/volunteer"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-shelby-labs/donate"
+},
+{
+"text": "Home",
+"href": "https://www.shelbyforpa.com/"
+},
+{
+"text": "Meet Shelby",
+"href": "https://www.shelbyforpa.com/about/"
+},
+{
+"text": "Priorities",
+"href": "https://www.shelbyforpa.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.shelbyforpa.com/privacy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.shelbyforpa.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.shelbyforpa.com/volunteer/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@shelbyforpa.com"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/ShelbyforPA"
+},
+{
+"text": "[image]",
+"href": "https://www.shelbyforpa.com/"
+}
 ]

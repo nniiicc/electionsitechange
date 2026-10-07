@@ -1,5 +1,5 @@
-Get Campaign Updates
-Stay up-to-date on our campaign and the issues and candidates we support!
-The district
-The 23rd Assembly District includes the Milwaukee County communities of Whitefish Bay, Fox Point, Bayside, Brown Deer, and River Hills and the Ozaukee County communities of Thiensville and half of Mequon.
+0 Skip to Content Meet Deb About Deb Awards and Endorsements Support Deb Events Yard Sign Request Make a Contribution Open Menu Close Menu Open Menu Close Menu Make a Contribution Meet Deb About Deb Awards and Endorsements Support Deb Events Yard Sign Request Folder: Meet Deb Back About Deb Awards and Endorsements Folder: Support Deb Back Events Yard Sign Request Make a Contribution Learn more about Deb Get Campaign Updates Stay up-to-date on our campaign and the issues and candidates we support!
+Sign up here The district The 23rd Assembly District includes the Milwaukee County communities of Whitefish Bay, Fox Point, Bayside, Brown Deer, and River Hills and the Ozaukee County communities of Thiensville and half of Mequon.
 Not sure if you’re in the district?
+Find your legislators Click the map above to view the 23rd district in detail on the Legislature’s web page. info@debforwi.com 414-485-5284 4230 N.
+Oakland Ave, PMB #283 Shorewood, WI 53211 Donate Paid for by Friends of Deb Andraca

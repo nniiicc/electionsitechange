@@ -1,3 +1,6 @@
-A job in the free market economy is the best social program.
+Skip to content Havis For Senate Menu Close Donate Testimonials Issues News Events Open menu Lincoln Day Dinner with Cong.
+Jim Jordan Contact Us Open menu Join the team Free Market Solutions A job in the free market economy is the best social program.
 The state can therefore best address the needs of the economically disadvantaged by support for job growth and opportunities for employment in the free market economy.
 In this purpose, reducing taxes and lifting government restrictions on entry-level employment is important to enable progress towards eventual self-sustaining gainful employment for all instead of perpetual government dependency.
+Published May 19, 2022 By Lee Havis Categorized as issues Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Δ Post navigation Previous post Lower Taxes Next post Controlling Electricity Bills Archives Select Month August 2026 July 2026 May 2026 April 2026 October 2022 September 2022 August 2022 May 2022 December 2018 October 2018 September 2018 August 2018 July 2018 June 2018 April 2018 March 2018 January 2018 September 2017 July 2017 Search Search X Facebook LinkedIn Mail HAVIS FOR SENATE • Lee Havis, Republican Candidate, LD 21 • Maryland State Senate • lee@havisforsenate.com by authority, Havis for Senate, Glenn Davis, Treasurer Privacy Policy

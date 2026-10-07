@@ -1,6 +1,4 @@
-WA law will make it easier to distribute abortion pill stockpile
-By Jake Goldstein-Street for Seattle Weekly • March 16, 2026
-Washington earlier this year had to return 30,000 expiring doses from its abortion pill stockpile to the manufacturer.
+0 Skip to Content Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Folder: Issues Back Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment Folder: 2026 Endorsements Back 2026 Endorsements News Events Folder: Get Involved Back Volunteer Contact Endorse Noel Donate WA law will make it easier to distribute abortion pill stockpile Mar 16 Written By Upper Left Strategies By Jake Goldstein-Street for Seattle Weekly • March 16, 2026 Washington earlier this year had to return 30,000 expiring doses from its abortion pill stockpile to the manufacturer.
 A state law signed Saturday seeks to ensure remaining pills the state has on hand are easier to access and use.
 Before Senate Bill 5917, the state needed to sell its mifepristone pills for at least the purchase price, plus an extra $5 fee per dose.
 The new law eliminates the requirement for the state to get paid for the medication.
@@ -42,8 +40,7 @@ Sen.
 Noel Frame, D-Seattle, told of using misoprostol to manage a miscarriage a few years ago but not being able to find mifepristone, which is supposed to be taken in tandem with the other drug.
 This meant she had to get surgery.
 “I tell this story to illustrate the point that this is about women’s health care, that these are medications that are safe,” Frame said.
-“They have been approved by the FDA for more than 25 years, and they are still hard to get access to.”
-The legislation passed the Legislature mostly along party lines, with Democratic support.
+“They have been approved by the FDA for more than 25 years, and they are still hard to get access to.” The legislation passed the Legislature mostly along party lines, with Democratic support.
 In the Senate, it got two Republican votes, from Sens.
 Paul Harris of Vancouver and Ron Muzzall of Oak Harbor.
 It was one of several wins for abortion care advocates this session.
@@ -51,4 +48,8 @@ For one, the budget lawmakers approved Thursday restores $8.5 million in funding
 And second, lawmakers passed a fee on insurers that would pay for grants to organizations providing abortion services.
 The tax in Senate Bill 6182 would raise about $10 million in its first year and around $2 million annually after that, according to a fiscal analysis.
 The bill awaits Ferguson’s signature.
-Jake joined the Standard after working as a breaking news reporter, investigative reporter and editor at The Everett Herald
+Jake joined the Standard after working as a breaking news reporter, investigative reporter and editor at The Everett Herald NEWS Upper Left Strategies https://upperleftstrategies.com Previous Previous Washington state’s ‘historic’ millionaire tax takes aim at super-rich – will it succeed?
+Next Next Winners, losers and takeaways from WA’s legislative session HOME ABOUT DONATE POLICIES Sign up TO receive news and updates Since 2016, Sen.
+Noel Frame has served the 36th Legislative District, fighting for economic prosperity for all of us, rebalancing our tax code, and strengthening our diverse communities.
+Reelect Noel Frame for Senate.
+NOEL FRAME FOR SENATE Paid for by Friends of Noel Frame (D) | PO Box 99143 | Seattle, WA 98139 Privacy Policy | Website Terms & Conditions

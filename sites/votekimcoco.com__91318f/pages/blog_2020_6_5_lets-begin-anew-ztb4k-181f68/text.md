@@ -1,16 +1,14 @@
-PETITION FOR CHANGE
-WE CANNOT TURN A BLIND EYE TO INJUSTICE
-June 10, 2020 — Last week one of the largest protests marched through our district.
+Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me PETITION FOR CHANGE WE CANNOT TURN A BLIND EYE TO INJUSTICE June 10, 2020 — Last week one of the largest protests marched through our district.
 More than 10,000 neighbors, friends and family affirmed that Black Lives Matter.
 Racism is embedded in the U.S.
 Constitution, wherein black Americans were counted as three-fifths of a person.
 Racism is evident in our modern institutions: the school-to-prison pipeline, the over-arrest and over-penalty of black citizens and other people of color, and the number of people killed by law enforcement.
 Even in the Aloha State, we must work to address both racism and abuses of power.
-In 2015, Hawaii ranked “fifth in the U.S. for the number of people killed this year by police on a per capita basis.
+In 2015, Hawaii ranked “fifth in the U.S. for the number of people killed this year by police on a per capita basis .
 Read this recent article.
 Racism and the abuse of power are injustices that require vigilant action to uproot.
 We cannot continue to shroud law enforcement misconduct.
-Lawmakers cannot continue meeting in secret which builds distrust and evades accountability.
+Lawmakers cannot continue meeting in secret which builds distrust and evades accountability .
 The State Legislature enacted the Sunshine Law to ensure the public could witness how laws are made and carried out so that the people could hold government accountable.
 Yet the State Legislature exempted itself from that light.
 Behind closed doors at the Legislature, petty politics thrives and corrupt deals are made.
@@ -18,7 +16,8 @@ This has been the dark side of our history for decades, while our current Repres
 It's not too late.
 We can make better choices.
 Together, we can.
-Click Here to Sign
-our petition that Speaker Saiki finally take action to allow public oversight of STATEWIDE law enforcement
-P.S. - Read our June 10 campaign newsletter here, hear from Robert Cazimero and join the movement.
+Click Here to Sign our petition that Speaker Saiki finally take action to allow public oversight of STATEWIDE law enforcement P.S. - Read our June 10 campaign newsletter here , hear from Robert Cazimero and join the movement.
 Let your voice be heard at the August 8 election for State House Representative of District 26.
+Kim Coco Iwamoto June 10, 2020 Facebook 0 Twitter Tumblr 0 Likes Previous CIVIL BEAT Kim Coco Iwamoto June 18, 2020 Next DISTRICT 26 HIT HARD BY CRISIS Kim Coco Iwamoto June 2, 2020 Campaign Headquarters: (808) 664-3830* • KimCoco@KimCoco.com *If you choose to text Friends of Kim Coco at this number, please indicate SUBSCRIBE, or we will not be able to reply via text.
+You may unsubscribe at any time with STOP Paid for by Friends of Kim Coco • P.O.
+Box 22136 • Honolulu, HI 96823

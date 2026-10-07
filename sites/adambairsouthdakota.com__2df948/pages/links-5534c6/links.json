@@ -1,8 +1,26 @@
 [
-"https://adambairsouthdakota.com/privacy-policy",
-"https://facebook.com/profile.php?id=61578112494544",
-"https://heyvictor.com/",
-"https://instagram.com/adambairforsd",
-"https://tiktok.com/@adambairforsd",
-"https://x.com/AdamBairForSD"
+{
+"text": "Built By Hey Victor",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://adambairsouthdakota.com/privacy-policy/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61578112494544"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/adambairforsd/"
+},
+{
+"text": "[tooltip: TikTok]",
+"href": "https://www.tiktok.com/@adambairforsd"
+},
+{
+"text": "[tooltip: X/Twitter]",
+"href": "https://x.com/AdamBairForSD"
+}
 ]

@@ -1,19 +1,70 @@
 [
-"http://facebook.com/christianforky",
-"http://instagram.com/christianforky",
-"https://act.campaigndeputy.com/furman-events",
-"https://bsky.app/profile/christianforky.bsky.social",
-"https://christianforky.com/",
-"https://christianforky.com/about",
-"https://christianforky.com/cart",
-"https://christianforky.com/events",
-"https://christianforky.com/support",
-"https://civicvoicepartners.com/",
-"https://mobilize.us/mobilize/event/1026316",
-"https://mobilize.us/mobilize/event/1026319",
-"https://mobilize.us/mobilize/event/1026321",
-"https://mobilize.us/mobilize/event/1026326",
-"https://secure.actblue.com/donate/christian-furman",
-"https://tiktok.com/@christianforky",
-"https://x.com/christianforky"
+{
+"text": "0",
+"href": "https://christianforky.com/cart"
+},
+{
+"text": "About",
+"href": "https://christianforky.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/christian-furman"
+},
+{
+"text": "Events",
+"href": "https://christianforky.com/events"
+},
+{
+"text": "Register Here",
+"href": "https://act.campaigndeputy.com/furman-events"
+},
+{
+"text": "Register Here",
+"href": "https://www.mobilize.us/mobilize/event/1026316/"
+},
+{
+"text": "Register Here",
+"href": "https://www.mobilize.us/mobilize/event/1026319/"
+},
+{
+"text": "Register Here",
+"href": "https://www.mobilize.us/mobilize/event/1026321/"
+},
+{
+"text": "Register Here",
+"href": "https://www.mobilize.us/mobilize/event/1026326/"
+},
+{
+"text": "Support",
+"href": "https://christianforky.com/support"
+},
+{
+"text": "[image: Christian Furman for Kentucky State Senate]",
+"href": "https://christianforky.com/"
+},
+{
+"text": "[image]",
+"href": "https://civicvoicepartners.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/christianforky"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/christianforky"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/christianforky.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@christianforky"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/christianforky"
+}
 ]

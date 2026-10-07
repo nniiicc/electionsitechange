@@ -1,8 +1,6 @@
-Menendez for Congress
-Accessibility Statement
-This commitment to accessibility for all begins with this site and our efforts to ensure all functionality and all content is accessible to all Americans.
+Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Priorities Meet Rob Latest News Endorsements Get Involved Donate Toggle Mobile Menu Priorities Meet Rob Latest News Endorsements Get Involved Donate Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Language Menendez for Congress Accessibility Statement This commitment to accessibility for all begins with this site and our efforts to ensure all functionality and all content is accessible to all Americans.
 Our ongoing accessibility effort works towards conforming to the Web Content Accessibility Guidelines (WCAG) version 2.1, level AA criteria.
 These guidelines not only help make web content accessible to users with sensory, cognitive and mobility disabilities, but ultimately to all users, regardless of ability.
 Our ongoing accessibility efforts work toward making robmenendez.com as accessible as possible.
 Rob Menendez for Congress welcomes comments on how to improve the site’s accessibility for users with disabilities.
-Email: [email protected]
+Email: [email protected] Empower Our Communities Strengthen Our Families Priorities Meet Rob Latest News Endorsements Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter [email protected] 123 Town Square Place #515 Jersey City, NJ 07310 Voting Info Privacy Policy Accessibility Statement What Voters Need to Know Paid for by Menendez for Congress

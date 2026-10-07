@@ -1,14 +1,9 @@
-Back to All Events
-Camp Graves would like to invite you to have breakfast with us!
+Skip to Content Open Menu Close Menu Meet Drew Policies Agriculture --Farm Independence --Farm Markets --Farm Security --Farm Supports Economy & Jobs --Business Reform --Consumer Protections --Infrastructure --Labor Rights Family & Community --Child Advocacy --Education --Housing --Senior Accessibility Government & Democracy --Campaign Reform --Congressional Reform --Tax Policy Healthcare --Drug Pricing / Access --EMS --Health Insurance --Parental Care Military & Veterans --Military Funding --Military Parent's Reprieve --Veteran's Assistance Technology & AI --AI-Safety --Civil Rights & AI --Creator Ethics & AI --Data Centers --Human Rights & AI --Workers & AI Endorsements Drew News Volunteer Merch Calendar Contact 0 0 Donate Meet Drew Policies Agriculture --Farm Independence --Farm Markets --Farm Security --Farm Supports Economy & Jobs --Business Reform --Consumer Protections --Infrastructure --Labor Rights Family & Community --Child Advocacy --Education --Housing --Senior Accessibility Government & Democracy --Campaign Reform --Congressional Reform --Tax Policy Healthcare --Drug Pricing / Access --EMS --Health Insurance --Parental Care Military & Veterans --Military Funding --Military Parent's Reprieve --Veteran's Assistance Technology & AI --AI-Safety --Civil Rights & AI --Creator Ethics & AI --Data Centers --Human Rights & AI --Workers & AI Endorsements Drew News Volunteer Merch Calendar Contact 0 0 Donate Open Menu Close Menu Meet Drew Folder: Policies Back Agriculture --Farm Independence --Farm Markets --Farm Security --Farm Supports Economy & Jobs --Business Reform --Consumer Protections --Infrastructure --Labor Rights Family & Community --Child Advocacy --Education --Housing --Senior Accessibility Government & Democracy --Campaign Reform --Congressional Reform --Tax Policy Healthcare --Drug Pricing / Access --EMS --Health Insurance --Parental Care Military & Veterans --Military Funding --Military Parent's Reprieve --Veteran's Assistance Technology & AI --AI-Safety --Civil Rights & AI --Creator Ethics & AI --Data Centers --Human Rights & AI --Workers & AI Endorsements Drew News Volunteer Merch Calendar Contact Donate Back to All Events Camp Graves Breakfast Thursday, September 3, 2026 7:30 AM 8:00 AM Graves County Cooperative Ext.
+Office 4200 U.S.
+45 Mayfield, Kentucky, 42066 United States (map) Google Calendar ICS Camp Graves would like to invite you to have breakfast with us!
 Come and learn more about our organization, programs to assist the homeless and resource access, how you can partner with us, and support our mission in the region.
 This is also a great opportunity to ask questions about our programs, operations, or anything pertaining to Camp Graves or Camp Rendezvous Veteran Housing & Work Center.
 It is free to attend and open to any community partner, business, or organization that would like to learn more about Camp Graves.
-Please RSVP by using this link https://forms.gle/2SKCtgrVrnFQ6bBG9, or scanning the QR code below.
-For further questions, please reach out to i.madding@campgraves.org
-Previous
-Previous
-August 30
-Tri-County Democratic Party
-Next
-Next
-September 4
+Please RSVP by using this link https://forms.gle/2SKCtgrVrnFQ6bBG9 , or scanning the QR code belo w.
+For further questions, please reach out to i.madding@campgraves.org Previous Previous August 30 Tri-County Democratic Party Next Next September 4 Meet Drew at the Adair County Fair WHAT ARE YOUR CONCERNS?
+TELL ME ABOUT IT Meet Drew Contact Us Donate by Mail Mutual Aid Policy Plans Volunteer Terms + Conditions Privacy Policy Paid for by Williams for Kentucky Campaign.

@@ -1,7 +1,11 @@
 {
  "description": "Read the latest newsletter from Senator John Marty.",
  "final_url": "https://www.johnmarty.org/news/the-marty-message-restoring-trust-in-government",
+ "fingerprint": "15260b59f249f85a2145349f5ec742bd3c42176e",
+ "format": 3,
  "paid_for_by": "Paid for by the Senator John Marty Volunteer Committee",
  "title": "News | The Marty Message: Restoring Trust in Government",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022"
+ ]
 }

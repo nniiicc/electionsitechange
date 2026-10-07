@@ -1,4 +1,5 @@
-As a mom, wife and champion for hardworking families throughout Arizona, I have spent my career fighting for educational options, voting to reduce taxes and lower our cost of living, protecting our children, countering fentanyl abuse, and working to end human trafficking.
+Home About Shawnna Issues Endorsements Photos Donate Request a Yard Sign Contact Us More Home About Shawnna Issues Endorsements Photos Donate Request a Yard Sign Contact Us Home About Shawnna Issues Endorsements Photos Donate Request a Yard Sign Contact Us Electing Shawnna Bolick is the key to holding the majority.
+Experienced and Committed to Solutions As a mom, wife and champion for hardworking families throughout Arizona, I have spent my career fighting for educational options, voting to reduce taxes and lower our cost of living, protecting our children, countering fentanyl abuse, and working to end human trafficking.
 Since 2019, I have represented you with a common-sense voice at the Arizona State Capitol.
 I have fought to repeal the rental tax, provide funding for border security and law enforcement, and invest new dollars into our classrooms.
 I will keep fighting to protect our neighborhoods and support great schools and teachers.
@@ -9,8 +10,8 @@ I will continue to fight for common-sense solutions to the challenges facing our
 We have all witnessed the consequences of single-party rule, which is why keeping a check on the Governor's agenda creates a more balanced policy outcome and safer communities.
 I will continue to be the champion for hardworking families throughout Arizona.
 I humbly ask for your vote in the upcoming general election on November 3rd.
-Thank you,
-Shawnna
+Thank you, Shawnna Stand with Shawnna!
 Join Shawnna's re-election campaign to stay informed.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Get Involved Support Shawnna Bolick's re-election campaign!
+Donate Copyright © # BOLICKFORARIZONA.COM - All Rights Reserved.
+Home About Shawnna Issues Endorsements Photos Donate Request a Yard Sign Contact Us

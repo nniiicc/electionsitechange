@@ -1,24 +1,102 @@
 [
-"https://facebook.com/profile.php?id=100006747589487",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjamesspillane.org%2Fjs%2F2020%2F02%2F07%2Fasset-forfeiture-with-jeanine-notter%2F&t=Asset+Forfeiture+With+Jeanine+Notter",
-"https://jamesspillane.org/js",
-"https://jamesspillane.org/js/2026/05/23/spillane-cited-as-most-effective",
-"https://jamesspillane.org/js/2026/07/02/how-new-hampshire-led-america-to-independence",
-"https://jamesspillane.org/js/2026/08/04/cacr-15-fundamental-right-to-hunt-fish-and-harvest-game",
-"https://jamesspillane.org/js/2026/08/04/cole-and-spillane-elections-air-rifles-w-northeast-airguns-and-sig-sauer-academy-and-veterans",
-"https://jamesspillane.org/js/2026/08/04/dedication-of-the-salt-marsh-pond-access-road-for-representative-harry-bean",
-"https://jamesspillane.org/js/about-james",
-"https://jamesspillane.org/js/bills-sponsored",
-"https://jamesspillane.org/js/donate-to-the-campaign",
-"https://jamesspillane.org/js/endorsements",
-"https://jamesspillane.org/js/events",
-"https://jamesspillane.org/js/events/voting-information",
-"https://jamesspillane.org/js/how-to-help",
-"https://jamesspillane.org/js/how-to-help/campaign-literature-and-signs",
-"https://jamesspillane.org/js/how-to-help/write-a-letter",
-"https://jamesspillane.org/js/on-the-issues",
-"https://jamesspillane.org/js/updates",
-"https://twitter.com/jaspillane",
-"https://x.com/intent/tweet?text=Asset+Forfeiture+With+Jeanine+Notter&url=https%3A%2F%2Fjamesspillane.org%2Fjs%2F2020%2F02%2F07%2Fasset-forfeiture-with-jeanine-notter%2F",
-"https://youtu.be/ejwhgykHIl0"
+{
+"text": "About James",
+"href": "https://jamesspillane.org/js/about-james/"
+},
+{
+"text": "Bills Sponsored",
+"href": "https://jamesspillane.org/js/bills-sponsored/"
+},
+{
+"text": "CACR 15 – Fundamental Right to Hunt, Fish, and Harvest Game",
+"href": "https://jamesspillane.org/js/2026/08/04/cacr-15-fundamental-right-to-hunt-fish-and-harvest-game/"
+},
+{
+"text": "Campaign Literature and Signs",
+"href": "https://jamesspillane.org/js/how-to-help/campaign-literature-and-signs/"
+},
+{
+"text": "Cole and Spillane: Elections, Air Rifles (w/ Northeast Airguns and Sig Sauer Academy), and Veterans",
+"href": "https://jamesspillane.org/js/2026/08/04/cole-and-spillane-elections-air-rifles-w-northeast-airguns-and-sig-sauer-academy-and-veterans/"
+},
+{
+"text": "DONATE",
+"href": "https://jamesspillane.org/js/donate-to-the-campaign/"
+},
+{
+"text": "Dedication of the Salt Marsh Pond Access Road for Representative Harry Bean",
+"href": "https://jamesspillane.org/js/2026/08/04/dedication-of-the-salt-marsh-pond-access-road-for-representative-harry-bean/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://jamesspillane.org/js/endorsements/"
+},
+{
+"text": "EVENTS",
+"href": "https://jamesspillane.org/js/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100006747589487"
+},
+{
+"text": "HOME",
+"href": "https://jamesspillane.org/js/"
+},
+{
+"text": "HOW TO HELP",
+"href": "https://jamesspillane.org/js/how-to-help/"
+},
+{
+"text": "How New Hampshire Led America to Independence",
+"href": "https://jamesspillane.org/js/2026/07/02/how-new-hampshire-led-america-to-independence/"
+},
+{
+"text": "ISSUES",
+"href": "https://jamesspillane.org/js/on-the-issues/"
+},
+{
+"text": "Spillane Cited as Most Effective",
+"href": "https://jamesspillane.org/js/2026/05/23/spillane-cited-as-most-effective/"
+},
+{
+"text": "UPDATES",
+"href": "https://jamesspillane.org/js/updates/"
+},
+{
+"text": "Voting Information 2026",
+"href": "https://jamesspillane.org/js/events/voting-information/"
+},
+{
+"text": "Write a Letter",
+"href": "https://jamesspillane.org/js/how-to-help/write-a-letter/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/jaspillane"
+},
+{
+"text": "[image: James Spillane for NH State Representative]",
+"href": "https://jamesspillane.org/js/"
+},
+{
+"text": "[tooltip: Send over email]",
+"href": "mailto:?subject=Asset+Forfeiture+With+Jeanine+Notter&body=https%3A%2F%2Fjamesspillane.org%2Fjs%2F2020%2F02%2F07%2Fasset-forfeiture-with-jeanine-notter%2F"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjamesspillane.org%2Fjs%2F2020%2F02%2F07%2Fasset-forfeiture-with-jeanine-notter%2F&t=Asset+Forfeiture+With+Jeanine+Notter"
+},
+{
+"text": "[tooltip: Share on X]",
+"href": "https://x.com/intent/tweet?text=Asset+Forfeiture+With+Jeanine+Notter&url=https%3A%2F%2Fjamesspillane.org%2Fjs%2F2020%2F02%2F07%2Fasset-forfeiture-with-jeanine-notter%2F"
+},
+{
+"text": "https://youtu.be/ejwhgykHIl0",
+"href": "https://youtu.be/ejwhgykHIl0"
+},
+{
+"text": "james@jamesspillane.org",
+"href": "mailto:james@jamesspillane.org"
+}
 ]

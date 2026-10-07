@@ -1,10 +1,38 @@
 [
-"http://instagram.com/jonesforpa",
-"https://facebook.com/jonesforpa",
-"https://jones4pa.com/",
-"https://jones4pa.com/bio",
-"https://jones4pa.com/contact",
-"https://jones4pa.com/donate",
-"https://jones4pa.com/events",
-"https://jones4pa.com/home"
+{
+"text": "About Mike",
+"href": "https://www.jones4pa.com/bio"
+},
+{
+"text": "Contact",
+"href": "https://www.jones4pa.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.jones4pa.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.jones4pa.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.jones4pa.com/"
+},
+{
+"text": "[image: Jones For PA]",
+"href": "https://www.jones4pa.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/jonesforpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jonesforpa/"
+},
+{
+"text": "home",
+"href": "https://www.jones4pa.com/home"
+}
 ]

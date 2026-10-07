@@ -1,24 +1,82 @@
 [
-"http://selenafornevada.com/",
-"https://bsky.app/profile/selenafornevada.bsky.social",
-"https://facebook.com/SelenaforNevada",
-"https://instagram.com/selenafornv",
-"https://secure.actblue.com/donate/selena-web",
-"https://selenafornevada.com/2025session",
-"https://selenafornevada.com/2026-endorsements",
-"https://selenafornevada.com/about",
-"https://selenafornevada.com/bill-tracker",
-"https://selenafornevada.com/constituents",
-"https://selenafornevada.com/cookie-policy",
-"https://selenafornevada.com/donate",
-"https://selenafornevada.com/events",
-"https://selenafornevada.com/how-to-give-public-comment",
-"https://selenafornevada.com/how-to-give-testimony",
-"https://selenafornevada.com/issues",
-"https://selenafornevada.com/media",
-"https://selenafornevada.com/opt-out",
-"https://selenafornevada.com/privacy-policy",
-"https://selenafornevada.com/volunteer-now",
-"https://selenafornevada.com/what-is-the-state-assembly",
-"https://thisisreno.com/2025/12/reno-newsmakers-2025"
+{
+"text": "Bill Tracker",
+"href": "https://selenafornevada.com/bill-tracker/"
+},
+{
+"text": "Constituents",
+"href": "https://selenafornevada.com/constituents/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/selena-web"
+},
+{
+"text": "Donate",
+"href": "https://selenafornevada.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://selenafornevada.com/2026-endorsements/"
+},
+{
+"text": "Events",
+"href": "https://selenafornevada.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SelenaforNevada/"
+},
+{
+"text": "How to give public comment in NELIS",
+"href": "https://selenafornevada.com/how-to-give-public-comment/"
+},
+{
+"text": "How to give testimony",
+"href": "https://selenafornevada.com/how-to-give-testimony/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/selenafornv/"
+},
+{
+"text": "Issues",
+"href": "https://selenafornevada.com/issues/"
+},
+{
+"text": "Legislative Wins",
+"href": "https://selenafornevada.com/2025session/"
+},
+{
+"text": "Meet Selena",
+"href": "https://selenafornevada.com/about/"
+},
+{
+"text": "Open toolbar",
+"href": "javascript:void(0);"
+},
+{
+"text": "Press & Media Center",
+"href": "https://selenafornevada.com/media/"
+},
+{
+"text": "Volunteer",
+"href": "https://selenafornevada.com/volunteer-now/"
+},
+{
+"text": "What is the State Assembly?",
+"href": "https://selenafornevada.com/what-is-the-state-assembly/"
+},
+{
+"text": "[image]",
+"href": "http://selenafornevada.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/selenafornevada.bsky.social"
+},
+{
+"text": "https://thisisreno.com/2025/12/reno-newsmakers-2025/",
+"href": "https://thisisreno.com/2025/12/reno-newsmakers-2025/"
+}
 ]

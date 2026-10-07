@@ -1,2 +1,2 @@
-Paid for by Bruce Stabenow for Assembly District 91
-Powered by CampaignPartner.com - Political Websites
+Meet Bruce Issues News Volunteer Contribute Voter Information Verify your Voter Registration Status Register to Vote Request an Absentee Ballot VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+News Bruce Stabenow Launches Facebook Site Bruce Stabenow Launches Campaign for the 91st assembly district Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Bruce Stabenow for Assembly District 91 Powered by CampaignPartner.com - Political Websites Home Meet Bruce Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

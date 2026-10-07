@@ -1,7 +1,9 @@
 {
  "description": "Sample Issue",
  "final_url": "https://www.joelazumah.com/issues/sample_issue",
- "paid_for_by": null,
+ "fingerprint": "23ffaadffe97f790a84ef7ed8aeba53545bf1fad",
+ "format": 3,
+ "paid_for_by": "",
  "title": "War",
  "years_mentioned": []
 }

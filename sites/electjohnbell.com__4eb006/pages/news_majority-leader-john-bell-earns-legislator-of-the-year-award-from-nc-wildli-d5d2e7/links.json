@@ -1,16 +1,74 @@
 [
-"https://electjohnbell.com/",
-"https://electjohnbell.com/about",
-"https://electjohnbell.com/donate",
-"https://electjohnbell.com/gallery",
-"https://electjohnbell.com/issues",
-"https://electjohnbell.com/join",
-"https://electjohnbell.com/news",
-"https://facebook.com/john.bell.nchouse10",
-"https://instagram.com/johnbellnc",
-"https://ncleg.gov/BillLookUp/2021/H500",
-"https://ncwf.org/",
-"https://ncwf.org/governors-conservation-achievement-awards",
-"https://twitter.com/JohnBellNC",
-"https://youtube.com/channel/UC6vnVjrxxdyxsr0RhZ4SSkA"
+{
+"text": "ABOUT",
+"href": "https://www.electjohnbell.com/about"
+},
+{
+"text": "Back to News",
+"href": "https://www.electjohnbell.com/news"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.electjohnbell.com/donate"
+},
+{
+"text": "Disaster Relief and Mitigation Act of 2021",
+"href": "https://www.ncleg.gov/BillLookUp/2021/H500"
+},
+{
+"text": "GAllery",
+"href": "https://www.electjohnbell.com/gallery"
+},
+{
+"text": "Governor’s Conservation Achievement Awards",
+"href": "https://ncwf.org/governors-conservation-achievement-awards/"
+},
+{
+"text": "Home",
+"href": "https://www.electjohnbell.com/"
+},
+{
+"text": "Join",
+"href": "https://www.electjohnbell.com/join"
+},
+{
+"text": "NEWS",
+"href": "https://www.electjohnbell.com/news"
+},
+{
+"text": "North Carolina Wildlife Federation’s",
+"href": "https://ncwf.org/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/JohnBellNC"
+},
+{
+"text": "[image]",
+"href": "https://www.electjohnbell.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/john.bell.nchouse10/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/johnbellnc/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/channel/UC6vnVjrxxdyxsr0RhZ4SSkA/"
+},
+{
+"text": "https://ncwf.org/",
+"href": "https://ncwf.org/"
+},
+{
+"text": "john@electjohnbell.com",
+"href": "mailto:john@electjohnbell.com"
+},
+{
+"text": "priorities",
+"href": "https://www.electjohnbell.com/issues"
+}
 ]

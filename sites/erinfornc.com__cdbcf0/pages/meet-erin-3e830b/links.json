@@ -1,10 +1,42 @@
 [
-"https://erinfornc.com/home",
-"https://erinfornc.com/issues",
-"https://erinfornc.com/meet-erin",
-"https://facebook.com/erinparefornc",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/erinfornc",
-"https://secure.anedot.com/committee-to-elect-erin-pare/donate",
-"https://x.com/ErinforNC"
+{
+"text": "CLICK HERE TO DONATE ONLINE",
+"href": "https://secure.anedot.com/committee-to-elect-erin-pare/donate"
+},
+{
+"text": "HOME",
+"href": "https://erinfornc.com/home"
+},
+{
+"text": "ISSUES",
+"href": "https://erinfornc.com/issues"
+},
+{
+"text": "Join Team Paré Today!",
+"href": "https://secure.anedot.com/committee-to-elect-erin-pare/donate"
+},
+{
+"text": "MEET ERIN",
+"href": "https://erinfornc.com/meet-erin"
+},
+{
+"text": "[image: Erin Paré HD 37]",
+"href": "https://erinfornc.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/erinparefornc"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/erinfornc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/ErinforNC"
+}
 ]

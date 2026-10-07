@@ -1,11 +1,14 @@
 {
  "description": "President Biden announces plan to forgive $10,000 in federal student loan debt for individuals who make a certain income. Rep. Joe Courtney is sponsoring legislation...",
  "final_url": "https://joecourtney.com/thousands-in-ct-to-benefit-from-student-loan-debt-relief-plan/",
- "paid_for_by": null,
+ "fingerprint": "fd6b2bd66318b48fcd9c57c78ecc678bcd83df4b",
+ "format": 3,
+ "paid_for_by": "Authorized by Joe Courtney for Congress",
  "title": "THOUSANDS IN CT TO BENEFIT FROM STUDENT LOAN DEBT RELIEF PLAN - Joe Courtney",
  "years_mentioned": [
   "2020",
   "2021",
+  "2022",
   "2023",
   "2024"
  ]

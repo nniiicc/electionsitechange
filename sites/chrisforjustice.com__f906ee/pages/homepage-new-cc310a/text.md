@@ -1,9 +1,6 @@
-Judge Chris Taylor for Wisconsin Supreme Court
-Election Day Is Tuesday, April 7th
-MAKE A CONTRIBUTION
-Judge Chris Taylor: Protecting Your RIghts and Freedoms
-MEET JUDGE CHRIS TAYLOR
-Judge Chris Taylor is a lifelong advocate for justice, fairness, and protecting the rights of all people.
+0 Skip to Content Meet Chris Endorsements Vote Volunteer Donate Open Menu Close Menu Meet Chris Endorsements Vote Volunteer Donate Open Menu Close Menu Meet Chris Endorsements Vote Volunteer Donate Judge Chris Taylor for Wisconsin Supreme Court Meet Judge Taylor Join the Team Election Day Is Tuesday, April 7th “ As an attorney, public servant, and now as a judge, I’ve always been committed to making sure everyone is able to access our justice system.
+Justices on the Wisconsin Supreme Court must be fair, independent, and impartial.
+Everyone who comes before the court deserves to be heard, respected, and treated equally – that’s exactly what I’ll do as a Wisconsin Supreme Court Justice. ” — Judge Chris Taylor MAKE A CONTRIBUTION $10 $25 $50 $75 Other Amount Judge Chris Taylor: Protecting Your RIghts and Freedoms MEET JUDGE CHRIS TAYLOR Judge Chris Taylor is a lifelong advocate for justice, fairness, and protecting the rights of all people.
 As a judge on the Wisconsin Court of Appeals, she brings a deep understanding of the law and a commitment to ensuring everyone gets a fair shot in our judicial system.
 She began her legal career as an attorney representing clients and ensuring they had access to justice.
 In 2020, Chris was appointed to the Dane County Circuit Court, and she was elected to that position the following year.
@@ -18,8 +15,7 @@ Prior to her legislative work, she was an attorney and policy director for Plann
 Judge Taylor lives in Madison with her husband and their two sons.
 When she’s not working, you’ll find her cheering on her kids at sporting events, running through Madison’s parks, or enjoying live music.
 She’s proud to serve the people of Wisconsin—and to bring her experience, compassion, and integrity to the Wisconsin Supreme Court.
-Join the team
-Help elect Judge Chris Taylor to the Wisconsin Supreme Court.
+Join the team Help elect Judge Chris Taylor to the Wisconsin Supreme Court.
 Sign up today.
 By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Chris Taylor for Justice.
 Text message opt-in is optional.
@@ -29,3 +25,4 @@ Unsubscribe at any time by replying STOP.
 Text START to opt in.
 Text HELP for help.
 Privacy Policy and Terms.
+Chris Taylor for Justice PO Box 1921 Madison, WI 53701 General Inquiries: info@chrisforjustice.com Press Requests: press@chrisforjustice.com Paid for by Chris Taylor for Justice

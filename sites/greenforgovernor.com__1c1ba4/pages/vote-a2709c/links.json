@@ -1,26 +1,122 @@
 [
-"https://facebook.com/JerriGreenForTN",
-"https://green-for-governor.printify.me/",
-"https://greenforgovernor.com/",
-"https://greenforgovernor.com/about",
-"https://greenforgovernor.com/cdn-cgi/l/email-protection",
-"https://greenforgovernor.com/events",
-"https://greenforgovernor.com/policy",
-"https://greenforgovernor.com/vote",
-"https://instagram.com/jerrigreen4tn",
-"https://ovr.govote.tn.gov/",
-"https://secure.actblue.com/donate/g4gyardsigns",
-"https://secure.actblue.com/donate/greenforgovernor",
-"https://secure.ngpvan.com/DFnQ3lMoXkSglmddlqTw3A2",
-"https://sos-prod.tnsosgovfiles.com/s3fs-public/document/Absentee%20By-Mail%20Ballot%20Application%20%28Rev.%2010-2025%29.pdf",
-"https://sos.tn.gov/elections/county-election-commissions",
-"https://sos.tn.gov/elections/guides/guide-to-absentee-voting",
-"https://sos.tn.gov/govotetn",
-"https://substack.com/@jerrigreen4tn",
-"https://threads.com/@jerrigreen4tn",
-"https://tiktok.com/@jerrigreen4tn",
-"https://tnmap.tn.gov/voterlookup",
-"https://web.go-vote-tn.elections.tn.gov/",
-"https://web.go-vote-tn.elections.tn.gov/search",
-"https://x.com/Jerri_M_Green"
+{
+"text": "Check My Registration",
+"href": "https://tnmap.tn.gov/voterlookup/"
+},
+{
+"text": "Check voter registration",
+"href": "https://tnmap.tn.gov/voterlookup/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/greenforgovernor"
+},
+{
+"text": "Early in-person voting locations",
+"href": "https://web.go-vote-tn.elections.tn.gov/search"
+},
+{
+"text": "Election Day polling locations",
+"href": "https://web.go-vote-tn.elections.tn.gov/"
+},
+{
+"text": "Events",
+"href": "https://greenforgovernor.com/events/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/JerriGreenForTN/"
+},
+{
+"text": "Find Early Voting Locations",
+"href": "https://web.go-vote-tn.elections.tn.gov/search"
+},
+{
+"text": "Find My Polling Place",
+"href": "https://web.go-vote-tn.elections.tn.gov/"
+},
+{
+"text": "Find your local election commission",
+"href": "https://sos.tn.gov/elections/county-election-commissions"
+},
+{
+"text": "General Contact",
+"href": "mailto:team@greenforgovernor.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/jerrigreen4tn/"
+},
+{
+"text": "Learn More",
+"href": "https://sos.tn.gov/govotetn"
+},
+{
+"text": "Make My Plan to Vote",
+"href": "https://sos.tn.gov/govotetn"
+},
+{
+"text": "Meet Jerri",
+"href": "https://greenforgovernor.com/about/"
+},
+{
+"text": "Platform",
+"href": "https://greenforgovernor.com/policy/"
+},
+{
+"text": "Press Contact",
+"href": "mailto:press@greenforgovernor.com"
+},
+{
+"text": "Register to Vote",
+"href": "https://ovr.govote.tn.gov/"
+},
+{
+"text": "Request a Mail-In Ballot",
+"href": "https://sos-prod.tnsosgovfiles.com/s3fs-public/document/Absentee%20By-Mail%20Ballot%20Application%20%28Rev.%2010-2025%29.pdf"
+},
+{
+"text": "Request a mail / absentee ballot",
+"href": "https://sos.tn.gov/elections/guides/guide-to-absentee-voting"
+},
+{
+"text": "Shop",
+"href": "https://green-for-governor.printify.me/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@jerrigreen4tn"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@jerrigreen4tn"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/DFnQ3lMoXkSglmddlqTw3A2"
+},
+{
+"text": "Vote",
+"href": "https://greenforgovernor.com/vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/Jerri_M_Green"
+},
+{
+"text": "Yard Signs",
+"href": "https://secure.actblue.com/donate/g4gyardsigns"
+},
+{
+"text": "[image: Jerri Green for Governor]",
+"href": "https://greenforgovernor.com"
+},
+{
+"text": "[image: Jerri Green for Governor]",
+"href": "https://greenforgovernor.com/"
+},
+{
+"text": "[no text]",
+"href": "https://substack.com/@jerrigreen4tn"
+}
 ]

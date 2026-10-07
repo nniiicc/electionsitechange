@@ -1,9 +1,11 @@
 {
  "description": "It's real experience + real results",
  "final_url": "https://mcconkeyfornewhampshire.com/election-results",
- "paid_for_by": "Paid for by Mark McConkey for NH, Vincent Vaccaro, f/a, 10 Clover Lane, Apt1, Freedom, NH 03836&nbsp; Copyright \u00a9 2024 McConkey For NH - All Rights Res",
+ "fingerprint": "2b40b4e8783c0a1a2464f7e7fdaf5e05e80610ea",
+ "format": 3,
+ "paid_for_by": "Paid for by Mark McConkey for NH, Vincent Vaccaro, f/a, 10 Clover Lane, Apt1, Freedom, NH 03836 Copyright © # McConkey For NH - All Rights Reserved",
  "title": "Election Results",
  "years_mentioned": [
-  "2024"
+  "2022"
  ]
 }

@@ -1,277 +1,37 @@
-2026 Legislative Session: Passed Bills
-HB26-1009 Colorado Mandatory Lethality Assessment Act
-Requires police officers to conduct a lethality assessment when responding to a domestic violence incident.
-HB26-1011 Transfers of Certain Pet Animals
-Also known as Pistol the Pomeranian Protecting Act after my beloved Pistol who was a puppy mill dog.
-Ends the puppy mill pipeline to Colorado.
-HB26-1033 Expanding the Colorado Cottage Foods Act
-Allows for the sale of Tamales, Burritos, Tortas, and other temperature controlled foods.
-Uplifts young entrepreneurs and home cooks.
-HB26-1068 Remote Participation Policies for Joint Committees
-Allows the Executive Committee to adopt rules regarding remote participation for year round joint committees.
-HB26-1081 Optimize Colorado Electric Transmission System
-Updates and modernizes Colorado’s electric transmission systems.
-HB26-1133 Traveling Animal Protection Act Environmental Education Program
-Closes a loophole from a bill I passed in 2021, and updates the Animal Traveling Act.
-Protects wild animals here in Colorado.
-HB26-1183 Sunset Pet Animal Care & Facilities Act
-Implements recommendations from DORA and continues PACFA.
-HB26-1274 State Agency Payments to Grant Recipients
-Allows state agencies to make advanced payments to grant recipients.
-HB26-1290 Criminal Offense of Assault
-Updates language and offenses for strangulating of another person.
-Protects domestic violence victims.
-HB26-1302 Colorado Bureau of Investigation Firearms InstaCheck Unit Operating Hour
-Allows the CBI to determine its own hours of operation that best meet its business needs.
-HB26-1306 Wild Horse License Plate
-Creates the special wild horse license plate.
-HB26-1311 Retainage Surety Bond Construction Contracts
-Authorizes a contractor to submit a surety bond in lieu of withholding retainage, and the property owner must accept the bond and not withhold the retainage if the bond meets the bill's standards.
-HB26-1326 Sunset Public Utilities Commission
-Implements recommendations from DORA and updated and modernized the Public Utilities Commission.
-HB26-1332 Legislative Department Cash Fund
-Adjusts the legislative department cash fund.
-HB26-1333 Fiscal Year 2026-27 Legislative Appropriation Bill
-Sets the appropriation for the legislative department for the 2026-27 state fiscal year.
-HB26-1339 Change Cesar Chavez Day to Farm Workers Day
-Changes the annual Cesar Chavez Day, celebrated on March 31st, to Farm Workers Day
-SB26-015 Commercial Sexual Activity with a Child Offenses
-Updates language in statute to align with federal law.
-Helps protect our children and holds human traffickers accountable.
-SB26-085 Military Protection Orders
-SB26-160 Personal Protective Equipment & Meatpackers
-Prohibits employers from making deductions from the wages or compensation of an employee for personal protective equipment and ensures restroom access for meatpackers.
-SB26-189 Automated Decision-Making Technology
-Defines ADMT technology and provides transparency in AI’s use in making decisions.
-2025 Legislative Session: Passed Bills
-HB25-1001 Enforcement Wage Hour Laws
-This was the first bill introduced in the 2025 legislative session and ensures that workers get their hard earned wages and that bad actors are held accountable.
-HB25-1005 Tax Incentive for Film Festivals
-This bill creates two refundable state income tax credits that would support Colorado's film festival industry.
-This bill goes into effect when the Sundance Film Festival comes to Boulder in 2027, which will bring significant tourism to Colorado, boost the state's economy, and significantly help small businesses and other small film festivals across the state.
-HB25-1057 American Indian Affairs Interim Committee
-Extends American Indian Affairs Interim Committee for 5 years starting next interim.
-HB25-1062 Penalty for Theft of Firearms
-Increases penalty for theft of a firearm to a class 6 felony and will reduce stolen guns that are on the streets.
-HB25-1110 Railroad Crossing Maintenance Costs
-This bill will split the costs of railroad maintenance with all involved parties when maintaining railroads.
-HB25-1130 Labor Requirements for Government Construction Projects
-This bill implements project labor provisions to ensure that state projects, like their energy sector counterparts, have the option and authorization to utilize project labor agreements consistently across both types of projects.
-HB25-1133 Requirements for Sale of Firearms Ammunition
-This bill would help keep communities safe by preventing ammunition from ending up in the wrong hands.
-It ensures that ammunition can only be accessed with employee assistance and requires that a person be 21 to purchase ammunition with limited exemptions.
-HB25-1180 Prohibiting Pet Animal Sales in Public Spaces
-This bill prohibits the sale or transfer of animals in public places with limited exemptions.
-HB25-1204 Colorado Indian Child Welfare Act
-This bill codifies the Indian Child Welfare Act of 1978 into state law and increases protections and communications with tribes in instances of child welfare cases.
-HB25-1207 Pet Ownership Residential Housing Structures
-Requires each housing development that receives financing to authorize tenants of the affordable housing to own up to two cats or dogs.
-HB25-1250 Gun Violence Prevention & Parents of Students
-This bill promotes firearm safety by requiring schools to provide gun safety materials to parents who have kids in K-12 education and to post educational materials of gun safety online for families to access.
-HB25-1283 Wild Horse Project Management & Immunocontraception
-Implements recommendations from the Wild Horse Project Working Group to ensure wild horse populations are humanely managed and kept at proper levels and continue looking at long term solutions.
-HB25-1284 Regulating Apprentices in Licensed Trades
-This bill will help protect apprentices by ensuring they are properly trained by closing a loophole in DORA that currently allows non- electrical and non-plumbing apprentices to be registered as plumbing and electrical apprentices.
-HB25-1299 Animal Protection Fund Voluntary Contribution
-Creates a voluntary tax check off when individuals are filing taxes.
+top of page About Legislation Leadership and Committees Updates Issues Endorsements More Use tab to navigate through the menu items.
+Contribute 2026 Legislative Session: Pas sed Bills HB26-1009 Colorado Mandatory Lethality Assessment Act Requires police officers to conduct a lethality assessment when responding to a domestic violence incident. ​ HB26-1011 Transfers of Certain Pet Animals Also known as Pistol the Pomeranian Protecting Act after my beloved Pistol who was a puppy mill dog.
+Ends the puppy mill pipeline to Colorado. ​ HB26-1033 Expanding the Colorado Cottage Foods Act Allows for the sale of Tamales, Burritos, Tortas, and other temperature controlled foods.
+Uplifts young entrepreneurs and home cooks. ​ HB26-1068 Remote Participation Policies for Joint Committees Allows the Executive Committee to adopt rules regarding remote participation for year round joint committees. ​ HB26-1081 Optimize Colorado Electric Transmission System Updates and modernizes Colorado’s electric transmission systems. ​ HB26-1133 Traveling Animal Protection Act Environmental Education Program Closes a loophole from a bill I passed in 2021, and updates the Animal Traveling Act.
+Protects wild animals here in Colorado. ​ HB26-1183 Sunset Pet Animal Care & Facilities Act Implements recommendations from DORA and continues PACFA. ​ HB26-1274 State Agency Payments to Grant Recipients Allows state agencies to make advanced payments to grant recipients. ​ HB26-1290 Criminal Offense of Assault Updates language and offenses for strangulating of another person.
+Protects domestic violence victims. ​ HB26-1302 Colorado Bureau of Investigation Firearms InstaCheck Unit Operating Hour Allows the CBI to determine its own hours of operation that best meet its business needs. ​ HB26-1306 Wild Horse License Plate Creates the special wild horse license plate. ​ HB26-1311 Retainage Surety Bond Construction Contracts Authorizes a contractor to submit a surety bond in lieu of withholding retainage, and the property owner must accept the bond and not withhold the retainage if the bond meets the bill's standards. ​ HB26-1326 Sunset Public Utilities Commission Implements recommendations from DORA and updated and modernized the Public Utilities Commission. ​ HB26-1332 Legislative Department Cash Fund Adjusts the legislative department cash fund. ​ HB26-1333 Fiscal Year 2026-27 Legislative Appropriation Bill Sets the appropriation for the legislative department for the 2026-27 state fiscal year. ​ HB26-1339 Change Cesar Chavez Day to Farm Workers Day Changes the annual Cesar Chavez Day, celebrated on March 31st, to Farm Workers Day ​ SB26-015 Commercial Sexual Activity with a Child Offenses Updates language in statute to align with federal law.
+Helps protect our children and holds human traffickers accountable. ​ SB26-085 Military Protection Orders If a peace officer finds that a party involved in domestic violence is a member of the military, they are required to determine if military protection orders have been placed on either party, and notify military law enforcement. ​ SB26-160 Personal Protective Equipment & Meatpackers Prohibits employers from making deductions from the wages or compensation of an employee for personal protective equipment and ensures restroom access for meatpackers. ​ SB26-189 Automated Decision-Making Technology Defines ADMT technology and provides transparency in AI’s use in making decisions. ​ 2025 Legislative Session: Pas sed Bills HB25-1001 Enforcement Wage Hour Laws This was the first bill introduced in the 2025 legislative session and ensures that workers get their hard earned wages and that bad actors are held accountable. ​ HB25-1005 Tax Incentive for Film Festivals This bill creates two refundable state income tax credits that would support Colorado's film festival industry.
+This bill goes into effect when the Sundance Film Festival comes to Boulder in 2027, which will bring significant tourism to Colorado, boost the state's economy, and significantly help small businesses and other small film festivals across the state. ​ HB25-1057 American Indian Affairs Interim Committee Extends American Indian Affairs Interim Committee for 5 years starting next interim. ​ HB25-1062 Penalty for Theft of Firearms Increases penalty for theft of a firearm to a class 6 felony and will reduce stolen guns that are on the streets. ​ HB25-1110 Railroad Crossing Maintenance Costs This bill will split the costs of railroad maintenance with all involved parties when maintaining railroads. ​ HB25-1130 Labor Requirements for Government Construction Projects This bill implements project labor provisions to ensure that state projects, like their energy sector counterparts, have the option and authorization to utilize project labor agreements consistently across both types of projects. ​ HB25-1133 Requirements for Sale of Firearms Ammunition This bill would help keep communities safe by preventing ammunition from ending up in the wrong hands.
+It ensures that ammunition can only be accessed with employee assistance and requires that a person be 21 to purchase ammunition with limited exemptions. ​ ​ HB25-1180 Prohibiting Pet Animal Sales in Public Spaces This bill prohibits the sale or transfer of animals in public places with limited exemptions. ​ HB25-1204 Colorado Indian Child Welfare Act This bill codifies the Indian Child Welfare Act of 1978 into state law and increases protections and communications with tribes in instances of child welfare cases. ​ HB25-1207 Pet Ownership Residential Housing Structures Requires each housing development that receives financing to authorize tenants of the affordable housing to own up to two cats or dogs. ​ HB25-1250 Gun Violence Prevention & Parents of Students This bill promotes firearm safety by requiring schools to provide gun safety materials to parents who have kids in K-12 education and to post educational materials of gun safety online for families to access. ​ HB25-1283 Wild Horse Project Management & Immunocontraception Implements recommendations from the Wild Horse Project Working Group to ensure wild horse populations are humanely managed and kept at proper levels and continue looking at long term solutions. ​ HB25-1284 Regulating Apprentices in Licensed Trades This bill will help protect apprentices by ensuring they are properly trained by closing a loophole in DORA that currently allows non- electrical and non-plumbing apprentices to be registered as plumbing and electrical apprentices. ​ HB25-1299 Animal Protection Fund Voluntary Contribution Creates a voluntary tax check off when individuals are filing taxes.
 These funds will go towards the Animal Protection Fund.
-This fund is used to help animals in emergency situations or allow animals to receive support.
-HB25-1319 County Commissioner Vacancies
-Modifies county commissioner vacancy elections across the state of Colorado.
-HB25-1328 Implement Recommendations Direct Care Worker Stabilization Board
-This bill will implement recommendations from the Direct Care Workforce Stabilization Board that will implement the option for a "know your rights" training for direct care workers, create a communication platform, and increase wages.
-HB25-1333 Legislative Human Resources Division
-Creates the Legislative Human Resources Division in the Legislative Branch.
-SB25-116 Spousal Maintenance Guidelines
-Ensures Colorado courts take into account past domestic violence convictions and behavior, when determining spousal maintenance.
-SB25-194 Sunset Dental Practice Act
-Makes changes to the Dental Practice Act and continues the act for another 9 years, until 2034.
-SB25-188 Fiscal Year 2025-26 Legislative Appropriation Bill
-Sets the legislative department budget for the 2025-2026 fiscal year.
-SB25-279 Colorado Code of Military Justice Updates
-Updates and modernizes the Colorado Code of Military Justice.
-2024 Legislative Session: Passed Bills
-HB24-1046 Child Welfare System Tools
-Enhances audit safety and risk assessment child welfare system tools.
-HB24-1122 Protection Orders for Victims and Crimes
-Modifies the definitions and administrative process concerning domestic violence and associated civil protection orders.
-HB24-1174 Concealed Carry Permits and Training
-Requires all applicants seeking a concealed carry permit to have classroom and live-fire training that is offered by a certified instructor.
-HB24-1225 First Degree Murder Bail and Jury Selection Statute
-Would allow for people who are charged under first degree murder to not eligible for bail when proof is evident and presumption is great.
-HB24-1256 Sunset Senior Dental Advisory Committee
-Continues the Low-income Senior Dental Program for another five years.
-This bill will allow for low-income seniors to receive dental care.
-HB24-1319 Fire Fighters License Plate Expiration on Transfer
-Allows for people that have a special fire fighter plate to renew their plate if transferred on assignment or to another vehicle.
-HB24-1327 Sunset Physical Therapist
-Continues the regulation of physical therapists and physical therapy until September 1, 2035.
-HB24-1349 Firearms and Ammunition Excise Tax
-If approved by voters in November 2024, will place and excise tax on firearms dealers, manufactures, and ammunition vendors that are engaged in the sale of firearms, firearms parts, and ammunition.
-HB24-1354 Require Notification of Disease Pet Care Facility
-Requires a pet care facility to notify pet animal owners within 24 hours after a suspected outbreak of an infectious disease if discovered at a pet care facility.
-HB24-1437 Prohibit Flat Fees For Defending Indigent Clients
-Ensures that a municipalities contract does not used fixed or flat fee payment structure for indigent defense services.
-The state instead shall use the same payment structure and rates that are paid by the state of Colorado.
-HB24-1458 Create Division of Animal Welfare in Department of Agriculture
-Allows for the creation of the animal welfare division in the Department of Agriculture.
-HB24-1074 Aggravated Cruelty to Law Enforcement Animals
-Aligned aggravated cruelty for law enforcement animals
-HB24-1098 For Cause
-Sets standards for non-renewals and ensures stable housing for renters
-SB24-035 Strengthening Enforcement of Human Trafficking
-Ensures that offenders who engage in human trafficking are held accountable and creates protections for victims.
-SB24-003 Colorado Bureau of Investigation Authority to Investigate Firearms Crimes
-Gives the Colorado Bureau of Investigation (CBI) the power and authority to investigate crimes relating to illegal firearm activity.
-SB24-010 Dentist and Dental Hygienist Compact
-Aims to address and facilitate the adoption of crucial standards in dental care.
-SB24-011 Online-Facilitated Misconduct & Remote Tracking,
-Implement measures that enhance protection from harm caused by the misuse of technology on dating websites and the unauthorized/nonconsensual use of remote tracking
-SB24-193 Protect Tribal Lands From Unauthorized Annexation,
-Makes any annexation near the border of reservation that is federally recognized invalid unless there is an ordinance or resolution approving of the annexation.
-SB24-218 Modernize Energy Distribution System
-Allows for the creation of an apprenticeship program in the Colorado energy office and ensures Colorado has the infrastructure to met our renewable goals
-2023 Legislative Session: Passed Bills
-HB23-1041 Prohibit Wagering On Simulcast Greyhound Races
-Illegalized gambling on greyhound races outside of Colorado
-HB23-1107 Crime Victim Services Funding
-Provided funding for services for victims of crimes like domestic violence
-HB23-1108 Victim And Survivor Training For Judicial Personnel
-Create a task force to study the experience of domestic violence survivors in court and how the judicial process can be improved to reduce trauma for victims
-HB23-1222 Cases Of Domestic Violence In Municipal Court
-Required municipal courts to follow the Colorado Victim Rights Act when handling domestic violence cases
-HB23-1286 Increase Penalty Cruelty Police And Service Animals
-Increased monetary penalties for the offense of cruelty to animals for working animals
-SB23-046 Average Weekly Wage Paid Leave Benefits
-Required using a persons full recent employment history when calculating paid leave benefits
-SB23-153 Sunset Revised Uniform Law On Notarial Acts
-Codified recommendations around notary publics and the use of translators in such services
-SB23-169 Increasing Minimum Age To Purchase Firearms
-Increased the minimum age to purchase a firearm in Colorado
-SB23-261 Direct Care Workforce Stabilization Board
-Created the direct care workforce stabilization board to develop recommendations regarding direct care workers
-SB23-275 Colorado Wild Horse Project
-Established the Colorado Wild Horse Project to support the management of wild horse herds in Colorado
-SB23-292 Labor Requirements For Energy Sector Construction
-Created a new category of public works project for the energy sector and requires them to follow Colorado’s prevailing wage law and apprenticeship utilization law to facilitate Colorado’s transition to green energy and provide an adequately trained workforce
-2022 Legislative Session: Passed Bills
-HB22-1259 Modifications to the Colorado Works Program
-Improves how TANF serves families below the federal poverty level.
-HB22-1273 Protections for Election Workers
-Protects election workers & their families against doxing & threats
-HB22-1230 Employment Support and Job Retention Services
-Continues a proven program that supports low-income individuals looking for/maintaining a job.
-HB22-1346 Electrician Plumber Licensing Apprentice Ratio
-Improves workers' safety.
-HB22-1349 Postsecondary Student Success Data System
-Improves student success and decision making and creates an online dashboard.
-HB22-1210 Sunset Domestic Violence Offender Management Board
-Continues DV offender management board
-SB22-183 Crime Victim Services
-Backfill deficit in funding to continue having accessible services and resources for victims of crimes
-SB22-219 Regulate Dental Therapists
-Creates a licensing process for dental therapists which will improve access to dental care, especially in rural areas
-SB22-150 Missing Murdered Indigenous Relatives
-Creates an office of liaison and alert system to work on solving the crisis of extremely high rates of crimes against indigenous relatives
-SB22-161 Wage Theft Employee Misclassification Enforcement
-Provides more clarity to wage theft claims & ensures that workers can get their earned wages
-SB22-100 Continue Domestic Violence Fatality Review Board
-SB22-043 Restitution Services for Victims
-Improves restitution services for victims to make sure they get what they are owed
-SB22-167 Affirm Greyhounds as Companion Pets
-Greyhounds will now be included in PACFA regulation, like every other breed since Colorado passed a law to eliminate greyhound racing in 2024
-2022 Environmental Bills I co-sponsored:
-SB22-193 Air Quality Improvement Investments
-Improves the air quality throughout the state
-SB22-230 Expand Water Resources Review Committee to Include Agriculture
-SB22-007 Increase Wildfire Risk Mitigation Outreach Efforts
-Provides an appropriation to increase outreach efforts to prevent wildfires before they happen.
-HB22-1382 Support Dark Sky Designation and Promotion in Colorado
-Encourages communities, parks, and protected areas to preserve Colorado's dark sky
-HB22-1379 Wildfire Prevention Watershed Restoration Funding
-Provides additional funding to certain natural resources in regards to wildfire prevention
-HB22-1345 Perfluoroalkyl and Polyfluoroalkyl Chemicals
-Increases protections for Coloradans against PFAS chemicals
-HB22-1322 Water Quality Regulation
-HB22-102 Wildfire Mitigation and Recovery
-Will improve our forest and provide preventative action
-2021 Legislative Session: Passed Bills
-HB21-1102 Pet store Consumer Protection
-Creates consumer protection measures that protect those looking to buy a cat or dog in the state by increasing transparency throughout the process.
-HB21-1106 Safe Storage of Firearms
-Requires that firearms are responsibly and securely stored when they are not in use to prevent access by unsupervised children and other unauthorized users.
+This fund is used to help animals in emergency situations or allow animals to receive support. ​ HB25-1319 County Commissioner Vacancies Modifies county commissioner vacancy elections across the state of Colorado. ​ ​ ​ ​ ​ ​ HB25-1328 Implement Recommendations Direct Care Worker Stabilization Board This bill will implement recommendations from the Direct Care Workforce Stabilization Board that will implement the option for a "know your rights" training for direct care workers, create a communication platform, and increase wages. ​ ​ HB25-1333 Legislative Human Resources Division Creates the Legislative Human Resources Division in the Legislative Branch. ​ SB25-116 Spousal Maintenance Guidelines Ensures Colorado courts take into account past domestic violence convictions and behavior, when determining spousal maintenance. ​ SB25-194 Sunset Dental Practice Act Makes changes to the Dental Practice Act and continues the act for another 9 years, until 2034. ​ SB25-188 Fiscal Year 2025-26 Legislative Appropriation Bill Sets the legislative department budget for the 2025-2026 fiscal year. ​ SB25-279 Colorado Code of Military Justice Updates ​ Updates and modernizes the Colorado Code of Military Justice.​ ​ ​ 2024 Legislative Session: Pas sed Bills HB24-1046 C hild Welfare System Tools Enhances audit safety and risk assessment child welfare system tools.
+HB24-1122 Protection Orders for Victims and Crimes Modifies the definitions and administrative process concerning domestic violence and associated civil protection orders.
+HB24-1174 Concealed Carry Permits and Training Requires all applicants seeking a concealed carry permit to have classroom and live-fire training that is offered by a certified instructor. ​ HB24-1225 First Degree Murder Bail and Jury Selection Statute Would allow for people who are charged under first degree murder to not eligible for bail when proof is evident and presumption is great. ​ HB24-1256 Sunset Senior Dental Advisory Committee Continues the Low-income Senior Dental Program for another five years.
+This bill will allow for low-income seniors to receive dental care. ​ HB24-1319 Fire Fighters License Plate Expiration on Transfer Allows for people that have a special fire fighter plate to renew their plate if transferred on assignment or to another vehicle.
+HB24-1327 Sunset Physical Therapist Continues the regulation of physical therapists and physical therapy until September 1, 2035. ​ HB24-1349 Firearms and Ammunition Excise Tax If approved by voters in November 2024, will place and excise tax on firearms dealers, manufactures, and ammunition vendors that are engaged in the sale of firearms, firearms parts, and ammunition. ​ HB24-1354 Require Notification of Disease Pet Care Facility Requires a pet care facility to notify pet animal owners within 24 hours after a suspected outbreak of an infectious disease if discovered at a pet care facility. ​ HB24-1437 Prohibit Flat Fees For Defending Indigent Clients Ensures that a municipalities contract does not used fixed or flat fee payment structure for indigent defense services.
+The state instead shall use the same payment structure and rates that are paid by the state of Colorado. ​ HB24-1458 Create Division of Animal Welfare in Department of Agriculture Allows for the creation of the animal welfare division in the Department of Agriculture. ​ HB24-1074 Aggravated Cruelty to Law Enforcement Animals Aligned aggravated cruelty for law enforcement animals ​ HB24-1098 For Cause Sets standards for non-renewals and ensures stable housing for renters ​ SB24-035 Strengthening Enforcement of Human Trafficking Ensures that offenders who engage in human trafficking are held accountable and creates protections for victims. ​ SB24-003 Colorado Bureau of Investigation Authority to Investigate Firearms Crimes Gives the Colorado Bureau of Investigation (CBI) the power and authority to investigate crimes relating to illegal firearm activity.
+SB24-010 Dentist and Dental Hygienist Compact Aims to address and facilitate the adoption of crucial standards in dental care. ​ SB24-011 Online-Facilitated Misconduct & Remote Tracking , Implement measures that enhance protection from harm caused by the misuse of technology on dating websites and the unauthorized/nonconsensual use of remote tracking ​ SB24-193 Protect Tribal Lands From Unauthorized Annexation , Makes any annexation near the border of reservation that is federally recognized invalid unless there is an ordinance or resolution approving of the annexation. ​ SB24-218 Modernize Energy Distribution System Allows for the creation of an apprenticeship program in the Colorado energy office and ensures Colorado has the infrastructure to met our renewable goals ​ 2023 Legislative Session: Pas sed Bills ​ HB23-1041 Prohibit Wagering On Simulcast Greyhound Races Illegalized gambling on greyhound races outside of Colorado HB23-1107 Crime Victim Services Funding Provided funding for services for victims of crimes like domestic violence HB23-1108 Victim And Survivor Training For Judicial Personnel Create a task force to study the experience of domestic violence survivors in court and how the judicial process can be improved to reduce trauma for victims HB23-1222 Cases Of Domestic Violence In Municipal Court Required municipal courts to follow the Colorado Victim Rights Act when handling domestic violence cases HB23-1286 Increase Penalty Cruelty Police And Service Animals Increased monetary penalties for the offense of cruelty to animals for working animals SB23-046 Average Weekly Wage Paid Leave Benefits Required using a persons full recent employment history when calculating paid leave benefits SB23-153 Sunset Revised Uniform Law On Notarial Acts Codified recommendations around notary publics and the use of translators in such services SB23-169 Increasing Minimum Age To Purchase Firearms Increased the minimum age to purchase a firearm in Colorado SB23-261 Direct Care Workforce Stabilization Board Created the direct care workforce stabilization board to develop recommendations regarding direct care workers SB23-275 Colorado Wild Horse Project Established the Colorado Wild Horse Project to support the management of wild horse herds in Colorado SB23-292 Labor Requirements For Energy Sector Construction Created a new category of public works project for the energy sector and requires them to follow Colorado’s prevailing wage law and apprenticeship utilization law to facilitate Colorado’s transition to green energy and provide an adequately trained workforce ​ 202 2 Legislati ve Session: Passed Bills HB22-1259 Modifications to the Colorado Works Program Improves how TANF serves families below the federal poverty level. ​ HB22-1273 Protections for Election Workers Protects election workers & their families agai n st doxing & threats ​ HB22-1230 Employment Support and Job Retention Services Continues a proven program that supports low-income individuals looking for/maintaining a job. ​ HB22-1346 Electrician Plumber Licensing Apprentice Ratio Improves workers' safety. ​ HB22-1349 Postsecondary Student Success Data System Improves student success and decision making and creates an online dashboard. ​ HB22-1210 Sunset Domestic Violence Offender Management Board Continues DV offender management board ​ SB22-183 Crime Victim Services Backfill deficit in funding to continue having accessible services and resources for victims of crimes ​ SB22-219 Regulate Dental Therapists Creates a licensing process for dental therapists which will improve access to dental care, especially in rural areas ​ SB22-150 Missing Murdered Indigenous Relatives Creates an office of liaison and alert system to work on solving the crisis of extremely high rates of crimes against indigenous relatives ​ SB22-161 Wage Theft Employee Misclassification Enforcement Provides more clarity to wage theft claims & ensures that workers can get their earned wages ​ SB22-100 Continue Domestic Violence Fatality Review Board ​ SB22-043 Restitution Services for Victims Improves restitution services for victims to make sure they get what they are owed ​ SB22-167 Affirm Greyhounds as Companion Pets Greyhounds will now be included in PACFA regulation, like every other breed since Colorado passed a law to eliminate greyhound racing in 2024 ​ 2022 Environmental Bills I co-sponsored: SB22-193 Air Quality Improvement Investments Improves the air quality throughout the state SB22-230 Expand Water Resources Review Committee to Include Agriculture SB22-007 Increase Wildfire Risk Mitigation Outreach Efforts Provides an appropriation to increase outreach efforts to prevent wildfires before they happen.
+HB22-1382 Support Dark Sky Designation and Promotion in Colorado Encourages communities, parks, and protected areas to preserve Colorado's dark sky HB22-1379 Wildfire Prevention Watershed Restoration Funding Provides additional funding to certain natural resources in regards to wildfire prevention HB22-1345 Perfluoroalkyl and Polyfluoroalkyl Chemicals Increases protections for Coloradans against PFAS chemicals HB22-1322 Water Quality Regulation HB22-102 Wildfire Mitigation and Recovery Will improve our forest and provide preventative action ​ 2021 Legislative Session: Passed Bills ​ HB21-1102 Pet store Consumer Protection Creates consumer protection measures that protect those looking to buy a cat or dog in the state by increasing transparency throughout the process. ​ HB21-1106 Safe Storage of Firearms Requires that firearms are responsibly and securely stored when they are not in use to prevent access by unsupervised children and other unauthorized users.
 The bill also requires licensed gun dealers to provide a locking device capable of securing the firearm when selling them.
-HB21-1160 Socially Conscious Sheltering
-Specifies the standard of care that each animal shelter and pet animal rescue is required to provide each dog and cat held in its custody.
-The bill also allows an animal shelter and pet animal rescue to transfer each dog and cat in its custody only by adopting the animal out, returning the animal to its owner, or transferring the animal to another animal shelter or pet animal rescue
-HB21-1165 Assistance for Victims of Strangulation
-Creates necessary access to medical care in forensics examination for victims of strangulation.
-The bill grants access to those victims and provides support to them in whatever direction they choose to move forward in.
-HB21-1167 Retainage Reform
-Prohibits a property owner from withholding from a contractor more than 5% of the price of completed work to ensure the work is satisfactorily completed, bringing this into alignment with existing statute.
-HB21-1255 Protection Order Firearm Relinquishment
-Promotes compliance with state and federal firearms possession laws, in order to protect victims of domestic violence, their children and families.
-It lays out the framework for relinquishing firearms after being issues a protective order.
-HB21-1288 Colorado Startup Loan Program
-Helps support existing small businesses and aspiring entrepreneurs to access capital needed to continue their growth.
+HB21-1160 Socially Conscious Sheltering Specifies the standard of care that each animal shelter and pet animal rescue is required to provide each dog and cat held in its custody.
+The bill also allows an animal shelter and pet animal rescue to transfer each dog and cat in its custody only by adopting the animal out, returning the animal to its owner, or transferring the animal to another animal shelter or pet animal rescue ​ HB21-1165 Assistance for Victims of Strangulation Creates necessary access to medical care in forensics examination for victims of strangulation.
+The bill grants access to those victims and provides support to them in whatever direction they choose to move forward in. ​ HB21-1167 Retainage Reform Prohibits a property owner from withholding from a contractor more than 5% of the price of completed work to ensure the work is satisfactorily completed, bringing this into alignment with existing statute. ​ HB21-1255 Protection Order Firearm Relinquishment Promotes compliance with state and federal firearms possession laws, in order to protect victims of domestic violence, their children and families.
+It lays out the framework for relinquishing firearms after being issues a protective order. ​ HB21-1288 Colorado Startup Loan Program Helps support existing small businesses and aspiring entrepreneurs to access capital needed to continue their growth.
 Throughout the pandemic many businesses had to close their doors or deal with unexpected gaps, specifically underrepresented communities.
-The bill helps provide the necessary funds to restart or reorganize after facing related financial challenges.
-HB21-1319 Modification to Prevailing Wage Requirements
-In 2019 the legislature passed Senate Bill 196, The Colorado Quality Apprenticeship Training Act.
-The goal of this legislation was to ensure that large state contracts adhered to apprenticeship training standards, and that wages were paid promptly and met prevailing standards.This bill’s implementation date was July 1st of this year, but because of the COVID-19 Pandemic, the implementation date for this act must be pushed back, hence, this bill.
-HB21-1218 Professional Fire Fighter License Plate Standards
-Current law sets standards for organizations that may qualify applicants to be issued a Colorado professional fire fighters license plate.
+The bill helps provide the necessary funds to restart or reorganize after facing related financial challenges. ​ HB21-1319 Modification to Prevailing Wage Requirements In 2019 the legislature passed Senate Bill 196, The Colorado Quality Apprenticeship Training Act.
+The goal of this legislation was to ensure that large state contracts adhered to apprenticeship training standards, and that wages were paid promptly and met prevailing standards.This bill’s implementation date was July 1st of this year, but because of the COVID-19 Pandemic, the implementation date for this act must be pushed back, hence, this bill. ​ HB21-1218 Professional Fire Fighter License Plate Standards Current law sets standards for organizations that may qualify applicants to be issued a Colorado professional fire fighters license plate.
 One of the qualifications is that the organization has been in existence for at least 20 years.
-The bill lowers this requirement to at least 15 years.
-SB21-135 Exotic Animal Traveling Act
-Prohibits the use of certain exotic animals in a traveling animal act.
-This bill protects animals that are often kept in terrible conditions.
-SB21-158 Increase Medical Providers for Seniors
-Incentivizes training and specialization in medical geriatric fields through a loan repayment program to make sure we have the medical providers we’ll need.
-The bill also focuses on areas with underserved communities like those in rural Colorado.
-SB21-188 Ballot Access for Voters With Disabilities
-Makes ballots more accessible for those with disabilities by expanding the already existing digital system for requesting a ballot.
-This bill creates the option to both request and submit a ballot electronically for individuals with disabilities that make it difficult for them to cast a traditional mail or paper ballot.
-SB21-190 Data Privacy for Consumers
-Protects consumers personal data by making sure there’s a reasonable and clear way for consumers to opt out of data collection for targeted advertising and data sale.
+The bill lowers this requirement to at least 15 years. ​ SB21-135 Exotic Animal Traveling Act Prohibits the use of certain exotic animals in a traveling animal act.
+This bill protects animals that are often kept in terrible conditions. ​ SB21-158 Increase Medical Providers for Seniors Incentivizes training and specialization in medical geriatric fields through a loan repayment program to make sure we have the medical providers we’ll need.
+The bill also focuses on areas with underserved communities like those in rural Colorado. ​ SB21-188 Ballot Access for Voters With Disabilities Makes ballots more accessible for those with disabilities by expanding the already existing digital system for requesting a ballot.
+This bill creates the option to both request and submit a ballot electronically for individuals with disabilities that make it difficult for them to cast a traditional mail or paper ballot. ​ SB21-190 Data Privacy for Consumers Protects consumers personal data by making sure there’s a reasonable and clear way for consumers to opt out of data collection for targeted advertising and data sale.
 This bill also honors businesses ability to continue to use data and current practices such as targeted advertising under new and improved guidelines.
-It also creates a universal opt-out option that will be available in a few years.
-SB21-102 Dental Hygienists Treatments Sunset
-Allows for the continued dental hygienist administration of minimal invasive therapeutic techniques.
-SB21-292 Federal Funding for Victims Assistance
-Allocates federal COVID-19 relief funding for victims assistance services and resources.
-2020 Legislative Session: Passed Bills
-HB20-1051 Identification Of Veteran Remains For Proper Military Burial
-Permits veteran’s remains recovery organizations to determine whether any unclaimed cremated remains are of United States military veterans who are eligible for interment in a national cemetery or state veterans' cemetery.
-HB20-1056 Nonsubstantive Reorganization Dental Practice Act
-Reorganizes the Dental Practice Act, which includes the laws governing the practice of dentistry, dental hygiene, and other procedures, tasks, and activities related to those practices.
-HB20-1210 Sunset State Board Of Chiropractic Examiners
-Continues the state board of chiropractic examiners and implements changes recommended by the Department of Regulatory Agencies.
-SB20-029 Cost Of Living Adjustment For Colorado Works Program
-Provides a one-time $500 payment to Colorado families receiving TANF, allowing those who are experiencing extreme poverty to receive additional money as soon as possible to meet their basic needs.
-SB20-096 Remote Notaries Protect Privacy
-Authorizes public notaries to provide services virtually.
-An Executive Order implemented by Governor Polis due to COVID-19 introduced this practice, and this bill allows consumers to access a remote notary option on a permanent basis.
-SB20-170 Update Colorado Employment Security Act
-Updates the Colorado Employment Security Act, including eliminating a requirement that survivors of domestic violence provide written documentation of abuse in order to access unemployment.
-SB20-208 Extending Expiring Tax Check-offs
-Extends several tax checkoff voluntary contribution programs, preserving funding for crucial services for our state.
-2019 Legislative Session: Passed Bills
-HB19-1288 Foster Youth Sibling Bill Of Rights
-Concerning increasing protections to ensure foster youth siblings maintain sibling relationships by providing foster youth siblings with certain rights, and, in connection therewith, establishing the foster youth sibling bill of rights.
-HB19-1086 Plumbing Inspections Ensure Compliance
-Concerning the conduct of plumbing inspections to ensure compliance with the plumbing law.
-HB19-1038 Dental Services For Pregnant Women On Children's Basic Health Plan Plus
-Concerning dental services for pregnant women covered under the children's basic health plan, and, in connection therewith, making an appropriation.
-SB19-238 Improve Wages And Accountability Home Care Workers
-Concerning home care agencies, and, in connection therewith, requiring certain agencies to expend a minimum percentage of their reimbursements from the "Colorado Medical Assistance Act" as wages for employees who provide direct care, requiring the department of health care policy and financing to enforce training requirements and request an increase to the reimbursement rate for certain services provided under the "Colorado Medical Assistance Act", and making an appropriation.
-SB19-205 Honor Service Of Women Veterans
-Concerning the creation of a license plate to honor women veterans of the United States armed forces, and, in connection therewith, making an appropriation.
-SB19-196 Colorado Quality Apprenticeship Training Act Of 2019
-Concerning the modification of procurement requirements for state contracts for public projects.
-SB19-188 FAMLI Family Medical Leave Insurance Program
-Concerning the creation of a family and medical leave insurance program, and, in connection therewith, creating an implementation plan for a family and medical leave insurance program and making an appropriation.
-SB19-167 Honor Colorado Professional Fire Fighters
-Concerning the creation of a Colorado professional fire fighters license plate, and, in connection therewith, making an appropriation.
-SB19-152 Sunset Public Safety Communications Subcommittee
-Concerning the continuation of the public safety communications subcommittee, and, in connection therewith, implementing the recommendations contained in the 2018 sunset report by the department of regulatory agencies.
+It also creates a universal opt-out option that will be available in a few years. ​ SB21-102 Dental Hygienists Treatments Sunset Allows for the continued dental hygienist administration of minimal invasive therapeutic techniques. ​ SB21-292 Federal Funding for Victims Assistance Allocates federal COVID-19 relief funding for victims assistance services and resources. ​ ​ ​ 2020 Legislative Session: Passed Bills ​ HB20-1051 Identification Of Veteran Remains For Proper Military Burial Permits veteran’s remains recovery organizations to determine whether any unclaimed cremated remains are of United States military veterans who are eligible for interment in a national cemetery or state veterans' cemetery. ​ HB20-1056 Nonsubstantive Reorganization Dental Practice Act Reorganizes the Dental Practice Act, which includes the laws governing the practice of dentistry, dental hygiene, and other procedures, tasks, and activities related to those practices. ​ HB20-1210 Sunset State Board Of Chiropractic Examiners Continues the state board of chiropractic examiners and implements changes recommended by the Department of Regulatory Agencies. ​ SB20-029 Cost Of Living Adjustment For Colorado Works Program Provides a one-time $500 payment to Colorado families receiving TANF, allowing those who are experiencing extreme poverty to receive additional money as soon as possible to meet their basic needs. ​ SB20-096 Remote Notaries Protect Privacy Authorizes public notaries to provide services virtually.
+An Executive Order implemented by Governor Polis due to COVID-19 introduced this practice, and this bill allows consumers to access a remote notary option on a permanent basis. ​ SB20-170 Update Colorado Employment Security Act Updates the Colorado Employment Security Act, including eliminating a requirement that survivors of domestic violence provide written documentation of abuse in order to access unemployment. ​ SB20-208 Extending Expiring Tax Check-offs Extends several tax checkoff voluntary contribution programs, preserving funding for crucial services for our state. ​ ​ 2019 Legislative Session: Passed Bills ​ HB19-1288 Foster Youth Sibling Bill Of Rights Concerning increasing protections to ensure foster youth siblings maintain sibling relationships by providing foster youth siblings with certain rights, and, in connection therewith, establishing the foster youth sibling bill of rights.
+HB19-1086 Plumbing Inspections Ensure Compliance Concerning the conduct of plumbing inspections to ensure compliance with the plumbing law. ​ HB19-1038 Dental Services For Pregnant Women On Children's Basic Health Plan Plus Concerning dental services for pregnant women covered under the children's basic health plan, and, in connection therewith, making an appropriation. ​ SB19-238 Improve Wages And Accountability Home Care Workers Concerning home care agencies, and, in connection therewith, requiring certain agencies to expend a minimum percentage of their reimbursements from the "Colorado Medical Assistance Act" as wages for employees who provide direct care, requiring the department of health care policy and financing to enforce training requirements and request an increase to the reimbursement rate for certain services provided under the "Colorado Medical Assistance Act", and making an appropriation. ​ SB19-205 Honor Service Of Women Veterans Concerning the creation of a license plate to honor women veterans of the United States armed forces, and, in connection therewith, making an appropriation. ​ SB19-196 Colorado Quality Apprenticeship Training Act Of 2019 Concerning the modification of procurement requirements for state contracts for public projects. ​ SB19-188 FAMLI Family Medical Leave Insurance Program Concerning the creation of a family and medical leave insurance program, and, in connection therewith, creating an implementation plan for a family and medical leave insurance program and making an appropriation. ​ SB19-167 Honor Colorado Professional Fire Fighters Concerning the creation of a Colorado professional fire fighters license plate, and, in connection therewith, making an appropriation. ​ SB19-152 Sunset Public Safety Communications Subcommittee Concerning the continuation of the public safety communications subcommittee, and, in connection therewith, implementing the recommendations contained in the 2018 sunset report by the department of regulatory agencies. ​ Subscribe Volunteer Contribute Contact Me Official State Page Gallery Resources Monica PAC Paid for by Duran for Colorado, Registered Agent: Monica Duran; and Monica PAC, Registered Agent: Monica Duran.
+Copyright © # - # .
+All rights reserved. bottom of page

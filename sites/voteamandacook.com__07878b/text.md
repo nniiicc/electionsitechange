@@ -1,5 +1,4 @@
-A Champion for Courage, Creativity, and Community
-Amanda Cook, serving as Representative for NC House District 60, has consistently demonstrated remarkable courage and leadership in every role she has assumed.
+Home About Amanda Cook Issues Contact Us Volunteer Request A Yard Sign Endorsements Where to Vote Donate More Home About Amanda Cook Issues Contact Us Volunteer Request A Yard Sign Endorsements Where to Vote Donate Home About Amanda Cook Issues Contact Us Volunteer Request A Yard Sign Endorsements Where to Vote Donate Why You Want Amanda Cook A Champion for Courage, Creativity, and Community Amanda Cook, serving as Representative for NC House District 60, has consistently demonstrated remarkable courage and leadership in every role she has assumed.
 Known for her decisive actions, she has earned accolades for her contributions to racial equity and fostering a growth mindset throughout her career.
 Amanda has been a strong pillar of support for those feeling hopeless, always ready to lend a listening ear and a supportive shoulder.
 Her refusal to settle for the ordinary when innovation is possible sets her apart.
@@ -10,4 +9,4 @@ Her decision to move to High Point was a bold and active choice, driven by her r
 Through her educational nonprofit, The Teacher’s Edge, Amanda has shown her commitment to making sure that others recognize and appreciate all that High Point has to offer.
 Electing Amanda Cook to represent District 60 in Raleigh is a choice for bold courage, relentless creativity, and a profound commitment to community.
 A vote for Amanda is a vote for a brighter, more inclusive future for all.
-Paid for by Elect Amanda Cook
+Sign Up for Our Newsletter Email Sign up Socials Paid for by Elect Amanda Cook Donate Privacy Policy Terms and Conditions

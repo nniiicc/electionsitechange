@@ -1,51 +1,13 @@
-ABOUT JASON
-Representative Morgan has been a teacher and community leader who has devoted his life to public service.
-First-generation college graduate
-The son of a commercial fisherman and school lunch aide, Jason Morgan was raised in Pinconning, Michigan.
+top of page DONATE JOIN THE CAMPAIGN!
+About Jason News Get Involved Voting Priorities Endorsements More Use tab to navigate through the menu items.
+ABOUT JASON Representative Morgan has been a teacher and community leader who has devoted his life to public service.
+First-generation college graduate The son of a commercial fisherman and school lunch aide, Jason Morgan was raised in Pinconning, Michigan.
 By working part-time and thanks to state and federal student aid, Jason worked his way through college as a first-generation college student, earning a Bachelor’s Degree in Political Science from Northern Michigan University.
 He later earned a Master of Public Administration degree from the Ford School of Public Policy at the University of Michigan.
-Washtenaw County Commissioner
-Jason served as a Washtenaw County Commissioner, representing Burns Park, and Central Ann Arbor.
+Washtenaw County Commissioner Jason served as a Washtenaw County Commissioner, representing Burns Park, and Central Ann Arbor.
 First elected in 2016 and re-elected twice with nearly 90% of the vote, he was elected Chair of the Board in 2019 and served as the county's first-ever LGBTQ chair.
-Working with our Progressive Leaders
-Over the last ten years, Jason has taken action in various leadership positions in the community, including as:
-- Constituent Services Director to Michigan Secretary of State Jocelyn Benson
-- District Director to Congresswoman Debbie Dingell
-- Special Advisor to Congresswoman Haley Stevens
-- Transition Director to Congresswoman Elissa Slotkin
-- Director of Government and Community Relations at Washtenaw Community College (WCC)
-- Aide to Congressman John Dingell, working as the Congressman’s liaison to Washtenaw County and managing education-related casework for Michigan's 12th district
-- Aide to Congressman Bart Stupak and Michigan Senate Minority Leader Michael Prusi.
-A Strong Record of Community Service
-In addition to his leadership in Washtenaw County, Jason servesdas a Northern Michigan University Trustee, having been appointed by Gov.
+Working with our Progressive Leaders Over the last ten years, Jason has taken action in various leadership positions in the community, including as: Constituent Services Director to Michigan Secretary of State Jocelyn Benson District Director to Congresswoman Debbie Dingell Special Advisor to Congresswoman Haley Stevens Transition Director to Congresswoman Elissa Slotkin Director of Government and Community Relations at Washtenaw Community College (WCC) Aide to Congressman John Dingell, working as the Congressman’s liaison to Washtenaw County and managing education-related casework for Michigan's 12th district Aide to Congressman Bart Stupak and Michigan Senate Minority Leader Michael Prusi.
+A Strong Record of Community Service In addition to his leadership in Washtenaw County, Jason servesdas a Northern Michigan University Trustee, having been appointed by Gov.
 Gretchen Whitmer, and is a service member of the United States Coast Guard Auxiliary.
-Jason’s additional community service includes:
-- Washtenaw County Urban County Executive Committee, Chair
-- Washtenaw Area Transportation Authority, Treasurer
-- Southeast Michigan Council of Governments, Vice Chair
-- Community Action Board, Chair (2013-2017)
-- Criminal Justice Collaborative Council
-- Homeland Security Task Force
-- Environmental Council
-- Brownfield Development Authority
-- Statutory Drain Board
-- Space Plan Committee
-- Board of Public Works, Liaison
-- Youth Commission, Liaison
-- Emergency Medical Services Commission
-- Economic Development Coordinating Committee
-- Economic Development Corporation
-- Southeast Michigan Council of Governments, Legislative Policy Platform Committee, Chair (2020)
-- Democratic National Committee, Delegate (2020)
-- Michigan Democratic Party State Central Committee (2018-present)
-- Muscular Dystrophy Association, National Community Advisory Committee (2017-2020)
-- Jim Toy Community Center, Public Policy, Chair (2012-2017)
-- Washtenaw County Democratic Party, Executive Committee (2011-present)
-- Ann Arbor Democratic Club, Executive Committee (2012-present)
-- Washtenaw Health Initiative Planning Committee (2011-2013)
-- Workforce Intelligence Network, Public Policy Committee (2013-2016)
-- Region 9 Prosperity Initiative, Management Team (2014-2016)
-- Eastern Michigan University LGBT Resource Center Advisory Committee (2013-2018)
-- Ann Arbor Local Officers Compensation Commission (2014-2016)
-- Muscular Dystrophy Association, Volunteer (2007-present)
-Jason’s passion is serving the community, with a particular focus on addressing economic and social inequality, LGBTQ rights, access to quality public education, transportation, mental health, and supporting Michigan's infrastructure.
+Jason’s additional community service includes: ​ Washtenaw County Urban County Executive Committee, Chair Washtenaw Area Transportation Authority, Treasurer Southeast Michigan Council of Governments, Vice Chair Community Action Board, Chair (2013-2017) Criminal Justice Collaborative Council Homeland Security Task Force Environmental Council Brownfield Development Authority Statutory Drain Board Space Plan Committee Board of Public Works, Liaison Youth Commission, Liaison Emergency Medical Services Commission Economic Development Coordinating Committee Economic Development Corporation Southeast Michigan Council of Governments, Legislative Policy Platform Committee, Chair (2020) Democratic National Committee, Delegate (2020) Michigan Democratic Party State Central Committee (2018-present) Muscular Dystrophy Association, National Community Advisory Committee (2017-2020) Jim Toy Community Center, Public Policy, Chair (2012-2017) Washtenaw County Democratic Party, Executive Committee (2011-present) Ann Arbor Democratic Club, Executive Committee (2012-present) Washtenaw Health Initiative Planning Committee (2011-2013) Workforce Intelligence Network, Public Policy Committee (2013-2016) Region 9 Prosperity Initiative, Management Team (2014-2016) Eastern Michigan University LGBT Resource Center Advisory Committee (2013-2018) Ann Arbor Local Officers Compensation Commission (2014-2016) Muscular Dystrophy Association, Volunteer (2007-present) Jason’s passion is serving the community, with a particular focus on addressing economic and social inequality, LGBTQ rights, access to quality public education, transportation, mental health, and supporting Michigan's infrastructure.
+Home About Jason Issues Endorsements News Get Involved Paid for by Jason Morgan for State Representative 2860 Gladstone Avenue ANN ARBOR, MI 48104 © # Jason Morgan for State Representative 2860 Gladstone Avenue Ann Arbor, MI 48104 votejasonmorgan@gmail.com bottom of page

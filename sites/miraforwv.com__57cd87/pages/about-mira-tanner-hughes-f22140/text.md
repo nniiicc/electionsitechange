@@ -1,4 +1,4 @@
-People Over Profits.
+Mira Tanner-Hughes | WV District 65 Home About Priorities Endorsements Get Involved District 65 Mira Tanner-Hughes | WV District 65 Home About Priorities Endorsements Get Involved District 65 Read the Priorities Get Involved People Over Profits.
 Always.
 Even if you don’t know my name, you know me.
 I was your local Wal-Mart sales rep and cashier from Buckhannon to Weston for a decade.
@@ -18,4 +18,4 @@ We keep us fed, but we can also keep us housed; we can keep us secure, we can ke
 We need an economy, government institutions, and leadership that work for all of us, and we need to make those demands together, by registering to vote, and supporting candidates who want to serve us.
 Whether you can volunteer your time by helping us reach other community members through door-knocking, donating to our Community Impact Fund which seeks to build a shelter for the unhoused in Upshur county, or getting out on election day to make your voice heard, we need you.
 Please vote Mira T-H on November 3rd, for a future we can afford.
-"I'm just a community volunteer who is tired of seeing the suffering of my neighbors be ignored by those in power."
+"I'm just a community volunteer who is tired of seeing the suffering of my neighbors be ignored by those in power." Mira Tanner-Hughes A Future You Can Afford Campaign HOME ABOUT PRIORITIES ENDORSEMENTS GET INVOLVED DISTRICT 65 Connect mirath@tuta.com (681) 245-7654 West Virginia House of Delegates District 65 © # District 65 Campaign - A grassroots campaign for West Virginia.

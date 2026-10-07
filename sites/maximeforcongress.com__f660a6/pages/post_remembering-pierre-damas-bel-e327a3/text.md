@@ -1,6 +1,5 @@
-Remembering Pierre Damas Bel: A Call for Compassion in Immigration Policy
-Updated: Sep 9
-I am heartbroken by the death of Pierre Damas Bel, a 20-year-old Haitian college student whose life was filled with promise.
+top of page Meet Dr.
+Maxime Issues Lower Costs Immigration Healthcare Education Ownership Equity Jobs & Economic Security Small Business Accountability Students & Opportunity Civility & Unity Lower Costs Immigration Healthcare Education Ownership Equity Jobs & Economic Security Small Business Accountability Students & Opportunity Civility & Unity Get Involved Events News DONATE All Posts Remembering Pierre Damas Bel: A Call for Compassion in Immigration Policy Kedner Maxime Sep 3 1 min read Updated: Sep 9 I am heartbroken by the death of Pierre Damas Bel , a 20-year-old Haitian college student whose life was filled with promise.
 Similar to my story, as an immigrant from Haiti, Pierre came to this country to pursue an education and build a future.
 He graduated from high school with honors, played soccer, participated in ROTC, and dreamed of a career in medicine.
 According to his family, after losing immigration protections and being required to wear an ICE ankle monitor, Pierre experienced humiliation, bullying, and tremendous emotional distress.
@@ -13,6 +12,10 @@ Immigration policy and mental-health care should never be separated from human d
 My prayers are with Pierre’s father, his family, his classmates, the Haitian community in Springfield, and everyone grieving this extraordinary young man.
 May Pierre Damas Bel rest in peace.
 If you or someone you know is struggling or experiencing a mental-health crisis, call or text 988 for the Suicide & Crisis Lifeline.
-Source and Attribution
-NBC News.
-"[Springfield, Ohio, Haitian student dies by suicide after ICE ankle monitor mandate]" https://www.nbcnews.com/news/us-news/springfield-ohio-haitian-student-dies-suicide-ice-mandates-ankle-monit-rcna595552
+Source and Attribution NBC News. "[Springfield, Ohio, Haitian student dies by suicide after ICE ankle monitor mandate]" https://www.nbcnews.com/news/us-news/springfield-ohio-haitian-student-dies-suicide-ice-mandates-ankle-monit-rcna595552 Recent Posts See All Why FL-20 Must Stay Rooted in Our Community | Dr.
+Kedner Maxime Barbershop Series Kicks Off | Dr.
+Kedner Maxime Responding to Laura Loomer's Attacks on Black Women in Politics DONATE Follow The Campaign A vision for Florida's District 20.
+Dedicated to bringing principled leadership and community-focused advocacy to Washington through grassroots support and donation.
+Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com VOLUNTEER Paid for by Dr.
+Kedner Maxime for Congress.
+Privacy Policy bottom of page

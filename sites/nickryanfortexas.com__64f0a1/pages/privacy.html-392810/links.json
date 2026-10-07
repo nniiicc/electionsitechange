@@ -1,6 +1,26 @@
 [
-"https://nickryanfortexas.com/index.html",
-"https://nickryanfortexas.com/issues.html",
-"https://nickryanfortexas.com/story.html",
-"https://nickryanfortexas.com/volunteer.html"
+{
+"text": "Home",
+"href": "https://nickryanfortexas.com/index.html#hero"
+},
+{
+"text": "Issues",
+"href": "https://nickryanfortexas.com/issues.html#issues-page"
+},
+{
+"text": "Meet Nicholas Ryan",
+"href": "https://nickryanfortexas.com/story.html#story-page"
+},
+{
+"text": "Volunteer",
+"href": "https://nickryanfortexas.com/volunteer.html#volunteer-page"
+},
+{
+"text": "[image: Nicholas Ryan Holbrook Campaign logo]",
+"href": "https://nickryanfortexas.com/index.html#hero"
+},
+{
+"text": "nick@nickryanfortexas.com",
+"href": "mailto:nick@nickryanfortexas.com"
+}
 ]

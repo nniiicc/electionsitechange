@@ -1,5 +1,5 @@
-Barrington, Rhode Island —
-Barrington, RI – Ken Block, Independent candidate for Governor of Rhode Island, issued the following statement in response to the Rhode Island Board of Elections meeting regarding recount requests for recent primary elections including the Republican Gubernatorial Primary.
+★ November 3, 2026 Countdown to Election Day # Days # Hours # Minutes # Seconds Home About Issues Appearances Media & Press Ken I Be Honest Polls Donate Donate ← Media & Press Official Press Release Statement in Response to Rhode Island Board of Election Meeting Barrington, RI – Ken Block, Independent candidate for Governor of Rhode Island, issued the following statement in response to the Rhode Island Board of Elections meeting regarding recount requests for recent primary elections including the Republican Gubernatorial Primary...
+Release Date September 14, 2026 Location Barrington, Rhode Island Media Contact michelle@blockforgovernor.com Barrington, Rhode Island — Barrington, RI – Ken Block, Independent candidate for Governor of Rhode Island, issued the following statement in response to the Rhode Island Board of Elections meeting regarding recount requests for recent primary elections including the Republican Gubernatorial Primary.
 "Rhode Island's election calendar is broken because the primary election occurs far too late in the year.
 Our state has the second-latest primary election in the entire country, trailing only Delaware.
 The extremely close result in this year's Republican Gubernatorial Primary shows the need to move the primary earlier as candidates and election officials do not have enough time to verify the result and pursue potential remedies including recounts.
@@ -9,5 +9,5 @@ As Governor, I will strongly support legislation to move our primary back to Jun
 I played a central role in eliminating the master lever, another seriously flawed mechanism in our elections.
 I know what it takes to get an important government reform across the finish line.
 Our current election calendar is unfair and detrimental to the health of our democracy.
-We must fix this."
-# # #
+We must fix this." # # # ← Back to Media & Press ✉ Media Contact For questions, interviews, or additional information, contact Michelle Conway. michelle@blockforgovernor.com ★ About Ken Block Ken Block is an independent candidate for Governor of Rhode Island focused on accountable, effective government that works for every resident.
+Learn more about Ken → Privacy Policy Terms of Use Copyright ©# blockforgovernor All Rights Reserved.

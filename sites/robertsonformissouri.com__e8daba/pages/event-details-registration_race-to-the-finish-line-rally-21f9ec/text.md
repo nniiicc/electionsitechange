@@ -1,14 +1,5 @@
-top of page
-Race to the Finish Line Rally
-Thu, Jul 23
-|Rocking J Venue
-Let's Rally for Robertson to Finish Victorious: For God and For Missouri!
-Registration is closed
-Time & Location
-Jul 23, 2026, 6:00 PM – 9:00 PM
-Rocking J Venue, 6722 Bridle Trail Ln, High Ridge, MO 63049, USA
-Guests
-About the event
-If you missed the payment link in the RSVP email you can click and pay here: https://secure.anedot.com/robertsonformissouri/d37947e3-6686-4d1b-bc10-93cc180e3f15
-Race to the Finish Line Rally, Thursday evening, July 23, Rocking J Venue, 6722 Bridle Trail Ln, High Ridge, MO 63049
-bottom of page
+top of page Home Mission Tribute to a Hero Issues Events News Use tab to navigate through the menu items.
+DONATE Feature Event : Trivia Night Fundraiser Race to the Finish Line Rally Thu, Jul 23 | Rocking J Venue Let's Rally for Robertson to Finish Victorious: For God and For Missouri!
+Registration is closed See other events Time & Location Jul 23, 2026, 6:00 PM – 9:00 PM Rocking J Venue, 6722 Bridle Trail Ln, High Ridge, MO 63049, USA Guests + 12 other guests About the event If you missed the payment link in the RSVP email you can click and pay here: https://secure.anedot.com/robertsonformissouri/d37947e3-6686-4d1b-bc10-93cc180e3f15 Special Guest Em Cee Robb Carter!
+Race to the Finish Line Rally, Thursday evening, July 23, Rocking J Venue, 6722 Bridle Trail Ln, High Ridge, MO 63049 Join Us Once Again at the Awesome Rocking J Ranch Venue!
+Show More Share this event David Robertson for Missouri 314-807-4759 provinse7@gmail.com PO Box 179 High Ridge, MO 63049 DONATE Privacy Policy Terms & Conditions Accessibility Statement Paid for by Robertson for Missouri, Ken Merrill, Treasurer ​ © #-26 David Robertson for Missouri bottom of page

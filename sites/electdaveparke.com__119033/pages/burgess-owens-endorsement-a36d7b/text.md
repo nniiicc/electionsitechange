@@ -1,5 +1,3 @@
-“West Valley City would be well-served by having Dave Parke in the State House.
+0 Skip to Content Meet Dave Key Priorities Endorsements Blog Meet Dave Parke Affordability in Utah Get Involved Donate Open Menu Close Menu Meet Dave Key Priorities Endorsements Blog Meet Dave Parke Affordability in Utah Get Involved Donate Open Menu Close Menu Meet Dave Key Priorities Endorsements Folder: Blog Back Meet Dave Parke Affordability in Utah Get Involved Donate “West Valley City would be well-served by having Dave Parke in the State House.
 Dave's leadership experience and conservative values will make him an effective representative who can deliver for the West Side.
-Join me in supporting Dave Parke for the Utah House of Representatives.”
-Congressman Burgess Owens
-United States Congress
+Join me in supporting Dave Parke for the Utah House of Representatives.” Congressman Burgess Owens United States Congress Sign Up For Updates Sign Up For Updates - Paid for by Campaign to Elect Dave Parke -

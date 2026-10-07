@@ -1,4 +1,4 @@
-Americans tend to think that we’re either the best or the worst at everything.
+Skip to content Tom Cole For Congress About About Tom About the District Press Packet News Room Connect On The Issues All Issues Growing the Economy Debt and Spending Securing Our Border Preserving our Second Amendment Protecting the Unborn National Security American Energy Independence Veterans ICYMI , News Room ICYMI: America and the Global Pandemic Response June 20, 2020 June 29, 2021 Donate Via the Pauls Valley Daily Democrat: By Congressman Tom Cole (OK-4): June 11, 2020 Americans tend to think that we’re either the best or the worst at everything.
 And while I agree that the United States hasn’t been the absolute best in the world in terms of coronavirus response, our nation has certainly fared better than most advanced countries and remains far from the worst in terms of dealing with COVID-19.
 Whether success is measured by testing, cases, fatalities or some other metric, it’s important to put any such data in the right context – including using relevant country-to-country comparisons and appropriate skepticism about some data provided by various countries.
 In terms of testing to date, the United States has performed nearly 22 million tests, including nearly 222,000 in Oklahoma.
@@ -22,3 +22,8 @@ Certainly, there are lessons to be learned from them as we actively prepare for 
 Fortunately, Congress has worked in a bipartisan manner throughout this crisis and delivered four essential relief packages for Americans struggling by no fault of their own.
 And before coronavirus struck, I am grateful that Congress generously invested in worthy tools and response resources to strengthen our readiness.
 Clearly, pandemic preparedness must be an even higher investment priority in the days to come.
+Post navigation Previous: Trump Campaign Announces Top Surrogates for Tulsa Rally Next: Tom Cole Launches TV Ad Connect Recent Posts Tom Cole Announces For Re-Election Breaking: President Trump Endorses Congressman Tom Cole Cole: Promises Made, Promises Kept Tom Cole Is Endorsed By the Republican Jewish Coalition Tom Cole Is Endorsed By The State Chamber of Oklahoma PAC Keep up with the Campaign via Email Name First Last Email Phone (Required) (Required) By providing your phone number, you agree to receive text messages from Cole for Congress.
+Message & data rates may apply.
+Message frequency varies. donations may be solicited.
+Reply STOP to opt out, reply HELP for help.
+Privacy Policy About Tom On The Issues News Room Connect Privacy Policy Donate Paid for by Cole for Congress Powered By Push Digital © #

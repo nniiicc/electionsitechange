@@ -1,9 +1,12 @@
 {
  "description": "Steve Johnson in the News",
  "final_url": "https://www.friendsofstevejohnson.com/news",
- "paid_for_by": null,
+ "fingerprint": "20a531e3943155b86c6714ef19deebeba883829d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Keeping you in the loop",
  "years_mentioned": [
+  "2002",
   "2013",
   "2016",
   "2025"

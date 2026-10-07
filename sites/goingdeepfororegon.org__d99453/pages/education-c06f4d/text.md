@@ -1,10 +1,6 @@
-Education
-Scappoose Middle School
-Everyone needs skills and knowledge of their choosing to be healthy, happy, and successful, no matter the path they choose.
+Donate Menu Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Education Scappoose Middle School Everyone needs skills and knowledge of their choosing to be healthy, happy, and successful, no matter the path they choose.
 We the People are responsible to ease their path with STEAM, vocational, and technical programs, and with access to childcare for all Oregon families.
-Unfunded mandates need to be phased out or funded, since they harm every other school program.
-—
-Public education is not a business.
+Unfunded mandates need to be phased out or funded, since they harm every other school program. — Public education is not a business.
 It’s not about net present value – which is a big, negative number.
 We do it despite that, because we also love and care for the people who will inherit our world.
 We have discussions about what education includes and how to pay for it.
@@ -36,3 +32,5 @@ Intelligence is great but by itself does nothing.
 Higher intelligence is just potential for gaining knowledge a little faster and maybe a little deeper than others.
 Gaining knowledge and skills still requires effort, and experience is irreplaceable.
 Public education is the heart of gaining knowledge and skills for everyone.
+Stay up to date Follow me on the campaign trail!
+Email Subscribe Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Donate Accessibility Statement Contact Site Map Campaign Disclaimer TBD 123 Main Street Anytown, OR 12345 Going Deep for Oregon © #

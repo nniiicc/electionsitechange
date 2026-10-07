@@ -1,6 +1,5 @@
-About Delegate Diana M.
-Fennell
-Delegate Diana M.
+0 Skip to Content Home About Legislative Achievements Priorities Office Contact Scholarship End of Session Letter 2026 Media Campaign Friends of Diana Fennell Donate Endorsements & Supporters Friends and Neighbors Get Involved Open Menu Close Menu Home About Legislative Achievements Priorities Office Contact Scholarship End of Session Letter 2026 Media Campaign Friends of Diana Fennell Donate Endorsements & Supporters Friends and Neighbors Get Involved Open Menu Close Menu Home About Legislative Achievements Priorities Folder: Office Back Contact Scholarship End of Session Letter 2026 Media Folder: Campaign Friends of Diana Fennell Back Donate Endorsements & Supporters Friends and Neighbors Get Involved About Delegate Diana M.
+Fennell Delegate Diana M.
 Fennell (Democrat) is a resilient public servant and a steadfast advocate for the people of Maryland.
 A proud breast cancer survivor, she brings her strength and determination to every aspect of her work, fighting for progress, equity, and justice.
 Her political journey began in 1995 as a Council Member for the Town of Colmar Manor, where she worked to address local issues and uplift her community.
@@ -20,3 +19,10 @@ She is dedicated to creating a brighter and more prosperous future for District 
 Whether it’s championing healthcare access, advocating for fair wages, or addressing social justice issues, Delegate Fennell remains committed to making a real difference.
 Gratitude and Service With the support of her husband, Jeffrey Fennell Sr., and their two children, DeJanee and Jeffrey Jr., Delegate Fennell is deeply grateful for the trust her community has placed in her.
 She extends her heartfelt thanks to the people of District 47-A and promises to continue her dedicated service, working tirelessly for the betterment of all Marylanders.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe to receive timely updates, news, and announcements from the office of Delegate Diana M.
+Fennell.
+First Name Last Name Email Address Sign Up Thank you!
+About Contact Events Photos Friends of Diana Fennell PO BOX 514 Bladensburg, MD 20710 info@dianafennell.com (301) 615-2845‬ ©# MADE WITH CLOUD 9 BRAND, LLC.
+FOLLOW SOCIAL MEDIA

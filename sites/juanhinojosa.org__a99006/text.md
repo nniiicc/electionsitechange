@@ -1,27 +1,17 @@
-Meet Juan Hinojosa
-A veteran, leader, and advocate for working families—committed to protecting our communities and lowering costs for Floridian
-Fighting for Florida Families.
+0 Skip to Content Home Service Record Contact Us District Map Open Menu Close Menu Home Service Record Contact Us District Map Open Menu Close Menu Home Service Record Contact Us District Map Meet Juan Hinojosa A veteran, leader, and advocate for working families—committed to protecting our communities and lowering costs for Floridian Fighting for Florida Families.
 People Before Profits.
-My Priorities
-MAKE HEALTHCARE MORE ACCESSIBLE
-I support Medicaid expansion to provide healthcare access for low-income children and adults with disabilities.
+My Priorities MAKE HEALTHCARE MORE ACCESSIBLE I support Medicaid expansion to provide healthcare access for low-income children and adults with disabilities.
 If federal resources are available to help Floridians and strengthen our economy, we should have a serious conversation about putting those resources to work.
-LOWER THE COST OF AUTO INSURANCE
-Florida drivers deserve meaningful choices when it comes to their insurance coverage and deductibles.
+LOWER THE COST OF AUTO INSURANCE Florida drivers deserve meaningful choices when it comes to their insurance coverage and deductibles.
 I support reforms that give consumers more flexibility and help bring down the cost of auto insurance.
-MAKE HOME INSURANCE MORE AFFORDABLE
-Homeowners are facing unacceptable insurance costs.
+MAKE HOME INSURANCE MORE AFFORDABLE Homeowners are facing unacceptable insurance costs.
 I support continued reforms aimed at making coverage more affordable and accessible for Brevard families.
-EXPAND AFFORDABLE HOUSING
-Brevard should be a place where people who work here can afford to live here.
+EXPAND AFFORDABLE HOUSING Brevard should be a place where people who work here can afford to live here.
 I support policies that expand affordable housing options for working families, seniors, veterans, and other residents.
-STAND WITH DISABLED VETERANS & LAW ENFORCEMENT
-I support eliminating Florida state toll charges for 100% disabled veterans and disabled law enforcement personnel.
-PROTECT VOTING RIGHTS
-Every eligible Floridian should be able to participate in our elections.
+STAND WITH DISABLED VETERANS & LAW ENFORCEMENT I support eliminating Florida state toll charges for 100% disabled veterans and disabled law enforcement personnel.
+PROTECT VOTING RIGHTS Every eligible Floridian should be able to participate in our elections.
 I oppose unnecessary barriers that restrict voters' access to the ballot.
-PROTECT WOMEN’S REPRODUCTIVE FREEDOM
-I have always supported women’s reproductive freedom and the fundamental right to make personal healthcare decisions without government interference.
+PROTECT WOMEN’S REPRODUCTIVE FREEDOM I have always supported women’s reproductive freedom and the fundamental right to make personal healthcare decisions without government interference.
 These are deeply private matters that should remain between a woman, her doctor, and her faith — not dictated by politicians or state mandates.
 Medical choices, especially those involving reproductive health, are complex and often urgent.
 They require compassion, expertise, and trust — not legislation.
@@ -32,13 +22,10 @@ A voice for Brevard.
 I’m not running to represent one political side.
 I am running to represent Brevard.
 It’s time to put people first, find common ground, and focus on solutions that make a real difference in our communities.
-Juan Hinojosa for State Representative
-Common Sense.
+Juan Hinojosa for State Representative Common Sense.
 Balance.
 Brevard.
-HOW TO HELP
-Donate Now
-Honest, hardworking, respectful veteran to represent the needs of many.
+HOW TO HELP Donate Now ACT BLUE Honest, hardworking, respectful veteran to represent the needs of many.
 Born in 1952 in Falfurrias, Texas, a small agricultural community in South Texas, I grew up in a close-knit town where family values were at the heart of daily life.
 My father passed away in an automobile accident when I was just three years old, and my mother, alongside my grandmother, raised me and my two sisters with resilience and unwavering support.
 Growing up in a predominantly Hispanic community in the 1950s and ’60s, I was shaped by a culture that emphasized strong familial bonds and hard work.
@@ -57,3 +44,4 @@ I am married to Carrie Hinojosa, a fellow military retiree, and together we shar
 Currently, I work as a Security Officer for Northrop Grumman in Melbourne, Florida.
 I am asking for your support to represent “the needs of the many” as your District 32 State Representative.
 It’s increasingly difficult for families to make ends meet when Tallahassee lawmakers prioritize the financial interests of corporations, land developers, and home builders over the well-being of everyday Floridians.
+POLITICAL AD PAID FOR BY JUAN HINOJOSA CAMPAIGN Juan Hinojosa Campaign, PO Box 121 Suite 102, Viera, FL 32955 juanhinojosadistrict32@yahoo.com 804-986-1855

@@ -1,10 +1,3 @@
-Back to All Events
-Zyon Khalifa invites you to join him at the NAACP USC Aiken meeting for an evening focused on empowerment, unity, and real conversation.
+Skip to Content Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact ( 0 ) Cart ( 0 ) Donate Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact ( 0 ) Cart ( 0 ) Donate Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact Donate Back to All Events USCA NAACP General Body Meeting Tuesday, April 7, 2026 5:00 PM 6:00 PM USC Aiken 471 University Parkway Aiken, SC, 29801 United States (map) Google Calendar ICS Zyon Khalifa invites you to join him at the NAACP USC Aiken meeting for an evening focused on empowerment, unity, and real conversation.
 This is an opportunity to come together, engage on the issues that matter, and be part of building a stronger future for our community.
-Previous
-Previous
-March 27
-Forward Together
-Next
-Next
-April 8
+Previous Previous March 27 Forward Together Next Next April 8 Speaking at Young Democrats of Central Midlands Meeting Meet Zyon Khalifa Platform Volunteer Privacy Policy

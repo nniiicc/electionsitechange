@@ -1,5 +1,4 @@
-No Kings over our heads
-When thousands of Georgians stood together and declared “No king over our heads,” it wasn’t protest, it was the pure sound of democracy rising.
+0 Skip to Content About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu Folder: About Michelle Back Meet Michelle What Michelle Stands For Endorsements Folder: Get Involved Back Get Involved Mobilize Dashboard Donate Voter Resources Folder: Media Back Events In the News Interviews Blog Podcast 2026 Campaign Connect English Back Donate No Kings over our heads Oct 22 Written By Michelle Kang When thousands of Georgians stood together and declared “No king over our heads,” it wasn’t protest, it was the pure sound of democracy rising.
 When thousands of ordinary people come together to say “No king over our heads,” that’s the sound of democracy in action!
 At the No King Rally in Suwanee, I stood shoulder to shoulder with friends, neighbors, and children — all of us united for Georgia’s future, powered by the people.
 We came together not out of fear, but out of hope.
@@ -15,5 +14,9 @@ Vote early by October 31st, or on November 4th, for leaders who will fight for u
 We have a real chance to flip House District 99 blue with your votes, and with the voices of swing voters and independents.
 We got this!
 Here in Georgia, we bow to no king.
-We rise as the people!
-— Michelle Kang, the Candidate for Georgia State House District 99
+We rise as the people! — Michelle Kang, the Candidate for Georgia State House District 99 Michelle Kang Previous Previous Losing More Than a Swipe: What Georgia’s SNAP Cut-Off Means for Real People Next Next Hope in the Pause Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Keep in Touch Sign up with your email address to receive news and updates.
+Email Address Sign Up We respect your privacy.
+Thank you!
+Donate contact Volunteer Checks payable to: Friends of Michelle Kang, Inc Send checks to: PO Box 3772, Suwanee, GA 30024 For press or media inquiries, please contact press@michellekangforga.com Website by Blum Creative Privacy Policy | Terms of Use

@@ -1,7 +1,9 @@
 {
  "description": "Sunny Farms Landfill",
  "final_url": "https://www.garyclick.com/issues/landfill",
- "paid_for_by": null,
+ "fingerprint": "f5b60e30e69e983e7d81e914b508d0ced5eee47c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Sunny Farms Landfill",
  "years_mentioned": [
   "2022"

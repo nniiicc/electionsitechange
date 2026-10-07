@@ -1,10 +1,42 @@
 [
-"http://squarespace.com/?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3",
-"https://facebook.com/MichaelHowardMN",
-"https://michaelhowardmn.com/",
-"https://michaelhowardmn.com/bio",
-"https://michaelhowardmn.com/partners",
-"https://michaelhowardmn.com/vision",
-"https://michaelhowardmn.com/volunteer",
-"https://secure.actblue.com/donate/howardforhouse"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/howardforhouse"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.michaelhowardmn.com/partners"
+},
+{
+"text": "Get Involved",
+"href": "https://www.michaelhowardmn.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.michaelhowardmn.com/"
+},
+{
+"text": "Meet Michael",
+"href": "https://www.michaelhowardmn.com/bio"
+},
+{
+"text": "Squarespace",
+"href": "http://www.squarespace.com?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3"
+},
+{
+"text": "Vision",
+"href": "https://www.michaelhowardmn.com/vision"
+},
+{
+"text": "[image: Howard for MN House]",
+"href": "https://www.michaelhowardmn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MichaelHowardMN"
+},
+{
+"text": "[no text]",
+"href": "mailto:michaelhowardmn@gmail.com"
+}
 ]

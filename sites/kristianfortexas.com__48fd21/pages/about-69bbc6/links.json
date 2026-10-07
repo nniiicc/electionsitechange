@@ -1,21 +1,82 @@
 [
-"http://instagram.com/kristianfortx",
-"http://twitter.com/kristianfortx",
-"https://bsky.app/intent/compose?text=Meet+Kristian+https%3A%2F%2Fkristianfortexas.com%2Fabout%2F",
-"https://e23.digital/",
-"https://facebook.com/KristianForTX",
-"https://facebook.com/sharer/sharer.php?u=Meet+Kristian+https%3A%2F%2Fkristianfortexas.com%2Fabout%2F",
-"https://kristianfortexas.com/",
-"https://kristianfortexas.com/about",
-"https://kristianfortexas.com/contact",
-"https://kristianfortexas.com/platform",
-"https://secure.actblue.com/donate/kcwebsite2026",
-"https://secure.actblue.com/donate/kcwebsite2026?amount=100&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/kcwebsite2026?amount=25&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/kcwebsite2026?amount=250&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/kcwebsite2026?amount=2500&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/kcwebsite2026?amount=5",
-"https://secure.actblue.com/donate/kcwebsite2026?amount=5&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/kcwebsite2026?recurring=false",
-"https://twitter.com/intent/tweet?text=Meet+Kristian+https%3A%2F%2Fkristianfortexas.com%2Fabout%2F"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/kcwebsite2026?amount=100&express_lane=true&recurring=false"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/kcwebsite2026?amount=25&express_lane=true&recurring=false"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/kcwebsite2026?amount=250&express_lane=true&recurring=false"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/kcwebsite2026?amount=5&express_lane=true&recurring=false"
+},
+{
+"text": "$#,#",
+"href": "https://secure.actblue.com/donate/kcwebsite2026?amount=2500&express_lane=true&recurring=false"
+},
+{
+"text": "About",
+"href": "https://kristianfortexas.com/about/"
+},
+{
+"text": "Connect on Facebook",
+"href": "https://facebook.com/KristianForTX"
+},
+{
+"text": "Connect on Instagram",
+"href": "http://instagram.com/kristianfortx"
+},
+{
+"text": "Connect on Twitter",
+"href": "http://twitter.com/kristianfortx"
+},
+{
+"text": "Contact",
+"href": "https://kristianfortexas.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kcwebsite2026"
+},
+{
+"text": "Kristian is in! Chip in $5 right now",
+"href": "https://secure.actblue.com/donate/kcwebsite2026?amount=5"
+},
+{
+"text": "Kristian’s Platform",
+"href": "https://kristianfortexas.com/platform/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/kcwebsite2026?recurring=false"
+},
+{
+"text": "Produced by",
+"href": "https://e23.digital"
+},
+{
+"text": "Share on Blue Sky",
+"href": "https://bsky.app/intent/compose?text=Meet+Kristian+https%3A%2F%2Fkristianfortexas.com%2Fabout%2F"
+},
+{
+"text": "Share on Facebook",
+"href": "https://facebook.com/sharer/sharer.php?u=Meet+Kristian+https%3A%2F%2Fkristianfortexas.com%2Fabout%2F"
+},
+{
+"text": "Share on Twitter",
+"href": "https://twitter.com/intent/tweet?text=Meet+Kristian+https%3A%2F%2Fkristianfortexas.com%2Fabout%2F"
+},
+{
+"text": "[image: Kristian Carranza for TX HD-118]",
+"href": "https://kristianfortexas.com"
+},
+{
+"text": "[image: Kristian Carranza for TX HD-118]Kristian Carranza for TX HD-118",
+"href": "https://kristianfortexas.com"
+}
 ]

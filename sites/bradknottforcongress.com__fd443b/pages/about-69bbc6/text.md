@@ -1,5 +1,4 @@
-About Brad Knott
-Father.
+0 Skip to Content About Priorities Store DONATE Open Menu Close Menu DONATE About Priorities Store Open Menu Close Menu About Priorities Store DONATE About Brad Knott Father.
 Husband.
 Former prosecutor.
 Congressman.
@@ -24,3 +23,4 @@ We have to increase penalties to deter the flood of illegal immigrants.
 I resigned as a federal prosecutor to first run for Congress in the 13th Congressional District in North Carolina in 2024.
 Together, we’ve made progress, but we must sustain that new approach in Washington or risk a return to the broken policies that devastated our economy and individuals.
 That’s why I’m running for re-election – to keep building a safer, stronger, and more prosperous North Carolina for all of us.
+PO BOX 97275 RALEIGH, NC 27624 PAID FOR BY BRAD KNOTT FOR CONGRESS Privacy Policy

@@ -1,6 +1,6 @@
-A GIRL CAN DREAM…HOW DO WE WAKE UP FROM THIS REDISTRICTING NIGHTMARE?
+Skip to content Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Ashley Bean Thornton for Texas House District 56 A GIRL CAN DREAM…HOW DO WE WAKE UP FROM THIS REDISTRICTING NIGHTMARE?
 A GIRL CAN DREAM...HOW DO WE WAKE UP FROM THIS REDISTRICTING NIGHTMARE?
-This post originally appeared on Dead Dillo.
+This post originally appeared on Dead Dillo .
 This redistricting kerfuffle is a big mess.
 The Texas Republican leadership wants to help solidify power for the Republicans at the Federal level.
 Their plan is to redraw district lines in Texas so that it is more likely Republicans will win seats in the U.S.
@@ -31,8 +31,7 @@ So, Texans are suffering needlessly because our elected representatives can’t 
 On the face of it, our system is set up so that the majority usually gets their way – which seems fair.
 When it gets right down to it, if groups of people disagree, and you have to make a decision, voting seems as good a way as any to settle the decision.
 That means, with a few exceptions where the courts step in, the majority gets their way most of the time.
-The confounding issue here, though, is that it is possible to draw district lines in such a way that the majority opinion of the voters is not necessarily represented – our word for that is “gerrymandering.”
-McLennan County is a good example of gerrymandering.
+The confounding issue here, though, is that it is possible to draw district lines in such a way that the majority opinion of the voters is not necessarily represented – our word for that is “gerrymandering.” McLennan County is a good example of gerrymandering.
 By cutting off East Waco and part of South Waco from House District 56 and combining it with House District 13, it makes it more likely that both HD 13 and HD 56 will elect Republican representatives.
 It could be that both of those districts would go Republican any way.
 But, if all of McLennan County were represented by one House District (like it used to be), there would at least be more of a fighting chance that it would elect a Democrat representative.
@@ -51,10 +50,9 @@ Or do we want a system where the pendulum can potentially swing back and forth b
 That depends on whether we believe one side always has the best ideas, or we believe that we get better ideas from listening to each other.
 I believe we get the best ideas from listening to each other and finding ways to work together, and we need to try to build a system that incentivizes that.
 Gerrymandering dis-incentivizes working together, it incentivizes greater polarization.
-In my dreams, the Texas Republicans and Democrats would set up some kind of peace talk and hammer out an agreement on re-districting that would let them all get back to work.
+I n my dreams, the Texas Republicans and Democrats would set up some kind of peace talk and hammer out an agreement on re-districting that would let them all get back to work.
 In my dreams, we would use some kind of mathematical modeling that would draw the district lines as “fairly” as possible – I’m not even sure exactly what I mean by “fairly,” maybe using some kind of geographical criteria or some kind of population density criteria.
-(I’m sure other people have thought about this more than I have and have ideas about how to do it.)
-The problem with making my dreams come true is that it’s in the Republican’s hands to make it happen.
+(I’m sure other people have thought about this more than I have and have ideas about how to do it.) The problem with making my dreams come true is that it’s in the Republican’s hands to make it happen.
 They are in control, and they would most likely have to offer the first tiny olive twig.
 They are not likely to do that – not necessarily because they are Republicans – but because whoever is in power is not likely to voluntarily give up that power.
 What to do?
@@ -74,4 +72,4 @@ It’s the best idea I have so far.
 I’d love to hear if you have others!
 I feel like the alternative is just wait it out, keep calling each other names, and do it all again next time, and next time, and next time.
 I think we can do better than that!
-(She said with at least a spoonful of cautious optimism.)
+(She said with at least a spoonful of cautious optimism.) Tagged People Before Party Join the Campaign Donate Join the Newsletter Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Facebook Instagram Info@AshleyBeanThornton.com Political Advertising Paid for ABT for TEX 4300 W Waco Drive Suite 2B Box 193 • Waco, Texas 76710 © #-# Thornton for Texas Campaign Terms of Service | Privacy Policy | Disclaimer | Website by Digital Media Butterfly

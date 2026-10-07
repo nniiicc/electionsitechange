@@ -1,13 +1,1 @@
-Endorsements
-Hannah is proud to be endorsed by:
-- Shrewsbury Firefighters Association
-- Shrewsbury Patrol Officers Union NEPBA Local 191
-- MA & Northern New England Laborers District Council
-- Environmental League of Massachusetts
-- MA Police Association
-- MA Corrections Officers Federated Union
-- Pro-choice MA Women’s Political Caucus
-- National Federation of Independent Businesses
-- Mass Retirees Association
-- New England Police Benevolent Association
-- MOSES (Massachusetts Organization of State Engineers & Scientists)
+Home About Hannah Supporters Endorsements Updates From Hannah Social Media Minute Hannah Kane Charity Classic In The News Conversations With Hannah (shows) Donate Now Contact Hannah Endorsements Hannah is proud to be endorsed by: ​ Shrewsbury Firefighters Association Shrewsbury Patrol Officers Union NEPBA Local 191 MA & Northern New England Laborers District Council Environmental League of Massachusetts MA Police Association MA Corrections Officers Federated Union Pro-choice MA Women’s Political Caucus National Federation of Independent Businesses Mass Retirees Association New England Police Benevolent Association MOSES (Massachusetts Organization of State Engineers & Scientists) Contact Hannah Follow Hannah Receive Hannah's Updates to Your Inbox * Indicates required field Email * I agree to receiving marketing and promotional materials * Subscribe to Newsletter ​©# The Committee to Elect State Representative Hannah Kane

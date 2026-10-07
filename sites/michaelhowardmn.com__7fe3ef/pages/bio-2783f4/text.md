@@ -1,5 +1,4 @@
-Meet Michael Howard
-I grew up in greater Minnesota with my parents Jeff and Cheryl, and sister Laura.
+Home Meet Michael Vision ENDORSEMENTS Get Involved DONATE Home Meet Michael Vision ENDORSEMENTS Get Involved DONATE Meet Michael Howard I grew up in greater Minnesota with my parents Jeff and Cheryl, and sister Laura.
 My mom was an elementary special education teacher and my dad was a physical therapist.
 Both of my parents instilled in me the goodness in people, the value of putting yourself in other people’s shoes, and always fighting injustice where you see it in the world.
 As a sophomore at Augsburg College, I interned on Senator Paul Wellstone’s campaign, which proved to be a life-changing experience.
@@ -25,3 +24,4 @@ I also authored a new law to cap insurance costs for insulin, asthma inhalers, a
 I also passed legislation that will make a difference here in Richfield, securing $12 million to build a new Wood Lake Nature Center, as well as historic investments for Richfield Public Schools.
 I am also proud to have worked with Richfield and Minneapolis community leaders to pass our new Drivers License for All legislation, and in securing new, permanent resources to make childcare more affordable.
 Now more than ever, we need to lead with our values, work in partnership, and build a future where everyone can succeed.
+Contact Michael: Prepared and paid for by: Howard for Minnesota House Back to Top Powered by Squarespace

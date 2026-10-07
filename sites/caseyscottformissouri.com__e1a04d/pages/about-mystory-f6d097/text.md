@@ -1,6 +1,4 @@
-My Story
-Casey For the People of District Two
-Born the daughter of a truck driver, I saw more of this country at a young age than most… oceans, deserts, mountains, and the people who make up every corner of it.
+0 Skip to Content Home About Meet Casey My Story Why I am Running Endorsements From the Community Issues Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Get Involved Volunteer Events & Outreach Request A Yard Sign Merch Contact Voter Information Election Dates MO Voting Center 2026 Ballot Measures Donate Open Menu Close Menu Home About Meet Casey My Story Why I am Running Endorsements From the Community Issues Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Get Involved Volunteer Events & Outreach Request A Yard Sign Merch Contact Voter Information Election Dates MO Voting Center 2026 Ballot Measures Donate Open Menu Close Menu Home Folder: About Back Meet Casey My Story Why I am Running Endorsements From the Community Folder: Issues Back Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Folder: Get Involved Back Volunteer Events & Outreach Request A Yard Sign Merch Contact Folder: Voter Information Back Election Dates MO Voting Center 2026 Ballot Measures Donate My Story Casey For the People of District Two Born the daughter of a truck driver, I saw more of this country at a young age than most… oceans, deserts, mountains, and the people who make up every corner of it.
 What stayed with me most wasn’t just the landscape, but the stories.
 At truck stops, and even picking up a few hitchhikers along the way, I learned that every person has a story worth hearing.
 I also saw how the trucking community showed up for one another, always willing to help, always having each other’s backs.
@@ -9,3 +7,4 @@ For the past fifteen years, I’ve worked in rural healthcare, serving communiti
 I’ve seen firsthand the gaps in access to care, and I’ve worked to find solutions, expanding services so patients didn’t have to travel hours just to get the care they need.
 No one asked me to take on those challenges, but I did.
 And I learned that problem solving, and showing up when it matters, is one of my greatest strengths.
+Casey Scott For Missouri caseyscottformissouri@gmail.com

@@ -1,7 +1,9 @@
 {
- "description": "See Melissa\u2019s upcoming campaign events happening near you.",
+ "description": "See Melissa’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/Melissa-Douglas/events?view=cards",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "791116c37b3dfbce3835adb9a65a8680ae2ddfce",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Upcoming Melissa Douglas Events",
  "years_mentioned": []
 }

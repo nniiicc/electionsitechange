@@ -1,279 +1,43 @@
-What I will fight for in Congress
-If you're working hard but falling behind, you're not alone.
+0 Skip to Content Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home Folder: About Back About CA5 Folder: Español Back Inicio Conoce A Michael Temas Issues Events News Endorsements Donate What I will fight for in Congress If you're working hard but falling behind, you're not alone.
 Across CA-5, families are being squeezed by rising housing and healthcare costs, homeowners losing insurance after wildfires, farms struggling with unpredictable markets, and too few good jobs to keep the next generation here.
 These challenges are the result of choices, how federal dollars are spent and which communities get left behind.
 For 16 years, Tom McClintock has voted against key investments in rural communities, including funding for hospitals, support for farmers, and wildfire prevention, while backing tax cuts that benefit corporations and the wealthy.
 I’m running because rural California deserves a representative who will fight to lower costs, keep hospitals open, reduce wildfire risk, support our agricultural economy, and bring good jobs back to our communities.
 The solutions are within reach.
 By making smarter investments, cutting waste, and ensuring federal resources actually reach our communities, we can strengthen CA-5 without asking more from working families.
-Core Issues
-- Affordability isn’t one issue, it’s the combined pressure of housing, healthcare, energy, and everyday costs hitting families all at once.Across CA-5, people are working hard and still falling behind.
+Core Issues Affordability Affordability isn’t one issue, it’s the combined pressure of housing, healthcare, energy, and everyday costs hitting families all at once.Across CA-5, people are working hard and still falling behind.
 In rural communities, that pressure is even greater, from rising insurance costs to longer drives for care and fewer housing options.
 My focus is on lowering costs where the federal government can make a real impact and making sure those benefits actually reach our communities.
-Key Priorities
-- Lower The Cost of Living
-- Target major cost drivers: housing, healthcare, and energy
-- Reduce out-of-pocket expenses without shifting costs elsewhere
-- Increase transparency where pricing is disconnected from real costs
-- Expand Housing Access
-- Support programs for rural and first-time home buyers
-- Reduce barriers to responsible development in smaller communities
-- Align infrastructure funding with housing needs
-- Lower Healthcare Costs
-- Continue efforts to reduce prescription drug prices
-- Strengthen rural access through clinics and telehealth
-- Improve accountability across the healthcare system
-- Support Local Economies and Agriculture
-- Ensure farmers have access to water, markets, and infrastructure
-- Strengthen local food systems to reduce cost volatility
-- Avoid policies that increase costs on producers or consumers
-- Reduce Energy Costs & Improve Reliability
-- Invest in grid modernization and wildfire risk reduction
-- Support locally driven energy solutions, including biomass
-- Focus on stable, predictable energy costs
-- Make Federal Programs Work Locally
-- Improve access to funding for rural communities
-- Cut delays and administrative barriers
-- Deliver disaster and economic support faster and more reliably
-Read Michael’s Op-Ed: Your Budget Isn't Broken.
+Key Priorities Lower The Cost of Living Target major cost drivers: housing, healthcare, and energy Reduce out-of-pocket expenses without shifting costs elsewhere Increase transparency where pricing is disconnected from real costs Expand Housing Access Support programs for rural and first-time home buyers Reduce barriers to responsible development in smaller communities Align infrastructure funding with housing needs Lower Healthcare Costs Continue efforts to reduce prescription drug prices Strengthen rural access through clinics and telehealth Improve accountability across the healthcare system Support Local Economies and Agriculture Ensure farmers have access to water, markets, and infrastructure Strengthen local food systems to reduce cost volatility Avoid policies that increase costs on producers or consumers Reduce Energy Costs & Improve Reliability Invest in grid modernization and wildfire risk reduction Support locally driven energy solutions, including biomass Focus on stable, predictable energy costs Make Federal Programs Work Locally Improve access to funding for rural communities Cut delays and administrative barriers Deliver disaster and economic support faster and more reliably Read Michael’s Op-Ed: Your Budget Isn't Broken.
 Washington's Choices Are.
-- Wildfire is no longer seasonal, it’s a year-round threat across CA-5 and the West.
+Wildfire Threats & Insurance Wildfire is no longer seasonal, it’s a year-round threat across CA-5 and the West.
 Protecting our communities and addressing rising insurance costs requires a smarter, more coordinated approach that reduces risk and ensures resources reach the ground.
-Key Priorities
-- Strengthen Forest Management & Fuels Reduction
-- Expand science-based thinning and prescribed fire
-- Increase staffing and funding for federal land agencies like theU.S.
-Forest Service, National Park Service, and Bureau of Land Management to address wildfire threats
-- Improve coordination between federal, state, local, and tribal partners and streamline delayed projects
-- Invest in Community-Level Protection
-- Support defensible space, home hardening, and Firewise programs
-- Expand access to grants for rural and high-risk communities
-- Prioritize projects that directly protect homes and infrastructure
-- Support Firefighter Readiness & Local Capacity
-- Provide modern training, equipment, and staffing support
-- Align federal resources with local and state response needs
-- Ensure strong healthcare and mental health support for firefighters
-- Improve Federal Funding & Coordination
-- Make funding faster, simpler, and available before fire season
-- Reduce agency overlap and delays
-- Strengthen FEMA and disaster response timelines
-- Protect Infrastructure
-- Reduce ignition risk from power lines and critical systems
-- Invest in grid hardening and resilience projects
-- Partner with state and local agencies on long-term solutions
-- Address Insurance & Recovery
-- Incentivize home hardening to lower insurance costs
-- Deliver faster, more reliable disaster assistance
-- Support long-term recovery for communities and small businesses
-- Local Jobs while reducing risk
-- Build a year-round workforce for fuel reduction and fuel breaks
-- Cut red tape so local contractors can compete for projects
-- Invest in infrastructure upgrades that prevent wildfires
-Read Michael’s OpEd: Fire Prevention Pays.
+Key Priorities Strengthen Forest Management & Fuels Reduction Expand science-based thinning and prescribed fire Increase staffing and funding for federal land agencies like theU.S.
+Forest Service, National Park Service, and Bureau of Land Management to address wildfire threats Improve coordination between federal, state, local, and tribal partners and streamline delayed projects Invest in Community-Level Protection Support defensible space, home hardening, and Firewise programs Expand access to grants for rural and high-risk communities Prioritize projects that directly protect homes and infrastructure Support Firefighter Readiness & Local Capacity Provide modern training, equipment, and staffing support Align federal resources with local and state response needs Ensure strong healthcare and mental health support for firefighters Improve Federal Funding & Coordination Make funding faster, simpler, and available before fire season Reduce agency overlap and delays Strengthen FEMA and disaster response timelines Protect Infrastructure Reduce ignition risk from power lines and critical systems Invest in grid hardening and resilience projects Partner with state and local agencies on long-term solutions Address Insurance & Recovery Incentivize home hardening to lower insurance costs Deliver faster, more reliable disaster assistance Support long-term recovery for communities and small businesses Local Jobs while reducing risk Build a year-round workforce for fuel reduction and fuel breaks Cut red tape so local contractors can compete for projects Invest in infrastructure upgrades that prevent wildfires Read Michael’s OpEd: Fire Prevention Pays.
 It's Time We Act Like It.
-- Healthcare is about security, the ability to get care when you need it without worrying about cost, distance, or access.
+Healthcare Healthcare is about security, the ability to get care when you need it without worrying about cost, distance, or access.
 In CA-5, that security isn’t guaranteed.
 Rural communities face long travel times, provider shortages, rising costs, and uncertainty around local hospitals.
 My focus is lowering costs, strengthening rural care, and putting patients first.
-Key Priorities
-- Lower costs and improve accountability
-- Reduce prescription drug and out-of-pocket costs
-- Increase price transparency for patients
-- Strengthen oversight to address cost drivers
-- Protect rural hospitals and expand access
-- Stabilize rural hospitals and clinics
-- Expand telehealth to reduce travel barriers
-- Improve reimbursement in underserved areas
-- Incentivize providers to serve rural communities
-- Strengthen Coverage for Families
-- Protect Medicare and Medi-Cal
-- Reduce barriers to obtaining and keeping coverage
-- Improve continuity of care
-- Expand Mental Health & Addiction Care
-- Increase access in rural and underserved areas
-- Support treatment and recovery-focused programs
-- Expand both in-person and telehealth services
-- Support maternal and community-based care
-- Improve access to maternity care in rural areas
-- Invest in workforce development
-- Strengthen community-based care models
-- Support Veterans’ Healthcare
-- Improve access to VA services, especially in rural areas
-- Reduce delays and expand mental health support
-- CA-5 has the workforce, resources, and industries to grow, but federal policy hasn’t kept pace with how our local economy actually works.
+Key Priorities Lower costs and improve accountability Reduce prescription drug and out-of-pocket costs Increase price transparency for patients Strengthen oversight to address cost drivers Protect rural hospitals and expand access Stabilize rural hospitals and clinics Expand telehealth to reduce travel barriers Improve reimbursement in underserved areas Incentivize providers to serve rural communities Strengthen Coverage for Families Protect Medicare and Medi-Cal Reduce barriers to obtaining and keeping coverage Improve continuity of care Expand Mental Health & Addiction Care Increase access in rural and underserved areas Support treatment and recovery-focused programs Expand both in-person and telehealth services Support maternal and community-based care Improve access to maternity care in rural areas Invest in workforce development Strengthen community-based care models Support Veterans’ Healthcare Improve access to VA services, especially in rural areas Reduce delays and expand mental health support Jobs and Economy CA-5 has the workforce, resources, and industries to grow, but federal policy hasn’t kept pace with how our local economy actually works.
 Across the district, people want good-paying jobs, the ability to stay in their communities, and an economy built on local strengths, not one-size-fits-all solutions.
 My focus is on strengthening key industries, investing in workforce development, and connecting growth to real needs on the ground.
-Key Priorities
-- Build Jobs in Wildfire Resilience
-- Expand fuels reduction, forest management, and restoration jobs
-- Train local workers for forestry, equipment, and logistics roles
-- Grow biomass and related industries
-- Support home hardening and defensible space as job creators
-- Strengthen Workforce Training and Local Hiring
-- Expand apprenticeships and job training tied to local industries
-- Partner with community colleges and trade programs
-- Prioritize local hiring in federally supported projects
-- Support Small Business & Local Economies
-- Improve access to capital and federal resources
-- Reduce barriers for rural businesses
-- Support main street and locally driven growth
-- Invest in Infrastructure for Growth
-- Improve roads, water systems, and transportation
-- Expand reliable rural broadband
-- Focus on long-term, job-generating projects
-- Strengthen Agriculture & Local Production
-- Support food processing and value-added agriculture
-- Improve supply chains and market access
-- Promote stability for producers facing rising costs
-- Support Tourism & Outdoor Economies
-- Invest in infrastructure for gateway communities
-- Ensure tourism growth benefits local residents
-- Balance economic development with land management
-“We don’t need to reinvent our economy, we need to invest in what we already do well and connect it to real opportunities.”
-- Housing costs in CA-5 come down to a simple problem: we’re not building enough homes, and the ones we do build are too expensive.In rural communities, rising construction costs, workforce shortages, and the wildfire insurance crisis are making it harder to buy, rent, or stay in a home.
+Key Priorities Build Jobs in Wildfire Resilience Expand fuels reduction, forest management, and restoration jobs Train local workers for forestry, equipment, and logistics roles Grow biomass and related industries Support home hardening and defensible space as job creators Strengthen Workforce Training and Local Hiring Expand apprenticeships and job training tied to local industries Partner with community colleges and trade programs Prioritize local hiring in federally supported projects Support Small Business & Local Economies Improve access to capital and federal resources Reduce barriers for rural businesses Support main street and locally driven growth Invest in Infrastructure for Growth Improve roads, water systems, and transportation Expand reliable rural broadband Focus on long-term, job-generating projects Strengthen Agriculture & Local Production Support food processing and value-added agriculture Improve supply chains and market access Promote stability for producers facing rising costs Support Tourism & Outdoor Economies Invest in infrastructure for gateway communities Ensure tourism growth benefits local residents Balance economic development with land management “We don’t need to reinvent our economy, we need to invest in what we already do well and connect it to real opportunities.” Housing Housing costs in CA-5 come down to a simple problem: we’re not building enough homes, and the ones we do build are too expensive.In rural communities, rising construction costs, workforce shortages, and the wildfire insurance crisis are making it harder to buy, rent, or stay in a home.
 My focus is increasing supply, lowering building costs, and making sure families aren’t priced out of their own communities.
-Key Priorities
-- Increase housing supply
-- Expand proven federal programs that finance affordable housing
-- Encourage a mix of housing types, including entry-level and multi-family
-- Prioritize building in communities falling behind demand
-- Lower the cost of building
-- Address material and supply chain cost drivers
-- Streamline federal delays, especially in rural areas
-- Support modular and factory-built housing
-- Expand home ownership opportunities
-- Strengthen rural programs for first-time buyers
-- Support targeted financing tools and tax relief
-- Help seniors maintain and upgrade their homes
-- Build the construction workforce
-- Expand apprenticeship and trade programs
-- Partner with community colleges and local training programs
-- Align workforce development with housing demand
-- Address Insurance & Wildfire Risk
-- Stabilize access to home insurance in high-risk areas
-- Invest in home hardening and defensible space
-- Align housing policy with wildfire mitigation
-- Address homelessness
-- Support prevention-focused programs to keep people housed
-- Expand access to mental health and transitional services
-- Ensure rural communities receive targeted support
-“If we’re serious about affordability, we have to build more housing, make it less expensive to build, and make sure families can actually afford to stay in the communities they call home.”
-- Education is the foundation of opportunity and in CA-5, our schools are central to our communities and local economy.
+Key Priorities Increase housing supply Expand proven federal programs that finance affordable housing Encourage a mix of housing types, including entry-level and multi-family Prioritize building in communities falling behind demand Lower the cost of building Address material and supply chain cost drivers Streamline federal delays, especially in rural areas Support modular and factory-built housing Expand home ownership opportunities Strengthen rural programs for first-time buyers Support targeted financing tools and tax relief Help seniors maintain and upgrade their homes Build the construction workforce Expand apprenticeship and trade programs Partner with community colleges and local training programs Align workforce development with housing demand Address Insurance & Wildfire Risk Stabilize access to home insurance in high-risk areas Invest in home hardening and defensible space Align housing policy with wildfire mitigation Address homelessness Support prevention-focused programs to keep people housed Expand access to mental health and transitional services Ensure rural communities receive targeted support “If we’re serious about affordability, we have to build more housing, make it less expensive to build, and make sure families can actually afford to stay in the communities they call home.” Education Education is the foundation of opportunity and in CA-5, our schools are central to our communities and local economy.
 Across the district, educators are being stretched thin as resources fail to keep up with growing student needs, especially in rural areas.
 My focus is strengthening public education, supporting educators, and ensuring every student has access to the tools they need to succeed.
-Key Priorities
-- Strengthen classrooms and student support
-- Increase investment in special education and student services
-- Reduce class sizes to improve learning and reduce burnout
-- Expand access to counselors, mental health, and early intervention
-- Support and retain educators
-- Address teacher shortages, especially in rural communities
-- Strengthen local recruitment and retention pathways
-- Invest in professional development and support systems
-- Expand Career and Technical Education (CTE)
-- Grow hands-on training tied to local industries
-- Align education with workforce needs, including trades and healthcare
-- Support partnerships with community colleges and employers
-- Ensure Stable, Equitable Funding
-- Strengthen programs like Title I and IDEA
-- Improve funding delivery to rural and underserved districts
-- Provide stability for long-term planning
-- Improve school safety and student well-being
-- Expand school-based mental health services
-- Support prevention-focused approaches to student safety
-- Maintain safe environments without disrupting learning
-- Fund Special Education
-- Ensure federal commitments are met
-- Prevent schools from diverting general funds to cover shortfalls
-- Deliver consistent support for students with special needs
-- Agriculture is the backbone of CA-5; supporting jobs, driving our economy, and feeding communities across the country.
+Key Priorities Strengthen classrooms and student support Increase investment in special education and student services Reduce class sizes to improve learning and reduce burnout Expand access to counselors, mental health, and early intervention Support and retain educators Address teacher shortages, especially in rural communities Strengthen local recruitment and retention pathways Invest in professional development and support systems Expand Career and Technical Education (CTE) Grow hands-on training tied to local industries Align education with workforce needs, including trades and healthcare Support partnerships with community colleges and employers Ensure Stable, Equitable Funding Strengthen programs like Title I and IDEA Improve funding delivery to rural and underserved districts Provide stability for long-term planning Improve school safety and student well-being Expand school-based mental health services Support prevention-focused approaches to student safety Maintain safe environments without disrupting learning Fund Special Education Ensure federal commitments are met Prevent schools from diverting general funds to cover shortfalls Deliver consistent support for students with special needs Agriculture Agriculture is the backbone of CA-5; supporting jobs, driving our economy, and feeding communities across the country.
 Farmers here already face enough uncertainty, from markets to water to labor.
 What they need from Washington is consistency and policies they can plan around.
 My approach is simple: support practical solutions and ensure federal policy works for, not against, our agricultural communities.
-Key Priorities
-- Promote market Stability
-- Support reliable access to domestic and international markets
-- Avoid sudden policy shifts that create uncertainty
-- Ensure federal programs reflect California’s specialty crops
-- Strengthen water reliability
-- Improve coordination across federal, state, and local agencies
-- Invest in water storage, infrastructure, and drought resilience
-- Support balanced, science-based water management
-- Improve coordination across agencies
-- Support the agricultural workforce
-- Ensure a stable and reliable workforce
-- Recognize the role of both farmworkers and operators
-- Advance practical, lawful workforce solution
-- Improve access to federal programs
-- Simplify access to conservation and disaster programs
-- Deliver funding and assistance faster
-- Reduce administrative delays
-- Invest in rural infrastructure
-- Strengthen water, transportation, and energy systems
-- Support local supply chains and processing
-- Align agriculture with broader rural economic growth
-- America is a nation of laws, and a nation built by people who come here to work and contribute.
+Key Priorities Promote market Stability Support reliable access to domestic and international markets Avoid sudden policy shifts that create uncertainty Ensure federal programs reflect California’s specialty crops Strengthen water reliability Improve coordination across federal, state, and local agencies Invest in water storage, infrastructure, and drought resilience Support balanced, science-based water management Improve coordination across agencies Support the agricultural workforce Ensure a stable and reliable workforce Recognize the role of both farmworkers and operators Advance practical, lawful workforce solution Improve access to federal programs Simplify access to conservation and disaster programs Deliver funding and assistance faster Reduce administrative delays Invest in rural infrastructure Strengthen water, transportation, and energy systems Support local supply chains and processing Align agriculture with broader rural economic growth Immigration America is a nation of laws, and a nation built by people who come here to work and contribute.
 Today, our immigration system is failing on both fronts.
 The border is inconsistent, legal pathways are backlogged, and enforcement lacks focus; creating disorder, uncertainty for employers, and unfair conditions for workers.
 My approach is simple: secure the border, enforce the law, and fix the system so it is orderly, timely, and works for our economy.
-Key Priorities
-- Secure the border and restore order
-- Invest in modern border security and drug detection technology
-- Upgrade ports of entry to manage legal crossings efficiently
-- Target trafficking, cartel activity, and illegal drugs
-- Enforce laws with focus and accountability
-- Prioritize removal of individuals who pose public safety risks
-- Improve coordination across agencies
-- Maintain clear standards to build public trust
-- Fix the legal immigration system
-- Expand and modernize legal pathways
-- Reduce backlogs for families and employers
-- Ensure a predictable, enforceable system
-- Support Agriculture & Workforce Needs
-- Create workable legal pathways for agricultural labor
-- Protect workers from exploitation
-- Align policy with real workforce demands in CA-5
-- Provide an earned, lawful path forward
-- Establish a structured process for long-term, law-abiding individuals
-- Maintain background checks and eligibility requirements
-- Provide certainty for Dreamers
-- LGBTQ+ rights are rooted in the fundamental American principles of freedom, dignity, and equal protection under the law.
+Key Priorities Secure the border and restore order Invest in modern border security and drug detection technology Upgrade ports of entry to manage legal crossings efficiently Target trafficking, cartel activity, and illegal drugs Enforce laws with focus and accountability Prioritize removal of individuals who pose public safety risks Improve coordination across agencies Maintain clear standards to build public trust Fix the legal immigration system Expand and modernize legal pathways Reduce backlogs for families and employers Ensure a predictable, enforceable system Support Agriculture & Workforce Needs Create workable legal pathways for agricultural labor Protect workers from exploitation Align policy with real workforce demands in CA-5 Provide an earned, lawful path forward Establish a structured process for long-term, law-abiding individuals Maintain background checks and eligibility requirements Provide certainty for Dreamers LGBTQ+ LGBTQ+ rights are rooted in the fundamental American principles of freedom, dignity, and equal protection under the law.
 Everyone deserves to live safely, be treated fairly, and have access to the same opportunities, no matter who they are.
-Key Priorities
-- Protect Equal Rights
-- Enforce civil rights laws in schools, workplaces, and public spaces
-- Prevent discrimination and violence
-- Promote equal access to opportunity
-- Support Youth & Community Safety
-- Address youth homelessness and mental health needs
-- Strengthen community-based support systems
-- Expand crisis response resources
-- Ensure Access to Healthcare
-- Protect access to medically appropriate care
-- Support patient decision-making with qualified providers
-- Expand access in rural and underserved communities
-- Strong foreign policy isn’t about rhetoric, it’s about results.
+Key Priorities Protect Equal Rights Enforce civil rights laws in schools, workplaces, and public spaces Prevent discrimination and violence Promote equal access to opportunity Support Youth & Community Safety Address youth homelessness and mental health needs Strengthen community-based support systems Expand crisis response resources Ensure Access to Healthcare Protect access to medically appropriate care Support patient decision-making with qualified providers Expand access in rural and underserved communities Foreign Policy Strong foreign policy isn’t about rhetoric, it’s about results.
 As an engineer who developed defense technology to protect U.S. troops and a diplomat who negotiated on behalf of American interests, I’ve seen what works.
 The goal is clear: protect American security, strengthen our economy, and prevent conflicts before they put our troops at risk.
-Key Priorities
-- Prevent Conflict Through Diplomacy
-- Invest in diplomacy and development to reduce conflict risk
-- Ensure the U.S. has the personnel and resources to protect its interests
-- Maintain strong Congressional oversight
-- Protect Agriculture Through Trade
-- Expand and defend export markets for California producers
-- Oppose unpredictable tariffs that raise costs and hurt farmers
-- Enforce fair trade standards
-- Strengthen Alliances
-- Reinforce NATO and Indo-Pacific partnerships
-- Support targeted security assistance to deter conflict
-- Ensure U.S. engagement is strategic and accountable
-- Lead in Critical Technologies
-- Invest in research and development
-- Protect infrastructure and innovation from adversaries
-- Strengthen the workforce to stay globally competitive
-- Smart, Accountable Leadership
-- Prioritize prevention to avoid costly conflicts
-- Focus resources where they are most effective
-- Treat national security as both a safety and fiscal responsibility
-Read Michael’s Statement on Gaza Read Michael’s Statement on the impeachment of Secretary Hegseth
+Key Priorities Prevent Conflict Through Diplomacy Invest in diplomacy and development to reduce conflict risk Ensure the U.S. has the personnel and resources to protect its interests Maintain strong Congressional oversight Protect Agriculture Through Trade Expand and defend export markets for California producers Oppose unpredictable tariffs that raise costs and hurt farmers Enforce fair trade standards Strengthen Alliances Reinforce NATO and Indo-Pacific partnerships Support targeted security assistance to deter conflict Ensure U.S. engagement is strategic and accountable Lead in Critical Technologies Invest in research and development Protect infrastructure and innovation from adversaries Strengthen the workforce to stay globally competitive Smart, Accountable Leadership Prioritize prevention to avoid costly conflicts Focus resources where they are most effective Treat national security as both a safety and fiscal responsibility Read Michael’s Statement on Gaza Read Michael’s Statement on the impeachment of Secretary Hegseth Navigation Media Issues Volunteer California District 05 Endorsements Blog Contact Us Proudly paid for by Masuda for Congress‍ Committee ID #C00905133 Privacy Policy and Terms & Conditions

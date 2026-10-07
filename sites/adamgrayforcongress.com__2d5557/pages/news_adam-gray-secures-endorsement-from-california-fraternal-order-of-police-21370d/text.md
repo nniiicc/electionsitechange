@@ -1,6 +1,10 @@
-PRESS RELEASE
-ADAM GRAY SECURES ENDORSEMENT FROM CALIFORNIA FRATERNAL ORDER OF POLICE
-MERCED, CA – Congressman Adam Gray announced today that he secured the endorsement of the California Fraternal Order of Police (CAFOP) in his re-election campaign in California’s 13th Congressional District.
+Skip navigation menu About News Take Action Issues Contact Media Donate About News Take Action Issues Contact Media Donate PRESS RELEASE ICYMI, Sacramento Bee: Adam Gray Discusses immigration, Socialism and Trump.
+PRESS RELEASE ADAM GRAY SECURES ENDORSEMENT FROM CALIFORNIA FRATERNAL ORDER OF POLICE PRESS RELEASE Modesto Police Officers' Association Endorses Congressman Adam Gray for Re-Election Op-ED, The Washington Post Rep.
+Gray's Op-Ed: My Purple District Can Tell You What The Democratic Autopsy Left Out PRESS RELEASE Adam Gray Issues Statement on CA-13 Primary Election Results PRESS RELEASE Central Valley Local Leaders Endorse Adam Gray's Re-Election PRESS RELEASE Central Valley Mayors Endorse Adam Gray's Re-Election PRESS RELEASE California Farm Bureau Endorses Adam Gray for Re-Election in CA-13 NEWS ARTICLE, TURLOCK JOURNAL Gray Earns Key Endorsement From California Farm Bureau NEWS ARTICLE, your central valley Congressman Gray says he would not vote to support Iran War, discusses reelection NEWS ARTICLE: Turlock Journal Gray officially kicks off re-election campaign for CA-13 NEWS ARTICLE, KCRA 3 Congressman Adam Gray announces re-election for competitive Central Valley seat PRESS RELEASE Rep.
+Adam Gray Launches Re-Election Campaign in California’s 13th Congressional District NEWS ARTICLE: Turlock Journal Gray helps Farm Bill move along NEWS ARTICLE: Fresno Bee State of the Union guest list included Madera Republican.
+Why did a Democrat invite him?
+NEWS ARTICLE: ABC 30 Valley Congressman proposes new bipartisan effort to crack down on fentanyl crisis NEWS ARTICLE: SACRAMENTO BEE Central Valley congressman caught in the middle in a bitterly divided Washington NEWS ARTICLE: Turlock Journal Gray brings growers to the table, hears big concerns NEWS ARTICLE: Turlock Journal Congressman Gray talks Trump, tariffs and immigration NEWS ARTICLE Congressman Gray introduces Valley Water Protection Act NEWS ARTICLE: Turlock Journal Congressman Gray suits up with the Blue Devils OP-ED BY ADAM GRAY: FResno Bee Adam Gray: Farmers are the ones taking the bullets in Trump’s on-again, off-again trade wars NEWS ARTICLE: Fresno Bee Editorial House Democrat Adam Gray of Merced is ready to solve problems.
+The GOP, not so much NEWS ARTICLE: CNN State of the Union What four freshman members hope to accomplish in the narrowly divided House Sep 15 2026 PRESS RELEASE ADAM GRAY SECURES ENDORSEMENT FROM CALIFORNIA FRATERNAL ORDER OF POLICE MERCED, CA – Congressman Adam Gray announced today that he secured the endorsement of the California Fraternal Order of Police (CAFOP) in his re-election campaign in California’s 13th Congressional District.
 Founded in 1977, the Fraternal Order of Police California State Lodge oversees 33 local lodges and over 21,500 members.
 The CAFOP is the voice of those who dedicate their lives to protecting and serving our communities.
 The CAFOP is committed to improving the working conditions of law enforcement officers and the safety of those who serve through education, legislation, information, community involvement, and employee representation.
@@ -9,9 +13,8 @@ Adam Gray has been a strong partner to law enforcement and has consistently list
 CAFOP is proud to endorse Adam Gray and support his work to make the Valley a safer place to live, work and raise a family,” said Roger Hilton, President of the California Fraternal Order of Police.
 CAFOP’s endorsement is the latest in a coalition of law enforcement organizations supporting Congressman Gray’s re-election campaign.
 Throughout his career, Gray has consistently worked to strengthen public safety across the Central Valley.
-His work includes:
-- Securing more than $1 million in federal funding for technology upgrades for the Modesto Police Department.
-- Introducing the Combatting Fentanyl Poisonings Act to expand grant funding for fentanyl awareness and prevention.
-- Cosponsoring the Invest to Protect Act, which authorizes millions of dollars in funding for small and midsize police departments.
-- Authoring legislation in the California State Assembly to crack down on gangs and organized retail theft, and continuing that work in Congress.
-For more information about Congressman Adam Gray’s campaign, visit AdamGrayForCongress.com.
+His work includes: Securing more than $1 million in federal funding for technology upgrades for the Modesto Police Department.
+Introducing the Combatting Fentanyl Poisonings Act to expand grant funding for fentanyl awareness and prevention.
+Cosponsoring the Invest to Protect Act, which authorizes millions of dollars in funding for small and midsize police departments.
+Authoring legislation in the California State Assembly to crack down on gangs and organized retail theft, and continuing that work in Congress.
+For more information about Congressman Adam Gray’s campaign, visit AdamGrayForCongress.com . info@AdamGrayforCongress.com If donating by mail, make checks payable to: Adam Gray for Congress | PO Box 1229 Merced, CA 95341 Privacy Policy Press Inquires: press@adamGrayforCongress.com Put your “paid for” disclaimer here You need to enable JavaScript to run this app.

@@ -1,9 +1,1 @@
-Home
-Contact
-Home
-Contact
-Contact
-Email
-Message
-Submit
-calebformontana@outlook.com
+Home Contact Home Contact Contact Email Message Submit calebformontana@outlook.com

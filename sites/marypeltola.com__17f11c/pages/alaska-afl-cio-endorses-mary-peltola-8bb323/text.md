@@ -1,11 +1,9 @@
-CONTACT: [email protected]
-Endorsement recognizes Peltola’s pro-worker record and commitment to fighting for Alaska working families
-ALASKA – Yesterday, the Alaska AFL-CIO endorsed lifelong Alaskan and former fishing boat captain Mary Peltola for U.S.
+Skip to content Facebook-f Instagram X-twitter Threads Tiktok ALASKA FIRST.
+CONTACT My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press Press Releases In the News My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press Press Releases In the News SALMON RUN CALL FOR ARTISTS STORE DONATE Facebook-f Instagram X-twitter Threads Tiktok SALMON RUN CALL FOR ARTISTS My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press In the News Press Releases Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press In the News Press Releases Contact DONATE Alaska AFL-CIO Endorses Mary Peltola June 18, 2026 9:00 am Share this Post: CONTACT: [email protected] Endorsement recognizes Peltola’s pro-worker record and commitment to fighting for Alaska working families ALASKA – Yesterday, the Alaska AFL-CIO endorsed lifelong Alaskan and former fishing boat captain Mary Peltola for U.S.
 Senate, citing her tireless advocacy on behalf of Alaska workers and recognizing her as the candidate who will fight for Alaska working families.
-“I am so grateful to earn the endorsement of the Alaska AFL-CIO,” said Mary Peltola.
+“I am so grateful to earn the endorsement of the Alaska AFL-CIO,” said Mary Peltola .
 “No amount of smoke and mirrors can hide my opponent’s record of raising costs and putting workers last.
-Alaska workers built this state, and Alaska’s next Senator, I will fight every day to put our workers first.”
-“For far too long, Alaska’s working families have taken a back seat to corporate interests, with members of Congress voting for tax breaks for the billionaire class rather than passing common-sense legislation that uplifts the lives of people who work to support their families.
+Alaska workers built this state, and Alaska’s next Senator, I will fight every day to put our workers first.” “For far too long, Alaska’s working families have taken a back seat to corporate interests, with members of Congress voting for tax breaks for the billionaire class rather than passing common-sense legislation that uplifts the lives of people who work to support their families.
 In Alaska, the choice is clear: Mary will fight day in and day out to put the lives of workers first and will address kitchen table issues of health care, affordability, and childcare.
 The endorsement has been made, and the hard work begins.
 We will work every day from now until November to elect pro-worker candidates from the top of the ticket to the bottom,” said Joelle Hall, Alaska AFL-CIO President.
@@ -14,4 +12,7 @@ She co-sponsored the Protecting the Right to Organize (PRO) Act to enshrine work
 In the Senate, Mary will fight to cut taxes for hardworking Alaskans, increase wages for workers, and bring down the cost of groceries, gas, housing, and childcare for Alaska working families.
 Mary will also fight to fix the rigged system in DC that prioritizes special interests over Alaska workers and make Alaska more affordable for Alaska working families.
 The Alaska AFL-CIO works on behalf of the more than 50,000 union members in Alaska to protect workers’ rights and level the playing field for working people throughout our state.
-#
+# More Statements: PHOTOS: Mary Peltola Rallies Fired-Up Volunteers at Anchorage Field Office READ MORE ICYMI: Mary Peltola Champions Alaska Oil and Gas: “Her Goal Is To Cut Energy Costs For Alaskans As Quickly As Possible” READ MORE Mary Peltola Champions Lifelong Fight for Fisheries at Kodiak Fisheries Debate, Crushes Dan Sullivan & His Lower 48 Anti-Fish Agenda READ MORE PO BOX 90031 Anchorage, AK 99509 EMAIL [email protected] Facebook-f Instagram X-twitter Threads Tiktok PRIVACY POLICY PAID FOR BY ALASKANS FOR MARY Discover more from Mary Peltola Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading WE CAN'T DO IT WITHOUT YOUR HELP.
+Contribute to help Mary’s campaign today.
+MAKE A DONATION GET INVOLVED

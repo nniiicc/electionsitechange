@@ -1,5 +1,4 @@
-The Decline of Our Space Program
-This was originally published on 3/21/26 at gaylonkent.net.
+Skip to content The Decline of Our Space Program This was originally published on 3/21/26 at gaylonkent.net.
 USA!
 USA!: Recently in this space, we wrote that our country is a shell of what it used to be, citing our space program as a prime example.
 We noted, among other things, the recent delays in the Artemis program and that we haven’t put anyone past low Earth orbit since Apollo 17 returned to Earth in 1972.
@@ -18,8 +17,10 @@ Now in our seventh decade of TV and fast food being focal points of American lif
 Our president, a man of no moral or intellectual substance, is a prime example of that, and one mission in eight years is another.
 We are simply not as bright nor as determined as we used to be.
 The Bottom Line: Of course, we have no idea what goes on at NASA, but you do not have to be Neil Armstrong to strongly suspect the culture is not good.
-It being a government organization lacking the vision of NASA from 60 years ago, there is probably a lot of covering one’s arse going on, with no one person taking charge and committees running things.
+It being a government organization lacking the vision of NASA from #ago, there is probably a lot of covering one’s arse going on, with no one person taking charge and committees running things.
 We’re the worst for it.
 Instead of an America showing the way, of an America looking back at 40 years of having humans on Mars, we can’t even get to the Moon anymore.
 The mighty have fallen.
-Thank you for reading,
+Thank you for reading, Get on board today.
+It’s time to make a difference.
+Home Facebook Comments Box Gaylon Kent For Congress , Proudly powered by WordPress.

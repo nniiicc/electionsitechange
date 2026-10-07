@@ -1,4 +1,4 @@
-[January 22, 2023] | We have started the 2023 legislative session.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK 2023 LEGISLATIVE SESSION BEGINS [ January 22, 2023 ] | We have started the 2023 legislative session.
 For the next three months we will work diligently to keep Georgia the best place to live, work, and play.
 We will meet for 40 days, but it takes three months for us to get through those 40 days.
 I always try in these articles to give you a different perspective than you may see in the news.
@@ -31,3 +31,4 @@ I welcome you to contact me with any questions or concerns about topics or issue
 My Capitol office number is 404-656-7153.
 My email is rick.jasperse@house.ga.gov.
 I thank you for allowing me to serve as your State Representative.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

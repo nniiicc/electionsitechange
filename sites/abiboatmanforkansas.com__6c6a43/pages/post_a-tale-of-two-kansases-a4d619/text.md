@@ -1,10 +1,8 @@
-A Tale of Two Kansases
-Updated: Aug 16
-I may have been born in Ohio, but Kansas is my chosen home.
+top of page Contribute Menu Close About Priorities Get Involved Blog Donate Contact Vote All Posts Search A Tale of Two Kansases abiboatmanforkansa Aug 15 2 min read Updated: Aug 16 I may have been born in Ohio, but Kansas is my chosen home.
 There’s so much to be proud of our home state for—from our early days joining the Union as a free state to desegregating schools through Brown v.
 Board of Education to being the first state to reaffirm reproductive rights as a constitutional right post Roe and more.
 Alas, there are two Kansases, as M.
-Gessen points out in their latest article for The New York Times entitled, “What’s Happening in Kansas Should Alarm Us All” (if you don't have a NYT subscription, you can still create a free account to read the article).
+Gessen points out in their latest article for The New York Times entitled, “What’s Happening in Kansas Should Alarm Us All” ( if you don't have a NYT subscription, you can still create a free account to read the article ).
 Gessen reports on what SB244 (AKA the “bathroom bill”) has done to people across our state, and I was one of the Kansans they talked to.
 As you may know, earlier this year my colleagues in the Kansas Legislature passed one of the most sweeping anti-trans laws in the country—a law so hastily written that hundreds of transgender Kansans received official letters demanding they surrender their driver's licenses, with no grace period and no clear answers about what happens to the people the letters never reach.
 For those of you who may be new here, I'm a Wichita Democrat, an Air Force veteran, and I represent House District 86 in the Kansas House.
@@ -24,3 +22,8 @@ Where public schools are fully funded instead of fought over.
 Where a living wage is the law of the land.
 Where civil rights aren't reopened for debate every legislative session.
 This is the Kansas that I am fighting for every day.
+If that's the Kansas you believe in too, I'd love to have you with me.
+If you’re able, please make a gift and get involved with the campaign today.
+Recent Posts See All Our Kids Deserve Better: We Must Fully Fund Kansas Schools What Pride Month Means to Me 2026 Legislative Session Recap Abi Boatman for Kansas Donate Now abiboatmanforkansas@gmail.com ​ ​ Paid for by Abi Boatman for Kansas, Kaytie Brozek, Treasurer ​ © Abi Boatman for Kansas.
+Powered and secured by Wix Privacy Policy.
+Terms & Conditions. bottom of page

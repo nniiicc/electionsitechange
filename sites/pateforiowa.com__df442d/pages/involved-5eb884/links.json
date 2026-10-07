@@ -1,16 +1,70 @@
 [
-"http://pateforiowa.com/donate",
-"https://facebook.com/PateForIowa",
-"https://pateforiowa.com/",
-"https://pateforiowa.com/2022/03/15/media-release-iowas-top-elected-officials-endorse-paul-pate-for-secretary-of-state",
-"https://pateforiowa.com/2022/04/24/iowa-ranked-3rd-best-in-nation-for-election-administration",
-"https://pateforiowa.com/2022/04/27/secretary-pate-featured-guest-on-iowa-press",
-"https://pateforiowa.com/contact-us",
-"https://pateforiowa.com/involved",
-"https://pateforiowa.com/news",
-"https://pateforiowa.com/paul",
-"https://secure.winred.com/pate-for-iowa/donate",
-"https://twitter.com/pateforiowa",
-"https://victoryenterprises.com/",
-"https://x.com/pateforiowa"
+{
+"text": "Contact",
+"href": "https://pateforiowa.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/pate-for-iowa/donate"
+},
+{
+"text": "Donate Now!",
+"href": "http://www.pateforiowa.com/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://pateforiowa.com/involved/"
+},
+{
+"text": "Home",
+"href": "https://pateforiowa.com"
+},
+{
+"text": "Info@PateForIowa.com",
+"href": "mailto:Info@PateForIowa.com"
+},
+{
+"text": "Iowa ranked 3rd best in nation for election administration",
+"href": "https://pateforiowa.com/2022/04/24/iowa-ranked-3rd-best-in-nation-for-election-administration/"
+},
+{
+"text": "MEDIA RELEASE: Iowa’s top elected officials endorse Paul Pate for Secretary of State",
+"href": "https://pateforiowa.com/2022/03/15/media-release-iowas-top-elected-officials-endorse-paul-pate-for-secretary-of-state/"
+},
+{
+"text": "Meet Paul",
+"href": "https://pateforiowa.com/paul/"
+},
+{
+"text": "News",
+"href": "https://pateforiowa.com/news/"
+},
+{
+"text": "Secretary Pate featured guest on “Iowa Press”",
+"href": "https://pateforiowa.com/2022/04/27/secretary-pate-featured-guest-on-iowa-press/"
+},
+{
+"text": "[image: Pate for Secretary of State]",
+"href": "https://pateforiowa.com"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/pate-for-iowa/donate"
+},
+{
+"text": "[image]",
+"href": "https://www.victoryenterprises.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/pateforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/PateForIowa"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/pateforiowa"
+}
 ]

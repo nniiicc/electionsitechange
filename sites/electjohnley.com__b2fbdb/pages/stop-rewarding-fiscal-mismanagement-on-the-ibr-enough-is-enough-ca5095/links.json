@@ -1,53 +1,242 @@
 [
-"http://electjohnley.com/",
-"https://clarkcountytoday.com/opinion/opinion-outrageous-32-wsp-profits-for-ibr-consulting",
-"https://clarkcountytoday.com/opinion/opinion-stop-rewarding-fiscal-mismanagement-on-the-ibr-enough-is-enough",
-"https://clarkcountytoday.com/opinion/opinion-the-ibr-guts-transit-ridership-projections-by-84-percent-and-om-costs-by-over-half",
-"https://clarkcountytoday.com/opinion/opinion-the-ibrs-10-12-billion-funding-problem-and-lack-of-truthfulness",
-"https://eastcountybridge.com/",
-"https://electjohnley.com/",
-"https://electjohnley.com/about-me",
-"https://electjohnley.com/author/john-ley",
-"https://electjohnley.com/category/60-seconds-with-john-ley",
-"https://electjohnley.com/category/issues",
-"https://electjohnley.com/news",
-"https://electjohnley.com/tag/anne-mcenerny-ogle",
-"https://electjohnley.com/tag/bob-ferguson",
-"https://electjohnley.com/tag/boston-big-dig",
-"https://electjohnley.com/tag/brent-spence-bridge",
-"https://electjohnley.com/tag/california-high-speed-rail",
-"https://electjohnley.com/tag/columbia-river-crossing",
-"https://electjohnley.com/tag/dot-secretary-sean-duffy",
-"https://electjohnley.com/tag/east-county-bridge",
-"https://electjohnley.com/tag/federal-record-of-decision",
-"https://electjohnley.com/tag/figg-engineering",
-"https://electjohnley.com/tag/greg-johnson",
-"https://electjohnley.com/tag/hood-river-white-salmon-bridge",
-"https://electjohnley.com/tag/i-5-interstate-bridge-replacement",
-"https://electjohnley.com/tag/interstate-bridge-replacement-program",
-"https://electjohnley.com/tag/joe-cortright",
-"https://electjohnley.com/tag/key-bridge",
-"https://electjohnley.com/tag/mass-transit",
-"https://electjohnley.com/tag/rose-quarter-project",
-"https://electjohnley.com/tag/shelly-boshart-davis",
-"https://electjohnley.com/tag/tina-kotek",
-"https://electjohnley.com/tag/trimet",
-"https://electjohnley.com/tag/washington-department-of-transportation",
-"https://electjohnley.com/tag/washington-state-ferry-system",
-"https://electjohnley.com/tag/wsp",
-"https://electjohnley.com/tag/wsp-global",
-"https://electjohnley.com/washington-lawmaker-warns-ballooning-bridge-budget-needs-reality-check",
-"https://electjohnley.com/washington-states-rainy-day-fund-wont-help-fire-victims",
-"https://facebook.com/ElectJohnLey",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectjohnley.com%2Fstop-rewarding-fiscal-mismanagement-on-the-ibr-enough-is-enough%2F",
-"https://hoodriverbridge.org/project-updates/aub9f9gukmzureftcsx9mkt6kv7e6j",
-"https://instagram.com/electjohnley",
-"https://interstatebridge.org/media/cyzhvarj/ibr-cevp-report-2026-addendum-rev2-remediated.pdf",
-"https://interstatebridge.org/media/ecrmblnp/ibr-fhwa-initial-financial-plan-2026-06-16_remediated.pdf",
-"https://linkedin.com/shareArticle?url=https%3A%2F%2Felectjohnley.com%2Fstop-rewarding-fiscal-mismanagement-on-the-ibr-enough-is-enough%2F",
-"https://secure.anedot.com/friends-to-elect-john-ley/donate",
-"https://twitter.com/LeyElect",
-"https://twitter.com/intent/tweet?text=https%3A%2F%2Felectjohnley.com%2Fstop-rewarding-fiscal-mismanagement-on-the-ibr-enough-is-enough%2F",
-"https://wbal.com/maryland-fires-key-bridge-contractor-citing-high-cost-and-delays",
-"https://youtube.com/channel/UCwT7tSqPd386hR6PDfzpc5Q"
+{
+"text": "$17.7 billion cost estimate",
+"href": "https://www.clarkcountytoday.com/opinion/opinion-the-ibrs-10-12-billion-funding-problem-and-lack-of-truthfulness/"
+},
+{
+"text": "$391 million",
+"href": "https://interstatebridge.org/media/cyzhvarj/ibr-cevp-report-2026-addendum-rev2-remediated.pdf"
+},
+{
+"text": "$44 million contract",
+"href": "https://www.clarkcountytoday.com/opinion/opinion-outrageous-32-wsp-profits-for-ibr-consulting/"
+},
+{
+"text": "32% fixed fee",
+"href": "https://www.clarkcountytoday.com/opinion/opinion-outrageous-32-wsp-profits-for-ibr-consulting/"
+},
+{
+"text": "60 Seconds With John Ley",
+"href": "https://electjohnley.com/category/60-seconds-with-john-ley/"
+},
+{
+"text": "60 percent designed",
+"href": "https://hoodriverbridge.org/project-updates/aub9f9gukmzureftcsx9mkt6kv7e6j"
+},
+{
+"text": "About Me",
+"href": "https://electjohnley.com/about-me/"
+},
+{
+"text": "Anne McEnerny Ogle",
+"href": "https://electjohnley.com/tag/anne-mcenerny-ogle/"
+},
+{
+"text": "Bob Ferguson",
+"href": "https://electjohnley.com/tag/bob-ferguson/"
+},
+{
+"text": "Boston Big Dig",
+"href": "https://electjohnley.com/tag/boston-big-dig/"
+},
+{
+"text": "Brent Spence Bridge",
+"href": "https://electjohnley.com/tag/brent-spence-bridge/"
+},
+{
+"text": "California High Speed Rail",
+"href": "https://electjohnley.com/tag/california-high-speed-rail/"
+},
+{
+"text": "Clark County Today",
+"href": "https://www.clarkcountytoday.com/opinion/opinion-stop-rewarding-fiscal-mismanagement-on-the-ibr-enough-is-enough/"
+},
+{
+"text": "Columbia River Crossing",
+"href": "https://electjohnley.com/tag/columbia-river-crossing/"
+},
+{
+"text": "DOT Secretary Sean Duffy",
+"href": "https://electjohnley.com/tag/dot-secretary-sean-duffy/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-to-elect-john-ley/donate"
+},
+{
+"text": "East County Bridge",
+"href": "https://eastcountybridge.com/"
+},
+{
+"text": "East County Bridge",
+"href": "https://electjohnley.com/tag/east-county-bridge/"
+},
+{
+"text": "Federal Record of Decision",
+"href": "https://electjohnley.com/tag/federal-record-of-decision/"
+},
+{
+"text": "Figg Engineering",
+"href": "https://electjohnley.com/tag/figg-engineering/"
+},
+{
+"text": "Greg Johnson",
+"href": "https://electjohnley.com/tag/greg-johnson/"
+},
+{
+"text": "Home",
+"href": "https://electjohnley.com/"
+},
+{
+"text": "Hood River–White Salmon bridge",
+"href": "https://electjohnley.com/tag/hood-river-white-salmon-bridge/"
+},
+{
+"text": "I-5 Interstate Bridge Replacement",
+"href": "https://electjohnley.com/tag/i-5-interstate-bridge-replacement/"
+},
+{
+"text": "Interstate Bridge Replacement Program",
+"href": "https://electjohnley.com/tag/interstate-bridge-replacement-program/"
+},
+{
+"text": "Issues",
+"href": "https://electjohnley.com/category/issues/"
+},
+{
+"text": "Joe Cortright",
+"href": "https://electjohnley.com/tag/joe-cortright/"
+},
+{
+"text": "Key Bridge",
+"href": "https://electjohnley.com/tag/key-bridge/"
+},
+{
+"text": "Latest News",
+"href": "https://electjohnley.com/news/"
+},
+{
+"text": "Rose Quarter Project",
+"href": "https://electjohnley.com/tag/rose-quarter-project/"
+},
+{
+"text": "Shelly Boshart Davis",
+"href": "https://electjohnley.com/tag/shelly-boshart-davis/"
+},
+{
+"text": "Tina Kotek",
+"href": "https://electjohnley.com/tag/tina-kotek/"
+},
+{
+"text": "TriMet",
+"href": "https://electjohnley.com/tag/trimet/"
+},
+{
+"text": "WSP",
+"href": "https://electjohnley.com/tag/wsp/"
+},
+{
+"text": "WSP Global",
+"href": "https://electjohnley.com/tag/wsp-global/"
+},
+{
+"text": "Washington Department of Transportation",
+"href": "https://electjohnley.com/tag/washington-department-of-transportation/"
+},
+{
+"text": "Washington State Ferry System",
+"href": "https://electjohnley.com/tag/washington-state-ferry-system/"
+},
+{
+"text": "[image: Elect John Ley][image: Elect John Ley]",
+"href": "https://electjohnley.com/"
+},
+{
+"text": "[image: https://electjohnley.com/wp-content/uploads/2022/05/JLlogo_white-1.png]",
+"href": "https://electjohnley.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/LeyElect"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectJohnLey"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electjohnley/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCwT7tSqPd386hR6PDfzpc5Q"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectjohnley.com%2Fstop-rewarding-fiscal-mismanagement-on-the-ibr-enough-is-enough%2F"
+},
+{
+"text": "[tooltip: Share on Linkedin]",
+"href": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Felectjohnley.com%2Fstop-rewarding-fiscal-mismanagement-on-the-ibr-enough-is-enough%2F"
+},
+{
+"text": "[tooltip: Share on Twitter]",
+"href": "https://twitter.com/intent/tweet?text=https%3A%2F%2Felectjohnley.com%2Fstop-rewarding-fiscal-mismanagement-on-the-ibr-enough-is-enough%2F"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://twitter.com/LeyElect"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/ElectJohnLey"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/electjohnley/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.youtube.com/channel/UCwT7tSqPd386hR6PDfzpc5Q"
+},
+{
+"text": "[tooltip: ]",
+"href": "mailto:electjohnley@gmail.com"
+},
+{
+"text": "by John Ley",
+"href": "http://electjohnley.com"
+},
+{
+"text": "by John Ley",
+"href": "https://electjohnley.com/author/john-ley/"
+},
+{
+"text": "electjohnley@gmail.com",
+"href": "mailto:electjohnley@gmail.com"
+},
+{
+"text": "financial plan",
+"href": "https://interstatebridge.org/media/ecrmblnp/ibr-fhwa-initial-financial-plan-2026-06-16_remediated.pdf"
+},
+{
+"text": "fired",
+"href": "https://www.wbal.com/maryland-fires-key-bridge-contractor-citing-high-cost-and-delays"
+},
+{
+"text": "mass transit",
+"href": "https://electjohnley.com/tag/mass-transit/"
+},
+{
+"text": "next Washington lawmaker warns ballooning bridge budget needs reality check",
+"href": "https://electjohnley.com/washington-lawmaker-warns-ballooning-bridge-budget-needs-reality-check/"
+},
+{
+"text": "previous Washington state’s rainy day fund won’t help fire victims",
+"href": "https://electjohnley.com/washington-states-rainy-day-fund-wont-help-fire-victims/"
+},
+{
+"text": "slashed by 84 percent",
+"href": "https://www.clarkcountytoday.com/opinion/opinion-the-ibr-guts-transit-ridership-projections-by-84-percent-and-om-costs-by-over-half/"
+}
 ]

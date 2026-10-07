@@ -1,7 +1,9 @@
 {
  "description": "default description",
  "final_url": "https://space4governor.com/",
- "paid_for_by": null,
+ "fingerprint": "8c3a60c38794f320e9c273d986cee6dd3f7199f7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Space 4 Governor",
  "years_mentioned": []
 }

@@ -1,13 +1,70 @@
 [
-"https://secure.actblue.com/donate/citizens-for-baker-2026",
-"https://staciebakerforohio.org/",
-"https://staciebakerforohio.org/announcements.html",
-"https://staciebakerforohio.org/contact.html",
-"https://staciebakerforohio.org/datadeletion.html",
-"https://staciebakerforohio.org/events.html",
-"https://staciebakerforohio.org/get-involved.html",
-"https://staciebakerforohio.org/privacy.html",
-"https://staciebakerforohio.org/terms.html",
-"https://staciebakerforohio.org/volunteer.html",
-"https://support.actblue.com/"
+{
+"text": "About",
+"href": "https://www.staciebakerforohio.org/#about"
+},
+{
+"text": "ActBlue's support center",
+"href": "https://support.actblue.com"
+},
+{
+"text": "Announcements",
+"href": "https://www.staciebakerforohio.org/announcements.html"
+},
+{
+"text": "Baker for Ohio",
+"href": "https://www.staciebakerforohio.org/"
+},
+{
+"text": "Contact",
+"href": "https://www.staciebakerforohio.org/contact.html"
+},
+{
+"text": "Data Deletion",
+"href": "https://www.staciebakerforohio.org/datadeletion.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/citizens-for-baker-2026"
+},
+{
+"text": "Email Us Your Request",
+"href": "mailto:admin@nationalsystems.org?subject=Data+Deletion+Request&body=Hello%2CI+would+like+to+request+deletion+of+my+personal+data+from+your+systems.Name%3A+%5BYour+Name%5DEmail%3A+%5BYour+Email%5DPhone%3A+%5BYour+Phone+%28if+applicable%29%5DThank+you."
+},
+{
+"text": "Events",
+"href": "https://www.staciebakerforohio.org/events.html"
+},
+{
+"text": "Get Involved",
+"href": "https://www.staciebakerforohio.org/get-involved.html"
+},
+{
+"text": "Home",
+"href": "https://www.staciebakerforohio.org/"
+},
+{
+"text": "Platform",
+"href": "https://www.staciebakerforohio.org/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.staciebakerforohio.org/privacy.html"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.staciebakerforohio.org/terms.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.staciebakerforohio.org/volunteer.html"
+},
+{
+"text": "admin@nationalsystems.org",
+"href": "mailto:admin@nationalsystems.org"
+},
+{
+"text": "citizensforstaciebaker@gmail.com",
+"href": "mailto:citizensforstaciebaker@gmail.com"
+}
 ]

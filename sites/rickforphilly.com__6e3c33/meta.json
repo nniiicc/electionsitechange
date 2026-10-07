@@ -1,7 +1,9 @@
 {
  "description": "Rick is running for re-election to deliver for the working class in West and Southwest Philly.",
  "final_url": "https://www.rickforphilly.com/",
- "paid_for_by": null,
+ "fingerprint": "95d6d80ad0dd80fff48be9f1639e6659ad4ad637",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Rick For Philly",
  "years_mentioned": [
   "2020"

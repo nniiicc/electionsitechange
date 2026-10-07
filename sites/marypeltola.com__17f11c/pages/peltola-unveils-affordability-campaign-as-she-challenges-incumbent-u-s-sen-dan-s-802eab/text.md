@@ -1,4 +1,7 @@
-The leading challenger to Republican incumbent U.S.
+Skip to content Facebook-f Instagram X-twitter Threads Tiktok ALASKA FIRST.
+CONTACT My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press Press Releases In the News My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press Press Releases In the News SALMON RUN CALL FOR ARTISTS STORE DONATE Facebook-f Instagram X-twitter Threads Tiktok SALMON RUN CALL FOR ARTISTS My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press In the News Press Releases Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press In the News Press Releases Contact DONATE Peltola unveils ‘affordability’ campaign as she challenges incumbent U.S.
+Sen.
+Dan Sullivan By James Brooks , May 11 2026 Share this Post: The leading challenger to Republican incumbent U.S.
 Sen.
 Dan Sullivan is proposing to eliminate income taxes for Alaskans earning less than $92,000 per year, the state’s median household income.
 Democratic candidate Mary Peltola introduced the idea Monday as part of a newly expanded platform of campaign ideas.
@@ -21,20 +24,22 @@ Mary’s, on the Yukon River in southwest Alaska, she talked to people who are c
 They’re expecting prices to go up by 40-50%, she said.
 If they can’t afford fuel, “that means there’s no electricity, there’s no heat, there’s no gas for hunting and fishing.
 This is dire.
-And I, you know, I just think we’ve got to get really serious about how to bring down prices for everyday Alaskans, for everyday households.”
-Peltola drew a direct line between the American war on Iran and those high prices.
+And I, you know, I just think we’ve got to get really serious about how to bring down prices for everyday Alaskans, for everyday households.” Peltola drew a direct line between the American war on Iran and those high prices.
 Sullivan has been a staunch supporter of the war.
 Peltola believes Congress needs to intervene, though she stopped short of outright opposing it.
 “There is a need for the War Powers Act.
 I do not believe that any President should be making these kinds of substantive decisions unilaterally,” she said.
 Peltola’s call for an “Essential Freight Service” mirrors her support for Bypass Mail and the Essential Air Service, two existing subsidy programs that support flights to rural Alaska and other parts of rural America.
 She said the exact scope of the freight program still needs to be worked out.
-Alaska is essentially “six states within a state,” and “and every single region is so unique, and I think it would have to be unique approaches in every region and every community.”
-Monday’s announcement is the second significant policy launch by Peltola since she announced in January that she would challenge Sullivan for Senate.
+Alaska is essentially “six states within a state,” and “and every single region is so unique, and I think it would have to be unique approaches in every region and every community.” Monday’s announcement is the second significant policy launch by Peltola since she announced in January that she would challenge Sullivan for Senate.
 In late March, she announced her support for Congressional term limits, a ban on stock trading by members of Congress and her support for a Constitutional amendment to overturn the U.S.
-Supreme Court case known as Citizens United.
+Supreme Court case known as Citizens United .
 That case allows third-party groups to spend unlimited amounts of money on political campaigns as long as they do not coordinate with candidates.
 Speaking Friday, Peltola said anti-corruption and affordability are complementary issues.
 “I think we’re all going to be looking at where the price gouging is and where we can halt corporate greed and inflation,” she said.
 Correction: This article has been updated to reflect that Republicans have a 53-47 edge in the U.S.
 Senate, including two independents who caucus with Democrats.
+Published By: VIEW ORIGINAL More News: Peltola backs gas project, more refining in Senate bid READ MORE PO BOX 90031 Anchorage, AK 99509 EMAIL [email protected] Facebook-f Instagram X-twitter Threads Tiktok PRIVACY POLICY PAID FOR BY ALASKANS FOR MARY Discover more from Mary Peltola Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading WE CAN'T DO IT WITHOUT YOUR HELP.
+Contribute to help Mary’s campaign today.
+MAKE A DONATION GET INVOLVED

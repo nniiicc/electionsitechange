@@ -1,9 +1,9 @@
 {
  "description": "Join our community engagement events in Nebraska to participate in public discussions and town halls with Eric Foreman.",
  "final_url": "https://foremantakebackourhouse.com/events",
- "paid_for_by": null,
+ "fingerprint": "5b7c8a8e05386228d89c3526db2d248f1783e93f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "EVENTS",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

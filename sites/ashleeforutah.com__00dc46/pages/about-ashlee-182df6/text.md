@@ -1,11 +1,8 @@
-My husband and I bought his childhood home in the Oquirrh Shadows neighborhood 12 years ago because we loved the area and the people and wanted to raise our boys in the same community.
+Home About Me District 37 Boundaries Endorsements Issues & Priorities Contact Volunteer DONATE Select Page My husband and I bought his childhood home in the Oquirrh Shadows neighborhood #ago because we loved the area and the people and wanted to raise our boys in the same community.
 I am grateful to live in a place where our neighbors are our social circle, and we can count on each other for anything.
 My husband is a proud Union pipefitter, and I am grateful to serve the traveling public in my full-time job every day for the last fifteen years.
 Every day my husband and I balance work schedules, school and daycare drop-off & pick-up, homework, doctor and dentist appointments, our family budget, and make sure to squeeze in camping as often as possible.
 When I’m not at work, the Capitol, or a community event, you will likely find me in my garden, tending to my tomatoes, chickens, or bees.
 I am grateful and fortunate to have the support system that I have that allows me to serve families like ours in the Legislature, because a representative government works best when those who are elected to represent their communities are reflective of the communities that they serve.
 I have had the opportunity to serve my fellow Utahns in several capacities, and am fortunate to use my experience to make sure that all of Utah’s working-class families have a seat at the table.
-- Mentor – Big Brothers Big Sisters of Utah
-- Founding Board Member & Director of Events – The Single Parent Project
-- Foster, Foster Coordinator, Volunteer – Cause for Paws Utah
-- Foster – Utah Animal Advocacy Foundation
+Mentor – Big Brothers Big Sisters of Utah Founding Board Member & Director of Events – The Single Parent Project Foster, Foster Coordinator, Volunteer – Cause for Paws Utah Foster – Utah Animal Advocacy Foundation Home About Me Endorsements Issues & Priorities Contact DONATE Facebook X © #-# Ashlee Matthews for Utah House District 37 | Paid for by Ashlee Matthews for Utah

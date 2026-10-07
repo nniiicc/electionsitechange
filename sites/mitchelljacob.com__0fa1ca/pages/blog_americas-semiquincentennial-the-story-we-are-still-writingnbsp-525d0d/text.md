@@ -1,5 +1,4 @@
-America’s Semiquincentennial: the Story We Are Still Writing
-“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain inalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness.” The Declaration of Independence, July 4, 1776.
+0 Skip to Content Straight from Mitch Media DONATE NOW Open Menu Close Menu Straight from Mitch Media DONATE NOW Open Menu Close Menu Straight from Mitch Media DONATE NOW America’s Semiquincentennial: the Story We Are Still Writing Jul 4 Written By Mitch “We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain inalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness.” The Declaration of Independence , July 4, 1776.
 Our forefathers wrote those words when they declared independence from Great Britain.
 The new government they created, “deriving [its] just powers from the consent of the governed,” is now 250 years old.
 I am proud to be an American, and I pray she has at least 250 more years as the greatest nation on earth.
@@ -13,8 +12,7 @@ Might I posit that the United States is made perfect by the very fact that it is
 It is the never-ending tinkering with our democracy, the evolution of our policies and priorities, and unwavering dedication to our shared values that make democracy special.
 And what makes America truly special is that the freedom we celebrate today means so many different things.
 So, I encourage you to celebrate Life and Liberty however you choose to pursue your happiness this Independence Day.
-Birth of an Idea
-On April 19, 1775, the Battles of Lexington and Concord broke out.
+Birth of an Idea On April 19, 1775, the Battles of Lexington and Concord broke out.
 Ralph Waldo Emerson dubbed the opening shot “the shot heard round the world” because it sparked the Revolutionary War.
 The 13 colonies came together as a single, united force and fought one of the world's most powerful militaries.
 They had their own constitution and laws, and some were even fighting each other.
@@ -24,8 +22,7 @@ These documents and our Founding Fathers shaped and molded a nation that still s
 The United States was built on a simple promise: the American Dream.
 This is the idea that a nation exists for the sake of its People, that all have the freedom and liberty to pursue their happiness, and the government will abide by the United States Constitution and its simple guarantees.
 These ideals have been tested and challenged over time, but continue to stand as bulwarks against a tyrannical and overreaching government.
-Nation Tested
-Our founding fathers accomplished something extraordinary.
+Nation Tested Our founding fathers accomplished something extraordinary.
 Yet, from the beginning, this nation carried a contradiction: that “all men are created equal” (Declaration of Independence) and also that “[slavery] shall not be prohibited by the Congress prior to the Year [1808]” (United States Constitution, Article I, Section 9).
 Let’s never forget that with the Constitution, we became a republic, but millions remained enslaved.
 We started a revolution on the concept of liberty and freedom, and yet the very Constitution of that new nation protected slavery as an institution.
@@ -39,8 +36,7 @@ Among these issues was the right to vote.
 The women’s suffrage movement pushed lawmakers to guarantee women's rights in the years following the Civil War, but those rights were not guaranteed until the 19th Amendment became law.
 The 19th Amendment was first introduced into Congress in 1878.
 It was finally ratified in 1920, 42 years later.
-Expanding Democracy
-The decades that followed transformed our nation in ways the founders probably could not even imagine.
+Expanding Democracy The decades that followed transformed our nation in ways the founders probably could not even imagine.
 Railroads, highways, and airports span the size of this country.
 The American financial markets and banking system came to dominate the global economy.
 America became a melting pot.
@@ -54,10 +50,9 @@ Roosevelt introduced the New Deal in 1933, establishing a new role for governmen
 This brought about significant structural changes, such as a massive expansion of the national parks, the United States as a direct employer of the unemployed, Social Security, and other protections and guarantees for the working class.
 Shortly thereafter, World War II broke out.
 In the decades that followed, the United States experienced a massive economic boom and continued to undergo a societal shift toward greater inclusion, sometimes at great cost.
-A More Inclusive Union
-America’s promise still remains unfinished.
+A More Inclusive Union America’s promise still remains unfinished.
 The Civil Rights Movement brought landmark decisions like Brown v.
-Board of Education.
+Board of Education .
 Congress passed the Voting Rights Act and the Americans with Disabilities Act.
 Despite missteps over time, the Civil Rights Movement proved that the United States lives up to its founding principles of Life, Liberty, and the pursuit of Happiness.
 During this same period, America showcased her capacity for cutting-edge innovation and greater leadership.
@@ -66,7 +61,8 @@ We have seen the size of the world shrink with the inventions of the internet an
 The United States has expanded globally with military bases across the world.
 And the latter half of the Twentieth Century brought criminal justice reform, voting rights reform, and increased respect for personal liberties.
 Modern America: What Would They Think?
-July 4, 2026, marks America’s semiquincentennial. 250 years of the American experiment.
+July 4, 2026, marks America’s semiquincentennial.
+250 years of the American experiment.
 I believe that we have drifted from our founding principles in recent history.
 The United States is embroiled in a culture war, even as the power of federal and state governments has expanded significantly.
 The government is actively moving to disenfranchise voters.
@@ -103,3 +99,7 @@ It’s not up to the Supreme Court or Congress to write this next American chapt
 It is written by millions of everyday Americans like you who choose to hold their leaders accountable and to do the work of building a more perfect union every day.
 Here’s to 250 years!
 Cheers to 250 more.
+Mitch Father, husband, U.S.
+Army veteran, OU Law graduate, and 4th-generation Oklahoman—committed to a better Oklahoma and upholding the Constitution. http://www.mitchelljacob.com Previous Previous The Cost of Their Priorities Next Next The Closing Argument Paid for by Mitchell Jacob for Congress Headquarters: 300 West Gray Street Norman, OK 73069 Tuesday - Friday 10:00 am - 2:00 pm Mailing: P.O.
+Box 1141 Newcastle, OK.
+73065-1141 (405) 407-6975 info@mitchelljacob.com Order Merchandise | Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy

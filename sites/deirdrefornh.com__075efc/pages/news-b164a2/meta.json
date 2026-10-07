@@ -1,8 +1,10 @@
 {
  "description": "Read campaign news, endorsements, letters and community updates from Deirdre McEachern, candidate for NH House District 6.",
  "final_url": "https://www.deirdrefornh.com/news",
+ "fingerprint": "1c4ffbb1ed73854d48f0233a89bf955b273dcb2e",
+ "format": 3,
  "paid_for_by": "Paid for by the Committee to Elect Deirdre McEachern, Carolyn Sundquist, Treasurer, PO Box 322, Wolfeboro, NH 03894",
- "title": "Campaign News | Deirdre McEachern for NH \u2014 Deirdre McEachern for NH House \u2013 Carroll County District 6",
+ "title": "Campaign News — Deirdre McEachern for NH House – Carroll County District 6",
  "years_mentioned": [
   "2026"
  ]

@@ -1,5 +1,4 @@
-Get to know John
-Chronological Experiences - John grew up in Ogden, Utah.
+0 Skip to Content Home Bio Issues Contact Donate Endorsements Calendar DONATE Open Menu Close Menu Home Bio Issues Contact Donate Endorsements Calendar DONATE Open Menu Close Menu Home Bio Issues Contact Donate Endorsements Calendar DONATE Get to know John Chronological Experiences - John grew up in Ogden, Utah.
 He was the oldest of six brothers and one sister.
 After serving a church mission in the Canary Islands in Spain, John went to basic combat soldier training at Ft.
 Leonard Wood, MO.
@@ -73,7 +72,7 @@ He is up for any challenge including wearing the Deranged Easter Bunny outfit fo
 John is known for being fearless and is always up for a good adventure.
 He is known for his work ethic and is always willing to volunteer.
 John believes we should enjoy all the ups and downs in life, that pain is gain, and that integrity and service are paramount attributes to develop.
-Contact us
-Interested in helping John or just speaking with John?
+Contact us Interested in helping John or just speaking with John?
 Fill out the form and he will be in touch shortly.
 He can’t wait to hear from you!
+JohnTaylor4Utah Made with Squarespace Contact johntaylor4utah@gmail.com 801-589-2178 Copyright # All Rights Reserved Paid for by Friends of John Taylor

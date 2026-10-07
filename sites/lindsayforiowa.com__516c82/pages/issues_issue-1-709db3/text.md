@@ -1,5 +1,4 @@
-Bring Down the Cost of Living for Working Iowans
-Housing: We must cut red tape and roll back tariffs on building materials so we can build millions of new homes.
+Skip navigation menu About Endorsements Issues News Volunteer Events Store Donate About Endorsements Issues News Volunteer Events Store Donate Bring Down the Cost of Living for Working Iowans A Healthcare System that Works for All End DC Corruption Keep Our Communities Safe Protect Our Education System Support Iowa Farmers Kids Over Clicks Stand With Veterans Bring Down the Cost of Living for Working Iowans Housing: We must cut red tape and roll back tariffs on building materials so we can build millions of new homes.
 This is a simple supply and demand issue in many cases and if we can build a variety of entry level housing, provide first time home buyers with down payment assistance, we can give the American dream of owning your own home to the next generation.
 Childcare: We should cap costs based on the percentage of family income which will lower costs for families and boost those available to join the workforce.
 Utilities: We have to unleash the American energy enterprise and fast track innovative new sources of energy to bring down utilities costs.
@@ -9,3 +8,4 @@ Long-term care: We should ensure that every person can age with dignity by makin
 Paid Medical & Family Leave: Congress must pass a comprehensive paid family and medical leave policy so everyone can take time off to care for themselves or a loved one without losing a paycheck or their job.
 Tax Fairness for Working Families: We must increase the child tax credit and make it fully refundable so it is fair for parents and the extra costs they have in raising the next generation.
 We need to finance these investments by ensuring the ultra wealthy and large corporations pay their fair share.
+For press inquiries please contact press@lindsayforiowa.com For other inquiries please contact info@lindsayforiowa.com P.O Box 144, Dubuque, IA 52004 Private Policy Powered by RUN! website builder Paid for by Lindsay for Iowa You need to enable JavaScript to run this app.

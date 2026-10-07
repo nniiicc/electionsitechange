@@ -1,17 +1,21 @@
-Congresswoman April McClain Delaney Endorsed By UFCW Local 1994 MCGEO
-GAITHERSBURG, MD – Today, UFCW Local 1994 MCGEO announced that it is formally endorsing Congresswoman April McClain Delaney for re-election.
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Toggle Mobile Menu Donate Now!
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer Press Releases Congresswoman April McClain Delaney Endorsed By UFCW Local 1994 MCGEO May 21, 2026 Congresswoman April McClain Delaney Endorsed By UFCW Local 1994 MCGEO GAITHERSBURG, MD – Today, UFCW Local 1994 MCGEO announced that it is formally endorsing Congresswoman April McClain Delaney for re-election.
 Representing a diverse cross-section of over 9,000 public and private sector working families across Maryland, the union voted to back Delaney, citing her steadfast dedication to protecting labor rights and championing working people.
 “UFCW Local 1994 and its more than 9,000 members are proud to endorse Congresswoman April McClain Delaney for re-election because of her tireless work to stand up for working families and against Donald Trump’s relentless attacks,” said Gino Renne, President of UFCW Local 1994 MCGEO and Vice President of UFCW International Union.
 “We are endorsing April because of her strong record fighting for working families.
-The contrast between the candidates is clear: while Congresswoman McClain Delaney has consistently supported workers’ rights and collective bargaining, David Trone opposed efforts by his own employees to organize with our union.”
-“I am deeply honored and incredibly grateful to receive the endorsement of UFCW Local 1994 MCGEO and its more than 9,000 dedicated members,” said Congresswoman McClain Delaney.
-“I will continue to be a fierce advocate for Workers in Congress, and I will continue to fight for my ‘Costs Down, Affordability Up’ agenda to deliver real, tangible economic relief for Maryland’s working families.”
-UFCW Local 1994 MCGEO represents thousands of municipal, county, and private sector employees, and this endorsement continues to build momentum heading into the June primary.
+The contrast between the candidates is clear: while Congresswoman McClain Delaney has consistently supported workers’ rights and collective bargaining, David Trone opposed efforts by his own employees to organize with our union.” “I am deeply honored and incredibly grateful to receive the endorsement of UFCW Local 1994 MCGEO and its more than 9,000 dedicated members,” said Congresswoman McClain Delaney.
+“I will continue to be a fierce advocate for Workers in Congress, and I will continue to fight for my ‘Costs Down, Affordability Up’ agenda to deliver real, tangible economic relief for Maryland’s working families.” UFCW Local 1994 MCGEO represents thousands of municipal, county, and private sector employees, and this endorsement continues to build momentum heading into the June primary.
 The endorsement also comes on the heels of a recent poll showing Congresswoman McClain Delaney with a 15% lead against her nearest competitor, billionaire and Republican mega-donor David Trone.
 McClain Delaney has also secured the endorsements of Governor Moore, Attorney General Brown, Lt.
 Governor Miller, Senators Van Hollen and Alsobrooks, the entire Maryland Democratic congressional delegation, and Montgomery County Executive Marc Elrich and Frederick County Executive Jan Gardner as well as local leaders and labor unions across the district.
-Her broad and growing coalition is a reflection of her tireless efforts to focus on the issues that matter most to families in Maryland’s Sixth District:
-- Holding the Trump Administration Accountable: Leading the fight against dangerous executive overreach and opposing illegal military actions.
-- Stopping the ICE Warehouse near Hagerstown: Standing with local communities to successfully block a proposed detention facility in the district.
-- Lowering Costs: Advancing her bold, progressive “Costs Down, Opportunity Up” affordability agenda to address the rising costs of housing, creating universal healthcare, with Medicare for All, and lowering costs of everyday essentials, while demanding that billionaires pay their fair share.
-###
+Her broad and growing coalition is a reflection of her tireless efforts to focus on the issues that matter most to families in Maryland’s Sixth District: Holding the Trump Administration Accountable: Leading the fight against dangerous executive overreach and opposing illegal military actions.
+Stopping the ICE Warehouse near Hagerstown: Standing with local communities to successfully block a proposed detention facility in the district.
+Lowering Costs: Advancing her bold, progressive “Costs Down, Opportunity Up” affordability agenda to address the rising costs of housing, creating universal healthcare, with Medicare for All, and lowering costs of everyday essentials, while demanding that billionaires pay their fair share.
+### Up Next New Poll: McClain Delaney Maintains Significant Lead Contribute Now Donate to the Campaign!
+We've launched our campaign and are looking for your support!
+Donate today to become a founding donor.
+Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Join Her Campaign!
+Meet April Endorsements Campaign News Get Involved April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Contact Us [email protected] Address April McClain Delaney for Congress PO Box 83940 Gaithersburg, MD 20883-83940 Accessibility Statement PAID FOR BY APRIL MCCLAIN DELANEY FOR CONGRESS Site made with ❤️ by Landslide Digital I'll never stop fighting for you.
+Donate now!
+Jump to Content Toggle High Contrast Toggle Font Size

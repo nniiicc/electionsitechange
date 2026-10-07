@@ -1,7 +1,11 @@
 {
  "description": "Explore upcoming events and stay informed with Gerald's Assembly calendar. Connect and support local initiatives today.",
  "final_url": "https://www.geraldforassembly.com/calendar",
+ "fingerprint": "666cfe323683598f7e6c10c1d34e784d5dc25b94",
+ "format": 3,
  "paid_for_by": "Paid for by Boursiquot for Assembly 2026 FPPC ID #1480091 Please mail all correspondence to P",
- "title": "Calendar | Stay Informed, Get Involved Now \u2014 geraldforassembly",
- "years_mentioned": []
+ "title": "Calendar | Stay Informed, Get Involved Now — geraldforassembly",
+ "years_mentioned": [
+  "2026"
+ ]
 }

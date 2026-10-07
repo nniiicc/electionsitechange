@@ -1,10 +1,2 @@
-Friends of Michaela Kelso
-PO Box 9958 Spokane, WA, 99209
-info@kelso4wa.com +1 (509) 609-4155
-Paid for by: Friends of Michaela Kelso, PO Box 9958, Spokane, WA 99209
-Home
-About
-Issues
-Contact
-Donate
-Privacy Policy
+Home About News Endorsements Issues Donate Contact Privacy policy Donate Home About News Endorsements Issues Donate Contact Privacy policy Donate Michaela Kelso is proud to have received the following endorsements: Organizational Endorsements Individual Endorsements Add your Name!
+Name* Email* Message* Submit Address: Friends of Michaela Kelso PO Box 9958 Spokane, WA, 99209 info@kelso4wa.com +1 (509) 609-4155 Email address* Your Name Join the List Paid for by: Friends of Michaela Kelso, PO Box 9958, Spokane, WA 99209 Navigation: Home About Issues Contact Donate Privacy Policy Stay in touch with the campaign

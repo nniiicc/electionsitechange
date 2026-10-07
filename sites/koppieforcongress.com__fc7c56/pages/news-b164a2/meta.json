@@ -1,9 +1,14 @@
 {
  "description": "Interviews and TV ads",
  "final_url": "https://www.koppieforcongress.com/news",
- "paid_for_by": null,
+ "fingerprint": "07f0123ccd3492f3b4861735460a74d2b3f73444",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": [
+  "1973",
+  "1992",
+  "2022",
   "2023",
   "2024"
  ]

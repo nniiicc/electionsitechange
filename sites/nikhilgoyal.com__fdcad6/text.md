@@ -1,9 +1,7 @@
-BACKED BY ALL FOUR UNIONS THAT HAVE ENDORSED IN THIS RACE
-A proud resident of Burlington, Nikhil has taught sociology at the University of Vermont, served as a senior policy advisor on education and children on the U.S.
+Skip navigation menu Home Meet Nikhil Issues Endorsements Volunteer Events Contact Donate Sociology professor, educator, policymaKER I'm running for Vermont State Senate in Chittenden-Central to make sure no Vermonter is priced out.
+Sign up for updates First Name First Name Email Email Phone Phone ZIP Code ZIP Code Submit Home Meet Nikhil Issues Endorsements Volunteer Events Contact Donate Sociology professor, educator, policymaKER I'm running for Vermont State Senate in Chittenden-Central to make sure no Vermonter is priced out.
+Sign up for updates First Name First Name Email Email Phone Phone ZIP Code ZIP Code Submit BACKED BY ALL FOUR UNIONS THAT HAVE ENDORSED IN THIS RACE A proud resident of Burlington, Nikhil has taught sociology at the University of Vermont, served as a senior policy advisor on education and children on the U.S.
 Senate Budget Committee under Chairman Senator Bernie Sanders, and was elected to represent Vermont as a delegate for Kamala Harris to the Democratic National Convention.
 He graduated with a BA from Goddard College and a MPhil and a PhD from the University of Cambridge.
-Endorsed by:
-Vermont State Employees Association
-Vermont-NEA
-Committee of Interns and Residents/SEIU Healthcare
-Vermont AFL-CIO
+Endorsed by: Vermont State Employees Association Vermont-NEA Committee of Interns and Residents/SEIU Healthcare Vermont AFL-CIO Learn more Read below for some of our top priorities Protect Public Education and Tackle Cost Drivers of Rising Property Taxes Establish Universal Primary Care Build Affordable Housing and Fix Up Vacant, Dilapidated Housing Impose a Moratorium on AI Data Centers and Ban Social Media for Kids under 16 Protect our Neighbors from ICE No Corporate PAC $.
+100% People Powered. $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Nikhil Goyal "has a command of the history of federal, state and local education laws and social programs." August 2023 Endorsements Doug Racine Former Lieutenant governor Mary Sullivan Former state representative Wilmer Chavarria resident of williston Don Hooper former secretary of state and state representative Gayle Pezzo state representative Kate McCann state representative Bob Stannard former state representative Bill McKibben environmentalist Ben Cohen and Jerry Greenfield Co-founders of ben & jerry's Megan Humphrey social worker, artist, resident of burlington Email: info@nikhilgoyal.com If donating by mail, make checks payable to: Nikhil Goyal for Vermont | PO BOX 164 Burlington, VT 05402 Powered by RUN! website builder Paid for by Nikhil Goyal for Vermont You need to enable JavaScript to run this app.

@@ -1,5 +1,18 @@
 [
-"https://oleary4congress.com/",
-"https://oleary4congress.com/districtmap",
-"https://secure.anedot.com/micheal-o-leary-for-congress-tn05/donate"
+{
+"text": "District Map",
+"href": "https://oleary4congress.com/districtmap"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/micheal-o-leary-for-congress-tn05/donate"
+},
+{
+"text": "Join Micheál!",
+"href": "https://oleary4congress.com/#join"
+},
+{
+"text": "O[image]LEARY for Congress",
+"href": "https://oleary4congress.com/"
+}
 ]

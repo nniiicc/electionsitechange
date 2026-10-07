@@ -1,14 +1,3 @@
-top of page
-In the press
-In the press
-Partisan gerrymandering must be replaced by independent commissions composed of citizens, not lawmakers.
-Elections should belong to the people - not to whichever party controls the statehouse.
-- Steve Woll
-In the press
-Elections should belong to the people - not to whichever party controls the statehouse.
-- Steve Woll
-From The Blog
-Posts Coming Soon
-Explore other categories in this blog or check back later.
-Follow Along @stevewollva
-bottom of page
+top of page Donate Now ABOUT Issues Press Get Involved Menu Close ABOUT Issues Press Get Involved DONATE ABOUT Issues Press Get Involved Menu Close DONATE In the press In the press Partisan gerrymandering must be replaced by independent commissions composed of citizens, not lawmakers.
+Elections should belong to the people - not to whichever party controls the statehouse. - Steve Woll In the press Elections should belong to the people - not to whichever party controls the statehouse. - Steve Woll From The Blog Posts Coming Soon Explore other categories in this blog or check back later.
+Follow Along @stevewollva ​ ​ Load more ABOUT Issues Press Get Involved ABOUT Issues Press Get Involved Menu Close DONATE ABOUT Issues Press Get Involved STAY UPDATED - SIGN UP FOR OUR OFFICIAL CAMPAIGN NEWSLETTER Email * Yes, subscribe me to your newsletter. * SUBMIT Paid for by Steve Woll For Congress USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY Terms & Conditions | Privacy Policy | Accessibility Statement ABOUT Issues Press Get Involved bottom of page

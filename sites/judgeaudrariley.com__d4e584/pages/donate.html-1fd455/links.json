@@ -1,15 +1,70 @@
 [
-"https://dallascountyvotes.org/15353-2",
-"https://dallascountyvotes.org/absentee-voting",
-"https://dallascountyvotes.org/early-voting-information",
-"https://dallascountyvotes.org/election-day-information",
-"https://dallascountyvotes.org/election-day-voting/what-do-i-need-in-order-to-vote",
-"https://dallascountyvotes.org/voter-information/register-to-vote",
-"https://ethics.state.tx.us/data/resources/judicial/JudicialDistrictPopulations.pdf",
-"https://facebook.com/judgeaudrariley",
-"https://instagram.com/judgeaudrariley",
-"https://judgeaudrariley.com/donate.html",
-"https://judgeaudrariley.com/index.html",
-"https://ramwebdesign.com/",
-"https://votetexas.gov/faq"
+{
+"text": "DONATE NOW",
+"href": "https://www.judgeaudrariley.com/donate.html"
+},
+{
+"text": "Early Voting Locations",
+"href": "https://www.dallascountyvotes.org/early-voting-information/"
+},
+{
+"text": "Election Day Locations",
+"href": "https://www.dallascountyvotes.org/election-day-information/"
+},
+{
+"text": "Home",
+"href": "https://www.judgeaudrariley.com/index.html"
+},
+{
+"text": "RamWeb Design",
+"href": "https://www.ramwebdesign.com/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.dallascountyvotes.org/voter-information/register-to-vote/"
+},
+{
+"text": "Request Mail Ballot",
+"href": "https://www.dallascountyvotes.org/absentee-voting/"
+},
+{
+"text": "State of Texas Voter FAQs",
+"href": "https://www.votetexas.gov/faq/"
+},
+{
+"text": "Texas Voter FAQs",
+"href": "https://www.votetexas.gov/faq/"
+},
+{
+"text": "Track Your Mail Ballot",
+"href": "https://www.dallascountyvotes.org/15353-2/"
+},
+{
+"text": "Vote by Mail",
+"href": "https://www.dallascountyvotes.org/absentee-voting/"
+},
+{
+"text": "Voter ID Requirements",
+"href": "https://www.dallascountyvotes.org/election-day-voting/what-do-i-need-in-order-to-vote/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/judgeaudrariley/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/judgeaudrariley/"
+},
+{
+"text": "[image]",
+"href": "https://www.judgeaudrariley.com/index.html"
+},
+{
+"text": "[image]",
+"href": "mailto:info@judgeaudrariley.com"
+},
+{
+"text": "population of the judicial district",
+"href": "https://www.ethics.state.tx.us/data/resources/judicial/JudicialDistrictPopulations.pdf"
+}
 ]

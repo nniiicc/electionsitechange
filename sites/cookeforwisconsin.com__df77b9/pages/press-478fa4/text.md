@@ -1,40 +1,6 @@
-Local + National Press
-The Bulwark
-Bernie Dogs Could Teach Democrats a New Trick
-September 13, 2026
-The Associated Press
-Trump ally in Wisconsin sticks close to the president as Democrats push to flip swing district
-September 12, 2026
-WEAU
-Cooke and Baldwin talk tariffs and rising costs in La Crosse roundtable
-September 9, 2026
-WXOW
-Rebecca Cooke and Sen.
-Tammy Baldwin talk to small businesses in La Crosse
-September 9, 2026
-WIZM
-Sen.
-Tammy Baldwin, Rebecca Cooke campaign in La Crosse, host roundtable discussion
-September 9, 2026
-WEAU
-AI posts of candidates raise concerns about misinformation on social media
-September 7, 2026
-UpNorthNews
-Van Orden is attacking me because he can’t defend his failure to fix America’s affordability crisis
-September 7, 2026
-UpNorthNews
-Cooke roasts Van Orden for dining with Trump and MAGA donors at the White House Rose Garden
-September 3, 2026
-93.5 The Tap
-Senator Baldwin Campaigns with Rebecca Cooke in Eau Claire
-August 28, 2026
-WisPolitics
-Cooke launches second ad calling for data center moratorium
-August 28, 2026
-WEAU
-Rebecca Cooke rallied volunteers with Sen.
-Tammy Baldwin in Eau Claire
-August 27, 2026
-WQOQ
-Tammy Baldwin visits Eau Claire to campaign with Rebecca Cooke
-August 27, 2026
+About Rebecca Meet Rebecca Priorities Endorsements Press Join the Movement Join a Coalition Volunteer Get a Yard Sign Buy Merch Contact Connect With the Campaign Media Toolkit Donate About Rebecca Meet Rebecca Priorities Endorsements Press Join the Movement Join a Coalition Volunteer Get a Yard Sign Buy Merch Contact Connect With the Campaign Media Toolkit Donate The Latest Press Local + National Press The Bulwark Bernie Dogs Could Teach Democrats a New Trick September 13, 2026 Read More The Associated Press Trump ally in Wisconsin sticks close to the president as Democrats push to flip swing district September 12, 2026 Read More WEAU Cooke and Baldwin talk tariffs and rising costs in La Crosse roundtable September 9, 2026 Read More WXOW Rebecca Cooke and Sen.
+Tammy Baldwin talk to small businesses in La Crosse September 9, 2026 Read More WIZM Sen.
+Tammy Baldwin, Rebecca Cooke campaign in La Crosse, host roundtable discussion September 9, 2026 Read More WEAU AI posts of candidates raise concerns about misinformation on social media September 7, 2026 Read More UpNorthNews Van Orden is attacking me because he can’t defend his failure to fix America’s affordability crisis September 7, 2026 Read More UpNorthNews Cooke roasts Van Orden for dining with Trump and MAGA donors at the White House Rose Garden September 3, 2026 Read More 93.5 The Tap Senator Baldwin Campaigns with Rebecca Cooke in Eau Claire August 28, 2026 Read More WisPolitics Cooke launches second ad calling for data center moratorium August 28, 2026 Read More WEAU Rebecca Cooke rallied volunteers with Sen.
+Tammy Baldwin in Eau Claire August 27, 2026 Read More WQOQ Tammy Baldwin visits Eau Claire to campaign with Rebecca Cooke August 27, 2026 Read More 1 2 3 Next Our campaign is 100% people powered.
+Join us to keep building the movement.
+Media Toolkit Privacy Policy PO Box 1846, Eau Claire, WI 54702 Paid for by Cooke for Congress Branding and photography by Knorth Studios Website design and development by Andrew Tarcon

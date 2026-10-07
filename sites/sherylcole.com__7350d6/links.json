@@ -1,11 +1,50 @@
 [
-"http://facebook.com/SherylforTexas",
-"https://donateway.com/donate/ntpu963w/donate-to-rep-sheryl-cole/payment",
-"https://instagram.com/sherylfortexas?hl=en",
-"https://mailchi.mp/sherylcole/signup",
-"https://sherylcole.com/",
-"https://sherylcole.com/about-sheryl",
-"https://sherylcole.com/issues",
-"https://sherylcole.com/supporters",
-"https://twitter.com/sherylcole1"
+{
+"text": "About Sheryl",
+"href": "https://www.sherylcole.com/about-sheryl"
+},
+{
+"text": "DONATE",
+"href": "https://donateway.com/donate/ntpu963w/donate-to-rep-sheryl-cole/payment"
+},
+{
+"text": "Issues",
+"href": "https://www.sherylcole.com/issues"
+},
+{
+"text": "Read more",
+"href": "https://www.sherylcole.com/about-sheryl"
+},
+{
+"text": "Sign Up",
+"href": "https://mailchi.mp/sherylcole/signup"
+},
+{
+"text": "Supporters",
+"href": "https://www.sherylcole.com/supporters"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/sherylfortexas/?hl=en"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "http://www.facebook.com/SherylforTexas%20"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/sherylcole1"
+},
+{
+"text": "[image]",
+"href": "https://www.sherylcole.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.sherylcole.com#about"
+},
+{
+"text": "district46.cole@house.texas.gov",
+"href": "mailto:district46.cole@house.texas.gov"
+}
 ]

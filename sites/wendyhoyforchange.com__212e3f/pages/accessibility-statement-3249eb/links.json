@@ -1,15 +1,62 @@
 [
-"http://facebook.com/wendyhoyforchange",
-"https://heyvictor.com/",
-"https://instagram.com/wendyhoyforchange/%20",
-"https://secure.actblue.com/donate/wendyhoy",
-"https://wendyhoyforchange.com/",
-"https://wendyhoyforchange.com/accessibility-statement",
-"https://wendyhoyforchange.com/endorsements",
-"https://wendyhoyforchange.com/events",
-"https://wendyhoyforchange.com/issues",
-"https://wendyhoyforchange.com/meet-candidate",
-"https://wendyhoyforchange.com/news",
-"https://wendyhoyforchange.com/volunteer",
-"https://wendyhoyforchange.com/voting-information"
+{
+"text": "Accessibility Statement",
+"href": "https://wendyhoyforchange.com/accessibility-statement/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/wendyhoy?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://wendyhoyforchange.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://wendyhoyforchange.com/events/"
+},
+{
+"text": "Home",
+"href": "https://wendyhoyforchange.com/"
+},
+{
+"text": "Issues",
+"href": "https://wendyhoyforchange.com/issues/"
+},
+{
+"text": "Meet Candidate",
+"href": "https://wendyhoyforchange.com/meet-candidate/"
+},
+{
+"text": "News",
+"href": "https://wendyhoyforchange.com/news/"
+},
+{
+"text": "Volunteer",
+"href": "https://wendyhoyforchange.com/volunteer/"
+},
+{
+"text": "Voting Information",
+"href": "https://wendyhoyforchange.com/voting-information/"
+},
+{
+"text": "[image] [image]",
+"href": "https://wendyhoyforchange.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "http://facebook.com/wendyhoyforchange"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/wendyhoyforchange/%20"
+},
+{
+"text": "https://wendyhoyforchange.com",
+"href": "https://wendyhoyforchange.com"
+}
 ]

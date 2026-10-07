@@ -1,12 +1,1 @@
-May 15, 2026
-Read More
-March 2, 2026
-Read More
-February 25, 2026
-Read More
-February 23, 2026
-Read More
-January 19, 2026
-Read More
-January 16, 2026
-Read More
+Home Meet Jack Issues News Get in touch Contact Take Action Donate News May 15, 2026 Johnson Discusses Music City Loop as Tunneling Advances in Nashville Read More March 2, 2026 Senate Passes Johnson Bill to Strengthen Tennessee Disaster Response Read More February 25, 2026 Johnson Sponsors Legislation Establishing Framework for Underground Transportation Projects Read More February 23, 2026 Johnson Reports More Than $1 Million Cash on Hand Entering 2026 Election Year Read More January 19, 2026 Johnson Highlights Immigration Enforcement Efforts in Tennessee Read More January 16, 2026 Johnson and Legislative Leaders Unveil Tennessee Immigration Package Read More Paid for by Johnson for State Senate, Tommy Nelms, Treasurer Follow Privacy Policy & Terms & Conditions Press Kit

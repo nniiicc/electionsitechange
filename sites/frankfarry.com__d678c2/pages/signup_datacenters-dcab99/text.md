@@ -1,3 +1,2 @@
-Sign the petition below to support Frank Farry putting our Community First!
-I stand with Senator Frank Farry as he is holding data centers accountable through commonsense regulations.
-"*" indicates required fields
+Home Meet Frank Issues Volunteer Sign Petition Donate Sign the petition below to support Frank Farry putting our Community First!
+I stand with Senator Frank Farry as he is holding data centers accountable through commonsense regulations. " * " indicates required fields First Name * Last Name * Email Address * Zip Code * Opt-In Sign Up For Emails From Frank Farry Submit Paid for by Friends of Frank Farry Privacy Policy | Terms & Conditions

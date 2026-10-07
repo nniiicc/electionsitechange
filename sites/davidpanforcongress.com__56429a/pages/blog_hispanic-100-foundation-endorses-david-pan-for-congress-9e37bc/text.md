@@ -1,7 +1,5 @@
-Hispanic 100 foundation Endorses David Pan for Congress in 2024
-I am excited to share the news that the Hispanic 100 Foundation has endorsed my campaign for Congress against an embedded opponent in California’s majority-Hispanic 46th district, covering Santa Ana, Anaheim, Stanton, Fullerton, and Orange.
-Mario Rodriguez, Chairman of Hispanic 100, stated that “David Pan promotes equal opportunity, school choice, and strong law enforcement, all of which resonate with the Hispanic population, who are committed to hard work and education as the way to create opportunities for our youth.”
-I am extremely grateful to Mario Rodriguez and Hispanic 100 for this endorsement.
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate Hispanic 100 foundation Endorses David Pan for Congress in 2024 Oct 23 Written By David Pan I am excited to share the news that the Hispanic 100 Foundation has endorsed my campaign for Congress against an embedded opponent in California’s majority-Hispanic 46th district, covering Santa Ana, Anaheim, Stanton, Fullerton, and Orange.
+Mario Rodriguez, Chairman of Hispanic 100, stated that “David Pan promotes equal opportunity, school choice, and strong law enforcement, all of which resonate with the Hispanic population, who are committed to hard work and education as the way to create opportunities for our youth.” I am extremely grateful to Mario Rodriguez and Hispanic 100 for this endorsement.
 They have been pioneers in developing mentoring and scholarship programs to help Hispanic youth, and they are committed to making sure that the Hispanic community can thrive.
 Though Hispanics have traditionally voted Democrat, our surveys indicate that there will be a major Hispanic shift toward the Republican party in this district.
 They value public safety and want to see our laws enforced.
@@ -13,4 +11,9 @@ My parents immigrated from Taiwan, and I understand the perspective of recent im
 My volunteers and I have spoken to thousands of Hispanic voters, and they agree that hard work and equal educational opportunity are the best ways to guarantee a prosperous future for the Hispanic community.
 I am committed to transforming our system to orient it around these values.
 Please support my campaign by telling your family and friends to vote for me.
-You can also find more information and donate at DavidPanforCongress.com
+You can also find more information and donate at DavidPanforCongress.com David Pan Previous Previous Changing our system one step at a time Next Next Serious solutions to serious problems Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

@@ -1,5 +1,4 @@
-Dear Neighbor,
-It’s been an honor to represent you in the NM State House serving District 36.
+0 Skip to Content ABOUT NATHAN THE DISTRICT VOTING GET INVOLVED CONTACT CONTRIBUTE Open Menu Close Menu ABOUT NATHAN THE DISTRICT VOTING GET INVOLVED CONTACT CONTRIBUTE Open Menu Close Menu ABOUT NATHAN THE DISTRICT VOTING GET INVOLVED CONTACT CONTRIBUTE Dear Neighbor, It’s been an honor to represent you in the NM State House serving District 36.
 I am running for re-election because I love our community.
 I want to work with each and every one of you to continue bringing more jobs to our district, conserving our natural resources, and investing in our future together.
 I understand hard work and am excited to continue working for you.
@@ -13,7 +12,9 @@ By day I work as a Field Representative with the New Mexico Wilderness Alliance,
 As Chair of the House Budget Committee, I’m focused on making our state budget work for families, and making sure it reflects the values of working families here.
 Working together, we can make now the best time ever to be a New Mexican.
 I’d love to hear what’s on your mind.
-You can always reach me at (575) 496-9540 or NathanPSmall36@gmail.com.
+You can always reach me at (575) 496-9540 or NathanPSmall36@gmail.com .
 I’m excited to connect with you and your family and I’d be honored to have your support for my re-election.
 Let’s keep working together!
-Nathan
+Nathan CONTRIBUTE Copyright #.
+Paid For By Nathan Small For State House, Andres Corral Treasurer.
+Website Design | BGC

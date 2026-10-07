@@ -1,10 +1,38 @@
 [
-"http://justinforohio.com/contact",
-"https://facebook.com//justinpizzulliforstaterep",
-"https://justinforohio.com/",
-"https://justinforohio.com/about",
-"https://justinforohio.com/contact",
-"https://justinforohio.com/legislative-wins",
-"https://ohiohouse.gov/members/justin-pizzulli/newsletter-sign-up",
-"https://secure.winred.com/friends-of-justin-pizzulli/donate-today?exitintent=true&money_bomb=false&recurring=false&sc=winred-directory"
+{
+"text": "About",
+"href": "https://justinforohio.com/about/"
+},
+{
+"text": "Contact",
+"href": "http://justinforohio.com/contact/"
+},
+{
+"text": "Contact",
+"href": "https://justinforohio.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-justin-pizzulli/donate-today?exitintent=true&money_bomb=false&recurring=false&sc=winred-directory"
+},
+{
+"text": "Home",
+"href": "https://justinforohio.com/"
+},
+{
+"text": "Legislative Wins",
+"href": "https://justinforohio.com/legislative-wins/"
+},
+{
+"text": "Newsletter Sign Up",
+"href": "https://ohiohouse.gov/members/justin-pizzulli/newsletter-sign-up%0D%0A"
+},
+{
+"text": "[image: Justin For Ohio]",
+"href": "https://justinforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com//justinpizzulliforstaterep/"
+}
 ]

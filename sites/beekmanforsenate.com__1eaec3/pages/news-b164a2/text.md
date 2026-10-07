@@ -1,14 +1,2 @@
-In the News
-Campaign News
-WQAD News 8 · Video
-Retired Illinois police officer launches campaign for Illinois Senate seat
-August 2025
-WRMJ · Ty Taylor
-Republican Enters Illinois 36th District State Senate Race
-August 20, 2025
-97.7 WMOI
-Brad Beekman Announces Campaign for Illinois State Senate District 36
-August 20, 2025
-WGIL · Jay Redfern
-Retired State Police officer Brad Beekman launches bid for Illinois 36th State Senate district
-August 20, 2025
+Skip to content General Election · Tuesday, November 3 Make your plan to vote → About Brad News Volunteer Yard Sign Donate In the News Campaign News WQAD News 8 · Video Retired Illinois police officer launches campaign for Illinois Senate seat August 2025 WRMJ · Ty Taylor Republican Enters Illinois 36th District State Senate Race August 20, 2025 97.7 WMOI Brad Beekman Announces Campaign for Illinois State Senate District 36 August 20, 2025 WGIL · Jay Redfern Retired State Police officer Brad Beekman launches bid for Illinois 36th State Senate district August 20, 2025 Sign up for campaign updates News, events, and what's next on the road to November 3.
+Email address Sign up About Brad News Volunteer Request a Yard Sign Donate Paid for by Beekman for Senate A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website ( www.elections.il.gov ) or for purchase from the State Board of Elections, Springfield, Illinois.

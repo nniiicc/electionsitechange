@@ -1,17 +1,66 @@
 [
-"https://bsky.app/profile/maxforarkansas.bsky.social",
-"https://facebook.com/MaxforArkansas",
-"https://goodchange.app/donate/max-f-2d",
-"https://instagram.com/maxforar",
-"https://iwillvote.com/",
-"https://maxforarkansas.com/",
-"https://maxforarkansas.com/cart",
-"https://maxforarkansas.com/contact",
-"https://maxforarkansas.com/elections",
-"https://maxforarkansas.com/events",
-"https://maxforarkansas.com/get-involved",
-"https://maxforarkansas.com/map-of-district-20",
-"https://maxforarkansas.com/meet",
-"https://maxforarkansas.com/volunteer",
-"https://tiktok.com/@maxforarkansas"
+{
+"text": "0",
+"href": "https://www.maxforarkansas.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.maxforarkansas.com/meet"
+},
+{
+"text": "Back",
+"href": "https://www.maxforarkansas.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.maxforarkansas.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://goodchange.app/donate/max-f-2d"
+},
+{
+"text": "Events",
+"href": "https://www.maxforarkansas.com/events"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.maxforarkansas.com/get-involved"
+},
+{
+"text": "Map of District 20",
+"href": "https://www.maxforarkansas.com/map-of-district-20"
+},
+{
+"text": "Max's Election Work",
+"href": "https://www.maxforarkansas.com/elections"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.iwillvote.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.maxforarkansas.com/volunteer"
+},
+{
+"text": "[image: Max for Arkansas]",
+"href": "https://www.maxforarkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/maxforarkansas.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MaxforArkansas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maxforar/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@maxforarkansas"
+}
 ]

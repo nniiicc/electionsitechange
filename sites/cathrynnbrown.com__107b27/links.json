@@ -1,7 +1,26 @@
 [
-"https://cathrynnbrown.com/",
-"https://cathrynnbrown.com/?page_id=18",
-"https://cathrynnbrown.com/?page_id=45",
-"https://cathrynnbrown.com/?page_id=78",
-"https://dev.cathrynnbrown.com/"
+{
+"text": "About Cathrynn",
+"href": "https://cathrynnbrown.com/?page_id=45"
+},
+{
+"text": "Contact",
+"href": "https://cathrynnbrown.com/?page_id=18"
+},
+{
+"text": "Contact Cathrynn",
+"href": "https://cathrynnbrown.com/?page_id=18"
+},
+{
+"text": "Home",
+"href": "https://cathrynnbrown.com/"
+},
+{
+"text": "Resources",
+"href": "https://cathrynnbrown.com/?page_id=78"
+},
+{
+"text": "[image: CNBrown]",
+"href": "https://dev.cathrynnbrown.com/"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Spokane Area Fires and an update on the Primary election.",
  "final_url": "https://www.juliaforoffice.com/post/spokane-area-fires",
+ "fingerprint": "d41ea4997c06876510d2f8b77a74adfe3df2f3c3",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Julia, PO Box 9056, Spokane, WA 99209 bottom of page",
  "title": "Spokane Area Fires",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

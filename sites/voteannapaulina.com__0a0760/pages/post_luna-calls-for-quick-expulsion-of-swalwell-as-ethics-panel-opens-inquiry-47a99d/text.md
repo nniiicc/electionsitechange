@@ -1,5 +1,5 @@
-Luna Calls for Quick Expulsion of Swalwell as Ethics Panel Opens Inquiry
-Representative Anna Paulina Luna, Republican of Florida, said she wanted votes as early as Wednesday on expelling Representatives Eric Swalwell and Tony Gonzales over sexual misconduct accusations.
+top of page MEET ANNA WORKING FOR YOU NEWS ENDORSEMENTS MEDIA PHOTOS CONTACT More Use tab to navigate through the menu items.
+Luna Calls for Quick Expulsion of Swalwell as Ethics Panel Opens Inquiry Anna Paulina Luna Sep 24 2 min read Representative Anna Paulina Luna, Republican of Florida, said she wanted votes as early as Wednesday on expelling Representatives Eric Swalwell and Tony Gonzales over sexual misconduct accusations.
 The men, Representatives Eric Swalwell, Democrat of California, and Tony Gonzales, Republican of Texas, are both expected to face motions to remove them from office this week.
 Mr.
 Swalwell suspended his campaign for California governor" on Sunday after news reports last week about accusations of sexual assault of a former staff member and sexual misconduct with other women.
@@ -19,3 +19,7 @@ Swalwell.
 The committee had already been investigating Mr.
 Gonzales when the second accusation against him surfaced.
 The post appeared first on The New York Times.
+Recent Posts See All Florida Politics: ‘Root it out’: Anna Paulina Luna makes pitch for insider trading ban in speech to RNC Bay News 9: 11-year beach renourishment standoff ends with Army Corps, Pinellas County agreement Yahoo News: House Passes Rep.
+Anna Paulina Luna’s Amendment to Remove Pesticide Liability Protections in Farm Bill DONATE MEET ANNA WORKING FOR YOU NEWS ENDORSEMENTS MEDIA PHOTOS CONTACT More Use tab to navigate through the menu items.
+Anna Paulina Luna for Congress 1201 Gandy Boulevard North PO Box 23064 St.
+Petersburg, FL 33742 PRIVACY POLICY PAID FOR BY ANNA PAULINA LUNA FOR CONGRESS bottom of page

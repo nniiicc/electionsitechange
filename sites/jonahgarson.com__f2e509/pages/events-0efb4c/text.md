@@ -1,14 +1,1 @@
-top of page
-HOME
-THE NEWS
-EVENTS
-ABOUT ME
-ENDORSEMENTS
-ON THE ISSUES
-CONTACT
-DONATE
-Community Events
-10/11, 5 - 7 PM: Caswell County Monthly Meal: Blanch Edition
-10/17, 5 - 7 PM: Person County Monthly Meal: Hurdle Mills Edition
-10/18, 5 - 7 PM: Orange County Monthly Meal: Chapel Hill Edition
-bottom of page
+top of page HOME THE NEWS EVENTS ABOUT ME ENDORSEMENTS ON THE ISSUES CONTACT DONATE Community Events 10/11, 5 - 7 PM: Caswell County Monthly Meal: Blanch Edition 10/17, 5 - 7 PM: Person County Monthly Meal: Hurdle Mills Edition 10/18, 5 - 7 PM: Orange County Monthly Meal: Chapel Hill Edition CONNECT ​ ​ Paid for by Jonah Garson for NC Check Address: PO Box 1017, Chapel Hill, NC 27514 ​ Email: Jonah@jonahgarson.com Socials: @jonahgarsonnc bottom of page

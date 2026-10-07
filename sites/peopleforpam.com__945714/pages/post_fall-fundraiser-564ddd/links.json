@@ -1,12 +1,66 @@
 [
-"http://bit.ly/pfp-fa22",
-"http://facebook.com/peopleforpam",
-"http://instagram.com/peopleforpam",
-"http://twitter.com/peopleforpam",
-"https://peopleforpam.com/",
-"https://peopleforpam.com/post/spring-fundraiser",
-"https://peopleforpam.com/profile/peopleforpam/profile",
-"https://peopleforpam.com/updates",
-"https://peopleforpam.com/updates/categories/events",
-"https://secure.ngpvan.com/J2HnydsxCUyeV4LuDRAouw2"
+{
+"text": "All Posts",
+"href": "https://www.peopleforpam.com/updates"
+},
+{
+"text": "Contact",
+"href": "mailto:pam@peopleforpam.com?subject=Hi+Pam%21+I%27m+contacting+you+from+your+website."
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/J2HnydsxCUyeV4LuDRAouw2"
+},
+{
+"text": "Events",
+"href": "https://www.peopleforpam.com/updates/categories/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.peopleforpam.com"
+},
+{
+"text": "Home",
+"href": "https://www.peopleforpam.com"
+},
+{
+"text": "Meet Pam",
+"href": "https://www.peopleforpam.com"
+},
+{
+"text": "Pam Lanman Guzzone",
+"href": "https://www.peopleforpam.com/profile/peopleforpam/profile"
+},
+{
+"text": "Priorities",
+"href": "https://www.peopleforpam.com"
+},
+{
+"text": "Purchase Tickets",
+"href": "http://bit.ly/pfp-fa22"
+},
+{
+"text": "See All",
+"href": "https://www.peopleforpam.com/updates"
+},
+{
+"text": "Spring Fundraiser",
+"href": "https://www.peopleforpam.com/post/spring-fundraiser"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/peopleforpam"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/peopleforpam"
+},
+{
+"text": "[image: Spring Fundraiser]",
+"href": "https://www.peopleforpam.com/post/spring-fundraiser"
+},
+{
+"text": "[image: Twitter]",
+"href": "http://twitter.com/peopleforpam"
+}
 ]

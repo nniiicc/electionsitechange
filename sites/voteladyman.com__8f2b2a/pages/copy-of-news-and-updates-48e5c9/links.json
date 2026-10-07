@@ -1,7 +1,26 @@
 [
-"https://facebook.com/repjackladyman",
-"https://voteladyman.com/",
-"https://voteladyman.com/contact",
-"https://voteladyman.com/copy-of-news-and-updates",
-"https://voteladyman.com/news"
+{
+"text": "Contact",
+"href": "https://www.voteladyman.com/contact"
+},
+{
+"text": "Events",
+"href": "https://www.voteladyman.com/copy-of-news-and-updates"
+},
+{
+"text": "Home",
+"href": "https://www.voteladyman.com"
+},
+{
+"text": "News and Updates",
+"href": "https://www.voteladyman.com/news"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/repjackladyman"
+},
+{
+"text": "[image: Ladyman Headshot_edited.png]",
+"href": "https://www.voteladyman.com"
+}
 ]

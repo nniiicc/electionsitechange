@@ -1,4 +1,7 @@
-Fighting for working Vermonters, putting families first
-Meet Kesha
-I’m running for re-election to Vermont’s State Senate to fight for working families, our democracy, and our climate.
+Skip to content Kesha Ram Meet Kesha Issues News Endorsements Volunteer Donate Volunteer Donate Fighting for working Vermonters, putting families first Play video Close Meet Kesha I’m running for re-election to Vermont’s State Senate to fight for working families, our democracy, and our climate.
 Now is the time to dream and deliver, to advance a bold vision for our multicultural democracy while building a responsive government that meets the everyday needs of Vermonters.
+Learn More About Kesha → Read the latest news from Kesha NBC 5 State Sens.
+Chittenden, Lyons and Ram Hinsdale announce reelection campaigns Learn More → NBC 5 NBC5 In-Depth: On Mother's Day, Vermont Sen.
+Kesha Ram Hinsdale champions affordability Learn More → Vermont Daily Chronicle Ram Hinsdale: Where 100% of Vermonters agree Learn More → Kesha on the issues.
+Housing as a Human Right Investing in Our Rural Communities Tackling the Climate Crisis Protecting Our Democracy Medicare for All Supporting Small Businesses See all issues → Chip in Help send Vermont’s fighter back to the State Senate.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $#.# $# $# $# $# Other Volunteer Donate Privacy Policy Contact Us 31 North Prospect Street Burlington, VT 05401 Paid for by Kesha for Vermont © Kesha for Vermont | Made by Authentic Chip In If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# Other

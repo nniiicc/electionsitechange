@@ -1,37 +1,10 @@
-Assembly District 45
-The Communities Greg Abdouch is Working to Represent
-California State Assembly District 45
-Inland Empire Communities Greg Abdouch Represents
-Assembly District 45 lies entirely within San Bernardino County and serves approximately 490,577 Residents.
+Skip to content Home About Endorsements View Endorsements Add Endorsement Donate Map Events Media EN ES Contribute → Contribute Toggle Menu Assembly District 45 The Communities Greg Abdouch is Working to Represent Official State Assembly Boundary California State Assembly District 45 Inland Empire Communities Greg Abdouch Represents Assembly District 45 lies entirely within San Bernardino County and serves approximately 490,577 Residents .
 Greg Abdouch is running to stand as your common-sense voice for this region in Sacramento.
-490,577 Residents
-Official 2020 Census figures
-5 Cities & 6 Areas
-Campaign Territory
-San Bernardino County
-Entirely within the county boundaries
-District Profile
-490,577 Residents
-Entirely within San Bernardino County
-• Verified from the Citizens Redistricting Commission Map• Boundary data from the California Statewide DatabaseLast Verified: May 29, 2026
-- San Bernardino
-- Fontana
-- Rialto
-- Highland
-- Redlands
-- Mentone
-- Muscoy
-- Arrowhead Springs
-- Devore
-- Lytle Creek
-- San Bernardino Valley Mountain Foothills
-146.8 Square Miles
-Get Involved in State Assembly District 45
-Volunteer
-Help Greg connect with voters in your neighborhood and share our common-sense campaign.
-Donate
-Support our outreach and campaign efforts to carry your voice to Sacramento.
-Request a Yard Sign
-Show your support in your neighborhood by requesting a campaign sign.
-Stay Updated
-Receive direct campaign news, action alerts, and regular event updates.
+Population 490,577 Residents Official 2020 Census figures Communities Served 5 Cities & 6 Areas Campaign Territory District Location San Bernardino County Entirely within the county boundaries Loading Interactive Map...
+District Profile Population Served 490,577 Residents District Location Entirely within San Bernardino County Data Sources • Verified from the Citizens Redistricting Commission Map • Boundary data from the California Statewide Database Last Verified: May 29, 2026 Cities (Partial) San Bernardino Fontana Rialto Highland Redlands Neighborhoods & Areas Mentone Muscoy Arrowhead Springs Devore Lytle Creek San Bernardino Valley Mountain Foothills Physical Size 146.8 Square Miles ← Return Home Get Involved in State Assembly District 45 Volunteer Help Greg connect with voters in your neighborhood and share our common-sense campaign.
+Join the Team Donate Support our outreach and campaign efforts to carry your voice to Sacramento.
+Contribute Now Request a Yard Sign Show your support in your neighborhood by requesting a campaign sign.
+Request Sign Stay Updated Receive direct campaign news, action alerts, and regular event updates.
+Sign Up A common-sense leader fighting to restore safety, affordability, and accountability to California State Assembly District 45.
+Quick Links Home About Endorsements Map Events Get Involved Donate (One-Time) Monthly Giving Donate By Check Join the Team Contact Us vote@gregabdouch.com 909-371-5675 FPCC ID ID#1479981 Social Icons PAID FOR BY GREG ABDOUCH FOR ASSEMBLY 2026 © # Greg Abdouch For CA Assembly.
+All Rights Reserved. | Privacy Policy | Team Portal Digital Strategy by GoSubmitto

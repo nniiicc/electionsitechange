@@ -1,26 +1,18 @@
-PRESS RELEASE
-Jennifer Todd Launches Listening Tour Across Illinois's 15th Congressional District
-FOR IMMEDIATE RELEASE
-Thursday, March 27, 2025
-For more information:
-Jennifer@JenTodd2026.com
-618-251-1428
-Jennifer Todd Launches Listening Tour
-Across Illinois's 15th Congressional District
-(Champaign, IL) Jennifer Todd, Democratic candidate for Congress in Illinois's 15th District, is hitting the road to hear directly from residents through a series of community listening events.
+Skip navigation menu Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate PRESS RELEASE Big Beautiful Bill is Creating An Ambulance Emergency in Illinois 15 PRESS RELEASE Running Out of Time! 🕛 PRESS RELEASE Diesel and This Deadline Matter PRESS RELEASE Imagine PRESS RELEASE Outrage PRESS RELEASE Join Jennifer for an End-of-Quarter Fundraiser PRESS RELEASE WHERE’S THE BEEF?
+Jennifer Todd calls on Miller to Protect Illinois Beef NEWS ARTICLE Madison County Democrats rally at sold-out JFK Dinner in East Alton PRESS RELEASE You could FEEL it in the air the minute we arrived!
+PRESS RELEASE Following medical evidence PRESS RELEASE Illinois AFL-CIO Endorses Jennifer Todd for Congress in IL-15 PRESS RELEASE Mary Miller Needs to Answer for This PRESS RELEASE Congressional Candidate Jennifer Todd Endorsed by Citizen Action in Illinois’ 15th District news article Big Energy, Big Turnout: Madison County Democrats Kick Off 2026 Election Season News No Pride in Mary Miller’s proposal By SHIA KAPOS 06/09/2026 08:00 AM EDT PRESS RELEASE Jennifer Todd to Host Virtual Community Conversation on Data Centers in Illinois' 15th District News Democrat wants to unseat a 3-term Republican in ultra-conservative Illinois district PRESS RELEASE STRONGER TOGETHER: Todd’s Campaign Surges as Former Opponents Stand United PRESS RELEASE Jennifer Todd Invites IL-15 Candidates to Sign A Common-Sense Pledge to Restore Real Representation PRESS RELEASE Jennifer Todd - Mary Miller Backs Education Changes That Endanger Critical Jobs in IL-15 PRESS RELEASE An Open Letter to Congresswoman Mary Miller news Candidates for 15th Congressional District engage with community at Springfield forum PRESS RELEASE Jennifer Todd Files Petitions PRESS RELEASE Jennifer Todd Files Petitions to Run for Congress in Illinois’ 15th District new article Jennifer Todd aims to challenge Rep.
+Mary Miller for congressional seat in 2026 news article Local Democrat to challenge Mary Miller News article Hundreds protest Trump policies, Miller in Mahomet PRESS RELEASE Jennifer Todd Launches Listening Tour Across Illinois's 15th Congressional District Mar 27 2025 PRESS RELEASE Jennifer Todd Launches Listening Tour Across Illinois's 15th Congressional District FOR IMMEDIATE RELEASE Thursday, March 27, 2025 For more information: Jennifer@JenTodd2026.com 618-251-1428 Jennifer Todd Launches Listening Tour Across Illinois's 15th Congressional District (Champaign, IL) Jennifer Todd, Democratic candidate for Congress in Illinois's 15th District, is hitting the road to hear directly from residents through a series of community listening events.
 The "Our Voice, Our Future" Listening Tour will kick off on April 5th in Champaign, IL, and continue with stops across all corners of the district.
 "The people of IL-15 deserve a representative who listens to their concerns and understands the challenges they face every day," said Todd.
-"This tour is about engaging with families, farmers, small business owners, veterans, and everyone in between to ensure our voices are all heard in Washington."
-During the listening sessions, Todd invites open discussions on critical issues such as strengthening rural economies, protecting healthcare access, supporting education, and ensuring government accountability.
+"This tour is about engaging with families, farmers, small business owners, veterans, and everyone in between to ensure our voices are all heard in Washington." During the listening sessions, Todd invites open discussions on critical issues such as strengthening rural economies, protecting healthcare access, supporting education, and ensuring government accountability.
 Each stop will provide an opportunity for community members to share their thoughts and ideas.
-Event Details:
-Kickoff: April 5, 2025
-Location: West Side Park 400 W.
-University Ave., Champaign, IL 61820
-Time: 12:00 PM
-Further details on additional tour stops will be announced in the coming weeks.
+Event Details: Kickoff: April 5, 2025 Location: West Side Park 400 W.
+University Ave., Champaign, IL 61820 Time: 12:00 PM Further details on additional tour stops will be announced in the coming weeks.
 "I believe real leadership starts with listening.
 I’m excited to meet directly and frequently with the people of Central Illinois and have meaningful conversations about how we can build a better future together," Todd added.
 Jennifer started her congressional campaign for IL-15 in January 2025.
 Jennifer decided to run against Mary Miller after noting that Miller refuses to bring back resources to the district, which would be beneficial to all citizens of IL-15.
 For more information on the Listening Tour or to RSVP for an event, contact us at Jennifer@JenTodd2026.com or 618-251-1428.
+Privacy Policy jennifer@jentodd2026.us | 618-251-1428 Friends for Jennifer Todd P.O.
+Box 3 Glen Carbon, IL 62034 Powered by RUN! website builder Paid for by Friends for Jennifer Todd.
+You need to enable JavaScript to run this app.

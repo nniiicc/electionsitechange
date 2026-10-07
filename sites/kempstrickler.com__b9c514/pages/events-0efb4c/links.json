@@ -1,14 +1,58 @@
 [
-"http://facebook.com/KempStricklerMO",
-"https://kempstrickler.com/",
-"https://kempstrickler.com/34th-district",
-"https://kempstrickler.com/contact-8",
-"https://kempstrickler.com/events",
-"https://kempstrickler.com/general-8",
-"https://kempstrickler.com/get-involved",
-"https://kempstrickler.com/issues",
-"https://kempstrickler.com/meet-kemp",
-"https://kempstrickler.com/volunteer",
-"https://secure.actblue.com/donate/kempstrickler",
-"https://twitter.com/kstric"
+{
+"text": "34TH DISTRICT",
+"href": "https://www.kempstrickler.com/34th-district"
+},
+{
+"text": "CONTACT",
+"href": "https://www.kempstrickler.com/contact-8"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kempstrickler"
+},
+{
+"text": "EVENTS",
+"href": "https://www.kempstrickler.com/events"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.kempstrickler.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.kempstrickler.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.kempstrickler.com/issues"
+},
+{
+"text": "Kemp@KempStrickler.com",
+"href": "mailto:Kemp@KempStrickler.com"
+},
+{
+"text": "MEDIA",
+"href": "https://www.kempstrickler.com/general-8"
+},
+{
+"text": "MEET KEMP",
+"href": "https://www.kempstrickler.com/meet-kemp"
+},
+{
+"text": "See volunteer opportunities here!",
+"href": "https://www.kempstrickler.com/volunteer"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.kempstrickler.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/KempStricklerMO"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/kstric"
+}
 ]

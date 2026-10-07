@@ -1,14 +1,58 @@
 [
-"https://facebook.com/profile.php?id=61573336756769",
-"https://instagram.com/almaforstatesenate",
-"https://onlinecandidate.com/",
-"https://play.champds.com/westportschoolsct/event/50",
-"https://votealma.com/",
-"https://votealma.com/about",
-"https://votealma.com/contact",
-"https://votealma.com/education",
-"https://votealma.com/issues",
-"https://votealma.com/media",
-"https://votealma.com/privacy",
-"https://votealma.com/volunteer"
+{
+"text": "About",
+"href": "https://votealma.com/about/"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.onlinecandidate.com/"
+},
+{
+"text": "Click to watch video of Alma's full remarks to the Westport Board of Education — October 3, 2022",
+"href": "https://play.champds.com/westportschoolsct/event/50"
+},
+{
+"text": "Contact",
+"href": "https://votealma.com/contact/"
+},
+{
+"text": "Education",
+"href": "https://votealma.com/education/"
+},
+{
+"text": "Home",
+"href": "https://votealma.com/"
+},
+{
+"text": "Issues",
+"href": "https://votealma.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://votealma.com/media/"
+},
+{
+"text": "Privacy",
+"href": "https://votealma.com/privacy/"
+},
+{
+"text": "Volunteer",
+"href": "https://votealma.com/volunteer/"
+},
+{
+"text": "[image: Alma Sarelli for State Senate]",
+"href": "https://votealma.com/"
+},
+{
+"text": "[no text]",
+"href": "https://play.champds.com/westportschoolsct/event/50"
+},
+{
+"text": "[tooltip: Alma Sarelli on Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61573336756769"
+},
+{
+"text": "[tooltip: Alma Sarelli on Instagram]",
+"href": "https://www.instagram.com/almaforstatesenate/"
+}
 ]

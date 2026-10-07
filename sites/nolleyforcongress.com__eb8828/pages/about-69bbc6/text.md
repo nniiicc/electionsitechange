@@ -1,4 +1,4 @@
-Meet Paul Nolley.
+Skip navigation menu Home Meet Paul Issues Events Volunteer Endorsements News Signs & Merch DONATE Home Meet Paul Issues Events Volunteer Endorsements News Signs & Merch DONATE Meet Paul Nolley.
 He didn’t grow up around power or influence.
 Paul was born in Rockford to working-class parents who taught him the value of showing up, working hard, and doing right by your neighbors.
 He got his first job at 15, cooking and cleaning at a local racetrack— and he’s been working ever since.
@@ -23,3 +23,5 @@ He is focused on the people they left behind.
 Paul lives in the same community he grew up in with his wife Andrea, a special education teacher, and their two children.
 He’s a husband, father, and worker.
 He's one of us — and he’s ready to fight like hell for us.
+Contribute Volunteer Register to Vote District Map Privacy Policy Nolley for Congress P.O.
+Box 2166 Loves Park, IL 61130 General Questions: contact@nolleyforcongress.com Press & Media: press@nolleyforcongress.com Powered by RUN! website builder Paid for by Nolley for Congress You need to enable JavaScript to run this app.

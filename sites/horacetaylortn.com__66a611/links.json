@@ -1,18 +1,186 @@
 [
-"https://buy.stripe.com/7sY28rbqr9gD0hCg7167S00",
-"https://facebook.com/share/1Esw9w8VTz",
-"https://horacetaylortn.com/",
-"https://horacetaylortn.com/about",
-"https://horacetaylortn.com/contact",
-"https://horacetaylortn.com/events",
-"https://horacetaylortn.com/get-involved",
-"https://horacetaylortn.com/issues",
-"https://horacetaylortn.com/merch",
-"https://horacetaylortn.com/photos",
-"https://horacetaylortn.com/videos",
-"https://horacetaylortn.com/vision",
-"https://horacetaylortn.com/voices",
-"https://instagram.com/horaceforcongress",
-"https://share.google/dkxhmUxvvUivAqMoY",
-"https://youtube.com/@horacetforcongress?si=tn8GjOpY9d3QO_im"
+{
+"text": "$100",
+"href": "https://buy.stripe.com/7sY28rbqr9gD0hCg7167S00"
+},
+{
+"text": "$25",
+"href": "https://buy.stripe.com/7sY28rbqr9gD0hCg7167S00"
+},
+{
+"text": "$50",
+"href": "https://buy.stripe.com/7sY28rbqr9gD0hCg7167S00"
+},
+{
+"text": "About",
+"href": "https://horacetaylortn.com/about"
+},
+{
+"text": "About Horace",
+"href": "https://horacetaylortn.com/about"
+},
+{
+"text": "Accountable GovernmentLess waste, more transparency, results over politics.",
+"href": "https://horacetaylortn.com/issues"
+},
+{
+"text": "All Events",
+"href": "https://horacetaylortn.com/events"
+},
+{
+"text": "Campaign Photos",
+"href": "https://horacetaylortn.com/photos"
+},
+{
+"text": "Campaign Store",
+"href": "https://horacetaylortn.com/merch"
+},
+{
+"text": "Campaign Videos",
+"href": "https://horacetaylortn.com/videos"
+},
+{
+"text": "Check Your Registration",
+"href": "https://share.google/dkxhmUxvvUivAqMoY"
+},
+{
+"text": "Check Your Voter Registration",
+"href": "https://share.google/dkxhmUxvvUivAqMoY"
+},
+{
+"text": "Contact",
+"href": "https://horacetaylortn.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://buy.stripe.com/7sY28rbqr9gD0hCg7167S00"
+},
+{
+"text": "Donate Now",
+"href": "https://buy.stripe.com/7sY28rbqr9gD0hCg7167S00"
+},
+{
+"text": "Events",
+"href": "https://horacetaylortn.com/events"
+},
+{
+"text": "Events & Appearances",
+"href": "https://horacetaylortn.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://horacetaylortn.com/get-involved"
+},
+{
+"text": "HTHorace TaylorIndependent · Tennessee 8th",
+"href": "https://horacetaylortn.com/"
+},
+{
+"text": "Hear the Song",
+"href": "https://horacetaylortn.com/voices"
+},
+{
+"text": "Issues",
+"href": "https://horacetaylortn.com/issues"
+},
+{
+"text": "Issues & Priorities",
+"href": "https://horacetaylortn.com/issues"
+},
+{
+"text": "Jobs & WorkforceTraining for careers that actually exist in West Tennessee.",
+"href": "https://horacetaylortn.com/issues"
+},
+{
+"text": "Lowering CostsPractical relief on groceries, housing, energy, and care.",
+"href": "https://horacetaylortn.com/issues"
+},
+{
+"text": "Oct10Chasing Prudence| 2026 General Election Candidate Interviews (Horace Taylor)Tennessee's 8th District",
+"href": "https://horacetaylortn.com/events"
+},
+{
+"text": "Oct10Douglas CME Church3659 Stanton Koko Rd, Stanton, TN 38069",
+"href": "https://horacetaylortn.com/events"
+},
+{
+"text": "Oct11Misa en Español at Sacred Heart1324 Jefferson Ave, Memphis, TN 38104, USA",
+"href": "https://horacetaylortn.com/events"
+},
+{
+"text": "Read His Full Story",
+"href": "https://horacetaylortn.com/about"
+},
+{
+"text": "Read the Full Platform",
+"href": "https://horacetaylortn.com/issues"
+},
+{
+"text": "Read the Issues",
+"href": "https://horacetaylortn.com/issues"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://horacetaylortn.com/merch#yard-sign"
+},
+{
+"text": "Rural TennesseeThe same investment every other community takes for granted.",
+"href": "https://horacetaylortn.com/issues"
+},
+{
+"text": "Safe CommunitiesEnforcement now, prevention that holds for the long term.",
+"href": "https://horacetaylortn.com/issues"
+},
+{
+"text": "See the Priorities",
+"href": "https://horacetaylortn.com/issues"
+},
+{
+"text": "Store",
+"href": "https://horacetaylortn.com/merch"
+},
+{
+"text": "Taylored Advisory",
+"href": "https://tayloredadvisory.com"
+},
+{
+"text": "VeteransFaster benefits, real care, respect earned through service.",
+"href": "https://horacetaylortn.com/issues"
+},
+{
+"text": "Vision",
+"href": "https://horacetaylortn.com/vision"
+},
+{
+"text": "Vision & Values",
+"href": "https://horacetaylortn.com/vision"
+},
+{
+"text": "Voices",
+"href": "https://horacetaylortn.com/voices"
+},
+{
+"text": "Voices of the District",
+"href": "https://horacetaylortn.com/voices"
+},
+{
+"text": "Volunteer",
+"href": "https://horacetaylortn.com/get-involved#volunteer"
+},
+{
+"text": "Volunteer Instead",
+"href": "https://horacetaylortn.com/get-involved"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1Esw9w8VTz/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/horaceforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@horacetforcongress?si=tn8GjOpY9d3QO_im"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Explore the Ken Chestek biography, a distinguished university law professor and advocate for civic engagement in Wyoming House District 13.",
  "final_url": "https://chestekforhd13.com/my-bio",
- "paid_for_by": null,
+ "fingerprint": "74b47135e4403c3cc11ba7fe15b76745448feae9",
+ "format": 3,
+ "paid_for_by": "",
  "title": "My bio",
  "years_mentioned": [
   "2010",

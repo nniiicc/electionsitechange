@@ -1,12 +1,9 @@
-by Dale Washburn | Mar 25, 2024 | News
-My House colleagues and I returned to the Gold Dome on Monday, March 18, 2024, to begin the eleventh week of the 2024 Legislative Session.
+888.888.8888 name@email.com Facebook Instagram Facebook Instagram MEET DALE PRIORITIES Public Office NEWS Contact Sign Up for Capitol Updates Select Page Week 11 Legislative Session Recap 2024 by Dale Washburn | Mar 25, 2024 | News My House colleagues and I returned to the Gold Dome on Monday, March 18, 2024, to begin the eleventh week of the 2024 Legislative Session.
 This week, we convened in the House Chamber for three legislative days and continued to give passage to a number of Senate bills....
-by Dale Washburn | Mar 18, 2024 | News
-The House of Representatives got back to work on Monday, March 11 for the tenth week of the 2024 legislative session.
+Week 10 Legislative Session Recap 2024 by Dale Washburn | Mar 18, 2024 | News The House of Representatives got back to work on Monday, March 11 for the tenth week of the 2024 legislative session.
 Throughout the week, our focus remained on advancing pending Senate bills, with our committees convening frequently to review and refine proposed...
-by Dale Washburn | Mar 11, 2024 | News
-Following an eventful eighth week of session, during which we passed 72 bills on “Crossover Day” alone, the House got back to work on Monday, March 4 for another productive week under the Gold Dome.
+Week 9 Legislative Session Recap 2024 by Dale Washburn | Mar 11, 2024 | News Following an eventful eighth week of session, during which we passed 72 bills on “Crossover Day” alone, the House got back to work on Monday, March 4 for another productive week under the Gold Dome.
 In the ninth week, our attention shifted to reviewing and voting on...
-by Dale Washburn | Mar 4, 2024 | News
-The House kicked-off the eighth week of the 2024 legislative session on Monday, February 26 with myself and fellow lawmakers gathering in the House chamber for three long days of legislative work.
+Week 8 Legislative Session Recap 2024 by Dale Washburn | Mar 4, 2024 | News The House kicked-off the eighth week of the 2024 legislative session on Monday, February 26 with myself and fellow lawmakers gathering in the House chamber for three long days of legislative work.
 The House also dedicated an entire day of work in our committees so...
+Search for: Recent Posts Week 12 Legislative Session Recap 2026 Week 11 Legislative Session Recap 2026 Week 10 Legislative Session Recap 2026 Week 9 Legislative Session Recap 2026 Week 8 Legislative Session Recap 2026 Recent Comments Archives April 2026 March 2026 February 2026 January 2026 April 2025 March 2025 February 2025 January 2025 December 2024 April 2024 March 2024 February 2024 January 2024 April 2023 March 2023 February 2023 January 2023 April 2022 March 2022 February 2022 January 2022 March 2020 February 2020 March 2019 February 2019 January 2019 Categories News Uncategorized Meta Log in Entries feed Comments feed WordPress.org Facebook Instagram © # Dale Washburn for State House | Website by Pipeline Social Media

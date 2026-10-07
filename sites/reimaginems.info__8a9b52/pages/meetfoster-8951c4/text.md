@@ -1,5 +1,6 @@
-Meet Bennie Foster
-Who is Bennie Foster?
+0 Skip to Content Elect Bennie Foster for U.S.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Resources Voting Contact Donate DONATE Open Menu Close Menu Elect Bennie Foster for U.S.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Resources Voting Contact Donate DONATE Open Menu Close Menu Folder: About Back Meet Foster Our District | MS-02 Questions & Answers Folder: Platform Back Policies Initiatives Folder: News Back Events Folder: Resources Back Voting Contact Donate DONATE Meet Bennie Foster Who is Bennie Foster?
 Bennie Foster is a Jackson native, educator, mentor, and community advocate.
 A former student-athlete and SWAC Track & Field Champion at Jackson State University, Bennie holds a Bachelors degree from Jackson State and a Masters Degree in Education from Strayer University.
 As a builder of community transformation, Bennie brings over 38 years of experience in educational administration, business consulting, personal development, and local program leadership.
@@ -18,4 +19,7 @@ He is not seeking power; he is seeking partnerships.
 He is not just a candidate; he is a visionary leader, a bridge between communities, and the new champion for Mississippi's 2nd Congressional District.
 He is ready to bring his experience, his passion, resilience and resolve with his unwavering dedication to the halls of U.S.
 Congress representing MS02, ensuring that every voice is heard and every community is empowered as MS02 choose results over rhetoric at the polls.
-Read the Full Candidate Q&A: View candidate questionnaire responses on the Mississippi Free Press Voter Guide
+Read the Full Candidate Q&A: View candidate questionnaire responses on the Mississippi Free Press Voter Guide Paid for by Friends to Elect Bennie Foster Jr Follow Foster Instagram Facebook Send Mail To: 886 Foley St Jackson, MS 39202 Contact: team@electbenniefoster.com 601-868-5557 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up to stay connected with the campaign and receive updates.
+Email Address Sign Up Thank you!

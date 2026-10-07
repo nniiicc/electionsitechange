@@ -1,7 +1,30 @@
 [
-"https://yuriwa.com/",
-"https://yuriwa.com/contact",
-"https://yuriwa.com/donate",
-"https://yuriwa.com/matters",
-"https://yuriwa.com/meet-yuri"
+{
+"text": "Contact",
+"href": "https://yuriwa.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://yuriwa.com/donate"
+},
+{
+"text": "Home",
+"href": "https://yuriwa.com/"
+},
+{
+"text": "Matters",
+"href": "https://yuriwa.com/matters"
+},
+{
+"text": "Meet Yuri",
+"href": "https://yuriwa.com/meet-yuri"
+},
+{
+"text": "Yuri Marinchik",
+"href": "https://yuriwa.com/"
+},
+{
+"text": "YuriHR@proton.me",
+"href": "mailto:yurihr@proton.me"
+}
 ]

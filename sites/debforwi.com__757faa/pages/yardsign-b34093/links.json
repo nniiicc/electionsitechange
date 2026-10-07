@@ -1,15 +1,66 @@
 [
-"http://facebook.com/debforwisconsin",
-"http://instagram.com/debforwi",
-"http://twitter.com/debforwi",
-"https://debforwi.com/",
-"https://debforwi.com/aboutdeb",
-"https://debforwi.com/awardsandendorsements",
-"https://debforwi.com/cart",
-"https://debforwi.com/events",
-"https://debforwi.com/meet-deb",
-"https://debforwi.com/support-deb",
-"https://debforwi.com/yardsign",
-"https://forms.gle/E6tZfmXDTU1i9ZYK8",
-"https://secure.actblue.com/donate/friends-of-deb-andraca-1"
+{
+"text": "0",
+"href": "https://www.debforwi.com/cart"
+},
+{
+"text": "About Deb",
+"href": "https://www.debforwi.com/aboutdeb"
+},
+{
+"text": "Awards and Endorsements",
+"href": "https://www.debforwi.com/awardsandendorsements"
+},
+{
+"text": "Back",
+"href": "https://www.debforwi.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-deb-andraca-1"
+},
+{
+"text": "Events",
+"href": "https://www.debforwi.com/events"
+},
+{
+"text": "Folder: Meet Deb",
+"href": "https://www.debforwi.com/meet-deb"
+},
+{
+"text": "Folder: Support Deb",
+"href": "https://www.debforwi.com/support-deb"
+},
+{
+"text": "Make a Contribution",
+"href": "https://secure.actblue.com/donate/friends-of-deb-andraca-1"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://www.debforwi.com/yardsign"
+},
+{
+"text": "Yard Sign Request Form",
+"href": "https://forms.gle/E6tZfmXDTU1i9ZYK8"
+},
+{
+"text": "[image: Deb Andraca for Assembly]",
+"href": "https://www.debforwi.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/debforwisconsin"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/debforwi"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/debforwi"
+},
+{
+"text": "info@debforwi.com",
+"href": "mailto:info@debforwi.com?subject=Hello"
+}
 ]

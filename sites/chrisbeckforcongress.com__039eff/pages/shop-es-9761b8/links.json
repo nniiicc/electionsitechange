@@ -1,25 +1,106 @@
 [
-"http://facebook.com/ChrisBeckforCongress",
-"https://chrisbeckforcongress.com/",
-"https://chrisbeckforcongress.com/about",
-"https://chrisbeckforcongress.com/aboutchris",
-"https://chrisbeckforcongress.com/aboutchris-es",
-"https://chrisbeckforcongress.com/calendar",
-"https://chrisbeckforcongress.com/calendar-es",
-"https://chrisbeckforcongress.com/cart",
-"https://chrisbeckforcongress.com/contact",
-"https://chrisbeckforcongress.com/district2issues",
-"https://chrisbeckforcongress.com/district2issues-es",
-"https://chrisbeckforcongress.com/espanol",
-"https://chrisbeckforcongress.com/espanol-1",
-"https://chrisbeckforcongress.com/media-kit",
-"https://chrisbeckforcongress.com/shop",
-"https://chrisbeckforcongress.com/shop-es",
-"https://chrisbeckforcongress.com/volunteer",
-"https://chrisbeckforcongress.com/volunteer-es",
-"https://chrisbeckforcongress.com/voters-pamphlet-statement",
-"https://donation.c-esystems.com/campaign/chrisbeckforcongress",
-"https://instagram.com/chrisbeckforcongress",
-"https://secure.actblue.com/donate/beckswag",
-"https://youtube.com/@ChrisBeckforCongress/videos"
+{
+"text": "0",
+"href": "https://chrisbeckforcongress.com/cart"
+},
+{
+"text": "Back",
+"href": "https://chrisbeckforcongress.com/"
+},
+{
+"text": "Calendar",
+"href": "https://chrisbeckforcongress.com/calendar"
+},
+{
+"text": "Calendario",
+"href": "https://chrisbeckforcongress.com/calendar-es"
+},
+{
+"text": "Contact",
+"href": "https://chrisbeckforcongress.com/contact"
+},
+{
+"text": "Contact Chris",
+"href": "https://chrisbeckforcongress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://donation.c-esystems.com/campaign/chrisbeckforcongress"
+},
+{
+"text": "District 2 issues",
+"href": "https://chrisbeckforcongress.com/district2issues"
+},
+{
+"text": "Folder: About",
+"href": "https://chrisbeckforcongress.com/about"
+},
+{
+"text": "Folder: ES",
+"href": "https://chrisbeckforcongress.com/espanol-1"
+},
+{
+"text": "Inicio",
+"href": "https://chrisbeckforcongress.com/espanol"
+},
+{
+"text": "Media kit",
+"href": "https://chrisbeckforcongress.com/media-kit"
+},
+{
+"text": "Shop",
+"href": "https://chrisbeckforcongress.com/shop"
+},
+{
+"text": "Temas del Distrito 2",
+"href": "https://chrisbeckforcongress.com/district2issues-es"
+},
+{
+"text": "Tienda",
+"href": "https://chrisbeckforcongress.com/shop-es"
+},
+{
+"text": "Videos",
+"href": "https://www.youtube.com/@ChrisBeckforCongress/videos"
+},
+{
+"text": "Voluntariado",
+"href": "https://chrisbeckforcongress.com/volunteer-es"
+},
+{
+"text": "Volunteer",
+"href": "https://chrisbeckforcongress.com/volunteer"
+},
+{
+"text": "Voters' Pamphlet Statement",
+"href": "https://chrisbeckforcongress.com/voters-pamphlet-statement"
+},
+{
+"text": "Who is Chris?",
+"href": "https://chrisbeckforcongress.com/aboutchris"
+},
+{
+"text": "[image: Chris Beck for Congress]",
+"href": "https://chrisbeckforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://donation.c-esystems.com/campaign/chrisbeckforcongress"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/beckswag"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/ChrisBeckforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chrisbeckforcongress"
+},
+{
+"text": "¿Quién es Chris?",
+"href": "https://chrisbeckforcongress.com/aboutchris-es"
+}
 ]

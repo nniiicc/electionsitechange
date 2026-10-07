@@ -1,12 +1,50 @@
 [
-"http://facebook.com/replorenagarcia",
-"http://instagram.com/RepLorenaGarciaHD35",
-"https://lorenaforcolorado.com/",
-"https://lorenaforcolorado.com/about",
-"https://lorenaforcolorado.com/author/lorenaeegarcia",
-"https://lorenaforcolorado.com/category/uncategorized",
-"https://lorenaforcolorado.com/contact",
-"https://lorenaforcolorado.com/issues",
-"https://lorenaforcolorado.com/property-tax-war",
-"https://lorenaforcolorado.com/read"
+{
+"text": "About",
+"href": "https://lorenaforcolorado.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://lorenaforcolorado.com/contact/"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/replorenagarcia/"
+},
+{
+"text": "Home",
+"href": "https://lorenaforcolorado.com/"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/RepLorenaGarciaHD35/"
+},
+{
+"text": "Issues",
+"href": "https://lorenaforcolorado.com/issues/"
+},
+{
+"text": "Read",
+"href": "https://lorenaforcolorado.com/read/"
+},
+{
+"text": "Special Session 2024",
+"href": "https://lorenaforcolorado.com/property-tax-war/"
+},
+{
+"text": "Uncategorized",
+"href": "https://lorenaforcolorado.com/category/uncategorized/"
+},
+{
+"text": "[image: Lorena For Colorado]",
+"href": "https://lorenaforcolorado.com/"
+},
+{
+"text": "[image: Special Session 2024]",
+"href": "https://lorenaforcolorado.com/property-tax-war/"
+},
+{
+"text": "lorenaeegarcia",
+"href": "https://lorenaforcolorado.com/author/lorenaeegarcia/"
+}
 ]

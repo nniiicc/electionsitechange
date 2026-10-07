@@ -1,4 +1,4 @@
-I was born in Ohio and have lived here for all but two years of my life.
+My Core Principles About Me Why I Am A Candidate My Public Service Promise My Platform Contribute About Me About Me I was born in Ohio and have lived here for all but two years of my life.
 I have a Bachelor of Science from Ohio State University in aerospace engineering, with a minor in public policy.
 I have been an advocate for electoral reform since the 2016 Presidential election, when the winner got a majority of votes (more than half) in neither his party’s primary nor the critical swing states in the general election.
 This showed me that a fundamental solution was needed to the spoiler problem.
@@ -13,3 +13,6 @@ I am a member of the LPO’s Central Committee.
 In my spare time, I enjoy grand strategy games (including modding), distance running, and baking.
 I love to spend time with my nephew and niece (who devour my brownies and pumpkin bars).
 This page lists some (but not all) of those who have substantially shaped my thinking.
+Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Tom Gnau, Dayton Daily News on Hello voters!
+A WordPress Commenter on Hello voters!
+Paid for by Barrington for Congress Contact

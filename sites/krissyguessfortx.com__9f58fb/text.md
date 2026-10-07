@@ -1,6 +1,4 @@
-Krissy Guess for Texas
-Meet Krissy
-My name is Krissy Guess, and I’m a proud Texas mom, business leader, and lifelong advocate for fairness, opportunity, and accountability.
+0 Skip to Content Krissy Guess for TX Meet Candidate Issues Events Endorsements Volunteer DONATE Open Menu Close Menu Krissy Guess for TX Meet Candidate Issues Events Endorsements Volunteer DONATE Open Menu Close Menu Meet Candidate Issues Events Endorsements Volunteer DONATE Krissy Guess for Texas Volunteer Donate Meet Krissy My name is Krissy Guess, and I’m a proud Texas mom, business leader, and lifelong advocate for fairness, opportunity, and accountability.
 I’m 44 years old, a mother of three daughters, and I’ve been married for 25 years to my high school sweetheart, a public school teacher who has served our community for the past 14 years.
 Public education isn’t an abstract issue in our household—it’s our daily reality.
 I was born and raised here in Texas House District 60, and now I’m raising my family here.
@@ -16,20 +14,19 @@ We must also confront the growing shortage of maternal healthcare in communities
 Mothers and babies deserve better, and improving maternal care must be a priority.
 I will fight for strong public schools, accessible healthcare, fair wages, secure voting rights, and an economy that rewards hard work instead of corporate influence.
 I’m not a career politician—I’m a Texas mom who decided it was time to step up and fight for the future our families deserve.
-Issues
-- Politicians in Austin have inserted themselves into deeply personal medical and family decisions that should be guided by doctors, parents, and patients—not political ideology.
+Be Part of the Movement Issues Keep Government out of Personal Decisions Politicians in Austin have inserted themselves into deeply personal medical and family decisions that should be guided by doctors, parents, and patients—not political ideology.
 I will fight for policies that protect personal freedom, trust medical professionals, and make it easier for families to plan their futures and raise their kids with dignity.
-- Texas has one of the highest maternal mortality rates in the nation, and too many mothers lack access to consistent prenatal and postpartum care—especially in rural communities.
+Protect Mothers and Improve Maternal Health Texas has one of the highest maternal mortality rates in the nation, and too many mothers lack access to consistent prenatal and postpartum care—especially in rural communities.
 We must expand access to care, support rural hospitals, and listen to doctors and nurses so every mother has a healthy pregnancy and recovery.
-- Our public schools are being underfunded and distracted by political agendas instead of focusing on student success.
+Strengthen Local Public Schools Our public schools are being underfunded and distracted by political agendas instead of focusing on student success.
 I will invest in teachers, classrooms, and proven educational outcomes so neighborhood schools are fully staffed, well-funded, and free to do what they do best: educate our kids.
-- Texas families are being squeezed by rising costs and some of the highest property taxes in the country, making it harder to stay in the communities they love.
+Lower Costs and Property Taxes for Working Families Texas families are being squeezed by rising costs and some of the highest property taxes in the country, making it harder to stay in the communities they love.
 I will support responsible solutions that lower property taxes and everyday costs while investing in healthcare and education that keep our communities strong.
-- Water is one of the most important—and increasingly strained—resources in House District 60.
+Protecting Our Water, Protecting Our Future Water is one of the most important—and increasingly strained—resources in House District 60.
 With rapid growth, increased industrial demand, and the expansion of high-water-use facilities like data centers, we are putting serious pressure on our local water supply.
-Upcoming Events
-- Block Walk Date Time Come out and knock doors with us!
+Upcoming Events Block Walk Date Time Come out and knock doors with us!
 A quick training and waters will provided.
-- Rally Date Time Want to meet like minded folks and find out more about where you can help?
+RSVP Rally Date Time Want to meet like minded folks and find out more about where you can help?
 Join us at location with guest speakers.
-- Phone Bank Date Time Register to virtually help with outreach and identify eligible voters.
+RSVP Phone Bank Date Time Register to virtually help with outreach and identify eligible voters.
+RSVP Krissy Guess for TX HD 60 Contact krissyguessfortx@gmail.com

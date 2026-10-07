@@ -1,18 +1,2 @@
-Back to All Events
-Join me for another candidate forum in Petoskey MI “designed to provide insight into each candidate’s priorities, perspectives, and approach to issues impacting our region.”
-I look forward to seeing everyone people there
-Event Website:
-https://www.petoskeychamber.com/events/details/emmet-and-charlevoix-county-2026-general-election-candidate-forum-43588
-Livestream:
-https://www.youtube.com/@PetoskeyChamber.
-Event Schedule:
-5:30 p.m. | Candidate Meet & Greet
-6:00 p.m. | Moderated Forum Begins
-8:00 p.m. | Forum Concludes
-Previous
-Previous
-September 16
-Virtual Town Hall
-Next
-Next
-October 8
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate Back to All Events Meet the Candidates Forum (Petoskey) Monday, September 28, 2026 5:30 PM 8:00 PM North Central Michigan College - Athletic Center/Student Resource Center 1515 Howard Street Petoskey, Michigan, 49770 United States (map) Google Calendar ICS Join me for another candidate forum in Petoskey MI “designed to provide insight into each candidate’s priorities, perspectives, and approach to issues impacting our region.” I look forward to seeing everyone people there Event Website: https://www.petoskeychamber.com/events/details/emmet-and-charlevoix-county-2026-general-election-candidate-forum-43588 Livestream: https://www.youtube.com/@PetoskeyChamber .
+Event Schedule: 5:30 p.m. | Candidate Meet & Greet 6:00 p.m. | Moderated Forum Begins 8:00 p.m. | Forum Concludes Previous Previous September 16 Virtual Town Hall Next Next October 8 Meet the Candidates Forum (Grayling)

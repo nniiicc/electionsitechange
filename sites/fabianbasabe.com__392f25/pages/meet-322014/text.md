@@ -1,6 +1,4 @@
-MEET FABIÁn
-A Visionary Leader, Advocate, and Community Champion
-Fabián Basabe is a devoted family man, entrepreneur, environmental advocate, and passionate supporter of the arts.
+0 Skip to Content Home Meet FB Gallery Volunteer ENDORSEMENT Contact Fabián Basabe for Florida State House Representative English DONATE Open Menu Close Menu Home Meet FB Gallery Volunteer ENDORSEMENT Contact Fabián Basabe for Florida State House Representative English DONATE Open Menu Close Menu Home Meet FB Gallery Volunteer ENDORSEMENT Contact English Back DONATE MEET FABIÁn A Visionary Leader, Advocate, and Community Champion Fabián Basabe is a devoted family man, entrepreneur, environmental advocate, and passionate supporter of the arts.
 Born in New York City to an American mother and Ecuadorian father, Basabe was immersed in a myriad of cultures from an early age.
 He moved to Quito, Ecuador at age six and attended S.E.K.
 Elementary School, embracing Latin American traditions before relocating to Miami Beach in 1987.
@@ -18,3 +16,4 @@ Basabe’s legislative priorities focus on standing firm for educators, law enfo
 A true friend to the environment, he continues to advocate for environmental preservation and sustainable growth.
 Reelected for a second term in 2024 with broad support, Basabe exemplifies integrity, honesty, and character in public service, while his leadership reflects a tireless fight for the values that unite communities and a commitment to improving the quality of life for all Floridians.
 Fabián Basabe’s journey—from entrepreneur and cultural advocate to respected Legislator—demonstrates his unyielding passion for serving the people of District 106 and beyond.
+Meet Fabián Contact Volunteer Donate #FABIANFORFLORIDA Paid for by Fabian Basabe, Republican, for State House District 106 Privacy Policy | Contact Webmaster

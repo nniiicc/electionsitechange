@@ -1,4 +1,4 @@
-| Restraining the size of state government requires restricting its access to revenue.
+UT 74 VOTE ABOUT Posts Experience Contact Tax Policy and Restraining the Size of State Government 2/22/2023 Restraining the size of state government requires restricting its access to revenue.
 Governments tend to consume whatever revenue is in front of them.
 The best way to keep state government from growing faster than a state economy is to constrain access to revenue.
 Many states are effectively controlling the cost of government operations.
@@ -29,4 +29,5 @@ Utah weakened the constraint when we amended the constitution to include spendin
 Summary It is very difficult to constrain spending in government.
 The most effective constraints on spending are those that limit resources.
 The constitutional earmark limited the growth of the largest, fastest growing portion of government.
-If the citizens vote to approve the constitutional amendment, it will be up to the legislature and the citizens to do the hard work the earmark has done for us over many decades contributing to Utah's status as the best managed state. | |
+If the citizens vote to approve the constitutional amendment, it will be up to the legislature and the citizens to do the hard work the earmark has done for us over many decades contributing to Utah's status as the best managed state.
+Comments are closed. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

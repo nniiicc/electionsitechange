@@ -1,9 +1,38 @@
 [
-"https://cormenfornh.com/Media/index.html",
-"https://cormenfornh.com/Votes/index.html",
-"https://cormenfornh.com/about.html",
-"https://cormenfornh.com/contact.html",
-"https://cormenfornh.com/donate.html",
-"https://cormenfornh.com/index.html",
-"https://cs.dartmouth.edu/~thc"
+{
+"text": "About",
+"href": "https://cormenfornh.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://cormenfornh.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://cormenfornh.com/donate.html"
+},
+{
+"text": "Home",
+"href": "https://cormenfornh.com/index.html"
+},
+{
+"text": "Media",
+"href": "https://cormenfornh.com/Media/index.html"
+},
+{
+"text": "Thomas.Cormen@gc.nh.gov",
+"href": "mailto:Thomas.Cormen@gc.nh.gov"
+},
+{
+"text": "Votes",
+"href": "https://cormenfornh.com/Votes/index.html"
+},
+{
+"text": "https://www.cs.dartmouth.edu/~thc/",
+"href": "https://www.cs.dartmouth.edu/~thc/"
+},
+{
+"text": "thcormen@gmail.com",
+"href": "mailto:thcormen@gmail.com"
+}
 ]

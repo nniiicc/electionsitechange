@@ -1,5 +1,5 @@
-March 24, 2026 Maryland Matters By: Danielle J.
+Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up Contribute March 24, 2026 Home 2026 March Day: March 24, 2026 March 24, 2026 In The News Ethics, lead shot, housing and gender identity: Lawmakers plow through bills on crossover day March 24, 2026 Maryland Matters By: Danielle J.
 Brown, William J.
 Ford and Christine Condon After multiple floor sessions in the House and Senate Monday, potentials winners and losers in the remaining weeks start to come into view Sen.
-Cheryl …
-Continue Reading
+Cheryl … Continue Reading Home About Services & Resources Updates Email Sign Up By Authority: Citizens Helping Elect Cheryl Kagan (C.H.E.C.K.) Michael Frazier, Chair; Neil Burka, Treasurer. ©# Sen.
+Cheryl Kagan Search Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up (410) 841-3134 Cheryl.Kagan@senate.state.md.us

@@ -1,31 +1,122 @@
 [
-"https://ballotpedia.org/Mellissa_Heermann",
-"https://brookingsradio.com/interview-district-7-state-house-candidate-mellissa-heermann",
-"https://brookingsradio.com/interview-district-7-state-rep-mellissa-heermann-r-brookings-2",
-"https://brookingsradio.com/school-board-president-mellissa-heermann-announces-run-for-district-7-house-seat",
-"https://brookingsregister.com/local-news/mellissa-heermann-seeking-another-term-in-south-dakota-house",
-"https://brookingsregister.com/news/election-2026-district-7-hopefuls-for-south-dakota-house-talk-taxes-tech-legislative-priorities",
-"https://brookingsregister.com/news/election-2026-five-votes-separate-top-spots-as-degroot-heermann-secure-primary-victories",
-"https://csgmidwest.org/2023/06/21/introducing-this-years-2023-billd-class",
-"https://dakotawarcollege.com/release-south-dakota-rep-mellissa-heermann-named-to-2025-csg-henry-toll-fellowship-class",
-"https://electionresults.sd.gov/resultsSW.aspx?type=LEG&map=DIST&eid=470",
-"https://electionresults.sd.gov/resultsSW.aspx?type=LEG&map=DIST&eid=471",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://heermannfordist7.com/",
-"https://heermannfordist7.com/about",
-"https://heermannfordist7.com/contact-me",
-"https://heermannfordist7.com/donate",
-"https://heermannfordist7.com/legislative-activity-1",
-"https://heermannfordist7.com/news-and-information",
-"https://heermannfordist7.com/privacy-policy",
-"https://keloland.com/news/capitol-news-bureau/hb-1238-would-let-financial-institutions-break-up-scams",
-"https://keloland.com/news/capitol-news-bureau/south-dakota-medicaid-will-soon-pay-for-doula-services",
-"https://keloland.com/news/local-news/3m-expanding-in-brookings",
-"https://sdlegislature.gov/Interim/Committee/489/Detail",
-"https://sdpb.org/2024-12-24/south-dakota-medicaid-to-reimburse-doula-services-starting-jan-1",
-"https://sdpb.org/politics/2026-02-13/house-endorses-bill-allowing-banks-to-step-in-to-stop-financial-exploitation",
-"https://sensiblesouthdakota.org/candidates/mellissa-heermann-2b4ecb",
-"https://southdakotasearchlight.com/2024/01/25/south-dakota-medicaid-expansion-doula-services-pregnancy",
-"https://southdakotasearchlight.com/2024/02/22/sd-legislature-nursing-home-healthcare-workforce-report-nurse-shortage",
-"https://southdakotasearchlight.com/briefs/doula-south-dakota-medicaid-cover-childbirth-support-2025"
+{
+"text": "About",
+"href": "https://heermannfordist7.com/about"
+},
+{
+"text": "Contact Me",
+"href": "https://heermannfordist7.com/contact-me"
+},
+{
+"text": "Donate",
+"href": "https://heermannfordist7.com/donate"
+},
+{
+"text": "Home",
+"href": "https://heermannfordist7.com/"
+},
+{
+"text": "LINK",
+"href": "https://ballotpedia.org/Mellissa_Heermann"
+},
+{
+"text": "LINK",
+"href": "https://csgmidwest.org/2023/06/21/introducing-this-years-2023-billd-class/"
+},
+{
+"text": "LINK",
+"href": "https://dakotawarcollege.com/release-south-dakota-rep-mellissa-heermann-named-to-2025-csg-henry-toll-fellowship-class/"
+},
+{
+"text": "LINK",
+"href": "https://electionresults.sd.gov/resultsSW.aspx?type=LEG&map=DIST&eid=470"
+},
+{
+"text": "LINK",
+"href": "https://electionresults.sd.gov/resultsSW.aspx?type=LEG&map=DIST&eid=471"
+},
+{
+"text": "LINK",
+"href": "https://sdlegislature.gov/Interim/Committee/489/Detail"
+},
+{
+"text": "LINK",
+"href": "https://sensiblesouthdakota.org/candidates/mellissa-heermann-2b4ecb"
+},
+{
+"text": "LINK",
+"href": "https://southdakotasearchlight.com/2024/01/25/south-dakota-medicaid-expansion-doula-services-pregnancy/"
+},
+{
+"text": "LINK",
+"href": "https://southdakotasearchlight.com/2024/02/22/sd-legislature-nursing-home-healthcare-workforce-report-nurse-shortage/"
+},
+{
+"text": "LINK",
+"href": "https://southdakotasearchlight.com/briefs/doula-south-dakota-medicaid-cover-childbirth-support-2025/"
+},
+{
+"text": "LINK",
+"href": "https://www.brookingsradio.com/interview-district-7-state-house-candidate-mellissa-heermann/"
+},
+{
+"text": "LINK",
+"href": "https://www.brookingsradio.com/interview-district-7-state-rep-mellissa-heermann-r-brookings-2/"
+},
+{
+"text": "LINK",
+"href": "https://www.brookingsradio.com/school-board-president-mellissa-heermann-announces-run-for-district-7-house-seat/"
+},
+{
+"text": "LINK",
+"href": "https://www.brookingsregister.com/local-news/mellissa-heermann-seeking-another-term-in-south-dakota-house/"
+},
+{
+"text": "LINK",
+"href": "https://www.brookingsregister.com/news/election-2026-district-7-hopefuls-for-south-dakota-house-talk-taxes-tech-legislative-priorities/"
+},
+{
+"text": "LINK",
+"href": "https://www.brookingsregister.com/news/election-2026-five-votes-separate-top-spots-as-degroot-heermann-secure-primary-victories/"
+},
+{
+"text": "LINK",
+"href": "https://www.keloland.com/news/capitol-news-bureau/hb-1238-would-let-financial-institutions-break-up-scams/"
+},
+{
+"text": "LINK",
+"href": "https://www.sdpb.org/2024-12-24/south-dakota-medicaid-to-reimburse-doula-services-starting-jan-1"
+},
+{
+"text": "LINK",
+"href": "https://www.sdpb.org/politics/2026-02-13/house-endorses-bill-allowing-banks-to-step-in-to-stop-financial-exploitation"
+},
+{
+"text": "Legislative Activity",
+"href": "https://heermannfordist7.com/legislative-activity-1"
+},
+{
+"text": "Link",
+"href": "https://www.keloland.com/news/capitol-news-bureau/south-dakota-medicaid-will-soon-pay-for-doula-services/"
+},
+{
+"text": "Link",
+"href": "https://www.keloland.com/news/local-news/3m-expanding-in-brookings/"
+},
+{
+"text": "News and Information",
+"href": "https://heermannfordist7.com/news-and-information"
+},
+{
+"text": "Privacy Policy",
+"href": "https://heermannfordist7.com/privacy-policy"
+},
+{
+"text": "[image: Heermann for District 7]",
+"href": "https://heermannfordist7.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

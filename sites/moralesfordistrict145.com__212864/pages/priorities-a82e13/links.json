@@ -1,14 +1,54 @@
 [
-"https://facebook.com/RepMorales145",
-"https://instagram.com/RepMorales145",
-"https://moralesfordistrict145.com/",
-"https://moralesfordistrict145.com/contact",
-"https://moralesfordistrict145.com/district-145",
-"https://moralesfordistrict145.com/donate",
-"https://moralesfordistrict145.com/getinvolved",
-"https://moralesfordistrict145.com/meetchristina",
-"https://moralesfordistrict145.com/priorities",
-"https://moralesfordistrict145.com/updates",
-"https://moralesfordistrict145.com/voting-information",
-"https://twitter.com/RepMorales145"
+{
+"text": "CONTACT",
+"href": "https://www.moralesfordistrict145.com/contact"
+},
+{
+"text": "DISTRICT 145",
+"href": "https://www.moralesfordistrict145.com/district-145"
+},
+{
+"text": "DONATE",
+"href": "https://www.moralesfordistrict145.com/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.moralesfordistrict145.com/getinvolved"
+},
+{
+"text": "MEET CHRISTINA",
+"href": "https://www.moralesfordistrict145.com/meetchristina"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.moralesfordistrict145.com/priorities"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://www.moralesfordistrict145.com/getinvolved"
+},
+{
+"text": "UPDATES",
+"href": "https://www.moralesfordistrict145.com/updates"
+},
+{
+"text": "VOTING INFORMATION",
+"href": "https://www.moralesfordistrict145.com/voting-information"
+},
+{
+"text": "[image: Facebook - White Circle]",
+"href": "https://www.facebook.com/RepMorales145/"
+},
+{
+"text": "[image: Instagram - White Circle]",
+"href": "https://www.instagram.com/RepMorales145"
+},
+{
+"text": "[image: ReElectCMlogoBlack-01.png]",
+"href": "https://www.moralesfordistrict145.com"
+},
+{
+"text": "[image: Twitter - White Circle]",
+"href": "https://twitter.com/RepMorales145"
+}
 ]

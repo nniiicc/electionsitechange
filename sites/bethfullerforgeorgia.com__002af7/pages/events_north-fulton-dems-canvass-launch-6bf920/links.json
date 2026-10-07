@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=North+Fulton+Dems+Canvass+Launch&dates=20260726T190000Z%2F20260726T220000Z&location=200+Morgan+Falls+Road%2C+Sandy+Springs%2C+Georgia%2C+30350%2C+United+States",
-"http://maps.google.com/?q=200+Morgan+Falls+Road+Sandy+Springs%2C+Georgia%2C+30350+United+States",
-"https://bethfullerforgeorgia.com/",
-"https://bethfullerforgeorgia.com/articles",
-"https://bethfullerforgeorgia.com/cart",
-"https://bethfullerforgeorgia.com/endorsements",
-"https://bethfullerforgeorgia.com/events",
-"https://bethfullerforgeorgia.com/events/north-fulton-dems-canvass-launch-1",
-"https://bethfullerforgeorgia.com/events/north-fulton-dems-canvass-launch?format=ical",
-"https://bethfullerforgeorgia.com/get-involved",
-"https://bethfullerforgeorgia.com/meet-beth",
-"https://bethfullerforgeorgia.com/policy-priorities",
-"https://facebook.com/profile.php?id=61584803198605",
-"https://instagram.com/bethfuller4ga",
-"https://mobilize.us/georgiademocrats/event/989199",
-"https://secure.actblue.com/donate/elizabeth-fuller-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=200+morgan+falls+road+sandy+springs%2C+georgia%2C+30350+united+states"
+},
+{
+"text": "0",
+"href": "https://www.bethfullerforgeorgia.com/cart"
+},
+{
+"text": "Articles",
+"href": "https://www.bethfullerforgeorgia.com/articles"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/elizabeth-fuller-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bethfullerforgeorgia.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bethfullerforgeorgia.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=North+Fulton+Dems+Canvass+Launch&dates=20260726T190000Z%2F20260726T220000Z&location=200+Morgan+Falls+Road%2C+Sandy+Springs%2C+Georgia%2C+30350%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/north-fulton-dems-canvass-launch?format=ical"
+},
+{
+"text": "Meet Beth",
+"href": "https://www.bethfullerforgeorgia.com/meet-beth"
+},
+{
+"text": "Next Next July 31 North Fulton Dems Canvass Launch",
+"href": "https://www.bethfullerforgeorgia.com/events/north-fulton-dems-canvass-launch-1"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.bethfullerforgeorgia.com/policy-priorities"
+},
+{
+"text": "[image: Beth Fuller for Georgia | District 53 State House]",
+"href": "https://www.bethfullerforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584803198605"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bethfuller4ga/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@bethfullerforgeorgia.com"
+},
+{
+"text": "https://www.mobilize.us/georgiademocrats/event/989199/",
+"href": "https://www.mobilize.us/georgiademocrats/event/989199/"
+}
 ]

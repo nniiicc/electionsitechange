@@ -1,11 +1,82 @@
 [
-"http://jadeamarketing.com/",
-"https://electpaulspencer.com/",
-"https://electpaulspencer.com/about",
-"https://electpaulspencer.com/contact",
-"https://electpaulspencer.com/copy-of-get-involved",
-"https://electpaulspencer.com/get-involved",
-"https://electpaulspencer.com/news",
-"https://electpaulspencer.com/platform",
-"https://electpaulspencer.com/resources"
+{
+"text": "About",
+"href": "https://www.electpaulspencer.com/about"
+},
+{
+"text": "About Paul",
+"href": "https://www.electpaulspencer.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.electpaulspencer.com/contact"
+},
+{
+"text": "Contact Us",
+"href": "https://www.electpaulspencer.com/contact"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electpaulspencer.com/copy-of-get-involved"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electpaulspencer.com/get-involved"
+},
+{
+"text": "Grassroots Organizations",
+"href": "https://www.electpaulspencer.com/resources"
+},
+{
+"text": "Home",
+"href": "https://www.electpaulspencer.com"
+},
+{
+"text": "JadeAMarketingLLC",
+"href": "http://www.jadeamarketing.com/"
+},
+{
+"text": "Make a Donation",
+"href": "https://www.electpaulspencer.com/copy-of-get-involved"
+},
+{
+"text": "News",
+"href": "https://www.electpaulspencer.com/news"
+},
+{
+"text": "Platform",
+"href": "https://www.electpaulspencer.com/platform"
+},
+{
+"text": "Possible Solutions",
+"href": "https://www.electpaulspencer.com/resources"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.electpaulspencer.com/resources"
+},
+{
+"text": "Republican Party of NM",
+"href": "https://www.electpaulspencer.com/resources"
+},
+{
+"text": "Resources",
+"href": "https://www.electpaulspencer.com/resources"
+},
+{
+"text": "Save the Children Documentary",
+"href": "https://www.electpaulspencer.com/resources"
+},
+{
+"text": "Support Us",
+"href": "https://www.electpaulspencer.com/get-involved"
+},
+{
+"text": "War on Children",
+"href": "https://www.electpaulspencer.com/resources"
+},
+{
+"text": "[image: Paul Spencer Transparent.png]",
+"href": "https://www.electpaulspencer.com"
+}
 ]

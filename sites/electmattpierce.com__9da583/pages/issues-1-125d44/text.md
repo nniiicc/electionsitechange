@@ -1,5 +1,4 @@
-Issues
-- 01 Never did I imagine including a call to protect our very system of government as one of my campaign promises.
+top of page Issues 01 Fighting to preserve our democracy Never did I imagine including a call to protect our very system of government as one of my campaign promises.
 But we live in a brave new world where democracy is threatened by a radical right.
 As important as all the other issues I outline here are, none of them matter if we lose our ability to petition our government and elect our leaders in legitimate elections.
 Now, more than ever, elected officials must stand up and defend the fundamentals of our democracy.
@@ -7,14 +6,14 @@ From Donald Trump to Governor Braun, Republicans are attempting to consolidate p
 I made it a priority to issue a clarion call for citizens to stand up to Republican efforts to steal Democratic congressional seats in Indiana.
 I became a spokesperson on national news outlets to describe what I referred to as a “naked power grab.” Our efforts prevailed as the Trump proposal failed, but we can never let our guard down.
 I commit to you that I’ll continue to be a force for fairness and accountability in government.
-- 02 It is not an exaggeration to say the fundamental freedom of free speech is under attack.
+02 Protecting our freedom of speech It is not an exaggeration to say the fundamental freedom of free speech is under attack.
 The Trump administration is using government power to intimidate news organizations and has repealed federal funding of public broadcasting.
 Indiana Republicans ended many years of state funding for Indiana’s public broadcasting stations.
 They want to silence the voice of the opposition and bring pressure on individuals who dare speak against their agenda.
 We must not allow our voices to be silenced.
 That is why I stood with the many citizens who protested and rallied against converting our democracy into an authoritarian regime.
 I will continue my freedom of speech by fighting any and all attempts to undermine democracy.
-- 03 That phrase is more than a slogan to me.
+03 Creating an economy that works for everyone That phrase is more than a slogan to me.
 The President says the concept of “affordability” is a Democrat scam.
 This from a man who gilded the White House and threw a “Great Gatsby”-themed party at Mar-a-Lago during the government shutdown.
 I will continue to be a champion for an economy in which all people have a livable wage, affordable healthcare and opportunity to improve their lives.
@@ -27,11 +26,11 @@ The legislature has handed out billions in tax breaks and bestowed hundreds of m
 A better way is to help Hoosier with their everyday challenges.
 Republicans will say this can’t be done.
 The only things needed to make it possible are the correct priorities and the political will . . . and more Democrats in the legislature.
-- The minimum wage should be increased to a living wage.
-- Affordable childcare should be made available to all families.
-- Budget decisions limiting access to health care need to be reversed.
-- Students must be able to obtain college degrees or worker training without going into debt.
-- 04 The health care system in the United States makes no sense.
+The minimum wage should be increased to a living wage.
+Affordable childcare should be made available to all families.
+Budget decisions limiting access to health care need to be reversed.
+Students must be able to obtain college degrees or worker training without going into debt.
+04 Making health care accessible and affordable The health care system in the United States makes no sense.
 Insurance company and Pharmacy Benefit Manager middlemen add costs without providing any care.
 In fact, they often stand between us and the care we need.
 Health insurance premiums continue to skyrocket, and for too many people health insurance is neither accessible nor affordable.
@@ -45,7 +44,7 @@ Anti-trust laws should be enforced to limit excessive market power.
 If not-for-profit hospitals behave like for-profit corporations, they should lose their non-profit tax status.
 Efforts should continue to make billing more transparent and end surprise billing.
 I’m excited about the opportunity to continue to push the legislature to do the right thing by properly funding Medicaid and the Healthy Indiana Plan to eliminate waitlists and people losing their health care benefits.
-- 05 I am the proud product of public education at the elementary school, high school and college levels.
+05 Tax dollars to public schools, not private or charter schools I am the proud product of public education at the elementary school, high school and college levels.
 For more than a decade, Republicans have undermined our public schools.
 First, they fail to properly fund them, and then they continue to siphon tax dollars away to vouchers for private and religious schools.
 More tax dollars are diverted from traditional public schools to charter schools.
@@ -53,7 +52,7 @@ The Republicans reached their ultimate goal in the last budget when they extende
 What they claimed in the beginning was an effort to help poor students in failing schools is now subsidizing the richest families by more than $200 million.
 I have consistently opposed these diversions of tax dollars and will continue fighting for proper funding of traditional public schools.
 Just as we stopped the congressional redistricting effort by shaming Republicans into doing what’s right, we can stand up for our public schools by insisting it’s time to invest in them.
-- 06 When I was first elected to the General Assembly, zero tolerance toward those with Substance Use Disorder was the policy.
+06 Fully funding drug treatment and mental health When I was first elected to the General Assembly, zero tolerance toward those with Substance Use Disorder was the policy.
 Mandatory minimum sentences of 20 years for possession of as little as three grams of drugs were common.
 This policy ignored that many convicted of using drugs were also suffering from significant mental illness.
 The result was prisons overflowing with people needing treatment, not punishment.
@@ -68,23 +67,25 @@ And then all involved should get back to work and do even more.
 I am continuing to push the legislature to create regional mental health centers where Substance Use Disorder and mental health treatment are readily available to those who need it.
 Prisons and jails should not be the default mental health centers in Indiana.
 We need to and can do better.
-- 07 Sadly, too many Republicans have chosen to vilify and marginalize members of the LGBTQ+ community for political gain.
+07 Fighting for LGBTQ+ Rights Sadly, too many Republicans have chosen to vilify and marginalize members of the LGBTQ+ community for political gain.
 Let me be blunt: many Republicans are engaging in what amounts to nothing more than hate-based politics.
 Every legislator should oppose these efforts and defend the human rights of all Indiana citizens.
 I vocally opposed Republican bills attacking the LGBTQ+ community, including those that took away parents’ right to make health care decisions for their children and created other hurdles to getting necessary care.
-- 08 As a faculty member at Indiana University, I see first-hand the attacks on academic freedom and free speech from the state and federal governments.
+08 Preserving academic freedom and free speech at Indiana’s colleges and universities As a faculty member at Indiana University, I see first-hand the attacks on academic freedom and free speech from the state and federal governments.
 What I didn’t expect was many of those same attacks to come from the administrators entrusted to run the University.
 It’s hard to overstate the outrageous violation of free speech rights and lack of due process for faculty.
-- When the University violated the First Amendment rights of protesters in Dunn Meadow, I spoke out loudly against the use of force against those peacefully assembled.
-- When the Indiana Daily Student (IDS) had its print publications blocked by the administration, I joined other faculty members in demanding the policy be reversed.
-- When Republicans put never before seen provisions in the budget bill at the last-minute destroying shared faculty governance and removing alumni-elected members of the Board of Trustee, I opposed them and am working to restore these rights.
+When the University violated the First Amendment rights of protesters in Dunn Meadow, I spoke out loudly against the use of force against those peacefully assembled.
+When the Indiana Daily Student (IDS) had its print publications blocked by the administration, I joined other faculty members in demanding the policy be reversed.
+When Republicans put never before seen provisions in the budget bill at the last-minute destroying shared faculty governance and removing alumni-elected members of the Board of Trustee, I opposed them and am working to restore these rights.
 I am ashamed of legislators who know better.
 Most if not all of them are the product of universities themselves.
 They clearly missed class the day common sense and common decency were taught.
 I want to keep working to educate them about the sanctity of institutions of higher learning.
-- 09 From promoting renewable energy to combat climate change, to preserving wetlands to protecting state forests from clear cutting, I have worked with environmental advocates to promote pro-environment policies.
+09 Protecting the environment and preserving our natural resources From promoting renewable energy to combat climate change, to preserving wetlands to protecting state forests from clear cutting, I have worked with environmental advocates to promote pro-environment policies.
 I supported bills to limit exposure to PFAS, a cancer causing chemical, offered amendments to protect state forests, and pushed for policies that promote renewable energy.
 I have supported efforts to protect groundwater from contamination by coal ash ponds.
 When’s the last time you read coverage of the Indiana General Assembly and saw anything about the environment?
 The quality of the air you breathe and water you drink pays no heed to your political party.
 I commit to continuing to make the case that environmental protection must be a higher priority at the state house.
+VOLUNTEER DONATE DONATE Issues Volunteer Contact Donate Contributions can be sent to: Matt Pierce for State Representative P.O.
+Box 7843, Bloomington, IN 47407-7843 Paid for by Pierce for State Representative Committee Photo Credit: Simon Higgs Link bottom of page

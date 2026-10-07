@@ -1,13 +1,58 @@
 [
-"https://denisevillalobos.com/privacy-policy",
-"https://facebook.com/DVillalobos20",
-"https://instagram.com/denisefortexas",
-"https://linkedin.com/in/denise-villalobos-pmp",
-"https://secure.anedot.com/denise-villalobos/donate",
-"https://secure.anedot.com/denise-villalobos/donate?amount=100",
-"https://secure.anedot.com/denise-villalobos/donate?amount=25",
-"https://secure.anedot.com/denise-villalobos/donate?amount=250",
-"https://secure.anedot.com/denise-villalobos/donate?amount=50",
-"https://tiktok.com/@Denisevillalobos34",
-"https://x.com/DeniseForTexas"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/denise-villalobos/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/denise-villalobos/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/denise-villalobos/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/denise-villalobos/donate?amount=50"
+},
+{
+"text": "Contact the Office",
+"href": "mailto:info@denisevillalobos.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/denise-villalobos/donate"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/denise-villalobos/donate"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://www.denisevillalobos.com/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DVillalobos20"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/denisefortexas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/denise-villalobos-pmp/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@Denisevillalobos34"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DeniseForTexas"
+},
+{
+"text": "campaign@denisevillalobos.com",
+"href": "mailto:campaign@denisevillalobos.com"
+}
 ]

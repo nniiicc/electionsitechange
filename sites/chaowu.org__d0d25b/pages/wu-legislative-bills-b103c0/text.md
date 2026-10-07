@@ -1,58 +1,20 @@
-2026 Delegate Wu Primary Sponsored Bill
-Local Bills
-State-wide bills:
-2025 Delegate Wu Primary Sponsored Bill
-Local Bills
-Howard County
-- Limit superintendent buyout （HoCo-11-25）–>State Wide Bill (HB1137)
-- Howard County – Board of Education – Mandatory School Holidays (HoCo-10-25), https://www.howardcountymd.gov/sites/default/files/2024-11/Ho.Co_.%2010-25.pdf
-- Howard County – Study on Detecting Deadly Weapons in Public Middle and High Schools (HoCo-15-25)
-Montgomery County
-- Limit superintendent buyout （MC-12-25), MC 12-25 –>state wide bill HB1317 Legislation – HB1317
-- Montgomery County – Board of Education – Mandatory School Holidays (MC-6-25) MC 6-25
-State-wide bills:
-- Limit cellphone usage in elementary and middle school during schoo hours (HB147): https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0147?ys=2025RS
-- Elect our circuit judges in a non-partisan way (HB44): https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0044?ys=2025RS
-- Require school system to report building energy usage and ask the Interagency Commission on School Construction to make recommendation for school systems to improve efficiency, save cost and extend usage life-span (HB66). https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0066?ys=2025RS
-- Resolution to support: United States of America – National Infrastructure Bank (HJ0001), https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hj0001?ys=2025RS
-- Requiring condo HOA to inform potential buyers the smoking policy (HB804) Legislation – HB0804
-- Generative Artificial Intelligence – Training Data Transparency (HB823) Legislation – HB0823
-- Income Tax – Credit for Employers of Eligible Apprentices – Alterations (HB1047) Legislation – HB1047
-- Higher Education – High Impact Economic Development Activities – Alterations (HB1054) Legislation – HB1054
-- Cybersecurity – Standards, Compliance, and Audits – Alterations (HB1309) Legislation – HB1309
-- County Superintendents – Contracts – Required Provisions (Superintendent Buyout Limit) (HB1317) Legislation – HB1317
-2024 Delegate Wu Primary Sponsored Bill
-Local bills
-- Ranked-choice voting for Howard County School Board Election , BillDrafting (howardcountymd.gov).
+Dr.
+Chao Wu Maryland State Delegate, D9A Widgets Search Skip to content Menu News Update Donate Meet Delegate Chao Wu Delegate Wu Legislative Scholarship Constituent Service Delegate Wu Legislative Bills Delegate Office Hour (Meet and Greet) 2026 HoCo Candidates Search the blog Search for: Follow Blog via Email Enter your email address to follow this blog and receive notifications of new posts by email.
+Email Address Follow Join 1,064 other subscribers Top Posts The Flaws in the Modern Education System: How Can We Address Them?
+(By Pio Kim, May 2024) Meeting minutes on HCPSS Chinese/World Language Teaching Judge William Tucker Delegate Wu Five 2027 Local Bills Charter School Application (Reading Opens Doors Charter School) and Update MSP Leadership and Career Development Seminar for Students ​HCPD brand NEW Youth Advisory Council is looking for members!
+PG County Public School Report: Facilities for Education 2016 Consultant Study on HCPSS enrollment, capacity and redistricting HCC Summer language program STARTALK application starts Blog Stats 534,464 hits Categories Categories Select Category African American (3) AI (1) APFO (3) Asian American (15) B: My articles (2) Baltimore Sun (5) Board Corner (1) board member report (4) BOE (108) budget (3) CAPA (9) CAPAOfHC (4) ChaoWu (837) Chinese American (4) Clarksville (19) Columbia (18) Columbia Association (201) Columbia Flier (4) Culture (4) Education (48) EnglishArticles (1) HCC (1) HCPSS (226) HCPSS audit (2) HoCo County Council (1) Howard County (206) HS13 (1) JROTC (1) MABE (1) Maryland (16) Merriweather Noise (1) NPR (1) OBRC (1) redistricting (13) RHHS (1) River Hill (78) SAAC (1) SAT (1) SisterCity (1) STEM (2) Symphony Woods (6) Tech (3) TheVillager (36) Uncategorized (6) USA (46) WisdomOfDay (2) World Language (2) tracking Authorized by Friends to Elect Chao Wu, Treasurer: Xia Chen Visitor Cluster Search for: Delegate Wu Legislative Bills 2026 Delegate Wu Primary Sponsored Bill Local Bills State-wide bills: 2025 Delegate Wu Primary Sponsored Bill Local Bills Howard County Limit superintendent buyout （ HoCo-11-25 ）–>State Wide Bill (HB1137) Legislation – HB1317 https://www.howardcountymd.gov/sites/default/files/2024-11/Ho.Co_.%2011-25.pdf Howard County – Board of Education – Mandatory School Holidays ( HoCo-10-25 ), https://www.howardcountymd.gov/sites/default/files/2024-11/Ho.Co_.%2010-25.pdf Howard County – Study on Detecting Deadly Weapons in Public Middle and High Schools ( HoCo-15-25 ) https://www.howardcountymd.gov/sites/default/files/2024-11/Ho.Co_.%2015-25.pdf Montgomery County Limit superintendent buyout （ MC-12-25 ), MC 12-25 –>state wide bill HB1317 Legislation – HB1317 Montgomery County – Board of Education – Mandatory School Holidays ( MC-6-25 ) MC 6-25 State-wide bills: Limit cellphone usage in elementary and middle school during schoo hours (HB147) : https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0147?ys=2025RS Elect our circuit judges in a non-partisan way (HB44) : https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0044?ys=2025RS Require school system to report building energy usage and ask the Interagency Commission on School Construction to make recommendation for school systems to improve efficiency, save cost and extend usage life-span (HB66) . https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0066?ys=2025RS Resolution to support: United States of America – National Infrastructure Bank (HJ0001) , https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hj0001?ys=2025RS Requiring condo HOA to inform potential buyers the smoking policy ( HB804 ) Legislation – HB0804 Generative Artificial Intelligence – Training Data Transparency ( HB823 ) Legislation – HB0823 Income Tax – Credit for Employers of Eligible Apprentices – Alterations ( HB1047 ) Legislation – HB1047 Higher Education – High Impact Economic Development Activities – Alterations ( HB1054 ) Legislation – HB1054 Cybersecurity – Standards, Compliance, and Audits – Alterations ( HB1309 ) Legislation – HB1309 County Superintendents – Contracts – Required Provisions (Superintendent Buyout Limit) ( HB1317 ) Legislation – HB1317 2024 Delegate Wu Primary Sponsored Bill Local bills Ranked-choice voting for Howard County School Board Election , BillDrafting (howardcountymd.gov) .
 Passed HoCo Delegation HB1353/SB1129.
-- Task force to study rebalancing transfer tax redistribution to increase school capital project funding.
-BillDrafting (howardcountymd.gov).
+Task force to study rebalancing transfer tax redistribution to increase school capital project funding.
+BillDrafting (howardcountymd.gov) .
 Revised and passed, signed by governor.
-(HB1450/SB1186)
-State-wide bills
-- HB0053, Task Force to Study E-Commerce Monopolies in the State (E-Commerce Antimonopoly Study of 2024) , Legislation – HB0053 (maryland.gov).
+(HB1450/SB1186) State-wide bills HB0053, Task Force to Study E-Commerce Monopolies in the State (E-Commerce Antimonopoly Study of 2024) , Legislation – HB0053 (maryland.gov) .
 Passed the house, stalked in senate.
-- HB0082, Post College and Career Readiness Pathways – Cost to Student – Alteration,
-- Let’s local education agency to determine what/who to waive test/exam costs.
-Legislation – HB0082 (maryland.gov)
-- HB0199, Multifamily Dwellings – Smoking Policies, Legislation – HB0199 (maryland.gov)
-- HB0221, Education – Funding for General Education Programs – Definition Alterations, Legislation – HB0221 (maryland.gov)
-- Amended: to create a task force to study how to provide sufficient funding to catch up with student population growth in a timely manner.
-- Create more opportunities for Career Focused Student Act 2024, Legislation – HB0837 (maryland.gov) HB837/SB33 passed, signed by the governor.
-- Establish a task force to study how to promote clean energy portfolio to include nuclear energy, Legislation – HB0820 (maryland.gov)
-- Establish a task force to study comparative negligence.
-- Establish a task force to create a Maryland offshore banking special zone.
-Local Bond Initiative (LBI)
-2023 Delegate Wu Primary Sponsored Bill
-- Education – Funding for General Education Programs – Definition Alteration Legislation – HB0598 (maryland.gov).
+HB0082, Post College and Career Readiness Pathways – Cost to Student – Alteration, Let’s local education agency to determine what/who to waive test/exam costs.
+Legislation – HB0082 (maryland.gov) HB0199, Multifamily Dwellings – Smoking Policies, Legislation – HB0199 (maryland.gov) HB0221, Education – Funding for General Education Programs – Definition Alterations, Legislation – HB0221 (maryland.gov) Amended: to create a task force to study how to provide sufficient funding to catch up with student population growth in a timely manner.
+Create more opportunities for Career Focused Student Act 2024, Legislation – HB0837 (maryland.gov) HB837/SB33 passed, signed by the governor.
+Establish a task force to study how to promote clean energy portfolio to include nuclear energy, Legislation – HB0820 (maryland.gov) Establish a task force to study comparative negligence.
+Establish a task force to create a Maryland offshore banking special zone.
+Local Bond Initiative (LBI) 2023 Delegate Wu Primary Sponsored Bill Education – Funding for General Education Programs – Definition Alteration Legislation – HB0598 (maryland.gov) .
 Here is my post to explain it in a readable language.
 Maryland Education Founding Reform-Enrollment Calculation | Dr.
-Chao Wu
-- Ranked-Choice Voting for Howard County Board of Education, BillDrafting (howardcountymd.gov)
-- Bond Initiative: Training Facility at the Central Maryland Research and Education Center-Clarksville Facility
-Howard County Bills
-https://www.howardcountymd.gov/state-delegation
-Montgomery County Bills
-http://www.montgomerycountydelegation.com/
-Maryland Bills
-https://mgaleg.maryland.gov/mgawebsite/Legislation/Index/house
+Chao Wu Ranked-Choice Voting for Howard County Board of Education, BillDrafting (howardcountymd.gov) Bond Initiative : Training Facility at the Central Maryland Research and Education Center-Clarksville Facility Howard County Bills https://www.howardcountymd.gov/state-delegation Montgomery County Bills http://www.montgomerycountydelegation.com/ Maryland Bills https://mgaleg.maryland.gov/mgawebsite/Legislation/Index/house Share this: Share Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… %d

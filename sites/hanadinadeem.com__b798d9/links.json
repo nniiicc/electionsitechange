@@ -1,13 +1,82 @@
 [
-"https://facebook.com/profile.php?id=61557522335143",
-"https://hanadinadeem.com/",
-"https://hanadinadeem.com/about",
-"https://hanadinadeem.com/issues",
-"https://hanadinadeem.com/media",
-"https://hanadinadeem.com/privacy-policy",
-"https://hanadinadeem.com/terms-of-use",
-"https://instagram.com/hanadinadeem34",
-"https://secure.actblue.com/donate/committee-to-elect-hanadi-nadeem-1",
-"https://secure.actblue.com/donate/linda-for-nevada-1",
-"https://twitter.com/HanadiD34"
+{
+"text": "About",
+"href": "https://hanadinadeem.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/committee-to-elect-hanadi-nadeem-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/linda-for-nevada-1"
+},
+{
+"text": "Issues",
+"href": "https://hanadinadeem.com/issues"
+},
+{
+"text": "Media",
+"href": "https://hanadinadeem.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://hanadinadeem.com/privacy-policy"
+},
+{
+"text": "Terms of Use",
+"href": "https://hanadinadeem.com/terms-of-use"
+},
+{
+"text": "[image]",
+"href": "https://hanadinadeem.com/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/HanadiD34"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61557522335143"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/hanadinadeem34"
+},
+{
+"text": "[image]Education",
+"href": "https://hanadinadeem.com/issues#education"
+},
+{
+"text": "[image]Environment",
+"href": "https://hanadinadeem.com/issues#environment"
+},
+{
+"text": "[image]Gun Violence",
+"href": "https://hanadinadeem.com/issues#gunviolence"
+},
+{
+"text": "[image]Health Care",
+"href": "https://hanadinadeem.com/issues#healthcare"
+},
+{
+"text": "[image]Housing/Rental Cost",
+"href": "https://hanadinadeem.com/issues#housing"
+},
+{
+"text": "[image]Jobs & Economy",
+"href": "https://hanadinadeem.com/issues#jobs"
+},
+{
+"text": "[image]Public Safety",
+"href": "https://hanadinadeem.com/issues#publicsafety"
+},
+{
+"text": "[image]Reproductive Rights",
+"href": "https://hanadinadeem.com/issues#reproductiverights"
+},
+{
+"text": "view more",
+"href": "https://hanadinadeem.com/media"
+}
 ]

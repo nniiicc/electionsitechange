@@ -1,20 +1,98 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScA3P2wMWDFdL9KKaXVDLZU1ogZaospkZJXO9G5UE4-JvxYXQ/viewform?usp=header",
-"https://facebook.com/chuckmartinga",
-"https://forms.gle/sHAka29BcBAodm887",
-"https://irp.cdn-website.com/e8b4bfb5/files/uploaded/Martin_Legislative_Update_Newsletter.pdf",
-"https://martinforgeorgia.com/",
-"https://martinforgeorgia.com/about",
-"https://martinforgeorgia.com/contact-chuck",
-"https://martinforgeorgia.com/get-connected",
-"https://martinforgeorgia.com/newsletters",
-"https://martinforgeorgia.com/priorities",
-"https://martinforgeorgia.com/updates-original",
-"https://martinforgeorgia.com/zell/education",
-"https://martinforgeorgia.com/zell/election-integrity",
-"https://martinforgeorgia.com/zell/home-value",
-"https://martinforgeorgia.com/zell/returning-money",
-"https://martinforgeorgia.com/zell/transportation",
-"https://secure.anedot.com/martin-for-georgia/donate",
-"https://twitter.com/martin4ga"
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/martin-for-georgia/donate"
+},
+{
+"text": "Contact Chuck",
+"href": "https://www.martinforgeorgia.com/contact-chuck"
+},
+{
+"text": "Contact us",
+"href": "https://www.martinforgeorgia.com/contact-chuck"
+},
+{
+"text": "GET CONNECTED",
+"href": "https://www.martinforgeorgia.com/get-connected"
+},
+{
+"text": "Get a Yardsign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScA3P2wMWDFdL9KKaXVDLZU1ogZaospkZJXO9G5UE4-JvxYXQ/viewform?usp=header"
+},
+{
+"text": "HOME",
+"href": "https://www.martinforgeorgia.com/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.martinforgeorgia.com/about"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.martinforgeorgia.com/priorities"
+},
+{
+"text": "MEET CHUCK",
+"href": "https://www.martinforgeorgia.com/about"
+},
+{
+"text": "NEWSLETTERS",
+"href": "https://www.martinforgeorgia.com/newsletters"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.martinforgeorgia.com/priorities"
+},
+{
+"text": "UPDATES",
+"href": "https://www.martinforgeorgia.com/updates-original"
+},
+{
+"text": "YARD SIGN",
+"href": "https://forms.gle/sHAka29BcBAodm887"
+},
+{
+"text": "[image]",
+"href": "https://irp.cdn-website.com/e8b4bfb5/files/uploaded/Martin_Legislative_Update_Newsletter.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.martinforgeorgia.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.martinforgeorgia.com/zell/education"
+},
+{
+"text": "[image]",
+"href": "https://www.martinforgeorgia.com/zell/election-integrity"
+},
+{
+"text": "[image]",
+"href": "https://www.martinforgeorgia.com/zell/home-value"
+},
+{
+"text": "[image]",
+"href": "https://www.martinforgeorgia.com/zell/returning-money"
+},
+{
+"text": "[image]",
+"href": "https://www.martinforgeorgia.com/zell/transportation"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/chuckmartinga"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/martin4ga"
+},
+{
+"text": "[no text]",
+"href": "mailto:chuck@martinforgeorgia.com"
+},
+{
+"text": "[no text]",
+"href": "mailto:paul@mooreformilton.com"
+}
 ]

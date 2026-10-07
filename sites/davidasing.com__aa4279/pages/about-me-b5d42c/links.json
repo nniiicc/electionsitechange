@@ -1,6 +1,22 @@
 [
-"https://davidasing.com/",
-"https://davidasing.com/about-me",
-"https://davidasing.com/get-involved",
-"https://davidasing.com/mission"
+{
+"text": "About Me",
+"href": "https://www.davidasing.com/about-me"
+},
+{
+"text": "Get Involved",
+"href": "https://www.davidasing.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.davidasing.com"
+},
+{
+"text": "Mission",
+"href": "https://www.davidasing.com/mission"
+},
+{
+"text": "davidasing808@gmail.com",
+"href": "mailto:davidasing808@gmail.com"
+}
 ]

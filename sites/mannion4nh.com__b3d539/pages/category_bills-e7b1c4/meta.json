@@ -1,12 +1,19 @@
 {
  "description": "Posts about Bills written by Tom Mannion",
  "final_url": "https://mannion4nh.com/category/bills/",
- "paid_for_by": "Paid for by Tom Mannion for New Hampshire Create a website or blog at WordPress",
+ "fingerprint": "5b12608067d41a0925328096589b939a3b76e128",
+ "format": 3,
+ "paid_for_by": "authorized by law",
  "title": "Bills | Tom Mannion for New Hampshire",
  "years_mentioned": [
+  "2001",
+  "2002",
+  "2005",
   "2013",
   "2022",
   "2023",
-  "2025"
+  "2024",
+  "2025",
+  "2026"
  ]
 }

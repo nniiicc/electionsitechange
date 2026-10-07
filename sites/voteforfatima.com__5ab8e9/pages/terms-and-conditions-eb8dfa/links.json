@@ -1,10 +1,42 @@
 [
-"https://secure.anedot.com/friends-for-fatima-felton/ffwebsite",
-"https://voteforfatima.com/",
-"https://voteforfatima.com/-315852",
-"https://voteforfatima.com/about",
-"https://voteforfatima.com/cdn-cgi/l/email-protection",
-"https://voteforfatima.com/contact",
-"https://voteforfatima.com/privacy-policy",
-"https://voteforfatima.com/terms-and-conditions"
+{
+"text": "About Fatima",
+"href": "https://voteforfatima.com/about"
+},
+{
+"text": "Contact",
+"href": "https://voteforfatima.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-for-fatima-felton/ffwebsite"
+},
+{
+"text": "Home",
+"href": "https://voteforfatima.com/-315852"
+},
+{
+"text": "Privacy Policy",
+"href": "https://voteforfatima.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://voteforfatima.com/terms-and-conditions"
+},
+{
+"text": "[email protected]",
+"href": "https://voteforfatima.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Brand Logo]",
+"href": "https://voteforfatima.com/"
+},
+{
+"text": "[image: Sedrick Rowe Logo]",
+"href": "https://voteforfatima.com/"
+},
+{
+"text": "https://voteforfatima.com/privacy-policy",
+"href": "https://voteforfatima.com/privacy-policy"
+}
 ]

@@ -1,5 +1,5 @@
-I'm Every Woman: Black Maternal Health Week 2022
-This week is Black Maternal Health Week!
+top of page HOME DONATE ABOUT PLATFORMS Strong Schools Healthy Families Safe Communities CONTACT VOLUNTEER More Use tab to navigate through the menu items.
+All Articles Politics Human Trafficking Criminal Justice Social Justice Racial Justice Education Healthcare Maternal Healthcare Voting Rights Blog Search I'm Every Woman: Black Maternal Health Week 2022 London Apr 11, 2022 2 min read This week is Black Maternal Health Week!
 Founded by the Black Mamas Matter Alliance in 2017, Black Maternal Health Week is a time to reflect on the current state of Black maternal health and understand we can move forward.
 My week of action will bring together providers, non-profits, community members, legislators, and state departments to raise awareness around the state of Black maternal health in Tennessee.
 Tragically, in Tennessee, Black women are 3.9 times more likely to die from pregnancy-related or associated causes.
@@ -7,8 +7,8 @@ We must work together to ensure that every mother thrives through their pregnanc
 To begin this important conversation, I am hosting a virtual Doula Day on the Hill, tomorrow, Tuesday, April 12 from 9am-3pm.
 Attendees will hear from experts in the field about the state of Black maternal health, learn about potential resources, and talk with legislators about key maternal health legislation.
 I invite you to join us tomorrow for this important conversation!
-Please register at LondonLamar.com/bmhweek.
-I will also be streaming this discussion from my Facebook page at facebook.com/SenatorLondonLamar.
+Please register at LondonLamar.com/bmhweek .
+I will also be streaming this discussion from my Facebook page at facebook.com/SenatorLondonLamar .
 On Thursday, I am launching a joint, bipartisan caucus for state legislators that will focus on crafting legislation that will improve maternal health outcomes for all moms in Tennessee.
 Tune into our inaugural caucus meeting on the TN General Assembly website.
 On Saturday, I am hosting a celebratory brunch to recognize and honor the work of maternal health organizations serving moms and babies in the Memphis area.
@@ -17,3 +17,7 @@ I am also collecting diapers for families in need.
 If you would like to donate, please send me an email to coordinate a drop-off location.
 I am excited to see you for this week of action.
 If you have any questions or concerns, please don’t hesitate to reach out to me at sen.london.lamar@capitol.tn.gov or call my office at 615-741-2509.
+Recent Posts See All Coming to a Close...
+Updates from the Senate Sen.
+London Lamar passes first bill through Senate Home About Me News Events Get Involved Contact Paid for by London Lamar for State Senate Sen.
+London Lamar 901-730-6281 info@LondonLamar.com ​ Legislative Office 425 5th Ave N, Suite 762 Nashville, TN 37243 615-741-2590 Sen.London.Lamar@capitol.tn.gov bottom of page

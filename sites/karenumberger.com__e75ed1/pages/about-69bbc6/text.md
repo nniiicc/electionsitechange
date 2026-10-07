@@ -1,5 +1,4 @@
-ABOUT KAREN
-Karen was raised in a small town in Northern New York, population 6,000.
+603.356.6881 karen@karenumberger.com Facebook Facebook HOME ABOUT ENDORSEMENTS ISSUES LINKS NEWS DONATE Select Page ABOUT KAREN Karen was raised in a small town in Northern New York, population 6,000.
 She headed off to college and graduated with a BA in Political Science and later received an MA in International Relations.
 She taught elementary school for three years before joining the US Air Force, where she spent 28 years, rising to the rank of Colonel.
 Following her retirement Karen and her husband Jim found their forever home in North Conway, NH.
@@ -20,3 +19,4 @@ She was appointed by the Governor to the Law Enforcement Conduct Review Committe
 She has enjoyed this work as it has provided a deeper understanding of law enforcement and the problems the State is facing with drinking water and groundwater.
 Locally, she is an active member of VFW Post 5386, she serves on the MWV Career Tech Center Regional Advisory Board, an active member of the North Conway Rotary Club and is a trustee of the Mount Washington Observatory.
 Karen asks for your vote on September 8 and November 3, 2026.
+Facebook Copyright © # • Paid For By Karen Umberger for State Representative • Carroll County District 1 • Conway, New Hampshire

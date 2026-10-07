@@ -1,16 +1,66 @@
 [
-"https://facebook.com/SteveWollVA",
-"https://instagram.com/stevewollva",
-"https://linkedin.com/in/steve-woll",
-"https://policies.google.com/privacy",
-"https://secure.anedot.com/steve-woll-for-congress/steve-woll-for-congress",
-"https://stevewoll.com/",
-"https://stevewoll.com/accessibility-statement",
-"https://stevewoll.com/blog",
-"https://stevewoll.com/getinvolved",
-"https://stevewoll.com/issues",
-"https://stevewoll.com/meetsteve",
-"https://stevewoll.com/privacy-policy",
-"https://stevewoll.com/terms-and-conditions",
-"https://tools.google.com/dlpage/gaoptout"
+{
+"text": "ABOUT",
+"href": "https://www.stevewoll.com/meetsteve"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.stevewoll.com/accessibility-statement"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/steve-woll-for-congress/steve-woll-for-congress"
+},
+{
+"text": "Donate Now",
+"href": "https://www.stevewoll.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stevewoll.com/getinvolved"
+},
+{
+"text": "Google Analytics Opt-Out Browser Add-on",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "Issues",
+"href": "https://www.stevewoll.com/issues"
+},
+{
+"text": "Press",
+"href": "https://www.stevewoll.com/blog"
+},
+{
+"text": "Privacy Policy |",
+"href": "https://www.stevewoll.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions |",
+"href": "https://www.stevewoll.com/terms-and-conditions"
+},
+{
+"text": "[image: FINAL STEVE WOLL Logo 1.png]",
+"href": "https://www.stevewoll.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SteveWollVA"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/stevewollva/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/steve-woll/"
+},
+{
+"text": "https://policies.google.com/privacy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "info@stevewoll.com",
+"href": "mailto:info@stevewoll.com"
+}
 ]

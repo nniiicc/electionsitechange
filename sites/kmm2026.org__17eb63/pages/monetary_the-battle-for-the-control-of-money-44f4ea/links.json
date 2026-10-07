@@ -1,62 +1,254 @@
 [
-"http://america.aljazeera.com/opinions/2015/2/new-evidence-suggests-that-the-rich-own-our-democracy.html",
-"http://documents.worldbank.org/curated/en/975081468244550798/Main-report",
-"http://economistsview.typepad.com/economistsview/2013/12/imf-admits-it-underestimated-the-fiscal-multiplier.html",
-"http://globalresearch.ca/its-not-just-the-oil-the-middle-east-war-and-the-conquest-of-natural-gas-reserves/5307589",
-"http://huffingtonpost.com/paul-blumenthal/how-congress-rushed-a-bil_b_181926.html",
-"http://monetary.org/home/order-lost-science-of-money",
-"http://ophi.org.uk/wp-content/uploads/OPHI-wp06.pdf",
-"http://telegraph.co.uk/finance/financialcrisis/10262850/IMF-admits-it-misjudged-impact-of-austerity-on-Greece.html",
-"http://tinyurl.com/3rdWorldDebt",
-"http://tinyurl.com/MoneyWars",
-"http://tinyurl.com/QTMfails",
-"http://tinyurl.com/cfma2000",
-"http://tinyurl.com/oilgaswars",
-"https://amazon.com/Debt-First-5-000-Years/dp/1612191290",
-"https://asadzaman.net/",
-"https://discord.com/login",
-"https://economicshelp.org/blog/6864/economics/financial-instability-hypothesis",
-"https://ellenbrown.com/books/the-public-bank-solution",
-"https://en.wikipedia.org/wiki/Heterodox_economics",
-"https://en.wikipedia.org/wiki/Savings_and_loan_crisis",
-"https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable",
-"https://environmentamerica.org/texas/articles/data-center-moratorium-now",
-"https://environmentamerica.org/texas/media-center/release-gas-power-plant-proposals-surging-new-interactive-map-shows",
-"https://feeds.texastribune.org/link/16799/17489722/ken-paxton-third-quarter-fundraising-texas-senate-race-2026",
-"https://feeds.texastribune.org/link/16799/17489834/vote-2",
-"https://forbes.com/sites/johntharvey/2011/05/14/money-growth-does-not-cause-inflation",
-"https://greensocialthought.org/labor-economics/reflections-on-academic-tenure-prompted-by-events-at-the-new-school",
-"https://greensocialthought.org/thinking-politically/u-s-steps-up-pressure-on-uruguay-to-expel-cuban-medical-brigade",
-"https://instagram.com/kevinmccormick2026",
-"https://kmm2026.org/",
-"https://kmm2026.org/2016campaign",
-"https://kmm2026.org/2016campaign/the-nature-of-money-in-modern-economy-implications-and-consequences",
-"https://kmm2026.org/about",
-"https://kmm2026.org/business-cards",
-"https://kmm2026.org/campaign2026",
-"https://kmm2026.org/contact",
-"https://kmm2026.org/documents/153873_29-02-06-Zaman.pdf",
-"https://kmm2026.org/donate-now",
-"https://kmm2026.org/issues2026",
-"https://kmm2026.org/monetary",
-"https://kmm2026.org/monetary/mrblog",
-"https://kmm2026.org/monetary/the-nature-of-money-in-modern-economy-implications-and-consequences",
-"https://kmm2026.org/monetary/the-need-act-hr-2990",
-"https://kmm2026.org/transportation",
-"https://oxfam.org/en/pressroom/pressreleases/2016-01-18/62-people-own-same-half-world-reveals-oxfam-davos-report",
-"https://reportingtexas.com/para-pacientes-y-medicos-nacidos-en-el-extranjero-el-miedo-a-las-politicas-migratorias-se-convierte-en-una-barrera-para-acceder-a-la-atencion-medica",
-"https://reportingtexas.com/political-influencer-piker-challenges-ut-free-speech-policy-and-security-protocols",
-"https://rwer.wordpress.com/2016/04/14/capitalism-is-the-legitimate-racket-of-the-ruling-class",
-"https://rwer.wordpress.com/?s=out+of+the+shadows",
-"https://sciencedirect.com/science/article/pii/S1057521912000555",
-"https://secure.facebook.com/login",
-"https://texasfarmbureau.org/citrus-harvest-set-to-begin-after-hot-dry-summer",
-"https://texasfarmbureau.org/farmers-call-for-federal-diesel-price-relief",
-"https://texasfarmbureau.org/invasive-pests-threaten-texas-agriculture",
-"https://theguardian.com/global-development/2013/aug/20/norway-audit-developing-world-debt",
-"https://usrtk.org/covid-19-origins/foi-documents-on-origins-of-sars-cov-2-risks-of-gain-of-function-research-and-biosafety-labs",
-"https://usrtk.org/covid-19-origins/origin-of-sars-cov-2-gain-of-function-readings",
-"https://usrtk.org/healthwire/hormone-disrupting-pfas-chemical-mixtures-linked-to-childhood-obesity",
-"https://x.com/signin",
-"https://youtube.com/channel/UCfE_fNtURgx6YExJUJkG-TA"
+{
+"text": "2016 Campaign",
+"href": "https://www.kmm2026.org/2016campaign"
+},
+{
+"text": "62 people own the same as half the world, reveals Oxfam Davos report",
+"href": "https://www.oxfam.org/en/pressroom/pressreleases/2016-01-18/62-people-own-same-half-world-reveals-oxfam-davos-report"
+},
+{
+"text": "About",
+"href": "https://www.kmm2026.org/about"
+},
+{
+"text": "Brown",
+"href": "https://ellenbrown.com/books/the-public-bank-solution/"
+},
+{
+"text": "Business Card Campaign",
+"href": "https://www.kmm2026.org/business-cards"
+},
+{
+"text": "Campaign Donations",
+"href": "https://www.kmm2026.org/donate-now"
+},
+{
+"text": "Campaign-2026",
+"href": "https://www.kmm2026.org/campaign2026"
+},
+{
+"text": "Capitalism is the legitimate racket of the ruling class",
+"href": "https://rwer.wordpress.com/2016/04/14/capitalism-is-the-legitimate-racket-of-the-ruling-class/"
+},
+{
+"text": "Contact",
+"href": "https://www.kmm2026.org/contact"
+},
+{
+"text": "Data center moratorium now",
+"href": "https://environmentamerica.org/texas/articles/data-center-moratorium-now/"
+},
+{
+"text": "Debt: The First 5000 Years",
+"href": "https://www.amazon.com/Debt-First-5-000-Years/dp/1612191290"
+},
+{
+"text": "East Asian Miracle",
+"href": "http://documents.worldbank.org/curated/en/975081468244550798/Main-report"
+},
+{
+"text": "FOI documents on origins of Covid-19, gain-of-function research and biolabs",
+"href": "https://usrtk.org/covid-19-origins/foi-documents-on-origins-of-sars-cov-2-risks-of-gain-of-function-research-and-biosafety-labs/"
+},
+{
+"text": "FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs",
+"href": "https://usrtk.org/covid-19-origins/foi-litigation-on-origins-of-sars-cov-2-gain-of-function-2/"
+},
+{
+"text": "Farmers call for federal diesel price relief",
+"href": "https://texasfarmbureau.org/farmers-call-for-federal-diesel-price-relief/"
+},
+{
+"text": "Financial Fragility Hypothesis",
+"href": "https://www.economicshelp.org/blog/6864/economics/financial-instability-hypothesis/"
+},
+{
+"text": "Harvey (2011)",
+"href": "https://www.forbes.com/sites/johntharvey/2011/05/14/money-growth-does-not-cause-inflation/#4c38f36842f5"
+},
+{
+"text": "Home",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "Hormone-disrupting chemical mixtures linked to excess childhood weight",
+"href": "https://usrtk.org/healthwire/hormone-disrupting-pfas-chemical-mixtures-linked-to-childhood-obesity/"
+},
+{
+"text": "How Congress Rushed a Bill that Helped Bring the Economy to Its Knees",
+"href": "http://www.huffingtonpost.com/paul-blumenthal/how-congress-rushed-a-bil_b_181926.html"
+},
+{
+"text": "IMF Admits It Underestimated the Fiscal Multiplier",
+"href": "http://economistsview.typepad.com/economistsview/2013/12/imf-admits-it-underestimated-the-fiscal-multiplier.html"
+},
+{
+"text": "IMF admits it misjudged impact of austerity on Greece",
+"href": "http://www.telegraph.co.uk/finance/financialcrisis/10262850/IMF-admits-it-misjudged-impact-of-austerity-on-Greece.html"
+},
+{
+"text": "Issues-2026",
+"href": "https://www.kmm2026.org/issues2026"
+},
+{
+"text": "Lost Science of Money",
+"href": "http://www.monetary.org/home/order-lost-science-of-money"
+},
+{
+"text": "MR-Blog",
+"href": "https://www.kmm2026.org/monetary/mrblog"
+},
+{
+"text": "Monetary",
+"href": "https://www.kmm2026.org/monetary"
+},
+{
+"text": "Next article: The Nature of Money in Modern Economy -- Implications and Consequences Next",
+"href": "https://www.kmm2026.org/monetary/the-nature-of-money-in-modern-economy-implications-and-consequences"
+},
+{
+"text": "Out of the shadows",
+"href": "https://rwer.wordpress.com/?s=out+of+the+shadows"
+},
+{
+"text": "PDF Document",
+"href": "https://www.kmm2026.org/documents/153873_29-02-06-Zaman.pdf"
+},
+{
+"text": "PDF document",
+"href": "http://www.ophi.org.uk/wp-content/uploads/OPHI-wp06.pdf"
+},
+{
+"text": "Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica",
+"href": "https://www.reportingtexas.com/para-pacientes-y-medicos-nacidos-en-el-extranjero-el-miedo-a-las-politicas-migratorias-se-convierte-en-una-barrera-para-acceder-a-la-atencion-medica/"
+},
+{
+"text": "Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols",
+"href": "https://www.reportingtexas.com/political-influencer-piker-challenges-ut-free-speech-policy-and-security-protocols/"
+},
+{
+"text": "Previous article: The NEED Act (HR 2990) Prev",
+"href": "https://www.kmm2026.org/monetary/the-need-act-hr-2990"
+},
+{
+"text": "RELEASE: Gas power plant proposals surging, new interactive map shows",
+"href": "https://environmentamerica.org/texas/media-center/release-gas-power-plant-proposals-surging-new-interactive-map-shows/"
+},
+{
+"text": "Reflections on academic tenure prompted by events at The New School",
+"href": "https://www.greensocialthought.org/labor-economics/reflections-on-academic-tenure-prompted-by-events-at-the-new-school/"
+},
+{
+"text": "Savings and Loan Crisis",
+"href": "https://en.wikipedia.org/wiki/Savings_and_loan_crisis"
+},
+{
+"text": "Students discuss ag issues during 2026 SOFA Challenge",
+"href": "https://texasfarmbureau.org/students-discuss-ag-issues-during-2026-sofa-challenge/"
+},
+{
+"text": "Texas comptroller investigating spending in Austin ISD, other districts",
+"href": "https://feeds.texastribune.org/link/16799/17490892/texas-school-district-spending-review"
+},
+{
+"text": "Texas governor 2026: Who is running and what to know",
+"href": "https://feeds.texastribune.org/link/16799/17490893/texas-governor-2026-guide-abbott-hinojosa"
+},
+{
+"text": "The Black Swan: The Impact of the Highly Improbable",
+"href": "https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable"
+},
+{
+"text": "The Web of Debt and The Public Bank Solution",
+"href": "https://ellenbrown.com/books/the-public-bank-solution/"
+},
+{
+"text": "The rich own our democracy",
+"href": "http://america.aljazeera.com/opinions/2015/2/new-evidence-suggests-that-the-rich-own-our-democracy.html"
+},
+{
+"text": "Transportation",
+"href": "https://www.kmm2026.org/transportation"
+},
+{
+"text": "Trump signs order that expands access to tax-exempt diesel",
+"href": "https://texasfarmbureau.org/trump-signs-order-that-expands-access-to-tax-exempt-diesel/"
+},
+{
+"text": "U.S. Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade",
+"href": "https://www.greensocialthought.org/thinking-politically/u-s-steps-up-pressure-on-uruguay-to-expel-cuban-medical-brigade/"
+},
+{
+"text": "Washington’s Blog (2012)",
+"href": "http://www.globalresearch.ca/its-not-just-the-oil-the-middle-east-war-and-the-conquest-of-natural-gas-reserves/5307589"
+},
+{
+"text": "Werner (2012)",
+"href": "https://www.sciencedirect.com/science/article/pii/S1057521912000555"
+},
+{
+"text": "Zarlenga and Poteat (2016)",
+"href": "https://www.kmm2026.org/2016campaign/the-nature-of-money-in-modern-economy-implications-and-consequences"
+},
+{
+"text": "[Norway Audit]",
+"href": "https://www.theguardian.com/global-development/2013/aug/20/norway-audit-developing-world-debt"
+},
+{
+"text": "[image: acacia farnesiana]",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "[link]",
+"href": "http://tinyurl.com/MoneyWars"
+},
+{
+"text": "[link]",
+"href": "http://tinyurl.com/QTMfails"
+},
+{
+"text": "[link]",
+"href": "http://tinyurl.com/cfma2000"
+},
+{
+"text": "[link]",
+"href": "http://tinyurl.com/oilgaswars"
+},
+{
+"text": "[no text]",
+"href": "https://discord.com/login"
+},
+{
+"text": "[no text]",
+"href": "https://secure.facebook.com/login/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kevinmccormick2026/"
+},
+{
+"text": "[no text]",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCfE_fNtURgx6YExJUJkG-TA"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/signin"
+},
+{
+"text": "audit of developing world debt",
+"href": "http://tinyurl.com/3rdWorldDebt"
+},
+{
+"text": "heterodox",
+"href": "https://en.wikipedia.org/wiki/Heterodox_economics"
+},
+{
+"text": "website",
+"href": "https://asadzaman.net/"
+}
 ]

@@ -1,12 +1,34 @@
 [
-"http://google.com/privacy/ads",
-"http://networkadvertising.org/choices",
-"https://facebook.com/profile.php?id=61584845901353",
-"https://google.com/ads/preferences",
-"https://google.com/settings/ads/onweb",
-"https://randymaxwell.com/",
-"https://randymaxwell.com/cdn-cgi/l/email-protection",
-"https://randymaxwell.com/privacy-policy",
-"https://secure.winred.com/maxwell-for-indiana/donate-today",
-"https://support.google.com/ads/answer/2662922?hl=en"
+{
+"text": "<< Back to site",
+"href": "https://www.randymaxwell.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/maxwell-for-indiana/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.randymaxwell.com/privacy-policy"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@randymaxwell.wpenginepowered.com"
+},
+{
+"text": "[image: Facebook icon]",
+"href": "https://www.facebook.com/profile.php?id=61584845901353"
+},
+{
+"text": "[image: Randy Maxwell]",
+"href": "https://www.randymaxwell.com/"
+},
+{
+"text": "https://support.google.com/ads/answer/2662922?hl=en",
+"href": "https://support.google.com/ads/answer/2662922?hl=en"
+},
+{
+"text": "https://www.randymaxwell.com",
+"href": "https://www.randymaxwell.com"
+}
 ]

@@ -1,28 +1,16 @@
-Bills Filed by Representative Daphne Campbell
-Senator Daphne Campbell D-38 Signed into Law (2011-2018)
-- CS/CS/CS/CS/HB 479 - Medical MalpracticeGeneral Bill by Judiciary Committee, Health Care Appropriations Subcommittee, Health & Human Services Access Subcommittee, Civil Justice Subcommittee, Horner, Campbell
-Last Event: Tuesday, June 28, 2011 - Chapter No. 2011-2332
-- HM 151 - Haitian Family Reunification Parole ProgramMemorial by Campbell, Rogers
-Last Event: Monday, April 29, 2013 - Laid on Table; companion bill(s) passed, see SM 1478
-- CS/HB 361 - Public Meetings/Criminal Justice CommissionsGeneral Bill by Criminal Justice Subcommittee, Kerner, Campbell
-Last Event: Monday, June 17, 2013 - Chapter No. 2013-1964
-- CS/HB 413 - Physical TherapyGeneral Bill by Health Quality Subcommittee, Hutson, Campbell
-Last Event: Monday, June 17, 2013 - Chapter No. 2013-197
-- CS/CS/HB 609 - Bullying in the Public School SystemGeneral Bill by Education Committee, K-12 Subcommittee, Fullwood, Campbell
-Last Event: Thursday, May 30, 2013 - Chapter No. 2013-87
-- CS/HB 731 - Pub.
-Rec./Spouses & Children of Law Enforcement & Agency PersonnelGeneral Bill by Criminal Justice Subcommittee, Kerner, Campbell
-Last Event: Monday, July 01, 2013 - Chapter No. 2013-243
-- CS/CS/HB 7125 - Department of Highway Safety & Motor VehiclesGeneral Bill by Economic Affairs Committee, Transportation & Economic Development Appropriations Subcommittee, Transportation & Highway Safety Subcommittee, Raburn, Campbell
-Last Event: Thursday, June 13, 2013 - Chapter No. 2013-160
-- HR 9083 - Asa Philip RandolphResolution by Campbell
-Last Event: Thursday, April 11, 2013 - Adopted by Publication
-- CS/CS/CS/HB 41 - Florida Law Enforcement Officers’ Hall of FameGeneral Bill by Judiciary Committee, Justice Appropriations Subcommittee, Criminal Justice Subcommittee, Campbell, Kerner
-Last Event: Friday, June 20, 2014 - Chapter No. 2014-192
-- HB 43 - Inmate ReentryGeneral Bill by Campbell
-Last Event: Friday, May 02, 2014 - Died in Criminal Justice Subcommittee; companion bill(s) passed, see CS/CS/HB 53
-… and so on.
-Reach Out
-Have any questions or ideas you need to run by me, or just want to chat?
-Reach out and I'll respond as soon as I can!
-I'm excited to hear from you.
+Running for State Representative of District 108 , join me in the fight for better healthcare, education, gun violence prevention and housing!
+Home Initiatives Petition & Yard Sign Support Form Bio Accomplishments Comment Accomplishments Press Releases Blog Contact Stand With Daphne – Give Today 0 Bills Filed by Representative Daphne Campbell Senator Daphne Campbell D-38 Signed into Law (2011-2018) CS/CS/CS/CS/HB 479 - Medical Malpractice General Bill by Judiciary Committee, Health Care Appropriations Subcommittee, Health & Human Services Access Subcommittee, Civil Justice Subcommittee, Horner, Campbell Last Event: Tuesday, June 28, 2011 - Chapter No.
+2011-2332 HM 151 - Haitian Family Reunification Parole Program Memorial by Campbell, Rogers Last Event: Monday, April 29, 2013 - Laid on Table; companion bill(s) passed, see SM 1478 CS/HB 361 - Public Meetings/Criminal Justice Commissions General Bill by Criminal Justice Subcommittee, Kerner, Campbell Last Event: Monday, June 17, 2013 - Chapter No.
+2013-1964 CS/HB 413 - Physical Therapy General Bill by Health Quality Subcommittee, Hutson, Campbell Last Event: Monday, June 17, 2013 - Chapter No.
+2013-197 CS/CS/HB 609 - Bullying in the Public School System General Bill by Education Committee, K-12 Subcommittee, Fullwood, Campbell Last Event: Thursday, May 30, 2013 - Chapter No.
+2013-87 CS/HB 731 - Pub.
+Rec./Spouses & Children of Law Enforcement & Agency Personnel General Bill by Criminal Justice Subcommittee, Kerner, Campbell Last Event: Monday, July 01, 2013 - Chapter No.
+2013-243 CS/CS/HB 7125 - Department of Highway Safety & Motor Vehicles General Bill by Economic Affairs Committee, Transportation & Economic Development Appropriations Subcommittee, Transportation & Highway Safety Subcommittee, Raburn, Campbell Last Event: Thursday, June 13, 2013 - Chapter No.
+2013-160 HR 9083 - Asa Philip Randolph Resolution by Campbell Last Event: Thursday, April 11, 2013 - Adopted by Publication CS/CS/CS/HB 41 - Florida Law Enforcement Officers’ Hall of Fame General Bill by Judiciary Committee, Justice Appropriations Subcommittee, Criminal Justice Subcommittee, Campbell, Kerner Last Event: Friday, June 20, 2014 - Chapter No.
+2014-192 HB 43 - Inmate Reentry General Bill by Campbell Last Event: Friday, May 02, 2014 - Died in Criminal Justice Subcommittee; companion bill(s) passed, see CS/CS/HB 53 … and so on.
+Related State Representative Daphne Campbell — 2012 Legislative Session Newsletter District 108 | Florida House of Representatives A Message from Representative Campbell Dear Constituents, I have recently wrapped up my second Legislative Session in the Florida House of Representatives.
+I returned to Tallahassee in January to start an early session due to Florida redistricting.
+The 2012 … Read more State Representative Daphne Campbell — 2011 Legislative Newsletter District 108 | Florida House of Representatives A Message from Representative Campbell Dear constituents, supporters, and friends, I am very pleased to present my first legislative newsletter to the community of District 108.
+It has been nearly a year since I have represented the people of Miami Shores and I … Read more Senator Campbell's 2018 Appropriations Projects Introduced into HB 5001 — Filed March 19, 2018 Senator Campbell worked tirelessly to secure critical funding for the cities and communities of Senate District 38.
+Below is a full breakdown of every project she introduced, the amounts requested, and the final outcomes.
+Environment & Water Projects Bal Harbour … Read more Contact Me 7310 NW 7th Avenue, Miami, Florida [email protected] Instagram Facebook Merchant Policies Legal Notice Powered by

@@ -1,13 +1,3 @@
-WI State Senate Map for 2026
-New seat, new district!
-Robyn is running for State Senate District 5 in 2026, which includes:
-- City of Brookfield
-- Town of Brookfield
-- Elm Grove
-- Part of Milwaukee
-- City of Pewaukee
-- Village of Pewaukee
-- Part of Waukesha
-- Part of Wauwatosa
-- Part of West Allis
-Use the map or click the button below to search your address and see if you are in Senate District 5.
+District Map Voting Merch Gallery Press Home Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care For Our Climate Violence Prevention Justice for All Working Together Endorsements Endorsements Faces of the District Awards Meet Robyn Get Involved Merch Volunteer Knock Doors Request a Yard Sign Reading Wins Contact Donate Select Page WI State Senate Map for 2026 New seat, new district!
+Robyn is running for State Senate District 5 in 2026, which includes: City of Brookfield Town of Brookfield Elm Grove Part of Milwaukee City of Pewaukee Village of Pewaukee Part of Waukesha Part of Wauwatosa Part of West Allis Use the map or click the button below to search your address and see if you are in Senate District 5.
+Senate District 5 Map Associated Assembly Districts Associated Assembly Districts  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

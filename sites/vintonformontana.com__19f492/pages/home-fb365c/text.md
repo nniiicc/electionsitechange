@@ -1,5 +1,9 @@
-i'm Honored to serve Montana.
-Vote for Mike Vinton
-Connect, ask questions, and support Montana's future.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+HOME ABOUT MIKE ISSUES CONTACT DONATE More HOME ABOUT MIKE ISSUES CONTACT DONATE HOME ABOUT MIKE ISSUES CONTACT DONATE i'm Honored to serve Montana.
+Vote for Mike Vinton i'm Honored to serve Montana.
+Vote for Mike Vinton i'm Honored to serve Montana.
+Vote for Mike Vinton i'm Honored to serve Montana.
+Vote for Mike Vinton Connect, ask questions, and support Montana's future.
+Copyright © # Vinton for Montana - All Rights Reserved.
+Powered by Support Montana Values Stand with Montana.
+Learn more.
+Join the Movement

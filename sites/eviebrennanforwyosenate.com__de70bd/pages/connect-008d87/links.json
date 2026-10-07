@@ -1,9 +1,38 @@
 [
-"https://eviebrennanforwyosenate.com/",
-"https://eviebrennanforwyosenate.com/about",
-"https://eviebrennanforwyosenate.com/connect",
-"https://eviebrennanforwyosenate.com/contribute",
-"https://eviebrennanforwyosenate.com/issues",
-"https://eviebrennanforwyosenate.com/news",
-"https://facebook.com/eviebrennanforwyosenate"
+{
+"text": "About",
+"href": "https://www.eviebrennanforwyosenate.com/about"
+},
+{
+"text": "Connect",
+"href": "https://www.eviebrennanforwyosenate.com/connect"
+},
+{
+"text": "Contribute",
+"href": "https://www.eviebrennanforwyosenate.com/contribute"
+},
+{
+"text": "EVIE BRENNAN",
+"href": "https://www.eviebrennanforwyosenate.com"
+},
+{
+"text": "Home",
+"href": "https://www.eviebrennanforwyosenate.com"
+},
+{
+"text": "Issues",
+"href": "https://www.eviebrennanforwyosenate.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.eviebrennanforwyosenate.com/news"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/eviebrennanforwyosenate"
+},
+{
+"text": "eviebrennanforwyosenate@gmail.com",
+"href": "mailto:eviebrennanforwyosenate@gmail.com"
+}
 ]

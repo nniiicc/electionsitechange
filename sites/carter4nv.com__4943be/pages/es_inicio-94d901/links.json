@@ -1,12 +1,78 @@
 [
-"https://carter4nv.com/",
-"https://carter4nv.com/es/acerca-de-max-carter",
-"https://carter4nv.com/es/aviso-de-privacidad",
-"https://carter4nv.com/es/inicio",
-"https://carter4nv.com/es/medios",
-"https://carter4nv.com/es/temas",
-"https://carter4nv.com/es/terminos-de-uso",
-"https://facebook.com/Max4ad12",
-"https://secure.actblue.com/donate/linda-for-nevada-1",
-"https://secure.actblue.com/donate/the-committee-to-elect-max-e--carter-ii-1"
+{
+"text": "Acerca de max",
+"href": "https://www.carter4nv.com/es/acerca-de-max-carter"
+},
+{
+"text": "Aviso de Privacidad",
+"href": "https://www.carter4nv.com/es/aviso-de-privacidad"
+},
+{
+"text": "Donar",
+"href": "https://secure.actblue.com/donate/the-committee-to-elect-max-e--carter-ii-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/linda-for-nevada-1"
+},
+{
+"text": "English",
+"href": "https://www.carter4nv.com/"
+},
+{
+"text": "Medios",
+"href": "https://www.carter4nv.com/es/medios"
+},
+{
+"text": "Temas",
+"href": "https://www.carter4nv.com/es/temas"
+},
+{
+"text": "Términos de Uso",
+"href": "https://www.carter4nv.com/es/terminos-de-uso"
+},
+{
+"text": "Ver más",
+"href": "https://www.carter4nv.com/es/medios"
+},
+{
+"text": "[image]",
+"href": "https://www.carter4nv.com/es/inicio"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/Max4ad12"
+},
+{
+"text": "[image]Atención Médica",
+"href": "https://www.carter4nv.com/es/temas#healthcare"
+},
+{
+"text": "[image]Atención Médica para Mujeres",
+"href": "https://www.carter4nv.com/es/temas#womenshealth"
+},
+{
+"text": "[image]Educación",
+"href": "https://www.carter4nv.com/es/temas#education"
+},
+{
+"text": "[image]Empleos Bien Pagados y Economía",
+"href": "https://www.carter4nv.com/es/temas#jobs"
+},
+{
+"text": "[image]Privacidad y Seguridad",
+"href": "https://www.carter4nv.com/es/temas#privacy"
+},
+{
+"text": "[image]Reducción de Costos",
+"href": "https://www.carter4nv.com/es/temas#costs"
+},
+{
+"text": "[image]Seguridad Pública",
+"href": "https://www.carter4nv.com/es/temas#safety"
+},
+{
+"text": "[image]Vivienda",
+"href": "https://www.carter4nv.com/es/temas#housing"
+}
 ]

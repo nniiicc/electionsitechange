@@ -1,21 +1,3 @@
-Anita is proud to be endorsed by trusted community leaders and organizations
-Organizations
-American Federation of State, County, and Municipal Employees (AFSCME) Council 18
-American Federation of Teachers (AFT) New Mexico
-Communication Workers of America (CWA) Local 7076 – 7011
-Conservation Voters New Mexico (CVNM)
-Equality New Mexico (EQNM)
-International Brotherhood of Electrical Workers (IBEW) Local 611
-National Education Association (NEA) New Mexico
-New Mexico Hospital Workers Union Local #1199
-New Mexico Native Vote
-New Mexico Voices for Children
-New Mexico Wild
-OLE
-Planned Parenthood Votes New Mexico
-Plumbers & Pipefitters UA Local 412
-Semilla Action
-Sierra Club Rio Grande Chapter
-Southwest Regional Council of Carpenters
-Teamsters Local 492
-Young Democrats of New Mexico
+Democrat for NM House District 70 Home About About Anita Gonzales About House District 70 Voting Contribute Priorities Endorsements Volunteer News/Events Upcoming Events News Contact Endorsements Anita is proud to be endorsed by trusted community leaders and organizations Organizations American Federation of State, County, and Municipal Employees (AFSCME) Council 18 American Federation of Teachers (AFT) New Mexico Communication Workers of America (CWA) Local 7076 – 7011 Conservation Voters New Mexico (CVNM) Equality New Mexico (EQNM) International Brotherhood of Electrical Workers (IBEW) Local 611 National Education Association (NEA) New Mexico New Mexico Hospital Workers Union Local #1199 New Mexico Native Vote New Mexico Voices for Children New Mexico Wild OLE Planned Parenthood Votes New Mexico Plumbers & Pipefitters UA Local 412 Semilla Action Sierra Club Rio Grande Chapter Southwest Regional Council of Carpenters Teamsters Local 492 Young Democrats of New Mexico Please see below to be added to our list of endorsers! “ I’m proud to have the support of these individuals and organizations.
+Together we can ‘Be the Change.’ ” Anita Gonzales NM House District 70 Candidate Connect with our campaign Paid for and authorized by the Friends for Anita Gonzales Martha Peña, Treasurer Site Map | Privacy Policy ©#-#, Friends for Anita Gonzales; All rights reserved.
+Edit This | Admin Designed and developed by Evo Home About Anita About District 70 Voting Contribute Priorities Endorsements Volunteer Events News Contact Home About About Anita Gonzales About House District 70 Voting Contribute Priorities Endorsements Volunteer News/Events Upcoming Events News Contact

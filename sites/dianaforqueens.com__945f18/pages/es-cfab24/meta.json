@@ -1,7 +1,12 @@
 {
- "description": "Diana Moreno es una mam\u00e1 de Queens, organizadora inmigrante, y socialista democr\u00e1tica que se postula para la Asamblea Estatal para luchar contra el fascismo, defender a Queens, y lograr un futuro asequible para todas nuestras familias.",
+ "description": "Diana Moreno es una mamá de Queens, organizadora inmigrante, y socialista democrática que se postula para la Asamblea Estatal para luchar contra el fascismo, defender a Queens, y lograr un futuro asequible para todas nuestras familias.",
  "final_url": "https://dianaforqueens.com/es/",
- "paid_for_by": null,
+ "fingerprint": "40c7b8365d44e9c1a7adf48f756af7b190a6cbca",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Diana for Queens | Candidata para el Distrito 36 de la Asamblea",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

@@ -1,8 +1,3 @@
-Great to see the 4-H clubs exhibits at the Goshen Fair grounds.
+Skip to primary navigation Skip to main content Skip to footer Karen Reddington-Hughes State Representative CT66 About Where I Stand News & Updates Our District Bethlehem Litchfield Morris Warren Woodbury Calendar Gallery Get Involved Rooted in the 66th: 4-H Clubs Exhibits at the Goshen Fair Grounds August 3, 2026 Great to see the 4-H clubs exhibits at the Goshen Fair grounds .
 The level of leadership skills and business skills that are taught in this valuable program is a tribute to the countless volunteers that make it happen.
-Thank you 4-H:
-“I pledge my HEAD to higher thinking,
-My HEART to greater loyalty,
-My HANDS to larger service,
-My HEALTH to better living,
-My club, my community, my country and my world.”
+Thank you 4-H: “I pledge my HEAD to higher thinking, My HEART to greater loyalty, My HANDS to larger service, My HEALTH to better living, My club, my community, my country and my world.” Filed Under: Uncategorized Donate Footer Vote Karen Reddington-Hughes State Representative for 66th District Our District Bethlehem Litchfield Morris Warren Woodbury Paid for by Reddington-Hughes for 66th, Joseph T Scott treasurer, approved by Karen Reddington-Hughes

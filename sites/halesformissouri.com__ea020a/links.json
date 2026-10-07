@@ -1,19 +1,106 @@
 [
-"https://halesformissouri.com/",
-"https://halesformissouri.com/about",
-"https://halesformissouri.com/about-jeff",
-"https://halesformissouri.com/become-a-volunteer",
-"https://halesformissouri.com/cart",
-"https://halesformissouri.com/checkout",
-"https://halesformissouri.com/contact",
-"https://halesformissouri.com/get-involved",
-"https://halesformissouri.com/issues",
-"https://halesformissouri.com/my-account",
-"https://halesformissouri.com/privacy",
-"https://halesformissouri.com/shop",
-"https://halesformissouri.com/terms",
-"https://halesformissouri.com/volunteers",
-"https://polikal.progressionstudios.com/become-a-volunteer",
-"https://secure.actblue.com/donate/halesformissouri",
-"https://secure.actblue.com/donate/jeffforhd86"
+{
+"text": "About Jeff",
+"href": "https://halesformissouri.com/about-jeff/"
+},
+{
+"text": "About Jeff",
+"href": "https://halesformissouri.com/about/"
+},
+{
+"text": "Become a Volunteer",
+"href": "https://halesformissouri.com/become-a-volunteer/"
+},
+{
+"text": "Cart",
+"href": "https://halesformissouri.com/cart/"
+},
+{
+"text": "Checkout",
+"href": "https://halesformissouri.com/checkout/"
+},
+{
+"text": "Contact",
+"href": "https://halesformissouri.com/get-involved/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/halesformissouri"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/jeffforhd86"
+},
+{
+"text": "Get Involved!",
+"href": "https://halesformissouri.com/get-involved/"
+},
+{
+"text": "Get in Touch",
+"href": "https://halesformissouri.com/contact/"
+},
+{
+"text": "Home",
+"href": "https://halesformissouri.com/"
+},
+{
+"text": "Issues",
+"href": "https://halesformissouri.com/issues/"
+},
+{
+"text": "Jeff's Priorities",
+"href": "https://halesformissouri.com/issues/"
+},
+{
+"text": "Join Our Team",
+"href": "https://polikal.progressionstudios.com/become-a-volunteer/"
+},
+{
+"text": "My Account",
+"href": "https://halesformissouri.com/my-account/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://halesformissouri.com/privacy/"
+},
+{
+"text": "Shop",
+"href": "https://halesformissouri.com/shop/"
+},
+{
+"text": "Stand Together",
+"href": "https://halesformissouri.com/contact/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://halesformissouri.com/terms/"
+},
+{
+"text": "Volunteers",
+"href": "https://halesformissouri.com/volunteers/"
+},
+{
+"text": "[image: Hales for Missouri]",
+"href": "https://halesformissouri.com/"
+},
+{
+"text": "[image]",
+"href": "https://halesformissouri.com/about/"
+},
+{
+"text": "[image]",
+"href": "https://halesformissouri.com/become-a-volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://halesformissouri.com/about/"
+},
+{
+"text": "[no text]",
+"href": "https://halesformissouri.com/contact/"
+},
+{
+"text": "[no text]",
+"href": "https://halesformissouri.com/issues/"
+}
 ]

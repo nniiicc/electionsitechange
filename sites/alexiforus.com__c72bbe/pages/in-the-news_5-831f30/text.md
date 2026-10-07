@@ -1,15 +1,4 @@
-In the News
-Democratic Secretary of State candidate Alexi Giannoulias gains edge in getting AFL-CIO backing with endorsement from Illinois Federation Teachers
-The Illinois Federation of Teachers has endorsed former state Treasurer Alexi Giannoulias’ bid for the Democratic nomination for secretary of state in next year’s primary,
-What if you got to pick your driver’s license photo?
-For a fee, Secretary of State hopeful Alexi Giannoulias would let you have multiple shots taken.
+Skip to content Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Home About Alexi’s Priorities News In the News Contact Contribute In the News Democratic Secretary of State candidate Alexi Giannoulias gains edge in getting AFL-CIO backing with endorsement from Illinois Federation Teachers December 6, 2021 The Illinois Federation of Teachers has endorsed former state Treasurer Alexi Giannoulias’ bid for the Democratic nomination for secretary of state in next year’s primary, Read More » What if you got to pick your driver’s license photo?
+September 7, 2021 For a fee, Secretary of State hopeful Alexi Giannoulias would let you have multiple shots taken.
 Or you could even provide your own.
-Keep Reading
-Exclusive: Alexi Giannoulias Reveals Why He Decided to Run for Secretary of State
-After nearly 50 years of service, Illinois Secretary of State Jessie White will not be on next year’s ballot, leaving room for a heated Democratic
-Giannoulias reports campaign war chest nearly three times the size of other three secretary of state hopefuls combined
-Less than a year out from the Democratic primary, former state Treasurer Alexi Giannoulias reported having roughly $3 million in the bank for his bid
-Secretary of State hopeful Giannoulias vows to give IDs to ex-offenders before their release from prison
-In an effort to curb recidivism and help returning citizens “reintegrate into society,” Illinois Secretary of State candidate Alexi Giannoulias wants the state to issue
-Illinois companies should be required — not just encouraged — to increase diversity on their boards
-I want to share a column I wrote that was published in the Chicago Sun-Times, highlighting an important issue that is part of my campaign
+Keep Reading Read More » Exclusive: Alexi Giannoulias Reveals Why He Decided to Run for Secretary of State August 21, 2021 After nearly 50 years of service, Illinois Secretary of State Jessie White will not be on next year’s ballot, leaving room for a heated Democratic Read More » Giannoulias reports campaign war chest nearly three times the size of other three secretary of state hopefuls combined July 15, 2021 Less than a year out from the Democratic primary, former state Treasurer Alexi Giannoulias reported having roughly $3 million in the bank for his bid Read More » Secretary of State hopeful Giannoulias vows to give IDs to ex-offenders before their release from prison May 21, 2021 In an effort to curb recidivism and help returning citizens “reintegrate into society,” Illinois Secretary of State candidate Alexi Giannoulias wants the state to issue Read More » Illinois companies should be required — not just encouraged — to increase diversity on their boards March 3, 2021 I want to share a column I wrote that was published in the Chicago Sun-Times, highlighting an important issue that is part of my campaign Read More » Page 1 Page 2 Page 3 Page 4 Page 5 Videos Press Releases Endorsements Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

@@ -1,9 +1,9 @@
 {
  "description": "Explore the Elect Ayanna blog for insightful campaigning tips, voting information, and updates on our initiatives. Join us in making a difference.",
  "final_url": "https://electayanna.com/blog",
- "paid_for_by": "Paid for by Friends of Ayanna Khan-Flowers",
+ "fingerprint": "db1dc1bee5ca5f03f98c994b9611e5492a1a53dc",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Elect Ayanna Blog: Campaigning and Voting Information",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

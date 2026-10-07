@@ -1,10 +1,58 @@
 [
-"https://cathysmythe.com/",
-"https://dgbf0g52sf9l0.cloudfront.net/HD_98_web_2a6951cd3d.pdf",
-"https://facebook.com/cathysmytheHD98",
-"https://linkedin.com/in/cathy-smythe-oklahoma",
-"https://oklegislature.gov/BillInfo.aspx?Bill=HB3638&Session=2600",
-"https://oklegislature.gov/BillInfo.aspx?Bill=hb3038&Session=2600",
-"https://oklegislature.gov/BillInfo.aspx?Bill=sb1128&Session=2600",
-"https://secure.actblue.com/donate/cathy-smythe-1"
+{
+"text": "ABOUT",
+"href": "https://www.cathysmythe.com/#about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/cathy-smythe-1"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.cathysmythe.com/#get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.cathysmythe.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.cathysmythe.com/#issues"
+},
+{
+"text": "Read HB 3038",
+"href": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3038&Session=2600"
+},
+{
+"text": "Read HB 3638",
+"href": "https://www.oklegislature.gov/BillInfo.aspx?Bill=HB3638&Session=2600"
+},
+{
+"text": "Read SB 1128",
+"href": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb1128&Session=2600"
+},
+{
+"text": "Representation-Matters",
+"href": "https://www.cathysmythe.com/#representation-matters"
+},
+{
+"text": "[image: Cathy Smythe for Oklahoma House District 98 logo]",
+"href": "https://www.cathysmythe.com/"
+},
+{
+"text": "[image]",
+"href": "https://dgbf0g52sf9l0.cloudfront.net/HD_98_web_2a6951cd3d.pdf"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/cathysmytheHD98/"
+},
+{
+"text": "[tooltip: Go to Linkedin-in page]",
+"href": "https://www.linkedin.com/in/cathy-smythe-oklahoma/"
+},
+{
+"text": "info@cathysmythe.com",
+"href": "mailto:info@cathysmythe.com"
+}
 ]

@@ -1,6 +1,4 @@
-Debunking the 2026 Billionaire Tax Act: A Recipe for Economic Ruin
-Updated: Mar 5
-California's economy stands as a beacon of global envy, pulsating with innovation and prosperity that springs not from the heavy hand of government decrees but from the unbridled ingenuity of free markets.
+top of page Home Blog Blog Post Issue Comparison Blog Post Issue Comparison Issues Media Contact Us Endorsements Media Press DONATE Blog Post Issue Comparison Debunking the 2026 Billionaire Tax Act: A Recipe for Economic Ruin Long Liu Office Mar 4 5 min read Updated: Mar 5 California's economy stands as a beacon of global envy, pulsating with innovation and prosperity that springs not from the heavy hand of government decrees but from the unbridled ingenuity of free markets.
 This dynamic system has birthed tech giants, fostered entrepreneurial dreams, and elevated living standards for millions.
 Yet, looming threats like the proposed 2026 Billionaire Tax Act risk undermining this very foundation, seducing voters with illusory promises of swift fiscal remedies while blithely disregarding the well-documented dangers of excessive taxation.
 As a candidate vying for the 49th Assembly District seat, I've witnessed up close how overreaching government interventions choke off opportunities, stifle small businesses, and erode the competitive edge that makes California a powerhouse.
@@ -47,3 +45,6 @@ California's persistent strategy of layering on more burdens only exacerbates in
 Instead, we must pivot to pro-growth policies that unleash potential: Streamline permitting processes to cut red tape that delays projects by years; reduce corporate and income taxes to competitive levels, perhaps mirroring successful models like Ireland's 12.5% rate that attracted global firms; invest in workforce development through vocational training and apprenticeships; and incentivize innovation with R&D tax credits.
 By rejecting the Billionaire Tax Act and embracing these reforms, we can safeguard California's economic vitality, ensuring it remains a land of opportunity not just for the elite but for every resident aspiring to build a better future.
 Let's preserve the free market magic that made us great, fostering a rising tide that lifts all boats rather than sinking the ship with misguided interventions.
+Recent Posts See All Attacked While Advocating for a Safer California at San Gabriel Town Hall We Debate.
+You Decide.
+Endorsement from Phillip Chen 加州第49選區州眾議員競選 davidliucampaign@gmail.com © # 劉朗大衛州眾議員競選委員會。由劉朗大衛競選團隊支付。 bottom of page

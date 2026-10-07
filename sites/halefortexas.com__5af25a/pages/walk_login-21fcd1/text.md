@@ -1,5 +1,7 @@
+HALE FOR TEXAS Meet Alexander About Alexander → Endorsements → Priorities 01 Houston's Energy Economy → 02 Increasing Affordability → 03 Lowering Healthcare Costs → 04 Public Safety → 05 Fiscal Responsibility → 06 State and Local Empowerment → Walk Your Street Updates Get Involved Volunteer → Merchandise → Social Media → News Donate EN EN ES VI 中文 Meet Alexander About Alexander Endorsements Priorities 01 Houston's Energy Economy 02 Increasing Affordability 03 Lowering Healthcare Costs 04 Public Safety 05 Fiscal Responsibility 06 State and Local Empowerment Walk Your Street Updates Get Involved Volunteer Merchandise Social Media News Donate EN | ES | VI | 中文 Neighborhood Walk Captain Sign-In Enter the captain code we emailed you when your walk application was approved.
+Enter your captain code Captain code Sign In Lost your code?
 Not a captain yet?
-Sign up to walk your neighborhood.
-Neighborhood Walk
-Captain Sign-In
-Enter the captain code we emailed you when your walk application was approved.
+Sign up to walk your neighborhood .
+HALE FOR TEXAS Alexander Hale is a Republican candidate for U.S.
+Congress in Texas's 7th Congressional District, bringing constitutional conservative leadership to Houston. f 𝕏 ig TT in Quick Links Meet Alexander Priorities News Donate Get Involved Volunteer Host an Event Yard Signs Endorsements Contact (713) 487-6231 info@halefortexas.com Press Inquiries Contact Form Paid for by Alexander Hale for Congress · FEC ID C00930305 Contributions are not tax-deductible for federal income tax purposes.
+Privacy Policy Terms of Service Powered by

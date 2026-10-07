@@ -1,9 +1,38 @@
 [
-"http://facebook.com/",
-"http://tiktok.com/",
-"https://olsenforiowa.net/",
-"https://olsenforiowa.net/blank-9",
-"https://olsenforiowa.net/contact-us",
-"https://olsenforiowa.net/district-48",
-"https://olsenforiowa.net/our-vision"
+{
+"text": "Around district 48",
+"href": "https://www.olsenforiowa.net/district-48"
+},
+{
+"text": "Contact Us",
+"href": "https://www.olsenforiowa.net/contact-us"
+},
+{
+"text": "Endorsements & Pledges",
+"href": "https://www.olsenforiowa.net/blank-9"
+},
+{
+"text": "Get Involved",
+"href": "https://www.olsenforiowa.net/contact-us"
+},
+{
+"text": "Home",
+"href": "https://www.olsenforiowa.net"
+},
+{
+"text": "Our Vision",
+"href": "https://www.olsenforiowa.net/our-vision"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.olsenforiowa.net"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com"
+}
 ]

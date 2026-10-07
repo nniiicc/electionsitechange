@@ -1,25 +1,110 @@
 [
-"https://campaignpartner.com/",
-"https://voterondunn.com/",
-"https://voterondunn.com/contact",
-"https://voterondunn.com/contribute",
-"https://voterondunn.com/contribute?amount=10",
-"https://voterondunn.com/contribute?amount=100",
-"https://voterondunn.com/contribute?amount=1000",
-"https://voterondunn.com/contribute?amount=25",
-"https://voterondunn.com/contribute?amount=250",
-"https://voterondunn.com/contribute?amount=50",
-"https://voterondunn.com/contribute?amount=500",
-"https://voterondunn.com/events",
-"https://voterondunn.com/home",
-"https://voterondunn.com/issues",
-"https://voterondunn.com/make-endorsement",
-"https://voterondunn.com/meet_ron",
-"https://voterondunn.com/news",
-"https://voterondunn.com/photos",
-"https://voterondunn.com/privacy-policy",
-"https://voterondunn.com/tank",
-"https://voterondunn.com/view-endorsements",
-"https://voterondunn.com/volunteer",
-"https://voterondunn.com/vote"
+{
+"text": "$#",
+"href": "https://www.voterondunn.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.voterondunn.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.voterondunn.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.voterondunn.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://www.voterondunn.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://www.voterondunn.com/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://www.voterondunn.com/contribute?amount=1000"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.voterondunn.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.voterondunn.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voterondunn.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.voterondunn.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.voterondunn.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.voterondunn.com/issues"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://www.voterondunn.com/volunteer"
+},
+{
+"text": "Make Endorsement",
+"href": "https://www.voterondunn.com/make-endorsement"
+},
+{
+"text": "Meet Ron",
+"href": "https://www.voterondunn.com/meet_ron"
+},
+{
+"text": "Need Voting Information? Register & Find Your Polling Location Click Here for Information",
+"href": "https://www.voterondunn.com/vote"
+},
+{
+"text": "News",
+"href": "https://www.voterondunn.com/news"
+},
+{
+"text": "Other",
+"href": "https://www.voterondunn.com/contribute"
+},
+{
+"text": "Photos",
+"href": "https://www.voterondunn.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voterondunn.com/privacy-policy"
+},
+{
+"text": "Support Our Campaign Make a Contribution Today Click Here to Contribute",
+"href": "https://www.voterondunn.com/contribute"
+},
+{
+"text": "TANK",
+"href": "https://www.voterondunn.com/tank"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voterondunn.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.voterondunn.com/vote"
+},
+{
+"text": "[image: Ron Dunn NH State Representative]",
+"href": "https://www.voterondunn.com/"
+}
 ]

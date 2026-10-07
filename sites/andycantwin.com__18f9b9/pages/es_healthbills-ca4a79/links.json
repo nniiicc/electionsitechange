@@ -1,14 +1,58 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/es/guides",
-"https://andycantwin.com/es/healthbills/north-carolina.html",
-"https://andycantwin.com/es/healthbills/the-playbook.html",
-"https://andycantwin.com/es/healthbills/the-price.html",
-"https://andycantwin.com/es/healthbills/your-rights.html",
-"https://andycantwin.com/es/newsletter.html",
-"https://andycantwin.com/es/volunteer.html",
-"https://andycantwin.com/workshop",
-"https://facebook.com/andycantwin",
-"https://instagram.com/andycantwin",
-"https://secure.actblue.com/donate/andybowline"
+{
+"text": "01 Empieza aquí Por qué la factura es tan alta →",
+"href": "https://andycantwin.com/es/healthbills/the-price.html"
+},
+{
+"text": "01 Por qué la factura es tan alta Cómo funcionan los precios del hospital, línea por línea. →",
+"href": "https://andycantwin.com/es/healthbills/the-price.html"
+},
+{
+"text": "02 Qué hacer en la práctica Los pasos a seguir con una factura grande, en orden. Actuar pronto ayuda. →",
+"href": "https://andycantwin.com/es/healthbills/the-playbook.html"
+},
+{
+"text": "03 Los derechos que ya tienes Protecciones federales, más algunas reglas de Carolina del Norte que vale la pena conocer. →",
+"href": "https://andycantwin.com/es/healthbills/your-rights.html"
+},
+{
+"text": "04 Los $6.5 mil millones que NC borró Un programa real de alivio de deuda, y qué lo haría permanente. →",
+"href": "https://andycantwin.com/es/healthbills/north-carolina.html"
+},
+{
+"text": "Aporta",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Bored?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "Regístrate",
+"href": "https://andycantwin.com/es/newsletter.html"
+},
+{
+"text": "Súmate",
+"href": "https://andycantwin.com/es/volunteer.html"
+},
+{
+"text": "Tinkering",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "← volver a las guías",
+"href": "https://andycantwin.com/es/guides/"
+}
 ]

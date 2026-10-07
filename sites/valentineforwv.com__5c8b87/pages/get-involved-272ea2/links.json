@@ -1,17 +1,70 @@
 [
-"https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace",
-"https://docs.google.com/forms/d/e/1FAIpQLScZHTQMItUzgTo_7zcdBLZ60PoiPYmyJBYreWo67iey9yJMJQ/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSfXL9tGWik7BabVCmUrs35rZf_0qEgP1iYt6dJ9Wlcjx0Z-JA/viewform?usp=publish-editor",
-"https://facebook.com/profile.php?id=61553801980620",
-"https://instagram.com/luciavalentine?hl=en",
-"https://mapwv.gov/vote",
-"https://ovr.sos.wv.gov/Register/Landing",
-"https://secure.actblue.com/donate/valentine26",
-"https://sos.wv.gov/elections/Pages/AbsenteeVotingInformation.aspx",
-"https://valentineforwv.com/",
-"https://valentineforwv.com/cart",
-"https://valentineforwv.com/endorsements",
-"https://valentineforwv.com/get-involved",
-"https://valentineforwv.com/issues",
-"https://valentineforwv.com/meet-lucia"
+{
+"text": "0",
+"href": "https://www.valentineforwv.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/valentine26"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.valentineforwv.com/endorsements"
+},
+{
+"text": "Email Lucia",
+"href": "mailto:valentineforwv@gmail.com"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.valentineforwv.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.valentineforwv.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.valentineforwv.com/issues"
+},
+{
+"text": "Interactive WV Voter Map",
+"href": "https://www.mapwv.gov/vote/"
+},
+{
+"text": "Join Our Team Today",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScZHTQMItUzgTo_7zcdBLZ60PoiPYmyJBYreWo67iey9yJMJQ/viewform"
+},
+{
+"text": "MEET LUCIA",
+"href": "https://www.valentineforwv.com/meet-lucia"
+},
+{
+"text": "Register to VOTE",
+"href": "https://ovr.sos.wv.gov/Register/Landing"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://sos.wv.gov/elections/Pages/AbsenteeVotingInformation.aspx"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfXL9tGWik7BabVCmUrs35rZf_0qEgP1iYt6dJ9Wlcjx0Z-JA/viewform?usp=publish-editor"
+},
+{
+"text": "[image: Lucia Valentine]",
+"href": "https://www.valentineforwv.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61553801980620"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/luciavalentine/?hl=en"
+}
 ]

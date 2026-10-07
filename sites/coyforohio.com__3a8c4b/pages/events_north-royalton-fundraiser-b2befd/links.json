@@ -1,13 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=North+Royalton+Fundraiser%21&dates=20260815T170000Z%2F20260815T190000Z&location=13855+Ridge+Road%2C+North+Royalton%2C+Ohio%2C+44133%2C+United+States",
-"http://maps.google.com/?q=13855+Ridge+Road+North+Royalton%2C+Ohio%2C+44133+United+States",
-"https://coyforohio.com/",
-"https://coyforohio.com/cart",
-"https://coyforohio.com/contact",
-"https://coyforohio.com/events",
-"https://coyforohio.com/events/north-royalton-fundraiser?format=ical",
-"https://coyforohio.com/events/olmsted-falls-canvass-launch-1",
-"https://coyforohio.com/events/strongsville-canvass-launch-with-brian-poindexter-and-courtney-scheff",
-"https://coyforohio.com/support",
-"https://secure.actblue.com/donate/8.15northroyalton"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=13855+ridge+road+north+royalton%2C+ohio%2C+44133+united+states"
+},
+{
+"text": "0",
+"href": "https://www.coyforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.coyforohio.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.coyforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=North+Royalton+Fundraiser%21&dates=20260815T170000Z%2F20260815T190000Z&location=13855+Ridge+Road%2C+North+Royalton%2C+Ohio%2C+44133%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.coyforohio.com/events/north-royalton-fundraiser?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.coyforohio.com/#issues"
+},
+{
+"text": "Meet Megan",
+"href": "https://www.coyforohio.com/#meetmegan"
+},
+{
+"text": "Next Next August 29 Olmsted Falls Canvass Launch!",
+"href": "https://www.coyforohio.com/events/olmsted-falls-canvass-launch-1"
+},
+{
+"text": "Previous Previous August 15 Strongsville Canvass Launch with Brian Poindexter and Courtney Scheff!",
+"href": "https://www.coyforohio.com/events/strongsville-canvass-launch-with-brian-poindexter-and-courtney-scheff"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.coyforohio.com/support"
+},
+{
+"text": "[image: Megan Coy]",
+"href": "https://www.coyforohio.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/8.15northroyalton"
+}
 ]

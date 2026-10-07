@@ -1,7 +1,9 @@
 {
  "description": "Join Sandra Tooley in voting for Mike Halpin.",
  "final_url": "https://www.halpinforillinois.com/vote-halpin-2/",
- "paid_for_by": null,
+ "fingerprint": "1c0ef6f5bb0e9453e58f00fe9324cf9ef6626e2c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Vote Halpin - Mike Halpin for Illinois",
  "years_mentioned": [
   "2022"

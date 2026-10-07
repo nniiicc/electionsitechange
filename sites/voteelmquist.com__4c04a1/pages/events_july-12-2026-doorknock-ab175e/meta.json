@@ -1,7 +1,11 @@
 {
  "description": "RSVP Here",
  "final_url": "https://www.voteelmquist.com/events/july-12-2026-doorknock",
+ "fingerprint": "e3189f8e8f37a619e7a99ada260129ba2e7ceb4f",
+ "format": 3,
  "paid_for_by": "Paid for by Neighbors for Aisha Elmquist PO Box 120195, New Brighton, MN 55112 Top",
- "title": "July 12 Doorknock \u2014 Elmquist for House",
- "years_mentioned": []
+ "title": "July 12 Doorknock — Elmquist for House",
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,22 +1,114 @@
 [
-"https://andrewlawson4ad79.com/contact.html",
-"https://andrewlawson4ad79.com/donations.html",
-"https://andrewlawson4ad79.com/endorsements.html",
-"https://andrewlawson4ad79.com/filings.html",
-"https://andrewlawson4ad79.com/index.html",
-"https://andrewlawson4ad79.com/issues.html",
-"https://andrewlawson4ad79.com/media.html",
-"https://andrewlawson4ad79.com/privacy.html",
-"https://andrewlawson4ad79.com/social.html",
-"https://andrewlawson4ad79.com/speeches.html",
-"https://andrewlawson4ad79.com/voting.html",
-"https://cal-access.sos.ca.gov/",
-"https://facebook.com/ALawson4AD79",
-"https://fppc.ca.gov/",
-"https://gis-portal.sandiegocounty.gov/arcgis/apps/webappviewer/index.html?id=60e8e02221104a1b99d08a5a4959b443",
-"https://instagram.com/andrew_for_california",
-"https://registertovote.ca.gov/",
-"https://sdvote.com/content/rov/en/voter-info-lookup.html",
-"https://sos.ca.gov/elections",
-"https://x.com/AndrewLawson619"
+{
+"text": "CA FPPC",
+"href": "https://www.fppc.ca.gov"
+},
+{
+"text": "CA Secretary of State",
+"href": "https://www.sos.ca.gov/elections"
+},
+{
+"text": "California Secretary of State — Electionssos.ca.gov/elections",
+"href": "https://www.sos.ca.gov/elections"
+},
+{
+"text": "Campaign Filings",
+"href": "https://www.andrewlawson4ad79.com/filings.html"
+},
+{
+"text": "Campaign Finance",
+"href": "https://www.andrewlawson4ad79.com/filings.html"
+},
+{
+"text": "Contact",
+"href": "https://www.andrewlawson4ad79.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://www.andrewlawson4ad79.com/donations.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.andrewlawson4ad79.com/endorsements.html"
+},
+{
+"text": "Filings",
+"href": "https://www.andrewlawson4ad79.com/filings.html"
+},
+{
+"text": "Home",
+"href": "https://www.andrewlawson4ad79.com/index.html"
+},
+{
+"text": "Issues",
+"href": "https://www.andrewlawson4ad79.com/issues.html"
+},
+{
+"text": "Media",
+"href": "https://www.andrewlawson4ad79.com/media.html"
+},
+{
+"text": "News & Updates",
+"href": "https://www.andrewlawson4ad79.com/social.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.andrewlawson4ad79.com/privacy.html"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovote.ca.gov/"
+},
+{
+"text": "Register to Vote — Californiaregistertovote.ca.gov",
+"href": "https://registertovote.ca.gov/"
+},
+{
+"text": "San Diego County Voter Info Lookupsdvote.com",
+"href": "https://www.sdvote.com/content/rov/en/voter-info-lookup.html"
+},
+{
+"text": "Secretary of State",
+"href": "https://www.sos.ca.gov/elections"
+},
+{
+"text": "Social",
+"href": "https://www.andrewlawson4ad79.com/social.html"
+},
+{
+"text": "Speeches",
+"href": "https://www.andrewlawson4ad79.com/speeches.html"
+},
+{
+"text": "Voting",
+"href": "https://www.andrewlawson4ad79.com/voting.html"
+},
+{
+"text": "Voting Guide",
+"href": "https://www.andrewlawson4ad79.com/voting.html"
+},
+{
+"text": "Where is Assembly District 79?San Diego County GIS Portal",
+"href": "https://gis-portal.sandiegocounty.gov/arcgis/apps/webappviewer/index.html?id=60e8e02221104a1b99d08a5a4959b443"
+},
+{
+"text": "[image: Lawson Campaign] Andrew LawsonFor State Assembly",
+"href": "https://www.andrewlawson4ad79.com/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ALawson4AD79"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andrew_for_california/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/AndrewLawson619"
+},
+{
+"text": "cal-access.sos.ca.gov",
+"href": "https://cal-access.sos.ca.gov/"
+}
 ]

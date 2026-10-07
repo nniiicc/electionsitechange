@@ -1,6 +1,3 @@
-Back to All Events
-General Election Day in Minnesota will take place on Tuesday, November 3, 2026 from 7:00am-8:00pm.
-Find your polling location and a sample ballot on the website of the Minnesota Secretary of State.
-Previous
-Previous
-October 16
+0 Skip to Content Home Mark's Story Policy Core Values Endorsements Upcoming Events Contact Donate Open Menu Close Menu Home Mark's Story Policy Core Values Endorsements Upcoming Events Contact Donate Open Menu Close Menu Home Mark's Story Policy Core Values Endorsements Upcoming Events Contact Donate Back to All Events General Election Day Tuesday, November 3, 2026 7:00 AM 8:00 PM Google Calendar ICS General Election Day in Minnesota will take place on Tuesday, November 3, 2026 from 7:00am-8:00pm.
+Find your polling location and a sample ballot on the website of the Minnesota Secretary of State .
+Previous Previous October 16 Early Voting in person Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ

@@ -1,9 +1,7 @@
-Outsider Businessman and America First Conservative David J.
+HOME MEET DAVID VOTE FOR DAVID ON THE ISSUES CRYPTOCURRENCY VOLUNTEER UPDATES DONATE CONTACT US HOME MEET DAVID VOTE FOR DAVID ON THE ISSUES CRYPTOCURRENCY VOLUNTEER UPDATES DONATE CONTACT US HOME MEET DAVID VOTE FOR DAVID ON THE ISSUES CRYPTOCURRENCY VOLUNTEER UPDATES DONATE CONTACT US MENU MENU MENU Outsider Businessman and America First Conservative David J.
 Taylor Endorses President Donald J.
-Trump
-Wednesday.
-December 20, 2023
-AMELIA – America First conservative and outsider businessman David J.
+Trump Wednesday.
+December 20, 2023 AMELIA – America First conservative and outsider businessman David J.
 Taylor announced his endorsement for President Donald J.
 Trump on Wednesday.
 Like President Donald J.
@@ -14,4 +12,10 @@ David has committed $1 million of his personal funds to the race, and already pl
 I was proud to support Trump in 2016, 2020, and am honored to announce my Endorsement of President Donald J.
 Trump for the 2024 Republican Nomination for President of the United States,” said David J.
 Taylor.
-“In Congress, I will work with President Trump to secure our border and build the wall to stop the cartels pushing the fentanyl that is destroying our communities.”
+“In Congress, I will work with President Trump to secure our border and build the wall to stop the cartels pushing the fentanyl that is destroying our communities.” Paid for by Dave Taylor for Congress.
+Privacy Policy By providing your telephone number, you consent to receive calls and text messages.
+Msg & data rates may apply.
+Msg frequency may vary.
+Messaging may include requests for donations.
+Reply “STOP” to opt-out & “HELP” for help.
+View Privacy Policy for more info.

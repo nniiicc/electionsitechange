@@ -1,20 +1,86 @@
 [
-"http://orchidbaydesigns.com/",
-"https://bsky.app/profile/joanbaronecole.bsky.social",
-"https://facebook.com/JoanCole4MD",
-"https://instagram.com/joancole4md",
-"https://joancole4md.com/",
-"https://joancole4md.com/contact",
-"https://joancole4md.com/copy-of-in-the-district",
-"https://joancole4md.com/endorsements",
-"https://joancole4md.com/events",
-"https://joancole4md.com/faq",
-"https://joancole4md.com/get-involved",
-"https://joancole4md.com/joan-s-story",
-"https://joancole4md.com/photo-accreditations",
-"https://joancole4md.com/prioritiy-issues",
-"https://maps.caliper.com/public-plans/planviewer-sb1012-congressional",
-"https://secure.actblue.com/donate/joan-cole-1",
-"https://voterservices.elections.maryland.gov/PollingPlaceSearch",
-"https://voterservices.elections.maryland.gov/VoterSearch"
+{
+"text": "Address Lookup",
+"href": "https://maps.caliper.com/public-plans/planviewer-sb1012-congressional/#MD+2022+House+Districts"
+},
+{
+"text": "Campaign Events",
+"href": "https://www.joancole4md.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.joancole4md.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://www.joancole4md.com/copy-of-in-the-district"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/joan-cole-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.joancole4md.com/endorsements"
+},
+{
+"text": "FAQ",
+"href": "https://www.joancole4md.com/faq"
+},
+{
+"text": "FOR DELEGATE",
+"href": "https://www.joancole4md.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.joancole4md.com/get-involved"
+},
+{
+"text": "Joan Barone Cole",
+"href": "https://www.joancole4md.com"
+},
+{
+"text": "Joan's Story",
+"href": "https://www.joancole4md.com/joan-s-story"
+},
+{
+"text": "Orchid Bay Designs",
+"href": "http://www.orchidbaydesigns.com"
+},
+{
+"text": "Photo Credits",
+"href": "https://www.joancole4md.com/photo-accreditations"
+},
+{
+"text": "Polling Place",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "Priority Issues",
+"href": "https://www.joancole4md.com/prioritiy-issues"
+},
+{
+"text": "Subscribe",
+"href": "https://www.joancole4md.com"
+},
+{
+"text": "Voter Info",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "[image: Bluesky_Logo_Joan_White]",
+"href": "https://bsky.app/profile/joanbaronecole.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JoanCole4MD/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/joancole4md/"
+},
+{
+"text": "info@joancole4md.com",
+"href": "mailto:joancole4md@gmail.com"
+}
 ]

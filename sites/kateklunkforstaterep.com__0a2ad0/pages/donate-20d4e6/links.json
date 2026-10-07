@@ -1,10 +1,34 @@
 [
-"http://facebook.com/KateKlunkForStateRep",
-"https://kateklunkforstaterep.com/",
-"https://kateklunkforstaterep.com/connect",
-"https://kateklunkforstaterep.com/donate",
-"https://kateklunkforstaterep.com/meet-kate",
-"https://kateklunkforstaterep.com/priorities",
-"https://kateklunkforstaterep.com/volunteer",
-"https://paypal.com/donate?business=X2DSJ7KZALJ5N&no_recurring=0&item_name=Thank+you+for+donating+to+Friends+of+Kate+Klunk.&currency_code=USD"
+{
+"text": "Connect",
+"href": "https://www.kateklunkforstaterep.com/connect/"
+},
+{
+"text": "Donate",
+"href": "https://www.kateklunkforstaterep.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.paypal.com/donate/?business=X2DSJ7KZALJ5N&no_recurring=0&item_name=Thank+you+for+donating+to+Friends+of+Kate+Klunk.&currency_code=USD"
+},
+{
+"text": "Facebook-f",
+"href": "http://www.facebook.com/KateKlunkForStateRep"
+},
+{
+"text": "Meet Kate",
+"href": "https://www.kateklunkforstaterep.com/meet-kate/"
+},
+{
+"text": "Priorities",
+"href": "https://www.kateklunkforstaterep.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kateklunkforstaterep.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://www.kateklunkforstaterep.com"
+}
 ]

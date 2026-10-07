@@ -1,12 +1,10 @@
-Back to All Events
-Join nominee for Lt.
+0 Skip to Content Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Folder: Priorities Back Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Folder: Endorsements Back Texas Voters Public Officials Organizations Volunteer News Online Store Donate Back to All Events Water Town Hall - Odessa Tuesday, September 8, 2026 6:00 PM 8:00 PM V Fw Post 6717 Southside 2264 South Sargent Avenue Odessa, Texas, 79766 United States (map) Google Calendar ICS Join nominee for Lt.
 Governor Vikki Goodwin and guests for an Odessa Town Hall focused on protecting the future of water in Texas.
-RSVP here.
-Previous
-Previous
-September 8
-Legalize it!
-Phone Bank With Team Vikki
-Next
-Next
-September 10
+RSVP here .
+As data center resource use balloons across our state, communities are increasingly concerned about our water, land, health, and access to electricity.
+You're invited to share your concerns, ask questions, and weigh in on how we can secure local resources for our families, farmers, and ranches first.
+Bring your friends and family — all are welcome!
+Yard signs and our new “ Protect Texas Water ” T-shirts will be available at no cost to attendees.
+Previous Previous September 8 Legalize it!
+Phone Bank With Team Vikki Next Next September 10 Legalize it!
+Phone Bank With Team Vikki Pol. adv. paid for by the Vikki Goodwin Campaign, Allen Biehl, Treasurer Campaign Inquiries: AskMe@VikkiGoodwin.com | ‪(352) 88-VIKKI / (352) 888-4554 | 9901 Brodie Lane, Suite 160-315, Austin, TX 78748 Legislative Inquiries: Vikki.Goodwin@house.texas.gov | (512) 463-0652 | P.O Box 2910, Austin, Texas 78768 Read our privacy policy here.

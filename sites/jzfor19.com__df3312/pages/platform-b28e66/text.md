@@ -1,6 +1,5 @@
-top of page
-MEET JOHN "JZ" ZIMMERS
-Hello, my name is John "JZ" Zimmers.
+top of page Home The Issues Affordability Immigration Education Public Safety Platform Meet John Get Involved District 19 Blog Donate More Use tab to navigate through the menu items.
+MEET JOHN "JZ" ZIMMERS Hello, my name is John "JZ" Zimmers.
 I am running for the House of Representatives seat in the 19th District.
 I have spent my entire adult life in the real industry as an asset/property manager, lender and broker.
 Over the last twelve years I have worked as a residential broker.
@@ -15,8 +14,7 @@ It's time to stop this foolishness and make our state rank at the top.
 Remember, when you fight for something, you are not fighting for what is in front of you, you are fighting for what is behind you.
 That's our parents, our kids and grandchildren.
 I think they are worth fighting for, will you join me?
-ISSUES
-My candidacy sits on a 4-legged stool of public school reform, public safety reform, tax reform and immigration reform.
+ISSUES My candidacy sits on a 4-legged stool of public school reform, public safety reform, tax reform and immigration reform.
 PUBLIC SAFETY - We need to initiate a virtuous cycle of education, crime-deterrence, and opportunity for our kids.
 If we have educated kids, there will be demand for them in the workplace, and not on the street corner.
 We must back the blue and repeal laws that increase violent crime and create vacancies in law enforcement.
@@ -30,4 +28,5 @@ ENOUGH IS ENOUGH!
 IMMIGRATION - We are a nation of immigrants, and our immigration policy has to be economically sustainable.
 We should be able to fund immigration without raising taxes while admitting as many folks as we can, in an economically sustainable way, so that we can do so well into the future.
 We should be compassionate, smart, and economically disciplined as we create a sustainable bright future for existing and new Americans.
-bottom of page
+REGISTER TO VOTE!
+Log In Terms & Conditions Privacy Policy Accessibility Statement bottom of page

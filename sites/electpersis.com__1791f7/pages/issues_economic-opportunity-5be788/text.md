@@ -1,39 +1,18 @@
-Persis will fight for
-Economic Opportunity
-The reality is that families need more help.
+Skip navigation menu Home About Volunteer Endorsements Events Listening Tour Contact Donate Because families need a champion who will put people before corporate profits and safeguard our democracy from authoritarian threats.
+Home About Volunteer Endorsements Events Listening Tour Contact Donate Because families need a champion who will put people before corporate profits and safeguard our democracy from authoritarian threats.
+Education Economic Opportunity Public Safety A Free and Just World Persis will fight for Economic Opportunity The reality is that families need more help.
 Despite the proliferation of cheap goods, the fundamentals like housing, education, and health care are too damn expensive.
 Despite the wealth in our communities, our schools are struggling for resources.
-Housing
-Every family in Massachusetts deserves safe and affordable housing.
+Housing Every family in Massachusetts deserves safe and affordable housing.
 And yet, families across the Commonwealth are still grappling with the harm caused by segregation and the outsized influence of corporate landlords and investors who artificially inflate both the housing market and rental prices.
-As senator, Persis will:
-- Ban the use of algorithms that artificially inflate the price of rent and reduce the supply of housing
-- Fight to stabilize rental prices through rent control policies
-- Work to right-size our zoning laws in order to ensure adequate and accessible housing for all residents
-- Support the development of multi-family housing through greater investment in infrastructure and transportation
-Corporate Accountability
-Our economy should prioritize the needs of working families over the profits of corrupt billionaires.
+As senator, Persis will: Ban the use of algorithms that artificially inflate the price of rent and reduce the supply of housing Fight to stabilize rental prices through rent control policies Work to right-size our zoning laws in order to ensure adequate and accessible housing for all residents Support the development of multi-family housing through greater investment in infrastructure and transportation Corporate Accountability Our economy should prioritize the needs of working families over the profits of corrupt billionaires.
 But corporations routinely get away with mistreating workers, unfairly knocking small businesses out of the market, and gouging consumers.
-As senator, Persis will:
-- Crack down on corporate abuse by ending wage theft, predatory business practices, and junk fees
-- Put people before profits by tying public contracts and tax breaks to living-wage jobs, fair pricing, and transparent supply chains
-- Protect consumers, workers, and small businesses by banning practices that allow monopolies to rig the economy
-- Make the largest corporations pay their fair share
-Worker Power
-Despite record inflation and record profits, wages have stagnated, forcing families to do more with less.
+As senator, Persis will: Crack down on corporate abuse by ending wage theft, predatory business practices, and junk fees Put people before profits by tying public contracts and tax breaks to living-wage jobs, fair pricing, and transparent supply chains Protect consumers, workers, and small businesses by banning practices that allow monopolies to rig the economy Make the largest corporations pay their fair share Worker Power Despite record inflation and record profits, wages have stagnated, forcing families to do more with less.
 If you work in the Commonwealth, you deserve to be safe, respected, and paid a living wage.
 Persis has spent her career fighting on behalf of workers and unions in the growing fight against corporate greed.
-As senator, Persis will:
-- Work to end abusive non-compete agreements that lock workers into low paying jobs and prevent them from achieving their full potential
-- Support workers’ right to unionize without retaliation and fight to strengthen the power of unions to ensure that workers can benefit from the value they create
-- Increase the minimum wage to $20 per hour and demand rights for all workers, including domestic workers, immigrants, and gig workers–no exceptions, no loopholes
-Transportation
-Mobility is a civil right.
+As senator, Persis will: Work to end abusive non-compete agreements that lock workers into low paying jobs and prevent them from achieving their full potential Support workers’ right to unionize without retaliation and fight to strengthen the power of unions to ensure that workers can benefit from the value they create Increase the minimum wage to $20 per hour and demand rights for all workers, including domestic workers, immigrants, and gig workers–no exceptions, no loopholes Transportation Mobility is a civil right.
 Decades of neglect have left Massachusetts’ infrastructure in bad shape.
 The MBTA is unreliable, too many roads and bridges are long overdue for repair, and traffic congestion is the 4th worst in the country.
 Too many neighbors lose jobs, time, and opportunities because safe and reliable transportation is out of reach.
 Where you live or what you earn should never decide whether you are able to get to work, school, or the care you need.
-As senator, Persis will:
-- Treat public transportation as a public good by investing in critical infrastructure, like increasing access and frequency of transit in underserved corridors, expanding first and last mile connections
-- Ensure pricing equity through the commonwealth with free busses, expansions of subway lines, and expanding zone 1A pricing to all of Boston
-- Relieve congestion and improve air quality through expanded bike paths, bus lanes, and other strategies that move people, not traffic
+As senator, Persis will: Treat public transportation as a public good by investing in critical infrastructure, like increasing access and frequency of transit in underserved corridors, expanding first and last mile connections Ensure pricing equity through the commonwealth with free busses, expansions of subway lines, and expanding zone 1A pricing to all of Boston Relieve congestion and improve air quality through expanded bike paths, bus lanes, and other strategies that move people, not traffic Privacy Policy Powered by RUN! website builder Paid for by the Yu Committee You need to enable JavaScript to run this app.

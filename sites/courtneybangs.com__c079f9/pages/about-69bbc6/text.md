@@ -1,6 +1,5 @@
-Standing Up for Our Rural Way of Life
-I’m Courtney Bangs—Clatsop County Commissioner, an educator with over 25 years of experience, and most importantly, a mom of three.
-I have lived on the North Coast for nearly two decades, and my husband Derek and I are raising the sixth generation on our family farm in Knappa, just outside Astoria.
+0 Skip to Content Home About Priorities Endorsements Latest News Volunteer Contact Donate Today Open Menu Close Menu Open Menu Close Menu Home About Priorities Endorsements Latest News Volunteer Contact Donate Today Home About Priorities Endorsements Latest News Volunteer Contact Donate Today View fullsize View fullsize View fullsize Standing Up for Our Rural Way of Life I’m Courtney Bangs—Clatsop County Commissioner, an educator with over 25 years of experience, and most importantly, a mom of three.
+I have lived on the North Coast for nearly two decades , and my husband Derek and I are raising the sixth generation on our family farm in Knappa, just outside Astoria.
 I am an Oregon State University alumna, where I earned a Bachelor’s in Animal Science and a Master’s in Agriculture Education.
 I have worked with students of all ages as an agriculture teacher, FFA advisor, dance instructor, academic director, and substitute teacher.
 I first ran for County Commissioner in 2020 because decisions affecting our forests, roads, housing, and schools were being made that benefited Portland interests more than those who actually live our rural life every day.
@@ -16,3 +15,4 @@ Standing up to politicians like Tina Kotek is not new to me.
 I helped defeat Kotek’s $4.3 billion gas tax, and I will keep fighting back against Portland’s costly agenda.
 I live and love the rural way of life every single day.
 I’ll never stop protecting what matters.
+View fullsize View fullsize View fullsize View fullsize Home Volunteer Contact Donate Privacy Policy Paid for by Courtney Bangs PAC | © # Oregon State Senate - District 16

@@ -1,38 +1,238 @@
 [
-"http://facebook.com/590380881164207",
-"https://en.wikipedia.org/wiki/Dustin_Manwaring",
-"https://facebook.com/manwaringforidaho",
-"https://idahostatejournal.com/elections/democrat-abernathy-faces-republican-manwaring-for-state-representative/article_ab363b55-4a9d-54c2-80c7-d3aa10d31ca7.html",
-"https://idahostatejournal.com/opinion/columns/everyone-s-an-expert/article_fe39afde-9e02-59f0-b8fd-984c77b1f146.html",
-"https://idahostatejournal.com/opinion/columns/hybrid-nation/article_9341b638-8781-5bdd-9356-a0f15755afa2.html",
-"https://idahostatejournal.com/opinion/columns/it-goes-with-the-house/article_0e887ab5-c149-5bb8-85ae-101deb95d1a5.html",
-"https://idahostatejournal.com/opinion/columns/lessons-from-the-masters/article_898b236e-d9e3-5db5-bf4c-76c804b77dce.html",
-"https://idahostatejournal.com/opinion/columns/liberty-of-conscience/article_e4c71cd3-e445-5197-b0ef-4de3508bee12.html",
-"https://idahostatejournal.com/opinion/columns/lost-in-a-forest/article_0fb26e98-ce93-5928-9b8c-90fa0484a130.html",
-"https://idahostatejournal.com/opinion/columns/notre-dame-rising/article_10de719e-88a8-5ace-9299-63202db779dc.html",
-"https://idahostatejournal.com/opinion/columns/spring-training-my-mind/article_a8f97ed7-c554-546e-8178-98905a22f76b.html",
-"https://idahostatejournal.com/opinion/letters_to_editor/support-for-rep-dustin-manwaring/article_8b5bf33d-57ed-5bb5-a62e-f57fb1f6712f.html",
-"https://manwaringforidaho.org/",
-"https://manwaringforidaho.org/2017-committee-assignments",
-"https://manwaringforidaho.org/20212022-committee-assignments-copy",
-"https://manwaringforidaho.org/contact",
-"https://manwaringforidaho.org/media",
-"https://manwaringforidaho.org/meet-dustin",
-"https://manwaringforidaho.org/news",
-"https://manwaringforidaho.org/news/2018/10/12/idaho-state-journal",
-"https://manwaringforidaho.org/news/2018/10/18/idaho-state-journal",
-"https://manwaringforidaho.org/news/2019/4/10/idaho-state-journal",
-"https://manwaringforidaho.org/news/2019/4/18/idaho-state-journal",
-"https://manwaringforidaho.org/news/2019/4/24/idaho-state-journal",
-"https://manwaringforidaho.org/news/2019/4/5/idaho-state-journal",
-"https://manwaringforidaho.org/news/2019/4/5/idaho-state-journal-1",
-"https://manwaringforidaho.org/news/2019/4/5/idaho-state-journal-2",
-"https://manwaringforidaho.org/news/2019/4/5/idaho-state-journal-3",
-"https://manwaringforidaho.org/news/2019/4/5/idaho-state-journal-4",
-"https://manwaringforidaho.org/news?author=529aae81e4b0f3077c295c77",
-"https://manwaringforidaho.org/news?offset=1539284040913",
-"https://manwaringforidaho.org/news?offset=1556141194331&reversePaginate=true",
-"https://manwaringforidaho.org/read-me",
-"https://manwaringforidaho.org/volunteer",
-"https://secure.squarespace.com/commerce/donate?donatePageId=5701eb188a65e235846c440b"
+{
+"text": "2017-2018 Committee Assignments",
+"href": "https://manwaringforidaho.org/2017-committee-assignments"
+},
+{
+"text": "2021-2022 Committee Assignments (Copy)",
+"href": "https://manwaringforidaho.org/20212022-committee-assignments-copy"
+},
+{
+"text": "April 10, 2019",
+"href": "https://manwaringforidaho.org/news/2019/4/10/idaho-state-journal"
+},
+{
+"text": "April 18, 2019",
+"href": "https://manwaringforidaho.org/news/2019/4/18/idaho-state-journal"
+},
+{
+"text": "April 24, 2019",
+"href": "https://manwaringforidaho.org/news/2019/4/24/idaho-state-journal"
+},
+{
+"text": "April 3, 2019",
+"href": "https://manwaringforidaho.org/news/2019/4/5/idaho-state-journal-4"
+},
+{
+"text": "Bio",
+"href": "https://manwaringforidaho.org/meet-dustin"
+},
+{
+"text": "Contact",
+"href": "https://manwaringforidaho.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.squarespace.com/commerce/donate?donatePageId=5701eb188a65e235846c440b"
+},
+{
+"text": "Dustin Manwaring",
+"href": "https://manwaringforidaho.org/news?author=529aae81e4b0f3077c295c77"
+},
+{
+"text": "Everyone’s an expert",
+"href": "https://www.idahostatejournal.com/opinion/columns/everyone-s-an-expert/article_fe39afde-9e02-59f0-b8fd-984c77b1f146.html"
+},
+{
+"text": "Home",
+"href": "https://manwaringforidaho.org/"
+},
+{
+"text": "Hybrid nation",
+"href": "https://www.idahostatejournal.com/opinion/columns/hybrid-nation/article_9341b638-8781-5bdd-9356-a0f15755afa2.html"
+},
+{
+"text": "Idaho State Journal",
+"href": "https://www.idahostatejournal.com/elections/democrat-abernathy-faces-republican-manwaring-for-state-representative/article_ab363b55-4a9d-54c2-80c7-d3aa10d31ca7.html"
+},
+{
+"text": "Idaho State Journal",
+"href": "https://www.idahostatejournal.com/opinion/columns/everyone-s-an-expert/article_fe39afde-9e02-59f0-b8fd-984c77b1f146.html"
+},
+{
+"text": "Idaho State Journal",
+"href": "https://www.idahostatejournal.com/opinion/columns/hybrid-nation/article_9341b638-8781-5bdd-9356-a0f15755afa2.html"
+},
+{
+"text": "Idaho State Journal",
+"href": "https://www.idahostatejournal.com/opinion/columns/it-goes-with-the-house/article_0e887ab5-c149-5bb8-85ae-101deb95d1a5.html"
+},
+{
+"text": "Idaho State Journal",
+"href": "https://www.idahostatejournal.com/opinion/columns/lessons-from-the-masters/article_898b236e-d9e3-5db5-bf4c-76c804b77dce.html"
+},
+{
+"text": "Idaho State Journal",
+"href": "https://www.idahostatejournal.com/opinion/columns/liberty-of-conscience/article_e4c71cd3-e445-5197-b0ef-4de3508bee12.html"
+},
+{
+"text": "Idaho State Journal",
+"href": "https://www.idahostatejournal.com/opinion/columns/lost-in-a-forest/article_0fb26e98-ce93-5928-9b8c-90fa0484a130.html"
+},
+{
+"text": "Idaho State Journal",
+"href": "https://www.idahostatejournal.com/opinion/columns/notre-dame-rising/article_10de719e-88a8-5ace-9299-63202db779dc.html"
+},
+{
+"text": "Idaho State Journal",
+"href": "https://www.idahostatejournal.com/opinion/columns/spring-training-my-mind/article_a8f97ed7-c554-546e-8178-98905a22f76b.html"
+},
+{
+"text": "Idaho State Journal",
+"href": "https://www.idahostatejournal.com/opinion/letters_to_editor/support-for-rep-dustin-manwaring/article_8b5bf33d-57ed-5bb5-a62e-f57fb1f6712f.html"
+},
+{
+"text": "Issues",
+"href": "https://manwaringforidaho.org/read-me"
+},
+{
+"text": "It",
+"href": "https://www.idahostatejournal.com/opinion/columns/it-goes-with-the-house/article_0e887ab5-c149-5bb8-85ae-101deb95d1a5.html"
+},
+{
+"text": "Lessons from the masters",
+"href": "https://www.idahostatejournal.com/opinion/columns/lessons-from-the-masters/article_898b236e-d9e3-5db5-bf4c-76c804b77dce.html"
+},
+{
+"text": "Liberty of conscience",
+"href": "https://www.idahostatejournal.com/opinion/columns/liberty-of-conscience/article_e4c71cd3-e445-5197-b0ef-4de3508bee12.html"
+},
+{
+"text": "Lost in a forest",
+"href": "https://www.idahostatejournal.com/opinion/columns/lost-in-a-forest/article_0fb26e98-ce93-5928-9b8c-90fa0484a130.html"
+},
+{
+"text": "March 13, 2019",
+"href": "https://manwaringforidaho.org/news/2019/4/5/idaho-state-journal-1"
+},
+{
+"text": "March 20, 2019",
+"href": "https://manwaringforidaho.org/news/2019/4/5/idaho-state-journal-2"
+},
+{
+"text": "March 27, 2019",
+"href": "https://manwaringforidaho.org/news/2019/4/5/idaho-state-journal-3"
+},
+{
+"text": "March 6, 2019",
+"href": "https://manwaringforidaho.org/news/2019/4/5/idaho-state-journal"
+},
+{
+"text": "Media",
+"href": "https://manwaringforidaho.org/media"
+},
+{
+"text": "Newer Posts",
+"href": "https://manwaringforidaho.org/news?offset=1556141194331&reversePaginate=true"
+},
+{
+"text": "News",
+"href": "https://manwaringforidaho.org/news"
+},
+{
+"text": "Notre Dame rising",
+"href": "https://www.idahostatejournal.com/opinion/columns/notre-dame-rising/article_10de719e-88a8-5ace-9299-63202db779dc.html"
+},
+{
+"text": "October 11, 2018",
+"href": "https://manwaringforidaho.org/news/2018/10/12/idaho-state-journal"
+},
+{
+"text": "October 18, 2018",
+"href": "https://manwaringforidaho.org/news/2018/10/18/idaho-state-journal"
+},
+{
+"text": "Older Posts",
+"href": "https://manwaringforidaho.org/news?offset=1539284040913"
+},
+{
+"text": "Republican Manwaring seeks Re-Election to State Representative",
+"href": "https://www.idahostatejournal.com/elections/democrat-abernathy-faces-republican-manwaring-for-state-representative/article_ab363b55-4a9d-54c2-80c7-d3aa10d31ca7.html"
+},
+{
+"text": "Speaker Scott Bedke endorses Manwaring for Re-election",
+"href": "https://www.idahostatejournal.com/opinion/letters_to_editor/support-for-rep-dustin-manwaring/article_8b5bf33d-57ed-5bb5-a62e-f57fb1f6712f.html"
+},
+{
+"text": "Spring training my mind",
+"href": "https://www.idahostatejournal.com/opinion/columns/spring-training-my-mind/article_a8f97ed7-c554-546e-8178-98905a22f76b.html"
+},
+{
+"text": "Volunteer",
+"href": "https://manwaringforidaho.org/volunteer"
+},
+{
+"text": "Wikipedia Bio",
+"href": "https://en.wikipedia.org/wiki/Dustin_Manwaring"
+},
+{
+"text": "[image: Manwaring for Idaho]",
+"href": "https://manwaringforidaho.org/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/590380881164207"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/manwaringforidaho/"
+},
+{
+"text": "dustin@manwaringforidaho.org",
+"href": "mailto:dustin@manwaringforidaho.org"
+},
+{
+"text": "goes with the house",
+"href": "https://www.idahostatejournal.com/opinion/columns/it-goes-with-the-house/article_0e887ab5-c149-5bb8-85ae-101deb95d1a5.html"
+},
+{
+"text": "https://www.idahostatejournal.com/elections/democrat-abernathy-faces-republican-manwaring-for-state-representative/article_ab363b55-4a9d-54c2-80c7-d3aa10d31ca7.html",
+"href": "https://www.idahostatejournal.com/elections/democrat-abernathy-faces-republican-manwaring-for-state-representative/article_ab363b55-4a9d-54c2-80c7-d3aa10d31ca7.html"
+},
+{
+"text": "https://www.idahostatejournal.com/opinion/columns/everyone-s-an-expert/article_fe39afde-9e02-59f0-b8fd-984c77b1f146.html",
+"href": "https://www.idahostatejournal.com/opinion/columns/everyone-s-an-expert/article_fe39afde-9e02-59f0-b8fd-984c77b1f146.html"
+},
+{
+"text": "https://www.idahostatejournal.com/opinion/columns/hybrid-nation/article_9341b638-8781-5bdd-9356-a0f15755afa2.html",
+"href": "https://www.idahostatejournal.com/opinion/columns/hybrid-nation/article_9341b638-8781-5bdd-9356-a0f15755afa2.html"
+},
+{
+"text": "https://www.idahostatejournal.com/opinion/columns/it-goes-with-the-house/article_0e887ab5-c149-5bb8-85ae-101deb95d1a5.html",
+"href": "https://www.idahostatejournal.com/opinion/columns/it-goes-with-the-house/article_0e887ab5-c149-5bb8-85ae-101deb95d1a5.html"
+},
+{
+"text": "https://www.idahostatejournal.com/opinion/columns/lessons-from-the-masters/article_898b236e-d9e3-5db5-bf4c-76c804b77dce.html",
+"href": "https://www.idahostatejournal.com/opinion/columns/lessons-from-the-masters/article_898b236e-d9e3-5db5-bf4c-76c804b77dce.html"
+},
+{
+"text": "https://www.idahostatejournal.com/opinion/columns/liberty-of-conscience/article_e4c71cd3-e445-5197-b0ef-4de3508bee12.html",
+"href": "https://www.idahostatejournal.com/opinion/columns/liberty-of-conscience/article_e4c71cd3-e445-5197-b0ef-4de3508bee12.html"
+},
+{
+"text": "https://www.idahostatejournal.com/opinion/columns/lost-in-a-forest/article_0fb26e98-ce93-5928-9b8c-90fa0484a130.html",
+"href": "https://www.idahostatejournal.com/opinion/columns/lost-in-a-forest/article_0fb26e98-ce93-5928-9b8c-90fa0484a130.html"
+},
+{
+"text": "https://www.idahostatejournal.com/opinion/columns/notre-dame-rising/article_10de719e-88a8-5ace-9299-63202db779dc.html",
+"href": "https://www.idahostatejournal.com/opinion/columns/notre-dame-rising/article_10de719e-88a8-5ace-9299-63202db779dc.html"
+},
+{
+"text": "https://www.idahostatejournal.com/opinion/columns/spring-training-my-mind/article_a8f97ed7-c554-546e-8178-98905a22f76b.html",
+"href": "https://www.idahostatejournal.com/opinion/columns/spring-training-my-mind/article_a8f97ed7-c554-546e-8178-98905a22f76b.html"
+},
+{
+"text": "https://www.idahostatejournal.com/opinion/letters_to_editor/support-for-rep-dustin-manwaring/article_8b5bf33d-57ed-5bb5-a62e-f57fb1f6712f.html",
+"href": "https://www.idahostatejournal.com/opinion/letters_to_editor/support-for-rep-dustin-manwaring/article_8b5bf33d-57ed-5bb5-a62e-f57fb1f6712f.html"
+}
 ]

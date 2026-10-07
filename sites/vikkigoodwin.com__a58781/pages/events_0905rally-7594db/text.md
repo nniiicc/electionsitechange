@@ -1,11 +1,10 @@
-Back to All Events
-Don’t miss Vikki Goodwin in Houston September 5 to rally for THC legalization!
-Expect music, art, and great vibes with Houstonians who are ready to use their power to make hemp history in November — RSVP here.
-Previous
-Previous
-September 3
-Legalize it!
-Phone Bank With Team Vikki
-Next
-Next
-September 7
+0 Skip to Content Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Folder: Priorities Back Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Folder: Endorsements Back Texas Voters Public Officials Organizations Volunteer News Online Store Donate Back to All Events Legalize it!
+Houston THC Rally Saturday, September 5, 2026 5:30 PM 7:30 PM White Oak Music Hall 2915 North Main Street Houston, Texas, 77009 United States (map) Google Calendar ICS Don’t miss Vikki Goodwin in Houston September 5 to rally for THC legalization!
+Expect music, art, and great vibes with Houstonians who are ready to use their power to make hemp history in November — RSVP here .
+Join Vikki Goodwin , our neighbors, and our community to ensure Dan Patrick gets the message that he cannot ban THC in Texas!
+We’re ready: To build the momentum we need to legalize and regulate THC in Texas.
+To gather in unity and to celebrate the power of our voices and our votes.
+For a historic event that reflects the legalization movement happening throughout the country.
+November is our moment to #BanDan and elect a Lieutenant Governor who will legalize and regulate THC in Texas: Vikki Goodwin!
+Previous Previous September 3 Legalize it!
+Phone Bank With Team Vikki Next Next September 7 Healthcare Town Hall - Midland Pol. adv. paid for by the Vikki Goodwin Campaign, Allen Biehl, Treasurer Campaign Inquiries: AskMe@VikkiGoodwin.com | ‪(352) 88-VIKKI / (352) 888-4554 | 9901 Brodie Lane, Suite 160-315, Austin, TX 78748 Legislative Inquiries: Vikki.Goodwin@house.texas.gov | (512) 463-0652 | P.O Box 2910, Austin, Texas 78768 Read our privacy policy here.

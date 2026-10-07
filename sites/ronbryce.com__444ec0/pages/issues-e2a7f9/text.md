@@ -1,5 +1,4 @@
-Issues
-- Over the years, I have treated patients who came to me with complications after an abortion.
+0 Skip to Content Meet Ron Issues In the News Join the Team Contact Legislative Updates TAKE ACTION Open Menu Close Menu Meet Ron Issues In the News Join the Team Contact Legislative Updates TAKE ACTION Open Menu Close Menu Meet Ron Issues In the News Join the Team Contact Legislative Updates TAKE ACTION Issues Life Over the years, I have treated patients who came to me with complications after an abortion.
 I’ve also treated babies born during the abortion procedure, and these have been some of the most heart-wrenching experiences imaginable.
 One patient, in particular, made a huge impact on how I think about this issue.
 My little patient accomplished the impossible - surviving the abortionist’s attempt to snuff out his life.
@@ -27,9 +26,9 @@ Finally, his grunting quieted, his movements ceased, and the grimace passed.
 I pronounced him dead.
 This experience early in my medical career profoundly influenced my understanding of the abortion issue.
 I will always respect human life.
-The “Value Them Both” constitutional amendment will be before the Kansas voters this August.
+The “ Value Them Both ” constitutional amendment will be before the Kansas voters this August.
 I encourage everyone to vote and help us pass this amendment.
-- I wrote the book Fingerprint of God to inspire believers to become unified through the bonds of Christian love.
+Conservative Values I wrote the book Fingerprint of God to inspire believers to become unified through the bonds of Christian love.
 I believe this is key for revival of the church.
 Too many times we have abdicated our duties to provide for those in need, the poor, and the hurting ... so we end up with government-sponsored programs to fill that need.
 I am thankful for the pastors and church leaders who are called upon to give of themselves so that the body of Christ may continue to live and flourish.
@@ -43,20 +42,19 @@ What kind of world are we creating for them?
 Will they be able to live out their lives as truly free people?
 That depends largely on what we as people of faith are willing to fight for.
 Are we willing to take a stand for our values?
-I will be a strong and consistent voice for conservative values
-- I believe there are incredible business opportunities right here in southeast Kansas, and I want to help lay the groundwork for prosperity.
+I will be a strong and consistent voice for conservative values Pro-Business I believe there are incredible business opportunities right here in southeast Kansas, and I want to help lay the groundwork for prosperity.
 My family and I started two businesses, and we’re now working on a third.
 One buys and restores deteriorating properties in the area.
 Another is Coffeyville Coffee Company which we created to promote Coffeyville and its rich history nationwide through coffee.
 My daughter and son-in-law are opening the third business this summer - it’s an ice cream shop.
 Good things are ahead for southeast Kansas!
 I want to be a part of what’s to come.
-- I believe people should be allowed to keep more of the money they earn through their own sweat and blood.
+Lower Taxes I believe people should be allowed to keep more of the money they earn through their own sweat and blood.
 I believe lawmakers should focus more on what is best for the taxpayers, rather than the tax consumers.
 If we have trouble paying the bills then the solution is more often than not to spend less rather than to tax more.
 I believe we should have limited government, with only as much red tape as is needed for public safety.
 And let individual taxpayers keep more of the money they worked hard to earn.
-- As a practicing physician, I have treated over 100,000 patients.
+Healthcare and COVID As a practicing physician, I have treated over 100,000 patients.
 Taking care of people and solving their medical problems has become second nature for me.
 So, I consider patient-focused healthcare legislation to be essential.
 And most of the problems we now face have a healthcare angle to them.
@@ -67,7 +65,7 @@ Our trusted institutions such as the CDC have become so politicized that people 
 We need experienced healthcare professionals who are knowledgeable and tell the truth rather than just parroting the agenda of a partisan group.
 I will do everything I can to earn the respect and trust of the people of southeast Kansas.
 I think it’s essential we have people making healthcare decisions who are in tune with southeast Kansas values.
-- We frequently hear about biological males competing in women’s athletics.
+Transgender Athletics We frequently hear about biological males competing in women’s athletics.
 This cannot be tolerated.
 It is destroying the progress we’ve made in women’s sports over the last several decades.
 One of my daughters competed through college as an NCAA Division I basketball player.
@@ -76,7 +74,12 @@ I could never go for that.
 I understand transgenderism has become a prominent issue.
 And many of these people are hurting and need help.
 But biological men competing in women's sports is not the answer.
-- I respect and support the Second Amendment.
+Second Amendment I respect and support the Second Amendment.
 It’s not only necessary for law-abiding people as a means of self-defense.
 It could become our last line of defense as free people.
-Take Action
+Take Action Join Ron Bryce Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join the Team Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+P.O.
+Box 486, Coffeyville, KS 67337 | (620) 252-9881 | ron@ronbryce.com Paid for by Ron Bryce for Kansas House, Rick Hensley, Treasurer.

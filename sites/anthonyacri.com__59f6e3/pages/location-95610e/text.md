@@ -1,7 +1,2 @@
-POLITICS DOESN'T MATTER
-RESULTS DO
-As your next Ward State Representative;
-I will be YOUR voice.
-Vote Anthony Acri
-State Representative
-97th District
+AnthonyAcri.com Home Events with Anthony Gallery Location Contact us AnthonyAcri.com Connect POLITICS DOESN'T MATTER RESULTS DO As your next Ward State Representative; I will be YOUR voice.
+Vote Anthony Acri State Representative 97th District DONATE Address New Haven, CT, US Pages Home Events with Anthony Gallery Location Contact us AnthonyAcri.com About us Approved by Anthony Acri Paid for Acri 2026 Linda McDonough Treasurer AnthonyAcri.com

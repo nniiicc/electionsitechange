@@ -1,10 +1,28 @@
 {
  "description": "Mark Carver in the News",
  "final_url": "https://www.markdcarverfornchouse109.com/news",
- "paid_for_by": null,
+ "fingerprint": "a2b9c932cfa569b980da65ca39ddef92f5548ff1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "NC Public Schools Falling Behind",
  "years_mentioned": [
+  "1982",
+  "1985",
+  "1992",
+  "1994",
+  "1996",
   "2013",
-  "2025"
+  "2023",
+  "2024",
+  "2025",
+  "2026",
+  "2027",
+  "2028",
+  "2029",
+  "2030",
+  "2033",
+  "2034",
+  "2035",
+  "2040"
  ]
 }

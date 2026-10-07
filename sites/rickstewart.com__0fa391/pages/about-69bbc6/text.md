@@ -1,7 +1,7 @@
-Rick was born in Postville, Iowa, on August 3, 1951 (he’s 70 and will be 71 when he wins the election), the second son of Bill and Helen Stewart.
-His family moved to Maquoketa, Iowa, when he was 8 years old.
+Search Close Home About Issues 2nd Amendment Clean Iowa Education Eminent Domain End the Drug War Ethanol Local control of local issues Mental Health National Guard Obscene books Occupational licensing Ranked Choice Voting News Volunteer Contact Store Donate Menu Home About Issues 2nd Amendment Clean Iowa Education Eminent Domain End the Drug War Ethanol Local control of local issues Mental Health National Guard Obscene books Occupational licensing Ranked Choice Voting News Volunteer Contact Store Donate Rick Stewart - 21st Century Governor Rick was born in Postville , Iowa, on August 3, 1951 (he’s 70 and will be 71 when he wins the election), the second son of Bill and Helen Stewart.
+His family moved to Maquoketa , Iowa, when he was 8 years old.
 He attended Iowa public schools through eighth grade, then won a scholarship to attend Phillips Academy in Andover, Massachusetts, where he graduated in 1969, in spite of a fair share of authority problems encountered along the way.
-He attended Menlo College in Menlo Park, California, for one year, then came back to Iowa for a summer session at Clinton Community College, where he failed to excel.
+He attended Menlo College in Menlo Park, California, for one year, then came back to Iowa for a summer session at Clinton Community College , where he failed to excel.
 His mother enrolled him at Iowa State University without his knowledge or permission, but it turned fortuitous when the summer ended and Rick had no other plans.
 He lasted for one mind altering semester before dropping out and taking an extended mind expanding trip to Europe, the Middle East, and Asia.
 We’re being somewhat frivolous – the foreign trip involved only hashish, getting progressively better as he moved from Morocco to Lebanon to Afghanistan, where the freshly hand pressed Afghani black cost two cents a gram (later the War on Drugs gave the Afghans the opportunity to get into the heroin business, with which they financed the Taliban and you know the rest of the story).
@@ -56,3 +56,5 @@ A team is in place and, in spite of the Des Moines politicians raising the numbe
 A team has been built and, in spite of not having found a viral tweet master, or a magic million dollar donor, the machinery is in place to break through the castle walls the incumbent parties have built to keep out the barbarian intruders and their dangerous libertarian ideas.
 You’ll hear from Rick.
 He shall overcome.
+Paid for by Rick Stewart In all that I do, at all times and with all people, I will conduct my affairs, the affairs of my campaign, and the affairs of my office, with unwavering integrity.
+The First Choice for Iowa Governor All Rights Reserved

@@ -1,10 +1,38 @@
 [
-"http://facebook.com/dundasformnhouse",
-"http://instagram.com/dundas_for_mn_house",
-"https://dundasformnhouse.com/",
-"https://dundasformnhouse.com/challenge",
-"https://dundasformnhouse.com/connect",
-"https://dundasformnhouse.com/priorities",
-"https://dundasformnhouse.com/spanish",
-"https://dundasformnhouse.com/vote"
+{
+"text": "Connect",
+"href": "https://www.dundasformnhouse.com/connect"
+},
+{
+"text": "English",
+"href": "https://www.dundasformnhouse.com"
+},
+{
+"text": "Home",
+"href": "https://www.dundasformnhouse.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.dundasformnhouse.com/priorities"
+},
+{
+"text": "Spanish",
+"href": "https://www.dundasformnhouse.com/spanish"
+},
+{
+"text": "Volunteer Challenge",
+"href": "https://www.dundasformnhouse.com/challenge"
+},
+{
+"text": "Vote",
+"href": "https://www.dundasformnhouse.com/vote"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/dundasformnhouse"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/dundas_for_mn_house"
+}
 ]

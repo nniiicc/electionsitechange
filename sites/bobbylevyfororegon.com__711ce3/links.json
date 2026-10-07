@@ -1,13 +1,66 @@
 [
-"http://facebook.com/bobbylevyfororegon",
-"https://bobbylevyfororegon.b-cdn.net/wp-content/uploads/2019/12/Bob-and-Bobby-Web-1030x687.jpg",
-"https://bobbylevyfororegon.b-cdn.net/wp-content/uploads/2019/12/Coffee-1-1.jpg",
-"https://bobbylevyfororegon.b-cdn.net/wp-content/uploads/2019/12/Mill-Tour-Web-1030x687.jpg",
-"https://bobbylevyfororegon.b-cdn.net/wp-content/uploads/2019/12/Onion-2.jpg",
-"https://bobbylevyfororegon.com/",
-"https://bobbylevyfororegon.com/?avia-element-paging=2",
-"https://bobbylevyfororegon.com/?avia-element-paging=3",
-"https://bobbylevyfororegon.com/endorsements",
-"https://bobbylevyfororegon.com/issues",
-"https://secure.anedot.com/friends-of-bobby-levy/donate"
+{
+"text": "2",
+"href": "https://bobbylevyfororegon.com/?avia-element-paging=2"
+},
+{
+"text": "3",
+"href": "https://bobbylevyfororegon.com/?avia-element-paging=3"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-bobby-levy/donate"
+},
+{
+"text": "ENDORSE BOBBY",
+"href": "https://bobbylevyfororegon.com/endorsements/#volunteer"
+},
+{
+"text": "Endorsement Form",
+"href": "https://bobbylevyfororegon.com/endorsements/#volunteer"
+},
+{
+"text": "Endorsements",
+"href": "https://bobbylevyfororegon.com/endorsements/"
+},
+{
+"text": "FACEBOOK",
+"href": "http://www.facebook.com/bobbylevyfororegon"
+},
+{
+"text": "Issues",
+"href": "https://bobbylevyfororegon.com/issues/"
+},
+{
+"text": "Link to Facebook",
+"href": "http://www.facebook.com/bobbylevyfororegon"
+},
+{
+"text": "Meet Bobby",
+"href": "https://bobbylevyfororegon.com/#meetbobby"
+},
+{
+"text": "Volunteer",
+"href": "https://bobbylevyfororegon.com/endorsements/#volunteer"
+},
+{
+"text": "[image: Bobby Levy for Oregon]",
+"href": "https://bobbylevyfororegon.com/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://bobbylevyfororegon.b-cdn.net/wp-content/uploads/2019/12/Bob-and-Bobby-Web-1030x687.jpg"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://bobbylevyfororegon.b-cdn.net/wp-content/uploads/2019/12/Coffee-1-1.jpg"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://bobbylevyfororegon.b-cdn.net/wp-content/uploads/2019/12/Mill-Tour-Web-1030x687.jpg"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://bobbylevyfororegon.b-cdn.net/wp-content/uploads/2019/12/Onion-2.jpg"
+}
 ]

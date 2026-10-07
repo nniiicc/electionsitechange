@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Caucus+%2B+Assembly+Social&dates=20260224T020000Z%2F20260224T030000Z&location=3121+North+Garfield+Avenue%2C+Loveland%2C+CO%2C+80538%2C+United+States",
-"http://maps.google.com/?q=3121+North+Garfield+Avenue+Loveland%2C+CO%2C+80538+United+States",
-"https://facebook.com/janiceforcolorado",
-"https://instagram.com/senatorjanicemarchman",
-"https://janiceforcolorado.com/",
-"https://janiceforcolorado.com/about",
-"https://janiceforcolorado.com/cart",
-"https://janiceforcolorado.com/contact",
-"https://janiceforcolorado.com/events",
-"https://janiceforcolorado.com/events/caucus-assembly-social?format=ical",
-"https://janiceforcolorado.com/events/march-meet-and-greet",
-"https://janiceforcolorado.com/events/sugarloaf-meet-greet",
-"https://janiceforcolorado.com/get-involved",
-"https://janiceforcolorado.com/media",
-"https://janiceforcolorado.com/priorities",
-"https://secure.actblue.com/donate/janice-marchman-for-colorado-senate-1",
-"https://secure.actblue.com/donate/sd15caucus"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3121+north+garfield+avenue+loveland%2C+co%2C+80538+united+states"
+},
+{
+"text": "0",
+"href": "https://www.janiceforcolorado.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.janiceforcolorado.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.janiceforcolorado.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.janiceforcolorado.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/janice-marchman-for-colorado-senate-1"
+},
+{
+"text": "Events",
+"href": "https://www.janiceforcolorado.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.janiceforcolorado.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Caucus+%2B+Assembly+Social&dates=20260224T020000Z%2F20260224T030000Z&location=3121+North+Garfield+Avenue%2C+Loveland%2C+CO%2C+80538%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.janiceforcolorado.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/caucus-assembly-social?format=ical"
+},
+{
+"text": "Media",
+"href": "https://www.janiceforcolorado.com/media"
+},
+{
+"text": "Next Next March 21 MARCH Meet + Greet IN LOVELAND",
+"href": "https://www.janiceforcolorado.com/events/march-meet-and-greet"
+},
+{
+"text": "Previous Previous February 7 Sugarloaf Meet + Greet",
+"href": "https://www.janiceforcolorado.com/events/sugarloaf-meet-greet"
+},
+{
+"text": "Priorities",
+"href": "https://www.janiceforcolorado.com/priorities"
+},
+{
+"text": "RSVP",
+"href": "https://secure.actblue.com/donate/sd15caucus"
+},
+{
+"text": "[image: Janice Marchman for Colorado State Senate]",
+"href": "https://www.janiceforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/janiceforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/senatorjanicemarchman/"
+}
 ]

@@ -1,11 +1,19 @@
-Education and Workforce Development
-Every child deserves access to a high-quality public education, regardless of their ZIP code, family income, or background.
+Invest in Our Mission Dontate now to support Sarah’s bold agenda that benefits workers and families. $10 $25 $100 $250 $500 Other amount Close Facebook Twitter Instagram TikTok Sarah McBride for Congress Menu Home Meet Sarah Priorities Care Economy Climate Change Criminal Justice Reform Delaware’s Agriculture Economy Education and Workforce Development Gun Violence Healthcare Immigration Making Life More Affordable Reproductive Health Care Science & Technology Veterans Voting Rights and American Democracy Workers’ Rights & Strong Unions Results Endorsements News Volunteer Store Donate Education and Workforce Development Every child deserves access to a high-quality public education, regardless of their ZIP code, family income, or background.
 Strong public schools are the foundation of opportunity, preparing students for good-paying jobs, higher education, and engaged citizenship while strengthening our communities and economy.
 I’ll continue fighting to support our public schools, invest in educators, expand opportunities for students, and ensure every child—including students with disabilities—has the resources they need to succeed.
 I’ll also continue to champion workforce development by strengthening career and technical education, apprenticeships, and partnerships with employers so students and workers alike have pathways to good-paying jobs in Delaware’s growing economy.
-In Congress, I’ve:
-- Introduced the bipartisan Biotechnology for All High School Students Act, to expand access to hands-on biotechnology education and help prepare the next generation of innovators and workers in healthcare, agriculture, manufacturing, and other critical industries.
+In Congress, I’ve: Introduced the bipartisan Biotechnology for All High School Students Act , to expand access to hands-on biotechnology education and help prepare the next generation of innovators and workers in healthcare, agriculture, manufacturing, and other critical industries.
 The bill supports teachers and students with grants for curriculum, laboratory equipment, professional development, and workforce training.
-- Cosponsored the Department of Education Protection Act, to prevent federal funds from being used to dismantle the Department of Education and protect the agency’s ability to support students, educators, and schools across the country.
-- Cosponsored the Keep Our PACT Act and the IDEA Full Funding Act, to provide schools with the resources they need to support students with disabilities by fulfilling the federal government’s commitment to fully fund the Individuals with Disabilities Education Act (IDEA) and strengthening special education services in schools across the country.
-- Delivered federal dollars to a new Delaware Skills Center to expand workforce training opportunities in the state.
+Cosponsored the Department of Education Protection Act , to prevent federal funds from being used to dismantle the Department of Education and protect the agency’s ability to support students, educators, and schools across the country.
+Cosponsored the Keep Our PACT Act and the I DEA Full Funding Act , to provide schools with the resources they need to support students with disabilities by fulfilling the federal government’s commitment to fully fund the Individuals with Disabilities Education Act (IDEA) and strengthening special education services in schools across the country.
+Delivered federal dollars to a new Delaware Skills Center to expand workforce training opportunities in the state.
+Additional Priorities Care Economy Climate Change Criminal Justice Reform Delaware’s Agriculture Economy Gun Violence Healthcare Immigration Making Life More Affordable Reproductive Health Care Science & Technology Veterans Voting Rights and American Democracy Workers’ Rights & Strong Unions Get Involved Sign up here to get the latest information on the campaign and how to get involved.
+First name Email address Zip code Mobile number By providing your mobile number, you consent to receive voter contact, donation asks, and informational messages from McBride for Delaware.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Text HELP for help.
+Privacy Policy and Terms .
+Submit Chip in today Contribute to our cause by making a donation to our campaign. $# $# $# $# $# Other amount Sarah McBride for Congress Home Meet Sarah Priorities Care Economy Climate Change Criminal Justice Reform Delaware’s Agriculture Economy Education and Workforce Development Gun Violence Healthcare Immigration Making Life More Affordable Reproductive Health Care Science & Technology Veterans Voting Rights and American Democracy Workers’ Rights & Strong Unions Results Endorsements News Volunteer Store Donate Follow Us: Facebook Twitter Instagram TikTok Donate By Mail McBride for Delaware P.O.
+Box 1904 Wilmington, DE 19899 Paid for by McBride for Delaware, Inc.
+Contact Privacy Policy Made with Middle Seat

@@ -1,5 +1,4 @@
-Meet Patrick
-Hi!
+0 Skip to Content Home Meet Patrick Endorsements Priorities Contact Gallery Donate Open Menu Close Menu Home Meet Patrick Endorsements Priorities Contact Gallery Donate Open Menu Close Menu Home Meet Patrick Endorsements Priorities Contact Gallery Donate Meet Patrick Hi!
 I’m Patrick Stickney.
 As many families do, I grew up in a cycle between good and hard times.
 My four siblings and I have been through a lot, and I love them each for who they are.
@@ -29,8 +28,8 @@ I have seen where our state agencies fall short, and the daily challenges my nei
 Our state is failing to support families like the one I grew up in, and our leaders don’t understand what working families truly need.
 It is past time that our leadership speaks to the needs of our communities, and works to be proactive, instead of reactive, in addressing community harms.
 I am running to be your State Representative to make that difference, and to bring your voice to Olympia.
-Contact us
-Questions?
+Contact us Questions?
 Concerns?
 Interest in volunteering?
 Reach out to our team and we will get back to you!
+Paid for by People for Patrick Stickney PO Box 7437, Tacoma, WA 98417 info@votestickney.com

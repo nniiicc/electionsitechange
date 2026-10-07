@@ -1,2 +1,5 @@
-Voters need to know they can count on Ted Eischeid to put East Anchorage ahead of party politics.
+Skip to content Home Meet Ted Priorities Media Endorsements Vote Get Involved Home Meet Ted Priorities Media Endorsements Vote Get Involved Donate Media Voters need to know they can count on Ted Eischeid to put East Anchorage ahead of party politics.
 Ted was proud to join a bipartisan House Majority that committed to organize around education, pensions, energy security, and producing a balanced budget.
+Official Campaign Images Donate Donate Today Contact 907-215-0312 ted4ak@gmail.com Follow Us X-twitter Facebook Instagram Paid for by Ted for Alaska 410 Mellow Pl, Anchorage, AK 99508 Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

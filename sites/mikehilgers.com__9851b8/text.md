@@ -1,15 +1,5 @@
-- Fight Federal Overreach
-- Protect the Constitution
-- Protect our Children
-- Stand with Law Enforcement
-- Defend Innocent Life
-- Keep Communities Safe
-Fight Federal Overreach
-Protect the Constitution
-Protect Our Children
-Stand with Law Enforcement
-Defend Innocent Life
-Keep Communities Safe
-Donate
-Connect with Mike
-Paid for by Friends of Mike Hilgers. 1320 Lincoln Mall Lincoln, NE 68508
+Home About Accomplishments Endorsements Get Involved Donate Mike Hilgers for Nebraska Attorney General Mike Hilgers will: Fight Federal Overreach Protect the Constitution Protect our Children Stand with Law Enforcement Defend Innocent Life Keep Communities Safe Fight Federal Overreach Protect the Constitution Protect Our Children Stand with Law Enforcement Defend Innocent Life Keep Communities Safe “We aspire to be the hardest working, most tenacious, entrepreneurial and conservative office in the country.
+Every day we are defending Nebraskans’ rights.
+From beating the Biden Administration at the United States Supreme Court, to protecting children from predatory social media companies, fighting for Nebraska’s industries, and protecting low-cost energy and our critical water supplies—we work to honor the trust given to us by Nebraskans.” - Mike Hilgers Mike Hilgers for Attorney General Join #TeamHilgers today!
+Get Involved Donate Home About Accomplishments Endorsements Get Involved Connect with Mike Paid for by Friends of Mike Hilgers.
+1320 Lincoln Mall Lincoln, NE 68508

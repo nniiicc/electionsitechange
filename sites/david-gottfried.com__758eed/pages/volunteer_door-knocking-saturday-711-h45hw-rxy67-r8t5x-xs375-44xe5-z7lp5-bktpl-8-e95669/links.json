@@ -1,22 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+9%2F10&dates=20260910T210000Z%2F20260911T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://maps.google.com/?q=2805+Hamline+Avenue+North+Roseville%2C+Minnesota%2C+55113+United+States",
-"https://bsky.app/profile/davidformn40b.bsky.social",
-"https://david-gottfried.com/",
-"https://david-gottfried.com/cart",
-"https://david-gottfried.com/contact",
-"https://david-gottfried.com/endorsements-distinctions",
-"https://david-gottfried.com/meet-david",
-"https://david-gottfried.com/new-dropdown",
-"https://david-gottfried.com/photos",
-"https://david-gottfried.com/vision",
-"https://david-gottfried.com/volunteer",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-e9229",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd",
-"https://david-gottfried.com/volunteer?category=Door-knocking",
-"https://david-gottfried.com/volunteer?tag=Door-knocking",
-"https://facebook.com/profile.php?id=61556122410352",
-"https://forms.gle/fdfiTYyeeETfS8g29",
-"https://secure.actblue.com/donate/dgformn"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2805+hamline+avenue+north+roseville%2C+minnesota%2C+55113+united+states"
+},
+{
+"text": "0",
+"href": "https://www.david-gottfried.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.david-gottfried.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.david-gottfried.com/volunteer"
+},
+{
+"text": "Contact",
+"href": "https://www.david-gottfried.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dgformn"
+},
+{
+"text": "Door-knocking",
+"href": "https://www.david-gottfried.com/volunteer?category=Door-knocking"
+},
+{
+"text": "Door-knocking",
+"href": "https://www.david-gottfried.com/volunteer?tag=Door-knocking"
+},
+{
+"text": "Endorsements & Distinctions",
+"href": "https://www.david-gottfried.com/endorsements-distinctions"
+},
+{
+"text": "Folder: About",
+"href": "https://www.david-gottfried.com/new-dropdown"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+9%2F10&dates=20260910T210000Z%2F20260911T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype?format=ical"
+},
+{
+"text": "Meet David",
+"href": "https://www.david-gottfried.com/meet-david"
+},
+{
+"text": "Next Next September 12 Door Knocking Saturday, 9/12",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-e9229"
+},
+{
+"text": "Photos",
+"href": "https://www.david-gottfried.com/photos"
+},
+{
+"text": "Previous Previous September 9 Phone Banking Wednesday, 9/9",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd"
+},
+{
+"text": "Vision",
+"href": "https://www.david-gottfried.com/vision"
+},
+{
+"text": "Volunteer",
+"href": "https://www.david-gottfried.com/volunteer"
+},
+{
+"text": "[image: David Gottfried for MN40B]",
+"href": "https://www.david-gottfried.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/davidformn40b.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61556122410352"
+},
+{
+"text": "https://forms.gle/fdfiTYyeeETfS8g29",
+"href": "https://forms.gle/fdfiTYyeeETfS8g29"
+}
 ]

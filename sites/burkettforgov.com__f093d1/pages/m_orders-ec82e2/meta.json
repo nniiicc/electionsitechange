@@ -1,7 +1,9 @@
 {
  "description": "Join us as the only campaign: Not accepting contributions Not affiliated or controlled by the Democrat or Republican Party",
  "final_url": "https://burkettforgov.com/m/login?r=%2Fm%2Forders",
- "paid_for_by": null,
+ "fingerprint": "f76fafc519a30c1940e1dbd21c16fb4d224bf1da",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Login",
  "years_mentioned": []
 }

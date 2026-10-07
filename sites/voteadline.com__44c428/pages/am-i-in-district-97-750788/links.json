@@ -1,12 +1,54 @@
 [
-"http://benchmark.probate.mobilecountyal.gov/uploads/Districts/House97.pdf",
-"https://facebook.com/RepAdlineClarke",
-"https://myinfo.alabamavotes.gov/voterview",
-"https://voteadline.com/",
-"https://voteadline.com/about-adline",
-"https://voteadline.com/am-i-in-district-97",
-"https://voteadline.com/gallery",
-"https://voteadline.com/let-me-hear-from-you",
-"https://voteadline.com/my-record",
-"https://voteadline.com/platform"
+{
+"text": "ABOUT ADLINE",
+"href": "https://www.voteadline.com/about-adline"
+},
+{
+"text": "CONTACT",
+"href": "https://www.voteadline.com/let-me-hear-from-you"
+},
+{
+"text": "DISTRICT MAP",
+"href": "https://www.voteadline.com/am-i-in-district-97"
+},
+{
+"text": "GALLERY",
+"href": "https://www.voteadline.com/gallery"
+},
+{
+"text": "HOME",
+"href": "https://www.voteadline.com"
+},
+{
+"text": "MY RECORD",
+"href": "https://www.voteadline.com/my-record"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.voteadline.com/platform"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/RepAdlineClarke/"
+},
+{
+"text": "[image: House97.png]",
+"href": "http://benchmark.probate.mobilecountyal.gov/uploads/Districts/House97.pdf"
+},
+{
+"text": "here",
+"href": "http://benchmark.probate.mobilecountyal.gov/uploads/Districts/House97.pdf"
+},
+{
+"text": "here",
+"href": "https://myinfo.alabamavotes.gov/voterview"
+},
+{
+"text": "interactive site",
+"href": "https://myinfo.alabamavotes.gov/voterview"
+},
+{
+"text": "www.alabamavotes.gov.",
+"href": "https://myinfo.alabamavotes.gov/voterview"
+}
 ]

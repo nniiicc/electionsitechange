@@ -1,37 +1,9 @@
-MY EXPERIENCE
-I believe that we should do what we can to improve the lives of others by giving back to our community.
+Meet Dana Accomplishments In 2026 Experience Endorsements Awards Support Contribute Serve As A Poll Greeter Press Photos Menu Street Address City, State, Zip Phone Number Conservative for NC Senate Your Custom Text Here Meet Dana Accomplishments In 2026 Experience Endorsements Awards Support Contribute Serve As A Poll Greeter Press Photos CONTRIBUTE TO THE DANA CAUDILL jONES NC SENATE CAMPAIGN MY EXPERIENCE I believe that we should do what we can to improve the lives of others by giving back to our community.
 Over the years it has been my privilege and pleasure to work with many fine people as a supporter, volunteer and board member of organizations that help others.
 I am also proud of my professional and personal accomplishments over the years.
 This page provides a glimpse into my background, experience and qualifications.
-Summary of Qualifications
-- Over a decade of experience on various boards and leadership roles in the community
-- Strong passion for business community, public education, and mental health
-- Known for effective communication, collaboration, and problem-solving
-- Proven track record of successful leadership in both non-profit and for-profit sectors
-- Dedicated and committed to achieving excellence in all aspects of work and life
-Education
-- Graduate of High Point University, Bachelor of Arts in Political Science, 1993
-- Graduate of The Leadership Kernersville Program, 1997
-- Graduate of The Piedmont Triad Leadership Network, 1999
-- Graduate of UNC School of Government Leadership Academy Elected Officials
-- Graduate of Leadership Winston-Salem, 2016
-Professional Experience
-- President – Caudill's Commercial Electric Company, Inc.
-- Established strategic goals and objectives for the company that led to being named one of the top 100 small businesses in NC
-- Demonstrated strong leadership, communication, business management, and problem-solving skills that resulted in successful completion of numerous projects
-- Maintained great relationships with stakeholders and clients
-Community Service
-- Founding Member – Winston-Salem/Forsyth County Schools Education Foundation
-- Current Member – Kernersville Chamber of Commerce Board of Directors
-- Current Member – High Point University Alumni Board of Directors
-- Current Member – Korner’s Folly Foundation Board of Directors
-- Former Aldermen and Mayor Pro Tem – Town of Kernersville (2003 - 2013)
-- Former Member – Winston-Salem/Forsyth County Board of Education (2015-2023), Chair of the board (2015-2018)
-- Former Member – Forsyth Technical College Board of Trustees
-- Former Member – Arts Council of Winston-Salem
-- Former Member and past President – Kernersville Medical Center Foundation Board of Directors
-- Honored recipient of various community awards: Kernersville Citizen of the Year 2012, Community Distinguished Service Award 2016, The “Lonesome Ed” McKnight Award in 2021 from FCGOP
-Hobbies & Interests
-- Member of Reynolda Church
-- Enjoy spending time with David, my husband of 28 years, and my son, who is 23 years old
-- Love animals (especially my German Shepherd) and enjoy live music
+Summary of Qualifications Over a decade of experience on various boards and leadership roles in the community Strong passion for business community, public education, and mental health Known for effective communication, collaboration, and problem-solving Proven track record of successful leadership in both non-profit and for-profit sectors Dedicated and committed to achieving excellence in all aspects of work and life Education Graduate of High Point University, Bachelor of Arts in Political Science, 1993 Graduate of The Leadership Kernersville Program, 1997 Graduate of The Piedmont Triad Leadership Network, 1999 Graduate of UNC School of Government Leadership Academy Elected Officials Graduate of Leadership Winston-Salem, 2016 Professional Experience President – Caudill's Commercial Electric Company, Inc.
+Established strategic goals and objectives for the company that led to being named one of the top 100 small businesses in NC Demonstrated strong leadership, communication, business management, and problem-solving skills that resulted in successful completion of numerous projects Maintained great relationships with stakeholders and clients Community Service Founding Member – Winston-Salem/Forsyth County Schools Education Foundation Current Member – Kernersville Chamber of Commerce Board of Directors Current Member – High Point University Alumni Board of Directors Current Member – Korner’s Folly Foundation Board of Directors Former Aldermen and Mayor Pro Tem – Town of Kernersville (2003 - 2013) Former Member – Winston-Salem/Forsyth County Board of Education (2015-2023), Chair of the board (2015-2018) Former Member – Forsyth Technical College Board of Trustees Former Member – Arts Council of Winston-Salem Former Member and past President – Kernersville Medical Center Foundation Board of Directors Honored recipient of various community awards: Kernersville Citizen of the Year 2012, Community Distinguished Service Award 2016, The “Lonesome Ed” McKnight Award in 2021 from FCGOP Hobbies & Interests Member of Reynolda Church Enjoy spending time with David, my husband of 28 years, and my son, who is 23 years old Love animals (especially my German Shepherd) and enjoy live music E-mail Dana • Press Photos Get occasional news from Dana. she'll never share your email address with others.
+Contact Dana WHERE IS NORTH CAROLINA SENATE DISTRICT 31?
+Kernersville • Winston-Salem • Clemmons • King • Lewisville • Pfafftown • Walnut Cove • Rural Hall • Walkertown • Tobaccoville • Germanton • Pinnacle • Westfield • Belews Creek • Madison • Sandy Ridge • Danbury • Lawsonville • Pilot Mountain • High Point • Pine Hall • Mount Airy • Colfax • Stokesdale 27284 • 27105 • 27106 • 27107 • 27104 • 27101 • 27103 • 27012 • 27021 • 27023 • 27040 • 27052 • 27045 • 27051 • 27050 • 27019 • 27043 • 27053 • 27009 • 27025 • 27046 • 27016 • 27022 • 27041 • 27265 • 27042 • 27030 • 27235 • 27357 Union Cross Baptist Church • Sedge Garden Elementary School • Hampton Inn Kernersville • Southeast Middle School • The Crossing Church • Glenn High School • Belews Creek Fire Station • Rural Hall Elementary School • Northwest Middle School • Saint Andrews Presbyterian Church • Kingswood United Methodist Church • Friedland Moravian Church • Clemmons First Baptist Church • Clemmons Presbyterian Church • VFW Post 9010 • Clemmons Civic Center • Holy Family Catholic Church • Paddison Memorial Branch Library • Piney Grove Fire Station • East Forsyth Middle School • Kernersville Elementary School • Kernersville 7th Day Adventist Church • Piney Grove Elementary School • Kernersville Fire Station #42 • Project:Re3 Church • Mary Alice Warren Community Center • Unity Moravian Church • Meadowlark Middle School • New Hope AME Zion Church • Agape Faith Church • Southwest Elementary School • Edgewood Baptist Church • East Forsyth High School • Alice Watts Tuttle Community Center • Macedonia Baptist Church • Bethania Moravian Church • Red Bank Baptist Church • Walkertown Branch Library • Vienna Baptist Church • Pfafftown Christian Church • Grace Baptist Church • Shiloh Lutheran Church • Linville Forest Church of Christ • Sedge Garden Recreation Center • Mt.
+Olive Elementary School • Danbury Fire Department • Poplar Springs Church • Southeastern Middle School • Rock House Community Building • Francisco Community Building • Germanton Elementary School • Piney Grove Middle School • East Stokes Community Building • Mountain View Community Building • Sauratown Fire Department • Stokes Rockingham Fire Rescue • Pinnacle Elementary School • Nancy Reynolds Elementary School • Northeast Stokes Fire Department • Recreation Acres Community Building • Walnut Cove Fire Department • South Stokes High School Paid For By Dana Caudill Jones NC Senate.

@@ -1,7 +1,26 @@
 [
-"https://aichholzforohio.com/",
-"https://aichholzforohio.com/getinvolved",
-"https://aichholzforohio.com/meetnancy",
-"https://aichholzforohio.com/vision",
-"https://secure.anedot.com/aichholz-for-ohio/aichholzforohio"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/aichholz-for-ohio/aichholzforohio"
+},
+{
+"text": "Get Involved",
+"href": "https://www.aichholzforohio.com/getinvolved"
+},
+{
+"text": "Home",
+"href": "https://www.aichholzforohio.com"
+},
+{
+"text": "Meet Nancy",
+"href": "https://www.aichholzforohio.com/meetnancy"
+},
+{
+"text": "Nancy's Vision",
+"href": "https://www.aichholzforohio.com/vision"
+},
+{
+"text": "[no text]",
+"href": "https://www.aichholzforohio.com"
+}
 ]

@@ -1,10 +1,4 @@
-FOR IMMEDIATE RELEASE
-Aug 29, 2026
-Contact: Alyvia Bailey
-alyvia@johnjamesmi.com
-MICHIGAN DEMOCRATS SOLIDIFY THEIR MOST RADICAL TICKET YET
-El-Sayed, Benson, and Brinks: Bernie, AOC, and Mamdani’s Michigan Recruits
-SHELBY TOWNSHIP, MI — Michigan Democrats are gathering in Lansing today to make it official — and oh, what a ticket they’ve assembled.
+Skip to content Meet John Meet Jay What We’re Fighting For The Flight Plan 2037 Get the Facts Coalitions News & Events Store Donate Meet John Meet Jay What We’re Fighting For The Flight Plan 2037 Get the Facts Coalitions News & Events Store Donate ← News & Events Press Release · August 31, 2026 FOR IMMEDIATE RELEASE Aug 29, 2026 Contact: Alyvia Bailey alyvia@johnjamesmi.com MICHIGAN DEMOCRATS SOLIDIFY THEIR MOST RADICAL TICKET YET El-Sayed, Benson, and Brinks: Bernie, AOC, and Mamdani’s Michigan Recruits SHELBY TOWNSHIP, MI — Michigan Democrats are gathering in Lansing today to make it official — and oh, what a ticket they’ve assembled.
 Meet Michigan’s most radical Democrat slate in state history: Jocelyn Benson, Winnie Brinks and Abdul El-Sayed.
 Three candidates.
 One radical agenda.
@@ -31,26 +25,19 @@ We offer freedom.
 They offer continued decline.
 We offer hope and a path forward.
 Jay and I are fighting for common sense, lower costs, safer communities, better schools and a Michigan where your family can actually build a future.
-Michigan families are begging for change, and we’re ready to deliver it.”
-— John James
-Meet the Ticket
-Jocelyn Benson
-- Family ties to a massive Saline data center project local residents DID NOT want.
-- Served on the Southern Poverty Law Center’s leadership committee during the time it was indicted for fraud and funding extremist groups including the KKK.
-- Hit with FOUR racial discrimination lawsuits.
-- At least FIVE foreign nationals voted on her watch and were later charged.
-- Sued more than her four predecessors combined, with her illegal election rules being struck down in court FIVE times.
-Winnie Brinks
-- Voted for sweeping green-energy mandates that are driving Michigan further down the wrong path.
-- Stripped local communities of control over massive wind and solar projects.
-- Michigan’s income tax rate increased under her watch.
-- Voted AGAINST protections for women’s sports.
-Abdul El-Sayed
-- Campaigns with terrorist sympathizers.
-- Wants to defund the police and open prisons.
-- Hates America, hates Michigan, and hates Mackinac Island.
-Michigan Democrats Are Doubling Down on Radical
-Jocelyn Benson isn’t running to change direction in Lansing, she’s running to finish the job of running Michigan into the ground.
+Michigan families are begging for change, and we’re ready to deliver it.” — John James Meet the Ticket Jocelyn Benson Family ties to a massive Saline data center project local residents DID NOT want.
+Served on the Southern Poverty Law Center’s leadership committee during the time it was indicted for fraud and funding extremist groups including the KKK.
+Hit with FOUR racial discrimination lawsuits.
+At least FIVE foreign nationals voted on her watch and were later charged.
+Sued more than her four predecessors combined, with her illegal election rules being struck down in court FIVE times.
+Winnie Brinks Voted for sweeping green-energy mandates that are driving Michigan further down the wrong path.
+Stripped local communities of control over massive wind and solar projects.
+Michigan’s income tax rate increased under her watch.
+Voted AGAINST protections for women’s sports.
+Abdul El-Sayed Campaigns with terrorist sympathizers.
+Wants to defund the police and open prisons.
+Hates America, hates Michigan, and hates Mackinac Island.
+Michigan Democrats Are Doubling Down on Radical Jocelyn Benson isn’t running to change direction in Lansing, she’s running to finish the job of running Michigan into the ground.
 Winnie Brinks spent years rubber-stamping the radical agenda that helped get us here.
 And with socialist Abdul El-Sayed rounding out the ticket, Michigan Democrats have made one thing clear: the far left isn’t the fringe of their party anymore.
 It IS their party.
@@ -59,4 +46,9 @@ ACCOUNTABILITY.
 RESULTS.
 Michigan cannot afford their radical agenda.
 It’s time to STOP socialism and SAVE Michigan.
-###
+### ← Back to all news Fighting for a stronger, safer, and more affordable Michigan.
+People Over Politics.
+Explore About John About Jay Issues The Flight Plan 2037 News & Events Get the Facts Vote Get Involved Volunteer Ask John Anything Coalitions War Room Store Contact Donate Join the Team Paid for by John James for MI, 35744 Van Dyke Avenue, Sterling Heights, MI 48312.
+Use of John James’ military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of War.
+Privacy Policy Terms & Conditions Contact © # John James for Michigan.
+All rights reserved.

@@ -1,8 +1,8 @@
-Issues
-Housing and Homelessness
-The high cost of housing is the biggest challenge that California– and the Orange County area I represent– is facing.
+Skip navigation menu Meet Dave & Jane On the Issues Endorsements District 47 Request A Yard Sign!
+Get Involved Store Donate Meet Dave & Jane On the Issues Endorsements District 47 Request A Yard Sign!
+Get Involved Store Donate Democracy and the Rule of Law Housing and Homelessness Healthcare Reproductive Rights Gun Violence Prevention Climate Action & Environmental Justice Immigration Education Protecting Survivors of Domestic Violence and Sex Abuse Standing Up To Hate & MAGA Extremism Public Safety Small Business Relief Issues Housing and Homelessness The high cost of housing is the biggest challenge that California– and the Orange County area I represent– is facing.
 The top reason people are leaving our state, and the Number 1 driver for homelessness, is the high cost of housing.
-We must treat this crisis with the urgency it deserves, and I am supportive of an “all of the above approach” that includes both reducing the barriers to building more housing while also emphasizing funding and subsidies for affordable housing.
+We must treat this crisis with the urgency it deserves, and I am supportive of an “ all of the above approach” that includes both reducing the barriers to building more housing while also emphasizing funding and subsidies for affordable housing.
 I’m proud to be closely tied with the YIMBY and Abundance movements and will continue to support efforts to aggressively reduce the uncertainty and litigation risk associated with permitting requirements for new building and infrastructure development.
 While I believe strongly in protecting our environment, it is clear that many of the environmental protection requirements associated with new buildings are not serving their intended purposes.
 But simply building new housing is not enough.
@@ -11,5 +11,7 @@ Earlier in my career, I led the Center for American Progress’s efforts to bols
 I’m bringing this expertise to bear in finding solutions for affordable housing in Congress.
 Finally, it is critical that we recognize that to address the problem of the chronically homeless, we must do more than just provide housing.
 By the time you see someone on the streets, they’ve typically been homeless or housing-insecure for months or years, creating a vicious cycle of mental health and substance abuse problems that make it very difficult to re-enter society.
-The non-profit organizations that are dealing with homelessness most effectively have all reported the same thing– that the biggest barrier to their work is the difficulties in combining federal, state, and local funding for housing and mental health and substance abuse services.
+The non-profit organizations that are dealing with homelessness most effectively have all reported the same thing– that the biggest barrier to their work is the difficulties in combining federal, state, and local funding for housing and mental health and substance abuse services .
 By easing these barriers and continuing to fund these critical programs, we can help solve the problem of homelessness.
+Dave Min fights hate in all its forms.
+Anti-LGBTQ+ Hate An uncompromising champion for our LGBTQ+ community Standing Up to Antisemitism Ensuring the safety & wellbeing of Jewish constituents Standing Up to Islamophobia Standing alongside the Arab & Muslim community FIGHTING RACISM Confronting bigotry in OC and beyond Privacy Policy Contact Terms & Conditions © Copyright # Dave Min for Congress PO Box 5959, Irvine, CA 92616 Powered by RUN! website builder Paid for by Dave Min for Congress You need to enable JavaScript to run this app.

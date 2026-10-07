@@ -1,17 +1,41 @@
-Press Release: Representative Greg Smith Comments on Quarterly Revenue Forecast
-FOR IMMEDIATE RELEASE:
-February 22, 2023
-Representative Greg Smith Comments on Quarterly Revenue Forecast
-SALEM, Ore. – Representative Greg Smith (R-Heppner) released the following statement in response to the revenue forecast announced today:
-“Today’s revenue forecast illustrates that the State’s economy remains healthy, however, due to inflation there is still instability.
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Press Release: Representative Greg Smith Comments on Quarterly Revenue Forecast February 22, 2023 / in News FOR IMMEDIATE RELEASE: February 22, 2023 Representative Greg Smith Comments on Quarterly Revenue Forecast SALEM, Ore. – Representative Greg Smith (R-Heppner) released the following statement in response to the revenue forecast announced today: “Today’s revenue forecast illustrates that the State’s economy remains healthy, however, due to inflation there is still instability.
 Infrastructure projects all around the state are struggling to remain on budget.
-Given this, fiscal prudence is paramount when managing Oregon’s finances, especially as we continue investing in critical programs and work to fight the effects of inflation.”
+Given this, fiscal prudence is paramount when managing Oregon’s finances, especially as we continue investing in critical programs and work to fight the effects of inflation.” Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature.
+He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
+Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
+Additionally, he is the ranking member on the House Revenue Committee.
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2023-02-22 11:42:16 2023-10-02 11:45:10 Press Release: Representative Greg Smith Comments on Quarterly Revenue Forecast Press Release: Representative Smith Calls for Independent Fiscal Audit of the Oregon Liquor & Cannabis Commission February 17, 2023 / in News FOR IMMEDIATE RELEASE : February 17, 2023 Representative Smith Calls for Independent Fiscal Audit of the Oregon Liquor & Cannabis Commission SALEM, OR – Today, Representative Greg Smith (R-Heppner) called for an independent fiscal audit of the Oregon Liquor and Cannabis Commission during the Joint Committee on Ways and Means.
+While the Attorney G eneral is conducting a forensic audit regarding potential criminal activities within the agency, Representative Smith would like to see a third party conduct a fiscal audit given the various revenue streams the Oregon Liquor and Cannabis Commission handles.
+“As the Co-Vice Chair of the Joint Committee on Ways and Means, I have a responsibility to ensure that taxpayers dollars are being spent, allocated, and distributed appropriately,” said Representative Greg Smith (R-Heppner).
+“Oregonians deserve to have answers through a third party, non-biased auditor.” Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature.
+He holds a gavel as the Co-Chai r of the Joint Ways and Means Subcommittee on General Government.
+Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
+Additional ly, he is the ranking member on the House Revenue Committee.
+To reach out, please visit Rep Smith’s Facebook Page or send him a n email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2023-02-17 11:40:30 2023-10-02 11:41:28 Press Release: Representative Smith Calls for Independent Fiscal Audit of the Oregon Liquor & Cannabis Commission Press Release: Representative Smith Received a Measure 114 Update from Judge Raschio February 16, 2023 / in News FOR IMMEDIATE RELEASE: February 16, 2023 Representative Smith Received a Measure 114 Update from Judge Raschio SALEM, Ore. – Today, Representative Greg Smith (R-Heppner) had a meeting with Judge Robert S.
+Raschio, who is the Presiding Judge of Oregon’s 24 th Judicial District (Grant & Harney Circuit Court).
+Back in November, voters narrowly passed Ballot Measure 114.
+It was set to go into effect in December, however, gun rights activists challenged it in court and argued that it violates the Oregon Constitution.
+Judge Raschio believed their arguments had merit and put a temporary stay on the implementation of Measure 114.
+Since then, the Oregon Supreme Court has denied the Oregon Attorney General’s petition to overturn Judge Raschio’s injunction and allow Measure 114 to go into effect.
+The gun control measure remains blocked until a lower court holds a hearing.
+“I often receive questions from constituents regarding Measure 114” said Representative Smith, “having meetings like today are vastly important; where different branches of government can come together and learn from each other.
+A huge thank you goes out to Judge Raschio for his work to uphold Oregon’s Constitution”.
 Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature.
 He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
 Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
 Additionally, he is the ranking member on the House Revenue Committee.
-To reach out, please visitRep Smith’s Facebook Pageor send him an email at rep.gregsmith@oregonlegislature.gov
-###
-CONTACT INFORMATION:
-Representative Greg Smith
-541-993-5236
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2023-02-16 11:36:46 2023-10-02 11:39:17 Press Release: Representative Smith Received a Measure 114 Update from Judge Raschio Press Release: Representative Smith Presented with the Oregon Fairs Association 2021 Legislator of the Year Award February 6, 2023 / in News FOR IMMEDIATE RELEASE: February 6, 2023 Representative Smith Presented with the Oregon Fairs Association 2021 Legislator of the Year Award SALEM, Ore. – This evening was the Legislative Dinner & Showcases hosted by the Oregon Fairs Association at the Oregon State Fair & Exposition Center.
+During the ceremony, Representative Greg Smith (R-Heppner) was awarded the 2021 Legislator of the Year Award.
+“Our county fairs are vitally important to each community within District 57,” said Representative Smith “they offer incredibly positive outlets for our youth, space to host countless community events, and in dire moments are centers for crisis response.
+I was honored to receive this award and humbly share it with each County Fair in District 57”.
+Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature.
+He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
+Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
+Additionally, he is the ranking member on the House Revenue Committee.
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2023-02-06 11:24:03 2023-10-02 11:31:23 Press Release: Representative Smith Presented with the Oregon Fairs Association 2021 Legislator of the Year Award Press Release: Working Together February 2, 2023 / in News FOR IMMEDIATE RELEASE: February 2, 2023 Working Together SALEM, Ore. – Today, Representative Greg Smith (R-Heppner) released the following statement: “It’s great to have good partners to work collaboratively with,” said Representative Smith “Representative Bobby Levy and Senator Bill Hansell are not only trusted colleagues but valued friends”.
+Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature.
+He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
+Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
+Additionally, he is the ranking member on the House Revenue Committee.
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2023-02-02 11:32:04 2023-10-02 11:36:03 Press Release: Working Together July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

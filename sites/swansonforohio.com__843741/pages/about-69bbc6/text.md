@@ -1,11 +1,10 @@
-Meet Dave
-As the son of a dairy farmer, and the oldest of six children, I always envied my friends from town who never had to milk cows or clean barns.
+Skip navigation menu Meet Dave Issues Events Get Involved Endorsements Plan to Vote Donate Meet Dave Issues Events Get Involved Endorsements Plan to Vote Donate Meet Dave As the son of a dairy farmer, and the oldest of six children, I always envied my friends from town who never had to milk cows or clean barns.
 But the daily chores and the summers filled with field work taught me something far more valuable than I realized at the time: self-sufficiency, a deep sense of responsibility, and an unshakeable belief that some things just have to be done.
 Failure or dereliction is simply not an option.
 Those lessons have followed me throughout my life.
 After high school, a lifelong interest in politics led to a degree in political science from the University of Puget Sound in Tacoma, Washington.
 From there, I spent four years as a communications specialist in the U.S.
-Navy—an experience that sharpened my discipline and broadened my sense of the world.
+Navy— an experience that sharpened my discipline and broadened my sense of the world.
 I then earned an advanced degree in foreign trade from the American Graduate School of International Management in Arizona.
 An ad in the Wall Street Journal led me to Bryan, Ohio, as the export manager for a local pharmaceutical company.
 I’ve been here ever since.
@@ -29,3 +28,5 @@ Dave Swanson is a former member of the U.S.
 Navy.
 Use of his military rank, job titles and photographs in uniform does not imply endorsement by the U.S.
 Navy, the Department of Defense or any branch of U.S. government.
+Dave's Values Privacy & Terms Contact Us Get a Yard Sign Donate by Mail: Committee to Elect Dave Swanson c/o Heather Freese, Treasurer P.O.
+Box 107 | Bryan, OH 43506 Powered by RUN! website builder Paid for by Committee to Elect Dave Swanson | Heather Freese, Treasurer You need to enable JavaScript to run this app.

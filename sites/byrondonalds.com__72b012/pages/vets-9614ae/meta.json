@@ -1,7 +1,11 @@
 {
  "description": "Veterans, service members and military families standing with Byron Donalds for a governor who will keep faith with those who served. Join the coalition.",
  "final_url": "https://byrondonalds.com/vets/",
- "paid_for_by": null,
+ "fingerprint": "e93c4e53885263b6510b50e3999234c3f62e3a09",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Veterans for Byron - Byron Donalds for Governor",
- "years_mentioned": []
+ "years_mentioned": [
+  "2001"
+ ]
 }

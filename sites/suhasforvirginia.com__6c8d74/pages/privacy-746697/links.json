@@ -1,24 +1,94 @@
 [
-"http://allaboutcookies.org/",
-"http://networkadvertising.org/understanding-online-advertising/how-does-it-work",
-"http://optout.aboutads.info/",
-"https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads",
-"https://bsky.app/profile/suhasforvirginia.bsky.social",
-"https://facebook.com/settings?tab=ads",
-"https://facebook.com/suhasforva",
-"https://google.com/intl/en/policies/privacy",
-"https://google.com/settings/ads/anonymous",
-"https://instagram.com/suhasforva",
-"https://kermitjonesforcongress.com/",
-"https://secure.actblue.com/donate/fl-sva-web",
-"https://secure.actblue.com/donate/suhas-for-virginia-1",
-"https://secure.ngpvan.com/cGO_v-dd5USx3BCbGrMQCg2",
-"https://suhasforvirginia.com/",
-"https://suhasforvirginia.com/cart",
-"https://suhasforvirginia.com/issues",
-"https://suhasforvirginia.com/press-and-media",
-"https://suhasforvirginia.com/privacy",
-"https://suhasforvirginia.com/va10-voters",
-"https://tools.google.com/dlpage/gaoptout",
-"https://x.com/SuhasforVA"
+{
+"text": "0",
+"href": "https://www.suhasforvirginia.com/cart"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/fl-sva-web"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/suhas-for-virginia-1"
+},
+{
+"text": "Home",
+"href": "https://www.suhasforvirginia.com/"
+},
+{
+"text": "Message for VA10 Voters",
+"href": "https://www.suhasforvirginia.com/va10-voters"
+},
+{
+"text": "Press and Media",
+"href": "https://www.suhasforvirginia.com/press-and-media"
+},
+{
+"text": "Priorities",
+"href": "https://www.suhasforvirginia.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.suhasforvirginia.com/privacy"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/cGO_v-dd5USx3BCbGrMQCg2"
+},
+{
+"text": "[image: Suhas for Virginia]",
+"href": "https://www.suhasforvirginia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/suhasforvirginia.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/suhasforva"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/suhasforva/"
+},
+{
+"text": "[no text]",
+"href": "https://www.kermitjonesforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SuhasforVA"
+},
+{
+"text": "http://optout.aboutads.info/",
+"href": "http://optout.aboutads.info/"
+},
+{
+"text": "http://www.allaboutcookies.org",
+"href": "http://www.allaboutcookies.org/"
+},
+{
+"text": "http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work",
+"href": "http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work"
+},
+{
+"text": "https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads",
+"href": "https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads"
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "https://www.facebook.com/settings/?tab=ads",
+"href": "https://www.facebook.com/settings/?tab=ads"
+},
+{
+"text": "https://www.google.com/intl/en/policies/privacy/",
+"href": "https://www.google.com/intl/en/policies/privacy/"
+},
+{
+"text": "https://www.google.com/settings/ads/anonymous",
+"href": "https://www.google.com/settings/ads/anonymous"
+}
 ]

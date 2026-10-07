@@ -1,26 +1,122 @@
 [
-"http://facebook.com/rm4pa",
-"http://google.com/calendar/event?action=TEMPLATE&text=Pregame+Fill+Up+Lunch+at+the+Croatian+Club+in+Donora&dates=20261011T160000Z%2F20261011T180000Z&location=329+Castner+Avenue%2C+Donora%2C+Pennsylvania%2C+15033%2C+United+States",
-"http://maps.google.com/?q=329+Castner+Avenue+Donora%2C+Pennsylvania%2C+15033+United+States",
-"https://actionnetwork.org/forms/stay-updated-18",
-"https://actionnetwork.org/forms/volunteer-to-support-rebecca-mactaggarts-campaign-in-pa-hd-48",
-"https://bsky.app/profile/rm4pa.bsky.social",
-"https://facebook.com/rm4pa",
-"https://forms.gle/hdU77KzFujs2tJXr9",
-"https://instagram.com/rm4pa",
-"https://rebeccamactaggart.com/",
-"https://rebeccamactaggart.com/biography",
-"https://rebeccamactaggart.com/cart",
-"https://rebeccamactaggart.com/contact",
-"https://rebeccamactaggart.com/district",
-"https://rebeccamactaggart.com/endorsements",
-"https://rebeccamactaggart.com/events",
-"https://rebeccamactaggart.com/events/meet-the-candidates-night-lwv-naacp",
-"https://rebeccamactaggart.com/events/pregame-fill-up-lunch-at-the-croatian-club-in-donora?format=ical",
-"https://rebeccamactaggart.com/events/yard-signs-pizza",
-"https://rebeccamactaggart.com/help-us-win",
-"https://rebeccamactaggart.com/home",
-"https://rebeccamactaggart.com/issues",
-"https://secure.actblue.com/donate/mactaggart",
-"https://threads.com/@rm4pa"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=329+castner+avenue+donora%2C+pennsylvania%2C+15033+united+states"
+},
+{
+"text": "0",
+"href": "https://www.rebeccamactaggart.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.rebeccamactaggart.com/events"
+},
+{
+"text": "Biography",
+"href": "https://www.rebeccamactaggart.com/biography"
+},
+{
+"text": "Contact",
+"href": "https://www.rebeccamactaggart.com/contact"
+},
+{
+"text": "District",
+"href": "https://www.rebeccamactaggart.com/district"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mactaggart"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rebeccamactaggart.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.rebeccamactaggart.com/events"
+},
+{
+"text": "Follow Rebecca on Bluesky",
+"href": "https://bsky.app/profile/rm4pa.bsky.social"
+},
+{
+"text": "Follow Rebecca on Facebook",
+"href": "https://www.facebook.com/rm4pa"
+},
+{
+"text": "Follow Rebecca on Instagram",
+"href": "https://www.instagram.com/rm4pa"
+},
+{
+"text": "Follow Rebecca on Threads",
+"href": "https://www.threads.com/@rm4pa"
+},
+{
+"text": "Full Biography",
+"href": "https://www.rebeccamactaggart.com/biography"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pregame+Fill+Up+Lunch+at+the+Croatian+Club+in+Donora&dates=20261011T160000Z%2F20261011T180000Z&location=329+Castner+Avenue%2C+Donora%2C+Pennsylvania%2C+15033%2C+United+States"
+},
+{
+"text": "HELP US to WIN",
+"href": "https://www.rebeccamactaggart.com/help-us-win"
+},
+{
+"text": "Home",
+"href": "https://www.rebeccamactaggart.com/home"
+},
+{
+"text": "ICS",
+"href": "https://www.rebeccamactaggart.com/events/pregame-fill-up-lunch-at-the-croatian-club-in-donora?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.rebeccamactaggart.com/issues"
+},
+{
+"text": "Next Next October 14 Meet the Candidates Night - LWV & NAACP",
+"href": "https://www.rebeccamactaggart.com/events/meet-the-candidates-night-lwv-naacp"
+},
+{
+"text": "PA House District 48",
+"href": "https://www.rebeccamactaggart.com/district"
+},
+{
+"text": "Previous Previous October 7 Yard Signs & Pizza",
+"href": "https://www.rebeccamactaggart.com/events/yard-signs-pizza"
+},
+{
+"text": "Sign Up for Email Updates",
+"href": "https://actionnetwork.org/forms/stay-updated-18"
+},
+{
+"text": "Volunteer",
+"href": "https://actionnetwork.org/forms/volunteer-to-support-rebecca-mactaggarts-campaign-in-pa-hd-48"
+},
+{
+"text": "[image: Rebecca MacTaggart for PA]",
+"href": "https://www.rebeccamactaggart.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/rm4pa"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/rm4pa.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rm4pa"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@rm4pa"
+},
+{
+"text": "https://forms.gle/hdU77KzFujs2tJXr9",
+"href": "https://forms.gle/hdU77KzFujs2tJXr9"
+}
 ]

@@ -1,22 +1,18 @@
+Skip to content Search for: Home About Top Priorities Volunteer Press & Media Fantastic Fridays News Updates Contact Donate Home Fantastic Fridays Get Out the Vote on Fantastic Friday!
 Get Out the Vote on Fantastic Friday!
-Dear Friends,
-The past few months have been filled with exciting events, and it has been a pleasure to meet so many of you and hear about what your priorities are for our community.
+Published On: August 16, 2024 Categories: Fantastic Fridays Dear Friends, The past few months have been filled with exciting events, and it has been a pleasure to meet so many of you and hear about what your priorities are for our community.
 So much has changed already since we kicked off this campaign just a few short months ago, and I can only imagine what the next few months have in store.
 We have a long road ahead of us to November, and it is incredibly important that we continue to do the difficult work and make sure that we get out the vote!
 I wake up each day blessed to go to work and advocate on your behalf, fighting for the things that you value and always working to uplift this beautiful place we all call home.
 We are so lucky to live in the 40th LD, and I am eternally grateful for your continued support as we work to improve the lives of all Washingtonians.
 Ballots will be sent out to all Washingtonians who are registered to vote in mid-October – and now is the time to make sure that includes you!
 It is so important that we get out the vote and elect the right people who will lead Washington, and our country, to a brighter tomorrow.
-If you are not registered, or just want to check, head over to https://vote.gov/register/washington to make sure that your voice is heard in November
-This week on Fantastic Friday we’ll be taking a look back at some highlights from the past few months in the 40th LD, Washington, and more!
+If you are not registered, or just want to check, head over to https://vote.gov/register/washington to make sure that your voice is heard in November This week on Fantastic Friday we’ll be taking a look back at some highlights from the past few months in the 40th LD, Washington, and more!
 For more information on my campaign, please head over and check out my website!
 Go to DebraLekanoff.com to learn all about my re-election campaign.
 Keep reading for more on this Fantastic Friday.
 Rep.
-Debra Lekanoff
-Historic Investment to Conserve Biodiversity
-August 2, 2024
-The Washington State Legislature has made a historic $23 million investment in biodiversity conservation through the Washington Department of Fish and Wildlife (WDFW).
+Debra Lekanoff Historic Investment to Conserve Biodiversity August 2, 2024 The Washington State Legislature has made a historic $23 million investment in biodiversity conservation through the Washington Department of Fish and Wildlife (WDFW).
 This significant funding allocation marks a major step forward in protecting the state’s most vulnerable species and habitats.
 For the 2024 fiscal year, the legislature has allocated $8 million, with an additional $15 million earmarked for 2025.
 Notably, this $15 million will become a permanent annual allocation in subsequent years, providing WDFW with the stability needed to implement long-term conservation strategies.
@@ -30,9 +26,7 @@ This review will assess their ability to fulfill their roles as trustees of fish
 While this aspect was not the primary focus of the coalition’s advocacy, it presents an important opportunity for reflection and potential improvement in how we manage and protect our state’s natural resources.
 This $23 million investment is not just a financial commitment; it represents a pledge to the future of Washington’s natural beauty and ecological diversity.
 As we move forward, this funding will be crucial in ensuring that the state remains a leader in conservation, addressing the urgent needs of our environment with the dedication and resources required to make a lasting impact.
-Our People – One Washington – One Nation
-July 26, 2024
-Today I want to update you on our collaborative efforts across the 40th Legislative District and beyond.
+Our People – One Washington – One Nation July 26, 2024 Today I want to update you on our collaborative efforts across the 40th Legislative District and beyond.
 Our strength lies in our unity, and I’m proud of the partnerships we’ve forged over the years.
 Over the past 35 years, my experience in public service has underscored the importance of working together across various levels of government.
 This theme of collaboration and unity is foundational to decision-making in our districts.
@@ -61,8 +55,7 @@ By working together with tribal governments and other governing bodies, we can l
 The enduring relationships we cultivate today will lay the foundation for a more prosperous and harmonious tomorrow, where the voices and needs of all individuals are heard and valued.
 Thank you for your continued support and engagement in our community’s progress.
 Celebrating Small Businesses in Skagit County!
-July 19, 2024
-The Economic Development Alliance of Skagit County (EDASC) has successfully concluded its first 12-week Small Business course, marking a significant milestone for aspiring entrepreneurs in the 40th Legislative District.
+July 19, 2024 The Economic Development Alliance of Skagit County (EDASC) has successfully concluded its first 12-week Small Business course , marking a significant milestone for aspiring entrepreneurs in the 40th Legislative District.
 This program, led by EDASC CEO John Sternlicht, aims to empower local individuals to pursue their entrepreneurial dreams, especially crucial during these challenging times for small businesses.
 The course, supported by Department of Commerce funding, offers a comprehensive curriculum to equip participants with essential business skills.
 The recent appointment of Mike Fong as Director of the Department of Commerce signals a renewed focus on supporting small businesses across the 40th, 42nd, and 10th Legislative Districts.
@@ -72,43 +65,38 @@ Graduates of this first cohort are now paired with advisors to guide them toward
 These new entrepreneurs are set to launch various ventures, including childcare services, trucking companies, retail stores, and landscaping businesses.
 The success of this program highlights the vital role of small businesses in driving economic vitality in Skagit County.
 With continued support from EDASC, local legislators, and the community, the future looks promising for small businesses in the region.
-All Hands Whatcom Opioid Summit
-June 28, 2024
-The Chuckanut Health Foundation recently hosted the All Hands Whatcom Opioid Summit, a two-day event addressing the fentanyl, addiction, and mental health crisis in Whatcom County.
+All Hands Whatcom Opioid Summit June 28, 2024 The Chuckanut Health Foundation recently hosted the All Hands Whatcom Opioid Summit , a two-day event addressing the fentanyl, addiction, and mental health crisis in Whatcom County.
 Over 100 diverse participants, including parents, educators, students, and elected officials gathered to discuss community-based solutions.
 The summit emphasized the need for a united community effort to address the crisis of behavioral and mental health and substance use disorder impacts upon youth.
 In the heart of Bellingham, amidst the halls of the high school and streets and homes, lies the personal narratives that illuminate the profound impact of behavioral health and substance use disorder on our youth.
 The High School auditorium was filled with silence as the youth, teachers, coaches, counselors and parents shared their stories.
 I was moved by the hidden beneath layers of stigma and silence and the summit served as poignant reminders of the struggles faced by our young minds and hearts.
 The discussions stressed moving beyond prevention towards healing and long-term solutions, emphasizing the importance of community building, collaboration, and compassion.
-A powerful message from the Youth Panel resonated: “Community starts where judgment ends.”
-As your representative in the 40th Legislative District, I am committed to collaborating with all governing bodies to establish comprehensive support systems for behavioral and mental health and substance use.
+A powerful message from the Youth Panel resonated: “Community starts where judgment ends.” As your representative in the 40th Legislative District, I am committed to collaborating with all governing bodies to establish comprehensive support systems for behavioral and mental health and substance use.
 Our efforts align with several ongoing initiatives, including Governor Inslee’s evolving Behavioral Health Care System, Bob Ferguson’s plan for the 2025 Legislative Session, Senator Maria Cantwell’s “Fatal Overdose Reduction Act,” and Congressman Rick Larsen’s Comprehensive Solution for the Opioid Crisis.
 Recognizing that suicide is the leading cause of death among youth and overdoses are occurring across all age groups, we are focusing on increased fiscal investment in schools, community centers, families, higher education, and apprenticeship programs.
 We aim to implement proactive measures to support youth before they reach crisis points, streamline multi-agency services, and invest in the workforce to ensure comprehensive healing resources are available for all.
 In the upcoming 2025 Legislative session, we will prioritize Youth Prevention, Recovery, and Aftercare Programs.
 Our goal is to create a future where Whatcom County is free from the devastating effects of opioids, supporting the vision of Healing One Washington.
 Together, we can make a significant impact on the mental health and substance use challenges facing our community.
-Champions of Tomorrow Making Waves Today
-June 21, 2024
-I’m thrilled to update you on an exciting event unfolding in our 40th Legislative District.
-On June 20, 2024, Ketchikan, Alaska welcomed young sailors from San Juan Island as part of the Race to Alaska (R2AK), a challenging journey from the Salish Sea through the Strait of Juan de Fuca to Southeast Alaska.
-Team JD San Juan Islands, Photo Credit The Journal of San Juan Islands
-Four of our district’s youth – Willow Gray, Dagny Krüger, Bryce Lutz, and Else Ranker – are competing as Team Juvenile Delinquents.
+Champions of Tomorrow Making Waves Today June 21, 2024 I’m thrilled to update you on an exciting event unfolding in our 40th Legislative District.
+On June 20, 2024, Ketchikan, Alaska welcomed young sailors from San Juan Island as part of the Race to Alaska (R2AK) , a challenging journey from the Salish Sea through the Strait of Juan de Fuca to Southeast Alaska.
+Team JD San Juan Islands, Photo Credit The Journal of San Juan Islands Four of our district’s youth – Willow Gray, Dagny Krüger, Bryce Lutz, and Else Ranker – are competing as Team Juvenile Delinquents.
 They’ve impressively secured seventh position among monohull boats, cruising at 5.4 knots.
 This achievement showcases their resilience in one of the world’s most demanding sailing competitions.
 The R2AK, described as a test of “physical endurance, saltwater know-how, and bulldog tenacity,” attracts both seasoned adventurers and novice sailors.
 Our team is navigating this challenging course in a 1993 boat, relying on wind power and their collective skills.
-Team JD from San Juan Islands Lands in Ketchikan, Photo Credit Kevin Ranker
-Else Ranker, a recent graduate of Spring Street International School on San Juan Island, brings valuable ocean experience to the team.
+Team JD from San Juan Islands Lands in Ketchikan, Photo Credit Kevin Ranker Else Ranker, a recent graduate of Spring Street International School on San Juan Island, brings valuable ocean experience to the team.
 I recently spoke with her father, former 40th District Senator Kevin Ranker, who shared the team’s inspiring story.
-To support Team Juvenile Delinquents:
-- Follow their progress on the R2AK online race tracker.
-- Share their story on social media to boost community support.
-- Send messages of encouragement as they face physical and mental challenges.
-- Celebrate each milestone they achieve.
-- Keep safety in mind, especially regarding wildlife encounters and weather conditions.
+To support Team Juvenile Delinquents: Follow their progress on the R2AK online race tracker.
+Share their story on social media to boost community support.
+Send messages of encouragement as they face physical and mental challenges.
+Celebrate each milestone they achieve.
+Keep safety in mind, especially regarding wildlife encounters and weather conditions.
 Their journey exemplifies teamwork, resilience, and youthful spirit.
-For more updates, follow the Salish Currents Newsletter.
+For more updates, follow the Salish Currents Newsletter .
 I’m incredibly proud of these young sailors representing our district on this grand adventure.
 Let’s cheer them on as they make their way to the finish line in Ketchikan!
+Previous Next “Progress is not achieved by standing still.
+Let’s move forward together towards a better, brighter future.” Re-Elect Debra Lekanoff (D) PO Box 23125 Seattle, WA 98102 debra@debralekanoff.com info@debralekanoff.com Volunteer Register To Vote Get Updates Donate Events Endorse Debra Follow Debra Copyright # DEBRA LEKANOFF.
+PAID FOR BY RE-ELECT DEBRA LEKANOFF (D) Page load link Go to Top

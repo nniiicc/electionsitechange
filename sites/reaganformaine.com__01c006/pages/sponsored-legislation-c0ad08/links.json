@@ -1,13 +1,54 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://mainelegislature.org/legis/bills/getPDF.asp?paper=HP0243&item=1&snum=132",
-"https://mainelegislature.org/legis/bills/getPDF.asp?paper=HP0305&item=1&snum=132",
-"https://mainelegislature.org/legis/bills/getPDF.asp?paper=HP0759&item=1&snum=132",
-"https://mainelegislature.org/legis/bills/getPDF.asp?paper=HP1248&item=4&snum=132",
-"https://reaganformaine.com/",
-"https://reaganformaine.com/about",
-"https://reaganformaine.com/contact",
-"https://reaganformaine.com/donate",
-"https://reaganformaine.com/real-state-of-the-state",
-"https://reaganformaine.com/sponsored-legislation"
+{
+"text": "About",
+"href": "https://reaganformaine.com/about"
+},
+{
+"text": "Click Here",
+"href": "https://reaganformaine.com/sponsored-legislation"
+},
+{
+"text": "Contact",
+"href": "https://reaganformaine.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://reaganformaine.com/donate"
+},
+{
+"text": "Home",
+"href": "https://reaganformaine.com/"
+},
+{
+"text": "Learn more",
+"href": "https://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP0243&item=1&snum=132"
+},
+{
+"text": "Learn more",
+"href": "https://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP0305&item=1&snum=132"
+},
+{
+"text": "Learn more",
+"href": "https://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP0759&item=1&snum=132"
+},
+{
+"text": "Learn more",
+"href": "https://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP1248&item=4&snum=132"
+},
+{
+"text": "Real State of the State",
+"href": "https://reaganformaine.com/real-state-of-the-state"
+},
+{
+"text": "Representative Reagan Paul Representative Reagan Paul Representative Reagan Paul Representative Reagan Paul",
+"href": "https://reaganformaine.com/"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://reaganformaine.com/sponsored-legislation"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

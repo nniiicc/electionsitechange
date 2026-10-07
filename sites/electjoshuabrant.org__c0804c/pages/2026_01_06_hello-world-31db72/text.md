@@ -1,11 +1,12 @@
-Welcome to my new campaign website for Indiana State Senate District 23!
-For those that don’t already know me, let me take a moment to tell you a bit about myself (a more detailed history can be found HERE).
+For Indiana State Senate District 23… Elect Joshua Brant Search News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Announcements , Uncategorized Hello World!
+Published by J.R.
+Brant on January 6, 2026 Welcome to my new campaign website for Indiana State Senate District 23!
+For those that don’t already know me, let me take a moment to tell you a bit about myself (a more detailed history can be found HERE ).
 I’m a dad, a husband, a Marine Corps Veteran, and a true Hoosier son.
 With the exception of my time in service, I’ve lived here all my life.
-I grew up on the south side of Lafayette, went to Jeff Highschool, and after all the things I’ve seen and done, I came Back Home Again…
-I went back to school after serving my country; learned a little bit about business.
+I grew up on the south side of Lafayette, went to Jeff Highschool, and after all the things I’ve seen and done, I came Back Home Again … I went back to school after serving my country; learned a little bit about business.
 I worked in a factory for nearly a decade; learned a little bit about engineering.
-I also have ADHD, which makes me a compulsive self-learner, and I’ve educated myself on a great variety of subjects.
+I also have ADHD, which makes me a compulsive self-learner, and I’ve educated my self on a great variety of subjects.
 I’ve never stopped learning about leadership, though, and I simply cannot disengage with what is happening in the world today.
 My campaign is not about one party over another, or even about politicians.
 My campaign is about fixing the broken system that both sides are subjected to, forging a path forward through the storm, and getting us through to the other side.
@@ -34,6 +35,10 @@ I look at what’s happening, and I can’t just sit back and do nothing any lon
 The next generation shouldn’t have to inherit this mess, as well.
 It’ll take more than ability, courage, and hard work to achieve these goals, though, and that’s why I cannot stress the importance of your support.
 Nobody who is truly serious and honest about fighting corruption can do so at the behest or obligation of the corrupt.
-I’m running independently so that I’m only obliged to you, but it means not having that added party support that the other candidates will have.
-Even if you can only help in small ways, every single effort, donation, and vote is going to be vital to our success.
+I’m running independently so that I’m only obliged to you , but it means not having that added party support that the other candidates will have.
+Even if you can only help in small ways, every single effort , donation , and vote is going to be vital to our success.
 Let’s make things make sense again, together.
+Like this: Like Loading… Leave a Reply Cancel reply Next: Press Release: Official Announcement → Hi, I’m Joshua Brant Let’s connect Facebook TikTok Instagram X YouTube LinkedIn Reddit Nextdoor Discord Subscribe Enter your email below to receive updates.
+Type your email… Subscribe Recent posts Early Voting Message to Voters Prosperity Indiana Candidate Survey The Republican Primary Fight Continues Hump Day Update (09/09/26) Summit Summation Part 3 Summit Summation Part 2 Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Paid for by the Committee to Elect Joshua Brant .
+Discover more from Elect Joshua Brant Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading %d

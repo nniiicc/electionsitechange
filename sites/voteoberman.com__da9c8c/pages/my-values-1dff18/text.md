@@ -1,4 +1,6 @@
-I’m running for Indiana State Representative in House District 15 because I believe Indiana should work for the people who keep our state running.
+Help me put working families first in District 15.
+Donate today!
+Home My Values Donate Volunteer Home My Values Donate Volunteer More Home My Values Donate Volunteer Home My Values Donate Volunteer Meet Anthony: Born and Raised in the Region I’m running for Indiana State Representative in House District 15 because I believe Indiana should work for the people who keep our state running.
 That belief comes from being raised in the Region, in a working-class family, and spending my life in service to others.
 My parents taught me the dignity of hard work and responsibility to community.
 My father, a U.S.
@@ -16,5 +18,6 @@ Nicholas Byzantine Catholic Church in Munster, I believe leadership should be gr
 Born at St.
 Margaret’s Hospital in Hammond and a graduate of Crown Point High School, I know this community because it raised me.
 I’m running to be a voice for working families and to bring common-sense, people-first leadership to the Indiana House of Representatives.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Connect With Us Copyright © # voteoberman.com - All Rights Reserved.
+Paid for by The Committee to Elect Anthony Oberman.
+Powered by

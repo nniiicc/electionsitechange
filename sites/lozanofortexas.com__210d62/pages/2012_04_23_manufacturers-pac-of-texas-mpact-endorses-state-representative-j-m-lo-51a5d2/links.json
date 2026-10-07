@@ -1,9 +1,38 @@
 [
-"https://lozanofortexas.com/",
-"https://lozanofortexas.com/about",
-"https://lozanofortexas.com/action",
-"https://lozanofortexas.com/contact",
-"https://lozanofortexas.com/contribute",
-"https://lozanofortexas.com/issues",
-"https://lozanofortexas.com/privacy"
+{
+"text": "About",
+"href": "https://www.lozanofortexas.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.lozanofortexas.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://www.lozanofortexas.com/contribute/"
+},
+{
+"text": "Home",
+"href": "https://www.lozanofortexas.com/"
+},
+{
+"text": "Issues That Matter",
+"href": "https://www.lozanofortexas.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lozanofortexas.com/privacy/"
+},
+{
+"text": "Take Action",
+"href": "https://www.lozanofortexas.com/action/"
+},
+{
+"text": "[image]",
+"href": "https://www.lozanofortexas.com/"
+},
+{
+"text": "[image] J.M. Lozano State Representative",
+"href": "https://www.lozanofortexas.com/"
+}
 ]

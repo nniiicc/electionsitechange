@@ -1,88 +1,562 @@
 [
-"http://google.com/url?q=http%3A%2F%2Fwww.facebook.com%2Fgroups%2Falaskawomenandchildrenfirst&sa=D&sntz=1&usg=AOvVaw1LhlPV54U9_1qhbKRQ-gwm",
-"http://youtube.com/watch?v=0NMlJr5YN_E&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=0OteRPvc2qc&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=1m8IarGneBA&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=2MUmiVKUS5s&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=Brn_X6jqUn8&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=G2g_fEnmGto&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=GM1D1G-RrZ4&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=IUkw0YXcRPc&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=IfpSJ3Qklrg&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=JBNjJXbdFoA&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=K0W184LLrxU&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=Lo7_TJ3SVKs&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=OKskMwdfNOo&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=PxgoxtPTXfE&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=RMLqWSoae7I&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=S2fv9hXyyac&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=S4EmMGbYex4&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=XJYgCKgPX2A&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=_K2ZXZumhUo&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=aDvyFfsz7zQ&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=aZ_QN3tD8DQ&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=abFq4QWWJrs&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=bmuvzwthRbs&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=cZaUhIRjlLg&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=cv35iNJ_3kA&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=eg-9xtlu7S4&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=fWZTWdqApiE&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=gbBAU9ypfmI&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=hx89XgqBhLs&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=hxi86I7_HwU&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=ii_OQBUTqsM&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=lyXugAYuB9A&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=mFS9CAq-_cQ&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=mTZoM-80uyU&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=pnnwMD8Jf-A&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=qBSfAlX5gaA&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=tvDiV7mwTfc&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=u-1y2VNFBsw&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=u1046z-I2_Y&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=xZ4dgiVVVIY&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"http://youtube.com/watch?v=x_-OkTLROw4&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1",
-"https://alaskaquinn.com/donate",
-"https://alaskaquinn.com/freedom",
-"https://alaskaquinn.com/help",
-"https://alaskaquinn.com/helpcontribute",
-"https://alaskaquinn.com/how-to-stand",
-"https://alaskaquinn.com/how-to-stand/other",
-"https://alaskaquinn.com/image",
-"https://alaskaquinn.com/image/logo",
-"https://alaskaquinn.com/language",
-"https://alaskaquinn.com/language/chinese",
-"https://alaskaquinn.com/language/dutch",
-"https://alaskaquinn.com/language/french",
-"https://alaskaquinn.com/language/german",
-"https://alaskaquinn.com/language/hindi",
-"https://alaskaquinn.com/language/hongkong",
-"https://alaskaquinn.com/language/italian",
-"https://alaskaquinn.com/language/japanese",
-"https://alaskaquinn.com/language/polish",
-"https://alaskaquinn.com/language/portuguese",
-"https://alaskaquinn.com/language/russian",
-"https://alaskaquinn.com/language/spanish",
-"https://alaskaquinn.com/language/turkish",
-"https://alaskaquinn.com/language/ukrainian",
-"https://alaskaquinn.com/logo-use",
-"https://alaskaquinn.com/mighty-quinn",
-"https://alaskaquinn.com/social-media",
-"https://alaskaquinn.com/solutions",
-"https://alaskaquinn.com/team-feedback",
-"https://alaskaquinn.com/team-feedback/link",
-"https://alaskaquinn.com/thought-virus",
-"https://alaskaquinn.com/thought-virus/propaganda",
-"https://alaskaquinn.com/video",
-"https://alaskaquinn.com/video/search-video",
-"https://alaskaquinn.com/welcome",
-"https://alaskaquinn.com/what-if",
-"https://alaskaquinn.com/who-is-quinn",
-"https://drive.google.com/drive/folders/1ayNmUcWcS9Tl6hcRew2jay226z4sbsw3?usp=drive_link",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Falaskawomenandchildrenfirst&sa=D&sntz=1&usg=AOvVaw0WFszZImvN89UtphcASUfC",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Falaskawomenandchildrenfirst%2F&sa=D&sntz=1&usg=AOvVaw0agpK6Gt6Cxq4rlzg0NmgU",
-"https://paypal.com/donate?token=4G12EBmRg2Hac7qUvqBC6dg0jO8WRh1L3SqBQRoVlCa5ToLHrIou_mxdTw10wrpiVpjGWm&country.x=US&locale.x=US",
-"https://presentermedia.com/",
-"https://youtube.com/@AlaskaWomenChildrenFirst",
-"https://youtube.com/channel/UCvdkXeo192_dF3p49Nsqo_Q/playlists?view=1&sort=da&flow=grid",
-"https://youtube.com/watch?v=uTlKvi8jxS0&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=28&t=0s"
+{
+"text": "AlaskaQuinn",
+"href": "https://www.alaskaquinn.com/welcome"
+},
+{
+"text": "AlaskaQuinn Short Clips (click for youtube playlist)",
+"href": "https://www.youtube.com/channel/UCvdkXeo192_dF3p49Nsqo_Q/playlists?view=1&sort=da&flow=grid"
+},
+{
+"text": "Balanced Election Tax",
+"href": "http://www.youtube.com/watch?v=JBNjJXbdFoA&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Child Abuse Reduction",
+"href": "http://www.youtube.com/watch?v=_K2ZXZumhUo&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Chinese",
+"href": "https://www.alaskaquinn.com/language/chinese"
+},
+{
+"text": "Citizens Online",
+"href": "http://www.youtube.com/watch?v=0NMlJr5YN_E&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Clean Own Mess",
+"href": "http://www.youtube.com/watch?v=aZ_QN3tD8DQ&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Click For Text Version Of Common Sense Solutions",
+"href": "https://www.alaskaquinn.com/solutions"
+},
+{
+"text": "Click Here For Full YouTube Playlists",
+"href": "https://www.youtube.com/channel/UCvdkXeo192_dF3p49Nsqo_Q/playlists?view=1&sort=da&flow=grid"
+},
+{
+"text": "Click Here To Help",
+"href": "https://www.alaskaquinn.com/help"
+},
+{
+"text": "Close The Swamp",
+"href": "http://www.youtube.com/watch?v=Brn_X6jqUn8&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "College Free Online",
+"href": "http://www.youtube.com/watch?v=K0W184LLrxU&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "College Tax Rebate",
+"href": "http://www.youtube.com/watch?v=xZ4dgiVVVIY&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Contact/Feedback",
+"href": "https://www.alaskaquinn.com/team-feedback"
+},
+{
+"text": "Corporate Responsibility",
+"href": "http://www.youtube.com/watch?v=fWZTWdqApiE&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Deposit 50 Cents",
+"href": "http://www.youtube.com/watch?v=0OteRPvc2qc&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Domestic Violence Reduction",
+"href": "http://www.youtube.com/watch?v=XJYgCKgPX2A&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Donate",
+"href": "https://www.alaskaquinn.com/donate"
+},
+{
+"text": "Drug Addiction Reduction",
+"href": "http://www.youtube.com/watch?v=qBSfAlX5gaA&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Drunk Driving Reduction",
+"href": "http://www.youtube.com/watch?v=u-1y2VNFBsw&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Dutch",
+"href": "https://www.alaskaquinn.com/language/dutch"
+},
+{
+"text": "Education Material Online",
+"href": "http://www.youtube.com/watch?v=tvDiV7mwTfc&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Election Transparency",
+"href": "http://www.youtube.com/watch?v=Lo7_TJ3SVKs&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Equal Pay Rebat",
+"href": "http://www.youtube.com/watch?v=S2fv9hXyyac&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Family Values Support",
+"href": "http://www.youtube.com/watch?v=hxi86I7_HwU&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Flat Wealth Gain Tax",
+"href": "http://www.youtube.com/watch?v=ii_OQBUTqsM&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Food Labeling",
+"href": "http://www.youtube.com/watch?v=cv35iNJ_3kA&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Freedom",
+"href": "https://www.alaskaquinn.com/freedom"
+},
+{
+"text": "French",
+"href": "https://www.alaskaquinn.com/language/french"
+},
+{
+"text": "German",
+"href": "https://www.alaskaquinn.com/language/german"
+},
+{
+"text": "Good Samaritan Immigration",
+"href": "http://www.youtube.com/watch?v=mTZoM-80uyU&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Government Competition",
+"href": "http://www.youtube.com/watch?v=eg-9xtlu7S4&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Gun Free Responsibility",
+"href": "http://www.youtube.com/watch?v=cZaUhIRjlLg&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Help",
+"href": "https://www.alaskaquinn.com/help"
+},
+{
+"text": "Help/Contribute",
+"href": "https://www.alaskaquinn.com/helpcontribute"
+},
+{
+"text": "Hindi",
+"href": "https://www.alaskaquinn.com/language/hindi"
+},
+{
+"text": "Home",
+"href": "https://www.alaskaquinn.com/welcome"
+},
+{
+"text": "HongKong",
+"href": "https://www.alaskaquinn.com/language/hongkong"
+},
+{
+"text": "How To",
+"href": "https://www.alaskaquinn.com/how-to-stand"
+},
+{
+"text": "How To Stand",
+"href": "https://www.alaskaquinn.com/how-to-stand"
+},
+{
+"text": "Image",
+"href": "https://www.alaskaquinn.com/image"
+},
+{
+"text": "Images",
+"href": "https://www.alaskaquinn.com/image"
+},
+{
+"text": "Internet Free",
+"href": "http://www.youtube.com/watch?v=G2g_fEnmGto&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Italian",
+"href": "https://www.alaskaquinn.com/language/italian"
+},
+{
+"text": "Japanese",
+"href": "https://www.alaskaquinn.com/language/japanese"
+},
+{
+"text": "Language",
+"href": "https://www.alaskaquinn.com/language"
+},
+{
+"text": "Law Firm Tax",
+"href": "http://www.youtube.com/watch?v=GM1D1G-RrZ4&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Logo",
+"href": "https://www.alaskaquinn.com/image/logo"
+},
+{
+"text": "Logo Use",
+"href": "https://www.alaskaquinn.com/logo-use"
+},
+{
+"text": "Middle Class Wage",
+"href": "http://www.youtube.com/watch?v=IUkw0YXcRPc&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Mighty Quinn",
+"href": "https://www.alaskaquinn.com/mighty-quinn"
+},
+{
+"text": "Military Industrial Complex",
+"href": "http://www.youtube.com/watch?v=1m8IarGneBA&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Other",
+"href": "https://www.alaskaquinn.com/how-to-stand/other"
+},
+{
+"text": "Parent Media Rating",
+"href": "http://www.youtube.com/watch?v=lyXugAYuB9A&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Polish",
+"href": "https://www.alaskaquinn.com/language/polish"
+},
+{
+"text": "Political Party Divide",
+"href": "http://www.youtube.com/watch?v=pnnwMD8Jf-A&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Politician Timesheet",
+"href": "http://www.youtube.com/watch?v=RMLqWSoae7I&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Portuguese",
+"href": "https://www.alaskaquinn.com/language/portuguese"
+},
+{
+"text": "Pregnancy Prevention",
+"href": "http://www.youtube.com/watch?v=OKskMwdfNOo&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Prison Reform",
+"href": "http://www.youtube.com/watch?v=x_-OkTLROw4&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Privacy Contact Rights",
+"href": "http://www.youtube.com/watch?v=mFS9CAq-_cQ&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Propaganda",
+"href": "https://www.alaskaquinn.com/thought-virus/propaganda"
+},
+{
+"text": "Renewable Energy Reward",
+"href": "http://www.youtube.com/watch?v=u1046z-I2_Y&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Russian",
+"href": "https://www.alaskaquinn.com/language/russian"
+},
+{
+"text": "Search Video",
+"href": "https://www.alaskaquinn.com/video/search-video"
+},
+{
+"text": "Sexual Assault & Trafficking",
+"href": "http://www.youtube.com/watch?v=PxgoxtPTXfE&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Sick Care Prevention",
+"href": "http://www.youtube.com/watch?v=hx89XgqBhLs&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Social Media",
+"href": "https://www.alaskaquinn.com/social-media"
+},
+{
+"text": "Social Security Capless",
+"href": "http://www.youtube.com/watch?v=bmuvzwthRbs&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Solutions",
+"href": "https://www.alaskaquinn.com/solutions"
+},
+{
+"text": "Spanish",
+"href": "https://www.alaskaquinn.com/language/spanish"
+},
+{
+"text": "Split The Bill",
+"href": "http://www.youtube.com/watch?v=IfpSJ3Qklrg&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Tax Haven Loopholes",
+"href": "http://www.youtube.com/watch?v=gbBAU9ypfmI&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Teach Critical Thinking",
+"href": "http://www.youtube.com/watch?v=abFq4QWWJrs&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Team Feedback",
+"href": "https://www.alaskaquinn.com/team-feedback"
+},
+{
+"text": "Thank you",
+"href": "https://www.paypal.com/donate/?token=4G12EBmRg2Hac7qUvqBC6dg0jO8WRh1L3SqBQRoVlCa5ToLHrIou_mxdTw10wrpiVpjGWm&country.x=US&locale.x=US"
+},
+{
+"text": "Thought Virus",
+"href": "https://www.alaskaquinn.com/thought-virus"
+},
+{
+"text": "Transparent Tax Spending",
+"href": "http://www.youtube.com/watch?v=2MUmiVKUS5s&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Turkish",
+"href": "https://www.alaskaquinn.com/language/turkish"
+},
+{
+"text": "Ukrainian",
+"href": "https://www.alaskaquinn.com/language/ukrainian"
+},
+{
+"text": "Video",
+"href": "https://www.alaskaquinn.com/video"
+},
+{
+"text": "Videos",
+"href": "https://www.alaskaquinn.com/video"
+},
+{
+"text": "Voter Participation",
+"href": "http://www.youtube.com/watch?v=aDvyFfsz7zQ&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Water Air Testing",
+"href": "http://www.youtube.com/watch?v=S4EmMGbYex4&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "Welcome",
+"href": "https://www.alaskaquinn.com/welcome"
+},
+{
+"text": "What If",
+"href": "https://www.alaskaquinn.com/what-if"
+},
+{
+"text": "Who Is Quinn",
+"href": "https://www.alaskaquinn.com/who-is-quinn"
+},
+{
+"text": "[image]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Fwww.facebook.com%2Fgroups%2Falaskawomenandchildrenfirst&sa=D&sntz=1&usg=AOvVaw1LhlPV54U9_1qhbKRQ-gwm"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=0NMlJr5YN_E&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=0OteRPvc2qc&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=1m8IarGneBA&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=2MUmiVKUS5s&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=Brn_X6jqUn8&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=G2g_fEnmGto&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=GM1D1G-RrZ4&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=IUkw0YXcRPc&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=IfpSJ3Qklrg&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=JBNjJXbdFoA&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=K0W184LLrxU&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=Lo7_TJ3SVKs&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=OKskMwdfNOo&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=PxgoxtPTXfE&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=RMLqWSoae7I&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=S2fv9hXyyac&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=S4EmMGbYex4&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=XJYgCKgPX2A&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=_K2ZXZumhUo&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=aDvyFfsz7zQ&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=aZ_QN3tD8DQ&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=abFq4QWWJrs&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=bmuvzwthRbs&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=cZaUhIRjlLg&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=cv35iNJ_3kA&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=eg-9xtlu7S4&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=fWZTWdqApiE&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=gbBAU9ypfmI&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=hx89XgqBhLs&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=hxi86I7_HwU&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=ii_OQBUTqsM&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=lyXugAYuB9A&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=mFS9CAq-_cQ&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=mTZoM-80uyU&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=pnnwMD8Jf-A&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=qBSfAlX5gaA&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=tvDiV7mwTfc&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=u-1y2VNFBsw&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=u1046z-I2_Y&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=xZ4dgiVVVIY&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "http://www.youtube.com/watch?v=x_-OkTLROw4&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=1"
+},
+{
+"text": "[image]",
+"href": "https://drive.google.com/drive/folders/1ayNmUcWcS9Tl6hcRew2jay226z4sbsw3?usp=drive_link"
+},
+{
+"text": "[image]",
+"href": "https://www.alaskaquinn.com/welcome"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Falaskawomenandchildrenfirst&sa=D&sntz=1&usg=AOvVaw0WFszZImvN89UtphcASUfC"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Falaskawomenandchildrenfirst%2F&sa=D&sntz=1&usg=AOvVaw0agpK6Gt6Cxq4rlzg0NmgU"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@AlaskaWomenChildrenFirst"
+},
+{
+"text": "[image]AlaskaQuinn",
+"href": "https://www.alaskaquinn.com/welcome"
+},
+{
+"text": "click here",
+"href": "https://www.alaskaquinn.com/how-to-stand"
+},
+{
+"text": "e",
+"href": "https://www.youtube.com/watch?v=uTlKvi8jxS0&list=PLALXxWXaeGiqISEQnfYCLn_Ju15UIeHML&index=28&t=0s"
+},
+{
+"text": "link",
+"href": "https://www.alaskaquinn.com/team-feedback/link"
+},
+{
+"text": "or click here to search",
+"href": "https://www.alaskaquinn.com/video/search-video"
+},
+{
+"text": "www.presentermedia.com",
+"href": "https://www.presentermedia.com/"
+}
 ]

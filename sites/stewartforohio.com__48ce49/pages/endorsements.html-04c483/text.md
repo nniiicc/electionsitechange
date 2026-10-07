@@ -1,22 +1,2 @@
-State Representative Brian Stewart has been endorsed by the Ohio Republican Party, the Buckeye Firearms Association, Ohio Right to Life, the Ohio Farm Bureau, the Ohio Chamber of Commerce, and numerous organizations across the state of Ohio during his two campaigns for the Ohio General Assembly.
-In the 2024 election, State Representative Brian Stewart is endorsed by:
-Franklin County
-Republican Party Chairwoman Meredith Freedhoff
-Republican Party Vice Chairman Andrew Havas
-Pickaway County
-County Commissioner Jay Wippel
-County Commissioner Harold "Champ" Henson
-County Commissioner Gary Scherer
-County Engineer Chris Mullins
-County Auditor Brad Washburn
-County Clerk of Courts Grant Davis
-Mayor of Circleville Don McIlroy
-Circleville City Councilwoman Michelle Blanton
-Republican Party Chairman Mike Whitten
-Republican Party Vice Chair Sandy Darby
-Republican Party Treasurer Ronde Brushart
-Madison County
-County Commissioner Chris Wallace
-County Commissioner Tony Xenikis
-County Commissioner Mark Forrest
-County Engineer Bryan Dhume
+Home Meet Brian Issues News Contact Endorsements State Representative Brian Stewart has been endorsed by the Ohio Republican Party, the Buckeye Firearms Association, Ohio Right to Life, the Ohio Farm Bureau, the Ohio Chamber of Commerce, and numerous organizations across the state of Ohio during his two campaigns for the Ohio General Assembly.
+In the 2024 election, State Representative Brian Stewart is endorsed by: Franklin County Republican Party Chairwoman Meredith Freedhoff Republican Party Vice Chairman Andrew Havas Pickaway County County Commissioner Jay Wippel County Commissioner Harold "Champ" Henson County Commissioner Gary Scherer County Engineer Chris Mullins County Auditor Brad Washburn County Clerk of Courts Grant Davis Mayor of Circleville Don McIlroy Circleville City Councilwoman Michelle Blanton Republican Party Chairman Mike Whitten Republican Party Vice Chair Sandy Darby Republican Party Treasurer Ronde Brushart Madison County County Commissioner Chris Wallace County Commissioner Tony Xenikis County Commissioner Mark Forrest County Engineer Bryan Dhume Paid for By Friends of Brian Stewart, Emily Cartellone, Treasurer, 3645 Bunty Station Road, Delaware, Ohio 43015 Home Meet Brian Issues News Contact Endorsements

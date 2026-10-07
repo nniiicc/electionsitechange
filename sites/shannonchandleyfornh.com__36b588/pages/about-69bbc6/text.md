@@ -1,5 +1,4 @@
-About Shannon
-Shannon Chandley is the daughter of a firefighter and a school food service worker.
+Skip navigation menu About Issues Events Volunteer Yard Signs Donate About Issues Events Volunteer Yard Signs Donate About Shannon Shannon Chandley is the daughter of a firefighter and a school food service worker.
 From them, she learned the values of love, honesty, hard work and compassion.
 Public service and working for the greater good are foundational to her being.
 Shannon has lived in Amherst for over two decades with her husband, Tom Silvia.
@@ -11,4 +10,4 @@ In the State Senate, Shannon served on the Judiciary, Health and Human Services,
 Throughout her legislative service, Shannon has focused on transparency, accountability, and responsible stewardship of taxpayer dollars.
 She has worked to ensure that government decisions are made openly and that the people of New Hampshire have a clear understanding of how public resources are being used.
 Shannon’s commitment to community service has included past roles on the Amherst Town Ways and Means Committee, SHARE Outreach, the Coalition Against Domestic and Sexual Violence, the Girl Scouts of the Green and White Mountains, and the Souhegan Valley Quilters Guild.
-Through her work in the legislature and in the community, Shannon remains focused on strengthening New Hampshire’s tradition of practical problem-solving, civil discourse and service to others.
+Through her work in the legislature and in the community, Shannon remains focused on strengthening New Hampshire’s tradition of practical problem-solving, civil discourse and service to others. info@shannonchandleyfornh.com Powered by RUN! website builder Paid for by Friends of Shannon Chandley, 3 High Meadow Lane, Amherst, NH 03031 Tom Silvia, Treasurer You need to enable JavaScript to run this app.

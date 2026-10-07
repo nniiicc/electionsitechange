@@ -1,9 +1,13 @@
 {
- "description": "Hab\u00eda un plan para arreglar las escuelas de NC desde 2004. Una orden judicial desde 2021. La legislatura no quiso pagar. Luego los tribunales mataron el caso.",
+ "description": "Había un plan para arreglar las escuelas de NC desde 2004. Una orden judicial desde 2021. La legislatura no quiso pagar. Luego los tribunales mataron el caso.",
  "final_url": "https://andycantwin.com/es/leandro/",
- "paid_for_by": null,
+ "fingerprint": "f6f53c79c4f0dcd070d3f4c10a07fe8b049e68dd",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Leandro v. Estado | Andy Bowline para Senado NC D31",
  "years_mentioned": [
+  "1994",
+  "2004",
   "2019",
   "2021",
   "2026"

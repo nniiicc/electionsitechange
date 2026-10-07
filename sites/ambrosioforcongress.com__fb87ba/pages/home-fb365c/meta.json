@@ -1,9 +1,18 @@
 {
  "description": "Official campaign website for Ralph Ambrosio for House Representative for NY-20",
  "final_url": "https://ambrosioforcongress.com/home",
- "paid_for_by": null,
+ "fingerprint": "7c152f65ac952e0b219d37945be88e8a941ed384",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Ralph Ambrosio for House Representative for NY-20",
  "years_mentioned": [
+  "1970",
+  "1976",
+  "1977",
+  "1985",
+  "1989",
+  "1996",
+  "1999",
   "2010"
  ]
 }

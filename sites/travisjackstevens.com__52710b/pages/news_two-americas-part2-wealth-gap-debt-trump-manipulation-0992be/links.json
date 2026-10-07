@@ -1,22 +1,94 @@
 [
-"https://bsky.app/intent/compose?text=Two+Americas%2C+Part+2%3A+The+Debt+They+Made%2C+The+Bill+You%27ll+Pay+https%3A%2F%2Ftravisjackstevens.com%2Fnews%2Ftwo-americas-part2-wealth-gap-debt-trump-manipulation",
-"https://bsky.app/profile/travisjack.bsky.social",
-"https://facebook.com/share/1HC2UrpKYr",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftravisjackstevens.com%2Fnews%2Ftwo-americas-part2-wealth-gap-debt-trump-manipulation&quote=Two+Americas%2C+Part+2%3A+The+Debt+They+Made%2C+The+Bill+You%27ll+Pay",
-"https://instagram.com/travisjackstevens?igsh=b2picjNhZjNocnRl",
-"https://linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftravisjackstevens.com%2Fnews%2Ftwo-americas-part2-wealth-gap-debt-trump-manipulation&summary=The+national+debt+crossed+%2436+trillion.+Billionaire+wealth+grew+%242.2+trillion+since+2020+while+real+wages+declined.+Trump+posted+%22THIS+IS+A+GREAT+TIME+TO+BUY%21%21%21%22+on+Truth+Social+90+minutes+before+a+tariff+pause+sent+the+Dow+up+2%2C900+points.+And+Ghislaine+Maxwell%27s+federal+housing+conditions+exceed+what+we+provide+to+enlisted+troops.+This+is+the+same+story.&title=Two+Americas%2C+Part+2%3A+The+Debt+They+Made%2C+The+Bill+You%27ll+Pay",
-"https://travisjackstevens.com/",
-"https://travisjackstevens.com/about",
-"https://travisjackstevens.com/contact",
-"https://travisjackstevens.com/donate",
-"https://travisjackstevens.com/news",
-"https://travisjackstevens.com/news/coons-arms-vote-delaware-accountability",
-"https://travisjackstevens.com/news/how-to-sign-delaware-ballot-petition",
-"https://travisjackstevens.com/news/truth-social-air-force-one-iran-war",
-"https://travisjackstevens.com/news/two-americas-pentagon-luxury-military-reality",
-"https://travisjackstevens.com/platform",
-"https://travisjackstevens.com/volunteer",
-"https://x.com/intent/tweet?url=https%3A%2F%2Ftravisjackstevens.com%2Fnews%2Ftwo-americas-part2-wealth-gap-debt-trump-manipulation&text=Two+Americas%2C+Part+2%3A+The+Debt+They+Made%2C+The+Bill+You%27ll+Pay",
-"https://x.com/travisjackseven",
-"https://youtube.com/@travisstevens2840?si=YItXHRojvSvoX5Jf"
+{
+"text": "About",
+"href": "https://travisjackstevens.com/about"
+},
+{
+"text": "Back to News & Updates",
+"href": "https://travisjackstevens.com/news"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/intent/compose?text=Two+Americas%2C+Part+2%3A+The+Debt+They+Made%2C+The+Bill+You%27ll+Pay+https%3A%2F%2Ftravisjackstevens.com%2Fnews%2Ftwo-americas-part2-wealth-gap-debt-trump-manipulation"
+},
+{
+"text": "Contact",
+"href": "https://travisjackstevens.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://travisjackstevens.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftravisjackstevens.com%2Fnews%2Ftwo-americas-part2-wealth-gap-debt-trump-manipulation&quote=Two+Americas%2C+Part+2%3A+The+Debt+They+Made%2C+The+Bill+You%27ll+Pay"
+},
+{
+"text": "Home",
+"href": "https://travisjackstevens.com/"
+},
+{
+"text": "How to Vote →",
+"href": "https://travisjackstevens.com/news/how-to-sign-delaware-ballot-petition"
+},
+{
+"text": "Join the Campaign",
+"href": "https://travisjackstevens.com/volunteer"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Ftravisjackstevens.com%2Fnews%2Ftwo-americas-part2-wealth-gap-debt-trump-manipulation&summary=The+national+debt+crossed+%2436+trillion.+Billionaire+wealth+grew+%242.2+trillion+since+2020+while+real+wages+declined.+Trump+posted+%22THIS+IS+A+GREAT+TIME+TO+BUY%21%21%21%22+on+Truth+Social+90+minutes+before+a+tariff+pause+sent+the+Dow+up+2%2C900+points.+And+Ghislaine+Maxwell%27s+federal+housing+conditions+exceed+what+we+provide+to+enlisted+troops.+This+is+the+same+story.&title=Two+Americas%2C+Part+2%3A+The+Debt+They+Made%2C+The+Bill+You%27ll+Pay"
+},
+{
+"text": "News",
+"href": "https://travisjackstevens.com/news"
+},
+{
+"text": "Platform",
+"href": "https://travisjackstevens.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://travisjackstevens.com/volunteer"
+},
+{
+"text": "X",
+"href": "https://x.com/intent/tweet?url=https%3A%2F%2Ftravisjackstevens.com%2Fnews%2Ftwo-americas-part2-wealth-gap-debt-trump-manipulation&text=Two+Americas%2C+Part+2%3A+The+Debt+They+Made%2C+The+Bill+You%27ll+Pay"
+},
+{
+"text": "[image: He Sold the Market, Used Reporters as Bait, and Started a War He Can't Finish]AccountabilityHe Sold the Market, Used Reporters as Bait, and Started a War He Can't FinishThree stories broke on August 12th. Each one, on its own, would have ended a normal presidency. Together, they tell you everything you need to know about where we are.Aug 12, 2026•5 min read•Travis Jack Stevens#Truth Social#Iran#Air Force One",
+"href": "https://travisjackstevens.com/news/truth-social-air-force-one-iran-war"
+},
+{
+"text": "[image: Travis Jack Stevens for U.S. Senate — official campaign logo]",
+"href": "https://travisjackstevens.com/"
+},
+{
+"text": "[image: Two Americas: Lobster at the Pentagon, Broken Bunks on the Lincoln]AccountabilityTwo Americas: Lobster at the Pentagon, Broken Bunks on the LincolnSecretary Hegseth installed a grand piano and put lobster on the menu while sailors on the USS Lincoln slept in broken bunks. The administration is asking for a $1.5 trillion defense budget for FY2027. Reaper drones are being lost at a 25% rate. And the CIA's own analysts rated the intel that rerouted Air Force One as low confidence. This is what two Americas looks like.Aug 14, 2026•9 min read•Travis Jack Stevens#Pentagon#Hegseth#defense budget",
+"href": "https://travisjackstevens.com/news/two-americas-pentagon-luxury-military-reality"
+},
+{
+"text": "[image: Why I Am Running Against Chris Coons: He Chose the War Machine Over Delaware]AccountabilityWhy I Am Running Against Chris Coons: He Chose the War Machine Over DelawareIn April 2026, Senator Chris Coons was one of only seven Senate Democrats who crossed party lines to keep $446.8 million in U.S. weapons — 12,000 1,000-pound bombs and Caterpillar D9 military bulldozers — flowing to Israel. This is why that vote matters, and why Delaware deserves better.Aug 13, 2026•8 min read•Travis Jack Stevens#Chris Coons#arms sales#Israel",
+"href": "https://travisjackstevens.com/news/coons-arms-vote-delaware-accountability"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/travisjack.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1HC2UrpKYr/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/travisjackstevens?igsh=b2picjNhZjNocnRl"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/travisjackseven"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@travisstevens2840?si=YItXHRojvSvoX5Jf"
+}
 ]

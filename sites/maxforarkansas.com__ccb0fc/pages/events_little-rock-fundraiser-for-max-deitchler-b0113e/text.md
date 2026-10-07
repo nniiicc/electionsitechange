@@ -1,9 +1,3 @@
-Back to All Events
-Join us for a fundraiser on September 17, 2025 at White Water Tavern in Little Rock from 5:15pm to 7:15pm!
-Previous
-Previous
-September 8
-University of Arkansas Young Dems: Kickoff Meeting, Max for Arkansas
-Next
-Next
-October 23
+0 Skip to Content About Get Involved Register to Vote Volunteer Events Contact Map of District 20 Max's Election Work Donate Open Menu Close Menu About Get Involved Register to Vote Volunteer Events Contact Map of District 20 Max's Election Work Donate Open Menu Close Menu About Folder: Get Involved Back Register to Vote Volunteer Events Contact Map of District 20 Max's Election Work Donate Back to All Events Little Rock Fundraiser for Max Deitchler Wednesday, September 17, 2025 5:15 PM 7:15 PM Google Calendar ICS Join us for a fundraiser on September 17, 2025 at White Water Tavern in Little Rock from 5:15pm to 7:15pm!
+Previous Previous September 8 University of Arkansas Young Dems: Kickoff Meeting, Max for Arkansas Next Next October 23 Neighborhood Meet & Greet Sign up for updates Contact P.O.
+Box 8423, Fayetteville, AR 72703 Paid for by Max for Arkansas.

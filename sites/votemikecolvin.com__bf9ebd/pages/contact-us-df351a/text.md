@@ -1,2 +1,3 @@
-Contact Colvin for Additional Information mike@colvinnc.com Please Fill the Details Below Comments This field is for validation purposes and should be left unchanged.
-Name(Required) Email(Required) Phone Number Message(Required)
+Skip to content DONATE Home About The Candidate Platform Issues Contact Us × Home About The Candidate Platform Issues Contact Us Contact Colvin for Additional Information mike@colvinnc.com DONATE Home About The Candidate Platform Issues Contact Us Home About The Candidate Platform Issues Contact Us DONATE © #, COMMITTEE TO ELECT MIKE COLVIN.
+All Rights Reserved.
+Scroll To Top

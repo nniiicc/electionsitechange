@@ -1,33 +1,142 @@
 [
-"http://theguerrillapolitic.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSfOl5DoWS4b7_kfABNbu83veG230TSyzLAqe_uP-JO9C2ZfrA/viewform?usp=sf_link",
-"https://facebook.com/VoteKellyBreen",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2020%2F10%2F26%2Fcan-democrats-win-back-the-michigan-house-after-a-decade",
-"https://instagram.com/kellybreenmi",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2020%2F10%2F26%2Fcan-democrats-win-back-the-michigan-house-after-a-decade",
-"https://michiganadvance.com/2020/10/25/can-democrats-win-back-the-michigan-house-after-a-decade",
-"https://michiganadvance.com/blog/benson-return-your-ballot-in-person-to-make-sure-its-counted",
-"https://michiganadvance.com/blog/trump-plans-tuesday-lansing-rally",
-"https://pinterest.com/pin/create/link?media=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F59126b375016e19a169b8f41%2F1603736375156-Z031B69F9BZALJKB78IP%2FScreen+Shot+2020-10-26+at+2.13.44+PM.png&url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2020%2F10%2F26%2Fcan-democrats-win-back-the-michigan-house-after-a-decade",
-"https://reddit.com/submit?url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2020%2F10%2F26%2Fcan-democrats-win-back-the-michigan-house-after-a-decade",
-"https://secure.actblue.com/donate/kellybreenwebsite",
-"https://tumblr.com/share/link?url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2020%2F10%2F26%2Fcan-democrats-win-back-the-michigan-house-after-a-decade",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2020%2F10%2F26%2Fcan-democrats-win-back-the-michigan-house-after-a-decade",
-"https://votekellybreen.com/",
-"https://votekellybreen.com/about",
-"https://votekellybreen.com/better-education",
-"https://votekellybreen.com/contact",
-"https://votekellybreen.com/endorsements",
-"https://votekellybreen.com/healthier-michigan",
-"https://votekellybreen.com/meetkelly",
-"https://votekellybreen.com/news",
-"https://votekellybreen.com/news/2020/10/15/in-battle-for-michigan-house-four-oakland-county-democrats-can-restore-balance",
-"https://votekellybreen.com/news?author=5a09b5d26f935eb2a92fcfe5",
-"https://votekellybreen.com/priorities",
-"https://votekellybreen.com/search",
-"https://votekellybreen.com/thriving-michigan",
-"https://votekellybreen.com/tighter-knit",
-"https://votekellybreen.com/updates-in-progress-1",
-"https://votekellybreen.com/volunteer2",
-"https://wkar.org/post/michigan-democrats-set-sights-retaking-state-house"
+{
+"text": "A Better Educated Michigan",
+"href": "https://www.votekellybreen.com/better-education"
+},
+{
+"text": "A Healthier Michigan",
+"href": "https://www.votekellybreen.com/healthier-michigan"
+},
+{
+"text": "A More Affordable Michigan",
+"href": "https://www.votekellybreen.com/thriving-michigan"
+},
+{
+"text": "A Tighter-Knit Michigan",
+"href": "https://www.votekellybreen.com/tighter-knit"
+},
+{
+"text": "About",
+"href": "https://www.votekellybreen.com/about"
+},
+{
+"text": "Can Democrats Win Back the Michigan House After a Decade?",
+"href": "https://www.michiganadvance.com/2020/10/25/can-democrats-win-back-the-michigan-house-after-a-decade/"
+},
+{
+"text": "Contact",
+"href": "https://www.votekellybreen.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kellybreenwebsite"
+},
+{
+"text": "Endorsed",
+"href": "https://www.votekellybreen.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votekellybreen.com/endorsements"
+},
+{
+"text": "Facebook0",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2020%2F10%2F26%2Fcan-democrats-win-back-the-michigan-house-after-a-decade"
+},
+{
+"text": "Get Together",
+"href": "https://www.votekellybreen.com/meetkelly"
+},
+{
+"text": "Home",
+"href": "https://www.votekellybreen.com/"
+},
+{
+"text": "In the News",
+"href": "https://www.votekellybreen.com/news"
+},
+{
+"text": "Kelly Breen",
+"href": "https://www.votekellybreen.com/news?author=5a09b5d26f935eb2a92fcfe5"
+},
+{
+"text": "LinkedIn0",
+"href": "https://www.linkedin.com/shareArticle?mini=true&summary=&url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2020%2F10%2F26%2Fcan-democrats-win-back-the-michigan-house-after-a-decade"
+},
+{
+"text": "Next In battle for Michigan House, four Oakland County Democrats can restore balance Kelly BreenOctober 15, 2020",
+"href": "https://www.votekellybreen.com/news/2020/10/15/in-battle-for-michigan-house-four-oakland-county-democrats-can-restore-balance"
+},
+{
+"text": "Pinterest0",
+"href": "https://www.pinterest.com/pin/create/link/?description=&media=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F59126b375016e19a169b8f41%2F1603736375156-Z031B69F9BZALJKB78IP%2FScreen+Shot+%23+at+2.13.44+PM.png&url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2020%2F10%2F26%2Fcan-democrats-win-back-the-michigan-house-after-a-decade"
+},
+{
+"text": "Previous Michigan Democrats Set Sights On Retaking State House Kelly BreenOctober 29, 2020",
+"href": "https://www.wkar.org/post/michigan-democrats-set-sights-retaking-state-house#stream/0"
+},
+{
+"text": "Priorities",
+"href": "https://www.votekellybreen.com/priorities"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfOl5DoWS4b7_kfABNbu83veG230TSyzLAqe_uP-JO9C2ZfrA/viewform?usp=sf_link"
+},
+{
+"text": "Re-Elect Kelly Breen",
+"href": "https://www.votekellybreen.com/updates-in-progress-1"
+},
+{
+"text": "Read More",
+"href": "https://www.michiganadvance.com/2020/10/25/can-democrats-win-back-the-michigan-house-after-a-decade/"
+},
+{
+"text": "Reddit",
+"href": "https://www.reddit.com/submit?url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2020%2F10%2F26%2Fcan-democrats-win-back-the-michigan-house-after-a-decade"
+},
+{
+"text": "THE GUERRILLA POLITIC, LLC",
+"href": "http://www.theguerrillapolitic.com"
+},
+{
+"text": "Tumblr",
+"href": "https://www.tumblr.com/share/link?url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2020%2F10%2F26%2Fcan-democrats-win-back-the-michigan-house-after-a-decade"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votekellybreen.com%2Fnews%2F2020%2F10%2F26%2Fcan-democrats-win-back-the-michigan-house-after-a-decade&text="
+},
+{
+"text": "Volunteer",
+"href": "https://www.votekellybreen.com/volunteer2"
+},
+{
+"text": "[image: Kelly Breen for State Representatitve]",
+"href": "https://www.votekellybreen.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteKellyBreen"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kellybreenmi/"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekellybreen.com/search"
+},
+{
+"text": "[no text]",
+"href": "mailto:hello@kellybreen.com"
+},
+{
+"text": "noted",
+"href": "https://www.michiganadvance.com/blog/benson-return-your-ballot-in-person-to-make-sure-its-counted/"
+},
+{
+"text": "visit",
+"href": "https://www.michiganadvance.com/blog/trump-plans-tuesday-lansing-rally/"
+}
 ]

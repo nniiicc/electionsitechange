@@ -1,6 +1,5 @@
-Key Issues Facing Monroe, Easton and Trumbull Voters
-Taxes – Connecticut continues to be one of the highest taxed states in the country.
-NPR reported earlier this year that Connecticut residents have the 5th highest tax burden in the United States.
+Home Meet Tony Issues Endorsements Press Releases Request a Sign Key Issues Facing Monroe, Easton and Trumbull Voters Taxes – Connecticut continues to be one of the highest taxed states in the country.
+NPR reported earlier this year that Connecticut residents have the 5 th highest tax burden in the United States.
 Tax and spend Democrats in Hartford have been running Connecticut too long and will keep taking your hard-working dollars to spend on more bloated government programs.
 In the latest budget passed in June, Republicans stood strong and worked with the Governor to lower taxes for many residents.
 We need someone up there to fight for no new taxes and tax decreases.
@@ -21,3 +20,9 @@ The Clean Slate law just took into effect which wipes some felonies and misdemea
 So even when they do the crime and found guilty, they ultimately are not help accountable.
 What about the victims?
 This is the direction the state of Connecticut is heading in where criminal’s rights are more important than victim’s rights.
+VOTING INFO HELP CAMPAIGN Get Updates Thank you for signing up!
+News State Rep.
+Tony Scott outlines 2026 legislative priorities Tony Scott announces campaign for reelection to the Connecticut State House Monroe legislators take on fraud, homelessness, domestic violence, support veterans, first responders Voter Information Contact Paid for by Tony Scott for State Rep.
+Loretta Chory, Treasurer.
+Approved by Tony Scott.
+Powered by CampaignPartner.com - Political Websites Home Meet Tony Issues Endorsements Press Releases Request a Sign Contact Voter Information Close Menu

@@ -1,24 +1,23 @@
-Arkansas needs change.
+0 Skip to Content About the Issues About Me About District 15 Contact Events English Open Menu Close Menu About the Issues About Me About District 15 Contact Events English Open Menu Close Menu About the Issues About Me About District 15 Contact Events English Back Arkansas needs change.
 Our leaders have had years to make life better for us, but they’ve only made life worse.
 This is one of the hardest states in which to be a child, a parent, a senior, or anybody who looks or thinks differently from those in power.
 Here’s what I’m running to do about it.
 Education: Public dollars are for public schools.
 I want to support our teachers, schools and districts more, not bleed them dry for vouchers to wealthy private and religious schools.
-Though it didn’t get on the ballot this year, I support the Arkansas Educational Rights Amendment of 2026’s goals to rein in the governor’s LEARNS Act and expand education access for all.
+Though it didn’t get on the ballot this year, I support the Arkansas Educational Rights Amendment of 2026 ’s goals to rein in the governor’s LEARNS Act and expand education access for all.
 I want to give schools and educators the support they need to innovate, to explain the world as it really is, and to prepare the next generation for a better future.
 Economy: Our lives are harder because conmen, cranks and cowards are in charge.
 Our state can and must do more to stand up for us against an insane federal government that’s making gas and groceries more expensive with stupid wars, idiotic tariffs and bottomless corruption.
 The rich and powerful give themselves tax cuts while the rest of us keep on paying.
 And our state keeps finding ways to raise our bills for health care and electricity.
 I’m running to end to the madness, to stop adding to our monthly bills, and to pick up the slack for disappearing federal funding for health care, food and other needs.
-Big Tech: CEOs like Elon Musk had better get used to the word “no.”
-Whether it’s with A.I., Flock cameras or the explosion in data centers, billionaires can’t stop taking things that don’t belong to them: our privacy, our work, our natural resources and our governments.
+Big Tech: CEOs like Elon Musk had better get used to the word “no.” Whether it’s with A.I., Flock cameras or the explosion in data centers, billionaires can’t stop taking things that don’t belong to them: our privacy, our work, our natural resources and our governments.
 My platform is simply to say “no more”: No more secret deals for public money, no more constant surveillance by the biggest creeps in the world, and no more impunity for their theft and the damage they leave behind.
 Democracy: The People Rule, period.
 Those in power in D.C. and Little Rock are tired of being accountable to voters and of having to listen to the people.
 That’s too bad.
 They work for us, not for themselves.
-Though it may not make it on the ballot this year, I support the Arkansas Ballot Measure Rights Amendment’s goals to take protect our voting rights and our ability to decide our own state laws.
+Though it may not make it on the ballot this year, I support the Arkansas Ballot Measure Rights Amendment ’s goals to take protect our voting rights and our ability to decide our own state laws.
 I also want to make it easier for all eligible citizens to register to vote in the first place, such as with online or same-day registration.
 Health care: GOP policies have made us sitting ducks for disease, and we all pay the price.
 Our leaders have delivered one health policy failure after another.
@@ -41,7 +40,7 @@ The city of Rogers has taken several great steps to make that happen, simplifyin
 The state should follow its example and even the playing field for every city.
 Environment: We all depend on clean water and thriving nature.
 Our state must take a more active role in keeping Osage Creek, the Illinois River and other NWA waterways clean.
-With fuel prices skyrocketing, the state must encourage solar energy generation and electric vehicles instead of kneecapping them and making us pay more for power.
+With fuel prices skyrocketing, the state must encourage solar energy generation and electric vehicles instead of kneecapping them and making us pay more for power .
 It should also incentivize the use of green infrastructure, which is one of our most powerful tools for coexisting with and protecting our water and other natural resources.
 LGBTQ community: The state should mind its own business.
 Arkansas’ elected Republicans have been obsessed with tormenting queer and trans people of all ages, taking over public libraries, banning safe health care and invading the privacy of children and families of all kinds.
@@ -53,3 +52,5 @@ I’d be happiest if no abortion was ever needed again.
 But our state’s near-total ban is a horrific mistake, intruding where government doesn’t belong, causing needless suffering for new mothers and allowing rapists to use the woman (or often, the girl) of their choosing to bear their children.
 It shouldn’t be this way.
 We need better sex education and contraception access, sensible policy for women’s health care, and more support for new parents.
+I’ve received the recommendation or distinction of the following organizations: Dan Holtmeyer for State Rep.
+Paid for by Committee to Elect Dan Holtmeyer Contact info@danholtmeyerforar.com Instagram Facebook

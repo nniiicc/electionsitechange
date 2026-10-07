@@ -1,71 +1,20 @@
-Voter Resources for Wyoming House District 36
-Empowering Voters in Natrona County • Casper Area
-Welcome to House District 36
-Your voice matters.
-House District 36 serves residents across parts of Natrona County, centered in the Casper area.
-This page provides clear, up-to-date information to help you register, learn about the issues, and cast your ballot confidently in the 2026 elections.Why Your Vote Counts in HD 36
-House District 36 plays a vital role in shaping policies on energy, education, public safety, taxes, and quality of life in central Wyoming.
+Meet Art What lies ahead… Effective Responsive Experienced Respected Voter Resources Facebook Meet Art What lies ahead… Effective Responsive Experienced Respected Voter Resources Facebook Menu Close Art Washut For House District 36 Paid for by Art Washut Campaign For House District 36, WY Voter Resources Voter Resources for Wyoming House District 36 Empowering Voters in Natrona County • Casper Area Welcome to House District 36 Your voice matters.
+House District 36 serves residents across parts of Natrona County , centered in the Casper area.
+This page provides clear, up-to-date information to help you register, learn about the issues, and cast your ballot confidently in the 2026 elections.
+Why Your Vote Counts in HD 36 House District 36 plays a vital role in shaping policies on energy, education, public safety, taxes, and quality of life in central Wyoming.
 Every vote helps ensure strong local representation.
-About House District 36
-- Location: Portions of Natrona County (Casper area)
-- Population served: Approximately 9,300 residents
-- Current Representative: Art Washut (Republican) — Serving since 2019 and currently Chairman of the House Judiciary Committee
-Wyoming’s 62 House districts give communities like ours direct representation in Cheyenne.
+About House District 36 Location : Portions of Natrona County (Casper area) Population served : Approximately 9,300 residents Current Representative : Art Washut (Republican) — Serving since 2019 and currently Chairman of the House Judiciary Committee Wyoming’s 62 House districts give communities like ours direct representation in Cheyenne.
 HD 36 focuses on the priorities of Casper and surrounding areas.
-2026 Election Dates
-| Election | Date | Polls Open |
-|---|---|---|
-| Primary | Tuesday, August 18, 2026 | 7:00 AM – 7:00 PM MT |
-| General | Tuesday, November 3, 2026 | 7:00 AM – 7:00 PM MT |
-Key Deadlines
-- Primary registration closes: August 3, 2026 (same-day registration available at polls)
-- General registration closes: October 19, 2026 (same-day registration available at polls)
-How to Register to Vote
-Wyoming makes registration easy:Eligibility
-- U.S. citizen
-- 18 years old on Election Day
-- Wyoming resident for at least 30 days
-How to Register
-- Same-day registration — Available at your polling place on Election Day (bring proof of citizenship and residency).
-- Register in advance at the Natrona County Clerk’s office.
-- Download and mail the form from the Wyoming Secretary of State website.
+2026 Election Dates Election Date Polls Open Primary Tuesday, August 18, 2026 7:00 AM – 7:00 PM MT General Tuesday, November 3, 2026 7:00 AM – 7:00 PM MT Key Deadlines Primary registration closes: August 3, 2026 (same-day registration available at polls) General registration closes: October 19, 2026 (same-day registration available at polls) How to Register to Vote Wyoming makes registration easy: Eligibility U.S. citizen 18 years old on Election Day Wyoming resident for at least # days How to Register Same-day registration — Available at your polling place on Election Day (bring proof of citizenship and residency).
+Register in advance at the Natrona County Clerk’s office .
+Download and mail the form from the Wyoming Secretary of State website.
 Proof of citizenship and residency is required when registering.
-Find Your Polling Place & Sample Ballot
-Use these official tools:
-- Natrona County Polling Place Locator: vote.natronacounty-wy.gov
-- Wyoming Secretary of State Locator: sos.wyo.gov/Elections/
-Enter your address to see your exact polling location and a sample ballot.
-Voter ID Requirements
-You must show photo identification when voting in person.
-Acceptable forms include:
-- Wyoming driver’s license or ID card
-- U.S. passport
-- Military ID
-- Tribal ID (federally recognized tribe)
-- Other approved government-issued photo ID
-Absentee & Early VotingNo excuse is required to vote absentee or early.Primary Absentee Period: July 21 – August 17, 2026
-General Absentee Period: October 6 – November 2, 2026How to request an absentee ballot:
-- In person or online via the Natrona County Clerk
-- By phone: (307) 235-9217
-- By mail or email
-Ballots must be received by the County Clerk by 7:00 PM on Election Day.
-Key Official Resources
-| Resource | Link | Purpose |
-|---|---|---|
-| Wyoming Secretary of State | sos.wyo.gov/Elections/ | Forms, guides, statewide info |
-| Natrona County Clerk | natronacounty-wy.gov | Local polling & absentee |
-| Polling Locator (Natrona) | vote.natronacounty-wy.gov | Find your polling place |
-| Wyoming Legislature | wyoleg.gov | Bills, committees, representative contact |
-| Ballotpedia – HD 36 | ballotpedia.org/Wyoming_House_of_Representatives_District_36 | District & election history |
-Natrona County Clerk Contact
-200 North Center Street, Room 154
-Casper, WY 82601
-Phone: (307) 235-9217
-Make Your Plan to Vote
-- Register (or confirm your registration)
-- Find your polling place
-- Research candidates and issues important to HD 36
-- Vote — in person, early, or absentee
-Every eligible voter in House District 36 has the power to help shape the future of our community and state.Thank you for participating in our democracy.
-Note: This page is provided to support voter education and participation in Wyoming House District 36.
-For the most current and official information, always refer to the Wyoming Secretary of State and Natrona County Clerk websites.
+Find Your Polling Place & Sample Ballot Use these official tools: Natrona County Polling Place Locator : vote.natronacounty-wy.gov Wyoming Secretary of State Locator : sos.wyo.gov/Elections/ Enter your address to see your exact polling location and a sample ballot.
+Voter ID Requirements You must show photo identification when voting in person.
+Acceptable forms include: Wyoming driver’s license or ID card U.S. passport Military ID Tribal ID (federally recognized tribe) Other approved government-issued photo ID Absentee & Early Voting No excuse is required to vote absentee or early.
+Primary Absentee Period : July 21 – August 17, 2026 General Absentee Period : October 6 – November 2, 2026 How to request an absentee ballot : In person or online via the Natrona County Clerk By phone: (307) 235-9217 By mail or email Ballots must be received by the County Clerk by 7:00 PM on Election Day.
+Key Official Resources Resource Link Purpose Wyoming Secretary of State sos.wyo.gov/Elections/ Forms, guides, statewide info Natrona County Clerk natronacounty-wy.gov Local polling & absentee Polling Locator (Natrona) vote.natronacounty-wy.gov Find your polling place Wyoming Legislature wyoleg.gov Bills, committees, representative contact Ballotpedia – HD 36 ballotpedia.org/Wyoming_House_of_Representatives_District_36 District & election history Natrona County Clerk Contact 200 North Center Street, Room 154 Casper, WY 82601 Phone: (307) 235-9217 Make Your Plan to Vote Register (or confirm your registration) Find your polling place Research candidates and issues important to HD 36 Vote — in person, early, or absentee Every eligible voter in House District 36 has the power to help shape the future of our community and state.
+Thank you for participating in our democracy.
+Note : This page is provided to support voter education and participation in Wyoming House District 36.
+For the most current and official information, always refer to the Wyoming Secretary of State and Natrona County Clerk websites. © # Art Washut For House District 36 .
+Theme by Anders Norén .

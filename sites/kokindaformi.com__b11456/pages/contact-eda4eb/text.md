@@ -1,24 +1,2 @@
-top of page
-History
-Issues
-Media
-Contact
-More
-Use tab to navigate through the menu items.
-DONATE
-Contact us
-First name
-Last name
-*
-Address
-*
-Email
-*
-Multi choice
-Knock Doors
-Take a Yard Sign
-Make Phone Calls
-Host a Meet n Greet
-Write a message
-Submit
-bottom of page
+top of page History Issues Media Contact More Use tab to navigate through the menu items.
+DONATE Contact us First name Last name * Address * Email * Multi choice Knock Doors Take a Yard Sign Make Phone Calls Host a Meet n Greet Write a message Submit Paid for by Ron Kokinda for State Rep 10475 Balfour Allen Park, MI 48101 Privacy Policy Copyright # kokindaformi.com Home Terms and Conditions Thanks Accessibility Statement bottom of page

@@ -1,9 +1,38 @@
 [
-"http://wix.com/",
-"https://sneed4house.com/",
-"https://sneed4house.com/donate",
-"https://sneed4house.com/faq-s",
-"https://sneed4house.com/get-involved",
-"https://sneed4house.com/media",
-"https://sneed4house.com/meet-chris"
+{
+"text": "CHRIS SNEED",
+"href": "https://www.sneed4house.com"
+},
+{
+"text": "DONATE",
+"href": "https://www.sneed4house.com/donate"
+},
+{
+"text": "FAQ's",
+"href": "https://www.sneed4house.com/faq-s"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.sneed4house.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.sneed4house.com"
+},
+{
+"text": "MEDIA",
+"href": "https://www.sneed4house.com/media"
+},
+{
+"text": "MEET CHRIS",
+"href": "https://www.sneed4house.com/meet-chris"
+},
+{
+"text": "Wix.com",
+"href": "http://wix.com"
+},
+{
+"text": "for House 2026",
+"href": "https://www.sneed4house.com"
+}
 ]

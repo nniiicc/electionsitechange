@@ -1,11 +1,58 @@
 [
-"https://alison.legislature.state.al.us/house-district-maps",
-"https://alva4alabama.com/contact.php",
-"https://alva4alabama.com/district.php",
-"https://alva4alabama.com/index.php",
-"https://alva4alabama.com/issues.php",
-"https://alva4alabama.com/running.php",
-"https://alva4alabama.com/trail.php",
-"https://myinfo.alabamavotes.gov/VoterView",
-"https://secure.winred.com/alva-m-lambert-campaign/alvadonate"
+{
+"text": "ALVA LAMBERT for Alabama House District 74",
+"href": "https://alva4alabama.com/index.php"
+},
+{
+"text": "Alabama Secretary of State voter info page",
+"href": "https://myinfo.alabamavotes.gov/VoterView"
+},
+{
+"text": "Alabama voter lookup tool",
+"href": "https://myinfo.alabamavotes.gov/VoterView"
+},
+{
+"text": "Check Now »",
+"href": "https://myinfo.alabamavotes.gov/VoterView"
+},
+{
+"text": "District",
+"href": "https://alva4alabama.com/district.php"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/alva-m-lambert-campaign/alvadonate"
+},
+{
+"text": "Get Involved",
+"href": "https://alva4alabama.com/contact.php"
+},
+{
+"text": "Home",
+"href": "https://alva4alabama.com/index.php"
+},
+{
+"text": "Issues",
+"href": "https://alva4alabama.com/issues.php"
+},
+{
+"text": "See the Issues",
+"href": "https://alva4alabama.com/issues.php"
+},
+{
+"text": "Trail",
+"href": "https://alva4alabama.com/trail.php"
+},
+{
+"text": "View official Alabama Legislature maps »",
+"href": "https://alison.legislature.state.al.us/house-district-maps"
+},
+{
+"text": "Volunteer",
+"href": "https://alva4alabama.com/contact.php"
+},
+{
+"text": "Why I'm Running",
+"href": "https://alva4alabama.com/running.php"
+}
 ]

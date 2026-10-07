@@ -1,5 +1,4 @@
-Meet Clarissa
-A Lifetime of Service.
+Home Meet Clarissa Judicial Experience Join Team Silva News DONATE Meet Clarissa A Lifetime of Service.
 A Record of Integrity.
 Justice Clarissa Silva was born and raised in Harlingen, Texas, where she learned the values of faith, hard work, and service to others.
 Growing up, her family taught her the importance of helping people without expecting anything in return—an outlook that continues to guide her public service today.
@@ -20,3 +19,8 @@ She currently serves on the planning committee for the Advanced Criminal Law and
 Today, Justice Silva remains committed to the principles that have guided her entire career: fairness, integrity, impartiality, and respect for the rule of law.
 She believes every person deserves equal justice and every case deserves thoughtful consideration.
 With more than eighteen years of legal and judicial experience, Justice Silva continues to serve South Texas with professionalism, humility, and a steadfast commitment to justice.
+Pol.
+Ad paid for by Clarissa Silva Campaign Viola Edna Treviño, Treasurer P.O.
+Box 532225 Harlingen, Texas 78553 In voluntary compliance with the Fair Campaign Practices Act Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

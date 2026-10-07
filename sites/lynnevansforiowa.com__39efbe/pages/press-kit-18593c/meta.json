@@ -1,10 +1,9 @@
 {
  "description": "Explore the Lynn Evans Iowa press kit for insights on the Iowa State Senator, press inquiries, and leadership in rural Iowa.",
  "final_url": "https://lynnevansforiowa.com/press-kit",
- "paid_for_by": null,
+ "fingerprint": "10c698155c3cdea50dbcddcf5f62e773f5a4aeea",
+ "format": 3,
+ "paid_for_by": "",
  "title": "PRESS KIT",
- "years_mentioned": [
-  "2025",
-  "2026"
- ]
+ "years_mentioned": []
 }

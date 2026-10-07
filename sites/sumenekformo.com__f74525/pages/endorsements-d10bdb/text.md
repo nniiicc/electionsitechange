@@ -1,19 +1,4 @@
-ENDORSEMENTS
-- Missouri AFL-CIO Endorsed
-- National Women's Political Caucus - STL Endorsed
-- Access MO Endorsed
-- Planned Parenthood Great Rivers Action Endorsed
-- Missouri Now Endorsed
-- Sierra Club of Eastern MO Endorsed
-- Teamsters Local 600 Endorsed
-- United Auto Workers Endorsed
-- Tesson Ferry Democratic Organization Endorsed
-- Gravois Democrats Club Endorsed
-- Progressive Democrats of Lemay Endorsed
-local elected officials endorse meredith
-- STATE SENATOR Tracy McCreery
-- STATE REPRESENTATIVE Michael Burton
-- STATE SENATOR Doug Beck
-- STATE REPRESENTATIVE Mark Boyko
-- STATE REPRESENTATIVE Jo Doll
-- STATE REPRESENTATIVE Bridget Walsh Moore
+0 Skip to Content Meet Meredith About Meredith Endorsements Issues Platform Volunteer Events Merch Press DONATE Open Menu Close Menu Open Menu Close Menu Meet Meredith About Meredith Endorsements Issues Platform Volunteer Events Merch Press DONATE Folder: Meet Meredith Back About Meredith Endorsements Folder: Issues Back Platform Volunteer Events Merch Press DONATE ENDORSEMENTS Missouri AFL-CIO Endorsed National Women's Political Caucus - STL Endorsed Access MO Endorsed Planned Parenthood Great Rivers Action Endorsed Abortion Action Endorsed Missouri Now Endorsed Sierra Club of Eastern MO Endorsed Teamsters Local 600 Endorsed United Auto Workers Endorsed Tesson Ferry Democratic Organization Endorsed Gravois Democrats Club Endorsed Progressive Democrats of Lemay Endorsed The American People's Compact Endorsed MEREDITH SUMENEK IS A MOMS DEMAND ACTION GUN SENSE CANDIDATE local elected officials endorse meredith STATE SENATOR Tracy McCreery STATE REPRESENTATIVE Michael Burton STATE SENATOR Doug Beck STATE REPRESENTATIVE Mark Boyko STATE REPRESENTATIVE Jo Doll STATE REPRESENTATIVE Bridget Walsh Moore EXPLORE MEET MEREDITH PLATFORM THE DISTRICT SUPPORT EVENTS VOLUNTEER DONATE FOLLOW PRIVACY POLICY MEREDITH SUMENEK FOR MISSOURI Paid for by Meredith Sumenek Campaign Fund, Laura Metz, Treasurer Call Meredith: 314.649.8049 Email: info@sumenekformo.com Mail: 4648 Villa Knoll Drive, Saint Louis MO 63128 DONATE When you donate through ActBlue, ActBlue will retain 3.95% of the contribution for processing fees.
+Meredith Sumenek Campaign Fund will retain the remaining 96.05%.
+Prefer to send a check?
+Please send to Meredith Sumenek Campaign Fund, 4648 Villa Knoll Dr, Saint Louis MO 63128

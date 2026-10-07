@@ -1,15 +1,66 @@
 [
-"https://bsky.app/profile/burgeforcongress.bsky.social",
-"https://burgeforcongress.com/",
-"https://burgeforcongress.com/about",
-"https://burgeforcongress.com/cart",
-"https://burgeforcongress.com/contact-1",
-"https://burgeforcongress.com/issues",
-"https://docs.google.com/forms/d/e/1FAIpQLSdn9DezxJreOyhGgQQoTB-oJt4Fmi43rE2Lneut3m9Jx2UnJQ/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSfkYPmsPIe30W6q7mxhEek1aMX120n14yD-hUiz_RBhUd2WjQ/viewform?usp=header",
-"https://facebook.com/profile.php?id=61576948851760",
-"https://instagram.com/burge4congress",
-"https://secure.actblue.com/donate/burgewebsite",
-"https://tiktok.com/@burge4congress",
-"https://x.com/burge4congress"
+{
+"text": "0",
+"href": "https://www.burgeforcongress.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.burgeforcongress.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.burgeforcongress.com/contact-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/burgewebsite"
+},
+{
+"text": "Home",
+"href": "https://www.burgeforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.burgeforcongress.com/issues"
+},
+{
+"text": "Meet Kevin",
+"href": "https://www.burgeforcongress.com/about"
+},
+{
+"text": "Policy Issues and Platform",
+"href": "https://www.burgeforcongress.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdn9DezxJreOyhGgQQoTB-oJt4Fmi43rE2Lneut3m9Jx2UnJQ/viewform?usp=header"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfkYPmsPIe30W6q7mxhEek1aMX120n14yD-hUiz_RBhUd2WjQ/viewform?usp=header"
+},
+{
+"text": "[image: Kevin Burge for Congress]",
+"href": "https://www.burgeforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/burgeforcongress.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576948851760"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/burge4congress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@burge4congress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/burge4congress"
+}
 ]

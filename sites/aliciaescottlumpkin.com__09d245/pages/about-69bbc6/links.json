@@ -1,15 +1,62 @@
 [
-"https://aliciaescottlumpkin.com/",
-"https://aliciaescottlumpkin.com/contact",
-"https://aliciaescottlumpkin.com/donate",
-"https://aliciaescottlumpkin.com/events",
-"https://aliciaescottlumpkin.com/issues",
-"https://aliciaescottlumpkin.com/privacy-policy",
-"https://aliciaescottlumpkin.com/volunteer",
-"https://aliciaescottlumpkin.com/yard-sign",
-"https://bsky.app/profile/aliciaforalabama.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/Aliciaforalabama",
-"https://instagram.com/aliciaforalabama",
-"https://x.com/aliciaforal"
+{
+"text": "Contact",
+"href": "https://www.aliciaescottlumpkin.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.aliciaescottlumpkin.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.aliciaescottlumpkin.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.aliciaescottlumpkin.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.aliciaescottlumpkin.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.aliciaescottlumpkin.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.aliciaescottlumpkin.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.aliciaescottlumpkin.com/yard-sign"
+},
+{
+"text": "[image: Alicia Escott Lumpkin for Alabama House District 60]",
+"href": "https://www.aliciaescottlumpkin.com/"
+},
+{
+"text": "[image: Alicia Escott Lumpkin logo]",
+"href": "https://www.aliciaescottlumpkin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/aliciaforalabama.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Aliciaforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/aliciaforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/aliciaforal"
+}
 ]

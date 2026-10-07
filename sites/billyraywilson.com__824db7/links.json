@@ -1,23 +1,238 @@
 [
-"http://bookstore.authorhouse.com/Products/SKU-000362906/Enough-is-Enough.aspx",
-"http://bookstore.authorhouse.com/Products/SKU-000483226/Republic-Lost.aspx",
-"http://bookstore.authorhouse.com/Products/SKU-000635765/For-Love-of-Country.aspx",
-"https://a.co/d/5lzBk2G",
-"https://authorhouse.com/en/bookstore/bookdetails/262716-My-Struggle-Too",
-"https://authorhouse.com/en/bookstore/bookdetails/750537-War-s-a-Racket-Too",
-"https://authorhouse.com/en/bookstore/bookdetails/825149-no-title-just-facts",
-"https://authorhouse.com/en/bookstore/bookdetails/845261-no-gods-of-abraham",
-"https://billyraywilson.com/",
-"https://billyraywilson.com/about",
-"https://billyraywilson.com/billy-ray-wilsons-new-book-no-masters-available-now",
-"https://billyraywilson.com/blog",
-"https://billyraywilson.com/books",
-"https://billyraywilson.com/contact",
-"https://billyraywilson.com/foreign-power-in-us-elections",
-"https://billyraywilson.com/from-38-years-of-public-service-to-the-u-s-house-why-im-running-to-restore-our-constitutional-republic",
-"https://billyraywilson.com/no-gods-religion-manmade",
-"https://billyraywilson.com/taking-the-gloves-off",
-"https://billyraywilson.com/wp-content/uploads/2023/10/Billy-Ray-Wilson-I-Am-An-American-Citizen-FINAL-10-31-23.pdf",
-"https://billyraywilson.com/wp-content/uploads/2025/06/Billy-Ray-Wilson-The-United-States-is-My-Birthplace-Home-Country-WEB-06-23-25.pdf",
-"https://billyraywilson.com/wp-content/uploads/2026/08/Billy-Ray-Wilson-No-Masters-DIGITAL.pdf"
+{
+"text": "About",
+"href": "https://billyraywilson.com/about/"
+},
+{
+"text": "Blog",
+"href": "https://billyraywilson.com/blog/"
+},
+{
+"text": "Books",
+"href": "https://billyraywilson.com/books/"
+},
+{
+"text": "Browse His Books Now!",
+"href": "https://billyraywilson.com/books/"
+},
+{
+"text": "Contact",
+"href": "https://billyraywilson.com/contact/"
+},
+{
+"text": "Enough Is Enough",
+"href": "http://bookstore.authorhouse.com/Products/SKU-000362906/Enough-is-Enough.aspx"
+},
+{
+"text": "For Love of Country",
+"href": "http://bookstore.authorhouse.com/Products/SKU-000635765/For-Love-of-Country.aspx"
+},
+{
+"text": "Foreign Power in US Elections",
+"href": "https://billyraywilson.com/foreign-power-in-us-elections/"
+},
+{
+"text": "Free Download",
+"href": "https://billyraywilson.com/wp-content/uploads/2023/10/Billy-Ray-Wilson-I-Am-An-American-Citizen-FINAL-10-31-23.pdf"
+},
+{
+"text": "Free Download",
+"href": "https://billyraywilson.com/wp-content/uploads/2025/06/Billy-Ray-Wilson-The-United-States-is-My-Birthplace-Home-Country-WEB-06-23-25.pdf"
+},
+{
+"text": "Free Download",
+"href": "https://billyraywilson.com/wp-content/uploads/2026/08/Billy-Ray-Wilson-No-Masters-DIGITAL.pdf"
+},
+{
+"text": "From 38 Years of Public Service to the U.S. House: Why I’m Running to Restore Our Constitutional Republic",
+"href": "https://billyraywilson.com/from-38-years-of-public-service-to-the-u-s-house-why-im-running-to-restore-our-constitutional-republic/"
+},
+{
+"text": "Home",
+"href": "https://billyraywilson.com/"
+},
+{
+"text": "I Am A United States Citizen. Are You?",
+"href": "https://billyraywilson.com/wp-content/uploads/2023/10/Billy-Ray-Wilson-I-Am-An-American-Citizen-FINAL-10-31-23.pdf"
+},
+{
+"text": "My Struggle Too",
+"href": "https://www.authorhouse.com/en/bookstore/bookdetails/262716-My-Struggle-Too"
+},
+{
+"text": "No Gods of Abraham",
+"href": "https://www.authorhouse.com/en/bookstore/bookdetails/845261-no-gods-of-abraham"
+},
+{
+"text": "No Gods; Religion Manmade",
+"href": "https://billyraywilson.com/no-gods-religion-manmade/"
+},
+{
+"text": "No Masters",
+"href": "https://billyraywilson.com/wp-content/uploads/2026/08/Billy-Ray-Wilson-No-Masters-DIGITAL.pdf"
+},
+{
+"text": "No Title. Just Facts.",
+"href": "https://www.authorhouse.com/en/bookstore/bookdetails/825149-no-title-just-facts"
+},
+{
+"text": "Order Your Copy",
+"href": "http://bookstore.authorhouse.com/Products/SKU-000362906/Enough-is-Enough.aspx"
+},
+{
+"text": "Order Your Copy",
+"href": "http://bookstore.authorhouse.com/Products/SKU-000483226/Republic-Lost.aspx"
+},
+{
+"text": "Order Your Copy",
+"href": "http://bookstore.authorhouse.com/Products/SKU-000635765/For-Love-of-Country.aspx"
+},
+{
+"text": "Order Your Copy",
+"href": "https://a.co/d/5lzBk2G"
+},
+{
+"text": "Order Your Copy",
+"href": "https://www.authorhouse.com/en/bookstore/bookdetails/262716-My-Struggle-Too"
+},
+{
+"text": "Order Your Copy",
+"href": "https://www.authorhouse.com/en/bookstore/bookdetails/750537-War-s-a-Racket-Too"
+},
+{
+"text": "Order Your Copy",
+"href": "https://www.authorhouse.com/en/bookstore/bookdetails/825149-no-title-just-facts"
+},
+{
+"text": "Order Your Copy",
+"href": "https://www.authorhouse.com/en/bookstore/bookdetails/845261-no-gods-of-abraham"
+},
+{
+"text": "Read More",
+"href": "https://billyraywilson.com/about/"
+},
+{
+"text": "Read More →",
+"href": "https://billyraywilson.com/billy-ray-wilsons-new-book-no-masters-available-now/"
+},
+{
+"text": "Read More →",
+"href": "https://billyraywilson.com/foreign-power-in-us-elections/"
+},
+{
+"text": "Read More →",
+"href": "https://billyraywilson.com/from-38-years-of-public-service-to-the-u-s-house-why-im-running-to-restore-our-constitutional-republic/"
+},
+{
+"text": "Read More →",
+"href": "https://billyraywilson.com/no-gods-religion-manmade/"
+},
+{
+"text": "Read More →",
+"href": "https://billyraywilson.com/taking-the-gloves-off/"
+},
+{
+"text": "Republic Lost",
+"href": "http://bookstore.authorhouse.com/Products/SKU-000483226/Republic-Lost.aspx"
+},
+{
+"text": "Taking the Gloves Off",
+"href": "https://billyraywilson.com/taking-the-gloves-off/"
+},
+{
+"text": "The United States Is My Birthplace, Home & Country",
+"href": "https://billyraywilson.com/wp-content/uploads/2025/06/Billy-Ray-Wilson-The-United-States-is-My-Birthplace-Home-Country-WEB-06-23-25.pdf"
+},
+{
+"text": "To Save The U.S. We Must Stop The Gods of Abraham Fraud",
+"href": "https://a.co/d/5lzBk2G"
+},
+{
+"text": "View All Blog Posts",
+"href": "https://billyraywilson.com/blog/"
+},
+{
+"text": "View All Books",
+"href": "https://billyraywilson.com/books/"
+},
+{
+"text": "War's A Racket Too",
+"href": "https://www.authorhouse.com/en/bookstore/bookdetails/750537-War-s-a-Racket-Too"
+},
+{
+"text": "[image: Billy Ray Wilson – American Veteran, Author, and Political Candidate]",
+"href": "https://billyraywilson.com/"
+},
+{
+"text": "[image]",
+"href": "http://bookstore.authorhouse.com/Products/SKU-000362906/Enough-is-Enough.aspx"
+},
+{
+"text": "[image]",
+"href": "http://bookstore.authorhouse.com/Products/SKU-000483226/Republic-Lost.aspx"
+},
+{
+"text": "[image]",
+"href": "http://bookstore.authorhouse.com/Products/SKU-000635765/For-Love-of-Country.aspx"
+},
+{
+"text": "[image]",
+"href": "https://a.co/d/5lzBk2G"
+},
+{
+"text": "[image]",
+"href": "https://billyraywilson.com/billy-ray-wilsons-new-book-no-masters-available-now/"
+},
+{
+"text": "[image]",
+"href": "https://billyraywilson.com/books/"
+},
+{
+"text": "[image]",
+"href": "https://billyraywilson.com/foreign-power-in-us-elections/"
+},
+{
+"text": "[image]",
+"href": "https://billyraywilson.com/from-38-years-of-public-service-to-the-u-s-house-why-im-running-to-restore-our-constitutional-republic/"
+},
+{
+"text": "[image]",
+"href": "https://billyraywilson.com/no-gods-religion-manmade/"
+},
+{
+"text": "[image]",
+"href": "https://billyraywilson.com/taking-the-gloves-off/"
+},
+{
+"text": "[image]",
+"href": "https://billyraywilson.com/wp-content/uploads/2023/10/Billy-Ray-Wilson-I-Am-An-American-Citizen-FINAL-10-31-23.pdf"
+},
+{
+"text": "[image]",
+"href": "https://billyraywilson.com/wp-content/uploads/2025/06/Billy-Ray-Wilson-The-United-States-is-My-Birthplace-Home-Country-WEB-06-23-25.pdf"
+},
+{
+"text": "[image]",
+"href": "https://billyraywilson.com/wp-content/uploads/2026/08/Billy-Ray-Wilson-No-Masters-DIGITAL.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.authorhouse.com/en/bookstore/bookdetails/262716-My-Struggle-Too"
+},
+{
+"text": "[image]",
+"href": "https://www.authorhouse.com/en/bookstore/bookdetails/750537-War-s-a-Racket-Too"
+},
+{
+"text": "[image]",
+"href": "https://www.authorhouse.com/en/bookstore/bookdetails/825149-no-title-just-facts"
+},
+{
+"text": "[image]",
+"href": "https://www.authorhouse.com/en/bookstore/bookdetails/845261-no-gods-of-abraham"
+},
+{
+"text": "“No Masters” New Book Available Now!",
+"href": "https://billyraywilson.com/billy-ray-wilsons-new-book-no-masters-available-now/"
+}
 ]

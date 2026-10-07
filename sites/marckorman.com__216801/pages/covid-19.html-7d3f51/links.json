@@ -1,46 +1,190 @@
 [
-"http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1663?ys=2020rs",
-"http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb1079?ys=2020rs",
-"https://commerce.maryland.gov/fund/maryland-small-business-covid-19-emergency-relief-loan-fund",
-"https://covidlink.maryland.gov/content/testing",
-"https://covidlink.maryland.gov/content/vaccine",
-"https://dllr.state.md.us/employment/uibenefits.shtml",
-"https://docs.google.com/forms/d/e/1FAIpQLSch-j0JnbsTxK6cbJO-MER0IaF9ZC62AAbQ79a5DsCQMsx2mQ/viewform?gxids=7628",
-"https://facebook.com/MDHealthDept",
-"https://facebook.com/Marc.Korman.Campaign",
-"https://marckorman.com/",
-"https://marckorman.com/about-marc.html",
-"https://marckorman.com/airplane-noise.html",
-"https://marckorman.com/animal-welfare.html",
-"https://marckorman.com/budget.html",
-"https://marckorman.com/cdn-cgi/l/email-protection",
-"https://marckorman.com/civil-rights--civil-liberties.html",
-"https://marckorman.com/contact.html",
-"https://marckorman.com/contribute.html",
-"https://marckorman.com/covid-19.html",
-"https://marckorman.com/economic-prosperity.html",
-"https://marckorman.com/education.html",
-"https://marckorman.com/energy--environment.html",
-"https://marckorman.com/healthcare.html",
-"https://marckorman.com/issues.html",
-"https://marckorman.com/latest-news.html",
-"https://marckorman.com/pepco.html",
-"https://marckorman.com/preserving-our-success.html",
-"https://marckorman.com/public-safety.html",
-"https://marckorman.com/questionnaires.html",
-"https://marckorman.com/scholarship.html",
-"https://marckorman.com/seniors.html",
-"https://marckorman.com/subscribe.html",
-"https://marckorman.com/transportation.html",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Details?cmte=cov",
-"https://montgomerycountymd.gov/covid19",
-"https://montgomerycountymd.gov/covid19/get-help/housing-assistance.html",
-"https://montgomerycountymd.gov/covid19/testing.html",
-"https://montgomerycountymd.gov/covid19/vaccine",
-"https://public.govdelivery.com/accounts/MDMONTGOMERY/subscriber/new?topic_id=MDMONTGOMERY_437",
-"https://twitter.com/MDHealthDept",
-"https://twitter.com/MoCoDHHS",
-"https://twitter.com/mkorman",
-"https://urldefense.proofpoint.com/v2/url?u=https-3A__coronavirus.maryland.gov_-23Vaccine&d=DwMFaQ&c=Gp5PoQfTj9yjDt8XV2x6aql0UnCZXhNkdBYbfDClWas&r=gYrueMpYk8FUE-2u2KUl1Zq0ObpJr-4AtFIZwmAzw30&m=6u2II54x6cqHoYxagkTlpymKhNV-EgEAioxsuVfaaW8&s=31PQity1lBR-VSNZGDAeCeM0kXBmQVYOTVPyM4ZUTyw",
-"https://youtube.com/channel/UC2sckyTl1N7812TWHuMVT-A"
+{
+"text": "About Marc",
+"href": "https://www.marckorman.com/about-marc.html"
+},
+{
+"text": "Airplane Noise",
+"href": "https://www.marckorman.com/airplane-noise.html"
+},
+{
+"text": "Animal Welfare",
+"href": "https://www.marckorman.com/animal-welfare.html"
+},
+{
+"text": "Budget",
+"href": "https://www.marckorman.com/budget.html"
+},
+{
+"text": "COVID-19",
+"href": "https://www.marckorman.com/covid-19.html"
+},
+{
+"text": "COVID–19 Public Health Emergency Protection Act of 2020 (HB 1663)",
+"href": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1663/?ys=2020rs"
+},
+{
+"text": "Civil Rights & Civil Liberties",
+"href": "https://www.marckorman.com/civil-rights--civil-liberties.html"
+},
+{
+"text": "Contact",
+"href": "https://www.marckorman.com/contact.html"
+},
+{
+"text": "Contribute",
+"href": "https://www.marckorman.com/contribute.html"
+},
+{
+"text": "Economic Prosperity",
+"href": "https://www.marckorman.com/economic-prosperity.html"
+},
+{
+"text": "Education",
+"href": "https://www.marckorman.com/education.html"
+},
+{
+"text": "Energy & Environment",
+"href": "https://www.marckorman.com/energy--environment.html"
+},
+{
+"text": "Healthcare",
+"href": "https://www.marckorman.com/healthcare.html"
+},
+{
+"text": "Home",
+"href": "https://www.marckorman.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.marckorman.com/issues.html"
+},
+{
+"text": "Latest News",
+"href": "https://www.marckorman.com/latest-news.html"
+},
+{
+"text": "Montgomery County",
+"href": "https://www.montgomerycountymd.gov/covid19/"
+},
+{
+"text": "Montgomery County",
+"href": "https://www.montgomerycountymd.gov/covid19/testing.html"
+},
+{
+"text": "Montgomery County website here.",
+"href": "https://www.montgomerycountymd.gov/covid19/get-help/housing-assistance.html"
+},
+{
+"text": "Montgomery County website.",
+"href": "https://www.montgomerycountymd.gov/covid19/vaccine/"
+},
+{
+"text": "Pepco",
+"href": "https://www.marckorman.com/pepco.html"
+},
+{
+"text": "Preserving Our Success",
+"href": "https://www.marckorman.com/preserving-our-success.html"
+},
+{
+"text": "Public Safety",
+"href": "https://www.marckorman.com/public-safety.html"
+},
+{
+"text": "Questionnaires",
+"href": "https://www.marckorman.com/questionnaires.html"
+},
+{
+"text": "SB 1079 (State Budget - Revenue Stabilization Account Transfers - Coronavirus)",
+"href": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb1079/?ys=2020rs"
+},
+{
+"text": "Scholarship",
+"href": "https://www.marckorman.com/scholarship.html"
+},
+{
+"text": "Seniors",
+"href": "https://www.marckorman.com/seniors.html"
+},
+{
+"text": "State of Maryland",
+"href": "https://covidlink.maryland.gov/content/testing/"
+},
+{
+"text": "State of Maryland",
+"href": "https://www.montgomerycountymd.gov/covid19/"
+},
+{
+"text": "Subscribe",
+"href": "https://www.marckorman.com/subscribe.html"
+},
+{
+"text": "Transportation",
+"href": "https://www.marckorman.com/transportation.html"
+},
+{
+"text": "Twitter can be found here",
+"href": "https://twitter.com/MoCoDHHS"
+},
+{
+"text": "[email protected]",
+"href": "mailto:marc@marckorman.com"
+},
+{
+"text": "[image: MARC KORMAN]",
+"href": "https://www.marckorman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/mkorman"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Marc.Korman.Campaign"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UC2sckyTl1N7812TWHuMVT-A"
+},
+{
+"text": "can be accessed on the Maryland Department of Health website.",
+"href": "https://covidlink.maryland.gov/content/vaccine/"
+},
+{
+"text": "can be found here",
+"href": "https://urldefense.proofpoint.com/v2/url?u=https-3A__coronavirus.maryland.gov_-23Vaccine&d=DwMFaQ&c=Gp5PoQfTj9yjDt8XV2x6aql0UnCZXhNkdBYbfDClWas&r=gYrueMpYk8FUE-2u2KUl1Zq0ObpJr-4AtFIZwmAzw30&m=6u2II54x6cqHoYxagkTlpymKhNV-EgEAioxsuVfaaW8&s=31PQity1lBR-VSNZGDAeCeM0kXBmQVYOTVPyM4ZUTyw&e="
+},
+{
+"text": "can be found here.",
+"href": "https://commerce.maryland.gov/fund/maryland-small-business-covid-19-emergency-relief-loan-fund"
+},
+{
+"text": "can fill out this form",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSch-j0JnbsTxK6cbJO-MER0IaF9ZC62AAbQ79a5DsCQMsx2mQ/viewform?gxids=7628"
+},
+{
+"text": "here",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Details?cmte=cov"
+},
+{
+"text": "here",
+"href": "https://www.dllr.state.md.us/employment/uibenefits.shtml"
+},
+{
+"text": "here for their Facebook",
+"href": "https://www.facebook.com/MDHealthDept"
+},
+{
+"text": "here for their Twitter",
+"href": "https://twitter.com/MDHealthDept"
+},
+{
+"text": "sign up to receive updates",
+"href": "https://www.marckorman.com/subscribe.html"
+},
+{
+"text": "the Montgomery County vaccine email distribution list here.",
+"href": "https://public.govdelivery.com/accounts/MDMONTGOMERY/subscriber/new?topic_id=MDMONTGOMERY_437"
+}
 ]

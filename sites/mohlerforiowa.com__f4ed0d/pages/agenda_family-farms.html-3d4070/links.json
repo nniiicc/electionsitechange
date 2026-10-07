@@ -1,45 +1,214 @@
 [
-"https://ams.usda.gov/sites/default/files/media/PSD_Combined_2023_2024_Annual_Report.pdf",
-"https://ams.usda.gov/sites/default/files/media/PackersandStockyards2021_2022ReporttoCongress.pdf",
-"https://fb.org/files/AFBF_John_Deere_MOU.pdf",
-"https://ftc.gov/news-events/news/press-releases/2026/07/ftc-states-secure-settlement-deere-company-advancing-farmers-right-repair",
-"https://iowaagriculture.gov/expansion-cattle-and-conservation-prog",
-"https://iowaagriculture.gov/news/choose-IA-butchery-innovation-grant",
-"https://iowaagriculture.gov/news/choose-iowa-local-food-schools",
-"https://iowaagriculture.gov/news/extend-working-lands-project",
-"https://iowaledger.com/",
-"https://leg.colorado.gov/sites/default/files/2023a_1011_signed.pdf",
-"https://legis.iowa.gov/docs/code/161A.73.pdf",
-"https://legis.iowa.gov/docs/code/161A.pdf",
-"https://legis.iowa.gov/docs/code/17A.pdf",
-"https://legis.iowa.gov/docs/code/187.pdf",
-"https://legis.iowa.gov/docs/code/189A.3.pdf",
-"https://legis.iowa.gov/docs/code/189A.pdf",
-"https://legis.iowa.gov/docs/code/322F.pdf",
-"https://legis.iowa.gov/docs/code/553.19.pdf",
-"https://legis.iowa.gov/docs/code/553.9.pdf",
-"https://legis.iowa.gov/docs/code/553.pdf",
-"https://legis.iowa.gov/docs/code/714.16.pdf",
-"https://legis.iowa.gov/docs/code/73.1.pdf",
-"https://legis.iowa.gov/docs/code/73.pdf",
-"https://legis.iowa.gov/docs/code/8.33.pdf",
-"https://legis.iowa.gov/docs/code/8A.311.pdf",
-"https://legis.iowa.gov/docs/iac/chapter/27.10.pdf",
-"https://legis.iowa.gov/docs/publications/DF/15685.pdf",
-"https://legis.iowa.gov/docs/publications/HJNL/20260427_HJNL.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/HF2771.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/SF2465.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/SF646.pdf",
-"https://legis.iowa.gov/docs/publications/LGR/91/HF2763.pdf",
-"https://legis.iowa.gov/lobbyist/reports/declarations?ga=91&ba=HF2763",
-"https://mohlerforiowa.com/",
-"https://mohlerforiowa.com/agenda.html",
-"https://mohlerforiowa.com/agenda/pay-as-you-go.html",
-"https://mohlerforiowa.com/harris-record.html",
-"https://mohlerforiowa.com/privacy.html",
-"https://mohlerforiowa.com/where-iowa-ranks.html",
-"https://nass.usda.gov/Publications/AgCensus/2022/Full_Report/Volume_1,_Chapter_1_State_Level/Iowa/st19_1_001_001.pdf",
-"https://secure.actblue.com/donate/mohlerforiowa",
-"https://uscourts.gov/sites/default/files/2025-01/bf_f2_1231.2024.pdf",
-"https://uscourts.gov/sites/default/files/document/bf_f2_1231.2025.pdf"
+{
+"text": "Accountability",
+"href": "https://iowaledger.com"
+},
+{
+"text": "August release",
+"href": "https://iowaagriculture.gov/expansion-cattle-and-conservation-prog"
+},
+{
+"text": "Colorado's law",
+"href": "https://leg.colorado.gov/sites/default/files/2023a_1011_signed.pdf"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mohlerforiowa"
+},
+{
+"text": "Every bill",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "House Journal",
+"href": "https://www.legis.iowa.gov/docs/publications/HJNL/20260427_HJNL.pdf"
+},
+{
+"text": "How the agenda pays for itself",
+"href": "https://mohlerforiowa.com/agenda/pay-as-you-go.html"
+},
+{
+"text": "Issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "March release",
+"href": "https://iowaagriculture.gov/news/extend-working-lands-project"
+},
+{
+"text": "Privacy",
+"href": "https://mohlerforiowa.com/privacy.html"
+},
+{
+"text": "The Agenda",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "The District",
+"href": "https://mohlerforiowa.com/#district"
+},
+{
+"text": "The Harris File",
+"href": "https://mohlerforiowa.com/harris-record.html"
+},
+{
+"text": "The issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://mohlerforiowa.com/#volunteer"
+},
+{
+"text": "Where Iowa Ranks",
+"href": "https://mohlerforiowa.com/where-iowa-ranks.html"
+},
+{
+"text": "[image: Mohler for Iowa]",
+"href": "https://mohlerforiowa.com/"
+},
+{
+"text": "ams.usda.gov",
+"href": "https://www.ams.usda.gov/sites/default/files/media/PSD_Combined_2023_2024_Annual_Report.pdf"
+},
+{
+"text": "ams.usda.gov",
+"href": "https://www.ams.usda.gov/sites/default/files/media/PackersandStockyards2021_2022ReporttoCongress.pdf"
+},
+{
+"text": "asked a federal court to approve a settlement",
+"href": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-secure-settlement-deere-company-advancing-farmers-right-repair"
+},
+{
+"text": "awarded $355,000",
+"href": "https://iowaagriculture.gov/news/choose-IA-butchery-innovation-grant"
+},
+{
+"text": "cost-share rules",
+"href": "https://www.legis.iowa.gov/docs/iac/chapter/27.10.pdf"
+},
+{
+"text": "federal courts' own tables",
+"href": "https://www.uscourts.gov/sites/default/files/document/bf_f2_1231.2025.pdf"
+},
+{
+"text": "iowaagriculture.gov",
+"href": "https://iowaagriculture.gov/news/choose-IA-butchery-innovation-grant"
+},
+{
+"text": "iowaagriculture.gov",
+"href": "https://iowaagriculture.gov/news/choose-iowa-local-food-schools"
+},
+{
+"text": "iowaagriculture.gov",
+"href": "https://iowaagriculture.gov/news/extend-working-lands-project"
+},
+{
+"text": "latest USDA report",
+"href": "https://www.ams.usda.gov/sites/default/files/media/PSD_Combined_2023_2024_Annual_Report.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/161A.73.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/161A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/17A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/187.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/189A.3.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/189A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/322F.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/553.19.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/553.9.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/553.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/714.16.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/73.1.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/73.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/8.33.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/8A.311.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/DF/15685.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/HJNL/20260427_HJNL.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/HF2771.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/SF2465.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/SF646.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGR/91/HF2763.pdf"
+},
+{
+"text": "memorandum Deere signed with the American Farm Bureau Federation",
+"href": "https://www.fb.org/files/AFBF_John_Deere_MOU.pdf"
+},
+{
+"text": "nass.usda.gov",
+"href": "https://www.nass.usda.gov/Publications/AgCensus/2022/Full_Report/Volume_1,_Chapter_1_State_Level/Iowa/st19_1_001_001.pdf"
+},
+{
+"text": "registered for it",
+"href": "https://www.legis.iowa.gov/lobbyist/reports/declarations?ga=91&ba=HF2763"
+},
+{
+"text": "uscourts.gov",
+"href": "https://www.uscourts.gov/sites/default/files/2025-01/bf_f2_1231.2024.pdf"
+},
+{
+"text": "uscourts.gov",
+"href": "https://www.uscourts.gov/sites/default/files/document/bf_f2_1231.2025.pdf"
+}
 ]

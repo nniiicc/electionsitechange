@@ -1,8 +1,26 @@
 [
-"https://facebook.com/JohnforNM",
-"https://johnfornm.com/",
-"https://johnfornm.com/MeetJohn",
-"https://johnfornm.com/endorsements",
-"https://johnfornm.com/issues",
-"https://secure.winred.com/johnblock/2026-main"
+{
+"text": "About",
+"href": "https://johnfornm.com/MeetJohn/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/johnblock/2026-main"
+},
+{
+"text": "Endorsements",
+"href": "https://johnfornm.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/JohnforNM/"
+},
+{
+"text": "Issues",
+"href": "https://johnfornm.com/issues/"
+},
+{
+"text": "[image: John Block for New Mexico]",
+"href": "https://johnfornm.com/"
+}
 ]

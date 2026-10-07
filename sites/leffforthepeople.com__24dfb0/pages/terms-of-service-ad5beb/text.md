@@ -1,13 +1,2 @@
-Donate
-Menu
-Home
-Meet The Candidate
-Issues
-Volunteer
-Voting Info
-Terms of Service
-Text
-Stay Up To Date
-Follow us on the campaign trail!
-Email
-Subscribe
+Donate Menu Home Meet The Candidate Issues Volunteer Voting Info Follow us Terms of Service Text Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Meet The Candidate Issues Volunteer Voting Info Donate Follow us Accessibility Statement Terms of Service Contact Paid for and Authorized by LeffForThePeople 3665 East Bay Drive, Suite 204 Box 336 Largo, FL 33771 LeffForThePeople © #

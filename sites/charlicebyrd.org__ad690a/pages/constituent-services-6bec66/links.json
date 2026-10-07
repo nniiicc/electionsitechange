@@ -1,18 +1,86 @@
 [
-"https://charlicebyrd.org/",
-"https://charlicebyrd.org/about",
-"https://charlicebyrd.org/cdn-cgi/l/email-protection",
-"https://charlicebyrd.org/constituent-services",
-"https://charlicebyrd.org/contact",
-"https://charlicebyrd.org/issues",
-"https://charlicebyrd.org/privacy-policy",
-"https://charlicebyrd.org/terms",
-"https://congress.gov/members",
-"https://facebook.com/RepCharliceByrd",
-"https://instagram.com/charlice_byrd",
-"https://legis.ga.gov/committees/house",
-"https://legis.ga.gov/house",
-"https://legis.ga.gov/legislation/all",
-"https://securedonors.com/charlicebyrd/checkout",
-"https://x.com/charlice_byrd"
+{
+"text": "(202) 224-3521",
+"href": "tel:(202)%20224-3521"
+},
+{
+"text": "(202) 224-3643",
+"href": "tel:(202)%20224-3643"
+},
+{
+"text": "(202) 225-2931",
+"href": "tel:(202)%20225-4101"
+},
+{
+"text": "(404) 656-0213",
+"href": "tel:4046560213"
+},
+{
+"text": "About",
+"href": "https://www.charlicebyrd.org/about/"
+},
+{
+"text": "Constituent Services",
+"href": "https://www.charlicebyrd.org/constituent-services/"
+},
+{
+"text": "Contact",
+"href": "https://www.charlicebyrd.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://securedonors.com/charlicebyrd/checkout#new_tab"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/RepCharliceByrd"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/charlice_byrd"
+},
+{
+"text": "Follow",
+"href": "https://x.com/charlice_byrd"
+},
+{
+"text": "Home",
+"href": "https://www.charlicebyrd.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.charlicebyrd.org/issues/"
+},
+{
+"text": "[email protected]",
+"href": "https://www.charlicebyrd.org/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "https://www.charlicebyrd.org/"
+},
+{
+"text": "click this link",
+"href": "https://www.congress.gov/members"
+},
+{
+"text": "here",
+"href": "https://www.charlicebyrd.org/privacy-policy/"
+},
+{
+"text": "here",
+"href": "https://www.charlicebyrd.org/terms/"
+},
+{
+"text": "here",
+"href": "https://www.legis.ga.gov/committees/house"
+},
+{
+"text": "here",
+"href": "https://www.legis.ga.gov/house"
+},
+{
+"text": "here",
+"href": "https://www.legis.ga.gov/legislation/all"
+}
 ]

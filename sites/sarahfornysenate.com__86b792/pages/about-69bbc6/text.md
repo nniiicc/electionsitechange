@@ -1,15 +1,12 @@
-Skip navigation menu
-PUBLIC-INTEREST ATTORNEY
-As a public-interest attorney representing protesters and immigrants, as the family member of a school-shooting victim advocating for community gun violence prevention, and as an organizer and expert advocate leading key New York resistance to MAGA, she shows up when it matters and doesn’t back down.
-ONE OF THE COUNTRY'S LEADING EXPERTS ON IMMIGRATION LAW
-As one of the country’s leading experts on immigration law, Sarah has worked with important allies like the New York Immigration Coalition and Columbia County Sanctuary Movement to draft some of New York’s most crucial legislation to protect our immigrant neighbors and the rule of law.
+Skip navigation menu About Issues Endorsements Volunteer Contact Donate Meet Sarah.
+About Issues Endorsements Volunteer Contact Donate Meet Sarah.
+PUBLIC-INTEREST ATTORNEY As a public-interest attorney representing protesters and immigrants, as the family member of a school-shooting victim advocating for community gun violence prevention, and as an organizer and expert advocate leading key New York resistance to MAGA, she shows up when it matters and doesn’t back down.
+ONE OF THE COUNTRY'S LEADING EXPERTS ON IMMIGRATION LAW As one of the country’s leading experts on immigration law, Sarah has worked with important allies like the New York Immigration Coalition and Columbia County Sanctuary Movement to draft some of New York’s most crucial legislation to protect our immigrant neighbors and the rule of law.
 FIGHTS FOR WHAT'S RIGHT.
-FOUNDING DIRECTOR OF ALBANY LAW SCHOOL'S IMMIGRATION LAW CLINIC
-Sarah is the founding director of Albany Law School’s Immigration Law Clinic, and now leads the Edward P.
-Swyer Justice Center that houses it, training and mobilizing the next generation of public interest lawyers to serve on the front lines opposing Trump’s war against our most vulnerable community members.
+FOUNDING DIRECTOR OF ALBANY LAW SCHOOL'S IMMIGRATION LAW CLINIC Sarah is the founding director of Albany Law School’s Immigration Law Clinic, and now leads the Edward P.
+Swyer Justice Center that houses it , training and mobilizing the next generation of public interest lawyers to serve on the front lines opposing Trump’s war against our most vulnerable community members.
 As a public interest crisis lawyer, she has jumped into fights that needed her: representing protesters peacefully exercising their First-Amendment rights, helping her own family and their neighbors in the wake of a mass shooting, organizing low-income housing co-operatives, and building teams from across the country to help refugee families whose safe haven in New York was being threatened.
-SHOWS UP WHEN IT MATTERS
-When the world stopped during COVID, public schools continued to educate, so Sarah stepped up to serve on the Niskayuna School Board, lending her expertise and leadership on key issues like electric bus conversion and safe storage of firearms.
-FORGING A BETTER WAY FORWARD
-Now Sarah is running for New York State Senate District 44 because the working families of Saratoga and Schenectady counties need a principled fighter to help New York not only defend itself against MAGA bullying and corruption, but forge a better way forward, leading the nation as an example of the power of community.
+SHOWS UP WHEN IT MATTERS When the world stopped during COVID, public schools continued to educate, so Sarah stepped up to serve on the Niskayuna School Board , lending her expertise and leadership on key issues like electric bus conversion and safe storage of firearms.
+FORGING A BETTER WAY FORWARD Now Sarah is running for New York State Senate District 44 because the working families of Saratoga and Schenectady counties need a principled fighter to help New York not only defend itself against MAGA bullying and corruption, but forge a better way forward, leading the nation as an example of the power of community.
 Join our movement!
+Volunteer Donate ELECTION DAY: November 3 EARLY VOTING: October 24 - November 1 We want to hear from you: info@sarahfornysenate.com Powered by RUN! website builder Paid for by Friends of Sarah Rogerson You need to enable JavaScript to run this app.

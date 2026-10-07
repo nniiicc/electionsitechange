@@ -1,10 +1,38 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://trentformn13.com/",
-"https://trentformn13.com/about",
-"https://trentformn13.com/contact",
-"https://trentformn13.com/policy",
-"https://trentformn13.com/real-people",
-"https://trentformn13.com/real-people-form",
-"https://trentformn13.com/support"
+{
+"text": "About",
+"href": "https://trentformn13.com/about"
+},
+{
+"text": "Contact",
+"href": "https://trentformn13.com/contact"
+},
+{
+"text": "Home",
+"href": "https://trentformn13.com/"
+},
+{
+"text": "Policy",
+"href": "https://trentformn13.com/policy"
+},
+{
+"text": "Real People",
+"href": "https://trentformn13.com/real-people"
+},
+{
+"text": "Submit a Real People Bio",
+"href": "https://trentformn13.com/real-people-form"
+},
+{
+"text": "Support",
+"href": "https://trentformn13.com/support"
+},
+{
+"text": "Trent Dilks MN13Trent Dilks MN13Trent Dilks MN13Trent Dilks MN13",
+"href": "https://trentformn13.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

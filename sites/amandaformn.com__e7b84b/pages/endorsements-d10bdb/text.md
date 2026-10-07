@@ -1,24 +1,4 @@
-Skip to content
-Amanda for MN Senate
-About Amanda
-Accomplishments
-Endorsements
-Issues
-Privacy Policy
-Support
-Donate
-Endorsements
-Distinction
+Skip to content Amanda for MN Senate About Amanda Accomplishments Endorsements Issues Privacy Policy Support Donate Endorsements Distinction About Amanda Accomplishments Endorsements Issues Privacy Policy Support Instagram Facebook Prepared and paid for by Amanda for Minnesota, PO Box 251221, Woodbury, MN 55125 Blog at WordPress.com.
 Loading Comments...
 Write a Comment...
-Email (Required)
-Name (Required)
-Website
-Amanda for MN Senate
-Copy shortlink
-View post in Reader
-Manage subscriptions
-Sign up
-Log in
-Report this content
-Collapse this bar
+Email (Required) Name (Required) Website Amanda for MN Senate Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

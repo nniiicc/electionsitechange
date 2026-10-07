@@ -1,16 +1,62 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/HalpinforCongress",
-"https://halpinforcongress.com/",
-"https://halpinforcongress.com/about",
-"https://halpinforcongress.com/building-a-better-long-island",
-"https://halpinforcongress.com/contact",
-"https://halpinforcongress.com/privacy-policy",
-"https://instagram.com/pat_halpin_ny",
-"https://mobilize.us/halpinforcongress",
-"https://mobilize.us/s/j2j0BD",
-"https://secure.actblue.com/donate/halpinwebsite",
-"https://tiktok.com/@pat_halpin",
-"https://x.com/Pat_Halpin",
-"https://youtube.com/@PatHalpinforCongress/shorts"
+{
+"text": "About Pat",
+"href": "https://www.halpinforcongress.com/about"
+},
+{
+"text": "Agenda",
+"href": "https://www.halpinforcongress.com/building-a-better-long-island"
+},
+{
+"text": "Contact",
+"href": "https://www.halpinforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/halpinwebsite"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/halpinforcongress/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.halpinforcongress.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://mobilize.us/s/j2j0BD"
+},
+{
+"text": "[image: Halpin for Congress logo]",
+"href": "https://www.halpinforcongress.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.halpinforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/HalpinforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/pat_halpin_ny/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@pat_halpin"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@PatHalpinforCongress/shorts"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Pat_Halpin"
+}
 ]

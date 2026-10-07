@@ -1,10 +1,38 @@
 [
-"https://facebook.com/robert.carroll.568",
-"https://forms.gle/FVU9tE74ogHSz6R98",
-"https://instagram.com/am_robert.carroll?hl=en",
-"https://robertcarroll.nyc/",
-"https://robertcarroll.nyc/about-bobby",
-"https://robertcarroll.nyc/bobby-s-record",
-"https://secure.actblue.com/donate/robert-carroll-website",
-"https://x.com/Bobby4Brooklyn"
+{
+"text": "About Bobby",
+"href": "https://www.robertcarroll.nyc/about-bobby"
+},
+{
+"text": "Bobby’s Record",
+"href": "https://www.robertcarroll.nyc/bobby-s-record"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/robert-carroll-website"
+},
+{
+"text": "Home",
+"href": "https://www.robertcarroll.nyc"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://forms.gle/FVU9tE74ogHSz6R98"
+},
+{
+"text": "[image: Carroll_Logo_ReElect_rev.png]",
+"href": "https://www.robertcarroll.nyc"
+},
+{
+"text": "[image: Robert Carroll Facebook]",
+"href": "https://www.facebook.com/robert.carroll.568/"
+},
+{
+"text": "[image: Robert Carroll Instagram]",
+"href": "https://www.instagram.com/am_robert.carroll/?hl=en"
+},
+{
+"text": "[image: Robert Carroll X]",
+"href": "https://x.com/Bobby4Brooklyn"
+}
 ]

@@ -1,10 +1,46 @@
 [
-"https://andrewcollinsar.com/",
-"https://andrewcollinsar.com/cdn-cgi/l/email-protection",
-"https://andrewcollinsar.com/contact.html",
-"https://andrewcollinsar.com/subscribe.html",
-"https://facebook.com/andrewcollinsAR",
-"https://goodchange.app/donate/andrewcollinsar",
-"https://instagram.com/andrewcollinsAR",
-"https://twitter.com/andrewcollinsAR"
+{
+"text": "Contact Andrew",
+"href": "https://www.andrewcollinsar.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://goodchange.app/donate/andrewcollinsar"
+},
+{
+"text": "Home",
+"href": "https://www.andrewcollinsar.com/"
+},
+{
+"text": "Subscribe",
+"href": "https://www.andrewcollinsar.com/subscribe.html"
+},
+{
+"text": "[email protected]",
+"href": "https://www.andrewcollinsar.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Andrew Collins for State Representative]",
+"href": "https://www.andrewcollinsar.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/andrewcollinsAR"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/andrewcollinsAR"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/andrewcollinsAR"
+},
+{
+"text": "[no text]",
+"href": "mailto:andrew@andrewcollinsAR.com"
+},
+{
+"text": "contact form",
+"href": "https://www.andrewcollinsar.com/"
+}
 ]

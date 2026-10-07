@@ -1,10 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61556640075030",
-"https://reelectlauriebratten.com/",
-"https://reelectlauriebratten.com/about",
-"https://reelectlauriebratten.com/contact",
-"https://reelectlauriebratten.com/get-involved",
-"https://reelectlauriebratten.com/media",
-"https://reelectlauriebratten.com/privacy-policy",
-"https://secure.anedot.com/laurie-for-wyoming/donate"
+{
+"text": "ABOUT",
+"href": "https://www.reelectlauriebratten.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.reelectlauriebratten.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/laurie-for-wyoming/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.reelectlauriebratten.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.reelectlauriebratten.com"
+},
+{
+"text": "MEDIA",
+"href": "https://www.reelectlauriebratten.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.reelectlauriebratten.com/privacy-policy"
+},
+{
+"text": "SEE ALL MEDIA",
+"href": "https://www.reelectlauriebratten.com/media"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61556640075030"
+}
 ]

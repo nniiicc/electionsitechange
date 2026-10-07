@@ -1,20 +1,78 @@
 [
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fpocanforcongress.com%2Fcongressman-mark-pocan-to-hold-town-hall-thursday%2F",
-"https://facebook.com/MarkPocan",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fpocanforcongress.com%2Fcongressman-mark-pocan-to-hold-town-hall-thursday%2F&t=Congressman+Mark+Pocan+to+hold+Town+Hall+Thursday",
-"https://linkedin.com/shareArticle?mini=true&title=Congressman+Mark+Pocan+to+hold+Town+Hall+Thursday&url=https%3A%2F%2Fpocanforcongress.com%2Fcongressman-mark-pocan-to-hold-town-hall-thursday%2F",
-"https://pinterest.com/pin/create/button?url=https%3A%2F%2Fpocanforcongress.com%2Fcongressman-mark-pocan-to-hold-town-hall-thursday%2F&description=Congressman+Mark+Pocan+to+hold+Town+Hall+Thursday&media=https%3A%2F%2Fpocanforcongress.com%2Fwp-content%2Fuploads%2F2018%2F10%2FMark-and-Phil-on-Election-Night.jpg",
-"https://pocanforcongress.com/",
-"https://pocanforcongress.com/cdn-cgi/l/email-protection",
-"https://pocanforcongress.com/contact",
-"https://pocanforcongress.com/get-involved",
-"https://pocanforcongress.com/join-the-team",
-"https://pocanforcongress.com/meet-mark",
-"https://pocanforcongress.com/news",
-"https://pocanforcongress.com/privacy-policy",
-"https://pocanforcongress.com/wp-content/uploads/2018/10/Mark-and-Phil-on-Election-Night.jpg",
-"https://pocanforcongress.com/wp-content/uploads/2026/04/118295Ver3-copy.pdf",
-"https://secure.actblue.com/contribute/page/pocanwebsite",
-"https://twitter.com/MarkPocan",
-"https://twitter.com/share?text=Congressman+Mark+Pocan+to+hold+Town+Hall+Thursday&url=https%3A%2F%2Fpocanforcongress.com%2F%3Fp%3D1029"
+{
+"text": "Contact",
+"href": "https://pocanforcongress.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/contribute/page/pocanwebsite"
+},
+{
+"text": "Get Involved",
+"href": "https://pocanforcongress.com/get-involved/"
+},
+{
+"text": "Join The Team",
+"href": "https://pocanforcongress.com/join-the-team/"
+},
+{
+"text": "Link to Facebook",
+"href": "https://facebook.com/MarkPocan"
+},
+{
+"text": "Link to X",
+"href": "https://twitter.com/MarkPocan"
+},
+{
+"text": "Meet Mark",
+"href": "https://pocanforcongress.com/meet-mark/"
+},
+{
+"text": "News",
+"href": "https://pocanforcongress.com/news/"
+},
+{
+"text": "Nomination Papers",
+"href": "https://pocanforcongress.com/wp-content/uploads/2026/04/118295Ver3-copy.pdf"
+},
+{
+"text": "Privacy Policy",
+"href": "https://pocanforcongress.com/privacy-policy/"
+},
+{
+"text": "Share by Mail",
+"href": "mailto:?subject=Congressman+Mark+Pocan+to+hold+Town+Hall+Thursday#038;body=https://pocanforcongress.com/congressman-mark-pocan-to-hold-town-hall-thursday/"
+},
+{
+"text": "Share on Facebook",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpocanforcongress.com%2Fcongressman-mark-pocan-to-hold-town-hall-thursday%2F&t=Congressman+Mark+Pocan+to+hold+Town+Hall+Thursday"
+},
+{
+"text": "Share on LinkedIn",
+"href": "https://linkedin.com/shareArticle?mini=true&title=Congressman+Mark+Pocan+to+hold+Town+Hall+Thursday&url=https%3A%2F%2Fpocanforcongress.com%2Fcongressman-mark-pocan-to-hold-town-hall-thursday%2F"
+},
+{
+"text": "Share on Pinterest",
+"href": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fpocanforcongress.com%2Fcongressman-mark-pocan-to-hold-town-hall-thursday%2F&description=Congressman+Mark+Pocan+to+hold+Town+Hall+Thursday&media=https%3A%2F%2Fpocanforcongress.com%2Fwp-content%2Fuploads%2F2018%2F10%2FMark-and-Phil-on-Election-Night.jpg"
+},
+{
+"text": "Share on WhatsApp",
+"href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fpocanforcongress.com%2Fcongressman-mark-pocan-to-hold-town-hall-thursday%2F"
+},
+{
+"text": "Share on X",
+"href": "https://twitter.com/share?text=Congressman+Mark+Pocan+to+hold+Town+Hall+Thursday&url=https%3A%2F%2Fpocanforcongress.com%2F%3Fp%3D1029"
+},
+{
+"text": "[email protected]",
+"href": "https://pocanforcongress.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Mark Pocan for Wisconsin US House of Representatives]",
+"href": "https://pocanforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://pocanforcongress.com/wp-content/uploads/2018/10/Mark-and-Phil-on-Election-Night.jpg"
+}
 ]

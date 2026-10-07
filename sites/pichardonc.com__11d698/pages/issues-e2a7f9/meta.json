@@ -1,7 +1,9 @@
 {
  "description": "Vote for Laura Pichardo, your candidate for NC State Senate District 23, focused on key issues like education, healthcare, and economic growth.",
  "final_url": "https://pichardonc.com/issues",
- "paid_for_by": null,
+ "fingerprint": "4af82fe16066804fb8a214817738d35c537f8769",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Laura Pichardo: NC State Senate Candidate Issues",
  "years_mentioned": [
   "2020",

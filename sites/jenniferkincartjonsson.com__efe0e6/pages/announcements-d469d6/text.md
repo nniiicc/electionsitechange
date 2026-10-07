@@ -1,5 +1,4 @@
-LOCAL CONSERVATIVE REPUBLICAN JENNIFER KINCART JONSSON, WITH DEEP ROOTS IN THE POLK COUNTY COMMUNITY, FILES FOR STATE HOUSE, DISTRICT 49
-Polk County, FL – Jennifer Kincart Jonsson, a steadfast conservative Republican, local business leader, and dedicated resident of Polk County officially launched her campaign for the Florida House of Representatives in District 49.
+Home Privacy Policy Volunteer Issues Announcements Menu Menu Announcements LOCAL CONSERVATIVE REPUBLICAN JENNIFER KINCART JONSSON, WITH DEEP ROOTS IN THE POLK COUNTY COMMUNITY, FILES FOR STATE HOUSE, DISTRICT 49 Polk County, FL – Jennifer Kincart Jonsson, a steadfast conservative Republican, local business leader, and dedicated resident of Polk County officially launched her campaign for the Florida House of Representatives in District 49.
 “My deep love for my family, my devotion to service, and my commitment to leaving a better community for my children compel me to enter this race and give our district a passionate and tireless defender of freedom, opportunity, and prosperity,” Kincart Jonsson said.
 “Florida’s success is no accident.
 It is in built on the backs of conservative leaders who were willing to stand up for what is right and deliver results for Floridians.
@@ -7,8 +6,7 @@ I’m running to help build on that legacy of conservative leadership with a fre
 “I know in order to protect the American dream, secure our borders and bring economic relief to residents, it will take results-oriented leaders with a history of getting the job done.
 I am fully prepared to lead this charge, bringing the unique perspectives of a devoted mom, community advocate, and seasoned businesswoman to the Florida House of Representatives.
 Together, we can build a more prosperous, secure and promising future for all Floridians,” Kincart Jonsson finished.
-About Jennifer Kincart Jonsson
-Jennifer Kincart Jonsson, a dynamic leader in both the environmental and philanthropic sectors, stands out as a formidable candidate with an impressive blend of business acumen and community service experience.
+About Jennifer Kincart Jonsson Jennifer Kincart Jonsson, a dynamic leader in both the environmental and philanthropic sectors, stands out as a formidable candidate with an impressive blend of business acumen and community service experience.
 As Vice President of A-C-T Environmental & Infrastructure, Inc., a prominent firm in Bartow, owned and operated by her family since 1987, Jonsson has been instrumental in steering the company toward its status as a beacon of excellence in environmental services throughout Florida and beyond.
 Her tenure at A-C-T highlights a steadfast commitment to quality, innovation, and ethical leadership, traits that are essential for effective governance.
 A proud alumnus of the University of Florida, where she earned both her Bachelor of Health Science and Master of Public Health, Jonsson’s proactive attitude reflects her drive and determination.
@@ -24,3 +22,4 @@ Jonsson’s personal life is as rich and fulfilling as her professional endeavor
 Her proudest accomplishments – A-C-T’s recognition as an exceptional employer, her impactful philanthropic efforts, and, most importantly, her role as a mother and wife – reflect her multifaceted identity as a leader, advocate, and family-oriented individual.
 Jennifer Kincart Jonsson is not just a candidate; she is a visionary ready to leverage her expertise in business and the environmental sector and her passion for community service to make a meaningful impact in the political arena.
 Her leadership journey, marked by professional success and community engagement, positions her as a strong advocate for sustainable development, quality of life improvements, and the empowerment of communities.
+PAID BY JENNIFER KINCART JONSSON, REPUBLICAN, FOR STATE REPRESENTATIVE, DISTRICT 49 Scroll to top

@@ -1,6 +1,18 @@
 [
-"https://facebook.com/RepFueLee",
-"https://house.leg.state.mn.us/members/profile/15468",
-"https://secure.actblue.com/donate/fuelee",
-"https://twitter.com/repfuelee?lang=en"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/fuelee"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/RepFueLee"
+},
+{
+"text": "NEWS",
+"href": "https://www.house.leg.state.mn.us/members/profile/15468"
+},
+{
+"text": "TWITTER",
+"href": "https://twitter.com/repfuelee?lang=en"
+}
 ]

@@ -1,5 +1,4 @@
-Modestly raising the state ’ s vehicle inspection fee to dedicate $10 from each inspection directly to the Rhode Island Public Transit Authority will create a stable, ongoing funding source for public transit, write two legislators
-Rhode Island is facing a transportation crisis, and we are already seeing the consequences.
+Skip to content Skip to footer Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact donate Posted June 3, 2026 Dedicated funding for RIPTA is a practical path forward Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact Modestly raising the state ’ s vehicle inspection fee to dedicate $10 from each inspection directly to the Rhode Island Public Transit Authority will create a stable, ongoing funding source for public transit, write two legislators Rhode Island is facing a transportation crisis, and we are already seeing the consequences.
 Last year, the largest service cuts in RIPTA’s history impacted 45 out of 63 routes.
 These cuts changed schedules and disrupted lives.
 Data from the recently released Save RIPTA Service Impact Report makes the urgency clear.
@@ -8,15 +7,14 @@ Monthly ridership dropped by over 125,000 trips — a 12.1 percent decline.
 Riders reported losing their jobs, and 30 percent fear they may lose employment due to unreliable service.
 Rhode Islanders now have a harder time getting to work, school, and important appointments.
 This is not sustainable.
-To address this, we introduced Senate Bill 3013 and House Bill 8369, legislation that takes a practical and balanced approach to RIPTA funding.
+To address this, we introduced Senate Bill 3013 and House Bill 8369 , legislation that takes a practical and balanced approach to RIPTA funding.
 If made law, the bill would modestly adjust the state’s vehicle inspection fee, dedicating $10 from each inspection directly to RIPTA starting in 2027.
 The hope is to create a stable, ongoing funding source for public transit.
 At the same time, the legislation would ensure that local inspection stations, many of which are small businesses, receive an increased share of the fee, helping them remain viable and competitive.
 This is a balanced policy that is thoughtful about how we invest in our state’s future while supporting the small businesses that keep our neighborhoods running.
 It creates a dedicated funding stream for RIPTA, supports small businesses, and moves us away from the cycle of cuts and instability that has defined transit funding for far too long.
 As legislators, keeping public transit funded in Rhode Island is personal for us.
-Members of our families rely on RIPTA to get around. and we have both used the network ourselves.
--Public transit is about people.
+Members of our families rely on RIPTA to get around. and we have both used the network ourselves. -Public transit is about people.
 It’s about making sure someone can get to work, a student can get to school, and a family can make it to a doctor’s appointment.
 When we invest in transit, we are investing in opportunity, dignity, and economic mobility.
 The impacts of unreliable transit ripple outward and affect not only individuals, but also businesses and families.
@@ -34,3 +32,8 @@ State Senator Lammis J.
 Vargas represents District 28, which spans parts of Cranston and Providence.
 Representative Jenni Furtado represents District 64, which spans parts of East Providence and Pawtucket.
 The authors used generative AI to help organize ideas for and edit this commentary.
+You May Also Like Posted June 19, 2026 Bills gain traction in General Assembly Posted June 24, 2026 Rhode Island’s need for bilingual teachers is urgent.
+This fund could help fix the pipeline, legislators say.
+Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
+#teamlammis Facebook Instagram X-twitter Get Involved Meet Lammis Endorsements Platform Volunteer Contribute Contact Stay Tuned for Updates I have read and agree to the terms & conditions Leave this field empty if you're human: Copyright ©️ # Friends of Lammis J.
+Vargas | All Rights Reserved | Website Development & Design by J&R Marketing | Privacy Policy

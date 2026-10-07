@@ -1,5 +1,14 @@
 [
-"https://secure.anedot.com/friends-of-joe-destefano/donate",
-"https://votejoedestefano.com/",
-"https://votejoedestefano.com/category/events"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-joe-destefano/donate"
+},
+{
+"text": "Events",
+"href": "https://votejoedestefano.com/category/events/"
+},
+{
+"text": "← Home",
+"href": "https://votejoedestefano.com/"
+}
 ]

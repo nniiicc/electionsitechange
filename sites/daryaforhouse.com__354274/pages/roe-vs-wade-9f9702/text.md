@@ -1,4 +1,4 @@
-This morning the clock was set back 50 years.
+Skip to content About Issues Endorsements Get Involved Contact RSVP News Donate About Issues Endorsements Get Involved Contact RSVP News Donate Back to News June 24, 2022 Statements Roe vs Wade This morning the clock was set back 50 years.
 The news that Roe v.
 Wade has been overturned is beyond devastating, it is absolutely egregious.
 I am ready to get to work.
@@ -12,18 +12,17 @@ Let us not forget that the first Pride was a riot.
 Although I hold a heavy heart today, I remain determined to fight for justice.
 In Washington, we are lucky to have strong laws on the books but there is still more that we can do.
 Here is how I will take action.
-- Ensure there are always places to receive reproductive care.
+Ensure there are always places to receive reproductive care.
 People will always have abortions, it’s just a matter of how and where.
 This is life-saving care.
 One way we can ensure this is by having oversight during hospital mergers between secular and religious institutions.
 We cannot let these mergers threaten access to reproductive services.
 We must pass bills like SB 5688 that protect access.
-- Support our neighbors.
+Support our neighbors.
 As a state with protected birth control and abortion rights, we must prepare to help our neighbors.
 When, not if, they come to Washington for safe reproductive care we must welcome them with open arms.
 To do this we have to increase access to care along our borders and we have to protect our providers from potential legal action from other states.
 Today we are grateful that Washington has been preparing for this moment and that we can mourn, reflect, and rest.
 Tomorrow we organize and get to work.
 We will not go back.
-In solidarity,
-Darya
+In solidarity, Darya Donate Now Get Involved — Paid for by Friends of Darya Farivar — PO Box 20664 Seattle, WA 98102 Facebook X-twitter Linkedin-in Accessibility Statement

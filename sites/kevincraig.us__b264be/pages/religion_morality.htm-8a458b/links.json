@@ -1,50 +1,246 @@
 [
-"http://kevincraig.us/",
-"http://kevincraig.us/EndTheWall/virtue.htm",
-"http://kevincraig.us/depravity.htm",
-"http://kevincraig.us/national-security.htm",
-"http://thetencommandmentsonline.com/UShistory/index.htm",
-"http://vftonline.org/EndTheWall/Educ_Bible.htm",
-"http://vftonline.org/EndTheWall/Franklin-prayer.htm",
-"http://vftonline.org/EndTheWall/TJ.htm",
-"http://vftonline.org/EndTheWall/morality.htm",
-"http://vftonline.org/EndTheWall/relig_educ.htm",
-"http://vftonline.org/EndTheWall/virtue.htm",
-"http://vftonline.org/Kevin4VFT/MooreKidz.htm",
-"http://vftonline.org/Patriarchy/attend.htm",
-"http://vftonline.org/Patriarchy/bauer.htm",
-"http://vftonline.org/Patriarchy/definitions/patriarchy.htm",
-"http://vftonline.org/Patriarchy/predestination/baalismJBJ.htm",
-"http://vftonline.org/TestOath/10help_us.htm",
-"http://vftonline.org/TestOath/Stone.htm",
-"http://vftonline.org/VF95Theses/93.htm",
-"http://vftonline.org/VFTINC/anabaptists/13-2Rush.htm",
-"http://vftonline.org/VFTfiles/Directory/5a_state.htm",
-"http://vftonline.org/VFTfiles/Directory/5b_church.htm",
-"http://vftonline.org/VFTfiles/thesis/commentators/Rushdoony/RenderUntoCaesar.htm",
-"http://vftonline.org/VFTfiles/thesis/commentators/morality2.htm",
-"http://vftonline.org/XianAnarch/1sam8.htm",
-"http://vftonline.org/xmaspiracy/7/abraham.htm",
-"http://wallbuilders.com/",
-"http://wallbuilders.com/ABTOverview.asp",
-"http://wallbuilders.com/LIBblackHistory.asp",
-"http://wallbuilders.com/LIBissuesArticles.asp?cat=HD",
-"http://wallbuilders.com/LIBissuesArticles.asp?cat=HW",
-"http://wallbuilders.com/LIBissuesArticles.asp?cat=IA",
-"http://wallbuilders.com/LIBissuesArticles.asp?cat=N",
-"http://wallbuilders.com/LIBissuesArticles.asp?id=62",
-"http://wallbuilders.com/LIBissuesArticles.asp?id=63",
-"http://wallbuilders.com/resources/search/detail.php?ResourceID=19",
-"http://wallbuilders.com/store",
-"https://kevincraig.us/EndTheWall/NWOrd.htm",
-"https://kevincraig.us/EndTheWall/true_religion.htm",
-"https://kevincraig.us/anarchism.htm",
-"https://kevincraig.us/campaign.htm",
-"https://kevincraig.us/contents.htm",
-"https://kevincraig.us/missions.htm",
-"https://kevincraig.us/national-security.htm",
-"https://kevincraig.us/religion/christianity_and_liberty.htm",
-"https://kevincraig.us/religion/providence.htm",
-"https://kevincraig.us/theocracy.htm",
-"https://kevincraig.us/vengeance.htm"
+{
+"text": "About WallBuilders",
+"href": "http://www.wallbuilders.com/ABTOverview.asp"
+},
+{
+"text": "African American History Resources",
+"href": "http://www.wallbuilders.com/LIBblackHistory.asp"
+},
+{
+"text": "American Law based on Ten Commandments throughout American History",
+"href": "http://thetencommandmentsonline.com/UShistory/index.htm"
+},
+{
+"text": "Anarcho-Capitalism, Providence, and \"National Security\"",
+"href": "https://kevincraig.us/national-security.htm"
+},
+{
+"text": "Campaign Finance, Corruption and the Oath of Office",
+"href": "https://kevincraig.us/campaign.htm"
+},
+{
+"text": "Catalog of Products",
+"href": "http://www.wallbuilders.com/store/"
+},
+{
+"text": "Contact WallBuilders",
+"href": "mailto:barton@wallbuilders.com"
+},
+{
+"text": "Domestic",
+"href": "https://kevincraig.us/contents.htm#Domestic"
+},
+{
+"text": "Foreign",
+"href": "https://kevincraig.us/contents.htm#Foreign"
+},
+{
+"text": "Government",
+"href": "https://kevincraig.us/contents.htm#Government"
+},
+{
+"text": "Historical Documents",
+"href": "http://www.wallbuilders.com/LIBissuesArticles.asp?cat=HD"
+},
+{
+"text": "Historical Writings",
+"href": "http://www.wallbuilders.com/LIBissuesArticles.asp?cat=HW"
+},
+{
+"text": "Issues and Articles",
+"href": "http://www.wallbuilders.com/LIBissuesArticles.asp?cat=IA"
+},
+{
+"text": "Morality and Culture",
+"href": "https://kevincraig.us/contents.htm#Culture"
+},
+{
+"text": "Morality in a Church-free society",
+"href": "http://vftonline.org/VFTfiles/Directory/5b_church.htm"
+},
+{
+"text": "More in Part Two",
+"href": "http://vftonline.org/VFTfiles/thesis/commentators/morality2.htm"
+},
+{
+"text": "Newsletters",
+"href": "http://www.wallbuilders.com/LIBissuesArticles.asp?cat=N"
+},
+{
+"text": "Northwest Ordinance of 1787",
+"href": "https://kevincraig.us/EndTheWall/NWOrd.htm"
+},
+{
+"text": "Patriarchy",
+"href": "http://vftonline.org/Patriarchy/definitions/patriarchy.htm"
+},
+{
+"text": "Providential",
+"href": "https://kevincraig.us/religion/providence.htm"
+},
+{
+"text": "Religion has deserted our oaths.",
+"href": "http://vftonline.org/TestOath/10help_us.htm"
+},
+{
+"text": "Return to WallBuilders Home Page",
+"href": "http://www.wallbuilders.com/"
+},
+{
+"text": "Social Order under Patriarchy",
+"href": "http://vftonline.org/xmaspiracy/7/abraham.htm"
+},
+{
+"text": "The Church against Global Christocracy",
+"href": "http://vftonline.org/Patriarchy/attend.htm"
+},
+{
+"text": "The Founding Fathers and the Bible in Public Schools",
+"href": "http://vftonline.org/EndTheWall/Educ_Bible.htm"
+},
+{
+"text": "The Founding Fathers' doctrine of Providence",
+"href": "https://kevincraig.us/religion/providence.htm"
+},
+{
+"text": "The Importance of Morality and Religion in Government",
+"href": "http://www.wallbuilders.com/LIBissuesArticles.asp?id=63"
+},
+{
+"text": "The Need to Render Unto Caesar: A Mark of God's Judgment.",
+"href": "http://vftonline.org/VFTfiles/thesis/commentators/Rushdoony/RenderUntoCaesar.htm"
+},
+{
+"text": "The Superiority of Mothers over Schools",
+"href": "http://vftonline.org/Kevin4VFT/MooreKidz.htm"
+},
+{
+"text": "Theocracy",
+"href": "https://kevincraig.us/theocracy.htm"
+},
+{
+"text": "Trusting God rather than the State",
+"href": "http://www.kevincraig.us/national-security.htm"
+},
+{
+"text": "Unbelievers without the State",
+"href": "http://vftonline.org/VF95Theses/93.htm"
+},
+{
+"text": "Virtue",
+"href": "http://vftonline.org/EndTheWall/virtue.htm"
+},
+{
+"text": "Virtue in a State-free society",
+"href": "http://vftonline.org/VFTfiles/Directory/5a_state.htm"
+},
+{
+"text": "Wallbuilders",
+"href": "http://www.wallbuilders.com/"
+},
+{
+"text": "Who Counts the Most Important Things?",
+"href": "http://vftonline.org/Patriarchy/bauer.htm"
+},
+{
+"text": "[no text]",
+"href": "http://kevincraig.us"
+},
+{
+"text": "anarchism",
+"href": "https://kevincraig.us/anarchism.htm"
+},
+{
+"text": "buttress their own power",
+"href": "http://vftonline.org/VFTINC/anabaptists/13-2Rush.htm#buttress"
+},
+{
+"text": "click here",
+"href": "http://www.wallbuilders.com/LIBissuesArticles.asp?id=62"
+},
+{
+"text": "click here",
+"href": "http://www.wallbuilders.com/resources/search/detail.php?ResourceID=19"
+},
+{
+"text": "depraved",
+"href": "http://kevincraig.us/depravity.htm"
+},
+{
+"text": "here",
+"href": "http://vftonline.org/EndTheWall/Franklin-prayer.htm"
+},
+{
+"text": "live faithfully",
+"href": "https://kevincraig.us/national-security.htm"
+},
+{
+"text": "meted out by a Sovereign God",
+"href": "http://vftonline.org/Patriarchy/predestination/baalismJBJ.htm"
+},
+{
+"text": "moral",
+"href": "http://vftonline.org/EndTheWall/morality.htm"
+},
+{
+"text": "morality",
+"href": "http://vftonline.org/EndTheWall/morality.htm"
+},
+{
+"text": "radical libertarianism",
+"href": "https://kevincraig.us/anarchism.htm"
+},
+{
+"text": "religion",
+"href": "http://vftonline.org/EndTheWall/relig_educ.htm"
+},
+{
+"text": "religion and morality",
+"href": "https://kevincraig.us/EndTheWall/NWOrd.htm"
+},
+{
+"text": "religion, morality and knowledge",
+"href": "https://kevincraig.us/EndTheWall/NWOrd.htm"
+},
+{
+"text": "the U.S. Supreme Court",
+"href": "http://vftonline.org/TestOath/Stone.htm"
+},
+{
+"text": "the unknown Jefferson here",
+"href": "http://vftonline.org/EndTheWall/TJ.htm"
+},
+{
+"text": "they rejected God",
+"href": "http://vftonline.org/XianAnarch/1sam8.htm"
+},
+{
+"text": "those institutions",
+"href": "https://kevincraig.us/missions.htm"
+},
+{
+"text": "true religion",
+"href": "https://kevincraig.us/EndTheWall/true_religion.htm"
+},
+{
+"text": "vengeance",
+"href": "https://kevincraig.us/vengeance.htm"
+},
+{
+"text": "virtue",
+"href": "http://kevincraig.us/EndTheWall/virtue.htm"
+},
+{
+"text": "virtuous",
+"href": "http://kevincraig.us/EndTheWall/virtue.htm"
+},
+{
+"text": "voluntary associations",
+"href": "https://kevincraig.us/missions.htm"
+},
+{
+"text": "without religion and Christian morality",
+"href": "https://kevincraig.us/religion/christianity_and_liberty.htm"
+}
 ]

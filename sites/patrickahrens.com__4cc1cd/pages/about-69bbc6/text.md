@@ -1,5 +1,4 @@
-About
-The saying goes: “You can’t keep a good person down.” Resilience, humility and optimism have made Patrick Ahrens stronger in the face of need and loss, and instilled in him a hunger to serve others.
+Skip to content Home About Issues Gallery Contact Home About Issues Gallery Contact Donate Volunteer Instagram Facebook-f About The saying goes: “You can’t keep a good person down.” Resilience, humility and optimism have made Patrick Ahrens stronger in the face of need and loss, and instilled in him a hunger to serve others.
 Patrick grew up in a home where substance abuse issues dominated.
 While moving himself forward as a college student, he experienced homelessness.
 Recently, his twin brother passed away from cancer while being forced to work continuously to maintain his health insurance and pay to provide for his family.
@@ -18,5 +17,6 @@ He has led the effort on the FHDA board to build affordable housing for teachers
 He also spearheaded the effort to pass the biggest bond in district history, securing $200 million in affordable housing for our students, faculty, and staff.
 Ahrens holds an associate degree from De Anza College, a bachelor’s degree in political science from the University of California Los Angeles, and a master’s degree in public administration from San José State University.
 He currently lives in Sunnyvale and serves as a District Director in the State Assembly.
-Sign Up For Info & Updates
-"*" indicates required fields
+Sign Up For Info & Updates " * " indicates required fields Your Name * Email * Phone * Consent field * By providing your phone number, you agree to receive text messages from this organization.
+Message and data rates may apply.
+Message frequency varies. * Endorse Our Campaign Instagram Facebook-f Patrick Ahrens for Assembly 2026 • ID#1476866 Privacy Policy Home About Issues Gallery Contact Home About Issues Gallery Contact Donate Volunteer Instagram Facebook-f

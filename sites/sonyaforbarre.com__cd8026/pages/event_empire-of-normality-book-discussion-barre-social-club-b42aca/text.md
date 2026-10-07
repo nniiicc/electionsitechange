@@ -1,3 +1,2 @@
-Skip to content
-Candidate Forum Moderated by The Times Argus – Aldrich Public Library
-October 15 @ 7:00 pm – 8:30 pm
+Skip to content DONATE TODAY HOME PRIORITIES ENDORSEMENTS GET INVOLVED VOLUNTEER VOTE EVENTS CONTACT SONYA Facebook Instagram « All Events Candidate Forum Moderated by The Times Argus – Aldrich Public Library October 15 @ 7:00 pm – 8:30 pm Aldrich Public Library 6 Washington St Barre , VT 05641 + Google Map View Venue Website Add Button Text Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Event Navigation « Building Bright Futures Forum – Old Labor Hall Hedding Methodist Annual Chicken Pie Supper » Paid for by Sonya Spaulding for Barre City, 88 Delmont Ave.
+Barre VT 05641 Facebook Instagram HOME PRIORITIES ENDORSEMENTS GET INVOLVED Toggle child menu VOLUNTEER VOTE EVENTS CONTACT SONYA

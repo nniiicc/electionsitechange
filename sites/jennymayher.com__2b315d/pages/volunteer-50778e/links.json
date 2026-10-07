@@ -1,6 +1,22 @@
 [
-"https://jennymayher.com/",
-"https://jennymayher.com/cart",
-"https://jennymayher.com/press",
-"https://jennymayher.com/volunteer"
+{
+"text": "0",
+"href": "https://www.jennymayher.com/cart"
+},
+{
+"text": "Press",
+"href": "https://www.jennymayher.com/press"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jennymayher.com/volunteer"
+},
+{
+"text": "[image: Jenny Mayher for State Rep]",
+"href": "https://www.jennymayher.com/"
+},
+{
+"text": "jenny@jennymayher.com",
+"href": "mailto:jenny@jennymayher.com"
+}
 ]

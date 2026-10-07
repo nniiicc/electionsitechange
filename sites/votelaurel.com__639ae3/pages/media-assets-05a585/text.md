@@ -1,10 +1,1 @@
-About Laurel
-Laurel’s Record
-Join Team Lee
-Gallery
-Donate
-✕
-Media Assets
-Download Video
-Photo Gallery
-Download Entire Gallery
+About Laurel Laurel’s Record Join Team Lee Gallery Donate ✕ Media Assets Download Video Photo Gallery Download Entire Gallery Copyright #, Laurel Lee for Congress | Privacy Policy Media Assets Paid for by Laurel Lee for Congress

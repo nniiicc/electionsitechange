@@ -1,8 +1,8 @@
-Teacher: Steve retired as a special education teacher in the Brandywine School District but returned to teaching as a special education and English Language Arts teacher at Glasgow High School.
+Skip to content About About Steve’s Campaign About Senate District 1 Volunteer Connect Donate About About Steve’s Campaign About Senate District 1 Volunteer Connect Donate Home Volunteer Connect About SD1 Vote Donate OUR FACEBOOK PAGE Home Volunteer Connect About SD1 Vote Donate OUR FACEBOOK PAGE Early Voting Starts Tuesday, October 22, 2026 About Steve Teacher: Steve retired as a special education teacher in the Brandywine School District but returned to teaching as a special education and English Language Arts teacher at Glasgow High School.
 Public Service: Steve is a leader in our community.
 He founded the HBCU Delaware Coalition Inc., which aids those attending historically black colleges and universities.
 He has also served as a Wilmington Housing Authority commissioner and was appointed by Governor John Carney to the Delaware Board of Parole.
 Family: Steve was born and raised in Wilmington, Delaware.
 A dedicated husband and father of two, he is proud to raise his family in the same community where he and his family have deep roots.
-“My decision to run comes from a place of deep-seated responsibility.
-I’ve seen this city through many lenses, and I believe we are at a pivotal moment … and I believe in the power of local leadership”
+Contribute To Steve's State Senate Campaign $25 $50 $100 $250 $500 $1000 $1200 Other Steve's Pillars for SD1 “My decision to run comes from a place of deep-seated responsibility.
+I’ve seen this city through many lenses, and I believe we are at a pivotal moment … and I believe in the power of local leadership” Public Safety & Empowerment Education & Youth Opportunity Housing & Economic Growth Infrastructure & Environment LEARN MORE Contact Steve Phone: 302-602-5149 Visit Steve’s Facebook page “Let’s strengthen our relationships, partnerships, and friendships - I believe transparency is essential with inclusion, not exclusion!” -Steve Washington Site Powered by Silver Bullet Web Solutions

@@ -1,17 +1,15 @@
-Tenney: H.R. 1 isn’t for the people, it’s for the politicians
-Later today, Congress will vote on H.R. 1, the so-called “For the People Act.” Speaker Nancy Pelosi (D-Calif.) is touting this sweeping legislation as a win for transparency and election ...
-Tenney: Don’t smash Columbus and our history; build a better America instead
-The iconoclasts are back.
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Opinion Editorials Opinion Editorials Opinion Editorials Press Releases Opinion Editorials Press Releases Tenney: H.R.
+1 isn’t for the people, it’s for the politicians March 3 2021 Later today, Congress will vote on H.R.
+1, the so-called “For the People Act.” Speaker Nancy Pelosi (D-Calif.) is touting this sweeping legislation as a win for transparency and election ...
+Learn More Share Tenney: Don’t smash Columbus and our history; build a better America instead June 30 2020 The iconoclasts are back.
 Teddy Roosevelt, Thomas Jefferson, George Washington, Francis Scott Key and dozens more must be canceled — centuries after they died.
 A strange hubris has descended on a ...
-Tenney: Pandemic’s lesson is that we must break China’s grip on US
-The coronavirus exposed many flaws in our level of preparedness for dealing with pandemics, but one of the most glaring holes it brought to light is America’s over-reliance on ...
-It’s time the feds intervened in New York bail reform experiment gone wrong
-A Level 3 serial sex offender enters a nursery school playground, is arrested, and then is set free.
+Learn More Share Tenney: Pandemic’s lesson is that we must break China’s grip on US March 24 2020 The coronavirus exposed many flaws in our level of preparedness for dealing with pandemics, but one of the most glaring holes it brought to light is America’s over-reliance on ...
+Learn More Share It’s time the feds intervened in New York bail reform experiment gone wrong March 15 2020 A Level 3 serial sex offender enters a nursery school playground, is arrested, and then is set free.
 A man brutally beats his girlfriend in front of her two young children ...
-Congresswoman-elect Tenney: Days of China ripping us off are over
-When Donald Trump called into question the “One China” policy – that Beijing has a “right” to control and dominate the free-market democracy of Taiwan – he made waves.
+Learn More Share Congresswoman-elect Tenney: Days of China ripping us off are over January 4 2019 When Donald Trump called into question the “One China” policy – that Beijing has a “right” to control and dominate the free-market democracy of Taiwan – he made waves.
 The so-called experts ...
-No Silver linings for corrupt politicians
-In the Albany sewer and Washington swamp, displaying a mere ounce of integrity or ethics puts you on the fast-track to becoming a political outcast.
+Learn More Share No Silver linings for corrupt politicians June 2 2018 In the Albany sewer and Washington swamp, displaying a mere ounce of integrity or ethics puts you on the fast-track to becoming a political outcast.
 For the creatures of the ...
+Learn More Share 1 2 » Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

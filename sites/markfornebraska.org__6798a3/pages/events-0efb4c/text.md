@@ -1,68 +1,26 @@
-Upcoming Events
-Grant Town Hall
-Town Hall for Mark Cohen, Independent Candidate for Nebraska Third Congressional District.
-Gering Social Event
-Join us for munchies, mingling and music & the chance to meet Mark Cohen virtually
-Johnson Lake Meet & Greet
-Join Mark Cohen, Independent Candidate for NE-CD3 at Restless Waters Event Hall
-Holdrege Town Hall
-Join Mark, Independent Candidate for Nebraska House of Representatives District 3 for a town hall in Holdrege at the Charlotte Erickson Community Room
-Hastings Town Hall
-Meet Mark Cohen, Independent Candidate for NE-Congressional District 03.
-Ask questions, enjoy the atmosphere of Steeple Brewing, and enjoy the sounds of Saxy Vibes by Danny K
-Oshkosh Meet & Greet
-Join Mark Cohen, Independent for Nebraska House of Representatives District 3.
-AI Data Center: Listening and Brainstorming Session
-Mark Cohen, Independent Candidate for Nebraska Congressional District 3, is hosting a listening/brainstorming session regarding AI Data Centers.
-Broken Bow Town Hall
-Join Mark Cohen, Independent Candidate for Nebraska Third Congressional District.
-Lexington Town Hall
-Join Mark Cohen, Independent candidate for Nebraska Third Congressional District.
-Beatrice Tailgate
-Join Mark as he tailgates at the 402 Sports Bar & Grill before watching the Huskers take on North Dakota
-Verdigre-Townhall
-Meet Mark Cohen, Independent candidate for Nebraska’s third congressional district.
-Morning Coffee with Mark
-Join Mark at the Dirty Hands Tap House and Coffee in O’Neill at 7am for a coffee-side chat
-Livestream Q&A
-Join Mark live as he answers questions he's received on the campaign trail & responds to yours from the livestream chat.
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Upcoming Events Oct 8 Gering Social Event Thursday, October 8, 2026 6:30 PM 8:00 PM 2930 Old Oregon Trail Gering, Nebraska, 69361 (map) Google Calendar ICS Join us for munchies, mingling and music & the chance to meet Mark Cohen virtually View Event → Oct 8 Johnson Lake Meet & Greet Thursday, October 8, 2026 7:00 PM 9:00 PM 2 Johnson Lake Drive 18 Johnson Lake, Nebraska, 68937 (map) Google Calendar ICS Join Mark Cohen, Independent Candidate for NE-CD3 at Restless Waters Event Hall View Event → Oct 9 Holdrege Town Hall Friday, October 9, 2026 1:00 PM 2:00 PM 1698 12th Avenue Holdrege, Nebraska, 68949 (map) Google Calendar ICS Join Mark, Independent Candidate for Nebraska House of Representatives District 3 for a town hall in Holdrege at the Charlotte Erickson Community Room View Event → Oct 10 Hastings Town Hall Saturday, October 10, 2026 7:30 PM 9:00 PM 717 West 1st Street Hastings, Nebraska, 68901 (map) Google Calendar ICS Meet Mark Cohen, Independent Candidate for NE-Congressional District 03.
+Ask questions, enjoy the atmosphere of Steeple Brewing, and enjoy the sounds of Saxy Vibes by Danny K View Event → Oct 19 Oshkosh Meet & Greet Monday, October 19, 2026 6:30 PM 8:30 PM 201 Main Street Oshkosh, Nebraska, 69154 (map) Google Calendar ICS Join Mark Cohen, Independent for Nebraska House of Representatives District 3.
+View Event → Oct 5 Grant Town Hall Monday, October 5, 2026 8:00 PM 9:00 PM 420 Central Avenue Grant, Nebraska, 69140 (map) Google Calendar ICS Town Hall for Mark Cohen, Independent Candidate for Nebraska Third Congressional District.
+View Event → Sep 25 AI Data Center: Listening and Brainstorming Session Friday, September 25, 2026 4:00 PM 5:15 PM 2020 1st Avenue Kearney, Nebraska, 68847 (map) Google Calendar ICS Mark Cohen, Independent Candidate for Nebraska Congressional District 3, is hosting a listening/brainstorming session regarding AI Data Centers.
+View Event → Sep 23 Broken Bow Town Hall Wednesday, September 23, 2026 4:30 PM 5:30 PM 626 South D Street Broken Bow, Nebraska, 68822 (map) Google Calendar ICS Join Mark Cohen, Independent Candidate for Nebraska Third Congressional District.
+View Event → Sep 23 Lexington Town Hall Wednesday, September 23, 2026 11:30 AM 1:30 PM Lexington Veteran Pavilion (map) Google Calendar ICS Join Mark Cohen, Independent candidate for Nebraska Third Congressional District.
+View Event → Sep 19 Beatrice Tailgate Saturday, September 19, 2026 4:15 PM 6:15 PM 2317 North 6th Street Beatrice, Nebraska, 68310 (map) Google Calendar ICS Join Mark as he tailgates at the 402 Sports Bar & Grill before watching the Huskers take on North Dakota View Event → Sep 17 Verdigre-Townhall Thursday, September 17, 2026 6:00 PM 7:30 PM 52339 881 Road Verdigre, Nebraska, 68783 (map) Google Calendar ICS Meet Mark Cohen, Independent candidate for Nebraska’s third congressional district.
+View Event → Sep 17 Morning Coffee with Mark Thursday, September 17, 2026 7:00 AM 9:00 AM 215 East Douglas Street O'Neill, Nebraska, 68763 (map) Google Calendar ICS Join Mark at the Dirty Hands Tap House and Coffee in O’Neill at 7am for a coffee-side chat View Event → Sep 16 Livestream Q&A Wednesday, September 16, 2026 7:00 PM 8:00 PM Google Calendar ICS Join Mark live as he answers questions he's received on the campaign trail & responds to yours from the livestream chat.
 Available on Facebook or the Mark for Nebraska YouTube channel.
-Hemingford Coffee with a Candidate
-Join Mark Cohen, Independent Candidate for NE-03 for coffee at Mobius Communications, 523 Niobrara, Hemingford, NE
-Alliance Meet & Greet
-Meet Mark Cohen, Independent Candidate for NE-03 at the Central Park Shelter House
-The Back Roads Tour
-Join Mark and team to celebrate the kickoff of his “The Back Roads Tour” across the third Congressional District of Nebraska.
-Oregon Trail Days
-Watch for Mark in the Oregon Trail Parade, and then stop by Mark‘s booth at the Legion Park.
+View Event → Sep 10 Hemingford Coffee with a Candidate Thursday, September 10, 2026 9:00 AM 10:00 AM 523 Niobrara Avenue Hemingford, Nebraska, 69348 (map) Google Calendar ICS Join Mark Cohen, Independent Candidate for NE-03 for coffee at Mobius Communications, 523 Niobrara, Hemingford, NE View Event → Sep 9 Alliance Meet & Greet Wednesday, September 9, 2026 6:00 PM 8:00 PM Alliance, NE (map) Google Calendar ICS Meet Mark Cohen, Independent Candidate for NE-03 at the Central Park Shelter House View Event → Sep 4 The Back Roads Tour Friday, September 4, 2026 5:00 PM 6:00 PM 2930 Old Oregon Trail Scottsbluff, Nebraska, 69361 (map) Google Calendar ICS Join Mark and team to celebrate the kickoff of his “The Back Roads Tour” across the third Congressional District of Nebraska.
+View Event → Jul 11 Oregon Trail Days Saturday, July 11, 2026 10:00 AM 3:00 PM 1320 12th Street Gering, Nebraska, 69341 (map) Google Calendar ICS Watch for Mark in the Oregon Trail Parade, and then stop by Mark‘s booth at the Legion Park.
 Petitions will be available to get Mark on the ballot this November.
-Mark will also be at the park on Sunday, July 12th from 10am-3pm
-Fur Trade Days
-Look for our booth at the Trader’s Market on the Courthouse lawn from noon to 7 p.m., and on Saturday July 11th.
-Yard Party with Dan Osborn
-Yard Party with Mark & Dan
-Please RSVP using the mobilize app
-Lunch in the Park with Mark
-Here’s your chance to meet Mark Cohen, Independent Candidate for Nebraska CD & sign the petition for him to get on the ballot this November.
-*bring your own lunch*
-Kearney Meet & Greet
-Stop on by Thunderhead Brewing in Kearney to meet Mark Cohen, Independent Candidate for Nebraska CD3, and to sign the petition to help get him on the ballot this November.
-York Meet & Greet
-Here’s your chance to meet Mark Cohen, Independent Candidate for Nebraska CD3, and to sign the petition to help get him on the ballot this November.
-Fairmont Meet & Greet
-Here’s your chance to meet Mark Cohen, Independent Candidate for Nebraska CD3, and to sign the petition to help get him on the ballot this November.
-Beatrice Meet & Greet
-Here’s your chance to Meet Mark Cohen, Independent Candidate for Nebraska CD3, and sign the petition to get him on the ballot
-Chester Petition Signing / Meet & Greet
-Here’s your chance to meet Mark Cohen, Independent Candidate for Nebraska CD3, and sign the petition to get him on the ballot.
-Meet & Greet At Morton-James Public Library
-Mark will be attending a Meet & Greet at the Morton-James Public Library in Nebraska City on June 26th.
+Mark will also be at the park on Sunday, July 12th from 10am-3pm View Event → Jul 10 Fur Trade Days Friday, July 10, 2026 12:00 PM 7:00 PM Courhouse Lawn Chadron, NE (map) Google Calendar ICS Look for our booth at the Trader’s Market on the Courthouse lawn from noon to 7 p.m., and on Saturday July 11th.
+View Event → Jul 8 Yard Party with Dan Osborn Wednesday, July 8, 2026 5:00 PM 7:30 PM 1920 Avenue O Scottsbluff, Nebraska, 69361 (map) Google Calendar ICS Yard Party with Mark & Dan Please RSVP using the mobilize app View Event → Jul 8 Lunch in the Park with Mark Wednesday, July 8, 2026 11:00 AM 1:30 PM 627 Toledo Street Sidney, Nebraska, 69162 (map) Google Calendar ICS Here’s your chance to meet Mark Cohen, Independent Candidate for Nebraska CD & sign the petition for him to get on the ballot this November. *bring your own lunch* View Event → Jul 5 Kearney Meet & Greet Sunday, July 5, 2026 1:00 PM 3:00 PM 18 East 21st Street Kearney, Nebraska, 68847 (map) Google Calendar ICS Stop on by Thunderhead Brewing in Kearney to meet Mark Cohen, Independent Candidate for Nebraska CD3, and to sign the petition to help get him on the ballot this November.
+View Event → Jul 4 Clay Center Parade Saturday, July 4, 2026 10:00 AM 1:00 PM Clay Center, NE (map) Google Calendar ICS Look for us in the parade and stop by our booth in the park.
+View Event → Jul 3 York Meet & Greet Friday, July 3, 2026 2:00 PM 4:00 PM 426 N Ohio Ave York, Nebraska, 68467 (map) Google Calendar ICS Here’s your chance to meet Mark Cohen, Independent Candidate for Nebraska CD3, and to sign the petition to help get him on the ballot this November.
+View Event → Jun 28 Fairmont Meet & Greet Sunday, June 28, 2026 12:00 PM 1:30 PM Fairmont Park (map) Google Calendar ICS Here’s your chance to meet Mark Cohen, Independent Candidate for Nebraska CD3, and to sign the petition to help get him on the ballot this November.
+View Event → Jun 27 Beatrice Meet & Greet Saturday, June 27, 2026 11:30 AM 1:30 PM Chautauqua Park (map) Google Calendar ICS Here’s your chance to Meet Mark Cohen, Independent Candidate for Nebraska CD3, and sign the petition to get him on the ballot View Event → Jun 26 Chester Petition Signing / Meet & Greet Friday, June 26, 2026 6:00 PM 7:00 PM 103 U.S.
+81 Chester, Nebraska, 68327 (map) Google Calendar ICS Here’s your chance to meet Mark Cohen, Independent Candidate for Nebraska CD3, and sign the petition to get him on the ballot.
+View Event → Jun 26 Meet & Greet At Morton-James Public Library Friday, June 26, 2026 12:00 PM 1:00 PM Morton-James Public Library (map) Google Calendar ICS Mark will be attending a Meet & Greet at the Morton-James Public Library in Nebraska City on June 26th.
 Stop on by to learn more about how we’re improving the lives of Nebraskan’s by cutting through the noise to create real tangible change for Nebraska!
-Southeast Candidate Forum
-Mark will be making an appearance at the Southeast Candidate Forum on June 25th held in Tobias at their gymnasium.
+View Event → Jun 25 Southeast Candidate Forum Thursday, June 25, 2026 6:30 PM 8:30 PM Tobias Gymnasium (map) Google Calendar ICS Mark will be making an appearance at the Southeast Candidate Forum on June 25th held in Tobias at their gymnasium.
 Come listen to the representative you deserve speak on how he’ll improve the lives of everyone in CD3 & Nebraska at large!
-Meet and Greet on "G" Street
-Mark will be visiting Geneva on June 25th to hear your concerns about the rising costs of our state.
+View Event → Jun 25 Meet and Greet on "G" Street Thursday, June 25, 2026 11:00 AM 2:00 PM 924 G Street Geneva, Nebraska, 68361 (map) Google Calendar ICS Mark will be visiting Geneva on June 25th to hear your concerns about the rising costs of our state.
 Come visit a candidate willing to meet you where you’re at to help improve the conditions of all Nebraskans in CD3 & more!
-Grand Island Meet & Greet
-Here’s your chance to meet Mark Cohen, Independent Candidate for Nebraska CD3, and sign the petition to help get him on the ballot this November
+View Event → Jun 24 Grand Island Meet & Greet Wednesday, June 24, 2026 6:00 PM 7:00 PM Everest Indian Kitchen (map) Google Calendar ICS Here’s your chance to meet Mark Cohen, Independent Candidate for Nebraska CD3, and sign the petition to help get him on the ballot this November View Event → Donate info@markfornebraska.org Send checks to: Mark for Nebraska PO Box 81 Lemoyne, NE 69146 Volunteer Contact Terms of Use Privacy Policy PAID FOR AND AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website →

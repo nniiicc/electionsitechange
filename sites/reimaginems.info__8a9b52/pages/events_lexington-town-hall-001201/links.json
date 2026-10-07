@@ -1,23 +1,106 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Lexington+Town+Hall&dates=20261004T230000Z%2F20261005T003000Z&location=20735+Mississippi+12%2C+Lexington%2C+Mississippi%2C+39095%2C+United+States",
-"http://maps.google.com/?q=20735+Mississippi+12+Lexington%2C+Mississippi%2C+39095+United+States",
-"https://donate.stripe.com/fZecNJ0320TY84U8ww",
-"https://electbenniefoster.com/",
-"https://electbenniefoster.com/about",
-"https://electbenniefoster.com/cart",
-"https://electbenniefoster.com/events",
-"https://electbenniefoster.com/events/an5hmgtn66pw7v7uymyvni0zgbf109",
-"https://electbenniefoster.com/events/lexington-town-hall?format=ical",
-"https://electbenniefoster.com/events/walnut-grove-meet-and-greet",
-"https://electbenniefoster.com/initiatives",
-"https://electbenniefoster.com/meetfoster",
-"https://electbenniefoster.com/news",
-"https://electbenniefoster.com/our-district-ms02",
-"https://electbenniefoster.com/platform",
-"https://electbenniefoster.com/policies",
-"https://electbenniefoster.com/questions-answers",
-"https://electbenniefoster.com/resources-1",
-"https://electbenniefoster.com/voting",
-"https://facebook.com/reimaginems",
-"https://instagram.com/fosterforcongress"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=20735+mississippi+12+lexington%2C+mississippi%2C+39095+united+states"
+},
+{
+"text": "0",
+"href": "https://www.electbenniefoster.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.electbenniefoster.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.electbenniefoster.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.electbenniefoster.com/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://donate.stripe.com/fZecNJ0320TY84U8ww"
+},
+{
+"text": "Donate",
+"href": "https://www.electbenniefoster.com/donate"
+},
+{
+"text": "Elect Bennie Foster for U.S. Congress MS-02",
+"href": "https://www.electbenniefoster.com/"
+},
+{
+"text": "Events",
+"href": "https://www.electbenniefoster.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/reimaginems/"
+},
+{
+"text": "Folder: About",
+"href": "https://www.electbenniefoster.com/about"
+},
+{
+"text": "Folder: News",
+"href": "https://www.electbenniefoster.com/news"
+},
+{
+"text": "Folder: Platform",
+"href": "https://www.electbenniefoster.com/platform"
+},
+{
+"text": "Folder: Resources",
+"href": "https://www.electbenniefoster.com/resources-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Lexington+Town+Hall&dates=20261004T230000Z%2F20261005T003000Z&location=20735+Mississippi+12%2C+Lexington%2C+Mississippi%2C+39095%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.electbenniefoster.com/events/lexington-town-hall?format=ical"
+},
+{
+"text": "Initiatives",
+"href": "https://www.electbenniefoster.com/initiatives"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/fosterforcongress"
+},
+{
+"text": "Meet Foster",
+"href": "https://www.electbenniefoster.com/meetfoster"
+},
+{
+"text": "Next Next October 5 Walnut Grove Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/walnut-grove-meet-and-greet"
+},
+{
+"text": "Our District | MS-02",
+"href": "https://www.electbenniefoster.com/our-district-ms02"
+},
+{
+"text": "Policies",
+"href": "https://www.electbenniefoster.com/policies"
+},
+{
+"text": "Previous Previous October 4 Durant City Hall (On the steps)",
+"href": "https://www.electbenniefoster.com/events/an5hmgtn66pw7v7uymyvni0zgbf109"
+},
+{
+"text": "Questions & Answers",
+"href": "https://www.electbenniefoster.com/questions-answers"
+},
+{
+"text": "Voting",
+"href": "https://www.electbenniefoster.com/voting"
+},
+{
+"text": "team@electbenniefoster.com",
+"href": "mailto:team@electbenniefoster.com"
+}
 ]

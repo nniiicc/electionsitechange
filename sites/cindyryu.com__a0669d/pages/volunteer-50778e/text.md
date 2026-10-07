@@ -1,4 +1,2 @@
-Sign up to
-Get Involved
-You may be required by law to put a legal disclaimer here, if you intend to send text messages to people whose number you collect.
-Guidelines can be found here: https://help.designedtorun.com/en/articles/11987556-form-disclaimer-guidelines
+Skip navigation menu About Issues Endorsements Events Volunteer Contact Donate About Issues Endorsements Events Volunteer Contact Donate Sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code You may be required by law to put a legal disclaimer here, if you intend to send text messages to people whose number you collect.
+Guidelines can be found here: https://help.designedtorun.com/en/articles/11987556-form-disclaimer-guidelines Submit cindy@cindyryu.com Powered by RUN! website builder Paid for by Friends For Cindy Ryu (D) PO Box 33548 Seattle, WA 98133 You need to enable JavaScript to run this app.

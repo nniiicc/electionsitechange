@@ -1,41 +1,190 @@
 [
-"https://iowacourts.gov/courtcases/4440/embed/SupremeCourtOpinion",
-"https://iowaledger.com/",
-"https://legis.iowa.gov/docs/code/17A.pdf",
-"https://legis.iowa.gov/docs/code/20.12.pdf",
-"https://legis.iowa.gov/docs/code/20.14.pdf",
-"https://legis.iowa.gov/docs/code/20.15.pdf",
-"https://legis.iowa.gov/docs/code/20.17.pdf",
-"https://legis.iowa.gov/docs/code/20.22.pdf",
-"https://legis.iowa.gov/docs/code/20.3.pdf",
-"https://legis.iowa.gov/docs/code/20.9.pdf",
-"https://legis.iowa.gov/docs/code/20.pdf",
-"https://legis.iowa.gov/docs/code/2017/20.15.pdf",
-"https://legis.iowa.gov/docs/code/21.pdf",
-"https://legis.iowa.gov/docs/code/22.7.pdf",
-"https://legis.iowa.gov/docs/code/25B.3.pdf",
-"https://legis.iowa.gov/docs/code/25B.pdf",
-"https://legis.iowa.gov/docs/code/26.16.pdf",
-"https://legis.iowa.gov/docs/code/26A.3.pdf",
-"https://legis.iowa.gov/docs/code/279.14.pdf",
-"https://legis.iowa.gov/docs/code/284.3.pdf",
-"https://legis.iowa.gov/docs/code/400.18.pdf",
-"https://legis.iowa.gov/docs/code/400.28.pdf",
-"https://legis.iowa.gov/docs/code/602.1401.pdf",
-"https://legis.iowa.gov/docs/code/70A.17A.pdf",
-"https://legis.iowa.gov/docs/code/70A.19.pdf",
-"https://legis.iowa.gov/docs/code/731.pdf",
-"https://legis.iowa.gov/docs/code/73A.28.pdf",
-"https://legis.iowa.gov/docs/publications/FN/852709.pdf",
-"https://legis.iowa.gov/docs/publications/IR/967782.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/87/HF291.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/87/SF438.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/SF472.pdf",
-"https://mohlerforiowa.com/",
-"https://mohlerforiowa.com/agenda.html",
-"https://mohlerforiowa.com/agenda/pay-as-you-go.html",
-"https://mohlerforiowa.com/harris-record.html",
-"https://mohlerforiowa.com/privacy.html",
-"https://mohlerforiowa.com/where-iowa-ranks.html",
-"https://secure.actblue.com/donate/mohlerforiowa"
+{
+"text": "Accountability",
+"href": "https://iowaledger.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mohlerforiowa"
+},
+{
+"text": "Every bill",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "How the agenda pays for itself",
+"href": "https://mohlerforiowa.com/agenda/pay-as-you-go.html"
+},
+{
+"text": "Issue Review",
+"href": "https://www.legis.iowa.gov/docs/publications/IR/967782.pdf"
+},
+{
+"text": "Issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Privacy",
+"href": "https://mohlerforiowa.com/privacy.html"
+},
+{
+"text": "The Agenda",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "The District",
+"href": "https://mohlerforiowa.com/#district"
+},
+{
+"text": "The Harris File",
+"href": "https://mohlerforiowa.com/harris-record.html"
+},
+{
+"text": "The issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://mohlerforiowa.com/#volunteer"
+},
+{
+"text": "Where Iowa Ranks",
+"href": "https://mohlerforiowa.com/where-iowa-ranks.html"
+},
+{
+"text": "[image: Mohler for Iowa]",
+"href": "https://mohlerforiowa.com/"
+},
+{
+"text": "fiscal note",
+"href": "https://www.legis.iowa.gov/docs/publications/FN/852709.pdf"
+},
+{
+"text": "iowacourts.gov",
+"href": "https://www.iowacourts.gov/courtcases/4440/embed/SupremeCourtOpinion"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/17A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/20.12.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/20.14.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/20.15.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/20.17.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/20.22.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/20.3.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/20.9.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/20.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/2017/20.15.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/21.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/22.7.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/25B.3.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/25B.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/26.16.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/26A.3.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/279.14.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/284.3.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/400.18.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/400.28.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/602.1401.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/70A.17A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/70A.19.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/731.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/73A.28.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/FN/852709.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/IR/967782.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/87/HF291.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/87/SF438.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/SF472.pdf"
+},
+{
+"text": "wrote",
+"href": "https://www.iowacourts.gov/courtcases/4440/embed/SupremeCourtOpinion"
+}
 ]

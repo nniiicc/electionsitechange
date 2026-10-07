@@ -1,15 +1,9 @@
-Navy Veteran Nancy Lacore Announces Campaign for Congress in SC-01
-Press Release | January 20, 2026CONTACT:
-Amanda Sands | press@nancylacore.com | 617-276-6581
-Lacore: “My love of country is why I put the uniform on in the first place.
-And it’s exactly why I can’t stand by while Americans, and South Carolinians, are struggling.”
-MOUNT PLEASANT, SC — Today, Nancy Lacore announced her campaign for Congress in South Carolina’s First District.
+0 Skip to Content Home About Nancy Priorities Endorsements Media Voting Resources Get Involved Host an Event Volunteer Contact Donate Open Menu Close Menu Home About Nancy Priorities Endorsements Media Voting Resources Get Involved Host an Event Volunteer Contact Donate Open Menu Close Menu Home About Nancy Priorities Endorsements Media Voting Resources Folder: Get Involved Back Host an Event Volunteer Contact Donate Navy Veteran Nancy Lacore Announces Campaign for Congress in SC-01 Jan 20 Written By Kasey Lacore Press Release | January 20, 2026 CONTACT: Amanda Sands | press@nancylacore.com | 617-276-6581 Lacore: “My love of country is why I put the uniform on in the first place.
+And it’s exactly why I can’t stand by while Americans, and South Carolinians, are struggling.” MOUNT PLEASANT, SC — Today, Nancy Lacore announced her campaign for Congress in South Carolina’s First District.
 Nancy served in the Navy for 35 years, beginning as a helicopter pilot and culminating as a three star admiral and the Chief of Navy Reserve, where she was entrusted to lead more than 60,000 sailors.
 “Hard work should result in a stable life,” Nancy Lacore said.
-“Americans deserve a lower cost of living—housing, healthcare, childcare, and daily essentials—so families, seniors, veterans, and young Americans can build secure futures.”
-Watch Nancy’s launch video here.
-Transcript:
-Many people consider service a sacrifice.
+“Americans deserve a lower cost of living—housing, healthcare, childcare, and daily essentials—so families, seniors, veterans, and young Americans can build secure futures.” Watch Nancy’s launch video here.
+Transcript: Many people consider service a sacrifice.
 I consider it a privilege.
 For 35 years, I served in the United States Navy with the belief that service, honor, and integrity matter.
 That these are the qualities that matter.
@@ -32,8 +26,7 @@ Our leaders in Congress are not working for us.
 They have lost the courage to act, to fight for, and to serve the people they represent.
 I’ve spent decades serving our country, and I still have more to give, more to fight for, and more work to do.
 I’m not done yet.
-About Nancy Lacore
-Nancy Lacore served our nation for 35 years in the Navy, a career that began as a helicopter pilot and culminated as a three star admiral and the Chief of Navy Reserve where she was entrusted to lead more than 60,000 sailors.
+About Nancy Lacore Nancy Lacore served our nation for 35 years in the Navy, a career that began as a helicopter pilot and culminated as a three star admiral and the Chief of Navy Reserve where she was entrusted to lead more than 60,000 sailors.
 Nancy’s career took her around the world, but it was always anchored by family and a deep love of country.
 In Nancy’s family, service runs deep.
 Following in her dad’s footsteps, Nancy accepted a ROTC scholarship to the College of the Holy Cross, and was commissioned into the Navy after graduation.
@@ -53,3 +46,5 @@ They are fortunate to have their daughter Mary and her husband Jonathan nearby o
 Service has shaped every chapter of Nancy’s life, and it continues to guide what comes next.
 Nancy wore the uniform for 35 years, but her commitment to this country and its people didn’t end when she hung it up.
 In this next chapter, Nancy is ready to put her experience, her values, and her voice to work for this community.
+Kasey Lacore Previous Previous Navy Veteran Nancy Lacore Raises Over $250K in First 24 Hours, Nearly Double Entire Primary Field Combined Support Nancy today! $10 $25 $50 $100 $250 Other For press inquiries, email press@nancylacore.com For all other inquiries, email info@nancylacore.com Checks may be made out to "Nancy Lacore for Congress" and mailed to: PO Box 1006, 1000 Palm Blvd, Isle of Palms, SC 29451-9998 Privacy Policy Terms and Conditions Paid for by Nancy Lacore for Congress Use of military rank, titles, insignia, marks, or photographs in uniform does not imply endorsement by the U.S.
+Navy or the Department of Defense.

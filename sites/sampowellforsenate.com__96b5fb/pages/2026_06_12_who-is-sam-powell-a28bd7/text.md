@@ -1,12 +1,11 @@
-My name is Sam Powell, and I am running as a DFL candidate for Senate District 19 in Minnesota.
+Skip to content Sam Powell for Senate Courage, Compassion, Community Menu Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform Who is Sam Powell My name is Sam Powell, and I am running as a DFL candidate for Senate District 19 in Minnesota.
 I am seeking your endorsement.
 Please allow me to introduce myself.
 I was born and raised in California in an extremely conservative environment.
 My father was a pastor of a congregation that was Christian Nationalist, before it became a household word.
 In that congregation, the seeds were sown which eventually gave birth to the Heritage Foundation and project 2025.
 My father learned it at Bob Jones University and it was in the environment that I swam in every day.
-(My father with Bob Jones Sr., 1961)
-None of the platforms of Project 2025 are a surprise to me, because this is what I heard and what I was taught from a very young age.I was wrong, though, in thinking that these ideas were fringe, as I would soon find out.
+(My father with Bob Jones Sr., 1961) None of the platforms of Project 2025 are a surprise to me, because this is what I heard and what I was taught from a very young age.I was wrong, though, in thinking that these ideas were fringe, as I would soon find out.
 I eventually became a pastor in that denomination, thinking that I would be able to slowly turn them away from their politics of distrust and separatism towards a more open and accepting love as Jesus taught us.
 The congregation were having none of it, and when Covid hit, a large faction tore my congregation apart.
 My wife and I moved to Faribault in 2023, looking for a fresh start.
@@ -41,8 +40,7 @@ We loved it the second we drove in on that snowy day in 2023.
 The community called to us and we are here.
 It’s our home.
 Our safe place.
-I want to work with you all to bring that safety and belonging and peace to EVERYONE, because, as Maya Angelou said, …”if we aren’t ALL free, then none of us are free.”
-We spend so much time and attention on the movers and shakers, the money people and the builders and the leaders.
+I want to work with you all to bring that safety and belonging and peace to EVERYONE, because, as Maya Angelou said, …”if we aren’t ALL free, then none of us are free.” We spend so much time and attention on the movers and shakers, the money people and the builders and the leaders.
 And yes, every community needs them.
 But in the corners are those that are left behind, forgotten, left without a voice.
 They are the ones who are too busy trying to eat today and tomorrow; they are the disabled, the outcasts, the strange, the lonely, the poor.
@@ -51,8 +49,7 @@ You don’t see the fears.
 The diagnoses that they can’t afford the treatments for; you don’t see the single mom that loses her job because her childcare canceled at the last minute one too many times.
 The desperation and the rejection are painful to see, so people ignore it.
 And if they are forced to look and see the hopelessness and the dying, they will convince themselves that there must be some moral failing.
-If you can blame the sufferer, maybe you can make better choices so that the same thing doesn’t happen to you…
-I have a better way.
+If you can blame the sufferer, maybe you can make better choices so that the same thing doesn’t happen to you… I have a better way.
 Let’s look right at it and solve it.
 Let’s take on hunger and housing and healthcare.
 Let’s quit looking away.
@@ -67,4 +64,37 @@ And building community takes courage.
 Let’s build community together with everyone.
 Sam Powell for Senate District 19.
 Courage, Compassion, Community.
-See less
+See less Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Related Author: Sam Powell What am I doing here?
+I am an ex-Reformed pastor.
+I love the system of doctrine found in the confessions of the church because they lead to Jesus, exalt Jesus, and clarify the life and work of Jesus.
+But I worship him, not the confessions.
+I will never use the confessions of the church to beat someone down or to win some kind of argument.
+In Reformed and Presbyterian churches, I hear over and over again how the books of order, the constitutions, and the centuries of procedures are used to silence the abused, drive away the sheep, protect the powerful, and maintain the status quo.
+If you haven't seen it, you haven't been paying attention.
+On top of this, in the 1980s and 1990s, several influential and powerful men introduced a new theology in the church as a response to feminism.
+They called it "complementarianism".
+They based it on a novel interpretation of the Trinity, by introducing authority and submission into the persons of the Trinity.
+Doing this, they contradicted the unanimous testimony of the church since the 4th century.
+And one more - in the 70s, a cult leader named Bill Gothard invented a religion which he called "Institutes of Basic Life Principles".
+He peddled it to millions under the guise of Christianity.
+All of these streams combined into a weird, oppressive, violent, vicious mixture which has infiltrated the churches.
+It is a strange new religion, under the guise of Christianity, but has nothing to do with it.
+It has gone by different names: Moral Majority; Christian Nationalism; Patriarchalism; It worships power and authority, it worships traditions and parliamentarian procedures, it worships celebrity, and it worships those who can argue down a liberal or a feminist.
+It values destroying enemies with argument, it values contempt and winning the debate.
+It calls for the release of Barrabas - at least he was trying to do something about Rome- And shouts for Jesus to be crucified.
+What this new religion doesn't have is: Jesus, the Lamb of God Grace Mercy Compassion Understanding Listening or Good news.
+All it knows is law.
+And all it trusts in is power.
+It knows nothing of washing feet, of letting the mind of Christ dwell in us, or of taking the lowest place.
+So this is why I am here.
+For those who have been run down by Driscoll's bus, who have been crushed by the Gothard machine, cast out by Wilson's cult (or Piper's or MacArthur's)... ...for those who are so confused that they don't know how to separate the gospel of Jesus Christ from the lies and tangles that the enemy has woven into a snare...
+I offer my services.
+I can listen.
+I can help untangle the lies by pointing you to the simplicity of the faith once for all delivered to the saints.
+You can find me at sampowellministries.com View all posts by Sam Powell Author Sam Powell Posted on June 12, 2026 June 14, 2026 Categories Uncategorized Tags community , environment , god , healthcare , housing Leave a comment Cancel reply Δ Post navigation Previous Previous post: Hello World!
+Next Next post: Why am I doing this? @sampowell_sd19 Sam Powell for Senate Sam Powell for Senate Donate Here Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform Sam Powell for Senate Create a website or blog at WordPress.com Comment Reblog Subscribe Subscribed Sam Powell for Senate Sign me up Have a WordPress.com account?
+Log in now.
+Sam Powell for Senate Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

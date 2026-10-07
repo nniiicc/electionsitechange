@@ -1,44 +1,87 @@
-Donate
-News
-New York TimesThe Brutal Past and Uncertain Future of Native Adoptions
-Chris Stearns has two distinct memories from his childhood in the late 1960s.
+Home Endorsements News Volunteer Donate Home Endorsements News Volunteer Donate Donate News New York Times The Brutal Past and Uncertain Future of Native Adoptions July 3, 2024 Chris Stearns has two distinct memories from his childhood in the late 1960s.
 The first is somewhat hazy: a crowded New York City picnic for white families who had adopted Native American boys and girls, somewhere at a hilly park.
 Mr.
-Stearns had never seen so many people — he was an onlyRead More
-Seattle TimesThe Seattle Times editorial board recommends: Chris Stearns for the 47th Legislative District, Position 2
-Two Republicans are seeking the position in the 47th Legislative District, Position 2 — Brian Lott and Ted Cooke.
+Stearns had never seen so many people — he was an only Read More Seattle Times The Seattle Times editorial board recommends: Chris Stearns for the 47th Legislative District, Position 2 July 3, 2024 Two Republicans are seeking the position in the 47th Legislative District, Position 2 — Brian Lott and Ted Cooke.
 Neither made the case to replace the incumbent.
 Democrat Chris Stearns is the unequivocal choice.
-Before his election in 2022, Stearns was an attorney for a national law firmRead More
-The Spokesman-ReviewProposed law would make hundreds of Washington prisoners eligible for resentencing if they are serving time for juvenile records
-OLYMPIA – Between 800 and 1,500 Washington residents are sitting behind bars, serving extra time for their juvenile records – offenses state law says should not add additional time onto sentences for crimes committed as adults.
-Of those incarcerated people, 422 are Indigenous, saidRead More
-ICT NewsRacial disproportionality in ‘juvenile points’ sentences
-Right now, 422 Indigenous people incarcerated in Washington’s state prisons are serving longer sentences because they were involved in the juvenile system as children.
+Before his election in 2022, Stearns was an attorney for a national law firm Read More The Spokesman-Review Proposed law would make hundreds of Washington prisoners eligible for resentencing if they are serving time for juvenile records July 3, 2024 OLYMPIA – Between 800 and 1,500 Washington residents are sitting behind bars, serving extra time for their juvenile records – offenses state law says should not add additional time onto sentences for crimes committed as adults.
+Of those incarcerated people, 422 are Indigenous, said Read More ICT News Racial disproportionality in ‘juvenile points’ sentences July 3, 2024 Right now, 422 Indigenous people incarcerated in Washington’s state prisons are serving longer sentences because they were involved in the juvenile system as children.
 No one should be penalized twice for crimes committed when they were young.
-Our focus must be on healing and rehabilitation,Read More
-Auburn ReporterWhat are the priorities for South King County legislators?
-Rep.
-Chris Stearns (D)
-HB 2211: Granting local taxing authority to fund criminal justice
-This bill, if passed, would provide a county legislative authority until Jan. 1, 2027, to impose a criminal justice sales and use tax without voter approval.
-It also would provide a city within a countyRead More
-Seattle TimesWA audit of failed rent-to-own program is a positive step
-Prompted by a request from two state lawmakers, the Washington State Auditor’s Office will wade into why a state program designed to turn low-income renters into homeowners failed to do so.
+Our focus must be on healing and rehabilitation, Read More Auburn Reporter What are the priorities for South King County legislators?
+July 3, 2024 Rep.
+Chris Stearns (D) HB 2211: Granting local taxing authority to fund criminal justice This bill, if passed, would provide a county legislative authority until Jan.
+1, 2027, to impose a criminal justice sales and use tax without voter approval.
+It also would provide a city within a county Read More Seattle Times WA audit of failed rent-to-own program is a positive step July 3, 2024 Prompted by a request from two state lawmakers, the Washington State Auditor’s Office will wade into why a state program designed to turn low-income renters into homeowners failed to do so.
 The audit will access the promises broken.
-With the use of low-income housing tax credits, WashingtonRead More
-Straight Arrow NewsEnvironmentalists, tribal leaders protest new nuclear reactor in Washington state
-Lawmakers in Washington state believe a proposed $25 million effort to build a next-generation nuclear reactor is crucial to help reach climate goals.
-However, the proposal has sparked a debate, with environmentalists and Native American leaders expressing concerns the facility will do more harmRead More
-King5His juvenile record added 17 years to his prison time.
-A new bill would allow him to be resentenced
-OLYMPIA, Wash. — Leadership representing 20 tribal organizations in Washington state are among the voices pushing for a new law that could reduce sentences for inmates currently serving time.
+With the use of low-income housing tax credits, Washington Read More Straight Arrow News Environmentalists, tribal leaders protest new nuclear reactor in Washington state July 3, 2024 Lawmakers in Washington state believe a proposed $25 million effort to build a next-generation nuclear reactor is crucial to help reach climate goals.
+However, the proposal has sparked a debate, with environmentalists and Native American leaders expressing concerns the facility will do more harm Read More King5 His juvenile record added 17 years to his prison time.
+A new bill would allow him to be resentenced July 3, 2024 OLYMPIA, Wash. — Leadership representing 20 tribal organizations in Washington state are among the voices pushing for a new law that could reduce sentences for inmates currently serving time.
 State Rep.
-Chris Stearns, a lawyer and member of the Navajo Nation, is advocating for a newRead More
-King5 Washington passes ‘Kimberly Bender’s Law’ to raise penalties for sexually abusive jail guards
-OLYMPIA, Wash — A bill that would impose harsher penalties for sexually abusive jail and prison guards passed the Washington state Legislature Wednesday.
-The State House of Representatives voted unanimously to pass “Kimberly Bender’s Law.” The bill was prompted by a 2022Read More
-Nisqually Valley NewsBilly Frank Jr. statue will be displayed at U.S.
-Capitol
-(From left to right: Representative Chris Stearns (D-Auburn 47th), Nisqually Vice Chair Antonette Squally, Puyallup Tribal member and treaty rights activist Nancy Shippentower, and Nisqually Chairman Willie Frank III stand next to the maquette of Billy Frank Jr.)
-Seeing the design of aRead More
+Chris Stearns, a lawyer and member of the Navajo Nation, is advocating for a new Read More King5 Washington passes ‘Kimberly Bender’s Law’ to raise penalties for sexually abusive jail guards July 3, 2024 OLYMPIA, Wash — A bill that would impose harsher penalties for sexually abusive jail and prison guards passed the Washington state Legislature Wednesday.
+The State House of Representatives voted unanimously to pass “Kimberly Bender’s Law.” The bill was prompted by a 2022 Read More Nisqually Valley News Billy Frank Jr. statue will be displayed at U.S.
+Capitol July 3, 2024 (From left to right: Representative Chris Stearns (D-Auburn 47th), Nisqually Vice Chair Antonette Squally, Puyallup Tribal member and treaty rights activist Nancy Shippentower, and Nisqually Chairman Willie Frank III stand next to the maquette of Billy Frank Jr.) Seeing the design of a Read More Follow Chris on Facebook Used for the like, share, comment, and reaction icons Chris Stearns for State Rep.
+#ago I want to talk to you about this upcoming election.
+The truth is, it’s not about left versus right.
+It’s something just far more simple.
+And that is: right versus wrong.
+Is it right that the Trump Admin is cutting millions of people’s healthcare through the Medicaid cuts?
+That includes thousands of people right here in this district.
+And is it right that the Trump Administration is still trying to interfere with our election?
+You’d agree with me that those are wrong, and I’m proud to be fighting against them.
+But I also believe that it’s really important to fight to grow our economy, to support the brand new space industry that is being built out right here in this district.
+And I think it’s also important to protect the natural beauty of our world for our children.
+Those things are right.
+And I’m proud to be fighting for those things too.
+So, I’m glad that you care about, and are focused on, the difference between right and wrong, not right versus left.
+And your support and your vote will give us the energy to keep on fighting for those things in the future and for our district. www.chris4wa.com ...
+See More See Less Play View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha wow angry 98 Shares: 12 Comments: 56 56 Comments Comment on Facebook Chris Stearns for State Rep.
+#ago Photos from Chris Stearns for State Rep.'s post ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 6 Shares: 0 Comments: 1 1 Comments Comment on Facebook Chris Stearns for State Rep.
+#ago How often do you get to talk with a room full of governors, Congresswomen, legislators and senators?
+That’s what happened at the remarkable Native Youth Political Engagement Summit!
+One day those young leaders are going to run for these offices and win.
+I am so inspired by the incredible work of the Native Action Network , Claudia Kauffman Vote Claudia Kauffman , Iris Friday, Urban Native Education Alliance , who made this all possible.
+We were joined by The Aspen Institute ’s Center for Native American Youth who mapped out what can be done to drive up voting and engagement in the Mid-Term elections.
+I was honored to participate and offer opening remarks to this stellar gathering of Native youth. ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 17 Shares: 2 Comments: 0 0 Comments Comment on Facebook Chris Stearns for State Rep.
+#ago Today’s ruling is a victory for Washington voters and their privacy.
+A federal court granted WA Secretary of State Steve Hobbs' motion to dismiss the DOJ’s lawsuit seeking Washington's unredacted voter rolls and denied DOJ’s motion to compel the records.
+Washington is the 25th consecutive state or jurisdiction to prevail against this attempted federal overreach tp get at voters sensitive data including Social Security numbers, dates of birth, residential addresses, and driver's license numbers. ...
+See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
+View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes 1 Shares: 0 Comments: 0 0 Comments Comment on Facebook Chris Stearns for State Rep.
+#ago I am honored to earn the endorsement of the Seattle Times.
+There is nothing more that I am grateful for than the chance to serve others.
+I'm proud for our district that the Times recognizes what we have been working to accomplish and know that their endorsement will further energize us to keep building the future we believe in. ...
+See More See Less Here's who The Seattle Times endorses for WA Legislative District 47, Pos.
+2 | Editorial www.seattletimes.com Rep.
+Chris Stearns, D-Auburn, brings needed focus to energy and tribal issues, as well as growing the state's space industry.
+View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 12 Shares: 9 Comments: 0 0 Comments Comment on Facebook Chris Stearns for State Rep.
+#ago John Lewis said it best: "the vote is the most powerful nonviolent change agent you have in a democratic society." 📬 Today, the U.S.
+Supreme Court blocked Trump's horrible plan to restrict our right to vote by mail in the fall elections.
+Our right to vote must remain sacred. ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha 493 Shares: 127 Comments: 46 46 Comments Comment on Facebook Chris Stearns for State Rep. is at King County Courthouse.
+#ago What a beautiful celebration of Recovery, Perseverance, Achievement, and Hope.
+I was honored to attend the most recent graduation ceremony for participants in the King County Drug Court graduation.
+What I witnessed was more than a ceremony.
+It was an entire community coming together to rescue and rebuild lives.
+Judges, court staff, health care professionals, law enforcement, families, and peers all working together to create new beginnings and new leases on life.
+As one mother tearfully told her son, “you’ve been blessed with a crown of beauty instead of ashes.” I also attended part of the Seattle Police Department’s “Before the Badge” Program and saw how new recruits were introduced to the Drug Court program.
+They met with the Drug Court Judge and professional staff, including peers who themselves are graduates and in recovery, to learn about the policies, best practices, and behavioral science that make the program so effective.
+As a police veteran explained to the recruits, it’s one of the few areas where police officers get to see how their work is changing lives.
+I am so grateful to see how the Drug Court and BTB programs are both working to save and rebuild lives. ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 13 Shares: 1 Comments: 0 0 Comments Comment on Facebook Chris Stearns for State Rep.
+#ago It’s been 25 years since the horrific terror attacks changed our world.
+Back then I was working in Washington, D.C. and on that morning was part of a national tribal leaders summit in downtown D.C. when the attacks happened.
+There was such a suffocating sense of dread as hundreds of us gathered around the Hyatt hotel’s coffee shop TV to watch what was happening live in NY and DC.
+But then, even through the panic there was also a growing sense of calmness and determination to make sure we all would be OK.
+I remember that night feeling so amazed at how ￼everyone joined together in spirit that day: there was unity, pride, love and compassion.
+Our nation’s resolve was put to the test, and we passed the test with flying colors.
+That is the America I love and still love. ...
+See More See Less Native Americans Reflect on What They Were Doing on 9/11 nativenewsonline.net Editor’s Note: Five years ago, in remembrance of the 20th anniversary of 9/11, Native News Online reached out to several prominent Native Americans to have them reflect on where they were and what t...
+View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 3 Shares: 0 Comments: 0 0 Comments Comment on Facebook Chris Stearns for State Rep. is at The Museum of Flight.
+#ago It was an honor to meet NASA #astronaut Woody Hoburg and NASA - National Aeronautics and Space Administration Administrator Jared Isaacman at the #NASA Inspiration event hosted by The Boeing Company at The Museum of Flight .
+Administrator Isaacman discussed our future in space, focusing on the planned lunar base, the Mars mission, the SR-1 nuclear powered spacecraft, as well as the space race with China right now.
+I was glad to join my colleagues Senator Claudia Kauffman and Rep.
+Mari Leavitt and together support the growth of the space industry in Kent and Auburn and our State.
+#coffeeachievers ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes 3 Shares: 0 Comments: 0 0 Comments Comment on Facebook Load more Paid for by Chris for Washington, PO Box 20776 Seattle, WA 98102 info@chris4wa.com

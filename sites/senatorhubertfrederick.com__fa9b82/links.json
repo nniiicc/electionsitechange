@@ -1,6 +1,18 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://senatorhubertfrederick.com/"
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Senator Hubert L. FrederickSenator Hubert L. FrederickSenator Hubert L. FrederickSenator Hubert L. Frederick",
+"href": "https://senatorhubertfrederick.com/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

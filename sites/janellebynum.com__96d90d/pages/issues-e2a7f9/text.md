@@ -1,6 +1,4 @@
-Skip navigation menu
-Janelle Bynum
-ON THE ISSUES
-Janelle Bynum is a United States Congresswoman, former Oregon state legislator, and common-sense, pragmatic leader with a proven track record of delivering for Oregonians.
+Skip navigation menu Meet Janelle Issues Press Media Center Donate Issues Meet Janelle Issues Press Media Center Donate Issues Janelle Bynum ON THE ISSUES Janelle Bynum is a United States Congresswoman, former Oregon state legislator, and common-sense, pragmatic leader with a proven track record of delivering for Oregonians.
 As a businesswoman, engineer, and mom of four, Janelle demands that Oregon’s voices are at the table where decisions are being made.
 She’s already gotten results, including passing five bipartisan bills through the House and bringing over $160 million in federal funding back to our district.
+LOWERING THE COST OF HOUSING STRENGTHENING THE ECONOMY AND CREATING JOBS IMPROVING ACCESS TO EDUCATION FIGHTING BACK AGAINST CRUELTY AND CHAOS FROM THE WHITE HOUSE TAKING CLIMATE ACTION LOWERING THE COST OF HEALTH CARE PROTECTING REPRODUCTIVE RIGHTS ENDING HOMELESSNESS LOWERING THE COST OF HOUSING View more STRENGTHENING THE ECONOMY AND CREATING JOBS View more IMPROVING ACCESS TO EDUCATION View more FIGHTING BACK AGAINST CRUELTY AND CHAOS FROM THE WHITE HOUSE View more TAKING CLIMATE ACTION View more LOWERING THE COST OF HEALTH CARE View more PROTECTING REPRODUCTIVE RIGHTS View more ENDING HOMELESSNESS View more Privacy Policy Contact: info@janellebynum.com Press Inquiries: press@janellebynum.com Make Checks Out to Janelle Bynum for Congress 10121 SE Sunnyside Road, #300 Clackamas, OR 97015 Powered by RUN! website builder Paid for by Janelle Bynum for Congress You need to enable JavaScript to run this app.

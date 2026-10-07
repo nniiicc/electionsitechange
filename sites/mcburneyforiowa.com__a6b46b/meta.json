@@ -1,7 +1,11 @@
 {
  "description": "Larry McBurney is a candidate for Iowa State House in District 44 (Urbandale). Learn more about his background and goals.",
  "final_url": "https://www.mcburneyforiowa.com/",
+ "fingerprint": "73ad4ec373f6c5d46724b37c6fb142c503066c22",
+ "format": 3,
  "paid_for_by": "Paid for by McBurney for Iowa",
  "title": "McBurney for Iowa | Election 2024 | Urbandale IA",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

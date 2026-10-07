@@ -1,91 +1,370 @@
 [
-"http://ready.gov/winter-weather",
-"https://austintexas.gov/alerts",
-"https://bucyfortexas.com/",
-"https://bucyfortexas.com/2019/02",
-"https://bucyfortexas.com/2019/03",
-"https://bucyfortexas.com/2019/04",
-"https://bucyfortexas.com/2019/05",
-"https://bucyfortexas.com/2019/06",
-"https://bucyfortexas.com/2019/07",
-"https://bucyfortexas.com/2019/08",
-"https://bucyfortexas.com/2019/09",
-"https://bucyfortexas.com/2019/10",
-"https://bucyfortexas.com/2019/11",
-"https://bucyfortexas.com/2019/12",
-"https://bucyfortexas.com/2020/01",
-"https://bucyfortexas.com/2020/02",
-"https://bucyfortexas.com/2020/03",
-"https://bucyfortexas.com/2020/04",
-"https://bucyfortexas.com/2020/07",
-"https://bucyfortexas.com/2020/09",
-"https://bucyfortexas.com/2020/10",
-"https://bucyfortexas.com/2020/11",
-"https://bucyfortexas.com/2021/06",
-"https://bucyfortexas.com/2021/07",
-"https://bucyfortexas.com/2021/12",
-"https://bucyfortexas.com/2022/01",
-"https://bucyfortexas.com/2022/05",
-"https://bucyfortexas.com/2022/06",
-"https://bucyfortexas.com/2022/08",
-"https://bucyfortexas.com/2022/09",
-"https://bucyfortexas.com/2022/10",
-"https://bucyfortexas.com/2022/11",
-"https://bucyfortexas.com/2023/04",
-"https://bucyfortexas.com/2023/05",
-"https://bucyfortexas.com/2023/06",
-"https://bucyfortexas.com/2023/07",
-"https://bucyfortexas.com/2023/08",
-"https://bucyfortexas.com/2023/09",
-"https://bucyfortexas.com/2024/05",
-"https://bucyfortexas.com/2025/01",
-"https://bucyfortexas.com/2025/06",
-"https://bucyfortexas.com/2025/07",
-"https://bucyfortexas.com/about",
-"https://bucyfortexas.com/author/allison-heinrich",
-"https://bucyfortexas.com/bucy-bulletin/bucy-bulletin-session-recap",
-"https://bucyfortexas.com/category/awards",
-"https://bucyfortexas.com/category/bucy-bulletin",
-"https://bucyfortexas.com/category/events",
-"https://bucyfortexas.com/category/press-releases",
-"https://bucyfortexas.com/category/priorities",
-"https://bucyfortexas.com/category/single-post",
-"https://bucyfortexas.com/category/town-hall",
-"https://bucyfortexas.com/category/voting-information",
-"https://bucyfortexas.com/constituent-resources",
-"https://bucyfortexas.com/events/john-bucys-40th-birthday-bash",
-"https://bucyfortexas.com/get-involved",
-"https://bucyfortexas.com/news",
-"https://bucyfortexas.com/priorities-2",
-"https://bucyfortexas.com/priorities/criminal-justice-reform",
-"https://bucyfortexas.com/priorities/education",
-"https://bucyfortexas.com/priorities/environmental-protection",
-"https://bucyfortexas.com/priorities/gun-violence-prevention",
-"https://bucyfortexas.com/priorities/healthcare",
-"https://bucyfortexas.com/priorities/lgbtq-equality",
-"https://bucyfortexas.com/priorities/local-control",
-"https://bucyfortexas.com/priorities/property-taxes",
-"https://bucyfortexas.com/priorities/voting",
-"https://bucyfortexas.com/privacy",
-"https://bucyfortexas.com/single-post/winter-weather-preparedness",
-"https://bucyfortexas.com/vote",
-"https://cdn.prod.website-files.com/5fcfde680bd548c23d797aef/63208795a395755f4807fdc9_Winter%20Weather%20Preparedness%20Actions.pdf",
-"https://cedarparktexas.gov/1188/Cold-Weather",
-"https://drivetexas.org/",
-"https://facebook.com/BucyForTexas",
-"https://instagram.com/bucyfortexas",
-"https://roundrocktexas.gov/",
-"https://secure.actblue.com/donate/john-bucy",
-"https://stear.texas.gov/",
-"https://tdem.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=063f8332ed024ebe8cf0760576311d0f",
-"https://tdem.texas.gov/disasters/january-winter-storm-2025",
-"https://techforcampaigns.org/",
-"https://twitter.com/BucyForTexas",
-"https://twitter.com/TDEM/status/1487830680373501955?s=20&t=9lDBvcSvmuayJGCRuno0Qg",
-"https://warncentraltexas.org/",
-"https://wilcotx.gov/CivicAlerts.aspx?AID=502",
-"https://x.com/AustinHSEM",
-"https://x.com/PreparingWilCo",
-"https://youtube.com/watch?v=nkgywv2vFBk",
-"https://youtube.com/watch?v=tbWUKhyVu1w"
+{
+"text": "April 2019",
+"href": "https://bucyfortexas.com/2019/04/"
+},
+{
+"text": "April 2020",
+"href": "https://bucyfortexas.com/2020/04/"
+},
+{
+"text": "April 2023",
+"href": "https://bucyfortexas.com/2023/04/"
+},
+{
+"text": "August 2019",
+"href": "https://bucyfortexas.com/2019/08/"
+},
+{
+"text": "August 2022",
+"href": "https://bucyfortexas.com/2022/08/"
+},
+{
+"text": "August 2023",
+"href": "https://bucyfortexas.com/2023/08/"
+},
+{
+"text": "Awards",
+"href": "https://bucyfortexas.com/category/awards/"
+},
+{
+"text": "Bucy Bulletin",
+"href": "https://bucyfortexas.com/category/bucy-bulletin/"
+},
+{
+"text": "Bucy Bulletin – Session Recap",
+"href": "https://bucyfortexas.com/bucy-bulletin/bucy-bulletin-session-recap/"
+},
+{
+"text": "Criminal Justice Reform",
+"href": "https://bucyfortexas.com/priorities/criminal-justice-reform/"
+},
+{
+"text": "December 2019",
+"href": "https://bucyfortexas.com/2019/12/"
+},
+{
+"text": "December 2021",
+"href": "https://bucyfortexas.com/2021/12/"
+},
+{
+"text": "District136.Bucy@house.texas.gov",
+"href": "mailto:District136.Bucy@house.texas.gov"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/john-bucy"
+},
+{
+"text": "DriveTexas.org",
+"href": "https://drivetexas.org/"
+},
+{
+"text": "Education",
+"href": "https://bucyfortexas.com/priorities/education/"
+},
+{
+"text": "English",
+"href": "https://www.youtube.com/watch?v=nkgywv2vFBk"
+},
+{
+"text": "Environmental Protection",
+"href": "https://bucyfortexas.com/priorities/environmental-protection/"
+},
+{
+"text": "Events",
+"href": "https://bucyfortexas.com/category/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BucyForTexas/"
+},
+{
+"text": "February 2019",
+"href": "https://bucyfortexas.com/2019/02/"
+},
+{
+"text": "February 2020",
+"href": "https://bucyfortexas.com/2020/02/"
+},
+{
+"text": "For Constituents",
+"href": "https://bucyfortexas.com/constituent-resources/"
+},
+{
+"text": "Get Involved",
+"href": "https://bucyfortexas.com/get-involved/"
+},
+{
+"text": "Gun Violence Prevention",
+"href": "https://bucyfortexas.com/priorities/gun-violence-prevention/"
+},
+{
+"text": "Healthcare",
+"href": "https://bucyfortexas.com/priorities/healthcare/"
+},
+{
+"text": "How to Vote",
+"href": "https://bucyfortexas.com/vote/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bucyfortexas/"
+},
+{
+"text": "January 20, 2025January 20, 2025",
+"href": "https://bucyfortexas.com/single-post/winter-weather-preparedness/"
+},
+{
+"text": "January 2020",
+"href": "https://bucyfortexas.com/2020/01/"
+},
+{
+"text": "January 2022",
+"href": "https://bucyfortexas.com/2022/01/"
+},
+{
+"text": "January 2025",
+"href": "https://bucyfortexas.com/2025/01/"
+},
+{
+"text": "John Bucy Campaign",
+"href": "https://bucyfortexas.com/author/allison-heinrich/"
+},
+{
+"text": "John Bucy’s 40th Birthday Bash",
+"href": "https://bucyfortexas.com/events/john-bucys-40th-birthday-bash/"
+},
+{
+"text": "July 2019",
+"href": "https://bucyfortexas.com/2019/07/"
+},
+{
+"text": "July 2020",
+"href": "https://bucyfortexas.com/2020/07/"
+},
+{
+"text": "July 2021",
+"href": "https://bucyfortexas.com/2021/07/"
+},
+{
+"text": "July 2023",
+"href": "https://bucyfortexas.com/2023/07/"
+},
+{
+"text": "July 2025",
+"href": "https://bucyfortexas.com/2025/07/"
+},
+{
+"text": "June 2019",
+"href": "https://bucyfortexas.com/2019/06/"
+},
+{
+"text": "June 2021",
+"href": "https://bucyfortexas.com/2021/06/"
+},
+{
+"text": "June 2022",
+"href": "https://bucyfortexas.com/2022/06/"
+},
+{
+"text": "June 2023",
+"href": "https://bucyfortexas.com/2023/06/"
+},
+{
+"text": "June 2025",
+"href": "https://bucyfortexas.com/2025/06/"
+},
+{
+"text": "LGBTQ+ Equality",
+"href": "https://bucyfortexas.com/priorities/lgbtq-equality/"
+},
+{
+"text": "Local Control",
+"href": "https://bucyfortexas.com/priorities/local-control/"
+},
+{
+"text": "March 2019",
+"href": "https://bucyfortexas.com/2019/03/"
+},
+{
+"text": "March 2020",
+"href": "https://bucyfortexas.com/2020/03/"
+},
+{
+"text": "May 2019",
+"href": "https://bucyfortexas.com/2019/05/"
+},
+{
+"text": "May 2022",
+"href": "https://bucyfortexas.com/2022/05/"
+},
+{
+"text": "May 2023",
+"href": "https://bucyfortexas.com/2023/05/"
+},
+{
+"text": "May 2024",
+"href": "https://bucyfortexas.com/2024/05/"
+},
+{
+"text": "Meet John",
+"href": "https://bucyfortexas.com/about/"
+},
+{
+"text": "News",
+"href": "https://bucyfortexas.com/news/"
+},
+{
+"text": "November 2019",
+"href": "https://bucyfortexas.com/2019/11/"
+},
+{
+"text": "November 2020",
+"href": "https://bucyfortexas.com/2020/11/"
+},
+{
+"text": "November 2022",
+"href": "https://bucyfortexas.com/2022/11/"
+},
+{
+"text": "October 2019",
+"href": "https://bucyfortexas.com/2019/10/"
+},
+{
+"text": "October 2020",
+"href": "https://bucyfortexas.com/2020/10/"
+},
+{
+"text": "October 2022",
+"href": "https://bucyfortexas.com/2022/10/"
+},
+{
+"text": "Press Releases",
+"href": "https://bucyfortexas.com/category/press-releases/"
+},
+{
+"text": "Priorities",
+"href": "https://bucyfortexas.com/category/priorities/"
+},
+{
+"text": "Priorities",
+"href": "https://bucyfortexas.com/priorities-2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bucyfortexas.com/privacy/"
+},
+{
+"text": "Property Taxes",
+"href": "https://bucyfortexas.com/priorities/property-taxes/"
+},
+{
+"text": "Re-Elect John Bucy III",
+"href": "https://bucyfortexas.com/"
+},
+{
+"text": "September 2019",
+"href": "https://bucyfortexas.com/2019/09/"
+},
+{
+"text": "September 2020",
+"href": "https://bucyfortexas.com/2020/09/"
+},
+{
+"text": "September 2022",
+"href": "https://bucyfortexas.com/2022/09/"
+},
+{
+"text": "September 2023",
+"href": "https://bucyfortexas.com/2023/09/"
+},
+{
+"text": "Spanish",
+"href": "https://www.youtube.com/watch?v=tbWUKhyVu1w"
+},
+{
+"text": "State of Texas Emergency Assistance Registry",
+"href": "https://stear.texas.gov/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "Town Hall",
+"href": "https://bucyfortexas.com/category/town-hall/"
+},
+{
+"text": "Uncategorized",
+"href": "https://bucyfortexas.com/category/single-post/"
+},
+{
+"text": "Voting Information",
+"href": "https://bucyfortexas.com/category/voting-information/"
+},
+{
+"text": "Voting Rights",
+"href": "https://bucyfortexas.com/priorities/voting/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/BucyForTexas"
+},
+{
+"text": "[image: Re-Elect John Bucy III]",
+"href": "https://bucyfortexas.com/"
+},
+{
+"text": "https://warncentraltexas.org/",
+"href": "https://warncentraltexas.org/"
+},
+{
+"text": "https://x.com/AustinHSEM",
+"href": "https://x.com/AustinHSEM"
+},
+{
+"text": "https://x.com/PreparingWilCo",
+"href": "https://x.com/PreparingWilCo"
+},
+{
+"text": "johnbucy@bucyfortexas.com",
+"href": "mailto:johnbucy@bucyfortexas.com"
+},
+{
+"text": "link",
+"href": "https://tdem.texas.gov/disasters/january-winter-storm-2025"
+},
+{
+"text": "link",
+"href": "https://www.austintexas.gov/alerts"
+},
+{
+"text": "link",
+"href": "https://www.cedarparktexas.gov/1188/Cold-Weather"
+},
+{
+"text": "link",
+"href": "https://www.roundrocktexas.gov/"
+},
+{
+"text": "link",
+"href": "https://www.wilcotx.gov/CivicAlerts.aspx?AID=502"
+},
+{
+"text": "map of warming centers",
+"href": "https://tdem.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=063f8332ed024ebe8cf0760576311d0f"
+},
+{
+"text": "resources overview",
+"href": "http://ready.gov/winter-weather"
+},
+{
+"text": "suggested actions",
+"href": "https://cdn.prod.website-files.com/5fcfde680bd548c23d797aef/63208795a395755f4807fdc9_Winter%20Weather%20Preparedness%20Actions.pdf"
+},
+{
+"text": "twitter.com/TDEM",
+"href": "https://twitter.com/TDEM/status/1487830680373501955?s=20&t=9lDBvcSvmuayJGCRuno0Qg"
+}
 ]

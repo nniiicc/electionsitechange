@@ -1,8 +1,7 @@
-Housing shortages, disparity in building versus buying.
+0 Skip to Content Rigsby 4 Representative About Contact Donate Topics Voter Info Swag & Merch Open Menu Close Menu Rigsby 4 Representative About Contact Donate Topics Voter Info Swag & Merch Open Menu Close Menu About Contact Donate Topics Voter Info Swag & Merch Housing shortages, disparity in building versus buying.
 Renting feels like a trap we’ll never get out of and buying a house feels nearly impossible for the younger generations.
 So let’s talk about it!
-Affordable Housing
-The data provided by Ohio Senate shows that Columbus, and Ohio is in a severe housing deficit.
+Affordable Housing The data provided by Ohio Senate shows that Columbus, and Ohio is in a severe housing deficit.
 It has even been called a “Housing Crisis” by some.
 Regardless how how you frame it, Ohio is in need of 260,000 homes.
 Columbus alone needs over 58,000 affordable units.
@@ -50,18 +49,9 @@ To many, including my family, this feels like a trap.
 We’re stuck because there is no good option, no less expensive option… So we are stuck renting until we save up at least a 10% Down Payment, which, there are some smaller down payment options and there are also some down payment assistance programs at the local, state, and federal levels based on your area.
 BUT, usually, just to be safe, 10%.
 And even this is hard to work with at times because traditionally, lending institutions want home buyers to have 20% as a down payment saved up.
-NOW, when you are living paycheck to paycheck like 39% of Ohioans like you and me, we can’t even save up any more than a few dollars at the end of every month for a down payment if we’re lucky.
+NOW, when you are living paycheck to paycheck like 39% of Ohioans like you and me , we can’t even save up any more than a few dollars at the end of every month for a down payment if we’re lucky.
 A huge part of the reason why more nearly half of us are living paycheck to paycheck that is the fact that our housing costs are so high.
-According to Zillow, here’s how much we’re spending to rent an apartment:
-Studio: ~$995 - $1,225
-1-Bedroom: ~$1,100 - $1,500
-2-Bedrooms: ~$1,350 - $1,700
-3-Bedrooms: ~$1,750 - $1,900+
-Also, according to Zillow, here’s how much we’re spending to rent a house:
-2 Bedrooms: $1,450 - $1,480
-3 Bedrooms: $1,916 - $1,928
-4 Bedrooms: $2,437 - $2,852
-NOW!
+According to Zillow, here’s how much we’re spending to rent an apartment: Studio: ~$995 - $1,225 1-Bedroom: ~$1,100 - $1,500 2-Bedrooms: ~$1,350 - $1,700 3-Bedrooms: ~$1,750 - $1,900+ Also, according to Zillow, here’s how much we’re spending to rent a house: 2 Bedrooms: $1,450 - $1,480 3 Bedrooms: $1,916 - $1,928 4 Bedrooms: $2,437 - $2,852 NOW!
 Let’s go back and revisit how much you could expect a mortgage to cost every month if you were to own a home.
 That was $1,600 to $2,700 a month.
 When it cost your family just as much to rent as it does to own a home.
@@ -71,3 +61,5 @@ This is a campaign for the people and by the people!
 We need friends, neighbors, and allies to volunteer in any way they are able to so we can get this campaign off the ground!
 There are lots of ways you can make a difference!
 If you want to learn what you can do to help with our campaign, please fill out this short form.
+Learn More Here Rigsby 4 Representative Paid for by Friends of Amy Rigsby Location: Fairfield, Licking, & Perry Counties, Ohio Contact: AmyR4Ohio@gmail.com Send Donation Checks to: Friends of Amy Rigsby, P.O.
+Box 43, Amanda, OH 43102

@@ -1,5 +1,5 @@
-Karla Kemp
-I have accepted the challenge to slide over to the Senate District 18 seat in the drive to flip District 18 blue and get our state under control and back to working for the PEOPLE, not the corporations.
+Home About Me Endorsements Find Karla on Social Media Issues Volunteering Donation 2026 IMPORTANT DATES Karla Kemp I have accepted the challenge to slide over to the Senate District 18 seat in the drive to flip District 18 blue and get our state under control and back to working for the PEOPLE, not the corporations.
+Karla Kemp I have accepted the challenge to slide over to the Senate District 18 seat in the drive to flip District 18 blue and get our state under control and back to working for the PEOPLE, not the corporations.
 And with your help we won the primary!
 Florida communities are strong, resilient, and ready for leadership that actually serves the people.
 Too often, our country has been pulled toward division, fear, and policies that ignore basic rights.
@@ -29,19 +29,11 @@ There is so much more I want to do to restore our state and make Florida Strong 
 I have more to add as there is always more work.
 And, so much to chaos and crises to clean up, but I am up for the challenge.
 I have done a LOT in my life and I am ready to take my experience to the Senate to clean up this mess, restore our freedoms, fight for our environment, and make Florida affordable, again!
-Legislative Environmental Advisor
-~Mortgage Broker
-~Licensed General Lines Property and Casualty Insurance Agent
-~Licensed Life and Health Insurance Agent
-~Licensed Life and Health Insurance Agent
-I am a Jill of all trades and I have “seen it all!” I am also a fighter and a survivor.
+Endorsements Sustainability Consultant Legislative Environmental Advisor ~Mortgage Broker ~Licensed General Lines Property and Casualty Insurance Agent ~Licensed Life and Health Insurance Agent Life Experiences I am a Jill of all trades and I have “seen it all!” I am also a fighter and a survivor.
 I have survived a 2 story fall that almost killed me in the mountains of Colorado and even drove myself 21 miles down a winding canyon road to the hospital with a broken back for help.
 No insurance.
 Recovered on my own, no help.
-I went on to finish my bachelor’s degree at Eckerd College in Business Management and then onto the University of South Florida to complete a dual focus Master’s Degree in Global Sustainability with a foci on Coastal Zone Management, Tourism, and Renewable Energy, all to be able to be of service to our community and make our glorious home better.
-Majored in Political Science, Business Management, (minor) Environmental Studies
-~University of South Florida- Masters - Sustainability> Renewable Energy, Tourism, Coastal Zone Management
-~Medical Librarian
-~Idaho Drug Information Center
-~Idaho State University College of Pharmacy
-~Cardiopulmonary Technician
+I went on to finish my bachelor’s degree at Eckerd College in Business Management and then onto the University of South Florida to complete a dual focus Master’s Degree in Global Sustainability with a foci on Coastal Zone Management, Tourism, and Renewable Energy, all to be able to be of service to our community and make our glorious home better. ~Eckerd College- Bachelors- Majored in Political Science, Business Management, (minor) Environmental Studies ~University of South Florida- Masters - Sustainability> Renewable Energy, Tourism, Coastal Zone Management ~Paramedic/Firefighter ~Medical Librarian ~Idaho Drug Information Center ~Idaho State University College of Pharmacy ~Cardiopulmonary Technician What I Believe In How we can build a better country together!
+Economy Education Healthcare Tax Reforms Environment Would you like to become one of our donors?
+10$ Donation Other Would you like to become one of our donors?
+10$ Donation Other Political advertisement paid for and approved by Karla Kemp, Democrat Candidate, for Florida Senate District 18 Contact ‪(727) 346-6440‬ betheimpact26@gmail.com 3615 49th St N Unit 119 St Petersburg, FL 33710 Threads Threads Popular Links Volunteering Privacy Policy How Can You Help Volunteering Donation

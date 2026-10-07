@@ -1,5 +1,4 @@
-Meet Suzy
-A lifelong Rhode Islander and first-generation college graduate, Suzy received a Bachelor of Arts from Rhode Island College where she served as Class President.
+Skip to Main Content Meet Suzy Priorities Events Volunteer Donate Meet Suzy Priorities Events Volunteer Donate Meet Suzy A lifelong Rhode Islander and first-generation college graduate, Suzy received a Bachelor of Arts from Rhode Island College where she served as Class President.
 Suzy was honored by RIC with the Young Alumna of the Year Award, in recognition of her outstanding service to the college.
 She also received the Emerging Leader Award from Leadership Rhode Island, Rising Star Award from YWCA of RI, and Revitalizing Neighborhoods & Communities Award from the New Leaders Council.
 Suzy earned a Master of Public Administration from Roger Williams University.
@@ -17,28 +16,13 @@ She also sponsors and attends various community and youth sporting events.
 Suzy is married to Adam Stanley, also a lifelong Rhode Islander and first-generation college graduate of Rhode Island College who currently serves as a public-school administrator.
 Together they are committed to raising their nine-year-old son in Smithfield and serving their local community.
 In their free time the whole family enjoys spending time at the Glocester Country Club, gliding along Waterman Lake on their pontoon boat, kayaking, hiking, and playing tennis as a family at Rally Point.
-Political Leadership Experience
-- Smithfield Town Council Member (2012-2022); Served as President for two terms
-- Former Rhode Island Democratic Women’s Caucus Member
-- Former National Committeewoman for the RI Young Democrats
-- Vote, Run, Lead Women’s Political Training, Women’s Fund of RI (2009)
-- Leadership RI Women’s Leadership Series: The Political Process (2006)
-Community Leadership Experience
-- Former Member, Governor's Workforce Board, State of Rhode Island (appointed by Governor Gina Raimondo)
-- Former Rhode Island College Alumni Association Board Member; Served as Secretary for two terms
-- Former Women’s Fund of RI Board Member
-- United Way of RI Young Leaders Circle Co-Founder
-- Leadership Rhode Island (CLRI) graduate
-- Smithfield Preservation Society Member
-- Former Smithfield Affordable Housing Advisory Board Member
-- AmeriCorps Alumna
-Professional Associations
-- Association of Fundraising Professionals (AFP) Member
-- American Society for Public Administration (ASPA) Member
-Awards
-- East Providence High School Hall of Fame Inductee (2018)
-- Revitalizing Neighborhoods and Communities Award, New Leaders Council (2013)
-- Rising Star in Politics, YWCA of RI (2013)
-- Young Alumna of the Year Award, Rhode Island College (2009)
-- Emerging Leader Award, Leadership Rhode Island (2005)
-Suzy's public service began with an AmeriCorps pledge: be present when others aren't, find common ground, and keep going.
+Political Leadership Experience Smithfield Town Council Member (2012-2022); Served as President for two terms Former Rhode Island Democratic Women’s Caucus Member Former National Committeewoman for the RI Young Democrats Vote, Run, Lead Women’s Political Training, Women’s Fund of RI (2009) Leadership RI Women’s Leadership Series: The Political Process (2006) Community Leadership Experience Former Member, Governor's Workforce Board, State of Rhode Island (appointed by Governor Gina Raimondo) Former Rhode Island College Alumni Association Board Member; Served as Secretary for two terms Former Women’s Fund of RI Board Member United Way of RI Young Leaders Circle Co-Founder Leadership Rhode Island (CLRI) graduate Smithfield Preservation Society Member Former Smithfield Affordable Housing Advisory Board Member AmeriCorps Alumna Professional Associations Association of Fundraising Professionals (AFP) Member American Society for Public Administration (ASPA) Member Awards East Providence High School Hall of Fame Inductee (2018) Revitalizing Neighborhoods and Communities Award, New Leaders Council (2013) Rising Star in Politics, YWCA of RI (2013) Young Alumna of the Year Award, Rhode Island College (2009) Emerging Leader Award, Leadership Rhode Island (2005) Suzy's Starting Point Suzy's public service began with an AmeriCorps pledge: be present when others aren't, find common ground, and keep going.
+Contribute Help Her, Help You Your contribution of any amount helps Suzy reach more voters and share her vision to make our community stronger and our state more affordable.
+Make a Donation Get Involved This Is Our Campaign Whether it's making calls, hosting a gathering, or displaying a yard sign, every bit of help brings us closer to Suzy winning this election for District 53.
+Volunteer Now Join the Campaign Whether you can make a few phone calls to people you know or just stop in for coffee and conversation, there's a place for you on this campaign.
+Let’s talk about what matters to Smithfield and Glocester, at a local coffee shop.
+Every month I sit down with neighbors to talk about schools, affordability, and whatever's on your mind.
+Just a conversation with no agenda or pitch.
+Event Details Get Involved A Smithfield neighbor, a proven leader, ready for the State House.
+District 53, Smithfield & Glocester.
+Navigation Meet Suzy Priorities Events Contact Send an Email 401-243-5744 Get Involved Volunteer Donate Social Facebook Instagram © Friends of Suzy Alba Website Design by LaRose WebWorks

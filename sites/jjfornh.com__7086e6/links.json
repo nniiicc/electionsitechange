@@ -1,13 +1,74 @@
 [
-"http://html5up.net/",
-"https://facebook.com/people/JJ-DeFeo/61590853977395",
-"https://instagram.com/jjfornh",
-"https://iwillvote.com/?state=NH",
-"https://jjfornh.com/choice.html",
-"https://jjfornh.com/contact.html",
-"https://jjfornh.com/donate.html",
-"https://jjfornh.com/endorsements.html",
-"https://jjfornh.com/index.html",
-"https://jjfornh.com/policies.html",
-"https://jjfornh.com/volunteer.html"
+{
+"text": "About Me & Why To Choose Me",
+"href": "https://jjfornh.com/choice.html"
+},
+{
+"text": "Contact Me",
+"href": "https://jjfornh.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://jjfornh.com/donate.html"
+},
+{
+"text": "Donate If you’re able, click here to go to my donation page. Every dollar goes a long way.",
+"href": "https://jjfornh.com/donate.html"
+},
+{
+"text": "Email",
+"href": "mailto:jjdefeofornh@gmail.com"
+},
+{
+"text": "Endorsements",
+"href": "https://jjfornh.com/endorsements.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/JJ-DeFeo/61590853977395/"
+},
+{
+"text": "HTML5 UP",
+"href": "http://html5up.net"
+},
+{
+"text": "Home",
+"href": "https://jjfornh.com/index.html"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/jjfornh"
+},
+{
+"text": "My Policies",
+"href": "https://jjfornh.com/policies.html"
+},
+{
+"text": "Phone",
+"href": "tel:6035058156"
+},
+{
+"text": "Policies",
+"href": "https://jjfornh.com/policies.html"
+},
+{
+"text": "Volunteer",
+"href": "https://jjfornh.com/volunteer.html"
+},
+{
+"text": "Who's Endorsed Me",
+"href": "https://jjfornh.com/endorsements.html"
+},
+{
+"text": "Why I'm The Right Choice",
+"href": "https://jjfornh.com/choice.html"
+},
+{
+"text": "[image] JJ DeFeo for Fremont NH State House District RO-7",
+"href": "https://jjfornh.com/index.html"
+},
+{
+"text": "one vote away",
+"href": "https://iwillvote.com/?state=NH"
+}
 ]

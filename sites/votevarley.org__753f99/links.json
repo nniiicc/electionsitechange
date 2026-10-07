@@ -1,15 +1,70 @@
 [
-"https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx",
-"https://facebook.com/profile.php?id=61592345815629",
-"https://secure.actblue.com/donate/karen-varley-hd23-2026",
-"https://sos.iowa.gov/elections-voting",
-"https://voterready.iowa.gov/",
-"https://voterready.iowa.gov/registertovote",
-"https://voterready.iowa.gov/voting-absentee",
-"https://votevarley.org/",
-"https://votevarley.org/_files/ugd/bb9d6e_d3379e673741477e88819308ab17a394.pdf",
-"https://votevarley.org/about",
-"https://votevarley.org/get-involved",
-"https://votevarley.org/issues",
-"https://votevarley.org/privacy-policy"
+{
+"text": "ABOUT",
+"href": "https://www.votevarley.org/about"
+},
+{
+"text": "Back to Top",
+"href": "https://www.votevarley.org"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://voterready.iowa.gov/"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://voterready.iowa.gov/registertovote/"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://voterready.iowa.gov/voting-absentee/"
+},
+{
+"text": "CLICKING HERE.",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/karen-varley-hd23-2026"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.votevarley.org/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.votevarley.org"
+},
+{
+"text": "ISSUES",
+"href": "https://www.votevarley.org/issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.votevarley.org/issues"
+},
+{
+"text": "MORE INFO",
+"href": "https://sos.iowa.gov/elections-voting"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votevarley.org/privacy-policy"
+},
+{
+"text": "READ MORE",
+"href": "https://www.votevarley.org/about"
+},
+{
+"text": "VIEW MAP",
+"href": "https://www.votevarley.org/_files/ugd/bb9d6e_d3379e673741477e88819308ab17a394.pdf"
+},
+{
+"text": "[image: Campaign logo for Karen Varley]",
+"href": "https://www.votevarley.org"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61592345815629"
+}
 ]

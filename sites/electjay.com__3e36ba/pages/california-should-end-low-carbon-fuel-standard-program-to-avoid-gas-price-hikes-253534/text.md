@@ -1,4 +1,4 @@
-Californians pay some of the highest gas prices in the country.
+Skip to content Search for: Home About Endorsements Issues Media Contribute Home About Endorsements Issues Media Contribute Op/Ed: California Should End Low-Carbon Fuel Standard Program to Avoid Gas Price Hikes experienced team Cursus ultrices diam digital solutions Magna augue temp get 24/7 support Nunc quisa volutpat Californians pay some of the highest gas prices in the country.
 In fact, it is not uncommon for California residents to pay 70 cents more per gallon than the national average.
 With oil prices continuing to drop, it is extremely frustrating not to see a significant corresponding change in gas prices in our state.
 This is largely attributable to a number of California policies designed to discourage gas purchases and reduce petroleum consumption.
@@ -12,8 +12,7 @@ To further complicate the issue, California uses different fuel blends depending
 The so-called “winter” blend is a less expensive mix of fuel components.
 However, this fuel will boil and evaporate in hot conditions, so a purer, more expensive blend must be used during the summer months.
 The act of switching between these fuel blends every spring results in an annual spike in gas prices.
-In addition, since our fuel standards are much stricter than other states, there are few refineries out of state that are equipped to produce our fuel blend, isolating California as a “fuel island.”
-All of this leaves gas prices especially sensitive to disruptions in fuel production.
+In addition, since our fuel standards are much stricter than other states, there are few refineries out of state that are equipped to produce our fuel blend, isolating California as a “fuel island.” All of this leaves gas prices especially sensitive to disruptions in fuel production.
 Last February, an explosion shut down the Exxon-Mobil plant in Torrance (which provides 20 percent of the fuel supply of Southern California).
 With limited options to relieve this strain on our fuel production, gas prices skyrocketed.
 While the Torrance refinery is set to come back online in March, providing some price relief, another California policy stands to make that relief short-lived.
@@ -28,5 +27,4 @@ Ultimately, the LCFS program is designed to continuously increase requirements i
 In essence, the governor has given CARB (an unelected body) the ability to ratchet up standards with the goal of making gasoline more expensive in order to reduce petroleum use.
 The continuing implementation of policies like these, with little regard to the financial impact on consumers, demonstrates a marked disconnect between the priorities of policymakers and the realities of the working people of California.
 The state should strongly consider ending the LCFS program.
-Otherwise Californians will face skyrocketing gas prices and our state will be further isolated as a “fuel island.”
-Assemblyman Jay Obernolte, R-Hesperia, represents the 33rd District.
+Otherwise Californians will face skyrocketing gas prices and our state will be further isolated as a “fuel island.” Assemblyman Jay Obernolte, R-Hesperia, represents the 33rd District. about avada business Integer euismod lacus magna uisque curd metus luctus vitae pharet auctor mattis semat. read more 2026 Business Conference book your seat 15-18 December New York City Info@ElectJay.com PAID FOR BY OBERNOLTE FOR CONGRESS Page load link Go to Top

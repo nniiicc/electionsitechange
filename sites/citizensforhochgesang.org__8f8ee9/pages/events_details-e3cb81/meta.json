@@ -1,10 +1,13 @@
 {
  "description": "Detailed campaign event information, updates, and related links.",
  "final_url": "https://citizensforhochgesang.org/events/details",
- "paid_for_by": "Paid for by Citizens For Hochgesang \u2190 Back to Events Event Details Detailed event information Review full event context, details, and related links for",
+ "fingerprint": "d359ec6c0f9b01397654b4fc0c161984179df392",
+ "format": 3,
+ "paid_for_by": "Paid for by Citizens For Hochgesang ← Back to Events Event Details Detailed event information Review full event context, details, and related links for each campaign stop",
  "title": "Event Details | Brad Hochgesang for State Senate",
  "years_mentioned": [
   "2025",
-  "2026"
+  "2026",
+  "2031"
  ]
 }

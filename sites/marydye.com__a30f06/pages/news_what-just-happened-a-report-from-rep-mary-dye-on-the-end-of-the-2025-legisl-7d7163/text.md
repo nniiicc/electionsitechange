@@ -1,6 +1,5 @@
-What Just Happened: A Report from Rep.
-Mary Dye on the End of the 2025 Legislature
-Rep.
+0 Skip to Content Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate What Just Happened: A Report from Rep.
+Mary Dye on the End of the 2025 Legislature Apr 28 Written By Jim Hedemark Rep.
 Mary Dye // 26 April 2025 // OLYMPIA WASH — As we approach completion of our work in the Legislature on April 27, we face the daunting task of addressing a looming budget shortfall.
 Tax proposals must pass to fill a budget hole of $12 billion to $20 billion.
 There will be a rough-and-tumble debate, and in the end, there will be little common ground between the two caucuses.
@@ -14,8 +13,7 @@ I can see the train wreck coming to our communities, and it is tremendously diff
 But last week, exhausted from the long days and late nights, I received a stack of letters from a group of sophomore high school students from Sprague, requesting we make Holocaust education mandatory.
 One student, in particular, wrote so eloquently about her experience with the study and extensive reading of history.
 Her extraordinary letter stated why it is relevant.
-Her reasons: “that faith has power, survivors should never be forgotten, and patterns of the Holocaust can be applied today.”
-Through this study, she found that faith is essential to her personally.
+Her reasons: “that faith has power, survivors should never be forgotten, and patterns of the Holocaust can be applied today.” Through this study, she found that faith is essential to her personally.
 She concluded that the study of the Holocaust taught her not to hate, but to love and cherish everything and everyone she has in her life, and to be thankful.
 Our little House Republican caucus has a spirit of hope and light that can only be described as faith.
 We have intentionally preserved relationships, not letting the hatred of the policy harm the people we serve alongside.
@@ -25,3 +23,4 @@ In the crucible of human interaction, struggling against the eternal story of a 
 EDITOR’S NOTE: First appointed to the House of Representatives in 2015, Rep.
 Mary Dye is serving her sixth term, representing the 9th Legislative District.
 She is the ranking member of the House Environment and Energy Committee and serves on the House Appropriations and Capital Budget committees.
+Jim Hedemark Previous Previous Dedication of the Lift at Pataha Flour Mill Next Next Farm Bureau Acceptance Speech for Legislator of the Year 2024 Committee to Elect Mary Dye Republican for Washington State Representative District 9, Position 1 PO Box 336 Pomeroy, WA 99347 electmarydye@gmail.com Meet Mary Priorities District News Gallery

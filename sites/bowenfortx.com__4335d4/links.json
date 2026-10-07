@@ -1,21 +1,98 @@
 [
-"http://@sbwnhtx/",
-"http://x.com/sbwnhtx",
-"https://bowenfortx.com/",
-"https://bowenfortx.com/endorsements",
-"https://bowenfortx.com/issues",
-"https://bowenfortx.com/meet-scott",
-"https://bowenfortx.com/privacy-policy",
-"https://bowenfortx.com/wp-content/uploads/2025/05/Scott-Bowen-Campaigning.jpg",
-"https://bowenfortx.com/wp-content/uploads/2025/05/Scott-Bowen-SB.jpg",
-"https://bowenfortx.com/wp-content/uploads/2025/05/Scott-Bowen-SREC.jpg",
-"https://bowenfortx.com/wp-content/uploads/2025/05/Scott-Bowen-Senate-Testimony.jpg",
-"https://bowenfortx.com/wp-content/uploads/2025/05/Scott-Bowen-Trustee.jpg",
-"https://facebook.com/bowenfortexas",
-"https://secure.winred.com/bowen-for-texas/contribute",
-"https://secure.winred.com/bowen-for-texas/contribute?exitintent=true&amount=100",
-"https://secure.winred.com/bowen-for-texas/contribute?exitintent=true&amount=1000",
-"https://secure.winred.com/bowen-for-texas/contribute?exitintent=true&amount=250",
-"https://secure.winred.com/bowen-for-texas/contribute?exitintent=true&amount=50",
-"https://secure.winred.com/bowen-for-texas/contribute?exitintent=true&amount=500"
+{
+"text": "$100",
+"href": "https://secure.winred.com/bowen-for-texas/contribute?exitintent=true&amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/bowen-for-texas/contribute?exitintent=true&amount=1000"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/bowen-for-texas/contribute?exitintent=true&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/bowen-for-texas/contribute?exitintent=true&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/bowen-for-texas/contribute?exitintent=true&amount=500"
+},
+{
+"text": "All Endorsements",
+"href": "https://bowenfortx.com/endorsements/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/bowen-for-texas/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://bowenfortx.com/endorsements/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/bowenfortexas"
+},
+{
+"text": "Issues",
+"href": "https://bowenfortx.com/issues/"
+},
+{
+"text": "Meet Scott",
+"href": "https://bowenfortx.com/meet-scott/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/bowen-for-texas/contribute"
+},
+{
+"text": "Privacy Policy & Terms of Use",
+"href": "https://bowenfortx.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://bowenfortx.com/meet-scott/"
+},
+{
+"text": "Read More On The Issues",
+"href": "https://bowenfortx.com/issues/"
+},
+{
+"text": "Read Our Privacy Policy",
+"href": "https://bowenfortx.com/privacy-policy/"
+},
+{
+"text": "X-twitter",
+"href": "http://@sbwnhtx"
+},
+{
+"text": "X-twitter",
+"href": "http://x.com/sbwnhtx"
+},
+{
+"text": "[image]",
+"href": "https://bowenfortx.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bowenfortx.com/wp-content/uploads/2025/05/Scott-Bowen-Campaigning.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://bowenfortx.com/wp-content/uploads/2025/05/Scott-Bowen-SB.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://bowenfortx.com/wp-content/uploads/2025/05/Scott-Bowen-SREC.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://bowenfortx.com/wp-content/uploads/2025/05/Scott-Bowen-Senate-Testimony.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://bowenfortx.com/wp-content/uploads/2025/05/Scott-Bowen-Trustee.jpg"
+}
 ]

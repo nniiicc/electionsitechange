@@ -1,6 +1,4 @@
-(907) 350-2746
-jim@alaskansforarlington.com
-My name is Jim Arlington, and I am running to represent Eagle River in the Alaska House of Representatives.
+(907) 350-2746 jim@alaskansforarlington.com Home Meet Jim Arlington Issues Community About Me Volunteer Donate Meet Jim Arlington My name is Jim Arlington, and I am running to represent Eagle River in the Alaska House of Representatives.
 I am a 40-year resident of Eagle River.
 I raised a family here, and my daughter and grandchildren still live here.
 I love my community and I love Alaska.
@@ -18,14 +16,14 @@ Alaskans are independent people looking for a chance to make our own way.
 We take pride in meeting challenges.
 Today, Alaskans wonder what's going to happen to them and their families, their homes and jobs.
 I offer this encouragement: we've been through it before.
-The answer is people, people with imagination, energy, and a real stake in Alaska's future
-I will work hard to:
-- Make Alaskan jobs and benefits more desirable to attract and maintain a quality workforce.
-- Stem the decline in our schools.
-When adjusted for inflation, our school funding is only 73 percent of what it was 15 years ago.
-- Fill the vacancies in our law enforcement ranks.
+The answer is people, people with imagination, energy, and a real stake in Alaska's future Renew or apply for an absentee ballot.
+I will work hard to: Make Alaskan jobs and benefits more desirable to attract and maintain a quality workforce.
+Stem the decline in our schools.
+When adjusted for inflation, our school funding is only 73 percent of what it was #ago.
+Fill the vacancies in our law enforcement ranks.
 Anchorage Police has over 50 vacancies for sworn officers.
 We cannot improve public safety if we don’t have enough police officers.
-- Secure the resources to maintain our transportation infrastructure, including snow removal.
-- A sustainable state budget.
-- Protect the Permanent Fund.
+Secure the resources to maintain our transportation infrastructure, including snow removal.
+A sustainable state budget.
+Protect the Permanent Fund.
+(907) 350-2746 jim@alaskansforarlington.com Paid for by Alaskans for Arlington - 9449 Wren Circle - Eagle River, AK 99577 - Privacy policy - Terms and Conditions

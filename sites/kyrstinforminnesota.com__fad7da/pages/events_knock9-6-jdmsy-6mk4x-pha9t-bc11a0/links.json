@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Senate+District+43+DFL+Working+Families+Picnic&dates=20260920T220000Z%2F20260921T000000Z&location=4401+Xylon+Avenue+North%2C+New+Hope%2C+Minnesota%2C+55428",
-"http://maps.google.com/?q=4401+Xylon+Avenue+North+New+Hope%2C+Minnesota%2C+55428",
-"https://facebook.com/kyrstinforminnesota",
-"https://instagram.com/kyrstinforminnesota",
-"https://kyrstinforminnesota.com/",
-"https://kyrstinforminnesota.com/cart",
-"https://kyrstinforminnesota.com/endorsements",
-"https://kyrstinforminnesota.com/events",
-"https://kyrstinforminnesota.com/events/knock9-6-gtcsd-76c9h-8p3cp-ayes2-ggrlt-hm8f7",
-"https://kyrstinforminnesota.com/events/knock9-6-jdmsy-6mk4x",
-"https://kyrstinforminnesota.com/events/knock9-6-jdmsy-6mk4x-pha9t?format=ical",
-"https://kyrstinforminnesota.com/get-involved",
-"https://kyrstinforminnesota.com/meet-kyrstin",
-"https://kyrstinforminnesota.com/news",
-"https://kyrstinforminnesota.com/priorities",
-"https://kyrstinforminnesota.com/vote",
-"https://secure.actblue.com/donate/kyrstin-schuette-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4401+xylon+avenue+north+new+hope%2C+minnesota%2C+55428+"
+},
+{
+"text": "0",
+"href": "https://kyrstinforminnesota.com/cart"
+},
+{
+"text": "About",
+"href": "https://kyrstinforminnesota.com/meet-kyrstin"
+},
+{
+"text": "Back to All Events",
+"href": "https://kyrstinforminnesota.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kyrstin-schuette-1"
+},
+{
+"text": "Endorsements",
+"href": "https://kyrstinforminnesota.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://kyrstinforminnesota.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://kyrstinforminnesota.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Senate+District+43+DFL+Working+Families+Picnic&dates=20260920T220000Z%2F20260921T000000Z&location=4401+Xylon+Avenue+North%2C+New+Hope%2C+Minnesota%2C+55428"
+},
+{
+"text": "ICS",
+"href": "https://kyrstinforminnesota.com/events/knock9-6-jdmsy-6mk4x-pha9t?format=ical"
+},
+{
+"text": "News & Forums",
+"href": "https://kyrstinforminnesota.com/news"
+},
+{
+"text": "Next Next September 22 Coordinated Campaign Phone Bank",
+"href": "https://kyrstinforminnesota.com/events/knock9-6-gtcsd-76c9h-8p3cp-ayes2-ggrlt-hm8f7"
+},
+{
+"text": "Previous Previous September 20 Coordinated Campaign Door Knock",
+"href": "https://kyrstinforminnesota.com/events/knock9-6-jdmsy-6mk4x"
+},
+{
+"text": "Priorities",
+"href": "https://kyrstinforminnesota.com/priorities"
+},
+{
+"text": "Vote",
+"href": "https://kyrstinforminnesota.com/vote"
+},
+{
+"text": "[image: Kyrstin for Minnesota]",
+"href": "https://kyrstinforminnesota.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kyrstinforminnesota"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kyrstinforminnesota/"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@Kyrstinforminnesota.com"
+}
 ]

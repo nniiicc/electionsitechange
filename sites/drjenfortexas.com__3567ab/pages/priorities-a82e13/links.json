@@ -1,10 +1,38 @@
 [
-"https://drjenfortexas.com/",
-"https://drjenfortexas.com/about",
-"https://drjenfortexas.com/contact",
-"https://drjenfortexas.com/donate",
-"https://drjenfortexas.com/endorsements",
-"https://drjenfortexas.com/get-involved",
-"https://drjenfortexas.com/priorities",
-"https://instagram.com/drjenfortexas"
+{
+"text": "About",
+"href": "https://www.drjenfortexas.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.drjenfortexas.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.drjenfortexas.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.drjenfortexas.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.drjenfortexas.com/get-involved"
+},
+{
+"text": "Priorities",
+"href": "https://www.drjenfortexas.com/priorities"
+},
+{
+"text": "Reach Out",
+"href": "https://www.drjenfortexas.com/contact"
+},
+{
+"text": "[image: Dr Jen For Texas]",
+"href": "https://www.drjenfortexas.com"
+},
+{
+"text": "[image: instagram-white]",
+"href": "https://www.instagram.com/drjenfortexas/"
+}
 ]

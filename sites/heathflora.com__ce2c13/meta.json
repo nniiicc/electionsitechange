@@ -1,9 +1,12 @@
 {
- "description": "Thanks for visiting our site! It\u2019s an honor to represent our communities in the State Assembly. Replace what is currently there.",
+ "description": "Thanks for visiting our site! It’s an honor to represent our communities in the State Assembly. Replace what is currently there.",
  "final_url": "https://heathflora.com/",
- "paid_for_by": "Paid for by Heath Flora for Assembly 2026 \u00b7 Website by Hill Media Group",
+ "fingerprint": "9070012659958bde85ba64fb6bf1c5fcb8a68ff8",
+ "format": 3,
+ "paid_for_by": "Paid for by Heath Flora for Assembly 2026 · Website by Hill Media Group",
  "title": "Heath Flora for California State Assembly 2024",
  "years_mentioned": [
-  "2016"
+  "2016",
+  "2026"
  ]
 }

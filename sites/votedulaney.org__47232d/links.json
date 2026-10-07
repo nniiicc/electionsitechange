@@ -1,24 +1,110 @@
 [
-"https://campaignpartner.com/",
-"https://votedulaney.org/",
-"https://votedulaney.org/contact",
-"https://votedulaney.org/contribute",
-"https://votedulaney.org/contribute?amount=10",
-"https://votedulaney.org/contribute?amount=100",
-"https://votedulaney.org/contribute?amount=1000",
-"https://votedulaney.org/contribute?amount=25",
-"https://votedulaney.org/contribute?amount=250",
-"https://votedulaney.org/contribute?amount=50",
-"https://votedulaney.org/contribute?amount=500",
-"https://votedulaney.org/events",
-"https://votedulaney.org/home?p=b0b1191e785b4b9bacc5804d5ac61c54",
-"https://votedulaney.org/issues",
-"https://votedulaney.org/meet_cleophus",
-"https://votedulaney.org/news",
-"https://votedulaney.org/photos",
-"https://votedulaney.org/privacy-policy",
-"https://votedulaney.org/view-endorsements",
-"https://votedulaney.org/volunteer",
-"https://votedulaney.org/vote",
-"https://votedulaney.org/yard-sign"
+{
+"text": "$#",
+"href": "https://votedulaney.org/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://votedulaney.org/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://votedulaney.org/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://votedulaney.org/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://votedulaney.org/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://votedulaney.org/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://votedulaney.org/contribute?amount=1000"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://votedulaney.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://votedulaney.org/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://votedulaney.org/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://votedulaney.org/events"
+},
+{
+"text": "Home",
+"href": "https://www.votedulaney.org/home?p=b0b1191e785b4b9bacc5804d5ac61c54"
+},
+{
+"text": "Issues",
+"href": "https://votedulaney.org/issues"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://votedulaney.org/volunteer"
+},
+{
+"text": "Meet Cleophus",
+"href": "https://votedulaney.org/meet_cleophus"
+},
+{
+"text": "Need Voting Information? Register & Find Your Polling Location Click Here for Information",
+"href": "https://votedulaney.org/vote"
+},
+{
+"text": "News",
+"href": "https://votedulaney.org/news"
+},
+{
+"text": "Other",
+"href": "https://votedulaney.org/contribute"
+},
+{
+"text": "Photos",
+"href": "https://votedulaney.org/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votedulaney.org/privacy-policy"
+},
+{
+"text": "Show Your Support! Request a Yard Sign Click Here to Request a Sign",
+"href": "https://votedulaney.org/yard-sign"
+},
+{
+"text": "Support Our Campaign Make a Contribution Today Click Here to Contribute",
+"href": "https://votedulaney.org/contribute"
+},
+{
+"text": "Volunteer",
+"href": "https://votedulaney.org/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://votedulaney.org/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://votedulaney.org/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://votedulaney.org/"
+}
 ]

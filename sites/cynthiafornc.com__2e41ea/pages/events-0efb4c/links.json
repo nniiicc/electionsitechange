@@ -1,15 +1,58 @@
 [
-"https://cynthiafornc.com/",
-"https://cynthiafornc.com/events",
-"https://cynthiafornc.com/events/0504",
-"https://cynthiafornc.com/events/091726",
-"https://cynthiafornc.com/meet-rep-ball",
-"https://cynthiafornc.com/new-district-49",
-"https://cynthiafornc.com/news",
-"https://cynthiafornc.com/privacy-policy",
-"https://docs.google.com/forms/d/e/1FAIpQLSewNaLnRfXkipTd0wVo2lFvnvb4C6uM8CLwfXaF-X94UwOBhg/viewform",
-"https://facebook.com/Cynthia-Ball-1017611451594384",
-"https://secure.ngpvan.com/AV8TSu6kl0CnGehl7IoEpg2",
-"https://secure.ngpvan.com/VXeO9udqs06f9W7H7wVhCQ2",
-"https://twitter.com/CynthiaforNC"
+{
+"text": "CONTACT",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSewNaLnRfXkipTd0wVo2lFvnvb4C6uM8CLwfXaF-X94UwOBhg/viewform"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/VXeO9udqs06f9W7H7wVhCQ2"
+},
+{
+"text": "EVENTS",
+"href": "https://www.cynthiafornc.com/events"
+},
+{
+"text": "Fundraiser for Rep Ball with Cong. Deborah Ross",
+"href": "https://www.cynthiafornc.com/events/091726"
+},
+{
+"text": "Fundraiser for Rep. Ball with Executive VP and Managing Director of The Mellman Group Michael Bloomfield",
+"href": "https://www.cynthiafornc.com/events/0504"
+},
+{
+"text": "HOUSE DISTRICT 49",
+"href": "https://www.cynthiafornc.com/new-district-49"
+},
+{
+"text": "MEET CYNTHIA",
+"href": "https://www.cynthiafornc.com/meet-rep-ball"
+},
+{
+"text": "NEWS",
+"href": "https://www.cynthiafornc.com/news"
+},
+{
+"text": "Privacy Policy & Terms of Service",
+"href": "https://www.cynthiafornc.com/privacy-policy"
+},
+{
+"text": "SERVING YOU",
+"href": "https://www.cynthiafornc.com"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/AV8TSu6kl0CnGehl7IoEpg2"
+},
+{
+"text": "[image: facebook]",
+"href": "https://www.facebook.com/Cynthia-Ball-1017611451594384/"
+},
+{
+"text": "[image: twitter]",
+"href": "https://twitter.com/CynthiaforNC"
+},
+{
+"text": "info@CynthiaForNC.com",
+"href": "mailto:info@CynthiaForNC.com"
+}
 ]

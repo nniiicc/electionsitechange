@@ -1,749 +1,170 @@
-Darby Hills’ Priorities Put Into Action
-Raised by a single mom, Senator Darby Hills learned early that when something needs to get done, you don’t sit around waiting for someone else to do it.
+Skip to content Main Menu Home Issues Issues Make Life More Affordable Keep Our Communities Safe Stand for Common Sense About Meet Darby Darby's Endorsements Darby's District Map Darby's Political Videos Darby's Legislative Videos Darby's Legislation Privacy Policy EVENTS News Get Involved Volunteer Request a Yard Sign Events & Volunteer Opportunities Contact the Campaign Vote Contact Donate Home Issues Stand for Common Sense Over Extreme Agendas Keep Our Communities Safe for Families and Children Make Life More Affordable for Struggling Working Families About Meet Darby Darby’s Endorsements District Map Darby’s Videos Darby’s Political Videos Darby’s Videos Senator Darby Hills’ Legislative Priorities Privacy Policy Events News Latest News WGN News Boy, 14, dies after e-moto crash with SUV in Wauconda Third Hoffman Estates data center faces opposition from nearby residents Legislation to Access Foster Care History NBC 5 Chicago Bill aims to close ‘loophole’ for those convicted of secretly videotaping minors CBS Chicago CBS Chicago Senator Darby Hills Responds to Recent Teacher/Coach Arrests, Discussed SB2381 WCIA News Illinois Senate Republicans unveil plan combatting child trafficking, exploitation WAND News New Illinois law requires diaper ingredients transparency Healing Through History: IL Senate passes bill helping families receive foster care records IL Senate GOP introduce bills to protect children from exploitation FOX 32 Chicago Child seriously hurt in Crystal Lake e-bike crash as calls grow for tougher safety rules State Senator Darby Hills Calls for Action on SB2381 Following Mundelein Teacher/Coach’s Arrest on FOX32 Illinois Insider Senator Darby Hills on Transparency in Illinois Senator Darby Hills’ aiming to make life more affordable here in Illinoi Senator Darby Hills and Melissa Khamkhounnavong discuss SB2895 ABC 7 Chicago Senator Hills Highlights Need for Statewide E-Bike Safety Standards Get Involved Request a Yard Sign Upcoming Events & Volunteer Opportunities Contact Voter Info Contribute Contact Home Issues Stand for Common Sense Over Extreme Agendas Keep Our Communities Safe for Families and Children Make Life More Affordable for Struggling Working Families About Meet Darby Darby’s Endorsements District Map Darby’s Videos Darby’s Political Videos Darby’s Videos Senator Darby Hills’ Legislative Priorities Privacy Policy Events News Latest News WGN News Boy, 14, dies after e-moto crash with SUV in Wauconda Third Hoffman Estates data center faces opposition from nearby residents Legislation to Access Foster Care History NBC 5 Chicago Bill aims to close ‘loophole’ for those convicted of secretly videotaping minors CBS Chicago CBS Chicago Senator Darby Hills Responds to Recent Teacher/Coach Arrests, Discussed SB2381 WCIA News Illinois Senate Republicans unveil plan combatting child trafficking, exploitation WAND News New Illinois law requires diaper ingredients transparency Healing Through History: IL Senate passes bill helping families receive foster care records IL Senate GOP introduce bills to protect children from exploitation FOX 32 Chicago Child seriously hurt in Crystal Lake e-bike crash as calls grow for tougher safety rules State Senator Darby Hills Calls for Action on SB2381 Following Mundelein Teacher/Coach’s Arrest on FOX32 Illinois Insider Senator Darby Hills on Transparency in Illinois Senator Darby Hills’ aiming to make life more affordable here in Illinoi Senator Darby Hills and Melissa Khamkhounnavong discuss SB2895 ABC 7 Chicago Senator Hills Highlights Need for Statewide E-Bike Safety Standards Get Involved Request a Yard Sign Upcoming Events & Volunteer Opportunities Contact Voter Info Contribute Contact Senator Darby Hills’ Legislative Priorities Darby Hills’ Priorities Put Into Action Raised by a single mom, Senator Darby Hills learned early that when something needs to get done, you don’t sit around waiting for someone else to do it.
 You roll up your sleeves, get to work, and see it through.
 That lesson has stayed with Darby throughout her life and continues to shape how she serves in the Illinois Senate.
 Today, she is putting that same work ethic toward the issues that matter most to Illinois families, fighting to lower property taxes, reduce prescription drug costs, ease financial pressures on seniors, expand access to quality childcare, support small businesses and job creators, strengthen public safety and education, improve services for individuals with disabilities, and stand up for our veterans.
 You can see that commitment reflected in her legislative work below, with legislation she is sponsoring and co-sponsoring to tackle the issues families and communities are facing every day.
-| LOWERING COSTS FOR FAMILIES |
-Legislation focused on reducing everyday expenses, including utilities, prescription drugs, diapers, gasoline, healthcare, and tax relief.
-SB2687 – Home Utility Relief Act
-Co-Sponsor
-Creates utility rebates to help families struggling with rising utility bills.
-Illinois General Assembly – Bill Status of SB2687
-________________________________________________________________________
-SB2763 – ACA Premium Tax Deduction
-Co-Sponsor
-Creates income tax relief tied to Affordable Care Act marketplace premiums and qualifying out-of-pocket medical expenses.
-Illinois General Assembly – Bill Status of SB2763
-________________________________________________________________________
-SB3792 – Income Tax Deduction for Tipped Wages
-Co-Sponsor
-Creates an income tax deduction for gratuities included in a taxpayer’s federal adjusted gross income.
-Illinois General Assembly – Bill Status of SB3792
-________________________________________________________________________
-SB3851 – Prescription Drug Tax Elimination
-Sponsor
-Eliminates the sales tax on prescription drugs and cancer treatments while protecting local government revenue.
-Illinois General Assembly – Bill Status of SB3851
-________________________________________________________________________
-SB3869 – Diaper Tax Exemption
-Sponsor
-Exempts diapers for infants, children, and adults from state sales tax to reduce costs for families.
-Illinois General Assembly – Bill Status of SB3869
-________________________________________________________________________
-SB4205 – Temporary Motor Fuel Tax Reduction
-Co-Sponsor
-Temporarily reduces motor fuel and gasohol taxes to provide relief at the pump.
-Illinois General Assembly – Bill Status of SB4205
-________________________________________________________________________
-| PROPERTY TAX RELIEF & HOMEOWNERS |
-Legislation focused on lowering property tax burdens, strengthening homeowner relief, and improving long-term housing stability.
-SB0216 – PTELL Reform
-Co-Sponsor
-Modifies Property Tax Extension Limitation Law provisions to strengthen taxpayer protections.
-Illinois General Assembly – Bill Status of SB0216
-________________________________________________________________________
-SB1644 – Homeowner Property Tax Relief
-Co-Sponsor
-Strengthens property tax relief for homeowners as part of a broader effort to make Illinois more affordable.
-Illinois General Assembly – Bill Status of SB1644
-________________________________________________________________________
-SB2246 – Property Tax Assessment Limit
-Co-Sponsor
-Places additional limits on property tax assessment increases.
-Illinois General Assembly – Bill Status of SB2246
-________________________________________________________________________
-SB2745 – Property Tax Relief for Disabled Persons
-Sponsor
-Provides property tax relief for qualifying residents with disabilities.
-Illinois General Assembly – Bill Status of SB2745
-________________________________________________________________________
-SB3401 – Condo Reserve Study Requirements
-Co-Sponsor
-Updates condominium reserve study requirements to improve transparency and long-term property stability.
-Illinois General Assembly – Bill Status of SB3401
-________________________________________________________________________
-SB3540 – Property Tax Growth Limits
-Co-Sponsor
-Limits property tax growth by placing additional limits on assessments and strengthening taxpayer protections.
-Illinois General Assembly – Bill Status of SB3540
-________________________________________________________________________
-SB3781 – Refundable Property Tax Credit
-Co-Sponsor
-Makes the residential property tax credit refundable so taxpayers can receive the full benefit of the credit.
-Illinois General Assembly – Bill Status of SB3781
-________________________________________________________________________
-SB3782 – Fairness in Property Tax Foreclosure Task Force
-Co-Sponsor
-Creates a task force to study property tax foreclosure issues and recommend policy solutions.
-Illinois General Assembly – Bill Status of SB3782
-________________________________________________________________________
-SB3844 – PTELL Aggregate Extension Reform
-Sponsor
-Updates Property Tax Extension Limitation Law provisions to provide flexibility while protecting taxpayers.
-Illinois General Assembly – Bill Status of SB3844
-________________________________________________________________________
-SB3848 – Homeowner Insurance Premium Deduction
-Co-Sponsor
-Creates an income tax deduction equal to the increase in homeowner insurance premiums on a primary residence.
-Illinois General Assembly – Bill Status of SB3848
-________________________________________________________________________
-SB3849 – Homestead Exemption CPI Adjustment
-Co-Sponsor
-Indexes the general homestead exemption to inflation so homeowner property tax relief keeps pace with rising costs.
-Illinois General Assembly – Bill Status of SB3849
-________________________________________________________________________
-SB3868 – Property Tax Credit Expansion
-Co-Sponsor
-Doubles the property tax credit from 5% to 10% of property taxes paid.
-Illinois General Assembly – Bill Status of SB3868
-________________________________________________________________________
-| SENIORS & DISABILITY SUPPORT |
-Legislation focused on protecting seniors, residents with disabilities, and vulnerable adults from rising costs and exploitation.
-SB2086 – Senior Assessment Freeze Income Increase
-Co-Sponsor
-Raises the income eligibility limit for the Senior Citizens Assessment Freeze Homestead Exemption and indexes it to inflation.
-Illinois General Assembly – Bill Status of SB2086
-________________________________________________________________________
-SB2746 – Senior Property Tax Freeze Improvements
-Sponsor
-Enhances the senior citizen assessment freeze to better protect older homeowners.
-Illinois General Assembly – Bill Status of SB2746
-________________________________________________________________________
-SB3071 – Adult Protective Services Financial Exploitation Reporting
-Co-Sponsor
-Expands mandated reporting and training requirements to help identify and report financial exploitation of older adults and eligible adults.
-Illinois General Assembly – Bill Status of SB3071
-________________________________________________________________________
-SB3294 – Medicaid Coverage Continuity
-Co-Sponsor
-Protects continued Medicaid coverage for seniors and individuals receiving long-term care services.
-Illinois General Assembly – Bill Status of SB3294
-________________________________________________________________________
-SB3425 – Senior Income Tax Deduction
-Sponsor
-Doubles the income tax deduction for senior citizens age 65 and older.
-Illinois General Assembly – Bill Status of SB3425
-________________________________________________________________________
-SB3872 – Senior Property Tax Elimination
-Co-Sponsor
-Eliminates property taxes for seniors who own their homes free and clear.
-Illinois General Assembly – Bill Status of SB3872
-________________________________________________________________________
-SB4029 – Senior Property Tax Freeze Expansion
-Sponsor
-Increases the income eligibility threshold for the Senior Property Tax Freeze based on inflation, helping more seniors remain eligible for relief.
-Illinois General Assembly – Bill Status of SB4029
-________________________________________________________________________
-HB4911 – Protect Seniors from Financial Fraud
-Co-Sponsor
-Safeguards seniors from financial scams and exploitation.
-Illinois General Assembly – Bill Status of HB4911
-________________________________________________________________________
-| ENERGY, UTILITIES & DATA CENTERS |
-Legislation focused on affordable and reliable energy, local control, responsible data center development, water resources, and grid reliability.
-SB1050 – Data Center Zoning & Siting Standards
-Sponsor
-Allows counties and municipalities to regulate data center construction, siting, water usage, and noise mitigation standards.
-Illinois General Assembly – Bill Status of SB1050
-________________________________________________________________________
-SB3409 – Energy Storage System Safety & Agricultural Protections
-Co-Sponsor
-Strengthens safety, drainage, decommissioning, and agricultural impact standards for energy storage facilities.
-Illinois General Assembly – Bill Status of SB3409
-________________________________________________________________________
-SB3578 – Foreign-Owned Data Center Grid Protection
-Co-Sponsor
-Prevents foreign-owned data centers from overloading the electric grid and driving up costs for consumers.
-Illinois General Assembly – Bill Status of SB3578
-________________________________________________________________________
-SB3580 – Energy Reliability Task Force
-Co-Sponsor
-Creates a task force to monitor energy reliability and support emerging technologies such as carbon capture.
-Illinois General Assembly – Bill Status of SB3580
-________________________________________________________________________
-SB3581 – Greenhouse Gas Regulatory Revisions
-Co-Sponsor
-Reverts certain Environmental Protection Act greenhouse gas provisions to prior language and repeals the statutory definition of clean energy.
-Illinois General Assembly – Bill Status of SB3581
-________________________________________________________________________
-SB3582 – Energy Infrastructure Permitting
-Co-Sponsor
-Streamlines the permitting process for new energy infrastructure projects to help bring additional generation online more quickly.
-Illinois General Assembly – Bill Status of SB3582
-________________________________________________________________________
-SB4004 – Data Center Water Transparency
-Co-Sponsor
-Protects Illinois water resources and increases transparency regarding data center water usage.
-Illinois General Assembly – Bill Status of SB4004
-________________________________________________________________________
-SB4203 – Community Benefits for Data Centers
-Sponsor
-Requires data centers receiving state tax incentives to provide direct benefits to host communities and local homeowners.
-Illinois General Assembly – Bill Status of SB4203
-________________________________________________________________________
-SB4207 – Responsible Data Center Development
-Sponsor
-Strengthens oversight and accountability for data center development to protect communities and infrastructure.
-Illinois General Assembly – Bill Status of SB4207
-________________________________________________________________________
-HB5524 – Utility Fee Transparency Website
-Co-Sponsor
-Requires publication of electric utility charges and fees to improve transparency for ratepayers.
-Illinois General Assembly – Bill Status of HB5524
-________________________________________________________________________
-SB2687 – Home Utility Relief Act
-Co-Sponsor
-Creates utility rebates to help families struggling with rising utility bills.
-Illinois General Assembly – Bill Status of SB2687
-________________________________________________________________________
-| CHILD CARE & EARLY CHILDHOOD SUPPORT |
-Legislation focused on making child care more affordable, strengthening early learning, and supporting providers and working families.
-SB1646 – Early Childhood Educator Tax Credit
-Sponsor
-Creates a tax credit for eligible early childhood teachers and assistants earning $75,000 or less to support and retain childcare professionals.
-Illinois General Assembly – Bill Status of SB1646
-________________________________________________________________________
-SB1647 – Preschool Tax Credit
-Sponsor
-Creates a tax credit for families paying for eligible preschool programs.
-Illinois General Assembly – Bill Status of SB1647
-________________________________________________________________________
-SB2263 – Child Care Tax Credit
-Co-Sponsor
-Creates a child care tax credit tied to the federal child care tax credit for each qualifying child.
-Illinois General Assembly – Bill Status of SB2263
-________________________________________________________________________
-SB2277 – Child Care Tax Credit Expansion
-Sponsor
-Expands employer child care tax credits to encourage businesses to provide child care support for employees.
-Illinois General Assembly – Bill Status of SB2277
-________________________________________________________________________
-SB2382 – Property Donation Tax Credit for Child Care
-Sponsor
-Creates a tax credit for property owners who donate real estate for employer-provided onsite child care facilities.
-Illinois General Assembly – Bill Status of SB2382
-________________________________________________________________________
-SB3783 – Early Childhood Education Tax Credit
-Sponsor
-Creates an income tax credit for parents or guardians to help cover preschool expenses.
-Illinois General Assembly – Bill Status of SB3783
-________________________________________________________________________
-SB3784 – Property Donation Tax Credit for Childcare
-Sponsor
-Encourages donations of property for onsite childcare through tax credits.
-Illinois General Assembly – Bill Status of SB3784
-________________________________________________________________________
-SB3785 – Child Care Tax Credit Enhancement
-Sponsor
-Builds on child care tax incentives for employers and families.
-Illinois General Assembly – Bill Status of SB3785
-________________________________________________________________________
-SB3788 – Child Care Tax Credit Expansion
-Sponsor
-Strengthens child care tax credits and incentives to help working families manage the rising cost of child care.
-Illinois General Assembly – Bill Status of SB3788
-________________________________________________________________________
-HB2190 – Child Care CPR & First Aid Requirements
-Senate Sponsor
-Requires at least two non-administrative child care or group home staff members onsite to maintain CPR, Heimlich maneuver, and first aid certification.
-Illinois General Assembly – Bill Status of HB2190
-________________________________________________________________________
-HB4587 – Child Care Director Qualification Standards
-Co-Sponsor
-Updates education and supervision standards for child care directors and interim conditional directors.
-Illinois General Assembly – Bill Status of HB4587
-________________________________________________________________________
-HB4702 – Diaper Ingredient Labeling Act
-Co-Sponsor
-Requires diaper manufacturers to clearly disclose product ingredients for consumer transparency.
-Illinois General Assembly – Bill Status of HB4702
-________________________________________________________________________
-| CHILDREN, FAMILIES & SCHOOLS |
-Legislation focused on protecting children, improving school safety, supporting students, and strengthening family services.
-SB0024 – Missing Persons Identification
-Co-Sponsor
-Improves identification and reporting procedures for missing persons.
-Illinois General Assembly – Bill Status of SB0024
-________________________________________________________________________
-SB0098 – School Expulsion for Sexual Violence
-Co-Sponsor
-Strengthens school authority and student safety policies involving sexual violence.
-Illinois General Assembly – Bill Status of SB0098
-________________________________________________________________________
-SB0315 – Artificial Intelligence Safety Measures Act
-Co-Sponsor
-Creates safety standards for large frontier AI systems, including transparency reports, independent audits, catastrophic-risk assessments, cybersecurity safeguards, incident reporting, and whistleblower protections.
-Illinois General Assembly – Bill Status of SB0315
-________________________________________________________________________
-SB0939 – Education Technology
-Co-Sponsor
-Updates educational technology provisions to improve school tools, digital access, and administrative efficiency.
-Illinois General Assembly – Bill Status of SB0939
-________________________________________________________________________
-SB2381 – Registry Laws for Secret Recording of Minors
-Sponsor
-Strengthens registry laws to protect children from exploitation involving secret recording.
-Illinois General Assembly – Bill Status of SB2381
-________________________________________________________________________
-SB2788 – School Resource Officer Grant Program
-Sponsor
-Creates or funds grants for School Resource Officers to improve school safety.
-Illinois General Assembly – Bill Status of SB2788
-________________________________________________________________________
-SB2837 – Asthma Medication in Schools
-Co-Sponsor
-Requires schools to support student access to asthma medication and emergency medication procedures.
-Illinois General Assembly – Bill Status of SB2837
-________________________________________________________________________
-SB2869 – DCFS Missing Children Reporting Improvements
-Sponsor
-Improves missing child reporting procedures for state-supervised youth.
-Illinois General Assembly – Bill Status of SB2869
-________________________________________________________________________
-SB2895 – Healing Through History Act
-Sponsor
-Promotes education and awareness through curriculum related to healing and history.
-Illinois General Assembly – Bill Status of SB2895
-________________________________________________________________________
-SB2991 – School Suspend/Expel – Sexual Assault
-Co-Sponsor
-Strengthens school policies regarding student safety and accountability in cases of sexual assault.
-Illinois General Assembly – Bill Status of SB2991
-________________________________________________________________________
-SB3070 – Career Pathway Coursework Option
-Co-Sponsor
-Allows career-focused coursework to satisfy certain high school graduation and college admission requirements.
-Illinois General Assembly – Bill Status of SB3070
-________________________________________________________________________
-SB3855 – Engineering Students of Illinois Scholarship
-Co-Sponsor
-Creates a scholarship program for engineering students at public universities who agree to work for the Department of Transportation and supports engineering degree programs.
-Illinois General Assembly – Bill Status of SB3855
-________________________________________________________________________
-SB3871 – Foster Care Adoption Disclosure Requirements
-Sponsor
-Requires adoptive parents to receive additional information regarding a child’s foster care placement history and development.
-Illinois General Assembly – Bill Status of SB3871
-________________________________________________________________________
-SB4010 – TRS Service Credit Interest Rate Adjustment
-Co-Sponsor
-Adjusts the interest rate used for purchasing optional Teachers’ Retirement System service credit.
-Illinois General Assembly – Bill Status of SB4010
-________________________________________________________________________
-HB0762 – Child Welfare Liability Insurance Survey Act
-Co-Sponsor
-Requires the Department of Insurance to study liability insurance availability and practices affecting foster care and adoption service providers.
-Illinois General Assembly – Bill Status of HB0762
-________________________________________________________________________
-HB1411 – Age-Appropriate Bullying Prevention Materials
-Co-Sponsor
-Requires bullying prevention materials distributed in schools to be age and developmentally appropriate.
-Illinois General Assembly – Bill Status of HB1411
-________________________________________________________________________
-HB3377 – Homeless Student Funding Transparency
-Co-Sponsor
-Requires annual reporting on federal education funding and services provided for homeless students.
-Illinois General Assembly – Bill Status of HB3377
-________________________________________________________________________
-HB4242 – DCFS Notice of Appeal Process
-Senate Sponsor
-Requires DCFS to provide clearer appeal instructions, timelines, and investigative file access.
-Illinois General Assembly – Bill Status of HB4242
-________________________________________________________________________
-HB4247 – Asthma Medication Access at Athletic Areas
-Co-Sponsor
-Allows schools to keep asthma medication near athletic facilities and expands authorized emergency responders.
-Illinois General Assembly – Bill Status of HB4247
-________________________________________________________________________
-| PUBLIC SAFETY & DOMESTIC VIOLENCE |
-Legislation focused on crime prevention, domestic violence protections, human trafficking, fentanyl enforcement, and victim safety.
-SB0068 – Domestic Violence Court Education
-Co-Sponsor
-Requires additional domestic violence education and training within the court system to improve response and understanding.
-Illinois General Assembly – Bill Status of SB0068
-________________________________________________________________________
-SB0267 – Sex Offender Registry / Human Trafficking
-Co-Sponsor
-Expands registry and sex offense definitions related to human trafficking.
-Illinois General Assembly – Bill Status of SB0267
-________________________________________________________________________
-SB0280 – Controlled Substances / Fentanyl
-Co-Sponsor
-Addresses penalties and enforcement tools related to fentanyl offenses.
-Illinois General Assembly – Bill Status of SB0280
-________________________________________________________________________
-SB0284 – Criminal Code Grooming / Trafficking
-Co-Sponsor
-Strengthens criminal penalties related to grooming and trafficking.
-Illinois General Assembly – Bill Status of SB0284
-________________________________________________________________________
-SB0290 – Violations of Orders of Protection
-Co-Sponsor
-Enhances enforcement for violations of protective orders.
-Illinois General Assembly – Bill Status of SB0290
-________________________________________________________________________
-SB1572 – Human Trafficking Penalty Enhancements
-Co-Sponsor
-Increases criminal penalties for trafficking in persons, involuntary servitude, and involuntary sexual servitude of minors.
-Illinois General Assembly – Bill Status of SB1572
-________________________________________________________________________
-SB1773 – Controlled Substances / Fentanyl
-Co-Sponsor
-Strengthens penalties and enforcement related to fentanyl distribution and trafficking.
-Illinois General Assembly – Bill Status of SB1773
-________________________________________________________________________
-SB2682 – Therapist Abuse
-Sponsor
-Addresses abuse and exploitation by therapists toward patients.
-Illinois General Assembly – Bill Status of SB2682
-________________________________________________________________________
-SB2738 – Nitrous Oxide Misuse Enforcement
-Sponsor
-Clarifies penalties to prevent dangerous misuse of nitrous oxide.
-Illinois General Assembly – Bill Status of SB2738
-________________________________________________________________________
-SB3020 – Digital Harassment & Protective Order Enforcement
-Co-Sponsor
-Expands protections against harassment, doxing, altered sexual images, and electronic tracking while strengthening court enforcement powers.
-Illinois General Assembly – Bill Status of SB3020
-________________________________________________________________________
-SB3048 – Domestic Violence Lethality Assessment Toolkit
-Co-Sponsor
-Requires development of model lethality assessment tools and training protocols for law enforcement responding to domestic violence.
-Illinois General Assembly – Bill Status of SB3048
-________________________________________________________________________
-SB3139 – Pretrial Detention Reform
-Co-Sponsor
-Modifies criminal procedure provisions related to pretrial detention and public safety.
-Illinois General Assembly – Bill Status of SB3139
-________________________________________________________________________
-SB3140 – Violations of Orders of Protection
-Co-Sponsor
-Enhances enforcement mechanisms for violations of court-issued protective orders.
-Illinois General Assembly – Bill Status of SB3140
-________________________________________________________________________
-SB3141 – Domestic Violence Penalty Enhancements
-Sponsor
-Strengthens penalties for domestic violence offenses.
-Illinois General Assembly – Bill Status of SB3141
-________________________________________________________________________
-SB3142 – Violations of Orders of Protection Enforcement
-Sponsor
-Improves enforcement for violations of protective orders.
-Illinois General Assembly – Bill Status of SB3142
-________________________________________________________________________
-SB4195 – Pretrial Release Revocation for New Felonies
-Co-Sponsor
-Requires revocation of pretrial release in certain cases when a defendant commits a new felony while on electronic monitoring.
-Illinois General Assembly – Bill Status of SB4195
-________________________________________________________________________
-HB1316 – School Threat & Firearm Notification Requirements
-Co-Sponsor
-Requires school officials to immediately report firearm threats and notify parents about access to firearms.
-Illinois General Assembly – Bill Status of HB1316
-________________________________________________________________________
-HB1353 – Volunteer Emergency Worker Protections
-Co-Sponsor
-Strengthens employment protections for volunteer emergency workers responding to emergencies or required training.
-Illinois General Assembly – Bill Status of HB1353
-________________________________________________________________________
-HB2690 – Child Sexual Abuse Material & Grooming Reforms
-Co-Sponsor
-Updates criminal statutes involving child exploitation, grooming, trafficking, and protections for victims in court proceedings.
-Illinois General Assembly – Bill Status of HB2690
-________________________________________________________________________
-HB3281 – Juvenile Domestic Violence Diversion Options
-Co-Sponsor
-Allows law enforcement to use diversion and intervention tools instead of arrest in certain juvenile domestic violence situations.
-Illinois General Assembly – Bill Status of HB3281
-________________________________________________________________________
-HB4534 – Public Safety and Community Accountability
-Co-Sponsor
-Advances public safety and accountability provisions to support safer communities.
-Illinois General Assembly – Bill Status of HB4534
-________________________________________________________________________
-HB4654 – Human Trafficking Hotline Notices at Rest Areas
-Co-Sponsor
-Requires human trafficking resource notices in public restrooms at roadside rest areas.
-Illinois General Assembly – Bill Status of HB4654
-________________________________________________________________________
-| PUBLIC HEALTH & CONSUMER SAFETY |
-Legislation focused on healthcare access, food and product safety, consumer protection, and health coverage.
-SB0073 – Baby Food Toxic Heavy Metals
-Co-Sponsor
-Sets standards to address toxic heavy metals in baby food products and strengthen infant health protections.
-Illinois General Assembly – Bill Status of SB0073
-________________________________________________________________________
-SB0093 – Prohibited Food Additives
-Co-Sponsor
-Restricts certain harmful food additives to strengthen consumer safety and public health standards.
-Illinois General Assembly – Bill Status of SB0093
-________________________________________________________________________
-SB0318 – Prohibition on Bots Purchasing Tickets Act
-Co-Sponsor
-Prohibits the use of bots and related tactics to bypass online ticket limits or queues, strengthens disclosures for ticket sales, and supports enforcement against misleading ticket resale practices.
-Illinois General Assembly – Bill Status of SB0318
-________________________________________________________________________
-SB1288 – Food Handling Training Requirements
-Co-Sponsor
-Updates food handling training standards to improve public health protections and workplace compliance.
-Illinois General Assembly – Bill Status of SB1288
-________________________________________________________________________
-SB3833 – Medicaid Nursing Facility Access Adjustment
-Co-Sponsor
-Increases Medicaid access adjustment payments for qualifying nursing facilities.
-Illinois General Assembly – Bill Status of SB3833
-________________________________________________________________________
-SB3945 – Online Age Verification for Harmful Material
-Co-Sponsor
-Requires commercial websites with harmful material for minors to implement age verification protections.
-Illinois General Assembly – Bill Status of SB3945
-________________________________________________________________________
-SB4182 – Allergenic Supplements Coverage
-Sponsor
-Requires certain health insurance plans to cover early allergen introduction dietary supplements prescribed for infants without cost-sharing.
-Illinois General Assembly – Bill Status of SB4182
-________________________________________________________________________
-HB1754 – Alpha-Gal Syndrome Awareness Initiative
-Senate Sponsor
-Requires public education and awareness efforts regarding alpha-gal syndrome and tick-borne illness diagnosis.
-Illinois General Assembly – Bill Status of HB1754
-________________________________________________________________________
-HB2435 – Telephone Solicitation Consumer Protections
-Co-Sponsor
-Strengthens restrictions on robocalls and automatic dialing systems to protect consumers from unwanted solicitations.
-Illinois General Assembly – Bill Status of HB2435
-________________________________________________________________________
-HB3409 – Chemicals in Cosmetic Products Act
-Co-Sponsor
-Prohibits cosmetic products containing certain intentionally added harmful chemicals.
-Illinois General Assembly – Bill Status of HB3409
-________________________________________________________________________
-HB3605 – Genetic Testing & Cancer Screening Coverage
-Co-Sponsor
-Requires health insurance plans to cover qualifying genetic testing and cancer screenings.
-Illinois General Assembly – Bill Status of HB3605
-________________________________________________________________________
-HB4328 – Smoke Detector Battery Safety Standards
-Co-Sponsor
-Establishes updated smoke detector power and battery safety requirements.
-Illinois General Assembly – Bill Status of HB4328
-________________________________________________________________________
-HB4418 – Consumer and Community Protection Updates
-Co-Sponsor
-Updates state law to strengthen consumer protections and community safety provisions.
-Illinois General Assembly – Bill Status of HB4418
-________________________________________________________________________
-| JOBS, BUSINESS & ECONOMIC GROWTH |
-Legislation focused on small businesses, innovation, workforce development, tax credits, and economic opportunity.
-SB0137 – Vendor Discount / Use Tax Adjustment
-Co-Sponsor
-Updates retailer and vendor discount provisions under the use tax system to provide clarity and potential relief for small businesses.
-Illinois General Assembly – Bill Status of SB0137
-________________________________________________________________________
-SB1505 – Small Business Job Creation Tax Credit Renewal
-Co-Sponsor
-Renews and updates the Small Business Job Creation Tax Credit program through 2032 to support job growth and clarify eligibility standards.
-Illinois General Assembly – Bill Status of SB1505
-________________________________________________________________________
-SB2390 – Illinois Research & Innovation Tax Credit
-Co-Sponsor
-Creates a research and development tax credit for qualifying Illinois business investments in innovation.
-Illinois General Assembly – Bill Status of SB2390
-________________________________________________________________________
-SB2744 – Employment Tax Credit for Individuals with Disabilities
-Sponsor
-Provides employers with a tax credit for hiring individuals with developmental disabilities or severe mental illness.
-Illinois General Assembly – Bill Status of SB2744
-________________________________________________________________________
-SB3355 – State Economic Development Support
-Sponsor
-Provides economic development resources for community projects.
-Illinois General Assembly – Bill Status of SB3355
-________________________________________________________________________
-SB3605 – Public Broadcasting Grants
-Co-Sponsor
-Appropriates funding to support public radio and television stations and related administrative expenses.
-Illinois General Assembly – Bill Status of SB3605
-________________________________________________________________________
-SB3619 – Employer Health Benefit Tax Credit
-Co-Sponsor
-Creates a tax credit for employers that contribute to health reimbursement arrangements for employees.
-Illinois General Assembly – Bill Status of SB3619
-________________________________________________________________________
-SB3786 – Legacy Tax Credit
-Co-Sponsor
-Creates legacy tax credits to support Illinois-headquartered businesses and employees.
-Illinois General Assembly – Bill Status of SB3786
-________________________________________________________________________
-| HOUSING & HOMEOWNERSHIP |
-Legislation focused on affordable housing development, first-time homebuyers, and stable homeownership.
-SB3918 – Homebuilder Tax Credit
-Sponsor
-Incentivizes housing construction and development that supports local jobs and long-term affordability.
-Illinois General Assembly – Bill Status of SB3918
-________________________________________________________________________
-SB3959 – Welcome Home Illinois Tax Credit
-Co-Sponsor
-Creates a $500 income tax credit for first-time homebuyers to help make homeownership more affordable.
-Illinois General Assembly – Bill Status of SB3959
-________________________________________________________________________
-| VETERANS & MILITARY FAMILIES |
-Legislation focused on supporting veterans, military families, and National Guard members.
-SB0039 – Veterans Tiny Homes Exemption
-Co-Sponsor
-Provides exemptions benefiting veterans in supportive housing programs.
-Illinois General Assembly – Bill Status of SB0039
-________________________________________________________________________
-SB2693 – Veterans & National Guard Hiring Preference Expansion
-Sponsor
-Expands state employment preference points for veterans and Illinois National Guard members.
-Illinois General Assembly – Bill Status of SB2693
-________________________________________________________________________
-SB3077 – Veteran & National Guard Employment Preference
-Sponsor
-Expands hiring preferences in state employment for veterans and Illinois National Guard members.
-Illinois General Assembly – Bill Status of SB3077
-________________________________________________________________________
-HB1352 – Regional Veterans Assistance Commissions
-Co-Sponsor
-Allows counties to jointly establish Veterans Assistance Commissions to better serve veterans and their families.
-Illinois General Assembly – Bill Status of HB1352
-________________________________________________________________________
-HB1362 – Military Leave Compensation Clarification
-Co-Sponsor
-Updates military differential compensation calculations for employees serving in the military.
-Illinois General Assembly – Bill Status of HB1362
-________________________________________________________________________
-HB4336 – Building Permit Fee Waivers for Disabled Veterans
-Sponsor
-Expands fee waiver protections for disabled veterans to include additional permit and inspection costs.
-Illinois General Assembly – Bill Status of HB4336
-________________________________________________________________________
-| TRANSPORTATION & DRIVER SAFETY |
-Legislation focused on safe roads, driver requirements, bicycles, e-bikes, crashes, and transportation systems.
-SB1251 – Vehicle Code Dismissal of Violation
-Sponsor
-Provides authority related to dismissal procedures for certain vehicle code violations.
-Illinois General Assembly – Bill Status of SB1251
-________________________________________________________________________
-SB1843 – Recreation Trails / National Road
-Co-Sponsor
-Supports development and designation of recreational trail infrastructure along historic corridors.
-Illinois General Assembly – Bill Status of SB1843
-________________________________________________________________________
-SB2075 – Cycle Rider Safety Improvements
-Co-Sponsor
-Improves safety standards and regulations for cyclists on Illinois roadways.
-Illinois General Assembly – Bill Status of SB2075
-________________________________________________________________________
-SB2442 – Crash Reporting for Mopeds & Bicycles
-Co-Sponsor
-Updates reporting requirements for crashes involving mopeds and bicycles.
-Illinois General Assembly – Bill Status of SB2442
-________________________________________________________________________
-SB2926 – Illinois Standard Time Act
-Co-Sponsor
-Exempts Illinois from daylight saving time requirements under federal law.
-Illinois General Assembly – Bill Status of SB2926
-________________________________________________________________________
-SB3336 – Low-Speed Electric Bicycle Regulation
-Chief Co-Sponsor
-Updates statewide rules for low-speed electric bicycles to improve safety and create consistent enforcement standards.
-Illinois General Assembly – Bill Status of SB3336
-________________________________________________________________________
-SB3484 – E-Bike and Micromobility Safety
-Co-Sponsor
-Regulates e-bike and micromobility safety laws to improve road and community safety.
-Illinois General Assembly – Bill Status of SB3484
-________________________________________________________________________
-SB3635 – Motor Fuel Grade Crossing
-Co-Sponsor
-Modifies provisions related to motor fuel and infrastructure safety at railroad grade crossings.
-Illinois General Assembly – Bill Status of SB3635
-________________________________________________________________________
-HB1226 – Senior Driver License Safety Requirements
-Co-Sponsor
-Updates in-person renewal and driving test requirements for older drivers and commercial license holders.
-Illinois General Assembly – Bill Status of HB1226
-________________________________________________________________________
-HB4382 – Graduated Driver License Passenger Violation Penalties
-Co-Sponsor
-Strengthens penalties for young drivers whose passenger-limit violations result in bodily harm or permanent disability.
-Illinois General Assembly – Bill Status of HB4382
-________________________________________________________________________
-HB5081 – Automated Speed Enforcement & Speed Limit Standards
-Co-Sponsor
-Updates rules governing automated speed enforcement systems and local speed limit reductions.
-Illinois General Assembly – Bill Status of HB5081
-________________________________________________________________________
-| AGRICULTURE & ENVIRONMENT |
-Legislation focused on agriculture, land conservation, wastewater, PFAS, and environmental issues.
-SB4193 – Farmer Tax Benefit Act
-Co-Sponsor
-Creates tax incentives for land conservation and agricultural land protection agreements.
-Illinois General Assembly – Bill Status of SB4193
-________________________________________________________________________
-HB2955 – PFAS Wastewater Protection Committee
-Co-Sponsor
-Creates a committee to study PFAS contamination, mitigation technology, and wastewater treatment funding options.
-Illinois General Assembly – Bill Status of HB2955
-________________________________________________________________________
-| GOVERNMENT ACCOUNTABILITY & LOCAL GOVERNMENT |
-Legislation focused on transparency, local government efficiency, fiscal accountability, and government modernization.
-SB0136 – Income Tax LGDF Distribution
-Co-Sponsor
-Adjusts Local Government Distributive Fund allocations to support communities and local services.
-Illinois General Assembly – Bill Status of SB0136
-________________________________________________________________________
-SB1120 – State Government Technology Modernization
-Co-Sponsor
-Modernizes state technology systems to improve efficiency and public access to services.
-Illinois General Assembly – Bill Status of SB1120
-________________________________________________________________________
-SB1121 – State Government Cybersecurity & Digital Infrastructure
-Co-Sponsor
-Enhances digital infrastructure and cybersecurity within state government operations.
-Illinois General Assembly – Bill Status of SB1121
-________________________________________________________________________
-SB1313 – Trust Act Noncitizen Detainee
-Co-Sponsor
-Amends provisions related to cooperation and detention policies involving noncitizen individuals.
-Illinois General Assembly – Bill Status of SB1313
-________________________________________________________________________
-SB1699 – Noncitizen Cost Transparency
-Co-Sponsor
-Requires reporting and transparency regarding state and local costs associated with noncitizen services.
-Illinois General Assembly – Bill Status of SB1699
-________________________________________________________________________
-SB1719 – Local Government Electronic Records
-Co-Sponsor
-Allows expanded use of electronic records to improve transparency and efficiency in local government.
-Illinois General Assembly – Bill Status of SB1719
-________________________________________________________________________
-SB2094 – Fiscal Note Transparency Requirement
-Co-Sponsor
-Strengthens transparency by ensuring fiscal note requests on legislation are fulfilled and cannot be dismissed by chamber rules.
-Illinois General Assembly – Bill Status of SB2094
-________________________________________________________________________
-SB4187 – School District Input on Residential Development
-Sponsor
-Requires local planning bodies to notify and consult school districts about developments that could impact enrollment.
-Illinois General Assembly – Bill Status of SB4187
-________________________________________________________________________
-SB4211 – Appropriations Transparency Documentation
-Co-Sponsor
-Requires certain multi-agency appropriation amendments to include supplemental documentation to improve transparency in the budget process.
-Illinois General Assembly – Bill Status of SB4211
-________________________________________________________________________
-SB4212 – Fiscal Transparency and Budget Accountability
-Co-Sponsor
-Strengthens budget and fiscal transparency requirements connected to state appropriations and legislative review.
-Illinois General Assembly – Bill Status of SB4212
-________________________________________________________________________
-HB4160 – Community Support & Local Services
-Co-Sponsor
-Supports local service delivery and community-based policy improvements through updates to state law.
-Illinois General Assembly – Bill Status of HB4160
-________________________________________________________________________
+LOWERING COSTS FOR FAMILIES Legislation focused on reducing everyday expenses, including utilities, prescription drugs, diapers, gasoline, healthcare, and tax relief.
+SB2687 – Home Utility Relief Act Co-Sponsor Creates utility rebates to help families struggling with rising utility bills.
+Illinois General Assembly – Bill Status of SB2687 ________________________________________________________________________ SB2763 – ACA Premium Tax Deduction Co-Sponsor Creates income tax relief tied to Affordable Care Act marketplace premiums and qualifying out-of-pocket medical expenses.
+Illinois General Assembly – Bill Status of SB2763 ________________________________________________________________________ SB3792 – Income Tax Deduction for Tipped Wages Co-Sponsor Creates an income tax deduction for gratuities included in a taxpayer’s federal adjusted gross income.
+Illinois General Assembly – Bill Status of SB3792 ________________________________________________________________________ SB3851 – Prescription Drug Tax Elimination Sponsor Eliminates the sales tax on prescription drugs and cancer treatments while protecting local government revenue.
+Illinois General Assembly – Bill Status of SB3851 ________________________________________________________________________ SB3869 – Diaper Tax Exemption Sponsor Exempts diapers for infants, children, and adults from state sales tax to reduce costs for families.
+Illinois General Assembly – Bill Status of SB3869 ________________________________________________________________________ SB4205 – Temporary Motor Fuel Tax Reduction Co-Sponsor Temporarily reduces motor fuel and gasohol taxes to provide relief at the pump.
+Illinois General Assembly – Bill Status of SB4205 ________________________________________________________________________ PROPERTY TAX RELIEF & HOMEOWNERS Legislation focused on lowering property tax burdens, strengthening homeowner relief, and improving long-term housing stability.
+SB0216 – PTELL Reform Co-Sponsor Modifies Property Tax Extension Limitation Law provisions to strengthen taxpayer protections.
+Illinois General Assembly – Bill Status of SB0216 ________________________________________________________________________ SB1644 – Homeowner Property Tax Relief Co-Sponsor Strengthens property tax relief for homeowners as part of a broader effort to make Illinois more affordable.
+Illinois General Assembly – Bill Status of SB1644 ________________________________________________________________________ SB2246 – Property Tax Assessment Limit Co-Sponsor Places additional limits on property tax assessment increases.
+Illinois General Assembly – Bill Status of SB2246 ________________________________________________________________________ SB2745 – Property Tax Relief for Disabled Persons Sponsor Provides property tax relief for qualifying residents with disabilities.
+Illinois General Assembly – Bill Status of SB2745 ________________________________________________________________________ SB3401 – Condo Reserve Study Requirements Co-Sponsor Updates condominium reserve study requirements to improve transparency and long-term property stability.
+Illinois General Assembly – Bill Status of SB3401 ________________________________________________________________________ SB3540 – Property Tax Growth Limits Co-Sponsor Limits property tax growth by placing additional limits on assessments and strengthening taxpayer protections.
+Illinois General Assembly – Bill Status of SB3540 ________________________________________________________________________ SB3781 – Refundable Property Tax Credit Co-Sponsor Makes the residential property tax credit refundable so taxpayers can receive the full benefit of the credit.
+Illinois General Assembly – Bill Status of SB3781 ________________________________________________________________________ SB3782 – Fairness in Property Tax Foreclosure Task Force Co-Sponsor Creates a task force to study property tax foreclosure issues and recommend policy solutions.
+Illinois General Assembly – Bill Status of SB3782 ________________________________________________________________________ SB3844 – PTELL Aggregate Extension Reform Sponsor Updates Property Tax Extension Limitation Law provisions to provide flexibility while protecting taxpayers.
+Illinois General Assembly – Bill Status of SB3844 ________________________________________________________________________ SB3848 – Homeowner Insurance Premium Deduction Co-Sponsor Creates an income tax deduction equal to the increase in homeowner insurance premiums on a primary residence.
+Illinois General Assembly – Bill Status of SB3848 ________________________________________________________________________ SB3849 – Homestead Exemption CPI Adjustment Co-Sponsor Indexes the general homestead exemption to inflation so homeowner property tax relief keeps pace with rising costs.
+Illinois General Assembly – Bill Status of SB3849 ________________________________________________________________________ SB3868 – Property Tax Credit Expansion Co-Sponsor Doubles the property tax credit from 5% to 10% of property taxes paid.
+Illinois General Assembly – Bill Status of SB3868 ________________________________________________________________________ SENIORS & DISABILITY SUPPORT Legislation focused on protecting seniors, residents with disabilities, and vulnerable adults from rising costs and exploitation.
+SB2086 – Senior Assessment Freeze Income Increase Co-Sponsor Raises the income eligibility limit for the Senior Citizens Assessment Freeze Homestead Exemption and indexes it to inflation.
+Illinois General Assembly – Bill Status of SB2086 ________________________________________________________________________ SB2746 – Senior Property Tax Freeze Improvements Sponsor Enhances the senior citizen assessment freeze to better protect older homeowners.
+Illinois General Assembly – Bill Status of SB2746 ________________________________________________________________________ SB3071 – Adult Protective Services Financial Exploitation Reporting Co-Sponsor Expands mandated reporting and training requirements to help identify and report financial exploitation of older adults and eligible adults.
+Illinois General Assembly – Bill Status of SB3071 ________________________________________________________________________ SB3294 – Medicaid Coverage Continuity Co-Sponsor Protects continued Medicaid coverage for seniors and individuals receiving long-term care services.
+Illinois General Assembly – Bill Status of SB3294 ________________________________________________________________________ SB3425 – Senior Income Tax Deduction Sponsor Doubles the income tax deduction for senior citizens age 65 and older.
+Illinois General Assembly – Bill Status of SB3425 ________________________________________________________________________ SB3872 – Senior Property Tax Elimination Co-Sponsor Eliminates property taxes for seniors who own their homes free and clear.
+Illinois General Assembly – Bill Status of SB3872 ________________________________________________________________________ SB4029 – Senior Property Tax Freeze Expansion Sponsor Increases the income eligibility threshold for the Senior Property Tax Freeze based on inflation, helping more seniors remain eligible for relief.
+Illinois General Assembly – Bill Status of SB4029 ________________________________________________________________________ HB4911 – Protect Seniors from Financial Fraud Co-Sponsor Safeguards seniors from financial scams and exploitation.
+Illinois General Assembly – Bill Status of HB4911 ________________________________________________________________________ ENERGY, UTILITIES & DATA CENTERS Legislation focused on affordable and reliable energy, local control, responsible data center development, water resources, and grid reliability.
+SB1050 – Data Center Zoning & Siting Standards Sponsor Allows counties and municipalities to regulate data center construction, siting, water usage, and noise mitigation standards.
+Illinois General Assembly – Bill Status of SB1050 ________________________________________________________________________ SB3409 – Energy Storage System Safety & Agricultural Protections Co-Sponsor Strengthens safety, drainage, decommissioning, and agricultural impact standards for energy storage facilities.
+Illinois General Assembly – Bill Status of SB3409 ________________________________________________________________________ SB3578 – Foreign-Owned Data Center Grid Protection Co-Sponsor Prevents foreign-owned data centers from overloading the electric grid and driving up costs for consumers.
+Illinois General Assembly – Bill Status of SB3578 ________________________________________________________________________ SB3580 – Energy Reliability Task Force Co-Sponsor Creates a task force to monitor energy reliability and support emerging technologies such as carbon capture.
+Illinois General Assembly – Bill Status of SB3580 ________________________________________________________________________ SB3581 – Greenhouse Gas Regulatory Revisions Co-Sponsor Reverts certain Environmental Protection Act greenhouse gas provisions to prior language and repeals the statutory definition of clean energy.
+Illinois General Assembly – Bill Status of SB3581 ________________________________________________________________________ SB3582 – Energy Infrastructure Permitting Co-Sponsor Streamlines the permitting process for new energy infrastructure projects to help bring additional generation online more quickly.
+Illinois General Assembly – Bill Status of SB3582 ________________________________________________________________________ SB4004 – Data Center Water Transparency Co-Sponsor Protects Illinois water resources and increases transparency regarding data center water usage.
+Illinois General Assembly – Bill Status of SB4004 ________________________________________________________________________ SB4203 – Community Benefits for Data Centers Sponsor Requires data centers receiving state tax incentives to provide direct benefits to host communities and local homeowners.
+Illinois General Assembly – Bill Status of SB4203 ________________________________________________________________________ SB4207 – Responsible Data Center Development Sponsor Strengthens oversight and accountability for data center development to protect communities and infrastructure.
+Illinois General Assembly – Bill Status of SB4207 ________________________________________________________________________ HB5524 – Utility Fee Transparency Website Co-Sponsor Requires publication of electric utility charges and fees to improve transparency for ratepayers.
+Illinois General Assembly – Bill Status of HB5524 ________________________________________________________________________ SB2687 – Home Utility Relief Act Co-Sponsor Creates utility rebates to help families struggling with rising utility bills.
+Illinois General Assembly – Bill Status of SB2687 ________________________________________________________________________ CHILD CARE & EARLY CHILDHOOD SUPPORT Legislation focused on making child care more affordable, strengthening early learning, and supporting providers and working families.
+SB1646 – Early Childhood Educator Tax Credit Sponsor Creates a tax credit for eligible early childhood teachers and assistants earning $75,000 or less to support and retain childcare professionals.
+Illinois General Assembly – Bill Status of SB1646 ________________________________________________________________________ SB1647 – Preschool Tax Credit Sponsor Creates a tax credit for families paying for eligible preschool programs.
+Illinois General Assembly – Bill Status of SB1647 ________________________________________________________________________ SB2263 – Child Care Tax Credit Co-Sponsor Creates a child care tax credit tied to the federal child care tax credit for each qualifying child.
+Illinois General Assembly – Bill Status of SB2263 ________________________________________________________________________ SB2277 – Child Care Tax Credit Expansion Sponsor Expands employer child care tax credits to encourage businesses to provide child care support for employees.
+Illinois General Assembly – Bill Status of SB2277 ________________________________________________________________________ SB2382 – Property Donation Tax Credit for Child Care Sponsor Creates a tax credit for property owners who donate real estate for employer-provided onsite child care facilities.
+Illinois General Assembly – Bill Status of SB2382 ________________________________________________________________________ SB3783 – Early Childhood Education Tax Credit Sponsor Creates an income tax credit for parents or guardians to help cover preschool expenses.
+Illinois General Assembly – Bill Status of SB3783 ________________________________________________________________________ SB3784 – Property Donation Tax Credit for Childcare Sponsor Encourages donations of property for onsite childcare through tax credits.
+Illinois General Assembly – Bill Status of SB3784 ________________________________________________________________________ SB3785 – Child Care Tax Credit Enhancement Sponsor Builds on child care tax incentives for employers and families.
+Illinois General Assembly – Bill Status of SB3785 ________________________________________________________________________ SB3788 – Child Care Tax Credit Expansion Sponsor Strengthens child care tax credits and incentives to help working families manage the rising cost of child care.
+Illinois General Assembly – Bill Status of SB3788 ________________________________________________________________________ HB2190 – Child Care CPR & First Aid Requirements Senate Sponsor Requires at least two non-administrative child care or group home staff members onsite to maintain CPR, Heimlich maneuver, and first aid certification.
+Illinois General Assembly – Bill Status of HB2190 ________________________________________________________________________ HB4587 – Child Care Director Qualification Standards Co-Sponsor Updates education and supervision standards for child care directors and interim conditional directors.
+Illinois General Assembly – Bill Status of HB4587 ________________________________________________________________________ HB4702 – Diaper Ingredient Labeling Act Co-Sponsor Requires diaper manufacturers to clearly disclose product ingredients for consumer transparency.
+Illinois General Assembly – Bill Status of HB4702 ________________________________________________________________________ CHILDREN, FAMILIES & SCHOOLS Legislation focused on protecting children, improving school safety, supporting students, and strengthening family services.
+SB0024 – Missing Persons Identification Co-Sponsor Improves identification and reporting procedures for missing persons.
+Illinois General Assembly – Bill Status of SB0024 ________________________________________________________________________ SB0098 – School Expulsion for Sexual Violence Co-Sponsor Strengthens school authority and student safety policies involving sexual violence.
+Illinois General Assembly – Bill Status of SB0098 ________________________________________________________________________ SB0315 – Artificial Intelligence Safety Measures Act Co-Sponsor Creates safety standards for large frontier AI systems, including transparency reports, independent audits, catastrophic-risk assessments, cybersecurity safeguards, incident reporting, and whistleblower protections.
+Illinois General Assembly – Bill Status of SB0315 ________________________________________________________________________ SB0939 – Education Technology Co-Sponsor Updates educational technology provisions to improve school tools, digital access, and administrative efficiency.
+Illinois General Assembly – Bill Status of SB0939 ________________________________________________________________________ SB2381 – Registry Laws for Secret Recording of Minors Sponsor Strengthens registry laws to protect children from exploitation involving secret recording.
+Illinois General Assembly – Bill Status of SB2381 ________________________________________________________________________ SB2788 – School Resource Officer Grant Program Sponsor Creates or funds grants for School Resource Officers to improve school safety.
+Illinois General Assembly – Bill Status of SB2788 ________________________________________________________________________ SB2837 – Asthma Medication in Schools Co-Sponsor Requires schools to support student access to asthma medication and emergency medication procedures.
+Illinois General Assembly – Bill Status of SB2837 ________________________________________________________________________ SB2869 – DCFS Missing Children Reporting Improvements Sponsor Improves missing child reporting procedures for state-supervised youth.
+Illinois General Assembly – Bill Status of SB2869 ________________________________________________________________________ SB2895 – Healing Through History Act Sponsor Promotes education and awareness through curriculum related to healing and history.
+Illinois General Assembly – Bill Status of SB2895 ________________________________________________________________________ SB2991 – School Suspend/Expel – Sexual Assault Co-Sponsor Strengthens school policies regarding student safety and accountability in cases of sexual assault.
+Illinois General Assembly – Bill Status of SB2991 ________________________________________________________________________ SB3070 – Career Pathway Coursework Option Co-Sponsor Allows career-focused coursework to satisfy certain high school graduation and college admission requirements.
+Illinois General Assembly – Bill Status of SB3070 ________________________________________________________________________ SB3855 – Engineering Students of Illinois Scholarship Co-Sponsor Creates a scholarship program for engineering students at public universities who agree to work for the Department of Transportation and supports engineering degree programs.
+Illinois General Assembly – Bill Status of SB3855 ________________________________________________________________________ SB3871 – Foster Care Adoption Disclosure Requirements Sponsor Requires adoptive parents to receive additional information regarding a child’s foster care placement history and development.
+Illinois General Assembly – Bill Status of SB3871 ________________________________________________________________________ SB4010 – TRS Service Credit Interest Rate Adjustment Co-Sponsor Adjusts the interest rate used for purchasing optional Teachers’ Retirement System service credit.
+Illinois General Assembly – Bill Status of SB4010 ________________________________________________________________________ HB0762 – Child Welfare Liability Insurance Survey Act Co-Sponsor Requires the Department of Insurance to study liability insurance availability and practices affecting foster care and adoption service providers.
+Illinois General Assembly – Bill Status of HB0762 ________________________________________________________________________ HB1411 – Age-Appropriate Bullying Prevention Materials Co-Sponsor Requires bullying prevention materials distributed in schools to be age and developmentally appropriate.
+Illinois General Assembly – Bill Status of HB1411 ________________________________________________________________________ HB3377 – Homeless Student Funding Transparency Co-Sponsor Requires annual reporting on federal education funding and services provided for homeless students.
+Illinois General Assembly – Bill Status of HB3377 ________________________________________________________________________ HB4242 – DCFS Notice of Appeal Process Senate Sponsor Requires DCFS to provide clearer appeal instructions, timelines, and investigative file access.
+Illinois General Assembly – Bill Status of HB4242 ________________________________________________________________________ HB4247 – Asthma Medication Access at Athletic Areas Co-Sponsor Allows schools to keep asthma medication near athletic facilities and expands authorized emergency responders.
+Illinois General Assembly – Bill Status of HB4247 ________________________________________________________________________ PUBLIC SAFETY & DOMESTIC VIOLENCE Legislation focused on crime prevention, domestic violence protections, human trafficking, fentanyl enforcement, and victim safety.
+SB0068 – Domestic Violence Court Education Co-Sponsor Requires additional domestic violence education and training within the court system to improve response and understanding.
+Illinois General Assembly – Bill Status of SB0068 ________________________________________________________________________ SB0267 – Sex Offender Registry / Human Trafficking Co-Sponsor Expands registry and sex offense definitions related to human trafficking.
+Illinois General Assembly – Bill Status of SB0267 ________________________________________________________________________ SB0280 – Controlled Substances / Fentanyl Co-Sponsor Addresses penalties and enforcement tools related to fentanyl offenses.
+Illinois General Assembly – Bill Status of SB0280 ________________________________________________________________________ SB0284 – Criminal Code Grooming / Trafficking Co-Sponsor Strengthens criminal penalties related to grooming and trafficking.
+Illinois General Assembly – Bill Status of SB0284 ________________________________________________________________________ SB0290 – Violations of Orders of Protection Co-Sponsor Enhances enforcement for violations of protective orders.
+Illinois General Assembly – Bill Status of SB0290 ________________________________________________________________________ SB1572 – Human Trafficking Penalty Enhancements Co-Sponsor Increases criminal penalties for trafficking in persons, involuntary servitude, and involuntary sexual servitude of minors.
+Illinois General Assembly – Bill Status of SB1572 ________________________________________________________________________ SB1773 – Controlled Substances / Fentanyl Co-Sponsor Strengthens penalties and enforcement related to fentanyl distribution and trafficking.
+Illinois General Assembly – Bill Status of SB1773 ________________________________________________________________________ SB2682 – Therapist Abuse Sponsor Addresses abuse and exploitation by therapists toward patients.
+Illinois General Assembly – Bill Status of SB2682 ________________________________________________________________________ SB2738 – Nitrous Oxide Misuse Enforcement Sponsor Clarifies penalties to prevent dangerous misuse of nitrous oxide.
+Illinois General Assembly – Bill Status of SB2738 ________________________________________________________________________ SB3020 – Digital Harassment & Protective Order Enforcement Co-Sponsor Expands protections against harassment, doxing, altered sexual images, and electronic tracking while strengthening court enforcement powers.
+Illinois General Assembly – Bill Status of SB3020 ________________________________________________________________________ SB3048 – Domestic Violence Lethality Assessment Toolkit Co-Sponsor Requires development of model lethality assessment tools and training protocols for law enforcement responding to domestic violence.
+Illinois General Assembly – Bill Status of SB3048 ________________________________________________________________________ SB3139 – Pretrial Detention Reform Co-Sponsor Modifies criminal procedure provisions related to pretrial detention and public safety.
+Illinois General Assembly – Bill Status of SB3139 ________________________________________________________________________ SB3140 – Violations of Orders of Protection Co-Sponsor Enhances enforcement mechanisms for violations of court-issued protective orders.
+Illinois General Assembly – Bill Status of SB3140 ________________________________________________________________________ SB3141 – Domestic Violence Penalty Enhancements Sponsor Strengthens penalties for domestic violence offenses.
+Illinois General Assembly – Bill Status of SB3141 ________________________________________________________________________ SB3142 – Violations of Orders of Protection Enforcement Sponsor Improves enforcement for violations of protective orders.
+Illinois General Assembly – Bill Status of SB3142 ________________________________________________________________________ SB4195 – Pretrial Release Revocation for New Felonies Co-Sponsor Requires revocation of pretrial release in certain cases when a defendant commits a new felony while on electronic monitoring.
+Illinois General Assembly – Bill Status of SB4195 ________________________________________________________________________ HB1316 – School Threat & Firearm Notification Requirements Co-Sponsor Requires school officials to immediately report firearm threats and notify parents about access to firearms.
+Illinois General Assembly – Bill Status of HB1316 ________________________________________________________________________ HB1353 – Volunteer Emergency Worker Protections Co-Sponsor Strengthens employment protections for volunteer emergency workers responding to emergencies or required training.
+Illinois General Assembly – Bill Status of HB1353 ________________________________________________________________________ HB2690 – Child Sexual Abuse Material & Grooming Reforms Co-Sponsor Updates criminal statutes involving child exploitation, grooming, trafficking, and protections for victims in court proceedings.
+Illinois General Assembly – Bill Status of HB2690 ________________________________________________________________________ HB3281 – Juvenile Domestic Violence Diversion Options Co-Sponsor Allows law enforcement to use diversion and intervention tools instead of arrest in certain juvenile domestic violence situations.
+Illinois General Assembly – Bill Status of HB3281 ________________________________________________________________________ HB4534 – Public Safety and Community Accountability Co-Sponsor Advances public safety and accountability provisions to support safer communities.
+Illinois General Assembly – Bill Status of HB4534 ________________________________________________________________________ HB4654 – Human Trafficking Hotline Notices at Rest Areas Co-Sponsor Requires human trafficking resource notices in public restrooms at roadside rest areas.
+Illinois General Assembly – Bill Status of HB4654 ________________________________________________________________________ PUBLIC HEALTH & CONSUMER SAFETY Legislation focused on healthcare access, food and product safety, consumer protection, and health coverage.
+SB0073 – Baby Food Toxic Heavy Metals Co-Sponsor Sets standards to address toxic heavy metals in baby food products and strengthen infant health protections.
+Illinois General Assembly – Bill Status of SB0073 ________________________________________________________________________ SB0093 – Prohibited Food Additives Co-Sponsor Restricts certain harmful food additives to strengthen consumer safety and public health standards.
+Illinois General Assembly – Bill Status of SB0093 ________________________________________________________________________ SB0318 – Prohibition on Bots Purchasing Tickets Act Co-Sponsor Prohibits the use of bots and related tactics to bypass online ticket limits or queues, strengthens disclosures for ticket sales, and supports enforcement against misleading ticket resale practices.
+Illinois General Assembly – Bill Status of SB0318 ________________________________________________________________________ SB1288 – Food Handling Training Requirements Co-Sponsor Updates food handling training standards to improve public health protections and workplace compliance.
+Illinois General Assembly – Bill Status of SB1288 ________________________________________________________________________ SB3833 – Medicaid Nursing Facility Access Adjustment Co-Sponsor Increases Medicaid access adjustment payments for qualifying nursing facilities.
+Illinois General Assembly – Bill Status of SB3833 ________________________________________________________________________ SB3945 – Online Age Verification for Harmful Material Co-Sponsor Requires commercial websites with harmful material for minors to implement age verification protections.
+Illinois General Assembly – Bill Status of SB3945 ________________________________________________________________________ SB4182 – Allergenic Supplements Coverage Sponsor Requires certain health insurance plans to cover early allergen introduction dietary supplements prescribed for infants without cost-sharing.
+Illinois General Assembly – Bill Status of SB4182 ________________________________________________________________________ HB1754 – Alpha-Gal Syndrome Awareness Initiative Senate Sponsor Requires public education and awareness efforts regarding alpha-gal syndrome and tick-borne illness diagnosis.
+Illinois General Assembly – Bill Status of HB1754 ________________________________________________________________________ HB2435 – Telephone Solicitation Consumer Protections Co-Sponsor Strengthens restrictions on robocalls and automatic dialing systems to protect consumers from unwanted solicitations.
+Illinois General Assembly – Bill Status of HB2435 ________________________________________________________________________ HB3409 – Chemicals in Cosmetic Products Act Co-Sponsor Prohibits cosmetic products containing certain intentionally added harmful chemicals.
+Illinois General Assembly – Bill Status of HB3409 ________________________________________________________________________ HB3605 – Genetic Testing & Cancer Screening Coverage Co-Sponsor Requires health insurance plans to cover qualifying genetic testing and cancer screenings.
+Illinois General Assembly – Bill Status of HB3605 ________________________________________________________________________ HB4328 – Smoke Detector Battery Safety Standards Co-Sponsor Establishes updated smoke detector power and battery safety requirements.
+Illinois General Assembly – Bill Status of HB4328 ________________________________________________________________________ HB4418 – Consumer and Community Protection Updates Co-Sponsor Updates state law to strengthen consumer protections and community safety provisions.
+Illinois General Assembly – Bill Status of HB4418 ________________________________________________________________________ JOBS, BUSINESS & ECONOMIC GROWTH Legislation focused on small businesses, innovation, workforce development, tax credits, and economic opportunity.
+SB0137 – Vendor Discount / Use Tax Adjustment Co-Sponsor Updates retailer and vendor discount provisions under the use tax system to provide clarity and potential relief for small businesses.
+Illinois General Assembly – Bill Status of SB0137 ________________________________________________________________________ SB1505 – Small Business Job Creation Tax Credit Renewal Co-Sponsor Renews and updates the Small Business Job Creation Tax Credit program through 2032 to support job growth and clarify eligibility standards.
+Illinois General Assembly – Bill Status of SB1505 ________________________________________________________________________ SB2390 – Illinois Research & Innovation Tax Credit Co-Sponsor Creates a research and development tax credit for qualifying Illinois business investments in innovation.
+Illinois General Assembly – Bill Status of SB2390 ________________________________________________________________________ SB2744 – Employment Tax Credit for Individuals with Disabilities Sponsor Provides employers with a tax credit for hiring individuals with developmental disabilities or severe mental illness.
+Illinois General Assembly – Bill Status of SB2744 ________________________________________________________________________ SB3355 – State Economic Development Support Sponsor Provides economic development resources for community projects.
+Illinois General Assembly – Bill Status of SB3355 ________________________________________________________________________ SB3605 – Public Broadcasting Grants Co-Sponsor Appropriates funding to support public radio and television stations and related administrative expenses.
+Illinois General Assembly – Bill Status of SB3605 ________________________________________________________________________ SB3619 – Employer Health Benefit Tax Credit Co-Sponsor Creates a tax credit for employers that contribute to health reimbursement arrangements for employees.
+Illinois General Assembly – Bill Status of SB3619 ________________________________________________________________________ SB3786 – Legacy Tax Credit Co-Sponsor Creates legacy tax credits to support Illinois-headquartered businesses and employees.
+Illinois General Assembly – Bill Status of SB3786 ________________________________________________________________________ HOUSING & HOMEOWNERSHIP Legislation focused on affordable housing development, first-time homebuyers, and stable homeownership.
+SB3918 – Homebuilder Tax Credit Sponsor Incentivizes housing construction and development that supports local jobs and long-term affordability.
+Illinois General Assembly – Bill Status of SB3918 ________________________________________________________________________ SB3959 – Welcome Home Illinois Tax Credit Co-Sponsor Creates a $500 income tax credit for first-time homebuyers to help make homeownership more affordable.
+Illinois General Assembly – Bill Status of SB3959 ________________________________________________________________________ VETERANS & MILITARY FAMILIES Legislation focused on supporting veterans, military families, and National Guard members.
+SB0039 – Veterans Tiny Homes Exemption Co-Sponsor Provides exemptions benefiting veterans in supportive housing programs.
+Illinois General Assembly – Bill Status of SB0039 ________________________________________________________________________ SB2693 – Veterans & National Guard Hiring Preference Expansion Sponsor Expands state employment preference points for veterans and Illinois National Guard members.
+Illinois General Assembly – Bill Status of SB2693 ________________________________________________________________________ SB3077 – Veteran & National Guard Employment Preference Sponsor Expands hiring preferences in state employment for veterans and Illinois National Guard members.
+Illinois General Assembly – Bill Status of SB3077 ________________________________________________________________________ HB1352 – Regional Veterans Assistance Commissions Co-Sponsor Allows counties to jointly establish Veterans Assistance Commissions to better serve veterans and their families.
+Illinois General Assembly – Bill Status of HB1352 ________________________________________________________________________ HB1362 – Military Leave Compensation Clarification Co-Sponsor Updates military differential compensation calculations for employees serving in the military.
+Illinois General Assembly – Bill Status of HB1362 ________________________________________________________________________ HB4336 – Building Permit Fee Waivers for Disabled Veterans Sponsor Expands fee waiver protections for disabled veterans to include additional permit and inspection costs.
+Illinois General Assembly – Bill Status of HB4336 ________________________________________________________________________ TRANSPORTATION & DRIVER SAFETY Legislation focused on safe roads, driver requirements, bicycles, e-bikes, crashes, and transportation systems.
+SB1251 – Vehicle Code Dismissal of Violation Sponsor Provides authority related to dismissal procedures for certain vehicle code violations.
+Illinois General Assembly – Bill Status of SB1251 ________________________________________________________________________ SB1843 – Recreation Trails / National Road Co-Sponsor Supports development and designation of recreational trail infrastructure along historic corridors.
+Illinois General Assembly – Bill Status of SB1843 ________________________________________________________________________ SB2075 – Cycle Rider Safety Improvements Co-Sponsor Improves safety standards and regulations for cyclists on Illinois roadways.
+Illinois General Assembly – Bill Status of SB2075 ________________________________________________________________________ SB2442 – Crash Reporting for Mopeds & Bicycles Co-Sponsor Updates reporting requirements for crashes involving mopeds and bicycles.
+Illinois General Assembly – Bill Status of SB2442 ________________________________________________________________________ SB2926 – Illinois Standard Time Act Co-Sponsor Exempts Illinois from daylight saving time requirements under federal law.
+Illinois General Assembly – Bill Status of SB2926 ________________________________________________________________________ SB3336 – Low-Speed Electric Bicycle Regulation Chief Co-Sponsor Updates statewide rules for low-speed electric bicycles to improve safety and create consistent enforcement standards.
+Illinois General Assembly – Bill Status of SB3336 ________________________________________________________________________ SB3484 – E-Bike and Micromobility Safety Co-Sponsor Regulates e-bike and micromobility safety laws to improve road and community safety.
+Illinois General Assembly – Bill Status of SB3484 ________________________________________________________________________ SB3635 – Motor Fuel Grade Crossing Co-Sponsor Modifies provisions related to motor fuel and infrastructure safety at railroad grade crossings.
+Illinois General Assembly – Bill Status of SB3635 ________________________________________________________________________ HB1226 – Senior Driver License Safety Requirements Co-Sponsor Updates in-person renewal and driving test requirements for older drivers and commercial license holders.
+Illinois General Assembly – Bill Status of HB1226 ________________________________________________________________________ HB4382 – Graduated Driver License Passenger Violation Penalties Co-Sponsor Strengthens penalties for young drivers whose passenger-limit violations result in bodily harm or permanent disability.
+Illinois General Assembly – Bill Status of HB4382 ________________________________________________________________________ HB5081 – Automated Speed Enforcement & Speed Limit Standards Co-Sponsor Updates rules governing automated speed enforcement systems and local speed limit reductions.
+Illinois General Assembly – Bill Status of HB5081 ________________________________________________________________________ AGRICULTURE & ENVIRONMENT Legislation focused on agriculture, land conservation, wastewater, PFAS, and environmental issues.
+SB4193 – Farmer Tax Benefit Act Co-Sponsor Creates tax incentives for land conservation and agricultural land protection agreements.
+Illinois General Assembly – Bill Status of SB4193 ________________________________________________________________________ HB2955 – PFAS Wastewater Protection Committee Co-Sponsor Creates a committee to study PFAS contamination, mitigation technology, and wastewater treatment funding options.
+Illinois General Assembly – Bill Status of HB2955 ________________________________________________________________________ GOVERNMENT ACCOUNTABILITY & LOCAL GOVERNMENT Legislation focused on transparency, local government efficiency, fiscal accountability, and government modernization.
+SB0136 – Income Tax LGDF Distribution Co-Sponsor Adjusts Local Government Distributive Fund allocations to support communities and local services.
+Illinois General Assembly – Bill Status of SB0136 ________________________________________________________________________ SB1120 – State Government Technology Modernization Co-Sponsor Modernizes state technology systems to improve efficiency and public access to services.
+Illinois General Assembly – Bill Status of SB1120 ________________________________________________________________________ SB1121 – State Government Cybersecurity & Digital Infrastructure Co-Sponsor Enhances digital infrastructure and cybersecurity within state government operations.
+Illinois General Assembly – Bill Status of SB1121 ________________________________________________________________________ SB1313 – Trust Act Noncitizen Detainee Co-Sponsor Amends provisions related to cooperation and detention policies involving noncitizen individuals.
+Illinois General Assembly – Bill Status of SB1313 ________________________________________________________________________ SB1699 – Noncitizen Cost Transparency Co-Sponsor Requires reporting and transparency regarding state and local costs associated with noncitizen services.
+Illinois General Assembly – Bill Status of SB1699 ________________________________________________________________________ SB1719 – Local Government Electronic Records Co-Sponsor Allows expanded use of electronic records to improve transparency and efficiency in local government.
+Illinois General Assembly – Bill Status of SB1719 ________________________________________________________________________ SB2094 – Fiscal Note Transparency Requirement Co-Sponsor Strengthens transparency by ensuring fiscal note requests on legislation are fulfilled and cannot be dismissed by chamber rules.
+Illinois General Assembly – Bill Status of SB2094 ________________________________________________________________________ SB4187 – School District Input on Residential Development Sponsor Requires local planning bodies to notify and consult school districts about developments that could impact enrollment.
+Illinois General Assembly – Bill Status of SB4187 ________________________________________________________________________ SB4211 – Appropriations Transparency Documentation Co-Sponsor Requires certain multi-agency appropriation amendments to include supplemental documentation to improve transparency in the budget process.
+Illinois General Assembly – Bill Status of SB4211 ________________________________________________________________________ SB4212 – Fiscal Transparency and Budget Accountability Co-Sponsor Strengthens budget and fiscal transparency requirements connected to state appropriations and legislative review.
+Illinois General Assembly – Bill Status of SB4212 ________________________________________________________________________ HB4160 – Community Support & Local Services Co-Sponsor Supports local service delivery and community-based policy improvements through updates to state law.
+Illinois General Assembly – Bill Status of HB4160 ________________________________________________________________________ Facebook Youtube Instagram X-twitter Tiktok Envelope-open-text Want a Darby Hills yard sign?
+They’re FREE!
+We’ll even deliver it and put it in your yard for you.
+All you have to do is fill out the form here , and we’ll take care of the rest!
+Campaign Office Address: 1000 Hart Road, Suite 208, Barrington, Illinois Office Hours: 8:30 a.m. to 7:30 p.m.
+Paid for by Citizens for Darby Hills.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website ( http://www.elections.il.gov ) or for purchase from the State Board of Elections, Springfield, Illinois.
+Customize Reject All Accept All Powered by

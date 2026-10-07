@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.voteboyer2026.com/vote",
- "paid_for_by": null,
+ "fingerprint": "4873fdb1df70055c640445e36612ee25c8d63aa6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

@@ -1,14 +1,50 @@
 [
-"http://clydeforcongress.com/",
-"https://clydeforcongress.com/introduction",
-"https://clydeforcongress.com/introduction/author/6a10dcc36d61c0a7df12ffbb",
-"https://clydeforcongress.com/introduction/category/platform",
-"https://clydeforcongress.com/introduction/tag/Alabama Elections",
-"https://clydeforcongress.com/introduction/tag/Alabama Politics",
-"https://clydeforcongress.com/introduction/tag/Alabama's First Congressional District",
-"https://clydeforcongress.com/introduction/tag/Campaign For Clyde Jones",
-"https://clydeforcongress.com/introduction/tag/Clyde Jones For Congress",
-"https://clydeforcongress.com/introduction/tag/Take Back Congress",
-"https://facebook.com/ClydeJonesForCongress",
-"https://instagram.com/clydeforcongress"
+{
+"text": "Alabama Elections",
+"href": "https://clydeforcongress.com/introduction/tag/Alabama%20Elections"
+},
+{
+"text": "Alabama Politics",
+"href": "https://clydeforcongress.com/introduction/tag/Alabama%20Politics"
+},
+{
+"text": "Alabama's First Congressional District",
+"href": "https://clydeforcongress.com/introduction/tag/Alabama's%20First%20Congressional%20District"
+},
+{
+"text": "Back to Blog",
+"href": "https://clydeforcongress.com/introduction"
+},
+{
+"text": "Campaign For Clyde Jones",
+"href": "https://clydeforcongress.com/introduction/tag/Campaign%20For%20Clyde%20Jones"
+},
+{
+"text": "Clyde Jones For Congress",
+"href": "https://clydeforcongress.com/introduction/tag/Clyde%20Jones%20For%20Congress"
+},
+{
+"text": "Platform",
+"href": "https://clydeforcongress.com/introduction/category/platform"
+},
+{
+"text": "Take Back Congress",
+"href": "https://clydeforcongress.com/introduction/tag/Take%20Back%20Congress"
+},
+{
+"text": "[image: Facebook logo icon]",
+"href": "https://www.facebook.com/ClydeJonesForCongress"
+},
+{
+"text": "[image: Instagram logo icon]",
+"href": "https://www.instagram.com/clydeforcongress"
+},
+{
+"text": "[image: Payton Moran]Payton Moran",
+"href": "https://clydeforcongress.com/introduction/author/6a10dcc36d61c0a7df12ffbb"
+},
+{
+"text": "clydeforcongress.com",
+"href": "http://clydeforcongress.com"
+}
 ]

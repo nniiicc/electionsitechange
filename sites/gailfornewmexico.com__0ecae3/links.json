@@ -1,12 +1,54 @@
 [
-"https://facebook.com/Gail4NM",
-"https://gailfornewmexico.com/",
-"https://gailfornewmexico.com/about",
-"https://gailfornewmexico.com/district-49",
-"https://gailfornewmexico.com/donate",
-"https://gailfornewmexico.com/legislation",
-"https://gailfornewmexico.com/volunteer",
-"https://instagram.com/gail4nm",
-"https://mailchi.mp/gopnm.org/save-nm-15484589?e=44f0d2894f",
-"https://twitter.com/Gail4NM"
+{
+"text": "About",
+"href": "https://gailfornewmexico.com/about/"
+},
+{
+"text": "District 49",
+"href": "https://gailfornewmexico.com/district-49/"
+},
+{
+"text": "Donate",
+"href": "https://gailfornewmexico.com/donate/"
+},
+{
+"text": "Get Involved Today",
+"href": "https://gailfornewmexico.com/volunteer/"
+},
+{
+"text": "Legislation",
+"href": "https://gailfornewmexico.com/legislation/"
+},
+{
+"text": "Volunteer",
+"href": "https://gailfornewmexico.com/volunteer/"
+},
+{
+"text": "Voter Registration",
+"href": "https://mailchi.mp/gopnm.org/save-nm-15484589?e=44f0d2894f"
+},
+{
+"text": "[image: Logo]",
+"href": "https://gailfornewmexico.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Gail4NM"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Gail4NM/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/gail4nm/"
+},
+{
+"text": "gail@gailfornewmexico.com",
+"href": "mailto:gail@gailfornewmexico.com"
+},
+{
+"text": "learn more",
+"href": "https://gailfornewmexico.com/about/"
+}
 ]

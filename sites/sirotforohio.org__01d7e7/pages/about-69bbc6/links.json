@@ -1,11 +1,42 @@
 [
-"https://facebook.com/profile.php?id=61576199866457",
-"https://instagram.com/sirotforohsenate",
-"https://secure.actblue.com/donate/laura-sirot-1",
-"https://sirotforohio.org/",
-"https://sirotforohio.org/about",
-"https://sirotforohio.org/cart",
-"https://sirotforohio.org/contact",
-"https://sirotforohio.org/priorities",
-"https://sirotforohio.org/volunteer"
+{
+"text": "0",
+"href": "https://www.sirotforohio.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.sirotforohio.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.sirotforohio.org/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/laura-sirot-1"
+},
+{
+"text": "Laura@SirotForOhio.org",
+"href": "mailto:Laura@SirotForOhio.org"
+},
+{
+"text": "Priorities",
+"href": "https://www.sirotforohio.org/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sirotforohio.org/volunteer"
+},
+{
+"text": "[image: Sirot for State Senate]",
+"href": "https://www.sirotforohio.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576199866457"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sirotforohsenate/"
+}
 ]

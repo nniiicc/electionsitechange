@@ -1,12 +1,50 @@
 [
-"https://donparsons.org/balcony_solar.htm",
-"https://donparsons.org/bio.htm",
-"https://donparsons.org/budget%20highlights%20fy2027.html",
-"https://donparsons.org/legacy.html",
-"https://donparsons.org/literacy.html",
-"https://donparsons.org/reelection.html",
-"https://donparsons.org/reelection.pdf",
-"https://donparsons.org/tax%20savings.html",
-"https://donparsons.org/the_campaign.html",
-"https://paypal.com/donate?cmd=_s-xclick&hosted_button_id=EAEBFF9L7HPZ6"
+{
+"text": "Read More",
+"href": "https://donparsons.org/reelection.html"
+},
+{
+"text": "You You can make a contribution to the Friends of Don Parsons - my campaign for reelection to the Georgia House of Representatives - at this secure link.",
+"href": "https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=EAEBFF9L7HPZ6"
+},
+{
+"text": "[image: about]",
+"href": "https://donparsons.org/bio.htm"
+},
+{
+"text": "[image: contact]",
+"href": "mailto:repdon@donparsons.org"
+},
+{
+"text": "[image: donate]",
+"href": "https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=EAEBFF9L7HPZ6"
+},
+{
+"text": "[image: issues]",
+"href": "https://donparsons.org/the_campaign.html"
+},
+{
+"text": "[image: legacy]",
+"href": "https://donparsons.org/legacy.html"
+},
+{
+"text": "[no text]",
+"href": "https://donparsons.org/reelection.pdf"
+},
+{
+"text": "here",
+"href": "https://donparsons.org/balcony_solar.htm"
+},
+{
+"text": "more info",
+"href": "https://donparsons.org/tax%20savings.html"
+},
+{
+"text": "see information on budget here",
+"href": "https://donparsons.org/budget%20highlights%20fy2027.html"
+},
+{
+"text": "see more",
+"href": "https://donparsons.org/literacy.html"
+}
 ]

@@ -1,5 +1,4 @@
-From the Round House
-How do I know an arbitrary increase in the minimum wage will hurt low-wage workers?
+Home News IN THE NEWS VETERANS RESOURCES PARENTAL NOTIFICATION FORM EXPECTING MOTHERS ABOUT ABOUT REBECCA REBECCA'S VALUES CONTACT REBECCA Contribute News Home In the News Article 5 Feb From the Round House By housereplogin How do I know an arbitrary increase in the minimum wage will hurt low-wage workers?
 Simple, I was one.
 It may be easy to believe an increase in the minimum wage is appealing because I don’t know anyone who would turn down a raise.
 The jobs that pay minimum wage often require the maximum work and no one would say it is easy.
@@ -20,3 +19,5 @@ Not only will it keep potential customers at home, those who do go out to eat wi
 The math is simple: prices for food and gas are set, but a tip is negotiable.
 If we increase the minimum wage for tipped workers I can guarantee tips will be less and ultimately hurt the workers we want to support.
 Common sense policy that supports both workers and businesses is what’s needed and what I can support.
+Contact Rebecca Address: 1309 N.
+Riverside, Truth or Consequences, NM 87901 Phone: (575) 341-1301 Email: rebecca@dowforhouse.com Links Home News Contact Rebecca Contribute PAID FOR BY COMMITTEE TO ELECT REBECCA DOW

@@ -1,7 +1,9 @@
 {
  "description": "Admin Dashboard on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/AdminDashboard",
- "paid_for_by": null,
+ "fingerprint": "0fb15a63e56b08509f04d37c0777f30c5a81ffe4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Admin Dashboard | Maxwell for Congress",
  "years_mentioned": []
 }

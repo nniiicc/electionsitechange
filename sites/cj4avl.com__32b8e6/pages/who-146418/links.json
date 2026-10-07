@@ -1,7 +1,26 @@
 [
-"https://cj4avl.com/",
-"https://cj4avl.com/blank-2",
-"https://cj4avl.com/copy-of-donate",
-"https://cj4avl.com/who",
-"https://paypal.com/donate?hosted_button_id=V59RMWPGA5W4Q"
+{
+"text": "Contact",
+"href": "https://www.cj4avl.com/blank-2"
+},
+{
+"text": "Donate",
+"href": "https://www.cj4avl.com/copy-of-donate"
+},
+{
+"text": "Donate Now (Credit/Debit/Paypal)",
+"href": "https://www.paypal.com/donate/?hosted_button_id=V59RMWPGA5W4Q"
+},
+{
+"text": "Home",
+"href": "https://www.cj4avl.com"
+},
+{
+"text": "Who?",
+"href": "https://www.cj4avl.com/who"
+},
+{
+"text": "charles@cj4avl.com",
+"href": "mailto:charles@cj4avl.com"
+}
 ]

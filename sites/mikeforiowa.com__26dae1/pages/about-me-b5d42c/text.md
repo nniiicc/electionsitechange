@@ -1,4 +1,4 @@
-I’m a lifelong Iowan, born in Des Moines, raised in Urbandale and Windsor Heights, and graduated from Johnston High School.
+Skip to content Home About Me Issues Endorsements Contact Get Involved Donate Donate Home About Me Issues Endorsements Contact Get Involved Donate Donate About Me I’m a lifelong Iowan, born in Des Moines, raised in Urbandale and Windsor Heights, and graduated from Johnston High School.
 I attended DMACC, the University of Iowa, and Drake Law School.
 Upon graduating from Drake, I settled in Windsor Heights with my family, as we loved the neighborhood, trees, community, and my grandparents had lived here for decades.
 In 2017, I was disappointed with how elected officials weren’t listening to my neighbors in the community.
@@ -14,3 +14,4 @@ It’s time for a change.
 We need bold, progressive, Democratic ideas to make Iowa a welcoming place for everyone, not just those in power.
 We should not compromise our ideals in the name of civility.
 I hope you’ll join me in this fight to make Iowa once again a place to grow.
+Facebook info@mikefo r iowa.com | (515) 421-8642‬ Copyright © # Paid for by Mike Jones for Iowa House Scroll to Top

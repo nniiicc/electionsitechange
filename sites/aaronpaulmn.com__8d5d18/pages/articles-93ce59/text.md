@@ -1,3 +1,2 @@
-Articles
-30-Year Police Officer Aaron Paul Announces Campaign for Minnesota House Serving Shakopee
-Shakopee, MN — Longtime public servant and current police sergeant, Aaron Paul, announced today his candidacy for the Minnesota House of Representatives, pledging to bring common-sense leadership and accessible representation to the people of Shakopee…
+Home Issues Endorsements Photos Articles Videos Priorities Survey Voting Information Contact Donate Articles 30-Year Police Officer Aaron Paul Announces Campaign for Minnesota House Serving Shakopee Shakopee, MN — Longtime public servant and current police sergeant, Aaron Paul, announced today his candidacy for the Minnesota House of Representatives, pledging to bring common-sense leadership and accessible representation to the people of Shakopee… Follow Follow Follow Get Involved | The Republican Party of Minnesota | Scott County GOP Prepared and Paid for by Aaron Paul for Minnesota House | P.O.
+Box 385125, 6101 West Old Shakopee Rd, Bloomington, MN 55438

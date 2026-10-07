@@ -1,4 +1,4 @@
-Meet John Stegner on his statewide ‘Do the Work’ Tour.
+0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Back to All Events Join John in Glenns Ferry Saturday, September 19, 2026 2:30 PM 4:00 PM 92 South Joseph Ferry Drive Glenns Ferry, Idaho, 83623 United States (map) Google Calendar ICS Meet John Stegner on his statewide ‘Do the Work’ Tour.
 Hear his vision for Idaho, ask questions, and learn how you can help shape our state.
 John Stegner believes leadership begins by showing up.
 That's why he's traveling across Idaho on the Do the Work Tour—meeting people where they live, listening to their experiences, answering questions, and having real conversations about the future of our state.
@@ -13,3 +13,4 @@ You'll also discover ways to become involved—whether that's volunteering, help
 We hope you’ll join us in Glenns Ferry or at another stop on the Do the Work Tour.
 View the full statewide schedule here: https://www.stegnerforidaho.com/events .
 More stops are added every day!
+RSVP HERE Previous Previous September 17 Join John in Boise Next Next September 23 Join John at An Evening with Independent Candidates Stegner for Idaho Paid for by Stegner for Idaho Treasurer: Joe Stegner Privacy policy Terms & conditions Contact M: info@stegnerforidaho.com Ph: (208) 830-0373 Stegner for Idaho PO Box 86 Boise, ID 83701

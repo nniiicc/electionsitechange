@@ -1,14 +1,2 @@
-September 30th, 2026
-Detroit Free Press
-September 29th, 2026
-The ‘Gander Newsroom
-September 28th, 2026
-Downtown Newsmagazine
-September 23rd, 2026
-Orion Neighborhood Television
-August 28th, 2026
-Oakland County Times
-January 8th, 2026
-The Detroit News
-September 29th, 2025
-The ‘Gander Newsroom
+0 Skip to Content Meet Sarah On the Campaign Trail Endorsements Priorities In the News Contact Donate Open Menu Close Menu Meet Sarah On the Campaign Trail Endorsements Priorities In the News Contact Donate Open Menu Close Menu Meet Sarah On the Campaign Trail Endorsements Priorities In the News Contact Donate Freep Picks for Michigan House in Nov.
+3 Election | Endorsement September 30th, 2026 Detroit Free Press Read more Read more Oakland County Mom Runs for Office to Protect Repro Health Access in Her District and Beyond September 29th, 2026 The ‘Gander Newsroom Read more Our Recommendations for November Ballot September 28th, 2026 Downtown Newsmagazine Read more Meet the Candidates 2026: Sarah Pounds, Candidate for State Representative 54th District September 23rd, 2026 Orion Neighborhood Television Read more Read more 2026 Candidate Interview: Sarah Pounds for State Representative District 54 August 28th, 2026 Oakland County Times Read more 10 Michigan Political Races to Watch at the Start of 2026 January 8th, 2026 The Detroit News Read more These Two Southeast Michigan Moms Want to Fight for Their Communities — so They’re Running for Office September 29th, 2025 The ‘Gander Newsroom Read more Meet Sarah Priorities Get in Touch Donate Here Volunteer Here Paid for by Committee to Elect Sarah Pounds, PO Box 80086 Rochester, MI 48308

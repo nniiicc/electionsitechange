@@ -1,6 +1,4 @@
-0
-MEET SUE
-STRONG families ...
+Home Meet Sue Issues Endorsements In the News Donate Contact Us Meet Sue 0 MEET SUE STRONG families ...
 STRONG communities ... a STRONGER South Dakota!
 Sue Peterson has had the privilege of serving the people of District 13 in the South Dakota House of Representatives for the past 7 years.
 During her time in the State Legislature Rep.
@@ -12,17 +10,14 @@ Sue has a bachelor's degree in Business Administration and Communications from C
 Prior to serving in the State Legislature Sue was a commercial banker, and track coach at Sioux Falls Christian High School.
 The job she is most proud of is that of being a mom.
 Sue and her husband Bill have 3 grown children, Lucas, Robert, and William, who were born, raised and reside in Sioux Falls.
-STRONG Families
-Sue Peterson understands the importance of strong families.
+STRONG Families Sue Peterson understands the importance of strong families.
 In Pierre, she works to keep more power in the hands of parents and families and will always resist top down government control of healthcare, education, and other areas of our lives.
 Sue is pro family and pro second amendment.
 She has an “A+“ rating from the NRA and a 100% “A” rating from South Dakota Right to Life.
-STRONG Communities
-Sue and her family are long time Sioux Falls residents with a rich history of investing in our community.
+STRONG Communities Sue and her family are long time Sioux Falls residents with a rich history of investing in our community.
 Sue’s leadership as a high school track and field coach has impacted the lives of many young people and her financial expertise has helped revitalize local organizations.
 As a member of the Appropriations Committee, Sue works to ensure adequate funding for Medicaid providers and fought to secure funding for the State Veterans Cemetery in Sioux Falls.
-A STRONGER South Dakota
-Sue believes South Dakota is a great place to work and raise a family.
+A STRONGER South Dakota Sue believes South Dakota is a great place to work and raise a family.
 She will always support our quality of life and a favorable business climate of low taxes and minimal government regulation.
 As chair of the Government Operations and Audit Committee, Sue leads the effort to keep government accountable to the people.
 Sue championed the Campus Free Speech and Intellectual Diversity legislation; and the Opportunity Scholarship Fairness bill, which keeps more South Dakota students in state for college and beyond.
@@ -37,18 +32,16 @@ Sue has a bachelor's degree in Business Administration and Communications from C
 Prior to serving in the State Legislature Sue was a commercial banker, and track coach at Sioux Falls Christian High School.
 The job she is most proud of is that of being a mom.
 Sue and her husband Bill have 3 grown children, Lucas, Robert, and William, who were born, raised and reside in Sioux Falls.
-STRONG Families
-Sue Peterson understands the importance of strong families.
+STRONG Families Sue Peterson understands the importance of strong families.
 In Pierre, she works to keep more power in the hands of parents and families and will always resist top down government control of healthcare, education, and other areas of our lives.
 Sue is pro family and pro second amendment.
 She has an “A+“ rating from the NRA and a 100% “A” rating from South Dakota Right to Life.
-STRONG Communities
-Sue and her family are long time Sioux Falls residents with a rich history of investing in our community.
+STRONG Communities S ue and her family are long time Sioux Falls residents with a rich history of investing in our community.
 Sue’s leadership as a high school track and field coach has impacted the lives of many young people and her financial expertise has helped revitalize local organizations.
 As a member of the Appropriations Committee, Sue works to ensure adequate funding for Medicaid providers and fought to secure funding for the State Veterans Cemetery in Sioux Falls.
-A STRONGER South Dakota
-Sue believes South Dakota is a great place to work and raise a family.
+A STRONGER South Dakota Sue believes South Dakota is a great place to work and raise a family.
 She will always support our quality of life and a favorable business climate of low taxes and minimal government regulation.
 As chair of the Government Operations and Audit Committee, Sue leads the effort to keep government accountable to the people.
 Sue championed the Campus Free Speech and Intellectual Diversity legislation; and the Opportunity Scholarship Fairness bill, which keeps more South Dakota students in state for college and beyond.
 Sue was honored as the South Dakota Veterans Council Legislator of the Year and was recognized as an AFP Torchbearer of Freedom.
+Paid for by Sue Peterson District 13 Share by:

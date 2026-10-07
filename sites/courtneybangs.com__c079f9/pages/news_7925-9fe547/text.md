@@ -1,6 +1,5 @@
-County commissioner announces campaign for state Senate
-The Astorian
-For many Clatsop County voters, the next state Senate race is still a distant thought — but for Courtney Bangs, it’s top of mind.
+0 Skip to Content Home About Priorities Endorsements Latest News Volunteer Contact Donate Today Open Menu Close Menu Open Menu Close Menu Home About Priorities Endorsements Latest News Volunteer Contact Donate Today Home About Priorities Endorsements Latest News Volunteer Contact Donate Today County commissioner announces campaign for state Senate Jul 9 Written By Charlie Rieckers Courtney Bangs and Senator Suzanne Weber at the Warrenton 4th of July Parade - Left: Courtney Bangs, Right: Sen.
+Suzanne Weber The Astorian For many Clatsop County voters, the next state Senate race is still a distant thought — but for Courtney Bangs, it’s top of mind.
 Over the weekend, the Clatsop County commissioner officially launched her campaign for Senate District 16, announcing plans to seek the Republican nomination in the May 2026 primary.
 If elected, she would replace Sen.
 Suzanne Weber, a Tillamook Republican who was barred from running for reelection in 2026 after participating in a 2023 Republican walkout in an effort to stall bills on abortion, gun control and gender-affirming care.
@@ -14,7 +13,7 @@ But now, after many long conversations with Weber and Weber’s chief of staff, 
 “Courtney Bangs is exactly the kind of leader we need in the Oregon Senate,” Weber said in a campaign press release.
 “Her experience as a county commissioner, her dedication to our rural communities, and her proven track record of common sense governance make her the clear and only choice for Senate District 16 in the Republican primary and November election of next year.
 No one is a fiercer advocate for the people she works to protect than Commissioner Bangs.
-I cannot wait to see how she shakes things up in Salem.”
-Priorities Bangs, who works as an academic director and teacher at Encore Academy in Warrenton, has more than 25 years of experience in education and has lived in the area for 17 years.
+I cannot wait to see how she shakes things up in Salem.” Priorities Bangs, who works as an academic director and teacher at Encore Academy in Warrenton, has more than 25 years of experience in education and has lived in the area for 17 years.
 She said her lived experience in rural communities plays a key role in the positions she takes on state-level issues.
 “I’ve lived rural a majority of my life, and have come to see the inequities that are attached to that in regards to the education that my children have access to, the healthcare that my children have access to, or that my older adult family members have access to,” Bangs said.
+Read the Full Article Charlie Rieckers Previous Previous Guest Column: With conservation goals met, it’s time to balance the scales and support struggling communities Next Next Courtney Bangs runs for Senate #16 Home Volunteer Contact Donate Privacy Policy Paid for by Courtney Bangs PAC | © # Oregon State Senate - District 16

@@ -1,6 +1,4 @@
-Restoring Justice: Addressing the Underfunding Crisis in Our Police Departments
-Updated: Mar 5
-In the vibrant tapestry of California's 49th Assembly District—encompassing the close-knit communities of Monterey Park, Alhambra, San Gabriel, and surrounding areas—our police officers represent the unwavering backbone of public safety.
+top of page Home Blog Blog Post Issue Comparison Blog Post Issue Comparison Issues Media Contact Us Endorsements Media Press DONATE Blog Post Issue Comparison Restoring Justice: Addressing the Underfunding Crisis in Our Police Departments Long Liu Office Mar 4 4 min read Updated: Mar 5 In the vibrant tapestry of California's 49th Assembly District—encompassing the close-knit communities of Monterey Park, Alhambra, San Gabriel, and surrounding areas—our police officers represent the unwavering backbone of public safety.
 These dedicated professionals, often hailing from the very neighborhoods they protect, embody resilience and sacrifice, patrolling streets lined with family-owned businesses, historic temples, and bustling markets.
 Yet, beneath this facade of community harmony lies a deepening crisis: chronic underfunding, debilitating staffing shortages, and a societal undervaluation that hampers their ability to deliver timely justice.
 As a candidate rooted in this district, with family ties to local entrepreneurs and educators, I've witnessed firsthand how these issues erode trust and amplify vulnerabilities.
@@ -43,3 +41,6 @@ Streamline hiring, invest in outreach to rebuild trust, and advocate federally a
 As assemblymember, I'll prioritize bipartisan reforms, drawing from successful models like Berkeley's staffing assessments and PORAC's calls for efficient recruitment pipelines.
 Our officers deserve resources; our communities demand security.
 Let's restore justice together, ensuring that the families, businesses, and cultural heritage of Monterey Park, Alhambra, and San Gabriel are protected by a well-supported, adequately staffed police force that can respond swiftly and effectively to every call.
+Recent Posts See All Attacked While Advocating for a Safer California at San Gabriel Town Hall We Debate.
+You Decide.
+Endorsement from Phillip Chen 加州第49選區州眾議員競選 davidliucampaign@gmail.com © # 劉朗大衛州眾議員競選委員會。由劉朗大衛競選團隊支付。 bottom of page

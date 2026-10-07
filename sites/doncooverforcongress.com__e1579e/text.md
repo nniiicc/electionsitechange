@@ -1,14 +1,11 @@
-About Don
-Don Coover was born and raised in rural Southeast Kansas and is the second oldest of seven children.
+× Support Don's Campaign $ 10 $ 25 $ 50 $ 100 Other Amount Continue to Site About Don Why I’m Running Updates Media Donate About Don Why I’m Running Updates Media Donate Join Don's Campaign About Don Don Coover was born and raised in rural Southeast Kansas and is the second oldest of seven children.
 Don’s family ran a small dairy, alfalfa, and soybean farm.
 His dad was a union truck driver and farmer and his mother a school teacher.
 His parents told him, “You don’t have to be the fastest, smartest, or best.
 As long as you are the hardest worker at whatever you decide, you’ll be ok.” Don’s parents taught him honesty, responsibility, respectfulness, and the value of hard work, and to always appreciate those traits in others.
 While attending West Point, Don was one of the only cadets in his company from a rural community.
 Don participated on the intercollegiate pistol team as a freshman, and he was a competitive intramural boxer.
-Learn More
-Why I'm Running
-I love spending my time on the ranch.
+Learn More Why I'm Running I love spending my time on the ranch.
 Any sane person can see how broken politics is these days.
 When something is broken, something has to be done to fix it.
 I’ve always been one of the guys who would do the jobs that had to get done but no one else wanted to do.
@@ -23,3 +20,6 @@ We need folks willing to work together, who know how to spend within their means
 So I’m running for Congress because I want to help move our country in the right direction for my granddaughter and for Kansans.
 I’d like the folks who know what it’s like to put in a hard day’s work to be making the decisions again in Washington.
 Until we do, I don’t think much of anything is going to change.
+Support Don's Campaign $ 10 $ 25 $ 50 $ 100 Other Amount Donate About Don Why I’m Running Updates Media Don Coover for Congress Contact: info@doncooverforcongress.com Mail Contributions to: 101 W 29th St Ste G, #285 Pittsburg, KS 66762 Paid for by Don Coover for Congress Privacy Policy © # Don Coover is a U.S.
+Army Veteran.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement from the Department of Defense or the Department of the Army. ↑

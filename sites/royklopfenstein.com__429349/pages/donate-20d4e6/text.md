@@ -1,9 +1,3 @@
-DONATE
-Donations to my re-election campaign can be made by sending your contribution payable to "Klopfenstein for Ohio" and sent to the following address:
-KLOPFENSTEIN FOR OHIO
-Stan D.
-Owens, Treasurer
-2693 Road 87
-Haviland, Ohio 45851
-If you would like to make a donation to my campaign online using a credit card (Visa, Mastercard, Discover, American Express), Apple Pay, or Google Pay),
-please click on the below button:
+HOME ABOUT Re-Election Campaign Announcement Photos and Videos GOPTV Interviews ENDORSEMENTS DONATE CONTACT Get in touch 419-771-6935 roy@royklopfenstein.com HOME ABOUT Re-Election Campaign Announcement Photos and Videos GOPTV Interviews ENDORSEMENTS DONATE CONTACT DONATE Donations to my re-election campaign can be made by sending your contribution payable to "Klopfenstein for Ohio" and sent to the following address: KLOPFENSTEIN FOR OHIO Stan D.
+Owens, Treasurer 2693 Road 87 Haviland, Ohio 45851 If you would like to make a donation to my campaign online using a credit card (Visa, Mastercard, Discover, American Express), Apple Pay, or Google Pay), please click on the below button: Make a Donation For Official State of Ohio Related Topics and Issues, Please Contact My Office in the Ohio House of Representatives (Please click on the above icon) Paid for by Klopfenstein for Ohio, Stan D.
+Owens, Treasurer Share by:

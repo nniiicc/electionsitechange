@@ -1,4 +1,4 @@
-[March 27, 2023] | This past week was our last full week of the legislative session.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK LAST FULL WEEK OF LEGISLATIVE SESSION [ March 27, 2023 ] | This past week was our last full week of the legislative session.
 When you read this, we will be on the last day.
 Sie Die, the end, will be on Wednesday, March 29.
 Boy, there is a lot to happen between now and then!
@@ -24,3 +24,4 @@ I encourage you to visit me at my Capitol office, or call me if you have any que
 My Capitol office number is 404-656-7153.
 My email is rick.jasperse@house.ga.gov.
 As always, thank you for allowing me to serve as your State Representative.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

@@ -1,17 +1,102 @@
 [
-"http://facebook.com/sununusenator",
-"http://instagram.com/sununusenator",
-"http://tiktok.com/@sununusenator",
-"http://x.com/sununusenator",
-"http://youtube.com/@sununusenator",
-"https://secure.winred.com/sununu-senator/website-donate",
-"https://sununusenator.com/",
-"https://sununusenator.com/about",
-"https://sununusenator.com/endorsements",
-"https://sununusenator.com/join",
-"https://sununusenator.com/media",
-"https://sununusenator.com/news",
-"https://sununusenator.com/privacy",
-"https://sununusenator.com/terms",
-"https://truthsocial.com/@SununuSenator"
+{
+"text": "ABOUT",
+"href": "https://www.sununusenator.com/about"
+},
+{
+"text": "CONTACT",
+"href": "mailto:info@sununusenator.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/sununu-senator/website-donate"
+},
+{
+"text": "DONATE NOW TO SEND JOHN SUNUNU TO THE SENATE",
+"href": "https://secure.winred.com/sununu-senator/website-donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.sununusenator.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.sununusenator.com"
+},
+{
+"text": "Info@SununuSenator.com",
+"href": "mailto:info@sununusenator.com"
+},
+{
+"text": "JOIN",
+"href": "https://www.sununusenator.com/join"
+},
+{
+"text": "MEDIA",
+"href": "https://www.sununusenator.com/media"
+},
+{
+"text": "NEWS",
+"href": "https://www.sununusenator.com/news"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.sununusenator.com/privacy"
+},
+{
+"text": "TERMS OF SERVICE",
+"href": "https://www.sununusenator.com/terms"
+},
+{
+"text": "[image: SUNUNU-LOGO-tp.png]",
+"href": "https://www.sununusenator.com"
+},
+{
+"text": "[image: Sununu Icon (13)]",
+"href": "http://facebook.com/sununusenator"
+},
+{
+"text": "[image: Sununu Icon (14)]",
+"href": "http://facebook.com/sununusenator"
+},
+{
+"text": "[image: Sununu Icon (15)]",
+"href": "http://x.com/sununusenator"
+},
+{
+"text": "[image: Sununu Icon (16)]",
+"href": "http://x.com/sununusenator"
+},
+{
+"text": "[image: Sununu Icon (17)]",
+"href": "http://instagram.com/sununusenator"
+},
+{
+"text": "[image: Sununu Icon (18)]",
+"href": "http://instagram.com/sununusenator"
+},
+{
+"text": "[image: Sununu Icon (19)]",
+"href": "http://youtube.com/@sununusenator"
+},
+{
+"text": "[image: Sununu Icon (20)]",
+"href": "http://youtube.com/@sununusenator"
+},
+{
+"text": "[image: Sununu Icon (21)]",
+"href": "https://truthsocial.com/@SununuSenator"
+},
+{
+"text": "[image: Sununu Icon (22)]",
+"href": "https://truthsocial.com/@SununuSenator"
+},
+{
+"text": "[image: Sununu Icon (23)]",
+"href": "http://tiktok.com/@sununusenator"
+},
+{
+"text": "[image: Sununu Icon (24)]",
+"href": "http://tiktok.com/@sununusenator"
+}
 ]

@@ -1,10 +1,13 @@
 {
  "description": "",
  "final_url": "https://patdixon.org/my-journey/",
- "paid_for_by": null,
+ "fingerprint": "2f0575ec2cbe6e09e3d3cd73fd165fbdf483129c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "My Journey",
  "years_mentioned": [
   "2013",
-  "2015"
+  "2015",
+  "2026"
  ]
 }

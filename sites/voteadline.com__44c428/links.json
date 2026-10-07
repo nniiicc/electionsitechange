@@ -1,13 +1,54 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSdAunpSdAIpMhL-hm2v7qS8mb9ElenRdBtmvQscG8X42ky3_Q/viewform?pli=1",
-"https://facebook.com/RepAdlineClarke",
-"https://myinfo.alabamavotes.gov/voterview",
-"https://secure.actblue.com/donate/adline-clarke-1",
-"https://voteadline.com/",
-"https://voteadline.com/about-adline",
-"https://voteadline.com/am-i-in-district-97",
-"https://voteadline.com/gallery",
-"https://voteadline.com/let-me-hear-from-you",
-"https://voteadline.com/my-record",
-"https://voteadline.com/platform"
+{
+"text": "ABOUT ADLINE",
+"href": "https://www.voteadline.com/about-adline"
+},
+{
+"text": "CONTACT",
+"href": "https://www.voteadline.com/let-me-hear-from-you"
+},
+{
+"text": "DISTRICT MAP",
+"href": "https://www.voteadline.com/am-i-in-district-97"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/adline-clarke-1"
+},
+{
+"text": "GALLERY",
+"href": "https://www.voteadline.com/gallery"
+},
+{
+"text": "HOME",
+"href": "https://www.voteadline.com"
+},
+{
+"text": "MY RECORD",
+"href": "https://www.voteadline.com/my-record"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.voteadline.com/platform"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/RepAdlineClarke/"
+},
+{
+"text": "aclarkehd97@gmail.com",
+"href": "mailto:aclarkehd97@gmail.com"
+},
+{
+"text": "online",
+"href": "https://secure.actblue.com/donate/adline-clarke-1"
+},
+{
+"text": "this form",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdAunpSdAIpMhL-hm2v7qS8mb9ElenRdBtmvQscG8X42ky3_Q/viewform?pli=1"
+},
+{
+"text": "www.alabamavotes.gov",
+"href": "https://myinfo.alabamavotes.gov/voterview"
+}
 ]

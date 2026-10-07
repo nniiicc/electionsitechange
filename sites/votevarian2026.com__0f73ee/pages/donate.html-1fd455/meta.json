@@ -1,7 +1,11 @@
 {
  "description": "Donate and help support the campaign.",
  "final_url": "https://votevarian2026.com/donate.html",
- "paid_for_by": null,
+ "fingerprint": "b68e84effc19180d2abee0cd0b40bbd83c187dd8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "donate | VoteVarian2026",
- "years_mentioned": []
+ "years_mentioned": [
+  "1960"
+ ]
 }

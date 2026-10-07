@@ -1,33 +1,130 @@
 [
-"http:///",
-"https://facebook.com/SaraLove4MD",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/sara.love4md",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0181?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0347?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0432?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0669?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0496?ys=2024rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0575?ys=2024rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0814?ys=2024rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0853",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0348?ys=2025RS",
-"https://saralove4md.com/",
-"https://saralove4md.com/animal-protection-1",
-"https://saralove4md.com/biography",
-"https://saralove4md.com/contact",
-"https://saralove4md.com/education",
-"https://saralove4md.com/endorsements",
-"https://saralove4md.com/energy",
-"https://saralove4md.com/gun-safety",
-"https://saralove4md.com/justice-and-safety",
-"https://saralove4md.com/newsletters",
-"https://saralove4md.com/press",
-"https://saralove4md.com/reproductive-rights",
-"https://saralove4md.com/scholarships",
-"https://saralove4md.com/the-environment",
-"https://saralove4md.com/transportation",
-"https://saralove4md.com/voting-information",
-"https://secure.actblue.com/donate/friends-of-sara-love-1",
-"https://x.com/@saralove4MD"
+{
+"text": "Adult Protective Services Investigations (SB 347/HB 542)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0347?ys=2025RS"
+},
+{
+"text": "Animal Protection",
+"href": "https://saralove4md.com/animal-protection-1"
+},
+{
+"text": "Biography",
+"href": "https://saralove4md.com/biography"
+},
+{
+"text": "Child Victim’s Testimony in an Abuse Case (SB 274/HB 292)",
+"href": "http://"
+},
+{
+"text": "Contact",
+"href": "https://saralove4md.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-sara-love-1"
+},
+{
+"text": "Education",
+"href": "https://saralove4md.com/education"
+},
+{
+"text": "Endorsements",
+"href": "https://saralove4md.com/endorsements"
+},
+{
+"text": "Energy",
+"href": "https://saralove4md.com/energy"
+},
+{
+"text": "Expungement Reform Act of 2025 (SB 432)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0432?ys=2025RS"
+},
+{
+"text": "Geriatric and Medical Parole (SB 181)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0181?ys=2025RS"
+},
+{
+"text": "Gun Safety",
+"href": "https://saralove4md.com/gun-safety"
+},
+{
+"text": "Home",
+"href": "https://saralove4md.com/"
+},
+{
+"text": "Justice and Safety",
+"href": "https://saralove4md.com/justice-and-safety"
+},
+{
+"text": "Juvenile Law - Reform (HB 814",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0814/?ys=2024rs"
+},
+{
+"text": "Maryland Second Look Act (HB 853)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0853"
+},
+{
+"text": "Newsletters",
+"href": "https://saralove4md.com/newsletters"
+},
+{
+"text": "Press",
+"href": "https://saralove4md.com/press"
+},
+{
+"text": "Rape Kit Testing - Tracking Program and Grant Fund (SB 669/HB 675)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0669?ys=2025RS"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://saralove4md.com/reproductive-rights"
+},
+{
+"text": "Scholarships",
+"href": "https://saralove4md.com/scholarships"
+},
+{
+"text": "Sexual Crimes - Definition of Consent and Repeal of Force (HB 496",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0496/?ys=2024rs"
+},
+{
+"text": "The Environment",
+"href": "https://saralove4md.com/the-environment"
+},
+{
+"text": "Transportation",
+"href": "https://saralove4md.com/transportation"
+},
+{
+"text": "Victim's Compensation Reform Act (HB 575",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0575/?ys=2024rs"
+},
+{
+"text": "Visual Surveillance with Prurient Intent (SB 348/HB 437)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0348?ys=2025RS"
+},
+{
+"text": "Voting Information",
+"href": "https://saralove4md.com/voting-information"
+},
+{
+"text": "[image: Sara Love for Maryland Delegate]",
+"href": "https://saralove4md.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SaraLove4MD/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sara.love4md"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/@saralove4MD"
+}
 ]

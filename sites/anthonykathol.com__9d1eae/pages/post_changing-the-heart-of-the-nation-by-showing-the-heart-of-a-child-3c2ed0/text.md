@@ -1,4 +1,6 @@
-Changing the Heart of the Nation by Showing the Heart of a Child
+top of page Home About Me Testimonials Blog Donate Contact Changing the Heart of the Nation by Showing the Heart of a Child Anthony Kathol Sep 24 6 min read Rated NaN out of 5 stars.
+South Dakota State Senate Candidate Anthony Kathol attending the Heart of a Child Ministries Progam at St.
+Nicholas Catholic Church, September 20, 2026.
 This past Sunday, I had the pleasure of attending a presentation put on by Heart of a Child Ministries at St.
 Nicholas Catholic Church in Valentine, NE, and seeing in person my first-ever ultrasound of a 22-week-developed baby within the womb of an expectant mother.
 The experience was captivating: seeing the child’s forehead, eyes, nose, mouth, feet, toes, hands, spine, and umbilical cord.
@@ -22,9 +24,8 @@ Below is a slide from Heart of a Child Ministries showing the effects of abortio
 There is only one infant available for every 36 families who want to adopt.
 Heart of a Child Ministries shared with those in attendance that 75% of adoptions are open adoptions where adopted parents share information with the biological parents and maintain contact as the child matures into adulthood; the remaining 25% are either closed or semi-open.
 Moreover, in interviews, 60% of women who had chosen an abortion would have chosen life had they had encouragement and support from family, friends, educators, coaches, their parish community, and prolife pregnancy centers.
-Today, the vast majority of abortions (65%) are chemical abortions through the use of two pills:
-- Mifepristone: blocks the hormone progesterone, which breaks down the uterine lining, preventing the pregnancy from continuing.
-- Misoprostol is taken 24–48 hours later at home to induce uterine contractions and complete the abortion, after which the baby is then flushed down the toilet.
+Today, the vast majority of abortions (65%) are chemical abortions through the use of two pills: Mifepristone : blocks the hormone progesterone, which breaks down the uterine lining, preventing the pregnancy from continuing.
+Misoprostol is taken 24–48 hours later at home to induce uterine contractions and complete the abortion, after which the baby is then flushed down the toilet.
 The remaining abortions account for 33% and are done surgically, where the physican uses forceps to crush baby's head like a walnut, and the rest of its body parts are siphoned out of the womb with a suction device.
 The surgical team is responsible for making sure the physician has accounted for all the dismembered baby parts by laying them out on a tray prior to disposal.
 As one of the members of the Heart of a Child Ministries described, she could not stand the sound or the callousness of the team of physicians who showed no emotion.
@@ -43,13 +44,14 @@ The septum in the heart is a muscular wall that separates the left and right sid
 Above the photo was a crucifix displayed in the parish hall.
 It is by design that God created the human heart to look like a cross.
 This is no coincidence.
-It is the reason why Heart of a Child Ministries' mission is to educate the public by showing ultrasounds to "Change the Heart of a Nation by Showing the Heart of a Child."
-I am grateful I received this invitation to attend this educational seminar by Heart of a Child Ministries, hosted by St.
+It is the reason why Heart of a Child Ministries' mission is to educate the public by showing ultrasounds to "Change the Heart of a Nation by Showing the Heart of a Child." I am grateful I received this invitation to attend this educational seminar by Heart of a Child Ministries, hosted by St.
 Nicholas Catholic Church, and to see the good work this nonprofit organization is doing.
 They are shedding the truth of the Gospel to kids and adults across the country.
 I was able to make a donation to the ministry by purchasing one of their Pro-Life Prayer Pillows.
 All proceeds go to help support women experiencing a crisis pregnancy.
-If you are interested in learning more about Heart of a Child Ministries, go to their website: heartofachildministries.org.
+One of the many prayer life pillows available for purchase.
+All proceeds sustain the mission of Heart of a Child Ministries.
+If you are interested in learning more about Heart of a Child Ministries, go to their website: heartofachildministries.org .
 If elected as your state senator, I will stand up for the voiceless unborn child and will always stand on the side of life from conception to natural death.
 Let me be clear: I am Pro-Life, Pro-woman, Pro-Baby, and Pro-Family.
 I am also an opponent of euthanasia or doctor-assisted suicide.
@@ -66,3 +68,9 @@ Finally, I have celebrated the lives of those who have gone before us who lived 
 These are the activities and ministries that I have actively participated in and will continue to support throughout my life.
 My father and mother are the biggest pro-life champions in my life, and I continue to carry that torch as long as I am able.
 Take care and God bless.
+Tags: Kathol for District 27 State Senate Kathol4D27 #AllLivesMatter #ChooseLife Pro-life Abortion Pro-Woman Surgical Abortion Pro-baby Heart of a Child Ministries Catholic Social Services Chemical Abortion Recent Posts See All Hold a Hearing on the "Clean Water for All Life Act!" Attending the Black Hills Pregnancy Center 2024 Life Dinner Real Men Love Babies Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
+EMAIL Kathol4D27@goldenwest.net ​ MAILING ADDRESS P.O.
+Box 165 Martin, SD 57551 ​ ​ Anthony Kathol was a Commissioned Officer of the United States Public Health Service (USPHS).
+Use of his rank, job titles, and photographs in uniform does not imply endorsement by the USPHS or the U.S.
+Department of Health and Human Services. ​ ​ Paid for by Kathol for District 27 Campaign Committee ©# by Anthony Kathol For South Dakota District 27 State Senate.
+Powered by GoZoek.com bottom of page

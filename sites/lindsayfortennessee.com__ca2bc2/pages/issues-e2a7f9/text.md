@@ -1,8 +1,4 @@
-Issues
-Where I Stand On The
-Issues
-Focused on the issues that matter to District 14 and the rest of Tennessee too.
--
+Home Meet Lindsay Issues Join Team Lindsay Voting Info Merch Donate Follow us Donate Follow us Menu Issues Where I Stand On The Issues Focused on the issues that matter to District 14 and the rest of Tennessee too.
 Cost of Living People over Politics: Government should work for people, not against them.
 That means practical solutions that help our most vulnerable neighbors live with dignity and stability.
 Community over Chaos: A community’s character is measured by how it treats the people who need the most support.
@@ -17,7 +13,6 @@ Improve disability services by fighting for better caregiver pay, shorter waitli
 Ease the childcare and housing pressures on working families who are doing everything right but still struggling to keep up.
 Be a hands-on advocate who helps constituents navigate state systems so government works for people, not against them.
 Every person in District 14 deserves a representative who fights for them, not just the ones who can afford a lobbyist.
--
 Strong Public Schools People over Politics: Support teachers, strengthen classrooms, and keep public funds in public schools, not unmonitored voucher programs with zero accountability.
 Community over Chaos: Public education is the great equalizer: the promise that every child, regardless of zip code or family income, deserves access to a quality education.
 That promise is under threat, and I will fight to protect it.
@@ -34,7 +29,6 @@ Ensure every child, regardless of zip code, background, or ability, has access t
 Every child in District 14 deserves a great public school.
 That’s not a political position.
 It’s a promise.
--
 Roads & Traffic People over Politics: Plan ahead so our roads can keep up before growth gets out of hand.
 Community over Chaos: Farragut families deserve roads that work and a government that takes congestion seriously before it gets worse, not after.
 Knox County moves more than 205,000 vehicles a day through the I-40/I-75 corridor, two of the worst truck bottlenecks in the nation.
@@ -57,7 +51,6 @@ Support practical transit options that reduce traffic and give families flexibil
 In West Knox and Farragut, that starts with smart, low-cost solutions: park-and-ride commuter routes, senior and medical shuttles, and partnerships with employers and healthcare providers so people can get to work and appointments without adding more cars to Kingston Pike and I-40.
 Any expansion should be phased in with pilot programs and clear performance goals so taxpayers know their investment is being used.
 District 14 deserves roads that work and a representative who will fight to fix them.
--
 Responsible Growth People over Politics: Hold developers accountable and make sure growth works for our community, not against it.
 Community over Chaos: Growth isn’t the enemy.
 Growth without accountability is.
@@ -76,7 +69,6 @@ Push back on unchecked commercial development that strains public infrastructure
 Hold developers accountable to the communities they build in, not just the bottom line.
 Growth should make District 14 stronger.
 Right now it’s making a few people richer and leaving everyone else to deal with the consequences.
--
 Environment & Climate People over Politics: Protecting our land, water, and communities isn’t a partisan issue.
 It’s a Tennessee value, and it starts with being honest about what we’ve already lived through.
 Community over Chaos: East Tennesseans don’t need to be convinced that climate change is real.
@@ -96,7 +88,6 @@ Push for disaster preparedness funding that reaches communities before they need
 Protect our mountains, waterways, and green spaces for the people who live here and the generations coming after us.
 East Tennessee is worth protecting.
 I’ll fight like it.
--
 Affordable Healthcare People over Politics: Close Tennessee’s coverage gap so working families can get the care they need without choosing between a doctor’s visit and keeping the lights on.
 Community over Chaos: Healthy families build stronger communities.
 When people can afford to see a doctor, get a prescription filled, and manage a diagnosis without going broke, everyone benefits.
@@ -111,7 +102,6 @@ Protect rural hospitals from the financial damage caused by uncompensated care l
 Ensure that healthcare decisions stay between patients and their doctors.
 Fight for prescription drug pricing transparency at the state level so Tennesseans aren’t paying more than they should.
 No one in District 14 should have to ration medication or skip a diagnosis because their legislators decided politics mattered more than their lives.
--
 Immigration People over Politics: Immigration policy should be built on facts and fairness, not fear.
 Tennessee deserves representatives focused on kitchen table issues, not scoring political points on the backs of families.
 Community over Chaos: Strong communities are built on dignity and decency.
@@ -142,7 +132,6 @@ Push back on ICE facility expansion in West Knoxville and Hardin Valley.
 Vote against unconstitutional legislation that targets students, families, and local governments.
 Hold my colleagues accountable when they use immigration as a distraction from failing to deliver on the issues that actually matter to families in District 14.
 Tennessee deserves a representative focused on the people who live here, not the agenda of someone in Washington who has never set foot in Farragut.
--
 People First People over Politics: Government should work for people, not against them.
 That means practical solutions that help our most vulnerable neighbors live with dignity and stability.
 Community over Chaos: A community’s character is measured by how it treats the people who need the most support.
@@ -157,3 +146,10 @@ Improve disability services by fighting for better caregiver pay, shorter waitli
 Ease the childcare and housing pressures on working families who are doing everything right but still struggling to keep up.
 Be a hands-on advocate who helps constituents navigate state systems so government works for people, not against them.
 Every person in District 14 deserves a representative who fights for them, not just the ones who can afford a lobbyist.
+Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Meet Lindsay Issues Join Team Lindsay Voting Info Merch Donate Follow us Accessibility Statement Email Press Kit paid for by lindsay for tennessee.
+Treasurer, Heather jett.
+The views and opinions expressed by Lindsay Young Honaker and Lindsay for Tennessee on this website are her own and do not reflect those of her employer or any affiliated organizations.
+All statements are made in Lindsay’s capacity as a candidate for public office.
+11519 Kingston Pike Ste.
+2231 Farragut, Tennessee 37934 Lindsay Young Honaker for Tennessee © #

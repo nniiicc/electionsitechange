@@ -1,6 +1,9 @@
-Contribute Now
-Donate to the Campaign!
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Toggle Mobile Menu Donate Now!
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer Category In the News Campaign News In the News Press Releases In the News Maryland Matters: News About Congressional Races Across the State 03.13.24 In the News Frederick News Post: District 6 Candidates Score Endorsements 03.13.24 In the News Politico: The big down-ballot takeaways from Super Tuesday 03.06.24 In the News Maryland Matters: Delaney is first on TV in 6th District congressional race 03.05.24 In the News Maryland Matters: Delaney is first on TV in 6th District congressional race – March 5, 2024 Maryland Matters – It isn’t just the bottom line: 6th District fundraising numbers reveal a lot 02.03.24 In the News MoCo 360: April McClain Delaney Leads leads candidates in fundraising for Maryland Sixth District Congressional race 02.01.24 In the News Maryland Matters: Political Notes 01.09.24 « Previous 1 2 3 Next » Up Next Frederick NewsPost: Democratic Congressional Candidates Hold Forum in Frederick Contribute Now Donate to the Campaign!
 We've launched our campaign and are looking for your support!
 Donate today to become a founding donor.
 Click on an option to get started.
-If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Join Her Campaign!
+Meet April Endorsements Campaign News Get Involved April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Contact Us [email protected] Address April McClain Delaney for Congress PO Box 83940 Gaithersburg, MD 20883-83940 Accessibility Statement PAID FOR BY APRIL MCCLAIN DELANEY FOR CONGRESS Site made with ❤️ by Landslide Digital I'll never stop fighting for you.
+Donate now!
+Jump to Content Toggle High Contrast Toggle Font Size

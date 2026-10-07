@@ -1,4 +1,4 @@
-Vote.
+Skip to content Harris 4 Senate Phone: 603-988-4203 About The 9 Solutions The Answers The What The When The Where The Why The How Merch 4 Senate Join 4 Change Vote 4 Change Find Tim 0 Vote 4 Change Vote.
 Not for a party.
 Not out of obligation.
 Because you have looked at the alternative and that this is the moment that determines which direction the sequence goes.
@@ -123,8 +123,7 @@ And I genuinely, deeply hope that you never need to take it down and read it for
 Because if the valve works — if people vote, if the mechanism holds, if enough citizens understand that what they do in that booth right now is an act of intervention and not just participation — then this document becomes a footnote.
 A warning that was heard in time.
 A pressure that found its peaceful release and dissipated into something better than what history usually delivers.
-But if it doesn’t —
-You will be reading this again.
+But if it doesn’t — You will be reading this again.
 Not as history.
 As context for something you are living through.
 And you will recognize every marker described here because you will be watching them play out in real time at mathematical light speed with no buffer and no lag and no time between the event and the response.
@@ -143,3 +142,6 @@ It matters.
 You are not just casting a ballot.
 You are holding the valve open.
 Don’t let them stop you.
+Donate to the Campaign Support with Our Merch Harris 4 Senate Your cart (items: 0) Products in cart Product Details Total Available on backorder Previous price: Discounted price: Save − ＋ Remove item Save Subtotal $0.00 Shipping and discounts calculated at checkout.
+View my cart Go to checkout Your cart is currently empty!
+Start shopping Notifications

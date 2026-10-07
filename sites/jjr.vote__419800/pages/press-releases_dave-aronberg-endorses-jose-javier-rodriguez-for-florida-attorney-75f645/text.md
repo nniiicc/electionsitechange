@@ -1,18 +1,11 @@
-FOR IMMEDIATE RELEASE
-January 30, 2026
-Contact: press@jjr.vote, 786-683-8781
-Miami, FL,- Former Palm Beach County State Attorney and former State Senator Dave Aronberg announced his endorsement of José Javier Rodríguez for Florida Attorney General, highlighting Rodríguez’s judgment, independence, and commitment to enforcing the law without fear or favor.
-This endorsement adds to the growing list of respected leaders backing Rodríguez’s campaign, including former U.S.
-Senator Bill Nelson, former Miami Beach Mayor Dan Gelber, and former Florida Attorney General Bob Butterworth.
-“I’ve spent my career holding powerful people accountable and investigating abuses of power when the rule of law is ignored.
+EN ES Home About Priorities Media Endorsements Get involved Donate FOR IMMEDIATE RELEASE January 30, 2026 Contact: press@jjr.vote , 786-683-8781 EN ES Dave Aronberg Endorses José Javier Rodríguez for Florida Attorney General Miami, FL,- Former Palm Beach County State Attorney and former State Senator Dave Aronberg announced his endorsement of José Javier Rodríguez for Florida Attorney General, highlighting Rodríguez’s judgment, independence, and commitment to enforcing the law without fear or favor. ‍ This endorsement adds to the growing list of respected leaders backing Rodríguez’s campaign, including former U.S.
+Senator Bill Nelson, former Miami Beach Mayor Dan Gelber, and former Florida Attorney General Bob Butterworth. ‍ “I’ve spent my career holding powerful people accountable and investigating abuses of power when the rule of law is ignored.
 At a time when trust in government is at record lows, it’s clear Florida needs José Javier Rodríguez as Attorney General.
 He has the integrity, independence, and backbone this office requires.
-He understands that the Attorney General’s job is not about politics, but about enforcing the law, and I’m proud to endorse him,” said Dave Aronberg.
-“Dave Aronberg has been a consistent voice for accountability and the rule of law,” said José Javier Rodríguez.
+He understands that the Attorney General’s job is not about politics, but about enforcing the law, and I’m proud to endorse him,” said Dave Aronberg. ‍ “Dave Aronberg has been a consistent voice for accountability and the rule of law,” said José Javier Rodríguez .
 “He has spent his career holding powerful people accountable and standing up for the integrity of our justice system.
-I’m honored to have his support.”
-About José Javier Rodríguez
-José Javier Rodríguez is a workers’ rights attorney, a former state senator, and a former Assistant Secretary of Labor who has spent his career fighting for working families, protecting consumers, and holding powerful interests accountable.
+I’m honored to have his support.” ‍ About José Javier Rodríguez ‍ José Javier Rodríguez is a workers’ rights attorney, a former state senator, and a former Assistant Secretary of Labor who has spent his career fighting for working families, protecting consumers, and holding powerful interests accountable.
 He is running for Attorney General to serve as the People’s Lawyer and restore independence and accountability to the office.
 Rodríguez’s campaign continues to build momentum around a clear message: fighting crime, corruption, and rising costs, and restoring accountability in Tallahassee.
-###
+### Home About Priorities Media endorsements Get Involved Donate For all press inquiries, please contact press@jjr.vote Mailing Address: Jose Javier Rodriguez for Florida Attorney General c/o Computare.Partners 701 S.
+Howard Avenue #106-813 Tampa, FL 33606 POLITICAL ADVERTISEMENT PAID FOR AND APPROVED BY JOSE JAVIER RODRIGUEZ, DEMOCRAT, FOR FLORIDA ATTORNEY GENERAL January 30, 2026

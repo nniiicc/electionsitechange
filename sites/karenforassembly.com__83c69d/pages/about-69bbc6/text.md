@@ -1,4 +1,4 @@
-I’m a proud Wisconsinite, and I have called the 7th Assembly District home since 2008.
+0 Skip to Content ABOUT Issues Contact DONATE Open Menu Close Menu ABOUT Issues Contact DONATE Open Menu Close Menu ABOUT Issues Contact DONATE I’m a proud Wisconsinite, and I have called the 7th Assembly District home since 2008.
 My journey is defined by a commitment to service and advocacy.
 I was raised in a United Steelworkers household.
 My father often shared memories of the post-Depression era and the pivotal role that unions played in reshaping our family’s life for the better.
@@ -13,3 +13,6 @@ My view is pretty simple — I think healthcare is a right, not a privilege, and
 Our healthcare system doesn’t work for the families it aims to serve, nor for the caring healthcare professionals who work within the system.
 Everyone spends too much time securing insurance company approvals just to get care.
 I think things should be different – our doctors, nurses, and healthcare providers should determine the care we get, not faceless insurance company bureaucrats.I live in Greenfield with my partner Robert Hansen, our daughter Abigail (I’m her stepmom!), and our beloved dogs.
+CONTACT ME Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+NEVER MISS AN UPDATE Email Address Sign Up Thank you! © # Karen for Assembly | Paid for by Karen for Assembly | info@karenforassembly.com

@@ -1,14 +1,8 @@
-Health and Wellness Programs
-Health Education and screenings offered in senior centers
-Home Delivered Meals
-Delivered through Meals on Wheels Central Maryland, Inc.
-Maryland Access Point (MAP): Information about services and benefits available to seniors, adults with disabilities, their families, caregivers and professionals.
-Call 410-887-2594
-Baltimore County Has the CHAMP Program to help renters in afford accessible housing modifications and the HAMP Program to help homeowners afford accessible housing modificiations.
-Home Accessibility Assistance
-Programs for accessibility related improvements to the homes of seniors
-Medicare Help
-New to Medicare?
+0 Skip to Content Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Get Involved August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Open Menu Close Menu Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Get Involved August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Open Menu Close Menu Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Folder: Get Involved Back August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Health and Wellness Programs Health Education and screenings offered in senior centers Home Delivered Meals Delivered through Meals on Wheels Central Maryland, Inc.
+Housing Housing Options including senior apartments, assisted living, retirement communities, and nursing homes Employment Find out more about the Senior Community Service Employment Program Maryland Access Point (MAP): Information about services and benefits available to seniors, adults with disabilities, their families, caregivers and professionals.
+Call 410-887-2594 Baltimore County Has the CHAMP Program to help renters in afford accessible housing modifications and the HAMP Program to help homeowners afford accessible housing modificiations .
+Home Accessibility Assistance Programs for accessibility related improvements to the homes of seniors Medicare Help New to Medicare?
 Questions about Open Enrollment?
-Medicaid Help
-Make sure you are covered!
+Medicaid Help Make sure you are covered!
+Are You in District 42B?
+Get Your District Info View District Map By Authority: Michele Guyton for Baltimore County | Manda Simon, Treasurer

@@ -1,22 +1,94 @@
 [
-"http://cityoframsey.com/",
-"http://facebook.com/brianwalkerforward",
-"http://google.com/calendar/event?action=TEMPLATE&text=The+Draw+Concerts+In+the+Park+-+Ramsey&dates=20260618T233000Z%2F20260821T010000Z&location=7401+East+Ramsey+Parkway%2C+Ramsey%2C+Minnesota%2C+55303%2C+United+States",
-"http://instagram.com/walker.forward",
-"http://maps.google.com/?q=7401+East+Ramsey+Parkway+Ramsey%2C+Minnesota%2C+55303+United+States",
-"https://walkerforward.com/",
-"https://walkerforward.com/cart",
-"https://walkerforward.com/contact",
-"https://walkerforward.com/donate",
-"https://walkerforward.com/events",
-"https://walkerforward.com/events/neighborhood-conversations-andover-p1",
-"https://walkerforward.com/events/nw-food-truck-fest",
-"https://walkerforward.com/events/the-draw-concerts-in-the-park-ramsey?format=ical",
-"https://walkerforward.com/events?tag=ramsey",
-"https://walkerforward.com/faq",
-"https://walkerforward.com/news",
-"https://walkerforward.com/privacy-policy",
-"https://walkerforward.com/store",
-"https://walkerforward.com/volunteer",
-"https://walkerforward.com/yard-sign"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7401+east+ramsey+parkway+ramsey%2C+minnesota%2C+55303+united+states"
+},
+{
+"text": "0",
+"href": "https://www.walkerforward.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.walkerforward.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.walkerforward.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.walkerforward.com/faq"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=The+Draw+Concerts+In+the+Park+-+Ramsey&dates=20260618T233000Z%2F20260821T010000Z&location=7401+East+Ramsey+Parkway%2C+Ramsey%2C+Minnesota%2C+55303%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.walkerforward.com/events/the-draw-concerts-in-the-park-ramsey?format=ical"
+},
+{
+"text": "News",
+"href": "https://www.walkerforward.com/news"
+},
+{
+"text": "Next Next July 7 Neighborhood Conversations: Andover P1",
+"href": "https://www.walkerforward.com/events/neighborhood-conversations-andover-p1"
+},
+{
+"text": "Previous Previous June 13 NW Food Truck Fest",
+"href": "https://www.walkerforward.com/events/nw-food-truck-fest"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.walkerforward.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://www.walkerforward.com/store"
+},
+{
+"text": "Volunteer",
+"href": "https://www.walkerforward.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.walkerforward.com/yard-sign"
+},
+{
+"text": "[image: Walker Forward]",
+"href": "https://www.walkerforward.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/brianwalkerforward"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/walker.forward"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@walkerforward.com"
+},
+{
+"text": "campaign@walkerforward.com",
+"href": "mailto:campaign@walkerforward.com"
+},
+{
+"text": "cityoframsey.com",
+"href": "http://cityoframsey.com"
+},
+{
+"text": "ramsey",
+"href": "https://www.walkerforward.com/events?tag=ramsey"
+}
 ]

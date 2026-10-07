@@ -1,4 +1,4 @@
-| The 2026 Legislative Session is in full swing and it feels like we never left the building.
+Home About Lori Priorities News VOTER INFORMATION Donate Community Resources House Legislative Update 1/18/2026 0 Comments The 2026 Legislative Session is in full swing and it feels like we never left the building.
 Committees picked up where they left off taking testimony on the State’s most pressing issues while new proposed bills are being introduced for a few more weeks.
 Please feel free to reach out to your House Essex Representative (contact info below) anytime with questions, comments or needs for assistance.
 We are all proud to serve Essex and remain committed to bringing the voices and values of our city to the statehouse.
@@ -6,7 +6,7 @@ You can follow all of the activity of the session at this link: https://legislat
 The governor proposed in the Budget Adjustment Act to use $75 million to buy down property taxes.
 We’re waiting until later in the session to make those decisions when we have all the information on proposed school budgets and understand the pressing budget needs in housing, health care, and the impact from federal cuts on Vermonters.
 EDUCATION UPDATE Legislative Counsel and the Joint Fiscal Office, non-partisan staff for all legislators, provided a refresher of Act 73, an act relating to transforming Vermont’s education governance, quality, and finance systems.
-The presentation can be viewed here.
+The presentation can be viewed here .
 The House and Senate Education Committees picked up where they left off last year taking testimony on our education system.
 The Committees are hearing from Vermont superintendents, Vermont principals, Agency of Education, Redistricting Task Force, and Commission on the Future of Public Education.
 There is consensus to create a more affordable and equitable education system that increases opportunities for all Vermont students, the question remains how we get there.
@@ -17,8 +17,8 @@ With declining enrollment, the state can no longer afford to operate so many sma
 While consolidation will require upfront investment, time, and careful planning, failing to address scale simply shifts inequities and costs onto local communities and students.
 VSA cautions that funding reforms like a foundation formula will not succeed on their own unless structural inefficiencies are addressed.
 On Friday the Secretary of Education presented three potential redistricting maps: regions established by Vermont School Boards Association, Regional High School Districts and a hybrid of the two.
-Secretary Sanders testimony can be found here.
-If you want to dive in even further, there is information here.
+Secretary Sanders testimony can be found here .
+If you want to dive in even further, there is information here .
 The VSBA map would divide Chittenden County into two districts: Eastern Chittenden would include CVU, EWSD and Mt Mansfield.
 Western Chittenden County would include Burlington, Colchester, Milton, South Burlington, Winooski.
 The Regional High School Districts would divide Chittenden County into 3 districts and in the hybrid model Chittenden County would be three districts based on the regional high school maps.
@@ -30,5 +30,7 @@ Moving to a foundation formula will provide stability and predictability to scho
 ESSEX HOUSE DELEGATION COMMUNITY CONVERSATION SERIES Your Essex House delegation is excited to invite you to "Community Conversations," a monthly forum for updates on bills, committee work, and caucus activities.
 These events are designed to provide an open, respectful space for questions, concerns, and dialogue.
 At each gathering, we'll share an overview of our priorities for the session and answer your questions.
-Sunday, February 15th 10-11:30am at Essex Teen Center Saturday, March 14th 9-10:30am via Zoom Saturday, April 11th 9-10:30am at Essex Town Office Saturday, May 16th 11am-12:30pm at Essex Teen Center Best Rep.
-Lori Houghton Chittenden 22: City of Essex Junction Karen Dolan, [email protected], 802.233.4434 Lori Houghton, [email protected], 802.373.0599 |
+Sunday, February 15th 10-11:30am at Essex Teen Center Saturday, March 14th 9-10:30am via Zoom Saturday, April 11th 9-10:30am at Essex Town Office Saturday, May 16th 11am-12:30pm at Essex Teen Center ​ Best Rep.
+Lori Houghton Chittenden 22: City of Essex Junction Karen Dolan, [email protected] , 802.233.4434 Lori Houghton, [email protected] , 802.373.0599 0 Comments Leave a Reply. [email protected] | 802-373-0599 paid for by lori houghton for VT house .
+40 School street . essex junction . vt .
+05452 . treasurer bridget meyer Home About Lori Priorities News VOTER INFORMATION Donate Community Resources

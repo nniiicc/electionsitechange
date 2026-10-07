@@ -1,5 +1,6 @@
-My name is Rod Pelton and I’m a lifelong farmer and a Cheyenne County Commissioner.
-I announced on Feb. 19th that I’m a candidate for House District 65, which is currently held by Jon Becker.
+Home About Rod Committees News Issues Contribute News / Rod Pelton Announces Candidacy 27 Feb Tuesday, 9:44 PM · 2018 Rod Pelton Announces Candidacy My name is Rod Pelton and I’m a lifelong farmer and a Cheyenne County Commissioner.
+I announced on Feb.
+19th that I’m a candidate for House District 65, which is currently held by Jon Becker.
 While these are huge shoes to fill, I’d devote as much time and effort to represent the 65th district as I’ve done in my current position as County Commissioner.
 I’ve been married to my wife Kathy for 38 years.
 We have 2 grown daughters and 5 grandkids and we owe it to them to fight for the rights and freedoms that we’ve enjoyed.
@@ -33,3 +34,4 @@ In conclusion, I would be more than happy to get phone calls or emails and talk 
 I’m a common sense, Christian, constitutional, conservative, pro 2nd amendment candidate and I hope to gain your trust and support in the upcoming Caucuses, County Assemblies and, if you are chosen to be a delegate to the State Assembly for the 65th, your vote there.
 Be assured that although I’m from Cheyenne County, all of the eastern plains are important to me and I’ll fight as hard for everyone in the 65th as I do for Cheyenne County.
 God Bless.
+Make Endorsement Paid for by the Committee to Elect Rod Pelton Powered by CampaignPartner.com - Political Websites Home About Rod Committees News Issues Contribute Close Menu

@@ -1,45 +1,44 @@
-PRIORITIES
-Our goal is to address YOUR priorities; to make everyday life more secure, provide affordable housing, offer healthcare to all, fund excellence in our public education, ensure a healthy environment, establish accessible transportation, and guarantee a government accountable to YOU!
+0 Skip to Content About + FAQs Priorities News Endorsements Contact Volunteer Donate Open Menu Close Menu About + FAQs Priorities News Endorsements Contact Volunteer Donate Open Menu Close Menu About + FAQs Priorities News Endorsements Contact Volunteer Donate PRIORITIES Our goal is to address YOUR priorities; to make everyday life more secure, provide affordable housing, offer healthcare to all, fund excellence in our public education, ensure a healthy environment, establish accessible transportation, and guarantee a government accountable to YOU!
 Together we will build thriving communities in AD14.
-- Impose a vacancy tax on the 1+ million vacant homes in CA to free up locked down speculative housing.
-- Build and preserve permanently affordable and social housing.
-- Implement statewide rent control, strengthen renter protections and habitability enforcement.
-- Fund and support Community Land Trusts to keep housing affordable long term.
-- Ban the criminalization of homelessness, fund permanent housing and supportive services.
-- Promote quality union jobs, income protection, and give workers a real voice in the workplace.
-- Close developer tax loopholes who avoid meeting affordable housing mandates.
-- Universal healthcare for all, including reproductive, gender-affirming, dental, vision, mental-health, substance-use, and long-term care.
-- Cover EVERY resident regardless of immigration status.
-- Full prescription drug coverage negotiated at scale through CalCare.
-- Expand mental-health and substance-use treatment and crisis prevention programs.
-- Stop forced institutionalization disguised as healthcare.
-- Expand in-community care for people with disabilities.
-- Fully fund lifelong free public education statewide.
-- Engage Teachers to help shape CA’s education policies.
-- Recruit, retain, and fairly compensate educators and school staff.
-- Fund arts, music, special education, libraries, athletics, vocational training, career education, and student support services.
-- Implement student debt forgiveness and assistance for the nearly 4 million Californians with student debt.
-- Defend the civil rights, free speech, right to assembly, and academic freedom of students and faculty in all CA educational facilities.
-- Replace school police forces with behavioral and counseling professionals.
-- Repeal CA laws that prohibit educators from teaching about the genocide in Palestine and other countries.
-- Transition our energy grid to renewable solar, wind, and water.
-- End the utilities monopolies and launch CA’s public power agency.
-- Fund reliable, comprehensive, connected, FREE public transportation statewide.
-- Transform oil/gas refinery infrastructure to renewable energy plants, with a just transition for workers.
-- No Coal in Oakland!
-Block the plan for the Coal Port in Oakland (nocoal.org).
-- Invest in community energy resilience programs.
-- Support bike-able, walkable cities projects across our district.
-- Implement a statewide ban on hyperscale data centers.
-- Hold major polluters accountable for cumulative community health impacts.
-- Shift funding from electric car tax incentives to public transit use.
-- Ban corporations and superPACs from funding political campaigns and candidates.
-- Abolish ICE and close their detention centers, protect immigrant communities.
-- Reparations for Black American Freedmen and Chicano families.
-- Land Back to Indigenous nations, support Indigenous-led land and wildfire management projects.
-- Divest state funds from all corporations complicit in genocide, and adopt BDS (Boycott, Divestment, Sanctions) standards for state expenditures.
-- Replace the carceral system with restorative and reparative justice.
-- Adopt Ranked Choice Voting and Proportional Representation
-- Require open, publicly broadcast debates with all ballot qualified candidates.
-- Implement a statewide ban on Flock cameras, strengthen privacy protections for Californians.
-- Create an independent commission on AI safety and ethics with subpoena and regulation powers.
+HOUSING & AFFORDABILITY: Homes not handcuffs Impose a vacancy tax on the 1+ million vacant homes in CA to free up locked down speculative housing.
+Build and preserve permanently affordable and social housing.
+Implement statewide rent control, strengthen renter protections and habitability enforcement.
+Fund and support Community Land Trusts to keep housing affordable long term.
+Ban the criminalization of homelessness, fund permanent housing and supportive services.
+Promote quality union jobs, income protection, and give workers a real voice in the workplace.
+Close developer tax loopholes who avoid meeting affordable housing mandates.
+HEALTHCARE & CALCARE: Healthcare is a human right Universal healthcare for all, including reproductive, gender-affirming, dental, vision, mental-health, substance-use, and long-term care.
+Cover EVERY resident regardless of immigration status.
+Full prescription drug coverage negotiated at scale through CalCare.
+Expand mental-health and substance-use treatment and crisis prevention programs.
+Stop forced institutionalization disguised as healthcare.
+Expand in-community care for people with disabilities.
+PUBLIC EDUCATION: Education is an investment, not a debt sentence Fully fund lifelong free public education statewide.
+Engage Teachers to help shape CA’s education policies.
+Recruit, retain, and fairly compensate educators and school staff.
+Fund arts, music, special education, libraries, athletics, vocational training, career education, and student support services.
+Implement student debt forgiveness and assistance for the nearly 4 million Californians with student debt.
+Defend the civil rights, free speech, right to assembly, and academic freedom of students and faculty in all CA educational facilities.
+Replace school police forces with behavioral and counseling professionals.
+Repeal CA laws that prohibit educators from teaching about the genocide in Palestine and other countries.
+CLIMATE & PUBLIC POWER: Climate policies to improve life today and protect our future Transition our energy grid to renewable solar, wind, and water.
+End the utilities monopolies and launch CA’s public power agency.
+Fund reliable, comprehensive, connected, FREE public transportation statewide.
+Transform oil/gas refinery infrastructure to renewable energy plants, with a just transition for workers.
+No Coal in Oakland!
+Block the plan for the Coal Port in Oakland ( nocoal.org ).
+Invest in community energy resilience programs.
+Support bike-able, walkable cities projects across our district.
+Implement a statewide ban on hyperscale data centers.
+Hold major polluters accountable for cumulative community health impacts.
+Shift funding from electric car tax incentives to public transit use.
+JUSTICE & DEMOCRACY: A representative who answers to the people, not the biggest check in the room Ban corporations and superPACs from funding political campaigns and candidates.
+Abolish ICE and close their detention centers, protect immigrant communities.
+Reparations for Black American Freedmen and Chicano families.
+Land Back to Indigenous nations, support Indigenous-led land and wildfire management projects.
+Divest state funds from all corporations complicit in genocide, and adopt BDS (Boycott, Divestment, Sanctions) standards for state expenditures.
+Replace the carceral system with restorative and reparative justice.
+Adopt Ranked Choice Voting and Proportional Representation Require open, publicly broadcast debates with all ballot qualified candidates.
+Implement a statewide ban on Flock cameras, strengthen privacy protections for Californians.
+Create an independent commission on AI safety and ethics with subpoena and regulation powers.
+For People For Planet For Peace Mark Rendón for AD14 Contact us at vote@markrendon4ad14.com Paid for by Mark Rendón for Assembly 2026

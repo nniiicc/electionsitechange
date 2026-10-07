@@ -1,10 +1,34 @@
 [
-"https://facebook.com/people/Dale-Murney/61588152495649",
-"https://instagram.com/Murney4MISenate",
-"https://murney4senate.com/",
-"https://murney4senate.com/about",
-"https://murney4senate.com/cart",
-"https://murney4senate.com/donate",
-"https://murney4senate.com/platform",
-"https://murney4senate.com/volunteer"
+{
+"text": "0",
+"href": "https://www.murney4senate.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.murney4senate.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.murney4senate.com/donate"
+},
+{
+"text": "Murney 4 MI Senate",
+"href": "https://www.murney4senate.com/"
+},
+{
+"text": "Platform",
+"href": "https://www.murney4senate.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://www.murney4senate.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Dale-Murney/61588152495649/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Murney4MISenate"
+}
 ]

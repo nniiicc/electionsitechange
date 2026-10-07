@@ -1,107 +1,37 @@
-Reminder: Upcoming Town Hall I’m hosting a pre-session town hall and legislative advocacy training tomorrow evening, and I’d love for you to join me.
-This will be a great...
-Updates from Representative Gricius
-Upcoming Town Hall
-You're Invited: Upcoming Town Hall As we head toward the 2026 General Legislative Session, I’m hosting a pre-session town hall and legislative advocacy training this Saturday...
-Wrapping Up the Interim Process
-Wrapping Up the Interim Process With our final interim meetings now behind us, I’m proud of the steady, detailed work we’ve done throughout the year to prepare for the upcoming...
-Legislative Work in Progress
-Legislative Work in Progress This month, my committees and I spent time digging into issues that matter deeply to our communities — from protecting data privacy to strengthening...
-Update From Capitol Hill
-From Our Community to the Capitol This interim, I met with my committees and reviewed ways to strengthen data privacy in schools, improve access to health care, modernize...
-Your Legislature at Work
-This month, my colleagues and I worked on issues that matter to every Utahn — from strengthening our schools and supporting first responders to preparing for future growth in...
-Your Voice Matters
-I hope you all had a wonderful Pioneer Day celebrating our state’s rich heritage of community, courage, and taking action for a better future.
-As your Representative, I want you...
-Breaking Ground on a Brighter Future for Eagle Mountain and More
-Breaking Ground on a Brighter Future for Eagle Mountain On June 20th, we officially broke ground on a brand-new high school in Saratoga Springs.
-This exciting project will be...
-From the Committee Room to Your Community
-Our first interim meetings of the year kicked off last month, where I joined my colleagues as we dove into the big issues that matter to Utahns.
-Covering topics like education,...
-Interim is Here – Get Involved!
-While the legislative session officially wraps up in March, the work is far from over.
-From April through November, lawmakers meet monthly in what are known as interim...
-April Newsletter
-Continuing to Serve You The 2025 General Legislative Session has come to a close, and we took significant steps to better the lives of Utahns.
-From supporting our educators...
-Last Week of the 2025 General Session
-As your legislator, I am deeply proud of all that we have been able to accomplish during the 2025 General Legislative Session.
-Over seven weeks, we passed legislation to...
-Investing for Utah
-Investing in Utah's Teachers and Classrooms Utah is once again directly increasing teacher salaries.
+Home Meet Stephanie Issues Recent Updates Select Page Updates from Representative Gricius 2026 Legislative Priorities by Stephanie Gricius | Jan 9, 2026 | Uncategorized Reminder: Upcoming Town Hall I’m hosting a pre-session town hall and legislative advocacy training tomorrow evening, and I’d love for you to join me.
+This will be a great... read more Upcoming Town Hall by Stephanie Gricius | Jan 2, 2026 | Uncategorized You're Invited: Upcoming Town Hall As we head toward the 2026 General Legislative Session, I’m hosting a pre-session town hall and legislative advocacy training this Saturday... read more Wrapping Up the Interim Process by Stephanie Gricius | Dec 3, 2025 | Uncategorized Wrapping Up the Interim Process With our final interim meetings now behind us, I’m proud of the steady, detailed work we’ve done throughout the year to prepare for the upcoming... read more Legislative Work in Progress by Stephanie Gricius | Nov 1, 2025 | Uncategorized Legislative Work in Progress This month, my committees and I spent time digging into issues that matter deeply to our communities — from protecting data privacy to strengthening... read more Update From Capitol Hill by Stephanie Gricius | Oct 8, 2025 | Uncategorized From Our Community to the Capitol This interim, I met with my committees and reviewed ways to strengthen data privacy in schools, improve access to health care, modernize... read more Your Legislature at Work by Stephanie Gricius | Oct 1, 2025 | Uncategorized This month, my colleagues and I worked on issues that matter to every Utahn — from strengthening our schools and supporting first responders to preparing for future growth in... read more Your Voice Matters by Stephanie Gricius | Aug 31, 2025 | Uncategorized I hope you all had a wonderful Pioneer Day celebrating our state’s rich heritage of community, courage, and taking action for a better future.
+As your Representative, I want you... read more Breaking Ground on a Brighter Future for Eagle Mountain and More by Stephanie Gricius | Jul 30, 2025 | Uncategorized Breaking Ground on a Brighter Future for Eagle Mountain On June 20th, we officially broke ground on a brand-new high school in Saratoga Springs.
+This exciting project will be... read more From the Committee Room to Your Community by Stephanie Gricius | Jun 30, 2025 | Uncategorized Our first interim meetings of the year kicked off last month, where I joined my colleagues as we dove into the big issues that matter to Utahns.
+Covering topics like education,... read more Interim is Here – Get Involved! by Stephanie Gricius | May 30, 2025 | Uncategorized While the legislative session officially wraps up in March, the work is far from over.
+From April through November, lawmakers meet monthly in what are known as interim... read more April Newsletter by Stephanie Gricius | Apr 30, 2025 | Uncategorized Continuing to Serve You The 2025 General Legislative Session has come to a close, and we took significant steps to better the lives of Utahns.
+From supporting our educators... read more Last Week of the 2025 General Session by Stephanie Gricius | Mar 7, 2025 | Uncategorized As your legislator, I am deeply proud of all that we have been able to accomplish during the 2025 General Legislative Session.
+Over seven weeks, we passed legislation to... read more Investing for Utah by Stephanie Gricius | Feb 28, 2025 | Uncategorized Investing in Utah's Teachers and Classrooms Utah is once again directly increasing teacher salaries.
 This investment reflects the Legislature’s and Gov.
-Cox’s dedication to...
-Week 5 Session Update
-Working for Utah Over the last week, we have made significant strides for our state.
-From setting the foundation for greater agency accountability to supporting our students and...
-Week 4 Session Update
-Big Wins for Utah We’re officially halfway through the 2025 General Session, and there’s already been so much accomplished for our community!
-From strengthening public safety to...
-Securing Utah’s Future
-As we approach the halfway mark of the 2025 legislative session, my colleagues and I have hit the ground running, tackling key issues that will have a lasting impact on our...
-2025 General Session
-Building a Better Future for Utah The first two weeks of the 66th Legislature were filled with big wins for Utah!
-We continued our work to strengthen education by expanding...
-Upcoming Town Hall
-You're Invited: Upcoming Town Hall With the start of the upcoming Legislative session just around the corner, I want to know what matters most to you and our community.
-I will be...
-September Update
-At last month’s interim meetings, I had the opportunity to meet with my colleagues and discuss legislation for the upcoming 2025 General Session.
-During my committees, we heard...
-Good News Springing for Utah!
-For Utah The 2024 General Session is behind us – and we passed historic policies that will benefit our community.
-This includes innovative solutions to lower the rising cost of...
-Final Week of the Legislative Session
-Over the last 45 days, my colleagues and I have worked tirelessly to make a meaningful difference not only for all of Utah, but for our community.
-I am deeply proud of the work...
-Week 6 of the Legislative Session
-With only one week remaining of our seven week Legislative session, every minute counts.
-This past week I have been hard at work ensuring that the bills we pass will be...
-Week 5 of the Legislative Session
-Working For Utah With the shortest Legislative session in the country, our Representatives know how to make each day count.
-This week we passed meaningful Legislation that will...
-Working For Utah
-We’re nearly halfway through the Legislative session!
-I am proud of the significant and meaningful things we have been able to accomplish for Utah, like expanding access to...
-Week 2 of the Legislative Session
-Another week completed and my colleagues and I are continuing to work diligently to make meaningful changes For Utah.
-This past week, we passed several priority bills, including...
-The House is in Session
-This past Tuesday marked the beginning of the 2024 General Legislative Session.
-This has already been a productive week full of legislation and debates that will greatly benefit...
-Good News for the Beehive State!
-All eyes are on Utah.
+Cox’s dedication to... read more Week 5 Session Update by Stephanie Gricius | Feb 21, 2025 | Uncategorized Working for Utah Over the last week, we have made significant strides for our state.
+From setting the foundation for greater agency accountability to supporting our students and... read more Week 4 Session Update by Stephanie Gricius | Feb 14, 2025 | Uncategorized Big Wins for Utah We’re officially halfway through the 2025 General Session, and there’s already been so much accomplished for our community!
+From strengthening public safety to... read more Securing Utah’s Future by Stephanie Gricius | Feb 7, 2025 | Uncategorized As we approach the halfway mark of the 2025 legislative session, my colleagues and I have hit the ground running, tackling key issues that will have a lasting impact on our... read more 2025 General Session by Stephanie Gricius | Jan 31, 2025 | Uncategorized Building a Better Future for Utah The first two weeks of the 66th Legislature were filled with big wins for Utah!
+We continued our work to strengthen education by expanding... read more Upcoming Town Hall by Stephanie Gricius | Jan 8, 2025 | Uncategorized You're Invited: Upcoming Town Hall With the start of the upcoming Legislative session just around the corner, I want to know what matters most to you and our community.
+I will be... read more September Update by Stephanie Gricius | Oct 1, 2024 | Uncategorized At last month’s interim meetings, I had the opportunity to meet with my colleagues and discuss legislation for the upcoming 2025 General Session.
+During my committees, we heard... read more Good News Springing for Utah! by Stephanie Gricius | Apr 9, 2024 | Uncategorized For Utah The 2024 General Session is behind us – and we passed historic policies that will benefit our community.
+This includes innovative solutions to lower the rising cost of... read more Final Week of the Legislative Session by Stephanie Gricius | Mar 1, 2024 | Uncategorized Over the last 45 days, my colleagues and I have worked tirelessly to make a meaningful difference not only for all of Utah, but for our community.
+I am deeply proud of the work... read more Week 6 of the Legislative Session by Stephanie Gricius | Feb 24, 2024 | Uncategorized With only one week remaining of our seven week Legislative session, every minute counts.
+This past week I have been hard at work ensuring that the bills we pass will be... read more Week 5 of the Legislative Session by Stephanie Gricius | Feb 17, 2024 | Uncategorized Working For Utah With the shortest Legislative session in the country, our Representatives know how to make each day count.
+This week we passed meaningful Legislation that will... read more Working For Utah by Stephanie Gricius | Feb 6, 2024 | Uncategorized We’re nearly halfway through the Legislative session!
+I am proud of the significant and meaningful things we have been able to accomplish for Utah, like expanding access to... read more Week 2 of the Legislative Session by Stephanie Gricius | Jan 26, 2024 | Uncategorized Another week completed and my colleagues and I are continuing to work diligently to make meaningful changes For Utah.
+This past week, we passed several priority bills, including... read more The House is in Session by Stephanie Gricius | Jan 19, 2024 | Uncategorized This past Tuesday marked the beginning of the 2024 General Legislative Session.
+This has already been a productive week full of legislation and debates that will greatly benefit... read more Good News for the Beehive State! by Stephanie Gricius | Dec 22, 2023 | Uncategorized All eyes are on Utah.
 The Beehive State is on something of a winning streak after a month of back-to-back-to-back good news.
-The Winter Olympics will make a triumphant return to...
-Utah: The Happiest State in the Nation!
-September Interim and Long-Term Planning Conference This past month, my colleagues and I took interim meetings off Capitol Hill and down to beautiful St.
+The Winter Olympics will make a triumphant return to... read more Utah: The Happiest State in the Nation! by Stephanie Gricius | Oct 2, 2023 | Uncategorized September Interim and Long-Term Planning Conference This past month, my colleagues and I took interim meetings off Capitol Hill and down to beautiful St.
 George.
-I enjoyed...
-August Interim
-I enjoyed meeting with my fellow legislators during this month’s interim meetings.
-These meetings are an opportunity for us to hear presentations from experts and stakeholders,...
-Special Session
-Special Session This past month, the Legislature convened in a special session to address the needs of the state by extending the current state of emergency and allocating funds...
-Utah is the Place to Be!
-Best Overall State!
+I enjoyed... read more August Interim by Stephanie Gricius | Sep 5, 2023 | Uncategorized I enjoyed meeting with my fellow legislators during this month’s interim meetings.
+These meetings are an opportunity for us to hear presentations from experts and stakeholders,... read more Special Session by Stephanie Gricius | Jun 5, 2023 | Uncategorized Special Session This past month, the Legislature convened in a special session to address the needs of the state by extending the current state of emergency and allocating funds... read more Utah is the Place to Be! by Stephanie Gricius | May 4, 2023 | Uncategorized Best Overall State!
 Utah was ranked Number 1 best overall State by U.S.
 News and World Report!
-Our commitment to innovation, education, fostering industry, and strengthening our...
-That’s A Wrap!
-First, if you're free on Thursday, swing by the Northern Utah County Legislative Debrief. 7:30 pm @ 3192 W 2450 North Lehi, UT 84043 This will be with myself, Representatives...
-Week 6 of the General Session
-We’ve made it to our final week of the General Session.
+Our commitment to innovation, education, fostering industry, and strengthening our... read more That’s A Wrap! by Stephanie Gricius | Mar 3, 2023 | Uncategorized First, if you're free on Thursday, swing by the Northern Utah County Legislative Debrief.
+7:30 pm @ 3192 W 2450 North Lehi, UT 84043 This will be with myself, Representatives... read more Week 6 of the General Session by Stephanie Gricius | Feb 24, 2023 | Uncategorized We’ve made it to our final week of the General Session.
 I will continue to work hard for each of you throughout this last week.
 You can follow along at le.utah.gov.
-My Bills This...
-General Session Update
-Week Five of the General Session With just two weeks left, things at the Capitol are busier than ever.
-I am honored to serve each member of my district and pass legislation that...
-Week 2 of the 2023 General Session
-Week Two of the General Session With only 45 days to debate hundreds of bills, every day is important and full of meaningful deliberation.
-Stay up-to-date and watch committee...
-Week 1 of the Session
-General Session of the 65th Legislature The 2023 general legislative session has officially started!
-This has already been a productive week full of legislation and debates that...
+My Bills This... read more General Session Update by Stephanie Gricius | Feb 17, 2023 | Uncategorized Week Five of the General Session With just two weeks left, things at the Capitol are busier than ever.
+I am honored to serve each member of my district and pass legislation that... read more Week 2 of the 2023 General Session by Stephanie Gricius | Jan 27, 2023 | Uncategorized Week Two of the General Session With only 45 days to debate hundreds of bills, every day is important and full of meaningful deliberation.
+Stay up-to-date and watch committee... read more Week 1 of the Session by Stephanie Gricius | Jan 23, 2023 | Uncategorized General Session of the 65th Legislature The 2023 general legislative session has officially started!
+This has already been a productive week full of legislation and debates that... read more  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 15 + 5 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

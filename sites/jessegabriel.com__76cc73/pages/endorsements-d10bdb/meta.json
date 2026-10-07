@@ -1,10 +1,11 @@
 {
  "description": "",
  "final_url": "https://jessegabriel.com/endorsements",
- "paid_for_by": null,
+ "fingerprint": "90b0e78b4edd48c12b97dc6eecb1fd736a94806b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements",
  "years_mentioned": [
-  "2023",
   "2026"
  ]
 }

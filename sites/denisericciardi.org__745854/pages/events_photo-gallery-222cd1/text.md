@@ -1,9 +1,9 @@
-Phildelphia Leadership Conference
-Law Enforcement Officers Memorial
-Hall of Flags, NH Statehouse
-Childrens Enviro Health Day
-Visiting Rindge / Jaffrey
-County Fairgrounds 7-4-22
-Beautiful Rural Fitzwilliam
-Sign Distribution in Sharon
-REI Groundbreaking, Bedford
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page PHOTOS FROM THE CAMPAIGN and TRAVELS Senator Ricciardi has and will visit every town in District 9 Memorial Parade 2025 Memorial Day 2025 Troy Fair Troy Fair Troy Fair Kory Glendi Greek Fest Phildelphia Leadership Conference Meet and Greet Philly Attendees Society of Dames, PA Philadelphia Dressed for the Island Manchester Chamber Event Manchester Chamber Event Island Theme Japanese Visitors at WAC Japanese Visitors at WAC Hinsdale & Winchester Lots of Walking!
+Palm Cards Ricciardi and Hansel Door Knocking Ricciardi and Hansel Coca Cola, Bedford Coca Cola, Bedford Bowman Place Readying the Flag Flag Raising Ceremony Bowman Residents New Flag Greenfield Fitzwilliam Eagle Scouts Visiting Lyndeborough Law Enforcement Officers Memorial Knoll House Party Senate in Session!
+Signing of HB 1221 Hall of Flags, NH Statehouse Visiting Greenfield Visiting Greenfield Greek Independence Day Visiting Fitzwilliam Fire Dept.
+Open House Filing 2022 Family Statehouse Tour Childrens Enviro Health Day Honoring Eagle Scouts Door Knocking District 9 Supporting Rep Campaigns Boys and Girls Camp Bowman Place Retirement Bedford House Party Bedford House Party Student Statehouse Tour Police Chief Bryfonsky Bedard House Party Campaign Sign Honoring August Petrone 911 Memorial Ceremony Visiting Hinsdale Visiting Winchester International Womens Day Women’s GOP Veterans Count!
+Transfer Station Sunshine Initiative Speaking Event Gusto’s Small Biz Former US Sen.
+Ayotte Rotary Club Visiting Rindge Visiting Rindge / Jaffrey Visiting Richmond Reps and Senators Polaris Ribbon Cutting Augusta Petrone New Boston GOP Visiting New Boston New Boston July 4, 2022 New Boston July 4, 2022 County Fairgrounds 7-4-22 SWAM Heroes Event SWAM Heroes Event SWAM Heroes Event Paratroopers Paratroopers Richmond & Greenfield Bikers!
+Talking to Constituents Crossroads Pizza More Farm Animals Fitzwilliam Businesses Meeting the Owner Laurel Lake Visiting Homes Beautiful Rural Fitzwilliam Curious Geese Constituents Sign Distribution in Sharon Supporters Molly’s in New Boston County Fair County Fair County Fair Nikki Haley Jaffrey Constituent Denise Barlow Bedford PD No Texting!
+I Love Hinsdale Joppa Hill Farm Norma in Hinsdale Bedford Doors Safran Optics, Bedford REI Groundbreaking, Bedford Greek Independence Day Water’s Worth It Facebook Instagram Copyright © #-26 Paid for by Denise Ricciardi for New Hampshire Senate District 9 • William Donovan, Treasurer, 10 Golden Dr., Bedford, NH 03110

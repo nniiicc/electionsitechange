@@ -1,6 +1,11 @@
+top of page VOLUNTEER DONATE Home About Issues Events & Fundraisers Connect Contact Facebook News Endorsements 2024 Press Releases 2024 Media More Use tab to navigate through the menu items.
+All Posts Press Releases In The News Election 2026 Search Team Tarsky Needs Your Help!
 Canvass with Team Tarsky on Saturday!
 The Needham Canvass is on Saturday, August 8th, at 11:00 am.
 Your attendance will provide critical momentum for the Healey-Driscoll Campaign and will help identify supporters for Team Healey-Driscoll to ensure we can follow up with them later on in the campaign to make a plan to vote.
-I’m excited to announce that I am running for reelection as your State Representative for Norfolk’s 13th District.
+ELECTION 2026 Aug 3 1 min read 2026 Re-election Campaign KickOff I’m excited to announce that I am running for reelection as your State Representative for Norfolk’s 13th District.
 Serving our communities has been one of the greatest honors of my life.
 Together, we’ve made meaningful progress supporting our local schools, improving infrastructure, and advancing initiatives that make our neighborhoods safer, healthier, and stronger.
+ELECTION 2026 Mar 4 1 min read 2024 election news Tarsky Secures State Primary The Needham Local, September 4, 2024 read article Tarsky wins democratic Primary Needham Observer, September 4, 2024 read article HOUSING, PUBLIC TRANSIT TAKE CENTER STAGE IN STATE REP.
+RACE The Needham Local, August 23, 2024 read article State Rep candidates cordial in forum Needham Observer, August 21, 2024 read article Read More 2024 Election News Re-Elect Josh Tarsky for the13th Norfolk District Paid For By The Committee to Elect Joshua Tarsky PO Box 920581 Needham, MA 02492 ​ info@joshtarsky.com JOSH TARSKY IS A FORMER MEMBER OF THE US ARMY AND A CURRENT MEMBER OF THE MASSACHUSETTS NATIONAL GUARD.
+USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY AN ENDORSEMENT BY THE ARMY OR THE DEPARTMENT OF DEFENSE. ​ © # Committee to Elect Joshua Tarsky Get Campaign Updates Join our mailing list Email * Subscribe I want to subscribe to your mailing list. bottom of page

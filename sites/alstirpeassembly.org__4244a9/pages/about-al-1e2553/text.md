@@ -1,4 +1,4 @@
-A lifelong Central New Yorker, Al was raised in Clyde, where his family owned and operated Albert’s Restaurant for more than 25 years.
+About Endorsements Volunteer Contact DONATE TODAY About Endorsements Volunteer Contact DONATE TODAY 0 0 About Al A lifelong Central New Yorker, Al was raised in Clyde, where his family owned and operated Albert’s Restaurant for more than 25 years.
 Al graduated from high school with honors and attended The University of Notre Dame, where he earned a bachelor’s degree in economics.
 After college, Al worked as a financial analyst for General Electric in Syracuse and eventually spun-off GE’s Electronic Camera Operation to form CID Technologies.
 Al was the company’s CFO and fostered innovation in the company’s information systems and customer support.
@@ -22,4 +22,4 @@ This is the 20th year Al has run his LifeSavers Blood Drive in conjunction with 
 It has come to be one of the biggest one day drives in Central New York, regularly netting between 150 and 180 units of blood during the middle of summer, the most difficult time of the year for blood donations.
 This is done with the help of dozens of local businesses that offer gifts, gift certificates, food, drinks and music!
 In his 9 terms in the Assembly, Al has been a powerful advocate for small business and economic development in Central New York, early intervention programs for children with developmental issues, universal pre-k, higher education and environmental issues.
-He serves as the chair of the Assembly Standing Committee on Economic Development, Job Creation, Commerce and Industry.
+He serves as the chair of the Assembly Standing Committee on Economic Development, Job Creation, Commerce and Industry. ©# Stirpe for Assembly

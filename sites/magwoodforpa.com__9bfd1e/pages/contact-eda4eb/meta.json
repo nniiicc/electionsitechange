@@ -1,7 +1,11 @@
 {
  "description": "Submit a message and send an email to Team Magwood.",
  "final_url": "https://www.magwoodforpa.com/contact",
+ "fingerprint": "25e6b523da72381c942734a338ba579a591278ef",
+ "format": 3,
  "paid_for_by": "PAID FOR BY MAGWOOD FOR Pa 2026 bottom of page",
  "title": "CONTACT | MAGWOOD FOR PA",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

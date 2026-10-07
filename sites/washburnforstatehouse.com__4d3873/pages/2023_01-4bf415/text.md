@@ -1,10 +1,8 @@
-by Dale Washburn | Jan 31, 2023 | News
-The Georgia House of Representatives returned to the Gold Dome for the third week of the 2023 legislative session on Monday, January 23.
+888.888.8888 name@email.com Facebook Instagram Facebook Instagram MEET DALE PRIORITIES Public Office NEWS Contact Sign Up for Capitol Updates Select Page Week 3 Legislative Session Recap 2023 by Dale Washburn | Jan 31, 2023 | News The Georgia House of Representatives returned to the Gold Dome for the third week of the 2023 legislative session on Monday, January 23.
 This week brought more exciting and important work as the House met for four legislative days.
 We voted on our first set of local...
-by Dale Washburn | Jan 27, 2023 | News
-My colleagues and I returned to the Georgia State Capitol for the highly anticipated “budget week” on Tuesday, January 17.
+Week 2 Legislative Session Recap 2023 by Dale Washburn | Jan 27, 2023 | News My colleagues and I returned to the Georgia State Capitol for the highly anticipated “budget week” on Tuesday, January 17.
 To begin the state budget process, the Georgia General Assembly devoted the entire second week of session to holding joint House and Senate...
-by Dale Washburn | Jan 27, 2023 | News
-On Monday, January 9, 2023, the Georgia General Assembly convened for the first day of the 157th Legislative Session.
+Week 1 Legislative Session Recap 2023 by Dale Washburn | Jan 27, 2023 | News On Monday, January 9, 2023, the Georgia General Assembly convened for the first day of the 157th Legislative Session.
 Since Monday marked the start of the 2023-2024 legislative term, the first day of session began with members of the Georgia House of Representatives...
+Search for: Recent Posts Week 12 Legislative Session Recap 2026 Week 11 Legislative Session Recap 2026 Week 10 Legislative Session Recap 2026 Week 9 Legislative Session Recap 2026 Week 8 Legislative Session Recap 2026 Recent Comments Archives April 2026 March 2026 February 2026 January 2026 April 2025 March 2025 February 2025 January 2025 December 2024 April 2024 March 2024 February 2024 January 2024 April 2023 March 2023 February 2023 January 2023 April 2022 March 2022 February 2022 January 2022 March 2020 February 2020 March 2019 February 2019 January 2019 Categories News Uncategorized Meta Log in Entries feed Comments feed WordPress.org Facebook Instagram © # Dale Washburn for State House | Website by Pipeline Social Media

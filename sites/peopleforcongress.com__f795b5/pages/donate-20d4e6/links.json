@@ -1,18 +1,66 @@
 [
-"https://facebook.com/events/26638014332528142?post_id=26700292646300310&acontext=%7B%22event_action_history%22%3A%5B%7B%22surface%22%3A%22external_search_engine%22%7D%2C%7B%22mechanism%22%3A%22footer_attachment%22%2C%22surface%22%3A%22newsfeed%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D",
-"https://facebook.com/profile.php?id=61573727416052",
-"https://instagram.com/robertpeopleforcongressfl15?hl=en",
-"https://peopleforcongress.com/",
-"https://peopleforcongress.com/about-3",
-"https://peopleforcongress.com/about-8",
-"https://peopleforcongress.com/contact",
-"https://peopleforcongress.com/donate",
-"https://peopleforcongress.com/general-7",
-"https://peopleforcongress.com/get-involved",
-"https://peopleforcongress.com/projects-6",
-"https://peopleforcongress.com/the-more-you-know",
-"https://secure.actblue.com/donate/people4congressweb",
-"https://threads.com/@robertpeopleforcongress",
-"https://tiktok.com/@robertpeopleforcongress",
-"https://youtube.com/@RobertPeopleforCongressFL15"
+{
+"text": "AND NOW YOU KNOW",
+"href": "https://www.peopleforcongress.com/the-more-you-know"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.peopleforcongress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/people4congressweb"
+},
+{
+"text": "DONATE BY MAIL",
+"href": "https://www.peopleforcongress.com/donate"
+},
+{
+"text": "ENDORSE ROBERT",
+"href": "https://www.peopleforcongress.com/about-8"
+},
+{
+"text": "HOME",
+"href": "https://www.peopleforcongress.com"
+},
+{
+"text": "IN THE MEDIA",
+"href": "https://www.peopleforcongress.com/projects-6"
+},
+{
+"text": "MY PLATFORM",
+"href": "https://www.peopleforcongress.com/general-7"
+},
+{
+"text": "UPCOMING EVENTS",
+"href": "https://www.peopleforcongress.com/about-3"
+},
+{
+"text": "VOLUNTEER!",
+"href": "https://www.peopleforcongress.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61573727416052"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/robertpeopleforcongressfl15/?hl=en"
+},
+{
+"text": "[image: Threads]",
+"href": "https://www.threads.com/@robertpeopleforcongress"
+},
+{
+"text": "[image: TikTok ]",
+"href": "https://www.tiktok.com/@robertpeopleforcongress"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@RobertPeopleforCongressFL15"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/events/26638014332528142/?post_id=26700292646300310&acontext=%7B%22event_action_history%22%3A%5B%7B%22surface%22%3A%22external_search_engine%22%7D%2C%7B%22mechanism%22%3A%22footer_attachment%22%2C%22surface%22%3A%22newsfeed%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D"
+}
 ]

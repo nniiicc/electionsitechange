@@ -1,4 +1,10 @@
-Click here to support Lesley's re election campaign Newsletter Block This newsletter signup form needs a storage option.
+0 Skip to Content Delegate Lesley Lopez Maryland's District 39 Home About Lesley Open Menu Close Menu Delegate Lesley Lopez Maryland's District 39 Home About Lesley Open Menu Close Menu Home About Lesley Click here to support Lesley's re election campaign Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab. get the good news from D39 Sign up with your email address to receive news and updates.
 First Name Last Name Email Address Sign Up We respect your privacy and don’t send more than three emails a month.
-Thank you! 2026 Endorsements By Authority of Lopez for Maryland, Carly Brockinton, Treasurer.
+Thank you!
+2026 Endorsements By Authority of Lopez for Maryland, Carly Brockinton, Treasurer.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Authorized by Maryland for Lesley Lopez, Treasurer Carly Brockinton PO BOX 86931, Montgomery Village, MD 20886-6931

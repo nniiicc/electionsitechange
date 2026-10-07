@@ -1,7 +1,11 @@
 {
  "description": "The official website of Ned Lamont's campaign for Connecticut Governor.",
  "final_url": "https://www.nedlamont.com/priorities/",
+ "fingerprint": "6e1945300a78e6c42b8661715dbe906abf85422f",
+ "format": 3,
  "paid_for_by": "Paid for by Ned for CT",
- "title": "Governor Ned Lamont's PrioritiesFacebookXInstagramBlueskyTikTok",
- "years_mentioned": []
+ "title": "Governor Ned Lamont's Priorities",
+ "years_mentioned": [
+  "2040"
+ ]
 }

@@ -1,6 +1,8 @@
 {
  "description": "PUBLIC SAFETY, FIRST RESPONDERS & VETERANS",
  "final_url": "https://www.mitchfornewtown.com/issues/public-safety-first-responders-veterans",
+ "fingerprint": "0e5fe0a1db668fcb4313bbf9eed570ab02d2148e",
+ "format": 3,
  "paid_for_by": "Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer",
  "title": "PUBLIC SAFETY, FIRST RESPONDERS & VETERANS",
  "years_mentioned": [
@@ -8,6 +10,7 @@
   "2021",
   "2022",
   "2023",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

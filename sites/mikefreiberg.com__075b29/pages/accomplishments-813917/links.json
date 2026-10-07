@@ -1,34 +1,130 @@
 [
-"https://facebook.com/FreibergForStateSenator",
-"https://mikefreiberg.com/",
-"https://mikefreiberg.com/accomplishments",
-"https://mikefreiberg.com/donate",
-"https://mikefreiberg.com/endorsements",
-"https://mikefreiberg.com/events",
-"https://mikefreiberg.com/issues",
-"https://mikefreiberg.com/media",
-"https://mikefreiberg.com/voting",
-"https://revisor.mn.gov/bills/94/2025/0/HF/207?body=House",
-"https://revisor.mn.gov/bills/94/2026/0/HF/3363?body=House",
-"https://revisor.mn.gov/bills/94/2026/0/HF/3365?body=House",
-"https://revisor.mn.gov/bills/94/2026/0/HF/3463?body=House",
-"https://revisor.mn.gov/bills/94/2026/0/HF/3479?body=House",
-"https://revisor.mn.gov/bills/94/2026/0/HF/3664?body=House",
-"https://revisor.mn.gov/bills/94/2026/0/HF/3825?body=House",
-"https://revisor.mn.gov/bills/94/2026/0/HF/4239?body=House",
-"https://revisor.mn.gov/bills/94/2026/0/HF/4240?body=House",
-"https://revisor.mn.gov/bills/94/2026/0/HF/4241?body=House",
-"https://revisor.mn.gov/bills/94/2026/0/HF/4461?body=House",
-"https://revisor.mn.gov/bills/94/2026/0/HF/4471/versions/0",
-"https://revisor.mn.gov/bills/94/2026/0/HF/4591?body=House",
-"https://revisor.mn.gov/bills/text.php?number=HF1224&type=bill&version=1&session=ls94&session_year=2025&session_number=0",
-"https://revisor.mn.gov/bills/text.php?number=HF1378&version=0&session=ls94&session_year=2025&session_number=0",
-"https://revisor.mn.gov/bills/text.php?number=HF1943&version=0&session=ls94&session_year=2025&session_number=0",
-"https://revisor.mn.gov/bills/text.php?number=HF2073&type=bill&version=0&session=ls94&session_year=2025&session_number=0",
-"https://revisor.mn.gov/bills/text.php?number=HF2098&type=bill&version=2&session=ls94&session_year=2025&session_number=0",
-"https://revisor.mn.gov/bills/text.php?number=HF2595&type=bill&version=0&session=ls94&session_year=2025&session_number=0",
-"https://revisor.mn.gov/bills/text.php?number=HF2596&type=bill&version=0&session=ls94&session_year=2025&session_number=0",
-"https://revisor.mn.gov/bills/text.php?number=HF2870&type=bill&version=1&session=ls94&session_year=2025&session_number=0",
-"https://revisor.mn.gov/laws/2025/0/Session+Law/Chapter/35",
-"https://revisor.mn.gov/laws/2025/0/Session+Law/Chapter/39"
+{
+"text": "Accomplishments",
+"href": "https://www.mikefreiberg.com/accomplishments"
+},
+{
+"text": "Donate",
+"href": "https://www.mikefreiberg.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mikefreiberg.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mikefreiberg.com/events"
+},
+{
+"text": "HF 1224",
+"href": "https://www.revisor.mn.gov/bills/text.php?number=HF1224&type=bill&version=1&session=ls94&session_year=2025&session_number=0"
+},
+{
+"text": "HF 1378",
+"href": "https://www.revisor.mn.gov/bills/text.php?number=HF1378&version=0&session=ls94&session_year=2025&session_number=0"
+},
+{
+"text": "HF 1943",
+"href": "https://www.revisor.mn.gov/bills/text.php?number=HF1943&version=0&session=ls94&session_year=2025&session_number=0"
+},
+{
+"text": "HF 207",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/207/?body=House"
+},
+{
+"text": "HF 2073",
+"href": "https://www.revisor.mn.gov/bills/text.php?number=HF2073&type=bill&version=0&session=ls94&session_year=2025&session_number=0"
+},
+{
+"text": "HF 2098",
+"href": "https://www.revisor.mn.gov/bills/text.php?number=HF2098&type=bill&version=2&session=ls94&session_year=2025&session_number=0"
+},
+{
+"text": "HF 2595",
+"href": "https://www.revisor.mn.gov/bills/text.php?number=HF2595&type=bill&version=0&session=ls94&session_year=2025&session_number=0"
+},
+{
+"text": "HF 2596",
+"href": "https://www.revisor.mn.gov/bills/text.php?number=HF2596&type=bill&version=0&session=ls94&session_year=2025&session_number=0"
+},
+{
+"text": "HF 2870",
+"href": "https://www.revisor.mn.gov/bills/text.php?number=HF2870&type=bill&version=1&session=ls94&session_year=2025&session_number=0"
+},
+{
+"text": "HF 3363",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3363/?body=House"
+},
+{
+"text": "HF 3365",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3365/?body=House"
+},
+{
+"text": "HF 3463",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3463/?body=House"
+},
+{
+"text": "HF 3479",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3479/?body=House"
+},
+{
+"text": "HF 3664",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3664/?body=House"
+},
+{
+"text": "HF 3825",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3825/?body=House"
+},
+{
+"text": "HF 4239",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4239/?body=House"
+},
+{
+"text": "HF 4240",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4240/?body=House"
+},
+{
+"text": "HF 4241",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4241/?body=House"
+},
+{
+"text": "HF 4461",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4461/?body=House"
+},
+{
+"text": "HF 4471",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4471/versions/0/"
+},
+{
+"text": "HF 4591",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4591/?body=House"
+},
+{
+"text": "HF2432",
+"href": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/35/"
+},
+{
+"text": "Issues",
+"href": "https://www.mikefreiberg.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.mikefreiberg.com/media"
+},
+{
+"text": "Mike Freiberg",
+"href": "https://www.mikefreiberg.com"
+},
+{
+"text": "SF3045",
+"href": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/39/"
+},
+{
+"text": "Voting",
+"href": "https://www.mikefreiberg.com/voting"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/FreibergForStateSenator/"
+}
 ]

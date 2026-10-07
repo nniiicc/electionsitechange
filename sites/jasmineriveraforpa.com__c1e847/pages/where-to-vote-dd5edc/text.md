@@ -1,6 +1,5 @@
-Ver en espa�ol
-Looking for your polling place in York County PA?
+HOME MEET THE CANDIDATE ON THE ISSUES PUBLIC EVENTS GOLF OUTING VOLUNTEER DONATE CONTACT US VOTER REG WHERE TO VOTE JOIN US Ver en espa�ol HOME MEET THE CANDIDATE ON THE ISSUES PUBLIC EVENTS GOLF OUTING VOLUNTEER DONATE CONTACT US VOTER REG WHERE TO VOTE JOIN US Ver en espa�ol HOME MEET THE CANDIDATE ON THE ISSUES PUBLIC EVENTS GOLF OUTING VOLUNTEER DONATE CONTACT US VOTER REG WHERE TO VOTE JOIN US Ver en espa�ol HOME MEET THE CANDIDATE ON THE ISSUES PUBLIC EVENTS GOLF OUTING VOLUNTEER DONATE CONTACT US VOTER REG WHERE TO VOTE JOIN US Ver en espa�ol WHERE TO VOTE Looking for your polling place in York County PA?
 The Polling Place Search tool in the link below will help you locate a polling place for Election day.
 Begin by typing the county of residence and city in the dropdown menus below.
-Site Design and Hosted by
-Sunken Treasure Design
+CLICK HERE TO FIND YOUR POLLING PLACE Copyright # - Jasmine Rivera for PA - All Rights Reserved.
+Site Design and Hosted by Sunken Treasure Design

@@ -1,4 +1,4 @@
-Bucks County, PA — In a sweeping demonstration of support from organized labor, Congressman Brian Fitzpatrick has earned the overwhelming recommendation of both the Bucks County Central Labor Council and the Montgomery County Central Labor Council, together with the endorsement, recommendation, or formal support of more than 40 labor organizations representing working men and women across Pennsylvania’s First Congressional District and throughout the nation.
+Brian Fitzpatrick For Congress Home Bio Issues Contact Media Vote by Mail Endorsements Header Buttons Donate Home / Media / Labor Stands United Behind Fitzpatrick Labor Stands United Behind Fitzpatrick Overwhelming Recommendations from Bucks and Montgomery County Central Labor Councils Join Endorsements & Support from Over 40 Unions Representing Working People Across Nearly Every Sector Bucks County, PA — In a sweeping demonstration of support from organized labor, Congressman Brian Fitzpatrick has earned the overwhelming recommendation of both the Bucks County Central Labor Council and the Montgomery County Central Labor Council , together with the endorsement, recommendation, or formal support of more than 40 labor organizations representing working men and women across Pennsylvania’s First Congressional District and throughout the nation.
 The coalition reaches nearly every corner of the American workforce—from construction sites and classrooms to hospitals, firehouses, factory floors, rail yards, airports, ports, federal workplaces, and postal routes.
 Its message is clear: working people trust Brian Fitzpatrick to have their backs, fight for their livelihoods, and deliver when it counts.
 “When American labor is strong, America is strong,” said Fitzpatrick.
@@ -7,95 +7,44 @@ That promise must be respected, defended, and fought for, and it has guided my w
 “The extraordinary men and women of labor have been partners at the table from the beginning, and working alongside them has been one of the great privileges of my public service.
 I am deeply honored by the confidence of this remarkable coalition and grateful for the opportunity to continue our partnership and friendship.
 Together, we will keep fighting—because we do not rebuild American industry by weakening workers.
-We rebuild it by investing in them.”
-Fitzpatrick has earned the endorsement, recommendation, or formal support of the following labor organizations:
-- North America’s Building Trades Unions, Transportation Trades Department
-- International Brotherhood of Teamsters
-- Transport Workers Union of America (TWU)
-- Air Line Pilots Association (ALPA)
-- Allied Pilots Association (APA)
-- American Federation of Government Employees (AFGE)
-- American Maritime Officers (AMO)
-- Association of Professional Flight Attendants (APFA)
-- International Brotherhood of Boilermakers
-- International Union of Bricklayers and Allied Craftworkers
-- United Brotherhood of Carpenters and Joiners of America
-- Communications Workers of America (CWA)/AFA
-- International Brotherhood of Electrical Workers (IBEW)
-- International Union of Elevator Constructors
-- International Association of Fire Fighters (IAFF)
-- United Food and Commercial Workers International Union (UFCW)
-- International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers
-- Laborers’ International Union of North America (LIUNA)
-- National Postal Mail Handlers Union (NMHPU)
-- National Association of Letter Carriers (NALC)
-- Pennsylvania Association of Letter Carriers
-- International Association of Machinists/Transportation Communications Union (TCU)
-- Marine Engineers’ Beneficial Association (MEBA)
-- International Organization of Masters, Mates & Pilots
-- United Mine Workers of America (UMWA)
-- National Air Traffic Controllers Association (NATCA)
-- National Active and Retired Federal Employees Association (NARFE)
-- National Education Association (NEA)/PSEA
-- National Treasury Employees Union (NTEU)
-- NetJets Association of Shared Aircraft Pilots
-- International Union of Operating Engineers
-- International Union of Painters and Allied Trades
-- United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry (UA)
-- American Postal Workers Union (APWU)
-- Professional Aviation Safety Specialists (PASS)
-- International Federation of Professional and Technical Engineers (IFPTE)
-- Brotherhood of Railroad Signalmen (BRS)
-- National Rural Letter Carriers’ Association
-- Seafarers International Union
-- International Association of Sheet Metal, Air, Rail and Transportation Workers (SMART)
-- Southwest Airlines Pilots Association (SWAPA)
-- International Alliance of Theatrical Stage Employees
-Key Statements of Support:
-John Samuelsen, International President, TWU: “You are among the greatest champions for all of our members and we are looking forward to continuing to work with you in the 120th Congress and beyond.
+We rebuild it by investing in them.” Fitzpatrick has earned the endorsement, recommendation, or formal support of the following labor organizations: North America’s Building Trades Unions, Transportation Trades Department International Brotherhood of Teamsters Transport Workers Union of America (TWU) Air Line Pilots Association (ALPA) Allied Pilots Association (APA) American Federation of Government Employees (AFGE) American Maritime Officers (AMO) Association of Professional Flight Attendants (APFA) International Brotherhood of Boilermakers International Union of Bricklayers and Allied Craftworkers United Brotherhood of Carpenters and Joiners of America Communications Workers of America (CWA)/AFA International Brotherhood of Electrical Workers (IBEW) International Union of Elevator Constructors International Association of Fire Fighters (IAFF) United Food and Commercial Workers International Union (UFCW) International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers Laborers’ International Union of North America (LIUNA) National Postal Mail Handlers Union (NMHPU) National Association of Letter Carriers (NALC) Pennsylvania Association of Letter Carriers International Association of Machinists/Transportation Communications Union (TCU) Marine Engineers’ Beneficial Association (MEBA) International Organization of Masters, Mates & Pilots United Mine Workers of America (UMWA) National Air Traffic Controllers Association (NATCA) National Active and Retired Federal Employees Association (NARFE) National Education Association (NEA)/PSEA National Treasury Employees Union (NTEU) NetJets Association of Shared Aircraft Pilots International Union of Operating Engineers International Union of Painters and Allied Trades United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry (UA) American Postal Workers Union (APWU) Professional Aviation Safety Specialists (PASS) International Federation of Professional and Technical Engineers (IFPTE) Brotherhood of Railroad Signalmen (BRS) National Rural Letter Carriers’ Association Seafarers International Union International Association of Sheet Metal, Air, Rail and Transportation Workers (SMART) Southwest Airlines Pilots Association (SWAPA) International Alliance of Theatrical Stage Employees Key Statements of Support: John Samuelsen, International President, TWU: “You are among the greatest champions for all of our members and we are looking forward to continuing to work with you in the 120th Congress and beyond.
 For nearly a decade, TWU members have been able to count on your leadership and support as we’ve fought to improve working people’s lives.
 You are the top Member of Congress on the TWU’s scorecard with nearly a 100% voting record on our issues.
 Simply put, you are the very best elected leader serving in Washington, DC for transit, airline, and railroad workers.
-TWU is endorsing your candidacy because you have repeatedly demonstrated that workers can count on you to not only vocally support them, but to effectively turn rhetoric into law.”
-William Hamilton, President, PA Teamsters: “Your record demonstrates a consistent commitment to standing with working families and defending the dignity of labor.
+TWU is endorsing your candidacy because you have repeatedly demonstrated that workers can count on you to not only vocally support them, but to effectively turn rhetoric into law.” William Hamilton, President, PA Teamsters: “Your record demonstrates a consistent commitment to standing with working families and defending the dignity of labor.
 Time and again, you have shown a willingness to work across party lines to protect collective bargaining rights, safeguard pensions, and ensure safe working conditions for union members.
 These efforts have not gone unnoticed by the Teamsters, who value leaders that put the needs of working men and women first.
 We especially appreciate your support for measures that strengthen retirement security, defend public transit funding, and prioritize workplace safety.
 These actions reflect not only your respect for the contributions of union members but also your understanding of the vital role that labor plays in sustaining Pennsylvania’s economy and communities.
 The PA Conference of Teamsters is proud to stand with you.
 We believe your continued leadership is essential to ensuring that working families remain at the center of our nation’s future.
-We look forward to working together to advance policies that protect jobs, wages, and benefits for generations to come.”
-Brad Mickatavage, International Brotherhood of Boilermakers: “Since taking office in 2017, you have consistently demonstrated an unwavering commitment to working people—both within organized labor and beyond.
+We look forward to working together to advance policies that protect jobs, wages, and benefits for generations to come.” Brad Mickatavage, International Brotherhood of Boilermakers: “Since taking office in 2017, you have consistently demonstrated an unwavering commitment to working people—both within organized labor and beyond.
 Your record on key legislation further underscores your steadfast support for the labor movement.
 When the labor movement needs a leader, you don’t simply offer words of solidarity—you act.
 Your votes and leadership on critical issues have been a vital asset to working people across the district.
 We are grateful for the trust and friendship you have built with the Boilermakers, the Philadelphia Building Trades, and the broader labor community.
-As we work to secure your continued success in Bucks County, please know that we stand with you in this effort.”
-Mark McManus, United Association of Union Plumbers and Pipefitters (UA): “The entire United Association is proud to stand with you, just as you have always stood with us in Washington.
+As we work to secure your continued success in Bucks County, please know that we stand with you in this effort.” Mark McManus, United Association of Union Plumbers and Pipefitters (UA): “ The entire United Association is proud to stand with you, just as you have always stood with us in Washington.
 We rely on leaders like you in Congress to make sure our members can go to work each day for fair wages and benefits – and to ensure that the United States remains the world leader.
 Thanks to you, the United Association members you represent have a voice at the table.
 Your consistent votes to expand Davis-Bacon prevailing wage provisions, to prevent the implementation of the anti-worker industry recognized apprenticeship program (IRAP) final rule, and to protect the gold-standard status of the UA’s registered apprenticeship model mean that working families in Pennsylvania are better off today than before you took office.
 And now, thanks to your leadership and willingness to work across the aisle, we are working together to restore essential bipartisan tax incentives to jumpstart infrastructure construction and continue to provide the energy that powers our communities.
 While others might say the right things, you let your record speak for itself.
-We are proud to work with you day in and day out to fight for better jobs with fair wages, and to ensure all working families have a fair shot at success.”
-Maureen May, RN, PASNAP: “On behalf of the 1 ,000-plus frontline nurses and allied professionals represented by PASNAP, we value your deep commitment to protecting healthcare workers and advancing policies that make our hospitals safer for patients and staff alike, and we are enduringly grateful for your partnership in the fight for safe staffing standards, the push for critically needed workplace violence protections, and efforts to ensure that the voices of frontline caregivers are not only heard but meaningfully valued.
+We are proud to work with you day in and day out to fight for better jobs with fair wages, and to ensure all working families have a fair shot at success.” Maureen May, RN, PASNAP: “On behalf of the 1 ,000-plus frontline nurses and allied professionals represented by PASNAP, we value your deep commitment to protecting healthcare workers and advancing policies that make our hospitals safer for patients and staff alike, and we are enduringly grateful for your partnership in the fight for safe staffing standards, the push for critically needed workplace violence protections, and efforts to ensure that the voices of frontline caregivers are not only heard but meaningfully valued.
 We look forward to standing shoulder to shoulder with you in the months and years ahead.
-Thank you for always having the backs of frontline healthcare workers.”
-Stephen M.
+Thank you for always having the backs of frontline healthcare workers.” Stephen M.
 Aldrich, International Brotherhood of Electrical Workers: “In Congress, your commitment to the labor movement with your support of federal project labor agreements and prevailing wage requirements while opposing anti-labor initiatives such as right-to-work laws has provided a positive outcome for our membership and their families.
 It is so important to have a voice in the Congress who is willing to listen to the needs and concerns of the membership and make changes when necessary.
 You have continually proven to be a friend of the labor movement and working families in your district.
-IBEW Local 269 is proud to support your efforts.”
-Willie Barrere, American Maritime Officers; Dave Heindel, Seafarers International Union; Don Josberger, Masters, Mates, & Pilots; Adam Vokac Marine Engineers’ Beneficial Association: “During your time in Congress, you have been an outspoken champion of organized labor and the U.S.
+IBEW Local 269 is proud to support your efforts.” Willie Barrere, American Maritime Officers; Dave Heindel, Seafarers International Union; Don Josberger, Masters, Mates, & Pilots; Adam Vokac Marine Engineers’ Beneficial Association: “During your time in Congress, you have been an outspoken champion of organized labor and the U.S.
 Merchant Marine.
 Your tireless efforts continue to advance key policies that strengthen collective bargaining rights for workers, protect strong workplace safety standards, and preserve the job and retirement benefits of American workers.
 You have also been a tireless advocate for the U.S. maritime industry, recognizing its strategic importance and the need for Congress to revitalize the maritime industrial base.
 We especially appreciate your leadership toward advancing a national maritime policy and your support for legislation like the SHIPS for America Act and other federal initiatives that would allow American mariners and U.S. flag vessel operators to better compete in global shipping.
-Equally important, you continue to protect longstanding maritime policies essential to protecting American maritime jobs, strengthening our national and economic security, and ensuring that the United States can effectively compete with foreign nations that do not play by the same rules.”
-William C.
-Sproule, Eastern Atlantic States Regional Council of Carpenters: “You have our union’s endorsement because you share our commitment to strengthening the region’s infrastructure, supporting career and technical education, and investing in the workforce that builds and maintains our communities.
+Equally important, you continue to protect longstanding maritime policies essential to protecting American maritime jobs, strengthening our national and economic security, and ensuring that the United States can effectively compete with foreign nations that do not play by the same rules.” William C.
+Sproule, Eastern Atlantic States Regional Council of Carpenters: “ You have our union’s endorsement because you share our commitment to strengthening the region’s infrastructure, supporting career and technical education, and investing in the workforce that builds and maintains our communities.
 Your efforts to advance responsible economic development, protect workers’ rights, and ensure federal investments create high-quality jobs align with our mission to raise standards across the construction industry.
-You also stand with us in the fight against construction industry tax fraud and misclassification, which harms not only workers but their entire communities.”
-Patrick Martin, Secretary/Treasurer, PPFA/IAFF: “It is our honor as members of the Pennsylvania Professional Fire Fighters Association to endorse you for re-election to the 1st Congressional District.
+You also stand with us in the fight against construction industry tax fraud and misclassification, which harms not only workers but their entire communities.” Patrick Martin, Secretary/Treasurer, PPFA/IAFF: “It is our honor as members of the Pennsylvania Professional Fire Fighters Association to endorse you for re-election to the 1st Congressional District.
 You have been supportive of our issues as a congressman, and we believe you will continue that support.
-We look forward to continuing to work with you on issues vital to the PPFFA and our members.”
+We look forward to continuing to work with you on issues vital to the PPFFA and our members.” Quotes “Rep.
+Brian Fitzpatrick earned the highest Bipartisan Index score we have ever recorded by a House member,” - Dan Diller, Policy Director, The Lugar Center, Georgetown University, 5/12/20 "Pa's Fitzpatrick Leads U.S.
+House in Bipartisan, New Rankings Show" - Pennsylvania Capital-Star, 2/21/2020 Paid for by Brian Fitzpatrick for All of Us Privacy Policy Terms and Conditions PO Box 939 Langhorne, PA 19047 info@brianfitzpatrick.com

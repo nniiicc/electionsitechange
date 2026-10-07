@@ -1,4 +1,4 @@
-Shawnna Bolick serves as an Arizona State Senator representing Legislative District 2.
+Home About Shawnna Issues Endorsements Photos Donate Request a Yard Sign Contact Us More Home About Shawnna Issues Endorsements Photos Donate Request a Yard Sign Contact Us Home About Shawnna Issues Endorsements Photos Donate Request a Yard Sign Contact Us About Shawnna Shawnna Bolick serves as an Arizona State Senator representing Legislative District 2.
 She currently chairs the Senate Committee on Regulatory Affairs & Government Efficiency and serves on the Judiciary & Elections, Ethics and Finance Committees.
 She is known for her work on public safety, justice reform, election integrity, and responsible governance.
 Before joining the Senate in July 2023, she served two terms in the Arizona House of Representatives (elected 2018, re‑elected 2020), where she sponsored legislation focused on education accountability, criminal justice reform, and strengthening oversight across state programs.
@@ -18,5 +18,5 @@ Throughout her legislative service, Shawnna has collaborated with diverse coalit
 She has also been active in public health policy, consumer protection, and strengthening accountability within Arizona’s Empowerment Scholarship Account (ESA) program.
 Shawnna has lived in Phoenix for 25 years with her family and their three greyhounds.
 She is deeply engaged in her community.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Copyright © # BOLICKFORARIZONA.COM - All Rights Reserved.
+Home About Shawnna Issues Endorsements Photos Donate Request a Yard Sign Contact Us

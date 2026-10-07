@@ -1,16 +1,30 @@
-Press Release: Representative Greg Smith Announces Hiring of Port of Morrow Executive Director
-FOR IMMEDIATE RELEASE:
-April 27, 2022
-Representative Greg Smith Announces Hiring of Port of Morrow Executive Director
-Boardman, Ore. – Representative Greg Smith (R-Heppner) is pleased to announce the decision by the Port of Morrow to hire Lisa Mittelsdorf as the new Executive Director for the Port.
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Press Release: Representative Greg Smith Announces Hiring of Port of Morrow Executive Director April 27, 2022 / in News FOR IMMEDIATE RELEASE : April 27, 2022 Representative Greg Smith Announces Hiring of Port of Morrow Executive Director Boardman, Ore. – Representative Greg Smith (R-Heppner) is pleased to announce the decision by the Port of Morrow to hire Lisa Mittelsdorf as the new Executive Director for the Port.
 “Lisa has successfully served in the role as the Economic Development Director, and her many years of experience will allow her to transition seamlessly into this position,” said Representative Smith.
 Mittelsdorf will replace the late Ryan Neal whose passion, dedication, and professionalism is remembered by all who had the opportunity to know and work with him.
 Representative Greg Smith is currently serving his eleventh term as an Oregon State Representative, making him the longest serving member in the House of Representatives.
 He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
 Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
 Additionally, he is the ranking member on the House Revenue and Joint Legislative Audits Committees.
-To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov
-###
-CONTACT INFORMATION:
-Representative Greg Smith
-541-993-5236
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2022-04-27 10:36:44 2023-10-02 10:38:41 Press Release: Representative Greg Smith Announces Hiring of Port of Morrow Executive Director Press Release: Representative Greg Smith Joins Board and Members at UEC’s 85th Annual Meeting April 23, 2022 / in News FOR IMMEDIATE RELEASE : April 23, 2022 Representative Greg Smith Joins Board and Members at UEC’s 85 th Annual Meeting Hermiston, Ore. – Today Representative Greg Smith (R-Heppner) joined the UEC Board, staff, and members along with local elected officials at Umatilla Electric Cooperative’s 85 th Annual Meeting.
+After a two year in-person hiatus, the event kicked off around 5:00 PM at the Eastern Oregon Trade and Event Center (EOTEC).
+This year’s theme was “Larger Than Light”.
+“Umatilla Electric Cooperative is an economic engine in the region.
+The annual meeting is a time to gather, celebrate the success of the Co-Op, and show appreciation to the members.
+After two years, it was amazing to be back in person with friends.
+The theme of ‘Larger Than Light’ could not have been more fitting,” said Representative Smith.
+Representative Greg Smith is currently serving his eleventh term as an Oregon State Representative, making him the longest serving member in the House of Representatives.
+He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
+Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
+Additionally, he is the ranking member on the House Revenue and Joint Legislative Audits Committees.
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2022-04-23 10:31:53 2023-10-02 10:35:42 Press Release: Representative Greg Smith Joins Board and Members at UEC’s 85th Annual Meeting Press Release: Representative Greg Smith Supports Audit of Pharmacy Benefit Managers April 1, 2022 / in News FOR IMMEDIATE RELEASE : Apri 1, 2022 Representative Greg Smith Supports Audit of Pharmacy Benefit Managers Salem, Ore. – Representative Greg Smith ( R-Heppner ) joined local pharmacists Ann and John Murray in a discussion with the Secretary of State’s Audits Division regarding their upcoming performance audit of Pharmacy Benefit Managers in the Medicaid program.
+“Constitutionally the Secretary of State has the authority to review contracts that may not be in the best interest of the State of Oregon.
+Legislatively, I have the responsibility to ensure taxpayer dollars are being used correctly and getting the greatest benefit for all of Oregon,” said Representative Smith.
+“We welcome the Oregon Secretary of State’s audit of the Pharmacy Benefit Managers (PBM’s) activities within the state Medicaid program.
+Many states in the nation have recently found astonishing savings in these audits.
+By increasing transparency and scrutinizing how PBM’s are operating, we predict this audit will uncover funds that can be used to help Oregon’s Medicaid program protect and benefit vulnerable Oregonians and maintain our fragile rural health care system and access to pharmacy services,” said John and Ann Murray who operate Murray Drugs Inc. with locations in Heppner, Condon, and Boardman.
+It is an anticipated this extensive audit could take upwards of 18 months to complete.
+“At the end of the day, I would hope there would be transparency in the auditing process and identification of waste and inefficacy,” said Representative Smith.
+Representative Smith serves as a Co-Chair of the Joint Ways and Means Subcommittee on General Government that works directly with the Secretary of State on the agency’s budget, including the Audits Division.
+Moreover, Representative Smith is the ranking member on the Joint Legislative Audits Committee.
+### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2022-04-01 10:29:40 2023-10-02 10:31:41 Press Release: Representative Greg Smith Supports Audit of Pharmacy Benefit Managers July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

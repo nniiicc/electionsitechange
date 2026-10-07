@@ -1,7 +1,11 @@
 {
  "description": "To register to vote and vote in North Carolina, a person must: Be a U.S. citizen. Be a resident of the county, and prior to voting in an election, must have resided at his or Read more",
  "final_url": "https://billmccaskill.com/register-to-vote/",
- "paid_for_by": null,
+ "fingerprint": "ad84dcd1751b48bc1a4a1b98c37fcd135d09d939",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Register to Vote - Bill McCaskill for NC House 70",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

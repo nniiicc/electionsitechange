@@ -1,7 +1,6 @@
-1
-Sep
-Tuesday, 2:36 PM · 2026
-314 Action Fund - Endorsed!
+Meet Nick Issues News Volunteer Events Photos Contribute News / 314 Action Fund - Endorsed!
+1 Sep Tuesday, 2:36 PM · 2026 314 Action Fund - Endorsed!
+I’m proud to be endorsed by 314 Action Fund.
 Good governance starts with finding the hard truth about where we are today based on facts and evidence.
 It requires leaders who understand data, question assumptions, and follow the research even when it challenges the story they want to tell.
 Housing costs, inflation, wages, and job growth are not political talking points.
@@ -12,3 +11,5 @@ Our conclusions should never shape the evidence.
 Throughout my career, I have relied on data-driven decision-making because real leadership requires understanding the situation as it actually exists, identifying the root causes, and addressing them head-on.
 That is the kind of leadership I will bring to Lansing: evidence over ideology, data over spin, and solutions grounded in reality.
 I’m grateful to 314 Action for their endorsement and for supporting candidates who believe in science, research, evidence, and intellectual honesty.
+Voter Information Yard Signs Events Photos Contact Privacy Policy Paid for by Committee to Elect Nick Rowe P.O.
+Box 103 Richland MI 49083 Powered by CampaignPartner.com - Political Websites Home Meet Nick Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

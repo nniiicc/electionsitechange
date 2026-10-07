@@ -1,10 +1,42 @@
 [
-"https://facebook.com/WixStudio",
-"https://instagram.com/wix",
-"https://ksvotes.org/r/ams",
-"https://secure.actblue.com/donate/alexisforks",
-"https://simmonsforkansas.org/",
-"https://simmonsforkansas.org/about",
-"https://simmonsforkansas.org/endorsements",
-"https://twitter.com/WixStudio"
+{
+"text": "Contact",
+"href": "https://www.simmonsforkansas.org"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/alexisforks"
+},
+{
+"text": "Endorsements",
+"href": "https://www.simmonsforkansas.org/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.simmonsforkansas.org"
+},
+{
+"text": "Meet Alexis",
+"href": "https://www.simmonsforkansas.org/about"
+},
+{
+"text": "Vote",
+"href": "https://www.ksvotes.org/r/ams"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix/"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/WixStudio"
+},
+{
+"text": "[no text]",
+"href": "https://www.simmonsforkansas.org"
+}
 ]

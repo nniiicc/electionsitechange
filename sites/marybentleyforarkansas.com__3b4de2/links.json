@@ -1,8 +1,26 @@
 [
-"https://facebook.com/MaryBentleyAR",
-"https://marybentleyforarkansas.com/",
-"https://marybentleyforarkansas.com/about",
-"https://marybentleyforarkansas.com/endorsements-1",
-"https://secure.anedot.com/marybentley/donate",
-"https://twitter.com/MaryBentleyAR"
+{
+"text": "About",
+"href": "https://www.marybentleyforarkansas.com/about"
+},
+{
+"text": "Endorsements",
+"href": "https://www.marybentleyforarkansas.com/endorsements-1"
+},
+{
+"text": "Home",
+"href": "https://www.marybentleyforarkansas.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MaryBentleyAR"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/MaryBentleyAR"
+},
+{
+"text": "[image: ribbon_edited_edited.png]",
+"href": "https://secure.anedot.com/marybentley/donate"
+}
 ]

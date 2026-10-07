@@ -1,18 +1,78 @@
 [
-"https://facebook.com/votelizberry",
-"https://instagram.com/lizberrywa",
-"https://instagram.com/votelizberry",
-"https://lizberry.com/",
-"https://lizberry.com/10",
-"https://lizberry.com/25",
-"https://lizberry.com/50",
-"https://lizberry.com/cdn-cgi/l/email-protection",
-"https://lizberry.com/contact",
-"https://lizberry.com/donate",
-"https://lizberry.com/endorsements",
-"https://lizberry.com/meet-liz",
-"https://lizberry.com/other",
-"https://lizberry.com/priorities",
-"https://lizberry.com/wp-content/uploads/2022/04/LizBerryHeadshot.zip",
-"https://medium.com/@votelizberry"
+{
+"text": "$10",
+"href": "https://lizberry.com/10"
+},
+{
+"text": "$25",
+"href": "https://lizberry.com/25"
+},
+{
+"text": "$50",
+"href": "https://lizberry.com/50"
+},
+{
+"text": "Connect on Facebook",
+"href": "https://www.facebook.com/votelizberry"
+},
+{
+"text": "Contact",
+"href": "https://lizberry.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://lizberry.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://lizberry.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votelizberry"
+},
+{
+"text": "Follow on Instagram",
+"href": "https://www.instagram.com/lizberrywa/"
+},
+{
+"text": "Follow on Instagram",
+"href": "https://www.instagram.com/votelizberry/"
+},
+{
+"text": "Follow on Medium",
+"href": "https://medium.com/@votelizberry"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/lizberrywa"
+},
+{
+"text": "Liz Berry",
+"href": "https://lizberry.com"
+},
+{
+"text": "Meet Liz",
+"href": "https://lizberry.com/meet-liz"
+},
+{
+"text": "Other",
+"href": "https://lizberry.com/other"
+},
+{
+"text": "Priorities",
+"href": "https://lizberry.com/priorities/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@lizberry.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@lizberry.com"
+},
+{
+"text": "downloaded here",
+"href": "https://lizberry.com/wp-content/uploads/2022/04/LizBerryHeadshot.zip"
+}
 ]

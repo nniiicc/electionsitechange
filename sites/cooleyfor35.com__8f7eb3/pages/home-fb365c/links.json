@@ -1,7 +1,30 @@
 [
-"https://cooleyfor35.com/contact",
-"https://cooleyfor35.com/home",
-"https://cooleyfor35.com/policy-agenda",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fjeff-cooley-1&sa=D&sntz=1&usg=AOvVaw28dBOkO5UL6TYhxovBE_Y1",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61567609124809&sa=D&sntz=1&usg=AOvVaw2Qi1oWAfXmxfCRV0vDp763"
+{
+"text": "Contact",
+"href": "https://www.cooleyfor35.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fjeff-cooley-1&sa=D&sntz=1&usg=AOvVaw28dBOkO5UL6TYhxovBE_Y1"
+},
+{
+"text": "Donate Here",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fjeff-cooley-1&sa=D&sntz=1&usg=AOvVaw28dBOkO5UL6TYhxovBE_Y1"
+},
+{
+"text": "Facebook",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61567609124809&sa=D&sntz=1&usg=AOvVaw2Qi1oWAfXmxfCRV0vDp763"
+},
+{
+"text": "Home",
+"href": "https://www.cooleyfor35.com/home"
+},
+{
+"text": "Policy Agenda",
+"href": "https://www.cooleyfor35.com/policy-agenda"
+},
+{
+"text": "[image]",
+"href": "https://www.cooleyfor35.com/home"
+}
 ]

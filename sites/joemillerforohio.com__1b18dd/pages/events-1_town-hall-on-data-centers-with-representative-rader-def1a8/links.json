@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Town+Hall+on+Data+Centers+with+Representative+Rader&dates=20261005T220000Z%2F20261005T233000Z",
-"http://maps.google.com/?q=Amherst+Public+Library%2C+Community+Room",
-"https://facebook.com/JoeMillerforOhio",
-"https://instagram.com/joemillerohio",
-"https://joemillerforohio.com/",
-"https://joemillerforohio.com/cart",
-"https://joemillerforohio.com/contact",
-"https://joemillerforohio.com/events-1",
-"https://joemillerforohio.com/events-1/chip-candidates-forum",
-"https://joemillerforohio.com/events-1/town-hall-on-data-centers-with-representative-rader?format=ical",
-"https://joemillerforohio.com/events-1/woollybear-festival-and-parade",
-"https://joemillerforohio.com/issues",
-"https://joemillerforohio.com/joes-listening-tour",
-"https://joemillerforohio.com/meetjoe",
-"https://joemillerforohio.com/privacy-policy",
-"https://secure.actblue.com/donate/friendsofjoemillerohio",
-"https://twitter.com/repjoemiller"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=amherst+public+library%2C+community+room"
+},
+{
+"text": "0",
+"href": "https://www.joemillerforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Contact",
+"href": "https://www.joemillerforohio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friendsofjoemillerohio"
+},
+{
+"text": "Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Town+Hall+on+Data+Centers+with+Representative+Rader&dates=20261005T220000Z%2F20261005T233000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/town-hall-on-data-centers-with-representative-rader?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.joemillerforohio.com/issues"
+},
+{
+"text": "Joe's Listening Tour",
+"href": "https://www.joemillerforohio.com/joes-listening-tour"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.joemillerforohio.com/meetjoe"
+},
+{
+"text": "Next Next October 6 CHIP Candidates Forum",
+"href": "https://www.joemillerforohio.com/events-1/chip-candidates-forum"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.joemillerforohio.com/privacy-policy"
+},
+{
+"text": "Previous Previous October 4 Woollybear Festival and Parade",
+"href": "https://www.joemillerforohio.com/events-1/woollybear-festival-and-parade"
+},
+{
+"text": "[image: Joe Miller For Ohio]",
+"href": "https://www.joemillerforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/repjoemiller"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoeMillerforOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joemillerohio/"
+}
 ]

@@ -1,12 +1,50 @@
 [
-"https://drive.google.com/drive/folders/1cHAqYBle7LBO1QHNk_8kMxFUvwomjWGe?usp=sharing",
-"https://jakefornc.com/",
-"https://jakefornc.com/about",
-"https://jakefornc.com/contact",
-"https://jakefornc.com/issues",
-"https://jakefornc.com/media-gallery",
-"https://jakefornc.com/privacy-policy-3",
-"https://jakefornc.com/sms-terms-and-conditions",
-"https://jakefornc.com/volunteer",
-"https://secure.anedot.com/jakefornc/donations"
+{
+"text": "Contact Us",
+"href": "https://www.jakefornc.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jakefornc/donations"
+},
+{
+"text": "Gallery",
+"href": "https://drive.google.com/drive/folders/1cHAqYBle7LBO1QHNk_8kMxFUvwomjWGe?usp=sharing"
+},
+{
+"text": "Here",
+"href": "https://drive.google.com/drive/folders/1cHAqYBle7LBO1QHNk_8kMxFUvwomjWGe?usp=sharing"
+},
+{
+"text": "Home",
+"href": "https://www.jakefornc.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.jakefornc.com/issues/"
+},
+{
+"text": "Media Gallery",
+"href": "https://www.jakefornc.com/media-gallery/"
+},
+{
+"text": "Meet Jake",
+"href": "https://www.jakefornc.com/about/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jakefornc.com/privacy-policy-3/"
+},
+{
+"text": "SMS Terms and Conditions",
+"href": "https://www.jakefornc.com/sms-terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jakefornc.com/volunteer/"
+},
+{
+"text": "[image: Jake Johnson for NC 113]",
+"href": "https://www.jakefornc.com/"
+}
 ]

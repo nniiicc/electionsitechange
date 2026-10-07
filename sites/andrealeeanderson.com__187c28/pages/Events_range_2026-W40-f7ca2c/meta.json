@@ -1,7 +1,11 @@
 {
  "description": "Andrea Anderson Campaign Events",
  "final_url": "https://andrealeeanderson.com/Events?range=2026-W40",
- "paid_for_by": null,
+ "fingerprint": "b6234a7c74db52afb4f8a7ad5265a6d3057ad8d7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Andrea Anderson Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

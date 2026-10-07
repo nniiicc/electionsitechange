@@ -1,21 +1,94 @@
 [
-"http://electoralmedia.com/",
-"https://facebook.com/MichaelReillyforAssembly",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fmikewreilly.com%2Fsign-request%2F",
-"https://mikewreilly.com/",
-"https://mikewreilly.com/cdn-cgi/l/email-protection",
-"https://mikewreilly.com/contact-us",
-"https://mikewreilly.com/get-involved",
-"https://mikewreilly.com/meet-mike",
-"https://mikewreilly.com/newsroom",
-"https://mikewreilly.com/privacy-policy",
-"https://mikewreilly.com/sign-request",
-"https://mikewreilly.com/the-issues",
-"https://secure.anedot.com/reilly-for-new-york/donate",
-"https://secure.anedot.com/reilly-for-new-york/donate?amount=10",
-"https://secure.anedot.com/reilly-for-new-york/donate?amount=25",
-"https://secure.anedot.com/reilly-for-new-york/donate?amount=5",
-"https://secure.anedot.com/reilly-for-new-york/donate?amount=50",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fmikewreilly.com%2Fsign-request%2F",
-"https://twitter.com/teamreillyny"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/reilly-for-new-york/donate?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/reilly-for-new-york/donate?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/reilly-for-new-york/donate?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/reilly-for-new-york/donate?amount=50"
+},
+{
+"text": "Contact Us",
+"href": "https://mikewreilly.com/contact-us/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/reilly-for-new-york/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://mikewreilly.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://mikewreilly.com/the-issues/"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikewreilly.com/meet-mike/"
+},
+{
+"text": "Newsroom",
+"href": "https://mikewreilly.com/newsroom/"
+},
+{
+"text": "Paid for by Reilly for New York",
+"href": "https://mikewreilly.com/"
+},
+{
+"text": "Political Website Design",
+"href": "http://electoralmedia.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mikewreilly.com/privacy-policy/"
+},
+{
+"text": "Request a Sign",
+"href": "https://mikewreilly.com/sign-request/"
+},
+{
+"text": "Take Action",
+"href": "https://mikewreilly.com/get-involved/"
+},
+{
+"text": "[image: The official website of Michael Reilly for NY State Assembly. Community Advocate, Retired NYPD Lieutenant and US Army Veteran. Learn more.]",
+"href": "https://mikewreilly.com"
+},
+{
+"text": "[image: The official website of Michael Reilly for NY State Assembly. Community Advocate, Retired NYPD Lieutenant and US Army Veteran. Learn more.] [image: The official website of Michael Reilly for NY State Assembly. Community Advocate, Retired NYPD Lieutenant and US Army Veteran. Learn more.]",
+"href": "https://mikewreilly.com"
+},
+{
+"text": "[image: electoralmedia®]",
+"href": "http://electoralmedia.com"
+},
+{
+"text": "[tooltip: EMAIL]",
+"href": "mailto:?subject=Request+a+Sign&amp%3Bbody="
+},
+{
+"text": "[tooltip: facebook]",
+"href": "https://www.facebook.com/MichaelReillyforAssembly/"
+},
+{
+"text": "[tooltip: facebook]",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmikewreilly.com%2Fsign-request%2F&description="
+},
+{
+"text": "[tooltip: twitter]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fmikewreilly.com%2Fsign-request%2F&text="
+},
+{
+"text": "[tooltip: twitter]",
+"href": "https://twitter.com/teamreillyny"
+}
 ]

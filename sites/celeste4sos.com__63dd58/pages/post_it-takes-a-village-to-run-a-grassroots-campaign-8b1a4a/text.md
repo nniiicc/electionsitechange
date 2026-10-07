@@ -1,7 +1,4 @@
-Week 30: It Takes a Village to Run a Grassroots Campaign
-Updated: Sep 12
-Dear Colorado Voter,
-On Friday – the deadline for certifying the ballot! – a judge allowed the Libertarians to replace their dropped-out candidate; we are back to 5 candidates running for SoS.
+top of page Home Meet Priorities News Newsletters Events Help Donate Week 30: It Takes a Village to Run a Grassroots Campaign Celeste Landry Sep 9 2 min read Updated: Sep 12 Dear Colorado Voter, On Friday – the deadline for certifying the ballot! – a judge allowed the Libertarians to replace their dropped-out candidate; we are back to 5 candidates running for SoS.
 I called the new Libertarian nominee yesterday to remind him that yesterday was the deadline for filing a campaign finance report.
 I am behind the major-party candidates in fundraising, but I have been frugal and have about $25,000 on hand, compared to the Democrat with ~$84,000 and the Republican with negative funds on hand.
 It takes a village to run a grassroots campaign.
@@ -17,5 +14,6 @@ So far, no questionnaires have asked about Colorado's unconstitutional vacancy "
 Questionnaires are sometimes followed by endorsements, but if I'm not considered a serious candidate, then I won't get endorsements.
 It's another catch-22.
 I'm hoping that voters decide they don't have to vote a straight-party ticket and will vote for me, the most nonpartisan, competent SoS candidate.
-With enthusiasm and purpose,
-Celeste
+With enthusiasm and purpose, Celeste Celeste Landry for Secretary of State P.O.
+BOX 41 Boulder, CO 80306 720-767-7310 Celeste4sos.com Paid for by Celeste Landry for Secretary of State.
+Registered Agent: Wendy Underhill Website created by Shayna Beckham Privacy Policy bottom of page

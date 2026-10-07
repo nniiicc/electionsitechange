@@ -1,7 +1,22 @@
 [
-"https://denisedangelo.com/",
-"https://denisedangelo.com/cart",
-"https://denisedangelo.com/contact",
-"https://denisedangelo.com/meet-denise",
-"https://secure.winred.com/friends-of-denise-d-angelo/websitelanding"
+{
+"text": "0",
+"href": "https://www.denisedangelo.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.denisedangelo.com/contact"
+},
+{
+"text": "MAKE A DONATION",
+"href": "https://secure.winred.com/friends-of-denise-d-angelo/websitelanding"
+},
+{
+"text": "Meet Denise",
+"href": "https://www.denisedangelo.com/meet-denise"
+},
+{
+"text": "[image: Denise D&#39;Angelo For State Representative]",
+"href": "https://www.denisedangelo.com/"
+}
 ]

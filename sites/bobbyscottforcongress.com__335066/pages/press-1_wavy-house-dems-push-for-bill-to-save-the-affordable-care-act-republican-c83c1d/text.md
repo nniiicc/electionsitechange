@@ -1,5 +1,4 @@
-WAVY: House Dems push for bill to save the Affordable Care Act, Republicans say to move on
-WASHINGTON (NEXSTAR) — House of Representatives Democrats are working to keep the Affordable Care Act alive.
+About Bobby The Scott Record Working For Us News Vote Events Photos Volunteer Contact Us DONATE About Bobby The Scott Record Working For Us News Vote Events Photos Volunteer Contact Us DONATE WAVY: House Dems push for bill to save the Affordable Care Act, Republicans say to move on WASHINGTON (NEXSTAR) — House of Representatives Democrats are working to keep the Affordable Care Act alive.
 “The bill will make coverage affordable for millions of working families,” Virginia Rep.
 Bobby Scott said.
 Wednesday, Scott says he’s working with other House Democrats to ensure the survival of the ACA through the Affordable Care Enhancement Act.
@@ -14,3 +13,6 @@ Mike Rounds said.
 Rounds says the increased costs from the Affordable Care Act has done more harm than good, and the House bill doesn’t help.
 “The vast majority of the bills coming out of the House, most of them require additional federal funding for abortion, which is a non-starter in the United States Senate,” Rounds said.
 Right now, Democrats expect to pass the bill in the House next week.
+Patrice Boone June 24, 2020 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr 0 Likes Previous Education Week: Democrats Push Big Education and Child Care Virus Relief Packages Patrice Boone June 30, 2020 Paid for by Bobby Scott for Congress P.O.
+Box 251 | Newport News, Virginia 23607 | (757) 245-2000 DONATE Virginia Dems Where Do I Vote?
+VAYD

@@ -1,24 +1,86 @@
 [
-"http://aboutads.info/choices",
-"http://google.com/policies/privacy/partners",
-"http://networkadvertising.org/choices",
-"http://networkadvertising.org/managing/opt_out.asp",
-"http://tools.google.com/dlpage/gaoptout",
-"https://business.google.com/us/privacy",
-"https://electstephanie.com/",
-"https://electstephanie.com/get-involved",
-"https://electstephanie.com/meet-stephanie",
-"https://electstephanie.com/priorities",
-"https://electstephanie.com/voter-info",
-"https://facebook.com/policy.php",
-"https://facebook.com/stephanieforsenate",
-"https://help.x.com/en/rules-and-policies/update-privacy-policy",
-"https://instagram.com/electstephanie",
-"https://jamsadr.com/rules-streamlined-arbitration",
-"https://mixpanel.com/legal/privacy-policy",
-"https://networkadvertising.org/mobile-choice",
-"https://secure.actblue.com/donate/ws-pitcher",
-"https://support.apple.com/en-us/HT202074",
-"https://support.google.com/googleplay/android-developer/answer/6048248?hl=en",
-"https://twitter.com/steph_pitcher"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ws-pitcher"
+},
+{
+"text": "Data Policy",
+"href": "https://www.facebook.com/policy.php"
+},
+{
+"text": "GET INVOLVED!",
+"href": "https://www.electstephanie.com/get-involved/"
+},
+{
+"text": "Google Analytics’ Privacy Policy",
+"href": "http://www.google.com/policies/privacy/partners/"
+},
+{
+"text": "JAMS website",
+"href": "https://www.jamsadr.com/rules-streamlined-arbitration/"
+},
+{
+"text": "MEET STEPHANIE",
+"href": "https://www.electstephanie.com/meet-stephanie/"
+},
+{
+"text": "Mixpanel’s Privacy Policy",
+"href": "https://mixpanel.com/legal/privacy-policy/"
+},
+{
+"text": "Network Advertising Initiative",
+"href": "http://www.networkadvertising.org/managing/opt_out.asp"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.electstephanie.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://business.google.com/us/privacy/"
+},
+{
+"text": "SD-14",
+"href": "https://www.electstephanie.com/voter-info/"
+},
+{
+"text": "X’s Terms of Service & Privacy Policy",
+"href": "https://help.x.com/en/rules-and-policies/update-privacy-policy"
+},
+{
+"text": "[image: Stephanie Pitcher] [image: Stephanie Pitcher]",
+"href": "https://www.electstephanie.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/steph_pitcher"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/stephanieforsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electstephanie"
+},
+{
+"text": "here",
+"href": "http://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "http://www.networkadvertising.org/choices/",
+"href": "http://www.networkadvertising.org/choices/"
+},
+{
+"text": "info@electstephanie.com",
+"href": "mailto:info@electstephanie.com"
+},
+{
+"text": "the Digital Advertising Alliance",
+"href": "http://www.aboutads.info/choices/"
+},
+{
+"text": "www.aboutads.info/choices",
+"href": "http://www.aboutads.info/choices"
+}
 ]

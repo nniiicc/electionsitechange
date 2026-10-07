@@ -1,8 +1,8 @@
-After the Tornado, St.
+top of page Dr.
+Kem Smith State Representative for Missouri House District 68 Home About Events Constituent Corner Join the Movement Contact Blog More Use tab to navigate through the menu items.
+Donate All Posts Search After the Tornado, St.
 Louis Needs More Than Sympathy.
-It Needs a Plan
-Representative Kem Smith (originally written May 21, 2025)
-What’s happening in St.
+It Needs a Plan DrKem Smith Mar 20 3 min read Representative Kem Smith (originally written May 21, 2025) What’s happening in St.
 Louis is not just a weather event.
 It’s a humanitarian crisis.
 Tornadoes cut a mile-long, seven-mile-wide path through densely populated neighborhoods, leaving devastation in their wake.
@@ -69,3 +69,4 @@ But they deserve better than to do it alone.
 The tornado took down homes.
 But if we don’t act now, negligence and broken systems will bring this entire community down.
 And that is something we can prevent.
+Recent Posts See All Missouri Is About to Nickel-and-Dime Working Families GOP’s so-called ‘Missouri First’ redistricting puts democracy last Why Missouri Must Trust Women to Choose Their Future Dr Kem Smith for Missouri State Representative info@drkemformo.com ©# by Dr Kem Smith for Missouri State Representative Paid for by Friends to Elect Dr Kem Smith bottom of page

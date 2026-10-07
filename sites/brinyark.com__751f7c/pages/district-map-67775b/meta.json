@@ -1,7 +1,9 @@
 {
  "description": "The area in red is House District 16. Find your polling location here.",
  "final_url": "https://brinyark.com/district-map/",
- "paid_for_by": "Paid for by Friends of Bryan Brinyark \u2022 PO Box 171 \u2022 Samantha, AL 35482 \u2022 Copyright 2026 Back to Top",
- "title": "District Map - Bryan BrinyarkDistrict Map - Bryan Brinyark",
+ "fingerprint": "9f0b5dc8e604301251fffed99907dd239f767ede",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Bryan Brinyark • PO Box 171 • Samantha, AL 35482 • Copyright # Back to Top",
+ "title": "District Map - Bryan Brinyark",
  "years_mentioned": []
 }

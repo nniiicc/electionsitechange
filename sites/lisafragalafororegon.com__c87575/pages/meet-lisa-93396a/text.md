@@ -1,5 +1,4 @@
-Meet Lisa
-Lisa has called Eugene, Oregon home for over 30 years.
+0 Skip to Content Home Meet Lisa Endorsements Get Involved Contact Donate Open Menu Close Menu Home Meet Lisa Endorsements Get Involved Contact Donate Open Menu Close Menu Home Meet Lisa Endorsements Get Involved Contact Donate Meet Lisa Lisa has called Eugene, Oregon home for over 30 years.
 Before being elected to the Oregon Legislature she worked as an educator – first as an elementary classroom teacher and then at Pacific University's College of Education.
 As a classroom teacher Lisa fought for, and won, funding that helped create improved learning outcomes in K-12 schools.
 At Pacific University she tackled Oregon’s teacher shortage and was dedicated to diversifying the teacher workforce.
@@ -16,4 +15,5 @@ Representative Lisa Fragala recently finished her first term as a state legislat
 She is currently a member of the House Labor and Workforce Development Committee, the House Education Committee, and the House Housing and Homelessness Committee.
 She is also proud to have recently been appointed to the Oregon Women's Commission.
 She is honored at the opportunity to serve House District 8 in the Oregon State Legislature and committed to fighting for a fair economy that benefits working families and local businesses, not just big corporations.
-You can find additional information, including past newsletters, on her Legislative Website.
+You can find additional information, including past newsletters, on her Legislative Website .
+Home | Meet Lisa | Endorsements | Get Involved | Contact Donate Paid for by Friends of Lisa Fragala (19751)

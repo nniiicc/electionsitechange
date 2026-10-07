@@ -1,1 +1,1 @@
-Hawai'i Firefighters Association Luke EvslinJune 17, 2018 Facebook0 Twitter LinkedIn0 Reddit Tumblr 0 Likes
+Home About Luke Blog Issues Contribute Home About Luke Blog Issues Contribute Luke Evslin for Hawai'i State House Hawai'i Firefighters Association Luke Evslin June 17, 2018 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr 0 Likes Previous United Public Workers Luke Evslin June 17, 2018 Next SHOPO Luke Evslin June 3, 2018 Instagram Twitter Facebook Friends of Luke Evslin PO Box 662074 Lihuʻe, HI 96766 Luke@LukeEvslin.com

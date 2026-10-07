@@ -1,19 +1,4 @@
-Skip to content
-Tommy Pope
-Meet Tommy
-Contact Tommy
-Join the Pope Team
-Legislative Updates
-District Map
-Donate
-Tommy Pope
-Meet Tommy
-Contact Tommy
-Join the Pope Team
-Legislative Updates
-District Map
-Donate
-State House District 0047
-Are you in District 47?
+Skip to content Tommy Pope Meet Tommy Contact Tommy Join the Pope Team Legislative Updates District Map Donate Tommy Pope Meet Tommy Contact Tommy Join the Pope Team Legislative Updates District Map Donate State House District 0047 Are you in District 47?
 Click below to download a more detailed version with major streets from the district.
-Download
+Download Our Address Pope for House 47 PO Box 471 York, SC 29745 803-734-2701 (Columbia) (803) 324-7574 (Local) quick links Meet Tommy Legislative Updates Join the Pope Team Reach Tommy Support Terms and Conditions Privacy Policy Meet Tommy Legislative Updates Join the Pope Team Reach Tommy Support Terms and Conditions Privacy Policy stay connected Twitter Facebook-f Linkedin Youtube © All rights reserved # Tommy Pope : House 47.
+Website Design provided by Josh Ethan

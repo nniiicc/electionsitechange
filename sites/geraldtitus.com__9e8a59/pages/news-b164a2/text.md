@@ -1,3 +1,8 @@
-West Virginia Supreme Court Justice Gerald Titus Announces Endorsement from West Virginia Chamber of Commerce
-Gerald Titus, candidate for the West Virginia Supreme Court of Appeals, today announced the endorsement of the West Virginia Chamber of Commerce, a leading voice for job creators and economic growth across the Mountain State.
-Read more
+Contribute About News Endorsements Get Involved Contribute About News Get Involved Contribute News 2026-04-14 West Virginia Supreme Court Justice Gerald Titus Announces Endorsement from West Virginia Chamber of Commerce Gerald Titus, candidate for the West Virginia Supreme Court of Appeals, today announced the endorsement of the West Virginia Chamber of Commerce, a leading voice for job creators and economic growth across the Mountain State.
+Read more → 2026-03-02 WVOW What's Your Opinion: WV Supreme Court of Appeals Justice Gerald Titus On today's episode, WVOW’s Aaron Stone sat down with WV Supreme Court of Appeals Justice Gerald Titus.
+Now running for election after his appointment to the position, Justice Titus discussed his path to the bench, judicial philosophy, and the responsibility that comes with the robe.
+Read more → 2026-01-30 Titus will carry Roane County to the state's highest court When Gerald Titus took his oath as a justice of the Supreme Court of Appeals of West Virginia, he didn’t leave Roane County behind.
+Read more → 2026-01-23 Justice Titus reflects on Spencer roots, service and responsibility As he settles into his role on West Virginia’s highest court, Justice Gerald Titus III keeps returning to the same starting point: growing up in Spencer.
+Read more → 2026-01-22 Welcome to 'The Mountain': Spencer native, Charleston attorney joins WV's top court For Davis, the 3-year-old son of Gerald M.
+Titus III, the best part of his dad's new job as Supreme Court justice is going to "The Mountain," as he calls the West Virginia Capitol building that houses the Supreme Court.
+Read more → Paid for by Titus for Supreme Court Privacy Policy

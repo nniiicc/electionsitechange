@@ -1,7 +1,9 @@
 {
  "description": "Jonathan Kennealy in the News",
  "final_url": "https://www.kennealy4hawaii.com/news",
- "paid_for_by": null,
+ "fingerprint": "bcb6473ac2e939171e7691f3950279d3f38eb503",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": [
   "2026"

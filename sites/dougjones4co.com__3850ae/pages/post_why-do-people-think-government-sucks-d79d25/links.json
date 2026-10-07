@@ -1,18 +1,78 @@
 [
-"http://facebook.com/",
-"http://instagram.com/",
-"http://linkedin.com/",
-"http://lpcolorado.org/",
-"http://tiktok.com/",
-"http://x.com/",
-"http://youtube.com/",
-"https://dougjones4co.com/",
-"https://dougjones4co.com/blog",
-"https://dougjones4co.com/donate",
-"https://dougjones4co.com/event-list",
-"https://dougjones4co.com/notifications",
-"https://dougjones4co.com/post/rebuilding-pride-in-america-why-i-m-running-for-colorado-house-of-representatives",
-"https://dougjones4co.com/volunteer",
-"https://news.gallup.com/poll/708722/disapproval-congress-ties-record-high.aspx",
-"https://pewresearch.org/politics/2025/12/04/public-trust-in-government-1958-2025"
+{
+"text": "All Posts",
+"href": "https://www.dougjones4co.com/blog"
+},
+{
+"text": "Blog",
+"href": "https://www.dougjones4co.com/blog"
+},
+{
+"text": "DONATE",
+"href": "https://www.dougjones4co.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.dougjones4co.com/event-list"
+},
+{
+"text": "Gallup",
+"href": "https://news.gallup.com/poll/708722/disapproval-congress-ties-record-high.aspx"
+},
+{
+"text": "Home",
+"href": "https://www.dougjones4co.com"
+},
+{
+"text": "Notifications",
+"href": "https://www.dougjones4co.com/notifications"
+},
+{
+"text": "Pew",
+"href": "https://www.pewresearch.org/politics/2025/12/04/public-trust-in-government-1958-2025/"
+},
+{
+"text": "Rebuilding Pride in America: Why I’m Running for Colorado House of Representatives",
+"href": "https://www.dougjones4co.com/post/rebuilding-pride-in-america-why-i-m-running-for-colorado-house-of-representatives"
+},
+{
+"text": "See All",
+"href": "https://www.dougjones4co.com/blog"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dougjones4co.com/volunteer"
+},
+{
+"text": "[image: Doug-Jones-for-Colorado-House-15-logo]",
+"href": "http://www.lpcolorado.org"
+},
+{
+"text": "[image: Rebuilding Pride in America: Why I’m Running for Colorado House of Representatives]",
+"href": "https://www.dougjones4co.com/post/rebuilding-pride-in-america-why-i-m-running-for-colorado-house-of-representatives"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+}
 ]

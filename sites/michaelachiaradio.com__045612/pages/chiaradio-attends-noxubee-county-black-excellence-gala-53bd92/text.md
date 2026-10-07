@@ -1,15 +1,10 @@
-- June 23, 2026
-MACON, MS — Democratic nominee for Congress Michael A.
+Skip to content Home About Me Issues Contact News Menu Home About Me Issues Contact News donate Home About Me Issues Contact News Donate Menu Home About Me Issues Contact News Donate June 23, 2026 Chiaradio Attends Noxubee County Black Excellence Gala MACON, MS — Democratic nominee for Congress Michael A.
 Chiaradio attended the Noxubee County Black Excellence Gala last weekend for an evening celebrating leadership and community service.
 Hosted by the Noxubee County Democratic Executive Committee under the leadership of Chairman LJ Brooks, the gala brought together nearly 300 attendees and featured elected officials, community advocates, and civic leaders from throughout the region.
 Chiaradio was honored to participate in the program and speak to attendees about the importance of civic engagement and the responsibility each generation has to continue building upon the progress made by those who came before them.
 Chiaradio said he was especially encouraged by the atmosphere, saying he believed the evening set the tone for a Democratic victory in November.
 As the campaign continues to build momentum across Mississippi’s Third Congressional District, Chiaradio remains focused on expanding voter participation, strengthening grassroots organizing, and building the coalition necessary to compete and win in 2026.
-Supporters interested in helping the campaign continue its outreach efforts across the district can contribute at: https://secure.actblue.com/donate/michael-a-chiaradio
-- 1-800-700-600
-- info@thecentersolutionsparty.com
-- 60 East 65th Street, New York City, NY 10065
-Paid for by Michael A.
+Supporters interested in helping the campaign continue its outreach efforts across the district can contribute at: https://secure.actblue.com/donate/michael-a-chiaradio Facebook-f Twitter Youtube Home About Me Issues Contact News Home About Me Issues Contact News Get In Touch 1-800-700-600 info@thecentersolutionsparty.com 60 East 65th Street, New York City, NY 10065 Useful Links Stay Informed Tiktok Instagram Facebook Youtube Home About Me Issues Contact News Donate Home About Me Issues Contact News Donate HOME ABOUT ME ISSUES CONTACT NEWS DONATE SHOP Donate Paid for by Michael A.
 Chiaradio for Congress 2026, Inc.
 Contributions are not tax deductible.
-Contributions are not tax deductible.
+Privacy Policy

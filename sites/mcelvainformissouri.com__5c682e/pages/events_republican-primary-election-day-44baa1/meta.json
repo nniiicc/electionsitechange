@@ -1,7 +1,11 @@
 {
  "description": "Go vote for Roth!",
  "final_url": "https://www.mcelvainformissouri.com/events/republican-primary-election-day",
+ "fingerprint": "a4078a979f1372ce787d6d4429e67a3021d2f09d",
+ "format": 3,
  "paid_for_by": "Paid for by Committee to Elect Roth McElvain, Treasurer Chad Englehardt mcelvainformissouri@gmail",
- "title": "Republican Primary Election Day \u2014 Roth McElvain",
- "years_mentioned": []
+ "title": "Republican Primary Election Day — Roth McElvain",
+ "years_mentioned": [
+  "2026"
+ ]
 }

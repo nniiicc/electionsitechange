@@ -1,15 +1,12 @@
-Legislative Update from Rep.
-Iler — June 30, 2025
-The last 2 weeks in the North Carolina General Assembly have been filled with bills going back and forth between the House and Senate.
+Skip to content Common Sense - Competent - Conservative Home About Frank Iler Accomplishments Issues News Legislative Updates Donate Contact Legislative Update from Rep.
+Iler — June 30, 2025 By Frank Iler | July 1, 2025 The last 2 weeks in the North Carolina General Assembly have been filled with bills going back and forth between the House and Senate.
 There were some of particular interest to coastal North Carolina.
-Reforms – local and statewide:
-Several of the House bills were omnibus bills which addressed local issues such as annexations, deannexations, and town charter changes.
+Reforms – local and statewide: Several of the House bills were omnibus bills which addressed local issues such as annexations, deannexations, and town charter changes.
 Some of the statewide bills involved issues such as modernization of Medicaid modernization, healthcare workforce reforms, and other regulatory reforms.
 Some of these bills had been sent to the Senate, changed, and returned to the House.
 We then had to move to concur or not concur.
 Others were Senate bills which we passed.
-Flounder, Turtles, and Shrimp:
-Two bills of particular interest were House Bill 441 and House Bill 442.
+Flounder, Turtles, and Shrimp: Two bills of particular interest were House Bill 441 and House Bill 442.
 House Bill 442 – Restore Flounder/Red Snapper Season had gone to the Senate in early May.
 After holding it in the Senate Rules Committee for almost 7 weeks, it was changed to Flounder/Red Snapper Seasons & Shrimp Trawl, voted out of the Senate, and sent to the House.
 It is estimated it would put 75% of the N.C. shrimp industry out of business.
@@ -25,4 +22,6 @@ We have a thorough committee process to fully vet proposed legislation in the Ho
 If these bills were the supposed environmental conservation bills, as claimed, they could have been introduced at the beginning of session by any House or Senate member that was supportive of the amendments and not sneaked into my good bills that had already passed the House on bi-partisan votes.
 As the author of these 2 bills, I don’t expect an apology for trying to ruin my reputation and credibility, but the Senate should apologize to the shrimpers whose livelihood was threatened and who came out in force to protect their way of life.
 I am very proud of them as well as the House legislators who stood strong and did not cave into these tactics.
-We adjourned for July 4th break and are expected to be out for two weeks.
+We adjourned for July 4 th break and are expected to be out for two weeks.
+Posted in Legislative Updates © # Frank Iler for N.C.
+House – Brunswick County, N.C. | Powered by Beaver Builder

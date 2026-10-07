@@ -1,7 +1,26 @@
 [
-"https://bsky.app/profile/azpirateparty.org",
-"https://cdc.gov/yrbs/dstr/index.html",
-"https://discord.gg/6byTSC22NW",
-"https://donate.stripe.com/aFa14n7mXfmkgCfgg8bEA00",
-"https://x.com/AZPirateParty"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/azpirateparty.org"
+},
+{
+"text": "Discord",
+"href": "https://discord.gg/6byTSC22NW"
+},
+{
+"text": "Donate!",
+"href": "https://donate.stripe.com/aFa14n7mXfmkgCfgg8bEA00"
+},
+{
+"text": "Gmail address.",
+"href": "mailto:blaseforarizona@gmail.com"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/AZPirateParty"
+},
+{
+"text": "study",
+"href": "https://www.cdc.gov/yrbs/dstr/index.html"
+}
 ]

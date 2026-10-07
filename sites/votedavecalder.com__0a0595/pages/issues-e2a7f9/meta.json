@@ -1,9 +1,12 @@
 {
  "description": "VoteDaveCalder's campaign",
  "final_url": "https://www.votedavecalder.com/issues",
- "paid_for_by": "Paid For By Dave Calder for Utah",
- "title": "Priorities \u2014 VoteDaveCalder",
+ "fingerprint": "b47daff0c934645df5eadbb60b021e87bbdeacb9",
+ "format": 3,
+ "paid_for_by": "Paid For By Dave Calder for Utah You need to enable JavaScript to run this app",
+ "title": "Priorities — VoteDaveCalder",
  "years_mentioned": [
-  "2015"
+  "2015",
+  "2023"
  ]
 }

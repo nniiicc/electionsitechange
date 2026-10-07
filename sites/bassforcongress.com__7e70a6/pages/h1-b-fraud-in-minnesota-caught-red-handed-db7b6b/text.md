@@ -1,11 +1,13 @@
-I’ve Been Saying This Since 2019: The H-1B Fraud Is Real, and I Witnessed It Firsthand
-A recent Fox News opinion piece by Simon Hankinson argues that Trump’s new $100,000 fee on H-1B visa petitions is a good first step but doesn’t go nearly far enough to protect American workers.
+Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin H1-B Fraud in Minnesota, Caught Red Handed June 6, 2026 No Comments I’ve Been Saying This Since 2019: The H-1B Fraud Is Real, and I Witnessed It Firsthand A recent Fox News opinion piece by Simon Hankinson argues that Trump’s new $100,000 fee on H-1B visa petitions is a good first step but doesn’t go nearly far enough to protect American workers.
 I agree.
 And I’m not just agreeing based on what I read — I’m agreeing because I lived it.
 I watched it happen right in front of me, and I’ve been speaking out about it since 2019.
 Let me tell you my story.
-Who I Am and Why This Matters
-I’m a general contractor now, but for years I ran a personal training company called At Home Fitness out of Minnetonka, Minnesota.
+Who I Am and Why This Matters I’m a general contractor now, but for years I ran a personal training company called At Home Fitness out of Minnetonka, Minnesota.
 I did in-home personal training, and over the majority of my time doing that work, more than 25% of my clients were of Indian heritage and were here on H-1B visas working in the tech industry.
 Now, I’m not just some guy who stumbled into this.
 I have a deep background in website design, web development, and digital marketing.
@@ -19,8 +21,7 @@ I wore every hat.
 So when my IT clients started telling me what they did for work, I was genuinely interested.
 This was right in my wheelhouse.
 I knew exactly what they were talking about — or at least, I thought they would.
-The Red Flag I Kept Seeing Over and Over
-When I would ask these clients detailed questions about their IT work — the kind of questions any knowledgeable person in the field would naturally ask — they couldn’t answer me.
+The Red Flag I Kept Seeing Over and Over When I would ask these clients detailed questions about their IT work — the kind of questions any knowledgeable person in the field would naturally ask — they couldn’t answer me.
 They’d go blank.
 Deer in the headlights.
 I was the only person in the room who actually knew what I was talking about, and I was the personal trainer.
@@ -29,13 +30,11 @@ At first I thought maybe it was a communication barrier or they just didn’t li
 But it kept happening.
 Something wasn’t adding up.
 Then I met a married couple who changed everything.
-The Job Offer That Revealed the Whole Scheme
-This couple ran a hiring agency.
+The Job Offer That Revealed the Whole Scheme This couple ran a hiring agency.
 They were well-connected, had contracts with major Twin Cities employers — companies like Medtronic, Optum, Target, and Cargill — and they were at the top of the food chain because they could deliver workers on demand.
 They offered me a job as a recruiter, saying I knew enough people in the industry to place candidates.
 But then they made me a second offer: they could get me a position as an IT professional at one of those major companies.
-They said, and I’m paraphrasing here, “Tyler, you actually know more about these systems than the people we place.”
-I said great, how does that work?
+They said, and I’m paraphrasing here, “Tyler, you actually know more about these systems than the people we place.” I said great, how does that work?
 They told me they would do the interview for me.
 I stopped them right there.
 What do you mean you’ll do the interview for me?
@@ -50,8 +49,7 @@ New company, fresh start, no questions asked.
 I turned them down.
 Immediately and without hesitation.
 But I never forgot it.
-This Is Systemic, Not Isolated
-What that couple described to me isn’t a one-off scam.
+This Is Systemic, Not Isolated What that couple described to me isn’t a one-off scam.
 It’s an organized system.
 And the Fox News article backs this up with hard numbers and documented cases.
 The piece points out that fraud, nepotism, and corruption have long plagued the H-1B process, with outsourcing firms and so-called “body shops” deliberately gaming the system to place foreign workers over qualified Americans.
@@ -65,8 +63,7 @@ Apple paid $25 million for the same kind of discrimination.
 And the article notes that these fines are a drop in the bucket compared to the profit these companies make by bringing in cheap foreign labor.
 This is not a fringe problem.
 This is widespread, documented, and ongoing.
-What This Did to American Workers — What It Did to Me
-During COVID, I applied for over 500 jobs in IT and project management.
+What This Did to American Workers — What It Did to Me During COVID, I applied for over 500 jobs in IT and project management.
 I had real, substantial experience.
 I had spent years managing app development projects, hiring and coordinating freelance developers from India, Pakistan, and elsewhere because I couldn’t afford domestic rates when I was bootstrapping my own company.
 I knew how to manage timelines, deliverables, and technical teams.
@@ -86,19 +83,16 @@ Deloitte paid H-1B workers 10% less than Americans in comparable roles.
 Meanwhile, Sens.
 Chuck Grassley and Dick Durbin — a Republican and a Democrat — wrote jointly to the CEOs of Amazon, Apple, Google, and Microsoft saying they find it hard to believe these companies can’t find qualified American tech workers to fill these positions.
 When both sides of the aisle are saying the same thing, that should tell you something.
-What I Think Will Happen With Trump’s Reform
-The $100,000 fee on new H-1B petitions will hurt the body shops.
+What I Think Will Happen With Trump’s Reform The $100,000 fee on new H-1B petitions will hurt the body shops.
 That part is true.
-But here’s what I believe will actually happen once the mandate requiring visa holders in a holding status to return home and reapply takes effect:
-They won’t leave.
+But here’s what I believe will actually happen once the mandate requiring visa holders in a holding status to return home and reapply takes effect: They won’t leave.
 It’s that simple.
 The networks are too established, the money is too good, and the system is too easy to game.
 What I expect to see is more of the same fraudulent interview scheme I was personally offered — someone else does the interview, the visa gets sorted on paper, and then the same person who never left shows up to work like nothing happened.
 In the meantime, some will collect unemployment benefits and take advantage of American taxpayer-funded systems while still occupying jobs that should go to Americans.
 The $100,000 fee is a start.
 But without real enforcement — actual verification of who is showing up to work versus who interviewed, actual audits of these placement agencies and body shops, actual consequences that outweigh the financial incentive to cheat — the fraud will adapt and continue.
-The Bottom Line
-I’m not against immigration.
+The Bottom Line I’m not against immigration.
 I’m not against people coming to this country and building a life here legally.
 What I am against is a corrupt system that allows companies to game visa programs to cut costs, suppress American wages, and shut hardworking Americans out of their own job market — while the people being placed sometimes don’t even know the skills they’re supposedly being hired for.
 I watched it happen in my gym.
@@ -109,3 +103,22 @@ We will build off of this and hold companies accountable otherwise the fraud wil
 We need real enforcement, real accountability, and a genuine commitment to putting American workers first.
 Hire Americans.
 It really is that simple.
+Share: Facebook Twitter Pinterest LinkedIn Tyler Bass Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Social Media Facebook-f Youtube Twitter Instagram Most Popular Voter ID October 2, 2026 Americans Should Always Come First October 2, 2026 “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” October 1, 2026 Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+September 6, 2026 Get The Latest Updates Subscribe To Our Weekly Newsletter No spam, notifications only about news & updates.
+Email Address Phone # Name subscribe Categories Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Prev Previous Illegal Hires at Hormel Foods Next Kelly Morrison’s caught with insider trading Next On Key Related Posts Voter ID Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Americans Should Always Come First Who Stands for Lizbeth Medina?
+Lizbeth Medina was 16, a cheerleader at Edna High School in Texas.
+In December 2023 she was supposed to perform “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” Where Is the Money Going?
+What I Saw Outside Autism Sibs Universe By Ty Bass, Republican candidate for Congress, Minnesota’s 3rd District First, I want Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+What I Saw Inside Autism Sibs Universe — And Why I’m Calling for Accountability I don’t usually talk about my contracting work on the campaign Let's work together to tackle the fraud!
+Paid for by Tyler Bass For Congress Menu Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved

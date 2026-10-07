@@ -1,26 +1,13 @@
-Dan Veilleux
-State Representative
-New Hampshire House of Representatives
-A Balance of Experience
-About Dan
-A lifelong New Englander (mostly), Dan grew up in the Central Maine towns of Winslow and Clinton.
+top of page Dan Veilleux State Representative New Hampshire House of Representatives A Balance of Experience About Dan A lifelong New Englander (mostly), Dan grew up in the Central Maine towns of Winslow and Clinton.
 He attended the University of Maine in Orono, earning a BA in Political Science and a Master's Degree in Public Administration with a concentration in public finance, graduating with honors as a member of Pi Alpha Alpha National Honor Society for Public Administration.
 In between the two degrees, however, Dan spent some time in Washington, D.C., where he was an accountant for the office of the US Senate Sergeant at Arms.
-Dan also spent some of his free time as a volunteer advocating for a balanced federal budget with the Concord Coalition, a non-partisan organization that promotes responsible fiscal policy in government.
-Upon returning to UMaine for his MPA, Dan worked in economic development, helping to form public-private partnerships to promote the economic interests of state.
+Dan also spent some of his free time as a volunteer advocating for a balanced federal budget with the Concord Coalition , a non-partisan organization that promotes responsible fiscal policy in government. ​ Upon returning to UMaine for his MPA, Dan worked in economic development, helping to form public-private partnerships to promote the economic interests of state.
 Dan first served as a graduate assistant for the USDA Maine Rural Development Council (MRDC), then as a development specialist for the non-profit Eastern Maine Development Corporation (EMDC) in Bangor, Maine.
-Serving in these positions at a particularly difficult time for Maine's economy, Dan experienced first hand the importance of a balance between public and private enterprise in helping to build a strong economy in tough times.
-Choosing to leave public service for the private sector, Dan returned to accounting for a small financial services firm in Portland.
-Later he served as a controller for a regional environmental services company, where he helped manage and grow the company over his tenure.
-After meeting his wife Laurie, a physician, it became clear that they would have to leave Maine in order for her to complete her training.
-As Dan transitioned out of private employment in preparation for their move, he adopted the role of stay-at-home dad to their growing family, a role he describes as the most rewarding, but challenging position he's ever held.
-After Laurie completed a year of fellowship training at The Johns Hopkins Hospital in Baltimore, Dan and Laurie, despite having the opportunity to live anywhere in the country, chose to raise their family in Amherst, New Hampshire, where they have lived for the last 11 years.
-They currently have a rising seventh grader in the middle school and rising freshmen at the high school.
-Since moving to New Hampshire, in addition to the usual childcare and household duties of the average stay-at-home dad, Dan also served as hockey dad, managing his son's youth ice hockey career.
-Despite spending many, many night's and weekends at rinks all over New England and beyond, Dan added more hockey to his life by helping to start a local ice hockey team for middle school aged players, which completed its fourth season last winter.
-Dan is a current board member of the Souhegan Regional Landfill District (SRLD), which serves Amherst, Brookline, Hollis, and Mont Vernon.
-The SRLD helps to operate the four community transfer stations by managing the recycling programs and contracting for equipment, hauling, and waste disposal services.
-Additionally, this past budget year, Dan served as an alternate on the Souhegan Advisory Finance Committee (SAFC), a group consisting of Amherst and Mont Vernon residents who are responsible for reviewing the budget for Souhegan High School and making a recommendation to the voters.
-In 2018, Dan ran for elected office for the first time since he served in the University of Maine Student Senate when he ran for State Representative.
+Serving in these positions at a particularly difficult time for Maine's economy, Dan experienced first hand the importance of a balance between public and private enterprise in helping to build a strong economy in tough times. ​ Choosing to leave public service for the private sector, Dan returned to accounting for a small financial services firm in Portland.
+Later he served as a controller for a regional environmental services company, where he helped manage and grow the company over his tenure. ​ After meeting his wife Laurie, a physician, it became clear that they would have to leave Maine in order for her to complete her training.
+As Dan transitioned out of private employment in preparation for their move, he adopted the role of stay-at-home dad to their growing family, a role he describes as the most rewarding, but challenging position he's ever held. ​ After Laurie completed a year of fellowship training at The Johns Hopkins Hospital in Baltimore, Dan and Laurie, despite having the opportunity to live anywhere in the country, chose to raise their family in Amherst, New Hampshire, where they have lived for the last 11 years.
+They currently have a rising seventh grader in the middle school and rising freshmen at the high school. ​ Since moving to New Hampshire, in addition to the usual childcare and household duties of the average stay-at-home dad, Dan also served as hockey dad, managing his son's youth ice hockey career.
+Despite spending many, many night's and weekends at rinks all over New England and beyond, Dan added more hockey to his life by helping to start a local ice hockey team for middle school aged players, which completed its fourth season last winter. ​ Dan is a current board member of the Souhegan Regional Landfill District (SRLD) , which serves Amherst, Brookline, Hollis, and Mont Vernon.
+The SRLD helps to operate the four community transfer stations by managing the recycling programs and contracting for equipment, hauling, and waste disposal services. ​ Additionally, this past budget year, Dan served as an alternate on the Souhegan Advisory Finance Committee (SAFC) , a group consisting of Amherst and Mont Vernon residents who are responsible for reviewing the budget for Souhegan High School and making a recommendation to the voters. ​ In 2018, Dan ran for elected office for the first time since he served in the University of Maine Student Senate when he ran for State Representative.
 In the initial vote, Dan fell 14 votes short.
-Despite a recount that reduced the margin to 13 votes, the result remained the same.
+Despite a recount that reduced the margin to 13 votes, the result remained the same. ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ GET IN TOUCH bottom of page

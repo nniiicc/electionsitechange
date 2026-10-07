@@ -1,7 +1,11 @@
 {
  "description": "Support Luis Garcia&#39;s campaign for Florida House District 91. Every voice counts!",
  "final_url": "https://voteforluisgarcia.com/",
- "paid_for_by": null,
+ "fingerprint": "ec3375c5a94f1596c7b4c11c968d649015dbbe51",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Vote for Luis Garcia",
- "years_mentioned": []
+ "years_mentioned": [
+  "1984"
+ ]
 }

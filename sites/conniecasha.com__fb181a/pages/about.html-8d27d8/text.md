@@ -1,10 +1,7 @@
-"When a flower doesn't bloom, you fix the environment in which it grows, not the flower."
-— Alexander Den Heijer
-This quote has guided much of my work with children and families.
+☰ Home Priorities Meet Connie Volunteer Contribute Connie speaking at a community event in Smyrna "When a flower doesn't bloom, you fix the environment in which it grows, not the flower." — Alexander Den Heijer This quote has guided much of my work with children and families.
 Instead of blaming people for the issues they are facing, we must look closely at their environment, their access to services, resources, and their support systems.
 What are the circumstances that keep them from thriving?
-Meet Connie
-Connie is a long-time resident of Smyrna with a history of working with children and families throughout those years.
+Meet Connie Connie is a long-time resident of Smyrna with a history of working with children and families throughout those years.
 She grew up in New York State, moved to Missouri where she graduated from St.
 Louis University with a bachelor's degree in psychology and a teaching license in general and special education.
 She moved to Tennessee with her husband, a native Nashvillian where they raised three children.
@@ -23,25 +20,7 @@ She continued her advocacy work across many organizations and agencies working w
 After nearly 10 years of service at MTSU, she felt called to retire and set a new course, running for Tennessee State House District 49.
 Her past experiences and relationships elevated her awareness to the many issues and struggles facing families every day.
 She is running for office to continue to work towards solutions to the issues that can keep families and children from thriving.
-- Long-time resident of Smyrna
-- Wife to Joey, mother to Victor, Christina, and Vinny, and grandmother to 10
-- Early Childhood Educator in both special education and general education
-- Advocate for early childhood education and families
-- Avid reader, gardener, and jigsaw puzzler
-- Lifetime Achievement Award — Tennessee Commission on Children and Youth
-- Linda Gilbert Advocate of the Year Award — United Way
-- Outstanding Member — Tennessee Association for Children's Early Education
-- Member, Advisory Board for Tennesseans for Quality Early Education
-- Member, Advisory Board for the Association of Infant Mental Health in Tennessee
-- Member, Advisory Board for Tennessee Young Children's Wellness Council
-- Member, Tennessee Association for Children's Early Education, and representative of this association
-- Member, state team of early educators providing education and understanding of young children's s
-- Advocacy work for Save the Children's Action Network
-- Advisory Board Member, United Way Bold Goals for 2030
-- Member, Community Pre-K Advisory Committee for Murfreesboro City Schools
-- Advisory Board Vice Chair, Prevention Coalition for Success
-- Member, Rutherford Association for Children's Early Education
-- Rutherford County Democratic Women
-- Rutherford County Democratic Party
-- Child Advocacy Center of Rutherford and Cannon County
-- Advisory Board Member, Children's Kindness Network
+Every Child.
+Every Family.
+Every Day.
+Contribute Who I Am Long-time resident of Smyrna Wife to Joey, mother to Victor, Christina, and Vinny, and grandmother to 10 Early Childhood Educator in both special education and general education Advocate for early childhood education and families Avid reader, gardener, and jigsaw puzzler Awards Lifetime Achievement Award — Tennessee Commission on Children and Youth Linda Gilbert Advocate of the Year Award — United Way Outstanding Member — Tennessee Association for Children's Early Education Statewide Involvement Member, Advisory Board for Tennesseans for Quality Early Education Member, Advisory Board for the Association of Infant Mental Health in Tennessee Member, Advisory Board for Tennessee Young Children's Wellness Council Member, Tennessee Association for Children's Early Education, and representative of this association Member, state team of early educators providing education and understanding of young children's s Advocacy work for Save the Children's Action Network Community Involvement Advisory Board Member, United Way Bold Goals for 2030 Member, Community Pre-K Advisory Committee for Murfreesboro City Schools Advisory Board Vice Chair, Prevention Coalition for Success Member, Rutherford Association for Children's Early Education Rutherford County Democratic Women Rutherford County Democratic Party Child Advocacy Center of Rutherford and Cannon County Advisory Board Member, Children's Kindness Network Paid for by Friends of Connie Casha; Christina Moody, Treasurer. © # Connie Casha Campaign

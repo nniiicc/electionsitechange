@@ -1,19 +1,90 @@
 [
-"http://buckscounty.org/government/communityservices/boardofelections",
-"https://facebook.com/Perry-Warren-for-State-Representative-208103249533130",
-"https://pavoterservices.pa.gov/OnlineAbsenteeApplication",
-"https://pavoterservices.pa.gov/Pages/BallotTracking.aspx",
-"https://perrywarren.com/",
-"https://perrywarren.com/absentee-ballot",
-"https://perrywarren.com/endorsements",
-"https://perrywarren.com/fellowsinterns-1",
-"https://perrywarren.com/home",
-"https://perrywarren.com/https/securengpvancom/y0enpre1vkqzye8qm-z3wg2",
-"https://perrywarren.com/issues",
-"https://perrywarren.com/meet-perry",
-"https://perrywarren.com/new-events",
-"https://perrywarren.com/voter-registration",
-"https://votespa.com/Register-to-Vote/Documents/PADOS_MailInApplication.pdf",
-"https://votespa.com/Register-to-Vote/Documents/PADOS_MailInApplication_Spanish.pdf",
-"https://votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+{
+"text": "A: The Pennsylvania Voter Service has an online portal where you can check your application’s status. Click this answer to access the portal.",
+"href": "https://www.pavoterservices.pa.gov/Pages/BallotTracking.aspx"
+},
+{
+"text": "Bucks County Board of Board of Elections.",
+"href": "http://www.buckscounty.org/government/communityservices/boardofelections"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.perrywarren.com/https/securengpvancom/y0enpre1vkqzye8qm-z3wg2"
+},
+{
+"text": "Click here to be taken to the Pennsylvania Voter Services ballot application portal",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineAbsenteeBegin"
+},
+{
+"text": "Click here to print out a ballot at home",
+"href": "https://www.votespa.com/Register-to-Vote/Documents/PADOS_MailInApplication.pdf"
+},
+{
+"text": "Endorsements",
+"href": "https://www.perrywarren.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.perrywarren.com/new-events"
+},
+{
+"text": "Fellows/Interns",
+"href": "https://www.perrywarren.com/fellowsinterns-1"
+},
+{
+"text": "Home",
+"href": "https://www.perrywarren.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.perrywarren.com/issues"
+},
+{
+"text": "Keep Perry in Harrisburg!",
+"href": "https://www.perrywarren.com/"
+},
+{
+"text": "Meet Perry",
+"href": "https://www.perrywarren.com/meet-perry"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.perrywarren.com/voter-registration"
+},
+{
+"text": "Vote By Mail",
+"href": "https://www.perrywarren.com/absentee-ballot"
+},
+{
+"text": "You can apply for yours here",
+"href": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+},
+{
+"text": "[image: Perry Warren for State Representative]",
+"href": "https://www.perrywarren.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Perry-Warren-for-State-Representative-208103249533130/"
+},
+{
+"text": "[no text]",
+"href": "mailto:perry@perrywarren.com"
+},
+{
+"text": "click here for an application in Spanish",
+"href": "https://www.votespa.com/Register-to-Vote/Documents/PADOS_MailInApplication_Spanish.pdf"
+},
+{
+"text": "emergency",
+"href": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx#emergency%20absentee"
+},
+{
+"text": "emergency absentee ballot",
+"href": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx#emergency%20absentee"
+},
+{
+"text": "perry@perrywarren.com",
+"href": "mailto:perry@perrywarren.com"
+}
 ]

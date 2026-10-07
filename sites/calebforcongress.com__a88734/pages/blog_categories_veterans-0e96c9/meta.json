@@ -1,7 +1,9 @@
 {
  "description": "News and advocacy for veterans and military families.",
  "final_url": "https://www.calebforcongress.com/blog/categories/veterans",
- "paid_for_by": null,
+ "fingerprint": "99fbc2a63158c14ebba77a262c0745b30e23ddf0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Veterans",
  "years_mentioned": []
 }

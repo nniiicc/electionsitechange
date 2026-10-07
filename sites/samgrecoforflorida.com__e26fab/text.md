@@ -1,11 +1,17 @@
-House District 19
-Naval Prosecutor.
+Meet Sam Donate Sam Greco House District 19 Naval Prosecutor.
 Conservative Fighter.
+By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Sam Greco.
+Opt in information will not be shared with third parties.
+Reply HELP for help, STOP to end.
+Message frequency may vary.
+Message and data rates may apply.
+Privacy Policy Thank you!
+Your submission has been received!
 Oops!
 Something went wrong while submitting the form.
-Sam Greco is a member of the United States Navy Reserve.
+Donate to Sam Greco $50 $100 $250 $500 Other Sam Greco is a member of the United States Navy Reserve.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
-Sam Greco is a conservative Republican who proudly represents District 19 in the Florida House of Representatives.
+Meet Sam Sam Greco is a conservative Republican who proudly represents District 19 in the Florida House of Representatives.
 From 2019–2024, he served his country as an active duty JAG officer in the United States Navy, providing legal services in a variety of environments, including underway aboard the USS Gerald R.
 Ford and USS West Virginia.
 Sam continues to serve in the United States Navy Reserve today.
@@ -19,3 +25,8 @@ A record of service.
 A conservative who delivers.
 Sam Greco is continuing his mission as a member of the Florida House of Representatives—fighting for Flagler and St.
 Johns Counties, standing up for our values, and keeping Florida free.
+Connect info@samgrecoforflorida.com P.O.
+Box 84 St.
+Augustine, FL 32085 Paid by Sam Greco, Republican, For State House District 19 Sam Greco is a member of the United States Navy Reserve.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+Privacy Policy Terms & Conditions

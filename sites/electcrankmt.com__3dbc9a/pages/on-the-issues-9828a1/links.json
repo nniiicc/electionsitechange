@@ -1,8 +1,30 @@
 [
-"https://electcrankmt.com/",
-"https://electcrankmt.com/about",
-"https://electcrankmt.com/get-involved",
-"https://electcrankmt.com/on-the-issues",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://secure.winred.com/elect-crank-mt/donate-today"
+{
+"text": "About",
+"href": "https://electcrankmt.com/about"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/elect-crank-mt/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://electcrankmt.com/get-involved"
+},
+{
+"text": "GoDaddy",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "Home",
+"href": "https://electcrankmt.com/"
+},
+{
+"text": "On The Issues",
+"href": "https://electcrankmt.com/on-the-issues"
+},
+{
+"text": "[image: Elect Crank MT]",
+"href": "https://electcrankmt.com/"
+}
 ]

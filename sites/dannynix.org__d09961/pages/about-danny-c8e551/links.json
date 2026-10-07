@@ -1,7 +1,50 @@
 [
-"https://dannynix.org/",
-"https://dannynix.org/about-danny",
-"https://dannynix.org/privacy-policy",
-"https://dannynix.org/terms-and-conditions",
-"https://secure.anedot.com/danny-nix-jr-campaign/donate"
+{
+"text": "$1,000",
+"href": "https://secure.anedot.com/danny-nix-jr-campaign/donate"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/danny-nix-jr-campaign/donate"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/danny-nix-jr-campaign/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/danny-nix-jr-campaign/donate"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/danny-nix-jr-campaign/donate"
+},
+{
+"text": "$750",
+"href": "https://secure.anedot.com/danny-nix-jr-campaign/donate"
+},
+{
+"text": "ABOUT DANNY",
+"href": "https://dannynix.org/about-danny/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/danny-nix-jr-campaign/donate"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/danny-nix-jr-campaign/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://dannynix.org/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://dannynix.org/terms-and-conditions/"
+},
+{
+"text": "[image]",
+"href": "https://dannynix.org/"
+}
 ]

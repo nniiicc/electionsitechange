@@ -1,7 +1,11 @@
 {
  "description": "markformaine's campaign",
  "final_url": "https://www.markformaine.com/news",
- "paid_for_by": null,
- "title": "News \u2014 markformaine",
- "years_mentioned": []
+ "fingerprint": "e7afac3ecf0933ab17fe1a0fd2daf11681bf2dd1",
+ "format": 3,
+ "paid_for_by": "authorized by Mark Vigliotta for Senate You need to enable JavaScript to run this app",
+ "title": "News — markformaine",
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,105 +1,602 @@
 [
-"http://facebook.com/lakeshawomack",
-"http://google.com/calendar/event?action=TEMPLATE&text=%22The+People%27s+Primary+Candidate+Forum%22+for+Gaston+County&dates=20260127T230000Z%2F20260128T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20260212T130000Z%2F20260301T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20261015T120000Z%2F20261031T190000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T113000Z%2F20261103T123000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Gaston+Business+Association+Primary+Candidate+Forum&dates=20260204T223000Z%2F20260205T003000Z&location=1625+Lowell+Bethesda+Road%2C+Gastonia%2C+NC%2C+28056%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Gaston+County+Business+Association&dates=20260311T120000Z%2F20260311T150000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Gaston+County+Democratic+Women%27s+Monthly+Meeting&dates=20260219T233000Z%2F20260220T013000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Gaston+County+Democratic+Women+Meet+the+Candidates&dates=20260813T220000Z%2F20260814T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Gaston+County+Democrats&dates=20260120T233000Z%2F20260121T013000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Gaston+County+Democrats&dates=20260325T213000Z%2F20260326T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Gaston+County+Democrats+Monthly+Meeting&dates=20260616T230000Z%2F20260617T010000Z&location=825+Majestic+Court%2C+Gastonia%2C+North+Carolina%2C+28054%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Gaston+County+Democrats+Monthly+Meeting&dates=20260721T230000Z%2F20260722T000000Z&location=825+Majestic+Court%2C+Gastonia%2C+North+Carolina%2C+28054%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Gaston+County+Meet+and+Greet&dates=20260521T213000Z%2F20260521T233000Z&location=825+Majestic+Court%2C+Gastonia%2C+NC%2C+28054%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Gaston+County+NAACP&dates=20260117T130000Z%2F20260117T150000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Gaston+County+NAACP&dates=20260914T220000Z%2F20260914T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Gaston+County+NAACP+2nd+Annual+Freedom+Fund+Gala&dates=20260829T220000Z%2F20260830T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Gaston+County+NAACP+Meet+the+Candidates&dates=20260827T220000Z%2F20260828T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Montcross+Chamber+of+Commerce&dates=20261009T150000Z%2F20261009T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+Voting&dates=20260303T113000Z%2F20260304T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sparkler+Party+with+Gaston+County+Democrats&dates=20260704T230000Z%2F20260705T013000Z&location=825+Majestic+Court%2C+Gastonia%2C+North+Carolina%2C+28054%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sydnie+Hutchinson+for+NC-108+Campaign+Launch&dates=20260501T223000Z%2F20260502T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Virtual+Campaign+Launch&dates=20251205T220000Z%2F20251205T230000Z",
-"http://instagram.com/lakeshawomack",
-"http://maps.google.com/?q=1625+Lowell+Bethesda+Road+Gastonia%2C+NC%2C+28056+United+States",
-"http://maps.google.com/?q=825+Majestic+Court+Gastonia%2C+NC%2C+28054+United+States",
-"http://maps.google.com/?q=825+Majestic+Court+Gastonia%2C+North+Carolina%2C+28054+United+States",
-"http://maps.google.com/?q=Gaston+Convention+Center",
-"http://maps.google.com/?q=Gaston+County+Democratic+Headquarters",
-"http://threads.com/@lakeshawomack",
-"http://twitter.com/lakeshawomack",
-"https://facebook.com/profile.php?id=61557177504020",
-"https://facebook.com/share/1JiP47BNpF",
-"https://mobilize.us/s/RpugG0",
-"https://ncsbe.gov/news/events/election-day-2026-primary-election",
-"https://ncvoter.org/early-voting",
-"https://secure.actblue.com/donate/lakesha-womack",
-"https://tiktok.com/@lakeshaswomack",
-"https://vt.ncsbe.gov/RegLkup",
-"https://womack4nc14.com/",
-"https://womack4nc14.com/bio",
-"https://womack4nc14.com/calendar",
-"https://womack4nc14.com/cart",
-"https://womack4nc14.com/contact",
-"https://womack4nc14.com/events/early-voting-in-north-carolina",
-"https://womack4nc14.com/events/early-voting-in-north-carolina-yncnz",
-"https://womack4nc14.com/events/early-voting-in-north-carolina-yncnz?format=ical",
-"https://womack4nc14.com/events/early-voting-in-north-carolina?format=ical",
-"https://womack4nc14.com/events/gaston-business-association-primary-candidate-forum",
-"https://womack4nc14.com/events/gaston-business-association-primary-candidate-forum?format=ical",
-"https://womack4nc14.com/events/gaston-county-business-association",
-"https://womack4nc14.com/events/gaston-county-business-association?format=ical",
-"https://womack4nc14.com/events/gaston-county-democratic-women-meet-the-candidates",
-"https://womack4nc14.com/events/gaston-county-democratic-women-meet-the-candidates?format=ical",
-"https://womack4nc14.com/events/gaston-county-democratic-womens-monthly-meeting",
-"https://womack4nc14.com/events/gaston-county-democratic-womens-monthly-meeting?format=ical",
-"https://womack4nc14.com/events/gaston-county-democrats",
-"https://womack4nc14.com/events/gaston-county-democrats-1",
-"https://womack4nc14.com/events/gaston-county-democrats-1?format=ical",
-"https://womack4nc14.com/events/gaston-county-democrats-monthly-meeting",
-"https://womack4nc14.com/events/gaston-county-democrats-monthly-meeting-r8876",
-"https://womack4nc14.com/events/gaston-county-democrats-monthly-meeting-r8876?format=ical",
-"https://womack4nc14.com/events/gaston-county-democrats-monthly-meeting?format=ical",
-"https://womack4nc14.com/events/gaston-county-democrats?format=ical",
-"https://womack4nc14.com/events/gaston-county-meet-and-greet",
-"https://womack4nc14.com/events/gaston-county-meet-and-greet?format=ical",
-"https://womack4nc14.com/events/gaston-county-naacp",
-"https://womack4nc14.com/events/gaston-county-naacp-1",
-"https://womack4nc14.com/events/gaston-county-naacp-1?format=ical",
-"https://womack4nc14.com/events/gaston-county-naacp-2nd-annual-freedom-fund-gala",
-"https://womack4nc14.com/events/gaston-county-naacp-2nd-annual-freedom-fund-gala?format=ical",
-"https://womack4nc14.com/events/gaston-county-naacp?format=ical",
-"https://womack4nc14.com/events/gastonia-naacp-meet-the-candidates",
-"https://womack4nc14.com/events/gastonia-naacp-meet-the-candidates?format=ical",
-"https://womack4nc14.com/events/montcross-chamber-of-commerce",
-"https://womack4nc14.com/events/montcross-chamber-of-commerce?format=ical",
-"https://womack4nc14.com/events/primary-voting",
-"https://womack4nc14.com/events/primary-voting-jexbb",
-"https://womack4nc14.com/events/primary-voting-jexbb?format=ical",
-"https://womack4nc14.com/events/primary-voting?format=ical",
-"https://womack4nc14.com/events/sparkler-party-with-gaston-county-democrats",
-"https://womack4nc14.com/events/sparkler-party-with-gaston-county-democrats?format=ical",
-"https://womack4nc14.com/events/sydnie-hutchinson-for-senate-campaign-launch",
-"https://womack4nc14.com/events/sydnie-hutchinson-for-senate-campaign-launch?format=ical",
-"https://womack4nc14.com/events/the-peoples-primary-candidate-forum-for-gaston-county",
-"https://womack4nc14.com/events/the-peoples-primary-candidate-forum-for-gaston-county?format=ical",
-"https://womack4nc14.com/events/virtual-campaign-launch",
-"https://womack4nc14.com/events/virtual-campaign-launch?format=ical",
-"https://womack4nc14.com/events?category=Burke+County",
-"https://womack4nc14.com/events?category=Cleveland+County",
-"https://womack4nc14.com/events?category=Gaston+County",
-"https://womack4nc14.com/events?category=Mecklenburg+County",
-"https://womack4nc14.com/events?category=NC-14+District",
-"https://womack4nc14.com/events?category=Polk+County",
-"https://womack4nc14.com/events?category=Rutherford+County",
-"https://womack4nc14.com/events?category=Virtual+Event",
-"https://womack4nc14.com/events?category=Voting",
-"https://womack4nc14.com/give",
-"https://womack4nc14.com/issues",
-"https://womack4nc14.com/news-and-resources",
-"https://womack4nc14.com/privacy-policy",
-"https://womack4nc14.com/shop",
-"https://youtube.com/@LaKeshaWomack"
+{
+"text": "\"The People's Primary Candidate Forum\" for Gaston County",
+"href": "https://www.womack4nc14.com/events/the-peoples-primary-candidate-forum-for-gaston-county"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1625+lowell+bethesda+road+gastonia%2C+nc%2C+28056+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=825+majestic+court+gastonia%2C+nc%2C+28054+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=825+majestic+court+gastonia%2C+north+carolina%2C+28054+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=gaston+convention+center"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=gaston+county+democratic+headquarters"
+},
+{
+"text": "0",
+"href": "https://www.womack4nc14.com/cart"
+},
+{
+"text": "Burke County",
+"href": "https://www.womack4nc14.com/events?category=Burke+County"
+},
+{
+"text": "Calendar",
+"href": "https://www.womack4nc14.com/calendar"
+},
+{
+"text": "Cleveland County",
+"href": "https://www.womack4nc14.com/events?category=Cleveland+County"
+},
+{
+"text": "Contact",
+"href": "https://www.womack4nc14.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "Early Voting in North Carolina",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina"
+},
+{
+"text": "Early Voting in North Carolina",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz"
+},
+{
+"text": "Election Day",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61557177504020"
+},
+{
+"text": "Find Your Early Voting Location in North Carolina",
+"href": "https://www.ncvoter.org/early-voting/"
+},
+{
+"text": "Gaston Business Association Primary Candidate Forum",
+"href": "https://www.womack4nc14.com/events/gaston-business-association-primary-candidate-forum"
+},
+{
+"text": "Gaston County",
+"href": "https://www.womack4nc14.com/events?category=Gaston+County"
+},
+{
+"text": "Gaston County Business Association",
+"href": "https://www.womack4nc14.com/events/gaston-county-business-association"
+},
+{
+"text": "Gaston County Democratic Women Meet the Candidates",
+"href": "https://www.womack4nc14.com/events/gaston-county-democratic-women-meet-the-candidates"
+},
+{
+"text": "Gaston County Democratic Women's Monthly Meeting",
+"href": "https://www.womack4nc14.com/events/gaston-county-democratic-womens-monthly-meeting"
+},
+{
+"text": "Gaston County Democrats",
+"href": "https://www.womack4nc14.com/events/gaston-county-democrats"
+},
+{
+"text": "Gaston County Democrats",
+"href": "https://www.womack4nc14.com/events/gaston-county-democrats-1"
+},
+{
+"text": "Gaston County Democrats Monthly Meeting",
+"href": "https://www.womack4nc14.com/events/gaston-county-democrats-monthly-meeting"
+},
+{
+"text": "Gaston County Democrats Monthly Meeting",
+"href": "https://www.womack4nc14.com/events/gaston-county-democrats-monthly-meeting-r8876"
+},
+{
+"text": "Gaston County Meet and Greet",
+"href": "https://www.womack4nc14.com/events/gaston-county-meet-and-greet"
+},
+{
+"text": "Gaston County NAACP",
+"href": "https://www.womack4nc14.com/events/gaston-county-naacp"
+},
+{
+"text": "Gaston County NAACP",
+"href": "https://www.womack4nc14.com/events/gaston-county-naacp-1"
+},
+{
+"text": "Gaston County NAACP 2nd Annual Freedom Fund Gala",
+"href": "https://www.womack4nc14.com/events/gaston-county-naacp-2nd-annual-freedom-fund-gala"
+},
+{
+"text": "Gaston County NAACP Meet the Candidates",
+"href": "https://www.womack4nc14.com/events/gastonia-naacp-meet-the-candidates"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=%22The+People%27s+Primary+Candidate+Forum%22+for+Gaston+County&dates=20260127T230000Z%2F20260128T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20260212T130000Z%2F20260301T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20261015T120000Z%2F20261031T190000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T113000Z%2F20261103T123000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gaston+Business+Association+Primary+Candidate+Forum&dates=20260204T223000Z%2F20260205T003000Z&location=1625+Lowell+Bethesda+Road%2C+Gastonia%2C+NC%2C+28056%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gaston+County+Business+Association&dates=20260311T120000Z%2F20260311T150000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gaston+County+Democratic+Women%27s+Monthly+Meeting&dates=20260219T233000Z%2F20260220T013000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gaston+County+Democratic+Women+Meet+the+Candidates&dates=20260813T220000Z%2F20260814T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gaston+County+Democrats&dates=20260120T233000Z%2F20260121T013000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gaston+County+Democrats&dates=20260325T213000Z%2F20260326T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gaston+County+Democrats+Monthly+Meeting&dates=20260616T230000Z%2F20260617T010000Z&location=825+Majestic+Court%2C+Gastonia%2C+North+Carolina%2C+28054%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gaston+County+Democrats+Monthly+Meeting&dates=20260721T230000Z%2F20260722T000000Z&location=825+Majestic+Court%2C+Gastonia%2C+North+Carolina%2C+28054%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gaston+County+Meet+and+Greet&dates=20260521T213000Z%2F20260521T233000Z&location=825+Majestic+Court%2C+Gastonia%2C+NC%2C+28054%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gaston+County+NAACP&dates=20260117T130000Z%2F20260117T150000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gaston+County+NAACP&dates=20260914T220000Z%2F20260914T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gaston+County+NAACP+2nd+Annual+Freedom+Fund+Gala&dates=20260829T220000Z%2F20260830T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gaston+County+NAACP+Meet+the+Candidates&dates=20260827T220000Z%2F20260828T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Montcross+Chamber+of+Commerce&dates=20261009T150000Z%2F20261009T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+Voting&dates=20260303T113000Z%2F20260304T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sparkler+Party+with+Gaston+County+Democrats&dates=20260704T230000Z%2F20260705T013000Z&location=825+Majestic+Court%2C+Gastonia%2C+North+Carolina%2C+28054%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sydnie+Hutchinson+for+NC-108+Campaign+Launch&dates=20260501T223000Z%2F20260502T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Virtual+Campaign+Launch&dates=20251205T220000Z%2F20251205T230000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/gaston-business-association-primary-candidate-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/gaston-county-business-association?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/gaston-county-democratic-women-meet-the-candidates?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/gaston-county-democratic-womens-monthly-meeting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/gaston-county-democrats-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/gaston-county-democrats-monthly-meeting-r8876?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/gaston-county-democrats-monthly-meeting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/gaston-county-democrats?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/gaston-county-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/gaston-county-naacp-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/gaston-county-naacp-2nd-annual-freedom-fund-gala?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/gaston-county-naacp?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/gastonia-naacp-meet-the-candidates?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/montcross-chamber-of-commerce?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/primary-voting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/sparkler-party-with-gaston-county-democrats?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/sydnie-hutchinson-for-senate-campaign-launch?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/the-peoples-primary-candidate-forum-for-gaston-county?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.womack4nc14.com/issues"
+},
+{
+"text": "Mecklenburg County",
+"href": "https://www.womack4nc14.com/events?category=Mecklenburg+County"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://www.womack4nc14.com/bio"
+},
+{
+"text": "Montcross Chamber of Commerce",
+"href": "https://www.womack4nc14.com/events/montcross-chamber-of-commerce"
+},
+{
+"text": "NC-14 District",
+"href": "https://www.womack4nc14.com/events?category=NC-14+District"
+},
+{
+"text": "News and Resources",
+"href": "https://www.womack4nc14.com/news-and-resources"
+},
+{
+"text": "Polk County",
+"href": "https://www.womack4nc14.com/events?category=Polk+County"
+},
+{
+"text": "Primary Voting",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.womack4nc14.com/privacy-policy"
+},
+{
+"text": "Register to Attend",
+"href": "https://mobilize.us/s/RpugG0"
+},
+{
+"text": "Rutherford County",
+"href": "https://www.womack4nc14.com/events?category=Rutherford+County"
+},
+{
+"text": "Shop",
+"href": "https://www.womack4nc14.com/shop"
+},
+{
+"text": "Sparkler Party with Gaston County Democrats",
+"href": "https://www.womack4nc14.com/events/sparkler-party-with-gaston-county-democrats"
+},
+{
+"text": "Sydnie Hutchinson for NC-108 Campaign Launch",
+"href": "https://www.womack4nc14.com/events/sydnie-hutchinson-for-senate-campaign-launch"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/gaston-business-association-primary-candidate-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/gaston-county-business-association"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/gaston-county-democratic-women-meet-the-candidates"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/gaston-county-democratic-womens-monthly-meeting"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/gaston-county-democrats"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/gaston-county-democrats-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/gaston-county-democrats-monthly-meeting"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/gaston-county-democrats-monthly-meeting-r8876"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/gaston-county-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/gaston-county-naacp"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/gaston-county-naacp-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/gaston-county-naacp-2nd-annual-freedom-fund-gala"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/gastonia-naacp-meet-the-candidates"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/montcross-chamber-of-commerce"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/sparkler-party-with-gaston-county-democrats"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/sydnie-hutchinson-for-senate-campaign-launch"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/the-peoples-primary-candidate-forum-for-gaston-county"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch"
+},
+{
+"text": "Virtual Campaign Launch",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch"
+},
+{
+"text": "Virtual Event",
+"href": "https://www.womack4nc14.com/events?category=Virtual+Event"
+},
+{
+"text": "Voter Search",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Voting",
+"href": "https://www.womack4nc14.com/events?category=Voting"
+},
+{
+"text": "Ways to Give",
+"href": "https://www.womack4nc14.com/give"
+},
+{
+"text": "[image: \"The People's Primary Candidate Forum\" for Gaston County]",
+"href": "https://www.womack4nc14.com/events/the-peoples-primary-candidate-forum-for-gaston-county"
+},
+{
+"text": "[image: Early Voting in North Carolina]",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina"
+},
+{
+"text": "[image: Early Voting in North Carolina]",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz"
+},
+{
+"text": "[image: Election Day]",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "[image: Gaston Business Association Primary Candidate Forum]",
+"href": "https://www.womack4nc14.com/events/gaston-business-association-primary-candidate-forum"
+},
+{
+"text": "[image: Gaston County Business Association]",
+"href": "https://www.womack4nc14.com/events/gaston-county-business-association"
+},
+{
+"text": "[image: Gaston County Democratic Women Meet the Candidates]",
+"href": "https://www.womack4nc14.com/events/gaston-county-democratic-women-meet-the-candidates"
+},
+{
+"text": "[image: Gaston County Democratic Women's Monthly Meeting]",
+"href": "https://www.womack4nc14.com/events/gaston-county-democratic-womens-monthly-meeting"
+},
+{
+"text": "[image: Gaston County Democrats Monthly Meeting]",
+"href": "https://www.womack4nc14.com/events/gaston-county-democrats-monthly-meeting"
+},
+{
+"text": "[image: Gaston County Democrats Monthly Meeting]",
+"href": "https://www.womack4nc14.com/events/gaston-county-democrats-monthly-meeting-r8876"
+},
+{
+"text": "[image: Gaston County Democrats]",
+"href": "https://www.womack4nc14.com/events/gaston-county-democrats"
+},
+{
+"text": "[image: Gaston County Democrats]",
+"href": "https://www.womack4nc14.com/events/gaston-county-democrats-1"
+},
+{
+"text": "[image: Gaston County Meet and Greet]",
+"href": "https://www.womack4nc14.com/events/gaston-county-meet-and-greet"
+},
+{
+"text": "[image: Gaston County NAACP 2nd Annual Freedom Fund Gala]",
+"href": "https://www.womack4nc14.com/events/gaston-county-naacp-2nd-annual-freedom-fund-gala"
+},
+{
+"text": "[image: Gaston County NAACP]",
+"href": "https://www.womack4nc14.com/events/gaston-county-naacp"
+},
+{
+"text": "[image: Gaston County NAACP]",
+"href": "https://www.womack4nc14.com/events/gaston-county-naacp-1"
+},
+{
+"text": "[image: LaKesha Womack for NC-14]",
+"href": "https://www.womack4nc14.com/"
+},
+{
+"text": "[image: Montcross Chamber of Commerce]",
+"href": "https://www.womack4nc14.com/events/montcross-chamber-of-commerce"
+},
+{
+"text": "[image: Primary Voting]",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "[image: Sparkler Party with Gaston County Democrats]",
+"href": "https://www.womack4nc14.com/events/sparkler-party-with-gaston-county-democrats"
+},
+{
+"text": "[image: Sydnie Hutchinson for NC-108 Campaign Launch]",
+"href": "https://www.womack4nc14.com/events/sydnie-hutchinson-for-senate-campaign-launch"
+},
+{
+"text": "[image: Virtual Campaign Launch]",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://threads.com/@lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@lakeshaswomack"
+},
+{
+"text": "[no text]",
+"href": "https://www.womack4nc14.com/events/gastonia-naacp-meet-the-candidates"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LaKeshaWomack"
+},
+{
+"text": "[no text]",
+"href": "mailto:connect@womack4nc14.com"
+},
+{
+"text": "https://www.facebook.com/share/1JiP47BNpF/",
+"href": "https://www.facebook.com/share/1JiP47BNpF/"
+},
+{
+"text": "https://www.ncsbe.gov/news/events/election-day-2026-primary-election",
+"href": "https://www.ncsbe.gov/news/events/election-day-2026-primary-election"
+}
 ]

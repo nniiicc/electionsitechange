@@ -1,7 +1,11 @@
 {
  "description": "Yard signs are free for you, but not for the campaign! Help us spread the word by sponsoring a sign for you and another voter!",
  "final_url": "https://www.gonzalezforsenate.com/sponsor-a-yard-sign",
- "paid_for_by": "Paid for by Guillermo Gonzalez for Senate 2026 ID # 1485838 &copy; 2026 Guillermo Gonzalez for Senate 2026",
- "title": "Sponsor a Yard Sign! \u2014 Gonzalez for Senate",
- "years_mentioned": []
+ "fingerprint": "230bbc7cc2662aa58b03d3d0e3292d20be043d4e",
+ "format": 3,
+ "paid_for_by": "Paid for by Guillermo Gonzalez for Senate 2026 ID # 1485838 © # Guillermo Gonzalez for Senate 2026",
+ "title": "Sponsor a Yard Sign! — Gonzalez for Senate",
+ "years_mentioned": [
+  "2026"
+ ]
 }

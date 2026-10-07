@@ -1,9 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61573336198443",
-"https://friendsofgaryfoote.com/",
-"https://friendsofgaryfoote.com/blank",
-"https://friendsofgaryfoote.com/event-list",
-"https://friendsofgaryfoote.com/portfolio",
-"https://secure.actblue.com/donate/gary-foote-1",
-"https://x.com/GaryFooteForMD5"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/gary-foote-1"
+},
+{
+"text": "Events",
+"href": "https://www.friendsofgaryfoote.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.friendsofgaryfoote.com"
+},
+{
+"text": "JOIN THE MOVEMENT",
+"href": "https://www.friendsofgaryfoote.com#upcoming%20events"
+},
+{
+"text": "Platform",
+"href": "https://www.friendsofgaryfoote.com/blank"
+},
+{
+"text": "Portfolio Page",
+"href": "https://www.friendsofgaryfoote.com/portfolio"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.friendsofgaryfoote.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61573336198443"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/GaryFooteForMD5"
+}
 ]

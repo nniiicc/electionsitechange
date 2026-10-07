@@ -1,29 +1,114 @@
 [
-"http://bsky.app/profile/heaserforhouse.bsky.social",
-"https://afscme65.org/",
-"https://afscmemn.org/",
-"https://dflseniors.org/",
-"https://educationminnesota.org/",
-"https://facebook.com/profile.php?id=61587965761007",
-"https://fairvotemn.org/",
-"https://friends-bwca.org/",
-"https://gunsensevoter.org/",
-"https://heaserforhouse.com/",
-"https://heaserforhouse.com/about",
-"https://heaserforhouse.com/cart",
-"https://heaserforhouse.com/connect",
-"https://heaserforhouse.com/donate-1",
-"https://heaserforhouse.com/endorsements",
-"https://heaserforhouse.com/events",
-"https://heaserforhouse.com/home",
-"https://heaserforhouse.com/platform",
-"https://instagram.com/heaserforhouse",
-"https://mape.org/",
-"https://mfu.org/",
-"https://mnaflcio.org/",
-"https://mnnurses.org/",
-"https://nmcarpenters.com/",
-"https://secure.actblue.com/donate/heaserforhouse",
-"https://tiktok.com/@jason.heaser?is_from_webapp=1&sender_device=pc",
-"https://votevets.org/"
+{
+"text": "0",
+"href": "https://www.heaserforhouse.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.heaserforhouse.com/about"
+},
+{
+"text": "Connect",
+"href": "https://www.heaserforhouse.com/connect"
+},
+{
+"text": "Donate",
+"href": "https://www.heaserforhouse.com/donate-1"
+},
+{
+"text": "Donate Now!",
+"href": "https://secure.actblue.com/donate/heaserforhouse"
+},
+{
+"text": "Endorsements",
+"href": "https://www.heaserforhouse.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.heaserforhouse.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.heaserforhouse.com/"
+},
+{
+"text": "Platform",
+"href": "https://www.heaserforhouse.com/platform"
+},
+{
+"text": "[image: Jason Heaser for MN House of Representatives District 34A]",
+"href": "https://www.heaserforhouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://afscme65.org"
+},
+{
+"text": "[image]",
+"href": "https://afscmemn.org"
+},
+{
+"text": "[image]",
+"href": "https://educationminnesota.org/"
+},
+{
+"text": "[image]",
+"href": "https://fairvotemn.org"
+},
+{
+"text": "[image]",
+"href": "https://gunsensevoter.org"
+},
+{
+"text": "[image]",
+"href": "https://mape.org"
+},
+{
+"text": "[image]",
+"href": "https://mfu.org"
+},
+{
+"text": "[image]",
+"href": "https://mnaflcio.org"
+},
+{
+"text": "[image]",
+"href": "https://mnnurses.org"
+},
+{
+"text": "[image]",
+"href": "https://votevets.org"
+},
+{
+"text": "[image]",
+"href": "https://www.dflseniors.org"
+},
+{
+"text": "[image]",
+"href": "https://www.friends-bwca.org"
+},
+{
+"text": "[image]",
+"href": "https://www.heaserforhouse.com/home"
+},
+{
+"text": "[image]",
+"href": "https://www.nmcarpenters.com"
+},
+{
+"text": "[no text]",
+"href": "http://bsky.app/profile/heaserforhouse.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587965761007"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/heaserforhouse/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@jason.heaser?is_from_webapp=1&sender_device=pc"
+}
 ]

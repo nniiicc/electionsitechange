@@ -1,7 +1,22 @@
 [
-"https://secure.winred.com/tricia-cotham-committee/donate",
-"https://triciacotham.net/",
-"https://triciacotham.net/cart",
-"https://triciacotham.net/leadership",
-"https://triciacotham.net/sign-up"
+{
+"text": "0",
+"href": "https://www.triciacotham.net/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/tricia-cotham-committee/donate"
+},
+{
+"text": "Leadership",
+"href": "https://www.triciacotham.net/leadership"
+},
+{
+"text": "Sign Up",
+"href": "https://www.triciacotham.net/sign-up"
+},
+{
+"text": "[image: Tricia Cotham for NC House]",
+"href": "https://www.triciacotham.net/"
+}
 ]

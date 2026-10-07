@@ -1,14 +1,6 @@
-Mary Ann Dunwell
-Working for All Montanans
-Meet Mary Ann
-Serving Helena & East Helena (SD42)
-Mary Ann is running for re-election to the Montana State Senate so she can keep fighting for folks in Helena, East Helena, and the Helena Valley.
+0 Skip to Content Meet Mary Ann Get Involved Issues Photos DONATE Open Menu Close Menu Open Menu Close Menu Meet Mary Ann Get Involved Issues Photos DONATE Meet Mary Ann Get Involved Issues Photos DONATE Mary Ann Dunwell Working for All Montanans Meet Mary Ann Serving Helena & East Helena (SD42) Mary Ann is running for re-election to the Montana State Senate so she can keep fighting for folks in Helena, East Helena, and the Helena Valley.
 She is an experienced legislator and Democrat who refuses to surrender to regressive politics that benefit the wealthiest at the expense of everyday Montanans.
 She believes in building a community and a state where all Montanans can afford to live a good life—that means good-paying jobs with affordable health care, housing, childcare, and education.
-get in touch
-Reach out to Mary Ann if you would like to learn more about her campaign, or if she can help you in any way.
-Call or text her any time at
-(406) 461-5358
-photos
-get involved today!
-Sign up below to help send Mary Ann back to the Montana State Senate
+Learn more get in touch Reach out to Mary Ann if you would like to learn more about her campaign, or if she can help you in any way.
+Call or text her any time at (406) 461-5358 sign up to get involved! photos see more get involved today!
+Sign up below to help send Mary Ann back to the Montana State Senate Join mary ann's campaign Mary Ann Dunwell for SD 42 PO Box 4656, Helena, MT 59604 Paid for by Mary Ann Dunwell for SD 42, Democrat Treasurer Linda Beischel donate

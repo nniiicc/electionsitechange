@@ -1,11 +1,50 @@
 [
-"https://secure.anedot.com/chrismcconnehey/donate",
-"https://venmo.com/u/CMcConnehey",
-"https://wjchris.com/",
-"https://wjchris.com/about",
-"https://wjchris.com/cart",
-"https://wjchris.com/donate",
-"https://wjchris.com/endorsements",
-"https://wjchris.com/issues",
-"https://wjchris.com/sign"
+{
+"text": "0",
+"href": "https://www.wjchris.com/cart"
+},
+{
+"text": "Anedot",
+"href": "https://secure.anedot.com/chrismcconnehey/donate"
+},
+{
+"text": "Anedot Donate",
+"href": "https://secure.anedot.com/chrismcconnehey/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.wjchris.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.wjchris.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.wjchris.com/"
+},
+{
+"text": "Meet Chris",
+"href": "https://www.wjchris.com/about"
+},
+{
+"text": "On the Issues",
+"href": "https://www.wjchris.com/issues"
+},
+{
+"text": "Request a Sign",
+"href": "https://www.wjchris.com/sign"
+},
+{
+"text": "Venmo",
+"href": "https://venmo.com/u/CMcConnehey"
+},
+{
+"text": "Venmo Donate",
+"href": "https://venmo.com/u/CMcConnehey"
+},
+{
+"text": "[image: Chris McConnehey for Utah]",
+"href": "https://www.wjchris.com/"
+}
 ]

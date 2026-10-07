@@ -1,24 +1,118 @@
 [
-"http://alaska.ballottrax.net/voter",
-"http://tech4campaigns.org/",
-"https://bsky.app/profile/dennywells4alaska.bsky.social",
-"https://dennywellsforalaska.com/",
-"https://dennywellsforalaska.com/denny-wells-for-alaska/about",
-"https://dennywellsforalaska.com/denny-wells-for-alaska/contact-2",
-"https://dennywellsforalaska.com/denny-wells-for-alaska/district",
-"https://dennywellsforalaska.com/denny-wells-for-alaska/getinvolved",
-"https://dennywellsforalaska.com/denny-wells-for-alaska/priorities",
-"https://dennywellsforalaska.com/denny-wells-for-alaska/voter-resources",
-"https://elections.alaska.gov/Core/whocanregisterandwhocanvote.php",
-"https://elections.alaska.gov/absentee-and-early-voting",
-"https://elections.alaska.gov/election-information",
-"https://facebook.com/DennyWellsforStateHouse",
-"https://instagram.com/dennywellsforalaska",
-"https://myvoterportal.alaska.gov/",
-"https://secure.actblue.com/donate/dennywellsforalaska-2024-web",
-"https://secure.actblue.com/donate/dennywellsforalaska-2024-web?amount=100",
-"https://secure.actblue.com/donate/dennywellsforalaska-2024-web?amount=250",
-"https://secure.actblue.com/donate/dennywellsforalaska-2024-web?amount=50",
-"https://secure.actblue.com/donate/dennywellsforalaska-2024-web?amount=500",
-"https://voterregistration.alaska.gov/"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/dennywellsforalaska-2024-web?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/dennywellsforalaska-2024-web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/dennywellsforalaska-2024-web?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/dennywellsforalaska-2024-web?amount=500"
+},
+{
+"text": "(907) 360-8608",
+"href": "tel:907-360-8608"
+},
+{
+"text": "@DennyWells4Alaska",
+"href": "https://bsky.app/profile/dennywells4alaska.bsky.social"
+},
+{
+"text": "@dennywellsforalaska",
+"href": "https://www.instagram.com/dennywellsforalaska/"
+},
+{
+"text": "About",
+"href": "https://dennywellsforalaska.com/denny-wells-for-alaska/about/"
+},
+{
+"text": "About District 15",
+"href": "https://dennywellsforalaska.com/denny-wells-for-alaska/district/"
+},
+{
+"text": "Apply for a Ballot",
+"href": "https://www.elections.alaska.gov/absentee-and-early-voting/"
+},
+{
+"text": "Contact",
+"href": "https://dennywellsforalaska.com/denny-wells-for-alaska/contact-2/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/dennywellsforalaska-2024-web"
+},
+{
+"text": "DennyWellsforStateHouse",
+"href": "https://www.facebook.com/DennyWellsforStateHouse"
+},
+{
+"text": "Donate Another Amount",
+"href": "https://secure.actblue.com/donate/dennywellsforalaska-2024-web"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DennyWellsforStateHouse"
+},
+{
+"text": "Find My Polling Place",
+"href": "https://myvoterportal.alaska.gov/"
+},
+{
+"text": "Get Involved",
+"href": "https://dennywellsforalaska.com/denny-wells-for-alaska/getinvolved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/dennywellsforalaska/"
+},
+{
+"text": "Know your voting rights",
+"href": "https://www.elections.alaska.gov/Core/whocanregisterandwhocanvote.php"
+},
+{
+"text": "Learn More about District 15",
+"href": "https://dennywellsforalaska.com/denny-wells-for-alaska/district/"
+},
+{
+"text": "Priorities",
+"href": "https://dennywellsforalaska.com/denny-wells-for-alaska/priorities/"
+},
+{
+"text": "REGISTER NOW",
+"href": "https://voterregistration.alaska.gov/"
+},
+{
+"text": "Register to vote",
+"href": "https://voterregistration.alaska.gov/"
+},
+{
+"text": "Tech for Campaigns​",
+"href": "http://tech4campaigns.org"
+},
+{
+"text": "Voter Information",
+"href": "https://www.elections.alaska.gov/election-information/"
+},
+{
+"text": "Voter Resources",
+"href": "https://dennywellsforalaska.com/denny-wells-for-alaska/voter-resources/"
+},
+{
+"text": "[image]",
+"href": "https://dennywellsforalaska.com"
+},
+{
+"text": "denny@dennywellsforalaska.com",
+"href": "mailto:denny@dennywellsforalaska.com"
+},
+{
+"text": "http://alaska.ballottrax.net/voter/",
+"href": "http://alaska.ballottrax.net/voter/"
+}
 ]

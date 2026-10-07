@@ -1,84 +1,38 @@
-Upcoming Events
-Election Day Afternoon Sign Waving
-Wave signs with Carolyn Hall the afternoon of election day!
-Election Day Morning Sign Waving
-Wave signs the morning of election day with Carolyn Hall
-Join Us 7/13 at the home of Jennie Kellie to Support Carolyn Hall
-Fundraiser to support Carolyn Hall at the home of Jennie Kellie
-Evening with Carolyn Hall & Ky Holland Hosted by Matt Claman
-Join Matt Claman for an evening in support of
-Carolyn Hall and Ky Holland for State House.
-Tuesday, October 28
-5:00 – 7:00 PM
-At the home of Senator Matt Claman
-3318 Illiamna Ave.
-Anchorage
-Fundraiser at Historic Lyn Ary Homestead Cabin
-You’re Invited to a fundraiser to support Ted Eischeid and Caroly Hall.
-At the Historic Lyn Ary Homestead Cabin
-3007 West 32nd Ave
-Tuesday, October 15th
-5pm to 7pm
-Donate to Carolyn: https://secure.actblue.com/donate/carolyn-for-alaska-1
-Donate to Ted: https://secure.anedot.com/ted-for-alaska/hall-fr_10-15
-Cohosts: Allie Hartman, Amber Lee, Andy Holleman and Terry Snyder, Ann Rappoport, Anna Brawley, Barb Jones, Britta Hamre, Camilla Hussein-Scott, Chelsea Ward-Waller, Chris Constant, Diane DiSanto, Erin Baldwin Day, Felix Rivera, Hilary Morgan, Jan Carolyn Hardy, Jane Angvik, Joan Ryan, Joelle Hall, Judy Jessen, Karen Bronga, Kay Brown, Kevin Groh, Kim King Jones, Lindsay Kavanaugh, Margo Bellamy, Marie Husa, Matt Claman, Mike Wenstrup, Nelta Edwards, Suzanne Little, TJ Presley, Tristan Walsh
-Paid for by Carolyn for Alaska, P.O.
-Box 91771, Anchorage, Alaska 99509
-Paid for by Ted for Alaska, 410 Mellow Pl, Anchorage, AK 99508
-Firefighters and Friends for Carolyn Hall
-We are excited to invite you to a special event in support of Carolyn Hall, hosted by Firefighters and Friends!
+0 Skip to Content DONATE About Carolyn Voter Info Policies Endorsements Events Get Involved Open Menu Close Menu DONATE About Carolyn Voter Info Policies Endorsements Events Get Involved Open Menu Close Menu DONATE About Carolyn Voter Info Policies Endorsements Events Get Involved Upcoming Events Aug 18 Election Day Afternoon Sign Waving Tuesday, August 18, 2026 4:30 PM 6:00 PM Anchorage, Alaska, 99517 United States (map) Google Calendar ICS Wave signs with Carolyn Hall the afternoon of election day!
+View Event → Aug 18 Election Day Morning Sign Waving Tuesday, August 18, 2026 7:30 AM 9:00 AM Anchorage, Alaska, 99517 United States (map) Google Calendar ICS Wave signs the morning of election day with Carolyn Hall View Event → Jul 13 Join Us 7/13 at the home of Jennie Kellie to Support Carolyn Hall Monday, July 13, 2026 5:30 PM 7:00 PM 3001 Illiamna Avenue Anchorage, Alaska, 99517 United States (map) Google Calendar ICS Fundraiser to support Carolyn Hall at the home of Jennie Kellie View Event → Oct 28 Evening with Carolyn Hall & Ky Holland Hosted by Matt Claman Tuesday, October 28, 2025 5:00 PM 7:00 PM Google Calendar ICS Join Matt Claman for an evening in support of Carolyn Hall and Ky Holland for State House.
+Tuesday, October 28 5:00 – 7:00 PM At the home of Senator Matt Claman 3318 Illiamna Ave.
+Anchorage View Event → Oct 15 Fundraiser at Historic Lyn Ary Homestead Cabin Tuesday, October 15, 2024 5:00 PM 7:00 PM 3007 West 32nd Avenue (map) Google Calendar ICS You’re Invited to a fundraiser to support Ted Eischeid and Caroly Hall.
+At the Historic Lyn Ary Homestead Cabin 3007 West 32nd Ave Tuesday, October 15th 5pm to 7pm Donate to Carolyn: https://secure.actblue.com/donate/carolyn-for-alaska-1 Donate to Ted: https://secure.anedot.com/ted-for-alaska/hall-fr_10-15 Cohosts: Allie Hartman, Amber Lee, Andy Holleman and Terry Snyder, Ann Rappoport, Anna Brawley, Barb Jones, Britta Hamre, Camilla Hussein-Scott, Chelsea Ward-Waller, Chris Constant, Diane DiSanto, Erin Baldwin Day, Felix Rivera, Hilary Morgan, Jan Carolyn Hardy, Jane Angvik, Joan Ryan, Joelle Hall, Judy Jessen, Karen Bronga, Kay Brown, Kevin Groh, Kim King Jones, Lindsay Kavanaugh, Margo Bellamy, Marie Husa, Matt Claman, Mike Wenstrup, Nelta Edwards, Suzanne Little, TJ Presley, Tristan Walsh Paid for by Carolyn for Alaska, P.O.
+Box 91771, Anchorage, Alaska 99509 Paid for by Ted for Alaska, 410 Mellow Pl, Anchorage, AK 99508 View Event → Sep 4 Firefighters and Friends for Carolyn Hall Wednesday, September 4, 2024 5:00 PM 7:00 PM 3717 Knik Avenue Anchorage, AK, 99517 United States (map) Google Calendar ICS We are excited to invite you to a special event in support of Carolyn Hall, hosted by Firefighters and Friends!
 Featuring Station 5 Firehouse Chili and Jim Lottsfeldt's almost-famous margaritas.
-Event Details:
-Date: Wednesday, September 4th
-Time: 5:00 PM to 7:00 PM
-Location: Home of Jim Lottsfeldt, 3717 Knik Avenue, Anchorage
-Cohosts Include:
-Anna Brawley, Anna Hutchison, Andrew Josephson, Barbara Jones, Bill Falsey, Chris Constant, Chris Dimond, Donna Mears, Heidi Drygas, Ira Slomski-Pritz, Jane Angvik, Joelle Hall, Justin and Sammy Mack, Lindsay Kavanaugh, Melinda Taylor, Patrick FitzGerald, Paxson Woelber, Ryan Schryver, Scott Kendall, Shawna Thoma, Shayne Wescott, Tristan Walsh, TJ Presley, Valerie Nurr’araaluk Davidson, Walter Featherly, Zack Fields.
-If you’re unable to attend, we encourage you to support Carolyn’s campaign by donating online at this link: https://secure.actblue.com/donate/carolyn-for-alaska-1
-We hope to see you there to enjoy a great evening and support Carolyn Hall!
-Tuesday Evening Sign Waving for Carolyn Hall
-Help us get out the vote for Carolyn Hall!
+Event Details: Date: Wednesday, September 4th Time: 5:00 PM to 7:00 PM Location: Home of Jim Lottsfeldt, 3717 Knik Avenue, Anchorage Cohosts Include: Anna Brawley, Anna Hutchison, Andrew Josephson, Barbara Jones, Bill Falsey, Chris Constant, Chris Dimond, Donna Mears, Heidi Drygas, Ira Slomski-Pritz, Jane Angvik, Joelle Hall, Justin and Sammy Mack, Lindsay Kavanaugh, Melinda Taylor, Patrick FitzGerald, Paxson Woelber, Ryan Schryver, Scott Kendall, Shawna Thoma, Shayne Wescott, Tristan Walsh, TJ Presley, Valerie Nurr’araaluk Davidson, Walter Featherly, Zack Fields.
+If you’re unable to attend, we encourage you to support Carolyn’s campaign by donating online at this link: https://secure.actblue.com/donate/carolyn-for-alaska-1 We hope to see you there to enjoy a great evening and support Carolyn Hall!
+View Event → Aug 20 Tuesday Evening Sign Waving for Carolyn Hall Tuesday, August 20, 2024 4:30 PM 6:00 PM Anchorage, AK, 99517 United States (map) Google Calendar ICS Help us get out the vote for Carolyn Hall!
 We'll be sign waving on Tuesday, August 20th from 4:30pm to 6:15pm on the Southwest Corner of Minnesota and Northern Lights.
 (Carrs Parking Lot).
-Tuesday Morning Sign Waving for Carolyn Hall
-Help us get out the vote for Carolyn Hall!
+View Event → Aug 20 Tuesday Morning Sign Waving for Carolyn Hall Tuesday, August 20, 2024 6:45 AM 8:00 AM Anchorage, AK, 99517 United States (map) Google Calendar ICS Help us get out the vote for Carolyn Hall!
 We'll be sign-waving on Tuesday, August 20th, from 6:45am to 8am on the Corner of Minnesota and Benson.
-NE corner (near Starbucks)
-Monday Evening Sign Waving for Carolyn Hall
-Help us get out the vote for Carolyn Hall!
+NE corner (near Starbucks) View Event → Aug 19 Monday Evening Sign Waving for Carolyn Hall Monday, August 19, 2024 4:30 PM 6:15 PM Anchorage, AK, 99517 United States (map) Google Calendar ICS Help us get out the vote for Carolyn Hall!
 We'll be sign waving on Monday, August 19th from 4:30pm to 6:15pm on the Southwest Corner of Minnesota and Northern Lights.
 (Carrs Parking Lot).
-End of Season Bounty Fundraiser
-Join us for a local harvest, end of season bounty fundraiser for Carolyn Hall, hosted by Kay Brown and Mark Foster.
-Date: Thursday, August 15, 5:30 to 7pm
-Location: The Home of Kay Brown and Mark Foster
-1820 East 24th Avenue
-Cohosts:
-Jennie Armstrong, Margo Bellamy, Anna Brawley, Debra Call, Diane DiSanto, Camilla Hussein Scott, Kim King Jones, Amber Lee, Suzanne Little, Donna Mears, Caitlin Shortell, Robin Smith, Noah Star, Caroline Storm, Dora Wilson
-Can't make it?
-Please Donate Online At https://secure.actblue.com/donate/carolyn-for-alaska-1
-Carolyn for Alaska Volunteer Event Kick Off
-Join us for our first Volunteer Kick-Off event in support of Carolyn Hall!
+View Event → Aug 15 End of Season Bounty Fundraiser Thursday, August 15, 2024 5:30 PM 7:00 PM 1820 East 24th Avenue Anchorage, AK, 99508 United States (map) Google Calendar ICS Join us for a local harvest, end of season bounty fundraiser for Carolyn Hall, hosted by Kay Brown and Mark Foster.
+Date: Thursday, August 15, 5:30 to 7pm Location: The Home of Kay Brown and Mark Foster 1820 East 24th Avenue Cohosts: Jennie Armstrong, Margo Bellamy, Anna Brawley, Debra Call, Diane DiSanto, Camilla Hussein Scott, Kim King Jones, Amber Lee, Suzanne Little, Donna Mears, Caitlin Shortell, Robin Smith, Noah Star, Caroline Storm, Dora Wilson Can't make it?
+Please Donate Online At https://secure.actblue.com/donate/carolyn-for-alaska-1 View Event → Jul 19 Carolyn for Alaska Volunteer Event Kick Off Friday, July 19, 2024 5:00 PM 7:00 PM 3007 West 32nd Avenue Anchorage, AK, 99517 United States (map) Google Calendar ICS Join us for our first Volunteer Kick-Off event in support of Carolyn Hall!
 This is a fantastic opportunity to come together, enjoy some snacks, and learn about the various volunteer opportunities available.
-Support the West Anchorage Democrats - Claman, Wells & Hall
-Event Description: Join us for an evening of community and conversation as we support three Democratic candidates running to represent West Anchorage in the state legislature!
+View Event → Jul 16 Support the West Anchorage Democrats - Claman, Wells & Hall Tuesday, July 16, 2024 5:00 PM 7:00 PM 1964 Loussac Drive Anchorage, AK, 99517 United States (map) Google Calendar ICS Event Description: Join us for an evening of community and conversation as we support three Democratic candidates running to represent West Anchorage in the state legislature!
 Your presence and support are crucial to electing leaders who can make real positive change and establish a bipartisan, veto-proof majority.
-Candidates:
-Matt Claman - Current Senator for District H
-Denny Wells - Candidate for House District 15
-Carolyn Hall - Candidate for House District 16
-Fundraiser for Carolyn Hall
-Join over 90 cohosts for a special fundraiser in support of Carolyn Hall, your candidate for District 16, representing the Turnagain, Spenard, and Sand Lake neighborhoods.
+Candidates: Matt Claman - Current Senator for District H Denny Wells - Candidate for House District 15 Carolyn Hall - Candidate for House District 16 View Event → Jul 11 Fundraiser for Carolyn Hall Thursday, July 11, 2024 5:00 PM 7:00 PM 2100 Douglas Drive Anchorage, AK 99517 United States (map) Google Calendar ICS Join over 90 cohosts for a special fundraiser in support of Carolyn Hall, your candidate for District 16, representing the Turnagain, Spenard, and Sand Lake neighborhoods.
 This is your chance to meet Carolyn, hear her vision for our community, and show your support for a leader dedicated to public service and building strong relationships to get things done.
-Exclusive Dinner with Candidate Carolyn Hall hosted by Rep.
-Jennie Armstrong
-We are thrilled to invite you to an exclusive evening of cocktails and homemade dinner with Representative Jennie Armstrong at her lovely home.
-Community Meet and Greet with Carolyn Hall
-Come out to Jewel Lake Kaladi Brothers and meet with Carolyn Hall, candidate for State House District 16
-Backyard Bonfire to Support Carolyn Hall and Denny Wells
-We're excited to invite you to a special summer gathering to support Carolyn Hall and Denny Wells for State House.
-Community Meet and Greet with Carolyn Hall
-Come out to Onsite Brewing Company and meet with Carolyn Hall, candidate for State House District 16
-This is a fantastic opportunity to meet Carolyn in person, learn about her vision for our community, and discuss the issues that matter most to you.
+View Event → Jun 26 Exclusive Dinner with Candidate Carolyn Hall hosted by Rep.
+Jennie Armstrong Wednesday, June 26, 2024 5:30 PM 8:00 PM Rep.
+Jennie Armstrong’s Home (Address will be provided upon reservation) (map) Google Calendar ICS We are thrilled to invite you to an exclusive evening of cocktails and homemade dinner with Representative Jennie Armstrong at her lovely home.
+View Event → Jun 22 Community Meet and Greet with Carolyn Hall Saturday, June 22, 2024 11:00 AM 12:00 PM Kaladi Brothers (map) Google Calendar ICS Come out to Jewel Lake Kaladi Brothers and meet with Carolyn Hall, candidate for State House District 16 View Event → Jun 12 Backyard Bonfire to Support Carolyn Hall and Denny Wells Wednesday, June 12, 2024 5:30 PM 7:00 PM 9040 Emerald Drive Anchorage, AK, 99502 United States (map) Google Calendar ICS We're excited to invite you to a special summer gathering to support Carolyn Hall and Denny Wells for State House.
+View Event → Jun 11 Community Meet and Greet with Carolyn Hall Tuesday, June 11, 2024 5:00 PM 6:00 PM Onsite Brewing (map) Google Calendar ICS Come out to Onsite Brewing Company and meet with Carolyn Hall, candidate for State House District 16 This is a fantastic opportunity to meet Carolyn in person, learn about her vision for our community, and discuss the issues that matter most to you.
 Come along to share your thoughts, ask questions, and see how Carolyn plans to bring positive change to our district.
 Whether you're a longtime supporter or just curious about her campaign, we would love to see you there!
+View Event → Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Stay updated Connect with us. carolyn@carolynforalaska.com Paid for by Carolyn for Alaska P.O.
+Box 91771, Anchorage, Alaska 99509

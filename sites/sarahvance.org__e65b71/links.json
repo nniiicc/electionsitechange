@@ -1,7 +1,30 @@
 [
-"http://x.com/VoteVanceAK",
-"https://akleg.gov/basis/Member/Detail/33?code=van",
-"https://facebook.com/sarahvancehomer",
-"https://instagram.com/votesarahvance",
-"https://secure.anedot.com/vance/2024?mibextid=Zxz2cZ"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/vance/2024?mibextid=Zxz2cZ"
+},
+{
+"text": "Legislation",
+"href": "https://www.akleg.gov/basis/Member/Detail/33?code=van#tab7_3"
+},
+{
+"text": "Sign Request",
+"href": "mailto:sarah@sarahvance.org"
+},
+{
+"text": "[image: Black Instagram Logo]",
+"href": "https://www.instagram.com/votesarahvance/"
+},
+{
+"text": "[image: Envelope Icon for Email]",
+"href": "mailto:sarah@sarahvance.org"
+},
+{
+"text": "[image: White Facebook Logo Social Media Icon]",
+"href": "https://www.facebook.com/sarahvancehomer/"
+},
+{
+"text": "[image: X logo studio, letter x design icon logotype technology font]",
+"href": "http://x.com/VoteVanceAK"
+}
 ]

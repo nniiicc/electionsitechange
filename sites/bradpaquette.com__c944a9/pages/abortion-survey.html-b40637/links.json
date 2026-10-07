@@ -1,9 +1,34 @@
 [
-"https://bradpaquette.com/",
-"https://bradpaquette.com/abortion-survey.html",
-"https://bradpaquette.com/contact.html",
-"https://bradpaquette.com/donate.html",
-"https://bradpaquette.com/issues.html",
-"https://bradpaquette.com/past-elections.html",
-"https://weebly.com/signup"
+{
+"text": "Abortion Survey",
+"href": "https://www.bradpaquette.com/abortion-survey.html"
+},
+{
+"text": "Contact",
+"href": "https://www.bradpaquette.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://www.bradpaquette.com/donate.html"
+},
+{
+"text": "Issues",
+"href": "https://www.bradpaquette.com/issues.html"
+},
+{
+"text": "Meet Brad",
+"href": "https://www.bradpaquette.com/"
+},
+{
+"text": "PAQUETTE FOR 37TH STATE REPRESENTATIVE",
+"href": "https://www.bradpaquette.com/"
+},
+{
+"text": "Past Elections",
+"href": "https://www.bradpaquette.com/past-elections.html"
+},
+{
+"text": "Powered by [image] Create your own unique website with customizable templates. Get Started",
+"href": "https://www.weebly.com/signup"
+}
 ]

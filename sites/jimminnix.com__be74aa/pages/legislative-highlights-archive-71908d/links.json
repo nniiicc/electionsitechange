@@ -1,54 +1,230 @@
 [
-"http://kslegislature.org/li/about",
-"http://kslegislature.org/li/b2021_22/chamber/house",
-"http://kslegislature.org/li/b2021_22/members",
-"http://kslegresearch.org/KLRD-web/Publications/2014Briefs/2014_briefing_book.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/2015Briefs/2015_briefing_book.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/2016Briefs/2016_briefing_book.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/BriefingBook/2017_briefing_book.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/BriefingBook/2018_briefing_book.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/BriefingBook/2019_briefing_book.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/BriefingBook/2020_Briefing_Book.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/CommitteeReports/2014CommitteeReports/2014CRto2015leg-supplement.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/CommitteeReports/2014CommitteeReports/2014CRto2015leg.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/CommitteeReports/2015CommitteeReports/2015CRto2016leg-supplement.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/CommitteeReports/2015CommitteeReports/2015CRto2016leg.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/CommitteeReports/2016CommitteeReports/2016CRto2017leg-supplement.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/CommitteeReports/2016CommitteeReports/2016CRto2017leg.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/CommitteeReports/2017CommitteeReports/2017CRto2018leg-supplement.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/CommitteeReports/2017CommitteeReports/2017CRto2018leg.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/CommitteeReports/2018CommitteeReports/2018CRto2019leg-supplement.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/CommitteeReports/2018CommitteeReports/2018CRto2019leg.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/CommitteeReports/2019CommitteeReports/2019-ICR-for-2020-KSLeg.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/CommitteeReports/2019CommitteeReports/2019ICRto2020Leg-Supp.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/LegislativeHighlights/2014-legislative-highlights.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/LegislativeHighlights/2015-legislative-highlights.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/LegislativeHighlights/2016-legislative-highlights.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/LegislativeHighlights/2017-legislative-highlights.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/LegislativeHighlights/2018-legislative-highlights.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/LegislativeHighlights/2019-legislative-highlights.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/LegislativeHighlights/2020-legislative-highlights.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/SummaryofLegislation/2014_summary_of_legislation.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/SummaryofLegislation/2015_summary_of_legislation.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/SummaryofLegislation/2016_summary_of_legislation.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/SummaryofLegislation/2017_summary_of_legislation.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/SummaryofLegislation/2018_summary_of_legislation.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/SummaryofLegislation/2019_summary_of_legislation.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/SummaryofLegislation/2020_summary_of_legislation.pdf",
-"https://cdn.ymaws.com/www.lkm.org/resource/resmgr/files/legislative/2021_legislative_guide_final.pdf",
-"https://jimminnix.com/",
-"https://jimminnix.com/about-jim-minnix",
-"https://jimminnix.com/contact-jim",
-"https://jimminnix.com/donate",
-"https://jimminnix.com/jim-in-the-legislature",
-"https://jimminnix.com/jims-newsletters",
-"https://jimminnix.com/join-jims-mailing-list",
-"https://jimminnix.com/kansas-house-district-118",
-"https://jimminnix.com/legislative-highlights",
-"https://jimminnix.com/news-and-updates",
-"https://jimminnix.com/policy-resources",
-"https://jimminnix.com/resource-links",
-"https://jimminnix.com/wp-content/uploads/2020/05/minnix-header2-980x372-1.jpg",
-"https://klrd.org/publications/2020-legislative-highlights",
-"https://klrd.org/publications/summary-of-legislation-2020"
+{
+"text": "2014 Legislative Highlights",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/LegislativeHighlights/2014-legislative-highlights.pdf"
+},
+{
+"text": "2014 Legislator Briefing Book",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/2014Briefs/2014_briefing_book.pdf"
+},
+{
+"text": "2014 Summary of Legislation",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/SummaryofLegislation/2014_summary_of_legislation.pdf"
+},
+{
+"text": "2015 Legislative Highlights",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/LegislativeHighlights/2015-legislative-highlights.pdf"
+},
+{
+"text": "2015 Legislator Briefing Book",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/2015Briefs/2015_briefing_book.pdf"
+},
+{
+"text": "2015 Summary of Legislation",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/SummaryofLegislation/2015_summary_of_legislation.pdf"
+},
+{
+"text": "2016 Legislative Highlights",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/LegislativeHighlights/2016-legislative-highlights.pdf"
+},
+{
+"text": "2016 Legislator Briefing Book",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/2016Briefs/2016_briefing_book.pdf"
+},
+{
+"text": "2016 Summary of Legislation",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/SummaryofLegislation/2016_summary_of_legislation.pdf"
+},
+{
+"text": "2017 Legislative Highlights",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/LegislativeHighlights/2017-legislative-highlights.pdf"
+},
+{
+"text": "2017 Legislator Briefing Book",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/BriefingBook/2017_briefing_book.pdf"
+},
+{
+"text": "2017 Summary of Legislation",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/SummaryofLegislation/2017_summary_of_legislation.pdf"
+},
+{
+"text": "2018 Legislative Highlights",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/LegislativeHighlights/2018-legislative-highlights.pdf"
+},
+{
+"text": "2018 Legislator Briefing Book",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/BriefingBook/2018_briefing_book.pdf"
+},
+{
+"text": "2018 Summary of Legislation",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/SummaryofLegislation/2018_summary_of_legislation.pdf"
+},
+{
+"text": "2019 Legislative Highlights",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/LegislativeHighlights/2019-legislative-highlights.pdf"
+},
+{
+"text": "2019 Legislator Briefing Book",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/BriefingBook/2019_briefing_book.pdf"
+},
+{
+"text": "2019 Summary of Legislation",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/SummaryofLegislation/2019_summary_of_legislation.pdf"
+},
+{
+"text": "2020 Legislative Highlights",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/LegislativeHighlights/2020-legislative-highlights.pdf"
+},
+{
+"text": "2020 Legislator Briefing Book",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/BriefingBook/2020_Briefing_Book.pdf"
+},
+{
+"text": "2020 Summary of Legislation / Special Session Summary",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/SummaryofLegislation/2020_summary_of_legislation.pdf"
+},
+{
+"text": "About Jim",
+"href": "https://jimminnix.com/about-jim-minnix/"
+},
+{
+"text": "About the Legislature",
+"href": "http://www.kslegislature.org/li/about/"
+},
+{
+"text": "Committee Reports to the 2015 Kansas Legislature",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/CommitteeReports/2014CommitteeReports/2014CRto2015leg.pdf"
+},
+{
+"text": "Committee Reports to the 2015 Kansas Legislature – Supplement",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/CommitteeReports/2014CommitteeReports/2014CRto2015leg-supplement.pdf"
+},
+{
+"text": "Committee Reports to the 2016 Kansas Legislature",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/CommitteeReports/2015CommitteeReports/2015CRto2016leg.pdf"
+},
+{
+"text": "Committee Reports to the 2016 Kansas Legislature – Supplement",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/CommitteeReports/2015CommitteeReports/2015CRto2016leg-supplement.pdf"
+},
+{
+"text": "Committee Reports to the 2017 Kansas Legislature",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/CommitteeReports/2016CommitteeReports/2016CRto2017leg.pdf"
+},
+{
+"text": "Committee Reports to the 2017 Kansas Legislature – Supplement",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/CommitteeReports/2016CommitteeReports/2016CRto2017leg-supplement.pdf"
+},
+{
+"text": "Committee Reports to the 2018 Kansas Legislature",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/CommitteeReports/2017CommitteeReports/2017CRto2018leg.pdf"
+},
+{
+"text": "Committee Reports to the 2018 Kansas Legislature – Supplement",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/CommitteeReports/2017CommitteeReports/2017CRto2018leg-supplement.pdf"
+},
+{
+"text": "Committee Reports to the 2019 Kansas Legislature",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/CommitteeReports/2018CommitteeReports/2018CRto2019leg.pdf"
+},
+{
+"text": "Committee Reports to the 2019 Kansas Legislature – Supplement",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/CommitteeReports/2018CommitteeReports/2018CRto2019leg-supplement.pdf"
+},
+{
+"text": "Committee Reports to the 2020 Kansas Legislature",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/CommitteeReports/2019CommitteeReports/2019-ICR-for-2020-KSLeg.pdf"
+},
+{
+"text": "Committee Reports to the 2020 Kansas Legislature – Supplement",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/CommitteeReports/2019CommitteeReports/2019ICRto2020Leg-Supp.pdf"
+},
+{
+"text": "Contact",
+"href": "https://jimminnix.com/contact-jim/"
+},
+{
+"text": "Donate",
+"href": "https://jimminnix.com/donate/"
+},
+{
+"text": "Find Your Legislator",
+"href": "http://www.kslegislature.org/li/b2021_22/members/"
+},
+{
+"text": "Home",
+"href": "https://jimminnix.com/"
+},
+{
+"text": "House District 118",
+"href": "https://jimminnix.com/kansas-house-district-118/"
+},
+{
+"text": "Jim Minnix for Kansas House",
+"href": "https://jimminnix.com/"
+},
+{
+"text": "Jim in the Legislature",
+"href": "https://jimminnix.com/jim-in-the-legislature/"
+},
+{
+"text": "Jim in the News",
+"href": "https://jimminnix.com/news-and-updates/"
+},
+{
+"text": "Jim’s Newsletters",
+"href": "https://jimminnix.com/jims-newsletters/"
+},
+{
+"text": "Kansas Legislative Guide",
+"href": "https://cdn.ymaws.com/www.lkm.org/resource/resmgr/files/legislative/2021_legislative_guide_final.pdf"
+},
+{
+"text": "Legislative Highlights",
+"href": "https://jimminnix.com/legislative-highlights/"
+},
+{
+"text": "Legislature",
+"href": "https://jimminnix.com/jim-in-the-legislature/"
+},
+{
+"text": "Mobile Menu ↓",
+"href": "javascript:void(null);"
+},
+{
+"text": "News",
+"href": "https://jimminnix.com/news-and-updates/"
+},
+{
+"text": "Policy Resources",
+"href": "https://jimminnix.com/policy-resources/"
+},
+{
+"text": "Resource Links",
+"href": "https://jimminnix.com/resource-links/"
+},
+{
+"text": "Subscribe to Jim’s mailing list",
+"href": "https://www.jimminnix.com/join-jims-mailing-list/"
+},
+{
+"text": "The Kansas House",
+"href": "http://www.kslegislature.org/li/b2021_22/chamber/house/"
+},
+{
+"text": "[image: Jim Minnix for Kansas House District 118][image: Jim Minnix for Kansas House District 118]",
+"href": "https://www.jimminnix.com"
+},
+{
+"text": "[image]",
+"href": "https://jimminnix.com/wp-content/uploads/2020/05/minnix-header2-980x372-1.jpg"
+},
+{
+"text": "mobile version",
+"href": "https://klrd.org/publications/2020-legislative-highlights/"
+},
+{
+"text": "mobile version",
+"href": "https://klrd.org/publications/summary-of-legislation-2020/"
+}
 ]

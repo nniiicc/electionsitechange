@@ -1,8 +1,30 @@
 [
-"https://hruzaformissouri.com/",
-"https://hruzaformissouri.com/about-george",
-"https://hruzaformissouri.com/contact",
-"https://hruzaformissouri.com/get-involved",
-"https://hruzaformissouri.com/the-issues",
-"https://secure.winred.com/hruza-for-missouri/donate-today-copy-9f6af015b37ffe1f"
+{
+"text": "About George",
+"href": "https://hruzaformissouri.com/about-george/"
+},
+{
+"text": "Contact",
+"href": "https://hruzaformissouri.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/hruza-for-missouri/donate-today-copy-9f6af015b37ffe1f"
+},
+{
+"text": "Get Involved",
+"href": "https://hruzaformissouri.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://hruzaformissouri.com/"
+},
+{
+"text": "The Issues",
+"href": "https://hruzaformissouri.com/the-issues/"
+},
+{
+"text": "[image: George Hruza for Missouri]",
+"href": "https://hruzaformissouri.com/"
+}
 ]

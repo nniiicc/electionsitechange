@@ -1,7 +1,38 @@
 [
-"https://gilgatch.com/",
-"https://gilgatch.com/about",
-"https://scstatehouse.gov/sponsorsearch.php",
-"https://scstatehouse.gov/votehistory.php",
-"https://secure.anedot.com/gil-gatch-for-state-house/donate"
+{
+"text": "Contact the campaign",
+"href": "mailto:info@gilgatch.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/gil-gatch-for-state-house/donate"
+},
+{
+"text": "Meet Gil",
+"href": "https://www.gilgatch.com/about"
+},
+{
+"text": "See the record",
+"href": "https://www.gilgatch.com/#record"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://www.scstatehouse.gov/sponsorsearch.php"
+},
+{
+"text": "Stand with Gil",
+"href": "https://secure.anedot.com/gil-gatch-for-state-house/donate"
+},
+{
+"text": "Voting Record",
+"href": "https://www.scstatehouse.gov/votehistory.php"
+},
+{
+"text": "[image: Gil Gatch for State House]",
+"href": "https://www.gilgatch.com/"
+},
+{
+"text": "info@gilgatch.com",
+"href": "mailto:info@gilgatch.com"
+}
 ]

@@ -1,6 +1,4 @@
-MARY'S PRIORITIES
-Focus on practical issues, not political noise
-Mary Ungs-Sogaard is running for the Iowa Senate because she believes Iowa can do better on the issues that affect everyday life: affordability, health care and brain health, clean water, healthy soil, and honest leadership.
+top of page Volunteer Donate Home Priorities Meet Mary Get Involved Contact Donate Donate MARY'S PRIORITIES Focus on practical issues, not political noise Mary Ungs-Sogaard is running for the Iowa Senate because she believes Iowa can do better on the issues that affect everyday life: affordability, health care and brain health, clean water, healthy soil, and honest leadership.
 These are not abstract policy debates.
 They are the conversations families are having around kitchen tables, in grocery aisles, at work, at community events, and with neighbors.
 Can we afford to stay here?
@@ -9,9 +7,7 @@ Will our children be able to build a future in Iowa?
 Is our water safe?
 Are leaders in Des Moines focused on real problems, or are they focused on political fights?
 Mary believes Iowa needs leaders who will listen first, tell the truth, and work with anyone serious about solving problems.
-Top 3 Priorities
-Making everyday life more affordable for Iowans
-Across Iowa, families are doing everything they are supposed to do – working hard, caring for children and aging parents, paying bills, helping neighbors, and trying to plan for the future.
+Join Mary's Team Mary's Promise to Voters Top 3 Priorities Making everyday life more affordable for Iowans Across Iowa, families are doing everything they are supposed to do – working hard, caring for children and aging parents, paying bills, helping neighbors, and trying to plan for the future.
 But everyday life has become harder to afford.
 Groceries, housing, health care, childcare, utilities, and prescription drugs are taking a bigger bite out of household budgets.
 Seniors are watching costs rise while living on fixed incomes.
@@ -49,8 +45,7 @@ Their experiences should guide better decisions in Des Moines.
 Too many families are trying to figure out health care, mental health care, or elder care alone.
 Iowa can do better than waiting for a crisis.
 Families should be able to get care before they are in crisis.
-Health Care, Mental Health and Brain Health
-Iowa’s land and water are part of who we are.
+Health Care, Mental Health and Brain Health Iowa’s land and water are part of who we are.
 Families deserve clean drinking water.
 Farmers depend on healthy soil.
 Communities need honest information about public health.
@@ -69,10 +64,8 @@ This is not about pointing fingers.
 It is about protecting the place we all call home.
 We all want safe drinking water, healthy soil, and a future where our kids can live here without worrying about what is in the water.
 Clean water should not be political.
-Clean Water, Healthy Soil, Healthy Communities
-GET INVOLVED
-Help Mary win.
+Clean Water, Healthy Soil, Healthy Communities GET INVOLVED Help Mary win.
 If you’re ready to help Iowa do better, there’s a place for you on Mary’s team!
-You can knock on doors, make calls, write postcards, help with events, deliver yard signs, host a gathering, talk to friends and neighbors, or make a contribution to help the campaign reach more voters.
-No experience needed!
+You can knock on doors, make calls, write postcards, help with events, deliver yard signs, host a gathering, talk to friends and neighbors, or make a contribution to help the campaign reach more voters. ​ No experience needed!
 Whether you have an hour, an afternoon, or time every week, your support matters.
+Get Involved © # Mary Ungs-Sogaard for Iowa Senate bottom of page

@@ -1,20 +1,94 @@
 [
-"https://facebook.com/DamonGaldo",
-"https://instagram.com/damongaldonj",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/damon-galdo-for-congress/8fbaa22e-08ea-46f7-8862-58f4c50782cd",
-"https://votedamongaldo.com/",
-"https://votedamongaldo.com/about-damon",
-"https://votedamongaldo.com/contact-us",
-"https://votedamongaldo.com/endorsements",
-"https://votedamongaldo.com/m/account",
-"https://votedamongaldo.com/m/create-account",
-"https://votedamongaldo.com/platform",
-"https://votedamongaldo.com/press-releases",
-"https://votedamongaldo.com/privacy-policy",
-"https://votedamongaldo.com/tell-me-about-you",
-"https://votedamongaldo.com/video-1",
-"https://voter.svrs.nj.gov/register",
-"https://x.com/DamonGaldoNJ"
+{
+"text": "About Damon",
+"href": "https://votedamongaldo.com/about-damon"
+},
+{
+"text": "Contact Us",
+"href": "https://votedamongaldo.com/contact-us"
+},
+{
+"text": "Create Account",
+"href": "https://votedamongaldo.com/m/create-account"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/damon-galdo-for-congress/8fbaa22e-08ea-46f7-8862-58f4c50782cd"
+},
+{
+"text": "Endorsements",
+"href": "https://votedamongaldo.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DamonGaldo"
+},
+{
+"text": "Home",
+"href": "https://votedamongaldo.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/damongaldonj"
+},
+{
+"text": "My Account",
+"href": "https://votedamongaldo.com/m/account"
+},
+{
+"text": "Platform",
+"href": "https://votedamongaldo.com/platform"
+},
+{
+"text": "Press Releases",
+"href": "https://votedamongaldo.com/press-releases"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votedamongaldo.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://voter.svrs.nj.gov/register"
+},
+{
+"text": "Sign In",
+"href": "https://votedamongaldo.com/m/account"
+},
+{
+"text": "Tell me about You!",
+"href": "https://votedamongaldo.com/tell-me-about-you"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Video",
+"href": "https://votedamongaldo.com/video-1"
+},
+{
+"text": "X",
+"href": "https://www.x.com/DamonGaldoNJ"
+},
+{
+"text": "[image]",
+"href": "https://votedamongaldo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DamonGaldo"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/damongaldonj"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/DamonGaldoNJ"
+}
 ]

@@ -1,9 +1,34 @@
 [
-"https://campbellforcongress2026.com/",
-"https://campbellforcongress2026.com/get-involved",
-"https://campbellforcongress2026.com/the-plan",
-"https://campbellforcongress2026.com/the-reality",
-"https://campbellforcongress2026.com/who-am-i",
-"https://facebook.com/profile.php?id=61594194753214",
-"https://instagram.com/campbellforcongress2026?hl=en"
+{
+"text": "Campbell for Congress",
+"href": "https://campbellforcongress2026.com/"
+},
+{
+"text": "Get Involved",
+"href": "https://campbellforcongress2026.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://campbellforcongress2026.com/"
+},
+{
+"text": "The Plan",
+"href": "https://campbellforcongress2026.com/the-plan"
+},
+{
+"text": "The Reality",
+"href": "https://campbellforcongress2026.com/the-reality"
+},
+{
+"text": "Who Am I",
+"href": "https://campbellforcongress2026.com/who-am-i"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/profile.php?id=61594194753214"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/campbellforcongress2026/?hl=en"
+}
 ]

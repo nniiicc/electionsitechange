@@ -1,14 +1,50 @@
 [
-"http://facebook.com/",
-"http://instagram.com/",
-"http://linkedin.com/",
-"http://tiktok.com/",
-"http://x.com/",
-"http://youtube.com/",
-"https://kelliekeenanforcongressri.com/",
-"https://kelliekeenanforcongressri.com/about-kellie",
-"https://kelliekeenanforcongressri.com/blank",
-"https://kelliekeenanforcongressri.com/donation",
-"https://kelliekeenanforcongressri.com/get-involved",
-"https://secure.winred.com/kellie-keenan-for-congress-ri/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+{
+"text": "About Kellie",
+"href": "https://www.kelliekeenanforcongressri.com/about-kellie"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/kellie-keenan-for-congress-ri/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.kelliekeenanforcongressri.com/donation"
+},
+{
+"text": "Home",
+"href": "https://www.kelliekeenanforcongressri.com"
+},
+{
+"text": "JOIN US",
+"href": "https://www.kelliekeenanforcongressri.com/get-involved"
+},
+{
+"text": "The Path Forward",
+"href": "https://www.kelliekeenanforcongressri.com/blank"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+}
 ]

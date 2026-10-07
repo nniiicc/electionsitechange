@@ -1,40 +1,170 @@
 [
-"https://allyseifried.com/",
-"https://allyseifried.com/contact",
-"https://allyseifried.com/media",
-"https://allyseifried.com/privacy-policy",
-"https://allyseifried.com/terms-and-conditions",
-"https://allyseifried.com/wp-content/uploads/2025/12/B250528-29.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/C240521-118.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/C250225-116.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/C250312-141.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/C250422-89.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/D250206-55.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/D250305-90.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/D250401-22.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/D250408-101.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/D250415-131.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/D250508-41.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/D250521-185.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/M5A8181.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/M5A8188.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/M5A8256.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/M5A8282.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/M5A8305.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/M5A8321.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/M5A9035.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/M5A9054.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/M5A9088.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/M5A9173.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/M5A9245.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/M5A9347.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/M5A9425.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/M5A9582.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/M5A9667.webp",
-"https://allyseifried.com/wp-content/uploads/2025/12/M5A9725.webp",
-"https://allyseifried.com/wp-content/uploads/2026/05/260428-Ally-Seifried-Re-mix-Mailer-1_1-2.pdf",
-"https://allyseifried.com/wp-content/uploads/2026/05/260429-Ally-Seifried-Re-mix-Mailer-2_1-1.pdf",
-"https://allyseifried.com/wp-content/uploads/2026/05/260430-Ally-Seifried-Re-mix-Mailer-3b_1-2.pdf",
-"https://facebook.com/voteallyseifried",
-"https://secure.anedot.com/6bf28efd-2e28-4273-983e-d744496f3f52/donate"
+{
+"text": "260428 Ally Seifried Re-mix Mailer 1_1-2",
+"href": "https://allyseifried.com/wp-content/uploads/2026/05/260428-Ally-Seifried-Re-mix-Mailer-1_1-2.pdf"
+},
+{
+"text": "260429 Ally Seifried Re-mix Mailer 2_1-1",
+"href": "https://allyseifried.com/wp-content/uploads/2026/05/260429-Ally-Seifried-Re-mix-Mailer-2_1-1.pdf"
+},
+{
+"text": "260430 Ally Seifried Re-mix Mailer 3b_1-2",
+"href": "https://allyseifried.com/wp-content/uploads/2026/05/260430-Ally-Seifried-Re-mix-Mailer-3b_1-2.pdf"
+},
+{
+"text": "ACCOMPLISHMENTS",
+"href": "https://allyseifried.com/#accomp"
+},
+{
+"text": "CONTACT",
+"href": "https://allyseifried.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/6bf28efd-2e28-4273-983e-d744496f3f52/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/voteallyseifried"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://allyseifried.com/#get-involved"
+},
+{
+"text": "HOME",
+"href": "https://allyseifried.com/"
+},
+{
+"text": "MEDIA",
+"href": "https://allyseifried.com/media/"
+},
+{
+"text": "MEET ALLY",
+"href": "https://allyseifried.com/#meet"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://allyseifried.com/privacy-policy/"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://allyseifried.com/terms-and-conditions/"
+},
+{
+"text": "[image]",
+"href": "https://allyseifried.com"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/B250528-29.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/C240521-118.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/C250225-116.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/C250312-141.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/C250422-89.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/D250206-55.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/D250305-90.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/D250401-22.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/D250408-101.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/D250415-131.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/D250508-41.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/D250521-185.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/M5A8181.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/M5A8188.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/M5A8256.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/M5A8282.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/M5A8305.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/M5A8321.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/M5A9035.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/M5A9054.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/M5A9088.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/M5A9173.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/M5A9245.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/M5A9347.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/M5A9425.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/M5A9582.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/M5A9667.webp"
+},
+{
+"text": "[no text]",
+"href": "https://allyseifried.com/wp-content/uploads/2025/12/M5A9725.webp"
+}
 ]

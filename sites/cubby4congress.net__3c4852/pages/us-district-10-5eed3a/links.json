@@ -1,14 +1,54 @@
 [
-"https://cubby4congress.net/build-what-comes-next",
-"https://cubby4congress.net/connect",
-"https://cubby4congress.net/green-party-of-mi-1",
-"https://cubby4congress.net/home",
-"https://cubby4congress.net/meet-cubby",
-"https://cubby4congress.net/us-district-10",
-"https://cubby4congress.net/why-im-running",
-"https://facebook.com/cubby4congress",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://macombgov.org/",
-"https://mcgi.state.mi.us/districtlocator",
-"https://oakgov.com/"
+{
+"text": "Build What Comes Next",
+"href": "https://cubby4congress.net/build-what-comes-next"
+},
+{
+"text": "Connect",
+"href": "https://cubby4congress.net/connect"
+},
+{
+"text": "Find out more",
+"href": "https://cubby4congress.net/green-party-of-mi-1"
+},
+{
+"text": "Green Party of MI",
+"href": "https://cubby4congress.net/green-party-of-mi-1"
+},
+{
+"text": "Home",
+"href": "https://cubby4congress.net/home"
+},
+{
+"text": "Macomb County",
+"href": "https://www.macombgov.org/"
+},
+{
+"text": "Meet Cubby",
+"href": "https://cubby4congress.net/meet-cubby"
+},
+{
+"text": "Michigan Congressional Maps",
+"href": "https://www.mcgi.state.mi.us/districtlocator/"
+},
+{
+"text": "Oakland County",
+"href": "https://www.oakgov.com/"
+},
+{
+"text": "US District 10",
+"href": "https://cubby4congress.net/us-district-10"
+},
+{
+"text": "Why I'm Running",
+"href": "https://cubby4congress.net/why-im-running"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/cubby4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

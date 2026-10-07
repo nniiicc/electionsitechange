@@ -1,13 +1,58 @@
 [
-"http://facebook.com/",
-"https://donate.stripe.com/00weVd9PZ4WXaL5eZU7Zu01",
-"https://instagram.com/tisha4congress",
-"https://tishabenoit.com/",
-"https://tishabenoit.com/budget-plan",
-"https://tishabenoit.com/endorsements",
-"https://tishabenoit.com/hello",
-"https://tishabenoit.com/issues",
-"https://tishabenoit.com/privacy-campaign",
-"https://tishabenoit.com/search",
-"https://tishabenoit.com/terms-conditions"
+{
+"text": "Budget",
+"href": "https://tishabenoit.com/budget-plan"
+},
+{
+"text": "Contact",
+"href": "https://tishabenoit.com/hello"
+},
+{
+"text": "DR. TISHA BENOIT",
+"href": "https://tishabenoit.com/"
+},
+{
+"text": "Endorsements",
+"href": "https://tishabenoit.com/endorsements"
+},
+{
+"text": "GET TO KNOW ME!",
+"href": "https://www.instagram.com/tisha4congress"
+},
+{
+"text": "Home",
+"href": "https://tishabenoit.com/"
+},
+{
+"text": "Issues",
+"href": "https://tishabenoit.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tishabenoit.com/privacy-campaign"
+},
+{
+"text": "THANK YOU FOR YOUR DONATION!",
+"href": "https://donate.stripe.com/00weVd9PZ4WXaL5eZU7Zu01"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://tishabenoit.com/terms-conditions"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://tishabenoit.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tisha4congress/"
+},
+{
+"text": "[no text]",
+"href": "mailto:drtisha4congress@gmail.com"
+}
 ]

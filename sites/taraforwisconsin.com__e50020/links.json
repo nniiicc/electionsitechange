@@ -1,17 +1,78 @@
 [
-"https://facebook.com/Tara4Assembly",
-"https://instagram.com/Tara4Assembly",
-"https://secure.actblue.com/donate/tara-for-wisconsin-2",
-"https://secure.actblue.com/donate/tara-for-wisconsin-2?amount=10",
-"https://secure.actblue.com/donate/tara-for-wisconsin-2?amount=100",
-"https://secure.actblue.com/donate/tara-for-wisconsin-2?amount=25",
-"https://secure.actblue.com/donate/tara-for-wisconsin-2?amount=50",
-"https://taraforwisconsin.com/",
-"https://taraforwisconsin.com/cart",
-"https://taraforwisconsin.com/endorsement",
-"https://taraforwisconsin.com/get-involved",
-"https://taraforwisconsin.com/meet-tara",
-"https://taraforwisconsin.com/new-96th-district",
-"https://taraforwisconsin.com/new-page",
-"https://taraforwisconsin.com/privacy-policy"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/tara-for-wisconsin-2?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/tara-for-wisconsin-2?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/tara-for-wisconsin-2?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/tara-for-wisconsin-2?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.taraforwisconsin.com/cart"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/tara-for-wisconsin-2"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tara-for-wisconsin-2?amount=25"
+},
+{
+"text": "Endorsements",
+"href": "https://www.taraforwisconsin.com/endorsement"
+},
+{
+"text": "Get Involved",
+"href": "https://www.taraforwisconsin.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.taraforwisconsin.com/"
+},
+{
+"text": "Join Team Tara!",
+"href": "https://www.taraforwisconsin.com/get-involved"
+},
+{
+"text": "Meet Tara",
+"href": "https://www.taraforwisconsin.com/meet-tara"
+},
+{
+"text": "New 96th District",
+"href": "https://www.taraforwisconsin.com/new-96th-district"
+},
+{
+"text": "Priorities",
+"href": "https://www.taraforwisconsin.com/new-page"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.taraforwisconsin.com/privacy-policy"
+},
+{
+"text": "[image: Tara for Assembly]",
+"href": "https://www.taraforwisconsin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Tara4Assembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Tara4Assembly"
+},
+{
+"text": "hello@taraforwisconsin.com",
+"href": "mailto:hello@taraforwisconsin.com"
+}
 ]

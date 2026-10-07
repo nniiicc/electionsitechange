@@ -1,7 +1,11 @@
 {
  "description": "An independent media and communications venture developing original programming, durable media properties, and direct relationships with audiences outside the traditional political and corporate media system.",
  "final_url": "https://www.waltonforvermont.com/projects/hello-world-peace",
- "paid_for_by": null,
+ "fingerprint": "47c608862dde844fa371e4bb3dd229e940b70d59",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Hello World Peace | Walton for Vermont",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

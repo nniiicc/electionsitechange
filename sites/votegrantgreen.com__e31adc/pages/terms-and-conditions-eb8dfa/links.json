@@ -1,9 +1,50 @@
 [
-"https://facebook.com/votegrantgreen",
-"https://secure.anedot.com/greendonations/donate",
-"https://votegrantgreen.com/",
-"https://votegrantgreen.com/contact",
-"https://votegrantgreen.com/media",
-"https://votegrantgreen.com/privacy-policy",
-"https://votegrantgreen.com/terms-and-conditions"
+{
+"text": "CONTACT",
+"href": "https://votegrantgreen.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/greendonations/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votegrantgreen"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://votegrantgreen.com/contact/"
+},
+{
+"text": "Grant Green for Oklahoma State Senate",
+"href": "https://votegrantgreen.com/privacy-policy/"
+},
+{
+"text": "HOME",
+"href": "https://votegrantgreen.com/"
+},
+{
+"text": "MEDIA",
+"href": "https://votegrantgreen.com/media/"
+},
+{
+"text": "MEET GRANT",
+"href": "https://votegrantgreen.com/#meet"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://votegrantgreen.com/privacy-policy/"
+},
+{
+"text": "RESULTS",
+"href": "https://votegrantgreen.com/#results"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://votegrantgreen.com/terms-and-conditions/"
+},
+{
+"text": "[image]",
+"href": "https://votegrantgreen.com"
+}
 ]

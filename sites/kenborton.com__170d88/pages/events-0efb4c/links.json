@@ -1,6 +1,30 @@
 [
-"http://datemamedia.com/",
-"https://kenborton.com/",
-"https://kenborton.com/donation-form",
-"https://kenborton.com/events"
+{
+"text": "ABOUT KEN",
+"href": "https://www.kenborton.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.kenborton.com"
+},
+{
+"text": "DONATE",
+"href": "https://www.kenborton.com/donation-form"
+},
+{
+"text": "Datema Media",
+"href": "http://datemamedia.com"
+},
+{
+"text": "EDUCATION & ENDORSEMENTS",
+"href": "https://www.kenborton.com"
+},
+{
+"text": "EVENING RECEPTION",
+"href": "https://www.kenborton.com/events"
+},
+{
+"text": "HOME",
+"href": "https://www.kenborton.com"
+}
 ]

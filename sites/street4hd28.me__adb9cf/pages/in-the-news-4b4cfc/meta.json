@@ -1,7 +1,11 @@
 {
  "description": "Stay informed on Lincoln Town Council budget cuts and their impact on local public safety. Join Gordon Street in advocating for essential services.",
  "final_url": "https://street4hd28.me/in-the-news",
- "paid_for_by": null,
+ "fingerprint": "60bc3b5fd9857946996813d72ff3304b93c884e9",
+ "format": 3,
+ "paid_for_by": "authorized by the candidate",
  "title": "In The News",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

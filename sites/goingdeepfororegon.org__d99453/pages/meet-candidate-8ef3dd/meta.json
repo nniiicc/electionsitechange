@@ -1,7 +1,17 @@
 {
  "description": "Tom Lum Forest for Oregon House District 31",
  "final_url": "https://goingdeepfororegon.org/meet-candidate/",
- "paid_for_by": null,
+ "fingerprint": "b3b2d2869c729e31321ad43ae63c4b79edfcaaec",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet Candidate | Going Deep for Oregon",
- "years_mentioned": []
+ "years_mentioned": [
+  "1955",
+  "1957",
+  "1962",
+  "1973",
+  "1976",
+  "1994",
+  "1997"
+ ]
 }

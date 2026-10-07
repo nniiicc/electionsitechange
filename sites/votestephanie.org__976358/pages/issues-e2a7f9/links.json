@@ -1,6 +1,26 @@
 [
-"https://votestephanie.org/",
-"https://votestephanie.org/?page_id=96351",
-"https://votestephanie.org/issues",
-"https://votestephanie.org/meet-stephanie"
+{
+"text": "Home",
+"href": "https://votestephanie.org/"
+},
+{
+"text": "Issues",
+"href": "https://votestephanie.org/issues/"
+},
+{
+"text": "Meet Stephanie",
+"href": "https://votestephanie.org/meet-stephanie/"
+},
+{
+"text": "Recent Updates",
+"href": "https://votestephanie.org/?page_id=96351"
+},
+{
+"text": "[image: Stephanie Gricius]",
+"href": "https://votestephanie.org/"
+},
+{
+"text": "[no text]",
+"href": "https://votestephanie.org"
+}
 ]

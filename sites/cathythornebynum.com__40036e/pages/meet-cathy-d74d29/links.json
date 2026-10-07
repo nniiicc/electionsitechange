@@ -1,11 +1,42 @@
 [
-"http://cathythornebynum.com/category/from-the-train",
-"http://cathythornebynum.com/contact-me",
-"http://cathythornebynum.com/meet-kathy",
-"https://cathythornebynum.com/",
-"https://cathythornebynum.com/how-you-can-help",
-"https://cathythornebynum.com/meet-cathy",
-"https://cathythornebynum.com/my-vision",
-"https://cookieadmin.net/",
-"https://secure.anedot.com/committee-to-elect-cathy-thorne-bynum/donate"
+{
+"text": "About",
+"href": "http://cathythornebynum.com/meet-kathy/"
+},
+{
+"text": "Contact",
+"href": "http://cathythornebynum.com/contact-me"
+},
+{
+"text": "Contact",
+"href": "http://cathythornebynum.com/contact-me/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/committee-to-elect-cathy-thorne-bynum/donate"
+},
+{
+"text": "From the Trail",
+"href": "http://cathythornebynum.com/category/from-the-train/"
+},
+{
+"text": "How you can help",
+"href": "https://cathythornebynum.com/how-you-can-help/"
+},
+{
+"text": "Meet Cathy",
+"href": "https://cathythornebynum.com/meet-cathy/"
+},
+{
+"text": "My Vision",
+"href": "https://cathythornebynum.com/my-vision/"
+},
+{
+"text": "Powered by",
+"href": "https://cookieadmin.net/"
+},
+{
+"text": "[image: Cathy Thorne Bynum]",
+"href": "https://cathythornebynum.com/"
+}
 ]

@@ -1,13 +1,50 @@
 [
-"https://facebook.com/profile.php?id=61586420812730",
-"https://hunterforarkansas.com/",
-"https://hunterforarkansas.com/believe",
-"https://hunterforarkansas.com/do-not-donate",
-"https://hunterforarkansas.com/most-interesting-veterinary-case",
-"https://hunterforarkansas.com/pollinate",
-"https://hunterforarkansas.com/videos",
-"https://hunterforarkansas.com/where-is-69",
-"https://instagram.com/hunterforarkansas?hl=en",
-"https://marche.farm/",
-"https://x.com/HunterforAR"
+{
+"text": "BELIEVE",
+"href": "https://hunterforarkansas.com/believe"
+},
+{
+"text": "Courtesy of Marche Farm",
+"href": "https://www.marche.farm/"
+},
+{
+"text": "Do Not Donate",
+"href": "https://hunterforarkansas.com/do-not-donate"
+},
+{
+"text": "Garden",
+"href": "https://hunterforarkansas.com/"
+},
+{
+"text": "Most Interesting Veterinary Case",
+"href": "https://hunterforarkansas.com/most-interesting-veterinary-case"
+},
+{
+"text": "Pollinate",
+"href": "https://hunterforarkansas.com/pollinate"
+},
+{
+"text": "Videos",
+"href": "https://hunterforarkansas.com/videos"
+},
+{
+"text": "Where Is 69",
+"href": "https://hunterforarkansas.com/where-is-69"
+},
+{
+"text": "[image]",
+"href": "https://hunterforarkansas.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/profile.php?id=61586420812730"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/hunterforarkansas/?hl=en"
+},
+{
+"text": "[tooltip: Go to Twitter page]",
+"href": "https://x.com/HunterforAR"
+}
 ]

@@ -1,8 +1,30 @@
 [
-"https://calebhinkle.com/",
-"https://calebhinkle.com/contact",
-"https://facebook.com/",
-"https://instagram.com/",
-"https://tiktok.com/",
-"https://twitter.com/"
+{
+"text": "Contact",
+"href": "https://calebhinkle.com/contact"
+},
+{
+"text": "Home",
+"href": "https://calebhinkle.com/"
+},
+{
+"text": "[image: Re-elect Caleb Hinkle to Montana House District 68 logo]",
+"href": "https://calebhinkle.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "[tooltip: Go to Tiktok page]",
+"href": "https://tiktok.com/"
+},
+{
+"text": "[tooltip: Go to Twitter page]",
+"href": "https://www.twitter.com/"
+}
 ]

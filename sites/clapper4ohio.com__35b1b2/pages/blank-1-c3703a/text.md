@@ -1,3 +1,3 @@
-We’d love to stay in touch!
+top of page Home District 72 Get Involved DONATE SIGN UP TO VOLUNTEER First name * Last name * Email address * Phone * How can you help? * Postcards Intro Calls Door-to-Door Fundraising Signs Other We’d love to stay in touch!
 By clicking submit, you agree to receive occasional updates via email or text.
-Don't worry, we won't spam you, and you can opt-out whenever you like.*
+Don't worry, we won't spam you, and you can opt-out whenever you like. * JOIN US NOW Facebook: Jeff Clapper for Ohio Email: jeff@clapper4ohio.com or info@clapper4ohio.com Phone: (330) 208 - 6111 545 EAST TOWN STREET COLUMBUS, OHIO 43215 PAID FOR BY THE COMMITTEE TO ELECT JEFF CLAPPER bottom of page

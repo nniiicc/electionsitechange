@@ -1,7 +1,11 @@
 {
  "description": "Andrew Fudge Campaign Events",
  "final_url": "https://www.fudge4oregon.org/Events?range=2026-10-06",
+ "fingerprint": "354a8fdee1febe6a23bd8cb059a5f55339213745",
+ "format": 3,
  "paid_for_by": "paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner",
  "title": "Andrew Fudge Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

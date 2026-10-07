@@ -1,134 +1,83 @@
-Kiel reid for state representative
-michigan's 88th district
-For info and updates
-Kiel (pronounced Kyle) Reid is a small business owner and community leader who started his first business at 27.
+Donate Now About Me Endorsements Issues Volunteering Events Media Our Community First Kiel reid for state representative michigan's 88th district Join My Campaign For info and updates Email Address * Zip Code * Donate Campaign Events The Issues Volunteering Donation About Kiel Kiel (pronounced Kyle) Reid is a small business owner and community leader who started his first business at 27.
 He now owns The Griffin’s Rest, a local gathering space in West Michigan.
 Kiel is running for State House to bring steady, practical, and results driven leadership to Lansing.
-He is focused on the affordability of life, protecting our lakeshore from data centers, and ensuring healthcare doesn’t bankrupt the families who need it.
-Countdown
-Time Until Polls Close On Election Day
-HoursMinutesSeconds
-October 1, 2026
-5:00 pm - 7:00 pm
-St.
-Francis Parking Lot
-2929 McCracken St., Norton Shores, MI, 49441
-2929 McCracken St., Norton Shores, MI, 49441
-Knock doors in Norton Shores with Team Reid for State Representative and Team Abdul for US Senate on Thursday, October 1 at 5:00 PM.
+He is focused on the affordability of life, protecting our lakeshore from data centers, and ensuring healthcare doesn’t bankrupt the families who need it. https://vimeo.com/1171200330?loop=0 No one said life would be easy, but it shouldn't be this hard.
+Policy Positions Affordability Healthcare Environment Lower Utility Bills Homes People Can Afford Build More Homes, Train Local Workers Lower Prescription Costs Age at Home with More Choices Better Care, Close to Home Protect Our Dunes & Lakeshore Water that Reaches Everyone Data Centers on Our Terms Campaign Events Campaign Fundraiser Countdown Time Until Polls Close On Election Day Hours Minutes Seconds Hours Minutes Seconds Joint Canvass Team Reid and Team Abdul When October 1, 2026 5:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Where St.
+Francis Parking Lot 2929 McCracken St., Norton Shores, MI, 49441 Event Type Canvassing Knock doors in Norton Shores with Team Reid for State Representative and Team Abdul for US Senate on Thursday, October 1 at 5:00 PM.
 We’ll meet in the St.
 Francis parking lot at 2929 McCracken St., Norton Shores, grab turf, and head out together.
 Sign up below so we know you’re coming.
-6:00 pm - 8:00 pm
-Central Park Place
-421 Columbus Avenue, Grand Haven, MI, 49417
-421 Columbus Avenue, Grand Haven, MI, 49417
-The League of Women Voters of Grand Haven Area hosts a candidate forum for State House and Senate races, with information on state ballot proposals.
+Sign Up Here LWV Candidate Forum – State House & Senate When October 1, 2026 6:00 pm - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Where Central Park Place 421 Columbus Avenue, Grand Haven, MI, 49417 Event Type Candidate Forum The League of Women Voters of Grand Haven Area hosts a candidate forum for State House and Senate races, with information on state ballot proposals.
 Doors open at 6 PM; the forum begins at 6:30 PM.
-Join us Monday, October 5 to knock doors across House District 88.
-Our evening canvass works Spring Lake and launches at 5:00 PM from the [...]
-Join us Tuesday, October 6 to knock doors across House District 88.
-Our evening canvass works Grand Haven Township and launches at 5:00 PM from [...]
-Join us Wednesday, October 7 to knock doors across House District 88.
-Our evening canvass launches at 5:00 PM from the Ottawa Dems Grand Haven [...]
-Knock doors in Norton Shores with Team Reid for State Representative and Team Abdul for US Senate on Thursday, October 8 at 5:00 PM.
-We'll [...]
+19 June 11 AM Juneteenth Heritage Landing RSVP 25 June 7 PM Online AMA Ask Me Anything!
+RSVP October 4, 2026 - October 10, 2026 05 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Monday, Oct 5: Spring Lake October 5, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Monday, October 5 to knock doors across House District 88.
+Our evening canvass works Spring Lake and launches at 5:00 PM from the [...] More Info 06 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Tuesday, Oct 6: Grand Haven Township October 6, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Tuesday, October 6 to knock doors across House District 88.
+Our evening canvass works Grand Haven Township and launches at 5:00 PM from [...] More Info 07 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Wednesday, Oct 7 October 7, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Wednesday, October 7 to knock doors across House District 88.
+Our evening canvass launches at 5:00 PM from the Ottawa Dems Grand Haven [...] More Info 08 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Joint Canvass Team Reid, Team Amidon and Team Abdul - Oct 8 October 8, 2026 5:00 pm - 7:00 pm Ross Park Picnic Area Canvassing Knock doors in Norton Shores with Team Reid for State Representative and Team Abdul for US Senate on Thursday, October 8 at 5:00 PM.
+We'll [...] More Info 1 2 3 4 5 6 7 > All Events Media Coverage Kiel Reid Steady.
+Prepared.
+Local.
 Kiel Reid is committed to fighting for affordable housing that doesn’t come at the cost of our town’s character, healthcare costs and ease of access – close to home, and good paying local jobs that support our tourism and small business – he is particularly interested in achieving fiber internet for everyone in the district.
-Sun
-Mon
-Tue
-Wed
-Thu
-Fri
-Sat
-S
-M
-T
-W
-F
-12:00 PM - Canvassing - Sunday, Aug 30
-8:00 AM - Canvassing - Monday, Aug 31
-4:00 PM - Meet & Greet – Brooklyn Bagels Coffee
-6:00 PM - Meet & Greet – Mill Point Park
-8:00 AM - Canvassing - Tuesday, Sep 1
-4:00 PM - Meet & Greet – Kenzie's Be Café
-6:00 PM - Meet & Greet – Burzurk Brewery
-8:00 AM - Canvassing - Wednesday, Sep 2
-8:00 AM - Canvassing - Thursday, Sep 3
-8:00 AM - Canvassing - Friday, Sep 4
-8:00 AM - Canvassing - Saturday, Sep 5
-12:00 PM - Canvassing - Sunday, Sep 6
-8:00 AM - Canvassing - Monday, Sep 7
-8:00 AM - Canvassing - Tuesday, Sep 8
-8:00 AM - Canvassing - Wednesday, Sep 9
-8:00 AM - Canvassing - Thursday, Sep 10
-8:00 AM - Canvassing - Friday, Sep 11
-8:00 AM - Canvassing - Saturday, Sep 12
-12:00 PM - Canvassing - Sunday, Sep 13
-8:00 AM - Canvassing - Monday, Sep 14
-4:00 PM - Meet & Greet – Greek Tony's Pizza/Subs
-6:00 PM - Meet & Greet – Ross Park Picnic Area
-8:00 AM - Canvassing - Tuesday, Sep 15
-8:00 AM - Canvassing - Wednesday, Sep 16
-8:00 AM - Canvassing - Thursday, Sep 17
-8:00 AM - Canvassing - Friday, Sep 18
-12:00 PM - Canvassing - Sunday, Sep 20
-8:00 AM - Canvassing - Tuesday, Sep 22
-8:00 AM - Canvassing - Wednesday, Sep 23
-8:00 AM - Canvassing - Thursday, Sep 24
-8:00 AM - Canvassing - Friday, Sep 25
-8:00 AM - Canvassing - Saturday, Sep 26
-12:00 PM - Canvassing - Sunday, Sep 27
-12:00 PM - Canvassing - Monday, Sep 28
-12:00 PM - Canvassing - Tuesday, Sep 29
-12:00 PM - Canvassing - Wednesday, Sep 30
-5:00 PM - Joint Canvass Team Reid and Team Abdul
-12:00 PM - Canvassing - Friday, Oct 2: Grand Haven
-11:00 AM - Canvassing - Saturday, Oct 3
-Events on August 31, 2026
-31
-Aug
-August 31, 2026
-8:00 am - 8:00 pm
-Events on September 1, 2026
-01
-Sep
-September 1, 2026
-Events on September 8, 2026
-08
-Sep
-September 8, 2026
-4:00 pm - 5:00 pm
-Robinson Township Park Picnic Area
-12010 120th Ave, Robinson Township, MI
-12010 120th Ave, Robinson Township, MI
-6:00 pm - 7:00 pm
-Hemlock Crossing Park Picnic Area
-8115 West Olive Road, West Olive, MI
-8115 West Olive Road, West Olive, MI
-Events on September 14, 2026
-14
-Sep
-September 14, 2026
-Greek Tony's Pizza/Subs
-4543 Old Grand Haven Road, Norton Shores, MI
-4543 Old Grand Haven Road, Norton Shores, MI
-Events on September 15, 2026
-15
-Sep
-September 15, 2026
-5:30 pm - 8:30 pm
-Grand Haven Ottawa Dems Office
-601 S.
-Beacon Blvd, Suite 101, Grand Haven, MI, 49417
-Events on September 21, 2026
-21
-Sep
-September 21, 2026
-Events on October 1, 2026
-01
-Oct
-Events on October 2, 2026
-02
-Oct
-October 2, 2026
-12:00 pm - 7:00 pm
+Full Interview Statement Statement from Sarah Parker Solutions Five Bipartisan Issues for 2019 Achievement People Video: Sarah Parker on Daily Show Achievement Economy My Legislative Accomplishments in 2018 Past Events Would you like to become one of our donors? $# Donation Would you like to become one of our donors?
+5$ Donation Help Put Our Community First.
+Chip In Volunteer Contact 1-616-414-4865 reid4rep@proton.me Prepare to Vote Find Your State Rep Voter Registration Status Events Calendar #ago Sun Mon Tue Wed Thu Fri Sat S M T W T F S 30 12:00 PM - Canvassing - Sunday, Aug 30 31 8:00 AM - Canvassing - Monday, Aug 31 4:00 PM - Meet & Greet – Brooklyn Bagels Coffee 6:00 PM - Meet & Greet – Mill Point Park 1 8:00 AM - Canvassing - Tuesday, Sep 1 4:00 PM - Meet & Greet – Kenzie's Be Café 6:00 PM - Meet & Greet – Burzurk Brewery 2 8:00 AM - Canvassing - Wednesday, Sep 2 3 8:00 AM - Canvassing - Thursday, Sep 3 4 8:00 AM - Canvassing - Friday, Sep 4 5 8:00 AM - Canvassing - Saturday, Sep 5 6 12:00 PM - Canvassing - Sunday, Sep 6 7 8:00 AM - Canvassing - Monday, Sep 7 8 8:00 AM - Canvassing - Tuesday, Sep 8 4:00 PM - Meet & Greet – Robinson Township Park Picnic Area 6:00 PM - Meet & Greet – Hemlock Crossing Park Picnic Area 9 8:00 AM - Canvassing - Wednesday, Sep 9 10 8:00 AM - Canvassing - Thursday, Sep 10 11 8:00 AM - Canvassing - Friday, Sep 11 12 8:00 AM - Canvassing - Saturday, Sep 12 13 12:00 PM - Canvassing - Sunday, Sep 13 14 8:00 AM - Canvassing - Monday, Sep 14 4:00 PM - Meet & Greet – Greek Tony's Pizza/Subs 6:00 PM - Meet & Greet – Ross Park Picnic Area 15 8:00 AM - Canvassing - Tuesday, Sep 15 5:30 PM - Joint Canvass Launch Team Abdul and Team Kiel Reid 16 8:00 AM - Canvassing - Wednesday, Sep 16 17 8:00 AM - Canvassing - Thursday, Sep 17 18 8:00 AM - Canvassing - Friday, Sep 18 19 8:00 AM - Canvassing - Saturday, Sep 19 9:00 AM - Morning of Action – Grand Haven Area 20 12:00 PM - Canvassing - Sunday, Sep 20 21 8:00 AM - Canvassing - Monday, Sep 21 5:00 PM - Brews With Blues 22 8:00 AM - Canvassing - Tuesday, Sep 22 23 8:00 AM - Canvassing - Wednesday, Sep 23 24 8:00 AM - Canvassing - Thursday, Sep 24 25 8:00 AM - Canvassing - Friday, Sep 25 26 8:00 AM - Canvassing - Saturday, Sep 26 27 12:00 PM - Canvassing - Sunday, Sep 27 28 12:00 PM - Canvassing - Monday, Sep 28 29 12:00 PM - Canvassing - Tuesday, Sep 29 30 12:00 PM - Canvassing - Wednesday, Sep 30 1 5:00 PM - Joint Canvass Team Reid and Team Abdul 6:00 PM - LWV Candidate Forum – State House & Senate 2 12:00 PM - Canvassing - Friday, Oct 2: Grand Haven 3 11:00 AM - Canvassing - Saturday, Oct 3 Canvassing - Sunday, Aug 30 August 30, 2026 12:00 pm - 8:00 pm Canvassing Join us Sunday, August 30 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Monday, Aug 31 August 31, 2026 8:00 am - 8:00 pm Canvassing Join us Monday, August 31 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Meet & Greet – Brooklyn Bagels Coffee 31 Aug August 31, 2026 4:00 pm - 5:00 pm Brooklyn Bagels/Coffee Meet & Greet The best way to know who you're voting for is to talk to them.
+So Kiel is coming to you!
+He wants to hear what's [...] More Info Meet & Greet – Mill Point Park 31 Aug August 31, 2026 6:00 pm - 7:00 pm Mill Point Park Meet & Greet The best way to know who you're voting for is to talk to them.
+So Kiel is coming to you!
+He wants to hear what's [...] More Info Canvassing - Tuesday, Sep 1 September 1, 2026 8:00 am - 8:00 pm Canvassing Join us Tuesday, September 1 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Meet & Greet – Kenzie's Be Café 01 Sep September 1, 2026 4:00 pm - 5:00 pm Kenzie's Be Café Meet & Greet The best way to know who you're voting for is to talk to them.
+So Kiel is coming to you!
+He wants to hear what's [...] More Info Meet & Greet – Burzurk Brewery 01 Sep September 1, 2026 6:00 pm - 7:00 pm Burzurk Brewery Meet & Greet The best way to know who you're voting for is to talk to them.
+So Kiel is coming to you!
+He wants to hear what's [...] More Info Canvassing - Wednesday, Sep 2 September 2, 2026 8:00 am - 8:00 pm Canvassing Join us Wednesday, September 2 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Thursday, Sep 3 September 3, 2026 8:00 am - 8:00 pm Canvassing Join us Thursday, September 3 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Friday, Sep 4 September 4, 2026 8:00 am - 8:00 pm Canvassing Join us Friday, September 4 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Saturday, Sep 5 September 5, 2026 8:00 am - 8:00 pm Canvassing Join us Saturday, September 5 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Sunday, Sep 6 September 6, 2026 12:00 pm - 8:00 pm Canvassing Join us Sunday, September 6 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Monday, Sep 7 September 7, 2026 8:00 am - 8:00 pm Canvassing Join us Monday, September 7 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Tuesday, Sep 8 September 8, 2026 8:00 am - 8:00 pm Canvassing Join us Tuesday, September 8 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Meet & Greet – Robinson Township Park Picnic Area 08 Sep September 8, 2026 4:00 pm - 5:00 pm Robinson Township Park Picnic Area Meet & Greet The best way to know who you're voting for is to talk to them.
+So Kiel is coming to you!
+He wants to hear what's [...] More Info Meet & Greet – Hemlock Crossing Park Picnic Area 08 Sep September 8, 2026 6:00 pm - 7:00 pm Hemlock Crossing Park Picnic Area Meet & Greet The best way to know who you're voting for is to talk to them.
+So Kiel is coming to you!
+He wants to hear what's [...] More Info Canvassing - Wednesday, Sep 9 September 9, 2026 8:00 am - 8:00 pm Canvassing Join us Wednesday, September 9 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Thursday, Sep 10 September 10, 2026 8:00 am - 8:00 pm Canvassing Join us Thursday, September 10 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Friday, Sep 11 September 11, 2026 8:00 am - 8:00 pm Canvassing Join us Friday, September 11 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Saturday, Sep 12 September 12, 2026 8:00 am - 8:00 pm Canvassing Join us Saturday, September 12 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Sunday, Sep 13 September 13, 2026 12:00 pm - 8:00 pm Canvassing Join us Sunday, September 13 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Monday, Sep 14 September 14, 2026 8:00 am - 8:00 pm Canvassing Join us Monday, September 14 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Meet & Greet – Greek Tony's Pizza/Subs September 14, 2026 4:00 pm - 5:00 pm Greek Tony's Pizza/Subs Meet & Greet The best way to know who you're voting for is to talk to them.
+So Kiel is coming to you!
+He wants to hear what's [...] More Info Meet & Greet – Ross Park Picnic Area September 14, 2026 6:00 pm - 7:00 pm Ross Park Picnic Area Meet & Greet The best way to know who you're voting for is to talk to them.
+So Kiel is coming to you!
+He wants to hear what's [...] More Info Canvassing - Tuesday, Sep 15 September 15, 2026 8:00 am - 8:00 pm Canvassing Join us Tuesday, September 15 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Joint Canvass Launch Team Abdul and Team Kiel Reid September 15, 2026 5:30 pm - 8:30 pm Grand Haven Ottawa Dems Office Canvassing Join Team Abdul and Team Kiel Reid at the newly opened Grand Haven Ottawa Dems Office on September 15th at 5:30 pm!
+Let's knock out [...] More Info Canvassing - Wednesday, Sep 16 September 16, 2026 8:00 am - 8:00 pm Canvassing Join us Wednesday, September 16 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Thursday, Sep 17 September 17, 2026 8:00 am - 8:00 pm Canvassing Join us Thursday, September 17 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Friday, Sep 18 September 18, 2026 8:00 am - 8:00 pm Canvassing Join us Friday, September 18 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Saturday, Sep 19 September 19, 2026 8:00 am - 8:00 pm Canvassing Join us Saturday, September 19 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Morning of Action – Grand Haven Area September 19, 2026 9:00 am - 12:00 pm Community Event Join Chris Kleinjans, Kiel Reid, and Hillary Scholten for breakfast at 9:00 am.
+The candidates will speak, then you'll pick a Morning of Action activity [...] More Info Canvassing - Sunday, Sep 20 September 20, 2026 12:00 pm - 8:00 pm Canvassing Join us Sunday, September 20 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Monday, Sep 21 September 21, 2026 8:00 am - 8:00 pm Canvassing Join us Monday, September 21 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Brews With Blues September 21, 2026 5:00 pm - 8:00 pm Burzurk Brewery Fundraiser Join us as we gather to support Kiel Reid in his campaign to become the new State House Representative for the 88th District.
+Kiel needs [...] More Info Canvassing - Tuesday, Sep 22 September 22, 2026 8:00 am - 8:00 pm Canvassing Join us Tuesday, September 22 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Wednesday, Sep 23 September 23, 2026 8:00 am - 8:00 pm Canvassing Join us Wednesday, September 23 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Thursday, Sep 24 September 24, 2026 8:00 am - 8:00 pm Canvassing Join us Thursday, September 24 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Friday, Sep 25 September 25, 2026 8:00 am - 8:00 pm Canvassing Join us Friday, September 25 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Saturday, Sep 26 September 26, 2026 8:00 am - 8:00 pm Canvassing Join us Saturday, September 26 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Sunday, Sep 27 September 27, 2026 12:00 pm - 8:00 pm Canvassing Join us Sunday, September 27 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Monday, Sep 28 September 28, 2026 12:00 pm - 7:00 pm Canvassing Join us Monday, September 28 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Tuesday, Sep 29 September 29, 2026 12:00 pm - 7:00 pm Canvassing Join us Tuesday, September 29 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Wednesday, Sep 30 September 30, 2026 12:00 pm - 7:00 pm Canvassing Join us Wednesday, September 30 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Joint Canvass Team Reid and Team Abdul October 1, 2026 5:00 pm - 7:00 pm St.
+Francis Parking Lot Canvassing Knock doors in Norton Shores with Team Reid for State Representative and Team Abdul for US Senate on Thursday, October 1 at 5:00 PM.
+We'll [...] More Info LWV Candidate Forum – State House & Senate October 1, 2026 6:00 pm - 8:00 pm Central Park Place Candidate Forum The League of Women Voters of Grand Haven Area hosts a candidate forum for State House and Senate races, with information on state ballot proposals. [...] More Info Canvassing - Friday, Oct 2: Grand Haven October 2, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Friday, October 2 to knock doors across House District 88.
+Our evening canvass works Grand Haven and launches at 5:00 PM from the [...] More Info Canvassing - Saturday, Oct 3 October 3, 2026 11:00 am - 8:00 pm Canvassing Join us Saturday, October 3 for a shift of canvassing across House District 88.
+Shifts start at 11 AM and 2 PM.
+Pick the one [...] More Info Events on August 30, 2026 30 Aug Canvassing - Sunday, Aug 30 August 30, 2026 12:00 pm - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on August 31, 2026 31 Aug Canvassing - Monday, Aug 31 August 31, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing 31 Aug Meet & Greet – Brooklyn Bagels Coffee August 31, 2026 4:00 pm - 5:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Brooklyn Bagels/Coffee 411 W.
+Savidge, Spring Lake, MI Meet & Greet 31 Aug Meet & Greet – Mill Point Park August 31, 2026 6:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Mill Point Park 210 School Street, Spring Lake, MI Meet & Greet Events on September 1, 2026 01 Sep Canvassing - Tuesday, Sep 1 September 1, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing 01 Sep Meet & Greet – Kenzie's Be Café September 1, 2026 4:00 pm - 5:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Kenzie's Be Café 1103 Washington, Grand Haven, MI Meet & Greet 01 Sep Meet & Greet – Burzurk Brewery September 1, 2026 6:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Burzurk Brewery 1442 Washington, Grand Haven, MI Meet & Greet Events on September 2, 2026 02 Sep Canvassing - Wednesday, Sep 2 September 2, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 3, 2026 03 Sep Canvassing - Thursday, Sep 3 September 3, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 4, 2026 04 Sep Canvassing - Friday, Sep 4 September 4, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 5, 2026 05 Sep Canvassing - Saturday, Sep 5 September 5, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 6, 2026 06 Sep Canvassing - Sunday, Sep 6 September 6, 2026 12:00 pm - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 7, 2026 07 Sep Canvassing - Monday, Sep 7 September 7, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 8, 2026 08 Sep Canvassing - Tuesday, Sep 8 September 8, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing 08 Sep Meet & Greet – Robinson Township Park Picnic Area September 8, 2026 4:00 pm - 5:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Robinson Township Park Picnic Area 12010 120th Ave, Robinson Township, MI Meet & Greet 08 Sep Meet & Greet – Hemlock Crossing Park Picnic Area September 8, 2026 6:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Hemlock Crossing Park Picnic Area 8115 West Olive Road, West Olive, MI Meet & Greet Events on September 9, 2026 09 Sep Canvassing - Wednesday, Sep 9 September 9, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 10, 2026 10 Sep Canvassing - Thursday, Sep 10 September 10, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 11, 2026 11 Sep Canvassing - Friday, Sep 11 September 11, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 12, 2026 12 Sep Canvassing - Saturday, Sep 12 September 12, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 13, 2026 13 Sep Canvassing - Sunday, Sep 13 September 13, 2026 12:00 pm - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 14, 2026 14 Sep Canvassing - Monday, Sep 14 September 14, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing 14 Sep Meet & Greet – Greek Tony's Pizza/Subs September 14, 2026 4:00 pm - 5:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Greek Tony's Pizza/Subs 4543 Old Grand Haven Road, Norton Shores, MI Meet & Greet 14 Sep Meet & Greet – Ross Park Picnic Area September 14, 2026 6:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Ross Park Picnic Area 82 Randall, Norton Shores, MI Meet & Greet Events on September 15, 2026 15 Sep Canvassing - Tuesday, Sep 15 September 15, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing 15 Sep Joint Canvass Launch Team Abdul and Team Kiel Reid September 15, 2026 5:30 pm - 8:30 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on September 16, 2026 16 Sep Canvassing - Wednesday, Sep 16 September 16, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 17, 2026 17 Sep Canvassing - Thursday, Sep 17 September 17, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 18, 2026 18 Sep Canvassing - Friday, Sep 18 September 18, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 19, 2026 19 Sep Canvassing - Saturday, Sep 19 September 19, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing 19 Sep Morning of Action – Grand Haven Area September 19, 2026 9:00 am - 12:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Community Event Events on September 20, 2026 20 Sep Canvassing - Sunday, Sep 20 September 20, 2026 12:00 pm - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 21, 2026 21 Sep Canvassing - Monday, Sep 21 September 21, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing 21 Sep Brews With Blues September 21, 2026 5:00 pm - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Burzurk Brewery 1442 Washington, Grand Haven, MI Fundraiser Events on September 22, 2026 22 Sep Canvassing - Tuesday, Sep 22 September 22, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 23, 2026 23 Sep Canvassing - Wednesday, Sep 23 September 23, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 24, 2026 24 Sep Canvassing - Thursday, Sep 24 September 24, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 25, 2026 25 Sep Canvassing - Friday, Sep 25 September 25, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 26, 2026 26 Sep Canvassing - Saturday, Sep 26 September 26, 2026 8:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 27, 2026 27 Sep Canvassing - Sunday, Sep 27 September 27, 2026 12:00 pm - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 28, 2026 28 Sep Canvassing - Monday, Sep 28 September 28, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 29, 2026 29 Sep Canvassing - Tuesday, Sep 29 September 29, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 30, 2026 30 Sep Canvassing - Wednesday, Sep 30 September 30, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on October 1, 2026 01 Oct Joint Canvass Team Reid and Team Abdul October 1, 2026 5:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live St.
+Francis Parking Lot 2929 McCracken St., Norton Shores, MI, 49441 Canvassing 01 Oct LWV Candidate Forum – State House & Senate October 1, 2026 6:00 pm - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Central Park Place 421 Columbus Avenue, Grand Haven, MI, 49417 Candidate Forum Events on October 2, 2026 02 Oct Canvassing - Friday, Oct 2: Grand Haven October 2, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 3, 2026 03 Oct Canvassing - Saturday, Oct 3 October 3, 2026 11:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing PAID FOR BY CTE KIEL REID | PO BOX 96 MUSKEGON, MI 49443

@@ -1,14 +1,62 @@
 [
-"https://facebook.com/MaryforCarolina",
-"https://instagram.com/maryforcarolina",
-"https://maryforcarolina.com/contact",
-"https://maryforcarolina.com/endorsements",
-"https://maryforcarolina.com/events-1",
-"https://maryforcarolina.com/home",
-"https://maryforcarolina.com/meet-mary",
-"https://maryforcarolina.com/priorities",
-"https://maryforcarolina.com/privacy-policy",
-"https://maryforcarolina.com/volunteer",
-"https://secure.anedot.com/mary-insprucker-committee-c562f263-8c5e-40c4-86f4-3cb480959efd/mary-insprucker-committee-donate",
-"https://x.com/MaryforCarolina"
+{
+"text": "CONTACT",
+"href": "https://maryforcarolina.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/mary-insprucker-committee-c562f263-8c5e-40c4-86f4-3cb480959efd/mary-insprucker-committee-donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://maryforcarolina.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://maryforcarolina.com/events-1"
+},
+{
+"text": "HOME",
+"href": "https://maryforcarolina.com/home"
+},
+{
+"text": "MEET MARY",
+"href": "https://maryforcarolina.com/meet-mary"
+},
+{
+"text": "My Account",
+"href": "https://maryforcarolina.com/m/account"
+},
+{
+"text": "PRIORITIES",
+"href": "https://maryforcarolina.com/priorities"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://maryforcarolina.com/privacy-policy"
+},
+{
+"text": "Sign In",
+"href": "https://maryforcarolina.com/m/account"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://maryforcarolina.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://maryforcarolina.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MaryforCarolina"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maryforcarolina/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/MaryforCarolina"
+}
 ]

@@ -1,11 +1,14 @@
 {
  "description": "Visit the post for more.",
  "final_url": "https://www.stephenflynch.com/advancing-equality-and-opportunity/",
- "paid_for_by": "Paid for by Lynch for Congress Contact Us Privacy Policy Copyright &copy;2020 All Rights Reserved Follow Follow",
+ "fingerprint": "fcf202369d228644da256758d100838f151e25c3",
+ "format": 3,
+ "paid_for_by": "Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow",
  "title": "Advancing Equality & Opportunity | Stephen F Lynch",
  "years_mentioned": [
   "2015",
   "2019",
-  "2020"
+  "2020",
+  "2021"
  ]
 }

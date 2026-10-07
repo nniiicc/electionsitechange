@@ -1,4 +1,4 @@
-Proud supporters
-Read why neighbors and friends of District 46 are supporting Allissa.
+0 Skip to Content Priorities Voter Information Voter Information (English) Voter Information (Spanish) Get Involved Donate Volunteer With Us Yard Sign Request Ask Allissa Anything DONATE TODAY Open Menu Close Menu Priorities Voter Information Voter Information (English) Voter Information (Spanish) Get Involved Donate Volunteer With Us Yard Sign Request Ask Allissa Anything DONATE TODAY Open Menu Close Menu Priorities Folder: Voter Information Back Voter Information (English) Voter Information (Spanish) Folder: Get Involved Back Donate Volunteer With Us Yard Sign Request Ask Allissa Anything DONATE TODAY Proud supporters Read why neighbors and friends of District 46 are supporting Allissa.
 Are you a strong supporter of Allissa Impink?
 Click here to share your testimonial.
+Paid for by Committee to Elect Allissa Impink.

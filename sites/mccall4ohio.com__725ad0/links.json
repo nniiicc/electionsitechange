@@ -1,14 +1,50 @@
 [
-"http://facebook.com/McCallforOhio",
-"https://censusreporter.org/profiles/62000US39046-state-house-district-46-oh",
-"https://instagram.com/McCallforOhio",
-"https://mccall4ohio.com/",
-"https://mccall4ohio.com/endorsements",
-"https://mccall4ohio.com/home/get-involved",
-"https://mccall4ohio.com/home/meet-benjamin-mccall",
-"https://mccall4ohio.com/home/priorities",
-"https://secure.actblue.com/donate/friends-of-benjamin-mccall-1",
-"https://tinyurl.com/VOLUNTEER-McCallCampaign",
-"https://twitter.com/McCallforOhio",
-"https://twitter.com/mccallforohio"
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/friends-of-benjamin-mccall-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.mccall4ohio.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/McCallforOhio"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.mccall4ohio.com/home/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/McCallforOhio"
+},
+{
+"text": "MEET THE CANDIDATE",
+"href": "https://www.mccall4ohio.com/home/meet-benjamin-mccall/"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.mccall4ohio.com/home/priorities/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/McCallforOhio/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/mccallforohio/"
+},
+{
+"text": "Volunteer / Get a Shirt -",
+"href": "https://tinyurl.com/VOLUNTEER-McCallCampaign"
+},
+{
+"text": "[image: McCall for State Rep Logo]",
+"href": "https://www.mccall4ohio.com"
+},
+{
+"text": "[image]",
+"href": "https://censusreporter.org/profiles/62000US39046-state-house-district-46-oh/"
+}
 ]

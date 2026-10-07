@@ -1,19 +1,14 @@
-Release: Senator John Fetterman Endorses Sarah McBride for Congress
-America’s Tallest Senator & America’s Second Smallest State
-Wilmington, DE — Today, Pennsylvania Senator John Fetterman announced his endorsement of Sarah McBride for Delaware’s at-large congressional seat.
+Invest in Our Mission Dontate now to support Sarah’s bold agenda that benefits workers and families. $10 $25 $100 $250 $500 Other amount Close Facebook Twitter Instagram TikTok Sarah McBride for Congress Menu Home Meet Sarah Priorities Care Economy Climate Change Criminal Justice Reform Delaware’s Agriculture Economy Education and Workforce Development Gun Violence Healthcare Immigration Making Life More Affordable Reproductive Health Care Science & Technology Veterans Voting Rights and American Democracy Workers’ Rights & Strong Unions Results Endorsements News Volunteer Store Donate Press Release Release: Senator John Fetterman Endorses Sarah McBride for Congress April 26, 2024 America’s Tallest Senator & America’s Second Smallest State Wilmington, DE — Today, Pennsylvania Senator John Fetterman announced his endorsement of Sarah McBride for Delaware’s at-large congressional seat.
 “Sarah McBride is a model for the next generation of leaders that our Congress desperately needs.
-She’s led the way in proving that small states can do big things and she’s done it by bringing people together,” said Senator John Fetterman (PA).
+She’s led the way in proving that small states can do big things and she’s done it by bringing people together,” said Senator John Fetterman (PA) .
 “Let’s make history, Delaware.
-And by the way, let’s get a Sheetz in Delaware so I can visit.”
-“I could not be more honored to have the endorsement of Senator Fetterman.
+And by the way, let’s get a Sheetz in Delaware so I can visit.” “I could not be more honored to have the endorsement of Senator Fetterman.
 He has been a champion for working people, fighting to create jobs, expand the union way of life, stop gun violence, and legalize marijuana,” said Sarah McBride of the announcement.
 “Senator Fetterman knows we need leaders who can deliver for both Delaware’s biggest cities and smallest towns.
 In the legislature, I’ve passed legislation that expands access to health care in rural communities, guarantees paid leave, keeps guns out of our schools, and empowers unions.
-I look forward to working with Senator Fetterman to deliver pro-worker policies, good paying jobs, and meaningful investment to our region.”
-Senator Fetterman joins over 25 unions representing thousands of Delaware workers, 21 members of the General Assembly, Planned Parenthood Action Fund, dozens of advocacy groups and Delaware’s current Attorney General Kathy Jennings, Treasurer Colleen Davis, Insurance Commissioner Trinidad Navarro, State Auditor Lydia York, and both the Congressional Progressive Caucus PAC and NewDems Action Fund in endorsing Sarah McBride for Delaware’s at-large Congressional seat.
+I look forward to working with Senator Fetterman to deliver pro-worker policies, good paying jobs, and meaningful investment to our region.” Senator Fetterman joins over 25 unions representing thousands of Delaware workers, 21 members of the General Assembly, Planned Parenthood Action Fund, dozens of advocacy groups and Delaware’s current Attorney General Kathy Jennings, Treasurer Colleen Davis, Insurance Commissioner Trinidad Navarro, State Auditor Lydia York, and both the Congressional Progressive Caucus PAC and NewDems Action Fund in endorsing Sarah McBride for Delaware’s at-large Congressional seat.
 A 2023 poll commissioned by Human Rights Campaign Equality Votes PAC showed McBride with a 20 point lead in the race, leading the primary with 44% of the vote among likely Democratic voters.
-ABOUT SARAH MCBRIDE
-Sarah McBride represents roughly 50,000 Delawareans in the First State Senate District, which includes parts of Wilmington and Brandywine Hundred.
+ABOUT SARAH MCBRIDE Sarah McBride represents roughly 50,000 Delawareans in the First State Senate District, which includes parts of Wilmington and Brandywine Hundred.
 Sarah grew up in Wilmington and has been advocating for her community for decades.
 She worked for former Governor Jack Markell, the late Attorney General Beau Biden, and served in the Obama White House.
 Most recently, she served as the national spokesperson for the Human Rights Campaign, the nation’s largest LGBTQ equal rights organization.
@@ -24,4 +19,13 @@ McBride currently serves as chair of the Senate Health & Social Services Committ
 Sarah married her late husband Andrew Cray in 2014 and is the proud aunt of seven.
 She is a graduate of Cab Calloway School of the Arts and American University.
 McBride has taught public policy at the University of Delaware and is the author of the 2018 memoir, “Tomorrow Will Be Different,” which includes a foreword from President Joe Biden.
-###
+### Get Involved Sign up here to get the latest information on the campaign and how to get involved.
+First name Email address Zip code Mobile number By providing your mobile number, you consent to receive voter contact, donation asks, and informational messages from McBride for Delaware.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Text HELP for help.
+Privacy Policy and Terms .
+Submit Chip in today Contribute to our cause by making a donation to our campaign. $# $# $# $# $# Other amount Sarah McBride for Congress Home Meet Sarah Priorities Care Economy Climate Change Criminal Justice Reform Delaware’s Agriculture Economy Education and Workforce Development Gun Violence Healthcare Immigration Making Life More Affordable Reproductive Health Care Science & Technology Veterans Voting Rights and American Democracy Workers’ Rights & Strong Unions Results Endorsements News Volunteer Store Donate Follow Us: Facebook Twitter Instagram TikTok Donate By Mail McBride for Delaware P.O.
+Box 1904 Wilmington, DE 19899 Paid for by McBride for Delaware, Inc.
+Contact Privacy Policy Made with Middle Seat

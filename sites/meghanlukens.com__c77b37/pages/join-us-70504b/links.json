@@ -1,17 +1,86 @@
 [
-"http://meghanlukens.com/join-us",
-"https://docs.google.com/forms/d/e/1FAIpQLSefr50R7Jpf6ReKcMH-7HoAyIJq_zt6E-DHXCeUh5L4Ay4uMw/viewform?usp=publish-editor",
-"https://docs.google.com/forms/d/e/1FAIpQLSfr6rEHgEcbupr_e00hhmX1D0LVMzytJPas4dh7owCjHuEkhw/viewform",
-"https://facebook.com/MeghanLukensforColorado",
-"https://forms.gle/DE6jLjoPJJjfKnBe6",
-"https://instagram.com/meghanlukensforcolorado",
-"https://meghanlukens.com/",
-"https://meghanlukens.com/about",
-"https://meghanlukens.com/contact",
-"https://meghanlukens.com/en-espanol",
-"https://meghanlukens.com/endorsements",
-"https://meghanlukens.com/issues",
-"https://meghanlukens.us5.list-manage.com/subscribe?u=8fb9e8dae992384184f1839f0&id=c30d007cdd",
-"https://secure.actblue.com/donate/lukens-for-state-rep",
-"https://x.com/MeghanLukens"
+{
+"text": "About",
+"href": "https://meghanlukens.com/about"
+},
+{
+"text": "Contact",
+"href": "https://meghanlukens.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/lukens-for-state-rep"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lukens-for-state-rep"
+},
+{
+"text": "En Español",
+"href": "https://meghanlukens.com/en-espanol"
+},
+{
+"text": "Endorsements",
+"href": "https://meghanlukens.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://meghanlukens.com/"
+},
+{
+"text": "Issues",
+"href": "https://meghanlukens.com/issues"
+},
+{
+"text": "Join Us",
+"href": "http://meghanlukens.com/join-us"
+},
+{
+"text": "Join a Phone Bank",
+"href": "https://forms.gle/DE6jLjoPJJjfKnBe6"
+},
+{
+"text": "Knock doors in Eagle County",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSefr50R7Jpf6ReKcMH-7HoAyIJq_zt6E-DHXCeUh5L4Ay4uMw/viewform?usp=publish-editor"
+},
+{
+"text": "Knock doors in Moffat/Rio Blanco County",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSefr50R7Jpf6ReKcMH-7HoAyIJq_zt6E-DHXCeUh5L4Ay4uMw/viewform?usp=publish-editor"
+},
+{
+"text": "Knock doors in Routt County",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSefr50R7Jpf6ReKcMH-7HoAyIJq_zt6E-DHXCeUh5L4Ay4uMw/viewform?usp=publish-editor"
+},
+{
+"text": "Newsletter",
+"href": "https://meghanlukens.us5.list-manage.com/subscribe?u=8fb9e8dae992384184f1839f0&id=c30d007cdd"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSefr50R7Jpf6ReKcMH-7HoAyIJq_zt6E-DHXCeUh5L4Ay4uMw/viewform?usp=publish-editor"
+},
+{
+"text": "[image: Visit our website]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfr6rEHgEcbupr_e00hhmX1D0LVMzytJPas4dh7owCjHuEkhw/viewform"
+},
+{
+"text": "[image: Visit our website]",
+"href": "https://secure.actblue.com/donate/lukens-for-state-rep"
+},
+{
+"text": "[image: Visit page main]",
+"href": "https://meghanlukens.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MeghanLukensforColorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/meghanlukensforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MeghanLukens"
+}
 ]

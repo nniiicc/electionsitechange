@@ -1,34 +1,17 @@
-CLEAN ENERGY REFORMS
-Environmental Impact
-All clean energy, clean development, and infrastructure initiatives shall have a minimally disruptive, destructive, or minimally negative impact on the environment, to include but not limited to deforestation, disruption of marine life, or polluting the air.
+top of page Log In CLEAN ENERGY REFORMS Previous Next Environmental Impact All clean energy, clean development, and infrastructure initiatives shall have a minimally disruptive, destructive, or minimally negative impact on the environment, to include but not limited to deforestation, disruption of marine life, or polluting the air.
 Furthermore, all expansion, or further investment into fossil fuels, including natural gas, off shore drilling, and especially fracking shall be summarily halted indefinitely.
 Affected industries shall be given government assistance in transitioning business models, and personnel to alternative business efforts.
-Ownership of Clean Energy Rights, Technology, Distribution, Generation, and Supply
-- The United States Federal Government shall unilaterally control the rights, technology, distribution, generation and supply of clean energy to the power grid.
-- All residential and commercial use of energy shall be at cost and replace all current energy billing, or contracts in effect
-- All private entities involved in energy distribution, generation, supply, technological development, or owning the rights shall become federalized
-Solar
-- All current power plants shall convert to solar arrays by 2035
-- Tax credits shall be granted in the form of 2% tax credits, cumulatively, that this transition occurs before 2035.
+Ownership of Clean Energy Rights, Technology, Distribution, Generation, and Supply The United States Federal Government shall unilaterally control the rights, technology, distribution, generation and supply of clean energy to the power grid.
+All residential and commercial use of energy shall be at cost and replace all current energy billing, or contracts in effect All private entities involved in energy distribution, generation, supply, technological development, or owning the rights shall become federalized Solar All current power plants shall convert to solar arrays by 2035 Tax credits shall be granted in the form of 2% tax credits, cumulatively, that this transition occurs before 2035.
 For example, if the transition occurs in 2028, a 14% tax credit shall be granted to those entities until 2035.
-- Tax credits that are earned will dissipate at a rate of 1% per year, after 2035, until normal tax rates are achieved
-- Smart highways shall integrate solar technology
-- Solar farms in desert locations within the United States, shall integrate solar farms that connect to energy grids across the United States, and integrate with the solar technologies of the Smart Highway system
-Wind
-- Wind technologies currently in existence may remain, further development of wind technologies shall be advised in locations where solar technologies, or water turbines would be ineffective.
-Water Turbine
-- Coastal regions, regions with large bodies of water including lakes, rivers, etc. shall integrate water turbine technology, and connect to national power grids, and the Smart Highway System
-Geothermal
-- Regions with significant geothermal activity shall integrate geothermal technologies, that will not disrupt the environment, or cause volcanic activities, and connect to national power grids, and the Smart Highway System, if possible
-Hydrogen
-- Hydrogen fuel technologies shall take precedence in development for vehicles, and machinery wherever possible
-Renewable fuels
-- Renewable fuels, such as corn based fuels, shall be used in conjunction with traditional oil and gas reserves during the transition period into clean energy initiatives
-Nuclear (Thorium)
-- Nuclear energy in the form of Thorium shall be strongly considered as long lasting, minimally radioactive fuel, and battery sources in all applicable areas in which it could be utilized
-- Nuclear power, in the form of nuclear fusion or fission, shall continue to be researched, and developed until it can be utilized safely, and nuclear waste can be rendered safe within 12 months or shorter timeframes.
-Clean Energy Storage and Export
-- The very nature of clean energy is that it will create a surplus of energy that shall be stored in equally environmentally safe manners.
-- The export of energy shall be at a 3:1 ratio until United States energy reserves equal an amount that could run the nations energy needs for a period of at least 10 years without additional energy production.
-- 3:1 in this case means for every 3 Megawatt hours of energy generated, the US may export 1 Megawatt hour worth of energy.
-- After this threshold of 10 years has been met, exports may increase so long as this 10 year minimum is maintained
+Tax credits that are earned will dissipate at a rate of 1% per year, after 2035, until normal tax rates are achieved Smart highways shall integrate solar technology Solar farms in desert locations within the United States, shall integrate solar farms that connect to energy grids across the United States, and integrate with the solar technologies of the Smart Highway system Wind Wind technologies currently in existence may remain, further development of wind technologies shall be advised in locations where solar technologies, or water turbines would be ineffective.
+Water Turbine Coastal regions, regions with large bodies of water including lakes, rivers, etc. shall integrate water turbine technology, and connect to national power grids, and the Smart Highway System Geothermal Regions with significant geothermal activity shall integrate geothermal technologies, that will not disrupt the environment, or cause volcanic activities, and connect to national power grids, and the Smart Highway System, if possible Hydrogen Hydrogen fuel technologies shall take precedence in development for vehicles, and machinery wherever possible Renewable fuels Renewable fuels, such as corn based fuels, shall be used in conjunction with traditional oil and gas reserves during the transition period into clean energy initiatives Nuclear (Thorium) Nuclear energy in the form of Thorium shall be strongly considered as long lasting, minimally radioactive fuel, and battery sources in all applicable areas in which it could be utilized Nuclear power, in the form of nuclear fusion or fission, shall continue to be researched, and developed until it can be utilized safely, and nuclear waste can be rendered safe within 12 months or shorter timeframes.
+Clean Energy Storage and Export The very nature of clean energy is that it will create a surplus of energy that shall be stored in equally environmentally safe manners.
+The export of energy shall be at a 3:1 ratio until United States energy reserves equal an amount that could run the nations energy needs for a period of at least 10 years without additional energy production.
+3:1 in this case means for every 3 Megawatt hours of energy generated, the US may export 1 Megawatt hour worth of energy.
+After this threshold of 10 years has been met, exports may increase so long as this 10 year minimum is maintained STAY INVOLVED Stay updated on Sam's campaign for Congress in Ohio's 15th District.
+Email Address Submit Thanks for subscribing!
+Paid for and owned by SAMUEL RONAN FOR CONGRESS - All Rights Reserved © # Sam Ronan for Congress — Ohio's 15th District.
+Border Crisis America Works Taxation Police Reforms Other Policies Press Releases Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer Facebook Twitter YouTube Get in touch to discuss ways you can get involved.
+Contact Us Volunteer Press Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer More Use tab to navigate through the menu items.
+Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer bottom of page

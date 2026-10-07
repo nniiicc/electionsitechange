@@ -1,23 +1,94 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+in+Abbeville+County&dates=20260913T190000Z%2F20260913T220000Z&location=501+South+Main+Street%2C+Abbeville%2C+South+Carolina%2C+29620%2C+United+States",
-"http://maps.google.com/?q=501+South+Main+Street+Abbeville%2C+South+Carolina%2C+29620+United+States",
-"https://bsky.app/profile/euniceforsc.bsky.social",
-"https://euniceforsc.com/",
-"https://euniceforsc.com/about",
-"https://euniceforsc.com/cart",
-"https://euniceforsc.com/events",
-"https://euniceforsc.com/events/canvassing-in-abbeville-county?format=ical",
-"https://euniceforsc.com/events/meet-greet-with-eunice",
-"https://euniceforsc.com/events/saluda-phone-banking-party",
-"https://euniceforsc.com/ideas",
-"https://euniceforsc.com/news",
-"https://euniceforsc.com/privacy-policy",
-"https://euniceforsc.com/support",
-"https://euniceforsc.com/vote",
-"https://facebook.com/EuniceforSC",
-"https://instagram.com/euniceforsc",
-"https://l.facebook.com/l.php?u=https%3A%2F%2Fforms.gle%2Fc7gTVo9VBjnBdxBs7%3Ffbclid%3DIwcGRvZgVleHRuA2FlbQIxMABzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe3gzdLrHIW_gVUE8w8nIjSuhizzyNXtWfCj-W3pECAj5xYZf-EZz0GFIBqWA_aem_DjJJJYS1hvwN6vG5y5cPvA&h=AUBrOsge8dsJVqcdqfsvHDTS5jCM7SUMEplvSL0v1CUPC-cQ2fljqNzO-o9R6Ijn70EKyXFJpUaG7SzvC1RsUYQ-f2G3GiEkVHj-tSVFpYkR61ZmNIHvpwJWM0-uQQCCOKH0YqPk3PvmP3UtAuXV379fLBGrk0L-&__tn__=q&c%5B0%5D=AUCBHjNM8uNePJXpmotIL7_0i5_PgtLf2AiGcitQsCKMyAXjD-a31c-qYsn7Xg6pAaM6lcTqNg6tWnyKKijjhXTg4Piwd4hSXmrpiV5f_Bxhkw2FtqC6cvjt_q1cfkb-0KsAa1dljiGbKCoqxvmurc2wa5_C1pVabL8",
-"https://secure.actblue.com/donate/eunice-lehmacher-1",
-"https://tiktok.com/@euniceforsc",
-"https://youtube.com/@euniceforsc4284"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=501+south+main+street+abbeville%2C+south+carolina%2C+29620+united+states"
+},
+{
+"text": "0",
+"href": "https://www.euniceforsc.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.euniceforsc.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.euniceforsc.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/eunice-lehmacher-1"
+},
+{
+"text": "Events",
+"href": "https://www.euniceforsc.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+in+Abbeville+County&dates=20260913T190000Z%2F20260913T220000Z&location=501+South+Main+Street%2C+Abbeville%2C+South+Carolina%2C+29620%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.euniceforsc.com/events/canvassing-in-abbeville-county?format=ical"
+},
+{
+"text": "Ideas",
+"href": "https://www.euniceforsc.com/ideas"
+},
+{
+"text": "News",
+"href": "https://www.euniceforsc.com/news"
+},
+{
+"text": "Next Next September 19 Meet & Greet in Greenwood County",
+"href": "https://www.euniceforsc.com/events/meet-greet-with-eunice"
+},
+{
+"text": "Previous Previous September 12 Saluda Phone Banking Party",
+"href": "https://www.euniceforsc.com/events/saluda-phone-banking-party"
+},
+{
+"text": "Privacy Policy",
+"href": "https://euniceforsc.com/privacy-policy"
+},
+{
+"text": "Support",
+"href": "https://www.euniceforsc.com/support"
+},
+{
+"text": "Vote",
+"href": "https://www.euniceforsc.com/vote"
+},
+{
+"text": "[image: Eunice for SC]",
+"href": "https://www.euniceforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/euniceforsc.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/euniceforsc"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EuniceforSC/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@euniceforsc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@euniceforsc4284"
+},
+{
+"text": "[no text]",
+"href": "mailto:EuniceForSC@gmail.com"
+},
+{
+"text": "here",
+"href": "https://l.facebook.com/l.php?u=https%3A%2F%2Fforms.gle%2Fc7gTVo9VBjnBdxBs7%3Ffbclid%3DIwcGRvZgVleHRuA2FlbQIxMABzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe3gzdLrHIW_gVUE8w8nIjSuhizzyNXtWfCj-W3pECAj5xYZf-EZz0GFIBqWA_aem_DjJJJYS1hvwN6vG5y5cPvA&h=AUBrOsge8dsJVqcdqfsvHDTS5jCM7SUMEplvSL0v1CUPC-cQ2fljqNzO-o9R6Ijn70EKyXFJpUaG7SzvC1RsUYQ-f2G3GiEkVHj-tSVFpYkR61ZmNIHvpwJWM0-uQQCCOKH0YqPk3PvmP3UtAuXV379fLBGrk0L-&__tn__=q&c%5B0%5D=AUCBHjNM8uNePJXpmotIL7_0i5_PgtLf2AiGcitQsCKMyAXjD-a31c-qYsn7Xg6pAaM6lcTqNg6tWnyKKijjhXTg4Piwd4hSXmrpiV5f_Bxhkw2FtqC6cvjt_q1cfkb-0KsAa1dljiGbKCoqxvmurc2wa5_C1pVabL8"
+}
 ]

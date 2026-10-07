@@ -1,9 +1,16 @@
 {
  "description": "Vince Deeds is running for Re-Election to the West Virginia State Senate, District 10 representing Greenbrier, Nicholas, Summers, Monroe and part of Fayette County.",
  "final_url": "https://deeds4wv.com/",
- "paid_for_by": null,
+ "fingerprint": "3a2f9b6b3808e5e7bff3b3a427ad07bfa74f97d6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Vince Deeds",
  "years_mentioned": [
-  "2022"
+  "2015",
+  "2016",
+  "2017",
+  "2018",
+  "2022",
+  "2025"
  ]
 }

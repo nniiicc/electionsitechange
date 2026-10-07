@@ -1,21 +1,114 @@
 [
-"https://bonfire.com/store/cook-for-alabama",
-"https://cookforalabama.com/",
-"https://cookforalabama.com/about",
-"https://cookforalabama.com/contact",
-"https://cookforalabama.com/district-43",
-"https://cookforalabama.com/endorsements",
-"https://cookforalabama.com/events",
-"https://cookforalabama.com/issues",
-"https://cookforalabama.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/cookforalabama",
-"https://instagram.com/cookforalabama",
-"https://myinfo.alabamavotes.gov/VoterView",
-"https://secure.actblue.com/donate/cookforalabama",
-"https://sos.alabama.gov/alabama-votes/voter/absentee-voting",
-"https://sos.alabama.gov/alabama-votes/voter/register-to-vote",
-"https://substack.com/@cookforalabama",
-"https://threads.net/@cookforalabama",
-"https://tiktok.com/@cookforalabama"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/cookforalabama"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/cookforalabama"
+},
+{
+"text": "$200",
+"href": "https://secure.actblue.com/donate/cookforalabama"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/cookforalabama"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/cookforalabama"
+},
+{
+"text": "About",
+"href": "https://www.cookforalabama.com/about"
+},
+{
+"text": "About me",
+"href": "https://www.cookforalabama.com/about"
+},
+{
+"text": "Check your voter registration",
+"href": "https://myinfo.alabamavotes.gov/VoterView"
+},
+{
+"text": "Contact",
+"href": "https://www.cookforalabama.com/contact"
+},
+{
+"text": "District 43",
+"href": "https://www.cookforalabama.com/district-43"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cookforalabama"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cookforalabama.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.cookforalabama.com/events"
+},
+{
+"text": "Learn More",
+"href": "https://www.cookforalabama.com/issues"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/cookforalabama"
+},
+{
+"text": "Platform",
+"href": "https://www.cookforalabama.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://www.sos.alabama.gov/alabama-votes/voter/register-to-vote"
+},
+{
+"text": "Request an absentee ballot",
+"href": "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting"
+},
+{
+"text": "Store",
+"href": "https://bonfire.com/store/cook-for-alabama/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cookforalabama.com/volunteer"
+},
+{
+"text": "[image: Cook for Alabama logo]",
+"href": "https://www.cookforalabama.com/"
+},
+{
+"text": "[image: Cook for Alabama]",
+"href": "https://www.cookforalabama.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://substack.com/@cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@cookforalabama"
+}
 ]

@@ -1,20 +1,86 @@
 [
-"https://facebook.com/FlintReport",
-"https://flintformontana.com/",
-"https://flintformontana.com/about",
-"https://flintformontana.com/contact",
-"https://flintformontana.com/get-involved",
-"https://flintformontana.com/issues",
-"https://flintformontana.com/news",
-"https://flintformontana.com/privacy-policy",
-"https://instagram.com/aaronflintmt?hl=en",
-"https://secure.winred.com/flint-for-montana/storefront",
-"https://secure.winred.com/flint-for-montana/website",
-"https://secure.winred.com/flint-for-montana/website?amount=100",
-"https://secure.winred.com/flint-for-montana/website?amount=15",
-"https://secure.winred.com/flint-for-montana/website?amount=25",
-"https://secure.winred.com/flint-for-montana/website?amount=5",
-"https://secure.winred.com/flint-for-montana/website?amount=50",
-"https://x.com/aaronflint",
-"https://youtube.com/@flintformontana"
+{
+"text": "$100",
+"href": "https://secure.winred.com/flint-for-montana/website?amount=100"
+},
+{
+"text": "$15",
+"href": "https://secure.winred.com/flint-for-montana/website?amount=15"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/flint-for-montana/website?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.winred.com/flint-for-montana/website?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/flint-for-montana/website?amount=50"
+},
+{
+"text": "About",
+"href": "https://flintformontana.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://flintformontana.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/flint-for-montana/website"
+},
+{
+"text": "Get Involved",
+"href": "https://flintformontana.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://flintformontana.com/"
+},
+{
+"text": "Issues",
+"href": "https://flintformontana.com/issues/"
+},
+{
+"text": "News",
+"href": "https://flintformontana.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/flint-for-montana/website"
+},
+{
+"text": "Privacy Policy",
+"href": "https://flintformontana.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/flint-for-montana/storefront"
+},
+{
+"text": "Terms & conditions / privacy policy apply",
+"href": "https://flintformontana.com/privacy-policy/"
+},
+{
+"text": "[image: Flint for Montana]",
+"href": "https://flintformontana.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/FlintReport/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/aaronflintmt/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@flintformontana"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/aaronflint"
+}
 ]

@@ -1,34 +1,23 @@
-Gerry in the News
-Jun 16, 2026
-Shoreline college failed to investigate former Everett teacher, other applicants
-HeraldNet
-Washington state Rep.
+top of page About Gerry Issues Endorsements News Media More Use tab to navigate through the menu items.
+DONATE Gerry in the News Jul 28, 2026 Overcrowded and unsafe, WA youth prisons offer scant rehabilitation The Seattle Times State Rep.
+Gerry Pollet, chairing the mid-July hearing where the report was presented, shook his head, seemingly stunned.
+He called it a “serious critique.” He used the terms “dismal” and “failing.” Read More Jul 9, 2026 Seattle Times endorsements, WA primary 2026: 46th Legislative District, Position 1 At a time of political challenge and change, voters in North Seattle would do well to return Democrat Gerry Pollet to Olympia.
+Read More Jun 16, 2026 Shoreline college failed to investigate former Everett teacher, other applicants HeraldNet Washington state Rep.
 Gerry Pollet, D-Seattle, who spearheaded the 2020 law, said he is disappointed that Shoreline Community College never implemented it and that the attorney general’s office failed to ensure compliance.
-Apr 4, 2026
-Washington state stopped funding cooperative preschool and parent education programs
-King5
-"The state board never mentioned to us that their new internal funding model would eliminate these programs," said State Representative Gerry Pollet, who attended a community meeting Saturday at a Phinney Ridge community hall packed with frustrated families.
-"We went through the entire legislative session... and they never said that to us."
-Apr 16, 2025
-Washington takes ‘historic’ step toward full funding for special education
-Washington State Standard
-Rep.
+Read More May 22, 2026 ‘Get the Lead Out’ law lags in testing, postponing results for lead found in schools’ water KIRO 7 Lead is still being found in school drinking water taps, and some schools have not been tested, prompting outrage from parents and lawmakers Read More Apr 20, 2026 Promise of tribal homeownership in WA remains unfulfilled The Seattle Times As the bill’s prime sponsor, Rep.
+Gerry Pollet, noted, the commission’s legislative hearing testimony was “incredibly misleading,” framing the bill as a burden on tribes when it targeted investment banks.
+Read More Apr 4, 2026 Washington state stopped funding cooperative preschool and parent education programs King5 "The state board never mentioned to us that their new internal funding model would eliminate these programs," said State Representative Gerry Pollet, who attended a community meeting Saturday at a Phinney Ridge community hall packed with frustrated families.
+"We went through the entire legislative session... and they never said that to us." Read More Apr 16, 2025 Washington takes ‘historic’ step toward full funding for special education Washington State Standard Rep.
 Gerry Pollet, D-Seattle, who called the cap “unconscionable and maybe unconstitutional,” said its elimination is “a historic achievement.” It commits the state to amply fund the education of every child with a disability, he said....
-Feb 15, 2024
-Washington lawmakers again look to increase special education funding
-Washington State Standard
-Democratic Rep.
+Read More Jan 3, 2025 The Stranger’s 2025 Bill Tracker The Stranger Fully funding special education: Rep.
+Gerry Pollet plans to persist this session with his bill to fully fund special education in Washington’s public schools.
+Read More Mar 29, 2024 Washington becomes first state to ban lead in cookware MyNorthwest The bill, sponsored by Rep.
+Gerry Pollet (D-46), officially bans any manufacturing or sales of cookware or related components that contain more than five parts per million (ppm) of lead by 2026...
+Read More Feb 15, 2024 Washington lawmakers again look to increase special education funding Washington State Standard Democratic Rep.
 Gerry Pollet of Seattle, chief sponsor of HB 2180, said “it’s unconscionable and probably unconstitutional” that Washington does not fund special education for every child who needs it...
-Jan 27, 2024
-Pair of proposed bills would offer free community college to eligible Washington students
-The Spokesman-Review
-Pollet and a group of his fellow lawmakers hope to turn those bleak numbers around with a pair of bills aiming to increase the number of Washingtonians who submit a Free Application for Federal Student Aid (FAFSA) or a Washington Application for State Financial Aid (WAFSA)...
-Dec 19, 2023
-Producers of Toxic Chemicals in Schools Owe Hundreds of Millions in Damages, Jury Says
-EducationWeek
-Pollet said he hopes the latest verdict will spur his lawmaker colleagues to support overturning a longstanding but obscure budget item that prevents the state board of health from revising its guidance on measures schools should take to protect community health...
-Nov 10, 2023
-‘Rent-to-own’ programs will be audited after WA lawmakers raise concerns
-The Seattle Times
-Reps.
+Read More Jan 27, 2024 Pair of proposed bills would offer free community college to eligible Washington students The Spokesman-Review Pollet and a group of his fellow lawmakers hope to turn those bleak numbers around with a pair of bills aiming to increase the number of Washingtonians who submit a Free Application for Federal Student Aid (FAFSA) or a Washington Application for State Financial Aid (WAFSA)...
+Read More Dec 19, 2023 Producers of Toxic Chemicals in Schools Owe Hundreds of Millions in Damages, Jury Says EducationWeek Pollet said he hopes the latest verdict will spur his lawmaker colleagues to support overturning a longstanding but obscure budget item that prevents the state board of health from revising its guidance on measures schools should take to protect community health...
+Read More Nov 10, 2023 ‘Rent-to-own’ programs will be audited after WA lawmakers raise concerns The Seattle Times Reps.
 Gerry Pollet, D-Seattle, and Chris Stearns, D-Auburn, asked McCarthy to probe the housing finance commission’s oversight of tax-credit programs that are supposed to guarantee homeownership after 15 years and that have been used to develop low-income housing by a number of Native American tribes...
+Read More Join Our Email List Submit Thanks for submitting!
+7750 17th Ave NE Seattle, WA 98115 info@gerrypollet.com Paid for by Gerry Pollet for State Representative bottom of page

@@ -1,28 +1,15 @@
-Homelessness
-Billions Spent, Crisis Unchanged
-Mike Fong identified reducing homelessness as a key priority, yet despite billions in statewide investments, including tens of billions over recent years, California's homelessness crisis persists with immeasurable progress.
+top of page Home Blog Blog Post Issue Comparison Blog Post Issue Comparison Issues Media Contact Us Endorsements Media Press DONATE Blog Post Issue Comparison Homelessness Long Liu Office Apr 2 3 min read Billions Spent, Crisis Unchanged Mike Fong identified reducing homelessness as a key priority, yet despite billions in statewide investments, including tens of billions over recent years, California's homelessness crisis persists with immeasurable progress.
 Rates have remained stubbornly high or shown negligible declines.
 This process has been plagued by over-bureaucratization of the system, making necessary reforms inefficient, unnecessarily expensive, and slow to deliver tangible results on the streets where families and communities need them most.
-Senate Bill 178 & Senate Bill 198 (2023-2024)
-Your Tax Dollars, Their Accountability: Spent
-As a member of the Budget and Appropriations committees, Mike Fong supported the SB 178 and SB 198 state budget packages that allocated billions of dollars to homeless programs.
+Senate Bill 178 & Senate Bill 198 (2023-2024) Your Tax Dollars, Their Accountability: Spent As a member of the Budget and Appropriations committees, Mike Fong supported the SB 178 and SB 198 state budget packages that allocated billions of dollars to homeless programs.
 The California State Auditor had later concluded that California failed to track whether the billions in spending attempted to aid the pervasive homelessness issue, and the Howard Jarvis Taxpayers Association pointed to this case as a hallmark of “waste, fraud, or mismanagement” due to the one-party government often allowing complex fiscal legislation through the door without proper independent oversight.
-Assembly Bill 1738 (2023-2024)
-Redundant Ids, Rising Costs
-Mike Fong voted yes on AB 1738, which sought to provide homeless people with identification cards for a step toward societal integration.
+Assembly Bill 1738 (2023-2024) Redundant Ids, Rising Costs Mike Fong voted yes on AB 1738, which sought to provide homeless people with identification cards for a step toward societal integration.
 Though the bill didn’t pass, Fong failed to consider that the DMV already issues approximately 120,000 no-fee ID cards to homeless people, and that requiring additional identification cards would place an unbearable burden on the DMV as is.
-This further goes to show Mike Fong’s instinct goes to expansionary spending or simply throwing money at a problem until it goes away, rather than real, lasting change.
-Picture:
-Assembly Bill 2011 (2021-2022)
-Promises Made, Housing Delayed
-Mike Fong co-authored and voted yes on AB 2011, which was meant to streamline the process for mixed-income and affordable housing throughout the state.
+This further goes to show Mike Fong’s instinct goes to expansionary spending or simply throwing money at a problem until it goes away, rather than real, lasting change. https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1738 Picture: Assembly Bill 2011 (2021-2022) Promises Made, Housing Delayed Mike Fong co-authored and voted yes on AB 2011, which was meant to streamline the process for mixed-income and affordable housing throughout the state.
 In practice, little to no new affordable housing has been built due to the high cost of construction; the process is further slowed, and the focus is on major metropolitan areas such as Los Angeles and San Francisco.
 At the same time, it would be easier and cheaper to build in more inland areas such as Pomona.
 Overall, this project has left Californians disappointed.
-Given the immense investment people have made, only to receive minimal to no relief for housing for mixed-to low-income individuals, who could blame them.
-Picture:
-David’s Statement
-We will use Grants Pass v.
+Given the immense investment people have made, only to receive minimal to no relief for housing for mixed-to low-income individuals, who could blame them. https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220AB2011 Picture: David’s Statement We will use Grants Pass v.
 Johnson to clear homeless encampments on our streets.
 We will audit where the $24 billion spent on homelessness over the past five years went.
 We will construct emergency shelters to house the homeless and reintegrate them into society.
@@ -30,3 +17,4 @@ I am committed to implementing practical, effective solutions to homelessness by
 Leveraging law enforcement where appropriate to clear encampments safely and ensure public spaces remain usable, while pairing that with humane, recovery-focused support, such as treatment, job training, and stable housing pathways.
 I will help create real roads to recovery for those struggling.
 Drawing from my over twenty years as an attorney serving underserved communities, I will approach prioritizing efficiency and results to end the cycle of homelessness without endless, ineffective spending, restoring dignity and safety for everyone in our neighborhoods.
+Issue Comparison Recent Posts See All Affordability Election Integrity Taxes 加州第49選區州眾議員競選 davidliucampaign@gmail.com © # 劉朗大衛州眾議員競選委員會。由劉朗大衛競選團隊支付。 bottom of page

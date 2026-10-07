@@ -1,7 +1,11 @@
 {
  "description": "Jan Aspelund Campaign Events",
  "final_url": "https://janassemblynv23.com/Events?range=2026-10",
- "paid_for_by": null,
+ "fingerprint": "cd2ad0741cc806f7c86125a65302437b02a1e989",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Jan Aspelund Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,24 +1,29 @@
-PRESS RELEASE
-Congressman Pfluger Agrees to Debate Claire Reynolds as Concerns Mount On His Record in Washington
-RELEASE: Congressman August Pfluger Agrees to Debate Claire Reynolds as Concerns Mount On His Record in Washington
-On October 5th, Claire Reynolds will put Pfluger’s record on stock trading, data centers and representation of TX-11 directly before voters.
+Skip navigation menu Meet Claire News Issues Press Kit Get Involved Español Donate Meet Claire News Issues Press Kit Get Involved Español Donate NEWS ARTICLE Claire Reynolds Searches for Blue Dots in West Texas PODCAST Claire on Wait What?!
+NEWS ARTICLE Democrats Hammer on Data Centers, Local Control PRESS RELEASE Reynolds Demands Pfluger Act After Fatal ICE Shootings YouTube Video Claire Reynolds Addresses Texas Democratic Convention Podcast Claire Reynolds on Progress Texas: Fighting for West Texas, Holding Power Accountable NEWS ARTICLE Republican Congress Extends Shutdown Through April NEWS ARTICLE Claire Reynolds Wins Democratic Nomination for TX-11 NEWS ARTICLE Meet the candidates in Texas’ 11th Congressional District NEWS ARTICLE Travis County Republicans Delay Primary Returns NEWS ARTICLE Stephen Colbert blasts CBS for nixing James Talarico interview NEWS ARTICLE August Pfluger Blames Democrats for Minneapolis Tragedies NEWS ARTICLE After Anti-ICE School Walkout, Midland ISD Police Seek to Identify Organizers PRESS RELEASE Reynolds Vows Legal Defense for Midland Students Following Anti-ICE Walk-Out NEWS ARTICLE Pfluger Won't Speak Truth to Power NEWS ARTICLE Reynolds Wins NorthEast Travis County Democrats Endorsement NEWS ARTICLE Claire Reynolds Wants Congress to do its Job NEWS ARTICLE Reynolds Wins Liberal Austin Democrats Endorsement NEWS ARTICLE Democrat Claire Reynolds Challenges Republican August Pfluger PRESS RELEASE Claire Reynolds Clears Key Early Fundraising Benchmark in First FEC Filing NEWS ARTICLE Texas Tribune's Primary Voter Guide NEWS ARTICLE Which January 6 Traitors Can We Vote Out This Year?
+PRESS RELEASE Attorney and Ethics Watchdog Claire Reynolds Announces 11th District Run in Texas NEWS ARTICLE Democrats Hoping for a Comeback, Again NEWS ARTICLE USPS changes may delay postmark dates, affecting mail-in ballots, tax payments News Texas Democrats fill every state and federal race on 2026 ballot, a first for either party NEWS ARTICLE Claire Reynolds on West Texas Data Center Fight: "You Are the Employers" NEWS ARTICLE A Representative's Loyalty Is to the District, Not the Party NEWS ARTICLE It's Dems vs.
+Goliaths on the Campaign Trail PRESS RELEASE Congressman Pfluger Agrees to Debate Claire Reynolds as Concerns Mount On His Record in Washington NEWS ARTICLE "Uncharted territory": Two months from Election Day, Democrats in Texas are truly competitive NEWS VIDEO Permian Basin Central Labor Union holds 70th annual Labor Day luncheon NEWS ARTICLE "Up Against a 500-Pound Gorilla": Can Dems Make Inroads in Deep-Red West Texas?
+Podcast Pod Save America: Choosin' Texas with Bobby Pulido NEWS ARTICLE Democrat Claire Reynolds says accountability drives bid for Texas District 11 Editorial Endorsement Reynolds offers U.S.
+House 11 a stronger Central Texas voice Youtube / PBS Texas Congressional District 11 Debate Sep 14 2026 PRESS RELEASE Congressman Pfluger Agrees to Debate Claire Reynolds as Concerns Mount On His Record in Washington RELEASE: Congressman August Pfluger Agrees to Debate Claire Reynolds as Concerns Mount On His Record in Washington On October 5th, Claire Reynolds will put Pfluger’s record on stock trading, data centers and representation of TX-11 directly before voters.
 The debate will be LIVE on Basin PBS channels 13 or 36, on the Basin PBS Facebook page and YouTube Channel from 7pm-8pm CST.
 MIDLAND, TX — Congressman August Pfluger and Democratic nominee Claire Reynolds will face off October 5 in a debate hosted by Basin PBS, giving voters across Texas’ 11th Congressional District the opportunity to hear directly from both candidates about their records, priorities and plans for the district.
 This confirmation is the first set debate of any federal candidates in Texas this election cycle.
 For Pfluger, the debate comes after nearly six years in Washington and three uncontested elections, as his own townhalls indicate growing concerns about whose interests his time in Congress has served.
-Pfluger has continued trading individual stocks while serving in Congress, including investments connected to the energy industry, while becoming the oil and gas industry’s largest benefactor in Washington.
+Pfluger has continued trading individual stocks while serving in Congress, including investments connected to the energy industry, while becoming the oil and gas industry’s largest benefactor in Washington .
 At the same time, communities across TX-11 are confronting rising health care costs, threats to rural hospitals, water shortages and a rapidly expanding data center industry placing new demands on Texas’ power grid and water supply.
 On October 5, Reynolds says voters should expect answers.
 “Congressman Pfluger has had six years in Washington.
 Now we get to put his record next to the reality people are living every day across this district,” said Reynolds.
-“If Washington is working so well for the people he represents, he should be able to show us how.”
-Reynolds has made affordability, government accountability, rural health care, clean water, and support for veterans and energy workers central themes in her campaign.
+“If Washington is working so well for the people he represents, he should be able to show us how.” Reynolds has made affordability, government accountability, rural health care, clean water, and support for veterans and energy workers central themes in her campaign.
 A lawyer with more than 25 years of experience, including work enforcing professional ethics standards, Reynolds has argued that members of Congress should be held to the same basic standard as everyone else: do the job, follow the rules, and answer to the people you work for.
 “People across this district know that our current leaders aren’t working for us,” Reynolds said.
 “We deserve a representative in Congress who will actually do something about rising health care costs, struggling rural hospitals, threats to our water and power, and a system that still lets members of Congress trade individual stocks.
-That’s the job.”
-“On October 5, I look forward to answering questions from voters across TX-11 and presenting a better choice: leadership that is responsive, accountable, and answers to the people — not special interests.”
-The debate will be hosted by Basin PBS on October 5, live from a studio in Midland.
+That’s the job.” “On October 5, I look forward to answering questions from voters across TX-11 and presenting a better choice: leadership that is responsive, accountable, and answers to the people — not special interests.” The debate will be hosted by Basin PBS on October 5, live from a studio in Midland.
 Additional details regarding broadcast time, format and viewing options will be announced by the host.
 Broadcast and media partners interested in carrying or syndicating the debate on their stations can request additional information and distribution details from Basin PBS.
-# # #
+# # # Make checks payable to: Claire Reynolds for Congress P.O.
+Box 200753 Austin, TX 78720 (please include your job title and employer) info@clairereynoldsforcongress.org By submitting your mobile number, you consent to receive voting and donation messages from Claire Reynolds for Congress.
+Msg & data rates may apply.
+Msg frequency varies.
+Text HELP for help, STOP to Opt Out.
+Privacy Policy .
+For Press Inquiries, contact press@clairereynoldsforcongress.org Powered by RUN! website builder Paid for by Claire Reynolds for Congress You need to enable JavaScript to run this app.

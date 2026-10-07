@@ -1,4 +1,3 @@
-Elections
-Elections have consequences, election integrity matters and no-excuse mail-in ballots are problematic.
+Home Meet Joseph Issues News Volunteer Contribute Home ❭ Issues ❭ Elections Elections Elections have consequences, election integrity matters and no-excuse mail-in ballots are problematic.
 To restore safeguards to our elections, I will champion and stand up for voter ID, clean voter lists, paper ballots, and full audits so every vote counts.
-Not only do residents of our district need to trust our elections, but so do others who reside in the Commonwealth.
+Not only do residents of our district need to trust our elections, but so do others who reside in the Commonwealth. « Previous: School and Property Tax Events Contribute Volunteer Yard Signs Voter Information Contact Home Privacy Policy Paid For By The Friends Of Joe Sabia Powered by CampaignPartner.com - Political Websites Home Meet Joseph Issues News Volunteer Contribute Events Contact Yard Signs Voter Information Privacy Policy Close Menu

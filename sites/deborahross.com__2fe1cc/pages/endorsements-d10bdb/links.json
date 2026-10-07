@@ -1,56 +1,226 @@
 [
-"http://aflcionc.org/",
-"http://indyweek.com/",
-"http://newdemactionfund.com/",
-"http://southeasterncarpenters.org/",
-"http://ufcw1208.org/",
-"https://account.newsobserver.com/paywall/subscriber-only?resume=240308851%2F",
-"https://actionnetwork.org/groups/csgv",
-"https://actionnetwork.org/groups/ncvaw",
-"https://af.lcv.org/page/content/home",
-"https://afacwa.org/",
-"https://afge.org/",
-"https://atu.org/",
-"https://blackeconomicalliance.org/",
-"https://boldpac.com/",
-"https://bradyunited.org/",
-"https://cwapolitical.org/",
-"https://deborahross.com/",
-"https://deborahross.com/category/endorsements",
-"https://deborahross.com/endorsed-by-equality-nc",
-"https://deborahross.com/endorsed-by-giffords",
-"https://deborahross.com/endorsed-by-nasw",
-"https://deborahross.com/endorsed-by-nc-state-afl-cio",
-"https://deborahross.com/endorsed-by-ncaat-in-action",
-"https://deborahross.com/endorsed-by-the-human-rights-campaign-pac",
-"https://deborahross.com/endorsements",
-"https://deborahross.com/meet-deborah-ross",
-"https://deborahross.com/priorities",
-"https://deborahross.com/privacy-policy",
-"https://deborahross.com/updates",
-"https://emilyslist.org/",
-"https://equalitync.org/",
-"https://everytown.org/",
-"https://facebook.com/RossForNorthCarolina",
-"https://giffords.org/",
-"https://gunsensevoter.org/",
-"https://hrc.org/",
-"https://humaneaction.org/",
-"https://instagram.com/deborahrossnc",
-"https://iupat.org/",
-"https://ncaatinaction.org/",
-"https://ncae.org/",
-"https://ncdp.org/people/aapi",
-"https://ncpssm.org/",
-"https://nowpac.org/",
-"https://nwpc.org/",
-"https://plannedparenthoodaction.org/",
-"https://prochoiceamerica.org/",
-"https://retiredamericans.org/",
-"https://seanc.org/",
-"https://secure.actblue.com/donate/deborah-ross-5",
-"https://sierraclub.org/north-carolina",
-"https://socialworkers.org/",
-"https://twitter.com/DeborahRossNC",
-"https://voteprochoice.us/"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/deborah-ross-5"
+},
+{
+"text": "Endorsed by Equality NC",
+"href": "https://deborahross.com/endorsed-by-equality-nc/"
+},
+{
+"text": "Endorsed by GIFFORDS",
+"href": "https://deborahross.com/endorsed-by-giffords/"
+},
+{
+"text": "Endorsed by NASW",
+"href": "https://deborahross.com/endorsed-by-nasw/"
+},
+{
+"text": "Endorsed by NC State AFL-CIO",
+"href": "https://deborahross.com/endorsed-by-nc-state-afl-cio/"
+},
+{
+"text": "Endorsed by NCAAT in Action",
+"href": "https://deborahross.com/endorsed-by-ncaat-in-action/"
+},
+{
+"text": "Endorsed by the Human Rights Campaign PAC",
+"href": "https://deborahross.com/endorsed-by-the-human-rights-campaign-pac/"
+},
+{
+"text": "Endorsements",
+"href": "https://deborahross.com/endorsements/"
+},
+{
+"text": "Meet Deborah",
+"href": "https://deborahross.com/meet-deborah-ross/"
+},
+{
+"text": "Priorities",
+"href": "https://deborahross.com/priorities/"
+},
+{
+"text": "Read More »",
+"href": "https://deborahross.com/endorsed-by-equality-nc/"
+},
+{
+"text": "Read More »",
+"href": "https://deborahross.com/endorsed-by-giffords/"
+},
+{
+"text": "Read More »",
+"href": "https://deborahross.com/endorsed-by-nasw/"
+},
+{
+"text": "Read More »",
+"href": "https://deborahross.com/endorsed-by-nc-state-afl-cio/"
+},
+{
+"text": "Read More »",
+"href": "https://deborahross.com/endorsed-by-ncaat-in-action/"
+},
+{
+"text": "Read More »",
+"href": "https://deborahross.com/endorsed-by-the-human-rights-campaign-pac/"
+},
+{
+"text": "See All Endorsement Updates »",
+"href": "https://deborahross.com/category/endorsements/"
+},
+{
+"text": "Updates",
+"href": "https://deborahross.com/updates/"
+},
+{
+"text": "[image: # Vote Pro Choice]",
+"href": "https://www.voteprochoice.us/"
+},
+{
+"text": "[image: * American Federation of Government Employees]",
+"href": "https://www.afge.org/"
+},
+{
+"text": "[image: Amalgamated Transit Union]",
+"href": "https://www.atu.org/"
+},
+{
+"text": "[image: Bold Democrats Logo]",
+"href": "https://www.boldpac.com/"
+},
+{
+"text": "[image: Brady Campaign Endorsed]",
+"href": "https://www.bradyunited.org/"
+},
+{
+"text": "[image: Communications Workers of America PAC]",
+"href": "https://cwapolitical.org/"
+},
+{
+"text": "[image: Emily's List]",
+"href": "https://www.emilyslist.org/"
+},
+{
+"text": "[image: Equality NC]",
+"href": "https://equalitync.org/"
+},
+{
+"text": "[image: Giffords Political Action Committee]",
+"href": "https://giffords.org/"
+},
+{
+"text": "[image: Human Rights Campaign PAC]",
+"href": "https://www.hrc.org/"
+},
+{
+"text": "[image: Indy Week]",
+"href": "http://indyweek.com/"
+},
+{
+"text": "[image: LCV Action Fund]",
+"href": "https://af.lcv.org/page/content/home//"
+},
+{
+"text": "[image: NARAL Pro-Choice America]",
+"href": "https://www.prochoiceamerica.org/"
+},
+{
+"text": "[image: NC State AFL CIO]",
+"href": "http://aflcionc.org/"
+},
+{
+"text": "[image: National Committee to Preserve Social Security and Medicare PAC]",
+"href": "https://www.ncpssm.org/"
+},
+{
+"text": "[image: National Organization for Women Political Action Committee (NOW PAC)]",
+"href": "https://www.nowpac.org/"
+},
+{
+"text": "[image: National Women's Political Caucus Logo]",
+"href": "https://www.nwpc.org/"
+},
+{
+"text": "[image: NewDems Action Fund]",
+"href": "http://newdemactionfund.com/"
+},
+{
+"text": "[image: North Carolina Association of Educators]",
+"href": "https://www.ncae.org/"
+},
+{
+"text": "[image: Sierra Club North Carolina]",
+"href": "https://www.sierraclub.org/north-carolina"
+},
+{
+"text": "[image: Southeastern Carpenters Regional Council]",
+"href": "http://southeasterncarpenters.org/"
+},
+{
+"text": "[image: State Employees Association of North Carolina]",
+"href": "https://www.seanc.org"
+},
+{
+"text": "[image: The Coalition to Stop Gun Violence]",
+"href": "https://actionnetwork.org/groups/csgv"
+},
+{
+"text": "[image: The News and Observer]",
+"href": "https://account.newsobserver.com/paywall/subscriber-only?resume=240308851%2F"
+},
+{
+"text": "[image: UFCW Local 1208]",
+"href": "http://www.ufcw1208.org/"
+},
+{
+"text": "[image]",
+"href": "https://actionnetwork.org/groups/ncvaw"
+},
+{
+"text": "[image]",
+"href": "https://blackeconomicalliance.org/"
+},
+{
+"text": "[image]",
+"href": "https://deborahross.com"
+},
+{
+"text": "[image]",
+"href": "https://gunsensevoter.org/"
+},
+{
+"text": "[image]",
+"href": "https://humaneaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://ncaatinaction.org"
+},
+{
+"text": "[image]",
+"href": "https://retiredamericans.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.afacwa.org"
+},
+{
+"text": "[image]",
+"href": "https://www.everytown.org"
+},
+{
+"text": "[image]",
+"href": "https://www.iupat.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.ncdp.org/people/aapi/"
+},
+{
+"text": "[image]",
+"href": "https://www.plannedparenthoodaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.socialworkers.org/"
+}
 ]

@@ -1,9 +1,34 @@
 [
-"https://cherylwilliamsforjudge.com/",
-"https://cherylwilliamsforjudge.com/about",
-"https://cherylwilliamsforjudge.com/contact",
-"https://cherylwilliamsforjudge.com/donate",
-"https://cherylwilliamsforjudge.com/privacy-policy",
-"https://cherylwilliamsforjudge.com/rsvp",
-"https://cherylwilliamsforjudge.com/voting-info"
+{
+"text": "About",
+"href": "https://cherylwilliamsforjudge.com/about"
+},
+{
+"text": "Contact",
+"href": "https://cherylwilliamsforjudge.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://cherylwilliamsforjudge.com/donate"
+},
+{
+"text": "Home",
+"href": "https://cherylwilliamsforjudge.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://cherylwilliamsforjudge.com/privacy-policy"
+},
+{
+"text": "RSVP",
+"href": "https://cherylwilliamsforjudge.com/rsvp"
+},
+{
+"text": "Voting Info",
+"href": "https://cherylwilliamsforjudge.com/voting-info"
+},
+{
+"text": "[image: Cheryl Williams for Judge]",
+"href": "https://cherylwilliamsforjudge.com/"
+}
 ]

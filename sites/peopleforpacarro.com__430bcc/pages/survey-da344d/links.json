@@ -1,16 +1,62 @@
 [
-"http://instagram.com/peopleforpacarro",
-"https://forms.gle/qRpaiAmPkyBSPeBH7",
-"https://peopleforpacarro.com/",
-"https://peopleforpacarro.com/about",
-"https://peopleforpacarro.com/campaign-pillars",
-"https://peopleforpacarro.com/cart",
-"https://peopleforpacarro.com/contact",
-"https://peopleforpacarro.com/district-19",
-"https://peopleforpacarro.com/district-19-1",
-"https://peopleforpacarro.com/endorsements",
-"https://peopleforpacarro.com/home",
-"https://peopleforpacarro.com/new-dropdown",
-"https://peopleforpacarro.solidarity.tech/help",
-"https://secure.actblue.com/donate/kahipacarro"
+{
+"text": "0",
+"href": "https://www.peopleforpacarro.com/cart"
+},
+{
+"text": "About Kahi",
+"href": "https://www.peopleforpacarro.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.peopleforpacarro.com/"
+},
+{
+"text": "Campaign Pillars",
+"href": "https://www.peopleforpacarro.com/campaign-pillars"
+},
+{
+"text": "Contact",
+"href": "https://www.peopleforpacarro.com/contact"
+},
+{
+"text": "District 19 Concerns",
+"href": "https://www.peopleforpacarro.com/district-19"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kahipacarro"
+},
+{
+"text": "Endorsements",
+"href": "https://www.peopleforpacarro.com/endorsements"
+},
+{
+"text": "Folder: About Kahi",
+"href": "https://www.peopleforpacarro.com/new-dropdown"
+},
+{
+"text": "Folder: District 19",
+"href": "https://www.peopleforpacarro.com/district-19-1"
+},
+{
+"text": "HD 19 Survey",
+"href": "https://forms.gle/qRpaiAmPkyBSPeBH7"
+},
+{
+"text": "Help Kahi Win",
+"href": "https://peopleforpacarro.solidarity.tech/help"
+},
+{
+"text": "PEOPLE FOR PACARRO",
+"href": "https://www.peopleforpacarro.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.peopleforpacarro.com/home/#volunteer"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/peopleforpacarro"
+}
 ]

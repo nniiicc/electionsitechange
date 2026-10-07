@@ -1,6 +1,5 @@
-San Antonio, TX – Today, decorated Army Veteran, former Certified Master Instructor for the Department of Defense, and small business owner, Ben Mostyn, announced his candidacy for Texas’ 117th House District.
-Ben Mostyn shared the following statement:
-“On this day 187 years ago, the identity of Texas was solidified as Americans, Tejanos, and Texans of all backgrounds spilled their blood in the last stand at the Alamo.
+Home About Issues News Volunteer Shop Donate Select Page US ARMY VETERAN & SMALL BUSINESS OWNER BEN MOSTYN ANNOUNCES CANDIDACY FOR TEXAS HOUSE DISTRICT 117 Mar 11, 2023 | Uncategorized San Antonio, TX – Today, decorated Army Veteran, former Certified Master Instructor for the Department of Defense, and small business owner, Ben Mostyn, announced his candidacy for Texas’ 117th House District.
+Ben Mostyn shared the following statement: “On this day #ago, the identity of Texas was solidified as Americans, Tejanos, and Texans of all backgrounds spilled their blood in the last stand at the Alamo.
 Men, women, and children gave their last breath for freedom – freedom from tyranny and the despots that sought to change their identity, to control their future, and to eradicate the principles of our Democratic Republic.
 It is with humility and pride of the spirit of those Texans that I announce my candidacy for the Texas House of Representatives.
 Once again, Texans are facing an invasion – an invasion of our borders, our freedoms, our faith, our education system, and the very ideals that Texans have rooted themselves in since our inception.
@@ -18,9 +17,7 @@ It is not ours by way of inheritance; it must be fought for and defended constan
 Our generation is here, our time has come, and together we must stand and ensure that no one messes with Texas.
 I promise that I will serve this State as I have served our Country, that I will be your champion and voice, that I will uphold the rule of law, and that I will repel the incursions on our territory and our values.
 I will keep Texas, Texas; and we will remain the ‘light upon a hill that cannot be hidden’.
-God bless you all and God bless Texas.”
-About Ben Mostyn
-Ben Mostyn grew up in Texas, and as a young boy, he was raised with good old-fashioned Texas values.
+God bless you all and God bless Texas.” About Ben Mostyn Ben Mostyn grew up in Texas, and as a young boy, he was raised with good old-fashioned Texas values.
 Ben was home-schooled from the start and into his mid-teens, laying the foundation for his strong beliefs in school choice and empowering parents’ full control of their children’s education.
 Growing up poor in a blue-collar family, he learned early on the value of hard-earned money and the struggles of life, and by the age of 9, he was working – pushing his lawnmower and knocking on doors, selling his mom’s herbal products at fairs, and selling appliances he or his dad had fixed up.
 Later Ben became the youngest employee in the MCI Telecommunications Company.
@@ -32,14 +29,12 @@ He enlisted in the US Army, where he achieved numerous medals, awards, and honor
 Ben has worked in New York City as a print model, actor (on stage and screen), and standup comedian.
 Pursuing the American dream, Ben was trained to be a leader and visionary.
 Ben has owned several businesses, served as an executive for numerous companies, and obtained decades of experience in management, consulting, and in short, problem solving.
-Complementing political philosopher Thomas Hobbes who stated that “the condition of Man is a condition of war of every one against every one,” Ben states, “You have to know the root in order to understand the blossom,” and it is with this conviction, empathy, and resolve he will legislate in the State of
-Texas to help solve the problems Texans are facing.
+Complementing political philosopher Thomas Hobbes who stated that “the condition of Man is a condition of war of every one against every one,” Ben states, “You have to know the root in order to understand the blossom,” and it is with this conviction, empathy, and resolve he will legislate in the State of Texas to help solve the problems Texans are facing.
 While Ben was teaching for the Department of Defense at Ft.
 Huachuca, Arizona, several lethal incidents took place at the US-Mexican Border, motivating him to unilaterally cross over into Mexico and engage with the Mexican Mayors and Ministry of Foreign Affairs.
 The initiative he took resulted in positive impacts at the border and the start of a Regional Border Mayor’s Summit that gathered the Mayors of Southeast Arizona and Sonora, Mexico to resolve differences and find solutions that benefited both sides of their shared border region.
 Ben has always loved teaching, mentoring the next generation, and passing on the knowledge he has worked and developed over the years.
-He is a Certified Master Instructor for the Department of Defense (DOD) and has taught at the collegiate level for many years, training our soldiers and DOD employees how to analyze situations, create solutions, and execute the best
-courses of action.
+He is a Certified Master Instructor for the Department of Defense (DOD) and has taught at the collegiate level for many years, training our soldiers and DOD employees how to analyze situations, create solutions, and execute the best courses of action.
 He spent nearly five years of his career deployed, much of which was spent in Afghanistan, analyzing, advising, and solving critical problems during the War on Terror.
 Settling his roots once again in Texas, Ben uses his skills in management, crisis resolution, and diplomacy to help San Antonio home buyers and sellers achieve their goals.
 Ben is actively engaged in mentorship in his community and continues to assist in global affairs.
@@ -53,3 +48,6 @@ In the legislature, Ben Mostyn will be the one who gets things done, not only in
 For more information, visit MostynForTexas.com.
 Ben Mostyn is a US Army Veteran.
 Use of Military rank, job titles, and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
+Search for: Archives October 2023 July 2023 March 2023 Categories Uncategorized Paid for by Mostyn for Texas Ben Mostyn is a US Army Veteran.
+Use of Military rank, job titles, and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
+Follow Follow Follow Follow

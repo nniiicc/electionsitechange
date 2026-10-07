@@ -1,25 +1,110 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/LynnRamirez4SC",
-"https://facebook.com/profile.php?id=61570737358419",
-"https://instagram.com/lynnramirez4sc",
-"https://lynnramirez4sc.com/",
-"https://lynnramirez4sc.com/contact",
-"https://lynnramirez4sc.com/contribute",
-"https://lynnramirez4sc.com/contribute?amount=10",
-"https://lynnramirez4sc.com/contribute?amount=100",
-"https://lynnramirez4sc.com/contribute?amount=1000",
-"https://lynnramirez4sc.com/contribute?amount=25",
-"https://lynnramirez4sc.com/contribute?amount=250",
-"https://lynnramirez4sc.com/contribute?amount=50",
-"https://lynnramirez4sc.com/contribute?amount=500",
-"https://lynnramirez4sc.com/events",
-"https://lynnramirez4sc.com/issues",
-"https://lynnramirez4sc.com/meet_lynn",
-"https://lynnramirez4sc.com/privacy-policy",
-"https://lynnramirez4sc.com/volunteer",
-"https://lynnramirez4sc.com/vote",
-"https://lynnramirez4sc.com/yard-sign",
-"https://tiktok.com/@lynnramirez4sc",
-"https://youtube.com/@LynnRamirez-4SC"
+{
+"text": "$#",
+"href": "https://www.lynnramirez4sc.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.lynnramirez4sc.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.lynnramirez4sc.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.lynnramirez4sc.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://www.lynnramirez4sc.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://www.lynnramirez4sc.com/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://www.lynnramirez4sc.com/contribute?amount=1000"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.lynnramirez4sc.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.lynnramirez4sc.com/contribute"
+},
+{
+"text": "Events",
+"href": "https://www.lynnramirez4sc.com/events"
+},
+{
+"text": "Help Make a Difference Contribute Today if You Can Click Here to Contribute",
+"href": "https://www.lynnramirez4sc.com/contribute"
+},
+{
+"text": "Issues",
+"href": "https://www.lynnramirez4sc.com/issues"
+},
+{
+"text": "Lynn Ramirez SC House 16",
+"href": "https://www.facebook.com/LynnRamirez4SC"
+},
+{
+"text": "Meet Lynn",
+"href": "https://www.lynnramirez4sc.com/meet_lynn"
+},
+{
+"text": "Other",
+"href": "https://www.lynnramirez4sc.com/contribute"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lynnramirez4sc.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lynnramirez4sc.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.lynnramirez4sc.com/vote"
+},
+{
+"text": "Voter Information: Register or Find Your Polling Location Click Here for Information",
+"href": "https://www.lynnramirez4sc.com/vote"
+},
+{
+"text": "We value your time. Become a Volunteer Click Here to Sign Up",
+"href": "https://www.lynnramirez4sc.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.lynnramirez4sc.com/yard-sign"
+},
+{
+"text": "[image: Lynn Ramirez for House District 16]",
+"href": "https://www.lynnramirez4sc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61570737358419"
+},
+{
+"text": "https://www.instagram.com/lynnramirez4sc/",
+"href": "https://www.instagram.com/lynnramirez4sc/"
+},
+{
+"text": "https://www.tiktok.com/@lynnramirez4sc",
+"href": "https://www.tiktok.com/@lynnramirez4sc"
+},
+{
+"text": "https://www.youtube.com/@LynnRamirez-4SC",
+"href": "https://www.youtube.com/@LynnRamirez-4SC"
+}
 ]

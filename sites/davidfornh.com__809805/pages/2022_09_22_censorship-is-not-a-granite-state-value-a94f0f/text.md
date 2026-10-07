@@ -1,9 +1,7 @@
-September 20, 2022
-A free people read freely, learn freely, and think freely…
-One thing is for sure—Granite Staters don’t like being told what to think.
+Skip to content Home Meet David Priorities News Get Involved Menu Home Meet David Priorities News Get Involved Donate Op-Ed: Censorship Is Not a Granite State Value September 20, 2022 A free people read freely, learn freely, and think freely… One thing is for sure—Granite Staters don’t like being told what to think.
 We pride ourselves on our independence and we aren’t shy about speaking our minds.
 So why do some folks seem to think it’s a savvy political move to try to start restricting our freedom to read and explore diverse ideas?
-This week has marked the 40th observance of Banned Books Week, a national event that calls attention to the persistent problem of censorship in the United States.
+This week has marked the 40 th observance of Banned Books Week, a national event that calls attention to the persistent problem of censorship in the United States.
 The observance celebrates our right both to access and express ideas—including those that challenge us—free from interference by the government.
 It also reminds us not to take this right for granted.
 Over the last several years, I have had a front row seat to the growing crisis of book banning in America.
@@ -17,5 +15,6 @@ It is anything but, and that is why the American Federation of Teachers, the Nat
 The purposefully vague law is a copycat of legislation we have seen elsewhere in the country.
 Both its impact and intent are to intimidate educators who seek to provide their students with an education that does not exclude the perspectives of LGBT people, disabled people, and people of color, both past and present.
 Censorship is not a Granite State value.
-A free people read freely, learn freely, and think freely.
-—D
+A free people read freely, learn freely, and think freely. —D Paid for by David Paige for New Hampshire.
+David Paige, Fiscal Agent.
+1230 W Side Rd, N Conway, NH 03860.

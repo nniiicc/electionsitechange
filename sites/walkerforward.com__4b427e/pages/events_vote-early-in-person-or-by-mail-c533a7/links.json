@@ -1,21 +1,90 @@
 [
-"http://facebook.com/brianwalkerforward",
-"http://google.com/calendar/event?action=TEMPLATE&text=Vote+Early%3A+In+Person+or+by+Mail&dates=20260919T140000Z%2F20261102T230000Z&location=2100+3rd+Ave%2C+Anoka%2C+MN+55303%2C+USA",
-"http://instagram.com/walker.forward",
-"http://maps.google.com/?q=2100+3rd+Ave+Anoka%2C+MN+55303+USA",
-"https://mnvotes.gov/",
-"https://walkerforward.com/",
-"https://walkerforward.com/cart",
-"https://walkerforward.com/contact",
-"https://walkerforward.com/donate",
-"https://walkerforward.com/events",
-"https://walkerforward.com/events/andover-day-of-doorknocking",
-"https://walkerforward.com/events/brews-with-brian-sept-17",
-"https://walkerforward.com/events/vote-early-in-person-or-by-mail?format=ical",
-"https://walkerforward.com/faq",
-"https://walkerforward.com/news",
-"https://walkerforward.com/privacy-policy",
-"https://walkerforward.com/store",
-"https://walkerforward.com/volunteer",
-"https://walkerforward.com/yard-sign"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2100+3rd+ave+anoka%2C+mn+55303+usa"
+},
+{
+"text": "0",
+"href": "https://www.walkerforward.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.walkerforward.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.walkerforward.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.walkerforward.com/faq"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Vote+Early%3A+In+Person+or+by+Mail&dates=20260919T140000Z%2F20261102T230000Z&location=2100+3rd+Ave%2C+Anoka%2C+MN+55303%2C+USA"
+},
+{
+"text": "ICS",
+"href": "https://www.walkerforward.com/events/vote-early-in-person-or-by-mail?format=ical"
+},
+{
+"text": "Learn more",
+"href": "https://mnvotes.gov"
+},
+{
+"text": "News",
+"href": "https://www.walkerforward.com/news"
+},
+{
+"text": "Next Next October 10 Andover Day of Doorknocking",
+"href": "https://www.walkerforward.com/events/andover-day-of-doorknocking"
+},
+{
+"text": "Previous Previous September 17 Brews with Brian",
+"href": "https://www.walkerforward.com/events/brews-with-brian-sept-17"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.walkerforward.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://www.walkerforward.com/store"
+},
+{
+"text": "Volunteer",
+"href": "https://www.walkerforward.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.walkerforward.com/yard-sign"
+},
+{
+"text": "[image: Walker Forward]",
+"href": "https://www.walkerforward.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/brianwalkerforward"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/walker.forward"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@walkerforward.com"
+},
+{
+"text": "campaign@walkerforward.com",
+"href": "mailto:campaign@walkerforward.com"
+}
 ]

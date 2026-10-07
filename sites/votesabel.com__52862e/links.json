@@ -1,7 +1,22 @@
 [
-"https://secure.winred.com/committee-to-elect-nicole-sabel/sabelisablefor41?sc=winred-directory&money_bomb=false&recurring=false",
-"https://votesabel.com/?page_id=17",
-"https://votesabel.com/?page_id=19",
-"https://votesabel.com/?page_id=2",
-"https://votesabel.com/?page_id=38"
+{
+"text": "About",
+"href": "https://votesabel.com/?page_id=19"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/committee-to-elect-nicole-sabel/sabelisablefor41?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Get Involved",
+"href": "https://votesabel.com/?page_id=17"
+},
+{
+"text": "Home",
+"href": "https://votesabel.com/?page_id=38"
+},
+{
+"text": "The Issues",
+"href": "https://votesabel.com/?page_id=2"
+}
 ]

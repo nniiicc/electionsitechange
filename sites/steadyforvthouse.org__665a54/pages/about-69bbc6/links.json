@@ -1,12 +1,62 @@
 [
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fbrendasteady&sa=D&sntz=1&usg=AOvVaw3X-cXHKxVmNx6v8-YUXWsr",
-"https://steadyforvthouse.org/about",
-"https://steadyforvthouse.org/community",
-"https://steadyforvthouse.org/contact",
-"https://steadyforvthouse.org/donate",
-"https://steadyforvthouse.org/endorsements",
-"https://steadyforvthouse.org/highlights",
-"https://steadyforvthouse.org/home",
-"https://steadyforvthouse.org/key-issues",
-"https://steadyforvthouse.org/legislature"
+{
+"text": "About",
+"href": "https://www.steadyforvthouse.org/about"
+},
+{
+"text": "Community",
+"href": "https://www.steadyforvthouse.org/community"
+},
+{
+"text": "Contact",
+"href": "https://www.steadyforvthouse.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.steadyforvthouse.org/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.steadyforvthouse.org/endorsements"
+},
+{
+"text": "Highlights",
+"href": "https://www.steadyforvthouse.org/highlights"
+},
+{
+"text": "Home",
+"href": "https://www.steadyforvthouse.org/home"
+},
+{
+"text": "Key Issues",
+"href": "https://www.steadyforvthouse.org/key-issues"
+},
+{
+"text": "Legislative Work",
+"href": "https://www.steadyforvthouse.org/legislature"
+},
+{
+"text": "Legislature",
+"href": "https://www.steadyforvthouse.org/legislature"
+},
+{
+"text": "Policy Focus",
+"href": "https://www.steadyforvthouse.org/key-issues"
+},
+{
+"text": "SteadyForVTHouse.org",
+"href": "https://www.steadyforvthouse.org/home"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fbrendasteady&sa=D&sntz=1&usg=AOvVaw3X-cXHKxVmNx6v8-YUXWsr"
+},
+{
+"text": "[image]",
+"href": "https://www.steadyforvthouse.org/home"
+},
+{
+"text": "[image]SteadyForVTHouse.org",
+"href": "https://www.steadyforvthouse.org/home"
+}
 ]

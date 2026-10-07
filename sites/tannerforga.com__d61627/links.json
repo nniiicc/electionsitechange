@@ -1,11 +1,42 @@
 [
-"http://instagram.com/",
-"http://linkedin.com/",
-"http://x.com/",
-"https://facebook.com/profile.php?id=61586557506919",
-"https://georgia.gov/register-vote",
-"https://mobilize.us/cherokeecountydemocraticcommittee/event/989664",
-"https://mvp.sos.ga.gov/s",
-"https://secure.actblue.com/donate/tannerforga",
-"https://tannerforga.com/"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tannerforga"
+},
+{
+"text": "EVENTS",
+"href": "https://www.tannerforga.com#events"
+},
+{
+"text": "JOIN TEAM TANNER",
+"href": "https://www.tannerforga.com#section%202"
+},
+{
+"text": "JOIN US",
+"href": "https://www.mobilize.us/cherokeecountydemocraticcommittee/event/989664/"
+},
+{
+"text": "My Voting Page",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Register to Vote",
+"href": "https://georgia.gov/register-vote"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61586557506919"
+}
 ]

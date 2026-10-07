@@ -1,13 +1,50 @@
 [
-"http://get-involved/",
-"http://williamsforiowa.com/",
-"http://williamsforiowa.com/about",
-"http://williamsforiowa.com/contact",
-"http://williamsforiowa.com/contribute",
-"http://williamsforiowa.com/get-involved",
-"http://williamsforiowa.com/news",
-"http://williamsforiowa.com/priorities",
-"https://carrollspaper.com/news/experienced-local-republican-craig-williams-seeking-senate-seat/article_d63c77b8-1782-11ea-ba0d-ff53ec7a36fa.html",
-"https://facebook.com/Williams-for-Iowa-105310477673365",
-"https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html"
+{
+"text": "ABOUT",
+"href": "http://williamsforiowa.com/about/"
+},
+{
+"text": "Absentee Ballot Request",
+"href": "https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html"
+},
+{
+"text": "CONTACT",
+"href": "http://williamsforiowa.com/contact/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "http://williamsforiowa.com/contribute"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Williams-for-Iowa-105310477673365"
+},
+{
+"text": "GET INVOLVED",
+"href": "http://get-involved"
+},
+{
+"text": "GET INVOLVED",
+"href": "http://williamsforiowa.com/get-involved/"
+},
+{
+"text": "HOME",
+"href": "http://williamsforiowa.com/"
+},
+{
+"text": "NEWS",
+"href": "http://williamsforiowa.com/news/"
+},
+{
+"text": "PRIORITIES",
+"href": "http://williamsforiowa.com/priorities/"
+},
+{
+"text": "READ ARTICLE ON CARROLL TIMES HERALD WEBSITE",
+"href": "https://www.carrollspaper.com/news/experienced-local-republican-craig-williams-seeking-senate-seat/article_d63c77b8-1782-11ea-ba0d-ff53ec7a36fa.html"
+},
+{
+"text": "[image]",
+"href": "http://williamsforiowa.com/"
+}
 ]

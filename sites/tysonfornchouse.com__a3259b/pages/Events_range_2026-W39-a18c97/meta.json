@@ -1,7 +1,11 @@
 {
  "description": "Steve Tyson Campaign Events",
  "final_url": "https://www.tysonfornchouse.com/Events?range=2026-W39",
- "paid_for_by": null,
+ "fingerprint": "36ff52188e6285cf38fd08617b69e964ba05a336",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Steve Tyson Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

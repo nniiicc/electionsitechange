@@ -1,9 +1,42 @@
 [
-"https://damooseforsenate.com/",
-"https://damooseforsenate.com/about-john",
-"https://damooseforsenate.com/contact-8",
-"https://damooseforsenate.com/legislative-record-1",
-"https://damooseforsenate.com/results",
-"https://damooseforsenate.com/top-priorities",
-"https://secure.winred.com/damoose-for-state-senate/donate-today?exitintent=true"
+{
+"text": "About",
+"href": "https://www.damooseforsenate.com/about-john"
+},
+{
+"text": "Contact",
+"href": "https://www.damooseforsenate.com/contact-8"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.damooseforsenate.com/about-john"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/damoose-for-state-senate/donate-today?exitintent=true"
+},
+{
+"text": "Home",
+"href": "https://www.damooseforsenate.com"
+},
+{
+"text": "Learn More",
+"href": "https://www.damooseforsenate.com/about-john"
+},
+{
+"text": "Legislative Record",
+"href": "https://www.damooseforsenate.com/legislative-record-1"
+},
+{
+"text": "Results",
+"href": "https://www.damooseforsenate.com/results"
+},
+{
+"text": "Top Priorities",
+"href": "https://www.damooseforsenate.com/top-priorities"
+},
+{
+"text": "info@damooseforsenate.com",
+"href": "mailto:info@damooseforsenate.com"
+}
 ]

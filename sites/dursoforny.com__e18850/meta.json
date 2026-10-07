@@ -1,7 +1,9 @@
 {
- "description": "Michael Durso is running for New York State Assembly to represent Long Island\u2019s working class families.",
+ "description": "Michael Durso is running for New York State Assembly to represent Long Island’s working class families.",
  "final_url": "https://www.dursoforny.com/",
- "paid_for_by": "PAID FOR BY FRIENDS OF MICHAEL DURSO &copy; Copyright 2024",
+ "fingerprint": "34db1b87d41038b3fb720aeee16d35c22201f0e0",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY FRIENDS OF MICHAEL DURSO © Copyright #",
  "title": "Michael Durso for State Assembly",
  "years_mentioned": []
 }

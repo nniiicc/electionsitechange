@@ -1,10 +1,42 @@
 [
-"https://alanblaylock.com/",
-"https://alanblaylock.com/copy-of-privacy-policy",
-"https://alanblaylock.com/endorsement",
-"https://alanblaylock.com/general-clean",
-"https://alanblaylock.com/get-involved",
-"https://alanblaylock.com/meet-alan",
-"https://facebook.com/VoteBlaylock",
-"https://secure.anedot.com/alan-blaylock-for-texas/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/alan-blaylock-for-texas/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.alanblaylock.com/endorsement"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.alanblaylock.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.alanblaylock.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.alanblaylock.com"
+},
+{
+"text": "MEET ALAN",
+"href": "https://www.alanblaylock.com/meet-alan"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.alanblaylock.com/general-clean"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.alanblaylock.com/copy-of-privacy-policy"
+},
+{
+"text": "[image: Blaylock GE House Logo-2.png]",
+"href": "https://www.alanblaylock.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteBlaylock"
+}
 ]

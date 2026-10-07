@@ -1,18 +1,66 @@
 [
-"http://twitter.com/313cgh",
-"https://chrisgilmerhill.com/",
-"https://chrisgilmerhill.com/cart",
-"https://chrisgilmerhill.com/endorsements",
-"https://chrisgilmerhill.com/home",
-"https://chrisgilmerhill.com/privacy-policy",
-"https://chrisgilmerhill.com/volunteer",
-"https://instagram.com/313cgh",
-"https://instagram.com/https://www.facebook.com/313cgh",
-"https://mvic.sos.state.mi.us/Voter/Index",
-"https://secure.actblue.com/donate/cgh-home",
-"https://secure.actblue.com/donate/cghribbon",
-"https://secure.actblue.com/donate/cghribbon?amount=10",
-"https://secure.actblue.com/donate/cghribbon?amount=100",
-"https://secure.actblue.com/donate/cghribbon?amount=27",
-"https://secure.actblue.com/donate/cghribbon?amount=50"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/cghribbon?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/cghribbon?amount=100"
+},
+{
+"text": "$27",
+"href": "https://secure.actblue.com/donate/cghribbon?amount=27"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/cghribbon?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.chrisgilmerhill.com/cart"
+},
+{
+"text": "Check your registration",
+"href": "https://mvic.sos.state.mi.us/Voter/Index"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cgh-home"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chrisgilmerhill.com/endorsements"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/cghribbon"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.chrisgilmerhill.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.chrisgilmerhill.com/volunteer"
+},
+{
+"text": "[image: Chris Gilmer-Hill for State Representative]",
+"href": "https://www.chrisgilmerhill.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.chrisgilmerhill.com/home"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/313cgh"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/313cgh"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/https://www.facebook.com/313cgh/"
+}
 ]

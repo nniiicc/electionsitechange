@@ -1,11 +1,38 @@
 [
-"https://designedtorun.com/",
-"https://donation.c-esystems.com/campaign/friendsofrobnosse",
-"https://facebook.com/robnossefororegon",
-"https://instagram.com/nosserob",
-"https://linktree.com/robnosse",
-"https://robnosse.com/",
-"https://robnosse.com/about",
-"https://robnosse.com/endorsements",
-"https://robnosse.com/issues"
+{
+"text": "About",
+"href": "https://www.robnosse.com/about"
+},
+{
+"text": "Donate",
+"href": "https://donation.c-esystems.com/campaign/friendsofrobnosse"
+},
+{
+"text": "Endorsements",
+"href": "https://www.robnosse.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.robnosse.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Rob Nosse for State Representative]",
+"href": "https://www.robnosse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/robnossefororegon"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/nosserob"
+},
+{
+"text": "[no text]",
+"href": "https://linktree.com/robnosse"
+}
 ]

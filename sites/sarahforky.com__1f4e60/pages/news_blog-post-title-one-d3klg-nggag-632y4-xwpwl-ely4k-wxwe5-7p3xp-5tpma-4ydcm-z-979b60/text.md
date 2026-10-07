@@ -1,5 +1,7 @@
-First Few Weeks of Session
-The first two weeks of the session were very quiet, but by the third week, committees began meeting and hearing bills.
+0 Skip to Content About Issues Endorsements Take Action Events Register to Vote Voter Restoration Rights Am I Still on the Voter Rolls?
+Ways to Vote Before Election Day Donate to the Democratic House News + Media Donate to Sarah Open Menu Close Menu About Issues Endorsements Take Action Events Register to Vote Voter Restoration Rights Am I Still on the Voter Rolls?
+Ways to Vote Before Election Day Donate to the Democratic House News + Media Donate to Sarah Open Menu Close Menu About Issues Endorsements Folder: Take Action Back Events Register to Vote Voter Restoration Rights Am I Still on the Voter Rolls?
+Ways to Vote Before Election Day Donate to the Democratic House News + Media Donate to Sarah First Few Weeks of Session Mar 3 Written By Sarah Stalker The first two weeks of the session were very quiet, but by the third week, committees began meeting and hearing bills.
 I am trying to play catch-up, so I thank you in advance for your patience while waiting to get this update.
 I have heard from many of you asking me to support or oppose bills that come to your attention.
 Please continue your advocacy.
@@ -15,44 +17,8 @@ I have also included not only my vote, but the vote history for all members, sho
 Remember, a bill that passes out of the House still has to go through the same process in the Senate.
 It must pass out of the appropriate committee, then be called on the Senate Floor for a vote before going to the Governor’s desk to be vetoed or signed into law.
 I thank you again for your engagement and support throughout this session!
-BILLS THAT ADVANCED OFF THE HOUSE FLOOR in the THIRD WEEK (1/19/26 - 1/23/26)
-HB 184 - Seeks to address current conflicts between health savings account-qualified insurance plans (Yes)
-HB 265 -Would prohibit the commissioner of the state Department of Insurance from authorizing additional workers' compensation self-insured groups ( Yes )
-HB 312 -Would allow 18-to 20-year-olds to conceal carry a firearm in Kentucky.
-( NO )
-HB 176 - Would ease the burden of the prior authorization process for doctors and patient (Yes) Co-sponsor of bill
-HB 178 - Would increase access to mental health care for Kentuckians through supporting the psychiatric collaborative care model.
-( Yes )
-HB 280 - Makes updates to the board of nursing’s ability to investigate abuse.
-( Yes )
-BILLS THAT ADVANCED OFF THE HOUSE FLOOR in the FOURTH WEEK (1/26/26 - 1/30/26)
-HB 3 - Bill requiring Medicaid and KCHIP to comply with pharmacy reimbursement requirements (Yes)
-HB 34 - Bill expanding death benefits for Kentucky Firefighters ( Yes ) (Co-sponsor of bill)
-HB 134 - Bill ensuring that all Kentucky Hospitals have a sexual assault nurse examiner.
-( Yes ) (Co-sponsor of bill)
-HB 214 - Creates a Residential Ease of Access for Disabled Veterans Program to fund the installation of accessibility ramps.
-( Yes )
-HB 281 - Bill breaking down hurdles and barriers for nonprofits and other food donors when donating during natural disasters ( Yes ) (Co-sponsor of bill)
-HB 320 - Bill that makes the promotion of human trafficking a class B felony (involving a minor class A) ( Yes )
-HB 366 - Bill making the possession or viewing a computer generated image of a minor illegal (Yes )
-HB 389 - Bill that requires annual updates on strategies for identifying and supporting students with dyslexia and dysgraphia ( Yes ) (Co-sponsor of bill)
-HB 306 - Bill that makes disruptive or threatening work behavior in the workplace a second-degree criminal trespassing charge ( NO )
-BILLS THAT ADVANCED OFF THE HOUSE FLOOR in the FIFTH WEEK (2/2/26 - 2/6/26)
-HB 4 defines grooming as a course of conduct with a minor intended to manipulate a child into engaging in sexual conduct.
-(Yes)
-HB194 allows a carveout and guidelines for cigar bars.
-(No)
-HB 103 would make fluoridation in drinking water optional in Kentucky.
-(No)
-HB169 would ensure improved insurance coverage for individuals battling an eating disorder.
-(Yes)
-HB188 seeks to protect the mental and physical health of Kentucky’s jail and correctional facility workers by offering them peer support counseling.
-(Yes)
-HB 212 Veterinary technicians would be authorized to administer rabies vaccines to dogs, cats and ferrets under the direct supervision of a veterinarian under this bill.
-(Yes)
-HB 276 Kentuckians everywhere would be permitted to own up to six hens under this bill.
-(Yes)
-HB 314 would transfer oversight of the Kentucky Communications Network Authority (Kentucky Wired) to the Commonwealth Office of Technology and would establish a new director and board for the program.
-(No)
-HB 333: Under HB 333, faith-based organizations would be allowed to build small-scale affordable housing up to 24 units.
-(Yes) Co-sponsor
+BILLS THAT ADVANCED OFF THE HOUSE FLOOR in the THIRD WEEK (1/19/26 - 1/23/26) HB 184 - Seeks to address current conflicts between health savings account-qualified insurance plans ( Yes ) HB 265 -Would prohibit the commissioner of the state Department of Insurance from authorizing additional workers' compensation self-insured groups ( Yes ) HB 312 -Would allow 18-to 20-year-olds to conceal carry a firearm in Kentucky. ( NO ) HB 176 - Would ease the burden of the prior authorization process for doctors and patient ( Yes ) Co-sponsor of bill HB 178 - Would increase access to mental health care for Kentuckians through supporting the psychiatric collaborative care model. ( Yes ) HB 280 - Makes updates to the board of nursing’s ability to investigate abuse. ( Yes ) BILLS THAT ADVANCED OFF THE HOUSE FLOOR in the FOURTH WEEK (1/26/26 - 1/30/26) HB 3 - Bill requiring Medicaid and KCHIP to comply with pharmacy reimbursement requirements ( Yes ) HB 34 - Bill expanding death benefits for Kentucky Firefighters ( Yes ) ( Co-sponsor of bill ) HB 134 - Bill ensuring that all Kentucky Hospitals have a sexual assault nurse examiner. ( Yes ) ( Co-sponsor of bill ) HB 214 - Creates a Residential Ease of Access for Disabled Veterans Program to fund the installation of accessibility ramps. ( Yes ) HB 281 - Bill breaking down hurdles and barriers for nonprofits and other food donors when donating during natural disasters ( Yes ) ( Co-sponsor of bil l) HB 320 - Bill that makes the promotion of human trafficking a class B felony (involving a minor class A) ( Yes ) HB 366 - Bill making the possession or viewing a computer generated image of a minor illegal ( Yes ) HB 389 - Bill that requires annual updates on strategies for identifying and supporting students with dyslexia and dysgraphia ( Yes ) ( Co-sponsor of bill ) HB 306 - Bill that makes disruptive or threatening work behavior in the workplace a second-degree criminal trespassing charge ( NO ) BILLS THAT ADVANCED OFF THE HOUSE FLOOR in the FIFTH WEEK (2/2/26 - 2/6/26) HB 4 defines grooming as a course of conduct with a minor intended to manipulate a child into engaging in sexual conduct. ( Yes ) HB194 allows a carveout and guidelines for cigar bars. ( No ) HB 103 would make fluoridation in drinking water optional in Kentucky. ( No ) HB169 would ensure improved insurance coverage for individuals battling an eating disorder. ( Yes ) HB188 seeks to protect the mental and physical health of Kentucky’s jail and correctional facility workers by offering them peer support counseling. ( Yes ) HB 212 Veterinary technicians would be authorized to administer rabies vaccines to dogs, cats and ferrets under the direct supervision of a veterinarian under this bill.
+(Yes) HB 276 Kentuckians everywhere would be permitted to own up to six hens under this bill. ( Yes ) HB 314 would transfer oversight of the Kentucky Communications Network Authority (Kentucky Wired) to the Commonwealth Office of Technology and would establish a new director and board for the program. ( No ) HB 333 : Under HB 333, faith-based organizations would be allowed to build small-scale affordable housing up to 24 units.
+(Yes) Co-sponsor Sarah Stalker Previous Previous Education, Crystal Rogers and Veterans on the House Floor (February 9-13, 2026) Next Next Preparing for 2026 Session Sign up for updates Join my email list to get regular updates on issues, legislation and ways to get involved.
+Get On the List!
+Contact Paid for by Sarah for KY © Swayed Top

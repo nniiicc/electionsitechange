@@ -1,13 +1,3 @@
-Endorsed By
-I am so proud to have received the endorsements from these incredible organizations.
-- Republican Party of Minnesota
-- MCCL State PAC (Minnesotans Concerned for Life State PAC)
-- NFIB MN PAC
-- NRA-PFV
-- Minnesota Chamber of Commerce Leadership PAC
-- Housing First Minnesota PAC
-- Minnesota Farm Bureau PAC
-- CARE-PAC
-- IBEW 110
-- Minnesota Pipe Trades
-- IUOE Local 49
+0 Skip to Content About Issues Endorsements 2026 Join Our Team Photos Contact DONATE Open Menu Close Menu About Issues Endorsements 2026 Join Our Team Photos Contact DONATE Open Menu Close Menu About Issues Endorsements 2026 Join Our Team Photos Contact DONATE Endorsed By I am so proud to have received the endorsements from these incredible organizations.
+Republican Party of Minnesota MCCL State PAC (Minnesotans Concerned for Life State PAC) NFIB MN PAC NRA-PFV Minnesota Chamber of Commerce Leadership PAC Housing First Minnesota PAC Minnesota Farm Bureau PAC CARE-PAC IBEW 110 Minnesota Pipe Trades IUOE Local 49 Sign up to our mailing list SUBSCRIBE Harry Niska for Minnesota House Prepared and paid for by Niska for Minnesota House · P.O.
+Box 3 · Anoka, MN 55303 Terms and Conditions

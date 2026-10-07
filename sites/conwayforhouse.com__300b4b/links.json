@@ -1,12 +1,46 @@
 [
-"https://conwayforhouse.com/",
-"https://conwayforhouse.com/contact",
-"https://conwayforhouse.com/donate",
-"https://conwayforhouse.com/gallery-1",
-"https://conwayforhouse.com/meet-mike",
-"https://conwayforhouse.com/platform",
-"https://conwayforhouse.com/radio-ads%2Ftrascripts",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/conway-for-house/donate"
+{
+"text": "Contact",
+"href": "https://conwayforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://conwayforhouse.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/conway-for-house/donate"
+},
+{
+"text": "Gallery",
+"href": "https://conwayforhouse.com/gallery-1"
+},
+{
+"text": "Home",
+"href": "https://conwayforhouse.com/"
+},
+{
+"text": "Meet Mike",
+"href": "https://conwayforhouse.com/meet-mike"
+},
+{
+"text": "Platform",
+"href": "https://conwayforhouse.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Radio Ads/Trascripts",
+"href": "https://conwayforhouse.com/radio-ads%2Ftrascripts"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Conway for House - 14A St. Cloud, MN]",
+"href": "https://conwayforhouse.com/"
+}
 ]

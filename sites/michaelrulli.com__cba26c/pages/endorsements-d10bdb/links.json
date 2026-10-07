@@ -1,12 +1,42 @@
 [
-"https://facebook.com/rulliforohio",
-"https://instagram.com/michaelarulli",
-"https://michaelrulli.com/",
-"https://michaelrulli.com/about",
-"https://michaelrulli.com/contact",
-"https://michaelrulli.com/endorsements",
-"https://michaelrulli.com/issues",
-"https://michaelrulli.com/media",
-"https://secure.winred.com/rulli-for-ohio/donate",
-"https://twitter.com/michaelrulli"
+{
+"text": "ABOUT",
+"href": "https://www.michaelrulli.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.michaelrulli.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/rulli-for-ohio/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.michaelrulli.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.michaelrulli.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.michaelrulli.com/issues"
+},
+{
+"text": "MEDIA",
+"href": "https://www.michaelrulli.com/media"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/rulliforohio"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/michaelarulli"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/michaelrulli"
+}
 ]

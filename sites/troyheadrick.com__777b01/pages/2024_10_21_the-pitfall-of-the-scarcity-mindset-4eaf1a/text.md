@@ -1,5 +1,4 @@
-The Pitfall of the Scarcity Mindset
-I have a dear and long time friend who is a homeowner in Burlington and has lived in this district for far longer than I’ve been a State Representative.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Uncategorized / The Pitfall of the Scarcity Mindset October 21, 2024 I have a dear and long time friend who is a homeowner in Burlington and has lived in this district for far longer than I’ve been a State Representative.
 She is especially good at calling me into conversations where we may not begin from the same viewpoint.
 We talk about the issue, oftentimes finding our common ground, and I always have more to consider and a new perspective that will continue to assist me as that conversation then continues with others.
 I’ve written recently about how it remains critical, as our city’s administration is called into conversations about repairing harm to a former employee, that we understand how monetary settlements will often belong within our commitment to restorative practices.
@@ -46,4 +45,4 @@ How do we reframe the conversation to highlight how systemic issues can’t be a
 As always, I remain available and willing to continue the conversation.
 I’m fortunate and grateful for my friend who consistently keeps me practiced in the process by which we navigate those conversations from different starting points.
 I invite you all to join me in asking the hard questions, but also in seeking solutions that lift everyone up.
-Let’s commit to addressing the root causes rather than treating symptoms, and let’s do it without turning on each other.
+Let’s commit to addressing the root causes rather than treating symptoms, and let’s do it without turning on each other. < In Continued Support of Tyeastia Green > Thank You for the Privilege of Serving Our District Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

@@ -1,4 +1,4 @@
-I proudly represent Green Bay’s 90th Assembly District in the Wisconsin State Legislature.
+0 Skip to Content Record Why I'm Running Issues About Amaad In the Community Volunteer Contact Us Donate Open Menu Close Menu Open Menu Close Menu Record Why I'm Running Issues About Amaad In the Community Volunteer Contact Us Donate Record Why I'm Running Issues About Amaad In the Community Volunteer Contact Us Donate I proudly represent Green Bay’s 90th Assembly District in the Wisconsin State Legislature.
 In my first term, I helped pass two bipartisan bills into law, hosted more than 30 town halls and community office hours, and fought for housing, public schools, workers, veterans, immigrants, and families across Green Bay.
 My mother had me as a teenager and raised me on her own.
 There were times we had no home of our own, and what carried us through was a community that refused to look away.
@@ -9,9 +9,9 @@ We won.
 From there, I worked at every level of government, including as a Policy Advisor to U.S.
 Senator Ed Markey, overseeing AmeriCorps programming in Massachusetts, and later leading policy and communications as Chief of Staff to Green Bay Mayor Eric Genrich.
 As Chief of Staff, I helped lead some of the most important community projects in Green Bay’s recent history.
-I worked on the largest housing development project in the city’s history, turning 25 acres donated by JBS Food Group into plans for a new neighborhood with equitable housing, a destination park, and an urban farm.
-I founded the Green Bay Conservation Corps, the first municipally run Conservation Corps in Wisconsin history, putting residents to work improving their own community.
-I co-chaired the Greater Green Bay Chamber’s Diversity and Inclusion Task Force, helped secure the largest grant in United Way of Brown County history, and served as a founding board member of Green Bay Pride.
+I worked on the largest housing development project in the city’s history , turning 25 acres donated by JBS Food Group into plans for a new neighborhood with equitable housing, a destination park, and an urban farm.
+I founded the Green Bay Conservation Corps , the first municipally run Conservation Corps in Wisconsin history, putting residents to work improving their own community.
+I co-chaired the Greater Green Bay Chamber’s Diversity and Inclusion Task Force, helped secure the largest grant in United Way of Brown County history , and served as a founding board member of Green Bay Pride.
 I also serve on the board of NeighborWorks Green Bay, because housing is not just a policy issue for me.
 It is personal.
 I also serve on the Stadium District Board, helping steward one of our greatest community assets, Lambeau Field, for the people of Green Bay and future generations.
@@ -30,3 +30,10 @@ That is what this job is supposed to look like.
 I live in the Astor Park neighborhood with my husband William and our two dogs, Appa and Lambeau.
 Green Bay is home.
 Serving the 90th District is the honor of my life, and I am just getting started.
+Amaad Rivera-Wagner’s Story Sign Up for Updates By signing up you are agreeing to receive up to 2 text message(s) per day from Scale to Win.
+Scale to Win’s mobile campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.
+Message and data rates may apply.
+Text HELP for more information.
+Text STOP to stop receiving messages.
+Terms and Privacy Policy .
+DONATE Contact us info@amaadforgb.com 920-264-9084 Paid for by Friends of Amaad Rivera Wagner

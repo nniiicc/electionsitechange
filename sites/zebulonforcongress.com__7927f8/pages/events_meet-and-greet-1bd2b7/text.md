@@ -1,10 +1,2 @@
-Back to All Events
-I’ll be at Irish Kilt Brewing Company June 21 for a Meet and Greet event!
-Bring your friends and bring tough questions
-Previous
-Previous
-June 10
-CANCELED Online Town Hall
-Next
-Next
-June 24
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate Back to All Events Meet and Greet Sunday, June 21, 2026 12:00 PM 2:00 PM Irish Kilt Brewing Company 701 Lake Street Roscommon, MI, 48653 United States (map) Google Calendar ICS I’ll be at Irish Kilt Brewing Company June 21 for a Meet and Greet event!
+Bring your friends and bring tough questions Previous Previous June 10 CANCELED Online Town Hall Next Next June 24 Online Town Hall

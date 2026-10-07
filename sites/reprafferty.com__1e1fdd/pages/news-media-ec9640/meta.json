@@ -1,7 +1,11 @@
 {
  "description": "Stay informed with the latest news, legislative updates, and media coverage on health, opportunity, and economic growth at RepRafferty.com.",
  "final_url": "https://www.reprafferty.com/news-media",
- "paid_for_by": "Paid for by THE COMMITTEE TO ELECT Neil Rafferty for Alabama | P",
- "title": "News & Media | Stay Informed Today \u2013 Discover the Latest News \u2014 RepRafferty.com",
- "years_mentioned": []
+ "fingerprint": "f89aa2cf1fb195168b69c1f8d6f657565524cf53",
+ "format": 3,
+ "paid_for_by": "Paid for by THE COMMITTEE TO ELECT Neil Rafferty for Alabama",
+ "title": "News & Media | Stay Informed Today – Discover the Latest News — RepRafferty.com",
+ "years_mentioned": [
+  "2024"
+ ]
 }

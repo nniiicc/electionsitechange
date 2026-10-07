@@ -1,17 +1,86 @@
 [
-"https://facebook.com/leonelafelixri",
-"https://instagram.com/leonelafelixri",
-"https://leonelafelix.com/",
-"https://leonelafelix.com/cart",
-"https://leonelafelix.com/district-letters",
-"https://leonelafelix.com/home",
-"https://leonelafelix.com/lawn-sign",
-"https://leonelafelix.com/values",
-"https://leonelafelix.com/volunteer",
-"https://leonelafelix.com/vote",
-"https://leonelafelix.com/why-i-serve",
-"https://mailballot.sos.ri.gov/VoterRegistration/VerifyVoter",
-"https://secure.actblue.com/donate/leonelafelix-en",
-"https://vote.sos.ri.gov/Home/RegistertoVote?ActiveFlag=1",
-"https://youtube.com/@RepLeoRI"
+{
+"text": "0",
+"href": "https://www.leonelafelix.com/cart"
+},
+{
+"text": "Am I Registered to Vote?",
+"href": "https://vote.sos.ri.gov/Home/RegistertoVote?ActiveFlag=1"
+},
+{
+"text": "Apply for a Mail Ballot",
+"href": "https://mailballot.sos.ri.gov/VoterRegistration/VerifyVoter"
+},
+{
+"text": "District Letters",
+"href": "https://www.leonelafelix.com/district-letters"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/leonelafelix-en"
+},
+{
+"text": "Home",
+"href": "https://www.leonelafelix.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.leonelafelix.com/values"
+},
+{
+"text": "Lawn Signs",
+"href": "https://www.leonelafelix.com/lawn-sign"
+},
+{
+"text": "Mail Ballot Application",
+"href": "https://mailballot.sos.ri.gov/VoterRegistration/VerifyVoter"
+},
+{
+"text": "Mail Ballot Application:",
+"href": "https://mailballot.sos.ri.gov/VoterRegistration/VerifyVoter"
+},
+{
+"text": "Register to Vote",
+"href": "https://vote.sos.ri.gov/Home/RegistertoVote?ActiveFlag=1"
+},
+{
+"text": "Request Lawn Sign",
+"href": "https://www.leonelafelix.com/lawn-sign"
+},
+{
+"text": "Values",
+"href": "https://www.leonelafelix.com/values"
+},
+{
+"text": "Volunteer",
+"href": "https://www.leonelafelix.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.leonelafelix.com/vote"
+},
+{
+"text": "Why I Serve",
+"href": "https://www.leonelafelix.com/why-i-serve"
+},
+{
+"text": "[image: Leonela Felix | Official Campaign Website]",
+"href": "https://www.leonelafelix.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.leonelafelix.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/leonelafelixri"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/leonelafelixri"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RepLeoRI"
+}
 ]

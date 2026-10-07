@@ -1,108 +1,454 @@
 [
-"http://10news.com/news/secretary-of-the-interior-tours-areas-of-san-diego-county-damaged-by-wildfires",
-"http://amendments-rules.house.gov/amendments/EM_004_xml610131733243324.pdf",
-"http://billboard.com/articles/news/7423285/scott-peters-congress-gun-control-periscope",
-"http://cbs8.com/story/30298065/hud-secretary-touring-housing-for-homeless-vets?clienttype=mobile",
-"http://cbs8.com/story/32730221/local-leaders-lobby-for-federal-money-to-help-homeless",
-"http://cnn.com/videos/tv/2016/06/26/how-the-democratic-sit-in-was-live-streamed.cnn",
-"http://facebook.com/scottpeterssandiego",
-"http://instagram.com/scottpetersca50",
-"http://ipwatchdog.com/2015/07/15/innovation-act-delayed-in-house-amid-bipartisan-bicameral-disapproval/id=59858",
-"http://kpbs.org/news/2014/jan/15/congress-secures-funding-san-ysidro-border-project",
-"http://medicalimaging.org/2016/07/14/mita-presents-2016-innovation-award-to-congressman-peters",
-"http://nbcsandiego.com/news/local/Coalition-of-Business-Leaders-and-House-Dems-Urge-for-Border-Funding-236643121.html",
-"http://rollcall.com/news/hoh/peters-naming-names-close-gun-show-loophole",
-"http://sandiegouniontribune.com/news/2015/oct/14/secretary-of-interior-and-scott-peters-want-new",
-"http://sandiegouniontribune.com/news/2016/jul/25/hud-revises-homeless-funding",
-"http://sandiegouniontribune.com/news/2016/jul/28/hud-funding-formula",
-"http://thehill.com/blogs/floor-action/house/213295-house-narrowly-defeats-motion-agreeing-to-senate-va-bill",
-"http://thehill.com/homenews/213448-gop-wants-to-show-it-can-govern-in-final-week",
-"http://thehill.com/policy/defense/277916-republicans-blast-pentagon-energy-programs",
-"http://timesofsandiego.com/politics/2014/03/17/davis-peters-call-congress-increase-funding-medical-research",
-"http://twitter.com/ScottPetersSD",
-"http://washingtonblade.com/2015/06/10/house-passes-lgbt-inclusive-measure-for-hud-spending",
-"http://washingtonblade.com/2015/06/10/house-passes-lgbt-inclusive-measure-for-hud-spending/)",
-"http://youtube.com/channel/UCsUeWfm1cBZVMkuslQaBLZQ",
-"http://youtube.com/watch?v=Y-r31MJn6Qo&feature=plcp",
-"https://cadem.org/",
-"https://cadem.org/our-candidates",
-"https://congress.gov/115/bills/hr2880/BILLS-115hr2880rfs.pdf",
-"https://congress.gov/amendment/114th-congress/house-amendment/1470",
-"https://congress.gov/amendment/114th-congress/house-amendment/16",
-"https://congress.gov/amendment/114th-congress/house-amendment/435",
-"https://congress.gov/amendment/114th-congress/house-amendment/841",
-"https://congress.gov/amendment/114th-congress/house-amendment/854",
-"https://congress.gov/amendment/114th-congress/house-amendment/916",
-"https://congress.gov/bill/113th-congress/house-bill/1378",
-"https://congress.gov/bill/113th-congress/house-bill/2232",
-"https://congress.gov/bill/114th-congress/house-bill/1047",
-"https://congress.gov/bill/114th-congress/house-bill/22",
-"https://congress.gov/bill/114th-congress/house-bill/2639",
-"https://congress.gov/bill/114th-congress/house-bill/3577",
-"https://congress.gov/bill/114th-congress/house-bill/3700",
-"https://congress.gov/bill/114th-congress/house-bill/4974",
-"https://congress.gov/bill/114th-congress/house-bill/527",
-"https://congress.gov/bill/114th-congress/house-bill/5303",
-"https://congress.gov/bill/114th-congress/house-bill/5325",
-"https://congress.gov/bill/114th-congress/house-bill/8",
-"https://congress.gov/bill/115th-congress/house-bill/2274?q=%7B%22search%22%3A%5B%22hype+act%22%5D%7D&r=1",
-"https://congress.gov/bill/115th-congress/house-bill/3218/actions?q=%7B%22search%22%3A%5B%22Colmery+Veterans+Educational+Assistance%22%5D%7D&r=1",
-"https://congress.gov/bill/115th-congress/house-bill/4710/text",
-"https://congress.gov/bill/115th-congress/house-bill/5373",
-"https://congress.gov/bill/116th-congress/house-bill/1043/cosponsors",
-"https://congress.gov/bill/116th-congress/house-bill/1166?q=%7B%22search%22%3A%5B%22hr+1166%22%2C%22hr%22%2C%221166%22%5D%7D&s=2&r=4",
-"https://congress.gov/bill/116th-congress/house-bill/1884",
-"https://congress.gov/bill/116th-congress/house-bill/1984/summary/07",
-"https://congress.gov/bill/116th-congress/house-bill/2398",
-"https://congress.gov/bill/116th-congress/house-bill/3584",
-"https://congress.gov/bill/116th-congress/house-bill/5000",
-"https://congress.gov/bill/117th-congress/house-bill/1514?q=%7B%22search%22%3A%5B%22power+on+act%22%2C%22power%22%2C%22on%22%2C%22act%22%5D%7D&s=6&r=1",
-"https://congress.gov/bill/117th-congress/house-bill/2051/text",
-"https://congress.gov/bill/117th-congress/house-bill/4534?q=%7B%22search%22%3A%5B%22The+FAIR+Transition+and+Competition+Act%22%2C%22The%22%2C%22FAIR%22%2C%22Transition%22%2C%22and%22%2C%22Competition%22%2C%22Act%22%5D%7D&s=1&r=2",
-"https://congress.gov/bill/117th-congress/house-bill/4575?q=%7B%22search%22%3A%5B%22Scott+Peters%22%2C%22Scott%22%2C%22Peters%22%5D%7D&s=9&r=11",
-"https://congress.gov/bill/117th-congress/house-bill/5260/text",
-"https://congress.gov/bill/117th-congress/house-bill/5376",
-"https://congress.gov/bill/117th-congress/house-bill/586",
-"https://congress.gov/bill/117th-congress/house-bill/587?q=%7B%22search%22%3A%5B%22ocean+pollution+reduction%22%2C%22ocean%22%2C%22pollution%22%2C%22reduction%22%5D%7D&s=3&r=1",
-"https://congress.gov/bill/117th-congress/house-bill/6069?q=%7B%22search%22%3A%5B%22Promoting+Ties+with+Taiwan+Act%22%2C%22Promoting%22%2C%22Ties%22%2C%22with%22%2C%22Taiwan%22%2C%22Act%22%5D%7D&s=4&r=1",
-"https://congress.gov/bill/117th-congress/house-bill/7008",
-"https://congress.gov/bill/117th-congress/house-bill/8188",
-"https://latimes.com/archives/la-xpm-2007-nov-06-me-beer6-story.html",
-"https://sandiegouniontribune.com/columnists/story/2020-12-27/column-climate-change-desperation-is-met-by-a-glimmer-of-hope",
-"https://scottpeters.com/",
-"https://scottpeters.com/about",
-"https://scottpeters.com/about/awards",
-"https://scottpeters.com/accomplishments",
-"https://scottpeters.com/cdn-cgi/l/email-protection",
-"https://scottpeters.com/contact",
-"https://scottpeters.com/donate",
-"https://scottpeters.com/endorsements",
-"https://scottpeters.com/endorsements/api",
-"https://scottpeters.com/endorsements/elected-officials",
-"https://scottpeters.com/endorsements/organizations",
-"https://scottpeters.com/endorsements/supporters",
-"https://scottpeters.com/fix-congress",
-"https://scottpeters.com/get-involved",
-"https://scottpeters.com/get-involved/sign-up",
-"https://scottpeters.com/in-the-news",
-"https://scottpeters.com/issues",
-"https://scottpeters.com/issues/biden-administration",
-"https://scottpeters.com/issues/education",
-"https://scottpeters.com/issues/energy-the-environment",
-"https://scottpeters.com/issues/equal-rights",
-"https://scottpeters.com/issues/health-care",
-"https://scottpeters.com/issues/immigration",
-"https://scottpeters.com/issues/jobs-and-the-economy",
-"https://scottpeters.com/issues/keeping-americans-safe",
-"https://scottpeters.com/issues/medicare-social-security",
-"https://scottpeters.com/issues/veterans",
-"https://scottpeters.com/media/hi-resolution-photos",
-"https://scottpeters.com/media/photo-gallery",
-"https://scottpeters.com/media/press-inquiries",
-"https://scottpeters.com/media/tv-ads",
-"https://scottpeters.com/privacy-policy",
-"https://t.co/Ux0nIfMVKc",
-"https://t.co/pO9tVCSUVY",
-"https://timesofsandiego.com/politics/2021/11/02/rep-peters-negotiates-historic-deal-to-lower-medicare-drug-prices",
-"https://twitter.com/connorobrienNH/status/725364241142788096"
+{
+"text": "(858) 848-7515",
+"href": "tel:858-848-7515"
+},
+{
+"text": "2015 passage of a long-term reauthorization",
+"href": "https://www.congress.gov/bill/114th-congress/house-bill/22"
+},
+{
+"text": "AAPI Community",
+"href": "https://scottpeters.com/endorsements/api/"
+},
+{
+"text": "About Scott",
+"href": "https://scottpeters.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://scottpeters.com/accomplishments/"
+},
+{
+"text": "Algae Agriculture Act of 2018",
+"href": "https://www.congress.gov/bill/115th-congress/house-bill/5373"
+},
+{
+"text": "Awards",
+"href": "https://scottpeters.com/about/awards/"
+},
+{
+"text": "Biden Administration",
+"href": "https://scottpeters.com/issues/biden-administration/"
+},
+{
+"text": "CA Dems",
+"href": "https://www.cadem.org/"
+},
+{
+"text": "CA Dems",
+"href": "https://www.cadem.org/our-candidates"
+},
+{
+"text": "Contact",
+"href": "https://scottpeters.com/contact"
+},
+{
+"text": "DISASTER Act",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/1984/summary/07"
+},
+{
+"text": "Donate",
+"href": "https://scottpeters.com/donate"
+},
+{
+"text": "Donate Now Donate Now",
+"href": "https://scottpeters.com/donate"
+},
+{
+"text": "Education",
+"href": "https://scottpeters.com/issues/education/"
+},
+{
+"text": "Elected Officials",
+"href": "https://scottpeters.com/endorsements/elected-officials/"
+},
+{
+"text": "Email",
+"href": "mailto:?subject=Accomplishments+-+Scott+Peters+for+Congress&body=https%3A%2F%2Fscottpeters.com%2Faccomplishments%2F"
+},
+{
+"text": "Employer Participation in Repayment Act",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/1043/cosponsors"
+},
+{
+"text": "Endorsements",
+"href": "https://scottpeters.com/endorsements/"
+},
+{
+"text": "Energy & the Environment",
+"href": "https://scottpeters.com/issues/energy-the-environment/"
+},
+{
+"text": "Energy Security Act",
+"href": "https://www.congress.gov/bill/114th-congress/house-bill/8"
+},
+{
+"text": "Energy Security Act,",
+"href": "https://www.congress.gov/bill/114th-congress/house-bill/8"
+},
+{
+"text": "Equal Rights",
+"href": "https://scottpeters.com/issues/equal-rights/"
+},
+{
+"text": "FAIR Transition and Competition Act.",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/4534?q=%7B%22search%22%3A%5B%22The+FAIR+Transition+and+Competition+Act%22%2C%22The%22%2C%22FAIR%22%2C%22Transition%22%2C%22and%22%2C%22Competition%22%2C%22Act%22%5D%7D&s=1&r=2"
+},
+{
+"text": "Fix Congress",
+"href": "https://scottpeters.com/fix-congress/"
+},
+{
+"text": "Get Involved",
+"href": "https://scottpeters.com/get-involved"
+},
+{
+"text": "Get Involved Get Involved",
+"href": "https://scottpeters.com/get-involved"
+},
+{
+"text": "Get Updates Get Updates",
+"href": "https://scottpeters.com/get-involved/sign-up/"
+},
+{
+"text": "He imposed a one year ban on alcohol consumption at our beaches",
+"href": "https://www.latimes.com/archives/la-xpm-2007-nov-06-me-beer6-story.html"
+},
+{
+"text": "Health Care",
+"href": "https://scottpeters.com/issues/health-care/"
+},
+{
+"text": "Hi-Resolution Photos",
+"href": "https://scottpeters.com/media/hi-resolution-photos/"
+},
+{
+"text": "Housing Opportunity Through Modernization Act",
+"href": "https://www.congress.gov/bill/114th-congress/house-bill/3700"
+},
+{
+"text": "Immigration",
+"href": "https://scottpeters.com/issues/immigration/"
+},
+{
+"text": "Inflation Reduction Act",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/5376"
+},
+{
+"text": "Issues",
+"href": "https://scottpeters.com/issues/"
+},
+{
+"text": "Jobs & the Economy",
+"href": "https://scottpeters.com/issues/jobs-and-the-economy/"
+},
+{
+"text": "Keeping Americans Safe",
+"href": "https://scottpeters.com/issues/keeping-americans-safe/"
+},
+{
+"text": "LAB Act",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/3584"
+},
+{
+"text": "Legislative Branch Appropriations",
+"href": "https://www.congress.gov/bill/114th-congress/house-bill/5325"
+},
+{
+"text": "Make Every Small Business Count",
+"href": "https://www.congress.gov/bill/113th-congress/house-bill/2232"
+},
+{
+"text": "Medicare & Social Security",
+"href": "https://scottpeters.com/issues/medicare-social-security/"
+},
+{
+"text": "Meet Scott",
+"href": "https://scottpeters.com/about/"
+},
+{
+"text": "Methamphetamine Response Act",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/2051/text"
+},
+{
+"text": "Military Construction and Veterans Affairs Appropriations Act",
+"href": "https://www.congress.gov/bill/114th-congress/house-bill/4974"
+},
+{
+"text": "News",
+"href": "https://scottpeters.com/in-the-news/"
+},
+{
+"text": "Ocean Pollution Reduction Act II",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/587?q=%7B%22search%22%3A%5B%22ocean+pollution+reduction%22%2C%22ocean%22%2C%22pollution%22%2C%22reduction%22%5D%7D&s=3&r=1"
+},
+{
+"text": "Organizations",
+"href": "https://scottpeters.com/endorsements/organizations/"
+},
+{
+"text": "PAUSE Act",
+"href": "https://www.congress.gov/bill/115th-congress/house-bill/4710/text"
+},
+{
+"text": "POWER ON Act",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/1514?q=%7B%22search%22%3A%5B%22power+on+act%22%2C%22power%22%2C%22on%22%2C%22act%22%5D%7D&s=6&r=1"
+},
+{
+"text": "Photo Gallery",
+"href": "https://scottpeters.com/media/photo-gallery/"
+},
+{
+"text": "Pre-Approval Information Exchange Act",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/7008"
+},
+{
+"text": "Press Inquiries",
+"href": "https://scottpeters.com/media/press-inquiries/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://scottpeters.com/privacy-policy"
+},
+{
+"text": "Promoting Closed-Loop Pumped Storage Hydropower Act",
+"href": "https://www.congress.gov/115/bills/hr2880/BILLS-115hr2880rfs.pdf"
+},
+{
+"text": "Promoting Ties with Taiwan Act.",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/6069?q=%7B%22search%22%3A%5B%22Promoting+Ties+with+Taiwan+Act%22%2C%22Promoting%22%2C%22Ties%22%2C%22with%22%2C%22Taiwan%22%2C%22Act%22%5D%7D&s=4&r=1"
+},
+{
+"text": "Protecting Pre-Existing Conditions & Making Health Care More Affordable Act of 2019",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/1884"
+},
+{
+"text": "Reduced Costs and Continued Cures Act",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/5260/text"
+},
+{
+"text": "SALSA Act",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/8188"
+},
+{
+"text": "SHARE Act of 2019",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/5000"
+},
+{
+"text": "STANDUP Act",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/586"
+},
+{
+"text": "Scott has led the charge to change an outdated formula",
+"href": "http://www.cbs8.com/story/32730221/local-leaders-lobby-for-federal-money-to-help-homeless"
+},
+{
+"text": "Scott’s livestreaming of the House sit in became a history-making event.",
+"href": "http://www.billboard.com/articles/news/7423285/scott-peters-congress-gun-control-periscope"
+},
+{
+"text": "Small Business Regulatory Flexibility Improvement Act",
+"href": "https://www.congress.gov/bill/114th-congress/house-bill/527"
+},
+{
+"text": "Supporters",
+"href": "https://scottpeters.com/endorsements/supporters/"
+},
+{
+"text": "TV Ads",
+"href": "https://scottpeters.com/media/tv-ads/"
+},
+{
+"text": "USEIT Act",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/1166?q=%7B%22search%22%3A%5B%22hr+1166%22%2C%22hr%22%2C%221166%22%5D%7D&s=2&r=4"
+},
+{
+"text": "Unnecessary Government Printing Reform Act",
+"href": "https://www.congress.gov/bill/114th-congress/house-bill/3577"
+},
+{
+"text": "Veteran HOUSE Act",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/2398"
+},
+{
+"text": "Veterans",
+"href": "https://scottpeters.com/issues/veterans/"
+},
+{
+"text": "Watch Video",
+"href": "http://www.youtube.com/watch?v=Y-r31MJn6Qo&feature=plcp"
+},
+{
+"text": "Water Resources Development Act",
+"href": "https://www.congress.gov/bill/114th-congress/house-bill/5303"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@scottpeters.com"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/scottpeterssandiego"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/scottpetersca50"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/ScottPetersSD"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/channel/UCsUeWfm1cBZVMkuslQaBLZQ"
+},
+{
+"text": "[no text]",
+"href": "https://scottpeters.com"
+},
+{
+"text": "added as an amendment",
+"href": "http://amendments-rules.house.gov/amendments/EM_004_xml610131733243324.pdf"
+},
+{
+"text": "amendment",
+"href": "https://www.congress.gov/amendment/114th-congress/house-amendment/1470"
+},
+{
+"text": "amendment",
+"href": "https://www.congress.gov/amendment/114th-congress/house-amendment/16"
+},
+{
+"text": "amendment",
+"href": "https://www.congress.gov/amendment/114th-congress/house-amendment/854"
+},
+{
+"text": "amendment",
+"href": "https://www.congress.gov/amendment/114th-congress/house-amendment/916"
+},
+{
+"text": "amendment",
+"href": "https://www.congress.gov/bill/115th-congress/house-bill/2274?q=%7B%22search%22%3A%5B%22hype+act%22%5D%7D&r=1"
+},
+{
+"text": "bill",
+"href": "https://www.congress.gov/bill/113th-congress/house-bill/1378"
+},
+{
+"text": "bill",
+"href": "https://www.congress.gov/bill/114th-congress/house-bill/2639"
+},
+{
+"text": "bill",
+"href": "https://www.congress.gov/bill/115th-congress/house-bill/3218/actions?q=%7B%22search%22%3A%5B%22Colmery+Veterans+Educational+Assistance%22%5D%7D&r=1"
+},
+{
+"text": "bipartisan amendment",
+"href": "https://www.congress.gov/amendment/114th-congress/house-amendment/435"
+},
+{
+"text": "brought federal officials to San Diego to see the need for resources",
+"href": "http://www.cbs8.com/story/30298065/hud-secretary-touring-housing-for-homeless-vets?clienttype=mobile"
+},
+{
+"text": "brought then Secretary of the Interior Sally Jewell to San Diego",
+"href": "http://www.10news.com/news/secretary-of-the-interior-tours-areas-of-san-diego-county-damaged-by-wildfires"
+},
+{
+"text": "considering four options to replace the formula",
+"href": "http://www.sandiegouniontribune.com/news/2016/jul/25/hud-revises-homeless-funding/"
+},
+{
+"text": "credited",
+"href": "http://thehill.com/homenews/213448-gop-wants-to-show-it-can-govern-in-final-week"
+},
+{
+"text": "credited",
+"href": "https://twitter.com/connorobrienNH/status/725364241142788096"
+},
+{
+"text": "credited by industry leaders",
+"href": "http://www.medicalimaging.org/2016/07/14/mita-presents-2016-innovation-award-to-congressman-peters/"
+},
+{
+"text": "importance of funding the 10-year average for wildfire costs and reforming wildfire funding",
+"href": "http://www.sandiegouniontribune.com/news/2015/oct/14/secretary-of-interior-and-scott-peters-want-new/"
+},
+{
+"text": "included in the 2015 Highway Trust Fund Reauthorization",
+"href": "https://www.congress.gov/bill/114th-congress/house-bill/22"
+},
+{
+"text": "introduced and passed a bipartisan law",
+"href": "https://www.congress.gov/bill/114th-congress/house-bill/1047"
+},
+{
+"text": "led Democrats and Republicans",
+"href": "http://www.nbcsandiego.com/news/local/Coalition-of-Business-Leaders-and-House-Dems-Urge-for-Border-Funding-236643121.html"
+},
+{
+"text": "led bipartisan opposition to the so-called “Innovation Act,”",
+"href": "http://www.ipwatchdog.com/2015/07/15/innovation-act-delayed-in-house-amid-bipartisan-bicameral-disapproval/id=59858/"
+},
+{
+"text": "live-streaming a protest sit-in by House Democrats to the world",
+"href": "http://www.cnn.com/videos/tv/2016/06/26/how-the-democratic-sit-in-was-live-streamed.cnn"
+},
+{
+"text": "negotiate a compromise deal on drug pricing reform",
+"href": "https://timesofsandiego.com/politics/2021/11/02/rep-peters-negotiates-historic-deal-to-lower-medicare-drug-prices/"
+},
+{
+"text": "offered a motion",
+"href": "http://thehill.com/blogs/floor-action/house/213295-house-narrowly-defeats-motion-agreeing-to-senate-va-bill#ixzz38UPyLOSQ"
+},
+{
+"text": "offered and passed an amendment",
+"href": "https://www.congress.gov/amendment/114th-congress/house-amendment/841"
+},
+{
+"text": "prohibits HUD from spending money on contractors",
+"href": "http://www.washingtonblade.com/2015/06/10/house-passes-lgbt-inclusive-measure-for-hud-spending/"
+},
+{
+"text": "prohibits HUD from spending money on contractors that do not have LGBT non-discrimination policies",
+"href": "http://www.washingtonblade.com/2015/06/10/house-passes-lgbt-inclusive-measure-for-hud-spending/)"
+},
+{
+"text": "reading names of gun violence victims",
+"href": "http://www.rollcall.com/news/hoh/peters-naming-names-close-gun-show-loophole"
+},
+{
+"text": "resolution to reinstate the methane pollution standards",
+"href": "https://t.co/pO9tVCSUVY"
+},
+{
+"text": "securing almost $450 million for the San Ysidro Border Crossing",
+"href": "http://www.kpbs.org/news/2014/jan/15/congress-secures-funding-san-ysidro-border-project/"
+},
+{
+"text": "the Veteran Peer Specialist Act,",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/4575?q=%7B%22search%22%3A%5B%22Scott+Peters%22%2C%22Scott%22%2C%22Peters%22%5D%7D&s=9&r=11"
+},
+{
+"text": "the most significant pieces of climate change legislation in a decade.",
+"href": "https://www.sandiegouniontribune.com/columnists/story/2020-12-27/column-climate-change-desperation-is-met-by-a-glimmer-of-hope"
+},
+{
+"text": "the post office was officially renamed",
+"href": "https://t.co/Ux0nIfMVKc"
+},
+{
+"text": "three bad amendments",
+"href": "http://thehill.com/policy/defense/277916-republicans-blast-pentagon-energy-programs"
+},
+{
+"text": "vocal advocate for increasing funding for basic scientific research through the National Institutes of Health",
+"href": "http://timesofsandiego.com/politics/2014/03/17/davis-peters-call-congress-increase-funding-medical-research/"
+},
+{
+"text": "which would bring more federal dollars",
+"href": "http://www.sandiegouniontribune.com/news/2016/jul/28/hud-funding-formula/"
+}
 ]

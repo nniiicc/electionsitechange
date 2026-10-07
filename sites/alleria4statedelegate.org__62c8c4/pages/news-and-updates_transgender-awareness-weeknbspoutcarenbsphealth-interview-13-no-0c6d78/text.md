@@ -1,4 +1,7 @@
-Transgender Awareness Week, OutCare Health, interview, 13 November 2023
-Transgender Awareness week featuring Alleria Stanley is a 20-year active-duty member of the United States military.
+0 Skip to Content Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Transgender Awareness Week, OutCare Health, interview, 13 November 2023 Sep 22 Written By Apple User Transgender Awareness week featuring Alleria Stanley is a 20-year active-duty member of the United States military.
 She is transgender herself and a mother to two transgender children.
-A combat veteran with a military career in the medical field, her efforts to care for her patients and fellow servicemembers have been tireless.
+A combat veteran with a military career in the medical field, her efforts to care for her patients and fellow servicemembers have been tireless. https://www.youtube.com/watch?v=obKD4hoe16I Apple User Previous Previous Community Building Art Works, “You Belong Here”, 25 November 2024, interview Next Next NPR (KCUR), “Transgender Healthcare Ban in Missouri”, 25 April 2023, Steve Kraske and Elizabeth Ruiz Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Contact General Inquiries: inquiries@alleria4statedelegate.org Press : press@alleria4statedelegate.org Phone: (202) 838-7503 Authorized by Citizens for Alleria Stanley, Elizabeth Meier, Treasurer.

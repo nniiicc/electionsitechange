@@ -1,15 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+%28Eagan+9%29&dates=20261017T150000Z%2F20261017T160000Z",
-"https://forms.gle/uxuV4VfjzyDBXQqB9",
-"https://secure.actblue.com/donate/votechristos",
-"https://votechristos.com/",
-"https://votechristos.com/cart",
-"https://votechristos.com/contact",
-"https://votechristos.com/endorsements",
-"https://votechristos.com/events",
-"https://votechristos.com/events/door-knocking-eagan-11",
-"https://votechristos.com/events/door-knocking-eagan-6",
-"https://votechristos.com/events/door-knocking-eagan-9?format=ical",
-"https://votechristos.com/pictures",
-"https://votechristos.com/priorities"
+{
+"text": "0",
+"href": "https://votechristos.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://votechristos.com/events"
+},
+{
+"text": "Contact",
+"href": "https://votechristos.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/votechristos"
+},
+{
+"text": "Endorsements",
+"href": "https://votechristos.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://votechristos.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+%28Eagan+9%29&dates=20261017T150000Z%2F20261017T160000Z"
+},
+{
+"text": "Home",
+"href": "https://votechristos.com/"
+},
+{
+"text": "ICS",
+"href": "https://votechristos.com/events/door-knocking-eagan-9?format=ical"
+},
+{
+"text": "Next Next October 24 Door Knocking (Eagan 11)",
+"href": "https://votechristos.com/events/door-knocking-eagan-11"
+},
+{
+"text": "Pictures",
+"href": "https://votechristos.com/pictures"
+},
+{
+"text": "Previous Previous October 10 Door Knocking (Eagan 6)",
+"href": "https://votechristos.com/events/door-knocking-eagan-6"
+},
+{
+"text": "Priorities",
+"href": "https://votechristos.com/priorities"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://forms.gle/uxuV4VfjzyDBXQqB9"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/uxuV4VfjzyDBXQqB9"
+},
+{
+"text": "[image: Christos Jensen for MN house]",
+"href": "https://votechristos.com/"
+},
+{
+"text": "votechristos@gmail.com",
+"href": "mailto:votechristos@gmail.com"
+}
 ]

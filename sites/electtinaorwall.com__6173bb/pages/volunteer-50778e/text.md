@@ -1,27 +1,3 @@
-Meet Tina
-News
-Accomplishments
-Volunteer
-Donate
-Meet Tina
-News
-Accomplishments
-Volunteer
-Donate
-Volunteer
-Name
-(Required)
-First
-Last
-Phone
-Email
-(Required)
-I would like to help get Tina elected by....
-(Required)
-Endorse Tina
-Get a yard sign
-Hosting a fundraiser
-Knocking on doors
-Calling voters
-Texting voters
-Not sure, but I want to help!
+Meet Tina News Accomplishments Volunteer Donate Meet Tina News Accomplishments Volunteer Donate Volunteer Name (Required) First Last Phone Email (Required) I would like to help get Tina elected by....
+(Required) Endorse Tina Get a yard sign Hosting a fundraiser Knocking on doors Calling voters Texting voters Not sure, but I want to help!
+Paid for by People for Tina Orwall 17837 1st Ave S #299 Normandy Park, WA 98148

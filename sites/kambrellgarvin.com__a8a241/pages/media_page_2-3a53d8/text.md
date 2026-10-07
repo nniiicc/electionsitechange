@@ -1,27 +1,16 @@
-The House of Representatives amended, approved, and sent the Senate H.4404, a bill enacting the “VETERANS NURSING DEGREE OPPORTUNITY ACT” as a means of both addressing the state’s nurse shortage and…
-Read More
-Lawmakers returned to the State House on January 14, 2020, to commence the second regular session of the 123rd South Carolina General Assembly.
-The House of Representatives approved S.11 and enrolled the bill…
-Read More
-Rep.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Latest News The State Capitol Report – 1/27/2020 Kambrell Garvin February 1, 2020 Comments Off on The State Capitol Report – 1/27/2020 Uncategorized The House of Representatives amended, approved, and sent the Senate H.4404, a bill enacting the “VETERANS NURSING DEGREE OPPORTUNITY ACT” as a means of both addressing the state’s nurse shortage and… Read More The State Capitol Report – 1/17/2020 Kambrell Garvin February 1, 2020 Comments Off on The State Capitol Report – 1/17/2020 Uncategorized Lawmakers returned to the State House on January 14, 2020, to commence the second regular session of the 123rd South Carolina General Assembly.
+The House of Representatives approved S.11 and enrolled the bill… Read More October 29, 2019 Rep.
+Garvin to File Bill to Combat Implicit Bias in Healthcare “South Carolina Dignity in Pregnancy and Childbirth Act” to require implicit bias training for health care staff kamgarv18 Comments Off on Rep.
+Garvin to File Bill to Combat Implicit Bias in Healthcare “South Carolina Dignity in Pregnancy and Childbirth Act” to require implicit bias training for health care staff Uncategorized Rep.
 Kambrell Garvin (D-Richland) will file the “South Carolina Dignity in Pregnancy and Childbirth Act,” which would require health care providers to implement an evidence-based implicit bias program to train health care staff.
-Read More
-Columbia, SC – Rep.
+Read More October 29, 2019 Rep.
+Kambrell Garvin Will File ‘Crown Act’ to Ban Racist Discrimination Against Hair kamgarv18 Comments Off on Rep.
+Kambrell Garvin Will File ‘Crown Act’ to Ban Racist Discrimination Against Hair Uncategorized Columbia, SC – Rep.
 Kambrell Garvin (D-Richland) will file the ‘Crown Act’ to ban racial or ethnic discrimination against facial features, hair textures, hair types, hair styles, and protective hairstyles associated….
-Read More
-The General Assembly concluded work on the regular legislative session, but lawmakers are scheduled to return later this month under the terms of S.785, a resolution EXTENDING THE SESSION OF THE…
-Read More
-The House of Representatives amended and gave second reading approval to H.3757, a bill establishing the WORKFORCE AND EDUCATION DATA OVERSIGHT COMMITTEE to support the mission of the Coordinating Council…
-Read More
-The House of Representatives amended, approved, and sent the Senate H.3020, the “SOUTH CAROLINA FETAL HEARTBEAT PROTECTION FROM ABORTION ACT”.
-The legislation establishes a prohibition on the performance of an abortion…
-Read More
-The House of Representatives will be on furlough during the week preceding Easter to lower operating costs and save taxpayer dollars.
+Read More The State Capital Report – 5/15/2019 Kambrell Garvin May 15, 2019 Comments Off on The State Capital Report – 5/15/2019 Uncategorized The General Assembly concluded work on the regular legislative session, but lawmakers are scheduled to return later this month under the terms of S.785, a resolution EXTENDING THE SESSION OF THE… Read More The State Capital Report – 5/3/2019 Kambrell Garvin May 14, 2019 Comments Off on The State Capital Report – 5/3/2019 Uncategorized The House of Representatives amended and gave second reading approval to H.3757, a bill establishing the WORKFORCE AND EDUCATION DATA OVERSIGHT COMMITTEE to support the mission of the Coordinating Council… Read More The State Capital Report – 4/26/2019 Kambrell Garvin May 14, 2019 Comments Off on The State Capital Report – 4/26/2019 Uncategorized The House of Representatives amended, approved, and sent the Senate H.3020, the “SOUTH CAROLINA FETAL HEARTBEAT PROTECTION FROM ABORTION ACT”.
+The legislation establishes a prohibition on the performance of an abortion… Read More The State Capital Report – 4/15/2019 Kambrell Garvin April 15, 2019 Comments Off on The State Capital Report – 4/15/2019 Uncategorized The House of Representatives will be on furlough during the week preceding Easter to lower operating costs and save taxpayer dollars.
 The House will reconvene on April 23.
-The House…
-Read More
-The House of Representatives amended, approved, and sent the Senate on H.4287, legislation establishing a protocol for EVALUATING PROPOSALS FOR THE SALE OF SANTEE COOPER OR OTHER ARRANGEMENTS in order to…
-Read More
-The House of Representatives approved and sent the Senate H.4243, a bill addressing PROFESSIONAL SPORTS TEAM INVESTMENTS.
-The legislation revises job tax credit provisions to allow a professional sports team…
-Read More
+The House… Read More The State Capital Report – 4/9/2019 Kambrell Garvin April 10, 2019 Comments Off on The State Capital Report – 4/9/2019 Uncategorized The House of Representatives amended, approved, and sent the Senate on H.4287, legislation establishing a protocol for EVALUATING PROPOSALS FOR THE SALE OF SANTEE COOPER OR OTHER ARRANGEMENTS in order to… Read More The State Capital Report – 3/29/2019 Kambrell Garvin April 1, 2019 Comments Off on The State Capital Report – 3/29/2019 Uncategorized The House of Representatives approved and sent the Senate H.4243, a bill addressing PROFESSIONAL SPORTS TEAM INVESTMENTS.
+The legislation revises job tax credit provisions to allow a professional sports team… Read More Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020 Posts pagination Page 1 Page 2 Page 3

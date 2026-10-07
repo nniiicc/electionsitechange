@@ -1,7 +1,4 @@
-The Dark Money Ban That Dark Money Is Paying For
-Articles
-The Dark Money Ban That Dark Money Is Paying For
-I feel betrayed.
+Skip to content × Home Meet Lyn On The Issues Articles Contact Donate The Dark Money Ban That Dark Money Is Paying For Articles The Dark Money Ban That Dark Money Is Paying For I feel betrayed.
 They told us I-194 would keep dark money out of Montana politics.
 That's the pitch.
 It's not what the law does.
@@ -45,3 +42,5 @@ We've heard "reform" before.
 We know exactly what a stacked fight feels like from the inside.
 Don't let a slogan talk you out of thinking it through.
 Vote no on I-194.
+Privacy Policy Paid for by The Lyn Hellegaard Campaign, 3828 Bellecrest Dr, Missoula MT 59801 © # Lyn Hellegaard.
+All rights reserved Powered by Verastly ×

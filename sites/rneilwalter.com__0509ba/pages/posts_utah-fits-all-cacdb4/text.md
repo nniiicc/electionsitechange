@@ -1,9 +1,9 @@
-| On Friday January 20, 2023, the Utah State House of Representatives voted to pass HB215, also know as Utah Fits All.
+UT 74 VOTE ABOUT Posts Experience Contact Utah Fits All 1/21/2023 On Friday January 20, 2023, the Utah State House of Representatives voted to pass HB215, also know as Utah Fits All.
 I was one of 54 House members who voted in favor of the bill.
 The Senate is expected to take up the bill this week and the Governor is expected to sign it.
 This bill has broad positive impacts for students, families, and teachers in the State of Utah.
 A few highlights: 1. $200 million for teacher raises.
-Utah's teachers will receive a $4,200 raise plus an additional $1,800 increase in paid benefits, totaling $6,000 for Utah's district and charter school teachers. 2.
+Utah's teachers will receive a $4,200 raise plus an additional $1,800 increase in paid benefits, totaling $6,000 for Utah's district and charter school teachers. ​ 2.
 A new scholarship will be available to approximately 5,000 of Utah's 675,000 students (about 4 students in each school).
 The scholarship prioritizes low income students, and provides funds for those students and their parents to pursue alternative education options directed by the family.
 This student scholarship, also referred to an education savings account, is not unique to Utah.
@@ -16,12 +16,4 @@ I am for education.
 I am for schools.
 I am for teachers, I am for students, and I am for families.
 If you would like to learn more about the bill, below are two helpful summaries.
-Download File Download File | |
-| HB215 Overview | |
-| File Size: | 78 kb |
-| File Type: | |
-Download File
-| HB215 Legislative Summary | |
-| File Size: | 46 kb |
-| File Type: | |
-Download File
+HB215 Overview File Size: 78 kb File Type: pdf Download File HB215 Legislative Summary File Size: 46 kb File Type: pdf Download File View House Bill 215 Comments are closed. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

@@ -1,21 +1,110 @@
 [
-"https://facebook.com/profile.php?id=61588022211048",
-"https://fightingfifty.org/",
-"https://instagram.com/anthonyaragues",
-"https://peopleoverpolitics.vote/",
-"https://peopleoverpolitics.vote/about-anthony",
-"https://peopleoverpolitics.vote/affordability",
-"https://peopleoverpolitics.vote/bills-to-watch",
-"https://peopleoverpolitics.vote/cherokee-county/elections",
-"https://peopleoverpolitics.vote/combined-tax",
-"https://peopleoverpolitics.vote/events",
-"https://peopleoverpolitics.vote/freedoms",
-"https://peopleoverpolitics.vote/ice",
-"https://peopleoverpolitics.vote/income-tax",
-"https://peopleoverpolitics.vote/poll",
-"https://peopleoverpolitics.vote/property-tax",
-"https://registertovote.sos.ga.gov/",
-"https://secure.actblue.com/donate/anthony-aragues-1",
-"https://votecommongood.com/",
-"https://votevets.org/"
+{
+"text": "About Anthony",
+"href": "https://www.peopleoverpolitics.vote/about-anthony"
+},
+{
+"text": "About AnthonyWho Anthony is, what shaped him, and why he is running",
+"href": "https://www.peopleoverpolitics.vote/about-anthony"
+},
+{
+"text": "Affordability",
+"href": "https://www.peopleoverpolitics.vote/affordability"
+},
+{
+"text": "AffordabilityGeorgia family budgets, wages, taxes, and cost-of-living math",
+"href": "https://www.peopleoverpolitics.vote/affordability"
+},
+{
+"text": "Anthony Aragues",
+"href": "https://www.peopleoverpolitics.vote/about-anthony"
+},
+{
+"text": "Bills to Watch",
+"href": "https://www.peopleoverpolitics.vote/bills-to-watch"
+},
+{
+"text": "Bills to WatchPublic tracker for active Georgia legislation",
+"href": "https://www.peopleoverpolitics.vote/bills-to-watch"
+},
+{
+"text": "Cherokee Elections",
+"href": "https://www.peopleoverpolitics.vote/cherokee-county/elections"
+},
+{
+"text": "Cherokee ElectionsDistrict maps, candidates, and local election resources",
+"href": "https://www.peopleoverpolitics.vote/cherokee-county/elections"
+},
+{
+"text": "Combined TaxProperty + income elimination scenario",
+"href": "https://www.peopleoverpolitics.vote/combined-tax"
+},
+{
+"text": "Community Poll",
+"href": "https://www.peopleoverpolitics.vote/poll"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/anthony-aragues-1"
+},
+{
+"text": "Events",
+"href": "https://www.peopleoverpolitics.vote/events"
+},
+{
+"text": "Income TaxRemoval impact and replacement math",
+"href": "https://www.peopleoverpolitics.vote/income-tax"
+},
+{
+"text": "PEOPLE OVER POLITICS",
+"href": "https://www.peopleoverpolitics.vote/"
+},
+{
+"text": "Personal LibertyPrivacy, informed consent, faith, family, and equal treatment",
+"href": "https://www.peopleoverpolitics.vote/freedoms"
+},
+{
+"text": "Property TaxAnalysis and proposals for Georgia",
+"href": "https://www.peopleoverpolitics.vote/property-tax"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovote.sos.ga.gov/"
+},
+{
+"text": "Register to Vote in Georgia",
+"href": "https://registertovote.sos.ga.gov/"
+},
+{
+"text": "Tax Math",
+"href": "https://www.peopleoverpolitics.vote/combined-tax"
+},
+{
+"text": "Warrants & Due ProcessGeorgia brief on constitutional limits and public safety",
+"href": "https://www.peopleoverpolitics.vote/ice"
+},
+{
+"text": "[image: Anthony Aragues]",
+"href": "https://www.peopleoverpolitics.vote/about-anthony"
+},
+{
+"text": "[image: Common Good Candidate endorsement logo]Common Good Candidate",
+"href": "https://www.votecommongood.com/"
+},
+{
+"text": "[image: Fighting Fifty endorsement logo]Fighting Fifty",
+"href": "https://www.fightingfifty.org/"
+},
+{
+"text": "[image: VoteVets endorsement logo]VoteVets",
+"href": "https://votevets.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588022211048"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/anthonyaragues/"
+}
 ]

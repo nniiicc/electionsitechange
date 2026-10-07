@@ -1,8 +1,7 @@
-PLEASE READ THESE TERMS OF SERVICE CAREFULLY.
+top of page PLEASE READ THESE TERMS OF SERVICE CAREFULLY.
 BY ACCESSING OR USING THIS WEB SITE, MOBILE APPLICATION OR OTHER DIGITAL OR ONLINE APPLICATION OR SERVICE LINKED HERETO, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE.
 IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THIS WEB SITE, MOBILE APPLICATION OR OTHER DIGITAL OR ONLINE APPLICATION OR SERVICE.
-This website, mobile application or other digital or online application or service is operated by Cunningham for NM.
-(“Cunningham”, “we,” “us” or “our”).
+This website, mobile application or other digital or online application or service is operated by Cunningham for NM. (“Cunningham”, “we,” “us” or “our”).
 These Terms of Service apply solely to your access to, and use of, the www.cunninghamfornm.com operated by us and other of our websites, mobile applications, or digital or online applications or services which link to these Terms of Service (collectively, the “Sites”).
 These Terms of Service do not alter in any way the terms or conditions of any other agreement you may have with us.
 We reserve the right to change or modify any of the terms and conditions contained in the Terms of Service or any policy or guideline of the Sites at any time and in our sole discretion.
@@ -10,7 +9,7 @@ Any changes or modification to the terms and conditions will take effect immedia
 You waive any right you may have to receive specific notice of such changes or modifications; your continued use of these Sites following the posting of changes or modifications will confirm your acceptance of such changes or modifications.
 Therefore, you should frequently review the Terms of Service and applicable policies to understand the terms and conditions that apply to your use of the Sites.
 If you do not agree to the amended terms, you must stop using the Sites.
-All questions or comments about the Sites or site content should be directed to info@cunninghamfornm.com.
+All questions or comments about the Sites or site content should be directed to info@cunninghamfornm.com .
 PRIVACY POLICY.
 Please refer to our Privacy Policy for information on how we collect, use and disclose information obtained from users of the Sites.
 CONTRIBUTION POLICY.
@@ -25,8 +24,7 @@ If you believe that an error has been made in connection with your online contri
 MOBILE MESSAGING.
 If you request to receive updates or other information by mobile phone or text message (the “SMS Service”) through the Sites, you expressly consent to receiving via your mobile device text messages, including text messages (a) sent by an automatic telephone dialing system, (b) that include pre-recorded voice, and/or (c) that include automated voice, in each case from us or a third-party contractor we have retained for their expertise in initiating and transmitting text messages.
 We do not charge for this SMS Service; however, your carrier’s standard messaging, data and other rates and fees still apply to any messages you send, our confirmations, and all subsequent SMS correspondence and/or transmissions.
-At any time, you may text STOP to cancel or HELP for customer support information.
-By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+At any time, you may text STOP to cancel or HELP for customer support information. ​ By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
 By participating, you agree to the terms & privacy policy for auto dialed messages from Cunningham for NM to the phone number you provide.
 Text JOIN to 90547 to opt in.
 No consent is required to buy.
@@ -60,15 +58,7 @@ USER CONTENT AND INTERACTIVE AREAS.
 The Sites may include interactive areas or services (“Interactive Areas”), such as forums, blogs, chat rooms or message boards, or other areas or services in which you or other users may create, post, share or store content, messages, materials, data, information, text, graphics, audio, video, or other items or materials on the Sites (“User Content”).
 You are solely responsible for your use of such Interactive Areas and use them at your own risk.
 By posting User Content, you represent and warrant that (a) you own and control all of the rights to the User Content that you post or you otherwise have the right to post such User Content to the Sites; (b) the User Content is accurate and not misleading; and (c) use and posting of the User Content you supply does not violate these Terms of Service and will not violate any rights of or cause injury to any person or entity.
-By using any Interactive Areas, you agree not to post, upload, transmit, distribute, store, create, or otherwise publish to or through the Sites any of the following:
-User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, discriminatory, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent, deceptive or misleading;
-User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law;
-User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party;
-User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity;
-Unsolicited promotions, advertising, or solicitations;
-Private or personally identifying information of any third party, including, without limitation, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers;
-Viruses, corrupted data or other harmful, disruptive or destructive files; or
-User Content that, in the sole judgment of Cunningham, is objectionable or which restricts or inhibits any other person from using or enjoying the Interactive Areas or the Sites, or which may expose Cunningham or its users to any harm or liability of any type.
+By using any Interactive Areas, you agree not to post, upload, transmit, distribute, store, create, or otherwise publish to or through the Sites any of the following: User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, discriminatory, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent, deceptive or misleading; User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law; User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party; User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity; Unsolicited promotions, advertising, or solicitations; Private or personally identifying information of any third party, including, without limitation, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers; Viruses, corrupted data or other harmful, disruptive or destructive files; or User Content that, in the sole judgment of Cunningham, is objectionable or which restricts or inhibits any other person from using or enjoying the Interactive Areas or the Sites, or which may expose Cunningham or its users to any harm or liability of any type.
 We take no responsibility and assume no liability for any User Content posted, stored or uploaded by you or any third party, or for any loss or damage thereto, nor are we liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, profanity or other objectionable content you may encounter.
 Your use of Interactive Areas is at your own risk.
 Enforcement of the user content or conduct rules set forth in these Terms of Service is solely at our discretion, and failure to enforce such rules in some instances does not constitute a waiver of our right to enforce such rules in other instances.
@@ -107,3 +97,4 @@ TERMINATION.
 Notwithstanding any of these Terms of Service, at all times we reserve the right, without notice and in our sole discretion, to terminate your license to use the Sites, and to block or prevent future your access to and use of the Sites.
 SEVERABILITY.
 If any provision of these Terms of Service shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms of Service and shall not affect the validity and enforceability of any of the remaining provisions.
+Home bottom of page

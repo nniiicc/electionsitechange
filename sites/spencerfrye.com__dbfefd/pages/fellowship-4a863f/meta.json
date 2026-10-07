@@ -1,9 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.spencerfrye.com/fellowship/",
- "paid_for_by": null,
+ "fingerprint": "43082a7d8d944b7c57faa64b94cd96034beb49ff",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Fellowship - Georgia State Representative Spencer Frye",
  "years_mentioned": [
-  "2011"
+  "2011",
+  "2026",
+  "2027"
  ]
 }

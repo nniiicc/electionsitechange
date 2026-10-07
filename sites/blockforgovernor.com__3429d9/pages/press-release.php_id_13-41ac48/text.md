@@ -1,11 +1,9 @@
-Barrington, Rhode Island —
-BARRINGTON, RI — Independent candidate for Governor Ken Block responded to news that the scope of Helena Foulkes’ campaign finance violations is broader than originally reported.
+★ November 3, 2026 Countdown to Election Day # Days # Hours # Minutes # Seconds Home About Issues Appearances Media & Press Ken I Be Honest Polls Donate Donate ← Media & Press Official Press Release Helena Foulkes Campaign Continued to Exceed Contribution Limits While Previous Violations Remained Unresolved Independent candidate for Governor Ken Block: “The Foulkes campaign failed to resolve previous violations and then continued to break the law” Release Date September 24, 2026 Location Barrington, Rhode Island Media Contact michelle@blockforgovernor.com Barrington, Rhode Island — BARRINGTON, RI — Independent candidate for Governor Ken Block responded to news that the scope of Helena Foulkes’ campaign finance violations is broader than originally reported.
 “I am astounded because this number of violations over a period of multiple years is more than negligence, it is knowing and willful,” said Block.
 “The Foulkes campaign failed to resolve previous violations and then continued to break the law.
-That is completely unacceptable.”
-Yesterday, GoLocalProv reported that the Rhode Island Board of Elections had notified the Foulkes campaign of prior violations of the individual contribution limit (currently set at $2,000 per year) and that some of these violations are still not resolved.
-The Providence Journal published an article yesterday saying that the Foulkes campaign is in the process of refunding $10,500 in illegal donations going back to 2023 and it has already refunded an additional $51,450 over the same period.
+That is completely unacceptable.” Yesterday, GoLocalProv reported that the Rhode Island Board of Elections had notified the Foulkes campaign of prior violations of the individual contribution limit (currently set at $2,000 per year) and that some of these violations are still not resolved.
+The Providence Journal published an article yesterday saying that the Foulkes campaign is in the process of refunding $# in illegal donations going back to 2023 and it has already refunded an additional $# over the same period.
 WPRI has also covered this story.
 “Given the scale of illegal contribution activity by the Foulkes campaign, the Board of Elections should levy a significant penalty,” said Block.
-“Furthermore, I call on the Foulkes campaign to forfeit any future excess donations directly to the State of Rhode Island given the campaign’s track record of failing to resolve violations through the issuance of refunds.”
-# # #
+“Furthermore, I call on the Foulkes campaign to forfeit any future excess donations directly to the State of Rhode Island given the campaign’s track record of failing to resolve violations through the issuance of refunds.” # # # ← Back to Media & Press ✉ Media Contact For questions, interviews, or additional information, contact Michelle Conway. michelle@blockforgovernor.com ★ About Ken Block Ken Block is an independent candidate for Governor of Rhode Island focused on accountable, effective government that works for every resident.
+Learn more about Ken → Privacy Policy Terms of Use Copyright ©# blockforgovernor All Rights Reserved.

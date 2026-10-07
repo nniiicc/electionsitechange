@@ -1,4 +1,9 @@
-Mass Transit
-Pierce Transit breaks ground on Spanaway Transit Center.
-Funded jointly by WSDOT and the FTA, $3 million in federal support was championed by Representative Marilyn Strickland and Senator Maria Cantwell.
-Both attended the groundbreaking event, speaking of their ongoing support of transit and the importance of facilitating connections within our … Read More
+Donate Home About Jake Endorsements Issues News Get Involved Contact Donate Get Involved Name * First Last Email address * Phone Address Street Address Address Line 2 City Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific State Address * ZIP Code How would you like to help out? * Knock doors Write letters to the editor Work at HQ Make phone calls Host a Fundraiser Other Let us know any other comments you have!
+Submit News Mass Transit Pierce Transit breaks ground on Spanaway Transit Center.
+October 5, 2022 Funded jointly by WSDOT and the FTA, $3 million in federal support was championed by Representative Marilyn Strickland and Senator Maria Cantwell.
+Both attended the groundbreaking event, speaking of their ongoing support of transit and the importance of facilitating connections within our … Read More The News Tribune Free Youth Transit Passes are a win.
+September 4, 2022 The Free Youth Transit Pass brings to life the vision of breaking down transportation barriers for young people and enhancing opportunities.
+For that we express our gratitude to our state legislators, including Tacoma Representative and House Transportation Chair Jake Fey, for crafting the … Read More 425 Business Event Celebrates Eastrail’s $29M in State Funding, Diverse Partnerships, Connections.
+August 24, 2022 State Rep.
+Jake Fey, chair of the House Transportation [Committee], was dressed in riding gear for the morning’s tour and complimented Liias for his partnership on “active transportation” in the budget. … “Most importantly, it looks like this will be, when completed, a great additional … Read More More News Paid for by Committee to Elect Jake Fey PO Box 1372 Tacoma, WA 98401 | (253) 383-5908 | info@jakefey.com

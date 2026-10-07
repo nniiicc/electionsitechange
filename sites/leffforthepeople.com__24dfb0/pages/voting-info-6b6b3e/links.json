@@ -1,18 +1,74 @@
 [
-"https://dos.fl.gov/elections/for-voters/voting/vote-by-mail",
-"https://heyvictor.com/",
-"https://instagram.com/leff.4.thepeople",
-"https://iwillvote.com/register?state=FL",
-"https://leffforthepeople.com/",
-"https://leffforthepeople.com/accessibility-statement",
-"https://leffforthepeople.com/issues",
-"https://leffforthepeople.com/meet-the-candidate",
-"https://leffforthepeople.com/terms-of-service",
-"https://leffforthepeople.com/volunteer",
-"https://leffforthepeople.com/voting-info",
-"https://secure.actblue.com/donate/susan-leff-2",
-"https://votepinellas.gov/189/Check-My-Status",
-"https://votepinellas.gov/198/Find-Precinct-Polling-Place",
-"https://votepinellas.gov/200/Early-Voting",
-"https://votepinellas.gov/201/Are-You-Election-Ready"
+{
+"text": "Accessibility Statement",
+"href": "https://leffforthepeople.com/accessibility-statement/"
+},
+{
+"text": "Are You Election Ready?",
+"href": "https://www.votepinellas.gov/201/Are-You-Election-Ready"
+},
+{
+"text": "Check My Status",
+"href": "https://www.votepinellas.gov/189/Check-My-Status"
+},
+{
+"text": "Contact",
+"href": "mailto:"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/susan-leff-2?amount="
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://www.votepinellas.gov/198/Find-Precinct-Polling-Place"
+},
+{
+"text": "Home",
+"href": "https://leffforthepeople.com/"
+},
+{
+"text": "Issues",
+"href": "https://leffforthepeople.com/issues/"
+},
+{
+"text": "Meet The Candidate",
+"href": "https://leffforthepeople.com/meet-the-candidate/"
+},
+{
+"text": "Register to Vote",
+"href": "https://iwillvote.com/register/?state=FL"
+},
+{
+"text": "Terms of Service",
+"href": "https://leffforthepeople.com/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://leffforthepeople.com/volunteer/"
+},
+{
+"text": "Vote By Mail",
+"href": "https://dos.fl.gov/elections/for-voters/voting/vote-by-mail/"
+},
+{
+"text": "Vote Early",
+"href": "https://www.votepinellas.gov/200/Early-Voting"
+},
+{
+"text": "Voting Info",
+"href": "https://leffforthepeople.com/voting-info/"
+},
+{
+"text": "[image: campaign logo]",
+"href": "https://leffforthepeople.com/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/leff.4.thepeople"
+}
 ]

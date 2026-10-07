@@ -1,6 +1,1 @@
-We need a major, emergency economic transformation to renewable energy and green jobs, to address our climate change crisis now.
-@nancywallaceforcongress
-nancywallace4congress
-nancybwallace.tumblr.com
-Nancy's Youtube channel
-"Wonderful World"
+Green Party Home | Meet Nancy | Issues | Endorsements | Join | Donate | Contact | Police Tweets by @NancyBWallace We need a major, emergency economic transformation to renewable energy and green jobs, to address our climate change crisis now. @nancywallaceforcongress nancywallace4congress nancybwallace.tumblr.com Nancy's Youtube channel "Wonderful World" © 2026 Nancy Wallace For Congress | This website powered by solar energy through AISO | Website by Teammedia | 🍁

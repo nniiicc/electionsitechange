@@ -1,38 +1,158 @@
 [
-"https://edf.org/media/midwestern-families-hook-180-million-keep-michigan-coal-plant-open-under-trump",
-"https://facebook.com/YOURPAGE",
-"https://instagram.com/YOURPAGE",
-"https://legislature.mi.gov/",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4765",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HR-0219",
-"https://lwvmi.org/voting-rights",
-"https://michigan.gov/sos/resources/news/2026/03/03/statement-on-proposed-michigan-house-legislation-to-prevent-eligible-citizens-from-voting",
-"https://michiganadvance.com/2025/11/17/house-dems-resolution-demands-feds-stop-extending-operations-for-a-west-michigan-coal-plant",
-"https://michiganadvance.com/2026/05/19/with-the-federal-voting-rights-act-gutted-michigan-democrats-have-crafted-their-own-version",
-"https://michiganindependent.com/politics/michigan-house-republicans-pass-bill-requiring-proof-of-citizenship-to-vote",
-"https://michiganpublic.org/environment-climate-change/2026-05-15/feds-order-to-halt-closure-of-aging-michigan-coal-plant-is-illegal-plaintiffs-tell-judges",
-"https://michiganvotes.org/Legislator.aspx?ID=145345",
-"https://secure.actblue.com/donate/YOURPAGE",
-"https://secure.actblue.com/donate/rachel-longendyke-teeter-1",
-"https://senatedems.com/chang/2026/05/13/michigan-senate-democrats-reintroduce-michigan-voting-rights-act-to-protect-access-to-the-ballot-box",
-"https://wearethe105.com/",
-"https://wearethe105.com/about",
-"https://wearethe105.com/about-rachel",
-"https://wearethe105.com/cart",
-"https://wearethe105.com/endorsements",
-"https://wearethe105.com/events",
-"https://wearethe105.com/find-fun",
-"https://wearethe105.com/find-help",
-"https://wearethe105.com/findhelp",
-"https://wearethe105.com/get-involved",
-"https://wearethe105.com/rachelorken",
-"https://wearethe105.com/the-105",
-"https://wearethe105.com/updates",
-"https://wearethe105.com/volunteer",
-"https://wearethe105.com/whats-up-in-lansing",
-"https://wearethe105.com/whatsuplansing",
-"https://wearethe105.com/where-we-stand",
-"https://wearethe105.com/yard-sign",
-"https://wearethe105.com/yardsign",
-"https://youtube.com/@YOURPAGE"
+{
+"text": "0",
+"href": "https://www.wearethe105.com/cart"
+},
+{
+"text": "About Rachel",
+"href": "https://www.wearethe105.com/about"
+},
+{
+"text": "About Rachel",
+"href": "https://www.wearethe105.com/about-rachel"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/YOURPAGE"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/rachel-longendyke-teeter-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.wearethe105.com/endorsements"
+},
+{
+"text": "Environmental Defense Fund, May 4, 2026",
+"href": "https://www.edf.org/media/midwestern-families-hook-180-million-keep-michigan-coal-plant-open-under-trump"
+},
+{
+"text": "Events",
+"href": "https://www.wearethe105.com/events"
+},
+{
+"text": "Find Fun",
+"href": "https://www.wearethe105.com/find-fun"
+},
+{
+"text": "Find Help",
+"href": "https://www.wearethe105.com/findhelp"
+},
+{
+"text": "Find help in the 105",
+"href": "https://www.wearethe105.com/find-help"
+},
+{
+"text": "Get involved",
+"href": "https://www.wearethe105.com/get-involved"
+},
+{
+"text": "HOME: WE ARE THE 105",
+"href": "https://www.wearethe105.com/"
+},
+{
+"text": "HR 219 — Michigan Legislature",
+"href": "https://www.legislature.mi.gov/Bills/Bill?ObjectName=2025-HR-0219"
+},
+{
+"text": "Home",
+"href": "https://www.wearethe105.com/"
+},
+{
+"text": "House Bill 4765 — Michigan Legislature",
+"href": "https://www.legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4765"
+},
+{
+"text": "League of Women Voters of Michigan — MIVRA",
+"href": "https://lwvmi.org/voting-rights/"
+},
+{
+"text": "Michigan Advance — \"With the federal Voting Rights Act gutted, Michigan Democrats have crafted their own version\"",
+"href": "https://michiganadvance.com/2026/05/19/with-the-federal-voting-rights-act-gutted-michigan-democrats-have-crafted-their-own-version/"
+},
+{
+"text": "Michigan Advance, Nov. 17, 2025",
+"href": "https://michiganadvance.com/2025/11/17/house-dems-resolution-demands-feds-stop-extending-operations-for-a-west-michigan-coal-plant/"
+},
+{
+"text": "Michigan Department of State statement, March 3, 2026",
+"href": "https://www.michigan.gov/sos/resources/news/2026/03/03/statement-on-proposed-michigan-house-legislation-to-prevent-eligible-citizens-from-voting"
+},
+{
+"text": "Michigan Independent, March 2026",
+"href": "https://michiganindependent.com/politics/michigan-house-republicans-pass-bill-requiring-proof-of-citizenship-to-vote/"
+},
+{
+"text": "Michigan Public Radio, May 15, 2026",
+"href": "https://www.michiganpublic.org/environment-climate-change/2026-05-15/feds-order-to-halt-closure-of-aging-michigan-coal-plant-is-illegal-plaintiffs-tell-judges"
+},
+{
+"text": "Rachel or Ken?",
+"href": "https://www.wearethe105.com/rachelorken"
+},
+{
+"text": "Rep. Ken Borton's voting record — MichiganVotes.org",
+"href": "https://www.michiganvotes.org/Legislator.aspx?ID=145345"
+},
+{
+"text": "Request a yard sign",
+"href": "https://www.wearethe105.com/yard-sign"
+},
+{
+"text": "Senate Bills 961-964 — Michigan Legislature",
+"href": "https://www.legislature.mi.gov"
+},
+{
+"text": "Senate Democrats announcement, May 13, 2026",
+"href": "https://senatedems.com/chang/2026/05/13/michigan-senate-democrats-reintroduce-michigan-voting-rights-act-to-protect-access-to-the-ballot-box/"
+},
+{
+"text": "The 105",
+"href": "https://www.wearethe105.com/the-105"
+},
+{
+"text": "Updates",
+"href": "https://www.wearethe105.com/updates"
+},
+{
+"text": "Volunteer",
+"href": "https://www.wearethe105.com/volunteer"
+},
+{
+"text": "What's up in Lansing",
+"href": "https://www.wearethe105.com/whats-up-in-lansing"
+},
+{
+"text": "What's up, Lansing?",
+"href": "https://www.wearethe105.com/whatsuplansing"
+},
+{
+"text": "Where we stand",
+"href": "https://www.wearethe105.com/where-we-stand"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.wearethe105.com/yardsign"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/YOURPAGE"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/YOURPAGE"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@YOURPAGE"
+},
+{
+"text": "rachel@wearethe105.com",
+"href": "mailto:rachel@wearethe105.com"
+},
+{
+"text": "wearethe105.com",
+"href": "https://www.wearethe105.com"
+}
 ]

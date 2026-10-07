@@ -1,5 +1,4 @@
-Housing Affordability
-Over the last 10 years, housing prices have gone up much faster than how much people earn.
+0 Skip to Content Home About Updates/ Events Upcoming Events March 2, 2024 Newsletter Issues Pro-Life Pro-Mom Pro-Child Cutting Taxes Conserving Water For Great Salt Lake Supporting Students, Parents, and Teachers in K-12 Education Housing Affordability Supporting the Disabled Community Service Videos Endorsements Volunteer Contact Donate Open Menu Close Menu Home About Updates/ Events Upcoming Events March 2, 2024 Newsletter Issues Pro-Life Pro-Mom Pro-Child Cutting Taxes Conserving Water For Great Salt Lake Supporting Students, Parents, and Teachers in K-12 Education Housing Affordability Supporting the Disabled Community Service Videos Endorsements Volunteer Contact Donate Open Menu Close Menu Home About Folder: Updates/ Events Back Upcoming Events March 2, 2024 Newsletter Folder: Issues Back Pro-Life Pro-Mom Pro-Child Cutting Taxes Conserving Water For Great Salt Lake Supporting Students, Parents, and Teachers in K-12 Education Housing Affordability Supporting the Disabled Community Service Videos Endorsements Volunteer Contact Donate Housing Affordability Over the last 10 years, housing prices have gone up much faster than how much people earn.
 Worse yet, housing prices in Utah have gone up faster than almost anywhere else in the country.
 If we don’t find a way to allow for the free market to build more affordable housing, it will be difficult for any of our children to start a family and own a home here.
 I do not think the solution to this problem is taking taxes from some people to subsidize other people.
@@ -7,3 +6,4 @@ I think the solution is to remove bureaucratic barriers to the building of small
 Another part of the solution is to allow people to better control what goes on inside their own home.
 I am proud to have sponsored and passed legislation to allow much broader use of internal accessory dwelling units so people can share or rent space inside their own home.
 This is a very low-cost way of adding additional living spaces in our communities.
+RAY WARD HAS A PROVEN TRACK RECORD OF: Pro-life Pro-mom Pro-Child Supporting Students, Parents, and Teachers in K-12 Education Conserving Water for Great Salt Lake Supporting the Disabled Community Service Housing Affordability Cutting Taxes Let’s Stay Connected

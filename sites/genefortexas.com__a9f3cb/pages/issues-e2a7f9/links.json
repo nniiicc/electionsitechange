@@ -1,20 +1,86 @@
 [
-"https://facebook.com/votewu",
-"https://genefortexas.com/",
-"https://genefortexas.com/events",
-"https://genefortexas.com/get-involved",
-"https://genefortexas.com/issues",
-"https://genefortexas.com/meet-gene",
-"https://genefortexas.com/press",
-"https://genefortexas.com/privacy",
-"https://genefortexas.com/support",
-"https://instagram.com/genefortexas",
-"https://secure.actblue.com/donate/gene-wu-webpage",
-"https://secure.actblue.com/donate/gene-wu-webpage?amount=100",
-"https://secure.actblue.com/donate/gene-wu-webpage?amount=1000",
-"https://secure.actblue.com/donate/gene-wu-webpage?amount=25",
-"https://secure.actblue.com/donate/gene-wu-webpage?amount=250",
-"https://secure.actblue.com/donate/gene-wu-webpage?amount=50",
-"https://secure.actblue.com/donate/gene-wu-webpage?amount=500",
-"https://twitter.com/GeneforTexas"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage?amount=500"
+},
+{
+"text": "Chip in",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage"
+},
+{
+"text": "Events",
+"href": "https://genefortexas.com/events"
+},
+{
+"text": "Gene WuDemocrat for Texas House",
+"href": "https://genefortexas.com/"
+},
+{
+"text": "Get Involved",
+"href": "https://genefortexas.com/get-involved"
+},
+{
+"text": "Invest in the Campaign →",
+"href": "https://genefortexas.com/support"
+},
+{
+"text": "Issues",
+"href": "https://genefortexas.com/issues"
+},
+{
+"text": "Meet Gene",
+"href": "https://genefortexas.com/meet-gene"
+},
+{
+"text": "Other amount",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage"
+},
+{
+"text": "Press & media kit",
+"href": "https://genefortexas.com/press"
+},
+{
+"text": "Privacy",
+"href": "https://genefortexas.com/privacy"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/GeneforTexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votewu"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/genefortexas/"
+},
+{
+"text": "gene@genefortexas.com",
+"href": "mailto:gene@genefortexas.com"
+},
+{
+"text": "★ Most popular$100",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage?amount=100"
+}
 ]

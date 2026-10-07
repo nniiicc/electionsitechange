@@ -1,24 +1,90 @@
 [
-"http://instagram.com/repjimarciero",
-"https://facebook.com/jim.arciero",
-"https://littletonma.org/",
-"https://littletonma.org/town-clerk",
-"https://malegislature.gov/Committees/Detail/J27/Bills",
-"https://malegislature.gov/Committees/Detail/J27/Hearings",
-"https://malegislature.gov/Legislators/Profile/J_A1",
-"https://malegislature.gov/Legislators/Profile/J_A1/194/Bills/Cosponsored",
-"https://malegislature.gov/Search/FindMyLegislator",
-"https://repjamesarciero.com/",
-"https://repjamesarciero.com/about-new",
-"https://repjamesarciero.com/cart",
-"https://repjamesarciero.com/contact-main",
-"https://repjamesarciero.com/donate",
-"https://repjamesarciero.com/jimsdistrict",
-"https://repjamesarciero.com/new-page",
-"https://repjamesarciero.com/news",
-"https://repjamesarciero.com/podcasts",
-"https://townofchelmsford.us/",
-"https://townofchelmsford.us/235/Town-Clerk",
-"https://westfordma.gov/",
-"https://westfordma.gov/255/Town-Clerk"
+{
+"text": "0",
+"href": "https://repjamesarciero.com/cart"
+},
+{
+"text": "About",
+"href": "https://repjamesarciero.com/about-new"
+},
+{
+"text": "Chelmsford",
+"href": "https://www.townofchelmsford.us/235/Town-Clerk"
+},
+{
+"text": "Contact",
+"href": "https://repjamesarciero.com/contact-main"
+},
+{
+"text": "District & Issues",
+"href": "https://repjamesarciero.com/jimsdistrict"
+},
+{
+"text": "Donate",
+"href": "https://repjamesarciero.com/donate"
+},
+{
+"text": "Find My Legislator",
+"href": "https://malegislature.gov/Search/FindMyLegislator"
+},
+{
+"text": "Littleton",
+"href": "https://www.littletonma.org/town-clerk"
+},
+{
+"text": "News",
+"href": "https://repjamesarciero.com/news"
+},
+{
+"text": "Newsletter",
+"href": "https://repjamesarciero.com/new-page"
+},
+{
+"text": "Podcasts",
+"href": "https://repjamesarciero.com/podcasts"
+},
+{
+"text": "Town of Chelmsford",
+"href": "https://www.townofchelmsford.us"
+},
+{
+"text": "Town of Littleton",
+"href": "https://www.littletonma.org"
+},
+{
+"text": "Town of Westford",
+"href": "https://westfordma.gov"
+},
+{
+"text": "Westford",
+"href": "https://westfordma.gov/255/Town-Clerk"
+},
+{
+"text": "[image: State Rep. James Arciero]",
+"href": "https://repjamesarciero.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/repjimarciero"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jim.arciero"
+},
+{
+"text": "bills",
+"href": "https://malegislature.gov/Committees/Detail/J27/Bills"
+},
+{
+"text": "cosponsored bills here",
+"href": "https://malegislature.gov/Legislators/Profile/J_A1/194/Bills/Cosponsored"
+},
+{
+"text": "hearings",
+"href": "https://malegislature.gov/Committees/Detail/J27/Hearings"
+},
+{
+"text": "sponsored bills here",
+"href": "https://malegislature.gov/Legislators/Profile/J_A1"
+}
 ]

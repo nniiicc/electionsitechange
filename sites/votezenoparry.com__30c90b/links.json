@@ -1,9 +1,34 @@
 [
-"https://facebook.com/ForwardUtah",
-"https://forwardparty.com/",
-"https://instagram.com/fwdutah",
-"https://utahforwardparty.org/",
-"https://votezenoparry.com/CandidatePledge.pdf",
-"https://votezenoparry.com/index.html",
-"https://w3schools.com/w3css/default.asp"
+{
+"text": "About Zeno",
+"href": "https://www.votezenoparry.com/index.html"
+},
+{
+"text": "Candidate Pledge",
+"href": "https://www.votezenoparry.com/CandidatePledge.pdf"
+},
+{
+"text": "ForwardParty.com",
+"href": "https://www.forwardparty.com/#values"
+},
+{
+"text": "[image: Person]",
+"href": "https://www.utahforwardparty.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ForwardUtah"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/fwdutah"
+},
+{
+"text": "[tooltip: Toggle Navigation Menu]",
+"href": "javascript:void(0);"
+},
+{
+"text": "w3.css",
+"href": "https://www.w3schools.com/w3css/default.asp"
+}
 ]

@@ -1,7 +1,4 @@
-Strong Kentucky Labor
-means a
-Strong Kentucky Economy
-I have always been a strong supporter of labor.
+0 Skip to Content The 10th District Project My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Open Menu Close Menu The 10th District Project My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Open Menu Close Menu My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Strong Kentucky Labor means a Strong Kentucky Economy I have always been a strong supporter of labor.
 I grew up in a union home, by father was a member of the UAW, working in the plant at Pontiac Motors, in Pontiac Michigan.
 In our family there was no question that if you had a job, you joined the union and supported your union brothers and sisters.
 We learned that a strong union provided a decent wage and job security and that when done right the union benefits management as well as labor.
@@ -12,7 +9,8 @@ When labor and management both agree that all workers must join the union as a c
 The state has no business being involved in the contract.
 This law is an attack on labor, aimed at weakening union bargaining power.
 When labor and management agree that union membership is a condition of employment that agreement should be respected by the state.
-Prevailing wage laws. 2017 was a bad year for workers in Kentucky.
+Prevailing wage laws.
+2017 was a bad year for workers in Kentucky.
 Not only was “Right to Work” passed but the prevailing wage law was repealed.
 This means that contractors bidding on state projects can cut costs by paying workers less.
 Before workers had to be paid the prevailing wage for the area the project was in.
@@ -49,3 +47,4 @@ When management respects the worker, workers respect management.
 One final note, we must get away from the old, hateful idea that unions are somehow connected to communism or socialism.
 No one is trying to take control of production or redistribute wealth.
 The goal is for labor and management to make an agreement where both can profit.
+SHOP NOW This site built and maintained by the Campaign for John Whipple Made with Squarespace by Gravel Road Strategies Donate to the Campaign

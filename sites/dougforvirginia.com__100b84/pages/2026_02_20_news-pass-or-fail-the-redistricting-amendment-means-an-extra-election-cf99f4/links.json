@@ -1,25 +1,98 @@
 [
-"https://dougforvirginia.com/",
-"https://dougforvirginia.com/about",
-"https://dougforvirginia.com/cdn-cgi/l/email-protection",
-"https://dougforvirginia.com/contact",
-"https://dougforvirginia.com/district",
-"https://dougforvirginia.com/donate",
-"https://dougforvirginia.com/endorsements",
-"https://dougforvirginia.com/events",
-"https://dougforvirginia.com/issues",
-"https://dougforvirginia.com/news",
-"https://dougforvirginia.com/privacy",
-"https://dougforvirginia.com/terms",
-"https://dougforvirginia.com/volunteer",
-"https://dougforvirginia.com/vote",
-"https://facebook.com/profile.php?id=61578110845985",
-"https://fxbgadvance.com/p/news-pass-or-fail-the-redistricting?action=share",
-"https://fxbgadvance.com/support",
-"https://instagram.com/dougollivant",
-"https://lis.virginia.gov/bill-details/20261/HB29",
-"https://substackcdn.com/image/fetch/$s_!Cmq4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71f3589b-0970-4c8b-98cb-963014a8c639_1395x577.png",
-"https://tiktok.com/@dougollivantva7th",
-"https://x.com/DouglasOllivant",
-"https://youtube.com/@DougforVirginia"
+{
+"text": "Contact",
+"href": "https://www.dougforvirginia.com/contact/"
+},
+{
+"text": "District",
+"href": "https://www.dougforvirginia.com/district/"
+},
+{
+"text": "Donate",
+"href": "https://www.dougforvirginia.com/donate/"
+},
+{
+"text": "Email Martin",
+"href": "mailto:mdavis@fxbgadvance.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.dougforvirginia.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.dougforvirginia.com/events/"
+},
+{
+"text": "Home",
+"href": "https://www.dougforvirginia.com/"
+},
+{
+"text": "House Bill 29",
+"href": "https://lis.virginia.gov/bill-details/20261/HB29"
+},
+{
+"text": "Issues",
+"href": "https://www.dougforvirginia.com/issues/"
+},
+{
+"text": "Meet Doug",
+"href": "https://www.dougforvirginia.com/about/"
+},
+{
+"text": "News",
+"href": "https://www.dougforvirginia.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.dougforvirginia.com/privacy/"
+},
+{
+"text": "Share",
+"href": "https://www.fxbgadvance.com/p/news-pass-or-fail-the-redistricting?action=share"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.dougforvirginia.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dougforvirginia.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.dougforvirginia.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://substackcdn.com/image/fetch/%24s_!Cmq4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71f3589b-0970-4c8b-98cb-963014a8c639_1395x577.png"
+},
+{
+"text": "[image]",
+"href": "https://www.dougforvirginia.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61578110845985"
+},
+{
+"text": "[image]",
+"href": "https://www.fxbgadvance.com/support"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/dougollivant"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@dougollivantva7th"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@DougforVirginia"
+},
+{
+"text": "[image]",
+"href": "https://x.com/DouglasOllivant"
+}
 ]

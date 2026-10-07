@@ -1,22 +1,82 @@
 [
-"https://compas-wa.org/",
-"https://drewstokesbary.com/",
-"https://drewstokesbary.com/blog",
-"https://drewstokesbary.com/category/awards",
-"https://drewstokesbary.com/category/endorsements",
-"https://drewstokesbary.com/category/in-the-news",
-"https://drewstokesbary.com/donate",
-"https://drewstokesbary.com/endorsements",
-"https://drewstokesbary.com/get-involved",
-"https://drewstokesbary.com/issues",
-"https://drewstokesbary.com/making-state-government-more-effective-efficient-and-accountable",
-"https://drewstokesbary.com/meet-drew",
-"https://drewstokesbary.com/nfib-endorses-drew-stokesbary",
-"https://drewstokesbary.com/privacy-policy",
-"https://drewstokesbary.com/stokesbary-wins-awc-city-champion-award",
-"https://drewstokesbary.com/tag/endorsement",
-"https://drewstokesbary.com/tag/public-safety",
-"https://drewstokesbary.com/tag/union",
-"https://facebook.com/drewstokesbary",
-"https://twitter.com/stokesbary"
+{
+"text": "About",
+"href": "https://drewstokesbary.com/meet-drew/"
+},
+{
+"text": "Blog",
+"href": "https://drewstokesbary.com/blog/"
+},
+{
+"text": "Donate",
+"href": "https://drewstokesbary.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://drewstokesbary.com/category/endorsements/"
+},
+{
+"text": "Endorsements",
+"href": "https://drewstokesbary.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://drewstokesbary.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://drewstokesbary.com/"
+},
+{
+"text": "In the News",
+"href": "https://drewstokesbary.com/category/in-the-news/"
+},
+{
+"text": "Issues",
+"href": "https://drewstokesbary.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://drewstokesbary.com/privacy-policy"
+},
+{
+"text": "[image: COMPAS logo]",
+"href": "https://compas-wa.org"
+},
+{
+"text": "[image: Stokesbary Logo]",
+"href": "https://drewstokesbary.com/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/rep-stokesbary-files-bill-to-address-leaves-of-absence-by-elected-officials/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/stokesbary-crowdfunding-bill-geekwire/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/tnt-profiles-stokesbary-sumner-traffic-efforts/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/drewstokesbary"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/stokesbary"
+},
+{
+"text": "endorsement",
+"href": "https://drewstokesbary.com/tag/endorsement/"
+},
+{
+"text": "public safety",
+"href": "https://drewstokesbary.com/tag/public-safety/"
+},
+{
+"text": "union",
+"href": "https://drewstokesbary.com/tag/union/"
+}
 ]

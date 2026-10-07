@@ -1,6 +1,17 @@
+0 Skip to Content Home Meet Dr.
+Kimball Endorsements Priorities What's the Plan, Doc?
 Dr.
-Kimball’s Plan for Supporting our Seniors & their Caregivers
-Age is a gift denied to many.
+Kimball says...
+Join the Team Open Menu Close Menu Home Meet Dr.
+Kimball Endorsements Priorities What's the Plan, Doc?
+Dr.
+Kimball says...
+Join the Team Open Menu Close Menu Home Meet Dr.
+Kimball Endorsements Priorities What's the Plan, Doc?
+Dr.
+Kimball says...
+Join the Team Dr.
+Kimball’s Plan for Supporting our Seniors & their Caregivers Jun 24 Written By Kathleen Kimball Age is a gift denied to many.
 Our seniors deserve respect, dignity, and reliable access to healthcare in their golden years.
 Currently, seniors in America rely on Medicare to cover the cost of healthcare after the age of 65.
 While Medicare is an excellent federal program, it does not go far enough in supporting our aging population.
@@ -12,7 +23,7 @@ Medicare does not cover custodial or in-home care.
 This is the sort of coverage that would allow safe and comfortable aging in place - things like an aid, someone to help our seniors bathe, eat, get around, and maintain independence longer in their own houses.
 This sort of care promotes longevity, prevents loneliness, and prevents accidents or accelerated progression of chronic illness.
 Medicare also does not meaningfully cover inpatient nursing for our seniors who need specialized memory care or are facing other challenges qualifying for similar round-the-clock care.
-Currently, if our seniors require such things, they are expected to completely drain all their savings and assets before Medicaid steps in to cover them.
+Currently, if our seniors require such things, they are expected to c ompletely drain all their savings and assets before Medicaid steps in to cover them .
 That, mixed with private equity firms monopolizing the care field, jacking up prices, and underpaying their staff leads to a frustrating, frightening and overall degrading destination for seniors.
 So what options do our seniors have?
 They do what any of us would.
@@ -23,9 +34,9 @@ However, the reality is that the working class cannot maintain a full time job A
 Add in the high cost of consistent personal aides, challenges of choosing a good fit for a patient’s needs, the affordability crisis affecting us all, and the increasing number of citizens entering this age of their lives.
 It’s like navigating a minefield.
 What if our senior loved ones end up needing more care?
-Skilled nursing following stroke or a Parkinson’s diagnosis, memory care for patients dealing with Alzeimer’s or dementia, or even extended in-patient care following a major injury from a fall is extremely expensive.
-Medicare only covers 100 days of such care.
-It’s unrealistic for permanent advanced age challenges to be addressed in 100 days or fewer.
+Skilled nursing following stroke or a Parkinson’s diagnosis, memory care for patients dealing with Alzeimer’s or dementia, or even extended in-patient care following a major injury from a fall is extremely expensive .
+Medicare only covers # days of such care.
+It’s unrealistic for permanent advanced age challenges to be addressed in # days or fewer.
 As such, seniors are expected to expend all their savings and assets until they fit in the outdated, hyper-reduced bar at which Medicaid kicks in.
 So, in a nutshell: if we are gifted with a beautifully long life, we are faced with the impossible expectation to maintain ourselves without adequate support for a dignified and safe method to age-in-place as long as possible.
 And, should we face the human experience of an accident, cognitive disorder, or age-related disability, we are put at the mercy of private equity firms monopolizing care services which drain our hard-earned savings and assets.
@@ -36,15 +47,13 @@ In the words of a senior neighbor I met earlier this month, such a situation mak
 Our seniors should never be made to feel cast aside.
 To avoid crisis, our seniors and their families need real solutions NOW.
 We cannot wait any longer for the federal government to sort out healthcare coverage for all.
-That’s why, once elected, I plan to introduce legislation to support:
-- Extending Medicaid (HUSKY Health) to ALL Connecticut residents over the age of 65 making less than $1M per year
-- Eliminating the asset screening for these residents so they may keep their savings, home, and assets in the family if they so choose.
-- Offering a universal basic income for all fulltime caregivers so folks can confidently focus on what matters to them: their elderly loved one
-- Covering fulltime caregivers with HUSKY as well so our seniors’ family members and friends are well-taken care of during their tenure as a caregiver
-Ultimately, I support healthcare for all Nutmeggers through further expansion of HUSKY Health, but given the vice grip private healthcare companies have on the US, it must be approached in a phased, systematic fashion.
+That’s why, once elected, I plan to introduce legislation to support: Extending Medicaid (HUSKY Health) to ALL Connecticut residents over the age of 65 making less than $1M per year Eliminating the asset screening for these residents so they may keep their savings, home, and assets in the family if they so choose.
+Offering a universal basic income for all fulltime caregivers so folks can confidently focus on what matters to them: their elderly loved one Covering fulltime caregivers with HUSKY as well so our seniors’ family members and friends are well-taken care of during their tenure as a caregiver Ultimately, I support healthcare for all Nutmeggers through further expansion of HUSKY Health , but given the vice grip private healthcare companies have on the US, it must be approached in a phased, systematic fashion.
 Who would be next after coverage for our seniors is secured?
-My plan would include:
-Phase 2: covering all Connecticut residents under the age of 18, plus all pregnant individuals and parents of children aged 5 and younger.
+My plan would include: Phase 2: covering all Connecticut residents under the age of 18, plus all pregnant individuals and parents of children aged 5 and younger.
 From there, we expand progressively until all CT residents are covered.
 Want to hear more about my policy ideas and priorities?
 Check back next week for the next blog post!
+Kathleen Kimball Previous Previous Fully Funded Public Ed… without the tax hikes Stay in the Loop Contact & Press Inquiries : hello@drkimball87.com © # Paid for by Dr.
+Kimball for District 87, Arlen Stabbe, Treasurer.
+Approved by Kathleen Kimball.

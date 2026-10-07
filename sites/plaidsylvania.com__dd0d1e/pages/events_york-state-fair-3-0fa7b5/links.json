@@ -1,12 +1,50 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=York+State+Fair&dates=20260802T190000Z%2F20260802T220000Z",
-"https://paypal.biz/plaidsylvania",
-"https://plaidsylvania.com/",
-"https://plaidsylvania.com/cart",
-"https://plaidsylvania.com/events",
-"https://plaidsylvania.com/events/town-hall-with-edward-ritter-and-konnor-grimek",
-"https://plaidsylvania.com/events/york-state-fair-2",
-"https://plaidsylvania.com/events/york-state-fair-3?format=ical",
-"https://plaidsylvania.com/newsletter",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.plaidsylvania.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.plaidsylvania.com/events"
+},
+{
+"text": "Donate",
+"href": "https://www.paypal.biz/plaidsylvania"
+},
+{
+"text": "Events",
+"href": "https://www.plaidsylvania.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=York+State+Fair&dates=20260802T190000Z%2F20260802T220000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.plaidsylvania.com/events/york-state-fair-3?format=ical"
+},
+{
+"text": "Next Next August 13 Town Hall with Edward Ritter and Konnor Grimek",
+"href": "https://www.plaidsylvania.com/events/town-hall-with-edward-ritter-and-konnor-grimek"
+},
+{
+"text": "Plaidsylvania",
+"href": "https://www.plaidsylvania.com/"
+},
+{
+"text": "Previous Previous August 1 York State Fair",
+"href": "https://www.plaidsylvania.com/events/york-state-fair-2"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "Subscribe to Edward's Newsletter",
+"href": "https://www.plaidsylvania.com/newsletter"
+},
+{
+"text": "[image: Plaidsylvania]",
+"href": "https://www.plaidsylvania.com/"
+}
 ]

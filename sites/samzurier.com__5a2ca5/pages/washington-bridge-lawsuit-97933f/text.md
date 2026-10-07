@@ -1,8 +1,5 @@
-In August, the State filed a civil lawsuit against contractors involved in the Washington Bridge repairs.
+Home About Bio Public Service Record Projects 2022-23 District Letters 2024 District Letters 2025 District Letters 2026 District Letters Legislation State Legislation State Issues DONATE Join My Email List Select Page Washington Bridge Lawsuit In August, the State filed a civil lawsuit against contractors involved in the Washington Bridge repairs.
 On this page, I have compiled principal pleadings and legal memoranda.
-Jacobs Engineering Group Incs Memorandum of Law in Support of Motion to Dismiss
-Barletta-Aetna Joint Venture – Motion to Dismiss
-Commonwealth Engineering Motion to Dismiss
-State’s Memorandum In Oppositior To Motions To Dismiss
-Superior Court Decision on Motions to Dismiss
-I will update as additional major pleadings are filed.
+State’s Complaint Jacobs Engineering Group Incs Memorandum of Law in Support of Motion to Dismiss Barletta-Aetna Joint Venture – Motion to Dismiss Barletta Exhibit 1 Barletta Exhibit 2 Barletta Exhibit 3 Barletta Exhibit 4A Barletta Exhibit 4B Barletta Exhibit 4C Barletta Exhibit 5 AECOM Motion to Dismiss AECOM Exhibit 1 Commonwealth Engineering Motion to Dismiss State’s Memorandum In Oppositior To Motions To Dismiss Commonwealth Reply Aries Support Svc.
+Reply AECOM Reply Steere Engineering Reply Joint Venture Reply Superior Court Decision on Motions to Dismiss I will update as additional major pleadings are filed.
+Friends of Sam Zurier 330 Grotto Avenue Providence, RI 02906 Join My Email List [ctct form="3808" show_title="false"] © Copyright # Paid for and Authorized by Friends of Sam Zurier, Sam Zurier, Treasurer.

@@ -1,31 +1,154 @@
 [
-"http://sunkentreasuredesign.com/",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx?msclkid=c203092bcf9111ec9605cfb109d03e2a",
-"https://pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx",
-"https://wendyfinkforpa.com/",
-"https://wendyfinkforpa.com/about",
-"https://wendyfinkforpa.com/contact",
-"https://wendyfinkforpa.com/donate",
-"https://wendyfinkforpa.com/events",
-"https://wendyfinkforpa.com/gallery/12121_23202612509.jpg",
-"https://wendyfinkforpa.com/gallery/500383380_712312657997703_1066086840850755447_n_232026125017.jpg",
-"https://wendyfinkforpa.com/gallery/514286989_746567967905505_8468511833154818203_n_232026125024.jpg",
-"https://wendyfinkforpa.com/gallery/514313856_745893431306292_8381581032086047554_n_232026125033.jpg",
-"https://wendyfinkforpa.com/gallery/515436500_745893354639633_1957838293630441840_n_232026125041.jpg",
-"https://wendyfinkforpa.com/gallery/522735248_760245873204381_91197776268531587_n_232026125049.jpg",
-"https://wendyfinkforpa.com/gallery/523354827_758603300035305_7779219590043770668_n_232026125057.jpg",
-"https://wendyfinkforpa.com/gallery/523460292_758778646684437_515867855834391056_n_23202612517.jpg",
-"https://wendyfinkforpa.com/gallery/528046863_770316892197279_3580144468410828217_n_232026125115.jpg",
-"https://wendyfinkforpa.com/gallery/567880472_831655122730122_5170275676975031008_n_232026125126.jpg",
-"https://wendyfinkforpa.com/gallery/567945204_832863495942618_4193603679557770517_n_232026125229.jpg",
-"https://wendyfinkforpa.com/gallery/574846249_843178551577779_541082911536944612_n_232026125239.jpg",
-"https://wendyfinkforpa.com/gallery/574935354_840951738467127_5055575199131361184_n_232026125249.jpg",
-"https://wendyfinkforpa.com/gallery/592703820_843071021974987_7586655782856559238_n_232026125258.jpg",
-"https://wendyfinkforpa.com/gallery/592712762_843071041974985_1579251492647873108_n_23202612548.jpg",
-"https://wendyfinkforpa.com/gallery/616021600_876255125323243_7402636863007555900_n_232026125427.jpg",
-"https://wendyfinkforpa.com/gallery/douchebag-charlie-kirk_232026125353.jpg",
-"https://wendyfinkforpa.com/gallery/wf123_232026125525.jpg",
-"https://wendyfinkforpa.com/gallery/wf234_232026125513.jpg",
-"https://wendyfinkforpa.com/volunteer",
-"https://wendyfinkforpa.com/wendy-finks-plan-for-pa"
+{
+"text": "ABOUT",
+"href": "https://wendyfinkforpa.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://wendyfinkforpa.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://wendyfinkforpa.com/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://wendyfinkforpa.com/events"
+},
+{
+"text": "HOME",
+"href": "https://wendyfinkforpa.com/"
+},
+{
+"text": "PLAN for PA",
+"href": "https://wendyfinkforpa.com/wendy-finks-plan-for-pa"
+},
+{
+"text": "Sunken Treasure Design",
+"href": "http://www.sunkentreasuredesign.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://wendyfinkforpa.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/12121_23202612509.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/500383380_712312657997703_1066086840850755447_n_232026125017.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/514286989_746567967905505_8468511833154818203_n_232026125024.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/514313856_745893431306292_8381581032086047554_n_232026125033.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/515436500_745893354639633_1957838293630441840_n_232026125041.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/522735248_760245873204381_91197776268531587_n_232026125049.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/523354827_758603300035305_7779219590043770668_n_232026125057.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/523460292_758778646684437_515867855834391056_n_23202612517.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/528046863_770316892197279_3580144468410828217_n_232026125115.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/567880472_831655122730122_5170275676975031008_n_232026125126.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/567945204_832863495942618_4193603679557770517_n_232026125229.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/574846249_843178551577779_541082911536944612_n_232026125239.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/574935354_840951738467127_5055575199131361184_n_232026125249.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/592703820_843071021974987_7586655782856559238_n_232026125258.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/592712762_843071041974985_1579251492647873108_n_23202612548.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/616021600_876255125323243_7402636863007555900_n_232026125427.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/douchebag-charlie-kirk_232026125353.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/wf123_232026125525.jpg"
+},
+{
+"text": "[image]",
+"href": "https://wendyfinkforpa.com/gallery/wf234_232026125513.jpg"
+},
+{
+"text": "[image]",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "[image]",
+"href": "https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "[image]",
+"href": "https://www.wendyfinkforpa.com/donate/"
+},
+{
+"text": "[image]",
+"href": "https://www.wendyfinkforpa.com/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://wendyfinkforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://wendyfinkforpa.com/about"
+},
+{
+"text": "[no text]",
+"href": "https://wendyfinkforpa.com/contact"
+},
+{
+"text": "[no text]",
+"href": "https://wendyfinkforpa.com/donate"
+},
+{
+"text": "[no text]",
+"href": "https://wendyfinkforpa.com/events"
+},
+{
+"text": "[no text]",
+"href": "https://wendyfinkforpa.com/volunteer"
+},
+{
+"text": "wendyfinkforpa@gmail.com",
+"href": "mailto:wendyfinkforpa@gmail.com"
+}
 ]

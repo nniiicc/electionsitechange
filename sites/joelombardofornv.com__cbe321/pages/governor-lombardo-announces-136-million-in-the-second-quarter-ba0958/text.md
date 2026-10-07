@@ -1,8 +1,5 @@
-Governor Lombardo Announces $13.6 Million in the Second Quarter
-FOR IMMEDIATE RELEASE
-July 14, 2026
-Contact: press@joelombardofornv.com
+0 Skip to Content Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Folder: Results Back Results Nevadans Working Together Get Involved Folder: Media Back Press Releases Photos Endorsements Coalitions DONATE Governor Lombardo Announces $13.6 Million in the Second Quarter FOR IMMEDIATE RELEASE July 14, 2026 Contact: press@joelombardofornv.com LAS VEGAS, NV - Governor Joe Lombardo announced his campaign raised more than $# million, with an additional $# million raised by the Governor’s two affiliated PACs, bringing the total in the second quarter to $# million.
 “Governor Lombardo's fundraising momentum proves that Nevadans are standing behind his record of results and strong leadership," said Halee Dobbins, spokeswoman for the Lombardo campaign.
 "From every corner of the state, Nevadans are joining the Governor's growing movement because they know he's delivering real results and working every day to make our state a better place to live, work, and raise a family.
-While national Democrats are desperately trying to flip the seat, Governor Lombardo is building a broad coalition needed to win and fighting to ensure we continue to move our state in the right direction."
-###
+While national Democrats are desperately trying to flip the seat, Governor Lombardo is building a broad coalition needed to win and fighting to ensure we continue to move our state in the right direction." ### Privacy Policy Contact Us Lombardo for Governor P.O.
+Box 371176 Las Vegas, NV 89137 info@joelombardofornv.com

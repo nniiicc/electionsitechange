@@ -1,8 +1,9 @@
-By U.S.
+Skip to content Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Brendan F.
+Boyle | U.S.
+Congress Representing Pennsylvania's 2nd District Facebook Twitter YouTube Instagram Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Northeast Times: Buy American 2.0 Act to Help Create American Jobs March 21, 2018 March 21, 2018 By U.S.
 Rep.
 Brendan F.
-Boyle
-Earlier this month, I introduced legislation in Congress to require that all federally-funded infrastructure projects use American made materials.
+Boyle Earlier this month, I introduced legislation in Congress to require that all federally-funded infrastructure projects use American made materials.
 The Buy America 2.0 Act would bolster American manufacturing and create quality, family-sustaining jobs right here in our country.
 The bill is supported by labor unions like the United Steelworkers and the AFL-CIO.
 American infrastructure projects should support American workers.
@@ -21,10 +22,9 @@ My Buy America 2.0 Act is the kind of idea that should be bipartisan.
 I urge my colleagues on both sides of the aisle to get behind it.
 Actions speak louder than words.
 Legislation like the Buy America 2.0 Act is the only way to make sure that our federal investment in rebuilding our infrastructure is an investment in rebuilding the American Dream, too.
-It’s past time we make policies like this a priority in Washington. ••
-U.S.
+It’s past time we make policies like this a priority in Washington. •• U.S.
 Rep.
 Brendan F.
 Boyle (D-13th dist.) represents Philadelphia and Montgomery County.
 He is co-chair of the Blue Collar Caucus and the Jobs for America Task Forces.
-Read the original article here
+Read the original article here Fox 29: Congressman Boyle Talks about Stopping Gun Violence Philadelphia Inquirer: Trump Weakens America by Overlooking North Korean Human Rights Issues Search Search Keep Up with Brendan First Name Last Name Email Back to Top Facebook Twitter YouTube Instagram Paid for by Citizens for Boyle Powered by Fluida & WordPress.

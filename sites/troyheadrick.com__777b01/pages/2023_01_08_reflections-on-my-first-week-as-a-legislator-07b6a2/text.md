@@ -1,5 +1,4 @@
-Reflections on My First Week as a Legislator
-This week was largely ceremonial, but I want to pause and let you all know where I’ve landed now that the new biennium has begun in Montpelier.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Uncategorized / Reflections on My First Week as a Legislator January 8, 2023 This week was largely ceremonial, but I want to pause and let you all know where I’ve landed now that the new biennium has begun in Montpelier.
 I remain so grateful for the support and engagement I’ve received already from so many of you in the Chittenden 15 district.
 And, before I find my tangents with this blog post, I want to be certain to let you all know that I’ll be at the Ward 1 NPA meeting this week should you wish to grab some of my in-person attention.
 Additional legislators for our district will also be present and I’m thankful to Carol and Tom for putting the agenda together to discuss your legislative priorities.
@@ -10,7 +9,7 @@ I align well with her platform and look forward to working with the rest of the 
 Shortly following that we were all sworn in and then officially seated before receiving our committee appointments.
 You can find me at seat 54.
 I’ve got essentially a front-row view of anything happening from the Speaker’s podium.
-I’ve been appointed to the House Committee on Corrections and Institutions.
+I’ve been appointed to the House Committee on Corrections and Institutions .
 Our committee is led by Representative Alice Emmons as Chair.
 Rep.
 Emmons is also currently the longest serving member of the House, so I’m grateful to have landed in a spot that should foster mentorship from such a committed and experienced legislator.
@@ -35,8 +34,8 @@ When I saw him in the audience I had such an wonderful moment of gratitude for t
 But, as I indicated, that was the high point.
 By no means do I disagree with our Governor’s most strongly stated point that we must bridge the economic divide that remains between rural and urban Vermont.
 I just wish he would end his tendency to put our communities at odds with one another with the rhetoric he uses to make that point.
-The Governor mentioned Burlington at three separate times during his address, each time pointing out an unfair dichotomy with another more rural town.
-As identified well by this tweet, the Governor would be better served to realize that, when you zoom in on his over-generalized Chittenden County, our district’s median household income is far more aligned with the more rural communities he compared us against than we are with the rest of Chittenden County.
+The Governor mentioned Burlington at three separate times during his address , each time pointing out an unfair dichotomy with another more rural town.
+As identified well by this tweet , the Governor would be better served to realize that, when you zoom in on his over-generalized Chittenden County, our district’s median household income is far more aligned with the more rural communities he compared us against than we are with the rest of Chittenden County.
 The essential workers that drive the economy of this city can no longer afford to live within walking distance of their employers.
 And while our Governor applies his entire focus on the infrastructure that will certainly be needed to transition our communities into accommodating electric vehicles, he completely overlooks the public transit gaps that would serve our working class communities (who will be the very last to afford electric vehicles) in the meantime.
 I am thankful to belong to a cohort in the House that is full of forward thinking colleagues.
@@ -53,4 +52,8 @@ If we decide that we’re cool with taxing candy, we’ll need to define candy.
 Are marshmallows candy?
 Here’s my a-ha learning moment of the week: Those that make such determinations have decided that if a food item contains flour, it’s not candy.
 So Twix and Kit Kats are not candy.
-Enjoy accordingly.
+Enjoy accordingly. < Of Which People?
+By Which People?
+For Which People? > Week Two Legislative Update.
+Capital Bill and Corrections 101.
+Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

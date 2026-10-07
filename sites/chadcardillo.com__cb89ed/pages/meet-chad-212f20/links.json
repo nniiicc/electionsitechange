@@ -1,11 +1,46 @@
 [
-"https://chadcardillo.com/",
-"https://chadcardillo.com/cart",
-"https://chadcardillo.com/meet-chad",
-"https://chadcardillo.com/menu",
-"https://chadcardillo.com/signs",
-"https://chadcardillo.com/vote",
-"https://docs.google.com/forms/d/e/1FAIpQLSfrx17Io_xGqhQ2O9sgLRgeQwRLA4TFtzJBp2DMaVDuNWXR3g/viewform?usp=publish-editor",
-"https://facebook.com/ChadCardilloCT",
-"https://instagram.com/chad.cardillo.ct"
+{
+"text": "0",
+"href": "https://chadcardillo.com/cart"
+},
+{
+"text": "Back",
+"href": "https://chadcardillo.com/"
+},
+{
+"text": "Folder: Menu",
+"href": "https://chadcardillo.com/menu"
+},
+{
+"text": "Home",
+"href": "https://chadcardillo.com/"
+},
+{
+"text": "Meet Chad",
+"href": "https://chadcardillo.com/meet-chad"
+},
+{
+"text": "Voting Information",
+"href": "https://chadcardillo.com/vote"
+},
+{
+"text": "YARD SIGNS",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfrx17Io_xGqhQ2O9sgLRgeQwRLA4TFtzJBp2DMaVDuNWXR3g/viewform?usp=publish-editor"
+},
+{
+"text": "Yard Signs",
+"href": "https://chadcardillo.com/signs"
+},
+{
+"text": "[image: Chad Cardillo for State Representative]",
+"href": "https://chadcardillo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ChadCardilloCT"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chad.cardillo.ct"
+}
 ]

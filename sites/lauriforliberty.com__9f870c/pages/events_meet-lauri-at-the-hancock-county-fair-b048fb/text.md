@@ -1,10 +1,3 @@
-Back to All Events
-Meet Lauri on Sunday, June 21, 2026 | 1-7PM
-Look for the Hancock County Fair Libertarian Booth!
-Previous
-Previous
-June 20
-Summer Kickoff Party
-Next
-Next
-June 28
+0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Back to All Events Meet Lauri at the Hancock County Fair Sunday, June 21, 2026 1:00 PM 7:00 PM 620 Apple Street Greenfield, Indiana, 46140 United States (map) Google Calendar ICS Meet Lauri on Sunday, June 21, 2026 | 1-7PM Look for the Hancock County Fair Libertarian Booth!
+Previous Previous June 20 Summer Kickoff Party Next Next June 28 Hendricks County Pride Fest Media & Press Inquiry Sign up for our newsletter Stay Connected!
+Paid for by Lauri for Liberty.

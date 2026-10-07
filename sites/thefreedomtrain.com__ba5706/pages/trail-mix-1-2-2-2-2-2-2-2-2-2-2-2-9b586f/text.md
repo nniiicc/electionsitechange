@@ -1,6 +1,4 @@
-The Iran War Is Illegal, Immoral, And Stupid
-5/8/26
-Citizens!
+Skip to content The Iran War Is Illegal, Immoral, And Stupid 5/8/26 Citizens!
 Like you, perhaps, we have opposed the war with Iran since Day 1.
 There was never a point to it, and it was illegal and immoral besides.
 Illegal because it was not declared by Congress, as mandated in the Constitution.
@@ -21,4 +19,6 @@ We deserve common sense in these uncommon times, but we are not going to get bet
 In this election, we can choose to be part of the solution or part of the problem.
 I’m choosing to be part of the solution.
 How about you?
-Thank you for reading,
+Thank you for reading, Get on board today.
+It’s time to make a difference.
+Home Facebook Comments Box Gaylon Kent For Congress , Proudly powered by WordPress.

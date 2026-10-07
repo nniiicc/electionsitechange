@@ -1,24 +1,98 @@
 [
-"https://caitconley.com/",
-"https://cha.house.gov/2026/9/committees-release-third-interim-staff-report-on-actblue",
-"https://cisa.gov/news-events/news/cisa-announces-updates-election-security-team",
-"https://facebook.com/lawler4ny",
-"https://instagram.com/lawler4ny",
-"https://lawlerforcongress.com/",
-"https://lawlerforcongress.com/about",
-"https://lawlerforcongress.com/accessibility",
-"https://lawlerforcongress.com/cdn-cgi/l/email-protection",
-"https://lawlerforcongress.com/endorsements",
-"https://lawlerforcongress.com/issues",
-"https://lawlerforcongress.com/news",
-"https://lawlerforcongress.com/privacy",
-"https://lawlerforcongress.com/sign",
-"https://lawlerforcongress.com/terms",
-"https://lawlerforcongress.com/volunteer",
-"https://lawlerforcongress.com/vote",
-"https://nationalpress.org/topic/cisa-election-security-cait-conley",
-"https://nytimes.com/2026/04/02/us/politics/actblue-democrat-fundraising-foreign-donations.html",
-"https://secure.winred.com/lawler-for-congress/donate-today",
-"https://secure.winred.com/lawler-for-congress/storefront",
-"https://twitter.com/lawler4ny"
+{
+"text": "About",
+"href": "https://www.lawlerforcongress.com/about/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.lawlerforcongress.com/accessibility/"
+},
+{
+"text": "Cybersecurity and Infrastructure Security Agency",
+"href": "https://www.cisa.gov/news-events/news/cisa-announces-updates-election-security-team"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/lawler-for-congress/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lawlerforcongress.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.lawlerforcongress.com/"
+},
+{
+"text": "House Committees on Administration, the Judiciary, and Oversight and Government Reform released an interim staff report",
+"href": "https://cha.house.gov/2026/9/committees-release-third-interim-staff-report-on-actblue"
+},
+{
+"text": "Issues",
+"href": "https://www.lawlerforcongress.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.lawlerforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lawlerforcongress.com/privacy/"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/lawler-for-congress/storefront"
+},
+{
+"text": "Signs",
+"href": "https://www.lawlerforcongress.com/sign/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.lawlerforcongress.com/terms/"
+},
+{
+"text": "The New York Times reported in April that ActBlue’s own outside counsel, former Biden White House Counsel Dana Remus",
+"href": "https://www.nytimes.com/2026/04/02/us/politics/actblue-democrat-fundraising-foreign-donations.html"
+},
+{
+"text": "Today the primary donate button on Conley’s campaign website sends supporters to ActBlue",
+"href": "https://caitconley.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lawlerforcongress.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://www.lawlerforcongress.com/vote/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:mike@lawlerforcongress.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/lawler4ny"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/lawler4ny"
+},
+{
+"text": "[image: Mike Lawler for Congress logo]",
+"href": "https://www.lawlerforcongress.com/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/lawler4ny"
+},
+{
+"text": "as Senior Advisor to the Director of the",
+"href": "https://www.cisa.gov/news-events/news/cisa-announces-updates-election-security-team"
+},
+{
+"text": "cited the intelligence community’s warnings about Russia, China, and Iran",
+"href": "https://nationalpress.org/topic/cisa-election-security-cait-conley/"
+}
 ]

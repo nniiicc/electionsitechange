@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.dipietroforyou.com/blog/categories/latest-political-news",
- "paid_for_by": null,
+ "fingerprint": "465bebfa0b33648c1f0e695ecfe307412f237e9d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Latest Political News",
  "years_mentioned": [
-  "2022"
+  "2022",
+  "2025"
  ]
 }

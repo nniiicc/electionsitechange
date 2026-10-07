@@ -1,5 +1,4 @@
-Statement regarding House Bill 441 and 442
-To clarify some of the misinformation circulating on social media, my two bills, House Bill 441, known as the turtle bill, and House Bill 442, known as the flounder bill, passed the House and were sent to the Senate with the intention of passing as is.
+Skip to content Common Sense - Competent - Conservative Home About Frank Iler Accomplishments Issues News Legislative Updates Donate Contact Statement regarding House Bill 441 and 442 By Frank Iler | June 26, 2025 To clarify some of the misinformation circulating on social media, my two bills, House Bill 441, known as the turtle bill, and House Bill 442, known as the flounder bill, passed the House and were sent to the Senate with the intention of passing as is.
 However, the Senate hijacked both bills with absolutely no notice to me as the original primary bill sponsor.
 I was blindsided by my own Senator in committee as I arrived to present HB 442 in Senate Agriculture, Energy and Environment last week on June 17th.
 The flounder bill was introduced as an effort to permit a flounder season this year, since there was not one in 2024, and the citizens in the Brunswick County recreational fishing business were upset with the fisheries bureaucrats sending their business to South Carolina.
@@ -29,6 +28,5 @@ Transparency is crucial and the manner this was handled does not reflect the eth
 No matter where you stand on recreational fishing or shrimping, no matter what your political affiliation, the actions taken by certain members of the NC Senate over the past several days regarding House Bills 441 and 442 should be, at the very least, concerning.
 This unfortunate experience has been a stark reminder of how well-intentioned, non-partisan legislation can be transformed at the last minute into very harmful and controversial legislation.
 I remain committed to honorably serving my constituents in House District 17 and the hard-working citizens of North Carolina that came together this week to uphold and protect democracy in NC.
-Best Regards,
-Representative Frank Iler
-District 17, Brunswick County
+Best Regards, Representative Frank Iler District 17, Brunswick County Posted in Press Releases & Statements © # Frank Iler for N.C.
+House – Brunswick County, N.C. | Powered by Beaver Builder

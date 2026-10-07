@@ -1,17 +1,5 @@
-Signed in as:
-filler@godaddy.com
-Please enjoy our catalogue of featured hearings and testimony.
+Keep up-to-date with the campaign on Facebook!
+Home Donate About Issues Blog My Work Contact Us Gallery More Home Donate About Issues Blog My Work Contact Us Gallery Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home Donate About Issues Blog My Work Contact Us Gallery Account My Account Sign out Sign In My Account Welcome Please enjoy our catalogue of featured hearings and testimony.
 Anything not found here can be located on the official Maryland General Assembly website linked below.
-2026
-State Procurement - Preferences - Francis Scott Key Bridge Reconstruction
-Presentation of the Bill begins: 1:57:00
-Vehicle Laws - Vehicle Registration Fees - Sixth Legislative District
-Presentation of the Bill begins: 50:54
-Baltimore County - Transfer Tax - Exemption for First-Time Home Buyers
-Presentation of the Bill begins: 28:53
-Baltimore County - Property Tax - Partial Exemption and Credits for Seniors
-Presentation of the Bill begins: 23:45
-Election Law - Absentee Ballots - Signature Requirements and Verification
-Presentation of the Bill begins: 1:17:40
-Education - Student Behavior - Parent and Guardian Notice and Required Counseling (Parent and Guardian Accountability Act)
-Presentation of Bill begins: 20:38
+MDGA Website 2026 HB 1072 State Procurement - Preferences - Francis Scott Key Bridge Reconstruction Presentation of the Bill begins: 1:57:00 HB 1379 Vehicle Laws - Vehicle Registration Fees - Sixth Legislative District Presentation of the Bill begins: 50:54 HB 602 Baltimore County - Transfer Tax - Exemption for First-Time Home Buyers Presentation of the Bill begins: 28:53 HB 579 Baltimore County - Property Tax - Partial Exemption and Credits for Seniors Presentation of the Bill begins: 23:45 HB 830 Election Law - Absentee Ballots - Signature Requirements and Verification Presentation of the Bill begins: 1:17:40 HB 655 Education - Student Behavior - Parent and Guardian Notice and Required Counseling (Parent and Guardian Accountability Act) Presentation of Bill begins: 20:38 Copyright © # -Friends of Bob Long; Lois Temple, Treasurer - All Rights Reserved.
+Powered by

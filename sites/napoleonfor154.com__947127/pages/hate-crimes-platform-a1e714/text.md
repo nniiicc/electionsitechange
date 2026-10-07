@@ -1,4 +1,4 @@
-I am deeply burdened by reports of violence and harassment against members of the Asian American and Pacific Islander or AAPI community.
+Home About Platform Voter Info Contact Us Contribute More Home About Platform Voter Info Contact Us Contribute Home About Platform Voter Info Contact Us Contribute hate crimes platform It's time to talk about hate crimes I am deeply burdened by reports of violence and harassment against members of the Asian American and Pacific Islander or AAPI community.
 These attacks range from verbal harassment to brutal physical assaults, and Pennsylvania is no exception.
 A local outreach ministry serving the homeless reported the robbery of an AAPI homeless woman in Montgomery county whose blanket was taken from her because she was Asian and just a week ago, the Executive Director of Philadelphia Chinatown Development Corporation was verbally accosted on the street.
 Local reports of verbal harassment and worse linked to Coronavirus date back to at least February.
@@ -25,13 +25,7 @@ In October of 2019, our own State Rep.
 Steve McCarter was one of 42 members of the Pennsylvania House to co-sponsor four bills that are known as the Hate Crimes Legislation Package (HB 2013, HB 2012, HB 2010, HB 2011).
 They are proposing reforms and improvements that will fulfill the recommendations in the SPLC report by “educating, training and assisting civil society to effectively respond to social movements that exploit bigotry and intolerance.” The co-sponsors noted that, of the 1,463 law enforcement agencies across the state that submitted numbers on crimes in 2017, only 20 submitted hate crime incident reports.
 It’s past time to equip law enforcement officials with the tools they need to properly investigate, identify and report hate crimes.
-The four proposed bills will:
-- Increase penalties for those convicted of a hate crime
-- Provide law enforcement with more tools to identify and react to hate crimes
-- Require those convicted of hate crimes to complete diversity classes and allow community impact statements
-- Extend protections to people in the LGBTQ and disabled communities
-- Provide post secondary students with a way to anonymously report hate crimes
-I have spent this last week consulting with leaders in the AAPI community, Civil Rights attorneys, scholars, law enforcement, and members of our faith community to better understand how these crimes impact our AAPI brothers and sisters, how these proposed reforms would improve reporting procedures in law enforcement and in higher education, and what might need to be added to make these bills even more effective.
+The four proposed bills will: Increase penalties for those convicted of a hate crime Provide law enforcement with more tools to identify and react to hate crimes Require those convicted of hate crimes to complete diversity classes and allow community impact statements Extend protections to people in the LGBTQ and disabled communities Provide post secondary students with a way to anonymously report hate crimes I have spent this last week consulting with leaders in the AAPI community, Civil Rights attorneys, scholars, law enforcement, and members of our faith community to better understand how these crimes impact our AAPI brothers and sisters, how these proposed reforms would improve reporting procedures in law enforcement and in higher education, and what might need to be added to make these bills even more effective.
 From those conversations, I believe we need to go further, creating systems that allow victims and witnesses to have a straight-forward and language-accessible way to report incidents and one in which victims are supported in pursuing justice.
 We must put funding behind these initiatives so they are not unfunded mandates that add requirements without giving our law enforcement departments the resources they need.
 Hate crimes need to be named for what they are, investigated and prosecuted.
@@ -42,5 +36,5 @@ It is time to fund this work within law enforcement agencies.
 Finally, it is time that we draw on that faith that each of our dark pasts have taught us and stand in solidarity against racism and hatred.
 Let us all stand up and refuse to tolerate this kind of behavior.
 It is our tolerance of these behaviors that weakens us all.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Friends of Napoleon Nelson | PO Box 53 Wyncote, PA 19095 Copyright © # friends of napoleon nelson - All Rights Reserved.
+Powered by

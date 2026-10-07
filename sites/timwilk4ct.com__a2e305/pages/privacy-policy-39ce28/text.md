@@ -1,6 +1,4 @@
-Tim Wilk 4 CT Campaign
-Mobile Messaging Terms & Conditions
-The Tim Wilk 4 CT campaign, (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+Home Contact Privacy Policy More Home Contact Privacy Policy Home Contact Privacy Policy Privacy Policy Tim Wilk 4 CT Campaign Mobile Messaging Terms & Conditions The Tim Wilk 4 CT campaign, (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 User Opt In: The Program allows users to receive SMS/MMS mobile messages by users affirmatively opting into the Program.
 Regardless of the opt-in method you utilized to join the Program, regardless of the opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
@@ -53,6 +51,5 @@ You acknowledge your responsibility to review these Terms from time to time and 
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
 Paid for by Tim Wilk 4 CT, Ruth Cyr, Treasurer.
 Approved by Tim Wilk.
-Copyright © 2026 Tim Wilk 4 CT - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Copyright © # Tim Wilk 4 CT - All Rights Reserved.
+Contact Privacy Policy

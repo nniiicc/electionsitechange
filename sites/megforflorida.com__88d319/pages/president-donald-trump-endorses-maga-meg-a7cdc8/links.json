@@ -1,23 +1,102 @@
 [
-"http://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmegforflorida.com%2Fpresident-donald-trump-endorses-maga-meg%2F&title=President+Donald+Trump+Endorses+%22MAGA+Meg%22",
-"http://twitter.com/intent/tweet?text=President+Donald+Trump+Endorses+%22MAGA+Meg%22&url=https%3A%2F%2Fmegforflorida.com%2Fpresident-donald-trump-endorses-maga-meg%2F",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmegforflorida.com%2Fpresident-donald-trump-endorses-maga-meg%2F",
-"https://gab.com/compose?url=https%3A%2F%2Fmegforflorida.com%2Fpresident-donald-trump-endorses-maga-meg%2F&text=President+Donald+Trump+Endorses+%22MAGA+Meg%22",
-"https://gettr.com/share?text=President+Donald+Trump+Endorses+%22MAGA+Meg%22&url=https%3A%2F%2Fmegforflorida.com%2Fpresident-donald-trump-endorses-maga-meg%2F",
-"https://megforflorida.com/",
-"https://megforflorida.com/born-to-ride-for-45-endorses-meg-weinberger-for-florida-house-district-94",
-"https://megforflorida.com/campaign-news",
-"https://megforflorida.com/endorsements",
-"https://megforflorida.com/floridas-voice-meg-weinberger-advocates-for-protecting-life-lowering-taxes",
-"https://megforflorida.com/image-gallery",
-"https://megforflorida.com/join",
-"https://megforflorida.com/president-donald-trump-endorses-maga-meg",
-"https://megforflorida.com/president-donald-trump-endorses-maga-meg/6822858@kevinoneill.us?subject=Sent+from+MegforFlorida+Website",
-"https://megforflorida.com/press-releases",
-"https://megforflorida.com/privacy-policy",
-"https://megforflorida.com/terms",
-"https://secure.anedot.com/megan-weinberger-campaign/donate",
-"https://truthsocial.com/@realDonaldTrump/posts/112565448870574806",
-"https://truthsocial.com/share?url=https%3A%2F%2Fmegforflorida.com%2Fpresident-donald-trump-endorses-maga-meg%2F",
-"https://wordpress.org/plugins/gdpr-cookie-compliance"
+{
+"text": "Born To Ride For 45 endorses Meg Weinberger for Florida House District 94 →",
+"href": "https://megforflorida.com/born-to-ride-for-45-endorses-meg-weinberger-for-florida-house-district-94/"
+},
+{
+"text": "Contribute Today",
+"href": "https://secure.anedot.com/megan-weinberger-campaign/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/megan-weinberger-campaign/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://megforflorida.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://megforflorida.com/"
+},
+{
+"text": "Image and Video Gallery",
+"href": "https://megforflorida.com/image-gallery/"
+},
+{
+"text": "Join Meg",
+"href": "https://megforflorida.com/join/"
+},
+{
+"text": "Join Meg's Team!",
+"href": "https://megforflorida.com/join/"
+},
+{
+"text": "Messaging Terms, Conditions & Policies Terms",
+"href": "https://megforflorida.com/terms/"
+},
+{
+"text": "News & Events",
+"href": "https://megforflorida.com/campaign-news/"
+},
+{
+"text": "Platform",
+"href": "https://megforflorida.com#meg-platform"
+},
+{
+"text": "Press Releases",
+"href": "https://megforflorida.com/press-releases/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://megforflorida.com/privacy-policy"
+},
+{
+"text": "Site by KO.",
+"href": "https://megforflorida.com/president-donald-trump-endorses-maga-meg/6822858@kevinoneill.us?subject=Sent+from+MegforFlorida+Website"
+},
+{
+"text": "[image]",
+"href": "https://megforflorida.com/"
+},
+{
+"text": "[image]",
+"href": "https://truthsocial.com/@realDonaldTrump/posts/112565448870574806"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmegforflorida.com%2Fpresident-donald-trump-endorses-maga-meg%2F"
+},
+{
+"text": "[tooltip: Gab]",
+"href": "https://gab.com/compose?url=https%3A%2F%2Fmegforflorida.com%2Fpresident-donald-trump-endorses-maga-meg%2F&text=President+Donald+Trump+Endorses+%22MAGA+Meg%22"
+},
+{
+"text": "[tooltip: Gettr]",
+"href": "https://gettr.com/share?text=President+Donald+Trump+Endorses+%22MAGA+Meg%22&url=https%3A%2F%2Fmegforflorida.com%2Fpresident-donald-trump-endorses-maga-meg%2F"
+},
+{
+"text": "[tooltip: Linkedin]",
+"href": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmegforflorida.com%2Fpresident-donald-trump-endorses-maga-meg%2F&title=President+Donald+Trump+Endorses+%22MAGA+Meg%22"
+},
+{
+"text": "[tooltip: More]",
+"href": "https://megforflorida.com/president-donald-trump-endorses-maga-meg/"
+},
+{
+"text": "[tooltip: Truth Social]",
+"href": "https://truthsocial.com/share?url=https%3A%2F%2Fmegforflorida.com%2Fpresident-donald-trump-endorses-maga-meg%2F"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "http://twitter.com/intent/tweet?text=President+Donald+Trump+Endorses+%22MAGA+Meg%22&url=https%3A%2F%2Fmegforflorida.com%2Fpresident-donald-trump-endorses-maga-meg%2F"
+},
+{
+"text": "https://megforflorida.com/",
+"href": "https://megforflorida.com/"
+},
+{
+"text": "← Florida's Voice: Meg Weinberger advocates for protecting life & lowering taxes",
+"href": "https://megforflorida.com/floridas-voice-meg-weinberger-advocates-for-protecting-life-lowering-taxes/"
+}
 ]

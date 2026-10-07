@@ -1,7 +1,9 @@
 {
  "description": "Upcoming Events for Gabriel Moreno's campaign for District 13 State Delegate - Join us at our next meet and greet or community event.",
  "final_url": "https://morenoformaryland.com/events",
- "paid_for_by": null,
+ "fingerprint": "a13c0912fe1612f36b3bd7f42b22665fbf8538bb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Delegate Gabriel M. Moreno | District 13",
  "years_mentioned": [
   "2026"

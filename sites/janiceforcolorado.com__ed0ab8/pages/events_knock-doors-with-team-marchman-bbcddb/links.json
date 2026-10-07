@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Team+Marchman&dates=20260620T160000Z%2F20260620T190000Z&location=1125+W+29th+St%2C+Loveland%2C+Colorado%2C+80537%2C+United+States",
-"http://maps.google.com/?q=1125+W+29th+St+Loveland%2C+Colorado%2C+80537+United+States",
-"https://facebook.com/janiceforcolorado",
-"https://facebook.com/share/1BXLhpvP9P",
-"https://instagram.com/senatorjanicemarchman",
-"https://janiceforcolorado.com/",
-"https://janiceforcolorado.com/about",
-"https://janiceforcolorado.com/cart",
-"https://janiceforcolorado.com/contact",
-"https://janiceforcolorado.com/events",
-"https://janiceforcolorado.com/events/allenspark-meet-greet",
-"https://janiceforcolorado.com/events/boulder-county-fundraiser-with-senator-judy-amabile",
-"https://janiceforcolorado.com/events/knock-doors-with-team-marchman?format=ical",
-"https://janiceforcolorado.com/get-involved",
-"https://janiceforcolorado.com/media",
-"https://janiceforcolorado.com/priorities",
-"https://secure.actblue.com/donate/janice-marchman-for-colorado-senate-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1125+w+29th+st+loveland%2C+colorado%2C+80537+united+states"
+},
+{
+"text": "0",
+"href": "https://www.janiceforcolorado.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.janiceforcolorado.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.janiceforcolorado.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.janiceforcolorado.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/janice-marchman-for-colorado-senate-1"
+},
+{
+"text": "Events",
+"href": "https://www.janiceforcolorado.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.janiceforcolorado.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Team+Marchman&dates=20260620T160000Z%2F20260620T190000Z&location=1125+W+29th+St%2C+Loveland%2C+Colorado%2C+80537%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.janiceforcolorado.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/knock-doors-with-team-marchman?format=ical"
+},
+{
+"text": "Media",
+"href": "https://www.janiceforcolorado.com/media"
+},
+{
+"text": "Next Next July 12 Boulder County Fundraiser with Senator Judy Amabile",
+"href": "https://www.janiceforcolorado.com/events/boulder-county-fundraiser-with-senator-judy-amabile"
+},
+{
+"text": "Previous Previous May 23 Allenspark Meet & Greet",
+"href": "https://www.janiceforcolorado.com/events/allenspark-meet-greet"
+},
+{
+"text": "Priorities",
+"href": "https://www.janiceforcolorado.com/priorities"
+},
+{
+"text": "RSVP on Facebook",
+"href": "https://www.facebook.com/share/1BXLhpvP9P/"
+},
+{
+"text": "[image: Janice Marchman for Colorado State Senate]",
+"href": "https://www.janiceforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/janiceforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/senatorjanicemarchman/"
+}
 ]

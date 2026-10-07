@@ -1,5 +1,5 @@
-The following is an excerpt from my speech at the Christ is King Festival in Holland, Michigan on June 13, 2026.
-You can watch the video on Facebook.
+Skip to content Facebook X LinkedIn Search for: About Contact District Map Donate Endorsements Jobs News Volunteer Speech at the Holland Christ is King Festival Speech at the Holland Christ is King Festival 2026-06-15T08:56:03-04:00 June 14th, 2026 | The following is an excerpt from my speech at the Christ is King Festival in Holland, Michigan on June 13, 2026.
+You can watch the video on Facebook .
 I’ve noticed in politics that it’s easy to be a Christian.
 It’s even easy to be an elected official.
 What’s difficult is to act like a Christian in politics.
@@ -42,12 +42,13 @@ On our first day in office, the Board of Commissioners abolished the Diversity, 
 This was a major course correction in local government, which usually doesn’t happen.
 Since that day, I’ve had people come to me, who claim to be Christians, and say: “Maybe it would have been better if the Board of Commissioners just waited a few months and quietly wrapped up the DEI Department.
 Maybe it would have been better not to make any big moves, and just let DEI continue a little longer.
-Maybe it would have been better not to rock the boat.”
-That mentality is fundamentally flawed.
+Maybe it would have been better not to rock the boat.” That mentality is fundamentally flawed.
 It ignores the dangers of bad ideas in public policy, and it also ignores the political realities of Jesus’ time.
 It also ignores the radical nature of Jesus calling both the Jewish people and the Gentiles to a personal relationship with Himself and the Truth.
 The positive changes I’ve seen here in Ottawa County are because believers got off the sidelines and got into the game.
 If we love God and love our neighbors, we must stand up for Truth and operate on biblical principles in every corner of public life.
 I want to close with this last statement: there are no short-term solutions.
 We must stand for Truth in the public square—and inspire the next generation to have a love for our great nation and a love for God.
-Because as Charlie said, “It’s all about Jesus.”
+Because as Charlie said, “It’s all about Jesus.” Share this page Facebook X Reddit LinkedIn WhatsApp Paid for by Joe Moss for State Representative 6753 Bradenwood Drive Hudsonville, MI 49426 © Copyright # | Terms By providing your email or phone number, you are consenting to receive emails, calls, and SMS/MMS messages from Joe Moss for State Representative.
+Msg & data rates may apply.
+Facebook X LinkedIn Page load link Go to Top

@@ -1,13 +1,66 @@
 [
-"https://facebook.com/chapmanformo",
-"https://secure.actblue.com/donate/chapman-for-mo-rep",
-"https://twitter.com/chapmanformo",
-"https://upballot.com/",
-"https://upballot.com/chris-chapman",
-"https://upballot.com/chris-chapman/about",
-"https://upballot.com/chris-chapman/events",
-"https://upballot.com/chris-chapman/get-involved",
-"https://upballot.com/chris-chapman/issues",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Chris",
+"href": "https://www.upballot.com/chris-chapman/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/chapman-for-mo-rep"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/chris-chapman/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/chris-chapman/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/chris-chapman"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/chris-chapman/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "[image: Chris Chapman Logo]",
+"href": "https://www.upballot.com/chris-chapman/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/chapmanformo"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/chapmanformo"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/chapmanformo"
+},
+{
+"text": "[tooltip: View Twitter Link]",
+"href": "https://www.twitter.com/chapmanformo"
+},
+{
+"text": "chappys@chapmanformo.com",
+"href": "mailto:chappys@chapmanformo.com"
+},
+{
+"text": "tel:636-486-6069",
+"href": "tel:636-486-6069"
+}
 ]

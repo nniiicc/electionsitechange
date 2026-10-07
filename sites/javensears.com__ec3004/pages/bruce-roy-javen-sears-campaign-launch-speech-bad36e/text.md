@@ -1,11 +1,7 @@
-Bruce Roy
-Republican Candidate for the Vermont State Senate in the Chittenden Southeast District
-Bruce Roy is a retired UVM graduate, former IBM engineer, and retired U.S.
+0 Skip to Content Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate Bruce Roy Republican Candidate for the Vermont State Senate in the Chittenden Southeast District Bruce Roy is a retired UVM graduate, former IBM engineer, and retired U.S.
 Air Force and Vermont Air National Guard Colonel who is running as a Republican for the Vermont State Senate in the Chittenden Southeast district.
 A long-time resident of Williston currently serving as a local Justice of the Peace, Roy previously secured the Republican nomination for the district in 2024, ultimately capturing over 16,000 votes in the general election.
-Campaigning as a fiscal conservative and social moderate, his 2026 platform focuses heavily on reversing unchecked government spending, addressing property tax burdens, and restoring economic affordability and public safety to Vermont by working to support Governor Phil Scott's legislative goals
-TRANSCRIPT
-Hi, everyone.
+Campaigning as a fiscal conservative and social moderate, his 2026 platform focuses heavily on reversing unchecked government spending, addressing property tax burdens, and restoring economic affordability and public safety to Vermont by working to support Governor Phil Scott's legislative goals TRANSCRIPT Hi, everyone.
 I am Bruce Roy, and I am running again for Senator in Chittenden County Southeast.
 I am incredibly pleased to be running alongside Javen.
 It's going to be a fun time, it really is.
@@ -63,5 +59,7 @@ With your help, Jabin and I can go down there as good conservatives and common-s
 I believe we can win a couple of seats and force some change in Vermont.
 Thank you all for being here.
 And Javen, appreciate you having me.
-Bruce Roy
-Tuesday, May 12th, 2026 | Javen Sears’ Campaign Launch Party
+Bruce Roy Tuesday, May 12th, 2026 | Javen Sears’ Campaign Launch Party S I G N U P UPDATES By providing your mobile number, you consent to receive periodic campaign updates from Javen Sears for Vermont State Senate.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Donate

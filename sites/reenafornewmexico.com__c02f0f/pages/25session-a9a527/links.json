@@ -1,76 +1,302 @@
 [
-"https://facebook.com/reenaforNM",
-"https://instagram.com/reenaszcz",
-"https://nmlegis.gov/Legislation/Legislation?Chamber=H&LegType=B&LegNo=131&year=25",
-"https://nmlegis.gov/Legislation/Legislation?Chamber=H&LegType=B&LegNo=203&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=10&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=113&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=120&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=128&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=137&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=14&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=140&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=143&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=167&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=19&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=191&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=197&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=2&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=20&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=212&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=214&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=219&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=233&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=252&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=281&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=361&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=368&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=458&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=47&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=487&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=5&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=532&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=54&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=56&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=586&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=6&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=63&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=64&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=69&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=71&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=77&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=78&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=91&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=H&legType=JR&legNo=2&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=1&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=16&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=163&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=169&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=175&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=21&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=219&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=23&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=267&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=283&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=3&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=33&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=36&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=39&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=417&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=42&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=48&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=5&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=57&year=25",
-"https://nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=73&year=25",
-"https://reenafornewmexico.com/",
-"https://reenafornewmexico.com/25session",
-"https://reenafornewmexico.com/aboutreena",
-"https://reenafornewmexico.com/capital-outlay",
-"https://reenafornewmexico.com/cart",
-"https://reenafornewmexico.com/donate",
-"https://reenafornewmexico.com/endorsements",
-"https://reenafornewmexico.com/getinvolved",
-"https://reenafornewmexico.com/hd47",
-"https://reenafornewmexico.com/policy",
-"https://twitter.com/reenaszcz"
+{
+"text": "0",
+"href": "https://www.reenafornewmexico.com/cart"
+},
+{
+"text": "2025 Session",
+"href": "https://www.reenafornewmexico.com/25session"
+},
+{
+"text": "About Reena",
+"href": "https://www.reenafornewmexico.com/aboutreena"
+},
+{
+"text": "Capital Outlay",
+"href": "https://www.reenafornewmexico.com/capital-outlay"
+},
+{
+"text": "Donate",
+"href": "https://www.reenafornewmexico.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.reenafornewmexico.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.reenafornewmexico.com/getinvolved"
+},
+{
+"text": "HB 10: RLD Cannabis Enforcement",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=10&year=25"
+},
+{
+"text": "HB 113: Animal Welfare Program And Trust Fund",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=113&year=25"
+},
+{
+"text": "HB 120: Accessibility of State Agencies",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=120&year=25"
+},
+{
+"text": "HB 128: NMFA Local Solar Access Fund",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=128&year=25"
+},
+{
+"text": "HB 131: Caregiver Background Checks",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?Chamber=H&LegType=B&LegNo=131&year=25"
+},
+{
+"text": "HB 137: Strategic Water Supply Act",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=137&year=25"
+},
+{
+"text": "HB 140: “Hazardous Waste Constituent” Definition",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=140&year=25"
+},
+{
+"text": "HB 143: Lobbying Activity Reports",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=143&year=25"
+},
+{
+"text": "HB 14: Earned Income Tax Credit",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=14&year=25"
+},
+{
+"text": "HB 167: Higher Ed. Payment For Certain Tests",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=167&year=25"
+},
+{
+"text": "HB 191: Wildfire Suppression & Preparedness Funds",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=191&year=25"
+},
+{
+"text": "HB 197: Expand “Silver Alert” Definition",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=197&year=25"
+},
+{
+"text": "HB 19: Trade Ports Development Act",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=19&year=25"
+},
+{
+"text": "HB 203: Use of State Devices for CYFD Business",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?Chamber=H&LegType=B&LegNo=203&year=25"
+},
+{
+"text": "HB 20: Technology & Innovation Division",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=20&year=25"
+},
+{
+"text": "HB 212: PFAS Protection Act",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=212&year=25"
+},
+{
+"text": "HB 214: Doula Credentialing",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=214&year=25"
+},
+{
+"text": "HB 219: Slot Canyon Riverlands State Park",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=219&year=25"
+},
+{
+"text": "HB 233: Diabetic Foot Ulcer Equipment Coverage",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=233&year=25"
+},
+{
+"text": "HB 252: Kinship Caregiver Support Pilot Program",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=252&year=25"
+},
+{
+"text": "HB 281: Hair Braiding Licensure",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=281&year=25"
+},
+{
+"text": "HB 2: General Appropriations Act",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=2&year=25"
+},
+{
+"text": "HB 361: EMNRD Conversion Of Certain Wells",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=361&year=25"
+},
+{
+"text": "HB 368: High Wage Jobs Tax Credit “Threshold Job”",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=368&year=25"
+},
+{
+"text": "HB 458: Carbon Dioxide Storage Stewardship Act",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=458&year=25"
+},
+{
+"text": "HB 47: Veteran Property Tax Exemptions",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=47&year=25"
+},
+{
+"text": "HB 487: Protection of Hispanic Education",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=487&year=25"
+},
+{
+"text": "HB 532: Student Water Safety Guidance",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=532&year=25"
+},
+{
+"text": "HB 54: Defibrillators in Every High School",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=54&year=25"
+},
+{
+"text": "HB 56: Medicaid Reimbursements For Birth Centers",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=56&year=25"
+},
+{
+"text": "HB 586: Review Of Certain Healthcare Transactions",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=586&year=25"
+},
+{
+"text": "HB 5: Office of the Child Advocate",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=5&year=25"
+},
+{
+"text": "HB 63: Public School Funding Formula Changes",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=63&year=25"
+},
+{
+"text": "HB 64: Expand Post-Secondary Tuition Eligibility",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=64&year=25"
+},
+{
+"text": "HB 69: Loan Forgiveness Multiplier Act",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=69&year=25"
+},
+{
+"text": "HB 6: IRB Project Minimum Wage",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=6&year=25"
+},
+{
+"text": "HB 71: Early Childhood Ed & Care Fund Transfers",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=71&year=25"
+},
+{
+"text": "HB 77: Annual Federal Snap State Outreach Plans",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=77&year=25"
+},
+{
+"text": "HB 78: Prohibit Discrimination Against 340B Entities",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=78&year=25"
+},
+{
+"text": "HB 91: Public Utility Rate Structure",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=91&year=25"
+},
+{
+"text": "HD 47",
+"href": "https://www.reenafornewmexico.com/hd47"
+},
+{
+"text": "HJR 2: Eliminate Pocket Vetoes",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=JR&legNo=2&year=25"
+},
+{
+"text": "House District 47",
+"href": "https://www.reenafornewmexico.com/hd47"
+},
+{
+"text": "Priorities",
+"href": "https://www.reenafornewmexico.com/policy"
+},
+{
+"text": "SB 163: Tribal Regalia At School Events",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=163&year=25"
+},
+{
+"text": "SB 169: Strategic Economic Development Site Readiness",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=169&year=25"
+},
+{
+"text": "SB 16: Non-Major Party Voters In Primary Elections",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=16&year=25"
+},
+{
+"text": "SB 175: Child Care Facility Loan Fund Changes",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=175&year=25"
+},
+{
+"text": "SB 1: Behavioral Health Trust Fund",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=1&year=25"
+},
+{
+"text": "SB 219: Medical Psilocybin Act",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=219&year=25"
+},
+{
+"text": "SB 21: Pollutant Discharge Elimination System Act",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=21&year=25"
+},
+{
+"text": "SB 23: Oil & Gas Royalty Rate Changes",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=23&year=25"
+},
+{
+"text": "SB 267: Housing Application Fees",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=267&year=25"
+},
+{
+"text": "SB 283: CYFD & Use of Federal Benefits",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=283&year=25"
+},
+{
+"text": "SB 33: Wildfire Prepared Act",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=33&year=25"
+},
+{
+"text": "SB 36: Sensitive Personal Information Nondisclosure",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=36&year=25"
+},
+{
+"text": "SB 39: Add Classes to Prior Authorization Drugs",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=39&year=25"
+},
+{
+"text": "SB 3: Behavioral Health Reform and Investment Act",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=3&year=25"
+},
+{
+"text": "SB 417: Confirmatory Adoptions",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=417&year=25"
+},
+{
+"text": "SB 42: Comprehensive Addiction And Recovery Program",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=42&year=25"
+},
+{
+"text": "SB 48: Community Benefit Fund",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=48&year=25"
+},
+{
+"text": "SB 57: Medical Provider Patient IPRA Info",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=57&year=25"
+},
+{
+"text": "SB 5: Game Commission Reform",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=5&year=25"
+},
+{
+"text": "SB 73: Require Bicycle Stops for Safety",
+"href": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=73&year=25"
+},
+{
+"text": "[image: Reena for New Mexico]",
+"href": "https://www.reenafornewmexico.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/reenaszcz/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/reenaszcz"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/reenaforNM"
+}
 ]

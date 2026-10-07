@@ -1,9 +1,9 @@
 {
  "description": "Volunteer for Judge Jamison&#39;s campaign",
  "final_url": "https://www.voteterrijamison.com/volunteer",
- "paid_for_by": null,
+ "fingerprint": "7de9b8968a175fe5a205fc92a55caae76ffb017c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Volunteer",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

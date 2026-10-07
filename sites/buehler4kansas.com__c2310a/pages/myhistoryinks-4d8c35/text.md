@@ -1,6 +1,4 @@
-My History In Kansas
-From Humble Beginnings
-My ancestors came to the United States from Germany, Bohemia, Austria and Poland in the 1880’s, settling primarily in Barton and Ellsworth counties in central Kansas as farmers and ranchers, often making their start on the plains in sod shanties or in a dugout below the ground.
+0 Skip to Content GALLERY A BETTER WAY ABOUT ME MY HISTORY IN KANSAS POLICIES ENDORSEMENTS EVENT GALLERY EVENT CALENDAR CAMPAIGN VISIT YARD SIGN REQUEST FORM DONATE Open Menu Close Menu Open Menu Close Menu DONATE GALLERY A BETTER WAY ABOUT ME MY HISTORY IN KANSAS POLICIES ENDORSEMENTS EVENT GALLERY EVENT CALENDAR CAMPAIGN VISIT YARD SIGN REQUEST FORM GALLERY A BETTER WAY ABOUT ME MY HISTORY IN KANSAS POLICIES ENDORSEMENTS EVENT GALLERY EVENT CALENDAR CAMPAIGN VISIT YARD SIGN REQUEST FORM DONATE My History In Kansas From Humble Beginnings My ancestors came to the United States from Germany, Bohemia, Austria and Poland in the 1880’s, settling primarily in Barton and Ellsworth counties in central Kansas as farmers and ranchers, often making their start on the plains in sod shanties or in a dugout below the ground.
 They built farms and families on the plains and endured the hardships of the Dust Bowl and the Great Depression while raising their families.
 I was born in Great Bend, Kansas and would grow up calling Kansas home.
 As a kid, the best time of the year for my siblings and me was wheat harvest in the summer.
@@ -41,3 +39,9 @@ In my case, I served on the Board of Directors Member at the Alliance Against Fa
 Additionally, Lisa and I are members of the St.
 Francis de Sales Parish in Lansing, where I also served on the Pastoral Council from 2003-2011.
 The cumulative value of work experience, military service in the United States Navy, and service to the Leavenworth and Lansing communities have fostered my continuing desire to serve the citizens of the 40th district in the Kansas House of Representatives.
+Get in touch with us!
+P.O.
+Box 92 Lansing, KS 66043 Buehler4Kansas - Home | Facebook David.Buehler@Buehler4kansas.com Disclaimer: David Buehler served in the U.S.
+Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply an endorsement by the Department of the Navy or the Department of Defense.
+Paid for by Buehler4Kansas, Hitomi Morford, Treasurer

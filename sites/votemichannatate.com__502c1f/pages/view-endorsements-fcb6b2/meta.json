@@ -1,7 +1,9 @@
 {
  "description": "View Endorsements",
  "final_url": "https://votemichannatate.com/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "820056c36f33fffbe38a1b0519e8d820dfb24842",
+ "format": 3,
+ "paid_for_by": "",
  "title": "View Endorsements",
  "years_mentioned": []
 }

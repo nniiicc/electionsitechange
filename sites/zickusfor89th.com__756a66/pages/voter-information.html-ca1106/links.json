@@ -1,21 +1,114 @@
 [
-"https://bsky.app/profile/zickusfor89th.bsky.social",
-"https://facebook.com/profile.php?id=61590208576269",
-"https://house.mi.gov/media/District%20Maps/089.pdf",
-"https://instagram.com/zickusfor89th",
-"https://michigan.gov/sos/elections/voting",
-"https://michigan.gov/sos/elections/voting/absentee-voting",
-"https://michigan.gov/sos/elections/voting/early-in-person-voting",
-"https://miottawa.org/clerk/elections",
-"https://mvic.sos.state.mi.us/",
-"https://zickusfor89th.com/accessibility.html",
-"https://zickusfor89th.com/campaign-comparison.html",
-"https://zickusfor89th.com/get-involved.html",
-"https://zickusfor89th.com/index.html",
-"https://zickusfor89th.com/issues-archive.html",
-"https://zickusfor89th.com/issues.html",
-"https://zickusfor89th.com/meet-meegan.html",
-"https://zickusfor89th.com/privacy.html",
-"https://zickusfor89th.com/the-choice.html",
-"https://zickusfor89th.com/voter-information.html"
+{
+"text": "Accessibility",
+"href": "https://zickusfor89th.com/accessibility.html"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/zickusfor89th.bsky.social"
+},
+{
+"text": "Check registration, polling place and clerk",
+"href": "https://mvic.sos.state.mi.us/"
+},
+{
+"text": "Compare",
+"href": "https://zickusfor89th.com/campaign-comparison.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61590208576269"
+},
+{
+"text": "Get Involved",
+"href": "https://zickusfor89th.com/get-involved.html"
+},
+{
+"text": "Home",
+"href": "https://zickusfor89th.com/index.html"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/zickusfor89th/"
+},
+{
+"text": "Issue & article archive",
+"href": "https://zickusfor89th.com/issues-archive.html"
+},
+{
+"text": "Issues",
+"href": "https://zickusfor89th.com/issues.html"
+},
+{
+"text": "Issues Library",
+"href": "https://zickusfor89th.com/issues-archive.html"
+},
+{
+"text": "Look up your official sample ballot",
+"href": "https://mvic.sos.state.mi.us/"
+},
+{
+"text": "MEEGAN ZICKUSFOR THE 89TH",
+"href": "https://zickusfor89th.com/index.html"
+},
+{
+"text": "Meet Meegan",
+"href": "https://zickusfor89th.com/meet-meegan.html"
+},
+{
+"text": "Michigan Secretary of State",
+"href": "https://www.michigan.gov/sos/elections/voting"
+},
+{
+"text": "Michigan Voter Information Center",
+"href": "https://mvic.sos.state.mi.us/"
+},
+{
+"text": "Open the official voter lookup",
+"href": "https://mvic.sos.state.mi.us/"
+},
+{
+"text": "Ottawa County Clerk elections",
+"href": "https://miottawa.org/clerk/elections/"
+},
+{
+"text": "Positions",
+"href": "https://zickusfor89th.com/issues.html"
+},
+{
+"text": "Privacy",
+"href": "https://zickusfor89th.com/privacy.html"
+},
+{
+"text": "Read Michigan’s early-voting guidance",
+"href": "https://www.michigan.gov/sos/elections/voting/early-in-person-voting"
+},
+{
+"text": "Read official absentee-ballot instructions and deadlines",
+"href": "https://www.michigan.gov/sos/elections/voting/absentee-voting"
+},
+{
+"text": "Send a correction",
+"href": "mailto:ZickusJD@gmail.com"
+},
+{
+"text": "Source: Michigan Secretary of State election dates",
+"href": "https://www.michigan.gov/sos/elections/voting"
+},
+{
+"text": "The Choice",
+"href": "https://zickusfor89th.com/the-choice.html"
+},
+{
+"text": "View the official House District 89 map (PDF)",
+"href": "https://www.house.mi.gov/media/District%20Maps/089.pdf"
+},
+{
+"text": "Voter Info",
+"href": "https://zickusfor89th.com/voter-information.html"
+},
+{
+"text": "ZickusJD@gmail.com",
+"href": "mailto:ZickusJD@gmail.com"
+}
 ]

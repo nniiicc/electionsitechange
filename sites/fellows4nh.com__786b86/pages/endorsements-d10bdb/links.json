@@ -1,11 +1,38 @@
 [
-"http://nhyouthmovement.org/",
-"http://revenue.nh.gov/",
-"https://fellows4nh.com/",
-"https://fellows4nh.com/endorsements",
-"https://fellows4nh.com/my-experience",
-"https://fellows4nh.com/my-position",
-"https://fellows4nh.com/my-proposals",
-"https://momsdemandaction.org/",
-"https://turnoutpac.org/"
+{
+"text": "HOME",
+"href": "https://www.fellows4nh.com"
+},
+{
+"text": "In the News",
+"href": "https://www.fellows4nh.com/endorsements"
+},
+{
+"text": "Moms Demand Action",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "My Action Plan",
+"href": "https://www.fellows4nh.com/my-proposals"
+},
+{
+"text": "My Experience",
+"href": "https://www.fellows4nh.com/my-experience"
+},
+{
+"text": "My Position",
+"href": "https://www.fellows4nh.com/my-position"
+},
+{
+"text": "NHYouthMovement.org",
+"href": "http://nhyouthmovement.org"
+},
+{
+"text": "TurnOutPac.org",
+"href": "https://turnoutpac.org/"
+},
+{
+"text": "www.revenue.nh.gov",
+"href": "http://www.revenue.nh.gov"
+}
 ]

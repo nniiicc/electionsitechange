@@ -1,5 +1,7 @@
-Too Many Families Are Sick and Broke
-Just across the border in Canada, everyone has health care.
+0 Skip to Content HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES Folder: ISSUES Back Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Too Many Families Are Sick and Broke Just across the border in Canada, everyone has health care.
 Not if you have a good job.
 Not if you’re lucky.
 Everyone.
@@ -54,3 +56,6 @@ We can partner with other states ready to lead, building a multi-state health ca
 That’s how real reform spreads—results first.
 Let me be clear: if you love the American health care system exactly as it is—the most expensive system in the world with some of the worst outcomes—this campaign probably isn’t for you.
 But if you believe families shouldn’t be sick and broke in the richest country on Earth, then let me fight for you.
+Start local.
+Get it done.
+Volunteer and Sign Up for Updates!

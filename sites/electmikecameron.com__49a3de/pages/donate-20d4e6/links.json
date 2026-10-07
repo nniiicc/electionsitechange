@@ -1,11 +1,46 @@
 [
-"http://cryoutcreations.eu/",
-"http://electmikecameron.com/",
-"http://electmikecameron.com/about",
-"http://electmikecameron.com/contact",
-"http://electmikecameron.com/donate",
-"http://electmikecameron.com/new-committee-appointment",
-"http://wordpress.org/",
-"https://facebook.com/mike.cameron.16752",
-"https://paypal.com/biz/fund?id=UYTAA3M82DGXS"
+{
+"text": "About",
+"href": "http://electmikecameron.com/about/"
+},
+{
+"text": "Contact",
+"href": "http://electmikecameron.com/contact/"
+},
+{
+"text": "Donate to Re-elect Mike Cameron",
+"href": "http://electmikecameron.com/donate/"
+},
+{
+"text": "Home",
+"href": "http://electmikecameron.com"
+},
+{
+"text": "Home",
+"href": "http://electmikecameron.com/"
+},
+{
+"text": "New Committee Appointment",
+"href": "http://electmikecameron.com/new-committee-appointment/"
+},
+{
+"text": "Re-Elect Mike Cameron Representative Georgia House District 1",
+"href": "http://electmikecameron.com/"
+},
+{
+"text": "Tempera",
+"href": "http://www.cryoutcreations.eu"
+},
+{
+"text": "WordPress.",
+"href": "http://wordpress.org/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/mike.cameron.16752"
+},
+{
+"text": "[image]",
+"href": "https://www.paypal.com/biz/fund?id=UYTAA3M82DGXS"
+}
 ]

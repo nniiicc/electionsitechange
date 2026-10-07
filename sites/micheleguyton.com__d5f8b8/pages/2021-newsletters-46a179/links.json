@@ -1,56 +1,226 @@
 [
-"https://bcgis.baltimorecountymd.gov/myneighborhood",
-"https://bsky.app/profile/micheleguyton.bsky.social",
-"https://facebook.com/MicheleGuytonforDelegate",
-"https://forms.gle/ab4sen2KB97j49kt7",
-"https://instagram.com/michele.guyton",
-"https://mailchi.mp/0262af26a68e/thank-yous-invitations-and-congratulations?e=%5BUNIQID%5D",
-"https://mailchi.mp/131f649cc6a8/forgive-me-for-bragging-i-cant-help-it?e=%5BUNIQID%5D",
-"https://mailchi.mp/1e893bfa953c/a-special-invitation-community-updates-and-a-gold-medal",
-"https://mailchi.mp/4886c1c8542d/what-is-district-42b",
-"https://mailchi.mp/48a6803e5803/advisory-group-appointments-are-open",
-"https://mailchi.mp/5c6c38500190/lets-connect-on-june-16-at-the-ag-center",
-"https://mailchi.mp/6b087557a5e1/there-is-so-much-to-be-thankful-for?e=%5BUNIQID%5D",
-"https://mailchi.mp/7d1a8bfb3731/wishing-you-happy-holidays?e=%5BUNIQID%5D",
-"https://mailchi.mp/8a1a4fc9ecfb/this-picture-made-me-cry?e=%5BUNIQID%5D",
-"https://mailchi.mp/a547196f9590/lets-clean-thing-up?e=%5BUNIQID%5D",
-"https://mailchi.mp/b801b3c1859e/where-in-district-42b-has-delegate-guyton-been-to-lately",
-"https://mailchi.mp/d3d737ce9aa3/broadband-town-hall-update-and-congratulations-all-around?e=27a5a9a20a",
-"https://mailchi.mp/e806d63b0ef3/honored-to-be-named-legislator-of-the-year",
-"https://mailchi.mp/e9ef3d2ac52d/district-42b-is-finally-a-priority-for-the-state",
-"https://mailchi.mp/f82eef71e761/standing-up-for-education-and-business",
-"https://mailchi.mp/f8b4eac37a89/parades-awards-brews?e=%5BUNIQID%5D",
-"https://mailchi.mp/fc4196abe04e/connecting-north-baltimore-county?e=%5BUNIQID%5D",
-"https://mailchi.mp/fccc163c34d8/welcome-back-both-to-school-and-the-state-fair",
-"https://maps.caliper.com/public-plans/planviewer-sb1012-congressional",
-"https://micheleguyton.com/",
-"https://micheleguyton.com/2019-newsletters",
-"https://micheleguyton.com/2020-newsletters",
-"https://micheleguyton.com/cart",
-"https://micheleguyton.com/community-resources",
-"https://micheleguyton.com/contact",
-"https://micheleguyton.com/get-involved",
-"https://micheleguyton.com/legislation",
-"https://micheleguyton.com/meet-michele",
-"https://micheleguyton.com/newsletters-updates",
-"https://micheleguyton.com/s/2026GuytonScholarshipApplication.pdf",
-"https://mobilize.us/mddems/event/1005603",
-"https://mobilize.us/mddems/event/1005606",
-"https://myemail.constantcontact.com/2021-End-of-Session-Letter.html?aid=oCeWcGl4pDQ&soid=1132855588306",
-"https://myemail.constantcontact.com/A-First-Day-of-Session-Like-Never-Before.html?aid=_IQyjrjp408&soid=1132855588306",
-"https://myemail.constantcontact.com/First-Week-Update-from-YOUR-office-in-Annapolis---.html?aid=Js31T9yI4xo&soid=1132855588306",
-"https://myemail.constantcontact.com/It-s-Crossover-Week-in-Annapolis-.html?aid=0oPULLkrKEU&soid=1132855588306",
-"https://myemail.constantcontact.com/Vaccine-Rollout--Youth-Sports-Returning--and-Plenty-of-Bill-Updates.html?aid=2IB_9RFu5tk&soid=1132855588306",
-"https://myemail.constantcontact.com/We-are-in-the-final-week-of-session-.html?aid=n4vsJrLyXOo&soid=1132855588306",
-"https://myemail.constantcontact.com/Week-3-Update-from-YOUR-Office-in-Annapolis-.html?aid=9vDw_IyAK2o&soid=1132855588306",
-"https://myemail.constantcontact.com/Week-5-Update-from-YOUR-Office-in-Annapolis.html?aid=4bUzb0_B_aQ&soid=1132855588306",
-"https://myemail.constantcontact.com/Week-Four-Update-From-YOUR-Office-in-Annapolis.html?aid=nwN80pmsmGM&soid=1132855588306",
-"https://myemail.constantcontact.com/Week-Nine-Update-From-YOUR-Office-in-Annapolis.html?aid=cVv6y7y4mAE&soid=1132855588306",
-"https://myemail.constantcontact.com/Week-Seven-Update-From-YOUR-Office-in-Annapolis.html?aid=2WU0yK9ZXMM&soid=1132855588306",
-"https://myemail.constantcontact.com/Week-Six-Update-from-YOUR-Office-in-Annapolis.html?aid=BrIVJfdTbFw&soid=1132855588306",
-"https://secure.actblue.com/donate/micheleguyton42b",
-"https://threads.com/@michele.guyton",
-"https://us17.campaign-archive.com/?id=e8bc8aa598&u=0387d126319ac3c99320f3592",
-"https://x.com/guyton42b",
-"https://youtube.com/channel/UCNYkYkL68WZcb1Vgagx4vvg/featured"
+{
+"text": "0",
+"href": "https://www.micheleguyton.com/cart"
+},
+{
+"text": "2019",
+"href": "https://www.micheleguyton.com/2019-newsletters"
+},
+{
+"text": "2020",
+"href": "https://www.micheleguyton.com/2020-newsletters"
+},
+{
+"text": "2026 Scholarship",
+"href": "https://www.micheleguyton.com/s/2026GuytonScholarshipApplication.pdf"
+},
+{
+"text": "August 17",
+"href": "https://mailchi.mp/f82eef71e761/standing-up-for-education-and-business"
+},
+{
+"text": "August 22 - Day of Action (Door Knocking)",
+"href": "https://www.mobilize.us/mddems/event/1005603/"
+},
+{
+"text": "August 9",
+"href": "https://mailchi.mp/4886c1c8542d/what-is-district-42b"
+},
+{
+"text": "Back",
+"href": "https://www.micheleguyton.com/"
+},
+{
+"text": "Community Resources",
+"href": "https://www.micheleguyton.com/community-resources"
+},
+{
+"text": "Contact",
+"href": "https://www.micheleguyton.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/micheleguyton42b"
+},
+{
+"text": "December 13",
+"href": "https://mailchi.mp/131f649cc6a8/forgive-me-for-bragging-i-cant-help-it?e=%5BUNIQID%5D"
+},
+{
+"text": "December 2",
+"href": "https://mailchi.mp/8a1a4fc9ecfb/this-picture-made-me-cry?e=%5BUNIQID%5D"
+},
+{
+"text": "December 22",
+"href": "https://mailchi.mp/7d1a8bfb3731/wishing-you-happy-holidays?e=%5BUNIQID%5D"
+},
+{
+"text": "December 3",
+"href": "https://mailchi.mp/fc4196abe04e/connecting-north-baltimore-county?e=%5BUNIQID%5D"
+},
+{
+"text": "End of Session Letter",
+"href": "https://myemail.constantcontact.com/2021-End-of-Session-Letter.html?aid=oCeWcGl4pDQ&soid=1132855588306"
+},
+{
+"text": "First Day of Session",
+"href": "https://myemail.constantcontact.com/A-First-Day-of-Session-Like-Never-Before.html?aid=_IQyjrjp408&soid=1132855588306"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.micheleguyton.com/get-involved"
+},
+{
+"text": "Get Your District Info",
+"href": "https://bcgis.baltimorecountymd.gov/myneighborhood/"
+},
+{
+"text": "Home",
+"href": "https://www.micheleguyton.com/"
+},
+{
+"text": "July 13",
+"href": "https://mailchi.mp/0262af26a68e/thank-yous-invitations-and-congratulations?e=%5BUNIQID%5D"
+},
+{
+"text": "July 2",
+"href": "https://mailchi.mp/f8b4eac37a89/parades-awards-brews?e=%5BUNIQID%5D"
+},
+{
+"text": "July 27",
+"href": "https://mailchi.mp/1e893bfa953c/a-special-invitation-community-updates-and-a-gold-medal"
+},
+{
+"text": "June 18",
+"href": "https://mailchi.mp/d3d737ce9aa3/broadband-town-hall-update-and-congratulations-all-around?e=27a5a9a20a"
+},
+{
+"text": "June 2",
+"href": "https://mailchi.mp/e806d63b0ef3/honored-to-be-named-legislator-of-the-year"
+},
+{
+"text": "June 22",
+"href": "https://mailchi.mp/a547196f9590/lets-clean-thing-up?e=%5BUNIQID%5D"
+},
+{
+"text": "Legislation",
+"href": "https://www.micheleguyton.com/legislation"
+},
+{
+"text": "May 14",
+"href": "https://mailchi.mp/5c6c38500190/lets-connect-on-june-16-at-the-ag-center"
+},
+{
+"text": "May 6",
+"href": "https://mailchi.mp/48a6803e5803/advisory-group-appointments-are-open"
+},
+{
+"text": "Meet Michele",
+"href": "https://www.micheleguyton.com/meet-michele"
+},
+{
+"text": "Newsletters & Updates",
+"href": "https://www.micheleguyton.com/newsletters-updates"
+},
+{
+"text": "November 23",
+"href": "https://mailchi.mp/6b087557a5e1/there-is-so-much-to-be-thankful-for?e=%5BUNIQID%5D"
+},
+{
+"text": "November 9",
+"href": "https://us17.campaign-archive.com?id=e8bc8aa598&u=0387d126319ac3c99320f3592"
+},
+{
+"text": "October 1",
+"href": "https://mailchi.mp/b801b3c1859e/where-in-district-42b-has-delegate-guyton-been-to-lately"
+},
+{
+"text": "October 14",
+"href": "https://mailchi.mp/e9ef3d2ac52d/district-42b-is-finally-a-priority-for-the-state"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://forms.gle/ab4sen2KB97j49kt7"
+},
+{
+"text": "September 19 - Day of Action (Door Knocking)",
+"href": "https://www.mobilize.us/mddems/event/1005606/"
+},
+{
+"text": "September 3",
+"href": "https://mailchi.mp/fccc163c34d8/welcome-back-both-to-school-and-the-state-fair"
+},
+{
+"text": "View District Map",
+"href": "https://maps.caliper.com/public-plans/planviewer-sb1012-congressional/#MD+2022+House+Districts"
+},
+{
+"text": "Week Eight",
+"href": "https://myemail.constantcontact.com/It-s-Crossover-Week-in-Annapolis-.html?aid=0oPULLkrKEU&soid=1132855588306"
+},
+{
+"text": "Week Five",
+"href": "https://myemail.constantcontact.com/Week-5-Update-from-YOUR-Office-in-Annapolis.html?aid=4bUzb0_B_aQ&soid=1132855588306"
+},
+{
+"text": "Week Four",
+"href": "https://myemail.constantcontact.com/Week-Four-Update-From-YOUR-Office-in-Annapolis.html?aid=nwN80pmsmGM&soid=1132855588306"
+},
+{
+"text": "Week Nine",
+"href": "https://myemail.constantcontact.com/Week-Nine-Update-From-YOUR-Office-in-Annapolis.html?aid=cVv6y7y4mAE&soid=1132855588306"
+},
+{
+"text": "Week One",
+"href": "https://myemail.constantcontact.com/First-Week-Update-from-YOUR-office-in-Annapolis---.html?aid=Js31T9yI4xo&soid=1132855588306"
+},
+{
+"text": "Week Seven",
+"href": "https://myemail.constantcontact.com/Week-Seven-Update-From-YOUR-Office-in-Annapolis.html?aid=2WU0yK9ZXMM&soid=1132855588306"
+},
+{
+"text": "Week Six",
+"href": "https://myemail.constantcontact.com/Week-Six-Update-from-YOUR-Office-in-Annapolis.html?aid=BrIVJfdTbFw&soid=1132855588306"
+},
+{
+"text": "Week Ten",
+"href": "https://myemail.constantcontact.com/We-are-in-the-final-week-of-session-.html?aid=n4vsJrLyXOo&soid=1132855588306"
+},
+{
+"text": "Week Three",
+"href": "https://myemail.constantcontact.com/Week-3-Update-from-YOUR-Office-in-Annapolis-.html?aid=9vDw_IyAK2o&soid=1132855588306"
+},
+{
+"text": "Week Two",
+"href": "https://myemail.constantcontact.com/Vaccine-Rollout--Youth-Sports-Returning--and-Plenty-of-Bill-Updates.html?aid=2IB_9RFu5tk&soid=1132855588306"
+},
+{
+"text": "[image: Michele Guyton, Maryland State Delegate 42B]",
+"href": "https://www.micheleguyton.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/micheleguyton.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MicheleGuytonforDelegate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/michele.guyton/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@michele.guyton"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCNYkYkL68WZcb1Vgagx4vvg/featured"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/guyton42b"
+}
 ]

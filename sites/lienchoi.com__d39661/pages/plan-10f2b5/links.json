@@ -1,19 +1,314 @@
 [
-"https://latonyareevesfreedomact.org/",
-"https://lienchoi.com/",
-"https://lienchoi.com/about",
-"https://lienchoi.com/blog",
-"https://lienchoi.com/contact",
-"https://lienchoi.com/donate",
-"https://lienchoi.com/non-profit-initiatives",
-"https://lienchoi.com/plan",
-"https://lienchoi.com/politicsgoals",
-"https://lienchoi.com/store",
-"https://lienchoi.com/volunteer",
-"https://lienchoi.com/why-me",
-"https://lienchoi.com/why-the-7th",
-"https://un.org/en/about-us/universal-declaration-of-human-rights",
-"https://ushistory.org/documents/economic_bill_of_rights.htm",
-"https://youtube.com/playlist?list=PLi_mjw2ZYSi3a1krZ7DbxBIAPscK0yIcQ",
-"https://youtube.com/watch?v=y8cAhsr5j6U"
+{
+"text": "1)",
+"href": "https://lienchoi.com/plan#politics-22"
+},
+{
+"text": "10)",
+"href": "https://lienchoi.com/plan#blm"
+},
+{
+"text": "11)",
+"href": "https://lienchoi.com/plan#reproductive-rights-14"
+},
+{
+"text": "12)",
+"href": "https://lienchoi.com/plan#lgbt-13"
+},
+{
+"text": "13)",
+"href": "https://lienchoi.com/plan#veterans-11"
+},
+{
+"text": "14)",
+"href": "https://lienchoi.com/plan#disability-12"
+},
+{
+"text": "15)",
+"href": "https://lienchoi.com/plan#migrants-10"
+},
+{
+"text": "16)",
+"href": "https://lienchoi.com/plan#environmental-justice-9"
+},
+{
+"text": "17)",
+"href": "https://lienchoi.com/plan#theenvironment8"
+},
+{
+"text": "18)",
+"href": "https://lienchoi.com/plan#env-homes7"
+},
+{
+"text": "19)",
+"href": "https://lienchoi.com/plan#env-cars7"
+},
+{
+"text": "2)",
+"href": "https://lienchoi.com/plan#sociopoliticalagenda--21"
+},
+{
+"text": "20)",
+"href": "https://lienchoi.com/plan#powergrid"
+},
+{
+"text": "21)",
+"href": "https://lienchoi.com/plan#police"
+},
+{
+"text": "22)",
+"href": "https://lienchoi.com/plan#gunviolence5"
+},
+{
+"text": "23)",
+"href": "https://lienchoi.com/plan#domesticviolence4"
+},
+{
+"text": "24)",
+"href": "https://lienchoi.com/plan#excon3"
+},
+{
+"text": "25)",
+"href": "https://lienchoi.com/plan#drugs2"
+},
+{
+"text": "26)",
+"href": "https://lienchoi.com/plan#education1"
+},
+{
+"text": "3)",
+"href": "https://lienchoi.com/plan#economy-20"
+},
+{
+"text": "4)",
+"href": "https://lienchoi.com/plan#healthcareinurance-19"
+},
+{
+"text": "6)",
+"href": "https://lienchoi.com/plan#medicare-18"
+},
+{
+"text": "7)",
+"href": "https://lienchoi.com/plan#medicaid-17"
+},
+{
+"text": "8)",
+"href": "https://lienchoi.com/plan#socialjusticeprograms-16"
+},
+{
+"text": "9)",
+"href": "https://lienchoi.com/plan#homeless-15"
+},
+{
+"text": "After-Work Program for",
+"href": "https://lienchoi.com/plan#education1"
+},
+{
+"text": "Automobiles",
+"href": "https://lienchoi.com/plan#env-cars7"
+},
+{
+"text": "Back to Top",
+"href": "https://lienchoi.com/politicsgoals"
+},
+{
+"text": "Back to Top",
+"href": "https://lienchoi.com/politicsgoals#backtothetop"
+},
+{
+"text": "Black Lives Matter",
+"href": "https://lienchoi.com/plan#blm"
+},
+{
+"text": "Decriminalization of Homelessness, povert",
+"href": "https://lienchoi.com/plan#homeless-15"
+},
+{
+"text": "Decriminalization, even legalization, of all drugs and drug sales, with Increased focus on Illegal Gun Trafficking",
+"href": "https://lienchoi.com/plan#police"
+},
+{
+"text": "Disability",
+"href": "https://lienchoi.com/plan#disability-12"
+},
+{
+"text": "Domestic Violence",
+"href": "https://lienchoi.com/plan#domesticviolence4"
+},
+{
+"text": "Drugs",
+"href": "https://lienchoi.com/plan#drugs2"
+},
+{
+"text": "Education",
+"href": "https://lienchoi.com/plan#education1"
+},
+{
+"text": "End of No Knock Warrants",
+"href": "https://lienchoi.com/plan#police"
+},
+{
+"text": "Environmental Justice",
+"href": "https://lienchoi.com/plan#environmental-justice-9"
+},
+{
+"text": "Environmental Justice & Environmental Sustainability Programs",
+"href": "https://lienchoi.com/plan#environmental-justice-9"
+},
+{
+"text": "Ex-Convict Re-entry Programs",
+"href": "https://lienchoi.com/plan#excon3"
+},
+{
+"text": "Gun Violence",
+"href": "https://lienchoi.com/plan#gunviolence5"
+},
+{
+"text": "Healthcare and Insurance in General",
+"href": "https://lienchoi.com/plan#healthcareinurance-19"
+},
+{
+"text": "Homeless",
+"href": "https://lienchoi.com/plan#homeless-15"
+},
+{
+"text": "Homelessness and Poverty",
+"href": "https://lienchoi.com/plan#homeless-15"
+},
+{
+"text": "Homes",
+"href": "https://lienchoi.com/plan#env-homes7"
+},
+{
+"text": "LGBTQQ2SAAI+",
+"href": "https://lienchoi.com/plan#lgbt-13"
+},
+{
+"text": "Medicaid/Affordable Care Act",
+"href": "https://lienchoi.com/plan#medicaid-17"
+},
+{
+"text": "Medicare",
+"href": "https://lienchoi.com/plan#medicare-18"
+},
+{
+"text": "Migrants",
+"href": "https://lienchoi.com/plan#migrants-10"
+},
+{
+"text": "Policing/Law Enforcement, Gun Violence and Crime",
+"href": "https://lienchoi.com/plan#police"
+},
+{
+"text": "Political Agenda",
+"href": "https://lienchoi.com/plan#politics-22"
+},
+{
+"text": "Power Grid - Eco-Energy",
+"href": "https://lienchoi.com/plan#powergrid"
+},
+{
+"text": "Pro-Love",
+"href": "https://lienchoi.com/plan#reproductive-rights-14"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://lienchoi.com/plan#reproductive-rights-14"
+},
+{
+"text": "Social Justice Programs",
+"href": "https://lienchoi.com/plan#socialjusticeprograms-16"
+},
+{
+"text": "Socio-Political Agenda - Based on hierarchy of needs to ultimate fulfillment.",
+"href": "https://lienchoi.com/plan#sociopoliticalagenda--21"
+},
+{
+"text": "Store",
+"href": "https://lienchoi.com/store"
+},
+{
+"text": "The Economy - Starting with the fundamentals",
+"href": "https://lienchoi.com/plan#economy-20"
+},
+{
+"text": "The Global Climate Crisis - an actual plan to start to your \"Green New Deal\"",
+"href": "https://lienchoi.com/plan#theenvironment8"
+},
+{
+"text": "Universal Healthcare",
+"href": "https://lienchoi.com/plan#universalhealthcare"
+},
+{
+"text": "Veterans",
+"href": "https://lienchoi.com/plan#veterans-11"
+},
+{
+"text": "[image: Lienonme for Congress logo]",
+"href": "https://lienchoi.com/"
+},
+{
+"text": "about",
+"href": "https://lienchoi.com/about"
+},
+{
+"text": "blog",
+"href": "https://lienchoi.com/blog"
+},
+{
+"text": "contact",
+"href": "https://lienchoi.com/contact"
+},
+{
+"text": "donate",
+"href": "https://lienchoi.com/donate"
+},
+{
+"text": "home",
+"href": "https://lienchoi.com/"
+},
+{
+"text": "https://latonyareevesfreedomact.org/",
+"href": "https://latonyareevesfreedomact.org/"
+},
+{
+"text": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+"href": "https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+},
+{
+"text": "https://www.ushistory.org/documents/economic_bill_of_rights.htm",
+"href": "https://www.ushistory.org/documents/economic_bill_of_rights.htm"
+},
+{
+"text": "https://www.youtube.com/playlist?list=PLi_mjw2ZYSi3a1krZ7DbxBIAPscK0yIcQ",
+"href": "https://www.youtube.com/playlist?list=PLi_mjw2ZYSi3a1krZ7DbxBIAPscK0yIcQ"
+},
+{
+"text": "https://www.youtube.com/watch?v=y8cAhsr5j6U",
+"href": "https://www.youtube.com/watch?v=y8cAhsr5j6U"
+},
+{
+"text": "non-Profit Initiatives",
+"href": "https://lienchoi.com/non-profit-initiatives"
+},
+{
+"text": "non-profit initiative",
+"href": "https://lienchoi.com/non-profit-initiatives#nonprofit"
+},
+{
+"text": "plan",
+"href": "https://lienchoi.com/plan"
+},
+{
+"text": "volunteer",
+"href": "https://lienchoi.com/volunteer"
+},
+{
+"text": "why me?",
+"href": "https://lienchoi.com/why-me"
+},
+{
+"text": "why the 7th?",
+"href": "https://lienchoi.com/why-the-7th"
+}
 ]

@@ -1,10 +1,42 @@
 [
-"http://whitakerforky.com/",
-"https://secure.anedot.com/mitch-addison-whitaker-for-state-representative/donate",
-"https://whitakerforky.com/",
-"https://whitakerforky.com/contact",
-"https://whitakerforky.com/issues",
-"https://whitakerforky.com/meet-mitch",
-"https://whitakerforky.com/privacy-policy",
-"https://whitakerforky.com/volunteer"
+{
+"text": "Contact",
+"href": "https://whitakerforky.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/mitch-addison-whitaker-for-state-representative/donate"
+},
+{
+"text": "Home",
+"href": "http://whitakerforky.com/"
+},
+{
+"text": "Issues",
+"href": "https://whitakerforky.com/issues/"
+},
+{
+"text": "Meet Mitch",
+"href": "https://whitakerforky.com/meet-mitch/"
+},
+{
+"text": "Privacy",
+"href": "https://whitakerforky.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://whitakerforky.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://whitakerforky.com/"
+},
+{
+"text": "email",
+"href": "mailto:mitchumaddisonwhitaker@gmail.com"
+},
+{
+"text": "https://whitakerforky.com/",
+"href": "https://whitakerforky.com/"
+}
 ]

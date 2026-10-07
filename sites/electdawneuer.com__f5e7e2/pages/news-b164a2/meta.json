@@ -1,7 +1,9 @@
 {
- "description": "Stay updated on Senator Dawn Euer\u2019s latest news, community events, legislative updates, and work across Rhode Island Senate District 13.",
+ "description": "Stay updated on Senator Dawn Euer’s latest news, community events, legislative updates, and work across Rhode Island Senate District 13.",
  "final_url": "https://www.electdawneuer.com/news",
- "paid_for_by": null,
+ "fingerprint": "e8c0e74be171fc2089baab214598ff349d18777f",
+ "format": 3,
+ "paid_for_by": "sponsored by Sen",
  "title": "News | Dawn Euer",
  "years_mentioned": [
   "2013",

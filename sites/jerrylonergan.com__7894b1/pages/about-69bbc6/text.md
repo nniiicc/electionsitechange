@@ -1,40 +1,11 @@
-My Background
-Graduation, Work, and a Wedding
-I graduated from Sacred Heart High School in my hometown of Salina, KS.
+Skip to content Home About Values Contact Donate Donate Donate Donate Home About Values Contact My Background High School Graduation Grain Sampler Wedding Graduation, Work, and a Wedding I graduated from Sacred Heart High School in my hometown of Salina, KS.
 I didn’t have initial college success and could not pass the draft physical due to football surgeries.
 I worked as a laborer for seven years building grain bins, serving as a grain sampler, working the night shift on a truck dock, and working at a pre-cast concrete plant.
 Then I met and married my wife, Nancy Repp.
 We had two kids while putting ourselves through college with the help of government loan and grant programs.
-College and Following Successes
-In 1980, I graduated with distinction in Economic from University of Missouri-Kansas City.
+College and Following Successes In 1980, I graduated with distinction in Economic from University of Missouri-Kansas City .
 I later served as the president of UMKC Alumni Association from 2013-2014.
 Below is a breakdown of the locations I worked at following my graduation.
-1979-1983 Midwest Research Institute (now MRIGloblal) KCMO – Entry Level
-1983-1987 Kansas Corporation Commission – Energy Program Evaluator
-- 1986 Chief Economist
-1987-1992 Kansas Inc – Vice President of Research
-In 1988, I graduated with Honors with a Master of Public Administration from the University of Kansas.
+1979-1983 Midwest Research Institute (now MRIGloblal) KCMO – Entry Level 1983-1987 Kansas Corporation Commission – Energy Program Evaluator 1986 Chief Economist 1987-1992 Kansas Inc – Vice President of Research KEURP Jerry Lonergan Nancy and Jerry In 1988, I graduated with Honors with a Master of Public Administration from the University of Kansas .
 I was recognized as outstanding graduate 1988.
-1992-1993 Kansas Dept. of Commerce – Director – Division of New and Existing Industry
-- Created Kansas Match – $1 million in new sales for KS businesses documented in first six months
-1993-1999 Kansas Electric Utilities Research Program – Executive Director
-- Managed an $8 million research portfolio
-- Won grants to conduct the first public measuring of the KS wind resource
-1993 Leadership Kansas
-2000-2006 & 2019-2021 Plains Research – Owner
-- Surveyed Potawatomi Nation population to determine preference for how casino profits should be spent
-- Developed Kansas Dept. of Labor grants program in 18 months captured $450,000 in new grants
-- Kansas Inc. short term engagement as President – served as Co-Chair of Governor Sebelius’ wind and prairie task force and conducted a study of tactics to grow a film industry in the state
-- In 2020 – Interveiwed directors of 14 civic organizations across the country to identify how metros were responding to Covid, racial tensions, and economic downturn
-2006-2018 Civic Council of Greater Kansas City – Research Economist
-- Multiple Projects working with CEOs of large KC companies to position the region for good quality of life and global competitiveness
-- One of two invited speakers at annual KS and MO Governor summit
-2014 FBI Citizens Academy
-2021-2022 Junction City Main Street – Founding Executive Director
-- Assisted with grant to secure Main Street Designation
-- Served as first director to organize and formalize operation
-2022-2023 Flint Hills Regional Council – Executive Director
-- Secured almost $600,000 in grants from new funding sources
-- Left when Nancy’s cancer returned and realized staying with divided attention would hurt the organization (Cancer is back in remission)
-2024 Introduced Salina to Irish Road Bowling (www.salinairishrb.com)
-2024-2026 Thought I was retired and would be chasing 5 grandkids
+1992-1993 Kansas Dept. of Commerce – Director – Division of New and Existing Industry Created Kansas Match – $1 million in new sales for KS businesses documented in first six months 1993-1999 Kansas Electric Utilities Research Program – Executive Director Managed an $8 million research portfolio Won grants to conduct the first public measuring of the KS wind resource 1993 Leadership Kansas 2000-2006 & 2019-2021 Plains Research – Owner Surveyed Potawatomi Nation population to determine preference for how casino profits should be spent Developed Kansas Dept. of Labor grants program in 18 months captured $450,000 in new grants Kansas Inc. short term engagement as President – served as Co-Chair of Governor Sebelius’ wind and prairie task force and conducted a study of tactics to grow a film industry in the state In 2020 – Interveiwed directors of 14 civic organizations across the country to identify how metros were responding to Covid, racial tensions, and economic downturn 2006-2018 Civic Council of Greater Kansas City – Research Economist Multiple Projects working with CEOs of large KC companies to position the region for good quality of life and global competitiveness One of two invited speakers at annual KS and MO Governor summit 2014 FBI Citizens Academy 2021-2022 Junction City Main Street – Founding Executive Director Assisted with grant to secure Main Street Designation Served as first director to organize and formalize operation 2022-2023 Flint Hills Regional Council – Executive Director Secured almost $600,000 in grants from new funding sources Left when Nancy’s cancer returned and realized staying with divided attention would hurt the organization (Cancer is back in remission) 2024 Introduced Salina to Irish Road Bowling (www.salinairishrb.com) 2024-2026 Thought I was retired and would be chasing 5 grandkids Facebook Instagram jl4kshouse@gmail.com Copyright © # Jerry Lonergan

@@ -1,27 +1,130 @@
 [
-"http://mnhealthplan.org/",
-"https://bsky.app/profile/senjohnmarty.bsky.social",
-"https://commonwealmagazine.org/speed-single-payer",
-"https://instagram.com/senjohnmarty",
-"https://johnmarty.org/",
-"https://johnmarty.org/accomplishments",
-"https://johnmarty.org/contact",
-"https://johnmarty.org/contribute",
-"https://johnmarty.org/endorsements",
-"https://johnmarty.org/issues",
-"https://johnmarty.org/meet-john",
-"https://johnmarty.org/news",
-"https://johnmarty.org/post/climate-change",
-"https://johnmarty.org/post/domestic-violence",
-"https://johnmarty.org/post/economic-justice-for-all",
-"https://johnmarty.org/post/education",
-"https://johnmarty.org/post/government-ethics-and-campaign-finance-reform",
-"https://johnmarty.org/post/healthcare",
-"https://johnmarty.org/post/labor-jobs-and-the-economy",
-"https://johnmarty.org/post/reproductive-rights",
-"https://johnmarty.org/post/transportation",
-"https://johnmarty.org/testimonials",
-"https://johnmarty.org/volunteer",
-"https://nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html?mtrref=undefined&gwh=2052A52426FB01E527FC03711F4CD3C8&gwt=pay&assetType=PAYWALL",
-"https://revisor.mn.gov/bills/94/2025/0/SF/929/versions/latest"
+{
+"text": "Accomplishments",
+"href": "https://www.johnmarty.org/accomplishments"
+},
+{
+"text": "As reported in the New York Times",
+"href": "https://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html?mtrref=undefined&gwh=2052A52426FB01E527FC03711F4CD3C8&gwt=pay&assetType=PAYWALL"
+},
+{
+"text": "Browse all issues",
+"href": "https://www.johnmarty.org/issues"
+},
+{
+"text": "Climate Change",
+"href": "https://www.johnmarty.org/post/climate-change"
+},
+{
+"text": "Contact",
+"href": "https://www.johnmarty.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.johnmarty.org/contribute"
+},
+{
+"text": "Domestic Violence",
+"href": "https://www.johnmarty.org/post/domestic-violence"
+},
+{
+"text": "Economic Justice",
+"href": "https://www.johnmarty.org/post/economic-justice-for-all"
+},
+{
+"text": "Education",
+"href": "https://www.johnmarty.org/post/education"
+},
+{
+"text": "Endorsements",
+"href": "https://www.johnmarty.org/endorsements"
+},
+{
+"text": "Government Ethics and Campaign Fiance Reform",
+"href": "https://www.johnmarty.org/post/government-ethics-and-campaign-finance-reform"
+},
+{
+"text": "Healthcare",
+"href": "https://www.johnmarty.org/post/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.johnmarty.org/"
+},
+{
+"text": "Meet John",
+"href": "https://www.johnmarty.org/meet-john"
+},
+{
+"text": "Minnesota Health Plan",
+"href": "http://www.mnhealthplan.org/"
+},
+{
+"text": "News",
+"href": "https://www.johnmarty.org/news"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://www.johnmarty.org/post/reproductive-rights"
+},
+{
+"text": "Senate File 929",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/SF/929/versions/latest/"
+},
+{
+"text": "Testimonials",
+"href": "https://www.johnmarty.org/testimonials"
+},
+{
+"text": "The Economy",
+"href": "https://www.johnmarty.org/post/labor-jobs-and-the-economy"
+},
+{
+"text": "The Issues",
+"href": "https://www.johnmarty.org/issues"
+},
+{
+"text": "Transportation",
+"href": "https://www.johnmarty.org/post/transportation"
+},
+{
+"text": "Volunteer",
+"href": "https://www.johnmarty.org/volunteer"
+},
+{
+"text": "[image: Instagram Logo - Politician X Webflow Template]",
+"href": "https://www.instagram.com/senjohnmarty"
+},
+{
+"text": "[image]",
+"href": "https://bsky.app/profile/senjohnmarty.bsky.social"
+},
+{
+"text": "[image]",
+"href": "https://www.johnmarty.org/"
+},
+{
+"text": "[image]EducationRead more",
+"href": "https://www.johnmarty.org/post/education"
+},
+{
+"text": "[image]Government EthicsRead more",
+"href": "https://www.johnmarty.org/post/government-ethics-and-campaign-finance-reform"
+},
+{
+"text": "[image]The EconomyRead more",
+"href": "https://www.johnmarty.org/post/labor-jobs-and-the-economy"
+},
+{
+"text": "https://www.commonwealmagazine.org/speed-single-payer",
+"href": "https://www.commonwealmagazine.org/speed-single-payer"
+},
+{
+"text": "www.mnhealthplan.org",
+"href": "http://www.mnhealthplan.org"
+},
+{
+"text": "Back to The Issues",
+"href": "https://www.johnmarty.org/issues"
+}
 ]

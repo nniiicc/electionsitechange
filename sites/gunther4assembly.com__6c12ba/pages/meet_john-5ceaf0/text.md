@@ -1,5 +1,4 @@
-Meet John
-I’m John Gunther from the Hamlet of Shushan NY, Washington County; running for New York State Assembly District 114 against one of the state’s most entrenched Republicans who has done very little in the last six years to improve the lives of everyday people here in the North Country.
+Meet John News Endorsements Volunteer Voter Information Donate by Mail Contribute Meet John John Gunther I’m John Gunther from the Hamlet of Shushan NY, Washington County; running for New York State Assembly District 114 against one of the state’s most entrenched Republicans who has done very little in the last six years to improve the lives of everyday people here in the North Country.
 I was the founder and President of The Works, Inc. in Greenwich, NY.
 I had manufacturing plants in both Washington and Warren Counties.
 We employed hundreds of people over a span of 48 years.
@@ -21,7 +20,5 @@ You must have income to pay your bills and we can’t depend on the federal gove
 I am running a grass roots campaign funded by small contributions from individual donors.
 My campaign committee, gunther4assembly, has been approved by the New York State Board of Elections to participate in their matching funds program which was established to help independent candidates get elected who are not beholding to large corporations, their lobbyists and super PACS.
 This Match Program levels the playing field.
-A small donation is matched and becomes a big contribution:
-$5 nets $60;
-$50 nets $650;
-$250 nets $2,550.
+A small donation is matched and becomes a big contribution: $5 nets $60; $50 nets $650; $250 nets $2,550.
+Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# Other Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com - Political Websites Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

@@ -1,5 +1,4 @@
-Reproductive Freedom
-The ability to choose if, when, and how to give birth is fundamental to women’s economic success, educational achievement, and overall health and well-being.
+0 Skip to Content Home About Issues Environment / Climate Change Common Sense Gun Laws Reproductive Freedom Small Business E-Bikes/Micromobility In The News Endorsements Get Involved Stay Informed Contact DONATE Open Menu Close Menu Home About Issues Environment / Climate Change Common Sense Gun Laws Reproductive Freedom Small Business E-Bikes/Micromobility In The News Endorsements Get Involved Stay Informed Contact DONATE Open Menu Close Menu Home About Folder: Issues Back Environment / Climate Change Common Sense Gun Laws Reproductive Freedom Small Business E-Bikes/Micromobility In The News Endorsements Get Involved Stay Informed Contact DONATE Reproductive Freedom The ability to choose if, when, and how to give birth is fundamental to women’s economic success, educational achievement, and overall health and well-being.
 Access to safe and legal abortion as well as birth control is essential for Rhode Island women and for all women.
 As the daughter of an obstetrician father and a feminist mother, I grew up in a household where pregnancy, labor and delivery, and women’s right to healthcare were routine dinner table conversation.
 In 2014, I joined the RI Coalition for Reproductive Justice on behalf of the National Council of Jewish Women.
@@ -17,3 +16,4 @@ This is why I sponsored legislation in 2025 and 2026 to allow prescriptions for 
 I will be back in 2027 with this bill.
 I commit to protecting and expanding access to essential reproductive health care in 2027 and beyond.
 Rhode Island lawmakers must remain vigilant in the fight for reproductive freedom and rights.
+View fullsize View fullsize Donate PAID FOR BY FRIENDS OF JENNIFER BOYLAN j boylan4RI@gmail.com

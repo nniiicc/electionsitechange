@@ -1,20 +1,7 @@
-top of page
-Tue, Dec 16
-|Premier Event Halls
-Business and Community Leaders Meet and Greet Former Representative Farooq Mughal
-Registration is closed
-Time & Location
-Dec 16, 2025, 6:00 PM – 8:00 PM
-Premier Event Halls, 3520 Breckinridge Blvd #106, Duluth, GA 30096, USA
-Guests
-About the event
-Please join business and community leaders for a meet-and-greet supporting Former Representative Mughal in his 2026 re-election campaign.
-If you are unable to attend, you can still show your support by donating here.
-Confirmed Guest Speaker: PSC Commissioner Elect Peter Hubbard
-Host Committee (In Formation)
-Gwinnett County Commissioner Kirkland Carden
-Rep.
-Carolyn Hugely, Minority Leader
-Rep.
-Tanya Miller, Minority Caucus Chairwoman
-bottom of page
+top of page Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items.
+CONTRIBUTE SUBSCRIBE Tue, Dec 16 | Premier Event Halls Business and Community Leaders Meet and Greet Former Representative Farooq Mughal Registration is closed See other events Time & Location Dec 16, 2025, 6:00 PM – 8:00 PM Premier Event Halls, 3520 Breckinridge Blvd #106, Duluth, GA 30096, USA Guests + 2 other guests About the event Please join business and community leaders for a meet-and-greet supporting Former Representative Mughal in his 2026 re-election campaign.
+If you are unable to attend, you can still show your support by donating here .
+Confirmed Guest Speaker: PSC Commissioner Elect Peter Hubbard Host Committee (In Formation) Gwinnett County Commissioner Kirkland Carden Rep.
+Carolyn Hugely, Minority Leader Rep.
+Tanya Miller, Minority Caucus Chairwoman Show More Share this event START CHANGING Support Our Cause CONTRIBUTE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+MUGHAL FOR GEORGIA 710 Dacula Rd, Ste 4A, #325 Dacula, GA, 30019 fmughalforgeorgia@gmail.com 678-234-3242 Paid and Authorized by Mughal for Georgia, LLC (2022) Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items. bottom of page

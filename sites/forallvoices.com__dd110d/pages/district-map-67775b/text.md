@@ -1,18 +1,8 @@
-We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits.
-By clicking “Accept All”, you consent to the use of ALL the cookies.
-However, you may visit "Cookie Settings" to provide a controlled consent.
-Manage consent
-Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website.
-We also use third-party cookies that help us analyze and understand how you use this website.
-These cookies will be stored in your browser only with your consent.
-You also have the option to opt-out of these cookies.
-But opting out of some of these cookies may affect your browsing experience.
-Necessary cookies are absolutely essential for the website to function properly.
-These cookies ensure basic functionalities and security features of the website, anonymously.
-Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
-Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
-Analytical cookies are used to understand how visitors interact with the website.
-These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
-Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns.
-These cookies track visitors across websites and collect information to provide customized ads.
-Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+Skip to content FOR CONGRESS 2026 CA 43rd Congressional District English Español 中文 (简体) Tiếng Việt 日本語 한국어 DONATE Search Menu Search… DONATE.
+PARTNER WITH US.
+VOLUNTEER.
+Home Meet Cristian Platform Volunteer District Map Contact FOR ALL VOICES 2026 Search District Map Stay Informed Email (Required) Sign up Δ Stay connected Download Campaign Flyer Choose From: English Spanish Chinese Japanese Korean Vietnamese Contact Us Cristian Morales for Congress 2026 3025 Artesia Blvd.
+#37 Torrance, CA 90504 info@forallvoices.com Paid for by Cristian Morales for Congress 2026.
+Committee ID: C00944405 Privacy Policy Accessibility © # Cristian Morales for All Voices.
+All Rights Reserved.
+Stay connected @CMoralesCAGov on Truth Social Manage consent Close Necessary Necessary Always Enabled Functional Functional Advertisement Advertisement Others Others SAVE & ACCEPT Please ensure Javascript is enabled for purposes of website accessibility

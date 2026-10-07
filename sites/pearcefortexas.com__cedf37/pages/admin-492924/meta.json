@@ -1,7 +1,9 @@
 {
  "description": "Admin on Pearce for Texas. A campaign platform for Jason Pearce, dedicated to representing the future of Te.",
  "final_url": "https://pearcefortexas.com/admin",
- "paid_for_by": null,
+ "fingerprint": "e3c77bc9fe8641199a964b0261378285426a762c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Admin | Pearce for Texas",
  "years_mentioned": []
 }

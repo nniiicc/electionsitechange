@@ -1,4 +1,5 @@
-Who is Meg Weinberger?
+Skip to main content Home Platform News & Events Endorsements Press Releases Image and Video Gallery Join Meg Donate Contribute Today Contribute Today Join Meg's Team!
+Sponsored Bills Who is Meg Weinberger?
 Meg Weinberger has dedicated her life to advocating for the most vulnerable in society.
 With unwavering passion, she stands up for individuals with physical and intellectual disabilities, foster children, and animals in need.
 Meg is a compassionate, conservative voice to in Tallahassee who is tirelessly advocating for District 94.
@@ -18,22 +19,26 @@ She worked with her colleagues to pass monumental property tax initiatives that 
 If passed, the new laws will bring major relief to Florida homeowners.
 Additionally, Meg supported legislation to hold big insurance companies accountable and ensure people can access claims they are entitled to by their insurer.
 During Meg’s tenure, property insurance rates have been dropping across Florida.
+Contribute Today Join Meg's Team!
 What does Meg stand for?
-- LOWER TAXES & DECREASE REGULATION TO PROMOTE JOBS AND IMPROVE OUR ECONOMY: Cut taxes, reduce the size of government, and cut red tape to unleash our economic potential.
-- ADDRESS THE AFFORDABILITY CRISIS: Put an end to runaway insurance premiums, combat fraud and corruption, hold accountable those who exploit consumers and inflate costs, and advocate for affordable housing.
-- SUPPORT FARMING & AGRICULTURE: Farmers feed America and are critical to our national security.
+LOWER TAXES & DECREASE REGULATION TO PROMOTE JOBS AND IMPROVE OUR ECONOMY : Cut taxes, reduce the size of government, and cut red tape to unleash our economic potential.
+ADDRESS THE AFFORDABILITY CRISIS : Put an end to runaway insurance premiums, combat fraud and corruption, hold accountable those who exploit consumers and inflate costs, and advocate for affordable housing.
+SUPPORT FARMING & AGRICULTURE : Farmers feed America and are critical to our national security.
 We must fight to prevent farmland from being taken out of production.
-- SUPPORT LAW ENFORCEMENT: Support our men and women in uniform and prioritize the safety and security of our communities.
-- PROTECT LIFE: Support the sanctity of human life and the rights of the unborn, while enhancing health services for pregnant and postpartum women.
-- PROTECT INDIVIDUAL FREEDOMS & CONSTITUTIONAL RIGHTS: Protect our right to bear arms and combat unconstitutional government overreach in our personal lives and businesses.
-- ANIMAL WELFARE CHAMPION: Meg is a true animal advocate.
-Her belief in the healing power of animals has made her an active voice for many causes that help protect them from harm
-- IMPROVE EDUCATIONAL OUTCOMES: Empower parents to exercise their right to guide their children’s education based on their personal values and beliefs.
+SUPPORT LAW ENFORCEMENT : Support our men and women in uniform and prioritize the safety and security of our communities.
+PROTECT LIFE : Support the sanctity of human life and the rights of the unborn, while enhancing health services for pregnant and postpartum women.
+PROTECT INDIVIDUAL FREEDOMS & CONSTITUTIONAL RIGHTS : Protect our right to bear arms and combat unconstitutional government overreach in our personal lives and businesses.
+ANIMAL WELFARE CHAMPION : Meg is a true animal advocate.
+Her belief in the healing power of animals has made her an active voice for many causes that help protect them from harm IMPROVE EDUCATIONAL OUTCOMES : Empower parents to exercise their right to guide their children’s education based on their personal values and beliefs.
 Support school choice, promote competition amongst schools, increase technical and vocational training, invest in recruiting and retaining outstanding teachers.
-- PROMOTE AMERICAN VALUES: Supporting American values rooted in faith, family, and service, while honoring the dignity of hard work.
-- ENFORCE THE RULE OF LAW: Ban sanctuary cities and oppose policies that undermine the rule of law.
-- ENSURE ELECTIONS ARE FAIR & HONEST: Fight to ensure that only legal votes are counted, and ineligible voters and non-citizens are purged from our voter rolls.
-- PROTECT OUR ENVIRONMENT & DRINKING WATER SUPPLY: Invest in infrastructure to protect our waterways, springs, rivers and estuaries and improve wastewater treatment facilities to preserve our natural environment and way of life.
-- PROTECT OUR CHILDREN & VULNERABLE POPULATION: Prohibit children from having sex changes, promote adoption and improve the foster care system, prosecute criminals who target our elders, and invest in services to empower individuals with disabilities to thrive and lead fulfilling lives.
-- HOLD GOVERNMENT ACCOUNTABLE: Promote transparency, eliminate fraud, waste, and abuse to ensure the government treats taxpayers with respect.
-- ENFORCE IMMIGRATION LAWS: Secure the border, prosecute coyotes and traffickers, deport the illegal immigrants who commit crimes in our community, while reducing obstacles for legal entry.
+PROMOTE AMERICAN VALUES : Supporting American values rooted in faith, family, and service, while honoring the dignity of hard work.
+ENFORCE THE RULE OF LAW : Ban sanctuary cities and oppose policies that undermine the rule of law.
+ENSURE ELECTIONS ARE FAIR & HONEST : Fight to ensure that only legal votes are counted, and ineligible voters and non-citizens are purged from our voter rolls.
+PROTECT OUR ENVIRONMENT & DRINKING WATER SUPPLY : Invest in infrastructure to protect our waterways, springs, rivers and estuaries and improve wastewater treatment facilities to preserve our natural environment and way of life.
+PROTECT OUR CHILDREN & VULNERABLE POPULATION : Prohibit children from having sex changes, promote adoption and improve the foster care system, prosecute criminals who target our elders, and invest in services to empower individuals with disabilities to thrive and lead fulfilling lives.
+HOLD GOVERNMENT ACCOUNTABLE : Promote transparency, eliminate fraud, waste, and abuse to ensure the government treats taxpayers with respect.
+ENFORCE IMMIGRATION LAWS : Secure the border, prosecute coyotes and traffickers, deport the illegal immigrants who commit crimes in our community, while reducing obstacles for legal entry.
+Contribute Today Join Meg's Team!
+Copyright ©# Meg Weinberger | Paid by Meg Weinberger, Republican, for State House, District 94. | Contributions are not tax deductible for federal income tax purposes.
+The Maximum contribution allowed by Florida Law is $1,000.00 per individual or business.
+Privacy Policy | Messaging Terms, Conditions & Policies Terms | Site by KO.

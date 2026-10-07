@@ -1,2 +1,3 @@
-James Marter’s knowledge and experience is on display as he visits with Brannon Howse about Illinois’ business environment, crime, taxes, mandates and more, along with national issues including human trafficking, Afghan Refugees and the Democrats’ war on Life, Liberty and the Pursuit of Happiness.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 15 Mar James Marter’s knowledge and experience is on display as he visits with Brannon Howse about Illinois’ business environment, crime, taxes, mandates and more, along with national issues including human trafficking, Afghan Refugees and the Democrats’ war on Life, Liberty and the Pursuit of Happiness.
 He talks about the House Freedom Caucus, America First, the Second Amendment and why we need to replace Lauren Underwood with Jim Marter in Illinois’ 14th Congressional District.
+Share:

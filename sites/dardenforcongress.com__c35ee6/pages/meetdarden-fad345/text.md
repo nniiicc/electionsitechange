@@ -1,6 +1,4 @@
-Meet Darden
-“I’m sick and tired of politicians who are more interested in fighting each other than fighting for their districts.”
-Darden Copeland moved to Nashville in 2008 and considers himself a “local” but not a “native.” He met his wife, Natalie, through divine intervention (ask him how), and two kids later, middle Tennessee has become his forever home.
+0 Skip to Content Home Meet Darden Town Halls The Issues News Get Involved Media Kit English DONATE Open Menu Close Menu Home Meet Darden Town Halls The Issues News Get Involved Media Kit English DONATE Open Menu Close Menu Home Meet Darden Town Halls The Issues News Get Involved Media Kit English Back DONATE Meet Darden “I’m sick and tired of politicians who are more interested in fighting each other than fighting for their districts.” Darden Copeland moved to Nashville in 2008 and considers himself a “local” but not a “native.” He met his wife, Natalie, through divine intervention (ask him how), and two kids later, middle Tennessee has become his forever home.
 Darden is the Founder and CEO of the Calvert Street Group, a national public affairs firm headquartered in Nashville, Tennessee.
 Since founding Calvert Street, Darden has led strategic efforts on behalf of businesses, non-profits, governments, trade associations, and advocacy coalitions in highly regulated and political environments across North America.
 His firm focuses on land use, energy infrastructure, and issue advocacy, with particular expertise in managing complex, high-stakes campaigns at the intersection of business, politics, and public opinion.
@@ -15,3 +13,4 @@ He also sits on the board of the Nashville Wine Auction, which raises money for 
 In his spare time, Darden loves to spend time with his wife, Natalie, their two kids, and rescue dog, Kathy.
 They are active members of Woodmont Christian Church in Nashville, where Darden serves as an Elder, and both served as Youth Group Leaders for nearly a decade.
 Darden enjoys live music, stand-up comedy, and coaching his kids sports teams.
+Donate ★ Donate ★ Donate ★ DONATE NOW Paid for by Darden Copeland for Congress Privacy Policy & Terms of Conditions

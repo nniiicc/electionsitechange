@@ -1,15 +1,62 @@
 [
-"https://cjforsenate.com/",
-"https://cjforsenate.com/about",
-"https://cjforsenate.com/endorsements",
-"https://cjforsenate.com/es/volunteer",
-"https://cjforsenate.com/events",
-"https://cjforsenate.com/platform",
-"https://cjforsenate.com/privacy-policy",
-"https://cjforsenate.com/volunteer",
-"https://facebook.com/profile.php?id=61585113681133",
-"https://instagram.com/cjforutsenate?igsh=MTM3Mzh5d2R6aDZw",
-"https://linkedin.com/in/christina-cj-hernandez",
-"https://secure.actblue.com/donate/cj-hernandez-1",
-"https://tiktok.com/@cjin.ut"
+{
+"text": "About",
+"href": "https://www.cjforsenate.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cj-hernandez-1"
+},
+{
+"text": "EN/ES",
+"href": "https://www.cjforsenate.com/es/volunteer"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cjforsenate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.cjforsenate.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.cjforsenate.com/"
+},
+{
+"text": "Platform",
+"href": "https://www.cjforsenate.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cjforsenate.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cjforsenate.com/volunteer"
+},
+{
+"text": "[image: CJ for Utah Senate]",
+"href": "https://www.cjforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585113681133"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cjforutsenate?igsh=MTM3Mzh5d2R6aDZw"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/christina-cj-hernandez/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@cjin.ut"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@cjforsenate.com"
+}
 ]

@@ -1,10 +1,7 @@
-Sharpstown · Gulfton · Westchase
-Adopt your neighborhood
-We're knocking every door in our neighborhoods — by hand, neighbor to neighbor.
+Skip to content District 137 · Texas House Gene Wu Democrat for Texas House Meet Gene Issues Events Get Involved Donate Sharpstown · Gulfton · Westchase Adopt your neighborhood We're knocking every door in our neighborhoods — by hand, neighbor to neighbor.
 Find yours on the map, join the next walk, or put your name on it and make it yours.
 Watch it light up as it's reached.
-Walk on the calendar Needs a walk — adopt it or host one
-Your neighborhood
-Sharpstown
-Neff · Pickard Park · PlazAmericas
-No walk is scheduled in Sharpstown yet — be the one who makes it happen.
+Briar Forest Westheimer Richmond Westpark Tollway Bellaire Beechnut Bissonnet S Braeswood S Kirkwood Wilcrest Beltway 8 Gessner Fondren Hillcroft Chimney Rock 610 US-59 Westchase Jeanetta Tanglewilde Briarmeadow Shenandoah Gulfton Asiatown Sharpstown Braeburn & Meyerland Walk on the calendar Needs a walk — adopt it or host one Your neighborhood Sharpstown Neff · Pickard Park · PlazAmericas No walk is scheduled in Sharpstown yet — be the one who makes it happen. 📅 Host a walk here 🏠 Adopt this neighborhood Westchase No walk yet — host one or adopt it Jeanetta No walk yet — host one or adopt it Tanglewilde No walk yet — host one or adopt it Briarmeadow No walk yet — host one or adopt it Shenandoah No walk yet — host one or adopt it Gulfton No walk yet — host one or adopt it Asiatown No walk yet — host one or adopt it Sharpstown No walk yet — host one or adopt it Braeburn & Meyerland No walk yet — host one or adopt it Chip in Gene Wu Democrat for Texas House Re-elect Gene Wu — Texas House.
+Explore Meet Gene Issues Events Get Involved Invest in the Campaign → Contact Gene Wu for State Representative PO Box 742442 Houston , TX 77274 gene@genefortexas.com Press & media kit Political advertising paid for by the Gene for Texas Campaign.
+Privacy © 2026 Gene for Texas Campaign .
+All rights reserved.

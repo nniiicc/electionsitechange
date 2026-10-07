@@ -1,28 +1,142 @@
 [
-"https://ballard-campaign-apparel.itemorder.com/shop/home",
-"https://facebook.com/gregforindiana",
-"https://gregballard.com/",
-"https://gregballard.com/greg-ballards-plan-to-safeguard-indiana-elections",
-"https://gregballard.com/guide",
-"https://gregballard.com/indiana-election-integrity-act",
-"https://gregballard.com/indy-politics-ballard-indiana-should-guard-its-voter-data-mail-every-hoosier-a-guide",
-"https://gregballard.com/indy-star-ballard-beat-the-odds-once-why-he-thinks-he-can-do-it-again-in-secretary-of-state-race",
-"https://gregballard.com/meet-greg-ballard",
-"https://gregballard.com/my-plan",
-"https://gregballard.com/nbc-news-former-gop-mayor-vies-to-create-a-new-party-in-indiana-with-a-run-for-a-key-statewide-post",
-"https://gregballard.com/news-and-tribune-independent-secretary-of-state-candidate-greg-ballard-visits-jeffersonville",
-"https://gregballard.com/news-and-updates",
-"https://gregballard.com/news-and-updates/page/2",
-"https://gregballard.com/rballard-proposes-nonpartisan-recount-commission-of-retired-judges",
-"https://gregballard.com/release-ballard-calls-for-new-law-to-make-secretary-of-state-nonpartisan",
-"https://gregballard.com/release-ballard-debuts-first-of-its-kind-voters-guide-custom-built-for-every-hoosier",
-"https://gregballard.com/signs",
-"https://gregballard.com/subscribe",
-"https://gregballard.com/volunteer",
-"https://gregballard.com/wibc-ballard-says-indianas-sos-race-is-bigger-than-party-lines",
-"https://gregballard.com/wndu-independent-indiana-secretary-of-state-candidate-greg-ballard-wants-to-open-up-states-election-system",
-"https://instagram.com/gregforindiana",
-"https://secure.anedot.com/gregballard/donate",
-"https://x.com/gregforindiana",
-"https://youtube.com/@gregforindiana"
+{
+"text": "ABOUT",
+"href": "https://gregballard.com/meet-greg-ballard/"
+},
+{
+"text": "Buy a Shirt",
+"href": "https://ballard-campaign-apparel.itemorder.com/shop/home/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/gregballard/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/gregballard/donate"
+},
+{
+"text": "Follow",
+"href": "https://facebook.com/gregforindiana"
+},
+{
+"text": "Follow",
+"href": "https://instagram.com/gregforindiana"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@gregforindiana"
+},
+{
+"text": "Follow",
+"href": "https://x.com/gregforindiana"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://gregballard.com/signs/"
+},
+{
+"text": "Greg Ballard’s Plan to Safeguard Indiana Elections",
+"href": "https://gregballard.com/greg-ballards-plan-to-safeguard-indiana-elections/"
+},
+{
+"text": "Greg’s Plan",
+"href": "https://gregballard.com/my-plan/"
+},
+{
+"text": "Hands-on Clerk Training",
+"href": "https://gregballard.com/greg-ballards-plan-to-safeguard-indiana-elections/"
+},
+{
+"text": "INDY POLITICS: Ballard: Indiana Should Guard Its Voter Data, Mail Every Hoosier a Guide",
+"href": "https://gregballard.com/indy-politics-ballard-indiana-should-guard-its-voter-data-mail-every-hoosier-a-guide/"
+},
+{
+"text": "INDY STAR: Ballard beat the odds once. Why he thinks he can do it again in secretary of state race",
+"href": "https://gregballard.com/indy-star-ballard-beat-the-odds-once-why-he-thinks-he-can-do-it-again-in-secretary-of-state-race/"
+},
+{
+"text": "Indiana Election Integrity Act",
+"href": "https://gregballard.com/indiana-election-integrity-act/"
+},
+{
+"text": "Meet Greg",
+"href": "https://gregballard.com/meet-greg-ballard/"
+},
+{
+"text": "Meet Greg Ballard",
+"href": "https://gregballard.com/meet-greg-ballard/"
+},
+{
+"text": "Meet Greg Ballard Podcast",
+"href": "https://gregballard.com/meet-greg-ballard/#podcasts"
+},
+{
+"text": "NBC News: Former GOP mayor vies to create a new party in Indiana with a run for a key statewide post",
+"href": "https://gregballard.com/nbc-news-former-gop-mayor-vies-to-create-a-new-party-in-indiana-with-a-run-for-a-key-statewide-post/"
+},
+{
+"text": "NEWS AND TRIBUNE: Independent secretary of state candidate Greg Ballard visits Jeffersonville",
+"href": "https://gregballard.com/news-and-tribune-independent-secretary-of-state-candidate-greg-ballard-visits-jeffersonville/"
+},
+{
+"text": "News & Updates",
+"href": "https://gregballard.com/news-and-updates/"
+},
+{
+"text": "News and Updates",
+"href": "https://gregballard.com/news-and-updates/"
+},
+{
+"text": "Nonpartisan Recount Commission",
+"href": "https://gregballard.com/rballard-proposes-nonpartisan-recount-commission-of-retired-judges/"
+},
+{
+"text": "RELEASE: Ballard Calls for New Law to Make Secretary of State Nonpartisan",
+"href": "https://gregballard.com/release-ballard-calls-for-new-law-to-make-secretary-of-state-nonpartisan/"
+},
+{
+"text": "RELEASE: Ballard Debuts First-of-its-Kind Voters’ Guide, Custom-Built for Every Hoosier",
+"href": "https://gregballard.com/release-ballard-debuts-first-of-its-kind-voters-guide-custom-built-for-every-hoosier/"
+},
+{
+"text": "RELEASE: Ballard Proposes Nonpartisan Recount Commission of Retired Judges",
+"href": "https://gregballard.com/rballard-proposes-nonpartisan-recount-commission-of-retired-judges/"
+},
+{
+"text": "Subscribe",
+"href": "https://gregballard.com/subscribe/"
+},
+{
+"text": "Volunteer",
+"href": "https://gregballard.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://gregballard.com/volunteer/"
+},
+{
+"text": "Voters Guide",
+"href": "https://gregballard.com/guide/"
+},
+{
+"text": "Voter’s Guide",
+"href": "https://gregballard.com/guide/"
+},
+{
+"text": "WIBC: Ballard Says Indiana’s SOS Race Is Bigger Than Party Lines",
+"href": "https://gregballard.com/wibc-ballard-says-indianas-sos-race-is-bigger-than-party-lines/"
+},
+{
+"text": "WNDU: Independent Indiana Secretary of State candidate Greg Ballard wants to open up state’s election system",
+"href": "https://gregballard.com/wndu-independent-indiana-secretary-of-state-candidate-greg-ballard-wants-to-open-up-states-election-system/"
+},
+{
+"text": "[image: Greg Ballard for Secretary of State Horizontal Logo]",
+"href": "https://gregballard.com/"
+},
+{
+"text": "« Older Entries",
+"href": "https://gregballard.com/news-and-updates/page/2/?et_blog="
+}
 ]

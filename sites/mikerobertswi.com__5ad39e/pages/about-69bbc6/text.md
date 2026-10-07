@@ -1,4 +1,4 @@
-Mike Roberts is a eighth-generation Wisconsinite, a healthcare professional, and a small-business owner who believes our state works best when leaders listen first and bring people together.
+Meet Mike ‍ Get Involved Mike's Priorities Senate District 5 Donate Meet Mike Roberts Mike Roberts is a eighth-generation Wisconsinite, a healthcare professional, and a small-business owner who believes our state works best when leaders listen first and bring people together.
 Mike and his wife, Lauren — a former school teacher — both grew up in Pewaukee and chose to stay in the community they love, where they now raise their three children.
 Family, hard work, and service have always been central to their lives.
 After graduating with honors from Carroll University with a Bachelor’s degree in Exercise Science and a Doctorate of Physical Therapy, Mike began his career treating patients in a high-volume practice.
@@ -14,3 +14,6 @@ That same mindset has guided Mike beyond the clinic.
 He has worked with members of Congress and their staffs in Washington, D.C. — Republicans and Democrats alike — advocating for better access, affordability, and quality in healthcare.
 He has helped physical therapy businesses across the country grow sustainably and ethically, and he has taught future professionals as associated faculty at Carroll University for seven years.
 Mike has also served his community as a homeowners association president, a member of the Carroll University Alumni Council, and on national committees focused on small-business healthcare policy.
+Make Check Payable to: Mike Roberts for State Senate 140 Simmons Ave.
+P.O.
+Box #156 Pewaukee, WI 53072 Paid for by Mike Roberts for State Senate Privacy Policy

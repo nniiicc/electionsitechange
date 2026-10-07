@@ -1,5 +1,4 @@
-2024 - Medicaid/Nursing Home Crisis
-Perhaps you have heard that the “fiscally responsible” Republicans controlling the Family and Social Services Administration (FSSA), the agency which administers Indiana’s Medicaid discovered a BILLION DOLLAR BUDGET SHORTFALL in December of 2023.
+0 Skip to Content Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate 2024 - Medicaid/Nursing Home Crisis Jul 25 Written By John Bartlett for IN State Rep Dist 33 Perhaps you have heard that the “fiscally responsible” Republicans controlling the Family and Social Services Administration (FSSA), the agency which administers Indiana’s Medicaid discovered a BILLION DOLLAR BUDGET SHORTFALL in December of 2023.
 About a quarter of that billion dollars ($270 million) came from the Republican SUPERMAJORITY taking money out of the Medicaid reserve which the Federal Government sends to the State to administer.
 The rest came from cost increases to nursing home care.
 Nursing homes have largely been purchased by the same corporations which have bought up our hospitals and clinics.
@@ -19,4 +18,4 @@ Again, why are we not going after the problem instead of implementing a temporar
 Please stand with me against this terrible proposal!!!
 Here is a video of my opponent St Rep.
 JD Prescott and St Sen.
-Travis Holdman (covering Blackford and Jay Counties in the district) talking about what their plans for 2025:
+Travis Holdman (covering Blackford and Jay Counties in the district) talking about what their plans for 2025: https://youtu.be/n1I0aXJ1Vfw John Bartlett for IN State Rep Dist 33 Previous Previous 2024 - Proposed Amendment to Eliminate Bail Next Next 2024 - Rural Health Care Bartlett for Indiana Member of the Indiana Rural Summit Paid for by Bartlett for Indiana, Jennifer Hollems, Treasurer

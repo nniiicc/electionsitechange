@@ -1,31 +1,7 @@
-ENDORSED BY:
-Governor Greg Abbott
-Senator Charles Perry
-Former Representative John Frullo
-Representative Dustin Burrows
-Pro-life Leaders Project Destiny
-Texas Municipal Police Association
-Lubbock Professional Police Association
-4 West Texas PAC
-Texas Farm Bureau AGFUND
-Texans for Lawsuit Reform PAC
-Texas Oil & Gas Association
-Young Conservatives of Texas
-Texas Association of Realtors
-Lubbock Association of Realtors
-Texas Home School Coalition
-Charter Schools Now
-Texas Medical Association (TXPAC)
-Citizens for Education Reform
-Independent Insurance Agents of Texas
-Independent Bankers Association of Texas
-Lubbock Chamber of Commerce - Champions for Business PAC
-Former Texas Supreme Court Justice Phil Johnson
-Shallowater Alderman & Mayor Pro Tem Chris Cody
-Shallowater Alderman Kyle Yeager
-Former State Rep District 84 Carl Isett
-Former Mayor Glen Robertson
-Veterans Leader Benny Guerrero
-Conservative Activist Mikel Ward
-Bienvenidos (Hispanic Republican Coalition)
-The Lubbock Pioneer
+0 Skip to Content About Issues Endorsements Volunteer Stay Connected Contact CONTRIBUTE Open Menu Close Menu About Issues Endorsements Volunteer Stay Connected Contact CONTRIBUTE Open Menu Close Menu About Issues Endorsements Volunteer Stay Connected Contact CONTRIBUTE ENDORSED BY: Governor Greg Abbott Senator Charles Perry Former Representative John Frullo Representative Dustin Burrows Pro-life Leaders Project Destiny Texas Municipal Police Association Lubbock Professional Police Association 4 West Texas PAC Texas Farm Bureau AGFUND Texans for Lawsuit Reform PAC Texas Oil & Gas Association Young Conservatives of Texas Texas Association of Realtors Lubbock Association of Realtors Texas Home School Coalition Charter Schools Now Texas Medical Association (TXPAC) Citizens for Education Reform Independent Insurance Agents of Texas Independent Bankers Association of Texas Lubbock Chamber of Commerce - Champions for Business PAC Former Texas Supreme Court Justice Phil Johnson Shallowater Alderman & Mayor Pro Tem Chris Cody Shallowater Alderman Kyle Yeager Former State Rep District 84 Carl Isett Former Mayor Glen Robertson Veterans Leader Benny Guerrero Conservative Activist Mikel Ward Bienvenidos (Hispanic Republican Coalition) The Lubbock Pioneer Pol.
+Adv.
+Paid for by Carl Tepper for State Representative Carl Tepper is a veteran of the U.S.
+Air Force.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Air Force or the Department of Defense.
+Privacy Policy | Terms and Conditions | Opt-In For Text Messaging Contact EmaiI PO Box 94534 Lubbock, TX 79493 Connect Facebook Twitter Donate

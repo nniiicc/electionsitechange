@@ -1,5 +1,4 @@
-About John
-John Tansey is a seventh‑generation Vermonter with deep local roots.
+0 Skip to Content John Tansey for Vermont Home Bio FAQs Donate Contact Me Open Menu Close Menu Open Menu Close Menu John Tansey for Vermont Home Bio FAQs Donate Contact Me Home Bio FAQs Donate Contact Me About John John Tansey is a seventh‑generation Vermonter with deep local roots.
 Born and raised in Windsor, Vermont, he has always called Windsor home, even during years spent overseas.
 His lifelong connection to the community shapes his love for Vermont and commitment to public service.
 John and his wife, Nida, have been married for 39 years and have three children and six grandchildren.
@@ -20,3 +19,4 @@ In his free time, John enjoys family activities, fishing, walking, reading, trav
 A lifelong Boston sports fan, he played football at Cornell and later coached football in Windsor.
 John is known for his honesty, hard work, and fiscal and social responsibility.
 He brings proven leadership, careful financial management, and a respect for listening to others, and is ready to serve Vermont with integrity, energy, and common sense.
+Paid for by Tansey for VT Patrick O’Neill, Treasurer PO Box 93, Windsor, VT 05089 john@tanseyforvt.com

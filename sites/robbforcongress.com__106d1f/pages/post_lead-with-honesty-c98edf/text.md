@@ -1,7 +1,4 @@
-Lead with Honesty
-Updated: Mar 22
-Telling the Truth Shouldn’t Be Brave
-I remember the first time I stood behind a pulpit as a pastor.
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE Lead with Honesty Jun 2, 2025 2 min read Updated: Mar 22 Telling the Truth Shouldn’t Be Brave I remember the first time I stood behind a pulpit as a pastor.
 I was nervous.
 Not because I didn’t know what to say, but because I knew I had to say something true.
 That’s what preaching is.
@@ -10,9 +7,9 @@ Telling the truth, even when it’s hard.
 That same idea should guide our politics.
 But too often, it doesn’t.
 Too many politicians are more focused on keeping power than serving people.
-- They say what polls tell them to say.
-- They protect party power instead of people.
-- And sometimes, they use their position to benefit themselves.
+They say what polls tell them to say.
+They protect party power instead of people.
+And sometimes, they use their position to benefit themselves.
 That’s not leadership.
 That’s self-preservation.
 I’m running for Congress because honesty still matters.
@@ -30,11 +27,7 @@ That’s manipulation.
 And here in Arkansas, people feel it.
 They may not follow every vote in Washington, but they know when something feels off.
 They know when the system isn’t working for them.
-Here’s what honesty in leadership requires:
-- No stock trading for members of Congress who have inside information
-- Clear rules and real consequences for corruption and self-dealing
-- Leaders who tell the truth, even when it’s inconvenient
-These aren’t abstract ideas.
+Here’s what honesty in leadership requires: No stock trading for members of Congress who have inside information Clear rules and real consequences for corruption and self-dealing Leaders who tell the truth, even when it’s inconvenient These aren’t abstract ideas.
 They’re about trust.
 Because when leaders use their position for themselves, people lose faith in the system.
 And when people stop trusting their leaders, everything else starts to break.
@@ -58,4 +51,4 @@ I believe humility is strength.
 And I believe leadership starts with listening.
 Telling the truth shouldn’t have to be brave.
 But right now, it is.
-And that tells you something about what’s broken.
+And that tells you something about what’s broken. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

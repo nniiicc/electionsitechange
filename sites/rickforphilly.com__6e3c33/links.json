@@ -1,10 +1,54 @@
 [
-"http://instagram.com/rickforwestphilly",
-"https://facebook.com/RickforPhilly",
-"https://rickforphilly.com/",
-"https://rickforphilly.com/cart",
-"https://rickforphilly.com/issues",
-"https://rickforphilly.com/volunteer",
-"https://secure.actblue.com/donate/krajewski2026",
-"https://x.com/RickforPhilly"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/krajewski2026"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/krajewski2026"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/krajewski2026"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/krajewski2026"
+},
+{
+"text": "0",
+"href": "https://www.rickforphilly.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/krajewski2026"
+},
+{
+"text": "Issues",
+"href": "https://www.rickforphilly.com/issues"
+},
+{
+"text": "JOIN US",
+"href": "https://www.rickforphilly.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.rickforphilly.com/volunteer"
+},
+{
+"text": "[image: Rick For Philly]",
+"href": "https://www.rickforphilly.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/rickforwestphilly"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RickforPhilly/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/RickforPhilly"
+}
 ]

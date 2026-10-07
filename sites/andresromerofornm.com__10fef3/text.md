@@ -1,1 +1,2 @@
-As a state legislator, I have been a strong and trusted advocate for the important issues concerning residents of District 10 and the state of New Mexico Learn more
+0 Skip to Content Home Bio Vision Accomplishments Open Menu Close Menu Home Bio Vision Accomplishments Open Menu Close Menu Home Bio Vision Accomplishments As a state legislator, I have been a strong and trusted advocate for the important issues concerning residents of District 10 and the state of New Mexico Learn more G.
+Andres Romero Democrat NM House of Representative District 10 GAndresRomero87@gmail.com (5 05) 514-9574

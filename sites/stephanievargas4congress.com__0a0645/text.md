@@ -1,16 +1,61 @@
-Stephanie M.
-Vargas
-for Congress
-June 2, 2026
-About Stephanie
-Stephanie Vargas is a wife, mother of three boys, and a lifelong member of our community who is stepping forward because she refuses to let the next generation inherit a California in decline.
-She is running for Congress to fight for common‑sense solutions that restore stability, protect families, and ensure our children grow up with real opportunity—not rising costs and shrinking hope.
-As the Chief Deputy City Clerk and elections official for a city within the district, as well as being a life-long resident of District 33, Stephanie has seen firsthand how political decisions made in Washington are hurting everyday families, businesses, and cities.
-She is tired of watching career politicians drive up energy prices, taxes, and the cost of living while ignoring public safety, weakening parent rights, and failing to protect our children.
-Stephanie believes our district deserves leaders who will stand up, speak truth, and put families first.
+top of page Stephanie M.
+Vargas for Congress June 2, 2026 Home Endorsements Platform Meet Stephanie Donate Get Involved Simple Politics Election Integrity Parental Rights High Gas Prices Ephesians 6:10-20 News Blog More Use tab to navigate through the menu items.
+DONATE Click Here to Register to Vote Click Here to Report Voter Fraud About Stephanie Stephanie Vargas is a wife , mother of three boys, and a lifelong member of our community who is stepping forward because she refuses to let the next generation inherit a California in decline.
+She is running for Congress to fight for common‑sense solutions that restore stability , protect families , and ensure our children grow up with real opportunity —not rising costs and shrinking hope.​ ​ As the Chief Deputy City Clerk and elections official for a city within the district, as well as being a life-long resident of District 33 , Stephanie has seen firsthand how political decisions made in Washington are hurting everyday families, businesses, and cities.
+She is tired of watching career politicians drive up energy prices, taxes , and the cost of living while ignoring public safety , weakening parent rights, and failing to protect our children . ​ Stephanie believes our district deserves leaders who will stand up , speak truth, and put families first .
 Her mission is simple: safeguard the future so our children and future generations inherit something of value—safe neighborhoods, affordable living, and a government that finally works for the people.
-What is Stephanie Fighting For?
-Endorsements
-Campaign Buzz
-"I am fighting with everything I have because America is worth fighting for, freedom is worth defending, and our children’s future is too important to surrender.
-District 33 deserves a leader who will never stop fighting."- Stephanie Vargas
+Read More What is Stephanie Fighting For?
+Public Safety Supporting Law Enforcement & Fire Service personnel in their mission to protect life and property.
+Let's Prioritize people over politics and work to address the root causes that are endangering our communities.
+Protecting Children & Family Values Protecting our most vulnerable.
+Let's fight for common sense legislation that will allow children to grow up happy, healthy, and whole.
+Improving the Economy Fighting to lower taxes, the high cost of living, the rising energy costs, and to fix the housing crisis.
+Let's demand a better economy today.
+Election Integrity Committed to fighting for Election Integrity.
+Let’s demand that our elections be conducted in a way that restores trust and reflects the true voice of the people.
+Our Clients Say Master Municipal Clerk Training at Cal State San Marcos Last month I had the opportunity to attend the Master Municipal Clerk Training at Cal State University San Marcos, an advanced program designed to strengthen the skills and leadership of City Clerks across California.
+As the Chief Deputy City Clerk for the City of Colton, continuing my education is not just a professional responsibility — it is a commitment to the people I serve.
+Stephanie M.
+Vargas Celebrating America's 250th Birthday: A Moment of Gratitude and Resolve This Fourth of July carries extraordinary meaning as our nation celebrates 250 years of freedom.
+Across America — and certainly throughout District 33 — families are gathering with joy, pride, and excitement.
+From backyard barbecues to fireworks lighting up the night sky, we are united by our love for this country and our gratitude for the privilege of living in the greatest nation on earth.
+Stephanie M.
+Vargas Stephanie Vargas Joins AM590’s “The Morning Answer” with Jennifer Horn Stephanie Vargas joined Jennifer Horn on AM 590 The Morning Answer to share how growing up in the district shaped her decision to run for Congress.
+She spoke about rising costs, public safety, homelessness, and the need for real long‑term solutions.
+Rooted in faith, transparency, and love for her community, Stephanie is stepping forward to fight for families and the future of CA‑33.
+Friends of Stephanie Vargas Endorsements Stephanie Vargas Endorsed by Reform California!
+Stephanie Vargas Endorsed by the San Bernardino County Republican Party!
+Stephanie Vargas Endorsed by the Redlands Tea Party Patriots!
+Stephanie Vargas Endorsed by Jennifer Horn's Conservative Voter Guide!
+Stephanie Vargas Endorsed by Craig Huey's California's Voter Guide!
+Stephanie Vargas Endorsed by California College Republicans Voter Guide!
+See More Campaign Buzz "I am fighting with everything I have because America is worth fighting for, freedom is worth defending, and our children’s future is too important to surrender.
+District 33 deserves a leader who will never stop fighting."- Stephanie Vargas ​ May 10, 2026 Rialto Calvary Chapel Invited Stephanie M.
+Vargas to Address Congregation on Special Mother's Day Service. ​ ​ ​ Rialto, CA ​ Stephanie Vargas was introduced by head Pastor, Terry Hlebo and had the privilege of speaking to the congregation about the importance of praying for our nation and for our elections.
+Stephanie encouraged the church that "California is not too far gone" and that "nothing is too hard for God." Stephanie also shared her testimony on how the Lord called her to run for Congress and how God has been faithful.
+Stephanie encouraged the church to engage in praying for California and for the election, and said that "if the Church would show up on election day, California would change overnight." Pastor Hlebo and the church prayed for Stephanie Vargas and her family. ​ ​ ​ ​ ​ ​ ​ ​ ​ Click Here to Read More May 10, 2026 A "Happy Mother's Day" Message, from a Mom who is Running for Congress. ​ ​ San Bernardino, CA ​ Stephanie Vargas' Mother's day Message: ​ "I will fight to protect the safety and well-being of our kids first and will fight to protect parental rights." ​ "We deserve better!" ​ "Together we can take out the trash..." ​ Stephanie Vargas encourages moms to vote for her in the upcoming June 2nd election! ​ "Remember to Vote for Stephanie Vargas for Congress!" ​ May 9, 2026 San Bernardino Republican Woman's Club Meeting Guest Speaker: Stephanie M.
+Vargas San Bernardino, CA Congressional Candidate Stephanie M.
+Vargas was invited to be a special guest speaker at the San Bernardino Republican Woman's Club Luncheon. ​ ​ The event was well attended, and Stephanie used her opportunity to speak about how she changed from being an apathetic voter, to becoming actively engaged and determined to fight for America.
+Stephanie talked about the importance of preserving Parental Rights and fighting for School Choice.
+Stephanie also talked about the Economy, Public Safety, and Election Integrity. ​ ​ ​ ​ ​ ​ ​ ​ Click Here to Read More May 7, 2026 Stephanie Vargas Swears in the City of Colton's New Fire Chief Colton, CA Congressional Candidate, Stephanie Vargas, who is also the Chief Deputy City Clerk for the City of Colton, was given the honor of swearing in the City's newest Fire Chief, Justin Weems.
+Chief Weems took the Oath of Office while placing his hand on the Holy Bible. ​ ​ ​ The Badge Pinning ceremony took place in the City of Colton's City Council Chambers and was well attended by family and friends of those being recognized.​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ May 7, 2026 National Day of Prayer City of Colton Special Worship: Stephanie Vargas Colton, CA Stephanie Vargas was invited to attend and participate in the City of Colton's National Day of Prayer event, which took place in front of City Hall at noon.
+City Officials, Faith leaders, and members of the Public gathered to acknowledge the importance of prayer and to lift up their city and nation up to God for guidance, protection, and healing.
+Stephanie Vargas closed the event by playing her guitar and singing the well known Worship song, "What a Beautiful Name" by Hillsong. ​ Click Here to Listen to Stephanie Sing ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ May 07, 2026 National Day of Prayer City of Rancho Cucamonga Rancho Cucamonga, CA ​ Stephanie Vargas was invited to speak and pray at the City of Rancho Cucamonga's National Day of Prayer event that was hosted in front of the Police Department's headquarters at 5pm. ​ Stephanie shared that the theme of the National Day of Prayer event was "Glorify God among the Nations" and she read 1 Chronicals 16:24 "Tell of His glory among the Nations, His wonderful deeds among all the peoples." ​ Stephanie then prayed for the Nation and for California specifically, asking God to raise up Godly leaders and to remove the corrupt.
+Stephanie also prayed that the Lord would move in the Church and that God would do a great work and bring revival. ​ ​ ​ ​ ​ ​ ​ Click Here to Read More April 16, 2026 Homeless Man Attacks Congressional Candidate with a Rock in Colton; Suspect still at Large Colton, CA — April 16, 2026 Congressional Candidate, Stephanie Vargas, was seated in her vehicle while waiting in the Del Taco drive through line on Tuesday afternoon when a man, who appeared to be homeless, exited the restaurant and proceeded to throw a sharp rock at Vargas, hitting her car door.
+The impact left visible damage.
+According to Vargas, the man laughed before fleeing eastbound on Valley Blvd.
+Police were called immediately, but the suspect was not located.
+Click Here to Read More April 10, 2026 AM590 The Morning Answer Special Guest: Stephanie Vargas Inland Empire, CA ​ Stephanie Vargas appeared as a guest on Jennifer Horn’s AM590 The Morning Answer, where she shared what she is fighting for—Election Integrity, Public Safety, protecting children and families, and strengthening the economy—while also challenging incumbent Pete Aguilar to a debate.
+At the end of the interview, when asked how people could support her campaign, Stephanie first asked for prayer, then invited supporters to contribute, volunteer, and ultimately make their voices heard by voting for her. ​ Click Here to Listen April 2, 2026 Redlands Tea Party Meeting Special Guest : Chad Bianco Redlands, CA — April 2, 2026 Congressional candidate Stephanie Vargas attended the Redlands Tea Party Patriots meeting on Thursday, where Riverside County Sheriff and gubernatorial candidate Chad Bianco served as the evening’s special guest speaker.
+Vargas said she was grateful to the Redlands Tea Party for inviting her on stage to introduce herself and share the focus of her campaign for California’s 33rd Congressional District.
+She briefly outlined what she is fighting for and why she entered the race, emphasizing her commitment to representing local families and addressing the issues most affecting the region. ​ Click Here to Watch Reel April 1, 20236 Career Day - Woodrow Wilson Elementary School Colton, CA Congressional candidate Stephanie Vargas was invited to participate in Woodrow Wilson Elementary School’s third annual Career Day on Wednesday, where she spoke to students about her work as the Chief Deputy City Clerk for the City of Colton.
+Vargas explained the responsibilities she carries as the city’s elections official and highlighted the importance of open government and public transparency.
+Throughout her presentation, Vargas encouraged students to stay engaged in their community by paying attention to local issues, speaking up in civic discussions, communicating with their representatives, and even considering running for office in the future.
+She emphasized that young people play a vital role in shaping the direction of their city.
+Click Here to Read More March 28, 2026 United IE Patriots Summit Ontario, CA Congressional candidate Stephanie Vargas attended the Unite IE Patriots Summit in Ontario on Saturday, a well‑attended gathering that featured major appearances by California gubernatorial candidates Sheriff Chad Bianco and Steve Hilton, along with a full lineup of notable speakers from across the state.
+The event was hosted by Jennifer Horn of AM590 The Morning Answer and drew residents from throughout the Inland Empire. ​ The summit included a series of themed panels, beginning with a discussion on Education and Parental Rights featuring Dr.
+Kevin McNamee, Sonja Shaw, and Jill Simonian.
+National security analyst Ken Timmerman delivered an update on the Iran conflict, while a panel on California fraud brought together Eric Early, David Serpa, Don Wagner, and Jenny Rae Le Roux. ​ To Read More Click Here ​ ​ ​​ March 27, 2026 League of California Cities Housing, Community, and Economic Development Policy Committee Meeting Costa Mesa, CA Congressional candidate Stephanie Vargas participated in the League of California Cities’ Housing, Community, and Economic Development Policy Committee meeting, joining city representatives from across the state to review major legislative proposals affecting local governments.
+Vargas attended as a representative of the City Clerks Department, contributing to discussions on housing policy, land‑use challenges, and economic development issues facing California communities. ​ To Read More Click Here ​ See More Home Endorsements Platform Meet Stephanie Donate Get Involved Simple Politics Election Integrity Parental Rights High Gas Prices Ephesians 6:10-20 News Blog More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Paid for by Friends of Stephanie Vargas Terms & Conditions Privacy Policy Accessibility Statement © # by Stephanie M.
+Vargas, Powered and secured by Wix bottom of page

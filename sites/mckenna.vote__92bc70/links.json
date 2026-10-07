@@ -1,5 +1,34 @@
 [
-"https://mckenna.vote/",
-"https://mckenna.vote/donate",
-"https://x.com/VoteMcKennaAZ"
+{
+"text": "Contact",
+"href": "https://mckenna.vote/#contact"
+},
+{
+"text": "Donate",
+"href": "https://mckenna.vote/donate/"
+},
+{
+"text": "Follow @VoteMcKennaAZ on X",
+"href": "https://www.x.com/VoteMcKennaAZ"
+},
+{
+"text": "Get Involved",
+"href": "https://mckenna.vote/#get-involved"
+},
+{
+"text": "Meet Jonathan",
+"href": "https://mckenna.vote/"
+},
+{
+"text": "Priorities",
+"href": "https://mckenna.vote/#priorities"
+},
+{
+"text": "Why Now",
+"href": "https://mckenna.vote/#why-now"
+},
+{
+"text": "[image: Vote McKenna AZ]",
+"href": "https://mckenna.vote/"
+}
 ]

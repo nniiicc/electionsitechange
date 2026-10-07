@@ -1,4 +1,4 @@
-Every child in North Carolina deserves a fair shot at a quality education, no matter where they live or how much their family earns.
+Home Meet Dan Blue Issues News and Events Volunteer Donate Select Page Leader Blue Stands with Western North Carolina in the Wake of Hurricane Helene Oct 4, 2024 | Updates Every child in North Carolina deserves a fair shot at a quality education, no matter where they live or how much their family earns.
 Unfortunately, the state’s voucher program, which was originally created to give families more choices and help students in struggling schools, is falling far short of some of its key promises.
 Instead of lifting up the students who need the most help, NC’s voucher program is funneling hundreds of millions of taxpayer dollars into private schools in the state’s wealthiest counties—leaving rural and underserved communities behind.
 Nearly half of North Carolina’s voucher schools are concentrated in just 10 counties, with the lion’s share of funds going to Wake and Mecklenburg counties alone.
@@ -13,3 +13,4 @@ It’s time to invest in public schools, ensure every child has the resources th
 In a letter to Senator Blue, MaryBe McMillan, President of the North Carolina State AFL-CIO, expressed the organization’s enthusiasm for his candidacy, pledging to mobilize members in support of his campaign.
 Senator Blue’s campaign will be supported in 2024 by union-printed materials, demonstrating one of his many commitments to union values.
 As Senator Blue seeks another term, the AFL-CIO endorsement reinforces his alignment with the labor community and his ongoing efforts to champion the needs of working families in North Carolina.
+Paid for by Citizens for Dan Blue Post Office Box 287, Raleigh NC 27602 Follow Follow Follow

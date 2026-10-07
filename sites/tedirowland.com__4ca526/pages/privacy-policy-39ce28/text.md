@@ -1,69 +1,18 @@
-Privacy Policy & Terms and Conditions
-This Privacy Policy and Terms and Conditions (“Terms”) govern your use of services
-provided by Tedi Rowland for MO (“Committee,” “we,” “us,” or “our”), including our
-website, mobile messaging program, and donation platforms.
-Paid for by Tedi Rowland for MO, Rory Rowland, Treasurer.
-By providing your name and mobile phone number, you consent to receive recurring
-automated political and fundraising text messages from us at the number provided.
+Skip to content About Issues Join About Issues Join Facebook Instagram Donate Privacy Policy & Terms and Conditions Effective Date: [05/18/2026] This Privacy Policy and Terms and Conditions (“Terms”) govern your use of services provided by Tedi Rowland for MO (“Committee,” “we,” “us,” or “our”), including our website, mobile messaging program, and donation platforms.
+Paid for by Tedi Rowland for MO, Rory Rowland, Treasurer. 𝟭. 𝗖𝗼𝗻𝘀𝗲𝗻𝘁 𝘁𝗼 𝗥𝗲𝗰𝗲𝗶𝘃𝗲 𝗧𝗲𝘅𝘁 𝗠𝗲𝘀𝘀𝗮𝗴𝗲𝘀 By providing your name and mobile phone number, you consent to receive recurring automated political and fundraising text messages from us at the number provided.
 Consent is not a condition of any purchase or donation.
 Message frequency varies.
 Message and data rates may apply.
 Reply STOP to cancel.
 Reply HELP for help.
-Your consent to receive text messages is governed by the Telephone Consumer
-Protection Act (TCPA) and applicable state laws.
-We may collect the following information:
-A.
-Information You Provide
-Name
-Mobile phone number
-Donation amount
-Employer and occupation (as required by federal or state law for certain contributions)
-Payment information (processed securely by third-party payment processors)
-B.
-Automatically Collected Information
-IP address
-Browser/device information
-Cookies and tracking data
-Date/time of opt-in
-Source of opt-in
-We use your information to:
-Send political and fundraising communications
-Process donations
-Comply with federal and state campaign finance laws
-Maintain records of consent
-Improve campaign outreach
-Respond to inquiries
-Federal law requires us to use our best efforts to collect and report the name, mailing
-address, occupation, and employer of individuals whose contributions exceed $200 in
-an election cycle.
-By making a contribution, you confirm that:
-You are a U.S. citizen or lawfully admitted permanent resident.
+Your consent to receive text messages is governed by the Telephone Consumer Protection Act (TCPA) and applicable state laws. 𝟮. 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗪𝗲 𝗖𝗼𝗹𝗹𝗲𝗰𝘁 We may collect the following information: A.
+Information You Provide Name Mobile phone number Donation amount Employer and occupation (as required by federal or state law for certain contributions) Payment information (processed securely by third-party payment processors) B.
+Automatically Collected Information IP address Browser/device information Cookies and tracking data Date/time of opt-in Source of opt-in 𝟯. 𝗛𝗼𝘄 𝗪𝗲 𝗨𝘀𝗲 𝗬𝗼𝘂𝗿 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 We use your information to: Send political and fundraising communications Process donations Comply with federal and state campaign finance laws Maintain records of consent Improve campaign outreach Respond to inquiries 𝟰. 𝗣𝗼𝗹𝗶𝘁𝗶𝗰𝗮𝗹 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗗𝗶𝘀𝗰𝗹𝗼𝘀𝘂𝗿𝗲𝘀 (𝗙𝗲𝗱𝗲𝗿𝗮𝗹 𝗖𝗮𝗺𝗽𝗮𝗶𝗴𝗻𝘀) Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation, and employer of individuals whose contributions exceed $200 in an election cycle.
+By making a contribution, you confirm that: You are a U.S. citizen or lawfully admitted permanent resident.
 This contribution is made from your own funds.
 You are not a federal contractor (if applicable).
-You are at least 18 years old.
-You may opt out at any time by replying:
-STOP
-You will receive a confirmation message, and no further messages will be sent unless
-you re-subscribe.
-Help
-Reply HELP for assistance or contact us at:
-Carriers
-Carriers are not liable for delayed or undelivered messages.
-any third parties.
-your information.
-However, no transmission over the internet is 100% secure.
-As required by federal and state election laws
-To maintain records of consent
-As necessary for operational and legal purposes
-We may use cookies and similar tracking technologies to:
-Improve website functionality
-Analyze traffic
-Support digital advertising
-You can disable cookies through your browser settings.
-Depending on your state of residence (e.g., California, Virginia, Colorado), you may
-have rights to:
-Request access to your data
-Request deletion
-Correct inaccurate data
-To exercise these rights, contact: tedi@tedirowland.com
+You are at least 18 years old. 𝟱. 𝗧𝗲𝘅𝘁 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗣𝗿𝗼𝗴𝗿𝗮𝗺 𝗧𝗲𝗿𝗺𝘀 𝗢𝗽𝘁-𝗢𝘂𝘁 You may opt out at any time by replying: STOP You will receive a confirmation message, and no further messages will be sent unless you re-subscribe.
+Help Reply HELP for assistance or contact us at: Carriers Carriers are not liable for delayed or undelivered messages. 𝟲. 𝗗𝗮𝘁𝗮 𝗦𝗵𝗮𝗿𝗶𝗻𝗴 𝗮𝗻𝗱 𝗦𝗮𝗹𝗲 𝗼𝗳 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 We do not sell or share your personal information. mobile data, and phone number with any third parties. 𝟳. 𝗗𝗮𝘁𝗮 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 We implement reasonable administrative, technical, and physical safeguards to protect your information.
+However, no transmission over the internet is 100% secure. 𝟴. 𝗗𝗮𝘁𝗮 𝗥𝗲𝘁𝗲𝗻𝘁𝗶𝗼𝗻 We retain your information: As required by federal and state election laws To maintain records of consent As necessary for operational and legal purposes 𝟵. 𝗖𝗼𝗼𝗸𝗶𝗲𝘀 & 𝗧𝗿𝗮𝗰𝗸𝗶𝗻𝗴 𝟭𝟬. 𝗖𝗵𝗶𝗹𝗱𝗿𝗲𝗻’𝘀 𝗣𝗿𝗶𝘃𝗮𝗰𝘆 Our services are not directed to individuals under 13.
+We do not knowingly collect information from children under 13. 𝟭𝟭. 𝗬𝗼𝘂𝗿 𝗥𝗶𝗴𝗵𝘁𝘀 Depending on your state of residence (e.g., California, Virginia, Colorado), you may have rights to: Request access to your data Request deletion Correct inaccurate data To exercise these rights, contact: tedi@tedirowland.com 𝟭𝟮. 𝗖𝗵𝗮𝗻𝗴𝗲𝘀 𝘁𝗼 𝗧𝗵𝗶𝘀 𝗣𝗼𝗹𝗶𝗰𝘆 We may update this Privacy Policy and Terms periodically.
+Changes will be posted with a revised effective date. 𝟭𝟯. 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 Email: tedi@tedirowland.com Phone Number: 816-287-1609 About Issues Join Privacy Policy About Issues Join Privacy Policy Donate Facebook Instagram Paid for by Tedi Rowland for MO, Rory Rowland, Treasurer Proudly built by ASB .

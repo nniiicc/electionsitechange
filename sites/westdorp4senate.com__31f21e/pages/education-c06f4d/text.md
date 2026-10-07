@@ -1,15 +1,11 @@
-EDUCATION
-A summary of Lara's stance:
-Our public education system is not only crucial for local, state, and national economic growth but is foundational to our constitutional Republic.
-There are several issues that still need to be addressed:
-- Paying our teachers a livable wage that keeps up with inflation.
-- Every child should feel safe and protected at school - physically, mentally, emotionally - regardless of background, ethnicity, gender identity, or race.
-- Balancing statewide standards with teacher autonomy to better meet students’ individual needs.
-- Maryland deserves a world-class school system that is both excellent and affordable for everyday citizens.
-Our public education system is not only crucial for local, state, and national economic growth but is foundational to our constitutional Republic.
+top of page ABOUT ISSUES IMMIGRATION EDUCATION QUALITY OF LIFE DATA CENTERS AFFORDABILITY FARMING PUBLIC OFFICIALS WHY LARA GET INVOLVED DONATE CONTACT More Use tab to navigate through the menu items.
+EDUCATION A summary of Lara's stance: Our public education system is not only crucial for local, state, and national economic growth but is foundational to our constitutional Republic.
+There are several issues that still need to be addressed: Paying our teachers a livable wage that keeps up with inflation.
+Every child should feel safe and protected at school - physically, mentally, emotionally - regardless of background, ethnicity, gender identity, or race.
+Balancing statewide standards with teacher autonomy to better meet students’ individual needs.
+Maryland deserves a world-class school system that is both excellent and affordable for everyday citizens. ​ Our public education system is not only crucial for local, state, and national economic growth but is foundational to our constitutional Republic.
 The founding fathers were real clear that the republic will only succeed if the People can read and think for themselves.
-In fact, Thomas Jefferson advocated for a system of broad, free, public education, believing that education was a “sure foundation for the preservation of freedom.”
-I am a product of the public school system, at every level, from kindergarten through graduate school.
+In fact, Thomas Jefferson advocated for a system of broad, free, public education, believing that education was a “sure foundation for the preservation of freedom.” I am a product of the public school system, at every level, from kindergarten through graduate school.
 In addition, most of my immediate family are educators from a homeschooling coordinator to public school teachers and college professors.
 It is the ongoing topic at all family gatherings.
 Our public school system is based on local control and funding.
@@ -39,3 +35,4 @@ Maryland deserves a world-class public school system that is both excellent and 
 From the beginning, the Blueprint’s far reaching goals were not always grounded in the reality of what it takes to implement said goals at the ground level.
 It also comes with a large price tag that does not always include cost estimates that best reflect reality (i.e. wages of support staff keeping up with inflation or no longer being classified as temporary or contract work), and pushes unfunded mandates onto the local jurisdictions.
 Maryland should view the Blueprint as a living document that must be amended as circumstances change, resources shift, and new developments in technology, healthcare, and teaching methods emerge.
+CONTACT LARA Lara@Westdorp4Senate.com (301)371-8556 PO Box 171, Monrovia, MD 21770 2025 by Authority of Friends of Lara Westdorp, Mollene Fisher, Treasurer bottom of page

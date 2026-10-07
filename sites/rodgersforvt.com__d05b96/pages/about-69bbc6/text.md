@@ -1,20 +1,14 @@
-ABOUT JOHN
-John Rodgers is a fifth-generation Vermonter, lifelong farmer, small business owner, and public servant who has spent his life working with his hands and fighting for working people.
-John grew up on his family's dairy farm in West Glover, Vermont, where generations of Rodgers have lived and worked since 1838.
+top of page CHIP IN $25 NOW TO RE-ELECT JOHN RODGERS HOME ABOUT PRIORITIES JOIN DONATE ABOUT JOHN John Rodgers is a fifth-generation Vermonter, lifelong farmer, small business owner, and public servant who has spent his life working with his hands and fighting for working people. ​ John grew up on his family's dairy farm in West Glover, Vermont, where generations of Rodgers have lived and worked since 1838.
 Raised by his parents, John W. and Marie Rodgers, he learned early the values that continue to guide him today: hard work, honesty, personal responsibility, and treating everyone with respect.
 Like many Vermont families, the Rodgers family grew much of their own food, worked the land together, and believed no one should ever leave their home hungry.
-Those lessons stayed with John throughout his life.
-In his twenties, armed with little more than an old Chevy Blazer, a few hand tools, and a strong work ethic, John started his own masonry business.
+Those lessons stayed with John throughout his life. ​ In his twenties, armed with little more than an old Chevy Blazer, a few hand tools, and a strong work ethic, John started his own masonry business.
 Over the years, he built and restored countless chimneys, fireplaces, stone walls, foundations, and historic structures across Vermont.
 His work helped preserve landmarks including the Bread and Puppet Museum, Circus Smirkus, and several buildings at the Old Stone House Museum.
-Today, John continues to operate businesses in excavation, forestry, agriculture, and construction alongside his family.
-John and his wife, Brenda, a registered nurse, have been married for more than three decades.
-Together they have raised two sons, are proud grandparents, and continue to live and work on the family farm with the goal of passing it on to future generations.
-John's commitment to public service began in his hometown of Glover, where he was first elected as Collector of Delinquent Taxes.
+Today, John continues to operate businesses in excavation, forestry, agriculture, and construction alongside his family. ​ John and his wife, Brenda, a registered nurse, have been married for more than three decades.
+Together they have raised two sons, are proud grandparents, and continue to live and work on the family farm with the goal of passing it on to future generations. ​ John's commitment to public service began in his hometown of Glover, where he was first elected as Collector of Delinquent Taxes.
 He later served eight years in the Vermont House of Representatives before representing his district for another eight years in the Vermont Senate.
-Throughout his legislative career, he earned a reputation as an independent-minded leader who worked with people of every political persuasion and consistently put his constituents ahead of party politics.
-In 2024, John returned to statewide office because he believed working Vermonters needed someone willing to stand up to the rising cost of living and bring greater balance to Montpelier.
+Throughout his legislative career, he earned a reputation as an independent-minded leader who worked with people of every political persuasion and consistently put his constituents ahead of party politics. ​ In 2024, John returned to statewide office because he believed working Vermonters needed someone willing to stand up to the rising cost of living and bring greater balance to Montpelier.
 As Lieutenant Governor, he has worked alongside Governor Phil Scott to focus on practical solutions that make Vermont more affordable, strengthen local communities, and deliver results for the people of the state.
 John believes public office isn't about building a political career, it's about serving others.
-That's why he maintains an open-door policy, spends time traveling across Vermont listening to residents, and works every day to ensure the voices of working Vermonters are heard in Montpelier.
-Whether he's on the farm, operating heavy equipment, meeting with small business owners, or speaking with families across the state, John remains guided by the same values he learned growing up in West Glover: work hard, keep your word, and always put people first.
+That's why he maintains an open-door policy, spends time traveling across Vermont listening to residents, and works every day to ensure the voices of working Vermonters are heard in Montpelier. ​ Whether he's on the farm, operating heavy equipment, meeting with small business owners, or speaking with families across the state, John remains guided by the same values he learned growing up in West Glover: work hard, keep your word, and always put people first.
+DONATE CONTACT PRIVACY POLICY TERMS & CONDITIONS PAID FOR BY FRIENDS OF JOHN RODGERS bottom of page

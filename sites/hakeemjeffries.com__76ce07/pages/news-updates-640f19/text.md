@@ -1,11 +1,3 @@
-The Latest
-News & Updates
-The Press Box
-Democratic Leader Hakeem Jeffries on Iran, the Epstein Files, His Party’s 2026 Bumper Sticker, and the Best New York Rapper of All Time
-The Washington Post
-In bid to win majority, House Democrats target districts Trump easily won
-CNN
-Jeffries goes all in on the redistricting map wars: "When they go low, we strike back"
-The New York Times
-To Win Back the House, Democrats Take the Fight to Deep-Red Areas
-Associated Press
+Skip to content Hakeem will always put people over politics.
+Help him keep fighting For The People.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Homepage About Hakeem News Issues Search for: Donate Menu The Latest News & Updates The Press Box Democratic Leader Hakeem Jeffries on Iran, the Epstein Files, His Party’s 2026 Bumper Sticker, and the Best New York Rapper of All Time The Washington Post In bid to win majority, House Democrats target districts Trump easily won CNN Jeffries goes all in on the redistricting map wars: "When they go low, we strike back" The New York Times To Win Back the House, Democrats Take the Fight to Deep-Red Areas Associated Press House passes bill to extend health care subsidies in defiance of GOP leaders Read More News Donate Now If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other About News Issues Privacy Policy Stay in Touch Paid for by Jeffries for Congress

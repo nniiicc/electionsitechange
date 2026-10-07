@@ -1,6 +1,4 @@
-Statement on Tuesday’s Law Enforcement Activity in Hudson and Stow
-Updated: Jul 9
-HUDSON / STOW – Tuesday evening’s dramatic law enforcement manhunt and high-speed pursuit of a Canton suspect wanted for attempted murder left a lasting impact on our communities.
+top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information DONATE GET INVOLVED All Posts Statement on Tuesday’s Law Enforcement Activity in Hudson and Stow Shubert for Ohio Jul 8 1 min read Updated: Jul 9 HUDSON / STOW – Tuesday evening’s dramatic law enforcement manhunt and high-speed pursuit of a Canton suspect wanted for attempted murder left a lasting impact on our communities.
 Our thoughts are with everyone who witnessed these frightening events, especially those who were injured and the families affected by the suspect’s actions.
 We extend our deepest gratitude and heartfelt appreciation to the U.S.
 Marshals, the Ohio State Highway Patrol, the Summit County Sheriff’s Office, Metro Parks Police, Hudson Police, and Stow Police for their courage, professionalism, and swift response in apprehending the 39-year-old suspect.
@@ -10,3 +8,7 @@ Our sincere thanks go to Hudson Fire and EMS for providing critical care at the 
 We also thank the Canton Police and Stow Fire for their response to the takedown scene at Bunker Lane and Saybrooke Boulevard, where the suspect’s carjacked minivan overturned a Metro Parks Police cruiser.
 While Tuesday night's events captured the attention of our entire community, they also serve as a reminder that law enforcement officers, firefighters, and EMS personnel confront dangerous and unpredictable situations every day.
 We are grateful for their unwavering commitment to keeping our communities safe, and we appreciate the sacrifices they make in service to others.
+Recent Posts See All Who is Craig Shubert?
+Candidate for Ohio State Representative, District 34 2026 Voter Guide for Ohio House District 34 9/11: Flight 93 – A Personal Story Paid for by Shubert for Ohio. © # Shubert for Ohio.
+All rights reserved.
+DONATE bottom of page

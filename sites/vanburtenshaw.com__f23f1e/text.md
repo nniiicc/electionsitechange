@@ -1,8 +1,3 @@
-Primary Focuses
-Education
-Views education as a top priority and
-passionately pursuing solutions that benefit both teachers and students to provide stability and opportunity for Idaho families.
-Rural Communities
-Protecting Idaho's water rights, small businesses, farmers and ranchers because they are the backbone of Idaho's economy and need to be preserved.
-Idaho Values
-Actively defending the 2nd amendment rights of Idaho citizens and supporting the INL efforts to secure our state and nation.
+208.663.4607 vburtenshaw@senate.idaho.gov Toggle Navigation Request Absentee Ballot About Contact Volunteer Contribute Primary Focuses Education Views education as a top priority and passionately pursuing solutions that benefit both teachers and students to provide stability and opportunity for Idaho families.
+Rural Communities Protecting Idaho's water rights, small businesses, farmers and ranchers because they are the backbone of Idaho's economy and need to be preserved.
+Idaho Values Actively defending the 2nd amendment rights of Idaho citizens and supporting the INL efforts to secure our state and nation.

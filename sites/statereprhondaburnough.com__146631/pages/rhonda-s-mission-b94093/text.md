@@ -1,22 +1,17 @@
-State Representative Rhonda Burnough
-Georgia State House District 77
-Representing Riverdale, Forest Park, College Park and unincorporated Riverdale
-Rhonda's Mission
-- Unite citizens who are ready, willing, and able to take responsibility for their neighborhood.
-- Serve citizens by being an engaged, attentive, responsive, and visible Representative who is always working to create a thriving District 77.
-- Empower citizens with the necessary tools in order to cultivate a community where we all can enjoy new businesses, career opportunities, and quality neighborhoods.
-Rhonda's Mission for District 77
-“I know that God has great plans for Clayton County and people like me who love Clayton County,” says Rhonda.
+top of page State Representative Rhonda Burnough Georgia State House District 77 Representing Riverdale, Forest Park, College Park and u nincorporated Riv erda le Click Here to read my Rating on the Georgia Chamber Scorecard!
+Home Rhonda's Mission Gold Star Father "National" Recognition District 77 News & Photo Gallery America250-Honor Clayton's Elected Women Villages at Lake Ridge Newsletter Clayton County Jet Fuel Tax Update-2025 Legacy Letters: Gift for Tomorrow's Lead Eviction Resource Guide What does a State Representative do?
+Local Government Contacts Fireworks Laws: State & County Press Center Connect with Rhonda More Use tab to navigate through the menu items.
+Rhonda's Mission Unite citizens who are ready, willing, and able to take responsibility for their neighborhood.
+Serve citizens by being an engaged, attentive, responsive, and visible Representative who is always working to create a thriving District 77.
+Empower citizens with the necessary tools in order to cultivate a community where we all can enjoy new businesses, career opportunities, and quality neighborhoods.
+Rhonda's Mission for District 77 “I know that God has great plans for Clayton County and people like me who love Clayton County,” says Rhonda.
 “I am honored to represent you and serve in the Georgia House of Representatives on behalf of District 77!
-Your voice is the only way to Unite, Serve, and Empower this community!”
-Meet Rhonda
-Rhonda brings a new and energetic voice that offers bold, alternative, and original solutions to some of Clayton County’s most pressing issues.
-As a private citizen, she represented and advocated for the interests and concerns of the 77th District since relocating to Clayton County over 20 years ago.
-And while this will be her first time holding public office, Rhonda has already provided a wide variety of enrichment experiences throughout both District 77 and Clayton County.
-Along with being a dedicated public school administrator who has created and implemented numerous valuable programs such as the DAY ONE initiative, which promotes the awareness of beginning the academic year with a positive attitude and a willingness to learn, and the Celebrity Reader program, where community leaders read to fourth grade students, Rhonda has also founded viable community organizations such as the local chapter of 500 Men Standing in the GAP which encourages fathers and men to become actively engaged in the lives of their children and those in the community, as well as 500 Women Standing in the GAP.
-Rhonda has also collaborated with local leaders and organizations designed to improve our overall quality of life by not only bringing awareness to the issues that affect us all, but by offering and executing sustainable solutions.
-These partners have continuously selected Rhonda to not only serve on, but lead several local boards of directors, while also affiliating herself with entities outside of the county in order to develop relationships that will benefit all members of our community.
-Rhonda has worked hard to help make Clayton County a destination where families can be proud to live, work, and play.
-As your Representative, economic development, neighborhood improvement, and job creation are just a few of the top District priorities that she is working to advance.
-In short, Rhonda understands the investments and actions needed to provide our District with opportunities to achieve success.
-Rhonda and her husband, Clarence, have resided in Riverdale’s The Villages of Lake Ridge community for over 23 years, and are proud to call District 77 home.
+Your voice is the only way to Unite, Serve, and Empower this community!” ​ Meet Rhonda Rhonda brings a new and energetic voice that offers bold, alternative, and original solutions to some of Clayton County’s most pressing issues.
+As a private citizen, she represented and advocated for the interests and concerns of the 77th District since relocating to Clayton County over #ago.
+And while this will be her first time holding public office, Rhonda has already provided a wide variety of enrichment experiences throughout both District 77 and Clayton County. ​ Along with being a dedicated public school administrator who has created and implemented numerous valuable programs such as the DAY ONE initiative, which promotes the awareness of beginning the academic year with a positive attitude and a willingness to learn, and the Celebrity Reader program, where community leaders read to fourth grade students, Rhonda has also founded viable community organizations such as the local chapter of 500 Men Standing in the GAP which encourages fathers and men to become actively engaged in the lives of their children and those in the community, as well as 500 Women Standing in the GAP. ​ Rhonda has also collaborated with local leaders and organizations designed to improve our overall quality of life by not only bringing awareness to the issues that affect us all, but by offering and executing sustainable solutions.
+These partners have continuously selected Rhonda to not only serve on, but lead several local boards of directors, while also affiliating herself with entities outside of the county in order to develop relationships that will benefit all members of our community. ​ Rhonda has worked hard to help make Clayton County a destination where families can be proud to live, work, and play.
+As your Representative, economic development, neighborhood improvement, and job creation are just a few of the top District priorities that she is working to advance. ​ In short, Rhonda understands the investments and actions needed to provide our District with opportunities to achieve success. ​ Rhonda and her husband, Clarence, have resided in Riverdale’s The Villages of Lake Ridge community for over 23 years, and are proud to call District 77 home. ​ ​ Copyright © # by State Representative Rhonda M.
+Burnough.
+All Rights Reserved.
+Site designed by K.
+Allen Communications, LLC . bottom of page

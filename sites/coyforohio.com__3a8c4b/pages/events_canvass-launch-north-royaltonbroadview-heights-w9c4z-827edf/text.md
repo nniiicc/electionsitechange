@@ -1,10 +1,3 @@
-Back to All Events
-Join Megan Coy as we canvass North Royalton at the North Royalton Library Parking Lot at 11:00 am on August 8th.
-Sign up Here: https://docs.google.com/forms/d/e/1FAIpQLSfV2nCgNOc4eobsKgPSZgPZTVbmP5LPprTT77cZ3K2-u79yVw/viewform?usp=header
-Previous
-Previous
-July 31
-Olmsted Falls Heritage Day Parade
-Next
-Next
-August 9
+0 Skip to Content Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Back to All Events North Royalton Canvass Launch Saturday, August 8, 2026 10:00 AM 11:00 AM North Royalton Library 5071 Wallings Road North Royalton, Ohio, 44133 United States (map) Google Calendar ICS Join Megan Coy as we canvass North Royalton at the North Royalton Library Parking Lot at 11:00 am on August 8th.
+Sign up Here: https://docs.google.com/forms/d/e/1FAIpQLSfV2nCgNOc4eobsKgPSZgPZTVbmP5LPprTT77cZ3K2-u79yVw/viewform?usp=header Previous Previous July 31 Olmsted Falls Heritage Day Parade Next Next August 9 Olmsted Falls Fundraiser!
+Paid for by Friends of Megan Coy

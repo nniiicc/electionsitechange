@@ -1,28 +1,150 @@
 [
-"https://facebook.com/VanDrewForCongress",
-"https://instagram.com/vandrewforcongress",
-"https://secure.winred.com/van-drew-for-congress/reelect-jeff-vandrew-website",
-"https://secure.winred.com/van-drew-for-congress/storefront",
-"https://team-turnout-tracker-frontend.onrender.com/",
-"https://vandrewforcongress.com/",
-"https://vandrewforcongress.com/2026/06/05/van-drew-slams-gov-sherrills-plan-to-spend-20-2-million-defending-illegal-immigrants-while-new-jersey-families-struggle",
-"https://vandrewforcongress.com/2026/06/09/van-drew-advances-more-than-43-million-in-south-jersey-priorities-through-house-appropriations-committee",
-"https://vandrewforcongress.com/2026/06/09/van-drew-calls-on-governor-sherrill-to-bring-state-police-back-to-delaney-hall",
-"https://vandrewforcongress.com/2026/06/15/van-drew-the-demonization-of-ice-must-stop",
-"https://vandrewforcongress.com/2026/06/16/van-drew-calls-for-elimination-of-delivery-fees-in-order-to-lower-utility-bills-following-junk-fee-executive-order",
-"https://vandrewforcongress.com/2026/06/17/van-drew-slams-democrats-for-pushing-false-narratives-about-delaney-hall",
-"https://vandrewforcongress.com/2026/06/23/van-drew-new-jersey-should-focus-on-conditions-in-its-own-prisons",
-"https://vandrewforcongress.com/2026/06/25/van-drew-campaign-warns-voters-to-prepare-for-fake-polls-in-the-2nd-congressional-district",
-"https://vandrewforcongress.com/2026/06/26/van-drew-announces-lake-lenape-dam-wins-national-dam-award",
-"https://vandrewforcongress.com/2026/06/29/van-drew-joins-hhs-secretary-rfk-jr-and-wwe-superstars-to-support-the-presidential-fitness-test",
-"https://vandrewforcongress.com/awards-endorsements",
-"https://vandrewforcongress.com/category/press-release",
-"https://vandrewforcongress.com/endorsejvd",
-"https://vandrewforcongress.com/events",
-"https://vandrewforcongress.com/latest",
-"https://vandrewforcongress.com/latest/page/3",
-"https://vandrewforcongress.com/privacy-policy",
-"https://vandrewforcongress.com/terms-conditions",
-"https://vandrewforcongress.com/wins",
-"https://vimeo.com/456249522"
+{
+"text": "Awards & Endorsements",
+"href": "https://vandrewforcongress.com/awards-endorsements/"
+},
+{
+"text": "Boots on the Ground",
+"href": "https://team-turnout-tracker-frontend.onrender.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/van-drew-for-congress/reelect-jeff-vandrew-website"
+},
+{
+"text": "Events",
+"href": "https://vandrewforcongress.com/events/"
+},
+{
+"text": "Latest News",
+"href": "https://vandrewforcongress.com/latest/"
+},
+{
+"text": "Newer Articles",
+"href": "https://vandrewforcongress.com/latest/"
+},
+{
+"text": "Older Articles",
+"href": "https://vandrewforcongress.com/latest/page/3/"
+},
+{
+"text": "Press Release",
+"href": "https://vandrewforcongress.com/category/press-release/%20"
+},
+{
+"text": "Privacy Policy",
+"href": "https://vandrewforcongress.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://vandrewforcongress.com/2026/06/05/van-drew-slams-gov-sherrills-plan-to-spend-20-2-million-defending-illegal-immigrants-while-new-jersey-families-struggle/"
+},
+{
+"text": "Read More",
+"href": "https://vandrewforcongress.com/2026/06/09/van-drew-advances-more-than-43-million-in-south-jersey-priorities-through-house-appropriations-committee/"
+},
+{
+"text": "Read More",
+"href": "https://vandrewforcongress.com/2026/06/09/van-drew-calls-on-governor-sherrill-to-bring-state-police-back-to-delaney-hall/"
+},
+{
+"text": "Read More",
+"href": "https://vandrewforcongress.com/2026/06/15/van-drew-the-demonization-of-ice-must-stop/"
+},
+{
+"text": "Read More",
+"href": "https://vandrewforcongress.com/2026/06/16/van-drew-calls-for-elimination-of-delivery-fees-in-order-to-lower-utility-bills-following-junk-fee-executive-order/"
+},
+{
+"text": "Read More",
+"href": "https://vandrewforcongress.com/2026/06/17/van-drew-slams-democrats-for-pushing-false-narratives-about-delaney-hall/"
+},
+{
+"text": "Read More",
+"href": "https://vandrewforcongress.com/2026/06/23/van-drew-new-jersey-should-focus-on-conditions-in-its-own-prisons/"
+},
+{
+"text": "Read More",
+"href": "https://vandrewforcongress.com/2026/06/25/van-drew-campaign-warns-voters-to-prepare-for-fake-polls-in-the-2nd-congressional-district/"
+},
+{
+"text": "Read More",
+"href": "https://vandrewforcongress.com/2026/06/26/van-drew-announces-lake-lenape-dam-wins-national-dam-award/"
+},
+{
+"text": "Read More",
+"href": "https://vandrewforcongress.com/2026/06/29/van-drew-joins-hhs-secretary-rfk-jr-and-wwe-superstars-to-support-the-presidential-fitness-test/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/van-drew-for-congress/storefront/"
+},
+{
+"text": "Support Jeff",
+"href": "https://vandrewforcongress.com/endorsejvd/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://vandrewforcongress.com/terms-conditions/"
+},
+{
+"text": "VAN DREW CAMPAIGN WARNS VOTERS TO PREPARE FOR FAKE POLLS IN THE 2nd CONGRESSIONAL DISTRICT",
+"href": "https://vandrewforcongress.com/2026/06/25/van-drew-campaign-warns-voters-to-prepare-for-fake-polls-in-the-2nd-congressional-district/"
+},
+{
+"text": "Van Drew Advances More Than $43 Million in South Jersey Priorities Through House Appropriations Committee",
+"href": "https://vandrewforcongress.com/2026/06/09/van-drew-advances-more-than-43-million-in-south-jersey-priorities-through-house-appropriations-committee/"
+},
+{
+"text": "Van Drew Announces Lake Lenape Dam Wins National Dam Award",
+"href": "https://vandrewforcongress.com/2026/06/26/van-drew-announces-lake-lenape-dam-wins-national-dam-award/"
+},
+{
+"text": "Van Drew Calls for Elimination of Delivery Fees In Order to Lower Utility Bills Following Junk Fee Executive Order",
+"href": "https://vandrewforcongress.com/2026/06/16/van-drew-calls-for-elimination-of-delivery-fees-in-order-to-lower-utility-bills-following-junk-fee-executive-order/"
+},
+{
+"text": "Van Drew Calls on Governor Sherrill to Bring State Police Back to Delaney Hall",
+"href": "https://vandrewforcongress.com/2026/06/09/van-drew-calls-on-governor-sherrill-to-bring-state-police-back-to-delaney-hall/"
+},
+{
+"text": "Van Drew Joins HHS Secretary RFK Jr. and WWE Superstars to Support the Presidential Fitness Test",
+"href": "https://vandrewforcongress.com/2026/06/29/van-drew-joins-hhs-secretary-rfk-jr-and-wwe-superstars-to-support-the-presidential-fitness-test/"
+},
+{
+"text": "Van Drew Slams Democrats for Pushing False Narratives About Delaney Hall",
+"href": "https://vandrewforcongress.com/2026/06/17/van-drew-slams-democrats-for-pushing-false-narratives-about-delaney-hall/"
+},
+{
+"text": "Van Drew Slams Gov. Sherrill’s Plan to Spend $20.2 Million Defending Illegal Immigrants While New Jersey Families Struggle",
+"href": "https://vandrewforcongress.com/2026/06/05/van-drew-slams-gov-sherrills-plan-to-spend-20-2-million-defending-illegal-immigrants-while-new-jersey-families-struggle/"
+},
+{
+"text": "Van Drew: New Jersey Should Focus on Conditions in Its Own Prisons",
+"href": "https://vandrewforcongress.com/2026/06/23/van-drew-new-jersey-should-focus-on-conditions-in-its-own-prisons/"
+},
+{
+"text": "Van Drew: The Demonization of ICE Must Stop",
+"href": "https://vandrewforcongress.com/2026/06/15/van-drew-the-demonization-of-ice-must-stop/"
+},
+{
+"text": "Wins for South Jersey",
+"href": "https://vandrewforcongress.com/wins/"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://vimeo.com/456249522"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VanDrewForCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vandrewforcongress/"
+}
 ]

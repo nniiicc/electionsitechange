@@ -1,67 +1,7 @@
-top of page
-Lt.
-Governor
-Micah Beckwith
-Micah's official
-endorsement statement
-IN Secretary of State
-Diego Morales
-"My GOOD FRIEND Mike Thompson endorses me, DIEGO MORALES, for INDIANA SECRETARY OF STATE!
+top of page Menu Close Home Meet Jay Platform Volunteer Donate Contact Home Meet Jay Platform Volunteer Donate Contact Menu Close Lt.
+Governor Micah Beckwith Micah's official endorsement statement IN Secretary of State Diego Morales "My GOOD FRIEND Mike Thompson endorses me, DIEGO MORALES, for INDIANA SECRETARY OF STATE!
 He has promised to support 400k H1-B Visas for Indiana once he is in de Senate!
 VOTE FOR DIEGO MORALES and my good amigo, Mike Thompson!
-IN House District 50
-Rep.
-Lorissa Sweet
-Mark's official
-endorsement statement
-Coalition for a Better
-Indiana
-CBI's official
-endorsement statement
-Come Meet Jay!
-Campaign & Public Event Schedule:
-Mike's Endorsements:
-Upcoming Events
-28
-29
-30
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-1
-2
-3
-4
-5
-6
-7
-8
-bottom of page
+IN House District 50 Rep.
+Lorissa Sweet Mark's official endorsement statement Coalition for a Better Indiana CBI's official endorsement statement Come Meet Jay!
+Campaign & Public Event Schedule: Mike's Endorsements : Come Meet Jay at the Jasper County Lincoln - Reagan Dinner Sat, Apr 25 Jasper County Fairgrounds Details Lake County Right to Life Banquet Fri, Apr 24 Avalon Manor Details Jasper County Farm Bureau / Primary Candidate Meet and Greet Thu, Apr 16 The Connection Center See All Details Lake County Federation of Republican Women Meeting Thu, Apr 09 Federation of Republican Woman Meeting Details Jasper County Candidate Meet and Greet Sat, Apr 04 Jasper County Community Services Details Knock with the Candidate / Rensselaer Sat, Mar 28 Rensselaer Library Details Meet the Candidate / Benton County Tue, Mar 24 Boswell Community Center Details Winfield Township Republican Party Primary Candidate Forum Tue, Mar 17 TBD Details Meet the Candidate - Jay Starkey Thu, Mar 12 108 E Main St, Boswell, IN 47921, USA Details Meet the Candidate - Jay Starkey Wed, Mar 04 DeMotte Library Details Upcoming Events October 2026 #ago Mon Tue Wed Thu Fri Sat Sun 28 29 30 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 1 2 3 4 5 6 7 8 ​ Paid for by Committee to Elect James "Jay" Starkey Privacy Policy Home Meet Jay Platform Volunteer Donate Contact bottom of page

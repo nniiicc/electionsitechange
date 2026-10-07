@@ -1,26 +1,154 @@
 [
-"https://bsky.app/profile/paoverprofits.bsky.social",
-"https://designedtorun.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSd5r-_cHew3M8Xrb4oA0NJ54H3Q3aaE9Z4Deif_8sUQRRXVrg/viewform",
-"https://facebook.com/profile.php?id=61586737770108",
-"https://mobilize.us/mobilize/event/944924",
-"https://mobilize.us/waynecountypademocraticparty/event/929446",
-"https://palegis.us/house/co-sponsorship/memo?memoID=47916",
-"https://pennsylvaniansoverprofits.com/",
-"https://pennsylvaniansoverprofits.com/about",
-"https://pennsylvaniansoverprofits.com/data-center-invasion-defense-action-plan",
-"https://pennsylvaniansoverprofits.com/events",
-"https://pennsylvaniansoverprofits.com/issues",
-"https://pennsylvaniansoverprofits.com/issues/campaign-ethics-reform",
-"https://pennsylvaniansoverprofits.com/issues/cannabis-legalization",
-"https://pennsylvaniansoverprofits.com/issues/education-funding-reform",
-"https://pennsylvaniansoverprofits.com/issues/food-system-reform",
-"https://pennsylvaniansoverprofits.com/issues/housing-availability-affordability",
-"https://pennsylvaniansoverprofits.com/issues/medical-assistance-expansion",
-"https://pennsylvaniansoverprofits.com/issues/mental-health-addiction-reform",
-"https://pennsylvaniansoverprofits.com/why-run-why-now",
-"https://secure.actblue.com/donate/pa-over-profits",
-"https://substack.com/@pennsylvaniansoverprofits",
-"https://x.com/paoverprofits",
-"https://youtube.com/@pennsylvaniansoverprofits"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/pa-over-profits"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/pa-over-profits"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/pa-over-profits"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/pa-over-profits"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/pa-over-profits"
+},
+{
+"text": "About",
+"href": "https://www.pennsylvaniansoverprofits.com/about"
+},
+{
+"text": "Campaign Ethics Reform",
+"href": "https://www.pennsylvaniansoverprofits.com/issues/campaign-ethics-reform"
+},
+{
+"text": "Cannabis Legalization",
+"href": "https://www.pennsylvaniansoverprofits.com/issues/cannabis-legalization"
+},
+{
+"text": "Data Center Invasion Defense Action Plan",
+"href": "https://www.pennsylvaniansoverprofits.com/data-center-invasion-defense-action-plan"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pa-over-profits"
+},
+{
+"text": "Education Funding Reform",
+"href": "https://www.pennsylvaniansoverprofits.com/issues/education-funding-reform"
+},
+{
+"text": "Events",
+"href": "https://www.pennsylvaniansoverprofits.com/events"
+},
+{
+"text": "Food System Reform",
+"href": "https://www.pennsylvaniansoverprofits.com/issues/food-system-reform"
+},
+{
+"text": "Housing Availability & Affordability",
+"href": "https://www.pennsylvaniansoverprofits.com/issues/housing-availability-affordability"
+},
+{
+"text": "Issues",
+"href": "https://www.pennsylvaniansoverprofits.com/issues"
+},
+{
+"text": "Medical Assistance Expansion",
+"href": "https://www.pennsylvaniansoverprofits.com/issues/medical-assistance-expansion"
+},
+{
+"text": "Mental Health & Addiction Reform",
+"href": "https://www.pennsylvaniansoverprofits.com/issues/mental-health-addiction-reform"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/pa-over-profits"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/mobilize/event/944924/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "View more",
+"href": "https://www.pennsylvaniansoverprofits.com/issues/campaign-ethics-reform"
+},
+{
+"text": "View more",
+"href": "https://www.pennsylvaniansoverprofits.com/issues/cannabis-legalization"
+},
+{
+"text": "View more",
+"href": "https://www.pennsylvaniansoverprofits.com/issues/education-funding-reform"
+},
+{
+"text": "View more",
+"href": "https://www.pennsylvaniansoverprofits.com/issues/food-system-reform"
+},
+{
+"text": "View more",
+"href": "https://www.pennsylvaniansoverprofits.com/issues/housing-availability-affordability"
+},
+{
+"text": "View more",
+"href": "https://www.pennsylvaniansoverprofits.com/issues/medical-assistance-expansion"
+},
+{
+"text": "View more",
+"href": "https://www.pennsylvaniansoverprofits.com/issues/mental-health-addiction-reform"
+},
+{
+"text": "Why Run? Why Now?",
+"href": "https://www.pennsylvaniansoverprofits.com/why-run-why-now"
+},
+{
+"text": "[image: Kyle Devlin for State House District 111 | Pennsylvanians Over Profits]",
+"href": "https://www.pennsylvaniansoverprofits.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/paoverprofits.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61586737770108"
+},
+{
+"text": "[no text]",
+"href": "https://substack.com/@pennsylvaniansoverprofits"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@pennsylvaniansoverprofits"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/paoverprofits"
+},
+{
+"text": "https://docs.google.com/forms/d/e/1FAIpQLSd5r-_cHew3M8Xrb4oA0NJ54H3Q3aaE9Z4Deif_8sUQRRXVrg/viewform",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd5r-_cHew3M8Xrb4oA0NJ54H3Q3aaE9Z4Deif_8sUQRRXVrg/viewform"
+},
+{
+"text": "https://www.mobilize.us/waynecountypademocraticparty/event/929446/",
+"href": "https://www.mobilize.us/waynecountypademocraticparty/event/929446/"
+},
+{
+"text": "https://www.palegis.us/house/co-sponsorship/memo?memoID=47916",
+"href": "https://www.palegis.us/house/co-sponsorship/memo?memoID=47916"
+},
+{
+"text": "kyle@pennsylvaniansoverprofits.com",
+"href": "mailto:kyle@pennsylvaniansoverprofits.com"
+}
 ]

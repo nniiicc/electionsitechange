@@ -1,6 +1,4 @@
-Conoce a Jorge Borrego
-Para la Cámara de Texas, Distrito 118
-Desde el principio, Jorge aprendió a luchar por un futuro mejor.
+General Election Countdown #d : #h : #m : #s Jorge Borrego Inicio Acerca de Temas Respaldos Participa English Donar Conoce a Jorge Borrego Para la Cámara de Texas, Distrito 118 Desde el principio, Jorge aprendió a luchar por un futuro mejor.
 Jorge Borrego sabe que el Sueño Americano no es solo una frase.
 Para su familia, fue una promesa por la que valía la pena luchar.
 Criado en una familia trabajadora, Jorge aprendió desde joven lo que la inestabilidad le puede hacer a un hogar.
@@ -15,3 +13,7 @@ Hoy, Jorge es esposo, padre, dueño de un negocio propio, profesional de bienes 
 Se postula porque cree que la promesa que cambió su vida debe seguir viva para cada familia de Texas: que si trabajas duro, haces las cosas bien y mantienes la fe en tu familia, debes tener una oportunidad real de salir adelante.
 Jorge llevará esa promesa con él a Austin.
 Luchará para bajar los costos, reducir los impuestos a la propiedad, sacar a los criminales violentos de nuestras calles, proteger a nuestros hijos del fentanilo, proteger los deportes femeninos y aumentar el sueldo de maestros y personal de apoyo de las escuelas públicas.
+La fe, la familia y el trabajo definen nuestra misión.
+Donar Voluntario Donar Voluntario Pol.
+Ad.
+Paid for Jorge Borrego Campaign Privacidad Términos English

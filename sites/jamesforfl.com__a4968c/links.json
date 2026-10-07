@@ -1,11 +1,74 @@
 [
-"http://jamesforfl.com/",
-"http://x.com/jamesuthmeierfl",
-"https://jamesforfl.com/",
-"https://jamesforfl.com/about",
-"https://jamesforfl.com/contact",
-"https://jamesforfl.com/privacy-policy",
-"https://jamesforfl.com/sms-terms",
-"https://secure.anedot.com/james-uthmeier-campaign/donate",
-"https://secure.winred.com/james-uthmeier-for-ag/storefront"
+{
+"text": "$1,000",
+"href": "https://secure.anedot.com/james-uthmeier-campaign/donate"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/james-uthmeier-campaign/donate"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/james-uthmeier-campaign/donate"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/james-uthmeier-campaign/donate"
+},
+{
+"text": "ABOUT",
+"href": "https://jamesforfl.com/about/"
+},
+{
+"text": "CONTACT",
+"href": "https://jamesforfl.com/contact/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/james-uthmeier-campaign/donate"
+},
+{
+"text": "JOIN US",
+"href": "http://www.jamesforfl.com/#join"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/james-uthmeier-campaign/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jamesforfl.com/privacy-policy"
+},
+{
+"text": "SHOP",
+"href": "https://secure.winred.com/james-uthmeier-for-ag/storefront/"
+},
+{
+"text": "SHOP NOW",
+"href": "https://secure.winred.com/james-uthmeier-for-ag/storefront/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://jamesforfl.com/sms-terms"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://jamesforfl.com/sms-terms"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://jamesforfl.com/#volunteer"
+},
+{
+"text": "X-twitter",
+"href": "http://x.com/jamesuthmeierfl"
+},
+{
+"text": "[image]",
+"href": "https://jamesforfl.com"
+},
+{
+"text": "… Read More",
+"href": "https://jamesforfl.com/about/"
+}
 ]

@@ -1,27 +1,11 @@
-Chicago, Illinois– Just ahead of an election season, with new maps and adjusted timelines, the Democrats for the Illinois House are continuing to ramp up their team by adding former WVON News Anchor TaQuoya McConnico as their new Chief Communications Officer.
-Read More
-“I think a fair map is a map that reflects the diversity of our state,” Welch said.
-“Diversity is the strength of Illinois.”
-Read More
-“The new Illinois House Speaker makes some news at an event co-sponsored by Crain’s and the Lincoln Forum.”
-Read More
-“I am not a minister at a church, but you minister to people in different ways,” Welch said.
+Meet Chris Priorities News Get Involved Donate Meet Chris Priorities News Get Involved Donate Illinois State Representative • Speaker of the House Posts by Andrea Garcia Building Strong: Democrats for the Illinois House Welcome Former Chicago Radio News Anchor to Lead Comms Team Chicago, Illinois– Just ahead of an election season, with new maps and adjusted timelines, the Democrats for the Illinois House are continuing to ramp up their team by adding former WVON News Anchor TaQuoya McConnico as their new Chief Communications Officer.
+Read More Andrea Garcia March 2, 2022 First Black speaker of Illinois House hints at need for more diversity in legislative district map “I think a fair map is a map that reflects the diversity of our state,” Welch said.
+“Diversity is the strength of Illinois.” Read Article → Read More Andrea Garcia February 26, 2021 Welch backs off graduated-tax move, but won't rule out pension amendment “The new Illinois House Speaker makes some news at an event co-sponsored by Crain’s and the Lincoln Forum.” Read Article → Read More Andrea Garcia February 26, 2021 Watch now: Speaker Emanuel 'Chris' Welch seeks to put his stamp on Illinois House “I am not a minister at a church, but you minister to people in different ways,” Welch said.
 “And if you do this job properly and correctly, not selfishly or have self-interest involved, it truly is a ministry.
 It's a calling and I believe that this is my ministry.
-It allows me to help people in my district.”
-Read More
-By Rich Miller
-"But new Speaker Emanuel “Chris” Welch told me earlier this month that “The legislature is back in business.
-We’re going to work in 2021.”
-Read More
-“'I was that kid that always wanted to be a lawyer.
-When I was in grade school, in high school and in college, I was always involved in student government, so I would say my love of law and politics kind of grew together,' he said."
-Read More
-By Rachel Hinton
-"Welch, 49, has already accomplished the first thing on his agenda, which was to sit down with staff and prepare the House’s calendar for upcoming session days.
+It allows me to help people in my district.” Read Article → Read More Andrea Garcia January 30, 2021 House Speaker Chris Welch: “We’re going to work in 2021” By Rich Miller "But new Speaker Emanuel “Chris” Welch told me earlier this month that “The legislature is back in business.
+We’re going to work in 2021.” Read Article → Read More Andrea Garcia January 22, 2021 UIC Law Alumnus Makes History in New Role as Illinois House Speaker “'I was that kid that always wanted to be a lawyer.
+When I was in grade school, in high school and in college, I was always involved in student government, so I would say my love of law and politics kind of grew together,' he said." Read Article → Read More Andrea Garcia January 21, 2021 From 'Kid from the woods' to Mr.
+Speaker, Welch Aims to Engage Legislators and Inspire 'Every Black Boy and Girl Out There' By Rachel Hinton "Welch, 49, has already accomplished the first thing on his agenda, which was to sit down with staff and prepare the House’s calendar for upcoming session days.
 It will be announced Thursday.
-“I do plan to have the Legislature very involved in the process,” he said."
-Read More
-By Michael Romain
-"A shivering crowd of at least 40 people gathered under snowfall and in 20-degree weather on Monday morning just across the street from Westlake to protest the recent decision by the hospital’s new owner to close the institution."
-Read More
+“I do plan to have the Legislature very involved in the process,” he said." Read Article → Read More Andrea Garcia January 14, 2021 'We Are Not Going to Let Them Close These Doors!' By Michael Romain "A shivering crowd of at least 40 people gathered under snowfall and in 20-degree weather on Monday morning just across the street from Westlake to protest the recent decision by the hospital’s new owner to close the institution." Read Article → Read More Andrea Garcia February 18, 2019 Older Meet Chris Priorities News Donate Volunteer District Map © Copyright #•Paid for by The People for Emanuel “Chris” Welch

@@ -1,5 +1,4 @@
-Susan’s Story
-Susan is a 5th-generation Oregonian, raised on farms in the north Willamette Valley.
+Donate email facebook youtube Home Susan’s Story Priorities Legislative Work Endorsements Navigation Home Susan’s Story Priorities Legislative Work Endorsements Susan’s Story Susan is a 5th-generation Oregonian, raised on farms in the north Willamette Valley.
 Her family valued integrity and a strong work ethic.
 When Susan was young, she got involved in 4-H and raised sheep, swine, and beef cattle with her brothers and sisters.
 She picked strawberries and green beans to make money for school clothes and pay for 4-H projects – these values of hard work and responsible spending have guided Susan throughout her life.
@@ -20,3 +19,4 @@ As someone who has served our community as an elected leader for 23 years, Susan
 It was – and always will be – important to Susan to make sure she is helping facilitate a government that is part of the solution, and not the problem.
 Susan has worked her whole life to give children a great education, protect Oregon’s beautiful farmlands, and find sensible solutions to allow families and the economy to thrive.
 She will continue to work every day in Salem for the same priorities.
+Main Menu Home Susan’s Story Priorities Legislative Work Endorsements Contact E-mail: info@susanmclain.org Mailing address: PO Box 3891 Hillsboro, OR 97123 Paid for by Friends of Susan McLain. © Friends of Susan McLain PAC ID: 16812

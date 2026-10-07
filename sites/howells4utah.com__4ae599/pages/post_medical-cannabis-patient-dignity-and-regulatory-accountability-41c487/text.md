@@ -1,9 +1,9 @@
-Medical cannabis, patient dignity, and regulatory accountability
-Updated: Aug 31
-Utah legalized medical cannabis because patients fought to be treated like patients.
+top of page HOME WHERE I STAND ON THE ISSUES ABOUT DREW SERVICE BEFORE SELF POLICY & PERSPECTIVE BLOG GET INVOLVED More Use tab to navigate through the menu items.
+Policy, Philosophy & Thoughts Search Medical cannabis, patient dignity, and regulatory accountability Drew Howells Jun 23 10 min read Updated: Aug 31 Utah legalized medical cannabis because patients fought to be treated like patients.
 We should never allow the system built from that victory to drift backward into treating them like suspects, revenue sources, or problems for regulators to manage.
 I was directly involved in drafting Proposition 2 and the Utah Medical Cannabis Act that followed.
 My position on this issue is grounded not only in principle, but in hands-on experience with how the system was built, how it was changed, and where it is currently failing the people it was supposed to serve.
+Gary Parker, Drew Howells, Des Hennesy, and Christine Stenquist, members of the TRUCE board and part of the core team behind Utah’s Proposition 2 medical cannabis campaign, at a Utah medical cannabis advocacy event.
 I did this work because medical cannabis is medicine.
 Patients deserve access to treatment without stigma, artificial barriers, political interference, or punitive regulation.
 Their medical decisions should be made with qualified professionals, not dictated by politicians or shaped around the convenience of regulatory agencies.
@@ -164,3 +164,7 @@ We helped create this program because patients deserved relief.
 The work now is to make sure the system remembers who it was built for.
 Patients are not the problem.
 They are the reason the program exists.
+Recent Posts See All We Are Building Data Centers Blind Education Is Where the Future Begins A vision for the future that is bold enough to matter Howells for Utah HD39 We can only achieve success in this campaign with your support.
+Please consider making a donation through ActBlue—it's quick and makes a BIG impact.
+Every dollar matters!
+Follow my Linktree - https://linktr.ee/HowellsForUtah © # by Howells for Utah HD39 Accessibility Statement Use of military rank, job titles, photographs in uniform, and references to military service does not imply endorsement by the Department of Defense, the Department of the Air Force, the Department of the Army, the National Guard, or any military service branch. bottom of page

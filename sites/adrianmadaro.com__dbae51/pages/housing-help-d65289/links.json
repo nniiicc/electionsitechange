@@ -1,49 +1,214 @@
 [
-"http://boston.gov/housingstability",
-"http://boston.gov/metrolist",
-"http://clvu.org/",
-"http://leahjeanphoto.com/",
-"https://adrianmadaro.com/",
-"https://adrianmadaro.com/category/education",
-"https://adrianmadaro.com/category/equality",
-"https://adrianmadaro.com/category/general",
-"https://adrianmadaro.com/category/mental-health",
-"https://adrianmadaro.com/category/resources",
-"https://adrianmadaro.com/contact",
-"https://adrianmadaro.com/get-involved",
-"https://adrianmadaro.com/housing-help/housingstability@boston.gov",
-"https://adrianmadaro.com/meet-adrian",
-"https://adrianmadaro.com/news-events",
-"https://adrianmadaro.com/resources",
-"https://boston.gov/departments/inspectional-services",
-"https://boston.gov/departments/neighborhood-development/office-housing-stability",
-"https://boston.gov/departments/neighborhood-development/office-housing-stability/rental-relief-fund",
-"https://boston.gov/node/13667416",
-"https://boston.gov/sites/default/files/file/2020/07/Housing%20Search%20During%20COVID%2019%20Workshop%20-%20English-20200609%202004-1%20(1).mp4",
-"https://boston.gov/sites/default/files/file/2020/07/taller%20de%20b%C3%BAsqueda%20de%20viviendas%20durante%20COVID-19-20200611%202006-1.mp4",
-"https://bostonhousing.org/en/Home.aspx",
-"https://docs.google.com/forms/d/e/1FAIpQLSf2fa5Gmk5TkGuFrCCuk4SnVxY0vgf8S4kvVWS1GL8MhnUj3Q/viewform?usp=sf_link",
-"https://docs.google.com/spreadsheets/d/1g0r6XR6PSpiDGCLlTRVAPaKN_tc8uT3x4KYeacZzg3A/edit?usp=sharing",
-"https://drive.google.com/file/d/1IQ7vIulhVrbFNjmaaknHEzEBNZo9Y3bF/view?usp=sharing",
-"https://drive.google.com/file/d/1MEmEkcTzvpmpHrtQ12YHrwbDxbVm-b_X/view?usp=sharing",
-"https://drive.google.com/file/d/1Stk_XBDYYe4yfXvDGTRT_XnFs-2TUfkZ/view?usp=sharing",
-"https://drive.google.com/file/d/1aoB6605hEURTOh0-MrtxIcn_5ikeqnFv/view?usp=sharing",
-"https://drive.google.com/file/d/1gmelTqYMggFklmtCN1L6BsmObv45m3jo/view?usp=sharing",
-"https://drive.google.com/file/d/1janNces8QF6scVPHZKfpSPhlQqgarkEv/view?usp=sharing",
-"https://drive.google.com/file/d/1lWSMfkPzVa_vF5isnPXbuoQM4NAW4UKT/view?usp=sharing",
-"https://drive.google.com/file/d/1m7ZhOooRk1hrd4xyBUm2eV-80TDpt5g1/view?usp=sharing",
-"https://drive.google.com/file/d/1qp4Cr_1WkGHGpS_w4QghBfk98Ejd1H2k/view?usp=sharing",
-"https://drive.google.com/file/d/1s6baQuX3OXBoPCxOkaeOy0X8lmVmHKUO/view?usp=sharing",
-"https://drive.google.com/file/d/1yzvtuT2JUgG9d76ALcryba9a15JhcEKS/view?usp=sharing",
-"https://evictionlegalhelp.org/",
-"https://facebook.com/adrianforrep",
-"https://goingclear.com/",
-"https://housingworks.net/",
-"https://instagram.com/adrianmadaro",
-"https://mass.gov/forms/eviction-help-request",
-"https://masslegalhelp.org/health-mental-health/covid-19-illegal-eviction",
-"https://metrohousingboston.org/",
-"https://publichousingapplication.ocd.state.ma.us/",
-"https://secure.actblue.com/donate/adrianmadaro",
-"https://twitter.com/adrianmadaro"
+{
+"text": "80 percent AMI",
+"href": "https://docs.google.com/spreadsheets/d/1g0r6XR6PSpiDGCLlTRVAPaKN_tc8uT3x4KYeacZzg3A/edit?usp=sharing"
+},
+{
+"text": "Boston Housing Authority",
+"href": "https://www.bostonhousing.org/en/Home.aspx"
+},
+{
+"text": "Boston Web Design",
+"href": "https://goingclear.com"
+},
+{
+"text": "Common Housing Application for Massachusetts Programs",
+"href": "https://publichousingapplication.ocd.state.ma.us/"
+},
+{
+"text": "Contact",
+"href": "https://www.adrianmadaro.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adrianmadaro"
+},
+{
+"text": "Donate Give. If you can.",
+"href": "https://secure.actblue.com/donate/adrianmadaro"
+},
+{
+"text": "Education",
+"href": "https://www.adrianmadaro.com/category/education/"
+},
+{
+"text": "English",
+"href": "https://drive.google.com/file/d/1m7ZhOooRk1hrd4xyBUm2eV-80TDpt5g1/view?usp=sharing"
+},
+{
+"text": "English",
+"href": "https://www.boston.gov/sites/default/files/file/2020/07/Housing%20Search%20During%20COVID%2019%20Workshop%20-%20English-20200609%202004-1%20(1).mp4"
+},
+{
+"text": "Equality",
+"href": "https://www.adrianmadaro.com/category/equality/"
+},
+{
+"text": "Español",
+"href": "https://drive.google.com/file/d/1IQ7vIulhVrbFNjmaaknHEzEBNZo9Y3bF/view?usp=sharing"
+},
+{
+"text": "Follow us on Instagram",
+"href": "https://www.instagram.com/adrianmadaro/"
+},
+{
+"text": "Follow us on Twitter",
+"href": "https://twitter.com/adrianmadaro"
+},
+{
+"text": "Français",
+"href": "https://drive.google.com/file/d/1janNces8QF6scVPHZKfpSPhlQqgarkEv/view?usp=sharing"
+},
+{
+"text": "General",
+"href": "https://www.adrianmadaro.com/category/general/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.adrianmadaro.com/get-involved/"
+},
+{
+"text": "Get Involved We’d Love to Have your Support.",
+"href": "https://www.adrianmadaro.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.adrianmadaro.com"
+},
+{
+"text": "Home",
+"href": "https://www.adrianmadaro.com/"
+},
+{
+"text": "HousingWorks",
+"href": "https://housingworks.net/"
+},
+{
+"text": "INSPECTIONAL SERVICES",
+"href": "https://www.boston.gov/departments/inspectional-services"
+},
+{
+"text": "Kreyòl ayisyen",
+"href": "https://drive.google.com/file/d/1lWSMfkPzVa_vF5isnPXbuoQM4NAW4UKT/view?usp=sharing"
+},
+{
+"text": "Kriolu Kabuverdianu",
+"href": "https://drive.google.com/file/d/1MEmEkcTzvpmpHrtQ12YHrwbDxbVm-b_X/view?usp=sharing"
+},
+{
+"text": "Latest News & Events",
+"href": "https://www.adrianmadaro.com/news-events/"
+},
+{
+"text": "Leah Jean Photography",
+"href": "http://leahjeanphoto.com/"
+},
+{
+"text": "Learn about the eviction process",
+"href": "https://www.boston.gov/node/13667416"
+},
+{
+"text": "Like us on Facebook",
+"href": "https://www.facebook.com/adrianforrep/"
+},
+{
+"text": "Meet Adrian",
+"href": "https://www.adrianmadaro.com/meet-adrian/"
+},
+{
+"text": "Mental Health",
+"href": "https://www.adrianmadaro.com/category/mental-health/"
+},
+{
+"text": "MetroHousing Boston",
+"href": "https://www.metrohousingboston.org/"
+},
+{
+"text": "Metrolist",
+"href": "http://www.boston.gov/metrolist"
+},
+{
+"text": "News & Events",
+"href": "https://www.adrianmadaro.com/news-events/"
+},
+{
+"text": "OHSintake@boston.gov",
+"href": "mailto:OHSintake@boston.gov"
+},
+{
+"text": "Office of Housing Stability",
+"href": "https://www.boston.gov/departments/neighborhood-development/office-housing-stability"
+},
+{
+"text": "Português",
+"href": "https://drive.google.com/file/d/1Stk_XBDYYe4yfXvDGTRT_XnFs-2TUfkZ/view?usp=sharing"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianmadaro.com/category/resources/"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianmadaro.com/resources/"
+},
+{
+"text": "Soomaali",
+"href": "https://drive.google.com/file/d/1s6baQuX3OXBoPCxOkaeOy0X8lmVmHKUO/view?usp=sharing"
+},
+{
+"text": "Spanish",
+"href": "https://www.boston.gov/sites/default/files/file/2020/07/taller%20de%20b%C3%BAsqueda%20de%20viviendas%20durante%20COVID-19-20200611%202006-1.mp4"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://drive.google.com/file/d/1yzvtuT2JUgG9d76ALcryba9a15JhcEKS/view?usp=sharing"
+},
+{
+"text": "[image]",
+"href": "https://www.adrianmadaro.com/"
+},
+{
+"text": "boston.gov/housingstability",
+"href": "http://boston.gov/housingstability"
+},
+{
+"text": "fill out this form",
+"href": "https://www.mass.gov/forms/eviction-help-request"
+},
+{
+"text": "housingstability@boston.gov",
+"href": "https://www.adrianmadaro.com/housing-help/housingstability@boston.gov"
+},
+{
+"text": "online form",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf2fa5Gmk5TkGuFrCCuk4SnVxY0vgf8S4kvVWS1GL8MhnUj3Q/viewform?usp=sf_link"
+},
+{
+"text": "rental assistance program",
+"href": "https://www.boston.gov/departments/neighborhood-development/office-housing-stability/rental-relief-fund"
+},
+{
+"text": "this MassLegalHelp page",
+"href": "https://www.masslegalhelp.org/health-mental-health/covid-19-illegal-eviction"
+},
+{
+"text": "website",
+"href": "http://clvu.org"
+},
+{
+"text": "website",
+"href": "https://evictionlegalhelp.org/"
+},
+{
+"text": "русский",
+"href": "https://drive.google.com/file/d/1qp4Cr_1WkGHGpS_w4QghBfk98Ejd1H2k/view?usp=sharing"
+},
+{
+"text": "عربى",
+"href": "https://drive.google.com/file/d/1gmelTqYMggFklmtCN1L6BsmObv45m3jo/view?usp=sharing"
+},
+{
+"text": "中文",
+"href": "https://drive.google.com/file/d/1aoB6605hEURTOh0-MrtxIcn_5ikeqnFv/view?usp=sharing"
+}
 ]

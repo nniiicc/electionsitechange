@@ -1,9 +1,5 @@
-Educator Professional Development - Course on Well-Being and Flourishing
-Bill Name
-Educator Professional Development - Course on Well-Being and Flourishing
-Bill Number
-HB 546
-Year
-2026
-Priority Areas: Wellbeing
-HB 546: Tasks the Maryland State Department of Education (MSDE) with providing an accredited, credit-bearing, elective professional development course that equips educators with wellbeing know-how and tools so they can better manage their own wellbeing; especially when stress and work challenges are leading many educators to leave the profession
+0 Skip to Content Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Folder: Legislation Back Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants Folder: 2026 Election Back 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Folder: Opportunities Back Scholarships Volunteer Contact Educator Professional Development - Course on Well-Being and Flourishing Bill Name Educator Professional Development - Course on Well-Being and Flourishing Bill Number HB 546 Year 2026 Priority Areas: Wellbeing Learn More HB 546: Tasks the Maryland State Department of Education (MSDE) with providing an accredited, credit-bearing, elective professional development course that equips educators with wellbeing know-how and tools so they can better manage their own wellbeing; especially when stress and work challenges are leading many educators to leave the profession Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Sarah Wolek Sign-up for an email newsletter from Delegate Wolek!
+First Name Last Name Email Address Join Now Thank you!
+By Authority: Friends of Sarah Wolek; Oliver Hanson, Treasurer.

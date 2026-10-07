@@ -1,48 +1,5 @@
-Meet Sylvia
-Accomplishments
-Endorsements
-Issues
-News
-Contact
-More
-Congresswoman,
-TX Congressional District 7
-Congresswoman,
-CA Congressional District 43
-House Minority Leader
-Senator,
-TX Senate District 6
-Senator,
-TX Senate District 15
-State Representative,
-TX House District 135
-State Representative,
-TX House District 137
-State Representative,
-TX House District 144
-State Representative,
-TX House District 145
-State Representative,
-TX House District 148
-Harris County Judge
-Harris County
-Tax Assesor-Collector
-Harris County
-Commissioner, Precinct 1
-Harris County
-Commissioner, Precinct 2
-Harris County
-Commissioner, Precinct 4
-Harris County
-Constable, Precinct 6
-Mayor of Houston
-Houston's Mayor Pro Tem
-Houston City Council Member, District B
-Houston City Council Member, District H
-Houston City Council Member, District I
-Former Houston Council
-Member
-Houston City College
-Trustee
-Houston City College
-Trustee
+top of page Meet Sylvia Accomplishments Endorsements Issues News Contact More Use tab to navigate through the menu items.
+DONATE ENDORSEMENTS Lizzie Fletcher Congresswoman, TX Congressional District 7 Maxine Waters Congresswoman, CA Congressional District 43 Hakeem Jeffries House Minority Leader ​ Carol Alvarado Senator, TX Senate District 6 Molly Cook Senator, TX Senate District 15 Jon Rosenthal State Representative, TX House District 135 Gene Wu State Representative, TX House District 137 Mary Ann Perez State Representative, TX House District 144 Christina Morales State Representative, TX House District 145 Penny Morales Shaw State Representative, TX House District 148 Lina Hidalgo Harris County Judge ​ Annette Ramirez Harris County Tax Assesor-Collector Rodney Ellis Harris County Commissioner, Precinct 1 Adrian Garcia Harris County Commissioner, Precinct 2 Lesley Briones Harris County Commissioner, Precinct 4 Silvia Trevino Harris County Constable, Precinct 6 John Whitmire Mayor of Houston ​ Martha Castex-Tatum Houston's Mayor Pro Tem ​ Tarsha Jackson Houston City Council Member, District B ​ Mario Castillo Houston City Council Member, District H Joaquin Martinez Houston City Council Member, District I Jerry Davis Former Houston Council Member Eva L.
+Loredo Houston City College Trustee Adriana Tamez Houston City College Trustee COMMUNITY LEADERS Area 5 Democrats Chair Jennifer Halvorson CD29 Chair Steve Halverson Precinct 448 Chair Rafael Lemaitre Precinct 189 Chair Elvia Alvarado JOIN THE FIGHT Donate Volunteer Contact the Campaign (832) 899-5390 PO Box 8530, Houston, TX 77249 team@sylviaforcongress.com Thank you for visiting my campaign website.
+If your intention was to visit my official Government website, please visit sylviagarcia.house.gov .
+PAID FOR BY SYLVIA GARCIA FOR CONGRESS bottom of page

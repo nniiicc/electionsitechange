@@ -1,0 +1,12 @@
+Skip to content Chris Mann for Kansas Meet Chris Priorities Get Involved Merch Vote News Donate Kansas State Lodge Fraternal Order of Police Endorses Chris Mann for Kansas Attorney General October 6, 2026 LAWRENCE, KS — As first reported by the Topeka Capital Journal , the Kansas State Lodge Fraternal Order of Police (FOP) has announced its endorsement of Chris Mann in the state’s attorney general race.
+Mann is the first Democratic Attorney General candidate to be endorsed by the organization in nearly 25 years.
+The Kansas State Lodge FOP represents more than 4,300 sworn law enforcement officers, working to advance members’ dedication to fair and effective crime control and law enforcement.
+“As a former police officer turned prosecutor, Chris Mann has a deep understanding of the issues facing our law enforcement community, which we believe makes him uniquely equipped to serve as Kansas’ next Attorney General,” said Amanda Wood, President of the Kansas State Lodge FOP.
+“Chris’ commitment to public safety, support for law enforcement, and dedication to serving the people of Kansas makes him the ideal candidate.
+We believe his leadership will greatly benefit the people of Kansas, and our members were overwhelming in their support of his campaign.” Over the past year, Mann has met with dozens of chiefs of police, sheriffs, and law enforcement leaders across Kansas, learning more about the unique issues facing Kansas law enforcement and communities.
+As a former police officer and decades-long member of his local FOP Lodge, Mann is honored to receive the endorsement of the Kansas State Lodge FOP.
+“I am honored to have earned the Kansas State Lodge FOP’s endorsement, and I look forward to working closely with them when I am in office.
+Kansas law enforcement deserves a strong partner in the Attorney General’s office,” said Chris Mann, candidate for Kansas Attorney General.
+“As Attorney General, I will work with local and state law enforcement to make sure our communities are protected, and agencies receive the support they need to keep Kansans safe.” ### Post navigation Previous: Chris Mann leads over incumbent Kris Kobach in the latest poll in Kansas Attorney General race Meet Chris Priorities Get Involved Merch Vote News Donate Facebook X Instagram PO Box 4005 Overland Park, KS 66204 Info@chrismannforkansas.com Paid for by Chris Mann for Kansas, Jill S.
+Docking Treasurer.
+Privacy Policy

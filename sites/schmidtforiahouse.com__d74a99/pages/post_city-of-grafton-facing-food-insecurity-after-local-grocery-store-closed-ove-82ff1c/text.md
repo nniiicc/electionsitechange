@@ -1,13 +1,13 @@
-City of Grafton facing food insecurity after local grocery store closed over a year ago
-Updated: Apr 5
-February 4, 2025 by Alexander Schmidt for KAAL-TV
-(ABC 6 News) — Since losing their local grocer, the small north Iowa town of Grafton is finding itself on the front lines in the battle against food insecurity.
+top of page Menu Schmidt for IA House Donate Close State Politics Religion Education Health Agriculture Economy Terms & Conditions Privacy Policy Accessibility Statement Contact Us State Politics Religion Education Health Agriculture Economy Donate All Posts Health Politics Education Religion Rural Iowa Agriculture Economy Environment City of Grafton facing food insecurity after local grocery store closed over a year ago Apr 2 2 min read Updated: Apr 5 February 4, 2025 by Alexander Schmidt for KAAL-TV (ABC 6 News) — Since losing their local grocer, the small north Iowa town of Grafton is finding itself on the front lines in the battle against food insecurity.
 It is an issue being seen across the State of Iowa as according to Feeding America, around 344,000 people are facing hunger in Iowa with about 110,000 of those people being children.
 That breaks down to one in nine people and one in six children being in need of food.
 The Grafton J-Mart closed a year and a half ago, and as a result, people living in the city have to drive up to 20 miles away to get a loaf of bread, a container of milk, and a stick of butter.
-That means the city and the more than 200 people that live there are now in what is called a “food desert.”
-A food desert is a community where people have limited access to healthy and affordable food.
+That means the city and the more than 200 people that live there are now in what is called a “food desert.” A food desert is a community where people have limited access to healthy and affordable food.
 Sandy Brusewitz, a resident in Grafton, said fundraising efforts are coming in from the non-profit Grafton Community Action.
 “Our last owner had it for over 30 years, I believe, and he did a good job with it and had a good produce.
 And, you know, provided the town with was what we needed. really hoping to get some kind of maybe at least a co-op going here, They’ve talked about having some vending machines, maybe to start out with, with some primary things that people are always looking for,” Brusewitz said.
 According to Brusewitz, efforts are still in the planning stage, but one upcoming event that will benefit those efforts is Grafton’s annual adult prom, which will be held at the community center on March 1.
+Rural Iowa Recent Posts See All Campaign Blog: 99 Days and I need your help Campaign Blog: Independence Day Campaign Blog: Schmidt earns Iowa Federation of Labor endorsement Join Our Movement to Take Back Iowa Be a part of something that you will be proud of the rest of your life... help Alexander Schmidt win Iowa House - District 60 and make Iowa the welcoming state it was always intended to be.
+First name Last name Phone Email * How can you help our campaign?
+Yard sign Volunteer Host an event Other Send Alexander Schmidt for Iowa House Categories State Politics Religion Education Health Rural Iowa Environment Agriculture Economy Popular Tags No tags yet.
+Contact Us Privacy Policy © # PAID FOR BY ALEXANDER SCHMIDT FOR IOWA HOUSE State Politics Religion Education Health Agriculture Economy bottom of page

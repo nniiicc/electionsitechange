@@ -1,17 +1,62 @@
 [
-"http://facebook.com/wix",
-"http://twitter.com/wix",
-"https://facebook.com/ken.reed.7906",
-"https://instagram.com/wix",
-"https://kenreedforwv.com/",
-"https://kenreedforwv.com/contact-info",
-"https://kenreedforwv.com/endorsements",
-"https://kenreedforwv.com/general-5",
-"https://kenreedforwv.com/get-involved",
-"https://kenreedforwv.com/issues",
-"https://kenreedforwv.com/meet-tally",
-"https://kenreedforwv.com/news",
-"https://pinterest.com/wixcom",
-"https://tumblr.com/",
-"https://youtube.com/user/Wix"
+{
+"text": "CONTACT INFO",
+"href": "https://www.kenreedforwv.com/contact-info"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.kenreedforwv.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.kenreedforwv.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.kenreedforwv.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.kenreedforwv.com/issues"
+},
+{
+"text": "MEET KEN",
+"href": "https://www.kenreedforwv.com/meet-tally"
+},
+{
+"text": "NEWS",
+"href": "https://www.kenreedforwv.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kenreedforwv.com/general-5"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/wix"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ken.reed.7906"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/wix/"
+},
+{
+"text": "[image: Pinterest]",
+"href": "https://www.pinterest.com/wixcom/"
+},
+{
+"text": "[image: Tumblr Social Icon]",
+"href": "https://www.tumblr.com/"
+},
+{
+"text": "[image: Twitter]",
+"href": "http://www.twitter.com/wix"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/user/Wix"
+}
 ]

@@ -1,9 +1,34 @@
 [
-"https://friendsforsamkong.com/",
-"https://friendsforsamkong.com/about",
-"https://friendsforsamkong.com/campaign",
-"https://friendsforsamkong.com/community-support",
-"https://friendsforsamkong.com/gallery-1",
-"https://friendsforsamkong.com/get-involved",
-"https://friendsforsamkong.com/priorities"
+{
+"text": "About",
+"href": "https://www.friendsforsamkong.com/about"
+},
+{
+"text": "Campaign",
+"href": "https://www.friendsforsamkong.com/campaign"
+},
+{
+"text": "Community Support",
+"href": "https://www.friendsforsamkong.com/community-support"
+},
+{
+"text": "Gallery",
+"href": "https://www.friendsforsamkong.com/gallery-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.friendsforsamkong.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.friendsforsamkong.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.friendsforsamkong.com/priorities"
+},
+{
+"text": "samkong@hawaii.rr.com",
+"href": "mailto:samkong@hawaii.rr.com"
+}
 ]

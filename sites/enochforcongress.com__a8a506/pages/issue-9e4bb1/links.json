@@ -1,32 +1,178 @@
 [
-"https://campaignhq.app/volunteer",
-"https://enochforcongress.com/",
-"https://enochforcongress.com/about-ohios-8th-congressional-district",
-"https://enochforcongress.com/bio",
-"https://enochforcongress.com/blog",
-"https://enochforcongress.com/community-survey",
-"https://enochforcongress.com/contact",
-"https://enochforcongress.com/donate-now",
-"https://enochforcongress.com/endorsements",
-"https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such",
-"https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting",
-"https://enochforcongress.com/events",
-"https://enochforcongress.com/issue",
-"https://enochforcongress.com/issue/a-secure-and-prosperous-future",
-"https://enochforcongress.com/issue/advancing-technology-responsibly",
-"https://enochforcongress.com/issue/homes-and-communities-as-foundations-for-wellbeing",
-"https://enochforcongress.com/issue/reducing-rising-healthcare-costs",
-"https://enochforcongress.com/issue/reimagining-work-and-opportunity",
-"https://enochforcongress.com/issue/responsible-gun-ownership",
-"https://enochforcongress.com/issue/restoring-trust-and-integrity-in-our-democracy-and-economy",
-"https://enochforcongress.com/product/free-yard-sign",
-"https://enochforcongress.com/shop",
-"https://enochforcongress.com/volunteer",
-"https://enochforcongress.com/volunteer-portal",
-"https://enochforcongress.com/voting-in-2026",
-"https://facebook.com/1DocEnoch",
-"https://instagram.com/doc.enoch",
-"https://linkedin.com/in/dr-vanessa-enoch",
-"https://pinterest.com/EnochforCongress",
-"https://twitter.com/DrVEnoch"
+{
+"text": "About",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Advancing Technology Responsibly",
+"href": "https://enochforcongress.com/issue/advancing-technology-responsibly/"
+},
+{
+"text": "Biography",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Blog",
+"href": "https://enochforcongress.com/blog/"
+},
+{
+"text": "Building a secure and prosperous future for everyone",
+"href": "https://enochforcongress.com/issue/a-secure-and-prosperous-future/"
+},
+{
+"text": "Contact",
+"href": "https://enochforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://enochforcongress.com/donate-now/"
+},
+{
+"text": "Endorsements",
+"href": "https://enochforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/1DocEnoch/"
+},
+{
+"text": "Home",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "Homes and communities as foundations for wellbeing",
+"href": "https://enochforcongress.com/issue/homes-and-communities-as-foundations-for-wellbeing/"
+},
+{
+"text": "Income Inequality",
+"href": "https://enochforcongress.com/issue/a-secure-and-prosperous-future/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/doc.enoch/"
+},
+{
+"text": "Investing in health for shared prosperity",
+"href": "https://enochforcongress.com/issue/reducing-rising-healthcare-costs/"
+},
+{
+"text": "Issues",
+"href": "https://enochforcongress.com/issue/"
+},
+{
+"text": "Job, Economic Growth & Opportunity",
+"href": "https://enochforcongress.com/issue/homes-and-communities-as-foundations-for-wellbeing/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/dr-vanessa-enoch/"
+},
+{
+"text": "October Meet & Greet with Dr. Vanessa Enoch @ Major Minor Books and Such",
+"href": "https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such/"
+},
+{
+"text": "October Wooster Corridor Democrats Meeting",
+"href": "https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting/"
+},
+{
+"text": "Ohio’s 8th Congressional District",
+"href": "https://enochforcongress.com/about-ohios-8th-congressional-district/"
+},
+{
+"text": "Order a Yard Sign",
+"href": "https://enochforcongress.com/product/free-yard-sign/"
+},
+{
+"text": "Pinterest",
+"href": "https://www.pinterest.com/EnochforCongress/"
+},
+{
+"text": "Reimagining work and opportunity",
+"href": "https://enochforcongress.com/issue/reimagining-work-and-opportunity/"
+},
+{
+"text": "Responsible Gun Ownership",
+"href": "https://enochforcongress.com/issue/responsible-gun-ownership/"
+},
+{
+"text": "Restoring trust and integrity in our democracy and economy",
+"href": "https://enochforcongress.com/issue/restoring-trust-and-integrity-in-our-democracy-and-economy/"
+},
+{
+"text": "Share Your Opinion",
+"href": "https://enochforcongress.com/community-survey/"
+},
+{
+"text": "Shop",
+"href": "https://enochforcongress.com/shop/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/DrVEnoch"
+},
+{
+"text": "Upcoming Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "Volunteer",
+"href": "https://campaignhq.app/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://enochforcongress.com/volunteer/"
+},
+{
+"text": "Volunteer Portal",
+"href": "https://enochforcongress.com/volunteer-portal/"
+},
+{
+"text": "Voting Rights",
+"href": "https://enochforcongress.com/issue/restoring-trust-and-integrity-in-our-democracy-and-economy/"
+},
+{
+"text": "Voting in 2026",
+"href": "https://enochforcongress.com/voting-in-2026/"
+},
+{
+"text": "[image: Vanessa Enoch for Congress]",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/issue/a-secure-and-prosperous-future/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/issue/advancing-technology-responsibly/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/issue/homes-and-communities-as-foundations-for-wellbeing/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/issue/reducing-rising-healthcare-costs/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/issue/reimagining-work-and-opportunity/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/issue/responsible-gun-ownership/"
+},
+{
+"text": "[image]",
+"href": "https://enochforcongress.com/issue/restoring-trust-and-integrity-in-our-democracy-and-economy/"
+},
+{
+"text": "dr.enoch@enochforcongress.com",
+"href": "mailto:dr.enoch@enochforcongress.com"
+}
 ]

@@ -1,6 +1,5 @@
-Chester County Manhunt is the Latest Example of Failed Immigration Policies
-September 6, 2023
-As the grandson of immigrants from Ireland, Hungary and Italy, I readily acknowledge the benefits of legal entry into this country.
+PA State Rep.
+Mark Gillen Serving PA's 128th Legislative District Subscribe Home About Bio Newsroom Latest News Video Livestreams Events 128th District District Map Resources Citizens Access Portal State Government Links Property Tax/Rent Rebate PennDOT Forms Contact Chester County Manhunt is the Latest Example of Failed Immigration Policies September 6, 2023 As the grandson of immigrants from Ireland, Hungary and Italy, I readily acknowledge the benefits of legal entry into this country.
 But when I see thousands illegally entering our country every day, I am angered when one of those individuals goes on a murderous crime spree and disrupts the lives of those in our community.
 Late last week, Danelo Cavalcante, a former street gang member from Brazil, escaped the Chester County Prison.
 Cavalcante originally came to our country illegally after fleeing Brazil to Puerto Rico following the 2017 killing of a man who owed him money.
@@ -29,13 +28,7 @@ Literally millions of Pennsylvanians have had their lives thrown into chaos out 
 I am grateful to all our local, state and federal law enforcement officers who have always and will continually display a willingness to pay the ultimate price, if need be, to protect the public they are sworn to serve.
 The rule of law is not being enforced when it comes to immigration, and these are the tragic results of that failure.
 It is time for a dramatic policy.
-Representative Mark Gillen
-128th District
-Pennsylvania House of Representatives
-Media Contact: Melissa Fox
-717-307-8459
-mefox@pahousegop.com
-RepGillen.com / Facebook.com/RepGillen
-Sign Up to Receive Legislative Email Updates
-Keep up-to-date on the latest legislative and community news.
+Representative Mark Gillen 128th District Pennsylvania House of Representatives Media Contact: Melissa Fox 717-307-8459 mefox@pahousegop.com RepGillen.com / Facebook.com/RepGillen Share Sign Up to Receive Legislative Email Updates Keep up-to-date on the latest legislative and community news.
 Your email address will be used strictly for legislative purposes.
+Email* ZIP Code Subscribe Office Locations FLYING HILLS (CUMRU TWP.) 29 Village Center Drive Suite A-7 Reading, PA 19607 610-775-5130 AMITY TOWNSHIP Amity Township Building 2004 Weavertown Road Douglassville, PA 19518 610-385-0704 CAPITOL 18 East Wing PO Box 202128 Harrisburg, PA 17120-2128 717-787-8550 TTY: 855-282-0614 © # PA House Republican Caucus.
+Terms of use Home About Bio Newsroom Latest News Video Livestreams Events 128th District District Map Resources Citizens Access Portal State Government Links Property Tax/Rent Rebate PennDOT Forms Contact

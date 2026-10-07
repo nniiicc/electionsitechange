@@ -1,16 +1,62 @@
 [
-"https://facebook.com/VoteMercedes2026",
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://linkedin.com/company/wix-com/mycompany",
-"https://mercedes2026.com/",
-"https://mercedes2026.com/about",
-"https://mercedes2026.com/about-2",
-"https://mercedes2026.com/community",
-"https://mercedes2026.com/donate",
-"https://mercedes2026.com/endorsements",
-"https://mercedes2026.com/register-to-vote-absentee",
-"https://mercedes2026.com/volunteer",
-"https://swipesimple.com/links/lnk_57d66b097d9f8d5412c056d39e6f659b",
-"https://twitter.com/wix"
+{
+"text": "About",
+"href": "https://www.mercedes2026.com/about"
+},
+{
+"text": "Community",
+"href": "https://www.mercedes2026.com/community"
+},
+{
+"text": "DONATE",
+"href": "https://www.mercedes2026.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mercedes2026.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.mercedes2026.com"
+},
+{
+"text": "Record",
+"href": "https://www.mercedes2026.com/about-2"
+},
+{
+"text": "Register to Vote / Absentee",
+"href": "https://www.mercedes2026.com/register-to-vote-absentee"
+},
+{
+"text": "Volunteer / Contact",
+"href": "https://www.mercedes2026.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteMercedes2026"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/company/wix-com/mycompany/"
+},
+{
+"text": "[image: Swipe Simple.png]",
+"href": "https://swipesimple.com/links/lnk_57d66b097d9f8d5412c056d39e6f659b"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/wix"
+},
+{
+"text": "votemercedes2026@gmail.com",
+"href": "mailto:votemercedes2026@gmail.com"
+}
 ]

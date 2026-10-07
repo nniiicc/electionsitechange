@@ -1,4 +1,4 @@
-I’m Matt Gile.
+Skip to content Meet Matt Issues Lawn Signs Endorsements Donate Meet Matt I’m Matt Gile.
 I’m a school librarian, labor activist, and proud progressive.
 I’m running to represent the people of Winooski because I know that the issues Vermonters face–housing affordability, access to and cost of healthcare, out of control immigration enforcement–can be addressed by our state.
 But there are no small solutions to these problems.
@@ -24,3 +24,6 @@ I’ve run the Chill Snowboarding program in Winooski for the past 6 years and I
 Currently I serve on the board of the Bolton Outdoor Adventure Fund, whose mission is to give underrepresented kids the opportunity to explore the outdoors.
 Previously I served on the board for the Waterbury Area Trail Alliance, a chapter of the Vermont Mountain Biking Association.
 We built and maintained trails for a healthy, vibrant, and sustainable future.
+Matt Gile PO Box 29 Winooski, VT 05404 MattGileForWinooski@gmail.com Donate Follow us Instagram Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

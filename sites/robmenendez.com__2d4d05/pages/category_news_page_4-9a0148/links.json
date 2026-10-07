@@ -1,36 +1,190 @@
 [
-"https://bsky.app/profile/robmenendez.com",
-"https://facebook.com/RobMenendez4NJ",
-"https://instagram.com/robmenendez4nj",
-"https://robmenendez.com/",
-"https://robmenendez.com/2024/04/15/congressman-rob-menendez-hosts-democratic-caucus-chair-in-jersey-city",
-"https://robmenendez.com/2024/04/18/ibew-local-164-endorses-congressman-menendez-for-re-election-in-2024",
-"https://robmenendez.com/2024/05/03/statement-of-ila-president-harold-j-daggett-supporting-reelection-of-congressman-robert-j-menendez-to-new-jerseys-eighth-congressional-district",
-"https://robmenendez.com/2024/05/07/communications-workers-of-america-endorse-rob-menendez-for-re-election-to-congress-in-2024",
-"https://robmenendez.com/2024/05/07/menendez-for-congress-campaign-launches-first-english-and-spanish-video-ads",
-"https://robmenendez.com/2024/05/08/now-pac-backs-congressman-rob-menendez-for-re-election-in-2024",
-"https://robmenendez.com/2024/05/10/u-s-senator-cory-booker-endorses-congressman-rob-menendez-for-re-election-in-2024",
-"https://robmenendez.com/2024/05/13/new-jersey-state-council-of-machinists-supports-congressman-rob-menendez-for-re-election-in-2024",
-"https://robmenendez.com/2024/05/16/teamsters-joint-council-73-endorses-representative-rob-menendez-for-re-election-to-congress-in-2024",
-"https://robmenendez.com/2024/05/17/latino-victory-fund-endorses-rob-menendez-for-re-election-to-congress-in-2024",
-"https://robmenendez.com/accessibility-statement",
-"https://robmenendez.com/category/news",
-"https://robmenendez.com/category/news/page/1",
-"https://robmenendez.com/category/news/page/12",
-"https://robmenendez.com/category/news/page/2",
-"https://robmenendez.com/category/news/page/3",
-"https://robmenendez.com/category/news/page/5",
-"https://robmenendez.com/category/news/page/6",
-"https://robmenendez.com/category/news/page/7",
-"https://robmenendez.com/cdn-cgi/l/email-protection",
-"https://robmenendez.com/endorsements-2",
-"https://robmenendez.com/get-involved",
-"https://robmenendez.com/meet-rob",
-"https://robmenendez.com/priorities",
-"https://robmenendez.com/privacy-policy",
-"https://robmenendez.com/votinginfo",
-"https://robmenendez.com/what-voters-need-to-know",
-"https://secure.actblue.com/donate/robmenendez-website",
-"https://threads.net/@robmenendez4nj",
-"https://twitter.com/RobMenendez4NJ"
+{
+"text": "1",
+"href": "https://www.robmenendez.com/category/news/page/1/"
+},
+{
+"text": "12",
+"href": "https://www.robmenendez.com/category/news/page/12/"
+},
+{
+"text": "2",
+"href": "https://www.robmenendez.com/category/news/page/2/"
+},
+{
+"text": "3",
+"href": "https://www.robmenendez.com/category/news/page/3/"
+},
+{
+"text": "5",
+"href": "https://www.robmenendez.com/category/news/page/5/"
+},
+{
+"text": "6",
+"href": "https://www.robmenendez.com/category/news/page/6/"
+},
+{
+"text": "7",
+"href": "https://www.robmenendez.com/category/news/page/7/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.robmenendez.com/accessibility-statement/"
+},
+{
+"text": "Communications Workers of America Endorse Rob Menendez for Re-Election to Congress in 2024",
+"href": "https://www.robmenendez.com/2024/05/07/communications-workers-of-america-endorse-rob-menendez-for-re-election-to-congress-in-2024/"
+},
+{
+"text": "Congressman Rob Menendez Hosts Democratic Caucus Chair in Jersey City",
+"href": "https://www.robmenendez.com/2024/04/15/congressman-rob-menendez-hosts-democratic-caucus-chair-in-jersey-city/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/robmenendez-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.robmenendez.com/endorsements-2/"
+},
+{
+"text": "Follow on bluesky",
+"href": "https://bsky.app/profile/robmenendez.com"
+},
+{
+"text": "Follow on facebook",
+"href": "https://www.facebook.com/RobMenendez4NJ"
+},
+{
+"text": "Follow on instagram",
+"href": "https://www.instagram.com/robmenendez4nj/"
+},
+{
+"text": "Follow on threads",
+"href": "https://www.threads.net/@robmenendez4nj"
+},
+{
+"text": "Follow on twitter",
+"href": "https://twitter.com/RobMenendez4NJ"
+},
+{
+"text": "Get Involved",
+"href": "https://www.robmenendez.com/get-involved/"
+},
+{
+"text": "IBEW Local 164 Endorses Congressman Menendez for Re-Election in 2024",
+"href": "https://www.robmenendez.com/2024/04/18/ibew-local-164-endorses-congressman-menendez-for-re-election-in-2024/"
+},
+{
+"text": "Latest News",
+"href": "https://www.robmenendez.com/category/news/"
+},
+{
+"text": "Latino Victory Fund Endorses Rob Menendez for Re-Election to Congress in 2024",
+"href": "https://www.robmenendez.com/2024/05/17/latino-victory-fund-endorses-rob-menendez-for-re-election-to-congress-in-2024/"
+},
+{
+"text": "Meet Rob",
+"href": "https://www.robmenendez.com/meet-rob/"
+},
+{
+"text": "Menendez for Congress Campaign Launches First English and Spanish Video Ads",
+"href": "https://www.robmenendez.com/2024/05/07/menendez-for-congress-campaign-launches-first-english-and-spanish-video-ads/"
+},
+{
+"text": "NOW PAC Backs Congressman Rob Menendez for Re-Election in 2024",
+"href": "https://www.robmenendez.com/2024/05/08/now-pac-backs-congressman-rob-menendez-for-re-election-in-2024/"
+},
+{
+"text": "New Jersey State Council of Machinists Supports Congressman Rob Menendez for Re-Election in 2024",
+"href": "https://www.robmenendez.com/2024/05/13/new-jersey-state-council-of-machinists-supports-congressman-rob-menendez-for-re-election-in-2024/"
+},
+{
+"text": "Priorities",
+"href": "https://www.robmenendez.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.robmenendez.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2024/04/15/congressman-rob-menendez-hosts-democratic-caucus-chair-in-jersey-city/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2024/04/18/ibew-local-164-endorses-congressman-menendez-for-re-election-in-2024/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2024/05/03/statement-of-ila-president-harold-j-daggett-supporting-reelection-of-congressman-robert-j-menendez-to-new-jerseys-eighth-congressional-district/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2024/05/07/communications-workers-of-america-endorse-rob-menendez-for-re-election-to-congress-in-2024/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2024/05/07/menendez-for-congress-campaign-launches-first-english-and-spanish-video-ads/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2024/05/08/now-pac-backs-congressman-rob-menendez-for-re-election-in-2024/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2024/05/10/u-s-senator-cory-booker-endorses-congressman-rob-menendez-for-re-election-in-2024/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2024/05/13/new-jersey-state-council-of-machinists-supports-congressman-rob-menendez-for-re-election-in-2024/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2024/05/16/teamsters-joint-council-73-endorses-representative-rob-menendez-for-re-election-to-congress-in-2024/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2024/05/17/latino-victory-fund-endorses-rob-menendez-for-re-election-to-congress-in-2024/"
+},
+{
+"text": "Statement of ILA President Harold J. Daggett Supporting Reelection of Congressman Robert J. Menendez to New Jersey’s Eighth Congressional District",
+"href": "https://www.robmenendez.com/2024/05/03/statement-of-ila-president-harold-j-daggett-supporting-reelection-of-congressman-robert-j-menendez-to-new-jerseys-eighth-congressional-district/"
+},
+{
+"text": "Teamsters Joint Council 73 Endorses Representative Rob Menendez for Re-Election to Congress in 2024",
+"href": "https://www.robmenendez.com/2024/05/16/teamsters-joint-council-73-endorses-representative-rob-menendez-for-re-election-to-congress-in-2024/"
+},
+{
+"text": "U.S. Senator Cory Booker Endorses Congressman Rob Menendez for Re-Election in 2024",
+"href": "https://www.robmenendez.com/2024/05/10/u-s-senator-cory-booker-endorses-congressman-rob-menendez-for-re-election-in-2024/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.robmenendez.com/votinginfo/"
+},
+{
+"text": "What Voters Need to Know",
+"href": "https://www.robmenendez.com/what-voters-need-to-know/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@robmenendez.com"
+},
+{
+"text": "[image: Logo for Rob Menendez]",
+"href": "https://www.robmenendez.com"
+},
+{
+"text": "[image: Rob Menendez: Our Congressman. For our toughest fights.]",
+"href": "https://www.robmenendez.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.robmenendez.com/category/news/page/3/"
+},
+{
+"text": "[no text]",
+"href": "https://www.robmenendez.com/category/news/page/5/"
+}
 ]

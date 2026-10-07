@@ -1,4 +1,6 @@
-I grew up in Philadelphia, and both my uncle and my cousin served as Philadelphia police officers.
+1-888-995-6699 commonsense@aurora4pa.com Facebook X Instagram Facebook X Instagram Home Donate Volunteer Events Meet Aurora Meet Aurora My Plan to Address the Student Loan Crisis and Make College More Affordable Safer Food, Stronger Farms, Healthier Families Shapiro Lies and Scare Tactics to Take Away Our Freedom Stand with Law Enforcement 🚨 The Academy of Natural Sciences Closure: Coincidence, Crisis — or Political Opportunity for Shapiro?
+A Platform for Strong Families, Safe Communities, and Responsible Growth Faith, Civics, and Our Children’s Future Protecting Our Children PA Families, Water Merger!
+Contact Select Page Supporting Those Who Serve: Why I Stand With Law Enforcement I grew up in Philadelphia, and both my uncle and my cousin served as Philadelphia police officers.
 I’m going to show my age a little here, but I grew up in a time when information wasn’t instantly available at our fingertips.
 If there was a report on the evening news about an officer being shot or an officer down, families would rush to the phone to make calls and make sure their loved ones were safe.
 That’s what law enforcement is to me: family.
@@ -20,7 +22,8 @@ However, I believe true support for law enforcement is demonstrated when difficu
 For example, Congresswoman Dean has prominently promoted her support for the George Floyd Justice in Policing Act.
 Among other provisions, the legislation proposed changes to federal standards for prosecuting police misconduct, limitations on qualified immunity in certain civil actions, expanded Department of Justice investigatory authority, and restrictions on no-knock warrants.
 While supporters viewed these reforms as accountability measures, many law enforcement organizations expressed concerns about their impact on policing.
-More recently, Congresswoman Dean voted against the Law Enforcement Officers Safety Reform Act (H.R. 354), legislation strongly supported by the Fraternal Order of Police.
+More recently, Congresswoman Dean voted against the Law Enforcement Officers Safety Reform Act (H.R.
+354), legislation strongly supported by the Fraternal Order of Police.
 The bill would have expanded concealed-carry protections for qualified active and retired law enforcement officers under the Law Enforcement Officers Safety Act (LEOSA).
 She also voted against legislation that included additional funding for the Department of Homeland Security and Immigration and Customs Enforcement (ICE).
 These votes reflect a different approach to law enforcement than my own.
@@ -30,9 +33,13 @@ If elected to Congress, it would be my honor to serve those who have dedicated t
 God bless our law enforcement officers and first responders, and God bless America.
 What Is LEOSA?
 LEOSA, the Law Enforcement Officers Safety Act, is a federal law enacted in 2004 that allows qualified active and retired law enforcement officers to carry concealed firearms across state lines, subject to certain limitations and exceptions.
-The LEOSA Reform Act (H.R. 354) was proposed legislation designed to clarify and expand certain protections under LEOSA, addressing concerns raised by active and retired officers regarding where they may legally carry.
-Congresswoman Madeleine Dean voted against H.R. 354.
+The LEOSA Reform Act (H.R.
+354) was proposed legislation designed to clarify and expand certain protections under LEOSA, addressing concerns raised by active and retired officers regarding where they may legally carry.
+Congresswoman Madeleine Dean voted against H.R.
+354.
 The bill passed the House and would have expanded concealed-carry protections for qualified active and retired law enforcement officers in certain locations, including additional public areas and facilities.
 Her vote was recorded as "No" on the House roll-call vote for the legislation.
-Aurora Stuski for Congress
-Fighting for Berks and Montgomery Counties
+Aurora Stuski for Congress Fighting for Berks and Montgomery Counties Friends of Aurora Stuski, PO Box 117, Eagleville, PA 19408 Home Events Donate Volunteer Meet Aurora Contact Privacy Policy Cookie Policy Facebook X Instagram Paid for by Friends of Aurora Stuski.
+Copyright # Aurora Stuski.
+Toggle Statistics Statistics Toggle Google Analytics Google Analytics Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.
+Service URL: policies.google.com (opens in a new window) Accept All Close Save and Close Powered by (opens in a new window)

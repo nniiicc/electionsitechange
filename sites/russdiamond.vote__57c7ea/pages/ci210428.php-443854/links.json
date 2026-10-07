@@ -1,18 +1,74 @@
 [
-"http://russdiamond.vote/ci210228.php",
-"http://russdiamond.vote/ci210311.php",
-"https://archives.gov/founding-docs/constitution-transcript",
-"https://facebook.com/friendsofrussdiamond",
-"https://facebook.com/repdiamond/reels",
-"https://instagram.com/russdiamond",
-"https://legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=00&div=0&chpt=11&sctn=1&subsctn=0",
-"https://repdiamond.com/",
-"https://russdiamond.vote/about.php",
-"https://russdiamond.vote/blog.php",
-"https://russdiamond.vote/connect.php",
-"https://russdiamond.vote/contribute.php",
-"https://russdiamond.vote/index.php",
-"https://russdiamond.vote/privacy.php",
-"https://russdiamond.vote/updates.php",
-"https://x.com/russdiamond"
+{
+"text": "About",
+"href": "https://russdiamond.vote/about.php"
+},
+{
+"text": "Article IV Section 4 of the United States Constitution.",
+"href": "https://www.archives.gov/founding-docs/constitution-transcript#toc-article-iv-"
+},
+{
+"text": "Article XI Section 1 of the Pennsylvania Constitution",
+"href": "https://www.legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=00&div=0&chpt=11&sctn=1&subsctn=0"
+},
+{
+"text": "Blog",
+"href": "https://russdiamond.vote/blog.php"
+},
+{
+"text": "Click here for a more detailed explanation of these proposals.",
+"href": "http://www.russdiamond.vote/ci210228.php"
+},
+{
+"text": "Connect",
+"href": "https://russdiamond.vote/connect.php"
+},
+{
+"text": "Donate",
+"href": "https://russdiamond.vote/contribute.php"
+},
+{
+"text": "Home",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "News",
+"href": "https://russdiamond.vote/updates.php"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.russdiamond.vote/privacy.php"
+},
+{
+"text": "We've developed some tools for you to help get the word out.",
+"href": "http://www.russdiamond.vote/ci210311.php"
+},
+{
+"text": "[image: Captiol Insights - State Representative Russ Diamond's Blog]",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "[image: Click to email my campaign.]",
+"href": "mailto:russdiamond4pa@gmail.com?Subject=Campaign+page+viewer+message"
+},
+{
+"text": "[image: Click to follow Friends of Russ Diamond on Facebook.]",
+"href": "https://www.facebook.com/friendsofrussdiamond"
+},
+{
+"text": "[image: Click to follow me on Instagram.]",
+"href": "https://www.instagram.com/russdiamond"
+},
+{
+"text": "[image: Click to follow me on X (Twitter}.]",
+"href": "https://www.x.com/russdiamond"
+},
+{
+"text": "[image: Click to view videos of Russ.]",
+"href": "https://www.facebook.com/repdiamond/reels/"
+},
+{
+"text": "[image: Click to visit Russ's legislative page.]",
+"href": "https://www.repdiamond.com/"
+}
 ]

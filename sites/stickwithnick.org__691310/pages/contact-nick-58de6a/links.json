@@ -1,9 +1,38 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://stickwithnick.org/",
-"https://stickwithnick.org/about-nick",
-"https://stickwithnick.org/contact-nick",
-"https://stickwithnick.org/donate",
-"https://stickwithnick.org/lets-go-to-the-video",
-"https://x.com/@RepNickBoldyga"
+{
+"text": "(413) 274-8084",
+"href": "tel:4132748084"
+},
+{
+"text": "About Nick",
+"href": "https://stickwithnick.org/about-nick"
+},
+{
+"text": "Contact Nick",
+"href": "https://stickwithnick.org/contact-nick"
+},
+{
+"text": "Donate",
+"href": "https://stickwithnick.org/donate"
+},
+{
+"text": "Home",
+"href": "https://stickwithnick.org/"
+},
+{
+"text": "Let's Go to the Video",
+"href": "https://stickwithnick.org/lets-go-to-the-video"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/@RepNickBoldyga"
+},
+{
+"text": "info@stickwithnick.org",
+"href": "mailto:info@stickwithnick.org"
+}
 ]

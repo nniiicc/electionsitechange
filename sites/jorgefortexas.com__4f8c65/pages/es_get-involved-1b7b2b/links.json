@@ -1,11 +1,46 @@
 [
-"https://jorgefortexas.com/en/get-involved",
-"https://jorgefortexas.com/es",
-"https://jorgefortexas.com/es/about",
-"https://jorgefortexas.com/es/endorsements",
-"https://jorgefortexas.com/es/get-involved",
-"https://jorgefortexas.com/es/issues",
-"https://jorgefortexas.com/es/privacy",
-"https://jorgefortexas.com/es/terms",
-"https://secure.winred.com/jorge-borrego-campaign/donate-today"
+{
+"text": "Acerca de",
+"href": "https://www.jorgefortexas.com/es/about"
+},
+{
+"text": "Donar",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today"
+},
+{
+"text": "English",
+"href": "https://www.jorgefortexas.com/en/get-involved"
+},
+{
+"text": "Inicio",
+"href": "https://www.jorgefortexas.com/es"
+},
+{
+"text": "Jorge Borrego",
+"href": "https://www.jorgefortexas.com/es"
+},
+{
+"text": "Participa",
+"href": "https://www.jorgefortexas.com/es/get-involved"
+},
+{
+"text": "Privacidad",
+"href": "https://www.jorgefortexas.com/es/privacy"
+},
+{
+"text": "Respaldos",
+"href": "https://www.jorgefortexas.com/es/endorsements"
+},
+{
+"text": "Temas",
+"href": "https://www.jorgefortexas.com/es/issues"
+},
+{
+"text": "Términos",
+"href": "https://www.jorgefortexas.com/es/terms"
+},
+{
+"text": "Voluntario",
+"href": "https://www.jorgefortexas.com/es/get-involved"
+}
 ]

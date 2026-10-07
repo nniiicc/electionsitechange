@@ -1,13 +1,54 @@
 [
-"https://facebook.com/GregLopezForAllColorado",
-"https://greglopez.co/",
-"https://greglopez.co/cart",
-"https://greglopez.co/get-involved",
-"https://greglopez.co/issues",
-"https://greglopez.co/meet-greg",
-"https://greglopez.co/privacy-policy",
-"https://greglopez.co/terms-of-use",
-"https://secure.anedot.com/greg-lopez-for-colorado/donate",
-"https://twitter.com/LopezForCO",
-"https://youtube.com/@GregLopezForCO"
+{
+"text": "0",
+"href": "https://www.greglopez.co/cart"
+},
+{
+"text": "Get Involved",
+"href": "https://www.greglopez.co/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.greglopez.co/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.greglopez.co/meet-greg"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.anedot.com/greg-lopez-for-colorado/donate"
+},
+{
+"text": "Meet Greg",
+"href": "https://www.greglopez.co/meet-greg"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:anna@greglopez.co?subject=Press+Inquiry"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.greglopez.co/privacy-policy"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.greglopez.co/terms-of-use"
+},
+{
+"text": "[image: Greg Lopez For Colorado]",
+"href": "https://www.greglopez.co/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/LopezForCO"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/GregLopezForAllColorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@GregLopezForCO"
+}
 ]

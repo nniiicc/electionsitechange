@@ -1,10 +1,58 @@
 [
-"https://ballottrax.coloradosos.gov/voter",
-"https://denvergop.org/",
-"https://denvergop.org/s/voter_roll_cleanup.pdf",
-"https://govotecolorado.gov/",
-"https://secure.anedot.com/winegar-for-colorado/donate",
-"https://sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml",
-"https://sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml",
-"https://winegarforcolorado.com/photos.html"
+{
+"text": "Contact",
+"href": "mailto:rebecca@winegarforcolorado.com"
+},
+{
+"text": "Contact the Campaign",
+"href": "mailto:rebecca@winegarforcolorado.com"
+},
+{
+"text": "Denver GOP",
+"href": "https://www.denvergop.org"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/winegar-for-colorado/donate"
+},
+{
+"text": "Donate Today →",
+"href": "https://secure.anedot.com/winegar-for-colorado/donate"
+},
+{
+"text": "Donate to the Campaign →",
+"href": "https://secure.anedot.com/winegar-for-colorado/donate"
+},
+{
+"text": "Email Rebecca directly",
+"href": "mailto:rebecca@winegarforcolorado.com"
+},
+{
+"text": "GoVoteColorado.gov",
+"href": "https://www.govotecolorado.gov"
+},
+{
+"text": "Photos",
+"href": "https://winegarforcolorado.com/photos.html"
+},
+{
+"text": "Track your ballot here",
+"href": "https://ballottrax.coloradosos.gov/voter/"
+},
+{
+"text": "Update your registration here",
+"href": "https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml"
+},
+{
+"text": "rebecca@winegarforcolorado.com",
+"href": "mailto:rebecca@winegarforcolorado.com"
+},
+{
+"text": "register to vote here",
+"href": "https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+},
+{
+"text": "voter roll cleanup form (PDF)",
+"href": "https://www.denvergop.org/s/voter_roll_cleanup.pdf"
+}
 ]

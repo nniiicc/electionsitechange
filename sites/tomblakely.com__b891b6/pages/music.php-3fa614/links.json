@@ -1,38 +1,150 @@
 [
-"https://benningtonbanner.com/opinion/columnists/commentary-tom-blakely-the-crux/article_98a86c5b-bd18-4884-b08c-e08f2fe2c1fe.html",
-"https://docs.google.com/forms/d/e/1FAIpQLSe9mNxoac0FHZuX05MNqwGgnS-_WzDiPoKpYkp_rASJiUtIWA/viewform?usp=header",
-"https://facebook.com/profile.php?id=61582223857799",
-"https://instagram.com/tomblakelyforvermont",
-"https://music.youtube.com/watch?v=3CWccmt-Wmg&si=jKJ20jfFYqrzgoy1",
-"https://music.youtube.com/watch?v=AtJDPw30qOc&si=jOvDanYFZ5AgBcxE",
-"https://music.youtube.com/watch?v=E84EKogSvhE&si=FtcbDvg6Q5LJuxGq",
-"https://music.youtube.com/watch?v=LEq2GJRqghw&si=9Kc9u1rpUgDn58Li",
-"https://music.youtube.com/watch?v=LKDPfnrAQDk&si=Cgq0rZMFYnWjcI3h",
-"https://music.youtube.com/watch?v=SI8CnN2NuHI&si=ItTz7HUuaSN0o1hn",
-"https://music.youtube.com/watch?v=WnPkeKmp1qE&si=iQlQbXcr6OoEKYpU",
-"https://music.youtube.com/watch?v=fLPcrlPvulw&si=vaGgzZGfjdn2xF3Q",
-"https://music.youtube.com/watch?v=kVvhRDG_nRg&si=BsYIwpXwqGiQVzGb",
-"https://music.youtube.com/watch?v=ke1DVI6oDAY&si=w1LPm3XwB2oa_sgk",
-"https://music.youtube.com/watch?v=qNwGoSayLKc&si=f-IqCI_KxMEQcQMH",
-"https://music.youtube.com/watch?v=tGfi_nYwYFc&si=Nhp8QSFSH9Y8G9n8",
-"https://music.youtube.com/watch?v=vrMCxB7Ye2k&si=-WmaphvGYyl-VAe6",
-"https://music.youtube.com/watch?v=zUgEBZIyZ8g&si=Od8yTWl7nZaWoLyW",
-"https://secure.actblue.com/donate/tom4vermont",
-"https://threads.com/@tomblakelyforvermont",
-"https://tomblakely.com/about.php",
-"https://tomblakely.com/candidacy.php",
-"https://tomblakely.com/contact.php",
-"https://tomblakely.com/index.php",
-"https://tomblakely.com/issues.php",
-"https://tomblakely.com/news.php",
-"https://tomblakely.com/newsletters.php",
-"https://youtu.be/5pgHqPoI4rw?si=MI74OiV1hMh-RScX",
-"https://youtu.be/ASTd2F1l4js?si=dYU1NLuoYEkAgcn-",
-"https://youtu.be/AWCVHllzG9Y?si=Jje9-CzUcUp3plzB",
-"https://youtu.be/KTmcMrSUw28?si=G5Zdfek4fJ-9zAnQ",
-"https://youtu.be/Rre66h4vtTI?si=DLv5cF_T8FgOJORl",
-"https://youtu.be/V5xRrAi1CBk?si=SGESeEULyKdumJXz",
-"https://youtu.be/WbWhpfXisZw?si=lD55wGUZyKdp99Zt",
-"https://youtu.be/xAWwOZ6VH0k?si=95Z0e4nhAQOZSIjs",
-"https://youtu.be/yAnaYYVBfik?si=a0xQB8OdBR9Zhk11"
+{
+"text": "About Me",
+"href": "https://www.tomblakely.com/about.php"
+},
+{
+"text": "About My Candidacy",
+"href": "https://www.tomblakely.com/candidacy.php"
+},
+{
+"text": "All I Know",
+"href": "https://music.youtube.com/watch?v=3CWccmt-Wmg&si=jKJ20jfFYqrzgoy1"
+},
+{
+"text": "Contact Me",
+"href": "https://www.tomblakely.com/contact.php"
+},
+{
+"text": "Deadman",
+"href": "https://music.youtube.com/watch?v=AtJDPw30qOc&si=jOvDanYFZ5AgBcxE"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tom4vermont"
+},
+{
+"text": "Elder: Catastasis",
+"href": "https://youtu.be/V5xRrAi1CBk?si=SGESeEULyKdumJXz"
+},
+{
+"text": "Elder: Halcyon",
+"href": "https://youtu.be/5pgHqPoI4rw?si=MI74OiV1hMh-RScX"
+},
+{
+"text": "Elder: Sanctuary",
+"href": "https://youtu.be/xAWwOZ6VH0k?si=95Z0e4nhAQOZSIjs"
+},
+{
+"text": "Gojira: Born in Winter",
+"href": "https://music.youtube.com/watch?v=SI8CnN2NuHI&si=ItTz7HUuaSN0o1hn"
+},
+{
+"text": "Goliath",
+"href": "https://music.youtube.com/watch?v=tGfi_nYwYFc&si=Nhp8QSFSH9Y8G9n8"
+},
+{
+"text": "Home",
+"href": "https://www.tomblakely.com/index.php"
+},
+{
+"text": "If These Trees Could Talk: Solstice",
+"href": "https://youtu.be/ASTd2F1l4js?si=dYU1NLuoYEkAgcn-"
+},
+{
+"text": "If These Trees Could Talk: The Giving Tree",
+"href": "https://youtu.be/KTmcMrSUw28?si=G5Zdfek4fJ-9zAnQ"
+},
+{
+"text": "Join Our Team",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe9mNxoac0FHZuX05MNqwGgnS-_WzDiPoKpYkp_rASJiUtIWA/viewform?usp=header"
+},
+{
+"text": "Key Issues",
+"href": "https://www.tomblakely.com/issues.php"
+},
+{
+"text": "Klone: Interlaced",
+"href": "https://music.youtube.com/watch?v=kVvhRDG_nRg&si=BsYIwpXwqGiQVzGb"
+},
+{
+"text": "Kolm: Aquarius Initiation",
+"href": "https://music.youtube.com/watch?v=LEq2GJRqghw&si=9Kc9u1rpUgDn58Li"
+},
+{
+"text": "Kolm: Entheotheosis",
+"href": "https://music.youtube.com/watch?v=qNwGoSayLKc&si=f-IqCI_KxMEQcQMH"
+},
+{
+"text": "Kolm: Pull of the Archer",
+"href": "https://music.youtube.com/watch?v=vrMCxB7Ye2k&si=-WmaphvGYyl-VAe6"
+},
+{
+"text": "Kolm: Ripple",
+"href": "https://music.youtube.com/watch?v=E84EKogSvhE&si=FtcbDvg6Q5LJuxGq"
+},
+{
+"text": "Kolm: Umbra",
+"href": "https://music.youtube.com/watch?v=WnPkeKmp1qE&si=iQlQbXcr6OoEKYpU"
+},
+{
+"text": "Kolm: Vast Expanse",
+"href": "https://music.youtube.com/watch?v=fLPcrlPvulw&si=vaGgzZGfjdn2xF3Q"
+},
+{
+"text": "News and Events",
+"href": "https://www.tomblakely.com/news.php"
+},
+{
+"text": "Newsletters",
+"href": "https://www.tomblakely.com/newsletters.php"
+},
+{
+"text": "OSI: Radiologue",
+"href": "https://youtu.be/yAnaYYVBfik?si=a0xQB8OdBR9Zhk11"
+},
+{
+"text": "Opeth: Windowpane",
+"href": "https://youtu.be/AWCVHllzG9Y?si=Jje9-CzUcUp3plzB"
+},
+{
+"text": "Porcupine Tree: Arriving Somewhere",
+"href": "https://youtu.be/WbWhpfXisZw?si=lD55wGUZyKdp99Zt"
+},
+{
+"text": "Porcupine Tree: Sentimental",
+"href": "https://youtu.be/Rre66h4vtTI?si=DLv5cF_T8FgOJORl"
+},
+{
+"text": "Simple Boy",
+"href": "https://music.youtube.com/watch?v=zUgEBZIyZ8g&si=Od8yTWl7nZaWoLyW"
+},
+{
+"text": "The Bennington Banner, July 8",
+"href": "https://www.benningtonbanner.com/opinion/columnists/commentary-tom-blakely-the-crux/article_98a86c5b-bd18-4884-b08c-e08f2fe2c1fe.html"
+},
+{
+"text": "Themata",
+"href": "https://music.youtube.com/watch?v=ke1DVI6oDAY&si=w1LPm3XwB2oa_sgk"
+},
+{
+"text": "Umbra",
+"href": "https://music.youtube.com/watch?v=LKDPfnrAQDk&si=Cgq0rZMFYnWjcI3h"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61582223857799"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/tomblakelyforvermont"
+},
+{
+"text": "[image: Threads]",
+"href": "https://threads.com/@tomblakelyforvermont"
+},
+{
+"text": "tfb@tomblakely.com",
+"href": "mailto:tfb@tomblakely.com"
+}
 ]

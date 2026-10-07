@@ -1,9 +1,30 @@
 [
-"http://rickbeck.org/about-1.html",
-"http://rickbeck.org/contact-us.html",
-"http://rickbeck.org/contribute.html",
-"http://rickbeck.org/home.html",
-"http://rickbeck.org/legislation.html",
-"http://rickbeck.org/new-.html",
-"https://godaddy.com/websites/website-builder?cvosrc=assets.wsb_badge.wsb_badge"
+{
+"text": "About",
+"href": "http://www.rickbeck.org/about-1.html"
+},
+{
+"text": "Contact Us",
+"href": "http://www.rickbeck.org/contact-us.html"
+},
+{
+"text": "Contribute",
+"href": "http://www.rickbeck.org/contribute.html"
+},
+{
+"text": "Home",
+"href": "http://www.rickbeck.org/home.html"
+},
+{
+"text": "Legislation",
+"href": "http://www.rickbeck.org/legislation.html"
+},
+{
+"text": "New",
+"href": "http://www.rickbeck.org/new-.html"
+},
+{
+"text": "[image]",
+"href": "https://www.godaddy.com/websites/website-builder?cvosrc=assets.wsb_badge.wsb_badge"
+}
 ]

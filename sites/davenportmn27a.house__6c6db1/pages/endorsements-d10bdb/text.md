@@ -1,2 +1,3 @@
-Endorsements represent the trust and confidence of organizations and community leaders who share my commitment to serving the people of District 27A.
+0 Skip to Content Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Endorsements represent the trust and confidence of organizations and community leaders who share my commitment to serving the people of District 27A.
 I'm honored to have their support as we work together to strengthen our communities, support working families, and build a more accountable and responsive state government.
+Paid for by Davenport for Minnesota House 27A

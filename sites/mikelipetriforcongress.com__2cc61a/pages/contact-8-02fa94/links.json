@@ -1,10 +1,50 @@
 [
-"http://youtube.com/@mikelipetri_ny3?app=desktop&ra=m&themeRefresh=1",
-"https://instagram.com/mikelipetri?hl=en",
-"https://mikelipetriforcongress.com/",
-"https://mikelipetriforcongress.com/contact-8",
-"https://mikelipetriforcongress.com/privacy-policy",
-"https://mikelipetriforcongress.com/terms-conditions",
-"https://secure.winred.com/mike-lipetri-for-congress/donate",
-"https://x.com/TheMikeLiPetri?lang=en"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/mike-lipetri-for-congress/donate"
+},
+{
+"text": "Gallery",
+"href": "https://www.mikelipetriforcongress.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mikelipetriforcongress.com/contact-8"
+},
+{
+"text": "Issues",
+"href": "https://www.mikelipetriforcongress.com"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.mikelipetriforcongress.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mikelipetriforcongress.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.mikelipetriforcongress.com/terms-conditions"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.mikelipetriforcongress.com/terms-conditions"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mikelipetri/?hl=en"
+},
+{
+"text": "[image: Mike Lipetri for congress]",
+"href": "https://www.mikelipetriforcongress.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/TheMikeLiPetri?lang=en"
+},
+{
+"text": "[image: YouTube]",
+"href": "http://youtube.com/@mikelipetri_ny3?app=desktop&ra=m&themeRefresh=1"
+}
 ]

@@ -1,9 +1,9 @@
-Protect Free Speech
-In our polarized world, both sides have cheered censorship—until it hits them.
+Meet Todd Issues Why Run Independent?
+Volunteer Contact Home ❭ Issues ❭ Protect Free Speech Protect Free Speech In our polarized world, both sides have cheered censorship—until it hits them.
 Tech companies now dictate speech through shadow banning, algorithms, and outright removals, silencing diverse voices.
 We have clear laws and precedents for unprotected speech; we shouldn't outsource this to big tech.
 Press freedom is vital, as seen in cases like Julian Assange's prosecution for exposing truths about the US Military and Gonzalo Lira's tragic death in custody for reporting corruption in Ukraine.
 Freedom to assemble and protest is equally threatened, from Georgia's RICO cases against demonstrators to campus crackdowns—regardless of the cause, we must protect the right to challenge power.
 This includes recent attempts to adopt the International Holocaust Remembrance Alliance (IHRA) definition of antisemitism, reintroduced in 2025 via the Antisemitism Awareness Act, which could tie federal funding (e.g., for universities or groups) to labeling criticism of Israel or its policies as "hate speech." While combating true antisemitism is crucial, polls show most Americans are able to distinguish between anti-Jewish tropes and legitimate protest of a foreign government—equating the two risks chilling protected speech and eroding democracy.
 In FL-04, where voters value open discussion on local issues like jobs and costs, I'll advocate for protections against these erosions.
-This safeguards everyone's voice, preventing a slippery slope where dissent is stifled, and honors our American legacy of strong First Amendment defense.
+This safeguards everyone's voice, preventing a slippery slope where dissent is stifled, and honors our American legacy of strong First Amendment defense. « Previous: Fair Minimum Wage Next: Reduce 'Defense' Spending » Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu

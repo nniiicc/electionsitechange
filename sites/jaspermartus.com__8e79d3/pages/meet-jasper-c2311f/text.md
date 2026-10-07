@@ -1,8 +1,7 @@
-Shaped by the hardworking and dedicated people of his community, Jasper believes in people-powered politics.
+Skip to main content Scroll Top   Volunteer   Yard Sign Menu Close Meet Jasper Accomplishments Priorities Endorsements In The News Yard Sign Donate Meet Jasper Accomplishments Priorities In The News Endorsements Donate   Volunteer   Yard Sign Menu Close Meet Jasper Accomplishments Priorities Endorsements In The News Yard Sign Donate Meet Jasper Accomplishments Priorities In The News Endorsements Donate Meet Jasper Home Meet Jasper Shaped by the hardworking and dedicated people of his community, Jasper believes in people-powered politics.
 His family and faith instill in him a commitment to fighting for others.
 To secure a brighter future, Jasper believes it is more important than ever to get involved today.
-Jasper “Jaz” Martus is a lifelong resident of Flushing, Michigan
-Born to David and Karianne Martus, his family’s roots in Genesee County stretch back over a century.
+Jasper “Jaz” Martus is a lifelong resident of Flushing, Michigan Born to David and Karianne Martus, his family’s roots in Genesee County stretch back over a century.
 He graduated from James Madison College at Michigan State University with a degree in International Relations and a minor in World Religions.
 Before and after graduating from MSU, Jasper gained experience both in federal and state government.
 While working for Congressman Dan Kildee he assisted with cases ranging from helping seniors access Social Security and Medicare programs to ensuring that veterans get the care they need.
@@ -17,3 +16,5 @@ As vice chairman of both the Health and Human Services Committee and the Labor a
 Jasper is proud of what he has accomplished, but knows there is far too much work that is left to do because Genesee County has been overlooked and underinvested for decades.
 He is continuing to fight for issues like Paid Family and Medical Leave, lowering the cost of prescription drugs, creating good paying jobs, improving our state’s crumbling infrastructure, and getting money out of our political system.
 Will you help him continue his fight for Genesee County?
+Meet Jasper Accomplishments Priorities Endorsements In The News Yard Sign Donate PAID FOR BY THE COMMITTEE TO ELECT JASPER MARTUS P.O.
+BOX 165 Flushing, MI 48433 jasper@jaspermartus.com

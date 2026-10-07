@@ -1,49 +1,33 @@
-Clear platform of policy commitments on MAHA issues to protect health choices and freedoms of Arizonans
-TUESDAY, SEPTEMBER 15
-GILBERT, AZ—The Biggs/Kerr for Arizona campaign today released their MAHA Platform, a series of policy commitments formed around protecting the health freedoms of Arizonans and encouraging healthy living.
+Skip to main content Skip to footer Opens in a new tab Donate → Home Meet Andy Meet Sine Endorsements News Action Center Issues Media Kit Donate Online Donate By Mail Store Donate Donate By Mail Store Biggs/Kerr Campaign Releases MAHA Platform September 15, 2026 Press Release Clear platform of policy commitments on MAHA issues to protect health choices and freedoms of Arizonans TUESDAY, SEPTEMBER 15 GILBERT, AZ—The Biggs/Kerr for Arizona campaign today released their MAHA Platform, a series of policy commitments formed around protecting the health freedoms of Arizonans and encouraging healthy living.
 MAHA voters have become one of the most influential voting blocs in the country and the new policy announcements show the Biggs/Kerr campaign is continuing to prioritize these voters with a clear plan to implement this agenda.
-The entire MAHA platform, which includes 12 policy planks, can be found HERE.
-“The MAHA movement is one of the most important American initiatives of this generation,” said Andy Biggs, the Republican nominee for Governor of Arizona.
-“I’ve fought for MAHA policies my entire time in public service, from passing Right to Try legislation with bipartisan support to pushing back against the violations of our health freedoms during the COVID outbreak.
-Our MAHA Platform is a series of clear and reasonable policy commitments that we’ll take action on when I’m Governor to protect our health freedoms and encourage Arizonans to lead a healthy lifestyle.”
-“It is time we had a Governor who will promote healthy living and empower local ranchers and farmers to provide Arizona families with affordable, nutritious options,” said Sine Kerr, Republican nominee for Lt.
+The entire MAHA platform, which includes 12 policy planks, can be found HERE . “ The MAHA movement is one of the most important American initiatives of this generation, ” said Andy Biggs, the Republican nominee for Governor of Arizona. “ I’ve fought for MAHA policies my entire time in public service, from passing Right to Try legislation with bipartisan support to pushing back against the violations of our health freedoms during the COVID outbreak.
+Our MAHA Platform is a series of clear and reasonable policy commitments that we’ll take action on when I’m Governor to protect our health freedoms and encourage Arizonans to lead a healthy lifestyle. ” “ It is time we had a Governor who will promote healthy living and empower local ranchers and farmers to provide Arizona families with affordable, nutritious options,” said Sine Kerr, Republican nominee for Lt.
 Governor.
 “Many of the reasonable ideas we’ve laid out in our MAHA Platform were bills that were vetoed by Katie Hobbs, from protecting the medical choices of college students to limiting SNAP purchases to healthy, nutritious foods.
-We’ll be ready to implement our MAHA Platform on Day One and start making Arizona the healthiest state in the country.”
-“Choosing Biggs is choosing freedom, health, and autonomy for your family,” said Aaron Siri, the Managing Partner of Siri & Glimstad LLP and a high-profile MAHA advocate.
-“Vote for the person who supports you—your choices, your consent, your family’s health and safety.
+We’ll be ready to implement our MAHA Platform on Day One and start making Arizona the healthiest state in the country. ” “ Choosing Biggs is choosing freedom, health, and autonomy for your family, ” said Aaron Siri, the Managing Partner of Siri & Glimstad LLP and a high-profile MAHA advocate. “ Vote for the person who supports you—your choices, your consent, your family’s health and safety.
 If you want a representative who respects your autonomy, choose Biggs.
-If you want a representative who thinks they know what is best for you, support his opponent.”
-“I knew when Andy Biggs told me about his fridge full of raw milk for his army of children that he was legit MAHA,” said Alex Clark, a MAHA influencer and host of the health and wellness podcast Culture Apothecary.
+If you want a representative who thinks they know what is best for you, support his opponent. ” “I knew when Andy Biggs told me about his fridge full of raw milk for his army of children that he was legit MAHA,” said Alex Clark, a MAHA influencer and host of the health and wellness podcast Culture Apothecary.
 “The health policies Andy’s committed to enacting aren’t talking points; they’re sincerely held beliefs that will become actualized when he’s Governor.
 Through his leadership, the state of Arizona will be the template nationwide for creating an environment where families aren’t inundated with toxic chemicals, have autonomy over their medical decisions, and access to organic nutrient-dense foods via SNAP rather than processed garbage.
-With this MAHA plan, Andy Biggs is going to make Arizona resemble the Garden of Eden (just less green).”
-“Andy Biggs’ Make Arizona Healthy Again agenda puts Arizona families at the forefront and power back in the hands of the people, where it belongs,” said Leah Wilson, the Executive Director of Stand for Health Freedom.
-“It recognizes something fundamental: we cannot restore the health of our communities without also protecting the freedom of individuals and families to make their own decisions.
-This is the kind of vision it will take to make Arizona healthy and free—not just today, but for generations to come.”
-See below for the MAHA Platform in its entirety as well as shareable graphics for each category within the platform:
-For more information on the Biggs for Arizona campaign, please see additional notes below or visit BiggsForArizona.com.
-BIGGS UNITES REPUBLICANS BEHIND HIS CAMPAIGN
--Rep.
-Andy Biggs won the Republican nomination for Governor with the highest vote total for any non-incumbent candidate in a competitive primary in Arizona history, uniting the state’s Republicans unlike any other nominee.
--Biggs has also earned endorsements from President Donald J.
+With this MAHA plan, Andy Biggs is going to make Arizona resemble the Garden of Eden (just less green).” “ Andy Biggs’ Make Arizona Healthy Again agenda puts Arizona families at the forefront and power back in the hands of the people, where it belongs, ” said Leah Wilson, the Executive Director of Stand for Health Freedom. “ It recognizes something fundamental: we cannot restore the health of our communities without also protecting the freedom of individuals and families to make their own decisions.
+This is the kind of vision it will take to make Arizona healthy and free—not just today, but for generations to come. ” See below for the MAHA Platform in its entirety as well as shareable graphics for each category within the platform: For more information on the Biggs for Arizona campaign, please see additional notes below or visit BiggsForArizona.com .
+BIGGS UNITES REPUBLICANS BEHIND HIS CAMPAIGN -Rep.
+Andy Biggs won the Republican nomination for Governor with the highest vote total for any non-incumbent candidate in a competitive primary in Arizona history, uniting the state’s Republicans unlike any other nominee. -Biggs has also earned endorsements from President Donald J.
 Trump, Vice President J.D.
-Vance, the late Charlie Kirk, Turning Point CEO Erika Kirk, Arizona Congressmen Eli Crane, Paul Gosar and Abe Hamadeh, Texas Governor Greg Abbott, Former Arizona Governor Jan Brewer, Former Arizona Governor Doug Ducey, Maricopa County Supervisors Debbie Lesko and Mark Stewart, and 45 current or former state legislators including Senate President Warren Petersen, State Senator Jake Hoffman, State Senator Wendy Rogers, and State Representative Leo Biasiucci.
--Rep.
-Andy Biggs has received endorsements from influential conservative organizations like Turning Point Action, Moms for America Action, and Gun Owners of America-Arizona Chapter.
--Law enforcement officials and organizations like Maricopa County Attorney Rachel Mitchell, Maricopa County Sheriff Jerry Sheridan, Pinal County Sheriff Ross Teeple, Pinal County Attorney Brad Miller, the Arizona Fraternal Order of Police, the Arizona Conference of Police and Sheriffs, the Arizona Law Enforcement Association, and the Arizona Council of Prisons Locals have all endorsed Biggs for Arizona.
-BIGGS SETS PERSONAL FUNDRAISING RECORDS IN 2026
--Rep.
-Andy Biggs showed consistent fundraising growth and set multiple personal fundraising records in the 2026 cycle, topping each previous quarter with an improved fundraising number.
--Rep.
-GRASSROOTS CONSERVATIVES SUPPORT BIGGS
--The Biggs for Arizona campaign submitted over 20,000 ballot nomination signatures, the most of any gubernatorial candidate for the 2026 cycle.
--Biggs for Arizona has earned endorsements from GOP Legislative District Committees in Districts 10, 13, 14, and 15, making BFA the only gubernatorial campaign to receive an official endorsement from a GOP LD Committee this cycle.
--Rep.
+Vance, the late Charlie Kirk, Turning Point CEO Erika Kirk, Arizona Congressmen Eli Crane, Paul Gosar and Abe Hamadeh, Texas Governor Greg Abbott, Former Arizona Governor Jan Brewer, Former Arizona Governor Doug Ducey, Maricopa County Supervisors Debbie Lesko and Mark Stewart, and 45 current or former state legislators including Senate President Warren Petersen, State Senator Jake Hoffman, State Senator Wendy Rogers, and State Representative Leo Biasiucci. -Rep.
+Andy Biggs has received endorsements from influential conservative organizations like Turning Point Action, Moms for America Action, and Gun Owners of America-Arizona Chapter. -Law enforcement officials and organizations like Maricopa County Attorney Rachel Mitchell, Maricopa County Sheriff Jerry Sheridan, Pinal County Sheriff Ross Teeple, Pinal County Attorney Brad Miller, the Arizona Fraternal Order of Police, the Arizona Conference of Police and Sheriffs, the Arizona Law Enforcement Association, and the Arizona Council of Prisons Locals have all endorsed Biggs for Arizona.
+BIGGS SETS PERSONAL FUNDRAISING RECORDS IN 2026 -Rep.
+Andy Biggs showed consistent fundraising growth and set multiple personal fundraising records in the 2026 cycle, topping each previous quarter with an improved fundraising number. -Rep.
+Andy Biggs has raised #M total for the cycle and has most recently reported #M cash on hand.
+GRASSROOTS CONSERVATIVES SUPPORT BIGGS -The Biggs for Arizona campaign submitted over 20,000 ballot nomination signatures, the most of any gubernatorial candidate for the 2026 cycle. -Biggs for Arizona has earned endorsements from GOP Legislative District Committees in Districts 10, 13, 14, and 15, making BFA the only gubernatorial campaign to receive an official endorsement from a GOP LD Committee this cycle. -Rep.
 Andy Biggs has also received official endorsements from the Freedom Club PAC and from the Republican Liberty Caucus of Arizona.
-BIGGS MAKES CASE ACROSS STATE & THROUGH LOCAL MEDIA
--Rep.
-Biggs made campaign stops in Maricopa, Pima, Pinal, Yuma, Mohave, Navajo, Apache, Yavapai, Coconino, Cochise, Graham, and Gila Counties in 2025.
--Rep.
+BIGGS MAKES CASE ACROSS STATE & THROUGH LOCAL MEDIA -Rep.
+Biggs made campaign stops in Maricopa, Pima, Pinal, Yuma, Mohave, Navajo, Apache, Yavapai, Coconino, Cochise, Graham, and Gila Counties in 2025. -Rep.
 Biggs sat down for interviews with AZ Family, Fox 10, 12 News, KECY (Yuma), the Arizona Republic, the Associated Press, Mohave Daily News, KTAR, and KFYI, as well as receiving front page coverage in the Navajo-Hopi Observer for his trip to St.
 Michaels.
+Home Meet Andy Meet Sine Endorsements News Action Center Issues Media Kit Donate Online Donate By Mail Store Paid for & authorized by Biggs for Arizona By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy Terms & Conditions

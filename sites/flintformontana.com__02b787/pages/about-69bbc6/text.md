@@ -1,5 +1,5 @@
-About Aaron
-Veteran, Father, Husband, and fifth-generation Montanan.
+Skip to main content Skip to footer Opens in a new tab Endorsed by President Trump!
+Home About Issues News Get Involved Contact Store Donate About Aaron Veteran, Father, Husband, and fifth-generation Montanan.
 Learn more about Aaron and his journey to Congress.
 Aaron Flint is a decorated combat veteran, a father and husband, and a fifth-generation Montanan who has been fighting for our Western way of life every day on the radio.
 Now he’s raising his hand to serve Montana again by running for Congress.
@@ -35,3 +35,12 @@ Aaron’s family homesteaded near Opheim and Niarada, Montana.
 East and West.
 They worked for everything they had, and would hardly recognize what is happening to the state today.
 Aaron Flint is running for Congress because it’s time to fight back and course-correct: to make a high school degree worth something again, to promote trades and common sense, to manufacture and mine in Montana, and to make the Montana Dream affordable again.
+Donate to Aaron Flint Help Aaron make the American Dream affordable again. $5 $15 $25 $50 $100 Other Paid for by Flint for Montana Please provide your mobile phone to opt-in to Flint for Montana campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Aaron Flint is a retired member of the United States Army.
+Use of his military rank, job titles, and photographs in uniform does not imply the endorsement of the Department of the Army or the Department of War.
+Privacy Policy

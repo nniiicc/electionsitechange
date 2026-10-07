@@ -1,11 +1,66 @@
 [
-"https://samieconyers.com/",
-"https://samieconyers.com/about-samie",
-"https://samieconyers.com/contact",
-"https://samieconyers.com/donate",
-"https://samieconyers.com/elementor-212",
-"https://samieconyers.com/elementor-page-203",
-"https://samieconyers.com/priorities",
-"https://samieconyers.com/support-the-campaign",
-"https://samieconyers.com/volunteer"
+{
+"text": "About Samie",
+"href": "https://www.samieconyers.com/about-samie/"
+},
+{
+"text": "Contact",
+"href": "https://www.samieconyers.com/contact/"
+},
+{
+"text": "Contact the campaign",
+"href": "mailto:info@samieconyers.com"
+},
+{
+"text": "Donate",
+"href": "https://www.samieconyers.com/donate/"
+},
+{
+"text": "Elementor #212",
+"href": "https://www.samieconyers.com/elementor-212/"
+},
+{
+"text": "Elementor Page #203",
+"href": "https://www.samieconyers.com/elementor-page-203/"
+},
+{
+"text": "Home",
+"href": "https://www.samieconyers.com/"
+},
+{
+"text": "Join the campaign",
+"href": "mailto:volunteer@samieconyers.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.samieconyers.com/elementor-page-203/"
+},
+{
+"text": "Priorities",
+"href": "https://www.samieconyers.com/priorities/"
+},
+{
+"text": "Samie Conyers the People's choice",
+"href": "https://www.samieconyers.com/"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.samieconyers.com/donate/"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.samieconyers.com/support-the-campaign"
+},
+{
+"text": "Volunteer",
+"href": "https://www.samieconyers.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.samieconyers.com/volunteer/"
+},
+{
+"text": "Volunteer",
+"href": "mailto:volunteer@samieconyers.com"
+}
 ]

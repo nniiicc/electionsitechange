@@ -1,28 +1,146 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Southeast+Candidate+Forum&dates=20260626T013000Z%2F20260626T033000Z&location=Tobias%2C+NE",
-"http://maps.google.com/?q=+Tobias%2C+NE",
-"https://facebook.com/profile.php?id=61581549796742",
-"https://instagram.com/mark_for_nebraska?igsh=MnlweGFpaXh0YjBu",
-"https://markfornebraska.org/",
-"https://markfornebraska.org/about-mark",
-"https://markfornebraska.org/blog",
-"https://markfornebraska.org/cart",
-"https://markfornebraska.org/contact",
-"https://markfornebraska.org/events",
-"https://markfornebraska.org/events/2026/06/meet-and-greet-on-g-street",
-"https://markfornebraska.org/events/2026/06/morton-james-public-library-meet-greet",
-"https://markfornebraska.org/events/2026/06/southeast-candidate-forum?format=ical",
-"https://markfornebraska.org/events?tag=Event",
-"https://markfornebraska.org/events?tag=Forum",
-"https://markfornebraska.org/faq",
-"https://markfornebraska.org/issues",
-"https://markfornebraska.org/press",
-"https://markfornebraska.org/privacy-policy",
-"https://markfornebraska.org/terms-of-use",
-"https://markfornebraska.org/volunteer",
-"https://nebraska.gov/apps-sos-voter-registration",
-"https://politics.raisethemoney.com/en/mark-for-nebraska",
-"https://tiktok.com/@markfornebraska",
-"https://x.com/MarkForNebraska",
-"https://youtube.com/@MarkForNebraskaCampaign"
+{
+"text": "$10",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$100",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$25",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$5",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$50",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+tobias%2C+ne+"
+},
+{
+"text": "0",
+"href": "https://www.markfornebraska.org/cart"
+},
+{
+"text": "About Mark",
+"href": "https://www.markfornebraska.org/about-mark"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.markfornebraska.org/events"
+},
+{
+"text": "Contact",
+"href": "https://www.markfornebraska.org/contact"
+},
+{
+"text": "Continue to website →",
+"href": "https://www.markfornebraska.org/"
+},
+{
+"text": "DONATE",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "Event",
+"href": "https://www.markfornebraska.org/events?tag=Event"
+},
+{
+"text": "Events",
+"href": "https://www.markfornebraska.org/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.markfornebraska.org/faq"
+},
+{
+"text": "Forum",
+"href": "https://www.markfornebraska.org/events?tag=Forum"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Southeast+Candidate+Forum&dates=20260626T013000Z%2F20260626T033000Z&location=Tobias%2C+NE"
+},
+{
+"text": "Home",
+"href": "https://www.markfornebraska.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/06/southeast-candidate-forum?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.markfornebraska.org/issues"
+},
+{
+"text": "News",
+"href": "https://www.markfornebraska.org/blog"
+},
+{
+"text": "Next Next June 26 Meet & Greet At Morton-James Public Library",
+"href": "https://www.markfornebraska.org/events/2026/06/morton-james-public-library-meet-greet"
+},
+{
+"text": "Other",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "Press",
+"href": "https://www.markfornebraska.org/press"
+},
+{
+"text": "Previous Previous June 25 Meet and Greet on \"G\" Street",
+"href": "https://www.markfornebraska.org/events/2026/06/meet-and-greet-on-g-street"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.markfornebraska.org/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.nebraska.gov/apps-sos-voter-registration/"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.markfornebraska.org/terms-of-use"
+},
+{
+"text": "Volunteer",
+"href": "https://www.markfornebraska.org/volunteer"
+},
+{
+"text": "[image: Mark for Nebraska]",
+"href": "https://www.markfornebraska.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61581549796742"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mark_for_nebraska?igsh=MnlweGFpaXh0YjBu"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@markfornebraska"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MarkForNebraskaCampaign"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MarkForNebraska"
+},
+{
+"text": "info@markfornebraska.org",
+"href": "mailto:info@markfornebraska.org"
+}
 ]

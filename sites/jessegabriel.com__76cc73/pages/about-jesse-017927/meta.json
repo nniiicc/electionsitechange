@@ -1,11 +1,12 @@
 {
  "description": "",
  "final_url": "https://jessegabriel.com/about-jesse",
- "paid_for_by": null,
+ "fingerprint": "5172a832c15167274dccafbca8f4982866e0c7f7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Jesse",
  "years_mentioned": [
   "2017",
-  "2023",
   "2026"
  ]
 }

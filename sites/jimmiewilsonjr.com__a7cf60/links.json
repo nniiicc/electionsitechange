@@ -1,13 +1,50 @@
 [
-"http://eepurl.com/i6_Eck",
-"https://facebook.com/jimmiewilsonjr",
-"https://instagram.com/jimmiewilsonjr1?hl=en",
-"https://jimmiewilsonjr.com/",
-"https://jimmiewilsonjr.com/contribute",
-"https://jimmiewilsonjr.com/issues",
-"https://jimmiewilsonjr.com/meet-jimmie",
-"https://jimmiewilsonjr.com/volunteer",
-"https://linkedin.com/in/jimmie-wilson-jr-988765120",
-"https://secure.actblue.com/donate/jimmiewilsonjr",
-"https://twitter.com/JimmieWilsonJr1"
+{
+"text": "About Jimmie",
+"href": "https://www.jimmiewilsonjr.com/meet-jimmie"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/jimmiewilsonjr"
+},
+{
+"text": "Contribute",
+"href": "https://www.jimmiewilsonjr.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://www.jimmiewilsonjr.com"
+},
+{
+"text": "Issues",
+"href": "https://www.jimmiewilsonjr.com/issues"
+},
+{
+"text": "Newsletter",
+"href": "http://eepurl.com/i6_Eck"
+},
+{
+"text": "Reach out",
+"href": "https://www.jimmiewilsonjr.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jimmiewilsonjr.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/jimmiewilsonjr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jimmiewilsonjr1/?hl=en"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/jimmie-wilson-jr-988765120"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/JimmieWilsonJr1"
+}
 ]

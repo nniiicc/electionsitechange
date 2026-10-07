@@ -1,12 +1,15 @@
 {
  "description": "",
  "final_url": "https://maxburns.com/news-1",
- "paid_for_by": null,
+ "fingerprint": "fed534c912533dd6b11bd98831b5f0182bf45a2b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": [
   "2022",
   "2023",
   "2024",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

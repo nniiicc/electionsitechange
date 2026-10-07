@@ -1,7 +1,6 @@
-This IS Vermont.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Legislative Updates / This IS Vermont.
 Let’s Stop Pretending Otherwise.
-“The heart of justice is truth telling, seeing ourselves and the world the way it is rather than the way we want it to be.” — bell hooks
-My dear friend, Ferene, joined the chat of a recent post on my social media in which I offered a reaction to the recent disclosure that Vermont’s Republican State Senator, Sam Douglass, had been contributing to a series of chats with various members of the Young Republicans across the country.
+October 17, 2025 “The heart of justice is truth telling, seeing ourselves and the world the way it is rather than the way we want it to be.” — bell hooks My dear friend, Ferene, joined the chat of a recent post on my social media in which I offered a reaction to the recent disclosure that Vermont’s Republican State Senator, Sam Douglass, had been contributing to a series of chats with various members of the Young Republicans across the country.
 Contributions to those chats by Senator Douglass and his wife contain vile and inexcusably racist and anti-semitic comments.
 Ferene reminds me of how bell hooks urges us, as we seek to build communities of justice and inclusion, to be honest about where we begin.
 In the spirit of that urging, I want to restate the specifics of what we’re overlooking when we remain cautious in our condemnation.
@@ -10,8 +9,7 @@ You’re going to continue to hear a lot of public condemnation in the coming da
 And you should.
 The racist, and antisemitic messages that have now been leaked and exposed, are disgusting.
 And many across the political spectrum will rightfully continue to denounce them, especially as they seek to distance themselves from their own affiliation with their party to welcome and usher Senator Douglass into a seat with the Vermont Legislature.
-But I’m asking you to listen carefully when those statements claim that “This is not Vermont.”
-Because they’re wrong.
+But I’m asking you to listen carefully when those statements claim that “This is not Vermont.” Because they’re wrong.
 This is Vermont.
 And it’s the Vermont that Governor Phil Scott helped build.
 Those statements claiming otherwise are attempting to speak to the Vermont we wish to see, not the Vermont we have.
@@ -45,4 +43,4 @@ Additional evidence abounds: open prayer circles in the hallways of the state ho
 This IS Vermont.
 And unless we name that truth, we can’t fix it.
 Unless we acknowledge that, right now, today, this IS Vermont, we will never begin the work of reclaiming it.
-And we must certainly strive to reclaim it.
+And we must certainly strive to reclaim it. < Open Letter to the Mayor Re: Replacing the Chief Gray Lock Statue in Battery Park > Exporting Incarcerated Vermonters: The Quiet Return of a Failed Strategy Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

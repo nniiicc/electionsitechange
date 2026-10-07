@@ -1,14 +1,6 @@
-Team Alina Kiss-Cut Sticker — "Save NYC" Support Decal
-$2.84Price
-A glossy kiss-cut vinyl sticker that wears its message with quiet confidence.
+top of page HOME MEET ALINA 8-POINT PLAN EVENTS NEWS CONTACT MERCH FOLLOW US GET INVOLVED DONATE Team Alina Kiss-Cut Sticker — "Save NYC" Support Decal $2.84 Price Size * 2" × 2" 3" × 3" 4" × 4" 6" × 6" Surface * White Quantity * Add to Cart Buy Now A glossy kiss-cut vinyl sticker that wears its message with quiet confidence.
 The layered gold and deep green lettering reads “TEAM Alina” with a subtle arched “Save NYC” above — a compact, stylish emblem made to live on laptops, journals, water-bottle sleeves, or any smooth flat surface.
 The smooth, scratch-resistant finish catches light and enhances the warm gold tones, while the permanent adhesive keeps the design in place through daily handling.
 It slips onto your gear easily and stays put, adding a personal, campaign-ready accent that feels curated rather than loud.
-Product features
-- Glossy, scratch-resistant finish for vibrant shine
-- Durable vinyl with permanent acrylic adhesive for long-lasting placement
-- Eco-solvent inks deliver bright, true-to-design colors
-- Available in white or transparent options and four sizes
-- Quick, bubble-free application; not waterproof
-Care instructions
-- Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of the sticker outwards.
+Product features - Glossy, scratch-resistant finish for vibrant shine - Durable vinyl with permanent acrylic adhesive for long-lasting placement - Eco-solvent inks deliver bright, true-to-design colors - Available in white or transparent options and four sizes - Quick, bubble-free application; not waterproof Care instructions - Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of the sticker outwards.
+CONTACT info@alinabonsell.com 917-819-2636 PAID FOR BY ALINA FOR NY 2026 FIGHT FOR NY DONATE FOLLOW US bottom of page

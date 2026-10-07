@@ -1,3 +1,5 @@
-New Hampshire’s Unemployment Hits Record Low 2% for June
+(603) 673-3065 gary@garydaniels.org Facebook X Facebook X HOME ABOUT ISSUES EVENTS GET UPDATES Press Signup ENDORSEMENTS VOLUNTEER VIDEOS DONATE Select Page New Hampshire’s Unemployment Hits Record Low 2% for June Jul 20, 2022 New Hampshire’s Unemployment Hits Record Low 2% for June The Granite State economy continues to lead the Northeast with state officials announcing our unemployment is at 2%.
 New Hampshire had the fastest growing economy in the nation last quarter and its been our Republican majorities and Governor who set the tone for this recovery.
 We cut business taxes and taxes for individuals, expanded broadband access to rural areas, and made sure we’re taking care of our Main Street businesses – and it’s paying dividends.
+Search for: Click on the titles to reveal the full article and social media sharing icons.
+Recent Posts New Hampshire’s Unemployment Hits Record Low 2% for June HB 1221 Lowers Business Taxes Congratulations Souhegan High Basketball Concord This Week End of All Tolls in Merrimack Copyright © # • Gary Daniels for NH • 127 Whitten Road • Milford, NH 03055-3228 • (603) 673-3065 • Friends of Gary Daniels • Fiscal Agent Polly Cote

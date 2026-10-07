@@ -1,31 +1,74 @@
-Cumpliendo para el Distrito 8.
+Saltar al contenido principal Recibe novedades de la campaña: los temas y el trabajo por venir, sin el ruido.
+Nombre Correo electrónico Código postal Recibir novedades ¡Ya estás suscrito a las novedades de campaña! ☰ ✕ Sobre April Prioridades Trayectoria Respaldos Noticias Participa Contacto Donar La trayectoria de April en Olympia Cumpliendo para el Distrito 8.
 Proyectos firmados como ley.
 Más de $100 millones entregados a las Tri-Cities.
 Un puesto de liderazgo número 3 en el caucus.
 Esto es lo que April ha logrado — y en lo que sigue trabajando.
-Trayectoria de liderazgo.
+Liderazgo del caucus Trayectoria de liderazgo.
 De Asistente del Whip en su primer término a Líder de Pleno del caucus republicano de la Cámara en tres años — un ascenso inusualmente rápido impulsado por los colegas de April.
-- 2023–24 Primer término · Asistente del Whip Miembro de Apropiaciones de la Cámara, Protección al Consumidor y Negocios, y Vivienda (Miembro Auxiliar de Rango de la Minoría).
-Nombrada Asistente del Whip del caucus republicano de la Cámara.
-- noviembre de 2024 Elegida Líder de Pleno del caucus republicano de la Cámara Elegida por sus colegas del caucus para el puesto número 3 de liderazgo republicano de la Cámara — responsable de la estrategia de pleno, la organización del debate, y las acciones parlamentarias.
+2023–24 Primer término · Asistente del Whip Miembro de Apropiaciones de la Cámara, Protección al Consumidor y Negocios, y Vivienda (Miembro Auxiliar de Rango de la Minoría).
+Nombrada Asistente del Whip del caucus republicano de la Cámara. noviembre de 2024 Elegida Líder de Pleno del caucus republicano de la Cámara Elegida por sus colegas del caucus para el puesto número 3 de liderazgo republicano de la Cámara — responsable de la estrategia de pleno, la organización del debate, y las acciones parlamentarias.
 Un ascenso inusualmente rápido para una miembro de segundo término.
-- 2025–26 Segundo término · Miembro Aux. de Rango, Apropiaciones de la Cámara Miembro de Vivienda de la Cámara y de Reglas de la Cámara; sirve en la Comisión Conjunta de Artes, el Comité Asesor de la Oficina de Prevención y Protección de Jóvenes sin Hogar, y el Comité de Supervisión del Programa Covenant Homeownership.
-Reconocida por la prensa y sus colegas.
+2025–26 Segundo término · Miembro Aux. de Rango, Apropiaciones de la Cámara Miembro de Vivienda de la Cámara y de Reglas de la Cámara; sirve en la Comisión Conjunta de Artes, el Comité Asesor de la Oficina de Prevención y Protección de Jóvenes sin Hogar, y el Comité de Supervisión del Programa Covenant Homeownership.
+Reconocimiento Reconocida por la prensa y sus colegas.
 El reconocimiento de la prensa no partidista, observadores estatales, y sus propios colegas — no la campaña — ha señalado a April como una de las miembros más efectivas de su caucus.
-Oferta y acceso a la vivienda.
+Reconocida Nombrada "ganadora" de la sesión 2026 Washington State Standard · Bill Lucia y Jerry Cornfield, marzo de 2026 Nombrada ganadora de la sesión legislativa 2026 por el no partidista Washington State Standard por dirigir el debate de pleno más largo en la Cámara de WA que el Secretario podía recordar en 26 años — un esfuerzo de 24 horas y 33 minutos contra un propuesto impuesto estatal sobre la renta.
+Leer la cobertura → Destacada "Estrella republicana en ascenso" en Olympia Tri-City Herald · Bob Brawdy, abril de 2026 Un perfil extenso del Tri-City Herald que reconoce a April por dar forma a la estrategia republicana de pleno en Olympia: sus colegas dicen que sus esfuerzos han sido "cruciales para frustrar y atascar proyectos propuestos por los demócratas en mayoría." Leer el perfil → Premiada Premio Legislador Superhéroe 2025 Tri-Tech Skills Center y la Asociación de Skills Centers del Estado de Washington · mayo de 2025 Reconocimiento conjunto de la comunidad de skills centers de la región por el paquete laboral HB 1414 / HB 1722 y una defensa más amplia de la educación CTE — honrando el trabajo de April al conectar a los estudiantes directamente con carreras reales.
+Leer el anuncio → Elegida por sus pares Líder de Pleno del caucus republicano de la Cámara Caucus republicano · noviembre de 2024 En apenas su segundo término, los colegas de April la eligieron Líder de Pleno — el puesto número 3 en el caucus y uno de los roles republicanos de más alto rango en la Cámara.
+Una señal directa de reconocimiento de sus pares, recogida en la cobertura del Washington State Standard, Cascade PBS, y KOZI Radio.
+Leer la cobertura → 1 / 1 ← → Vivienda Oferta y acceso a la vivienda.
 Basándose en más de dos décadas en bienes raíces, el trabajo de April en vivienda se enfoca en reformas del lado de la oferta — quitando las barreras que mantienen a las familias de Washington fuera de la casa propia.
-Capacitación laboral y rutas de CTE.
+Firmada como ley HB 1191 Acceso a hipotecas para dueños de casas manufacturadas Firmada por el Gob.
+Ferguson el 11 de abril de 2025 · Cámara 97–0, Senado 49–0 Reclasifica las casas manufacturadas en comunidades de propietarios cooperativos como bienes raíces, calificando a sus dueños para hipotecas tradicionales en vez de préstamos de bienes muebles con intereses altos.
+Afecta inicialmente a aproximadamente 1,700 casas en 30 parques en todo el estado.
+Elogiada por The Pew Charitable Trusts.
+Leer la cobertura → Firmada como ley Proyectos de entrega de avisos al inquilino Firmados por el Gob.
+Ferguson el 24 de marzo de 2026 · Ambos aprobados por unanimidad en la Cámara Dos proyectos patrocinados por Connors que corrigen una falla en cómo los inquilinos reciben los avisos de vivienda legalmente requeridos — restaurando la entrega confiable para que los inquilinos reciban la información que la ley estatal exige.
+Leer la cobertura → Presentada HB 1438 Trámite acelerado de permisos de vivienda Patrocinado por Connors Agiliza los plazos locales de permisos de vivienda para acelerar nuevas construcciones en todo Washington — atacando los cuellos de botella regulatorios que han dejado a las familias fuera del precio de las comunidades en que quieren vivir.
+Propuesta Homes for Heroes Respaldado por el Gob.
+Ferguson en su discurso inaugural de 2025 Un programa de asistencia para el pago inicial y los costos de cierre para socorristas, maestros, y otros trabajadores esenciales — con el objetivo de mantener viviendo en nuestras comunidades a quienes las sirven.
+1 / 1 ← → Educación Profesional y Técnica Capacitación laboral y rutas de CTE.
 Dos proyectos de CTE patrocinados por Connors firmados como ley en una sola sesión de 2025 — reconocidos con un Premio Legislador Superhéroe de Tri-Tech.
-Cumpliendo para el Distrito 8.
+Firmada como ley HB 1414 y HB 1722 Paquete laboral para estudiantes de CTE Ambos proyectos firmados por el Gob.
+Ferguson, 2025 HB 1414 amplió el grupo de trabajo estatal de CTE para incluir a L&I y a grupos de empleo juvenil, encargados de identificar las barreras regulatorias que mantienen a los estudiantes certificados fuera de sus campos.
+HB 1722 exigió a las agencias estatales actualizar sus reglas para que jóvenes capacitados de 16 y 17 años puedan presentar examen para licencias profesionales en campos como asistente certificado de enfermería (CNA), aspirante a bombero, y servicios médicos de emergencia (EMS).
+Premiada Premio Legislador Superhéroe 2025 Tri-Tech Skills Center y la Asociación de Skills Centers del Estado de Washington Reconocimiento conjunto por el paquete laboral HB 1414 / HB 1722 y una defensa más amplia de la educación CTE.
+Leer el anuncio → En colaboración Construido con los educadores, no a su alrededor Tri-Tech, la Asociación de Skills Centers del Estado de Washington, y el grupo de trabajo de CTE El trabajo de April en CTE se da en colaboración con los directores de skills centers y los educadores certificados que realmente preparan a los estudiantes para estas carreras — un enfoque que llevó a la aprobación unánime de ambos proyectos de 2025.
+1 / 1 ← → Presupuesto de capital Cumpliendo para el Distrito 8.
 Trabajando con la Rep.
 Stephanie Barnard y el Sen.
 Matt Boehnke, April ha ayudado a asegurar más de $100 millones en financiamiento de proyectos para las Tri-Cities.
-Defendiendo la energía que impulsa a las Tri-Cities.
+Cumplida $100 millones+ en dos bienios Presupuestos de capital 2023–25, 2025–27, y suplementario de 2026 En tres ciclos consecutivos de presupuesto de capital, April ha ayudado a entregar inversiones al Distrito 8 — desde capacidad de salud mental hasta infraestructura del community college hasta las industrias agrícolas y de energía limpia que sostienen la economía regional.
+Leer la cobertura → Cumplida $5 millones · Three Rivers Behavioral Health Center Presupuesto de capital 2025–27 Financiamiento de capital para ampliar el Three Rivers Behavioral Health Center — parte del esfuerzo más amplio de April para llevar verdadera capacidad de tratamiento de salud mental a las Tri-Cities, el área metropolitana más grande de Washington que aún carece de atención hospitalaria clave.
+Cumplida $3.2 millones · Infraestructura del Columbia Basin College Presupuesto de capital 2025–27 Inversión en infraestructura del Columbia Basin College — el community college de las Tri-Cities y un alimentador principal de la fuerza laboral regional, incluyendo los oficios, enfermería, y los programas de ciencias aplicadas que abastecen la economía local.
+Defendida Columbia Valley Center for Recovery Instalación de tratamiento de salud mental y consumo de sustancias Defensora pública y campeona en el presupuesto de la instalación tan esperada que le daría a las Tri-Cities su primera capacidad de tratamiento residencial para adicciones — actualmente la única área metropolitana de Washington sin una.
+1 / 1 ← → Energía y Hanford Defendiendo la energía que impulsa a las Tri-Cities.
 Desde la misión federal de limpieza de Hanford hasta el sistema hidroeléctrico del río Columbia, hasta un proyecto de su primer término que respondió a las quejas rurales sobre la contaminación lumínica de los parques eólicos — la trayectoria de April en energía refleja un distrito cuya economía se construye sobre energía confiable y asequible.
-Manteniendo la línea contra los impuestos.
+Firmada como ley Solución a la contaminación lumínica de turbinas eólicas Patrocinada por Connors · Firmada en mayo de 2023 · Veto parcial El primer proyecto firmado de April en su primer término: la iluminación de seguridad aeronáutica en los parques eólicos de Washington ahora solo se activa cuando se detecta una aeronave cercana, en vez de parpadear constantemente durante toda la noche.
+Apoyo bipartidista; respondió a quejas rurales de larga data en el este de Washington sobre la contaminación del cielo nocturno por instalaciones eólicas de gran escala.
+Leer la cobertura → Co‑patrocinada Defensa de la misión de limpieza de Hanford Con la delegación “Mighty 8th” · Múltiples sesiones Hanford sostiene aproximadamente 13,000 trabajadores de contratos federales y un presupuesto federal de limpieza de $3.35 mil millones para el año fiscal 2026 — uno de cada diez empleos en las Tri‑Cities y el motor económico individual más grande del Distrito 8.
+April co‑patrocina el trabajo del caucus en defensa de la obligación federal y los empleos con salarios familiares que ahí se sostienen.
+Defendida Sistema hidroeléctrico del río Columbia Red federal de represas · En curso El sistema federal de energía hidroeléctrica en los ríos Columbia y Snake sostiene el riego de más de un millón de acres de tierras agrícolas en el Distrito 8 y suministra la mayor parte de la electricidad base de la región.
+April se ha opuesto a las propuestas de retiro de represas y apoya consistentemente la inversión federal continua en la red hidroeléctrica.
+Se opuso Retiro prematuro de la generación base confiable Sesiones 2025–26 April vota consistentemente en contra de proyectos que cerrarían generación base confiable — hidroeléctrica, nuclear, gas natural — antes de que Washington tenga reemplazos asequibles y dependables en su lugar.
+La confiabilidad no es un tema partidista en el Distrito 8: es lo que mantiene a las granjas regadas, a las familias empleadas, y a la economía regional de energía limpia creciendo.
+1 / 1 ← → Pelea contra los impuestos Manteniendo la línea contra los impuestos.
 Como Líder de Pleno del caucus republicano de la Cámara, April coordinó el debate de pleno más largo que el Secretario de la Cámara podía recordar en 26 años — una lucha contra SB 6346.
 La mayoría demócrata finalmente forzó la aprobación del proyecto con una votación ajustada de 51–46 — ocho demócratas se unieron a todos los republicanos en oposición — para promulgar el primer impuesto estatal sobre la renta de Washington.
-Defendiendo a las familias de las Tri-Cities.
+Lideró la lucha en el pleno Debate de pleno de 24 horas y 33 minutos contra un impuesto estatal sobre la renta SB 6346 · marzo de 2026 April coordinó el esfuerzo de pleno de 24h 33m del caucus contra SB 6346.
+La mayoría demócrata finalmente forzó la aprobación del proyecto con una votación ajustada de 51–46 — ocho demócratas se unieron a todos los republicanos en oposición — promulgando el primer impuesto estatal sobre la renta de Washington.
+El Secretario de la Cámara Bernard Dean dijo que fue el debate de pleno más largo que podía recordar en 26 años.
+Leer la cobertura → Se opuso Paquete fiscal del presupuesto operativo 2025–27 Como Miembro Auxiliar de Rango en Apropiaciones de la Cámara Dirigió la oposición republicana en la Cámara al paquete fiscal de varios miles de millones de dólares del presupuesto operativo demócrata 2025–27, argumentando que el crecimiento del gasto subyacente — no la falta de ingresos — era el verdadero problema.
+Reconocida "Ganadora" de la sesión 2026 Washington State Standard · Bill Lucia y Jerry Cornfield, marzo de 2026 El Washington State Standard nombró a April una de las "ganadoras" de la sesión 2026 por dirigir el esfuerzo histórico en el pleno contra el propuesto impuesto estatal sobre la renta — un reconocimiento normalmente reservado para presidentes de comités y líderes de partido.
+Leer la cobertura → Votó no Aumentos al impuesto de gasolina y a las tarifas de caza/pesca Paquete de transporte 2025 · tarifas 2025 Votó en contra del aumento de 6 centavos por galón al impuesto de gasolina incluido en el paquete de transporte 2025 y de los aumentos a las tarifas de licencias de caza y pesca — costos regresivos que golpean con más fuerza a las familias trabajadoras de comunidades rurales y de recreación al aire libre.
+1 / 1 ← → Seguridad pública Defendiendo a las familias de las Tri-Cities.
 Trabajo en apropiaciones y legislación de seguridad comunitaria que refleja las prioridades del Distrito 8.
-Reelige una trayectoria que cumple.
-Cada contribución pone una trayectoria comprobada frente a más votantes del Distrito 8 antes del 4 de agosto.
+Enmienda propuesta $200 millones para subvenciones de contratación de policías Enmienda al presupuesto operativo 2025 Financiada al reducir el personal no docente de educación superior a los niveles de 2008 — una enmienda que dirige fondos a las líneas del frente de la seguridad pública.
+Presentada Paquete de proyectos sobre la ubicación de SVP Con legisladores de las Tri-Cities · enero de 2026 Un paquete de varios proyectos que endurecen las reglas sobre la ubicación de delincuentes sexuales violentos tras las preocupaciones de la comunidad en Kennewick.
+Leer la cobertura → Organizó Coalición de legisladores de las Tri-Cities y asamblea pública en Kennewick Enero de 2026 · respuesta a la ubicación de SVP Tras las preocupaciones de la comunidad por la planeada ubicación de un delincuente sexual violento en Kennewick, April ayudó a convocar una asamblea pública desbordada y reunió una coalición de legisladores del área de las Tri-Cities detrás del paquete de proyectos sobre la ubicación de SVP — convirtiendo la alarma de la comunidad en acción legislativa.
+1 / 1 ← → ¿Quieres saber dónde se posiciona en los temas?
+Ver las prioridades de April → Sigamos adelante con el trabajo Reelige una trayectoria que cumple.
+Cada contribución pone una trayectoria comprobada frente a más votantes del Distrito 8 antes del 4 de agosto. $25 $50 $100 $250 Otra Donar ahora → April for Washington — una trayectoria comprobada en las Tri-Cities en vivienda, energía confiable, y seguridad pública.
+Campaña Sobre April Prioridades Trayectoria Respaldos Noticias Participa Donar Voluntariado Contacto Política de Privacidad Términos y Condiciones Pagado por April for Washington (R) 3911 W.
+27th Ave., Ste 101 PMB 101, Kennewick, WA 99337 April Connors · Republicana · Cámara de Representantes del Estado de Washington, Distrito Legislativo 8, Posición 2 © # April for Washington.
+Todos los derechos reservados. · Privacidad · Términos y Condiciones EN ✕ Ver su trayectoria completa →

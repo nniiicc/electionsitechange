@@ -1,1 +1,2 @@
-Maui Now 10.27.23 Oct 27 Written By Tambara Garrick Sne Patel with Lahaina Town Action Committee discusses Kokua for Maui Tambara Garrick
+0 Skip to Content About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action Maui Now 10.27.23 Oct 27 Written By Tambara Garrick Sne Patel with Lahaina Town Action Committee discusses Kokua for Maui Tambara Garrick Previous Previous KHON2 8.28.24 Learn More About Priorities Take Action Connect Contact Donate Instagram Paid for by Friends of Sne Patel P.O.
+Box 10187 Lahaina, HI 96761 © # Friends of Sne Patel

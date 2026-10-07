@@ -1,4 +1,4 @@
-Source: WUNC
-Senator Dan Blue is the only state lawmaker who’s been in office since the early 1980s, but the former House speaker is no longer serving as Senate minority leader after his fellow Democrats backed Senator Sydney Batch for that role instead.
+Home Meet Dan Blue Issues News and Events Volunteer Donate Select Page Dan Blue on his new role as ‘diplomat’ in NC Senate Jun 26, 2025 | News , Sourced ​Source: WUNC Senator Dan Blue is the only state lawmaker who’s been in office since the early 1980s, but the former House speaker is no longer serving as Senate minority leader after his fellow Democrats backed Senator Sydney Batch for that role instead.
 Blue says he’ll still have a key role in Senate action, and he’s “freed up to play diplomat” on issues like healthcare, education and affordable housing.
-He spoke with Colin Campbell on the WUNC Politics Podcast about his work this session, why he voted for the GOP budget, and his thoughts on how state politics has changed since he was first elected 45 years ago.
+He spoke with Colin Campbell on the WUNC Politics Podcast about his work this session, why he voted for the GOP budget, and his thoughts on how state politics has changed since he was first elected #ago.
+Read Article Paid for by Citizens for Dan Blue Post Office Box 287, Raleigh NC 27602 Follow Follow Follow

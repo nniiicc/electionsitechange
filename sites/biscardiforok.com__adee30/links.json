@@ -1,22 +1,94 @@
 [
-"https://biscardiforok.com/",
-"https://biscardiforok.com/about",
-"https://biscardiforok.com/contact",
-"https://biscardiforok.com/issues",
-"https://biscardiforok.com/privacy-policy",
-"https://biscardiforok.com/ways-to-donate",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61588897354356",
-"https://instagram.com/biscardi4ok",
-"https://iwillvote.com/",
-"https://mobilize.us/okdemocrats/event/960091",
-"https://oklahoma.gov/elections/voter-registration/register-to-vote.html",
-"https://oklahoma.gov/elections/voters/absentee-voting.html",
-"https://oklahoma.gov/elections/voters/early-voting.html",
-"https://secure.actblue.com/donate/andrea-biscardi-1",
-"https://secure.actblue.com/donate/andrea-biscardi-1?amount=10",
-"https://secure.actblue.com/donate/andrea-biscardi-1?amount=100",
-"https://secure.actblue.com/donate/andrea-biscardi-1?amount=20",
-"https://secure.actblue.com/donate/andrea-biscardi-1?amount=200",
-"https://secure.actblue.com/donate/andrea-biscardi-1?amount=50"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/andrea-biscardi-1?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/andrea-biscardi-1?amount=100"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/andrea-biscardi-1?amount=20"
+},
+{
+"text": "$200",
+"href": "https://secure.actblue.com/donate/andrea-biscardi-1?amount=200"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/andrea-biscardi-1?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.biscardiforok.com/about"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://iwillvote.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andrea-biscardi-1"
+},
+{
+"text": "Early voting locations",
+"href": "https://oklahoma.gov/elections/voters/early-voting.html"
+},
+{
+"text": "Get Involved",
+"href": "https://www.biscardiforok.com/contact"
+},
+{
+"text": "Issues",
+"href": "https://www.biscardiforok.com/issues"
+},
+{
+"text": "Join Team Biscardi",
+"href": "https://www.mobilize.us/okdemocrats/event/960091/"
+},
+{
+"text": "Learn more",
+"href": "https://www.biscardiforok.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/andrea-biscardi-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.biscardiforok.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://oklahoma.gov/elections/voter-registration/register-to-vote.html"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://oklahoma.gov/elections/voters/absentee-voting.html"
+},
+{
+"text": "Ways to Donate",
+"href": "https://www.biscardiforok.com/ways-to-donate"
+},
+{
+"text": "[image: Andrea Biscardi for HD9]",
+"href": "https://www.biscardiforok.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61588897354356"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/biscardi4ok"
+},
+{
+"text": "biscardi4ok@gmail.com",
+"href": "mailto:biscardi4ok@gmail.com"
+}
 ]

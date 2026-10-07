@@ -1,23 +1,118 @@
 [
-"https://kansashistory.gov/",
-"https://kslegislature.gov/",
-"https://kslegislature.gov/b2025_26/committees/ctte_h_legislative_modernization_1",
-"https://kslegislature.gov/b2025_26/committees/ctte_h_rulz_jrnl_1",
-"https://kslegislature.gov/b2025_26/committees/ctte_h_tax_1",
-"https://kslegislature.gov/b2025_26/committees/ctte_h_water_1",
-"https://portal.kansas.gov/",
-"https://smithforkansas.com/",
-"https://smithforkansas.com/about",
-"https://smithforkansas.com/challenge-for-the-120th-district-seat",
-"https://smithforkansas.com/contact",
-"https://smithforkansas.com/contribute",
-"https://smithforkansas.com/deep-kansas-roots",
-"https://smithforkansas.com/june-water-task-force-meeting",
-"https://smithforkansas.com/latest-news",
-"https://smithforkansas.com/politician-or-public-servant",
-"https://smithforkansas.com/proposed-transmission-line-public-meeting",
-"https://smithforkansas.com/smith-releases-property-tax-relief-plan",
-"https://smithforkansas.com/sometimes-we-get-it-wrong",
-"https://smithforkansas.com/teamwork-under-the-dome",
-"https://smithforkansas.com/western-kansas-work-ethic"
+{
+"text": "About",
+"href": "https://smithforkansas.com/about/"
+},
+{
+"text": "Adam.Smith@House.KS.GovAdam.Smith@House.KS.Gov",
+"href": "mailto:Adam.Smith@House.KS.Gov"
+},
+{
+"text": "Challenge for the 120th District Seat",
+"href": "https://smithforkansas.com/challenge-for-the-120th-district-seat/"
+},
+{
+"text": "Close Menu Close Menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "Contact",
+"href": "https://smithforkansas.com/contact/"
+},
+{
+"text": "ContributeDonate Now",
+"href": "https://smithforkansas.com/contribute/"
+},
+{
+"text": "Home",
+"href": "https://smithforkansas.com"
+},
+{
+"text": "June Water Task Force Meeting",
+"href": "https://smithforkansas.com/june-water-task-force-meeting/"
+},
+{
+"text": "Kansas Historical Society",
+"href": "https://www.kansashistory.gov/"
+},
+{
+"text": "Kansas Legislature",
+"href": "https://kslegislature.gov/"
+},
+{
+"text": "Kansas.gov",
+"href": "https://portal.kansas.gov/"
+},
+{
+"text": "Latest News",
+"href": "https://smithforkansas.com/latest-news/"
+},
+{
+"text": "Legislative Modernization",
+"href": "https://kslegislature.gov/b2025_26/committees/ctte_h_legislative_modernization_1/"
+},
+{
+"text": "Proposed Transmission Line Public Meeting",
+"href": "https://smithforkansas.com/proposed-transmission-line-public-meeting/"
+},
+{
+"text": "Read more…",
+"href": "https://smithforkansas.com/deep-kansas-roots/"
+},
+{
+"text": "Read more…",
+"href": "https://smithforkansas.com/politician-or-public-servant/"
+},
+{
+"text": "Read more…",
+"href": "https://smithforkansas.com/sometimes-we-get-it-wrong/"
+},
+{
+"text": "Read more…",
+"href": "https://smithforkansas.com/teamwork-under-the-dome/"
+},
+{
+"text": "Read more…",
+"href": "https://smithforkansas.com/western-kansas-work-ethic/"
+},
+{
+"text": "Representative Adam Smith",
+"href": "https://smithforkansas.com/"
+},
+{
+"text": "Rules and Journal",
+"href": "https://kslegislature.gov/b2025_26/committees/ctte_h_rulz_jrnl_1/"
+},
+{
+"text": "Smith Releases Property Tax Relief Plan",
+"href": "https://smithforkansas.com/smith-releases-property-tax-relief-plan/"
+},
+{
+"text": "Taxation",
+"href": "https://kslegislature.gov/b2025_26/committees/ctte_h_tax_1/"
+},
+{
+"text": "Water",
+"href": "https://kslegislature.gov/b2025_26/committees/ctte_h_water_1/"
+},
+{
+"text": "[image: State Representative Adam Smith campaign logo]",
+"href": "https://smithforkansas.com/"
+},
+{
+"text": "[image]",
+"href": "https://smithforkansas.com/challenge-for-the-120th-district-seat/"
+},
+{
+"text": "[image]",
+"href": "https://smithforkansas.com/june-water-task-force-meeting/"
+},
+{
+"text": "[image]",
+"href": "https://smithforkansas.com/proposed-transmission-line-public-meeting/"
+},
+{
+"text": "[image]",
+"href": "https://smithforkansas.com/smith-releases-property-tax-relief-plan/"
+}
 ]

@@ -1,7 +1,6 @@
-Stop Doing Evil
-Re-knit the Social Fabric
-Know What Time It Is
-The US Federal Government does countless evil things in our name, with our money.
+Matt Loesby for Idaho Campaign Platform Who Am I?
+Can I Win?
+Help the Campaign Donate Campaign Platform Stop Doing Evil Re-knit the Social Fabric Know What Time It Is The US Federal Government does countless evil things in our name, with our money.
 All must end.
 In the past century, the US Federal Government has established the Global American Empire, a totalitarian regime attempting to rule the entire world.
 It wages war against peaceful people who were never a threat to you and me.
@@ -35,7 +34,7 @@ They inflated away our savings.
 They engaged in a full court press of propaganda to convince us that the greatest threat to our lives was our own neighbors.
 Incremental changes and reforms are not going to save us.
 We live in interesting times, and we will need to be strong to survive.
-Close the Border.
+Immigration Close the Border.
 End Birthright Citizenship.
 The US Federal Government knows that the American people do not want most of its policies.
 In this nominal Democratic Republic, that should be a problem that they solve by changing their policies.
@@ -47,11 +46,10 @@ In a similar manner, the United States border should be closed to any immigrants
 Those invitations must carry with them an agreement that the inviter takes financial responsibility for any costs or debts the immigrant incurs.
 Any uninvited immigrant should be deported to the country they most recently called home.
 Anyone claiming asylum should be deported to the first safe country they passed through after leaving their home.
-The notion that every person born within the borders of the US should be a US citizen is an absurd misinterpretation of the 14th Amendment.
+The notion that every person born within the borders of the US should be a US citizen is an absurd misinterpretation of the 14 th Amendment.
 Congress can change the naturalization law to remove mistakenly-granted citizenship and prevent its further practice.
 As your Congressman, I will work to do so.
-Build Families and Local Economies
-The traditional retirement plan for thousands of years has been to have children.
+Build Families and Local Economies The traditional retirement plan for thousands of years has been to have children.
 Parents who raise healthy, strong, happy children can count on those children to care for them once they’ve lost their ability to work.
 They can count on having grandchildren to help raise and bring joy and meaning to the lives of both grandparent and grandchild.
 Wealth transfer programs like Social Security and Medicare have interrupted that healthy relationship and driven a divide between the generations.
@@ -61,8 +59,7 @@ Retiring grandparents should prioritize supporting their children in forming fam
 As your Congressman, I can push to repeal the many laws and regulations that make it so difficult to run a legitimate business hiring American workers, including minimum wage laws and programs like Obamacare that balloon the cost of hiring an employee and shut low-yield jobs out of the legitimate market.
 I will fight to abolish the Death Tax that discourages parents from building wealth to pass on to their descendants.
 I will attack the regulatory state that burdens the American entrepreneur and prevents the growth of real wealth that could alleviate the financial stress under which young adults are suffering.
-Demographics and the Welfare State
-The government has a very strong incentive to import young foreigners en masse.
+Demographics and the Welfare State The government has a very strong incentive to import young foreigners en masse .
 America’s population is aging, and our fertility rate is well below replacement.
 The New Deal and Great Society wealth redistribution programs presumed that most Americans would die in their 60s and 70s, and the economy would continue to grow exponentially as it did following the end of the second World War.
 America has neither the money nor the workers to deliver on the promises the government has made to today’s retirees.
@@ -74,7 +71,7 @@ The American Ponzi Scheme is collapsing, and we are going to be left holding the
 All we can do is try to set ourselves up to survive it.
 It is not fair that today’s young have been robbed to pay for previous generations’ largesse.
 We must not make the problem worse and pass it on to our own children.
-Bring all the troops all the way home.
+War Bring all the troops all the way home.
 End all proxy wars.
 No member of the US military should be deployed anywhere outside US territory.
 Unless and until the US Congress declares war against another country, they should be at home with their families, commuting to base every work day to maintain equipment and train.
@@ -91,9 +88,8 @@ The government sees you as its enemy.
 The Global War on Terror included a great many strategies of “counter-terrorism.” Surveillance, counterinsurgency, infiltration, and assassination have become normal practice for the military and the intelligence agencies.
 Now, all that apparatus has turned inwards, directed at the American people.
 Holding social views which were normal in 2011 will now land you on a government watch list.
-In this environment, with recruiting coming in way below target, the military is considering the possibility of recruiting foreigners to fill the ranks; all this, while the top military brass receives briefings about the evils of whiteness and the threat of the “far right.”
-We need our troops home, and we need them to be an integral part of our local communities, because otherwise, we face the prospect of being conquered by our own government.
-End the Federal Reserve.
+In this environment, with recruiting coming in way below target, the military is considering the possibility of recruiting foreigners to fill the ranks; all this, while the top military brass receives briefings about the evils of whiteness and the threat of the “far right.” We need our troops home, and we need them to be an integral part of our local communities, because otherwise, we face the prospect of being conquered by our own government.
+Money End the Federal Reserve.
 Return To Sound Money.
 In 2020, the Federal Reserve created over $6,000,000,000,000 out of thin air.
 This massive expansion of the money supply, along with the government lockdowns, is the root cause of the massive price increases which we still suffer today.
@@ -122,7 +118,7 @@ They will shut down your access to your account if you organize a protest that a
 They will organize an industry-wide refusal to accept your business, if you are denounced as anathema by the corporate press.
 Divesting from the US Dollar and banking system isn’t an investment decision.
 It’s an act of self-preservation.
-End the Drug War.
+Drugs End the Drug War.
 It is not a good thing that people use mind-altering substances recreationally.
 These substances are usually addictive and unhealthy, and distract people from working to improve themselves and their communities.
 The Drug War is worse.
@@ -143,7 +139,7 @@ One needs only go to Portland, Seattle, San Francisco, or Los Angeles to see hun
 No reasonable property owner would allow these vagrants to stay on their property.
 The government, which makes a claim to own the streets, sidewalks, and parks, should act the same way.
 People camping in public areas not designated for that purpose should be detained and offered three options: a trip to rehab, a trip to a homeless shelter that is willing to take them, or a trip to a city that will tolerate them.
-Shut Down the Spy Agencies.
+Law Shut Down the Spy Agencies.
 The self-titled “Intelligence Community” is more powerful than any elected politician.
 The CIA effectively has a veto on any President’s foreign policy decisions.
 The FBI is the greatest source of funding for political violence within America.
@@ -180,7 +176,7 @@ This is anarcho-tyranny.
 There is no rule of law, only the rule by rulers who hate you and your way of life.
 The legal system is no longer here to protect you.
 Act accordingly.
-End Government-Owned Education.
+Education End Government-Owned Education.
 Since the establishment of the US Department of Education, schooling has gotten more expensive, test scores have gone down, and our schools have become ideological indoctrination farms and battlegrounds.
 Since the US Government started guaranteeing student loans, tuition prices have risen at three times the rate of the overall price level.
 University endowments have grown, while Master’s Degrees carry less weight than a Bachelor’s Degree did in 1965, and college graduates often find themselves impoverished by their debts.
@@ -195,7 +191,7 @@ However, parents should ask themselves: what sacrifice would you not make to ens
 As your Congressman, I will do everything possible to reduce the government’s burdens on your finances and requirements for your children’s education, so that you can take up the full responsibility of raising your children.
 The Experts are Corrupt.
 Universities, colleges, research labs, and schools are meant to be the institutions in our society which develop and prove knowledge.
-If an Ivy League professor publishes a paper in Nature, or a Stanford Medical researcher publishes in The Lancet, we should be able to accept their conclusions as correct and reliable.
+If an Ivy League professor publishes a paper in Nature , or a Stanford Medical researcher publishes in The Lancet , we should be able to accept their conclusions as correct and reliable.
 We can’t.
 Progressive social activism and loyalty to the Global American Empire are the two most important topics taught in government schools.
 Allegiance to those ideas is the most important qualification for publishing, hiring, and admission at the formerly respected Ivy League.
@@ -204,7 +200,7 @@ You can and must protect your children from this monster.
 Most people will not.
 That means you must prepare your children to survive in that world, to find people on whom they can rely and with whom they can build a parallel economy.
 The old institutions will not accept them if they are well-adjusted human beings who refuse to live by lies.
-Decentralize Everything.
+Social Issues Decentralize Everything.
 Topics like abortion, transgenderism, segregation and racial discrimination, expanded definitions of marriage, gun confiscation, and censorship are not at all within the purview of the United States Federal Government.
 I believe that abortion is an act of homicide; that gender dysphoria is an illness which should be treated with compassion, but not hormones, surgery, and lies; and that marriage is a religious covenant between a man, a woman, and God.
 I oppose all efforts to restrict the ownership or production of any weapon.
@@ -214,8 +210,7 @@ I will push to undo poorly-reasoned court decisions which have allowed the Feds 
 Filburn and Obergefell v.
 Hodges.
 I will encourage state governments to devolve these decisions down to the County and City level, or to remove themselves entirely from the sphere.
-Address Social Problems Early
-The insanity of America’s modern sexual culture manifests itself in millions of abortions, obsessions with gender identity, and unhealthy long-term relationships.
+Address Social Problems Early The insanity of America’s modern sexual culture manifests itself in millions of abortions, obsessions with gender identity, and unhealthy long-term relationships.
 None of those is the root cause.
 Americans are inundated with propaganda about how traditions are restrictive and oppressive, commitments are a burden, and hedonism is the greatest possible expression of liberation.
 This is not a natural phenomenon; it has been pushed on our youth by corporate entertainment, government education, and a pharmaceutical industry eager to make lifelong customers of hormone treatments like birth control and “gender transition supplements,” and prescription drugs like SSRIs.
@@ -226,15 +221,14 @@ The Global American Empire has managed to make the progressive position on topic
 It has done this because a hedonistic, isolated individual, who does not have responsibilities to a family or a community, is easy to manipulate into supporting the regime’s latest Current Thing.
 It takes much more force to rule a person with deep ties to a long tradition, to the land in which their family has lived for generations, to a way of life that has been fruitful for centuries.
 A substantial majority of Americans will not leave a hedonistic life behind.
-As we saw in communist countries in the 20th century, many among them will come to resent those who live according to traditional values, to the point of violence.
+As we saw in communist countries in the 20 th century, many among them will come to resent those who live according to traditional values, to the point of violence.
 We have already seen churches burned in Canada over a fiction, and America is not far behind, with the dominant culture’s hostility to Christianity in particular.
 Some politicians think that America can be made a God-fearing country again through the force of the state.
 They are wrong.
 The people who make up every level of government administrations will not go along with such an effort; they will resist it at every turn, while planning to use any expanded power to force the GAE culture upon traditionalists even further.
 The administrative state will not willingly stop doing evil.
 Therefore, as your Congressman, I will do everything in my power to destroy the administrative state.
-End the “Civil Rights” Regime
-America’s culture is divided on a plethora of issues.
+The Culture War End the “Civil Rights” Regime America’s culture is divided on a plethora of issues.
 Race, sex, sexuality, faith, and dozens of other elements of our identities are levered into political causes by malevolent activists.
 These conflicts infiltrate our workplaces, our churches, our entertainment, and even our families.
 This is not an accident, nor is it a product of liberty.
@@ -243,8 +237,7 @@ When the Government is the source of rights, wealth, and safety, and distributes
 As your Congressman, I will work to repeal the Civil Rights Act of 1964, and all the rest of the ill-advised legislation from that era.
 You have a right to discriminate on any grounds you find useful.
 If I dislike your standards, I have the right to criticize you, but not to use violence to force you to change.
-Balance Unity and Meritocracy
-An organization like a company, a church, or a charity has a purpose.
+Balance Unity and Meritocracy An organization like a company, a church, or a charity has a purpose.
 The company provides a product or service to customers.
 The church creates a community attempting to serve God.
 The charity helps people in a rough situation.
@@ -255,8 +248,7 @@ Sometimes, these people are highly competent in their role; nonetheless, if they
 Similarly, customers on the market should pay attention to whether businesses are holding true to their mission.
 When a company makes clear that its mission is primarily to advance a political movement, rather than to deliver high quality products, customers should take their business elsewhere.
 As your Congressman, I will work to eliminate laws that prevent companies from clearing out employees who attempt to turn their company into a center for activism.
-The Competency Crisis is Here
-Affirmative Action policies have been in place for decades, forcing institutions to lower their standards in order to meet quotas.
+The Competency Crisis is Here Affirmative Action policies have been in place for decades, forcing institutions to lower their standards in order to meet quotas.
 Diversity, Equity, and Inclusion programs are part of every HR department.
 While the brand of ESG has begun to fall out of favor with the investor class, they continue to direct tens of trillions of dollars of your retirement money into businesses that promise to advance their favored social causes.
 All of this combines to create the competency crisis.
@@ -268,3 +260,10 @@ Hundreds of billions of dollars are spent on “teambuilding” exercises while 
 Most of the American economy is fake, kept running by shared fictions.
 This will only get worse until it collapses.
 Our best hope is to try to build strong local economies outside that system, so that we are not dragged down with it.
+Matt Loesby for Idaho Stop Doing Evil.
+Re-knit the Social Fabric.
+Know What Time It Is.
+Elect Matt Loesby to the US House for Idaho.
+About the Campaign Platform Who Am I?
+Can I Win?
+Help the Campaign Recent News Libertarian Party Politics (1) Uncategorized (2) Social Media Twitter Facebook Support the Campaign Donate Volunteer

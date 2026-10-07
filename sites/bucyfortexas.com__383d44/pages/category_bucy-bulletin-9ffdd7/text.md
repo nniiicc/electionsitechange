@@ -1,52 +1,41 @@
-Friends, The regular legislative session has officially come to a close, and I want to take a moment to thank each and every one of you.
-I’m incredibly proud of the dedication I saw pour out of Austin, Round Rock, and Cedar Park — all of us united in our hope to guide Texas through […]
-Category: Bucy Bulletin
-Friends, This edition of the Bucy Bulletin begins with an important update around COVID-19, also known as the Coronavirus, in Williamson County and Texas.
+Skip to content Re-Elect John Bucy III Democrat for Texas House District 136 Primary Menu Meet John Priorities Education Healthcare Property Taxes Criminal Justice Reform Gun Violence Prevention LGBTQ+ Equality Voting Rights Environmental Protection Local Control Get Involved How to Vote News For Constituents Donate Category: Bucy Bulletin Bucy Bulletin – Session Recap Posted on June 20, 2025 by John Bucy Campaign Friends, The regular legislative session has officially come to a close, and I want to take a moment to thank each and every one of you.
+I’m incredibly proud of the dedication I saw pour out of Austin, Round Rock, and Cedar Park — all of us united in our hope to guide Texas through […] Posted in Bucy Bulletin Tagged bucy bulletin Bucy Bulletin and Coronavirus Update: March 2020 Posted on April 7, 2020 April 22, 2020 by John Bucy Campaign Friends, This edition of the Bucy Bulletin begins with an important update around COVID-19, also known as the Coronavirus, in Williamson County and Texas.
 In addition to the information provided, there are links to learn more from state and local authorities as well as resources about preventing the spread of the disease.
-This monthly newsletter […]
-Friends, 2020 is off to a fast start for Team Bucy!
+This monthly newsletter […] Posted in Bucy Bulletin Bucy Bulletin: February 2020 Posted on March 12, 2020 April 22, 2020 by John Bucy Campaign Friends, This edition of the Bucy Bulletin begins with an important update around COVID-19, also known as the Coronavirus, in Williamson County and Texas.
+In addition to the information provided, there are links to learn more from state and local authorities as well as resources about preventing the spread of the disease.
+This monthly newsletter […] Posted in Bucy Bulletin Bucy Bulletin: January 2020 Posted on February 5, 2020 April 22, 2020 by John Bucy Campaign Friends, 2020 is off to a fast start for Team Bucy!
 We spent time marching in parades, attended events in the community, and the House Elections Committee met for an Interim Hearing.
 On a personal note, my wife Molly and I were proud to welcome our first child to the world.
-This edition of the monthly […]
-Friends, Happy New Year!
+This edition of the monthly […] Posted in Bucy Bulletin Bucy Bulletin: New Years Edition Posted on January 6, 2020 April 22, 2020 by John Bucy Campaign Friends, Happy New Year!
 I’m so grateful for the opportunity to spend the holidays with my friends and family and hope you were able to find time to do the same.
 We had a great December attending festive events in the community, visiting local businesses, and getting ready for an exciting year ahead.
-This edition […]
-Friends, November was a busy month for Team Bucy!
+This edition […] Posted in Bucy Bulletin Bucy Bulletin: November 2019 Posted on December 12, 2019 April 22, 2020 by John Bucy Campaign Friends, November was a busy month for Team Bucy!
 We spent time volunteering and giving thanks, wrote an op-ed on Medicaid expansion, and received interim charges.
-This edition of the monthly Bucy Bulletin will cover that as well as showcase community events, discuss legislative activity over the Interim, and highlight our Artist of the Month. […]
-Friends, October went by way too fast!
+This edition of the monthly Bucy Bulletin will cover that as well as showcase community events, discuss legislative activity over the Interim, and highlight our Artist of the Month. […] Posted in Bucy Bulletin Bucy Bulletin: October 2019 Posted on November 7, 2019 April 22, 2020 by John Bucy Campaign Friends, October went by way too fast!
 Last month we held another Town Hall, attended events throughout the district, and began to work in earnest on our legislative agenda for next session.
-This edition of the monthly Bucy Bulletin will cover that as well as showcase community events, discuss legislative activity over the Interim, and […]
-Friends,September has come and gone and fall is just around the corner!
+This edition of the monthly Bucy Bulletin will cover that as well as showcase community events, discuss legislative activity over the Interim, and […] Posted in Bucy Bulletin Bucy Bulletin: September 2019 Posted on October 2, 2019 April 23, 2020 by John Bucy Campaign Friends,September has come and gone and fall is just around the corner!
 This month we had an Elections Committee meeting in Houston, opened our District Office, and are preparing for our October Town Hall.
 This edition of the monthly Bucy Bulletin will cover that as well as showcase community events, discuss legislative activity over the Interim, and highlight our Artist of the Month.I am so grateful for this opportunity to serve you, HD 136, and the people of Texas.
-Please do not ever hesitate
-Friends,It’s been a great August for Team Bucy!
+Please do not ever hesitate Posted in Bucy Bulletin Bucy Bulletin: August 2019 Posted on August 31, 2019 April 23, 2020 by John Bucy Campaign Friends,It’s been a great August for Team Bucy!
 We submitted our Interim Charge requests, went to two legislative conferences, and are preparing to open our District Office.
 This edition of the monthly Bucy Bulletin will cover that as well as showcase community events, discuss legislative activity over the Interim, and highlight our Artist of the Month.I am so grateful for this opportunity to serve you, HD 136, and the people of Texas.
-Please do not ever hesitate to reach out if you have any
-Friends,It’s been a productive July for Team Bucy!
+Please do not ever hesitate to reach out if you have any Posted in Bucy Bulletin Bucy Bulletin: July 2019 Posted on August 1, 2019 April 23, 2020 by John Bucy Campaign Friends,It’s been a productive July for Team Bucy!
 We held a Legislative Town Hall, started a backpack and school supply drive, and went on a trip to Houston with the Culture, Recreation & Tourism Committee to commemorate the 50th Anniversary of the Moon Landing.
-This edition of the monthly Bucy Bulletin will cover that as well as showcase community events, discuss legislative activity over the Interim, and highlight our Artist of the Month.I am so grateful for this opportunity to serve you, HD
-Friends,Summer is in full swing, but that hasn’t slowed us down.
+This edition of the monthly Bucy Bulletin will cover that as well as showcase community events, discuss legislative activity over the Interim, and highlight our Artist of the Month.I am so grateful for this opportunity to serve you, HD Posted in Bucy Bulletin Bucy Bulletin: June 2019 Posted on July 9, 2019 April 23, 2020 by John Bucy Campaign Friends,Summer is in full swing, but that hasn’t slowed us down.
 We were named Best of the Best by the Hill Country News, have had more opportunities to attend events in the district, and have spent a whole lot of time talking about the 86th Legislative Session.
-This edition of the monthly Bucy Bulletin will cover that as well as showcase community events, discuss legislative activity over the Interim, and highlight our Artist of the Month.I am so grateful for this opportunity to serve you, HD
-Friends,The Legislative Session ended on a high note for Team Bucy — we were named Freshman of the Year, able to send seven bills to the governor’s desk, stopped some bad election policy, and finally adopted a state budget.
+This edition of the monthly Bucy Bulletin will cover that as well as showcase community events, discuss legislative activity over the Interim, and highlight our Artist of the Month.I am so grateful for this opportunity to serve you, HD Posted in Bucy Bulletin Bucy Bulletin: May 2019 Posted on May 31, 2019 April 23, 2020 by John Bucy Campaign Friends,The Legislative Session ended on a high note for Team Bucy — we were named Freshman of the Year, able to send seven bills to the governor’s desk, stopped some bad election policy, and finally adopted a state budget.
 This edition of the monthly Bucy Bulletin will cover that as well as showcase community events, discuss legislative outcomes, and highlight our Artist of the Month.I am so grateful for this opportunity to serve you, HD 136, and the people of Texas.
-Please do not ever
-Friends,April was full of legislative milestones as we passed our first bills out of the House, voted for a transformational school finance bill, and held our first legislative Town Hall.
+Please do not ever Posted in Bucy Bulletin Bucy Bulletin: April 2019 Posted on May 1, 2019 April 23, 2020 by John Bucy Campaign Friends,April was full of legislative milestones as we passed our first bills out of the House, voted for a transformational school finance bill, and held our first legislative Town Hall.
 This edition of the monthly Bucy Bulletin will cover that as well as showcase community events, discuss legislative updates, and highlight our Artist of the Month.I am so grateful for this opportunity to serve you, HD 136, and the people of Texas.
-Please do not ever hesitate to reach out if you have any
-Friends,March was a busy month at the Capitol!
+Please do not ever hesitate to reach out if you have any Posted in Bucy Bulletin Bucy Bulletin: March 2019 Posted on April 2, 2019 April 23, 2020 by John Bucy Campaign Friends,March was a busy month at the Capitol!
 The Texas House adopted its version of the state biennial budget, we laid out more bills and reached additional legislative milestones, and we are busy preparing for our HD 136 Town Hall.
 This edition of the monthly Bucy Bulletin will cover that as well as showcase community events, discuss legislative updates, and highlight our Artist of the Month.I am so grateful for this opportunity to serve you, HD 136, and the people of Texas.
-Please do not
-Friends,February has gone by faster than we ever thought possible!
+Please do not Posted in Bucy Bulletin Bucy Bulletin: February 2019 Posted on March 1, 2019 April 23, 2020 by John Bucy Campaign Friends,February has gone by faster than we ever thought possible!
 We’ve participated in our first committee meetings, had bills set for public hearing, and are preparing for a rally in favor of Medicaid Expansion.
 This edition of the monthly Bucy Bulletin will cover that as well as showcase community events, discuss legislative updates, and highlight our Artist of the Month.I am so grateful for this opportunity to serve you, HD 136, and the people of Texas.
-Please do not ever hesitate to reach
-Friends,This has been an exciting first month in our office!
+Please do not ever hesitate to reach Posted in Bucy Bulletin Bucy Bulletin: January 2019 Posted on February 5, 2019 April 23, 2020 by John Bucy Campaign Friends,This has been an exciting first month in our office!
 We’ve filed our first bills, received our committee assignments, held our first two town halls, and launched our Community Advisory Boards.
 This edition of the Bucy Bulletin will cover that as well as introduce our staff, discuss community events, and legislative updates, and highlight our Artists of the Month.I am so grateful for this opportunity to serve you, HD 136, and the people of Texas.
-Please do not ever hesitate to reach out
+Please do not ever hesitate to reach out Posted in Bucy Bulletin Categories Awards Bucy Bulletin Events Press Releases Priorities Town Hall Uncategorized Voting Information Archives July 2025 June 2025 January 2025 May 2024 September 2023 August 2023 July 2023 June 2023 May 2023 April 2023 November 2022 October 2022 September 2022 August 2022 June 2022 May 2022 January 2022 December 2021 July 2021 June 2021 November 2020 October 2020 September 2020 July 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 Meet John Priorities Education Healthcare Property Taxes Criminal Justice Reform Gun Violence Prevention LGBTQ+ Equality Voting Rights Environmental Protection Local Control Get Involved How to Vote News For Constituents Donate Connect with us X Facebook Instagram Contact us P.O.
+Box 536, Austin, TX 78767 (512) 680-3762 johnbucy@bucyfortexas.com Privacy Policy Paid for by: POLITICAL ADVERTISING PAID FOR BY JOHN BUCY CAMPAIGN, MOLLY BUCY, TREASURER Powered by Tech for Campaigns Loading Comments...
+You must be logged in to post a comment.

@@ -1,7 +1,11 @@
 {
  "description": "Subscribe to our newsletter and read newsletters",
  "final_url": "https://shawnchaunceyforkansas.com/newsletter",
+ "fingerprint": "74465c72f65128ef00676b6f47df587f3a4f1c71",
+ "format": 3,
  "paid_for_by": "Paid for by Shawn Chauncey for Kansas",
  "title": "Newsletter - Political Campaign",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

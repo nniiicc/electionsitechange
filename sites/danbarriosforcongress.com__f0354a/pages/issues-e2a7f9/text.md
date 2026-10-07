@@ -1,5 +1,3 @@
-top of page
-Issues
-In Congress, I will fight for priorities that improve the lives of hardworking Texans.
+top of page Home About Dan Issues District 32 Map Contact Dan Get Involved Get Involved Events DONATE STORE Issues In Congress, I will fight for priorities that improve the lives of hardworking Texans.
 I pledge to represent the people of Texas with honor and integrity.
-bottom of page
+Taxes and Affordability Restoring Trust and Accountability Quality Public Education Access to Health Care Faith and Family Immigration Reform Technology and Innovation Labor and Business Rural and Agriculture Foreign Policy and Veterans Energy and Environment Public Safety info@danbarriosforcongress.com PO Box 830507 Richardson, Texas 75083 PAID FOR BY DAN BARRIOS FOR CONGRESS bottom of page

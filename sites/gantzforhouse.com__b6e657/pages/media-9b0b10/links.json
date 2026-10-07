@@ -1,7 +1,42 @@
 [
-"https://facebook.com/GantzForHouse",
-"https://gantzforhouse.com/",
-"https://gantzforhouse.com/media",
-"https://instagram.com/",
-"https://secure.actblue.com/donate/jeremiah-gantz-hd14"
+{
+"text": "918-609-0257",
+"href": "tel:918-609-0257"
+},
+{
+"text": "ABOUT",
+"href": "https://www.gantzforhouse.com/#about"
+},
+{
+"text": "D O N A T E",
+"href": "https://secure.actblue.com/donate/jeremiah-gantz-hd14"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.gantzforhouse.com/#getinvolved"
+},
+{
+"text": "HOME",
+"href": "https://www.gantzforhouse.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.gantzforhouse.com/#issues"
+},
+{
+"text": "MEDIA",
+"href": "https://www.gantzforhouse.com/media"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/GantzForHouse"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "info@gantzforhouse.com",
+"href": "mailto:info@gantzforhouse.com"
+}
 ]

@@ -1,12 +1,42 @@
 [
-"https://ronbryce.com/",
-"https://ronbryce.com/cart",
-"https://ronbryce.com/contact",
-"https://ronbryce.com/in-the-news",
-"https://ronbryce.com/issues",
-"https://ronbryce.com/join-the-team",
-"https://ronbryce.com/meet-ron",
-"https://ronbryce.com/takeaction",
-"https://ronbryce.com/updates",
-"https://secure.winred.com/ron-bryce-for-kansas-house/donate-today"
+{
+"text": "0",
+"href": "https://www.ronbryce.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.ronbryce.com/contact"
+},
+{
+"text": "In the News",
+"href": "https://www.ronbryce.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://www.ronbryce.com/issues"
+},
+{
+"text": "Join the Team",
+"href": "https://www.ronbryce.com/join-the-team"
+},
+{
+"text": "Legislative Updates",
+"href": "https://www.ronbryce.com/updates"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.winred.com/ron-bryce-for-kansas-house/donate-today%20"
+},
+{
+"text": "Meet Ron",
+"href": "https://www.ronbryce.com/meet-ron"
+},
+{
+"text": "TAKE ACTION",
+"href": "https://www.ronbryce.com/takeaction"
+},
+{
+"text": "[image: RON BRYCE FOR KANSAS]",
+"href": "https://www.ronbryce.com/"
+}
 ]

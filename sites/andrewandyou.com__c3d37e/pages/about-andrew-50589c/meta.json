@@ -1,12 +1,13 @@
 {
  "description": "Meet Andrew Jones, State Senator advocating for Christian Conservative values and economic growth in Northeast Alabama. Join him in making a difference!",
  "final_url": "https://andrewandyou.com/about-andrew",
- "paid_for_by": "Paid for by Friends of Andrew Jones 690 County Road 202 | Centre, Alabama 35960, United States Copyright \u00a9 2026 Andrew &amp; You - All Rights Reserved",
+ "fingerprint": "1129222f78d085f712fad4727e2c560ebd0c2d66",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Andrew Jones 690 County Road 202",
  "title": "About Andrew | Andrew & You",
  "years_mentioned": [
   "2017",
   "2018",
-  "2019",
-  "2026"
+  "2019"
  ]
 }

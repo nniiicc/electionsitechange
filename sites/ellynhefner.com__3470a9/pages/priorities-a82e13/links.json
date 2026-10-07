@@ -1,10 +1,34 @@
 [
-"https://ellynhefner.com/",
-"https://ellynhefner.com/copy-of-social-media",
-"https://ellynhefner.com/getinvolved",
-"https://ellynhefner.com/meet-ellyn",
-"https://ellynhefner.com/priorities",
-"https://facebook.com/ellynhefnerhd87",
-"https://instagram.com/ellynhefnerhd87",
-"https://secure.actblue.com/donate/ellynonline"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ellynonline"
+},
+{
+"text": "HOME",
+"href": "https://www.ellynhefner.com"
+},
+{
+"text": "MEET ELLYN",
+"href": "https://www.ellynhefner.com/meet-ellyn"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.ellynhefner.com/priorities"
+},
+{
+"text": "UP TO DATE",
+"href": "https://www.ellynhefner.com/copy-of-social-media"
+},
+{
+"text": "YARD SIGN",
+"href": "https://www.ellynhefner.com/getinvolved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ellynhefnerhd87"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/ellynhefnerhd87/"
+}
 ]

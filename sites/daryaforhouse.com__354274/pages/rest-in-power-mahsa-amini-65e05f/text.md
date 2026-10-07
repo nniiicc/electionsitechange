@@ -1,4 +1,4 @@
-Protests continue in Iran.
+Skip to content About Issues Endorsements Get Involved Contact RSVP News Donate About Issues Endorsements Get Involved Contact RSVP News Donate Back to News October 20, 2022 Statements Rest in Power Mahsa Amini Protests continue in Iran.
 This weekend there was a fire at Evin Prison in Tehran, a notorious political prison.
 I have family members who have survived Evin, activists who spoke up against the regime and were incarcerated for their beliefs.
 I cannot even begin to imagine what torture happens within those walls.
@@ -11,19 +11,13 @@ I have and will always stand with the Iranian people against oppression and tyra
 We have to amplify Iranians’ voices, which is why the news outlet I’ve shared is IranWire.
 IranWire is a collaborative news website run by professional Iranian journalists in the diaspora and citizen journalists inside Iran.
 They focus on documenting human rights abuses in Iran, official fact-checking claims, and analyzing government competence in its most important task: caring for the people.
-I strongly encourage my friends to look to Iranian sources to learn about what’s happening in Iran. https://iranwire.com/…/108677-day-30-more-protests…/
-Please help us continue to amplify Iranian people’s voices and sign our letter asking for a state Middle Eastern commission within the Governor’s office.
+I strongly encourage my friends to look to Iranian sources to learn about what’s happening in Iran. https://iranwire.com/…/108677-day-30-more-protests…/ Please help us continue to amplify Iranian people’s voices and sign our letter asking for a state Middle Eastern commission within the Governor’s office.
 We must institutionalize our voices beyond the election cycle.
-#women_life_liberty
-#women_life_freedom
-#democracyforiran
-October 3rd, 2022
-When events like the death of Mahsa Amini happen, we need an institutional voice to make sure these issues aren’t lost and our communities are heard.
+#women_life_liberty #women_life_freedom #democracyforiran October 3rd, 2022 When events like the death of Mahsa Amini happen, we need an institutional voice to make sure these issues aren’t lost and our communities are heard.
 This is why today, we, the undersigned, ask that the State of Washington establish a state commission on Middle Eastern affairs within the Governor’s office.
 We call upon our leadership, Governor Inslee, Speaker Jinkins, and Majority Leader Billig to stand with the Iranian community and Middle Eastern community in Washington.
-Join us in our fight for representation, and sign the petition today.
-September 24th, 2022
-On September 16, Mahsa Amini was murdered by the Iranian morality police, because her hijab was not up to their standards.
+Join us in our fight for representation, and sign the petition today .
+September 24th, 2022 On September 16, Mahsa Amini was murdered by the Iranian morality police, because her hijab was not up to their standards.
 The Iranian morality police have been brutalizing and killing Iranian women for decades: Zahra Bani-Yaghoub, Minoo Hassanabadi, Sepideh Rashnu, and many who will forever remain nameless.
 Each time protest erupts, the world expresses sympathy and then moves on when the news cycle ends.
 The people of Iran deserve better.
@@ -59,14 +53,9 @@ I’m so grateful for the brave journalists and activists sharing the current st
 The death of Mahsa Amini and all other Iranian women is an undebatable, devastating loss.
 Rest in power, Mahsa, you’ve given birth to a new movement.
 Free Iran.
-Sign our petition.
-Darya
-#MahsaAmini #Mahsa_Amini #IranProtests #مهسا_امینی #BraveIranianWomen
-Sources
-1) https://www.cnn.com/2022/09/21/middleeast/iran-morality-police-mime-intl/index.html
-2) https://iranwire.com/en/women/107624-scenes-from-morality-patrol-crimes-a-brief-chronology/
-September 19th, 2022
-I stand with my Iranian sisters in their resistance to compulsory hijab and I mourn with all Iranians the death of Mahsa Amini whose life was tragically cut short in her encounter with the Iranian morality police.
+Sign our petition .
+Darya #MahsaAmini #Mahsa_Amini #IranProtests #مهسا_امینی #BraveIranianWomen Sources 1) https://www.cnn.com/2022/09/21/middleeast/iran-morality-police-mime-intl/index.html 2) https://iranwire.com/en/women/107624-scenes-from-morality-patrol-crimes-a-brief-chronology/ 3) https://iranwire.com/en/politics/107859-they-were-doing-their-jobs-calls-grow-for-journalists-and-activists-to-be-released/ September 19th, 2022 I stand with my Iranian sisters in their resistance to compulsory hijab and I mourn with all Iranians the death of Mahsa Amini whose life was tragically cut short in her encounter with the Iranian morality police.
 Freedom to be who you are is an essential human right and one that we must all fight to protect.
 I’m so grateful for the rights and privileges I enjoy as an Iranian American and hope that one day Iranians can enjoy these too.
 Rest in power, Mahsa.
+Donate Now Get Involved — Paid for by Friends of Darya Farivar — PO Box 20664 Seattle, WA 98102 Facebook X-twitter Linkedin-in Accessibility Statement

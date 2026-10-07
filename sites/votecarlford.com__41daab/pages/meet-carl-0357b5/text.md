@@ -1,5 +1,4 @@
-Meet Carl
-Carl was born in Rowan County where he has lived most of his life.
+Carl Ford Home Meet Carl Issues DONATE Contact Events Carl Ford Home / Meet Carl / Issues / DONATE / Contact / Events / Carl Ford Meet Carl Carl Ford Home / Meet Carl / Issues / DONATE / Contact / Events / Meet Carl Carl was born in Rowan County where he has lived most of his life.
 He graduated from A.L.
 Brown High School.
 Carl earned his Eagle Scout.
@@ -20,3 +19,4 @@ In August of 2017, Carl decided to run for North Carolina Senate.
 He was elected to the NC Senate in November of 2018 and re-elected in 2020.
 He is currently serving his first term and is up for re-election in November 2020.
 Carl was elected by his peers to serve as the Republican Joint Caucus Leader.
+Home / Meet Carl / Issues / DONATE / Contact / Events / Carl Ford Request Yard Signs Volunteer Paid for by the Committee to Elect Carl Ford

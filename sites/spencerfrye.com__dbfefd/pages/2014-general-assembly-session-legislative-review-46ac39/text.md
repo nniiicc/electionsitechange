@@ -1,23 +1,17 @@
-2014 General Assembly Session Legislative Review
-The 2014 legislative session came to a frenetic end on March 20th as the House adjourned at midnight.
+State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate 2014 General Assembly Session Legislative Review Posted April 3, 2014 By Kyle Hayes Capitol Corner The 2014 legislative session came to a frenetic end on March 20th as the House adjourned at midnight.
 While several headlining bills hit procedural snags and failed to pass both the House and the Senate, the legislature did fulfill their constitutional obligation to pass a budget and passed several bills that strengthened educational opportunities, enabled low- income families to work towards home ownership, and celebrated the life of Martin Luther King Jr.
-Here is a review of the session:
-Spencer’s Legislation:
-Spencer introduced and passed House Bill 750.
+Here is a review of the session: Spencer’s Legislation: Spencer introduced and passed House Bill 750.
 This legislation allows for non-profit organizations that promote access to affordable housing to be exempt from the requirement of getting a state license to offer low-interest mortgages.
 HB 750 passed the House by a vote of 164 to 2 and the Senate by a vote of 45 to 10.
 The bill now sits on the Governor’s desk awaiting his signature.
-The Fiscal Year 2015 Budget:
-Spencer also supported the passage of the fiscal year 2015 budget which passed the House by a vote of 166 to 2 and the Senate by a vote of 49-0.
+The Fiscal Year 2015 Budget: Spencer also supported the passage of the fiscal year 2015 budget which passed the House by a vote of 166 to 2 and the Senate by a vote of 49-0.
 State revenues rebounded to pre- recession levels in this year’s budget, allowing investments in education that return the school year to a full 180 days in most districts.
 There were funding increases for K-12 education, Medicaid and PeachCare, the State Employee Retirement System, the Board of Regents Health Plan, State Employee and Board of Regents salaries, and a Department of Justice Settlement Agreement.
 Despite the increases, there is still a long way to go for Georgia to return to making sufficient investments in the foundations of our economy.
-According to GBPI analysis, 40% of new funds for K-12 education simply cover the growth in the number of Georgia students.
+According to GBPI analysis , 40% of new funds for K-12 education simply cover the growth in the number of Georgia students.
 Funding on a per-student basis is still lower than it was in 2002.
 The Great Recession presented Georgia with significant financial challenges in providing the needed investments to programs like education, however if Georgia wants to continue to be a national leader in economic growth and quality of life, we must commit to these investments.
-Source: Georgia Budget and Policy Institute
-Legislation Spencer Supported:
-Spencer supported several other pieces of legislation that will help strengthen Georgia programs and honor our state’s history.
+Page 1 Source: Georgia Budget and Policy Institute Legislation Spencer Supported: Spencer supported several other pieces of legislation that will help strengthen Georgia programs and honor our state’s history.
 House Bill 697, introduced by State Representative Stacey Evans, builds on her work in 2013.
 After reducing the GPA requirement to 2.0 for the HOPE Grant Scholarship, her efforts in 2014 continued to expand the HOPE Grant by creating the Zell Miller Grant Scholarship which covers 100% of tuition for students with a GPA of 3.5 or above.
 Spencer joined 168 Representatives and 56 Senators in supporting this bill.
@@ -30,8 +24,7 @@ Finally, Spencer voted in favor of legalizing the use of medicinal cannabis to t
 Treatment would have occurred in clinical trials and research settings.
 On March 3, the House passed House Bill 885 by a vote of 171 to 4.
 The Senate passed substitute legislation on Day 40, however both houses failed to reach a consensus on the changes made in the Senate’s bill before the end of Day 40 so changes to medical cannabis were not enacted.
-Legislation Spencer Opposed:
-There were several bills that Spencer opposed during session.
+Legislation Spencer Opposed: There were several bills that Spencer opposed during session.
 The first was House Bill 60 which expanded the places where guns can be carried to include churches, bars and government buildings.
 This expansion allows for the potentially tragic combination of guns and alcohol in places like Athens and other college towns across the state.
 This bill passed the House and Senate with significant Democratic opposition.
@@ -67,4 +60,5 @@ After a brief break, we will continue to share news and our views on the issues 
 Thank you for the opportunity to serve you and your family during the 2013-2014 legislative sessions.
 Please connect with us on Facebook and Twitter to let us know your concerns and goals for our state.
 Spencer and his team look forward to continuing to serve Athens throughout the rest of 2014 and into the next legislative session.
-Have a great day!
+Have a great day! ©# Spencer Frye State House 122.
+All Rights Reserved.

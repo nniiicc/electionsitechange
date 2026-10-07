@@ -1,6 +1,76 @@
-TEAM LILY – Deerfield Fair
-Deerfield Fairgrounds, 34 Stage Road, Deerfield, NH 03037 149th Annual Deerfield Fair.
+Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate Loading view.
+Events Events Events Events Search and Views Navigation Search Enter Keyword.
+Search for Events by Keyword.
+Find Events Event Views Navigation Month List Month Day This Month 10/7/2026 October 2026 Select date.
+Calendar of Events M Mon T Tue W Wed T Thu F Fri S Sat S Sun 0 events, 28 0 events, 28 0 events, 29 0 events, 29 0 events, 30 0 events, 30 1 event, 1 1 event, 1 2026-10-01 TEAM LILY – Deerfield Fair TEAM LILY – Deerfield Fair October 1 @ 8:00 am - October 3 @ 5:00 pm TEAM LILY – Deerfield Fair Deerfield Fairgrounds, 34 Stage Road, Deerfield, NH 03037 149th Annual Deerfield Fair.
 Agricultural fair with livestock, midway, entertainment.
 Thursday-Saturday 8am-10pm, Sunday 8am-7pm.
 Adults $12 at gate, kids 12 and under free, military free.
-Source: deerfieldfair.com
+Source: deerfieldfair.com 1 event, 2 1 event, 2 2026-10-01 TEAM LILY – Deerfield Fair 5 events, 3 5 events, 3 2026-10-01 TEAM LILY – Deerfield Fair 2026-10-03 TEAM LILY – Peak into Peterborough TEAM LILY – Peak into Peterborough October 3 TEAM LILY – Peak into Peterborough Saturday, 10/3 Downtown Peterborough, NH Free community celebration with vendors, live music, food, and family activities.
+9:30 am - 11:30 am TEAM LILY – Cheshire County GOP Meeting October 3 @ 9:30 am - 11:30 am TEAM LILY – Cheshire County GOP Meeting Saturday, 10/3, 9:30 AM Delegation Hall, Old Cheshire County Courthouse / Cheshire County Hall (Winter Street entrance), Keene, NH Monthly meeting of the Cheshire County Republican Committee.
+10:00 am - 3:00 pm TEAM LILY – Claremont Fall Festival & Chili Cook-Off October 3 @ 10:00 am - 3:00 pm TEAM LILY – Claremont Fall Festival & Chili Cook-Off Saturday, 10/3, 10:00 AM – 3:00 PM Visitors Center Green, 14 North Street, Claremont, NH 03743 Fall festival with a chili cook-off, vendors, music, and a 5K.
+Adults $5, kids under 12 $3.
+1:00 pm - 9:00 pm TEAM LILY – Sen.
+Howard Pearl’s 5th Annual Oktoberfest October 3 @ 1:00 pm - 9:00 pm TEAM LILY – Sen.
+Howard Pearl’s 5th Annual Oktoberfest Saturday, 10/3, 1:00 PM – 9:00 PMPearl & Son’s Farm, 409 Loudon Ridge Road, Loudon, NHSenator Howard Pearl’s 5th Annual Oktoberfest, with special guest Gov.
+Kelly Ayotte.
+Free and open to the community.
+0 events, 4 0 events, 4 1 event, 5 1 event, 5 6:00 pm - 8:00 pm TEAM LILY – Rindge-Jaffrey-Fitzwilliam Republican Committee Meeting October 5 @ 6:00 pm - 8:00 pm TEAM LILY – Rindge-Jaffrey-Fitzwilliam Republican Committee Meeting Monday, 10/5, doors 6:00 PM, meeting 6:30 PM Rindge Meeting House, 6 Payson Hill Road, Rindge, NH 03461 Monthly meeting of the Rindge-Jaffrey-Fitzwilliam Republican Committee.
+2 events, 6 2 events, 6 6:00 pm - 8:00 pm TEAM LILY – Dublin Area GOP Meeting October 6 @ 6:00 pm - 8:00 pm TEAM LILY – Dublin Area GOP Meeting Tuesday, 10/6, 6:00 PM Location TBA Monthly meeting of the Dublin Area Republican Committee.
+6:30 pm - 8:00 pm 10/6 – ASK ME ANYTHING Town Hall – Jaffrey October 6 @ 6:30 pm - 8:00 pm 10/6 – ASK ME ANYTHING Town Hall – Jaffrey Tuesday, 10/6, 6:30 PM – 8:00 PM VFW Legion Post 11, Jaffrey, NH Lily’s “Ask Me Anything” town hall.
+Free and open to the public.
+Bring your questions.
+1 event, 7 1 event, 7 6:00 pm - 7:35 pm 10/7 – UNH Carsey School Candidate Policy Forum (NH-02) – Concord October 7 @ 6:00 pm - 7:35 pm 10/7 – UNH Carsey School Candidate Policy Forum (NH-02) – Concord Wednesday, 10/7, 6:00 PM – 7:35 PM Rudman Center, UNH Franklin Pierce School of Law, Concord, NH A 35-minute, one-on-one policy conversation with Pulitzer Prize–winning Washington Post correspondent Kevin Sullivan, followed by vetted audience questions.
+Livestreamed statewide.
+0 events, 8 0 events, 8 2 events, 9 2 events, 9 2026-10-09 TEAM LILY – Milford Pumpkin Festival TEAM LILY – Milford Pumpkin Festival October 9 @ 5:00 pm - October 11 @ 3:00 pm TEAM LILY – Milford Pumpkin Festival Friday, 10/9 – Sunday, 10/11 Fri 5:00 PM – 9:00 PM, Sat 10:00 AM – 9:00 PM, Sun 10:00 AM – 3:00 PM Milford Oval, 1 Union St, Milford, NH 03055 Downtown Milford’s annual Pumpkin Festival with live music on three stages, vendors, and family activities.
+Free admission, free parking and shuttles.
+10:15 am 10/9 – Coffee Hour Meet & Greet – New Hampshire Veterans Home – Tilton October 9 @ 10:15 am 10/9 – Coffee Hour Meet & Greet – New Hampshire Veterans Home – Tilton Friday, 10/9, 10:15 AM New Hampshire Veterans Home, Tilton, NH Coffee hour meet and greet with Lily at the New Hampshire Veterans Home.
+Veterans and their families and friends are welcome.
+1 event, 10 1 event, 10 2026-10-09 TEAM LILY – Milford Pumpkin Festival 2 events, 11 2 events, 11 2026-10-09 TEAM LILY – Milford Pumpkin Festival 9:15 am 10/11 – Temple Beth Abraham Town Hall & Breakfast – Nashua October 11 @ 9:15 am 10/11 – Temple Beth Abraham Town Hall & Breakfast – Nashua Sunday, 10/11 – Breakfast at 9:15 AM, candidate program at 9:45 AM Temple Beth Abraham, 4 Raymond Street, Nashua, NH 03064 A bipartisan town hall hosted by the Southern NH Jewish Men’s Club and moderated by Rabbi Jon Spira-Savett.
+Opening statements, then Q&A.
+Open to the public.
+1 event, 12 1 event, 12 2:45 pm 10/12 – Right Side Broadcasting Network Interview – Virtual October 12 @ 2:45 pm 10/12 – Right Side Broadcasting Network Interview – Virtual Monday, 10/12, 2:45 PMVirtual (Right Side Broadcasting Network)Lily sits down with Right Side Broadcasting Network to talk about the campaign as the race heads into the final stretch.
+2 events, 13 2 events, 13 6:30 pm - 8:00 pm 10/13 – ASK ME ANYTHING Town Hall – Concord October 13 @ 6:30 pm - 8:00 pm 10/13 – ASK ME ANYTHING Town Hall – Concord Tuesday, 10/13, 6:30 PM – 8:00 PM Sweeney Auditorium, NHTI – Concord’s Community College, 31 College Drive, Concord, NH 03301 Lily’s “Ask Me Anything” town hall.
+Free and open to the public.
+Bring your questions.
+6:30 pm - 8:30 pm TEAM LILY – Swanzey/Richmond Republican Committee Meeting October 13 @ 6:30 pm - 8:30 pm TEAM LILY – Swanzey/Richmond Republican Committee Meeting Tuesday, 10/13, 6:30 PM Location TBA Monthly meeting of the Swanzey/Richmond Republican Committee.
+2 events, 14 2 events, 14 5:30 pm - 6:30 pm 10/14 – Fireside Chat with Lily – Dartmouth Rockefeller Center – Hanover October 14 @ 5:30 pm - 6:30 pm 10/14 – Fireside Chat with Lily – Dartmouth Rockefeller Center – Hanover Wednesday, 10/14, 5:30 PM – 6:30 PM Rockefeller Center for Public Policy, Dartmouth College, Hanover, NH A moderated fireside chat hosted by Dartmouth’s Rockefeller Center for Public Policy: a conversation with a Dartmouth faculty member about Lily’s background and policy priorities, followed by audience Q&A.
+Livestream planned on Dartmouth’s YouTube channel.
+6:30 pm - 8:00 pm TEAM LILY – Nashua Republican City Committee Meeting October 14 @ 6:30 pm - 8:00 pm TEAM LILY – Nashua Republican City Committee Meeting Wednesday, 10/14, social 6:30 PM, meeting 7:00 PM Sky Meadow Country Club, 6 Mountain Laurels Drive, Nashua, NH 03062 Monthly meeting of the Nashua Republican City Committee.
+3 events, 15 3 events, 15 5:00 pm 10/15 – NHPR / Granite State News Collaborative Candidate Forum (NH-02) – Keene October 15 @ 5:00 pm 10/15 – NHPR / Granite State News Collaborative Candidate Forum (NH-02) – Keene Thursday, 10/15 – Doors open at 5:00 PM, forum at 6:00 PM Brewbaker Cafe, Keene, NH A live-to-tape forum with a panel of New Hampshire journalists, using questions submitted by voters.
+It airs statewide on NHPR on Friday, 10/16 at 9:00 AM and 7:00 PM.
+6:00 pm - 7:30 pm TEAM LILY – Bow Republican Committee Meeting October 15 @ 6:00 pm - 7:30 pm TEAM LILY – Bow Republican Committee Meeting Thursday, 10/15, 6:00 PM Bow Old Town Hall, 91 Bow Center Road, Bow, NH 03304 Monthly meeting of the Bow Republican Committee.
+6:00 pm - 8:00 pm TEAM LILY – Concord Republican City Committee Meeting October 15 @ 6:00 pm - 8:00 pm TEAM LILY – Concord Republican City Committee Meeting Thursday, 10/15, 6:00 PM 53 Regional Drive, Concord, NH 03301 Monthly meeting of the Concord Republican City Committee.
+0 events, 16 0 events, 16 4 events, 17 4 events, 17 9:00 am - 10:30 am TEAM LILY – Weare Republican Committee Meeting October 17 @ 9:00 am - 10:30 am TEAM LILY – Weare Republican Committee Meeting Saturday, 10/17, 9:00 AM Weare Middle School Library, 16 East Road, Weare, NH 03281 Monthly meeting of the Weare Republican Committee.
+9:00 am - 9:00 pm TEAM LILY – RiverFire October 17 @ 9:00 am - 9:00 pm TEAM LILY – RiverFire Saturday, 10/17 Service Credit Union Heritage Park, 942 Main Street, Berlin, NH 03570 Fall festival with the Zombie ATV Poker Run, a 5K, food, music, fires on the river, and fireworks. $5 admission (kids 5 and under free).
+2:00 pm - 7:30 pm TEAM LILY – Keene Pumpkin Festival October 17 @ 2:00 pm - 7:30 pm TEAM LILY – Keene Pumpkin Festival Saturday, 10/17, 2:00 PM – 7:30 PM Central Square, Downtown Keene, NH 03431 Thousands of jack-o-lanterns, live music, food, and family activities.
+Free. + 1 More 0 events, 18 0 events, 18 1 event, 19 1 event, 19 7:30 am 10/19 – Greater Nashua Chamber “Eggs & Business Issues” Candidate Forum – Nashua October 19 @ 7:30 am 10/19 – Greater Nashua Chamber “Eggs & Business Issues” Candidate Forum – Nashua Monday, 10/19 – Breakfast at 7:30 AM, followed by the program Nashua, NH – venue TBA A breakfast candidate forum hosted by the Greater Nashua Chamber of Commerce as part of its “Eggs & Business Issues” series, featuring Lily Tang Williams and Rep.
+Maggie Goodlander.
+Questions are gathered in advance from the business community.
+1 event, 20 1 event, 20 7:00 pm 10/20 – General Debate – New England College, Henniker, 7pm October 20 @ 7:00 pm 10/20 – General Debate – New England College, Henniker, 7pm 10/20 General Election Debate hosted by New England College, in Henniker, 7pm (not yet confirmed by Maggie Goodlander) 1 event, 21 1 event, 21 6:30 pm - 8:30 pm TEAM LILY – Keene City Republican Committee Meeting October 21 @ 6:30 pm - 8:30 pm TEAM LILY – Keene City Republican Committee Meeting Wednesday, 10/21, 6:30 PM Delegation Hall (2nd floor), Old Cheshire County Courthouse / Cheshire County Hall (Winter Street entrance), Keene, NH Monthly meeting of the Keene City Republican Committee.
+1 event, 22 1 event, 22 6:30 pm - 8:00 pm 10/22 – ASK ME ANYTHING Town Hall – Nashua October 22 @ 6:30 pm - 8:00 pm 10/22 – ASK ME ANYTHING Town Hall – Nashua Thursday, 10/22, 6:30 PM – 8:00 PM Nashua Community College, 505 Amherst Street, Nashua, NH 03063 Lily’s “Ask Me Anything” town hall, co-sponsored by the Nashua Republican City Committee.
+Free and open to the public.
+Bring your questions.
+0 events, 23 0 events, 23 0 events, 24 0 events, 24 2 events, 25 2 events, 25 8:45 am 10/25 – Temple Adath Yeshurun Brotherhood Candidates Forum – Manchester October 25 @ 8:45 am 10/25 – Temple Adath Yeshurun Brotherhood Candidates Forum – Manchester Sunday, 10/25 – Doors open at 8:45 AM Temple Adath Yeshurun, 152 Prospect Street, Manchester, NH The Brotherhood’s long-running candidates forum, moderated by former Ambassador George Bruno.
+Opening statements, then audience Q&A.
+Free admission; bagels and coffee served.
+1:00 pm - 3:00 pm TEAM LILY – Winchester Republican Committee Meeting October 25 @ 1:00 pm - 3:00 pm TEAM LILY – Winchester Republican Committee Meeting Sunday, 10/25, 1:00 PM Location TBA Monthly meeting of the Winchester Republican Committee.
+0 events, 26 0 events, 26 0 events, 27 0 events, 27 1 event, 28 1 event, 28 2026-10-28 10/28 – WMUR Debate (NH-02) – Manchester 10/28 – WMUR Debate (NH-02) – Manchester October 28 10/28 – WMUR Debate (NH-02) – Manchester Wednesday, 10/28 – Time TBA WMUR News 9, Manchester, NH NH-02 congressional debate on WMUR.
+0 events, 29 0 events, 29 0 events, 30 0 events, 30 0 events, 31 0 events, 31 0 events, 1 0 events, 1 There are no events on this day.
+There are no events on this day.
+There are no events on this day.
+October 1 October 1 @ 8:00 am - October 3 @ 5:00 pm TEAM LILY – Deerfield Fair October 1 October 1 @ 8:00 am - October 3 @ 5:00 pm TEAM LILY – Deerfield Fair October 1 October 1 @ 8:00 am - October 3 @ 5:00 pm TEAM LILY – Deerfield Fair All day TEAM LILY – Peak into Peterborough October 3 @ 9:30 am - 11:30 am TEAM LILY – Cheshire County GOP Meeting October 3 @ 10:00 am - 3:00 pm TEAM LILY – Claremont Fall Festival & Chili Cook-Off October 3 @ 1:00 pm - 9:00 pm TEAM LILY – Sen.
+Howard Pearl’s 5th Annual Oktoberfest There are no events on this day.
+October 5 October 5 @ 6:00 pm - 8:00 pm TEAM LILY – Rindge-Jaffrey-Fitzwilliam Republican Committee Meeting October 6 October 6 @ 6:00 pm - 8:00 pm TEAM LILY – Dublin Area GOP Meeting October 6 @ 6:30 pm - 8:00 pm 10/6 – ASK ME ANYTHING Town Hall – Jaffrey October 7 October 7 @ 6:00 pm - 7:35 pm 10/7 – UNH Carsey School Candidate Policy Forum (NH-02) – Concord There are no events on this day.
+October 9 October 9 @ 5:00 pm - October 11 @ 3:00 pm TEAM LILY – Milford Pumpkin Festival October 9 @ 10:15 am 10/9 – Coffee Hour Meet & Greet – New Hampshire Veterans Home – Tilton October 9 October 9 @ 5:00 pm - October 11 @ 3:00 pm TEAM LILY – Milford Pumpkin Festival October 9 October 9 @ 5:00 pm - October 11 @ 3:00 pm TEAM LILY – Milford Pumpkin Festival October 11 @ 9:15 am 10/11 – Temple Beth Abraham Town Hall & Breakfast – Nashua October 12 October 12 @ 2:45 pm 10/12 – Right Side Broadcasting Network Interview – Virtual October 13 October 13 @ 6:30 pm - 8:00 pm 10/13 – ASK ME ANYTHING Town Hall – Concord October 13 @ 6:30 pm - 8:30 pm TEAM LILY – Swanzey/Richmond Republican Committee Meeting October 14 October 14 @ 5:30 pm - 6:30 pm 10/14 – Fireside Chat with Lily – Dartmouth Rockefeller Center – Hanover October 14 @ 6:30 pm - 8:00 pm TEAM LILY – Nashua Republican City Committee Meeting October 15 October 15 @ 5:00 pm 10/15 – NHPR / Granite State News Collaborative Candidate Forum (NH-02) – Keene October 15 @ 6:00 pm - 7:30 pm TEAM LILY – Bow Republican Committee Meeting October 15 @ 6:00 pm - 8:00 pm TEAM LILY – Concord Republican City Committee Meeting There are no events on this day.
+October 17 October 17 @ 9:00 am - 10:30 am TEAM LILY – Weare Republican Committee Meeting October 17 @ 9:00 am - 9:00 pm TEAM LILY – RiverFire October 17 @ 2:00 pm - 7:30 pm TEAM LILY – Keene Pumpkin Festival + 1 More There are no events on this day.
+October 19 October 19 @ 7:30 am 10/19 – Greater Nashua Chamber “Eggs & Business Issues” Candidate Forum – Nashua October 20 October 20 @ 7:00 pm 10/20 – General Debate – New England College, Henniker, 7pm October 21 October 21 @ 6:30 pm - 8:30 pm TEAM LILY – Keene City Republican Committee Meeting October 22 October 22 @ 6:30 pm - 8:00 pm 10/22 – ASK ME ANYTHING Town Hall – Nashua There are no events on this day.
+There are no events on this day.
+October 25 October 25 @ 8:45 am 10/25 – Temple Adath Yeshurun Brotherhood Candidates Forum – Manchester October 25 @ 1:00 pm - 3:00 pm TEAM LILY – Winchester Republican Committee Meeting There are no events on this day.
+There are no events on this day.
+October 28 All day 10/28 – WMUR Debate (NH-02) – Manchester There are no events on this day.
+There are no events on this day.
+There are no events on this day.
+There are no events on this day.
+Sep This Month Nov Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file © # Lily4Congress Committee.
+Paid for by Lily4Congress Committee. | Privacy Policy

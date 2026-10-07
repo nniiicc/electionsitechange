@@ -1,13 +1,58 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSc825qkPL_D3O34436aHP20AAwh9IiQMc7xh-otavLx3FW9Kg/viewform",
-"https://instagram.com/stroupforvt",
-"https://secure.actblue.com/donate/john-stroup-1",
-"https://stroupforvermont.com/",
-"https://stroupforvermont.com/contact",
-"https://stroupforvermont.com/contribute",
-"https://stroupforvermont.com/endorsements",
-"https://stroupforvermont.com/get_involved",
-"https://stroupforvermont.com/issues",
-"https://stroupforvermont.com/newsletter",
-"https://stroupforvermont.com/volunteer"
+{
+"text": "About",
+"href": "https://www.stroupforvermont.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://www.stroupforvermont.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://www.stroupforvermont.com/contribute/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.stroupforvermont.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stroupforvermont.com/get_involved/"
+},
+{
+"text": "Get Updates",
+"href": "https://www.stroupforvermont.com/contact/#subscribe"
+},
+{
+"text": "Give Online",
+"href": "https://secure.actblue.com/donate/john-stroup-1%20%20"
+},
+{
+"text": "Home",
+"href": "https://www.stroupforvermont.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/stroupforvt/"
+},
+{
+"text": "Issues",
+"href": "https://www.stroupforvermont.com/issues/"
+},
+{
+"text": "JOHN STROUP FOR VERMONT HOUSE",
+"href": "https://www.stroupforvermont.com/"
+},
+{
+"text": "Newsletter",
+"href": "https://www.stroupforvermont.com/newsletter/"
+},
+{
+"text": "See Volunteering Opportunities",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSc825qkPL_D3O34436aHP20AAwh9IiQMc7xh-otavLx3FW9Kg/viewform"
+},
+{
+"text": "Volunteer",
+"href": "https://www.stroupforvermont.com/volunteer/"
+}
 ]

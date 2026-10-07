@@ -1,8 +1,6 @@
-Meet Robert
-FROM THE MOMENT ROBERT REIVES II ARRIVED IN RALEIGH, HE WAS A LEADER.
+Meet Robert Get Involved News Donate CELEBRATE MY BIRTHDAY Meet Robert FROM THE MOMENT ROBERT REIVES II ARRIVED IN RALEIGH, HE WAS A LEADER.
 Robert Reives is the North Carolina House Democratic Leader, where he is working to provide immediate relief to families hit by rising prices while making long term investments in rural North Carolina.
-A Strong History
-Representative Robert Reives II has served in the North Carolina House of Representatives since 2014.
+A Strong History Representative Robert Reives II has served in the North Carolina House of Representatives since 2014.
 He represents House District 54, which includes all of Chatham County and will now include portions of Randolph County.
 Upon entering the NCGA, Robert was immediately tapped for leadership serving as Freshman Caucus Co-Chair and as treasurer of the NC Legislative Black Caucus.
 Currently, Robert is still looked to for leadership as he works across party lines in his role as Democratic Leader of the House.
@@ -19,12 +17,11 @@ Wilson & Reives is known as community benefactor sponsoring education scholarshi
 Robert continues his service to his community outside of the NCGA by being a board member of the Lee County Educational Foundation, a board member of the First Citizens Bank local advisory board, a board member of Lee County Boys & Girls Club, a member of the Executive Committee of the Lee County Democratic Party, past president and present member of the Eleventh District District Bar Association, and past president and present member of the Lee County Bar Association.
 Robert is married to Cynthia (Taylor) from Goldston and they have two children, Brianna and Robert, III.
 The Reives attend Roberts Chapel Missionary Baptist Church in Goldston.
-Endorsements
-What People Are Saying About Robert Reives
-“No one becomes a teacher to get rich, but it would be nice if our legislators had a little respect for our profession.
-Robert Reives respects teachers, and he fights to get us better pay, too.”
-“North Carolina needs Robert Reives in Raleigh defending us from discriminatory right-wing policies.
-I’m with Robert because he stands up for equality.”
-“As a small business owner, I’m glad to know Robert Reives is looking out for me in Raleigh.
-I, my family and my employees
-depend on his leadership.”
+Endorsements DURHAM COMMITTEE ON THE AFFAIRS OF BLACK PEOPLE DURHAM PEOPLE’S ALLIANCE DURHAM ASSOCIATION OF EDUCATORS EQUALITY NC INDYweek NORTH CAROLINA ASSOCIATION OF EDUCATORS NATIONAL ASSOCIATION OF SOCIAL WORKERS North Carolina Chapter NC LEAGUE OF CONSERVATION VOTERS PAC STATE EMPLOYEES ASSOCIATION OF NORTH CAROLINA SIERRA CLUB – NC CHAPTER What People Are Saying About Robert Reives “No one becomes a teacher to get rich, but it would be nice if our legislators had a little respect for our profession.
+Robert Reives respects teachers, and he fights to get us better pay, too.” Laine Lipson Retired teacher , Chatham County Schools “North Carolina needs Robert Reives in Raleigh defending us from discriminatory right-wing policies.
+I’m with Robert because he stands up for equality.” Chris Sgro Director of Communications , Human Rights Campaign “As a small business owner, I’m glad to know Robert Reives is looking out for me in Raleigh.
+I, my family and my employees depend on his leadership.” Leslie Cox Former State Representative , North Carolina Ready to Support Robert?
+SIGN UP TO RECEIVE THE LATEST NEWS AND UPDATES FROM THE CAMPAIGN!
+Follow Follow The Committee to Elect Robert T.
+Reives II 514 Daniels St # 286, Raleigh NC 27605 Information: Cora@ReivesforHouse.com Paid for by The Committee to Elect Robert T.
+Reives II.

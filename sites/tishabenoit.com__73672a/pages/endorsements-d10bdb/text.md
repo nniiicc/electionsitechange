@@ -1,22 +1,8 @@
 DR.
-TISHA BENOIT
-Home
-Budget
-Endorsements
-Issues
-Contact
-Home
-Budget
-Endorsements
-Issues
-Contact
-DR.
-TISHA BENOIT
-PEOPLE OVER POLITICS ALWAYS!
-INDEPENDENT LEADERSHIP
-REAL SOLUTIONS.
+TISHA BENOIT Home Budget Endorsements Issues Contact Home Budget Endorsements Issues Contact DR.
+TISHA BENOIT PEOPLE OVER POLITICS ALWAYS!
+INDEPENDENT LEADERSHIP REAL SOLUTIONS.
 STRONGER TOGETHER.
 BETTER FUTURE FOR ARIZONA.
-STAND FOR HEALTH FREEDOM
-Learn More About What Health Freedom Means For You
-Learn more
+STAND FOR HEALTH FREEDOM Learn More About What Health Freedom Means For You Learn more Dr.
+Tisha Benoit # © Privacy Policy Terms and Conditions

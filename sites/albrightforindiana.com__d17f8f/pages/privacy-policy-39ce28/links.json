@@ -1,12 +1,62 @@
 [
-"https://albrightforindiana.com/",
-"https://albrightforindiana.com/privacy-policy",
-"https://facebook.com/WixStudio",
-"https://facebook.com/albrightforindiana",
-"https://instagram.com/wix",
-"https://secure.winred.com/albright-for-indiana/campaign-launch",
-"https://support.wix.com/en/article/creating-a-privacy-policy",
-"https://tiktok.com/@wix",
-"https://wix.com/studio",
-"https://x.com/AlbrightForIN"
+{
+"text": "About",
+"href": "https://www.albrightforindiana.com"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.albrightforindiana.com"
+},
+{
+"text": "Creating a Privacy Policy",
+"href": "https://support.wix.com/en/article/creating-a-privacy-policy"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/albright-for-indiana/campaign-launch"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "Get Involved",
+"href": "https://www.albrightforindiana.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/wix/"
+},
+{
+"text": "Issues",
+"href": "https://www.albrightforindiana.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.albrightforindiana.com/privacy-policy"
+},
+{
+"text": "Refund Policy",
+"href": "https://www.albrightforindiana.com"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.albrightforindiana.com"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@wix"
+},
+{
+"text": "Wix Studio™",
+"href": "https://www.wix.com/studio"
+},
+{
+"text": "[image: Juanita_FB-Icon]",
+"href": "https://www.facebook.com/albrightforindiana"
+},
+{
+"text": "[image: Juanita_X-Icon]",
+"href": "https://x.com/AlbrightForIN"
+}
 ]

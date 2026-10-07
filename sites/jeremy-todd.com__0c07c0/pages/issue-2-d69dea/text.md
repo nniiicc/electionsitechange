@@ -1,5 +1,4 @@
-second amendment
-I believe the problem in America is not guns, it’s a culture that has become disconnected, dependent, and increasingly taught to rely on the government for protection instead of personal responsibility and strong communities.
+DONATE about issues shop news volunteer Request Yard sign second amendment issue I believe the problem in America is not guns, it’s a culture that has become disconnected, dependent, and increasingly taught to rely on the government for protection instead of personal responsibility and strong communities.
 Decades ago, there were more guns in American households than there are today, yet mass violence was exponentially lower.
 The issue is not law-abiding citizens exercising their rights.
 The issue is a society that has lost trust, accountability, and respect for individual responsibility.
@@ -14,10 +13,10 @@ I also believe many of the policies pushed in the name of “gun safety” have 
 So-called “gun-free zones” have too often become targets for those who seek to do harm, while endless regulations continue to burden responsible gun owners rather than criminals.
 Americans deserve the freedom to defend themselves and the confidence that they are trusted by their own government, not feared by it.
 A safer America will not come from stripping rights away from peaceful citizens.
-It will come from rebuilding a culture of responsibility, freedom, strong families, and self-reliance: the values that made this country strong in the first place.
-shall not be infringed. that should about cover it.
-donate »
-I believe in the grassroots, small donations from real, working people who want to bring our troops home, bring our money home, and send a big message to Washington donors: KENTUCKY ISN'T FOR SALE.
-anti-war,
-anti-spending,
-anti-establishment
+It will come from rebuilding a culture of responsibility, freedom, strong families, and self-reliance: the values that made this country strong in the first place. shall not be infringed. that should about cover it. « back to issues donate » I believe in the grassroots, small donations from real, working people who want to bring our troops home, bring our money home, and send a big message to Washington donors: KENTUCKY ISN'T FOR SALE.
+THE AMERICA FIRST CANDIDATE anti-war, anti-spending, anti-establishment PAID FOR BY JEREMY TODD FOR KENTUCKY follow: By submitting your cell phone number you are agreeing to receive periodic text messages from our campaign.
+Message and data rates may apply.
+Text HELP for more information.
+Text STOP to stop receiving messages.
+PO Box 176037, Lakeside Park, Kentucky 41017 SUBMIT thank you!
+COPYRIGHT ©# JEREMY TODD FOR KENTUCKY PRIVACY POLICY | CONTACT US about issues home donate » shop news volunteer Request Yard Sign about issues Shop news volunteer

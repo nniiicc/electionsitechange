@@ -1,6 +1,3 @@
-Get Pizza, Raise dough
-Supporting a candidate never tasted so good!
+0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch DONATE Get Pizza, Raise dough Fundraising Aug 4 Written By Jaclyn Martin Supporting a candidate never tasted so good!
 Join us for a lovely evening of wood-fired homemade pizza from Chefs Jason & Mike along with craft beer from the award-winning Von Ebert Brewery in Portland, OR.
-Written By Jaclyn Martin
-Previous
-Next
+Fundraising Jaclyn Martin Previous Previous Football squares + Fun Next Next Salsa Dancing Night DONATE Support Support Donate Donate About JJ About JJ Meet with JJ Meet with JJ Get in Touch Get in Touch Endorsements Endorsements News + Updates News + Updates Issues + Priorities Issues + Priorities Paid for by JJ Galvez for Assembly District 71 - 2026 FPPC #1483089

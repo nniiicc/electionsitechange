@@ -1,14 +1,66 @@
 [
-"https://ballotpedia.org/Cathy_Kott",
-"https://facebook.com/m00nrae",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://house.ga.gov/mediaServices/Documents/Maps/2023HD006.pdf",
-"https://instagram.com/cathy_kott_rn_?igsh=MzRIODBiNWFIZA%3D%3D",
-"https://linktr.ee/votesforchange",
-"https://mvp.sos.ga.gov/s",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/votes-for-change",
-"https://tiktok.com/@cathykott.com",
-"https://youtube.com/@ckottrn"
+{
+"text": "Check it out!",
+"href": "https://ballotpedia.org/Cathy_Kott"
+},
+{
+"text": "District 6 Map",
+"href": "https://www.house.ga.gov/mediaServices/Documents/Maps/2023HD006.pdf"
+},
+{
+"text": "Donate Via ActBlue",
+"href": "https://secure.actblue.com/donate/votes-for-change"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/m00nrae"
+},
+{
+"text": "Get in Touch",
+"href": "mailto:vote@cathykott.com"
+},
+{
+"text": "Get in touch",
+"href": "mailto:vote@cathykott.com?subject=I%27m+Interested+in+Running+for+Office%21"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/cathy_kott_rn_?igsh=MzRIODBiNWFIZA%3D%3D"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@cathykott.com"
+},
+{
+"text": "Visit mvp",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Volunteer",
+"href": "mailto:Vote@cathykott.com?subject=I+would+like+to+Volunteer%21&body=Tell+us+about+yourself+and+how+you+would+like+to+get+involved%21"
+},
+{
+"text": "Votes For Change",
+"href": "https://linktr.ee/votesforchange"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@ckottrn"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "vote@cathykott.com",
+"href": "mailto:vote@cathykott.com"
+}
 ]

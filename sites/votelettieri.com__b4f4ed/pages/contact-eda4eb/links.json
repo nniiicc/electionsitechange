@@ -1,19 +1,82 @@
 [
-"http://votelettieri.com/get-involved",
-"https://facebook.com/profile.php?id=61559037015755",
-"https://instagram.com/cinzialettierict",
-"https://votelettieri.com/",
-"https://votelettieri.com/cart",
-"https://votelettieri.com/contact",
-"https://votelettieri.com/endorsements",
-"https://votelettieri.com/events-1",
-"https://votelettieri.com/get-involved-1",
-"https://votelettieri.com/get-your-lawn-sign",
-"https://votelettieri.com/headquarters",
-"https://votelettieri.com/issues",
-"https://votelettieri.com/meet-cinzia",
-"https://votelettieri.com/new-dropdown",
-"https://votelettieri.com/press",
-"https://votelettieri.com/volunteer",
-"https://votelettieri.com/voter-info"
+{
+"text": "0",
+"href": "https://www.votelettieri.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.votelettieri.com/"
+},
+{
+"text": "Cinzia Lettieri For State Representative",
+"href": "https://www.votelettieri.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.votelettieri.com/contact"
+},
+{
+"text": "Contact",
+"href": "mailto:votelettieri@gmail.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votelettieri.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61559037015755"
+},
+{
+"text": "Folder: About",
+"href": "https://www.votelettieri.com/new-dropdown"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.votelettieri.com/get-involved-1"
+},
+{
+"text": "Get Your Lawn Sign!",
+"href": "https://www.votelettieri.com/get-your-lawn-sign"
+},
+{
+"text": "Headquarters",
+"href": "https://www.votelettieri.com/headquarters"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/cinzialettierict/"
+},
+{
+"text": "Issues",
+"href": "https://www.votelettieri.com/issues"
+},
+{
+"text": "Meet Cinzia",
+"href": "https://www.votelettieri.com/meet-cinzia"
+},
+{
+"text": "Press",
+"href": "https://www.votelettieri.com/press"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.votelettieri.com/events-1"
+},
+{
+"text": "Volunteer",
+"href": "http://www.votelettieri.com/get-involved"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votelettieri.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.votelettieri.com/voter-info"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/cinzialettierict"
+}
 ]

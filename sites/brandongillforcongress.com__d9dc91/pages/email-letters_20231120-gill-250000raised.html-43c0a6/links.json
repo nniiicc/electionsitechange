@@ -1,5 +1,26 @@
 [
-"https://arianastocongress.com/transactional-pages/donate",
-"https://brandongillforcongress.com/",
-"https://brandongillforcongress.com/email-letters/%%unsubscribelink%%"
+{
+"text": "123-456-7890",
+"href": "tel:(832)%20910-7307%E2%80%AC"
+},
+{
+"text": "Donate",
+"href": "https://arianastocongress.com/transactional-pages/donate"
+},
+{
+"text": "Unsubscribe",
+"href": "https://brandongillforcongress.com/email-letters/%%unsubscribelink%%"
+},
+{
+"text": "[image]",
+"href": "https://brandongillforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://brandongillforcongress.com"
+},
+{
+"text": "jdelano@politicalmedia.com",
+"href": "mailto:jdelano@politicalmedia.com"
+}
 ]

@@ -1,3 +1,1 @@
-Essential cookies enable basic functions and are necessary for the proper function of the website.
-Cookie Preferences
-This cookie is used to store the user's cookie consent preferences.
+Meet Parke Priorities Endorsements Volunteer Connect Meet Parke Priorities Endorsements Volunteer Connect Make A Donation Facebook Proven Experience Real Results Meet Parke DONATE Paid For By Elect Parke Wentling Senator Bob Robbins, Chairman PO Box 81 Greenville, PA 16125 © # All Rights Reserved

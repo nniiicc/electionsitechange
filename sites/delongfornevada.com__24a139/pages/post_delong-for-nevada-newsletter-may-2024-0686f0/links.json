@@ -1,15 +1,86 @@
 [
-"http://delongfornevada.com/",
-"http://doi.nv.gov/",
-"https://delongfornevada.com/",
-"https://delongfornevada.com/about",
-"https://delongfornevada.com/contact",
-"https://delongfornevada.com/events",
-"https://delongfornevada.com/issues",
-"https://delongfornevada.com/news",
-"https://delongfornevada.com/post/delong-download-november-2025",
-"https://delongfornevada.com/post/delong-for-nevada-june-newsletter-august-2023",
-"https://delongfornevada.com/post/delong-for-nevada-newsletter-february-2026",
-"https://di.nv.gov/ins/f?p=112%3A23",
-"https://secure.winred.com/delongfornevada/donate"
+{
+"text": "About",
+"href": "https://www.delongfornevada.com/about"
+},
+{
+"text": "All Posts",
+"href": "https://www.delongfornevada.com/news"
+},
+{
+"text": "Contact",
+"href": "https://www.delongfornevada.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/delongfornevada/donate"
+},
+{
+"text": "DeLong Download November 2025",
+"href": "https://www.delongfornevada.com/post/delong-download-november-2025"
+},
+{
+"text": "DeLong For Nevada Newsletter February 2026",
+"href": "https://www.delongfornevada.com/post/delong-for-nevada-newsletter-february-2026"
+},
+{
+"text": "DeLongForNevada.com",
+"href": "http://delongfornevada.com"
+},
+{
+"text": "Delong for Nevada NEWSLETTER June 2024!",
+"href": "https://www.delongfornevada.com/post/delong-for-nevada-june-newsletter-august-2023"
+},
+{
+"text": "Events",
+"href": "https://www.delongfornevada.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.delongfornevada.com"
+},
+{
+"text": "Homeowner Coverage Tool",
+"href": "https://di.nv.gov/ins/f?p=112%3A23"
+},
+{
+"text": "Issues",
+"href": "https://www.delongfornevada.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.delongfornevada.com/news"
+},
+{
+"text": "See All",
+"href": "https://www.delongfornevada.com/news"
+},
+{
+"text": "[image: DeLong Download November 2025]",
+"href": "https://www.delongfornevada.com/post/delong-download-november-2025"
+},
+{
+"text": "[image: DeLong For Nevada Newsletter February 2026]",
+"href": "https://www.delongfornevada.com/post/delong-for-nevada-newsletter-february-2026"
+},
+{
+"text": "[image: DeLongGE-1.png]",
+"href": "https://www.delongfornevada.com"
+},
+{
+"text": "[image: Delong for Nevada NEWSLETTER June 2024!]",
+"href": "https://www.delongfornevada.com/post/delong-for-nevada-june-newsletter-august-2023"
+},
+{
+"text": "[image: DelongGE-3.png]",
+"href": "https://www.delongfornevada.com"
+},
+{
+"text": "doi.nv.gov",
+"href": "http://doi.nv.gov"
+},
+{
+"text": "rich@delongfornevada.com",
+"href": "mailto:rich@delongfornevada.com"
+}
 ]

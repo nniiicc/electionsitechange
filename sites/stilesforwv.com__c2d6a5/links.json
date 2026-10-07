@@ -1,6 +1,22 @@
 [
-"https://stilesforwv.com/",
-"https://stilesforwv.com/campaign-information",
-"https://stilesforwv.com/donate",
-"https://stilesforwv.com/have-your-say"
+{
+"text": "Campaign Platform",
+"href": "https://www.stilesforwv.com/campaign-information/"
+},
+{
+"text": "Donate",
+"href": "https://www.stilesforwv.com/donate/"
+},
+{
+"text": "Have your say!",
+"href": "https://www.stilesforwv.com/have-your-say/"
+},
+{
+"text": "Let me know what’s on your mind!",
+"href": "https://www.stilesforwv.com/have-your-say/"
+},
+{
+"text": "Stiles for WV",
+"href": "https://www.stilesforwv.com"
+}
 ]

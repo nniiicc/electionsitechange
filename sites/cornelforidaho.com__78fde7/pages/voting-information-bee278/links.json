@@ -1,23 +1,122 @@
 [
-"https://apps.idahovotes.gov/OnlineVoterRegistration",
-"https://apps.idahovotes.gov/YourPollingPlace/WhereDoIVote.aspx",
-"https://cornelforidaho.com/",
-"https://cornelforidaho.com/contact",
-"https://cornelforidaho.com/donate",
-"https://cornelforidaho.com/extras",
-"https://cornelforidaho.com/meet-cornel",
-"https://cornelforidaho.com/platform",
-"https://cornelforidaho.com/privacy-policy",
-"https://cornelforidaho.com/volunteer",
-"https://cornelforidaho.com/voting-information",
-"https://cornelforidaho.com/wp-content/uploads/2023/06/district-1-map-01.png",
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/BeginAbsenteeRequest.aspx",
-"https://facebook.com/Cornel-Rasor-for-Idaho-State-Representative-107722980842029",
-"https://gemstatechronicle.com/scorecard-explorer",
-"https://idahovotes.gov/county-clerks",
-"https://idahovotes.gov/vote-early-idaho",
-"https://tlcwebhosting.com/",
-"https://voteidaho.gov/",
-"https://voteidaho.gov/county-clerks",
-"https://voteidaho.gov/online-voter-tools"
+{
+"text": "COUNTY CLERK’s OFFICE",
+"href": "https://voteidaho.gov/county-clerks/"
+},
+{
+"text": "Contact",
+"href": "https://cornelforidaho.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://cornelforidaho.com/donate/"
+},
+{
+"text": "Cornel@CornelForIdaho.com",
+"href": "mailto:Cornel@CornelForIdaho.com"
+},
+{
+"text": "CornelForIdaho.com",
+"href": "https://cornelforidaho.com"
+},
+{
+"text": "Donate",
+"href": "https://cornelforidaho.com/donate/"
+},
+{
+"text": "FB",
+"href": "https://www.facebook.com/Cornel-Rasor-for-Idaho-State-Representative-107722980842029/"
+},
+{
+"text": "Home",
+"href": "https://cornelforidaho.com/"
+},
+{
+"text": "Meet Cornel",
+"href": "https://cornelforidaho.com/meet-cornel/"
+},
+{
+"text": "ONLINE HERE.",
+"href": "https://apps.idahovotes.gov/OnlineVoterRegistration/"
+},
+{
+"text": "Platform",
+"href": "https://cornelforidaho.com/platform/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://cornelforidaho.com/privacy-policy/"
+},
+{
+"text": "Support Cornel",
+"href": "https://cornelforidaho.com/donate/"
+},
+{
+"text": "THIS FORM",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/BeginAbsenteeRequest.aspx"
+},
+{
+"text": "TLCWebHosting.com",
+"href": "https://tlcwebhosting.com/"
+},
+{
+"text": "USING THIS FORM.",
+"href": "https://voteidaho.gov/online-voter-tools/"
+},
+{
+"text": "Volunteer",
+"href": "https://cornelforidaho.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://cornelforidaho.com/voting-information/"
+},
+{
+"text": "[image]",
+"href": "https://cornelforidaho.com/"
+},
+{
+"text": "[image]",
+"href": "https://cornelforidaho.com/wp-content/uploads/2023/06/district-1-map-01.png"
+},
+{
+"text": "[image]",
+"href": "https://idahovotes.gov/vote-early-idaho/"
+},
+{
+"text": "[no text]",
+"href": "https://apps.idahovotes.gov/OnlineVoterRegistration/"
+},
+{
+"text": "extras",
+"href": "https://cornelforidaho.com/extras/"
+},
+{
+"text": "https://apps.idahovotes.gov/YourPollingPlace/WhereDoIVote.aspx",
+"href": "https://apps.idahovotes.gov/YourPollingPlace/WhereDoIVote.aspx"
+},
+{
+"text": "https://gemstatechronicle.com/scorecard-explorer/",
+"href": "https://gemstatechronicle.com/scorecard-explorer/"
+},
+{
+"text": "https://idahovotes.gov/county-clerks/",
+"href": "https://idahovotes.gov/county-clerks/"
+},
+{
+"text": "https://idahovotes.gov/vote-early-idaho/",
+"href": "https://idahovotes.gov/vote-early-idaho/"
+},
+{
+"text": "https://voteidaho.gov/",
+"href": "https://voteidaho.gov/"
+},
+{
+"text": "online here.",
+"href": "https://voteidaho.gov/"
+},
+{
+"text": "",
+"href": "https://cornelforidaho.com/donate/"
+}
 ]

@@ -1,6 +1,4 @@
-Top Priorities
-Defending the Most Vulnerable Among Us
-One of the deepest convictions guiding my public service is the call to defend the vulnerable, protect the innocent, and stand with those who too often feel forgotten.
+top of page Home Results About Top Priorities Legislative Record Donate Contact Top Priorities Defending the Most Vulnerable Among Us One of the deepest convictions guiding my public service is the call to defend the vulnerable, protect the innocent, and stand with those who too often feel forgotten.
 On the wall of my Capitol office, I keep the words of Jesus from Matthew 25: “Whatever you did for one of the least of these brothers and sisters of mine, you did for me.” To me, that is not simply a Scripture verse.
 It is a charge to serve with humility, compassion, and courage.
 That conviction has shaped my work in the Michigan Senate.
@@ -27,9 +25,7 @@ Limited government does not mean indifferent government.
 It means government should be careful, efficient, accountable, and focused on the responsibilities it is truly meant to fulfill.
 One of those responsibilities is to protect those who cannot always protect themselves.
 My goal is to serve with that balance: defending freedom, respecting taxpayers, strengthening families, and ensuring that when people in our communities are truly in need, they are not left to face their burdens alone.
-Tourism &
-Small Business
-Small businesses are the backbone of Northern Michigan’s economy.
+Tourism & Small Business Small businesses are the backbone of Northern Michigan’s economy.
 They create jobs, support families, strengthen communities, and give our towns and villages the character that makes this region such a special place to live.
 As a small business owner and operator for more than two decades, I understand firsthand the challenges that come with building something of your own.
 I have written the paychecks, negotiated health insurance plans, filed the taxes, managed the books, carried the equipment, sold the projects, and done the work.
@@ -38,8 +34,7 @@ Supporting small business has been one of my fundamental priorities in public se
 I have fought against unnecessary burdens on employers, supported relief for businesses that were told they could not work, and worked to make Michigan a place where entrepreneurs, family businesses, farms, manufacturers, and Main Street employers can grow and succeed.
 As state senator for the 37th District, I will continue working to address the issues that matter most to our local economy — from expanding affordable workforce housing and strengthening career and technical education, to helping employers attract and retain talent, lowering the cost of doing business, and protecting the way of life that makes Northern Michigan worth investing in.
 When small businesses are strong, families are stronger, communities are healthier, and our children have a better chance to build their futures close to home.
-A Year Round Economy
-For families to thrive in Northern Michigan and the eastern Upper Peninsula, we must have an economy that is strong, resilient, and built for the realities of our region.
+A Year Round Economy For families to thrive in Northern Michigan and the eastern Upper Peninsula, we must have an economy that is strong, resilient, and built for the realities of our region.
 We are blessed to live in one of the most beautiful places in America, but we are also far removed from many of the conveniences and economic advantages of larger metropolitan areas.
 That makes it even more important that we grow good jobs, strengthen wages, and build a year-round economy that gives our children the opportunity to stay, work, raise families, and build their futures close to home.
 That means supporting an economy that works 12 months a year.
@@ -51,8 +46,7 @@ I am also committed to making sure Northern Michigan and the eastern Upper Penin
 Over the past several years, I have helped secure nearly $100 million in direct investment for our region — supporting local priorities, strengthening infrastructure, expanding opportunity, and helping our communities prepare for the future.
 A stronger year-round economy is not just about numbers on a spreadsheet.
 It is about preserving our way of life, strengthening our families, and making sure the next generation can find opportunity right here at home.
-Common Sense Energy Policy
-Energy policy in Northern Michigan and the eastern Upper Peninsula must begin with a simple reality: our needs are different from the needs of larger metropolitan areas downstate.
+Common Sense Energy Policy Energy policy in Northern Michigan and the eastern Upper Peninsula must begin with a simple reality: our needs are different from the needs of larger metropolitan areas downstate.
 We live in a colder, more rural region, where families, farms, small businesses, schools, hospitals, ferry services, road crews, and local governments all depend on energy that is affordable, reliable, and available when it is needed most.
 My job is to stand up for the people of our region — not for political slogans or one-size-fits-all mandates.
 I support energy innovation, cleaner technologies, and practical conservation, but I will not support policies that drive up utility bills, weaken reliability, or punish families who depend on propane, natural gas, gasoline, diesel, and other traditional fuels to heat their homes, run their businesses, and power daily life.
@@ -69,14 +63,11 @@ Because co-op costs are ultimately borne by their members, I worked with state a
 I have also worked to help families better afford basic utilities, including water, and I will continue fighting for policies that lower costs, harden our grid, strengthen emergency preparedness, and protect access to dependable energy in every season.
 Our region cannot afford energy policy driven by ideology.
 We need energy policy grounded in common sense — one that protects ratepayers, supports working families, respects the realities of rural Michigan, defends the Great Lakes, and ensures that Northern Michigan and the eastern Upper Peninsula have the power they need to thrive.
-Preparedness &
-Disaster Relief
-Collapsible text is great for longer section titles and descriptions.
+Preparedness & ​ Disaster Relief Collapsible text is great for longer section titles and descriptions.
 It gives people access to all the info they need, while keeping your layout clean.
 Link your text to anything, or set your text box to expand on click.
 Write your text here...
-Rebuilding a Sense of Grace and Civility
-Rebuilding a spirit of grace and civility is one of the great challenges of our time — and it has been a central passion of my life for decades.
+Rebuilding a Sense of Grace and Civility Rebuilding a spirit of grace and civility is one of the great challenges of our time — and it has been a central passion of my life for decades.
 When my father and I started our film production company in 2000, we did so with a clear purpose: to tell the great stories of American character, sacrifice, patriotism, and exceptionalism in a way that could bring people together.
 We believed then, as I believe now, that America is at her best when we remember who we are, honor those who came before us, and speak to one another as fellow citizens entrusted with a common future.
 Our nation has always had vigorous debate.
@@ -108,4 +99,6 @@ Those recognitions matter not because they are awards, but because they reflect 
 They belong together.
 I am committed to helping restore that kind of leadership in our state.
 Until we can once again share ideas with respect, honor, and a willingness to listen, we will struggle to meet the great challenges before us.
-But if we choose grace over grievance, seriousness over spectacle, and service over self-interest, I believe Michigan can lead the way.
+But if we choose grace over grievance, seriousness over spectacle, and service over self-interest, I believe Michigan can lead the way. info@damooseforsenate.com Paid for by John Damoose for State Senate.
+P.O.
+Box 95, Harbor Springs, MI 49740 bottom of page

@@ -1,2 +1,3 @@
-August 29, 2025 Backed by a hefty list of prominent endorsers, Los Angeles County Supervisor Hilda Solis has officially kicked off her bid for a southeast L.A.
+Skip to content Home Join Team Hilda Supporters Gallery Donate Day: September 9, 2025 Home | 2025 | September | 9 News Supervisor Hilda Solis says she’ll run for Congress if new maps are approved admin September 9, 2025 August 29, 2025 Backed by a hefty list of prominent endorsers, Los Angeles County Supervisor Hilda Solis has officially kicked off her bid for a southeast L.A.
 County congressional seat, should new district maps be approved by California voters in November....
+Read More Contact info@hildasolis.com 10643 Valley Blvd., Suite C #144 El Monte, CA 91731 Join the Movement Join Team Hilda Endorse Hilda Donate Paid for by Solis for Congress

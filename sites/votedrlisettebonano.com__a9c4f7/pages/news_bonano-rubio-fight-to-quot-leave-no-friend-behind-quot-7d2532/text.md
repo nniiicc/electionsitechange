@@ -1,4 +1,5 @@
-For ten years, Mr.
+Vote LT COL Lisette Bonano: Mother, Soldier, Leader!
+Home News & Updates Calendar Endorsements Volunteer Contact Voting Info Donate Back to News & Updates Bonano, Rubio Fight to &quot;Leave No Friend Behind&quot; 07/23/22 • In The News For ten years, Mr.
 Mohammed Aris Rayan served as a trusted interpreter for US forces participating in the International Security Assistance Force (ISAF) in Afghanistan.
 Fluent in Pashtu, Dari, and English, Mr.
 Rayan won praise for his knowledge, dedication, professionalism, and courage in the face of danger.
@@ -58,8 +59,7 @@ Bonano.
 Madina is thankful that her husband's case was approved but appealed to authorities and to the public not to forget the many Afghan allies who were left behind.
 "America is a land of freedom and great opportunity.
 We can be whatever we want to be if we work for it.
-We want our husbands home and our families united."
-Dr.
+We want our husbands home and our families united." Dr.
 Bonano continues to fight to ensure no friend is left behind.
 Recently, she brought over another Afghan interpreter, Tawfiq, who now lives in Virginia.
 He returned to Afghanistan in 2021 to help his family, not knowing how soon the Afghan government we abandoned would collapse, nor how swiftly the Taliban would overrun its capital, Kabul.
@@ -71,4 +71,13 @@ Bonano also facilitated the immigration of Rana, one of her Iraqi interpreters.
 Rana now lives in California and has earned two master's degrees.
 Dr.
 Bonano currently is running for a seat in the Florida legislature for the newly redrawn District 67 (northeast Hillsborough County), to bring her talents to bear for freedom, security, and prosperity for all.
-Her web site is https://votedrlisettebonano.com/
+Her web site is https://votedrlisettebonano.com/ Search News Search Categories Announcements (7) Election Information (2) General (2) In The News (1) News & Updates What are the Benefits of Government Neutrality in Public Life?
+07/25/26 What are the Benefits of Border Security?
+Protect Communities & More 07/25/26 ENDORSEMENT: MAURA CRUZ LANZ 06/11/24 View All News Donate Volunteer Contact Follow the Campaign News & Updates What are the Benefits of Government Neutrality in Public Life?
+07/25/26 What are the Benefits of Border Security?
+Protect Communities & More 07/25/26 ENDORSEMENT: MAURA CRUZ LANZ 06/11/24 Upcoming Events General Election 11/03/2026 On November 3, 2026, vote for LTC Lisette Bonano for Florida State House District 67 Election Day # Days # Hours # Minutes # Seconds Thank you for your support!
+Support the Campaign Privacy Terms Paid for by LTC LISETTE BONANO, Republican for Florida State House District 67 10006 Cross Creek Blvd.
+P.O.
+Box #217 Tampa, FL 33647.
+All rights reserved.
+Campaign Websites by Online Candidate × Support the Campaign Donate

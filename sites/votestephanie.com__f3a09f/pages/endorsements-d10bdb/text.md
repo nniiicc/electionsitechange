@@ -1,20 +1,2 @@
-Meet Stephanie
-Issues
-Endorsements
-Volunteer
-Connect
-Meet Stephanie
-Issues
-Endorsements
-Volunteer
-Connect
-Make A Donation
-Facebook
-Endorsements
-Pennsylvania Pro-Life Federation
-National Rifle Association
-Gun Owners Of America
-Firearms Owners Against Crime
-Farmers Allied for Responsive More Effective Representation
-Pennsylvania Chamber Of Business and Industry
-National Federation of Independent Business
+Meet Stephanie Issues Endorsements​ Volunteer Connect Meet Stephanie Issues Endorsements​ Volunteer Connect Make A Donation Facebook Endorsements Pennsylvania Pro-Life Federation National Rifle Association Gun Owners Of America Firearms Owners Against Crime Farmers Allied for Responsive More Effective Representation Pennsylvania Chamber Of Business and Industry National Federation of Independent Business Paid for by Friends of Stephanie Borowicz P.O.
+Box 43 McElhattan, PA 17748 © # All Rights Reserved

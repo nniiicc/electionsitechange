@@ -1,3 +1,2 @@
-This site requires JavaScript
-To view this website, enable JavaScript in your browser settings and reload the page.
+This site requires JavaScript To view this website, enable JavaScript in your browser settings and reload the page.
 Reload page

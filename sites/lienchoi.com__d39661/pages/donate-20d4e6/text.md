@@ -1,43 +1,33 @@
-Donate AMERICANwith GiveButter (a small fee applies)
-OR
-Donate FREE with Zeffy, a Canadian Comapany.
-Terms and Conditions
-Adjusted from Actblue.com - I would appreciate any assistance with any discrepancies that I missed.
+home plan non-Profit Initiatives about why the 7th? why me? contact blog Store volunteer donate home plan non-Profit Initiatives about why the 7th? why me? contact blog Store volunteer donate Donate American (with small fee) David vs.
+Goliath Donate Free (Zeffy - Canadian) Donate AME RI CAN with GiveButter (a small fee applies) OR Donate FREE with Zeffy , a Canadian Comapany.
+Terms and Conditions Adjusted from Actblue.com - I would appreciate any assistance with any discrepancies that I missed.
 Thank you.
 These terms of use apply to your use of the lienchoi.com/leanonmeChicago.com website and all associated services (including, but not limited to, e-mail received from lienchoi/leanonmeChicago, and content embedded on other websites) provided by lienchoi/leanonmeChicago and its associated entities (including lienchoi/leanonmeChicago Civics and lienchoi/leanonmeChicago Charities).
 If you browse or donate through lienchoi.com/leanonmeChicago.com, you accept these conditions.
-Privacy Policy
-Unlike others, I won't use your information.
+Privacy Policy Unlike others, I won't use your information.
 But the services I am using, givebutter, paypal, etc. might.
 But I will try to ensure that they do not.
 Though, I am not an expert on this matter.
-Accuracy
-We work hard to make sure all information provided by lienchoi/leanonmeChicago is as accurate as possible.
+Accuracy We work hard to make sure all information provided by lienchoi/leanonmeChicago is as accurate as possible.
 However, this information is presented without warranty, either express or implied, as to its accuracy, timeliness or completeness, and is not intended to replace any official versions of that information, where applicable, such as information provided by a candidate or government office.
-Other Websites
-We provide links to other web sites, but we can't control what those sites say or do.
+Other Websites We provide links to other web sites, but we can't control what those sites say or do.
 In particular, websites to which we link may request your personal and/or financial information. lienchoi/leanonmeChicago is not responsible for other sites' content, information collection practices, or use of the information they collect. lienchoi/leanonmeChicago's links to other web sites do not constitute an endorsement of those sites or their content, owners, or posters. lienchoi/leanonmeChicago encourages third parties and individuals to link to lienchoi.com/leanonmeChicago.com and content posted herein.
 Such links do not constitute an endorsement by lienchoi/leanonmeChicago of these third party web sites or their content, owners, or posters.
-Campaign Finance Laws
-Political contributions are governed by campaign finance laws. lienchoi/leanonmeChicago makes its best efforts to ensure that all contributions made on the lienchoi/leanonmeChicago site are in accordance with these laws.
+Campaign Finance Laws Political contributions are governed by campaign finance laws. lienchoi/leanonmeChicago makes its best efforts to ensure that all contributions made on the lienchoi/leanonmeChicago site are in accordance with these laws.
 Nonetheless, you have final responsibility for ensuring your own compliance.
 For example: lienchoi/leanonmeChicago will not permit users to make donations larger than $2,900 to any federal candidate.
 However, lienchoi/leanonmeChicago does not track users' contributions through other avenues (e.g. fundraisers, candidates' websites).
-Therefore you (and not lienchoi/leanonmeChicago) are responsible for ensuring that your total contributions through these different avenues do not exceed your contribution limits.
+Therefore you (and not lienchoi/leanonmeChicago) are responsible for ensuring that your total contributions through these different avenues do not exceed your contribution limits .
 If you are in a position to make these kinds of large contributions, please be careful and don't give these campaigns' accountants any more headaches than they already have.
-Other Laws
-Donations to charities (501(c)(3) organizations) and social welfare groups (501(c)(4) organizations) are not subject to any contributions limits.
+Other Laws Donations to charities (501(c)(3) organizations) and social welfare groups (501(c)(4) organizations) are not subject to any contributions limits.
 You may make unlimited donations to these groups on the site. lienchoi/leanonmeChicago cannot be responsible for your treatment of these donations on your tax returns.
 Charitable donations are tax-deductible for federal income tax purposes.
 Social welfare donations are not tax deductible as charitable contributions.
 We will do our best to provide you with all relevant information regarding tax treatment of donations to the entities on our site, such as what percentage of your donation might be used for lobbying activities (check your receipt).
 However, it is your responsibility to report your donations accurately as required and to pay your taxes.
 We recommend consulting your tax adviser or tax preparer if you have any questions.
-Permissions and Reuse
-Content on lienchoi.com/leanonmeChicago.com is made available under a Creative Commons license.
-You are free to copy, distribute, and display this content and to make derivative works, provided that:
--You credit ActBlue as the original source of this content; and
--You do not use this content for commercial purposes.
+Permissions and Reuse Content on lienchoi.com/leanonmeChicago.com is made available under a Creative Commons license .
+You are free to copy, distribute, and display this content and to make derivative works, provided that: -You credit ActBlue as the original source of this content; and -You do not use this content for commercial purposes.
 If you want to use this content in another way, please contact us for permission.
 See below for information regarding user-contributed content.
 ActBlue, ActBlue.com, "Want Blue States?", and "The online clearinghouse for Democratic Action" are the trademarks and/or service marks of ActBlue.
@@ -45,8 +35,7 @@ From time to time ActBlue may publish guidelines on the use of its marks (e.g. f
 You agree to abide by those guidelines in your use of those marks.
 All good will in such marks remains with ActBlue.
 All intellectual property rights not specifically mentioned in these terms of use are reserved to ActBlue.
-User-Contributed Content
-Content you post on lienchoi.com/leanonmeChicago.com is covered by the same Creative Commons license that applies to lienchoi/leanonmeChicago's content, as described above.
+User-Contributed Content Content you post on lienchoi.com/leanonmeChicago.com is covered by the same Creative Commons license that applies to lienchoi/leanonmeChicago's content, as described above.
 In addition, you grant lienchoi/leanonmeChicago a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, create derivative works from, distribute, and display this content in any media.
 Text, graphics, data, and other content posted by users on lienchoi/leanonmeChicago are the sole responsibility of those users.
 This means that (a) lienchoi/leanonmeChicago does not control and is not responsible for the accuracy, integrity, or quality of user-created content, and (b) you, and not lienchoi/leanonmeChicago, are entirely responsible for all content you post or otherwise make available via lienchoi/leanonmeChicago. lienchoi/leanonmeChicago reserves the right to remove or edit user-created content, but shall not be obligated to do so on any particular basis.
@@ -54,8 +43,7 @@ The content you post or otherwise make available via lienchoi/leanonmeChicago ma
 You may not impersonate any person or entity, or otherwise mislead as to the origin of your content.
 You will indemnify lienchoi.com/leanonmeChicago.com or its affiliates for all claims resulting from content you supply.
 Further, you may not make use of lienchoi/leanonmeChicago's web site or services to forge e-mail headers, or send bulk unsolicited e-mail messages ("spam").
-Refund policy
-lienchoi/leanonmeChicago does everything we can to accommodate requests for refunds.
+Refund policy lienchoi/leanonmeChicago does everything we can to accommodate requests for refunds.
 We do our best to honor refunds requested for reasons such as input error, when a contributor accidentally donates twice or enters the wrong donation amount. lienchoi/leanonmeChicago will not consider refunds for other reasons such as a change in political or personal opinion or the cancellation of an event. lienchoi/leanonmeChicago reserves the right to refuse a refund request for these or other reasons.
 All refund requests are subject to the availability of the contribution funds.
 Because lienchoi/leanonmeChicago forwards contributions to the candidate, cause, or committee to whom you choose to contribute, lienchoi/leanonmeChicago will only refund a contribution if we still have the funds or can recover the funds from the recipient.
@@ -65,8 +53,7 @@ In all cases where we are not able to accommodate a refund request, we will be h
 Our state of the art fraud detection software constantly monitors the site for fraudulent activity using stolen cards.
 When our software identifies a fraudulent transaction, the contribution will be refunded automatically regardless of whether a refund has been requested.
 If you are with a campaign, committee, or organization that has received a contribution through lienchoi/leanonmeChicago and would like to request that we refund that contribution, please contact us at info@leanonmeChicago.com and we will do our best to assist you.
-Cancellation policy
-For your convenience, lienchoi/leanonmeChicago offers the ability to make a recurring contribution to one or more recipients using a stored payment method.
+Cancellation policy For your convenience, lienchoi/leanonmeChicago offers the ability to make a recurring contribution to one or more recipients using a stored payment method.
 When you sign up for a recurring contribution, lienchoi/leanonmeChicago will charge the amount you designated to your stored account once each month and forward that contribution to the recipient you have chosen.
 All payment information is stored securely in our system, and we will never change the amount, frequency, or recipient of your recurring contribution.
 If you wish to cancel future instances of a recurring contribution, or change the payment method used for future charges, you can do so by clicking on the appropriate link in your original receipt, by looking up your contribution on the lienchoi/leanonmeChicago website, or by sending us an email with your request.
@@ -82,4 +69,4 @@ IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR
 Changes to The Fine Print As we develop this site we may need to update the policies described above.
 Changes will be posted here, of course.
 Questions?
-Contact us.
+Contact us .

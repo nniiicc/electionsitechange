@@ -1,11 +1,8 @@
-2024 - Property Taxes part 2 - the Braun/Beckwith Proposal
-On the property tax plan released by, mmmm not sure if it is the Republicans or the Braun/Beckwith campaign, but anyway....
+0 Skip to Content Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate 2024 - Property Taxes part 2 - the Braun/Beckwith Proposal Jul 29 Written By John Bartlett for IN State Rep Dist 33 On the property tax plan released by, mmmm not sure if it is the Republicans or the Braun/Beckwith campaign, but anyway....
 First of all, please note there are state guidelines for figuring property tax assessments which were passed by the Republican SUPERMAJORITY legislature after the State Supreme Court ruling that they had to base assessment values on market price rather than replacement value as that wasn't fair to all property owners.
-The legislation is set up in a manual which is here: https://www.in.gov/.../2021.../Assessment-Manual.pdf
-Local assessors have state guidelines to follow.
+The legislation is set up in a manual which is here: https://www.in.gov/.../2021.../Assessment-Manual.pdf Local assessors have state guidelines to follow.
 But delve down into the manual and find the complicated formulas that the assessors have to use to calculate assessment values.
-Notice the terminology at the top of the page that this is a "simple example."
-So the first thing that needs to happen is that this calculus needs to be adjusted so that it is more fair to homeowners.
+Notice the terminology at the top of the page that this is a "simple example." So the first thing that needs to happen is that this calculus needs to be adjusted so that it is more fair to homeowners.
 This proposal doesn't bother to try to look at that.
 The second thing is that the proposed Braun/Beckwith plan does not affect the overwhelming majority of Hoosier homeowners to a great extent.
 Most of them will be closer to a $15 savings rather than a the savings needed by most Hoosiers.
@@ -25,3 +22,4 @@ I do not think this plan was well thought through at all.
 If it does pass, it will further devastate our local rural communities.
 I'm not sure it is viable though.
 I think it is more political eye candy to make it look like the Republicans are doing something on property taxes to attract voters and shut down people like me who want to provide real relief that leaves our local governments and schools sustainable.
+John Bartlett for IN State Rep Dist 33 Previous Previous 2025 - Motorcade for Medicaid Next Next 2024 - Proposed Amendment to Eliminate Bail Bartlett for Indiana Member of the Indiana Rural Summit Paid for by Bartlett for Indiana, Jennifer Hollems, Treasurer

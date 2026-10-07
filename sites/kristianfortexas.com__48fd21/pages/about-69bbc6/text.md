@@ -1,5 +1,5 @@
-Meet Kristian
-I was born and raised on the Southside of San Antonio by a single mom whose family name I proudly carry.
+Skip to content Kristian is in!
+Chip in $5 right now Kristian Carranza for TX HD-118 Connect on Facebook Connect on Instagram Connect on Twitter About Kristian’s Platform Donate Meet Kristian I was born and raised on the Southside of San Antonio by a single mom whose family name I proudly carry.
 Growing up our family lived paycheck to paycheck, relying on school for breakfast and lunch, and depending on Pell Grants for college tuition, I deeply understand the cost-of living challenges Texas families face.
 I began a career in community organizing as a way to uplift the voices of working people.
 Since then, I’ve registered 10,000 voters in Texas, helped my neighbors sign up for discounted insurance coverage under the Affordable Care Act, managed staff and multi-million dollar budgets, and made it from McCollum High School to Washington, DC and the White House.
@@ -13,3 +13,6 @@ If you do not have the courage to stand up for what’s right, no matter the pol
 I’m centering our campaign around kitchen table issues: protecting healthcare, making housing affordable for working families, lowering the cost of childcare, more support for public schools and teachers, and job training to help aspiring families compete for higher salaries.
 Now, after more than a decade working on the ground in my community, I’m ready to take the fight to the state capitol.
 And when we get there you won’t see us silent on the sidelines, you’ll see us hard at work.
+Share on Facebook Share on Blue Sky Share on Twitter Sign up to join This is for our future and the time to join is now.
+Email Address * Zip Code * Mobile Number Chip in today Fighting for a seat at the table for families like yours and mine. $ # $ # $ # $ # $ #,# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+About Kristian’s Platform Donate Connect on Facebook Connect on Instagram Connect on Twitter Political ad paid for by Kristian Carranza for Texas Contact Produced by

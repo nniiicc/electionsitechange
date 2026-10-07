@@ -1,2 +1,3 @@
-Help Us Win Volunteer We need people power on our side to win in November First Name * First Name Last Name Last Name Email * Email Phone Number Phone Number How do you want to get involved?
-Knock on Doors Send Texts Make Calls Talk to Friends & Neighbors Yard Sign Sign Up
+Follow us Menu Home Meet Candidate Issues Endorsements Voting Info Events Volunteer Donate Follow us Donate Help Us Win Volunteer We need people power on our side to win in November First Name * First Name Last Name Last Name Email * Email Phone Number Phone Number How do you want to get involved?
+Knock on Doors Send Texts Make Calls Talk to Friends & Neighbors Yard Sign Sign Up Stay Up To Date Follow us on the campaign trail!
+Email Email Subscribe Donate Follow us Home Meet Candidate Issues Endorsements Voting Info Events Volunteer Donate Paid for by Friends of Josh taveras Josh Taveras for New York State Senate © # 54 Academy Street Bayport, NY 11705 Accessibility Statement Terms of Service Contact

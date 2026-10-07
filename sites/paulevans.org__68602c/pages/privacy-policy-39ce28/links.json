@@ -1,19 +1,82 @@
 [
-"http://aboutads.info/choices",
-"http://paulevans.org/",
-"https://callsignlobo.substack.com/",
-"https://donation.c-esystems.com/campaign/friendsofpaulevans",
-"https://facebook.com/paulevanshousedistrict20",
-"https://instagram.com/paulevanshd20",
-"https://paulevans.org/",
-"https://paulevans.org/about",
-"https://paulevans.org/cart",
-"https://paulevans.org/endorsements",
-"https://paulevans.org/meet-paul",
-"https://paulevans.org/priorities",
-"https://paulevans.org/privacy-policy",
-"https://paulevans.org/vet-resources",
-"https://paypal.com/us/webapps/mpp/ua/privacy-full",
-"https://policies.google.com/privacy",
-"https://stripe.com/privacy"
+{
+"text": "0",
+"href": "https://www.paulevans.org/cart"
+},
+{
+"text": "Back",
+"href": "https://www.paulevans.org/"
+},
+{
+"text": "Blog",
+"href": "https://callsignlobo.substack.com/"
+},
+{
+"text": "DONATE",
+"href": "https://donation.c-esystems.com/campaign/friendsofpaulevans"
+},
+{
+"text": "Endorsements",
+"href": "https://www.paulevans.org/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/paulevanshousedistrict20"
+},
+{
+"text": "Folder: About",
+"href": "https://www.paulevans.org/about"
+},
+{
+"text": "Home",
+"href": "https://www.paulevans.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/paulevanshd20"
+},
+{
+"text": "Meet Paul",
+"href": "https://www.paulevans.org/meet-paul"
+},
+{
+"text": "Priorities",
+"href": "https://www.paulevans.org/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.paulevans.org/privacy-policy"
+},
+{
+"text": "Veteran Resources",
+"href": "https://www.paulevans.org/vet-resources"
+},
+{
+"text": "Veterans Resources",
+"href": "https://www.paulevans.org/vet-resources"
+},
+{
+"text": "[image: Paul Evans for Oregon House District 20]",
+"href": "https://www.paulevans.org/"
+},
+{
+"text": "http://www.paulevans.org/",
+"href": "http://www.paulevans.org/"
+},
+{
+"text": "https://stripe.com/privacy",
+"href": "https://stripe.com/privacy"
+},
+{
+"text": "https://www.paypal.com/us/webapps/mpp/ua/privacy-full",
+"href": "https://www.paypal.com/us/webapps/mpp/ua/privacy-full"
+},
+{
+"text": "info@paulevans.org",
+"href": "mailto:info@paulevans.org"
+},
+{
+"text": "link",
+"href": "https://policies.google.com/privacy"
+}
 ]

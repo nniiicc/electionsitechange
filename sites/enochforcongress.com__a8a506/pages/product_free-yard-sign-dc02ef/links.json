@@ -1,33 +1,154 @@
 [
-"https://campaignhq.app/volunteer",
-"https://enochforcongress.com/",
-"https://enochforcongress.com/about-ohios-8th-congressional-district",
-"https://enochforcongress.com/bio",
-"https://enochforcongress.com/blog",
-"https://enochforcongress.com/community-survey",
-"https://enochforcongress.com/contact",
-"https://enochforcongress.com/donate-now",
-"https://enochforcongress.com/endorsements",
-"https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such",
-"https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting",
-"https://enochforcongress.com/events",
-"https://enochforcongress.com/issue",
-"https://enochforcongress.com/product/bumper-sticker",
-"https://enochforcongress.com/product/campaign-button",
-"https://enochforcongress.com/product/free-yard-sign",
-"https://enochforcongress.com/product/free-yard-sign?add-to-cart=2749",
-"https://enochforcongress.com/product/free-yard-sign?add-to-cart=442",
-"https://enochforcongress.com/product/large-sign",
-"https://enochforcongress.com/product/purple-cap",
-"https://enochforcongress.com/product/yard-sign",
-"https://enochforcongress.com/shop",
-"https://enochforcongress.com/volunteer",
-"https://enochforcongress.com/volunteer-portal",
-"https://enochforcongress.com/voting-in-2026",
-"https://enochforcongress.com/wp-content/uploads/2018/08/IMG_7356-600x600-1.png",
-"https://facebook.com/1DocEnoch",
-"https://instagram.com/doc.enoch",
-"https://linkedin.com/in/dr-vanessa-enoch",
-"https://pinterest.com/EnochforCongress",
-"https://twitter.com/DrVEnoch"
+{
+"text": "About",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Add to cart",
+"href": "https://enochforcongress.com/product/free-yard-sign/?add-to-cart=2749"
+},
+{
+"text": "Add to cart",
+"href": "https://enochforcongress.com/product/free-yard-sign/?add-to-cart=442"
+},
+{
+"text": "Back to Shop",
+"href": "https://enochforcongress.com/shop/"
+},
+{
+"text": "Biography",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Blog",
+"href": "https://enochforcongress.com/blog/"
+},
+{
+"text": "Contact",
+"href": "https://enochforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://enochforcongress.com/donate-now/"
+},
+{
+"text": "Endorsements",
+"href": "https://enochforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/1DocEnoch/"
+},
+{
+"text": "Home",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/doc.enoch/"
+},
+{
+"text": "Issues",
+"href": "https://enochforcongress.com/issue/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/dr-vanessa-enoch/"
+},
+{
+"text": "October Meet & Greet with Dr. Vanessa Enoch @ Major Minor Books and Such",
+"href": "https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such/"
+},
+{
+"text": "October Wooster Corridor Democrats Meeting",
+"href": "https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting/"
+},
+{
+"text": "Ohio’s 8th Congressional District",
+"href": "https://enochforcongress.com/about-ohios-8th-congressional-district/"
+},
+{
+"text": "Order a Yard Sign",
+"href": "https://enochforcongress.com/product/free-yard-sign/"
+},
+{
+"text": "Pinterest",
+"href": "https://www.pinterest.com/EnochforCongress/"
+},
+{
+"text": "Select options",
+"href": "https://enochforcongress.com/product/campaign-button/"
+},
+{
+"text": "Select options",
+"href": "https://enochforcongress.com/product/purple-cap/"
+},
+{
+"text": "Share Your Opinion",
+"href": "https://enochforcongress.com/community-survey/"
+},
+{
+"text": "Shop",
+"href": "https://enochforcongress.com/shop/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/DrVEnoch"
+},
+{
+"text": "Upcoming Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "Volunteer",
+"href": "https://campaignhq.app/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://enochforcongress.com/volunteer/"
+},
+{
+"text": "Volunteer Portal",
+"href": "https://enochforcongress.com/volunteer-portal/"
+},
+{
+"text": "Voting in 2026",
+"href": "https://enochforcongress.com/voting-in-2026/"
+},
+{
+"text": "[image: Bumper Sticker]Bumper Sticker $5.00",
+"href": "https://enochforcongress.com/product/bumper-sticker/"
+},
+{
+"text": "[image: Campaign Button]Campaign Button $5.00",
+"href": "https://enochforcongress.com/product/campaign-button/"
+},
+{
+"text": "[image: Large Yard Sign]Large Yard Sign $35.00",
+"href": "https://enochforcongress.com/product/large-sign/"
+},
+{
+"text": "[image: T-Shirt]T-Shirt $20.00 – $21.00Price range: $20.00 through $21.00",
+"href": "https://enochforcongress.com/product/purple-cap/"
+},
+{
+"text": "[image: Vanessa Enoch for Congress]",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "[image: Yard Sign (Free)]",
+"href": "https://enochforcongress.com/wp-content/uploads/2018/08/IMG_7356-600x600-1.png"
+},
+{
+"text": "dr.enoch@enochforcongress.com",
+"href": "mailto:dr.enoch@enochforcongress.com"
+},
+{
+"text": "this sign",
+"href": "https://enochforcongress.com/product/yard-sign/"
+}
 ]

@@ -1,6 +1,7 @@
-Principles Over Party.
-Join the movement
-David Jolly's position is grounded in principles over party affiliation.
+Skip to content Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact EN | ES | HT Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact Donate $5 $10 $20 $50 $100 $250 $500 Other EN | ES | HT OCT 2 Want to get involved with Republicans for Jolly?
+Join our webinar, Friday at 1 p.m.
+ET Sign up now Principles Over Party.
+Join the movement In short David Jolly's position is grounded in principles over party affiliation.
 He supports local control, private sector leadership, individual freedom from government interference in personal decisions, and government action when markets fail.
 Jolly's approach to Florida's challenges in housing, insurance, health care, education, and affordability focuses on solutions that work regardless of whether they originate from the right or left.
 Political parties change.
@@ -19,7 +20,7 @@ His argument is straightforward: those problems require solutions at the same sc
 The question isn't whether an idea came from the right or the left.
 The question is whether it works.
 You Don't Have to Be a Democrat to Vote for a Democrat.
-Some of these ideas used to be called Republican ideas.
+The party David joined Some of these ideas used to be called Republican ideas.
 In discussing local control, David has described what attracted him to the Republican Party in the first place.
 Less government.
 Local control.
@@ -28,25 +29,22 @@ Keeping government out of your bedroom.
 Keeping government from overruling communities simply because politicians in the state capital don't like the decisions those communities make.
 David's political affiliation changed.
 Those principles didn't.
-What does that look like today?
+The principles in practice What does that look like today?
 Government closest to the people.
 Florida is a big, diverse state.
 What works for Key West may not be what Jacksonville wants.
 David's position is that local communities should have meaningful authority to make local decisions.
-See the plan
-The private sector should lead.
+See the plan → The private sector should lead.
 Government doesn't have to run everything to make people's lives better.
 Businesses, entrepreneurs, workers and communities create growth and opportunity.
 Government should create the conditions for that to happen.
 But when a market is clearly failing Floridians, the answer cannot simply be to watch it fail.
 David's housing and insurance proposals include public-private approaches and government intervention where Florida's insurance market is no longer delivering affordable outcomes.
-See the plan
-Freedom should mean freedom.
+See the plan → Freedom should mean freedom.
 Freedom means trusting people with their own lives.
 Government shouldn't claim to support freedom while increasingly inserting itself into personal decisions, local communities and private lives.
 David's platform explicitly frames individual agency and freedom from government interference as a governing principle.
-See the plan
-Government should work.
+See the plan → Government should work.
 Limited government doesn't have to mean ineffective government.
 Floridians pay taxes and expect basic institutions to function.
 Schools should work.
@@ -55,8 +53,7 @@ Insurance markets should work.
 Health care should be accessible.
 Public safety should work.
 And when something isn't working, government should be willing to fix it rather than defend a broken system because the solution doesn't fit neatly inside an ideological box.
-See the plan
-FLORIDA DOESN'T NEED SMALLER POLITICS.
+See the plan → FLORIDA DOESN'T NEED SMALLER POLITICS.
 WE NEED TO TRUST ONE ANOTHER AGAIN.
 WE NEED TO BELIEVE IN BETTER.
 Florida's challenges in housing, insurance, health care, education and affordability have moved beyond the traditional left and right argument.
@@ -74,8 +71,7 @@ Government action where the market has failed?
 Put it on the table.
 Florida's problems are too consequential to reject good ideas because somebody on the "other team" thought of them first.
 You don't have to fit into a box.
-A different kind of coalition
-REPUBLICANS.
+A different kind of coalition REPUBLICANS.
 DEMOCRATS.
 INDEPENDENTS.
 FLORIDIANS.
@@ -84,12 +80,13 @@ Are you a Republican supporting David Jolly?
 Tell Florida why.
 Record a short video explaining what matters to you, what principles guide your decision, and why you've chosen to support David.
 Your story may be featured on this page alongside other Floridians sharing their own experiences.
-"I'm a Republican, and this year I'm supporting David Jolly because..."
-Everything after "because" is entirely yours.
+"I'm a Republican, and this year I'm supporting David Jolly because..." Everything after "because" is entirely yours.
 It takes about a minute, and you can record it right from your phone.
-Share Your Reason
-Get to know David
-Before you decide, read where he came from and what he has actually done.
-Meet David
-Join Republicans for Jolly
-Get alerts when there is a Republicans for Jolly event near you, and be counted in a growing coalition putting principle over party.
+Share Your Reason Explore the issues Read David's plans in his own words, issue by issue.
+Where David stands Get to know David Before you decide, read where he came from and what he has actually done.
+Meet David Join Republicans for Jolly Get alerts when there is a Republicans for Jolly event near you, and be counted in a growing coalition putting principle over party.
+Count me in for more Sign me up for text message alerts I want to volunteer with Republicans for Jolly I would host or help organize an event in my county I am willing to share publicly why I am supporting David Together we can build a Florida that belongs to us all.
+Join The Movement Explore this issue In depth I'm a Republican and I'm voting for David Jolly.
+About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
+All rights reserved.
+Built with AVM

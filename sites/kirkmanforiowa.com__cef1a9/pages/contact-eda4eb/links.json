@@ -1,11 +1,42 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/kirkmanforiowa",
-"https://instagram.com/kirkmanforiowa",
-"https://kirkmanforiowa.com/",
-"https://kirkmanforiowa.com/about",
-"https://kirkmanforiowa.com/platform",
-"https://kirkmanforiowa.com/support",
-"https://secure.actblue.com/donate/kirkmanforiowa",
-"https://tiktok.com/@kirkmanforiowa"
+{
+"text": "About Jennifer",
+"href": "https://www.kirkmanforiowa.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kirkmanforiowa"
+},
+{
+"text": "Learn more",
+"href": "https://www.kirkmanforiowa.com/support"
+},
+{
+"text": "Platform",
+"href": "https://www.kirkmanforiowa.com/platform"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Support",
+"href": "https://www.kirkmanforiowa.com/support"
+},
+{
+"text": "[image: Kirkman for Iowa]",
+"href": "https://www.kirkmanforiowa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/kirkmanforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/kirkmanforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@kirkmanforiowa"
+}
 ]

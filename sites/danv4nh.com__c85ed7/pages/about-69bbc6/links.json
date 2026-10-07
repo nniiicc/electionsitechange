@@ -1,10 +1,42 @@
 [
-"https://amherstnh.gov/soughegan-regional-landfill-district",
-"https://concordcoalition.org/about-us",
-"https://danv4nh.com/",
-"https://facebook.com/danv4nh",
-"https://linkedin.com/company/wix-com",
-"https://sau39.org/Page/2558",
-"https://secure.actblue.com/donate/dan-v-4-amherst",
-"https://twitter.com/danv4nh"
+{
+"text": "Concord Coalition",
+"href": "https://www.concordcoalition.org/about-us"
+},
+{
+"text": "GET IN TOUCH",
+"href": "https://www.danv4nh.com"
+},
+{
+"text": "SRLD",
+"href": "https://www.amherstnh.gov/soughegan-regional-landfill-district"
+},
+{
+"text": "Souhegan Advisory Finance Committee (SAFC)",
+"href": "https://www.sau39.org/Page/2558"
+},
+{
+"text": "Souhegan Regional Landfill District (SRLD)",
+"href": "https://www.amherstnh.gov/soughegan-regional-landfill-district"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/danv4nh"
+},
+{
+"text": "[image: White LinkedIn Icon]",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/danv4nh"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/dan-v-4-amherst"
+},
+{
+"text": "[no text]",
+"href": "https://www.danv4nh.com"
+}
 ]

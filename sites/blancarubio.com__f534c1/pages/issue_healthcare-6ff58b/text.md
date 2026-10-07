@@ -1,8 +1,6 @@
-Board of Registered Nursing: Workforce Planning: Nursing Programs: Clinical Placements (AB 1015)
-Successfully authored legislation before the pandemic to strengthen our health-care workforce in all areas of California.
-Lifting Children Out of Poverty Task Force (AB 1520 Joint Author)
-This piece of legislation focused on improving healthcare and nutrition access to children experiencing deep poverty.
-Nurse Assistant Training Programs: Geriatric Medication Technician (AB 2850)
-Will create a new certification at skilled nursing facilities.
+Skip to content Ξ Home Meet Blanca Issues Public Safety & Criminal Justice Housing & Homelessness Education & Youth Domestic Violence Healthcare Aging Consumer Protections Water Climate Change Animal Protection Women’s Issues Our District Media News Photos Awards Events Contact Donate Search for: Assemblywoman Blanca Rubio Healthcare Board of Registered Nursing: Workforce Planning: Nursing Programs: Clinical Placements (AB 1015) Successfully authored legislation before the pandemic to strengthen our health-care workforce in all areas of California.
+Lifting Children Out of Poverty Task Force (AB 1520 Joint Author) This piece of legislation focused on improving healthcare and nutrition access to children experiencing deep poverty.
+Nurse Assistant Training Programs: Geriatric Medication Technician (AB 2850) Will create a new certification at skilled nursing facilities.
 The certification will be called geriatric medication technician.
 The bill will provide a career ladder for CNAs at these facilities to gain new skills and earn higher wages.
+Issues sidebar Women’s Issues Education & Youth Housing & Homelessness Domestic Violence Climate Change Public Safety & Criminal Justice Aging Water Animal Protection Healthcare Post navigation Previous: Consumer Protections Next: Animal Protection Home Meet Blanca Media Photos Contact Volunteer Donate Working for you Paid for by Blanca Rubio for Assembly 2024 • FPPC ID #1456604 Site by BSC

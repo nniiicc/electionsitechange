@@ -1,0 +1,8 @@
+0 Skip to Content Meet Manny Issues Join Us More How to Vote Contact Press Retro Battle Game Fellowships English Donate Open Menu Close Menu Meet Manny Issues Join Us More How to Vote Contact Press Retro Battle Game Fellowships English Donate Open Menu Close Menu Meet Manny Issues Join Us Folder: More Back How to Vote Contact Press Retro Battle Game Fellowships English Back Donate First Rutinel General Election Ad Highlights Rutinel’s Record of Lowering Costs, Fighting Corruption Press Release Sep 1 Written By COMMERCE CITY, COLO. — Today, State Rep.
+Manny Rutinel’s campaign for Colorado’s 8th Congressional District launched its first TV ad of the general election.
+“Third Base,” focused on Rutinel’s bio, lowering costs of healthcare, groceries, and housing, and stopping corruption.
+Watch the ad here .
+In the ad, Rutinel describes growing up on Medicaid and being raised by a hardworking single mom and his time as an economist in the US Army Corps of Engineers.
+He then emphasizes his frustration with political corruption and walks voters through his work to lower insulin prices, crack down on grocery price gouging, and building more affordable housing in the Colorado State House.
+The ad will be backed by a buy of at least $225,000 on broadcast TV and digital platforms.
+Previous Previous NYT: Trump and Evans Tariffs Keep Squeezing Working Coloradans Next Next Rutinel Hosts Meet and Greet, Stresses Need To Lower Costs for Families and Small Businesses Contact Privacy Policy Media Meet Manny Paid for by Manny Rutinel for Congress PO Box 1013 Commerce City, CO 80022 Email Us × Will you chip in to help flip CO-08? $# $# $# $# Other Amount If you've saved your payment information with ActBlue Express, your donation may go through immediately.

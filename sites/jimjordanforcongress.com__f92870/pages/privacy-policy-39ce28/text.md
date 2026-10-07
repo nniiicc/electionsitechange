@@ -1,5 +1,4 @@
-Privacy Policy
-This Privacy Policy governs the manner in which Jim Jordan for Congress collects, uses, maintains and discloses information collected from user (each, a “User”) of www.jimjordanforcongress.com (“Site”).
+MEET JIM The Newsroom Donate Take Action MEET JIM The Newsroom Donate Take Action Privacy Policy This Privacy Policy governs the manner in which Jim Jordan for Congress collects, uses, maintains and discloses information collected from user (each, a “User”) of www.jimjordanforcongress.com (“Site”).
 Personal identification information - We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.
 Users may be asked for, as appropriate, name, email address, mailing address, phone number.
 Users may, however, visit our Site anonymously.
@@ -7,14 +6,7 @@ We will collect personal identification information from Users only if they volu
 Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 Non-personal identification information - We may collect non-personal identification information about Users whenever they interact with our Site.
 Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
-Web browser cookies - Our Site may use “cookies” to enhance User experience.
-User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them.
-User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent.
-If they do so, note that some parts of the Site may not function properly.
-How we use collected information - Jim Jordan for Congress may collect and use Users personal information for the following purposes:
-● To run and operate our Site we may need your information display content on the Site correctly.
-● To improve our site we may use feedback you provide to improve our products and services.
-● To send periodic emails we may use the email address to respond to their inquiries, questions, and/or other requests.
+How we use collected information - Jim Jordan for Congress may collect and use Users personal information for the following purposes: ● To run and operate our Site we may need your information display content on the Site correctly. ● To improve our site we may use feedback you provide to improve our products and services. ● To send periodic emails we may use the email address to respond to their inquiries, questions, and/or other requests.
 How we protect your information - We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 Sharing your personal information - We do not sell, trade, or rent Users personal identification information to others.
 We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
@@ -38,5 +30,9 @@ SMS Disclaimer - By providing your cell phone number, you are consenting to rece
 Message frequency will vary.
 Message and data rates may apply.
 Text STOP to stop receiving messages.
-How the data is used/that it will not be shared with third parties:
-Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
+How the data is used/that it will not be shared with third parties: Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+JOIN OUR LIST Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Back to Top Invite Home Privacy Policy Paid for by Jim Jordan for Congress

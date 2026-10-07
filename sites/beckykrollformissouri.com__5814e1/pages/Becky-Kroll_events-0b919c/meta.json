@@ -1,7 +1,11 @@
 {
- "description": "See Becky\u2019s upcoming campaign events happening near you.",
+ "description": "See Becky’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/Becky-Kroll/events/",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "205b32ffe59330a8a789dd9f0e3a3474d36f10be",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Upcoming Becky Kroll Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

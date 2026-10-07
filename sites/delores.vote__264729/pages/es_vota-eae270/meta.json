@@ -1,8 +1,10 @@
 {
- "description": "Informaci\u00f3n sobre el registro de votantes, las fechas electorales de 2026 y los recursos oficiales para votar en Arizona.",
+ "description": "Información sobre el registro de votantes, las fechas electorales de 2026 y los recursos oficiales para votar en Arizona.",
  "final_url": "https://delores.vote/es/vota/",
- "paid_for_by": null,
- "title": "C\u00f3mo votar en Arizona en 2026 | Delores McLaughlin",
+ "fingerprint": "6dddea86bcf26ecafcaba0dab6c6e7a55452da11",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Cómo votar en Arizona en 2026 | Delores McLaughlin",
  "years_mentioned": [
   "2026"
  ]

@@ -1,69 +1,394 @@
 [
-"http://facebook.com/chelseaforwa",
-"http://google.com/calendar/event?action=TEMPLATE&text=2026+Campaign+Kick-Off+Fundraiser&dates=20260514T010000Z%2F20260514T030000Z&location=105+South+1st+Street%2C+Yakima%2C+WA%2C+98901%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvas+with+Chelsea%21&dates=20240518T160000Z%2F20240518T180000Z&location=505+South+7th+Street%2C+Sunnyside%2C+WA%2C+98944%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvas+with+Chelsea%21&dates=20240519T160000Z%2F20240519T180000Z&location=505+South+7th+Street%2C+Sunnyside%2C+WA%2C+98944%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvas+with+Chelsea%21&dates=20240523T000000Z%2F20240523T020000Z&location=505+South+7th+Street%2C+Sunnyside%2C+WA%2C+98944%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Grand+Opening&dates=20240217T230000Z%2F20240218T010000Z&location=505+South+7th+Street+Suite+104%2C+Sunnyside%2C+WA%2C+98944%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Juntos+Pa%27+La+Gente+Community+Canvass&dates=20260628T170000Z%2F20260628T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Juntos+Somos+M%C3%A1s%3A+Campaign+Kick-Off+Fundraiser+for+Chelsea+Dimas+for+State+Rep&dates=20250918T000000Z%2F20250918T030000Z&location=Grandview%2C+WA+98930%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunnyside+Community+Canvass&dates=20260718T170000Z%2F20260718T200000Z&location=327+East+Edison+Avenue%2C+Sunnyside%2C+Washington%2C+98944%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunnyside+Community+Canvass&dates=20260720T000000Z%2F20260720T030000Z&location=327+East+Edison+Avenue%2C+Sunnyside%2C+Washington%2C+98944%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunnyside+Community+Canvass&dates=20260801T170000Z%2F20260801T200000Z&location=1521+South+1st+Street%2C+Sunnyside%2C+Washington%2C+98944%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunnyside+Meet+%2B+Greet&dates=20240323T003000Z%2F20240323T023000Z&location=436+South+6th+Street%2C+Sunnyside%2C+WA%2C+98944%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Wapato+Meet+%2B+Greet&dates=20240405T233000Z%2F20240406T010000Z&location=721+West+1st+Street%2C+Wapato%2C+WA%2C+98951%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Yakima+Community+Canvass&dates=20260725T170000Z%2F20260725T200000Z&location=513+North+3rd+Street%2C+Yakima%2C+Washington%2C+98901%2C+United+States",
-"http://instagram.com/chelseaforwa",
-"http://maps.google.com/?q=+Grandview%2C+WA+98930+United+States",
-"http://maps.google.com/?q=105+South+1st+Street+Yakima%2C+WA%2C+98901+United+States",
-"http://maps.google.com/?q=1521+South+1st+Street+Sunnyside%2C+Washington%2C+98944+United+States",
-"http://maps.google.com/?q=327+East+Edison+Avenue+Sunnyside%2C+Washington%2C+98944+United+States",
-"http://maps.google.com/?q=436+South+6th+Street+Sunnyside%2C+WA%2C+98944+United+States",
-"http://maps.google.com/?q=505+South+7th+Street+Suite+104+Sunnyside%2C+WA%2C+98944+United+States",
-"http://maps.google.com/?q=505+South+7th+Street+Sunnyside%2C+WA%2C+98944+United+States",
-"http://maps.google.com/?q=513+North+3rd+Street+Yakima%2C+Washington%2C+98901+United+States",
-"http://maps.google.com/?q=721+West+1st+Street+Wapato%2C+WA%2C+98951+United+States",
-"http://squarespace.com/",
-"https://chelseaforwa.com/",
-"https://chelseaforwa.com/about",
-"https://chelseaforwa.com/cart",
-"https://chelseaforwa.com/endorsements",
-"https://chelseaforwa.com/events",
-"https://chelseaforwa.com/events/2026-campaign-kick-off-fundraiser",
-"https://chelseaforwa.com/events/2026-campaign-kick-off-fundraiser?format=ical",
-"https://chelseaforwa.com/events/canvas-with-chelsea",
-"https://chelseaforwa.com/events/canvas-with-chelsea-may-19",
-"https://chelseaforwa.com/events/canvas-with-chelsea-may-19-faj44",
-"https://chelseaforwa.com/events/canvas-with-chelsea-may-19-faj44?format=ical",
-"https://chelseaforwa.com/events/canvas-with-chelsea-may-19?format=ical",
-"https://chelseaforwa.com/events/canvas-with-chelsea?format=ical",
-"https://chelseaforwa.com/events/grandopening",
-"https://chelseaforwa.com/events/grandopening?format=ical",
-"https://chelseaforwa.com/events/juntos-pa-la-gente-community-canvass",
-"https://chelseaforwa.com/events/juntos-pa-la-gente-community-canvass?format=ical",
-"https://chelseaforwa.com/events/juntos-somos-ms-campaign-kick-off-fundraiser-for-chelsea-dimas-for-state-rep",
-"https://chelseaforwa.com/events/juntos-somos-ms-campaign-kick-off-fundraiser-for-chelsea-dimas-for-state-rep?format=ical",
-"https://chelseaforwa.com/events/sunnyside-community-canvass",
-"https://chelseaforwa.com/events/sunnyside-community-canvass-l7jcf",
-"https://chelseaforwa.com/events/sunnyside-community-canvass-l7jcf?format=ical",
-"https://chelseaforwa.com/events/sunnyside-community-canvass?format=ical",
-"https://chelseaforwa.com/events/sunnyside-meet-greet",
-"https://chelseaforwa.com/events/sunnyside-meet-greet-zgjx4",
-"https://chelseaforwa.com/events/sunnyside-meet-greet-zgjx4?format=ical",
-"https://chelseaforwa.com/events/sunnyside-meet-greet?format=ical",
-"https://chelseaforwa.com/events/yakima-community-canvass",
-"https://chelseaforwa.com/events/yakima-community-canvass-gzsyr",
-"https://chelseaforwa.com/events/yakima-community-canvass-gzsyr?format=ical",
-"https://chelseaforwa.com/events/yakima-community-canvass?format=ical",
-"https://chelseaforwa.com/news",
-"https://chelseaforwa.com/volunteer",
-"https://chelseaforwa.com/vote",
-"https://docs.google.com/forms/d/e/1FAIpQLSc8BLZ-6SAzDezl5a2-lSiy9Ew6ugaVKW2DhUskBhlq7SPX6Q/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLScqzFHJCeIQsHTX68Hrdni6BgMA2dEC1ZJdLgMJ8qzd8pY_zQ/viewform?usp=sf_link",
-"https://docs.google.com/forms/d/e/1FAIpQLSdSg2DWUez3WJ_p_P3Ji_49RM5HAg5MGscr3SrOzqNRcZ91WQ/viewform?usp=header",
-"https://forms.gle/RCX1PxRu31omWvL36",
-"https://secure.actblue.com/donate/chelseaforwa",
-"https://secure.actblue.com/donate/dimas-5-13",
-"https://secure.actblue.com/donate/juntossomosmas",
-"https://secure.actblue.com/donate/sunnysidemeetandgreet"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+grandview%2C+wa+98930+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=105+south+1st+street+yakima%2C+wa%2C+98901+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1521+south+1st+street+sunnyside%2C+washington%2C+98944+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=327+east+edison+avenue+sunnyside%2C+washington%2C+98944+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=436+south+6th+street+sunnyside%2C+wa%2C+98944+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=505+south+7th+street+suite+104+sunnyside%2C+wa%2C+98944+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=505+south+7th+street+sunnyside%2C+wa%2C+98944+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=513+north+3rd+street+yakima%2C+washington%2C+98901+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=721+west+1st+street+wapato%2C+wa%2C+98951+united+states"
+},
+{
+"text": "0",
+"href": "https://www.chelseaforwa.com/cart"
+},
+{
+"text": "2026 Campaign Kick-Off Fundraiser",
+"href": "https://www.chelseaforwa.com/events/2026-campaign-kick-off-fundraiser"
+},
+{
+"text": "About",
+"href": "https://www.chelseaforwa.com/about"
+},
+{
+"text": "Buy Tickets",
+"href": "https://secure.actblue.com/donate/juntossomosmas"
+},
+{
+"text": "Canvas with Chelsea!",
+"href": "https://www.chelseaforwa.com/events/canvas-with-chelsea"
+},
+{
+"text": "Canvas with Chelsea!",
+"href": "https://www.chelseaforwa.com/events/canvas-with-chelsea-may-19"
+},
+{
+"text": "Canvas with Chelsea!",
+"href": "https://www.chelseaforwa.com/events/canvas-with-chelsea-may-19-faj44"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chelseaforwa"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/chelseaforwa"
+},
+{
+"text": "Donate now/done ahora!",
+"href": "https://secure.actblue.com/donate/chelseaforwa"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chelseaforwa.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.chelseaforwa.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.chelseaforwa.com/volunteer"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=2026+Campaign+Kick-Off+Fundraiser&dates=20260514T010000Z%2F20260514T030000Z&location=105+South+1st+Street%2C+Yakima%2C+WA%2C+98901%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvas+with+Chelsea%21&dates=20240518T160000Z%2F20240518T180000Z&location=505+South+7th+Street%2C+Sunnyside%2C+WA%2C+98944%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvas+with+Chelsea%21&dates=20240519T160000Z%2F20240519T180000Z&location=505+South+7th+Street%2C+Sunnyside%2C+WA%2C+98944%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvas+with+Chelsea%21&dates=20240523T000000Z%2F20240523T020000Z&location=505+South+7th+Street%2C+Sunnyside%2C+WA%2C+98944%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Grand+Opening&dates=20240217T230000Z%2F20240218T010000Z&location=505+South+7th+Street+Suite+104%2C+Sunnyside%2C+WA%2C+98944%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Juntos+Pa%27+La+Gente+Community+Canvass&dates=20260628T170000Z%2F20260628T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Juntos+Somos+M%C3%A1s%3A+Campaign+Kick-Off+Fundraiser+for+Chelsea+Dimas+for+State+Rep&dates=20250918T000000Z%2F20250918T030000Z&location=Grandview%2C+WA+98930%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunnyside+Community+Canvass&dates=20260718T170000Z%2F20260718T200000Z&location=327+East+Edison+Avenue%2C+Sunnyside%2C+Washington%2C+98944%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunnyside+Community+Canvass&dates=20260720T000000Z%2F20260720T030000Z&location=327+East+Edison+Avenue%2C+Sunnyside%2C+Washington%2C+98944%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunnyside+Community+Canvass&dates=20260801T170000Z%2F20260801T200000Z&location=1521+South+1st+Street%2C+Sunnyside%2C+Washington%2C+98944%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunnyside+Meet+%2B+Greet&dates=20240323T003000Z%2F20240323T023000Z&location=436+South+6th+Street%2C+Sunnyside%2C+WA%2C+98944%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Wapato+Meet+%2B+Greet&dates=20240405T233000Z%2F20240406T010000Z&location=721+West+1st+Street%2C+Wapato%2C+WA%2C+98951%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Yakima+Community+Canvass&dates=20260725T170000Z%2F20260725T200000Z&location=513+North+3rd+Street%2C+Yakima%2C+Washington%2C+98901%2C+United+States"
+},
+{
+"text": "Grand Opening",
+"href": "https://www.chelseaforwa.com/events/grandopening"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/2026-campaign-kick-off-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/canvas-with-chelsea-may-19-faj44?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/canvas-with-chelsea-may-19?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/canvas-with-chelsea?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/grandopening?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/juntos-pa-la-gente-community-canvass?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/juntos-somos-ms-campaign-kick-off-fundraiser-for-chelsea-dimas-for-state-rep?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/sunnyside-community-canvass-l7jcf?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/sunnyside-community-canvass?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/sunnyside-meet-greet-zgjx4?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/sunnyside-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/yakima-community-canvass-gzsyr?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/yakima-community-canvass?format=ical"
+},
+{
+"text": "Juntos Pa' La Gente Community Canvass",
+"href": "https://www.chelseaforwa.com/events/juntos-pa-la-gente-community-canvass"
+},
+{
+"text": "Juntos Somos Más: Campaign Kick-Off Fundraiser for Chelsea Dimas for State Rep",
+"href": "https://www.chelseaforwa.com/events/juntos-somos-ms-campaign-kick-off-fundraiser-for-chelsea-dimas-for-state-rep"
+},
+{
+"text": "News",
+"href": "https://www.chelseaforwa.com/news"
+},
+{
+"text": "RSVP Here!/Regístrese Aquí!",
+"href": "https://secure.actblue.com/donate/sunnysidemeetandgreet"
+},
+{
+"text": "RSVP here!/Regístrese aquí!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScqzFHJCeIQsHTX68Hrdni6BgMA2dEC1ZJdLgMJ8qzd8pY_zQ/viewform?usp=sf_link"
+},
+{
+"text": "RSVP today!",
+"href": "https://secure.actblue.com/donate/dimas-5-13"
+},
+{
+"text": "Sign up by clicking this link!",
+"href": "https://forms.gle/RCX1PxRu31omWvL36"
+},
+{
+"text": "Sign-Up Now!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdSg2DWUez3WJ_p_P3Ji_49RM5HAg5MGscr3SrOzqNRcZ91WQ/viewform?usp=header"
+},
+{
+"text": "Sign-up",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSc8BLZ-6SAzDezl5a2-lSiy9Ew6ugaVKW2DhUskBhlq7SPX6Q/viewform?usp=header"
+},
+{
+"text": "Sign-up Now!",
+"href": "https://forms.gle/RCX1PxRu31omWvL36"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Sunnyside Community Canvass",
+"href": "https://www.chelseaforwa.com/events/sunnyside-community-canvass"
+},
+{
+"text": "Sunnyside Community Canvass",
+"href": "https://www.chelseaforwa.com/events/sunnyside-community-canvass-l7jcf"
+},
+{
+"text": "Sunnyside Community Canvass",
+"href": "https://www.chelseaforwa.com/events/yakima-community-canvass-gzsyr"
+},
+{
+"text": "Sunnyside Meet + Greet",
+"href": "https://www.chelseaforwa.com/events/sunnyside-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.chelseaforwa.com/events/2026-campaign-kick-off-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.chelseaforwa.com/events/canvas-with-chelsea"
+},
+{
+"text": "View Event →",
+"href": "https://www.chelseaforwa.com/events/canvas-with-chelsea-may-19"
+},
+{
+"text": "View Event →",
+"href": "https://www.chelseaforwa.com/events/canvas-with-chelsea-may-19-faj44"
+},
+{
+"text": "View Event →",
+"href": "https://www.chelseaforwa.com/events/grandopening"
+},
+{
+"text": "View Event →",
+"href": "https://www.chelseaforwa.com/events/juntos-pa-la-gente-community-canvass"
+},
+{
+"text": "View Event →",
+"href": "https://www.chelseaforwa.com/events/juntos-somos-ms-campaign-kick-off-fundraiser-for-chelsea-dimas-for-state-rep"
+},
+{
+"text": "View Event →",
+"href": "https://www.chelseaforwa.com/events/sunnyside-community-canvass"
+},
+{
+"text": "View Event →",
+"href": "https://www.chelseaforwa.com/events/sunnyside-community-canvass-l7jcf"
+},
+{
+"text": "View Event →",
+"href": "https://www.chelseaforwa.com/events/sunnyside-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.chelseaforwa.com/events/sunnyside-meet-greet-zgjx4"
+},
+{
+"text": "View Event →",
+"href": "https://www.chelseaforwa.com/events/yakima-community-canvass"
+},
+{
+"text": "View Event →",
+"href": "https://www.chelseaforwa.com/events/yakima-community-canvass-gzsyr"
+},
+{
+"text": "Voting Info",
+"href": "https://www.chelseaforwa.com/vote"
+},
+{
+"text": "Wapato Meet + Greet",
+"href": "https://www.chelseaforwa.com/events/sunnyside-meet-greet-zgjx4"
+},
+{
+"text": "Yakima Community Canvass",
+"href": "https://www.chelseaforwa.com/events/yakima-community-canvass"
+},
+{
+"text": "[image: 2026 Campaign Kick-Off Fundraiser]",
+"href": "https://www.chelseaforwa.com/events/2026-campaign-kick-off-fundraiser"
+},
+{
+"text": "[image: Chelsea Dimas for State Rep (D)]",
+"href": "https://www.chelseaforwa.com/"
+},
+{
+"text": "[image: Grand Opening]",
+"href": "https://www.chelseaforwa.com/events/grandopening"
+},
+{
+"text": "[image: Juntos Pa' La Gente Community Canvass]",
+"href": "https://www.chelseaforwa.com/events/juntos-pa-la-gente-community-canvass"
+},
+{
+"text": "[image: Juntos Somos Más: Campaign Kick-Off Fundraiser for Chelsea Dimas for State Rep]",
+"href": "https://www.chelseaforwa.com/events/juntos-somos-ms-campaign-kick-off-fundraiser-for-chelsea-dimas-for-state-rep"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/chelseaforwa"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/chelseaforwa"
+},
+{
+"text": "[no text]",
+"href": "https://www.chelseaforwa.com/events/canvas-with-chelsea"
+},
+{
+"text": "[no text]",
+"href": "https://www.chelseaforwa.com/events/canvas-with-chelsea-may-19"
+},
+{
+"text": "[no text]",
+"href": "https://www.chelseaforwa.com/events/canvas-with-chelsea-may-19-faj44"
+},
+{
+"text": "[no text]",
+"href": "https://www.chelseaforwa.com/events/sunnyside-community-canvass"
+},
+{
+"text": "[no text]",
+"href": "https://www.chelseaforwa.com/events/sunnyside-community-canvass-l7jcf"
+},
+{
+"text": "[no text]",
+"href": "https://www.chelseaforwa.com/events/sunnyside-meet-greet"
+},
+{
+"text": "[no text]",
+"href": "https://www.chelseaforwa.com/events/sunnyside-meet-greet-zgjx4"
+},
+{
+"text": "[no text]",
+"href": "https://www.chelseaforwa.com/events/yakima-community-canvass"
+},
+{
+"text": "[no text]",
+"href": "https://www.chelseaforwa.com/events/yakima-community-canvass-gzsyr"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@chelseaforwa.com"
+},
+{
+"text": "info@chelseaforwa.com",
+"href": "mailto:info@chelseaforwa.com"
+}
 ]

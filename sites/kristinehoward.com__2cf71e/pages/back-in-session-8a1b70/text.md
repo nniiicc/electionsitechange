@@ -1,17 +1,7 @@
-Back in Session
-So, allow me to finish this first week by telling you what important things are not getting done:
-- No votes on increasing the minimum wage
-- No passing an extraction tax on natural gas frackers
-- No ban on assault rifles or high capacity ammunition magazines
-- No redistricting reforms
-- No bill banning LGBTQ discrimination in the workplace
-- No legislation for fair funding of public education
-- No limits on single-use plastic products
-- No agreement on treatment options for opioid victims
-- No movement on a comprehensive plan to rebuild our infrastructure
-- No action on extending OSHA type
-protections to Pennsylvania public workers
-And why can’t we get any of these important legislative initiatives passed, especially given the fact that nearly every one of these topics enjoy majority support in the arena of public opinion?
+Meet Kristine Endorsements News & Events Get Involved Select Page Back in Session by Kristine Howard | Oct 10, 2019 | News | 0 comments After a nearly 10-week summer break, our legislature went back in session this week and yours truly returned to Harrisburg.
+I would like to say we went back to work, but unfortunately, from my perspective, that would be misleading.
+You see, I associate being back to work with actually getting something important done.
+So, allow me to finish this first week by telling you what important things are not getting done: No votes on increasing the minimum wage No passing an extraction tax on natural gas frackers No ban on assault rifles or high capacity ammunition magazines No redistricting reforms No bill banning LGBTQ discrimination in the workplace No legislation for fair funding of public education No limits on single-use plastic products No agreement on treatment options for opioid victims No movement on a comprehensive plan to rebuild our infrastructure No action on extending OSHA type protections to Pennsylvania public workers And why can’t we get any of these important legislative initiatives passed, especially given the fact that nearly every one of these topics enjoy majority support in the arena of public opinion?
 It is simple.
 We do not have a majority that works in Harrisburg.
 The Republican leaders who are in the majority in the legislature, who clearly are not reflective of the thinking of most Pennsylvanians or even the more moderate Republican voters in the Chester County district I represent, won’t even allow these bills to come to the floor for debate, let alone a vote.
@@ -26,3 +16,9 @@ We have to change the way things work in Harrisburg and that means changing who 
 The only way to do that is by winning elections.
 Democrats need to keep the seats we have and pick up nine more, a worthy and achievable goal.
 I invite you to join me in the fight to win a majority that works in Harrisburg and get Pennsylvania moving in the right direction.
+Search for: Latest News Don’t fix what’s not broke!
+April 28, 2023 It’s Child Abuse Prevention Month – again.
+Has anything changed since last year?
+April 28, 2023 A dangerous tune!
+April 16, 2023 You are the first to know… March 17, 2023 When will the empty chair be at our table?
+November 30, 2022 Facebook Twitter Instagram ©# Paid for and authorized by Committee to Elect Kristine.

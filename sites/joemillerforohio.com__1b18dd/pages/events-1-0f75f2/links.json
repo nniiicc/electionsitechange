@@ -1,110 +1,626 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=54th+Annual+Woollybear+Festival&dates=20261004T130000Z%2F20261004T140000Z&location=687+Main+Street%2C+Vermilion%2C+OH+44089%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Avon+Arbor+Day+Celebration&dates=20261003T150000Z%2F20261003T180000Z&location=36265+Detroit+Road%2C+Avon%2C+Ohio%2C+44011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=CHIP+Candidates+Forum&dates=20261006T223000Z%2F20261007T013000Z&location=2600+Ashland+Avenue%2C+Lorain%2C+Ohio%2C+44052%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+Training+at+North+Ridgeville+Public+Library&dates=20260725T170000Z%2F20260725T190000Z&location=35700+Bainbridge+Road%2C+North+Ridgeville%2C+Ohio%2C+44039%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Miller+in+Norwalk&dates=20260726T170000Z%2F20260726T190000Z&location=48+East+Main+Street%2C+Norwalk%2C+Ohio%2C+44857%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+Voting+Rally+and+Fundraiser&dates=20261007T210000Z%2F20261007T230000Z&location=4221+Clinton+Avenue%2C+Lorain%2C+Ohio%2C+44055%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Elyria+Apple+Festival&dates=20260918T140000Z%2F20260920T200000Z&location=Elyria%2C+Ohio%2C+44035%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Goods+in+the+Woods+Craft+Fair&dates=20261017T140000Z%2F20261018T200000Z&location=561+West+Laurel+Street%2C+Willard%2C+Ohio%2C+44890%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Grafton+Fall+Festival&dates=20261003T130000Z%2F20261003T210000Z&location=1138+Main+Street%2C+Grafton%2C+Ohio%2C+44044%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Join+Team+Joe+Miller+at+Second+Saturdays+in+Lorain%21&dates=20260808T144500Z%2F20260808T190000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Join+Team+Joe+Miller+at+Walking+on+Wednesday&dates=20260812T193000Z%2F20260813T000000Z&location=Amherst%2C+OH+44001%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Join+Team+Joe+Miller+for+the+Grafton+America+250+Parade&dates=20260905T180000Z%2F20260905T220000Z&location=Grafton%2C+OH+44044",
-"http://google.com/calendar/event?action=TEMPLATE&text=Join+Team+Miller+at+the+Lorain+Puerto+Rican+Festival&dates=20260815T180000Z%2F20260816T000000Z&location=Lorain+OH",
-"http://google.com/calendar/event?action=TEMPLATE&text=Lorain+County+Organized+Labor%E2%80%99s+Annual+Labor+Day+Family+Celebration&dates=20260906T160000Z%2F20260906T220000Z&location=421+Black+River+Lane",
-"http://google.com/calendar/event?action=TEMPLATE&text=March+with+Team+Miller+in+the+Lorain+Puerto+Rican+Festival+Parade&dates=20260815T150000Z%2F20260815T180000Z&location=4111+Pearl+Avenue%2C+Lorain%2C+Ohio%2C+44055%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Rep.+Joe+Miller+at+the+Huron+County+Fair%E2%80%94+Veterans+Day&dates=20260819T150000Z%2F20260819T230000Z&location=Norwalk%2C+OH+44857",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Rep.+Joe+Miller+at+the+Huron+County+Fair%E2%80%94Senior+Day&dates=20260820T150000Z%2F20260820T230000Z&location=Norwalk%2C+OH+44857",
-"http://google.com/calendar/event?action=TEMPLATE&text=New+London+Fall+Fest&dates=20261024T160000Z%2F20261024T220000Z&location=67+South+Main+Street%2C+New+London%2C+Ohio%2C+44851%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Town+Hall+on+Data+Centers+with+Representative+Rader&dates=20261005T220000Z%2F20261005T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Walk+with+Joe+in+the+North+Ridgeville+Corn+Festival+Parade&dates=20260809T170000Z%2F20260809T190000Z&location=7565+Avon+Belden+Road%2C+North+Ridgeville%2C+Ohio%2C+44039%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Wellington+Kiwanis+Candidates+Night&dates=20261008T230000Z%2F20261009T010000Z&location=627+North+Main+Street%2C+Wellington%2C+Ohio%2C+44090%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Willard+Hispanic+Heritage+Month+Celebration&dates=20260925T150000Z%2F20260925T200000Z&location=1035+Woodbine+Avenue%2C+Willard%2C+Ohio%2C+44890%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Woollybear+Festival+and+Parade&dates=20261004T130000Z%2F20261004T210000Z&location=687+Main+Street%2C+Vermilion%2C+Ohio%2C+44089%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=YWCA+and+League+of+Women+Voters+Voter+Education+Forum&dates=20261013T223000Z%2F20261014T003000Z&location=423+Washington+Avenue%2C+Lorain%2C+Ohio%2C+44052%2C+United+States",
-"http://maps.google.com/?q=+Amherst%2C+OH+44001+United+States",
-"http://maps.google.com/?q=+Elyria%2C+Ohio%2C+44035+United+States",
-"http://maps.google.com/?q=+Grafton%2C+OH+44044",
-"http://maps.google.com/?q=+Lorain+OH",
-"http://maps.google.com/?q=+Norwalk%2C+OH+44857",
-"http://maps.google.com/?q=1035+Woodbine+Avenue+Willard%2C+Ohio%2C+44890+United+States",
-"http://maps.google.com/?q=1138+Main+Street+Grafton%2C+Ohio%2C+44044+United+States",
-"http://maps.google.com/?q=2600+Ashland+Avenue+Lorain%2C+Ohio%2C+44052+United+States",
-"http://maps.google.com/?q=35700+Bainbridge+Road+North+Ridgeville%2C+Ohio%2C+44039+United+States",
-"http://maps.google.com/?q=36265+Detroit+Road+Avon%2C+Ohio%2C+44011+United+States",
-"http://maps.google.com/?q=4111+Pearl+Avenue+Lorain%2C+Ohio%2C+44055+United+States",
-"http://maps.google.com/?q=421+Black+River+Lane",
-"http://maps.google.com/?q=4221+Clinton+Avenue+Lorain%2C+Ohio%2C+44055+United+States",
-"http://maps.google.com/?q=423+Washington+Avenue+Lorain%2C+Ohio%2C+44052+United+States",
-"http://maps.google.com/?q=48+East+Main+Street+Norwalk%2C+Ohio%2C+44857+United+States",
-"http://maps.google.com/?q=561+West+Laurel+Street+Willard%2C+Ohio%2C+44890+United+States",
-"http://maps.google.com/?q=627+North+Main+Street+Wellington%2C+Ohio%2C+44090+United+States",
-"http://maps.google.com/?q=67+South+Main+Street+New+London%2C+Ohio%2C+44851+United+States",
-"http://maps.google.com/?q=687+Main+Street+Vermilion%2C+OH+44089+United+States",
-"http://maps.google.com/?q=687+Main+Street+Vermilion%2C+Ohio%2C+44089+United+States",
-"http://maps.google.com/?q=7565+Avon+Belden+Road+North+Ridgeville%2C+Ohio%2C+44039+United+States",
-"http://maps.google.com/?q=Amherst+Public+Library%2C+Community+Room",
-"http://maps.google.com/?q=Broadway+Avenue%2C+Lorain+OH",
-"https://chiplorain.org/advocacy",
-"https://facebook.com/JoeMillerforOhio",
-"https://instagram.com/joemillerohio",
-"https://joemillerforohio.com/",
-"https://joemillerforohio.com/cart",
-"https://joemillerforohio.com/contact",
-"https://joemillerforohio.com/events-1",
-"https://joemillerforohio.com/events-1/54th-annual-woollybear-festival",
-"https://joemillerforohio.com/events-1/54th-annual-woollybear-festival?format=ical",
-"https://joemillerforohio.com/events-1/avon-arbor-day-celebration",
-"https://joemillerforohio.com/events-1/avon-arbor-day-celebration?format=ical",
-"https://joemillerforohio.com/events-1/chip-candidates-forum",
-"https://joemillerforohio.com/events-1/chip-candidates-forum?format=ical",
-"https://joemillerforohio.com/events-1/corn-festival-parade",
-"https://joemillerforohio.com/events-1/corn-festival-parade?format=ical",
-"https://joemillerforohio.com/events-1/early-voting-rally-and-fundraiser",
-"https://joemillerforohio.com/events-1/early-voting-rally-and-fundraiser?format=ical",
-"https://joemillerforohio.com/events-1/elyria-apple-festival",
-"https://joemillerforohio.com/events-1/elyria-apple-festival?format=ical",
-"https://joemillerforohio.com/events-1/event-one-rg2bh-mx2wm-bs79h",
-"https://joemillerforohio.com/events-1/event-one-rg2bh-mx2wm-bs79h?format=ical",
-"https://joemillerforohio.com/events-1/event-two-w7zrh-s4xbg-yxlcg",
-"https://joemillerforohio.com/events-1/event-two-w7zrh-s4xbg-yxlcg?format=ical",
-"https://joemillerforohio.com/events-1/goods-in-the-woods-craft-fair",
-"https://joemillerforohio.com/events-1/goods-in-the-woods-craft-fair-2lwpe",
-"https://joemillerforohio.com/events-1/goods-in-the-woods-craft-fair-2lwpe?format=ical",
-"https://joemillerforohio.com/events-1/goods-in-the-woods-craft-fair?format=ical",
-"https://joemillerforohio.com/events-1/grafton-america-250-parade",
-"https://joemillerforohio.com/events-1/grafton-america-250-parade?format=ical",
-"https://joemillerforohio.com/events-1/grafton-fall-festival",
-"https://joemillerforohio.com/events-1/grafton-fall-festival?format=ical",
-"https://joemillerforohio.com/events-1/lorain-county-organized-labors-annual-labor-day-family-celebration",
-"https://joemillerforohio.com/events-1/lorain-county-organized-labors-annual-labor-day-family-celebration?format=ical",
-"https://joemillerforohio.com/events-1/lorain-puerto-rican-festival-parade",
-"https://joemillerforohio.com/events-1/lorain-puerto-rican-festival-parade-evening",
-"https://joemillerforohio.com/events-1/lorain-puerto-rican-festival-parade-evening?format=ical",
-"https://joemillerforohio.com/events-1/lorain-puerto-rican-festival-parade?format=ical",
-"https://joemillerforohio.com/events-1/second-saturdays",
-"https://joemillerforohio.com/events-1/second-saturdays?format=ical",
-"https://joemillerforohio.com/events-1/senior-day",
-"https://joemillerforohio.com/events-1/senior-day?format=ical",
-"https://joemillerforohio.com/events-1/town-hall-on-data-centers-with-representative-rader",
-"https://joemillerforohio.com/events-1/town-hall-on-data-centers-with-representative-rader?format=ical",
-"https://joemillerforohio.com/events-1/veterans-day",
-"https://joemillerforohio.com/events-1/veterans-day?format=ical",
-"https://joemillerforohio.com/events-1/walkingwednesday",
-"https://joemillerforohio.com/events-1/walkingwednesday?format=ical",
-"https://joemillerforohio.com/events-1/wellington-kiwanis-candidates-night",
-"https://joemillerforohio.com/events-1/wellington-kiwanis-candidates-night?format=ical",
-"https://joemillerforohio.com/events-1/willard-hispanic-heritage-month-celebration",
-"https://joemillerforohio.com/events-1/willard-hispanic-heritage-month-celebration?format=ical",
-"https://joemillerforohio.com/events-1/woollybear-festival-and-parade",
-"https://joemillerforohio.com/events-1/woollybear-festival-and-parade?format=ical",
-"https://joemillerforohio.com/events-1/ywca-and-league-of-women-voters-voter-education-forum",
-"https://joemillerforohio.com/events-1/ywca-and-league-of-women-voters-voter-education-forum?format=ical",
-"https://joemillerforohio.com/issues",
-"https://joemillerforohio.com/joes-listening-tour",
-"https://joemillerforohio.com/meetjoe",
-"https://joemillerforohio.com/privacy-policy",
-"https://secure.actblue.com/donate/friendsofjoemillerohio",
-"https://twitter.com/repjoemiller"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+amherst%2C+oh+44001+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+elyria%2C+ohio%2C+44035+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+grafton%2C+oh+44044+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+lorain+oh+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+norwalk%2C+oh+44857+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1035+woodbine+avenue+willard%2C+ohio%2C+44890+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1138+main+street+grafton%2C+ohio%2C+44044+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2600+ashland+avenue+lorain%2C+ohio%2C+44052+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=35700+bainbridge+road+north+ridgeville%2C+ohio%2C+44039+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=36265+detroit+road+avon%2C+ohio%2C+44011+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4111+pearl+avenue+lorain%2C+ohio%2C+44055+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=421+black+river+lane++"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4221+clinton+avenue+lorain%2C+ohio%2C+44055+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=423+washington+avenue+lorain%2C+ohio%2C+44052+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=48+east+main+street+norwalk%2C+ohio%2C+44857+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=561+west+laurel+street+willard%2C+ohio%2C+44890+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=627+north+main+street+wellington%2C+ohio%2C+44090+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=67+south+main+street+new+london%2C+ohio%2C+44851+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=687+main+street+vermilion%2C+oh+44089+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=687+main+street+vermilion%2C+ohio%2C+44089+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7565+avon+belden+road+north+ridgeville%2C+ohio%2C+44039+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=amherst+public+library%2C+community+room"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=broadway+avenue%2C+lorain+oh"
+},
+{
+"text": "0",
+"href": "https://www.joemillerforohio.com/cart"
+},
+{
+"text": "54th Annual Woollybear Festival",
+"href": "https://www.joemillerforohio.com/events-1/54th-annual-woollybear-festival"
+},
+{
+"text": "Avon Arbor Day Celebration",
+"href": "https://www.joemillerforohio.com/events-1/avon-arbor-day-celebration"
+},
+{
+"text": "CHIP Candidates Forum",
+"href": "https://www.joemillerforohio.com/events-1/chip-candidates-forum"
+},
+{
+"text": "Canvass Training at North Ridgeville Public Library",
+"href": "https://www.joemillerforohio.com/events-1/event-one-rg2bh-mx2wm-bs79h"
+},
+{
+"text": "Canvass with Team Miller in Norwalk",
+"href": "https://www.joemillerforohio.com/events-1/event-two-w7zrh-s4xbg-yxlcg"
+},
+{
+"text": "Coalition for Hispanic/Latino Issues & Progress (CHIP)",
+"href": "https://chiplorain.org/advocacy/"
+},
+{
+"text": "Contact",
+"href": "https://www.joemillerforohio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friendsofjoemillerohio"
+},
+{
+"text": "Early Voting Rally and Fundraiser",
+"href": "https://www.joemillerforohio.com/events-1/early-voting-rally-and-fundraiser"
+},
+{
+"text": "Elyria Apple Festival",
+"href": "https://www.joemillerforohio.com/events-1/elyria-apple-festival"
+},
+{
+"text": "Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Goods in the Woods Craft Fair",
+"href": "https://www.joemillerforohio.com/events-1/goods-in-the-woods-craft-fair"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=54th+Annual+Woollybear+Festival&dates=20261004T130000Z%2F20261004T140000Z&location=687+Main+Street%2C+Vermilion%2C+OH+44089%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Avon+Arbor+Day+Celebration&dates=20261003T150000Z%2F20261003T180000Z&location=36265+Detroit+Road%2C+Avon%2C+Ohio%2C+44011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=CHIP+Candidates+Forum&dates=20261006T223000Z%2F20261007T013000Z&location=2600+Ashland+Avenue%2C+Lorain%2C+Ohio%2C+44052%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+Training+at+North+Ridgeville+Public+Library&dates=20260725T170000Z%2F20260725T190000Z&location=35700+Bainbridge+Road%2C+North+Ridgeville%2C+Ohio%2C+44039%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Miller+in+Norwalk&dates=20260726T170000Z%2F20260726T190000Z&location=48+East+Main+Street%2C+Norwalk%2C+Ohio%2C+44857%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+Voting+Rally+and+Fundraiser&dates=20261007T210000Z%2F20261007T230000Z&location=4221+Clinton+Avenue%2C+Lorain%2C+Ohio%2C+44055%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Elyria+Apple+Festival&dates=20260918T140000Z%2F20260920T200000Z&location=Elyria%2C+Ohio%2C+44035%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Goods+in+the+Woods+Craft+Fair&dates=20261017T140000Z%2F20261018T200000Z&location=561+West+Laurel+Street%2C+Willard%2C+Ohio%2C+44890%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Grafton+Fall+Festival&dates=20261003T130000Z%2F20261003T210000Z&location=1138+Main+Street%2C+Grafton%2C+Ohio%2C+44044%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Join+Team+Joe+Miller+at+Second+Saturdays+in+Lorain%21&dates=20260808T144500Z%2F20260808T190000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Join+Team+Joe+Miller+at+Walking+on+Wednesday&dates=20260812T193000Z%2F20260813T000000Z&location=Amherst%2C+OH+44001%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Join+Team+Joe+Miller+for+the+Grafton+America+250+Parade&dates=20260905T180000Z%2F20260905T220000Z&location=Grafton%2C+OH+44044"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Join+Team+Miller+at+the+Lorain+Puerto+Rican+Festival&dates=20260815T180000Z%2F20260816T000000Z&location=Lorain+OH"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Lorain+County+Organized+Labor%E2%80%99s+Annual+Labor+Day+Family+Celebration&dates=20260906T160000Z%2F20260906T220000Z&location=421+Black+River+Lane"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=March+with+Team+Miller+in+the+Lorain+Puerto+Rican+Festival+Parade&dates=20260815T150000Z%2F20260815T180000Z&location=4111+Pearl+Avenue%2C+Lorain%2C+Ohio%2C+44055%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Rep.+Joe+Miller+at+the+Huron+County+Fair%E2%80%94+Veterans+Day&dates=20260819T150000Z%2F20260819T230000Z&location=Norwalk%2C+OH+44857"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Rep.+Joe+Miller+at+the+Huron+County+Fair%E2%80%94Senior+Day&dates=20260820T150000Z%2F20260820T230000Z&location=Norwalk%2C+OH+44857"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=New+London+Fall+Fest&dates=20261024T160000Z%2F20261024T220000Z&location=67+South+Main+Street%2C+New+London%2C+Ohio%2C+44851%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Town+Hall+on+Data+Centers+with+Representative+Rader&dates=20261005T220000Z%2F20261005T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Walk+with+Joe+in+the+North+Ridgeville+Corn+Festival+Parade&dates=20260809T170000Z%2F20260809T190000Z&location=7565+Avon+Belden+Road%2C+North+Ridgeville%2C+Ohio%2C+44039%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Wellington+Kiwanis+Candidates+Night&dates=20261008T230000Z%2F20261009T010000Z&location=627+North+Main+Street%2C+Wellington%2C+Ohio%2C+44090%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Willard+Hispanic+Heritage+Month+Celebration&dates=20260925T150000Z%2F20260925T200000Z&location=1035+Woodbine+Avenue%2C+Willard%2C+Ohio%2C+44890%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Woollybear+Festival+and+Parade&dates=20261004T130000Z%2F20261004T210000Z&location=687+Main+Street%2C+Vermilion%2C+Ohio%2C+44089%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=YWCA+and+League+of+Women+Voters+Voter+Education+Forum&dates=20261013T223000Z%2F20261014T003000Z&location=423+Washington+Avenue%2C+Lorain%2C+Ohio%2C+44052%2C+United+States"
+},
+{
+"text": "Grafton Fall Festival",
+"href": "https://www.joemillerforohio.com/events-1/grafton-fall-festival"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/54th-annual-woollybear-festival?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/avon-arbor-day-celebration?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/chip-candidates-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/corn-festival-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/early-voting-rally-and-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/elyria-apple-festival?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/event-one-rg2bh-mx2wm-bs79h?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/event-two-w7zrh-s4xbg-yxlcg?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/goods-in-the-woods-craft-fair-2lwpe?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/goods-in-the-woods-craft-fair?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/grafton-america-250-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/grafton-fall-festival?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/lorain-county-organized-labors-annual-labor-day-family-celebration?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/lorain-puerto-rican-festival-parade-evening?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/lorain-puerto-rican-festival-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/second-saturdays?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/senior-day?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/town-hall-on-data-centers-with-representative-rader?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/veterans-day?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/walkingwednesday?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/wellington-kiwanis-candidates-night?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/willard-hispanic-heritage-month-celebration?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/woollybear-festival-and-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/ywca-and-league-of-women-voters-voter-education-forum?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.joemillerforohio.com/issues"
+},
+{
+"text": "Joe's Listening Tour",
+"href": "https://www.joemillerforohio.com/joes-listening-tour"
+},
+{
+"text": "Join Team Joe Miller at Second Saturdays in Lorain!",
+"href": "https://www.joemillerforohio.com/events-1/second-saturdays"
+},
+{
+"text": "Join Team Joe Miller at Walking on Wednesday",
+"href": "https://www.joemillerforohio.com/events-1/walkingwednesday"
+},
+{
+"text": "Join Team Joe Miller for the Grafton America 250 Parade",
+"href": "https://www.joemillerforohio.com/events-1/grafton-america-250-parade"
+},
+{
+"text": "Join Team Miller at the Lorain Puerto Rican Festival",
+"href": "https://www.joemillerforohio.com/events-1/lorain-puerto-rican-festival-parade-evening"
+},
+{
+"text": "Lorain County Organized Labor’s Annual Labor Day Family Celebration",
+"href": "https://www.joemillerforohio.com/events-1/lorain-county-organized-labors-annual-labor-day-family-celebration"
+},
+{
+"text": "March with Team Miller in the Lorain Puerto Rican Festival Parade",
+"href": "https://www.joemillerforohio.com/events-1/lorain-puerto-rican-festival-parade"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.joemillerforohio.com/meetjoe"
+},
+{
+"text": "Meet Rep. Joe Miller at the Huron County Fair— Veterans Day",
+"href": "https://www.joemillerforohio.com/events-1/veterans-day"
+},
+{
+"text": "Meet Rep. Joe Miller at the Huron County Fair—Senior Day",
+"href": "https://www.joemillerforohio.com/events-1/senior-day"
+},
+{
+"text": "New London Fall Fest",
+"href": "https://www.joemillerforohio.com/events-1/goods-in-the-woods-craft-fair-2lwpe"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.joemillerforohio.com/privacy-policy"
+},
+{
+"text": "Town Hall on Data Centers with Representative Rader",
+"href": "https://www.joemillerforohio.com/events-1/town-hall-on-data-centers-with-representative-rader"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/54th-annual-woollybear-festival"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/avon-arbor-day-celebration"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/chip-candidates-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/corn-festival-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/early-voting-rally-and-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/elyria-apple-festival"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/event-one-rg2bh-mx2wm-bs79h"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/event-two-w7zrh-s4xbg-yxlcg"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/goods-in-the-woods-craft-fair"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/goods-in-the-woods-craft-fair-2lwpe"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/grafton-america-250-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/grafton-fall-festival"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/lorain-county-organized-labors-annual-labor-day-family-celebration"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/lorain-puerto-rican-festival-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/lorain-puerto-rican-festival-parade-evening"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/second-saturdays"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/senior-day"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/town-hall-on-data-centers-with-representative-rader"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/veterans-day"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/walkingwednesday"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/wellington-kiwanis-candidates-night"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/willard-hispanic-heritage-month-celebration"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/woollybear-festival-and-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.joemillerforohio.com/events-1/ywca-and-league-of-women-voters-voter-education-forum"
+},
+{
+"text": "Walk with Joe in the North Ridgeville Corn Festival Parade",
+"href": "https://www.joemillerforohio.com/events-1/corn-festival-parade"
+},
+{
+"text": "Wellington Kiwanis Candidates Night",
+"href": "https://www.joemillerforohio.com/events-1/wellington-kiwanis-candidates-night"
+},
+{
+"text": "Willard Hispanic Heritage Month Celebration",
+"href": "https://www.joemillerforohio.com/events-1/willard-hispanic-heritage-month-celebration"
+},
+{
+"text": "Woollybear Festival and Parade",
+"href": "https://www.joemillerforohio.com/events-1/woollybear-festival-and-parade"
+},
+{
+"text": "YWCA and League of Women Voters Voter Education Forum",
+"href": "https://www.joemillerforohio.com/events-1/ywca-and-league-of-women-voters-voter-education-forum"
+},
+{
+"text": "[image: 54th Annual Woollybear Festival]",
+"href": "https://www.joemillerforohio.com/events-1/54th-annual-woollybear-festival"
+},
+{
+"text": "[image: Avon Arbor Day Celebration]",
+"href": "https://www.joemillerforohio.com/events-1/avon-arbor-day-celebration"
+},
+{
+"text": "[image: CHIP Candidates Forum]",
+"href": "https://www.joemillerforohio.com/events-1/chip-candidates-forum"
+},
+{
+"text": "[image: Canvass Training at North Ridgeville Public Library]",
+"href": "https://www.joemillerforohio.com/events-1/event-one-rg2bh-mx2wm-bs79h"
+},
+{
+"text": "[image: Canvass with Team Miller in Norwalk]",
+"href": "https://www.joemillerforohio.com/events-1/event-two-w7zrh-s4xbg-yxlcg"
+},
+{
+"text": "[image: Early Voting Rally and Fundraiser]",
+"href": "https://www.joemillerforohio.com/events-1/early-voting-rally-and-fundraiser"
+},
+{
+"text": "[image: Elyria Apple Festival]",
+"href": "https://www.joemillerforohio.com/events-1/elyria-apple-festival"
+},
+{
+"text": "[image: Goods in the Woods Craft Fair]",
+"href": "https://www.joemillerforohio.com/events-1/goods-in-the-woods-craft-fair"
+},
+{
+"text": "[image: Grafton Fall Festival]",
+"href": "https://www.joemillerforohio.com/events-1/grafton-fall-festival"
+},
+{
+"text": "[image: Joe Miller For Ohio]",
+"href": "https://www.joemillerforohio.com/"
+},
+{
+"text": "[image: Join Team Joe Miller at Second Saturdays in Lorain!]",
+"href": "https://www.joemillerforohio.com/events-1/second-saturdays"
+},
+{
+"text": "[image: Join Team Joe Miller at Walking on Wednesday]",
+"href": "https://www.joemillerforohio.com/events-1/walkingwednesday"
+},
+{
+"text": "[image: Join Team Joe Miller for the Grafton America 250 Parade]",
+"href": "https://www.joemillerforohio.com/events-1/grafton-america-250-parade"
+},
+{
+"text": "[image: Join Team Miller at the Lorain Puerto Rican Festival]",
+"href": "https://www.joemillerforohio.com/events-1/lorain-puerto-rican-festival-parade-evening"
+},
+{
+"text": "[image: Lorain County Organized Labor’s Annual Labor Day Family Celebration]",
+"href": "https://www.joemillerforohio.com/events-1/lorain-county-organized-labors-annual-labor-day-family-celebration"
+},
+{
+"text": "[image: March with Team Miller in the Lorain Puerto Rican Festival Parade]",
+"href": "https://www.joemillerforohio.com/events-1/lorain-puerto-rican-festival-parade"
+},
+{
+"text": "[image: Meet Rep. Joe Miller at the Huron County Fair— Veterans Day]",
+"href": "https://www.joemillerforohio.com/events-1/veterans-day"
+},
+{
+"text": "[image: Meet Rep. Joe Miller at the Huron County Fair—Senior Day]",
+"href": "https://www.joemillerforohio.com/events-1/senior-day"
+},
+{
+"text": "[image: New London Fall Fest]",
+"href": "https://www.joemillerforohio.com/events-1/goods-in-the-woods-craft-fair-2lwpe"
+},
+{
+"text": "[image: Town Hall on Data Centers with Representative Rader]",
+"href": "https://www.joemillerforohio.com/events-1/town-hall-on-data-centers-with-representative-rader"
+},
+{
+"text": "[image: Walk with Joe in the North Ridgeville Corn Festival Parade]",
+"href": "https://www.joemillerforohio.com/events-1/corn-festival-parade"
+},
+{
+"text": "[image: Wellington Kiwanis Candidates Night]",
+"href": "https://www.joemillerforohio.com/events-1/wellington-kiwanis-candidates-night"
+},
+{
+"text": "[image: Willard Hispanic Heritage Month Celebration]",
+"href": "https://www.joemillerforohio.com/events-1/willard-hispanic-heritage-month-celebration"
+},
+{
+"text": "[image: Woollybear Festival and Parade]",
+"href": "https://www.joemillerforohio.com/events-1/woollybear-festival-and-parade"
+},
+{
+"text": "[image: YWCA and League of Women Voters Voter Education Forum]",
+"href": "https://www.joemillerforohio.com/events-1/ywca-and-league-of-women-voters-voter-education-forum"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/repjoemiller"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoeMillerforOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joemillerohio/"
+}
 ]

@@ -1,10 +1,3 @@
+DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Make a Real Difference in Your Community Join the Volunteer Team of Riess for Colorado House District 59 TOGETHER WE WILL BUILD A SOLID FUTURE FOR SOUTHWEST COLORADO Display a Sign Poll Watcher Be a Precinct Champion Host a Meet & Greet Make Calls Help with Social Media Host a Fundraiser Door to Door Team Elections Volunteer Request Check all options you’re interested in and we’ll provide details for each once we know you’re in.
 Check all options you’re interested in and we’ll provide details for each once we know you’re in.
-Display a Sign
-Poll Watcher
-Be a Precinct Champion
-Host a Meet & Greet
-Make Calls
-Help with Social Media
-Host a Fundraiser
-Door to Door Team
-Riess for Colorado
+Display a Sign Poll Watcher Be a Precinct Champion Host a Meet & Greet Make Calls Help with Social Media Host a Fundraiser Door to Door Team Would you like to become one of our donors? $# Donation Other Paid for by Riess for Colorado John Rice, Registered Agent Contact 970.946.3561 info@riessforcolorado.com PO BOX 1045 Durango, CO 81302 Media Kit Follow Riess for Colorado on Facebook Riess for Colorado Follow Naomi On Flickr

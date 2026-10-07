@@ -1,7 +1,11 @@
 {
  "description": "- Read the latest news and updates from Bobby Charles for Maine Governor campaign.",
  "final_url": "https://www.bobbyformaine.com/news/press-release-bobby-charles-for-governor-campaign-to-hold-public-town-hall-meetings-across-maine-starting-thursday-in-brewer",
- "paid_for_by": null,
+ "fingerprint": "ddcafe91b038fcb4e6a47cfcb3e2d4d9480a11dc",
+ "format": 3,
+ "paid_for_by": "authorized by Bobby Charles for Maine Governor Campaign Committee",
  "title": "| Bobby Charles for Maine",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

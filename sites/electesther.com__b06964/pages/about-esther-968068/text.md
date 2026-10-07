@@ -1,4 +1,4 @@
-Esther Helton-Haynes is a life-long resident of East Ridge and is proud to call Hamilton County home!
+Skip to content Home About Esther Priorities Get Involved News Contact Home About Esther Priorities Get Involved News Contact Donate Esther Helton-Haynes is a life-long resident of East Ridge and is proud to call Hamilton County home!
 She is a graduate of East Ridge High School and Chattanooga School of Practical Nursing!
 Esther has a long history and passion for service to others, whether it be her patients or her constituents, she is always willing to go the extra mile!
 For nearly 44 years, Esther has worked as a nurse, many of those years as a hemodialysis nurse for Dialysis Clinics Inc.
@@ -12,6 +12,7 @@ As a State Representative, Esther has continued to support small businesses on i
 As a State Representative, Esther serves as the Chairman of the Insurance Committee and Member of the Health Committees where she strives daily to make healthcare better for everyone.
 She has worked on important legislation that truly protects the patient, encourages transparency, and provides services to underserved communities.
 She also finds ways to fundraise for causes she is passionate about and connect community partners with organizations for healthcare initiatives.
+Esther holds the record for raising the most money for the Kidney Foundation, in four months she raised more than $116,000 to support local programs and services that help improve the lives of those diagnosed with kidney disease.
 Her service to community and healthcare is exemplified by her many accolades over the years, including the Tennessee Oncology Practice Society Champion for Cancer Patients, the Primary Care Association’s Charles E.
 Darling Organization of Excellence Award, Bobby Wood Public Service Award, Tennessee Hospital Association Hospital Hero, and three awards from the Kidney Foundation of Greater Chattanooga Dare to Dance: People Choice Award, Kidney Hero, and the Dr.
 Jackson and Milli Yium Award for outstanding service to kidney patients.
@@ -22,3 +23,6 @@ Esther is married to her loving husband Marty Haynes.
 She has three amazing grown children Lee, Lisa, and Kip and five beautiful grandchildren.
 She is an adamant Tennessee Volunteers fan, goes to every home game she can.
 She enjoys walking, spending time with her family, and vacationing!
+Donate Quick Links Home About Esther Priorities Get Involved News Contact Home About Esther Priorities Get Involved News Contact Get In Touch Email: info@electesther.com Phone: (423) 529-0084 Facebook © Copyright # Committee to Elect Esther Helton.
+All rights reserved.
+The Committee to Elect Esther Helton | Zach Hutcherson, Treasurer Home About Esther Priorities Get Involved News Contact Home About Esther Priorities Get Involved News Contact Skip to content Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

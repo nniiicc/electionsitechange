@@ -1,9 +1,9 @@
 {
  "description": "Vote for Neal Foster in Galena for a strong representation in the State House. Join the campaign now!",
  "final_url": "https://fosterforhouse.com/galena",
- "paid_for_by": null,
+ "fingerprint": "3b1eaf4aa2e7901479add0839ef8775c7d571c78",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Galena",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

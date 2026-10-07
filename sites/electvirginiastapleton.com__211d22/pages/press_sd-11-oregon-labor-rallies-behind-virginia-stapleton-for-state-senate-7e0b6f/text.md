@@ -1,25 +1,18 @@
-Oregon Labor Rallies Behind Virginia Stapleton for State Senate
-SD-11: Oregon Labor Rallies Behind Virginia Stapleton for State Senate
-SALEM, OR– A champion for labor and Oregon’s working families, Virginia Stapleton’s campaign for State Senate announced they have earned the endorsements of Ironworkers Local 29, UFCW 555, Western States Regional Council of Carpenters, Smart Local 16, and UA 290 – adding to the growing list of supporters from the community.
+0 Skip to Content 11 Ideas Priorities Meet Virginia Endorsements Press Get Involved English Donate Open Menu Close Menu English Donate 11 Ideas Priorities Meet Virginia Endorsements Press Get Involved Open Menu Close Menu 11 Ideas Priorities Meet Virginia Endorsements Press Get Involved English Back Donate Oregon Labor Rallies Behind Virginia Stapleton for State Senate Jan 26 Written By Brooke Schelar SD-11: Oregon Labor Rallies Behind Virginia Stapleton for State Senate SALEM, OR– A champion for labor and Oregon’s working families, Virginia Stapleton’s campaign for State Senate announced they have earned the endorsements of Ironworkers Local 29, UFCW 555, Western States Regional Council of Carpenters, Smart Local 16, and UA 290 – adding to the growing list of supporters from the community .
 In announcing their endorsements of Stapleton, labor leaders across Oregon highlighted Stapleton’s record on the Salem City Council and her unwavering commitment to uplifting the voices of workers.
 “As a city council member and active member of her community, Virginia Stapleton has dedicated herself to fighting for the interests of Oregon’s working families.
 We are proud to endorse Virginia’s campaign for State Senate, and know that she is the voice that we can count on to fight for more jobs, better working conditions, and access to quality healthcare for workers.” – Eric Morgan, representative for the Western States Regional Council of Carpenters.
 “We have been impressed with how Virginia has demonstrated a knowledge of her community and great excitement in continuing to learn what the community needs, especially as we talk about diverse energy sources.
-The UA Local 290 is proud to offer our endorsement.” – Brad Archuleta, Salem Area Business Agent
-“Virginia Stapleton has always put the interests of working people over politics.
-Virginia understands the challenges that working families are facing and is uniquely qualified to address their concerns and deliver results on their behalf in the State Senate.” – Tyler Smith Vice President/Business Agent Ironworkers Local 29
-“I’m honored to earn the trust and support of labor unions across Oregon,” said Virginia Stapleton.
+The UA Local 290 is proud to offer our endorsement.” – Brad Archuleta, Salem Area Business Agent “ Virginia Stapleton has always put the interests of working people over politics.
+Virginia understands the challenges that working families are facing and is uniquely qualified to address their concerns and deliver results on their behalf in the State Senate.” – Tyler Smith Vice President/Business Agent Ironworkers Local 29 “I’m honored to earn the trust and support of labor unions across Oregon,” said Virginia Stapleton.
 “As a working Mom, I understand that families are working harder than ever before and wages aren’t keeping pace with rising costs.
-In the State Senate, I’ll never stop fighting to stand up for workers rights, increase wages, and protect the rights of workers to organize.”
-About Virginia Stapleton
-Virginia Stapleton is a life-long Oregonian, middle class working Mom, and the former President of the Salem City Council.
+In the State Senate, I’ll never stop fighting to stand up for workers rights, increase wages, and protect the rights of workers to organize.” About Virginia Stapleton Virginia Stapleton is a life-long Oregonian, middle class working Mom, and the former President of the Salem City Council.
 On the City Council, Virginia earned a reputation for being able to bring people together to get things done for her community.
 She championed efforts to uplift the voices of working people, lower costs, address homelessness, and fund essential public services.
 Raising two teenagers, she understands the struggles families are facing right now, with increased grocery, childcare and housing prices.
 She is running for State Senate to deliver solutions for Marion County families struggling with rising costs.
 In the State Senate, Virginia will continue to put people over politics and prioritize real solutions to bring down costs, improve our quality of life, and create a future where all Oregonians thrive.
-SD-11: Los sindicatos de Oregón se unen para apoyar a Virginia Stapleton al Senado Estatal
-SALEM, OR – Defensora de los trabajadores y de las familias trabajadoras de Oregón, la campaña de Virginia Stapleton para el Senado Estatal anunció que ha recibido el respaldo de Ironworkers Local 29, UFCW 555, Western States Regional Council of Carpenters, Smart Local 16 y UA 290, sumándose a una lista cada vez mayor de apoyo comunitario.
+SD-11: Los sindicatos de Oregón se unen para apoyar a Virginia Stapleton al Senado Estatal SALEM, OR – Defensora de los trabajadores y de las familias trabajadoras de Oregón, la campaña de Virginia Stapleton para el Senado Estatal anunció que ha recibido el respaldo de Ironworkers Local 29, UFCW 555, Western States Regional Council of Carpenters, Smart Local 16 y UA 290, sumándose a una lista cada vez mayor de apoyo comunitario .
 Al anunciar su respaldo a Stapleton, líderes sindicales de todo Oregón destacaron su trayectoria en el Concejo Municipal de Salem y su compromiso firme con dar voz a las y los trabajadores.
 “Como miembro del concejo municipal y participante activa de su comunidad, Virginia Stapleton ha dedicado su trabajo a defender los intereses de las familias trabajadoras de Oregón.
 Estamos orgullosos de apoyar su campaña al Senado Estatal y sabemos que es una voz en la que podemos confiar para luchar por más empleos, mejores condiciones laborales y acceso a atención médica de calidad para los trabajadores.” – Eric Morgan, representante del Western States Regional Council of Carpenters.
@@ -29,12 +22,13 @@ El sindicato UA Local 290 se siente orgulloso de darle su respaldo.” – Brad 
 Virginia entiende los retos que enfrentan las familias trabajadoras y está especialmente capacitada para atender sus preocupaciones y dar resultados en el Senado Estatal.” – Tyler Smith, Vicepresidente / Agente de Negocios, Ironworkers Local 29.
 “Me honra recibir la confianza y el apoyo de los sindicatos de todo Oregón," dijo Virginia Stapleton.
 “Como mamá trabajadora, entiendo que las familias están trabajando más duro que nunca y que los salarios no están alcanzando frente al aumento del costo de la vida.
-En el Senado Estatal, nunca dejaré de luchar por los derechos de los trabajadores, por mejores salarios y por proteger el derecho de los trabajadores a organizarse.”
-La lista completa de apoyos a Stapleton puede consultarse en electvirginiastapleton.com.
-Acerca de Virginia Stapleton
-Virginia Stapleton es originaria de Oregón de toda la vida, mamá trabajadora de clase media y expresidenta del Concejo Municipal de Salem.
+En el Senado Estatal, nunca dejaré de luchar por los derechos de los trabajadores, por mejores salarios y por proteger el derecho de los trabajadores a organizarse.” La lista completa de apoyos a Stapleton puede consultarse en electvirginiastapleton.com .
+Acerca de Virginia Stapleton Virginia Stapleton es originaria de Oregón de toda la vida, mamá trabajadora de clase media y expresidenta del Concejo Municipal de Salem.
 Durante su tiempo en el Concejo, Virginia se ganó la reputación de saber unir a las personas para lograr resultados reales para su comunidad.
 Impulsó iniciativas para amplificar la voz de la clase trabajadora, reducir costos, atender la falta de vivienda y financiar servicios públicos esenciales.
 Como madre de dos adolescentes, entiende las dificultades que hoy enfrentan las familias, especialmente con el aumento en los precios de los alimentos, el cuidado infantil y la vivienda.
 Se postula al Senado Estatal para ofrecer soluciones a las familias del condado de Marion que luchan contra el aumento del costo de la vida.
 En el Senado Estatal, Virginia seguirá poniendo a las personas por encima de la política y priorizando soluciones reales para bajar costos, mejorar la calidad de vida y construir un futuro donde todas y todos los habitantes de Oregón puedan prosperar.
+Brooke Schelar Previous Previous Virginia Stapleton Addresses Salem Data Center Proposal Next Next Virginia Stapleton’s Campaign for Senate Launches with Powerful Momentum Civic Resources Community Resources Shop the Store Donate ©# Virginia Stapleton.
+Paid for by Elect Virginia Stapleton PAC #20287.
+Privacy Policy .

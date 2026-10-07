@@ -1,5 +1,6 @@
-A bill to limit where Illinois pet stores source their cats and dogs from passed the State Senate in the final hours of the General Assembly’s session.
+Skip to content Home About Issues Accomplishments News Contact Menu Home About Issues Accomplishments News Contact contribute ACCOMPLISHMENTS Bill Aiming To Close ‘Puppy Mill Pipeline’ For Pet Sales Passes State Senate Despite Some Bipartisan Opposition A bill to limit where Illinois pet stores source their cats and dogs from passed the State Senate in the final hours of the General Assembly’s session.
 Supporters of the bill want to close what they call a puppy mill pipeline.
 The bill would allow pet store owners to offer cats and dogs for sale “only if the dog or cat is obtained from an animal control facility or animal shelter, located in-state or out-of-state,” that is in compliance with new regulations also set out in the bill.
 “This bill is really to address the commercial puppy mill and to close that pipeline,” said Sen.
-Cristina Castro, D-Elgin, the sponsor of the bill in the Senate…
+Cristina Castro, D-Elgin, the sponsor of the bill in the Senate… Continue Reading Here Sign up for updates Name Email Sign Up Paid for by citizens for Linda holmes P.O.
+Box 6374 | Aurora, IL 60598 Facebook Linkedin

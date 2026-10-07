@@ -1,9 +1,9 @@
-A Pattern Keeps Showing Up.
+Skip to main content Fighting for you.
+Join the movement.
+Donate Volunteer Democratic Primary · Sept 1, 2026 Meet Erika Platform Newsletter Donate Meet Erika Platform Newsletter Endorsements Get Involved Donate Newsletter · April 28, 2026 A Pattern Keeps Showing Up.
 I Keep Opening The Door.
-A Pattern
-Keeps Showing Up.
-I Keep Opening
-The Door.
+What I Have Been Working On A Pattern Keeps Showing Up.
+I Keep Opening The Door.
 From the House floor to a room with the President of Albania.
 Here is what connects them.
 Last Saturday evening I attended a formal diplomatic meeting in Beverly with the President of Albania, the Lieutenant Governor, and the Albanian Ambassador, four flags, two national anthems, and one question: what role do diaspora communities play in shaping the countries they call home.
@@ -14,8 +14,7 @@ I was in that room because I believe our immigrant and diaspora communities dese
 Formal diplomatic meeting with the President of Albania, the Lieutenant Governor, and the Albanian Ambassador.
 Beverly, MA, April 2026.
 I want to share what I have been doing over the past few months, because a pattern keeps showing up and you deserve to see it.
-What I found in the energy bill
-In February, I fought against a billion-dollar cut to Mass Save, the program that helps families lower their energy bills, buried inside legislation that was being marketed as saving us money.
+What I found in the energy bill In February, I fought against a billion-dollar cut to Mass Save, the program that helps families lower their energy bills, buried inside legislation that was being marketed as saving us money.
 I pulled the Attorney General’s findings showing that National Grid inflates the customer charge with costs that do not belong there.
 When the AG asked them to prove it, they said they do not track that data.
 They tracked it well enough to bill us every month.
@@ -24,8 +23,7 @@ I asked for a roll call.
 Four people stood.
 Out of 160.
 The chamber would not record the vote.
-What happened after I asked questions about the AI contract
-Many of you saw my newsletters about the Governor’s decision to deploy a single AI company across the entire executive branch (you can read them here).
+What happened after I asked questions about the AI contract Many of you saw my newsletters about the Governor’s decision to deploy a single AI company across the entire executive branch ( you can read them here ).
 Here is an update, and something that has been weighing on me.
 The good news first.
 After I raised these concerns publicly, the Governor’s office reached out.
@@ -33,7 +31,7 @@ I appreciate the administration promptly meeting with me to discuss transparency
 That happened because our community asked the right questions.
 Thank you to everyone who advocated for accountability.
 But I kept digging.
-The evaluation that selected this vendor scored it 84 out of 100, with the next closest competitor at 73.
+The evaluation that selected this vendor scored it 84 out of 100 , with the next closest competitor at 73.
 Nine of those 11 points came from subjective categories, and in the same week the scoring criteria were finalized, the weight given to price was cut from 20% to 10%.
 The evaluation team had no documented AI or machine learning expertise.
 If the state claims it evaluated vendors on “responsible AI practices,” then the comparison of their bias testing, safety results, and accessibility compliance should exist.
@@ -41,17 +39,7 @@ If it does, we should see it.
 If it does not, then on what basis was that criterion scored?
 These are the questions any responsible procurement process should be able to answer.
 And the reason I am sharing them is because what I did, asking these questions, demanding this transparency, could become illegal.
-84 vs 73
-Vendor scores
-(9 of 11 pts subjective)
-4 of 160
-Stood for a
-recorded vote
-22 of 22
-Progressive bills
-co-sponsored
-Why transparency is under attack
-I wrote to you earlier about the “right to compute” movement (you can read that newsletter here).
+84 vs 73 Vendor scores (9 of 11 pts subjective) 4 of 160 Stood for a recorded vote 22 of 22 Progressive bills co-sponsored Why transparency is under attack I wrote to you earlier about the “right to compute” movement ( you can read that newsletter here ).
 The short version: ALEC and dark money groups are pushing laws through state legislatures that would require the government to clear the highest legal bar we have before it could require any AI system to be transparent, audited for bias, or accountable.
 Montana already passed this.
 Similar bills are moving in New Hampshire, Ohio, and South Carolina.
@@ -60,8 +48,7 @@ If those laws were in effect here, the questions I asked the Governor’s office
 That is why transparency is not just a value.
 It is a defense.
 And it is why Massachusetts needs to act now, before the window closes.
-What I brought into bigger rooms
-The work I just described, the energy amendments, the AI procurement questions, the transparency fights, that is what I do on Beacon Hill every week.
+What I brought into bigger rooms The work I just described, the energy amendments, the AI procurement questions, the transparency fights, that is what I do on Beacon Hill every week.
 But in April I also brought those same fights into rooms where the decisions that affect our district are being made at a larger scale.
 I believe you should know where your legislator is and why.
 Three weeks ago, I presented at an international conference on community resilience alongside a former FBI Chief Information Security Officer and a defense transformation leader with 25 years of military service.
@@ -95,9 +82,23 @@ That is how I approach this work: not just showing up for the vote, but doing th
 What you can do: If you know someone who needs to see this, please forward it.
 If you have a story about energy costs, AI decisions, immigration enforcement, or any decision made about your life without your input, reply and tell me.
 And keep an eye out for what comes next.
-P.S.
+Keep This Work Going → P.S.
 I believe in showing my work.
 That is why these newsletters exist.
-If you want to support the kind of representative who digs into the scoring sheets, opens the doors, and tells you what she finds, please chip in here.
+If you want to support the kind of representative who digs into the scoring sheets, opens the doors, and tells you what she finds, please chip in here .
 No PAC, no corporate money.
-Follow on Instagram · Follow on Bluesky
+Follow on Instagram · Follow on Bluesky ← All Newsletters Stay Connected Get the next one in your inbox.
+Subscribe to Erika's newsletter.
+Donate Now Volunteer Fighting for you in Somerville, Medford, Cambridge, and Winchester.
+Learn Meet Erika Platform Endorsements Newsletters Act Volunteer Donate Vote Press Endorse Erika Instagram Call or text Erika: (857) 264-1096 Email: erika@electerika.com Paid for by Committee to Elect Erika Uyterhoeven · Somerville, MA Contributions are not tax-deductible · $1,000 max per individual per calendar year · Privacy Policy × Join the movement Your rent.
+Your energy bill.
+Your kids' school.
+Know what's really happening.
+Every week I break down the contracts, the votes, and the deals that affect your life, and who is responsible.
+Two emails.
+No press releases.
+Count me in ✓ You're in.
+Welcome to the fight.
+No spam.
+Unsubscribe anytime.
+We never share your email.

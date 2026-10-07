@@ -1,21 +1,130 @@
 [
-"http://co.colorado.tx.us/page/colorado.Elections",
-"http://co.grimes.tx.us/page/Elections",
-"http://co.waller.tx.us/page/Front%20Page",
-"http://co.washington.tx.us/page/washington.Elections",
-"http://galvestonvotes.org/",
-"https://austincounty.com/page/austin.Elections",
-"https://brazoriacountytx-web.tylerhost.net/recorder/content/Elections/HomePage.htm",
-"https://co.chambers.tx.us/page/elections",
-"https://facebook.com/VeronicaforJustice",
-"https://fortbendcountytx.gov/government/departments/county-services/elections-voter-registration",
-"https://harrisvotes.com/",
-"https://instagram.com/wix",
-"https://linkedin.com/in/veronica-rivas-molloy-b1630472",
-"https://veronicarivasmolloy.com/",
-"https://veronicarivasmolloy.com/contact",
-"https://veronicarivasmolloy.com/copy-of-meet-veronica",
-"https://veronicarivasmolloy.com/court-of-appeals",
-"https://veronicarivasmolloy.com/donate",
-"https://veronicarivasmolloy.com/meet-veronica"
+{
+"text": "/",
+"href": "https://www.harrisvotes.com/"
+},
+{
+"text": "Austin County:",
+"href": "https://www.austincounty.com/page/austin.Elections"
+},
+{
+"text": "Brazoria County:",
+"href": "https://brazoriacountytx-web.tylerhost.net/recorder/content/Elections/HomePage.htm"
+},
+{
+"text": "CONTACT",
+"href": "https://www.veronicarivasmolloy.com/contact"
+},
+{
+"text": "COURT OF APPEALS",
+"href": "https://www.veronicarivasmolloy.com/court-of-appeals"
+},
+{
+"text": "Chambers County:",
+"href": "https://www.co.chambers.tx.us/page/elections"
+},
+{
+"text": "Colorado County:",
+"href": "http://www.co.colorado.tx.us/page/colorado.Elections"
+},
+{
+"text": "DONATE",
+"href": "https://www.veronicarivasmolloy.com/donate"
+},
+{
+"text": "Fort Bend County:",
+"href": "https://www.fortbendcountytx.gov/government/departments/county-services/elections-voter-registration"
+},
+{
+"text": "Galveston County:",
+"href": "http://www.galvestonvotes.org/"
+},
+{
+"text": "Grimes County:",
+"href": "http://www.co.grimes.tx.us/page/Elections"
+},
+{
+"text": "HOME",
+"href": "https://www.veronicarivasmolloy.com"
+},
+{
+"text": "Harris County:",
+"href": "https://www.harrisvotes.com/"
+},
+{
+"text": "MEET VERONICA",
+"href": "https://www.veronicarivasmolloy.com/meet-veronica"
+},
+{
+"text": "RECOGNITIONS",
+"href": "https://www.veronicarivasmolloy.com/copy-of-meet-veronica"
+},
+{
+"text": "Waller County:",
+"href": "http://www.co.waller.tx.us/page/Front%20Page"
+},
+{
+"text": "Washington County:",
+"href": "http://www.co.washington.tx.us/page/washington.Elections"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VeronicaforJustice"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/veronica-rivas-molloy-b1630472/"
+},
+{
+"text": "[no text]",
+"href": "https://www.co.chambers.tx.us/page/elections"
+},
+{
+"text": "http://www.co.colorado.tx.us/page/colorado.Elections",
+"href": "http://www.co.colorado.tx.us/page/colorado.Elections"
+},
+{
+"text": "http://www.co.grimes.tx.us/page/Elections",
+"href": "http://www.co.grimes.tx.us/page/Elections"
+},
+{
+"text": "http://www.co.waller.tx.us/page/Front%20Page",
+"href": "http://www.co.waller.tx.us/page/Front%20Page"
+},
+{
+"text": "http://www.co.washington.tx.us/page/washington.Elections",
+"href": "http://www.co.washington.tx.us/page/washington.Elections"
+},
+{
+"text": "http://www.galvestonvotes.org/",
+"href": "http://www.galvestonvotes.org/"
+},
+{
+"text": "https://brazoriacountytxweb.tylerhost.net/recorder/content/Elections/HomePage.htm",
+"href": "https://brazoriacountytx-web.tylerhost.net/recorder/content/Elections/HomePage.htm"
+},
+{
+"text": "https://www.austincounty.com/page/austin.Elections",
+"href": "https://www.austincounty.com/page/austin.Elections"
+},
+{
+"text": "https://www.co.chambers.tx.us/page/elections",
+"href": "https://www.co.chambers.tx.us/page/elections"
+},
+{
+"text": "https://www.fortbendcountytx.gov/government/departments/county-services/elections-voter-registration",
+"href": "https://www.fortbendcountytx.gov/government/departments/county-services/elections-voter-registration"
+},
+{
+"text": "https://www.harrisvotes.com",
+"href": "https://www.harrisvotes.com"
+},
+{
+"text": "info@veronicaforjustice.com",
+"href": "mailto:info@veronicaforjustice.com"
+}
 ]

@@ -1,77 +1,490 @@
 [
-"https://facebook.com/",
-"https://instagram.com/votevega",
-"https://secure.votevega.nyc/donate",
-"https://tiktok.com/@votevega",
-"https://twitter.com/votevega26",
-"https://votevega.nyc/",
-"https://votevega.nyc/es/news",
-"https://votevega.nyc/events",
-"https://votevega.nyc/meet-jose",
-"https://votevega.nyc/news",
-"https://votevega.nyc/news/axios-due-dissidence-20251020",
-"https://votevega.nyc/news/badfaith-20250314",
-"https://votevega.nyc/news/behind-the-ballot-20251020",
-"https://votevega.nyc/news/birthday-appearance-jimmy-dore-show",
-"https://votevega.nyc/news/breaking-points-20241024",
-"https://votevega.nyc/news/due-dissidence-2025-08-31",
-"https://votevega.nyc/news/due-dissidence-20251010",
-"https://votevega.nyc/news/due-dissidence-20260129",
-"https://votevega.nyc/news/focus-on-the-candidates-20260207",
-"https://votevega.nyc/news/garland-nixon-20260121",
-"https://votevega.nyc/news/garland-nixon-torres-restaurant-20251225",
-"https://votevega.nyc/news/guychristensen-20250908",
-"https://votevega.nyc/news/hardlensmedia-20250616",
-"https://votevega.nyc/news/independent-ballot-2026",
-"https://votevega.nyc/news/jaybefaunt-2026-01-07",
-"https://votevega.nyc/news/jimmy-dore-joins-9-11-25th-anniversary-nyc-forum",
-"https://votevega.nyc/news/jimmydore-20250517",
-"https://votevega.nyc/news/jose-vega-and-garland-nixon-talk",
-"https://votevega.nyc/news/jose-vega-announces-his-run-on-congress-talks-about-documentary-with-hard-lens-media",
-"https://votevega.nyc/news/jose-vega-in-chinese-media-after-pottinger-intervention",
-"https://votevega.nyc/news/jose-vega-interviewed-by-uk-column",
-"https://votevega.nyc/news/jose-vega-joins-craig-pasta-jardula",
-"https://votevega.nyc/news/jose-vega-joins-due-dissidence-for-documentary-screening-ruckus-the-making-of-a-revolutionary",
-"https://votevega.nyc/news/jose-vega-joins-two-doomed-men-podcast",
-"https://votevega.nyc/news/jose-vega-on-revolutionary-blackout",
-"https://votevega.nyc/news/jose-vega-on-the-jimmy-dore-show",
-"https://votevega.nyc/news/jose-vega-on-the-kim-iversen-show",
-"https://votevega.nyc/news/jose-vega-speaks-at-new-bethel-baptist-church",
-"https://votevega.nyc/news/jose-vegas-speech-at-peace-rally-and-concert-against-the-ghouls-of-war",
-"https://votevega.nyc/news/larouche-candidate-jose-vega-hosts-fundraiser-with-jimmy-dore",
-"https://votevega.nyc/news/new-video-how-zelenskyy-stopped-worrying-and-learned-to-love-atacms",
-"https://votevega.nyc/news/no-ball-economists-like-paul-krugman-is-a-liar-the-economy-has-failed-80-of-the-people-so-lets-take-a-different-path",
-"https://votevega.nyc/news/norwood-news-townhall",
-"https://votevega.nyc/news/on-this-july-4th-declare-your-independence",
-"https://votevega.nyc/news/redacted-interview-20250702",
-"https://votevega.nyc/news/rt-covers-vegas-intervention-on-china-hawk-pottinger",
-"https://votevega.nyc/news/rt-vega-torres-aipac-2024-08-24",
-"https://votevega.nyc/news/ruckus",
-"https://votevega.nyc/news/sabby-sabs-20251014",
-"https://votevega.nyc/news/sabby-sabs-20260122",
-"https://votevega.nyc/news/the-roast-of-ritchie-torres-rbn",
-"https://votevega.nyc/news/veteran-disaster-surgeon-dr-mark-perlmutter-offers-harrowing-testimony",
-"https://votevega.nyc/news/viva-frei-discussion-charlie-kirk",
-"https://votevega.nyc/news/young-turks-20260216",
-"https://votevega.nyc/policy",
-"https://votevega.nyc/policy/peace-through-development",
-"https://votevega.nyc/policy/real-medicare-for-all",
-"https://votevega.nyc/policy/robust-immigration-reform",
-"https://votevega.nyc/policy/space-ccc",
-"https://votevega.nyc/privacy-policy",
-"https://votevega.nyc/statements",
-"https://votevega.nyc/tags/9/11",
-"https://votevega.nyc/tags/badfaith-briannajoygray",
-"https://votevega.nyc/tags/breakingpoints",
-"https://votevega.nyc/tags/guychristensen-yourfavoriteguy",
-"https://votevega.nyc/tags/hardlensmedia",
-"https://votevega.nyc/tags/jimmy-dore",
-"https://votevega.nyc/tags/jimmydore",
-"https://votevega.nyc/tags/nsa-whistleblowers",
-"https://votevega.nyc/tags/nyc-events",
-"https://votevega.nyc/tags/rbn",
-"https://votevega.nyc/tags/redacted",
-"https://votevega.nyc/tags/ruckus",
-"https://votevega.nyc/terms-and-conditions",
-"https://youtube.com/@DeclaringIndependence"
+{
+"text": "\"No-Ball\" Economist Paul Krugman Is A Liar –– The Economy Has Failed 80% of the People, So Let's Take A Different Path",
+"href": "https://votevega.nyc/news/no-ball-economists-like-paul-krugman-is-a-liar-the-economy-has-failed-80-of-the-people-so-lets-take-a-different-path/"
+},
+{
+"text": "9/11 (1)",
+"href": "https://votevega.nyc/tags/9/11/"
+},
+{
+"text": "A real medicare for all policy",
+"href": "https://votevega.nyc/policy/real-medicare-for-all/"
+},
+{
+"text": "A revolutionary approach to foreign policy: Peace through Development",
+"href": "https://votevega.nyc/policy/peace-through-development/"
+},
+{
+"text": "A robust immigration reform",
+"href": "https://votevega.nyc/policy/robust-immigration-reform/"
+},
+{
+"text": "All Policies",
+"href": "https://votevega.nyc/policy/"
+},
+{
+"text": "Badfaith, Briannajoygray (1)",
+"href": "https://votevega.nyc/tags/badfaith-briannajoygray/"
+},
+{
+"text": "Breakingpoints (1)",
+"href": "https://votevega.nyc/tags/breakingpoints/"
+},
+{
+"text": "Campaign Statements",
+"href": "https://votevega.nyc/statements/"
+},
+{
+"text": "Declare Your Independence!",
+"href": "https://votevega.nyc/news/on-this-july-4th-declare-your-independence/"
+},
+{
+"text": "Donate",
+"href": "https://secure.votevega.nyc/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.votevega.nyc/donate"
+},
+{
+"text": "Esp",
+"href": "https://votevega.nyc/es/news/"
+},
+{
+"text": "Events",
+"href": "https://votevega.nyc/events/"
+},
+{
+"text": "Guychristensen, Yourfavoriteguy (1)",
+"href": "https://votevega.nyc/tags/guychristensen-yourfavoriteguy/"
+},
+{
+"text": "Hardlensmedia (1)",
+"href": "https://votevega.nyc/tags/hardlensmedia/"
+},
+{
+"text": "JOSE VEGA: THE ANTIWAR BRONX REBEL WHO SCARES THE ESTABLISHMENT",
+"href": "https://votevega.nyc/news/redacted-interview-20250702/"
+},
+{
+"text": "Jimmy Dore (1)",
+"href": "https://votevega.nyc/tags/jimmy-dore/"
+},
+{
+"text": "Jimmy Dore Joins 9/11 at 25 NYC Forum With NSA Whistleblowers",
+"href": "https://votevega.nyc/news/jimmy-dore-joins-9-11-25th-anniversary-nyc-forum/"
+},
+{
+"text": "Jimmydore (1)",
+"href": "https://votevega.nyc/tags/jimmydore/"
+},
+{
+"text": "Jose Vega Announces His Run For Congress & Talks About Documentary with Hard Lens Media",
+"href": "https://votevega.nyc/news/jose-vega-announces-his-run-on-congress-talks-about-documentary-with-hard-lens-media/"
+},
+{
+"text": "Jose Vega Discusses Charlie Kirk Assassination on Viva Frei",
+"href": "https://votevega.nyc/news/viva-frei-discussion-charlie-kirk/"
+},
+{
+"text": "Jose Vega Interviewed by UK Column",
+"href": "https://votevega.nyc/news/jose-vega-interviewed-by-uk-column/"
+},
+{
+"text": "Jose Vega Joins Behind the Ballot podcast to discuss his challenge to Ritchie Torres in the NY-15 Democratic Primary",
+"href": "https://votevega.nyc/news/behind-the-ballot-20251020/"
+},
+{
+"text": "Jose Vega Joins Craig Pasta Jardula",
+"href": "https://votevega.nyc/news/jose-vega-joins-craig-pasta-jardula/"
+},
+{
+"text": "Jose Vega Joins Due Dissidence for Documentary Screening: “Ruckus: The Making of a Revolutionary”",
+"href": "https://votevega.nyc/news/jose-vega-joins-due-dissidence-for-documentary-screening-ruckus-the-making-of-a-revolutionary/"
+},
+{
+"text": "Jose Vega Joins Due Dissidence, Announces PRIMARY CHALLENGE Against Ritchie Torres",
+"href": "https://votevega.nyc/news/due-dissidence-20251010/"
+},
+{
+"text": "Jose Vega Joins “Two Doomed Men” Podcast",
+"href": "https://votevega.nyc/news/jose-vega-joins-two-doomed-men-podcast/"
+},
+{
+"text": "Jose Vega QUOTED in Axios TRASHING Hakeem Jeffries",
+"href": "https://votevega.nyc/news/axios-due-dissidence-20251020/"
+},
+{
+"text": "Jose Vega SMEARED as \"Antisemitic\" by \"Rich\" Ritchie Torres' New York Zionist Backers",
+"href": "https://votevega.nyc/news/garland-nixon-20260121/"
+},
+{
+"text": "Jose Vega Speaks at New Bethel Baptist Church",
+"href": "https://votevega.nyc/news/jose-vega-speaks-at-new-bethel-baptist-church/"
+},
+{
+"text": "Jose Vega VS Ritchie Torres ROUND TWO",
+"href": "https://votevega.nyc/news/jaybefaunt-2026-01-07/"
+},
+{
+"text": "Jose Vega and Brianna Joy Gray dissect the corruption and incompetence of the Democratic Party Democratic Party.",
+"href": "https://votevega.nyc/news/badfaith-20250314/"
+},
+{
+"text": "Jose Vega and Garland Nixon Talk",
+"href": "https://votevega.nyc/news/jose-vega-and-garland-nixon-talk/"
+},
+{
+"text": "Jose Vega and Guy Christensen (@yourfavoriteguy) Interview on challenging CORRUPTED Ritchie Torres",
+"href": "https://votevega.nyc/news/guychristensen-20250908/"
+},
+{
+"text": "Jose Vega announces his Second Run for Congress on Jimmy Dore!",
+"href": "https://votevega.nyc/news/jimmydore-20250517/"
+},
+{
+"text": "Jose Vega discusses the Iran-Israel Conflict on Hard Lens Media",
+"href": "https://votevega.nyc/news/hardlensmedia-20250616/"
+},
+{
+"text": "Jose Vega in Chinese Media after ‘Pottinger Intervention’",
+"href": "https://votevega.nyc/news/jose-vega-in-chinese-media-after-pottinger-intervention/"
+},
+{
+"text": "Jose Vega joins Due Dissidence to discuss upcoming petitioning and being smeared by the Torres billionaire zionist donor club",
+"href": "https://votevega.nyc/news/due-dissidence-20260129/"
+},
+{
+"text": "Jose Vega joins Focus on the Candidates with Cynthia Pooler",
+"href": "https://votevega.nyc/news/focus-on-the-candidates-20260207/"
+},
+{
+"text": "Jose Vega joins Sabby Sabs to discuss confronting Ritchie Torres and his billionaire donors",
+"href": "https://votevega.nyc/news/sabby-sabs-20260122/"
+},
+{
+"text": "Jose Vega joins The Young Turks: Ritchie Torres' AIPAC Bribes Get CALLED OUT",
+"href": "https://votevega.nyc/news/young-turks-20260216/"
+},
+{
+"text": "Jose Vega on General Election Ballot as Independent",
+"href": "https://votevega.nyc/news/independent-ballot-2026/"
+},
+{
+"text": "Jose Vega on RT: Pro-Israel Lobby Ramps Up As US Congressional Elections Approach",
+"href": "https://votevega.nyc/news/rt-vega-torres-aipac-2024-08-24/"
+},
+{
+"text": "Jose Vega on Revolutionary Blackout",
+"href": "https://votevega.nyc/news/jose-vega-on-revolutionary-blackout/"
+},
+{
+"text": "Jose Vega on The Jimmy Dore Show",
+"href": "https://votevega.nyc/news/jose-vega-on-the-jimmy-dore-show/"
+},
+{
+"text": "Jose Vega on the Kim Iversen Show",
+"href": "https://votevega.nyc/news/jose-vega-on-the-kim-iversen-show/"
+},
+{
+"text": "Jose Vega roasts Ritchie Torres on the Revolutionary Blackout Network (RBN)",
+"href": "https://votevega.nyc/news/the-roast-of-ritchie-torres-rbn/"
+},
+{
+"text": "Jose Vega talks with Breaking Points about running as an Independent",
+"href": "https://votevega.nyc/news/breaking-points-20241024/"
+},
+{
+"text": "Jose Vega's Special Birthday Appearance on the Jimmy Dore Show",
+"href": "https://votevega.nyc/news/birthday-appearance-jimmy-dore-show/"
+},
+{
+"text": "Jose Vega's Speech at Peace Rally and Concert 'Against the Ghouls of War'",
+"href": "https://votevega.nyc/news/jose-vegas-speech-at-peace-rally-and-concert-against-the-ghouls-of-war/"
+},
+{
+"text": "LaRouche Candidate Jose Vega Hosts Fundraiser with Jimmy Dore",
+"href": "https://votevega.nyc/news/larouche-candidate-jose-vega-hosts-fundraiser-with-jimmy-dore/"
+},
+{
+"text": "Make the Bronx the center for reindustrialization of the United States",
+"href": "https://votevega.nyc/policy/space-ccc/"
+},
+{
+"text": "Meet Jose",
+"href": "https://votevega.nyc/meet-jose/"
+},
+{
+"text": "NSA Whistleblowers (1)",
+"href": "https://votevega.nyc/tags/nsa-whistleblowers/"
+},
+{
+"text": "NYC Events (1)",
+"href": "https://votevega.nyc/tags/nyc-events/"
+},
+{
+"text": "New Video: How Zelenskyy stopped worrying and learned to love ATACMS",
+"href": "https://votevega.nyc/news/new-video-how-zelenskyy-stopped-worrying-and-learned-to-love-atacms/"
+},
+{
+"text": "News & Media",
+"href": "https://votevega.nyc/news/"
+},
+{
+"text": "Norwood News Coverage of Vega for Congress Bronx Townhall",
+"href": "https://votevega.nyc/news/norwood-news-townhall/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votevega.nyc/privacy-policy/"
+},
+{
+"text": "Rbn (1)",
+"href": "https://votevega.nyc/tags/rbn/"
+},
+{
+"text": "Read Full Article",
+"href": "https://votevega.nyc/news/jimmy-dore-joins-9-11-25th-anniversary-nyc-forum/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/axios-due-dissidence-20251020/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/badfaith-20250314/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/behind-the-ballot-20251020/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/birthday-appearance-jimmy-dore-show/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/breaking-points-20241024/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/due-dissidence-2025-08-31/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/due-dissidence-20251010/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/due-dissidence-20260129/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/focus-on-the-candidates-20260207/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/garland-nixon-20260121/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/garland-nixon-torres-restaurant-20251225/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/guychristensen-20250908/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/hardlensmedia-20250616/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/independent-ballot-2026/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/jaybefaunt-2026-01-07/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/jimmydore-20250517/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/jose-vega-and-garland-nixon-talk/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/jose-vega-announces-his-run-on-congress-talks-about-documentary-with-hard-lens-media/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/jose-vega-in-chinese-media-after-pottinger-intervention/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/jose-vega-interviewed-by-uk-column/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/jose-vega-joins-craig-pasta-jardula/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/jose-vega-joins-due-dissidence-for-documentary-screening-ruckus-the-making-of-a-revolutionary/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/jose-vega-joins-two-doomed-men-podcast/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/jose-vega-on-revolutionary-blackout/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/jose-vega-on-the-jimmy-dore-show/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/jose-vega-on-the-kim-iversen-show/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/jose-vega-speaks-at-new-bethel-baptist-church/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/jose-vegas-speech-at-peace-rally-and-concert-against-the-ghouls-of-war/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/larouche-candidate-jose-vega-hosts-fundraiser-with-jimmy-dore/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/new-video-how-zelenskyy-stopped-worrying-and-learned-to-love-atacms/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/no-ball-economists-like-paul-krugman-is-a-liar-the-economy-has-failed-80-of-the-people-so-lets-take-a-different-path/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/norwood-news-townhall/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/on-this-july-4th-declare-your-independence/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/redacted-interview-20250702/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/rt-covers-vegas-intervention-on-china-hawk-pottinger/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/rt-vega-torres-aipac-2024-08-24/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/ruckus/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/sabby-sabs-20251014/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/sabby-sabs-20260122/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/the-roast-of-ritchie-torres-rbn/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/veteran-disaster-surgeon-dr-mark-perlmutter-offers-harrowing-testimony/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/viva-frei-discussion-charlie-kirk/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/news/young-turks-20260216/"
+},
+{
+"text": "Redacted (1)",
+"href": "https://votevega.nyc/tags/redacted/"
+},
+{
+"text": "Ritchie Torres FLEES restaurant to escape Jose Vega's questions",
+"href": "https://votevega.nyc/news/garland-nixon-torres-restaurant-20251225/"
+},
+{
+"text": "Ruckus (1)",
+"href": "https://votevega.nyc/tags/ruckus/"
+},
+{
+"text": "Russia Today Covers Vega Intervention on China Hawk Pottinger",
+"href": "https://votevega.nyc/news/rt-covers-vegas-intervention-on-china-hawk-pottinger/"
+},
+{
+"text": "Sabby Sabs to Jose Vega: \"I have to tell you, I'm Impressed\"",
+"href": "https://votevega.nyc/news/sabby-sabs-20251014/"
+},
+{
+"text": "Sign Up",
+"href": "https://votevega.nyc/#volunteer"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://votevega.nyc/terms-and-conditions/"
+},
+{
+"text": "Veteran Disaster Surgeon Dr. Mark Perlmutter Offers Harrowing Testimony",
+"href": "https://votevega.nyc/news/veteran-disaster-surgeon-dr-mark-perlmutter-offers-harrowing-testimony/"
+},
+{
+"text": "WATCH: Jose Vega goes on Due Dissidence to talk about Ritchie Torres and Zohran Mamdani",
+"href": "https://votevega.nyc/news/due-dissidence-2025-08-31/"
+},
+{
+"text": "WATCH: RUCKUS - Jose Vega Documentary",
+"href": "https://votevega.nyc/news/ruckus/"
+},
+{
+"text": "[image: Jose Vega for Congress]",
+"href": "https://votevega.nyc/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/votevega26"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votevega/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@votevega"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@DeclaringIndependence"
+},
+{
+"text": "press@votevega.nyc",
+"href": "mailto:press@votevega.nyc"
+}
 ]

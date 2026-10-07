@@ -1,80 +1,39 @@
-Skip navigation menu
-THE LATEST NEWS
-Lateefah Simon Announces Over 40 Endorsements from Current and Former Elected Leaders
-OAKLAND, CA - Today Lateefah Simon announced she has earned the support of over 40 elected leaders since launching her campaign a month ago.
+Skip navigation menu MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE THE LATEST NEWS MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE THE LATEST NEWS NEWS ARTICLE Rep.
+Simon Announces $850K For Plaza Next To Ashby Bart NEWS ARTICLE Lighting upgrades coming to East Bay BART stations NEWS ARTICLE Oakland's Rep.
+Simon demands answers from Labor Department NEWS ARTICLE Lawmakers Push Back Against Trump Coal Terminal Plans in West Oakland NEWS ARTICLE Congresswoman Lateefah Simon Rejects the Coal Terminal in Oakland NEWS ARTICLE Rep.
+Simon, UCSF announce $1 million in federal funds for cancer research center NEWS ARTICLE Oakland secures $1M in federal funding for Ceasefire NEWS ARTICLE San Leandro shoreline project receives $1.09 million in federal funding NEWS ARTICLE Voting rights ruling is a 'devastating' and personal blow, Rep.
+Simon, Mayor Lee say NEWS ARTICLE Berkeley, Albany split $500,000 in federal funding for fire training NEWS ARTICLE Oakland Rep.
+Lateefah Simon promotes bill to give cities chance to keep sports teams NEWS ARTICLE At the Young Women's Freedom Center, Sisters Are Doing It for Themselves NEWS ARTICLE New shoreline park to bring nature, 'justice' to East Oakland residents NEWS ARTICLE Bay Area lawmakers rebuke Trump over Iran strikes, war authority NEWS ARTICLE Rep.
+Simon introduces a bill to nationalize BART’s ambassador program NEWS ARTICLE Bay Area House Democrats claim victory as White House reverses $1.9 billion cut in health funding NEWS ARTICLE This Disability Education Law Just Turned 50.
+Disability Advocates Want More.
+NEWS ARTICLE East Bay leaders call for federal government shutdown to end NEWS ARTICLE Oakland turns out for ‘No Kings’ protest against Trump News ARTICLE Bay Area training provides ‘concrete skills’ to defy Trump on deportations, troops NEWS ARTICLE East Bay Rep.
+Lateefah Simon meets with Bay Area workers impacted by government shutdown NEWS ARTICLE House Dems Blast Labor Department for Abandoning Disabled Workers nEWS ARTICLE Congresswoman Simon Visits Port of Oakland, Convenes Roundtable on Tariffs NEWS ARTICLE WATCH: Rep.
+Lateefah Simon speaks at “No Kings” protest in Oakland NEWS ARTICLE ‘Cruel, Ugly, Nasty, Immoral’: Democrats Slam Mega-Bill Ahead of House Vote NEWS ARTICLE Congresswoman Lateefah Simon Hosts Fiery Town Hall at Emeryville Senior Center NEWS ARTICLE Oakland congresswoman is on a mission to save BART, mass transit MEDIA Rep.
+Lateefah Simon Rebukes Trump in Fiery Speech, Calls for Bold Progressive Action NEWS ARTICLE The Democratic Leader You Did Not Know We Had NEWS ARTICLE Rep.
+Lateefah Simon to Deliver WFP Response to Trump’s Address to Congress NEWS ARTICLE Oakland’s new representative in Congress is adjusting to a new normal: Absolute chaos NEWS ARTICLE SF Chronicle Endorsement: The obvious choice to replace Barbara Lee in Congress is also the best one PRESS RELEASE Congresswoman Barbara Lee Endorses Lateefah Simon to Succeed her in California’s 12th Congressional NEWS ARTICLE East Bay Times Editorial: Elect Lateefah Simon for Barbara Lee’s East Bay congressional seat NEWS ARTICLE Bay Area Reporter Editorial: Simon, Low for Congress PRESS RELEASE Governor Gavin Newsom Throws Support Behind Lateefah Simon’s Bid for Congress NEWS ARTICLE KCBS: BART Director Lateefah Simon just launched her campaign for Congress NEWS ARTICLE After Decades Uplifting Community Voices, This Bay Area Advocate Wants To Represent Them In Congress PRESS RELEASE EMILYs List Endorses Lateefah Simon for Election to California’s 12th Congressional District PRESS RELEASE Building and Construction Trades Council of Alameda County Endorses Lateefah Simon for Congress NEWS ARTICLE Lateefah Simon on Her Work with Kamala Harris and Run for Congress PRESS RELEASE Lateefah Simon Raises over $300,000 in First Month of Congressional Campaign PRESS RELEASE Lateefah Simon Announces Over 40 Endorsements from Current and Former Elected Leaders PRESS RELEASE Lateefah Simon Announces First Major Labor Endorsement: National Union of Healthcare Workers NEWS ARTICLE KQED Newsroom: U.S.
+Rep.
+Barbara Lee | Lateefah Simon PRESS RELEASE Lateefah Simon Raises over $140,000 in First 24 Hours of Congressional Campaign NEWS ARTICLE BART Director, Criminal Justice Reformer Lateefah Simon Launches Campaign for East Bay House Seat Mar 28 2023 PRESS RELEASE Lateefah Simon Announces Over 40 Endorsements from Current and Former Elected Leaders OAKLAND, CA - Today Lateefah Simon announced she has earned the support of over 40 elected leaders since launching her campaign #ago.
 Her early endorsements include Lt.
 Governor Eleni Kounalakis, Attorney General Rob Bonta, ten members of the State Legislature, and over a dozen current and former elected leaders from CA-12.
 A full list of her endorsements can be found below.
 “I’m humbled to have the support of so many respected leaders from this community and throughout California,” Lateefah Simon said.
 “Good governance doesn’t happen from the top down—it takes collaboration at all levels of government.
-I cannot wait to work with this esteemed group of leaders to show this community what we can accomplish in the months ahead.”
-“Lateefah Simon has been a force ever since she began her career serving low income young women 25 years ago,” said Lt.
-Governor Eleni Kounalakis.
+I cannot wait to work with this esteemed group of leaders to show this community what we can accomplish in the months ahead.” “Lateefah Simon has been a force ever since she began her career serving low income young women #ago,” said Lt.
+Governor Eleni Kounalakis .
 “She helped transform how our justice system treats young people, and she has changed thousands of lives through her work.
-By sending Lateefah to Congress, we’ll be sending one of our very best and I’m thrilled to endorse her campaign.”
-"Lateefah is a trailblazing leader who has spent her career advocating for those who have been left behind and overlooked by our justice system,” said Attorney General Rob Bonta.
+By sending Lateefah to Congress, we’ll be sending one of our very best and I’m thrilled to endorse her campaign.” "Lateefah is a trailblazing leader who has spent her career advocating for those who have been left behind and overlooked by our justice system,” said Attorney General Rob Bonta .
 “Her dedication to criminal justice reform and public safety is unparalleled, and she has the expertise, passion, and commitment to make a real difference in Congress.
-As one of her future constituents in CA-12, I’m proud to endorse her candidacy.”
-"Lateefah Simon is a true progressive champion,” said Rep.
+As one of her future constituents in CA-12, I’m proud to endorse her candidacy.” "Lateefah Simon is a true progressive champion,” said Rep.
 Robert Garcia (CA-42).
 “Her impressive track record of community leadership and advocacy speaks for itself, and her commitment to equity is exactly what we need more of in Washington.
-I have no doubt that she will be a powerful voice for change in the halls of Congress and I look forward to working together to deliver for the people of California.”
-"Lateefah understands what it means to dismantle systemic injustice so we can ensure our young people are better off than past generations, especially our Black and Brown children,” said Oakland City Councilmember Treva Reid.
+I have no doubt that she will be a powerful voice for change in the halls of Congress and I look forward to working together to deliver for the people of California.” "Lateefah understands what it means to dismantle systemic injustice so we can ensure our young people are better off than past generations, especially our Black and Brown children,” said Oakland City Councilmember Treva Reid .
 “Her work as a community organizer, civil rights champion, and policy leader has had a profound impact on Oakland and already changed countless lives.
-Lateefah is going to be a star in Congress and I know she’ll work day and night to bring more resources back for our community.”
-"Lateefah ran for BART Board to make BART better for working people and people with disabilities, and I can say with confidence that BART is better off because of her leadership,” said BART Board Director Bevan Dufty.
+Lateefah is going to be a star in Congress and I know she’ll work day and night to bring more resources back for our community.” "Lateefah ran for BART Board to make BART better for working people and people with disabilities, and I can say with confidence that BART is better off because of her leadership,” said BART Board Director Bevan Dufty .
 “Most people don’t know that Lateefah flew to Washington to lobby for critical emergency funding to ensure transit services continued to operate despite the unprecedented challenges posed by COVID-19.
-Washington could use another transit and equity champion, and Lateefah was born for this role.”
-Tony Thurmond, California Superintendent of Instruction
-Lola Smallwood-Cuevas, California State Senator (SD-28)
-Buffy Wicks, California State Assemblymember (AD-14)
-Matt Haney, California State Assemblymember (AD-17)
-Isaac Bryan, California State Assemblymember (AD-55)
-Corey Jackson, California State Assemblymember (AD-60)
-Lateefah Simon is a 25-year veteran organizer and nationally recognized civil rights and social justice leader.
+Washington could use another transit and equity champion, and Lateefah was born for this role.” Endorsements* Eleni Kounalakis, California Lieutenant Governor Rob Bonta, California Attorney General Malia Cohen, California State Controller Fiona Ma, California State Treasurer Tony Thurmond, California Superintendent of Instruction Kevin Mullin, U.S.
+Representative (CA-15) Robert Garcia, U.S.
+Representative (CA-42) Nancy Skinner, California State Senator (SD-09) Aisha Wahab, California State Senator (SD-10) Scott Wiener, California State Senator (SD-11) Josh Becker, California State Senator (SD-13) Lola Smallwood-Cuevas, California State Senator (SD-28) Buffy Wicks, California State Assemblymember (AD-14) Mia Bonta, California State Assemblymember (AD-18) Matt Haney, California State Assemblymember (AD-17) Isaac Bryan, California State Assemblymember (AD-55) Corey Jackson, California State Assemblymember (AD-60) London Breed, Mayor of San Francisco Jesse Arreguin, Mayor of Berkeley John Bauters, Mayor of Emeryville Alexander Walker-Griffin, Mayor of Hercules Lisa Gauthier, Mayor of East Palo Alto Sasha Renee Perez, Mayor of Alhambra Libby Schaaf, Former Mayor of Oakland Elihu Harris, Former Mayor of Oakland Kevin Jenkins, Oakland City Councilmember Treva Reid, Oakland City Councilmember Dan Kalb, Oakland City Councilmember Courtney Welch, Vice Mayor of Emeryville Malia Vella, Alameda Councilmember Rigel Robinson, Berkeley City Councilmember Terry Taplin, Berkeley City Councilmember Ben Bartlett, Berkeley City Councilmember Rashi Kesarwani, Berkeley City Councilmember Cameron Sasai, Pinole City Councilmember Judy Appel, Berkeley School Board Janice Li, President, BART Board Bevan Dufty, BART Director Rebecca Salzman, BART Director Joel Young, Alameda County Transit Board Larry Reed, Contra Costa County Supervisor John Burton, Former U.S.
+Representative (CA-5) Michael Tubbs, Former Mayor of Stockton *All titles for identification purposes only Lateefah Simon is a 25-year veteran organizer and nationally recognized civil rights and social justice leader.
 She currently serves on the BART Board of Directors and the Board of Trustees for the California State University.
 Read Lateefah’s full bio here.
-Future updates about Lateefah’s campaign will be available at LateefahSimon.com.
-PRESS RELEASE
-Endorsements*
-Eleni Kounalakis, California Lieutenant Governor
-Rob Bonta, California Attorney General
-Malia Cohen, California State Controller
-Fiona Ma, California State Treasurer
-Kevin Mullin, U.S.
-Representative (CA-15)
-Robert Garcia, U.S.
-Representative (CA-42)
-Nancy Skinner, California State Senator (SD-09)
-Aisha Wahab, California State Senator (SD-10)
-Scott Wiener, California State Senator (SD-11)
-Josh Becker, California State Senator (SD-13)
-Mia Bonta, California State Assemblymember (AD-18)
-London Breed, Mayor of San Francisco
-Jesse Arreguin, Mayor of Berkeley
-John Bauters, Mayor of Emeryville
-Alexander Walker-Griffin, Mayor of Hercules
-Lisa Gauthier, Mayor of East Palo Alto
-Sasha Renee Perez, Mayor of Alhambra
-Libby Schaaf, Former Mayor of Oakland
-Elihu Harris, Former Mayor of Oakland
-Kevin Jenkins, Oakland City Councilmember
-Treva Reid, Oakland City Councilmember
-Dan Kalb, Oakland City Councilmember
-Courtney Welch, Vice Mayor of Emeryville
-Malia Vella, Alameda Councilmember
-Rigel Robinson, Berkeley City Councilmember
-Terry Taplin, Berkeley City Councilmember
-Ben Bartlett, Berkeley City Councilmember
-Rashi Kesarwani, Berkeley City Councilmember
-Cameron Sasai, Pinole City Councilmember
-Judy Appel, Berkeley School Board
-Janice Li, President, BART Board
-Bevan Dufty, BART Director
-Rebecca Salzman, BART Director
-Joel Young, Alameda County Transit Board
-Larry Reed, Contra Costa County Supervisor
-John Burton, Former U.S.
-Representative (CA-5)
-Michael Tubbs, Former Mayor of Stockton
-*All titles for identification purposes only
+Future updates about Lateefah’s campaign will be available at LateefahSimon.com . info@LateefahSimon.com Lateefah for Congress 1714 Franklin St #100 - 438 Oakland, CA 94612 Privacy Policy Powered by RUN! website builder Paid for by Lateefah for Congress You need to enable JavaScript to run this app.

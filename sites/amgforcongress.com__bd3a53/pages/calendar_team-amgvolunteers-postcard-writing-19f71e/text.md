@@ -1,11 +1,5 @@
-Back to All Events
-NOTE: This event is at 1PM Central/2PM Eastern.
+0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Back to All Events TEAM AMG/VOLUNTEERS: Postcard Writing Sunday, October 4, 2026 1:00 PM 4:00 PM Yard Bar Smoked Meats 445 Grace Avenue Panama City, Florida, 32401 United States (map) Google Calendar ICS NOTE: This event is at 1PM Central/2PM Eastern.
 Join Team AMG for a postcard writing meetup to help spread the word about Amanda Marie Green’s campaign for Congress!
 Spend time with fellow supporters and help us reach North Florida voters with a personal message ahead of Election Day.
-Previous
-Previous
-October 3
-TEAM AMG/VOLUNTEERS: Northwest Florida Championship Parade
-Next
-Next
-October 4
+Previous Previous October 3 TEAM AMG/VOLUNTEERS: Northwest Florida Championship Parade Next Next October 4 Leon County Democrats Candidate Voices TO SEND A CHECK: P.O.
+Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

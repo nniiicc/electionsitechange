@@ -1,9 +1,46 @@
 [
-"https://bsky.app/profile/michaelnpmiller.bsky.social",
-"https://facebook.com/profile.php?id=61570736100083",
-"https://givebutter.com/mike-miller-for-governor-of-texas-0vz5zk",
-"https://solidarity-party.org/",
-"https://truthsocial.com/@MichaelNPMiller",
-"https://txsolidarity.party/",
-"https://x.com/MichaelNPMiller"
+{
+"text": "Contact",
+"href": "mailto:mikemiller4texas@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://givebutter.com/mike-miller-for-governor-of-texas-0vz5zk"
+},
+{
+"text": "Donate Now →",
+"href": "https://givebutter.com/mike-miller-for-governor-of-texas-0vz5zk"
+},
+{
+"text": "National ASP",
+"href": "https://www.solidarity-party.org"
+},
+{
+"text": "T",
+"href": "https://truthsocial.com/@MichaelNPMiller"
+},
+{
+"text": "Texas Solidarity Party",
+"href": "https://txsolidarity.party"
+},
+{
+"text": "[image: ASP]",
+"href": "https://www.solidarity-party.org/"
+},
+{
+"text": "[image: TSP]",
+"href": "https://txsolidarity.party"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/michaelnpmiller.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61570736100083"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MichaelNPMiller"
+}
 ]

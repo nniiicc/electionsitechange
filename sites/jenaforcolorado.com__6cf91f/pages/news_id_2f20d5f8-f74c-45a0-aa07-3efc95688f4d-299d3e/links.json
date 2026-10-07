@@ -1,30 +1,118 @@
 [
-"https://bsky.app/profile/jenagriswold.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/Jenaforcolorado",
-"https://flickr.com/people/156006910@N07",
-"https://instagram.com/jenagriswold",
-"https://jenaforcolorado.com/",
-"https://jenaforcolorado.com/about",
-"https://jenaforcolorado.com/contact",
-"https://jenaforcolorado.com/endorsements",
-"https://jenaforcolorado.com/issues",
-"https://jenaforcolorado.com/news/24hours",
-"https://jenaforcolorado.com/news/emilys-list-30-colorado-leaders-and-organizations-endorse-griswold-for-attorney-general",
-"https://jenaforcolorado.com/news/griswold-announces-30-more-endorsements",
-"https://jenaforcolorado.com/news/griswold-announces-40-more-endorsements-in-bid-for-attorney-general",
-"https://jenaforcolorado.com/news/griswold-breaks-fundraising-record",
-"https://jenaforcolorado.com/news/griswold-campaign-releases-campaign-ad",
-"https://jenaforcolorado.com/news/icymi-jena-griswold-fights-trumps-direct-attack-on-democracy",
-"https://jenaforcolorado.com/news/icymi-secretary-griswold-on-msnbc",
-"https://jenaforcolorado.com/news/new-poll-shows-griswold-with-commanding-lead",
-"https://jenaforcolorado.com/news/news-1",
-"https://jenaforcolorado.com/news/poll-shows-griswold-with-dominant-position-in-democratic-attorney-general-primary",
-"https://jenaforcolorado.com/privacy-policy",
-"https://jenaforcolorado.com/volunteer",
-"https://secure.actblue.com/donate/jenaforcoag-4-7-26",
-"https://store.jenaforcolorado.com/",
-"https://threads.net/@jenagriswold",
-"https://x.com/JenaGriswold",
-"https://youtube.com/channel/UCNEQm9kSpsYvjOOk-AD7sPA"
+{
+"text": "About",
+"href": "https://www.jenaforcolorado.com/about"
+},
+{
+"text": "Campaign Shop",
+"href": "https://store.jenaforcolorado.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.jenaforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jenaforcoag-4-7-26"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jenaforcolorado.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.jenaforcolorado.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jenaforcolorado.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://www.jenaforcolorado.com/news/24hours"
+},
+{
+"text": "Read more",
+"href": "https://www.jenaforcolorado.com/news/emilys-list-30-colorado-leaders-and-organizations-endorse-griswold-for-attorney-general"
+},
+{
+"text": "Read more",
+"href": "https://www.jenaforcolorado.com/news/griswold-announces-30-more-endorsements"
+},
+{
+"text": "Read more",
+"href": "https://www.jenaforcolorado.com/news/griswold-announces-40-more-endorsements-in-bid-for-attorney-general"
+},
+{
+"text": "Read more",
+"href": "https://www.jenaforcolorado.com/news/griswold-breaks-fundraising-record"
+},
+{
+"text": "Read more",
+"href": "https://www.jenaforcolorado.com/news/griswold-campaign-releases-campaign-ad"
+},
+{
+"text": "Read more",
+"href": "https://www.jenaforcolorado.com/news/icymi-jena-griswold-fights-trumps-direct-attack-on-democracy"
+},
+{
+"text": "Read more",
+"href": "https://www.jenaforcolorado.com/news/icymi-secretary-griswold-on-msnbc"
+},
+{
+"text": "Read more",
+"href": "https://www.jenaforcolorado.com/news/new-poll-shows-griswold-with-commanding-lead"
+},
+{
+"text": "Read more",
+"href": "https://www.jenaforcolorado.com/news/news-1"
+},
+{
+"text": "Read more",
+"href": "https://www.jenaforcolorado.com/news/poll-shows-griswold-with-dominant-position-in-democratic-attorney-general-primary"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jenaforcolorado.com/volunteer"
+},
+{
+"text": "[image: Jena Griswold for Attorney General]",
+"href": "https://www.jenaforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jenagriswold.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Jenaforcolorado"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/people/156006910@N07"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/jenagriswold"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@jenagriswold"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCNEQm9kSpsYvjOOk-AD7sPA"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JenaGriswold"
+},
+{
+"text": "press@jenaforcolorado.com",
+"href": "mailto:press@jenaforcolorado.com"
+}
 ]

@@ -1,17 +1,17 @@
-| The legislative session is speeding by quickly.
+Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe LATEST NEWS Making a Change Without Passing a Bill 2/23/2016 The legislative session is speeding by quickly.
 Every week brings more committee hearings, voting sessions, and floor debates.
 But sometimes a goal can be accomplished without passing legislation.
 In late January, I included information about legislation I put forth with Senator Brian Feldman regarding sidewalk closures.
 I was pleased that the State Highway Administration (SHA) agreed to enact the provisions of the bill administratively.
-Going forward, the standard SHA permit includes the following language | Author Write something about yourself.
-No need to be fancy, just an overview.
-Archives Categories |
-| | One of my pieces of legislation this session is the Board of Public Works Transparency Act (HB 368).
+Going forward, the standard SHA permit includes the following language Read More Increasing Government Transparency 2/16/2016 One of my pieces of legislation this session is the Board of Public Works Transparency Act (HB 368) .
 The Board of Public Works is made up of the Governor, Treasurer, and Comptroller.
-The Board has expansive authority over state government, including the ability to cut line items of the budget by up to 25% when the legislature is not in session. |
-| | As I explained last week, several colleagues and I have been engaged in a post mortem review of the blizzard clean-up.
-The Washington Post has covered these efforts.
+The Board has expansive authority over state government, including the ability to cut line items of the budget by up to 25% when the legislature is not in session. ​ Read More Appropriations Committee Work 2/9/2016 As I explained last week, several colleagues and I have been engaged in a post mortem review of the blizzard clean-up.
+The Washington Post has covered these efforts .
 Last week, Transportation Secretary Rahn appeared before the Appropriations Committee and I took the opportunity to ask him about the State Highway Administration's ("SHA's") recent performance, as well as some of my long-standing concerns with SHA.
-I was appalled to hear the Secretary describe SHA's performance as "excellent." You can view his response here.
-It begins about an hour and five minutes into the hearing. |
-By Authority of Friends of Marc Korman; Mark Brown, Treasurer
+I was appalled to hear the Secretary describe SHA's performance as "excellent." You can view his response here .
+It begins about an hour and five minutes into the hearing.
+Read More Reforming the Public Service Commission 2/2/2016 Today at noon is the State of the State address, in which Governor Hogan will come before the General Assembly—and the public—to discuss his priorities.
+The speech should be available on the Governor's website and Maryland Public Television, as well as being covered by the local news.
+Read More Author Write something about yourself.
+No need to be fancy, just an overview.
+Archives July 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 March 2025 February 2025 January 2025 December 2024 November 2024 October 2024 September 2024 August 2024 July 2024 June 2024 May 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 October 2023 September 2023 August 2023 July 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 November 2022 October 2022 September 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 December 2018 November 2018 October 2018 September 2018 August 2018 July 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 November 2017 October 2017 September 2017 August 2017 July 2017 June 2017 May 2017 April 2017 March 2017 February 2017 January 2017 December 2016 November 2016 October 2016 September 2016 August 2016 July 2016 June 2016 May 2016 April 2016 March 2016 February 2016 January 2016 December 2015 November 2015 October 2015 September 2015 August 2015 July 2015 June 2015 May 2015 April 2015 March 2015 February 2015 January 2015 December 2014 November 2014 October 2014 June 2014 May 2014 March 2014 February 2014 January 2014 September 2013 August 2013 July 2013 June 2013 May 2013 Categories All Legislative Session Update Monthly Update News Clip RSS Feed By Authority of Friends of Marc Korman; Mark Brown, Treasurer HOME ABOUT MARC ISSUES SCHOLARSHIP LATEST NEWS CONTRIBUTE CONTACT sign up to receive updates

@@ -1,19 +1,98 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/people/Rosie-Lynch-for-Oklahoma/61556974837593",
-"https://goodchange.app/donate_fundraiser/rosie4j",
-"https://instagram.com/rosielynch4ok",
-"https://okdems.vote/",
-"https://oklahoma.gov/elections/voter-registration/register-to-vote.html",
-"https://oklahoma.gov/elections/voters/absentee-voting.html",
-"https://oklahoma.gov/elections/voters/early-voting.html",
-"https://okvoterportal.okelections.gov/",
-"https://rosieforhouse.com/",
-"https://rosieforhouse.com/about",
-"https://rosieforhouse.com/contact",
-"https://rosieforhouse.com/d7011c7f-93d6-4575-889d-aa458da16792",
-"https://rosieforhouse.com/issues",
-"https://rosieforhouse.com/privacy-policy",
-"https://rosieforhouse.com/volunteer",
-"https://tiktok.com/@rosielynch4OK"
+{
+"text": "$10",
+"href": "https://goodchange.app/donate_fundraiser/rosie4j"
+},
+{
+"text": "$100",
+"href": "https://goodchange.app/donate_fundraiser/rosie4j"
+},
+{
+"text": "$25",
+"href": "https://goodchange.app/donate_fundraiser/rosie4j"
+},
+{
+"text": "$250",
+"href": "https://goodchange.app/donate_fundraiser/rosie4j"
+},
+{
+"text": "$50",
+"href": "https://goodchange.app/donate_fundraiser/rosie4j"
+},
+{
+"text": "About",
+"href": "https://www.rosieforhouse.com/about"
+},
+{
+"text": "Ballot lookup tool",
+"href": "https://okdems.vote/"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://okvoterportal.okelections.gov/"
+},
+{
+"text": "Contact",
+"href": "https://www.rosieforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://goodchange.app/donate_fundraiser/rosie4j"
+},
+{
+"text": "Early voting locations",
+"href": "https://oklahoma.gov/elections/voters/early-voting.html"
+},
+{
+"text": "Issues",
+"href": "https://www.rosieforhouse.com/issues"
+},
+{
+"text": "Meet Rosie",
+"href": "https://www.rosieforhouse.com/about"
+},
+{
+"text": "Other",
+"href": "https://goodchange.app/donate_fundraiser/rosie4j"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rosieforhouse.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://oklahoma.gov/elections/voter-registration/register-to-vote.html"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://oklahoma.gov/elections/voters/absentee-voting.html"
+},
+{
+"text": "View More",
+"href": "https://www.rosieforhouse.com/d7011c7f-93d6-4575-889d-aa458da16792"
+},
+{
+"text": "Volunteer",
+"href": "https://www.rosieforhouse.com/volunteer"
+},
+{
+"text": "[image: Rosie Lynch ]",
+"href": "https://www.rosieforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/people/Rosie-Lynch-for-Oklahoma/61556974837593/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/rosielynch4ok/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@rosielynch4OK"
+}
 ]

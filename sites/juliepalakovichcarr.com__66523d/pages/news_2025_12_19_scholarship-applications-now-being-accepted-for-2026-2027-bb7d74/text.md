@@ -1,4 +1,6 @@
-Applications are now being accepted for the Delegate Julie Palakovich Carr Scholarship.
+Home Need Help?
+About Julie Legislation Accomplishments Endorsements News Contact Contribute Home Need Help?
+About Julie Legislation Accomplishments Endorsements News Contact Contribute Julie Palakovich Carr December 19, 2025 Scholarship Applications Now Being Accepted for 2026-2027 Julie Palakovich Carr December 19, 2025 Applications are now being accepted for the Delegate Julie Palakovich Carr Scholarship.
 The scholarship is open to residents of Maryland's 17th legislative district (Gaithersburg and Rockville) who are full-time or part-time students.
 Each member of the Maryland General Assembly provides scholarships to Maryland residents, although our application processes vary.
 My office awards funds through four mechanisms: 1) directly to students on the basis of financial need, 2) directly to displaced federal workers and contractors, 3) through the Universities at Shady Grove, and 4) through the Montgomery County branch of the NAACP.
@@ -11,4 +13,5 @@ The Maryland Higher Education Commission must identify your major as â€œuniqueâ€
 Any District 17 resident may apply for the scholarship, regardless of citizenship status, so long as they qualify for in-state tuition.
 Finally, please note that the scholarship is for a single academic year.
 Prior recipients must reapply each year.
-More information about the needs based scholarship and scholarship for displaced federal workers is available here.
+More information about the needs based scholarship and scholarship for displaced federal workers is available here .
+Newer Post Summary of the 2026 Legislative Session Older Post New Scholarship Opportunity for Displaced Federal Workers Back to Top Authorized by Friends of Julie Palakovich Carr, Treasurer Yamil Hernandez Contact Julie at Julie@JuliePalakovichCarr.com

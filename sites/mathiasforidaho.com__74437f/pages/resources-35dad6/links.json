@@ -1,18 +1,74 @@
 [
-"https://department.va.gov/grants",
-"https://donate.fundhero.io/chrismathias",
-"https://facebook.com/mathiasforidaho",
-"https://healthandwelfare.idaho.gov/services-programs/behavioral-health",
-"https://healthandwelfare.idaho.gov/services-programs/financial-assistance",
-"https://healthandwelfare.idaho.gov/services-programs/food-assistance",
-"https://healthandwelfare.idaho.gov/services-programs/medicaid-health",
-"https://ifhcidaho.org/",
-"https://instagram.com/mathiasforidaho",
-"https://jessetreeidaho.org/",
-"https://mathiasforidaho.com/",
-"https://mathiasforidaho.com/about",
-"https://mathiasforidaho.com/cart",
-"https://medicareplans.com/seniors-medicare-and-medicaid-enrollees",
-"https://retireguide.com/retirement-life-leisure/senior-housing/aging-in-place/meals-on-wheels",
-"https://tax.idaho.gov/i-1052.cfm"
+{
+"text": "0",
+"href": "https://mathiasforidaho.com/cart"
+},
+{
+"text": "About Chris",
+"href": "https://mathiasforidaho.com/about"
+},
+{
+"text": "Behavioral Health",
+"href": "https://healthandwelfare.idaho.gov/services-programs/behavioral-health"
+},
+{
+"text": "Circuit Breaker",
+"href": "https://tax.idaho.gov/i-1052.cfm"
+},
+{
+"text": "Donate",
+"href": "https://donate.fundhero.io/chrismathias"
+},
+{
+"text": "Eviction",
+"href": "https://www.jessetreeidaho.org/"
+},
+{
+"text": "Financial Assistance",
+"href": "https://healthandwelfare.idaho.gov/services-programs/financial-assistance"
+},
+{
+"text": "Food Assistance",
+"href": "https://healthandwelfare.idaho.gov/services-programs/food-assistance"
+},
+{
+"text": "Grants for Veterans",
+"href": "https://department.va.gov/grants/"
+},
+{
+"text": "Idaho Suicide Prevention Hotline (all ages - call or text)",
+"href": "tel:+12083984357"
+},
+{
+"text": "Intermountain Fair Housing",
+"href": "https://ifhcidaho.org"
+},
+{
+"text": "Meals on Wheels",
+"href": "https://www.retireguide.com/retirement-life-leisure/senior-housing/aging-in-place/meals-on-wheels/"
+},
+{
+"text": "Medicaid and Health",
+"href": "https://healthandwelfare.idaho.gov/services-programs/medicaid-health"
+},
+{
+"text": "Medicare and Medicaid Guide for Low-Income Recipients",
+"href": "https://www.medicareplans.com/seniors-medicare-and-medicaid-enrollees/"
+},
+{
+"text": "Prevention Resource",
+"href": "https://www.jessetreeidaho.org"
+},
+{
+"text": "[image: Mathias for Idaho]",
+"href": "https://mathiasforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mathiasforidaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mathiasforidaho/"
+}
 ]

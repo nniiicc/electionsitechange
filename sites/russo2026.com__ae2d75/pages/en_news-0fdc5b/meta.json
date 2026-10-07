@@ -1,7 +1,11 @@
 {
- "description": "Campaign news and public statements from Russo\u2013Rodriguez 2026.",
+ "description": "Campaign news and public statements from Russo–Rodriguez 2026.",
  "final_url": "https://russo2026.com/en/news",
- "paid_for_by": null,
- "title": "News | Russo\u2013Rodriguez 2026",
- "years_mentioned": []
+ "fingerprint": "e01b2f1277b2d1484b794c4b28a7197b14b65013",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "News | Russo–Rodriguez 2026",
+ "years_mentioned": [
+  "2026"
+ ]
 }

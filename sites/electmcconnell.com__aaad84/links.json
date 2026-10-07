@@ -1,5 +1,22 @@
 [
-"https://electmcconnell.com/cdn-cgi/l/email-protection",
-"https://facebook.com/electmcconnell",
-"https://secure.anedot.com/campaign-to-elect-robert-s-mcconnell/donate"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/campaign-to-elect-robert-s-mcconnell/donate"
+},
+{
+"text": "Email",
+"href": "mailto:info@electmcconnell.com"
+},
+{
+"text": "FACEBOOK PAGE",
+"href": "https://www.facebook.com/electmcconnell/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/electmcconnell/"
+},
+{
+"text": "[email protected]",
+"href": "https://electmcconnell.com/cdn-cgi/l/email-protection"
+}
 ]

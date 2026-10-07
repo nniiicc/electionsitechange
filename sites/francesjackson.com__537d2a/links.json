@@ -1,14 +1,54 @@
 [
-"https://facebook.com/jacksonfornc45",
-"https://francesjackson.com/",
-"https://francesjackson.com/donate",
-"https://francesjackson.com/join-the-campaign",
-"https://francesjackson.com/meet-frances",
-"https://francesjackson.com/priorities",
-"https://secure.actblue.com/donate/francesnc-website",
-"https://secure.actblue.com/donate/francesnc-website?amount=100",
-"https://secure.actblue.com/donate/francesnc-website?amount=25",
-"https://secure.actblue.com/donate/francesnc-website?amount=250",
-"https://secure.actblue.com/donate/francesnc-website?amount=50",
-"https://twitter.com/jacksonfornc45"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/francesnc-website?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/francesnc-website?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/francesnc-website?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/francesnc-website?amount=50"
+},
+{
+"text": "Donate",
+"href": "https://francesjackson.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/jacksonfornc45"
+},
+{
+"text": "Home",
+"href": "https://francesjackson.com"
+},
+{
+"text": "Join",
+"href": "https://francesjackson.com/join-the-campaign/"
+},
+{
+"text": "Meet Frances",
+"href": "https://francesjackson.com/meet-frances/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/francesnc-website"
+},
+{
+"text": "Priorities",
+"href": "https://francesjackson.com/priorities/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/jacksonfornc45"
+},
+{
+"text": "[image: Frances Jackson Logo]",
+"href": "https://francesjackson.com"
+}
 ]

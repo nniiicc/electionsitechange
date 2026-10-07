@@ -1,26 +1,110 @@
 [
-"http://instagram.com/proven4Oklahoma",
-"http://twitter.com/proven4oklahoma",
-"https://campaignpartner.com/",
-"https://facebook.com/proven4oklahoma",
-"https://fox23.com/news/state-lawmakers-override-governor-stitts-veto-of-bill-expanding-diagnostic-mammography-access/article_1416d45d-b450-4e25-a110-0b529e6c4cb3.html",
-"https://kfor.com/news/oklahoma-legislature/oklahoma-gov-signs-bill-requiring-insurance-coverage-of-diagnostic-mammograms",
-"https://kfor.com/news/oklahoma-legislature/oklahoma-lawmakers-advance-bill-requiring-insurance-coverage-of-diagnostic-mammograms",
-"https://koco.com/article/kevin-stitt-signs-grocery-tax-cut-bill/46986589",
-"https://oag.ok.gov/oklahoma-student-borrowers-bill-rights-act",
-"https://okhouse.gov/posts/news-20230323_6",
-"https://proven4oklahoma.com/",
-"https://proven4oklahoma.com/about_melissa",
-"https://proven4oklahoma.com/contact",
-"https://proven4oklahoma.com/contribute",
-"https://proven4oklahoma.com/home",
-"https://proven4oklahoma.com/issues",
-"https://proven4oklahoma.com/news/provenzano-appointed-to-house-democratic-leaderhship-team",
-"https://proven4oklahoma.com/news/provenzano-appointed-to-loft-commission",
-"https://proven4oklahoma.com/newsletters",
-"https://proven4oklahoma.com/volunteer",
-"https://proven4oklahoma.com/vote",
-"https://proven4oklahoma.com/wins",
-"https://sequoyahcountytimes.com/news/mammogram-legislation-passes-committee",
-"https://southwestledger.news/news/new-state-law-will-create-exceptions-occupational-licenses"
+{
+"text": "Bio",
+"href": "https://www.proven4oklahoma.com/about_melissa"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.proven4oklahoma.com/contribute"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Capitol Updates",
+"href": "https://www.proven4oklahoma.com/newsletters"
+},
+{
+"text": "Contact",
+"href": "https://www.proven4oklahoma.com/contact"
+},
+{
+"text": "Diagnostic Mammogram Bill Passes the House",
+"href": "https://www.sequoyahcountytimes.com/news/mammogram-legislation-passes-committee"
+},
+{
+"text": "Diagnostic Mammogram Bill Passes the Senate",
+"href": "https://kfor.com/news/oklahoma-legislature/oklahoma-lawmakers-advance-bill-requiring-insurance-coverage-of-diagnostic-mammograms/"
+},
+{
+"text": "Full Coverage for Diagnostic Mammograms now law",
+"href": "https://kfor.com/news/oklahoma-legislature/oklahoma-gov-signs-bill-requiring-insurance-coverage-of-diagnostic-mammograms/"
+},
+{
+"text": "Home",
+"href": "https://www.proven4oklahoma.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.proven4oklahoma.com/issues"
+},
+{
+"text": "Key Wins",
+"href": "https://www.proven4oklahoma.com/wins"
+},
+{
+"text": "Provenzano Appointed to House Democratic Leadership Team",
+"href": "https://www.proven4oklahoma.com/news/provenzano-appointed-to-house-democratic-leaderhship-team"
+},
+{
+"text": "Provenzano Appointed to LOFT Commission",
+"href": "https://www.proven4oklahoma.com/news/provenzano-appointed-to-loft-commission"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.proven4oklahoma.com/volunteer"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.proven4oklahoma.com/vote"
+},
+{
+"text": "Voter Information",
+"href": "https://www.proven4oklahoma.com/vote"
+},
+{
+"text": "YARD SIGN",
+"href": "https://www.proven4oklahoma.com/contact"
+},
+{
+"text": "YARD SIGN (Free!)",
+"href": "https://www.proven4oklahoma.com/contact"
+},
+{
+"text": "[image]",
+"href": "https://www.proven4oklahoma.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/proven4Oklahoma"
+},
+{
+"text": "[no text]",
+"href": "http://www.twitter.com/proven4oklahoma"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/proven4oklahoma/"
+},
+{
+"text": "getting rid of the state portion of the grocery tax",
+"href": "https://www.koco.com/article/kevin-stitt-signs-grocery-tax-cut-bill/46986589"
+},
+{
+"text": "increasing access to diagnostic mammograms",
+"href": "https://www.fox23.com/news/state-lawmakers-override-governor-stitts-veto-of-bill-expanding-diagnostic-mammography-access/article_1416d45d-b450-4e25-a110-0b529e6c4cb3.html"
+},
+{
+"text": "separating occupational licensure renewals from tax status",
+"href": "https://www.southwestledger.news/news/new-state-law-will-create-exceptions-occupational-licenses#:~:text=OKLAHOMA%20CITY%20%E2%80%94%20A%20new%20state,whose%20taxes%20are%20in%20arrears."
+},
+{
+"text": "streamlining teacher professional development requirements",
+"href": "https://www.okhouse.gov/posts/news-20230323_6"
+},
+{
+"text": "student loan transparency",
+"href": "https://www.oag.ok.gov/oklahoma-student-borrowers-bill-rights-act"
+}
 ]

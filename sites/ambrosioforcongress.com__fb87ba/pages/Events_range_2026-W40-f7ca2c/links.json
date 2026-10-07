@@ -1,15 +1,58 @@
 [
-"https://ambrosioforcongress.com/",
-"https://ambrosioforcongress.com/Events?range=2026-10",
-"https://ambrosioforcongress.com/Events?range=2026-10-05",
-"https://ambrosioforcongress.com/Events?range=2026-W39",
-"https://ambrosioforcongress.com/Events?range=2026-W41",
-"https://ambrosioforcongress.com/contribute",
-"https://ambrosioforcongress.com/events",
-"https://ambrosioforcongress.com/home",
-"https://ambrosioforcongress.com/issues",
-"https://ambrosioforcongress.com/press_room",
-"https://ambrosioforcongress.com/volunteer",
-"https://campaignpartner.com/",
-"https://facebook.com/ralphambrosioforcongress"
+{
+"text": "#ago",
+"href": "https://ambrosioforcongress.com/Events?range=%23"
+},
+{
+"text": "Contribute",
+"href": "https://ambrosioforcongress.com/contribute"
+},
+{
+"text": "Events & Appearances",
+"href": "https://ambrosioforcongress.com/events"
+},
+{
+"text": "Home",
+"href": "https://ambrosioforcongress.com/home"
+},
+{
+"text": "Issues",
+"href": "https://ambrosioforcongress.com/issues"
+},
+{
+"text": "Next ›",
+"href": "https://ambrosioforcongress.com/Events?range=2026-W41"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Press Room",
+"href": "https://ambrosioforcongress.com/press_room"
+},
+{
+"text": "This Month",
+"href": "https://ambrosioforcongress.com/Events?range=2026-10"
+},
+{
+"text": "This Week",
+"href": "https://ambrosioforcongress.com/Events?range=2026-W41"
+},
+{
+"text": "Volunteer",
+"href": "https://ambrosioforcongress.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://ambrosioforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ralphambrosioforcongress/"
+},
+{
+"text": "‹ Previous",
+"href": "https://ambrosioforcongress.com/Events?range=2026-W39"
+}
 ]

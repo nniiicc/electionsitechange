@@ -1,14 +1,82 @@
 [
-"http://wix.com/",
-"https://fixny.net/",
-"https://fixny.net/blog",
-"https://fixny.net/gallery",
-"https://fixny.net/get-involved",
-"https://fixny.net/meet-thomas",
-"https://fixny.net/platform",
-"https://fixny.net/post/campaign-statement",
-"https://fixny.net/post/last-day-of-early-voting",
-"https://fixny.net/post/vote-no-on-proposition-1",
-"https://nypost.com/2024/10/31/us-news/chilean-shooter-charged-in-ny-teens-murder-is-illegal-immigrant-previously-deported-20-years-ago-ice",
-"https://secure.winred.com/fix-new-york/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+{
+"text": "All Posts",
+"href": "https://www.fixny.net/blog"
+},
+{
+"text": "Campaign Statement",
+"href": "https://www.fixny.net/post/campaign-statement"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/fix-new-york/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+},
+{
+"text": "GALLERY",
+"href": "https://www.fixny.net/gallery"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.fixny.net/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.fixny.net"
+},
+{
+"text": "Last Day of Early Voting",
+"href": "https://www.fixny.net/post/last-day-of-early-voting"
+},
+{
+"text": "MEET THOMAS",
+"href": "https://www.fixny.net/meet-thomas"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.fixny.net/platform"
+},
+{
+"text": "See All",
+"href": "https://www.fixny.net/blog"
+},
+{
+"text": "THOMAS FIX",
+"href": "https://www.fixny.net"
+},
+{
+"text": "UPDATES",
+"href": "https://www.fixny.net/blog"
+},
+{
+"text": "Vote NO on Proposition 1",
+"href": "https://www.fixny.net/post/vote-no-on-proposition-1"
+},
+{
+"text": "Wix.com",
+"href": "http://wix.com"
+},
+{
+"text": "[image: Campaign Statement]",
+"href": "https://www.fixny.net/post/campaign-statement"
+},
+{
+"text": "[image: Last Day of Early Voting]",
+"href": "https://www.fixny.net/post/last-day-of-early-voting"
+},
+{
+"text": "[image: Vote NO on Proposition 1]",
+"href": "https://www.fixny.net/post/vote-no-on-proposition-1"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/fix-new-york/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+},
+{
+"text": "for State Senate",
+"href": "https://www.fixny.net"
+},
+{
+"text": "https://nypost.com/2024/10/31/us-news/chilean-shooter-charged-in-ny-teens-murder-is-illegal-immigrant-previously-deported-20-years-ago-ice/",
+"href": "https://nypost.com/2024/10/31/us-news/chilean-shooter-charged-in-ny-teens-murder-is-illegal-immigrant-previously-deported-20-years-ago-ice/"
+}
 ]

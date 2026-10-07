@@ -1,4 +1,4 @@
-Keeping you in the know…
-I know the importance of keeping Georgians, especially citizens in district 28, well informed.
+Home Meet Matt About Committee Service Sponsored Legislation Issues News Press Kit Newsletter Updates Volunteer Newsletter Updates Keeping you in the know… I know the importance of keeping Georgians, especially citizens in district 28, well informed.
 If you are interested in following what goes on Under the Gold Dome, as well as, what I am doing on behalf of our district, please sign-up to receive monthly updates year-round and session updates bi-weekly.
 Click here to sign up for my newsletter updates!
+2020 Updates Session Preview Week One Week Two Weeks Three & Four Weeks Five & Six Week Nine SBA Relief COVID-19 Update COVID-19 Update- Reopening COVID-19 Update- Executive Order Weeks Ten & Eleven 2019 Updates Week One Week Two Weeks Three/Four Weeks Five/Six Week Seven Week Eight Week Nine Weeks Ten/Eleven Session/Sponsored Legislation Session Overview Slideshow News Laws go into effect Education Initiatives Public Safety 2018 Updates Week One Week Two Week Three Week Four Week Five Week Six Week Seven Week Eight Week Nine Week Ten Weeks Eleven & Twelve Study Committee Update Education Update Public Safety Update Opinion Editorial Update Home Meet Matt Issues News Volunteer

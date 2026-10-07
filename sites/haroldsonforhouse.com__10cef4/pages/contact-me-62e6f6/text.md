@@ -1,4 +1,2 @@
-Contact Me.
-If you have any questions or concerns, please feel free to connect with me!
-jharoldson.impact@hotmail.com
-(307) 331-2310
+0 Skip to Content Jeremy Haroldson for Wyoming House District #4 About Gallery Donations Contact Me Open Menu Close Menu Jeremy Haroldson for Wyoming House District #4 About Gallery Donations Contact Me Open Menu Close Menu About Gallery Donations Contact Me Contact Me.
+If you have any questions or concerns, please feel free to connect with me! jharoldson.impact@hotmail.com (307) 331-2310 Jeremy Haroldson jharoldson.impact@hotmail.com (307) 331-2310 Made with Squarespace

@@ -1,7 +1,9 @@
 {
  "description": "Reelection website for Georgia State Senator Gail Davenport",
  "final_url": "https://gailforgeorgia.com/",
- "paid_for_by": null,
+ "fingerprint": "15ac2443a01939f6a3269a40bb290ac34e67431e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "The Committee to Elect Gail Davenport",
  "years_mentioned": []
 }

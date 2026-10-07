@@ -1,17 +1,15 @@
-What the Flock?
-Flock Safety is a tech company that uses a combination of Automated License-Plate Readers (ALPR), hi-resolution video surveillance, audio detection including a gun-fire locator, and AI to analyze it all on a cloud-based platform.
+0 Skip to Content Home Platform Blog Contact Donate Now Open Menu Close Menu Home Platform Blog Contact Donate Now Open Menu Close Menu Home Platform Blog Contact Donate Now What the Flock?
+Feb 16 Written By Michael Clarkson Flock Safety is a tech company that uses a combination of Automated License-Plate Readers (ALPR), hi-resolution video surveillance, audio detection including a gun-fire locator, and AI to analyze it all on a cloud-based platform.
 The sales pitch they offer cities and homeowners’ associations is compelling.
 They claim to be able to help solve crimes from porch pirates to kidnapping.
 They can track anyone.
 The use cases they present are compelling.
 I honestly can see why so many communities have signed up.
-“To solve and eliminate crime – you need evidence.” - Flock Safety motto
-The case looks clear cut.
+“To solve and eliminate crime – you need evidence.” - Flock Safety motto The case looks clear cut.
 No more porch pirates getting away with your packages.
 Kidnappers tracked and apprehended before they can harm the children.
 What could go wrong?
-What went wrong
-Flock systems watch every move in the communities they surveil.
+What went wrong Flock systems watch every move in the communities they surveil.
 But who is watching Flock Safety?
 Turns out, just about anyone can.
 Right here in Douglas County, CO, researchers discovered a number of Flock cameras streaming live on the public internet with no authentication.
@@ -33,8 +31,7 @@ Cities and communities who did not sign on to cooperate with DHS are having thei
 People are being tracked without their knowledge or consent.
 Not just immigrants.
 The LGBTQIA+ community, American citizens who speak languages other than English, people of color, and those who exercise their First Amendment rights to speak out against this lawless administration are being tracked.
-Palantir
-Teaming up with Flock Safety is Palantir, a tech company providing the data-analytics component for law enforcement agencies to quickly aggregate and search the data from Flock devices.
+Palantir Teaming up with Flock Safety is Palantir, a tech company providing the data-analytics component for law enforcement agencies to quickly aggregate and search the data from Flock devices.
 Using AI they claim they can use predictive-policing.
 Any fans of science fiction dystopian futures probably just had a chill shoot up their spine.
 It is real, and it is here.
@@ -56,3 +53,4 @@ Bring in lawyers if you must.
 If the argument for keeping Flock is crime prevention, there are plenty of companies that offer surveillance that is more secure and not being sold to a lawless administration.
 I know this is scary but we can fix this.
 We can if we stand and move forward, together.
+Michael Clarkson Previous Previous Putting the choice in pro-choice Next Next Together © Mike For 45 Campaign, 2026 campaign@mikefor45.com

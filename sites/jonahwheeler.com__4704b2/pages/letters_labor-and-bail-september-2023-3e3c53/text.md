@@ -1,5 +1,6 @@
-September 2023 Letter
-The AFL-CIO of New Hampshire holds an annual labor day breakfast in Manchester at the Holiday Inn conference center.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Labor and Bail Labor and Bail Labor and Bail Oct 1, 2023 Oct 1, 2023 September 2023 Letter Labor Breakfast - 4 September 2023 - Taken by Rep.
+Kris Shultz Labor Breakfast - 4 September 2023 - Taken by Rep.
+Kris Shultz The AFL-CIO of New Hampshire holds an annual labor day breakfast in Manchester at the Holiday Inn conference center.
 It is an early morning, but entirely worth it.
 Bringing together all the union members, elected officials, and citizens in support of labor rights for our working people in the State.
 The Unions are unafraid to hold the fire to the feet of those elected saying they will support the workers.
@@ -13,7 +14,7 @@ After the breakfast, we went to Milford to march in their labor day parade.
 It was a scorching hot, but energizing day.
 New Hampshire has a long tradition of working people fighting to get more than scraps.
 We continue that tradition by honoring our unions and working people this month of September.
-The subcommittee on the bail system met five times throughout the month.
+Bill and Jonah - 5 September 2023 - Milford, NH - Unknown credit Bill and Jonah - 5 September 2023 - Milford, NH - Unknown credit The subcommittee on the bail system met five times throughout the month.
 For a total of fourteen hours of testimony.
 We heard testimony from the Manchester Chief of Police, who spoke to us on his first hand experience with the current bail system, and relayed stories from his department on what they are seeing in Manchester.
 He told us about the way they approach mental health incidents and what treatments are available for them.
@@ -31,4 +32,5 @@ It was a warm introduction to the fall with community events, actions, and speec
 Good work done on a subcommittee and a fantastic tour of the State House with my Father.
 I don’t think I have truly had the time yet to reflect on the last year of the whirlwind, but as the anniversary of my primary victory passes I find myself with a strong sense of gratitude for the responsibility I’ve been entrusted with for this biennium.
 Thank you.
-Back to all
+Pops and Jonah - 12 September 2023 - 11:05 - Concord, NH - Taken by Pops.
+Pops and Jonah - 12 September 2023 - 11:05 - Concord, NH - Taken by Pops. ‹ Tragedy ‹ Tragedy ‹ Tragedy Summertime, and the Livin’s Easy › Summertime, and the Livin’s Easy › Summertime, and the Livin’s Easy › Back to all

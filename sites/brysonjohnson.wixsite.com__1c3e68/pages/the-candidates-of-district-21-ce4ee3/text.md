@@ -1,39 +1,24 @@
+top of page Donate to Help Reach Cary and Apex Voters Bryson Johnson for NC House District 21 About Bryson About District 21 Donate Socials Facebook Instagram Youtube About NC Representatice Ya Liu The Candidates of District 21 HOW ARE YOU DIFFERENT?
+Blog Asian Americans for Bryson Bryson refuses all PAC money.
+When you donate, you fund a campaign run FOR THE PEOPLE, not SPECIAL INTERESTS!
 Who Is Running for NC House District 21 in 2026?
 North Carolina House District 21 is one of the most closely watched state legislative races in Wake County this cycle.
 The district covers significant portions of Cary and Apex — two of the fastest-growing communities in North Carolina — and the 2026 election will determine who represents tens of thousands of families in Raleigh.
-Cary and Apex Voters deserve real leadership.
-Here's what voters in Cary and Apex need to know about the candidates running for NC House District 21 in 2026.
-The Candidates
-Bryson Johnson (Republican)
-Bryson is challenging for the District 21 seat.
+Cary and Apex Voters deserve real leadership. ​ Here's what voters in Cary and Apex need to know about the candidates running for NC House District 21 in 2026. ​ The Candidates ​ Bryson Johnson (Republican) Bryson is challenging for the District 21 seat.
 A 20-year resident and business owner within the district, Johnson has spent two decades teaching martial arts and leadership to thousands of children in Cary and Apex.
 He also works professionally as a cybersecurity engineer protecting critical healthcare, military, and government infrastructure — a background that included a Top Secret security clearance.
 Johnson is running as an independent-minded Republican who refuses all PAC money, arguing that campaigns funded by special interest groups cannot truly represent the people who live in the district.
-He describes himself as a candidate for the "exhausted majority" — the roughly 86% of Americans who do not identify with the far right or far left.
-Ya Liu (Democrat)
-Ya Liu is the incumbent representative for NC House District 21.
+He describes himself as a candidate for the "exhausted majority" — the roughly 86% of Americans who do not identify with the far right or far left. ​ Ya Liu (Democrat) Ya Liu is the incumbent representative for NC House District 21.
 Liu has served in the NC House and is seeking re-election.
 Prior to her time in office, Liu worked as an attorney.
 Her law license was the subject of a discipline order by the NC State Bar, which imposed a two-year stayed suspension related to financial trust account mismanagement — a matter that has become a central issue in this race.
 Liu has also faced scrutiny over her refusal to condemn remarks made by Texas Democrat Gene Wu, who campaigned for her in Cary.
-Liu also accepts PAC money.
-Why District 21 Matters in 2026
-NC House District 21 reflects the broader story of Wake County — a rapidly growing, economically dynamic, and culturally diverse community.
+Liu also accepts PAC money. ​ Why District 21 Matters in 2026 NC House District 21 reflects the broader story of Wake County — a rapidly growing, economically dynamic, and culturally diverse community.
 Nearly 40% of residents in parts of Cary and Apex identify as Asian, representing families from across the world who have built their lives here.
-The district is home to technology professionals, small business owners, educators, and healthcare workers who care deeply about issues like school quality, public safety, housing affordability, and ethical leadership.
-The outcome of the District 21 race will have direct consequences for how these communities are represented in the NC General Assembly — including decisions on education funding, local infrastructure, business regulation, and more.
-What Separates the Candidates
-The 2026 District 21 race offers voters a genuine contrast in backgrounds and approaches to public service.
+The district is home to technology professionals, small business owners, educators, and healthcare workers who care deeply about issues like school quality, public safety, housing affordability, and ethical leadership. ​ The outcome of the District 21 race will have direct consequences for how these communities are represented in the NC General Assembly — including decisions on education funding, local infrastructure, business regulation, and more. ​ What Separates the Candidates The 2026 District 21 race offers voters a genuine contrast in backgrounds and approaches to public service.
 Bryson Johnson's case to voters centers on two decades of demonstrated service within the district itself — not as a politician, but as a neighbor, teacher, and business owner who has worked alongside the same families he is now asking to represent.
-He emphasizes that he will not accept PAC money under any circumstances, that he has never required professional oversight or discipline, and that his experience in cybersecurity gives him a practical understanding of the critical infrastructure issues facing North Carolina.
-Ya Liu's campaign rests on her incumbency and her record in the NC House, though her legal discipline history and the Gene Wu controversy have complicated her standing with some voters in the district.
-How to Learn More
-Voters in Cary and Apex who want to research the 2026 NC House District 21 race can visit the following resources:
-- Bryson Johnson's campaign site: brysonfornc.com
-- NC State Board of Elections: ncsbe.gov — for voter registration, polling locations, and official candidate filings
-- Ballotpedia — Bryson Johnson: ballotpedia.org/Bryson_Johnson
-- NC Bar Discipline Record for Ya Liu: Available at ncbar.gov
-The 2026 general election is scheduled for November 3, 2026.
+He emphasizes that he will not accept PAC money under any circumstances, that he has never required professional oversight or discipline, and that his experience in cybersecurity gives him a practical understanding of the critical infrastructure issues facing North Carolina. ​ Ya Liu's campaign rests on her incumbency and her record in the NC House, though her legal discipline history and the Gene Wu controversy have complicated her standing with some voters in the district. ​ How to Learn More Voters in Cary and Apex who want to research the 2026 NC House District 21 race can visit the following resources: Bryson Johnson's campaign site: brysonfornc.com NC State Board of Elections: ncsbe.gov — for voter registration, polling locations, and official candidate filings Ballotpedia — Bryson Johnson: ballotpedia.org/Bryson_Johnson NC Bar Discipline Record for Ya Liu: Available at ncbar.gov The 2026 general election is scheduled for November 3, 2026.
 Early voting and absentee ballot deadlines will be published by the Wake County Board of Elections closer to the election date.
 Paid for by Committee to Elect Bryson Johnson.
 Bryson Johnson, Candidate.
+Bryson Johnson - FOR NC STATE HOUSE- DISTRICT 21 PAID FOR BY COMMITTEE TO ELECT BRYSON JOHNSON © # by Committee to Elect Bryson Johnson BrysonForNC@gmail.com Call or Text: 919-396-4244 bottom of page

@@ -1,54 +1,222 @@
 [
-"http://utilityfairnessnow.org/",
-"https://314action.org/",
-"https://cfequality.org/",
-"https://equalitync.org/",
-"https://facebook.com/314Action",
-"https://facebook.com/FreethoughtEquality",
-"https://facebook.com/IAmInseparable",
-"https://facebook.com/MomsDemandAction",
-"https://facebook.com/NCProgressiveCaucus",
-"https://facebook.com/PlannedParenthoodAction",
-"https://facebook.com/equalitync",
-"https://facebook.com/jenwilesnchouse",
-"https://facebook.com/lillianslist",
-"https://facebook.com/runforsomethingpac",
-"https://facebook.com/wearencae",
-"https://greatpublicschoolsfund.org/",
-"https://instagram.com/314_action",
-"https://instagram.com/equalitync",
-"https://instagram.com/freethoughtequality",
-"https://instagram.com/iaminseparable",
-"https://instagram.com/jenwilesnchouse",
-"https://instagram.com/lillianslist",
-"https://instagram.com/momsdemand",
-"https://instagram.com/momsfornc?hl=en",
-"https://instagram.com/ncprogressivecaucus",
-"https://instagram.com/ppact",
-"https://instagram.com/runforsomethingnow",
-"https://instagram.com/utilityfairnessnow",
-"https://instagram.com/wearencae",
-"https://jenwilesnchouse.com/",
-"https://jenwilesnchouse.com/about",
-"https://jenwilesnchouse.com/contact",
-"https://jenwilesnchouse.com/endorsements",
-"https://jenwilesnchouse.com/priorities",
-"https://jenwilesnchouse.com/privacy-policy",
-"https://jenwilesnchouse.com/terms-and-conditions",
-"https://lillianslist.org/",
-"https://mentalhealthnow.us/",
-"https://momsdemandaction.org/",
-"https://ncnowpac.org/",
-"https://pcncdp.org/",
-"https://plannedparenthoodaction.org/",
-"https://runforsomething.net/",
-"https://threads.com/@equalitync",
-"https://threads.com/@jenwilesnchouse",
-"https://threads.com/@lillianslist",
-"https://threads.com/@momsdemand",
-"https://tiktok.com/@jenwilesnchouse",
-"https://tiktok.com/@lillianslist",
-"https://tiktok.com/@momsdemand",
-"https://tiktok.com/@plannedparenthoodaction",
-"https://tiktok.com/@runforsomething"
+{
+"text": "About",
+"href": "https://www.jenwilesnchouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.jenwilesnchouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.jenwilesnchouse.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jenwilesnchouse.com/endorsements"
+},
+{
+"text": "FOR NC HOUSE 75",
+"href": "https://www.jenwilesnchouse.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jenwilesnchouse.com"
+},
+{
+"text": "Jen Wiles",
+"href": "https://www.jenwilesnchouse.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.jenwilesnchouse.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jenwilesnchouse.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.jenwilesnchouse.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/314Action/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/FreethoughtEquality/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/IAmInseparable/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MomsDemandAction/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/NCProgressiveCaucus"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/PlannedParenthoodAction/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/equalitync"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/jenwilesnchouse"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/lillianslist"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/runforsomethingpac/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wearencae"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/314_action/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/equalitync"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/freethoughtequality/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/iaminseparable/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jenwilesnchouse/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/lillianslist/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/momsdemand/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/momsfornc/?hl=en"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/ncprogressivecaucus/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/ppact/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/runforsomethingnow"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/utilityfairnessnow/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wearencae/"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@jenwilesnchouse"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@lillianslist"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@momsdemand"
+},
+{
+"text": "[image: Threads]",
+"href": "https://www.threads.com/@equalitync"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@jenwilesnchouse"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@lillianslist"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@momsdemand"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@plannedparenthoodaction"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@runforsomething"
+},
+{
+"text": "http://utilityfairnessnow.org/",
+"href": "http://utilityfairnessnow.org/"
+},
+{
+"text": "https://314action.org/",
+"href": "https://314action.org/"
+},
+{
+"text": "https://equalitync.org/",
+"href": "https://equalitync.org/"
+},
+{
+"text": "https://lillianslist.org/",
+"href": "https://lillianslist.org/"
+},
+{
+"text": "https://mentalhealthnow.us/",
+"href": "https://mentalhealthnow.us/"
+},
+{
+"text": "https://momsdemandaction.org/",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "https://ncnowpac.org/",
+"href": "https://ncnowpac.org/"
+},
+{
+"text": "https://runforsomething.net/",
+"href": "https://runforsomething.net/"
+},
+{
+"text": "https://www.cfequality.org/",
+"href": "https://www.cfequality.org/"
+},
+{
+"text": "https://www.greatpublicschoolsfund.org/",
+"href": "https://www.greatpublicschoolsfund.org/"
+},
+{
+"text": "https://www.pcncdp.org/",
+"href": "https://www.pcncdp.org/"
+},
+{
+"text": "https://www.plannedparenthoodaction.org/",
+"href": "https://www.plannedparenthoodaction.org/"
+}
 ]

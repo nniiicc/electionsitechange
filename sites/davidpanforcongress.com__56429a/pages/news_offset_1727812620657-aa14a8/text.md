@@ -1,12 +1,8 @@
-News
-Campaign Updates
-ENDORSEMENTS
-Endorsed by Congresswoman Michelle Steel, representing California's 45th district
-ENDORSEMENTS
-Endorsed by Tony Strickland, City Councilman and Former Mayor of Huntington Beach
-Arrest Students Who Break the Law
-See my opinion piece at the Orange County Register about how DEI contributes to bigotry and the University of California.
-It’s Time to Eliminate - and Strategically Replace - Our Nation’s Welfare Programs
-See my opinion piece at the Orange County Register about how DEI contributes to bigotry and the University of California.
-Endorsements
-Endorsed by James Mai and the Orange County Republican Party AAPI Engagement Committee
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate News Campaign Updates Guest User 9/2/24 Guest User 9/2/24 ENDORSEMENTS Endorsed by the American Independent Party of California Read More Guest User 8/22/24 Guest User 8/22/24 ENDORSEMENTS Endorsed by Congresswoman Michelle Steel, representing California's 45th district Read More David Pan 6/9/24 David Pan 6/9/24 2024 Campaign Kickoff Reception Read More Guest User 5/19/24 Guest User 5/19/24 ENDORSEMENTS Endorsed by Tony Strickland, City Councilman and Former Mayor of Huntington Beach Read More David Pan 5/6/24 David Pan 5/6/24 Arrest Students Who Break the Law See my opinion piece at the Orange County Register about how DEI contributes to bigotry and the University of California.
+Read More Guest User 4/22/24 Guest User 4/22/24 ENDORSEMENTS Endorsed by Will O'Neill, Mayor of Newport Beach Read More David Pan 4/21/24 David Pan 4/21/24 It’s Time to Eliminate - and Strategically Replace - Our Nation’s Welfare Programs See my opinion piece at the Orange County Register about how DEI contributes to bigotry and the University of California.
+Read More David Pan 3/1/24 David Pan 3/1/24 Endorsements Endorsed by James Mai and the Orange County Republican Party AAPI Engagement Committee Read More Newer Posts Older Posts Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

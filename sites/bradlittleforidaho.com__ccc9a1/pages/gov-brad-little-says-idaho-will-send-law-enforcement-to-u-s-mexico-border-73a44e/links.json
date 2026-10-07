@@ -1,13 +1,50 @@
 [
-"https://bradlittleforidaho.com/",
-"https://bradlittleforidaho.com/accomplishments",
-"https://bradlittleforidaho.com/meet-brad",
-"https://bradlittleforidaho.com/privacy-policy",
-"https://bradlittleforidaho.com/updates",
-"https://bradlittleforidaho.com/volunteer",
-"https://emacweb.org/",
-"https://facebook.com/BRAD-LITTLE-for-Idaho-134983589848425",
-"https://gov.idaho.gov/wp-content/uploads/sites/74/2021/06/ducey-abbott-border.pdf",
-"https://idahostatesman.com/news/politics-government/state-politics/article252181123.html",
-"https://secure.winred.com/brad-little-for-governor/donate"
+{
+"text": "Accomplishments",
+"href": "https://www.bradlittleforidaho.com/accomplishments/"
+},
+{
+"text": "Back",
+"href": "https://www.bradlittleforidaho.com/updates/"
+},
+{
+"text": "CHIP IN",
+"href": "https://secure.winred.com/brad-little-for-governor/donate"
+},
+{
+"text": "Emergency Management Assistance Compact",
+"href": "https://www.emacweb.org/"
+},
+{
+"text": "Meet Brad",
+"href": "https://www.bradlittleforidaho.com/meet-brad/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bradlittleforidaho.com/privacy-policy"
+},
+{
+"text": "Read the full article by the Idaho Statesman here.",
+"href": "https://www.idahostatesman.com/news/politics-government/state-politics/article252181123.html"
+},
+{
+"text": "Updates",
+"href": "https://www.bradlittleforidaho.com/updates"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bradlittleforidaho.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://www.bradlittleforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BRAD-LITTLE-for-Idaho-134983589848425/"
+},
+{
+"text": "the letter",
+"href": "https://gov.idaho.gov/wp-content/uploads/sites/74/2021/06/ducey-abbott-border.pdf"
+}
 ]

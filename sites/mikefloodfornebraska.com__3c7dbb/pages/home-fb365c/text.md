@@ -1,5 +1,5 @@
-Friends,
-Washington may be stuck in gridlock, but that has not stopped me from fighting for you.
+< !— Google Tag Manager --> Menu Home About Getting Things Done Get Involved Media close Donate Join Team Flood Mike Flood for U.S.
+Congress Friends, Washington may be stuck in gridlock, but that has not stopped me from fighting for you.
 I’m working every day to drive meaningful change in Washington and get results for Nebraska families.
 I ran for Congress promising to lower taxes, secure our border, and cut wasteful spending.
 I supported the largest tax cut in American history, passing No Tax on Tips, Overtime, and Social Security.
@@ -15,7 +15,4 @@ Washington is still spending too much.
 And we must do more to stand up to foreign adversaries like Communist China and protect America’s security.
 With your support, we can continue delivering results and building a stronger, safer, and more affordable Nebraska.
 I would be honored to earn your vote.
-God Bless,
-Mike Flood
-Congressman, Nebraska's 1st Congressional District
-PAID FOR BY MIKE FLOOD FOR CONGRESS
+God Bless, Mike Flood Congressman, Nebraska's 1st Congressional District Menu Home About Getting Things Done Get Involved Media close Donate Privacy Policy PAID FOR BY MIKE FLOOD FOR CONGRESS

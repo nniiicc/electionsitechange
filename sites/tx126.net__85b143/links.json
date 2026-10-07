@@ -1,13 +1,74 @@
 [
-"https://forms.gle/JR9FNeuhVJvxjcGXA",
-"https://forms.gle/a7RxT3Mgr389xZ5L6",
-"https://tx126.net/",
-"https://tx126.net/about-me",
-"https://tx126.net/blog",
-"https://tx126.net/cart",
-"https://tx126.net/contact",
-"https://tx126.net/faqs",
-"https://tx126.net/my-account/lost-password",
-"https://tx126.net/register",
-"https://tx126.net/shop"
+{
+"text": "About Lisa",
+"href": "https://www.tx126.net/about-me/"
+},
+{
+"text": "Blog",
+"href": "https://www.tx126.net/blog/"
+},
+{
+"text": "Create an account",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "Donate",
+"href": "https://www.tx126.net/shop/"
+},
+{
+"text": "FAQ Page",
+"href": "https://www.tx126.net/faqs/"
+},
+{
+"text": "FAQs",
+"href": "https://www.tx126.net/faqs/"
+},
+{
+"text": "Help me get on the ballot: Thank you",
+"href": "https://forms.gle/a7RxT3Mgr389xZ5L6"
+},
+{
+"text": "Home",
+"href": "https://www.tx126.net/"
+},
+{
+"text": "Lost Password?",
+"href": "https://www.tx126.net/my-account/lost-password/"
+},
+{
+"text": "Ready to to sign? Reach out at: lisa@tx126.net",
+"href": "mailto:lisa@tx126.net?subject=Ballot+petition+signing+inquiry"
+},
+{
+"text": "Register",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "Send me an email: lisa@tx126.net",
+"href": "mailto:lisa@tx126.net?subject=Campaign+Inquiry"
+},
+{
+"text": "Sign Up for Emails",
+"href": "https://www.tx126.net/contact/"
+},
+{
+"text": "Sign Up for the Email List",
+"href": "https://www.tx126.net/contact/"
+},
+{
+"text": "The Issues",
+"href": "https://forms.gle/JR9FNeuhVJvxjcGXA"
+},
+{
+"text": "[image: Lisa for TX 126]",
+"href": "https://www.tx126.net/"
+},
+{
+"text": "[no text]",
+"href": "mailto:lisa@tx126.net?subject=Campaign+Inquiry"
+},
+{
+"text": "[tooltip: View Cart]",
+"href": "https://www.tx126.net/cart/"
+}
 ]

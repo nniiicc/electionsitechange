@@ -1,3 +1,6 @@
+0 Skip to Content Meet Danielle Danielle's Priorities Endorsements Stay Connected Calendar Camp Campaign Donate to Danielle!
+Open Menu Close Menu Meet Danielle Danielle's Priorities Endorsements Stay Connected Calendar Camp Campaign Donate to Danielle!
+Open Menu Close Menu Meet Danielle Danielle's Priorities Endorsements Stay Connected Calendar Camp Campaign Donate to Danielle!
 Varda for Colorado operates this website.
 We respect your privacy.
 Our policy is simple.
@@ -13,4 +16,4 @@ We do not share mobile data with affiliates or similar campaigns.
 In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials based on a lawful disclosure request, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity.
 We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
 This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our information practices and applicable law.
-We suggest that you periodically review the Privacy Policy for amendments.
+We suggest that you periodically review the Privacy Policy for amendments. © # Varda for Colorado Privacy Policy Paid for by Varda for Colorado Registered Agent Alice O’Dell

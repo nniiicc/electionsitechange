@@ -1,26 +1,4 @@
-Key Issues
-The Texas model of limited government and a predictable regulatory climate has served us well, as shown by the amount of people fleeing other states daily.
+Home Meet Carrie New Events Issues Endorsements News Contact Contribute Home Meet Carrie New Events Issues Endorsements News Contact Contribute Key Issues The Texas model of limited government and a predictable regulatory climate has served us well, as shown by the amount of people fleeing other states daily.
 As state representative, my goal is to make our government work better for all Texans and keep the Lone Star State a shining beacon of jobs, growth, and prosperity.
-Secure the border and keep communities safe
-- Increase funding for border security
-- Stop the magnets that encourage illegal immigration
-- Support law enforcement and stop the “defund the police” movement
-- Implement reforms to ensure a reliable electric grid
-Cut our Property taxes
-- Reform our property tax system and cut taxes for our families
-- Click here to read my property tax plan
-Uphold American values
-- Preserve the Second Amendment
-- Ensure election integrity
-- Stand up to Big Tech censorship of conservatives
-- Fight for religious freedom
-Protect unborn life
-- 100% pro-life
-Ensure a quality education
-- Stop “critical race theory” and liberal indoctrination in our schools
-- Support teachers and students to ensure they have the resources they need to be successful
-protect the Hill Country
-- Preserve the natural resources we’re blessed with, including the natural beauty of the Texas Hill Country
-PROTECT OUR UNALIENABLE RIGHTS
-- Protect the unalienable rights born to ALL people including the right to life and liberty, freedom from slavery, freedom of opinion and expression, the right to work, and many more
-- Recognize that the government is created by and gets its power from the people
+Secure the border and keep communities safe Increase funding for border security Stop the magnets that encourage illegal immigration Support law enforcement and stop the “defund the police” movement Implement reforms to ensure a reliable electric grid Cut our Property taxes Reform our property tax system and cut taxes for our families Click here to read my property tax plan Uphold American values Preserve the Second Amendment Ensure election integrity Stand up to Big Tech censorship of conservatives Fight for religious freedom Protect unborn life 100% pro-life Ensure a quality education Stop “critical race theory” and liberal indoctrination in our schools Support teachers and students to ensure they have the resources they need to be successful protect the Hill Country Preserve the natural resources we’re blessed with, including the natural beauty of the Texas Hill Country PROTECT OUR UNALIENABLE RIGHTS Protect the unalienable rights born to ALL people including the right to life and liberty, freedom from slavery, freedom of opinion and expression, the right to work, and many more Recognize that the government is created by and gets its power from the people Political ad paid for by Carrie Isaac for Texas.
+13501 Ranch Road 12, #103, Wimberley, TX 78676

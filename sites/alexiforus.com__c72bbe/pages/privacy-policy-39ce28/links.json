@@ -1,25 +1,106 @@
 [
-"http://aboutads.info/choices",
-"http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
-"https://alexiforus.com/",
-"https://alexiforus.com/about",
-"https://alexiforus.com/alexis-priorities",
-"https://alexiforus.com/contact",
-"https://alexiforus.com/in-the-news",
-"https://alexiforus.com/news",
-"https://alexiforus.com/news-2",
-"https://alexiforus.com/privacy-policy",
-"https://alexiforus.com/terms-of-use",
-"https://alexiforus.com/volunteer",
-"https://developers.google.com/maps/terms",
-"https://edoeb.admin.ch/edoeb/en/home.html",
-"https://facebook.com/AlexiGiannoulias",
-"https://go.alexiforus.com/a/donate",
-"https://instagram.com/alexiforus",
-"https://ngpvan.com/content/privacy-policy",
-"https://policies.google.com/privacy",
-"https://secure.actblue.com/privacy",
-"https://termly.io/products/privacy-policy-generator",
-"https://twitter.com/Giannoulias",
-"https://youtube.com/@Alexiforus"
+{
+"text": "About",
+"href": "https://alexiforus.com/about/"
+},
+{
+"text": "Alexi’s Priorities",
+"href": "https://alexiforus.com/alexis-priorities/"
+},
+{
+"text": "Contact",
+"href": "https://alexiforus.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://go.alexiforus.com/a/donate"
+},
+{
+"text": "Contribute",
+"href": "https://go.alexiforus.com/a/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/AlexiGiannoulias"
+},
+{
+"text": "Home",
+"href": "https://alexiforus.com/"
+},
+{
+"text": "In the News",
+"href": "https://alexiforus.com/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/alexiforus/"
+},
+{
+"text": "News",
+"href": "https://alexiforus.com/news-2/"
+},
+{
+"text": "News",
+"href": "https://alexiforus.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://alexiforus.com/privacy-policy/"
+},
+{
+"text": "Termly’s Privacy Policy Generator",
+"href": "https://termly.io/products/privacy-policy-generator/?ftseo="
+},
+{
+"text": "Terms of Use",
+"href": "https://alexiforus.com/terms-of-use/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Giannoulias"
+},
+{
+"text": "Volunteer",
+"href": "https://alexiforus.com/volunteer/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@Alexiforus"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com"
+},
+{
+"text": "here",
+"href": "https://developers.google.com/maps/terms"
+},
+{
+"text": "http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
+"href": "http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm"
+},
+{
+"text": "https://alexiforus.com",
+"href": "https://alexiforus.com"
+},
+{
+"text": "https://secure.actblue.com/privacy",
+"href": "https://secure.actblue.com/privacy"
+},
+{
+"text": "https://www.alexiforus.com/contact/",
+"href": "https://www.alexiforus.com/contact/"
+},
+{
+"text": "https://www.edoeb.admin.ch/edoeb/en/home.html",
+"href": "https://www.edoeb.admin.ch/edoeb/en/home.html"
+},
+{
+"text": "https://www.ngpvan.com/content/privacy-policy",
+"href": "https://www.ngpvan.com/content/privacy-policy"
+},
+{
+"text": "link",
+"href": "https://policies.google.com/privacy"
+}
 ]

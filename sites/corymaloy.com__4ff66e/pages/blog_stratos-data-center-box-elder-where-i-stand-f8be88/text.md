@@ -1,3 +1,5 @@
+Meet Cory The Record Issues The 52 Report Donate Stand With Cory in November Meet Cory The Record Issues The 52 Report Donate Contact Stand With Cory in November ← The 52 Report Jun 8, 2026 · Legislation Where I Stand on the Stratos Data Center in Box Elder County By Representative Cory Maloy Share Link copied The proposed Stratos Project would bring a hyperscale data center to Box Elder County.
+The questions it raises about MIDA, water, and accountability are still unanswered.
 The rollout of the proposed Stratos data center in Box Elder County was a failure.
 Not a stumble, not a rough patch.
 A complete and utter failure, and the way the people behind it handled the public outcry that followed made it worse.
@@ -9,16 +11,14 @@ The frustration it produced is not manufactured, and it is not unreasonable.
 I share a lot of it.
 So let me tell you where I stand, and where I do not yet.
 The current path forward is not acceptable, and a lot has to change before I could support this project moving ahead.
-I Am Not Ready to Render a Verdict on the Project
-I am not prepared to say yes or no to the data center itself.
+I Am Not Ready to Render a Verdict on the Project I am not prepared to say yes or no to the data center itself.
 Not yet.
 That may frustrate people on both sides who want a clean answer.
 But a project this large, with this many open questions, deserves more than a reaction.
 Before I could support it moving ahead, I need a clear picture of the full scope, what the developer has actually committed to in writing, and what oversight exists or can still be built in.
 Those answers do not exist in the form they need to right now.
 The burden is on the people promoting it to show, with specifics, why it deserves to move forward and what Utahns get in return.
-What a Project Like This Could Offer
-Here is why I have not simply come out against it.
+What a Project Like This Could Offer Here is why I have not simply come out against it.
 The other side of the ledger is real.
 The country is in a race to build the infrastructure that powers artificial intelligence, and that infrastructure is going to be built somewhere.
 The states that compete for it will shape the next economy.
@@ -38,8 +38,7 @@ I take it seriously.
 That is exactly why the way this has been handled is so frustrating.
 A botched rollout and a thin process put a potentially valuable opportunity at risk before it can even properly start.
 The economic case for doing this well is the same reason we cannot afford to do it badly.
-The Deeper Problem Is MIDA
-My larger concern runs underneath this project to the agency steering it.
+The Deeper Problem Is MIDA My larger concern runs underneath this project to the agency steering it.
 The Military Installation Development Authority was created in 2007 for a narrow and defensible reason, to help protect Hill Air Force Base by developing underutilized military land and sending the revenue back to support the base.
 That was the deal.
 Over the years, MIDA grew into something far bigger than that original purpose, with authority that now reaches well beyond anything tied to a military mission.
@@ -55,9 +54,7 @@ This project has sharpened that focus rather than created it.
 An agency with this much power should be able to withstand scrutiny.
 If it cannot, that tells us something important on its own.
 (See: What Is MIDA?
-The Unelected Agency Behind the Box Elder Data Center)
-The Project Itself Raises Real Questions
-The governance problem is not the only reason for caution.
+The Unelected Agency Behind the Box Elder Data Center ) The Project Itself Raises Real Questions The governance problem is not the only reason for caution.
 Set MIDA aside for a moment, and the project still carries serious questions that have not been answered.
 Start with power.
 At full buildout the developer describes a campus drawing 7.5 to 9 gigawatts, supplied by on-site natural gas generation.
@@ -82,8 +79,7 @@ That tradeoff deserves an honest accounting, not a rushed one.
 None of this means the project cannot be done.
 It means it has not yet been shown that it can be done responsibly.
 Those are different things, and the difference is the whole point.
-What Has to Change
-A few things would have to be true before this project earns real support.
+What Has to Change A few things would have to be true before this project earns real support.
 Transparency on the full scope and the binding commitments, in writing, available to the public, not described in general terms after the fact.
 Binding answers on water, power, and air, secured and made public before approval, not promised in general terms and sorted out later.
 Enforceable accountability.
@@ -91,8 +87,7 @@ If the developer does not deliver what was promised, there have to be consequenc
 Performance benchmarks and clawback provisions are standard in serious economic development deals.
 They should be here too.
 Real oversight that does not depend on the goodwill of an unelected board.
-Where This Leaves Me
-There are some signs the pressure is working.
+Where This Leaves Me There are some signs the pressure is working.
 The Governor has set a higher bar of review for large data center projects.
 The Legislature has voted to study the environmental impacts.
 Senate President Adams called on the developer to cut the project's footprint, and the developer has agreed to scale it back.
@@ -110,3 +105,15 @@ Rep.
 A.
 Cory Maloy represents House District 52, covering portions of Lehi, American Fork, and Saratoga Springs along the Silicon Slopes corridor.
 He chairs the House Business, Labor, and Commerce Committee and serves on the House Government Operations Committee.
+Share Link copied ← What Is MIDA?
+The Unelected Agency Behind the Box Elder Data Center My Principles Made Me a Republican.
+Not the Other Way Around. → Search Posts Recent Posts Sep 28, 2026 Utah Education Funding Is Up.
+Reading Isn't.
+Sep 28, 2026 School Choice in Utah Starts with the Parent Sep 11, 2026 A Day of Infamy at 25, and a Year Without Charlie Kirk Sep 8, 2026 My Principles Made Me a Republican.
+Not the Other Way Around.
+Jun 8, 2026 Where I Stand on the Stratos Data Center in Box Elder County Categories Community 4 Education 2 Elections 8 Legislation 36 Opinion 1 Popular Tags #Elections 27 #Education 19 #Budget 15 #Taxes 13 #Convention 12 #Growth 11 #Second Amendment 10 #Transparency 10 #Public Safety 8 #Water 8 #Healthcare 6 #Energy 5 #Housing 5 #Life 3 #Data Centers 2 #HB 120 2 #HB 143 2 #HB 146 2 #HB 180 2 #HB 184 2 District 52 Needs a Proven Conservative Voice at the Table.
+Stand With Cory in November Cory Maloy ™ Utah Values.
+Firmly Defended. [email protected] 801-477-0019 (call or text) Republican · Utah House District 52 The Campaign Meet Cory The Record Issues The 52 Report Blog Contact Stand Firm Stand With Cory in November Volunteer Donate © #–# Albert Cory Maloy.
+All rights reserved.
+Cory Maloy™ and the Cory Maloy campaign logo are trademarks of Albert Cory Maloy.
+Paid for by the Campaign to Elect Cory Maloy.

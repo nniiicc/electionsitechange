@@ -1,19 +1,86 @@
 [
-"https://decaturish.com/2024/04/candidate-qa-state-house-and-senate",
-"https://facebook.com/marymargaretoliver",
-"https://instagram.com/repmmoliver",
-"https://legis.ga.gov/api/document/docs/default-source/reapportionment-document-library/house/house-2023-packet-upd.pdf?sfvrsn=24c293df_2",
-"https://legis.ga.gov/api/document/docs/default-source/reapportionment-document-library/senate/senate-2023-packet-upd.pdf?sfvrsn=2353574f_2",
-"https://marymargaretoliver.org/",
-"https://marymargaretoliver.org/about",
-"https://marymargaretoliver.org/news-and-press",
-"https://marymargaretoliver.org/newsletters",
-"https://marymargaretoliver.org/post/georgia-child-welfare-agencys-surveillance-tools-raise-privacy-concerns",
-"https://marymargaretoliver.org/post/special-session-recap-and-happy-4th",
-"https://marymargaretoliver.org/post/summer-fun-and-summer-work",
-"https://marymargaretoliver.org/request-a-yard-sign",
-"https://marymargaretoliver.org/voting-info",
-"https://mvp.sos.ga.gov/s",
-"https://secure.actblue.com/donate/mary-margaret-oliver-3",
-"https://twitter.com/mmo_mary"
+{
+"text": "About Mary Margaret",
+"href": "https://www.marymargaretoliver.org/about"
+},
+{
+"text": "Back to News",
+"href": "https://www.marymargaretoliver.org/news-and-press"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mary-margaret-oliver-3"
+},
+{
+"text": "Decaturish 2024 elections",
+"href": "https://decaturish.com/2024/04/candidate-qa-state-house-and-senate/"
+},
+{
+"text": "Home",
+"href": "https://www.marymargaretoliver.org/"
+},
+{
+"text": "Newsletters",
+"href": "https://www.marymargaretoliver.org/newsletters"
+},
+{
+"text": "Press",
+"href": "https://www.marymargaretoliver.org/news-and-press"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.marymargaretoliver.org/request-a-yard-sign"
+},
+{
+"text": "Voting Info",
+"href": "https://www.marymargaretoliver.org/voting-info"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/mmo_mary"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/marymargaretoliver"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/repmmoliver"
+},
+{
+"text": "[image]",
+"href": "https://www.marymargaretoliver.org/"
+},
+{
+"text": "[image]August 28, 2026Summer Fun and Summer Work",
+"href": "https://www.marymargaretoliver.org/post/summer-fun-and-summer-work"
+},
+{
+"text": "[image]June 28, 2026Special Session Recap and Happy 4th!",
+"href": "https://www.marymargaretoliver.org/post/special-session-recap-and-happy-4th"
+},
+{
+"text": "[image]September 9, 2026Georgia child welfare agency's surveillance tools raise privacy concerns",
+"href": "https://www.marymargaretoliver.org/post/georgia-child-welfare-agencys-surveillance-tools-raise-privacy-concerns"
+},
+{
+"text": "here",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "here",
+"href": "https://www.legis.ga.gov/api/document/docs/default-source/reapportionment-document-library/house/house-2023-packet-upd.pdf?sfvrsn=24c293df_2"
+},
+{
+"text": "here",
+"href": "https://www.legis.ga.gov/api/document/docs/default-source/reapportionment-document-library/senate/senate-2023-packet-upd.pdf?sfvrsn=2353574f_2"
+},
+{
+"text": "marymargaretoliver.org",
+"href": "https://www.marymargaretoliver.org/"
+},
+{
+"text": "mmo@mmolaw.com",
+"href": "mailto:mmo@mmolaw.com"
+}
 ]

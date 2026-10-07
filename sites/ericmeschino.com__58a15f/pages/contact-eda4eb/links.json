@@ -1,11 +1,50 @@
 [
-"https://ericmeschino.com/",
-"https://ericmeschino.com/about",
-"https://ericmeschino.com/contact",
-"https://ericmeschino.com/get-involved",
-"https://ericmeschino.com/priorities",
-"https://ericmeschino.com/privacy",
-"https://ericmeschino.com/terms",
-"https://facebook.com/electericmeschino",
-"https://secure.anedot.com/meschino-committee/donate"
+{
+"text": "About",
+"href": "https://www.ericmeschino.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.ericmeschino.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/meschino-committee/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/meschino-committee/donate"
+},
+{
+"text": "Email",
+"href": "mailto:eric@ericmeschino.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/electericmeschino"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ericmeschino.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.ericmeschino.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.ericmeschino.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ericmeschino.com/privacy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.ericmeschino.com/terms"
+},
+{
+"text": "[image: Eric Meschino for State Representative, 12th Plymouth District]",
+"href": "https://www.ericmeschino.com/"
+}
 ]

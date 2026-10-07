@@ -1,8 +1,30 @@
 [
-"https://charliebethel.org/",
-"https://charliebethel.org/?page_id=398",
-"https://charliebethel.org/about",
-"https://charliebethel.org/news",
-"https://charliebethel.org/privacy-policy",
-"https://drive.google.com/drive/folders/1p8m9sB-YkQrugtMakaoxFlhFQXCuo1FU"
+{
+"text": "About",
+"href": "https://charliebethel.org/about"
+},
+{
+"text": "Charlie Bethel",
+"href": "https://charliebethel.org/"
+},
+{
+"text": "Media",
+"href": "https://drive.google.com/drive/folders/1p8m9sB-YkQrugtMakaoxFlhFQXCuo1FU"
+},
+{
+"text": "News",
+"href": "https://charliebethel.org/?page_id=398"
+},
+{
+"text": "News",
+"href": "https://charliebethel.org/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://charliebethel.org/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://charliebethel.org/"
+}
 ]

@@ -1,12 +1,98 @@
 [
-"http://rayforarkansas.com/",
-"https://rayforarkansas.com/",
-"https://rayforarkansas.com/biography/about-david-ray",
-"https://rayforarkansas.com/contribute",
-"https://rayforarkansas.com/issues/2nd-amendment",
-"https://rayforarkansas.com/issues/education",
-"https://rayforarkansas.com/issues/job-creation",
-"https://rayforarkansas.com/issues/right-to-life",
-"https://rayforarkansas.com/issues/taxes",
-"https://rayforarkansas.com/issues/veterans"
+{
+"text": "2nd Amendment",
+"href": "https://rayforarkansas.com/issues/2nd-amendment/"
+},
+{
+"text": "Contribute",
+"href": "https://rayforarkansas.com/contribute/"
+},
+{
+"text": "Education",
+"href": "https://rayforarkansas.com/issues/education/"
+},
+{
+"text": "Endorsements",
+"href": "http://rayforarkansas.com/#endorsements"
+},
+{
+"text": "Issues",
+"href": "http://rayforarkansas.com/#issues"
+},
+{
+"text": "Job Creation",
+"href": "https://rayforarkansas.com/issues/job-creation/"
+},
+{
+"text": "Learn More",
+"href": "https://rayforarkansas.com/issues/2nd-amendment/"
+},
+{
+"text": "Learn More",
+"href": "https://rayforarkansas.com/issues/education/"
+},
+{
+"text": "Learn More",
+"href": "https://rayforarkansas.com/issues/job-creation/"
+},
+{
+"text": "Learn More",
+"href": "https://rayforarkansas.com/issues/right-to-life/"
+},
+{
+"text": "Learn More",
+"href": "https://rayforarkansas.com/issues/taxes/"
+},
+{
+"text": "Learn More",
+"href": "https://rayforarkansas.com/issues/veterans/"
+},
+{
+"text": "Learn more about David Ray",
+"href": "https://rayforarkansas.com/biography/about-david-ray/"
+},
+{
+"text": "Meet David Ray",
+"href": "https://rayforarkansas.com/biography/about-david-ray/"
+},
+{
+"text": "Right to Life",
+"href": "https://rayforarkansas.com/issues/right-to-life/"
+},
+{
+"text": "Taxes",
+"href": "https://rayforarkansas.com/issues/taxes/"
+},
+{
+"text": "Veterans",
+"href": "https://rayforarkansas.com/issues/veterans/"
+},
+{
+"text": "[image: Site Logo]",
+"href": "https://rayforarkansas.com/"
+},
+{
+"text": "[image]",
+"href": "https://rayforarkansas.com/issues/2nd-amendment/"
+},
+{
+"text": "[image]",
+"href": "https://rayforarkansas.com/issues/education/"
+},
+{
+"text": "[image]",
+"href": "https://rayforarkansas.com/issues/job-creation/"
+},
+{
+"text": "[image]",
+"href": "https://rayforarkansas.com/issues/right-to-life/"
+},
+{
+"text": "[image]",
+"href": "https://rayforarkansas.com/issues/taxes/"
+},
+{
+"text": "[image]",
+"href": "https://rayforarkansas.com/issues/veterans/"
+}
 ]

@@ -1,14 +1,58 @@
 [
-"http://twitter.com/josiahmagnuson",
-"https://facebook.com/magnusonsc",
-"https://josiahmagnuson.com/",
-"https://josiahmagnuson.com/about",
-"https://josiahmagnuson.com/cart",
-"https://josiahmagnuson.com/contact",
-"https://josiahmagnuson.com/issues",
-"https://josiahmagnuson.com/privacypolicy",
-"https://josiahmagnuson.com/record",
-"https://josiahmagnuson.com/termsandconditions",
-"https://scstatehouse.gov/legislatorssearch.php",
-"https://secure.anedot.com/magnusonsc/2026"
+{
+"text": "0",
+"href": "https://www.josiahmagnuson.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.josiahmagnuson.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.josiahmagnuson.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/magnusonsc/2026"
+},
+{
+"text": "Home",
+"href": "https://www.josiahmagnuson.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.josiahmagnuson.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.josiahmagnuson.com/privacypolicy"
+},
+{
+"text": "Record",
+"href": "https://www.josiahmagnuson.com/record"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.josiahmagnuson.com/termsandconditions"
+},
+{
+"text": "[image: Josiah Magnuson for State House 38]",
+"href": "https://www.josiahmagnuson.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.twitter.com/josiahmagnuson"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/magnusonsc"
+},
+{
+"text": "[no text]",
+"href": "mailto:j@magnusonsc.com"
+},
+{
+"text": "input your address here",
+"href": "https://www.scstatehouse.gov/legislatorssearch.php"
+}
 ]

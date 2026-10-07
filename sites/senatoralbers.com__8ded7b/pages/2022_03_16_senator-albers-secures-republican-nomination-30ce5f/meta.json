@@ -1,7 +1,9 @@
 {
  "description": "Last Friday, Senator John Albers secured the Republican nomination for State Senate District 56.",
  "final_url": "https://www.senatoralbers.com/2022/03/16/senator-albers-secures-republican-nomination/",
- "paid_for_by": null,
+ "fingerprint": "bbc2f812e5ecd0062f914fb177bc187a560730f7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Senator Albers Secures Republican Nomination -",
  "years_mentioned": [
   "2020",

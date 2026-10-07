@@ -1,7 +1,30 @@
 [
-"http://facebook.com/repprout",
-"https://andrewprout.com/",
-"https://andrewprout.com/contact",
-"https://andrewprout.com/donate",
-"https://andrewprout.com/issues"
+{
+"text": "Andrew Prout for State Representative",
+"href": "https://andrewprout.com/"
+},
+{
+"text": "Contact",
+"href": "https://andrewprout.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://andrewprout.com/donate/"
+},
+{
+"text": "Issues",
+"href": "https://andrewprout.com/issues/"
+},
+{
+"text": "Skip to content",
+"href": "https://andrewprout.com/#content"
+},
+{
+"text": "Welcome",
+"href": "https://andrewprout.com/"
+},
+{
+"text": "[image: Andrew Prout for State Rep Facbook Link]",
+"href": "http://facebook.com/repprout"
+}
 ]

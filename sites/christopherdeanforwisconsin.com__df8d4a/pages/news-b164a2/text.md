@@ -1,12 +1,3 @@
-News
-Latest updates from the campaign:
-6
-Sep
-Christopher Dean Pledges to Support Congressional Term Limits
-6
-Sep
-State Senate candidate hospitalized after finding envelope with 'white substance' on property
-6
-Sep
-Paid for by Christopher Dean For Wisconsin
-Powered by CampaignPartner.com - Political Campaign Websites
+Meet Christopher Issues News Volunteer Home Contribute Events Yard Signs News Latest updates from the campaign: 6 Sep Sunday, 9:54 PM · 2026 Christopher Dean Pledges to Support Congressional Term Limits Christopher Dean Pledges to Support Congressional Term Limits - U.S.
+Term Limits 6 Sep Sunday, 9:51 PM · 2026 State Senate candidate hospitalized after finding envelope with 'white substance' on property State Senate candidate hospitalized after finding envelope with 'white substance' on property - NewsBreak 6 Sep Sunday, 9:48 PM · 2026 Candidates across the political spectrum hit the fair to engage with voters before the primaries Candidates across the political spectrum hit the fair to engage with voters before the primaries 3 Mar Tuesday, 10:37 PM · 2026 Christopher Dean announces run for State Senate District 15 Read more VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+News Christopher Dean Pledges to Support Congressional Term Limits State Senate candidate hospitalized after finding envelope with 'white substance' on property Candidates across the political spectrum hit the fair to engage with voters before the primaries Christopher Dean announces run for State Senate District 15 Endorsements Yard Signs Events Photos Contact Paid for by Christopher Dean For Wisconsin Powered by CampaignPartner.com - Political Campaign Websites Home Meet Christopher Issues Endorsements Contribute Volunteer News Yard Signs Contact Close Menu

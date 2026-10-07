@@ -1,63 +1,278 @@
 [
-"http://londonderrynh.org/",
-"https://603alliance.us20.list-manage.com/track/click?u=cf6fec3984de78f14a1e18ff1&id=01cd6d7ea5&e=9480ac8ff3",
-"https://603alliance.us20.list-manage.com/track/click?u=cf6fec3984de78f14a1e18ff1&id=4f393b60fe&e=9480ac8ff3",
-"https://603alliance.us20.list-manage.com/track/click?u=cf6fec3984de78f14a1e18ff1&id=7bdfe53b64&e=9480ac8ff3",
-"https://americanenergyalliance.org/american-energy-scorecard?spage=state&state=nh",
-"https://attendee.gotowebinar.com/register/6204068450905163275",
-"https://campaignpartner.com/",
-"https://des.nh.gov/news-and-media/new-hampshire-department-environmental-services-and-saint-gobain-performance",
-"https://donbolduc.com/about",
-"https://energy.nh.gov/consumers/help-energy-and-utility-bills/community-action-agencies",
-"https://energy.nh.gov/sites/g/files/ehbemt551/files/inline-documents/60-percent-75-percent-nhsmi.pdf",
-"https://fetchrewards.com/",
-"https://granitegrok.com/mg_windham/2022/09/breaking-windham-absentee-ballots-folded-through-ovals-again",
-"https://home.ibotta.com/",
-"https://legiscan.com/NH/bill/HB1097/2022",
-"https://legiscan.com/NH/text/HB1022/2022",
-"https://londonderrynh.gov/town-clerktax-collector/files/general-election-sample-ballot-1182022",
-"https://londonderrynh.gov/town-clerktax-collector/files/state-absentee-ballot-request-form-2022",
-"https://londonderrynh.gov/town-clerktax-collector/pages/voter-registration",
-"https://londonderrynh.org/assessing/files/2020-veterans-credit-qual",
-"https://londonderrynh.org/assessing/pages/veterans-tax-credits",
-"https://londonderrynh.org/home/news/leadership-londonderry-2022-2023-application-information",
-"https://londonderrynh.org/sites/g/files/vyhlif4616/f/uploads/application_2022-23.pdf",
-"https://londonderrynh.org/sites/g/files/vyhlif4616/f/uploads/leadership_londonderry_one_page_info._document.pdf",
-"https://londonderrynh.org/sites/g/files/vyhlif4616/f/uploads/ll_22-23_draft_basic_calendar.pdf",
-"https://londonderrynh.org/user/169/contact",
-"https://londonderrynh.org/user/210/contact",
-"https://nhjournal.com/author/damienfisher",
-"https://nhjournal.com/author/dartmouth-college-gop",
-"https://nhjournal.com/author/drewcline",
-"https://nhjournal.com/author/fred-lucas",
-"https://nhjournal.com/author/holycowhistory",
-"https://nhjournal.com/author/mark-krikorian",
-"https://nhjournal.com/author/michael-vose",
-"https://nhjournal.com/author/michaelgraham",
-"https://nhjournal.com/category/education",
-"https://nhjournal.com/category/energy",
-"https://nhjournal.com/category/politics",
-"https://nhjournal.com/dartmouth-college-gop-dartmouth-continues-to-persecute-republicans-on-campus",
-"https://nhjournal.com/dem-chair-buckley-schools-must-keep-secrets-from-nh-parents-or-they-will-beat-their-children-to-death",
-"https://nhjournal.com/green-energy-proposals-wouldnt-lower-nh-utility-bills",
-"https://nhjournal.com/sherman-claims-no-late-term-abortions-in-nh-but-cant-provide-data",
-"https://patch.com/users/indepth-nh",
-"https://rakuten.com/",
-"https://sos.nh.gov/sites/g/files/ehbemt561/files/documents/2022-03/registering-to-vote-in-new-hampshire-oct2021.pdf",
-"https://voterondunn.com/",
-"https://voterondunn.com/contact",
-"https://voterondunn.com/contribute",
-"https://voterondunn.com/events",
-"https://voterondunn.com/home",
-"https://voterondunn.com/issues",
-"https://voterondunn.com/make-endorsement",
-"https://voterondunn.com/meet_ron",
-"https://voterondunn.com/news",
-"https://voterondunn.com/photos",
-"https://voterondunn.com/privacy-policy",
-"https://voterondunn.com/tank",
-"https://voterondunn.com/view-endorsements",
-"https://voterondunn.com/volunteer",
-"https://voterondunn.com/vote",
-"https://www4.des.state.nh.us/nh-pfas-investigation?page_id=1419"
+{
+"text": "60 and 75%",
+"href": "https://www.energy.nh.gov/sites/g/files/ehbemt551/files/inline-documents/60-percent-75-percent-nhsmi.pdf"
+},
+{
+"text": "According to reports",
+"href": "https://granitegrok.com/mg_windham/2022/09/breaking-windham-absentee-ballots-folded-through-ovals-again"
+},
+{
+"text": "Andrew Cline",
+"href": "https://nhjournal.com/author/drewcline/"
+},
+{
+"text": "Bill Title: HB1097 Relative to taxation of income of New Hampshire residents when working remotely for an out of state employer.",
+"href": "https://legiscan.com/NH/bill/HB1097/2022"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Community Action Agency",
+"href": "https://www.energy.nh.gov/consumers/help-energy-and-utility-bills/community-action-agencies"
+},
+{
+"text": "Community Action Agency.",
+"href": "https://www.energy.nh.gov/consumers/help-energy-and-utility-bills/community-action-agencies"
+},
+{
+"text": "Contact",
+"href": "https://www.voterondunn.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.voterondunn.com/contribute"
+},
+{
+"text": "Damien Fisher",
+"href": "https://nhjournal.com/author/damienfisher/"
+},
+{
+"text": "Dartmouth College GOP",
+"href": "https://nhjournal.com/author/dartmouth-college-gop/"
+},
+{
+"text": "Education",
+"href": "https://nhjournal.com/category/education/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voterondunn.com/view-endorsements"
+},
+{
+"text": "Energy",
+"href": "https://nhjournal.com/category/energy/"
+},
+{
+"text": "Erin.L.Holmes@des.nh.gov",
+"href": "mailto:Erin.L.Holmes@des.nh.gov"
+},
+{
+"text": "Events",
+"href": "https://www.voterondunn.com/events"
+},
+{
+"text": "Fetch",
+"href": "https://www.fetchrewards.com/"
+},
+{
+"text": "Fred Lucas",
+"href": "https://nhjournal.com/author/fred-lucas/"
+},
+{
+"text": "General Election Sample Ballot 11.8.2022",
+"href": "https://www.londonderrynh.gov/town-clerktax-collector/files/general-election-sample-ballot-1182022"
+},
+{
+"text": "HOUSE BILL 1022 AN ACT permitting pharmacists to dispense",
+"href": "https://legiscan.com/NH/text/HB1022/2022"
+},
+{
+"text": "Home",
+"href": "https://www.voterondunn.com/home"
+},
+{
+"text": "Ibotta",
+"href": "https://home.ibotta.com/"
+},
+{
+"text": "InDepth NH,",
+"href": "https://patch.com/users/indepth-nh"
+},
+{
+"text": "Issues",
+"href": "https://www.voterondunn.com/issues"
+},
+{
+"text": "J. Mark Powell",
+"href": "https://nhjournal.com/author/holycowhistory/"
+},
+{
+"text": "Leadership Londonderry 2022-2023 Application & Information",
+"href": "https://www.londonderrynh.org/home/news/leadership-londonderry-2022-2023-application-information"
+},
+{
+"text": "Leadership Londonderry 2022-2023 Calendar",
+"href": "https://www.londonderrynh.org/sites/g/files/vyhlif4616/f/uploads/ll_22-23_draft_basic_calendar.pdf"
+},
+{
+"text": "Leadership Londonderry 2022-2023 Q&A",
+"href": "https://www.londonderrynh.org/sites/g/files/vyhlif4616/f/uploads/leadership_londonderry_one_page_info._document.pdf"
+},
+{
+"text": "Leadership Londonderry Application 2022-2023",
+"href": "https://www.londonderrynh.org/sites/g/files/vyhlif4616/f/uploads/application_2022-23.pdf"
+},
+{
+"text": "Make Endorsement",
+"href": "https://www.voterondunn.com/make-endorsement"
+},
+{
+"text": "Mark Krikorian",
+"href": "https://nhjournal.com/author/mark-krikorian/"
+},
+{
+"text": "Meet Ron",
+"href": "https://www.voterondunn.com/meet_ron"
+},
+{
+"text": "Michael Graham",
+"href": "https://nhjournal.com/author/michaelgraham/"
+},
+{
+"text": "Michael Vose",
+"href": "https://nhjournal.com/author/michael-vose/"
+},
+{
+"text": "NHDem Chair Buckley: Schools Must Keep Secrets or Parents Will ‘Beat Their Children to Death’",
+"href": "https://nhjournal.com/dem-chair-buckley-schools-must-keep-secrets-from-nh-parents-or-they-will-beat-their-children-to-death/"
+},
+{
+"text": "News",
+"href": "https://www.voterondunn.com/news"
+},
+{
+"text": "PFAS Removal Rebate Program for Private Wells – NH PFAS Investigation (state.nh.us)",
+"href": "https://www4.des.state.nh.us/nh-pfas-investigation/?page_id=1419"
+},
+{
+"text": "PFAS Update",
+"href": "https://www.des.nh.gov/news-and-media/new-hampshire-department-environmental-services-and-saint-gobain-performance"
+},
+{
+"text": "Photos",
+"href": "https://www.voterondunn.com/photos"
+},
+{
+"text": "Politics",
+"href": "https://nhjournal.com/category/politics/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voterondunn.com/privacy-policy"
+},
+{
+"text": "Qualifications",
+"href": "https://www.londonderrynh.org/assessing/files/2020-veterans-credit-qual"
+},
+{
+"text": "Rakuten",
+"href": "https://www.rakuten.com/"
+},
+{
+"text": "RebuildNH",
+"href": "https://603alliance.us20.list-manage.com/track/click?u=cf6fec3984de78f14a1e18ff1&id=01cd6d7ea5&e=9480ac8ff3"
+},
+{
+"text": "Robert Kerry",
+"href": "https://www.londonderrynh.org/user/210/contact"
+},
+{
+"text": "Sherman Claims No Late Term Abortions in NH, But Won’t Provide Data",
+"href": "https://nhjournal.com/sherman-claims-no-late-term-abortions-in-nh-but-cant-provide-data/"
+},
+{
+"text": "State Absentee Ballot Requests",
+"href": "https://www.londonderrynh.gov/town-clerktax-collector/files/state-absentee-ballot-request-form-2022"
+},
+{
+"text": "Support the Billboard Campai",
+"href": "https://603alliance.us20.list-manage.com/track/click?u=cf6fec3984de78f14a1e18ff1&id=7bdfe53b64&e=9480ac8ff3"
+},
+{
+"text": "TANK",
+"href": "https://www.voterondunn.com/tank"
+},
+{
+"text": "Tom Dolan",
+"href": "https://www.londonderrynh.org/user/169/contact"
+},
+{
+"text": "Veterans' Tax Credits",
+"href": "https://www.londonderrynh.org/assessing/pages/veterans-tax-credits"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voterondunn.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.voterondunn.com/vote"
+},
+{
+"text": "Voter Registration",
+"href": "https://www.londonderrynh.gov/town-clerktax-collector/pages/voter-registration"
+},
+{
+"text": "[image: Ron Dunn NH State Representative]",
+"href": "https://www.voterondunn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://603alliance.us20.list-manage.com/track/click?u=cf6fec3984de78f14a1e18ff1&id=7bdfe53b64&e=9480ac8ff3"
+},
+{
+"text": "a donation",
+"href": "https://603alliance.us20.list-manage.com/track/click?u=cf6fec3984de78f14a1e18ff1&id=4f393b60fe&e=9480ac8ff3"
+},
+{
+"text": "atldrabik@londonderrynh.org",
+"href": "mailto:atldrabik@londonderrynh.org"
+},
+{
+"text": "electionlaw@doj.nh.gov",
+"href": "mailto:electionlaw@doj.nh.gov"
+},
+{
+"text": "https://attendee.gotowebinar.com/register/6204068450905163275",
+"href": "https://attendee.gotowebinar.com/register/6204068450905163275"
+},
+{
+"text": "https://donbolduc.com/about/",
+"href": "https://donbolduc.com/about/"
+},
+{
+"text": "https://nhjournal.com/dartmouth-college-gop-dartmouth-continues-to-persecute-republicans-on-campus/",
+"href": "https://nhjournal.com/dartmouth-college-gop-dartmouth-continues-to-persecute-republicans-on-campus/"
+},
+{
+"text": "https://nhjournal.com/green-energy-proposals-wouldnt-lower-nh-utility-bills/",
+"href": "https://nhjournal.com/green-energy-proposals-wouldnt-lower-nh-utility-bills/"
+},
+{
+"text": "https://www4.des.state.nh.us/nh-pfas-investigation/?page_id=1419",
+"href": "https://www4.des.state.nh.us/nh-pfas-investigation/?page_id=1419"
+},
+{
+"text": "ldrabik@londonderrynh.org",
+"href": "mailto:ldrabik@londonderrynh.org"
+},
+{
+"text": "londonderrynh.org",
+"href": "http://londonderrynh.org/"
+},
+{
+"text": "on the 2o21-2022 AEA report card on energy policy.",
+"href": "https://www.americanenergyalliance.org/american-energy-scorecard/?spage=state&state=nh"
+},
+{
+"text": "pfasrebateprogram@des.nh.gov",
+"href": "mailto:pfasrebateprogram@des.nh.gov"
+},
+{
+"text": "“Registering to Vote in New Hampshire”",
+"href": "https://www.sos.nh.gov/sites/g/files/ehbemt561/files/documents/2022-03/registering-to-vote-in-new-hampshire-oct2021.pdf"
+}
 ]

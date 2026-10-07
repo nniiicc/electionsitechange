@@ -1,50 +1,194 @@
 [
-"https://acog.org/",
-"https://cherokee.k12.ga.us/",
-"https://cherokeega.com/board-of-commissioners",
-"https://cherokeega.com/community-development",
-"https://cherokeega.com/community-development/zoning",
-"https://cherokeega.com/parks-recreation",
-"https://cherokeega.com/tax-assessor",
-"https://cherokeega.com/water-sewerage",
-"https://dbhdd.georgia.gov/",
-"https://dol.georgia.gov/",
-"https://dol.georgia.gov/minimum-wage",
-"https://dor.georgia.gov/appeal-my-assessment",
-"https://dor.georgia.gov/taxes/tax-data-reports",
-"https://dot.ga.gov/",
-"https://facebook.com/profile.php?id=61588022211048",
-"https://fema.gov/disaster/declarations?field_dv2_state_territory_tribal_value=GA",
-"https://gadoe.org/External-Affairs-and-Policy/Policy/Pages/Georgia-Promise-Scholarship.aspx",
-"https://gadoe.org/School-Improvement/Teacher-and-Leader-Effectiveness/Pages/Teacher-Salary.aspx",
-"https://gbpi.org/",
-"https://gbpi.org/school-vouchers",
-"https://gcc.georgia.gov/",
-"https://georgia.org/",
-"https://instagram.com/anthonyaragues",
-"https://kff.org/health-reform/state-indicator/marketplace-enrollment",
-"https://kff.org/statedata/georgia",
-"https://law.cornell.edu/constitution/fifth_amendment",
-"https://legis.ga.gov/",
-"https://legis.ga.gov/legislation/44856",
-"https://legis.ga.gov/legislation/59827",
-"https://legis.ga.gov/legislation/63656",
-"https://legis.ga.gov/legislation/en-US/Display/20252026/HB/1242",
-"https://legis.ga.gov/legislation/en-US/Display/20252026/HB/478",
-"https://legis.ga.gov/legislation/en-US/Display/20252026/SB/1",
-"https://livingwage.mit.edu/counties/13057",
-"https://medicaid.georgia.gov/programs/pathways",
-"https://nashp.org/rx-legislative-tracker",
-"https://peopleoverpolitics.vote/",
-"https://peopleoverpolitics.vote/about-anthony",
-"https://peopleoverpolitics.vote/affordability",
-"https://peopleoverpolitics.vote/bills-to-watch",
-"https://peopleoverpolitics.vote/cherokee-county/elections",
-"https://peopleoverpolitics.vote/combined-tax",
-"https://peopleoverpolitics.vote/events",
-"https://peopleoverpolitics.vote/poll",
-"https://registertovote.sos.ga.gov/",
-"https://reuters.com/legal/government/lawsuit-challenges-ice-ability-enter-homes-without-warrants-us-judges-2026-01-30",
-"https://sos.georgia.gov/elections-division/voting",
-"https://veterans.georgia.gov/"
+{
+"text": "About Anthony",
+"href": "https://www.peopleoverpolitics.vote/about-anthony"
+},
+{
+"text": "Affordability",
+"href": "https://www.peopleoverpolitics.vote/affordability"
+},
+{
+"text": "Bills to Watch",
+"href": "https://www.peopleoverpolitics.vote/bills-to-watch"
+},
+{
+"text": "Cherokee County Board of Commissioners",
+"href": "https://www.cherokeega.com/board-of-commissioners/"
+},
+{
+"text": "Cherokee County Community Development",
+"href": "https://www.cherokeega.com/community-development/"
+},
+{
+"text": "Cherokee County Parks & Recreation",
+"href": "https://www.cherokeega.com/parks-recreation/"
+},
+{
+"text": "Cherokee County School District",
+"href": "https://www.cherokee.k12.ga.us/"
+},
+{
+"text": "Cherokee County Tax Assessor",
+"href": "https://www.cherokeega.com/tax-assessor/"
+},
+{
+"text": "Cherokee County Water & Sewerage",
+"href": "https://www.cherokeega.com/water-sewerage/"
+},
+{
+"text": "Cherokee County Zoning Ordinance",
+"href": "https://www.cherokeega.com/community-development/zoning/"
+},
+{
+"text": "Cherokee Elections",
+"href": "https://www.peopleoverpolitics.vote/cherokee-county/elections"
+},
+{
+"text": "Community Poll",
+"href": "https://www.peopleoverpolitics.vote/poll"
+},
+{
+"text": "Events",
+"href": "https://www.peopleoverpolitics.vote/events"
+},
+{
+"text": "FEMA Georgia Disaster Declarations",
+"href": "https://www.fema.gov/disaster/declarations?field_dv2_state_territory_tribal_value=GA"
+},
+{
+"text": "Fifth Amendment — Cornell LII",
+"href": "https://www.law.cornell.edu/constitution/fifth_amendment"
+},
+{
+"text": "GA SB 452 — State Immigration Enforcement Authorization",
+"href": "https://www.legis.ga.gov/"
+},
+{
+"text": "GDOT Cherokee County Projects",
+"href": "https://www.dot.ga.gov/"
+},
+{
+"text": "GaDOE Teacher Pay",
+"href": "https://www.gadoe.org/School-Improvement/Teacher-and-Leader-Effectiveness/Pages/Teacher-Salary.aspx"
+},
+{
+"text": "Georgia ACA Enrollment Data — KFF",
+"href": "https://www.kff.org/health-reform/state-indicator/marketplace-enrollment/"
+},
+{
+"text": "Georgia Access to Medical Cannabis Commission",
+"href": "https://gcc.georgia.gov/"
+},
+{
+"text": "Georgia Budget & Policy Institute",
+"href": "https://gbpi.org/"
+},
+{
+"text": "Georgia Budget & Policy Institute — Voucher Analysis",
+"href": "https://gbpi.org/school-vouchers/"
+},
+{
+"text": "Georgia DOL Minimum Wage Info",
+"href": "https://dol.georgia.gov/minimum-wage"
+},
+{
+"text": "Georgia DOL Worker Classification",
+"href": "https://dol.georgia.gov/"
+},
+{
+"text": "Georgia DOR Tax Revenue Data",
+"href": "https://dor.georgia.gov/taxes/tax-data-reports"
+},
+{
+"text": "Georgia Department of Economic Development",
+"href": "https://www.georgia.org/"
+},
+{
+"text": "Georgia Department of Veterans Service",
+"href": "https://veterans.georgia.gov/"
+},
+{
+"text": "Georgia Dept. of Behavioral Health & Developmental Disabilities",
+"href": "https://dbhdd.georgia.gov/"
+},
+{
+"text": "Georgia Health Coverage Data — KFF",
+"href": "https://www.kff.org/statedata/georgia/"
+},
+{
+"text": "Georgia LIFE Act — Official Text",
+"href": "https://www.legis.ga.gov/legislation/44856"
+},
+{
+"text": "Georgia OB/GYN Impact Survey",
+"href": "https://www.acog.org/"
+},
+{
+"text": "Georgia Pathways Program",
+"href": "https://medicaid.georgia.gov/programs/pathways"
+},
+{
+"text": "Georgia Promise Scholarship",
+"href": "https://www.gadoe.org/External-Affairs-and-Policy/Policy/Pages/Georgia-Promise-Scholarship.aspx"
+},
+{
+"text": "Georgia Secretary of State — Voting Requirements",
+"href": "https://sos.georgia.gov/elections-division/voting"
+},
+{
+"text": "HB 1242 — Medical Freedom Act",
+"href": "https://www.legis.ga.gov/legislation/en-US/Display/20252026/HB/1242"
+},
+{
+"text": "HB 478 — AI Content Disclaimer",
+"href": "https://www.legis.ga.gov/legislation/en-US/Display/20252026/HB/478"
+},
+{
+"text": "How to Appeal Your Assessment",
+"href": "https://dor.georgia.gov/appeal-my-assessment"
+},
+{
+"text": "MIT Living Wage Calculator — Cherokee County",
+"href": "https://livingwage.mit.edu/counties/13057"
+},
+{
+"text": "National Academy for State Health Policy — Drug Pricing",
+"href": "https://nashp.org/rx-legislative-tracker/"
+},
+{
+"text": "PEOPLE OVER POLITICS",
+"href": "https://www.peopleoverpolitics.vote/"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovote.sos.ga.gov/"
+},
+{
+"text": "Reuters — Lawsuit Challenging ICE Home Entry Policy (Jan 2026)",
+"href": "https://www.reuters.com/legal/government/lawsuit-challenges-ice-ability-enter-homes-without-warrants-us-judges-2026-01-30/"
+},
+{
+"text": "SB 1 — Fair and Safe Athletic Opportunities Act",
+"href": "https://www.legis.ga.gov/legislation/en-US/Display/20252026/SB/1"
+},
+{
+"text": "SB 202 Summary — Georgia Elections",
+"href": "https://www.legis.ga.gov/legislation/59827"
+},
+{
+"text": "SB 74 — Prohibited Materials in Libraries",
+"href": "https://www.legis.ga.gov/legislation/63656"
+},
+{
+"text": "Tax Math",
+"href": "https://www.peopleoverpolitics.vote/combined-tax"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588022211048"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/anthonyaragues/"
+}
 ]

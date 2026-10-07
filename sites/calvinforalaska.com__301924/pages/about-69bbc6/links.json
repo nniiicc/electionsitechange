@@ -1,12 +1,174 @@
 [
-"http://facebook.com/calvinforalaska",
-"http://squarespace.com/",
-"https://calvinforalaska.com/",
-"https://calvinforalaska.com/about",
-"https://calvinforalaska.com/cart",
-"https://calvinforalaska.com/donate",
-"https://calvinforalaska.com/get-involved",
-"https://instagram.com/calvinforak",
-"https://photos.app.goo.gl/dLA6ck1izp9jmNVY8",
-"https://secure.anedot.com/calvin-for-alaska/donate"
+{
+"text": "0",
+"href": "https://www.calvinforalaska.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.calvinforalaska.com/about"
+},
+{
+"text": "Calvin For Alaska",
+"href": "https://www.calvinforalaska.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/calvin-for-alaska/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.calvinforalaska.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.calvinforalaska.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://calvinforalaska.com"
+},
+{
+"text": "Home",
+"href": "https://www.calvinforalaska.com/"
+},
+{
+"text": "[image: 70885105_701656183670379_9171174929939300352_n.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: C4SH-12.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: C4SH-15.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: C4SH-31.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: Calvin Kayaking.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: Calvin as a kiddo.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: Calvin sign crew.JPG]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: Calvin talking to folks.JPG]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: Calvin talking to hippy.JPG]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: DSC00537.JPG]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: DSC09849v2.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: IMG_20190830_172919.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: IMG_20200209_174119.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: IMG_20200223_151650.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: IMG_20200506_155802.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: IMG_20200606_145100.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: IMG_20200607_000910.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: IMG_20200705_170212.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: IMG_20200726_142619.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: IMG_20200728_131227.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: IMG_20200815_132103.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: IMG_20200822_151630.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: IMG_20200904_185550.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: MVIMG_20190824_133158.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: [CFA20] Calvin and Heather with dogs.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: [CFA20] Calvin at ALCC Meeting.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: [CFA20] Heather and Calvin in Chicken.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: [CFA20] IMG_20200120_194509.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: [CFA20] IMG_2265.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: [CFA20] IMG_2287.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[image: calvin-speaking.jpg]",
+"href": "https://photos.app.goo.gl/dLA6ck1izp9jmNVY8"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/calvinforalaska"
+},
+{
+"text": "[no text]",
+"href": "http://squarespace.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/calvinforak/"
+},
+{
+"text": "calvin@calvinforalaska.com",
+"href": "mailto:calvin@calvinforalaska.com"
+}
 ]

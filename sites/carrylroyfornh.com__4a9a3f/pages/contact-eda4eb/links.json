@@ -1,11 +1,38 @@
 [
-"https://carrylroyfornh.com/",
-"https://carrylroyfornh.com/about",
-"https://carrylroyfornh.com/get-involved",
-"https://carrylroyfornh.com/issues",
-"https://designedtorun.com/",
-"https://facebook.com/carrylroyfornh",
-"https://instagram.com/carrylroyfornh",
-"https://secure.actblue.com/donate/cr-website",
-"https://x.com/carrylroyfornh"
+{
+"text": "About",
+"href": "https://www.carrylroyfornh.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cr-website"
+},
+{
+"text": "Get Involved",
+"href": "https://www.carrylroyfornh.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.carrylroyfornh.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Carryl Roy for State Senate]",
+"href": "https://www.carrylroyfornh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/carrylroyfornh"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/carrylroyfornh"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/carrylroyfornh"
+}
 ]

@@ -1,17 +1,70 @@
 [
-"https://archive.legmt.gov/content/Committees/Interim/2025-2026/LGIC/9_25_2025/3-SPSCS_Primer.pdf",
-"https://facebook.com/klakkenformontana",
-"https://instagram.com/klakkenformontana",
-"https://secure.winred.com/shane-klakken-for-montana/donate",
-"https://shaneklakken.com/",
-"https://shaneklakken.com/about",
-"https://shaneklakken.com/articles",
-"https://shaneklakken.com/calendar",
-"https://shaneklakken.com/contact",
-"https://shaneklakken.com/news",
-"https://shaneklakken.com/newsletter",
-"https://shaneklakken.com/principles",
-"https://tiktok.com/@klakkenformontana",
-"https://x.com/klakken4montana",
-"https://youtube.com/@klakkenformontana"
+{
+"text": "About",
+"href": "https://www.shaneklakken.com/about"
+},
+{
+"text": "Calendar",
+"href": "https://www.shaneklakken.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.shaneklakken.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/shane-klakken-for-montana/donate"
+},
+{
+"text": "Home",
+"href": "https://www.shaneklakken.com"
+},
+{
+"text": "News",
+"href": "https://www.shaneklakken.com/news"
+},
+{
+"text": "Newsletter",
+"href": "https://www.shaneklakken.com/newsletter"
+},
+{
+"text": "Principles",
+"href": "https://www.shaneklakken.com/principles"
+},
+{
+"text": "Read full article…",
+"href": "https://www.shaneklakken.com/articles"
+},
+{
+"text": "Statewide Emergency Communication System",
+"href": "https://archive.legmt.gov/content/Committees/Interim/2025-2026/LGIC/9_25_2025/3-SPSCS_Primer.pdf"
+},
+{
+"text": "Subscribe Now",
+"href": "https://www.shaneklakken.com/newsletter"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/klakkenformontana"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/klakkenformontana/"
+},
+{
+"text": "[no text]",
+"href": "https://www.shaneklakken.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@klakkenformontana"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@klakkenformontana"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/klakken4montana"
+}
 ]

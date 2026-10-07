@@ -1,10 +1,42 @@
 [
-"https://cookieadmin.net/",
-"https://erik4utah.com/",
-"https://erik4utah.com/contact",
-"https://erik4utah.com/donate",
-"https://erik4utah.com/endorse",
-"https://erik4utah.com/issues",
-"https://erik4utah.com/meet-erik",
-"https://erik4utah.com/volunteer"
+{
+"text": "Contact",
+"href": "https://erik4utah.com/contact/"
+},
+{
+"text": "Donate Fuel a grassroots campaign focused on families, freedom, and results—every dollar counts. Contribute",
+"href": "https://erik4utah.com/donate/"
+},
+{
+"text": "Endorse Add your name to the campaign and show your support for conservative, local leadership. Add your endorsement",
+"href": "https://erik4utah.com/endorse/"
+},
+{
+"text": "Issues",
+"href": "https://erik4utah.com/issues/"
+},
+{
+"text": "Meet Erik",
+"href": "https://erik4utah.com/meet-erik/"
+},
+{
+"text": "Meet Erik Learn Erik’s story, his values, and why he’s running to represent West Davis. Learn more",
+"href": "https://erik4utah.com/meet-erik/"
+},
+{
+"text": "Powered by",
+"href": "https://cookieadmin.net/"
+},
+{
+"text": "Volunteer Help knock doors, share messages online, or pitch in at events—every hour helps. Join the team",
+"href": "https://erik4utah.com/volunteer/"
+},
+{
+"text": "Vote Erik",
+"href": "https://erik4utah.com/"
+},
+{
+"text": "[image: Erik Craythorne]",
+"href": "https://erik4utah.com"
+}
 ]

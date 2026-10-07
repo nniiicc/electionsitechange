@@ -1,12 +1,9 @@
-From locker rooms to Congress: Jay Feely latest athlete seeking to take lessons in leadership to Capitol Hill
-Former NFL placekicker Jay Feely is the latest professional athlete poised to transition to a congressional career, where leadership, performing under pressure and handling public scrutiny are essential in both arenas.
+0 Skip to Content Meet Jay Issues MEDIA News Contact Donate Open Menu Close Menu Meet Jay Issues MEDIA News Contact Donate Open Menu Close Menu Meet Jay Issues MEDIA News Contact Donate From locker rooms to Congress: Jay Feely latest athlete seeking to take lessons in leadership to Capitol Hill Jul 25 Written By Blake Wilson Former NFL placekicker Jay Feely is the latest professional athlete poised to transition to a congressional career, where leadership, performing under pressure and handling public scrutiny are essential in both arenas.
 Fox News Digital reached out to Feely, who spent time with the New York Giants and Arizona Cardinals before becoming an "NFL on CBS" commentator, for his take on why professional sports prepared him for public life as he seeks the seat of retiring Rep.
 David Schweikert, R-Ariz.
 "Especially as a kicker — to be a successful kicker in the NFL, you have to be able to handle pressure, and you have be able handle failure.
 And I think those two attributes are very tangible attributes that will help you as you try to navigate the political field and try to be effective," Feely said Friday in an interview with Fox News Digital.
-He said the NFL also exposed him to teammates from different backgrounds and viewpoints, helping prepare him to represent a diverse constituency.
-"[T]he greatest advantage of being an NFL player was to be in those locker rooms where racial walls were broken down and conversations happened and you got to know people which otherwise you might not ever get to know."
-He recalled rooming with LeVar Arrington and Brandon Short while with the Giants in East Rutherford, sharing stories about their different life experiences and personal views as they played chess and other games.
+He said the NFL also exposed him to teammates from different backgrounds and viewpoints, helping prepare him to represent a diverse constituency. "[T]he greatest advantage of being an NFL player was to be in those locker rooms where racial walls were broken down and conversations happened and you got to know people which otherwise you might not ever get to know." He recalled rooming with LeVar Arrington and Brandon Short while with the Giants in East Rutherford, sharing stories about their different life experiences and personal views as they played chess and other games.
 "Your job is to represent everybody and i think those experiences certainly are an asset," Feely said.
 He also mentioned a trip to the infamously unfriendly confines of Lincoln Financial Field to play the Philadelphia Eagles right after the "worst game of [his] career" against the Seahawks.
 The prior night he had been "spoofed" on "Saturday Night Live," and while preparing for what was a game-winning kick after an apparent icing timeout, Philadelphia played a montage of his Seattle misses on the Jumbotron to mock him.
@@ -16,3 +13,5 @@ Feely added that he got to know another athlete-turned-public official through t
 He said he also hopes to see other athletes regardless of viewpoint who have acted on issues close to them, like former New Orleans Saints Drew Brees and Benjamin Watson.
 Feely will face former state Rep.
 Amish Shah, D-Phoenix, who also worked for about two years as the New York Jets' team doctor.
+Blake Wilson Previous Previous How CD1 candidate Jay Feely plans to work across the aisle in Congress Next Next Trump-Backed Former NFL Kicker Jay Feely Will Face Former New York Jets Doctor in Arizona Primary SUBSCRIBE PAID FOR BY FEELY FOR CONGRESS © Copyright #.
+All rights reserved.

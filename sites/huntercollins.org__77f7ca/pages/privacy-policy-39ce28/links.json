@@ -1,10 +1,50 @@
 [
-"https://huntercollins.org/",
-"https://huntercollins.org/about-me",
-"https://huntercollins.org/contact-me",
-"https://huntercollins.org/home",
-"https://huntercollins.org/privacy-policy",
-"https://privacypolicyonline.com/privacy-policy-generator",
-"https://privacypolicyonline.com/what-are-cookies",
-"https://secure.actblue.com/donate/hunter4indiana"
+{
+"text": "About Me",
+"href": "https://huntercollins.org/about-me/"
+},
+{
+"text": "Contact Us or Get Involved!",
+"href": "https://huntercollins.org/contact-me/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hunter4indiana"
+},
+{
+"text": "Find Out Where Hunter Stands on the Issues",
+"href": "https://huntercollins.org/about-me/"
+},
+{
+"text": "Get Involved",
+"href": "https://huntercollins.org/contact-me/"
+},
+{
+"text": "Home",
+"href": "https://huntercollins.org/"
+},
+{
+"text": "Home",
+"href": "https://huntercollins.org/home/"
+},
+{
+"text": "Hunter Collins",
+"href": "https://huntercollins.org"
+},
+{
+"text": "Meet Hunter",
+"href": "https://huntercollins.org/about-me/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://huntercollins.org/privacy-policy/"
+},
+{
+"text": "Privacy Policy Generator",
+"href": "https://www.privacypolicyonline.com/privacy-policy-generator/"
+},
+{
+"text": "[image]",
+"href": "https://huntercollins.org/"
+}
 ]

@@ -1,10 +1,38 @@
 [
-"https://colleenburton.com/",
-"https://colleenburton.com/cart",
-"https://colleenburton.com/issues-priorities",
-"https://colleenburton.com/meet-colleen",
-"https://facebook.com/ColleenBurtonFL",
-"https://linkedin.com/in/colleenburton",
-"https://secure.anedot.com/colleenburtoncampaign/donate",
-"https://twitter.com/ColleenLBurton"
+{
+"text": "0",
+"href": "https://www.colleenburton.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/colleenburtoncampaign/donate"
+},
+{
+"text": "Home",
+"href": "https://www.colleenburton.com/"
+},
+{
+"text": "Issues and Priorities",
+"href": "https://www.colleenburton.com/issues-priorities"
+},
+{
+"text": "Meet Colleen",
+"href": "https://www.colleenburton.com/meet-colleen"
+},
+{
+"text": "[image: Colleen Burton]",
+"href": "https://www.colleenburton.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ColleenLBurton"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ColleenBurtonFL/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/colleenburton"
+}
 ]

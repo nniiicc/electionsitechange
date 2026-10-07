@@ -1,21 +1,90 @@
 [
-"http://instagram.com/lucymcbath",
-"http://twitter.com/lucymcbath",
-"https://facebook.com/electlucymcbath",
-"https://instagram.com/lucymcbath",
-"https://lucyforcongress.com/",
-"https://lucyforcongress.com/about",
-"https://lucyforcongress.com/getinvolved",
-"https://lucyforcongress.com/issues",
-"https://lucyforcongress.com/media",
-"https://lucyforcongress.com/news",
-"https://lucyforcongress.com/privacy",
-"https://secure.actblue.com/contribute/page/support-lucy?amount=10&express_lane=true",
-"https://secure.actblue.com/contribute/page/support-lucy?amount=100&express_lane=true",
-"https://secure.actblue.com/contribute/page/support-lucy?amount=25&express_lane=true",
-"https://secure.actblue.com/contribute/page/support-lucy?amount=250&express_lane=true",
-"https://secure.actblue.com/contribute/page/support-lucy?amount=5&express_lane=true",
-"https://secure.actblue.com/contribute/page/support-lucy?amount=50&express_lane=true",
-"https://secure.actblue.com/contribute/page/support-lucy?express_lane=true",
-"https://store.lucyforcongress.com/"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/contribute/page/support-lucy?amount=10&express_lane=true"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/contribute/page/support-lucy?amount=100&express_lane=true"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/contribute/page/support-lucy?amount=25&express_lane=true"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/contribute/page/support-lucy?amount=250&express_lane=true"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/contribute/page/support-lucy?amount=5&express_lane=true"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/contribute/page/support-lucy?amount=50&express_lane=true"
+},
+{
+"text": "About Lucy",
+"href": "https://lucyforcongress.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/support-lucy?express_lane=true"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/electlucymcbath"
+},
+{
+"text": "Get Involved",
+"href": "https://lucyforcongress.com/getinvolved/"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/lucymcbath"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/lucymcbath"
+},
+{
+"text": "Issues",
+"href": "https://lucyforcongress.com/issues/"
+},
+{
+"text": "News Coverage",
+"href": "https://lucyforcongress.com/news/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/contribute/page/support-lucy?express_lane=true"
+},
+{
+"text": "Photos and Videos",
+"href": "https://lucyforcongress.com/media/"
+},
+{
+"text": "Press",
+"href": "mailto:john@lucyforcongress.com"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:john@lucyforcongress.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://lucyforcongress.com/privacy/"
+},
+{
+"text": "Store",
+"href": "https://store.lucyforcongress.com/"
+},
+{
+"text": "Twitter",
+"href": "http://twitter.com/lucymcbath"
+},
+{
+"text": "[image]",
+"href": "https://lucyforcongress.com/"
+}
 ]

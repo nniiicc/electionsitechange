@@ -1,8 +1,26 @@
 [
-"https://facebook.com/electjudgehawkins",
-"https://hawkinsforohio.com/",
-"https://hawkinsforohio.com/b-roll",
-"https://hawkinsforohio.com/meet-judge-hawkins",
-"https://secure.anedot.com/hawkins-for-ohio/donate",
-"https://twitter.com/JudgeHawkins"
+{
+"text": "B-Roll",
+"href": "https://www.hawkinsforohio.com/b-roll"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/hawkins-for-ohio/donate"
+},
+{
+"text": "MEET JUSTICE HAWKINS",
+"href": "https://www.hawkinsforohio.com/meet-judge-hawkins"
+},
+{
+"text": "[image: justice-logo.png]",
+"href": "https://www.hawkinsforohio.com"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/JudgeHawkins"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/electjudgehawkins/"
+}
 ]

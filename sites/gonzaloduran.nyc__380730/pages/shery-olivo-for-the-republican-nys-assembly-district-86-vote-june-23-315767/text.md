@@ -1,15 +1,21 @@
-Shery Olivo for the Republican NYS Assembly District 86: Vote June 23
-Shery Olivo will be on tomorrow’s Republican primary ballot, and I hope you take the opportunity to vote for her.
+Skip to content Gonzalo Duran Vice Chairman of the Bronx Conservative Party & Candidate for US Congress in New York’s 15th Congressional District Menu Gonzalo Duran Autobiography Press Videos Articles Press Release Gonzalo In The Press Platforms Veterans Health Safety Housing Education Employment Environment Animal Issues Transportation Civil Engagement Burn Pits – Has Heart Help The Team Volunteer Contribute Events Scheduled Events Event Photos Contact Us Posted on June 22, 2026 June 22, 2026 by Gonzalo Duran Shery Olivo for the Republican NYS Assembly District 86: Vote June 23 Shery Olivo will be on tomorrow’s Republican primary ballot, and I hope you take the opportunity to vote for her.
 I was fortunate to meet Shery last year during my campaign for Public Advocate of New York City.
 I first saw her supporting our Republican slate of candidates, which included myself, Curtis Sliwa, and Peter Kafalas.
 This year, I had the opportunity to help her canvass for signatures to secure the Conservative Party line, attend speaking forums with her, and observe her involvement in community activities throughout the district.
-My fellow Conservative Party members and I believe she has what it takes to serve in the State Assembly and make the changes we need.
+View this post on Instagram My fellow Conservative Party members and I believe she has what it takes to serve in the State Assembly and make the changes we need.
 She has what it takes to speak for the values we hold dear, and I believe her personal convictions, combined with the hardships she has overcome, will help drive her efforts to improve both the district and New York as a whole.
 Recently, I have been walking with Shery throughout the district as she reminds fellow Republicans to vote in the upcoming primary.
 Many residents were happy to see a Republican candidate personally knocking on their doors and engaging with them directly.
 I also had the opportunity to speak at the Dominican American Republican Club event that was held in support of her Assembly campaign.
 It was incredible to see the support she has built within her district and the number of constituents rallying behind her.
 With the momentum she is building, I have no doubt that her support will continue to grow.
-If you are a registered Republican living in the 86th Assembly District, I encourage you to make your way to the polls and cast your vote.
+Shery Olivo Speaking to Community Members in the 86th Assembly District If you are a registered Republican living in the 86th Assembly District, I encourage you to make your way to the polls and cast your vote.
 I am also happy to announce that regardless of the outcome of the Republican primary, Shery Olivo will remain on the Conservative Party line in the general election on November 3rd.
-If you are not sure which Assembly District you live in, click the link below:
+If you are not sure which Assembly District you live in, click the link below: https://vote.nyc/page/find-your-poll-site If you are not sure whether you are registered as a Republican, click the link below: https://amiregistered.vote.nyc Share this: Share Share on Facebook (Opens in new window) Facebook Share on X (Opens in new window) X Share on LinkedIn (Opens in new window) LinkedIn Share on Pinterest (Opens in new window) Pinterest Share on Tumblr (Opens in new window) Tumblr Share on Reddit (Opens in new window) Reddit Like this: Like Loading… Related Categories Articles Tags Assembly District 86 , Elections 2026 , Primary , Republican Party , Shery Olivo 2 Replies to “Shery Olivo for the Republican NYS Assembly District 86: Vote June 23” dreamerdeliciously19e4aff25f says: June 25, 2026 at 6:05 am Congratulations on your Campaign.
+Denise Smith Reply Denise L Smith says: July 28, 2026 at 7:56 am Sheryl is an awesome candidate and I hope she wins.
+(Denise Smith) Reply Leave a Reply Cancel reply Post navigation Previous Post Previous Shery Olivo Secures Her Place on the Bronx Republican Ballot Social Media View gonzalodurannyc’s profile on Facebook View gonzalodurannyc’s profile on Twitter View gonzalodurannyc’s profile on Instagram View gonzalodurannyc’s profile on Pinterest View gonzalodurannyc’s profile on LinkedIn View @gonzalodurannyc’s profile on YouTube View gonzalodurannyc’s profile on Tumblr Type your email… Subscribe © COPYRIGHT # - PRESENT.
+ALL RIGHTS RESERVED.
+GONZALO DURAN VICE CHAIRMAN OF THE BRONX COUNTY CONSERVATIVE PARTY & (C) DISTRICT LEADER FOR THE 79TH ASSEMBLY DISTRICT.
+Proudly powered by WordPress Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

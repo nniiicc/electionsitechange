@@ -1,53 +1,222 @@
 [
-"https://americafirstinsight.com/america-first-endorsements",
-"https://drmikekatz.com/",
-"https://drmikekatz.com/contact",
-"https://drmikekatz.com/donate",
-"https://drmikekatz.com/endorsements",
-"https://drmikekatz.com/endorsements/college-republicans.jpg",
-"https://drmikekatz.com/endorsements/college-republicans.pdf",
-"https://drmikekatz.com/endorsements/cra.jpg",
-"https://drmikekatz.com/endorsements/cra.pdf",
-"https://drmikekatz.com/endorsements/danny-short.jpg",
-"https://drmikekatz.com/endorsements/delpercio.jpg",
-"https://drmikekatz.com/endorsements/delpercio.pdf",
-"https://drmikekatz.com/endorsements/hague.jpg",
-"https://drmikekatz.com/endorsements/hague.pdf",
-"https://drmikekatz.com/endorsements/ipod.jpg",
-"https://drmikekatz.com/endorsements/ipod.pdf",
-"https://drmikekatz.com/endorsements/lawson.jpg",
-"https://drmikekatz.com/endorsements/lawson.pdf",
-"https://drmikekatz.com/endorsements/molnar.jpg",
-"https://drmikekatz.com/endorsements/molnar.pdf",
-"https://drmikekatz.com/endorsements/murphy.jpg",
-"https://drmikekatz.com/endorsements/murphy.pdf",
-"https://drmikekatz.com/endorsements/murray.jpg",
-"https://drmikekatz.com/endorsements/murray.pdf",
-"https://drmikekatz.com/endorsements/northern-gop.jpg",
-"https://drmikekatz.com/endorsements/northern-gop.pdf",
-"https://drmikekatz.com/endorsements/sussex-gop.jpg",
-"https://drmikekatz.com/endorsements/willis.jpg",
-"https://drmikekatz.com/endorsements/willis.pdf",
-"https://drmikekatz.com/endorsements/wilson.jpg",
-"https://drmikekatz.com/endorsements/wilson.pdf",
-"https://drmikekatz.com/factcheck",
-"https://drmikekatz.com/imgs/af1-endorsement.jpg",
-"https://drmikekatz.com/join",
-"https://drmikekatz.com/lit",
-"https://drmikekatz.com/meet-mike",
-"https://drmikekatz.com/news",
-"https://drmikekatz.com/news/coons-rejects-wdel-debate",
-"https://drmikekatz.com/platform",
-"https://drmikekatz.com/press-releases/2026-08-07-sussex-gop-press-release.pdf",
-"https://drmikekatz.com/privacy",
-"https://drmikekatz.com/record",
-"https://drmikekatz.com/retire",
-"https://drmikekatz.com/signs",
-"https://drmikekatz.com/videos",
-"https://drmikekatz.com/volunteer",
-"https://drmikekatz.com/vote",
-"https://facebook.com/profile.php?id=100092662750874",
-"https://instagram.com/drmikekatz",
-"https://sussex.gop/post/sussex-county-gop-executive-committee-issues-endorsement-of-dr-mike-katz-for-u-s-senate",
-"https://x.com/drmikekatz"
+{
+"text": "Contact",
+"href": "https://drmikekatz.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://drmikekatz.com/donate"
+},
+{
+"text": "Donate →",
+"href": "https://drmikekatz.com/donate"
+},
+{
+"text": "Download PDF ↓",
+"href": "https://drmikekatz.com/endorsements/college-republicans.pdf"
+},
+{
+"text": "Download PDF ↓",
+"href": "https://drmikekatz.com/endorsements/cra.pdf"
+},
+{
+"text": "Download PDF ↓",
+"href": "https://drmikekatz.com/endorsements/delpercio.pdf"
+},
+{
+"text": "Download PDF ↓",
+"href": "https://drmikekatz.com/endorsements/hague.pdf"
+},
+{
+"text": "Download PDF ↓",
+"href": "https://drmikekatz.com/endorsements/ipod.pdf"
+},
+{
+"text": "Download PDF ↓",
+"href": "https://drmikekatz.com/endorsements/lawson.pdf"
+},
+{
+"text": "Download PDF ↓",
+"href": "https://drmikekatz.com/endorsements/molnar.pdf"
+},
+{
+"text": "Download PDF ↓",
+"href": "https://drmikekatz.com/endorsements/murphy.pdf"
+},
+{
+"text": "Download PDF ↓",
+"href": "https://drmikekatz.com/endorsements/murray.pdf"
+},
+{
+"text": "Download PDF ↓",
+"href": "https://drmikekatz.com/endorsements/northern-gop.pdf"
+},
+{
+"text": "Download PDF ↓",
+"href": "https://drmikekatz.com/endorsements/willis.pdf"
+},
+{
+"text": "Download PDF ↓",
+"href": "https://drmikekatz.com/endorsements/wilson.pdf"
+},
+{
+"text": "Download PDF ↓",
+"href": "https://drmikekatz.com/press-releases/2026-08-07-sussex-gop-press-release.pdf"
+},
+{
+"text": "Endorsements",
+"href": "https://drmikekatz.com/endorsements"
+},
+{
+"text": "Fact Check",
+"href": "https://drmikekatz.com/factcheck"
+},
+{
+"text": "Home",
+"href": "https://drmikekatz.com/"
+},
+{
+"text": "Join",
+"href": "https://drmikekatz.com/join"
+},
+{
+"text": "Join the Campaign",
+"href": "https://drmikekatz.com/join"
+},
+{
+"text": "Literature",
+"href": "https://drmikekatz.com/lit"
+},
+{
+"text": "Meet Dr. Katz",
+"href": "https://drmikekatz.com/meet-mike"
+},
+{
+"text": "Meet Mike",
+"href": "https://drmikekatz.com/meet-mike"
+},
+{
+"text": "News",
+"href": "https://drmikekatz.com/news"
+},
+{
+"text": "Platform",
+"href": "https://drmikekatz.com/platform"
+},
+{
+"text": "Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability →",
+"href": "https://drmikekatz.com/news/coons-rejects-wdel-debate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://drmikekatz.com/privacy"
+},
+{
+"text": "Read the Endorsement →",
+"href": "https://americafirstinsight.com/america-first-endorsements/"
+},
+{
+"text": "Read the Endorsement →",
+"href": "https://www.sussex.gop/post/sussex-county-gop-executive-committee-issues-endorsement-of-dr-mike-katz-for-u-s-senate"
+},
+{
+"text": "Record",
+"href": "https://drmikekatz.com/record"
+},
+{
+"text": "Retire Coons",
+"href": "https://drmikekatz.com/retire"
+},
+{
+"text": "Videos",
+"href": "https://drmikekatz.com/videos"
+},
+{
+"text": "Volunteer",
+"href": "https://drmikekatz.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://drmikekatz.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://drmikekatz.com/signs"
+},
+{
+"text": "[image: Endorsement from America First Insight]",
+"href": "https://drmikekatz.com/imgs/af1-endorsement.jpg"
+},
+{
+"text": "[image: Endorsement from College Republicans of America]",
+"href": "https://drmikekatz.com/endorsements/cra.jpg"
+},
+{
+"text": "[image: Endorsement from Daniel Willis]",
+"href": "https://drmikekatz.com/endorsements/willis.jpg"
+},
+{
+"text": "[image: Endorsement from Delaware College Republicans]",
+"href": "https://drmikekatz.com/endorsements/college-republicans.jpg"
+},
+{
+"text": "[image: Endorsement from Independent Party of Delaware]",
+"href": "https://drmikekatz.com/endorsements/ipod.jpg"
+},
+{
+"text": "[image: Endorsement from Jeff Hague]",
+"href": "https://drmikekatz.com/endorsements/hague.jpg"
+},
+{
+"text": "[image: Endorsement from Julianne Murray]",
+"href": "https://drmikekatz.com/endorsements/murray.jpg"
+},
+{
+"text": "[image: Endorsement from Laura DelPercio]",
+"href": "https://drmikekatz.com/endorsements/delpercio.jpg"
+},
+{
+"text": "[image: Endorsement from Lee Murphy]",
+"href": "https://drmikekatz.com/endorsements/murphy.jpg"
+},
+{
+"text": "[image: Endorsement from Northern New Castle County Republican Party]",
+"href": "https://drmikekatz.com/endorsements/northern-gop.jpg"
+},
+{
+"text": "[image: Endorsement from State Rep. Danny Short]",
+"href": "https://drmikekatz.com/endorsements/danny-short.jpg"
+},
+{
+"text": "[image: Endorsement from State Senator Dave Lawson]",
+"href": "https://drmikekatz.com/endorsements/lawson.jpg"
+},
+{
+"text": "[image: Endorsement from State Senator Dave Wilson]",
+"href": "https://drmikekatz.com/endorsements/wilson.jpg"
+},
+{
+"text": "[image: Endorsement from Sussex County Republican Party]",
+"href": "https://drmikekatz.com/endorsements/sussex-gop.jpg"
+},
+{
+"text": "[image: Endorsement from Tom Molnar]",
+"href": "https://drmikekatz.com/endorsements/molnar.jpg"
+},
+{
+"text": "[image: Katz '26 — Dr. Mike Katz for U.S. Senate]",
+"href": "https://drmikekatz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100092662750874"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/drmikekatz/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/drmikekatz"
+}
 ]

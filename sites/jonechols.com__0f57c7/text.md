@@ -1,12 +1,10 @@
-Priorities
-“I’m a proven conservative, seeking the office of Attorney General for all our families.”
-Meet Jon
-Jon has spent his entire life in Oklahoma.
+Skip to content Home Priorities Meet Jon News Endorsements Media Contact Home Priorities Meet Jon News Endorsements Media Contact Donate Priorities “I’m a proven conservative , seeking the office of Attorney General for all our families.” Endorsements Vic Regalado Tulsa County Sheriff Tommie Johnson III Oklahoma County Sheriff Chris West Canadian County Sheriff Andy Cumberledge Love County Sheriff Damon Devereaux Logan County Sheriff Freeland Wood Pottawatomie County Sheriff Bret Bowling Creek County Sheriff Gary Dodd Johnston County Sheriff Matt McGuire Noble County Sheriff Shane Booth Ellis County Sheriff Clay Sander Dewey County Sheriff Joe Harper Payne County Sheriff Cory Rink Garfield County Sheriff Scott Walton Rogers County Sheriff Jim Mullet Garvin County Sheriff Kevin Rozell Washita County Sheriff Joe Janz Kiowa County Sheriff Gary Boggess Grady County Sheriff Darren Atha Roger Mills County Sheriff Jason Ritchie Adair County Sheriff Andy Simmons Muskogee County Sheriff Mark Swinton Cimarron County Sheriff Steve Cornett Harmon County Sheriff Steve McMahan Greer County Sheriff Joey Tucker Bryan County Sheriff Kody Simpson Atoka County Sheriff Jason Chennault Cherokee County Sheriff Larry Lane Sequoyah County Sheriff David Dean Ottawa County Sheriff Heath Winfrey Craig County Sheriff Oscar Juanes Tillman County Sheriff Tony Robinson Major County Sheriff Adam Woodruff Latimer County Sheriff Steve Kelley Kay County Sheriff Dan Day Custer County Sheriff Stacy Randolph Jackson County Sheriff Spencer Davis Caddo County Sheriff Terry Garland Haskell County Sheriff Follow Team Echols Facebook Twitter Instagram Join Team Echols Donate or Contact us Today!
+Meet Jon Jon has spent his entire life in Oklahoma.
 He’s a fifth-generation Oklahoman whose roots go back to the Land Run.
 His family still owns the farm they’ve had in Okeene since 1893.
 Jon met his wife, Kristen, in high school, and now they’re raising their three kids in OKC.
 No one is more committed to our area’s future than Jon Echols.
-Local Businessman
-Jon is a local small business owner and serial entrepreneur— starting his first business in college.
+Local Businessman Jon is a local small business owner and serial entrepreneur— starting his first business in college.
 Jon understands what it takes to run a business and create jobs in our economy.
 Jon received his undergraduate degree from the University of Oklahoma and his law degree from Oklahoma City University.
+Read More Terms – Privacy – Opt-in Authorized and Paid for by Echols for Attorney General 2026

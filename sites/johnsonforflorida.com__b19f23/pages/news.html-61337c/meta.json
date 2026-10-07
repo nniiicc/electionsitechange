@@ -1,7 +1,9 @@
 {
  "description": "Keep up to date with critical campaign news and events for the Chad Johnson for State Representative Campaign.",
  "final_url": "https://johnsonforflorida.com/news.html",
- "paid_for_by": null,
+ "fingerprint": "e2cfab89e48d35cdd479aa63174ee82e1ed57707",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Campaign News and Events",
  "years_mentioned": [
   "2023",

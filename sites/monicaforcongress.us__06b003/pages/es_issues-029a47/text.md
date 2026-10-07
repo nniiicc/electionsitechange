@@ -1,42 +1,14 @@
-- Eliminar regulaciones sobre agricultores y ganaderos que prohíben la prosperidad económica
-- Oponerse a aranceles que impiden a los agricultores estadounidenses alcanzar nuevos clientes
-- Asegurar que ganaderos y agricultores sean reembolsados por daños confirmados debido al tráfico de inmigrantes ilegales
-- Solucionar la crisis de la cadena de suministro para permitir exportaciones fluidas de productos agrícolas estadounidenses
-- Restablecer la política de Permanecer en México.
-- Terminar con la práctica de "Captura y Liberación".
-- Completar la infraestructura a lo largo de la frontera.
-- Apoyar a los agentes de la Patrulla Fronteriza y Aduanas.
-- Contratar más jueces de inmigración.
-- Apoyar el programa E-Verify.
-- Impuestos bajos para las familias y las pequeñas empresas
-- Hacer que la energía sea asequible y producida en Estados Unidos
-- Responsabilizar a la China comunista por perjudicar a los trabajadores estadounidenses
-- Recortar el gasto excesivo de Washington que está provocando la inflación
-- Eliminar regulaciones que aumentan el costo de la energía
-- Apoyar los empleos en el sector del petróleo y gas natural
-- Invertir en energía estadounidense para ser independientes energéticamente de nuevo
-- Mejorar la calidad del aire y reducir la contaminación a través de la tecnología
-- Apoyar el uso seguro y eficiente de la energía nuclear
-- Rechazar las políticas radicales socialistas
-- Proteger Medicare y el Seguro Social
-- Copatriconó leyes para proteger los beneficios de nuestros abuelitos
-- Detener el gasto deficitario que está impulsando el aumento de la inflación
-- Apoyar una Enmienda de Presupuesto Equilibrado a la Constitución
-- Incentivar a los trabajadores federales a ahorrar dinero de los contribuyentes, premiando a los empleados que identifiquen desperdicio, fraude y abuso
-Al proporcionar tu número de teléfono celular o móvil y optar por participar, estás consintiendo recibir llamadas y mensajes de texto, incluyendo llamadas y mensajes automáticos, a ese número con notificaciones de campaña de Mónica para el Congreso.
+Skip to content In English Conozca a Mónica Sobre ella Noticias y Medios Texas-15 Temas Involucrarse Colaborar Conviértete en un trabajador electoral Información sobre encuestas y elecciones Comercio Menu Conozca a Mónica Sobre ella Noticias y Medios Texas-15 Temas Involucrarse Colaborar Conviértete en un trabajador electoral Información sobre encuestas y elecciones Comercio DONAR Temas Mónica sobre los Temas Agricultura Eliminar regulaciones sobre agricultores y ganaderos que prohíben la prosperidad económica Oponerse a aranceles que impiden a los agricultores estadounidenses alcanzar nuevos clientes Asegurar que ganaderos y agricultores sean reembolsados por daños confirmados debido al tráfico de inmigrantes ilegales Solucionar la crisis de la cadena de suministro para permitir exportaciones fluidas de productos agrícolas estadounidenses Seguridad Fronteriza e Inmigración Restablecer la política de Permanecer en México.
+Terminar con la práctica de "Captura y Liberación".
+Completar la infraestructura a lo largo de la frontera.
+Apoyar a los agentes de la Patrulla Fronteriza y Aduanas.
+Contratar más jueces de inmigración.
+Apoyar el programa E-Verify.
+Economía Impuestos bajos para las familias y las pequeñas empresas Hacer que la energía sea asequible y producida en Estados Unidos Responsabilizar a la China comunista por perjudicar a los trabajadores estadounidenses Recortar el gasto excesivo de Washington que está provocando la inflación Energía Eliminar regulaciones que aumentan el costo de la energía Apoyar los empleos en el sector del petróleo y gas natural Invertir en energía estadounidense para ser independientes energéticamente de nuevo Mejorar la calidad del aire y reducir la contaminación a través de la tecnología Apoyar el uso seguro y eficiente de la energía nuclear Rechazar las políticas radicales socialistas Personas Mayores Proteger Medicare y el Seguro Social Copatriconó leyes para proteger los beneficios de nuestros abuelitos Gasto y Deuda Nacional Detener el gasto deficitario que está impulsando el aumento de la inflación Apoyar una Enmienda de Presupuesto Equilibrado a la Constitución Incentivar a los trabajadores federales a ahorrar dinero de los contribuyentes, premiando a los empleados que identifiquen desperdicio, fraude y abuso Facebook Instagram Twitter Al proporcionar tu número de teléfono celular o móvil y optar por participar, estás consintiendo recibir llamadas y mensajes de texto, incluyendo llamadas y mensajes automáticos, a ese número con notificaciones de campaña de Mónica para el Congreso.
 Los usuarios también pueden inscribirse en el programa de SMS enviando la palabra clave ÚNETE al 956.625.0212.
 Después de inscribirte, recibirás una confirmación por mensaje de texto.
 Responde AYUDA para ayuda, DETENER para terminar.
 La frecuencia de los mensajes puede variar.
 Se pueden aplicar tarifas de mensajes y de datos.
 Los Términos y Condiciones/Política de Privacidad se pueden encontrar aquí. here.
-Pagado por Monica for Congress
-Mailing Address
-Monica for Congress
-PO BOX 4605
-McAllen, TX 78502
-Contact Us
-Phone: 877-469-1210
-Weslaco
-1501 W Business 83
-Weslaco, TX 78596
+Pagado por Monica for Congress Mailing Address Monica for Congress PO BOX 4605 McAllen, TX 78502 Contact Us Phone: 877-469-1210 Weslaco 1501 W Business 83 Weslaco, TX 78596 Media Kit Spanish English Spanish

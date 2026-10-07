@@ -1,3 +1,5 @@
+Leadership for America Leadership for America Leadership for America Leadership for America Leadership for America Leadership for America Leadership for America Leadership for America Home POVERTY Stream-Line Congress: Single-Rate Tax System Department Consolidation Mental Illness China/Covid-19 Community Disaster Plans Space Program OP-EDs CONTACT ME Foreign Policy Campaign Expenses USTPM CANDIDATES How to Fix a City More Home POVERTY Stream-Line Congress: Single-Rate Tax System Department Consolidation Mental Illness China/Covid-19 Community Disaster Plans Space Program OP-EDs CONTACT ME Foreign Policy Campaign Expenses USTPM CANDIDATES How to Fix a City Home POVERTY Stream-Line Congress: Single-Rate Tax System Department Consolidation Mental Illness China/Covid-19 Community Disaster Plans Space Program OP-EDs CONTACT ME Foreign Policy Campaign Expenses USTPM CANDIDATES How to Fix a City Foreign Policy . . .
+It is complex beyond belief and there is no pure answer to any situation.
 I have a lot of views on foreign policy.
 I could write a book, and maybe I will some day.
 In general I have a deep appreciation for the cultures and practiced religions of every nation.
@@ -7,6 +9,7 @@ Many nations have leaders who are a scratch above street thugs.
 Only a handful of nations have legal systems and institutions that even come close to America.
 Which is horrifying, because ours crumbles more and more, daily.
 Here are some brief thumb-nail impressions on what i think about some nations, their leadership, culture, etc., around the world.
+China 8000 years of history and going strong . . .
 There has to be a level of honesty between us, when it comes to their government and political system.
 They have a Communist government and near 100% control over their population.
 The communist government of China wants to dominate the world, and surely wants America to be nothing more than a consumption market for them.
@@ -17,7 +20,7 @@ This doesn't stop corruption at the highest levels. there is plenty of corruptio
 To be honest, I don't see American style Freedom in China, for another 125 years.
 If ever.
 As far as their Human rights record, it only improves with better leaders.
-I have a real Love for the Russian people and their robust history.
+Russia A Lot of Potential I have a real Love for the Russian people and their robust history.
 Their architecture, literature & zest for hearty song.
 How sad and horrifying it has been, to watch them suffer the hammer pounding of Communism and Socialism.
 Now suffering a rebirthed Czar-ist Putin reign.
@@ -30,13 +33,13 @@ He is a soul-less killer of a nation.
 But, he is also a 4-dimensdional sophisticated public official.
 He may even be an intellectual.
 Russia has to fight for true Freedom, and throw off the yoke of a neo-Czarist.
+United Nations Where thugs and thieves go to talk, scheme and lie.
 I don't place a lot of value on the U.N. as their track record is lousy.
 China and Russia are permanent voting members of the security council.
 Need I say more?
 In fact, can you name 10 accomplishments of the U.N. in the last 10 years?
 Outside of fleecing the USA for more cash and soldiers.
-So with those brief statements, here is my argument for the USA being a member:
-1.
+So with those brief statements, here is my argument for the USA being a member: 1.
 Since it is in NYC, it does make it easier, for face to face communication, with many of the horrible governments around the world.
 2.
 If we are a member, then it allows people like me, if elected to Congress, to actually reform it into a productive body.
@@ -50,14 +53,14 @@ Reform?
 Possible.
 Practicle?
 Not really.
+NATO More important than ever . . .
 Global Terrorism, China, Computer Hackers, Russia, Iran, International drug cartels, International arms dealers, etc.
 Its about working with nations that have well trained armies, intelligence agencies and have stable governments.
 Other members need to do heavy lifting, not just offer bases for U.S.
 Military forward deployment.
 I see strategic value to NATO, but we need more than what is offered.
-The IMP is a failure.
-Let me be very clear:
-1.
+IMF An easy way to keep nations poor The IMP is a failure.
+Let me be very clear: 1.
 A poor nation needs to develop.
 2.
 The IMF provides funds and loans.
@@ -65,6 +68,7 @@ The IMF provides funds and loans.
 The poor nation now has to pay back, with interest.
 It is a little basic , but facts are facts.
 Poor nations need to develop through free-market systems of good contract protection, stable governments and adherence to best practices in the private banking sector.
+Foreign Aid You know, cash we create out of thin air, and throw at other nations.
 I would like to seer other G-20 nations start to play a majority role, in foreign aid.
 America needs to stop foreign aid to every nation that seeks to do us harm.
 I understand how complex foreign aid decisions are.
@@ -74,6 +78,7 @@ I know I know.
 Humanitarian aid is what we're really sending, right?
 You can sell yourself that fantasy, but not me.
 Do you know how much food arrives in poor nations from us, rots on the docks, because the government there, doesn't send trucks.
+The Third World War The currency war going on for nearly 25 years . . .
 About 10 years after derivatives were introduced as a financial vehicle, the currency war became hot.
 1.
 China growth and then wholesale devaluing of their currency.
@@ -90,15 +95,12 @@ Crypto-currencies that have no intrinsic value.
 5.
 Government spending out of control.
 All elements of the third world war going on around you.
-America is currently losing.
-This is one of two commodities that matter in the world.
+America is currently losing. the 4th world war Energy: Control thereof This is one of two commodities that matter in the world.
 A nation's ability to produce, maintain, import, export and control energy.
 If you want to be a powerful first-world nation, it depends on energy.
-Clean nuclear fusion, using Helium-3
-Solid State battery technology
-LNG production
-All of this and much more.
+Clean nuclear fusion, using Helium-3 Solid State battery technology LNG production All of this and much more.
 Energy is a global war, accept the reality.
+Afghanistan What a mess . . .
 The Taliban are back in charge as of this writing.
 1.
 Great Britain, Soviet Union and the U.S.A., have now failed, at whatever foreign policy they were trying to accomplish.
@@ -112,26 +114,22 @@ The only ray of light I see for them, is that enough Afghans were educated over 
 5.
 That class of thionkers, may be able to support/build the kind of institutions that keep America free.
 That is a long road.
-Israel:
-A lot of hatred, suspicion and fear is heaped on them.
-This does not dismiss the fact that they are a smart small nation:
-In 1948 the United Nations established the State of Israel, as a sovereign nation for the Jews and other people in the bondaries of the state.
+The Middle East The complexities are endless Israel: A lot of hatred, suspicion and fear is heaped on them.
+This does not dismiss the fact that they are a smart small nation: In 1948 the United Nations established the State of Israel, as a sovereign nation for the Jews and other people in the bondaries of the state.
 You notice, no arab nation ever gets mad at the U.N., they get mad at Israel.
 Just a point to ponder.
 Israel was smart enough to realize they needed some kind of democratic-representative government.
 They were smart enough to understand they needed a very power free nation as a friend.
 They chose the USA, and we also chose them.
 Make noi mistake, we chose them because of intelligence and military necessity.
-The Palestinian people:
-I do believe they should have a sovereign state of Palestine.
+The Palestinian people: I do believe they should have a sovereign state of Palestine.
 I also believe they do not want a stable, respectible government.
 Hamas is a terrorist organization, period.
 The Palestinian people, a unique ethnic culture, need to decide what type of democractic representative government they want.
 They need to do the work, vote and set up actual political, judicial and legislative institutions.
 This takes work, hardcore work, leadership and time.
 I'd work with any governing system, that respects the rights of an individual human being.
-Iran:
-As of this writing, the U.S. and Israel are reducing their military and manufacturing capacity to rubble.
+Iran: As of this writing, the U.S. and Israel are reducing their military and manufacturing capacity to rubble.
 Same as above.
 What kind of government will the people of Iran want?
 Will they work for it?
@@ -139,61 +137,49 @@ Will the common people allow the upper class to control the military, media and 
 Will women be treated as first-class citizens?
 Such a rich culture and heritage.
 Lost due to British oil influence and radical Theocratic government.
-United Arab Emirates:
-The 6 Emirates are interested in making money.
-That is why they've spent 40 years deceloping their infrastructure to be an import/export hub
-in that region of the world.
+United Arab Emirates: The 6 Emirates are interested in making money.
+That is why they've spent 40 years deceloping their infrastructure to be an import/export hub in that region of the world.
 The UAE just may become a global power broker in AI.
 They have money, tect-savy people and the will power.
-Jordan:
-What we would call a moderate country.
+Jordan: What we would call a moderate country.
 Their main problem has been dealing with Palestinian refugees that cause trouble in their nation.
 Jordan wants to make money off of tourism. manufacturing and services.
-Kurdistan region(s):
-The Kurdish people, a unique ethnic people with no sovereign nation of their own.
+Kurdistan region(s): The Kurdish people, a unique ethnic people with no sovereign nation of their own.
 They have never had their own country.
 The Kurds were part of the Ottoman empire, and after WWI, cobbled in to the 'oil state' of Iraq.
 There are Kurd heavy populations and provinces in Syria, Turkey and Iran as well.
 An interesting people, never treated fairly by any nation, especially Iraq.
 U.S.
-Military bases:
-In general we have too many bases overseas.
+Military bases: In general we have too many bases overseas.
 We have 19 installations and bases in the Middle East.
-Syria:
-Can they become some kind of democratic representative society?
+Syria: Can they become some kind of democratic representative society?
 I don't think so.
 They need to rebuild all their infrastructure and energy industry.
 Again, what do the common people want?
-Turkey:
-The nation is in Europe, but is very much part of middle eastern culture, politics, religion, etc.
+Turkey: The nation is in Europe, but is very much part of middle eastern culture, politics, religion, etc.
 50 years I've watched Turkey play Europe, America and the middle east off each other.
 Their government needs a lot of work.
-Board of Peace:
-Let's see how this new plan shapes up over the next 10 years.
+Specific International plans/items Winners and Losers Board of Peace: Let's see how this new plan shapes up over the next 10 years.
 How do they handle Gaza?
 What resources do the member nations bring to the projects?
 A possible solution to the United Nations impotence?
 Maybe.
 If the BOP can rebuild Gaza, then will have accomplished more than the U.N. has in the last 75 years.
-African Continental Free Trade Area:
-I've been following their progress since 2018.
+African Continental Free Trade Area: I've been following their progress since 2018.
 54 of the 55 nations on the continent have ratified it.
 It has been in affect since May 2021 and we shall see what happens.
 Nigeria is my main concern, because I'm hoping they will use their oil production, to build a pipeline to Europe.
 That would involve the cooperation of 13 nations.
 A bold plan, but truly needed.
 Currently it is at the advanced feasibility and engineering stage.
-World Trade Organization:
-It has become nothing more than a tool for China to abuse trade laws and standards.
+World Trade Organization: It has become nothing more than a tool for China to abuse trade laws and standards.
 I don't see the USTR ever having a fair say-so.
 I would scrap this organization.
-The Muslim Brotherhood:
-Originated in Egypt in 1928.
+The Muslim Brotherhood: Originated in Egypt in 1928.
 The overall group has no desire to allow western civilization to continue.
 This is a subject of great debate in some circles.
 Noy for me, I know what they are.
-Europe-at-large
-1.
+Europe-at-large 1.
 Remove all our troops and turn the military bases over to the host countries.
 NATO can review what they want out total footprint to be inside Europe-proper.
 As a collective, Europe is wealthy enough to support a European military force component, as part of a new NATO plan.
@@ -212,43 +198,34 @@ It is the only future fort clean, safe, efficient and cheap global energy needs.
 5.
 Europe and America need a joint agreement for Intellectual property protection, that goes beyond WTO standards.
 It's the only way to push back on China.
-Like many people, I have life-long concerns about the Amazon rain forest.
+Brazil Air and Beef Like many people, I have life-long concerns about the Amazon rain forest.
 I don't have an answer, as to how Brazil just stops allowing de-forestation.
 I don't think it's all foreign influence.
 I think it is yet another example of weak leadership.
 Brazil now produces 20% of the world's beef.
 This makes them an economic power house.
 I'm often intrigued as to how their relationship will evolve with our state dept.
-Japan:
-Item 1:
-We lease back our military bases, for the Japanese army to use.
+Japan/South Korea Strategic locations for economic partners Japan: Item 1: We lease back our military bases, for the Japanese army to use.
 I can see several joint facilities for munitions strorage.
 We are wasting billions.
-Item 2:
-Japan, like many economic powerful nations, needs access to our domestic market.
+Item 2: Japan, like many economic powerful nations, needs access to our domestic market.
 They cannot feed tjemselves or provide energy, due to lack of natural resources.
-Item 3:
-They do have a democractic representative government system.
+Item 3: They do have a democractic representative government system.
 This is an asset.
 We need to build our relationship on common trade and democractic government systems.
 Their society is still based on Japanese cast/class system.
 I don't see that changing for three more generations.
-South Korea:
-Remove our troops from the DMZ.
+South Korea: Item 1: Remove our troops from the DMZ.
 South Korea must defend their own border.
-Again, I can see several joint-facilities for munitions storage.
-Paraguay:
-The little nation that really tries:
-1.
-Good agriculture mix in their economy
-2.
-Excellent use of Hydro-electric
-3.
+Again, I can see several joint-facilities for munitions storage. south america A collection of interesting cultures and government systems Paraguay: The little nation that really tries: 1.
+Good agriculture mix in their economy 2.
+Excellent use of Hydro-electric 3.
 A government that does the hard work of keeping up good relations abroad.
 It is a fascinating country with a heart people.
-Chile:
-A stabke democractic-representative form of government.
+Chile: A stabke democractic-representative form of government.
 Mandatory voting which gives high turnouts.
 This is a poor nation my U.S. standards, but they're trying.
 Imteresting note: When their air force ecounters UFOs, the reports are documented and then released to the media and public.
 Interesting.
+Copyright © # Leadership for America - All Rights Reserved.
+Powered by

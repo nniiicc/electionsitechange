@@ -1,7 +1,22 @@
 [
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgonzalezpittman.com%2F",
-"https://leg.colorado.gov/bills/sb21-190",
-"https://oag.ca.gov/privacy/ccpa.%C2%A0",
-"https://secure.anedot.com/7a9ba5a6-08a5-4230-a926-3fa45a78861f/donate",
-"https://twitter.com/intent/tweet?text=Karen+Gonzalez+Pittman+for+State+Representative+-+https%3A%2F%2Fgonzalezpittman.com%2F"
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/7a9ba5a6-08a5-4230-a926-3fa45a78861f/donate"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?text=Karen+Gonzalez+Pittman+for+State+Representative+-+https%3A%2F%2Fgonzalezpittman.com%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgonzalezpittman.com%2F"
+},
+{
+"text": "https://leg.colorado.gov/bills/sb21-190",
+"href": "https://leg.colorado.gov/bills/sb21-190"
+},
+{
+"text": "https://oag.ca.gov/privacy/ccpa.",
+"href": "https://oag.ca.gov/privacy/ccpa.%C2%A0"
+}
 ]

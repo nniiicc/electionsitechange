@@ -1,8 +1,3 @@
-- Awarded the G.W.
-Carver Environmental Legacy Award for my work combating climate change
-- Supported funding for improving air quality disparities suffered by
-disadvantaged communities in California
-- Invested billions of dollars to support the development of zero emissions vehicles to help combat climate change in the transportation sector
-- Invested hundreds of millions of dollars in state funding to accelerate
-progress on expanding California’s green energy goals.
-Climate Change
+Skip to content Ξ Home Meet Blanca Issues Public Safety & Criminal Justice Housing & Homelessness Education & Youth Domestic Violence Healthcare Aging Consumer Protections Water Climate Change Animal Protection Women’s Issues Our District Media News Photos Awards Events Contact Donate Search for: Assemblywoman Blanca Rubio Climate Change Awarded the G.W.
+Carver Environmental Legacy Award for my work combating climate change Supported funding for improving air quality disparities suffered by disadvantaged communities in California Invested billions of dollars to support the development of zero emissions vehicles to help combat climate change in the transportation sector Invested hundreds of millions of dollars in state funding to accelerate progress on expanding California’s green energy goals.
+Issues sidebar Women’s Issues Education & Youth Housing & Homelessness Domestic Violence Climate Change Public Safety & Criminal Justice Aging Water Animal Protection Healthcare Post navigation Previous: Public Safety & Criminal Justice Next: Domestic Violence Home Meet Blanca Media Photos Contact Volunteer Donate Working for you Paid for by Blanca Rubio for Assembly 2024 • FPPC ID #1456604 Site by BSC

@@ -1,17 +1,74 @@
 [
-"https://chelseyforcongress.com/",
-"https://chelseyhockettforcongress.com/about.html",
-"https://chelseyhockettforcongress.com/blog.html",
-"https://chelseyhockettforcongress.com/index.html",
-"https://chelseyhockettforcongress.com/issues.html",
-"https://chelseyhockettforcongress.com/volunteer.html",
-"https://facebook.com/ChelseyHockettforCongress",
-"https://forms.gle/UJversgwuioHgbZ26",
-"https://instagram.com/chelseyhockettforcongress",
-"https://lp.constantcontactpages.com/sl/wQyLsHx",
-"https://secure.actblue.com/donate/chelseyhockettforcongress",
-"https://store.chelseyhockettforcongress.com/",
-"https://termsfeed.com/live/2832a7bb-7f05-40c2-a643-cd06ae84b496",
-"https://tiktok.com/@hockettforcongress",
-"https://votetexas.gov/"
+{
+"text": "About",
+"href": "https://chelseyhockettforcongress.com/about.html"
+},
+{
+"text": "Blog",
+"href": "https://chelseyhockettforcongress.com/blog.html"
+},
+{
+"text": "Contact",
+"href": "mailto:campaign@chelseyhockettforcongress.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chelseyhockettforcongress"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/chelseyhockettforcongress"
+},
+{
+"text": "Endorsements",
+"href": "https://chelseyhockettforcongress.com/index.html#endorsements"
+},
+{
+"text": "Home",
+"href": "https://chelseyhockettforcongress.com/index.html"
+},
+{
+"text": "Issues",
+"href": "https://chelseyhockettforcongress.com/issues.html"
+},
+{
+"text": "Newsletter Sign-up",
+"href": "https://lp.constantcontactpages.com/sl/wQyLsHx"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://www.termsfeed.com/live/2832a7bb-7f05-40c2-a643-cd06ae84b496"
+},
+{
+"text": "Register to Vote →",
+"href": "https://www.votetexas.gov/"
+},
+{
+"text": "Store",
+"href": "https://store.chelseyhockettforcongress.com"
+},
+{
+"text": "Volunteer",
+"href": "https://chelseyhockettforcongress.com/volunteer.html"
+},
+{
+"text": "Volunteer Sign-up",
+"href": "https://forms.gle/UJversgwuioHgbZ26"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ChelseyHockettforCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chelseyhockettforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@hockettforcongress"
+},
+{
+"text": "chelseyforcongress.com",
+"href": "https://www.chelseyforcongress.com/"
+}
 ]

@@ -1,12 +1,7 @@
-- Source NM
-Campaign Updates
-News
-- Las Cruces Bulletin
-County clerk López Askin lands new term
-Amanda López Askin, a Democrat who has led the Doña Ana County Clerk’s Office since 2018, won a resounding victory Tuesday to keep her job for four more years.
-Click to read County clerk López Askin lands new term
-- Las Cruces Bulletin
-Amanda López Askin wins Doña Ana County Clerk primary
-Amanda López Askin, a Las Cruces Democrat who’s been running the Doña Ana County Clerk’s Office since 2018, won the Democratic nomination Tuesday night.
-Click to read Amanda López Askin wins Doña Ana County Clerk primary
-- KRWG
+Skip to content Chip in $5 right now to join the fight for our future  Amanda for New Mexico About Media News Press Releases Videos Take Action Contribute Connect on Facebook Connect on Instagram Connect on Bluesky Campaign Updates News Filter — Please choose an option — News Press Releases Videos Source NM Doña Ana County Clerk an April 16, 2025 Click to read Doña Ana County Clerk an Las Cruces Bulletin County clerk López Askin lands new term Amanda López Askin, a Democrat who has led the Doña Ana County Clerk’s Office since 2018, won a resounding victory Tuesday to keep her job for four more years.
+November 6, 2024 Click to read County clerk López Askin lands new term Las Cruces Bulletin Amanda López Askin wins Doña Ana County Clerk primary Amanda López Askin, a Las Cruces Democrat who’s been running the Doña Ana County Clerk’s Office since 2018, won the Democratic nomination Tuesday night.
+June 4, 2024 Click to read Amanda López Askin wins Doña Ana County Clerk primary KRWG Doña Ana County Board of Commissioners Selects Dr.
+Amanda López Askin as County Clerk September 12, 2018 Click to read Doña Ana County Board of Commissioners Selects Dr.
+Amanda López Askin as County Clerk Previous Page 1 2 3 Get Updates Join our team Join us in the fight to keep New Mexico’s elections safe, secure, and fair.
+Contribute Chip in today This campaign is funded by people like you. $ # $ # $ # $ # $ #,# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Amanda for New Mexico Connect on Facebook Connect on Instagram Connect on Bluesky About Media Take Action Contribute Paid for and Authorized by Amanda for NM Mailing Address: 8100 Wyoming Blvd NE, Ste M4 Box 708, Albuquerque, NM 87113 Contact

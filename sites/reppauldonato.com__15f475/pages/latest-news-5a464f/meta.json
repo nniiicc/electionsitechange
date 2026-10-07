@@ -1,9 +1,9 @@
 {
  "description": "Stay updated with the latest news from State Representative Paul Donato, serving Medford and Malden in the 35th Middlesex District.",
  "final_url": "https://reppauldonato.com/latest-news",
- "paid_for_by": null,
+ "fingerprint": "65ea7380b206a9857316f641e43df3bfcc6cf3c2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Latest News",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

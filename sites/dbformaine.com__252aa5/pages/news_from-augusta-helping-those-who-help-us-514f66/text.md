@@ -1,3 +1,5 @@
-| As the Senate chair of the Health Coverage, Insurance, and Financial Services Committee, I work to make health insurance accessible and affordable.
+SENATOR DONNA BAILEY Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5 From Augusta: Helping those who help us 2/7/2024 0 Comments As the Senate chair of the Health Coverage, Insurance, and Financial Services Committee, I work to make health insurance accessible and affordable.
 During my time, I learned that first responders, including firefighters and police officers, experience chronic stress while responding to crises and emergencies.
-Moreover, these brave individuals face not only physical challenges but also significant mental and emotional burdens as they navigate the aftermath of emergencies... | Blog Latest News Archives Categories |
+Moreover, these brave individuals face not only physical challenges but also significant mental and emotional burdens as they navigate the aftermath of emergencies...
+READ ARTICLE 0 Comments Leave a Reply.
+Blog Latest News Archives June 2026 February 2024 December 2023 June 2022 October 2020 September 2020 August 2020 June 2018 Categories All RSS Feed donate $5 207-284-9962 [email protected] Paid for and authorized by the candidate Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5

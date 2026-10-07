@@ -1,4 +1,4 @@
-The House of Representatives amended, approved, and sent the Senate H.3197, the “STUDENT LOAN BILL OF RIGHTS ACT”, which establishes consumer protection measures for those who obtain loans to finance postsecondary education or other school-related expenses.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate The State Capitol Report – 2/21/2020 Kambrell Garvin February 28, 2020 Comments Off on The State Capitol Report – 2/21/2020 Uncategorized The House of Representatives amended, approved, and sent the Senate H.3197, the “STUDENT LOAN BILL OF RIGHTS ACT”, which establishes consumer protection measures for those who obtain loans to finance postsecondary education or other school-related expenses.
 The legislation provides for the licensure and regulation of student loan servicers by the Department of Consumer Affairs.
 A list of prohibited activities is established for student loan servicers to address such misconduct as: defrauding or misleading student loan borrowers; knowingly or recklessly providing inaccurate information to a credit bureau; charging unauthorized fees; and, placing student loan borrowers in forbearance or default without determining whether they are eligible for income-based repayment programs.
 The legislation authorizes the Department of Consumer Affairs to conduct investigations and examinations and empowers the department to address fraud and other violations through such means as: suspending, revoking, or refusing to renew licenses; imposing fines, cease and desist orders, and other equitable and injunctive relief; and bringing civil actions.
@@ -12,4 +12,6 @@ The legislation provides for the election of two additional resident family cour
 If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
 Box 292434, Columbia, SC 29229.
 Thank you for the opportunity to serve you in the House of Representatives.
-KHG/jhm
+KHG/jhm « The State Capitol Report – 2/14/2020 The State Capitol Report – 2/28/2020 » Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020

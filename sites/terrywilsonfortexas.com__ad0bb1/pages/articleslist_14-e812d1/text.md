@@ -1,11 +1,11 @@
-Last week I received an email from a constituent asking me about the censuring of Speaker Straus by the Republican Party of Texas Executive Committee.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements January 31, 2018 Jeff Frazier Sit-Rep #14 - Our Greatest Threat January 31, 2018 Jeff Frazier Last week I received an email from a constituent asking me about the censuring of Speaker Straus by the Republican Party of Texas Executive Committee.
 I’ve been asked about the issue many times, but this letter was different.
 Rather than focusing on the past, and what kind of action needs to be taken to punish people, or saying that those who felt wronged are not justified in their feelings, he had a different concern in mind, one that has been on my mind for the last few months as well.
 He was concerned that we are tearing ourselves apart.
 I think he hit on the defining challenge of our era, not just as Texans, but as Americans; we are fundamentally misunderstanding who our true enemies are and the threats they pose.
 Every era brings new challenges to our national security.
 The Industrial Age brought machine guns and tanks, the nuclear age brought us weapons that could level cities, and the space age showed us the need to move forward or be left behind.
-The Information Age arrived 20 years ago, and we are just now facing its true threats.
+The Information Age arrived #ago, and we are just now facing its true threats.
 Back in the fall, congress held hearings about how, during the last election cycle, social media sites were inundated with posts from Russian groups attempting to influence American voters.
 These posts weren’t trying to elect one candidate, or promote one ideology.
 They came from all perspectives, from the far right and the far left, targeting racial divisions and ideological divisions, all with only one goal in mind; make them hate each other.
@@ -35,3 +35,15 @@ I welcome your feedback and will be looking forward to hearing your thoughts on 
 P.S.
 As February 6th approaches, Happy Birthday to the late President Reagan, the Great Communicator.
 Let us remember the patriotism and unity he inspired, and use it as a model for our current challenges.
+January 31, 2018 Jeff Frazier Jeff Frazier Sit-Rep #15 - So You Want to Be Speaker of the House Sit-Rep #13 - What We Leave Behind Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

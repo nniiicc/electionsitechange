@@ -1,56 +1,286 @@
 [
-"http://facebook.com/lakeshawomack",
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T113000Z%2F20261103T123000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Interview+with+David+Chew+&dates=20260901T113000Z%2F20260901T120000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=North+Carolina%27s+14th+Congressional+District+Convention&dates=20260516T130000Z%2F20260516T180000Z&location=130+South+Post+Road%2C+Shelby%2C+NC%2C+28152%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+Voting&dates=20260303T113000Z%2F20260304T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Reddit+Forum&dates=20260923T230000Z%2F20260924T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Virtual+Campaign+Launch&dates=20251205T220000Z%2F20251205T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Your+Community%2C+Your+Voice&dates=20260811T210000Z%2F20260811T230000Z",
-"http://instagram.com/lakeshawomack",
-"http://maps.google.com/?q=130+South+Post+Road+Shelby%2C+NC%2C+28152+United+States",
-"http://maps.google.com/?q=Berewick+Recreational+Center",
-"http://threads.com/@lakeshawomack",
-"http://twitter.com/lakeshawomack",
-"https://facebook.com/share/1JiP47BNpF",
-"https://google.com/url?q=http%3A%2F%2Fjudgetobyhampson.com&sa=D&usd=2&usg=AOvVaw2LJzW_FM-vGBEFJ-BumHYI",
-"https://google.com/url?q=https%3A%2F%2Fwww.mobilize.us%2Fnccongressionaldistrict14%2Fevent%2F935448%2F&sa=D&usd=2&usg=AOvVaw3JT2QWeVgpCyBhrQeNBHbv",
-"https://ncsbe.gov/news/events/election-day-2026-primary-election",
-"https://secure.actblue.com/donate/lakesha-womack",
-"https://tiktok.com/@lakeshaswomack",
-"https://vt.ncsbe.gov/RegLkup",
-"https://womack4nc14.com/",
-"https://womack4nc14.com/bio",
-"https://womack4nc14.com/calendar",
-"https://womack4nc14.com/cart",
-"https://womack4nc14.com/contact",
-"https://womack4nc14.com/events/interview-with-david-chew",
-"https://womack4nc14.com/events/interview-with-david-chew?format=ical",
-"https://womack4nc14.com/events/north-carolinas-14th-congressional-district-convention",
-"https://womack4nc14.com/events/north-carolinas-14th-congressional-district-convention?format=ical",
-"https://womack4nc14.com/events/primary-voting",
-"https://womack4nc14.com/events/primary-voting-jexbb",
-"https://womack4nc14.com/events/primary-voting-jexbb?format=ical",
-"https://womack4nc14.com/events/primary-voting?format=ical",
-"https://womack4nc14.com/events/reddit-forum",
-"https://womack4nc14.com/events/reddit-forum?format=ical",
-"https://womack4nc14.com/events/virtual-campaign-launch",
-"https://womack4nc14.com/events/virtual-campaign-launch?format=ical",
-"https://womack4nc14.com/events/your-community-your-voice",
-"https://womack4nc14.com/events/your-community-your-voice?format=ical",
-"https://womack4nc14.com/events?category=Burke+County",
-"https://womack4nc14.com/events?category=Cleveland+County",
-"https://womack4nc14.com/events?category=Gaston+County",
-"https://womack4nc14.com/events?category=Mecklenburg+County",
-"https://womack4nc14.com/events?category=NC-14+District",
-"https://womack4nc14.com/events?category=Polk+County",
-"https://womack4nc14.com/events?category=Rutherford+County",
-"https://womack4nc14.com/events?category=Virtual+Event",
-"https://womack4nc14.com/events?category=Voting",
-"https://womack4nc14.com/give",
-"https://womack4nc14.com/issues",
-"https://womack4nc14.com/news-and-resources",
-"https://womack4nc14.com/privacy-policy",
-"https://womack4nc14.com/shop",
-"https://youtube.com/@LaKeshaWomack"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=130+south+post+road+shelby%2C+nc%2C+28152+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=berewick+recreational+center"
+},
+{
+"text": "0",
+"href": "https://www.womack4nc14.com/cart"
+},
+{
+"text": "Burke County",
+"href": "https://www.womack4nc14.com/events?category=Burke+County"
+},
+{
+"text": "Calendar",
+"href": "https://www.womack4nc14.com/calendar"
+},
+{
+"text": "Cleveland County",
+"href": "https://www.womack4nc14.com/events?category=Cleveland+County"
+},
+{
+"text": "Contact",
+"href": "https://www.womack4nc14.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "Election Day",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "Gaston County",
+"href": "https://www.womack4nc14.com/events?category=Gaston+County"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T113000Z%2F20261103T123000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Interview+with+David+Chew+&dates=20260901T113000Z%2F20260901T120000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=North+Carolina%27s+14th+Congressional+District+Convention&dates=20260516T130000Z%2F20260516T180000Z&location=130+South+Post+Road%2C+Shelby%2C+NC%2C+28152%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+Voting&dates=20260303T113000Z%2F20260304T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Reddit+Forum&dates=20260923T230000Z%2F20260924T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Virtual+Campaign+Launch&dates=20251205T220000Z%2F20251205T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Your+Community%2C+Your+Voice&dates=20260811T210000Z%2F20260811T230000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/interview-with-david-chew?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/north-carolinas-14th-congressional-district-convention?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/primary-voting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/reddit-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/your-community-your-voice?format=ical"
+},
+{
+"text": "Interview with David Chew",
+"href": "https://www.womack4nc14.com/events/interview-with-david-chew"
+},
+{
+"text": "Issues",
+"href": "https://www.womack4nc14.com/issues"
+},
+{
+"text": "Mecklenburg County",
+"href": "https://www.womack4nc14.com/events?category=Mecklenburg+County"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://www.womack4nc14.com/bio"
+},
+{
+"text": "NC-14 District",
+"href": "https://www.womack4nc14.com/events?category=NC-14+District"
+},
+{
+"text": "News and Resources",
+"href": "https://www.womack4nc14.com/news-and-resources"
+},
+{
+"text": "North Carolina's 14th Congressional District Convention",
+"href": "https://www.womack4nc14.com/events/north-carolinas-14th-congressional-district-convention"
+},
+{
+"text": "Polk County",
+"href": "https://www.womack4nc14.com/events?category=Polk+County"
+},
+{
+"text": "Primary Voting",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.womack4nc14.com/privacy-policy"
+},
+{
+"text": "Reddit Forum",
+"href": "https://www.womack4nc14.com/events/reddit-forum"
+},
+{
+"text": "Rutherford County",
+"href": "https://www.womack4nc14.com/events?category=Rutherford+County"
+},
+{
+"text": "Shop",
+"href": "https://www.womack4nc14.com/shop"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/interview-with-david-chew"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/north-carolinas-14th-congressional-district-convention"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/reddit-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/your-community-your-voice"
+},
+{
+"text": "Virtual Campaign Launch",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch"
+},
+{
+"text": "Virtual Event",
+"href": "https://www.womack4nc14.com/events?category=Virtual+Event"
+},
+{
+"text": "Voter Search",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Voting",
+"href": "https://www.womack4nc14.com/events?category=Voting"
+},
+{
+"text": "Ways to Give",
+"href": "https://www.womack4nc14.com/give"
+},
+{
+"text": "Your Community, Your Voice",
+"href": "https://www.womack4nc14.com/events/your-community-your-voice"
+},
+{
+"text": "[image: Election Day]",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "[image: Interview with David Chew ]",
+"href": "https://www.womack4nc14.com/events/interview-with-david-chew"
+},
+{
+"text": "[image: LaKesha Womack for NC-14]",
+"href": "https://www.womack4nc14.com/"
+},
+{
+"text": "[image: North Carolina's 14th Congressional District Convention]",
+"href": "https://www.womack4nc14.com/events/north-carolinas-14th-congressional-district-convention"
+},
+{
+"text": "[image: Primary Voting]",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "[image: Reddit Forum]",
+"href": "https://www.womack4nc14.com/events/reddit-forum"
+},
+{
+"text": "[image: Virtual Campaign Launch]",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch"
+},
+{
+"text": "[image: Your Community, Your Voice]",
+"href": "https://www.womack4nc14.com/events/your-community-your-voice"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://threads.com/@lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@lakeshaswomack"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LaKeshaWomack"
+},
+{
+"text": "[no text]",
+"href": "mailto:connect@womack4nc14.com"
+},
+{
+"text": "https://www.facebook.com/share/1JiP47BNpF/",
+"href": "https://www.facebook.com/share/1JiP47BNpF/"
+},
+{
+"text": "https://www.mobilize.us/nccongressionaldistrict14/event/935448/",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.mobilize.us%2Fnccongressionaldistrict14%2Fevent%2F935448%2F&sa=D&usd=2&usg=AOvVaw3JT2QWeVgpCyBhrQeNBHbv"
+},
+{
+"text": "https://www.ncsbe.gov/news/events/election-day-2026-primary-election",
+"href": "https://www.ncsbe.gov/news/events/election-day-2026-primary-election"
+},
+{
+"text": "judgetobyhampson.com",
+"href": "https://www.google.com/url?q=http%3A%2F%2Fjudgetobyhampson.com&sa=D&usd=2&usg=AOvVaw2LJzW_FM-vGBEFJ-BumHYI"
+}
 ]

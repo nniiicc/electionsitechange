@@ -1,4 +1,4 @@
-I’ve been made aware of a graphic going around Facebook and would love the opportunity to address its content.
+Skip to content Skip to content Representative Adam Smith Adam.Smith@House.KS.Gov Adam.Smith@House.KS.Gov Open Menu Home Latest News About Contact Close Menu Close Menu Contribute Donate Now The Truth about Property Tax Relief October 29, 2025 Article I’ve been made aware of a graphic going around Facebook and would love the opportunity to address its content.
 Forewarning – it’s a lengthy read, but I want folks to understand the numbers.
 I’m always open to questions, concerns, further explanation, or new ideas.
 Please share privately or publicly, whatever you prefer!
@@ -6,8 +6,7 @@ This is an interesting graphic, I’ll try to tackle each “section” at a tim
 First of all, I have sat down with a leading member of the Kansas Deere Dealers Association.
 We’ve had very good conversations, but we simply disagree on the implementation of valuation caps.
 I’ll attempt to explain why in more detail below.
-REVENUE NEUTRAL IS WORKING
-Starting at the top left, no one can explain to me how revenue neutral is working.
+REVENUE NEUTRAL IS WORKING Starting at the top left, no one can explain to me how revenue neutral is working.
 Just listing the cities and counties that were revenue neutral for one year doesn’t exactly prove much.
 Case in point: Wallace County is green, indicating it’s working in Wallace County?
 How?
@@ -31,8 +30,7 @@ However, in reality, their property taxes have increased 47% since revenue neutr
 They were revenue neutral last year, but the year before that it was about a 12.5% increase and this year it’s almost a 17% tax hike.
 Because of this, I do not believe revenue neutral is “working”.
 There is no real taxpayer control over excessive budget increases, and if you doubt that do an internet search for Seward County Tax Hike and read the most recent horror story about local officials that are oblivious to the tax burden they are placing on property owners.
-PROPERTY VALUATION CAP
-Moving on down to the valuation cap.
+PROPERTY VALUATION CAP Moving on down to the valuation cap.
 Local governments don’t set the mill levy (property tax rate) and just live with whatever revenue that provides (like sales and income tax rates).
 Instead, they adopt their budgets and then calculate whatever mill levy they need to achieve their desired revenue.
 Therefore, a limit in your valuation is just going to result in a higher mill levy to provide the same amount of revenue.
@@ -54,9 +52,7 @@ I still think it’s a great idea – if your local government wants to jack up 
 I WILL be running the House plan again next session.
 It is the best way to prevent excessive tax increases year over year.
 The Wyandotte and Seward County folks – and anyone else experiencing huge tax hikes – should LOVE it.
-(Too bad it didn’t get a vote in the Senate and pass last year, had it been in place, the Seward County problem wouldn’t be an issue.)
-THE POPULATION / INFLATION / LOCAL GOVT CHART
-I also find this interesting.
+(Too bad it didn’t get a vote in the Senate and pass last year, had it been in place, the Seward County problem wouldn’t be an issue.) THE POPULATION / INFLATION / LOCAL GOVT CHART I also find this interesting.
 Last year I proposed, in that same bill HB2396 that passed 115-6 in the House, a limit on local govt budgets of inflation plus new construction.
 (The reason I added new construction was for growing areas that have increased infrastructure requirements – new streets, sewer, electricity, etc. for new subdivisions cost money.
 Wallace County doesn’t have that kind of urban sprawl, but some communities do.) If I’m reading this chart correctly, over the last 27 years inflation has risen 85%.
@@ -69,3 +65,7 @@ The way my bill worked was it allowed a local government to adopt whatever budge
 BUT, if the increase exceeded inflation & growth, there was a protest petition where a small group of people could put a stop to anything over the limit.
 Some people opposed my bill because they felt a protest petition is too hard, so this year I’m going to do what they preferred and move it to an election… even though it will take a lot more people to oppose it in order for the tax hike to be rejected.
 I still prefer a protest petition, but I’m trying to listen to my opposition and make this compromise.
+Tags: 3% Valuation Cap , Property Taxes Related Posts Smith Responds to Masterson on Property Taxes Smith Responds to Masterson on Property Taxes April 13, 2026 April 13, 2026 5:00 AM Weskan, KS – State Representative Adam Smith, honored to serve as the House Taxation Committee chairman, issued the following statement[...] Read More Read More Facts regarding Wallace County Tax Hike Facts regarding Wallace County Tax Hike December 2, 2025 December 2, 2025 9:48 AM Perhaps you’ve seen the recent letter to the editor by a gentleman named Imtiaz Stephen from Sharon Springs.
+The letter[...] Read More Read More Challenge for the 120th District Seat Challenge for the 120th District Seat June 1, 2026 June 1, 2026 10:16 PM The filing deadline has passed for the 2026 Primary Election.
+There were a few last-minute twists and turns in the[...] Read More Read More Search Search Latest Posts Proposed Transmission Line Public Meeting September 29, 2026 Smith Releases Property Tax Relief Plan July 20, 2026 June Water Task Force Meeting June 18, 2026 Challenge for the 120th District Seat June 1, 2026 Smith Responds to Masterson on Property Taxes April 13, 2026 Capitol Office 300 SW 10th Street Topeka, KS 66612 185-N (First Floor, North Wing) 785-296-0715 Copyright © # All Rights Reserved.
+Resources Kansas Legislature Kansas Historical Society Kansas.gov Search Search for:

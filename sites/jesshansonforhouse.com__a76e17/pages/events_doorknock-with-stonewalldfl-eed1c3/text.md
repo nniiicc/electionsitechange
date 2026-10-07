@@ -1,10 +1,6 @@
-Back to All Events
-Join Jess and the Stonewall DFL caucus as we talk to our neighbors about reelecting Jess Hanson to the Minnesota House!
-Sign up here: https://www.mobilize.us/mobilize/event/510196/
-Previous
-Previous
-October 15
-Door Knock with Attorney General Keith Ellison
-Next
-Next
-October 17
+0 Skip to Content Home Learn More Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Get Involved Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Contact Us Contact Jess Get Newsletters Donate Open Menu Close Menu Home Learn More Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Get Involved Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Contact Us Contact Jess Get Newsletters Donate Open Menu Close Menu Home Folder: Learn More Back Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Folder: Get Involved Back Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Folder: Contact Us Back Contact Jess Get Newsletters Donate Back to All Events Doorknock with StonewallDFL Sunday, October 16, 2022 10:00 AM 12:00 PM Dunn Brothers Coffee 5801 Egan Drive Savage, MN, 55378 United States (map) Google Calendar ICS Join Jess and the Stonewall DFL caucus as we talk to our neighbors about reelecting Jess Hanson to the Minnesota House!
+Sign up here: https://www.mobilize.us/mobilize/event/510196/ Posted In: Volunteer , Event Previous Previous October 15 Door Knock with Attorney General Keith Ellison Next Next October 17 Door Knock with Team Hanson Get Email Updates Click Here to Donate on ActBlue Today!
+Prepared and paid for by the Committee for Jess Hanson for House, PO Box 1161, Burnsville, MN 55336

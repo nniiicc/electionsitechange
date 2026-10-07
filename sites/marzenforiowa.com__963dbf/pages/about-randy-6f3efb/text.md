@@ -1,4 +1,4 @@
-Randy was born and raised in Iowa, growing up on his family’s farm where he learned the value of hard work early on.
+HOME DONATE VOLUNTEER ABOUT RANDY More HOME DONATE VOLUNTEER ABOUT RANDY HOME DONATE VOLUNTEER ABOUT RANDY About Randy Randy was born and raised in Iowa, growing up on his family’s farm where he learned the value of hard work early on.
 He went on to join the United States Air Force, earning a pilot scholarship to attend Iowa State University.
 A combat veteran, Randy served multiple deployments beginning with Desert Storm and later held senior leadership roles, including serving as Chief of Combat Operations for Operations Iraqi Freedom and Enduring Freedom, before retiring from active duty and returning home to Iowa.
 After his military service, Randy spent 14 years at Collins Aerospace, applying his aviation and leadership experience in the private sector.
@@ -17,8 +17,10 @@ After retiring from military service, Randy spent 14 years at Collins Aerospace,
 Today, he continues to serve through applied research, combining operational experience with a practical, mission-first mindset.
 Randy is a proud Iowa State University graduate and holds a master’s degree in international relations.
 Above all, he values teamwork, service, and making a positive impact—principles that guide his work every day.
-*The appearance of U.S.
+Marzen for Iowa P.O.
+Box 65, Marion, Iowa 52302 Email: contact@marzenforiowa.com *The appearance of U.S.
 Department of War visual information does not imply or constitute DOW endorsement.
-Copyright © 2026 Paid for by Marzen for Iowa - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Copyright © # Paid for by Marzen for Iowa - All Rights Reserved.
+Help us FLIP this seat RED!
+Explore ways you can contribute to our campaign!
+Learn more

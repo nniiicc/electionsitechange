@@ -1,6 +1,6 @@
-Tennessee House passes bill to expand access to eye care
-House Bill 1952/Senate Bill 2076 authorizes Doctors of Optometry to perform three safe, non-invasive procedure in-office, including YAG capsulotomy, selective laser trabeculoplasty (SLT) and peripheral iridotomy (PI).
+0 Skip to Content About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Tennessee House passes bill to expand access to eye care Mar 26 Written By Waterhouse PR House Bill 1952/Senate Bill 2076 authorizes Doctors of Optometry to perform three safe, non-invasive procedure in-office, including YAG capsulotomy, selective laser trabeculoplasty (SLT) and peripheral iridotomy (PI).
 TAOP said the procedures restore and protect vision and do not involve general anesthesia or a surgical suite.
 “We are grateful to our prime sponsors Sen.
 Bo Watson and Rep.
 Ryan Williams, the 14 co-sponsors in the Senate and 47 co-sponsors in the House, and the overwhelming support we received from the General Assembly through the legislative process,” Dellinger said.
+READ THE FULL ARTICLE Waterhouse PR Previous Previous Playground At Harrison Bay State Park To Be Upgraded Next Next Tennessee Today With Senator Bo Watson Bo for Tennessee About Priorities Media Contact

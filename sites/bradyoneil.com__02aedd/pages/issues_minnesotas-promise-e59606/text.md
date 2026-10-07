@@ -1,5 +1,4 @@
-Minnesota's Promise
-For many years, the state of Minnesota has stood as a testament to what a free people can achieve, balancing individual liberty with a just and caring society in a way seldom seen in history.
+Welcome What I'm About Issues Minnesota's Promise Exploitation Homelessness Liberty Contribute Minnesota's Promise ﻿ For many years, the state of Minnesota has stood as a testament to what a free people can achieve, balancing individual liberty with a just and caring society in a way seldom seen in history.
 It is a record built not by chance, but by the steady hands of hardworking, trustworthy, and compassionate citizens.
 It is a record in which we can take rightful pride.
 But let us speak plainly: in recent decades, that balance has begun to strain.
@@ -16,7 +15,5 @@ When that distance grows, accountability fades.
 We must do better.
 In every endeavor, we should demand not only good intentions, but effectiveness and efficiency.
 I am convinced that the resources already entrusted to our Nation are sufficient, not only to meet our obligations, but to ease the burden on our citizens and improve the benefits they receive.
-The task before us is not to ask more of the people of Minnesota, but to do more with what they have already given.
-(Pics are links)
-They Don't Care About You!!!!!(Yes, You)
-Are the increases in spending proportional to the increases in the quality of Your life?
+The task before us is not to ask more of the people of Minnesota, but to do more with what they have already given. ﻿ (Pics are links) They Don't Care About You!!!!!
+(Yes, You) Are the increases in spending proportional to the increases in the quality of Your life ?

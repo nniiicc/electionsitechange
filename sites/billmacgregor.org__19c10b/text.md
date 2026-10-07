@@ -1,1 +1,2 @@
-A champion for our neighbors in West Roxbury, Roslindale, Jamaica Plain, and Brookline State Representative Bill MacGregor Volunteer with Team MacGregor
+0 Skip to Content Home Meet Bill Priorities Endorsements The District Volunteer Contact Us Donate Open Menu Close Menu Home Meet Bill Priorities Endorsements The District Volunteer Contact Us Donate Open Menu Close Menu Home Meet Bill Priorities Endorsements The District Volunteer Contact Us Donate A champion for our neighbors in West Roxbury, Roslindale, Jamaica Plain, and Brookline State Representative Bill MacGregor Volunteer with Team MacGregor info@billmacgregor.org Click here to sign up for Rep.
+MacGregor's Newsletter! info@billmacgregor.org Paid for by the Committee to Elect Bill MacGregor

@@ -1,5 +1,4 @@
-Affordable Living
-We deserve an economy that values workers.
+0 Skip to Content About Deborah Issues Events Volunteer Endorsements Yard Signs Merch Media Contact Donate Open Menu Close Menu About Deborah Issues Events Volunteer Endorsements Yard Signs Merch Media Contact Donate Open Menu Close Menu About Deborah Issues Events Volunteer Endorsements Yard Signs Merch Media Contact Donate Affordable Living We deserve an economy that values workers.
 For too long, corporations have put shareholder value before the livelihoods of workers and their communities.
 While most Americans live paycheck to paycheck, CEOs have earned record profits.
 The system is rigged, and I’m running to fix it.
@@ -8,3 +7,6 @@ At the Department of Labor, I protected the retirement security and the retireme
 I also enforced worker safety regulations and employment rights for women, older workers, and vulnerable populations.
 My commitment is to always stand up for Arizona's working families by fighting corporate greed, opposing the exploitation of child labor, and pushing back against reckless Trump tariffs that will cost households thousands of dollars a year.
 Together, we will build an opportunity economy that works for all Arizonans—not just the wealthy.
+Paid for by Deborah Howard for State Representative - LD27.
+Authorized by Deborah Howard.
+Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318

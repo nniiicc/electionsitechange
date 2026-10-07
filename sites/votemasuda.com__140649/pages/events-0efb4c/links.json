@@ -1,55 +1,242 @@
 [
-"http://votemasuda.com/",
-"https://actionnetwork.org/events/angels-camp-summer-town-hall-series",
-"https://actionnetwork.org/events/bishop-summer-town-hall-series",
-"https://actionnetwork.org/events/chowchilla-summer-town-hall-series",
-"https://actionnetwork.org/events/clovis-summer-series-town-hall",
-"https://actionnetwork.org/events/fresno-summer-town-hall-series",
-"https://actionnetwork.org/events/groveland-town-hall",
-"https://actionnetwork.org/events/ione-summer-town-hall-series",
-"https://actionnetwork.org/events/madera-summer-town-hall-series",
-"https://actionnetwork.org/events/mariposa-fundraiser-at-yosemite-plaisance",
-"https://actionnetwork.org/events/modesto-summer-town-hall-series",
-"https://actionnetwork.org/events/north-fork-town-hall",
-"https://actionnetwork.org/events/oakdale-summer-town-hall-series",
-"https://actionnetwork.org/events/rancho-calaveras-summer-town-hall-series",
-"https://actionnetwork.org/events/soulsbyville-town-hall",
-"https://actionnetwork.org/events/waterford-summer-town-hall-series",
-"https://actionnetwork.org/events/west-point-summer-town-hall-series",
-"https://bsky.app/profile/votemasuda.com",
-"https://drive.google.com/file/d/15S4UlHJxAZxFo0Oh4dclwR_gc3vY2Z6g/view?usp=sharing",
-"https://drive.google.com/file/d/1b6W5QmtM22d6Y8pYuFqp3K8CL8eVU5XS/view?usp=sharing",
-"https://facebook.com/votemasuda",
-"https://forms.gle/5K1furKtUTF2JNVp7",
-"https://google.com/url?q=https%3A%2F%2Fphonebank.politicaldata.io%2Fuser%2FVk9ubllMeQ&sa=D&ust=1791301920000000&usg=AOvVaw0r12boLFecnsDhEALbDllh",
-"https://instagram.com/VoteMasuda",
-"https://maps.google.com/maps?hl=en&q=14570+Mono+Way+Ste+A2%2C+Sonora%2C+CA+95370",
-"https://maps.google.com/maps?hl=en&q=14570+Mono+Way+ste+a2%2C+Sonora%2C+CA+95370%2C+USA",
-"https://maps.google.com/maps?hl=en&q=2158+E+Alluvial+Ave%2C+Fresno%2C+CA+93720%2C+USA",
-"https://maps.google.com/maps?hl=en&q=3420+W+Fir+Ave%2C+Fresno%2C+CA+93711%2C+USA",
-"https://maps.google.com/maps?hl=en&q=David+McDonald+Park%2C+Coventry+Ave%2C+Clovis%2C+CA+93611%2C+USA",
-"https://maps.google.com/maps?hl=en&q=Dry+Creek+Park%2C+855+N+Clovis+Ave%2C+Clovis%2C+CA+93611%2C+USA",
-"https://maps.google.com/maps?hl=en&q=Valley+Crescent+School%2C+547+W+Nees+Ave%2C+Clovis%2C+CA+93611%2C+USA",
-"https://phonebank.politicaldata.io/user/Vk9ubllMeQ",
-"https://secure.actblue.com/donate/masuda_websiteform",
-"https://tiktok.com/@votemasuda.com",
-"https://us06web.zoom.us/u/kXUzSpr8V",
-"https://us06web.zoom.us/w/86968573089?tk=T8YCKuUpkavVvBV4vLnYrdlCZT4J3XeaBIIeFSeCbs0.DQkAAAAUP7scoRZTcU8wMmcxaFFucWY0cldxNXBpakpBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_rfmg7du0TFaEs-t2Pf6Vpw",
-"https://votemasuda.com/",
-"https://votemasuda.com/about",
-"https://votemasuda.com/about-1",
-"https://votemasuda.com/blog",
-"https://votemasuda.com/ca5",
-"https://votemasuda.com/cart",
-"https://votemasuda.com/conoceamichael",
-"https://votemasuda.com/endorsements-1",
-"https://votemasuda.com/espanol",
-"https://votemasuda.com/events",
-"https://votemasuda.com/inicio",
-"https://votemasuda.com/issues",
-"https://votemasuda.com/media",
-"https://votemasuda.com/privacypolicy",
-"https://votemasuda.com/temas",
-"https://votemasuda.com/volunteer",
-"https://x.com/VoteMasuda"
+{
+"text": "0",
+"href": "https://www.votemasuda.com/cart"
+},
+{
+"text": "14570 Mono Way Ste A2, Sonora, CA 95370",
+"href": "https://maps.google.com/maps?hl=en&q=14570+Mono+Way+Ste+A2%2C+Sonora%2C+CA+95370"
+},
+{
+"text": "14570 Mono Way Ste A2, Sonora, CA 95370, USA",
+"href": "https://maps.google.com/maps?hl=en&q=14570+Mono+Way+ste+a2%2C+Sonora%2C+CA+95370%2C+USA"
+},
+{
+"text": "2158 E Alluvial Ave, Fresno, CA 93720, USA",
+"href": "https://maps.google.com/maps?hl=en&q=2158+E+Alluvial+Ave%2C+Fresno%2C+CA+93720%2C+USA"
+},
+{
+"text": "3420 W Fir Ave, Fresno, CA 93711, USA",
+"href": "https://maps.google.com/maps?hl=en&q=3420+W+Fir+Ave%2C+Fresno%2C+CA+93711%2C+USA"
+},
+{
+"text": "About",
+"href": "https://www.votemasuda.com/about"
+},
+{
+"text": "Angels Camp",
+"href": "https://actionnetwork.org/events/angels-camp-summer-town-hall-series"
+},
+{
+"text": "Auto-Dialer Training",
+"href": "https://drive.google.com/file/d/1b6W5QmtM22d6Y8pYuFqp3K8CL8eVU5XS/view?usp=sharing"
+},
+{
+"text": "Back",
+"href": "https://www.votemasuda.com/"
+},
+{
+"text": "Bishop",
+"href": "https://actionnetwork.org/events/bishop-summer-town-hall-series"
+},
+{
+"text": "Blog",
+"href": "https://www.votemasuda.com/blog"
+},
+{
+"text": "CA5",
+"href": "https://www.votemasuda.com/ca5"
+},
+{
+"text": "California District 05",
+"href": "https://www.votemasuda.com/ca5"
+},
+{
+"text": "Chowchilla",
+"href": "https://actionnetwork.org/events/chowchilla-summer-town-hall-series"
+},
+{
+"text": "Clovis",
+"href": "https://actionnetwork.org/events/clovis-summer-series-town-hall"
+},
+{
+"text": "Conoce A Michael",
+"href": "https://www.votemasuda.com/conoceamichael"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@votemasuda.com?subject=Website+Contact+Form&body=Hi%2C+I%27d+like+more+information+about..."
+},
+{
+"text": "David McDonald Park, Coventry Ave, Clovis, CA 93611, USA",
+"href": "https://maps.google.com/maps?hl=en&q=David+McDonald+Park%2C+Coventry+Ave%2C+Clovis%2C+CA+93611%2C+USA"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/masuda_websiteform"
+},
+{
+"text": "Dry Creek Park, 855 N Clovis Ave, Clovis, CA 93611, USA",
+"href": "https://maps.google.com/maps?hl=en&q=Dry+Creek+Park%2C+855+N+Clovis+Ave%2C+Clovis%2C+CA+93611%2C+USA"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votemasuda.com/endorsements-1"
+},
+{
+"text": "Events",
+"href": "https://www.votemasuda.com/events"
+},
+{
+"text": "FAQ’s",
+"href": "https://drive.google.com/file/d/15S4UlHJxAZxFo0Oh4dclwR_gc3vY2Z6g/view?usp=sharing"
+},
+{
+"text": "Folder: About",
+"href": "https://www.votemasuda.com/about-1"
+},
+{
+"text": "Folder: Español",
+"href": "https://www.votemasuda.com/espanol"
+},
+{
+"text": "Fresno",
+"href": "https://actionnetwork.org/events/fresno-summer-town-hall-series"
+},
+{
+"text": "Groveland",
+"href": "https://actionnetwork.org/events/groveland-town-hall"
+},
+{
+"text": "Home",
+"href": "https://www.votemasuda.com/"
+},
+{
+"text": "Host an Event",
+"href": "https://forms.gle/5K1furKtUTF2JNVp7"
+},
+{
+"text": "Inicio",
+"href": "https://www.votemasuda.com/inicio"
+},
+{
+"text": "Ione",
+"href": "https://actionnetwork.org/events/ione-summer-town-hall-series"
+},
+{
+"text": "Issues",
+"href": "https://www.votemasuda.com/issues"
+},
+{
+"text": "Madera",
+"href": "https://actionnetwork.org/events/madera-summer-town-hall-series"
+},
+{
+"text": "Media",
+"href": "https://www.votemasuda.com/media"
+},
+{
+"text": "Modesto",
+"href": "https://actionnetwork.org/events/modesto-summer-town-hall-series"
+},
+{
+"text": "News",
+"href": "https://www.votemasuda.com/blog"
+},
+{
+"text": "North Fork",
+"href": "https://actionnetwork.org/events/north-fork-town-hall"
+},
+{
+"text": "Oakdale",
+"href": "https://actionnetwork.org/events/oakdale-summer-town-hall-series"
+},
+{
+"text": "Privacy Policy and Terms & Conditions",
+"href": "https://www.votemasuda.com/privacypolicy"
+},
+{
+"text": "RSVP HERE",
+"href": "https://actionnetwork.org/events/mariposa-fundraiser-at-yosemite-plaisance"
+},
+{
+"text": "Rancho Calaveras",
+"href": "https://actionnetwork.org/events/rancho-calaveras-summer-town-hall-series"
+},
+{
+"text": "Soulsbyville",
+"href": "https://actionnetwork.org/events/soulsbyville-town-hall"
+},
+{
+"text": "Temas",
+"href": "https://www.votemasuda.com/temas"
+},
+{
+"text": "Valley Crescent School, 547 W Nees Ave, Clovis, CA 93611, USA",
+"href": "https://maps.google.com/maps?hl=en&q=Valley+Crescent+School%2C+547+W+Nees+Ave%2C+Clovis%2C+CA+93611%2C+USA"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votemasuda.com/volunteer"
+},
+{
+"text": "VoteMasuda.com",
+"href": "http://votemasuda.com"
+},
+{
+"text": "Waterford",
+"href": "https://actionnetwork.org/events/waterford-summer-town-hall-series"
+},
+{
+"text": "West Point",
+"href": "https://actionnetwork.org/events/west-point-summer-town-hall-series"
+},
+{
+"text": "[image: Michael Masuda for Congress]",
+"href": "https://www.votemasuda.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/votemasuda.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votemasuda"
+},
+{
+"text": "[no text]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fphonebank.politicaldata.io%2Fuser%2FVk9ubllMeQ&sa=D&ust=1791301920000000&usg=AOvVaw0r12boLFecnsDhEALbDllh"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/VoteMasuda/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@votemasuda.com"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VoteMasuda"
+},
+{
+"text": "https://phonebank.politicaldata.io/user/Vk9ubllMeQ",
+"href": "https://phonebank.politicaldata.io/user/Vk9ubllMeQ"
+},
+{
+"text": "https://us06web.zoom.us/u/kXUzSpr8V",
+"href": "https://us06web.zoom.us/u/kXUzSpr8V"
+},
+{
+"text": "https://us06web.zoom.us/w/86968573089?tk=T8YCKuUpkavVvBV4vLnYrdlCZT4J3XeaBIIeFSeCbs0.DQkAAAAUP7scoRZTcU8wMmcxaFFucWY0cldxNXBpakpBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_rfmg7du0TFaEs-t2Pf6Vpw",
+"href": "https://us06web.zoom.us/w/86968573089?tk=T8YCKuUpkavVvBV4vLnYrdlCZT4J3XeaBIIeFSeCbs0.DQkAAAAUP7scoRZTcU8wMmcxaFFucWY0cldxNXBpakpBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_rfmg7du0TFaEs-t2Pf6Vpw"
+},
+{
+"text": "kristen@votemasuda.com",
+"href": "mailto:kristen@votemasuda.com"
+},
+{
+"text": "leah.waters@votemasuda.com",
+"href": "mailto:leah.waters@votemasuda.com"
+}
 ]

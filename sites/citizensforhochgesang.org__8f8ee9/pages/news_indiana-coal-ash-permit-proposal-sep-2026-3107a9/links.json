@@ -1,23 +1,98 @@
 [
-"https://citizensforhochgesang.org/",
-"https://citizensforhochgesang.org/cdn-cgi/l/email-protection",
-"https://citizensforhochgesang.org/district",
-"https://citizensforhochgesang.org/district/pike-county/petersburg",
-"https://citizensforhochgesang.org/events",
-"https://citizensforhochgesang.org/facts",
-"https://citizensforhochgesang.org/media",
-"https://citizensforhochgesang.org/news",
-"https://citizensforhochgesang.org/news?tag=Petersburg",
-"https://citizensforhochgesang.org/news?tag=Pike+County",
-"https://citizensforhochgesang.org/news?tag=coal+ash",
-"https://citizensforhochgesang.org/news?tag=public+comment",
-"https://citizensforhochgesang.org/platform",
-"https://citizensforhochgesang.org/store",
-"https://citizensforhochgesang.org/support",
-"https://epa.gov/coal-combustion-residuals/forms/public-hearing-indianas-coal-combustion-residuals-permit-program",
-"https://epa.gov/coal-combustion-residuals/us-state-indiana-coal-combustion-residuals-permit-program",
-"https://facebook.com/bradhochgesangforindianastatesenate",
-"https://indianacapitalchronicle.com/2026/09/16/epa-backs-indiana-coal-combustion-residual-program-takeover",
-"https://instagram.com/bradhochgesang.official",
-"https://youtube.com/@CitizensforHochgesang"
+{
+"text": "About & Priorities",
+"href": "https://citizensforhochgesang.org/platform"
+},
+{
+"text": "Contact Us",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "EPA hearing and registration information",
+"href": "https://www.epa.gov/coal-combustion-residuals/forms/public-hearing-indianas-coal-combustion-residuals-permit-program"
+},
+{
+"text": "EPA proposal and supporting documents",
+"href": "https://www.epa.gov/coal-combustion-residuals/us-state-indiana-coal-combustion-residuals-permit-program"
+},
+{
+"text": "Events",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bradhochgesangforindianastatesenate"
+},
+{
+"text": "Home",
+"href": "https://citizensforhochgesang.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bradhochgesang.official"
+},
+{
+"text": "Media & Press",
+"href": "https://citizensforhochgesang.org/media"
+},
+{
+"text": "News",
+"href": "https://citizensforhochgesang.org/news"
+},
+{
+"text": "Our District",
+"href": "https://citizensforhochgesang.org/district"
+},
+{
+"text": "Petersburg",
+"href": "https://citizensforhochgesang.org/news?tag=Petersburg"
+},
+{
+"text": "Petersburg issues",
+"href": "https://citizensforhochgesang.org/district/pike-county/petersburg"
+},
+{
+"text": "Pike County",
+"href": "https://citizensforhochgesang.org/news?tag=Pike+County"
+},
+{
+"text": "Reporting — Indiana Capital Chronicle",
+"href": "https://indianacapitalchronicle.com/2026/09/16/epa-backs-indiana-coal-combustion-residual-program-takeover/"
+},
+{
+"text": "Shirts & Signs",
+"href": "https://citizensforhochgesang.org/store"
+},
+{
+"text": "Support",
+"href": "https://citizensforhochgesang.org/support"
+},
+{
+"text": "The Record",
+"href": "https://citizensforhochgesang.org/facts"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@CitizensforHochgesang"
+},
+{
+"text": "[email protected]",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "[image: Brad Hochgesang for State Senate campaign logo]Brad Hochgesangfor State Senate",
+"href": "https://citizensforhochgesang.org/"
+},
+{
+"text": "coal ash",
+"href": "https://citizensforhochgesang.org/news?tag=coal+ash"
+},
+{
+"text": "public comment",
+"href": "https://citizensforhochgesang.org/news?tag=public+comment"
+},
+{
+"text": "← Back to News",
+"href": "https://citizensforhochgesang.org/news"
+}
 ]

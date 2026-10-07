@@ -1,7 +1,11 @@
 {
- "description": "Explore Press Releases from Forrest Satterfield\u2019s campaign for Alabama House District 21, with local context for Huntsville and north Madison County.",
+ "description": "Explore Press Releases from Forrest Satterfield’s campaign for Alabama House District 21, with local context for Huntsville and north Madison County.",
  "final_url": "https://www.forrestforalabama.com/blog-category/press-releases",
+ "fingerprint": "33adbe96fcc38d570e079a9ada29ea27db618cda",
+ "format": 3,
  "paid_for_by": "Paid for by Forrest Via Satterfield 740 SW Constellation Pl Dr, Apt",
  "title": "Press Releases | Forrest Satterfield Campaign Updates",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

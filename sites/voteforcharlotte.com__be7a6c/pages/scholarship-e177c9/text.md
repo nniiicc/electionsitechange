@@ -1,6 +1,3 @@
-Delegate Scholarship
-Thank you for your interest in Delegate Charlotte Crutchfield’s 2026 Academic Scholarship.
+0 Skip to Content Home About Charlotte Priorities Get Involved Scholarship Contact DONATE Open Menu Close Menu Home About Charlotte Priorities Get Involved Scholarship Contact DONATE Open Menu Close Menu Home About Charlotte Priorities Get Involved Scholarship Contact DONATE Delegate Scholarship Thank you for your interest in Delegate Charlotte Crutchfield’s 2026 Academic Scholarship.
 Please download the scholarship packet below which includes the instructions, checklist, and application.
-Please return the enclosed completed application with your letter of interest no later than April 24, 2026 by mail to:
-6 Bladen Street, Room 226
-Annapolis, MD 21401
+Please return the enclosed completed application with your letter of interest no later than April 24, 2026 by mail to: 6 Bladen Street, Room 226 Annapolis, MD 21401 Checklist Application Instructions Vote for Charlotte Crutchfield By Authority: Friends of Charlotte Crutchfield, Jeffrey Groce, Treasurer.

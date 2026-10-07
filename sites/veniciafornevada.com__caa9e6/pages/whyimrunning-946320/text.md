@@ -1,5 +1,6 @@
-Why I'm Running
-Las Vegas has been my home now for nearly thirty-four years.
+top of page ABOUT VENICIA WHY I'M RUNNING ENDORSEMENTS VOLUNTEER DONATE Events More...
+Use tab to navigate through the menu items.
+Log In Why I'm Running Las Vegas has been my home now for nearly thirty-four years.
 When I was a child, my father was a firefighter and my mother sold Tupperware to make ends meet.
 After my father retired from the New York City Fire Department, we couldn’t afford to live in New York any longer so we moved.
 A lot.
@@ -25,4 +26,5 @@ Kenn, my husband, was raised in Las Vegas and we still live in the neighborhood 
 Our part of the city has changed over the years, but what we want for our families has not.
 We want to ensure that our families and our children have the opportunities they need to build a quality life in a safe neighborhood.
 We want meaningful, quality education for our children, economic opportunities for our workers, and affordable, quality health care that doesn’t cost us our savings and our paychecks.
-I look forward to meeting you, hearing from you, and working together to ensure a hopeful and sustainable future for Nevada.
+I look forward to meeting you, hearing from you, and working together to ensure a hopeful and sustainable future for Nevada. sR Paid for & Authorized by the Committee to Elect Venicia Considine P.O.
+Box 12755, Las Vegas, NV 89112 702-570-0049 venicia@veniciafornevada.com ​ bottom of page

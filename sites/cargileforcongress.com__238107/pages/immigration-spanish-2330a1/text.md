@@ -1,7 +1,4 @@
-La Inmigración
-Es hora de un nuevo plan... el Plan Cargile
-Endosado por:
-Todo cambió el día que la administración Trump ofreció pagar a los extranjeros ilegales para que regresaran a su país de origen, no solo pasajes aéreos gratis, sino dinero en sus bolsillos a su llegada.
+Home Media About Issues Our District Next Steps Donate SHOP Back Register to Vote Join the Team Contact Home Media About Issues Our District Next Steps Register to Vote Join the Team Contact Mike Cargile for Congress Donate SHOP La Inmigración Es hora de un nuevo plan... el Plan Cargile Endosado por: Todo cambió el día que la administración Trump ofreció pagar a los extranjeros ilegales para que regresaran a su país de origen, no solo pasajes aéreos gratis, sino dinero en sus bolsillos a su llegada.
 La medida de seguridad más grande que Estados Unidos podría tener en su frontera sur son vecinos fuertes, seguros y prósperos en México y los países de América Central y del Sur.
 Mi enfoque de la inmigración se ha basado en dos cosas: La Biblia y la Ley.
 Casi todos los problemas que azotan a nuestro país en este momento pueden ser resueltos con el simple principio bíblico “trata a los demás de la manera que quieres ser tratado”.
@@ -23,3 +20,6 @@ Usted no tiene derecho a estar aquí si no fue invitado y no usó la puerta prin
 Tienes que irte.
 Los que se nieguen a auto-deportarse serán deportados por la fuerza y sin prejuicios.
 El estado de derecho debe ser restaurado antes de que se puedan producir nuevas reformas migratorias.
+Unlike my opponent, Norma Torres… I am Pro-God, Pro-Family, Pro-Life, Pro-Jobs, Pro-Police and I will always put… America First!
+“At no other time in our nation’s history have our foundational principles been under greater assault than now.
+Join with me as we rise to meet the challenge and restore faith in our great Republic!” Mike.Cargile@outlook.com Hours HOME Media About Issues Our District Ways to Help Join the Team Contact Donate Now

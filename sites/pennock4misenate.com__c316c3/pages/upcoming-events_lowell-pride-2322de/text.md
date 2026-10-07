@@ -1,10 +1,5 @@
-Back to All Events
-Building a stronger, fairer Michigan means ensuring that every single community—from our largest cities to our cherished small towns—is a place where everyone can live authentically, safely, and with dignity.
+0 Skip to Content About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Back Donate Back to All Events Lowell Pride Saturday, June 6, 2026 10:30 AM 5:00 PM Lowell Riverwalk (map) Google Calendar ICS Building a stronger, fairer Michigan means ensuring that every single community—from our largest cities to our cherished small towns—is a place where everyone can live authentically, safely, and with dignity.
 That is why Anthony and the team are kicking off June by heading over to the 6th Annual Lowell Pride Festival, and we want you there standing proud with us!
-Previous
-Previous
-May 9
-Candidate Meet and Greet
-Next
-Next
-June 13
+Previous Previous May 9 Candidate Meet and Greet Next Next June 13 Marshall Pride Follow the Campaign BlueSky Donate by Mail P.O.
+Box 61 Battle Creek, MI 49016 info@ pennock4misenate.com This website is created. paid for, and managed by the Committee to Elect Anthony Pennock State Senator, P.O.
+Box 61, Battle Creek, MI 49016

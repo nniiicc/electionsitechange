@@ -1,14 +1,54 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/vanessataronson",
-"https://instagram.com/vanessataronson",
-"https://secure.actblue.com/donate/vanessa-aronson",
-"https://vanessaforny.com/",
-"https://vanessaforny.com/about",
-"https://vanessaforny.com/assembly-district-73",
-"https://vanessaforny.com/contact",
-"https://vanessaforny.com/endorsements",
-"https://vanessaforny.com/events-may18-fundraiser",
-"https://vanessaforny.com/issues",
-"https://vanessaforny.com/news"
+{
+"text": "About",
+"href": "https://www.vanessaforny.com/about"
+},
+{
+"text": "Assembly District 73",
+"href": "https://www.vanessaforny.com/assembly-district-73"
+},
+{
+"text": "Contact Us",
+"href": "https://www.vanessaforny.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vanessa-aronson"
+},
+{
+"text": "Endorsements",
+"href": "https://www.vanessaforny.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.vanessaforny.com/events-may18-fundraiser"
+},
+{
+"text": "Home",
+"href": "https://www.vanessaforny.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.vanessaforny.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.vanessaforny.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Vanessa Aronson for State Assembly]",
+"href": "https://www.vanessaforny.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/vanessataronson"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/vanessataronson"
+}
 ]

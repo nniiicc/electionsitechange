@@ -1,4 +1,4 @@
-Volunteer Today!
+Meet Christine Issues Volunteer Donate Contact Events Volunteer Today!
 Join Christine today as she helps bring common sense back to Illinois.
 Become a member of her staff.
 We are looking for interns that would like to earn college credit by learning the process of running a political campaign.
@@ -22,3 +22,4 @@ Message us on this site using the volunteer button.
 Thank you!
 Together we can make a difference!
 Christine McGovern for Illinois State Senate for District 18!
+First Name Last Name Email Phone Address City/Town State Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip I would like to make a financial contribution I would like to canvass Get updates and news via email Submit Voter Information Events Photos Contact Privacy Policy Shanahan McGovern for Faith Family & Freedom Powered by CampaignPartner.com - Political Websites Home Meet Christine Issues Donate Volunteer Events Contact Voter Information Close Menu

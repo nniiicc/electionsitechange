@@ -1,119 +1,22 @@
-- PRESS RELEASE Momentum Continues Building for Leela Gray as National Security Leaders for America Endorse In FL-13
-- PRESS RELEASE ICYMI: Leela Gray Joins WFLA's Battleground Florida, Outlines Affordability & Anti-Corruption Agenda
-- PRESS RELEASE Leela Gray Raises Over $1.4 Million in Q3
-- PRESS RELEASE RATINGS CHANGE: Inside Elections Moves FL-13 Towards Leela Gray
-- NEWS ARTICLE Two nominees battle for Pinellas congressional seat
-- NEWS ARTICLE Leela Gray unveils affordability plan for Florida’s 13th Congressional District
-- PRESS RELEASE Leela Gray (FL-13) Releases Cutting Costs Agenda to Bring Down Prices for Floridians
-- NEWS ARTICLE Cook Political Report sees Anna Paulina Luna in risky territory
-- PRESS RELEASE RATINGS CHANGE: Cook Political Report Shifts FL-13 in Leela Gray’s Direction
-- NEWS ARTICLE Leela Gray Joins Nicolle Wallace on MS NOW to Discuss Pentagon Dysfunction
-- NEWS ARTICLE Abigail Spanberger endorses Leela Gray for Congress
-- PRESS RELEASE RATINGS CHANGE: FL-13 Shifted in Leela Gray's Favor Again
-- PRESS RELEASE NEW: Fox News Shifts FL-13 to Leela Gray in Race Against Anna Paulina Luna
-- NEWS ARTICLE Punchbowl: Anna Paulina Luna’s opponent disregards cease-and-desist warning
-- NEWS ARTICLE Leela Gray attorneys punch back at Anna Paulina Luna cease and desist demand
-- PRESS RELEASE Luna’s Attempt to Hide Her Corruption Falls Flat: “Mission” Stays on the Air
-- PRESS RELEASE Leela Gray Responds to Anna Paulina Luna’s Desperate Attempt to Hide Her Own Record of Corruption
-- PRESS RELEASE ICYMI: Leela Gray Joins Fox 13 to Discuss Latest on Iran War & A.I.
-- NEWS ARTICLE Tampa Bay Times: Leela Gray Labels Luna Corrupt in First General Election Ad
-- NEWS ARTICLE Semafor: Luna challenger links her to 'culture of corruption'
-- NEWS ARTICLE Leela Gray Joins Ali Vitali on MS NOW After Releasing First General Election Ad
-- PRESS RELEASE Leela Gray Releases First Ad in Toss-Up Race Against Anna Paulina Luna
-- NEWS ARTICLE Leela Gray Joins Rev.
-Al Sharpton on MS NOW to Discuss Midterms
-- NEWS ARTICLE Leela Gray Joins Spectrum Bay News 9 to Discuss Matchup Against Anna Paulina Luna
-- PRESS RELEASE Leela Gray Responds to Luna's Out-of-Touch RNC Speech
-- PRESS RELEASE Anna Paulina Luna Dodges Leela Gray's Debate Challenge
-- NEWS ARTICLE Leela Gray Joins Fox 13 to Discuss Luna Debate Challenge
-- PRESS RELEASE Democrat Leela Gray Challenges Anna Paulina Luna to Debate
-- NEWS ARTICLE Military.com: Leela Gray Would be First-Ever Female General Elected to Congress
-- PRESS RELEASE Leela Gray Joins 10 Members of Congress and Voters From All 50 States in Signing tPromise to America
-- NEWS ARTICLE Leela Gray Joins CNN to Discuss War in Iran & Midterms
-- NEWS ARTICLE Tampa Bay Times: Could Dems unseat Anna Paulina Luna in 2026?
-Internal poll buoys hope
-- PRESS RELEASE New Poll Shows Democrat Leela Gray Leading Anna Paulina Luna in Battleground FL-13
-- NEWS ARTICLE Brig.
+Skip navigation menu Home About Endorsements Issues News Events Store Español Donate Home About Endorsements Issues News Events Store Español Donate PRESS RELEASE New Gray Campaign Ad “Swamp” Holds Luna Accountable for Being a Fixture of a Corrupt Washington PRESS RELEASE Momentum Continues Building for Leela Gray as National Security Leaders for America Endorse In FL-13 PRESS RELEASE ICYMI: Leela Gray Joins WFLA's Battleground Florida, Outlines Affordability & Anti-Corruption Agenda PRESS RELEASE Leela Gray Raises Over $1.4 Million in Q3 PRESS RELEASE RATINGS CHANGE: Inside Elections Moves FL-13 Towards Leela Gray NEWS ARTICLE Two nominees battle for Pinellas congressional seat NEWS ARTICLE Leela Gray unveils affordability plan for Florida’s 13th Congressional District PRESS RELEASE Leela Gray (FL-13) Releases Cutting Costs Agenda to Bring Down Prices for Floridians NEWS ARTICLE Cook Political Report sees Anna Paulina Luna in risky territory PRESS RELEASE RATINGS CHANGE: Cook Political Report Shifts FL-13 in Leela Gray’s Direction NEWS ARTICLE Leela Gray Joins Nicolle Wallace on MS NOW to Discuss Pentagon Dysfunction NEWS ARTICLE Abigail Spanberger endorses Leela Gray for Congress PRESS RELEASE RATINGS CHANGE: FL-13 Shifted in Leela Gray's Favor Again PRESS RELEASE NEW: Fox News Shifts FL-13 to Leela Gray in Race Against Anna Paulina Luna NEWS ARTICLE Punchbowl: Anna Paulina Luna’s opponent disregards cease-and-desist warning NEWS ARTICLE Leela Gray attorneys punch back at Anna Paulina Luna cease and desist demand PRESS RELEASE Luna’s Attempt to Hide Her Corruption Falls Flat: “Mission” Stays on the Air PRESS RELEASE Leela Gray Responds to Anna Paulina Luna’s Desperate Attempt to Hide Her Own Record of Corruption PRESS RELEASE ICYMI: Leela Gray Joins Fox 13 to Discuss Latest on Iran War & A.I.
+NEWS ARTICLE Tampa Bay Times: Leela Gray Labels Luna Corrupt in First General Election Ad NEWS ARTICLE Semafor: Luna challenger links her to 'culture of corruption' NEWS ARTICLE Leela Gray Joins Ali Vitali on MS NOW After Releasing First General Election Ad PRESS RELEASE Leela Gray Releases First Ad in Toss-Up Race Against Anna Paulina Luna NEWS ARTICLE Leela Gray Joins Rev.
+Al Sharpton on MS NOW to Discuss Midterms NEWS ARTICLE Leela Gray Joins Spectrum Bay News 9 to Discuss Matchup Against Anna Paulina Luna PRESS RELEASE Leela Gray Responds to Luna's Out-of-Touch RNC Speech PRESS RELEASE Anna Paulina Luna Dodges Leela Gray's Debate Challenge NEWS ARTICLE Leela Gray Joins Fox 13 to Discuss Luna Debate Challenge PRESS RELEASE Democrat Leela Gray Challenges Anna Paulina Luna to Debate NEWS ARTICLE Military.com: Leela Gray Would be First-Ever Female General Elected to Congress PRESS RELEASE Leela Gray Joins 10 Members of Congress and Voters From All 50 States in Signing tPromise to America NEWS ARTICLE Leela Gray Joins CNN to Discuss War in Iran & Midterms NEWS ARTICLE Tampa Bay Times: Could Dems unseat Anna Paulina Luna in 2026?
+Internal poll buoys hope PRESS RELEASE New Poll Shows Democrat Leela Gray Leading Anna Paulina Luna in Battleground FL-13 NEWS ARTICLE Brig.
 Gen.
-(Ret.) Leela Gray: America's Military Deserves Better
-- NEWS ARTICLE Iran War Has Achieved Nothing But a Cost of Living Crisis Says Gray
-- PRESS RELEASE Brig.
+(Ret.) Leela Gray: America's Military Deserves Better NEWS ARTICLE Iran War Has Achieved Nothing But a Cost of Living Crisis Says Gray PRESS RELEASE Brig.
 Gen.
-(Ret.) Leela Gray Calls on Congress to Investigate Hope Florida Scandal
-- NEWS ARTICLE Rep.
-Luna’s democratic challenger announces anti-corruption agenda
-- NEWS ARTICLE Anna Paulina Luna, an insider trading ban supporter, slammed by House Dems for investment hypocrisy
-- PRESS RELEASE ICYMI: FL-13 Democratic Nominee Leela Gray on MS NOW With Ali Velshi
-- NEWS ARTICLE National Dems go all in on flipping Anna Paulina Luna’s reshaped seat
-- NEWS ARTICLE House Democrats add 5 more candidates to ‘Red to Blue’ list
-- NEWS ARTICLE Leela Gray wins Democratic nomination in Florida's 13th Congressional District
-- NEWS ARTICLE Exclusive: Democrats eye Republican-held Florida district
-- NEWS ARTICLE Democrats run military veterans as they hope for blue wave in Florida
-- PRESS RELEASE End Citizens United Endorses Leela Gray in Florida’s 13th Congressional District
-- NEWS ARTICLE Mike Beltran, Leela Gray discuss competitive congressional races
-- NEWS ARTICLE NRDC Action Fund endorses Leela Gray for Congress
-- PRESS RELEASE House Democratic Whip Katherine Clark Endorses Leela Gray in Florida's 13th Congressional District
-- NEWS ARTICLE ‘The kind of leader who will deliver results’: Steny Hoyer backs Leela Gray in CD 13
-- NEWS ARTICLE Pete Buttigieg endorses Leela Gray for Congress
-- PRESS RELEASE Senator Mark Kelly Endorses Leela Gray for Florida’s 13th Congressional District
-- NEWS ARTICLE Leela Gray lands Lois Frankel endorsement in CD 13 bid
-- NEWS ARTICLE Jim Davis joins growing list of Democrats backing Leela Gray for CD 13
-- NEWS ARTICLE ‘Proud to stand with her’: Pat Ryan backs Leela Gray in CD 13
-- NEWS ARTICLE Leela Gray picks up endorsement of fellow veteran and DCCC co-chair Jason Crow
-- NEWS ARTICLE Leela Gray raises $100K in 10 days after enactment of new Florida congressional map
-- NEWS ARTICLE Leela Gray hauls $561K within months of challenging Anna Paulina Luna for CD 13
-- NEWS ARTICLE Morning Joe Interview
-- NEWS ARTICLE Redistricting shuffle: Leela Gray doubles down on CD 13 bid
-- NEWS ARTICLE See which Democrats challenging Anna Paulina Luna raised the most this quarter
-- PRESS RELEASE Brigadier General (Ret) Leela Gray Outraises Incumbent Anna Paulina Luna in Commanding First Quarter
-- NEWS ARTICLE Here are 5 federal fundraising reports that already turned our heads days from the Q1 deadline
-- NEWS ARTICLE Army vet Leela Gray says she’s driven by the notion of ‘service over self’
-- NEWS ARTICLE VoteVets Endorses Retired Brigadier General Leela Gray
-- NEWS ARTICLE EMILYs List Endorses Retired Brigadier General Leela Gray for Florida’s 13th Congressional District
-- NEWS ARTICLE Leela Gray raises upward of $150,000 in first 48 hours of challenge to Anna Paulina Luna
-- NEWS ARTICLE Whitney Fox backs Leela Gray to do what she couldn’t in CD 13
-- NEWS ARTICLE Democrat Leela Gray Launches 2026 Challenge To Rep.
-Anna Paulina Luna
-- NEWS ARTICLE Could this Democrat unseat Anna Paulina Luna in November?
-(paywall)
-- NEWS ARTICLE ‘Stepping up’: Leela Gray brings veteran background to challenge Anna Paulina Luna in CD 13
-- PRESS RELEASE Brigadier General, (Ret) Leela Gray’s Campaign Raises $500,000 Cash on Hand and Decisive Momentum
-- PRESS RELEASE Brigadier General, (Ret) Leela Gray Commits to Running and Winning in Florida’s 13th District
-- PRESS RELEASE Safety Harbor Mayor Joe Ayoub Endorses Leela Gray in Race for Florida’s 13th District
-- PRESS RELEASE Retired Brigadier General Leela Gray Raises Over $100,000 in 10 Days Since DeSantis Signed Maps
-- PRESS RELEASE Congressman Jason Crow Endorses Leela Gray for Florida’s 13th Congressional District
-- PRESS RELEASE New Poll Shows FL-13 in Statistical Tie as Leela Gray Emerges as Serious Threat to Anna Paulina Luna
-- PRESS RELEASE Former State Rep.
-Ben Diamond Endorses Leela Gray for Florida's 13th Congressional District
-- PRESS RELEASE Former Florida CFO Alex Sink Endorses Leela Gray for Florida's 13th Congressional District
-- PRESS RELEASE Florida AFL-CIO and West Central Florida Labor Council Endorse Leela Gray in FL-13
-- PRESS RELEASE Congressman Pat Ryan Endorses Leela Gray for Florida’s 13th Congressional District
-- PRESS RELEASE Former Congressman Jim Davis Endorses Leela Gray for Florida's 13th Congressional District
-- PRESS RELEASE Congressman Ted Lieu Endorses Leela Gray for Florida's 13th Congressional District
-- PRESS RELEASE Congresswoman Lois Frankel Endorses Leela Gray for Florida's 13th Congressional District
-- PRESS RELEASE Leela Gray Raises Over $1 Million Since Campaign Launch
-- PRESS RELEASE Secretary Pete Buttigieg Backs Leela Gray to Unseat Anna Paulina Luna in Florida's 13th District
-- PRESS RELEASE Congressman Steny Hoyer Endorses Leela Gray in Florida's 13th Congressional District
-- PRESS RELEASE NRDC Action Fund Endorses Leela Gray for Florida's 13th Congressional District
-- PRESS RELEASE Anna Paulina Luna Defends Campaign Donor and Fellow Republican Amid Domestic Abuse Allegations
-- PRESS RELEASE Investigative Reporter: Luna Creates a Joint Fundraising Agreement with Alleged Violent Criminal
-- PRESS RELEASE New Poll in FL-13 Shows Anna Paulina Luna Trailing Leela Gray
-- PRESS RELEASE Gen.
-Leela Gray to Take on Anna Paulina Luna in Battleground FL-13
-- PRESS RELEASE Brig.
+(Ret.) Leela Gray Calls on Congress to Investigate Hope Florida Scandal NEWS ARTICLE Rep.
+Luna’s democratic challenger announces anti-corruption agenda NEWS ARTICLE Anna Paulina Luna, an insider trading ban supporter, slammed by House Dems for investment hypocrisy PRESS RELEASE ICYMI: FL-13 Democratic Nominee Leela Gray on MS NOW With Ali Velshi NEWS ARTICLE National Dems go all in on flipping Anna Paulina Luna’s reshaped seat NEWS ARTICLE House Democrats add 5 more candidates to ‘Red to Blue’ list NEWS ARTICLE Leela Gray wins Democratic nomination in Florida's 13th Congressional District NEWS ARTICLE Exclusive: Democrats eye Republican-held Florida district NEWS ARTICLE Democrats run military veterans as they hope for blue wave in Florida PRESS RELEASE End Citizens United Endorses Leela Gray in Florida’s 13th Congressional District NEWS ARTICLE Mike Beltran, Leela Gray discuss competitive congressional races NEWS ARTICLE NRDC Action Fund endorses Leela Gray for Congress PRESS RELEASE House Democratic Whip Katherine Clark Endorses Leela Gray in Florida's 13th Congressional District NEWS ARTICLE ‘The kind of leader who will deliver results’: Steny Hoyer backs Leela Gray in CD 13 NEWS ARTICLE Pete Buttigieg endorses Leela Gray for Congress PRESS RELEASE Senator Mark Kelly Endorses Leela Gray for Florida’s 13th Congressional District NEWS ARTICLE Leela Gray lands Lois Frankel endorsement in CD 13 bid NEWS ARTICLE Jim Davis joins growing list of Democrats backing Leela Gray for CD 13 NEWS ARTICLE ‘Proud to stand with her’: Pat Ryan backs Leela Gray in CD 13 NEWS ARTICLE Leela Gray picks up endorsement of fellow veteran and DCCC co-chair Jason Crow NEWS ARTICLE Leela Gray raises $100K in 10 days after enactment of new Florida congressional map NEWS ARTICLE Leela Gray hauls $561K within months of challenging Anna Paulina Luna for CD 13 NEWS ARTICLE Morning Joe Interview NEWS ARTICLE Redistricting shuffle: Leela Gray doubles down on CD 13 bid NEWS ARTICLE See which Democrats challenging Anna Paulina Luna raised the most this quarter PRESS RELEASE Brigadier General (Ret) Leela Gray Outraises Incumbent Anna Paulina Luna in Commanding First Quarter NEWS ARTICLE Here are 5 federal fundraising reports that already turned our heads days from the Q1 deadline NEWS ARTICLE Army vet Leela Gray says she’s driven by the notion of ‘service over self’ NEWS ARTICLE VoteVets Endorses Retired Brigadier General Leela Gray NEWS ARTICLE EMILYs List Endorses Retired Brigadier General Leela Gray for Florida’s 13th Congressional District NEWS ARTICLE Leela Gray raises upward of $150,000 in first 48 hours of challenge to Anna Paulina Luna NEWS ARTICLE Whitney Fox backs Leela Gray to do what she couldn’t in CD 13 NEWS ARTICLE Democrat Leela Gray Launches 2026 Challenge To Rep.
+Anna Paulina Luna NEWS ARTICLE Could this Democrat unseat Anna Paulina Luna in November? (paywall) NEWS ARTICLE ‘Stepping up’: Leela Gray brings veteran background to challenge Anna Paulina Luna in CD 13 PRESS RELEASE Brigadier General, (Ret) Leela Gray’s Campaign Raises $500,000 Cash on Hand and Decisive Momentum PRESS RELEASE Brigadier General, (Ret) Leela Gray Commits to Running and Winning in Florida’s 13th District PRESS RELEASE Safety Harbor Mayor Joe Ayoub Endorses Leela Gray in Race for Florida’s 13th District PRESS RELEASE Retired Brigadier General Leela Gray Raises Over $100,000 in 10 Days Since DeSantis Signed Maps PRESS RELEASE Congressman Jason Crow Endorses Leela Gray for Florida’s 13th Congressional District PRESS RELEASE New Poll Shows FL-13 in Statistical Tie as Leela Gray Emerges as Serious Threat to Anna Paulina Luna PRESS RELEASE Former State Rep.
+Ben Diamond Endorses Leela Gray for Florida's 13th Congressional District PRESS RELEASE Former Florida CFO Alex Sink Endorses Leela Gray for Florida's 13th Congressional District PRESS RELEASE Florida AFL-CIO and West Central Florida Labor Council Endorse Leela Gray in FL-13 PRESS RELEASE Congressman Pat Ryan Endorses Leela Gray for Florida’s 13th Congressional District PRESS RELEASE Former Congressman Jim Davis Endorses Leela Gray for Florida's 13th Congressional District PRESS RELEASE Congressman Ted Lieu Endorses Leela Gray for Florida's 13th Congressional District PRESS RELEASE Congresswoman Lois Frankel Endorses Leela Gray for Florida's 13th Congressional District PRESS RELEASE Leela Gray Raises Over $1 Million Since Campaign Launch PRESS RELEASE Secretary Pete Buttigieg Backs Leela Gray to Unseat Anna Paulina Luna in Florida's 13th District PRESS RELEASE Congressman Steny Hoyer Endorses Leela Gray in Florida's 13th Congressional District PRESS RELEASE NRDC Action Fund Endorses Leela Gray for Florida's 13th Congressional District PRESS RELEASE Anna Paulina Luna Defends Campaign Donor and Fellow Republican Amid Domestic Abuse Allegations PRESS RELEASE Investigative Reporter: Luna Creates a Joint Fundraising Agreement with Alleged Violent Criminal PRESS RELEASE New Poll in FL-13 Shows Anna Paulina Luna Trailing Leela Gray PRESS RELEASE Gen.
+Leela Gray to Take on Anna Paulina Luna in Battleground FL-13 PRESS RELEASE Brig.
 Gen.
-Leela Gray Releases Anti-Corruption Agenda in Race Against Anna Paulina Luna
-- PRESS RELEASE Governor Abigail Spanberger Endorses Leela Gray for Florida’s 13th Congressional District
-- NEWS ARTICLE The Daily Caller: Leela Gray Poses Serious Challenge to Anna Paulina Luna
-- NEWS ARTICLE POLITICO Florida Playbook: Special session delayed (and expanded): What’s next?
-- NEWS ARTICLE National Journal: How High Would a Blue Wave Crest?
-- NEWS ARTICLE Democratic Nominee Leela Gray Previews Anna Paulina Luna Matchup in Battleground FL-13
-PRESS RELEASE
-Anna Paulina Luna Dodges Leela Gray's Debate Challenge
-For Immediate Release
-Date: September 9, 2026
-Contact: press@leelagray.com
-St.
-Petersburg, FL — On Wednesday, FL-13 Democratic nominee and retired Army Brigadier General Leela Gray released the following statement as Anna Paulina Luna takes the stage at the Republican National Convention in Dallas and continues to dodge her general election debate challenge:
-“Still no word from Anna Paulina Luna on our debate challenge.
-Apparently Luna has time to boost her own profile at the RNC in Dallas, but cannot be bothered to answer to her constituents here in FL-13 on why she voted to take away their healthcare and make their groceries, gas, and housing more expensive.”
+Leela Gray Releases Anti-Corruption Agenda in Race Against Anna Paulina Luna PRESS RELEASE Governor Abigail Spanberger Endorses Leela Gray for Florida’s 13th Congressional District NEWS ARTICLE The Daily Caller: Leela Gray Poses Serious Challenge to Anna Paulina Luna NEWS ARTICLE POLITICO Florida Playbook: Special session delayed (and expanded): What’s next?
+NEWS ARTICLE National Journal: How High Would a Blue Wave Crest?
+NEWS ARTICLE Democratic Nominee Leela Gray Previews Anna Paulina Luna Matchup in Battleground FL-13 Sep 9 2026 PRESS RELEASE Anna Paulina Luna Dodges Leela Gray's Debate Challenge For Immediate Release Date: September 9, 2026 Contact: press@leelagray.com St.
+Petersburg, FL — On Wednesday, FL-13 Democratic nominee and retired Army Brigadier General Leela Gray released the following statement as Anna Paulina Luna takes the stage at the Republican National Convention in Dallas and continues to dodge her general election debate challenge: “Still no word from Anna Paulina Luna on our debate challenge.
+Apparently Luna has time to boost her own profile at the RNC in Dallas, but cannot be bothered to answer to her constituents here in FL-13 on why she voted to take away their healthcare and make their groceries, gas, and housing more expensive.” Privacy Policy Terms Leela Gray is a former member of the United States Army and Army Reserve.
+Use of her military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or Department of Defense.
+P.O.
+Box 40162 St.
+Petersburg, FL 33743 outreach@leelagray.com PAID FOR BY LEELA J GRAY FOR CONGRESS INC You need to enable JavaScript to run this app.

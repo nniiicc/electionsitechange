@@ -1,18 +1,10 @@
-(posted by Elvis Clark on July 11, 2024)
-(posted by Elvis Clark on May 9, 2024)
-(posted by Elvis Clark on May 4, 2024)
-(posted by Elvis Clark on April 18, 2024)
-Warning on the following video: If you have TDS, the following video will not be very funny (most probably).
-(posted by Elvis Clark on April 11, 2024)
-The above Babylon Bee spoof catches my fancy.
+Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes More Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes For some, keeping the old boss is preferred to a new boss (posted by Elvis Clark on July 11, 2024) A kind of funny cartoon featuring Governor Kotek Oregon has long been a dumpster fire of sorts, Kotek only being Oregon's most recent keystone cop (posted by Elvis Clark on May 9, 2024) This funny quib reflects my view of Today's big government A lot of us, me included, don't want or need any more government meddling. (posted by Elvis Clark on May 4, 2024) Commissioner Shull's Fiancee Oksana has a funny incite (posted by Elvis Clark on April 18, 2024) Trump is part comedy act and you just laugh at the Gahoonies Warning on the following video: If you have TDS, the following video will not be very funny (most probably). (posted by Elvis Clark on April 11, 2024) Babylon Bee has funny spoof about Gov Desantis The above Babylon Bee spoof catches my fancy.
 Because I have a friend who use to teach troubled black youth and teenagers about computers and real-life lessons, and he captivated their attention and gave them useful skills back at the turn of this century.
 But he said the other teachers around him frowned on his success with these troubled youths, as he guesses that it put them in a bad light.
 So, he continued on for a few years more but finally was let go when the school faced budget cuts.
-So, there is some truth in the syndrome that this Babylon spoof is based, concerning Governor Ron Desantis.
-(posted by Elvis Clark on March 29, 2024)
-(posted by Elvis Clark for February 17, 2023)
-(posted by Elvis Clark on February 9, 2022)
-Picture if you would, a bunch of us freedom lovers peacefully showing up in numbers at some government meeting which requires face masks - with us all wearing these spooky industrial sized masks (photo to right here).
+So, there is some truth in the syndrome that this Babylon spoof is based, concerning Governor Ron Desantis. (posted by Elvis Clark on March 29, 2024) little dog clowns with car's exhaust pipes YouTube spoof on Joe Biden taking on gang banger Corn Pop: POP CORN, starring Joe Biden - YouTube I wish our Governments were as harmless as wally (posted by Elvis Clark for February 17, 2023) Country folk give proper greet to China Spy Balloon From the Grifter Biden Annals - 1/20/23 2 new Cartoon like jabs - January 6, 2023 1 for our Favorite Grifter Family & 2 for our Woke World Hump Day After long Weekend & you might be feeling the above Source: Oregon Taxpayer Association posted 5/24/22 Another Jab at medical "science" (posted by Elvis Clark on February 9, 2022) A Freedom-First Funny Look at Vaccine and Mask Mandates (in the 2 photos just below) Picture if you would, a bunch of us freedom lovers peacefully showing up in numbers at some government meeting which requires face masks - with us all wearing these spooky industrial sized masks (photo to right here).
 Sadly what probably would subsequently happen is government prescribing more exacting rules for the masks we are commanded to wear.
-Meanwhile the irony, inconsistencies of Mask mandates are all around us - as in these photos to the right of here.
-(posted by Elvis Clark on December 10, 2021)
+Meanwhile the irony, inconsistencies of Mask mandates are all around us - as in these photos to the right of here. (posted by Elvis Clark on December 10, 2021) Powered by

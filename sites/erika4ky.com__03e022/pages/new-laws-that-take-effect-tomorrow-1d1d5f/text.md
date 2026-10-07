@@ -1,4 +1,5 @@
-| During the 2025 Legislative Session, over 1,100 bills were filed, and approximately 140 of them were enacted into law.
+Skip to primary sidebar Skip to content Skip to footer Erika Hancock State Rep for Kentucky's 57th District Home Meet Erika Erika’s Update!
+Appearances News Contact Contribute You are here: Home / Uncategorized / New laws that take effect tomorrow by on June 26, 2025 New laws that take effect tomorrow During the 2025 Legislative Session, over 1,100 bills were filed, and approximately 140 of them were enacted into law.
 Most of these new laws will take effect tomorrow, Friday, June 27.
 Some of these measures received unanimous support or had broad bipartisan backing, while others sparked intense debate and division both within the legislature and among the public.
 Here is a comprehensive breakdown of these key laws grouped by topic: EDUCATION SB 19 – Moment of Silence & Moral Instruction Requires K-12 schools to begin each day with a moment of silence.
@@ -22,7 +23,8 @@ SB 22 – Mobile Barbershops and Licensing Changes Legalizes mobile salons and b
 Allows unlimited retakes of licensing exams for barbers, nail techs, estheticians, and cosmetologists.
 HB 233 – Contract Cancellation for Home Repairs Allows homeowners to cancel service contracts within five business days if insurance claims are denied or not fully covered.
 Requires service providers to disclose cancellation rights and contact information.
-HB 157 – “Friends of Kentucky Agriculture” License Plate Establishes a new specialty license plate that raises funds for agricultural programs across the commonwealth.PUBLIC SAFETY & LAW ENFORCEMENT HB 399 – Interfering with a Legislative Proceeding Creates a Class A misdemeanor for disrupting legislative proceedings.
+HB 157 – “Friends of Kentucky Agriculture” License Plate Establishes a new specialty license plate that raises funds for agricultural programs across the commonwealth.
+PUBLIC SAFETY & LAW ENFORCEMENT HB 399 – Interfering with a Legislative Proceeding Creates a Class A misdemeanor for disrupting legislative proceedings.
 A third or subsequent offense becomes a Class D felony.
 It is worth noting that it does not prohibit peaceful assembly in public forums like the Capitol Rotunda.
 SB 73 – Increased Penalties for Sextortion Elevates sextortion involving minors, weapons, or prior sexual offenses to a Class D felony (1–5 years in prison).
@@ -43,4 +45,8 @@ BILLS WITH DIFFERENT EFFECTIVE DATES HB 15 (Already effective): Lowers age for d
 HB 495 (Already effective): Voids prior executive order banning conversion therapy using public funds.
 SB 1 (July 1): Establishes Kentucky Film Office.
 HB 136 (January 1, 2026): Criminal justice contracting reform.
-HB 191 (January 1, 2026): Veterans’ cemetery eligibility. |
+HB 191 (January 1, 2026): Veterans’ cemetery eligibility.
+Primary Sidebar Sign Up for Erika's Updates!
+"Erika’s Update" is a newsletter sent out weekly during the legislative session and monthly the rest of the year.
+Footer Connect with Erika!
+Contact Us | LRC | Facebook | BlueSky Instagram | Threads | YouTube | Contribute Copyright © # · Paid for by Hancock for State Representative

@@ -1,4 +1,4 @@
-Hello Fellow Nevadans!
+Miller4ThePeople Home Meet Brittney Issues DISTRICT 5 Gallery Contact Twitter Home Meet Brittney Issues DISTRICT 5 Gallery Contact Twitter Miller4ThePeople Scroll Hello Fellow Nevadans!
 I have lived in this community for over 10 years.
 I know this community especially well because I also taught many of our Assembly District 5 students at our local elementary school.
 Living doorsteps away from students, while working with parents and staff from within my very own community, provides me an insightful perspective.
@@ -25,23 +25,7 @@ I am that candidate.
 Thank you for visiting my website.
 Please join my Facebook fan page, under Miller4AD5, to join in on relative discussions.
 Most importantly, I appreciate your support and promise to continue to serve you well!
-FIRST TERM
-2017 Legislative Session Committees:
-Judiciary
-Parole and Probation
-Education
-Health and Human Services
-Interim Session Committees:
-Legislative Committee on Education
-Education Commission of the States
-State Council for the Coordination of the Interstate Compact on Educational Opportunity for Military Children
-National Committees:
-National Council of State Legislators- Legislative Effectiveness Committee
-Council of State Governments West-Education and Workforce Development
-Community Committees:
-Nevada Youth Suicide Prevention Task Force
-Public office
-Brittney Miller has spent the past twenty years preparing for public office.
+FIRST TERM 2017 Legislative Session Committees: Judiciary Parole and Probation Education Health and Human Services Interim Session Committees: Legislative Committee on Education Education Commission of the States State Council for the Coordination of the Interstate Compact on Educational Opportunity for Military Children National Committees: National Council of State Legislators- Legislative Effectiveness Committee Council of State Governments West-Education and Workforce Development Community Committees: Nevada Youth Suicide Prevention Task Force Public office Brittney Miller has spent the past twenty years preparing for public office.
 She is results driven with an extensive professional background in both the public and corporate sectors.
 As a respected leader in the complex Metropolitan Detroit area, she spent years successfully developing and managing programs funded by and in conjunction with the U.S.
 Department of Education, U.S.
@@ -52,3 +36,7 @@ She has a uniquely diverse professional background, coupled with her passion for
 Brittney has the necessary knowledge, creativity, and experience to lead.
 She has lived in this community for over nine years, teaching students directly from her own neighborhood.
 As your neighbor, she represents you with integrity and priority.
+Home Top Home Vision + Campaigns Home Impact Home Annual Report Paid for and authorized by THE Campaign for Brittney Miller.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+First Name Last Name Email Address Sign Up Thank you!

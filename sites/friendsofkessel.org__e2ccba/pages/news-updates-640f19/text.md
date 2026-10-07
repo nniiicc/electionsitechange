@@ -1,16 +1,7 @@
-News & Updates
-Press Releases
-Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary
-News & Updates BISMARCK, ND – Governor Kelly Armstrong today announced his first round of endorsements ahead of the June 9th Republican Primary, emphasizing the importance of electing conservative leaders committed to cutting property taxes, growing the economy,…
-District 27 Republicans Sen.
+MEET SHAWN PRIORITIES GET INVOLVED NEWS VOTE CONTACT CONTRIBUTE News & Updates Press Releases Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary News & Updates BISMARCK, ND – Governor Kelly Armstrong today announced his first round of endorsements ahead of the June 9th Republican Primary, emphasizing the importance of electing conservative leaders committed to cutting property taxes, growing the economy,… Read More Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary May 5, 2026 | Press Release News & Updates BISMARCK, ND – Governor Kelly Armstrong today announced his first round of endorsements ahead of the June 9th Republican Primary, emphasizing the importance of electing conservative leaders committed to cutting property taxes, growing the economy,… District 27 Republicans Sen.
 Kristin Roers, Rep.
-Greg Stemen and Shawn Kessel Announce 2026 Campaign for North Dakota Legislature
-News & Updates FARGO, N.D. – State Senator Kristin Roers, State Representative Greg Stemen, and Shawn Kessel today announced their 2026 campaign for the North Dakota Legislature in District 27 representing southwest Fargo.
-In their announcement, they…
-In the News
-Interview with Michael Bell on Dakota Mornings
-News & Updates Shawn Kessel, Republican candidate for North Dakota House for District 27 in Fargo joined Michael Bell on the Dakota Mornings program to discuss his campaign.
-Start listening at 21:00 to hear from Shawn on his experience in the public and private…
-Political newcomer announces bid for North Dakota House; 2 incumbents to run again
-News & Updates by April Baumgarten | Fargo Forum FARGO — A newcomer to North Dakota elections has launched a legislative campaign alongside two Fargo-area lawmakers.
-Shawn Kessel, business development director for Fargo construction company Roers, will seek his…
+Greg Stemen and Shawn Kessel Announce 2026 Campaign for North Dakota Legislature Dec 8, 2025 | Press Release News & Updates FARGO, N.D. – State Senator Kristin Roers, State Representative Greg Stemen, and Shawn Kessel today announced their 2026 campaign for the North Dakota Legislature in District 27 representing southwest Fargo.
+In their announcement, they… In the News District 27 House Candidate Shawn Kessel Joins Tyler Axness on Afternoons Live on KFGO News & Updates Shawn Kessel, Republican candidate for North Dakota House for District 27 in Fargo joined Tyler Axness on Afternoon Live on KFGO to talk about his campaign and priorities for District 27.
+Latest News Interview with Michael Bell on Dakota Mornings… Read More Interview with Michael Bell on Dakota Mornings Jan 7, 2026 | In the News News & Updates Shawn Kessel, Republican candidate for North Dakota House for District 27 in Fargo joined Michael Bell on the Dakota Mornings program to discuss his campaign.
+Start listening at 21:00 to hear from Shawn on his experience in the public and private… Political newcomer announces bid for North Dakota House; 2 incumbents to run again Dec 8, 2025 | In the News News & Updates by April Baumgarten | Fargo Forum FARGO — A newcomer to North Dakota elections has launched a legislative campaign alongside two Fargo-area lawmakers.
+Shawn Kessel, business development director for Fargo construction company Roers, will seek his… « Older Entries  STAY CONNECTED FULL NAME (Required) First Last Email (Required) Phone (Required) MESSAGE CAPTCHA Submit PAID FOR BY FRIENDS OF KESSEL

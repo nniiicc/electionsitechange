@@ -1,13 +1,1 @@
-Home
-Statewide House Webpage
-Bio
-Score Cards
-Capital Report
-2026 Legislative Session
-School Visits
-Missouri SOS Office
-Voter Info
-2026 Ballot Measures
-Missouri Freedom Caucus
-Missouri Attorney General
-Burt’s MO State Website
+Home Statewide House Webpage Bio Score Cards Capital Report 2026 Legislative Session School Visits Missouri SOS Office Voter Info 2026 Ballot Measures Missouri Freedom Caucus Missouri Attorney General Burt’s MO State Website DONATE Privacy Policy

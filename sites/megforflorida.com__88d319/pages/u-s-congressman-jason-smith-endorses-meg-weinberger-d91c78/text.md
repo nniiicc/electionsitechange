@@ -1,6 +1,7 @@
+Skip to main content Home Platform News & Events Endorsements Press Releases Image and Video Gallery Join Meg Donate U.S.
+Congressman Jason Smith Endorses Meg Weinberger Spread the word!
 Ways and Means Committee Chairman, U.S.
-Congressman Jason Smith Endorses Meg Weinberger for Florida’s State House District 94
-PALM BEACH GARDENS, FL – Today U.S.
+Congressman Jason Smith Endorses Meg Weinberger for Florida’s State House District 94 PALM BEACH GARDENS, FL – Today U.S.
 Congressman and Chairman of the powerful Ways and Means Committee, Jason Smith (R-MO) endorsed Republican Meg Weinberger for State Representative in Florida’s 94th District.
 Smith’s endorsement lauding her unwavering commitment to common-sense America First policies reaffirms Meg’s unparalleled qualifications and unwavering dedication to championing economic prosperity and fiscal responsibility for our Florida communities.
 Congressman Smith stated: “Meg Weinberger is the right person to be the next Representative for the Florida House’s 94th District.
@@ -11,4 +12,7 @@ In response to Representative Smith’s endorsement, Ms.
 Weinberger said, “I am so honored to have earned Congressman Smith’s endorsement.
 As the chair of one of Congress’ most powerful committees, a champion of sound economic and tax policy, and an America First patriot, I could not be more proud to have gained his support.
 Chairman Smith’s faith that I am the right candidate to assume leadership of the 94th District is truly inspiring.
-Make no mistake, I will fulfill his belief in me and work tirelessly to advance sound policies that strengthen our communities and provide results for our citizens.”
+Make no mistake, I will fulfill his belief in me and work tirelessly to advance sound policies that strengthen our communities and provide results for our citizens.” ← Palm Beach County Police Benevolent Association Endorses Meg Weinberger Florida's Voice: Meg Weinberger advocates for protecting life & lowering taxes →  Meg for Florida RSS Feed Contribute Today Join Meg's Team!
+Copyright ©# Meg Weinberger | Paid by Meg Weinberger, Republican, for State House, District 94. | Contributions are not tax deductible for federal income tax purposes.
+The Maximum contribution allowed by Florida Law is $1,000.00 per individual or business.
+Privacy Policy | Messaging Terms, Conditions & Policies Terms | Site by KO.

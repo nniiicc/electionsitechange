@@ -1,14 +1,10 @@
-Maintaining massive cash on hand total, Griffin says he is ‘humbled by the strong support we’re receiving from every corner of Arkansas’
-LITTLE ROCK – Lt.
-Governor Tim Griffin announced today that his campaign for Attorney General has surpassed the $2 million mark in donations received.
-As of June 30, the campaign had collected a total of $2,054,809.
-In addition to Griffin’s historic fundraising totals, he maintains a dominant cash on hand advantage.
+Skip to primary navigation Skip to main content Skip to primary sidebar Skip to footer Home Meet Tim Join our Team Donate Contact Campaign News Search Griffin Surpasses $# Million Raised for Attorney General July 15, 2021 by Tim Griffin for Attorney General Maintaining massive cash on hand total, Griffin says he is ‘humbled by the strong support we’re receiving from every corner of Arkansas’ LITTLE ROCK – Lt.
+Governor Tim Griffin announced today that his campaign for Attorney General has surpassed the $# million mark in donations received.
+As of June 30, the campaign had collected a total of $# In addition to Griffin’s historic fundraising totals, he maintains a dominant cash on hand advantage.
 He has over $1.7 million cash on hand, including $1.14 million cash on hand for the 2022 Republican primary.
 “I continue to be humbled by the strong support we’re receiving from every corner of the state,” said Griffin.
-“This campaign is full speed ahead as we take our message of fighting federal overreach, backing the blue, and cracking down on crime all across Arkansas.”
-About Lt.
-Governor Tim Griffin
-Tim Griffin grew up in Magnolia, Arkansas, a fifth-generation Arkansan and the youngest son of a minister and teacher.
+“This campaign is full speed ahead as we take our message of fighting federal overreach, backing the blue, and cracking down on crime all across Arkansas.” About Lt.
+Governor Tim Griffin Tim Griffin grew up in Magnolia, Arkansas, a fifth-generation Arkansan and the youngest son of a minister and teacher.
 He was first elected the lieutenant governor of Arkansas on November 4, 2014 and is currently serving his second four-year term.
 He is focused on growing jobs through aggressively pursuing economic development, more parental choice in education and boldly reforming state government.
 From 2011-2015, Griffin served as the 24th representative of Arkansas’s Second Congressional District.
@@ -27,3 +23,12 @@ He graduated from Magnolia High School, Hendrix College, Tulane Law School, and 
 He currently serves on the boards of Our House shelter for the working homeless and Pathway to Freedom, a faith-based prison ministry, and previously served on the boards of Big Brothers Big Sisters of Central Arkansas and the Florence Crittenton Home.
 His wife Elizabeth is from Camden, and they live in Little Rock with their three children, Mary Katherine, John, and Charlotte Anne.
 They are members of Immanuel Baptist Church.
+Filed Under: News Previous Post: « Former Florida AG Pam Bondi Endorses Tim Griffin for Attorney General Next Post: Griffin Continues Historically Strong Fundraising Haul in Race for Attorney General » Primary Sidebar Used for the like, share, comment, and reaction icons This message is only visible to admins.
+Problem displaying Facebook posts.
+Error: Server configuration issue Campaign News AG-elect Griffin Announces Senior Staff and Restructuring December 9, 2022 Bewley to Join AG-Elect Griffin’s Staff As Chief of Investigations December 1, 2022 A Plan For A Safer Arkansas October 24, 2022 Twitter feed is not available at the moment.
+Footer Attorney General Griffin is currently an officer in the Arkansas Army National Guard and holds the rank of colonel.
+He served as an officer in the U.S.
+Army Reserve Judge Advocate General’s (JAG) Corps for more than 28 years.
+In 2005, he was mobilized to active duty as an Army prosecutor at Fort Campbell, Kentucky, and served with the 101st Airborne Division (Air Assault) in Mosul, Iraq.
+Use of Attorney General Griffin’s military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Paid for by Tim Griffin for Attorney General | Privacy Policy

@@ -1,6 +1,5 @@
-Press Release
-Posted:
-St.
+Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources Thompson Applauds Reversal of Dangerous Prairie Pothole Wetland Rollback Press Release Posted: August 28, 2026 St.
 Helena, CA – Rep.
 Mike Thompson (CA-04), Chair of the Congressional Wildlife Refuge Caucus and a member of the Migratory Bird Conservation Commission (MBCC), applauded the U.S.
 Department of the Interior’s decision to halt proposed changes that could have weakened longstanding protections for wetland easements in the Prairie Pothole Region.
@@ -11,13 +10,11 @@ The proposed changes could have allowed increased drainage near protected wetlan
 I spoke out against these changes and urged the Administration to maintain these longstanding protections because these wetlands are critical to our migratory birds and waterfowl,” said Rep.
 Thompson.
 “The Administration never should have put these protections at risk in the first place.
-This is a win for conservation, but we must remain vigilant to make sure these wetlands are protected for generations to come.”
-“Waterfowl nesting in the Prairie Potholes are critical for the continental migrations.
+This is a win for conservation, but we must remain vigilant to make sure these wetlands are protected for generations to come.” “Waterfowl nesting in the Prairie Potholes are critical for the continental migrations.
 Recent proposed changes from US Fish and Wildlife Service opening up voluntary conservation easements to tile draining could have been disastrous.
 Thank you to the wise conservation-minded hunters and fishers, and our own Congressman Mike Thompson who spoke up to defeat this sad proposed change,” said Dr.
 Frederic Reid, Wildlife Ecologist.
-BACKGROUND
-The Prairie Pothole Region spans portions of Montana, the Dakotas, Minnesota, and Iowa and produces more than half of North America’s migratory waterfowl.
+BACKGROUND The Prairie Pothole Region spans portions of Montana, the Dakotas, Minnesota, and Iowa and produces more than half of North America’s migratory waterfowl.
 For more than 60 years, the U.S.
 Fish and Wildlife Service (USFWS) has maintained protections for wetlands covered by voluntary conservation easements.
 In July, USFWS opened a 14-day public comment period on potential changes to its drain-tile setback policies.
@@ -26,14 +23,9 @@ On August 14, USFWS announced that “no further action is planned” at this ti
 Rep.
 Thompson joined members of the Migratory Bird Conservation Commission in sending a letter to the Administration urging it to maintain the existing protections and reject the proposed changes.
 The full text of the letter can be found here and below.
-The Honorable Doug Burgum
-Secretary
-U.S.
-Department of the Interior
-1849 C Street, N.W.
-Washington, DC 20240
-Dear Secretary Burgum:
-As Members of the Migratory Bird Conservation Commission (MBCC), we write to express our strong support for maintaining long-standing and science-based U.S.
+The Honorable Doug Burgum Secretary U.S.
+Department of the Interior 1849 C Street, N.W.
+Washington, DC 20240 Dear Secretary Burgum: As Members of the Migratory Bird Conservation Commission (MBCC), we write to express our strong support for maintaining long-standing and science-based U.S.
 Fish and Wildlife Service wetland easement protections and the current drain tile setback standards that have allowed for the conservation of wetlands in the Prairie Pothole Region for more than sixty years while providing benefits and certainty to participating landowners.
 These protections are essential to sustaining North America's migratory bird populations, protecting taxpayer-funded conservation investments, and preserving one of the continent's most important waterfowl breeding landscapes.
 Congress established the Migratory Bird Conservation Commission to oversee and advance the conservation of migratory birds and their habitat through strategic federal investments and collaboration and partnership with private landowners.
@@ -49,4 +41,4 @@ The Commission has long championed the principle that conservation investments m
 We respectfully urge the Department of the Interior to maintain the science-based drain tile setback standards that have successfully protected Service easements for decades; uphold the integrity of voluntary easement agreements; prevent the drainage of protected wetlands; and provide landowners with legal safe harbor and the certainty necessary to fulfill their conservation commitments.
 Doing so will honor commitments made to willing landowners, protect taxpayer investments, support healthy migratory bird populations for generations to come, and build upon the success of this conservation model.
 Thank you for your continued commitment to conserving America's wetlands and migratory bird resources.
-Sincerely,
+Sincerely, Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

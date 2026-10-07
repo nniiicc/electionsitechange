@@ -1,10 +1,6 @@
-top of page
-Chad Gleissl
-Let's Elect
-VOLUNTEER FOR CHAD'S CAMPAIGN
-THE ISSUES
-MEET CHAD
-Chad is running to represent Pennsylvania’s 37th District in the State House to continue his lifelong commitment to serving the community he loves.
+top of page HOME MEET CHAD PRIORITIES GET INVOLVED YARD SIGN CONTACT CHAD PA-37TH DONATE Chad Gleissl Let's Elect VOLUNTEER FOR CHAD'S CAMPAIGN NAME (Required) EMAIL (Required) PHONE JOIN THE CAMPAIGN THE ISSUES MEET CHAD Chad is running to represent Pennsylvania’s 37th District in the State House to continue his lifelong commitment to serving the community he loves.
 His priorities include raising Pennsylvania’s minimum wage to ensure every worker earns a livable income, supporting small and family-owned businesses through targeted tax relief, and investing in public safety by enhancing training, transparency, and community trust within our police, fire, and emergency services.
-Chad's Endorsements
-bottom of page
+CONNECT WITH CHAD Chad's Endorsements Donate Now Chad can't win this election without you and your help.
+Chip in to help fuel our people-powered campaign: If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $#,# $# $# Other Amount Join Our Campaign Chad wants to fight for Pennsylvania families and make your life more affordable.
+He can't do it alone; he will need a strong team.
+Join our team today: NAME (FIRST AND LAST) EMAIL * MOBILE PHONE ZIP CODE JOIN CHAD General inquiries: info@chadforpa.com Media inquiries: press@chadforpa.com HOME MEET CHAD PRIORITIES GET INVOLVED YARD SIGN CONTACT CHAD PA-37TH DONATE Privacy Policy PAID FOR BY CHAD FOR PA bottom of page

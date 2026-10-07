@@ -1,5 +1,4 @@
-Meet Steve
-Steve has been a La Crosse County resident his entire life, a product of our local schools and UW-La Crosse.
+0 Skip to Content Home Meet Steve Endorsements Issues Get Involved The 94th Map Media Contact Affordability DONATE Open Menu Close Menu Home Meet Steve Endorsements Issues Get Involved The 94th Map Media Contact Affordability DONATE Open Menu Close Menu Home Meet Steve Endorsements Issues Get Involved The 94th Map Media Contact Affordability DONATE Meet Steve Steve has been a La Crosse County resident his entire life , a product of our local schools and UW-La Crosse.
 He learned the value of hard work and financial responsibility at a young age from his parents, Pat and Elaine, who worked several jobs (including owning their own business, –Doyle T.V.) to raise their six children.
 Steve’s first introduction to government was through an internship with Congressman Al Baldus in Washington, D.C. in 1980.
 This lead to an opportunity for Steve to become a full-time member of the Congressman’s staff.
@@ -24,3 +23,5 @@ He has served on multiple bipartisan taskforces including, most recently, ones o
 He has worked diligently to achieve positive, collaborative results in Madison and hopes to continue doing so.
 Steve, his wife Gloria, and his daughters Katelyn and Stephanie, appreciate your support.
 Steve looks forward to the opportunity to continue to serve you in the State Assembly.
+DOYLE FOR ASSEMBLY, N5525 HAUSER ROAD, ONALASKA, WI 54650 | UNITED STATES.
+P: 6087831204 | E: DOYLEFORASSEMBLY.MANAGER@GMAIL.COM AUTHORIZED AND PAID FOR BY FRIENDS OF STEVE DOYLE, STEVE O’MALLEY, TREASURER

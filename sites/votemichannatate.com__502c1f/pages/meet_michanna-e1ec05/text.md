@@ -1,5 +1,4 @@
-Meet Michanna
-Michanna Tate is a resident of the City of Laurens.
+Home Meet Michanna Events Endorsements Issues Volunteer Contribute Meet Michanna Michanna Tate is a resident of the City of Laurens.
 She interacts with and gives back to the Laurens County community daily, through her position as Manager of KOT Pack and Ship, the only pack and ship store in Laurens County.
 In addition, Michanna Tate is a seasoned legal professional and educator with over 13 years of experience in law and higher education.
 Known for her diverse expertise in various areas of law, her strong leadership skills, and her commitment to educational excellence, Michanna has dedicated her career to serving clients and educating future professionals.
@@ -20,3 +19,4 @@ She is a licensed attorney in South Carolina, having been admitted to the State 
 She is also licensed to practice in the U.S.
 District Court for South Carolina and the U.S.
 Court of Appeals for the 4th Circuit in Richmond, VA.
+Home News Photos Make Endorsement Contact Privacy Policy Committee to Elect Michanna Tate Powered by CampaignPartner.com - Political Campaign Websites Home Meet Michanna Endorsements Issues Events Contribute Volunteer Close Menu

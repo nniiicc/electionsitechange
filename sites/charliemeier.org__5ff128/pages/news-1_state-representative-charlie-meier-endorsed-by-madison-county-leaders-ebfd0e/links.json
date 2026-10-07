@@ -1,14 +1,58 @@
 [
-"https://charliemeier.org/",
-"https://charliemeier.org/about-charlie",
-"https://charliemeier.org/cart",
-"https://charliemeier.org/contact-us",
-"https://charliemeier.org/district-map",
-"https://charliemeier.org/news-1",
-"https://charliemeier.org/news-1/mike-bost-backs-charlie-meier",
-"https://charliemeier.org/news-1/nra-endorses-charlie-meier-for-state-rep",
-"https://charliemeier.org/news-1?author=6893f7de187ed42c14bfff7c",
-"https://charliemeier.org/volunteer",
-"https://facebook.com/profile.php?id=100057878088324",
-"https://secure.winred.com/citizens-for-charlie-meier/donate-today?exitintent=true"
+{
+"text": "0",
+"href": "https://www.charliemeier.org/cart"
+},
+{
+"text": "About Charlie",
+"href": "https://www.charliemeier.org/about-charlie"
+},
+{
+"text": "Contact Us",
+"href": "https://www.charliemeier.org/contact-us"
+},
+{
+"text": "DONATE HERE",
+"href": "https://secure.winred.com/citizens-for-charlie-meier/donate-today?exitintent=true"
+},
+{
+"text": "District Map",
+"href": "https://www.charliemeier.org/district-map"
+},
+{
+"text": "Home",
+"href": "https://www.charliemeier.org/"
+},
+{
+"text": "News",
+"href": "https://www.charliemeier.org/news-1"
+},
+{
+"text": "Next Next NRA Endorses Charlie Meier for State Rep",
+"href": "https://www.charliemeier.org/news-1/nra-endorses-charlie-meier-for-state-rep"
+},
+{
+"text": "Previous Previous Mike Bost Backs Charlie Meier",
+"href": "https://www.charliemeier.org/news-1/mike-bost-backs-charlie-meier"
+},
+{
+"text": "Stephen Stewart",
+"href": "https://www.charliemeier.org/news-1?author=6893f7de187ed42c14bfff7c"
+},
+{
+"text": "Volunteer",
+"href": "https://www.charliemeier.org/volunteer"
+},
+{
+"text": "[image: Charlie Meier for State Representative]",
+"href": "https://www.charliemeier.org/"
+},
+{
+"text": "[image] Stephen Stewart",
+"href": "https://www.charliemeier.org/news-1?author=6893f7de187ed42c14bfff7c"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100057878088324"
+}
 ]

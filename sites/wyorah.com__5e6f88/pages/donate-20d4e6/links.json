@@ -1,10 +1,62 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/share/15x8kHkQnh",
-"https://instagram.com/rah.wyo?igsh=Z2VzcTIwMzM0ZXFr",
-"https://secure.actblue.com/donate/wyo.rah",
-"https://wyorah.com/",
-"https://wyorah.com/events",
-"https://wyorah.com/events-copy",
-"https://wyorah.com/voter-registration-information"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/wyo.rah"
+},
+{
+"text": "$15",
+"href": "https://secure.actblue.com/donate/wyo.rah"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/wyo.rah"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/wyo.rah"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/wyo.rah"
+},
+{
+"text": "Check Your District",
+"href": "https://www.wyorah.com/events-copy"
+},
+{
+"text": "Events",
+"href": "https://www.wyorah.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.wyorah.com/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/wyo.rah"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Voter Information",
+"href": "https://www.wyorah.com/voter-registration-information"
+},
+{
+"text": "[image: Wyo.Reinholz logo]",
+"href": "https://www.wyorah.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.wyorah.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/share/15x8kHkQnh/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/rah.wyo?igsh=Z2VzcTIwMzM0ZXFr"
+}
 ]

@@ -1,14 +1,62 @@
 [
-"https://jenforpa.com/",
-"https://jenforpa.com/about",
-"https://jenforpa.com/blank-8",
-"https://jenforpa.com/contact",
-"https://jenforpa.com/endorsements",
-"https://jenforpa.com/mobileprivacypolicy",
-"https://jenforpa.com/news",
-"https://jenforpa.com/priorities",
-"https://jenforpa.com/termsofuse",
-"https://jenforpa.com/yardsigns",
-"https://secure.actblue.com/donate/jenforpa42",
-"https://support.wix.com/en/article/creating-a-privacy-policy"
+{
+"text": "About",
+"href": "https://www.jenforpa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.jenforpa.com/contact"
+},
+{
+"text": "Creating a Privacy Policy",
+"href": "https://support.wix.com/en/article/creating-a-privacy-policy"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/jenforpa42"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jenforpa.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.jenforpa.com"
+},
+{
+"text": "Key Issues",
+"href": "https://www.jenforpa.com/priorities"
+},
+{
+"text": "Mobile Privacy Policy",
+"href": "https://www.jenforpa.com/mobileprivacypolicy"
+},
+{
+"text": "News",
+"href": "https://www.jenforpa.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jenforpa.com/blank-8"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.jenforpa.com/termsofuse"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.jenforpa.com/yardsigns"
+},
+{
+"text": "[image: Mazzocco Bug2.png]",
+"href": "https://www.jenforpa.com"
+},
+{
+"text": "[image: Mazzocco-boxed Primary.png]",
+"href": "https://www.jenforpa.com"
+},
+{
+"text": "info@jenforpa.com",
+"href": "mailto:info@jenforpa.com"
+}
 ]

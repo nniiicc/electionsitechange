@@ -1,75 +1,318 @@
 [
-"http://amazon.com/gp/product/1930865473?ie=UTF8&tag=libertyunderg-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1930865473",
-"http://amazon.com/gp/product/1933550317?ie=UTF8&tag=libertyunderg-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1933550317",
-"http://amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FCapitalism-Freedom-Anniversary-Milton-Friedman%2Fdp%2F0226264211&tag=libertyunderg-20&linkCode=ur2&camp=1789&creative=9325",
-"http://amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FCapitalism-Ideal-Ayn-Rand%2Fdp%2F0451147952&tag=libertyunderg-20&linkCode=ur2&camp=1789&creative=9325",
-"http://amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FCapitalism-Treatise-Economics-George-Reisman%2Fdp%2F0915463733&tag=libertyunderg-20&linkCode=ur2&camp=1789&creative=9325",
-"http://amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConstitution-Liberty-F-Hayek%2Fdp%2F0226320847&tag=libertyunderg-20&linkCode=ur2&camp=1789&creative=9325",
-"http://amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FHuman-Action-Ludwig-von-Mises%2Fdp%2F0930073185&tag=libertyunderg-20&linkCode=ur2&camp=1789&creative=9325",
-"http://astonishingprovidence.com/invisiblehand.htm",
-"http://bartleby.com/65/la/laissezf.html",
-"http://campaignforliberty.com/article.php",
-"http://capitalism.net/",
-"http://cato.org/pubs/catosletter/catosletterv5n1.pdf",
-"http://cbsnews.com/stories/2003/09/26/politics/main575356.shtml",
-"http://clickhole.com/blogpost/what-i-learned-about-capitalism-walking-starbucks--364",
-"http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/50000/2000/200/52207/52207.strip.sunday.gif",
-"http://dineshdsouza.com/articles/civilizinggreed.html",
-"http://econlib.org/library/Enc/Capitalism.html",
-"http://en.wikipedia.org/wiki/Ceteris_paribus",
-"http://en.wikipedia.org/wiki/Widget_(economics)",
-"http://fee.org/freeman/95/PERRY2.html",
-"http://fff.org/freedom/0990a.asp",
-"http://google.com/search?hl=en&q=capitalism+non-aggression",
-"http://greatbuildings.com/cgi-bin/gbi.cgi/Saint_Pauls_Cathedral.html/cid_1007114767_IWA_F232_2_001.jpg",
-"http://hayekcenter.org/friedrichhayek/who.html",
-"http://independent.org/newsroom/article.asp?id=2783",
-"http://independent.org/tii/content/op_ed/oliver_warofideas.html",
-"http://kevincraig.us/",
-"http://kevincraig.us/economics.htm",
-"http://kevincraig.us/history.htm",
-"http://kevincraig.us/index.htm",
-"http://kevincraig.us/inequality.htm",
-"http://lewrockwell.com/block/block153.html",
-"http://lewrockwell.com/north/north46.html",
-"http://libertyhaven.com/theoreticalorphilosophicalissues/economics/economicissues/uglymarket.html",
-"http://mises.org/",
-"http://mises.org/fullstory.asp?control=1079",
-"http://mises.org/humanaction.asp",
-"http://mises.org/journals/jls/9_1/9_1_3.pdf",
-"http://mises.org/mnr.asp",
-"http://mises.org/rothbard/newliberty11.asp",
-"http://mises.org/rothbard/newliberty9a.asp",
-"http://mises.org/story/2982",
-"http://mises.org/studystory.asp?control=10",
-"http://nathanielbranden.wordpress.com/2008/02/06/toward-a-free-society",
-"http://nobel.se/economics/laureates/1974/hayek-cv.html",
-"http://realclearmarkets.com/articles/2008/07/in_the_us_selectively_applied.html",
-"http://ronpaulinstitute.org/archives/featured-articles/2016/january/03/purism-is-practical",
-"http://thechristmasconspiracy.com/",
-"http://usagold.com/gildedopinion/greenspan.html",
-"http://vftonline.org/Patriarchy/bauer.htm",
-"http://vftonline.org/VFTfiles/thesis/LexMercatoria/index.htm",
-"http://vftonline.org/VFTfiles/thesis/bibliography/anarcho-capitalism.htm",
-"http://vftonline.org/VFTfiles/thesis/commentators/morality.htm",
-"http://vftonline.org/VFTfiles/thesis/word2000/web/15_8th-steal.htm",
-"http://vftonline.org/VFTfiles/thesis/word2000/web/17_6th-kill.htm",
-"http://vftonline.org/XianAnarch/cause/bush/Nixon.html",
-"http://web.archive.org/web/20070211012510/http://www.libertyhaven.com/thinkers/thomassowell/knowledge.shtml",
-"https://kevincraig.us/EndTheWall/10commandments.htm",
-"https://kevincraig.us/blessings.htm",
-"https://kevincraig.us/capitalism.htm",
-"https://kevincraig.us/conscription.htm",
-"https://kevincraig.us/contents.htm",
-"https://kevincraig.us/crime.htm",
-"https://kevincraig.us/liberty.htm",
-"https://kevincraig.us/licensing.htm",
-"https://kevincraig.us/police.htm",
-"https://kevincraig.us/prison.htm",
-"https://kevincraig.us/religion/morality.htm",
-"https://kevincraig.us/religion/nature.htm",
-"https://kevincraig.us/sanctions.htm",
-"https://kevincraig.us/state-criminal.htm",
-"https://kevincraig.us/tariffs.htm",
-"https://kevincraig.us/taxation.htm"
+{
+"text": "\"The State\" as Criminal",
+"href": "https://kevincraig.us/state-criminal.htm"
+},
+{
+"text": "Alan Greenspan",
+"href": "http://www.usagold.com/gildedopinion/greenspan.html"
+},
+{
+"text": "Capitalism",
+"href": "http://capitalism.net"
+},
+{
+"text": "Capitalism Selectively Applied In the U.S.",
+"href": "http://www.realclearmarkets.com/articles/2008/07/in_the_us_selectively_applied.html"
+},
+{
+"text": "Capitalism and Freedom",
+"href": "http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FCapitalism-Freedom-Anniversary-Milton-Friedman%2Fdp%2F0226264211&tag=libertyunderg-20&linkCode=ur2&camp=1789&creative=9325"
+},
+{
+"text": "Capitalism: A Treatise on Economics",
+"href": "http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FCapitalism-Treatise-Economics-George-Reisman%2Fdp%2F0915463733&tag=libertyunderg-20&linkCode=ur2&camp=1789&creative=9325"
+},
+{
+"text": "Capitalism: The Unknown Ideal",
+"href": "http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FCapitalism-Ideal-Ayn-Rand%2Fdp%2F0451147952&tag=libertyunderg-20&linkCode=ur2&camp=1789&creative=9325"
+},
+{
+"text": "Christian morality",
+"href": "https://kevincraig.us/religion/morality.htm"
+},
+{
+"text": "Crime",
+"href": "https://kevincraig.us/crime.htm"
+},
+{
+"text": "Crony Capitalism Is NOT Capitalism",
+"href": "http://www.independent.org/newsroom/article.asp?id=2783"
+},
+{
+"text": "Dilbert.com",
+"href": "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/50000/2000/200/52207/52207.strip.sunday.gif"
+},
+{
+"text": "Domestic",
+"href": "https://kevincraig.us/contents.htm#Domestic"
+},
+{
+"text": "Enslave",
+"href": "https://kevincraig.us/conscription.htm"
+},
+{
+"text": "Entrepreneurs Are the Heroes of the World",
+"href": "http://www.cato.org/pubs/catosletter/catosletterv5n1.pdf"
+},
+{
+"text": "Everything You Love You Owe to Capitalism",
+"href": "http://mises.org/story/2982"
+},
+{
+"text": "F. A. Hayek",
+"href": "http://www.hayekcenter.org/friedrichhayek/who.html"
+},
+{
+"text": "Foreign",
+"href": "https://kevincraig.us/contents.htm#Foreign"
+},
+{
+"text": "Government",
+"href": "https://kevincraig.us/contents.htm#Government"
+},
+{
+"text": "Halliburton",
+"href": "http://www.cbsnews.com/stories/2003/09/26/politics/main575356.shtml"
+},
+{
+"text": "How Capitalism Civilizes Greed",
+"href": "http://www.dineshdsouza.com/articles/civilizinggreed.html"
+},
+{
+"text": "Human Action",
+"href": "http://www.amazon.com/gp/product/1933550317?ie=UTF8&tag=libertyunderg-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1933550317"
+},
+{
+"text": "Human Action",
+"href": "http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FHuman-Action-Ludwig-von-Mises%2Fdp%2F0930073185&tag=libertyunderg-20&linkCode=ur2&camp=1789&creative=9325"
+},
+{
+"text": "Human Action",
+"href": "http://www.mises.org/humanaction.asp"
+},
+{
+"text": "In Defense of Global Capitalism",
+"href": "http://www.amazon.com/gp/product/1930865473?ie=UTF8&tag=libertyunderg-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1930865473"
+},
+{
+"text": "Income Inequality is No Problem",
+"href": "http://kevincraig.us/inequality.htm"
+},
+{
+"text": "Knowledge and Decisions",
+"href": "http://web.archive.org/web/20070211012510/http://www.libertyhaven.com/thinkers/thomassowell/knowledge.shtml"
+},
+{
+"text": "Laissez-faire",
+"href": "http://www.bartleby.com/65/la/laissezf.html"
+},
+{
+"text": "Letting Go of Socialism",
+"href": "http://www.fff.org/freedom/0990a.asp"
+},
+{
+"text": "Lex Mercatoria",
+"href": "http://vftonline.org/VFTfiles/thesis/LexMercatoria/index.htm"
+},
+{
+"text": "Liberty Under God",
+"href": "https://kevincraig.us/liberty.htm"
+},
+{
+"text": "Mises� work has never been refuted",
+"href": "http://www.mises.org/studystory.asp?control=10"
+},
+{
+"text": "Morality and Culture",
+"href": "https://kevincraig.us/contents.htm#Culture"
+},
+{
+"text": "Murray Rothbard",
+"href": "http://www.mises.org/mnr.asp"
+},
+{
+"text": "Nathaniel Branden",
+"href": "http://nathanielbranden.wordpress.com/2008/02/06/toward-a-free-society/"
+},
+{
+"text": "Nobel Prize-winning",
+"href": "http://www.nobel.se/economics/laureates/1974/hayek-cv.html"
+},
+{
+"text": "Purism is Practical",
+"href": "http://ronpaulinstitute.org/archives/featured-articles/2016/january/03/purism-is-practical/"
+},
+{
+"text": "Read their warnings",
+"href": "http://vftonline.org/VFTfiles/thesis/commentators/morality.htm"
+},
+{
+"text": "Robert Hessen",
+"href": "http://www.econlib.org/library/Enc/Capitalism.html"
+},
+{
+"text": "Socialism is immoral",
+"href": "http://www.lewrockwell.com/north/north46.html"
+},
+{
+"text": "Some Fundamental Insights Into the Benevolent Nature of Capitalism",
+"href": "http://www.mises.org/fullstory.asp?control=1079"
+},
+{
+"text": "St. Paul�s Cathedral",
+"href": "http://www.greatbuildings.com/cgi-bin/gbi.cgi/Saint_Pauls_Cathedral.html/cid_1007114767_IWA_F232_2_001.jpg"
+},
+{
+"text": "Ten Commandments",
+"href": "https://kevincraig.us/EndTheWall/10commandments.htm"
+},
+{
+"text": "The Constitution of Liberty",
+"href": "http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConstitution-Liberty-F-Hayek%2Fdp%2F0226320847&tag=libertyunderg-20&linkCode=ur2&camp=1789&creative=9325"
+},
+{
+"text": "The Miracle of the Market",
+"href": "http://www.campaignforliberty.com/article.php"
+},
+{
+"text": "Thou shalt not kill",
+"href": "http://vftonline.org/VFTfiles/thesis/word2000/web/17_6th-kill.htm"
+},
+{
+"text": "Thou shalt not steal",
+"href": "http://vftonline.org/VFTfiles/thesis/word2000/web/15_8th-steal.htm"
+},
+{
+"text": "Threaten to lock him up",
+"href": "https://kevincraig.us/prison.htm"
+},
+{
+"text": "What I Learned About Capitalism By Walking Into A Starbucks And Screaming �Capitalism!� At The Barista Over And Over Until They Had To Call The Police",
+"href": "http://www.clickhole.com/blogpost/what-i-learned-about-capitalism-walking-starbucks--364"
+},
+{
+"text": "Why Socialism Failed",
+"href": "http://fee.org/freeman/95/PERRY2.html"
+},
+{
+"text": "Why is Capitalism Hated?",
+"href": "http://www.libertyhaven.com/theoreticalorphilosophicalissues/economics/economicissues/uglymarket.html"
+},
+{
+"text": "[image]",
+"href": "http://www.amazon.com/gp/product/1930865473?ie=UTF8&tag=libertyunderg-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1930865473"
+},
+{
+"text": "[no text]",
+"href": "http://kevincraig.us"
+},
+{
+"text": "a rising standard of living",
+"href": "https://kevincraig.us/blessings.htm"
+},
+{
+"text": "answers these questions",
+"href": "http://mises.org/rothbard/newliberty9a.asp"
+},
+{
+"text": "bibliography below",
+"href": "http://vftonline.org/VFTfiles/thesis/bibliography/anarcho-capitalism.htm"
+},
+{
+"text": "capitalism",
+"href": "https://kevincraig.us/capitalism.htm"
+},
+{
+"text": "ceteris paribus",
+"href": "http://en.wikipedia.org/wiki/Ceteris_paribus"
+},
+{
+"text": "comments@KevinCraig.US",
+"href": "mailto:comments@KevinCraig.US"
+},
+{
+"text": "contemporary criminal and legal issues",
+"href": "http://www.mises.org/rothbard/newliberty11.asp"
+},
+{
+"text": "courts provided by the Free Market",
+"href": "http://www.mises.org/journals/jls/9_1/9_1_3.pdf"
+},
+{
+"text": "here",
+"href": "https://kevincraig.us/sanctions.htm"
+},
+{
+"text": "http://vftonline.org/XianAnarch/cause/bush/Nixon.html",
+"href": "http://vftonline.org/XianAnarch/cause/bush/Nixon.html"
+},
+{
+"text": "http://www.google.com/search?hl=en&q=capitalism+non-aggression",
+"href": "http://www.google.com/search?hl=en&q=capitalism+non-aggression"
+},
+{
+"text": "insight",
+"href": "http://www.kevincraig.us/history.htm"
+},
+{
+"text": "license",
+"href": "https://kevincraig.us/licensing.htm"
+},
+{
+"text": "many people",
+"href": "http://www.lewrockwell.com/block/block153.html"
+},
+{
+"text": "pull-down menu",
+"href": "http://kevincraig.us/index.htm#issues"
+},
+{
+"text": "sanctions",
+"href": "https://kevincraig.us/sanctions.htm"
+},
+{
+"text": "shout this truth",
+"href": "http://www.independent.org/tii/content/op_ed/oliver_warofideas.html"
+},
+{
+"text": "socialist police forces",
+"href": "https://kevincraig.us/police.htm"
+},
+{
+"text": "tariff",
+"href": "https://kevincraig.us/tariffs.htm"
+},
+{
+"text": "taxation",
+"href": "https://kevincraig.us/taxation.htm"
+},
+{
+"text": "the Invisible Hand",
+"href": "http://astonishingprovidence.com/invisiblehand.htm"
+},
+{
+"text": "the Laws of Nature and of Nature's God",
+"href": "https://kevincraig.us/religion/nature.htm"
+},
+{
+"text": "the most important things",
+"href": "http://vftonline.org/Patriarchy/bauer.htm"
+},
+{
+"text": "theory",
+"href": "http://www.kevincraig.us/economics.htm"
+},
+{
+"text": "this campaign",
+"href": "http://thechristmasconspiracy.com"
+},
+{
+"text": "widgets",
+"href": "http://en.wikipedia.org/wiki/Widget_(economics)"
+},
+{
+"text": "www.Mises.org",
+"href": "http://www.mises.org"
+}
 ]

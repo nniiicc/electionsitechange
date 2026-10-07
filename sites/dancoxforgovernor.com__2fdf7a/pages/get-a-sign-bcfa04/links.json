@@ -1,42 +1,138 @@
 [
-"http://tiktok.com/dancox4maryland",
-"http://twitter.com/dancox4maryland",
-"http://youtube.com/@dancox4maryland",
-"https://cookiedatabase.org/tcf/purposes",
-"https://dancoxforgovernor.com/",
-"https://dancoxforgovernor.com/about-dan-cox",
-"https://dancoxforgovernor.com/about-dan-cox-old",
-"https://dancoxforgovernor.com/blog",
-"https://dancoxforgovernor.com/blog-old",
-"https://dancoxforgovernor.com/contact",
-"https://dancoxforgovernor.com/contact-old",
-"https://dancoxforgovernor.com/cookies-policy",
-"https://dancoxforgovernor.com/cookies-policy-old",
-"https://dancoxforgovernor.com/dancoxforgovernor.com/donate",
-"https://dancoxforgovernor.com/donate",
-"https://dancoxforgovernor.com/events",
-"https://dancoxforgovernor.com/get-a-sign",
-"https://dancoxforgovernor.com/get-a-sign-old",
-"https://dancoxforgovernor.com/home",
-"https://dancoxforgovernor.com/home-default",
-"https://dancoxforgovernor.com/issues",
-"https://dancoxforgovernor.com/issues-old",
-"https://dancoxforgovernor.com/our-teams",
-"https://dancoxforgovernor.com/our-teams-old",
-"https://dancoxforgovernor.com/privacy-2",
-"https://dancoxforgovernor.com/privacy-policy",
-"https://dancoxforgovernor.com/store",
-"https://dancoxforgovernor.com/store-old",
-"https://dancoxforgovernor.com/terms-3",
-"https://dancoxforgovernor.com/volunteer",
-"https://dancoxforgovernor.com/volunteer-old",
-"https://facebook.com/DanCoxforGovernor",
-"https://instagram.com/dancox4maryland",
-"https://mailchi.mp/0372523d76eb/debate-prep",
-"https://mailchi.mp/22f1bd3a872e/debate-prep-6757242",
-"https://stripe.com/legal/privacy-center",
-"https://us13.campaign-archive.com/feed?u=866897dcd900340c866a1068a&id=739896679f",
-"https://wpconsent.com/powered-by",
-"https://x.com/dancox4maryland",
-"https://youtube.com/@dancox4maryland"
+{
+"text": "About Dan Cox",
+"href": "https://dancoxforgovernor.com/about-dan-cox/"
+},
+{
+"text": "About Dan Cox Old",
+"href": "https://dancoxforgovernor.com/about-dan-cox-old/"
+},
+{
+"text": "Contact",
+"href": "https://dancoxforgovernor.com/contact/"
+},
+{
+"text": "Contact Old",
+"href": "https://dancoxforgovernor.com/contact-old/"
+},
+{
+"text": "Dan Cox for Governor",
+"href": "https://dancoxforgovernor.com/"
+},
+{
+"text": "Donate",
+"href": "https://dancoxforgovernor.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://dancoxforgovernor.com/events/"
+},
+{
+"text": "Get A Sign",
+"href": "https://dancoxforgovernor.com/get-a-sign/"
+},
+{
+"text": "Get A Sign Old",
+"href": "https://dancoxforgovernor.com/get-a-sign-old/"
+},
+{
+"text": "Home",
+"href": "https://dancoxforgovernor.com"
+},
+{
+"text": "Home",
+"href": "https://dancoxforgovernor.com/"
+},
+{
+"text": "Home Old",
+"href": "https://dancoxforgovernor.com/home-default/"
+},
+{
+"text": "Issues",
+"href": "https://dancoxforgovernor.com/issues/"
+},
+{
+"text": "Issues Old",
+"href": "https://dancoxforgovernor.com/issues-old/"
+},
+{
+"text": "Lt. Gov. Candidate",
+"href": "https://dancoxforgovernor.com/our-teams-old/"
+},
+{
+"text": "Lt. Gov. Candidate",
+"href": "https://dancoxforgovernor.com/our-teams/"
+},
+{
+"text": "News",
+"href": "https://dancoxforgovernor.com/blog-old/"
+},
+{
+"text": "News",
+"href": "https://dancoxforgovernor.com/blog/"
+},
+{
+"text": "Powered by (opens in a new window)",
+"href": "https://wpconsent.com/powered-by/"
+},
+{
+"text": "Store",
+"href": "https://dancoxforgovernor.com/store/"
+},
+{
+"text": "Store Old",
+"href": "https://dancoxforgovernor.com/store-old/"
+},
+{
+"text": "Volunteer",
+"href": "https://dancoxforgovernor.com/volunteer/"
+},
+{
+"text": "Volunteer Old",
+"href": "https://dancoxforgovernor.com/volunteer-old/"
+},
+{
+"text": "[image]",
+"href": "https://dancoxforgovernor.com"
+},
+{
+"text": "[image]",
+"href": "https://dancoxforgovernor.com/dancoxforgovernor.com/donate"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DanCoxforGovernor"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dancox4maryland"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/dancox4maryland"
+},
+{
+"text": "[tooltip: Follow Us on Facebook]",
+"href": "https://www.facebook.com/DanCoxforGovernor"
+},
+{
+"text": "[tooltip: Follow Us on Instagram]",
+"href": "https://www.instagram.com/dancox4maryland"
+},
+{
+"text": "[tooltip: Follow Us on Tik-Tok]",
+"href": "http://tiktok.com/dancox4maryland"
+},
+{
+"text": "[tooltip: Follow Us on Twitter]",
+"href": "http://twitter.com/dancox4maryland"
+},
+{
+"text": "[tooltip: Follow Us on Youtube]",
+"href": "http://www.youtube.com/@dancox4maryland"
+},
+{
+"text": "click here.",
+"href": "https://dancoxforgovernor.com/store/"
+}
 ]

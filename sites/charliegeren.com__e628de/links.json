@@ -1,15 +1,78 @@
 [
-"https://charliegeren.com/",
-"https://charliegeren.com/about",
-"https://charliegeren.com/contact",
-"https://charliegeren.com/donate",
-"https://charliegeren.com/endorse",
-"https://charliegeren.com/endorsements",
-"https://charliegeren.com/issues",
-"https://charliegeren.com/privacy",
-"https://charliegeren.com/privacy/terms-and-conditions",
-"https://charliegeren.com/volunteer",
-"https://facebook.com/pages/Charlie-Geren/117956368577",
-"https://twitter.com/charliegeren",
-"https://youtube.com/channel/UCudbzIMgkMm8LFtBq2Nw_Cw"
+{
+"text": "Contact",
+"href": "https://www.charliegeren.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.charliegeren.com/donate/"
+},
+{
+"text": "Endorse Charlie",
+"href": "https://www.charliegeren.com/endorse/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.charliegeren.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.charliegeren.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.charliegeren.com/issues/"
+},
+{
+"text": "Make a Contribution",
+"href": "https://www.charliegeren.com/donate/"
+},
+{
+"text": "Meet Charlie",
+"href": "https://www.charliegeren.com/about/"
+},
+{
+"text": "On the Issues",
+"href": "https://www.charliegeren.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.charliegeren.com/privacy/"
+},
+{
+"text": "Sign Up to Volunteer",
+"href": "https://www.charliegeren.com/volunteer/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.charliegeren.com/privacy/terms-and-conditions/"
+},
+{
+"text": "Tweets by charliegeren",
+"href": "https://twitter.com/charliegeren"
+},
+{
+"text": "Volunteer",
+"href": "https://www.charliegeren.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/charliegeren"
+},
+{
+"text": "[image]",
+"href": "https://www.charliegeren.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.charliegeren.com/donate/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/pages/Charlie-Geren/117956368577"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/channel/UCudbzIMgkMm8LFtBq2Nw_Cw"
+}
 ]

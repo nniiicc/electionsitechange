@@ -1,13 +1,58 @@
 [
-"http://powerplaystrategies/",
-"https://chrismccreight.com/",
-"https://chrismccreight.com/2026endorsements",
-"https://chrismccreight.com/get-involved-1",
-"https://chrismccreight.com/issues",
-"https://chrismccreight.com/privacy",
-"https://chrismccreight.com/voter-resources",
-"https://facebook.com/CMC46",
-"https://instagram.com/chrismccreight",
-"https://secure.actblue.com/donate/chris-mccreight-1",
-"https://twitter.com/chrismccreight"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/chris-mccreight-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.chrismccreight.com/2026endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.chrismccreight.com/get-involved-1"
+},
+{
+"text": "HOME",
+"href": "https://www.chrismccreight.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.chrismccreight.com/issues"
+},
+{
+"text": "MEET CHRIS",
+"href": "https://www.chrismccreight.com"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.chrismccreight.com/privacy"
+},
+{
+"text": "VOTER RESOURCES",
+"href": "https://www.chrismccreight.com/voter-resources"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/CMC46"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/chrismccreight"
+},
+{
+"text": "[image: PPS_McCreight_Logo3-Smaller.png]",
+"href": "https://www.chrismccreight.com"
+},
+{
+"text": "[image: PPS_McCreight_Logo3-Smaller.png]",
+"href": "https://www.chrismccreight.com/2026endorsements"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/chrismccreight"
+},
+{
+"text": "© # CHRIS MCCREIGHT | WEBSITE DESIGNED BY POWER PLAY STRATEGIES",
+"href": "http://www.powerplaystrategies"
+}
 ]

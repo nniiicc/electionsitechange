@@ -1,29 +1,110 @@
 [
-"https://aecf.org/interactive/databook?d=ed&l=32",
-"https://aecf.org/interactive/databook?l=32",
-"https://bsky.app/profile/teamfordnv.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/teamfordnv",
-"https://fordfornevada.com/",
-"https://fordfornevada.com/about",
-"https://fordfornevada.com/contact",
-"https://fordfornevada.com/endorsements",
-"https://fordfornevada.com/facts",
-"https://fordfornevada.com/issues",
-"https://fordfornevada.com/job-openings",
-"https://fordfornevada.com/media",
-"https://fordfornevada.com/news",
-"https://fordfornevada.myshopify.com/",
-"https://instagram.com/teamfordnv",
-"https://leg.state.nv.us/Division/Research/Documents/RTTL_NRS385.230_2026.pdf",
-"https://linktree.com/teamfordnv",
-"https://nea.org/sites/default/files/2026-04/2026_rankings_and_estimates_report-1.pdf",
-"https://reviewjournal.com/news/politics-and-government/nevada/nevada-governor-defends-dismantling-of-us-education-department-3341404",
-"https://secure.actblue.com/donate/aaron-ford-for-nevada-1",
-"https://thenevadaindependent.com/article/as-trump-dismantles-the-department-of-education-nevada-education-leaders-are-very-nervous",
-"https://thenevadaindependent.com/article/hunger-in-nevada-is-getting-worse-a-new-report-says-weak-state-coordination-doesnt-help",
-"https://tiktok.com/@teamfordnv",
-"https://usaspending.gov/search?hash=0f5206a31ee8aa31165a3ef345f08f00",
-"https://usnews.com/news/best-states/rankings/education/prek-12/high-school-grad-rate",
-"https://x.com/teamfordnv"
+{
+"text": "46th for education",
+"href": "https://www.aecf.org/interactive/databook?d=ed&l=32"
+},
+{
+"text": "47th for child wellbeing",
+"href": "https://www.aecf.org/interactive/databook?l=32"
+},
+{
+"text": "About",
+"href": "https://www.fordfornevada.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/aaron-ford-for-nevada-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fordfornevada.com/endorsements"
+},
+{
+"text": "FACT & MYTH",
+"href": "https://www.fordfornevada.com/facts"
+},
+{
+"text": "Issues",
+"href": "https://www.fordfornevada.com/issues"
+},
+{
+"text": "Job Openings",
+"href": "https://www.fordfornevada.com/job-openings"
+},
+{
+"text": "Join Us!",
+"href": "https://www.fordfornevada.com/contact"
+},
+{
+"text": "Media",
+"href": "https://www.fordfornevada.com/media"
+},
+{
+"text": "News",
+"href": "https://www.fordfornevada.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Store",
+"href": "https://fordfornevada.myshopify.com/"
+},
+{
+"text": "[image: Aaron Ford for Nevada Governor]",
+"href": "https://www.fordfornevada.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/teamfordnv.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/teamfordnv"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/teamfordnv"
+},
+{
+"text": "[no text]",
+"href": "https://linktree.com/teamfordnv"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@teamfordnv"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/teamfordnv"
+},
+{
+"text": "continue to lag",
+"href": "https://www.usnews.com/news/best-states/rankings/education/prek-12/high-school-grad-rate"
+},
+{
+"text": "most crowded and worst funded in the nation",
+"href": "https://www.nea.org/sites/default/files/2026-04/2026_rankings_and_estimates_report-1.pdf"
+},
+{
+"text": "nearly $1 billion",
+"href": "https://thenevadaindependent.com/article/as-trump-dismantles-the-department-of-education-nevada-education-leaders-are-very-nervous"
+},
+{
+"text": "nearly $6 billion",
+"href": "https://www.usaspending.gov/search/?hash=0f5206a31ee8aa31165a3ef345f08f00"
+},
+{
+"text": "one in four children",
+"href": "https://thenevadaindependent.com/article/hunger-in-nevada-is-getting-worse-a-new-report-says-weak-state-coordination-doesnt-help"
+},
+{
+"text": "six out of ten 4th graders lack math proficiency and more than half of 4th graders lack reading proficiency.",
+"href": "https://www.leg.state.nv.us/Division/Research/Documents/RTTL_NRS385.230_2026.pdf"
+},
+{
+"text": "supports",
+"href": "https://www.reviewjournal.com/news/politics-and-government/nevada/nevada-governor-defends-dismantling-of-us-education-department-3341404/"
+}
 ]

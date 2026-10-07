@@ -1,10 +1,4 @@
-Friends of Tarah Probst
-State Representative
-Tarah Probst
-189th District
-State Representative
-Tarah Probst
-189th District
-Election Day is Tuesday, November 3rd, 2026
-Tarah Probst, a lifelong resident of northeast Pennsylvania, serves as the Representative for House District 189 in the Pennsylvania General Assembly.
+0 Skip to Content Home About Endorsements Contact Contribute Open Menu Close Menu Home About Endorsements Contact Contribute Open Menu Close Menu Home About Endorsements Contact Contribute Friends of Tarah Probst State Representative Tarah Probst 189th District State Representative Tarah Probst 189th District Election Day is Tuesday, November 3rd, 2026 Meet Rep.
+Tarah Probst Promises Made, Promises Kept Visit PAHouse.com/Probst/ Tarah Probst, a lifelong resident of northeast Pennsylvania, serves as the Representative for House District 189 in the Pennsylvania General Assembly.
 Before her election in 2022, she made history as the first female Mayor of Stroudsburg, a position she held since 2015.
+Meet Tarah Working for You Monroe & Pike Counties Follow our Campaign Paid for by Friends of Tarah Probst PO Box 614, Stroudsburg, PA 18360 Contribute

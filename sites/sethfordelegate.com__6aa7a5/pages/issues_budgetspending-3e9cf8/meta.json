@@ -1,7 +1,9 @@
 {
  "description": "Budget/Spending",
  "final_url": "https://www.sethfordelegate.com/issues/budgetspending",
- "paid_for_by": null,
+ "fingerprint": "bb603351979de024ed67411177354a67527531e2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Budget/Spending",
  "years_mentioned": []
 }

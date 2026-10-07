@@ -1,2 +1,2 @@
-Dustin Manwaring January 15, 2022 KPVI News 6 Dustin Manwaring January 15, 2022 Rep.
-Manwaring talks about State of State Address
+Home Meet Dustin Bio Wikipedia Bio Contact Media 2021-2022 Committee Assignments (Copy) 2017-2018 Committee Assignments Issues News Volunteer Donate Home Meet Dustin Bio Wikipedia Bio Contact Media 2021-2022 Committee Assignments (Copy) 2017-2018 Committee Assignments Issues News Volunteer Donate Dustin Manwaring January 15, 2022 KPVI News 6 Dustin Manwaring January 15, 2022 Rep.
+Manwaring talks about State of State Address Source: https://www.kpvi.com/news/local_news/local-republican-state-representative-talks-about-state-of-the-state-address/article_70b0dc00-7490-11ec-8181-c3b14e8f47d2.html Newer Post KPVI News 6 Older Post Post Register Back to Top (208) 252-5295 dustin@manwaringforidaho.org Paid for by Manwaring for Idaho

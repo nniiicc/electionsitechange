@@ -1,11 +1,15 @@
 {
  "description": "News and Announcements related to Representative Sheila Jones and her community",
  "final_url": "https://www.sheilajones.org/news",
- "paid_for_by": null,
+ "fingerprint": "aa8c9525dd0aa2c99dd14d6c02a4e66a9848b8b2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News & Announcements | Representative Sheila Jones",
  "years_mentioned": [
+  "2022",
   "2023",
   "2024",
+  "2025",
   "2026"
  ]
 }

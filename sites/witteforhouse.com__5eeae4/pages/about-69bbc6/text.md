@@ -1,5 +1,4 @@
-About Jeff
-Jeff Witte is in his second term representing District 57B, which includes most of Lakeville, in the Minnesota House of Representatives.
+Home About Issues Bills Endorsements Voting Priorities Survey Contact Donate About Jeff Jeff Witte is in his second term representing District 57B, which includes most of Lakeville, in the Minnesota House of Representatives.
 A servant leader at heart, he is a retired police officer, who served 27 years with the Burnsville Police Department, including time as a school resource officer and crisis negotiator.
 After retiring from law enforcement, Jeff served on the Lakeville Planning Commission, including time as chair during some of Lakeville’s most rapid growth.
 During his time in the Legislature, he has earned respect on both sides of the political aisle for being a forceful and reliable advocate for law enforcement and first responders, including leading the charge to get school resource officers back in schools, fighting the growing problem of carjacking, and securing funding for Lakeville’s first responder training facility.
@@ -11,3 +10,6 @@ Witte has fought to eliminate the tax on Social Security benefits, increase the 
 Understanding Minnesota needs to lower the tax burden on families and businesses, he also opposed every one of the $10 billion in tax increases passed over the last two legislative sessions.
 In addition to serving in the House of Representatives, Jeff works in game day security for the Minnesota Twins and serves on the board of the Minnesota Thunder Academy.
 A 32-year resident of Lakeville, Jeff and his wife, Jen, have three daughters who graduated from Lakeville Area Schools.
+Follow Follow Testimonials | Events | Photos | Articles | Videos Prepared and Paid for by Witte for House | P.O.
+Box 424, Lakeville, MN 55044 Follow Follow Testimonials | Events | Photos | Articles | Videos Prepared and Paid for by Witte for House | P.O.
+Box 424, Lakeville, MN 55044

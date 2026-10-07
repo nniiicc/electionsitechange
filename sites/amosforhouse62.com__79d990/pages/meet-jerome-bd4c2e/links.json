@@ -1,15 +1,66 @@
 [
-"http://facebook.com/wix",
-"http://instagram.com/wix",
-"http://twitter.com/wix",
-"http://wix.com/",
-"http://youtube.com/user/Wix",
-"https://amosforhouse62.com/",
-"https://amosforhouse62.com/endorsements",
-"https://amosforhouse62.com/get-involved",
-"https://amosforhouse62.com/meet-jerome",
-"https://amosforhouse62.com/platform",
-"https://linkedin.com/company/wix-com",
-"https://secure.actblue.com/donate/amos-for-house-62-1",
-"https://sos.iowa.gov/voters/voter-registration"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/amos-for-house-62-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.amosforhouse62.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.amosforhouse62.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.amosforhouse62.com"
+},
+{
+"text": "Jerome.AmosJr@legis.iowa.gov",
+"href": "mailto:Jerome.AmosJr@legis.iowa.gov"
+},
+{
+"text": "MEET JEROME",
+"href": "https://www.amosforhouse62.com/meet-jerome"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.amosforhouse62.com/platform"
+},
+{
+"text": "RE-ELECTJEROME AMOS JR",
+"href": "https://www.amosforhouse62.com"
+},
+{
+"text": "Wix.com paid for by amosforhouse62",
+"href": "http://wix.com/"
+},
+{
+"text": "[image]",
+"href": "http://instagram.com/wix"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/wix"
+},
+{
+"text": "[image]",
+"href": "http://www.twitter.com/wix"
+},
+{
+"text": "[image]",
+"href": "http://youtube.com/user/Wix"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "[image][image][image]",
+"href": "https://sos.iowa.gov/voters/voter-registration"
+},
+{
+"text": "jeromeamosjr@gmail.com",
+"href": "mailto:jeromeamosjr@gmail.com"
+}
 ]

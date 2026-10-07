@@ -1,14 +1,54 @@
 [
-"https://electivawilliams.com/",
-"https://electivawilliams.com/about",
-"https://electivawilliams.com/calendar",
-"https://electivawilliams.com/cart",
-"https://electivawilliams.com/contact",
-"https://electivawilliams.com/endorsements",
-"https://electivawilliams.com/get-involved",
-"https://electivawilliams.com/priorities",
-"https://electivawilliams.com/volunteer",
-"https://facebook.com/share/1BdWvkF5ug?mibextid=wwXIfr",
-"https://instagram.com/elect.iva",
-"https://secure.actblue.com/donate/electivawilliams"
+{
+"text": "0",
+"href": "https://www.electivawilliams.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electivawilliams.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.electivawilliams.com/"
+},
+{
+"text": "Calendar",
+"href": "https://www.electivawilliams.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.electivawilliams.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/electivawilliams"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electivawilliams.com/endorsements"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.electivawilliams.com/get-involved"
+},
+{
+"text": "Priorities",
+"href": "https://www.electivawilliams.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electivawilliams.com/volunteer"
+},
+{
+"text": "[image: Elect Iva Williams]",
+"href": "https://www.electivawilliams.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1BdWvkF5ug/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/elect.iva"
+}
 ]

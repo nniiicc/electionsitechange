@@ -1,21 +1,78 @@
 [
-"https://ballotready.org/",
-"https://bsky.app/profile/teamellefson.bsky.social",
-"https://campaignpartner.com/",
-"https://facebook.com/teamellefson",
-"https://teamellefson.com/",
-"https://teamellefson.com/caucus-info",
-"https://teamellefson.com/contact",
-"https://teamellefson.com/contribute",
-"https://teamellefson.com/events",
-"https://teamellefson.com/home",
-"https://teamellefson.com/issues",
-"https://teamellefson.com/make-endorsement",
-"https://teamellefson.com/meet_sebastian",
-"https://teamellefson.com/view-endorsements",
-"https://teamellefson.com/volunteer",
-"https://teamellefson.com/vote",
-"https://teamellefson.com/yard-sign",
-"https://vlnmn.org/staff",
-"https://wsco.org/"
+{
+"text": "BallotReady",
+"href": "https://www.ballotready.org/"
+},
+{
+"text": "Contact",
+"href": "https://www.teamellefson.com/contact"
+},
+{
+"text": "Delegate Info",
+"href": "https://www.teamellefson.com/caucus-info"
+},
+{
+"text": "Donate",
+"href": "https://www.teamellefson.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.teamellefson.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.teamellefson.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.teamellefson.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.teamellefson.com/home"
+},
+{
+"text": "Make An Endorsement",
+"href": "https://www.teamellefson.com/make-endorsement"
+},
+{
+"text": "Meet Sebastian",
+"href": "https://www.teamellefson.com/meet_sebastian"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.teamellefson.com/issues"
+},
+{
+"text": "Volunteer Lawyers Network",
+"href": "https://www.vlnmn.org/staff/"
+},
+{
+"text": "Voter Information",
+"href": "https://www.teamellefson.com/vote"
+},
+{
+"text": "West Side Community Organization (WSCO)",
+"href": "https://www.wsco.org/"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.teamellefson.com/yard-sign"
+},
+{
+"text": "[image: SEBASTIAN ELLEFSON Minnesota State Representative Seat 65B]",
+"href": "https://www.teamellefson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/teamellefson.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/teamellefson"
+}
 ]

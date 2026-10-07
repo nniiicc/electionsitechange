@@ -1,8 +1,34 @@
 [
-"https://jacobsonfornyassembly.com/",
-"https://jacobsonfornyassembly.com/about",
-"https://jacobsonfornyassembly.com/contact",
-"https://jacobsonfornyassembly.com/issues",
-"https://jacobsonfornyassembly.com/volunteer",
-"https://secure.actblue.com/donate/jonathanjacobsonforassembly"
+{
+"text": "@",
+"href": "mailto:info@jonathanjacobsonforassembly.com"
+},
+{
+"text": "ABOUT",
+"href": "https://jacobsonfornyassembly.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://jacobsonfornyassembly.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jonathanjacobsonforassembly"
+},
+{
+"text": "HOME",
+"href": "https://jacobsonfornyassembly.com/"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://jacobsonfornyassembly.com/issues"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://jacobsonfornyassembly.com/volunteer"
+},
+{
+"text": "[image: Re-Elect Jonathan Jacobson — Democrat for Assembly]",
+"href": "https://jacobsonfornyassembly.com/"
+}
 ]

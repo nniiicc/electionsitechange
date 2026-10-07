@@ -1,4 +1,2 @@
-For the 2026 Election Year – Check Back for Updates
-Robert Wherry serves as candidate and treasurer of his campaign.
-For information on campaign political expenditures and contributions please visit:
-NH Campaign Finance System
+Skip to content Wherry for New Hampshire Home Legislative Scorecards Campaign Finance Information Appearances Campaign Finance For the 2026 Election Year – Check Back for Updates Robert Wherry serves as candidate and treasurer of his campaign.
+For information on campaign political expenditures and contributions please visit: NH Campaign Finance System Wherry for New Hampshire 37 James Way, Hudson, NH 03051 GET IN TOUCH Instagram Flickr Wherry for New Hampshire Copy shortlink Manage subscriptions Sign up Log in Report this content

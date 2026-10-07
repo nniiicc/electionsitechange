@@ -1,7 +1,6 @@
-Daniel Quipp: Ian will fight for Brattleboro
-Ian is serious, thoughtful, energetic, and hard-working.
+Menu Close About In the News Issues Endorsements Contact Donate Ian Goodnow for Vermont State Representative About In the News Issues Endorsements Contact Donate Daniel Quipp: Ian will fight for Brattleboro Ian Goodnow for State Representative on July 24, 2024 Ian is serious, thoughtful, energetic, and hard-working.
 He cares deeply about all facets of our community.
 From our time together on the board, I know that Ian is able to see issues from many different perspectives, and weigh those points of view carefully to try to arrive at a good decision.
 Importantly, for one who works with others on policy matters, he’s not so arrogant to think that his perspective is the only one that’s valid.
 Because of these traits I can picture Ian working well in committee (a crucial part of the Legislature’s work) to investigate complex issues and craft good policies.
-Daniel Quipp (Brattleboro Reformer)
+Daniel Quipp (Brattleboro Reformer) Read the full story Category: In the News Post navigation Previous: Previous post: Peter Case: Vote for Ian Goodnow Next: Next post: vtdigger.org: Ian Goodnow candidate profile Footer Contact Ian today Email: iangoodnowvt@gmail.com Phone: 802-416-9880 Donate Get In Touch Follow Ian on social media Instagram Facebook Copyright # Ian Goodnow for State Representative

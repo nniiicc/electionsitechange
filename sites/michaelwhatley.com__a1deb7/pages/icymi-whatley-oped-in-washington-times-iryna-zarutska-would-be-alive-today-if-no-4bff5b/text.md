@@ -1,18 +1,16 @@
-In Case You Missed It- Michael Whatley recently wrote in The Washington Times about the one year anniversary of Iryna Zarutska’s tragic death and how Roy Cooper’s soft on crime policies allowed her killer to walk free.
+DONATE Endorsed by president Trump Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE ICYMI- Whatley Oped in Washington Times: Iryna Zarutska Would Be Alive Today If Not For Roy Cooper August 24, 2026 In Case You Missed It- Michael Whatley recently wrote in The Washington Times about the one year anniversary of Iryna Zarutska’s tragic death and how Roy Cooper’s soft on crime policies allowed her killer to walk free.
 As Whatley laid out in the oped, Roy Cooper’s cashless bail and pre-trial release policies in North Carolina had disastrous results.
 This led to Decarlos Brown Jr. being arrested and released over 13 times before murdering Iryna Zarutska in cold blood.
-In the piece, Whatley highlights:
-- How Iryna Zarutska immigrated from Ukraine to live the American dream in North Carolina.
-- Decarlos Brown Jr. was released by Roy Cooper after 13 arrests.
+In the piece, Whatley highlights: How Iryna Zarutska immigrated from Ukraine to live the American dream in North Carolina.
+Decarlos Brown Jr. was released by Roy Cooper after 13 arrests.
 Brown went on to murder Iryna.
-- How Whatley called to support Iryna Zarutska’s legacy and create Iryna’s Law to keep criminals behind bars not roaming the streets.
-Read the full oped here and below:
-One Year Since Roy Cooper’s Failed Governorship Cost Iryna Zarutska Her Life
-This month marks one year since Iryna Zarutska was brutally killed, in cold blood, on a North Carolina light rail system — shining a bright light on former Gov.
+How Whatley called to support Iryna Zarutska’s legacy and create Iryna’s Law to keep criminals behind bars not roaming the streets.
+Read the full oped here and below: One Year Since Roy Cooper’s Failed Governorship Cost Iryna Zarutska Her Life This month marks one year since Iryna Zarutska was brutally killed, in cold blood, on a North Carolina light rail system — shining a bright light on former Gov.
 Roy Cooper’s soft-on-crime policies.
 Iryna was born in Ukraine and immigrated to North Carolina in 2022.
 Like so many others, she was chasing the American dream and had her whole life ahead of her.
-That dream was cut short on Aug. 22, 2025.
+That dream was cut short on Aug.
+22, 2025.
 Iryna boarded the Charlotte Light Rail after finishing her shift at Zepeddie’s Pizzeria.
 Video shows that as she rode home, a man identified as convicted felon Decarlos Brown Jr. stood up and, without warning, violently stabbed Iryna while other passengers looked on.
 Iryna died almost instantly.
@@ -30,7 +28,7 @@ Yet despite Mr.
 Brown’s lengthy criminal rap sheet, Mr.
 Cooper included him on a list of 4,200 criminals to be released from North Carolina prisons in 2021.
 This unprecedented prison release — part of Mr.
-Cooper’s campaign to “reimagine” law enforcement — allowed more than 700 violent felons convicted of assault, assault with a deadly weapon, sexual assault, rape and murder back into North Carolina.
+Cooper’s campaign to “reimagine” law enforcement — allowed more than 700 violent felons convicted of assault, assault with a deadly weapon, sexual assault, rape and murder back into North Carolina .
 Fifty-one were serving life sentences at the time.
 Sadly, Iryna was not the only victim of Mr.
 Cooper’s move.
@@ -46,7 +44,8 @@ And for what?
 So that Roy Cooper could be seen as bowing down at the altar of wokeness.
 Iryna’s family will never get to see Iryna flourish in her career, meet her husband or welcome children into the world.
 She should have been able to finish the higher education she started, and she should have been afforded the opportunity to live the American dream she was promised.
-The No. 1 duty of any government, whether at the local, state or federal level, is to keep its people safe.
+The No.
+1 duty of any government, whether at the local, state or federal level, is to keep its people safe.
 Unfortunately, Mr.
 Cooper was an abject failure at this most basic of tasks, and it cost Iryna and 24 other North Carolinians their lives.
 After Iryna’s murder, I called on the North Carolina General Assembly to enact legislation to roll back Roy Cooper’s soft-on-crime policies.
@@ -55,3 +54,4 @@ I will always work to uphold the memory of Iryna and keep all of our children an
 Iryna Zarutska should be alive today.
 We must have justice for horrific murders and hold her killer accountable to the fullest extent of the law.
 We must also hold accountable the politicians who have put criminals such as Decarlos Brown Jr. back into our communities, and we must work every day in Iryna’s honor to ensure that this kind of atrocity never happens again.
+X-twitter Facebook Instagram Privacy Policy Terms of Use Mobile Terms Media Tool Kit Privacy Policy Terms of Use Mobile Terms Media Tool Kit Paid for by Whatley for Senate

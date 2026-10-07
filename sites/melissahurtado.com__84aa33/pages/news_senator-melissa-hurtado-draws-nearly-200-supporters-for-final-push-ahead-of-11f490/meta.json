@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.melissahurtado.com/news/senator-melissa-hurtado-draws-nearly-200-supporters-for-final-push-ahead-of-tuesdays-election",
- "paid_for_by": "Paid for by Valley Families for Melissa Hurtado for Senate 2026",
+ "fingerprint": "8bcf8c8a50ee954e103dc91ca86ad6f9693a6b2f",
+ "format": 3,
+ "paid_for_by": "Paid for by Valley Families for Melissa Hurtado for Senate 2026 You need to enable JavaScript to run this app",
  "title": "Senator Melissa Hurtado Draws Nearly 200 Supporters For Final Push Ahead of Tuesday's Election",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

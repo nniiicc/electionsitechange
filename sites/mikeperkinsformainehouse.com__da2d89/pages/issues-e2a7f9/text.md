@@ -1,23 +1,8 @@
-Common Sense for District 66
-Mike's priorities are shaped by a lifetime of service — in uniform, in town hall, in the State House, and on Main Street.
-Where Mike Stands
-Straightforward positions for the people of Oakland.
-Backing Law Enforcement
-After 34 years as a police officer, Mike knows the job.
-He will oppose efforts to defund or demoralize the men and women who keep our streets safe and will fight for the training, equipment, and respect they deserve.
-Parental Rights in Education
-Parents have the right to know what's being taught in their kids' classrooms and to make the decisions that shape their family's values.
-Mike will defend that right in Augusta.
-Lower Taxes for Maine Families
-Maine families and seniors are getting squeezed.
-Mike supports keeping more money in your pocket by holding the line on taxes and reining in wasteful spending.
-Standing Up for Small Business
-As the owner of four small businesses right here in Oakland, Mike has lived the challenges of meeting payroll, navigating regulations, and competing in today's economy.
-Serving Maine Veterans
-A 4-year USAF veteran himself, Mike will continue to advocate for the veterans who served our country and now call Maine home.
-Strong Local Communities
-Twenty years chairing the Oakland Town Council taught Mike that good government starts close to home.
+Mike Perkins for Maine House Home Issues About Contact ☰ The Issues Common Sense for District 66 Mike's priorities are shaped by a lifetime of service — in uniform, in town hall, in the State House, and on Main Street.
+Read the plan Where Mike Stands Straightforward positions for the people of Oakland. 👮 Backing Law Enforcement After 34 years as a police officer, Mike knows the job.
+He will oppose efforts to defund or demoralize the men and women who keep our streets safe and will fight for the training, equipment, and respect they deserve. 📚 Parental Rights in Education Parents have the right to know what's being taught in their kids' classrooms and to make the decisions that shape their family's values.
+Mike will defend that right in Augusta. 💵 Lower Taxes for Maine Families Maine families and seniors are getting squeezed.
+Mike supports keeping more money in your pocket by holding the line on taxes and reining in wasteful spending. 🏪 Standing Up for Small Business As the owner of four small businesses right here in Oakland, Mike has lived the challenges of meeting payroll, navigating regulations, and competing in today's economy. 🎖️ Serving Maine Veterans A 4-year USAF veteran himself, Mike will continue to advocate for the veterans who served our country and now call Maine home. 🏘️ Strong Local Communities Twenty years chairing the Oakland Town Council taught Mike that good government starts close to home.
 He'll bring that local-first approach to Augusta.
-A plan for Maine House District 66
-Mike Perkins is running on a record, not just a promise: three terms in the Maine House, two decades leading the Oakland Town Council, and a career spent serving his community.
-Read the full platform on backing law enforcement, defending parental rights, and lowering taxes for Maine families.
+The Platform A plan for Maine House District 66 Mike Perkins is running on a record, not just a promise: three terms in the Maine House, two decades leading the Oakland Town Council, and a career spent serving his community.
+Read the full platform on backing law enforcement, defending parental rights, and lowering taxes for Maine families. 📄 Add a cover image 📞 Call ✋ Volunteer 📩 Email © # Mike Perkins for Maine House Website by mainewebsite.design ‹ ›

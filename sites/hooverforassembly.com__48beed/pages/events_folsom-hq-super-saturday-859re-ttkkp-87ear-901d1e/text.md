@@ -1,9 +1,3 @@
-Back to All Events
-Join us on October 24th at 9AM at Hoover HQ (13405 Folsom Blvd, Building 500, Folsom) to connect with neighbors and support Josh Hoover.
-Previous
-Previous
-October 17
-Citrus Heights Walk
-Next
-Next
-October 31
+Skip to Content Open Menu Close Menu ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT 0 0 DONATE ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT 0 0 DONATE Open Menu Close Menu ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT DONATE Back to All Events Folsom Walk Saturday, October 24, 2026 9:00 AM 12:00 PM Google Calendar ICS Join us on October 24th at 9AM at Hoover HQ (13405 Folsom Blvd, Building 500, Folsom) to connect with neighbors and support Josh Hoover.
+Previous Previous October 17 Citrus Heights Walk Next Next October 31 Fair Oaks - Super Saturday ABOUT | ISSUES | ENDORSEMENTS | AD 7 | MEDIA | PODCAST | NEWS | YARD SIGN | | VOLUNTEER | CONTACT CONTRIBUTE Paid for by Hoover for Assembly 2026 ID# 1476883 P.O.
+Box 850, Wilton, CA 95693 Privacy Policy

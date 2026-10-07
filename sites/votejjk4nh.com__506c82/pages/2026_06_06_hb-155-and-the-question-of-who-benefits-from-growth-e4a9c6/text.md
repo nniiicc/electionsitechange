@@ -1,11 +1,11 @@
-Over the last several years, New Hampshire has continued to position itself as one of the most business-friendly states in the country.
+Help elect Jonathan King — every contribution makes a difference.
+Donate → × Skip to content Vote JJK 4 NH Home About Platform Blog Get Involved Contact HB 155 and the Question of Who Benefits From Growth Posted : Jun 6, 2026 in : House Bills , NH Business , Opinion by : JJK Tags : business , HB155 , House Bill Over the last several years, New Hampshire has continued to position itself as one of the most business-friendly states in the country.
 We regularly hear about strong revenues, low taxes, economic competitiveness, and efforts to reduce the tax burden on businesses further through legislation like HB 155.
 I understand the logic behind that approach.
 A healthy private sector matters.
 Businesses create jobs, invest in communities, and help drive the state’s economy forward.
 A state that is hostile to business ultimately hurts workers and residents as well.
-But I also think we need to ask a broader question:
-If our economy is doing so well, why are so many residents still feeling financially squeezed?
+But I also think we need to ask a broader question: If our economy is doing so well, why are so many residents still feeling financially squeezed?
 That is not a rhetorical question.
 It is something people are experiencing every day.
 Property taxes continue to create instability for homeowners.
@@ -32,12 +32,7 @@ Businesses willing to help employees with repayment assistance or education ince
 The goal should not simply be lower taxes or higher taxes in isolation.
 The goal should be alignment.
 We should be aligning business incentives with the broader needs of the state.
-That means rewarding actions that:
-- create jobs locally,
-- strengthen the workforce,
-- improve employee retention,
-- support long-term residency,
-- and contribute to sustainable economic growth inside New Hampshire itself.
+That means rewarding actions that: create jobs locally, strengthen the workforce, improve employee retention, support long-term residency, and contribute to sustainable economic growth inside New Hampshire itself.
 At the same time, if businesses contribute more overall through a balanced tax structure, those revenues can help reduce the pressure currently falling on residents through property taxes, infrastructure costs, and other public obligations that continue increasing year after year.
 I do not think those ideas are contradictory.
 I think they are connected.
@@ -48,7 +43,12 @@ Not one built around slogans or absolutes, but one focused on measurable outcome
 New Hampshire absolutely should remain competitive and welcoming to businesses.
 But residents should also be able to see tangible benefits from the state’s economic growth—not just hear about them in budget headlines.
 If people are still struggling with affordability and unpredictability despite strong revenues and continued economic expansion, then we have more work to do.
-My approach is simple:
-Businesses that invest in New Hampshire workers, communities, and long-term growth should be rewarded for doing so.
+My approach is simple: Businesses that invest in New Hampshire workers, communities, and long-term growth should be rewarded for doing so.
 Residents should also see the benefit of a fairer and more balanced economic system.
-And state policy should focus not only on growth itself, but on whether that growth is improving life for the people who actually call New Hampshire home.
+And state policy should focus not only on growth itself, but on whether that growth is improving life for the people who actually call New Hampshire home. ← Previous: I’m officially running for district 19!
+Next: Bill Review: SB295 and the Expansion of EFAs in New Hampshire → Vote JJK 4 NH Jonathan J King, running for values, integrity, and returning the human experience back to Concord, New Hampshire.
+Contact Info Strafford District 19 Rochester, NH Wards 1,2,3,4,6 [email protected] (339) 203-9362 Twitter VoteJJK4NH Threads Instagram Popular Link Donation Join Page Volunteering Events Recent News New Hampshire Cannabis Legalization Opposition Arguments Fall Apart June 14, 2026 Property Tax Caps New Hampshire: Do They Address Rising Costs?
+June 13, 2026 © # Vote JJK 4 NH .
+All Rights Reserved Paid for by Jonathan J.
+King.
+Scroll To Top

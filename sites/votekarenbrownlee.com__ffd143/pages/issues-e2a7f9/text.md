@@ -1,24 +1,20 @@
-Issues
-The Great 28 is strong, resilient, and ready for a brighter future—and I’m fighting every day to make sure our families, our neighborhoods, and our communities have the support they need to thrive.
+× Donate to Karen Brownlee for Ohio House $28 $250 $50 $500 $100 OTHER Or, sign up to volunteer ➔ 0 Skip to Content Home Meet Karen Issues Endorsements District 28 Voting Information GET INVOLVED Open Menu Close Menu Home Meet Karen Issues Endorsements District 28 Voting Information GET INVOLVED Open Menu Close Menu Home Meet Karen Issues Endorsements District 28 Voting Information GET INVOLVED Issues The Great 28 is strong, resilient, and ready for a brighter future—and I’m fighting every day to make sure our families, our neighborhoods, and our communities have the support they need to thrive.
 With my background as a clinical social worker and my commitment to Collaboration, Transparency, and Representative Government, I’m bringing people-powered leadership to Columbus and delivering real progress for Ohioans.
-- Our community deserves a government that listens, responds, and reflects our values.
+A Democracy That Truly Represents Us Our community deserves a government that listens, responds, and reflects our values.
 I’m fighting to protect voting rights, strengthen fair representation, and ensure every voice—from Forest Park to Loveland and every corner of the Great 28—is heard loud and clear.
 When more people participate, our democracy works the way it should.
-- I hear it every day: families are stretched thin.
+HB 31- Require electronic recordings of all parole board hearings HB 761- Allow absentee voters’ ballots to be returned to any county polling place Affordability for Every Family in the Great 28 I hear it every day: families are stretched thin.
 I’m working to lower costs, expand access to housing and healthcare, and support policies that help people build stability and opportunity right here at home.
 When our community can breathe easier financially, we all move forward together.
-- HB 438- Broadens access to private health insurance for Ohioans
-- HB 709- Requires insurance companies cover telehealth mental health therapy sessions
-- HB 780- Reduces administrative waste in Medicaid system by $500+ million/year, increases patient access to healthcare
-- HB 857- Housing Recovery Act to fix lack of access for state housing development funds
-- Public education opens doors—and every child in the Great 28 deserves access to a high-quality education, no matter their ZIP code.
+HB 438- Broadens access to private health insurance for Ohioans HB 709- Requires insurance companies cover telehealth mental health therapy sessions HB 780- Reduces administrative waste in Medicaid system by $500+ million/year, increases patient access to healthcare HB 857- Housing Recovery Act to fix lack of access for state housing development funds High Quality Public Education for Every Child Public education opens doors—and every child in the Great 28 deserves access to a high-quality education, no matter their ZIP code.
 I’m committed to protecting and investing in our public schools, supporting teachers and school staff, and ensuring students have the tools they need to succeed in the classroom and beyond.
 I will keep fighting for fair school funding, expanding access to student supports for mental health and basic needs, supporting career and technical education, and making sure every student feels safe, supported, and prepared for the future.
-- As a mental health provider, I know how essential safety, stability, and well-being are for every person.
+HB 164- Reinstates the state Education Oversight Committee to review education policy and programs HB 191- Requires a minimum salary for public school teachers HB 545- School busing reform act to increase efficiency Health & Safety at the Heart of Our Future As a mental health provider, I know how essential safety, stability, and well-being are for every person.
 I’m championing expanded mental health access, stronger community support, and evidence-based strategies to keep our neighborhoods safe, connected, and thriving—because every Ohioan deserves to feel secure where they live.
-- Public service is a promise—and I take that promise seriously.
+HB 351- Gather data on gun violence so we can create solutions to reduce it HB 718- Certifies mental health support workers for stronger training and patient protection HB 797- Funds school-based social work interns in mental health deserts Ethics & Accountability, Every Single Day Public service is a promise—and I take that promise seriously.
 I’m committed to transparent leadership, responsible decision-making, and standing up for the people of the Great 28, not special interests.
 Integrity isn’t optional; it’s the foundation of everything I do.
-- HB 409- Prohibits legislators from receiving free or discounted professional sports tickets
-Together, we’re building a safer, healthier, more affordable Ohio—and a future where every member of the Great 28 can flourish.
+HB 409- Prohibits legislators from receiving free or discounted professional sports tickets Together, we’re building a safer, healthier, more affordable Ohio—and a future where every member of the Great 28 can flourish.
 Let’s keep moving forward, together.
+Get involved with Team Brownlee Donate Get Involved Contact PAID FOR BY FRIENDS FOR KAREN BROWNLEE ©# Friends for Karen Brownlee.
+All rights reserved.

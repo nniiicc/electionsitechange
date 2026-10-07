@@ -1,8 +1,5 @@
-Rural Hospitals and Government Intervention
-Government Stacks the Odds Against Hospitals
-By Rep.
-Rod Pelton
-Years of government meddling in health care has created – not prevented -- severe inequities within the health care system.
+Home About Rod Committees News Issues Contribute Home ❭ Issues ❭ Rural Hospitals and Government Intervention Rural Hospitals and Government Intervention Government Stacks the Odds Against Hospitals By Rep.
+Rod Pelton Years of government meddling in health care has created – not prevented -- severe inequities within the health care system.
 Among the most serious of these is the artificial disparity in the financial circumstances between frontline health providers and health insurance companies.
 Hospitals – rural hospitals especially – have been taking it on the chin for years, as the structure of the still-ironically-named Affordable Care Act (“Obamacare”) shifted costs onto hospitals and other health care providers, and simultaneously encouraged consolidation within the insurance industry.
 That consolidation, brought on by the ACA’s coverage mandates, concentrated the insurance industry down to just a handful of players, giving them unprecedented ability to set prices.
@@ -37,3 +34,4 @@ Insurance companies should certainly be allowed to make a profit, but not becaus
 Rod Pelton is Colorado State House Representative for House District 65, which includes several rural counties in Colorado’s eastern plains.
 He serves on Public and Behavioral Health and Human Services Committee.
 Add your expanded detail here.
+Next: Agriculture » Make Endorsement Paid for by the Committee to Elect Rod Pelton Powered by CampaignPartner.com - Political Websites Home About Rod Committees News Issues Contribute Close Menu

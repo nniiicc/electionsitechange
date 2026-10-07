@@ -1,14 +1,12 @@
-Why Was Fort Wayne Ranked as America’s Most Affordable Hometown?
-And how do we keep it affordable?
-Northeast Indiana Realtor Darren Schortgen recently flagged an important ranking:
-Fort Wayne was ranked as America’s MOST affordable city by U.S.
-News and World Report.
+0 Skip to Content About News Donate Open Menu Close Menu About News Donate Open Menu Close Menu About News Donate Why Was Fort Wayne Ranked as America’s Most Affordable Hometown?
+Sep 29 Written By Liz Brown And how do we keep it affordable?
+Northeast Indiana Realtor Darren Schortgen recently flagged an important ranking: Fort Wayne was ranked as America’s MOST affordable city by U.S.
+News and World Report .
 We beat other mid-sized cities like Wichita, Kansas or Davenport, Iowa.
 This doesn’t mean we’re immune from feeling the crunch on our pocketbooks when we pay for groceries and other bills, but Americans EVERYWHERE are feeling the costs of inflation and here in Indiana we’re feeling it a little less.
 BUT if we don’t keep a Republican majority in the Statehouse, we can kiss affordability good-bye and say “hello” to higher costs.
 According to U.S.
-News and World Report the top reason for our 2024-2025 ranking is, “Lower housing costs make Fort Wayne, Indiana, affordable.”
-In recent General Assembly sessions, I fought for policies that would make home ownership more affordable for Hoosiers.
+News and World Report the top reason for our 2024-2025 ranking is, “Lower housing costs make Fort Wayne, Indiana, affordable.” In recent General Assembly sessions, I fought for policies that would make home ownership more affordable for Hoosiers.
 I supported laws to cut burdensome red tape which increased Indiana’s housing supply and lower costs.
 We’ve passed laws specifically helping senior citizens, disabled vets and their families, addressing assessed values to result in lower property taxes and eliminated the personal property tax for many businesses.
 Indiana has the eighth-lowest median property taxes in the nation for homeowners.
@@ -30,3 +28,6 @@ For example, in the current state budget, I kept a close eye on Indiana's bottom
 In the last 10 years, the Indiana Senate has cut taxes more than 30 times.
 Indiana’s state income tax is the lowest in the Midwest!
 We’re still digging out of the inflation hole created by the Biden administration, but I am working to do what I can at the state level to keep Fort Wayne as the most affordable place in the nation to live.
+Liz Brown Next Next Liz Defends Women's Sports in the Journal Gazette Liz Brown for State Senate Authorized by Friends of Liz Brown, inc. © Copyright # Liz Brown.
+All Rights Reserved.
+Terms of Conditions Privacy Policy Donate

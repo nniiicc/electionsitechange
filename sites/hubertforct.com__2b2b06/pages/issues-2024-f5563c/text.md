@@ -1,24 +1,22 @@
-HUBERT DELANY
-for STATE REPRESENTATIVE
-VOTE NOV 5
-General Election
-for District 144
-ISSUES
-ISSUES
-"On February 1st, 2022 I was sworn in at our capitol as the New State Representative of Connecticut's 144th District and promised to do my utmost to uphold your faith in our constitution and in our government.
-Since taking office I am proud to have successfully worked to Invest in Education, Revitalize our Economy, Defend Abortion Access, Protect our Seniors, and Fight for Veterans and First Responders.
-Coming into this second election, I am proud of the work I've done to make Stamford a better home for all of us.
+top of page HUBERT DELANY for STATE REPRESENTATIVE Home Meet Hubert Issues Voting Info News + Updates Support Us Contact More Use tab to navigate through the menu items.
+DONATE ABSENTEE BALLOTS REGISTER TO VOTE VOTE NOV 5 General Election for District 144 ISSUES ISSUES To play, press and hold the enter key.
+To stop, release the enter key.
+"On February 1st, 2022 I was sworn in at our capitol as the New State Representative of Connecticut's 144th District and promised to do my utmost to uphold your faith in our constitution and in our government. ​ Since taking office I am proud to have successfully worked to Invest in Education, Revitalize our Economy, Defend Abortion Access, Protect our Seniors, and Fight for Veterans and First Responders. ​ Coming into this second election, I am proud of the work I've done to make Stamford a better home for all of us.
 But there is more work to be done, and I am eager to advocate for Stamford's 144th District.
-Increasing Economic Growth & Stability in Stamford
-Increasing Educational Opportunities in Stamford
-Providing Affordable and Accessible Health Care
-Continuing to Advocate for Stamford Seniors
-Supporting Those Who Serve
-& Protect Stamford
-Creating a More Equitable
-& Safe Stamford
-news & updates
-general election info
-ELECTION day PREP
-The election is quickly approaching!
-Use the links below to make sure you're ready and able to vote!
+Increasing Economic Growth & Stability in Stamford Keeping Stamford Affordable For many Stamford has been a home for generations, but rising costs have made staying in Stamford difficult.
+Since being elected, Hubert has made it a top priority to streamline processes that provide long-term economic stability and growth for Stamford residents and businesses so they can continue to call Stamford their home. _________​ ​ ​ ​ Secured the largest tax cut in Connecticut state history - $600 million for middle class residents ; with a reduction in Social Security, Pension, Annuity, and Retirement taxes Investing in Education In 2022, Hubert promised to secure funding for essential building repairs, increase access to educational opportunities, and expand community programs that would put Stamford students first. ​ From children to seniors, Hubert has worked to drive meaningful and impactful investments for Stamford's schools, students and teachers. _________​ ​ ​ ​ Secured $204 million on infrastructure for Stamford schools over the next 25 years Increasing Educational Opportunities in Stamford Providing Affordable and Accessible Health Care Expanding Access to Health Care COVID-19 exposed the many cracks in health care equity and access across the country.
+Since being elected, Hubert has provided more affordable, accessible, and holistic health care to Stamford residents. ​ From standard health care services and mental health support, to defending reproductive rights, and more equitable access to care for our disabled population, Hubert has made increasing quality of life for Stamford residents a top priority. _________​ ​ ​ ​ Created the Reproductive Freedom Defense Act to defend access to abortion health care in CT Protecting Our Seniors Stamford is a community that cares - that's why Hubert has promised to advocate for and pass legislation to ensure that senior residents are able to age in the city they call home. ​ _________​ ​ ​ ​ Strengthened oversight of negligent nursing homes and created an incentive-based program to improve nursing home care in Connecticut Continuing to Advocate for Stamford Seniors Supporting Those Who Serve & Protect Stamford Fighting for Veterans and First Responders As a U.S Army Sergeant, Hubert knows the sacrifice and service of soldiers and those who sign up to put themselves in harm’s way.
+Since his first year in office, Hubert promised to be a voice for veterans and first responders, working to expand access and resources for those serving in the line of duty. ​ _________​ ​ ​ ​ Exempted permanently and totally disabled veterans from paying property taxes Increasing Equity and Safety As a U.S.
+Army Sergeant, black man and life-long Stamford resident, Hubert understands the importance of a safe and equitable society, and has a made it a mission to push legislation that supports these values. ​ ​ _________​ ​ ​ ​ Created the John R.
+Lewis Connecticut Voting Rights Act , the nation’s most comprehensive state-level voting rights act Creating a More Equitable & Safe Stamford news & updates HUBERT DELANY bhm feature: why leadership is important ​ Read more fighting for veterans in stamford ​ Read more leading hundreds of soldiers to the polls ​ Read more general election info vote november 5 Make your way to the polls on November 5, 2024 for a general election for the State Representative seat for District 144.
+WHERE IS MY POLLING SITE? am i in district 144?
+FIND OUT ELECTION day PREP The election is quickly approaching!
+Use the links below to make sure you're ready and able to vote! register to vote apply for an absentee ballot join the campaign connect on social Follow the Hubert for CT campaign on your favorite social platforms to stay-up-to date on news and important information!
+Contact Us Stamford, Connecticut District 144 ​ 1-203-397-6167 HubertForCT@gmail.com pitch in Join the campaign and help out how you can!
+All are welcome. volunteer Paid for by Hubert Delany for State Representative.
+Jim Fleischer, Treasurer.
+Website Designed by T'kheya Yisrael, Approved by Hubert Delany.
+Disclaimer: Sgt.
+Hubert Delany is a member of the U.S.
+Army Reserves.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army of the Department of Defense. bottom of page

@@ -1,29 +1,142 @@
 [
-"http://optout.networkadvertising.org/?c=1",
-"https://bsky.app/profile/williamsforky1.bsky.social",
-"https://business.safety.google/privacy",
-"https://developers.facebook.com/docs/facebook-login/permissions",
-"https://facebook.com/WilliamsForKY",
-"https://facebook.com/about/privacy",
-"https://facebook.com/help/247395082112892",
-"https://facebook.com/privacy/policy",
-"https://instagram.com/williamsforky1",
-"https://policies.google.com/technologies/partner-sites",
-"https://security.google.com/settings/security/permissions",
-"https://squarespace.com/privacy",
-"https://support.google.com/analytics/answer/12017362?hl=en&ref_topic=2919631",
-"https://tiktok integration and embedded content this website embeds videos from tiktok. these embeds may use trackers and cookies from bytedance (tiktok\u2019s parent company), which can collect interaction and behavioral data. users are encouraged to review tiktok\u2019s privacy policy for more information.  personal data processed: trackers, device information, usage data service provided by: bytedance ltd. \u2013 privacy policy/",
-"https://tiktok.com/@williamsforky1",
-"https://tools.google.com/dlpage/gaoptout?hl=en",
-"https://williamsforky.com/cart",
-"https://williamsforky.com/contact",
-"https://williamsforky.com/cookie-policy",
-"https://williamsforky.com/drew",
-"https://williamsforky.com/mutual-aid",
-"https://williamsforky.com/policy",
-"https://williamsforky.com/privacy-policy",
-"https://williamsforky.com/s/Williams-for-Kentucky-Contribution-Form",
-"https://williamsforky.com/terms-and-condtitions",
-"https://williamsforky.com/volunteer",
-"https://x.com/Williamsforky1"
+{
+"text": "0",
+"href": "https://www.williamsforky.com/cart"
+},
+{
+"text": "Ask to port your data to another service",
+"href": "mailto:campaign@williamsforky.com?subject=Right+to+data+portability&body=My+name+is+%5BName%5D+%5BSurname%5D+and+I+would+like+you+to+provide+me+with+a+copy+of+all+personal+data+that+your+organization+holds+about+me+in+a+structured%2C+commonly+used%2C+and+machine-readable+format.If+you+require+any+further+information+from+me+to+process+these+requests%2C+please+let+me+know+promptly.Thank+you+for+your+attention+to+this+matter.Sincerely%2C+%5BYour+Name%5D"
+},
+{
+"text": "Ask us to be forgotten (delete the information we hold on you)",
+"href": "mailto:campaign@williamsforky.com?subject=Right+to+be+forgotten&body=My+name+is+%5BName%5D+%5BSurname%5D+and+I+would+like+to+request+the+deletion+of+the+following+personal+data+your+organization+holds+about+me%3A+%5BList+the+personal+information+you+want+to+be+deleted+%28be+specific.+Include+details+or+dates+that+will+help+us+find+the+information+you+want+to+delete%29.+If+you+don%E2%80%99t+have+a+specific+list+write+%E2%80%9Cof+all+personal+data+your+organization+holds+about+me%E2%80%9D%5D.+If+you+require+any+further+information+from+me+to+process+these+requests%2C+please+let+me+know+promptly.Thank+you+for+your+attention+to+this+matter.Sincerely%2C+%5BYour+Name%5D"
+},
+{
+"text": "Ask us to correct information we hold on you",
+"href": "mailto:campaign@williamsforky.com?subject=Right+to+rectification&body=My+name+is+%5BName%5D+%5BSurname%5D+and+I+have+identified+some+inaccuracies+in+my+personal+data+held+by+your+organization.+Specifically%3A+%5Blist+and+describe+the+inaccuracies%2C+such+as+incorrect+address%2C+outdated+phone+number%2C+etc.%5D.+Therefore%2C+I+would+like+you+to+rectify+these+inaccuracies.If+you+require+any+further+information+from+me+to+process+these+requests%2C+please+let+me+know+promptly.Thank+you+for+your+attention+to+this+matter.Sincerely%2C+%5BYour+Name%5D"
+},
+{
+"text": "Ask us to know and access the information we hold on you",
+"href": "mailto:campaign@williamsforky.com?subject=Right+of+access&body=My+name+is+%5BName%5D+%5BSurname%5D+and+I+would+like+to+request+access+to+the+following+personal+data+your+organization+holds+about+me%3A+%5BList+the+personal+information+you+want+%28be+specific+about+the+information+you%E2%80%99re+asking+for%2C+and+where+relevant+say+what+information+you+don%E2%80%99t+need.+Include+details+or+dates+that+will+help+us+find+the+information+you+want%29.+If+you+don%27t+have+a+specific+list+write+%22to+all+personal+data+your+organization+holds+about+me%22%5D.+If+you+require+any+further+information+from+me+to+process+these+requests%2C+please+let+me+know+promptly.Thank+you+for+your+attention+to+this+matter.Sincerely%2C+%5BYour+Name%5D"
+},
+{
+"text": "Business Data page",
+"href": "https://business.safety.google/privacy/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.williamsforky.com/contact"
+},
+{
+"text": "Cookie Policy",
+"href": "https://www.williamsforky.com/cookie-policy"
+},
+{
+"text": "Donate by Mail",
+"href": "https://www.williamsforky.com/s/Williams-for-Kentucky-Contribution-Form"
+},
+{
+"text": "Drew",
+"href": "https://www.williamsforky.com/drew"
+},
+{
+"text": "Facebook permissions documentation",
+"href": "https://developers.facebook.com/docs/facebook-login/permissions"
+},
+{
+"text": "Facebook privacy policy",
+"href": "https://www.facebook.com/about/privacy/"
+},
+{
+"text": "Google’s official documentation",
+"href": "https://support.google.com/analytics/answer/12017362?hl=en&ref_topic=2919631"
+},
+{
+"text": "Mutual Aid",
+"href": "https://www.williamsforky.com/mutual-aid"
+},
+{
+"text": "Network Advertising Initiative opt-out page",
+"href": "http://optout.networkadvertising.org/?c=1"
+},
+{
+"text": "Opt out",
+"href": "https://security.google.com/settings/security/permissions"
+},
+{
+"text": "Opt out",
+"href": "https://tools.google.com/dlpage/gaoptout?hl=en"
+},
+{
+"text": "Opt out",
+"href": "https://www.facebook.com/help/247395082112892"
+},
+{
+"text": "Policy Plans",
+"href": "https://www.williamsforky.com/policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://business.safety.google/privacy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tiktok%20integration%20and%20embedded%20content%20this%20website%20embeds%20videos%20from%20tiktok.%20these%20embeds%20may%20use%20trackers%20and%20cookies%20from%20bytedance%20(tiktok%e2%80%99s%20parent%20company),%20which%20can%20collect%20interaction%20and%20behavioral%20data.%20users%20are%20encouraged%20to%20review%20tiktok%e2%80%99s%20privacy%20policy%20for%20more%20information.%20%20personal%20data%20processed:%20trackers,%20device%20information,%20usage%20data%20service%20provided%20by:%20bytedance%20ltd.%20%e2%80%93%20privacy%20policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.facebook.com/privacy/policy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.squarespace.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.williamsforky.com/privacy-policy"
+},
+{
+"text": "TELL ME ABOUT IT",
+"href": "https://www.williamsforky.com/contact"
+},
+{
+"text": "Terms + Conditions",
+"href": "https://www.williamsforky.com/terms-and-condtitions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.williamsforky.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/williamsforky1.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WilliamsForKY"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/williamsforky1/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@williamsforky1"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Williamsforky1"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@williamsforky.com"
+},
+{
+"text": "partner policy",
+"href": "https://policies.google.com/technologies/partner-sites"
+},
+{
+"text": "security settings page",
+"href": "https://security.google.com/settings/security/permissions"
+}
 ]

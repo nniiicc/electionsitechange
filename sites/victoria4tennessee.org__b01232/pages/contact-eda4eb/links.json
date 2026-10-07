@@ -1,19 +1,78 @@
 [
-"https://designedtorun.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSfQXTOnPMswpV3df3fSV8U3MkHdFpZLPfhTGD3ebXXrg4nhGQ/viewform",
-"https://facebook.com/profile.php?id=61557315091623",
-"https://instagram.com/victoria4congress",
-"https://secure.actblue.com/donate/broderickfortennessee",
-"https://secure.actblue.com/donate/broderickfortennessee?redcode=websiteheader",
-"https://tiktok.com/@victoria4congresstn",
-"https://victoria4congress-shop.fourthwall.com/",
-"https://victoria4tennessee.myflodesk.com/request4signs",
-"https://victoria4tennessee.org/",
-"https://victoria4tennessee.org/_sites/www.victoria4tennessee.org/contact",
-"https://victoria4tennessee.org/about",
-"https://victoria4tennessee.org/election-info",
-"https://victoria4tennessee.org/events",
-"https://victoria4tennessee.org/more-about-my-platform",
-"https://victoria4tennessee.org/privacy-policy",
-"https://x.com/victoria4tn"
+{
+"text": "About",
+"href": "https://www.victoria4tennessee.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.victoria4tennessee.org/_sites/www.victoria4tennessee.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/broderickfortennessee"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/broderickfortennessee?redcode=websiteheader"
+},
+{
+"text": "Events",
+"href": "https://www.victoria4tennessee.org/events"
+},
+{
+"text": "Home",
+"href": "https://www.victoria4tennessee.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.victoria4tennessee.org/more-about-my-platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.victoria4tennessee.org/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Request a Sign",
+"href": "https://victoria4tennessee.myflodesk.com/request4signs"
+},
+{
+"text": "Shop",
+"href": "https://victoria4congress-shop.fourthwall.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfQXTOnPMswpV3df3fSV8U3MkHdFpZLPfhTGD3ebXXrg4nhGQ/viewform"
+},
+{
+"text": "Voting",
+"href": "https://www.victoria4tennessee.org/election-info"
+},
+{
+"text": "[image: Victoria Broderick for U.S. Congress]",
+"href": "https://www.victoria4tennessee.org/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61557315091623"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/victoria4congress"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@victoria4congresstn"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/victoria4tn"
+},
+{
+"text": "victoria4congressinfo@gmail.com.",
+"href": "mailto:victoria4congressinfo@gmail.com"
+}
 ]

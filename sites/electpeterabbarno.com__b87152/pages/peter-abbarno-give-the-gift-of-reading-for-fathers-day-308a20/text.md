@@ -1,4 +1,6 @@
-June is a special month for families.
+Stronger Families.
+Stronger Communities.
+Stronger Washington ABOUT ISSUES NEWS LEGISLATURE VOTER INFO BLOG DONATE Follow Follow Follow June is a special month for families.
 As we celebrate Father’s Day and recognize the role fathers, grandfathers, stepfathers and positive male role models play in shaping the next generation, it is also an important reminder of one of the most meaningful things adults can do with a child: read together.
 Recently, I attended Dolly Days hosted by the United Way of Lewis County and the Lewis County Rotary Foundation, helping raise awareness and money for Dolly Parton’s Imagination Library and early childhood literacy efforts throughout Washington state.
 The event celebrated more than books.
@@ -35,12 +37,17 @@ Early learning is not only an educational issue.
 It is also a workforce development issue, a family issue, and a community issue.
 I encourage our community to join the Imagination Library.
 Only $30 per year will put books in the hands of a child for a whole year; and only $150 will make sure that children have a book every month from birth until they go to kindergarten.
-It is an amazing investment, and you can invest generally or enroll a child or family in the program at lewiscountyuw.com.
+It is an amazing investment, and you can invest generally or enroll a child or family in the program at lewiscountyuw.com .
 As we celebrate Father’s Day in June, take time to read with the children.
 It does not require expensive technology or complicated programs.
-Sometimes the most meaningful investment we can make is simply sitting down together with a good book.
-•••
-Commentary by state Rep.
-Peter Abbarno for the Chronicle
-Rep.
-Peter Abbarno, R-Chehalis, represents the 20th Legislative District and is the House Republican Caucus chair.
+Sometimes the most meaningful investment we can make is simply sitting down together with a good book. ••• Commentary by state Rep.
+Peter Abbarno for the Chronicle Rep.
+Peter Abbarno, R-Chehalis, represents the 20th Legislative District and is the House Republican Caucus chair. ← Previous Article Next Article → Most Recent Posts Lewis County Public Health building to be modernized Oct 2, 2026 | Uncategorized In the Chronicle The Lewis County Public Health and Social Services building in Chehalis has long been in need of an upgrade.
+Soon, it will get one thanks to a $1.5 million direct allocation from the state's 2026 supplemental capital budget secured in large part by...
+Making Home Energy Improvements Work Better for Washington Communities Aug 27, 2026 | Blog For many Washington families, particularly those living in older homes and rural communities, energy efficiency isn't an abstract policy issue.
+It can mean a warmer home in the winter, lower monthly utility bills, needed home repairs, and a safer and healthier place...
+Protecting Washington’s Working Lands and Strengthening Rural Communities Aug 27, 2026 | Blog Washington’s farms, forests, rivers, and working lands are part of what makes our state special.
+They also support thousands of jobs, produce food and timber, protect habitat and water quality, and sustain rural communities across our state.
+As Assistant Ranking...
+Stay up to date on the lastest news from Olympia.
+Get Peter's Newsletter Paid for by the committee to elect Peter Abbarno | Designed by The Silver Agency English Español ( Spanish )

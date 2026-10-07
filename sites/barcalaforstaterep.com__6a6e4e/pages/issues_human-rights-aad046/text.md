@@ -1,5 +1,6 @@
-Accountability and Transparency
-Accountability and transparency are the foundation of good government.
+Meet Jessie Issues Volunteer Contribute Events Endorsements SHOP Accountability and Transparency Accountability and transparency are the foundation of good government.
 I believe elected officials work for the people and should be open, honest, and accessible in every decision they make.
 That means clear communication with constituents, responsible use of taxpayer dollars, and a willingness to listen and answer tough questions.
-By holding ourselves to high ethical standards and putting the public interest first, we can restore trust in government and ensure our leaders are truly accountable to the people they serve.
+By holding ourselves to high ethical standards and putting the public interest first, we can restore trust in government and ensure our leaders are truly accountable to the people they serve. « Previous: Affordability Next: Veterans' Services and Mental Health » Voter Information Endorsements Make Endorsement Events Photos Contact SHOP News Jessie Barcala is a former member of the USAF.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the USAF, the Department of Defense or any branch of U.S. government.
+Paid for by Committee to Elect Jessie Barcala Powered by CampaignPartner.com - Political Websites Meet Jessie Issues Volunteer Contribute Events Endorsements SHOP Voter Information Make Endorsement Photos Contact News Close Menu

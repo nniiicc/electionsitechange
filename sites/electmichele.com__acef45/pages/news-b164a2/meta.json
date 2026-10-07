@@ -1,7 +1,11 @@
 {
  "description": "Get news about what is going on for Team Michele. Elect Michele Reneau for TN House Representative, District 27.",
  "final_url": "https://www.electmichele.com/news",
- "paid_for_by": "Paid for by Friends to Elect Michele Reneau, Treasurer Laura Davis EMAIL MICHELE Terms of Use &nbsp; |&nbsp; Privacy Policy Meet Michele Issues News Jo",
+ "fingerprint": "c5f5c7cf8e92e81ce2fad03b92ff2121899f77ad",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends to Elect Michele Reneau, Treasurer Laura Davis EMAIL MICHELE Terms of Use",
  "title": "News | Elect Michele Reneau",
- "years_mentioned": []
+ "years_mentioned": [
+  "1959"
+ ]
 }

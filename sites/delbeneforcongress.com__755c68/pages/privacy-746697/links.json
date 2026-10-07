@@ -1,15 +1,58 @@
 [
-"https://delbeneforcongress.com/",
-"https://delbeneforcongress.com/about",
-"https://delbeneforcongress.com/endorsements",
-"https://delbeneforcongress.com/issues",
-"https://delbeneforcongress.com/news",
-"https://delbeneforcongress.com/privacy",
-"https://delbeneforcongress.com/wp-content/uploads/2022/07/SuzanDelBene-DistrictMap-1.pdf",
-"https://facebook.com/SuzanDelBene",
-"https://instagram.com/suzan.delbene",
-"https://secure.actblue.com/donate/suzan-delbene-2018-website",
-"https://secure.ngpvan.com/ZgU8jAjRVkKmNyqnxhd99w2?ms=web21_2102_SignUp&noskip=true",
-"https://secure.ngpvan.com/foftJfB5wU-VixByNp4f_Q2?ms=web21_2102_Volunteer&noskip=true",
-"https://twitter.com/SuzanDelBene"
+{
+"text": "1st Congressional District",
+"href": "https://delbeneforcongress.com/wp-content/uploads/2022/07/SuzanDelBene-DistrictMap-1.pdf"
+},
+{
+"text": "About",
+"href": "https://delbeneforcongress.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/suzan-delbene-2018-website"
+},
+{
+"text": "Endorsements",
+"href": "https://delbeneforcongress.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://delbeneforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://delbeneforcongress.com/issues/"
+},
+{
+"text": "News",
+"href": "https://delbeneforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://delbeneforcongress.com/privacy/"
+},
+{
+"text": "Sign Up",
+"href": "https://secure.ngpvan.com/ZgU8jAjRVkKmNyqnxhd99w2?ms=web21_2102_SignUp&noskip=true"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/foftJfB5wU-VixByNp4f_Q2?ms=web21_2102_Volunteer&noskip=true"
+},
+{
+"text": "[image]",
+"href": "https://delbeneforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/SuzanDelBene"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SuzanDelBene"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/suzan.delbene/"
+}
 ]

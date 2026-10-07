@@ -1,21 +1,78 @@
 [
-"https://absentee.vote.org/",
-"https://campaignpartner.com/",
-"https://campaignpartner.com/state_election_information.html",
-"https://facebook.com/Gibson4coloradodistrict36",
-"https://gibsonforcostatehouse36.com/",
-"https://gibsonforcostatehouse36.com/contact",
-"https://gibsonforcostatehouse36.com/do-less",
-"https://gibsonforcostatehouse36.com/events",
-"https://gibsonforcostatehouse36.com/home",
-"https://gibsonforcostatehouse36.com/issues",
-"https://gibsonforcostatehouse36.com/meet_andrew",
-"https://gibsonforcostatehouse36.com/photos",
-"https://gibsonforcostatehouse36.com/privacy-policy",
-"https://gibsonforcostatehouse36.com/view-endorsements",
-"https://gibsonforcostatehouse36.com/volunteer",
-"https://gibsonforcostatehouse36.com/vote",
-"https://gibsonforcostatehouse36.com/yard-sign",
-"https://register.vote.org/",
-"https://verify.vote.org/"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.gibsonforcostatehouse36.com/contact"
+},
+{
+"text": "Do Less",
+"href": "https://www.gibsonforcostatehouse36.com/do-less"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gibsonforcostatehouse36.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.gibsonforcostatehouse36.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.gibsonforcostatehouse36.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.gibsonforcostatehouse36.com/issues"
+},
+{
+"text": "Meet Andrew",
+"href": "https://www.gibsonforcostatehouse36.com/meet_andrew"
+},
+{
+"text": "Photos",
+"href": "https://www.gibsonforcostatehouse36.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.gibsonforcostatehouse36.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://register.vote.org/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://absentee.vote.org/"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://verify.vote.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.gibsonforcostatehouse36.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.gibsonforcostatehouse36.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.gibsonforcostatehouse36.com/yard-sign"
+},
+{
+"text": "[image: Andrew Gibson Colorado State House • District 36 Yes, We Can Do Less!]",
+"href": "https://www.gibsonforcostatehouse36.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Gibson4coloradodistrict36"
+},
+{
+"text": "click here to find your state",
+"href": "https://www.campaignpartner.com/state_election_information.html"
+}
 ]

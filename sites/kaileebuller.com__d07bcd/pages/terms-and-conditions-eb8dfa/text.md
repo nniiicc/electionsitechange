@@ -1,6 +1,5 @@
-Terms & Conditions
-Kailee Buller for Congress (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Kailee Buller for Congress), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
-If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
+Kitchen Table Solutions Tour Media Blog Issues Volunteer Yard Sign Request Newsletter Sign Up Donate Terms & Conditions Kailee Buller for Congress (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Kailee Buller for Congress ), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “ STOP ” to any mobile message from Us in order to opt out of the Program.
 User Opt In: Kailee Buller for Congress : You’ve subscribed to receive messages from Kailee Buller for Congress .
 Msg & Data Rates May Apply.
 Message frequency varies.
@@ -8,36 +7,31 @@ The Program allows users to receive SMS/MMS mobile messages by users affirmative
 Regardless of the opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
 The mobile messaging service used by Us to communicate with you requires human intervention for Our mobile messages to be initiated, and thus Our mobile messages are not sent to you by an automatic telephone dialing system (“ATDS” or “autodialer”).
 Nevertheless, by participating in the Program, you agree to receive autodialed marketing mobile messages and you understand that consent is not required to make any purchase from Us.
-Program Description: Without limiting the scope of the Program, users that opt into the Program can expect to receive messages concerning Kailee Buller for Congress.
+Program Description: Without limiting the scope of the Program, users that opt into the Program can expect to receive messages concerning Kailee Buller for Congress .
 Cost and Frequency: Message and data rates may apply.
 The Program involves recurring mobile messages, and additional mobile messages may be sent based on your interaction with Us.
-User Opt Out and Additional Commands: Kailee Buller for Congress: You are unsubscribed and will no longer receive messages from Kailee Buller for Congress.
+User Opt Out and Additional Commands: Kailee Buller for Congress : You are unsubscribed and will no longer receive messages from Kailee Buller for Congress .
 To opt out (discontinue participation in Program), reply “STOP” to any of Our mobile messages from your mobile device.
 This is the easiest and preferred method to opt out of the Program.
 You may receive an additional mobile message confirming your decision to opt out.
 You may also opt out by texting “QUIT”, “END”, “CANCEL”, “UNSUBSCRIBE”, or “STOP ALL” to any of Our mobile messages you receive, or by contacting Us via the means provided above and clearly communicating your intent to unsubscribe from the Program.
 For additional support, text “HELP” to get help.
-Kailee Buller for Congress: Please reach out to us at ([email protected]) for help from Kailee Buller for Congress.
+Kailee Buller for Congress : Please reach out to us at ( [email protected] ) for help from Kailee Buller for Congress .
 MMS Disclosure: The Program will send SMS MTs if your mobile device does not support MMS messaging.
 Our Warranty: We will not be liable for any delays or failures in the receipt of any mobile messages connected with this Program.
 Delivery of mobile messages is subject to effective transmission from your wireless service provider/network operator, and is outside of Our control.
-10DLC Compliance:
-A.
-Consent
-By providing your mobile phone number, you consent to receive SMS/MMS messages from Kailee Buller for Congress .
+10DLC Compliance: A.
+Consent By providing your mobile phone number, you consent to receive SMS/MMS messages from Kailee Buller for Congress .
 Consent to receive campaign text messages is not required as a condition of purchasing any goods or services.
 B.
-Message Frequency
-Message frequency varies, typically up to 3 messages per week.
+Message Frequency Message frequency varies, typically up to 3 messages per week.
 Standard message and data rates may apply.
 C.
-Opt-Out
-You may opt out of receiving text messages at any time by texting STOP.
+Opt-Out You may opt out of receiving text messages at any time by texting STOP.
 You will receive a one-time opt-out confirmation text message.
 If you need assistance, text HELP.
 D.
-Data Privacy
-We will not share or sell your personal information, including your phone number, to any third parties except as required by law.
+Data Privacy We will not share or sell your personal information, including your phone number, to any third parties except as required by law.
 For more details, please see our Privacy Policy.
 Privacy Policy: We respect your right to privacy.
 You can view our privacy policy here: We will only use information you provide to transmit your mobile messages and respond to you, if necessary.
@@ -75,3 +69,4 @@ We reserves the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
+Donate Follow Follow Follow Follow PAID FOR BY Kailee for Congress Privacy Policy | Terms & Conditions Contact us: [email protected]

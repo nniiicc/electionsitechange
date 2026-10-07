@@ -1,14 +1,62 @@
 [
-"https://buzz360.app/",
-"https://facebook.com/profile.php?id=61559002017911",
-"https://secure.winred.com/campaign-for-thomas-j-sexton/donate-today",
-"https://votesexton.com/",
-"https://votesexton.com/about-tom.html",
-"https://votesexton.com/contact-us.html",
-"https://votesexton.com/events/index.html",
-"https://votesexton.com/get-involved.html",
-"https://votesexton.com/home.html",
-"https://votesexton.com/homepage.html",
-"https://votesexton.com/issues.html",
-"https://votesexton.com/mobile-terms-of-serv.html"
+{
+"text": "About Tom",
+"href": "https://www.votesexton.com/about-tom.html"
+},
+{
+"text": "Contact Us",
+"href": "https://www.votesexton.com/contact-us.html"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/campaign-for-thomas-j-sexton/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votesexton.com/homepage.html"
+},
+{
+"text": "Events",
+"href": "https://www.votesexton.com/events/index.html"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votesexton.com/get-involved.html"
+},
+{
+"text": "Home",
+"href": "https://www.votesexton.com/home.html"
+},
+{
+"text": "Issues",
+"href": "https://www.votesexton.com/issues.html"
+},
+{
+"text": "Media@MPPOA.com",
+"href": "mailto:Media@MPPOA.com"
+},
+{
+"text": "Mobile Terms & Privacy",
+"href": "https://www.votesexton.com/mobile-terms-of-serv.html"
+},
+{
+"text": "[image: Tom Sexton for House]",
+"href": "https://www.votesexton.com/"
+},
+{
+"text": "[image]",
+"href": "https://buzz360.app/"
+},
+{
+"text": "﻿",
+"href": "https://www.facebook.com/profile.php?id=61559002017911"
+},
+{
+"text": "﻿",
+"href": "tel:5551212"
+},
+{
+"text": "﻿﻿",
+"href": "mailto:tomfor19b@gmail.com"
+}
 ]

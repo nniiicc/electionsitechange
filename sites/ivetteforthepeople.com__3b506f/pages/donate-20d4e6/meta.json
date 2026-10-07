@@ -1,7 +1,9 @@
 {
  "description": "Support Ivette for the People by making a donation to her campaign for Iowa House District 33. Your contribution makes a difference!",
  "final_url": "https://ivetteforthepeople.com/donate",
- "paid_for_by": "Paid For By Ivette For The People Campaign This website uses cookies",
+ "fingerprint": "8f250e33bbf710c4849bf4027691843ccb52b3ef",
+ "format": 3,
+ "paid_for_by": "Paid For By Ivette For The People Campaign",
  "title": "Donate",
  "years_mentioned": []
 }

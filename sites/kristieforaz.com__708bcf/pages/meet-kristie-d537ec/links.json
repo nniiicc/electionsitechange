@@ -1,9 +1,34 @@
 [
-"https://kristieforaz.com/",
-"https://kristieforaz.com/cart",
-"https://kristieforaz.com/endorsements",
-"https://kristieforaz.com/media",
-"https://kristieforaz.com/meet-kristie",
-"https://kristieforaz.com/priorities",
-"https://secure.actblue.com/donate/kristie-o-brien-2"
+{
+"text": "0",
+"href": "https://www.kristieforaz.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kristie-o-brien-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kristieforaz.com/endorsements"
+},
+{
+"text": "Media",
+"href": "https://www.kristieforaz.com/media"
+},
+{
+"text": "Meet Kristie",
+"href": "https://www.kristieforaz.com/meet-kristie"
+},
+{
+"text": "Priorities",
+"href": "https://www.kristieforaz.com/priorities"
+},
+{
+"text": "[image: Kristie O’Brien. Arizona State Senate]",
+"href": "https://www.kristieforaz.com/"
+},
+{
+"text": "info@KristieOBrienForAZ.com",
+"href": "mailto:info@KristieObrienForAZ.com"
+}
 ]

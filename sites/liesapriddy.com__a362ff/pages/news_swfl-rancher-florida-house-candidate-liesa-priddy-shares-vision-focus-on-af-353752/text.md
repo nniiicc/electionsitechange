@@ -1,4 +1,3 @@
-SWFL rancher, Florida House candidate Liesa Priddy shares vision, focus on affordability
-Liesa Priddy is a long-time Immokalee farmer and landowner, and now she has her sights set on the District 82 seat for the Florida House of Representatives.
-Written By JJ Whitson
-Next
+0 Skip to Content Home Q & A with Liesa Priddy News Endorsements Photo Gallery Join Liesa Donate Open Menu Close Menu Home Q & A with Liesa Priddy News Endorsements Photo Gallery Join Liesa Donate Open Menu Close Menu Home Q & A with Liesa Priddy News Endorsements Photo Gallery Join Liesa Donate SWFL rancher, Florida House candidate Liesa Priddy shares vision, focus on affordability Jul 15 Written By JJ Whitson Liesa Priddy is a long-time Immokalee farmer and landowner, and now she has her sights set on the District 82 seat for the Florida House of Representatives.
+Read more.
+JJ Whitson Next Next Florida Chamber of Commerce Endorses Liesa Priddy for Florida House Privacy Policy Terms & Conditions Paid by Liesa Priddy, Republican, for Florida House Facebook Subscribe to Texts ‍

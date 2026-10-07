@@ -1,5 +1,18 @@
 [
-"https://norwoodforok.com/",
-"https://norwoodforok.com/donate",
-"https://norwoodforok.com/privacy-policy"
+{
+"text": "About Kevin",
+"href": "https://www.norwoodforok.com"
+},
+{
+"text": "Donate",
+"href": "https://www.norwoodforok.com/donate"
+},
+{
+"text": "Election Information",
+"href": "https://www.norwoodforok.com"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.norwoodforok.com/privacy-policy"
+}
 ]

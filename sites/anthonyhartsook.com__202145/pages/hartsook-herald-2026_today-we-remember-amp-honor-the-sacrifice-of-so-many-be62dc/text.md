@@ -1,5 +1,5 @@
-Today, We Remember & Honor The Sacrifice Of So Many.
-On this Memorial Day as we celebrate the 250th anniversary of the United States and the 150th anniversary of Colorado, let us reflect on the sacrifices of our beloved veteran brothers and sisters on this Memorial Day.
+0 Skip to Content About Anthony About Legislative Accomplishments Gallery Vision News In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Open Menu Close Menu About Anthony About Legislative Accomplishments Gallery Vision News In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Open Menu Close Menu Folder: About Anthony Back About Legislative Accomplishments Gallery Vision Folder: News Back In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Today, We Remember & Honor The Sacrifice Of So Many.
+May 25 Written By Jack Cutter On this Memorial Day as we celebrate the 250th anniversary of the United States and the 150th anniversary of Colorado, let us reflect on the sacrifices of our beloved veteran brothers and sisters on this Memorial Day.
 I read in an American Legion article, that well over a million Americans have died in the service of the United States.
 Today, we remember and honor their sacrifice.
 I served in the U.S.
@@ -26,3 +26,4 @@ It can be a heavy burden on the families left behind, but this Memorial Day we r
 Their dedication to duty and selfless service is embodied in the Bible verse: “Greater love has no one than this: to lay down one’s life for one’s friends.” – John chapter 15, verse 13.
 May God bless you, your family, and all the veterans that have died in the service of our country at home and abroad.
 And may God bless the United States of America.
+Speaking at American Legion Cemetery In Elizabeth on Memorial Day Photo courtesy of History.com Jack Cutter Next Next Last-Minute Bill Will Raise Energy and Heating Costs for Colorado Families Privacy Policy “Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.” PAID FOR BY HARTSOOK 4 HOUSE; REGISTERED AGENT MARJORIE KLEIN

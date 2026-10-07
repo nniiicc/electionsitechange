@@ -1,20 +1,11 @@
-Congratulations are in Order
-The joys of Representing Georgia District 111 include being able to recognize and award great achievements of dedicated leaders.
-Congratulations to two of the best–Walton [More]
-Each year as we observe Memorial Day, let us never forget the meaning of the holiday & the ultimate sacrifices our men and women have [More]
-We must always stand with Israel and the Jewish People.
+Rey Martinez- GA State Rep - District 111 Home The Latest Issues & Priorities At the Capitol District 111 Map District News, Notes & Photos Donate The Latest Congratulations are in Order December 20, 2024 Rey Martinez 0 The joys of Representing Georgia District 111 include being able to recognize and award great achievements of dedicated leaders.
+Congratulations to two of the best–Walton [More] Memorial Day- Looking Back & Ahead June 5, 2024 Rey Martinez 0 Each year as we observe Memorial Day, let us never forget the meaning of the holiday & the ultimate sacrifices our men and women have [More] We Must Always Stand with Israel May 29, 2024 Rey Martinez 0 We must always stand with Israel and the Jewish People.
 Somber but Beautiful Yom HaZikaron event.
-(Memorial Day) We pause to Honor & Remember the [More]
-This year’s legislative session was very productive as we passed a number of bills that were high on my priority list.
-Many of these bills [More]
-In March, I addressed the members of the Georgia State House about the horrible effects of the Democrat open border policy.
+(Memorial Day) We pause to Honor & Remember the [More] 2024 Legislative Session Wrap-Up April 5, 2024 Rey Martinez 0 This year’s legislative session was very productive as we passed a number of bills that were high on my priority list.
+Many of these bills [More] Illegal Immigrant Crime- A National Crisis March 4, 2024 Rey Martinez 0 In March, I addressed the members of the Georgia State House about the horrible effects of the Democrat open border policy.
 I invite your comments.
-As reported in The Epoch Times, on February 13th, Governor Kemp announced an estimated 15-20 more National Guardsmen would be deployed to Texas to set [More]
-Members of the House will be working with Governor Kemp, Speaker Burns and Appropriations chairman Hatchett to pass a balanced budget that helps families and [More]
-Week 2 was mostly taken up with discussions about the budget.
-While some states are seriously underwater with millions or billions of dollars in debt, [More]
-The first week of each legislation session is mostly devoted to discussing the most pressing issues and the legislation that will potentially address them.
-Like [More]
-I’ve been looking forward to January 8th, the first day of the 2024 Legislative Session.
-It’s an opportunity to continue the work we did last [More]
-Copyright © 2026 | WordPress Theme by MH Themes
+I Stand With Governor Kemp and Against Illegal Immigration February 16, 2024 Rey Martinez 0 As reported in The Epoch Times, on February 13th, Governor Kemp announced an estimated 15-20 more National Guardsmen would be deployed to Texas to set [More] FY 2025 Balanced Budget February 4, 2024 Rey Martinez 0 Members of the House will be working with Governor Kemp, Speaker Burns and Appropriations chairman Hatchett to pass a balanced budget that helps families and [More] 2024 Legislative Session, Weeks 2 & 3 February 1, 2024 Rey Martinez 0 Week 2 was mostly taken up with discussions about the budget.
+While some states are seriously underwater with millions or billions of dollars in debt, [More] 2024 Legislative Session- Week 1 January 20, 2024 Rey Martinez 0 The first week of each legislation session is mostly devoted to discussing the most pressing issues and the legislation that will potentially address them.
+Like [More] The 2024 Legislative Session January 7, 2024 Rey Martinez 2 I’ve been looking forward to January 8th, the first day of the 2024 Legislative Session.
+It’s an opportunity to continue the work we did last [More] Posts pagination 1 2 » Subscribe Name: Email: Making Life More Affordable -- You can support my work to reduce taxes by clicking the link below to donate to my campaign.
+Donate Latest Posts 2026 Legislative Wrap-UP Congratulations are in Order Memorial Day- Looking Back & Ahead We Must Always Stand with Israel 2024 Legislative Session Wrap-Up Always great to see students from District 111 at the Capitol Copyright © # | WordPress Theme by MH Themes

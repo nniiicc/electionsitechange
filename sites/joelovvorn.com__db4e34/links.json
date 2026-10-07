@@ -1,8 +1,50 @@
 [
-"http://joelovvorn.com/About",
-"http://joelovvorn.com/Accomplishments",
-"http://joelovvorn.com/Contact",
-"http://joelovvorn.com/Donations",
-"http://joelovvorn.com/Privacy",
-"https://alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action"
+{
+"text": "About Joe",
+"href": "http://www.joelovvorn.com/About/"
+},
+{
+"text": "Accomplishments & Goals",
+"href": "http://www.joelovvorn.com/Accomplishments/"
+},
+{
+"text": "Contact",
+"href": "http://www.joelovvorn.com/Contact/"
+},
+{
+"text": "Donations",
+"href": "http://www.joelovvorn.com/Donations/"
+},
+{
+"text": "How Joe is Working For You",
+"href": "http://www.joelovvorn.com/Accomplishments/"
+},
+{
+"text": "How You Can Help Joe",
+"href": "http://www.joelovvorn.com/Contact/"
+},
+{
+"text": "Privacy Policy",
+"href": "http://www.joelovvorn.com/Privacy/"
+},
+{
+"text": "Who is Joe?",
+"href": "http://www.joelovvorn.com/About/"
+},
+{
+"text": "[image: Alabama Votes, The Sate of Alabama's Official Election Center]",
+"href": "https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action"
+},
+{
+"text": "[image]",
+"href": "http://www.joelovvorn.com/About/"
+},
+{
+"text": "[image]",
+"href": "http://www.joelovvorn.com/Accomplishments/"
+},
+{
+"text": "[image]",
+"href": "http://www.joelovvorn.com/Contact/"
+}
 ]

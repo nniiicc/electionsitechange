@@ -1,12 +1,58 @@
 [
-"https://facebook.com/profile.php?id=61588167586354",
-"https://instagram.com/ottermanforvermont",
-"https://ottermanforvt.com/",
-"https://ottermanforvt.com/about",
-"https://ottermanforvt.com/cart",
-"https://ottermanforvt.com/endorsements",
-"https://ottermanforvt.com/get-involved",
-"https://ottermanforvt.com/new-page",
-"https://ottermanforvt.com/press",
-"https://secure.actblue.com/donate/aiden-otterman-1"
+{
+"text": "0",
+"href": "https://www.ottermanforvt.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.ottermanforvt.com/about"
+},
+{
+"text": "Contact",
+"href": "mailto:info@ottermanforvt.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/aiden-otterman-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ottermanforvt.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ottermanforvt.com/get-involved"
+},
+{
+"text": "Get Involved!",
+"href": "https://www.ottermanforvt.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.ottermanforvt.com/"
+},
+{
+"text": "Meet Aiden",
+"href": "https://www.ottermanforvt.com/about"
+},
+{
+"text": "Platform",
+"href": "https://www.ottermanforvt.com/new-page"
+},
+{
+"text": "Press",
+"href": "https://www.ottermanforvt.com/press"
+},
+{
+"text": "[image: Otterman for House]",
+"href": "https://www.ottermanforvt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588167586354"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ottermanforvermont/"
+}
 ]

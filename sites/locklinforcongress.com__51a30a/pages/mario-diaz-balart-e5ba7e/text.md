@@ -1,10 +1,11 @@
-Mario Diaz-Balart has failed us over and over...
-This page will attempt to catalog the many failures of Mario Diaz-Balart.
-There are so many, but we will do our best to keep up with his incompetence...
-Mario Díaz-Balart misappropriates $400M...
-Despite being in office for 24 years, Mario Díaz-Balart still doesn't understand the expectations of his role.
+    ESPA Ñ OL MEET NICOLE arrow_drop_down OUR MISSION BIOGRAPHY ISSUES arrow_drop_down CORRUPTION SENIORS HEALTHCARE MY OPPONENT AFFORDABILITY IMMIGRATION IRAN WAR CUBA PALESTINE EPSTEIN ENDORSEMENTS DONATE GET INVOLVED arrow_drop_down EVENTS MERCHANDISE VOLUNTEER REGISTRY     0 Your Cart $ 0.00 USD : Remove Subtotal Pay with browser.
+Continue to Checkout No items found.
+Product is not available in this quantity.  Mario Diaz-Balart has failed us over and over... ‍ This page will attempt to catalog the many failures of Mario Diaz-Balart.
+There are so many, but we will do our best to keep up with his incompetence... ‍ ‍ Mario Díaz-Balart misappropriates $400M... ‍ Despite being in office for 24 years, Mario Díaz-Balart still doesn't understand the expectations of his role.
 In FL-26, families are getting crushed by rent, groceries, gas, and healthcare costs.
 Meanwhile, our corrupt representative, was funneling over $400 million in taxpayer dollars to Trump's billionaire ballroom vanity project.
 This is in-your-face corruption and Rep.
 Mario Diaz-Balart, the Trump-puppet, is happy to help.
-We literally cannot afford two more years of Mario Diaz-Balart:
+We literally cannot afford two more years of Mario Diaz-Balart: ‍ ‍ + + + + + Request Democrat Nicole Locklin for an Event: If you would like Nicole Locklin to come to your meeting, or any other type of event, please email your request to: info@locklinforcongress.com Nicole Locklin for U.S.
+Congress 1808 N.
+University Dr, Pembroke Pines, FL 33024 (786) 626-0772 Any individuals appearing in photos or videos on our website does not imply an endorsement of Nicole Locklin of that person or any organization they may be affiliated unless otherwise stated. ‍     Privacy Policy

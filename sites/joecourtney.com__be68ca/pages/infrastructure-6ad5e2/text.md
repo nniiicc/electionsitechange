@@ -1,7 +1,6 @@
-Investment in our state’s aging infrastructure is not just about updating our roads, bridges, rail, and transit lines, it’s also about good jobs and growing our economy.
+Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact INFRASTRUCTURE Rebuilding our Infrastructure Investment in our state’s aging infrastructure is not just about updating our roads, bridges, rail, and transit lines, it’s also about good jobs and growing our economy.
 That’s why Joe has worked in Connecticut and Washington to secure Congressional action on long-stalled efforts to update our infrastructure laws and put people to work.
-Learn more about Joe’s work:
-A historic new transportation law.
+Learn more about Joe’s work: A historic new transportation law.
 Joe helped pass the new Infrastructure Investment and Jobs Act, or IIJA, which finally makes good on the promise of rebuilding our nation’s aging infrastructure.
 The most significant revamp of our transportation infrastructure laws in 50 years, the IIJA means that Connecticut can now address the backlog of critical projects like the Gold Star Bridge in Groton, the Haddam Swing Bridge, and airports in Windham, Groton, and Danielson.
 For Connecticut, the law means a 32% increase in highway and other transit funding.
@@ -14,3 +13,4 @@ Across the region, sites known as “brownfields” – locations of former heav
 That’s why Joe has worked tirelessly to ensure federal investment to support this work in communities across eastern Connecticut.
 For example, he helped secure federal funds to kickstart the cleanup of the former Norwich Hospital site being redeveloped in Preston.
 And, Joe worked to secure support from the new infrastructure law to invest in projects in Vernon, Stafford, and New London.
+Courtney for Congress PO Box 1372 Vernon CT 06066 PH: (860) 885-4052 Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Paid for and Authorized by Joe Courtney for Congress

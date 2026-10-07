@@ -1,20 +1,98 @@
 [
-"http://facebook.com/christinahinesforcongress",
-"http://twitter.com/cbhines586",
-"https://bsky.app/profile/cbhines586.bsky.social",
-"https://calendar.google.com/calendar/render?action=TEMPLATE&text=Election+Day+%E2%80%94+Vote+Christina+Hines&dates=20261103%2F20261104&details=Election+Day+is+Tuesday%2C+November+3%2C+2026.%0A%0APolls+are+open+7%3A00+AM%E2%80%938%3A00+PM+EST.%0A%0AFind+your+polling+place%3A+https%3A%2F%2Fsos.state.mi.us",
-"https://christinahinesforcongress.com/",
-"https://christinahinesforcongress.com/cart",
-"https://christinahinesforcongress.com/home",
-"https://christinahinesforcongress.com/media",
-"https://christinahinesforcongress.com/voter-info-center",
-"https://instagram.com/christinahinesforcongress",
-"https://michigan.gov/sos/language-services",
-"https://mobilize.us/christinaforcongress",
-"https://mvic.sos.state.mi.us/Voter/Index",
-"https://outlook.live.com/calendar/0/deeplink/compose?subject=Election+Day+%E2%80%94+Vote+Christina+Hines&startdt=2026-11-03&enddt=2026-11-04&allday=true&body=Election+Day+is+Tuesday%2C+November+3%2C+2026.%0A%0APolls+are+open+7%3A00+AM%E2%80%938%3A00+PM+EST.%0A%0AFind+your+polling+place%3A+https%3A%2F%2Fsos.state.mi.us",
-"https://outlook.office.com/calendar/0/deeplink/compose?subject=Election+Day+%E2%80%94+Vote+Christina+Hines&startdt=2026-11-03&enddt=2026-11-04&allday=true&body=Election+Day+is+Tuesday%2C+November+3%2C+2026.%0A%0APolls+are+open+7%3A00+AM%E2%80%938%3A00+PM+EST.%0A%0AFind+your+polling+place%3A+https%3A%2F%2Fsos.state.mi.us",
-"https://secure.actblue.com/donate/christina-hines-website",
-"https://store.christinahinesforcongress.com/",
-"https://youtube.com/@ChristinaHinesforCongress"
+{
+"text": "0",
+"href": "https://www.christinahinesforcongress.com/cart"
+},
+{
+"text": "Apple Calendar / Outlook Desktop (.ics)",
+"href": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Christina%20Hines//Campaign//EN%0ACALSCALE:GREGORIAN%0ABEGIN:VEVENT%0AUID:electionday2026@christinahines.com%0ADTSTAMP:20260831T000000Z%0ADTSTART;VALUE=DATE:20261103%0ADTEND;VALUE=DATE:20261104%0ASUMMARY:Election%20Day%20%E2%80%94%20Vote%20Christina%20Hines%0ADESCRIPTION:Election%20Day%20is%20Tuesday%2C%20November%203%2C%202026.%5Cn%5CnPolls%20are%20open%207%3A00%20AM%E2%80%938%3A00%20PM%20EST.%5Cn%5CnFind%20your%20polling%20place:%20https%3A%2F%2Fsos.state.mi.us%0AEND:VEVENT%0AEND:VCALENDAR"
+},
+{
+"text": "Click this link",
+"href": "https://www.michigan.gov/sos/language-services"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/christina-hines-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.christinahinesforcongress.com/home#endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Election+Day+%E2%80%94+Vote+Christina+Hines&dates=20261103%2F20261104&details=Election+Day+is+Tuesday%2C+November+3%2C+2026.%0A%0APolls+are+open+7%3A00+AM%E2%80%938%3A00+PM+EST.%0A%0AFind+your+polling+place%3A+https%3A%2F%2Fsos.state.mi.us"
+},
+{
+"text": "MEDIA",
+"href": "https://www.christinahinesforcongress.com/media"
+},
+{
+"text": "Meet Christina",
+"href": "https://www.christinahinesforcongress.com/home#meet-christina"
+},
+{
+"text": "Microsoft 365",
+"href": "https://outlook.office.com/calendar/0/deeplink/compose?subject=Election+Day+%E2%80%94+Vote+Christina+Hines&startdt=%23&enddt=%23&allday=true&body=Election+Day+is+Tuesday%2C+November+3%2C+2026.%0A%0APolls+are+open+7%3A00+AM%E2%80%938%3A00+PM+EST.%0A%0AFind+your+polling+place%3A+https%3A%2F%2Fsos.state.mi.us"
+},
+{
+"text": "Outlook.com",
+"href": "https://outlook.live.com/calendar/0/deeplink/compose?subject=Election+Day+%E2%80%94+Vote+Christina+Hines&startdt=%23&enddt=%23&allday=true&body=Election+Day+is+Tuesday%2C+November+3%2C+2026.%0A%0APolls+are+open+7%3A00+AM%E2%80%938%3A00+PM+EST.%0A%0AFind+your+polling+place%3A+https%3A%2F%2Fsos.state.mi.us"
+},
+{
+"text": "Priorities",
+"href": "https://www.christinahinesforcongress.com/#priorities"
+},
+{
+"text": "Shop",
+"href": "https://store.christinahinesforcongress.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/christinaforcongress/"
+},
+{
+"text": "Voter Info Center",
+"href": "https://www.christinahinesforcongress.com/voter-info-center"
+},
+{
+"text": "Voter Information Center",
+"href": "https://mvic.sos.state.mi.us/Voter/Index/"
+},
+{
+"text": "[image: Christina Hines for Congress]",
+"href": "https://www.christinahinesforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.christinahinesforcongress.com/home"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/christinahinesforcongress"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/cbhines586"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/cbhines586.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/christinahinesforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ChristinaHinesforCongress"
+},
+{
+"text": "info@christinahinesforcongress.com",
+"href": "mailto:info@christinahinesforcongress.com "
+},
+{
+"text": "press@christinahinesforcongress.com",
+"href": "mailto:press@christinahinesforcongress.com"
+}
 ]

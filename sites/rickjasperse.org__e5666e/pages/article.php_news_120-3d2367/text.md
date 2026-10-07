@@ -1,5 +1,4 @@
-[May 15, 2022] | Tax Refund
-What a beautiful morning in North Georgia!
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK REPORT FROM THE CAPITOL [ May 15, 2022 ] | Tax Refund What a beautiful morning in North Georgia!
 Just had to say that, as we are very fortunate to live in a place as beautiful as this.
 Yesterday I was in town and was asked by a lady about her family?s Georgia Tax Refund.
 I have had a few of these questions, so I thought I would talk about it in this week?s article.
@@ -30,3 +29,4 @@ The Georgia Dept. of Revenue has a HB 1302 Tax Refund answer page on their websi
 Of course, you can always call me, too, if you have a question.
 Thank you for allowing me to serve as your State Representative for House District 11.
 Please be in touch with me on any matter of state government, at the Capitol, 404-656-7153 or by email at rick.jasperse@house.ga.gov. or here at home at 770-893-2039.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

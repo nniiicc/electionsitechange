@@ -1,7 +1,5 @@
-From $49 to $15 Million: How Rhonda Shader Helped Rescue a City, and Why She Believes Trump’s Tax Cuts Could Help Rescue California
-IWFeatures | November 12, 2025
-When Rhonda Shader first joined the Placentia City Council in northern Orange County, California, her new job came with a rude awakening: the city only had $49 in its bank account.
+Skip to content Home Meet Rhonda Issues Endorsements News Gallery Contact DONATE × Home Meet Rhonda Issues Endorsements News Gallery Contact DONATE From $49 to $15 Million: How Rhonda Shader Helped Rescue a City, and Why She Believes Trump’s Tax Cuts Could Help Rescue California IWFeatures | November 12, 2025 When Rhonda Shader first joined the Placentia City Council in northern Orange County, California, her new job came with a rude awakening: the city only had $49 in its bank account.
 Yet, by the time Shader left office eight years later, the city of Placentia had more than $15 million in reserves.
 That transformation, she explained, wasn’t a miracle nor a federal bailout.
 It took fiscal responsibility and the prioritization of free market policies through “long hours, a lot of tough votes, and a total change in mindset”––thanks to Shader’s motivation and leadership.
-Continue reading at: IWFeatures
+Continue reading at: IWFeatures Share on Facebook 𝕏 Share on X Share on Email DONATE Quickly & Securely Online JOIN RHONDA Endorse | Volunteer | Yard Sign LATEST NEWS Los Angeles wants to cut the costal cleanup team RHONDA SHADER ENDORSED BY GOP UNION CAUCUS Endorsement Highlights Shader’s Commitment to Working Families A Conversation with Past Mayor and Past Chamber Chair Rhonda Shader 2026 Senate Candidate Rhonda Shader, SD-34 candidate, 2026 primary election questionnaire Leadership That Delivers: From City Hall to Real Impact Guest: Rhonda Shader Rhonda Shader Interview All News Paid for by Rhonda Shader for Senate 2026 - Campaign ID # 1460521 Privacy Policy | Terms of Use Scroll To Top

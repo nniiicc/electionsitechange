@@ -1,16 +1,78 @@
 [
-"https://facebook.com/profile.php?id=61586437288736",
-"https://instagram.com/electschupay",
-"https://voteschupay.com/",
-"https://voteschupay.com/blog",
-"https://voteschupay.com/contact",
-"https://voteschupay.com/copy-of-privacy-policy",
-"https://voteschupay.com/donation",
-"https://voteschupay.com/get-involved",
-"https://voteschupay.com/meet-conrad",
-"https://voteschupay.com/platform",
-"https://voteschupay.com/post/early-voting-beings",
-"https://voteschupay.com/post/exercise-your-right",
-"https://voteschupay.com/post/fla-medical-association-endorsement",
-"https://voteschupay.com/privacy-policy"
+{
+"text": "CONTACT",
+"href": "https://www.voteschupay.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.voteschupay.com/donation"
+},
+{
+"text": "Early Voting begins",
+"href": "https://www.voteschupay.com/post/early-voting-beings"
+},
+{
+"text": "Exercise your right.",
+"href": "https://www.voteschupay.com/post/exercise-your-right"
+},
+{
+"text": "FLA Medical Association Endorsement",
+"href": "https://www.voteschupay.com/post/fla-medical-association-endorsement"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.voteschupay.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.voteschupay.com"
+},
+{
+"text": "MEET CONRAD",
+"href": "https://www.voteschupay.com/meet-conrad"
+},
+{
+"text": "NEWS",
+"href": "https://www.voteschupay.com/blog"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.voteschupay.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteschupay.com/privacy-policy"
+},
+{
+"text": "See All",
+"href": "https://www.voteschupay.com/blog"
+},
+{
+"text": "Text Message Terms and Conditions",
+"href": "https://www.voteschupay.com/copy-of-privacy-policy"
+},
+{
+"text": "[image: FLA Medical Association Endorsement]",
+"href": "https://www.voteschupay.com/post/fla-medical-association-endorsement"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61586437288736"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electschupay/"
+},
+{
+"text": "[image: Schupay Header_edited.jpg]",
+"href": "https://www.voteschupay.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteschupay.com/post/early-voting-beings"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteschupay.com/post/exercise-your-right"
+}
 ]

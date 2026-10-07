@@ -1,8 +1,26 @@
 [
-"https://collincountytx.gov/Elections/polling-locations?electionId=70&scheduleType=ev&electionDesc=March+3%2C+2026+Primary+Election",
-"https://secure.winred.com/candy-noble-campaign/donate2",
-"https://votecandynoble.com/",
-"https://votecandynoble.com/policies/privacy",
-"https://votecandynoble.com/policies/terms",
-"https://votecandynoble.com/proven-record"
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/candy-noble-campaign/donate2"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://www.collincountytx.gov/Elections/polling-locations?electionId=70&scheduleType=ev&electionDesc=March+3%2C+2026+Primary+Election"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votecandynoble.com/policies/privacy"
+},
+{
+"text": "Proven Record",
+"href": "https://votecandynoble.com/proven-record"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://votecandynoble.com/policies/terms"
+},
+{
+"text": "← Back to Home",
+"href": "https://votecandynoble.com/"
+}
 ]

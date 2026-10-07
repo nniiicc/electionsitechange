@@ -1,5 +1,4 @@
-About Eric
-Eric Albus is a fourth-generation Hi-Line Montana farmer and rancher with deep roots in the land and community he calls home.
+0 Skip to Content Home About On The Issues DONATE Open Menu Close Menu Home About On The Issues DONATE Open Menu Close Menu Home About On The Issues DONATE About Eric Eric Albus is a fourth-generation Hi-Line Montana farmer and rancher with deep roots in the land and community he calls home.
 He and his wife, Robyn, have been married for 38 years.
 Robyn owns and operates Robyn’s Nest, a retail store in Glasgow, contributing to the local economy and small-business community.
 Eric continues to work the family ranch and farm alongside their son Kyle and Kyle’s wife, Katarina.
@@ -9,7 +8,9 @@ He especially valued his work on the Appropriations Committee, Subsection C, whe
 Toward the end of the legislative session, Eric was encouraged by constituents and several senators to consider running for the State Senate, as the current senator was term-limited.
 After months of thoughtful deliberation, Eric made the difficult decision to leave the House and run for the Senate.
 While he greatly enjoyed serving as a representative, he felt called to continue serving his community at a higher level and bring his experience, work ethic, and commitment to the Hi-Line to the State Senate.
-Contact Eric
-Interested in volunteering or learning more about Eric?
+Contact Eric Interested in volunteering or learning more about Eric?
 Fill out some info and we will be in touch shortly.
 We can’t wait to hear from you!
+Eric Albus for Legislature Republican.
+BOX 289, GLASGOW, MT, 59230.
+Donate Follow on Facebook Privacy Policy

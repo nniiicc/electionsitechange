@@ -1,11 +1,8 @@
-On the Issues
-Natural Rights
-"Among the natural rights of the colonists are these: First a right to life, secondly to liberty, and thirdly to property; together with the right to defend them in the best manner they can." -Samuel Adams
-Social Issues
-"Government does not solve problems, it subsidizes them." -Calvin Coolidge
-2nd Amendment
-"A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed."
-Immigration
-"And if there had to be city walls, the walls had doors and the doors were open to anyone with the will and the heart to get here." -Ronald Reagan
-Digital Freedom
-"I can't in good conscience allow the U.S. government to destroy privacy, internet freedom and basic liberties for people around the world with this massive surveillance machine." -Edward Snowden
+top of page For U.S.
+House Home About Issues Get Involved Contact Other Projects More Use tab to navigate through the menu items.
+Alec Pavlik On the Issues Constitutionalism "It is the rule of law alone which hinders the rulers from turning themselves into the worst gangsters." -Ludwig von Mises Read More Inflation "Government spending is always a “tax” burden on the American people and is never equally or fairly distributed.
+The poor and low-middle income workers always suffer the most from the deceitful tax of inflation and borrowing." -Ron Paul Read More Natural Rights "Among the natural rights of the colonists are these: First a right to life, secondly to liberty, and thirdly to property; together with the right to defend them in the best manner they can." -Samuel Adams Read More Social Issues "Government does not solve problems, it subsidizes them." -Calvin Coolidge ​ ​ Read More 2nd Amendment "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed." Read More Immigration "And if there had to be city walls, the walls had doors and the doors were open to anyone with the will and the heart to get here." -Ronald Reagan Read More Digital Freedom "I can't in good conscience allow the U.S. government to destroy privacy, internet freedom and basic liberties for people around the world with this massive surveillance machine." -Edward Snowden Read More Home About Me Issues Get Involved Contact Save America.
+Restore the Constitution.
+Alec Pavlik Terms & Conditions / Accessibility Financial Disclosure © # by Alec Pavlik.
+Powered and secured by Wix Write-In Alec Pavlik for U.S.
+House of Representatives District 6 (FL-06) PavlikCampaign@protonmail.com ​ bottom of page

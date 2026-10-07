@@ -1,10 +1,38 @@
 [
-"https://azafor.me/",
-"https://azafor.me/cart",
-"https://azafor.me/contact",
-"https://azafor.me/donate",
-"https://azafor.me/volunteer",
-"https://calendar.app.google/FLpjYKQpGGTa9xca9",
-"https://facebook.com/azaleafor.me",
-"https://instagram.com/azafor.me"
+{
+"text": "0",
+"href": "https://www.azafor.me/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.azafor.me/contact"
+},
+{
+"text": "Donate $5",
+"href": "https://www.azafor.me/donate"
+},
+{
+"text": "Home",
+"href": "https://www.azafor.me/"
+},
+{
+"text": "Lend me a Hand",
+"href": "https://www.azafor.me/volunteer"
+},
+{
+"text": "[image: Azalea Cormier for Maine House District 80]",
+"href": "https://www.azafor.me/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/azaleafor.me"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/azafor.me/"
+},
+{
+"text": "here",
+"href": "https://calendar.app.google/FLpjYKQpGGTa9xca9"
+}
 ]

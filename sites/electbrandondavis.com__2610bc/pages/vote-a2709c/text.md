@@ -1,17 +1,7 @@
-Where To Vote
-Assembly District 34 Voter Information
-Find your polling place, request a mail ballot, and learn about early voting in Assembly District 34.
-VOTER INFO & LINKS
-Check if you’re in AD34 (CLICK HERE)
-Check your voter registration status (CLICK HERE)
-Register To Vote (CLICK HERE)
-On Election Day, you may vote at any of Clark County’s “Vote Centers.” You do not have to go to any one specific Election Day polling place.
-- You choose where to vote, regardless of your address or precinct.
-- All Vote Centers have an electronic poll book system that connects to Clark County’s registration database to access real-time voter records.
-- Election staff can process anyone registered to vote anywhere in Clark County.
-- Addresses and maps are in your sample ballot.
-IMPORTANT UPCOMING DATES
-September 4, 2026 – Deadline to Opt Out of Mail Ballots
-October 5, 2026 – October 12, 2026 – Period for Mailing Ballots to In-State Voters
-October 17, 2026 – October 30, 2026 – Early In-Person Voting Period
-November 3, 2026 – General Election Day
+Click Here for Voting Info Select Language Arabic Chinese (Simplified) Dutch English French German Italian Portuguese Russian Spanish Follow Follow Follow Follow Home About Issues Volunteer News Voter Info DONATE Click Here for Voting Info DONATE NOW Select Language Arabic Chinese (Simplified) Dutch English French German Italian Portuguese Russian Spanish Home About Issues Volunteer News Voter Info Where To Vote Assembly District 34 Voter Information Find your polling place, request a mail ballot, and learn about early voting in Assembly District 34.
+VOTER INFO & LINKS Check if you’re in AD34 ( CLICK HERE ) Check your voter registration status ( CLICK HERE ) Register To Vote ( CLICK HERE ) On Election Day, you may vote at any of Clark County’s “Vote Centers.” You do not have to go to any one specific Election Day polling place.
+You choose where to vote, regardless of your address or precinct.
+All Vote Centers have an electronic poll book system that connects to Clark County’s registration database to access real-time voter records.
+Election staff can process anyone registered to vote anywhere in Clark County.
+Addresses and maps are in your sample ballot.
+IMPORTANT UPCOMING DATES September 4, 2026 – Deadline to Opt Out of Mail Ballots October 5, 2026 – October 12, 2026 – Period for Mailing Ballots to In-State Voters October 17, 2026 – October 30, 2026 – Early In-Person Voting Period November 3, 2026 – General Election Day Map of Assembly District 34  Call ‪(702) 582-6831‬  Mail 1707 Village Center Cir Suite 150 Las Vegas, NV 89134  Email [email protected] Paid For By The Committee To Elect Brandon Davis Follow Follow Follow Follow Privacy Policy | Terms & Conditions

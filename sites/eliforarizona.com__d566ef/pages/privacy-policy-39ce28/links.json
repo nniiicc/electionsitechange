@@ -1,18 +1,90 @@
 [
-"https://act.elicraneforcongress.com/smsoptin",
-"https://adobe.com/products/flashplayer/security",
-"https://eliforarizona.com/",
-"https://eliforarizona.com/about",
-"https://eliforarizona.com/contact-us",
-"https://eliforarizona.com/endorsements",
-"https://eliforarizona.com/issues-eli-crane",
-"https://eliforarizona.com/media-eli-crane",
-"https://eliforarizona.com/podcasts",
-"https://eliforarizona.com/privacy-policy",
-"https://eliforarizona.com/volunteer",
-"https://facebook.com/EliCraneAZ",
-"https://instagram.com/elicraneaz",
-"https://secure.winred.com/crane-for-congress/donate-today?amount=10",
-"https://secure.winred.com/crane-for-congress/storefront",
-"https://twitter.com/EliCraneAZ"
+{
+"text": "ABOUT",
+"href": "https://eliforarizona.com/about/"
+},
+{
+"text": "CONTACT",
+"href": "https://eliforarizona.com/contact-us/"
+},
+{
+"text": "CONTACT US",
+"href": "https://eliforarizona.com/contact-us/"
+},
+{
+"text": "Close Trigger",
+"href": "javascript:void(0)"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/crane-for-congress/donate-today?amount=10"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://eliforarizona.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/EliCraneAZ/"
+},
+{
+"text": "HOME",
+"href": "https://eliforarizona.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://eliforarizona.com/issues-eli-crane/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/elicraneaz/"
+},
+{
+"text": "MEDIA",
+"href": "https://eliforarizona.com/media-eli-crane/"
+},
+{
+"text": "NEWS",
+"href": "https://eliforarizona.com/media-eli-crane/"
+},
+{
+"text": "PODCASTS",
+"href": "https://eliforarizona.com/podcasts/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://eliforarizona.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/crane-for-congress/storefront/"
+},
+{
+"text": "TERMS & CONDITIONS/PRIVACY POLICY APPLY",
+"href": "https://eliforarizona.com/privacy-policy/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/EliCraneAZ"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://eliforarizona.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://eliforarizona.com"
+},
+{
+"text": "http://www.adobe.com/products/flashplayer/security",
+"href": "https://www.adobe.com/products/flashplayer/security"
+},
+{
+"text": "https://act.elicraneforcongress.com/smsoptin/",
+"href": "https://act.elicraneforcongress.com/smsoptin/"
+},
+{
+"text": "info@elicraneforcongress.com",
+"href": "mailto:info@elicraneforcongress.com"
+}
 ]

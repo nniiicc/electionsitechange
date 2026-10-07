@@ -1,47 +1,198 @@
 [
-"http://facebook.com/profile.php?id=100080430794414",
-"https://aftmichigan.org/",
-"https://committeetoprotect.org/",
-"https://electsarahpounds.com/",
-"https://electsarahpounds.com/campaign-trail",
-"https://electsarahpounds.com/cart",
-"https://electsarahpounds.com/contact",
-"https://electsarahpounds.com/endorsements",
-"https://electsarahpounds.com/home",
-"https://electsarahpounds.com/in-the-news",
-"https://electsarahpounds.com/priorities",
-"https://emilyslist.org/",
-"https://endgunviolencemi-action.org/",
-"https://equalitymi.org/",
-"https://everytown.org/about-everytown",
-"https://femsfordems.org/",
-"https://freep.com/story/opinion/editorials/2026/10/01/free-press-endorsements-michigan-state-house-legislature-nov-3-election/91997689007",
-"https://ibew58.org/en",
-"https://mea.org/",
-"https://miaflcio.org/",
-"https://miafscme.org/",
-"https://michiganbuildingtrades.org/",
-"https://michiganjustice.org/",
-"https://michiganlcv.org/",
-"https://michiganpipetrades.com/",
-"https://micollegedems.org/eastern-michigan-dems",
-"https://micollegedems.org/ou-dems",
-"https://milist.org/",
-"https://minurses.org/",
-"https://miplannedparenthood.org/elections",
-"https://mirealtors.com/advocacy/rpac/rpac",
-"https://mpffu.org/",
-"https://nmcarpenters.com/",
-"https://ourpeoplescoalition.com/",
-"https://pipefitters636.org/",
-"https://rankmivote.org/",
-"https://region1.uaw.org/",
-"https://secure.actblue.com/donate/sarah-pounds-1",
-"https://seiumi.org/",
-"https://sierraclub.org/michigan",
-"https://smart-union.org/",
-"https://stateswin.org/take-action",
-"https://ufcw876.org/",
-"https://usw.org/districts/district-1",
-"https://votemamapac.org/"
+{
+"text": "0",
+"href": "https://electsarahpounds.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://electsarahpounds.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sarah-pounds-1"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/sarah-pounds-1"
+},
+{
+"text": "Endorsements",
+"href": "https://electsarahpounds.com/endorsements"
+},
+{
+"text": "Get in Touch",
+"href": "https://electsarahpounds.com/contact"
+},
+{
+"text": "In the News",
+"href": "https://electsarahpounds.com/in-the-news"
+},
+{
+"text": "Meet Sarah",
+"href": "https://electsarahpounds.com/home#home-about"
+},
+{
+"text": "On the Campaign Trail",
+"href": "https://electsarahpounds.com/campaign-trail"
+},
+{
+"text": "Priorities",
+"href": "https://electsarahpounds.com/priorities"
+},
+{
+"text": "Volunteer Here",
+"href": "mailto:Campaign@ElectSarahPounds.com?subject=I%27d+like+to+help+volunteer%21"
+},
+{
+"text": "Voting Information",
+"href": "https://electsarahpounds.com/contact"
+},
+{
+"text": "[image: 2026%2BEndorsed%2BCanidate%2BGraphics%2B%252826%2529.png]",
+"href": "https://equalitymi.org/"
+},
+{
+"text": "[image: 7B45431F-67B8-42BB-99D4-788E2CEC2FA5.jpeg]",
+"href": "https://ibew58.org/en"
+},
+{
+"text": "[image: AFL-CIO.png]",
+"href": "https://miaflcio.org/"
+},
+{
+"text": "[image: AFT+Michigan.png]",
+"href": "https://aftmichigan.org/"
+},
+{
+"text": "[image: Carpenters logo.jpg]",
+"href": "https://www.nmcarpenters.com/"
+},
+{
+"text": "[image: Copy of Pipefitters 636.png]",
+"href": "https://www.micollegedems.org/eastern-michigan-dems"
+},
+{
+"text": "[image: Copy+of+UFCW+876.png]",
+"href": "https://www.endgunviolencemi-action.org/"
+},
+{
+"text": "[image: Detroit Free press.png]",
+"href": "https://www.freep.com/story/opinion/editorials/2026/10/01/free-press-endorsements-michigan-state-house-legislature-nov-3-election/91997689007/"
+},
+{
+"text": "[image: EL-Endorsement-Sarah Pounds.png]",
+"href": "https://emilyslist.org/"
+},
+{
+"text": "[image: Elect Sarah Pounds]",
+"href": "https://electsarahpounds.com/"
+},
+{
+"text": "[image: IAFF_Logo_Color_v001-1024x1024.png]",
+"href": "https://www.mpffu.org/"
+},
+{
+"text": "[image: LCV.png]",
+"href": "https://www.michiganlcv.org/"
+},
+{
+"text": "[image: MEA.png]",
+"href": "https://mea.org/"
+},
+{
+"text": "[image: MI List]",
+"href": "https://milist.org/"
+},
+{
+"text": "[image: Michigan Nurses Association.png]",
+"href": "https://minurses.org/"
+},
+{
+"text": "[image: OIP.webp]",
+"href": "https://usw.org/districts/district-1/"
+},
+{
+"text": "[image: Pipefitters 636.png]",
+"href": "https://pipefitters636.org/"
+},
+{
+"text": "[image: RPAC+ENDORSMENT+.png]",
+"href": "https://mirealtors.com/advocacy/rpac/rpac/"
+},
+{
+"text": "[image: Rank+MI+Vote.png]",
+"href": "https://rankmivote.org/"
+},
+{
+"text": "[image: SEIU.png]",
+"href": "https://www.seiumi.org/"
+},
+{
+"text": "[image: SaraH+pounds+endorsements+08.21+.png]",
+"href": "https://stateswin.org/take-action/"
+},
+{
+"text": "[image: Sarah Pounds Funding Ruling (1).png]",
+"href": "https://www.miplannedparenthood.org/elections"
+},
+{
+"text": "[image: Sarah+Pounds+Funding+Ruling.png]",
+"href": "https://www.michiganbuildingtrades.org/"
+},
+{
+"text": "[image: UAW logo.webp]",
+"href": "https://region1.uaw.org/"
+},
+{
+"text": "[image: UFCW.png]",
+"href": "https://www.ufcw876.org/"
+},
+{
+"text": "[image: Untitled design (4).png]",
+"href": "https://www.michiganjustice.org/"
+},
+{
+"text": "[image: Vote Mama]",
+"href": "https://www.votemamapac.org/"
+},
+{
+"text": "[image: [CTP] US of Care Logos-MI.png]",
+"href": "https://committeetoprotect.org/"
+},
+{
+"text": "[image: afscme green logo.png]",
+"href": "https://miafscme.org/"
+},
+{
+"text": "[image: fems for dems.jpg]",
+"href": "https://www.femsfordems.org/"
+},
+{
+"text": "[image: image0 (10).jpeg]",
+"href": "https://michiganpipetrades.com/"
+},
+{
+"text": "[image: moms demand gun sense logo.png]",
+"href": "https://www.everytown.org/about-everytown/"
+},
+{
+"text": "[image: newlogotransparent (1).png]",
+"href": "https://www.micollegedems.org/ou-dems"
+},
+{
+"text": "[image: peoples coalition.webp]",
+"href": "https://www.ourpeoplescoalition.com/"
+},
+{
+"text": "[image: sierra club logo.png]",
+"href": "https://www.sierraclub.org/michigan"
+},
+{
+"text": "[image: smart td.jpg]",
+"href": "https://www.smart-union.org/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/profile.php?id=100080430794414"
+}
 ]

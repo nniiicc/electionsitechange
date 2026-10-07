@@ -1,39 +1,266 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/duke",
-"https://andycantwin.com/guides",
-"https://andycantwin.com/healthbills",
-"https://andycantwin.com/leandro",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/sayhi",
-"https://andycantwin.com/volunteer.html",
-"https://andycantwin.com/vote",
-"https://andycantwin.com/workshop",
-"https://apnews.com/article/voter-fraud-election-2020-joe-biden-donald-trump-7fcb6f134e528fee8237c7601db3328f",
-"https://carolinajournal.com/nc-investigating-1599-potential-noncitizen-voter-registrations",
-"https://carolinajournal.com/nc-senate-passes-election-bills-shortening-early-voting-adding-audits",
-"https://facebook.com/andycantwin",
-"https://heritage.org/voterfraud",
-"https://instagram.com/andycantwin",
-"https://johnlocke.org/bring-out-your-dead-elections-boards-to-remove-34000-deceased-voters",
-"https://law.justia.com/cases/north-carolina/supreme-court/2023/331pa21.html",
-"https://ncleg.gov/BillLookUp/2025/H958",
-"https://ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-258.2.html",
-"https://ncnewsline.com/2026/07/28/nc-senate-approves-controversial-elections-bill-along-party-lines",
-"https://ncsbe.gov/about-elections/election-security/investigations-division",
-"https://ncsbe.gov/news/press-releases/2019/02/25/state-board-unanimously-orders-new-election-9th-congressional-district",
-"https://ncsbe.gov/news/press-releases/2021/09/13/statement-nc-supreme-court-order-community-success-initiative-v-moore-case",
-"https://ncsbe.gov/news/press-releases/2022/07/26/north-carolinians-serving-felony-sentences-who-are-not-jail-or-prison-may-register-vote-starting",
-"https://ncsbe.gov/news/press-releases/2024/11/26/state-board-unanimously-certifies-2024-general-election",
-"https://ncsbe.gov/news/press-releases/2024/12/10/state-board-will-not-order-full-recount-nc-supreme-court-contest",
-"https://ncsbe.gov/news/press-releases/2025/05/01/nc-counties-conduct-voter-list-maintenance-required-law",
-"https://ncsbe.gov/news/press-releases/2026/04/16/state-board-check-voter-rolls-identify-remove-non-us-citizens",
-"https://ncsbe.gov/news/press-releases/2026/04/27/state-board-identifies-deceased-individuals-voter-rolls-through-federal-database-comparison",
-"https://npr.org/2018/08/04/635668304/member-of-disbanded-trump-voter-fraud-commission-speaks-out",
-"https://s3.amazonaws.com/dl.ncsbe.gov/Investigations/NCSBE%20Incident%20and%20Case%20Data%202025.pdf",
-"https://s3.amazonaws.com/dl.ncsbe.gov/sboe/Post-Election%20Audit%20Report_2016%20General%20Election/Post-Election_Audit_Report.pdf",
-"https://secure.actblue.com/donate/andybowline",
-"https://statecourtreport.org/our-work/analysis-opinion/griffin-concedes-riggs-ending-six-month-dispute-over-north-carolina",
-"https://votebeat.org/2025/03/10/north-carolina-supreme-court-election-challenge-jefferson-griffin",
-"https://washingtonpost.com/news/wonk/wp/2014/08/06/a-comprehensive-investigation-of-voter-impersonation-finds-31-credible-incidents-out-of-one-billion-ballots-cast"
+{
+"text": "\"Bring out your dead!\"",
+"href": "https://www.johnlocke.org/bring-out-your-dead-elections-boards-to-remove-34000-deceased-voters/"
+},
+{
+"text": "\"Far too little vote fraud to tip election to Trump, AP finds\"",
+"href": "https://apnews.com/article/voter-fraud-election-2020-joe-biden-donald-trump-7fcb6f134e528fee8237c7601db3328f"
+},
+{
+"text": "\"NC Counties Conduct Voter List Maintenance as Required by Law\"",
+"href": "https://www.ncsbe.gov/news/press-releases/2025/05/01/nc-counties-conduct-voter-list-maintenance-required-law"
+},
+{
+"text": "\"NC investigating 1,599 potential noncitizen voter registrations\"",
+"href": "https://www.carolinajournal.com/nc-investigating-1599-potential-noncitizen-voter-registrations/"
+},
+{
+"text": "\"North Carolinians Serving Felony Sentences, Who Are Not in Jail or Prison, May Register to Vote Starting July 27\"",
+"href": "https://www.ncsbe.gov/news/press-releases/2022/07/26/north-carolinians-serving-felony-sentences-who-are-not-jail-or-prison-may-register-vote-starting"
+},
+{
+"text": "\"State Board Identifies Deceased Individuals on Voter Rolls Through Federal Database Comparison\"",
+"href": "https://www.ncsbe.gov/news/press-releases/2026/04/27/state-board-identifies-deceased-individuals-voter-rolls-through-federal-database-comparison"
+},
+{
+"text": "\"State Board Unanimously Orders New Election in 9th Congressional District\"",
+"href": "https://www.ncsbe.gov/news/press-releases/2019/02/25/state-board-unanimously-orders-new-election-9th-congressional-district"
+},
+{
+"text": "\"State Board Will Not Order Full Recount in NC Supreme Court Contest\"",
+"href": "https://www.ncsbe.gov/news/press-releases/2024/12/10/state-board-will-not-order-full-recount-nc-supreme-court-contest"
+},
+{
+"text": "\"State Board to Check Voter Rolls to Identify, Remove Non-U.S. Citizens\"",
+"href": "https://www.ncsbe.gov/news/press-releases/2026/04/16/state-board-check-voter-rolls-identify-remove-non-us-citizens"
+},
+{
+"text": "$24.8 million in power costs",
+"href": "https://andycantwin.com/duke/"
+},
+{
+"text": "01. NC State Board of Elections, Post-Election Audit Report, 2016 General Election (April 21, 2017), including Appendix 5 party and county tables",
+"href": "https://s3.amazonaws.com/dl.ncsbe.gov/sboe/Post-Election%20Audit%20Report_2016%20General%20Election/Post-Election_Audit_Report.pdf"
+},
+{
+"text": "02. NCSBE Investigations Division, complaint and criminal referral data",
+"href": "https://www.ncsbe.gov/about-elections/election-security/investigations-division"
+},
+{
+"text": "03. NCSBE, \"State Board to Check Voter Rolls to Identify, Remove Non-U.S. Citizens\" (April 16, 2026)",
+"href": "https://www.ncsbe.gov/news/press-releases/2026/04/16/state-board-check-voter-rolls-identify-remove-non-us-citizens"
+},
+{
+"text": "04. NCSBE, \"State Board Identifies Deceased Individuals on Voter Rolls Through Federal Database Comparison\" (April 27, 2026)",
+"href": "https://www.ncsbe.gov/news/press-releases/2026/04/27/state-board-identifies-deceased-individuals-voter-rolls-through-federal-database-comparison"
+},
+{
+"text": "05. NCSBE, \"NC Counties Conduct Voter List Maintenance as Required by Law\" (May 1, 2025)",
+"href": "https://www.ncsbe.gov/news/press-releases/2025/05/01/nc-counties-conduct-voter-list-maintenance-required-law"
+},
+{
+"text": "06. NCSBE, \"State Board Unanimously Orders New Election in 9th Congressional District\" (Feb. 2019)",
+"href": "https://www.ncsbe.gov/news/press-releases/2019/02/25/state-board-unanimously-orders-new-election-9th-congressional-district"
+},
+{
+"text": "07. NCSBE, \"State Board Unanimously Certifies 2024 General Election\" (Nov. 26, 2024)",
+"href": "https://www.ncsbe.gov/news/press-releases/2024/11/26/state-board-unanimously-certifies-2024-general-election"
+},
+{
+"text": "08. NCSBE, \"State Board Will Not Order Full Recount in NC Supreme Court Contest\" (Dec. 10, 2024)",
+"href": "https://www.ncsbe.gov/news/press-releases/2024/12/10/state-board-will-not-order-full-recount-nc-supreme-court-contest"
+},
+{
+"text": "09. NC General Assembly, House Bill 958, Eighth Edition Engrossed and full action history",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H958"
+},
+{
+"text": "10. Community Success Initiative v. Moore, N.C. Supreme Court (April 28, 2023)",
+"href": "https://law.justia.com/cases/north-carolina/supreme-court/2023/331pa21.html"
+},
+{
+"text": "11. Carolina Journal, \"NC investigating 1,599 potential noncitizen voter registrations\" (July 20, 2026)",
+"href": "https://www.carolinajournal.com/nc-investigating-1599-potential-noncitizen-voter-registrations/"
+},
+{
+"text": "12. Andy Jackson, John Locke Foundation, \"Bring out your dead!\" (April 28, 2026)",
+"href": "https://www.johnlocke.org/bring-out-your-dead-elections-boards-to-remove-34000-deceased-voters/"
+},
+{
+"text": "13. Heritage Foundation, Election Fraud Map (disclaimer quoted from the July 16, 2026 archived capture)",
+"href": "https://www.heritage.org/voterfraud"
+},
+{
+"text": "14. Associated Press, \"Far too little vote fraud to tip election to Trump, AP finds\" (Dec. 14, 2021)",
+"href": "https://apnews.com/article/voter-fraud-election-2020-joe-biden-donald-trump-7fcb6f134e528fee8237c7601db3328f"
+},
+{
+"text": "15. Washington Post, Justin Levitt's voter impersonation survey (Aug. 6, 2014)",
+"href": "https://www.washingtonpost.com/news/wonk/wp/2014/08/06/a-comprehensive-investigation-of-voter-impersonation-finds-31-credible-incidents-out-of-one-billion-ballots-cast/"
+},
+{
+"text": "16. NPR, \"Member Of Disbanded Trump Voter Fraud Commission Speaks Out\" (Aug. 4, 2018)",
+"href": "https://www.npr.org/2018/08/04/635668304/member-of-disbanded-trump-voter-fraud-commission-speaks-out"
+},
+{
+"text": "17. Votebeat, \"North Carolina Supreme Court race hangs on unresolved ballot challenges\" (March 10, 2025)",
+"href": "https://www.votebeat.org/2025/03/10/north-carolina-supreme-court-election-challenge-jefferson-griffin/"
+},
+{
+"text": "18. NCSBE, 2025 Incident and Case Data, full complaint and referral tables (PDF)",
+"href": "https://s3.amazonaws.com/dl.ncsbe.gov/Investigations/NCSBE%20Incident%20and%20Case%20Data%202025.pdf"
+},
+{
+"text": "19. NCSBE, \"North Carolinians Serving Felony Sentences, Who Are Not in Jail or Prison, May Register to Vote Starting July 27\" (July 26, 2022)",
+"href": "https://www.ncsbe.gov/news/press-releases/2022/07/26/north-carolinians-serving-felony-sentences-who-are-not-jail-or-prison-may-register-vote-starting"
+},
+{
+"text": "20. State Court Report, \"Griffin Concedes to Riggs, Ending Six-Month Dispute\" (May 2025)",
+"href": "https://statecourtreport.org/our-work/analysis-opinion/griffin-concedes-riggs-ending-six-month-dispute-over-north-carolina"
+},
+{
+"text": "2016 post-election audit",
+"href": "https://s3.amazonaws.com/dl.ncsbe.gov/sboe/Post-Election%20Audit%20Report_2016%20General%20Election/Post-Election_Audit_Report.pdf"
+},
+{
+"text": "2025 Incident and Case Data",
+"href": "https://s3.amazonaws.com/dl.ncsbe.gov/Investigations/NCSBE%20Incident%20and%20Case%20Data%202025.pdf"
+},
+{
+"text": "21. N.C.G.S. § 163-258.2, Uniform Military and Overseas Voters Act definitions",
+"href": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-258.2.html"
+},
+{
+"text": "22. Carolina Journal, \"NC Senate passes election bills shortening early voting, adding audits\" (July 29, 2026)",
+"href": "https://www.carolinajournal.com/nc-senate-passes-election-bills-shortening-early-voting-adding-audits/"
+},
+{
+"text": "23. Lynn Bonner, NC Newsline, \"NC Senate approves controversial elections bill along party lines\" (July 28, 2026)",
+"href": "https://ncnewsline.com/2026/07/28/nc-senate-approves-controversial-elections-bill-along-party-lines/"
+},
+{
+"text": "April 16, 2026 press release",
+"href": "https://www.ncsbe.gov/news/press-releases/2026/04/16/state-board-check-voter-rolls-identify-remove-non-us-citizens"
+},
+{
+"text": "April 16, 2026 release",
+"href": "https://www.ncsbe.gov/news/press-releases/2026/04/16/state-board-check-voter-rolls-identify-remove-non-us-citizens"
+},
+{
+"text": "April 27, 2026 release",
+"href": "https://www.ncsbe.gov/news/press-releases/2026/04/27/state-board-identifies-deceased-individuals-voter-rolls-through-federal-database-comparison"
+},
+{
+"text": "Bored?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "Carolina Journal",
+"href": "https://www.carolinajournal.com/nc-senate-passes-election-bills-shortening-early-voting-adding-audits/"
+},
+{
+"text": "Community Success Initiative v. Moore",
+"href": "https://law.justia.com/cases/north-carolina/supreme-court/2023/331pa21.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Eighth Edition Engrossed",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H958"
+},
+{
+"text": "Election Fraud Map introduction",
+"href": "https://www.heritage.org/voterfraud"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Get the newsletter",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "How to vote in NC when they're making it hard →",
+"href": "https://andycantwin.com/vote/"
+},
+{
+"text": "How to vote in NC →",
+"href": "https://andycantwin.com/vote/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "N.C.G.S. § 163-258.2(1)e.",
+"href": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-258.2.html"
+},
+{
+"text": "NC Newsline",
+"href": "https://ncnewsline.com/2026/07/28/nc-senate-approves-controversial-elections-bill-along-party-lines/"
+},
+{
+"text": "NCSBE 2016 post-election audit",
+"href": "https://s3.amazonaws.com/dl.ncsbe.gov/sboe/Post-Election%20Audit%20Report_2016%20General%20Election/Post-Election_Audit_Report.pdf"
+},
+{
+"text": "Post-Election Audit Report, 2016 General Election",
+"href": "https://s3.amazonaws.com/dl.ncsbe.gov/sboe/Post-Election%20Audit%20Report_2016%20General%20Election/Post-Election_Audit_Report.pdf"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "State Court Report",
+"href": "https://statecourtreport.org/our-work/analysis-opinion/griffin-concedes-riggs-ending-six-month-dispute-over-north-carolina"
+},
+{
+"text": "Tell me I'm wrong",
+"href": "https://andycantwin.com/sayhi/"
+},
+{
+"text": "The Washington Post",
+"href": "https://www.washingtonpost.com/news/wonk/wp/2014/08/06/a-comprehensive-investigation-of-voter-impersonation-finds-31-credible-incidents-out-of-one-billion-ballots-cast/"
+},
+{
+"text": "Tinkering",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "post-election audit",
+"href": "https://s3.amazonaws.com/dl.ncsbe.gov/sboe/Post-Election%20Audit%20Report_2016%20General%20Election/Post-Election_Audit_Report.pdf"
+},
+{
+"text": "statement on the September 2021 stay",
+"href": "https://www.ncsbe.gov/news/press-releases/2021/09/13/statement-nc-supreme-court-order-community-success-initiative-v-moore-case"
+},
+{
+"text": "the bill's page",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H958"
+},
+{
+"text": "underfunded",
+"href": "https://andycantwin.com/leandro/"
+},
+{
+"text": "what a night in the hospital costs",
+"href": "https://andycantwin.com/healthbills/"
+},
+{
+"text": "← back to the guides",
+"href": "https://andycantwin.com/guides/"
+}
 ]

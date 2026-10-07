@@ -1,7 +1,42 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://judgegeorgebell.com/",
-"https://secure.anedot.com/elect-george-bell/donate",
-"https://twitter.com/wix"
+{
+"text": "About",
+"href": "https://www.judgegeorgebell.com"
+},
+{
+"text": "Contact",
+"href": "https://www.judgegeorgebell.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/elect-george-bell/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/elect-george-bell/donate"
+},
+{
+"text": "Elect George Bell",
+"href": "https://www.judgegeorgebell.com"
+},
+{
+"text": "Home",
+"href": "https://www.judgegeorgebell.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/wix"
+},
+{
+"text": "info@judgegeorgebell.com",
+"href": "mailto:info@judgegeorgebell.com"
+}
 ]

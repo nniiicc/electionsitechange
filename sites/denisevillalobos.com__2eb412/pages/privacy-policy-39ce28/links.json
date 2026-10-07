@@ -1,9 +1,34 @@
 [
-"https://denisevillalobos.com/",
-"https://facebook.com/DVillalobos20",
-"https://instagram.com/denisefortexas",
-"https://linkedin.com/in/denise-villalobos-pmp",
-"https://secure.anedot.com/denise-villalobos/donate",
-"https://tiktok.com/@Denisevillalobos34",
-"https://x.com/DeniseForTexas"
+{
+"text": "Back to home",
+"href": "https://www.denisevillalobos.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/denise-villalobos/donate"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DVillalobos20"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/denisefortexas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/denise-villalobos-pmp/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@Denisevillalobos34"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DeniseForTexas"
+},
+{
+"text": "campaign@denisevillalobos.com",
+"href": "mailto:campaign@denisevillalobos.com"
+}
 ]

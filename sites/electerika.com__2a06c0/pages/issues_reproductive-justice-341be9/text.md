@@ -1,4 +1,6 @@
-Your body.
+Skip to main content Fighting for you.
+Join the movement.
+Donate Volunteer Democratic Primary · Sept 1, 2026 Meet Erika Platform Newsletter Donate Meet Erika Platform Newsletter Endorsements Get Involved Donate Reproductive Justice Your body.
 Your decision.
 Our fight.
 Regardless of what Washington does, Massachusetts will lead the nation in reproductive justice.
@@ -14,8 +16,7 @@ And crisis pregnancy centers are spreading medical misinformation in our communi
 Massachusetts must be the firewall.
 Not in spirit.
 In law.
-Remove all legal barriers
-Abortion care is healthcare and healthcare is a fundamental human right.
+Remove all legal barriers Abortion care is healthcare and healthcare is a fundamental human right.
 Patients and doctors should make the decision on whether to have an abortion based on each individual case.
 No politician should be in the room.
 That is why I support removing all gestational limits and repealing the age limit on parental consent.
@@ -24,33 +25,22 @@ And no young person should have to obtain permission from a judge to access care
 If your doctor says you need a procedure, you should be able to get that procedure.
 In Massachusetts.
 Today.
-Without a permission slip from the state.
-— Erika Uyterhoeven
-Fund comprehensive reproductive care
-Money should never be a barrier to accessing reproductive healthcare.
-I fight to both secure state funding for reproductive healthcare and require coverage by public and private health insurance of:
-- Abortion care, medical and in-clinic, fully covered
-- Telehealth, remote reproductive care access
-- Gender-affirming care, full coverage, no exceptions
-- Doulas and midwives, community-based maternity care
-This includes full coverage for doulas and certified nurse midwives, creating and supporting freestanding birth centers, post-miscarriage mental health care, and community-based prenatal, maternity, and postpartum care.
-Eliminate racial disparities in maternal health
-This is the part that should make you angry.
+Without a permission slip from the state. — Erika Uyterhoeven Fund comprehensive reproductive care Money should never be a barrier to accessing reproductive healthcare.
+I fight to both secure state funding for reproductive healthcare and require coverage by public and private health insurance of: Abortion care , medical and in-clinic, fully covered Telehealth , remote reproductive care access Gender-affirming care , full coverage, no exceptions Doulas and midwives , community-based maternity care This includes full coverage for doulas and certified nurse midwives, creating and supporting freestanding birth centers, post-miscarriage mental health care, and community-based prenatal, maternity, and postpartum care.
+Eliminate racial disparities in maternal health This is the part that should make you angry.
 Racial disparities in reproductive health are not only devastating but increased and widened over the past 10 years.
 Black women experience 2.5 times higher rates of complications than white women.
 In Massachusetts.
 In 2026.
 That is not a national statistic we can blame on other states.
 That is us.
-We must fully implement all of the recommendations from the Special Commission on Racial Inequities in Maternal Health to eliminate these disparities and reverse the overall rise in maternal morbidity and complications in Massachusetts.
+2.5× Higher complication rates for Black women 10 yrs Disparities have been growing Rising Overall maternal morbidity in MA We must fully implement all of the recommendations from the Special Commission on Racial Inequities in Maternal Health to eliminate these disparities and reverse the overall rise in maternal morbidity and complications in Massachusetts.
 Investing in community-based, holistic maternity and postpartum care is not optional.
 It is the intervention that works.
-Protect patients from federal overreach
-After the Supreme Court's Dobbs decision, your location data became a weapon.
+Protect patients from federal overreach After the Supreme Court's Dobbs decision, your location data became a weapon.
 Companies sell the cell phone location data of people visiting clinics.
 That information can be used for harassment, prosecution, and surveillance.
-I am fighting to:
-Pass the Location Shield Act, which will ban the sale of personal location data from cell phones.
+I am fighting to: Pass the Location Shield Act , which will ban the sale of personal location data from cell phones.
 If you walk into a clinic, that is between you and your doctor.
 Not a data broker in Virginia.
 Ban crisis pregnancy centers (also known as anti-abortion centers) that spread medical misinformation.
@@ -58,10 +48,8 @@ These facilities exist to delay and discourage people from accessing care.
 They are not medical providers.
 They should not be allowed to operate as if they are.
 Oppose TRAP laws (Targeted Regulation of Abortion Providers) that impose medically unnecessary procedures and infrastructure requirements designed to shut down clinics, not protect patients.
-What we have already delivered
-This is not a wish list.
-We have been doing this work:
-Immediately after Dobbs, we protected reproductive healthcare and gender-affirming services in the Commonwealth and established additional safeguards.
+What we have already delivered This is not a wish list.
+We have been doing this work: Immediately after Dobbs , we protected reproductive healthcare and gender-affirming services in the Commonwealth and established additional safeguards.
 We required insurance coverage for abortion and abortion-related care without deductibles, coinsurance, copayments, or other cost-sharing.
 We forbade MassHealth from charging cost-sharing for prenatal, childbirth, and postpartum care.
 We expanded access to contraceptives and medication abortion and protected abortion providers, out-of-state patients, and insurers from prosecution.
@@ -70,9 +58,25 @@ We joined House colleagues in passing a bill that creates a state licensure path
 We responded to, and resolved, dozens of healthcare violations for trans people and women incarcerated in MA prisons to access gender-affirming care and reproductive care.
 Every one of these wins happened because people showed up and demanded it.
 In the Senate, I will have more power to deliver.
-But the power starts with you.
-— Erika Uyterhoeven
-The plan.
-- Remove every barrier to abortion care, including for young people, so that access never depends on your age, your income, your immigration status, or your zip code.
-- Fund the full spectrum of reproductive care, from doulas and midwives to birth centers, and end the racial disparities in maternal mortality that are taking Black mothers' lives.
-- Guarantee state funding for Planned Parenthood and family planning providers as Washington strips their federal support away, so no patient ever loses care because of Congress.
+But the power starts with you. — Erika Uyterhoeven Share this with your neighbors What I Am Fighting For The plan.
+Remove every barrier to abortion care, including for young people, so that access never depends on your age, your income, your immigration status, or your zip code.
+Fund the full spectrum of reproductive care, from doulas and midwives to birth centers, and end the racial disparities in maternal mortality that are taking Black mothers' lives.
+Guarantee state funding for Planned Parenthood and family planning providers as Washington strips their federal support away, so no patient ever loses care because of Congress.
+Get Involved This is the kind of work that needs your support.
+Donate Now Volunteer Join Erika's Newsletter What she finds inside the bills, in plain English.
+No spin.
+Just the proof.
+Email Join Us!
+Fighting for you in Somerville, Medford, Cambridge, and Winchester.
+Learn Meet Erika Platform Endorsements Newsletters Act Volunteer Donate Vote Press Endorse Erika Instagram Call or text Erika: (857) 264-1096 Email: erika@electerika.com Paid for by Committee to Elect Erika Uyterhoeven · Somerville, MA Contributions are not tax-deductible · $1,000 max per individual per calendar year · Privacy Policy × Join the movement Your rent.
+Your energy bill.
+Your kids' school.
+Know what's really happening.
+Every week I break down the contracts, the votes, and the deals that affect your life, and who is responsible.
+Two emails.
+No press releases.
+Count me in ✓ You're in.
+Welcome to the fight.
+No spam.
+Unsubscribe anytime.
+We never share your email.

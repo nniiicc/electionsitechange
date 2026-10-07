@@ -1,35 +1,246 @@
 [
-"http://twitter.com/voteyvette",
-"http://veracitymedia.com/",
-"https://facebook.com/voteyvette",
-"https://instagram.com/voteyvette",
-"https://secure.actblue.com/donate/ydc_donatepage",
-"https://voteyvette.com/",
-"https://voteyvette.com/about-yvette",
-"https://voteyvette.com/community-resources",
-"https://voteyvette.com/endorsements",
-"https://voteyvette.com/get-involved",
-"https://voteyvette.com/issues",
-"https://voteyvette.com/press",
-"https://voteyvette.com/press/around-brooklyn-old-style-hair-salon-closes-on-court-st",
-"https://voteyvette.com/press/bk-congresswoman-clarke-will-hold-coronavirus-business-town-hall",
-"https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-22-2020",
-"https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-26-2020",
-"https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-28-2020",
-"https://voteyvette.com/press/clarke-freshdirect-deliver-500-boxes-of-food-to-brooklynites",
-"https://voteyvette.com/press/coronavirus-pandemic-complicates-tps-for-haitians",
-"https://voteyvette.com/press/nwra-applauds-introduction-of-mckinley-tonko-ppp-flexibility-bill",
-"https://voteyvette.com/press/ny-fed-lawmakers-lobby-to-get-ppp-loans-fo-co-op-owners",
-"https://voteyvette.com/press/ny-pols-question-coronavirus-count-at-brooklyn-federal-jail",
-"https://voteyvette.com/press/page/1",
-"https://voteyvette.com/press/page/10",
-"https://voteyvette.com/press/page/2",
-"https://voteyvette.com/press/page/4",
-"https://voteyvette.com/press/page/5",
-"https://voteyvette.com/press/page/6",
-"https://voteyvette.com/press/page/8",
-"https://voteyvette.com/press/page/9",
-"https://voteyvette.com/press/rep-clarke-leads-letter-on-grocery-industry-response",
-"https://voteyvette.com/press/sen-kamala-harris-and-rep-lucy-mcbath-call-for-civil-rights-probe-of-breonna-taylor-shooting",
-"https://voteyvette.com/yvettes-wins"
+{
+"text": "1",
+"href": "https://voteyvette.com/press/page/1/"
+},
+{
+"text": "10",
+"href": "https://voteyvette.com/press/page/10/"
+},
+{
+"text": "2",
+"href": "https://voteyvette.com/press/page/2/"
+},
+{
+"text": "4",
+"href": "https://voteyvette.com/press/page/4/"
+},
+{
+"text": "5",
+"href": "https://voteyvette.com/press/page/5/"
+},
+{
+"text": "6",
+"href": "https://voteyvette.com/press/page/6/"
+},
+{
+"text": "8",
+"href": "https://voteyvette.com/press/page/8/"
+},
+{
+"text": "9",
+"href": "https://voteyvette.com/press/page/9/"
+},
+{
+"text": "About Yvette",
+"href": "https://voteyvette.com/about-yvette/"
+},
+{
+"text": "Around Brooklyn: Old-style hair salon closes on Court St.",
+"href": "https://voteyvette.com/press/around-brooklyn-old-style-hair-salon-closes-on-court-st/"
+},
+{
+"text": "BK Congresswoman Clarke Will Hold Coronavirus Business Town Hall",
+"href": "https://voteyvette.com/press/bk-congresswoman-clarke-will-hold-coronavirus-business-town-hall/"
+},
+{
+"text": "Brooklyn Lawmakers on the Move May 22, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-22-2020/"
+},
+{
+"text": "Brooklyn Lawmakers on the Move May 26, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-26-2020/"
+},
+{
+"text": "Brooklyn Lawmakers on the Move May 28, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-28-2020/"
+},
+{
+"text": "Clarke, FreshDirect deliver 500 boxes of food to Brooklynites",
+"href": "https://voteyvette.com/press/clarke-freshdirect-deliver-500-boxes-of-food-to-brooklynites/"
+},
+{
+"text": "Community Resources",
+"href": "https://voteyvette.com/community-resources/"
+},
+{
+"text": "Coronavirus Pandemic Complicates TPS For Haitians",
+"href": "https://voteyvette.com/press/coronavirus-pandemic-complicates-tps-for-haitians/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ydc_donatepage"
+},
+{
+"text": "Endorsements",
+"href": "https://voteyvette.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://voteyvette.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://voteyvette.com/issues/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/around-brooklyn-old-style-hair-salon-closes-on-court-st/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/bk-congresswoman-clarke-will-hold-coronavirus-business-town-hall/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-22-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-26-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-28-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/clarke-freshdirect-deliver-500-boxes-of-food-to-brooklynites/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/coronavirus-pandemic-complicates-tps-for-haitians/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/nwra-applauds-introduction-of-mckinley-tonko-ppp-flexibility-bill/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/ny-fed-lawmakers-lobby-to-get-ppp-loans-fo-co-op-owners/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/ny-pols-question-coronavirus-count-at-brooklyn-federal-jail/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/rep-clarke-leads-letter-on-grocery-industry-response/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/sen-kamala-harris-and-rep-lucy-mcbath-call-for-civil-rights-probe-of-breonna-taylor-shooting/"
+},
+{
+"text": "NWRA applauds introduction of Mckinley/Tonko PPP Flexibility bill",
+"href": "https://voteyvette.com/press/nwra-applauds-introduction-of-mckinley-tonko-ppp-flexibility-bill/"
+},
+{
+"text": "NY Fed Lawmakers Lobby to Get PPP Loans Fo Co-Op Owners",
+"href": "https://voteyvette.com/press/ny-fed-lawmakers-lobby-to-get-ppp-loans-fo-co-op-owners/"
+},
+{
+"text": "NY Pols question Coronavirus count at Brooklyn federal jail",
+"href": "https://voteyvette.com/press/ny-pols-question-coronavirus-count-at-brooklyn-federal-jail/"
+},
+{
+"text": "Press",
+"href": "https://voteyvette.com/press/"
+},
+{
+"text": "Rep. Clarke leads letter on grocery industry response",
+"href": "https://voteyvette.com/press/rep-clarke-leads-letter-on-grocery-industry-response/"
+},
+{
+"text": "Sen. Kamala Harris And Rep. Lucy McBath Call For Civil Rights Probe of Breonna Taylor Shooting",
+"href": "https://voteyvette.com/press/sen-kamala-harris-and-rep-lucy-mcbath-call-for-civil-rights-probe-of-breonna-taylor-shooting/"
+},
+{
+"text": "Veracity Media",
+"href": "http://veracitymedia.com"
+},
+{
+"text": "Yvette’s Wins",
+"href": "https://voteyvette.com/yvettes-wins/"
+},
+{
+"text": "[image: Clarke for Congress]",
+"href": "https://voteyvette.com"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/around-brooklyn-old-style-hair-salon-closes-on-court-st/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/bk-congresswoman-clarke-will-hold-coronavirus-business-town-hall/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-22-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-26-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-28-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/clarke-freshdirect-deliver-500-boxes-of-food-to-brooklynites/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/coronavirus-pandemic-complicates-tps-for-haitians/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/nwra-applauds-introduction-of-mckinley-tonko-ppp-flexibility-bill/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/ny-fed-lawmakers-lobby-to-get-ppp-loans-fo-co-op-owners/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/ny-pols-question-coronavirus-count-at-brooklyn-federal-jail/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/rep-clarke-leads-letter-on-grocery-industry-response/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/sen-kamala-harris-and-rep-lucy-mcbath-call-for-civil-rights-probe-of-breonna-taylor-shooting/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/voteyvette"
+},
+{
+"text": "info@voteyvette.com",
+"href": "mailto:info@voteyvette.com"
+},
+{
+"text": "press@voteyvette.com",
+"href": "mailto:press@voteyvette.com"
+},
+{
+"text": "←",
+"href": "https://voteyvette.com/press/page/2/"
+},
+{
+"text": "→",
+"href": "https://voteyvette.com/press/page/4/"
+}
 ]

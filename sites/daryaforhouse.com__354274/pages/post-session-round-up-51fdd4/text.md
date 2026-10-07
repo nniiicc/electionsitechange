@@ -1,4 +1,4 @@
-Four Bills Heading to the Governor!
+Skip to content About Issues Endorsements Get Involved Contact RSVP News Donate About Issues Endorsements Get Involved Contact RSVP News Donate Back to News March 13, 2024 Updates Post-Session Round Up Four Bills Heading to the Governor!
 I am extremely proud to share that four of my bills are waiting to be signed into law.
 They span the spectrum of progressive democrat priorities while also drawing in bipartisan support.
 The bills that made it across the finish line are about centering lived experience, creating access to justice, supporting successful re-entry, and holding businesses accountable.
@@ -34,6 +34,4 @@ This legislation increases penalties to three times the profit gained or loss av
 By passing this bill we are sending a strong message that everyone must play by the rules in Washington.
 Wishing you and yours a very happy Nowruz, or Spring Equinox, may you have a joyous and prosperous New Year.
 I hope to see you around the district and don’t hesitate to reach out if anything comes up.
-In service,
-Darya Farivar
-State Representative, 46th Legislative District
+In service, Darya Farivar State Representative, 46th Legislative District Donate Now Get Involved — Paid for by Friends of Darya Farivar — PO Box 20664 Seattle, WA 98102 Facebook X-twitter Linkedin-in Accessibility Statement

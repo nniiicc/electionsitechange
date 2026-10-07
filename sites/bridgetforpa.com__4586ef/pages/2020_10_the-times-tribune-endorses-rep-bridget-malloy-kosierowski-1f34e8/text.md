@@ -1,8 +1,6 @@
-FOR IMMEDIATE RELEASE – October 19, 2020
-CONTACT: info@BridgetForPA.com
-CLARKS SUMMIT – Today State Representative of Pennsylvania’s 114th District, Bridget Malloy Kosierowski, announces the endorsement of The Times-Tribune.
+Skip to content Search for: About Bridget Issues Photo Gallery Media District Donate Endorsements Take Action Honors & Awards Search for: About Bridget Issues Photo Gallery Media District Donate Endorsements Take Action Honors & Awards About Bridget Issues Photo Gallery Media District Donate Endorsements Take Action Honors & Awards Search for: Previous Next The Times-Tribune Endorses Rep Bridget Malloy Kosierowski FOR IMMEDIATE RELEASE – October 19, 2020 CONTACT: info@BridgetForPA.com CLARKS SUMMIT – Today State Representative of Pennsylvania’s 114th District, Bridget Malloy Kosierowski, announces the endorsement of The Times-Tribune.
 “I am so proud to have the endorsement of the Scranton Times-Tribune.
-I am proud of the accomplishments I have achieved in my short period of time in the legislature,” Kosierowski said, “I look forward to continuing the progress we have made in the 114th District.”
-The Times-Tribune endorsement article states: “In her 18 months in office, Kosierowski — the only nurse in the Legislature — has been able to advance several health care-related initiatives.
+I am proud of the accomplishments I have achieved in my short period of time in the legislature,” Kosierowski said, “I look forward to continuing the progress we have made in the 114th District.” The Times-Tribune endorsement article states: “In her 18 months in office, Kosierowski — the only nurse in the Legislature — has been able to advance several health care-related initiatives.
 Amid the pandemic, she sponsored a successful bill to expedite purchases of personal protective equipment for essential workers.
-And she leads the effort to have Pennsylvania join an interstate nursing compact to ease shortages and expand opportunities for nurses.”
+And she leads the effort to have Pennsylvania join an interstate nursing compact to ease shortages and expand opportunities for nurses.” By BridgetForPA | 2020-10-20T17:54:38+00:00 October 20th, 2020 | press release | Comments Off on The Times-Tribune Endorses Rep Bridget Malloy Kosierowski Share This Story, Choose Your Platform!
+Facebook X Reddit LinkedIn WhatsApp Tumblr Pinterest Vk Email Friends of Bridget Malloy Kosierowski PO Box 38 | Clarks Summit, PA 18411 Email: info@bridgetforpa.com copyright # Bridget For PA Facebook Page load link Go to Top

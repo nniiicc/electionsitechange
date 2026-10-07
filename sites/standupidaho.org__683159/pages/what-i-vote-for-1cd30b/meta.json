@@ -1,7 +1,9 @@
 {
  "description": "See Representative Barbara Ehardt's voting record for yourself.",
  "final_url": "https://www.standupidaho.org/what-i-vote-for",
- "paid_for_by": null,
+ "fingerprint": "db1c2f5c9d54f7d13b49fed2be09f5771ced4408",
+ "format": 3,
+ "paid_for_by": "",
  "title": "WHAT I VOTE FOR | Ehardt For Idaho",
  "years_mentioned": [
   "2018",

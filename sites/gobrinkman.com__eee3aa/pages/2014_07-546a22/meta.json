@@ -1,9 +1,19 @@
 {
  "description": "",
  "final_url": "https://gobrinkman.com/2014/07/",
- "paid_for_by": null,
+ "fingerprint": "5dc706029bcb8281615ac073ce519c30dcc04089",
+ "format": 3,
+ "paid_for_by": "",
  "title": "July | 2014 | Go Brinkman",
  "years_mentioned": [
-  "2014"
+  "2013",
+  "2014",
+  "2015",
+  "2016",
+  "2017",
+  "2018",
+  "2019",
+  "2020",
+  "2022"
  ]
 }

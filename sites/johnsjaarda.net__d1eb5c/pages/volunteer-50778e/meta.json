@@ -1,7 +1,9 @@
 {
  "description": "Volunteer for John Sjaarda&#39;s campaign",
  "final_url": "https://johnsjaarda.net/volunteer",
- "paid_for_by": null,
+ "fingerprint": "65108bcddf86eff43c56a9976020d5db3141beaf",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Volunteer",
  "years_mentioned": []
 }

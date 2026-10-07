@@ -1,44 +1,238 @@
 [
-"https://bls.gov/oes/2025/may/oes_tec.htm",
-"https://bls.gov/opub/reports/minimum-wage/2024/home.htm",
-"https://cbo.gov/publication/55410",
-"https://cbo.gov/publication/56975",
-"https://das.iowa.gov/media/5787/download",
-"https://data.bls.gov/oes",
-"https://data.bls.gov/timeseries/CWUR0000SA0",
-"https://dli.mn.gov/business/employment-practices/minimum-wage-minnesota",
-"https://dlr.sd.gov/employment_laws/minimum_wage.aspx",
-"https://docs.legis.wisconsin.gov/statutes/statutes/104/035",
-"https://gov.uk/government/publications/national-minimum-wage-and-national-living-wage-low-pay-commission-remit-2026/letter-from-peter-kyle-to-low-pay-commission-remit-2026",
-"https://ilga.gov/Documents/legislation/ilcs/documents/082001050K4.htm",
-"https://iowaledger.com/",
-"https://law.cornell.edu/uscode/text/29/206",
-"https://legis.iowa.gov/docs/code/10A.202.pdf",
-"https://legis.iowa.gov/docs/code/25B.2.pdf",
-"https://legis.iowa.gov/docs/code/25B.3.pdf",
-"https://legis.iowa.gov/docs/code/331.304.pdf",
-"https://legis.iowa.gov/docs/code/364.3.pdf",
-"https://legis.iowa.gov/docs/code/49.20.pdf",
-"https://legis.iowa.gov/docs/code/91A.pdf",
-"https://legis.iowa.gov/docs/code/91D.1.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/87/HF295.pdf",
-"https://livingwage.mit.edu/states/19",
-"https://mohlerforiowa.com/",
-"https://mohlerforiowa.com/agenda.html",
-"https://mohlerforiowa.com/agenda/pay-as-you-go.html",
-"https://mohlerforiowa.com/harris-record.html",
-"https://mohlerforiowa.com/privacy.html",
-"https://mohlerforiowa.com/where-iowa-ranks.html",
-"https://nber.org/papers/w25434",
-"https://nber.org/papers/w28388",
-"https://nebraskalegislature.gov/laws/statutes.php?statute=48-1203",
-"https://nebraskalegislature.gov/laws/statutes.php?statute=48-1203.01",
-"https://ottumwacourier.com/news/cities-reject-county-wage-ordinance/article_5899759e-cc7c-11e6-bd53-e7b98171b655.html",
-"https://revisor.mo.gov/main/OneSection.aspx?section=290.502",
-"https://revisor.mo.gov/main/PageSelect.aspx?section=290.502&bid=54967",
-"https://sdlegislature.gov/api/Statutes/60-11-3.2.html",
-"https://sdsos.gov/elections-voting/assets/Archive/Prior%20to%202026/BallotQuestions.pdf",
-"https://secure.actblue.com/donate/mohlerforiowa",
-"https://wapellocounty.org/files/meetings/2016-09-13_minutes_24109.pdf",
-"https://workforce.iowa.gov/media/234/download"
+{
+"text": "Accountability",
+"href": "https://iowaledger.com"
+},
+{
+"text": "BLS",
+"href": "https://data.bls.gov/timeseries/CWUR0000SA0"
+},
+{
+"text": "BLS",
+"href": "https://www.bls.gov/opub/reports/minimum-wage/2024/home.htm"
+},
+{
+"text": "BLS technical notes",
+"href": "https://www.bls.gov/oes/2025/may/oes_tec.htm"
+},
+{
+"text": "BLS wage survey",
+"href": "https://data.bls.gov/oes/#/area/1900000"
+},
+{
+"text": "CBO",
+"href": "https://www.cbo.gov/publication/55410"
+},
+{
+"text": "CBO",
+"href": "https://www.cbo.gov/publication/56975"
+},
+{
+"text": "Cengiz, Dube, Lindner and Zipperer",
+"href": "https://www.nber.org/papers/w25434"
+},
+{
+"text": "Department of Administrative Services",
+"href": "https://das.iowa.gov/media/5787/download?inline="
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mohlerforiowa"
+},
+{
+"text": "Every bill",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "How the agenda pays for itself",
+"href": "https://mohlerforiowa.com/agenda/pay-as-you-go.html"
+},
+{
+"text": "Iowa Workforce Development poster",
+"href": "https://workforce.iowa.gov/media/234/download"
+},
+{
+"text": "Issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "MIT",
+"href": "https://livingwage.mit.edu/states/19"
+},
+{
+"text": "Missouri law today",
+"href": "https://revisor.mo.gov/main/OneSection.aspx?section=290.502"
+},
+{
+"text": "Nebraska law",
+"href": "https://nebraskalegislature.gov/laws/statutes.php?statute=48-1203"
+},
+{
+"text": "Nebraska law",
+"href": "https://nebraskalegislature.gov/laws/statutes.php?statute=48-1203.01"
+},
+{
+"text": "Neumark and Shirley",
+"href": "https://www.nber.org/papers/w28388"
+},
+{
+"text": "Ottumwa Courier",
+"href": "https://www.ottumwacourier.com/news/cities-reject-county-wage-ordinance/article_5899759e-cc7c-11e6-bd53-e7b98171b655.html"
+},
+{
+"text": "Privacy",
+"href": "https://mohlerforiowa.com/privacy.html"
+},
+{
+"text": "South Dakota Secretary of State",
+"href": "https://sdsos.gov/elections-voting/assets/Archive/Prior%20to%202026/BallotQuestions.pdf"
+},
+{
+"text": "South Dakota law",
+"href": "https://sdlegislature.gov/api/Statutes/60-11-3.2.html"
+},
+{
+"text": "The Agenda",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "The District",
+"href": "https://mohlerforiowa.com/#district"
+},
+{
+"text": "The Harris File",
+"href": "https://mohlerforiowa.com/harris-record.html"
+},
+{
+"text": "The issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "UK government",
+"href": "https://www.gov.uk/government/publications/national-minimum-wage-and-national-living-wage-low-pay-commission-remit-2026/letter-from-peter-kyle-to-low-pay-commission-remit-2026"
+},
+{
+"text": "Volunteer",
+"href": "https://mohlerforiowa.com/#volunteer"
+},
+{
+"text": "Wapello County minutes",
+"href": "https://www.wapellocounty.org/files/meetings/2016-09-13_minutes_24109.pdf"
+},
+{
+"text": "Where Iowa Ranks",
+"href": "https://mohlerforiowa.com/where-iowa-ranks.html"
+},
+{
+"text": "[image: Mohler for Iowa]",
+"href": "https://mohlerforiowa.com/"
+},
+{
+"text": "before the change",
+"href": "https://revisor.mo.gov/main/PageSelect.aspx?section=290.502&bid=54967"
+},
+{
+"text": "bls.gov",
+"href": "https://www.bls.gov/opub/reports/minimum-wage/2024/home.htm"
+},
+{
+"text": "cbo.gov",
+"href": "https://www.cbo.gov/publication/55410"
+},
+{
+"text": "das.iowa.gov",
+"href": "https://das.iowa.gov/media/5787/download?inline="
+},
+{
+"text": "data.bls.gov",
+"href": "https://data.bls.gov/oes/#/area/1900000"
+},
+{
+"text": "data.bls.gov",
+"href": "https://data.bls.gov/timeseries/CWUR0000SA0"
+},
+{
+"text": "dli.mn.gov",
+"href": "https://www.dli.mn.gov/business/employment-practices/minimum-wage-minnesota"
+},
+{
+"text": "dlr.sd.gov",
+"href": "https://dlr.sd.gov/employment_laws/minimum_wage.aspx"
+},
+{
+"text": "docs.legis.wisconsin.gov",
+"href": "https://docs.legis.wisconsin.gov/statutes/statutes/104/035"
+},
+{
+"text": "federal law",
+"href": "https://www.law.cornell.edu/uscode/text/29/206"
+},
+{
+"text": "ilga.gov",
+"href": "https://www.ilga.gov/Documents/legislation/ilcs/documents/082001050K4.htm"
+},
+{
+"text": "law.cornell.edu",
+"href": "https://www.law.cornell.edu/uscode/text/29/206"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/10A.202.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/25B.2.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/25B.3.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/331.304.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/364.3.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/49.20.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/91A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/91D.1.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/87/HF295.pdf"
+},
+{
+"text": "livingwage.mit.edu",
+"href": "https://livingwage.mit.edu/states/19"
+},
+{
+"text": "nber.org",
+"href": "https://www.nber.org/papers/w25434"
+},
+{
+"text": "nebraskalegislature.gov",
+"href": "https://nebraskalegislature.gov/laws/statutes.php?statute=48-1203"
+},
+{
+"text": "revisor.mo.gov",
+"href": "https://revisor.mo.gov/main/OneSection.aspx?section=290.502"
+},
+{
+"text": "sdsos.gov",
+"href": "https://sdsos.gov/elections-voting/assets/Archive/Prior%20to%202026/BallotQuestions.pdf"
+},
+{
+"text": "workforce.iowa.gov",
+"href": "https://workforce.iowa.gov/media/234/download"
+}
 ]

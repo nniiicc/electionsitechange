@@ -1,9 +1,10 @@
-Congresswoman Joyce Beatty proudly represents Ohio’s Third Congressional District in the United States Congress.
+Join Our Campaign Sign Up Home About Joyce News Get Involved Issues Events Gallery Contact About Joyce Congresswoman Joyce Beatty proudly represents Ohio’s Third Congressional District in the United States Congress.
 She sits on the exclusive House Committee on Financial Services and serves on three Subcommittees: Chair of Diversity and Inclusion, Housing, Community Development and Insurance, and Oversight and Investigations.
 As the first-ever Chairwoman of the Financial Services Subcommittee on Diversity and Inclusion, Beatty leads efforts to ensure the financial services industry works better for all Americans.
 Congresswoman Beatty is known for using her powerful voice to connect people to policy and politics, and for being a bridge-builder.
 Recently, Beatty received national attention when she was peppered sprayed while standing with peaceful protesters over the killings of Ahmaud Arbery, Breonna Taylor and George Floyd.
-In response, she introduced H.Res. 990, Racism is a ‘National Crisis.’ Beatty has written 93 pieces of legislation and cosponsored over 1,600 bills.
+In response, she introduced H.Res.
+990, Racism is a ‘National Crisis.’ Beatty has written 93 pieces of legislation and cosponsored over 1,600 bills.
 A sought after public speaker and recognized by Ebony Magazine as one of the 150 most powerful African-Americans in the United States.
 She is leading the charge in Congress to ensure greater diversity at the Federal Reserve, introducing a bill modeled after the NFL’s “Rooney Rule” that guarantees at least one gender diverse candidate and racially or ethnically diverse candidate are interviewed when there is a vacancy among the Federal Reserve Regional Bank presidents.
 Her bill is known as the “Beatty Rule.” Beatty has written 93 pieces of legislation and cosponsored over 1,600 bills.
@@ -14,3 +15,9 @@ Congresswoman Beatty was the first African-American female to chair the Columbus
 She received her Bachelor of Arts from Central State University, her Master of Science from Wright State University, and completed all requirements but her dissertation for a doctorate at the University of Cincinnati.
 She has been awarded honorary doctorate degrees from Central State University and Ohio Dominican University, as well as an honorary juris doctor from Capital University Law School.
 She is married to Attorney Otto Beatty, Jr. and is the proud grandmother of Leah and Spencer.
+Register to vote Volunteer!
+Vote By Mail Donate to Congresswoman Joyce Beatty $5 $10 $25 $100 Paid for by Joyce Beatty for Congress Copyright © # All Rights Reserved.
+Joyce Beatty for Congress 222 E.
+Town St.
+Suite 2W Columbus, OH 43215 P.O.
+Box 172 Columbus, OH 43216 Phone: (614) 600-4231 E-mail: beattyforcongress@gmail.com

@@ -1,11 +1,5 @@
-Data Centers Could Bring Prosperity to Rural Montana
-By Shane Klakken, Montana House District 37
-June 10, 2026
-Data Centers Could Bring Prosperity to Rural Montana
-June 10th, 2026
-By Rep.
-Shane Klakken, HD 37
-As folks across Central Montana tune into the news, the talk of big data centers popping up in places like Great Falls, Butte, and Billings raises some understandable questions.
+top of page News Principles Calendar About Menu Close Donate Data Centers Could Bring Prosperity to Rural Montana By Shane Klakken, Montana House District 37 June 10, 2026 Data Centers Could Bring Prosperity to Rural Montana June 10th, 2026 By Rep.
+Shane Klakken, HD 37 As folks across Central Montana tune into the news, the talk of big data centers popping up in places like Great Falls, Butte, and Billings raises some understandable questions.
 In tight-knit rural communities like Lewistown, we value our way of life—open spaces, reliable ranches, affordable power, and careful use of our water.
 Change can feel unsettling, especially when it involves high-tech giants.
 But before we dismiss these projects, let’s separate fact from fiction, just as our neighbors deserve straight talk rooted in common sense.
@@ -39,3 +33,7 @@ The alternative is watching the future pass us by while clinging to limited ener
 Data centers won’t turn Central Montana into a big city, but they can deliver jobs, tax relief, and investment that strengthen our rural communities without sacrificing what we love.
 Let’s approach this with clear eyes and Montana values: protect our ratepayers, use resources wisely, and welcome responsible growth that puts local families first, protects our environment, and does not harm our water supply.
 The economy of tomorrow is coming—Montana should lead it, not fear it.
+Back to Updates Stay Connected with Shane Be part of the conversation and stay informed about upcoming events, legislative updates, and community news across Montana.
+Subscribe Now Or connect on social media: Socials Contact Info Tel. ‭+1 (406) 217-6107 ‬P.O.
+Box PO Box 128 Grass Range, MT 59032 Resources News Principles Calendar Newsletter Navigation Home About Contact Paid for by Shane Klakken For HD37 (R) • Sam Holmes, Treasurer • PO Box 128 Grass Range, Mt 59032 ©# by Shane Klakken.
+News Principles Calendar About bottom of page

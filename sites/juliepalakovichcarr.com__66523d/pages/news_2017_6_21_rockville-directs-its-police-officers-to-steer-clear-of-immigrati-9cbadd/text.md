@@ -1,3 +1,5 @@
-The Rockville City Council approved an ordinance restricting police from cooperating with federal immigration authorities or asking residents about citizenship status.
+Home Need Help?
+About Julie Legislation Accomplishments Endorsements News Contact Contribute Home Need Help?
+About Julie Legislation Accomplishments Endorsements News Contact Contribute Julie Palakovich Carr June 21, 2017 News Rockville Directs Its Police Officers to Steer Clear of Immigration Enforcement Julie Palakovich Carr June 21, 2017 News The Rockville City Council approved an ordinance restricting police from cooperating with federal immigration authorities or asking residents about citizenship status.
 The “Fostering Community Trust” ordinance codifies existing Rockville police force practices that are designed to keep local law enforcement at arms length from deportation and other federal actions that spawn fear in immigrant communities.
-The ordinance was sponsored by Julie Palakovich Carr.
+The ordinance was sponsored by Julie Palakovich Carr. https://www.washingtonpost.com/local/md-politics/rockville-directs-its-police-officers-to-steer-clear-of-immigration-enforcement/2017/06/21/410eb664-568d-11e7-a204-ad706461fa4f_story.html?utm_term=.7c7406035422 Newer Post Rockville City Councilmember Julie Palakovich Carr Announces Candidacy for Maryland State Delegate Older Post Rockville Bans Smoking in Outdoor Restaurants Back to Top Authorized by Friends of Julie Palakovich Carr, Treasurer Yamil Hernandez Contact Julie at Julie@JuliePalakovichCarr.com

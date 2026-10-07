@@ -1,13 +1,17 @@
-IF YOU’RE READY TO FIGHT FOR A BETTER FUTURE WITH PATRICK, WILL YOU DONATE TO OUR CAMPAIGN TODAY?
-YOUR VOICE.
+Skip to main content Hit enter to search or ESC to close Search Close Search Menu HOME ABOUT NEWS MEDIA LOCATING VOTING INFORMATION DONATE facebook YOUR VOICE.
 YOUR ADVOCATE.
 YOUR RESULTS.
 TOGETHER WE’VE MADE PROGRESS, BUT OUR WORK IS NOT DONE!
-NEWS & MEDIA.
-Investing in Brighton Elementary School
-✨📚 Investing in Our Future 📚✨ Thank you to Principal Bryant and Staff Today, I had the honor of presenting a $5,000 check to Brighton Elementary School! 🎉 As your…
-Read More
-Investing in Pleasant Grove High School
-Honored to invest $10,000 in Pleasant Grove High School tonight at the football game.
-Our students are the heartbeat of District 57, and when we invest in them, we invest…
-Read More
+LEGISLATIVE WINS TEACHER ASSAULT PREVENTION & PARENTAL ACCOUNTABILTIY ACT (TAPPA) | OVERSIGHT REFORMS FOR DHR & ADULT PROTECTIVE SERVICES | WORKFORCE TRAINING & TRADE EDUCATION FUNDING | ANTI-VIOLENCE & COMMUNITY SAFETY BILLS | EDUCATION EQUITY INITIATIVES COMMUNITY INVESTMENTS FUNDING FOR SCHOOLS, PARKS, ROADS, AND PROGRAMS | HOUSING REDEVELOPMENT & AFFORDABLE HOUSING EFFORTS | EXPANDED ACCESS TO HEALTH SERVICES DISTRICT LEADERSHIP & ADVOCACY DISTRICT 57 COMMUNITY ROUNDTABLE | ANNUAL BACK-TO-SCHOOL & HOLIDAY DRIVES | COVID-19 RELIEF EFFORTS ACCESSIBILITY & ACCOUNTABILITY OPEN DOOR POLICY & TOWN HALLS | TRANSPARENT, RESPONSIVE LEADERSHIP NEWS & MEDIA.
+September 17, 2025 Investing in Girls Today, Building Leaders Tomorrow September 9, 2025 in Community Impact Investing in Brighton Elementary School ✨📚 Investing in Our Future 📚✨ Thank you to Principal Bryant and Staff Today, I had the honor of presenting a $5,000 check to Brighton Elementary School! 🎉 As your… Read More September 5, 2025 in Community Impact Investing in Pleasant Grove High School Honored to invest $10,000 in Pleasant Grove High School tonight at the football game.
+Our students are the heartbeat of District 57, and when we invest in them, we invest… Read More September 4, 2025 in Community Impact Investing in Pleasant Grove Elementary School Thank you Principal Lewis and staff for all you do to impact our children !!!!
+Investing in Our Future! 📚🎉 Today, I had the honor of presenting Pleasant Grove Elementary… Read More August 29, 2025 in Community Impact Investing in Wenonah High School Supporting Our Students! 🏈🎓 Tonight, at the Wenonah High School football game, I had the honor of presenting a $5,000 contribution to support the incredible students, faculty, and programs that… Read More READ MORE NEWS patricksellershueytown patricksellerswenonah patricksellerspleasantgrovehigh patricksellersmidfieldcityschool2 patricksellersmidfieldcityschool patricksellershueytown3 patricksellershueytown2 patricksellerspleasantgroveelementary patricksellerspleasantgrove patricksellerspleasantgrov patricksellersbrightonelementary 548196340_10237977631838406_357704835245112105_n patricksellerswenonah patricksellersinterns2 patricksellersinterns3 patricksellersinterns4 patricksellersinterns5 patricksellersinterns patricksellershueytown5 patricksellershueytown4 MAKE A DONATION.
+IF YOU’RE READY TO FIGHT FOR A BETTER FUTURE WITH PATRICK, WILL YOU DONATE TO OUR CAMPAIGN TODAY?
+DONATE TODAY DONATE TODAY DONATE TODAY JOIN THE MOVEMENT.
+Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+Name * First Last Name By providing your telephone number and checking this box, you consent to receive calls and text messages.
+Msg & data rates may vary.
+Messaging may include requests for donation.
+Reply "STOP" to opt-out & "HELP" for help.
+Privacy Policy Submit facebook © # RE-ELECT PATRICK SELLERS ALABAMA HOUSE OF REPRESENTATIVES. | PAID FOR BY COMMITTEE TO ELECT PATRICK SELLERS | 319 11TH PL PLEASANT GROVE, AL 35127 Close Menu HOME ABOUT NEWS MEDIA LOCATING VOTING INFORMATION DONATE facebook DONATE TO THE CAMPAIGN CLOSE

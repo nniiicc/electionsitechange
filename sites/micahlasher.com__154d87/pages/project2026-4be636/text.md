@@ -1,22 +1,13 @@
-PROJECT 2026
-A Blueprint to Fight Back
-01
-Throwing Sand in the Republicans’ Gears
-For the first time since 2017, Republicans control the House of Representatives, the Senate, and the Presidency.
+Skip to main content Skip to footer Opens in a new tab Meet Micah Platform Fighting Back Against Trumpism Tackling Affordability Protecting Immigrants and Defending Civil Rights Ensuring Health Care for All Improving Public Safety and Quality of Life Championing Reproductive Health and Freedom Stopping Corruption Strengthening our Public Schools and Colleges Combating Hate Crimes and Antisemitism Leading on Climate Change and Environmental Protection Strengthening Rights and Protections for the LGBTQ+ Community Restoring a Principled, Lawful, and Effective Foreign Policy Holding Big Tech Corporations Accountable and Putting Safeguards on AI Project 2026 Endorsements News & Updates Contribute Volunteer Meet Micah Platform & Policies Endorsements News & Updates Project 2026 Donate PROJECT 2026 A Blueprint to Fight Back 01 Throwing Sand in the Republicans’ Gears For the first time since 2017, Republicans control the House of Representatives, the Senate, and the Presidency.
 Unlike the first Trump Administration, however, they have a ready playbook and a commander-in-chief who is moving without hesitation to discard the most fundamental democratic rules and norms in service of establishing absolute power.
 The stakes are higher than they have ever been before, and Democrats have an obligation to meet the moment with commensurate creativity, energy, and resolve.
-Download Plan
-02
-A Roadmap for Congressional Oversight and Investigations
-I continue to believe that Congressional Democrats must be far more aggressive in
-confronting and opposing the Trump Administration.
+Download Plan 02 A Roadmap for Congressional Oversight and Investigations I continue to believe that Congressional Democrats must be far more aggressive in confronting and opposing the Trump Administration.
 This is the second in my series of plans for how to do so.
-Download Plan
-03
-Planning a Post-Trump Legal Reconstruction
-In the first two parts of The Fight Back Blueprint, I outlined strategies that Democrats should pursue to slow and stall Donald Trump’s agenda in Congress and ensure
-accountability for misconduct and lawbreaking.
+Download Plan 03 Planning a Post-Trump Legal Reconstruction In the first two parts of The Fight Back Blueprint, I outlined strategies that Democrats should pursue to slow and stall Donald Trump’s agenda in Congress and ensure accountability for misconduct and lawbreaking.
 It is important, though, that we also think about the long term and strengthen laws that Trump has used to wreak such destruction and chaos.
 This paper, the third part of my blueprint, lays out plans to “Trump-proof” key federal statutes, so that no president in the future can weaponize them in the same way that Trump has.
 We must fight not only Trump but Trumpism.
-Download Plan
+Download Plan Video Briefings Meet Micah Platform & Policies Endorsements News & Updates Contribute Volunteer Donate by Mail Lasher for Congress ATTN: Robert Gottheim, Treasurer 200 W.
+79th Street, #8N New York, NY 10024 Contact Us Paid for by Lasher for Congress ©# Lasher for Congress.
+All Rights Reserved.
+Privacy Policy

@@ -1,12 +1,3 @@
-Tuesday, July 23, 7:00 - 8:00 PM
-Makiki Christian Church, 829 Pensacola Street
-Meeting number / Access code: 2492 331 1577
-Password: NB11 (6211 from phones and video systems)
-Back to All Events
-Ala Moana/Kakaako Neighborhood Board Candidate Forum
-Tuesday, July 23, 7:00 - 8:00 PM
-Makiki Christian Church, 829 Pensacola Street
-Earlier Event: July 22
-Ballots Arrive
-Later Event: July 26
-Sign Waving - Kamakee & Auahi
+Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Back to All Events Ala Moana/Kakaako Neighborhood Board Candidate Forum Tuesday, July 23, 2024 7:00 PM 8:00 PM 19:00 20:00 829 Pensacola Street Honolulu, HI, 96814 United States (map) Google Calendar ICS Tuesday, July 23, 7:00 - 8:00 PM Makiki Christian Church, 829 Pensacola Street Virtual Meeting Link Meeting number / Access code: 2492 331 1577 Password: NB11 (6211 from phones and video systems) Earlier Event: July 22 Ballots Arrive Later Event: July 26 Sign Waving - Kamakee & Auahi Campaign Headquarters: (808) 664-3830* • KimCoco@KimCoco.com *If you choose to text Friends of Kim Coco at this number, please indicate SUBSCRIBE, or we will not be able to reply via text.
+You may unsubscribe at any time with STOP Paid for by Friends of Kim Coco • P.O.
+Box 22136 • Honolulu, HI 96823

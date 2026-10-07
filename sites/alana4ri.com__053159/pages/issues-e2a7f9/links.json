@@ -1,11 +1,50 @@
 [
-"https://alana4ri.com/",
-"https://alana4ri.com/about",
-"https://alana4ri.com/issues",
-"https://alana4ri.com/news",
-"https://alana4ri.com/newsletter",
-"https://alana4ri.com/volunteer",
-"https://bsky.app/profile/alanadimario.bsky.social",
-"https://facebook.com/Alana4RI",
-"https://secure.actblue.com/donate/leaveitallonthefield"
+{
+"text": "About",
+"href": "https://www.alana4ri.com/about"
+},
+{
+"text": "Alana4RI@gmail.com",
+"href": "mailto:Alana4RI@gmail.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/leaveitallonthefield"
+},
+{
+"text": "Home",
+"href": "https://www.alana4ri.com"
+},
+{
+"text": "In the News",
+"href": "https://www.alana4ri.com/news"
+},
+{
+"text": "Issues",
+"href": "https://www.alana4ri.com/issues"
+},
+{
+"text": "LEGISLATION",
+"href": "https://www.alana4ri.com/issues"
+},
+{
+"text": "Newsletter",
+"href": "https://www.alana4ri.com/newsletter"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.alana4ri.com/volunteer"
+},
+{
+"text": "[image: Bluesky Logo]",
+"href": "https://bsky.app/profile/alanadimario.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Alana4RI"
+},
+{
+"text": "[no text]",
+"href": "https://www.alana4ri.com"
+}
 ]

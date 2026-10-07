@@ -1,31 +1,146 @@
 [
-"https://campaignpartner.com/",
-"https://elizabethforus.com/",
-"https://elizabethforus.com/contact",
-"https://elizabethforus.com/contribute",
-"https://elizabethforus.com/contribute?amount=10",
-"https://elizabethforus.com/contribute?amount=100",
-"https://elizabethforus.com/contribute?amount=1000",
-"https://elizabethforus.com/contribute?amount=1111",
-"https://elizabethforus.com/contribute?amount=15",
-"https://elizabethforus.com/contribute?amount=1500",
-"https://elizabethforus.com/contribute?amount=1972",
-"https://elizabethforus.com/contribute?amount=20",
-"https://elizabethforus.com/contribute?amount=2026",
-"https://elizabethforus.com/contribute?amount=25",
-"https://elizabethforus.com/contribute?amount=250",
-"https://elizabethforus.com/contribute?amount=5",
-"https://elizabethforus.com/contribute?amount=50",
-"https://elizabethforus.com/contribute?amount=500",
-"https://elizabethforus.com/contribute?amount=53",
-"https://elizabethforus.com/events",
-"https://elizabethforus.com/home",
-"https://elizabethforus.com/issues",
-"https://elizabethforus.com/meet_elizabeth",
-"https://elizabethforus.com/news",
-"https://elizabethforus.com/photos",
-"https://elizabethforus.com/view-endorsements",
-"https://elizabethforus.com/volunteer",
-"https://elizabethforus.com/vote",
-"https://elizabethforus.com/yard-sign"
+{
+"text": "$#",
+"href": "https://www.elizabethforus.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.elizabethforus.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.elizabethforus.com/contribute?amount=15"
+},
+{
+"text": "$#",
+"href": "https://www.elizabethforus.com/contribute?amount=20"
+},
+{
+"text": "$#",
+"href": "https://www.elizabethforus.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.elizabethforus.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://www.elizabethforus.com/contribute?amount=5"
+},
+{
+"text": "$#",
+"href": "https://www.elizabethforus.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://www.elizabethforus.com/contribute?amount=500"
+},
+{
+"text": "$#",
+"href": "https://www.elizabethforus.com/contribute?amount=53"
+},
+{
+"text": "$1000",
+"href": "https://www.elizabethforus.com/contribute?amount=1000"
+},
+{
+"text": "$1111",
+"href": "https://www.elizabethforus.com/contribute?amount=1111"
+},
+{
+"text": "$1500",
+"href": "https://www.elizabethforus.com/contribute?amount=1500"
+},
+{
+"text": "$1972",
+"href": "https://www.elizabethforus.com/contribute?amount=1972"
+},
+{
+"text": "$2026",
+"href": "https://www.elizabethforus.com/contribute?amount=2026"
+},
+{
+"text": "CONNECT WITH US",
+"href": "https://www.elizabethforus.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.elizabethforus.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.elizabethforus.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.elizabethforus.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.elizabethforus.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.elizabethforus.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.elizabethforus.com/issues"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://www.elizabethforus.com/volunteer"
+},
+{
+"text": "Meet Elizabeth",
+"href": "https://www.elizabethforus.com/meet_elizabeth"
+},
+{
+"text": "Need Voting Information? Register & Find Your Polling Location Click Here for Information",
+"href": "https://www.elizabethforus.com/vote"
+},
+{
+"text": "News",
+"href": "https://www.elizabethforus.com/news"
+},
+{
+"text": "Other",
+"href": "https://www.elizabethforus.com/contribute"
+},
+{
+"text": "Photos",
+"href": "https://www.elizabethforus.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Show Your Support! Request a Yard Sign Click Here to Request a Sign",
+"href": "https://www.elizabethforus.com/yard-sign"
+},
+{
+"text": "Support Our Campaign Make a Contribution Today Click Here to Contribute",
+"href": "https://www.elizabethforus.com/contribute"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.elizabethforus.com/vote"
+},
+{
+"text": "Volunteer",
+"href": "https://www.elizabethforus.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.elizabethforus.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.elizabethforus.com/yard-sign"
+},
+{
+"text": "[image: Elizabeth Kirtley US Congress Ohio District 6]",
+"href": "https://www.elizabethforus.com/"
+}
 ]

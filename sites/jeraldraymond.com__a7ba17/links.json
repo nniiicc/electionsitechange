@@ -1,21 +1,86 @@
 [
-"https://facebook.com/votejeraldraymond",
-"https://jeraldraymond.com/",
-"https://jeraldraymond.com/about",
-"https://jeraldraymond.com/donation-form",
-"https://jeraldraymond.com/endorsements",
-"https://jeraldraymond.com/media/y1pgcfhx/ag-all-star-picture.jpg",
-"https://jeraldraymond.com/updates",
-"https://jeraldraymond.com/volunteer",
-"https://jeraldraymond.com/voting-record",
-"https://smartlydone.com/",
-"https://soundcloud.com/byu-idaho-radio",
-"https://soundcloud.com/byu-idaho-radio/jerald-raymond-talks-about-is-campaign-for-idaho-house-of-representatives",
-"https://videos.sproutvideo.com/embed/1190dab51318e3c898/3ada4f37e018d335?autoplay=true",
-"https://videos.sproutvideo.com/embed/7090dab51318e2c4f9/6bded0a0621b7880?autoplay=true",
-"https://videos.sproutvideo.com/embed/7990dab51318e3c0f0/6ae2357da9f205df?autoplay=true",
-"https://videos.sproutvideo.com/embed/a790dab51318e3c62e/acfc7788b2d4ed14?autoplay=true",
-"https://videos.sproutvideo.com/embed/ea90dab51318e4c063/bd5ebb2674498897?autoplay=true",
-"https://voteidaho.gov/online-voter-tools",
-"https://youtube.com/watch?v=e7XuN1X0YiI"
+{
+"text": "About",
+"href": "https://jeraldraymond.com/about/"
+},
+{
+"text": "BYU-Idaho Radio",
+"href": "https://soundcloud.com/byu-idaho-radio"
+},
+{
+"text": "Donate",
+"href": "https://jeraldraymond.com/donation-form/"
+},
+{
+"text": "Endorsements",
+"href": "https://jeraldraymond.com/endorsements/"
+},
+{
+"text": "Jerald Raymond talks about is campaign for Idaho House of Representatives",
+"href": "https://soundcloud.com/byu-idaho-radio/jerald-raymond-talks-about-is-campaign-for-idaho-house-of-representatives"
+},
+{
+"text": "Jerald’s Voting Record",
+"href": "https://jeraldraymond.com/voting-record/"
+},
+{
+"text": "Learn More About Jerald",
+"href": "https://jeraldraymond.com/about/"
+},
+{
+"text": "Smartly Done",
+"href": "https://smartlydone.com"
+},
+{
+"text": "Updates",
+"href": "https://jeraldraymond.com/updates/"
+},
+{
+"text": "Volunteer",
+"href": "https://jeraldraymond.com/volunteer/"
+},
+{
+"text": "Voting Record",
+"href": "https://jeraldraymond.com/voting-record/"
+},
+{
+"text": "[image]",
+"href": "https://jeraldraymond.com/media/y1pgcfhx/ag-all-star-picture.jpg"
+},
+{
+"text": "[image]",
+"href": "https://videos.sproutvideo.com/embed/1190dab51318e3c898/3ada4f37e018d335?autoplay=true"
+},
+{
+"text": "[image]",
+"href": "https://videos.sproutvideo.com/embed/7090dab51318e2c4f9/6bded0a0621b7880?autoplay=true"
+},
+{
+"text": "[image]",
+"href": "https://videos.sproutvideo.com/embed/7990dab51318e3c0f0/6ae2357da9f205df?autoplay=true"
+},
+{
+"text": "[image]",
+"href": "https://videos.sproutvideo.com/embed/a790dab51318e3c62e/acfc7788b2d4ed14?autoplay=true"
+},
+{
+"text": "[image]",
+"href": "https://videos.sproutvideo.com/embed/ea90dab51318e4c063/bd5ebb2674498897?autoplay=true"
+},
+{
+"text": "[image]",
+"href": "https://voteidaho.gov/online-voter-tools/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/votejeraldraymond"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/watch?v=e7XuN1X0YiI"
+},
+{
+"text": "[image] Jerald Raymond",
+"href": "https://jeraldraymond.com/"
+}
 ]

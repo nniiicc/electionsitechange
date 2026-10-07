@@ -1,7 +1,9 @@
 {
  "description": "Senator John Albers is working tirelessly to support the families of Cobb, Cherokee, North Fulton County, and the State of Georgia.",
  "final_url": "https://www.senatoralbers.com/",
- "paid_for_by": null,
+ "fingerprint": "13a8ddb80fc7670a4714085b5bc2acaebb9063f1",
+ "format": 3,
+ "paid_for_by": "sponsored by Sen",
  "title": "Senator John Albers",
  "years_mentioned": [
   "2020",

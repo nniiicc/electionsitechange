@@ -1,9 +1,46 @@
 [
-"https://paypal.com/donate?hosted_button_id=JBMRJFPVX95HG",
-"https://robinbartleman.com/",
-"https://robinbartleman.com/about",
-"https://robinbartleman.com/appropriations",
-"https://robinbartleman.com/bills-passed",
-"https://robinbartleman.com/fighting-for-our-community",
-"https://robinbartleman.com/volunteer"
+{
+"text": "BILLS PASSED",
+"href": "https://robinbartleman.com/bills-passed"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://robinbartleman.com/#endorsements"
+},
+{
+"text": "FIGHTING FOR OUR COMMUNITY",
+"href": "https://robinbartleman.com/fighting-for-our-community"
+},
+{
+"text": "HOME",
+"href": "https://robinbartleman.com/"
+},
+{
+"text": "MEET ROBIN",
+"href": "https://robinbartleman.com/about"
+},
+{
+"text": "Our fight",
+"href": "https://robinbartleman.com/fighting-for-our-community"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://robinbartleman.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://robinbartleman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://robinbartleman.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://www.paypal.com/donate/?hosted_button_id=JBMRJFPVX95HG"
+},
+{
+"text": "appropriations",
+"href": "https://robinbartleman.com/appropriations"
+}
 ]

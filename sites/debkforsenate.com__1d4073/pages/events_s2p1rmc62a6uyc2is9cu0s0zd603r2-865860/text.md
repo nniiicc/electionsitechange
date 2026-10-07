@@ -1,15 +1,2 @@
-9/16 - 5pm Clayton Playground, Port Orchard
-9/20 - 10am Clayton Playground, Port Orchard
-9/25 - 5pm Kenneth Leo Marvin Veterans Memorial Park, Gig Harbor
-9/27 - 10am Kenneth Leo Marvin Veterans Memorial Park, Gig Harbor
-10/4 - 10am Clayton Playground, Port Orchard
-10/9 - 5pm Clayton Playground, Port Orchard
-10/11 - 11am Kenneth Leo Marvin Veterans Memorial Park, Gig Harbor
-10/16 - 5pm Clayton Playground, Port Orchard
-10/18 - 10am Kenneth Leo Marvin Veterans Memorial Park, Gig Harbor
-10/19 - 11am Evergreen Rotary Park, Bremerton
-10/23-5pm Clayton Playground, Port Orchard
-10/25-10am Kenneth Leo Marvin Veterans Memorial Park, Gig Harbor
-10/26-11am Kenneth Leo Marvin Veterans Memorial Park, Gig Harbor
-11/1 - 11am Bremerton - Email Zach@debkforsenate.com for full location details!
-11/2 - 11am Evergreen Rotary Park, Bremerton
+0 Skip to Content Home Endorsements Issues Events News Endorse Deb Get Involved DONATE Open Menu Close Menu Home Endorsements Issues Events News Endorse Deb Get Involved DONATE Open Menu Close Menu Home Endorsements Issues Events News Endorse Deb Get Involved DONATE Back to All Events Fall Doorbelling Schedule Tuesday, September 16, 2025 5:00 PM Sunday, November 2, 2025 11:00 AM Google Calendar ICS 9/16 - 5pm Clayton Playground, Port Orchard 9/20 - 10am Clayton Playground, Port Orchard 9/25 - 5pm Kenneth Leo Marvin Veterans Memorial Park, Gig Harbor 9/27 - 10am Kenneth Leo Marvin Veterans Memorial Park, Gig Harbor 10/4 - 10am Clayton Playground, Port Orchard 10/9 - 5pm Clayton Playground, Port Orchard 10/11 - 11am Kenneth Leo Marvin Veterans Memorial Park, Gig Harbor 10/16 - 5pm Clayton Playground, Port Orchard 10/18 - 10am Kenneth Leo Marvin Veterans Memorial Park, Gig Harbor 10/19 - 11am Evergreen Rotary Park, Bremerton 10/23-5pm Clayton Playground, Port Orchard 10/25-10am Kenneth Leo Marvin Veterans Memorial Park, Gig Harbor 10/26-11am Kenneth Leo Marvin Veterans Memorial Park, Gig Harbor 11/1 - 11am Bremerton - Email Zach@debkforsenate.com for full location details!
+11/2 - 11am Evergreen Rotary Park, Bremerton Previous Previous September 13 Fall Doorbelling Kickoff Next Next October 12 Get Out The Vote Phone Banking DONATE ENDORSEMENTS ENDORSE DEB Paid for by Deb K for Senate (D) | 11010 Harbor Hill Dr Ste B 277, Gig Harbor, WA, 98332

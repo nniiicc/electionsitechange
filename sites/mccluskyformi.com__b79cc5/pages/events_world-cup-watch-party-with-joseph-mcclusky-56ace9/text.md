@@ -1,9 +1,1 @@
-Back to All Events
-Join Joseph McClusky for a World Cup Watch Party to watch Mexico vs South Africa at Tulip City Bar and Grill
-Previous
-Previous
-May 23
-Canvass Launch
-Next
-Next
-June 13
+0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Back to All Events World Cup Watch Party with Joseph McClusky Thursday, June 11, 2026 3:00 PM 5:00 PM Tulip City Bar and Grill 430 West 17th Street Holland, Michigan, 49423 United States (map) Google Calendar ICS Join Joseph McClusky for a World Cup Watch Party to watch Mexico vs South Africa at Tulip City Bar and Grill Previous Previous May 23 Canvass Launch Next Next June 13 Door Knocking with Joseph McClusky in Holland Heights Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy

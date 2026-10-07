@@ -1,30 +1,13 @@
-March 2022
-March 2022
-February 2022
-January 2022
-August 2021
-June 2021
-Brookland-Cayce Boys Soccer Team honored with Resolution at State House
-Lexington County Chronicle
-May 2021
-Open carry gun bill heads to Gov.
-McMaster's desk after SC House OKs Senate changes
-Charleston Post & Courier
-April 2021
-After 3000 miles, 7 months, couple's walk to help families with illness ends in SC
-Hilton Head Island Packet
-April 2021
-SC House passes bill that could dramatically expand state's open carry laws
-Hilton Head Island Packet
-February 2021
-September 2020
-Lexington County Community Leaders to Honor First Responders
-Lexington County Chronicle
-May 2017
-Rep.
+0 Skip to Content Home About Meet Micah Committees District 89 Issues News and Media News Social Media Resources Volunteer DONATE Open Menu Close Menu Home About Meet Micah Committees District 89 Issues News and Media News Social Media Resources Volunteer DONATE Open Menu Close Menu Home Folder: About Back Meet Micah Committees District 89 Issues Folder: News and Media Back News Social Media Resources Volunteer DONATE May 2022 Roe v Wade: Reaction in SC to report Supreme Court preparing to overturn abortion law The State April 2022 Crossover deadline looms over lawmakers this week WLTX April 2022 House passes bill to restrict sales of alcoholic food WLTX April 2022 SC lawmakers advance bill to treat 'alcohol-infused foods' like beverages WCBD March 2022 CONNECTING SOUTH CAROLINA: West Columbia call center announces hundreds of new jobs ABC Columbia March 2022 South Carolina voting changes unite Democrats, Republicans Charlotte Observer March 2022 Midlands SC Parents Allege School District Misappropriated Funds, Hypocritically Masked Students FITSnews.com February 2022 Lexington County Legislative Delegation urging South Carolinians to pray for Ukraine Lexington Ledger January 2022 South Carolina Virtual Charter School named Platinum and Gold School of Excellence Columbia Star January 2022 Legislators return to State House Tuesday for 2022 session WLTX.com January 2022 Congressional maps head to House floor; Democrats unhappy WCIV December 2021 Commentary: SC needs a more resilient energy grid Charleston Post & Courier December 2021 Operation Blue Christmas aims to give a bonus to law enforcement ABC Columbia August 2021 South Carolina lawmakers express frustration, anger over Afghanistan's fall - Live 5 News Live 5 News WCSC June 2021 NAACP speaks out against new open carry gun bill Live 5 News WCSC June 2021 South Carolina: Correcting Record on Second Amendment Package NRA ILA June 2021 Brookland-Cayce Boys Soccer Team honored with Resolution at State House Lexington County Chronicle May 2021 New law is a 'game changer' to stop catalytic converter theft, Richland sheriff says The State May 2021 Open carry gun bill heads to Gov.
+McMaster's desk after SC House OKs Senate changes Charleston Post & Courier May 2021 What is Santee Cooper's future?
+Lexington County Chronicle April 2021 After 3000 miles, 7 months, couple's walk to help families with illness ends in SC Hilton Head Island Packet April 2021 South Carolina House Passes Constitutional Carry NRA ILA April 2021 Why did Taiwan have so few COVID cases?
+Know the truth about the WHO!
+Lexington Ledger April 2021 New ban on tobacco, vaping rules Lexington Chronicle April 2021 SC House passes bill that could dramatically expand state's open carry laws Hilton Head Island Packet April 2021 SC House OKs bill allowing open gun carry without permit Associated Press March 2021 Utility tries to block people from speaking at solar hearing in SC The State March 2021 South Carolina lawmakers pushing for open carry law WLTX March 2021 South Carolina moves a step closer to allowing open carry laws for firearms FOX Carolina February 2021 South Carolina push to resume executions with electric chair Alton Telegraph February 2021 SC lawmakers expected to debate bill to change gun laws WIS 10 February 2021 Bills that could bring back electric chair in SC headed to House, Senate floors The State November 2020 SC House Begins Preparation for Upcoming 2021 Session The State September 2020 Lexington County Community Leaders to Honor First Responders Lexington County Chronicle March 2020 Wilton Road Reopened 5 Years After Historic Flood News 19 November 2019 West Columbia Politicians Open New Park at the Riverwalk Cola Daily July 2019 Lawmakers Seek Answers Regarding Suffocation of Mental Health Patient The State April 2019 SC Lawmakers Push to Improve Rideshare Safety CNN March 2018 Rep.
+Micah Caskey Named to the State’s 20 Under 40 List The State January 2018 Legislature Halts Nuclear-Related Payments to SCE&G The Post and Courier October 2017 Caskey Challenges SCANA to Repair Damage from Failed Nuclear Project The State August 2017 Conservatives Try to Separate Abortion and Women's Health The Post and Courier May 2017 Rep.
 Caskey Urges Gov.
-McMaster to Show Leadership in Effort to Repair Roads
-The Post and Courier
-October 2009
-NY Times Highlights Caskey’s Work in the Helmand Provine of Afghanistan
-New York Times Magazine
+McMaster to Show Leadership in Effort to Repair Roads The Post and Courier November 2016 Micah Caskey Selected to Chair Bipartisan Freshman Caucus FITSNEWS October 2016 Asst.
+Solicitor Caskey Earns Conviction and Life Sentence for Lexington County Toddler Killer Cola Daily August 2015 Asst.
+Solicitor Micah Caskey Puts Child Rapist in Prison for 35 Years WACH FOX 57 October 2009 Video — Capt.
+Micah Caskey Leads Team of Marines Helping Afghan Farmers Establish Alternatives to Growing Poppy Seeds Freedom Files October 2009 NY Times Highlights Caskey’s Work in the Helmand Provine of Afghanistan New York Times Magazine October 2009 Marine Corps’ Efforts in Afghanistan Spotlighted Reuters Stay in Touch!
+If you live in Cayce, West Columbia, or Springdale, I want to hear from you.
+Please do not hesitate to share your ideas, thoughts, concerns, comments, gripes, or complaints. micah@micahcaskey.com (803)-250-5834 PO Box #5875, West Columbia, SC 29171 Contact PAID FOR BY CASKEY FOR HOUSE

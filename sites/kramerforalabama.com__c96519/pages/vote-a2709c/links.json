@@ -1,18 +1,66 @@
 [
-"https://absentee.vote.org/",
-"https://campaignpartner.com/",
-"https://campaignpartner.com/state_election_information.html",
-"https://kramerforalabama.com/",
-"https://kramerforalabama.com/contact",
-"https://kramerforalabama.com/contribute",
-"https://kramerforalabama.com/events",
-"https://kramerforalabama.com/home",
-"https://kramerforalabama.com/issues",
-"https://kramerforalabama.com/meet_katie",
-"https://kramerforalabama.com/photos",
-"https://kramerforalabama.com/volunteer",
-"https://kramerforalabama.com/vote",
-"https://kramerforalabama.com/yard-sign",
-"https://register.vote.org/",
-"https://verify.vote.org/"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://kramerforalabama.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://kramerforalabama.com/contribute"
+},
+{
+"text": "Events",
+"href": "https://kramerforalabama.com/events"
+},
+{
+"text": "Home",
+"href": "https://kramerforalabama.com/home"
+},
+{
+"text": "Issues",
+"href": "https://kramerforalabama.com/issues"
+},
+{
+"text": "Meet Katie",
+"href": "https://kramerforalabama.com/meet_katie"
+},
+{
+"text": "Photos",
+"href": "https://kramerforalabama.com/photos"
+},
+{
+"text": "Register to Vote",
+"href": "https://register.vote.org/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://absentee.vote.org/"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://verify.vote.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://kramerforalabama.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://kramerforalabama.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://kramerforalabama.com/yard-sign"
+},
+{
+"text": "[image: Katie Kramer for Alabama State Senate District 8]",
+"href": "https://kramerforalabama.com/"
+},
+{
+"text": "click here to find your state",
+"href": "https://www.campaignpartner.com/state_election_information.html"
+}
 ]

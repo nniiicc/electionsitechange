@@ -1,14 +1,8 @@
-Latest News
-County commissioner announces campaign for state Senate
-For many Clatsop County voters, the next state Senate race is still a distant thought — but for Courtney Bangs, it’s top of mind.
+0 Skip to Content Home About Priorities Endorsements Latest News Volunteer Contact Donate Today Open Menu Close Menu Open Menu Close Menu Home About Priorities Endorsements Latest News Volunteer Contact Donate Today Home About Priorities Endorsements Latest News Volunteer Contact Donate Today Latest News Charlie Rieckers 7/9/25 Charlie Rieckers 7/9/25 County commissioner announces campaign for state Senate For many Clatsop County voters, the next state Senate race is still a distant thought — but for Courtney Bangs, it’s top of mind.
 Over the weekend, the Clatsop County commissioner officially launched her campaign for Senate District 16, announcing plans to seek the Republican nomination in the May 2026 primary.
-Read more at: https://dailyastorian.com/2025/07/09/county-commissioner-announces-campaign-for-state-senate/
-Courtney Bangs runs for Senate #16
-Oregon Catalyst
-Endorsed by GOP Sen.
-Suzanne Weber at Warrenton 4th of July Parade
-ASTORIA, OR — Clatsop County Commissioner Vice-Chair and 25-year educator Courtney Bangs officially launched her campaign for Oregon Senate District 16 over the weekend with Senator Suzanne Weber at the Warrenton 4th of July Parade.
+Read more at: https://dailyastorian.com/2025/07/09/county-commissioner-announces-campaign-for-state-senate/ Read More Charlie Rieckers 7/8/25 Charlie Rieckers 7/8/25 Courtney Bangs runs for Senate #16 Oregon Catalyst Endorsed by GOP Sen.
+Suzanne Weber at Warrenton 4th of July Parade ASTORIA, OR — Clatsop County Commissioner Vice-Chair and 25-year educator Courtney Bangs officially launched her campaign for Oregon Senate District 16 over the weekend with Senator Suzanne Weber at the Warrenton 4th of July Parade.
 Commissioner Bangs will seek the Republican nomination in the May 2026 primary.
-Press Release: Courtney Bangs Launches Campaign for Oregon Senate District 16
-ASTORIA, OR — Clatsop County Commissioner Vice-Chair and 25-year educator Courtney Bangs officially launched her campaign for Oregon Senate District 16 over the weekend with Senator Suzanne Weber at the Warrenton 4th of July Parade.
+Read More Charlie Rieckers 7/7/25 Charlie Rieckers 7/7/25 Press Release: Courtney Bangs Launches Campaign for Oregon Senate District 16 ASTORIA, OR — Clatsop County Commissioner Vice-Chair and 25-year educator Courtney Bangs officially launched her campaign for Oregon Senate District 16 over the weekend with Senator Suzanne Weber at the Warrenton 4th of July Parade.
 Commissioner Bangs will seek the Republican nomination in the May 2026 primary.
+Read More Home Volunteer Contact Donate Privacy Policy Paid for by Courtney Bangs PAC | © # Oregon State Senate - District 16

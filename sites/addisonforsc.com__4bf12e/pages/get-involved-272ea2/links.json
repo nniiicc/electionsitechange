@@ -1,11 +1,50 @@
 [
-"https://addisonforsc.com/",
-"https://addisonforsc.com/accessibility-statement",
-"https://addisonforsc.com/friends-of-michael-addison",
-"https://addisonforsc.com/get-involved",
-"https://addisonforsc.com/privacy-policy",
-"https://addisonforsc.com/terms-and-conditions",
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://twitter.com/wix"
+{
+"text": "Accessibility Statement",
+"href": "https://www.addisonforsc.com/accessibility-statement"
+},
+{
+"text": "DONATE",
+"href": "https://www.addisonforsc.com"
+},
+{
+"text": "Gallery",
+"href": "https://www.addisonforsc.com/friends-of-michael-addison"
+},
+{
+"text": "Home",
+"href": "https://www.addisonforsc.com"
+},
+{
+"text": "Landing Page",
+"href": "https://www.addisonforsc.com/get-involved"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.addisonforsc.com/privacy-policy"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.addisonforsc.com"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.addisonforsc.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "addisonforSC@gmail.com",
+"href": "mailto:addisonforSC@gmail.com"
+}
 ]

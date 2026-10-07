@@ -1,46 +1,19 @@
-Update on the 2024 Regular Session - Nothing meaningful accomplished
-Folks,
-Below is an item I recently posted on my Facebook page.
-I'd like to say
-we accomplished more, but my job is to ensure you all know the truth,
-and not fabricate 'successes.' Others can do that.
+0 Skip to Content About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Folder: Campaign Resources Back Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Folder: Voter Info Back Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Folder: Legislation Back My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Update on the 2024 Regular Session - Nothing meaningful accomplished Apr 21 Written By Amanda Ridenour Folks, Below is an item I recently posted on my Facebook page.
+I'd like to say we accomplished more, but my job is to ensure you all know the truth, and not fabricate 'successes.' Others can do that.
 I prefer honesty.
 I apologize for the delay in my report on the 2024 Regular Session.
-Long
-story short, nothing meaningful was accomplished.
-As I’ve mentioned in several forums, I believe we are in the most
-dangerous year in our country’s history, and in world history.
-With a
-world war looming, the on-going tyranny and havoc of the Biden regime,
-economic disruption and the probability of Biden driving us off the
-cliff into the abyss, surging crime, and myriad other issues, my focus
-this past month has been on ensuring we are electing the right leaders
-to protect West Virginia from the increasing chaos.
-I have been
-door-knocking almost every day (with breaks enforced by the rain and to
-celebrate Easter with family) to ensure I understand what voters are
-concerned about, and to let the People know who I believe can help
-address those concerns.
-As part of the Freedom Caucus that Patricia Rucker and I formed with
-other solid Conservatives, I focused on defending against the increasing
-tyranny we are seeing from the Biden regime.
-Without Liberty, there can
-be no progress on the many issues we need to address.
-Tyranny, which is
-what the Left wants, means all progress is lost.
-I sponsored a number of
-bills specifically to defend West Virginia, and co-sponsored other bills
-by Freedom Caucus members and other Conservatives to tackle the other
-key issues facing West Virginia.
+Long story short, nothing meaningful was accomplished.
+As I’ve mentioned in several forums, I believe we are in the most dangerous year in our country’s history, and in world history.
+With a world war looming, the on-going tyranny and havoc of the Biden regime, economic disruption and the probability of Biden driving us off the cliff into the abyss, surging crime, and myriad other issues, my focus this past month has been on ensuring we are electing the right leaders to protect West Virginia from the increasing chaos.
+I have been door-knocking almost every day (with breaks enforced by the rain and to celebrate Easter with family) to ensure I understand what voters are concerned about, and to let the People know who I believe can help address those concerns.
+As part of the Freedom Caucus that Patricia Rucker and I formed with other solid Conservatives, I focused on defending against the increasing tyranny we are seeing from the Biden regime.
+Without Liberty, there can be no progress on the many issues we need to address.
+Tyranny, which is what the Left wants, means all progress is lost.
+I sponsored a number of bills specifically to defend West Virginia, and co-sponsored other bills by Freedom Caucus members and other Conservatives to tackle the other key issues facing West Virginia.
 Unfortunately, the Conservatives in our Legislature are outnumbered.
-Corporatists, RINOs, and Democrats hold a bare majority in the House of
-Delegates and a larger majority in the Senate.
-Our successes in this
-session were in stopping insanity, particularly preventing more massive
-corporate handouts (aka economic subsidies) for Leftist companies, such
-as Form Energy, but we did not have enough votes to drive an agenda to
-defend and benefit our great state.
+Corporatists, RINOs, and Democrats hold a bare majority in the House of Delegates and a larger majority in the Senate.
+Our successes in this session were in stopping insanity, particularly preventing more massive corporate handouts (aka economic subsidies) for Leftist companies, such as Form Energy, but we did not have enough votes to drive an agenda to defend and benefit our great state.
 I will detail more regarding our pathetic Regular Session in a future post.
-Sincerely,
-Bill Ridenour
-Delegate, District 100
+Sincerely, Bill Ridenour Delegate, District 100 Amanda Ridenour Previous Previous Door-knocking in Jefferson County Next Next Prohibiting Entry of Illegal Aliens Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+Jim Ruland, Treasurer.
+Home About Bill Campaign Positions Legislation Blog Contact

@@ -1,7 +1,11 @@
-THE SOUTHINGTON OUTSIDER
-Perry Announces Run for State Senate
-Perry Announces Run for State Senate
-Nearly two months after ending his Democratic primary challenge for the seat held by Congressman John Larson, former Town Councilor Jack Perry has announced that he will be running to represent the 16th District in Connecticut’s State Senate.
+Skip navigation menu Home Meet Jack Campaign Take Action!
+Make a Plan to Vote!
+Donate!
+Home Meet Jack Campaign Take Action!
+Make a Plan to Vote!
+Donate!
+PRESS RELEASE Perry Wins Democratic Party Endorsement PRESS RELEASE Perry Urges Governor Lamont to Enact Gas Tax Holiday PRESS RELEASE Perry Campaign Releases Energy Platform THE SOUTHINGTON OUTSIDER Perry Announces Run for State Senate PRESS RELEASE Prospect’s Savings Fell by Half.
+An Audit Is a Good First Step, Not the Finish Line Statement Jack Perry Ready to Debate Sampson’s Record Feb 3 2026 THE SOUTHINGTON OUTSIDER Perry Announces Run for State Senate Perry Announces Run for State Senate Nearly two months after ending his Democratic primary challenge for the seat held by Congressman John Larson, former Town Councilor Jack Perry has announced that he will be running to represent the 16 th District in Connecticut’s State Senate.
 This race will pit him against the incumbent Senator, Republican Rob Sampson.
 This will not be the first time Perry and Sampson have competed for votes in the district.
 Back in 2020, Perry, then running as an independent with an endorsement from the Working Families Party, lost to Sampson with 46.2% of the vote, versus Sampson’s 53.8%.
@@ -20,3 +24,6 @@ He has been part of state government since 2010, when he was first elected to th
 Sampson has built up a devoted following across Connecticut, and to some extent nationally, by cultivating a reputation as a small-government conservative.
 The issues page on his website gives pride of place to his advocacy of low taxes and limited government spending, Second Amendment rights, and lower energy costs.
 He currently sits on the Government Administration and Elections Committee, the Government Oversight Committee, the Housing Committee, and the Labor and Public Employees Committee.
+Paid for by Perry 2026.
+Approved by Jack Perry.
+You need to enable JavaScript to run this app.

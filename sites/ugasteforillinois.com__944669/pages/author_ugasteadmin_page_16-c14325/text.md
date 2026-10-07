@@ -1,19 +1,12 @@
-Starting September 5, 2017 petitions can now be circulated for the March 20, 2018 Republican primary.
+Skip to primary navigation Skip to main content Skip to footer Dan Ugaste for State Representative A Voice of Reason in a Time of Extremism Home About Dan’s Plan for Illinois Issues Contact Volunteer News Donate Ugaste Admin Petitions September 5, 2017 by Ugaste Admin Starting September 5, 2017 petitions can now be circulated for the March 20, 2018 Republican primary.
 Petitions can be downloaded by clicking here.
 Need instructions?
 Click here.
-by Ugaste Admin
-Dan Ugaste For State Representative
-For Immediate Release: August 21, 2017
-Contact: Dan Ugaste
-Cell: 847.595.0522
-Dan Ugaste Announces Run For 65th District State Representative
-GENEVA, ILLINOIS – After the Illinois General Assembly hiked state income taxes by 32%, increasing spending and refusing to structurally reform our derelict state government, longtime Geneva resident and attorney Dan Ugaste today announced that he will be filing petitions to succeed retiring Illinois State Representative Steve Andersson.
+Dan Ugaste Announces Run For 65th District State Representative August 21, 2017 by Ugaste Admin Dan Ugaste For State Representative For Immediate Release: August 21, 2017 Contact: Dan Ugaste Cell: 847.595.0522 Dan Ugaste Announces Run For 65th District State Representative GENEVA, ILLINOIS – After the Illinois General Assembly hiked state income taxes by 32%, increasing spending and refusing to structurally reform our derelict state government, longtime Geneva resident and attorney Dan Ugaste today announced that he will be filing petitions to succeed retiring Illinois State Representative Steve Andersson.
 Ugaste gathered one third of the vote in a three-way Republican primary campaign in 2014, placing a close second to Andersson.
 “In 2014, I ran to represent the people of Kane County with the promise that I would help restore fiscal responsibility to state government by reducing spending instead of raising taxes,” Ugaste said.
 “Since, Chicago Democrats and Capitulating Republicans have teamed up to make things worse.
-They raised taxes to funnel more of our money into a failing system.”
-The 32% state income tax hike will take another $223 million per year from Kane County taxpayers.
+They raised taxes to funnel more of our money into a failing system.” The 32% state income tax hike will take another $223 million per year from Kane County taxpayers.
 Taxpayers in every community in the 65th District will be asked to sacrifice more, including St.
 Charles ($1,769 per year), Geneva ($1,275), West Elgin ($1,023), Batavia ($1,008), Pingree Grove ($802), Hampshire ($802) and Huntley ($667).
 We will all pay more, getting nothing in return.
@@ -27,22 +20,7 @@ As a committed cultural conservative, Dan will represent our shared values in th
 “Conservative voters need to know they have a representative in Springfield who will not align with Democrats to increase our tax burden.
 I have personally met with thousands of individuals and families through volunteer work and activities with my church and throughout the community and they know they can count on me to keep my promises,” said Ugaste.
 Dan and his wife Denise are the proud parents of three married daughters and grandparents of 3 wonderful grandchildren – with number four due in November.
-###
-- « Go to Previous Page
-- Page 1
-- Interim pages omitted …
-- Page 14
-- Page 15
-- Page 16
-(847) 595-0522
-Every contribution to the campaign helps ensure Victory in November!
-Manage Consent
-To provide the best experiences, we use technologies like cookies to store and/or access device information.
-Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site.
-Not consenting or withdrawing consent, may adversely affect certain features and functions.
-The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
-The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
-The technical storage or access that is used exclusively for statistical purposes.
-The technical storage or access that is used exclusively for anonymous statistical purposes.
-Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
-The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+### « Go to Previous Page Page 1 Interim pages omitted … Page 14 Page 15 Page 16 Footer Contact Us Dan@UgasteforIllinois.com (847) 595-0522 Contribute Today Every contribution to the campaign helps ensure Victory in November!
+DONATE Copyright © # · Dan Ugaste, All Rights Reserved · Log in Paid for by Citizens for Dan Ugaste.
+A copy of our reports filed with the State Board of Elections is (or will be) available on the Board’s official website .
+Manage consent

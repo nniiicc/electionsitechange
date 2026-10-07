@@ -1,10 +1,50 @@
 [
-"https://brucewesterman.com/",
-"https://brucewesterman.com/get-involved",
-"https://brucewesterman.com/issues",
-"https://brucewesterman.com/privacy",
-"https://facebook.com/WestermanAR",
-"https://secure.winred.com/westerman-for-congress/donate",
-"https://twitter.com/westermanAR",
-"https://youtube.com/user/WestermanAR"
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/westerman-for-congress/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/WestermanAR/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.brucewesterman.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.brucewesterman.com/issues"
+},
+{
+"text": "Meet Bruce",
+"href": "https://www.brucewesterman.com/#meet-bruce"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.brucewesterman.com/privacy"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/westermanAR"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/user/WestermanAR"
+},
+{
+"text": "[image]",
+"href": "https://www.brucewesterman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/westermanAR"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WestermanAR/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/user/WestermanAR"
+}
 ]

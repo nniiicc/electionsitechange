@@ -1,12 +1,50 @@
 [
-"https://andyharris.com/",
-"https://andyharris.com/getting-results",
-"https://andyharris.com/meet-andy",
-"https://facebook.com/113771221981233",
-"https://img1.wsimg.com/blobby/go/c4364c86-7952-40a4-9e81-1183bd4d5709/downloads/539612ad-a51a-4019-9c02-d2be23140189/AH-WebsitePrivacyPolicy-260811.pdf?ver=1790708540752",
-"https://img1.wsimg.com/blobby/go/c4364c86-7952-40a4-9e81-1183bd4d5709/downloads/88594d74-7042-4930-835c-a9c43e5906e9/AH-WebsiteTerms-260811.pdf?ver=1790708540752",
-"https://instagram.com/harrisforcongress",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/andy-harris-for-congress/andy-harris-for-congress"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/andy-harris-for-congress/andy-harris-for-congress"
+},
+{
+"text": "Getting Results",
+"href": "https://andyharris.com/getting-results"
+},
+{
+"text": "Home",
+"href": "https://andyharris.com/"
+},
+{
+"text": "Learn About Andy",
+"href": "https://andyharris.com/meet-andy"
+},
+{
+"text": "Meet Andy",
+"href": "https://andyharris.com/meet-andy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy (pdf)Download",
+"href": "https://img1.wsimg.com/blobby/go/c4364c86-7952-40a4-9e81-1183bd4d5709/downloads/539612ad-a51a-4019-9c02-d2be23140189/AH-WebsitePrivacyPolicy-260811.pdf?ver=1790708540752"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Website Terms (pdf)Download",
+"href": "https://img1.wsimg.com/blobby/go/c4364c86-7952-40a4-9e81-1183bd4d5709/downloads/88594d74-7042-4930-835c-a9c43e5906e9/AH-WebsiteTerms-260811.pdf?ver=1790708540752"
+},
+{
+"text": "[image: Andy Harris for Congress]",
+"href": "https://andyharris.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/113771221981233"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/harrisforcongress/"
+}
 ]

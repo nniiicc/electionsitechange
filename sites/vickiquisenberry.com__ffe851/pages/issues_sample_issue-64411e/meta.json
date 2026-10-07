@@ -1,7 +1,9 @@
 {
  "description": "Sample Issue",
  "final_url": "https://vickiquisenberry.com/issues/sample_issue",
- "paid_for_by": null,
+ "fingerprint": "f6d52f007aec90f8c515f50bb2717393d0b54406",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Education",
  "years_mentioned": []
 }

@@ -1,41 +1,274 @@
 [
-"https://blockforgovernor.com/",
-"https://blockforgovernor.com/about.php",
-"https://blockforgovernor.com/amendment.php",
-"https://blockforgovernor.com/donate.php",
-"https://blockforgovernor.com/event.php",
-"https://blockforgovernor.com/hospitalbill.php",
-"https://blockforgovernor.com/issues.php",
-"https://blockforgovernor.com/kenbehonest.php",
-"https://blockforgovernor.com/kensplans.php",
-"https://blockforgovernor.com/media.php",
-"https://blockforgovernor.com/poll-release1.php",
-"https://blockforgovernor.com/poll-results.php",
-"https://blockforgovernor.com/press-release.php?id=10",
-"https://blockforgovernor.com/press-release.php?id=11",
-"https://blockforgovernor.com/press-release.php?id=12",
-"https://blockforgovernor.com/press-release.php?id=13",
-"https://blockforgovernor.com/press-release.php?id=14",
-"https://blockforgovernor.com/press-release.php?id=15",
-"https://blockforgovernor.com/press-release.php?id=16",
-"https://blockforgovernor.com/press-release.php?id=8",
-"https://blockforgovernor.com/press-release.php?id=9",
-"https://blockforgovernor.com/privacy-policy.php",
-"https://blockforgovernor.com/terms-of-use.php",
-"https://blockforgovernor.com/tolls.php",
-"https://facebook.com/KenBlockRI",
-"https://golocalprov.com/politics/exclusive-ri-political-shake-up-ken-block-launches-exploratory-campaign-for-governor",
-"https://instagram.com/kenblock_ri",
-"https://ivoox.com/en/ken-block-new-wpri-poll-on-governor-s-audios-mp3_rf_174089210_1.html",
-"https://myemail.constantcontact.com/PRESS-RELEASE--Rhode-Island-Gubernatorial-Candidate-Ken-Block-Issues-Statement-on-Bally-s-Financial-Woes.html?soid=1112062459352&aid=WF9vixql374",
-"https://rinewstoday.com/block-and-foulkes-address-aging-disability-and-behavioral-health-at-gubernatorial-forum",
-"https://wpri.com/news/elections/gov-candidate-ken-block-lays-out-5-point-plan-to-tackle-costs-fees-in-ri",
-"https://wpri.com/news/newsmakers/newsmakers-4-10-2026-ken-block",
-"https://x.com/KenBlockRI",
-"https://youtube.com/watch?v=3Apk_GfN1_k",
-"https://youtube.com/watch?v=acXJTYgPjfI&t=22s",
-"https://youtube.com/watch?v=cjdrDaGYqa8&list=PLt4iBKRjbVPfL25WD1ddXcMreTVnVYdgV&index=3",
-"https://youtube.com/watch?v=d-A8joyUj24",
-"https://youtube.com/watch?v=g170f-usTZA",
-"https://youtube.com/watch?v=wC4j6Qu1QSU"
+{
+"text": "About",
+"href": "https://www.blockforgovernor.com/about.php"
+},
+{
+"text": "Anchor TV Interviews - Ken Block",
+"href": "https://www.youtube.com/watch?v=g170f-usTZA"
+},
+{
+"text": "Appearances",
+"href": "https://www.blockforgovernor.com/event.php"
+},
+{
+"text": "Barrington businessman Ken Block discusses his newly launched independent campaign for governor, state government failures, housing, the millionaires tax, energy and more.",
+"href": "https://www.wpri.com/news/newsmakers/newsmakers-4-10-2026-ken-block/"
+},
+{
+"text": "Bill to Remove all Hidden Taxes and Fees",
+"href": "https://www.blockforgovernor.com/press-release.php?id=10"
+},
+{
+"text": "Block for Governor Campaign Releases Internal Poll Showing Block Leading Three-Way Race",
+"href": "https://blockforgovernor.com/poll-release1.php"
+},
+{
+"text": "Click to Listen",
+"href": "https://www.ivoox.com/en/ken-block-new-wpri-poll-on-governor-s-audios-mp3_rf_174089210_1.html"
+},
+{
+"text": "Click to Watch",
+"href": "https://www.youtube.com/watch?v=3Apk_GfN1_k"
+},
+{
+"text": "Click to Watch",
+"href": "https://www.youtube.com/watch?v=acXJTYgPjfI&t=22s"
+},
+{
+"text": "Click to Watch",
+"href": "https://www.youtube.com/watch?v=wC4j6Qu1QSU"
+},
+{
+"text": "Democratic gubernatorial candidate Helena Foulkes and independent candidate Ken Block squared off Friday, Oct. 2, at a gubernatorial candidate forum focused on issues affecting older Rhode Islanders, people with disabilities, family caregivers, and those",
+"href": "https://rinewstoday.com/block-and-foulkes-address-aging-disability-and-behavioral-health-at-gubernatorial-forum/"
+},
+{
+"text": "Donate",
+"href": "https://www.blockforgovernor.com/donate.php"
+},
+{
+"text": "EXCLUSIVE: RI Political Shake-up - Ken Block Launches Campaign for Governor",
+"href": "https://www.golocalprov.com/politics/exclusive-ri-political-shake-up-ken-block-launches-exploratory-campaign-for-governor"
+},
+{
+"text": "Government Shouldn't be Allowed to Hide the Cost of Government",
+"href": "https://www.blockforgovernor.com/press-release.php?id=9"
+},
+{
+"text": "Helena Foulkes Campaign Continued to Exceed Contribution Limits While Previous Violations Remained Unresolved",
+"href": "https://www.blockforgovernor.com/press-release.php?id=13"
+},
+{
+"text": "Helena Foulkes Campaign Repeatedly Violated RI Campaign Finance Laws",
+"href": "https://www.blockforgovernor.com/press-release.php?id=12"
+},
+{
+"text": "Home",
+"href": "https://www.blockforgovernor.com/"
+},
+{
+"text": "I believe that we need way better government than we're getting,' says candidate Ken Block",
+"href": "https://www.youtube.com/watch?v=3Apk_GfN1_k"
+},
+{
+"text": "Issues",
+"href": "https://www.blockforgovernor.com/issues.php"
+},
+{
+"text": "Ken Block - New WPRI Poll on Governor's Race",
+"href": "https://www.ivoox.com/en/ken-block-new-wpri-poll-on-governor-s-audios-mp3_rf_174089210_1.html"
+},
+{
+"text": "Ken Block announces 2026 run as independent for RI governor - WPRI 12",
+"href": "https://www.youtube.com/watch?v=wC4j6Qu1QSU"
+},
+{
+"text": "Ken Block jumps into Rhode Island's governor's race, saying he can no longer tolerate dysfunction",
+"href": "https://www.youtube.com/watch?v=acXJTYgPjfI&t=22s"
+},
+{
+"text": "Ken Block's Honest Utility Bill Initiative",
+"href": "https://blockforgovernor.com/kensplans.php"
+},
+{
+"text": "Ken Block’s Position on the Second Amendment",
+"href": "https://blockforgovernor.com/amendment.php"
+},
+{
+"text": "Ken I Be Honest",
+"href": "https://www.blockforgovernor.com/kenbehonest.php"
+},
+{
+"text": "Ken I Be Honest Watch Ken share direct answers and practical ideas about the issues facing Rhode Island. →",
+"href": "https://www.blockforgovernor.com/kenbehonest.php"
+},
+{
+"text": "Ken Lays out his 5-Point Plan to Tackle Costs",
+"href": "https://www.wpri.com/news/elections/gov-candidate-ken-block-lays-out-5-point-plan-to-tackle-costs-fees-in-ri/"
+},
+{
+"text": "Ken and Gene on Top Campaign Issues",
+"href": "https://www.youtube.com/watch?v=cjdrDaGYqa8&list=PLt4iBKRjbVPfL25WD1ddXcMreTVnVYdgV&index=3"
+},
+{
+"text": "Media & Press",
+"href": "https://www.blockforgovernor.com/media.php"
+},
+{
+"text": "New Poll: Ken Block Leads Helena Foulkes Head-to-Head in Race for Governor; Aaron Guckian on Track for the Worst Republican Result on Record",
+"href": "https://www.blockforgovernor.com/press-release.php?id=14"
+},
+{
+"text": "One on One with Ian Donnis",
+"href": "https://www.youtube.com/watch?v=d-A8joyUj24"
+},
+{
+"text": "Polls",
+"href": "https://www.blockforgovernor.com/poll-results.php"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.blockforgovernor.com/privacy-policy.php"
+},
+{
+"text": "Read more",
+"href": "https://blockforgovernor.com/amendment.php"
+},
+{
+"text": "Read more",
+"href": "https://blockforgovernor.com/hospitalbill.php"
+},
+{
+"text": "Read more",
+"href": "https://blockforgovernor.com/kensplans.php"
+},
+{
+"text": "Read more",
+"href": "https://blockforgovernor.com/poll-release1.php"
+},
+{
+"text": "Read more",
+"href": "https://blockforgovernor.com/tolls.php"
+},
+{
+"text": "Read more",
+"href": "https://myemail.constantcontact.com/PRESS-RELEASE--Rhode-Island-Gubernatorial-Candidate-Ken-Block-Issues-Statement-on-Bally-s-Financial-Woes.html?soid=1112062459352&aid=WF9vixql374"
+},
+{
+"text": "Read more",
+"href": "https://rinewstoday.com/block-and-foulkes-address-aging-disability-and-behavioral-health-at-gubernatorial-forum/"
+},
+{
+"text": "Read more",
+"href": "https://www.blockforgovernor.com/press-release.php?id=10"
+},
+{
+"text": "Read more",
+"href": "https://www.blockforgovernor.com/press-release.php?id=11"
+},
+{
+"text": "Read more",
+"href": "https://www.blockforgovernor.com/press-release.php?id=12"
+},
+{
+"text": "Read more",
+"href": "https://www.blockforgovernor.com/press-release.php?id=13"
+},
+{
+"text": "Read more",
+"href": "https://www.blockforgovernor.com/press-release.php?id=14"
+},
+{
+"text": "Read more",
+"href": "https://www.blockforgovernor.com/press-release.php?id=15"
+},
+{
+"text": "Read more",
+"href": "https://www.blockforgovernor.com/press-release.php?id=16"
+},
+{
+"text": "Read more",
+"href": "https://www.blockforgovernor.com/press-release.php?id=8"
+},
+{
+"text": "Read more",
+"href": "https://www.blockforgovernor.com/press-release.php?id=9"
+},
+{
+"text": "Read more",
+"href": "https://www.golocalprov.com/politics/exclusive-ri-political-shake-up-ken-block-launches-exploratory-campaign-for-governor"
+},
+{
+"text": "Read more",
+"href": "https://www.wpri.com/news/elections/gov-candidate-ken-block-lays-out-5-point-plan-to-tackle-costs-fees-in-ri/"
+},
+{
+"text": "Read more",
+"href": "https://www.youtube.com/watch?v=cjdrDaGYqa8&list=PLt4iBKRjbVPfL25WD1ddXcMreTVnVYdgV&index=3"
+},
+{
+"text": "Read more",
+"href": "https://www.youtube.com/watch?v=d-A8joyUj24"
+},
+{
+"text": "Read more",
+"href": "https://www.youtube.com/watch?v=g170f-usTZA"
+},
+{
+"text": "Rhode Island Bailed out CharterCARE without Proper Due Diligence",
+"href": "https://www.blockforgovernor.com/press-release.php?id=11"
+},
+{
+"text": "Rhode Island Gubernatorial Candidate Ken Block Announces 'One Stay, One Bill' Plan for Hospitals",
+"href": "https://blockforgovernor.com/hospitalbill.php"
+},
+{
+"text": "Rhode Island Gubernatorial Candidate Ken Block Issues Statement on Bally's Financial Woes",
+"href": "https://myemail.constantcontact.com/PRESS-RELEASE--Rhode-Island-Gubernatorial-Candidate-Ken-Block-Issues-Statement-on-Bally-s-Financial-Woes.html?soid=1112062459352&aid=WF9vixql374"
+},
+{
+"text": "Rhode Island’s Truck Toll Experiment Has Failed",
+"href": "https://blockforgovernor.com/tolls.php"
+},
+{
+"text": "See Ken's 30-minute interview",
+"href": "https://www.wpri.com/news/newsmakers/newsmakers-4-10-2026-ken-block/"
+},
+{
+"text": "Statement in Response to Rhode Island Board of Election Meeting",
+"href": "https://www.blockforgovernor.com/press-release.php?id=8"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.blockforgovernor.com/terms-of-use.php"
+},
+{
+"text": "[image]",
+"href": "https://www.blockforgovernor.com/"
+},
+{
+"text": "[tooltip: Facebook: @KenBlockRI]",
+"href": "https://www.facebook.com/KenBlockRI"
+},
+{
+"text": "[tooltip: Instagram: @KenBlock_RI]",
+"href": "https://instagram.com/kenblock_ri"
+},
+{
+"text": "[tooltip: X: @KenBlockRI]",
+"href": "https://x.com/KenBlockRI"
+},
+{
+"text": "michelle@blockforgovernor.com",
+"href": "mailto:michelle@blockforgovernor.com"
+},
+{
+"text": "﻿Ken Block Announces Energy Policy Plan for Rhode Island",
+"href": "https://www.blockforgovernor.com/press-release.php?id=16"
+},
+{
+"text": "﻿Ken Block to Hold Press Conference at the Rhode Island State House to Unveil Energy Policy Plan",
+"href": "https://www.blockforgovernor.com/press-release.php?id=15"
+}
 ]

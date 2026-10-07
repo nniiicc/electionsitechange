@@ -1,7 +1,11 @@
 {
  "description": "Explore community events, celebrations, and gatherings for public safety and political engagement with Andrew Hattaway for MN.",
  "final_url": "https://andrewhattawayformn.com/events",
- "paid_for_by": "paid for by Andrew Hattaway for MN | P",
+ "fingerprint": "e4b8bd47cb92793e11e6fd1873177f260b36b849",
+ "format": 3,
+ "paid_for_by": "paid for by Andrew Hattaway for MN",
  "title": "Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

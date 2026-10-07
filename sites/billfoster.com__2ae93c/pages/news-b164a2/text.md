@@ -1,28 +1,15 @@
-News
-Rep.
-Bill Foster wins another term in Congress representing far west, northwest suburbs
-WASHINGTON (AP) — Democratic Rep.
+Contribute Now Make a donation to Bill Foster for Congress!
+Volunteer Contribute Meet Bill Business Career Science Career Congressional Career Family Professional Awards Issues Defending the Constitution Economy Science and Technology Healthcare Reproductive Freedom Immigration Reviving American Manufacturing Reducing Gun Violence Combating the Climate Crisis The Financial Crisis Reforming Wall Street Education Endorsements The District News Latest News Photo Gallery News & Updates Latest News News Rep.
+Bill Foster wins another term in Congress representing far west, northwest suburbs November 6, 2024 WASHINGTON (AP) — Democratic Rep.
 Bill Foster won reelection to a U.S.
 House seat representing Illinois on Tuesday.
 Foster, a physicist and businessman, defeated Republican Jerry Evans.
 Foster was first elected to Congress in 2008 in a special election to replace former U.S.
-House Speaker Denny Hastert, a Republican who held the seat for two decades. […]
-Read More
-News
-Is The Autoworkers Union Endorsing Foster or Rashid in the 11th District?
-It Depends Who You Ask
-Just weeks after members of a local labor union for automobile factory workers first appeared in a commercial supporting U.S.
+House Speaker Denny Hastert, a Republican who held the seat for two decades. […] Read More News Is The Autoworkers Union Endorsing Foster or Rashid in the 11th District?
+It Depends Who You Ask March 1, 2024 Just weeks after members of a local labor union for automobile factory workers first appeared in a commercial supporting U.S.
 Rep.
 Bill Foster’s reelection campaign, a multistate office of the same union has endorsed the Naperville Democrat’s challenger in their party’s primary for the 11th District seat.
-Even though laborers with UAW Local 1268 — […]
-Read More
-News
-Bill Foster, A Particle Physicist-Turned-Congressman, On Why He’s Worried About Artificial General Intelligence
-Congress is just starting to ramp up its efforts to regulate artificial intelligence, but one member says he first encountered the technology in the 1990s, when he used neural networks to study physics.
+Even though laborers with UAW Local 1268 — […] Read More News Bill Foster, A Particle Physicist-Turned-Congressman, On Why He’s Worried About Artificial General Intelligence February 23, 2024 Congress is just starting to ramp up its efforts to regulate artificial intelligence, but one member says he first encountered the technology in the 1990s, when he used neural networks to study physics.
 Now, Rep.
-Bill Foster, D-Ill., is returning to AI as a member of the new bipartisan task force on artificial intelligence, led […]
-Read More
-News
-Foster Earns “A” Rating for Fighting to Get Big Money Out of Politics, Protect the Right to Vote
-Naperville, IL – Congressman Bill Foster (D-IL) released the following statement after earning an “A” on the 2024 End Citizens United // Let America Vote Action Fund legislative scorecard, which grades Members of Congress on their support for voting rights and anti-corruption measures Congress has considered in the past year and a half: “I am proud to receive an […]
-Read More
+Bill Foster, D-Ill., is returning to AI as a member of the new bipartisan task force on artificial intelligence, led […] Read More News Foster Earns “A” Rating for Fighting to Get Big Money Out of Politics, Protect the Right to Vote February 15, 2024 Naperville, IL – Congressman Bill Foster (D-IL) released the following statement after earning an “A” on the 2024 End Citizens United // Let America Vote Action Fund legislative scorecard, which grades Members of Congress on their support for voting rights and anti-corruption measures Congress has considered in the past year and a half: “I am proud to receive an […] Read More 1 2 3 … 61 Meet Bill Issues Endorsements The District News Contribute Bill Foster for Congress P.O Box 9104 Aurora, IL 60598 630-216-9340.
+Privacy Policy Messaging Contact Us Paid for by Bill Foster for Congress Meet Bill Business Career Science Career Congressional Career Family Professional Awards Issues Defending the Constitution Economy Science and Technology Healthcare Reproductive Freedom Immigration Reviving American Manufacturing Reducing Gun Violence Combating the Climate Crisis The Financial Crisis Reforming Wall Street Education Endorsements The District News Latest News Photo Gallery Donate Now On the Issues On the Issues Volunteer Volunteer Contribute Contribute

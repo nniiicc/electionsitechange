@@ -1,13 +1,62 @@
 [
-"http://twitter.com/teresa_saavedra",
-"https://facebook.com/TeresaWoorman",
-"https://forms.gle/qTmVhbW3XL5Qu6GU6",
-"https://instagram.com/teresa_woorman",
-"https://linkedin.com/in/teresawoorman",
-"https://secure.actblue.com/donate/teresawoorman",
-"https://teresawoorman.com/",
-"https://teresawoorman.com/contact-8",
-"https://teresawoorman.com/legislation",
-"https://teresawoorman.com/newsletter",
-"https://teresawoorman.com/scholarships"
+{
+"text": "Contact",
+"href": "https://www.teresawoorman.com/contact-8"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/teresawoorman"
+},
+{
+"text": "Endorsements",
+"href": "https://www.teresawoorman.com"
+},
+{
+"text": "Get involved!",
+"href": "https://forms.gle/qTmVhbW3XL5Qu6GU6"
+},
+{
+"text": "Home",
+"href": "https://www.teresawoorman.com"
+},
+{
+"text": "Legislation",
+"href": "https://www.teresawoorman.com/legislation"
+},
+{
+"text": "Media",
+"href": "https://www.teresawoorman.com"
+},
+{
+"text": "Newsletter",
+"href": "https://www.teresawoorman.com/newsletter"
+},
+{
+"text": "Scholarships",
+"href": "https://www.teresawoorman.com/scholarships"
+},
+{
+"text": "Video",
+"href": "https://www.teresawoorman.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/TeresaWoorman"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/teresa_woorman/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/teresawoorman/"
+},
+{
+"text": "[image: Twitter]",
+"href": "http://twitter.com/teresa_saavedra"
+},
+{
+"text": "teresa@teresawoorman.com",
+"href": "mailto:teresa@teresawoorman.com"
+}
 ]

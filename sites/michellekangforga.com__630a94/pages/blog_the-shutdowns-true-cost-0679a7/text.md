@@ -1,5 +1,4 @@
-The Shutdown’s True Cost
-When Washington walked away from working families, Georgians were left with rising premiums, shrinking coverage, and a reminder that affordable health care is something we must fight for here at home!
+0 Skip to Content About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu Folder: About Michelle Back Meet Michelle What Michelle Stands For Endorsements Folder: Get Involved Back Get Involved Mobilize Dashboard Donate Voter Resources Folder: Media Back Events In the News Interviews Blog Podcast 2026 Campaign Connect English Back Donate The Shutdown’s True Cost Nov 13 Written By Michelle Kang When Washington walked away from working families, Georgians were left with rising premiums, shrinking coverage, and a reminder that affordable health care is something we must fight for here at home!
 The federal government shutdown is finally over, but here’s the thing: working families were left behind.
 The bill that Donald Trump signed didn’t include the enhanced ACA tax credits that help millions of Americans afford health coverage.
 And now, the numbers are pretty shocking.
@@ -13,12 +12,17 @@ That’s not fair, and it’s not sustainable.
 When people lose coverage, they skip doctor visits, they cut pills in half to stretch prescriptions, and they end up in the ER when it’s too late.
 No one should have to choose between seeing a doctor and putting food on the table.
 That’s why, when I’m elected as your next state representative, I’m going to fight to make healthcare affordable and accessible for everyone here in Georgia.
-- We can fully expand Medicaid to cover more Georgians who are falling through the cracks.
-- We can lower premiums with a state reinsurance program so that everyone pays less each month.
-- We can create state-level tax credits to help working families afford care.
-- We can make sure no one loses coverage for pre-existing conditions, no matter what happens in Washington.
+We can fully expand Medicaid to cover more Georgians who are falling through the cracks.
+We can lower premiums with a state reinsurance program so that everyone pays less each month.
+We can create state-level tax credits to help working families afford care.
+We can make sure no one loses coverage for pre-existing conditions, no matter what happens in Washington.
 Health care shouldn’t depend on your income or your ZIP code.
 It should be something every Georgian can count on.
 I’m running because I believe health care is a right, not a privilege, and with your help — your voice, your time, and your vote — we can make sure every family in Georgia can see a doctor, afford their prescriptions, and live healthy, secure lives.
-Together, we can make that promise real!
-— Michelle Kang, Democratic Candidate for Georgia State House District 99
+Together, we can make that promise real! — Michelle Kang, Democratic Candidate for Georgia State House District 99 Michelle Kang Previous Previous Capping Potential Next Next A Victory in New York and a Vision for Georgia!
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Keep in Touch Sign up with your email address to receive news and updates.
+Email Address Sign Up We respect your privacy.
+Thank you!
+Donate contact Volunteer Checks payable to: Friends of Michelle Kang, Inc Send checks to: PO Box 3772, Suwanee, GA 30024 For press or media inquiries, please contact press@michellekangforga.com Website by Blum Creative Privacy Policy | Terms of Use

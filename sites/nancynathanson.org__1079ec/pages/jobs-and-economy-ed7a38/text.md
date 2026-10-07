@@ -1,7 +1,5 @@
-Jobs and Economy
-A healthy economy means good jobs, opportunities to grow a business, and support for community programs.
-Here are four of the ways I get involved:
-I’ve worked hard to keep Eugene from being left behind in a digital dustbowl.
+0 Skip to Content Home About Priorities Legislative Work In the District Endorsements In the News Contact Nancy Donate & Volunteer Open Menu Close Menu Home About Priorities Legislative Work In the District Endorsements In the News Contact Nancy Donate & Volunteer Open Menu Close Menu Home About Priorities Legislative Work In the District Endorsements In the News Contact Nancy Donate & Volunteer Jobs and Economy A healthy economy means good jobs, opportunities to grow a business, and support for community programs.
+Here are four of the ways I get involved: LCC Manufacturing Technology program I’ve worked hard to keep Eugene from being left behind in a digital dustbowl.
 I promoted the local voter-approved measure that allows (finally, after many years) public-private partnerships to provide high speed internet service for Eugene.
 This helps Eugene and the state be competitive in an emerging economy, support businesses, and attract talent.
 Building on this, I’ve pushed to increase broadband infrastructure statewide.
@@ -13,4 +11,6 @@ Red tape can get in the way, and there’s often a way to streamline work and ri
 After establishing a Government Efficiency Task Force, I was appointed to work with a group streamlining permitting processes in a state agency.
 There’s a lot more we can do to make things easier and faster while preserving Oregon’s clean air and water and protecting neighborhoods.
 Individuals can use some help, too, getting their personal budget in order, getting on their feet, maybe starting or growing a business.
-I stood up for a concrete way we know helps thousands of Oregonians with education, homeownership, starting a business and other goals: Individual Development Accounts.
+I stood up for a concrete way we know helps thousands of Oregonians with education, homeownership, starting a business and other goals: Individual Development Accounts .
+Friends of Nancy Nathanson PO Box 41895.
+Eugene, OR 97404 541-632-3417 info@nancynathanson.org Paid for by Friends of Nancy Nathanson

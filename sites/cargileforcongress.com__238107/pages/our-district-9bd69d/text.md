@@ -1,4 +1,6 @@
-35th District
+Home Media About Issues Our District Next Steps Donate SHOP Back Register to Vote Join the Team Contact Home Media About Issues Our District Next Steps Register to Vote Join the Team Contact Mike Cargile for Congress Donate SHOP Scroll 35th District Click the map to make it interactive.
 People say to me all the time “Oh, I wish I lived in your District so I could support you!” I tell them…”This is a Federal office and anything done in Congress has a National impact.
-So, if you live in the United States, technically, you’re in my District.”
-California’s 35th congressional district is based in the Inland Empire and includes, all or in part of, the communities of Pomona, Claremont, Upland, Rancho Cucamonga, Fontana, Bloomington, Ontario, Chino Hills, Eastvale, Norco, Corona.
+So, if you live in the United States, technically, you’re in my District.” California’s 35th congressional district is based in the Inland Empire and includes, all or in part of, the communities of Pomona, Claremont, Upland, Rancho Cucamonga, Fontana, Bloomington, Ontario, Chino Hills, Eastvale, Norco, Corona.
+SO HELP ME GOD… Donate now 35th District Copy of Flag Footer CTA Unlike my opponent, Norma Torres… I am Pro-God, Pro-Family, Pro-Life, Pro-Jobs, Pro-Police and I will always put… America First!
+“At no other time in our nation’s history have our foundational principles been under greater assault than now.
+Join with me as we rise to meet the challenge and restore faith in our great Republic!” Mike.Cargile@outlook.com Hours HOME Media About Issues Our District Ways to Help Join the Team Contact Donate Now

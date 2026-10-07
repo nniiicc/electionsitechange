@@ -1,5 +1,4 @@
-Healthcare & Reproductive Freedom
-Immediately after the U.S.
+0 Skip to Content Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Healthcare & Reproductive Freedom Aug 6 Written By Mary Lee Immediately after the U.S.
 Supreme Court’s overturn of Roe v.
 Wade which denied federal abortion protections and gave states the power to establish their own laws, I sponsored and filed HB 1119, to ensure that the rights under Roe v.
 Wade would be codified in N.C. law.
@@ -14,3 +13,4 @@ Legislators have no business denying fundamental personal freedoms and interveni
 I will do everything possible to safeguard reproductive rights and other fundamental rights like contraception and gay marriage that may now be in jeopardy with the U.S.
 Supreme Court .
 We must concentrate our efforts to do more to care for children and families by expanding Medicaid.
+Mary Lee Next Next Public Safety & Gun Laws Marcia Morey Campaign PO Box 61030 Durham, NC 27715 campaign@marciamorey.com Follow Facebook Instagram X

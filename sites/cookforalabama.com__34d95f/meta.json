@@ -1,7 +1,11 @@
 {
  "description": "Cook for Alabama's campaign",
  "final_url": "https://www.cookforalabama.com/",
+ "fingerprint": "e143dd6d689dc57f0c9b1cba56a92279203f875f",
+ "format": 3,
  "paid_for_by": "Paid for by the Committee to Elect Taylor Cook P",
  "title": "Cook for Alabama",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

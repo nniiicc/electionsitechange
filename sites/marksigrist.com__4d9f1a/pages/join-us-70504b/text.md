@@ -1,5 +1,4 @@
-Show Up With Sigrist
-We need your talent, time, or treasure.
+0 Skip to Content Home Meet Mark Issues Community Service Blog Join Us Donate Open Menu Close Menu Home Meet Mark Issues Community Service Blog Join Us Donate Open Menu Close Menu Home Meet Mark Issues Community Service Blog Join Us Donate Show Up With Sigrist We need your talent, time, or treasure.
 Mark is showing up to put his best forward to join the State House and help solve problems and fix things.
 Can we do this together with you?
 What is is that you can help with?
@@ -13,3 +12,4 @@ Have something important to share?
 Want to offer a perspective we are missing?
 Can we put up a yard sign in your yard?
 We can’t wait to hear from you!
+Mark Sigrist for State House Representative | District 10 | Paid for by Friends of Mark Sigrist

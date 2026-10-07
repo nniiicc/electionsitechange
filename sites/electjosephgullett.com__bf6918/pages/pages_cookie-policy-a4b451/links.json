@@ -1,11 +1,38 @@
 [
-"https://facebook.com/strikingly",
-"https://strikingly.com/",
-"https://support.apple.com/en-gb/guide/safari/sfri11471/mac",
-"https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en",
-"https://support.microsoft.com/en-us/edge/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use",
-"https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences",
-"https://sxl.cn/",
-"https://twitter.com/strikingly",
-"https://youtube.com/channel/UC4I-TRQbiWfEdDvldAXg5ew"
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/strikingly/"
+},
+{
+"text": "SXL",
+"href": "https://www.sxl.cn"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/strikingly"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/channel/UC4I-TRQbiWfEdDvldAXg5ew"
+},
+{
+"text": "create your own website free",
+"href": "https://www.strikingly.com"
+},
+{
+"text": "https://support.apple.com/en-gb/guide/safari/sfri11471/mac",
+"href": "https://support.apple.com/en-gb/guide/safari/sfri11471/mac"
+},
+{
+"text": "https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en",
+"href": "https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en"
+},
+{
+"text": "https://support.microsoft.com/en-us/edge/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use",
+"href": "https://support.microsoft.com/en-us/edge/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use"
+},
+{
+"text": "simple website builder",
+"href": "https://www.strikingly.com"
+}
 ]

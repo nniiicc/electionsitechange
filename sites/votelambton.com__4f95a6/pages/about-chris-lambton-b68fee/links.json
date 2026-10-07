@@ -1,16 +1,78 @@
 [
-"https://facebook.com/VoteLambton",
-"https://instagram.com/votechrislambton",
-"https://secure.actblue.com/donate/chrislambtoncommittee",
-"https://tiktok.com/@votelambton",
-"https://votelambton.com/",
-"https://votelambton.com/about-3",
-"https://votelambton.com/about-chris-lambton",
-"https://votelambton.com/chris-lambton-events",
-"https://votelambton.com/chris-lambton-get-involved",
-"https://votelambton.com/chris-lambton-news",
-"https://votelambton.com/chris-lambton-priorities",
-"https://votelambton.com/contact-chris-lambton",
-"https://votelambton.com/howtovote",
-"https://votelambton.com/terms-and-conditions"
+{
+"text": "About",
+"href": "https://www.votelambton.com/about-chris-lambton"
+},
+{
+"text": "About",
+"href": "https://www.votelambton.com/chris-lambton-priorities"
+},
+{
+"text": "Chris Lambton",
+"href": "https://www.votelambton.com"
+},
+{
+"text": "Contact",
+"href": "https://www.votelambton.com/contact-chris-lambton"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/chrislambtoncommittee"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votelambton.com/about-3"
+},
+{
+"text": "Events",
+"href": "https://www.votelambton.com/chris-lambton-events"
+},
+{
+"text": "FOR STATE REPRESENTATIVE",
+"href": "https://www.votelambton.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votelambton.com/chris-lambton-get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.votelambton.com"
+},
+{
+"text": "How to Vote",
+"href": "https://www.votelambton.com/howtovote"
+},
+{
+"text": "News",
+"href": "https://www.votelambton.com/chris-lambton-news"
+},
+{
+"text": "Priorities",
+"href": "https://www.votelambton.com/about-chris-lambton"
+},
+{
+"text": "Priorities",
+"href": "https://www.votelambton.com/chris-lambton-priorities"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.votelambton.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteLambton"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/votechrislambton"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@votelambton"
+},
+{
+"text": "info@votelambton.com",
+"href": "mailto:info@votelambton.com"
+}
 ]

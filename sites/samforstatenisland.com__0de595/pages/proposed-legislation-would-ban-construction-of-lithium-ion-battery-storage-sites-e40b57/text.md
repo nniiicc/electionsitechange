@@ -1,6 +1,7 @@
-STATEN ISLAND, N.Y. — State Sen.
+Skip to content Home About Sam On The Issues News Contact Us Volunteer Donate samforstatenis Press Proposed legislation would ban construction of lithium-ion battery storage sites on Staten Island Search for: Search 21 Feb STATEN ISLAND, N.Y. — State Sen.
 Andrew Lanza and Assemblyman Sam Pirozzolo are making their opposition to Battery Energy Storage Systems (BESS) known, officially announcing the introduction of legislation to prohibit their installation within Staten Island.
 “In response to the rightful community backlash regarding BESS sites being installed in residential and school zones, Senator Andrew Lanza and I are proud to announce legislation to prohibit the siting or operation of these machines in residential or school zones on Staten Island,” Pirozzolo R-Mid-Island/North Shore) said in a statement.
 “While I firmly believe that this type of energy-technology is the future, the implementation has to be practical and responsible.
 Placing a large, sophisticated machine, filled with potentially explosive lithium-ion batteries, in residential or school communities is unacceptable.
-The fires caused by these batteries typically cannot be extinguished because of the presence of harsh chemical toxins, increasing the hazard and potential damage.”
+The fires caused by these batteries typically cannot be extinguished because of the presence of harsh chemical toxins, increasing the hazard and potential damage.” Read More >> Opioid-plagued Staten Island wrongly cut out of $1.5B settlement fund: pol Assemblymember Pirozzolo talks alleviating traffic and a new approach to bail reform with SILive Proposed legislation would ban construction of lithium-ion battery storage sites on Staten Island Join Our List Copyright © # Sam Pirozzolo for Assembly , All Rights Reserved.
+Paid for By Sam Pirozzolo for Assembly 2026 Designed and Maintained by Politika

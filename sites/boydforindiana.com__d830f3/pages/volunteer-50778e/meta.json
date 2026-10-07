@@ -1,9 +1,9 @@
 {
  "description": "Explore the latest updates and news on Boyd for Indiana, your source for political engagement and media coverage.",
  "final_url": "https://boydforindiana.com/volunteer",
- "paid_for_by": null,
+ "fingerprint": "d848629f88fc5636d69e473112e8ac1fd6d9696c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Volunteer",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

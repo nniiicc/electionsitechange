@@ -1,4 +1,4 @@
-Today marked the first day of the 67th Montana Legislative Session, with 89 more to follow.
+Skip to content Main Menu Home Blog Advocacy Endorsements Contact Donate Donate notes of a freshman legislator By Tom France / January 4, 2021 Today marked the first day of the 67 th Montana Legislative Session, with 89 more to follow.
 Much of it was exciting and fun.
 I finally got to meet many of my fellow Democrats in person, even if we were still a little mysterious behind our masks.
 It was thrilling to walk into the Capitol and up the stairs to the House chamber as member of the Legislature.
@@ -7,4 +7,4 @@ For the first day too, there was politics and drama as Democrats and moderate Re
 But my biggest emotions were ones of shock and amazement at the many maskless people that crowded the hallways, filled the galleries and were present in legislative chairs on the House floor.
 While every Democrats wore a mask, well over half of the Republican caucus dispensed with this basic, easy safety precaution.
 It seems certain to me, and to a masked Republican colleague with whom I visited, that COVID will break out across and capitol.
-I wonder if we’ll hear that COVID was the cause with legislative desks are empty and a quorum is hard to reach?
+I wonder if we’ll hear that COVID was the cause with legislative desks are empty and a quorum is hard to reach? ← Previous Post Next Post → Facebook-f Copyright © # Tom France Representing Montana House District 99 Powered by Tom France Representing Montana House District 99

@@ -1,10 +1,7 @@
-Education: equitable opportunity for all students, secure the ECS funding we need
-Healthcare: save Rockville General Hospital and lower our prescription drug costs
-Veterans & Seniors: pass lower prescription drug costs and expand tax relief
-Reproductive Rights: defend a woman’s right to choose and bodily autonomy
-Our Economy: combat rising inflationary costs by extending discretionary tax relief
-Early voting: making voting more accessible is the key to strengthening our democracy.
+0 Skip to Content Kevin Brown for Vernon Home My Story My Vision My Accomplishments Support Kevin Contact Open Menu Close Menu Kevin Brown for Vernon Home My Story My Vision My Accomplishments Support Kevin Contact Open Menu Close Menu Home My Story My Vision My Accomplishments Support Kevin Contact Education: equitable opportunity for all students, secure the ECS funding we need Healthcare: save Rockville General Hospital and lower our prescription drug costs Veterans & Seniors: pass lower prescription drug costs and expand tax relief Reproductive Rights: defend a woman’s right to choose and bodily autonomy Our Economy: combat rising inflationary costs by extending discretionary tax relief Early voting: making voting more accessible is the key to strengthening our democracy.
 Banning Foreign Spending on State Ballot Referendums: close a huge loophole in state law that currently allows foreign individuals and entities to spend foreign funds to influence the outcome of our state and local ballot referendums.
 Connecticut Voting Rights Act: give voters of color additional protections against voter suppression.
 Ranked Choice Voting: create a task force to study the implementation of RCV for state, federal and municipal elections in Connecticut.
 No-Excuse Absentee Voting: give Connecticut voters the option to vote by absentee ballot without needing an excuse.
+Home My Story My Vision My Accomplishments Support Kevin Contact Paid for by Kevin Brown for Vernon, Patrick Fairbanks, Treasurer.
+Approved by Kevin Brown.

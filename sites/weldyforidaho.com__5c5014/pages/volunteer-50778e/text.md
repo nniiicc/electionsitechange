@@ -1,7 +1,5 @@
-top of page
-Support Robin Weldy for Idaho's District 6 Senate
-Please help bring real change to Idaho’s 6th District.
+top of page Home Donate Contact About Volunteer FAQ Priorities Media My Opponent Support Robin Weldy for Idaho's District 6 Senate Please help bring real change to Idaho’s 6th District.
 Whether you’re knocking on doors, joining community events, or helping behind the scenes, your voice makes a difference.
 If each does a little bit often, the task will not be overwhelming!
-Volunteer Opportunities
-bottom of page
+Request a Yard Sign!
+Request a Yard Sign Here Volunteer Opportunities Name * Email * Phone * What is your availability? * Have you ever volunteered or worked for a campaign before? * Yes No Opportunities Action Team Social Media Post Card Projects - Complete alone or in community Prepare/contribute food and/or drinks for events Group mailings Post flyers Set up/Clean up for events Copy Materials Post signs legally throughout community Make posters as needed Volunteer at special events Media/Advocacy Display Yard Sign Help with research on timely/necessary topics; to be used for policy development and/or social media Write letters to the editor Post facts on social media to rebut misinformation Assist with text messaging campaigns Follow and Like Weldy For Idaho on Facebook & Instagram Organization Coordinate volunteers Make follow up calls to voters who received post card invites to events; confirm receipt/welcome to event Help with candidate forums as needed Networking/Community Outreach Staff our Booth at events and parades (possibly in communities other than your own) Canvass and Door knock as needed, in your precinct or another Participate in phone calls to voters Help with rural outreach Petition Gathering Tables Host small events in your home (small committee meetings) Other (Please Specify) Apply Now WELDY FOR IDAHO (208) 816-6020 weldyforidaho@gmail.com 613 Bryden Ave Suite C #111 Lewiston, Idaho 83501 ​ ​ About Get Involved Press & Events FAQ DONATE Privacy Policy Accessibility Statement Paid for by Weldy for Idaho bottom of page

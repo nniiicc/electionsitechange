@@ -1,18 +1,78 @@
 [
-"http://boldgrid.com/",
-"http://wordpress.org/",
-"https://boehmfornd.com/",
-"https://boehmfornd.com/attribution",
-"https://boehmfornd.com/contact",
-"https://boehmfornd.com/donate",
-"https://boehmfornd.com/meet-keith",
-"https://boehmfornd.com/news",
-"https://boehmfornd.com/platform",
-"https://boehmfornd.com/priorities",
-"https://dreamhost.com/",
-"https://facebook.com/BoehmForND",
-"https://instagram.com/boehmfornd",
-"https://twitter.com/BoehmforND",
-"https://wordpress.org/plugins/wc-gallery",
-"https://youtube.com/channel/UCTVU4WMAvd5vfpKOAapgrKw"
+{
+"text": "Attribution",
+"href": "https://www.boehmfornd.com/attribution/"
+},
+{
+"text": "Boehm For ND",
+"href": "https://www.boehmfornd.com/"
+},
+{
+"text": "BoldGrid",
+"href": "http://www.boldgrid.com"
+},
+{
+"text": "Contact",
+"href": "https://www.boehmfornd.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.boehmfornd.com/donate/"
+},
+{
+"text": "DreamHost",
+"href": "https://www.dreamhost.com/"
+},
+{
+"text": "Home",
+"href": "https://www.boehmfornd.com/"
+},
+{
+"text": "Meet Keith",
+"href": "https://www.boehmfornd.com/meet-keith/"
+},
+{
+"text": "News",
+"href": "https://www.boehmfornd.com/news/"
+},
+{
+"text": "Platform",
+"href": "https://www.boehmfornd.com/platform/"
+},
+{
+"text": "Priorities",
+"href": "https://www.boehmfornd.com/priorities/"
+},
+{
+"text": "Special Thanks",
+"href": "https://www.boehmfornd.com/attribution/"
+},
+{
+"text": "WP Canvas – Gallery",
+"href": "https://wordpress.org/plugins/wc-gallery/"
+},
+{
+"text": "WordPress",
+"href": "http://wordpress.org"
+},
+{
+"text": "[image: Boehm For ND]",
+"href": "https://www.boehmfornd.com/"
+},
+{
+"text": "facebook",
+"href": "https://facebook.com/BoehmForND"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/boehmfornd/"
+},
+{
+"text": "twitter",
+"href": "https://twitter.com/BoehmforND"
+},
+{
+"text": "youtube",
+"href": "https://www.youtube.com/channel/UCTVU4WMAvd5vfpKOAapgrKw"
+}
 ]

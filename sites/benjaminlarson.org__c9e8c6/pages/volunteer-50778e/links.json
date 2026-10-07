@@ -1,12 +1,58 @@
 [
-"https://benjaminlarson.org/",
-"https://benjaminlarson.org/about",
-"https://benjaminlarson.org/contact",
-"https://benjaminlarson.org/platform",
-"https://benjaminlarson.org/volunteer",
-"https://docs.google.com/forms/d/e/1FAIpQLSehFr4J2_sKCiA5iUbiVEeIe8nfJv-2v2PQCv7Jsw4DQVU5Bg/viewform",
-"https://facebook.com/profile.php?id=61580469345822",
-"https://mobilize.us/?address=Council+Bluffs%2C+IA%2C+USA&event_type=1&lat=41.2619444&lon=-95.8608333&org_ids=50955",
-"https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2FVoterRegistration",
-"https://secure.actblue.com/donate/benjamin-larson-iowa-house"
+{
+"text": "Benjamin Larson for Iowa House",
+"href": "https://benjaminlarson.org/"
+},
+{
+"text": "Benjamin.T.Larson@proton.me",
+"href": "mailto:Benjamin.T.Larson@proton.me?subject=Yard+Sign+Request"
+},
+{
+"text": "Contact",
+"href": "https://benjaminlarson.org/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/benjamin-larson-iowa-house"
+},
+{
+"text": "Get in Touch",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSehFr4J2_sKCiA5iUbiVEeIe8nfJv-2v2PQCv7Jsw4DQVU5Bg/viewform"
+},
+{
+"text": "Home",
+"href": "https://benjaminlarson.org/"
+},
+{
+"text": "Meet Ben",
+"href": "https://benjaminlarson.org/about/"
+},
+{
+"text": "Platform",
+"href": "https://benjaminlarson.org/platform/"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2FVoterRegistration"
+},
+{
+"text": "Sign Up",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSehFr4J2_sKCiA5iUbiVEeIe8nfJv-2v2PQCv7Jsw4DQVU5Bg/viewform"
+},
+{
+"text": "Sign Up",
+"href": "https://www.mobilize.us/?address=Council+Bluffs%2C+IA%2C+USA&event_type=1&lat=41.2619444&lon=-95.8608333&org_ids=50955"
+},
+{
+"text": "Volunteer",
+"href": "https://benjaminlarson.org/volunteer/"
+},
+{
+"text": "[tooltip: Email]",
+"href": "mailto:Benjamin.T.Larson@proton.me"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61580469345822"
+}
 ]

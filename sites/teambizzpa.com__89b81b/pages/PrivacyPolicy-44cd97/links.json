@@ -1,11 +1,42 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/RyanForPA",
-"https://instagram.com/ryanbizzarro",
-"https://secure.actblue.com/donate/committee-to-elect-ryan-bizzarro-2",
-"https://teambizzpa.com/",
-"https://teambizzpa.com/PrivacyPolicy",
-"https://teambizzpa.com/about",
-"https://teambizzpa.com/contact",
-"https://teambizzpa.com/volunteer"
+{
+"text": "About",
+"href": "https://www.teambizzpa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.teambizzpa.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/committee-to-elect-ryan-bizzarro-2"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.teambizzpa.com/PrivacyPolicy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.teambizzpa.com/volunteer"
+},
+{
+"text": "[image: Ryan Bizzarro for Representative]",
+"href": "https://www.teambizzpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RyanForPA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ryanbizzarro/"
+},
+{
+"text": "info@TeamBizzPA.com",
+"href": "mailto:info@TeamBizzPA.com"
+}
 ]

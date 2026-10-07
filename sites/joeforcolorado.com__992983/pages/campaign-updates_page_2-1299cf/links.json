@@ -1,32 +1,162 @@
 [
-"http://facebook.com/joeneguseforcongress",
-"http://instagram.com/JoeNeguse",
-"http://twitter.com/JoeNeguse",
-"http://youtube.com/channel/UCksOAyZVGPLiWh9PjnApXAQ",
-"https://joeforcolorado.com/",
-"https://joeforcolorado.com/about-the-district",
-"https://joeforcolorado.com/campaign-updates",
-"https://joeforcolorado.com/campaign-updates/in-the-news",
-"https://joeforcolorado.com/campaign-updates/in-the-news/backed-by-colorado-dem-biden-using-exec-power-to-create-new-deal-climate-corps",
-"https://joeforcolorado.com/campaign-updates/in-the-news/fentanyl-prevention-is-focus-of-new-congressional-caucus-co-chaired-by-colorados-neguse",
-"https://joeforcolorado.com/campaign-updates/in-the-news/reps-joe-neguse-and-ken-buck-push-for-a-ban-on-congressional-stock-trading",
-"https://joeforcolorado.com/campaign-updates/joe-neguse-embraces-key-role-in-fight-against-trump",
-"https://joeforcolorado.com/campaign-updates/neguse-leads-opposition-to-proposed-noaa-cuts-that-would-shut-down-colorado-labs",
-"https://joeforcolorado.com/campaign-updates/page/3",
-"https://joeforcolorado.com/campaign-updates/page/4",
-"https://joeforcolorado.com/campaign-updates/page/6",
-"https://joeforcolorado.com/cdn-cgi/l/email-protection",
-"https://joeforcolorado.com/contact-us",
-"https://joeforcolorado.com/donate",
-"https://joeforcolorado.com/donate?express_lane=true&amount=10",
-"https://joeforcolorado.com/donate?express_lane=true&amount=100",
-"https://joeforcolorado.com/donate?express_lane=true&amount=25",
-"https://joeforcolorado.com/donate?express_lane=true&amount=5",
-"https://joeforcolorado.com/donate?express_lane=true&amount=50",
-"https://joeforcolorado.com/endorsements",
-"https://joeforcolorado.com/get-involved",
-"https://joeforcolorado.com/meet-joe",
-"https://joeforcolorado.com/on-the-issues",
-"https://joeforcolorado.com/privacy-policy",
-"https://joeforcolorado.com/sign-up-for-caucus"
+{
+"text": "$#",
+"href": "https://joeforcolorado.com/donate?express_lane=true&amount=10"
+},
+{
+"text": "$#",
+"href": "https://joeforcolorado.com/donate?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://joeforcolorado.com/donate?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://joeforcolorado.com/donate?express_lane=true&amount=5"
+},
+{
+"text": "$#",
+"href": "https://joeforcolorado.com/donate?express_lane=true&amount=50"
+},
+{
+"text": "1",
+"href": "https://joeforcolorado.com/campaign-updates/"
+},
+{
+"text": "3",
+"href": "https://joeforcolorado.com/campaign-updates/page/3/"
+},
+{
+"text": "4",
+"href": "https://joeforcolorado.com/campaign-updates/page/4/"
+},
+{
+"text": "6",
+"href": "https://joeforcolorado.com/campaign-updates/page/6/"
+},
+{
+"text": "About the District",
+"href": "https://joeforcolorado.com/about-the-district/"
+},
+{
+"text": "Backed by Colorado Dem, Biden using exec power to create New Deal climate corps",
+"href": "https://joeforcolorado.com/campaign-updates/in-the-news/backed-by-colorado-dem-biden-using-exec-power-to-create-new-deal-climate-corps/"
+},
+{
+"text": "Campaign Updates",
+"href": "https://joeforcolorado.com/campaign-updates/"
+},
+{
+"text": "Caucus Sign Up",
+"href": "https://joeforcolorado.com/sign-up-for-caucus/"
+},
+{
+"text": "Contact Us",
+"href": "https://joeforcolorado.com/contact-us"
+},
+{
+"text": "Donate Now",
+"href": "https://joeforcolorado.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://joeforcolorado.com/endorsements/"
+},
+{
+"text": "Fentanyl prevention is focus of new congressional caucus co-chaired by Colorado’s Neguse",
+"href": "https://joeforcolorado.com/campaign-updates/in-the-news/fentanyl-prevention-is-focus-of-new-congressional-caucus-co-chaired-by-colorados-neguse/"
+},
+{
+"text": "Get Involved",
+"href": "https://joeforcolorado.com/get-involved"
+},
+{
+"text": "In the News",
+"href": "https://joeforcolorado.com/campaign-updates/in-the-news/"
+},
+{
+"text": "Joe Neguse embraces key role in fight against Trump",
+"href": "https://joeforcolorado.com/campaign-updates/joe-neguse-embraces-key-role-in-fight-against-trump/"
+},
+{
+"text": "Meet Joe",
+"href": "https://joeforcolorado.com/meet-joe/"
+},
+{
+"text": "Neguse leads opposition to proposed NOAA cuts that would shut down Colorado labs",
+"href": "https://joeforcolorado.com/campaign-updates/neguse-leads-opposition-to-proposed-noaa-cuts-that-would-shut-down-colorado-labs/"
+},
+{
+"text": "On the Issues",
+"href": "https://joeforcolorado.com/on-the-issues/"
+},
+{
+"text": "Other",
+"href": "https://joeforcolorado.com/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://joeforcolorado.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://joeforcolorado.com/campaign-updates/in-the-news/backed-by-colorado-dem-biden-using-exec-power-to-create-new-deal-climate-corps/"
+},
+{
+"text": "Read More",
+"href": "https://joeforcolorado.com/campaign-updates/in-the-news/fentanyl-prevention-is-focus-of-new-congressional-caucus-co-chaired-by-colorados-neguse/"
+},
+{
+"text": "Read More",
+"href": "https://joeforcolorado.com/campaign-updates/in-the-news/reps-joe-neguse-and-ken-buck-push-for-a-ban-on-congressional-stock-trading/"
+},
+{
+"text": "Read More",
+"href": "https://joeforcolorado.com/campaign-updates/joe-neguse-embraces-key-role-in-fight-against-trump/"
+},
+{
+"text": "Read More",
+"href": "https://joeforcolorado.com/campaign-updates/neguse-leads-opposition-to-proposed-noaa-cuts-that-would-shut-down-colorado-labs/"
+},
+{
+"text": "Reps. Joe Neguse and Ken Buck push for a ban on congressional stock trading",
+"href": "https://joeforcolorado.com/campaign-updates/in-the-news/reps-joe-neguse-and-ken-buck-push-for-a-ban-on-congressional-stock-trading/"
+},
+{
+"text": "We need your help! Donate now to support Joe Neguse's fight for all Coloradans!",
+"href": "https://joeforcolorado.com/donate"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@joeneguseforcongress.com"
+},
+{
+"text": "[image]",
+"href": "https://joeforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/joeneguseforcongress"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/JoeNeguse"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/JoeNeguse"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/channel/UCksOAyZVGPLiWh9PjnApXAQ"
+},
+{
+"text": "[no text]",
+"href": "https://joeforcolorado.com/campaign-updates/"
+},
+{
+"text": "[no text]",
+"href": "https://joeforcolorado.com/campaign-updates/page/3/"
+}
 ]

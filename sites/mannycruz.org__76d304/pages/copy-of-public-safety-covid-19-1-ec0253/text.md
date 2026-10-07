@@ -1,8 +1,4 @@
-Home
-Meet Manny
-Priorities
-Endorsements
-Manny in the News
-More
-To improve public safety, we must provide pathways out of poverty and build trust between the community and law enforcement.
+top of page Donate Home Meet Manny Priorities Housing & Seniors Education & Young People Climate & Environmental Justice Economic Development & Tourism Jobs Mental Health & Opioids Reproductive Justice Public Safety & COVID-19 Endorsements Manny in the News More Use tab to navigate through the menu items.
+Public Safety & COVID-19 To improve public safety, we must provide pathways out of poverty and build trust between the community and law enforcement.
 I'm ready on day one to secure state and federal funding to combat the short-term and long-term effects of COVID-19.
+Policy Proposals Family Mobility Act Safe Communities Act HOUSING & SENIORS EDUCATION & YOUNG PEOPLE CLIMATE & ENVIRONMENTAL JUSTICE ECONOMIC DEVELOPMENT & TOURISM JOBS MENTAL HEALTH & OPIOIDS REPRODUCTIVE JUSTICE Email mannycruzsalem@gmail.com Follow Paid for by The Cruz Committee bottom of page

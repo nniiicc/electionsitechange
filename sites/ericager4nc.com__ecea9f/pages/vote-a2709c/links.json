@@ -1,11 +1,46 @@
 [
-"https://ericager4nc.com/",
-"https://ericager4nc.com/about",
-"https://ericager4nc.com/privacy",
-"https://ericager4nc.com/vote",
-"https://facebook.com/profile.php?id=100083211796195",
-"https://instagram.com/electericager",
-"https://secure.actblue.com/donate/ager",
-"https://x.com/ager_eric",
-"https://xpslane.com/"
+{
+"text": "About",
+"href": "https://ericager4nc.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ager"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com"
+},
+{
+"text": "Home",
+"href": "https://ericager4nc.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ericager4nc.com/privacy"
+},
+{
+"text": "Vote",
+"href": "https://ericager4nc.com/vote"
+},
+{
+"text": "[image: Eric Ager for NC House 114]",
+"href": "https://ericager4nc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100083211796195"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electericager/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ager_eric"
+},
+{
+"text": "electericager@gmail.com",
+"href": "mailto:electericager@gmail.com"
+}
 ]

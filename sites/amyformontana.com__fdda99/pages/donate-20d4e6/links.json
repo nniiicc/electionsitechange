@@ -1,8 +1,30 @@
 [
-"https://amyformontana.com/",
-"https://amyformontana.com/cart",
-"https://amyformontana.com/contact",
-"https://amyformontana.com/donate",
-"https://amyformontana.com/meetamy",
-"https://secure.winred.com/amy-regier-for-montana-senate/mt"
+{
+"text": "0",
+"href": "https://www.amyformontana.com/cart"
+},
+{
+"text": "Amy Regier for Montana SD4",
+"href": "https://www.amyformontana.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.amyformontana.com/contact"
+},
+{
+"text": "DONATE NOW!",
+"href": "https://secure.winred.com/amy-regier-for-montana-senate/mt"
+},
+{
+"text": "Donate",
+"href": "https://www.amyformontana.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.amyformontana.com/"
+},
+{
+"text": "Meet Amy",
+"href": "https://www.amyformontana.com/meetamy"
+}
 ]

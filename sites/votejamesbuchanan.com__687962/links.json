@@ -1,5 +1,14 @@
 [
-"https://secure.anedot.com/james-buchanan-campaign/donate",
-"https://surveymonkey.com/r/DBGTKQB",
-"https://votejamesbuchanan.com/privacy-policy"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/james-buchanan-campaign/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejamesbuchanan.com/privacy-policy/"
+},
+{
+"text": "Survey",
+"href": "https://www.surveymonkey.com/r/DBGTKQB"
+}
 ]

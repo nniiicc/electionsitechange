@@ -1,9 +1,34 @@
 [
-"https://rumanforrep.com/",
-"https://rumanforrep.com/aboutnew",
-"https://rumanforrep.com/contact",
-"https://rumanforrep.com/copy-of-about",
-"https://rumanforrep.com/get-involved",
-"https://rumanforrep.com/news",
-"https://secure.actblue.com/donate/ron-ruman-1"
+{
+"text": "About",
+"href": "https://www.rumanforrep.com/aboutnew"
+},
+{
+"text": "Contact",
+"href": "https://www.rumanforrep.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ron-ruman-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.rumanforrep.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.rumanforrep.com"
+},
+{
+"text": "Issues",
+"href": "https://www.rumanforrep.com/copy-of-about"
+},
+{
+"text": "Video & Media",
+"href": "https://www.rumanforrep.com/news"
+},
+{
+"text": "info@rumanforrep.com",
+"href": "mailto:info@rumanforrep.com"
+}
 ]

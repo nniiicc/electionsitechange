@@ -1,8 +1,38 @@
 [
-"https://domain.com/",
-"https://facebook.com/VoteHeathAllbright",
-"https://secure.anedot.com/heath-allbright-campaign/donate",
-"https://voteheathallbright.com/",
-"https://voteheathallbright.com/privacy-policy",
-"https://voteheathallbright.com/signrequest"
+{
+"text": "Contact Us",
+"href": "https://www.voteheathallbright.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/heath-allbright-campaign/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.voteheathallbright.com"
+},
+{
+"text": "Meet Heath",
+"href": "https://www.voteheathallbright.com"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.voteheathallbright.com/privacy-policy"
+},
+{
+"text": "Sign Request",
+"href": "https://www.voteheathallbright.com/signrequest"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteHeathAllbright"
+},
+{
+"text": "[image: HEATH ALLBRIGHT LOGO.PNG]",
+"href": "https://www.voteheathallbright.com"
+},
+{
+"text": "https://www.DOMAIN.com/",
+"href": "https://www.domain.com/"
+}
 ]

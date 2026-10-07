@@ -1,30 +1,3 @@
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
+0 Skip to Content Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Carey Hamilton 4/14/25 Carey Hamilton 4/14/25 I voted ‘no’ on the property tax bill for our public safety and public schools Read More Carey Hamilton 8/5/24 Carey Hamilton 8/5/24 Hamilton testifies on proposed diploma requirements Read More Carey Hamilton 8/5/24 Carey Hamilton 8/5/24 Hamilton expands tuition benefits from children of disabled veterans Read More Carey Hamilton 8/5/24 Carey Hamilton 8/5/24 Hamilton proposes amendment that requires legislators shadow teachers Read More Carey Hamilton 8/5/24 Carey Hamilton 8/5/24 Rep.
+Hamilton reacts to potential mass closure of child care facilities: “Child care is vital infrastructure” Read More Carey Hamilton 8/5/24 Carey Hamilton 8/5/24 Hamilton attends White House States Convening on child care Read More Carey Hamilton 1/8/21 Carey Hamilton 1/8/21 Hamilton focuses on improving quality of life for all Hoosiers during 2021 Legislative Session (2021) Read More Carey Hamilton 7/1/20 Carey Hamilton 7/1/20 Hamilton supports increasing teacher salaries (2020) Read More Carey Hamilton 7/1/20 Carey Hamilton 7/1/20 Hamilton supports restoring funds to public schools (2020) Read More Carey Hamilton 7/1/20 Carey Hamilton 7/1/20 Hamilton hosts first annual Youth Climate Action Day (2020) Read More Carey Hamilton 7/1/20 Carey Hamilton 7/1/20 Hamilton supports HB 1215 (2020): Education foundation tax credit Read More Carey Hamilton 8/1/19 Carey Hamilton 8/1/19 Hamilton proposes expansion of pre-K.
+Read More Paid for and authorized by the Committee to Elect Carey Hamilton

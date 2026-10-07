@@ -1,12 +1,58 @@
 [
-"https://colemanforsenate.com/",
-"https://colemanforsenate.com/contact",
-"https://colemanforsenate.com/issues",
-"https://colemanforsenate.com/latest",
-"https://colemanforsenate.com/meet-julia",
-"https://colemanforsenate.com/privacy-policy",
-"https://facebook.com/JuliaForMN",
-"https://flickr.com/photos/184680175@N02",
-"https://secure.anedot.com/3bb133d5-0530-4e45-9fee-2d7eb452beab/b26f9bad-f18a-441c-b61d-72d46cda6558",
-"https://twitter.com/JuliaEColeman"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/3bb133d5-0530-4e45-9fee-2d7eb452beab/b26f9bad-f18a-441c-b61d-72d46cda6558"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/3bb133d5-0530-4e45-9fee-2d7eb452beab/b26f9bad-f18a-441c-b61d-72d46cda6558"
+},
+{
+"text": "Get Involved",
+"href": "https://www.colemanforsenate.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.colemanforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.colemanforsenate.com/issues"
+},
+{
+"text": "Latest",
+"href": "https://www.colemanforsenate.com/latest"
+},
+{
+"text": "Meet Julia",
+"href": "https://www.colemanforsenate.com/meet-julia"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.colemanforsenate.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.colemanforsenate.com/privacy-policy"
+},
+{
+"text": "[image: Facebook Icon]",
+"href": "https://www.facebook.com/JuliaForMN"
+},
+{
+"text": "[image: Flickr Icon]",
+"href": "https://flickr.com/photos/184680175@N02/"
+},
+{
+"text": "[image: Get Involved Icon]Get Involved",
+"href": "https://www.colemanforsenate.com/contact"
+},
+{
+"text": "[image: Twitter Icon]",
+"href": "https://twitter.com/JuliaEColeman"
+},
+{
+"text": "[image: home page link]",
+"href": "https://www.colemanforsenate.com/"
+}
 ]

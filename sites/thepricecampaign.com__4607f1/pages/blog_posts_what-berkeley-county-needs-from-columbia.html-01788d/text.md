@@ -1,5 +1,4 @@
-What Berkeley County needs from Columbia right now
-Every district says it needs attention from Columbia.
+Price campaign blog Home Blog Voting info Contact April 13, 2026 What Berkeley County needs from Columbia right now Every district says it needs attention from Columbia.
 Berkeley County can point to the receipts.
 Growth is happening here whether state government is prepared for it or not, and residents are living with the consequences.
 Roads and infrastructure have to catch up.
@@ -16,3 +15,5 @@ Voters should expect to hear from the person holding it.
 That is the standard I am running on.
 Nothing fancy.
 Just a basic expectation that the district should be represented by somebody willing to work.
+Check official voting information The Price Campaign Democrat for State House in Berkeley County, South Carolina.
+Home Blog info@thepricecampaign.com Connect Facebook Instagram Bluesky Reddit

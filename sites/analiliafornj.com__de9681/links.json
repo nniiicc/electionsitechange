@@ -1,40 +1,206 @@
 [
-"http://facebook.com/analiliafornj",
-"http://tiktok.com/@analiliafornj",
-"https://analiliafornj.com/",
-"https://analiliafornj.com/about",
-"https://analiliafornj.com/biography",
-"https://analiliafornj.com/cart",
-"https://analiliafornj.com/contact",
-"https://analiliafornj.com/economy-for-everyone",
-"https://analiliafornj.com/endorsements",
-"https://analiliafornj.com/letter-from-analilia",
-"https://analiliafornj.com/news",
-"https://analiliafornj.com/privacy-policy",
-"https://analiliafornj.com/survey",
-"https://analiliafornj.com/videos",
-"https://analiliafornj.com/vote",
-"https://analiliafornj.com/work-with-us",
-"https://bloomberg.com/news/articles/2026-02-03/nj-house-race-mamdani-style-candidate-analilia-mejia-vies-for-sherrill-s-seat",
-"https://drive.google.com/drive/folders/1KyX-2c012YX8iTkkLSn2_UL8bRPTYhPw?usp=drive_link",
-"https://insidernj.com/press-release/over-1000-voters-join-analilia-mejia-reps-adriano-espaillat-and-delia-ramirez-for-bilingual-tele-town-hall",
-"https://insidernj.com/senator-elizabeth-warren-endorses-analilia-mejia-for-congress-in-cd-11",
-"https://instagram.com/analiliafornj",
-"https://instagram.com/p/DZGG21Rj79c",
-"https://instagram.com/p/DZGaNZpO-oH",
-"https://instagram.com/p/DZGzQlDOs_S",
-"https://instagram.com/p/DZIuRgoPlN_",
-"https://instagram.com/p/DZIwlJiPb4h",
-"https://instagram.com/p/DZPolqCjrYg",
-"https://mobilize.us/analiliafornj",
-"https://montclairlocal.news/2026/02/a-candidate-who-will-stand-up-and-fight-letter-to-the-editor",
-"https://newjerseyglobe.com/congress/its-day-two-of-early-voting-in-nj-11-special-primary-polls-are-open-from-10-am-to-8-pm/amp",
-"https://secure.actblue.com/donate/analiliafornj",
-"https://secure.actblue.com/donate/analiliafornj?amount=100",
-"https://secure.actblue.com/donate/analiliafornj?amount=25",
-"https://secure.actblue.com/donate/analiliafornj?amount=250",
-"https://secure.actblue.com/donate/analiliafornj?amount=50",
-"https://store.analiliafornj.com/",
-"https://x.com/analiliafornj",
-"https://youtube.com/@AnaliliaForNJ"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/analiliafornj?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/analiliafornj?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/analiliafornj?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/analiliafornj?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.analiliafornj.com/cart"
+},
+{
+"text": "A Candidate Who Will Stand Up and Fight (Letter to the Editor)",
+"href": "https://montclairlocal.news/2026/02/a-candidate-who-will-stand-up-and-fight-letter-to-the-editor/"
+},
+{
+"text": "A Mamdani-Style Candidate Looks to Win Over New Jersey’s Suburbs",
+"href": "https://www.bloomberg.com/news/articles/2026-02-03/nj-house-race-mamdani-style-candidate-analilia-mejia-vies-for-sherrill-s-seat"
+},
+{
+"text": "About Analilia",
+"href": "https://www.analiliafornj.com/biography"
+},
+{
+"text": "Back",
+"href": "https://www.analiliafornj.com/"
+},
+{
+"text": "Biography",
+"href": "https://www.analiliafornj.com/biography"
+},
+{
+"text": "Contact Us",
+"href": "https://www.analiliafornj.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/analiliafornj"
+},
+{
+"text": "Endorsements",
+"href": "https://www.analiliafornj.com/endorsements"
+},
+{
+"text": "Folder: Meet Analilia",
+"href": "https://www.analiliafornj.com/about"
+},
+{
+"text": "Issues",
+"href": "https://www.analiliafornj.com/economy-for-everyone"
+},
+{
+"text": "It’s Day Two of Early Voting in NJ-11 Special Primary. Polls are Open from 10 AM to 8 PM",
+"href": "https://newjerseyglobe.com/congress/its-day-two-of-early-voting-in-nj-11-special-primary-polls-are-open-from-10-am-to-8-pm/amp/"
+},
+{
+"text": "Join Us!",
+"href": "https://secure.actblue.com/donate/analiliafornj"
+},
+{
+"text": "Make Your Voice Heard",
+"href": "https://www.analiliafornj.com/survey"
+},
+{
+"text": "Media Center",
+"href": "https://drive.google.com/drive/folders/1KyX-2c012YX8iTkkLSn2_UL8bRPTYhPw?usp=drive_link"
+},
+{
+"text": "Meet Analilia",
+"href": "https://www.analiliafornj.com/biography"
+},
+{
+"text": "News",
+"href": "https://www.analiliafornj.com/news"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/analiliafornj"
+},
+{
+"text": "Over 1,000 Voters Join Analilia Mejia, Reps. Adriano Espaillat and Delia Ramirez for Bilingual Tele-Town Hall",
+"href": "https://www.insidernj.com/press-release/over-1000-voters-join-analilia-mejia-reps-adriano-espaillat-and-delia-ramirez-for-bilingual-tele-town-hall/"
+},
+{
+"text": "Press",
+"href": "mailto:press@analiliafornj.com?subject=Press+Inquiry"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.analiliafornj.com/privacy-policy"
+},
+{
+"text": "Senator Elizabeth Warren Endorses Analilia Mejia for Congress in CD-11",
+"href": "https://www.insidernj.com/senator-elizabeth-warren-endorses-analilia-mejia-for-congress-in-cd-11/"
+},
+{
+"text": "Shop",
+"href": "https://store.analiliafornj.com"
+},
+{
+"text": "Videos",
+"href": "https://www.analiliafornj.com/videos"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/analiliafornj"
+},
+{
+"text": "Vote",
+"href": "https://www.analiliafornj.com/vote"
+},
+{
+"text": "Voting Resources",
+"href": "https://www.analiliafornj.com/vote"
+},
+{
+"text": "Watch More",
+"href": "https://www.analiliafornj.com/videos"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.analiliafornj.com/letter-from-analilia"
+},
+{
+"text": "Work with Us",
+"href": "https://www.analiliafornj.com/work-with-us"
+},
+{
+"text": "[image: Analilia Mejía for New Jersey | NJ-11 Congressional Candidate 2026]",
+"href": "https://www.analiliafornj.com/"
+},
+{
+"text": "[image: At a time of growing attacks on our democracy, people power matters more than ever. Every major change in American history was driven by ordinary people organizing and demanding action. Grateful to speak at Netroots Nation about pushing for a democ][image: At a time of growing attacks on our democracy, people power matters more than ever. Every major change in American history was driven by ordinary people organizing and demanding action. Grateful to speak at Netroots Nation about pushing for a democ]",
+"href": "https://www.instagram.com/p/DZPolqCjrYg/"
+},
+{
+"text": "[image: Congratulations to Dr. Adam Hamawy on your victory in New Jersey&rsquo;s 12th Congressional District Democratic primary. I&rsquo;m excited to serve alongside you in Congress and work together to advance the dignity, well-being, and empowerment of al][image: Congratulations to Dr. Adam Hamawy on your victory in New Jersey&rsquo;s 12th Congressional District Democratic primary. I&rsquo;m excited to serve alongside you in Congress and work together to advance the dignity, well-being, and empowerment of al]",
+"href": "https://www.instagram.com/p/DZIuRgoPlN_/"
+},
+{
+"text": "[image: Congratulations to Rebecca Bennett on your victory in New Jersey&rsquo;s 7th Congressional District Democratic primary. NJ deserves a representative who will show up every day and fight for working families, not MAGA extremists. I look forward to w][image: Congratulations to Rebecca Bennett on your victory in New Jersey&rsquo;s 7th Congressional District Democratic primary. NJ deserves a representative who will show up every day and fight for working families, not MAGA extremists. I look forward to w]",
+"href": "https://www.instagram.com/p/DZIwlJiPb4h/"
+},
+{
+"text": "[image: TWO 🚨 HOURS 🚨 LEFT 🚨 until polls close! There&rsquo;s still time to help us build an economy for all. Head to your polling place NOW and cast your ballot! Vote.nj.gov][image: TWO 🚨 HOURS 🚨 LEFT 🚨 until polls close! There&rsquo;s still time to help us build an economy for all. Head to your polling place NOW and cast your ballot! Vote.nj.gov]",
+"href": "https://www.instagram.com/p/DZGaNZpO-oH/"
+},
+{
+"text": "[image: Thank you to the voters of NJ-11! I&rsquo;m humbled to earn your support and become the Democratic nominee to continue serving as your representative. I&rsquo;ll keep fighting every day for an economy and democracy that works for all. That&rsquo;s ][image: Thank you to the voters of NJ-11! I&rsquo;m humbled to earn your support and become the Democratic nominee to continue serving as your representative. I&rsquo;ll keep fighting every day for an economy and democracy that works for all. That&rsquo;s ]",
+"href": "https://www.instagram.com/p/DZGzQlDOs_S/"
+},
+{
+"text": "[image: Today is Election Day and I&rsquo;ve been talking with voters across NJ-11 about the issues that matter most to them. I&rsquo;m running to build an economy that works for everyone. Polls are open until 8 PM. If you haven&rsquo;t voted yet, there&rs][image: Today is Election Day and I&rsquo;ve been talking with voters across NJ-11 about the issues that matter most to them. I&rsquo;m running to build an economy that works for everyone. Polls are open until 8 PM. If you haven&rsquo;t voted yet, there&rs]",
+"href": "https://www.instagram.com/p/DZGG21Rj79c/"
+},
+{
+"text": "[image]",
+"href": "https://montclairlocal.news/2026/02/a-candidate-who-will-stand-up-and-fight-letter-to-the-editor/"
+},
+{
+"text": "[image]",
+"href": "https://newjerseyglobe.com/congress/its-day-two-of-early-voting-in-nj-11-special-primary-polls-are-open-from-10-am-to-8-pm/amp/"
+},
+{
+"text": "[image]",
+"href": "https://www.bloomberg.com/news/articles/2026-02-03/nj-house-race-mamdani-style-candidate-analilia-mejia-vies-for-sherrill-s-seat"
+},
+{
+"text": "[image]",
+"href": "https://www.insidernj.com/press-release/over-1000-voters-join-analilia-mejia-reps-adriano-espaillat-and-delia-ramirez-for-bilingual-tele-town-hall/"
+},
+{
+"text": "[image]",
+"href": "https://www.insidernj.com/senator-elizabeth-warren-endorses-analilia-mejia-for-congress-in-cd-11/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/analiliafornj"
+},
+{
+"text": "[no text]",
+"href": "http://tiktok.com/@analiliafornj"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/analiliafornj"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AnaliliaForNJ"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/analiliafornj"
+}
 ]

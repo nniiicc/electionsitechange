@@ -1,5 +1,4 @@
-About Jeff
-I grew up as the eldest of 5 children in a family that struggled financially, though not because of a lack of hard work.
+0 Skip to Content Jeff Lipe for Utah House District 74 Platform About Contact Donate Resources Open Menu Close Menu Jeff Lipe for Utah House District 74 Platform About Contact Donate Resources Open Menu Close Menu Platform About Contact Donate Resources About Jeff I grew up as the eldest of 5 children in a family that struggled financially, though not because of a lack of hard work.
 My father was a police officer during most of my youth.
 He instilled a deep respect for the law and law enforcement professionals in me, along with a strong sense of personal responsibility.
 I joined the US Navy shortly after graduating high school and served 5 years active duty enlisted.
@@ -24,4 +23,5 @@ To be honest, my political awakening didn’t come until 2015, then more so ahea
 Current events have given me a strong desire to push back from the inside on the divisive and self-serving MAGA agenda that has taken over the Utah legislature’s supermajority.
 I welcome your thoughts and concerns, and I appreciate your interest and support!
 BTW, “Lipe” rhymes with “pipe”.
-I am extremely honored to be endorsed by the Women’s Democratic Club of Utah!
+I am extremely honored to be endorsed by the Women’s Democratic Club of Utah !
+Jeff Lipe for Utah House District 74 Paid for by Friends of Jeffrey Lipe info@vote4jefflipe.com

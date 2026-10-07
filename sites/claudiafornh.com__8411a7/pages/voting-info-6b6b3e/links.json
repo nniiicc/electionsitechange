@@ -1,18 +1,66 @@
 [
-"https://arcgis.com/apps/webappviewer/index.html?id=288a1b42457a4f2ab675f7659dff9041&extent=-7942627.0596%2C5260239.2615%2C-7904408.5454%2C5295400.2945%2C102100",
-"https://claudiafornh.com/",
-"https://claudiafornh.com/cart",
-"https://claudiafornh.com/contact",
-"https://claudiafornh.com/endorsements",
-"https://claudiafornh.com/issues",
-"https://claudiafornh.com/meet-claudia",
-"https://claudiafornh.com/voting-info",
-"https://facebook.com/profile.php?id=61591115584325",
-"https://google.com/maps?gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgYIAhAjGCcyFggDEC4YrwEYxwEYkQIYgAQYigUYjgUyBwgEEAAYgAQyBggFEEUYPTIGCAYQRRg8MgYIBxBFGDzSAQcxNzZqMGo0qAIBsAIB8QXx4v0kSBHCRQ&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KQmX0t7aquOJMVUnK3B79lIX&daddr=140+Zion+Hill+Rd%2C+Salem%2C+NH+03079",
-"https://google.com/maps?gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIVCAEQLhgUGK8BGMcBGIcCGIAEGI4FMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMg0IBhAuGK8BGMcBGIAEMgcIBxAAGIAEMg0ICBAuGK8BGMcBGIAE0gEHMjczajBqN6gCCLACAfEFWWmxPrl5x_I&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KUvWwdxpquOJMVP3lj8oWRK2&daddr=206+Main+St%2C+Salem%2C+NH+03079",
-"https://google.com/maps?sca_esv=13b409289b973541&sxsrf=ANbL-n6Azwj8yNcK-ExhJNje57LlyiJHNg%3A1768576392292&uact=5&gs_lp=Egxnd3Mtd2l6LXNlcnAiHk1hcnkgQS4gRmlzayBFbGVtZW50YXJ5IFNjaG9vbDIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIcEC4YgAQYsAMYQxjHARjIAxiKBRiOBRivAdgBATIZEC4YgAQYsAMYQxjHARjIAxiKBRivAdgBAUjMBVDaBFjaBHADeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgOgAgeYAwCIBgGQBgq6BgQIARgIkgcBM6AHALIHALgHAMIHAzAuM8gHBYAIAA&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KRvFYe5KquOJMavtp2ys31i7&daddr=14+Main+St%2C+Salem%2C+NH+03079",
-"https://google.com/maps?sca_esv=13b409289b973541&sxsrf=ANbL-n6VLIvDH5dPsQs1wQp1iNmlbFTRKw%3A1768576483832&uact=5&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGJhcnJvbiBlbGVtZW50YXJ5IHNjaG9vbDITEC4YgAQYFBjHARiHAhiOBRivATILEC4YgAQYxwEYrwEyBRAAGIAEMgsQLhiABBjHARivATIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgUQABiABEiZJ1DHBVifJXABeAGQAQCYAZUBoAGMCqoBAzIuObgBA8gBAPgBAZgCC6ACuAnCAgoQABiwAxjWBBhHwgINEAAYsAMY1gQYRxjJA8ICDhAAGIAEGLADGJIDGIoFwgIHECMYsAIYJ8ICEBAuGIAEGMcBGA0YjgUYrwHCAgcQABiABBgNwgIGEAAYBxgemAMAiAYBkAYJkgcDMy44oAe9brIHAzIuOLgHtgnCBwYwLjEwLjHIBxWACAA&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KbNf5VKmAOOJMTs-u2bd2K_j&daddr=55+Butler+St%2C+Salem%2C+NH+03079",
-"https://salemnh.gov/464/Town-Clerk",
-"https://secure.actblue.com/donate/claudia-defuria-1",
-"https://sos.nh.gov/elections/register-vote"
+{
+"text": "0",
+"href": "https://www.claudiafornh.com/cart"
+},
+{
+"text": "Barron Elementary School",
+"href": "https://www.google.com/maps?sca_esv=13b409289b973541&sxsrf=ANbL-n6VLIvDH5dPsQs1wQp1iNmlbFTRKw%3A1768576483832&uact=5&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGJhcnJvbiBlbGVtZW50YXJ5IHNjaG9vbDITEC4YgAQYFBjHARiHAhiOBRivATILEC4YgAQYxwEYrwEyBRAAGIAEMgsQLhiABBjHARivATIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgUQABiABEiZJ1DHBVifJXABeAGQAQCYAZUBoAGMCqoBAzIuObgBA8gBAPgBAZgCC6ACuAnCAgoQABiwAxjWBBhHwgINEAAYsAMY1gQYRxjJA8ICDhAAGIAEGLADGJIDGIoFwgIHECMYsAIYJ8ICEBAuGIAEGMcBGA0YjgUYrwHCAgcQABiABBgNwgIGEAAYBxgemAMAiAYBkAYJkgcDMy44oAe9brIHAzIuOLgHtgnCBwYwLjEwLjHIBxWACAA&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KbNf5VKmAOOJMTs-u2bd2K_j&daddr=55+Butler+St%2C+Salem%2C+NH+03079"
+},
+{
+"text": "Contact",
+"href": "https://www.claudiafornh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/claudia-defuria-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.claudiafornh.com/endorsements"
+},
+{
+"text": "FIND YOUR WARD",
+"href": "https://www.arcgis.com/apps/webappviewer/index.html?id=288a1b42457a4f2ab675f7659dff9041&extent=-7942627.0596%2C5260239.2615%2C-7904408.5454%2C5295400.2945%2C102100"
+},
+{
+"text": "Issues",
+"href": "https://www.claudiafornh.com/issues"
+},
+{
+"text": "Mary A. Fisk Elementary School",
+"href": "https://www.google.com/maps?sca_esv=13b409289b973541&sxsrf=ANbL-n6Azwj8yNcK-ExhJNje57LlyiJHNg%3A1768576392292&uact=5&gs_lp=Egxnd3Mtd2l6LXNlcnAiHk1hcnkgQS4gRmlzayBFbGVtZW50YXJ5IFNjaG9vbDIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIcEC4YgAQYsAMYQxjHARjIAxiKBRiOBRivAdgBATIZEC4YgAQYsAMYQxjHARjIAxiKBRivAdgBAUjMBVDaBFjaBHADeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgOgAgeYAwCIBgGQBgq6BgQIARgIkgcBM6AHALIHALgHAMIHAzAuM8gHBYAIAA&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KRvFYe5KquOJMavtp2ys31i7&daddr=14+Main+St%2C+Salem%2C+NH+03079"
+},
+{
+"text": "Meet Claudia",
+"href": "https://www.claudiafornh.com/meet-claudia"
+},
+{
+"text": "North Salem Elementary School",
+"href": "https://www.google.com/maps?gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgYIAhAjGCcyFggDEC4YrwEYxwEYkQIYgAQYigUYjgUyBwgEEAAYgAQyBggFEEUYPTIGCAYQRRg8MgYIBxBFGDzSAQcxNzZqMGo0qAIBsAIB8QXx4v0kSBHCRQ&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KQmX0t7aquOJMVUnK3B79lIX&daddr=140+Zion+Hill+Rd%2C+Salem%2C+NH+03079"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sos.nh.gov/elections/register-vote"
+},
+{
+"text": "Salem Town Clerk",
+"href": "https://www.salemnh.gov/464/Town-Clerk"
+},
+{
+"text": "Voting Info",
+"href": "https://www.claudiafornh.com/voting-info"
+},
+{
+"text": "Woodbury Middle School",
+"href": "https://www.google.com/maps?gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIVCAEQLhgUGK8BGMcBGIcCGIAEGI4FMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMg0IBhAuGK8BGMcBGIAEMgcIBxAAGIAEMg0ICBAuGK8BGMcBGIAE0gEHMjczajBqN6gCCLACAfEFWWmxPrl5x_I&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KUvWwdxpquOJMVP3lj8oWRK2&daddr=206+Main+St%2C+Salem%2C+NH+03079"
+},
+{
+"text": "[image: Your Site Title]",
+"href": "https://www.claudiafornh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61591115584325"
+}
 ]

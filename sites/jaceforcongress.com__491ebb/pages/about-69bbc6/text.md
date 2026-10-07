@@ -1,4 +1,4 @@
-Learn more about Jace and his vision for Texas.
+Endorsed by President Trump Home About Priorities Get Involved News Endorsements Donate About Jace Learn more about Jace and his vision for Texas.
 A seventh-generation Texan and descendant of a veteran of the Texas Revolution - Jace Yarbrough brings a powerful combination of experience and determination to the battleground for conservative principles.
 He has never surrendered ground to progressive activists—from his military service to his legal career, Jace has consistently fought for freedom, family, and the bedrock values that define the Texas way of life.
 Jace thrives in a fight.
@@ -10,3 +10,4 @@ With his wife and high school sweetheart, Elizabeth, he founded Saint Francis Ac
 Actively engaged in their local church, raising five children, the Yarbroughs live out their values at home and in the community.
 In 2024, Jace volunteered to deploy to inner-city Detroit as an attorney to combat voter fraud and ensure President Trump's victory in Michigan was securely protected.
 He’s running for Congress because real patriots need to get in the fight for America’s future and stand up for our MAGA movement.
+Support Jace Help fight for President Trump's America First Agenda $5 $25 $50 $100 $150 Other Home About Priorities Get Involved News Endorsements Media Kit Donate Paid for by Jace Yarbrough for Congress PO BOX 1102, Rockwall TX 75087 Privacy Policy

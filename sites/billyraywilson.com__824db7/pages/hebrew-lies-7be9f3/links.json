@@ -1,11 +1,42 @@
 [
-"https://billyraywilson.com/",
-"https://billyraywilson.com/about",
-"https://billyraywilson.com/author/hotwire",
-"https://billyraywilson.com/blog",
-"https://billyraywilson.com/books",
-"https://billyraywilson.com/category/blog-post",
-"https://billyraywilson.com/contact",
-"https://billyraywilson.com/republic-lost",
-"https://billyraywilson.com/the-trump-administration-and-the-hebrew-culture-are-the-international-communitys-greatest-enemy"
+{
+"text": "About",
+"href": "https://billyraywilson.com/about/"
+},
+{
+"text": "Billy Ray Wilson",
+"href": "https://billyraywilson.com/author/hotwire/"
+},
+{
+"text": "Blog",
+"href": "https://billyraywilson.com/blog/"
+},
+{
+"text": "Blog Post",
+"href": "https://billyraywilson.com/category/blog-post/"
+},
+{
+"text": "Books",
+"href": "https://billyraywilson.com/books/"
+},
+{
+"text": "Contact",
+"href": "https://billyraywilson.com/contact/"
+},
+{
+"text": "Home",
+"href": "https://billyraywilson.com/"
+},
+{
+"text": "Next Post →",
+"href": "https://billyraywilson.com/the-trump-administration-and-the-hebrew-culture-are-the-international-communitys-greatest-enemy/"
+},
+{
+"text": "[image: Billy Ray Wilson – American Veteran, Author, and Political Candidate]",
+"href": "https://billyraywilson.com/"
+},
+{
+"text": "← Previous Post",
+"href": "https://billyraywilson.com/republic-lost/"
+}
 ]

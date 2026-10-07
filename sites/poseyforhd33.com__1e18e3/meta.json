@@ -1,7 +1,11 @@
 {
  "description": "Ivan Posey is a candidate for Wyoming House District 33. He will bring real representation to the district.",
  "final_url": "https://www.poseyforhd33.com/",
- "paid_for_by": null,
+ "fingerprint": "14a9ee03098c2b981cdf24f39ed84b340d7c11f8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Ivan Posey for House District 33",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

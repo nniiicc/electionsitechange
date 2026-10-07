@@ -1,21 +1,110 @@
 [
-"https://aboutads.info/choices",
-"https://actblue.com/legal-privacy",
-"https://actblue.com/legal-terms",
-"https://cloudflare.com/privacypolicy",
-"https://facebook.com/JonesForOhio",
-"https://facebook.com/adpreferences/ad_settings",
-"https://facebook.com/privacy/policy",
-"https://instagram.com/jones4ohio",
-"https://jonesforohio.com/",
-"https://jonesforohio.com/contact",
-"https://jonesforohio.com/events",
-"https://jonesforohio.com/media",
-"https://jonesforohio.com/privacy-policy-terms",
-"https://jonesforohio.com/vote",
-"https://matomo.org/privacy-policy",
-"https://policies.google.com/privacy",
-"https://secure.actblue.com/donate/aaron-jones",
-"https://wehtt.am/fonts",
-"https://x.com/JonesForOhio"
+{
+"text": "Aaron Jones for State Representative",
+"href": "https://www.jonesforohio.com/"
+},
+{
+"text": "About",
+"href": "https://www.jonesforohio.com/#about"
+},
+{
+"text": "ActBlue Privacy Policy",
+"href": "https://www.actblue.com/legal-privacy/"
+},
+{
+"text": "Cloudflare Privacy Policy",
+"href": "https://www.cloudflare.com/privacypolicy/"
+},
+{
+"text": "Contact",
+"href": "https://www.jonesforohio.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/aaron-jones"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jonesforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jonesforohio.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jonesforohio.com/#get-involved"
+},
+{
+"text": "Google Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Home",
+"href": "https://www.jonesforohio.com/"
+},
+{
+"text": "Matomo Privacy Policy",
+"href": "https://matomo.org/privacy-policy/"
+},
+{
+"text": "Matthew Hinders-Anderson",
+"href": "https://wehtt.am/fonts/"
+},
+{
+"text": "Media",
+"href": "https://www.jonesforohio.com/media/"
+},
+{
+"text": "Meta Privacy Policy",
+"href": "https://www.facebook.com/privacy/policy/"
+},
+{
+"text": "News",
+"href": "https://www.jonesforohio.com/#news"
+},
+{
+"text": "Priorities",
+"href": "https://www.jonesforohio.com/#priorities"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://www.jonesforohio.com/privacy-policy-terms"
+},
+{
+"text": "Vote",
+"href": "https://www.jonesforohio.com/vote/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JonesForOhio"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jones4ohio/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JonesForOhio"
+},
+{
+"text": "https://www.actblue.com/legal-privacy/",
+"href": "https://www.actblue.com/legal-privacy/"
+},
+{
+"text": "https://www.actblue.com/legal-terms/",
+"href": "https://www.actblue.com/legal-terms/"
+},
+{
+"text": "https://www.jonesforohio.com",
+"href": "https://www.jonesforohio.com"
+},
+{
+"text": "info@jonesforohio.com",
+"href": "mailto:info@jonesforohio.com"
+},
+{
+"text": "www.aboutads.info/choices",
+"href": "https://www.aboutads.info/choices"
+}
 ]

@@ -1,5 +1,4 @@
-Fellow Oregonians:
-The Phoenix Project is nothing more than the rewriting of Oregon Constitution.
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer Welcome to the Phoenix Project The Constitution Oregon Needs Bob Niemeyer District 25, Oregon House of Representatives Tigard, Metzger, Beaverton Fellow Oregonians: The Phoenix Project is nothing more than the rewriting of Oregon Constitution.
 The simple reason for this project is that over the last 165 years, our Constitution has not been addressing, if not outright allowing for massive opportunities for corruption, wasteful spending, and the misuse of authority to control the populous rather than promoting Freedom, Liberty, and Property rights, just to name a few.
 Abraham Lincoln eloquently said that our government is “Of-By-and-For the People”.
 However, We must understand that the government does NOT “work” for the People, the government works for the People we elect and are subsequently appointed to office.
@@ -11,4 +10,6 @@ This Constitution could be used to form a new State of Eastern Oregon, form the 
 A third reason is to provide a Constitution to the Providences of Canada to become States of the United States of America.
 A new reason: It has become clear that it takes a remarkably small number of nefarious people to cause huge amounts of damage to our Nation and State.
 An underlying theme of a new Constitution must be introducing ways that will require many more corrupt people to pull off the waste, fraud, and theft from the Taxpayers of Oregon.
-Page Links:
+Page Links: The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

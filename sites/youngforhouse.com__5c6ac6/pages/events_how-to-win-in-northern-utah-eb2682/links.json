@@ -1,14 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=How+to+Win+in+Northern+Utah&dates=20260422T230000Z%2F20260423T000000Z&location=1+North+Main+Street%2C+Clearfield%2C+UT%2C+84015%2C+United+States",
-"http://maps.google.com/?q=1+North+Main+Street+Clearfield%2C+UT%2C+84015+United+States",
-"https://secure.actblue.com/donate/youngforhouse",
-"https://youngforhouse.com/",
-"https://youngforhouse.com/cart",
-"https://youngforhouse.com/contact",
-"https://youngforhouse.com/donate",
-"https://youngforhouse.com/events",
-"https://youngforhouse.com/events/davis-county-lets-talk",
-"https://youngforhouse.com/events/how-to-win-in-northern-utah?format=ical",
-"https://youngforhouse.com/events/neighborhood-town-hall",
-"https://youngforhouse.com/faq"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1+north+main+street+clearfield%2C+ut%2C+84015+united+states"
+},
+{
+"text": "0",
+"href": "https://www.youngforhouse.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.youngforhouse.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.youngforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/youngforhouse"
+},
+{
+"text": "Donate",
+"href": "https://www.youngforhouse.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.youngforhouse.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.youngforhouse.com/faq"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=How+to+Win+in+Northern+Utah&dates=20260422T230000Z%2F20260423T000000Z&location=1+North+Main+Street%2C+Clearfield%2C+UT%2C+84015%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.youngforhouse.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/how-to-win-in-northern-utah?format=ical"
+},
+{
+"text": "Next Next June 9 Neighborhood Town Hall",
+"href": "https://www.youngforhouse.com/events/neighborhood-town-hall"
+},
+{
+"text": "Previous Previous April 21 Davis County: Let's Talk",
+"href": "https://www.youngforhouse.com/events/davis-county-lets-talk"
+},
+{
+"text": "[image: Brandon Young for Utah House of Representatives]",
+"href": "https://www.youngforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/bydirector"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577546979131"
+}
 ]

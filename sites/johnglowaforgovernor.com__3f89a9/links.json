@@ -1,16 +1,114 @@
 [
-"https://johnglowaforgovernor.com/",
-"https://johnglowaforgovernor.com/about",
-"https://johnglowaforgovernor.com/category/events",
-"https://johnglowaforgovernor.com/category/issues",
-"https://johnglowaforgovernor.com/category/news",
-"https://johnglowaforgovernor.com/category/press-releases",
-"https://johnglowaforgovernor.com/energy",
-"https://johnglowaforgovernor.com/get-involved",
-"https://johnglowaforgovernor.com/ice-and-the-federal-government",
-"https://johnglowaforgovernor.com/john-glowa-sr-announces-gubernatorial-candidacy",
-"https://johnglowaforgovernor.com/maine-morning-star",
-"https://johnglowaforgovernor.com/spectrum-news",
-"https://johnglowaforgovernor.com/yahoo-news",
-"https://secure.anedot.com/john-glowa-for-governor/contribute"
+{
+"text": "About",
+"href": "https://johnglowaforgovernor.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://johnglowaforgovernor.com/get-involved/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/john-glowa-for-governor/contribute"
+},
+{
+"text": "Email: johnglowaforgovernor@gmail.com",
+"href": "mailto:johnglowaforgovernor@gmail.com"
+},
+{
+"text": "Energy",
+"href": "https://johnglowaforgovernor.com/energy/"
+},
+{
+"text": "Events",
+"href": "https://johnglowaforgovernor.com/category/events/"
+},
+{
+"text": "Home",
+"href": "https://johnglowaforgovernor.com/"
+},
+{
+"text": "ICE and the Federal Government",
+"href": "https://johnglowaforgovernor.com/ice-and-the-federal-government/"
+},
+{
+"text": "Issues",
+"href": "https://johnglowaforgovernor.com/category/issues/"
+},
+{
+"text": "John Glowa, Sr. Announces Gubernatorial Candidacy",
+"href": "https://johnglowaforgovernor.com/john-glowa-sr-announces-gubernatorial-candidacy/"
+},
+{
+"text": "Join Our Team!",
+"href": "https://johnglowaforgovernor.com/get-involved/"
+},
+{
+"text": "Maine Morning Star",
+"href": "https://johnglowaforgovernor.com/maine-morning-star/"
+},
+{
+"text": "More About Me",
+"href": "https://johnglowaforgovernor.com/about/"
+},
+{
+"text": "News",
+"href": "https://johnglowaforgovernor.com/category/news/"
+},
+{
+"text": "Phone: 207-660-3801",
+"href": "tel:2076603801"
+},
+{
+"text": "Press Releases",
+"href": "https://johnglowaforgovernor.com/category/press-releases/"
+},
+{
+"text": "Read More »",
+"href": "https://johnglowaforgovernor.com/energy/"
+},
+{
+"text": "Read More »",
+"href": "https://johnglowaforgovernor.com/ice-and-the-federal-government/"
+},
+{
+"text": "Read More »",
+"href": "https://johnglowaforgovernor.com/john-glowa-sr-announces-gubernatorial-candidacy/"
+},
+{
+"text": "Read More »",
+"href": "https://johnglowaforgovernor.com/maine-morning-star/"
+},
+{
+"text": "Read More »",
+"href": "https://johnglowaforgovernor.com/spectrum-news/"
+},
+{
+"text": "Read More »",
+"href": "https://johnglowaforgovernor.com/yahoo-news/"
+},
+{
+"text": "Spectrum News",
+"href": "https://johnglowaforgovernor.com/spectrum-news/"
+},
+{
+"text": "Yahoo News",
+"href": "https://johnglowaforgovernor.com/yahoo-news/"
+},
+{
+"text": "[image]",
+"href": "https://johnglowaforgovernor.com/"
+},
+{
+"text": "[image]",
+"href": "https://johnglowaforgovernor.com/energy/"
+},
+{
+"text": "[image]",
+"href": "https://johnglowaforgovernor.com/ice-and-the-federal-government/"
+},
+{
+"text": "[image]",
+"href": "https://johnglowaforgovernor.com/john-glowa-sr-announces-gubernatorial-candidacy/"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Find upcoming campaign events for Austin Peterson, Republican candidate for MN State Senate District 4. Town halls, meet-and-greets, rallies and more.",
  "final_url": "https://austin4mn.com/events.php",
+ "fingerprint": "f796b13246e6d3333c7c30698f221efa7fa3614a",
+ "format": 3,
  "paid_for_by": "Paid for by Austin Peterson For Senate",
  "title": "Campaign Events | Austin Peterson for Minnesota State Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

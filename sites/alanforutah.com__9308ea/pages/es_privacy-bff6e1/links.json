@@ -1,17 +1,86 @@
 [
-"https://alanforutah.com/es",
-"https://alanforutah.com/es/district-61",
-"https://alanforutah.com/es/get-involved",
-"https://alanforutah.com/es/meet-alan",
-"https://alanforutah.com/es/priorities",
-"https://alanforutah.com/es/privacy",
-"https://alanforutah.com/es/sms-terms",
-"https://alanforutah.com/es/vote",
-"https://alanforutah.com/privacy",
-"https://facebook.com/alanforutah",
-"https://instagram.com/alanforutah",
-"https://privacy.microsoft.com/es-es/privacystatement",
-"https://secure.actblue.com/content/privacy",
-"https://secure.actblue.com/donate/alan-jimenez-1",
-"https://vote.utah.gov/es"
+{
+"text": "AJAlan JimenezCÁMARA DE UTAH · DISTRITO 61",
+"href": "https://alanforutah.com/es"
+},
+{
+"text": "Conozca a Alan",
+"href": "https://alanforutah.com/es/meet-alan"
+},
+{
+"text": "Cómo Votar",
+"href": "https://alanforutah.com/es/vote"
+},
+{
+"text": "Distrito 61",
+"href": "https://alanforutah.com/es/district-61"
+},
+{
+"text": "Donar",
+"href": "https://secure.actblue.com/donate/alan-jimenez-1"
+},
+{
+"text": "Donar ↗",
+"href": "https://secure.actblue.com/donate/alan-jimenez-1"
+},
+{
+"text": "EN",
+"href": "https://alanforutah.com/privacy"
+},
+{
+"text": "English",
+"href": "https://alanforutah.com/privacy"
+},
+{
+"text": "Facebook ↗",
+"href": "https://www.facebook.com/alanforutah"
+},
+{
+"text": "Inicio",
+"href": "https://alanforutah.com/es"
+},
+{
+"text": "Instagram ↗",
+"href": "https://www.instagram.com/alanforutah/"
+},
+{
+"text": "Participe",
+"href": "https://alanforutah.com/es/get-involved"
+},
+{
+"text": "Política de Privacidad de ActBlue",
+"href": "https://secure.actblue.com/content/privacy"
+},
+{
+"text": "Privacidad",
+"href": "https://alanforutah.com/es/privacy"
+},
+{
+"text": "Propuestas",
+"href": "https://alanforutah.com/es/priorities"
+},
+{
+"text": "Términos de Mensajes de Texto",
+"href": "https://alanforutah.com/es/sms-terms"
+},
+{
+"text": "Términos de Textos",
+"href": "https://alanforutah.com/es/sms-terms"
+},
+{
+"text": "Votar",
+"href": "https://alanforutah.com/es/vote"
+},
+{
+"text": "alanforutah@outlook.com",
+"href": "mailto:alanforutah@outlook.com"
+},
+{
+"text": "términos de privacidad",
+"href": "https://privacy.microsoft.com/es-es/privacystatement"
+},
+{
+"text": "¿Se mudó? Actualice su registro antes del 23 oct. →",
+"href": "https://vote.utah.gov/es/"
+}
 ]

@@ -1,17 +1,74 @@
 [
-"https://drkemformo.com/",
-"https://drkemformo.com/about-1",
-"https://drkemformo.com/blank-1",
-"https://drkemformo.com/blank-3",
-"https://drkemformo.com/blog",
-"https://drkemformo.com/contact-5",
-"https://drkemformo.com/general-9",
-"https://facebook.com/profile.php?id=61573031092386",
-"https://il.linkedin.com/company/wix-com?trk=public_jobs_topcard_logo",
-"https://instagram.com/morep_drkemsmith?igsh=ZHdhYXBkNGJ5em9u",
-"https://linkedin.com/in/drkem-smith-54257935",
-"https://secure.actblue.com/donate/drkemsmith",
-"https://secure.actblue.com/donate/friends-to-elect-dr-kem-smith-1",
-"https://tiktok.com/@drkemformo?_t=ZP-8x2seIcHKwh&_r=1",
-"https://youtube.com/@drkemsmith"
+{
+"text": "About",
+"href": "https://www.drkemformo.com/blank-1"
+},
+{
+"text": "Blog",
+"href": "https://www.drkemformo.com/blog"
+},
+{
+"text": "Constituent Corner",
+"href": "https://www.drkemformo.com/blank-3"
+},
+{
+"text": "Contact",
+"href": "https://www.drkemformo.com/contact-5"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/drkemsmith"
+},
+{
+"text": "Events",
+"href": "https://www.drkemformo.com/general-9"
+},
+{
+"text": "Fuel the Fight",
+"href": "https://secure.actblue.com/donate/friends-to-elect-dr-kem-smith-1"
+},
+{
+"text": "Get in Touch",
+"href": "mailto:info@drkemsmith.com"
+},
+{
+"text": "Home",
+"href": "https://www.drkemformo.com"
+},
+{
+"text": "Join the Movement",
+"href": "https://www.drkemformo.com/about-1"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61573031092386"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.linkedin.com/in/drkem-smith-54257935/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/morep_drkemsmith/?igsh=ZHdhYXBkNGJ5em9u"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://il.linkedin.com/company/wix-com?trk=public_jobs_topcard_logo"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/drkem-smith-54257935/"
+},
+{
+"text": "[image: TikTok ]",
+"href": "https://www.tiktok.com/@drkemformo?_t=ZP-8x2seIcHKwh&_r=1"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@drkemsmith"
+},
+{
+"text": "info@drkemformo.com",
+"href": "mailto:info@drkemformo.com"
+}
 ]

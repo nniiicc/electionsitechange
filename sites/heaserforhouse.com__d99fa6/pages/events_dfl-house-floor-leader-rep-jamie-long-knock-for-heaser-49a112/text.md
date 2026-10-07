@@ -1,4 +1,4 @@
-Prepared and paid for by the Heaser for House Committee:
-12299 Champlin Dr, Unit 124, Champlin, MN 55316
-Jason Heaser is a retired member of the US Army.
+0 Skip to Content Home About Platform Endorsements Events Connect Donate Open Menu Close Menu Home About Platform Endorsements Events Connect Donate Open Menu Close Menu Home About Platform Endorsements Events Connect Donate Back to All Events DFL House Floor Leader & Rep.
+Jamie Long Knock for Heaser Sunday, September 20, 2026 5:00 PM 7:00 PM Google Calendar ICS Source: https://secure.ngpvan.com/ImTj7vEuHEeOP0xSZ5dU4w2 Previous Previous September 19 Rogers Door Knock Next Next September 23 Dayton Door Knock with Jess Lewis (43B House Candidate) Donate Now!
+Prepared and paid for by the Heaser for House Committee: 12299 Champlin Dr, Unit 124, Champlin, MN 55316 Jason Heaser is a retired member of the US Army.
 Use of job titles, rank, and photographs in uniform do not imply endorsement by the Department of the Army or the Department of Defense.

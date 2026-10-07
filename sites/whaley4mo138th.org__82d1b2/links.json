@@ -1,34 +1,174 @@
 [
-"https://ago.mo.gov/",
-"https://burlison.house.gov/",
-"https://facebook.com/profile.php?id=61582930993902",
-"https://freedomprinciplemo.org/mo-first-pac",
-"https://google.com/maps/place/201+W+Capitol+Ave,+Jefferson+City,+MO+65101",
-"https://home.nra.org/",
-"https://house.mo.gov/",
-"https://house.mo.gov/CapitolReport.aspx?district=138",
-"https://house.mo.gov/bill.aspx?bill=HB1683&year=2026&code=R",
-"https://house.mo.gov/bill.aspx?bill=HB2273&year=2026&code=R",
-"https://house.mo.gov/bill.aspx?bill=HB2551&year=2026&code=R",
-"https://house.mo.gov/bill.aspx?bill=HB2656&year=2026&code=R",
-"https://house.mo.gov/bill.aspx?bill=HB3056&year=2026&code=R",
-"https://house.mo.gov/bill.aspx?bill=HB3338&year=2026&code=R",
-"https://house.mo.gov/bill.aspx?bill=HB3412&year=2026&code=R",
-"https://house.mo.gov/bill.aspx?bill=HCR47&year=2026&code=R",
-"https://house.mo.gov/bill.aspx?bill=HCR50&year=2026&code=R",
-"https://house.mo.gov/bill.aspx?bill=HJR109&year=2026&code=R",
-"https://house.mo.gov/bill.aspx?bill=HJR110&year=2026&code=R",
-"https://house.mo.gov/memberdetails.aspx?district=138&year=2026&code=R",
-"https://missourifc.com/",
-"https://sos.mo.gov/",
-"https://sos.mo.gov/petitions/2026BallotMeasures",
-"https://stonecountymosheriff.com/",
-"https://tlbor.com/",
-"https://whaley4mo138th.org/",
-"https://whaley4mo138th.org/bio",
-"https://whaley4mo138th.org/donate",
-"https://whaley4mo138th.org/legislative-session",
-"https://whaley4mo138th.org/privacy-policy",
-"https://whaley4mo138th.org/school-visits",
-"https://whaley4mo138th.org/voter-info"
+{
+"text": "201 West Capitol Ave | Jefferson City, MO 65101",
+"href": "https://www.google.com/maps/place/201+W+Capitol+Ave,+Jefferson+City,+MO+65101"
+},
+{
+"text": "2026BallotMeasures",
+"href": "https://www.sos.mo.gov/petitions/2026BallotMeasures"
+},
+{
+"text": "2026LegislativeSession",
+"href": "https://whaley4mo138th.org/legislative-session"
+},
+{
+"text": "Bio",
+"href": "https://whaley4mo138th.org/bio"
+},
+{
+"text": "Burt.Whaley@house.mo.gov",
+"href": "mailto:Burt.Whaley@house.mo.gov"
+},
+{
+"text": "Burt.whaley@house.mo.gov",
+"href": "mailto:Burt.whaley@house.mo.gov"
+},
+{
+"text": "CapitalReport",
+"href": "https://house.mo.gov/CapitolReport.aspx?district=138"
+},
+{
+"text": "DONATE",
+"href": "https://whaley4mo138th.org/donate/"
+},
+{
+"text": "Freedom Principle MO,Missouri First PAC",
+"href": "https://www.freedomprinciplemo.org/mo-first-pac"
+},
+{
+"text": "HB 1683",
+"href": "https://house.mo.gov/bill.aspx?bill=HB1683&year=2026&code=R"
+},
+{
+"text": "HB 2273",
+"href": "https://house.mo.gov/bill.aspx?bill=HB2273&year=2026&code=R"
+},
+{
+"text": "HB 2551",
+"href": "https://house.mo.gov/bill.aspx?bill=HB2551&year=2026&code=R"
+},
+{
+"text": "HB 2656",
+"href": "https://house.mo.gov/bill.aspx?bill=HB2656&year=2026&code=R"
+},
+{
+"text": "HB 3056",
+"href": "https://house.mo.gov/bill.aspx?bill=HB3056&year=2026&code=R"
+},
+{
+"text": "HB 3338",
+"href": "https://house.mo.gov/bill.aspx?bill=HB3338&year=2026&code=R"
+},
+{
+"text": "HB 3412",
+"href": "https://house.mo.gov/bill.aspx?bill=HB3412&year=2026&code=R"
+},
+{
+"text": "HCR 47",
+"href": "https://house.mo.gov/bill.aspx?bill=HCR47&year=2026&code=R"
+},
+{
+"text": "HCR 50",
+"href": "https://house.mo.gov/bill.aspx?bill=HCR50&year=2026&code=R"
+},
+{
+"text": "HJR 109",
+"href": "https://house.mo.gov/bill.aspx?bill=HJR109&year=2026&code=R"
+},
+{
+"text": "HJR 110",
+"href": "https://house.mo.gov/bill.aspx?bill=HJR110&year=2026&code=R"
+},
+{
+"text": "Home",
+"href": "https://whaley4mo138th.org/"
+},
+{
+"text": "MissouriAttorneyGeneral",
+"href": "https://ago.mo.gov/"
+},
+{
+"text": "MissouriFreedomCaucus",
+"href": "https://www.missourifc.com/"
+},
+{
+"text": "MissouriSOSOffice",
+"href": "https://www.sos.mo.gov/"
+},
+{
+"text": "National Rifle Association",
+"href": "https://home.nra.org/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://whaley4mo138th.org/privacy-policy/"
+},
+{
+"text": "READ BURT’S FULL BIOGRAPHY",
+"href": "https://whaley4mo138th.org/bio"
+},
+{
+"text": "SchoolVisits",
+"href": "https://whaley4mo138th.org/school-visits"
+},
+{
+"text": "ScoreCards",
+"href": "https://whaley4mo138th.org/#ScoreCards"
+},
+{
+"text": "StatewideHouseWebpage",
+"href": "https://house.mo.gov"
+},
+{
+"text": "Stone County Sheriff’s Office",
+"href": "https://www.stonecountymosheriff.com/"
+},
+{
+"text": "Stone CountyMissouri RepublicanAssembly",
+"href": "https://www.facebook.com/profile.php?id=61582930993902"
+},
+{
+"text": "Tri-Lakes Board of Realtors",
+"href": "https://www.tlbor.com/"
+},
+{
+"text": "U.S. RepresentativeEric Burlison",
+"href": "https://burlison.house.gov/"
+},
+{
+"text": "VoterInfo",
+"href": "https://whaley4mo138th.org/voter-info"
+},
+{
+"text": "[image]",
+"href": "https://burlison.house.gov/"
+},
+{
+"text": "[image]",
+"href": "https://home.nra.org/"
+},
+{
+"text": "[image]",
+"href": "https://house.mo.gov/"
+},
+{
+"text": "[image]",
+"href": "https://house.mo.gov/memberdetails.aspx?district=138&year=2026&code=R"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61582930993902"
+},
+{
+"text": "[image]",
+"href": "https://www.freedomprinciplemo.org/mo-first-pac"
+},
+{
+"text": "[image]",
+"href": "https://www.stonecountymosheriff.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.tlbor.com/"
+}
 ]

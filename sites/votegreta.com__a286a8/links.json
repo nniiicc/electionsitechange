@@ -1,11 +1,42 @@
 [
-"https://facebook.com/NeubauerForAssembly?notif_id=1510245215378878&notif_t=page_invite",
-"https://forms.gle/6gpwpUMJ2ZgN2mEAA",
-"https://forms.gle/PxS6xocTUDER92zY7",
-"https://myvote.wi.gov/",
-"https://myvote.wi.gov/en-US/FindMyPollingPlace",
-"https://myvote.wi.gov/en-us/RegisterToVote",
-"https://secure.actblue.com/donate/greta",
-"https://twitter.com/gretaneubauer",
-"https://votegreta.com/cdn-cgi/l/email-protection"
+{
+"text": "Click here to find your polling place",
+"href": "https://myvote.wi.gov/en-US/FindMyPollingPlace"
+},
+{
+"text": "Click here to make sure you are registered to vote",
+"href": "https://myvote.wi.gov/en-us/RegisterToVote"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/greta"
+},
+{
+"text": "Get A Yard Sign",
+"href": "https://forms.gle/PxS6xocTUDER92zY7"
+},
+{
+"text": "Get Info On How to Vote",
+"href": "https://myvote.wi.gov"
+},
+{
+"text": "Volunteer With Us",
+"href": "https://forms.gle/6gpwpUMJ2ZgN2mEAA"
+},
+{
+"text": "[email protected]",
+"href": "mailto:greta@votegreta.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/gretaneubauer"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NeubauerForAssembly/?notif_id=1510245215378878&notif_t=page_invite"
+},
+{
+"text": "[tooltip: go to top]",
+"href": "javascript:scrollToTop()"
+}
 ]

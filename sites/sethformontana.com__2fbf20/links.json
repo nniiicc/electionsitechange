@@ -1,28 +1,138 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/sethformontanacampaign",
-"https://flickr.com/sethformontanacampaign",
-"https://instagram.com/sethbodnarcampaign",
-"https://sethformontana.com/",
-"https://sethformontana.com/3b87ab58-c6fa-4f29-afe5-77654af19fc5",
-"https://sethformontana.com/About",
-"https://sethformontana.com/Platform",
-"https://sethformontana.com/contact",
-"https://sethformontana.com/donate",
-"https://sethformontana.com/donate?amount=10",
-"https://sethformontana.com/donate?amount=100",
-"https://sethformontana.com/donate?amount=25",
-"https://sethformontana.com/donate?amount=250",
-"https://sethformontana.com/donate?amount=50",
-"https://sethformontana.com/endorsements",
-"https://sethformontana.com/events",
-"https://sethformontana.com/media",
-"https://sethformontana.com/news",
-"https://sethformontana.com/privacy-policy",
-"https://sethformontana.com/seths-record-at-um",
-"https://sethformontana.com/volunteer",
-"https://store.sethformontana.com/",
-"https://threads.net/@sethbodnarcampain",
-"https://x.com/SethBodnarForMT",
-"https://youtube.com/@SethForMontana"
+{
+"text": "$10",
+"href": "https://www.sethformontana.com/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://www.sethformontana.com/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://www.sethformontana.com/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://www.sethformontana.com/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://www.sethformontana.com/donate?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.sethformontana.com/About"
+},
+{
+"text": "Contact",
+"href": "https://www.sethformontana.com/contact"
+},
+{
+"text": "Defend Our Freedoms and Individual Liberties",
+"href": "https://www.sethformontana.com/3b87ab58-c6fa-4f29-afe5-77654af19fc5"
+},
+{
+"text": "Donate",
+"href": "https://www.sethformontana.com/donate"
+},
+{
+"text": "End Corruption and Self-Dealing in Washington, D.C.",
+"href": "https://www.sethformontana.com/3b87ab58-c6fa-4f29-afe5-77654af19fc5"
+},
+{
+"text": "End the Costly and Unauthorized War in Iran",
+"href": "https://www.sethformontana.com/3b87ab58-c6fa-4f29-afe5-77654af19fc5"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sethformontana.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.sethformontana.com/events"
+},
+{
+"text": "Fight Back Against Data Centers and Regulate AI Development",
+"href": "https://www.sethformontana.com/3b87ab58-c6fa-4f29-afe5-77654af19fc5"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sethformontana.com/volunteer"
+},
+{
+"text": "Issues",
+"href": "https://www.sethformontana.com/issues"
+},
+{
+"text": "Lower the Cost of Health Care, Housing, and Energy",
+"href": "https://www.sethformontana.com/3b87ab58-c6fa-4f29-afe5-77654af19fc5"
+},
+{
+"text": "MEDIA",
+"href": "https://www.sethformontana.com/media"
+},
+{
+"text": "News",
+"href": "https://www.sethformontana.com/news"
+},
+{
+"text": "Other",
+"href": "https://www.sethformontana.com/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://sethformontana.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sethformontana.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Secure Our Borders and Enforce Immigration Laws",
+"href": "https://www.sethformontana.com/3b87ab58-c6fa-4f29-afe5-77654af19fc5"
+},
+{
+"text": "Seth's Record at UM",
+"href": "https://www.sethformontana.com/seths-record-at-um"
+},
+{
+"text": "Store",
+"href": "https://store.sethformontana.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sethformontana.com/volunteer"
+},
+{
+"text": "[image: Seth Bodnar - Independent for U.S. Senate Logo]",
+"href": "https://www.sethformontana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/sethformontanacampaign"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/sethformontanacampaign"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/sethbodnarcampaign/"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@sethbodnarcampain"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@SethForMontana"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SethBodnarForMT"
+}
 ]

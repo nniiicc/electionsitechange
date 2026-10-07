@@ -1,7 +1,38 @@
 [
-"https://facebook.com/robbyforhouse",
-"https://instagram.com/robbyforhouse",
-"https://robbyforhouse.com/about.html",
-"https://robbyforhouse.com/index.html",
-"https://secure.anedot.com/ca39b2c3-fb03-4aeb-9dc5-461b9bcc37bb/fb453e3d-1076-4859-8c29-6aee9f41cc3f"
+{
+"text": "About",
+"href": "https://robbyforhouse.com/about.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ca39b2c3-fb03-4aeb-9dc5-461b9bcc37bb/fb453e3d-1076-4859-8c29-6aee9f41cc3f"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/robbyforhouse"
+},
+{
+"text": "Home",
+"href": "https://robbyforhouse.com/index.html"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/robbyforhouse"
+},
+{
+"text": "Issues",
+"href": "https://robbyforhouse.com/index.html#issues"
+},
+{
+"text": "Record",
+"href": "https://robbyforhouse.com/index.html#record"
+},
+{
+"text": "See the Record",
+"href": "https://robbyforhouse.com/index.html#record"
+},
+{
+"text": "[image: Robby Robbins for State House 97]",
+"href": "https://robbyforhouse.com/index.html"
+}
 ]

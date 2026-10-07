@@ -1,10 +1,13 @@
 {
- "description": "RALEIGH, N.C. \u2014 On Thursday, the North Carolina General Assembly ratified the 2026 State Budget (SB 257), which passed 35-10 in the Senate and 88-21 in the House on third reading. This spending plan features major investments statewide, including: \u00b7 Personal Income Tax rate reductions, guaranteeing a rate of 2.99% by 2033, with additional quarter-percent rate reductions based on revenue triggers, to reach a 2.49% rate.\u00b7 Average 8% raise for teachers and bonuses based on years of service.",
+ "description": "RALEIGH, N.C. — On Thursday, the North Carolina General Assembly ratified the 2026 State Budget (SB 257), which passed 35-10 in the Senate and 88-21 in the House on third reading. This spending plan features major investments statewide, including: · Personal Income Tax rate reductions, guaranteeing a rate of 2.99% by 2033, with additional quarter-percent rate reductions based on revenue triggers, to reach a 2.49% rate.· Average 8% raise for teachers and bonuses based on years of service.",
  "final_url": "https://www.lazzaranc.com/post/news-n-c-general-assembly-passes-2026-state-budget-lazzara-secures-funding-for-local-projects",
- "paid_for_by": null,
+ "fingerprint": "93f9b154747f3ca76c7bc7dca6cfb3676a0d79ca",
+ "format": 3,
+ "paid_for_by": "",
  "title": "NEWS: N.C. General Assembly Passes 2026 State Budget, Lazzara Secures Funding for Local Projects",
  "years_mentioned": [
   "2026",
-  "2027"
+  "2027",
+  "2033"
  ]
 }

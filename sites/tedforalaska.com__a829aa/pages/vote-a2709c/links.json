@@ -1,18 +1,82 @@
 [
-"https://akelections.maps.arcgis.com/apps/webappviewer/index.html?id=579890d66c7e40ae9f7cc227d76669b1",
-"https://elections.alaska.gov/election-polls",
-"https://elections.alaska.gov/voter-information/absentee-and-early-voting",
-"https://facebook.com/TedForAlaska",
-"https://instagram.com/tedforalaska",
-"https://iwillvote.com/",
-"https://secure.anedot.com/ted-for-alaska/general",
-"https://tedforalaska.com/",
-"https://tedforalaska.com/endorsements",
-"https://tedforalaska.com/get-involved",
-"https://tedforalaska.com/media",
-"https://tedforalaska.com/meet-ted",
-"https://tedforalaska.com/priorities",
-"https://tedforalaska.com/vote",
-"https://voterregistration.alaska.gov/",
-"https://x.com/tedforalaska"
+{
+"text": "907-215-0312",
+"href": "tel:9072150312"
+},
+{
+"text": "Check Your Registration",
+"href": "https://iwillvote.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ted-for-alaska/general"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/ted-for-alaska/general"
+},
+{
+"text": "Endorsements",
+"href": "https://tedforalaska.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/TedForAlaska/"
+},
+{
+"text": "Find your Precinct",
+"href": "https://akelections.maps.arcgis.com/apps/webappviewer/index.html?id=579890d66c7e40ae9f7cc227d76669b1"
+},
+{
+"text": "Get Involved",
+"href": "https://tedforalaska.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://tedforalaska.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/tedforalaska/"
+},
+{
+"text": "Media",
+"href": "https://tedforalaska.com/media/"
+},
+{
+"text": "Meet Ted",
+"href": "https://tedforalaska.com/meet-ted/"
+},
+{
+"text": "Priorities",
+"href": "https://tedforalaska.com/priorities/"
+},
+{
+"text": "Request Absentee Ballot",
+"href": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/"
+},
+{
+"text": "Update Your Registration",
+"href": "https://voterregistration.alaska.gov/"
+},
+{
+"text": "Vote",
+"href": "https://tedforalaska.com/vote/"
+},
+{
+"text": "Vote in Person",
+"href": "https://www.elections.alaska.gov/election-polls/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/tedforalaska"
+},
+{
+"text": "[image]",
+"href": "https://tedforalaska.com"
+},
+{
+"text": "ted4ak@gmail.com",
+"href": "mailto:ted4ak@gmail.com"
+}
 ]

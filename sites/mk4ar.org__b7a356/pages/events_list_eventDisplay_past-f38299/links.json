@@ -1,30 +1,218 @@
 [
-"https://maps.google.com/maps?f=q&hl=en&q=1427+Malvern+Ave+Hot+Springs+AR+71901+United+States",
-"https://maps.google.com/maps?f=q&hl=en&q=150+Ponderosa+Ln+Hot+Springs+AR+71909+United+States",
-"https://maps.google.com/maps?f=q&hl=en&q=16728+State+Hwy+155+Dardanelle+AR+72834+United+States",
-"https://maps.google.com/maps?f=q&hl=en&q=290+N+Main+St+Centerton+AR+72719+United+States",
-"https://maps.google.com/maps?f=q&hl=en&q=3201+Rogers+Ave+Fort+Smith+AR+72903+United+States",
-"https://maps.google.com/maps?f=q&hl=en&q=530+E+Knoxville+St+Greenwood+AR+72936+United+States",
-"https://maps.google.com/maps?f=q&hl=en&q=921+East+4th+St.+Stuggart+AR+United+States",
-"https://maps.google.com/maps?f=q&hl=en&q=Highway+328+West+Maynard+AR+United+States",
-"https://maps.google.com/maps?f=q&hl=en&q=Lowell+AR+United+States",
-"https://mk4ar.org/",
-"https://mk4ar.org/bio",
-"https://mk4ar.org/contact",
-"https://mk4ar.org/donate",
-"https://mk4ar.org/event/centerton-day",
-"https://mk4ar.org/event/democrats-of-arkansas-county-meet-the-candidate",
-"https://mk4ar.org/event/garland-county-candidate-forum",
-"https://mk4ar.org/event/hot-springs-meet-and-greet",
-"https://mk4ar.org/event/maynard-pioneer-days",
-"https://mk4ar.org/event/maynard-pioneer-days-2",
-"https://mk4ar.org/event/meet-greet",
-"https://mk4ar.org/event/mt-nebo-chicken-fry",
-"https://mk4ar.org/event/mudtown-days",
-"https://mk4ar.org/event/sebastian-county-fair",
-"https://mk4ar.org/events/list",
-"https://mk4ar.org/events/month",
-"https://mk4ar.org/events/today",
-"https://mk4ar.org/issues-2",
-"https://mk4ar.org/media"
+{
+"text": "#ago",
+"href": "https://mk4ar.org/events/list/"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=1427+Malvern+Ave+Hot+Springs+AR+71901+United+States"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=150+Ponderosa+Ln+Hot+Springs+AR+71909+United+States"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=1507+Fairgrounds+Dr+Mountain+Home+AR+72653+United+States"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=16728+State+Hwy+155+Dardanelle+AR+72834+United+States"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=290+N+Main+St+Centerton+AR+72719+United+States"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=530+E+Knoxville+St+Greenwood+AR+72936+United+States"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=921+East+4th+St.+Stuggart+AR+United+States"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=Highway+328+West+Maynard+AR+United+States"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=Lowell+AR+United+States"
+},
+{
+"text": "Baxter County Farm Bureau Candidate Forum",
+"href": "https://mk4ar.org/event/baxter-county-farm-bureau-candidate-forum/"
+},
+{
+"text": "Bio",
+"href": "https://mk4ar.org/bio/"
+},
+{
+"text": "Centerton Day",
+"href": "https://mk4ar.org/event/centerton-day/"
+},
+{
+"text": "Contact",
+"href": "https://mk4ar.org/contact/"
+},
+{
+"text": "Day",
+"href": "https://mk4ar.org/events/today/"
+},
+{
+"text": "Democrats of Arkansas County – Meet the Candidate",
+"href": "https://mk4ar.org/event/democrats-of-arkansas-county-meet-the-candidate/"
+},
+{
+"text": "Donate",
+"href": "https://mk4ar.org/donate/"
+},
+{
+"text": "Garland County Candidate Forum",
+"href": "https://mk4ar.org/event/garland-county-candidate-forum/"
+},
+{
+"text": "Home",
+"href": "https://mk4ar.org/"
+},
+{
+"text": "Hot Springs Meet and Greet",
+"href": "https://mk4ar.org/event/hot-springs-meet-and-greet/"
+},
+{
+"text": "Issues",
+"href": "https://mk4ar.org/issues-2/"
+},
+{
+"text": "List",
+"href": "https://mk4ar.org/events/list/"
+},
+{
+"text": "Maynard Pioneer Days",
+"href": "https://mk4ar.org/event/maynard-pioneer-days-2/"
+},
+{
+"text": "Maynard Pioneer Days",
+"href": "https://mk4ar.org/event/maynard-pioneer-days/"
+},
+{
+"text": "Media",
+"href": "https://mk4ar.org/media/"
+},
+{
+"text": "Michael Kalagias For LT Governor",
+"href": "https://mk4ar.org/"
+},
+{
+"text": "Month",
+"href": "https://mk4ar.org/events/month/"
+},
+{
+"text": "Mt Nebo Chicken Fry",
+"href": "https://mk4ar.org/event/mt-nebo-chicken-fry/"
+},
+{
+"text": "Mudtown Days",
+"href": "https://mk4ar.org/event/mudtown-days/"
+},
+{
+"text": "Next Events",
+"href": "https://mk4ar.org/events/list/"
+},
+{
+"text": "Previous Events",
+"href": "https://mk4ar.org/events/list/page/2/?eventDisplay=past"
+},
+{
+"text": "Read More",
+"href": "https://mk4ar.org/event/baxter-county-farm-bureau-candidate-forum/"
+},
+{
+"text": "Read More",
+"href": "https://mk4ar.org/event/centerton-day/"
+},
+{
+"text": "Read More",
+"href": "https://mk4ar.org/event/democrats-of-arkansas-county-meet-the-candidate/"
+},
+{
+"text": "Read More",
+"href": "https://mk4ar.org/event/garland-county-candidate-forum/"
+},
+{
+"text": "Read More",
+"href": "https://mk4ar.org/event/hot-springs-meet-and-greet/"
+},
+{
+"text": "Read More",
+"href": "https://mk4ar.org/event/maynard-pioneer-days-2/"
+},
+{
+"text": "Read More",
+"href": "https://mk4ar.org/event/maynard-pioneer-days/"
+},
+{
+"text": "Read More",
+"href": "https://mk4ar.org/event/mt-nebo-chicken-fry/"
+},
+{
+"text": "Read More",
+"href": "https://mk4ar.org/event/mudtown-days/"
+},
+{
+"text": "Read More",
+"href": "https://mk4ar.org/event/sebastian-county-fair/"
+},
+{
+"text": "Sebastian County Fair",
+"href": "https://mk4ar.org/event/sebastian-county-fair/"
+},
+{
+"text": "[no text]",
+"href": "https://mk4ar.org/event/baxter-county-farm-bureau-candidate-forum/"
+},
+{
+"text": "[no text]",
+"href": "https://mk4ar.org/event/centerton-day/"
+},
+{
+"text": "[no text]",
+"href": "https://mk4ar.org/event/democrats-of-arkansas-county-meet-the-candidate/"
+},
+{
+"text": "[no text]",
+"href": "https://mk4ar.org/event/garland-county-candidate-forum/"
+},
+{
+"text": "[no text]",
+"href": "https://mk4ar.org/event/hot-springs-meet-and-greet/"
+},
+{
+"text": "[no text]",
+"href": "https://mk4ar.org/event/maynard-pioneer-days-2/"
+},
+{
+"text": "[no text]",
+"href": "https://mk4ar.org/event/maynard-pioneer-days/"
+},
+{
+"text": "[no text]",
+"href": "https://mk4ar.org/event/mt-nebo-chicken-fry/"
+},
+{
+"text": "[no text]",
+"href": "https://mk4ar.org/event/mudtown-days/"
+},
+{
+"text": "[no text]",
+"href": "https://mk4ar.org/event/sebastian-county-fair/"
+},
+{
+"text": "[tooltip: Next Events]",
+"href": "https://mk4ar.org/events/list/"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://mk4ar.org/events/list/page/2/?eventDisplay=past"
+}
 ]

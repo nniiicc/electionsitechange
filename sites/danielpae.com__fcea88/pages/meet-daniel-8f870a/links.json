@@ -1,11 +1,46 @@
 [
-"https://danielpae.com/",
-"https://danielpae.com/cart",
-"https://danielpae.com/contact",
-"https://danielpae.com/legislation",
-"https://danielpae.com/meet-daniel",
-"https://danielpae.com/pictures",
-"https://facebook.com/RepDanielPae",
-"https://secure.winred.com/friends-of-daniel-pae-2024/donate-today",
-"https://twitter.com/Daniel_Pae"
+{
+"text": "0",
+"href": "https://www.danielpae.com/cart"
+},
+{
+"text": "405-557-7374",
+"href": "tel:405-557-7374"
+},
+{
+"text": "Contact",
+"href": "https://www.danielpae.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-daniel-pae-2024/donate-today"
+},
+{
+"text": "Legislation",
+"href": "https://www.danielpae.com/legislation"
+},
+{
+"text": "Meet Daniel",
+"href": "https://www.danielpae.com/meet-daniel"
+},
+{
+"text": "Pictures",
+"href": "https://www.danielpae.com/pictures"
+},
+{
+"text": "[image: Daniel Pae]",
+"href": "https://www.danielpae.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Daniel_Pae"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepDanielPae"
+},
+{
+"text": "daniel.pae@okhouse.gov",
+"href": "mailto:daniel.pae@okhouse.gov"
+}
 ]

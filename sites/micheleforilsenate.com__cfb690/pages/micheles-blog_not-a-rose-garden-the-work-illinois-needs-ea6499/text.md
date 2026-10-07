@@ -1,5 +1,4 @@
-Not a Rose Garden: The Work Illinois Needs
-I grew up in a family where tending a garden was part of the daily routine.
+0 Skip to Content About Michele Donate Issues Endorsements Michele's Blog Videos Contact Us Open Menu Close Menu About Michele Donate Issues Endorsements Michele's Blog Videos Contact Us Open Menu Close Menu About Michele Donate Issues Endorsements Michele's Blog Videos Contact Us Not a Rose Garden: The Work Illinois Needs May 1 Written By Michele Clark I grew up in a family where tending a garden was part of the daily routine.
 I suppose it was only natural because both of my parents grew up on farms.
 Anyone related to a farmer knows that once a farmer, always a farmer…even if you live in the suburbs.
 Tilling, planting, weeding, watering, and at last, harvesting, is a sacred annual ritual that satisfies the body and soul.
@@ -31,3 +30,6 @@ I am the candidate who has faith that Illinois can succeed at improving our stat
 The real work that needs to be done in Springfield is not that of a rose garden.
 It is that of a prairie which at first glance is not as beautiful, but is rich in purpose.
 My commitment is to a future where we cultivate economic prosperity while restoring the natural foundation that makes Illinois great, because the health of our land and the prosperity of our people are inextricably linked.
+Michele Clark Next Next A Letter From Michele… Michele For IL Senate Website paid by: Friends of Michele Clark Mailing Address 801 W.
+Algonquin Rd.
+#7203 Algonquin, IL 60102 Contact info@friendsofmicheleclark.com

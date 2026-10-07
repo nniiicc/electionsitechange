@@ -1,18 +1,12 @@
-SCOTT HERNDON FOR IDAHO SENATE.
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page SCOTT HERNDON FOR IDAHO SENATE.
 A PROVEN CONSERVATIVE.
 MAY 19th IS THE ELECTION.
-THE GENERAL ELECTION IS TUESDAY, NOVEMBER 3, 2026.
+Donate Today Join The Movement!
+Volunteer THE GENERAL ELECTION IS TUESDAY, NOVEMBER 3, 2026.
 WE NEED YOU.
-Day(s)
-:
-Hour(s)
-:
-Minute(s)
-:
-Second(s)
-A Vote for Scott Herndon is a Vote FOR...
-Here are Scott’s Top Policy Priorities:
-1.
+Day(s) : Hour(s) : Minute(s) : Second(s) A Vote for Scott Herndon is a Vote FOR...
+Here are Scott’s Top Policy Priorities: 1.
 END ALL PROPERTY TAXES.
 While other candidates talk about how government needs your income, sales and property taxes, Scott Herndon knows from his time on the Finance committee in the Idaho senate that property taxes can be absolutely abolished so that you can finally enjoy your own home and property without the threat of government seizing it one day because you failed to pay your local tax.
 It is possible to eliminate all property taxes in Idaho without raising any other taxes.
@@ -52,8 +46,7 @@ Yet, Bonner and Boundary county’s major roads and bridges have changed little 
 Projected traffic growth is phenomenal over the next 20 years.
 We must develop the safety and efficiency of our highways.
 Your safety and your prosperity absolutely depend on it.
-Scott Herndon's Senate Record
-Scott Herndon doesn’t just have goals.
+Scott Herndon's Senate Record Scott Herndon doesn’t just have goals.
 He has a proven record of success in the Idaho senate fighting for Idahoans.
 1.
 REDUCED PROPERTY TAXES.
@@ -94,18 +87,15 @@ Access to public waters and lands are being lost to developers and to practices 
 Scott Herndon sponsored a bill that passed the senate and will preserve existing access roads to public lands and waters.
 The bill was blocked in the House, and there is more work to do.
 Send Scott Herndon back to the legislature to fight for this important bill!
-Scott Herndon also:
-- Supported hundreds of $millions in infrastructure for roads and bridges.
-- Helped to defund DEI in Idaho’s universities.
-- Passed bills that improved election integrity.
-- Stopped illegal immigrants from getting Idaho driver licenses.
-- Is trying to pass a constitutional amendment to protect homeschool and private school freedom from unwarranted government regulation.
-- Helped stop government mandated vaccines and increased disclosures of Idaho’s vaccine exemptions.
-- Helped improve public education and supported school choice.
+Scott Herndon also: Supported hundreds of $millions in infrastructure for roads and bridges.
+Helped to defund DEI in Idaho’s universities.
+Passed bills that improved election integrity.
+Stopped illegal immigrants from getting Idaho driver licenses.
+Is trying to pass a constitutional amendment to protect homeschool and private school freedom from unwarranted government regulation.
+Helped stop government mandated vaccines and increased disclosures of Idaho’s vaccine exemptions.
+Helped improve public education and supported school choice.
 For more details on Scott’s senate record, click the button below!
-My #1 Priority
-No Idahoan Should Ever Lose Their Home to a Tax
-As long as the property tax exists, no one in Idaho truly owns their home.
+Scott Herndon's Senate Record My #1 Priority No Idahoan Should Ever Lose Their Home to a Tax As long as the property tax exists, no one in Idaho truly owns their home.
 You rent it from the government, and the year you cannot pay, they can place a lien on it and take it.
 A tax that can seize a paid-off home is at odds with the right to own property itself, and ending it is my number one priority.
 The property tax has almost nothing to do with your ability to pay.
@@ -128,11 +118,8 @@ That is the model, scaled up and paced so that no community is ever left short.
 No Idahoan should ever lose their home to a tax.
 The math works.
 We just need the discipline to advance the line.
-Read the Full Plan →
-Scott Herndon on Idaho's Senate Finance Committee (JFAC), where he helped pass $328 million in ongoing property-tax relief.
-The Plan to End the Property Tax
-Your Questions, Answered
-These are the fair, serious questions I hear most, from homeowners, from council members, from skeptics.
+Read the Full Plan → Scott Herndon on Idaho's Senate Finance Committee (JFAC), where he helped pass $328 million in ongoing property-tax relief.
+The Plan to End the Property Tax Your Questions, Answered These are the fair, serious questions I hear most, from homeowners, from council members, from skeptics.
 They deserve straight answers, so here they are.
 Will you just have to raise another tax to replace it?
 No.
@@ -167,11 +154,11 @@ Isn't this like school funding, where the state pays part and you levy for the r
 No.
 Schools are partly funded and then forced to run levies for the gap.
 This does the opposite: it replaces the local property-tax stream in full and grows it on the formula, so there is no gap left to levy for.
-And here is the clean part: with the property tax gone, there are no property-tax levies to enforce and no lien on your home, because the tax that creates that lien no longer exists.
+And here is the clean part: with the property tax gone, there are no property-tax levies to enforce and no lien on your home , because the tax that creates that lien no longer exists.
 What if a city genuinely needs to spend more down the road?
 Then it asks its own voters.
 New local spending above the formula would run through a local-option sales tax, approved by the city's own citizens with a 60 percent supermajority, restricted to its stated purpose, with an automatic sunset.
-That is consent at the ballot box instead of an automatic escalator on your home, and it is not a lien on anyone's property.
+That is consent at the ballot box instead of an automatic escalator on your home , and it is not a lien on anyone's property.
 Nobody ever loses a home over a sales tax.
 You oppose federal overreach into the states.
 Isn't this state overreach into local government?
@@ -187,12 +174,11 @@ Outright tax-deed seizures are relatively rare in any given year, and the case a
 It rests on two things families feel every year: the standing power of a government to place a lien and take a paid-off home the year you cannot pay, and the quieter losses that never show up in a statistic, the retiree on a fixed income who sells and leaves because the bill tripled, the young family priced out by the carrying cost.
 A right to property that disappears the year you fall behind is not really ownership.
 Even one home lost this way is one too many.
-Meet Scott
-Scott Herndon was born in Richmond, Virginia in 1967.
+Read the Full Plan → Meet Scott Scott Herndon was born in Richmond, Virginia in 1967.
 His family lineage in America dates to 1673, when William Herndon came from Kent, England to the Virginia Colony and settled in New Kent County, Virginia.
 He attended Missouri Military Academy, where discipline and duty were forged into his character.
 He earned a B.S. in Finance from Arizona State University and built a career in finance and computer programming before teaching himself custom homebuilding — the trade he has practiced for two decades in Bonner County.
-Scott and his wife Arlene moved to Sagle, Idaho in 2004 — more than 22 years ago.
+Scott and his wife Arlene moved to Sagle, Idaho in 2004 — more than #ago.
 They were drawn to the same things that draw every conservative to north Idaho: the mountains, the freedom, the community, the values.
 Together they have raised eight children on their family farm, where they keep milk cows, chickens, and pigs.
 Their five daughters still live on the farm, and they perform music at the Sandpoint Farmer’s Market, the Bonner County Fair, and the Bonners Ferry Community Orchestra.
@@ -209,3 +195,20 @@ In May 2026, Scott ran again and won the Republican primary, 8,155 votes to 7,07
 He earned the nomination to represent District 1 in the Idaho Senate.
 Now he is on the ballot for the November 3, 2026 general election, carrying the same fight he always has: lower taxes, smaller government, and constitutional liberty.
 Because that is not something you walk away from.
+Senator Scott Herndon in the News Defending the National Guard and Defeating Monsanto Sernator Herndon supports legislation to prohibit the deployment of the Idaho National Guard into combat for the United States without a declaration of war by the United States Congress.
+Also, Bayer/Monsanto wants to deny Idahoans’ ability to sue for harm caused by Round-Up; Senator Herndon leads the charge to fight for the right of citizens to go toe to toe with Big Corporations in court.
+Read the Story Bill to protect public land, water access clears Senate panel If a public right-of-way provides access to state lands or waters, Senate Bill 1258 would require counties and highway districts to obtain equivalent replacement access for the public before deciding to vacate it.
+“Before abandonment, we are asking our local governments to provide a replacement,” bill sponsor Sen.
+Scott Herndon, R-Sagle, explained to the Senate Transportation Committee.
+Read the Story Senate passes bill to shorten library district trustee terms On Tuesday, the Idaho Senate passed SB 1235 from Sen.
+Scott Herndon, R-Sagle, that would cut Idaho’s library trustee terms from six years down to four.
+The bill would keep the elections on odd years and all trustees elected in 2023 would keep their terms, but it would shift the board’s to a staggered schedule of shorter terms.
+It would not impact trustees for city library systems, which are appointed by mayors.
+Read the Story Constitutional amendment proposed to confirm right to privately educate children, 'free from government regulation' Sen.
+Scott Herndon, R-Sagle, proposed a resolution that would ask voters to change the “compulsory attendance at schools” section of the Idaho constitution to say that custodial parents or guardians of any child, “shall have the fundamental right to privately home educate such child or to cause such child to be privately educated.” It would also add that those who privately educate or homeschool their children, “shall be free from government regulation of such education.” Read the Story Idaho Gov.
+Brad Little says JFAC’s budget changes could have unintended consequences In an interview Tuesday at the Idaho State Capitol, Sen.
+Scott Herndon, R-Sagle, said he joins many of his constituents and fellow Freedom Caucus members in the Idaho Legislature in supporting JFAC’s changes.
+Citing a presentation from Legislative Services Office budget and policy division manager Keith Bybee, Herndon told the Sun that JFAC only used to analyze about 19% of state spending.
+Meanwhile, Herndon said government spending grew by 54% between 2020 and 2024.
+Read the Story A Proven, Conservative Senator Idaho Freedom Foundation Ratings – Freedom 94.8% Institute for Legislative Analysis – Limited Government 97.94% Conservative Political Action Conference – 100% From the Desk of Scott Herndon Breaking News SCOTT HERNDON ANNOUNCES BID FOR IDAHO STATE SENATE DISTRICT 1 Scott Herndon – August 26, 2025 Breaking News Idaho Money Policy Analysis Conservative Budget Victory This Week Scott Herndon – February 12, 2024 Herndon's Editorial Idaho Money Policy Analysis How the Idaho Legislature Spends Your Money Scott Herndon – October 26, 2023 Breaking News Legislative News Policy Analysis National News narrative and the 2nd amendment Scott Herndon – September 21, 2023 Breaking News Legislative News Policy Analysis Idaho Health and Welfare Breaks the Law Scott Herndon – September 6, 2023 Breaking News Legislative News Policy Analysis Herndon Delivers Property Tax Relief Scott Herndon – September 6, 2023 Breaking News Legislative News Policy Analysis Scott Herndon fights for the 2nd Amendment Scott Herndon – June 22, 2023 Legislative News Policy Analysis Successes and Failures of the 2023 Idaho Legislative Session Scott Herndon – April 16, 2023 Legislative News Policy Analysis Protecting Children from Radical LGBTQ Agenda Scott Herndon – April 4, 2023 Legislative News Policy Analysis Idaho Senate Delivers Property Tax Relief Scott Herndon – April 3, 2023 News and Articles Page Endorsements Scott Herndon on the Senate Floor Facebook Twitter Tweets by @HerndonforIdaho Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

@@ -1,7 +1,9 @@
-Thompson, Steube, Vargas, Bergman Introduce Bill Extending Benefits for Military Survivors June 26, 2026 Washington, D.C. – Today, Rep.
+Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources News Thompson, Steube, Vargas, Bergman Introduce Bill Extending Benefits for Military Survivors June 26, 2026 Washington, D.C. – Today, Rep.
 Mike Thompson (CA-04) introduced the Granting Rollover Access and Contribution Extensions (GRACE) for Military Survivors Act, legislation to extend the time period in which surviving family members of a military service member can make important financial decisions about their survivor benefits Read more Thompson Applauds Passage of Landmark Housing Bill, Urges President to Sign it into Law Thompson voted "yes" on the historic bipartisan bill to expand housing across the U.S.
 June 24, 2026 Washington, D.C. -- Rep.
-Mike Thompson (CA-04) voted “yes” to pass the 21st Century ROAD to Housing Act (H.R. 6644), a landmark bill that that will help increase the supply of affordable housing, streamline the process of building more homes, and modernize outdated programs to help create more pathways to homeownership and bring much-needed relief to renters.
+Mike Thompson (CA-04) voted “yes” to pass the 21st Century ROAD to Housing Act (H.R.
+6644), a landmark bill that that will help increase the supply of affordable housing, streamline the process of building more homes, and modernize outdated programs to help create more pathways to homeownership and bring much-needed relief to renters.
 Read more ADVISORY: Press Conference Marking 4 Years of Bipartisan Safer Communities Act, Ongoing Fight to Protect Gun Violence Prevention Progress June 24, 2026 Washington, D.C. – On Thursday, June 25th at 10am ET, Gun Violence Prevention Task Force Chairman Mike Thompson (CA-04), Democratic Caucus Whip Katherine Clark, Rep.
 Lucy McBath (GA-06), Rep.
 Robin Kelly (IL-02) and colleagues will hold a press conference at the House Triangle.
@@ -38,7 +40,8 @@ Thompson and Democratic Caucus Chair Aguilar to Host Student Town Hall At UC Dav
 Mike Thompson (CA-04) and Democratic Caucus Chair Pete Aguilar (CA-33) will hold a town hall for students on campus at UC Davis from 2:30 pm – 4:00 pm.
 Read more TONIGHT: Thompson to Co-Host Latino Community Town Hall with Concilio of Yolo County and Winters Community Corazón May 26, 2026 Woodland, CA – Today, Tuesday, May 26, Rep.
 Mike Thompson (CA-04) will host a town hall at Woodland Community College (2300 E.
-Gibson Road, community Center BLDG. 800) in Woodland from 5:30 pm – 7:00 pm.
+Gibson Road, community Center BLDG.
+800) in Woodland from 5:30 pm – 7:00 pm.
 Read more Thompson, Ways & Means Democrats Introduce Bill to Tax President’s Corrupt Slush Fund for January 6 Rioters May 19, 2026 Washington, D.C. – Today, Rep.
 Mike Thompson (CA-04), Ranking Member of the House Ways and Means Subcommittee on Tax, announced legislation to prevent a sitting president from profiting from lawsuits against the United States government.
 Read more Thompson, Kiley, Miller Introduce Tripartisan Resolution Designating May 17th as Necrotizing Enterocolitis Awareness Day May 15, 2026 Washington – Today, Reps.
@@ -48,4 +51,4 @@ Mike Thompson (CA-04) presented a $250,000 check to the Sonoma County Community 
 Read more Thompson Secures Additional $1 Million in Federal Funding for California's Fourth District, Brings Total to $14.3 Million May 5, 2026 Solano County, CA – Today, Rep.
 Mike Thompson (CA-04) announced that he’s secured $1,034,487 to build a new fire station and emergency operations center in Rio Vista.
 Read more HABEMATOLEL POMO OF UPPER LAKE TRIBE, CONGRESSMAN THOMPSON SECURE $3.15 MILLION FOR COMMUNITY CENTER PROJECT May 4, 2026 Upper Lake, CA - The Habematolel Pomo of Upper Lake Tribe announced today that Congressman Mike Thompson (CA-04) secured $3,150,000 for the Tribe’s Community Center Project through the Department of Housing and Urban Development as part of the Consolidated Appropriations Act of 2026.
-Read more Pagination First page « First Previous page ‹ Previous Page 1 Page 2 Current page 3 Page 4 Page 5 Page 6 Page 7 Page 8 Page 9 … Next page Next › Last page Last »
+Read more Pagination First page « First Previous page ‹ Previous Page 1 Page 2 Current page 3 Page 4 Page 5 Page 6 Page 7 Page 8 Page 9 … Next page Next › Last page Last » Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

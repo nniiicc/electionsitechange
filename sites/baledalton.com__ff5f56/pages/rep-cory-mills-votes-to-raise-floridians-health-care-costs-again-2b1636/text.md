@@ -1,14 +1,12 @@
-Sanford, FL – Today, the House of Representatives passed a bipartisan measure to lower the cost of health insurance premiums on the Affordable Care Act (ACA) marketplace.
+Skip to content The Latest Priorities Anti-Corruption Plan Endorsements Get Involved Volunteer Upcoming Events Media Yard Signs The Latest Priorities Anti-Corruption Plan Endorsements Get Involved Volunteer Upcoming Events Media Yard Signs Facebook X-twitter Instagram Youtube DONATE January 8, 2026 Press Release Rep.
+Cory Mills Votes to Raise Floridians’ Health Care Costs — Again Sanford, FL – Today, the House of Representatives passed a bipartisan measure to lower the cost of health insurance premiums on the Affordable Care Act (ACA) marketplace.
 Rep.
 Cory Mills voted against the measure, even though 114,000 of his constituents rely on the ACA marketplace for coverage.
-Without action to lower health care costs, Florida families will pay thousands more every year, with premiums set to rise by an average of 81%.This vote follows a familiar pattern for Congressman Mills.
+Without action to lower health care costs, Florida families will pay thousands more every year, with premiums set to rise by an average of 81% .This vote follows a familiar pattern for Congressman Mills.
 This year alone, he has voted to strip Medicaid from thousands of his constituents, drain funding from rural hospitals, and nearly double ACA premium prices – to pay for tax handouts for billionaires.
-Bale Dalton, who is running for Congress in FL-07 said:
-“Today, Congressman Cory Mills once again voted to make life harder and more expensive for Floridians, by increasing the cost of health insurance.
+Bale Dalton, who is running for Congress in FL-07 said: “Today, Congressman Cory Mills once again voted to make life harder and more expensive for Floridians, by increasing the cost of health insurance.
 Just like he voted to cut Medicaid and strip funding from rural hospitals – to pay for tax giveaways for billionaires.
-Central Florida deserves so much better than Congressman Cory Mills, and we won’t forget it in November.”
-ABOUT BALE DALTON:
-Bale Dalton is a decorated Navy Captain and former Chief of Staff at NASA who has always answered the call to serve America.
+Central Florida deserves so much better than Congressman Cory Mills, and we won’t forget it in November.” ABOUT BALE DALTON: Bale Dalton is a decorated Navy Captain and former Chief of Staff at NASA who has always answered the call to serve America.
 One of four raised in a hardworking Central Florida family, Bale graduated at the top of his class and was selected to attend the U.S.
 Naval Academy.
 He served in the U.S.
@@ -23,5 +21,10 @@ He is currently under investigation for ethics violations related to profiting f
 Allegations have been raised about the veracity of Mills’ claims regarding his military service.
 Cory Mills has shown repeatedly that he will always look out for his own interests at the expense of helping the Floridians he claims to represent.
 Florida’s 7th Congressional District includes all of Seminole County and the southern half of Volusia County.
-You can learn more about Bale by visiting his website at baledalton.com, following him on X, Facebook, or Instagram, or watching his campaign announcement video here.
-###
+You can learn more about Bale by visiting his website at baledalton.com , following him on X , Facebook , or Instagram , or watching his campaign announcement video here .
+### Share: Get INvolved Join The Team First Name Last Name Email Zip Code Cell Phone Get Involved or Chip in $25 Bale Dalton is running for Congress because, after 24 years serving his country, he believes Florida deserves leaders who put people ahead of politics and deliver results for families here at home.
+Support his campaign by making a donation .
+Reach out to his campaign by emailing [email protected] Facebook X-twitter Instagram Youtube Contributions can be mailed to: Dalton for Florida PO Box 1027 Sanford, FL 32772 Media Paid for by Dalton for Florida Bale Dalton is a former member of the United States Navy and current member of the United States Navy Reserve.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or Department of Defense. © Copyright #.
+All Rights Reserved.
+Privacy Policy.

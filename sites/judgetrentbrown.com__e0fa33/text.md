@@ -1,10 +1,6 @@
-BE FAIR,
-BE CONSISTENT,
-AND BE RIGHT
-Stay up to date with Judge Brown
-Judge Trent Brown Updates
-ABOUT JUDGE TRENT BROWN
-Judge Trent Brown has been on the Court of Appeals for 8 years.
+BE FAIR, BE CONSISTENT, AND BE RIGHT DONATE Stay up to date with Judge Brown Judge Trent Brown Updates Name: Email: Thank you for your support!
+Oops, there was an error sending your message.
+Please try again later ABOUT JUDGE TRENT BROWN Judge Trent Brown has been on the Court of Appeals for 8 years.
 He was appointed and sworn in by Governor Nathan Deal as the 85th judge of the Court of Appeals of Georgia on May 16, 2018.
 He currently serves as Chief Judge of the Court after a unanimous vote by his colleagues.
 Judge Brown previously served as a Superior Court Judge within the Ocmulgee Judicial Circuit of eight counties (Baldwin, Greene, Hancock, Jasper, Jones, Morgan, Putnam, and Wilkinson) upon appointment by Governor Deal in 2012 and running unopposed in 2014 and 2018.
@@ -23,6 +19,7 @@ Judge Brown was awarded the Robert S.
 Stubbs II Guardian of Ethics Award for 2018-2019 by the Rotary Club of Greene and Putnam Counties.
 He continues to live in Putnam County with his wife, Jill, a teacher, and their two children.
 “As a Judge on the Court of Appeals for the last 8 years and as a trial judge for 10 years before that, I have dedicated my career to public service.
-It has always been my goal to be fair, be consistent, and be right.
+It has always been my goal to be fair, be consistent, and be right .
 I have continued serving the people of Georgia with these values on our Court of Appeals because partisan politics have no place in our courts.
-We need judges focused on doing what is right under the law, and that is what I will continue to do with your support.”
+We need judges focused on doing what is right under the law, and that is what I will continue to do with your support . ” PAID FOR BY COMMITTEE FOR JUDGE TRENT BROWN INC.
+PO Box 3085 Eatonton, GA 31024 Share by:

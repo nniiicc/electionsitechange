@@ -1,14 +1,58 @@
 [
-"https://aaronforpueblo.com/",
-"https://aaronforpueblo.com/accessibility-statement",
-"https://aaronforpueblo.com/mediakit",
-"https://aaronforpueblo.com/privacy-policy",
-"https://aaronforpueblo.com/terms-and-conditions",
-"https://docs.google.com/forms/d/e/1FAIpQLSfovAul-B8TVr_ajjPcabq94NRkMH3S23DWKRGyh-VlwZz-dw/viewform?usp=sharing&ouid=116038317930822262900",
-"https://facebook.com/AaronForPueblo",
-"https://forms.gle/WpoXrDDqEPBrNHHEA",
-"https://forms.gle/jqp5zAkvXpfNqAih8",
-"https://instagram.com/aaron4pueblo",
-"https://secure.actblue.com/donate/aaronforpueblo",
-"https://tiktok.com/@aaron.for.pueblo"
+{
+"text": "ABOUT",
+"href": "https://www.aaronforpueblo.com"
+},
+{
+"text": "CCESSIBILITY STATEMENT",
+"href": "https://www.aaronforpueblo.com/accessibility-statement"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/aaronforpueblo"
+},
+{
+"text": "ENDORSE",
+"href": "https://forms.gle/WpoXrDDqEPBrNHHEA"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/AaronForPueblo/"
+},
+{
+"text": "FIELD TEAMS APP",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfovAul-B8TVr_ajjPcabq94NRkMH3S23DWKRGyh-VlwZz-dw/viewform?usp=sharing&ouid=116038317930822262900"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://www.instagram.com/aaron4pueblo/"
+},
+{
+"text": "MEDIA KIT",
+"href": "https://www.aaronforpueblo.com/mediakit"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.aaronforpueblo.com/privacy-policy"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.aaronforpueblo.com/terms-and-conditions"
+},
+{
+"text": "TIKTOK",
+"href": "https://www.tiktok.com/@aaron.for.pueblo"
+},
+{
+"text": "VISION",
+"href": "https://www.aaronforpueblo.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://forms.gle/jqp5zAkvXpfNqAih8"
+},
+{
+"text": "info@aaronforpueblo.com",
+"href": "mailto:info@aaronforpueblo.com"
+}
 ]

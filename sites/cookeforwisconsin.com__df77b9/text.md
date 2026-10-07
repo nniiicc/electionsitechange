@@ -1,13 +1,14 @@
-Donate Today
-Every contribution helps us reach more voters, organize in communities across the district, and fight for lower costs and greater opportunity.
-Chip in today to help build a stronger future for Wisconsin.
-- If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Rebecca Cooke is a waitress, small business owner and results-driven nonprofit leader who grew up on a sixth-generation Wisconsin dairy farm.
+About Rebecca Meet Rebecca Priorities Endorsements Press Join the Movement Join a Coalition Volunteer Get a Yard Sign Buy Merch Contact Connect With the Campaign Media Toolkit Donate About Rebecca Meet Rebecca Priorities Endorsements Press Join the Movement Join a Coalition Volunteer Get a Yard Sign Buy Merch Contact Connect With the Campaign Media Toolkit Donate Building opportunities for working class Wisconsinites.
+Donate Today Every contribution helps us reach more voters, organize in communities across the district, and fight for lower costs and greater opportunity.
+Chip in today to help build a stronger future for Wisconsin. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Watch "This Waitress..." Rooted in Wisconsin Values Rebecca Cooke is a waitress, small business owner and results-driven nonprofit leader who grew up on a sixth-generation Wisconsin dairy farm.
 Rebecca comes from a long line of family farmers and veterans who have served Wisconsin since 1856.
 After working her way through college, she worked on campaigns to elect pragmatic leaders to office.
 In 2014, she moved back home to Eau Claire to start her own small business and work closer to family.
 Rebecca started a nonprofit organization that has helped over 70 small businesses create local jobs and she served on the Wisconsin Economic Development Corporation board, aiding in the success of rural businesses.
 Rebecca is running for Congress to lower costs, expand economic opportunities for working people and retirees, especially in rural areas, and bring practical working class perspectives to Washington.
-September 13, 2026
-September 12, 2026
-September 9, 2026
+Meet Rebecca Watch "This Waitress..." Rebecca’s Priorities: Lower Costs Combat Corruption Bolster Agriculture Support Small Business Rebuild our American Dream View All Priorities Our rural communities face unique challenges, and it’s clear that Washington isn’t working for us, and Derrick Van Orden is part of the problem.
+I’m running for Congress to better serve communities across Wisconsin, provide more opportunities for success, and be a relentless fighter for our way of life. — Rebecca Cooke The Latest The Bulwark Bernie Dogs Could Teach Democrats a New Trick September 13, 2026 Read More The Associated Press Trump ally in Wisconsin sticks close to the president as Democrats push to flip swing district September 12, 2026 Read More WEAU Cooke and Baldwin talk tariffs and rising costs in La Crosse roundtable September 9, 2026 Read More View All Press Our campaign is 100% people powered.
+Join us to keep building the movement.
+Media Toolkit Privacy Policy PO Box 1846, Eau Claire, WI 54702 Paid for by Cooke for Congress Branding and photography by Knorth Studios Website design and development by Andrew Tarcon Chip in today: $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Continue to Site

@@ -1,14 +1,23 @@
-Skip navigation menu
-THE LATEST NEWS
-EMILYs List Endorses Lateefah Simon for Election to California’s 12th Congressional District
-Lateefah Simon is the first non-incumbent candidate to be endorsed by EMILYs List for the 2024 cycle.
+Skip navigation menu MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE THE LATEST NEWS MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE THE LATEST NEWS NEWS ARTICLE Rep.
+Simon Announces $850K For Plaza Next To Ashby Bart NEWS ARTICLE Lighting upgrades coming to East Bay BART stations NEWS ARTICLE Oakland's Rep.
+Simon demands answers from Labor Department NEWS ARTICLE Lawmakers Push Back Against Trump Coal Terminal Plans in West Oakland NEWS ARTICLE Congresswoman Lateefah Simon Rejects the Coal Terminal in Oakland NEWS ARTICLE Rep.
+Simon, UCSF announce $1 million in federal funds for cancer research center NEWS ARTICLE Oakland secures $1M in federal funding for Ceasefire NEWS ARTICLE San Leandro shoreline project receives $1.09 million in federal funding NEWS ARTICLE Voting rights ruling is a 'devastating' and personal blow, Rep.
+Simon, Mayor Lee say NEWS ARTICLE Berkeley, Albany split $500,000 in federal funding for fire training NEWS ARTICLE Oakland Rep.
+Lateefah Simon promotes bill to give cities chance to keep sports teams NEWS ARTICLE At the Young Women's Freedom Center, Sisters Are Doing It for Themselves NEWS ARTICLE New shoreline park to bring nature, 'justice' to East Oakland residents NEWS ARTICLE Bay Area lawmakers rebuke Trump over Iran strikes, war authority NEWS ARTICLE Rep.
+Simon introduces a bill to nationalize BART’s ambassador program NEWS ARTICLE Bay Area House Democrats claim victory as White House reverses $1.9 billion cut in health funding NEWS ARTICLE This Disability Education Law Just Turned 50.
+Disability Advocates Want More.
+NEWS ARTICLE East Bay leaders call for federal government shutdown to end NEWS ARTICLE Oakland turns out for ‘No Kings’ protest against Trump News ARTICLE Bay Area training provides ‘concrete skills’ to defy Trump on deportations, troops NEWS ARTICLE East Bay Rep.
+Lateefah Simon meets with Bay Area workers impacted by government shutdown NEWS ARTICLE House Dems Blast Labor Department for Abandoning Disabled Workers nEWS ARTICLE Congresswoman Simon Visits Port of Oakland, Convenes Roundtable on Tariffs NEWS ARTICLE WATCH: Rep.
+Lateefah Simon speaks at “No Kings” protest in Oakland NEWS ARTICLE ‘Cruel, Ugly, Nasty, Immoral’: Democrats Slam Mega-Bill Ahead of House Vote NEWS ARTICLE Congresswoman Lateefah Simon Hosts Fiery Town Hall at Emeryville Senior Center NEWS ARTICLE Oakland congresswoman is on a mission to save BART, mass transit MEDIA Rep.
+Lateefah Simon Rebukes Trump in Fiery Speech, Calls for Bold Progressive Action NEWS ARTICLE The Democratic Leader You Did Not Know We Had NEWS ARTICLE Rep.
+Lateefah Simon to Deliver WFP Response to Trump’s Address to Congress NEWS ARTICLE Oakland’s new representative in Congress is adjusting to a new normal: Absolute chaos NEWS ARTICLE SF Chronicle Endorsement: The obvious choice to replace Barbara Lee in Congress is also the best one PRESS RELEASE Congresswoman Barbara Lee Endorses Lateefah Simon to Succeed her in California’s 12th Congressional NEWS ARTICLE East Bay Times Editorial: Elect Lateefah Simon for Barbara Lee’s East Bay congressional seat NEWS ARTICLE Bay Area Reporter Editorial: Simon, Low for Congress PRESS RELEASE Governor Gavin Newsom Throws Support Behind Lateefah Simon’s Bid for Congress NEWS ARTICLE KCBS: BART Director Lateefah Simon just launched her campaign for Congress NEWS ARTICLE After Decades Uplifting Community Voices, This Bay Area Advocate Wants To Represent Them In Congress PRESS RELEASE EMILYs List Endorses Lateefah Simon for Election to California’s 12th Congressional District PRESS RELEASE Building and Construction Trades Council of Alameda County Endorses Lateefah Simon for Congress NEWS ARTICLE Lateefah Simon on Her Work with Kamala Harris and Run for Congress PRESS RELEASE Lateefah Simon Raises over $300,000 in First Month of Congressional Campaign PRESS RELEASE Lateefah Simon Announces Over 40 Endorsements from Current and Former Elected Leaders PRESS RELEASE Lateefah Simon Announces First Major Labor Endorsement: National Union of Healthcare Workers NEWS ARTICLE KQED Newsroom: U.S.
+Rep.
+Barbara Lee | Lateefah Simon PRESS RELEASE Lateefah Simon Raises over $140,000 in First 24 Hours of Congressional Campaign NEWS ARTICLE BART Director, Criminal Justice Reformer Lateefah Simon Launches Campaign for East Bay House Seat May 4 2023 PRESS RELEASE EMILYs List Endorses Lateefah Simon for Election to California’s 12th Congressional District Lateefah Simon is the first non-incumbent candidate to be endorsed by EMILYs List for the 2024 cycle.
 OAKLAND, CA - Today EMILYs List, the nation’s largest resource for women in politics, endorsed Lateefah Simon for election to California’s 12th Congressional District.
 Lateefah Simon is the first non-incumbent candidate to be endorsed by EMILYs List for the 2024 cycle.
-EMILYs List President Laphonza Butler released the following statement:
-“Lateefah Simon has spent her life and career fighting for underrepresented Americans to have a voice in government and society, and we know she is committed to continuing to do so as representative for California’s 12th Congressional District.
+EMILYs List President Laphonza Butler released the following statement: “Lateefah Simon has spent her life and career fighting for underrepresented Americans to have a voice in government and society, and we know she is committed to continuing to do so as representative for California’s 12th Congressional District.
 Whether as organizer, an activist, or a community leader, Simon has been a champion for civil rights and for the women, families, and youth of California.
-EMILYs List is proud to endorse this pro-choice champion for election, and we have full confidence in her ability to stand up to extremism and work to protect our democracy in Washington.”
-Lateefah Simon is a civil rights advocate, veteran organizer, and nonprofit professional who currently serves as a member of the Bay Area Rapid Transit Board of Directors and the president of MeadowFund.
+EMILYs List is proud to endorse this pro-choice champion for election, and we have full confidence in her ability to stand up to extremism and work to protect our democracy in Washington.” Lateefah Simon is a civil rights advocate, veteran organizer, and nonprofit professional who currently serves as a member of the Bay Area Rapid Transit Board of Directors and the president of MeadowFund.
 Previously Simon served as the president of the racial justice organization the Akonadi Foundation, where she worked to support youth of color in the Oakland, California area.
 Simon first began her career in advocacy at age 16 with the Young Women’s Freedom Center.
 By age 26, she became the youngest woman ever to receive a MacArthur “Genius” Fellowship.
@@ -19,9 +28,9 @@ EMILYs List, the nation’s largest resource for women in politics, works to ele
 Our work is centered around a fundamental vision: Run.
 Win.
 Change the World.
+EMILYs List has raised $850 million in service to that vision and has helped Democratic women win competitive elections by recruiting and training candidates, supporting and helping build strong campaigns, researching the issues that impact women and families, running one of the largest independent expenditure operations for Democrats, and turning out women voters to the polls.
 Since our founding in 1985, we have helped elect the country’s first woman as vice president, 175 women to the House, 26 to the Senate, 20 governors, and over 1,500 women to state and local office.
 More than 40% of the candidates EMILYs List has helped elect to Congress have been women of color.
 Visit www.emilyslist.org for more information.
-Future updates about Lateefah’s campaign will be available at LateefahSimon.com.
-California’s 12th Congressional District is home to over 750,000 people across Alameda County, and includes Alameda, Albany, Berkeley, Emeryville, Oakland, Piedmont, and San Leandro.
-PRESS RELEASE
+Future updates about Lateefah’s campaign will be available at LateefahSimon.com .
+California’s 12th Congressional District is home to over 750,000 people across Alameda County, and includes Alameda, Albany, Berkeley, Emeryville, Oakland, Piedmont, and San Leandro. info@LateefahSimon.com Lateefah for Congress 1714 Franklin St #100 - 438 Oakland, CA 94612 Privacy Policy Powered by RUN! website builder Paid for by Lateefah for Congress You need to enable JavaScript to run this app.

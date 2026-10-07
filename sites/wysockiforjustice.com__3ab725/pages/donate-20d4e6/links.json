@@ -1,6 +1,22 @@
 [
-"https://wysockiforjustice.com/",
-"https://wysockiforjustice.com/about",
-"https://wysockiforjustice.com/donate",
-"https://wysockiforjustice.com/yard-sign"
+{
+"text": "About",
+"href": "https://wysockiforjustice.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://wysockiforjustice.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://wysockiforjustice.com/"
+},
+{
+"text": "Yard Sign",
+"href": "https://wysockiforjustice.com/yard-sign/"
+},
+{
+"text": "[image: Judge Ashley Wysocki Logo VOTE]",
+"href": "https://wysockiforjustice.com/"
+}
 ]

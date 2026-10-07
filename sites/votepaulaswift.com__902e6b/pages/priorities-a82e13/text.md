@@ -1,28 +1,15 @@
-Safe & Thriving Communities
-Invest in community resources, mental health services, and local partnerships that foster safety, stability, and opportunity.
-Skip navigation menu
-Paula's Priorities
-Fighting for Real Solutions
-My campaign is rooted in a simple belief: state government should work for every Californian, not only those with influence or access.
+Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Paula's Priorities Fighting for Real Solutions My campaign is rooted in a simple belief: state government should work for every Californian, not only those with influence or access.
 I will focus on practical solutions that improve daily life, strengthen our communities, and make Orange County more affordable.
-Safe & Thriving Communities
-Invest in community resources, mental health services, and local partnerships that foster safety, stability, and opportunity.
-Affordable & Accessible Health Care
-Protect reproductive freedom, expand preventive and mental health services, and strengthen access to care for every Californian, regardless of income or zip code.
-Stable Communities
-Support policies that promote housing stability so Orange County families can live and thrive in the communities they call home, including pathways to homeownership and affordable home opportunities so our firefighters, nurses, and teachers can afford to live near where they serve.
-Homeownership
-Local control over housing decisions, support for homeowners and responsible property owners, and policies that help the next generation.
-Lowering the Cost of Living
-Strong Public Schools for Every Child
-Invest in early learning, classroom resources, modern facilities, and educator support to ensure every child receives a quality education.
-Supporting Small Business & Creating Good Jobs
-Strengthen workforce development, support small businesses, and create pathways to good wages and long-term economic security.
-Standing with California's Foster Youth
-Improve stability, access to services, and long-term outcomes for young people in the foster care system.
-Honoring & Supporting Our Seniors
-Ensure seniors can age with dignity, security, and the respect they’ve earned.
-Serving Those Who Served
-Expand healthcare access, end homelessness, and create meaningful career pathways that ensure stability for veterans and their families.
-A Clean Environment & Lower Energy Costs
-Prioritize wildfire prevention, clean air and water initiatives, and climate-resilient infrastructure to protect our region and future generations.
+Safe & Thriving Communities Affordable & Accessible Health Care Stable Communities Homeownership Lowering the Cost of Living Strong Public Schools for Every Child Supporting Small Business & Creating Good Jobs Standing with California's Foster Youth Honoring & Supporting Our Seniors Serving Those Who Served A Clean Environment & Lower Energy Costs Safe & Thriving Communities Invest in community resources, mental health services, and local partnerships that foster safety, stability, and opportunity.
+View more Affordable & Accessible Health Care Protect reproductive freedom, expand preventive and mental health services, and strengthen access to care for every Californian, regardless of income or zip code.
+View more Stable Communities Support policies that promote housing stability so Orange County families can live and thrive in the communities they call home, including pathways to homeownership and affordable home opportunities so our firefighters, nurses, and teachers can afford to live near where they serve.
+View more Homeownership Local control over housing decisions, support for homeowners and responsible property owners, and policies that help the next generation.
+View more Lowering the Cost of Living Address the rising cost of everyday essentials, including health care, food, and utilities , so working families can keep more of what they earn.
+View more Strong Public Schools for Every Child Invest in early learning, classroom resources, modern facilities, and educator support to ensure every child receives a quality education.
+View more Supporting Small Business & Creating Good Jobs Strengthen workforce development, support small businesses, and create pathways to good wages and long-term economic security.
+View more Standing with California's Foster Youth Improve stability, access to services, and long-term outcomes for young people in the foster care system.
+View more Honoring & Supporting Our Seniors Ensure seniors can age with dignity, security, and the respect they’ve earned.
+View more Serving Those Who Served Expand healthcare access, end homelessness, and create meaningful career pathways that ensure stability for veterans and their families.
+View more A Clean Environment & Lower Energy Costs Prioritize wildfire prevention, clean air and water initiatives, and climate-resilient infrastructure to protect our region and future generations.
+View more Contact Privacy Policy Election Day is Tuesday, November 3, 2026 Powered by RUN! website builder Paid for by Swift for Assembly 2026 FPPC #1485309 1 W.
+Manchester Blvd., Suite 700, Inglewood, CA 90301 You need to enable JavaScript to run this app.

@@ -1,15 +1,1 @@
-The 23rd District
-The 23rd Legislative District is part of both Cook and DuPage Counties.
-main cities
-- Elmhurst
-- Glendale Heights
-- Oakbrook Terrace
-Villages
-- Clarendon Hills
-- Downers Grove
-- Hinsdale
-- Lombard
-- Oak Brook
-- Villa Park
-- Western Springs
-- Westmont
+Skip to content Home About Endorsements Issues The District Get Involved Contact Home About Endorsements Issues The District Get Involved Contact CONTRIBUTE The 23rd District The 23rd Legislative District is part of both Cook and DuPage Counties. main cities Elmhurst Glendale Heights Oakbrook Terrace Villages Clarendon Hills Downers Grove Hinsdale Lombard Oak Brook Villa Park Western Springs Westmont Facebook X-twitter Youtube The District Get Involved Contact Privacy Policy The District Get Involved Contact Privacy Policy Contribute Paid for by Friends of Suzy Glowiak Scroll to Top

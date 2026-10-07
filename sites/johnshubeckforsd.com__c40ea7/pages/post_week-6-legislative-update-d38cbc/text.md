@@ -1,9 +1,4 @@
-Week 6 - Legislative Update
-Representative John Shubeck | District 16
-South Dakota Legislature
-House of Representatives
-Originally Posted on Facebook: February 24, 2026
-We are coming down the home stretch on the legislative session and getting a lot done.
+top of page Home Meet John On the Issues News Menu Back to site Get Involved News Week 6 - Legislative Update Feb 24 3 min read Representative John Shubeck | District 16 South Dakota Legislature House of Representatives Originally Posted on Facebook : February 24, 2026 We are coming down the home stretch on the legislative session and getting a lot done.
 We are approaching cross over week where all passed house bills cross over to the senate and all passed senate bills cross over to the house.
 We passed two bills dealing with property taxes, we also passed one to help schools with disruptive students, and I tabled my law banning data collection on minors.
 In the state House of Representatives we passed House Bill 1253, which if passed by the senate will lower property taxes.
@@ -33,5 +28,4 @@ The mechanisms by which we let a tech company know that they are dealing with so
 I worked with the Legislative Research Counsel and the Attorney General’s office on this legislation, but it still needs work in order to make sure that we are able to hold the tech companies accountable.
 I will work on this legislation over the summer and I hope to have it ready for the 2027 session.
 Thanks as always for your support!
-Representative John Shubeck
-South Dakota District 16
+Representative John Shubeck South Dakota District 16 Recent Posts See All Week 5 - Legislative Update Week 3 - Legislative Update Week 2 - Legislative Update QUICK LINKS Home Meet John On the Issues Get Involved News Contact SOCIAL Facebook ​ CONTACT johnshubeckforsd@gmail.com 605-553-1094 ​ 29341 468th Ave Beresford, SD 57004 Paid for by John Shubeck for SD © # | Terms & Conditions | Privacy Policy | Accessibility Statement JOIN OUR NEWSLETTER First name Last name Email * Yes, subscribe me to your newsletter * Submit Home Meet John On the Issues News bottom of page

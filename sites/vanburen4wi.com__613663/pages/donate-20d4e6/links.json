@@ -1,10 +1,46 @@
 [
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fmerlin-van-buren-3&sa=D&sntz=1&usg=AOvVaw2eOPCwPenrP-9vXKTzOJbG",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61589304577228&sa=D&sntz=1&usg=AOvVaw2CRRy2qcHKIx4RYWc78UiN",
-"https://vanburen4wi.com/donate",
-"https://vanburen4wi.com/meet-merlin",
-"https://vanburen4wi.com/merlin-van-buren-for-wisconsin",
-"https://vanburen4wi.com/priorities",
-"https://vanburen4wi.com/privacy-policy",
-"https://youtube.com/@MerlinVanBurenforthe34th"
+{
+"text": "Contribute Now",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fmerlin-van-buren-3&sa=D&sntz=1&usg=AOvVaw2eOPCwPenrP-9vXKTzOJbG"
+},
+{
+"text": "DONATE",
+"href": "https://www.vanburen4wi.com/donate"
+},
+{
+"text": "Donate Now to Merlin's Campaign",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fmerlin-van-buren-3&sa=D&sntz=1&usg=AOvVaw2eOPCwPenrP-9vXKTzOJbG"
+},
+{
+"text": "Meet Merlin",
+"href": "https://www.vanburen4wi.com/meet-merlin"
+},
+{
+"text": "Merlin Van Buren for Wisconsin",
+"href": "https://www.vanburen4wi.com/merlin-van-buren-for-wisconsin"
+},
+{
+"text": "Priorities",
+"href": "https://www.vanburen4wi.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.vanburen4wi.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61589304577228&sa=D&sntz=1&usg=AOvVaw2CRRy2qcHKIx4RYWc78UiN"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@MerlinVanBurenforthe34th"
+},
+{
+"text": "[image]",
+"href": "https://www.vanburen4wi.com/merlin-van-buren-for-wisconsin"
+},
+{
+"text": "merlin@vanburen4wi.com",
+"href": "mailto:merlin@vanburen4wi.com"
+}
 ]

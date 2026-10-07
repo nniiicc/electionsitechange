@@ -1,5 +1,4 @@
-Jeff Wadlin for Arkansas
-REAL DEMOCRACY RUNS ON PRINCIPLES, NOT PARTIES.
+0 Skip to Content About Issues In the News Volunteer Events Shop Merch Contact DONATE Open Menu Close Menu About Issues In the News Volunteer Events Shop Merch Contact DONATE Open Menu Close Menu About Issues In the News Volunteer Events Shop Merch Contact DONATE Jeff Wadlin for Arkansas Contact Me REAL DEMOCRACY RUNS ON PRINCIPLES, NOT PARTIES.
 Both parties are failing Arkansans.
 Somewhere along the way, logic, nuance, and independence gave way to hyper-partisanship and political theater.
 I'm running to fix that, and to prove that governing well is the whole job.
@@ -9,7 +8,7 @@ You've watched both parties choose their donors over you, their party bosses ove
 Jeff Wadlin isn't a Republican or a Democrat.
 He's not beholden to a party, a PAC, or a political tribe.
 He's running because someone has to bring sanity to national politics — and because Arkansans deserve a Senator who actually governs instead of performing political theater.
-Liberty That Means Something.
+DONATE NOW Liberty That Means Something.
 Responsibility That Matters.
 MAKE YOUR VOICE HEARD.
 Jeff needs you to get involved with his race for U.S.
@@ -17,3 +16,4 @@ Senate.
 Now is the time to make your voice heard.
 Our campaign welcomes everyone.
 If you feel inspired to volunteer for a new way to do politics, click the button below!
+GET INVOLVED Jeff Wadlin for Arkansas ALL RIGHTS RESERVED PAID FOR AND AUTHORIZED BY WADLIN FOR SENATE 2026 Privacy Policy Terms of Service Wadlin for US Senate Bentonville, AR 72712 479.370.5710 info@jeffwadlin.com

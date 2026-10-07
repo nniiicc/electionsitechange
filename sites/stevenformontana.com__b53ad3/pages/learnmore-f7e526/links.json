@@ -1,18 +1,70 @@
 [
-"http://leg.mt.gob/",
-"http://ratings.conservative.org/people/01d8976a-5dc4-4e73-b9db-770ff58a89fc",
-"https://conservative.org/",
-"https://facebook.com/stevenformontana",
-"https://pnwer.org/",
-"https://secure.winred.com/galloway4mt/donate",
-"https://stevenformontana.com/",
-"https://stevenformontana.com/learnmore",
-"https://stevenformontana.com/learnmore/stevenformontana.com/lettermpa",
-"https://stevenformontana.com/lettergoa",
-"https://stevenformontana.com/lettermff",
-"https://stevenformontana.com/lettermssa",
-"https://stevenformontana.com/volunteer",
-"https://theenergycouncil.org/",
-"https://thefreedomindex.org/mt/legislator/22188",
-"https://wordpress.org/"
+{
+"text": "About",
+"href": "https://www.stevenformontana.com/learnmore/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/galloway4mt/donate"
+},
+{
+"text": "Email",
+"href": "mailto:galloway@stevenformontana.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/stevenformontana/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stevenformontana.com/volunteer/"
+},
+{
+"text": "Home",
+"href": "https://www.stevenformontana.com/"
+},
+{
+"text": "Montana Family Foundation 2020/2024 by President/CEO Jeff Laszloffy",
+"href": "https://www.stevenformontana.com/lettermff/"
+},
+{
+"text": "Proudly powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "[image]",
+"href": "http://ratings.conservative.org/people/01d8976a-5dc4-4e73-b9db-770ff58a89fc"
+},
+{
+"text": "[image]",
+"href": "https://theenergycouncil.org/"
+},
+{
+"text": "[image]",
+"href": "https://thefreedomindex.org/mt/legislator/22188/"
+},
+{
+"text": "[image]",
+"href": "https://www.pnwer.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.stevenformontana.com/learnmore/stevenformontana.com/lettermpa/"
+},
+{
+"text": "[image]",
+"href": "https://www.stevenformontana.com/lettergoa/"
+},
+{
+"text": "[image]",
+"href": "https://www.stevenformontana.com/lettermssa/"
+},
+{
+"text": "www.conservative.org",
+"href": "https://www.conservative.org/"
+},
+{
+"text": "www.leg.mt.gov",
+"href": "http://www.leg.mt.gob"
+}
 ]

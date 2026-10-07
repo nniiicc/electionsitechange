@@ -1,7 +1,9 @@
 {
  "description": "Get information about voter registration, voting by absentee ballot, and voting in person in Avon and Canton, CT for the 2022 election.",
  "final_url": "https://teameleni.com/voter",
+ "fingerprint": "44ac7c81059aeca49d68ee02a25f4b6de8123644",
+ "format": 3,
  "paid_for_by": "Paid for by Team Eleni, Claudine Fasano, Treasurer",
- "title": "Voting Info \u2014 Eleni Kavros DeGraw",
+ "title": "Voting Info — Eleni Kavros DeGraw",
  "years_mentioned": []
 }

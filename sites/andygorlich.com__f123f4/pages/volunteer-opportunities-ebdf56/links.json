@@ -1,6 +1,22 @@
 [
-"https://andygorlich.com/",
-"https://andygorlich.com/contact-draft-page",
-"https://andygorlich.com/i-appreciate-however-you-can-help",
-"https://andygorlich.com/privacy-policy"
+{
+"text": "Andy Gorlich",
+"href": "https://andygorlich.com/"
+},
+{
+"text": "Contact Andy",
+"href": "https://andygorlich.com/contact-draft-page/"
+},
+{
+"text": "DONATE",
+"href": "https://andygorlich.com/i-appreciate-however-you-can-help/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://andygorlich.com/privacy-policy/"
+},
+{
+"text": "[image: Andy Gorlich Logo]",
+"href": "https://andygorlich.com/"
+}
 ]

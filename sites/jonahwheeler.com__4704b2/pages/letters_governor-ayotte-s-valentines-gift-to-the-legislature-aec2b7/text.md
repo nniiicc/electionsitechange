@@ -1,6 +1,8 @@
-Misc.
-Letter
-On Thursday, February 13th, Governor Kelly Ayotte gave her first budget address to the legislature.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Governor Ayotte's Valentines gift to the legislature.
+Governor Ayotte's Valentines gift to the legislature.
+Governor Ayotte's Valentines gift to the legislature.
+Feb 14, 2025 Feb 14, 2025 Misc.
+Letter Pink Skies - 18 February 2025 - 17:03 - Concord, NH - Taken by Jonah Pink Skies - 18 February 2025 - 17:03 - Concord, NH - Taken by Jonah On Thursday, February 13th, Governor Kelly Ayotte gave her first budget address to the legislature.
 It was a mile high overview of her office's proposals for how the legislature should budget for fiscal years 26 and 27.
 She began her speech by attacking the Democratic caucus for 'not understanding' that the State is better off when 'people have more money in their pockets'.
 To which she was met with an awkward hum of groans and boos.
@@ -16,13 +18,11 @@ Here, I want to recognize my democratic colleagues on the House Finance committe
 They stood up to her, with respect, but forcefully.
 Representative Kate Murray came right out of the gate to ask the Governor to "reconcile your (her) desire for belt tightening and being fiscally responsible while responsibly shepherding the people's money with the expansion of a program that to my mind has no guardrails, unlike similar programs in this State.
 Has always come in over budget and doesn't have an accountability mechanism.
-This is taxpayer money we are talking about..."
-Surprisingly, the Governor doubled down on her proposal for universal vouchers, without answering Rep.
+This is taxpayer money we are talking about..." Surprisingly, the Governor doubled down on her proposal for universal vouchers, without answering Rep.
 Murray's question.
 Governor Ayotte said that her budget request includes bringing the adult Medicaid eligibility rate back to the 2020 level, and requiring nominal co-pays for those receiving services.
 Representative Jerry Stringham had a very important question in response to this, asking "Is the rate we are asking for in co-pays affordable?
-Are you concerned this makes it (Medicaid) unattainable?"
-The proposed budget of the Judicial Branch closes two circuit courts, one in Claremont and the other in Candia.
+Are you concerned this makes it (Medicaid) unattainable?" The proposed budget of the Judicial Branch closes two circuit courts, one in Claremont and the other in Candia.
 The budget would also include the elimination of jury trials for two months out of the year in Superior Court.
 Representative Karen Ebel relayed her concerns about these proposed cuts to the Judicial Branch and their effect on the administration of justice in our State.
 Representative Muns questioned her about the federal funding freeze, Representative Preece asked about childcare and affordable housing, Representative Leishman asked about infrastructure in need of critical repair; House Democrats were the voice of the people in House Finance on Friday.
@@ -30,9 +30,6 @@ I urge everyone to take the time to watch the hearing.
 Make some hot cocoa, ignore the snow, and have a blast studying our State's budget.
 The questions asked by our Representatives alone, make it a worthwhile watch.
 Rep.
-Leishman said it best - "...in my nine terms (on finance) this is the most challenging budget I've seen..."
-While we may not have the votes as the Minority caucus - we have our voice, and Friday was a great example of how to use it.
-Jonah Orion Wheeler
-State Representative
-Hillsborough's 33rd district
+Leishman said it best - "...in my nine terms (on finance) this is the most challenging budget I've seen..." While we may not have the votes as the Minority caucus - we have our voice, and Friday was a great example of how to use it.
+Jonah Orion Wheeler State Representative Hillsborough's 33rd district Snowy Session - 6 February 2025 - 09:59 - Concord, NH - Taken by Jonah Snowy Session - 6 February 2025 - 09:59 - Concord, NH - Taken by Jonah ‹ One year down, one to go. ‹ One year down, one to go. ‹ One year down, one to go.
 Back to all

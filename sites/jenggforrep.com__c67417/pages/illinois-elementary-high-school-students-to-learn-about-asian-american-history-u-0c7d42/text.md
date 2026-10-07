@@ -1,7 +1,7 @@
-Mary Manching felt a disconnect between her Asian American heritage and what she was learning at Northside College Prep.
+P.O.
+Box 3042 Glenview, Illinois 60025 Email: Jen@JenGGforRep.com Home About Jen Issues News Take Action Donate Volunteer Yard Sign Contact Illinois elementary, high school students to learn about Asian American history under measure awaiting governor’s signature Home Illinois elementary, high school students to learn about Asian American history under measure awaiting governor’s signature Illinois elementary, high school students to learn about Asian American history under measure awaiting governor’s signature staff June 21, 2021 Mary Manching felt a disconnect between her Asian American heritage and what she was learning at Northside College Prep.
 “I never saw myself represented in the history curriculum,” said Manching, a graduating senior at the selective enrollment high school in the North Park neighborhood.
-“I knew what it was like to not have a lot of people that looked like me, that I could relate to, that I could share my cultural experiences with.”
-“It bolstered feelings of discouragement, estrangement,” she said.
+“I knew what it was like to not have a lot of people that looked like me, that I could relate to, that I could share my cultural experiences with.” “It bolstered feelings of discouragement, estrangement,” she said.
 That classroom gap could soon be a thing of the past after Illinois lawmakers recently approved a measure requiring elementary and high schools to teach a unit on Asian American and Pacific Islander history starting with the 2022-23 school year.
 The Teaching Equitable Asian American Community History, or TEAACH, Act was sponsored by Democratic Sen.
 Ram Villivalam of Chicago and Democratic Rep.
@@ -21,10 +21,8 @@ Most of the “no” votes were cast by Downstate Republicans.
 Republican Rep.
 Avery Bourne of Morrisonville spoke out against the bill in April, arguing curriculum decisions should be left to local school boards, according to a news report.
 Bourne’s office did not respond to a Tribune request for comment.
-Pai said the state should “teach the real and honest history of the United States.”
-“We’ve seen what happens when local districts are allowed to decide what curriculum they teach, and that is that they don’t teach an inclusive history,” Pai said.
-“Many communities’ stories are left out, and the full picture of American history, U.S. history, is not told, and that’s unacceptable.”
-In Illinois, the state education board requires students to study women’s history, Black history, LGBTQ history, the forced deportation of Mexican Americans during the Great Depression, and the disability rights movement.
+Pai said the state should “teach the real and honest history of the United States.” “We’ve seen what happens when local districts are allowed to decide what curriculum they teach, and that is that they don’t teach an inclusive history,” Pai said.
+“Many communities’ stories are left out, and the full picture of American history, U.S. history, is not told, and that’s unacceptable.” In Illinois, the state education board requires students to study women’s history, Black history, LGBTQ history, the forced deportation of Mexican Americans during the Great Depression, and the disability rights movement.
 It does not specify any mandated units on Asian American and Pacific Islander history.
 In comparison, Indiana’s U.S. history standards includes specific mention of lessons on Chinese settlers in the westward expansion and the experiences of Asian Americans during World War II.
 In Iowa, the state’s core high school education standards includes units on the Chinese Exclusion Act — a federal law signed in 1882 prohibiting the immigration of Chinese laborers — and Executive Order 9066, which authorized the incarceration of Japanese Americans in camps during World War II.
@@ -34,7 +32,7 @@ An April survey by the nonprofit Leading Asian Americans to Unite for Change fou
 “As an educator … it is our responsibility to continually be seeking out information and knowledge about the different histories and stories that make up our country, just to make sure all our students feel seen and heard,” said Houcque Prabhakar, who also is a community leader with the Cambodian Association of Illinois.
 A quarter of white Americans said anti-Asian American racism isn’t a problem that needs addressed.
 And nearly 50% of non-Asian Americans believe Asian Americans are fairly represented or overrepresented in senior leadership positions.
-Patricia Nguyen, a professor of Asian American studies at Northwestern University, said these assumptions are perpetuated by the “model minority myth” — the idea that Asian Americans are “closer to whiteness” than other ethnic groups — a media-driven narrative during the civil rights movement as a way to “divide Black and Asian Americans.”
-“(Education) could shape the way we see the world and interact with each other and make us better toward each other,” Nguyen said.
-“This … offers the opportunity for students to learn about American History … to understand the history of immigration, the history of how the United States has operated internationally and domestically.”
-The bill was sent to the governor’s desk on Wednesday and he’s expected to act on it later this summer.
+Patricia Nguyen, a professor of Asian American studies at Northwestern University, said these assumptions are perpetuated by the “model minority myth” — the idea that Asian Americans are “closer to whiteness” than other ethnic groups — a media-driven narrative during the civil rights movement as a way to “divide Black and Asian Americans.” “(Education) could shape the way we see the world and interact with each other and make us better toward each other,” Nguyen said.
+“This … offers the opportunity for students to learn about American History … to understand the history of immigration, the history of how the United States has operated internationally and domestically.” The bill was sent to the governor’s desk on Wednesday and he’s expected to act on it later this summer.
+Latest News Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Socials Recent Posts Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Contact Info Jen@JenGGforRep.com P.O.
+Box 3042 Glenview, Illinois 60025 Take Action Donate Volunteer Yard Sign 2022 Paid for by Friends for Jennifer All rights reserved.

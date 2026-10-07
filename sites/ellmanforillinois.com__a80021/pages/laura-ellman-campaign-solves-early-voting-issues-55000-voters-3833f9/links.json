@@ -1,19 +1,70 @@
 [
-"http://dupage.iqm2.com/Citizens/SplitView.aspx?Mode=Video&MeetingID=7950&Format=Agenda",
-"http://youtube.com/",
-"https://airtable.com/shrBA6UCO1KJsCesP",
-"https://dailyherald.com/news/20181023/some-early-voters-in-dupage-will-need-to-use-paper-ballots",
-"https://ellmanforillinois.com/",
-"https://ellmanforillinois.com/about-laura",
-"https://ellmanforillinois.com/ellman-bill-protects-access-to-health-coverage-prevents-denials-over-past-due-premiums",
-"https://ellmanforillinois.com/endorsements",
-"https://ellmanforillinois.com/get-involved",
-"https://ellmanforillinois.com/hands-deck-joining-forces-get-vote",
-"https://ellmanforillinois.com/my-vision",
-"https://ellmanforillinois.com/policies-that-matter",
-"https://ellmanforillinois.com/the-21st-district",
-"https://facebook.com/EllmanforIL",
-"https://instagram.com/statesenatorlauraellman",
-"https://secure.actblue.com/donate/teamellman22",
-"https://twitter.com/EllmanForIL"
+{
+"text": "ABOUT LAURA",
+"href": "https://ellmanforillinois.com/about-laura/"
+},
+{
+"text": "All Hands On Deck: Joining Forces to Get Out the Vote",
+"href": "https://ellmanforillinois.com/hands-deck-joining-forces-get-vote/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/teamellman22"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://ellmanforillinois.com/endorsements/"
+},
+{
+"text": "Ellman bill protects access to health coverage, prevents denials over past-due premiums",
+"href": "https://ellmanforillinois.com/ellman-bill-protects-access-to-health-coverage-prevents-denials-over-past-due-premiums/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://ellmanforillinois.com/get-involved/"
+},
+{
+"text": "ISSUES",
+"href": "https://ellmanforillinois.com/policies-that-matter/"
+},
+{
+"text": "MY VISION",
+"href": "https://ellmanforillinois.com/my-vision/"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://airtable.com/shrBA6UCO1KJsCesP"
+},
+{
+"text": "SOURCE: Daily Herald 10/23/18",
+"href": "https://www.dailyherald.com/news/20181023/some-early-voters-in-dupage-will-need-to-use-paper-ballots"
+},
+{
+"text": "THE 21ST DISTRICT",
+"href": "https://ellmanforillinois.com/the-21st-district/"
+},
+{
+"text": "[image: Laura Ellman]",
+"href": "https://ellmanforillinois.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/EllmanForIL"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EllmanforIL/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/statesenatorlauraellman/"
+},
+{
+"text": "called on the DuPage County Board to intervene.",
+"href": "http://dupage.iqm2.com/Citizens/SplitView.aspx?Mode=Video&MeetingID=7950&Format=Agenda"
+}
 ]

@@ -1,7 +1,30 @@
 [
-"https://facebook.com/MyersForMo",
-"https://myers4mo.com/",
-"https://myers4mo.com/about-jeff",
-"https://myers4mo.com/contact-us",
-"https://myers4mo.com/upcoming-events"
+{
+"text": "About Jeff",
+"href": "https://myers4mo.com/about-jeff"
+},
+{
+"text": "Contact Us",
+"href": "https://myers4mo.com/contact-us"
+},
+{
+"text": "Home",
+"href": "https://myers4mo.com/"
+},
+{
+"text": "Subscribe",
+"href": "https://myers4mo.com/contact-us"
+},
+{
+"text": "Upcoming Events",
+"href": "https://myers4mo.com/upcoming-events"
+},
+{
+"text": "[image]",
+"href": "https://myers4mo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MyersForMo"
+}
 ]

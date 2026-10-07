@@ -1,7 +1,14 @@
 {
  "description": "Education",
  "final_url": "https://www.votehohenstein.com/education",
+ "fingerprint": "d5d2b0c2e429592d82c93071dfedfcfc1d76f7ce",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Joe Hohenstein PAC",
- "title": "Education \u2014 Elect Joe Hohenstein",
- "years_mentioned": []
+ "title": "Education — Elect Joe Hohenstein",
+ "years_mentioned": [
+  "1970",
+  "1990",
+  "2019",
+  "2021"
+ ]
 }

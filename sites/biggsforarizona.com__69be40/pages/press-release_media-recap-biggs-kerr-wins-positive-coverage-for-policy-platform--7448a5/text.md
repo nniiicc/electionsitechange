@@ -1,25 +1,17 @@
-Platform lays out clear vision for Arizona voters on how Biggs and Kerr would improve their quality of life from Day One
-GILBERT, AZ—Republican nominee for Governor Andy Biggs and his Lt.
+Skip to main content Skip to footer Opens in a new tab Donate → Home Meet Andy Meet Sine Endorsements News Action Center Issues Media Kit Donate Online Donate By Mail Store Donate Donate By Mail Store Media Recap: Biggs/Kerr Wins Positive Coverage for Policy Platform Rollout September 23, 2026 Press Release Platform lays out clear vision for Arizona voters on how Biggs and Kerr would improve their quality of life from Day One GILBERT, AZ—Republican nominee for Governor Andy Biggs and his Lt.
 Governor running mate Sine Kerr won positive media coverage for the rollout of their policy platform to Restore the American Dream in Arizona.
 At a press conference at the State Capitol yesterday, Biggs and Kerr were joined by a number of Republican legislators and supporters as they announced the clear policy steps they’ll take to improve the lives of Arizonans when elected in November.
-Havasu News- Andy Biggs outlines Arizona governor agenda on taxes, school choice, and energy: “Biggs vowed to totally eliminate tax incentives for data centers, allow Arizona restaurants to serve raw milk, limit the number of short-term rentals that can be owned by investors, support more nuclear power in Arizona, and limit the use of food stamps to purchase “junk food” and soda.”
-ABC15- Biggs lays out campaign platform: “Congressman Andy Biggs, the Republican nominee for Arizona governor, has released a platform with policies on affordability, public safety, education, election laws and health.”
-12News- Rep.
-Biggs shares plan to fix education as Governor: “Early ballots go out in about two weeks and Andy Biggs, the Republican candidate for governor, made his pitch this morning.”
-KJZZ- Biggs says eliminating individual income tax will ultimately boost tax revenue for Arizona: “Biggs’ comments on Tuesday were part of a broader unveiling of what he intends to do if elected in his first 100 days in office.
-His other fiscal promises include eliminating tax breaks for data centers and altering the state’s universal private school voucher program to give more to certain students.”
-KTAR- Biggs lays out Day One Priorities: “Arizona Republican congressman and gubernatorial nominee Andy Biggs, joined by his running mate Sine Kerr, outlined his policy goals as the start of early voting nears with an attempt to focus on optimism.”
-Biggs and Kerr offered the following statements as part of yesterday’s policy platform announcement:
-“Sine Kerr and I have traveled all over this state, meeting Arizonans, listening to their concerns,
-understanding how the last four years have left them worse off than they were in 2022, and we
-have shared our vision for the future,” said Andy Biggs, the Republican nominee for Governor of Arizona.
-“We are ready to get to work on Day 1 – but for us, Day 1 starts the day after getting elected.
+Havasu News- Andy Biggs outlines Arizona governor agenda on taxes, school choice, and energy: “ Biggs vowed to totally eliminate tax incentives for data centers, allow Arizona restaurants to serve raw milk, limit the number of short-term rentals that can be owned by investors, support more nuclear power in Arizona, and limit the use of food stamps to purchase “junk food” and soda.” ABC15- Biggs lays out campaign platform: “Congressman Andy Biggs, the Republican nominee for Arizona governor, has released a platform with policies on affordability, public safety, education, election laws and health. ” 12News- Rep.
+Biggs shares plan to fix education as Governor: “ Early ballots go out in about two weeks and Andy Biggs, the Republican candidate for governor, made his pitch this morning.” KJZZ- Biggs says eliminating individual income tax will ultimately boost tax revenue for Arizona: “ Biggs’ comments on Tuesday were part of a broader unveiling of what he intends to do if elected in his first 100 days in office.
+His other fiscal promises include eliminating tax breaks for data centers and altering the state’s universal private school voucher program to give more to certain students. ” KTAR- Biggs lays out Day One Priorities: “ Arizona Republican congressman and gubernatorial nominee Andy Biggs, joined by his running mate Sine Kerr, outlined his policy goals as the start of early voting nears with an attempt to focus on optimism. ” Biggs and Kerr offered the following statements as part of yesterday’s policy platform announcement: “ Sine Kerr and I have traveled all over this state, meeting Arizonans, listening to their concerns, understanding how the last four years have left them worse off than they were in 2022, and we have shared our vision for the future, ” said Andy Biggs, the Republican nominee for Governor of Arizona. “ We are ready to get to work on Day 1 – but for us, Day 1 starts the day after getting elected.
 We will work with House and Senate leadership to make the state budget a priority, and to develop a strategy to pass and sign into law the good policy that Governor Hobbs vetoed, including bills on election integrity, protecting children from sex offenders, protecting state land against foreign interests, and increasing government transparency.
 It is time to Restore the American Dream in Arizona.
-Sine Kerr and I are ready to work for Arizona!”
-“I am honored to run with Andy Biggs and promote this agenda to Restore the American Dream
-in Arizona,” said Sine Kerr, the Republican nominee for Lt.
-Governor.
-“In my time in the Senate, I served under both Governor Ducey and Governor Hobbs and let me tell you, the contrast was stark.
+Sine Kerr and I are ready to work for Arizona! ” “ I am honored to run with Andy Biggs and promote this agenda to Restore the American Dream in Arizona, ” said Sine Kerr, the Republican nominee for Lt.
+Governor. “ In my time in the Senate, I served under both Governor Ducey and Governor Hobbs and let me tell you, the contrast was stark.
 The difference between a Governor Biggs and Governor Hobbs is similarly stark: it is a choice between failed, socialist policies, or economic prosperity and economic freedom.
-We are excited to bring this vision to Arizonans and Restore the American Dream in our great state.”
+We are excited to bring this vision to Arizonans and Restore the American Dream in our great state. ” Home Meet Andy Meet Sine Endorsements News Action Center Issues Media Kit Donate Online Donate By Mail Store Paid for & authorized by Biggs for Arizona By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy Terms & Conditions

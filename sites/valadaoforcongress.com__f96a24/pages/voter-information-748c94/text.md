@@ -1,147 +1,45 @@
-Kern County POLL SITES
-POLLS OPEN
-NOV 3rd 7AM - 8PM
-Arvin Veterans Building
-414 4th Ave, Arvin, 93203
-Bakersfield First Church of the Nazarene
-2801 Hughes Ln, Bakersfield, 93304
-California Ave Church Of Christ
-1020 E California Ave, Bakersfield, 93307
-Casa Loma Elementary School
-525 E Casa Loma Dr, Bakersfield, 93307
-Fairview Elementary School
-425 E Fairview Rd, Bakersfield, 93307
-Golden Valley High School
-801 Hosking Ave, Bakersfield, 93307
-Greenfield School District
-1624 Fairview Rd, Bakersfield, 93307
-Height Street Baptist Church
-1010 Height St, Bakersfield, 93305
-Horizon Elementary School
-7901 Monitor St, Bakersfield, 93307
-Kern Agricultural Pavilion
-3300 E Belle Ter, Bakersfield, 93307
-Lakeside School
-14535 Old River Rd, Bakersfield, 93311
-Leo G.
-Pauly Elementary School
-313 Planz Rd, Bakersfield, 93304
-McKee Middle School
-205 McKee Rd, Bakersfield, 93307
-Pioneer Drive Elementary School
-4404 Pioneer Dr, Bakersfield, 93306
-Sequoia Middle School
-900 Belle Terrace, Bakersfield, 93304
-Shirley Lane Elementary School
-6714 Shirley Ln, Bakersfield, 93307
-So Bakersfield Veterans Hall Room 1
-1905 Wilson Rd, Bakersfield, 93304
-South High School
-1101 Planz Rd, Bakersfield, 93304
-Southeast Bakersfield Community Serv Center
-1600 E Belle Ter, Bakersfield, 93307
-Virginia Colony Fire Station 41
-2214 Virginia Ave, Bakersfield, 93307
-Pioneer Senior Building
-131 E 1st St, Buttonwillow, 93230
-Civic Center Hall Auditorium
-1009 11th Ave, Delano, 93215
-Delano Regional Medical Center
-1401 Garces Hwy, Delano, 93215
-Harold Olson Rotary Village
-1635 Randolph St, Delano, 93215
-North Kern Community School
-1915 Cecil Ave, Delano, 93215
-Pioneer Middle School
-1001 Hiett Ave, Delano, 93215
-Terrace Elementary School
-1999 Norwalk St, Delano, 93215
-Arvin Lamont Administrative Building
-12014 Main St, Lamont, 93241
-David Head Community Building
-10300 San Diego St, Lamont, 93241
-Lamont Assembly of God Church
-8300 Collison St , Lamont, 93241
-Lost Hills Community Center
-14688 Lost Hills Rd, Lost Hills, 93249
-Church Of The Living Savior
-149 5th St , Mc Farland, 93250
-St Elizabeth's Church
-835 E Perkins Ave , Mc Farland, 93250
-Shafter Veterans Building
-309 California Ave, Shafter, CA 93263
-Wasco Veterans Hall
-1202 Poplar Ave 93280, Wasco
-Kern County Curbside Mail Ballot Drop Off
-October 7, 2024 - Ballot Drop Box locations open 24 hours a day
-Arvin Branch Library
-201 Campus Dr., 93203
-Kern County Elections Office
-1115 Truxtun Ave., 93301
-Kern County Fire Station #67
-14341 Brimhall Rd., 93314
-Holloway-Gonzales Branch Library
-506 E.
-Brundage Ln., 93307
-Kern County Public Works
-Road Yard 5438 Victor St., 93308
-California State University, Bakersfield
-9001 Stockdale Hwy, 93311
-Bakersfield Community College
-1801 Panorama Dr., 93305
-Greenfield Senior Center (Ben Austin)
-1751 McKee Rd., 93307
-California City Branch Library
-9507 California City Blvd.,93505
-Delano Branch Library
-925 10th Ave, 93215
-Frazier Park Branch Library
-3732 Park Dr., 93225
-Kern County Superior Court
-7046 Lake Isabella Blvd., 93240
-Kern County Human Services
-8300 Sugrue Rd., 93241
-McFarland Branch Library
-500 W.
-Kern Ave., 93250
-Kern County Superior Court
-132 E.
-Caso Ave., 93555
-Rosamond Branch Library
-3611 W.
-Rosamond Blvd., 93560
-Kern County Fire Station #32
-325 Sunset Ave., 93268
-Taft Branch Library
-27 Cougar Ct., 93268
-Tehachapi Branch Library
-212 S.
-Green St., 93561
-Wasco Branch Library
-1102 7th St., 93280
-Kern County Special Assistance Satellite Offices
-Satellite election offices available for voter assistance, including replacement of lost or spoiled ballots, conditional voter registration, language or accessibility assistance, and for drop-off of mail ballots, are tentatively scheduled follows:
-Frazier Park Library
-3732 Park Drive, Frazier Park, 93225
-Tuesday, October 20th, 12pm - 6pm
-Wasco Library
-1102 7th Street, Wasco, 93280
-Wednesday, October 21st, 12pm - 6pm
-Arvin Library
-201 Campus Drive, Arvin, 93203
-Thursday, October 22nd, 12pm - 6pm
-Ridgecrest Library
-131 East Las Flores Avenue, Ridgecrest, 93555
-Friday, October 23rd, 12pm - 6pm
-Kern River Valley Library
-7054 Lake Isabella Boulevard, Lake Isabella, 93240
-Tuesday, October 27th, 12pm - 6pm
-Rosamond Library
-3611 Rosamond Boulevard, Rosamond, 93560
-Wednesday, October 28th, 12pm - 6pm
-Delano Library
-925 Tenth Avenue, Delano, 93215
-Thursday, October 29th, 12pm - 6pm
-Ridgecrest Library
-131 East Las Flores Avenue, Ridgecrest, 93555
-Friday, October 30th, 12pm - 6pm
+Skip to content Home Voter Information About David Get Involved Issues News Media Donate Español VOTER INFORMATION Make a plan to vote on or before November 5th.
+HOW TO VOTE TRACK YOUR BALLOT WHERE TO VOTE HOW TO VOTE Vote-by-mail ballots ship to all voters on Sunday, October 5th All registered voters will receive a vote-by-mail ballot for the November 5th election In-person voting will be available with COVID safety measures in place Voter Registration If you are not already registered, you can register to vote here .
+Click here to check your registration status.
+Vote-by-mail Ballots Receiving Your Ballot Ballots will be sent to all 22nd district registered voters on Sunday, October 5th and should arrive that week or shortly after.
+You can track your ballot here .
+Filling Out Your Ballot Mark your ballot Make sure to use only blue or black ink Fill the oval matching your vote choice Remove ballot stub from Official Ballot Card (This is your receipt) Place Official Ballot Card in the Ballot Secrecy Sleeve BE SURE TO SIGN THE BACK OF YOUR BALLOT RETURN ENVELOPE If you don’t sign it, it doesn’t count Signature must match voter registration record Returning Your Ballot By Mail You can return your ballot through the mail in the envelope provided – No postage required Ballots must be postmarked on or before Election Day (November 5th) Be sure to mail your ballot early!
+TO TRACK YOUR ABSENTEE BALLOT CLICK HERE WHERE TO VOTE Use the form below or scroll down for county by county voting information.
+Kings County 559-852-4401 Elections@CountyofKings.com https://www.countyofkings.com/departments/administration/elections 1400 W Lacey Blvd.
+Bldg.
+#7 , Hanford, CA 93230 Kings County POLL SITES Kings County Ballot Drop Off Boxes Kings County Special Assistance Satellite Offices Kings County POLL SITES POLLS OPEN NOV 3rd 7AM - 8PM Sierra Pacific High School Gym 1259 13th Ave, Hanford, CA 93230 Longfield Center 560 S Douty St, Hanford, CA 93230 Government Center Building #1 Multi-Purpose Room 1400 W.
+Lacey Blvd, Hanford, CA 93230 Recreation Association of Corcoran Gymnasium 900 Dairy Ave, Corcoran, CA 93212 Lemoore Masonic Temple 647 W Bush St, Lemoore, CA 93245 Avenal High School Cafeteria 601 Mariposa Street, Avenal, CA 93204 Kings County Ballot Drop Off Boxes October 7, 2024 - Ballot Drop Box locations open 24 hours a day Kings County Government Center Parking Lot 1400 W.
+Lacey Blvd.
+Hanford Kings County Elections Dept.
+1400 W.
+Lacey Blvd.
+Bldg.
+7 Hanford Hanford High School 120 E.
+Grangeville Blvd.
+Hanford Home Garden Community Services Dist.
+11677 2nd Pl.
+Hanford Lemoore Parks and Rec Dept.
+721 W.
+Cinnamon Dr.
+Lemoore Lemoore Masonic Lodge 647 W.
+Bush St.
+Lemoore Central Union Elementary School 15783 18th Ave.
+Lemoore Commission on Aging / Senior Center 10953 14th Ave.
+Armona Corcoran Area Transit / Amtrak Station 1099 Otis Ave.
+Corcoran Avenal Branch Library 501 E.
+King St.
+Avenal Lemoore College – Student Union Building (Formerly West Hills College) 555 College Ave.
+Lemoore Kings County Special Assistance Satellite Offices Satellite election offices available for voter assistance, including replacement of lost or spoiled ballots, conditional voter registration, language or accessibility assistance, and for drop-off of mail ballots, are tentatively scheduled follows: Tulare County 559-624-7300 FAX: 559-737-4498 AV1@co.tulare.ca.us https://tularecoelections.org/elections 5951 S Mooney Blvd., Visalia, CA 93277 Tulare County POLL SITES Tulare County BALLOT DROP OFF BOXES Tulare County POLL SITES POLLS OPEN OCT 31st – NOV 2nd 8AM - 5PM NOV 3rd 7AM - 8PM Earlimart Memorial 712 E.
+Washington Street, Earlimart, 93219 Tulare County BALLOT DROP-OFF BOXES OPENS OCTOBER 5TH Government Plaza 5961 S Mooney Blvd Visalia 93277 Visalia Branch Library 200 W Oak Ave, Visalia, 93291 Auditor/Controller’s Office 221 S Mooney Blvd, Visalia, 93291 Dinuba City Hall 405 E El Monte Way, Dinuba, 93618 Exeter City Hal 137 North F Street, Exeter, 93221 Famersville City Hall 909 W Visalia Rd, Farmersville, 93223 Kern County 661-868-3590 TOLL FREE: 1-800-452-8683 FAX: 661-868-3768 https://kernvote.com 1115 Truxtun Ave.
+1st Floor, Bakersfield CA, 93301-4639 Click here to find your assigned polling location Kern County POLL SITES Kern County Curbside Mail Ballot Drop Off Kern County Special Assistance Satellite Offices Kern County POLL SITES POLLS OPEN NOV 3rd 7AM - 8PM Arvin Veterans Building 414 4th Ave, Arvin, 93203 Bakersfield First Church of the Nazarene 2801 Hughes Ln, Bakersfield, 93304 California Ave Church Of Christ 1020 E California Ave, Bakersfield, 93307 Casa Loma Elementary School 525 E Casa Loma Dr, Bakersfield, 93307 Fairview Elementary School 425 E Fairview Rd, Bakersfield, 93307 Golden Valley High School 801 Hosking Ave, Bakersfield, 93307 Greenfield School District 1624 Fairview Rd, Bakersfield, 93307 Height Street Baptist Church 1010 Height St, Bakersfield, 93305 Horizon Elementary School 7901 Monitor St, Bakersfield, 93307 Kern Agricultural Pavilion 3300 E Belle Ter, Bakersfield, 93307 Lakeside School 14535 Old River Rd, Bakersfield, 93311 Leo G.
+Pauly Elementary School 313 Planz Rd, Bakersfield, 93304 McKee Middle School 205 McKee Rd, Bakersfield, 93307 Pioneer Drive Elementary School 4404 Pioneer Dr, Bakersfield, 93306 Sequoia Middle School 900 Belle Terrace, Bakersfield, 93304 Shirley Lane Elementary School 6714 Shirley Ln, Bakersfield, 93307 So Bakersfield Veterans Hall Room 1 1905 Wilson Rd, Bakersfield, 93304 South High School 1101 Planz Rd, Bakersfield, 93304 Southeast Bakersfield Community Serv Center 1600 E Belle Ter, Bakersfield, 93307 Virginia Colony Fire Station 41 2214 Virginia Ave, Bakersfield, 93307 Pioneer Senior Building 131 E 1st St, Buttonwillow, 93230 Civic Center Hall Auditorium 1009 11th Ave, Delano, 93215 Delano Regional Medical Center 1401 Garces Hwy, Delano, 93215 Harold Olson Rotary Village 1635 Randolph St, Delano, 93215 North Kern Community School 1915 Cecil Ave, Delano, 93215 Pioneer Middle School 1001 Hiett Ave, Delano, 93215 Terrace Elementary School 1999 Norwalk St, Delano, 93215 Arvin Lamont Administrative Building 12014 Main St, Lamont, 93241 David Head Community Building 10300 San Diego St, Lamont, 93241 Lamont Assembly of God Church 8300 Collison St , Lamont, 93241 Lost Hills Community Center 14688 Lost Hills Rd, Lost Hills, 93249 Church Of The Living Savior 149 5th St , Mc Farland, 93250 St Elizabeth's Church 835 E Perkins Ave , Mc Farland, 93250 Shafter Veterans Building 309 California Ave, Shafter, CA 93263 Wasco Veterans Hall 1202 Poplar Ave 93280, Wasco Kern County Curbside Mail Ballot Drop Off October 7, 2024 - Ballot Drop Box locations open 24 hours a day Arvin Branch Library 201 Campus Dr., 93203 Kern County Elections Office 1115 Truxtun Ave., 93301 Kern County Fire Station #67 14341 Brimhall Rd., 93314 Holloway-Gonzales Branch Library 506 E.
+Brundage Ln., 93307 Kern County Public Works Road Yard 5438 Victor St., 93308 California State University, Bakersfield 9001 Stockdale Hwy, 93311 Bakersfield Community College 1801 Panorama Dr., 93305 Greenfield Senior Center (Ben Austin) 1751 McKee Rd., 93307 California City Branch Library 9507 California City Blvd.,93505 Delano Branch Library 925 10th Ave, 93215 Frazier Park Branch Library 3732 Park Dr., 93225 Kern County Superior Court 7046 Lake Isabella Blvd., 93240 Kern County Human Services 8300 Sugrue Rd., 93241 McFarland Branch Library 500 W.
+Kern Ave., 93250 Kern County Superior Court 132 E.
+Caso Ave., 93555 Rosamond Branch Library 3611 W.
+Rosamond Blvd., 93560 Kern County Fire Station #32 325 Sunset Ave., 93268 Taft Branch Library 27 Cougar Ct., 93268 Tehachapi Branch Library 212 S.
+Green St., 93561 Wasco Branch Library 1102 7th St., 93280 Kern County Special Assistance Satellite Offices Satellite election offices available for voter assistance, including replacement of lost or spoiled ballots, conditional voter registration, language or accessibility assistance, and for drop-off of mail ballots, are tentatively scheduled follows: Frazier Park Library 3732 Park Drive, Frazier Park, 93225 Tuesday, October 20th, 12pm - 6pm Wasco Library 1102 7th Street, Wasco, 93280 Wednesday, October 21st, 12pm - 6pm Arvin Library 201 Campus Drive, Arvin, 93203 Thursday, October 22nd, 12pm - 6pm Ridgecrest Library 131 East Las Flores Avenue, Ridgecrest, 93555 Friday, October 23rd, 12pm - 6pm Kern River Valley Library 7054 Lake Isabella Boulevard, Lake Isabella, 93240 Tuesday, October 27th, 12pm - 6pm Rosamond Library 3611 Rosamond Boulevard, Rosamond, 93560 Wednesday, October 28th, 12pm - 6pm Delano Library 925 Tenth Avenue, Delano, 93215 Thursday, October 29th, 12pm - 6pm Ridgecrest Library 131 East Las Flores Avenue, Ridgecrest, 93555 Friday, October 30th, 12pm - 6pm JOIN THE FIGHT!
+DONATE Please contribute to our campaign for California’s future and help us bring a new day to the valley. $5 $10 $25 $50 Home Voter Information About David Get Involved Issues News Media Donate Español Follow us.
+Privacy Policy | © Copyright #.
+All rights reserved.
+Paid for by Valadao for Congress | P.O.
+Box 839, Hanford, CA 93232

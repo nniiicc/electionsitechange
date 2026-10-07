@@ -1,22 +1,114 @@
 [
-"https://app.leg.wa.gov/BillSponsorship/Member?Biennium=2023-24&Chamber=House&ChannelName=griffey",
-"https://app.leg.wa.gov/districtfinder/displaydistrict/35",
-"https://dangriffey.houserepublicans.wa.gov/",
-"https://dangriffey.houserepublicans.wa.gov/news-media",
-"https://facebook.com/Griffey4StateHouse",
-"https://facebook.com/wix",
-"https://griffeyforstatehouse.com/",
-"https://griffeyforstatehouse.com/about",
-"https://griffeyforstatehouse.com/blog",
-"https://griffeyforstatehouse.com/contact",
-"https://griffeyforstatehouse.com/media",
-"https://griffeyforstatehouse.com/priorities",
-"https://griffeyforstatehouse.com/terms-and-conditions",
-"https://instagram.com/repdangriffey",
-"https://instagram.com/wix",
-"https://linkedin.com/company/wix-com",
-"https://secure.winred.com/griffey-4-state-house/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true",
-"https://twitter.com/dggriffey?lang=en",
-"https://twitter.com/wix",
-"https://voter.votewa.gov/WhereToVote.aspx"
+{
+"text": "ABOUT",
+"href": "https://www.griffeyforstatehouse.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.griffeyforstatehouse.com/contact"
+},
+{
+"text": "DAN GRIFFEY",
+"href": "https://www.griffeyforstatehouse.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/griffey-4-state-house/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+},
+{
+"text": "DanielGriffey@gmail.com",
+"href": "mailto:DanielGriffey@gmail.com"
+},
+{
+"text": "Find My Legislative District",
+"href": "https://app.leg.wa.gov/districtfinder/displaydistrict/35"
+},
+{
+"text": "HOME",
+"href": "https://www.griffeyforstatehouse.com"
+},
+{
+"text": "Legislative News & Media",
+"href": "https://dangriffey.houserepublicans.wa.gov/news-media/"
+},
+{
+"text": "Legislative Website",
+"href": "https://dangriffey.houserepublicans.wa.gov"
+},
+{
+"text": "MEDIA",
+"href": "https://www.griffeyforstatehouse.com/media"
+},
+{
+"text": "NEWS",
+"href": "https://www.griffeyforstatehouse.com/blog"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.griffeyforstatehouse.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.griffeyforstatehouse.com/terms-and-conditions"
+},
+{
+"text": "Register To Vote / Check My Voter Registration",
+"href": "https://voter.votewa.gov/WhereToVote.aspx"
+},
+{
+"text": "Sponsored Bills",
+"href": "https://app.leg.wa.gov/BillSponsorship/Member?Biennium=2023-24&Chamber=House&ChannelName=griffey"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.griffeyforstatehouse.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.griffeyforstatehouse.com/contact"
+},
+{
+"text": "Ways To Help",
+"href": "https://www.griffeyforstatehouse.com/contact"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Griffey4StateHouse"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Griffey 35th logo]",
+"href": "https://www.griffeyforstatehouse.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/repdangriffey/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/dggriffey?lang=en"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "[image: griffey_new.png]",
+"href": "https://www.griffeyforstatehouse.com"
+},
+{
+"text": "• DanielGriffey@gmail.com",
+"href": "mailto:DanielGriffey@gmail.com"
+}
 ]

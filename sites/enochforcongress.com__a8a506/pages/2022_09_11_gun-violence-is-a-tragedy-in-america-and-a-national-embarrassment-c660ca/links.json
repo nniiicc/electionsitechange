@@ -1,36 +1,162 @@
 [
-"https://campaignhq.app/volunteer",
-"https://enochforcongress.com/",
-"https://enochforcongress.com/2022/09/11/enoch_advocates_for_veterans",
-"https://enochforcongress.com/2022/09/11/gun-violence-is-a-tragedy-in-america-and-a-national-embarrassment",
-"https://enochforcongress.com/2024/01/06/thats-racist",
-"https://enochforcongress.com/2024/08/01/i-will-fight-every-day-for-a-womans-right-to-safe-accessible-and-affordable-reproductive-care",
-"https://enochforcongress.com/2026/02/02/why-im-running-again",
-"https://enochforcongress.com/2026/03/08/war-requires-the-voice-of-the-people",
-"https://enochforcongress.com/about-ohios-8th-congressional-district",
-"https://enochforcongress.com/bio",
-"https://enochforcongress.com/blog",
-"https://enochforcongress.com/category/news",
-"https://enochforcongress.com/community-survey",
-"https://enochforcongress.com/contact",
-"https://enochforcongress.com/donate-now",
-"https://enochforcongress.com/endorsements",
-"https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting",
-"https://enochforcongress.com/events",
-"https://enochforcongress.com/issue",
-"https://enochforcongress.com/product/free-yard-sign",
-"https://enochforcongress.com/shop",
-"https://enochforcongress.com/volunteer",
-"https://enochforcongress.com/volunteer-portal",
-"https://enochforcongress.com/voting-in-2026",
-"https://facebook.com/1DocEnoch",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fenochforcongress.com%2F2022%2F09%2F11%2Fgun-violence-is-a-tragedy-in-america-and-a-national-embarrassment%2F",
-"https://instagram.com/doc.enoch",
-"https://linkedin.com/in/dr-vanessa-enoch",
-"https://pinterest.com/EnochforCongress",
-"https://reddit.com/submit?url=https%3A%2F%2Fenochforcongress.com%2F2022%2F09%2F11%2Fgun-violence-is-a-tragedy-in-america-and-a-national-embarrassment%2F",
-"https://s-sols.com/products/wordpress/accelerator",
-"https://twitter.com/DrVEnoch",
-"https://twitter.com/share?url=https%3A%2F%2Fenochforcongress.com%2F2022%2F09%2F11%2Fgun-violence-is-a-tragedy-in-america-and-a-national-embarrassment%2F",
-"https://usnews.com/news/the-report/articles/2022-05-27/uvalde-buffalo-shootings-expose-the-myth-of-the-good-guy-with-a-gun"
+{
+"text": "About",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Biography",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Blog",
+"href": "https://enochforcongress.com/blog/"
+},
+{
+"text": "Contact",
+"href": "https://enochforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://enochforcongress.com/donate-now/"
+},
+{
+"text": "Endorsements",
+"href": "https://enochforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "FBI report",
+"href": "https://www.usnews.com/news/the-report/articles/2022-05-27/uvalde-buffalo-shootings-expose-the-myth-of-the-good-guy-with-a-gun"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/1DocEnoch/"
+},
+{
+"text": "Gun violence is a tragedy in America, and a national embarrassment.",
+"href": "https://enochforcongress.com/2022/09/11/gun-violence-is-a-tragedy-in-america-and-a-national-embarrassment/"
+},
+{
+"text": "Home",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "I will fight every day for a woman’s right to safe, accessible, and affordable reproductive care",
+"href": "https://enochforcongress.com/2024/08/01/i-will-fight-every-day-for-a-womans-right-to-safe-accessible-and-affordable-reproductive-care/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/doc.enoch/"
+},
+{
+"text": "Issues",
+"href": "https://enochforcongress.com/issue/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/dr-vanessa-enoch/"
+},
+{
+"text": "News",
+"href": "https://enochforcongress.com/category/news/"
+},
+{
+"text": "October Wooster Corridor Democrats Meeting",
+"href": "https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting/"
+},
+{
+"text": "Ohio’s 8th Congressional District",
+"href": "https://enochforcongress.com/about-ohios-8th-congressional-district/"
+},
+{
+"text": "Order a Yard Sign",
+"href": "https://enochforcongress.com/product/free-yard-sign/"
+},
+{
+"text": "Pinterest",
+"href": "https://www.pinterest.com/EnochforCongress/"
+},
+{
+"text": "Share Your Opinion",
+"href": "https://enochforcongress.com/community-survey/"
+},
+{
+"text": "Shop",
+"href": "https://enochforcongress.com/shop/"
+},
+{
+"text": "That’s Racist!",
+"href": "https://enochforcongress.com/2024/01/06/thats-racist/"
+},
+{
+"text": "That’s Racist! →",
+"href": "https://enochforcongress.com/2024/01/06/thats-racist/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/DrVEnoch"
+},
+{
+"text": "Upcoming Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "Volunteer",
+"href": "https://campaignhq.app/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://enochforcongress.com/volunteer/"
+},
+{
+"text": "Volunteer Portal",
+"href": "https://enochforcongress.com/volunteer-portal/"
+},
+{
+"text": "Voting in 2026",
+"href": "https://enochforcongress.com/voting-in-2026/"
+},
+{
+"text": "War Requires the Voice of the People",
+"href": "https://enochforcongress.com/2026/03/08/war-requires-the-voice-of-the-people/"
+},
+{
+"text": "Why I’m Running Again…",
+"href": "https://enochforcongress.com/2026/02/02/why-im-running-again/"
+},
+{
+"text": "[image: Seraphinite Accelerator]Optimized by Seraphinite AcceleratorTurns on site high speed to be attractive for people and search engines.",
+"href": "https://www.s-sols.com/products/wordpress/accelerator"
+},
+{
+"text": "[image: Vanessa Enoch for Congress][image: Vanessa Enoch for Congress]",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://reddit.com/submit?url=https%3A%2F%2Fenochforcongress.com%2F2022%2F09%2F11%2Fgun-violence-is-a-tragedy-in-america-and-a-national-embarrassment%2F"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/share?url=https%3A%2F%2Fenochforcongress.com%2F2022%2F09%2F11%2Fgun-violence-is-a-tragedy-in-america-and-a-national-embarrassment%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fenochforcongress.com%2F2022%2F09%2F11%2Fgun-violence-is-a-tragedy-in-america-and-a-national-embarrassment%2F"
+},
+{
+"text": "[no text]",
+"href": "mailto:?body=https%3A%2F%2Fenochforcongress.com%2F2022%2F09%2F11%2Fgun-violence-is-a-tragedy-in-america-and-a-national-embarrassment%2F"
+},
+{
+"text": "dr.enoch@enochforcongress.com",
+"href": "mailto:dr.enoch@enochforcongress.com"
+},
+{
+"text": "← Enoch Advocates for Veterans in Need￼",
+"href": "https://enochforcongress.com/2022/09/11/enoch_advocates_for_veterans/"
+}
 ]

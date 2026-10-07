@@ -1,26 +1,106 @@
 [
-"https://bsky.app/profile/heskethforcongress.bsky.social",
-"https://congress.gov/bill/116th-congress/house-bill/2452",
-"https://congress.gov/bill/117th-congress/house-bill/3755",
-"https://congress.gov/bill/118th-congress/house-bill/4895",
-"https://congress.gov/bill/119th-congress/house-bill/3063",
-"https://congress.gov/bill/119th-congress/house-bill/71",
-"https://facebook.com/MissiHeskethforCongress",
-"https://instagram.com/missiformo",
-"https://missiformo.com/",
-"https://missiformo.com/endorsements",
-"https://missiformo.com/events",
-"https://missiformo.com/missi-merchandise",
-"https://missiformo.com/top-5-issues",
-"https://missiformo.com/volunteer",
-"https://secure.actblue.com/donate/missiformo",
-"https://secure.actblue.com/donate/missiformo?amount=1",
-"https://secure.actblue.com/donate/missiformo?amount=180",
-"https://secure.actblue.com/donate/missiformo?amount=22",
-"https://secure.actblue.com/donate/missiformo?amount=54",
-"https://secure.actblue.com/donate/missiformo?amount=8",
-"https://solidarity.tech/",
-"https://threads.net/@missiformo",
-"https://tiktok.com/@missiformo",
-"https://x.com/missiformo"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/missiformo?amount=1"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/missiformo?amount=180"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/missiformo?amount=22"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/missiformo?amount=54"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/missiformo?amount=8"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/missiformo"
+},
+{
+"text": "Endorsements",
+"href": "https://www.missiformo.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.missiformo.com/events"
+},
+{
+"text": "Merch",
+"href": "https://www.missiformo.com/missi-merchandise"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/missiformo"
+},
+{
+"text": "READ THE BILL",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/2452"
+},
+{
+"text": "READ THE BILL",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/3755"
+},
+{
+"text": "READ THE BILL",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4895"
+},
+{
+"text": "READ THE BILL",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3063"
+},
+{
+"text": "READ THE BILL",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/71"
+},
+{
+"text": "Solidarity Tech",
+"href": "https://www.solidarity.tech/"
+},
+{
+"text": "Top 5 Issues",
+"href": "https://www.missiformo.com/top-5-issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.missiformo.com/volunteer"
+},
+{
+"text": "[image: Missi Hesketh for Congress]",
+"href": "https://www.missiformo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/heskethforcongress.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MissiHeskethforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/missiformo"
+},
+{
+"text": "[no text]",
+"href": "https://www.solidarity.tech/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@missiformo"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@missiformo"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/missiformo"
+}
 ]

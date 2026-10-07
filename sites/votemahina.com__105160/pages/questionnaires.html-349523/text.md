@@ -1,6 +1,5 @@
-The Civil Beat questionnaire covered ground on some of our State's most pressing issues.
-To learn more about how I plan to approach issues such as over tourism, economic diversification, and government corruption click, visit this link: www.civilbeat.org/2022/07/candidate-qa-state-house-district-13-mahina-poepoe/
-The Maui Nui Food Alliance invited Maui County candidates to share their food system priorities.
-To lean more about my priorities and the work I've done to increase food security, visit this link: www.mauinuifoodalliance.org/2022-candidate-survey/mahina-peopoe
-The Hawai'i Public Health Institute queried candidates on their positions related to a range of public health issues, such as tobacco, healthy living, and senior care.
-To learn more about my policy positions on these and other top of mind health care topics, visit this link: www.hiphi.org/wp-content/uploads/2022/07/Response_Mahina_Poepoe.pdf
+Home About Me Priority Issues Experience Media Press Questionnaires Donate Contact Home About Me Priority Issues Experience Media Press Questionnaires Donate Contact Questionnaires Here are links to questionnaire responses covering a range of topics affecting our State, Counties, and communities.
+Statewide Issues The Civil Beat questionnaire covered ground on some of our State's most pressing issues.
+To learn more about how I plan to approach issues such as over tourism, economic diversification, and government corruption click, visit this link: www.civilbeat.org/2022/07/candidate-qa-state-house-district-13-mahina-poepoe/ Food Security The Maui Nui Food Alliance invited Maui County candidates to share their food system priorities.
+To lean more about my priorities and the work I've done to increase food security, visit this link: www.mauinuifoodalliance.org/2022-candidate-survey/mahina-peopoe Health Care The Hawai'i Public Health Institute queried candidates on their positions related to a range of public health issues, such as tobacco, healthy living, and senior care.
+To learn more about my policy positions on these and other top of mind health care topics, visit this link: www.hiphi.org/wp-content/uploads/2022/07/Response_Mahina_Poepoe.pdf Proudly powered by Weebly

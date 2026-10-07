@@ -1,7 +1,7 @@
-They Just Took A Blow Torch To Your Privacy.
-The State House
-Just Took A Blow Torch
-To Your Privacy.
+Skip to main content Fighting for you.
+Join the movement.
+Donate Volunteer Democratic Primary · Sept 1, 2026 Meet Erika Platform Newsletter Donate Meet Erika Platform Newsletter Endorsements Get Involved Donate Newsletter · April 9, 2026 They Just Took A Blow Torch To Your Privacy.
+Legislative Alert The State House Just Took A Blow Torch To Your Privacy.
 The House passed a bill requiring every social media user in Massachusetts to hand their identity to a company in California.
 I voted no.
 Yesterday the House passed a bill that took a blow torch to your privacy.
@@ -26,12 +26,10 @@ According to the Trevor Project’s 2024 survey of over 18K LGBTQ+ youth, 74% go
 Plus there are about 8,000 kids in state custody with no parent available to consent at all.
 This bill locks them out.
 This is why I filed my amendments which include privacy protections directing the AG to find ways to verify age without platforms collecting your identity.
-A trusted adult pathway so a school counselor or doctor could provide consent when a kid isn’t safe going to their parent (same standard we already use for adolescent mental health care).
+A trusted adult pathway so a school counselor or doctor could provide consent when a kid isn’t safe going to their parent (same standard we already use for adolescent mental health care ).
 The House chose not to adopt them.
 This is why ACLU and leading LGBTQIA+ advocacy organizations including the Trevor Project, GLAAD, Lambda Legal, and the Transgender Law Center oppose age-minimum social media bans.
-Their coalition letter states clearly that we are attacking the wrong problem:
-“[T]hese bills take one of the broadest and most dangerous approaches possible: cutting young people off from account-based online spaces altogether instead of addressing specific product harms, business practices, or design choices.”
-Last summer the Senate voted on a ban on cell phones in schools, yesterday the House tacked on the social media ban to the cell phone ban bill.
+Their coalition letter states clearly that we are attacking the wrong problem: “[T]hese bills take one of the broadest and most dangerous approaches possible: cutting young people off from account-based online spaces altogether instead of addressing specific product harms, business practices, or design choices.” Last summer the Senate voted on a ban on cell phones in schools, yesterday the House tacked on the social media ban to the cell phone ban bill.
 The bill now goes to conference committee.
 But we’re not done with this fight.
 Not even close.
@@ -40,5 +38,19 @@ The more people who understand what actually passed, the harder it is to ignore 
 P.S.
 This is the work I do every session on every bill.
 Filing amendments, fighting for things that aren’t popular with leadership but matter to you and our communities, and voting no when the bill is invading our privacy and harming us.
-If you want to make sure this work continues, support my campaign here.
-Follow on Instagram · Follow on Bluesky
+If you want to make sure this work continues, support my campaign here .
+Follow on Instagram · Follow on Bluesky ← All Newsletters Stay Connected Get the next one in your inbox.
+Subscribe to Erika's newsletter.
+Donate Now Volunteer Fighting for you in Somerville, Medford, Cambridge, and Winchester.
+Learn Meet Erika Platform Endorsements Newsletters Act Volunteer Donate Vote Press Endorse Erika Instagram Call or text Erika: (857) 264-1096 Email: erika@electerika.com Paid for by Committee to Elect Erika Uyterhoeven · Somerville, MA Contributions are not tax-deductible · $1,000 max per individual per calendar year · Privacy Policy × Join the movement Your rent.
+Your energy bill.
+Your kids' school.
+Know what's really happening.
+Every week I break down the contracts, the votes, and the deals that affect your life, and who is responsible.
+Two emails.
+No press releases.
+Count me in ✓ You're in.
+Welcome to the fight.
+No spam.
+Unsubscribe anytime.
+We never share your email.

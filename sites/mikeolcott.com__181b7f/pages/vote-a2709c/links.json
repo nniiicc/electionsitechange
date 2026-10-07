@@ -1,25 +1,102 @@
 [
-"http://facebook.com/votemikeolcott",
-"http://twitter.com/olcott4texas",
-"https://co.palo-pinto.tx.us/page/November2024Election",
-"https://co.palo-pinto.tx.us/page/open/1803/0/Primary%20Early%20Voting%20Dates%20and%20Locations",
-"https://co.stephens.tx.us/page/stephens.Elections",
-"https://google.com/maps/d/viewer?mid=1KlKhSPxjBOmPnjPLaIPb9BCt59hzQAU&usp=sharing",
-"https://google.com/maps/d/viewer?mid=1cvelc63wiy-fiIeZNaSBEQKALGRN2cQ&usp=sharing",
-"https://mikeolcott.com/",
-"https://mikeolcott.com/2022-endorsements",
-"https://mikeolcott.com/2022-testimonials",
-"https://mikeolcott.com/2024-endorsements",
-"https://mikeolcott.com/2026-endorsements",
-"https://mikeolcott.com/about",
-"https://mikeolcott.com/contact-form",
-"https://mikeolcott.com/donate",
-"https://mikeolcott.com/issues",
-"https://mikeolcott.com/october-19-fundraiser",
-"https://mikeolcott.com/vote",
-"https://parkercountytx.com/118/Elections",
-"https://parkercountytx.gov/530/Early-Vote-and-Election-Day-Locations",
-"https://parkercountytx.gov/DocumentCenter/View/12897/EARLY-VOTING-SITES-AND-HOURS",
-"https://parkercountytx.gov/DocumentCenter/View/13026/EDSitesOnlyMarch32026",
-"https://wrm.capitol.texas.gov/fyiwebdocs/PDF/house/dist60/m1.pdf"
+{
+"text": "2022 Endorsements",
+"href": "https://mikeolcott.com/2022-endorsements/"
+},
+{
+"text": "2022 Testimonials",
+"href": "https://mikeolcott.com/2022-testimonials/"
+},
+{
+"text": "2024 Endorsements",
+"href": "https://mikeolcott.com/2024-endorsements/"
+},
+{
+"text": "2026 Endorsements",
+"href": "https://mikeolcott.com/2026-endorsements/"
+},
+{
+"text": "About",
+"href": "https://mikeolcott.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://mikeolcott.com/contact-form/"
+},
+{
+"text": "Donate",
+"href": "https://mikeolcott.com/donate/"
+},
+{
+"text": "Early Voting Locations Map",
+"href": "https://www.google.com/maps/d/viewer?mid=1KlKhSPxjBOmPnjPLaIPb9BCt59hzQAU&usp=sharing"
+},
+{
+"text": "Early Voting Times and Locations Printer Friendly Version",
+"href": "https://www.parkercountytx.gov/DocumentCenter/View/12897/EARLY-VOTING-SITES-AND-HOURS?bidId="
+},
+{
+"text": "Election Day Locations Map",
+"href": "https://www.google.com/maps/d/viewer?mid=1cvelc63wiy-fiIeZNaSBEQKALGRN2cQ&usp=sharing"
+},
+{
+"text": "Election Day Time and Locations Printer Friendly Version",
+"href": "https://www.parkercountytx.gov/DocumentCenter/View/13026/EDSitesOnlyMarch32026?bidId="
+},
+{
+"text": "Election Day and Early Voting Times and Locations",
+"href": "https://www.co.stephens.tx.us/page/stephens.Elections"
+},
+{
+"text": "Election Day and Early Voting Times and Locations",
+"href": "https://www.parkercountytx.gov/530/Early-Vote-and-Election-Day-Locations"
+},
+{
+"text": "Election Day and Early Voting Times and Locations Print Friendly Version",
+"href": "https://www.co.palo-pinto.tx.us/page/open/1803/0/Primary%20Early%20Voting%20Dates%20and%20Locations"
+},
+{
+"text": "Follow",
+"href": "http://facebook.com/votemikeolcott/"
+},
+{
+"text": "Follow",
+"href": "http://twitter.com/olcott4texas"
+},
+{
+"text": "Home",
+"href": "https://mikeolcott.com/"
+},
+{
+"text": "Issues",
+"href": "https://mikeolcott.com/issues/"
+},
+{
+"text": "October 19 Event",
+"href": "https://mikeolcott.com/october-19-fundraiser/"
+},
+{
+"text": "PALO PINTO COUNTY ELECTION INFORMATION",
+"href": "https://www.co.palo-pinto.tx.us/page/November2024Election"
+},
+{
+"text": "PARKER COUNTY ELECTION INFORMATION",
+"href": "https://www.parkercountytx.com/118/Elections"
+},
+{
+"text": "STEPHENS COUNTY ELECTION INFORMATION",
+"href": "https://www.co.stephens.tx.us/page/stephens.Elections"
+},
+{
+"text": "Vote",
+"href": "https://mikeolcott.com/vote/"
+},
+{
+"text": "You can vote for Mike Olcott if you live in Parker, Palo Pinto and Stephens Counties",
+"href": "https://wrm.capitol.texas.gov/fyiwebdocs/PDF/house/dist60/m1.pdf"
+},
+{
+"text": "[image: Mike Olcott for Texas House]",
+"href": "https://mikeolcott.com/"
+}
 ]

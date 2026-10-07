@@ -1,10 +1,3 @@
-Back to All Events
-Help us connect with voters across the 66th Assembly district!
+0 Skip to Content Home About Platform Endorsements Events Donate Open Menu Close Menu Donate Home About Platform Endorsements Events Open Menu Close Menu Home About Platform Endorsements Events Donate Back to All Events Abingdon Square Greenmarket Canvass Saturday, May 30, 2026 9:00 AM 12:00 PM Google Calendar ICS Help us connect with voters across the 66th Assembly district!
 We'll be engaging with voters at the Abingdon Square Greenmarket all Saturday morning.
-Previous
-Previous
-May 29
-West Village Canvass
-Next
-Next
-May 30
+RSVP Previous Previous May 29 West Village Canvass Next Next May 30 West Village Canvass hello@ryderfornewyork.com Paid for by Ryder for New York 2026

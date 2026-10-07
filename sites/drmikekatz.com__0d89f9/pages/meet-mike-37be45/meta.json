@@ -1,7 +1,16 @@
 {
  "description": "Dr. Mike Katz is a physician, business owner, and former Delaware State Senator running for U.S. Senate in 2026.",
  "final_url": "https://drmikekatz.com/meet-mike",
+ "fingerprint": "3f686a61064644aa7d0620bf8fcc68905d2ad684",
+ "format": 3,
  "paid_for_by": "Paid for by Dr",
- "title": "Meet Dr. Mike Katz \u2014 Katz for Delaware",
- "years_mentioned": []
+ "title": "Meet Dr. Mike Katz — Katz for Delaware",
+ "years_mentioned": [
+  "1994",
+  "1996",
+  "2009",
+  "2013",
+  "2024",
+  "2026"
+ ]
 }

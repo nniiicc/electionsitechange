@@ -1,8 +1,38 @@
 [
-"https://jakeforflorida.com/",
-"https://jakeforflorida.com/achievements",
-"https://jakeforflorida.com/community",
-"https://jakeforflorida.com/platform",
-"https://jakeforflorida.com/volunteer",
-"https://jakeforflorida.com/why-choose-jake"
+{
+"text": "Achievements",
+"href": "https://www.jakeforflorida.com/achievements"
+},
+{
+"text": "Contact Us",
+"href": "https://www.jakeforflorida.com"
+},
+{
+"text": "Home",
+"href": "https://www.jakeforflorida.com"
+},
+{
+"text": "Jake@JakeForFlorida.com",
+"href": "mailto:Jake@JakeForFlorida.com"
+},
+{
+"text": "Learn More",
+"href": "https://www.jakeforflorida.com"
+},
+{
+"text": "Platform",
+"href": "https://www.jakeforflorida.com/community"
+},
+{
+"text": "Strategic Vision",
+"href": "https://www.jakeforflorida.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jakeforflorida.com/volunteer"
+},
+{
+"text": "Why Choose Jake",
+"href": "https://www.jakeforflorida.com/why-choose-jake"
+}
 ]

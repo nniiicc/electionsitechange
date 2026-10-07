@@ -1,6 +1,7 @@
+Home About Donations Gallery Contact Brenda More Home About Donations Gallery Contact Brenda Home About Donations Gallery Contact Brenda Contribute to our campaign!
 Idaho is at an important crossroads, and your support can make a real difference.
 By contributing to the Brenda Quick for Senate campaign, you are investing in a stronger future for Idaho families, businesses, and communities.
 Every donation, no matter the size, helps fund grassroots outreach, connect with voters across the state, and share a vision centered on opportunity, common sense leadership, and Idaho values.
 Together, we can build momentum, elevate local voices, and work toward a future that benefits all Idahoans.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Quick For Idaho Copyright © # Quick For Idaho - All Rights Reserved.
+Powered by

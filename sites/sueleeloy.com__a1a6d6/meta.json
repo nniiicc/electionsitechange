@@ -1,12 +1,16 @@
 {
  "description": "Sue Lee Loy is running for State House District 2 in the upcoming 2024 election. Learn how you can support the campaign.",
  "final_url": "https://www.sueleeloy.com/",
- "paid_for_by": null,
+ "fingerprint": "a0ed4f9cd8cd16310f5de39a2572654521b4e112",
+ "format": 3,
+ "paid_for_by": "",
  "title": "HOME | Vote Lee Loy",
  "years_mentioned": [
   "2016",
   "2018",
   "2020",
-  "2022"
+  "2021",
+  "2022",
+  "2023"
  ]
 }

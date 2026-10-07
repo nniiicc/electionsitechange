@@ -1,4 +1,5 @@
-Small Business Owner.
+Skip to content Shane Mekeland State Representative House District 27A Home About Me Donate Contact Rep.
+Shane Mekeland for HD 27A Donate Small Business Owner.
 Building Contractor.
 Endorsed Republican Candidate.
 I am a lifelong Minnesotan.
@@ -24,7 +25,8 @@ The Foley wastewater plant also is feeling the burden of MPCA bureaucracy and ne
 I am fiercely pro-life, pro-family, and pro-Second Amendment.
 I am also pro-10th Amendment, which means I believe in state sovereignty against unconstitutional infringements by the federal government.
 And I support an all-of-the-above approach to energy to help deliver affordable, reliable power to Minnesotans instead of following ill-advised liberal policies that would cause instability in our state.
-Thank you for your support and I would be honored to receive your vote this Nov. 4 so I may return to St.
+Thank you for your support and I would be honored to receive your vote this Nov.
+4 so I may return to St.
 Paul and continue representing the people of District 15B.
 Next Steps...
-Contribute to Shane Mekeland's campaign:
+Contribute to Shane Mekeland's campaign: Donate Follow Me Twitter Facebook Contact Us Email shane@shanemekeland.com Prepared & Paid for by Shane Mekeland for MN house of Representatives

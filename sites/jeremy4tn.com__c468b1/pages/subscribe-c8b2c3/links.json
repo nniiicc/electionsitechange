@@ -1,15 +1,54 @@
 [
-"https://hub.jeremy4tn.com/pledge",
-"https://hub.jeremy4tn.com/preferences/request",
-"https://jeremy4tn.com/",
-"https://jeremy4tn.com/bio",
-"https://jeremy4tn.com/cdn-cgi/l/email-protection",
-"https://jeremy4tn.com/events",
-"https://jeremy4tn.com/platform",
-"https://jeremy4tn.com/privacy",
-"https://jeremy4tn.com/sms-terms",
-"https://jeremy4tn.com/terms",
-"https://jeremy4tn.com/volunteer",
-"https://jeremy4tn.com/vote",
-"https://secure.anedot.com/jeremy-4-tn/signs"
+{
+"text": "About",
+"href": "https://jeremy4tn.com/bio"
+},
+{
+"text": "Complete the Volunteer Survey",
+"href": "https://jeremy4tn.com/volunteer"
+},
+{
+"text": "Count Me In",
+"href": "https://hub.jeremy4tn.com/pledge"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jeremy-4-tn/signs"
+},
+{
+"text": "Events",
+"href": "https://jeremy4tn.com/events"
+},
+{
+"text": "Platform",
+"href": "https://jeremy4tn.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jeremy4tn.com/privacy"
+},
+{
+"text": "SMS Terms",
+"href": "https://jeremy4tn.com/sms-terms"
+},
+{
+"text": "Terms of Service",
+"href": "https://jeremy4tn.com/terms"
+},
+{
+"text": "Update Communication Preferences",
+"href": "https://hub.jeremy4tn.com/preferences/request"
+},
+{
+"text": "Voting Info",
+"href": "https://jeremy4tn.com/vote"
+},
+{
+"text": "[email protected]",
+"href": "mailto:legal@jeremy4tn.com"
+},
+{
+"text": "[image] Jeremy 4 TN",
+"href": "https://jeremy4tn.com/"
+}
 ]

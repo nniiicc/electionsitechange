@@ -1,8 +1,5 @@
-We’re starting a little later today, and we’ll see you at 2:00 PM at the Nokomis Sunset Hut.
+▼ 0 Skip to Content Montavon's Marathon About Meet Matthew The Platform CD 17 Events Contact Contribute DONATE Open Menu Close Menu Montavon's Marathon About Meet Matthew The Platform CD 17 Events Contact Contribute DONATE Open Menu Close Menu Montavon's Marathon Folder: About Back Meet Matthew The Platform CD 17 Events Contact Contribute DONATE Back to All Events Montavon's Marathon: Day 7 Saturday, October 3, 2026 2:00 PM 5:30 PM Nokomis Sunset Hut 690 South Tamiami Trail Nokomis, Florida, 34275 United States (map) Google Calendar ICS We’re starting a little later today, and we’ll see you at 2:00 PM at the Nokomis Sunset Hut.
 From there, we are heading north up the Tamiami Trail corridor, trekking through the beautiful trails of Osprey, and heading into South Sarasota.
 Today's route features world-class natural parklands and neighborhood staple venues perfect for lively community discussion.
-Day 7 Route & Highlights:
-- 2:00 PM Kickoff: Nokomis Sunset Hut, 690 Tamiami Trail, Nokomis, FL 34275
-- State Park Pit Stop: Oscar Scherer State Park, 1843 S Tamiami Trail, Osprey, FL 34229
-- Evening Wrap-Up Event: 6:00PM at the Mellow Mushroom, 6727 Tamiami Trail, Sarasota, FL 34231
-Stop by the state park to enjoy the outdoors and chat with the team, meet us for pizza and a policy discussion in the evening, or join Matthew on the road for a few blocks.
+Day 7 Route & Highlights: 2:00 PM Kickoff: Nokomis Sunset Hut, 690 Tamiami Trail, Nokomis, FL 34275 State Park Pit Stop: Oscar Scherer State Park, 1843 S Tamiami Trail, Osprey, FL 34229 Evening Wrap-Up Event: 6:00PM at the Mellow Mushroom, 6727 Tamiami Trail, Sarasota, FL 34231 Stop by the state park to enjoy the outdoors and chat with the team, meet us for pizza and a policy discussion in the evening, or join Matthew on the road for a few blocks.
+Previous Previous October 2 Montavon's Marathon: Day 6 Next Next October 4 Montavon's Marathon: Day 8 PRIVACY POLICY Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress

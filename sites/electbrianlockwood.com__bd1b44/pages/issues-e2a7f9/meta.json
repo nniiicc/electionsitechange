@@ -1,7 +1,11 @@
 {
  "description": "Brian Lockwood&#39;s plan to save AD 61.",
  "final_url": "https://www.electbrianlockwood.com/issues",
- "paid_for_by": null,
+ "fingerprint": "c160d9d99af03ee10480957e45c3f26143a02b4a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "The Plan",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

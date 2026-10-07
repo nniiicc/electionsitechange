@@ -1,28 +1,114 @@
 [
-"http://facebook.com/don.parsons.946",
-"http://facebook.com/parsonsforstatehouse",
-"http://x.com/",
-"https://cherokeega.com/",
-"https://cherokeegavotes.com/",
-"https://cobbcounty.org/elections",
-"https://donparsons.org/",
-"https://donparsons.org/2026_Session_Brief_Children_and_Families_Highlights.htm",
-"https://donparsons.org/2026_Session_Brief_Defense_and_Veterans_Highlights.pdf",
-"https://donparsons.org/2026_Session_Brief_Education_Highlights.pdf",
-"https://donparsons.org/2026_Session_Brief_Higher_Education_Highlights.pdf",
-"https://donparsons.org/2026_Session_Brief_Ways_and_Means_Highlights.pdf",
-"https://donparsons.org/2026_session_brief_economic_development_highlights.htm",
-"https://donparsons.org/2026_session_brief_health_and_human_services_highlights.htm",
-"https://donparsons.org/absentee_voting_by_mail.pdf",
-"https://donparsons.org/bio.htm",
-"https://donparsons.org/committee_assignments",
-"https://donparsons.org/hb463_reduce%20the%20personal%20income%20tax.pdf",
-"https://donparsons.org/hd44map.html",
-"https://donparsons.org/the_campaign.html",
-"https://facebook.com/parsonsforstatehouse",
-"https://legis.ga.gov/legislation/69550",
-"https://mvp.sos.ga.gov/s/advanced-voting-location-information?election=a0pcs00000J6e6HAAR&countyName=CHEROKEE&page=advpollingplace",
-"https://mvp.sos.ga.gov/s/advanced-voting-location-information?election=a0pcs00000J6e6HAAR&countyName=COBB&page=advpollingplace",
-"https://sos.ga.gov/elections-division-georgia-secretary-states-office",
-"https://youtube.com/channel/UCfEwVJDDCvz7tYxaZbiBErQ"
+{
+"text": "2026 Children and Family Highlights",
+"href": "https://donparsons.org/2026_Session_Brief_Children_and_Families_Highlights.htm"
+},
+{
+"text": "2026 Defense and Veterans Highlights",
+"href": "https://donparsons.org/2026_Session_Brief_Defense_and_Veterans_Highlights.pdf"
+},
+{
+"text": "2026 Higher Education Highlights",
+"href": "https://donparsons.org/2026_Session_Brief_Higher_Education_Highlights.pdf"
+},
+{
+"text": "2026 Session Education Highlights",
+"href": "https://donparsons.org/2026_Session_Brief_Education_Highlights.pdf"
+},
+{
+"text": "2026 Session Health Highlights",
+"href": "https://donparsons.org/2026_session_brief_health_and_human_services_highlights.htm"
+},
+{
+"text": "2026 Ways and Means Highlights",
+"href": "https://donparsons.org/2026_Session_Brief_Ways_and_Means_Highlights.pdf"
+},
+{
+"text": "Cherokee County Board of Elections",
+"href": "https://cherokeegavotes.com/"
+},
+{
+"text": "Cherokee County Government",
+"href": "https://www.cherokeega.com/"
+},
+{
+"text": "Cobb County Board of Elections",
+"href": "https://www.cobbcounty.org/elections"
+},
+{
+"text": "Committee Assignments",
+"href": "https://donparsons.org/committee_assignments"
+},
+{
+"text": "Don Parsons Bio",
+"href": "https://donparsons.org/bio.htm"
+},
+{
+"text": "Don on Issues",
+"href": "https://donparsons.org/the_campaign.html"
+},
+{
+"text": "Economic development highlights 202",
+"href": "https://donparsons.org/2026_session_brief_economic_development_highlights.htm"
+},
+{
+"text": "Email to: Don Parsons",
+"href": "mailto:repdon@donparsons.org"
+},
+{
+"text": "Follow me on FacebookFollow me on Facebook",
+"href": "https://www.facebook.com/parsonsforstatehouse"
+},
+{
+"text": "Follow me on X at",
+"href": "http://www.x.com"
+},
+{
+"text": "House Bill 463",
+"href": "https://donparsons.org/hb463_reduce%20the%20personal%20income%20tax.pdf"
+},
+{
+"text": "House District 44 Map",
+"href": "https://donparsons.org/hd44map.html"
+},
+{
+"text": "Link to Early Voting Locations in Cherokee County",
+"href": "https://mvp.sos.ga.gov/s/advanced-voting-location-information?election=a0pcs00000J6e6HAAR&countyName=CHEROKEE&page=advpollingplace"
+},
+{
+"text": "Link to Early Voting Locations in Cobb County",
+"href": "https://mvp.sos.ga.gov/s/advanced-voting-location-information?election=a0pcs00000J6e6HAAR&countyName=COBB&page=advpollingplace"
+},
+{
+"text": "Secretary of State Elections Page",
+"href": "https://sos.ga.gov/elections-division-georgia-secretary-states-office"
+},
+{
+"text": "Senate Bill 33",
+"href": "https://www.legis.ga.gov/legislation/69550"
+},
+{
+"text": "YouTube videos by Don Parsons",
+"href": "https://www.youtube.com/channel/UCfEwVJDDCvz7tYxaZbiBErQ"
+},
+{
+"text": "here",
+"href": "https://donparsons.org/absentee_voting_by_mail.pdf"
+},
+{
+"text": "home",
+"href": "https://donparsons.org"
+},
+{
+"text": "repdon@donparsons.org",
+"href": "mailto:repdon@donparsons.org"
+},
+{
+"text": "www.facebook.com/don.parsons.946",
+"href": "http://www.facebook.com/don.parsons.946"
+},
+{
+"text": "www.facebook.com/parsonsforstatehouse",
+"href": "http://www.facebook.com/parsonsforstatehouse"
+}
 ]

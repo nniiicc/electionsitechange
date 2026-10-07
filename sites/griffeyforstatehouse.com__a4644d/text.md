@@ -1,12 +1,11 @@
-Dear Friends,
-It is an honor to serve you in the Washington State Legislature.
+top of page HOME ABOUT PRIORITIES NEWS MEDIA CONTACT Ways To Help TERMS & CONDITIONS DONATE In Your Corner DAN GRIFFEY FOR STATE HOUSE (R) Dear Friends, ​ It is an honor to serve you in the Washington State Legislature.
 I have a passion to help people in need.
 I have traveled the district and knocked on tens of thousands of doors- each one inspiring me to do more.
 They would tell me that their property rights were being violated, that their businesses were continuing to take financial hits or that they had lost their job.
 I heard about excessive regulations that were choking growth and how criminals were taking advantage of the system or how our children’s education is suffering.
 They needed someone to fight for them.
 I am proud to answer that call.
-I was born and raised in Allyn, Washington.
+PRIORITIES ABOUT MEET DAN I was born and raised in Allyn, Washington.
 I married my childhood sweetheart Dinah and we have 3 beautiful daughters- Alyssa, Megan and Sarah, and 6 amazing grandchildren.
 Community means everything to our family.
 We frequently work on projects together and lend a hand wherever we can.
@@ -26,12 +25,5 @@ I am on the Local Government, Transportation, and Community Safety, Juctice, and
 In addition, I was elected to leadership as the House Republican Whip in 2019 by my peers.
 I enjoy advocating for ALL my constituents and have an open door and accessible phone- feel free to contact me about anything, anytime.
 Making a positive difference in the lives of our citizens is an amazing job and I am happy to work for you.
-2014
-Year
-Elected
-141
-Bills
-Passed
-424
-+
-Million to Benefit District
+2014 Year Elected 141 Bills Passed 424 + Million to Benefit District Anchor 1 NEWS Belfair Bypass Town Hall Oakland Bay Restoration Groundbreaking Griffey's Hope Card Bill Signed By Governor Get Involved Volunteer DONATE Si gn Up Ne ws + Updates Email Sign Up Thanks for subscribing!
+DAN GRIFFEY FOR STATE HOUSE ( R) In Your Corner PO Box 83 Allyn, WA 98524 (360) 204-9636 • DanielGriffey@gmail.com • Tax ID: 27-2697662 © # Griffey For State House ​ Paid for by Griffey For State House bottom of page

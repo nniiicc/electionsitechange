@@ -1,8 +1,7 @@
-Michaela Barnett is not working for corporate interests, the political establishment, or personal gain.
+Skip navigation menu Home About Priorities Volunteer Events Merch Donate Meet Michaela Barnett Home About Priorities Volunteer Events Merch Donate Meet Michaela Barnett Michaela Barnett is not working for corporate interests, the political establishment, or personal gain.
 Michaela is working for East Tennessee.
 Michaela Barnett is a small business owner and engineer who spent the last year working in Congress.
-And there, she saw what many of us feel in East Tennessee:
-Congress is not working for us.
+And there, she saw what many of us feel in East Tennessee: Congress is not working for us.
 Gas prices are soaring, groceries cost too much, our infrastructure is crumbling, and rents are out of control all across East Tennessee.
 Washington insiders on both sides of the aisle aren't working to make our lives better — they're waiting it out.
 That’s not how we build the future that we deserve.
@@ -20,3 +19,14 @@ But they are not unsolvable.
 A better future is possible - but we can't just hope for it.
 We have to work for it.
 Let's put hope to work.
+Frequently Asked Questions about Michaela What is Michaela's political party?
+What kind of scientist is Michaela?
+What did Michaela do in Congress?
+Where did Michaela grow up?
+What does Michaela do for a job?
+What position is Michaela running for?
+Do I live in Michaela's district?
+Who is Michaela running against?
+This is going to take all of us.
+Are you in?
+Join Us Donate Resources Email us : cavalry@michaelafortennessee.com Michaela for Tennessee PO Box 9116, Knoxville, TN 37940 Press Kit Powered by RUN! website builder Paid for By Michaela for Tennessee You need to enable JavaScript to run this app.

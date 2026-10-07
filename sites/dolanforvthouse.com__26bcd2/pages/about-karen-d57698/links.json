@@ -1,15 +1,62 @@
 [
-"https://dolanforvthouse.com/",
-"https://dolanforvthouse.com/about-karen",
-"https://dolanforvthouse.com/contact-karen",
-"https://dolanforvthouse.com/get-involved",
-"https://dolanforvthouse.com/news",
-"https://dolanforvthouse.com/priorities",
-"https://dolanforvthouse.com/voter-information",
-"https://facebook.com/Karen-Dolan-for-Vermont-House-108367920718252",
-"https://instagram.com/karendolanforvt",
-"https://legislature.vermont.gov/committee/detail/2022/17",
-"https://legislature.vermont.gov/committee/detail/2022/47",
-"https://legislature.vermont.gov/committee/detail/2024/18",
-"https://legislature.vermont.gov/committee/detail/2024/381"
+{
+"text": "About Karen",
+"href": "https://www.dolanforvthouse.com/about-karen"
+},
+{
+"text": "Contact Karen",
+"href": "https://www.dolanforvthouse.com/contact-karen"
+},
+{
+"text": "Get Involved",
+"href": "https://www.dolanforvthouse.com/get-involved"
+},
+{
+"text": "Government Accountability Committee",
+"href": "https://legislature.vermont.gov/committee/detail/2022/47"
+},
+{
+"text": "Home",
+"href": "https://www.dolanforvthouse.com/about-karen"
+},
+{
+"text": "House Corrections & Institutions Committee",
+"href": "https://legislature.vermont.gov/committee/detail/2022/17"
+},
+{
+"text": "House Judiciary Committee",
+"href": "https://legislature.vermont.gov/committee/detail/2024/18"
+},
+{
+"text": "News",
+"href": "https://www.dolanforvthouse.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.dolanforvthouse.com/priorities"
+},
+{
+"text": "Special Committee on Impeachment Inquiry",
+"href": "https://legislature.vermont.gov/committee/detail/2024/381"
+},
+{
+"text": "Voter Information",
+"href": "https://www.dolanforvthouse.com/voter-information"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/karendolanforvt/"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/Karen-Dolan-for-Vermont-House-108367920718252/"
+},
+{
+"text": "[image: logo.png]",
+"href": "https://www.dolanforvthouse.com"
+},
+{
+"text": "karen@dolanforvthouse.com",
+"href": "mailto:karen@dolanforvthouse.com"
+}
 ]

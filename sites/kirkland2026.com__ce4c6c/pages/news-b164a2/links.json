@@ -1,57 +1,262 @@
 [
-"https://abc10.com/article/news/health/coronavirus/california-gaming-association-governor-newsom-casinos-tribal-land/103-7176ee5c-5274-4473-9957-570c5be490b0",
-"https://abc10.com/article/news/local/california/judge-strikes-down-california-dojs-cardroom-blackjack-ban/103-54a63510-d3aa-4062-b12d-28c0efe71305",
-"https://abc30.com/archive/8298822",
-"https://abc30.com/archive/8794732",
-"https://abc30.com/post/club-one-casino-fresno-granite-park-gambling/11897253",
-"https://abc30.com/post/club-one-casino-owner-donates-to-ccspca/1561106",
-"https://abc30.com/post/club-one-casino-owner-saves-kitten-trapped-in-a-manhole/4299854",
-"https://agnetwest.com/kyle-kirkland-california-agriculture-congress-interview",
-"https://archive.nytimes.com/www.nytimes.com/interactive/2012/04/29/magazine/steinway-pianos.html",
-"https://ca.news.yahoo.com/california-proposition-26-voters-decide-001123547.html",
-"https://calmatters.org/commentary/2026/03/tribal-casinos-cardrooms-california-regulations",
-"https://calmatters.org/digital-democracy/2025/10/california-gambling-casinos-cardrooms",
-"https://calmatters.org/politics/2026/07/judge-blocks-bonta-california-blackjack-ban",
-"https://casinobeats.com/2026/08/10/california-cardrooms-take-aim-at-states-sweetheart-tribal-casino-deals",
-"https://casinoreports.com/cga-oped-california-communities-future",
-"https://ccspca.com/donation/thanks-kyle-kirkland",
-"https://city-journal.org/article/the-justice-departments-meddlesome-merger-policies",
-"https://clovisroundup.com/kirkland-foundation-uses-facebook-to-save-homeless-animals",
-"https://fresnobee.com/news/local/article253124358.html",
-"https://fresnobee.com/news/local/article314998952.html",
-"https://fresnobee.com/news/local/article316349192.html",
-"https://fresnobee.com/opinion/opn-columns-blogs/marek-warszawski/article284912722.html",
-"https://fresnobee.com/opinion/readers-opinion/article253059718.html",
-"https://gvwire.com/2021/09/29/the-sorry-saga-of-job-killer-maxwells-treatment-of-club-one",
-"https://gvwire.com/2024/01/17/my-ability-to-solve-problems-is-why-im-running-for-congress-kyle-kirkland",
-"https://gvwire.com/2026/03/10/california-cardrooms-mount-court-challenge-to-bontas-blackjack-ban",
-"https://kirkland2026.com/",
-"https://kirkland2026.com/donate",
-"https://kirkland2026.com/endorsements",
-"https://kirkland2026.com/news",
-"https://kirkland2026.com/privacy",
-"https://kirkland2026.com/terms",
-"https://kirkland2026.com/volunteer",
-"https://kmph.com/news/local/california-gaming-groups-sue-to-block-ag-bonta-approved-rules-restricting-cardroom-games",
-"https://latimes.com/business/story/2026-07-09/la-cardrooms-applaud-court-ruling-to-allow-blackjack",
-"https://nypost.com/2026/07/22/us-news/california-cashes-out-empty-handed-in-gavin-newsoms-tribal-casino-deal",
-"https://nytimes.com/1995/04/19/business/steinway-sons-is-sold-for-100-million.html",
-"https://nytimes.com/2003/07/19/nyregion/today-s-pianos-have-prelude-yesterday-s-steinway-family-legacy-pervades-factory.html",
-"https://nytimes.com/2003/11/26/nyregion/invention-for-900-hands-our-core-business-at-steinway-it-s-hammer-time.html",
-"https://nytimes.com/2013/07/13/arts/music/notes-of-sorrow-in-changes-at-steinway.html",
-"https://patch.com/california/temecula/pechanga-joins-tribal-lawsuit-against-california-cardrooms",
-"https://podcasts.apple.com/us/podcast/kyle-kirkland-congress-conservation/id1646494491?i=1000775710983",
-"https://prnewswire.com/news-releases/new-report-finds-california-cardroom-industry-generates-over-32-000-jobs-and-nearly-5-6-billion-in-annual-impact-on-states-economy-300954843.html",
-"https://sfchronicle.com/bayarea/article/Coronavirus-Cardrooms-cry-foul-as-California-15416189.php",
-"https://thebusinessjournal.com/a-word-with-kyle-kirkland-owner-of-club-one-casino",
-"https://thebusinessjournal.com/cardroom-workers-rally-in-fresno-against-state-proposal-to-ban-blackjack-style-games",
-"https://thebusinessjournal.com/foundation-seeks-rescue-of-downtown-fresno-strays",
-"https://thebusinessjournal.com/fresno-casino-owner-donates-1m-to-fresno-chaffee-zoo",
-"https://thebusinessjournal.com/new-club-one-casino-location-gets-approval-with-limited-tables",
-"https://thedodo.com/daily-dodo/rescuers-stop-at-nothing-to-save-furry-baby-trapped-deep-in-underground-pipe",
-"https://tiktok.com/@gvwire/video/7582742467552775455",
-"https://yourcentralvalley.com/news/local-news/fresno-cat-prosthetic-legs",
-"https://yourcentralvalley.com/news/local-news/kirkland-rios-costa-congressional-district-race",
-"https://yourcentralvalley.com/news/local-news/kitten-stuck-in-sanger-sewage-line-for-2-days-rescued",
-"https://yourcentralvalley.com/news/local-news/no-feet-pete-fresno-cat-left-for-dead-to-get-leg-implants-from-italy"
+{
+"text": "Apr 19, 1995 • The New York Times Steinway & Sons Is Sold for $100 Million Archive",
+"href": "https://www.nytimes.com/1995/04/19/business/steinway-sons-is-sold-for-100-million.html"
+},
+{
+"text": "Aug 1, 2011 • ABC30 Summer Splash Kirkland Foundation",
+"href": "https://abc30.com/archive/8298822/"
+},
+{
+"text": "Aug 1, 2012 • The New York Times Steinway Pianos: A Photo Essay Archive",
+"href": "https://archive.nytimes.com/www.nytimes.com/interactive/2012/04/29/magazine/steinway-pianos.html"
+},
+{
+"text": "Aug 1, 2021 • The Business Journal New Club One Casino location gets approval with limited tables Business",
+"href": "https://thebusinessjournal.com/new-club-one-casino-location-gets-approval-with-limited-tables/"
+},
+{
+"text": "Aug 1, 2025 • Casino Reports Op-Ed: California Communities' Future at Stake in Cardroom Battle Gaming Industry",
+"href": "https://www.casinoreports.com/cga-oped-california-communities-future/"
+},
+{
+"text": "Aug 1, 2025 • Your Central Valley New Feet Pete: Fresno cat gets prosthetic legs Kirkland Foundation",
+"href": "https://www.yourcentralvalley.com/news/local-news/fresno-cat-prosthetic-legs/"
+},
+{
+"text": "Aug 10, 2026 • AgNet West Business Leader Kyle Kirkland Outlines Vision for California's Future Campaign News",
+"href": "https://agnetwest.com/kyle-kirkland-california-agriculture-congress-interview/"
+},
+{
+"text": "Aug 10, 2026 • CasinoBeats California Cardrooms Take Aim at State's 'Sweetheart' Tribal Casino Deals Gaming Industry",
+"href": "https://casinobeats.com/2026/08/10/california-cardrooms-take-aim-at-states-sweetheart-tribal-casino-deals/"
+},
+{
+"text": "Campaign News • Aug 2026 Business Leader Kyle Kirkland Outlines Vision for California's Future Kyle Kirkland talks agriculture, water, energy, and housing with AgNet West, making the case that California's problems are fixable with practical, business-minded leadership. AgNet West →",
+"href": "https://agnetwest.com/kyle-kirkland-california-agriculture-congress-interview/"
+},
+{
+"text": "Contact",
+"href": "https://kirkland2026.com#contact"
+},
+{
+"text": "Dec 1, 2025 • GV Wire TikTok Unfiltered Campaign News",
+"href": "https://www.tiktok.com/@gvwire/video/7582742467552775455"
+},
+{
+"text": "Dec 1, 2025 • GV Wire TikTok Unfiltered: Why He's Running for Congress in District 21 Campaign News",
+"href": "https://www.tiktok.com/@gvwire/video/7582742467552775455"
+},
+{
+"text": "Donate",
+"href": "https://kirkland2026.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://kirkland2026.com/endorsements"
+},
+{
+"text": "Feb 1, 2020 • The Business Journal Foundation seeks rescue of downtown Fresno strays Kirkland Foundation",
+"href": "https://thebusinessjournal.com/foundation-seeks-rescue-of-downtown-fresno-strays/"
+},
+{
+"text": "Feb 1, 2024 • Fresno Bee Op-Ed: A liberal's case for Kyle Kirkland Business",
+"href": "https://www.fresnobee.com/opinion/opn-columns-blogs/marek-warszawski/article284912722.html"
+},
+{
+"text": "Gaming Industry • Aug 2026 California Cardrooms Take Aim at State's 'Sweetheart' Tribal Casino Deals Kyle Kirkland and the CGA take aim at tribal casinos' billions in untaxed revenue and Gov. Newsom's no-revenue-share Fort Mojave compact, arguing California taxpayers deserve better. CasinoBeats →",
+"href": "https://casinobeats.com/2026/08/10/california-cardrooms-take-aim-at-states-sweetheart-tribal-casino-deals/"
+},
+{
+"text": "Gaming Industry • Jul 2026 L.A. cardrooms applaud court ruling to allow blackjack Kyle Kirkland tells the Times the ruling protects cardroom communities: blackjack drives 60% of Club One's revenue, nearly 200 jobs, and $1 million a year for Fresno. Los Angeles Times →",
+"href": "https://www.latimes.com/business/story/2026-07-09/la-cardrooms-applaud-court-ruling-to-allow-blackjack"
+},
+{
+"text": "Issues",
+"href": "https://kirkland2026.com#issues"
+},
+{
+"text": "Jan 1, 2020 • Clovis Roundup Kirkland Foundation uses Facebook to save homeless animals Kirkland Foundation",
+"href": "https://clovisroundup.com/kirkland-foundation-uses-facebook-to-save-homeless-animals/"
+},
+{
+"text": "Jan 1, 2025 • Patch Pechanga joins tribal lawsuit against California cardrooms Gaming Industry",
+"href": "https://patch.com/california/temecula/pechanga-joins-tribal-lawsuit-against-california-cardrooms"
+},
+{
+"text": "Jan 17, 2024 • GV Wire My ability to solve problems is why I'm running for Congress Campaign News",
+"href": "https://gvwire.com/2024/01/17/my-ability-to-solve-problems-is-why-im-running-for-congress-kyle-kirkland/"
+},
+{
+"text": "Join",
+"href": "https://kirkland2026.com#join-team"
+},
+{
+"text": "Jul 1, 2020 • ABC10 California Gaming Association sends letter to Governor Newsom Gaming Industry",
+"href": "https://www.abc10.com/article/news/health/coronavirus/california-gaming-association-governor-newsom-casinos-tribal-land/103-7176ee5c-5274-4473-9957-570c5be490b0"
+},
+{
+"text": "Jul 1, 2026 • Fresno Bee Blackjack to stay at Club One Casino in Fresno, other CA card rooms, following ruling Gaming Industry",
+"href": "https://www.fresnobee.com/news/local/article316349192.html"
+},
+{
+"text": "Jul 13, 2013 • The New York Times Notes of Sorrow in Changes at Steinway Archive",
+"href": "https://www.nytimes.com/2013/07/13/arts/music/notes-of-sorrow-in-changes-at-steinway.html"
+},
+{
+"text": "Jul 15, 2020 • San Francisco Chronicle Cardrooms cry foul as California tribes remain open during COVID Gaming Industry",
+"href": "https://www.sfchronicle.com/bayarea/article/Coronavirus-Cardrooms-cry-foul-as-California-15416189.php"
+},
+{
+"text": "Jul 15, 2021 • Fresno Bee Club One Casino relocation plans move forward Business",
+"href": "https://www.fresnobee.com/news/local/article253124358.html"
+},
+{
+"text": "Jul 15, 2024 • Your Central Valley Kitten stuck in Sanger sewage line for 2 days rescued Kirkland Foundation",
+"href": "https://www.yourcentralvalley.com/news/local-news/kitten-stuck-in-sanger-sewage-line-for-2-days-rescued/"
+},
+{
+"text": "Jul 19, 2003 • The New York Times Today's Pianos Have a Prelude in Yesterday's Steinway Family Legacy Archive",
+"href": "https://www.nytimes.com/2003/07/19/nyregion/today-s-pianos-have-prelude-yesterday-s-steinway-family-legacy-pervades-factory.html"
+},
+{
+"text": "Jul 20, 2021 • Fresno Bee Op-Ed: Supporting Club One Casino's move Business",
+"href": "https://www.fresnobee.com/opinion/readers-opinion/article253059718.html"
+},
+{
+"text": "Jul 20, 2024 • The Dodo Rescuers stop at nothing to save furry baby trapped deep in underground pipe Kirkland Foundation",
+"href": "https://www.thedodo.com/daily-dodo/rescuers-stop-at-nothing-to-save-furry-baby-trapped-deep-in-underground-pipe"
+},
+{
+"text": "Jul 22, 2026 • New York Post Gavin Newsom goes all in on tribal casino deal — and California cashes out empty-handed Gaming Industry",
+"href": "https://nypost.com/2026/07/22/us-news/california-cashes-out-empty-handed-in-gavin-newsoms-tribal-casino-deal/"
+},
+{
+"text": "Jul 6, 2026 • CalMatters Judge rejects California tribes' latest attempt to kill blackjack at cardrooms Gaming Industry",
+"href": "https://calmatters.org/politics/2026/07/judge-blocks-bonta-california-blackjack-ban/"
+},
+{
+"text": "Jul 6, 2026 • The Ray Appleton Show Kyle Kirkland: Congress & Conservation Campaign News",
+"href": "https://podcasts.apple.com/us/podcast/kyle-kirkland-congress-conservation/id1646494491?i=1000775710983"
+},
+{
+"text": "Jul 7, 2026 • ABC10 Judge strikes down California DOJ's cardroom Blackjack ban Gaming Industry",
+"href": "https://www.abc10.com/article/news/local/california/judge-strikes-down-california-dojs-cardroom-blackjack-ban/103-54a63510-d3aa-4062-b12d-28c0efe71305"
+},
+{
+"text": "Jul 9, 2026 • Los Angeles Times L.A. cardrooms applaud court ruling to allow blackjack Gaming Industry",
+"href": "https://www.latimes.com/business/story/2026-07-09/la-cardrooms-applaud-court-ruling-to-allow-blackjack"
+},
+{
+"text": "Jun 1, 2013 • ABC30 Club One Casino owner donates to CCSPCA Kirkland Foundation",
+"href": "https://abc30.com/post/club-one-casino-owner-donates-to-ccspca/1561106/"
+},
+{
+"text": "Jun 1, 2023 • The Business Journal Fresno casino owner donates $1M to Fresno Chaffee Zoo Kirkland Foundation",
+"href": "https://thebusinessjournal.com/fresno-casino-owner-donates-1m-to-fresno-chaffee-zoo/"
+},
+{
+"text": "Jun 1, 2024 • City Journal Op-Ed: The Justice Department's Meddlesome Merger Policies Gaming Industry",
+"href": "https://www.city-journal.org/article/the-justice-departments-meddlesome-merger-policies"
+},
+{
+"text": "Mar 1, 2019 • Central California SPCA Thanks Kyle Kirkland! Kirkland Foundation",
+"href": "https://ccspca.com/donation/thanks-kyle-kirkland/"
+},
+{
+"text": "Mar 10, 2026 • Fresno Bee California cardrooms continue fight to keep blackjack with lawsuits filed Gaming Industry",
+"href": "https://www.fresnobee.com/news/local/article314998952.html"
+},
+{
+"text": "Mar 10, 2026 • GV Wire California Cardrooms Mount Court Challenge to Bonta's Blackjack Ban Gaming Industry",
+"href": "https://gvwire.com/2026/03/10/california-cardrooms-mount-court-challenge-to-bontas-blackjack-ban/"
+},
+{
+"text": "Mar 11, 2026 • CalMatters California's tribal casinos trample smaller cardrooms with new regulations Gaming Industry",
+"href": "https://calmatters.org/commentary/2026/03/tribal-casinos-cardrooms-california-regulations/"
+},
+{
+"text": "Mar 11, 2026 • KMPH (FOX26) California gaming groups sue to block AG Bonta's approved rules restricting cardroom games Gaming Industry",
+"href": "https://kmph.com/news/local/california-gaming-groups-sue-to-block-ag-bonta-approved-rules-restricting-cardroom-games"
+},
+{
+"text": "May 1, 2022 • ABC30 Club One Casino relocating to Granite Park Business",
+"href": "https://abc30.com/post/club-one-casino-fresno-granite-park-gambling/11897253/"
+},
+{
+"text": "May 1, 2024 • Your Central Valley No Feet Pete: Fresno cat left for dead to get leg implants from Italy Kirkland Foundation",
+"href": "https://www.yourcentralvalley.com/news/local-news/no-feet-pete-fresno-cat-left-for-dead-to-get-leg-implants-from-italy/"
+},
+{
+"text": "News",
+"href": "https://kirkland2026.com/news"
+},
+{
+"text": "Nov 1, 2019 • PR Newswire California cardroom industry generates over 32,000 jobs and nearly $5.6 billion in annual impact Gaming Industry",
+"href": "https://www.prnewswire.com/news-releases/new-report-finds-california-cardroom-industry-generates-over-32-000-jobs-and-nearly-5-6-billion-in-annual-impact-on-states-economy-300954843.html"
+},
+{
+"text": "Nov 1, 2020 • The Business Journal A Word with Kyle Kirkland, owner of Club One Casino Business",
+"href": "https://thebusinessjournal.com/a-word-with-kyle-kirkland-owner-of-club-one-casino/"
+},
+{
+"text": "Nov 15, 2025 • Your Central Valley Entering the District 21 race Campaign News",
+"href": "https://www.yourcentralvalley.com/news/local-news/kirkland-rios-costa-congressional-district-race/"
+},
+{
+"text": "Nov 19, 2025 • Your Central Valley Fresno businessman Kyle Kirkland announces run for CA-21 race Campaign News",
+"href": "https://www.yourcentralvalley.com/news/local-news/kirkland-rios-costa-congressional-district-race/"
+},
+{
+"text": "Nov 26, 2003 • The New York Times Invention for 900 Hands: Our Core Business at Steinway Archive",
+"href": "https://www.nytimes.com/2003/11/26/nyregion/invention-for-900-hands-our-core-business-at-steinway-it-s-hammer-time.html"
+},
+{
+"text": "Nov 8, 2022 • Yahoo News California Proposition 26: Voters decide on sports betting Gaming Industry",
+"href": "https://ca.news.yahoo.com/california-proposition-26-voters-decide-001123547.html"
+},
+{
+"text": "Oct 1, 2025 • CalMatters CGA prevails in court over SB 549 Gaming Industry",
+"href": "https://calmatters.org/digital-democracy/2025/10/california-gambling-casinos-cardrooms/"
+},
+{
+"text": "Oct 15, 2025 • The Business Journal Cardroom workers rally in Fresno against state proposal to ban blackjack-style games Gaming Industry",
+"href": "https://thebusinessjournal.com/cardroom-workers-rally-in-fresno-against-state-proposal-to-ban-blackjack-style-games/"
+},
+{
+"text": "Privacy",
+"href": "https://kirkland2026.com/privacy"
+},
+{
+"text": "Sep 1, 2012 • ABC30 Summer Splash 2 Kirkland Foundation",
+"href": "https://abc30.com/archive/8794732/"
+},
+{
+"text": "Sep 1, 2018 • ABC30 Club One Casino owner saves kitten trapped in a manhole Kirkland Foundation",
+"href": "https://abc30.com/post/club-one-casino-owner-saves-kitten-trapped-in-a-manhole/4299854/"
+},
+{
+"text": "Sep 29, 2021 • GV Wire The Sorry Saga of Job Killer Maxwell's Treatment of Club One Gaming Industry",
+"href": "https://gvwire.com/2021/09/29/the-sorry-saga-of-job-killer-maxwells-treatment-of-club-one/"
+},
+{
+"text": "Terms",
+"href": "https://kirkland2026.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://kirkland2026.com#volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://kirkland2026.com/volunteer"
+},
+{
+"text": "[image: Kyle Kirkland campaign logo] California's 21st District Kyle Kirkland",
+"href": "https://kirkland2026.com"
+},
+{
+"text": "info@kylekirkland.com",
+"href": "mailto:info@kylekirkland.com"
+}
 ]

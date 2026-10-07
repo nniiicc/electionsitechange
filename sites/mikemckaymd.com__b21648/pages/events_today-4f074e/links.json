@@ -1,25 +1,162 @@
 [
-"https://facebook.com/MikeMcKayMD",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fmikemckaymd.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://mikemckaymd.com/",
-"https://mikemckaymd.com/about",
-"https://mikemckaymd.com/articles",
-"https://mikemckaymd.com/contact",
-"https://mikemckaymd.com/events",
-"https://mikemckaymd.com/events/2026-10-04",
-"https://mikemckaymd.com/events/list",
-"https://mikemckaymd.com/events/month",
-"https://mikemckaymd.com/events/today",
-"https://mikemckaymd.com/events/today?ical=1",
-"https://mikemckaymd.com/events/today?outlook-ical=1",
-"https://mikemckaymd.com/flood-assistance-resources",
-"https://mikemckaymd.com/mike-mckay-legislation",
-"https://mikemckaymd.com/privacy-policy-2",
-"https://mikemckaymd.com/scholarships",
-"https://mikemckaymd.com/volunteer",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fmikemckaymd.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=State+Senator+Mike+McKay+for+Maryland+District+1+Events+Archive+-+State+Senator+Mike+McKay+for+Maryland+District+1",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fmikemckaymd.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=State+Senator+Mike+McKay+for+Maryland+District+1+Events+Archive+-+State+Senator+Mike+McKay+for+Maryland+District+1",
-"https://secure.anedot.com/e373f385-3868-455f-8c59-613dda62bde1/donate",
-"https://votegtr.com/",
-"https://x.com/mikemckaymd"
+{
+"text": "#ago",
+"href": "https://mikemckaymd.com/events/today/"
+},
+{
+"text": "Contact",
+"href": "https://mikemckaymd.com/contact/"
+},
+{
+"text": "Day",
+"href": "https://mikemckaymd.com/events/today/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/e373f385-3868-455f-8c59-613dda62bde1/donate"
+},
+{
+"text": "Events",
+"href": "https://mikemckaymd.com/events/"
+},
+{
+"text": "Events Attend an event w/ Sen. Mike McKay",
+"href": "https://mikemckaymd.com/events"
+},
+{
+"text": "Export .ics file",
+"href": "https://mikemckaymd.com/events/today/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://mikemckaymd.com/events/today/?outlook-ical=1"
+},
+{
+"text": "Georges Creek Flood Response",
+"href": "https://mikemckaymd.com/flood-assistance-resources/"
+},
+{
+"text": "Georges Creek Flood Response Contact Info",
+"href": "https://mikemckaymd.com/flood-assistance-resources/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fmikemckaymd.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://mikemckaymd.com/"
+},
+{
+"text": "Legislation",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/"
+},
+{
+"text": "List",
+"href": "https://mikemckaymd.com/events/list/"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikemckaymd.com/about"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikemckaymd.com/about/"
+},
+{
+"text": "Month",
+"href": "https://mikemckaymd.com/events/month/"
+},
+{
+"text": "News & Updates",
+"href": "https://mikemckaymd.com/articles/"
+},
+{
+"text": "Office",
+"href": "https://mikemckaymd.com/contact/"
+},
+{
+"text": "Office Contact",
+"href": "https://mikemckaymd.com/contact/"
+},
+{
+"text": "Office Contact Here's how to find us",
+"href": "https://mikemckaymd.com/contact/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fmikemckaymd.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=State+Senator+Mike+McKay+for+Maryland+District+1+Events+Archive+-+State+Senator+Mike+McKay+for+Maryland+District+1"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fmikemckaymd.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=State+Senator+Mike+McKay+for+Maryland+District+1+Events+Archive+-+State+Senator+Mike+McKay+for+Maryland+District+1"
+},
+{
+"text": "Powered by VOTEGTR",
+"href": "https://votegtr.com/"
+},
+{
+"text": "Previous Day",
+"href": "https://mikemckaymd.com/events/2026-10-06/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mikemckaymd.com/privacy-policy-2/"
+},
+{
+"text": "Senate Scholarship Program",
+"href": "https://mikemckaymd.com/scholarships/"
+},
+{
+"text": "Senate Scholarship Program Information on how to apply",
+"href": "https://mikemckaymd.com/scholarships/"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/#Sponsored_Legislation"
+},
+{
+"text": "Sponsored Legislation Bills sponsored by Sen. McKay",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/#Sponsored_Legislation"
+},
+{
+"text": "The Latest News District 1 news & media coverage",
+"href": "https://mikemckaymd.com/articles"
+},
+{
+"text": "Volunteer",
+"href": "https://mikemckaymd.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://mikemckaymd.com/volunteer/"
+},
+{
+"text": "Voting Record",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/"
+},
+{
+"text": "Voting Record Every vote Sen. Mike McKay has voted on",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/"
+},
+{
+"text": "[image]",
+"href": "https://mikemckaymd.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MikeMcKayMD"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mikemckaymd"
+},
+{
+"text": "[tooltip: Previous day]",
+"href": "https://mikemckaymd.com/events/2026-10-06/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://mikemckaymd.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

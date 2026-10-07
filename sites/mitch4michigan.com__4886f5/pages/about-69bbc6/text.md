@@ -1,10 +1,7 @@
-State Representative 104th District
-Meet Mitch
-Scientist by trade turned politician by necessity.
-Skip navigation menu
-State Representative 104th District
-Meet Mitch
-Scientist by trade turned politician by necessity.
+Skip navigation menu Home Meet Mitch Distin V.
+Roth Policy Events Press Volunteer Contact Donate State Representative 104th District Meet Mitch Scientist by trade turned politician by necessity.
+Home Meet Mitch Distin V.
+Roth Policy Events Press Volunteer Contact Donate State Representative 104th District Meet Mitch Scientist by trade turned politician by necessity.
 I'm running to change things because this world isn't working for anyone other than the billionaire class.
 The primary job of any government is to protect its citizens.
 Ours stopped doing that a long time ago.
@@ -15,8 +12,8 @@ I, like many of you, have been personally screwed over by the governmental machi
 It shows up when I'm buying processed, carcinogenic, glyphosate-ridden food at the supermarket that the government not only fails to regulate but subsidizes on purpose.
 It shows up when our kids can't afford college, when a medical bill wipes out a family's savings, when the water isn't clean and nobody's held accountable.
 It shows up when Wall Street crashes the economy and gets a bailout from the government while working families lose their homes.
-It shows up when the Panama Papers expose how the ultra-rich have been systematically hiding their wealth in offshore accounts for decades while the rest of us shoulder their tax burden.
-It shows up when the Epstein files reveal just how deep the parasitic infection between our shadow government and our puppet government actually goes, suggesting that all our institutions are complicit in the systematic abuse and exploitation of the youngest and most vulnerable in our society; the very people they are meant to serve.
+It shows up when the Panama Papers expose how the ultra-rich have been systematically hiding their wealth in offshore accounts for decades while the rest of us shoulder their tax burden .
+It shows up when the Epstein files reveal just how deep the parasitic infection between our shadow government and our puppet government actually goes, suggesting that all our institutions are complicit in the systematic abuse and exploitation of the youngest and most vulnerable in our society; the very people they are meant to serve .
 It shows up when we see the government maintaining a different set of rules for the billionaire Epstein class than for the rest of us.
 There's nothing conspiratorial about this now.
 It's all well-documented and out in the open.
@@ -27,8 +24,7 @@ Because of money in politics.
 I'm running for office to hold not only our government accountable for its past transgressions against the people—the citizens who elected them to office in the first place—but to ultimately hold the people behind our government accountable: the Epstein class who have been quietly pulling the strings and tilting society toward themselves over the last century, not toward the people.
 I'm running because the people currently in office have proven they aren't fit to do the job.
 I'm running because we need a new kind of politician, one who isn't a politician at their core.
-So let me briefly introduce myself and my politics:
-I'm Mitchell Ryan Distin, PhD—scientist turned reluctant politician.
+So let me briefly introduce myself and my politics: I'm Mitchell Ryan Distin, PhD—scientist turned reluctant politician.
 I hold a B.Sc. in neuropsychology from Michigan State University (Go Green!), an M.Sc. in the history and philosophy of science from University College London, and a Ph.D. in Ecology, Evolutionary Biology, and Biodiversity from the Universitat de Valencia in Spain with an international mention from the University of Cambridge in the UK.
 After finishing at MSU, I moved abroad in 2016 to pursue my graduate studies.
 I wanted to see the world and get a better understanding of how things work elsewhere (all on a dime, may I add).
@@ -43,7 +39,7 @@ Until you've watched communities with practically nothing take better care of ea
 That last lesson always stayed with me.
 Because one of the most striking things I learned along the way is that people in some of the poorest countries in the world are measurably happier than we are here in the USA.
 Why?
-Because they still have something we lost long ago: true community.
+Because they still have something we lost long ago: true community .
 Humans are complex beings, but we aren't that complex.
 We evolved to be a communal species, meaning that we require the community to survive.
 Yet the hyperindividualism of America—the loss of our communal social structure—is the explicit reason why we suffer from greater rates of mental illness, experience 57x more mass shootings, and are more lonely, medicated, and indebted than any of our G7 counterparts.
@@ -54,10 +50,10 @@ I explicitly moved back home to Michigan to make changes.
 Plain and simple.
 We've never had a metascientist (i.e., someone who studies human nature and behavior from anthropology, neuroscience, psychology, and evolutionary biology) in office before, at any level.
 That's a major issue.
-One cannot be an effective legislator or leader without first understanding what a human is, why we behave in certain ways in certain contexts, and what conditions allow us not only to survive but to truly thrive.
+One cannot be an effective legislator or leader without first understanding what a human is , why we behave in certain ways in certain contexts, and what conditions allow us not only to survive but to truly thrive.
 It's common logic.
 This is why I'm not a politician.
-I'm a social architect.
+I'm a social architect .
 The difference is that we need plenty more of the latter and absolutely none of the former.
 We've been governed by lawyers and businesspeople and lobbyists for too long.
 It's time for someone who actually understands human beings to make the laws and build the social constructs underpinning our society.
@@ -76,7 +72,7 @@ Now, it's become abundantly clear that the deeper, more nefarious reasons for da
 This is no longer a left or a right issue.
 It's an everybody issue.
 It's an issue of the 99%.
-That's why I wrote the book/political pamphlet, "Common Enemy: The Falsity of the Left-Right Divide in America".
+That's why I wrote the book/political pamphlet, "Common Enemy: The Falsity of the Left-Right Divide in America" .
 I believe we live in a new sociopolitical context in the USA, following everything that has happened throughout my millennial lifetime (e.g., 9/11 and the Patriot Act, the Iraq/Afghanistan war, the 2008 financial crash, Panama Papers, and now the Iran War, Epstein files, Thiel's secret society called Dialog, and emerging Technofascist surveillance state).
 I'll be distributing free copies throughout Michigan.
 My politics are simple.
@@ -86,40 +82,37 @@ Science backs this claim.
 When we evolved higher-level social structures (i.e., nation-states), we lost the communal foundations of our species.
 And in turn, we lost what it means to be human.
 Even Thomas Jefferson, along with many of our Founding Fathers, believed in local "village politics" (what Jefferson called "Ward Republics", i.e., self-autonomous societies comprised of around 100 people).
-He asked in an 1816 letter to Samuel Kercheval: "What has destroyed liberty and the rights of man in every government which has ever existed under the sun?
+He asked in an 1816 letter to Samuel Kercheval: " What has destroyed liberty and the rights of man in every government which has ever existed under the sun?
 The generalizing and concentrating all cares and power into one body." Jefferson called local self-governance "the article nearest my heart".
 He believed the republic could only survive if power was rooted in small communities where every citizen personally participated in government.
 If our Founding Fathers were brought back to life today, they'd be incensed by what they see.
 The Leviathan runs amok.
-The philosophy that best captures my politics is known as Localism (and we're likely the only political candidate in the U.S.A. running on a localist platform).
+The philosophy that best captures my politics is known as Localism ( and we're likely the only political candidate in the U.S.A. running on a localist platform) .
 Localism is a political and economic philosophy that prioritizes local control, community self-reliance, and decentralized power over centralized or global authority.
 It is a scientifically and philosophically grounded argument about the scale at which human beings actually function: that decisions, governance, economic life, and cultural identity work best when they happen as close to the people affected as possible.
 G.K.
 Chesterton famously said that "What we should try to do is make politics as local as possible.
-Keep the politicians near enough to kick them."
-What makes localism distinct from other political philosophies is that it is not primarily an answer to the question what should we do but rather who should decide and at what scale?
+Keep the politicians near enough to kick them." What makes localism distinct from other political philosophies is that it is not primarily an answer to the question what should we do but rather who should decide and at what scale?
 This is why localism works, because it's genuinely cross-partisan.
 Socialism answers the questions above with social ownership at the federal level; classical neo-liberalism with "free-markets" and individual rights (in theory, which never works out in practice, hence why we live in a corporatocracy); conservatism with tradition and ordered liberty.
-Localism answers with proximity of power.
+Localism answers with proximity of power .
 It is a commitment to building power structures that say that authority should rest at the smallest level competent to exercise it, and the burden of proof should fall on anyone who wants to pull a decision upward and away from the community.
 Another Chesterton quote: “Everybody said the great modern war was between Capitalism and Socialism.
 We said there was no war; for it was only between Centralization and Centralization.” This is why our campaign team is comprised of the "politically homeless"—disillusioned Dems (like me), disillusioned Republicans, Independents, Libertarians, and Constitutionalists alike.
 Our organizing principle holding our team together is our general distrust and disdain for establishment (partisan) politics, because they work for nobody other than the billionaire class.
 In this sense, localism stems from a long lineage within the Anti-Federalist tradition of our Founding Fathers.
 In fact, the first ten amendments of the Constitution (i.e., the Bill of Rights) were conceived from a localist lens, intending to restrain the power of the federal government from rising up and thwarting individuals' rights.
-Patrick Henry said it best: "The Constitution is not an instrument for the government to restrain the people, it is an instrument for the people to restrain the government." Or, at least, that's what the Constitution used to represent (as most amendments past the 12th and 13th amendments greatly exacerbated central authority and control of the federal government).
+Patrick Henry said it best: " The Constitution is not an instrument for the government to restrain the people, it is an instrument for the people to restrain the government." Or, at least, that's what the Constitution used to represent (as most amendments past the 12th and 13th amendments greatly exacerbated central authority and control of the federal government).
 This is why Localism is the only viable solution to Big Government, Big Business, and Big Banking.
 Moreover, our Founding Fathers didn't believe in partisan politics.
 I, too, share in this belief.
-In his 1796 Farewell Address, George Washington warned that party conflict could harden into vengeance, describing “the alternate domination of one faction over another, sharpened by the spirit of revenge…[as] itself a frightful despotism,” and cautioning that parties can become “potent engines” for those who would “usurp… the reins of government.”
-Years earlier, John Adams posed a similar fear in a 1780 letter: “There is nothing which I dread so much as a division of the republic into two great parties…This, in my humble apprehension, is to be dreaded as the greatest political evil under our Constitution.”
-There's absolutely nothing American about our current society.
+In his 1796 Farewell Address, George Washington warned that party conflict could harden into vengeance, describing “the alternate domination of one faction over another, sharpened by the spirit of revenge…[as] itself a frightful despotism,” and cautioning that parties can become “potent engines” for those who would “usurp… the reins of government.” Years earlier, John Adams posed a similar fear in a 1780 letter: “There is nothing which I dread so much as a division of the republic into two great parties…This, in my humble apprehension, is to be dreaded as the greatest political evil under our Constitution.” There's absolutely nothing American about our current society.
 As the United States approaches its 250th birthday, those early warnings by our founders ring truer than ever.
 Partisanship has indeed hardened into a firm tribalism, enabling the potent engines of the billionaire Epstein class to readily usurp the reins of government and redirect our society towards them, not us.
 Thus, my political goals are twofold: (1) to bridge the unnatural, contrived political divide that has hardened into partisan politics, and (2) to take as much of the power away from higher-level forms of government (and thus the billionaire class) and redistribute it back into the hands of local communities (i.e., Localism).
 Back into the hands we can trust.
-"The only identity boundary that ever really mattered in human history is between the 99% and the 1%.
-And the only way to beat the 1% is for the 99% to wake up to this fact of history."
 Not left.
 Not right.
 Only forward.
+"The only identity boundary that ever really mattered in human history is between the 99% and the 1%.
+And the only way to beat the 1% is for the 99% to wake up to this fact of history." Contact and Press Inquiries: info@Mitch4Michigan.com Powered by RUN! website builder Paid for by Mitch for Michigan You need to enable JavaScript to run this app.

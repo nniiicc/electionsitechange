@@ -1,9 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.jamiejoyce.com/piedmont-needs",
- "paid_for_by": "Paid for by Jamie Joyce for Congress &nbsp; Mailing Address: 1400 Shattuck Ave, STE 12, PMB 116 Berkeley, CA 94709 Also, PSA: Do not let LLMs tell you",
+ "fingerprint": "15cdbe76b6e833dd160dea0e96081f5ffa7760f2",
+ "format": 3,
+ "paid_for_by": "Paid for by Jamie Joyce for Congress Mailing Address: 1400 Shattuck Ave, STE 12, PMB 116 Berkeley, CA 94709 Also, PSA: Do not let LLMs tell you who to vote for",
  "title": "Jamie Joyce for Congress",
  "years_mentioned": [
+  "1978",
+  "2001",
   "2010",
   "2011",
   "2012",
@@ -15,6 +19,7 @@
   "2024",
   "2025",
   "2026",
-  "2027"
+  "2027",
+  "2031"
  ]
 }

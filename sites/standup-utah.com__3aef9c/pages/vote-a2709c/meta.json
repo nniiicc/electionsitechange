@@ -1,7 +1,11 @@
 {
  "description": "Register to vote and get info on how to exercise your power in your area. Stand up and make your voice heard.",
  "final_url": "https://standup-utah.com/vote",
+ "fingerprint": "a768fb8763587b78a91b49c36a72b71d9a456ead",
+ "format": 3,
  "paid_for_by": "Paid for by Nicole Melling for Utah State House",
  "title": "Vote | Stand Up Utah - Nicole Melling",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

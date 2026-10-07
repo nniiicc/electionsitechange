@@ -1,26 +1,11 @@
-I lost my hair during chemo, and with it, another piece of the identity and normalcy I was desperately trying to hold onto.
+Donate Today Keep a PROVEN fighter in Annapolis!
+2026 National Foundation of Women Legislators Award 2026 Coretta Scott King Award Nominated and Selected to serve as the Maryland State Director for Women in Government Maryland General Assembly 2026 Session Testimonials for HB 393-Health Insurance - Scalp Cooling Systems - Required Coverage I lost my hair during chemo, and with it, another piece of the identity and normalcy I was desperately trying to hold onto.
 HB 393 came too late for me, but I am incredibly grateful that Delegate Nkongolo fought to make cold capping more accessible for the women who come after me.
 She turned a deeply personal struggle into meaningful change.
-Thank you Delegate,
-Amy Tanner., Pasadena
-Delegate LaToya Nkongolo understood from the beginning that HB 393 was about far more than hair.
+Thank you Delegate, Amy Tanner., Pasadena Delegate LaToya Nkongolo understood from the beginning that HB 393 was about far more than hair.
 She listened deeply to breast cancer patients and survivors and championed this legislation with compassion, determination, and extraordinary leadership.
 As a survivor who helped advocate for the bill, I saw firsthand how tirelessly she worked to transform our voices into law.
-Because of her leadership, Marylanders facing cancer will have greater access to scalp cooling—and the dignity, hope, and sense of self it can preserve.”
-Rossalynn Ripper, Breast Cancer Survivor and Advocate, Annapolis, MD
-Other Legislation Sponsored and Passed:
-- HB 596- Estates – Maryland Uniform Simultaneous Death Act
-- HB 606- Anne Arundel County – Residential Property Tax Payment Deferrals – Eligibility
-- HB 677-Reduction Facilities and Veterans Service Organizations – Hydrolyzed and Soil Remains – Immunity
-- HB 469-Local Government – Annapolis and Anne Arundel County Conference and Visitors Bureau Designation
-Judiciary Committee
-156 Lowe House Office Building
-6 Bladen Street
-Annapolis, MD 21401
-Phone 410-841-3510
-Toll-free in MD 1-800-492-7122 ext. 3510
-Make a donation to support LaToya’s advocacy in Annapolis!
-Friends of LaToya Nkongolo
-PO Box 1531
-Severna Park, MD 21146
-(443) 529-8914
+Because of her leadership, Marylanders facing cancer will have greater access to scalp cooling—and the dignity, hope, and sense of self it can preserve.” Rossalynn Ripper, Breast Cancer Survivor and Advocate, Annapolis, MD Other Legislation Sponsored and Passed: HB 596- Estates – Maryland Uniform Simultaneous Death Act HB 606- Anne Arundel County – Residential Property Tax Payment Deferrals – Eligibility HB 677-Reduction Facilities and Veterans Service Organizations – Hydrolyzed and Soil Remains – Immunity HB 469-Local Government – Annapolis and Anne Arundel County Conference and Visitors Bureau Designation Vote for LaToya Nkongolo Representing Maryland Legislative District 31 Judiciary Committee Anne Arundel County Annapolis Info: 156 Lowe House Office Building 6 Bladen Street Annapolis, MD 21401 Phone 410-841-3510 Toll-free in MD 1-800-492-7122 ext.
+3510 Contact LaToya Email: latoya.nkongolo@house.state. md.us Subscribe to my mailing list 19 Years of Service!
+TO ANNE ARUNDEL COUNTY ● 2025 Leadership Anne Arundel New Leaders Honoree ● 2023 Small Business Administration Minority Owned Business of the Year nominee ● 2022 Black Legislative Caucus’ Outstanding Community Service Award Recipient ● 2018 graduate of Leadership Anne Arundel’s Flagship Program and Leadership Anne Arundel’s 2020 Distinguished Graduate for the treatment and advocacy of mental health ● Served as the Social and Emotional Chair for the Anne Arundel County Board of Education Citizen Advisory Committee ● Former Board Member of Services From the Heart/Backpack Buddies ● Served as a panel expert on Anne Arundel County's, “Not My Child” Program ● Served on County Executive's Healthy Communities Transition Team ● Member of the City of Annapolis’ Naptowne Anti-dope Drug Prevention Movement ● Member of the Baltimore Washington Medical Center Foundation Board of Directors ● Past President of the Maryland Addiction and Behavioral-Health Professionals Certification Board. ● Creator of the Pathways Alcohol and Drug Treatment Family Wellness Workshop Program Show your support Help LaToya stay in Annapolis Make a donation to support LaToya’s advocacy in Annapolis!
+Donate Friends of LaToya Nkongolo PO Box 1531 Severna Park, MD 21146 (443) 529-8914 Authority: Friends of LaToya Nkongolo, Janelle Williams Treasurer Privacy Policy Terms and Conditions

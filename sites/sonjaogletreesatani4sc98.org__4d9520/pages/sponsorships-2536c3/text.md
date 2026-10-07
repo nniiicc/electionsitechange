@@ -1,3 +1,2 @@
-Copyright © 2025 Sonja Ogletree Satani For SC House 98 - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Together, Let's Move 98 Forward Home Donate About Issues Sponsorships Volunteer Events Videos Privacy Policy More Home Donate About Issues Sponsorships Volunteer Events Videos Privacy Policy Home Donate About Issues Sponsorships Volunteer Events Videos Privacy Policy Be An Advocate, Champion of Change, or a Difference Maker Advocate - $1000 Champion of Change - $500 Difference Maker - $250 Sponsorship Opportunities Copyright © # Sonja Ogletree Satani For SC House 98 - All Rights Reserved.
+Donate Privacy Policy

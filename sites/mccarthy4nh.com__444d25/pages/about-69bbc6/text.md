@@ -1,4 +1,4 @@
-Dian McCarthy has been an effective advocate for her community for over two decades.
+Skip navigation menu About Issues Contact Endorsements Donate About Dian About Issues Contact Endorsements Donate About Dian Dian McCarthy has been an effective advocate for her community for over two decades.
 Her early career included working for her family’s insurance agency and then a custom cabinetry business she ran with her husband.
 It is there that she learned first-hand about what it is to run a small business in NH and the challenges small businesses face.
 Dian went on to become the Executive Director of a local non-profit organization serving the youth and families of Goffstown.
@@ -8,3 +8,5 @@ Under Dian's leadership, the Board transitioned from a period of failed budgets 
 Dian’s recent leadership roles include the Vice Chair of the NH Juvenile Court Diversion Network Board where she helped guide the statewide network through a period of significant growth and transition, and President of the NH Breast Cancer Coalition where she advocated for breast cancer survivors and treatment advancement on the state and national level.
 She has also sat on the Our Kids Commission, a committee of the Episcopal Bishop of NH working to close the opportunity gap for children in NH, volunteers on her church outreach committee providing aid to local community members in need, and volunteers for a program helping local families with school lunch debt.
 When she is not working for positive change in her community, Dian enjoys hiking and spending time with her family and dogs.
+Powered by RUN! website builder Paid for by Friends of Dian McCarthy.
+Fiscal Agent: Joseph McCarthy PO Box 416 Goffstown, NH 03045 You need to enable JavaScript to run this app.

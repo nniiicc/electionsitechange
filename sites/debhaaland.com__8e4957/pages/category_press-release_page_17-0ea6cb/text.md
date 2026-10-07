@@ -1,3 +1,7 @@
-Haaland Raises Record $686,323 from 13,394 Donations in First 24 Hours
-Press Release
-Haaland received a groundswell of grassroots support since launching her campaign on Tuesday.
+Donate to a Campaign for All New Mexicans New Mexicans are facing tough challenges and Deb Haaland is the leader we need to challenge the status quo and move us toward a future where everyone can thrive.
+Do what you can today to help us win! $# $# $# $# $# Other amount Close Español Facebook Instagram X TikTok Bluesky YouTube Deb Haaland for New Mexico Menu News Home Meet Deb Deb’s Plan Endorsements Events Store Donate Press Release Archive Haaland Raises Record $# from 13,394 Donations in First # Hours Press Release February 12, 2025 Haaland received a groundswell of grassroots support since launching her campaign on Tuesday.
+Albuquerque, N.M. – Today, the Deb Haaland for New Mexico campaign announced that just one day after launching, she has raised $# from … Haaland to Kick Off Statewide Tour Thursday Press Release February 11, 2025 Haaland will travel the state to meet & hear from New Mexicans.
+Albuquerque, N.M. – On Thursday, February 13, 2025, Deb Haaland, candidate for New Mexico governor, will kick off a statewide campaign launch tour.
+She … Deb Haaland Launches Campaign for New Mexico Governor Press Release February 11, 2025 Haaland focuses on cost of living and safety in launch video.
+Albuquerque, N.M. – Today, Deb Haaland launched her campaign for New Mexico Governor.
+In a launch video, Haaland focused on the cost of living, and … « Previous 1 … 15 16 17 Get News Updates Email address * Zip code * Get Updates Connect with us: Facebook Instagram X TikTok Bluesky YouTube Give Do what you can today to help us win! $10 $25 $100 $250 $500 Other amount Deb Haaland for New Mexico Home The Latest Meet Deb Deb’s Plan Endorsements Follow Us: Facebook Instagram X TikTok Bluesky YouTube Donate By Mail Deb for New Mexico PO Box 25024 Albuquerque, NM 87125 Paid for and authorized by Deb for New Mexico Contact Privacy Policy Made with Middle Seat

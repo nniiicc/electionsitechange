@@ -1,9 +1,34 @@
 [
-"https://burrows4tx.com/",
-"https://burrows4tx.com/about",
-"https://burrows4tx.com/house-district-83-2",
-"https://burrows4tx.com/issues",
-"https://burrows4tx.com/latest-news",
-"https://burrows4tx.com/volunteer",
-"https://secure.winred.com/burrows-for-texas/website"
+{
+"text": "About",
+"href": "https://burrows4tx.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/burrows-for-texas/website"
+},
+{
+"text": "Home",
+"href": "https://burrows4tx.com/"
+},
+{
+"text": "House District 83",
+"href": "https://burrows4tx.com/house-district-83-2/"
+},
+{
+"text": "Issues",
+"href": "https://burrows4tx.com/issues/"
+},
+{
+"text": "Latest News",
+"href": "https://burrows4tx.com/latest-news/"
+},
+{
+"text": "Volunteer",
+"href": "https://burrows4tx.com/volunteer/"
+},
+{
+"text": "[image: Republican Dustin Burrows]",
+"href": "https://burrows4tx.com/"
+}
 ]

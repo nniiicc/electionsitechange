@@ -1,5 +1,5 @@
-Montana Must Stand United Against Fentanyl Trafficking
-Last week’s major drug seizure in St.
+top of page Home My Story Issues Contribute Connect News More Use tab to navigate through the menu items.
+All Posts video fentanyl trades infrastructure Inside the House Search Montana Must Stand United Against Fentanyl Trafficking Courtenay Sprunger Dec 17, 2025 2 min read Last week’s major drug seizure in St.
 Regis should command the attention of every Montanan.
 More than 28 pounds of illegal drugs — including fentanyl, methamphetamine, and cocaine — were intercepted on one of Montana’s highways.
 The operation resulted in 51 arrests, including 41 individuals believed to be in the country illegally.
@@ -22,3 +22,5 @@ The St.
 Regis seizure proves that strong laws.
 When paired with effective enforcement, they save lives.
 Montana must remain united in supporting law enforcement, holding traffickers accountable, and keeping deadly drugs out of our communities.
+Recent Posts See All Sprunger to host MT DUI Reform Summit on Sept 3 The LEGAL Act -- and what it means for Montana's employers Montana Hunters First Act Home My Story Issues Contribute Connect News More Use tab to navigate through the menu items.
+Paid for by Courtenay for Kalispell HD7 - R PO Box 8315, Kalispell, Montana 59904 Justin Burt, Treasurer 406-407-1151 ​ ©#-# Courtenay for Kalispell HD7. bottom of page

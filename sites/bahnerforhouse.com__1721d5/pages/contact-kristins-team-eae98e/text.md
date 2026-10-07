@@ -1,14 +1,1 @@
-Meet Kristin
-Priorities
-Endorsements
-Get Involved
-Join the Team
-Donate
-Meet Kristin
-Priorities
-Endorsements
-Get Involved
-Join the Team
-Donate
-Follow us on social media to join the fun!
-contact Kristin's Team:
+Meet Kristin Priorities Endorsements Get Involved Join the Team Donate Meet Kristin Priorities Endorsements Get Involved Join the Team Donate Follow us on social media to join the fun! contact Kristin's Team: Subscribe to Receive Campaign Email Updates Back to Top Paid for by Kristin Bahner for State Representative VOTEKRISTIN@GMAIL.COM

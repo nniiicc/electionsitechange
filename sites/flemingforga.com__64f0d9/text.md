@@ -1,6 +1,4 @@
-Experience Matters
-About Tim
-When it comes to electing our next Secretary of State, experience matters.
+0 Skip to Content DONATE Open Menu Close Menu DONATE Open Menu Close Menu DONATE Experience Matters REQUEST TIM AT YOUR EVENT SIGN UP About Tim When it comes to electing our next Secretary of State, experience matters.
 Tim Fleming is a proven leader and small business owner with trusted experience and a record of fighting for Georgia.
 Georgians can't afford a secretary of state who is just seeking their next moment in the spotlight.
 We need a proven leader with the experience to ensure our elections are secure, accessible, fair, and trusted, streamline professional licensing, make government work for us, and enhance technology to better serve Georgians.
@@ -16,10 +14,4 @@ Fleming holds a bachelor's degree in Political Science from the University of Ge
 He has served on the Covington Planning and Zoning Commission and the Newton County Recreation Commission, and remains active with local charities.
 Fleming lives in Covington with his wife, Lacey, and their three children, Jackson, Colby, and Hannah.
 The family are members of Wesley Methodist Church in Covington.
-Tim’s Georgia First Priorities
-- Ensure our elections are secure, accessible, fair, and trusted
-- Streamline professional licensing to get Georgians licensed faster
-- Cut the red tape holding small businesses back
-- Protect voter ID and champion election transparency
-- Enhance technology to better serve Georgians
-- Improve customer service because your government should work for you
+Tim’s Georgia First Priorities Ensure our elections are secure, accessible, fair, and trusted Streamline professional licensing to get Georgians licensed faster Cut the red tape holding small businesses back Protect voter ID and champion election transparency Enhance technology to better serve Georgians Improve customer service because your government should work for you DONATE Privacy Policy All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.

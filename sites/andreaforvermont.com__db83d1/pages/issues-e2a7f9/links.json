@@ -1,12 +1,50 @@
 [
-"https://andrea4vt.com/",
-"https://andrea4vt.com/about",
-"https://andrea4vt.com/endorsements",
-"https://andrea4vt.com/issues",
-"https://andrea4vt.com/support",
-"https://andrea4vt.com/vermont-promise",
-"https://facebook.com/andrea.murray.for.senate",
-"https://instagram.com/andreamurrayvt",
-"https://secure.winred.com/andrea-for-senate",
-"https://sos.vermont.gov/elections/voters/registration"
+{
+"text": "About Andrea",
+"href": "https://andrea4vt.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/andrea-for-senate/"
+},
+{
+"text": "Endorsements",
+"href": "https://andrea4vt.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://andrea4vt.com/"
+},
+{
+"text": "Issues",
+"href": "https://andrea4vt.com/issues"
+},
+{
+"text": "Register to Vote!",
+"href": "https://sos.vermont.gov/elections/voters/registration/"
+},
+{
+"text": "Support Andrea",
+"href": "https://andrea4vt.com/support"
+},
+{
+"text": "Support the Campaign",
+"href": "https://andrea4vt.com/support"
+},
+{
+"text": "Vermont Promise",
+"href": "https://andrea4vt.com/vermont-promise"
+},
+{
+"text": "[image: Andrea Murray for State Senate]",
+"href": "https://andrea4vt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/andrea.murray.for.senate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andreamurrayvt/"
+}
 ]

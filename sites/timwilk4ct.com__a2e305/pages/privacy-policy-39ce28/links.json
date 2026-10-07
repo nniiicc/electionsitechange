@@ -1,5 +1,14 @@
 [
-"https://timwilk4ct.com/",
-"https://timwilk4ct.com/contact",
-"https://timwilk4ct.com/privacy-policy"
+{
+"text": "Contact",
+"href": "https://timwilk4ct.com/contact"
+},
+{
+"text": "Home",
+"href": "https://timwilk4ct.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://timwilk4ct.com/privacy-policy"
+}
 ]

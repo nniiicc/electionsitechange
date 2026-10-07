@@ -1,25 +1,94 @@
 [
-"http://amherst.edu/",
-"http://bcps.k12.md.us/",
-"http://delsandy.com/",
-"http://delsandy.com/2020-session-summary",
-"http://delsandy.com/about-sandy",
-"http://delsandy.com/about-sandy/legislative-diary",
-"http://delsandy.com/bills-ive-introduced",
-"http://delsandy.com/contact",
-"http://delsandy.com/endorsements",
-"http://delsandy.com/key-issues/lead-paint-poisoning",
-"http://delsandy.com/key-issues/our-neighborhoods",
-"http://delsandy.com/key-issues/pimlico-and-the-preakness",
-"http://delsandy.com/key-issues/pre-kindergarten",
-"http://delsandy.com/sandys-answers",
-"http://delsandy.com/votingrightsact",
-"http://delsandy.com/why-i-run",
-"http://law.columbia.edu/",
-"http://law.umaryland.edu/",
-"http://lawschool.ubalt.edu/",
-"http://mdelect.net/",
-"http://mlis.state.md.us/",
-"https://facebook.com/delsandy",
-"https://twitter.com/delsandy"
+{
+"text": "2020 Session Summary",
+"href": "http://www.delsandy.com/2020-session-summary/"
+},
+{
+"text": "About Sandy",
+"href": "http://www.delsandy.com/about-sandy/"
+},
+{
+"text": "Amherst College",
+"href": "http://www.amherst.edu/"
+},
+{
+"text": "Are You in the 41st District?",
+"href": "http://mdelect.net/"
+},
+{
+"text": "Baltimore City public schools",
+"href": "http://www.bcps.k12.md.us/"
+},
+{
+"text": "Bills I’ve Introduced",
+"href": "http://www.delsandy.com/bills-ive-introduced/"
+},
+{
+"text": "Columbia University Law School",
+"href": "http://www.law.columbia.edu/"
+},
+{
+"text": "Contact Sandy",
+"href": "http://www.delsandy.com/contact/"
+},
+{
+"text": "Endorsements",
+"href": "http://www.delsandy.com/endorsements/"
+},
+{
+"text": "House for Delegates",
+"href": "http://mlis.state.md.us/"
+},
+{
+"text": "My Legislative Diary",
+"href": "http://www.delsandy.com/about-sandy/legislative-diary"
+},
+{
+"text": "Sandy's Answersto candidate questionnaires",
+"href": "http://www.delsandy.com/sandys-answers"
+},
+{
+"text": "University of Baltimore",
+"href": "http://lawschool.ubalt.edu/"
+},
+{
+"text": "University of Maryland",
+"href": "http://www.law.umaryland.edu/"
+},
+{
+"text": "Voting Rights Act",
+"href": "http://www.delsandy.com/votingrightsact/"
+},
+{
+"text": "Why I Run",
+"href": "http://www.delsandy.com/why-i-run/"
+},
+{
+"text": "[image: Connect with Delegate Sandy Rosenberg on Facebook]",
+"href": "https://www.facebook.com/delsandy"
+},
+{
+"text": "[image: Connect with Delegate Sandy Rosenberg on Twitter]",
+"href": "https://twitter.com/delsandy"
+},
+{
+"text": "[image: Lead Paint Poisoning]",
+"href": "http://www.delsandy.com/key-issues/lead-paint-poisoning/"
+},
+{
+"text": "[image: Our Neighborhoods]",
+"href": "http://www.delsandy.com/key-issues/our-neighborhoods/"
+},
+{
+"text": "[image: Pimlico and The Preakness]",
+"href": "http://www.delsandy.com/key-issues/pimlico-and-the-preakness/"
+},
+{
+"text": "[image: Pre-Kindergarten]",
+"href": "http://www.delsandy.com/key-issues/pre-kindergarten/"
+},
+{
+"text": "[image: Sandy Rosenberg]",
+"href": "http://www.delsandy.com/"
+}
 ]

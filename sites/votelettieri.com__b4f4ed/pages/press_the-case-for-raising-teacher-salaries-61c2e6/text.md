@@ -1,3 +1,10 @@
-The Case for Raising Teacher Salaries
-Cinzia Lettieri testified before the Connecticut Education Committee about the importance of raising teacher salaries and supporting educators across the state
-Read more here: https://cea.org/the-case-for-raising-teacher-salaries/
+0 Skip to Content Cinzia Lettieri For State Representative About Meet Cinzia Issues Endorsements Upcoming Events Press Get Your Lawn Sign!
+Get Involved Volunteer Contact Headquarters Voter Information Open Menu Close Menu Cinzia Lettieri For State Representative About Meet Cinzia Issues Endorsements Upcoming Events Press Get Your Lawn Sign!
+Get Involved Volunteer Contact Headquarters Voter Information Open Menu Close Menu Folder: About Back Meet Cinzia Issues Endorsements Upcoming Events Press Get Your Lawn Sign!
+Folder: Get Involved Back Volunteer Contact Headquarters Voter Information The Case for Raising Teacher Salaries Mar 12 Written By Cinzia Lettieri Cinzia Lettieri testified before the Connecticut Education Committee about the importance of raising teacher salaries and supporting educators across the state Read more here: https://cea.org/the-case-for-raising-teacher-salaries/ Cinzia Lettieri Previous Previous Democratic candidates running for Connecticut General Assembly say the party needs to 'step up' Cinzia Lettieri for State Representative Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Let's Stay in Touch Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+I can’t wait to share what is happening in the community with you!
+Volunteer ‍ ‍ Contact ‍ ‍ Instagram ‍ ‍ Facebook Paid for by Lettieri for State Rep, Treasurer Seth Kweller.
+Approved by Cinzia Lettieri

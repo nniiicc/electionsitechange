@@ -1,27 +1,22 @@
-Privacy Policy & Terms
-Last Updated March 15, 2026
-The Friends of Nicole Locklin committee (also “we,” “us,” or “our”) has created this Terms and Privacy Policy (“Privacy Policy”) to explain how we collect, use, and disclose information that you may provide while visiting our website: www.locklinforcongress.com and our mobile sites, mobile applications, and other online services (the “Sites”) using apersonal computer, mobile device, or any other means, and to demonstrate our firm commitment to Internet privacy.
+    ESPA Ñ OL MEET NICOLE arrow_drop_down OUR MISSION BIOGRAPHY ISSUES arrow_drop_down CORRUPTION SENIORS HEALTHCARE MY OPPONENT AFFORDABILITY IMMIGRATION IRAN WAR CUBA PALESTINE EPSTEIN ENDORSEMENTS DONATE GET INVOLVED arrow_drop_down EVENTS MERCHANDISE VOLUNTEER REGISTRY     0 Your Cart $ 0.00 USD : Remove Subtotal Pay with browser.
+Continue to Checkout No items found.
+Product is not available in this quantity.  Privacy Policy & Terms Privacy Policy & Terms Last Updated March 15, 2026 The Friends of Nicole Locklin committee (also “we,” “us,” or “our”) has created this Terms and Privacy Policy (“Privacy Policy”) to explain how we collect, use, and disclose information that you may provide while visiting our website: www.locklinforcongress.com and our mobile sites, mobile applications, and other online services (the “Sites”) using apersonal computer, mobile device, or any other means, and to demonstrate our firm commitment to Internet privacy.
 This Privacy Policy also applies to personal informationcollected by third-party vendors on our behalf.
 What is Personal Information?
 “Personal Information” is information about a particular individual that specifically identifies that individual, or information about that individual, such as name, address, email address, or telephone number.
 Personal Information does not include “aggregate information,” which is data that may becollected automatically or without reference to Personal Information about the use of the Sites.
 The Privacy Policy does not restrict Friends of Nicole Locklin’ collection and use of aggregate information.
-Texting SMS / MMS
-The Friends of Nicole Locklin campaign is committed to protecting your privacy online.
+Texting SMS / MMS The Friends of Nicole Locklin campaign is committed to protecting your privacy online.
 This 10DLC & Toll-Free Privacy Policy is in addition to and supplements all other privacy and data security obligations of the Friends of Nicole Locklin”, including ouroperations, employment and website privacy policies (collectively, our “Privacy Policy”).
 It describes our obligations and practices of how we collect and use customer consentand opt-ins for our texting and/or email services and programs.
 This 10DLC & Toll-Free Privacy Policy applies to SMS and MMS texts from the Friendsof Nicole Locklin campaign.
-Categories of Information Collected
-We will collect your name, phone number and indication of consent to receive text (SMS and MMS).
-How we Use the Information Collected
-In addition to providing the services and complying with our Privacy Policy, we use the information to confirm consent to receive text (SMS and MMS).
-To Whom Do we Share the Information Collected
-Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Categories of Information Collected We will collect your name, phone number and indication of consent to receive text (SMS and MMS).
+How we Use the Information Collected In addition to providing the services and complying with our Privacy Policy, we use the information to confirm consent to receive text (SMS and MMS).
+To Whom Do we Share the Information Collected Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
 Mobile information will not be shared with third parties/affiliates for marketing/promotional purposes.
 This Privacy Policy maybe updated periodically and without prior notice to you to reflect changes in our information practices and applicable law.
 We suggest that you periodically review the Privacy Policy for amendments.
-Visitors to the Sites
-Friends of Nicole Locklin operates in the United States and the information we collect isgoverned by U.S. law.
+Visitors to the Sites Friends of Nicole Locklin operates in the United States and the information we collect isgoverned by U.S. law.
 Children.
 The Sites are not directed at children and we do not knowingly collect Personal Information directly from children (including information concerning a child or that child’s parents/guardians, any screen or user name that functions as online contact information for a child, any photograph, video, or audio file containing a child’s image or voice) directly from users under the age of thirteen (13) or from other web sites or services directed at children.
 Consistent with the Federal Children’s Online Privacy Protection Act of 1988 (“COPPA”), we will not knowingly request or collect Personal Information from any child under the age of thirteen (13) in the United States without obtaining the required consent from the appropriate parent/guardian.
@@ -32,8 +27,7 @@ If you have any reservations, questions or concerns about your child’s access 
 International Visitors.
 The Sites are designed for and targeted to U.S. audiences and are governed by and operated in accordance with the laws of the U.S., including California Civil Code Section 1798.83.
 Friends of Nicole Locklin makes no representation that the Sites are operated in accordance with the laws or regulations of, or governed by, other nations.
-Collection of Personal Information
-Direct Collection.
+Collection of Personal Information Direct Collection.
 We collect Personal Information that you provide to us when you register, send us an email, sign up to receive email or text messages, sign up to volunteer, fill out a form, make a purchase or donation, communicate with us through third-party social feeds, request information, participate in active forums or take any other action on the Sites.
 As required by the Federal Election Commission (FEC), we must also collect and disclose the name, address, occupation, and employer of all donors whose donations exceed $200 during the election cycle.
 We (or our serviceproviders) may also obtain information from outside sources and combine it with the information we collect through the Sites, including from voter file data from state parties and other organizations, from public databases, and from private organizations.
@@ -66,117 +60,63 @@ In many web browsers, you can choose to delete, disable, turn off, or reject mos
 Please consult the “Help” section of your web browser for more information.
 Petitions.
 Any petitions that you have signed online, and any comments therewith, constitute public information that we may provide to local, state, or national politicalleaders and the press.
-Third-Party Websites
-The Sites may contain links to third-party websites, including social media sites.
+Third-Party Websites The Sites may contain links to third-party websites, including social media sites.
 Except as expressly stated otherwise by Friends of Nicole Locklin, we do not review the privacy practices of all other websites and recommend that you review their privacy policies and your privacy settings before sharing your Personal Information.
 We do not have control over third-party websites and are not responsible for their privacy policies or practices.
 Any third parties to whom we may disclose Personal Information may have their own privacy policies that describe how they use and disclose Personal Information.
 Those policies will govern use, handling, and disclosure of Personal Information once we have shared it with those third parties as described in this Privacy Policy.
 If you want to learn more about third-party privacy practices, we encourage you to visit the websites of those third parties.
-How We Use Your Personal Information
-We may use your Personal Information for various purposes including to:
-• Connect you to Friends of Nicole Locklin programs, events, and activities, and obtain and confirm RSVP’s to events and programs;
-• Improve, maintain, and operate the Sites, send you receipts, confirmations, updates, notices, and messages regarding support and administration;
-• Provide and deliver news and information we think will interest you, such as information about relevant issues, resources, events, campaigns, candidates, events, promotions, products, and services;
-• Provide information or products that you request and process and complete such transactions;
-• Respond to your emails, requests, comments, submissions, and questions, and provide customer service, request feedback, and otherwise communicate with you regarding your use of the Sites;
-• Help connect you with other Friends of Nicole Locklin supporters, and to solicit donations, support, and volunteers;
-• Monitor and analyze trends and site usage and provide features andcontent that match your interests based on the information you provide and your actions on the Sites;
-• To manage our business;
-• To notify you of changes to our Sites;
-• Contact you if required by Federal election laws.
-• For any other purpose for which the information was collected;
-• To protect the interests of Friends of Nicole Locklin, another visitor to the Sites, and/or to enforce one or more provisions of this Privacy Policy;
-• To communicate with you, including through newsletters and email notifications, confirmations, technical notices, updates, and security alerts, as well as regarding support and administrative messages thatyou may request.
+How We Use Your Personal Information We may use your Personal Information for various purposes including to: • Connect you to Friends of Nicole Locklin programs, events, and activities, and obtain and confirm RSVP’s to events and programs; • Improve, maintain, and operate the Sites, send you receipts, confirmations, updates, notices, and messages regarding support and administration; • Provide and deliver news and information we think will interest you, such as information about relevant issues, resources, events, campaigns, candidates, events, promotions, products, and services; • Provide information or products that you request and process and complete such transactions; • Respond to your emails, requests, comments, submissions, and questions, and provide customer service, request feedback, and otherwise communicate with you regarding your use of the Sites; • Help connect you with other Friends of Nicole Locklin supporters, and to solicit donations, support, and volunteers; • Monitor and analyze trends and site usage and provide features andcontent that match your interests based on the information you provide and your actions on the Sites; • To manage our business; • To notify you of changes to our Sites; • Contact you if required by Federal election laws. • For any other purpose for which the information was collected; • To protect the interests of Friends of Nicole Locklin, another visitor to the Sites, and/or to enforce one or more provisions of this Privacy Policy; • To communicate with you, including through newsletters and email notifications, confirmations, technical notices, updates, and security alerts, as well as regarding support and administrative messages thatyou may request.
 We want to communicate with you only if you want to hear from us.
 We try to keep emails to a minimum and give you the ability to opt into any marketing communications we send.
 You may also elect to receive certain marketing email communications, in accordance with your preferences, and from which you may opt-out at any time by adjusting your notification settings or using the “unsubscribe” link in the relevant correspondence.
-How We Share Your Personal Information
-Though we take reasonable efforts to preserve your privacy, we may share Personal information as follows:
-• When we have a good-faith belief that release is appropriate to comply with the law (for example, a lawful subpoena);
-• To protect the rights or property or safety of our supporters, employees, volunteers, or others;
-• With vendors, service providers, consultants, employees, contractors, or volunteers who need to know such information to carry out their duties;
-• To report your name, address, occupation, employer, and amount contributed if your donation exceeds $200, as required by the FEC;
-• To comply with applicable laws, statutes, or regulations and to enforce this Privacy Policy; and
-• With your consent.
+How We Share Your Personal Information Though we take reasonable efforts to preserve your privacy, we may share Personal information as follows: • When we have a good-faith belief that release is appropriate to comply with the law (for example, a lawful subpoena); • To protect the rights or property or safety of our supporters, employees, volunteers, or others; • With vendors, service providers, consultants, employees, contractors, or volunteers who need to know such information to carry out their duties; • To report your name, address, occupation, employer, and amount contributed if your donation exceeds $200, as required by the FEC; • To comply with applicable laws, statutes, or regulations and to enforce this Privacy Policy; and • With your consent.
 We do not share your information with groups, causes, organizations, or candidates we believe have similar views, goals, and principles.
 In the event of a bankruptcy or a sale, merger, or acquisition, Friends of Nicole Locklin may transfer your Personal Information to a separate entity.
 That entity will beresponsible for ensuring your Personal Information is used only for authorized purposes and in a manner consistent with this Privacy Policy and applicable law.
-Sharing of Information
-We may share information about you as follows or as otherwise described in thisPrivacy Policy:
-• With vendors, service providers, volunteers, and consultants who needaccess to such information to carry out work on our behalf;
-• With organizations, candidates, campaigns, groups, or causes that webelieve have similar political viewpoints, principles, or objectives orshare similar goals and with organizations that facilitate communicationsand information sharing among such groups;
-• With other participants in a joint fundraising committee;
-• To report required information to the Federal Election Commission orstate agencies, including name, mailing address, occupation, employer,and principal place of business of individuals whose contributionsexceed $200 in an election cycle;
-• In response to a request for information if we believe disclosure is inaccordance with, or required by, any applicable law or legal process,including lawful requests by public authorities to meet national securityor law enforcement requirements;
-• When we believe in good faith that we are lawfully authorized orrequired to do so or that doing so is reasonably necessary orappropriate to comply with the law or legal processes or respond tolawful requests, claims, or legal authorities, including responding tolawful subpoenas, warrants, or court orders;
-• If we believe your actions are inconsistent with the spirit or language ofour user agreements or policies, or to protect the rights, property, andsafety of SFS, its employees, volunteers, constituents, or others;
-• In connection with, or during negotiations of, any reorganization orformation of a new committee or successor organization, asset sale ortransfer, financing or lending transaction, or in any other situation wherepersonal information may be disclosed or transferred as one of theassets of SFS;
-• With your consent or at your direction.
-• We may also share aggregated or de-identified information that cannotreasonably be used by those third parties to identify you.
+Sharing of Information We may share information about you as follows or as otherwise described in thisPrivacy Policy: • With vendors, service providers, volunteers, and consultants who needaccess to such information to carry out work on our behalf; • With organizations, candidates, campaigns, groups, or causes that webelieve have similar political viewpoints, principles, or objectives orshare similar goals and with organizations that facilitate communicationsand information sharing among such groups; • With other participants in a joint fundraising committee; • To report required information to the Federal Election Commission orstate agencies, including name, mailing address, occupation, employer,and principal place of business of individuals whose contributionsexceed $200 in an election cycle; • In response to a request for information if we believe disclosure is inaccordance with, or required by, any applicable law or legal process,including lawful requests by public authorities to meet national securityor law enforcement requirements; • When we believe in good faith that we are lawfully authorized orrequired to do so or that doing so is reasonably necessary orappropriate to comply with the law or legal processes or respond tolawful requests, claims, or legal authorities, including responding tolawful subpoenas, warrants, or court orders; • If we believe your actions are inconsistent with the spirit or language ofour user agreements or policies, or to protect the rights, property, andsafety of SFS, its employees, volunteers, constituents, or others; • In connection with, or during negotiations of, any reorganization orformation of a new committee or successor organization, asset sale ortransfer, financing or lending transaction, or in any other situation wherepersonal information may be disclosed or transferred as one of theassets of SFS; • With your consent or at your direction. • We may also share aggregated or de-identified information that cannotreasonably be used by those third parties to identify you.
 The above excludes text messaging originator opt-in data and consent, whichinformation will not be shared with any third parties, provided that the foregoing doesnot apply to sharing (1) with vendors, consultants and other service providers who needaccess to such information to carry out work on our behalf (and who will not use suchinformation for their own purposes); (2) if we believe disclosure is required by anyapplicable law, rule, or regulation or to comply with law enforcement work on our behalf(and who will not use such information for their own purposes); (2) if we believedisclosure is required by any applicable law, rule, or regulation or to comply with lawenforcement or legal process; and (3) if the user consents to our sharing of suchinformation.
-How We Protect and Retain the Information You Provide
-Friends of Nicole Locklin uses reasonable industry-standard security measures toprotect against the loss, misuse, theft, unauthorized access, destruction, or alteration ofthe information under our control.
+How We Protect and Retain the Information You Provide Friends of Nicole Locklin uses reasonable industry-standard security measures toprotect against the loss, misuse, theft, unauthorized access, destruction, or alteration ofthe information under our control.
 Although we make good faith efforts to storeinformation collected by the Sites in a secure operating environment, we cannotguarantee complete security.
 We will retain your Personal Information as long as you have an active account with Friends of Nicole Locklin, as necessary to provide you with the services via the Sites, or as otherwise set forth in this Privacy Policy.
 We will also retain and use Personal Information as necessary for the purposes set out in this Privacy Policy and to the extent necessary to comply with our legal obligations, resolve disputes, enforce ouragreements, and protect our legal rights.
 We also collect, maintain, use, and share aggregated, anonymized, or pseudonymized information, which we may retain indefinitely to protect the safety and security of our Sites, improve our Sites, or complywith legal obligations.
-CAN-SPAM Act
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-We collect your email address in order to:
-• Send information, respond to inquiries, and/or other requests or questions
-• Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
-To be in accordance with CANSPAM, we agree to the following:
-• Do not use false or misleading subjects or email addresses.
-• Identify the message as an advertisement in some reasonable way.
-• Include the physical address of our business or site headquarters.
-• Monitor third-party email marketing services for compliance, if one isused.
-• Honor opt-out/unsubscribe requests quickly.
-• Allow users to unsubscribe by using the link at the bottom of each email.
-If at any time you would like to unsubscribe from receiving future emails, you can email us at info@locklinforcongress.com
-How to Unsubscribe or Opt-Out
-Those who subscribe to email lists via the Sites will receive periodic updates from us by regular mail, fax, or email.
+CAN-SPAM Act The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+We collect your email address in order to: • Send information, respond to inquiries, and/or other requests or questions • Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+To be in accordance with CANSPAM, we agree to the following: • Do not use false or misleading subjects or email addresses. • Identify the message as an advertisement in some reasonable way. • Include the physical address of our business or site headquarters. • Monitor third-party email marketing services for compliance, if one isused. • Honor opt-out/unsubscribe requests quickly. • Allow users to unsubscribe by using the link at the bottom of each email.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at info@locklinforcongress.com How to Unsubscribe or Opt-Out Those who subscribe to email lists via the Sites will receive periodic updates from us by regular mail, fax, or email.
 You may opt out of receiving future information via email byusing the unsubscribe procedure specified in the email message.
 We do not advertisethis website using unsolicited messages.
 With your consent, we may send promotionaland non-promotional push notifications or alerts to your mobile device.
 You candeactivate these messages at any time by changing the notification settings on yourmobile device.
 You may also contact us at info@locklinforcongress.com if you no longerwish to receive communications regarding Friends of Nicole Locklin or the Sites.
 If youopt-out, we may still send you non-promotional emails, such as those about your use ofthe Sites.
-Rejecting Cookies / Do Not Track
-Most web browsers are set to accept cookies by default.
+Rejecting Cookies / Do Not Track Most web browsers are set to accept cookies by default.
 If you prefer, you can usuallychoose to set your browser to remove or reject browser cookies.
 If you choose to reject all cookies, you may be unable to use certain areas of the Sites.
 Some browsers have incorporated “Do Not Track” features.
 Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked.
 California law requires that an operator of a website or other online service disclose how the operator responds to a Do Not Track signal and whether third parties may collect personal information about an individual’s online activities from the operator’s website or online service.
 Friends of Nicole Locklin is committed to providing you with meaningful choices about the information collected through the Services, however, please be aware that the Internet industry is currently still working on Do Not Track standards.
-California Privacy Rights
-Effective January 1, 2005, under California Civil Code Section 1798.83, if an individual who is a California resident has provided Personal Information to a business in connection with a business relationship that is primarily for personal, family, or household purposes, and if that business has within the immediately preceding calendar year disclosed such an individual’s Personal Information to a third party and knows or should have known that such third party used the information for its own direct marketing purposes, then that business is obligated to disclose in writing to such individual upon request, what Personal Information was shared and with whom it was shared.
+California Privacy Rights Effective January 1, 2005, under California Civil Code Section 1798.83, if an individual who is a California resident has provided Personal Information to a business in connection with a business relationship that is primarily for personal, family, or household purposes, and if that business has within the immediately preceding calendar year disclosed such an individual’s Personal Information to a third party and knows or should have known that such third party used the information for its own direct marketing purposes, then that business is obligated to disclose in writing to such individual upon request, what Personal Information was shared and with whom it was shared.
 As a non-profit, we are not a “business” subject to the California ConsumerPrivacy Act (California Civil Code Section 1798.135; “CCPA”) that went into effect on January 1, 2020.
 Our disclosures to service providers will strive to be consistent, however, with the spirit of the CCPA as of its effective date on January 1, 2020.
-Any request for a disclosure required under these California laws should be sent to us via email at info@locklinforcongress.com or via regular mail at: Friends of Nicole Locklin, 650 NE 32nd Street, Miami, FL 33137
-Please note that we are not required to respond to your request more than once in a calendar year, nor are we required to respond to any request that is not sent to the email or mailing address designated above.
-Additional Information for International Visitors
-The Sites are hosted in and provided from the United States.
+Any request for a disclosure required under these California laws should be sent to us via email at info@locklinforcongress.com or via regular mail at: Friends of Nicole Locklin, 650 NE 32nd Street, Miami, FL 33137 Please note that we are not required to respond to your request more than once in a calendar year, nor are we required to respond to any request that is not sent to the email or mailing address designated above.
+Additional Information for International Visitors The Sites are hosted in and provided from the United States.
 While we do not direct our services to residents of the European Union (or European Economic Area; together, “EU”), it is possible that EU residents may access and use the Sites.
 If you use the Sites and/or reside in the EU, Canada, or other regions with laws governing data collectionand use that may differ from U.S. law, please note that you may be transferring your personal data to the United States.
 The United States may not have the same data protection laws as the EU, Canada, and some other regions.
 By providing Personal Information, you consent to the transfer of your Personal Information to the United States and the use of your Personal Information, in accordance with this Privacy Policy.
-If we collect Personal Information from EU residents, we strive to do so in a manner in compliance with the General Data Protection Regulation (“GDPR”), which include acknowledgment of EU residents’ rights, including the following:
-• to withdraw your consent to the processing of Personal Information about you to which you have previously given consent;
-• to object to processing of Personal Information about you for the purpose of direct marketing; and
-• to have incorrect Personal Information about you corrected.
+If we collect Personal Information from EU residents, we strive to do so in a manner in compliance with the General Data Protection Regulation (“GDPR”), which include acknowledgment of EU residents’ rights, including the following: • to withdraw your consent to the processing of Personal Information about you to which you have previously given consent; • to object to processing of Personal Information about you for the purpose of direct marketing; and • to have incorrect Personal Information about you corrected.
 You also have the right to obtain a copy of the Personal Information we have about you, although we reserve the right to charge a fee for this.
-California Residents
-Some browsers have incorporated “Do Not Track” features.
+California Residents Some browsers have incorporated “Do Not Track” features.
 Most of these features, when turned on, send a signal or preference to a website or online service that a user visits, indicating that the user does not wish to be tracked.
 California law requires that an operator of a website or other online service disclose how the operator responds to a Do Not Track signal and whether third parties may collect personal information about an individual’s online activities from the operator’s website or online service.
 Nicole Locklin for Congress is committed to providing you with meaningful choices about the information collected through the Sites, however please be aware that the Internet industry is currently still working on Do Not Track standards, implementations and solutions, and therefore the Sites may or may not respond to those signals.
 California law also provides California residents with the right to receive disclosures about any sharing of their Personal Information to a business in connection with a business relationship that is primarily for personal, family, or household purposes, and if that business has within the immediately preceding calendar year disclosed such an individual’s Personal Information to a third-party and knows or should have known that such third-party used the information for its own direct marketing purposes, then that business is obligated to disclose in writing to such individual upon request, what Personal Information was shared and with whom it was shared.
-Any request for a disclosure required under this California law should be sent to us viaemail at info@locklinforcongress.com or via regular mail at: Friends of NicoleLocklin, 650 NE 32nd Street, Miami, FL 33137
-Updates to This Privacy Policy
-Friends of Nicole Locklin may modify this Privacy Policy from time to time so we encourage you to check this page when revisiting the Sites to make sure that you are informed of how your personal information will be used.
+Any request for a disclosure required under this California law should be sent to us viaemail at info@locklinforcongress.com or via regular mail at: Friends of NicoleLocklin, 650 NE 32nd Street, Miami, FL 33137 Updates to This Privacy Policy Friends of Nicole Locklin may modify this Privacy Policy from time to time so we encourage you to check this page when revisiting the Sites to make sure that you are informed of how your personal information will be used.
 We will post notice of any changes by revising the date last updated on the Privacy Policy.
 By using or accessing the Sites, you accept the Privacy Policy and its terms and conditions in effect at that time.
-How to Contact Us
-Questions regarding this Privacy Policy should be emailed to Friends of Nicole Locklin at info@locklinforcongress.com or via regular mail at: Friends of Nicole Locklin, 650 NE 32nd Street, Miami, FL 33137
+How to Contact Us Questions regarding this Privacy Policy should be emailed to Friends of Nicole Locklin at info@locklinforcongress.com or via regular mail at: Friends of Nicole Locklin, 650 NE 32nd Street, Miami, FL 33137 Request Democrat Nicole Locklin for an Event: If you would like Nicole Locklin to come to your meeting, or any other type of event, please email your request to: info@locklinforcongress.com Nicole Locklin for U.S.
+Congress 1808 N.
+University Dr, Pembroke Pines, FL 33024 (786) 626-0772 Any individuals appearing in photos or videos on our website does not imply an endorsement of Nicole Locklin of that person or any organization they may be affiliated unless otherwise stated. ‍     Privacy Policy

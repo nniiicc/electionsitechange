@@ -1,13 +1,9 @@
-Home
-About
-Policy Priorities
-Donate/Support
-Events & Blog
-Cate Brennan for Texas House District 98
-Events & Blog
-BBQ Fundraiser 1-4pm, Sept. 5; ...
-10 Reasons why Cate will win HD98 in November
-5:30-8:30pm, April 15-Campaign Kickoff & 50K Challenge
-House District 98 Candidate Forum – Grapevine February 24...
+Home About Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 Events & Blog BBQ Fundraiser 1-4pm, Sept.
+5; ...
+10 Reasons why Cate will win HD98 in November 5:30-8:30pm, April 15-Campaign Kickoff & 50K Challenge House District 98 Candidate Forum – Grapevine February 24...
 Grapevine Wave Fundraiser for Vikki Goodwin, Katie O'Brie...
-Fort Worth Report Democratic Primary Forum
+Fort Worth Report Democratic Primary Forum Cate Brennan for HD98 [email protected] 214.435.2068 Mail: 2150 W.
+Northwest Hwy, Ste.
+114, PMB #1053, Grapevine, TX 76051 Pol.
+Adv.
+Paid for by Brennan For HD98, Jason Horowitz, Treasurer © Cate Brennan, #, All Rights Reserved Home Privacy policy

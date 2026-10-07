@@ -1,11 +1,46 @@
 [
-"https://secure.anedot.com/friends-of-virgle-osborne/donate",
-"https://virgleosborne.com/",
-"https://virgleosborne.com/endorsements",
-"https://virgleosborne.com/get-a-sign",
-"https://virgleosborne.com/get-involved",
-"https://virgleosborne.com/meet-virgle",
-"https://virgleosborne.com/newsletters",
-"https://virgleosborne.com/privacy-policy",
-"https://virgleosborne.com/terms-conditions"
+{
+"text": "DONATE TODAY!",
+"href": "https://secure.anedot.com/friends-of-virgle-osborne/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-virgle-osborne/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://virgleosborne.com/endorsements/"
+},
+{
+"text": "Get Involved!",
+"href": "https://virgleosborne.com/get-involved/"
+},
+{
+"text": "Get a Sign!",
+"href": "https://virgleosborne.com/get-a-sign/"
+},
+{
+"text": "Home",
+"href": "https://virgleosborne.com/"
+},
+{
+"text": "Meet Virgle",
+"href": "https://virgleosborne.com/meet-virgle/"
+},
+{
+"text": "Newsletters",
+"href": "https://virgleosborne.com/newsletters/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://virgleosborne.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://virgleosborne.com/terms-conditions/"
+},
+{
+"text": "[image: Virgle Osborne]",
+"href": "https://virgleosborne.com/"
+}
 ]

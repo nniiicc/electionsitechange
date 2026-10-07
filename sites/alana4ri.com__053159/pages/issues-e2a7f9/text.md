@@ -1,86 +1,94 @@
-01
-Jobs & The Economy
-Rhode Island's workforce is aging, and we need to attract, recruit, and retain professionals in all sectors.
+top of page Home About Issues In the News Newsletter Menu Close VOLUNTEER DONATE 01 Jobs & The Economy Rhode Island's workforce is aging, and we need to attract, recruit, and retain professionals in all sectors.
 We must invest in housing, workforce training, innovative career paths, and jobs that pay a thriving wage.
 People who work hard, including small business owners, deserve the chance to succeed.
-When families have more to spend, communities grow stronger.
-My work on jobs and the economy:
-- Created additional licensure pathways for health care providers and lowered costs for practicing pharmacists to keep them here in Rhode island
-- Helped restaurants and bars recover from the pandemic by protecting their investments in outdoor dining
-- Expanded the Wavemaker tax incentive program to include social workers and mental health counselors, proposed innovative student loan repayment programs
-- Supported infrastruture investments in Quonset and the Port of Galillee to attract and retain employers in a variety of industries
-- Created a pathway for home food entrepreneurs to start businesses with minimal red tape and strong safety standards
-- Expanded access to subsidized child care for working families, child care educator opportunities and benefits, and supported investments in attainable housing
-02
-Healthcare
-Healthy communities depend on affordable access to the right levels of care, in the right places, at the right time.
+When families have more to spend, communities grow stronger. ​ My work on jobs and the economy: Created additional licensure pathways for health care providers and lowered costs for practicing pharmacists to keep them here in Rhode island Helped restaurants and bars recover from the pandemic by protecting their investments in outdoor dining Expanded the Wavemaker tax incentive program to include social workers and mental health counselors, proposed innovative student loan repayment programs Supported infrastruture investments in Quonset and the Port of Galillee to attract and retain employers in a variety of industries Created a pathway for home food entrepreneurs to start businesses with minimal red tape and strong safety standards Expanded access to subsidized child care for working families, child care educator opportunities and benefits, and supported investments in attainable housing ​ 02 Healthcare Healthy communities depend on affordable access to the right levels of care, in the right places, at the right time.
 No one should go broke because of illness or be forced to go without care based on cost.
-Rhode Island must invest in short, medium, and long-term solutions to build a sustainable health care system that meets our needs at every stage of life.
-My work on healthcare:
-- Served on the Commission to investigate the feasibility of a public medical school at the University of Rhode Island
-- Removed barriers to access community-based, emergency mental health care and avoid unncessary hospitalizations
-- Expanded healthcare coverage for pregnancy, children, and people with cancer
-- Streamlined pathways for social workers and mental health professionals so people can access care faster
-- Sustained innovative resource consultation programs to support primary care providers and pediatricians
-- Partnered with community nonprofits to expand training opportunities for health care providers working with young children
-- Eased administrative burdens for providers by streamlining prior authorizations and prescription refills
-- Supported protections for reproductive health care, access to health care for the trans community, and for health care providers
-03
-Rights & Equality
-Our country was founded on the ideal of fundamental equality, and as Senator I work to codify protections that promote equality into law so everyone has the freedom to live their lives.
-This includes:
-- Supporting studies and legislative action that examine and address racial, disability, and other biases in our institutions – such as law enforcement, education, and child welfare – to help us move toward that founding ideal of equality
-- Cosponsoring legislation that creates equal opportunity for women-owned and minority-owned businesses
-- Promoting and defending policies that protect and uplift our LGBTQ friends and neighbors
-- Addressing the needs of our senior and veteran populations to access essential services including transportation, healthcare, and housing
-My work on rights and equality:
-- Successfully funded a study for RIPTA to design and implement a statewide paratransit system to meet the work, health care, and community access needs of people with disabilities and seniors
-- Preserved Section 504 protections in state law, ensuring access to educational. housing, workplace, and transportation accommodations
-- Passed legislation to incorporate standards in police training for interactions involving people with cognitive and communication-based disabilities
-04
-Environment
-Protecting our natural resources is a top priority.
+Rhode Island must invest in short, medium, and long-term solutions to build a sustainable health care system that meets our needs at every stage of life. ​ My work on healthcare: Served on the Commission to investigate the feasibility of a public medical school at the University of Rhode Island Removed barriers to access community-based, emergency mental health care and avoid unncessary hospitalizations Expanded healthcare coverage for pregnancy, children, and people with cancer Streamlined pathways for social workers and mental health professionals so people can access care faster Sustained innovative resource consultation programs to support primary care providers and pediatricians Partnered with community nonprofits to expand training opportunities for health care providers working with young children Eased administrative burdens for providers by streamlining prior authorizations and prescription refills Supported protections for reproductive health care, access to health care for the trans community, and for health care providers 03 Rights & Equality Our country was founded on the ideal of fundamental equality, and as Senator I work to codify protections that promote equality into law so everyone has the freedom to live their lives.
+This includes: ​ Supporting studies and legislative action that examine and address racial, disability, and other biases in our institutions – such as law enforcement, education, and child welfare – to help us move toward that founding ideal of equality Cosponsoring legislation that creates equal opportunity for women-owned and minority-owned businesses Promoting and defending policies that protect and uplift our LGBTQ friends and neighbors Addressing the needs of our senior and veteran populations to access essential services including transportation, healthcare, and housing ​ My work on rights and equality: Successfully funded a study for RIPTA to design and implement a statewide paratransit system to meet the work, health care, and community access needs of people with disabilities and seniors Preserved Section 504 protections in state law, ensuring access to educational. housing, workplace, and transportation accommodations Passed legislation to incorporate standards in police training for interactions involving people with cognitive and communication-based disabilities 04 Environment Protecting our natural resources is a top priority.
 We must expand affordable renewable energy, protect air and water quality, and prepare our communities for climate change.
-Our beaches, parks, and public lands are central to Rhode Island’s health and economy and must remain accessible to all.
-My work on the environment:
-- Passed legislation allowing coastal communities to plan for climate-resilient development
-- Enacted legislation balancing solar development with forest preservation, and created incentives for developing solar on parking lots, rooftops, and other preferred sites
-- Partnered with North Kingstown and Narragansett to create Municipal Resilience Plans and unlock climate infrastructure funding
-- Passed legislation protecting farmland and water supplies from PFAS contamination
-- Supported the Act on Climate, the 100% Renewable Energy Standard, and the Affordable Clean Energy Security Act
-- Advanced efforts to expand energy efficiency programs for renters and landlords
-- Passed legislation to increase textile recycling and extend the life of the landfill
-- Sponsored shoreline access legislation to preserve public access to Rhode Island’s coast
-05
-Education & Child Welfare
-We cannot succeed if we fail to protect and educate our most vulnerable residents.
-The pandemic exposed deep inequities in our schools and child welfare system, and we must build stronger, evidence-based supports for children and families.
-My work on education and child welfare:
-- Required DCYF to report child sexual abuse cases to children’s advocacy centers so victims receive support and abusers are held accountable
-- Expanded protections for child victims through recorded forensic interviews
-- Established a military family advocacy program addressing child abuse and neglect
-- Expanded access to high-quality child care and accelerated pathways to public pre-K
-- Secured funding for psychiatric residential treatment facilities for youth in state care
-- Supported funding for new school construction across Rhode Island
-06
-Livable Rhode Island for All
-Rhode Island should support residents at every stage of life, from early childhood through healthy aging.
-Strong families and safe homes create strong communities.
-My work on livability:
-- Created a statewide plan for Infant and Early Childhood Mental Wellness
-- Expanded Paid Family Leave for caregivers
-- Eliminated taxes on military pensions and increased the Circuit Breaker tax credit for seniors
-- Increased funding for home safety modifications so seniors can age safely in place
-07
-Protection of Voting Access & Civic Engagement
-Our state works best when everyone can use their voice.
-This means expanding voter access while strengthening election security and trust in our democratic process.
-My work on voting and civic engagement:
-- Supported the Let Rhode Island Vote Act to expand mail ballots and early in-person voting
-- Strengthened post-election security measures for General Assembly races
-- Advanced Same Day Voter Registration for state and local elections
-- Worked to improve transparency and make public testimony more accessible by reducing time, cost, and childcare barriers
-Issues
-Learn more about the issues that matter to District 36 and how I’m working to deliver results for our community.
-Legislation
-Alana has passed 56 bills into law in the last 5 years and successfully advocated for millions of dollars in budget funding to create opportunities and improve the quality of life for Rhode Islanders.
+Our beaches, parks, and public lands are central to Rhode Island’s health and economy and must remain accessible to all. ​ My work on the environment: Passed legislation allowing coastal communities to plan for climate-resilient development Enacted legislation balancing solar development with forest preservation, and created incentives for developing solar on parking lots, rooftops, and other preferred sites Partnered with North Kingstown and Narragansett to create Municipal Resilience Plans and unlock climate infrastructure funding Passed legislation protecting farmland and water supplies from PFAS contamination Supported the Act on Climate, the 100% Renewable Energy Standard, and the Affordable Clean Energy Security Act Advanced efforts to expand energy efficiency programs for renters and landlords Passed legislation to increase textile recycling and extend the life of the landfill Sponsored shoreline access legislation to preserve public access to Rhode Island’s coast 05 Education & Child Welfare We cannot succeed if we fail to protect and educate our most vulnerable residents.
+The pandemic exposed deep inequities in our schools and child welfare system, and we must build stronger, evidence-based supports for children and families. ​ My work on education and child welfare: Required DCYF to report child sexual abuse cases to children’s advocacy centers so victims receive support and abusers are held accountable Expanded protections for child victims through recorded forensic interviews Established a military family advocacy program addressing child abuse and neglect Expanded access to high-quality child care and accelerated pathways to public pre-K Secured funding for psychiatric residential treatment facilities for youth in state care Supported funding for new school construction across Rhode Island 06 Livable Rhode Island for All Rhode Island should support residents at every stage of life, from early childhood through healthy aging.
+Strong families and safe homes create strong communities. ​ My work on livability: Created a statewide plan for Infant and Early Childhood Mental Wellness Expanded Paid Family Leave for caregivers Eliminated taxes on military pensions and increased the Circuit Breaker tax credit for seniors Increased funding for home safety modifications so seniors can age safely in place 07 Protection of Voting Access & Civic Engagement Our state works best when everyone can use their voice.
+This means expanding voter access while strengthening election security and trust in our democratic process. ​ My work on voting and civic engagement: Supported the Let Rhode Island Vote Act to expand mail ballots and early in-person voting Strengthened post-election security measures for General Assembly races Advanced Same Day Voter Registration for state and local elections Worked to improve transparency and make public testimony more accessible by reducing time, cost, and childcare barriers Issues Learn more about the issues that matter to District 36 and how I’m working to deliver results for our community.
+Learn more about Alana’s priorities and the legislation she has passed to turn community needs into real results.
+ISSUES LEGISLATION Legislation Alana has passed 56 bills into law in the last 5 years and successfully advocated for millions of dollars in budget funding to create opportunities and improve the quality of life for Rhode Islanders.
+Healthcare Access & Affordability I have worked to increase affordable access to the physical and mental health care that Rhode Islanders need to stay well.
+Senate Bill 877 (2021) This act would prohibit insurance carriers from charging any out-of-pocket expenses to the insured for treatment related to the COVID-19 pandemic while the state of emergency order is in effect.
+This act would further mandate that all COVID-19 testing or vaccination is free during and upon the expiration of the state of emergency order. ​ Senate Bill 2531 (2022) This act would allow feminine hygiene products to be donated by people to nonprofit charities. ​ Senate Bill 2605 (2022) This act would authorize the governor to enter into the Psychology Interjurisdictional Compact and would designate an office to administer this compact.
+This would also create an intestate agreement that would allow limited telepsychological practice to be conducted across state lines among member states. ​ Senate Bill 2614 (2022) This act would establish a state plan to improve the promotion of social and emotional well-being of young children as well as screening, assessment, diagnosis and treatment of mental health challenges in currently covered Medicaid mental health services for infants and young children under the age of six (6). ​ Senate Bill 290 (2023) This act would require a workgroup of health care providers and health insurers convened by the office of the health commissioner, to make recommendations regarding prior authorization policies. ​ Senate Bill 2072 (2024) This act would designate, for fiscal year 2025, the usage for certain funds within the immunization account to preserve the Moms PRN and Pedi PRN Psychiatric Resource Networks. ​ Senate Bill 2184 (2024) This act would adopt model legislation facilitating the interstate practice of regulated social workers. ​ Senate Bill 2378 (2024) This act would require the department of health to amend its rules and regulations that allow for DEA-registered pharmacies to transfer electronic prescriptions at a patient's request (21CFR Part 1306). ​ Senate Bill 263 (2025) This act would require coverage for acute mental health crisis mobile response and stabilization services to eligible individuals enrolled as plan beneficiaries. ​ Senate Bill 795 (2025) This act would increase the maximum fill for non-opioid, non-narcotic controlled substances found in schedule II, so that a ninety-day (90) supply may be dispensed at any one time. ​ Serves on the Study Commission to investigate opening a public medical school at the University of Rhode Island focused on creating a pipeline of primary care practitioners. ​ Worked with the Rhode Island Association of Infant Mental Health to secure a $75,000 grant from the Rhode Island Foundation to train a cohort of mental health professionals in best practices for treating young children and their families. ​ Worked with the Office of the Postsecondary Commissioner and the University of Rhode Island to launch an initiative to standardize best practices for mental health response and treatment at higher ed institutions across the state.
+Environment I have worked to increase Rhode Island’s resiliency against the damaging effects of climate change, balance the development of renewable energy resources with land preservation, increase recycling rates to prolong the landfill’s useful life, prevent PFAS from contaminating our land, and protect and promote local food systems.
+Senate Bill 473 (2021) This act would allow the twenty-one coastal communities to adopt the CRMC's coastal hazard application process applicable to local overlay districts for applicants seeking local building permits. ​ Senate Bill 684 (2023) This act defines core forest and preferred sites for the purposes of solar development, and adds commercial and industrial customers, and expands the Renewable Energy Growth program. ​ Senate Bill 2151 (2024) This act modifies the definition of “core forest” to refer to unfragmented forest blocks or single or multiple parcels totaling two hundred fifty (250) acres or greater unbroken by development and at least twenty-five (25) yards from mapped roads, instead of twenty-five (25) acres from mapped roads. ​ Senate Bill 2293 (2024) This act would establish the renewable ready program and fund to promote the responsible siting and development of renewable energy generating resources in locations where it would be an ancillary beneficial use to the redevelopment of previously contaminated property and other locations funded through the Rhode Island infrastructure bank. ​ Senate Bill 2849 (2024) This act would amend the provision of notice to be provided for the release of any hazardous gas or liquid as determined by the federal Pipeline and Hazardous Materials Safety Administration. ​ Senate Bill 324 (2025) This act would create a public education outreach program to educate residential households and commercial businesses on the value of, and proper methods to, recycle textiles in the state. ​ Senate Bill 650 (2025) This act would, effective September 1, 2025, require persons seeking to apply biosolids to lands to test the biosolids for PFAS contaminants on a quarterly basis and report those findings to the department of environmental management.
+This act would authorize the director to reject applications seeking distribution of biosolids to lands for environmental threat or risk to public health, safety, or welfare. ​ Serves on the Renewable Energy Study Commission Focused on maximizing benefits of renewable energy programs while maintaining affordability for ratepayers. ​ Co Chaired the Study Commission on declining Quahog populations in Narragansett Bay to investigate causes and restore the population, successfully advocated for increased transplant funding in the budget to support local shellfishers and local food systems.
+Education I have worked to elevate the voices of classroom teachers in decision-making about education and to improve opportunities for parental involvement in special education, in addition to mentoring several local students through internships and project learning opportunities Senate Bill 2497 This act would provide that trilobite be designated the state fossil (NHS Senior Project). ​ Senate Bill 182 (2023) This act would add the Rhode Island teacher of the year as an additional ex officio member of the council on elementary and secondary education as well as the board of education.
+The act would also provide that where the current Rhode Island teacher of the year is unable or unwilling to serve on the board of education a former Rhode Island teacher of the year could be selected to serve on the board by the commissioner of elementary and secondary education, as long as the individual is still teaching in Rhode Island public schools. ​ Senate Bill 2526 (2024) This act would establish requirements and a process for local education agencies to get written parental consent before conducting an evaluation, reevaluation, making an initial placement or changes in placement or the individual education program of a student in a special education program of services.
+Workforce & Economic Development I have worked to ensure we are developing and retaining industries and professionals in essential areas to provide the opportunities and services Rhode Islanders need, including improving access to the affordable and high quality child care that employers rely on for their workers Senate Bill 2616 (2022) This act would create an entry-level licensing program to allow applicants as a mental health counselor associate or a marriage and family therapist associate to practice under supervision prior to becoming a licensed mental health counselor or a licensed marriage and family therapist (also Health Care Access).
+Senate Bill 2617 (2022) This act would provide that no applicant for a license as a licensed clinical social worker shall be required to take or pass a standardized written examination prior to August 15, 2025, in order to qualify for the license.
+This shall sunset and expire on August 15, 2025 (also Health Care Access).
+Senate Bill 255 (2023) This act would provide that beginning on December 1, 2024, the renewal fee for a pharmacist license shall not be more than two hundred fifty dollars ($250) biennially, that a nonresident pharmacy license fee shall not be less than six hundred twenty-five dollars ($625), and that licenses for pharmacy interns would be valid for a period not less than five (5) years and licenses for pharmacy technicians valid for not less than two (2) years.
+This act would also align the licensing renewal period for pharmacists with continuing education requirements.
+Senate Bill 723 (2023) This act would include licensed advanced practice registered nurses (APRN), certified in psychiatric and mental health, as qualified to certify the need for mental health treatment in certain patients.
+Senate Bill 266 (2025) This act would repeal the examination requirement to qualify for a clinical social worker license through 2030 (also Health Care Access).
+Created the Child Care for Child Care Educators program in the budget where early childhood education workers receive fully subsidized child care in exchange for continuing to work in the field.
+Successfully advocated for budget funding to support development projects at the Quonset Business Park to provide opportunities for new businesses to grow in Rhode Island.
+Worker Protections I have passed legislation to protect workers and expand their earning opportunities.
+Senate Bill 2086 (2022) This act would provide that the period for health insurance providers to seek recoupment or set-off for claims submitted by a mental health and/or substance use disorder provider would be reduced from eighteen months to not more than twelve (12) months.
+Senate Bill 223 (2023) This act would allow any member who has rendered service both as a teacher under § 16-16-12 and service as a correctional officer under § 36-10-9.2(a) to elect to combine the member’s service under § 16-16-12 to determine the member’s retirement eligibility date under § 16-16-12.
+Senate Bill 342 (2023) This act would prohibit an employer from requiring an employee to execute a nondisclosure agreement or non-disparagement agreement regarding alleged violations of civil rights or criminal conduct as a condition of employment.
+It would also add the definition of “confidential” to the fair employment practices statute.
+Senate Bill 2156 (2024) This act would increase the maximum post-retirement employment earnings from eighteen thousand dollars ($18,000) to twenty-five thousand dollars ($25,000) per year for certain retired educators.
+Support for Small Business District 36 is home to many small, locally-owned food and hospitality businesses that were disrupted by the COVID 19 pandemic, I worked for several sessions to help them recover and preserve the investments they made to adjust to the public health crisis and create new opportunities for food entrepreneurs to get started.
+Senate Bill 654 (2021) This act would impose a moratorium on the enforcement of any municipal ordinance or zoning requirement that would penalize owners of food service establishments and bars for modifications or alterations to their premises in response to an emergency declaration by the governor or local municipal officials.
+Senate Bill 2134 (2022) This act would impose a moratorium on the enforcement of any municipal ordinance or zoning requirement that would penalize owners of food service establishments and bars for modifications or alterations to their premises in response to an emergency declaration by the governor or local municipal officials.
+The moratorium would be effective until April 1, 2023.
+Senate Bill 683 (2023) This act would extend the moratorium on penalties related to COVID-19 modifications to food businesses or food service establishments to February 15, 2024.
+Senate Bill 2028 (2024) This act would establish standards governing municipal regulation of outdoor dining at food service establishments.
+Successfully advocated for the establishment in the budget of a pathway for cottage food entrepreneurs to become licensed with the Department of Health to start a food business at home.
+Civil Rights I have worked to ensure all Rhode Islanders have equal protections and equal opportunities under the law, regardless of federal actions from the Trump Administration.
+Senate Bill 401 (2023) This act would require the Police Officers Commission on Standards and Training to provide training and instruction for police officers and trainees to more accurately identify complaints involving persons with cognitive or communication-related disabilities and to develop appropriate law enforcement responses to such emergencies, including training for officers investigating these complaints.
+Senate Bill 489 (2023) This act would require public school districts to take certain actions to promote notice of and disseminate information regarding the district’s Special Education Local Advisory Committee (also Education).
+Senate Bill 2280 (2024) North Kingstown Student Senior Project.
+This act would enable cities and towns to enact enabling legislation authorizing a partner program to assist students with an IEP through specially designed physical education classes (also Education).
+Senate Bill 887 (2025) This act would provide that in the event any provision of Section 504 of the Rehabilitation Act of 1973, prohibiting discrimination based on disability in federally funded programs or activities, codified at 29 U.S.C. § 794, is repealed or nullified by a federal judicial or executive branch action, the law applied in Rhode Island would be the law in effect immediately prior to the repeal or revocation (also Education and Worker Protections).
+Successfully advocated for RIPTA to study and establish a pilot for a statewide paratransit system for Rhode Islanders with disabilities, which is currently ongoing.
+Child Welfare I have worked to ensure we are protecting Rhode Island’s most vulnerable children to create better outcomes.
+Senate Bill 412 (2021) This act would require the Department of Children, Youth and Families to report all suspected cases of child sexual abuse to a children’s advocacy center.
+Senate Bill 2105 (2022) This act would establish a Military Family Advocacy Program to address child abuse and neglect in military families.
+Senate Bill 2120 (2022) This act would increase the age of children able to utilize a recorded forensic interview for grand jury testimony in sexual abuse cases from fourteen (14) to sixteen (16).
+Successfully advocated for budget funding for a comprehensive needs assessment for DCYF to ensure the services they procure with state funds for children and families are meeting the needs of Rhode Islanders statewide.
+Housing I have worked to create opportunities for attainable housing for Rhode Islanders at every stage of life.
+Senate bill 1092 (2025) This act would add an additional purpose to the standard provisions list that a zoning ordinance is required to address where within the urban services boundary multi unit dwellings may be constructed where water and sewer capacity exists.
+Election Security Rhode Islanders deserve to have confidence in the results of every election, including General Assembly races.
+Senate Bill 2458 (2024) This act would include the general assembly elections within the category of elections subject to the risk-limiting audits within the jurisdiction of the board of elections.
+Local Bills I have consistently and successfully worked with local leadership from Narragansett, North Kingstown, and New Shoreham to deliver the results they need from the General Assembly to maintain a high quality of local services for residents and move our communities forward.
+Senate Bill 242 (2021) North Kingstown.
+This act would exempt from taxation the real property of Ocean State Community Wellness, Inc., a qualified tax-exempt corporation under § 501(c)(3) of the United States Internal Revenue Code, for the property located at 7450 Post Road, North Kingstown, Rhode Island.
+Senate Bill 2930 (2022) Narragansett.
+This act would increase the landing fee at the Port of Galilee in the town of Narragansett from thirty-five cents ($0.35) to fifty cents ($0.50).
+Senate Bill 3009 (2022) Narragansett.
+This act would authorize the town of Narragansett to issue not more than $20,000,000 in general obligation bonds, notes, and other evidences of indebtedness to finance the improvement, replacement, construction, renovation, repair, reconstruction, and restoration of roadways, sidewalks, storm drains, public buildings, and other public infrastructure in the town of Narragansett, and all costs incidental thereto.
+Senate Bill 302 (2023) Narragansett.
+This act would allow the town of Narragansett, upon receiving a request for the abandonment of a highway or driftway from an abutting property owner, to sell the highway or driftway to the abutting owner at fair market value.
+Senate Bill 303 (2023) New Shoreham.
+This act would allow the town council of New Shoreham to adopt a tax classification plan applicable to taxes on or after the assessment date of December 31, 2023.
+Senate Bill 439 (2023) Narragansett.
+This act would designate a fishing access site at Black Point in Narragansett as the “Stephen J.
+Medeiros Fishing Area at Black Point.” Senate Bill 469 (2023) New Shoreham.
+This act would include the Block Island Utility District as one of the electric companies exempt from offering retail access from nonregulated power producers to all customers.
+Senate Bill 805 (2023).
+This act would allow Gregory A.
+Mancini, Esq., to join Semra Beric and James Silvia-Chandley in marriage on or about October 22, 2023, within the City of Newport, Rhode Island.
+Senate Bill 3093 (2024) Narragansett.
+This act would authorize the town of Narragansett to issue not more than $3,000,000 in general obligation bonds and notes to finance affordable housing in the town of Narragansett, including appropriations to the town’s affordable housing trust, programs to implement the town’s affordable housing plan, and other affordable housing purposes as determined by the town council.
+Senate Bill 422 (2025) New Shoreham School Construction Bond.
+This act would serve as the enabling act required by Rhode Island General Laws § 16-7-44 in order for the principal and interest on bonds issued in support of school housing projects to be eligible for state housing aid reimbursement.
+Senate Bill 712 (2025) New Shoreham.
+This act would provide that municipal water supply entities, including New Shoreham, be required to provide water service only within their designated service areas.
+Senate Bill 980 (2025) New Shoreham.
+This act would increase the landing fee for the town of New Shoreham from fifty cents ($0.50) to one dollar ($1.00).
+Senate Bill 1009 (2025) New Shoreham.
+This act would allow the town council of New Shoreham, in lieu of a homestead exemption, to adopt a tax classification plan dividing residential real estate into owner-occupied and non-owner-occupied property and adopt separate tax rates by ordinance or resolution.
+Senate Bill 1110 (2025) Narragansett.
+This act would increase the landing fee for the town of Narragansett from fifty cents ($0.50) to one dollar ($1.00).
+Alana4RI@gmail.com 401-626-2405 47 Tupelo Trail, Narragansett, RI 02882 Paid for by Alana for Rhode Island Your input matters.
+Reach out with your thoughts, questions, or ideas for how we can keep moving District 36 forward.
+First name Last name Email * Phone Message * Submit Home About Issues In the News Newsletter bottom of page

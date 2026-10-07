@@ -1,62 +1,266 @@
 [
-"http://h355: names on the ballot/",
-"http://hb223: ballot delivery/",
-"http://hb255: additional voter id requirement/",
-"http://s1110: citizen ballot initiatives/",
-"http://s1166: same day voter registration restrictions and provisional ballots/",
-"https://eastidahonews.com/2021/04/on-100th-day-of-idaho-legislature-is-there-an-end-in-sight-not-really",
-"https://facebook.com/WintrowforD19",
-"https://idahodems.org/",
-"https://idahodlcc.org/",
-"https://instagram.com/senatormelissawintrow",
-"https://legislature.idaho.gov/sessioninfo/2021/legislation/H0220",
-"https://legislature.idaho.gov/sessioninfo/2021/legislation/H0299",
-"https://legislature.idaho.gov/sessioninfo/2021/legislation/H0316",
-"https://legislature.idaho.gov/sessioninfo/2021/legislation/H0362",
-"https://legislature.idaho.gov/sessioninfo/2021/legislation/H0377",
-"https://legislature.idaho.gov/sessioninfo/2021/legislation/S1111",
-"https://legislature.idaho.gov/sessioninfo/2021/legislation/S1183",
-"https://legislature.idaho.gov/sessioninfo/2021/legislation/S1205",
-"https://legislature.idaho.gov/sessioninfo/2021/legislation/S1211",
-"https://legislature.idaho.gov/sessioninfo/2021/legislation/SJR102",
-"https://legislature.idaho.gov/sessioninfo/agenda/scal",
-"https://secure.actblue.com/donate/melissa-wintrow-for-idaho",
-"https://twitter.com/wintrow4idaho",
-"https://wintrowforidaho.com/",
-"https://wintrowforidaho.com/about-district-19",
-"https://wintrowforidaho.com/about-melissa-wintrow",
-"https://wintrowforidaho.com/another-shocking-murder-by-ice",
-"https://wintrowforidaho.com/awards",
-"https://wintrowforidaho.com/category/2021-session",
-"https://wintrowforidaho.com/category/2023-legislative-session",
-"https://wintrowforidaho.com/category/budget-government-spending",
-"https://wintrowforidaho.com/category/civil-discourse",
-"https://wintrowforidaho.com/category/covid-19",
-"https://wintrowforidaho.com/category/health-care",
-"https://wintrowforidaho.com/category/human-rights",
-"https://wintrowforidaho.com/category/mandatory-mimumums-reform",
-"https://wintrowforidaho.com/category/marriage-age-reform",
-"https://wintrowforidaho.com/category/newsevents",
-"https://wintrowforidaho.com/category/property-taxes",
-"https://wintrowforidaho.com/category/public-education",
-"https://wintrowforidaho.com/category/public-lands",
-"https://wintrowforidaho.com/category/uncategorized",
-"https://wintrowforidaho.com/category/violence-prevention",
-"https://wintrowforidaho.com/category/voting-rights",
-"https://wintrowforidaho.com/community-efforts",
-"https://wintrowforidaho.com/contact",
-"https://wintrowforidaho.com/endorsements",
-"https://wintrowforidaho.com/fight-or-flight-lets-fight-for-whats-right",
-"https://wintrowforidaho.com/idahos-budget-chaos",
-"https://wintrowforidaho.com/legislation",
-"https://wintrowforidaho.com/media-resources",
-"https://wintrowforidaho.com/newsletter",
-"https://wintrowforidaho.com/oppressive-bills-hit-the-senate",
-"https://wintrowforidaho.com/preventable-predictable-idahos-budget-crisis-impacts-all-of-us",
-"https://wintrowforidaho.com/priorities",
-"https://wintrowforidaho.com/request-a-yard-sign",
-"https://wintrowforidaho.com/take-action",
-"https://wintrowforidaho.com/videos",
-"https://wintrowforidaho.com/volunteer",
-"https://youtube.com/channel/UC12zKiJSZMuWtrAxIIg354g"
+{
+"text": "2021 Legislative Session",
+"href": "https://www.wintrowforidaho.com/category/2021-session/"
+},
+{
+"text": "2023 Legislative Session",
+"href": "https://www.wintrowforidaho.com/category/2023-legislative-session/"
+},
+{
+"text": "2026 Session / Take Action",
+"href": "https://www.wintrowforidaho.com/take-action/"
+},
+{
+"text": "ANOTHER SHOCKING MURDER by ICE",
+"href": "https://www.wintrowforidaho.com/another-shocking-murder-by-ice/"
+},
+{
+"text": "About District 19",
+"href": "https://www.wintrowforidaho.com/about-district-19/"
+},
+{
+"text": "About Melissa",
+"href": "https://www.wintrowforidaho.com/about-melissa-wintrow/"
+},
+{
+"text": "According to an interview",
+"href": "https://www.eastidahonews.com/2021/04/on-100th-day-of-idaho-legislature-is-there-an-end-in-sight-not-really/"
+},
+{
+"text": "Awards",
+"href": "https://www.wintrowforidaho.com/awards/"
+},
+{
+"text": "Budget / Government Spending",
+"href": "https://www.wintrowforidaho.com/category/budget-government-spending/"
+},
+{
+"text": "COVID 19",
+"href": "https://www.wintrowforidaho.com/category/covid-19/"
+},
+{
+"text": "Civil Discourse",
+"href": "https://www.wintrowforidaho.com/category/civil-discourse/"
+},
+{
+"text": "Community Efforts",
+"href": "https://www.wintrowforidaho.com/community-efforts/"
+},
+{
+"text": "Contact Me",
+"href": "https://www.wintrowforidaho.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/melissa-wintrow-for-idaho"
+},
+{
+"text": "Endorsements",
+"href": "https://www.wintrowforidaho.com/endorsements/"
+},
+{
+"text": "Fight or Flight? Let’s Fight for What’s Right!",
+"href": "https://www.wintrowforidaho.com/fight-or-flight-lets-fight-for-whats-right/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/wintrow4idaho"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/WintrowforD19/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/senatormelissawintrow/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/channel/UC12zKiJSZMuWtrAxIIg354g"
+},
+{
+"text": "H355: Names on the Ballot",
+"href": "http://h355:%20names%20on%20the%20ballot"
+},
+{
+"text": "HB220",
+"href": "https://legislature.idaho.gov/sessioninfo/2021/legislation/H0220/"
+},
+{
+"text": "HB223: Ballot Delivery",
+"href": "http://hb223:%20ballot%20delivery"
+},
+{
+"text": "HB255: Additional Voter ID Requirement",
+"href": "http://hb255:%20additional%20voter%20id%20requirement"
+},
+{
+"text": "HB299: Prohibits Extra Credit for Voting",
+"href": "https://legislature.idaho.gov/sessioninfo/2021/legislation/H0299/"
+},
+{
+"text": "HB316",
+"href": "https://legislature.idaho.gov/sessioninfo/2021/legislation/H0316/"
+},
+{
+"text": "HB362",
+"href": "https://legislature.idaho.gov/sessioninfo/2021/legislation/H0362/"
+},
+{
+"text": "HB377",
+"href": "https://legislature.idaho.gov/sessioninfo/2021/legislation/H0377/"
+},
+{
+"text": "HJR102",
+"href": "https://legislature.idaho.gov/sessioninfo/2021/legislation/SJR102/"
+},
+{
+"text": "Health Care",
+"href": "https://www.wintrowforidaho.com/category/health-care/"
+},
+{
+"text": "Home",
+"href": "https://www.wintrowforidaho.com/"
+},
+{
+"text": "Human Rights",
+"href": "https://www.wintrowforidaho.com/category/human-rights/"
+},
+{
+"text": "Idaho’s Budget Chaos",
+"href": "https://www.wintrowforidaho.com/idahos-budget-chaos/"
+},
+{
+"text": "Legislation",
+"href": "https://www.wintrowforidaho.com/legislation/"
+},
+{
+"text": "Mandatory Minimum Sentencing Reform",
+"href": "https://www.wintrowforidaho.com/category/mandatory-mimumums-reform/"
+},
+{
+"text": "Marriage Age Reform",
+"href": "https://www.wintrowforidaho.com/category/marriage-age-reform/"
+},
+{
+"text": "Media Resources",
+"href": "https://www.wintrowforidaho.com/media-resources/"
+},
+{
+"text": "News & Events",
+"href": "https://www.wintrowforidaho.com/category/newsevents/"
+},
+{
+"text": "Newsletter",
+"href": "https://www.wintrowforidaho.com/newsletter/"
+},
+{
+"text": "OPPRESSIVE BILLS HIT THE SENATE",
+"href": "https://www.wintrowforidaho.com/oppressive-bills-hit-the-senate/"
+},
+{
+"text": "Preventable. Predictable: Idaho’s budget crisis impacts all of us",
+"href": "https://www.wintrowforidaho.com/preventable-predictable-idahos-budget-crisis-impacts-all-of-us/"
+},
+{
+"text": "Priorities",
+"href": "https://www.wintrowforidaho.com/priorities/"
+},
+{
+"text": "Property Taxes",
+"href": "https://www.wintrowforidaho.com/category/property-taxes/"
+},
+{
+"text": "Public Education",
+"href": "https://www.wintrowforidaho.com/category/public-education/"
+},
+{
+"text": "Public Lands",
+"href": "https://www.wintrowforidaho.com/category/public-lands/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.wintrowforidaho.com/request-a-yard-sign/"
+},
+{
+"text": "S1110: Citizen Ballot Initiatives",
+"href": "http://s1110:%20citizen%20ballot%20initiatives"
+},
+{
+"text": "S1166: Same Day Voter Registration Restrictions and Provisional Ballots",
+"href": "http://s1166:%20same%20day%20voter%20registration%20restrictions%20and%20provisional%20ballots"
+},
+{
+"text": "S1205 – Firearms and Federal Government",
+"href": "https://legislature.idaho.gov/sessioninfo/2021/legislation/S1205/"
+},
+{
+"text": "SB1111a",
+"href": "https://legislature.idaho.gov/sessioninfo/2021/legislation/S1111/"
+},
+{
+"text": "SB1183 – 6 Week Abortion Ban",
+"href": "https://legislature.idaho.gov/sessioninfo/2021/legislation/S1183/"
+},
+{
+"text": "SB1211 – Killing Wolves",
+"href": "https://legislature.idaho.gov/sessioninfo/2021/legislation/S1211/"
+},
+{
+"text": "Sexual Assualt / Domestic Violence",
+"href": "https://www.wintrowforidaho.com/category/violence-prevention/"
+},
+{
+"text": "Uncategorized",
+"href": "https://www.wintrowforidaho.com/category/uncategorized/"
+},
+{
+"text": "Videos",
+"href": "https://www.wintrowforidaho.com/videos/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.wintrowforidaho.com/volunteer/"
+},
+{
+"text": "Voting Rights / Gerrymandering",
+"href": "https://www.wintrowforidaho.com/category/voting-rights/"
+},
+{
+"text": "[image]",
+"href": "https://www.wintrowforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/wintrow4idaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WintrowforD19/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/senatormelissawintrow/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UC12zKiJSZMuWtrAxIIg354g"
+},
+{
+"text": "agenda",
+"href": "https://legislature.idaho.gov/sessioninfo/agenda/scal/"
+},
+{
+"text": "idahodems.org",
+"href": "https://idahodems.org/"
+},
+{
+"text": "idahodlcc.org",
+"href": "https://www.idahodlcc.org/"
+},
+{
+"text": "surpassing 100 days",
+"href": "https://www.eastidahonews.com/2021/04/on-100th-day-of-idaho-legislature-is-there-an-end-in-sight-not-really/"
+}
 ]

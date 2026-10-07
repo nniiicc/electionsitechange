@@ -1,8 +1,34 @@
 [
-"https://alineontheballot.com/",
-"https://alineontheballot.com/about",
-"https://alineontheballot.com/cart",
-"https://alineontheballot.com/contact",
-"https://alineontheballot.com/home",
-"https://archive.legmt.gov/content/Sessions/69th/Contractor_index/CH0643.pdf"
+{
+"text": "0",
+"href": "https://www.alineontheballot.com/cart"
+},
+{
+"text": "A Line on the Ballot",
+"href": "https://www.alineontheballot.com/"
+},
+{
+"text": "About",
+"href": "https://www.alineontheballot.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.alineontheballot.com/contact"
+},
+{
+"text": "House Bill 207",
+"href": "https://archive.legmt.gov/content/Sessions/69th/Contractor_index/CH0643.pdf"
+},
+{
+"text": "LEARN MORE.",
+"href": "https://www.alineontheballot.com/about"
+},
+{
+"text": "Learn More",
+"href": "https://www.alineontheballot.com/about"
+},
+{
+"text": "This site is maintained by Jami Woodman, P.O. Box 99, Dodson, Montana, 59524",
+"href": "https://www.alineontheballot.com/home"
+}
 ]

@@ -1,32 +1,130 @@
 [
-"http://leg.wa.gov/",
-"https://app.leg.wa.gov/billsummary?BillNumber=1015&Year=2021&Initiative=False",
-"https://app.leg.wa.gov/billsummary?BillNumber=1170&Year=2021&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=1297&Year=2021&Initiative=False",
-"https://apps.leg.wa.gov/bi/topicalindex",
-"https://electpeterabbarno.com/",
-"https://electpeterabbarno.com/about",
-"https://electpeterabbarno.com/es/cuestiones",
-"https://electpeterabbarno.com/issues",
-"https://electpeterabbarno.com/items-of-interest",
-"https://electpeterabbarno.com/peters-blog",
-"https://electpeterabbarno.com/signup-for-peters-newsletter",
-"https://facebook.com/peter.abbarno",
-"https://instagram.com/peter_abbarno",
-"https://leg.wa.gov/",
-"https://peterabbarno.houserepublicans.wa.gov/",
-"https://peterabbarno.houserepublicans.wa.gov/2021/02/10/abbarno-speaks-in-opposition-of-bill-that-would-enact-strict-restrictions-on-open-carry-of-guns-weapons",
-"https://peterabbarno.houserepublicans.wa.gov/2021/02/11/capitol-report-with-rep-abbarno-firearm-rights-and-rejecting-bad-bills",
-"https://peterabbarno.houserepublicans.wa.gov/2021/03/09/cutoff-theme-working-washington-families",
-"https://peterabbarno.houserepublicans.wa.gov/2021/03/24/20th-district-capital-budget-projects",
-"https://peterabbarno.houserepublicans.wa.gov/2021/03/24/schaffer-resolution",
-"https://peterabbarno.houserepublicans.wa.gov/2021/03/28/protecting-second-amendment-rights",
-"https://peterabbarno.houserepublicans.wa.gov/2021/04/19/cap-and-trade-abbarno-amendments",
-"https://peterabbarno.houserepublicans.wa.gov/2021/04/21/income-tax-abbarno",
-"https://peterabbarno.houserepublicans.wa.gov/2021/04/24/final-capital-budget-funds-20th-district-projects",
-"https://secure.anedot.com/committee-to-elect-peter-abbarno/re-elect-2026",
-"https://silveragency.com/",
-"https://sos.wa.gov/elections",
-"https://twitter.com/peterabbarno",
-"https://washingtonvotes.org/"
+{
+"text": "ABOUT",
+"href": "https://electpeterabbarno.com/about/"
+},
+{
+"text": "Abbarno joins other House Republicans in voting against bill restricting Second Amendment rights – Peter Abbarno (wa.gov)",
+"href": "https://peterabbarno.houserepublicans.wa.gov/2021/03/28/protecting-second-amendment-rights/"
+},
+{
+"text": "Abbarno resolution honors late Chehalis WSP Trooper Justin Schaffer – Peter Abbarno (wa.gov)",
+"href": "https://peterabbarno.houserepublicans.wa.gov/2021/03/24/schaffer-resolution/"
+},
+{
+"text": "Abbarno speaks in opposition of bill that would enact excessive restrictions on open-carry of firearms – Peter Abbarno (wa.gov)",
+"href": "https://peterabbarno.houserepublicans.wa.gov/2021/02/10/abbarno-speaks-in-opposition-of-bill-that-would-enact-strict-restrictions-on-open-carry-of-guns-weapons/"
+},
+{
+"text": "Abbarno: House-of-origin cutoff arrives with positive theme and opportunities for working Washington families – Peter Abbarno",
+"href": "https://peterabbarno.houserepublicans.wa.gov/2021/03/09/cutoff-theme-working-washington-families/"
+},
+{
+"text": "BLOG",
+"href": "https://electpeterabbarno.com/peters-blog/"
+},
+{
+"text": "Cap-and-trade bill passes House Environment and Energy Committee; Democrats reject Abbarno’s ‘USA’ amendment prioritizing workers and their families – Peter Abbarno (wa.gov)",
+"href": "https://peterabbarno.houserepublicans.wa.gov/2021/04/19/cap-and-trade-abbarno-amendments/"
+},
+{
+"text": "Capitol Report with Rep. Abbarno: Firearm rights and rejecting bad bills – Peter Abbarno (wa.gov)",
+"href": "https://peterabbarno.houserepublicans.wa.gov/2021/02/11/capitol-report-with-rep-abbarno-firearm-rights-and-rejecting-bad-bills/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/committee-to-elect-peter-abbarno/re-elect-2026"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/peterabbarno"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/peter.abbarno"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/peter_abbarno"
+},
+{
+"text": "Get Peter's Newsletter",
+"href": "https://electpeterabbarno.com/signup-for-peters-newsletter/"
+},
+{
+"text": "HERE",
+"href": "https://apps.leg.wa.gov/bi/topicalindex"
+},
+{
+"text": "HERE",
+"href": "https://peterabbarno.houserepublicans.wa.gov/2021/03/24/20th-district-capital-budget-projects/"
+},
+{
+"text": "HERE",
+"href": "https://www.washingtonvotes.org/"
+},
+{
+"text": "House Bill 1015",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1015&Year=2021&Initiative=False"
+},
+{
+"text": "House Bill 1170",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1170&Year=2021&Initiative=false"
+},
+{
+"text": "House Bill 1297",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1297&Year=2021&Initiative=False"
+},
+{
+"text": "ISSUES",
+"href": "https://electpeterabbarno.com/issues/"
+},
+{
+"text": "LEGISLATURE",
+"href": "http://leg.wa.gov/"
+},
+{
+"text": "Leg.Wa.Gov",
+"href": "https://leg.wa.gov/"
+},
+{
+"text": "NEWS",
+"href": "https://electpeterabbarno.com/items-of-interest/"
+},
+{
+"text": "Rep. Abbarno: Citizens should have a ‘say’ on an income tax. Bill passes House, 52-46, with Republicans voting no. – Peter Abbarno (wa.gov)",
+"href": "https://peterabbarno.houserepublicans.wa.gov/2021/04/21/income-tax-abbarno/"
+},
+{
+"text": "RepresentativePeterAbbarno.com",
+"href": "https://peterabbarno.houserepublicans.wa.gov/"
+},
+{
+"text": "Strong economic investment for 20th District residents in Rep. Abbarno’s first capital construction budget – Peter Abbarno (wa.gov)",
+"href": "https://peterabbarno.houserepublicans.wa.gov/2021/04/24/final-capital-budget-funds-20th-district-projects/"
+},
+{
+"text": "The Silver Agency",
+"href": "https://silveragency.com"
+},
+{
+"text": "VOTER INFO",
+"href": "https://www.sos.wa.gov/elections/"
+},
+{
+"text": "WashingtonVotes.Org",
+"href": "https://www.washingtonvotes.org/"
+},
+{
+"text": "[image]",
+"href": "https://electpeterabbarno.com/"
+},
+{
+"text": "[image]English",
+"href": "https://electpeterabbarno.com/issues/"
+},
+{
+"text": "[image]Español (Spanish)",
+"href": "https://electpeterabbarno.com/es/cuestiones/"
+}
 ]

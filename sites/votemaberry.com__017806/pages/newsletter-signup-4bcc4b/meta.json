@@ -1,7 +1,9 @@
 {
  "description": "Stay in the loop. Sign up to receive email newsletters to stay in the loop about my campaign for the State Legislature. After being elected, I will continue to send updates about current events in our State.",
  "final_url": "https://votemaberry.com/newsletter-signup/",
- "paid_for_by": null,
+ "fingerprint": "faa64f8248db8ce6be81c1753609732f2e22837a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Email Newsletter Signup - Aron Maberry | State Representative",
  "years_mentioned": []
 }

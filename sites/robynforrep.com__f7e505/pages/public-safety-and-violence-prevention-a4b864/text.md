@@ -1,26 +1,8 @@
-Public Safety and Violence Prevention
-Robyn’s work on Public Safety and Violence Prevention includes:
-- Passing legislation banning assault weapons and high-capacity magazines
-- Co-sponsoring legislation that empowers victims of gun violence to bring civil action against gun manufacturers when dangerous marketing campaigns promoting violent criminal activity that contributes to illegal shootings.
-- Recruiting experts to review firearm insurance policies to explore ways we can make more comprehensive policies
-- Continuing successful intervention programs supported by prosecutors across Illinois to offer diversion opportunities for first-time offenders in otherwise non-violent firearms possession cases.
-- Making Illinois the first state in the Midwest to ban the sale of “Ghost Guns,” which are untraceable due to a lack of serial numbers
-- Improving gun safety, particularly for children, by requiring the Department of Health to conduct a multi-year safe gun storage campaign
-- Implementing the Reimagine Public Safety Act, including
-- Violence interruption programs
-- After school and alternative youth activities,
-- Trauma informed mental health services
-- Programming directed toward root causes of violence
-- Supporting local law enforcement and improving officer accountability
-- Providing police with needed tools, including non-lethal equipment and body cameras
-- Launching a co-responder pilot program that pairs officers with mental health professionals to respond to incidents involving individuals experiencing a mental health crisis
-- Allocating funding for training for local law enforcement officers and an officer retention program, and additional funding to recruit and train 300 additional officers
-- Assisting first responders
-- Requiring local law enforcement, fire districts, schools, hospitals and ambulance services to provide mental health services to first responders
-- Providing grants to childcare centers to provide late night care for children of first responders and other late night shift workers
-- Protecting victims by requiring training on victim-centered, trauma-informed investigations, setting up anonymous tip hotlines with cash rewards for info leading to an arrest, and expanding the witness protection program
-- Combating carjacking by targeting ringleaders who recruit youth, funding local safety councils, providing grants to help identify, apprehend, and prosecute hijackers and recover vehicles, and develop strategies for improving how existing laws are administered
-- Passing the Red Flag Law permits police or family members to petition a state court to order the temporary removal of firearms from a person who may present a danger to others or themselves.
+Skip to content Home About Issues Resources Contact Donate Main Menu Home About Issues Resources Contact Donate Public Safety and Violence Prevention Robyn’s work on Public Safety and Violence Prevention includes: Passing legislation banning assault weapons and high-capacity magazines Co-sponsoring legislation that empowers victims of gun violence to bring civil action against gun manufacturers when dangerous marketing campaigns promoting violent criminal activity that contributes to illegal shootings.
+Recruiting experts to review firearm insurance policies to explore ways we can make more comprehensive policies Continuing successful intervention programs supported by prosecutors across Illinois to offer diversion opportunities for first-time offenders in otherwise non-violent firearms possession cases.
+Making Illinois the first state in the Midwest to ban the sale of “Ghost Guns,” which are untraceable due to a lack of serial numbers Improving gun safety, particularly for children, by requiring the Department of Health to conduct a multi-year safe gun storage campaign Implementing the Reimagine Public Safety Act, including Violence interruption programs After school and alternative youth activities, Trauma informed mental health services Programming directed toward root causes of violence Supporting local law enforcement and improving officer accountability Providing police with needed tools, including non-lethal equipment and body cameras Launching a co-responder pilot program that pairs officers with mental health professionals to respond to incidents involving individuals experiencing a mental health crisis Allocating funding for training for local law enforcement officers and an officer retention program, and additional funding to recruit and train 300 additional officers Assisting first responders Requiring local law enforcement, fire districts, schools, hospitals and ambulance services to provide mental health services to first responders Providing grants to childcare centers to provide late night care for children of first responders and other late night shift workers Protecting victims by requiring training on victim-centered, trauma-informed investigations, setting up anonymous tip hotlines with cash rewards for info leading to an arrest, and expanding the witness protection program Combating carjacking by targeting ringleaders who recruit youth, funding local safety councils, providing grants to help identify, apprehend, and prosecute hijackers and recover vehicles, and develop strategies for improving how existing laws are administered Passing the Red Flag Law permits police or family members to petition a state court to order the temporary removal of firearms from a person who may present a danger to others or themselves.
 This Act is critical to preventing potential mass shootings and domestic gun violence.
-- Strengthening gun dealership licensing requirements in order to identify and eliminate the practice of purchasers buying guns legally and then selling them to those who would do harm.
-- Establishing a 72-hour waiting period for all firearm sales.
+Strengthening gun dealership licensing requirements in order to identify and eliminate the practice of purchasers buying guns legally and then selling them to those who would do harm.
+Establishing a 72-hour waiting period for all firearm sales.
+Email: info@robynforrep.com Phone: 773-896-7847 Campaign Office: PO BOX 6453 Evanston, IL 60204-6453 Home About Contact Donate Privacy Policy Copyright © # Robyn Gabel For State Rep Paid for by Friends of Robyn Gabel.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.

@@ -1,5 +1,4 @@
-ABOUT KYLE MOORE
-Kyle Moore is the former mayor of Quincy, IL.
+top of page HOME ABOUT KYLE MOORE Kyle Moore is the former mayor of Quincy, IL.
 The first Republican elected to the position since 1981, Moore passed the city's first balanced budget since 1999, while still investing in infrastructure and law enforcement.
 He also increased city savings from $1.2 million to $6.5 million.
 He is well-remembered for fighting to protect the Quincy Veterans' Home to ensure veterans were taken care of within the community.
@@ -8,7 +7,10 @@ Moore was the former chairman of the Big Brothers Big Sisters of West Central IL
 He is a graduate of Quincy University.
 A conservative Republican, Kyle Moore is focused on upholding the First and Second Amendments of the Constitution, for these are the two rights that underpin all the others.
 He will fight to defend the unborn and has a proven record of cutting taxes and red tape in local government.
-Now, he wants to hold politicians accountable in the Illinois State House and improve the transparency of state government.
-As a former small business owner, Moore understands the struggles of trying to make ends meet; he will work to support the state's family businesses during these tough economic times.
+Now, he wants to hold politicians accountable in the Illinois State House and improve the transparency of state government. ​ As a former small business owner, Moore understands the struggles of trying to make ends meet; he will work to support the state's family businesses during these tough economic times.
 Likewise, improving local infrastructure continues to be a top priority for Moore.
 Additionally, he will support our law enforcement officers and ensure our neighborhoods remain safe places to live, run a business, and raise a family.
+CONTRIBUTE JOIN KYLE MOORE CONTRIBUTE FOLLOW ON FACEBOOK PAID FOR BY CITIZENS FOR KYLE A.
+MOORE EMAIL KYLE MOORE moore4illinois@gmail.com First Name Last Name Email Subject Message Submit Thanks for submitting!
+DOWNLOAD MY FULL RESUME © # by John Roberts.
+Powered and secured by Wix Follow me on social netwroks bottom of page

@@ -1,8 +1,26 @@
 [
-"https://jeffreyrentzel.com/",
-"https://jeffreyrentzel.com/contact",
-"https://jeffreyrentzel.com/contribute",
-"https://jeffreyrentzel.com/home",
-"https://jeffreyrentzel.com/volunteer",
-"https://snappages.com/"
+{
+"text": "Contact",
+"href": "https://jeffreyrentzel.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://jeffreyrentzel.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://jeffreyrentzel.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://jeffreyrentzel.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://jeffreyrentzel.com/home"
+},
+{
+"text": "powered by SnapPages",
+"href": "https://snappages.com"
+}
 ]

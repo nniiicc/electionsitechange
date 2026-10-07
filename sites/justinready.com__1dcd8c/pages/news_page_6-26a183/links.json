@@ -1,38 +1,154 @@
 [
-"https://facebook.com/SenatorReady",
-"https://instagram.com/JustinReady",
-"https://justinready.com/",
-"https://justinready.com/carroll-county-delegation-announces-the-granting-of-critical-blueprint-accommodation-for-carroll-county-public-schools-ccps",
-"https://justinready.com/carroll-county-delegation-secures-funding-for-key-local-priorities-in-state-capital-budget",
-"https://justinready.com/carroll-delegations-statement-on-psegs-lawsuit-seeking-access-to-private-property",
-"https://justinready.com/end-of-session-wrap-up",
-"https://justinready.com/meet-justin",
-"https://justinready.com/news",
-"https://justinready.com/news/page/1",
-"https://justinready.com/news/page/10",
-"https://justinready.com/news/page/11",
-"https://justinready.com/news/page/12",
-"https://justinready.com/news/page/13",
-"https://justinready.com/news/page/14",
-"https://justinready.com/news/page/15",
-"https://justinready.com/news/page/16",
-"https://justinready.com/news/page/17",
-"https://justinready.com/news/page/2",
-"https://justinready.com/news/page/3",
-"https://justinready.com/news/page/4",
-"https://justinready.com/news/page/5",
-"https://justinready.com/news/page/7",
-"https://justinready.com/news/page/8",
-"https://justinready.com/news/page/9",
-"https://justinready.com/priorities",
-"https://justinready.com/privacy-policy",
-"https://justinready.com/ready-report-critical-waiver-granted-to-ccps-maryland-losing-key-companies-due-to-business-climate-more",
-"https://justinready.com/ready-report-end-of-session-wrap-up-urgent-request-to-help-ccps",
-"https://justinready.com/ready-report-final-week-of-legislative-session",
-"https://justinready.com/ready-report-happy-easter-eos-wrapup-capital-funds-for-carroll-county-projects",
-"https://justinready.com/ready-report-moore-bad-md-financial-news-upcoming-event-more",
-"https://justinready.com/ready-report-mprp-update-budget-compromise-more",
-"https://secure.anedot.com/friends-of-justin-ready/contribute",
-"https://secure.anedot.com/friends-of-justin-ready/golffundraiser26",
-"https://twitter.com/JustinReady"
+{
+"text": "1",
+"href": "https://www.justinready.com/news/page/1/"
+},
+{
+"text": "10",
+"href": "https://www.justinready.com/news/page/10/"
+},
+{
+"text": "11",
+"href": "https://www.justinready.com/news/page/11/"
+},
+{
+"text": "12",
+"href": "https://www.justinready.com/news/page/12/"
+},
+{
+"text": "13",
+"href": "https://www.justinready.com/news/page/13/"
+},
+{
+"text": "14",
+"href": "https://www.justinready.com/news/page/14/"
+},
+{
+"text": "15",
+"href": "https://www.justinready.com/news/page/15/"
+},
+{
+"text": "16",
+"href": "https://www.justinready.com/news/page/16/"
+},
+{
+"text": "17",
+"href": "https://www.justinready.com/news/page/17/"
+},
+{
+"text": "2",
+"href": "https://www.justinready.com/news/page/2/"
+},
+{
+"text": "3",
+"href": "https://www.justinready.com/news/page/3/"
+},
+{
+"text": "4",
+"href": "https://www.justinready.com/news/page/4/"
+},
+{
+"text": "5",
+"href": "https://www.justinready.com/news/page/5/"
+},
+{
+"text": "7",
+"href": "https://www.justinready.com/news/page/7/"
+},
+{
+"text": "8",
+"href": "https://www.justinready.com/news/page/8/"
+},
+{
+"text": "9",
+"href": "https://www.justinready.com/news/page/9/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-justin-ready/contribute"
+},
+{
+"text": "Meet Justin",
+"href": "https://www.justinready.com/meet-justin"
+},
+{
+"text": "News",
+"href": "https://www.justinready.com/news"
+},
+{
+"text": "Next",
+"href": "https://www.justinready.com/news/page/7/"
+},
+{
+"text": "Previous",
+"href": "https://www.justinready.com/news/page/5/"
+},
+{
+"text": "Priorities",
+"href": "https://www.justinready.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.justinready.com/privacy-policy"
+},
+{
+"text": "Read More >",
+"href": "https://www.justinready.com/carroll-county-delegation-announces-the-granting-of-critical-blueprint-accommodation-for-carroll-county-public-schools-ccps/"
+},
+{
+"text": "Read More >",
+"href": "https://www.justinready.com/carroll-county-delegation-secures-funding-for-key-local-priorities-in-state-capital-budget/"
+},
+{
+"text": "Read More >",
+"href": "https://www.justinready.com/carroll-delegations-statement-on-psegs-lawsuit-seeking-access-to-private-property/"
+},
+{
+"text": "Read More >",
+"href": "https://www.justinready.com/end-of-session-wrap-up/"
+},
+{
+"text": "Read More >",
+"href": "https://www.justinready.com/ready-report-critical-waiver-granted-to-ccps-maryland-losing-key-companies-due-to-business-climate-more/"
+},
+{
+"text": "Read More >",
+"href": "https://www.justinready.com/ready-report-end-of-session-wrap-up-urgent-request-to-help-ccps/"
+},
+{
+"text": "Read More >",
+"href": "https://www.justinready.com/ready-report-final-week-of-legislative-session/"
+},
+{
+"text": "Read More >",
+"href": "https://www.justinready.com/ready-report-happy-easter-eos-wrapup-capital-funds-for-carroll-county-projects/"
+},
+{
+"text": "Read More >",
+"href": "https://www.justinready.com/ready-report-moore-bad-md-financial-news-upcoming-event-more/"
+},
+{
+"text": "Read More >",
+"href": "https://www.justinready.com/ready-report-mprp-update-budget-compromise-more/"
+},
+{
+"text": "Ready Fall Festival",
+"href": "https://secure.anedot.com/friends-of-justin-ready/golffundraiser26"
+},
+{
+"text": "[image: Senator Justin Ready]",
+"href": "https://www.justinready.com"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/SenatorReady%20"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/JustinReady"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JustinReady%20"
+}
 ]

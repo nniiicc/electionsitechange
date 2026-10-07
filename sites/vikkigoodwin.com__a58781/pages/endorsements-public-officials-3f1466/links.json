@@ -1,29 +1,134 @@
 [
-"https://act.vikkigoodwin.com/hemp",
-"https://bsky.app/profile/vikkigoodwintx.bsky.social",
-"https://facebook.com/VikkiGoodwinTX",
-"https://instagram.com/Goodwin4Texas",
-"https://secure.actblue.com/donate/vg4lgad",
-"https://store.goodwin4texas.com/",
-"https://threads.com/@Goodwin4Texas",
-"https://tiktok.com/@vikkigoodwintx",
-"https://vikkigoodwin.com/",
-"https://vikkigoodwin.com/cart",
-"https://vikkigoodwin.com/datacenters",
-"https://vikkigoodwin.com/education",
-"https://vikkigoodwin.com/endorsements-1",
-"https://vikkigoodwin.com/endorsements-organizations",
-"https://vikkigoodwin.com/endorsements-public-officials",
-"https://vikkigoodwin.com/endorsements-texas-voters",
-"https://vikkigoodwin.com/events",
-"https://vikkigoodwin.com/healthcare",
-"https://vikkigoodwin.com/housing",
-"https://vikkigoodwin.com/issues",
-"https://vikkigoodwin.com/meet-vikki",
-"https://vikkigoodwin.com/news",
-"https://vikkigoodwin.com/priorities-overview",
-"https://vikkigoodwin.com/privacy",
-"https://vikkigoodwin.com/volunteer",
-"https://vikkigoodwin.com/water",
-"https://x.com/VikkiGoodwinTX"
+{
+"text": "0",
+"href": "https://www.vikkigoodwin.com/cart"
+},
+{
+"text": "About Vikki",
+"href": "https://www.vikkigoodwin.com/meet-vikki"
+},
+{
+"text": "AskMe@VikkiGoodwin.com",
+"href": "mailto:candidate@vikkigoodwin.com"
+},
+{
+"text": "Back",
+"href": "https://www.vikkigoodwin.com/"
+},
+{
+"text": "Cannabis & THC",
+"href": "https://act.vikkigoodwin.com/hemp/"
+},
+{
+"text": "Clean Water",
+"href": "https://www.vikkigoodwin.com/water"
+},
+{
+"text": "Data Centers",
+"href": "https://www.vikkigoodwin.com/datacenters"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vg4lgad"
+},
+{
+"text": "Events",
+"href": "https://www.vikkigoodwin.com/events"
+},
+{
+"text": "Folder: Endorsements",
+"href": "https://www.vikkigoodwin.com/endorsements-1"
+},
+{
+"text": "Folder: Priorities",
+"href": "https://www.vikkigoodwin.com/priorities-overview"
+},
+{
+"text": "Healthcare",
+"href": "https://www.vikkigoodwin.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.vikkigoodwin.com/"
+},
+{
+"text": "Housing Affordability",
+"href": "https://www.vikkigoodwin.com/housing"
+},
+{
+"text": "More Issues",
+"href": "https://www.vikkigoodwin.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.vikkigoodwin.com/news"
+},
+{
+"text": "Online Store",
+"href": "https://store.goodwin4texas.com/"
+},
+{
+"text": "Organization Endorsements →",
+"href": "https://www.vikkigoodwin.com/endorsements-organizations"
+},
+{
+"text": "Organizations",
+"href": "https://www.vikkigoodwin.com/endorsements-organizations"
+},
+{
+"text": "Public Education",
+"href": "https://www.vikkigoodwin.com/education"
+},
+{
+"text": "Public Officials",
+"href": "https://www.vikkigoodwin.com/endorsements-public-officials"
+},
+{
+"text": "Read our privacy policy here.",
+"href": "https://www.vikkigoodwin.com/privacy"
+},
+{
+"text": "Texas Voters",
+"href": "https://www.vikkigoodwin.com/endorsements-texas-voters"
+},
+{
+"text": "Vikki.Goodwin@house.texas.gov",
+"href": "mailto:Vikki.Goodwin@house.texas.gov"
+},
+{
+"text": "Volunteer",
+"href": "https://www.vikkigoodwin.com/volunteer"
+},
+{
+"text": "[image: Rep. Vikki Goodwin]",
+"href": "https://www.vikkigoodwin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/vikkigoodwintx.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VikkiGoodwinTX/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Goodwin4Texas"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@Goodwin4Texas"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@vikkigoodwintx"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VikkiGoodwinTX"
+},
+{
+"text": "← Texas Voters Endorsements",
+"href": "https://www.vikkigoodwin.com/endorsements-texas-voters"
+}
 ]

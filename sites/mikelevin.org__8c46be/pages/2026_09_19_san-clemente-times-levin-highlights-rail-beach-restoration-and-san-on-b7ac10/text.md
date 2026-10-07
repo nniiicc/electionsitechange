@@ -1,12 +1,12 @@
-Rep.
-Mike Levin addressed coastal erosion, rail stability, nuclear waste, rising energy costs and other local and national issues during a town hall at San Clemente High School on Friday, Aug. 28.
+About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate San Clemente Times: Levin Highlights Rail, Beach Restoration and San Onofre During San Clemente Town Hall September 19, 2026 Published Wed, Sept 3 2026 By Angélica Escobar Rep.
+Mike Levin addressed coastal erosion, rail stability, nuclear waste, rising energy costs and other local and national issues during a town hall at San Clemente High School on Friday, Aug.
+28.
 The event marked Levin’s 138th town hall since entering Congress, continuing a commitment he said he made after first being elected in 2018 to regularly meet with constituents and answer questions directly.
 Levin thanked San Clemente High School for hosting the event and recognized local elected officials in attendance before providing updates on several issues affecting South Orange County.
 Among the most prominent local topics was the Los Angeles-San Diego-San Luis Obispo rail corridor, which has faced repeated disruptions in San Clemente because of coastal erosion and slope instability.
 Levin said that when the closures during his time in Congress are combined, the rail line has been shut down for nearly the equivalent of a full calendar year.
 “We can’t keep lurching from one emergency closure to the next,” Levin said.
-“We’ve got to protect the tracks and keep the trains running safely now, while doing the harder work of developing a lasting solution.”
-He pointed to the importance of the corridor for passenger travel, freight and military operations, as well as the additional strain closures place on Interstate 5.
+“We’ve got to protect the tracks and keep the trains running safely now, while doing the harder work of developing a lasting solution.” He pointed to the importance of the corridor for passenger travel, freight and military operations, as well as the additional strain closures place on Interstate 5.
 Levin also tied the need for reliable transportation infrastructure to the 2028 Olympic Games, when surfing competition is expected to bring visitors to the area.
 He highlighted a $100 million federal grant secured for the Orange County Transportation Authority to improve and protect the San Clemente portion of the rail corridor, along with additional federal funding for long-term planning.
 Beach nourishment remains another component of protecting the tracks, Levin said.
@@ -20,7 +20,7 @@ Asked by a constituent about efforts to remove the waste, Levin discussed his wo
 Levin said the federal government has spent years examining how to create a system in which communities and states voluntarily participate in the nuclear fuel cycle rather than having a storage site imposed upon them.
 He also discussed the Spent Nuclear Fuel Solutions Caucus, which he helped establish with Republican Rep.
 Chuck Fleischmann of Tennessee, as well as federal investments in transportation technology needed to eventually move the waste.
-Levin said roughly $150 million has been directed toward spent nuclear fuel transportation, research and related efforts during his time in Congress, including approximately $33 million for the Atlas rail system designed to transport spent fuel.
+Levin said roughly $# million has been directed toward spent nuclear fuel transportation, research and related efforts during his time in Congress, including approximately $# million for the Atlas rail system designed to transport spent fuel.
 Several states have also expressed interest in participating in efforts related to the nuclear fuel cycle, Levin said.
 Once a destination for the nation’s spent fuel is established, Levin argued that San Onofre should be among the first sites considered for removal because of its location near a large population, the coastline, seismic hazards and other environmental and security concerns.
 “We have to make sure that because all those things are true about our location, that we’re prioritized when we have a disposition of where the spent fuel will go,” Levin said.
@@ -53,3 +53,6 @@ He pointed to nuclear proliferation, climate change and extreme weather and the 
 Levin closed the nearly hour-long event by thanking residents for spending their Friday evening participating in the town hall and encouraged continued involvement with local government.
 “You’re here with me because you care about this community,” Levin told attendees.
 Levin said he plans to continue the town hall series with a 139th event.
+Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+About Mike Agenda Endorsements Latest News Volunteer/Yard Signs Donate Campaign Inquiries: (760) 566-6113 Email: [email protected] Mailing Address: Mike Levin for Congress PO Box 2112 Capistrano Beach, CA 92624 Campaign Media Inquiries: [email protected] Privacy Policy En Español Paid for by Mike Levin for Congress

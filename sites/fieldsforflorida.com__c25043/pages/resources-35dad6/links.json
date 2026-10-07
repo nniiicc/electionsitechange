@@ -1,35 +1,142 @@
 [
-"http://211.org/",
-"http://findhelp.org/",
-"https://aclufl.org/en/know-your-rights",
-"https://alachuacounty.us/",
-"https://breadofthemighty.org/",
-"https://careersourceclm.com/",
-"https://careersourcencfl.com/",
-"https://clsmf.org/",
-"https://connect.myflorida.com/",
-"https://designedtorun.com/",
-"https://facebook.com/fieldsforflorida",
-"https://feedingseniors.org/",
-"https://fieldsforflorida.com/",
-"https://fieldsforflorida.com/Press",
-"https://fieldsforflorida.com/about",
-"https://fieldsforflorida.com/endorsements",
-"https://fieldsforflorida.com/get-involved-2",
-"https://fieldsforflorida.com/platform",
-"https://fieldsforflorida.com/vote",
-"https://fieldsforflorida.com/why-im-running",
-"https://floridahealth.gov/programs-and-services/wic",
-"https://floridakidcare.org/",
-"https://hfuw.org/gethelp",
-"https://immigrationadvocates.org/legaldirectory",
-"https://instagram.com/fieldsforflorida",
-"https://interfaithocala.org/",
-"https://marioncountyfl.org/",
-"https://mobilize.us/fieldsforflorida",
-"https://myflfamilies.com/",
-"https://myflorida.com/accessflorida",
-"https://secure.actblue.com/donate/fieldsforflorida-web",
-"https://tiktok.com/@antionefieldsfl",
-"https://trls.org/"
+{
+"text": "211.org",
+"href": "http://211.org"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/fieldsforflorida-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fieldsforflorida.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.fieldsforflorida.com/get-involved-2"
+},
+{
+"text": "Heart of Florida United Way",
+"href": "https://www.hfuw.org/gethelp"
+},
+{
+"text": "Meet Antione",
+"href": "https://www.fieldsforflorida.com/about"
+},
+{
+"text": "News",
+"href": "https://www.fieldsforflorida.com/Press"
+},
+{
+"text": "Platform",
+"href": "https://www.fieldsforflorida.com/platform"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/fieldsforflorida/"
+},
+{
+"text": "Vote",
+"href": "https://www.fieldsforflorida.com/vote"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.fieldsforflorida.com/why-im-running"
+},
+{
+"text": "[image: Antione Fields | Florida House District 21]",
+"href": "https://www.fieldsforflorida.com/"
+},
+{
+"text": "[image: Fields for Florida logo]",
+"href": "https://www.fieldsforflorida.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/fieldsforflorida"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/fieldsforflorida"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@antionefieldsfl"
+},
+{
+"text": "findhelp.org",
+"href": "http://findhelp.org"
+},
+{
+"text": "https://careersourceclm.com",
+"href": "https://careersourceclm.com"
+},
+{
+"text": "https://careersourcencfl.com",
+"href": "https://careersourcencfl.com"
+},
+{
+"text": "https://connect.myflorida.com",
+"href": "https://connect.myflorida.com"
+},
+{
+"text": "https://feedingseniors.org",
+"href": "https://feedingseniors.org"
+},
+{
+"text": "https://interfaithocala.org",
+"href": "https://interfaithocala.org"
+},
+{
+"text": "https://www.aclufl.org/en/know-your-rights",
+"href": "https://www.aclufl.org/en/know-your-rights"
+},
+{
+"text": "https://www.alachuacounty.us",
+"href": "https://www.alachuacounty.us"
+},
+{
+"text": "https://www.breadofthemighty.org",
+"href": "https://www.breadofthemighty.org"
+},
+{
+"text": "https://www.clsmf.org",
+"href": "https://www.clsmf.org"
+},
+{
+"text": "https://www.floridahealth.gov/programs-and-services/wic",
+"href": "https://www.floridahealth.gov/programs-and-services/wic"
+},
+{
+"text": "https://www.floridakidcare.org",
+"href": "https://www.floridakidcare.org"
+},
+{
+"text": "https://www.immigrationadvocates.org/legaldirectory",
+"href": "https://www.immigrationadvocates.org/legaldirectory"
+},
+{
+"text": "https://www.marioncountyfl.org",
+"href": "https://www.marioncountyfl.org"
+},
+{
+"text": "https://www.myflfamilies.com",
+"href": "https://www.myflfamilies.com"
+},
+{
+"text": "https://www.myflorida.com/accessflorida",
+"href": "https://www.myflorida.com/accessflorida"
+},
+{
+"text": "https://www.trls.org",
+"href": "https://www.trls.org"
+},
+{
+"text": "info@fieldsforflorida.com",
+"href": "mailto:info@fieldsforflorida.com"
+}
 ]

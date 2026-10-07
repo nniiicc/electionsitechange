@@ -1,35 +1,142 @@
 [
-"https://barber.ks.gov/",
-"https://bucoks.gov/",
-"https://chautauquacountyks.com/",
-"https://co.sumner.ks.us/elected_officials/county_clerk_and_election_officer/election_office/current_election.php",
-"https://comanchecoks.org/",
-"https://cowleycountyks.gov/202/Election-Services",
-"https://edwardscountyks.org/",
-"https://elkcountyks.org/index.php/elected-officials/election-information",
-"https://facebook.com/katyforkansas",
-"https://google.com/maps/search?api=1&query=7803+E+Osie+St+Suite+110+Wichita+KS+67207",
-"https://harpercountyks.gov/s-projects-basic",
-"https://hvcoksvote.gov/2026-election-information",
-"https://instagram.com/katyforkansas",
-"https://katyforkansas.com/",
-"https://katyforkansas.com/events",
-"https://katyforkansas.com/in-the-news",
-"https://katyforkansas.com/issues",
-"https://katyforkansas.com/privacy-policy",
-"https://katyforkansas.com/vote",
-"https://katyforkansas.substack.com/",
-"https://kineticstrategies.us/",
-"https://kingmancoks.org/",
-"https://kiowacountyks.gov/",
-"https://myvoteinfo.voteks.org/VoterView",
-"https://pawneecountykansas.com/201/Election-Information",
-"https://prattcounty.org/114/Elections",
-"https://secure.actblue.com/donate/tyndell_web",
-"https://sedgwickcounty.org/elections/election-office-calendar-of-important-dates",
-"https://sos.ks.gov/forms/elections/AV1.pdf",
-"https://staffordcounty.org/",
-"https://store.katyforkansas.com/",
-"https://tiktok.com/@katyforkansas",
-"https://youtube.com/@KatyforKansas"
+{
+"text": "7803 E Osie St, Suite 110 Wichita, KS 67207",
+"href": "https://www.google.com/maps/search/?api=1&query=7803+E+Osie+St+Suite+110+Wichita+KS+67207"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tyndell_web"
+},
+{
+"text": "Events",
+"href": "https://katyforkansas.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/katyforkansas/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/katyforkansas/"
+},
+{
+"text": "Issues",
+"href": "https://katyforkansas.com/issues/"
+},
+{
+"text": "Kinetic Strategies",
+"href": "https://kineticstrategies.us"
+},
+{
+"text": "News",
+"href": "https://katyforkansas.com/in-the-news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://katyforkansas.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://store.katyforkansas.com/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@katyforkansas"
+},
+{
+"text": "Vote",
+"href": "https://katyforkansas.com/vote/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@KatyforKansas"
+},
+{
+"text": "[image]",
+"href": "https://katyforkansas.com"
+},
+{
+"text": "[no text]",
+"href": "https://katyforkansas.substack.com/"
+},
+{
+"text": "here",
+"href": "https://myvoteinfo.voteks.org/VoterView"
+},
+{
+"text": "here",
+"href": "https://sos.ks.gov/forms/elections/AV1.pdf"
+},
+{
+"text": "https://barber.ks.gov/",
+"href": "https://barber.ks.gov/"
+},
+{
+"text": "https://www.bucoks.gov/",
+"href": "https://www.bucoks.gov/"
+},
+{
+"text": "https://www.chautauquacountyks.com/",
+"href": "https://www.chautauquacountyks.com/"
+},
+{
+"text": "https://www.co.sumner.ks.us/elected_officials/county_clerk_and_election_officer/election_office/current_election.php",
+"href": "https://www.co.sumner.ks.us/elected_officials/county_clerk_and_election_officer/election_office/current_election.php"
+},
+{
+"text": "https://www.comanchecoks.org/",
+"href": "https://www.comanchecoks.org/"
+},
+{
+"text": "https://www.cowleycountyks.gov/202/Election-Services",
+"href": "https://www.cowleycountyks.gov/202/Election-Services"
+},
+{
+"text": "https://www.edwardscountyks.org/",
+"href": "https://www.edwardscountyks.org/"
+},
+{
+"text": "https://www.elkcountyks.org/index.php/elected-officials/election-information",
+"href": "https://www.elkcountyks.org/index.php/elected-officials/election-information"
+},
+{
+"text": "https://www.harpercountyks.gov/s-projects-basic",
+"href": "https://www.harpercountyks.gov/s-projects-basic"
+},
+{
+"text": "https://www.hvcoksvote.gov/2026-election-information",
+"href": "https://www.hvcoksvote.gov/2026-election-information"
+},
+{
+"text": "https://www.kingmancoks.org/",
+"href": "https://www.kingmancoks.org/"
+},
+{
+"text": "https://www.kiowacountyks.gov/",
+"href": "https://www.kiowacountyks.gov/"
+},
+{
+"text": "https://www.pawneecountykansas.com/201/Election-Information",
+"href": "https://www.pawneecountykansas.com/201/Election-Information"
+},
+{
+"text": "https://www.prattcounty.org/114/Elections",
+"href": "https://www.prattcounty.org/114/Elections"
+},
+{
+"text": "https://www.sedgwickcounty.org/elections/election-office-calendar-of-important-dates/",
+"href": "https://www.sedgwickcounty.org/elections/election-office-calendar-of-important-dates/"
+},
+{
+"text": "https://www.staffordcounty.org/",
+"href": "https://www.staffordcounty.org/"
+},
+{
+"text": "info@katyforkansas.com",
+"href": "mailto:info@katyforkansas.com"
+},
+{
+"text": "this form",
+"href": "https://sos.ks.gov/forms/elections/AV1.pdf"
+}
 ]

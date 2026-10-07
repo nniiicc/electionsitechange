@@ -1,5 +1,4 @@
-Meet Carolina
-As a Thurston County Commissioner, Carolina Mejia has built a record of working across party lines to get things done and strengthen the local economy.
+0 Skip to Content About Issues Endorsements Gallery Get Involved Donate Open Menu Close Menu About Issues Endorsements Gallery Get Involved Donate Open Menu Close Menu About Issues Endorsements Gallery Get Involved Donate Meet Carolina As a Thurston County Commissioner, Carolina Mejia has built a record of working across party lines to get things done and strengthen the local economy.
 She led the development of the first USDA-certified meat processing facility in Western Washington, bringing good-paying jobs to the district while creating new opportunities for local ranchers and strengthening the region’s agricultural economy.
 Carolina has focused on making investments that help communities grow, and families thrive.
 She championed a Community Workforce Agreement that created good-paying jobs and paid apprenticeships for local workers, and launched Thurston County’s Integrated Water Initiative, securing grant funding to improve water planning, infrastructure coordination, and salmon recovery.
@@ -14,3 +13,4 @@ She will work across party lines to support local businesses and farmers, attrac
 She will work to make housing and child care more affordable, support working families and rural communities, and make sure state investments deliver real results for the people of the 35th District.
 Carolina has lived in Olympia for 10 years with her husband and two daughters, who attend local public schools.
 She is an active volunteer and advocate and has worked with organizations including Centro de la Raza, Northwest Immigrant Rights Project, and Centro Integral Educativo Latino de Olympia.
+Paid for by Community for Carolina Mejia (D) PO Box 265, Shelton, WA 98584 info@electcarolinamejia.com

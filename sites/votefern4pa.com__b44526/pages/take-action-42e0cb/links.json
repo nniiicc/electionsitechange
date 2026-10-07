@@ -1,27 +1,106 @@
 [
-"https://docs.google.com/forms/d/1NfFWKI1ihglRKukuQuII1YAyJ0F-ci1QPiP5uQRtGTM",
-"https://facebook.com/VoteFern4PA",
-"https://fernleard.itemorder.com/shop/home",
-"https://instagram.com/votefern4pa",
-"https://pa.gov/en/agencies/vote/voter-support/elections-faqs.html",
-"https://pa.gov/en/agencies/vote/voter-support/mail-in-and-absentee-ballot.html",
-"https://pa.gov/en/agencies/vote/voter-support/mail-in-and-absentee-ballot/military-and-overseas-voters.html",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx",
-"https://pavoterservices.pa.gov/pages/voterregistrationstatus.aspx",
-"https://secure.actblue.com/donate/fern4pa120",
-"https://secure.actblue.com/donate/fern4pa120?amount=1",
-"https://secure.actblue.com/donate/fern4pa120?amount=100",
-"https://secure.actblue.com/donate/fern4pa120?amount=25",
-"https://secure.actblue.com/donate/fern4pa120?amount=250",
-"https://secure.actblue.com/donate/fern4pa120?amount=500",
-"https://tiktok.com/@votefern4pa",
-"https://twitter.com/VoteFern4PA",
-"https://votefern4pa.com/about-fern",
-"https://votefern4pa.com/contact-us",
-"https://votefern4pa.com/endorsements",
-"https://votefern4pa.com/events",
-"https://votefern4pa.com/issues",
-"https://votefern4pa.com/new-home",
-"https://votefern4pa.com/take-action"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/fern4pa120?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/fern4pa120?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/fern4pa120?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/fern4pa120?amount=500"
+},
+{
+"text": "About",
+"href": "https://votefern4pa.com/about-fern/"
+},
+{
+"text": "CHECK REGISTRATION",
+"href": "https://www.pavoterservices.pa.gov/pages/voterregistrationstatus.aspx"
+},
+{
+"text": "Contact Us",
+"href": "https://votefern4pa.com/contact-us/"
+},
+{
+"text": "Custom",
+"href": "https://secure.actblue.com/donate/fern4pa120"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/fern4pa120"
+},
+{
+"text": "Endorsements",
+"href": "https://votefern4pa.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://votefern4pa.com/events/"
+},
+{
+"text": "FIND YOUR POLLING PLACE",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "FREQUENTLY ASKED QUESTIONS",
+"href": "https://www.pa.gov/en/agencies/vote/voter-support/elections-faqs.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/VoteFern4PA"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/votefern4pa/"
+},
+{
+"text": "Issues",
+"href": "https://votefern4pa.com/issues/"
+},
+{
+"text": "MAIL-IN & ABSENTEE INFO",
+"href": "https://www.pa.gov/en/agencies/vote/voter-support/mail-in-and-absentee-ballot.html"
+},
+{
+"text": "MILITARY & OVERSEAS INFO",
+"href": "https://www.pa.gov/en/agencies/vote/voter-support/mail-in-and-absentee-ballot/military-and-overseas-voters.html"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "SIGN UP",
+"href": "https://docs.google.com/forms/d/1NfFWKI1ihglRKukuQuII1YAyJ0F-ci1QPiP5uQRtGTM"
+},
+{
+"text": "Store",
+"href": "https://fernleard.itemorder.com/shop/home/"
+},
+{
+"text": "Take Action",
+"href": "https://votefern4pa.com/take-action/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@votefern4pa"
+},
+{
+"text": "X-twitter",
+"href": "https://twitter.com/VoteFern4PA"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/fern4pa120?amount=1"
+},
+{
+"text": "[image]",
+"href": "https://votefern4pa.com/new-home/"
+}
 ]

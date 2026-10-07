@@ -1,4 +1,4 @@
-[March 28, 2022] | As I type this, we have about eight days left in this year's session.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK REPORT FROM THE CAPITOL [ March 28, 2022 ] | As I type this, we have about eight days left in this year's session.
 This is when there are long days and into the evening, trying to come to agreements with our bills and Senate bills and vice versa.
 It is good we have them check our bills, and we theirs; we find unintended consequences in the bills almost always that we don't pick up on the first time we look at them.
 Some bills are long and very legal, and as I sit at night and read through them, my highlighter gets used a lot.
@@ -28,3 +28,4 @@ During these last days the internet is full of what-ifs and rumors as we work on
 I encourage you to reach out if you have any questions or concerns regarding legislation that has been discussed or passed so far.
 You can reach my Capitol office at 404-656-7153, or you can email me directly at rick.jasperse@house.ga.gov.
 As always, thank you for allowing me to serve as your State Representative and legislative voice here at the Capitol.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

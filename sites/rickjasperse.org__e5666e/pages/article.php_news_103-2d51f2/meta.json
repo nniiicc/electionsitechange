@@ -1,9 +1,12 @@
 {
  "description": "REPORT FROM THE CAPITOL - This past week was a busy one, and I'll have to tell you very long, because on Monday night we staye ...",
  "final_url": "https://www.rickjasperse.org/article.php?news=103",
- "paid_for_by": null,
+ "fingerprint": "da3db809494f0b3344572a242742b4f7258ca0d3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "REPORT FROM THE CAPITOL - REPORT FROM THE CAPITOL",
  "years_mentioned": [
-  "2021"
+  "2021",
+  "2039"
  ]
 }

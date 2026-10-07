@@ -1,10 +1,34 @@
 [
-"https://emmaformontana.org/",
-"https://emmaformontana.org/about",
-"https://emmaformontana.org/contact",
-"https://emmaformontana.org/issues",
-"https://facebook.com/emmaformontana",
-"https://instagram.com/emmaformontana",
-"https://secure.actblue.com/donate/emma-kerr-carpentersd23",
-"https://twitter.com/emmaformontana"
+{
+"text": "About",
+"href": "https://emmaformontana.org/about/"
+},
+{
+"text": "Contact",
+"href": "https://emmaformontana.org/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/emma-kerr-carpentersd23"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/emmaformontana/"
+},
+{
+"text": "Home",
+"href": "https://emmaformontana.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/emmaformontana"
+},
+{
+"text": "Issues",
+"href": "https://emmaformontana.org/issues/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/emmaformontana"
+}
 ]

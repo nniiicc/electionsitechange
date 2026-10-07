@@ -1,5 +1,4 @@
-Meet Thomas
-Preacher’s Kid.
+0 Skip to Content Issues Petition About Media Volunteer Contact Donate Open Menu Close Menu Issues Petition About Media Volunteer Contact Donate Open Menu Close Menu Issues Petition About Media Volunteer Contact Donate Meet Thomas Preacher’s Kid.
 Professor.
 Prosecutor.
 Populist.
@@ -21,3 +20,7 @@ After teaching for four years, Thomas decided to return to rural Iowa to start a
 He earned his law degree at the University of Iowa and moved to Jefferson, Iowa, where he was elected Greene County Attorney.
 He is the first Libertarian in the history of our State to win an elective partisan office.
 And he did it twice, winning reelection as a Libertarian in 2022.
+Donate Now Help champion meaningful change for Iowa.
+Donate Stay in touch.
+Contact Us Copyright © # Paid for by Thomas Laehn Exploratory Committee, Inc.
+About Issues Media Volunteer Contact

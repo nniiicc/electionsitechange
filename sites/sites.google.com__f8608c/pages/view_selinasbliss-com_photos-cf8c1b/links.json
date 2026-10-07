@@ -1,8 +1,38 @@
 [
-"https://sites.google.com/view/selinasbliss-com/bio",
-"https://sites.google.com/view/selinasbliss-com/contact-me",
-"https://sites.google.com/view/selinasbliss-com/donate",
-"https://sites.google.com/view/selinasbliss-com/endorsements",
-"https://sites.google.com/view/selinasbliss-com/home",
-"https://sites.google.com/view/selinasbliss-com/photos"
+{
+"text": "Bio",
+"href": "https://sites.google.com/view/selinasbliss-com/bio"
+},
+{
+"text": "Contact me",
+"href": "https://sites.google.com/view/selinasbliss-com/contact-me"
+},
+{
+"text": "Donate",
+"href": "https://sites.google.com/view/selinasbliss-com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://sites.google.com/view/selinasbliss-com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://sites.google.com/view/selinasbliss-com/home"
+},
+{
+"text": "Photos",
+"href": "https://sites.google.com/view/selinasbliss-com/photos"
+},
+{
+"text": "SelinaBliss.com",
+"href": "https://sites.google.com/view/selinasbliss-com/home"
+},
+{
+"text": "[image]",
+"href": "https://sites.google.com/view/selinasbliss-com/home"
+},
+{
+"text": "[image]SelinaBliss.com",
+"href": "https://sites.google.com/view/selinasbliss-com/home"
+}
 ]

@@ -1,4 +1,4 @@
-A new bill that was passed unanimously by the Illinois House and Senate before the end of session made sweeping changes to Illinois’ unemployment system and the Illinois Department of Employment Security (IDES)
-This came after more than 15 months of turmoil and issues for the department.
+Skip to content Home About Issues Accomplishments News Contact Menu Home About Issues Accomplishments News Contact contribute ACCOMPLISHMENTS Unemployment reform package heads to governor’s desk A new bill that was passed unanimously by the Illinois House and Senate before the end of session made sweeping changes to Illinois’ unemployment system and the Illinois Department of Employment Security (IDES) This came after more than 15 months of turmoil and issues for the department.
 HB2643 is actually a huge combination package, also known as an omnibus package, that includes eight or nine different bills regarding unemployment from multiple different representatives and senators in the General Assembly.
-While the package deals with a lot of issues, some lawmakers say more should have been done…
+While the package deals with a lot of issues, some lawmakers say more should have been done… Continue Reading Here Sign up for updates Name Email Sign Up Paid for by citizens for Linda holmes P.O.
+Box 6374 | Aurora, IL 60598 Facebook Linkedin

@@ -1,13 +1,54 @@
 [
-"https://anthonycelata.com/",
-"https://anthonycelata.com/about",
-"https://anthonycelata.com/cart",
-"https://anthonycelata.com/checkout",
-"https://anthonycelata.com/contact",
-"https://anthonycelata.com/my-account",
-"https://anthonycelata.com/product-category/uncategorized",
-"https://anthonycelata.com/product/i-did-that-political-protest-sticker",
-"https://anthonycelata.com/shop",
-"https://anthonycelata.com/wp-content/uploads/2026/05/1777759878251115296_1200.jpeg",
-"https://paypal.com/donate?hosted_button_id=LZLTFC3JPBEF8"
+{
+"text": "About",
+"href": "https://anthonycelata.com/about/"
+},
+{
+"text": "Anthony Celata For Congress",
+"href": "https://anthonycelata.com/"
+},
+{
+"text": "Cancel reply",
+"href": "https://anthonycelata.com/product/i-did-that-political-protest-sticker/#respond"
+},
+{
+"text": "Cart",
+"href": "https://anthonycelata.com/cart/"
+},
+{
+"text": "Checkout",
+"href": "https://anthonycelata.com/checkout/"
+},
+{
+"text": "Contact",
+"href": "https://anthonycelata.com/contact/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://www.paypal.com/donate/?hosted_button_id=LZLTFC3JPBEF8"
+},
+{
+"text": "Home",
+"href": "https://anthonycelata.com"
+},
+{
+"text": "Home",
+"href": "https://anthonycelata.com/"
+},
+{
+"text": "My account",
+"href": "https://anthonycelata.com/my-account/"
+},
+{
+"text": "Shop",
+"href": "https://anthonycelata.com/shop/"
+},
+{
+"text": "Uncategorized",
+"href": "https://anthonycelata.com/product-category/uncategorized/"
+},
+{
+"text": "[image: I DID THAT! Political Protest Sticker]",
+"href": "https://anthonycelata.com/wp-content/uploads/2026/05/1777759878251115296_1200.jpeg"
+}
 ]

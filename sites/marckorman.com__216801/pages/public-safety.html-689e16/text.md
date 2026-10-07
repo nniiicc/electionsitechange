@@ -1,8 +1,14 @@
-The regular occurrence of tragic events such as Sandy Hook Elementary School are a reminder of the too frequent acts of violence perpetrated with guns, and we must do all that is possible to protect our children and the public from gun violence.
+Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe PUBLIC SAFETY The regular occurrence of tragic events such as Sandy Hook Elementary School are a reminder of the too frequent acts of violence perpetrated with guns, and we must do all that is possible to protect our children and the public from gun violence.
 We must also continue to invest in law enforcement capabilities to ensure that our public gathering spaces—such as the Capitol Crescent Trail and parking garages—are safe.
-Marc’s public safety plan includes:
+Marc’s public safety plan includes: Building upon the Firearm Safety Act of 2013.
+The 2013 legislation required fingerprinting and licensing of all handgun buyers and imposes a ban on many types of semiautomatic rifles.
+Marc believes the legislation can be expanded upon by strengthening training requirements and registering assault weapons currently in Maryland.
+Most of Maryland's gun safety laws also do not apply to shotguns, which as the Navy Yard and Columbia Mall shootings demonstrate can be used for mass violence.
+Marc voted to restrict weapons on our college campuses and improve the turning in of weapons by certain criminals prohibited by current law from obtaining them.
+Working with neighboring states on regional solutions to prevent lax gun laws in neighboring states from endangering Marylanders.
+The Navy Yard shooting demonstrates the risks of someone purchasing guns in one jurisdiction and going to another to use them. ​Increasing resources and training for our schools so that they have appropriately drilled and instituted procedures to protect themselves, teachers, and students against gun violence and have the security systems they need to keep students from harm. ​Work to cut criminal activities in public areas such as parking garages and on the Capitol Crescent Trail.
+By using innovative technologies and other precautionary measures such as better lighting, these places can be made safer for all of our citizens.
+Ensure our state public safety dollars are being properly spent, including working to improve our state correctional facilities to focus on security and rehabilitation and preventing continued criminal conduct by inmates as was recently seen at a Baltimore detention center.
 But public safety also means reforming our laws so that our criminal justice laws make sense.
-Marc supported the Justice Reinvestment Act in order to rationalize our criminal laws so that those who should be prosecuted are, but those who can be diverted to alternative programs and contribute to the community can be.
-Marc was endorsed by Montgomery County's elected public safety leaders in 2014: Montgomery County State's Attorney John McCarthy and County Sheriff Darren Popkin.
-Marc’s public safety plan includes:
-By Authority of Friends of Marc Korman; Mark Brown, Treasurer
+Marc supported the Justice Reinvestment Act in order to rationalize our criminal laws so that those who should be prosecuted are, but those who can be diverted to alternative programs and contribute to the community can be. ​ Marc was endorsed by Montgomery County's elected public safety leaders in 2014: Montgomery County State's Attorney John McCarthy and County Sheriff Darren Popkin.
+By Authority of Friends of Marc Korman; Mark Brown, Treasurer HOME ABOUT MARC ISSUES SCHOLARSHIP LATEST NEWS CONTRIBUTE CONTACT sign up to receive updates

@@ -1,9 +1,14 @@
 {
  "description": "MAHALO LETTER (clickable link)",
  "final_url": "https://joysanbuenaventura.com/mahalo-letter-to-all/",
- "paid_for_by": null,
+ "fingerprint": "0dda6cd2b180e39e2f347bccfe0a09c7e847bd70",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mahalo - Joy San Buenaventura",
  "years_mentioned": [
+  "2008",
+  "2018",
+  "2020",
   "2021"
  ]
 }

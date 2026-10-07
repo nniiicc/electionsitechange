@@ -1,9 +1,1 @@
-Back to All Events
-Join Mark Cohen, Independent Candidate for NE-CD3 at Restless Waters Event Hall
-Previous
-Previous
-October 8
-Gering Social Event
-Next
-Next
-October 9
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Back to All Events Johnson Lake Meet & Greet Thursday, October 8, 2026 7:00 PM 9:00 PM 2 Johnson Lake Drive 18 Johnson Lake, Nebraska, 68937 (map) Google Calendar ICS Join Mark Cohen, Independent Candidate for NE-CD3 at Restless Waters Event Hall Previous Previous October 8 Gering Social Event Next Next October 9 Holdrege Town Hall Donate info@markfornebraska.org Send checks to: Mark for Nebraska PO Box 81 Lemoyne, NE 69146 Volunteer Contact Terms of Use Privacy Policy PAID FOR AND AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website →

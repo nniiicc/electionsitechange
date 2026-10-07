@@ -1,8 +1,50 @@
 [
-"https://patrick4nh.com/about.html",
-"https://patrick4nh.com/contribute.html",
-"https://patrick4nh.com/events.html",
-"https://patrick4nh.com/get-involved.html",
-"https://patrick4nh.com/index.html",
-"https://patrick4nh.com/issues.html"
+{
+"text": "About",
+"href": "https://www.patrick4nh.com/about.html"
+},
+{
+"text": "About Patrick",
+"href": "https://www.patrick4nh.com/about.html"
+},
+{
+"text": "Contribute",
+"href": "https://www.patrick4nh.com/contribute.html"
+},
+{
+"text": "Contribute Now",
+"href": "https://www.patrick4nh.com/contribute.html"
+},
+{
+"text": "Email the Campaign",
+"href": "mailto:info@patrick4nh.com"
+},
+{
+"text": "Events",
+"href": "https://www.patrick4nh.com/events.html"
+},
+{
+"text": "Get Involved",
+"href": "https://www.patrick4nh.com/get-involved.html"
+},
+{
+"text": "Home",
+"href": "https://www.patrick4nh.com/index.html"
+},
+{
+"text": "Issues",
+"href": "https://www.patrick4nh.com/issues.html"
+},
+{
+"text": "The Issues",
+"href": "https://www.patrick4nh.com/issues.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.patrick4nh.com/get-involved.html"
+},
+{
+"text": "info@patrick4nh.com",
+"href": "mailto:info@patrick4nh.com"
+}
 ]

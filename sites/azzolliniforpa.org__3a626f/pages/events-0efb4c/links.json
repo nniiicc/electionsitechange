@@ -1,30 +1,158 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Launch+Party&dates=20260305T230000Z%2F20260306T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidates+Meet+%26+Greet&dates=20260503T150000Z%2F20260503T180000Z&location=976+Main+Street%2C+Honesdale%2C+PA%2C+18431%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet&dates=20260801T160000Z%2F20260801T190000Z&location=Dingmans+Ferry%2C+PA+18328",
-"http://google.com/calendar/event?action=TEMPLATE&text=Petition+Signing&dates=20260308T190000Z%2F20260308T210000Z&location=Paddlers+Point%2C+PA%2C+18336%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Trivia+Fundraiser&dates=20261001T223000Z%2F20261002T013000Z&location=4+Main+Ave%2C+Downstairs%2C+Hawley%2C+PA+18428",
-"http://maps.google.com/?q=+Dingmans+Ferry%2C+PA+18328",
-"http://maps.google.com/?q=4+Main+Ave%2C+Downstairs+Hawley%2C+PA+18428",
-"http://maps.google.com/?q=976+Main+Street+Honesdale%2C+PA%2C+18431+United+States",
-"http://maps.google.com/?q=Paddlers+Point+PA%2C+18336+United+States",
-"https://azzolliniforpa.org/",
-"https://azzolliniforpa.org/about",
-"https://azzolliniforpa.org/campaign-platform",
-"https://azzolliniforpa.org/cart",
-"https://azzolliniforpa.org/events",
-"https://azzolliniforpa.org/events/campaign-launch-party",
-"https://azzolliniforpa.org/events/campaign-launch-party?format=ical",
-"https://azzolliniforpa.org/events/candidates-meet-greet",
-"https://azzolliniforpa.org/events/candidates-meet-greet?format=ical",
-"https://azzolliniforpa.org/events/meet-greet",
-"https://azzolliniforpa.org/events/meet-greet?format=ical",
-"https://azzolliniforpa.org/events/petition-signing",
-"https://azzolliniforpa.org/events/petition-signing?format=ical",
-"https://azzolliniforpa.org/events/trivia-fundraiser",
-"https://azzolliniforpa.org/events/trivia-fundraiser?format=ical",
-"https://azzolliniforpa.org/faq-1",
-"https://facebook.com/share/1DgR4Unc8b?mibextid=wwXIfr",
-"https://instagram.com/dominique_azzollini_for_pa?igsh=MWJtZDJhNHVoemRzNw%3D%3D",
-"https://secure.actblue.com/donate/azzolliniforpa"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+dingmans+ferry%2C+pa+18328+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4+main+ave%2C+downstairs+hawley%2C+pa+18428+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=976+main+street+honesdale%2C+pa%2C+18431+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=paddlers+point+pa%2C+18336+united+states"
+},
+{
+"text": "0",
+"href": "https://www.azzolliniforpa.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.azzolliniforpa.org/about"
+},
+{
+"text": "Campaign Launch Party",
+"href": "https://www.azzolliniforpa.org/events/campaign-launch-party"
+},
+{
+"text": "Candidates Meet & Greet",
+"href": "https://www.azzolliniforpa.org/events/candidates-meet-greet"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/azzolliniforpa"
+},
+{
+"text": "Events",
+"href": "https://www.azzolliniforpa.org/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Launch+Party&dates=20260305T230000Z%2F20260306T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidates+Meet+%26+Greet&dates=20260503T150000Z%2F20260503T180000Z&location=976+Main+Street%2C+Honesdale%2C+PA%2C+18431%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet&dates=20260801T160000Z%2F20260801T190000Z&location=Dingmans+Ferry%2C+PA+18328"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Petition+Signing&dates=20260308T190000Z%2F20260308T210000Z&location=Paddlers+Point%2C+PA%2C+18336%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Trivia+Fundraiser&dates=20261001T223000Z%2F20261002T013000Z&location=4+Main+Ave%2C+Downstairs%2C+Hawley%2C+PA+18428"
+},
+{
+"text": "Home",
+"href": "https://www.azzolliniforpa.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.azzolliniforpa.org/events/campaign-launch-party?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.azzolliniforpa.org/events/candidates-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.azzolliniforpa.org/events/meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.azzolliniforpa.org/events/petition-signing?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.azzolliniforpa.org/events/trivia-fundraiser?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.azzolliniforpa.org/campaign-platform"
+},
+{
+"text": "Meet & Greet",
+"href": "https://www.azzolliniforpa.org/events/meet-greet"
+},
+{
+"text": "PA 139",
+"href": "https://www.azzolliniforpa.org/faq-1"
+},
+{
+"text": "Petition Signing",
+"href": "https://www.azzolliniforpa.org/events/petition-signing"
+},
+{
+"text": "Trivia Fundraiser",
+"href": "https://www.azzolliniforpa.org/events/trivia-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.azzolliniforpa.org/events/campaign-launch-party"
+},
+{
+"text": "View Event →",
+"href": "https://www.azzolliniforpa.org/events/candidates-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.azzolliniforpa.org/events/meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.azzolliniforpa.org/events/petition-signing"
+},
+{
+"text": "View Event →",
+"href": "https://www.azzolliniforpa.org/events/trivia-fundraiser"
+},
+{
+"text": "[image: Campaign Launch Party]",
+"href": "https://www.azzolliniforpa.org/events/campaign-launch-party"
+},
+{
+"text": "[image: Candidates Meet & Greet]",
+"href": "https://www.azzolliniforpa.org/events/candidates-meet-greet"
+},
+{
+"text": "[image: Dominique Azzollini For PA 139]",
+"href": "https://www.azzolliniforpa.org/"
+},
+{
+"text": "[image: Meet & Greet]",
+"href": "https://www.azzolliniforpa.org/events/meet-greet"
+},
+{
+"text": "[image: Petition Signing]",
+"href": "https://www.azzolliniforpa.org/events/petition-signing"
+},
+{
+"text": "[image: Trivia Fundraiser]",
+"href": "https://www.azzolliniforpa.org/events/trivia-fundraiser"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1DgR4Unc8b/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dominique_azzollini_for_pa?igsh=MWJtZDJhNHVoemRzNw%3D%3D"
+}
 ]

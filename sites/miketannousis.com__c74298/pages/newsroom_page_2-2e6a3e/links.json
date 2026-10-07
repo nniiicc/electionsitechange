@@ -1,25 +1,142 @@
 [
-"http://addtoany.com/add_to/email?linkurl=https%3A%2F%2Fmiketannousis.com%2Fdetectives-endorse-tannousis%2F&linkname=Detectives%E2%80%99+Union+Endorses+Mike+Tannousis+for+State+Assembly",
-"http://addtoany.com/add_to/email?linkurl=https%3A%2F%2Fmiketannousis.com%2Fsergeants-benevolent-association-endorses-mike-tannousis-for-state-assembly%2F&linkname=Sergeants+Benevolent+Association+Endorses+Mike+Tannousis+for+State+Assembly",
-"http://addtoany.com/add_to/email?linkurl=https%3A%2F%2Fmiketannousis.com%2Ftannousis-endorsed-by-the-staten-island-republican-party%2F&linkname=Tannousis+Endorsed+by+the+Staten+Island+Republican+Party",
-"http://electoralmedia.com/",
-"http://miketannousis.com/",
-"https://facebook.com/miketannousis",
-"https://miketannousis.com/",
-"https://miketannousis.com/category/endorsements",
-"https://miketannousis.com/contact",
-"https://miketannousis.com/detectives-endorse-tannousis",
-"https://miketannousis.com/events",
-"https://miketannousis.com/meet-mike",
-"https://miketannousis.com/newsroom",
-"https://miketannousis.com/newsroom/page/3",
-"https://miketannousis.com/newsroom/page/4",
-"https://miketannousis.com/privacy-policy",
-"https://miketannousis.com/request-a-sign",
-"https://miketannousis.com/sergeants-benevolent-association-endorses-mike-tannousis-for-state-assembly",
-"https://miketannousis.com/sergeants-benevolent-association-endorses-mike-tannousis-for-state-assembly?close=true",
-"https://miketannousis.com/tannousis-endorsed-by-the-staten-island-republican-party",
-"https://miketannousis.com/volunteer",
-"https://secure.anedot.com/tannousis/donate",
-"https://twitter.com/miketannousis"
+{
+"text": "1",
+"href": "https://miketannousis.com/newsroom/"
+},
+{
+"text": "3",
+"href": "https://miketannousis.com/newsroom/page/3/"
+},
+{
+"text": "4",
+"href": "https://miketannousis.com/newsroom/page/4/"
+},
+{
+"text": "Contact Us",
+"href": "https://miketannousis.com/contact/"
+},
+{
+"text": "Detectives’ Union Endorses Mike Tannousis for State Assembly",
+"href": "https://miketannousis.com/detectives-endorse-tannousis/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/tannousis/donate"
+},
+{
+"text": "Donate to Mike Tannousis for State Assembly",
+"href": "https://secure.anedot.com/tannousis/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://miketannousis.com/category/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://miketannousis.com/events/"
+},
+{
+"text": "Explore",
+"href": "https://miketannousis.com/newsroom/"
+},
+{
+"text": "Get Involved",
+"href": "https://miketannousis.com/volunteer/"
+},
+{
+"text": "Meet Mike",
+"href": "https://miketannousis.com/meet-mike/"
+},
+{
+"text": "Mike Tannousis for State Assembly",
+"href": "https://miketannousis.com/"
+},
+{
+"text": "Newsroom",
+"href": "https://miketannousis.com/newsroom/"
+},
+{
+"text": "Next page",
+"href": "https://miketannousis.com/newsroom/page/3/"
+},
+{
+"text": "PAID FOR BY TANNOUSIS 2026",
+"href": "http://miketannousis.com"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://miketannousis.com/privacy-policy/"
+},
+{
+"text": "Previous page",
+"href": "https://miketannousis.com/newsroom/"
+},
+{
+"text": "READ post",
+"href": "https://miketannousis.com/detectives-endorse-tannousis/"
+},
+{
+"text": "READ post",
+"href": "https://miketannousis.com/sergeants-benevolent-association-endorses-mike-tannousis-for-state-assembly/"
+},
+{
+"text": "READ post",
+"href": "https://miketannousis.com/tannousis-endorsed-by-the-staten-island-republican-party/"
+},
+{
+"text": "Request a Sign",
+"href": "https://miketannousis.com/request-a-sign/"
+},
+{
+"text": "Sergeants Benevolent Association Endorses Mike Tannousis for State Assembly",
+"href": "https://miketannousis.com/sergeants-benevolent-association-endorses-mike-tannousis-for-state-assembly/"
+},
+{
+"text": "Tannousis Endorsed by the Staten Island Republican Party",
+"href": "https://miketannousis.com/tannousis-endorsed-by-the-staten-island-republican-party/"
+},
+{
+"text": "Volunteer",
+"href": "https://miketannousis.com/volunteer/"
+},
+{
+"text": "[image: The official website of Michael Tannousis for New York State Assembly]",
+"href": "https://miketannousis.com"
+},
+{
+"text": "[image: The official website of Michael Tannousis for New York State Assembly] [image: The official website of Michael Tannousis for New York State Assembly] [image: The official website of Michael Tannousis for New York State Assembly]",
+"href": "https://miketannousis.com"
+},
+{
+"text": "[image: electoralmedia®]",
+"href": "http://electoralmedia.com"
+},
+{
+"text": "[no text]",
+"href": "https://miketannousis.com/"
+},
+{
+"text": "[no text]",
+"href": "https://miketannousis.com/sergeants-benevolent-association-endorses-mike-tannousis-for-state-assembly/?close=true"
+},
+{
+"text": "[tooltip: facebook]",
+"href": "https://www.facebook.com/miketannousis/"
+},
+{
+"text": "[tooltip: mail]",
+"href": "http://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fmiketannousis.com%2Fdetectives-endorse-tannousis%2F&linkname=Detectives%E2%80%99+Union+Endorses+Mike+Tannousis+for+State+Assembly"
+},
+{
+"text": "[tooltip: mail]",
+"href": "http://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fmiketannousis.com%2Fsergeants-benevolent-association-endorses-mike-tannousis-for-state-assembly%2F&linkname=Sergeants+Benevolent+Association+Endorses+Mike+Tannousis+for+State+Assembly"
+},
+{
+"text": "[tooltip: mail]",
+"href": "http://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fmiketannousis.com%2Ftannousis-endorsed-by-the-staten-island-republican-party%2F&linkname=Tannousis+Endorsed+by+the+Staten+Island+Republican+Party"
+},
+{
+"text": "[tooltip: twitter]",
+"href": "https://twitter.com/miketannousis"
+}
 ]

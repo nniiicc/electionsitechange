@@ -1,6 +1,22 @@
 [
-"https://dianenapper.com/",
-"https://dianenapper.com/contact",
-"https://dianenapper.com/volunteer",
-"https://secure.anedot.com/diane-napper-for-mn-senate/donate"
+{
+"text": "CONTRIBUTE NOW!",
+"href": "https://secure.anedot.com/diane-napper-for-mn-senate/donate"
+},
+{
+"text": "Contact",
+"href": "https://dianenapper.com/contact/"
+},
+{
+"text": "Volunteer",
+"href": "https://dianenapper.com/volunteer/"
+},
+{
+"text": "[image: Diane Napper for MN Senate]",
+"href": "https://dianenapper.com"
+},
+{
+"text": "[image: Diane Napper for MN Senate]",
+"href": "https://dianenapper.com/"
+}
 ]

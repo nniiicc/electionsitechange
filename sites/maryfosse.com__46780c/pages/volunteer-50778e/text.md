@@ -1,4 +1,4 @@
-Join our people powered campaign!
+0 Skip to Content Home Biography Priorities Endorsements Volunteer Contact Donate Open Menu Close Menu Home Biography Priorities Endorsements Volunteer Contact Donate Open Menu Close Menu Home Biography Priorities Endorsements Volunteer Contact Donate Join our people powered campaign!
 Sign up today to canvas!
 Join the Team!
 I need your help to talk to our neighbors about the upcoming election and my re-election campaign for State Representative in the 38th Legislative District, Position 2.
@@ -10,3 +10,5 @@ All you need are comfortable shoes, water, and your fully charged phone.
 Sign waving will take place closer to election day and is another great way to make a visible impact at key locations.
 Please fill out the form, and we’ll be in touch with all the details.
 Thank you for stepping up to make a difference!
+Contact Donate Paid for by Friends of Mary Fosse (D), P.O.
+Box 3125, Everett WA, 98213

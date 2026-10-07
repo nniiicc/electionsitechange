@@ -1,9 +1,8 @@
-Dear Neighbor,
-Thank you for reading my District Round-up.
+Skip to content Menu Close Priorities Meet Beth Contact Beth donate Join us !
+District Round-up , Gun Safety , Our Precious Democracy , Uncategorized · August 31, 2025 District Round-up 8.31.25 Dear Neighbor, Thank you for reading my District Round-up.
 As your candidate for Pennsylvania’s 13th Congressional District, it is my honor and pleasure to deliver to you where I’ve been and what issues I’ve tackled in the past week.
 Criss-crossing the counties of Adams, Franklin, Fulton, Bedford, Cambria, Blair, Huntingdon, Mifflin, Juniata, Perry, Cumberland, and Somerset gives me great opportunities to meet with voters, hear what is on your hearts and minds, and the chance to voice my fight for Everyday Americans.
-If you would like to contribute to my campaign, please donate here: https://secure.actblue.com/donate/beth-fa,rnham-for-congress-1
-This past week, our country was rocked by another senseless murder perpetrated by gun violence, the leading cause of death for US children.
+If you would like to contribute to my campaign, please donate here: https://secure.actblue.com/donate/beth-fa,rnham-for-congress-1 This past week, our country was rocked by another senseless murder perpetrated by gun violence, the leading cause of death for US children.
 Indeed, two children were gunned down, not outside, not at a game, not in a school, not at a movie, not in a grocery store, not at a mall, nor at so many other places Americans have been slaughtered by bullets.
 No, these two children were praying inside of a church.
 None of that religiosity saved them.
@@ -23,7 +22,7 @@ Unsurprisingly, no one I spoke to could come up with the name of our US Represen
 Multimillionaire John Joyce is too elitist to answer our phone calls, letters, and emails, much less inquire of his constituency at a small town fair.
 But I, Beth Farnham, am glad to take the time and care to talk about our precious Democracy, the rising cost of living, and so many other issues with Everyday Americans.
 Please vote for me in November 2026 so I can properly represent us!
-Together, we #ChooseDemocracy!
+Together, we #ChooseDemocracy !
 P.S.
 Many thanks to Campaign Manager Jack Stansbury for accompanying me across our beautiful Congressional District and for taking photos on this gorgeous day.
 P.P.S.
@@ -33,5 +32,14 @@ Spencer McLoughlin is the Chair of the Juniata County Dems and has extensive kno
 If you’re like me, you love this country as much as I do and work to make a positive difference.
 In the midst of this Constitutional Crisis, please consider reaching out to your local Democratic committees or Democratic candidates so that we can strengthen our Democracy instead of letting it slide into fascism.
 We don’t just #ChooseDemocracy, we choose Pennsylvania, we choose The United States of America, we choose Humanity and I am deeply glad to work along side you.
-Sincerely,
-Beth
+Sincerely, Beth Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Discover more from Beth Farnham for Congress Subscribe to get the latest posts sent to your email.
+Type your email… Subscribe Latest posts PA Licensed Daycares Must Accept Unvaccinated Children You can ask other parents what their vaccine philosophy is, then make decisions about who your children play with.
+You can also vote for legislators at the state and federal… District Round-up , healthcare , Our Precious Democracy , Uncategorized · October 4, 2026 Pro-lifers Don’t Really Care About “Life of the Mother” Ever since Roe v.
+Wade was overturned in 2022, many conservative states imposed very restrictive abortion bans, based on the heartbeat bill that Texas created in 2021, using vague language… District Round-up , healthcare , Our Precious Democracy , Uncategorized · September 27, 2026 The Most Terrifying Conversation I Ever Had With Voters So I asked, “What is on your heart and mind at the federal level of government?” They responded, “Nothing, really.” I got specific.
+“How are you doing with the price… District Round-up , healthcare , Our Precious Democracy , Uncategorized · September 20, 2026 Get updates Spam-free subscription, we guarantee.
+This is just a friendly ping when new content is out. ← Back Thank you for your response. ✨ Name (required) Email (required) Subscribe Submitting form Δ Menu Close Priorities Meet Beth Contact Beth donate Join us !
+Paid for by BETH FARNHAM FOR CONGRESS Designed by WordPress Discover more from Beth Farnham for Congress Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Get the latest post from Beth Farnham for Congress Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Subscribe Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

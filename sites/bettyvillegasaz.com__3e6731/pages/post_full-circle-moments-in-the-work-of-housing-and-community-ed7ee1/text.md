@@ -1,6 +1,4 @@
-Full Circle Moments in the Work of Housing and Community
-The PCCLT Richard Elias Housing Champion Award
-It was a deep honor to receive this award and to be recognized alongside my friend Liz Morales, Assistant City Manager for the City of Tucson, and corporate awardee WaFd Bank in South Tucson, represented by Manager Deanna Quihada and Vice President Kim Dees.
+top of page Villegas for AZ ABOUT BETTY Media Blog ABOUT LD 20 OUR ISSUES RE-ELECT BETTY CONTACT All Posts Search Full Circle Moments in the Work of Housing and Community Betty Villegas Mar 29 2 min read The PCCLT Richard Elias Housing Champion Award It was a deep honor to receive this award and to be recognized alongside my friend Liz Morales, Assistant City Manager for the City of Tucson, and corporate awardee WaFd Bank in South Tucson, represented by Manager Deanna Quihada and Vice President Kim Dees.
 This recognition was especially meaningful to me because it brought together so many parts of my personal and professional journey in one moment.
 What many people may not know is that the South Tucson WaFd Bank location is where I began my career in retail banking and community lending.
 Before it became WaFd, it was a local bank that later changed through the savings and loan crisis.
@@ -23,3 +21,4 @@ It is about dignity, stability, opportunity, and the chance for families and com
 I am grateful to the Pima County Community Land Trust Board Members, Maggie and staff, and everyone who made this event possible.
 I am also deeply honored to receive an award that carries Richard Elias’s name.
 His legacy of fighting for fairness, justice, and housing opportunity continues to inspire me, and I am grateful to continue that work.
+PAID FOR BY Betty Villegas for Arizona Authorized by Betty Villegas. ​ Privacy Policy Terms and Conditions Register to VOTE bottom of page

@@ -1,8 +1,50 @@
 [
-"https://secure.actblue.com/donate/trudellfortennessee",
-"https://trudellfortennessee.com/",
-"https://trudellfortennessee.com/donate",
-"https://trudellfortennessee.com/event-details-1/campaign-kick-off",
-"https://trudellfortennessee.com/event-details-1/canvassing-with-the-candidate",
-"https://trudellfortennessee.com/event-details-1/coffee-with-the-candidate"
+{
+"text": "Buy Tickets",
+"href": "https://www.trudellfortennessee.com/event-details-1/campaign-kick-off"
+},
+{
+"text": "Campaign Kick-Off",
+"href": "https://www.trudellfortennessee.com/event-details-1/campaign-kick-off"
+},
+{
+"text": "Canvassing with the Candidate",
+"href": "https://www.trudellfortennessee.com/event-details-1/canvassing-with-the-candidate"
+},
+{
+"text": "Coffee with the Candidate",
+"href": "https://www.trudellfortennessee.com/event-details-1/coffee-with-the-candidate"
+},
+{
+"text": "Details",
+"href": "https://www.trudellfortennessee.com/event-details-1/coffee-with-the-candidate"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/trudellfortennessee"
+},
+{
+"text": "Donate",
+"href": "https://www.trudellfortennessee.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.trudellfortennessee.com#upcoming%20events"
+},
+{
+"text": "Home",
+"href": "https://www.trudellfortennessee.com"
+},
+{
+"text": "RSVP",
+"href": "https://www.trudellfortennessee.com/event-details-1/canvassing-with-the-candidate"
+},
+{
+"text": "Updates & News",
+"href": "https://www.trudellfortennessee.com#latest%20updates"
+},
+{
+"text": "Volunteer",
+"href": "https://www.trudellfortennessee.com#volunteer"
+}
 ]

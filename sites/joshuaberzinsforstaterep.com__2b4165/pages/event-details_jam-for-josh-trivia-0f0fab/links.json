@@ -1,15 +1,62 @@
 [
-"http://instagram.com/",
-"http://tiktok.com/",
-"https://facebook.com/share/1E6viqD3eE",
-"https://joshuaberzinsforstaterep.com/",
-"https://joshuaberzinsforstaterep.com/accessibility-statement",
-"https://joshuaberzinsforstaterep.com/event-list",
-"https://joshuaberzinsforstaterep.com/news",
-"https://joshuaberzinsforstaterep.com/privacy-policy",
-"https://joshuaberzinsforstaterep.com/terms-and-conditions",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.joshuaberzinsforstaterep.com%2Fevent-details%2Fjam-for-josh-trivia",
-"https://secure.actblue.com/donate/josh-berzins-1",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.joshuaberzinsforstaterep.com%2Fevent-details%2Fjam-for-josh-trivia&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.joshuaberzinsforstaterep.com#about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.joshuaberzinsforstaterep.com/accessibility-statement"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/josh-berzins-1"
+},
+{
+"text": "Events",
+"href": "https://www.joshuaberzinsforstaterep.com/event-list"
+},
+{
+"text": "Get Involved",
+"href": "https://www.joshuaberzinsforstaterep.com#get-involved"
+},
+{
+"text": "News",
+"href": "https://www.joshuaberzinsforstaterep.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.joshuaberzinsforstaterep.com/privacy-policy"
+},
+{
+"text": "See other events",
+"href": "https://www.joshuaberzinsforstaterep.com/event-list"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.joshuaberzinsforstaterep.com/terms-and-conditions"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.joshuaberzinsforstaterep.com%2Fevent-details%2Fjam-for-josh-trivia&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1E6viqD3eE/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.joshuaberzinsforstaterep.com%2Fevent-details%2Fjam-for-josh-trivia"
+}
 ]

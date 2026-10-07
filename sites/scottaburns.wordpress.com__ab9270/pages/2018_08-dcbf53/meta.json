@@ -1,9 +1,19 @@
 {
  "description": "2 posts published by Scott Burns for State Representative during August 2018",
  "final_url": "https://scottaburns.wordpress.com/2018/08/",
- "paid_for_by": null,
+ "fingerprint": "a7eb8bb39da69cd9235ff5be1acc44d8ee5440c3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "August | 2018 | scottaburns",
  "years_mentioned": [
-  "2018"
+  "2012",
+  "2013",
+  "2014",
+  "2015",
+  "2016",
+  "2018",
+  "2020",
+  "2022",
+  "2026"
  ]
 }

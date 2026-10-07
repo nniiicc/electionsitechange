@@ -1,14 +1,50 @@
 [
-"https://crystalfrolics.org/",
-"https://facebook.com/FreibergForStateSenator",
-"https://luma.com/2hzp7ncr",
-"https://marketinthevalley.org/",
-"https://mikefreiberg.com/",
-"https://mikefreiberg.com/accomplishments",
-"https://mikefreiberg.com/donate",
-"https://mikefreiberg.com/endorsements",
-"https://mikefreiberg.com/events",
-"https://mikefreiberg.com/issues",
-"https://mikefreiberg.com/media",
-"https://mikefreiberg.com/voting"
+{
+"text": "Accomplishments",
+"href": "https://www.mikefreiberg.com/accomplishments"
+},
+{
+"text": "Crystal Frolics",
+"href": "https://www.crystalfrolics.org/"
+},
+{
+"text": "Donate",
+"href": "https://www.mikefreiberg.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mikefreiberg.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mikefreiberg.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.mikefreiberg.com/issues"
+},
+{
+"text": "Market in the Valley",
+"href": "https://marketinthevalley.org/"
+},
+{
+"text": "Media",
+"href": "https://www.mikefreiberg.com/media"
+},
+{
+"text": "Mike Freiberg",
+"href": "https://www.mikefreiberg.com"
+},
+{
+"text": "RSVP via Luma",
+"href": "https://luma.com/2hzp7ncr"
+},
+{
+"text": "Voting",
+"href": "https://www.mikefreiberg.com/voting"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/FreibergForStateSenator/"
+}
 ]

@@ -1,7 +1,11 @@
 {
- "description": "Explore Ed Markey\u2019s key priorities and policy plans to lower costs, expand opportunity, protect rights, and deliver results for Massachusetts families.",
+ "description": "Explore Ed Markey’s key priorities and policy plans to lower costs, expand opportunity, protect rights, and deliver results for Massachusetts families.",
  "final_url": "https://www.edmarkey.com/issues-priorities/",
- "paid_for_by": "Paid For By The Markey Committee &copy; 2026 - Ed Markey",
+ "fingerprint": "87369d45b32c064deb792452a113d42da0db64b1",
+ "format": 3,
+ "paid_for_by": "Paid For By The Markey Committee © # - Ed Markey",
  "title": "Ed Markey Issues & Priorities - Ed Markey",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

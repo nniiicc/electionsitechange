@@ -1,10 +1,6 @@
-Back to All Events
-Join the Elmquist Campaign for a kickoff to doorknocking in 40A.
+0 Skip to Content Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Folder: Take Action Back Immigration and Community Resources Contact CONTRIBUTE Back to All Events Doorknock Kickoff Saturday, June 6, 2026 3:00 PM 5:30 PM Shoreview Community Center 4580 Victoria Street North Shoreview, MN, 55126 United States (map) Google Calendar ICS Join the Elmquist Campaign for a kickoff to doorknocking in 40A.
 Look for us in the parking lot in the grassy area by the large playground!
-Previous
-Previous
-June 4
-June 4 Phonebank
-Next
-Next
-June 20
+RSVP Here Posted In: Talk to Voters Previous Previous June 4 June 4 Phonebank Next Next June 20 June 20 Doorknock Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for campaign updates and news: Email Address Sign Up Thank you!
+Contribute Paid for by Neighbors for Aisha Elmquist PO Box 120195, New Brighton, MN 55112 Top

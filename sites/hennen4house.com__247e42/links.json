@@ -1,7 +1,38 @@
 [
-"https://facebook.com/Hennen4House",
-"https://google.com/maps/search/2243+330th+St,+Ghent,+MN+56239?entry=gmail",
-"https://hennen4house.com/",
-"https://hennen4house.com/cart",
-"https://secure.winred.com/hennen-4-house/donate"
+{
+"text": "0",
+"href": "https://hennen4house.com/cart"
+},
+{
+"text": "About",
+"href": "https://hennen4house.com/#about-us"
+},
+{
+"text": "Contact",
+"href": "https://hennen4house.com/#contact-us"
+},
+{
+"text": "DONATE TODAY!",
+"href": "https://secure.winred.com/hennen-4-house/donate"
+},
+{
+"text": "FAQs",
+"href": "https://hennen4house.com/#frequently-asked-questions"
+},
+{
+"text": "PO BOX 1, Ghent, MN 56239",
+"href": "https://www.google.com/maps/search/2243+330th+St,+Ghent,+MN+56239?entry=gmail"
+},
+{
+"text": "[image: Hennen for House]",
+"href": "https://hennen4house.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Hennen4House"
+},
+{
+"text": "[no text]",
+"href": "mailto:Brad@hennenforhouse.com"
+}
 ]

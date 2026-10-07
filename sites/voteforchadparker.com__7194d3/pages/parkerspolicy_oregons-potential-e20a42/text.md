@@ -1,5 +1,4 @@
-Making Oregon THE Place That Lives Up to Our Shared Potential
-Oregon is absolutely wonderful.
+0 Skip to Content Home Endorsements Policy Donate To Our Campaign Open Menu Close Menu Home Endorsements Policy Donate To Our Campaign Open Menu Close Menu Home Endorsements Policy Donate To Our Campaign Making Oregon THE Place That Lives Up to Our Shared Potential Aug 28 Written By Charles Parker Oregon is absolutely wonderful.
 I say that often in conversations because I know it to be true.
 It is also true that too many conversations lately about our state now start with an audible sigh and another negative stat.
 Reading scores near the bottom of the Nation’s Report Card.
@@ -18,8 +17,7 @@ No more treating decline like Oregon’s personality.
 No more reciting the rankings like a eulogy.
 A eulogy is for something that is over.
 Oregon is FAR from over.
-Imagine the future we can be building together:
-The untapped potential of a student we refuse to leave behind, every child reading by fourth grade, with teachers backed instead of buried, and the same high expectations our families already hold in West Linn, Tualatin, River Grove, and Durham.
+Imagine the future we can be building together: The untapped potential of a student we refuse to leave behind, every child reading by fourth grade, with teachers backed instead of buried, and the same high expectations our families already hold in West Linn, Tualatin, River Grove, and Durham.
 The unused potential of a business that grows here instead of somewhere else, a second location on this side of the river, an apprentice hired in Tualatin, a payroll that stays in Clackamas and Washington counties because Salem finally treats businesses like a gift to multiply, not a problem to manage.
 The unused potential of the wild places that made people choose Oregon in the first place, trails families can actually use, parks kept like an inheritance, rivers we protect with stewardship instead of slogans.
 The Tualatin.
@@ -42,5 +40,9 @@ Oregon is not used up.
 Oregon is waiting to be believed in.
 Let’s go get the potential that is already ours.
 Together.
-People Over Party…ALWAYS.
--Chad Parker
+People Over Party…ALWAYS. -Chad Parker Charles Parker http://www.alwaysoutdoors.tv Next Next Making Oregon THE Best Place to Work and Grow a Business Chad Parker for State Representative Paid For By: Friends of Chad Parker # 24694 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up and Get Involved Sign up with your email address to receive Campaign news and updates.
+Email Address Sign Up We respect your privacy.
+Thank you!
+Email: chad@voteforchadparker.com Phone: 503.487.2370 Mailing Address: 1980 Willamette Falls Dr Suite 120, #332 West Linn, OR 97068 Donate to Our Campaign

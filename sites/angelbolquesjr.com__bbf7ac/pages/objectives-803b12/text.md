@@ -1,13 +1,11 @@
-As your Senator-At-Large, I plan to focus on fixing issues that affect the Virgin Islands in areas such as Education, Economic Development, Financial Sustainability, Affordable Energy, Housing Development, Workforce & Professional Development, Healthcare, and advocating on Capitalizing on our Natural Resources and Agriculture as sustaining sources of Revenue for our Territory.
-Below are my objectives which will encompass much of the legislative work I plan to support and initiate as your representative in the Legislature of the Virgin Islands.
-• ENSURING HONEST AND ACCOUNTABLE LEADERSHIP AND A TRANSPARENT GOVERNMENT
-• REFORMING THE GOVERNMENT EMPLOYEES RETIREMENT SYSTEM FOR LONGEVITY AND SUSTAINABILITY
-• PROMOTING ECONOMIC PROSPERITY FOR ALL
-• ACHIEVING EDUCATIONAL EXCELLENCE AND NURTURING OUR YOUTH
-• DELIVERING AN EQUITABLE 21ST CENTURY HEALTH CARE SYSTEM THAT INCLUDES AND WORKS FOR ALL
-• PROVIDING SAFE AND AFFORDABLE HOUSING OPTIONS INCLUDING HOMEOWNERSHIP OPPORTUNITIES FOR ALL
-• SAFEGUARDING THE PUBLIC FROM CRIME, TERRORISM, NATURAL DISASTERS, PROTECTING LABOR RIGHTS, AND PROVIDING FAIR COMPENSATION
-• PRESERVING AND PROTECTING OUR CULTURAL AND NATURAL RESOURCES
-• PROMOTING RENEWABLE, SUSTAINABLE, RELIABLE, AND AFFORDABLE ENERGY
-• ACHIEVING POLITICAL MATURITY THROUGH ADOPTION OF OUR OWN CONSTITUTION AND DETERMINING OUR DESTINY THROUGH A DECISION ON OUR STATUS
-• FOSTERING INNOVATION THROUGH THE USE OF SCIENCE, TECHNOLOGY, ENGINEERING, ARTS, AGRICULTURE AND MATH (STEAM), AND ARTIFICIAL INTELLIGENCE TO ENHANCE GOVERNMENT OPERATIONS AND OUR ECONOMY
+Angel Bolques, Jr.
+Home Greetings Objectives LEGISLATIVE WORK Legislative POLICY Agenda Bill Tracking Professional Experience News and Updates Your Support How will my Donation be used?
+Donate Contact Gallery Angel Bolques, Jr.
+Home Greetings Objectives LEGISLATIVE WORK Legislative POLICY Agenda Bill Tracking Professional Experience News and Updates Your Support How will my Donation be used?
+Donate Contact Gallery Objectives As your Senator-At-Large, I plan to focus on fixing issues that affect the Virgin Islands in areas such as Education, Economic Development, Financial Sustainability, Affordable Energy, Housing Development, Workforce & Professional Development, Healthcare, and advocating on Capitalizing on our Natural Resources and Agriculture as sustaining sources of Revenue for our Territory.
+Below are my objectives which will encompass much of the legislative work I plan to support and initiate as your representative in the Legislature of the Virgin Islands. • ENSURING HONEST AND ACCOUNTABLE LEADERSHIP AND A TRANSPARENT GOVERNMENT • REFORMING THE GOVERNMENT EMPLOYEES RETIREMENT SYSTEM FOR LONGEVITY AND SUSTAINABILITY • PROMOTING ECONOMIC PROSPERITY FOR ALL • ACHIEVING EDUCATIONAL EXCELLENCE AND NURTURING OUR YOUTH • DELIVERING AN EQUITABLE 21ST CENTURY HEALTH CARE SYSTEM THAT INCLUDES AND WORKS FOR ALL • PROVIDING SAFE AND AFFORDABLE HOUSING OPTIONS INCLUDING HOMEOWNERSHIP OPPORTUNITIES FOR ALL • SAFEGUARDING THE PUBLIC FROM CRIME, TERRORISM, NATURAL DISASTERS, PROTECTING LABOR RIGHTS, AND PROVIDING FAIR COMPENSATION • PRESERVING AND PROTECTING OUR CULTURAL AND NATURAL RESOURCES • PROMOTING RENEWABLE, SUSTAINABLE, RELIABLE, AND AFFORDABLE ENERGY • ACHIEVING POLITICAL MATURITY THROUGH ADOPTION OF OUR OWN CONSTITUTION AND DETERMINING OUR DESTINY THROUGH A DECISION ON OUR STATUS • FOSTERING INNOVATION THROUGH THE USE OF SCIENCE, TECHNOLOGY, ENGINEERING, ARTS, AGRICULTURE AND MATH (STEAM), AND ARTIFICIAL INTELLIGENCE TO ENHANCE GOVERNMENT OPERATIONS AND OUR ECONOMY Home Greetings Objectives LEGISLATIVE WORK Legislative POLICY Agenda Bill Tracking Professional Experience News and Updates Your Support How will my Donation be used?
+Donate Contact Gallery Subscribe Copyright © # All rights reserved - Angel Bolques, Jr.
+Terms | Privacy | Accessibility +1340-3406902555 - FRIENDS OF ANGEL BOLQUESJR.
+ANGELBOLQUESJRFORSENATE@GMAIL.COM 486G Estate Chocolate Hole Road, St.
+John, USVI (PO Box 8493.
+STT, Virgin Islands 00801 or PO Box 630, STJ VI 00830)

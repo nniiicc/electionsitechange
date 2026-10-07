@@ -1,40 +1,282 @@
 [
-"https://facebook.com/johngaramendi",
-"https://flickr.com/photos/38900629@N06",
-"https://garamendi.org/",
-"https://garamendi.org/about",
-"https://garamendi.org/contact",
-"https://garamendi.org/contribute",
-"https://garamendi.org/contribute?am=100",
-"https://garamendi.org/contribute?am=1000",
-"https://garamendi.org/contribute?am=25",
-"https://garamendi.org/contribute?am=3300",
-"https://garamendi.org/contribute?am=50",
-"https://garamendi.org/contribute?am=500",
-"https://garamendi.org/events",
-"https://garamendi.org/in-the-district",
-"https://garamendi.org/issues",
-"https://garamendi.org/join",
-"https://garamendi.org/news",
-"https://garamendi.org/news/garamendi-delivers-speech-st-stephen-cme",
-"https://garamendi.org/news/garamendi-hosts-community-meet-and-greet-richmond-ferry-terminal",
-"https://garamendi.org/news/garamendi-keynotes-opening-annual-flyway-festival",
-"https://garamendi.org/news/garamendi-meets-constituents-el-cerrito-farmers-market",
-"https://garamendi.org/news/garamendi-meets-students-and-faculty-touro-university",
-"https://garamendi.org/news/garamendi-participates-roundtable-vallejo-chamber-commerce",
-"https://garamendi.org/news/garamendi-speaks-el-cerrito-seniors-luncheon",
-"https://garamendi.org/news/meeting-lao-family-foundation-discuss-federal-funding-low-income-services",
-"https://garamendi.org/news/tour-contra-costa-waste-services",
-"https://garamendi.org/news?page=0",
-"https://garamendi.org/news?page=1",
-"https://garamendi.org/news?page=16",
-"https://garamendi.org/news?page=2",
-"https://garamendi.org/news?page=3",
-"https://garamendi.org/news?page=4",
-"https://garamendi.org/news?page=5",
-"https://garamendi.org/news?page=6",
-"https://garamendi.org/news?page=7",
-"https://garamendi.org/news?page=8",
-"https://twitter.com/JohnGaramendi",
-"https://youtube.com/user/JohnGaramendi/featured"
+{
+"text": "$100",
+"href": "https://www.garamendi.org/contribute?am=100"
+},
+{
+"text": "$1000",
+"href": "https://www.garamendi.org/contribute?am=1000"
+},
+{
+"text": "$25",
+"href": "https://www.garamendi.org/contribute?am=25"
+},
+{
+"text": "$3300",
+"href": "https://www.garamendi.org/contribute?am=3300"
+},
+{
+"text": "$50",
+"href": "https://www.garamendi.org/contribute?am=50"
+},
+{
+"text": "$500",
+"href": "https://www.garamendi.org/contribute?am=500"
+},
+{
+"text": "About John",
+"href": "https://www.garamendi.org/about"
+},
+{
+"text": "Agriculture",
+"href": "https://www.garamendi.org/issues#agriculture"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://www.garamendi.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.garamendi.org/contribute"
+},
+{
+"text": "Current page 4",
+"href": "https://www.garamendi.org/news?page=3"
+},
+{
+"text": "Education",
+"href": "https://www.garamendi.org/issues#education"
+},
+{
+"text": "Environment",
+"href": "https://www.garamendi.org/issues#environment"
+},
+{
+"text": "Events",
+"href": "https://www.garamendi.org/events"
+},
+{
+"text": "February 11, 2022",
+"href": "https://www.garamendi.org/news/garamendi-keynotes-opening-annual-flyway-festival"
+},
+{
+"text": "February 11, 2022",
+"href": "https://www.garamendi.org/news/garamendi-meets-students-and-faculty-touro-university"
+},
+{
+"text": "February 11, 2022",
+"href": "https://www.garamendi.org/news/garamendi-participates-roundtable-vallejo-chamber-commerce"
+},
+{
+"text": "February 12, 2022",
+"href": "https://www.garamendi.org/news/garamendi-hosts-community-meet-and-greet-richmond-ferry-terminal"
+},
+{
+"text": "February 12, 2022",
+"href": "https://www.garamendi.org/news/garamendi-meets-constituents-el-cerrito-farmers-market"
+},
+{
+"text": "February 12, 2022",
+"href": "https://www.garamendi.org/news/garamendi-speaks-el-cerrito-seniors-luncheon"
+},
+{
+"text": "February 12, 2022",
+"href": "https://www.garamendi.org/news/meeting-lao-family-foundation-discuss-federal-funding-low-income-services"
+},
+{
+"text": "February 12, 2022",
+"href": "https://www.garamendi.org/news/tour-contra-costa-waste-services"
+},
+{
+"text": "First page « First",
+"href": "https://www.garamendi.org/news?page=0"
+},
+{
+"text": "Garamendi delivers speech at St. Stephen CME",
+"href": "https://www.garamendi.org/news/garamendi-delivers-speech-st-stephen-cme"
+},
+{
+"text": "Garamendi hosts community meet and greet at Richmond Ferry Terminal",
+"href": "https://www.garamendi.org/news/garamendi-hosts-community-meet-and-greet-richmond-ferry-terminal"
+},
+{
+"text": "Garamendi keynotes opening of the annual flyway festival",
+"href": "https://www.garamendi.org/news/garamendi-keynotes-opening-annual-flyway-festival"
+},
+{
+"text": "Garamendi meets with constituents at the El Cerrito Farmers Market",
+"href": "https://www.garamendi.org/news/garamendi-meets-constituents-el-cerrito-farmers-market"
+},
+{
+"text": "Garamendi meets with students and Faculty at Touro University",
+"href": "https://www.garamendi.org/news/garamendi-meets-students-and-faculty-touro-university"
+},
+{
+"text": "Garamendi participates in a roundtable with the Vallejo Chamber of Commerce",
+"href": "https://www.garamendi.org/news/garamendi-participates-roundtable-vallejo-chamber-commerce"
+},
+{
+"text": "Garamendi speaks at El Cerrito seniors luncheon",
+"href": "https://www.garamendi.org/news/garamendi-speaks-el-cerrito-seniors-luncheon"
+},
+{
+"text": "Health Care",
+"href": "https://www.garamendi.org/issues#health-care"
+},
+{
+"text": "In the District",
+"href": "https://www.garamendi.org/in-the-district"
+},
+{
+"text": "Issues",
+"href": "https://www.garamendi.org/issues"
+},
+{
+"text": "January 16, 2022",
+"href": "https://www.garamendi.org/news/garamendi-delivers-speech-st-stephen-cme"
+},
+{
+"text": "Jobs",
+"href": "https://www.garamendi.org/issues#jobs"
+},
+{
+"text": "John Garamendi Facebook",
+"href": "https://www.facebook.com/johngaramendi"
+},
+{
+"text": "John Garamendi Flickr",
+"href": "https://www.flickr.com/photos/38900629@N06/"
+},
+{
+"text": "John Garamendi Twitter",
+"href": "https://twitter.com/JohnGaramendi"
+},
+{
+"text": "John Garamendi YouTube",
+"href": "https://www.youtube.com/user/JohnGaramendi/featured"
+},
+{
+"text": "Join",
+"href": "https://www.garamendi.org/join"
+},
+{
+"text": "Last page Last »",
+"href": "https://www.garamendi.org/news?page=16"
+},
+{
+"text": "Meeting with Lao Family Foundation to discuss federal funding for low-income services",
+"href": "https://www.garamendi.org/news/meeting-lao-family-foundation-discuss-federal-funding-low-income-services"
+},
+{
+"text": "Military Affairs and Foreign Relations",
+"href": "https://www.garamendi.org/issues#military-affairs-and-foreign-relations"
+},
+{
+"text": "News",
+"href": "https://www.garamendi.org/news"
+},
+{
+"text": "Next page Next ›",
+"href": "https://www.garamendi.org/news?page=4"
+},
+{
+"text": "Page 1",
+"href": "https://www.garamendi.org/news?page=0"
+},
+{
+"text": "Page 2",
+"href": "https://www.garamendi.org/news?page=1"
+},
+{
+"text": "Page 3",
+"href": "https://www.garamendi.org/news?page=2"
+},
+{
+"text": "Page 5",
+"href": "https://www.garamendi.org/news?page=4"
+},
+{
+"text": "Page 6",
+"href": "https://www.garamendi.org/news?page=5"
+},
+{
+"text": "Page 7",
+"href": "https://www.garamendi.org/news?page=6"
+},
+{
+"text": "Page 8",
+"href": "https://www.garamendi.org/news?page=7"
+},
+{
+"text": "Page 9",
+"href": "https://www.garamendi.org/news?page=8"
+},
+{
+"text": "Previous page ‹ Previous",
+"href": "https://www.garamendi.org/news?page=2"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-delivers-speech-st-stephen-cme"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-hosts-community-meet-and-greet-richmond-ferry-terminal"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-keynotes-opening-annual-flyway-festival"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-meets-constituents-el-cerrito-farmers-market"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-meets-students-and-faculty-touro-university"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-participates-roundtable-vallejo-chamber-commerce"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-speaks-el-cerrito-seniors-luncheon"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/meeting-lao-family-foundation-discuss-federal-funding-low-income-services"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/tour-contra-costa-waste-services"
+},
+{
+"text": "Seniors",
+"href": "https://www.garamendi.org/issues#seniors"
+},
+{
+"text": "Social Justice",
+"href": "https://www.garamendi.org/issues#social-justice"
+},
+{
+"text": "Tour of Contra Costa Waste Services",
+"href": "https://www.garamendi.org/news/tour-contra-costa-waste-services"
+},
+{
+"text": "Transportation",
+"href": "https://www.garamendi.org/issues#transportation"
+},
+{
+"text": "Veterans",
+"href": "https://www.garamendi.org/issues#veterans"
+},
+{
+"text": "Water",
+"href": "https://www.garamendi.org/issues#water"
+},
+{
+"text": "[image: Logo: John Garamendi for Congress]",
+"href": "https://www.garamendi.org/"
+}
 ]

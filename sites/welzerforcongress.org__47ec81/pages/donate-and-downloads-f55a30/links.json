@@ -1,11 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61555465286264",
-"https://images.squarespace-cdn.com/content/69d0001a7801c4267c62700a/c8ba4912-eec5-4b7e-b7bc-313295384f95/Welzer-for-Congress-2026-basic-flyer.jpg?content-type=image%2Fjpeg",
-"https://images.squarespace-cdn.com/content/69d0001a7801c4267c62700a/d2e23cbb-5ab8-4d9d-a943-1a1094e62a9d/Sign-1.png?content-type=image%2Fpng",
-"https://welzerforcongress.org/",
-"https://welzerforcongress.org/about",
-"https://welzerforcongress.org/cart",
-"https://welzerforcongress.org/contact",
-"https://welzerforcongress.org/donate-and-downloads",
-"https://welzerforcongress.org/links"
+{
+"text": "0",
+"href": "https://www.welzerforcongress.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.welzerforcongress.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.welzerforcongress.org/contact"
+},
+{
+"text": "Donate and Downloads",
+"href": "https://www.welzerforcongress.org/donate-and-downloads"
+},
+{
+"text": "Links",
+"href": "https://www.welzerforcongress.org/links"
+},
+{
+"text": "Vote Steven Welzer for US Congress NJ CD 3",
+"href": "https://www.welzerforcongress.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61555465286264"
+},
+{
+"text": "https://images.squarespace-cdn.com/content/69d0001a7801c4267c62700a/c8ba4912-eec5-4b7e-b7bc-313295384f95/Welzer-for-Congress-2026-basic-flyer.jpg?content-type=image%2Fjpeg",
+"href": "https://images.squarespace-cdn.com/content/69d0001a7801c4267c62700a/c8ba4912-eec5-4b7e-b7bc-313295384f95/Welzer-for-Congress-2026-basic-flyer.jpg?content-type=image%2Fjpeg"
+},
+{
+"text": "https://images.squarespace-cdn.com/content/69d0001a7801c4267c62700a/d2e23cbb-5ab8-4d9d-a943-1a1094e62a9d/Sign-1.png?content-type=image%2Fpng",
+"href": "https://images.squarespace-cdn.com/content/69d0001a7801c4267c62700a/d2e23cbb-5ab8-4d9d-a943-1a1094e62a9d/Sign-1.png?content-type=image%2Fpng"
+}
 ]

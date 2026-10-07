@@ -1,9 +1,2 @@
-Contact Ross
-Mobile Phone:
-(918) 381-4777
-Email:
-ross@fordforhouse.com
-Postal:
-FRIENDS OF ROSS FORD 2021
-701 NORTH NYSSA AVE.
-BROKEN ARROW, OK 74012
+0 Skip to Content About Legislation Make Your Voice Heard Take My Survey Contact Ross Donate Open Menu Close Menu About Legislation Make Your Voice Heard Take My Survey Contact Ross Donate Open Menu Close Menu About Legislation Folder: Make Your Voice Heard Back Take My Survey Contact Ross Donate Contact Ross Mobile Phone: (918) 381-4777 Email: ross@fordforhouse.com Postal: FRIENDS OF ROSS FORD 2021 701 NORTH NYSSA AVE.
+BROKEN ARROW, OK 74012 Donate Donate Authorized and Paid for by Friends of Ross Ford 2026

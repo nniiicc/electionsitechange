@@ -1,6 +1,4 @@
-Letter to the Editor
-Published in the Oldham Era on April 15, 2026
-In a time when public discourse can feel increasingly divided, it’s worth taking a moment to recognize the importance of character in those who step forward to serve our communities.
+0 Skip to Content Home Support Events Stories Priorities About DONATE Open Menu Close Menu Home Support Events Stories Priorities About DONATE Open Menu Close Menu Home Support Events Stories Priorities About DONATE Letter to the Editor Apr 15 Written By Stephanie White Published in the Oldham Era on April 15, 2026 In a time when public discourse can feel increasingly divided, it’s worth taking a moment to recognize the importance of character in those who step forward to serve our communities.
 I have known Dr.
 Stephanie White, who is running for District 59 State Representative, for 13 years.
 I first met her through Louisville Family Fun when I was a mom simply looking for fun, affordable ways to spend time with my young children.
@@ -21,5 +19,4 @@ She creates space for respectful, intelligent conversation, even when perspectiv
 Just as importantly, I have never known her to tear others down.
 She leads with kindness, choosing integrity and respect in both her words and her actions.
 Character like that is worth recognizing.
-Sincerely,
-Nicolle Martin
+Sincerely, Nicolle Martin Stephanie White Previous Previous My Responses to the Courier-Journal Candidate Survey Next Next Letter to the Editor

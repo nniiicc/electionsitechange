@@ -1,7 +1,4 @@
-Skip navigation menu
-A LIFETIME OF
-FIGHTING FOR JUSTICE
-Congresswoman Lateefah Simon is a progressive Democrat and nationally recognized advocate for civil rights and social justice running for re-election in California’s 12th Congressional District.
+Skip navigation menu MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE A LIFETIME OF FIGHTING FOR JUSTICE MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE A LIFETIME OF FIGHTING FOR JUSTICE Congresswoman Lateefah Simon is a progressive Democrat and nationally recognized advocate for civil rights and social justice running for re-election in California’s 12th Congressional District.
 She currently serves as a Vice Chair of the Congressional Progressive Caucus and of the Congressional Equality Caucus.
 As the first Muslim woman elected to Congress from California and the first member of Congress born with congenital blindness, Congresswoman Simon was also appointed to serve as a Deputy Whip for Policy.
 She currently serves on the House Oversight and Government Reform Committee and the House Small Business Committee.
@@ -22,4 +19,4 @@ In 2016, Lateefah became president of the Akonadi Foundation, an Oakland-based r
 In 2020, she was appointed a senior advisor on police reform for California Governor Gavin Newsom.
 Congresswoman Simon also served on the Board of Directors for the San Francisco Foundation, on the Advisory Committee for Human Rights Watch U.S, as an Oxfam Ambassador, and the Board of Directors for Rosenberg Foundation and Tipping Point Foundation.
 Congresswoman Simon currently resides in Oakland.
-Congresswoman Simon is running for re-election to represent California’s 12th Congressional District, which is home to over 750,000 people across Alameda County, and includes Alameda, Albany, Berkeley, Emeryville, Oakland, Piedmont, and San Leandro.
+Congresswoman Simon is running for re-election to represent California’s 12th Congressional District , which is home to over 750,000 people across Alameda County, and includes Alameda, Albany, Berkeley, Emeryville, Oakland, Piedmont, and San Leandro. info@LateefahSimon.com Lateefah for Congress 1714 Franklin St #100 - 438 Oakland, CA 94612 Privacy Policy Powered by RUN! website builder Paid for by Lateefah for Congress You need to enable JavaScript to run this app.

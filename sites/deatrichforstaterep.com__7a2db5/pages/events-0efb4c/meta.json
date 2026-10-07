@@ -1,7 +1,12 @@
 {
  "description": "John Deatrich Jr. Campaign Events",
  "final_url": "https://www.deatrichforstaterep.com/events",
- "paid_for_by": null,
+ "fingerprint": "cd700536d0260bc63f4ccb2eb56f59d29e969a12",
+ "format": 3,
+ "paid_for_by": "",
  "title": "John Deatrich Jr. Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026",
+  "2027"
+ ]
 }

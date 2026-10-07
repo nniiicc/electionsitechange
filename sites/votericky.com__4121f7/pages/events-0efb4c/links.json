@@ -1,33 +1,174 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Kick-off+&dates=20250714T220000Z%2F20250715T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Fore+the+People&dates=20251004T220000Z%2F20251005T000000Z&location=101+North+Street%2C+Geneva%2C+IL%2C+60134%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Kane+County+Fair+Meet+and+Greet&dates=20240721T190000Z%2F20240721T220000Z&location=525+South+Randall+Road%2C+St.+Charles%2C+IL%2C+60174%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Trivia+Night+Fundraiser&dates=20240725T220000Z%2F20240726T000000Z&location=330+West+State+Street%2C+Geneva%2C+IL%2C+60134%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=We+Win+Together+Fundraiser&dates=20240430T220000Z%2F20240501T000000Z",
-"http://maps.google.com/?q=101+North+Street+Geneva%2C+IL%2C+60134+United+States",
-"http://maps.google.com/?q=330+West+State+Street+Geneva%2C+IL%2C+60134+United+States",
-"http://maps.google.com/?q=525+South+Randall+Road+St.+Charles%2C+IL%2C+60174+United+States",
-"https://l.facebook.com/l.php?u=http%3A%2F%2Fsecure.actblue.com%2Fdonate%2Frivard65%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExUnFyQktWYUN4YnJGN3ZUZAEe0a9iFs7-YnD8wgjpFnA1QEmwfI1aDF_lfATpF_VW3WLaeUDqVUajtYLP9ew_aem_Xi8YsV2kNEB46MtazWYQAQ&h=AT26ZNgTZ5qtQnLlc9WkHyUpzAvWDcgILpnJuKqaAyY0ZCtnNzUyVjbDRBz8bLcVAuR-pz5DTWotoDOGlk_V7ZLg_yjFpWaexDxDHGpjt0Jh6r8klZKB3OgFzZKbjj3NuUJPbcgAoQM&__tn__=q&c%5B0%5D=AT0khetq4x1u-o1P4-Ue4oTREnl0mDzjq6bwlhUxk9tH3GFkuGTQLCIo4qBt3TmRl1q3xxCS0yxFHAOvMPD78xME5Cpa0T7UJ2n8Y8-i0wS_6zJjN7nvLxIBYpLhMSA6OiRZuHMTGMCP08seFpTuN3nYU7h8sxmjlSHFVg",
-"https://rayguncustom.com/collections/ricky-rivard-for-state-rep",
-"https://secure.actblue.com/donate/rivard65",
-"https://secure.actblue.com/donate/trivia12",
-"https://votericky.com/",
-"https://votericky.com/aboutricky",
-"https://votericky.com/cart",
-"https://votericky.com/contact",
-"https://votericky.com/district-map",
-"https://votericky.com/events",
-"https://votericky.com/events/248zc3m5bav69ywx2mi74jgrino8b8",
-"https://votericky.com/events/248zc3m5bav69ywx2mi74jgrino8b8?format=ical",
-"https://votericky.com/events/campaign-kick-off",
-"https://votericky.com/events/campaign-kick-off?format=ical",
-"https://votericky.com/events/kane-county-fair-meet-and-greet",
-"https://votericky.com/events/kane-county-fair-meet-and-greet?format=ical",
-"https://votericky.com/events/trivia-night-fundraiser",
-"https://votericky.com/events/trivia-night-fundraiser?format=ical",
-"https://votericky.com/events/we-win-together-fundraiser",
-"https://votericky.com/events/we-win-together-fundraiser?format=ical",
-"https://votericky.com/issues",
-"https://votericky.com/news",
-"https://votericky.com/privacy-policy"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=101+north+street+geneva%2C+il%2C+60134+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=330+west+state+street+geneva%2C+il%2C+60134+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=525+south+randall+road+st.+charles%2C+il%2C+60174+united+states"
+},
+{
+"text": "0",
+"href": "https://www.votericky.com/cart"
+},
+{
+"text": "About Ricky",
+"href": "https://www.votericky.com/aboutricky"
+},
+{
+"text": "Back",
+"href": "https://www.votericky.com/"
+},
+{
+"text": "Campaign Kick-off",
+"href": "https://www.votericky.com/events/campaign-kick-off"
+},
+{
+"text": "Contact",
+"href": "https://www.votericky.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://www.votericky.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rivard65"
+},
+{
+"text": "Events",
+"href": "https://www.votericky.com/events"
+},
+{
+"text": "Fore the People",
+"href": "https://www.votericky.com/events/248zc3m5bav69ywx2mi74jgrino8b8"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Kick-off+&dates=20250714T220000Z%2F20250715T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fore+the+People&dates=20251004T220000Z%2F20251005T000000Z&location=101+North+Street%2C+Geneva%2C+IL%2C+60134%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Kane+County+Fair+Meet+and+Greet&dates=20240721T190000Z%2F20240721T220000Z&location=525+South+Randall+Road%2C+St.+Charles%2C+IL%2C+60174%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Trivia+Night+Fundraiser&dates=20240725T220000Z%2F20240726T000000Z&location=330+West+State+Street%2C+Geneva%2C+IL%2C+60134%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=We+Win+Together+Fundraiser&dates=20240430T220000Z%2F20240501T000000Z"
+},
+{
+"text": "Home",
+"href": "https://www.votericky.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.votericky.com/events/248zc3m5bav69ywx2mi74jgrino8b8?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votericky.com/events/campaign-kick-off?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votericky.com/events/kane-county-fair-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votericky.com/events/trivia-night-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votericky.com/events/we-win-together-fundraiser?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.votericky.com/issues"
+},
+{
+"text": "Kane County Fair Meet and Greet",
+"href": "https://www.votericky.com/events/kane-county-fair-meet-and-greet"
+},
+{
+"text": "News",
+"href": "https://www.votericky.com/news"
+},
+{
+"text": "Privacy Policy & Terns/Conditions",
+"href": "https://www.votericky.com/privacy-policy"
+},
+{
+"text": "Ricky Rivard for State Rep store",
+"href": "https://www.rayguncustom.com/collections/ricky-rivard-for-state-rep"
+},
+{
+"text": "Ricky Rivard | Putting People First",
+"href": "https://www.votericky.com/"
+},
+{
+"text": "Trivia Night Fundraiser",
+"href": "https://www.votericky.com/events/trivia-night-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.votericky.com/events/248zc3m5bav69ywx2mi74jgrino8b8"
+},
+{
+"text": "View Event →",
+"href": "https://www.votericky.com/events/campaign-kick-off"
+},
+{
+"text": "View Event →",
+"href": "https://www.votericky.com/events/kane-county-fair-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.votericky.com/events/trivia-night-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.votericky.com/events/we-win-together-fundraiser"
+},
+{
+"text": "We Win Together Fundraiser",
+"href": "https://www.votericky.com/events/we-win-together-fundraiser"
+},
+{
+"text": "[image: Fore the People]",
+"href": "https://www.votericky.com/events/248zc3m5bav69ywx2mi74jgrino8b8"
+},
+{
+"text": "[image: Kane County Fair Meet and Greet]",
+"href": "https://www.votericky.com/events/kane-county-fair-meet-and-greet"
+},
+{
+"text": "[image: Trivia Night Fundraiser]",
+"href": "https://www.votericky.com/events/trivia-night-fundraiser"
+},
+{
+"text": "[image: We Win Together Fundraiser]",
+"href": "https://www.votericky.com/events/we-win-together-fundraiser"
+},
+{
+"text": "[no text]",
+"href": "https://www.votericky.com/events/campaign-kick-off"
+},
+{
+"text": "https://secure.actblue.com/donate/trivia12",
+"href": "https://secure.actblue.com/donate/trivia12"
+},
+{
+"text": "secure.actblue.com/donate/rivard65",
+"href": "https://l.facebook.com/l.php?u=http%3A%2F%2Fsecure.actblue.com%2Fdonate%2Frivard65%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExUnFyQktWYUN4YnJGN3ZUZAEe0a9iFs7-YnD8wgjpFnA1QEmwfI1aDF_lfATpF_VW3WLaeUDqVUajtYLP9ew_aem_Xi8YsV2kNEB46MtazWYQAQ&h=AT26ZNgTZ5qtQnLlc9WkHyUpzAvWDcgILpnJuKqaAyY0ZCtnNzUyVjbDRBz8bLcVAuR-pz5DTWotoDOGlk_V7ZLg_yjFpWaexDxDHGpjt0Jh6r8klZKB3OgFzZKbjj3NuUJPbcgAoQM&__tn__=q&c%5B0%5D=AT0khetq4x1u-o1P4-Ue4oTREnl0mDzjq6bwlhUxk9tH3GFkuGTQLCIo4qBt3TmRl1q3xxCS0yxFHAOvMPD78xME5Cpa0T7UJ2n8Y8-i0wS_6zJjN7nvLxIBYpLhMSA6OiRZuHMTGMCP08seFpTuN3nYU7h8sxmjlSHFVg"
+}
 ]

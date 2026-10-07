@@ -1,7 +1,9 @@
 {
  "description": "These are my family's actual tax returns from the past few years.",
  "final_url": "https://www.electmarsh.org/tax-returns",
- "paid_for_by": null,
+ "fingerprint": "ff48f2eb17b0aa613df51b1b213d4c742f5a91bc",
+ "format": 3,
+ "paid_for_by": "",
  "title": "MARSH for MI - Tax Returns",
  "years_mentioned": [
   "2022",

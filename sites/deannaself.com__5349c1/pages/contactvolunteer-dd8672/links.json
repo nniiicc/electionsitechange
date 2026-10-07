@@ -1,7 +1,26 @@
 [
-"https://deannaself.com/",
-"https://deannaself.com/about",
-"https://deannaself.com/contactvolunteer",
-"https://deannaself.com/endorsements",
-"https://secure.winred.com/committee-to-elect-deanna-self/donate-today"
+{
+"text": "ABOUT",
+"href": "https://www.deannaself.com/about"
+},
+{
+"text": "CONTRIBUTE & GET IN TOUCH",
+"href": "https://www.deannaself.com/contactvolunteer"
+},
+{
+"text": "CONTRIBUTE NOW",
+"href": "https://secure.winred.com/committee-to-elect-deanna-self/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.deannaself.com/endorsements"
+},
+{
+"text": "MEET DEANNA",
+"href": "https://www.deannaself.com"
+},
+{
+"text": "deannaselfforstaterep@yahoo.com",
+"href": "mailto:deannaselfforstaterep@yahoo.com"
+}
 ]

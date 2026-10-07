@@ -1,9 +1,58 @@
 [
-"https://cullinfortexas.com/",
-"https://cullinfortexas.com/cart",
-"https://cullinfortexas.com/donations",
-"https://cullinfortexas.com/petition",
-"https://cullinfortexas.com/positions",
-"https://secure.actblue.com/donate/cullin-knutson",
-"https://squarespace.com/"
+{
+"text": "$1,000.00",
+"href": "https://secure.actblue.com/donate/cullin-knutson"
+},
+{
+"text": "$10.00",
+"href": "https://secure.actblue.com/donate/cullin-knutson"
+},
+{
+"text": "$100.00",
+"href": "https://secure.actblue.com/donate/cullin-knutson"
+},
+{
+"text": "$20.00",
+"href": "https://secure.actblue.com/donate/cullin-knutson"
+},
+{
+"text": "$250.00",
+"href": "https://secure.actblue.com/donate/cullin-knutson"
+},
+{
+"text": "$50.00",
+"href": "https://secure.actblue.com/donate/cullin-knutson"
+},
+{
+"text": "0",
+"href": "https://www.cullinfortexas.com/cart"
+},
+{
+"text": "Custom",
+"href": "https://secure.actblue.com/donate/cullin-knutson"
+},
+{
+"text": "Donations",
+"href": "https://www.cullinfortexas.com/donations"
+},
+{
+"text": "Home",
+"href": "https://www.cullinfortexas.com/"
+},
+{
+"text": "Positions",
+"href": "https://www.cullinfortexas.com/positions"
+},
+{
+"text": "SIGN OUR PETITION",
+"href": "https://www.cullinfortexas.com/petition"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: Cullin Knutson for State Representative ]",
+"href": "https://www.cullinfortexas.com/"
+}
 ]

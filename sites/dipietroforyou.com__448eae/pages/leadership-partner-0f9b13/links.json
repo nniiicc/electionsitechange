@@ -1,17 +1,66 @@
 [
-"https://dipietroforyou.com/",
-"https://dipietroforyou.com/about",
-"https://dipietroforyou.com/blog",
-"https://dipietroforyou.com/buygiftcards",
-"https://dipietroforyou.com/issues",
-"https://dipietroforyou.com/leadership-partner",
-"https://dipietroforyou.com/silentmajorityspeakspodcast",
-"https://dipietroforyou.com/thedaviddipietroshow",
-"https://dipietroforyou.com/theshows",
-"https://dipietroforyou.com/volunteer",
-"https://facebook.com/profile.php?id=100057753832479",
-"https://secure.winred.com/dipietro-for-you/donate-to-dave",
-"https://secure.winred.com/dipietro-for-you/legislative-partner",
-"https://twitter.com/DiPietroForYou",
-"https://youtube.com/@assemblymandipietro"
+{
+"text": "ABOUT DAVE",
+"href": "https://www.dipietroforyou.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/dipietro-for-you/donate-to-dave"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.dipietroforyou.com/volunteer"
+},
+{
+"text": "HOME",
+"href": "https://www.dipietroforyou.com"
+},
+{
+"text": "JOIN US",
+"href": "https://secure.winred.com/dipietro-for-you/legislative-partner"
+},
+{
+"text": "LATEST NEWS",
+"href": "https://www.dipietroforyou.com/blog"
+},
+{
+"text": "OPERATION GIFT CERTIFICATE",
+"href": "https://www.dipietroforyou.com/buygiftcards"
+},
+{
+"text": "POWERFUL PARTNERSHIP",
+"href": "https://www.dipietroforyou.com/leadership-partner"
+},
+{
+"text": "Silent Majority Speaks Podcast",
+"href": "https://www.dipietroforyou.com/silentmajorityspeakspodcast"
+},
+{
+"text": "THE ISSUES",
+"href": "https://www.dipietroforyou.com/issues"
+},
+{
+"text": "THE SHOWS",
+"href": "https://www.dipietroforyou.com/theshows"
+},
+{
+"text": "The David DiPietro Show",
+"href": "https://www.dipietroforyou.com/thedaviddipietroshow"
+},
+{
+"text": "[image: DiPietro For You Logo]",
+"href": "https://www.dipietroforyou.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100057753832479"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/DiPietroForYou"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@assemblymandipietro"
+}
 ]

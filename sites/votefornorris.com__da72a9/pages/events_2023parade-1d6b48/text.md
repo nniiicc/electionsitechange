@@ -1,14 +1,9 @@
-Back to All Events
-March with Matt in the Blaine Festival Parade!
+0 Skip to Content Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Folder: Get Involved Back Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Folder: Matt's Work Back Delivering Results at the Capitol Matt In The News Folder: Priorities Back Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Back to All Events Blaine Festival Parade 2023 Saturday, June 24, 2023 11:00 AM 1:30 PM Madison Elementary School Blaine, MN, 55434 United States (map) Google Calendar ICS March with Matt in the Blaine Festival Parade!
 Summer is here and so is parade season!
 Join Matt and march in the Blaine Festival Parade on Saturday, June 24.
 Marchers should plan to arrive by 11:00 am, and the parade should be over by 1:30 pm.
 Children, including those in strollers or wagons, are encouraged to be part of the group.
 We will send additional details to those who register in the days leading up to the parade.
-Previous
-Previous
-November 6
-11/06/2022 GOTV Phone Bank for Team Norris
-Next
-Next
-June 29
+Previous Previous November 6 11/06/2022 GOTV Phone Bank for Team Norris Next Next June 29 Blaine Festival Parade 2024 Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.
+P.O.
+Box 490868, Blaine, MN 55449

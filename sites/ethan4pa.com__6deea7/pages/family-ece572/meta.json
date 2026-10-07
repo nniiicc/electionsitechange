@@ -1,7 +1,9 @@
 {
  "description": "Explore Pennsylvania family legislation, including PA minimum wage, universal pre-k eligibility, and universal school lunches for a better family future.",
  "final_url": "https://ethan4pa.com/family",
- "paid_for_by": null,
+ "fingerprint": "070f7b25168172dd8880c8399d3b0e6f95c4b072",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Family",
  "years_mentioned": []
 }

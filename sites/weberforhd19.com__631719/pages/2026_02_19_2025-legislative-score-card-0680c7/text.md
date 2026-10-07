@@ -1,6 +1,6 @@
-How to Utilize the Scorecards
-In these scorecards, you will find analysis and information about rural and agricultural issues that were debated and presented in the 2025 Legislature.
+October 7, 2026 406-781-0741 Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube 2025 Legislative Session Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube 2025 Legislative Score Card How to Utilize the Scorecards In these scorecards, you will find analysis and information about rural and agricultural issues that were debated and presented in the 2025 Legislature.
 You will find information about the issue/bill, a breakdown of what happened to it in the 2025 Legislature, and MFU’s position.
-On the following pages there
-is a breakdown of how your legislator voted.
-Download the Scorecard Here
+On the following pages there is a breakdown of how your legislator voted.
+Download the Scorecard Here 2025 Legislative Score Card 2026-02-19 2026-02-19 https://weberforhd19.com/new/wp-content/uploads/2026/02/w419-reelect-logo.png Weber for House District 19 https://weberforhd19.com/new/wp-content/uploads/2026/02/legislative-scorecard-2025-cover.jpg 200px 200px Recent News 2025 Legislative Score Card February 19, 2026 Meet Our 100% Champions February 5, 2026 Welcome to Bozangeles!
+March 27, 2025 Early Weeks in the 2025 Legislature February 10, 2025 Endorsed by Montana Conservation Voters October 10, 2024 Jane Weber talks about getting out to vote October 3, 2024 Jane Weber talks about getting out to vote, tip 1 October 3, 2024 Jane Weber talks about getting out to vote, tip 2 October 3, 2024 Jane Weber talks about getting out to vote, tip 3 October 3, 2024 Jane Weber on education short October 3, 2024 Pam Guschausky, Treasurer PO 818, Great Falls, MT 59403 406-781-0741 DONATE NOW! br> Or, send a contribution in the form of a check to: Weber for HD 19 PO Box 818 Great Falls, MT 59403 Any amount helps.
+(Limit $470) Paid for by Weber for HD 19 PO Box 818 Great Falls, MT 59403 Pam Guschausky – Treasurer Designed by Slingshot Creative Group

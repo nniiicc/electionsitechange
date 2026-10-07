@@ -1,10 +1,34 @@
 [
-"http://facebook.com/judgemarisa",
-"http://instagram.com/judgemarisa",
-"https://cornachioforjudge.com/",
-"https://cornachioforjudge.com/cart",
-"https://cornachioforjudge.com/donate",
-"https://cornachioforjudge.com/privacy",
-"https://cornachioforjudge.com/terms",
-"https://cornachioforjudge.com/volunteer"
+{
+"text": "0",
+"href": "https://www.cornachioforjudge.com/cart"
+},
+{
+"text": "Donate Now",
+"href": "https://www.cornachioforjudge.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.cornachioforjudge.com/volunteer"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cornachioforjudge.com/privacy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.cornachioforjudge.com/terms"
+},
+{
+"text": "[image: Cornachio for Judge]",
+"href": "https://www.cornachioforjudge.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/judgemarisa"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/judgemarisa"
+}
 ]

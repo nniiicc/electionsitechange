@@ -1,16 +1,74 @@
 [
-"https://act.peggyflanagan.com/survey/volunteer",
-"https://bsky.app/profile/peggyflanagan.bsky.social",
-"https://facebook.com/people/Peggy-Flanagan/61573651403308",
-"https://instagram.com/peggyflanagan?igsh=c2VvYmQ2OG0zaDhw",
-"https://peggyflanagan.com/",
-"https://peggyflanagan.com/endorsements",
-"https://peggyflanagan.com/priorities",
-"https://peggyflanagan.com/privacy",
-"https://peggyflanagan.com/volunteer",
-"https://secure.actblue.com/donate/pf-popup",
-"https://secure.actblue.com/donate/pf-web",
-"https://secure.actblue.com/donate/pf-web?express_lane=true&amount=25",
-"https://store.peggyflanagan.com/",
-"https://threads.net/@peggyflanagan?igshid=NTc4MTIwNjQ2YQ%3D%3D"
+{
+"text": "Contact Us",
+"href": "mailto:info@peggyflanagan.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pf-web"
+},
+{
+"text": "Donate $ 25",
+"href": "https://secure.actblue.com/donate/pf-web?express_lane=true&amount=25"
+},
+{
+"text": "Endorsements",
+"href": "https://peggyflanagan.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Peggy-Flanagan/61573651403308/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/peggyflanagan?igsh=c2VvYmQ2OG0zaDhw"
+},
+{
+"text": "PITCH IN TODAY:",
+"href": "https://secure.actblue.com/donate/pf-popup"
+},
+{
+"text": "Priorities",
+"href": "https://peggyflanagan.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://peggyflanagan.com/privacy/"
+},
+{
+"text": "Store",
+"href": "https://store.peggyflanagan.com/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.net/@peggyflanagan?igshid=NTc4MTIwNjQ2YQ%3D%3D"
+},
+{
+"text": "Volunteer",
+"href": "https://act.peggyflanagan.com/survey/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://peggyflanagan.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/peggyflanagan.bsky.social"
+},
+{
+"text": "info@peggyflanagan.com",
+"href": "mailto:info@peggyflanagan.com"
+},
+{
+"text": "making a contribution",
+"href": "https://secure.actblue.com/donate/pf-web"
+},
+{
+"text": "press@peggyflanagan.com",
+"href": "mailto:press@peggyflanagan.com"
+},
+{
+"text": "signing up to volunteer today",
+"href": "https://peggyflanagan.com/volunteer/"
+}
 ]

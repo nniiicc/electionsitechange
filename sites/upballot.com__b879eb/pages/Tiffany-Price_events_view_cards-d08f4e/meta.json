@@ -1,7 +1,9 @@
 {
- "description": "See Tiffany\u2019s upcoming campaign events happening near you.",
+ "description": "See Tiffany’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/Tiffany-Price/events?view=cards",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "edf447b4d584c47daae19525a1f7325f71e19d87",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Upcoming Tiffany Price Events",
  "years_mentioned": []
 }

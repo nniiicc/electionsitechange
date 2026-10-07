@@ -1,10 +1,34 @@
 [
-"https://facebook.com/share/1BqZZvQni6?mibextid=wwXIfr",
-"https://instagram.com/justiceclarissasilva",
-"https://reelectjusticeclarissasilva.com/",
-"https://reelectjusticeclarissasilva.com/blog/meetclarissa",
-"https://reelectjusticeclarissasilva.com/experience",
-"https://reelectjusticeclarissasilva.com/news",
-"https://reelectjusticeclarissasilva.com/volunteer",
-"https://secure.winred.com/clarissa-silva-campaign-fund/donate-today"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/clarissa-silva-campaign-fund/donate-today"
+},
+{
+"text": "Home",
+"href": "https://reelectjusticeclarissasilva.com/"
+},
+{
+"text": "Join Team Silva",
+"href": "https://reelectjusticeclarissasilva.com/volunteer/"
+},
+{
+"text": "Judicial Experience",
+"href": "https://reelectjusticeclarissasilva.com/experience/"
+},
+{
+"text": "Meet Clarissa",
+"href": "https://reelectjusticeclarissasilva.com/blog/meetclarissa/"
+},
+{
+"text": "News",
+"href": "https://reelectjusticeclarissasilva.com/news/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1BqZZvQni6/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/justiceclarissasilva"
+}
 ]

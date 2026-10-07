@@ -1,14 +1,54 @@
 [
-"https://facebook.com/jacksonfornc45",
-"https://francesjackson.com/",
-"https://francesjackson.com/donate",
-"https://francesjackson.com/join-the-campaign",
-"https://francesjackson.com/meet-frances",
-"https://francesjackson.com/priorities",
-"https://francesjackson.com/wp-content/uploads/2022/06/francesjackson-pic0.jpeg",
-"https://francesjackson.com/wp-content/uploads/2026/02/Frances-Door-Knocking.jpg",
-"https://francesjackson.com/wp-content/uploads/2026/02/Frances-Jackson-Podium.jpg",
-"https://francesjackson.com/wp-content/uploads/2026/02/Frances-Jackson-working-late.jpg",
-"https://francesjackson.com/wp-content/uploads/2026/02/frances-jackson-education.jpg",
-"https://twitter.com/jacksonfornc45"
+{
+"text": "Donate",
+"href": "https://francesjackson.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/jacksonfornc45"
+},
+{
+"text": "Home",
+"href": "https://francesjackson.com"
+},
+{
+"text": "Join",
+"href": "https://francesjackson.com/join-the-campaign/"
+},
+{
+"text": "Meet Frances",
+"href": "https://francesjackson.com/meet-frances/"
+},
+{
+"text": "Priorities",
+"href": "https://francesjackson.com/priorities/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/jacksonfornc45"
+},
+{
+"text": "[image: Frances Jackson Logo]",
+"href": "https://francesjackson.com"
+},
+{
+"text": "[no text]",
+"href": "https://francesjackson.com/wp-content/uploads/2022/06/francesjackson-pic0.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://francesjackson.com/wp-content/uploads/2026/02/Frances-Door-Knocking.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://francesjackson.com/wp-content/uploads/2026/02/Frances-Jackson-Podium.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://francesjackson.com/wp-content/uploads/2026/02/Frances-Jackson-working-late.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://francesjackson.com/wp-content/uploads/2026/02/frances-jackson-education.jpg"
+}
 ]

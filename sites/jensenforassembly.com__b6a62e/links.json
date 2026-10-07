@@ -1,10 +1,38 @@
 [
-"https://facebook.com/JoshJensen134",
-"https://jensenforassembly.com/",
-"https://jensenforassembly.com/about-josh",
-"https://jensenforassembly.com/contact",
-"https://jensenforassembly.com/issues",
-"https://jensenforassembly.com/volunteer",
-"https://secure.winred.com/jensenfornewyork",
-"https://twitter.com/JoshJensen134"
+{
+"text": "Contact",
+"href": "https://www.jensenforassembly.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/jensenfornewyork"
+},
+{
+"text": "Home",
+"href": "https://www.jensenforassembly.com"
+},
+{
+"text": "Issues",
+"href": "https://www.jensenforassembly.com/issues"
+},
+{
+"text": "Meet Josh",
+"href": "https://www.jensenforassembly.com/about-josh"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jensenforassembly.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JoshJensen134/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/JoshJensen134"
+},
+{
+"text": "jensenfornewyork@gmail.com",
+"href": "mailto:jensenfornewyork@gmail.com"
+}
 ]

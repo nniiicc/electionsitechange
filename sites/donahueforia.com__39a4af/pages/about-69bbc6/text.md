@@ -1,18 +1,10 @@
-Hi, I'm Molly Donahue
-I'm proud to live and work in the community that I serve.
+top of page IOWA STATE SENATOR HOME ISSUES ABOUT MOLLY DONATE CONTACT More Use tab to navigate through the menu items.
+Hi, I'm Molly Donahue I'm proud to live and work in the community that I serve.
 Being invested in the well-being and success of your neighbors is the foundation of effective leadership.
-My Background
-I was born and raised in the heart of our community, just a few blocks from where I live today.
-I attended local public schools and have dedicated over 33 years to teaching in Iowa’s public schools.
-In addition to my teaching career, I’ve had the privilege of serving as a State Representative for Marion, Bertram, Ely, parts of Cedar Rapids, and Mount Vernon.
+My Background I was born and raised in the heart of our community, just a few blocks from where I live today.
+I attended local public schools and have dedicated over 33 years to teaching in Iowa’s public schools. ​ In addition to my teaching career, I’ve had the privilege of serving as a State Representative for Marion, Bertram, Ely, parts of Cedar Rapids, and Mount Vernon.
 I am now honored to represent our community as a State Senator.
-My Family
-My parents were small business owners who taught me the value of hard work and community service through their volunteerism.
-I started working at a young age, and have continued working multiple jobs ever since.
+My Family My parents were small business owners who taught me the value of hard work and community service through their volunteerism. ​ I started working at a young age, and have continued working multiple jobs ever since.
 Doing so put me through college and my graduate school programs, and has afforded me to purchase my own home and make my own way in this life.
 I am grateful for the guidance I had from my parents growing up and the loving support that they gave me —even the struggles, because it’s made me who I am today.
-A Mission to Empower Every Voice
-My experience in state government allows me to make informed decisions and advocate for policies that benefit communities across Iowa.
-I am committed to empowering every voice—ensuring that every Iowan, from our rural towns to our urban centers, is represented and heard.
-“As your State Senator, I am proud to continue serving as your voice in the Iowa Legislature and working hard to address the issues that matter most to our community.”
-- Molly Donahue
+A Mission to Empower Every Voice My experience in state government allows me to make informed decisions and advocate for policies that benefit communities across Iowa. ​ I am committed to empowering every voice—ensuring that every Iowan, from our rural towns to our urban centers, is represented and heard. ​ “As your State Senator, I am proud to continue serving as your voice in the Iowa Legislature and working hard to address the issues that matter most to our community.” ​ - Molly Donahue Follow Molly on Facebook to stay informed about legislative updates, community events, and the work being done for Iowans Connect on Facebook Molly Donahue Representing Iowa with Integrity and Action © #-# Donahue for Iowa Heading 1 bottom of page

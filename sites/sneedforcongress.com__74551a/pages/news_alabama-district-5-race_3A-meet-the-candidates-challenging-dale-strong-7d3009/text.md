@@ -1,8 +1,11 @@
-It’s an election year in North Alabama and voters across the 5th Congressional District will choose their congressional representative when they go to the polls in November.
+top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Merch More Use tab to navigate through the menu items.
+DONATE < Back Alabama District 5 race: Meet the candidates challenging Dale Strong It’s an election year in North Alabama and voters across the 5th Congressional District will choose their congressional representative when they go to the polls in November.
+AL.com Megan Plotka Mar 15, 2026 Previous Next It’s an election year in North Alabama and voters across the 5th Congressional District will choose their congressional representative when they go to the polls in November.
 But first, three Democrats must face off in a primary to see who will go against incumbent republican Rep.
-Dale Strong in the general election on Nov. 3.
+Dale Strong in the general election on Nov.
+3.
 Strong is running unopposed in the Republican Primary.
-Three Democrats qualified to run in their primary on May 19: Jeremy Devito, Candice Duvieilh and Andrew Sneed.
+Three Democrats qualified to run in their primary on May 19: Jeremy Devito , Candice Duvieilh and Andrew Sneed .
 All Democratic candidates and Rep.
 Strong answered the following questionnaire to help inform the voters of their values ahead of the primary.
 What experiences have shaped your qualifications for this role, and what motivated you to seek election (or re-election) to the 5th Congressional District?
@@ -14,7 +17,7 @@ Candice Duvieilh: I am a government accounting expert and a policy analyst with 
 I have analyzed and advised government entities on policy and budget for a large part of my career.
 As a mom and the wife of a disabled veteran, I am stepping up because families like mine deserve representation that works for them.
 The most vulnerable among us are being pushed to the fringes of legislative protection and that ends with me.
-Andrew Sneed: Experience matters, and in my life, I’ve had a diversity of experiences both personally and professionally that make me uniquely qualified to represent this district.
+Andrew Sneed : Experience matters, and in my life, I’ve had a diversity of experiences both personally and professionally that make me uniquely qualified to represent this district.
 I started my career as a working actor in New York City after graduating from Lee High School and then Boston University.
 I eventually decided to return to the South and enter the trades.
 After becoming a master plumber and gasfitter and working for a local business for 7 years, I opened the business I had always believed I could in 2019.
@@ -23,7 +26,7 @@ I know because I’ve lived it.
 I’m a husband, a father of three little girls, and a job creator here, not a career politician.
 I’m able to see what’s broken and, as a whole systems thinker and problem-solver, I’m the right person to go to Washington DC on behalf of my home, this district, and fix it.
 Rep.
-Dale Strong: I have spent my life serving my community as a volunteer firefighter, emergency medic, small business owner, on the Madison County Commission and now representing my community in Congress.
+Dale Strong : I have spent my life serving my community as a volunteer firefighter, emergency medic, small business owner, on the Madison County Commission and now representing my community in Congress.
 I am seeking re-election because I want to continue my efforts to strengthen our national defense, support Redstone Arsenal and reduce the tax burden on Alabama families so we can keep more of the money we make.
 What is the top issue facing 5th Congressional District, and what specific legislation would you support or introduce to address it?
 Jeremy Devito: It’s clear to anyone living in Alabama right now- the top issue facing House District 5—and working families across the country—is affordability.
@@ -54,10 +57,10 @@ Empathy is a two-way street, and if I’m asking someone to hear me out, they de
 In a crawl space, you don’t ask a man his party before you work beside him.
 Meeting people where they are, not where we hope they may someday be, is how trust actually gets built.
 If this district sends me to DC to be their representative, I will actually represent the people of North Alabama and work with those who are serious about getting things done to support this district, regardless of party lines.
-The people of District 5 deserve a representative who goes there to get results, not to dig in on party lines while the rest of the district gets left
-behind.
+The people of District 5 deserve a representative who goes there to get results, not to dig in on party lines while the rest of the district gets left behind.
 Rep.
 Dale Strong: In my time on the Madison County Commission and now in Congress, I have been both in the majority party and in the minority.
 In both instances, I was able to be effective and get things done because I worked with both Republicans and Democrats to make real progress.
 In Congress, I have passed several bills with bipartisan support – such as a bill to stop China from owning land in America, which received over 300 votes from both sides of the aisle.
 On issues such as funding for our national defense and space program, I have always worked to build coalitions of both Republicans and Democrats.
+Previous Next Paid for by Andrew Sneed for Congress info@sneedforcongress.com Alabama's 5th Congressional District Sneed for Congress ©#​ Privacy Policy Built by Graphite Studio bottom of page

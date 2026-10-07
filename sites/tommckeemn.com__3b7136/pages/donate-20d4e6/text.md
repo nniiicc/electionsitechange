@@ -1,10 +1,4 @@
-Signed in as:
-filler@godaddy.com
-Make Checks Payable to:
-Campaign Fund of Tom McKee for House
-6633 Bridle Path
-Corcoran, MN 55340
-Minnesota law limits donations to a $1,000 maximum per individual ($2,000 for a couple)
-For all donations over $200, please include your name, address, employer name (business)/"self employed" if applicable, and employer address.
-Prepared and paid for by
-The Tom McKee for House Committee
+Home About Issues Endorsements Volunteer Events Contact More Home About Issues Endorsements Volunteer Events Contact Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Donate Signed in as: filler@godaddy.com Home About Issues Endorsements Volunteer Events Contact Account My Account Sign out Sign In My Account Donate Donate: Thank you!
+We truly appreciate your support!
+Donate with Card or Apple Pay Other ways to pay: Make Checks Payable to: Campaign Fund of Tom McKee for House 6633 Bridle Path Corcoran, MN 55340 State law requires: Minnesota law limits donations to a $# maximum per individual ($# for a couple) For all donations over $# please include your name, address, employer name (business)/"self employed" if applicable, and employer address.
+About Issues Endorsements Donate Privacy Policy Prepared and paid for by The Tom McKee for House Committee 6633 Bridle Path, Corcoran, MN 55340 Gallery

@@ -1,20 +1,82 @@
 [
-"http://elections.il.gov/",
-"http://facebook.com/Demiforillinois",
-"http://tiktok.com/@demiforillinois",
-"https://bsky.app/profile/demiforillinois.bsky.social",
-"https://demiforillinois.com/",
-"https://demiforillinois.com/about-demi",
-"https://demiforillinois.com/district13",
-"https://demiforillinois.com/endorsements",
-"https://demiforillinois.com/events",
-"https://demiforillinois.com/issues",
-"https://forms.gle/g7WQuFxC8ssafZfm6",
-"https://forms.gle/vF9oaKFSCoxrZqs99",
-"https://instagram.com/demiforillinois",
-"https://ova.elections.il.gov/",
-"https://ova.elections.il.gov/PollingPlaceLookup.aspx",
-"https://ova.elections.il.gov/registrationlookup.aspx",
-"https://rayguncustom.com/collections/demi-for-illinois",
-"https://secure.actblue.com/donate/demiforillinois"
+{
+"text": "About Demi",
+"href": "https://www.demiforillinois.com/about-demi"
+},
+{
+"text": "Check My Registration",
+"href": "https://ova.elections.il.gov/registrationlookup.aspx"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/demiforillinois"
+},
+{
+"text": "Endorsements",
+"href": "https://www.demiforillinois.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.demiforillinois.com/events"
+},
+{
+"text": "Find My Polling Location",
+"href": "https://ova.elections.il.gov/PollingPlaceLookup.aspx"
+},
+{
+"text": "Home",
+"href": "https://www.demiforillinois.com"
+},
+{
+"text": "Issues",
+"href": "https://www.demiforillinois.com/issues"
+},
+{
+"text": "Register To Vote",
+"href": "https://ova.elections.il.gov/"
+},
+{
+"text": "Request A Yard Sign",
+"href": "https://forms.gle/g7WQuFxC8ssafZfm6"
+},
+{
+"text": "Store",
+"href": "https://www.rayguncustom.com/collections/demi-for-illinois"
+},
+{
+"text": "The 13th",
+"href": "https://www.demiforillinois.com/district13"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/vF9oaKFSCoxrZqs99"
+},
+{
+"text": "[image: Bluesky]",
+"href": "https://bsky.app/profile/demiforillinois.bsky.social"
+},
+{
+"text": "[image: Demi Palecek, Democrat for State Representative, 13th District, Demi for Illinois.]",
+"href": "https://www.demiforillinois.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://facebook.com/Demiforillinois"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/demiforillinois"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://tiktok.com/@demiforillinois"
+},
+{
+"text": "[image: Up arrow]",
+"href": "https://www.demiforillinois.com/district13"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov/"
+}
 ]

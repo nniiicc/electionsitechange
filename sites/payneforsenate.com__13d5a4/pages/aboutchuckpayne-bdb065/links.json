@@ -1,14 +1,58 @@
 [
-"http://payneforsenate.com/about",
-"http://payneforsenate.com/contact",
-"https://facebook.com/ChuckPayneforStateSenate",
-"https://payneforsenate.com/",
-"https://payneforsenate.com/aboutchuckpayne",
-"https://payneforsenate.com/cart",
-"https://payneforsenate.com/contact",
-"https://payneforsenate.com/priorities",
-"https://payneforsenate.com/terms-of-service",
-"https://payneforsenate.com/terms-of-service-1",
-"https://secure.anedot.com/chuck-payne-for-state-senate/chuckpayneonatepage",
-"https://twitter.com/chuck_payne"
+{
+"text": "0",
+"href": "https://www.payneforsenate.com/cart"
+},
+{
+"text": "About",
+"href": "http://payneforsenate.com/about"
+},
+{
+"text": "Contact",
+"href": "http://payneforsenate.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://www.payneforsenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/chuck-payne-for-state-senate/chuckpayneonatepage"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/ChuckPayneforStateSenate/"
+},
+{
+"text": "Home",
+"href": "https://www.payneforsenate.com/"
+},
+{
+"text": "Meet Chuck",
+"href": "https://www.payneforsenate.com/aboutchuckpayne"
+},
+{
+"text": "Priorities",
+"href": "https://www.payneforsenate.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.payneforsenate.com/terms-of-service-1"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.payneforsenate.com/terms-of-service"
+},
+{
+"text": "[image: Chuck Payne For Congress]",
+"href": "https://www.payneforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/chuck_payne"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ChuckPayneforStateSenate"
+}
 ]

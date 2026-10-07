@@ -1,14 +1,5 @@
-top of page
-Stephanie M.
-Vargas
-for Congress
-June 2, 2026
-Make a Donation
-If you believe in this mission and feel called to stand with us, I invite you to contribute in whatever way you’re able.
-Every donation—no matter the amount—is deeply appreciated and helps move this work forward.
-Symbolic Donation: $6.12
-Consider donating a symbolic gift in the amount of $6.12 as a reminder of Ephesians 6:12, which tells us that we do not wrestle against flesh and blood, but that the true battle is spiritual.
-A Call for Prayer:
-Along with a gift in this amount, I ask that you commit to pray for me and for the campaign, that the Lord would move and do far more than we can ask or imagine.
-"Fighting to Secure a Future Worthy of the Next Generation"
-bottom of page
+top of page Stephanie M.
+Vargas for Congress June 2, 2026 Home Endorsements Platform Meet Stephanie Donate Get Involved Simple Politics Election Integrity Parental Rights High Gas Prices Ephesians 6:10-20 News Blog More Use tab to navigate through the menu items.
+DONATE Click Here to Register to Vote Click Here to Report Voter Fraud Make a Donation If you believe in this mission and feel called to stand with us, I invite you to contribute in whatever way you’re able.​​​​​​​​​ Donate Every donation—no matter the amount—is deeply appreciated and helps move this work forward. ​ ​ ​​​​​​​ Symbolic Donation: $# Consider donating a symbolic gift in the amount of $6.12 as a reminder of Ephesians 6:12, which tells us that we do not wrestle against flesh and blood, but that the true battle is spiritual. ​ ​ ​ ​ ​ ​ ​ ​ ​ A Call for Prayer: Along with a gift in this amount, I ask that you commit to pray for me and for the campaign, that the Lord would move and do far more than we can ask or imagine. ​ ​ ​ ​ ​​​​​ ​ ​ Read Ephesians 6: 10-20 "Fighting to Secure a Future Worthy of the Next Generation" Home Endorsements Platform Meet Stephanie Donate Get Involved Simple Politics Election Integrity Parental Rights High Gas Prices Ephesians 6:10-20 News Blog More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Paid for by Friends of Stephanie Vargas Terms & Conditions Privacy Policy Accessibility Statement © # by Stephanie M.
+Vargas, Powered and secured by Wix bottom of page

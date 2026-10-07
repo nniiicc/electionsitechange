@@ -1,5 +1,4 @@
-Every Death In The Iran War Is A Slaughter
-It’s true that war has been mankind’s calling card since time immemorial.
+Skip to content Every Death In The Iran War Is A Slaughter It’s true that war has been mankind’s calling card since time immemorial.
 And the US has been at war for 208 of its 249 years of independence.
 This does not make our war in Iran any less illegal or immoral.
 It is both.
@@ -18,4 +17,6 @@ No nation has survived perpetual war, and America is not going to be the first.
 We deserve better than this.
 We deserve better than perpetual war.
 But we are not going to get better government until we demand it on Election Day.
-Thank you for reading,
+Thank you for reading, Get on board today.
+It’s time to make a difference.
+Home Facebook Comments Box Gaylon Kent For Congress , Proudly powered by WordPress.

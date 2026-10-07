@@ -1,25 +1,110 @@
 [
-"http://tiktok.com/@jamieagernc",
-"https://agerforcongress.com/",
-"https://agerforcongress.com/about",
-"https://agerforcongress.com/media",
-"https://agerforcongress.com/news",
-"https://agerforcongress.com/platform",
-"https://agerforcongress.com/press",
-"https://agerforcongress.com/privacy",
-"https://agerforcongress.com/volunteer",
-"https://agerforcongress.com/vote",
-"https://bsky.app/intent/compose?text=https%3A%2F%2Fagerforcongress.com%2Frelease%2Fpete-buttigieg-endorses-jamie-ager",
-"https://bsky.app/profile/jamie.agerforcongress.com",
-"https://facebook.com/JamieAgerNC",
-"https://facebook.com/JamieAgerNC/events",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fagerforcongress.com%2Frelease%2Fpete-buttigieg-endorses-jamie-ager",
-"https://instagram.com/jamieagernc",
-"https://secure.actblue.com/donate/agerwebsite",
-"https://store.agerforcongress.com/",
-"https://threads.com/@jamieagernc",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fagerforcongress.com%2Frelease%2Fpete-buttigieg-endorses-jamie-ager&text=Pete+Buttigieg+Endorses+Jamie+Ager",
-"https://x.com/jamieagernc",
-"https://xpslane.com/",
-"https://youtube.com/@AgerForCongress"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/agerwebsite"
+},
+{
+"text": "Events",
+"href": "https://www.facebook.com/JamieAgerNC/events"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Home",
+"href": "https://agerforcongress.com/"
+},
+{
+"text": "Media",
+"href": "https://agerforcongress.com/media"
+},
+{
+"text": "Meet Jamie",
+"href": "https://agerforcongress.com/about"
+},
+{
+"text": "News",
+"href": "https://agerforcongress.com/news"
+},
+{
+"text": "Platform",
+"href": "https://agerforcongress.com/platform"
+},
+{
+"text": "Press Releases",
+"href": "https://agerforcongress.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://agerforcongress.com/privacy"
+},
+{
+"text": "Return to all press",
+"href": "https://agerforcongress.com/press"
+},
+{
+"text": "Share on Bluesky",
+"href": "https://bsky.app/intent/compose?text=https%3A%2F%2Fagerforcongress.com%2Frelease%2Fpete-buttigieg-endorses-jamie-ager"
+},
+{
+"text": "Share on Email",
+"href": "mailto:?subject=Pete+Buttigieg+Endorses+Jamie+Ager&body=https%3A%2F%2Fagerforcongress.com%2Frelease%2Fpete-buttigieg-endorses-jamie-ager"
+},
+{
+"text": "Share on Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fagerforcongress.com%2Frelease%2Fpete-buttigieg-endorses-jamie-ager"
+},
+{
+"text": "Share on X (Twitter)",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fagerforcongress.com%2Frelease%2Fpete-buttigieg-endorses-jamie-ager&text=Pete+Buttigieg+Endorses+Jamie+Ager"
+},
+{
+"text": "Store",
+"href": "https://store.agerforcongress.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://agerforcongress.com/volunteer"
+},
+{
+"text": "Voter Info",
+"href": "https://agerforcongress.com/vote"
+},
+{
+"text": "[image: Ager for Congress]",
+"href": "https://agerforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "http://tiktok.com/@jamieagernc"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jamie.agerforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JamieAgerNC/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jamieagernc"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@jamieagernc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AgerForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/jamieagernc"
+},
+{
+"text": "team@agerforcongress.com",
+"href": "mailto:team@agerforcongress.com"
+}
 ]

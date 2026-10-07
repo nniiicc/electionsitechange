@@ -1,4 +1,7 @@
-As someone born and raised in Oneonta, I was honored to be elected to the Oneonta City Council.
+0 Skip to Content MEET MICHELE ISSUES POLICY STATEMENTS PRESS ENDORSEMENTS EVENTS BACKROADS BOOK CLUB JOIN US Volunteer Register to Vote Get Your Yard Sign!
+Donate Open Menu Close Menu MEET MICHELE ISSUES POLICY STATEMENTS PRESS ENDORSEMENTS EVENTS BACKROADS BOOK CLUB JOIN US Volunteer Register to Vote Get Your Yard Sign!
+Donate Open Menu Close Menu MEET MICHELE ISSUES POLICY STATEMENTS PRESS ENDORSEMENTS EVENTS BACKROADS BOOK CLUB Folder: JOIN US Back Volunteer Register to Vote Get Your Yard Sign!
+Donate As someone born and raised in Oneonta, I was honored to be elected to the Oneonta City Council.
 I worked with my colleagues to improve our city, advocating for summer childhood programming to help working families, building a community dog park to bring people together, improving energy efficiency for the city to save taxpayer money, making our parks family-friendly smoke free zones, and more.
 I was hooked on being a public servant and solving complex problems to improve the lives of my neighbors.
 But when the pandemic hit, my family needed me - particularly my oldest son who has autism.
@@ -15,5 +18,4 @@ Families deserve support to provide dignity and a hopeful future for their kids 
 As a former crisis intervention worker and professor of criminal justice, I understand that diversifying our response to crisis changes lives and makes our communities safer.
 When we respond to crises with the appropriate professional - from mental health to elder care specialists - we free up our law enforcement professionals to focus on community safety.
 Now, I want to take this experience and bring positive change to the communities of the 51st District.
-Together, we can make rural New York a place where everyone looking to plant roots, grow their families and flourish in their communities can thrive.
--Michele Frazier
+Together, we can make rural New York a place where everyone looking to plant roots, grow their families and flourish in their communities can thrive. -Michele Frazier info@michelefrazier.com Paid for by Michele Frazier for 51 JOIN US

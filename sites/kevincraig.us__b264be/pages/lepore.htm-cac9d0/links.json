@@ -1,8 +1,38 @@
 [
-"http://kevincraig.us/",
-"http://kevincraig.us/contents.htm",
-"http://newyorker.com/",
-"http://newyorker.com/arts/critics/atlarge/2008/04/14/080414crat_atlarge_lepore",
-"http://newyorker.com/search/query?query=authorName%3A%22Jill+Lepore%22",
-"http://newyorker.com/subscriberedirect"
+{
+"text": "Domestic",
+"href": "http://kevincraig.us/contents.htm#Domestic"
+},
+{
+"text": "Foreign",
+"href": "http://kevincraig.us/contents.htm#Foreign"
+},
+{
+"text": "Government",
+"href": "http://kevincraig.us/contents.htm#Government"
+},
+{
+"text": "Jill Lepore",
+"href": "http://www.newyorker.com/search/query?query=authorName%3A%22Jill+Lepore%22"
+},
+{
+"text": "Morality and Culture",
+"href": "http://kevincraig.us/contents.htm#Culture"
+},
+{
+"text": "Read Lepore's Article",
+"href": "http://www.newyorker.com/arts/critics/atlarge/2008/04/14/080414crat_atlarge_lepore"
+},
+{
+"text": "Subscribe to The New Yorker",
+"href": "http://www.newyorker.com/subscriberedirect"
+},
+{
+"text": "[image: The New Yorker]",
+"href": "http://www.newyorker.com/"
+},
+{
+"text": "[no text]",
+"href": "http://kevincraig.us"
+}
 ]

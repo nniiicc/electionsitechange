@@ -1,4 +1,4 @@
-Who is Brad Christ?
+Skip to content Meet Brad Experience Commitments Endorsements News Get Involved Volunteer Join the Team Endorse Brad Emissions Petition Senior Property Tax Survey Fighting Electric Rate Increases Media FAQ Connect Meet Brad Experience Commitments Endorsements News Get Involved Volunteer Join the Team Endorse Brad Emissions Petition Senior Property Tax Survey Fighting Electric Rate Increases Media FAQ Connect Donate FREQUENTLY ASKED QUESTIONS Who is Brad Christ?
 Brad Christ is a St.
 Louis native, family man, and results-driven conservative state representative fighting for working families in suburban St.
 Louis.
@@ -100,20 +100,20 @@ This protects injured workers while preventing the system from being exploited i
 What this means for your family: Honest workers get fair treatment faster, and businesses are protected from fraudulent claims that drive up costs for everyone.
 What is Brad's position on education?
 Brad Christ supports quality public schools, expanded educational choice, and the largest education budget in Missouri history.
-Brad voted for the largest education budgets in Missouri history, delivering record funding for public schools while expanding educational opportunities for Missouri families.
+Brad voted for the largest education budgets in Missouri history , delivering record funding for public schools while expanding educational opportunities for Missouri families.
 Since FY2020, total foundation formula funding has increased from $3.34 billion to $4.27 billion — a 27.7% increase.
-Today, 31% of Missouri’s General Revenue goes toward funding public schools, six percentage points above the 25% required by the Missouri Constitution demonstrating the state’s substantial commitment to K–12 education.
+Today, 31% of Missouri’s General Revenue goes toward funding public schools , six percentage points above the 25% required by the Missouri Constitution demonstrating the state’s substantial commitment to K–12 education.
 Those investments are making a difference right here at home.
-State revenue going to Lindbergh Schools has increased 86%, from approximately $10.4 million in FY2022 to $19.5 million in FY2026.
+State revenue going to Lindbergh Schools has increased 86% , from approximately $10.4 million in FY2022 to $19.5 million in FY2026.
 After increasing to $11.17 million in FY2023 and $11.62 million in FY2024, funding jumped to $16.35 million in FY2025 and $19.47 million in FY2026.
 Missouri has also increased its commitment to school transportation.
-Transportation funding was approximately $93.2 million in FY2020, $93.9 million in FY2021 and $113.9 million in FY2022, with additional increases in subsequent budgets.
+Transportation funding was approximately $93.2 million in FY2020 , $93.9 million in FY2021 and $113.9 million in FY2022, with additional increases in subsequent budgets.
 Brad believes strong public schools and greater educational choice can go hand in hand.
 Every child deserves access to a quality education, and every family should have options to find the school that best meets their child’s needs.
 What this means for your family: District 96 families gain more educational options and better-funded schools without sacrificing quality or choice.
 What has Brad done to fight higher electric rates?
 Brad formally opposed Ameren’s proposed 10% rate increase and voted for new protections designed to limit how quickly electric rates can rise.
-Ameren’s proposal would add about $13 a month, or $156 a year, to the average residential bill, following a 12% increase in 2025.
+Ameren’s proposal would add about $13 a month, or $156 a year , to the average residential bill, following a 12% increase in 2025.
 Brad filed his opposition with the Public Service Commission and voted for SB 4, which lowered the statutory rate-growth cap to 2.25% annually and strengthened other consumer protections.
 What this means for your family: Brad is working to protect household budgets from higher electric rates and make sure families aren’t stuck paying costs created by massive new power users.
 Does Brad support parental rights in education?
@@ -154,12 +154,12 @@ Brad opposes new large data centers until strong protections are in place to pro
 Brad supports a pause on new large data centers until St.
 Louis County establishes clear rules.
 He also believes data centers—not homeowners—should pay the costs of the power plants, transmission lines, substations, and infrastructure needed to serve them.
-What this means for your family: Big Tech shouldn’t be allowed to drive up your electric bill or force communities to pay for infrastructure built to serve them.
+What this means for your family: Big Tech shouldn’t be allowed to drive up your electric bill or force communities to pay for infrastructure built to serve them .
 What has Brad done to reform property taxes?
 Brad has pushed for major property tax reforms to protect homeowners and seniors from unfair assessments and unexpected tax increases.
 When property tax reform stalled in the final days of the 2026 session, Brad called for a special session to finish the job.
 His priorities include ending annual reapplication for the senior property tax freeze, requiring physical inspections before assessments can jump more than 15%, putting the burden of proof on assessors when valuations are challenged, and requiring ballots to clearly show the real dollar cost of proposed tax increases.
-What this means for your family: More protection against sudden property tax increases, a fairer assessment process, and greater transparency before your taxes can go up.
+What this means for your family: More protection against sudden property tax increases, a fairer assessment process, and greater transparency before your taxes can go up .
 Is Brad Christ pro-life?
 Yes.
 Brad Christ is pro-life and believes in protecting the lives of both the born and the unborn.
@@ -184,3 +184,4 @@ Brad Christ welcomes contact from constituents and supporters throughout Distric
 Voters can reach the campaign by phone at 314-390-6914 or by email at brad@bradchristformo.com.
 Visit BradChristForMO.com to learn more, sign up to volunteer, or make a contribution to support the campaign.
 What this means for your family: Brad’s door is always open — he works for the people of District 96, and he wants to hear from you.
+Brad Christ For Missouri 314-390-6914 | brad@bradchristformo.com www.bradchristformo.com Privacy Policy Facebook Twitter Instagram Paid for by Brad Christ for Missouri, Dave Sinclair, Treasurer

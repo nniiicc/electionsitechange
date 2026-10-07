@@ -1,10 +1,2 @@
-What I Stand For
-Focused on everyday priorities
-Why I'm Running
-Issues
-The keys to change plan
-Get Involved
-Help build the movement
-Register
-Register to Join the Campaign
-Events
+Ke'Andra Foggie For Georgia - District 17 Home Meet Ke'Andra Issues Events Merch Get Involved Register Contact Donate Donate Volunteer Join the Campaign What I Stand For Focused on everyday priorities Meet the Candidate Meet Ke'Andra More about the campaign Why I'm Running Issues The keys to change plan Get Involved Help build the movement Campaign Merchandise Wear the Keys to Change Make a $25 Contribution Request a T-shirt Register Register to Join the Campaign Events Upcoming community events Ke'Andra Foggie For Georgia - District 17 Proudly endorsed by Quick Links Meet Issues Events Merch Volunteer Register Contact Join the Movement Together, we hold the keys to stronger communities.
+Donate Today Scan to donate through ActBlue.

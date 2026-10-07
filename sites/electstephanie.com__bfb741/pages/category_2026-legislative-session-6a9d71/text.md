@@ -1,5 +1,11 @@
-That's it -- after 45 days and 1,016 bills, the 2026 legislative session has adjourned sine die.
-It was a whirlwind [...]
-Read more
-We just wrapped week 5 of the 2026 legislative session.
-With just two weeks left of session, we are spending […]
+Vote June 23, 2026 MEET STEPHANIE PRIORITIES SD-14 GET INVOLVED!
+DONATE Currently browsing: 2026 Legislative Session March 13, 2026 Stephanie Pitcher 2026 Legislative Session Reporting Back: The Final Week of Session 🏁 That's it -- after 45 days and 1,016 bills, the 2026 legislative session has adjourned sine die.
+It was a whirlwind [...] Read more February 23, 2026 Stephanie Pitcher 2026 Legislative Session Week 5 Recap: Everything Water 💧 We just wrapped week 5 of the 2026 legislative session.
+With just two weeks left of session, we are spending […] Read more February 18, 2026 Stephanie Pitcher 2026 Legislative Session Legislative Week 4 Recap + Looking Ahead ⛰️ Happy Wednesday, and happy snow day! ❄️ After a long weekend, I'm back at the Capitol to continue my work representing [...] Read more February 13, 2026 Stephanie Pitcher 2026 Legislative Session A Valentine’s Message 💘 I wanted to take a moment to thank you for your engagement and advocacy during the legislative session.
+Together, we’re taking a stand against bad bills that would undermine the courts, hurt vulnerable Utahns, and promote special interests above the needs of Utah families.
+I am so proud to be a part of this community.
+Read more February 9, 2026 Stephanie Pitcher 2026 Legislative Session Legislative Updates: Week 3 🏛️ Week 3 of the legislative session is in the books.
+Big conversations this past week include education policy, concealed carry legislation, access [...] Read more February 2, 2026 Stephanie Pitcher 2026 Legislative Session Reporting Back from the Capitol: Week 2 🗞️ We've wrapped up week two of the 2026 Legislative Session.
+Standing committees and appropriations subcommittees are now meeting regularly to review bills and budget requests. [...] Read more January 27, 2026 Stephanie Pitcher 2026 Legislative Session Legislative Session Updates: Week 1 🌟 We have officially kicked off the 2026 Legislative Session!
+I am excited to share what I've been working on since last session and [...] Read more January 16, 2026 Stephanie Pitcher 2026 Legislative Session For the Love of Utah: Our 2026 Legislative Priorities As we begin the 2026 General Session, Utah Senate Democrats are guided by a simple principle: our love for Utah and [...] Read more Copyright © # Committee to Elect Stephanie Pitcher.
+All Rights Reserved.

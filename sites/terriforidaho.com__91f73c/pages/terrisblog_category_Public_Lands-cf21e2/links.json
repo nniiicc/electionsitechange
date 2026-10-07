@@ -1,50 +1,230 @@
 [
-"https://facebook.com/TerriForIdaho",
-"https://instagram.com/terriforidaho",
-"https://secure.actblue.com/donate/terriforidaho-website",
-"https://store.terriforidaho.com/",
-"https://terriforidaho.com/",
-"https://terriforidaho.com/about",
-"https://terriforidaho.com/cart",
-"https://terriforidaho.com/contact",
-"https://terriforidaho.com/endorsements",
-"https://terriforidaho.com/events",
-"https://terriforidaho.com/get-involved",
-"https://terriforidaho.com/issues",
-"https://terriforidaho.com/learn-more",
-"https://terriforidaho.com/media",
-"https://terriforidaho.com/terrisblog",
-"https://terriforidaho.com/terrisblog/brad-littles-people-fight-the-bad-fight",
-"https://terriforidaho.com/terrisblog/campaign-launch",
-"https://terriforidaho.com/terrisblog/category/2022+Election+News",
-"https://terriforidaho.com/terrisblog/category/2024+Election",
-"https://terriforidaho.com/terrisblog/category/2026+Election+News",
-"https://terriforidaho.com/terrisblog/category/COVID+19",
-"https://terriforidaho.com/terrisblog/category/Civil+%26amp%3B+Human+Rights",
-"https://terriforidaho.com/terrisblog/category/Criminal+Justice",
-"https://terriforidaho.com/terrisblog/category/Extremism",
-"https://terriforidaho.com/terrisblog/category/First+Responders",
-"https://terriforidaho.com/terrisblog/category/Health+Care",
-"https://terriforidaho.com/terrisblog/category/Idaho+Families",
-"https://terriforidaho.com/terrisblog/category/Idaho+Legislature",
-"https://terriforidaho.com/terrisblog/category/Jobs+%2F+Economic+Growth",
-"https://terriforidaho.com/terrisblog/category/Labor",
-"https://terriforidaho.com/terrisblog/category/Property+Taxes",
-"https://terriforidaho.com/terrisblog/category/Public+Education",
-"https://terriforidaho.com/terrisblog/category/Public+Infrastructure",
-"https://terriforidaho.com/terrisblog/category/Public+Lands",
-"https://terriforidaho.com/terrisblog/category/Redistricting+%26amp%3B+Ge...",
-"https://terriforidaho.com/terrisblog/category/Reproductive+Rights",
-"https://terriforidaho.com/terrisblog/goodbye-idaho-wild-places",
-"https://terriforidaho.com/terrisblog/i-am-the-only-candidate-who-will-fight-for-you",
-"https://terriforidaho.com/terrisblog/new-idaho-value-leave-it-worse-than-you-found-it",
-"https://terriforidaho.com/terrisblog/north-central-idaho-why-are-politicians-making-life-harder",
-"https://terriforidaho.com/terrisblog/the-speakers-scam-to-steal-public-land",
-"https://terriforidaho.com/terrisblog/tomorrow-needs-you-today",
-"https://terriforidaho.com/volunteer-sign-up",
-"https://terriforidaho.com/voting",
-"https://terriforidaho.com/yard-signs",
-"https://threads.com/@terriforidaho",
-"https://tiktok.com/terriforidaho",
-"https://youtube.com/@terriforidaho"
+{
+"text": "0",
+"href": "https://www.terriforidaho.com/cart"
+},
+{
+"text": "2022 Election News",
+"href": "https://www.terriforidaho.com/terrisblog/category/2022+Election+News"
+},
+{
+"text": "2024 Election",
+"href": "https://www.terriforidaho.com/terrisblog/category/2024+Election"
+},
+{
+"text": "2026 Election News",
+"href": "https://www.terriforidaho.com/terrisblog/category/2026+Election+News"
+},
+{
+"text": "About Terri",
+"href": "https://www.terriforidaho.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.terriforidaho.com/"
+},
+{
+"text": "Brad Little's People Fight the Bad Fight",
+"href": "https://www.terriforidaho.com/terrisblog/brad-littles-people-fight-the-bad-fight"
+},
+{
+"text": "COVID 19",
+"href": "https://www.terriforidaho.com/terrisblog/category/COVID+19"
+},
+{
+"text": "Civil & Human Rights",
+"href": "https://www.terriforidaho.com/terrisblog/category/Civil+%26amp%3B+Human+Rights"
+},
+{
+"text": "Contact Us",
+"href": "https://www.terriforidaho.com/contact"
+},
+{
+"text": "Criminal Justice",
+"href": "https://www.terriforidaho.com/terrisblog/category/Criminal+Justice"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/terriforidaho-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.terriforidaho.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.terriforidaho.com/events"
+},
+{
+"text": "Extremism",
+"href": "https://www.terriforidaho.com/terrisblog/category/Extremism"
+},
+{
+"text": "First Responders",
+"href": "https://www.terriforidaho.com/terrisblog/category/First+Responders"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.terriforidaho.com/get-involved"
+},
+{
+"text": "Folder: Learn More",
+"href": "https://www.terriforidaho.com/learn-more"
+},
+{
+"text": "Goodbye Idaho Wild Places",
+"href": "https://www.terriforidaho.com/terrisblog/goodbye-idaho-wild-places"
+},
+{
+"text": "Health Care",
+"href": "https://www.terriforidaho.com/terrisblog/category/Health+Care"
+},
+{
+"text": "I am the only candidate who will fight for you",
+"href": "https://www.terriforidaho.com/terrisblog/i-am-the-only-candidate-who-will-fight-for-you"
+},
+{
+"text": "Idaho Families",
+"href": "https://www.terriforidaho.com/terrisblog/category/Idaho+Families"
+},
+{
+"text": "Idaho Legislature",
+"href": "https://www.terriforidaho.com/terrisblog/category/Idaho+Legislature"
+},
+{
+"text": "Issues",
+"href": "https://www.terriforidaho.com/issues"
+},
+{
+"text": "Jobs / Economic Growth",
+"href": "https://www.terriforidaho.com/terrisblog/category/Jobs+%2F+Economic+Growth"
+},
+{
+"text": "Labor",
+"href": "https://www.terriforidaho.com/terrisblog/category/Labor"
+},
+{
+"text": "Media",
+"href": "https://www.terriforidaho.com/media"
+},
+{
+"text": "New Idaho Value: Leave It Worse Than You Found It?",
+"href": "https://www.terriforidaho.com/terrisblog/new-idaho-value-leave-it-worse-than-you-found-it"
+},
+{
+"text": "North Central Idaho: Why are politicians making life harder?",
+"href": "https://www.terriforidaho.com/terrisblog/north-central-idaho-why-are-politicians-making-life-harder"
+},
+{
+"text": "Property Taxes",
+"href": "https://www.terriforidaho.com/terrisblog/category/Property+Taxes"
+},
+{
+"text": "Public Education",
+"href": "https://www.terriforidaho.com/terrisblog/category/Public+Education"
+},
+{
+"text": "Public Infrastructure",
+"href": "https://www.terriforidaho.com/terrisblog/category/Public+Infrastructure"
+},
+{
+"text": "Public Lands",
+"href": "https://www.terriforidaho.com/terrisblog/category/Public+Lands"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/brad-littles-people-fight-the-bad-fight"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/campaign-launch"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/goodbye-idaho-wild-places"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/i-am-the-only-candidate-who-will-fight-for-you"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/new-idaho-value-leave-it-worse-than-you-found-it"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/north-central-idaho-why-are-politicians-making-life-harder"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/the-speakers-scam-to-steal-public-land"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/tomorrow-needs-you-today"
+},
+{
+"text": "Redistricting & Ge...",
+"href": "https://www.terriforidaho.com/terrisblog/category/Redistricting+%26amp%3B+Ge..."
+},
+{
+"text": "Reproductive Rights",
+"href": "https://www.terriforidaho.com/terrisblog/category/Reproductive+Rights"
+},
+{
+"text": "Store",
+"href": "https://store.terriforidaho.com/"
+},
+{
+"text": "Terri Pickens Manweiler Lieutenant Governor Candidacy Announcement",
+"href": "https://www.terriforidaho.com/terrisblog/campaign-launch"
+},
+{
+"text": "Terri Pickens for Governor",
+"href": "https://www.terriforidaho.com/"
+},
+{
+"text": "Terri's Blog",
+"href": "https://www.terriforidaho.com/terrisblog"
+},
+{
+"text": "The Speaker's Scam to Steal Public Land",
+"href": "https://www.terriforidaho.com/terrisblog/the-speakers-scam-to-steal-public-land"
+},
+{
+"text": "Tomorrow Needs You Today",
+"href": "https://www.terriforidaho.com/terrisblog/tomorrow-needs-you-today"
+},
+{
+"text": "Volunteer",
+"href": "https://www.terriforidaho.com/volunteer-sign-up"
+},
+{
+"text": "Voting",
+"href": "https://www.terriforidaho.com/voting"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.terriforidaho.com/yard-signs"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/terriforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TerriForIdaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/terriforidaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@terriforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@terriforidaho"
+}
 ]

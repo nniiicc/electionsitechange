@@ -1,9 +1,7 @@
 I served 2 terms on city council in Lago Vista, Texas from 2005 to 2010.
 This is an archive of the issues and actions during my time in office.
-Pat in the News
-Pat has a long history of community involvement and below is a collection of the various articles written about him as well as articles and posts he has written from his time serving on Lago Vista City Council.
-5/7/10
-My last city council meeting.
+Pat in the News Pat has a long history of community involvement and below is a collection of the various articles written about him as well as articles and posts he has written from his time serving on Lago Vista City Council.
+5/7/10 My last city council meeting.
 It began with an executive session.
 I can't tell you what we did, but I can say I won.
 Next we had another public hearing on the transfer of underwater property to adjacent property owners for allowing boat docks.
@@ -34,30 +32,20 @@ There is no guarantee Mr Nunley's firm will get the job.
 We next had an arduous discussion of several motions regarding funding for the Highland Lakes golf course.
 I voted no to approve a bond levying an ad valorem tax to pay for it, but approved all the budget amendments to purchase necessary equipment.
 It sure appears that micro management will be a perpetual condition as long as government runs golf courses.
-This being my final council meeting, when the final item came up to propose items for the next agenda, this is what I presented:
-Agenda Items for the next Lago Vista City Council
-1.
-Solve the Israel - Palestine conflict
-2.
-Area 51: We want to know the truth about alien beings among us
-3.
+This being my final council meeting, when the final item came up to propose items for the next agenda, this is what I presented: Agenda Items for the next Lago Vista City Council 1.
+Solve the Israel - Palestine conflict 2.
+Area 51: We want to know the truth about alien beings among us 3.
 Big Foot: Man, Monster, or Myth?
-While you're at it, look into the Loch Ness monster
-4.
+While you're at it, look into the Loch Ness monster 4.
 Why did the chicken cross the road?
 In a related matter, which came first, chicken or egg?
 5.
 Fermat's theorem: where's the proof?
 6.
 Most importantly, keep Lake Travis at 681 at all times.
-Make it rain when it has to, keep it nice and sunny at all other times
-Faithfully submitted May 6, 2010,
-Pat Dixon
-Former Lago Vista city council, place unknown
-I will be keeping a close eye on the progress of these matters.
+Make it rain when it has to, keep it nice and sunny at all other times Faithfully submitted May 6, 2010, Pat Dixon Former Lago Vista city council, place unknown I will be keeping a close eye on the progress of these matters.
 Best of luck for the new city council!
-4/15/10
-Happy Tax Day!
+4/15/10 Happy Tax Day!
 Of course, that is a non sequitur.
 On our agenda tonight was the setting of a public meeting on May 6 to discuss a bond for purchase of the Highland Lakes golf course.
 This will add to the debt portion of your tax burden.
@@ -68,8 +56,7 @@ I told the people in the room that will be on council after my departure that it
 If you are a Tea Party person, will you be at the public hearing on May 6?
 I cast the lone dissenting vote against a curfew ordinance.
 I had already spoken to this matter at the previous council meeting and there was no purpose in repeating it.
-I was glad that these comments were recorded in the minutes of our meeting:
-We had a discussion of removing the airport from the federal government oversight.
+I was glad that these comments were recorded in the minutes of our meeting: We had a discussion of removing the airport from the federal government oversight.
 Though we could get grants from the federal government, the cost of complying with federal regulations is not worth it.
 I was delighted that Jim Awalt and Mayor Kruger complimented my influence in getting out from under the federal government's overbearing control.
 There was a vote to allocate funding to mow the Highland Lakes golf course.
@@ -80,9 +67,7 @@ The motion passed.
 Lastly, I will mention at the conclusion of the meeting I gave the mayor a copy of the world's smallest political quiz.
 At our last meeting he seemed confused that Libertarians were very conservative, yet sometimes liberal.
 People really need to clearly understand what their choices are.
-The most effective way is to take the world's smallest political quiz, provided by the Advocates for Self Government
-4/1/10
-Tonight we voted to secede from Texas.
+The most effective way is to take the world's smallest political quiz, provided by the Advocates for Self Government 4/1/10 Tonight we voted to secede from Texas.
 I made a motion to approve the agreement with Western United Life Assurance (WULA).
 This was a long drawn out lawsuit resulting from the failed Marshall's Harbor development.
 The city will finally be able to have the infrastructure completed for this development and get it out of our hair.
@@ -108,9 +93,7 @@ I joined in unanimous support.
 We had further discussion of how to dispose of under water property.
 I think we are getting closer to a resolution.
 Stay tuned.
-Lastly, I want to share with you an email I sent to the city manager:
-Bill,
-As you know our ethics ordinance prohibits a sitting council member from actively participating on campaigns of other candidates.
+Lastly, I want to share with you an email I sent to the city manager: Bill, As you know our ethics ordinance prohibits a sitting council member from actively participating on campaigns of other candidates.
 I wanted to disclose some details which I believe are in compliance but feel I need to be forthcoming.
 Some candidates have called me on the phone, sent emails, or met me to ask questions about running for office.
 I do not feel the ordinance prohibits me from giving them my opinion.
@@ -120,8 +103,7 @@ As you know I am the state chair of the Libertarian Party.
 Technically the PAC is an independent organization and neither I nor the Libertarian Party have direct authority over the activity of the PAC.
 That is it for now.
 Welcome to the new independent republic of Lago Vista!
-3/19/10
-A pretty light agenda on last night's council agenda.
+3/19/10 A pretty light agenda on last night's council agenda.
 We had a discussion of plans to celebrate the city's 25 year anniversary.
 Since the city was incorporated in 1984, it seems we are a little late to the party.
 The Chamber of Commerce presented some plans they have in mind.
@@ -150,8 +132,7 @@ Lastly, let me say I am glad the upcoming council election will have some candid
 As voters you deserve a choice.
 That's all for now.
 I am a short timer and looking forward to a retirement, but I will remain feisty to the end!
-3/9/10
-I am behind on my updates, so forgive me.
+3/9/10 I am behind on my updates, so forgive me.
 My workload is the reason I am not seeking another term on council.
 Today I sat through a city budget meeting from 11 AM to 2 PM, which is a very significant economic hit for me during business hours.
 On top of that, some of the arguments used by my esteemed colleagues for spending your tax money made me want to leave earlier.
@@ -178,8 +159,7 @@ By state law we cannot give the property away so we had an appraisal.
 It came to $0.17/square foot.
 This seemed unreasonably high, but the city staff came up with a nice solution to reserve $0.10 of this as a city easement and offer the remaining $0.07 portion to the adjacent property owner.
 I think this is a very nice solution.
-However in the public hearing I heard several things that helped refine the issue:
-If I buy this property, will I have clear title?
+However in the public hearing I heard several things that helped refine the issue: If I buy this property, will I have clear title?
 How do we deal with boat docks in coves or areas where more management is needed to ensure people don't get blocked in?
 Regarding title, I am not an expert in this area.
 The city cannot give deeds to these property owners.
@@ -198,8 +178,7 @@ Everyone was civil and appeared to have done a good job researching the issue an
 I think there are a few issues that need to be worked out, but I think we may not be too far away from a good solution.
 Lastly, we will be having a review of our curfew ordinance coming up.
 I intend to vote no on renewing the ordinance, as I did on 11/4/05.
-2/18/10
-f "socialized medicine" leads to "socialized golf", can "socialized hotels" be far behind?
+2/18/10 f "socialized medicine" leads to "socialized golf", can "socialized hotels" be far behind?
 We started tonight with a vote of confidence for the concept of the memorial to Hollace Bowdan.
 The KLVB folks have done a good job coming up with a plan for the property at the intersection of Boggy Ford and Highlands.
 There is some question about financing, but the majority of the financing is coming from KLVB.
@@ -249,14 +228,12 @@ So, your taxes are being used to support a portion of fund raising for the Catho
 What do you think of that?
 So now that you have "socialized hotels", what do you think is next?
 Whatever it is, my vote is NO.
-2/5/10
-I'll bet you really want me to talk about "socialized golf".
+2/5/10 I'll bet you really want me to talk about "socialized golf".
 I will in a moment.
 First, let's talk about last night's council meeting.
 The agenda was pretty light.
 We approved a proposal setting fees for having the city prepare plats.
-My 2 criteria for approval were:
-(1) That you can still choose to have a private entity prepare the plat.
+My 2 criteria for approval were: (1) That you can still choose to have a private entity prepare the plat.
 This is the current state of affairs and it provides competition for the service.
 We do not want to establish a government monopoly.
 (2) That it not be taxpayer subsidized.
@@ -304,8 +281,7 @@ I think it is sad that in a country established to minimize government that toda
 So, if you criticize Barack Obama and Congress for these bailouts, be consistent.
 You cannot complain about what they do if you support the same actions from city council.
 Don't complain about "socialized medicine" if you support "socialized golf".
-1/22/10
-Last night we resumed city council from a long break.
+1/22/10 Last night we resumed city council from a long break.
 There is big news, but I will keep you in suspense.
 We had a discussion of allowing a lot consolidation at the airport.
 The issue was that we were considering exempting the requirement for the lot owner to pay for installing fire hydrants as our code currently requires.
@@ -317,7 +293,7 @@ We then discussed extension of a permit for building pool, fence, and other item
 As you know I am the least likely person to micro manage what someone does on their private property.
 However, we have the rule of law.
 We have a permitting process and regulations in place.
-This property owner first applied for a permit on the fence about 10 years ago and it isn't done yet.
+This property owner first applied for a permit on the fence about #ago and it isn't done yet.
 We granted the extension to get all the work completed in the next 60 days.
 However, it is the consensus that there will not be further extensions.
 There was a discussion of the city preparing plats for lot consolidation.
@@ -336,17 +312,14 @@ When we emerged, the city bought the Highland Lakes golf course.
 I was the lone dissenting vote.
 More will be said about this and I will defer rendering my full opinion on the matter until a later posting.
 That's it for now.
-12/20/09
-My best wishes for Christmas and the New Year.
+12/20/09 My best wishes for Christmas and the New Year.
 This is a thankfully slow time for city council.
 We had a meeting last Thursday where we approved the Planned Development District (the zoning) for the Hines Group development, granted a permit for a property owner to build a fence on their property, and appointed several people to committees.
 Also we got a demonstration of a new website development that looks like a significant improvement.
 I also need to comment on the great memorial service to Rich Witmer that I was honored to take part in.
 In closing this brief update, you may know that while being a Christian I oppose government getting into the religion business.
 I would not have nativity scenes on church property.
-However I have no problem sharing the sentiments of Linus:
-11/5/09
-I begin with prayers for the victims of the events in Ft Hood.
+However I have no problem sharing the sentiments of Linus: 11/5/09 I begin with prayers for the victims of the events in Ft Hood.
 Tonight our council had a moment of silence to recognize those affected by that tragedy.
 I did not recognize anyone from the LOG in attendance.
 Maybe they have a new reporter that I don't recognize.
@@ -396,10 +369,7 @@ Jim throughout the meeting would interject and just start talking without being 
 When I have my hand raised and am trying to carry on a conversation with staff, I don't appreciate someone in the audience interrupting and talking over me.
 So I shouted out several points of order in order to be recognized, which muted Jim for a while.
 In the end we will have to see if we have any further flexibility to transfer property out of our hands.
-At the close of our meeting, I asked about our community sign policy which I have publicly featured in several controversial articles:
-"Separation of Church and Signs"
-"Separation of Church and Everything Else"
-Many of you have seen the sign and know that it is currently in use.
+At the close of our meeting, I asked about our community sign policy which I have publicly featured in several controversial articles: "Separation of Church and Signs" "Separation of Church and Everything Else" Many of you have seen the sign and know that it is currently in use.
 Since we reviewed a draft policy at our previous council meeting and council never rendered a vote on the policy, I asked if there were plans to put this on a future council agenda.
 Staff said they are implementing the draft policy as it was presented and there are no plans for council to vote on it.
 I don't have a big problem with that.
@@ -408,8 +378,7 @@ I would prefer that we not let people use the sign without paying for its use.
 Items of a religious or political nature will be prohibited.
 Bob Bradley made reference to this letter at the close of the meeting.
 As he stated, our police department is probably our best public relations department.
-I hope the Babb family doesn't mind me posting this complimentary letter to our police department
-Lastly, I want to mention that I received a $100 donation for my re-election from a supporter in Virginia.
+I hope the Babb family doesn't mind me posting this complimentary letter to our police department Lastly, I want to mention that I received a $100 donation for my re-election from a supporter in Virginia.
 I am very flattered by this unsolicited and generous sign of support.
 I am also conflicted.
 I do not intend to run again for city council.
@@ -424,8 +393,7 @@ You won't have me to contend with.
 Come on, jump in and give it a shot!
 That's all for now.
 Let's remember Ft Hood in our prayers.
-10/16/09
-A tough night at city council, here's the story.
+10/16/09 A tough night at city council, here's the story.
 I made a motion to deny a conditional use permit for Hugh Beadles to fence off his property and build a boat ramp, which passed with DeAnne Gloris and Mayor Kruger dissenting.
 I almost can't believe I said that.
 I was very conflicted on this matter.
@@ -449,19 +417,11 @@ I feel that there is a great opportunity for Mr Beadles to make the appropriate 
 We next voted on adopting an ordinance banning cell phone use in school zones.
 Again I shared some of my concerns in my previous post (see the Archive).
 I cast the lone dissenting vote.
-I think the simplest thing is to refer you to the ordinance (with my hand written notes) as well as the memo I distributed to council:
-Cell phone in school zone ordinance, pg 1
-Cell phone in school zone ordinance, pg 2
-Cell phone in school zone ordinance, pg 3
-Cell phone in school zone ordinance, pg 4
-Pat Dixon's memo to council on this ordinance
-Next is an "I told you so" (see my post from 9/3/09 in the Archive).
+I think the simplest thing is to refer you to the ordinance (with my hand written notes) as well as the memo I distributed to council: Cell phone in school zone ordinance, pg 1 Cell phone in school zone ordinance, pg 2 Cell phone in school zone ordinance, pg 3 Cell phone in school zone ordinance, pg 4 Pat Dixon's memo to council on this ordinance Next is an "I told you so" (see my post from 9/3/09 in the Archive).
 I cast the lone dissenting vote a few weeks ago for a city government funded and controlled community sign.
 I stated one of the reasons to be concerned is dealing with perceived unfair treatment.
 Well, that is exactly what we spent considerable time discussing last night.
-The staff prepared some draft guidelines on policy for use of the community sign:
-Draft sign policy
-Check out item number 9.
+The staff prepared some draft guidelines on policy for use of the community sign: Draft sign policy Check out item number 9.
 I asked if the St Mary's Catholic Church Fish Fry and Octoberfest would be permitted or excluded from the sign.
 I was told by staff that it would be included.
 Then Bob Bradley asked if vacation bible school would be included.
@@ -481,8 +441,7 @@ When these groups put banners across the street or post signs, I think they look
 I think what we have now is a condition where the cost to the taxpayers of a sign and possible lawsuits over contention and unfair treatment are going to outweigh any savings we can anticipate.
 That's all for now.
 Pray for rain; oops, was that being to religious?
-10/1/09
-Quite a busy meeting we had tonight.
+10/1/09 Quite a busy meeting we had tonight.
 Here is the deal.
 We started with a public hearing on a proposed boat ramp to be built by Mr Hugh Beadles on property located on 32 acres off Highland Lake Dr and Santa Monica.
 The question raised was who's property is it?
@@ -529,10 +488,8 @@ I got him to admit that it would be a distraction.
 Sometime well intended laws have unintended consequences.
 That's most of what happened tonight at council.
 Now for another topic; do you know that I am a drug user?
-Yep, check it out at www.AustinPost.org
-Until next time, let's hope that the waters of Lake Travis rise and lift all our boats.
-9/17/09
-Had fun at the old city hall tonight.
+Yep, check it out at www.AustinPost.org Until next time, let's hope that the waters of Lake Travis rise and lift all our boats.
+9/17/09 Had fun at the old city hall tonight.
 In regular session we had what might have been a trivial matter of amending the current year budget.
 The issue I have is that the staff significantly reigned in spending in many categories and the motion would reset the budget limits such that it would not show the significance of those efforts.
 I don't think a budget should be a moving target where you can't really measure how well you did.
@@ -562,12 +519,8 @@ We also discussed reformatting the Master Plan, which I approve of.
 Readers of this site know what I think about Master Plans.
 I think the work to reformat is great.
 My concern is the content.
-In my utopian world, these planks from the current Lago Vista Plan would apply:
-Objective 1.16: Keep Lago Vista safe
-Objective 2.3: Endeavor to make the local tax rate competitive, nationally and regionally
-That's it.
-What our Master Plan actually contains are the following:
-Objective 1.2:Promote cultural activities and the arts.
+In my utopian world, these planks from the current Lago Vista Plan would apply: Objective 1.16: Keep Lago Vista safe Objective 2.3: Endeavor to make the local tax rate competitive, nationally and regionally That's it.
+What our Master Plan actually contains are the following: Objective 1.2:Promote cultural activities and the arts.
 Being board president of an arts organization, it is not the job of government to force taxpayers to support the arts.
 Objective 1.13.9: Pursue development of a bicycle and trail network.
 As past president of an organization that builds trails, I would only support a voluntary effort that is not forced on the taxpayers.
@@ -581,11 +534,9 @@ Learn about "New Urbanism" and see if you really want to adopt those principles.
 I could go on, but the principles underlying many of the objectives in the Master Plan are not based on liberty and free markets.
 You may be interested in my articles at Austin Post .
 If you like them you can vote thumbs up for me and I will kiss you on all 4 cheeks.
-If you want to join us at Doe Skin Ranch in the Balcones Canyonlands Wildlife Refuge for some volunteer activity, check out www.TrailTamers.org
-That will do for now.
+If you want to join us at Doe Skin Ranch in the Balcones Canyonlands Wildlife Refuge for some volunteer activity, check out www.TrailTamers.org That will do for now.
 Midnight and I'm tired.
-9/12/09
-First, on this day after 9/11, let's remember those that lost their lives that day.
+9/12/09 First, on this day after 9/11, let's remember those that lost their lives that day.
 We had a public hearing on our budget, and nobody showed up.
 I didn't suspect anyone to object to leaving our tax rate alone and not raising it like other cities.
 However, it is interesting that we hardly ever get public input at our budget hearings.
@@ -593,19 +544,17 @@ I do want to help spread the word about the Western AUthors Series at the Lago V
 Authors Russ Hall , Mike Blakely , Laurie Wagner Buyer, and W.C.
 Jameson will be there.
 A light lunch is provided.
-For reservations, please call the Lago Vista Library, 512 267 3868 or sign up at library front desk, 5803 Thunderbird, Ste. 40, Lago Vista.
+For reservations, please call the Lago Vista Library, 512 267 3868 or sign up at library front desk, 5803 Thunderbird, Ste.
+40, Lago Vista.
 You may be interested in my latest article at Austin Post .
 If you like it you can vote thumbs up for me and I will kiss you on all 4 cheeks.
-If you want to join us at Doe Skin Ranch in the Balcones Canyonlands Wildlife Refuge for some volunteer activity, check out www.TrailTamers.org
-Let's hope the rain keeps coming, at least for a while.
-9/3/09
-A light schedule at city council tonight.
+If you want to join us at Doe Skin Ranch in the Balcones Canyonlands Wildlife Refuge for some volunteer activity, check out www.TrailTamers.org Let's hope the rain keeps coming, at least for a while.
+9/3/09 A light schedule at city council tonight.
 The only issue actively debated was spending $7,000 for a community sign.
 If I wasn't on the dais there would have been no discussion at all.
 I cast the lone dissenting vote because (1) even though it is a relatively small amount of money, we have a very austere budget and this expense is clearly not urgent (2) and once we have a sign we now compete with private businesses that already have signs and get some income from offering this advertising.
 Then we are likely to have debates about unfair treatment if one group is listed on the taxpayer funded sign and another group has to pay someone else to have their event advertized.
-Speaking of our budget, I would like to mention a couple of items that factor into our concerns:
-1.
+Speaking of our budget, I would like to mention a couple of items that factor into our concerns: 1.
 The state of Texas imposes requirements on cities when they set their tax rates.
 Generally these laws are imposed by those with the intent of lowering taxes.
 Since we pay property taxes based on appraised value, even if we lower the tax rate you could end up paying more taxes than the previous year if the county raises your appraised value.
@@ -629,14 +578,9 @@ If any of you have been to the Gaylord in Fort Worth you will see one of the big
 Now that I have covered my city business, I need to focus on a big weekend that starts the new season.
 You may have thought I was referring to football.
 Well the season I am referring to starts Sunday.
-For a hint, examine the following graph and see if it makes a point with you:
-For more details, you can check the article posted at www.austinpost.org/content/the-season-starts-sunday
-Have a great weekend!
-8/20/09
-First, a little something for the Chamber of Commerce:
-"Lago Vista has a private airport, many illegal drugs such as marijuana are flown into the city.
-Most of the students at the local school use these drugs daily."
-Who says?
+For a hint, examine the following graph and see if it makes a point with you: For more details, you can check the article posted at www.austinpost.org/content/the-season-starts-sunday Have a great weekend!
+8/20/09 First, a little something for the Chamber of Commerce: "Lago Vista has a private airport, many illegal drugs such as marijuana are flown into the city.
+Most of the students at the local school use these drugs daily." Who says?
 Wikipedia.
 Just don't shoot the messenger, OK?
 Now as for city council, tonight my motion to allow a property owner to use their driveway on an adjacent lot passed, and I voted to oppose down zoning R4 to R1 along Eisenhower Drive which did not pass.
@@ -647,13 +591,8 @@ I also moved to leave the tax rate unchanged which passed.
 Other cities are raising theirs as revenues decline.
 I commend staff for their hard work in holding the line.
 Now let's get back to our favorite subject, socialist medicine.
-Here are a few things to ponder:
-/>John Mackey's plan for health reform
-/>My comments on the topic
-More good words from Dr Milton Friedman:
-Let's hope for some rain, some common sense in Washington DC, and for a drug free airport.
-8/6/09
-Had a nice evening in council chambers.
+Here are a few things to ponder: /> John Mackey's plan for health reform /> My comments on the topic More good words from Dr Milton Friedman: Let's hope for some rain, some common sense in Washington DC, and for a drug free airport.
+8/6/09 Had a nice evening in council chambers.
 We had a discussion of allowing a property owner to put a driveway on their property.
 You may be wondering why someone needs permission from the government for this.
 The twist is that the driveway is not on the lot where their house is; it is on the lot they own across the street.
@@ -670,8 +609,7 @@ Therefore passage of this proposal would add a restriction that was not present 
 Based on this, can you guess my opinion on this issue?
 My typical approach to a public meeting is that I am not there to tell people what I think, I am there to listen to what the public thinks.
 However my fellow council members began by sharing their opinions on this issue, largely arguing for its passage.
-The primary arguments were:
-1.
+The primary arguments were: 1.
 The proposal originated from the master plan, section 5.8 (5).
 I don't have any explanation of the justification used for this proposal other than perhaps trying to make placing this area under the same zoning as the surrounding area.
 Some argue that if we have a master plan, we should follow it.
@@ -679,8 +617,7 @@ Some argue that if we have a master plan, we should follow it.
 Multi family dwellings could impose more demands on infrastructure (utilities, roads) than single family.
 3.
 Existing single family dwellings adjacent to these lots might be concerned that their property value would be lower in the vicinity of multi family dwellings than with single family dwellings.
-The mayor expressed his concerns that this was opening a can of worms, and I followed by stating my objections mostly consisting of:
-1.
+The mayor expressed his concerns that this was opening a can of worms, and I followed by stating my objections mostly consisting of: 1.
 The master plan is not law, it is a guideline.
 I personally object to much of the master plan and do not feel it should tie our hands and hold us bound to follow it.
 2.
@@ -716,20 +653,11 @@ We are roughly middle of the pack on water fees compared to surrounding areas.
 On residential sewer fees we are toward the high end of price for low usage but well below others on price for heavy sewer usage.
 This will likely be adjusted in the future.
 That is most of the council activity this week.
-Lastly you may have heard about the Libertarian Party being referred to as a "mob" by Congressman Lloyd Doggett in our opposition to more intrusion of the federal government into the relationship between you and your doctor:
-Lloyd Doggett calls protestors 'a mob'
-And then apologized for it
-I agree that you marginalize your message when you cause yourself to be perceived as angry and irrational.
+Lastly you may have heard about the Libertarian Party being referred to as a "mob" by Congressman Lloyd Doggett in our opposition to more intrusion of the federal government into the relationship between you and your doctor: Lloyd Doggett calls protestors 'a mob' And then apologized for it I agree that you marginalize your message when you cause yourself to be perceived as angry and irrational.
 It is far better to appeal to reason and logic, even if your opposition is unreasonable and illogical.
-For a model to follow, it is hard to beat Dr Milton Friedman:
-Go to 4:36 of this video for a concise statement on government intrusion in medical care:
-An explanation of the rise in health costs from 1978, which tells the same story today:
-The role of government in medical care:
-That's it for now.
+For a model to follow, it is hard to beat Dr Milton Friedman: Go to 4:36 of this video for a concise statement on government intrusion in medical care: An explanation of the rise in health costs from 1978, which tells the same story today: The role of government in medical care: That's it for now.
 Stay cool while others around you are blowing steam.
-7/17/09/09
-Last week I was living in a tent in Arizona:
-Now I am back in the hotbox.
+7/17/09/09 Last week I was living in a tent in Arizona: Now I am back in the hotbox.
 Last night's council meeting wasn't too bad, but it had it's moments.
 You probably won't read about it in The Log because they didn't show up.
 It began with the pander fest.
@@ -754,8 +682,7 @@ I also moved changing the speed limit from 40 to 30 in the residential section o
 I asked that where there in not a stop sign that a reduced speed ahead sign be placed to alert drivers to the speed change.
 That is all for now.
 Take care.
-5/21/09
-I generally agree with Bill Stuart here.
+5/21/09 I generally agree with Bill Stuart here.
 As James Madison said, if we were all angels there would be no need for government.
 The reason government exists is to provide police and courts to resolve disputes peacefully and to protect people from the harm done by others.
 Today municipal governments are involved in providing utilities, permitting processes on private property, libraries, recreational facilities, and many other endeavors.
@@ -778,8 +705,7 @@ As long as they are separate in our accounting we are fine.
 Perhaps we need to be careful in our wording of bond ordinances going forward.
 We also had a discussion of those bond projects that had been deferred and what our priorities are going forward.
 We want to be frugal and prioritize the projects we spend money on.
-For a completely different topic, you may enjoy this:
-Lastly, I dare comment about religion in politics.
+For a completely different topic, you may enjoy this: Lastly, I dare comment about religion in politics.
 This posting may inflame you, but I just gotta say it.
 Last night we began our city council meeting with a very eloquent invocation by a local pastor.
 We have such an invocation every month.
@@ -791,9 +717,7 @@ Saying a Christian prayer before a council meeting is wrong.
 We should have no prayer and just get on with business.
 I am not going to make a big deal about it unless I have others in the community willing to work with me on this.
 If I made a big deal about every single thing I disagree with I would not be as brilliantly effective as I am.
-5/21/09
-If you missed our council meeting tonight, here is a recap:
-Well OK, it wasn't the real council meeting, but pretty close to it.
+5/21/09 If you missed our council meeting tonight, here is a recap: Well OK, it wasn't the real council meeting, but pretty close to it.
 We had a proposal to amend our fence ordinance.
 I am always impressed at the ways government can micromanage private property.
 One of the changes was to permit certain kinds of fences that previously were not legal.
@@ -838,8 +762,7 @@ This was a lengthy process and city staff spent a lot of time on this.
 This sets up an opportunity to continue the process by streamlining an outdated zoning ordinance.
 That's most of it.
 Happy shrubbery planting, assuming you don't have to seek the approval of politicians or knights that formerly said "NI".
-5/7/09
-Who was the biggest winner at city council tonight?
+5/7/09 Who was the biggest winner at city council tonight?
 Yes, Al Gore was the big winner.
 How?
 We were presented with a resolution to join Travis County in an effort to comply with ozone regulations.
@@ -853,9 +776,7 @@ The clear ulterior motive here is global warming.
 This is Al Gore getting big government to threaten small government to comply with his agenda.
 If you want to know what I think about that, click the Global Warming link on the left side of the screen.
 The fact is that ozone has consistently decreased over the years, yet politicians in Washington setting the compliance levels at lower and lower levels.
-Look at their own data:
-Now look at what they are forcing cities like ours to do:
-I made a motion to postpone consideration to the next meeting.
+Look at their own data: Now look at what they are forcing cities like ours to do: I made a motion to postpone consideration to the next meeting.
 I don't think most council members really understood what they were voting on.
 There was never a working session to discuss it and voting on this on such short notice does not seem wise.
 My motion to postpone was ignored and we voted 6-1 (my dissent) to approve the resolution.
@@ -879,8 +800,7 @@ We had a presentation by the charter review committee on their recommendations.
 I have disagreed with Anne Ochoa on matters of policy previously, but the work her committee did was outstanding.
 They did a very thorough review of our charter in contrast to state law as well as our current practice.
 It appears there is not much in the way of substantive charter changes that need to go to the voters.
-The Charter review report is here:
-We then had a lengthy presentation from Art Kern suggesting we eliminate minimum charges for water.
+The Charter review report is here: We then had a lengthy presentation from Art Kern suggesting we eliminate minimum charges for water.
 His argument is that if he uses no water, why be forced to pay for it?
 I am sympathetic to this argument, but understand that there is cost to maintaining availability.
 You pay minimum charges for phone, internet, cable TV, and other services regardless of how much you use it.
@@ -892,14 +812,10 @@ This is the corporate welfare policy I voted against a few years ago (dig throug
 I voted with council to approve the amendment because the policy was already decided and all we are doing is complying with the agreement, even if I don't like it.
 By the time we got to the end of the meeting, the mayor informed us that since the ethics review was on the executive session agenda and not on the regular meeting agenda, we could not address it because it needs to be on the agenda with sufficient notice for the meeting being held.
 Oh well, I guess we will talk next time.
-If you care, here is what I intended to present:
-Latest draft of ethics ordinance
-Considerations for further amendment
-Well that should do it for now.
+If you care, here is what I intended to present: Latest draft of ethics ordinance Considerations for further amendment Well that should do it for now.
 Hope you keep yourself cool with all that global warming.
 I wonder how we could reduce this guy's carbon footprint?
-4/30/09
-Do you know who this is?
+4/30/09 Do you know who this is?
 Apparently it's me!
 Frankly I can understand why someone who doesn't know me very well might get this impression.
 We have all seen politicians that were more concerned with their ego than anything else.
@@ -913,19 +829,16 @@ I will never walk on water, rise from the dead, or turn water into wine, yet I w
 Despite being rejected, abandoned, tortured, and killed, he did not let go of his principles.
 Now if that makes me Barney Fife, well GOLLY!
 Oops, wrong character ...
-4/26/09
-I want to declare a success.
+4/26/09 I want to declare a success.
 Well, a partial success.
 Twice the LOG had as their headline story a discussion of imposing taxes on the tourism industry.
 I did not succeed in repealing the tax.
 I did succeed in bringing attention to an issue and having serious deliberation on policy.
 I must mention that some of you may think I am incoherent when you read the article by Mike Parker.
 Mike is a nice person and I don't believe he intends any harm on me.
-However, he quotes me:
-"It's not unanimous," he said about local businesses supporting the bed tax.
+However, he quotes me: "It's not unanimous," he said about local businesses supporting the bed tax.
 "They're paying for it.
-They're being taxed."
-As the one who was there making the statement, this quote doesn't make a great deal of sense.
+They're being taxed." As the one who was there making the statement, this quote doesn't make a great deal of sense.
 Allow me to put it into proper context.
 My colleague Bob Bradley commented that he got a letter from a business owner opposing the repeal of the tax.
 He also said he thinks it is better for businesses to get promotion for free.
@@ -934,12 +847,9 @@ What did he think of the several letters from other business owners supporting t
 It appeared Bob was not aware of these letters or hadn't read them.
 I then refuted the notion that these businesses are getting free advertising.
 That's when I said "They're paying for it.
-They're being taxed."
-I trust that makes me appear less of an idiot than the article suggests.
+They're being taxed." I trust that makes me appear less of an idiot than the article suggests.
 I will let you judge for yourself.
-Enjoy the article and letter below:
-4/16/09
-The bed tax lies awake!
+Enjoy the article and letter below: 4/16/09 The bed tax lies awake!
 The agenda this evening was pretty light.
 I pointed out that our charter does not allow a council member to abstain from a vote unless it is a conflict of interest and must state the reason for abstaining in the minutes.
 This caused the minutes to be amended to show the abstaining member to be shown voting NO.
@@ -957,8 +867,7 @@ Most cities adopt these tax and spend policies and never seriously discuss them.
 I was able to get some business owners to support this effort.
 I was able to get people to show up at council meetings to discuss it.
 I was able to get council members and staff to discuss it.
-I was able to get front page coverage of this issue:
-A new generation is coming.
+I was able to get front page coverage of this issue: A new generation is coming.
 We saw them at Tea Parties all over the country yesterday.
 At one of the Tea Parties I told the crowd that much focus in on the federal government.
 Much focus is on the state government.
@@ -966,24 +875,17 @@ When was the last time you went to city hall?
 If you are going to attend massive tea parties all over the country, why can't you go down the street to support repealing a tax in your community?
 Today only 53% of you think that Capitalism is better than Socialism.
 In Russia, Vladimir Putin is warning us not to become socialists.
-In the April 4 edition of the Montreal "Globe and Mail" John Ibbitson says we already are socialists:
-I have already shown you the cover of Newsweek magazine saying the same thing:
-The new generation will replace you.
+In the April 4 edition of the Montreal "Globe and Mail" John Ibbitson says we already are socialists: I have already shown you the cover of Newsweek magazine saying the same thing: The new generation will replace you.
 They ones that are having government taxation and debt piled on their back with replace you.
 They are reading newspapers and websites.
 They will remember the effort to repeal the "bed tax".
 Next time, they will succeed.
-3/25/09
-Want a simple and easy way to have a tax protest before the April 15 IRS filing deadline?
+3/25/09 Want a simple and easy way to have a tax protest before the April 15 IRS filing deadline?
 You don't have to march on Washington.
 You don't have to leave Lago Vista.
 Just print out one, or both, of the documents below, sign them, and drop off 7 copies at city hall and ask the attendant to put them in the mailboxes of council members.
-Click on these images below to open these files
-Why do this?
-Click on the letter below and it should explain it:
-3/19/09
-"For a nation to try to tax itself into prosperity is like a man standing in a bucket trying to lift himself up by the handle." (Sir Winston Churchill)
-You cannot tax yourself into prosperity.
+Click on these images below to open these files Why do this?
+Click on the letter below and it should explain it: 3/19/09 "For a nation to try to tax itself into prosperity is like a man standing in a bucket trying to lift himself up by the handle." (Sir Winston Churchill) You cannot tax yourself into prosperity.
 Sir Winston Churchill said it.
 Ronald Reagan said it.
 Adam Smith said it.
@@ -1015,15 +917,7 @@ This will be on the agenda for the April 16 meeting.
 Isn't it appropriate that we vote on repealing a tax after we suffer through IRS filing?
 If you are with me in defense of the free market, economic prosperity, and liberty, let city council know about it.
 If you defend taxation and socialism, I think there are some nice homes in California.
-"TIME TO REPEAL THE BED TAX"
-"Lago Vista Hotel Occupancy Tax (article 11.200, BED TAX)"
-"History of Bed Tax revenue and rate"
-"Low taxes lead to economic growth"
-"We have over $140,000 that we can distribute now to promote tourism"
-"Scotland Tourism industry fights against bed tax"
-"Texas Public Policy research on the effects of business taxation"
-"The effect of taxation on tourism"
-In other news, we approved the audit presented by Neffendorf, Knopp, Horry, and Doss.
+"TIME TO REPEAL THE BED TAX" "Lago Vista Hotel Occupancy Tax (article 11.200, BED TAX)" "History of Bed Tax revenue and rate" "Low taxes lead to economic growth" "We have over $140,000 that we can distribute now to promote tourism" "Scotland Tourism industry fights against bed tax" "Texas Public Policy research on the effects of business taxation" "The effect of taxation on tourism" In other news, we approved the audit presented by Neffendorf, Knopp, Horry, and Doss.
 The audit was well presented and the information is favorable.
 The city is in pretty good financial shape and there are very few recommendations for improvement.
 Our city manager and staff have done an excellent job.
@@ -1054,8 +948,7 @@ Hey, that sounds a little like a free market?
 Perhaps the free market is dead.
 Perhaps socialism is inevitable.
 For those who believe you can tax yourself into prosperity, I only suggest you check out some homes in California.
-3/6/09
-Last night's council meeting began with an appreciation for the work that our building inspectors performed during hurricane Katrina.
+3/6/09 Last night's council meeting began with an appreciation for the work that our building inspectors performed during hurricane Katrina.
 These two inspectors, Linda Alger and Gary Campbell, travelled down to the affected areas and helped with the difficult work down there.
 Next was a proclamation honoring Judge Pat Malloy.
 It was difficult for people to keep their composure as the proclamation was read, as Pat was a well respected and loved member of the community.
@@ -1111,10 +1004,7 @@ This proves my point; Super S did not need your taxes in order to build a grocer
 Now that times are tough they are using your taxes as their "bailout".
 If you complain about George Bush and Barack Obama with their "bailouts" and nationalization of our economy, you would be a hypocrite to be silent on the "bailout" of Super S.
 I am glad Super S is here and they are only doing what the rest of city council have allowed them to do, but this creeping socialism from your city council must end.
-2/22/09
-In case you didn't already know:
-"We are all Socialists now"
-At Thursday's council meeting we began with appointment of Hugh Farmer and Art Sedillo as municipal judges to replace Pat Malloy.
+2/22/09 In case you didn't already know: "We are all Socialists now" At Thursday's council meeting we began with appointment of Hugh Farmer and Art Sedillo as municipal judges to replace Pat Malloy.
 We of course are saddened at the passing of Pat and express our condolences to his family.
 The position of judge is one of great importance and authority.
 I asked Hugh and Art to address council to express how they would approach the position.
@@ -1133,9 +1023,7 @@ I made the motion to approve the new zoning plan for The Falls development.
 There was wide agreement that this was a more agreeable plan than the previous one, and there was no objection.
 That was most of it.
 Let's see if we can maintain some semblance of liberty and the free market as our nation drifts further into socialism.
-2/6/09
-I promise, the was no collusion between myself and the cartoonist:
-Last night's council meeting began with the appointment of Dale Mitchell to fill the council seat vacated by Susan Euresti.
+2/6/09 I promise, the was no collusion between myself and the cartoonist: Last night's council meeting began with the appointment of Dale Mitchell to fill the council seat vacated by Susan Euresti.
 I welcome Dale to council and look forward to working with him.
 This position will be up for election in May.
 We also had a public hearing to discuss a rezoning request from residential to commercial for lot 1183A, which is a Reytex property just off Lohman Ford next to the homes formally used as the Reytex offices.
@@ -1179,8 +1067,7 @@ That's OK, I don't strongly object.
 I will work with Darrel Hunt on this.
 That's all for now.
 Smoke 'em if you got 'em.
-1/24/09
-I wanted to give you a timely update.
+1/24/09 I wanted to give you a timely update.
 Susan Euresti has resigned from council.
 She is relocating to Georgetown for business purposes.
 As some of you know, Susan defeated me in the election of 2007.
@@ -1192,17 +1079,12 @@ What this means to you is there is an opening on council.
 Those interested in serving can contact me or other council members.
 Council will appoint person to fill this vacancy in a few eeeks.
 There will be an election to permanently fill the 2 year term in May.
-1/15/09
-It has been a long time since a city council meeting.
+1/15/09 It has been a long time since a city council meeting.
 Here is what happened last night.
 We began with an appearance by new county commissioner Karen Huber.
 I am somewhat to blame/credit for her victory over Gerald Daugherty because my executive director Wes Benedict was in the race.
 I was planning to ask the commissioner some questions but she left quickly after saying hello.
-The questions I wanted to ask were:
-- Will the land use controls you propose for Travis County only apply to unincorporated areas, or will our approvals of development in Lago Vista be subject to approval by Travis County?
-- You mention that Gerald Daugherty opposed a budget that increased taxes and that the "free market" philosophy causes higher taxes, so how do you propose to address what many in our area feel is a high tax burden?
-- You talk about the demands that growth imposes on water supply, but would you support addressing the TCEQ "no discharge" rule which causes us to acquire property and spray effluent?
-- You mention the desire to keep the community safe, so would you support tougher sentencing in Travis County when juveniles do harm to someone or their property and hold parents accountable in order to avoid victimless crimes such as with curfew laws?
+The questions I wanted to ask were: - Will the land use controls you propose for Travis County only apply to unincorporated areas, or will our approvals of development in Lago Vista be subject to approval by Travis County? - You mention that Gerald Daugherty opposed a budget that increased taxes and that the "free market" philosophy causes higher taxes, so how do you propose to address what many in our area feel is a high tax burden? - You talk about the demands that growth imposes on water supply, but would you support addressing the TCEQ "no discharge" rule which causes us to acquire property and spray effluent? - You mention the desire to keep the community safe, so would you support tougher sentencing in Travis County when juveniles do harm to someone or their property and hold parents accountable in order to avoid victimless crimes such as with curfew laws?
 We then had a lengthy discussion of the new proposal for The Falls development.
 It appears that the new plan is much more agreeable to everyone than the one previously approved by council, except for Jim Awalt.
 I cannot figure out whether Jim prefers the previous plan or just doesn't ever want the property developed.
@@ -1219,13 +1101,11 @@ I also reported the LCRA predicts our drought will extend into next year and our
 That is mighty low.
 We are prepared to deal with the water supply issues, but let's hope we get a lot of unexpected rain.
 Happy New Year, and GO STEELERS!
-12/18/08
-I am very delinquent.
+12/18/08 I am very delinquent.
 I have not updated this page since Thanksgiving.
 There have been 2 council meetings since then.
 Why am I so delinquent.
-Well, here's one reason:
-That is the Lakeside Singers, a local group that puts on Christmas concerts.
+Well, here's one reason: That is the Lakeside Singers, a local group that puts on Christmas concerts.
 This photo was taken from a performance we did at a nursing home a few weeks ago.
 My voice was copiously employed over the last several weeks with a number of groups.
 That occupied a lot of my time.
@@ -1262,8 +1142,7 @@ The writer of the letter said how nice and understanding the officers were.
 This is not the first compliment I have seen in my years on council and I think our department is doing a great job.
 Well that will have to hold you over until after the holidays.
 I hope you have a restful and blessed Christmas and New Year.
-11/26/08
-Happy Turkey day, hope all goes well for you.
+11/26/08 Happy Turkey day, hope all goes well for you.
 Yes I know the last council meeting was a week ago and I am late with my update, but nobody complained leading me to think nobody reads this anyway.
 That won't stop me from documenting the history of this council.
 The main point of discussion at our meeting concerned the airport and the parking ordinance.
@@ -1279,13 +1158,9 @@ If you write legislation that is vague it can be difficult to enforce.
 However if you write it with a lot of detail it can become ridiculous because you can't anticipate every case and such laws may be very unreasonable on specific properties.
 Lastly, in an effort to remain "fair and balanced" I have updated my Global Warming page.
 There is a video from James Burke that I find to be the best explanation of the alarmist view of global warming, far better than Al Gore's presentation.
-It is found at "James Burke from 1989"
-On the other hand, new evidence is increasingly on the side of the skeptics, as you can see at "Attacks on the skeptics"
-That's it for now.
+It is found at "James Burke from 1989" On the other hand, new evidence is increasingly on the side of the skeptics, as you can see at "Attacks on the skeptics" That's it for now.
 Enjoy your tryptophan..
-11/7/08
-A short agenda but a long discussion at last night's meeting
-We began with a discussion with planning and zoning committee about a streamlined process for platting, which I support.
+11/7/08 A short agenda but a long discussion at last night's meeting We began with a discussion with planning and zoning committee about a streamlined process for platting, which I support.
 It was obvious some people do not understand what platting is.
 Some were asking why we are changing the process when we have PDD's (plannned development districts).
 PDD's pertain to zoning, not platting.
@@ -1332,15 +1207,13 @@ Look for an announcement on this.
 Also, the Christmas tree lighting ceremony will now be Dec 8.
 That's it for now.
 See ya.
-10/19/08
-Our last city council meeting was brief, but let me cover some other ground first.
+10/19/08 Our last city council meeting was brief, but let me cover some other ground first.
 I notice lots of political signs in people's yards.
 There must be an election soon!
 I also notice many of these properties have more than one sign, in fact quite a few.
 Do you know that the Lago Vista sign ordinance prohibits more than 1 yard sign per candidate per lot?
 I won't turn you in; I feel this is a First Amendment issue.
-I am in compliance, as you can see:
-For the council meeting, the majority of the discussion involved what to do about recreational vehicles and boats that were parked not in compliance with our zoning codes.
+I am in compliance, as you can see: For the council meeting, the majority of the discussion involved what to do about recreational vehicles and boats that were parked not in compliance with our zoning codes.
 The code prohibits parking on a non-improved surface and states that they must be screened from view.
 However our code also prohibits fences taller than 6 feet which makes it impossible to screen an RV.
 There was discussion about what kinds of improved surfaces (concrete, asphalt, etc) should be permitted.
@@ -1357,11 +1230,8 @@ This is the latest coverage from the NLT LOG.
 If nothing else, at least we have raised the issue and made people aware of the concern.
 I do not agree with the interpretation of state law cited here.
 I worked and lobbied for the bills referenced in the state legislature, so I am familiar with them.
-That does not mean efforts at the local level to protect your property rights are without merit:
-10/2/08
-No, I did not see the debate on TV because we had our own on city council.
-Before I get into city issues, I don't mind sharing what I think about federal government bailouts:
-First, many of you have been calling into city hall worried about eminent domain.
+That does not mean efforts at the local level to protect your property rights are without merit: 10/2/08 No, I did not see the debate on TV because we had our own on city council.
+Before I get into city issues, I don't mind sharing what I think about federal government bailouts: First, many of you have been calling into city hall worried about eminent domain.
 You saw that our council agenda had an item regarding acquiring property.
 City staff has been fielding calls about this.
 Where were you when I needed you?
@@ -1391,22 +1261,17 @@ We will have to see where we are next year.
 Thus far no spending is authorized for these projects.
 That's most of the big stuff.
 If you want to help tackle even bigger threats, tell Congress to vote NO on a bailout and help me fight for your property rights.
-9/18/08
-Tonight I failed to persuade council to support a resolution further defining powers of eminent domain.
+9/18/08 Tonight I failed to persuade council to support a resolution further defining powers of eminent domain.
 The vote was 3 in support (myself, D'Anne Gloris, Darrel Hunt) and 4 opposed.
-Why did it fail?
-- Some expressed the notion that state law already has language defining eminent domain powers and that for a city to do so is redundant.
+Why did it fail? - Some expressed the notion that state law already has language defining eminent domain powers and that for a city to do so is redundant.
 Despite the fact that the Institute for Justice presented examples of Texas cities that have done exactly what I was trying to do, some thought our city should not address the issue.
-I think there is a fundamental misunderstanding that I was unable to effectively argue tonight.
-- Former council member Mike Thornton said there was no outcry for this and that I was the only one supporting it.
+I think there is a fundamental misunderstanding that I was unable to effectively argue tonight. - Former council member Mike Thornton said there was no outcry for this and that I was the only one supporting it.
 Although we had some letters of support and a letter in the LOG, he does have a point.
 Nobody showed up to speak in favor.
 If you cared about this, you didn't convey that to members of council.
-That certainly did not help my effort.
-- Mike also said that they carefully looked at the charter language when they first wrote it years ago.
-What they didn't know 5 years ago is that the Supreme Court would say that the 5th amendment no longer protects you from having government give your property to someone else.
-That is why cities have changed their charters in Texas and all over the country.
-- Mike also said the we presented a similar resolution to the Texas Municipal League a few years ago which got dismissed, proving that there is no support at the state and municipal level for preventing eminent domain abuse.
+That certainly did not help my effort. - Mike also said that they carefully looked at the charter language when they first wrote it years ago.
+What they didn't know #ago is that the Supreme Court would say that the 5th amendment no longer protects you from having government give your property to someone else.
+That is why cities have changed their charters in Texas and all over the country. - Mike also said the we presented a similar resolution to the Texas Municipal League a few years ago which got dismissed, proving that there is no support at the state and municipal level for preventing eminent domain abuse.
 If I sound like I am picking on Mike, I do like him personally but absolutely disagree with his lack of concern for limited government.
 Organizations like TML want cities to have unlimited power.
 When the Kelo decision ruled that cities can transfer property to other private entities, TML applauded this.
@@ -1414,8 +1279,7 @@ Do you want to be on their side?
 Do you want to give a politician that power?
 Mike does, and I find that frightening.
 We have constitutions and charters for the purpose of limiting government power and protecting your rights.
-You can either be on the side of TML which gives government all the power and takes away your rights, or on my side where government has specific and limited powers as defined in its constitutions and charters.
-- Lastly, Mike said that if a charter proposal passes, it will bind future councils for the next 5 years.
+You can either be on the side of TML which gives government all the power and takes away your rights, or on my side where government has specific and limited powers as defined in its constitutions and charters. - Lastly, Mike said that if a charter proposal passes, it will bind future councils for the next 5 years.
 Of course!
 That is the point!
 Someday these council members will not be on council.
@@ -1435,12 +1299,8 @@ That is all for now.
 I do respect my fellow council members and we had a good lengthy discussion tonight.
 I feel there are some fundamental misunderstandings, but this is not due to malice.
 I hope we can get better educated before we suffer the consequences.
-9/13/08
-The latest big news story in Lago Vista:
-Please drop a letter to council members at city hall or show up next Thursday to let our council know that you support this.
-Below is a letter that I presented to council on this topic:
-Fellow council members,
-I have asked the mayor to add this item to the agenda to discuss an issue of concern for the people of Lago Vista.
+9/13/08 The latest big news story in Lago Vista: Please drop a letter to council members at city hall or show up next Thursday to let our council know that you support this.
+Below is a letter that I presented to council on this topic: Fellow council members, I have asked the mayor to add this item to the agenda to discuss an issue of concern for the people of Lago Vista.
 As you know, the charter review committee is working on updates for the city charter.
 The updates will be presented for a public vote in May of next year.
 It would be helpful for the committee to receive input from council to be able to focus on specific areas.
@@ -1458,19 +1318,8 @@ The resolution presented does not eliminate eminent domain.
 It simple allows the charter review committee to apply reasonable definition to section 2.03 so that eminent domain cannot be abused.
 I have asked Matt Miller from the Institute for Justice to address us and discuss what other cities have done to update their laws to prevent eminent domain abuse.
 I ask your support of this important resolution.
-Pat Dixon, Lago Vista council place #1
-Below is the text of the resolution:
-RESOLUTION:
-A RESOLUTION REGARDING THE DEFINITION OF THE "PUBLIC PURPOSE" CLAUSE IN SECTION 2.03 (EMINENT DOMAIN) OF THE CITY CHARTER
-WHEREAS: The June 2005 US Supreme Court ruling in the Kelo vs.
-New London case further exposed the threat of private property owners to government condemnation and taking of their property to transfer to private entities;
-WHEREAS: In the wake of this ruling, cities across the United States and Texas passed ordinances restricting the eminent domain powers of government;
-WHEREAS: The City of Lago Vista unanimously passed a resolution in 2005 "That the City of Lago Vista proposes that the Texas Municipal League promote to its member cities the importance of defending property rights and limiting municipal eminent domain powers by clearly stating the limits of these powers in their charters and ordinances.";
-WHEREAS: The property owners of Lago Vista depend upon city government to defend their property rights;
-NOW, THEREFORE, BE IT RESOLVED BY THE CITY COUNCIL OF THE CITY OF LAGO VISTA, TEXAS, THAT:
-The City of Lago Vista formally requests that the Citizens Review Committee address the definition of "Public Purpose" in section 2.03 of the city charter and consider language to prevent the use of eminent domain for taking private property from one private entity and transferring property to another private entity
-8/22/08
-A pretty busy week for city council.
+Pat Dixon, Lago Vista council place #1 Below is the text of the resolution: RESOLUTION: A RESOLUTION REGARDING THE DEFINITION OF THE "PUBLIC PURPOSE" CLAUSE IN SECTION 2.03 (EMINENT DOMAIN) OF THE CITY CHARTER WHEREAS: The June 2005 US Supreme Court ruling in the Kelo vs.
+New London case further exposed the threat of private property owners to government condemnation and taking of their property to transfer to private entities; WHEREAS: In the wake of this ruling, cities across the United States and Texas passed ordinances restricting the eminent domain powers of government; WHEREAS: The City of Lago Vista unanimously passed a resolution in 2005 "That the City of Lago Vista proposes that the Texas Municipal League promote to its member cities the importance of defending property rights and limiting municipal eminent domain powers by clearly stating the limits of these powers in their charters and ordinances."; WHEREAS: The property owners of Lago Vista depend upon city government to defend their property rights; NOW, THEREFORE, BE IT RESOLVED BY THE CITY COUNCIL OF THE CITY OF LAGO VISTA, TEXAS, THAT: The City of Lago Vista formally requests that the Citizens Review Committee address the definition of "Public Purpose" in section 2.03 of the city charter and consider language to prevent the use of eminent domain for taking private property from one private entity and transferring property to another private entity 8/22/08 A pretty busy week for city council.
 Here is what has transpired.
 On Monday we had our budget retreat.
 The budget proposal from staff is very well prepared and they did a very good job.
@@ -1519,15 +1368,13 @@ After the meeting several people expressed their concerns to me, and I think it 
 I used to schedule "Chat with Pat" sessions to allow people to come and share their concerns, but few people expressed interest.
 If at least 10 people email me at Pat@PatDixon.org expressing their interest in talking to me about animal control and the shelter, I will arrange to set up a time somewhere in town where we can get together and have a discussion.
 I have done some research on the tax appraisal process in preparation for a resolution to present to the Texas Municipal League.
-The previous Travis County appraiser Art Cory told us 2 years ago that appraisal districts do not have access to market data on property sales and that there is inequity in the way the comptroller audits property rich districts like ours compared to the districts receiving Robin Hood money.
+The previous Travis County appraiser Art Cory told us #ago that appraisal districts do not have access to market data on property sales and that there is inequity in the way the comptroller audits property rich districts like ours compared to the districts receiving Robin Hood money.
 I am finding this to be a very complicated issue.
 I believe I will have something to offer, but I think the best way to reduce you tax burden is to elect Libertarians.
 Lastly, at the Sept 4 meeting I will have a representative from the Institute for Justice speak about eminent domain.
 I will be presenting a resolution asking to review our charter language and protect you from eminent domain abuse such as in the Supreme Court's Kelo case.
 If you care about your property rights, I would welcome your attendance at the Sept 4 council meeting.
-8/9/08
-It's been busy, so sorry for my delayed update
-At our council meeting we had a pretty light agenda.
+8/9/08 It's been busy, so sorry for my delayed update At our council meeting we had a pretty light agenda.
 The Island Phase II discussion was withdrawn after the the developer withdrew their plans.
 We had a vote to adopt a resolution on the new Master Plan.
 As I have mentioned before, I respectfully dissent.
@@ -1542,11 +1389,7 @@ However I do have a concern that the shelter's adoption policies seem to be very
 If it is a private shelter relying on donations, that's fine.
 However the city must be responsible stewards of you tax money and if we find another provider for animal control that meets the requirements, provides appropriate service, and reduces your tax burden, I am interested.
 That is all for now.
-7/18/08
-First I want to let you know about something that has nothing to do with Lago Vista City Council:
-Invitation to meet presidential candidate polling at 6% nationally
-It is free of charge and open to the public right here in Austin, so I didn't want you to miss out
-People may have noticed I was pretty quiet at tonight's council meeting.
+7/18/08 First I want to let you know about something that has nothing to do with Lago Vista City Council: Invitation to meet presidential candidate polling at 6% nationally It is free of charge and open to the public right here in Austin, so I didn't want you to miss out People may have noticed I was pretty quiet at tonight's council meeting.
 There really wasn't much for me to say.
 The meeting went uneventfully.
 First there was a tribute to Hollace Bowden, "Mr Lago Vista".
@@ -1567,15 +1410,11 @@ There was an item for discussion of the master plan, but I had nothing to add fr
 I want to explain that I know the people that worked on this made genuine and sincere efforts to do the right thing, but I have fundamental disagreements of the role of government micro managing the economy and private property rights.
 That's really all there is to it.
 If you want to see me Saturday night at the big event we will be happy to have you.
-7/13/08
-The issue of short term rentals continues to be in the news.
+7/13/08 The issue of short term rentals continues to be in the news.
 Refer to the Archives for more background on the issue.
 Below is the most recent revision of an ordinance presented at our last council meeting (what is referred to as Proposal #2).
-MS Word version with revision markings
-Text version without revision notations
-There is another draft being worked on.
-Here are some comments I have sent to staff regarding a new draft:
-It seems to me that when there is a nuisance situation, the violators as well as the property owner should be held accountable.
+MS Word version with revision markings Text version without revision notations There is another draft being worked on.
+Here are some comments I have sent to staff regarding a new draft: It seems to me that when there is a nuisance situation, the violators as well as the property owner should be held accountable.
 I would suggest the first offense be a warning that the officer has the discretion to give.
 If someone is loud and the officer has to knock on the door, most of the time they will quiet down and the problem is resolved.
 If it re-occurs, reciprocity should be assessed on an escalating basis.
@@ -1611,9 +1450,7 @@ I hope this is helpful.
 I understand there are details to be filled in, but I would like to see an approach like this form the basis of the remedy.
 No action has been taken at this time.
 We want to take our time and do this right.
-7/2/08
-First we will start off with my 15 minutes of national fame, from the June 23rd USA Today:
-Tonight's meeting started off with a discussion of the short term rental issue.
+7/2/08 First we will start off with my 15 minutes of national fame, from the June 23rd USA Today: Tonight's meeting started off with a discussion of the short term rental issue.
 The background is that it is currently illegal in Lago Vista for a person to rent out their house to someone else.
 This may come as a surprise since a lot of people do this not thinking it would be illegal.
 When I first moved here I got a long term assignment in Virginia and considered renting out my house to someone.
@@ -1648,8 +1485,7 @@ I want to mention that these volunteers have put in a lot of work over the last 
 However I must respectfully admit that I have a deep philosophical opposition to the goals and objectives expressed in the Master Plan.
 Any rational reader of this plan would have to admit that it is fundamentally opposed to the principles of a free market.
 Forgive me, but the goals and objectives of this Master Plan are socialist.
-Consider Objective 2.5:
-Objective 2.5: Identify and pursue the types of businesses that allow the City of Lago Vista to be more self sustaining and take advantage of existing commercial and recreational facilities, proximity to Lake Travis and natural hill country aesthetics.
+Consider Objective 2.5: Objective 2.5: Identify and pursue the types of businesses that allow the City of Lago Vista to be more self sustaining and take advantage of existing commercial and recreational facilities, proximity to Lake Travis and natural hill country aesthetics.
 Most of you probably find nothing wrong with that.
 I do.
 It states that is is government's objective to decide which businesses we have.
@@ -1657,19 +1493,16 @@ It clearly rejects the free market.
 When the market dictates demand for a particular good or service, supply meets the demand.
 When government thinks it is smarter than the marketplace, you have socialism.
 The Soviet Union crumbled, North Korea is starving, and Cuba is 50 years behind the times.
-Consider this one:
-Objective 4.3: Develop programs that encourage and provide incentives for the construction of energy efficient residences and use of native plants an low water-use landscaping.
+Consider this one: Objective 4.3: Develop programs that encourage and provide incentives for the construction of energy efficient residences and use of native plants an low water-use landscaping.
 A lot of free market principles are under attack from global warming alarmists.
 They want government to tax you to create house that Al Gore and Austin mayor Will Wynn want you to have.
 If you want efficiency, make sure that fuel and water prices accurately reflect their true cost.
 Let people make their own decisions with their own money.
-Look at this one:
-Objective 4.5: Investigate providing City utilities to predetermined underdeveloped areas within Lago Vista as a development stimulus.
+Look at this one: Objective 4.5: Investigate providing City utilities to predetermined underdeveloped areas within Lago Vista as a development stimulus.
 So we take areas where someone didn't want to develop and force taxpayers to make them develop anyway?
 A developer should put their own money into the project and not force you to subsidize them.
 That is the way the market works.
-The last one I will mention is:
-Objective 8.6: Initiate and develop recreational programs needed by the community that private associations or private interests are not able to provide.
+The last one I will mention is: Objective 8.6: Initiate and develop recreational programs needed by the community that private associations or private interests are not able to provide.
 In order to accept the premise of this objective, you must reject the free market and adopt socialism.
 The premise is that if someone wants something that they can't get enough other people to support, they can use the coercive powers of government to force you to pay for it.
 I cannot help but think what Patrick Henry would think if he knew that people are so willing to give up liberty because government thinks they should force recreational programs on the taxpayers.
@@ -1683,11 +1516,8 @@ We have had rates that were well below that actual cost so we would lose money i
 We are working toward having the utilities be a self sustaining operation and lower you increasing property tax burden.
 That will do for now.
 Have a great Independence Day and remember the principles of economic and individual liberty that are the foundation of our country.
-6/19/08
-I enjoy the opportunity to state my oath to defend the Constitution of the United States.
-Some may consider it a formality, I consider it an obligation:
-Now for the news:
-Our council meeting tonight began with discussion of a request to use the city's swimming pool to run a for-profit swimming lesson.
+6/19/08 I enjoy the opportunity to state my oath to defend the Constitution of the United States.
+Some may consider it a formality, I consider it an obligation: Now for the news: Our council meeting tonight began with discussion of a request to use the city's swimming pool to run a for-profit swimming lesson.
 I support people that get out there and create a profitable business.
 However, the pool is fully booked and we would have to bump someone off the schedule to allow this.
 I would only do so if the business was charged a reasonable fee to cover their impact on maintenance.
@@ -1717,18 +1547,15 @@ I then made another motion approving the compromise as illustrated in the drawin
 This passed.
 A lot of talk about a sign.
 We then discussed budget priorities.
-I decided to become a punching bag by making the following recommendations:
-- Lower the ad valorem tax rate in order to balance the utility rates.
+I decided to become a punching bag by making the following recommendations: - Lower the ad valorem tax rate in order to balance the utility rates.
 For some time I have told you that we sell water for less than it costs.
 This is a disincentive to conservation and prevents serving utilities outside our city limits, which eliminates a potential revenue stream.
 It looks like we have made some progress on this, but I would like to see continued progress in this budget.
-When you are getting killed on property taxes, we need to help give our people a break.
-- We have a bed tax that accrues money in a fund that can only be used to promote tourism.
+When you are getting killed on property taxes, we need to help give our people a break. - We have a bed tax that accrues money in a fund that can only be used to promote tourism.
 I propose abolishing the bed tax and liquidating the funds for their intended purpose.
 We are actually hurting tourism by taxing the people trying to promote tourism.
 No matter how good our city staff is, it is tremendously inefficient to tax the tourism industry and have government try to promote tourism.
-Let's get government out of the tourism industry.
-- Our city participates in a plan that imposes a 1% retail tax on all our local business.
+Let's get government out of the tourism industry. - Our city participates in a plan that imposes a 1% retail tax on all our local business.
 Cities like Rollingwood, Westlake, Cedar Park, and Pflugerville tried it for a while and then found out it was not a good deal and dropped out.
 What I referring to is Capital Metro.
 There are alternatives like CARTS.
@@ -1752,11 +1579,8 @@ Would we ask our police officers to randomly knock on doors and make you prove t
 Let's not create more wacky laws, but repeal the ones that try to micro-manage your life.
 If you haven't hurt anyone or their property, government should leave you alone.
 See you next time!
-6/5/08
-Back in the hot seat again!
-My re-election was greated with the following fanfare:
-So here is the news:
-We started with approval of a bond for expansion of water and wastewater, police building, drainage study, traffic improvements, and fire hydrants.
+6/5/08 Back in the hot seat again!
+My re-election was greated with the following fanfare: So here is the news: We started with approval of a bond for expansion of water and wastewater, police building, drainage study, traffic improvements, and fire hydrants.
 Being a Libertarian you might think I would vote NO anytime we incur tax obligation or debt.
 However, like the 2006 bonds there is impact fee financing behind these bonds, which are a user fee.
 User fees are better than taxes; the people benefitting from the service are the ones who pay.
@@ -1796,22 +1620,8 @@ The motion passed.
 Lastly I will explain my dissenting vote on using $2.4 million from the 2006 bond to buy the Lago Vista golf course.
 It was basically a protest vote that I knew I would loose.
 When I was recognized I told council that council already voted to buy the course and the matter on the floor was whether to finance it this way, but I asked if I could discuss the effluent situation.
-I heard no objection, so I proceeded to say that we currently have the following acreage in use for effluent disposal:
-Lago Vista golf course: 96 acres
-Bar K (The Hills) golf course: 26 acres
-Cedar Breaks: 67 acres
-What we are not using that we already have set aside are:
-Cedar Breaks: 220 acres
-Turnback Canyon: 70 acres
-At the same time, the POA parks would like to have us spray water on their lands.
-This adds up to:
-Cody Park: 61 acres
-Arrowhead Park: 63 acres
-Greenshore Park: 20 acres
-Hancock Park: 40 acres
-Paseo de Vaca/Bar K park: 119 acres
-TOTAL: 303 acres:
-Therefore, we are using 188 acres, but potentially have 773 acres available.
+I heard no objection, so I proceeded to say that we currently have the following acreage in use for effluent disposal: Lago Vista golf course: 96 acres Bar K (The Hills) golf course: 26 acres Cedar Breaks: 67 acres What we are not using that we already have set aside are: Cedar Breaks: 220 acres Turnback Canyon: 70 acres At the same time, the POA parks would like to have us spray water on their lands.
+This adds up to: Cody Park: 61 acres Arrowhead Park: 63 acres Greenshore Park: 20 acres Hancock Park: 40 acres Paseo de Vaca/Bar K park: 119 acres TOTAL: 303 acres: Therefore, we are using 188 acres, but potentially have 773 acres available.
 I fail to see the urgency for using the golf course for effluent.
 We do need to stay ahead and use impact fees to buy future acreage or allow subdivisions to set aside this land like Turnback Canyon did.
 At this point a point of order was raised that my discussion was not pertinent.
@@ -1823,8 +1633,7 @@ Do you believe in the free market, or should government impose taxes to take ove
 Dr Milton Friedman always said the failures are just as important as the successes.
 Well I am tired, but happy to be back on council.
 Despite disagreements I think our council and staff are composed of good people and I look froward to the next 2 years working with them.
-5/20/08
-First, I would like to commend Marcia Gully for running for office and giving the voters a choice.
+5/20/08 First, I would like to commend Marcia Gully for running for office and giving the voters a choice.
 All the candidates gave an opportunity for the people of Lago Vista to determine who is the best person to represent them on city council.
 My margin of victory was not large.
 I understand that many people may not have been voting for Marcia but against me.
@@ -1863,10 +1672,7 @@ This website will offer truth and opinion.
 I will tell you what I know and what I think.
 You can contrast it with The LOG and decide what you believe.
 I will do my best to serve you and uphold the principles of Liberty.
-3/12/08
-This letter was posted in this week's newspaper, The LOG:
-5/20/07
-This is my final post to the site.
+3/12/08 This letter was posted in this week's newspaper, The LOG: 5/20/07 This is my final post to the site.
 It has been an adventure.
 I wish the best to the new council members.
 Take care!
@@ -1924,45 +1730,8 @@ The city will not allow other stores in the retail center to open until this wor
 We agreed for the city to send a letter to the developer stating our position.
 Those were the big items of the night.
 It was a sufficient send off to my rewarding yet challenging 2 year tenure on council.
-5/12/07
-Pat Dixon 443, Susan Euresti 614
-Congratulations to Susan Euresti.
-I wish her well for the next 2 years on city council.
-[IF]
-If you can keep your head when all about you
-Are losing theirs and blaming it on you,
-If you can trust yourself when all men doubt you
-But make allowance for their doubting too,
-If you can wait and not be tired by waiting,
-Or being lied about, don't deal in lies,
-Or being hated, don't give way to hating,
-And yet don't look too good, nor talk too wise:
-If you can dream--and not make dreams your master,
-If you can think--and not make thoughts your aim;
-If you can meet with Triumph and Disaster
-And treat those two impostors just the same;
-If you can bear to hear the truth you've spoken
-Twisted by knaves to make a trap for fools,
-Or watch the things you gave your life to, broken,
-And stoop and build 'em up with worn-out tools:
-If you can make one heap of all your winnings
-And risk it all on one turn of pitch-and-toss,
-And lose, and start again at your beginnings
-And never breath a word about your loss;
-If you can force your heart and nerve and sinew
-To serve your turn long after they are gone,
-And so hold on when there is nothing in you
-Except the Will which says to them: "Hold on!"
-If you can talk with crowds and keep your virtue,
-Or walk with kings--nor lose the common touch,
-If neither foes nor loving friends can hurt you;
-If all men count with you, but none too much,
-If you can fill the unforgiving minute
-With sixty seconds' worth of distance run,
-Yours is the Earth and everything that's in it,
-And--which is more--you'll be a Man, my son!
---Rudyard Kipling
-This website will be shut down in 2 weeks.
+5/12/07 Pat Dixon 443, Susan Euresti 614 Congratulations to Susan Euresti.
+I wish her well for the next 2 years on city council. [IF] If you can keep your head when all about you Are losing theirs and blaming it on you, If you can trust yourself when all men doubt you But make allowance for their doubting too, If you can wait and not be tired by waiting, Or being lied about, don't deal in lies, Or being hated, don't give way to hating, And yet don't look too good, nor talk too wise: If you can dream--and not make dreams your master, If you can think--and not make thoughts your aim; If you can meet with Triumph and Disaster And treat those two impostors just the same; If you can bear to hear the truth you've spoken Twisted by knaves to make a trap for fools, Or watch the things you gave your life to, broken, And stoop and build 'em up with worn-out tools: If you can make one heap of all your winnings And risk it all on one turn of pitch-and-toss, And lose, and start again at your beginnings And never breath a word about your loss; If you can force your heart and nerve and sinew To serve your turn long after they are gone, And so hold on when there is nothing in you Except the Will which says to them: "Hold on!" If you can talk with crowds and keep your virtue, Or walk with kings--nor lose the common touch, If neither foes nor loving friends can hurt you; If all men count with you, but none too much, If you can fill the unforgiving minute With sixty seconds' worth of distance run, Yours is the Earth and everything that's in it, And--which is more--you'll be a Man, my son! --Rudyard Kipling This website will be shut down in 2 weeks.
 5/9/07 Election day is Saturday.
 I first want to tell you about 1st Lieutenant Jacob Warshavsky.
 Several weeks ago Jacob found out about my campaign and asked if he could help.
@@ -1973,8 +1742,7 @@ We should all be proud of those that put their lives on the line in service of o
 I want to let you know about something I have been working on for the city.
 I have discussed this with city staff and expect this to be available soon.
 Below is a description.
-LAGO VISTA ALERT
-The city of Lago Vista has a new service to send public alerts.
+LAGO VISTA ALERT The city of Lago Vista has a new service to send public alerts.
 This system in not a substitute for emergency alert systems for severe weather, national emergencies, or other critical conditions.
 Subscribing to the service is simple.
 A subscription feature is provided on the Lago Vista website www.LagoVistaTexas.ORG and at www.PatDixon.org.
@@ -1993,9 +1761,7 @@ This system was developed at no cost by making use of publicly available service
 There is no cost to the city to maintain this service and there is no subscription fee to the subscribers.
 Below is the subscribe button, which will be placed on the city website when it is fully implemented.
 If you want to sign up during the testing period, feel free.
-Subscribe to LagoVistaAlert
-Powered by groups.yahoo.com
-We recently had one of the all-time record quickest council meetings, only 35 minutes!
+Subscribe to LagoVistaAlert Powered by groups.yahoo.com We recently had one of the all-time record quickest council meetings, only 35 minutes!
 Believe me, they aren't all like that.
 However, I think it is important to make sure your concerns are heard.
 Public sessions can take quite a bit of time, but are very necessary.
@@ -2023,8 +1789,7 @@ It is basically the same as the current procedure except that currently the offi
 By including a sound level measurement they now have the criteria they need.
 This is a difficult issue and it will take some time to work it out.
 If we have open discussions and build some consensus, I think we can find a reasonable solution.
-4/7/07
-First, you are all invited to a Meet the Candidate event at Remington's with free Beer, Drinks, and Appetizer's.
+4/7/07 First, you are all invited to a Meet the Candidate event at Remington's with free Beer, Drinks, and Appetizer's.
 It will be Tuesday April 17 at 7 PM.
 What better thing to do than sip a beer after you file your 1040 form and talk about how we can lower your taxes next year?
 If you have questions, are interested in helping with the campaign, or just want to kick back after dealing with the IRS, come on by!
@@ -2084,8 +1849,7 @@ The volunteers that did this work did a great job.
 Mayor Jones applauded the fact that all the money that went into this project was donated voluntarily, which is terrific.
 I also spent much of the weekend talking to many of you.
 My signs will be ready soon and if you would like one just get in touch.
-Here is what they look like:
-3/26/07 I want to give you an update on an item that has been a long time in coming.
+Here is what they look like: 3/26/07 I want to give you an update on an item that has been a long time in coming.
 We now have all of our local code online at the new city website http://www.lagovistatexas.org.
 If you select the "Information" menu and select "City Ordinances", you can then select the "Lago Vista City Ordinances" link to view all of our code in the Franklin Legal Publishing system.
 I can accept some small degree of credit for pressing this issue to completion by bringing it up at council meetings and keeping it on the docket.
@@ -2097,8 +1861,7 @@ I also think it is good for you to be able to contact me with recommendations fo
 I have had many good discussions in the past few weeks about my campaign for re-election.
 I appreciate the opportunity to discuss the issues that are important to you and welcome your comments.
 I hope to continue to serve you and would appreciate your support on the May 12 election.
-3/2/07
-Get ready to drink from the fire hose.
+3/2/07 Get ready to drink from the fire hose.
 There is a lot of news, so here it goes.
 First, the discussion concerning building heights ran long and will require subsequent discussion.
 Some of the discussion may have been confusing, but I think it was effective at pointing out the difference between public and private legal arrangements.
@@ -2149,18 +1912,15 @@ Next I will recommend "Somebody's Got to Say It. by my buddy Neal Boortz.
 Neal was in town for a book signing recently.
 This book will entertain, challenge, and enrage you.
 Happy reading!
-2/27/07
-Thursday night there will be a discussion on changes to the zoning ordinances.
+2/27/07 Thursday night there will be a discussion on changes to the zoning ordinances.
 The purpose of this meeting is to determine of changes to a zoning ordinance would have any legal conflicts with existing deed restrictions and to gauge to P&Z opinion of restrictions to building height.
 I feel it is important to be very forthcoming and open about what is being discussed.
-Below are some of the documents that will be reviewed:
-(1) Letter to Planning and Zoning discussing proposals.
+Below are some of the documents that will be reviewed: (1) Letter to Planning and Zoning discussing proposals.
 (2) Proposed simplification and consolidation, Table A/B.
 (3) Tommy Thompson's proposed modifications to height restrictions.
 (4) Tommy Thompson's discussion of proposed changes.
 (5) Analysis of lot vacancy and densities.
-2/13/07
-I begin with a clarification of my posting on Jan 18.
+2/13/07 I begin with a clarification of my posting on Jan 18.
 I referred to the misfortune of items that were removed from our agenda due to the ice storm that we had.
 I want to make clear that the city is not at fault for having to delay these issues.
 This was an act of nature that precluded matters from being prepared for our meeting.
@@ -2225,8 +1985,7 @@ YEEHAW!!!
 Actually, it's not all good.
 There were several pending matters that we are having to delay due to the ice storms that shut down the city for 3 days this week.
 This is not good news for the people that were hoping to get approvals to move forward on these pending matters.
-For you out of towners, here is some of the evidence of our misfortune:
-I know you people in Ohio have no sympathy whatever.
+For you out of towners, here is some of the evidence of our misfortune: I know you people in Ohio have no sympathy whatever.
 I grew up the the Cleveland snow belt and still remember snow drifts bigger than me.
 And yes, I still have my Christmas lights up.
 What we did get done is approval a permit for Bruce Fowler to store an airplane at his residence.
@@ -2242,8 +2001,7 @@ While I have you, let me open up another topic that I have been asked about rece
 I am getting asked "Are you going to run for office again"?
 Elections are in May and my 2 year term will expire.
 I have no problem being completely honest with you about my sentiments.
-These are my options:
-1.
+These are my options: 1.
 Don't run.
 I am very busy and am involved with several volunteer and non-profit orgs.
 Oh by the way, I also run a consulting business.
@@ -2353,12 +2111,8 @@ If you only have 28 minutes to spend, please view the following video of Milton 
 Milton Friedman interview).
 If you have another hour, it is well worth listening to this vintage debate with Dr Milton Friedman, again from the 1960s (Debate with Dr Milton Friedman).
 A great demonstration of the greatness of this man.
-11/16/06 Back from a break, I have 3 items for tonight's posting:
-(1) Dr.
-Milton Friedman
-(2) Tonight's council meeting
-(3) City dining tab
-(1) The greatest economist and advocate for the free market of our time passed away today.
+11/16/06 Back from a break, I have 3 items for tonight's posting: (1) Dr.
+Milton Friedman (2) Tonight's council meeting (3) City dining tab (1) The greatest economist and advocate for the free market of our time passed away today.
 Dr.
 Milton Friedman was recognized by many as an effective and persuasive promoter of minimal government intervention, social tolerance, and fiscal responsibility.
 On any matter of economics, he is my primary reference.
@@ -2455,11 +2209,7 @@ I am criticizing specific decisions.
 On this website I have often mentioned that I think the members of council are good people that mean well.
 Last night's council meeting was an example of people working together and achieving consensus with decorum.
 However, when there is bad judgment, I will say so.
-Examples that I have posted on this site are:
-- Approving the mayor's ordinance on meeting rules which had only been introduced the day of the meeting in a private email to council
-- Ignorance of proper procedure when residents want to speak on a matter that affects their property
-- Hypocrisy on the issue of eminent domain
-These are specific issues that I have criticized.
+Examples that I have posted on this site are: - Approving the mayor's ordinance on meeting rules which had only been introduced the day of the meeting in a private email to council - Ignorance of proper procedure when residents want to speak on a matter that affects their property - Hypocrisy on the issue of eminent domain These are specific issues that I have criticized.
 Many of the actions our council has taken have been unanimous and I have supported those decisions on this website.
 However, when the actions of council are contrary to the principles of liberty, free markets, and private property rights, I will not moderate.
 I will not shrink from my responsibility as your elected representative.
@@ -2473,14 +2223,12 @@ It took about a half hour of gently approaching the guy before it would let me t
 I have a neighbor caring for it for the time being.
 She has bird food and a cage.
 If anyone claims this little guy, contact me so we can get this pet back to the owner.
-10/5/06
-HYP-O-CRITE: One who affects virtues or qualities he does not have.
+10/5/06 HYP-O-CRITE: One who affects virtues or qualities he does not have.
 I have said before that I think my fellow council members mean well.
 I do not regard them as evil, and I am sure that in their minds they think they are doing the right thing.
 Yet, how can I respect people that say one thing and do another?
 How can I respect people that will criticize others for the speck in their eye, but ignore the log in their own eye?
-Last year, this was my resolution that your city council unanimously approved:
-BE IT RESOLVED: That the City of Lago Vista proposes that the Texas Municipal League promote to its members cities the importance of defending property rights and limiting municipal eminent domain powers by clearly stating the limits of these powers in their charters and ordinances.
+Last year, this was my resolution that your city council unanimously approved: BE IT RESOLVED: That the City of Lago Vista proposes that the Texas Municipal League promote to its members cities the importance of defending property rights and limiting municipal eminent domain powers by clearly stating the limits of these powers in their charters and ordinances.
 Tonight, when the mayor got to the item that I had placed on the agenda, he immediately asked for a motion.
 This is proper, but very unusual.
 In every case I can remember, the mayor allows Fred Harless, Hugh Farmer, or someone else to advocate their proposal before a motion is made.
@@ -2488,8 +2236,7 @@ When it came to my resolution, he did not ask me to present it.
 He did not ask for discussion.
 He immediately asked for a motion.
 I perceived that the mayor was trying a deliberate tactic to prevent me from speaking.
-I made a motion to approve the following resolution:
-BE IT RESOLVED: The City of Lago Vista formally requests that the next Citizens Review Committee address the definition of "Public Purpose" in section 2.03 of the city charter and consider language to prevent the use of eminent domain for taking private property from one private entity and transferring property to another private entity.
+I made a motion to approve the following resolution: BE IT RESOLVED: The City of Lago Vista formally requests that the next Citizens Review Committee address the definition of "Public Purpose" in section 2.03 of the city charter and consider language to prevent the use of eminent domain for taking private property from one private entity and transferring property to another private entity.
 It was quite apparent that my fellow council members did not even read the one-page resolution I had placed in the binders that all council members received last weekend.
 I would also bet they didn't read anything I had put together and placed in the binder at our last meeting concerning this subject.
 As proof, the mayor did not know what resolution I was referring to, and I had to tell him where it was in the binder and show him the paper copy.
@@ -2500,8 +2247,7 @@ Nobody did anything.
 Nobody did as much as ask a question.
 Nobody would second my motion.
 The motion failed.
-Perhaps they would be more receptive to this motion:
-Mayor, I move that the person reading this website have their property condemned and acquired through eminent domain so that we can give it to someone else that we can take more tax revenue from.
+Perhaps they would be more receptive to this motion: Mayor, I move that the person reading this website have their property condemned and acquired through eminent domain so that we can give it to someone else that we can take more tax revenue from.
 Apparently, your council members are much happier about endorsing such an assault on private property rights, but they would probably find an excuse to have a closed door executive session to hide such intentions.
 Why will council not even discuss the issue of private property rights in Lago Vista?
 They are very willing to talk about how terrible some other city is, but when it come to accepting responsibility for cleaning up our own issues, they ignore them and continue to criticize others for the same laws we have on our own books.
@@ -2533,15 +2279,13 @@ I don't have cable TV because I don't have time to watch it.
 I have plenty of productive things to do that keep me fully engaged and allow me to work with good people and achieve great things.
 HYPOCRITES!
 At the close of the meeting, the mayor asked if there were any items for future council meetings.
-I seriously considered the following:
-Mayor, I would like an item placed on the agenda to condemn the properties of Randy Kruger, Mike Thornton, Hugh Farmer, Fred Harless, Bob Bradley, and Dennis Jones to acquire through eminent domain and place a mini Wal-Mart on each one.
+I seriously considered the following: Mayor, I would like an item placed on the agenda to condemn the properties of Randy Kruger, Mike Thornton, Hugh Farmer, Fred Harless, Bob Bradley, and Dennis Jones to acquire through eminent domain and place a mini Wal-Mart on each one.
 You are the ones that have the power.
 You have the vote.
 You are "We The People".
 You get to determine whether those that represent you will follow through on their commitments, do what they said they would do, or you can elect ...
 HYPOCRITES!
-10/3/06 "Why do you look at the speck that is in your brother's eye, but do not notice that log that is in your own eye?" Matthew 7:3
-On Thursday I will make a motion to ask council to pass a resolution.
+10/3/06 "Why do you look at the speck that is in your brother's eye, but do not notice that log that is in your own eye?" Matthew 7:3 On Thursday I will make a motion to ask council to pass a resolution.
 A resolution is not law.
 It is a formal statement from council.
 The statement on Thursday will be for council to back up what they said last year on the subject of eminent domain.
@@ -2558,16 +2302,8 @@ In the wake of the Supreme Court's Kelo decision, "public purpose" could mean ju
 By passing this resolution on Thursday, council is giving this committee a specific item to address.
 It is not binding and the committee is free to do as they wish.
 However, council will be on record stating their expectations from the committee.
-The resolution is:
-A RESOLUTION REGARDING THE DEFINITION OF THE "PUBLIC PURPOSE" CLAUSE IN SECTION 2.03 (EMINENT DOMAIN) OF THE CITY CHARTER
-WHEREAS: The June 2005 US Supreme Court ruling in the Kelo vs.
-New London case further exposed the threat of private property owners to government condemnation and taking of their property to transfer to private entities;
-WHEREAS: In the wake of this ruling, cities across the United States and Texas passed ordinances restricting the eminent domain powers of government;
-WHEREAS: The City of Lago Vista unanimously passed a resolution in 2005 "That the City of Lago Vista proposes that the Texas Municipal League promote to its member cities the importance of defending property rights and limiting municipal eminent domain powers by clearly stating the limits of these powers in their charters and ordinances.";
-WHEREAS: The property owners of Lago Vista depend upon city government to defend their property rights;
-WHEREAS: Per section 11.14 of the city charter, there will be a Citizens Review Committee established in 2007 to review the city charter and recommend changes;
-NOW, THEREFORE, BE IT RESOLVED BY THE CITY COUNCIL OF THE CITY OF LAGO VISTA, TEXAS, THAT:
-The City of Lago Vista formally requests that the 2007 Citizens Review Committee address the definition of "Public Purpose" in section 2.03 of the city charter and consider language to prevent the use of eminent domain for taking private property from one private entity and transferring property to another private entity.
+The resolution is: A RESOLUTION REGARDING THE DEFINITION OF THE "PUBLIC PURPOSE" CLAUSE IN SECTION 2.03 (EMINENT DOMAIN) OF THE CITY CHARTER WHEREAS: The June 2005 US Supreme Court ruling in the Kelo vs.
+New London case further exposed the threat of private property owners to government condemnation and taking of their property to transfer to private entities; WHEREAS: In the wake of this ruling, cities across the United States and Texas passed ordinances restricting the eminent domain powers of government; WHEREAS: The City of Lago Vista unanimously passed a resolution in 2005 "That the City of Lago Vista proposes that the Texas Municipal League promote to its member cities the importance of defending property rights and limiting municipal eminent domain powers by clearly stating the limits of these powers in their charters and ordinances."; WHEREAS: The property owners of Lago Vista depend upon city government to defend their property rights; WHEREAS: Per section 11.14 of the city charter, there will be a Citizens Review Committee established in 2007 to review the city charter and recommend changes; NOW, THEREFORE, BE IT RESOLVED BY THE CITY COUNCIL OF THE CITY OF LAGO VISTA, TEXAS, THAT: The City of Lago Vista formally requests that the 2007 Citizens Review Committee address the definition of "Public Purpose" in section 2.03 of the city charter and consider language to prevent the use of eminent domain for taking private property from one private entity and transferring property to another private entity.
 Let's hope that on Thursday, council will recognize the log in our own eye and back up what we said last year.
 9/21/06 Do you want to empower government to take away your property, or empower yourself to protect your property?
 We got some clear answers tonight on where council stands on protecting your property rights.
@@ -2684,10 +2420,8 @@ Why hasn't Lago Vista done this?
 Does Austin respect private property rights more than Lago Vista?
 Let's get with it!
 That's all for now.
-8/24/06 "The reason poor people are poor is that they keep doing the things that make them poor." Neal Boortz, Boortz.com
-This morning we had our budget meeting.
-One of the items that was discussed concerned Capital Metro
-There have been 4 cities (Rollingwood, Westlake, Cedar Park, and Pflugerville) that have all left the Capital Metro service plan.
+8/24/06 "The reason poor people are poor is that they keep doing the things that make them poor." Neal Boortz, Boortz.com This morning we had our budget meeting.
+One of the items that was discussed concerned Capital Metro There have been 4 cities (Rollingwood, Westlake, Cedar Park, and Pflugerville) that have all left the Capital Metro service plan.
 The concern is how much in taxes are being paid for the services provided.
 Every retail business in Lago Vista adds a 1% tax on every item sold.
 Capital Metro collects this tax from cities that participate in its service plan.
@@ -2705,8 +2439,7 @@ They do not provide any finer breakdown on the boardings, but there is unlikely 
 Is it worth $188,000 to transport 15 people?
 In the budget discussion, we discussed the need to get more details on what we are getting for our money.
 The main points of discussion were that public transportation will never be cost effective, but you have to provide it for the poor people.
-The consensus was that council needs more detailed information about
-I must commend councilman Fred Harless.
+The consensus was that council needs more detailed information about I must commend councilman Fred Harless.
 As many of you know, Fred is the board secretary of Capital Metro.
 Fred was very rational and cooperative in discussing this issue.
 We learned quite a bit from this conversation.
@@ -2926,32 +2659,14 @@ Currently there is no involvement from the Building Committee, so we will make o
 In about a month we will meet again and start to consider specific proposals.
 I have a pertinent reading assignment that I highly recommend.
 Even if you only read the first few pages, it makes some very good arguments for protecting private property rights.
-Please take a look at this study on property rights reform from the Reason Foundation
-7/6/06 Do you know your tax rate?
+Please take a look at this study on property rights reform from the Reason Foundation 7/6/06 Do you know your tax rate?
 Tonight during council we had a discussion of the budget.
 We had just gone over 2 reports showing the water rationing we may have to enforce because of drought and the water rates in Lago Vista that are much lower than just about anywhere else in the area.
 I stated that we need to have a proper balance between what we charge for water and what we demand in taxes.
 I stated that although the Lago Vista water rates are the lowest in the area, our property taxes are the highest.
 "That's not true!" replied Mayor Dennis Jones.
 Both he and Fred Harless took the position that our tax rate could not possibly be the highest in the area.
-Ad Valorem tax rates (municipal tax rate per $100 appraised value):
-Lago Vista, $0.675
-Pflugerville, $0.635
-Jonestown, $0.625
-Lockhart, $0.615
-Leander, $0.548
-Bastrop, $0.5277
-Burnet, $0.52
-Cedar Park, $0.518
-Hutto, $0.494
-San Marcos, $0.471
-Austin, $0.443
-Marble Falls, $0.42
-Round Rock, $0.371
-Georgetown, $0.346
-Kyle, $0.277
-Lakeway, $0.2275
-Tonight's meeting was lengthy, starting with a planning and zoning meeting.
+Ad Valorem tax rates (municipal tax rate per $100 appraised value): Lago Vista, $0.675 Pflugerville, $0.635 Jonestown, $0.625 Lockhart, $0.615 Leander, $0.548 Bastrop, $0.5277 Burnet, $0.52 Cedar Park, $0.518 Hutto, $0.494 San Marcos, $0.471 Austin, $0.443 Marble Falls, $0.42 Round Rock, $0.371 Georgetown, $0.346 Kyle, $0.277 Lakeway, $0.2275 Tonight's meeting was lengthy, starting with a planning and zoning meeting.
 I was asked to comment on the effort I am making with staff to simplify the zoning ordinance.
 This is not an intent to change zoning, but to simplify what what already have.
 He have about 29 different zoning classifications and it is very cumbersome.
@@ -2968,10 +2683,8 @@ We also approved a recognition of $250 for each of the 40 some employees of the 
 Our current finances are in good shape.
 I see this as a cost saving investment to retain good staff.
 It is very costly to lose quality and experienced personel.
-Lastly, I will leave you with a reading assignment "The Politics of Sky-High Housing Prices"
-I hope you have a better handle on your tax rate than some people I know!
-6/28/06 Here's what's up:
-Let's start with the dear subject of deer.
+Lastly, I will leave you with a reading assignment "The Politics of Sky-High Housing Prices" I hope you have a better handle on your tax rate than some people I know!
+6/28/06 Here's what's up: Let's start with the dear subject of deer.
 When I first got on council I dug through the details of the monthly reports.
 I did notice the number of reported incidents of clearing dead deer from the road.
 I think the number is roughly 20/month.
@@ -3122,8 +2835,7 @@ We are trying to determine whether our utilities should offer service to develop
 I want to make it very clear that Centex should not create the study.
 I only asked that they fund the hiring of an independent engineer to produce the study.
 It is not that I don't trust Centex, but we don't want the developer to just turn around and say "We did our study and it says you can give us water real cheap." By appointing an independent firm, both the city and Centex can review the study and determine its accuracy.
-The study should contain at least 2 things:
-1.
+The study should contain at least 2 things: 1.
 It needs to have the long term water service capacity for the city, and any additional capacity to serve outside areas.
 We know how many vacant lots we have in the city limits.
 The tax appraiser Art Cory says it would take another 40 years to fully populate these lots.
@@ -3175,8 +2887,7 @@ It could be argued that if nobody responded, the mayor still "exchanged" his adv
 Before I open the fire hose and drench you with a detailed chronology, you have a decision to make.
 Does this matter?
 Will you scrutinize the people that govern you and make them deal honestly and openly with you on the important issues that effect your rights, your property, and your family?
-Chronological history of events:
-May 5, 2005: Dixon is elected to Lago Vista city council, place 1.
+Chronological history of events: May 5, 2005: Dixon is elected to Lago Vista city council, place 1.
 July 7, 2005: At Lago Vista council meeting, Dixon informed council that there is no ordinance addressing rules of order for council meetings, as mandated by the city charter.
 Dixon asked Mayor Jones to add discussion of this issue as a working session for a future council meeting agenda.
 July 21, 2005: In council working session, Dixon discussed council meeting procedures and his preference for adopting Roberts Rules of Order.
@@ -3260,8 +2971,7 @@ May 22, 2006: Replies from the Freedom of Information Foundation of Texas (www.f
 The interpretation of "verbal exchange" does include email correspondence, but it is not clear if there is an "exchange" if none of the council members reply.
 May 24, 2006: A reply from the Travis County Attorney (David Escamilla) confirmed that such an email advocacy without public notice is a very gray area in the TOMA and is very risky.
 Council members should definitely avoid doing this.
-END OF STORY
-5/18/06 The following is NOT an apology ...
+END OF STORY 5/18/06 The following is NOT an apology ...
 Patti Ulrich spoke to me on Aril 13, 2005 at the Deli Werks candidate forum.
 She said she did not like some things about how I presented myself at Randy Kruger's campaign event and the Republican Club's meeting, but said that she and her husband John could be listed as endorsements for my campaign.
 I told her that I appreciated her candid feedback and her endorsement, which I placed on my website soon after.
@@ -3308,8 +3018,7 @@ If anyone else wants their endorsement removed because I am not in their club, I
 Just don't ask for an apology.
 5/13/06 We had an executive session on Wednesday morning to discuss the Villa Montechino replat and PDD (Planned Development District).
 Following the meeting, Planning and Zoning had their meeting to vote on these items.
-Since I still earn an income and have client obligations, I left planning and zoning the following note:
-We also had the first of 2 public hearings on requested annexations by Centex and Velton Crawford.
+Since I still earn an income and have client obligations, I left planning and zoning the following note: We also had the first of 2 public hearings on requested annexations by Centex and Velton Crawford.
 We will have the second hearing next Thursday.
 5/7/06 I have not had time until now to update the site because of our choir's (TXConsort.org) performances of Mozart's "Requiem" this weekend.
 Better late than never.
@@ -3389,12 +3098,7 @@ You have a split second to make a call on your best judgment and stick with it.
 You cannot ask the teams to do the play over if you have doubts about what you saw.
 You make the call and move on to the next play.
 You will make mistakes, but most of the time you get it right.
-I decided that:
-- The development agreement is now available to the public for anyone that wants to see what we voted on.
-- The proposed zoning changes are also available to the public prior to our consideration.
-- The main concerns are not the development agreement but the zoning.
-- There will be a public hearing on the zoning changes.
-- If the zoning is not approved, the development agreement has no bearing.
+I decided that: - The development agreement is now available to the public for anyone that wants to see what we voted on. - The proposed zoning changes are also available to the public prior to our consideration. - The main concerns are not the development agreement but the zoning. - There will be a public hearing on the zoning changes. - If the zoning is not approved, the development agreement has no bearing.
 I made the motion to approve the development agreement.
 It passed with 2 voting NO.
 I left tonight knowing that the vote was not easy, but it takes courage to do your best, take action, and move on.
@@ -3405,8 +3109,7 @@ We already have very complex regulations on development, and do not need to add 
 Certainly if someone owned a tract of land and planted a subdivision with upscale buildings, that is fine.
 Insisting that everyone in Lago Vista has to jump through more hoops and add bureaucracy to our city building process is not something I can support.
 I won't be there to comment, so I'll see how it turns out.
-4/12/06 "Sometimes you're the windshield, sometimes you're the bug"
-After the 2 meeting we had yesterday, it is obvious that the federal and state governments are the windshield and the rest of us are bugs.
+4/12/06 "Sometimes you're the windshield, sometimes you're the bug" After the 2 meeting we had yesterday, it is obvious that the federal and state governments are the windshield and the rest of us are bugs.
 We had a meeting with FEMA regarding the flood plain maps yesterday.
 I could write an entire book on this subject, but the result is that there are no options.
 We are forced under duress of the federal government to increase the flood plain from 716 to 723 ft and deny building permits below the new level.
@@ -3439,20 +3142,16 @@ I blame the people in elected state office for wasting our money and creating an
 There are times when we in local government cannot defend your rights and property.
 The people we have put in US Congress and state office are the ones that created the windshield.
 It is time for us bugs to revolt.
-4/9/06 Some calendar updates, some of which have nothing to do with city council, but are of interest to Lago Vista:
-Today I stopped into Sun Hardware and was delighted to see an information table regarding "The FairTax".
+4/9/06 Some calendar updates, some of which have nothing to do with city council, but are of interest to Lago Vista: Today I stopped into Sun Hardware and was delighted to see an information table regarding "The FairTax".
 If you don't know what that is, Monday evening 5:30 PM at the POA Activity Center there will be a presentation from Americans for Fair Taxation (www.FairTax.org) on this bill that currently has 54 sponsors in Congress and a NY Times #1 best selling book written by my friend Neal Boortz (Boortz.com).
 If I can drag you away from your 1040 form long enough, it will be well worth your while to know how we can end the IRS all together.
-I have signed on and endorsed the plan, and have been on television debating its merits (Click to see video)
-Unfortunately I will not be able to attend.
+I have signed on and endorsed the plan, and have been on television debating its merits (Click to see video) Unfortunately I will not be able to attend.
 Many of you know that I perform in a classical music organization, the Texas Choral Consort (www.TXConsort.org).
-We have a rehearsal for "Mozart's Requiem" that evening
-That is an excellent segue into another calendar event, which is the Hill Country Singers performances on April 29 and 30.
+We have a rehearsal for "Mozart's Requiem" that evening That is an excellent segue into another calendar event, which is the Hill Country Singers performances on April 29 and 30.
 I bought my ticket!
 Council has a meeting on Tuesday at 2:00 PM with representatives of FEMA regarding the floodplane maps and flood insurance.
 This is an issue that has a lot of people concerned, so hopefully we can address some of the questions you may have.
-The meeting will be held at city hall
-Later that evening at 7:00 PM, council and the school board has a meeting with the county tax appraiser.
+The meeting will be held at city hall Later that evening at 7:00 PM, council and the school board has a meeting with the county tax appraiser.
 It appears appraised values may go up, and this is an opportunity to raise questions and get answers.
 This presentation will be at the high school's Viking Hall.
 Lastly, as I mentioned before I will not be present for the April 20 council meeting.
@@ -3495,11 +3194,9 @@ I am concerned of the potential loss of life from auto accidents for failure to 
 We all love the furry critters, but we need to consider the cost and safety to our residents.
 I handed an article from Mike Leggett, outdoors writer for the Austin Statesman, to each council member which shows what approaches do and don't work for adressing the deer population problem.
 I think if we stay ahead of the game we will all be better off.
-Good night, all
-3/29/06 Good news.
+Good night, all 3/29/06 Good news.
 No, I did not save a bunch of money on car insurance.
-The good news is a good audit
-Tonight we reviewed the annual audit with the auditor.
+The good news is a good audit Tonight we reviewed the annual audit with the auditor.
 Generally, we are in good shape.
 The auditor gave us the highest possible rating .
 Feel free to go to city hall and look it over.
@@ -3519,37 +3216,21 @@ The other issue is that it makes accounting unclear.
 Ideally, utilities should operate like a stand alone business and charge rates that cover the true cost.
 Right now, we are taxing you at a high rate and using this to subsidize the utility department.
 As I have often said, the people that use the service are the ones that should pay for it.
-Consider this:
-* Our method of using general taxation to pay for utilities is unusual compared to other cities.
-The auditor serves on Pflugerville council, and told us that they use the common practice of having the utility department as a stand alone operation and do not co-mingle with the general fund
-* Our utility rates are way lower than anywhere else around
-* Those rates do not cover the true cost of the utilities
-* We are taxing you at a high rate to make up the difference
-* We are expecting drought conditions for the next 3 years.
-If people think water is cheap, they won't conserve
-I think there is general consensus on council now to correct the imbalance to lower the tax rate and have the utility rate reflect the true cost.
+Consider this: * Our method of using general taxation to pay for utilities is unusual compared to other cities.
+The auditor serves on Pflugerville council, and told us that they use the common practice of having the utility department as a stand alone operation and do not co-mingle with the general fund * Our utility rates are way lower than anywhere else around * Those rates do not cover the true cost of the utilities * We are taxing you at a high rate to make up the difference * We are expecting drought conditions for the next 3 years.
+If people think water is cheap, they won't conserve I think there is general consensus on council now to correct the imbalance to lower the tax rate and have the utility rate reflect the true cost.
 One of the first things I look at in an audit is debt.
 I am probably the council member that is most interested in this number.
-The history history of long term debt obligation to you, the taxpayer, is:
-2000, $15 million
-2001, $30 million
-2002, $28 million
-2003, $27 million
-2004, $34 million
-2005, $32 million
-The good news is that our debt is not on an ever increasing trajectory, unlike US Congress.
+The history history of long term debt obligation to you, the taxpayer, is: 2000, $15 million 2001, $30 million 2002, $28 million 2003, $27 million 2004, $34 million 2005, $32 million The good news is that our debt is not on an ever increasing trajectory, unlike US Congress.
 I will work to keep this number from getting out of hand.
 I want to compliment the auditor, Blakeslee, Monzingo & Co, for their good work and for being very helpful in answering our question with a good command of facts and patience.
 I want to compliment our city manager and staff whom the auditor said did an excellent job preparing information and were very cooperative to work with.
 I also compliment our council for digging in and getting a good feel for our fiscal position.
-3/16/06Who's the leader of the fight to end tax subsidies?
+3/16/06 Who's the leader of the fight to end tax subsidies?
 MIC - KEY - DIXON!
 Do I want a grocery store?
-YES
-Do I want a corporate welfare tax subsidy?
-NO
-Now from the ridiculous to the mundane
-Tonight's council meeting went pretty smooth.
+YES Do I want a corporate welfare tax subsidy?
+NO Now from the ridiculous to the mundane Tonight's council meeting went pretty smooth.
 We approved plats for Centex and Dollar General.
 The Centex project got some attention recently from allegations that the city gave them pre-mature permission to start work.
 This is incorrect.
@@ -3579,8 +3260,7 @@ Trying to micro-manage this by adding to the mountain of bureaucracy does not so
 It is midnight and time to take off my mouse ears.
 Good night!
 3/3/06 We now have a grocery store, hurray!
-I, along with all of you, am happy about this
-What I am not happy about is corporate welfare.
+I, along with all of you, am happy about this What I am not happy about is corporate welfare.
 That is why I was the lone dissenting vote opposing a tax subsidy to Super S Foods.
 I am not sure what I can and can't tell you about the terms, as it was discussed in executive session.
 However, what I can say is that I remain committed to the principles that I expressed in the campaign, while on council, and on this site.
@@ -3659,15 +3339,13 @@ All I could do is stare at him in amazement that anyone could take offense at my
 How many of you have read thus far?
 Have I put you to sleep?
 Does this all seem mundane and trivial?
-"Those who can be trusted with small deeds can be trusted with great deeds"
-If I am the only one who cares about doing things properly, we will continue proceeding improperly.
+"Those who can be trusted with small deeds can be trusted with great deeds" If I am the only one who cares about doing things properly, we will continue proceeding improperly.
 When will you care enough to demonstrate that you care?
 We did end up approving of allowing Centex to begin work.
 I now have some good news.
 The police department continues to get some very complementary letters regarding the professionalism and courtesy of the officers.
 See the letters from residents Tami Hood and Steve Smith .
-2/18/06
-Nothing earth shattering occurred at the council meeting.
+2/18/06 Nothing earth shattering occurred at the council meeting.
 As listed on the meeting agenda, the Casa Lago resort (The Inn) is delinquent in payment of taxes.
 As you know, I am a tax fighter.
 I want to reduce taxation and allow residents to make choices when it comes to spending money.
@@ -3713,8 +3391,7 @@ Myers describes how he became concerned for his daughter, who lives in Lago Vist
 She was undergoing an extreme amount of stress and Myers feared for her well being after several days of not being able to reach her by phone.
 Myers contacted the police department to check on her, and describes how the department personnel and officers were very kind, understanding, skilled, and professional in handling the situation.
 It turned out their daughter was OK, but in appreciation Myers wrote a check for $500 to the Lago Vista Police Department!
-(Click here to see the actual letter)
-Floyd Myers had no obligation to do this.
+(Click here to see the actual letter) Floyd Myers had no obligation to do this.
 Nobody put a gun to his head and forced him to compensate for the work the police did.
 I think I can speculate that Myers felt that it is proper for him to compensate since he the beneficiary of this work.
 Recall that I asked you to do the same.
@@ -3752,15 +3429,13 @@ I have shown that our current local laws have similar language to that of cities
 Many cities, including Austin, have passed changes to make certain the definition is more specific to prevent property takings as in Kelo.
 If you made it this far, you are as tired from reading as I am from writing.
 Let's take a break and sleep on it.
-1/27/06 Below is the letter sent to the Travis County Elections Division concerning last week's council meeting:
-This letter is to express the concern from the City of Lago Vista that the lack of a verifiable paper trail in the voting process is troubling.
+1/27/06 Below is the letter sent to the Travis County Elections Division concerning last week's council meeting: This letter is to express the concern from the City of Lago Vista that the lack of a verifiable paper trail in the voting process is troubling.
 Our city feels that it is important to ensure the integrity of the voting process.
 We do not make any allegation that the Travis County Elections Division has been negligent or fraudulent in the voting services provided.
 We understand the merits of efficiency in the use of electronic voting machines, and understand that they are mandated by the federal HAVA (Help America Vote Act) law.
 However, we urge Travis County to consider offering such voting machines with the option of producing a hard copy ballot to be used for validation and recount.
 1/19/06 "Blest are you when they insult you and persecute you and utter every kind of slander against you because of Me.
-Be glad and rejoice, for your reward is great in heaven; they persecuted the prophets before you in the very same way." Matthew 5, 11-12
-I begin at the end.
+Be glad and rejoice, for your reward is great in heaven; they persecuted the prophets before you in the very same way." Matthew 5, 11-12 I begin at the end.
 The last item we discussed at tonight's council meeting was the inflammatory rhetoric of some residents that has been in the local paper and elsewhere concerning our city government.
 I commend council member Bob Bradley for speaking up about this issue.
 It is not comfortable to discuss publicly, but it is far healthier to cut into the patient than to let a cancer spread in the dark.
@@ -3793,10 +3468,8 @@ I cannot control someone's interpretation.
 Will this stop me from posting to this website?
 Should the city command me to shut this down?
 How about if I just wear a muzzle at council meetings?
-I wouldn't let that happen
-My request to residents is to talk to us when you don't like something.
-If you spout off without being informed, you are playing the fool
-My request to council is to grow a hard shell.
+I wouldn't let that happen My request to residents is to talk to us when you don't like something.
+If you spout off without being informed, you are playing the fool My request to council is to grow a hard shell.
 I have lived in cities filled with intense hatred, and what we have is nowhere close.
 On other more mundane matters, I was successful in getting the support of council to request the Travis County Elections Division to consider offering electronic voting machines that provide a verifiable paper trail.
 I realize the efficiency of the electronic machines and the federal HAVA mandate to use these machines, but I fail to see how it is asking too much to provide a hard copy to verify the ballot you cast and allow you to drop it into a voting box to be used in case of a recount.
@@ -3817,8 +3490,7 @@ I certainly appreciate scrutiny of proper procedure, but from my perspective we 
 I do not know Mr Atlas well enough to know if he will build a big beautiful palace that will be the jewel of the hill country, or if he is just a fly by nightoutfit.
 What I do know is that he has purchased the property and wants to get busy, and I so no reason to make more hoops for him to jump through.
 I close by suggesting everyone in Lago Vista read John 15, 18-27.
-PEACE
-1/17/06 : I decided to move the information about the volunteer organizations to my Donate page.
+PEACE 1/17/06 : I decided to move the information about the volunteer organizations to my Donate page.
 The need to support volunteer organizations in our area is all year long, so please consider supporting them.
 The inquiry concerning the Texas Open Meetings Act has been received by the district attorney's office.
 There is no definitive date for the reply, but it is being investigated.
@@ -3857,8 +3529,7 @@ When this occurs, I argue my position to my best ability and then move on to the
 Regarding comments that there is a dark side to our city government, I haven't seen it.
 I am still very upset at the process (or lack thereof) at recent meetings, but I say for the 100th time that I have no evidence of any intentional malice.
 I am hearing much speculation about motives, and much of this is unfounded.
-Lastly, for those visitors to this site around the country, here are my recent contributions to local headlines:
-12/19/05 : William McKammie (www.mckamielaw.com) runs a law office in San Antonio.
+Lastly, for those visitors to this site around the country, here are my recent contributions to local headlines: 12/19/05 : William McKammie (www.mckamielaw.com) runs a law office in San Antonio.
 On November 30, the mayor brought him in to spend an entire day training council members on the Texas Open Meetings Act.
 I spoke to Mr McKamie today, and he confirmed my interpretation of the mayor's actions.
 The mayor, 16 days after being trained on the Open Meetings Act, clearly violated the law.
@@ -3872,9 +3543,7 @@ At the same time, he has been recognized as an expert in the use of impact fees 
 Streets have been paved, water towers built, a new city hall built, sewer and drainage projects completed, all using impact fees while increasing city staff salaries to remain competitive and reducing the tax rate.
 He is recognized as a model for municipal leadership in Texas.
 He is now running for Guadalupe commissioner's court in the 2006 general elections.
-I want you to see what he says about last week's meeting:
-Pat,
-Sorry I missed your phone call the other night, but I was busy going door-to-door gathering signatures on my petition to have my name placed on the March primary ballot for county judge.
+I want you to see what he says about last week's meeting: Pat, Sorry I missed your phone call the other night, but I was busy going door-to-door gathering signatures on my petition to have my name placed on the March primary ballot for county judge.
 See attached flyer.
 WOW!
 I find it amazing how any governing body could operate a meeting on anything but Roberts Rules of Order.
@@ -3900,14 +3569,12 @@ You will need to decide if you want to be a protected source (1st amendment righ
 Sometimes the press can put enough pressure on elected officials not to sweep transgressions under the rug.
 Good Luck!
 I am appalled that your mayor would openly resort to undermining what clearly is a legitimate topic for for discussion at a council meeting.
-Charles
-P.S.
+Charles P.S.
 Obviously your mayor is not familiar with Roberts Rules.
 Otherwise, he would know that a presiding officer may rule on disruptions or other non-productive procedural ploys as "dilatory." Tell him to look it up!
 This is how the actions of our council are regarded by our peers.
 12/15/05 : Tonight's council meeting did not fill me with the Christmas spirit.
-You might say I need a bit of cheering up
-I will start with a disclaimer: I do respect the members of council and staff.
+You might say I need a bit of cheering up I will start with a disclaimer: I do respect the members of council and staff.
 These are good people with the best of intentions.
 Our council is composed of accomplished people that may disagree on issues, but offer excellent insight and experience when considering matters presented to them.
 Having said that, I have no explanation for the ridiculous ordinance that the other council members passed into law tonight that frankly says "We have established rules, but they make no sense." Specifically, the ordinance we approved tonight to govern our council meetings was presented for the first time by email to council at 11:07 today.
@@ -3942,23 +3609,14 @@ I couldn't believe it!
 I would expect at least the consideration we give every other law we consider; present the ordinance in a working session for comment so that we can make an informed vote at a later council meeting.
 I would have at least expected the mayor to tell me "Hey Pat, I would like to take action on this matter, so let's get together and work out something that we can present to council." Instead, I get this covert tactic.
 So I took all the research I had worked on and put together a draft ordinance over the weekend so that we would have something to actually vote on.
-On Monday morning at 8:42 I sent the following email to the mayor and city manager:
-From: Patrick Dixon
-Date: Mon, 12 Dec 2005 08:42:15 -0600
-To: DennisJones, Bill Angelo
-Conversation: Council Rules of Order
-Subject: Council Rules of Order
-Mayor,
-I saw that the agenda has an action item regarding rules of order for council meetings.
+On Monday morning at 8:42 I sent the following email to the mayor and city manager: From: Patrick Dixon Date: Mon, 12 Dec 2005 08:42:15 -0600 To: DennisJones, Bill Angelo Conversation: Council Rules of Order Subject: Council Rules of Order Mayor, I saw that the agenda has an action item regarding rules of order for council meetings.
 I have been working on an ordinance for this topic.
 I have been reviewing similar ordinances in other cities and have used some of their language in my draft.
 I would like to use this as a starting point.
 Perhaps I could meet with you tomorrow morning 8:00 at city hall to discuss further.
-Attached is the draft ordinance
-That evening I asked the city manager what was the appropriate way to disseminate the proposed ordinance to council so that they have a chance to read it before addressing it.
+Attached is the draft ordinance That evening I asked the city manager what was the appropriate way to disseminate the proposed ordinance to council so that they have a chance to read it before addressing it.
 He said to send it to the secretary to send to council.
-On Tuesday morning at 7:31 I sent an email to the secretary and city manager to forward my draft to council
-The mayor never replied to my email.
+On Tuesday morning at 7:31 I sent an email to the secretary and city manager to forward my draft to council The mayor never replied to my email.
 I tried to reach him by phone several times, but could not reach him.
 Today, the mayor has an email sent to council at 11:07 containing my draft.
 But that's not all.
@@ -3978,12 +3636,7 @@ How would you like to be a council member in New London, Connecticut after the K
 I am certain the Texas Municipal League never intended for anyone to adopt their loose discussion of meeting rules as actual law!
 But then, they didn't anticipate our council.
 But that's not all!
-How would you feel if you had spent several months doing all this research, finding out you have 5 days before the issue will be voted on, rushed to present something in advance of the meeting, and then have the mayor send the following email to council today at 8:53 this morning:
-DATE: DECEMBER 13, 2005
-TO: CITY COUNCIL AND STAFF
-FROM: MAYOR DENNIS JONES
-SUBJECT: MEETINGS
-Although I sincerely appreciate Council Member Dixons initiative in this matter, I do not agree with him and particularly disagree in regards to adopting Robert Rules.
+How would you feel if you had spent several months doing all this research, finding out you have 5 days before the issue will be voted on, rushed to present something in advance of the meeting, and then have the mayor send the following email to council today at 8:53 this morning: DATE: DECEMBER 13, 2005 TO: CITY COUNCIL AND STAFF FROM: MAYOR DENNIS JONES SUBJECT: MEETINGS Although I sincerely appreciate Council Member Dixons initiative in this matter, I do not agree with him and particularly disagree in regards to adopting Robert Rules.
 Our meetings are going fine.
 I am strongly opposed adopting Roberts Rules of Order.
 It allows too many ways someone could disrupt a meeting or tie up the meeting on procedural matters rather than the real issues at hand.
@@ -4011,8 +3664,7 @@ It is now 11:00 at night and at some point I will stop writing and go to bed.
 However, consider this.
 This council has no problem spending weeks and months deliberating over complex and voluminous laws that impact your property rights and personal liberty.
 A casual look at our zoning ordinances demonstrates that council doesn't care too much about throwing lots of obstacles in your way.
-However, when it comes to governing themselves, this council is not willing to spend any time to consider whether we are passing good law and is afraid to actually follow rules that govern city councils, non-profit boards, corporate board rooms, the state legislature, and every other respectable institution
-I will close by re-visiting my disclaimer.
+However, when it comes to governing themselves, this council is not willing to spend any time to consider whether we are passing good law and is afraid to actually follow rules that govern city councils, non-profit boards, corporate board rooms, the state legislature, and every other respectable institution I will close by re-visiting my disclaimer.
 I have said a lot of things about the mayor and council.
 I have strong disagreements with their action tonight.
 I feel they have given me no respect and treat me as an outsider.
@@ -4020,21 +3672,16 @@ Yet I am mature enough to deal with it.
 This is the game of politics.
 I do not know that these men intend malice, and still feel they have good intentions.
 However, you as a voter need to hold these men accountable for their actions.
-If they don't smarten up and act in a responsible way, you are the one that need to take action
-MERRY CHRISTMAS, JOY TO THE WORLD.
+If they don't smarten up and act in a responsible way, you are the one that need to take action MERRY CHRISTMAS, JOY TO THE WORLD.
 Can't you feel the love?
-12/1/05 : Here's the news:
-Yesterday was a full day of training on the open meetings act and its application to planning and zoning, and board of adjustment.
+12/1/05 : Here's the news: Yesterday was a full day of training on the open meetings act and its application to planning and zoning, and board of adjustment.
 This was informative, and the lawyer who presented the information was very good.
 At tonight's meeting, we began with discussion of a couple of development projects going on in our area.
 Both groups were requesting re-platting of their properties to change the lot configurations they would offer.
 Both seem to have a lot going for them.
 I am of the opinion that if they are the property owners and are doing no harm to anyone else, why stand in the way?
-The planning and zoning committee recommended approval of the re-plat proposals, and council concurred
-We also approved a friendly annexation of property in the Travis Hollow subdivision, which has been discussed previously on council
-Mr Poling was not present due to a medical issue to discuss his case on paying a rebate for a water line extension.
-I think we did the right thing by tabling the issue to allow Mr Poling to appear at the next opportunity so that we can settle the matter
-In a related case, I made the motion to use the $195 in standby fees to reduce the rebate fee due to Mr Schwab on his property.
+The planning and zoning committee recommended approval of the re-plat proposals, and council concurred We also approved a friendly annexation of property in the Travis Hollow subdivision, which has been discussed previously on council Mr Poling was not present due to a medical issue to discuss his case on paying a rebate for a water line extension.
+I think we did the right thing by tabling the issue to allow Mr Poling to appear at the next opportunity so that we can settle the matter In a related case, I made the motion to use the $195 in standby fees to reduce the rebate fee due to Mr Schwab on his property.
 This was clearly a fairness issue, and I think the outcome was good for all parties.
 We also approved a change to the sign ordinance to make signs at the airport and site developments less restrictive.
 I was a little too anxious to speak on this, as Councilman Orr was the one who originally presented to airport issue to us.
@@ -4043,8 +3690,7 @@ We debated to notion of providing water and sewer services to the Centex develop
 The issue is whether this is financially beneficial to Lago Vista taxpayers.
 We would not be getting ad valorem tax from this property, but would not have to provide anything other than utilities (no police, etc) and Centex would pay for infrastructure plus we would get revenue from the utility rates.
 It seems this would be favorable, but until I see a financial forecast I won't know.
-Council had consensus on getting the financial forecast before rendering a decision
-The city manager suggested we begin installing newer water meters on new homes that use radio transmission for reading the meters.
+Council had consensus on getting the financial forecast before rendering a decision The city manager suggested we begin installing newer water meters on new homes that use radio transmission for reading the meters.
 This greatly reduces the labor hours from the utility department to do meter reading, which reduces operation cost.
 This sounds good to me.
 However, I offered a suggestion that was greeted with much skepticism by council.
@@ -4055,8 +3701,7 @@ The city manager said the meter is about $150, and there would be some labor cos
 A caveat is that this would create 2 rate classifications, which may introduce complexity.
 However, what I have in mind is to reduce the city's capital outlay yet still benefit by promoting a way to reduce the operating cost of the utility department.
 At the same time, the homeowner has a way to reduce their recurring utility costs.
-It's just an idea, we'll see if it goes anywhere
-Councilman Hugh Farmer gave us an update on the time table for the FEMA flood plane maps.
+It's just an idea, we'll see if it goes anywhere Councilman Hugh Farmer gave us an update on the time table for the FEMA flood plane maps.
 As I stated before, I hope to offer property owners affected by this change some option that will protect their property rights.
 We finished with an executive session on the city manager's performance appraisal.
 Being executive session, I will not relay the details of the discussion.
@@ -4094,8 +3739,7 @@ Pick one of these organizations, or split it among them.
 We are a very generous community.
 The effort we made in the Katrina relief effort was just one example.
 This is an opportunity to help ourselves.
-The early action items were approving of things that we already had consensus on, and this moved quickly
-There was an item to approve having the city enter into a contract to build a weather station at the airport.
+The early action items were approving of things that we already had consensus on, and this moved quickly There was an item to approve having the city enter into a contract to build a weather station at the airport.
 My read of the agreement obligated the city for $22K.
 I had determined to vote NO, since this was not an emergency need and should have been presented during annual budgeting.
 However, Councilman Jim Orr explained that the money would all be coming from the Airport Property Owners Assn and other groups.
@@ -4131,22 +3775,12 @@ I asked the mayor to add time on the agenda to recognize these groups at our mee
 I would like each group to take 2 minutes to explain what they do, state whether donations are tax deductible, and where to send donations (address, phone, website).
 Please get in touch with me by Tuesday so I have a list of those attending.
 11/11/05 : Below is the reply I received from the Texas Municipal League regarding our eminent domain resolution.
-For a reminder, here is the resolution we presented:
-RESOLUTION FOR 2005 TML CONFERENCE REGARDING EMINENT DOMAIN
-Whereas the property owners of Lago Vista depend upon city government to defend their property rights
-Whereas the city of Lago Vista has an opportunity to demonstrate responsible leadership by proposal of this resolution before the 2005 Texas Municipal League conference
-BE IT RESOLVED:
-That the City of Lago Vista proposes that the Texas Municipal League promote to its members cities the importance of defending property rights and limiting municipal eminent domain powers by clearly stating the limits of these powers in their charters and ordinances.
-Below is the response from TML:
-"Councilmember Dixon:
-The Lago Vista resolution dealing with eminent domain was defeated by the TML resolutions committee.
+For a reminder, here is the resolution we presented: RESOLUTION FOR 2005 TML CONFERENCE REGARDING EMINENT DOMAIN Whereas the property owners of Lago Vista depend upon city government to defend their property rights Whereas the city of Lago Vista has an opportunity to demonstrate responsible leadership by proposal of this resolution before the 2005 Texas Municipal League conference BE IT RESOLVED: That the City of Lago Vista proposes that the Texas Municipal League promote to its members cities the importance of defending property rights and limiting municipal eminent domain powers by clearly stating the limits of these powers in their charters and ordinances.
+Below is the response from TML: "Councilmember Dixon: The Lago Vista resolution dealing with eminent domain was defeated by the TML resolutions committee.
 If I had to guess, I'd say that members of the resolutions committee view TML as an organization that is charged with protecting municipal authority, whereas the resolution asks TML to promote the importance of limiting a municipal authority, in this case the power of eminent domain.
 I would be happy to discuss this further by telephone at any time.
 Thanks for your inquiry.
-Frank Sturzl
-Executive Director"
-11/8/05 : While most political news today involves the election, I received some news from the Texas Municipal League
-As mentioned previously, I authored a resolution encouraging cities in Texas to ensure their charters and ordinances clearly state their policies on eminent domain.
+Frank Sturzl Executive Director" 11/8/05 : While most political news today involves the election, I received some news from the Texas Municipal League As mentioned previously, I authored a resolution encouraging cities in Texas to ensure their charters and ordinances clearly state their policies on eminent domain.
 This is to avoid such scenarios as the Kelo vs New London case where it was unclear whether the city ordinance permitted eminent domain takings to promote economic development by transferring property to another private entity.
 The resolution was intended for submittal to the Texas Municipal League conference for adoption.
 Our council unanimously passed the resolution.
@@ -4210,8 +3844,7 @@ I suppose I am cursed with being fastidious.
 I did express the concern several people had about losing local control after merging emergency service districts #7 and #1.
 The is a lot of upside, especially in regard to expense, for the merger.
 Government should always be kept as local as possible so that residents and taxpayers in one area are not affected by political decisions in another area.
-We voted to endorse the merger on the overwhelming fiscal and service benefits it provides
-Prior to the presentation by Lance Poling, I was in favor of denying the request to waive fees for connecting to water and sewer service.
+We voted to endorse the merger on the overwhelming fiscal and service benefits it provides Prior to the presentation by Lance Poling, I was in favor of denying the request to waive fees for connecting to water and sewer service.
 This case is one where the city made an ordinance in which someone who pays for water and sewer lines extended to their property get partially reimbursed by others that tap into their extension.
 This seems reasonable.
 The problem in this case is that the Poling family is being told that they must tap into this extension, but the original water and sewer feeds are right in front of their property.
@@ -4220,15 +3853,12 @@ Since they are less that 150 feet from the original feed, they do not feel they 
 They presented their case very well.
 However, my read of our rules is that we cannot waive these fees as we already have agreement with another property owner for reimbursal.
 We agreed to table for now and study further.
-I still think we need to uphold the contact and deny the waiver, but I think we should address this to prevent future occurences:
-- Require affected property owners of such situations if they occur.
-In this case, the Poling's were not notified until they saw the reimbursal fee assessed.
-- I think we should eliminate the 150 feet stipulation.
+I still think we need to uphold the contact and deny the waiver, but I think we should address this to prevent future occurences: - Require affected property owners of such situations if they occur.
+In this case, the Poling's were not notified until they saw the reimbursal fee assessed. - I think we should eliminate the 150 feet stipulation.
 The current stipulation means that if a property owner ties into service lines less than 150 feet, instead of that property owner paying, all the taxpayers pay.
 That is the wrong principle.
 The user should pay the cost, not everyone else.
-We can either assess on a linear footage, or a flat fee for less than 150 feet
-The next item was to consider waiving impact fees for Alan Carlson and The Deli Werks.
+We can either assess on a linear footage, or a flat fee for less than 150 feet The next item was to consider waiving impact fees for Alan Carlson and The Deli Werks.
 I talked to Alan several times during the campaign.
 During candidate's night at his Deli Werks I stated that I will not take money out of all the taxpayers and then decide which business gets it.
 What Alan is asking is that instead of himself paying the impact fee to get sewer service to his property, he wants all other Lago Vista taxpayers to pay it.
@@ -4251,10 +3881,8 @@ We had some discussion about the proposal from the Building Committee that build
 I am certainly in favor of this.
 However, several council members debated in some detail how long these durations should be and how much we should charge for extensions of the permit.
 I really think we micro-manage this too much.
-This will be further discussed and acted upon at a future meeting
-That will cover it for now.
-Keep in touch
-10/13/05 : The annexation hearing that I thought was last night is actually tonight.
+This will be further discussed and acted upon at a future meeting That will cover it for now.
+Keep in touch 10/13/05 : The annexation hearing that I thought was last night is actually tonight.
 I slight miscue on the schedule, but I am prepared for it.
 I did have Chat with Pat last night.
 Nobody showed.
@@ -4294,8 +3922,7 @@ That's all for now.
 Hope to see some of you at Chat with Pat, or else I will just enjoy my hamburger.
 10/5/05 : I know it's been a while, but I have a good excuse.
 For details of my travels, see PatDixon.org/pct2005.html.
-California brought out the tree hugger in me
-You may notice I placed "Chat with Pat" on my schedule.
+California brought out the tree hugger in me You may notice I placed "Chat with Pat" on my schedule.
 This is the new title for what was the "staff" meeting.
 The purpose is to give Lago Vista residents an opportunity to talk to a councilman about their concerns while patronizing a local business.
 I will be there even if nobody else shows and enjoy a hamburger.
@@ -4304,30 +3931,22 @@ I must sincerely state that the notion of government regulation of this kind is 
 Unfortunately, there are no other providers to go to, and the Austin contract will increase compliance cost for the restaurants.
 Have you noticed we don't have many restaurants here, and have had several go out of business.
 Texas state law mandates that cities enforce compliance to have licensed inspectors under contract.
-Council has 2 choices;
-- do not approve the contract, committing an act of civil disobedience, and risk penalties from the state government
-- hold our noses to approve the contract, hoping that next year there are multiple licensed inspectors to choose from
-A free market that reduces regulatory costs and holds businesses accountable for harm is the government policy that I favor.
+Council has 2 choices; - do not approve the contract, committing an act of civil disobedience, and risk penalties from the state government - hold our noses to approve the contract, hoping that next year there are multiple licensed inspectors to choose from A free market that reduces regulatory costs and holds businesses accountable for harm is the government policy that I favor.
 Perhaps we can get state lawmakers to start thinking this way.
-Now that we are past the budget cycle, there are several items that I want to focus on:
-- My primary long term focus is to get government out of the way of progress while protecting property rights.
+Now that we are past the budget cycle, there are several items that I want to focus on: - My primary long term focus is to get government out of the way of progress while protecting property rights.
 I want to look at ways our zoning ordinances and codes can be addressed to clearly address nuisance and trespass, but not over-regulate.
 Regulation that micro manages what property owners and businesses can do on their own property are a dis-incentive to purchasing property and running businesses.
-I personally don't care whether our city gets big or stays the same size, except that the debt obligations we have depend on growth.
-- As a defender of property rights, we must ensure that the assault on property rights through eminent domain seizures that is rampant in our country does not happen here.
-We should follow the lead of Austin councilman Brewster McKracken, whom I have corresponded with, to ensure our ordinances and charter clearly state protections for the property owner.
-- I have discussed with council the need to establish rules of order in our meetings.
+I personally don't care whether our city gets big or stays the same size, except that the debt obligations we have depend on growth. - As a defender of property rights, we must ensure that the assault on property rights through eminent domain seizures that is rampant in our country does not happen here.
+We should follow the lead of Austin councilman Brewster McKracken, whom I have corresponded with, to ensure our ordinances and charter clearly state protections for the property owner. - I have discussed with council the need to establish rules of order in our meetings.
 Currently it is not addressed in any of our ordinances.
 Most cities use Roberts Rules of Order.
-It was evident in our last meeting that we need tighter procedures
-- The floodplain issue with FEMA raised concerns among several people in the community.
+It was evident in our last meeting that we need tighter procedures - The floodplain issue with FEMA raised concerns among several people in the community.
 I am told that council has no alternative but to deny building permits below the new floodplain.
 Again, this is a property rights issue.
 I will endeavor to have further discussions with FEMA to see if property owners that invested in lakeside lots have options so that they don't lose the ability to build.
 That's all for now.
 Stay tuned!
-9/17/05 : Several observations on our last council meeting:
-I am quite happy with the budget.
+9/17/05 : Several observations on our last council meeting: I am quite happy with the budget.
 While there are items in it that I disagree with, clearly the overall direction is fiscally conservative.
 We are lowering the tax rate, addressing debt reduction, making the users of goods and services pay instead of subsidizing through taxation, and putting the priority on the core functions of government.
 A concern I have is that several times, it was unclear what was going on during our meeting.
@@ -4339,27 +3958,20 @@ Putting something on the agenda does not mean there is a motion.
 Without a motion, order of the day moves on to the next agenda item.
 However we actually had a vote to table something which had not been moved.
 It was ruled the motion to table passed, but then Fred moved to approve the contract, which we had assumed to be tabled.
-A role call suggested that the motion to table had not passed, upon which council voted to approve the contract, which we did not have
-Confused?
+A role call suggested that the motion to table had not passed, upon which council voted to approve the contract, which we did not have Confused?
 I think we all were.
-That is why I asked to secretary to record me as abstaining
-It is clear that we need to adopt rules of order as other cities have done.
+That is why I asked to secretary to record me as abstaining It is clear that we need to adopt rules of order as other cities have done.
 Roberts Rules are the standard that most cities use.
 Without some understanding of our rules, the rulings by council can be confusing and arbitrary.
 I have already discussed this with other council members and will be proposing an ordinance to address this.
 9/14/05 : You may be aware that Lago Vista is helping in a big way with the Katrina relief effort by flying supplies out of our Rusty Allen airport.
-To help with the relief effort, you can make a donation to:
-LV Lions Club Charitable Fund, Inc.
+To help with the relief effort, you can make a donation to: LV Lions Club Charitable Fund, Inc.
 P.O.
-Box 4603
-Lago Vista, TX 78645
-This is a 501(c)3 corporation so your contributions will be tax deductible
-9/11/05 : Most everything I can say on this day is over-shadowed by the remembrance of those that perished on this day in 2001, as well as those that suffered and are recovering on the Gulf Coast.
+Box 4603 Lago Vista, TX 78645 This is a 501(c)3 corporation so your contributions will be tax deductible 9/11/05 : Most everything I can say on this day is over-shadowed by the remembrance of those that perished on this day in 2001, as well as those that suffered and are recovering on the Gulf Coast.
 Lago Vista can be proud of our efforts to deliver supplies to the victims, that was written about in this week's Log.
 The efforts of D'Anne and Bob Gloris, Cabo Loco, Kurt Barks, and others is commendable.
 We got the good news that option B has been chosen for the 1431 re-route.
-This is clearly the best option, and I applaud the decision
-I took a further look at the study posted at www.FDEP.org regarding FEMA's raising of the floodplain to 722 ft.
+This is clearly the best option, and I applaud the decision I took a further look at the study posted at www.FDEP.org regarding FEMA's raising of the floodplain to 722 ft.
 If you go to fdep.org/basinpaper.shtml and look at Appendix A, the Hydrology study, you will get closer to answering the questions posed by upset property owners last Thursday evening.
 I don't know if it addresses every detail of interest, such as why the base level for the study was 690 ft instead of the "full" level of 681.
 However, anyone that intends to challenge FEMA on their results needs to fully comprehend this study.
@@ -4371,8 +3983,7 @@ As we near the conclusion of the budget process, I will do my best to keep your 
 Either city government can take money away from you and spend it for you, or we can let you be generous with your money.
 I have supported PAWS, Keep Lago Vista Beautiful, and other organizations with my own money.
 I encourage you to be generous with your money, time, and talent, and not to trust any politician that tries to convince you that they are "generous" by spending your money.
-9/8/05 : Wednesday's public hearing on the budget and tax rate was mostly un-eventful, with the exception of Brian Schwab
-Brian helped me during my campaign.
+9/8/05 : Wednesday's public hearing on the budget and tax rate was mostly un-eventful, with the exception of Brian Schwab Brian helped me during my campaign.
 We shared some concerns on budget and growth.
 On Wednesday, he told us how we had demonstrated that we are anti-growth.
 Since we have approved every development presented to us thus far, apparently Brian would prefer we prohibit these developments.
@@ -4412,8 +4023,7 @@ In it, Brian gives non-complimentary appraisal of the new council members.
 He describes me as "confused whether he's the Libertarian chairman or an alderman".
 I'm not confused; I'm both!
 Perhaps Brian is confused.
-8/25/05 : This is an update for the last 2 council meetings
-Last week we had very good meetings on the budget.
+8/25/05 : This is an update for the last 2 council meetings Last week we had very good meetings on the budget.
 I like the way we have consensus on lowering the tax rate and addressing debt obligations.
 We also have common interests in retaining our police force.
 As many of you know, I share the position that our founding fathers had; the purpose of government is to protect your rights and property.
@@ -4426,10 +4036,8 @@ I do not pretend that this is easy and it will not be overnight.
 We need to find consensus on our belief in property rights and getting government out of micro-managing affairs.
 I wrote up some comments on the budget and copied my fellow council members and the city manager.
 These were well received.
-In it, I mentioned my pleasure at the way things were going, but stated my preference for empowering the people with their choice to donate money voluntarily instead of have us take their tax money and acting as middle man to re-distribute it
-I was very pleased to name Richard Wolf to the Planning and Zoning board.
-I also thank Larry Hagler and Paul Isham for putting forth their interest in serving
-Tonight I presented Glen Overton, president of Keep Lago Vista Beautiful, with a $100 check.
+In it, I mentioned my pleasure at the way things were going, but stated my preference for empowering the people with their choice to donate money voluntarily instead of have us take their tax money and acting as middle man to re-distribute it I was very pleased to name Richard Wolf to the Planning and Zoning board.
+I also thank Larry Hagler and Paul Isham for putting forth their interest in serving Tonight I presented Glen Overton, president of Keep Lago Vista Beautiful, with a $100 check.
 I know that they do good work, because I see them in their orange vests out cleaning up and doing good work.
 Organizations like KLVB, Lago Vista PAWS, and others are ones that I contribute to voluntarily.
 The alternative is for government to take tax money out of your pocket by force and spend it as 7 people desire.
@@ -4445,22 +4053,14 @@ They have been very helpful.
 I intend to present a similar measure for approval in Lago after I have had some time to review it with others.
 It is important that cities take proper actions to make their laws clear and protect property rights.
 As long as such laws are written in such a manner to limit government power instead of granting powers, they will not conflict with state law.
-8/10/05 : For those of you interested in the resolution I have proposed for presentation to the Texas Municipal League, here it is:
-DRAFT RESOLUTION FOR 2005 TML CONFERENCE REGARDING EMINENT DOMAIN
-Whereas the property owners of Lago Vista depend upon city government to defend their property rights
-Whereas the city of Lago Vista has an opportunity to demonstrate responsible leadership by proposal of this resolution before the 2005 Texas Municipal League conference
-BE IT RESOLVED:
-That the City of Lago Vista proposes that the Texas Municipal League promote to its members cities the importance of defending property rights and limiting municipal eminent domain powers by clearly stating the limits of these powers in their charters and ordinances.
-Patrick J Dixon
-Lago Vista City Council Place #1
-8/8/05 : My apologies for neglecting this page.
+8/10/05 : For those of you interested in the resolution I have proposed for presentation to the Texas Municipal League, here it is: DRAFT RESOLUTION FOR 2005 TML CONFERENCE REGARDING EMINENT DOMAIN Whereas the property owners of Lago Vista depend upon city government to defend their property rights Whereas the city of Lago Vista has an opportunity to demonstrate responsible leadership by proposal of this resolution before the 2005 Texas Municipal League conference BE IT RESOLVED: That the City of Lago Vista proposes that the Texas Municipal League promote to its members cities the importance of defending property rights and limiting municipal eminent domain powers by clearly stating the limits of these powers in their charters and ordinances.
+Patrick J Dixon Lago Vista City Council Place #1 8/8/05 : My apologies for neglecting this page.
 I have had some formatting problems, which I hope to correct soon.
 We had a council meeting last Thursday.
 There wasn't a lot on the agenda, and we spent most of it in executive session.
 My resolution to the Texas Municipal League regarding eminent domain will be voted at an upcoming meeting.
 Other than that, we are just waiting for the budget proposal to begin reviewing the numbers.
-7/21/05 : At our council meeting tonight we had several items to consider
-I voted "NO" on the resolution regarding the Travis County Bond Issue.
+7/21/05 : At our council meeting tonight we had several items to consider I voted "NO" on the resolution regarding the Travis County Bond Issue.
 I understand that we would prefer that county money be spent in our area, however we cannot say that we want to spend money for Arkansas Bend without saying we want the tax burden of the bond package added on the backs of Travis County taxpayers.
 Being a fiscal conservative, I am doing what I can to relieve the tax burden of Lago Vista residents.
 Like my political hero Congressman Ron Paul, I am not afraid to be the lone dissenting vote to defend taxpayers.
@@ -4474,15 +4074,8 @@ Cities need to be clear in these rules so that a court is not presented with arb
 I also support Bill Angelo's concern that we are having to pay the state for operating our municipal court.
 I also presented my concerns on our charter clause regarding eminent domain.
 I presented a packet demonstrating that Texas cities and counties have already responded to this concern by amending their rules.
-I also included an excellent study on the subject by the Reason Foundation entitled "New Study: Eminent Domain, Private Property, and Redevelopment" which can be found at the link below:
-Studies by Reason Foundation on Eminent Domain
-I proposed that the charter review process should include appropriate amendments to protect property owners.
-Some suggestions:
-- PRIVATE PROPERTY SHALL NOT BE TAKEN FOR THE PURPOSE OF ECONOMIC DEVELOPMENT
-- PRIVATE PROPERTY SHALL NOT BE TAKEN FOR THE PURPOSE OF TRANSFER TO ANOTHER PRIVATE ENTITY
-- PRIVATE PROPERTY SHALL ONLY BE TAKEN FOR THE PURPOSE OF RIGHT-OF-WAY FOR ROADS AND UTILITIES
-- EMINENT DOMAIN SHALL ONLY BE USED AS A LAST RESORT
-I understand the concerns of council members that we do not want to conflict with state law.
+I also included an excellent study on the subject by the Reason Foundation entitled "New Study: Eminent Domain, Private Property, and Redevelopment" which can be found at the link below: Studies by Reason Foundation on Eminent Domain I proposed that the charter review process should include appropriate amendments to protect property owners.
+Some suggestions: - PRIVATE PROPERTY SHALL NOT BE TAKEN FOR THE PURPOSE OF ECONOMIC DEVELOPMENT - PRIVATE PROPERTY SHALL NOT BE TAKEN FOR THE PURPOSE OF TRANSFER TO ANOTHER PRIVATE ENTITY - PRIVATE PROPERTY SHALL ONLY BE TAKEN FOR THE PURPOSE OF RIGHT-OF-WAY FOR ROADS AND UTILITIES - EMINENT DOMAIN SHALL ONLY BE USED AS A LAST RESORT I understand the concerns of council members that we do not want to conflict with state law.
 However, we need to ensure that are rules are clear and that we defend property rights for our residents.
 I presented my suggestion regarding having established rules of order for our meetings.
 I am surprised that there is opposition to the use of Roberts Rules.
@@ -4490,30 +4083,17 @@ As I pointed out, most cities use Roberts Rules.
 As the chair of a state committee and a member of several boards, I know that Roberts Rules when applied properly make a meeting run smoothly.
 Any meeting can get out of hand if the members don't respect the rules.
 I intend to discuss this with the mayor and work on drafting an ordinance.
-That is all for now
-7/12/05 : Look what I found in my mailbox!
+That is all for now 7/12/05 : Look what I found in my mailbox!
 I have such a way with people, don't I?
 I am really impressed with the stationary they used.
 They used a magic marker on some paper towels and crumpled it up in my mailbox.
 Somehow, I think the honeymoon is over.
-7/8/05 : I had been looking at the general long term debt numbers for the past 5 years and notice a sharp, dramatic increase in the last 2 years:
-2000 - $0.077 MIL ($77k)
-2001 - $0.065 MIL ($65k)< /p>
-2002 - $1.3 MIL
-2003 - $26 MIL
-2004 - $34.5 MIL
-So what happened to our debt in 2003?
+7/8/05 : I had been looking at the general long term debt numbers for the past 5 years and notice a sharp, dramatic increase in the last 2 years: 2000 - $0.077 MIL ($77k) 2001 - $0.065 MIL ($65k)< /p> 2002 - $1.3 MIL 2003 - $26 MIL 2004 - $34.5 MIL So what happened to our debt in 2003?
 I finally saw that the proprietary debt numbers were the other part of the story.
 We had been using general funds to pay debt service on utilities.
 In 2003, the auditor suggested that we should not categorize the utility debt as proprietary if it is being paid with general funds, so the debt was re-categorized from general to proprietary.
 This seems to me to be an appropriate thing, however it confused me into thinking there was an extraordinary amount of debt incurred in 2003.
-The combined general and proprietary debt obligation to the city, which shows the whole picture, is:
-2000 - $15 MIL
-2001 - $30 MIL
-2002 - $28 MIL
-2003 - $27 MIL
-2004 - $34.6 MIL
-7/7/05 : A full plate at the council meeting tonight.
+The combined general and proprietary debt obligation to the city, which shows the whole picture, is: 2000 - $15 MIL 2001 - $30 MIL 2002 - $28 MIL 2003 - $27 MIL 2004 - $34.6 MIL 7/7/05 : A full plate at the council meeting tonight.
 But don't leave this site without checking out my first appearance as a cartoon character (below).
 I am quite flattered.
 When I saw the picture, my reaction was "Hey, that's me!" My reaction to the cartoon was spontaneous laughter.
@@ -4540,22 +4120,16 @@ I do not agree with taxation for the purpose of having government do the adverti
 However, the decision is whether the city should spend money on tourism or the Chamber spend it on tourism.
 I am conflicted.
 We then green-lighted the Retail Center development.
-We then appointed Mike Thornton to the Board of Adjustment
-My most embarrassing moment was to speak against a motion to support the Arkansas Bend Improvement as included in the "proposed" Travis County bond issue.
+We then appointed Mike Thornton to the Board of Adjustment My most embarrassing moment was to speak against a motion to support the Arkansas Bend Improvement as included in the "proposed" Travis County bond issue.
 "Proposed" suggested to me it had not been approved, therefore the debate was to support further tax obligation to the taxpayers of the city and county.
 I went to great lengths to explain my small government, Libertarian principles in my lone opposition to the motion.
 It was then explained that the bond in question was not "proposed" but already approved.
 I then had to make my Roseanne Rosanna-Danna "Never mind" retraction, sheepishly.
 Bob Bradley spoke of his interest to create zoning for light industry, which I approve of.
-I then had several agenda requests for our next meeting:
-- In light of the assault on property rights, the Kelo ruling, and our charter clause eminent domain for "public use", I asked to put discussion of this topic on our agenda
-- It appears we do not have any rules of order codified.
+I then had several agenda requests for our next meeting: - In light of the assault on property rights, the Kelo ruling, and our charter clause eminent domain for "public use", I asked to put discussion of this topic on our agenda - It appears we do not have any rules of order codified.
 We should have reference to Roberts Rules.
-I asked for a discussion of this at the next meeting
-- I asked about our efforts to lobby for the 1431 option B.
-It was explained the city has done all it can
-- I mentioned the the zoning board failed to meet quorum, and suggested appointing a new alternate at the next meeting
-That's all for now.
+I asked for a discussion of this at the next meeting - I asked about our efforts to lobby for the 1431 option B.
+It was explained the city has done all it can - I mentioned the the zoning board failed to meet quorum, and suggested appointing a new alternate at the next meeting That's all for now.
 Stay tuned!
 6/24/05 : Yesterday's Supreme Court ruling means there is only one recourse left to protect your property.
 You must put people on city council that will defend your property rights.
@@ -4564,9 +4138,7 @@ Ask candidates whether they will take your property form you and give it to a de
 Many of you came here to retire and your property does not have a price tag on it.
 It is tragic how our country has lost the values that made it great.
 The courts will not help you any more.
-Put people in office that will defend your rights and property
-6/23/05 : Below is the story that appeared in the LOG about last week's unfortunate events at the council meeting:
-6/22/05 : The next staff meeting is scheduled for Wednesday July 13, 7 PM at the Deli Werks.
+Put people in office that will defend your rights and property 6/23/05 : Below is the story that appeared in the LOG about last week's unfortunate events at the council meeting: 6/22/05 : The next staff meeting is scheduled for Wednesday July 13, 7 PM at the Deli Werks.
 I welcome anyone to come by and participate on an open and honest discussion of your concerns.
 I do not ostracize people for their opinions.
 Whether you are for, against, or neutral (like me) on the recall, I will listen to you.
@@ -4644,11 +4216,9 @@ I reminded council about the article I gave them showing our police pay at the b
 I cannot tell you what we discussed in executive session, but the outcome is a happy one very everyone.
 I am proud that my first official act as councilman was to schedule this meeting to resolve this matter.
 I also gave a copy to each council member of the article that appeared in the Austin Statesman on May 19 that showed Lago Vista is at the very bottom for our area in paying our police officers.
-This will need to be considered in setting our budget priorities
-5/25/05 : WULA sent a letter to the city stating that the building permit for the Anderson's will not jeopardize the 3rd party set aside agreement.
+This will need to be considered in setting our budget priorities 5/25/05 : WULA sent a letter to the city stating that the building permit for the Anderson's will not jeopardize the 3rd party set aside agreement.
 The council meeting on Friday should be quick and allow the Anderson's to get started on their property.
-5/22/05 : All council members have received their copy of Bastiat's "The Law" and Badnarik's "Good to be King"
-5/21/05 : I was sworn into office and presided at my first meeting.
+5/22/05 : All council members have received their copy of Bastiat's "The Law" and Badnarik's "Good to be King" 5/21/05 : I was sworn into office and presided at my first meeting.
 I was able to schedule a special meeting to resolve the matter on the Anderson property.
 They have been denied a building permit for over 18 months and are about to incur huge costs.
 Hopefully we can resolve the issue and grant them the permit.

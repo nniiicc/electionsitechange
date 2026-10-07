@@ -1,42 +1,218 @@
 [
-"http://eepurl.com/cgw0XL",
-"http://idahoptv.org/idreports",
-"http://idahoptv.org/insession",
-"https://berch4idaho.com/",
-"https://berch4idaho.com/contact",
-"https://berch4idaho.com/how-to-volunteer",
-"https://berch4idaho.com/meet-steve",
-"https://berch4idaho.com/newsletter/newsletters",
-"https://berch4idaho.com/newsletter/newsletters/17-rep-steve-berch-district-15-newsletter-election-year-politics-edition",
-"https://berch4idaho.com/newsletter/newsletters/18-rep-steve-berch-district-15-newsletter-home-stretch-edition",
-"https://berch4idaho.com/newsletter/newsletters/19-rep-steve-berch-district-15-newsletter-there-is-h-ope-edition",
-"https://berch4idaho.com/newsletter/newsletters/22-rep-steve-berch-district-15-newsletter-constituent-services-edition",
-"https://berch4idaho.com/newsletter/newsletters/23-rep-steve-berch-newsletter-special-session-edition",
-"https://berch4idaho.com/newsletter/newsletters/24-rep-steve-berch-newsletter-community-values-edition",
-"https://berch4idaho.com/newsletter/newsletters/25-special-edition-the-bill-that-turns-good-samaritans-into-criminals",
-"https://berch4idaho.com/newsletter/newsletters/26-rep-steve-berch-newsletter-on-the-midway",
-"https://berch4idaho.com/newsletter/newsletters/27-rep-steve-berch-newsletter-picking-your-pocket-boiling-the-frog",
-"https://berch4idaho.com/newsletter/newsletters/28-rep-steve-berch-newsletter-idaho-s-three-party-system",
-"https://berch4idaho.com/newsletter/newsletters/29-newsletter-follow-up-three-party-hardball",
-"https://berch4idaho.com/newsletter/newsletters/30-rep-steve-berch-newsletter-connecting-the-dots",
-"https://berch4idaho.com/newsletter/newsletters/31-rep-steve-berch-newsletter-hostages-and-blackmail",
-"https://berch4idaho.com/newsletter/newsletters/32-rep-steve-berch-newsletter-worst-session-ever-part-1",
-"https://berch4idaho.com/newsletter/newsletters/33-rep-steve-berch-newsletter-worst-session-ever-part-2",
-"https://berch4idaho.com/newsletter/newsletters?start=15",
-"https://berch4idaho.com/newsletter/newsletters?start=30",
-"https://berch4idaho.com/newsletter/newsletters?start=45",
-"https://berch4idaho.com/newsletter/newsletters?start=75",
-"https://berch4idaho.com/privacy-policy",
-"https://berch4idaho.com/request-a-yard-sign",
-"https://berch4idaho.com/social-media-policy",
-"https://berch4idaho.com/terms-and-conditions",
-"https://facebook.com/SteveBerchForIdaho",
-"https://idahoednews.org/",
-"https://idahopress.com/eyeonboise",
-"https://legislature.idaho.gov/sessioninfo/2019/standingcommittees/HBUS",
-"https://legislature.idaho.gov/sessioninfo/2019/standingcommittees/HEDU",
-"https://legislature.idaho.gov/sessioninfo/2019/standingcommittees/HLOC",
-"https://secure.actblue.com/contribute/page/steve-berch-2",
-"https://twitter.com/SteveBerch15A",
-"https://youtube.com/channel/UC0yTitge--AKQj-f8XOBJxA"
+{
+"text": "1",
+"href": "https://berch4idaho.com/newsletter/newsletters"
+},
+{
+"text": "2",
+"href": "https://berch4idaho.com/newsletter/newsletters?start=15"
+},
+{
+"text": "3",
+"href": "https://berch4idaho.com/newsletter/newsletters?start=30"
+},
+{
+"text": "4",
+"href": "https://berch4idaho.com/newsletter/newsletters?start=45"
+},
+{
+"text": "6",
+"href": "https://berch4idaho.com/newsletter/newsletters?start=75"
+},
+{
+"text": "Business",
+"href": "https://legislature.idaho.gov/sessioninfo/2019/standingcommittees/HBUS/"
+},
+{
+"text": "Capitol: 208-332-1039",
+"href": "tel:208-332-1039"
+},
+{
+"text": "Cell: 208-890-9339",
+"href": "tel:208-890-9339"
+},
+{
+"text": "Contact",
+"href": "https://berch4idaho.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/contribute/page/steve-berch-2"
+},
+{
+"text": "Contribute Now",
+"href": "https://secure.actblue.com/contribute/page/steve-berch-2"
+},
+{
+"text": "Education",
+"href": "https://legislature.idaho.gov/sessioninfo/2019/standingcommittees/HEDU/"
+},
+{
+"text": "End",
+"href": "https://berch4idaho.com/newsletter/newsletters?start=75"
+},
+{
+"text": "Eye on Boise",
+"href": "https://www.idahopress.com/eyeonboise/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SteveBerchForIdaho"
+},
+{
+"text": "Get Involved",
+"href": "https://berch4idaho.com/how-to-volunteer"
+},
+{
+"text": "Home",
+"href": "https://berch4idaho.com/"
+},
+{
+"text": "How to Contribute",
+"href": "https://secure.actblue.com/contribute/page/steve-berch-2"
+},
+{
+"text": "How to Volunteer",
+"href": "https://berch4idaho.com/how-to-volunteer"
+},
+{
+"text": "IPTV Idaho Reports",
+"href": "http://idahoptv.org/idreports/"
+},
+{
+"text": "Idaho Education News",
+"href": "https://www.idahoednews.org"
+},
+{
+"text": "Idaho in Session",
+"href": "http://idahoptv.org/insession/"
+},
+{
+"text": "Local Government",
+"href": "https://legislature.idaho.gov/sessioninfo/2019/standingcommittees/HLOC/"
+},
+{
+"text": "Meet Steve",
+"href": "https://berch4idaho.com/meet-steve"
+},
+{
+"text": "Newsletter Archive (2019-present)",
+"href": "https://berch4idaho.com/newsletter/newsletters"
+},
+{
+"text": "Newsletter follow-up: Three-party hardball",
+"href": "https://berch4idaho.com/newsletter/newsletters/29-newsletter-follow-up-three-party-hardball"
+},
+{
+"text": "Next",
+"href": "https://berch4idaho.com/newsletter/newsletters?start=75"
+},
+{
+"text": "Prev",
+"href": "https://berch4idaho.com/newsletter/newsletters?start=45"
+},
+{
+"text": "Privacy Policy",
+"href": "https://berch4idaho.com/privacy-policy"
+},
+{
+"text": "Rep. Steve Berch District 15 Newsletter - Constituent Services edition",
+"href": "https://berch4idaho.com/newsletter/newsletters/22-rep-steve-berch-district-15-newsletter-constituent-services-edition"
+},
+{
+"text": "Rep. Steve Berch District 15 Newsletter - Election year politics edition",
+"href": "https://berch4idaho.com/newsletter/newsletters/17-rep-steve-berch-district-15-newsletter-election-year-politics-edition"
+},
+{
+"text": "Rep. Steve Berch District 15 Newsletter - Home stretch edition",
+"href": "https://berch4idaho.com/newsletter/newsletters/18-rep-steve-berch-district-15-newsletter-home-stretch-edition"
+},
+{
+"text": "Rep. Steve Berch District 15 Newsletter - There is (h)OPE edition",
+"href": "https://berch4idaho.com/newsletter/newsletters/19-rep-steve-berch-district-15-newsletter-there-is-h-ope-edition"
+},
+{
+"text": "Rep. Steve Berch Newsletter - Community Values Edition",
+"href": "https://berch4idaho.com/newsletter/newsletters/24-rep-steve-berch-newsletter-community-values-edition"
+},
+{
+"text": "Rep. Steve Berch Newsletter - Connecting the dots",
+"href": "https://berch4idaho.com/newsletter/newsletters/30-rep-steve-berch-newsletter-connecting-the-dots"
+},
+{
+"text": "Rep. Steve Berch Newsletter - Hostages and blackmail",
+"href": "https://berch4idaho.com/newsletter/newsletters/31-rep-steve-berch-newsletter-hostages-and-blackmail"
+},
+{
+"text": "Rep. Steve Berch Newsletter - Idaho's three-party system",
+"href": "https://berch4idaho.com/newsletter/newsletters/28-rep-steve-berch-newsletter-idaho-s-three-party-system"
+},
+{
+"text": "Rep. Steve Berch Newsletter - On the midway",
+"href": "https://berch4idaho.com/newsletter/newsletters/26-rep-steve-berch-newsletter-on-the-midway"
+},
+{
+"text": "Rep. Steve Berch Newsletter - Picking your pocket, boiling the frog",
+"href": "https://berch4idaho.com/newsletter/newsletters/27-rep-steve-berch-newsletter-picking-your-pocket-boiling-the-frog"
+},
+{
+"text": "Rep. Steve Berch Newsletter - Special Session edition",
+"href": "https://berch4idaho.com/newsletter/newsletters/23-rep-steve-berch-newsletter-special-session-edition"
+},
+{
+"text": "Rep. Steve Berch Newsletter - Worst. Session. Ever (Part 1)",
+"href": "https://berch4idaho.com/newsletter/newsletters/32-rep-steve-berch-newsletter-worst-session-ever-part-1"
+},
+{
+"text": "Rep. Steve Berch Newsletter - Worst. Session. Ever. (Part 2)",
+"href": "https://berch4idaho.com/newsletter/newsletters/33-rep-steve-berch-newsletter-worst-session-ever-part-2"
+},
+{
+"text": "Request a Yard Sign!",
+"href": "https://berch4idaho.com/request-a-yard-sign"
+},
+{
+"text": "SOCIAL MEDIA POLICY",
+"href": "https://berch4idaho.com/social-media-policy"
+},
+{
+"text": "Special Edition: The bill that turns Good Samaritans into criminals",
+"href": "https://berch4idaho.com/newsletter/newsletters/25-special-edition-the-bill-that-turns-good-samaritans-into-criminals"
+},
+{
+"text": "Start",
+"href": "https://berch4idaho.com/newsletter/newsletters"
+},
+{
+"text": "Steve's Newsletters",
+"href": "https://berch4idaho.com/newsletter/newsletters"
+},
+{
+"text": "Subscribe to Newsletter",
+"href": "http://eepurl.com/cgw0XL"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://berch4idaho.com/terms-and-conditions"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/SteveBerch15A"
+},
+{
+"text": "Volunteer",
+"href": "https://berch4idaho.com/how-to-volunteer"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UC0yTitge--AKQj-f8XOBJxA"
+},
+{
+"text": "[image: Idaho District 15]",
+"href": "https://berch4idaho.com/"
+},
+{
+"text": "sberch@house.idaho.gov",
+"href": "mailto:sberch@house.idaho.gov"
+}
 ]

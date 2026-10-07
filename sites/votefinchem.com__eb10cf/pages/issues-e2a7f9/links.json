@@ -1,20 +1,78 @@
 [
-"https://facebook.com/RealMarkFinchem",
-"https://gab.com/AZHoneyBadger",
-"https://gettr.com/user/realmarkfinchem",
-"https://go.azsos.gov/276g",
-"https://gorightstrategies.com/",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://rumble.com/c/c-845427",
-"https://secure.anedot.com/finchemaz/website",
-"https://t.me/MarkFinchemAZ",
-"https://truthsocial.com/@realmarkfinchem",
-"https://twitter.com/RealMarkFinchem",
-"https://votefinchem.com/",
-"https://votefinchem.com/about",
-"https://votefinchem.com/contact",
-"https://votefinchem.com/endorsed-by",
-"https://votefinchem.com/issues",
-"https://votefinchem.com/news"
+{
+"text": "About",
+"href": "https://votefinchem.com/about/"
+},
+{
+"text": "Click here to sign my petition to get on the Ballot",
+"href": "https://go.azsos.gov/276g"
+},
+{
+"text": "Contact",
+"href": "https://votefinchem.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/finchemaz/website"
+},
+{
+"text": "Endorsements",
+"href": "https://votefinchem.com/endorsed-by/"
+},
+{
+"text": "Go Right Strategies",
+"href": "https://gorightstrategies.com"
+},
+{
+"text": "Home",
+"href": "https://votefinchem.com/"
+},
+{
+"text": "Issues",
+"href": "https://votefinchem.com/issues/"
+},
+{
+"text": "News",
+"href": "https://votefinchem.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/"
+},
+{
+"text": "[image]Facebook",
+"href": "https://www.facebook.com/RealMarkFinchem/"
+},
+{
+"text": "[image]GETTR",
+"href": "https://gettr.com/user/realmarkfinchem"
+},
+{
+"text": "[image]Gab",
+"href": "https://gab.com/AZHoneyBadger"
+},
+{
+"text": "[image]Rumble",
+"href": "https://rumble.com/c/c-845427"
+},
+{
+"text": "[image]Telegram",
+"href": "https://t.me/MarkFinchemAZ"
+},
+{
+"text": "[image]Truth",
+"href": "https://truthsocial.com/@realmarkfinchem"
+},
+{
+"text": "[image]X",
+"href": "https://twitter.com/RealMarkFinchem"
+}
 ]

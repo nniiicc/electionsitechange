@@ -1,2 +1,3 @@
-Help Us Win Volunteer We need people power on our side to win in November First Name * First Name Last Name Last Name Email * Email Phone Number Phone Number How do you want to get involved?
-Knock on Doors Send Texts Make Calls Talk to Friends & Neighbors Yard Sign Sign Up
+Follow us Menu Home Meet Candidate Events Endorsements Issues News Voting Info Volunteer Donate Follow us Donate Help Us Win Volunteer We need people power on our side to win in November First Name * First Name Last Name Last Name Email * Email Phone Number Phone Number How do you want to get involved?
+Knock on Doors Send Texts Make Calls Talk to Friends & Neighbors Yard Sign Sign Up Donate Stay Up To Date Follow us on the campaign trail!
+Email Email Subscribe Donate Follow us Home Meet Candidate Events Endorsements Issues News Voting Info Volunteer Donate Paid for by maria for 52 Maria for 52 © # 125 Carriage Road North Barrington, IL 60010 Accessibility Statement Terms of Service Contact Privacy Policy

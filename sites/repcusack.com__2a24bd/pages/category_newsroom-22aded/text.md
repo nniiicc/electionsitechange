@@ -1,27 +1,22 @@
-House Passes FY22 ; Cusack Secures $62 Million in Local Aid for Braintree, Holbrook & Randolph
-For immediate release: May 3, 2021 BOSTON – Representative Mark J.
+Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Facebook Twitter Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Newsroom House Passes FY22 ; Cusack Secures $62 Million in Local Aid for Braintree, Holbrook & Randolph Kate May 3, 2021 For immediate release: May 3, 2021 BOSTON – Representative Mark J.
 Cusack (D-Braintree) joined his colleagues in the Massachusetts House ...
-Read More
-For immediate release: October 17, 2019 BOSTON – On Wednesday Representative Mark J.
+Read More House Passes Fiscal Year 2019 Supplemental Budget; Cusack Secures $200,000 for Traffic Mitigation in Braintree Kate October 17, 2019 For immediate release: October 17, 2019 BOSTON – On Wednesday Representative Mark J.
 Cusack (D-Braintree) joined his colleagues in the ...
-Read More
-For immediate release: July 23, 2019 BOSTON – Representative Mark J.
+Read More House and Senate Pass FY20 Budget; Cusack Secures $400,000 directed towards improvements in Braintree Kate July 23, 2019 For immediate release: July 23, 2019 BOSTON – Representative Mark J.
 Cusack (D-Braintree) along with his colleagues in the Massachusetts ...
-Read More
-For immediate release: May 29, 2019 (BOSTON) — State Representative Mark J.
+Read More Cusack Secures Road Funding for Braintree Kate May 29, 2019 For immediate release: May 29, 2019 (BOSTON) — State Representative Mark J.
 Cusack joined his colleagues in the Massachusetts House ...
-Read More
-For immediate release: April 30, 2019 BOSTON – Representative Mark J.
+Read More House Passes FY20 Budget; Cusack Secures $400,000 in improvements for Braintree Kate April 30, 2019 For immediate release: April 30, 2019 BOSTON – Representative Mark J.
 Cusack (D-Braintree) joined his colleagues in the Massachusetts House ...
-Read More
-For immediate release: July 7, 2017 BOSTON – Representative Mark J.
+Read More House and Senate Pass FY18 Budget; Cusack Secures $250,000 to Improve Public Health and Safety in Braintree Kate July 7, 2017 For immediate release: July 7, 2017 BOSTON – Representative Mark J.
 Cusack (D-Braintree) joined his colleagues in the Massachusetts House ...
-Read More
-For immediate release: June 28, 2017 (BOSTON) – Representative Mark Cusack is pleased to announce that the Board of Directors ...
-Read More
-For immediate release: March 29, 2017 BOSTON — On Wednesday, March 29th State Representative Mark J.
+Read More MSBA Invests in Braintree’s East Middle School Kate June 17, 2017 For immediate release: June 28, 2017 (BOSTON) – Representative Mark Cusack is pleased to announce that the Board of Directors ...
+Read More Legislature Authorizes Funding for Municipal Roads and Bridges Kate March 29, 2017 For immediate release: March 29, 2017 BOSTON — On Wednesday, March 29th State Representative Mark J.
 Cusack joined his colleagues in ...
-Read More
-For immediate release: March 14, 2016 (BOSTON) – State Representative Mark J.
+Read More Legislature Authorizes Funding for Municipal Roads and Bridges Kate March 29, 2017 For immediate release: March 29, 2017 BOSTON — On Wednesday, March 29th State Representative Mark J.
+Cusack joined his colleagues in ...
+Read More Rep.
+Cusack Secures $150,000 for New Pedestrian Traffic Signal on Rt.
+37 Kate March 14, 2016 For immediate release: March 14, 2016 (BOSTON) – State Representative Mark J.
 Cusack (D-Braintree) has announced that he has secured ...
-Read More
+Read More Posts pagination 1 2 … 4 Take Action Donate Join Mark’s Team Stay Informed Facebook Twitter 2020 - Paid for by the Committee to Elect Mark Cusack 74 Brow Avenue Braintree MA 02184

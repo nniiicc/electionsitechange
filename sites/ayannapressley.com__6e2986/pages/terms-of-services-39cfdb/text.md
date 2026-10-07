@@ -1,12 +1,10 @@
-Terms Of Service
-Effective Date: 11/16/21
-AYANNA PRESSLEY FOR CONGRESS (hereinafter “We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), which you agree to use and participate in subject to these Mobile Messaging Terms and Conditions and Privacy Policy (the “Terms”).
-By opting into or participating in any of our Programs, you accept and agree to these Terms, including, without limitation, your agreement to resolve any disputes with us through binding, individual-only arbitration, as detailed in the “Dispute Resolution” section below.
+EN ES HT ZH Facebook Twitter Instagram Meet Ayanna Issues Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District Toggle Menu Facebook Twitter Instagram Jobs Volunteer Store Donate Meet Ayanna Events Voter Info Volunteer Store Donate Terms Of Service Effective Date : 11/16 /21 AYANNA PRESSLEY FOR CONGRESS (hereinafter “We,” “Us,” “Our”) is offering a mobile messaging program (the “ Program ”), which you agree to use and participate in subject to these Mobile Messaging Terms and Conditions and Privacy Policy (the “ Terms ”).
+By opting into or participating in any of our Programs, you accept and agree to these Terms, including, without limitation, your agreement to resolve any disputes with us through binding, individual-only arbitration, as detailed in the “ Dispute Resolution ” section below.
 These Terms are limited to the Program and are not intended to modify other terms & conditions or privacy policy(ies) that may govern the relationship between you and Us in other contexts.
 By opting into our SMS communications, you agree to receive volunteer and donation asks from the Committee to Elect Ayanna Pressley.
 Message frequency varies.
 Message and data rates may apply.
-For help, email us at [email protected].
+For help, email us at [email protected] .
 You can opt out at any time by replying STOP.
 Modification of Terms: We reserve the right to revise these Terms from time to time.
 If we do revise these Terms, the revised terms will supersede prior revisions.
@@ -17,7 +15,7 @@ If you do not agree to the revisions, you must opt out of the Program.
 User Opt In: The Program allows users to receive mobile messages by affirmatively opting into the Program.
 Regardless of the opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
 By participating in the Program, you agree to receive text messages the phone number associated with your opt-in, and you understand that consent is not required to make any purchase from Us.
-While you consent to receive messages sent using an autodialer, the foregoing shall not be interpreted to suggest or imply that any or all of Our mobile messages are sent using an automatic telephone dialing system (“ATDS” or “autodialer”).
+While you consent to receive messages sent using an autodialer, the foregoing shall not be interpreted to suggest or imply that any or all of Our mobile messages are sent using an automatic telephone dialing system (“ ATDS ” or “ autodialer ”).
 Message and data rates may apply.
 User Opt Out: If you do not wish to continue participating in the Program or no longer agree to these Terms, you agree to reply “STOP,” “QUIT,” “END,” “CANCEL,” “UNSUBSCRIBE,” or “STOP ALL” to any mobile message from Us in order to opt out of the Program.
 You understand and agree that the foregoing options are the only reasonable methods of opting out.
@@ -32,7 +30,7 @@ YOU AGREE THAT YOU SHALL INDEMNIFY, DEFEND, AND HOLD US, OUR AGENTS, AND ANY THI
 Program Description: Through a short code, Ayanna Pressley will be able to send users messages about this campaign (messages include donation links).
 Cost and Frequency: Message and data rates may apply.
 Message frequency varies.
-Support Instructions: For support regarding the Program or if you are experiencing issues with the messaging program, you can reply with the keyword HELP for more assistance, or you can get help directly by emailing Us at [email protected].
+Support Instructions: For support regarding the Program or if you are experiencing issues with the messaging program, you can reply with the keyword HELP for more assistance, or you can get help directly by emailing Us at [email protected] .
 Please note that the use of this email address is not an acceptable method of opting out of the program.
 Opt outs must be submitted in accordance with the User Opt Out procedures set forth above.
 MMS Disclosure: The Program will send SMS TMs (terminating messages) if your mobile device does not support MMS messaging.
@@ -55,31 +53,23 @@ When We Share Your Information: WE DO NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHE
 However, We may share your personal information with the third-party text messaging platform provider or other trusted service partners as may be necessary to send you messages under the Program and these Terms.
 This does not apply to the short code program.
 We reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect Our rights or property.
-Contact Us: To exercise any of your rights related to your personal information, please contact us using one of the following methods:
-- Visit us at https://ayannapressley.com;
-- Send us an email at [email protected]; or
-- Write to us at Committee to Elect Ayanna Pressley, PO Box 240912, Dorchester, MA 02124.
+Contact Us: To exercise any of your rights related to your personal information, please contact us using one of the following methods: Visit us at https://ayannapressley.com; Send us an email at [email protected] ; or Write to us at Committee to Elect Ayanna Pressley, PO Box 240912, Dorchester, MA 02124.
 California Residents.
 Beginning January 1, 2020, if You are a California resident, as defined in Section 17014 of Title 18 of the California Code of Regulations, You have certain rights with regard to your personal information.
 This section describes those rights and explains how to exercise those rights.
-Access to Information.
+Access to Information .
 You have the right to request that We disclose certain information to you about Our collection and use of your personal information over the past 12 months.
 Upon receipt of a verifiable request, we will provide you access to personal information We have collected about you or disclose to you the categories of personal information We have collected, the categories of sources from which We obtained that information, and how We have used or shared that information.
-Right to Request Deletion.
+Right to Request Deletion .
 You also have the right to request that We delete any of your personal information that We collected from you and retained, subject to certain exceptions as allowable by law.
-You understand that We may deny your deletion request as provided by law, including, but not limited to, retaining the information if it is necessary for Us to:
-- Complete the transaction for which We collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of Our ongoing business relationship with you, or otherwise perform Our contract with you;
-- Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities;
-- Debug products or identify and repair errors that impair existing intended functionality;
-- Comply with a legal obligation, including, but not limited to, preserving evidence demonstrates our compliance with the Telephone Consumer Protection Act (“TCPA”) during the statute of limitations period applicable to the TCPA; and/or
-- Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
-To exercise any of your rights related to your personal information, please contact us using one of the methods indicated in the “Contact Us” section above.
+You understand that We may deny your deletion request as provided by law, including, but not limited to, retaining the information if it is necessary for Us to: Complete the transaction for which We collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of Our ongoing business relationship with you, or otherwise perform Our contract with you; Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities; Debug products or identify and repair errors that impair existing intended functionality; Comply with a legal obligation, including, but not limited to, preserving evidence demonstrates our compliance with the Telephone Consumer Protection Act (“TCPA”) during the statute of limitations period applicable to the TCPA; and/or Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
+To exercise any of your rights related to your personal information, please contact us using one of the methods indicated in the “ Contact Us ” section above.
 Dispute Resolution: In the event that there is a dispute, claim, or controversy between you and Us, or between you and our third-party text messaging platform provider, or between you and any other third-party service provider acting on Our behalf to transmit the mobile messages related to the Program Description set forth above, arising out of or relating to federal or state statutory claims, common law claims, these Terms, or the breach, termination, enforcement, interpretation, or validity thereof, including, but not limited to, the determination of the scope or applicability of this agreement to arbitrate, such dispute, claim, or controversy will be, to the fullest extent permitted by law, determined by arbitration in Pittsburgh before one arbitrator.
-The parties agree to submit the dispute to binding arbitration in accordance with the Commercial Arbitration Rules of the American Arbitration Association (“AAA”) then in effect.
+The parties agree to submit the dispute to binding arbitration in accordance with the Commercial Arbitration Rules of the American Arbitration Association (“ AAA ”) then in effect.
 Except as otherwise provided herein, the arbitrator shall apply the substantive laws of the Federal Judicial Circuit in which Our principal place of business is located, without regard to its conflict of laws rules.
 Within ten (10) calendar days after the arbitration demand is served upon a party, the parties must jointly select an arbitrator with at least five (5) years’ experience in that capacity and who has knowledge of and experience with the subject matter of the dispute.
 If the parties do not agree on an arbitrator within ten (10) calendar days, either party may petition the AAA to appoint an arbitrator, who must satisfy the same experience requirement.
-In the event of a dispute, the arbitrator shall decide the enforceability and interpretation of this arbitration agreement in accordance with the Federal Arbitration Act (“FAA”).
+In the event of a dispute, the arbitrator shall decide the enforceability and interpretation of this arbitration agreement in accordance with the Federal Arbitration Act (“ FAA ”).
 The parties also agree that the AAA’s rules governing Emergency Measures of Protection shall apply in lieu of seeking emergency injunctive relief from a court.
 The decision of the arbitrator shall be final and binding, and no party shall have rights of appeal except for those provided in section 10 of the FAA.
 Each party shall bear its share of the fees paid for the arbitrator and the administration of the arbitration; however, the arbitrator shall have the power to order one party to pay all or any portion of such fees as part of a well-reasoned decision.
@@ -94,4 +84,6 @@ Miscellaneous: You warrant and represent to Us that you have all necessary right
 The failure of either party to exercise in any respect any right provided for herein will not be deemed a waiver of any further rights hereunder.
 If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable.
 Any new features, changes, updates, or improvements of the Program shall be subject to these Terms unless explicitly stated otherwise in writing.
-Privacy: If you have any questions regarding privacy, please read our privacy policy: https://ayannapressley.com/privacy-policy/
+Privacy: If you have any questions regarding privacy, please read our privacy policy: https://ayannapressley.com/privacy-policy/ Chip In Now Ayanna is a relentless advocate for the people.
+Will you have her back by chipping in today?
+Our average contribution this year $10 $20.53 $100 Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District Meet Ayanna Voter Info Volunteer Jobs Store Donate Follow Us Facebook Twitter Instagram Donate By Mail Committee to Elect Ayanna Pressley PO Box 240912 Dorchester Center, MA 02124 Paid for by the Committee to Elect Ayanna Pressley Contact Privacy Made with Middle Seat

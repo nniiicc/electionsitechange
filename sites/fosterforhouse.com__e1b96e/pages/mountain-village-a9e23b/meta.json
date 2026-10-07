@@ -1,9 +1,9 @@
 {
  "description": "Explore Mountain Village, a vibrant part of Alaska communities, with insights from Neal Foster, a dedicated political candidate.",
  "final_url": "https://fosterforhouse.com/mountain-village",
- "paid_for_by": null,
+ "fingerprint": "183064a111075d9f166e5c078c395b3953974a19",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mountain Village",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

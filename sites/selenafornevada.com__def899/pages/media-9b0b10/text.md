@@ -1,7 +1,7 @@
-April 1, 2026
-No Comments
-Read More »
-Check out our new video supporting Selena La Rue Hatch, a teacher for Assembly District 25! pic.twitter.com/DdSlC8vAKk
-— StrongPublicSchlsNV (@strongpubliced) May 12, 2022
-For press inquires email contact@selenafornevada.com
-Please note, the meeting may be either virtual or in-person depending on Selena’s availability.
+Skip to content Facebook Instagram Volunteer Events Donate Meet Selena Legislative Wins Issues Endorsements Constituents What is the State Assembly?
+Bill Tracker How to give public comment in NELIS How to give testimony Press & Media Center Meet Selena Legislative Wins Issues Endorsements Constituents What is the State Assembly?
+Bill Tracker How to give public comment in NELIS How to give testimony Press & Media Center Issues Meet Selena Endorsements Donate Events Press & Media Center Issues Meet Selena Endorsements Donate Events Press & Media Center Press & Media Center Press Releases Paid Family Leave In the News Newsmakers of the year for 2025 April 1, 2026 No Comments Read More » This is why Nevada didn’t make a move on daylight saving time this year April 1, 2026 No Comments Read More » Some lawmakers, lobbyists are voicing frustration over recent special session April 1, 2026 No Comments Read More » Reno assemblywoman objects to film tax bill, exposes strong opposition April 1, 2026 No Comments Read More » Photos Video Check out our new video supporting Selena La Rue Hatch, a teacher for Assembly District 25! pic.twitter.com/DdSlC8vAKk — StrongPublicSchlsNV (@strongpubliced) May 12, 2022 Paid for by Strong Public Schools Nevada For press inquires email contact@selenafornevada.com Meet with Selena Please note, the meeting may be either virtual or in-person depending on Selena’s availability.
+Name Email Phone Zip Message By providing your cell phone number, you agree to receive calls and texts to your number from Selena for Nevada on issues and ways to get involved.
+Msg frequency varies.
+STOP to quit.
+Msg and data rates may apply. https://selenafornevada.com/privacy-policy/ Request Meeting Close Skip to content Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

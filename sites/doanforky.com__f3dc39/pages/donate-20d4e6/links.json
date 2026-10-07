@@ -1,7 +1,22 @@
 [
-"https://doanforky.com/",
-"https://doanforky.com/about-2",
-"https://doanforky.com/contact-8",
-"https://doanforky.com/donate",
-"https://doanforky.com/schoolboard"
+{
+"text": "About",
+"href": "https://www.doanforky.com/about-2"
+},
+{
+"text": "Contact",
+"href": "https://www.doanforky.com/contact-8"
+},
+{
+"text": "Donate",
+"href": "https://www.doanforky.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.doanforky.com"
+},
+{
+"text": "School Board",
+"href": "https://www.doanforky.com/schoolboard"
+}
 ]

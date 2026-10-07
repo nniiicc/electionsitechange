@@ -1,10 +1,42 @@
 [
-"https://amyr4ohio.org/",
-"https://amyr4ohio.org/cart",
-"https://amyr4ohio.org/contact",
-"https://amyr4ohio.org/swag-merch",
-"https://amyr4ohio.org/swag-merch/p/amy-rigsby-campaign-button-2",
-"https://amyr4ohio.org/topics",
-"https://amyr4ohio.org/voter-info",
-"https://secure.actblue.com/donate/amy-rigsby-2"
+{
+"text": "0",
+"href": "https://www.amyr4ohio.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.amyr4ohio.org/"
+},
+{
+"text": "Amy Rigsby Campaign Button 2",
+"href": "https://www.amyr4ohio.org/swag-merch/p/amy-rigsby-campaign-button-2"
+},
+{
+"text": "Contact",
+"href": "https://www.amyr4ohio.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amy-rigsby-2"
+},
+{
+"text": "Rigsby 4 Representative",
+"href": "https://www.amyr4ohio.org/"
+},
+{
+"text": "Swag & Merch",
+"href": "https://www.amyr4ohio.org/swag-merch"
+},
+{
+"text": "Topics",
+"href": "https://www.amyr4ohio.org/topics"
+},
+{
+"text": "Voter Info",
+"href": "https://www.amyr4ohio.org/voter-info"
+},
+{
+"text": "[image: Rigsby 4 Representative]",
+"href": "https://www.amyr4ohio.org/"
+}
 ]

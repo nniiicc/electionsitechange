@@ -1,7 +1,4 @@
-As you may be aware, during the recent session, the legislative majority passed HB 267, a bill that bans public employees from [...]
-Read more
-After a long weekend, I am headed back to the Capitol with just two weeks left of the 2025 general [...]
-Read more
-Today marks day 34 of the 45 day legislation session.
-Utah has one of the shortest legislative sessions in the country, [...]
-Read more
+Vote June 23, 2026 MEET STEPHANIE PRIORITIES SD-14 GET INVOLVED!
+DONATE All posts by Stephanie Pitcher April 1, 2025 Stephanie Pitcher Community Join me: Sign the HB 267 Referendum! 📝 As you may be aware, during the recent session, the legislative majority passed HB 267, a bill that bans public employees from [...] Read more February 23, 2025 Stephanie Pitcher 2025 Legislative Session Legislative Updates: Week 5 After a long weekend, I am headed back to the Capitol with just two weeks left of the 2025 general [...] Read more February 19, 2024 Stephanie Pitcher 2024 Legislative Session Week 5 Legislative Updates Today marks day 34 of the 45 day legislation session.
+Utah has one of the shortest legislative sessions in the country, [...] Read more « Previous Page 1 2 3 Copyright © # Committee to Elect Stephanie Pitcher.
+All Rights Reserved.

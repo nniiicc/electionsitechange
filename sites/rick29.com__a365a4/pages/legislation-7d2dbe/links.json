@@ -1,11 +1,42 @@
 [
-"https://facebook.com/rick.mcclure.7712",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://rick29.com/",
-"https://rick29.com/contact-rick-1",
-"https://rick29.com/donate",
-"https://rick29.com/legislation",
-"https://rick29.com/maps",
-"https://rick29.com/ricks-voting-record",
-"https://rick29.com/serving-our-communities"
+{
+"text": "Contact Rick",
+"href": "https://rick29.com/contact-rick-1"
+},
+{
+"text": "Donate",
+"href": "https://rick29.com/donate"
+},
+{
+"text": "Home",
+"href": "https://rick29.com/"
+},
+{
+"text": "Legislation",
+"href": "https://rick29.com/legislation"
+},
+{
+"text": "Maps",
+"href": "https://rick29.com/maps"
+},
+{
+"text": "RICK'S VOTING RECORD",
+"href": "https://rick29.com/ricks-voting-record"
+},
+{
+"text": "Serving Our Communities",
+"href": "https://rick29.com/serving-our-communities"
+},
+{
+"text": "[image: Re-Elect Rick McClure State Rep. Hot Spring & Saline Counties ]",
+"href": "https://rick29.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/rick.mcclure.7712/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

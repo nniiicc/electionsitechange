@@ -1,10 +1,4 @@
-Week 3 - Legislative Update
-Updated: Mar 2
-Representative John Shubeck | District 16
-South Dakota Legislature
-House of Representatives
-Originally Posted on Facebook: February 02, 2026
-This week the South Dakota House of Representatives was a great week overall.
+top of page Home Meet John On the Issues News Menu Back to site Get Involved News Week 3 - Legislative Update Feb 2 4 min read Updated: Mar 2 Representative John Shubeck | District 16 South Dakota Legislature House of Representatives Originally Posted on Facebook : February 02, 2026 This week the South Dakota House of Representatives was a great week overall.
 In the house we passed several bills that will help our local small towns.
 I want to highlight HB 1044 (rural health transformation), HB 1077 (lab grown meat ban), and HB 1064 (direct marketing of producer grown meat).
 I will finish by talking about bills that we will see next week.
@@ -48,5 +42,4 @@ This could open a can of worms for the court system to interpret and so we need 
 Representative Karla Lems and I both voted against the change in wording.
 District 16 Senator Kevin Jensen is well aware of the wording issue and will be fighting for our private property rights.
 I look forward to the next week working on these issues.
-Representative John Shubeck
-South Dakota District 16
+Representative John Shubeck South Dakota District 16 Recent Posts See All Week 6 - Legislative Update Week 5 - Legislative Update Week 2 - Legislative Update QUICK LINKS Home Meet John On the Issues Get Involved News Contact SOCIAL Facebook ​ CONTACT johnshubeckforsd@gmail.com 605-553-1094 ​ 29341 468th Ave Beresford, SD 57004 Paid for by John Shubeck for SD © # | Terms & Conditions | Privacy Policy | Accessibility Statement JOIN OUR NEWSLETTER First name Last name Email * Yes, subscribe me to your newsletter * Submit Home Meet John On the Issues News bottom of page

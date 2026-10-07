@@ -1,16 +1,70 @@
 [
-"https://halesformissouri.com/",
-"https://halesformissouri.com/about-jeff",
-"https://halesformissouri.com/cart",
-"https://halesformissouri.com/checkout",
-"https://halesformissouri.com/get-involved",
-"https://halesformissouri.com/issues",
-"https://halesformissouri.com/my-account",
-"https://halesformissouri.com/privacy",
-"https://halesformissouri.com/shop",
-"https://halesformissouri.com/terms",
-"https://halesformissouri.com/volunteers",
-"https://polikal.progressionstudios.com/become-a-volunteer",
-"https://secure.actblue.com/donate/halesformissouri",
-"https://sos.mo.gov/elections/goVoteMissouri/register"
+{
+"text": "About Jeff",
+"href": "https://halesformissouri.com/about-jeff/"
+},
+{
+"text": "Cart",
+"href": "https://halesformissouri.com/cart/"
+},
+{
+"text": "Checkout",
+"href": "https://halesformissouri.com/checkout/"
+},
+{
+"text": "Contact",
+"href": "https://halesformissouri.com/get-involved/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/halesformissouri"
+},
+{
+"text": "Get Involved!",
+"href": "https://halesformissouri.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://halesformissouri.com/"
+},
+{
+"text": "Issues",
+"href": "https://halesformissouri.com/issues/"
+},
+{
+"text": "Join Our Team",
+"href": "https://polikal.progressionstudios.com/become-a-volunteer/"
+},
+{
+"text": "My Account",
+"href": "https://halesformissouri.com/my-account/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://halesformissouri.com/privacy/"
+},
+{
+"text": "Register To Vote",
+"href": "https://www.sos.mo.gov/elections/goVoteMissouri/register"
+},
+{
+"text": "Shop",
+"href": "https://halesformissouri.com/shop/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://halesformissouri.com/terms/"
+},
+{
+"text": "Volunteers",
+"href": "https://halesformissouri.com/volunteers/"
+},
+{
+"text": "[image: Hales for Missouri]",
+"href": "https://halesformissouri.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.sos.mo.gov/elections/goVoteMissouri/register"
+}
 ]

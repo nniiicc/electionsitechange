@@ -1,4 +1,4 @@
-[March 21, 2022] | Well, we are past day 28 of 40, which was our Crossover Day.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK REPORT FROM THE CAPITOL [ March 21, 2022 ] | Well, we are past day 28 of 40, which was our Crossover Day.
 It is the last day a House bill can be sent to the Senate for their scrutiny and the same for them to the House.
 It was a long day in the House chambers voting on many different items that fellow legislators had brought before us.
 I presented and passed two bills: one for our used car dealers and the dealer tags they use.
@@ -30,3 +30,4 @@ I encourage you to reach out if you have any questions or concerns regarding leg
 You can reach my Capitol office at 404-656-7153, or you can email me directly at rick.jasperse@house.ga.gov.
 As always, thank you for allowing me to serve as your State Representative and legislative voice here at Georgia?
 Capitol.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

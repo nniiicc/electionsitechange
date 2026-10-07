@@ -1,18 +1,24 @@
-Maryland families are paying some of the highest electric bills in our region—and it didn’t have to be this way.While states like Virginia and West Virginia continue to produce more of their own power, Maryland has become increasingly dependent on …
-Continue reading
-The math is simple: invest in this campaign, lower your bills
+Skip to main content Dan Cox for Governor Menu Home About Dan Cox Lt.
+Gov.
+Candidate Issues News Events Volunteer Store Get A Sign Contact Donate Donate May 6, 2026 Economy Political Dan Cox Opened your electric bill yet?
+Maryland families are paying some of the highest electric bills in our region—and it didn’t have to be this way.While states like Virginia and West Virginia continue to produce more of their own power, Maryland has become increasingly dependent on … Continue reading April 22, 2026 Economy Elections Dan Cox Wes Moore has a $4 billion problem The math is simple: invest in this campaign, lower your bills April 9, 2026 Elections Political Dan Cox 35 years.
+Two trials.
+One mission.
 Most Marylanders already know it: your government isn't working for you.
 It's working against you.
-We had a great evening speaking at the debate “Governor’s Town Hall” in Harford County tonight with the Republican Patriot club.
-Something happened this week that was concerning to our fellow Marylanders.
+April 4, 2026 Events Political Dan Cox Fallston Barrel House Event We had a great evening speaking at the debate “Governor’s Town Hall” in Harford County tonight with the Republican Patriot club.
+March 11, 2026 Economy Political Dan Cox Governor Wes Moore just appointed his own lawyer to serve as Maryland’s next Education Inspector General Something happened this week that was concerning to our fellow Marylanders.
 Governor Wes Moore just appointed his own lawyer to serve as Maryland’s next Education Inspector General — the very position meant to provide independent oversight of the education system.
-That …
-Continue reading
-Explore Wes Moore's Land and Grocery Grab and discover its impact on local communities and unsustainable practices.
-Annapolis, Maryland — Dan Cox announced today that he has formally submitted multiple Maryland Public Information Act (MPIA) requests, at his own personal expense, seeking records from Governor Wes Moore’s Office and key state agencies regarding recent communications with Maryland’s …
-Continue reading
-BREAKING: After Gubernatorial Candidate Dan Cox Calls for Emergency Declaration, DC Mayor Bowser Issues Emergency Declaration Regarding The Largest Sewage Disaster in Maryland History, Damaging the Potomac River and Chesapeake Bay, Requesting the President’s Assistance.
-“Yesterday, at approximately 6:54 p.m., …
-Continue reading
-Dan Cox Responds to Wes Moore’s “Town Hall”
-Former Frederick County state delegate and gubernatorial candidate Dan Cox has filed to run for governor again, with Frederick County gun range co-owner Robert Krop as his running mate.
+That … Continue reading March 5, 2026 Economy Political Dan Cox Wes Moore’s Land and Grocery Grab Explore Wes Moore's Land and Grocery Grab and discover its impact on local communities and unsustainable practices.
+February 27, 2026 Political Press Release Dan Cox Dan Cox Files Public Information Act Requests Seeking Governor Moore’s Communications with Maryland Electric Utilities and PJM Interconnection Annapolis, Maryland — Dan Cox announced today that he has formally submitted multiple Maryland Public Information Act (MPIA) requests, at his own personal expense, seeking records from Governor Wes Moore’s Office and key state agencies regarding recent communications with Maryland’s … Continue reading February 19, 2026 Press Release Dan Cox Press Release by Dan Cox BREAKING: After Gubernatorial Candidate Dan Cox Calls for Emergency Declaration, DC Mayor Bowser Issues Emergency Declaration Regarding The Largest Sewage Disaster in Maryland History, Damaging the Potomac River and Chesapeake Bay, Requesting the President’s Assistance.
+“Yesterday, at approximately 6:54 p.m., … Continue reading February 16, 2026 Political Dan Cox Dan Cox Responds to Wes Moore’s “Town Hall” Dan Cox Responds to Wes Moore’s “Town Hall” January 30, 2026 Political Dan Cox Updated: Cox files to run for Md. governor, with Krop as running mate Former Frederick County state delegate and gubernatorial candidate Dan Cox has filed to run for governor again, with Frederick County gun range co-owner Robert Krop as his running mate.
+Next Dan Cox for Governor Feed WE WON THE DEBATE!
+October 6, 2026 Debate Prep!
+October 2, 2026 Debate Prep!
+October 2, 2026 Help us get our message on TV September 25, 2026 Help us get our message on TV September 24, 2026 Recent Posts Opened your electric bill yet?
+May 6, 2026 Economy Political Dan Cox Wes Moore has a $4 billion problem April 22, 2026 Economy Elections Dan Cox 35 years.
+Two trials.
+One mission.
+April 9, 2026 Elections Political Dan Cox Follow Us Manage consent Accept All Close Save and Close Powered by (opens in a new window) Search Home Old About Dan Cox Old Lt.
+Gov.
+Candidate Issues Old News Events Volunteer Old Store Old Get A Sign Old Contact Old

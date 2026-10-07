@@ -1,68 +1,34 @@
-Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420
-P.O.
-Box 215 Heppner, OR 97836
-541-993-5236 | electgregsmith@gmail.com
-Article: Umatilla robotics team visits Rep.
-Greg Smith in Salem
-/in News
-Article Link: Umatilla robotics team visits Rep.
-Greg Smith in Salem
-Press Release: Representative Smith Once Again Appointed to the Emergency Board
-/in News
-The Honorable Greg Smith
-Oregon House of Representatives
-District 57
-FOR IMMEDIATE RELEASE:
-March 7, 2024
-Representative Smith Once Again Appointed to the Emergency Board
-SALEM, Ore. – Today, Representative Greg Smith (R-Heppner) was appointed to the Joint Emergency Board.
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Article: Smith gives legislative review at Hermiston Chamber of Commerce event March 28, 2024 / in News Article Link: Smith gives legislative review at Hermiston Chamber of Commerce event https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-03-28 10:13:28 2024-04-09 10:14:05 Article: Smith gives legislative review at Hermiston Chamber of Commerce event Article: Solemn ceremony marks 80th anniversary of depot explosion March 22, 2024 / in News Article Link: Solemn ceremony marks 80th anniversary of depot explosion https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-03-22 10:45:43 2024-03-26 10:46:29 Article: Solemn ceremony marks 80th anniversary of depot explosion Article: Hermiston’s new psychiatric care facility ‘a huge step in the right direction’ March 18, 2024 / in News Article Link: Hermiston’s new psychiatric care facility ‘a huge step in the right direction’ https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-03-18 10:44:38 2024-03-26 10:45:36 Article: Hermiston’s new psychiatric care facility ‘a huge step in the right direction’ Article: Umatilla robotics team visits Rep.
+Greg Smith in Salem March 12, 2024 / in News Article Link: Umatilla robotics team visits Rep.
+Greg Smith in Salem https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-03-12 10:36:02 2024-03-26 10:38:18 Article: Umatilla robotics team visits Rep.
+Greg Smith in Salem Article: State Reps.
+Levy and Smith Celebrate Passage of Senate Bill 1579 March 8, 2024 / in News Article Link: State Reps.
+Levy and Smith Celebrate Passage of Senate Bill 1579 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-03-08 10:30:18 2024-03-26 10:33:02 Article: State Reps.
+Levy and Smith Celebrate Passage of Senate Bill 1579 Press Release: Representative Smith Once Again Appointed to the Emergency Board March 7, 2024 / in News The Honorable Greg Smith Oregon House of Representatives District 57 FOR IMMEDIATE RELEASE : March 7, 2024 Representative Smith Once Again Appointed to the Emergency Board SALEM, Ore. – Today, Representative Greg Smith (R-Heppner) was appointed to the Joint Emergency Board.
 The committee operates effectively as the Legislature’s executive committee in the interim and is always poised to take immediate action during emergencies when the Legislature is adjourned.
 “It is an honor to be reappointed to the Joint Emergency Board,” said Rep.
-Smith, “the committee is vital to the State of Oregon’s immediate response during emergencies.”
-Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4th longest serving State Representative in Oregon history.
+Smith, “the committee is vital to the State of Oregon’s immediate response during emergencies.” Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4 th longest serving State Representative in Oregon history.
 He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
 Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
 Additionally, he is the ranking member on the House Revenue Committee.
-To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov
-###
-CONTACT INFORMATION:
-Representative Greg Smith
-541-993-5236
-Press Release: Reps Levy and Smith Celebrate the Passage of SB 1579
-/in News
-from the
-OFFICES OF REP.
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-03-07 15:18:48 2024-03-12 10:03:20 Press Release: Representative Smith Once Again Appointed to the Emergency Board Press Release: Reps Levy and Smith Celebrate the Passage of SB 1579 March 7, 2024 / in News from the OFFICES OF REP.
 BOBBY LEVY & REP.
-GREG SMITH
-FOR IMMEDIATE RELEASE:
-March 7, 2024
-Reps Levy and Smith Celebrate the Passage of SB 1579
-SALEM, Ore. – Today, Senate Bill 1579 passed the Oregon House of Representatives.
+GREG SMITH FOR IMMEDIATE RELEASE : March 7, 2024 Reps Levy and Smith Celebrate the Passage of SB 1579 SALEM, Ore. – Today, Senate Bill 1579 passed the Oregon House of Representatives.
 Representative Bobby Levy (R-Echo) and Representative Greg Smith (R-Heppner) were sponsors of the legislation.
 The bill creates the Children’s Advocacy Center Fund in the Department of Justice to establish and maintain sufficient children’s advocacy centers (CACs) that support children who have been abused.
-The measure also establishes the Children’s Advocacy Center One-Time Grant Fund in the Department of Justice. 50% of funds are to be distributed equally amongst all 24 of Oregon’s CACs. 50% of the funds are to be made available for application for CACs that are accredited or have an application pending for accreditation through the National Children’s Association.
+The measure also establishes the Children’s Advocacy Center One-Time Grant Fund in the Department of Justice.
+50% of funds are to be distributed equally amongst all 24 of Oregon’s CACs.
+50% of the funds are to be made available for application for CACs that are accredited or have an application pending for accreditation through the National Children’s Association.
 SB 1579 having passed both chambers, now awaits the Governor’s signature.
 “These centers are at the forefront of providing crucial services such as forensic interviews, medical evaluations, therapy, and support to child victims of abuse,” said Representative Levy, “this legislation will give every center the opportunity to be accredited with the standards and best practices of the National Children’s Alliance”.
 “Children’s advocacy centers serve as sanctuaries for vulnerable youth who have endured unimaginable traumas,” said Representative Smith, “This critical investment will help ensure equitable access and services for children who have been abused and neglected”.
-###
-CONTACT INFORMATION:
-Representative Greg Smith
-541-993-5236
-Press Release: Umatilla Robotics Team Visits State Capitol on the Way to District Competition
-/in News
-FOR IMMEDIATE RELEASE:
-March 7, 2024
-Umatilla Robotics Team Visits State Capitol on the Way to District Competition
-SALEM, Ore. – Today, the Robotics Team from Umatilla High School stopped by the Oregon State Capitol to take a tour and check in with Representative Greg Smith (R-Heppner).
+### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-03-07 15:15:15 2024-03-12 10:03:20 Press Release: Reps Levy and Smith Celebrate the Passage of SB 1579 Press Release: Umatilla Robotics Team Visits State Capitol on the Way to District Competition March 7, 2024 / in News FOR IMMEDIATE RELEASE : March 7, 2024 Umatilla Robotics Team Visits State Capitol on the Way to District Competition SALEM, Ore. – Today, the Robotics Team from Umatilla High School stopped by the Oregon State Capitol to take a tour and check in with Representative Greg Smith (R-Heppner).
 They were on the way to their district competition held at the Oregon State Fairgrounds.
 Among the stops during their tour, they visited the Oregon House Chamber where Representative Smith introduced them to his colleagues and bragged a little bit about his pride in the students.
 “I was thrilled to have students from home drop in to the State Capitol for a visit,” said Representative Smith, “The Umatilla High School Robotics Team demonstrates year in and year out their expertise and knowledge in the application of math, science, and team work”.
-Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4th longest serving State Representative in Oregon history.
+Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4 th longest serving State Representative in Oregon history.
 He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
 Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
 Additionally, he is the ranking member on the House Revenue Committee.
-To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov
-###
-CONTACT INFORMATION:
-Representative Greg Smith
-541-993-5236
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-03-07 15:10:51 2024-03-12 10:03:20 Press Release: Umatilla Robotics Team Visits State Capitol on the Way to District Competition Article: Milton-Freewater’s Highway 11 to get state police presence March 4, 2024 / in News Article Link: Milton-Freewater’s Highway 11 to get state police presence https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-03-04 10:41:49 2024-03-26 10:42:51 Article: Milton-Freewater’s Highway 11 to get state police presence July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

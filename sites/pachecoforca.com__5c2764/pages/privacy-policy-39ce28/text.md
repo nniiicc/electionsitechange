@@ -1,5 +1,4 @@
-TERMS AND CONDITIONS
-You agree to receive recurring automated informational text (e.g., SMS and MMS) messages from the Brian Pacheco for Assembly campaign, including text messages that may be sent using an automatic telephone dialing system, to the mobile telephone number you provided when signing up or any other number that you designate.
+Skip navigation menu Meet Brian Issues Endorsements News Media Get Involved Donate Meet Brian Issues Endorsements News Media Get Involved Donate TERMS AND CONDITIONS You agree to receive recurring automated informational text (e.g., SMS and MMS) messages from the Brian Pacheco for Assembly campaign, including text messages that may be sent using an automatic telephone dialing system, to the mobile telephone number you provided when signing up or any other number that you designate.
 All the different types of messages you may receive – informational, recurring marketing and donation messages - shall be collectively known as the “Programs.” Consent to receive automated marketing text messages is not a condition of any purchase.
 Mobile opt-in: Mobile opt-in information will not be sold or shared to third parties.
 Cost: Msg & Data rates may apply.
@@ -14,8 +13,10 @@ You may receive an additional mobile message confirming your decision to opt out
 You understand and agree that the foregoing options are the only reasonable and exclusive methods of opting out.
 You also understand and agree that any other method of opting out, including but not limited to texting words or phrases other than those set forth above or verbally requesting to be removed from our list, is not a reasonable means of opting out.
 You may be subscribed to multiple Programs across different Short Codes or regular long code phone numbers, and therefore you must separately text or reply STOP to each Short Code or long code phone number from which you wish to unsubscribe.
-Support: For support regarding the Program, text “HELP” to the applicable Program’s Short Code or long code, or email us at info@pachecoforca.com.
+Support: For support regarding the Program, text “HELP” to the applicable Program’s Short Code or long code, or email us at info@pachecoforca.com .
 Please note that the use of this email address, or texting “HELP” to the Program’s Short or long Code is not an acceptable method of opting out of the Program.
 Opt-outs must be submitted in accordance with the procedures set forth above.
 Privacy: EXCEPT AS SET FORTH IN THIS SECTION, WE DO NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS COLLECTED THROUGH PROGRAMS TO ANY THIRD PARTY.
-QUOTES.
+QUOTES .
+Privacy Policy Have a question, want to get involved, or interested in endorsing the campaign?
+Please contact info@pachecoforca.com Checks may be mailed to: Brian Pacheco for Assembly 2026 1700 Tribute Road, Suite 201 Sacramento, CA 95815 Powered by RUN! website builder Paid for by Pacheco for Assembly 2026 FPPC# 1485456 You need to enable JavaScript to run this app.

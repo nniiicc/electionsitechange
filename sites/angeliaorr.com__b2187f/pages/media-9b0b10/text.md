@@ -1,17 +1,2 @@
-top of page
-Donate
-Facebook
-Twitter
-Home
-Voting
-Endorsements
-About Angelia
-Priorities
-89th Legislature
-Governor's Priorities
-Get Involved
-Media
-More
-Use tab to navigate through the menu items.
-Media
-bottom of page
+top of page Donate Facebook Twitter Home Voting Endorsements About Angelia Priorities 89th Legislature Governor's Priorities Get Involved Media More Use tab to navigate through the menu items.
+Media Home Voting Endorsements About Angelia Priorities 89th Legislature Governor's Priorities Get Involved Media JOIN THE TEAM Welcome to Team Orr Facebook Twitter Donate Privacy Policy Pol Ad Paid For By Angelia Orr For Texas House PO Box 113 Itasca, TX 76055 bottom of page

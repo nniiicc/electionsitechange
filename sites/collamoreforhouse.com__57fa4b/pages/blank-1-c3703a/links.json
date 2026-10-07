@@ -1,11 +1,50 @@
 [
-"http://facebook.com/collamoreforhouse",
-"http://instagram.com/collamoreforhouse",
-"https://collamoreforhouse.com/",
-"https://collamoreforhouse.com/blank-10",
-"https://collamoreforhouse.com/blog",
-"https://collamoreforhouse.com/event-list",
-"https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1123&snum=132",
-"https://maine.gov/doe/schools/nutrition/programs/farmtoschool",
-"https://paypal.com/ncp/payment/HLRL7AJLNLXR8"
+{
+"text": "Blog",
+"href": "https://www.collamoreforhouse.com/blog"
+},
+{
+"text": "DONATE",
+"href": "https://www.paypal.com/ncp/payment/HLRL7AJLNLXR8"
+},
+{
+"text": "DONATE NOW",
+"href": "https://www.paypal.com/ncp/payment/HLRL7AJLNLXR8"
+},
+{
+"text": "Events",
+"href": "https://www.collamoreforhouse.com/event-list"
+},
+{
+"text": "Farm and Sea to School",
+"href": "https://www.maine.gov/doe/schools/nutrition/programs/farmtoschool"
+},
+{
+"text": "Frequently Asked Questions",
+"href": "https://www.collamoreforhouse.com/blank-10"
+},
+{
+"text": "Home",
+"href": "https://www.collamoreforhouse.com"
+},
+{
+"text": "LD 1123",
+"href": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1123&snum=132"
+},
+{
+"text": "[image: Clint-Collamore-logo]",
+"href": "https://www.collamoreforhouse.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/collamoreforhouse"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/collamoreforhouse"
+},
+{
+"text": "[no text]",
+"href": "mailto:collamoreforhouse@gmail.com?subject=CC"
+}
 ]

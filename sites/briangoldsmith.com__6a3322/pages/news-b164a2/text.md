@@ -1,64 +1,17 @@
-In the News
-For media requests, please contact press@briangoldsmith2026.com
-Why Goldsmith is Running for CA State Senate
-Fox 11 Los Angeles
-Brian lays out his agenda to achieve a safer, more affordable California.
-May 27, 2026
-“Housing is the biggest driver of unaffordability.
+0 Skip to Content Home Endorsements Issues District 24 News Resources DONATE Open Menu Close Menu Home Endorsements Issues District 24 News Resources DONATE Open Menu Close Menu Home Endorsements Issues District 24 News Resources DONATE In the News For media requests, please contact press@briangoldsmith2026.com Why Goldsmith is Running for CA State Senate Fox 11 Los Angeles Brian lays out his agenda to achieve a safer, more affordable California.
+Brian Goldsmith Lays Out His Plans to Make Affordability a Reality Westside Current May 27, 2026 “Housing is the biggest driver of unaffordability.
 And it's true that we need lots more supply-but what and where we build is critical.
 We are in desperate need of more starter homes, affordable homes, and condos.
-We need housing that families can actually afford.”
-May 25, 2026
-“‘Our budget has gone up from $208 billion to $349 billion, but we’re not seeing an increase in the quality of our public services,’ Goldsmith said.”
-May 14, 2026
-“Long before the violence of Oct. 7, 2023 touched every corner of the Jewish consciousness, Brian Goldsmith had already decided that antisemitism inside the Democratic Party — and beyond — was an issue worth the political risk.”
-Alumni Spotlight: Brian Goldsmith ‘94
-The John Thomas Dye School
-February 7, 2026
-“‘When Brian Goldsmith was 18, his parents made what he now calls an unbelievable decision: they let him defer college to move to New York and work on Hillary Clinton's Senate campaign.”
-Goldsmith Makes His Case for State Senate, One Conversation at a Time
-Santa Monica Daily Press
-April 24, 2026
-“Goldsmith is positioning himself as a zealous advocate in Sacramento across a range of issue areas tied to recovery.
+We need housing that families can actually afford. ” Pelosi, Clinton, Buttigieg, and Meister Are Backing Him — SD-24 Frontrunner Brian Goldsmith on Some of WeHo’s Hot-Button Issues and Why He Decided to Run WEHO Online May 25, 2026 “‘Our budget has gone up from $208 billion to $349 billion, but we’re not seeing an increase in the quality of our public services ,’ Goldsmith said.” Brian Goldsmith’s Senate Bid Rooted in Fighting Anti-Semitism in California Jewish Journal May 14, 2026 “Long before the violence of Oct.
+7, 2023 touched every corner of the Jewish consciousness, Brian Goldsmith had already decided that antisemitism inside the Democratic Party — and beyond — was an issue worth the political risk. ” Alumni Spotlight: Brian Goldsmith ‘94 The John Thomas Dye School February 7, 2026 “‘When Brian Goldsmith was 18, his parents made what he now calls an unbelievable decision: they let him defer college to move to New York and work on Hillary Clinton's Senate campaign. ” Goldsmith Makes His Case for State Senate, One Conversation at a Time Santa Monica Daily Press April 24, 2026 “Goldsmith is positioning himself as a zealous advocate in Sacramento across a range of issue areas tied to recovery.
 First and foremost is safety.
-From natural disasters to everyday public safety, his stance is… people should not have to pay for private security to feel safe.”
-The Courier Interview: Local Resident Brian Goldsmith on His State Senate Race
-Beverly Hills Courier
-April 24, 2026
-An in-depth look at Brian’s Focus on the Future agenda for Senate District 24
-April 16, 2026
-“Goldsmith sees this race as an opportunity to get things back on track for Californians and create the protections needed to make living here affordable again while leaving no one behind.”
-Open Senate Seat Draws Crowded Field
-The Acorn
-April 10, 2026
-“Goldsmith… boasts an impressive array of backers, including U.S.
+From natural disasters to everyday public safety, his stance is… people should not have to pay for private security to feel safe.” The Courier Interview: Local Resident Brian Goldsmith on His State Senate Race Beverly Hills Courier April 24, 2026 An in-depth look at Brian’s Focus on the Future agenda for Senate District 24 The Brian Goldsmith Interview: A Legislative Blueprint for a Better California CityWatch LA April 16, 2026 “Goldsmith sees this race as an opportunity to get things back on track for Californians and create the protections needed to make living here affordable again while leaving no one behind.” Open Senate Seat Draws Crowded Field The Acorn April 10, 2026 “Goldsmith… boasts an impressive array of backers , including U.S.
 Rep.
 Nancy Pelosi, former Secretary of State Hillary Clinton, former Sen.
 Barbara Boxer, state Sen.
 Henry Stern, former state Sen.
-Fran Pavley…”
-April 8, 2026
-“‘Brian is politically savvy without being a career politician,’ Meister said. ‘He’s worked with people I respect, from Hillary Clinton to Katie Couric.’”
-Goldsmith says incremental progress is key to 24th State Senate District’s growth
-Beverly Press & Park La Brea News
-April 8, 2026
-“‘I’d rather get a small-or-medium-sized thing accomplished on time and on budget than try to do the gargantuan tens of billions of dollars’ worth project and hope for the best.’”
-Goldsmith Pitches a ‘Fresh Perspective’ for District 24
-Westside Current
-April 1, 2026
-“‘We now know that the Palisades fire was entirely preventable, and that it was mismanaged at every stage — before, during, and after — at all levels of government,” Goldsmith said… ‘we need more people in office who.. who can disagree with the people in power when they’re doing something wrong.”
-February 7, 2026
-“‘A state legislator, Senator, or Assembly member can do a lot.
+Fran Pavley…” Meister to Erickson: Not You.
+Endorses Brian Goldsmith for State Senate WEHO Online April 8, 2026 “‘Brian is politically savvy without being a career politician ,’ Meister said. ‘He’s worked with people I respect, from Hillary Clinton to Katie Couric.’” Goldsmith says incremental progress is key to 24th State Senate District’s growth Beverly Press & Park La Brea News April 8, 2026 “‘I’d rather get a small-or-medium-sized thing accomplished on time and on budget than try to do the gargantuan tens of billions of dollars’ worth project and hope for the best.’” Goldsmith Pitches a ‘Fresh Perspective’ for District 24 Westside Current April 1, 2026 “‘We now know that the Palisades fire was entirely preventable , and that it was mismanaged at every stage — before, during, and after — at all levels of government,” Goldsmith said… ‘we need more people in office who.. who can disagree with the people in power when they’re doing something wrong.” Meet Brian Goldsmith: Top Fundraiser and Challenger for District 24 WEHO Online February 7, 2026 “‘A state legislator, Senator, or Assembly member can do a lot.
 You have to be smart and strategic.
-You have to be a good coalition builder.’”
-January 27, 2026
-“Several local business owners, community activists and those just passing by got the chance over coffee to ask questions and engage the candidate … at The Butcher's Daughter located on Abbott Kinney in the heart of Venice.”
-Brian Goldsmith Enters State Senate Race
-Beverly Hills Courier
-April 17, 2025
-“‘I was born and raised in this district… my grandparents moved to Beverly Hills in 1952 and thought they arrived in heaven.
-I never expected to run for office but we’re at a critical moment.’”
-Goldsmith Looks Toward California’s Future
-Beverly Press
-April 30, 2025
-“‘Why are we doing business the way we’re doing business, and are we actually getting value for all the billions of dollars in taxpayer money we’re spending on various programs,’ [Goldsmith] said, advocating for California to become more ‘results and outcome oriented’ versus ‘being process oriented.’”
+You have to be a good coalition builder.’ ” Goldsmith’s ‘Meet and Greet’ Coffee comes to Venice CityWatch LA January 27, 2026 “Several local business owners, community activists and those just passing by got the chance over coffee to ask questions and engage the candidate … at The Butcher's Daughter located on Abbott Kinney in the heart of Venice.” Brian Goldsmith Enters State Senate Race Beverly Hills Courier April 17, 2025 “‘I was born and raised in this district… my grandparents moved to Beverly Hills in 1952 and thought they arrived in heaven.
+I never expected to run for office but we’re at a critical moment .’” Goldsmith Looks Toward California’s Future Beverly Press April 30, 2025 “‘Why are we doing business the way we’re doing business, and are we actually getting value for all the billions of dollars in taxpayer money we’re spending on various programs,’ [Goldsmith] said, advocating for California to become more ‘results and outcome oriented’ versus ‘being process oriented.’” EMAIL BRIAN Paid for by Brian Goldsmith for State Senate 2026, FPPCID #1480404

@@ -1,13 +1,62 @@
 [
-"https://facebook.com/hassan.nehme.7773",
-"https://hassannehme.com/",
-"https://hassannehme.com/cdn-cgi/l/email-protection",
-"https://hassannehme.com/contact",
-"https://hassannehme.com/donate",
-"https://hassannehme.com/endorsements",
-"https://hassannehme.com/events",
-"https://hassannehme.com/issues",
-"https://hassannehme.com/issues?lang=en",
-"https://hassannehme.com/meet-hassan",
-"https://hassannehme.com/store"
+{
+"text": "English",
+"href": "https://hassannehme.com/issues?lang=en"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/hassan.nehme.7773"
+},
+{
+"text": "Store",
+"href": "https://hassannehme.com/store"
+},
+{
+"text": "[email protected]",
+"href": "mailto:contact@votenehme.com"
+},
+{
+"text": "[image: Hassan Nehme for State Representative]",
+"href": "https://hassannehme.com/"
+},
+{
+"text": "f",
+"href": "https://www.facebook.com/hassan.nehme.7773"
+},
+{
+"text": "اتصل بنا",
+"href": "https://hassannehme.com/contact"
+},
+{
+"text": "التأييدات",
+"href": "https://hassannehme.com/endorsements"
+},
+{
+"text": "الرئيسية",
+"href": "https://hassannehme.com/"
+},
+{
+"text": "الفعاليات",
+"href": "https://hassannehme.com/events"
+},
+{
+"text": "القضايا",
+"href": "https://hassannehme.com/issues"
+},
+{
+"text": "تبرّع",
+"href": "https://hassannehme.com/donate"
+},
+{
+"text": "تعرّف على حسن",
+"href": "https://hassannehme.com/meet-hassan"
+},
+{
+"text": "سجّل للمساعدة",
+"href": "https://hassannehme.com/contact#volunteer"
+},
+{
+"text": "شارك معنا",
+"href": "https://hassannehme.com/contact"
+}
 ]

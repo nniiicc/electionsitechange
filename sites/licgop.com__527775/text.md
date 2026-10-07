@@ -1,10 +1,7 @@
-As a Republican I represent the faction that stands AGAINST war, and AGAINST the influence of Israel on our governance.
+Join the Republican revolution and STOP DSA (the gentrifiers of activism!) As a Republican I represent the faction that stands AGAINST war, and AGAINST the influence of Israel on our governance.
 I am NYC's true America First candidate!
-I stand FOR RESPONSIBLE and REDUCED government spending, transparency, and REAL JUSTICE (not funding Not for Profit Executives)
-Change your NY Voter registration to REPUBLICAN
-Find your poll site (place to vote)
-| | |
-| I'd like to thank the people who helped make my campaign possible.
+I stand FOR RESPONSIBLE and REDUCED government spending, transparency, and REAL JUSTICE (not funding Not for Profit Executives) ENTER THE MAIN SITE by clicking on the logo above Change your NY Voter registration to REPUBLICAN Find your poll site (place to vote) Before you enter the main site, please Subscribe to the LIC GOP newsletter!
+Join the facebook group to get in on the conversation!
+NYC'S America First organizing hub Thanks I'd like to thank the people who helped make my campaign possible.
 Theo Chino, Danny Maio, Dion Powell, Jonathan Rinaldi, Susan Buchser Lochocki, Geoff Young, Brian Winters of An American Union, Josh Hadley of Green Party Alaska, Keith Frank former NYS coordinator of the People's Party I'd like to thank people who have inspired and supported me.
-Marc Safman, Twelve Veils, Carmen Quinones, Kori Edens, Rosa Diaz, Mike Zumbluskas, Nolan Farrell, Alexa Cruz, Muti Ajamu Osagboro, Vincent Moto, Chinchila Jonesia, Jay Rene, Alan Collinge, The Yellow Brick Road crew, Alex Brass, Deveine Nash, Ramona Ferrera, Danette Chavis, Reverend Carmen Hernandez, Manny Martinez, the Salvation Army, David Rem, Elena Coppola, Christopher Leon Johnson, Fernando Maisonett, Herman Matfes, State Senator Steven Chan, Nelson Mar, Steven Lee, Janae Catt, Sincere God Magnetic, Michael Won, K town Social Club, the 5th platoon, Louis Rossman, and of course my family |
-Contact: djelf7@djelf7.com 347-709-3001
+Marc Safman, Twelve Veils, Carmen Quinones, Kori Edens, Rosa Diaz, Mike Zumbluskas, Nolan Farrell, Alexa Cruz, Muti Ajamu Osagboro, Vincent Moto, Chinchila Jonesia, Jay Rene, Alan Collinge, The Yellow Brick Road crew, Alex Brass, Deveine Nash, Ramona Ferrera, Danette Chavis, Reverend Carmen Hernandez, Manny Martinez, the Salvation Army, David Rem, Elena Coppola, Christopher Leon Johnson, Fernando Maisonett, Herman Matfes, State Senator Steven Chan, Nelson Mar, Steven Lee, Janae Catt, Sincere God Magnetic, Michael Won, K town Social Club, the 5th platoon, Louis Rossman, and of course my family Contact: djelf7@djelf7.com 347-709-3001

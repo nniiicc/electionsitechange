@@ -1,14 +1,12 @@
-(posted by Elvis Clark on January 15, 2026)
-(posted by Elvis Clark on January 8, 2026)
-The baseball cap says it all.
-Posted May 25, 2025 by Elvis Clark.
+Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes More Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes (posted by Elvis Clark on January 15, 2026) (posted by Elvis Clark on January 8, 2026) How bout those Somali day care fronts Epstein and newsom - 2 running tv news shows in 2025 Sorry, to make light of the Epstein case, but it is now a funny circus of sorts Meanwhile, California Governor Newsom practices magic, badly University of Michigan football head coach is a suspect The Babylon Bee has fun with Michigan's Football coach dilemma: Characters playing as democrat party leaders Cal.
+Gov Newsome does his hand jive dance - loses to Trump Dance I guess someone has to play the Socialist in national politics - it's Bernie's long running gig California governor newsom plays the joker for real The baseball cap says it all.
+Tribute to Scott Adams, Creator of Dilbert Cartoons Posted May 25, 2025 by Elvis Clark.
 (I am saddened this week to learn that cartoonist and philosopher, Scott Adams, has advanced, terminal prostate cancer and is expected to die in the next several months.
 This same week we are told former President Biden also has prostate cancer, although not as advanced as that of Adams.
-Adams is in his late 60s, but a little-known fact is that the PSA test for prostate cancer is generally not part of the typical annual physical exam after a person becomes 75 years old or older, for those in which prostate cancer had not already been detected.)
-(posted by Elvis Clark on May 13, 2025) Grumpy old Man of the U.S Senate joke:
-The Babylon Bee's take off, stemming from a federal judge's order for returning violent illegal immigrant gang members to the U.S from El Salvador.
-As the world turns in early 2025.
-I used your water for the fish, flushing them out to sea.
-I used fire, to burn out you colonizers.
-(posted by Elvis Clark on 10/5/24)
-(posted by Elvis Clark on August 8, 2024)
+Adams is in his late 60s, but a little-known fact is that the PSA test for prostate cancer is generally not part of the typical annual physical exam after a person becomes 75 years old or older, for those in which prostate cancer had not already been detected.) (posted by Elvis Clark on May 13, 2025) Grumpy old Man of the U.S Senate joke: The Babylon Bee's take off, stemming from a federal judge's order for returning violent illegal immigrant gang members to the U.S from El Salvador. joke about Trump/Musk's usaid shutdown The Kennedy confirmation hearing revealed some irony Seems the big critics of Big Drug Companies might have accepted campaign monies from Drug Industry As the world turns in early 2025.
+California Governor newsome is bizzaro I used your water for the fish, flushing them out to sea.
+I used fire, to burn out you colonizers. housing shortage solution: blue states become unappealing Oregon solves its housing shortage by scaring off its middle/ upper-income folks to other states?
+Trump is a character - broken free of the establishment Scott Adams' artist rendention of the Vance-Walz debate (posted by Elvis Clark on 10/5/24) Dilbert for U, September 2024 George constanza, "Seinfeld character," on making a lie live In the below photo, Constanza, on how to he is able to pass a lie detector test when yet lying (posted by Elvis Clark on August 8, 2024) Powered by

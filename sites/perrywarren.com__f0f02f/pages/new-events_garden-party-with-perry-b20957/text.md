@@ -1,28 +1,5 @@
-Garden Party for Perry
-OUR HOST COMMITTEE
-Ed and Tara Grunde-McLaughlin
-Mary Hunter
-Jan Larsson
-Renee and Chris Donahey
-valerie and Hank Schrandt
-chriSty And Scott Wallace
-and State Senator Steve Santarsiero
-invite you to join them for lite fare and drinks at The Barnsley House, the beautiful home of Ed and Tara Grunde-McLaughlin
-125 North Chancellor Street Newtown, PA 18940
-Sunday, June 12, 2022 – 4:00 pm to 7:00 pm
-Contribution Levels
-Guest $60.00 Friend $100.00
-Silver $250.00 Gold $500.00
-Platinum $1,000.00 Host $2,000.00
-RSVP by phone or text to • Liz – 609-575-1963
-RSVP by email to perry@perrywarren.com
-RSVP online click here
-RSVP by mail to
-Perry Warren for State Representative
-P.
+Keep Perry in Harrisburg!
+Meet Perry Events Home Issues CONTRIBUTE Endorsements Join Our Team Fellows/Interns How-To Register to Vote Vote By Mail Keep Perry in Harrisburg!
+Meet Perry Events Home Issues CONTRIBUTE Endorsements Join Our Team Fellows/Interns How-To Register to Vote Vote By Mail Back to All Events Garden Party with Perry Sunday, June 12, 2022 4:00 PM 7:00 PM 16:00 19:00 The Barnsley House- the home of Ed and Tara Grunde-McLaughlin (map) Google Calendar ICS Garden Party for Perry OUR HOST COMMITTEE Ed and Tara Grunde-McLaughlin Mary Hunter Jan Larsson Renee and Chris Donahey valerie and Hank Schrandt chriSty And Scott Wallace and State Senator Steve Santarsiero invite you to join them for lite fare and drinks at The Barnsley House, the beautiful home of Ed and Tara Grunde-McLaughlin 125 North Chancellor Street Newtown, PA 18940 Sunday, June 12, 2022 – 4:00 pm to 7:00 pm Contribution Levels Guest $60.00 Friend $100.00 Silver $250.00 Gold $500.00 Platinum $1,000.00 Host $2,000.00 RSVP by phone or text to • Liz – 609-575-1963 RSVP by email to perry@perrywarren.com RSVP online click here RSVP by mail to Perry Warren for State Representative P.
 O.
-Box 420,
-Newtown, PA 18940
-Please make checks payable to
-“Perry Warren for State Representative”
-Paid for by Perry Warren for State Representative
+Box 420, Newtown, PA 18940 Please make checks payable to “Perry Warren for State Representative” Paid for by Perry Warren for State Representative Later Event: September 28 Reception to Re-Elect Perry Warren at Trattoria Rosa Bianca Back to Top perry@perrywarren.com Paid for by Perry Warren for State Representative

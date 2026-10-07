@@ -1,24 +1,5 @@
-Skip to Content
-Home
-Contact Lisa
-Volunteer Interest Form
-Donate
-Events
-Events
-SouthBerkeley4thFunRun
-0
-0
-Follow us
-0
-0
-Home
-Contact Lisa
-Volunteer Interest Form
-Donate
-Events
-Events
-SouthBerkeley4thFunRun
-Follow us
-My Wishlist
-Your wishlist is empty!
-Shop
+Skip to Content Home Contact Lisa Volunteer Interest Form Donate Events Events SouthBerkeley4thFunRun 0 0 Follow us 0 0 Home Contact Lisa Volunteer Interest Form Donate Events Events SouthBerkeley4thFunRun Follow us My Wishlist Your wishlist is empty!
+Shop UPCOMING EVENTS: (CLICK ON LINKS FOR DETAILS & TO RSVP) July 4th ~ 5-8pm: South Berkeley 4th of July Fun Run & Community Celebration July 11th: Candidate and Volunteer Training in Bridgeport, WV PAST EVENTS: June 19th - 21th: Juneteenth Celebration in Martinsburg June 12th ~ 9-11am: Health & Human Services Collaborative Quarterly Meeting June 7th ~ Berkeley County Democratic Association Summer Picnic June 1st ~ 6pm: Shepherdstown Gay Pride Parade May 27th ~ 9-11am: Make a Memorial Day Shirt @ Epic Level Ink in Hedgesville May 12th: Primary Election Day!
+May 5th ~ 5:30 - 7pm: Table Talk - Conversations with the Candidates for Berkeley County Board of Education @ St.
+Johns Lutheran Church, 101 W.
+Martin St in Martinsburg April 30th ~ 8:30-9:30pm: West Virginia Public School Improvement Brainstorm, Virtual Session March 26th: Speech at the Martinsburg No Kings Rally © # Paid for by Lisa Cathro for West Virginia ​ - Terms & Conditions - Privacy Policy Powered by - The #1 Open Source eCommerce

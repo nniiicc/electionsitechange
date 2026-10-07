@@ -1,9 +1,13 @@
 {
  "description": "Read The 91st, a report to the people of Tennessee House District 91.",
  "final_url": "https://www.torreyharris.com/magazine",
+ "fingerprint": "90ebd8b7ff26ad2086fe458c1962b33393a9ca9d",
+ "format": 3,
  "paid_for_by": "PAID FOR BY COMMITTEE TO ELECT TORREY HARRIS",
- "title": "The 91st Magazine \u2014 Rep. Torrey C. Harris",
+ "title": "The 91st Magazine — Rep. Torrey C. Harris",
  "years_mentioned": [
-  "2026"
+  "2025",
+  "2026",
+  "2027"
  ]
 }

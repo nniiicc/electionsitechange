@@ -1,16 +1,12 @@
-Rep.
-John Ley says there’s simply too much fuel waiting to burn
-Sunday, August 9, 2026, Clark County Today
-Rep.
-John Ley
-for Clark County Today
-Wildfires are devouring more than 2 million acres across Washington and Oregon.
+Home News Latest News 60 Seconds With John Ley About Me Donate Issues Wildfires, forgotten lessons and the price of neglect September 12, 2026 by John Ley Rep.
+John Ley says there’s simply too much fuel waiting to burn Sunday, August 9, 2026, Clark County Today Rep.
+John Ley for Clark County Today Wildfires are devouring more than 2 million acres across Washington and Oregon.
 In the Spokane area alone, a blaze set by a convicted felon has already destroyed over 900 homes and businesses.
 Families who lost everything sit in shock, grateful only that no one has died — so far.
 Lightning still starts most wildfires.
 What turns them into runaway disasters is decades of poor forest management: too few fire roads and fire breaks, and far too much underbrush, tinder, and dead wood waiting to explode.
 History is not subtle on this point.
-From the mid-1950s through the mid-1980s, aggressive fire suppression in the Pacific Northwest kept large blazes rare.
+From the mid-1950s through the mid-1980s, aggressive fire suppression in the Pacific Northwest kept large blazes rare .
 In those decades only one fire in Oregon or Washington exceeded 100,000 acres — the 1970 Entiat Fire at roughly 122,000 acres.
 Between 1952 and 1987, just a single forest fire in all of western Oregon topped 10,000 acres (the 1966 Oxbow Fire at about 43,000).
 Large fires were the exception, not the rule.
@@ -21,10 +17,9 @@ More than 7,000 personnel are fighting 16 uncontained major fires under a statew
 How will the state help the families who lost homes and livelihoods?
 What resources can it actually put on the ground?
 And what must change so this does not become the new normal?
-Michael Medler, a professor of environmental studies at Western Washington University who studies the geography of fire, puts it plainly: “The numbers don’t lie.
+Michael Medler, a professor of environmental studies at Western Washington University who studies the geography of fire, puts it plainly : “The numbers don’t lie.
 Even the way we describe wildland fires has changed: We used to talk about them in acres, now we use square miles.
-A huge fire back in the ‘80s was 50,000 acres; now it takes 300,000 or more to move the needle.”
-One news report put it this way.
+A huge fire back in the ‘80s was 50,000 acres; now it takes 300,000 or more to move the needle.” One news report put it this way.
 Every one of the ten largest US wildfire seasons on record has happened since 2004.
 An area the size of five Yellowstone National Parks is routinely burned annually, and those numbers are continuing, on average, to climb.
 The fuel load is staggering.
@@ -32,8 +27,7 @@ The fuel load is staggering.
 “That’s roughly the size of Alaska, and to do that would take, no exaggeration, 10 million people, full-time.
 Not going to happen.
 Right now the Forest Service is thinning about half a million acres a year… We’re not going to fix this with chainsaws.
-The only thing that will fix it is fire.”
-Medler’s prescription is practical.
+The only thing that will fix it is fire.” Medler’s prescription is practical.
 Clear quarter-mile buffer zones around high-risk communities in the eastern Cascades foothills and places like Spokane.
 Hire more fire managers and mitigation specialists.
 Checkerboard the forests near population centers with carefully planned prescribed burns so the next lightning strike or arsonist does not find a continuous carpet of fuel.
@@ -55,4 +49,9 @@ We can and must do better.
 The families who lost homes and businesses deserve more than sympathy.
 The rest of the state deserves a forest policy that remembers what once worked, restores active management, and stops treating catastrophic fire as inevitable.
 Rep.
-John Ley represents the 18th Legislative District and he sits on the House Environment and Energy Committee.
+John Ley represents the 18th Legislative District and he sits on the House Environment and Energy Committee. carbon emissions Climate Commitment Act Entiat Fire Forest management Forest Service Michael Medler Spokane fires timber wildfires by John Ley previous Rep.
+John Ley Raises New Concerns Over $321 Million in IBR Spending next Washington state’s rainy day fund won’t help fire victims Help me fight for the people and common sense solutions.
+I want to serve YOU in Olympia.
+Donate Contact electjohnley@gmail.com P.O.
+Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.
+Box 822041, Vancouver, WA 98682

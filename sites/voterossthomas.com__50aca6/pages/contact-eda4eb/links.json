@@ -1,14 +1,50 @@
 [
-"https://bsky.app/profile/rossthomas4senate.bsky.social",
-"https://campaignpartner.com/",
-"https://facebook.com/rossthomasforIndSenate41",
-"https://secure.actblue.com/donate/voterossthomas",
-"https://twitter.com/Thomas4Senate41",
-"https://voterossthomas.com/",
-"https://voterossthomas.com/contact",
-"https://voterossthomas.com/home",
-"https://voterossthomas.com/issues",
-"https://voterossthomas.com/meet_ross",
-"https://voterossthomas.com/volunteer",
-"https://voterossthomas.com/vote"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.voterossthomas.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/voterossthomas"
+},
+{
+"text": "Home",
+"href": "https://www.voterossthomas.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.voterossthomas.com/issues"
+},
+{
+"text": "Meet Ross",
+"href": "https://www.voterossthomas.com/meet_ross"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voterossthomas.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.voterossthomas.com/vote"
+},
+{
+"text": "[image: Ross Thomas Indiana State Senate]",
+"href": "https://www.voterossthomas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/rossthomas4senate.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Thomas4Senate41"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/rossthomasforIndSenate41"
+}
 ]

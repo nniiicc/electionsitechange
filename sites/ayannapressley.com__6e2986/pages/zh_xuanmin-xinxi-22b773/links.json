@@ -1,31 +1,146 @@
 [
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=10",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=100",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53",
-"https://ayannapressley.com/",
-"https://ayannapressley.com/es",
-"https://ayannapressley.com/ht",
-"https://ayannapressley.com/zh",
-"https://ayannapressley.com/zh/lianluo-women",
-"https://ayannapressley.com/zh/xuanmin-xinxi",
-"https://ayannapressley.com/zh/yigong",
-"https://ayannapressley.com/zh/yinsi-zhengce",
-"https://ayannapressley.com/zh/yizheng-shixiang",
-"https://ayannapressley.com/zh/yu-yaren-na-huimian",
-"https://docs.google.com/document/d/1k3wnxlwZXRO_pWAoJnqFMHQXSD2L6GKdUN_9W0jITyo/edit",
-"https://facebook.com/ayannapressley2",
-"https://instagram.com/ayannapressley",
-"https://middleseat.co/",
-"https://mobilize.us/ayannapressley",
-"https://sec.state.ma.us/OVR/Welcome.aspx",
-"https://sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote",
-"https://sec.state.ma.us/ele/eleev/ev-find-my-election-office.htm",
-"https://sec.state.ma.us/ele/eleev/evidx.htm",
-"https://sec.state.ma.us/ele/elepdf/Vote-by-Mail-Paper-Application-2022.pdf",
-"https://sec.state.ma.us/ovr",
-"https://sec.state.ma.us/wheredoivotema/track/trackmyballot.aspx",
-"https://secure.actblue.com/donate/ayannapressleysite1",
-"https://store.ayannapressley.com/",
-"https://twitter.com/AyannaPressley",
-"https://twitter.com/ayannapressley"
+{
+"text": "$10",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=10"
+},
+{
+"text": "$100",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=100"
+},
+{
+"text": "$20.53",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com/zh"
+},
+{
+"text": "EN",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "ES",
+"href": "https://ayannapressley.com/es"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ayannapressley2/"
+},
+{
+"text": "HT",
+"href": "https://ayannapressley.com/ht"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ayannapressley/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AyannaPressley"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ayannapressley"
+},
+{
+"text": "ZH",
+"href": "https://ayannapressley.com/zh"
+},
+{
+"text": "州務卿網站",
+"href": "https://www.sec.state.ma.us/ele/eleev/evidx.htm"
+},
+{
+"text": "捐献",
+"href": "https://secure.actblue.com/donate/ayannapressleysite1"
+},
+{
+"text": "新：尋找我的投票站（9 月 6 日選舉日）",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote"
+},
+{
+"text": "新：提前投票的投票地點",
+"href": "https://docs.google.com/document/d/1k3wnxlwZXRO_pWAoJnqFMHQXSD2L6GKdUN_9W0jITyo/edit"
+},
+{
+"text": "新：查找我的選舉辦事處或投票箱位置",
+"href": "https://www.sec.state.ma.us/ele/eleev/ev-find-my-election-office.htm"
+},
+{
+"text": "書記官的網站",
+"href": "https://www.sec.state.ma.us/ele/eleev/ev-find-my-election-office.htm"
+},
+{
+"text": "此處",
+"href": "https://www.sec.state.ma.us/OVR/Welcome.aspx"
+},
+{
+"text": "此處",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote"
+},
+{
+"text": "此處",
+"href": "https://www.sec.state.ma.us/ele/eleev/ev-find-my-election-office.htm"
+},
+{
+"text": "此處",
+"href": "https://www.sec.state.ma.us/ele/elepdf/Vote-by-Mail-Paper-Application-2022.pdf"
+},
+{
+"text": "此處",
+"href": "https://www.sec.state.ma.us/ovr/"
+},
+{
+"text": "活動",
+"href": "https://www.mobilize.us/ayannapressley/"
+},
+{
+"text": "當地的選舉部門",
+"href": "https://www.sec.state.ma.us/ele/eleev/ev-find-my-election-office.htm"
+},
+{
+"text": "義工",
+"href": "https://ayannapressley.com/zh/yigong/"
+},
+{
+"text": "聯絡我們",
+"href": "https://ayannapressley.com/zh/lianluo-women/"
+},
+{
+"text": "與雅仁娜會面",
+"href": "https://ayannapressley.com/zh/yu-yaren-na-huimian/"
+},
+{
+"text": "議政事項",
+"href": "https://ayannapressley.com/zh/yizheng-shixiang/"
+},
+{
+"text": "購物站",
+"href": "https://store.ayannapressley.com/"
+},
+{
+"text": "跟踪我的選票",
+"href": "https://www.sec.state.ma.us/wheredoivotema/track/trackmyballot.aspx"
+},
+{
+"text": "這裡",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote"
+},
+{
+"text": "選民信息",
+"href": "https://ayannapressley.com/zh/xuanmin-xinxi/"
+},
+{
+"text": "隱私政策",
+"href": "https://ayannapressley.com/zh/yinsi-zhengce/"
+}
 ]

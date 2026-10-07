@@ -1,25 +1,98 @@
 [
-"http://webserver.rilegislature.gov/billtext22/senatetext22/s2168.htm",
-"http://webserver.rilegislature.gov/billtext22/senatetext22/s2177.htm",
-"http://webserver.rilegislature.gov/billtext22/senatetext22/s2232.htm",
-"http://webserver.rilegislature.gov/billtext22/senatetext22/s2255.htm",
-"http://webserver.rilegislature.gov/billtext22/senatetext22/s2362.htm",
-"http://webserver.rilegislature.gov/billtext22/senatetext22/s2439.htm",
-"http://webserver.rilegislature.gov/billtext22/senatetext22/s2505.htm",
-"http://webserver.rilegislature.gov/billtext22/senatetext22/s2513.htm",
-"http://webserver.rilegislature.gov/billtext22/senatetext22/s2838.htm",
-"http://webserver.rilegislature.gov/billtext22/senatetext22/s2850.htm",
-"https://samzurier.com/",
-"https://samzurier.com/2024-senate-district-letters",
-"https://samzurier.com/2025-district-letters",
-"https://samzurier.com/2026-district-letters",
-"https://samzurier.com/about-sam-zurier",
-"https://samzurier.com/donate",
-"https://samzurier.com/join-my-email-list",
-"https://samzurier.com/my-work-2",
-"https://samzurier.com/public-service-record",
-"https://samzurier.com/senate-district-letters",
-"https://samzurier.com/state-issues",
-"https://samzurier.com/state-legislation",
-"https://samzurier.com/wp-content/uploads/Summary-of-Crowley-Act-Bills.pdf"
+{
+"text": "2022-23 District Letters",
+"href": "https://samzurier.com/senate-district-letters/"
+},
+{
+"text": "2024 District Letters",
+"href": "https://samzurier.com/2024-senate-district-letters/"
+},
+{
+"text": "2025 District Letters",
+"href": "https://samzurier.com/2025-district-letters/"
+},
+{
+"text": "2026 District Letters",
+"href": "https://samzurier.com/2026-district-letters/"
+},
+{
+"text": "Bio",
+"href": "https://samzurier.com/about-sam-zurier/"
+},
+{
+"text": "DONATE",
+"href": "https://samzurier.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://samzurier.com/"
+},
+{
+"text": "Join My Email List",
+"href": "https://samzurier.com/join-my-email-list/"
+},
+{
+"text": "Projects",
+"href": "https://samzurier.com/my-work-2/"
+},
+{
+"text": "Public Service Record",
+"href": "https://samzurier.com/public-service-record/"
+},
+{
+"text": "S-2168",
+"href": "http://webserver.rilegislature.gov/billtext22/senatetext22/s2168.htm"
+},
+{
+"text": "S-2177",
+"href": "http://webserver.rilegislature.gov/billtext22/senatetext22/s2177.htm"
+},
+{
+"text": "S-2232",
+"href": "http://webserver.rilegislature.gov/billtext22/senatetext22/s2232.htm"
+},
+{
+"text": "S-2362",
+"href": "http://webserver.rilegislature.gov/billtext22/senatetext22/s2362.htm"
+},
+{
+"text": "S-2439",
+"href": "http://webserver.rilegislature.gov/billtext22/senatetext22/s2439.htm"
+},
+{
+"text": "S-2505",
+"href": "http://webserver.rilegislature.gov/billtext22/senatetext22/s2505.htm"
+},
+{
+"text": "S-2513",
+"href": "http://webserver.rilegislature.gov/billtext22/senatetext22/s2513.htm"
+},
+{
+"text": "S-2555",
+"href": "http://webserver.rilegislature.gov/billtext22/senatetext22/s2255.htm"
+},
+{
+"text": "S-2838",
+"href": "http://webserver.rilegislature.gov/billtext22/senatetext22/s2838.htm"
+},
+{
+"text": "S-2850",
+"href": "http://webserver.rilegislature.gov/billtext22/senatetext22/s2850.htm"
+},
+{
+"text": "State Issues",
+"href": "https://samzurier.com/state-issues/"
+},
+{
+"text": "State Legislation",
+"href": "https://samzurier.com/state-legislation/"
+},
+{
+"text": "[image: Sam Zurier New Site]",
+"href": "https://samzurier.com/"
+},
+{
+"text": "clicking on this link",
+"href": "https://samzurier.com/wp-content/uploads/Summary-of-Crowley-Act-Bills.pdf"
+}
 ]

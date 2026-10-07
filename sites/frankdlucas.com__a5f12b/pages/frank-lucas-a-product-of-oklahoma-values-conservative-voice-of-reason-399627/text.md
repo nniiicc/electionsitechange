@@ -1,4 +1,4 @@
-Growing up in Oklahoma, you learn pretty quickly how important your neighbors are.
+Skip to content Frank Lucas ☰ About Frank Issues The Latest Press Packet Contact Donate X About Frank Issues The Latest Press Packet Contact Donate October 16, 2020 Frank Lucas: A Product of Oklahoma Values & Conservative Voice of Reason Growing up in Oklahoma, you learn pretty quickly how important your neighbors are.
 Whether they’re there to lend a helping hand when times are tough or there to celebrate your family’s life milestones, your neighbors are the folks you look out for.
 I was raised to believe that the government should be doing things for people, not doing things to people.
 And that’s the mindset I take to Washington, D.C. as your Congressman.
@@ -33,3 +33,7 @@ As the Congressman for Oklahoma’s Third Congressional District, I’m proud to
 As my father taught me, I’ll look out for those who call Oklahoma home.
 My principles of family and hard work run deep, and I’ll always stand up for Oklahoma’s values and be a conservative voice of reason.
 So, whether you’re a family farmer, small business owner, educator, public servant, or anything in between, I hope I can count on your vote on Election Day.
+Share Post navigation President Trump Endorses Frank Lucas for Congress Frank Lucas: ‘Deeply Honored to Earn Overwhelming Support of Oklahoma’s Third District’ Latest News Frank Lucas Endorses President Trump Frank Lucas: ‘Deeply Honored to Earn Overwhelming Support of Oklahoma’s Third District’ Frank Lucas: A Product of Oklahoma Values & Conservative Voice of Reason President Trump Endorses Frank Lucas for Congress Frank Lucas Welcomes President Trump to Oklahoma Lucas presses USDA to clarify federal funding disparities for cattle producers Chip In Today! $25 $50 $100 $150 Other Newsletter Sign Up to Receive Email Updates!
+Email * Phone Zip Code About Frank Issues The Latest Contact Donate PAID FOR BY LUCAS FOR CONGRESS CONTACT TEAM LUCAS TODAY!
+Phone: 405.509.3505 Mail: Lucas for Congress P.O.
+Box 1726 Oklahoma City, OK 73101-1726 Copyright © #

@@ -1,2 +1,3 @@
-Donate Donate by Check Friends of Mike Halpin P.O.
-Box 6937 Rock Island, IL 61204-6937 Donate Online via ActBlue
+Toggle navigation Skip to content Take Our Survey News Get Involved Voting Resources About Mike Issues Donate Events Contact Donate Donate by Check Friends of Mike Halpin P.O.
+Box 6937 Rock Island, IL 61204-6937 Donate Online via ActBlue Recent Posts Vote Halpin Early Voting Vote Halpin Halpin applauds Lane Evans VA expansion in Galesburg SENATOR HALPIN: EXPANDING MENTAL, BEHAVIORAL HEALTH WORKFORCE TO MEET ILLINOIS’ NEEDS Pages Get Involved About Mike Issues Donate State Senator Halpin Wants To Hear From You!
+Privacy Policy Visit the ILGA.Gov website to view Legislative and Contact information. [email protected] facebook.com/halpinforillinois 309.553.1429 © # Mike Halpin Privacy Policy

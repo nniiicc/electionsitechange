@@ -1,8 +1,5 @@
-Devon Wood
-Republican for
-Iowa House District 17
-Skip to content
-Devon Wood for Iowa House
-Devon Wood
-Republican for
-Iowa House District 17
+Skip to content Devon Wood for Iowa House Republican for Iowa House District 17 Menu Devon Wood for Iowa House Devon Wood Republican for Iowa House District 17 Facebook Donate today!
+Issues Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Blog at WordPress.com.
+Devon Wood for Iowa House Copy shortlink Manage subscriptions Sign up Log in Report this content Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

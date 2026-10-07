@@ -1,10 +1,42 @@
 [
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmichaelguest.ms%2Fabout-michael%2F&t=About+Michael",
-"https://michaelguest.ms/",
-"https://michaelguest.ms/about-michael",
-"https://michaelguest.ms/category/news",
-"https://michaelguest.ms/donate",
-"https://michaelguest.ms/volunteer",
-"https://michaelguest.ms/wp-content/uploads/2022/06/Trump-photo-1024x936.jpg",
-"https://x.com/intent/tweet?text=About+Michael&url=https%3A%2F%2Fmichaelguest.ms%2Fabout-michael%2F"
+{
+"text": "About Michael",
+"href": "https://michaelguest.ms/about-michael/"
+},
+{
+"text": "Donate",
+"href": "https://michaelguest.ms/donate"
+},
+{
+"text": "Donate",
+"href": "https://michaelguest.ms/donate/"
+},
+{
+"text": "Home",
+"href": "https://michaelguest.ms/"
+},
+{
+"text": "News",
+"href": "https://michaelguest.ms/category/news/"
+},
+{
+"text": "Volunteer",
+"href": "https://michaelguest.ms/volunteer/"
+},
+{
+"text": "[image: Michael Guest for U.S. Congress]",
+"href": "https://michaelguest.ms"
+},
+{
+"text": "[image]",
+"href": "https://michaelguest.ms/wp-content/uploads/2022/06/Trump-photo-1024x936.jpg"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmichaelguest.ms%2Fabout-michael%2F&t=About+Michael"
+},
+{
+"text": "[tooltip: Share on X]",
+"href": "https://x.com/intent/tweet?text=About+Michael&url=https%3A%2F%2Fmichaelguest.ms%2Fabout-michael%2F"
+}
 ]

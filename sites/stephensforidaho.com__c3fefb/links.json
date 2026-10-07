@@ -1,8 +1,50 @@
 [
-"http://instagram.com/stephensforidaho",
-"https://emerald-one.com/",
-"https://facebook.com/jenniferstephensforidaho",
-"https://stephensforidaho.com/",
-"https://stephensforidaho.com/go/donate",
-"https://tiktok.com/@stephensforidaho"
+{
+"text": "About",
+"href": "https://stephensforidaho.com/#About"
+},
+{
+"text": "Donate",
+"href": "https://stephensforidaho.com/go/donate/"
+},
+{
+"text": "Events",
+"href": "https://stephensforidaho.com/#Events"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/jenniferstephensforidaho"
+},
+{
+"text": "Get Involved",
+"href": "https://stephensforidaho.com/#Get-Involved"
+},
+{
+"text": "Home",
+"href": "https://stephensforidaho.com"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/stephensforidaho"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@stephensforidaho"
+},
+{
+"text": "[image]",
+"href": "https://stephensforidaho.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.emerald-one.com"
+},
+{
+"text": "[no text]",
+"href": "mailto:jennifer@stephensforidaho.com"
+},
+{
+"text": "[no text]",
+"href": "tel:2085696925"
+}
 ]

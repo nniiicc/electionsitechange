@@ -1,18 +1,94 @@
 [
-"https://aacounty.org/anne-arundel-county-delegation",
-"https://aacounty.org/anne-arundel-county-delegation/about-us",
-"https://aacounty.org/food-council",
-"https://delegatesimmons12b.com/",
-"https://delegatesimmons12b.com/contact-2",
-"https://delegatesimmons12b.com/delegatesimmons",
-"https://delegatesimmons12b.com/myteam",
-"https://delegatesimmons12b.com/representatives",
-"https://gocpp.maryland.gov/councils-commissions-and-workgroups/maryland-violence-intervention-and-prevention-advisory-council",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Details?cmte=jud&activeTab=divLegislation",
-"https://msa.maryland.gov/msa/mdmanual/07leg/html/caucus/black.html",
-"https://msa.maryland.gov/msa/mdmanual/07leg/html/caucus/latino.html",
-"https://msa.maryland.gov/msa/mdmanual/26excom/html/01afsoldiers.html",
-"https://nbcsl.org/about/regional-leadership",
-"https://redcross.org/volunteer/become-a-volunteer.html",
-"https://smadc.com/about"
+{
+"text": "About Me",
+"href": "https://www.delegatesimmons12b.com/delegatesimmons"
+},
+{
+"text": "Anne Arundel County Delegate -Vice Chair",
+"href": "https://www.aacounty.org/anne-arundel-county-delegation"
+},
+{
+"text": "Anne Arundel County Food Council",
+"href": "https://www.aacounty.org/food-council"
+},
+{
+"text": "Capital Budget",
+"href": "https://www.aacounty.org/anne-arundel-county-delegation/about-us"
+},
+{
+"text": "Contact",
+"href": "https://www.delegatesimmons12b.com/contact-2"
+},
+{
+"text": "Criminal Law and Procedure Subcommittee",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Details?cmte=jud&activeTab=divLegislation"
+},
+{
+"text": "Education",
+"href": "https://www.aacounty.org/anne-arundel-county-delegation/about-us"
+},
+{
+"text": "Family and Juvenile Law Subcommittee",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Details?cmte=jud&activeTab=divLegislation"
+},
+{
+"text": "Go to the TOP",
+"href": "https://www.delegatesimmons12b.com/delegatesimmons"
+},
+{
+"text": "Home",
+"href": "https://www.delegatesimmons12b.com"
+},
+{
+"text": "Issues",
+"href": "https://www.delegatesimmons12b.com"
+},
+{
+"text": "Join Us",
+"href": "https://www.delegatesimmons12b.com"
+},
+{
+"text": "Judiciary Committee",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Details?cmte=jud&activeTab=divLegislation"
+},
+{
+"text": "Legislative Black Caucus of Maryland",
+"href": "https://msa.maryland.gov/msa/mdmanual/07leg/html/caucus/black.html"
+},
+{
+"text": "Legislative Latino Caucus of Maryland",
+"href": "https://msa.maryland.gov/msa/mdmanual/07leg/html/caucus/latino.html"
+},
+{
+"text": "Maryland Violence Intervention and Prevention Advisory Council",
+"href": "https://gocpp.maryland.gov/councils-commissions-and-workgroups/maryland-violence-intervention-and-prevention-advisory-council/"
+},
+{
+"text": "My Team",
+"href": "https://www.delegatesimmons12b.com/myteam"
+},
+{
+"text": "National Black Caucus of State Legislators",
+"href": "https://nbcsl.org/about/regional-leadership/"
+},
+{
+"text": "Public Health",
+"href": "https://www.aacounty.org/anne-arundel-county-delegation/about-us"
+},
+{
+"text": "Representatives",
+"href": "https://www.delegatesimmons12b.com/representatives"
+},
+{
+"text": "Southern Maryland Agricultural Development Commission (SMADC)",
+"href": "https://smadc.com/about/"
+},
+{
+"text": "The Commission to Study African-American Civil War Soldier",
+"href": "https://msa.maryland.gov/msa/mdmanual/26excom/html/01afsoldiers.html#:~:text=The%20Commission%20charge%20is%20to,distinguished%20honors%20and%20recognitions%20awarded."
+},
+{
+"text": "Volunteering with the American Red Cross life safety, and asset protection units",
+"href": "https://www.redcross.org/volunteer/become-a-volunteer.html#step1"
+}
 ]

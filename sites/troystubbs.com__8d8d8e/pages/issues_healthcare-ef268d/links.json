@@ -1,11 +1,46 @@
 [
-"http://pushdigital.com/",
-"https://m.facebook.com/RepresentativeStubbs",
-"https://secure.winred.com/troy-stubbs-for-state-house/donate",
-"https://troystubbs.com/",
-"https://troystubbs.com/about",
-"https://troystubbs.com/contact",
-"https://troystubbs.com/issues",
-"https://troystubbs.com/issues/education",
-"https://troystubbs.com/issues/public-safety"
+{
+"text": "About Troy",
+"href": "https://troystubbs.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://troystubbs.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/troy-stubbs-for-state-house/donate"
+},
+{
+"text": "Education",
+"href": "https://troystubbs.com/issues/education/"
+},
+{
+"text": "Issues",
+"href": "https://troystubbs.com/issues/"
+},
+{
+"text": "Public Safety",
+"href": "https://troystubbs.com/issues/public-safety/"
+},
+{
+"text": "Push Digital",
+"href": "http://pushdigital.com/"
+},
+{
+"text": "Troy Stubbs",
+"href": "https://troystubbs.com/"
+},
+{
+"text": "[image: Troy Stubbs for State Representative]",
+"href": "https://troystubbs.com/"
+},
+{
+"text": "[image: Troy Stubbs]",
+"href": "https://troystubbs.com/"
+},
+{
+"text": "[no text]",
+"href": "https://m.facebook.com/RepresentativeStubbs"
+}
 ]

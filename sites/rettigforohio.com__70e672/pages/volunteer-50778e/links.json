@@ -1,9 +1,38 @@
 [
-"https://facebook.com/RettigForOhio",
-"https://rettigforohio.com/",
-"https://rettigforohio.com/about",
-"https://rettigforohio.com/issues",
-"https://rettigforohio.com/volunteer",
-"https://rettigforohio.com/vote",
-"https://secure.actblue.com/donate/rick-rettig-1"
+{
+"text": "About",
+"href": "https://www.rettigforohio.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rick-rettig-1"
+},
+{
+"text": "Home",
+"href": "https://www.rettigforohio.com"
+},
+{
+"text": "Issues",
+"href": "https://www.rettigforohio.com/issues"
+},
+{
+"text": "RettigForOhio@gmail.com",
+"href": "mailto:RettigForOhio@gmail.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.rettigforohio.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.rettigforohio.com/vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RettigForOhio"
+},
+{
+"text": "[no text]",
+"href": "https://www.rettigforohio.com"
+}
 ]

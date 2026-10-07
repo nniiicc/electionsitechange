@@ -1,3 +1,2 @@
-Volunteer
-The opportunities are more limited than is traditional due to COVID-19, but if you are willing to post yard signs, share information about my candidacy, or something else you'd like to do to join me in this run for office, it would be greatly appreciated.
-Please let me know here:
+Connie Lane - Merrimack District 16 About Connie Priorities News Volunteer Contact Donate About Connie Priorities News Volunteer Contact Connie Lane - Merrimack District 16 Donate Scroll Volunteer The opportunities are more limited than is traditional due to COVID-19, but if you are willing to post yard signs, share information about my candidacy, or something else you'd like to do to join me in this run for office, it would be greatly appreciated.
+Please let me know here: Volunteer Volunteer © # Impact (603) 491-7379 connielane4staterep@gmail.com Powered by: Squarespace Photography by: www.jpuzaphoto.com and www.bryanjohnsonphotos.com Info Meet Connie Priorities News Paid for by: Campaign to Elect Connie Lane by Connie Lane, Fiscal Agent Action Volunteer Contact Donate

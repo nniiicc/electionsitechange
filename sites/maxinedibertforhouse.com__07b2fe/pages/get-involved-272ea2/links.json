@@ -1,12 +1,42 @@
 [
-"https://maxinedibertforhouse.com/",
-"https://maxinedibertforhouse.com/cart",
-"https://maxinedibertforhouse.com/donate",
-"https://maxinedibertforhouse.com/get-involved",
-"https://maxinedibertforhouse.com/issues",
-"https://maxinedibertforhouse.com/our-district",
-"https://maxinedibertforhouse.com/privacy-policy",
-"https://maxinedibertforhouse.com/vote",
-"https://mobilize.us/maxinedibert/event/999058",
-"https://secure.anedot.com/maxine/donate"
+{
+"text": "0",
+"href": "https://www.maxinedibertforhouse.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://www.maxinedibertforhouse.com/donate"
+},
+{
+"text": "Donate today",
+"href": "https://secure.anedot.com/maxine/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.maxinedibertforhouse.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.maxinedibertforhouse.com/issues"
+},
+{
+"text": "Knock doors with Maxine!",
+"href": "https://www.mobilize.us/maxinedibert/event/999058/"
+},
+{
+"text": "Our District",
+"href": "https://www.maxinedibertforhouse.com/our-district"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.maxinedibertforhouse.com/privacy-policy"
+},
+{
+"text": "Vote",
+"href": "https://www.maxinedibertforhouse.com/vote"
+},
+{
+"text": "[image: Maxine For Alaska]",
+"href": "https://www.maxinedibertforhouse.com/"
+}
 ]

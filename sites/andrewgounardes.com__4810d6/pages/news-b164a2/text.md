@@ -1,11 +1,6 @@
-NEWS ARTICLE
-NEWS ARTICLE
-NEWS ARTICLE
-NEWS ARTICLE
-NEWS ARTICLE
-NEWS ARTICLE
-NEWS ARTICLE
-NEWS ARTICLE
-NEWS ARTICLE
-NEWS ARTICLE
-NEWS ARTICLE
+Skip navigation menu Voting Info About Issues News Endorsements Volunteer Contact News Voting Info About Issues News Endorsements Volunteer Contact News NEWS ARTICLE Gounardes introduces landmark bill to regulate screens, AI and ed tech in schools Read more Aug 21 2026 NEWS ARTICLE Make classrooms analog again?
+A new bill aims to limit tech in schools.
+Read more Aug 21 2026 NEWS ARTICLE It was a pretty good year for regulating AI in New York Read more Jun 11 2026 NEWS ARTICLE ‘Tom Homan can shove it’: New York to enact ICE accountability measures Read more May 21 2026 NEWS ARTICLE Stalking survivors rally with Gounardes and Gonzalez to pass CREEP Act Read more May 4 2026 NEWS ARTICLE Senator Gounardes pitches higher taxes on the wealthy Read more Mar 17 2026 NEWS ARTICLE State Sen.
+Andrew Gounardes pushes 'New York for All' Act Read more Feb 2 2026 NEWS ARTICLE Sen.
+Gounardes Makes the Case for a Free CUNY Read more Oct 20 2025 NEWS ARTICLE Brooklyn State Sen.
+Andrew Gounardes Fights For Stop Super Speeders Act Read more Sep 13 2025 NEWS ARTICLE Tallest subway platform in NYC set to finally get elevators: ‘They’re climbing Mount Everest’ Read more Aug 18 2025 NEWS ARTICLE Landmark child data protection law by Gounardes goes into effect Read more Jun 25 2025 Donate Powered by RUN! website builder Paid for by Andrew Gounardes for State Senate You need to enable JavaScript to run this app.

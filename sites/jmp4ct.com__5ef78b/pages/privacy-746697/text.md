@@ -1,4 +1,4 @@
-Friends of John-Michael collects only data provided by users to its form: name, email, and mobile phone number, to stay in touch with voters.
+0 Skip to Content Home Issues & Ideas About JMP Sign Up Privacy Open Menu Close Menu Home Issues & Ideas About JMP Sign Up Privacy Open Menu Close Menu Home Issues & Ideas About JMP Sign Up Privacy Friends of John-Michael collects only data provided by users to its form: name, email, and mobile phone number, to stay in touch with voters.
 Voters may opt out by replying to a text with the word “Stop” or by emailing jmp4ct@gmail.com.
 Data is shared only with third parties who need to use this information to carry out work directly on our behalf for the purposes of supporting the campaign, and is protected by industry standard security measures.
 Data is retained through the next November election, and conforms with applicable privacy legislation in Connecticut and the United States.
@@ -8,3 +8,5 @@ Message frequency varies.
 Message and data rates may apply.
 For help, reply HELP or email us at jmp4ct@gmail.com .
 You can opt out at any time by replying STOP.
+Paid for by Friends of JMP, Zoe Gluck, Treasurer.
+Approved by John-Michael Parker.

@@ -1,26 +1,102 @@
 [
-"http://facebook.com/jennyforcolorado",
-"http://tiktok.com/jennyforcolorado",
-"https://instagram.com/JennyforColorado",
-"https://jennyforcolorado.com/",
-"https://jennyforcolorado.com/about-1",
-"https://jennyforcolorado.com/about-3",
-"https://jennyforcolorado.com/about-7",
-"https://jennyforcolorado.com/book-online",
-"https://jennyforcolorado.com/copy-of-caucus",
-"https://jennyforcolorado.com/copy-of-economy",
-"https://jennyforcolorado.com/copy-of-economy-1",
-"https://jennyforcolorado.com/copy-of-economy-2",
-"https://jennyforcolorado.com/copy-of-education",
-"https://jennyforcolorado.com/issues",
-"https://jennyforcolorado.com/jenny-on-the-issues",
-"https://jennyforcolorado.com/legislative-priorities",
-"https://jennyforcolorado.com/meet-jenny",
-"https://jennyforcolorado.com/press-inquiries",
-"https://jennyforcolorado.com/transparency",
-"https://jennyforcolorado.com/volunteer",
-"https://leg.colorado.gov/legislators/jenny-willford",
-"https://secure.actblue.com/donate/jw4co2024nov",
-"https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?Type=CA&SeqID=52874",
-"https://youtube.com/@JennyforColorado"
+{
+"text": "Affordability",
+"href": "https://www.jennyforcolorado.com/about-7"
+},
+{
+"text": "Book Online",
+"href": "https://www.jennyforcolorado.com/book-online"
+},
+{
+"text": "Campaign Finance",
+"href": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?Type=CA&SeqID=52874"
+},
+{
+"text": "Contact",
+"href": "https://www.jennyforcolorado.com/issues"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jw4co2024nov"
+},
+{
+"text": "Education",
+"href": "https://www.jennyforcolorado.com/copy-of-economy-1"
+},
+{
+"text": "Environment",
+"href": "https://www.jennyforcolorado.com/copy-of-economy"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jennyforcolorado.com/volunteer"
+},
+{
+"text": "Health Care",
+"href": "https://www.jennyforcolorado.com/copy-of-economy-2"
+},
+{
+"text": "House District 34",
+"href": "https://www.jennyforcolorado.com/about-3"
+},
+{
+"text": "Legislature",
+"href": "https://www.jennyforcolorado.com/legislative-priorities"
+},
+{
+"text": "Media Inquiries",
+"href": "https://www.jennyforcolorado.com/press-inquiries"
+},
+{
+"text": "Meet Jenny",
+"href": "https://www.jennyforcolorado.com/meet-jenny"
+},
+{
+"text": "Newsroom",
+"href": "https://www.jennyforcolorado.com/copy-of-caucus"
+},
+{
+"text": "Older Adults",
+"href": "https://www.jennyforcolorado.com/copy-of-education"
+},
+{
+"text": "Priorities / Issues",
+"href": "https://www.jennyforcolorado.com/jenny-on-the-issues"
+},
+{
+"text": "Speeches & Videos",
+"href": "https://www.jennyforcolorado.com/about-1"
+},
+{
+"text": "Transparency",
+"href": "https://www.jennyforcolorado.com/transparency"
+},
+{
+"text": "Voting Record",
+"href": "https://leg.colorado.gov/legislators/jenny-willford"
+},
+{
+"text": "[image: 1500x500.jpg]",
+"href": "https://www.jennyforcolorado.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/jennyforcolorado"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/JennyforColorado/"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://www.tiktok.com/jennyforcolorado"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@JennyforColorado"
+},
+{
+"text": "jenny.willford.house@coleg.gov",
+"href": "mailto:jenny.willford.house@coleg.gov"
+}
 ]

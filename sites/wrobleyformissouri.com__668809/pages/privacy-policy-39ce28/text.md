@@ -1,5 +1,4 @@
-Privacy Policy
-Welcome to the official website of Wrobley for Missouri (the campaign) at www.wrobleyformissouri.com (the campaign website).
+0 Skip to Content MEET LAVANNA CORE ISSUES CONNECT DISTRICT 24 TESTIMONIALS DONATE Open Menu Close Menu MEET LAVANNA CORE ISSUES CONNECT DISTRICT 24 TESTIMONIALS DONATE Open Menu Close Menu MEET LAVANNA CORE ISSUES CONNECT DISTRICT 24 TESTIMONIALS DONATE Privacy Policy Welcome to the official website of Wrobley for Missouri (the campaign) at www.wrobleyformissouri.com (the campaign website).
 This is the campaign website to elect LaVanna Wrobley (candidate) to the Missouri State Senate (office) in Senate District 24.
 LaVanna knows your right to privacy is important, especially online.
 This privacy policy has been created to answer any questions you may have regarding the Wrobley campaign’s data collection and protection policies.
@@ -33,17 +32,14 @@ The campaign and its payment vendor(s) use(s) a secure socket layer (SSL) – wi
 Strict security measures are in place to protect the loss, misuse and alteration of any and all information pertaining to the campaign’s website.
 The online contribution form is in compliance with MEC and FEC regulations.
 The campaign has put in place appropriate physical, electronic and managerial procedures to prevent unauthorized access.
-The campaign website links to other sites:
-Our site may contain links to other websites and servers.
+The campaign website links to other sites: Our site may contain links to other websites and servers.
 The campaign does not bear responsibility for privacy policies or content on linked websites.
 Because the campaign has no control over the websites we link to, you agree and acknowledge that the campaign is not responsible for the availability of resources on external sites and does not endorse and is not responsible or liable for any content provided therein.
 Accordingly, you also agree and acknowledge that the campaign will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance of any such content, services on or through any such site or resource or goods.
 We encourage you to read the privacy statements on each website you visit.
 The campaign provides links to original articles written and maintained by third parties.
-These links are provided as a convenience and do not imply a claim of ownership to that content.
-Will this privacy policy change?
+These links are provided as a convenience and do not imply a claim of ownership to that content.​ Will this privacy policy change?
 We have no intentions to make changes to this privacy policy, though we do reserve the right to revise or update this privacy policy at any time.
-3rd Party Advertising Cookies Opt-Out
 The campaign is dedicated to providing privacy on the Internet.
 In addition to developing our privacy policy, we have provided you the opportunity to opt out of future 3rd party advertising cookies.
 Third parties can place cookies on the site for advertising purposes.
@@ -51,14 +47,7 @@ This Online Privacy Statement does not cover the collection methods or use of th
 These vendors have their own privacy policies and may be members of the Network Advertising Initiative (“NAI”).
 To remove yourself from some or all NAI member advertising programs, please visit the NAI Opt-Out Page and follow the relevant instructions.
 Please note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
-Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.
-These cookies contain no personally identifiable information.
-The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form.
-To opt-out of these cookies, please go to http://www.aboutads.info/choices.
 How do I contact the Wrobley Campaign Committee?
-If you find an accessibility issue on the site, or if you require further assistance with privacy questions, you are welcome to contact us through the following members of the organization's team:
-- Campaign Contact: Maryann Manion, Treasurer or LaVanna Wrobley, Candidate
-- Email: lavanna@wrobleyformissouri.com
-- Postal Address: 155 N Hanley #206 St.
-Louis, MO 63105
-If you have any questions, comments or concerns please contact the campaign through the contact form on the website, by electronic mail or US postal mail using the contact information provided on this page, on the website and various social media account pages related to the campaign.
+If you find an accessibility issue on the site, or if you require further assistance with privacy questions, you are welcome to contact us through the following members of the organization's team:​ Campaign Contact: Maryann Manion, Treasurer or LaVanna Wrobley, Candidate Email: lavanna@wrobleyformissouri.com Postal Address: 155 N Hanley #206 St.
+Louis, MO 63105 If you have any questions, comments or concerns please contact the campaign through the contact form on the website, by electronic mail or US postal mail using the contact information provided on this page, on the website and various social media account pages related to the campaign.
+Meet LaVanna Core Issues Connect Privacy QUICK LINKS CONNECT LaVanna@WrobleyforMissouri.com Service, Leadership and Giving Back. +Vote LaVanna Wrobley+ Service, Leadership and Giving Back. +Vote LaVanna Wrobley+ Service, Leadership and Giving Back. +Vote LaVanna Wrobley+ Paid for by Wrobley for Missouri, Maryann Manion, Treasurer ©# Wrobley For Missouri

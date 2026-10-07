@@ -1,23 +1,98 @@
 [
-"https://drewstokesbary.com/",
-"https://drewstokesbary.com/blog",
-"https://drewstokesbary.com/blog?paged=1",
-"https://drewstokesbary.com/blog?paged=13",
-"https://drewstokesbary.com/blog?paged=3",
-"https://drewstokesbary.com/category/awards",
-"https://drewstokesbary.com/category/endorsements",
-"https://drewstokesbary.com/donate",
-"https://drewstokesbary.com/endorsed-by-childrens-campaign-fund",
-"https://drewstokesbary.com/endorsements",
-"https://drewstokesbary.com/get-involved",
-"https://drewstokesbary.com/issues",
-"https://drewstokesbary.com/meet-drew",
-"https://drewstokesbary.com/privacy-policy",
-"https://drewstokesbary.com/stokesbary-named-guardian-of-small-business-by-nfib",
-"https://drewstokesbary.com/stokesbary-wins-awc-city-champion-award",
-"https://drewstokesbary.com/the-times-recommends-rep-drew-stokesbary",
-"https://drewstokesbary.com/washington-hospitality-association-names-stokesbary-legislative-hero",
-"https://drewstokesbary.com/we-endorse-stokesbary-robertson-a-good-fit-for-legislative-district-31",
-"https://facebook.com/drewstokesbary",
-"https://twitter.com/stokesbary"
+{
+"text": "About",
+"href": "https://drewstokesbary.com/meet-drew/"
+},
+{
+"text": "Awards",
+"href": "https://drewstokesbary.com/category/awards/"
+},
+{
+"text": "Blog",
+"href": "https://drewstokesbary.com/blog/"
+},
+{
+"text": "Donate",
+"href": "https://drewstokesbary.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://drewstokesbary.com/category/endorsements/"
+},
+{
+"text": "Endorsements",
+"href": "https://drewstokesbary.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://drewstokesbary.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://drewstokesbary.com/"
+},
+{
+"text": "Issues",
+"href": "https://drewstokesbary.com/issues/"
+},
+{
+"text": "Next",
+"href": "https://drewstokesbary.com/blog/?paged=3"
+},
+{
+"text": "Page 1",
+"href": "https://drewstokesbary.com/blog/?paged=1"
+},
+{
+"text": "Page 13",
+"href": "https://drewstokesbary.com/blog/?paged=13"
+},
+{
+"text": "Page 3",
+"href": "https://drewstokesbary.com/blog/?paged=3"
+},
+{
+"text": "Previous",
+"href": "https://drewstokesbary.com/blog/?paged=1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://drewstokesbary.com/privacy-policy"
+},
+{
+"text": "[image: Stokesbary Logo]",
+"href": "https://drewstokesbary.com/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/endorsed-by-childrens-campaign-fund/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/stokesbary-named-guardian-of-small-business-by-nfib/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/stokesbary-wins-awc-city-champion-award/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/the-times-recommends-rep-drew-stokesbary/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/washington-hospitality-association-names-stokesbary-legislative-hero/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/we-endorse-stokesbary-robertson-a-good-fit-for-legislative-district-31/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/drewstokesbary"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/stokesbary"
+}
 ]

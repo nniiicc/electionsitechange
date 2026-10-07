@@ -1,10 +1,11 @@
-MIKE COLLINS’ Q2 FUNDRAISING REPORT SHOWS STRONG GRASSROOTS SUPPORT ACROSS GEORGIA
+Skip to content MEET MIKE MEDIA ENDORSEMENTS VOLUNTEER EVENTS PRESS CONTRIBUTE DONATE WITH CRYPTO STORE Press Release JULY 15, 2026 FOR IMMEDIATE RELEASE Contact: [email protected] MIKE COLLINS’ Q2 FUNDRAISING REPORT SHOWS STRONG GRASSROOTS SUPPORT ACROSS GEORGIA Jackson, GA — Mike Collins’ campaign announced today it raised $2.1 million in the second quarter of 2026 , demonstrating strong grassroots momentum and broad support from individual contributors across Georgia.
 The Collins campaign enters the general election with $2,189,621.89 cash on hand and a growing grassroots operation spanning all 159 counties.
-The campaign’s average contribution was just $19.05 from almost 16,000 donations, highlighting the depth of support from everyday Georgians who are invested in sending a senator to Washington who shares their values.
+The campaign’s average contribution was just $19.05 from almost 16,000 donations , highlighting the depth of support from everyday Georgians who are invested in sending a senator to Washington who shares their values.
 As Collins enters the general election, his campaign continues to build a statewide coalition of voters who believe Georgia’s next senator should be accountable to the people of Georgia, not the priorities of out-of-state donors and far-left special interests.
 Unlike Jon Ossoff, whose campaign continues to rely heavily on financial support from donors in California and New York who are out of touch with the challenges facing Georgia families, Collins’ campaign is being fueled by Georgians who want a senator who will fight for their values.
-“Fundraising reports tell you a lot about who a candidate really answers to,” said Josh Siegel, Campaign Manager for Mike Collins.
+“Fundraising reports tell you a lot about who a candidate really answers to,” said Josh Siegel, Campaign Manager for Mike Collins .
 “There’s a reason Jon Ossoff’s biggest donors aren’t in Georgia.
 His California and New York donors know exactly what they’re funding: a senator who will push their socialist agenda in Washington.
-Mike Collins’ support comes from everyday Georgians because they know he will always put Georgia first.”
-Collins’ second-quarter fundraising success reflects support from Georgians who want a senator focused on making Georgia more affordable, safer, and more prosperous.
+Mike Collins’ support comes from everyday Georgians because they know he will always put Georgia first.” Collins’ second-quarter fundraising success reflects support from Georgians who want a senator focused on making Georgia more affordable, safer, and more prosperous.
+### ← Top of GOP Ticket Ready for Victory MIKE COLLINS FOR U.S.
+SENATE LAUNCHES NEW AD: “DELIVER” → TERMS & CONDITIONS PRIVACY POLICY MEDIA INQUIRIES CONTACT US PAID FOR BY MIKE COLLINS FOR SENATE PO Box 2184 Alpharetta, GA 30005

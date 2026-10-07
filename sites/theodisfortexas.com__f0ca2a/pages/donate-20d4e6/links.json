@@ -1,11 +1,70 @@
 [
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.theodisfortexas.com%2Fdonate",
-"https://facebook.com/TheodisForTexas",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.theodisfortexas.com%2Fdonate",
-"https://secure.winred.com/theodis-for-texas/donate-today",
-"https://theodisfortexas.com/",
-"https://theodisfortexas.com/about",
-"https://theodisfortexas.com/gallery",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.theodisfortexas.com%2Fdonate",
-"https://x.com/theodis4texas"
+{
+"text": "+1 346 920 6876 Call or Text",
+"href": "tel:+1%20832%20350%200828"
+},
+{
+"text": "About",
+"href": "https://www.theodisfortexas.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.theodisfortexas.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/theodis-for-texas/donate-today"
+},
+{
+"text": "Donate",
+"href": "https://www.theodisfortexas.com"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.theodisfortexas.com%2Fdonate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/TheodisForTexas/"
+},
+{
+"text": "Gallery",
+"href": "https://www.theodisfortexas.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.theodisfortexas.com"
+},
+{
+"text": "Home About",
+"href": "https://www.theodisfortexas.com/about"
+},
+{
+"text": "Mission",
+"href": "https://www.theodisfortexas.com"
+},
+{
+"text": "Team Theodis Daniel for highlights his vision for safer communities, better schools, and responsible leadership.",
+"href": "mailto:info@teamdanielforcongress.com"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/theodis4texas"
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send/?phone=&text=https%3A%2F%2Fwww.theodisfortexas.com%2Fdonate"
+},
+{
+"text": "X (Twitter)",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.theodisfortexas.com%2Fdonate"
+},
+{
+"text": "[image: 96eb6c45-1579-47e1-8231-3640068b172c.png]",
+"href": "https://www.theodisfortexas.com"
+},
+{
+"text": "info@theodisfortexas.com",
+"href": "mailto:info@teamdanielforcongress.com"
+}
 ]

@@ -1,15 +1,90 @@
 [
-"https://app.smartsheet.com/b/form/6b3ec5f464ec49d39ebd26b631188206",
-"https://facebook.com/repwindhorst",
-"https://secure.anedot.com/patrick-windhorst/donate",
-"https://votewindhorst.com/",
-"https://votewindhorst.com/blog",
-"https://votewindhorst.com/news",
-"https://votewindhorst.com/news/5-most-promising-fintech-startups",
-"https://votewindhorst.com/news/best-smart-wearables-of-2023",
-"https://votewindhorst.com/news/entering-a-new-era-of-iot-",
-"https://votewindhorst.com/news/gadget-review%3A-release-of-new-airy-pods",
-"https://votewindhorst.com/news/how-technology-can-help-curb-attention-disorders",
-"https://votewindhorst.com/news/long-term-benefits-of-clean-energy-sources",
-"https://votewindhorst.com/privacy"
+{
+"text": "ABOUT",
+"href": "https://www.votewindhorst.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/patrick-windhorst/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://app.smartsheet.com/b/form/6b3ec5f464ec49d39ebd26b631188206"
+},
+{
+"text": "HOME",
+"href": "https://www.votewindhorst.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.votewindhorst.com"
+},
+{
+"text": "NEWS",
+"href": "https://www.votewindhorst.com/blog"
+},
+{
+"text": "News",
+"href": "https://www.votewindhorst.com/news"
+},
+{
+"text": "Privacy Statement",
+"href": "https://www.votewindhorst.com/privacy"
+},
+{
+"text": "Read More",
+"href": "https://www.votewindhorst.com/news/5-most-promising-fintech-startups"
+},
+{
+"text": "Read More",
+"href": "https://www.votewindhorst.com/news/best-smart-wearables-of-2023"
+},
+{
+"text": "Read More",
+"href": "https://www.votewindhorst.com/news/entering-a-new-era-of-iot-"
+},
+{
+"text": "Read More",
+"href": "https://www.votewindhorst.com/news/gadget-review%3A-release-of-new-airy-pods"
+},
+{
+"text": "Read More",
+"href": "https://www.votewindhorst.com/news/how-technology-can-help-curb-attention-disorders"
+},
+{
+"text": "Read More",
+"href": "https://www.votewindhorst.com/news/long-term-benefits-of-clean-energy-sources"
+},
+{
+"text": "[image: 5 most promising Fintech startups]",
+"href": "https://www.votewindhorst.com/news/5-most-promising-fintech-startups"
+},
+{
+"text": "[image: Best smart wearables of 2023]",
+"href": "https://www.votewindhorst.com/news/best-smart-wearables-of-2023"
+},
+{
+"text": "[image: Entering a new era of IoT ]",
+"href": "https://www.votewindhorst.com/news/entering-a-new-era-of-iot-"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/repwindhorst"
+},
+{
+"text": "[image: Gadget review: release of new Airy Pods]",
+"href": "https://www.votewindhorst.com/news/gadget-review%3A-release-of-new-airy-pods"
+},
+{
+"text": "[image: How technology can help curb attention disorders]",
+"href": "https://www.votewindhorst.com/news/how-technology-can-help-curb-attention-disorders"
+},
+{
+"text": "[image: Long-term benefits of clean energy sources]",
+"href": "https://www.votewindhorst.com/news/long-term-benefits-of-clean-energy-sources"
+},
+{
+"text": "[image][image][image]",
+"href": "mailto:citizensforwindhorst@gmail.com"
+}
 ]

@@ -1,9 +1,2 @@
-Mailing Address:
-Hammer for ND
-PO Box 58
-Minot, ND 58702
-General Inquiries: info@hammerfornd.com
-Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
-Paid for by Hammer for ND
-Follow Trygve on
-Social Media
+0 Skip to Content Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Back to All Events District 2 Meeting Saturday, February 28, 2026 1:00 PM 3:00 PM Wildrose Fire Hall 412 Main Street Wildrose, ND, 58795 United States (map) Google Calendar ICS Previous Previous February 19 meet the candidate Next Next March 6 2026 Democratic-NPL State Convention Mailing Address: Hammer for ND PO Box 58 Minot, ND 58702 General Inquiries: info@hammerfornd.com Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
+Paid for by Hammer for ND Follow Trygve on Social Media

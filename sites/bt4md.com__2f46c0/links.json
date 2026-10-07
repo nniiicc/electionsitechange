@@ -1,8 +1,26 @@
 [
-"https://bt4md.com/",
-"https://bt4md.com/cart",
-"https://bt4md.com/donate",
-"https://bt4md.com/get-involved",
-"https://bt4md.com/learn-more",
-"https://instagram.com/brandonformd"
+{
+"text": "0",
+"href": "https://www.bt4md.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://www.bt4md.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bt4md.com/get-involved"
+},
+{
+"text": "Learn More",
+"href": "https://www.bt4md.com/learn-more"
+},
+{
+"text": "[image: Your Site Title]",
+"href": "https://www.bt4md.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/brandonformd/"
+}
 ]

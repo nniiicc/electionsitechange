@@ -1,28 +1,5 @@
-Skip to content
-For Indiana State Senate District 23…
-Elect Joshua Brant
-Search
-News
-District Map
-The Candidate
-The Issues
-Current Proposals
-Events
-Get Involved
-Donate
-PAC Transparency
-Communicate
-MERCH
-Category:
-Moto Monday
-Moto Monday 6
-Moto Monday 5
-Moto Monday 4
-Moto Monday 3
-Moto Monday 2
-Moto Monday!
+Skip to content For Indiana State Senate District 23… Elect Joshua Brant Search News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Category: Moto Monday Moto Monday 6 Moto Monday 5 Moto Monday 4 Moto Monday 3 Moto Monday 2 Moto Monday!
+Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Paid for by the Committee to Elect Joshua Brant .
 Loading Comments...
 Write a Comment...
-Email (Required)
-Name (Required)
-Website
+Email (Required) Name (Required) Website

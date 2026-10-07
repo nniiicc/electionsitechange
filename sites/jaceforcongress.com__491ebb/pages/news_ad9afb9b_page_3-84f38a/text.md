@@ -1,16 +1,1 @@
-January 19, 2026
-|
-Endorsement
-January 16, 2026
-|
-Endorsement
-January 16, 2026
-|
-Endorsement
-January 16, 2026
-|
-Endorsement
-January 15, 2026
-|
-Endorsement
-Help fight for President Trump's America First Agenda
+Endorsed by President Trump Home About Priorities Get Involved News Endorsements Donate News January 19, 2026 | Endorsement Rockwall Young Republicans Endorse Jace Yarbrough for Congress Read More January 16, 2026 | Endorsement American Principles Project PAC President Terry Schilling Endorses Jace Yarbrough for Congress Read More January 16, 2026 | Endorsement Momentum Continues into Week 2: Congressman Keith Self Endorses Jace Yarbrough for Congress Read More January 16, 2026 | Endorsement Bull Moose Project Endorses Jace Yarbrough for Congress Read More January 15, 2026 | Endorsement Rockwall City Councilwoman Melba Jeffus Endorses Jace Yarbrough for Congress Read More Previous Next Support Jace Help fight for President Trump's America First Agenda $5 $25 $50 $100 $150 Other Home About Priorities Get Involved News Endorsements Media Kit Donate Paid for by Jace Yarbrough for Congress PO BOX 1102, Rockwall TX 75087 Privacy Policy

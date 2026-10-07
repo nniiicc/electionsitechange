@@ -1,10 +1,42 @@
 [
-"https://crabtreeforsouthdakota.com/",
-"https://crabtreeforsouthdakota.com/about",
-"https://crabtreeforsouthdakota.com/contact",
-"https://crabtreeforsouthdakota.com/join-the-team",
-"https://crabtreeforsouthdakota.com/privacy-policy",
-"https://crabtreeforsouthdakota.com/terms-and-conditions",
-"https://facebook.com/CrabtreeforSD",
-"https://x.com/crabtreecasey"
+{
+"text": "About",
+"href": "https://crabtreeforsouthdakota.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://crabtreeforsouthdakota.com/contact/"
+},
+{
+"text": "Home",
+"href": "https://crabtreeforsouthdakota.com/"
+},
+{
+"text": "Join The Team",
+"href": "https://crabtreeforsouthdakota.com/join-the-team/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://crabtreeforsouthdakota.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://crabtreeforsouthdakota.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://crabtreeforsouthdakota.com/terms-and-conditions/"
+},
+{
+"text": "[image: Crabtree For SD]",
+"href": "https://crabtreeforsouthdakota.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CrabtreeforSD"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/crabtreecasey"
+}
 ]

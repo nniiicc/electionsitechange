@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Wing+It+On%21+Rally&dates=20260913T170000Z%2F20260913T190000Z&location=241+Union+Ave%2C+Saratoga+Springs+NY+12866",
-"http://instagram.com/carusofornyassembly",
-"http://maps.google.com/?q=241+Union+Ave+Saratoga+Springs+NY+12866",
-"https://carusoforassembly.com/",
-"https://carusoforassembly.com/about",
-"https://carusoforassembly.com/cart",
-"https://carusoforassembly.com/events",
-"https://carusoforassembly.com/events/an-evening-in-support-of-allen-caruso",
-"https://carusoforassembly.com/events/mama-celestes-pasta-meatball-dinner",
-"https://carusoforassembly.com/events/wing-it-on-rally?format=ical",
-"https://carusoforassembly.com/issues",
-"https://carusoforassembly.com/news",
-"https://carusoforassembly.com/privacy",
-"https://carusoforassembly.com/text-messaging",
-"https://carusoforassembly.com/volunteer",
-"https://facebook.com/CarusoforNYAssembly",
-"https://secure.winred.com/committee-to-elect-allen-caruso/donate-today"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=241+union+ave+saratoga+springs+ny+12866+"
+},
+{
+"text": "0",
+"href": "https://carusoforassembly.com/cart"
+},
+{
+"text": "AFFORDABILITY AGENDA",
+"href": "https://carusoforassembly.com/issues"
+},
+{
+"text": "ALLEN CARUSO",
+"href": "https://carusoforassembly.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://carusoforassembly.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/committee-to-elect-allen-caruso/donate-today"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/committee-to-elect-allen-caruso/donate-today"
+},
+{
+"text": "EVENTS",
+"href": "https://carusoforassembly.com/events"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://carusoforassembly.com/volunteer"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Wing+It+On%21+Rally&dates=20260913T170000Z%2F20260913T190000Z&location=241+Union+Ave%2C+Saratoga+Springs+NY+12866"
+},
+{
+"text": "ICS",
+"href": "https://carusoforassembly.com/events/wing-it-on-rally?format=ical"
+},
+{
+"text": "MEET ALLEN",
+"href": "https://carusoforassembly.com/about"
+},
+{
+"text": "NEWS",
+"href": "https://carusoforassembly.com/news"
+},
+{
+"text": "Next Next September 24 Mama Celeste’s Pasta & Meatball Dinner",
+"href": "https://carusoforassembly.com/events/mama-celestes-pasta-meatball-dinner"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://carusoforassembly.com/privacy"
+},
+{
+"text": "Previous Previous July 30 An Evening In Support of Allen Caruso",
+"href": "https://carusoforassembly.com/events/an-evening-in-support-of-allen-caruso"
+},
+{
+"text": "TEXT TERMS & CONDITIONS",
+"href": "https://carusoforassembly.com/text-messaging"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/carusofornyassembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarusoforNYAssembly/"
+}
 ]

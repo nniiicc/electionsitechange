@@ -1,11 +1,46 @@
 [
-"https://daycampaign.com/Donation/Index/618",
-"https://fazzinoforct.com/",
-"https://fazzinoforct.com/endorsements",
-"https://fazzinoforct.com/in-the-news",
-"https://fazzinoforct.com/legislation",
-"https://fazzinoforct.com/meetjack",
-"https://fazzinoforct.com/store/cart",
-"https://fazzinoforct.com/volunteer",
-"https://fazzinoforct.com/voting_information"
+{
+"text": "DONATE",
+"href": "https://daycampaign.com/Donation/Index/618"
+},
+{
+"text": "Donate to Jack",
+"href": "https://daycampaign.com/Donation/Index/618"
+},
+{
+"text": "Endorsements",
+"href": "https://fazzinoforct.com/endorsements"
+},
+{
+"text": "In The News",
+"href": "https://fazzinoforct.com/in-the-news"
+},
+{
+"text": "Issues & Legislation",
+"href": "https://fazzinoforct.com/legislation"
+},
+{
+"text": "Meet Jack",
+"href": "https://fazzinoforct.com/meetjack"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://fazzinoforct.com/volunteer"
+},
+{
+"text": "VOLUNTEER",
+"href": "mailto:jackfazzinoct@gmail.com"
+},
+{
+"text": "Voting Information",
+"href": "https://fazzinoforct.com/voting_information"
+},
+{
+"text": "[image: Jack Fazzino For State Senate]",
+"href": "https://fazzinoforct.com"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://fazzinoforct.com/store/cart"
+}
 ]

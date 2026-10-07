@@ -1,11 +1,42 @@
 [
-"https://elections.hawaii.gov/register-to-vote",
-"https://lrb.hawaii.gov/wp-content/uploads/2026_Passed.pdf",
-"https://secure.actblue.com/donate/daisy-hartsfield-house-district-36",
-"https://votedaisyhartsfield.com/",
-"https://votedaisyhartsfield.com/_files/ugd/bcb647_a6162a5a2bbb44a9b45df99c2b9e7863.pdf",
-"https://votedaisyhartsfield.com/contact",
-"https://votedaisyhartsfield.com/events",
-"https://votedaisyhartsfield.com/home-1",
-"https://votedaisyhartsfield.com/professional-profile"
+{
+"text": "About",
+"href": "https://www.votedaisyhartsfield.com/home-1"
+},
+{
+"text": "Contact",
+"href": "https://www.votedaisyhartsfield.com/contact"
+},
+{
+"text": "Daisy's Resume (as of July 2026)",
+"href": "https://www.votedaisyhartsfield.com/_files/ugd/bcb647_a6162a5a2bbb44a9b45df99c2b9e7863.pdf"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/daisy-hartsfield-house-district-36"
+},
+{
+"text": "Events",
+"href": "https://www.votedaisyhartsfield.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.votedaisyhartsfield.com"
+},
+{
+"text": "Professional Profile",
+"href": "https://www.votedaisyhartsfield.com/professional-profile"
+},
+{
+"text": "Register to Vote",
+"href": "https://elections.hawaii.gov/register-to-vote/"
+},
+{
+"text": "Ways to Support",
+"href": "https://www.votedaisyhartsfield.com#section"
+},
+{
+"text": "https://lrb.hawaii.gov/wp-content/uploads/2026_Passed.pdf",
+"href": "https://lrb.hawaii.gov/wp-content/uploads/2026_Passed.pdf"
+}
 ]

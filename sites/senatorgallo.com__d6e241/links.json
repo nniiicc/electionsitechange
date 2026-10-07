@@ -1,4 +1,10 @@
 [
-"https://senatorgallo.com/privacy",
-"https://senatorgallo.com/terms"
+{
+"text": "Privacy Policy",
+"href": "https://senatorgallo.com/privacy"
+},
+{
+"text": "Terms And Conditions",
+"href": "https://senatorgallo.com/terms"
+}
 ]

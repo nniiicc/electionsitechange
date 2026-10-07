@@ -1,6 +1,30 @@
 [
-"https://app.sos.nh.gov/pollingplacesampleballot",
-"https://facebook.com/KarenEbelForStateRep",
-"https://facebook.com/gregforrep",
-"https://goodchange.app/donate/greg-v0"
+{
+"text": "Confirm your polling place and view a sample ballot →",
+"href": "https://app.sos.nh.gov/pollingplacesampleballot"
+},
+{
+"text": "Follow Rep. Ebel's Campaign",
+"href": "https://www.facebook.com/KarenEbelForStateRep/"
+},
+{
+"text": "Follow on Facebook",
+"href": "https://www.facebook.com/gregforrep"
+},
+{
+"text": "Follow the Campaign",
+"href": "https://www.facebook.com/gregforrep"
+},
+{
+"text": "Greg@GregforRep.com",
+"href": "mailto:Greg@GregforRep.com"
+},
+{
+"text": "MAKE A CONTRIBUTION",
+"href": "https://goodchange.app/donate/greg-v0"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/gregforrep"
+}
 ]

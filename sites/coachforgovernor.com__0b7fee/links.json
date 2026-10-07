@@ -1,23 +1,170 @@
 [
-"https://coachforgovernor.com/",
-"https://coachforgovernor.com/about",
-"https://coachforgovernor.com/issues",
-"https://coachforgovernor.com/join",
-"https://coachforgovernor.com/newsletters",
-"https://coachforgovernor.com/press-releases",
-"https://coachforgovernor.com/privacy",
-"https://coachforgovernor.com/terms",
-"https://facebook.com/CoachForGov",
-"https://instagram.com/coachforgov",
-"https://secure.winred.com/tuberville-for-governor-inc/donate?recurring=true",
-"https://secure.winred.com/tuberville-for-governor-inc/donate?recurring=true%3Famount%3D10",
-"https://secure.winred.com/tuberville-for-governor-inc/donate?recurring=true%3Famount%3D100",
-"https://secure.winred.com/tuberville-for-governor-inc/donate?recurring=true%3Famount%3D25",
-"https://secure.winred.com/tuberville-for-governor-inc/donate?recurring=true%3Famount%3D250",
-"https://secure.winred.com/tuberville-for-governor-inc/donate?recurring=true%3Famount%3D50",
-"https://secure.winred.com/tuberville-for-governor-inc/storefront",
-"https://storage.googleapis.com/1730782801/p/tuberville-for-governor-al/2025/1758643496827_TubervilleUpdatedVirtualCard.vcf",
-"https://truthsocial.com/@TubervilleAL",
-"https://x.com/CoachForGov",
-"https://youtube.com/@CoachforGov"
+{
+"text": "$10",
+"href": "https://secure.winred.com/tuberville-for-governor-inc/donate?recurring=true%3Famount%3D10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/tuberville-for-governor-inc/donate?recurring=true%3Famount%3D100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/tuberville-for-governor-inc/donate?recurring=true%3Famount%3D25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/tuberville-for-governor-inc/donate?recurring=true%3Famount%3D250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/tuberville-for-governor-inc/donate?recurring=true%3Famount%3D50"
+},
+{
+"text": "ABOUT",
+"href": "https://www.coachforgovernor.com/about"
+},
+{
+"text": "ALABAMA VALUES",
+"href": "https://www.coachforgovernor.com/issues"
+},
+{
+"text": "BOOSTING DEFENSE",
+"href": "https://www.coachforgovernor.com/issues"
+},
+{
+"text": "CONTACT",
+"href": "mailto:info@coachforgovernor.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/tuberville-for-governor-inc/donate?recurring=true"
+},
+{
+"text": "HELPING FARMERS",
+"href": "https://www.coachforgovernor.com/issues"
+},
+{
+"text": "HOME",
+"href": "https://www.coachforgovernor.com"
+},
+{
+"text": "IMPROVING EDUCATION",
+"href": "https://www.coachforgovernor.com/issues"
+},
+{
+"text": "ISSUES",
+"href": "https://www.coachforgovernor.com/issues"
+},
+{
+"text": "JOIN",
+"href": "https://www.coachforgovernor.com/join"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.coachforgovernor.com/about"
+},
+{
+"text": "MORE JOBS FOR ALABAMA",
+"href": "https://www.coachforgovernor.com/issues"
+},
+{
+"text": "NEWSLETTERS",
+"href": "https://www.coachforgovernor.com/newsletters"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/tuberville-for-governor-inc/donate?recurring=true"
+},
+{
+"text": "PRESS RELEASES",
+"href": "https://www.coachforgovernor.com/press-releases"
+},
+{
+"text": "PROTECTING 2A RIGHTS",
+"href": "https://www.coachforgovernor.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.coachforgovernor.com/privacy"
+},
+{
+"text": "SECURING THE BORDER",
+"href": "https://www.coachforgovernor.com/issues"
+},
+{
+"text": "STANDING UP FOR LIFE",
+"href": "https://www.coachforgovernor.com/issues"
+},
+{
+"text": "STANDING WITH VETERANS",
+"href": "https://www.coachforgovernor.com/issues"
+},
+{
+"text": "STAY UP TO DATE WITH COACH – TEXT \"COACH\" TO 36382",
+"href": "https://storage.googleapis.com/1730782801/p/tuberville-for-governor-al/2025/1758643496827_TubervilleUpdatedVirtualCard.vcf"
+},
+{
+"text": "TEAM SHOP",
+"href": "https://secure.winred.com/tuberville-for-governor-inc/storefront/"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.coachforgovernor.com/terms"
+},
+{
+"text": "Terms here",
+"href": "https://www.coachforgovernor.com/terms"
+},
+{
+"text": "[image: Coach FB 1]",
+"href": "https://www.facebook.com/CoachForGov"
+},
+{
+"text": "[image: Coach FB]",
+"href": "https://www.facebook.com/CoachForGov"
+},
+{
+"text": "[image: Coach Icons (12)]",
+"href": "https://www.youtube.com/@CoachforGov"
+},
+{
+"text": "[image: Coach Icons (13)]",
+"href": "https://www.youtube.com/@CoachforGov"
+},
+{
+"text": "[image: Coach Icons (14)]",
+"href": "https://truthsocial.com/@TubervilleAL"
+},
+{
+"text": "[image: Coach Icons (15)]",
+"href": "https://truthsocial.com/@TubervilleAL"
+},
+{
+"text": "[image: Coach Insta 1]",
+"href": "https://www.instagram.com/coachforgov/"
+},
+{
+"text": "[image: Coach Insta]",
+"href": "https://www.instagram.com/coachforgov/"
+},
+{
+"text": "[image: Coach X 1]",
+"href": "https://x.com/CoachForGov"
+},
+{
+"text": "[image: Coach X]",
+"href": "https://x.com/CoachForGov"
+},
+{
+"text": "[image: Coach for Governor stacked logo.png]",
+"href": "https://www.coachforgovernor.com"
+},
+{
+"text": "[image: Tuberville Logo.png]",
+"href": "https://www.coachforgovernor.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.coachforgovernor.com/privacy"
+}
 ]

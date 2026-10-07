@@ -1,15 +1,3 @@
-top of page
-Sonia Barker For State Representative
-What Sonia Is Doing For Us
-Championed legislation to reduce economic barriers and support small business growth in South Arkansas
-Increased access to Pre-K & support education reform to
-strengthen public schools
-Fought to increase teacher pay while also creating educational opportunities for students and families
-House Sponsor in the Fairness in Women's Sports Act
-An outspoken Pro-Life legislator with a 100% Pro-Life record
-Staunch supporter of our military, veterans, and first
-responders
-PAID FOR BY SONIA BARKER FOR STATE REPRESENTATIVE
-Your data will not be sold and will not be used for lead generation or affiliate marketing.
+top of page HOME ABOUT CONTACT Sonia Barker For State Representative What Sonia Is Doing For Us Championed legislation to reduce economic barriers and support small business growth in South Arkansas Increased access to Pre-K & support education reform to strengthen public schools Fought to increase teacher pay while also creating educational opportunities for students and families House Sponsor in the Fairness in Women's Sports Act An outspoken Pro-Life legislator with a 100% Pro-Life record Staunch supporter of our military, veterans, and first responders PAID FOR BY SONIA BARKER FOR STATE REPRESENTATIVE Your data will not be sold and will not be used for lead generation or affiliate marketing.
 See our complete Privacy Policy.
-bottom of page
+Join The Team! bottom of page

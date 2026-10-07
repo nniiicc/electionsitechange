@@ -1,8 +1,10 @@
-Your (Almost) Daily Update! 3/15
+top of page Tracey Karcher Home Blog Donate Today!
+All Posts Search Your (Almost) Daily Update!
+3/15 Rev.
+Tracey Karcher Mar 15 3 min read A few years ago, but you get the picture!
 Hello everyone and welcome!
 It's been a whirlwind week, but thankfully, I have had a few minutes of downtime here and there.
-Here's this weeks list:
-- ActBlue - I have to admit to all that I have always had an "issue" with donating to politics, and ActBlue is no exception.
+Here's this weeks list: ActBlue - I have to admit to all that I have always had an "issue" with donating to politics, and ActBlue is no exception.
 So, gritting my teeth, I have applied for a fundraising account with them.
 What I have learned is that even though they do take a small cut, ActBlue is an excellent fundraising site.
 They basically take care of the legal and reporting end of things, doing the bookkeeping so that the candidate can spend more time campaigning!
@@ -14,7 +16,7 @@ Only thing is, the state of Montana want's to know not only who you are, but to 
 If you're self-employed please add what you do, or if retired, just put that in the comment box, that will suffice.
 If we have any questions, we will contact you.
 THANK YOU!
-- Finance Reports - Our first finance reports are due by the 20th!
+Finance Reports - Our first finance reports are due by the 20th!
 Oh, the self-examination!
 Is this right?
 Is that the right category?
@@ -27,7 +29,7 @@ This week we're ordering handouts, signs, and paying for all sorts of things I n
 Please, if you're all for Common Sense, for a Change!
 Please Donate today!
 Even a dollar or two will make a difference!
-- Position Statements - I feel like I'm at University again!!!
+Position Statements - I feel like I'm at University again!!!
 I KNEW there was a reason they wanted us to write Position Papers in our writing classes!!!
 I am getting survey and position requests from all over the place, and you know what?
 Remember that fish-head general in Star Wars that yelled, "It's a trap!!" Yup, you guessed it.
@@ -40,8 +42,7 @@ So, while I will complete the surveys, and sometimes send letters back instead o
 If you are unhappy with the answer on a survey, ask your candidate directly.
 Give them a call, or send an email for clarification!
 That said, I am learning an ENORMOUS amount by studying the issues raised in all of these surveys!
-If you have questions about my positions, disagree and want to share why, or agree and just want to talk about it, please CALL ME: 406-366-1240
-- Rubber Hitting the Road! - Yup, it's time!
+If you have questions about my positions, disagree and want to share why, or agree and just want to talk about it, please CALL ME: 406-366-1240 Rubber Hitting the Road! - Yup, it's time!
 This week I will be active in the community almost every day!
 I have meetings on the16th, 17th, and 19th (Yes, the Data Center Meeting).
 On other days this week, I will be walking downtown, talking primarily to area businesses and community leaders.
@@ -57,3 +58,10 @@ So, I have a call to action that won't cost you a dime!
 Please say a prayer for me as I'm hitting the road.
 First, for safety, second, for wisdom.
 Thank you so very much and I will see you all down the road!
+Recent Posts See All The Almost Daily!
+Common Sense vs.
+Car Crowding: Listening to Spring & 8th I spent some time reviewing the recent commission hearing regarding the proposed 40-unit complex at Spring and 8th.
+While we all agree that Lewistown needs more housing, we have to ask: At what cost t (Almost) Daily Campaign Updates!
+Tracey A.
+Karcher Find me on Facebook!
+Building a Better Future for Montana Email * Yes, subscribe me to your newsletter. * Submit Office Phone: 406-366-1240 166 Christina W Hilger, MT 59451 Privacy Policy Accessibility Statement Donate Today! © # Website created and paid for by Tracey Karcher for HD37 (Yes I did this too!) bottom of page

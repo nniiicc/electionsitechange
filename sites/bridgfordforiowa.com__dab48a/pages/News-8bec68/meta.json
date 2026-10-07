@@ -1,7 +1,9 @@
 {
  "description": "News on Bridgford for Iowa. An official campaign website for Bridgford for Iowa, providing information about.",
  "final_url": "https://bridgfordforiowa.com/News",
- "paid_for_by": null,
+ "fingerprint": "aa39b9b61a9e7a86660a57b57736e5169304721c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | Bridgford for Iowa",
  "years_mentioned": []
 }

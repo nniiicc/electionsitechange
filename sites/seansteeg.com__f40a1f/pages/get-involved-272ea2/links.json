@@ -1,11 +1,50 @@
 [
-"https://facebook.com/steegforpa",
-"https://instagram.com/steegforpa",
-"https://pavoterservices.pa.gov/OnlineAbsenteeApplication",
-"https://pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx",
-"https://seansteeg.com/",
-"https://seansteeg.com/cart",
-"https://seansteeg.com/get-involved",
-"https://seansteeg.com/policies",
-"https://secure.actblue.com/donate/steegforpa"
+{
+"text": "0",
+"href": "https://www.seansteeg.com/cart"
+},
+{
+"text": "Check Registration",
+"href": "https://www.pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/steegforpa"
+},
+{
+"text": "Donate Online",
+"href": "https://secure.actblue.com/donate/steegforpa"
+},
+{
+"text": "Find Polling Place",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineMailInBegin"
+},
+{
+"text": "Get Involved",
+"href": "https://www.seansteeg.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.seansteeg.com/"
+},
+{
+"text": "Policies",
+"href": "https://www.seansteeg.com/policies"
+},
+{
+"text": "Request Mail Ballot",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineMailInBegin"
+},
+{
+"text": "[image: Sean Steeg for State Senate]",
+"href": "https://www.seansteeg.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/steegforpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/steegforpa/"
+}
 ]

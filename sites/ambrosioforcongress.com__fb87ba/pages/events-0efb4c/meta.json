@@ -1,7 +1,12 @@
 {
  "description": "RALPH AMBROSIO Campaign Events",
  "final_url": "https://ambrosioforcongress.com/events",
- "paid_for_by": null,
+ "fingerprint": "95c643463a27a9d1ffc6d63edcd0987601d83db8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "RALPH AMBROSIO Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026",
+  "2027"
+ ]
 }

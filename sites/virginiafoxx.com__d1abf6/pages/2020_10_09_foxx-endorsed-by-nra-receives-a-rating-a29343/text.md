@@ -1,10 +1,6 @@
-October 9, 2020
-The National Rifle Association has given Congresswoman Virginia Foxx their endorsement for the 2020 election.
+RUSH $10 TO VIRGINIA FOXX FOR CONGRESS >> Issues Voter Info News Donate News Back to News Page Foxx Endorsed by NRA; Receives A-Rating October 9, 2020 The National Rifle Association has given Congresswoman Virginia Foxx their endorsement for the 2020 election.
 In addition to their endorsement, the NRA gave Foxx an A rating.
-An A rating from the NRA means, “A candidate who has supported NRA positions on key votes in elective office or a candidate with a demonstrated record of support on the Second Amendment.”
-“As a lifelong supporter of your right to keep and bear arms, I am dedicated to fighting government efforts that infringe on law-abiding citizens’ Second Amendment rights,” Foxx said.
-“Importantly, the right to keep and bear arms is not just for hunters and sport shooters.
-“
-“If the Second Amendment means anything, it means that this is an enumerated right for all American citizens who wish to arm themselves and to defend their property and the people they hold dear.
+An A rating from the NRA means, “A candidate who has supported NRA positions on key votes in elective office or a candidate with a demonstrated record of support on the Second Amendment.” “As a lifelong supporter of your right to keep and bear arms, I am dedicated to fighting government efforts that infringe on law-abiding citizens’ Second Amendment rights,” Foxx said.
+“Importantly, the right to keep and bear arms is not just for hunters and sport shooters. “ “If the Second Amendment means anything, it means that this is an enumerated right for all American citizens who wish to arm themselves and to defend their property and the people they hold dear.
 If we want to remain a free nation, this is a right that must not be infringed.
-I am grateful for the endorsement and A rating from the NRA.”
+I am grateful for the endorsement and A rating from the NRA.” Previous Next Donate web@virginiafoxx.com | PO Box 2676 Boone, NC 28607 Privacy Policy Paid for by Virginia Foxx for Congress

@@ -1,7 +1,11 @@
 {
  "description": "Bradley Bos Campaign Events",
  "final_url": "https://www.bosformissouri.com/Events?range=2026-W40",
- "paid_for_by": null,
+ "fingerprint": "fe580f868f77426e52a605a04df1490bd410a551",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Bradley Bos Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,9 +1,12 @@
 {
  "description": "REPORT FROM THE CAPITOL - Do I ever not say",
  "final_url": "https://www.rickjasperse.org/article.php?news=102",
- "paid_for_by": null,
+ "fingerprint": "0e37a7294eb3929156681564410d156d020f45fb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "REPORT FROM THE CAPITOL - REPORT FROM THE CAPITOL",
  "years_mentioned": [
-  "2021"
+  "2021",
+  "2039"
  ]
 }

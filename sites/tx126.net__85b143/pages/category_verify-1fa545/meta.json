@@ -1,7 +1,12 @@
 {
  "description": "This is the category where content is created by someone other than Lisa",
  "final_url": "https://www.tx126.net/category/verify/",
- "paid_for_by": null,
+ "fingerprint": "f0f2850b5e69a7899ef4c73493260fca7fba2fbe",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Verify - Lisa for TX 126",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

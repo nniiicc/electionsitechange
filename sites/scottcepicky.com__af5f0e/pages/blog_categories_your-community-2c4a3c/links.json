@@ -1,11 +1,38 @@
 [
-"https://facebook.com/scottcepicky4TN64",
-"https://instagram.com/cepicky4tn64",
-"https://pinterest.com/Cepicky4TN64",
-"https://scottcepicky.com/",
-"https://scottcepicky.com/blog",
-"https://scottcepicky.com/coffee-w-scott",
-"https://scottcepicky.com/issues",
-"https://scottcepicky.com/meet-scott",
-"https://twitter.com/CepickyTn64"
+{
+"text": "HOME",
+"href": "https://www.scottcepicky.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.scottcepicky.com/issues"
+},
+{
+"text": "MEET SCOTT",
+"href": "https://www.scottcepicky.com/meet-scott"
+},
+{
+"text": "NEWS",
+"href": "https://www.scottcepicky.com/blog"
+},
+{
+"text": "UPDATES FROM THE CAPITOL",
+"href": "https://www.scottcepicky.com/coffee-w-scott"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/scottcepicky4TN64/"
+},
+{
+"text": "[image: Instagram Social Icon]",
+"href": "https://www.instagram.com/cepicky4tn64/"
+},
+{
+"text": "[image: Pinterest Social Icon]",
+"href": "https://www.pinterest.com/Cepicky4TN64/"
+},
+{
+"text": "[image: Twitter Social Icon]",
+"href": "https://twitter.com/CepickyTn64"
+}
 ]

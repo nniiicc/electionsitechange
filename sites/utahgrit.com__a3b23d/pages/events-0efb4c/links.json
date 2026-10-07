@@ -1,142 +1,850 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+For+Rod%27s+Birthday&dates=20260918T150000Z%2F20260919T020000Z&location=3359+Alpine+Creek+Way%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+For+Rod%27s+Birthday&dates=20260920T150000Z%2F20260920T150000Z&location=3359+Alpine+Creek+Way%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+For+Rod%27s+Birthday+&dates=20260919T150000Z%2F20260919T160000Z&location=3359+Alpine+Creek+Way%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45&dates=20260726T233000Z%2F20260727T013000Z&location=10140+South+700+East%2C+Sandy%2C+Utah%2C+84070%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45&dates=20260808T153000Z%2F20260808T163000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45&dates=20260822T150000Z%2F20260822T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45&dates=20260913T150000Z%2F20260913T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45&dates=20260926T150000Z%2F20260926T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260801T153000Z%2F20260801T180000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260809T150000Z%2F20260809T173000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260815T150000Z%2F20260815T173000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260816T150000Z%2F20260816T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260823T150000Z%2F20260823T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260829T150000Z%2F20260829T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260830T150000Z%2F20260830T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260905T150000Z%2F20260905T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260912T150000Z%2F20260912T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260927T150000Z%2F20260927T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20261010T150000Z%2F20261010T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20261017T150000Z%2F20261017T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20261024T150000Z%2F20261024T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=DRINKING+LIBERALLY&dates=20260829T003000Z%2F20260829T020000Z&location=515+South+700+East%2C+Salt+Lake+City%2C+Utah%2C+84102%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=EASTRIDGE+SOAPBOX&dates=20260912T160000Z%2F20260912T180000Z&location=Sandy%2C+UT+%2C+USA",
-"http://google.com/calendar/event?action=TEMPLATE&text=FLIPPING+BURGERS&dates=20260829T230000Z%2F20260830T040000Z&location=980+East+11400+South%2C+Sandy%2C+Utah%2C+84094%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Housing+Affordability+Panel++-+ZOOM&dates=20260930T010000Z%2F20260930T023000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Ice+Cream+Social+Meet+%26amp%3B+Greet+&dates=20260808T000000Z%2F20260808T020000Z&location=2502+Rustic+Roads+Dr%2C+South+Jordan%2C+UT+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=LAST+BLAST+OF+SUMMER&dates=20260822T200000Z%2F20260823T043000Z&location=930+East+Onyx+Lane%2C+Sandy%2C+Utah%2C+84094%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=LIVESTREAM&dates=20260826T233000Z%2F20260827T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+&dates=20260630T000000Z%2F20260630T020000Z&location=11000+South+Park+Road%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+VIRTUAL+&dates=20260805T233000Z%2F20260806T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Rod%2C+Zach+and+Ofa&dates=20260924T000000Z%2F20260924T013000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Region+7+PTA&dates=20261014T000000Z%2F20261014T020000Z&location=615+East+8000+South%2C+Sandy%2C+Utah%2C+84070%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Summer+BBQ&dates=20260711T180000Z%2F20260711T210000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=TOWN+HALL&dates=20260923T003000Z%2F20260923T023000Z&location=10100+Petunia+Way%2C+Sandy%2C+Utah%2C+84092%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Utah+PTA&dates=20261008T003000Z%2F20261008T020000Z&location=10245+South+2700+West%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://maps.google.com/?q=+Sandy%2C+UT++USA",
-"http://maps.google.com/?q=10100+Petunia+Way+Sandy%2C+Utah%2C+84092+United+States",
-"http://maps.google.com/?q=10140+South+700+East+Sandy%2C+Utah%2C+84070+United+States",
-"http://maps.google.com/?q=10245+South+2700+West+South+Jordan%2C+Utah%2C+84095+United+States",
-"http://maps.google.com/?q=11000+South+Park+Road+South+Jordan%2C+Utah%2C+84095+United+States",
-"http://maps.google.com/?q=11267+South+River+Front+Parkway+South+Jordan%2C+Utah%2C+84095+United+States",
-"http://maps.google.com/?q=2502+Rustic+Roads+Dr+South+Jordan%2C+UT+84095+United+States",
-"http://maps.google.com/?q=3359+Alpine+Creek+Way+South+Jordan%2C+Utah%2C+84095+United+States",
-"http://maps.google.com/?q=515+South+700+East+Salt+Lake+City%2C+Utah%2C+84102+United+States",
-"http://maps.google.com/?q=615+East+8000+South+Sandy%2C+Utah%2C+84070+United+States",
-"http://maps.google.com/?q=930+East+Onyx+Lane+Sandy%2C+Utah%2C+84094+United+States",
-"http://maps.google.com/?q=980+East+11400+South+Sandy%2C+Utah%2C+84094+United+States",
-"http://maps.google.com/?q=https%3A%2F%2Fus02web.zoom.us%2Fj%2F86187823766%3Fpwd%3DCbO70uvGMDyYrCnyanCVuXxrrDepug.1",
-"https://facebook.com/RodMoser.UtahGrit",
-"https://facebook.com/groups/5364412134?rdid=caUQXu9PUNxDZLhl&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F19LvLurWXL%2F",
-"https://instagram.com/utah.grit",
-"https://mobilize.us/utahdemocrats/event/1009134",
-"https://mobilize.us/utahdemocrats/event/1035372",
-"https://mobilize.us/utahdemocrats/event/996944",
-"https://mobilize.us/utahdemocrats/event/996948",
-"https://saltlakecounty.gov/globalassets/1-site-files/clerk/elections/election-maps/district-maps/state-house-of-representatives/state-house_45.pdf",
-"https://secure.actblue.com/donate/fr-bbq250",
-"https://secure.actblue.com/donate/utahgrit",
-"https://tuccisslc.com/",
-"https://us02web.zoom.us/j/86187823766?pwd=CbO70uvGMDyYrCnyanCVuXxrrDepug.1",
-"https://utahgrit.com/",
-"https://utahgrit.com/cart",
-"https://utahgrit.com/contact",
-"https://utahgrit.com/endorsements",
-"https://utahgrit.com/events",
-"https://utahgrit.com/events/aug7",
-"https://utahgrit.com/events/aug7?format=ical",
-"https://utahgrit.com/events/canvass-for-rods-birthday",
-"https://utahgrit.com/events/canvass-for-rods-birthday-fxjnm",
-"https://utahgrit.com/events/canvass-for-rods-birthday-fxjnm-ptzyy",
-"https://utahgrit.com/events/canvass-for-rods-birthday-fxjnm-ptzyy?format=ical",
-"https://utahgrit.com/events/canvass-for-rods-birthday-fxjnm?format=ical",
-"https://utahgrit.com/events/canvass-for-rods-birthday?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug1",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug15-npxws",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug15-npxws?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug16-x2k6x",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug16-x2k6x?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug1?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug22",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug22?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug23",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug23?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug29",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug29?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug30",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug30?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug8",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug8?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug9",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug9?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-july26",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-july26?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct10",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct10?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct17",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct17?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct24",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct24?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep12",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep12?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep13",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep13?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep26",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep26?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep27",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep27?format=ical",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep5",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep5?format=ical",
-"https://utahgrit.com/events/drinking-liberally",
-"https://utahgrit.com/events/drinking-liberally?format=ical",
-"https://utahgrit.com/events/eastridge-soapbox-in-sandy",
-"https://utahgrit.com/events/eastridge-soapbox-in-sandy?format=ical",
-"https://utahgrit.com/events/flipping-burgers-flipping-votes-aug29",
-"https://utahgrit.com/events/flipping-burgers-flipping-votes-aug29?format=ical",
-"https://utahgrit.com/events/housing-affordability-panel-zoom",
-"https://utahgrit.com/events/housing-affordability-panel-zoom?format=ical",
-"https://utahgrit.com/events/livestream-aug26",
-"https://utahgrit.com/events/livestream-aug26?format=ical",
-"https://utahgrit.com/events/meet-greet",
-"https://utahgrit.com/events/meet-greet-virtual",
-"https://utahgrit.com/events/meet-greet-virtual?format=ical",
-"https://utahgrit.com/events/meet-greet?format=ical",
-"https://utahgrit.com/events/meet-rod-zach-and-ofa",
-"https://utahgrit.com/events/meet-rod-zach-and-ofa?format=ical",
-"https://utahgrit.com/events/region-7-pta",
-"https://utahgrit.com/events/region-7-pta?format=ical",
-"https://utahgrit.com/events/summer-bbq",
-"https://utahgrit.com/events/summer-bbq?format=ical",
-"https://utahgrit.com/events/town-hall",
-"https://utahgrit.com/events/town-hall?format=ical",
-"https://utahgrit.com/events/utah-ptaoct7",
-"https://utahgrit.com/events/utah-ptaoct7?format=ical",
-"https://utahgrit.com/events/whitecitylastblast",
-"https://utahgrit.com/events/whitecitylastblast?format=ical",
-"https://utahgrit.com/grit-perspective",
-"https://utahgrit.com/issues-that-matter",
-"https://utahgrit.com/volunteer-form",
-"https://whitecitycc.org/last-blast-summer",
-"https://youtube.com/@UtahGrit"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+sandy%2C+ut++usa"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=10100+petunia+way+sandy%2C+utah%2C+84092+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=10140+south+700+east+sandy%2C+utah%2C+84070+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=10245+south+2700+west+south+jordan%2C+utah%2C+84095+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=11000+south+park+road+south+jordan%2C+utah%2C+84095+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=11267+south+river+front+parkway+south+jordan%2C+utah%2C+84095+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2502+rustic+roads+dr+south+jordan%2C+ut+84095+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3359+alpine+creek+way+south+jordan%2C+utah%2C+84095+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=515+south+700+east+salt+lake+city%2C+utah%2C+84102+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=615+east+8000+south+sandy%2C+utah%2C+84070+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=930+east+onyx+lane+sandy%2C+utah%2C+84094+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=980+east+11400+south+sandy%2C+utah%2C+84094+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=https%3A%2F%2Fus02web.zoom.us%2Fj%2F86187823766%3Fpwd%3DCbO70uvGMDyYrCnyanCVuXxrrDepug.1"
+},
+{
+"text": "0",
+"href": "https://www.utahgrit.com/cart"
+},
+{
+"text": "Canvass For Rod's Birthday",
+"href": "https://www.utahgrit.com/events/canvass-for-rods-birthday"
+},
+{
+"text": "Canvass For Rod's Birthday",
+"href": "https://www.utahgrit.com/events/canvass-for-rods-birthday-fxjnm"
+},
+{
+"text": "Canvass For Rod's Birthday",
+"href": "https://www.utahgrit.com/events/canvass-for-rods-birthday-fxjnm-ptzyy"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug1"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug15-npxws"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug16-x2k6x"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug22"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug23"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug29"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug30"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug8"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug9"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-july26"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct10"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct17"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct24"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep12"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep13"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep26"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep27"
+},
+{
+"text": "Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep5"
+},
+{
+"text": "Contact",
+"href": "https://www.utahgrit.com/contact"
+},
+{
+"text": "DRINKING LIBERALLY",
+"href": "https://www.utahgrit.com/events/drinking-liberally"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/utahgrit"
+},
+{
+"text": "EASTRIDGE SOAPBOX",
+"href": "https://www.utahgrit.com/events/eastridge-soapbox-in-sandy"
+},
+{
+"text": "Endorsements",
+"href": "https://www.utahgrit.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.utahgrit.com/events"
+},
+{
+"text": "FLIPPING BURGERS",
+"href": "https://www.utahgrit.com/events/flipping-burgers-flipping-votes-aug29"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+For+Rod%27s+Birthday&dates=20260918T150000Z%2F20260919T020000Z&location=3359+Alpine+Creek+Way%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+For+Rod%27s+Birthday&dates=20260920T150000Z%2F20260920T150000Z&location=3359+Alpine+Creek+Way%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+For+Rod%27s+Birthday+&dates=20260919T150000Z%2F20260919T160000Z&location=3359+Alpine+Creek+Way%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45&dates=20260726T233000Z%2F20260727T013000Z&location=10140+South+700+East%2C+Sandy%2C+Utah%2C+84070%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45&dates=20260808T153000Z%2F20260808T163000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45&dates=20260822T150000Z%2F20260822T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45&dates=20260913T150000Z%2F20260913T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45&dates=20260926T150000Z%2F20260926T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260801T153000Z%2F20260801T180000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260809T150000Z%2F20260809T173000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260815T150000Z%2F20260815T173000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260816T150000Z%2F20260816T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260823T150000Z%2F20260823T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260829T150000Z%2F20260829T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260830T150000Z%2F20260830T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260905T150000Z%2F20260905T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260912T150000Z%2F20260912T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20260927T150000Z%2F20260927T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20261010T150000Z%2F20261010T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20261017T150000Z%2F20261017T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20261024T150000Z%2F20261024T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=DRINKING+LIBERALLY&dates=20260829T003000Z%2F20260829T020000Z&location=515+South+700+East%2C+Salt+Lake+City%2C+Utah%2C+84102%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=EASTRIDGE+SOAPBOX&dates=20260912T160000Z%2F20260912T180000Z&location=Sandy%2C+UT+%2C+USA"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=FLIPPING+BURGERS&dates=20260829T230000Z%2F20260830T040000Z&location=980+East+11400+South%2C+Sandy%2C+Utah%2C+84094%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Housing+Affordability+Panel++-+ZOOM&dates=20260930T010000Z%2F20260930T023000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ice+Cream+Social+Meet+%26amp%3B+Greet+&dates=20260808T000000Z%2F20260808T020000Z&location=2502+Rustic+Roads+Dr%2C+South+Jordan%2C+UT+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=LAST+BLAST+OF+SUMMER&dates=20260822T200000Z%2F20260823T043000Z&location=930+East+Onyx+Lane%2C+Sandy%2C+Utah%2C+84094%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=LIVESTREAM&dates=20260826T233000Z%2F20260827T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+&dates=20260630T000000Z%2F20260630T020000Z&location=11000+South+Park+Road%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+VIRTUAL+&dates=20260805T233000Z%2F20260806T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Rod%2C+Zach+and+Ofa&dates=20260924T000000Z%2F20260924T013000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Region+7+PTA&dates=20261014T000000Z%2F20261014T020000Z&location=615+East+8000+South%2C+Sandy%2C+Utah%2C+84070%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Summer+BBQ&dates=20260711T180000Z%2F20260711T210000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=TOWN+HALL&dates=20260923T003000Z%2F20260923T023000Z&location=10100+Petunia+Way%2C+Sandy%2C+Utah%2C+84092%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Utah+PTA&dates=20261008T003000Z%2F20261008T020000Z&location=10245+South+2700+West%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Grit Perspective",
+"href": "https://www.utahgrit.com/grit-perspective"
+},
+{
+"text": "House District 45 MAP",
+"href": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/election-maps/district-maps/state-house-of-representatives/state-house_45.pdf"
+},
+{
+"text": "Housing Affordability Panel - ZOOM",
+"href": "https://www.utahgrit.com/events/housing-affordability-panel-zoom"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/aug7?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-for-rods-birthday-fxjnm-ptzyy?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-for-rods-birthday-fxjnm?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-for-rods-birthday?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug15-npxws?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug16-x2k6x?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug22?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug23?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug29?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug30?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug8?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug9?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-july26?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct10?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct17?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct24?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep12?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep13?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep26?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep27?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/drinking-liberally?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/eastridge-soapbox-in-sandy?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/flipping-burgers-flipping-votes-aug29?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/housing-affordability-panel-zoom?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/livestream-aug26?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/meet-greet-virtual?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/meet-rod-zach-and-ofa?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/region-7-pta?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/summer-bbq?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/town-hall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/utah-ptaoct7?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/whitecitylastblast?format=ical"
+},
+{
+"text": "Ice Cream Social Meet & Greet",
+"href": "https://www.utahgrit.com/events/aug7"
+},
+{
+"text": "Issues That Matter",
+"href": "https://www.utahgrit.com/issues-that-matter"
+},
+{
+"text": "LAST BLAST OF SUMMER",
+"href": "https://www.utahgrit.com/events/whitecitylastblast"
+},
+{
+"text": "LIVESTREAM",
+"href": "https://www.utahgrit.com/events/livestream-aug26"
+},
+{
+"text": "Learn more",
+"href": "https://whitecitycc.org/last-blast-summer/"
+},
+{
+"text": "Learn more",
+"href": "https://www.facebook.com/groups/5364412134/?rdid=caUQXu9PUNxDZLhl&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F19LvLurWXL%2F"
+},
+{
+"text": "Meet & Greet",
+"href": "https://www.utahgrit.com/events/meet-greet"
+},
+{
+"text": "Meet & Greet VIRTUAL",
+"href": "https://www.utahgrit.com/events/meet-greet-virtual"
+},
+{
+"text": "Meet Rod, Zach and Ofa",
+"href": "https://www.utahgrit.com/events/meet-rod-zach-and-ofa"
+},
+{
+"text": "RSVP",
+"href": "https://secure.actblue.com/donate/fr-bbq250"
+},
+{
+"text": "Region 7 PTA",
+"href": "https://www.utahgrit.com/events/region-7-pta"
+},
+{
+"text": "Sign Up",
+"href": "https://www.mobilize.us/utahdemocrats/event/1035372/"
+},
+{
+"text": "Sign Up",
+"href": "https://www.mobilize.us/utahdemocrats/event/996944/"
+},
+{
+"text": "Sign Up",
+"href": "https://www.mobilize.us/utahdemocrats/event/996948/"
+},
+{
+"text": "Sign Up",
+"href": "https://www.utahgrit.com/volunteer-form"
+},
+{
+"text": "Summer BBQ",
+"href": "https://www.utahgrit.com/events/summer-bbq"
+},
+{
+"text": "TOWN HALL",
+"href": "https://www.utahgrit.com/events/town-hall"
+},
+{
+"text": "Utah PTA",
+"href": "https://www.utahgrit.com/events/utah-ptaoct7"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/aug7"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-for-rods-birthday"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-for-rods-birthday-fxjnm"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-for-rods-birthday-fxjnm-ptzyy"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug1"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug15-npxws"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug16-x2k6x"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug22"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug23"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug29"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug30"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug8"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug9"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-july26"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct10"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct17"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct24"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep12"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep13"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep26"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep27"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep5"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/drinking-liberally"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/eastridge-soapbox-in-sandy"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/flipping-burgers-flipping-votes-aug29"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/housing-affordability-panel-zoom"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/livestream-aug26"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/meet-greet-virtual"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/meet-rod-zach-and-ofa"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/region-7-pta"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/summer-bbq"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/town-hall"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/utah-ptaoct7"
+},
+{
+"text": "View Event →",
+"href": "https://www.utahgrit.com/events/whitecitylastblast"
+},
+{
+"text": "Volunteer",
+"href": "https://www.utahgrit.com/volunteer-form"
+},
+{
+"text": "ZOOM LINK",
+"href": "https://us02web.zoom.us/j/86187823766?pwd=CbO70uvGMDyYrCnyanCVuXxrrDepug.1"
+},
+{
+"text": "[image: Canvass For Rod's Birthday ]",
+"href": "https://www.utahgrit.com/events/canvass-for-rods-birthday-fxjnm"
+},
+{
+"text": "[image: Canvass For Rod's Birthday]",
+"href": "https://www.utahgrit.com/events/canvass-for-rods-birthday"
+},
+{
+"text": "[image: Canvass For Rod's Birthday]",
+"href": "https://www.utahgrit.com/events/canvass-for-rods-birthday-fxjnm-ptzyy"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45 ]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug1"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45 ]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug15-npxws"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45 ]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug16-x2k6x"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45 ]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug23"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45 ]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug29"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45 ]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug30"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45 ]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug9"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45 ]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct10"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45 ]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct17"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45 ]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct24"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45 ]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep12"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45 ]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep27"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45 ]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep5"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug22"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug8"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-july26"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep13"
+},
+{
+"text": "[image: Canvass with Rod Moser for HD45]",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep26"
+},
+{
+"text": "[image: DRINKING LIBERALLY]",
+"href": "https://www.utahgrit.com/events/drinking-liberally"
+},
+{
+"text": "[image: EASTRIDGE SOAPBOX]",
+"href": "https://www.utahgrit.com/events/eastridge-soapbox-in-sandy"
+},
+{
+"text": "[image: FLIPPING BURGERS]",
+"href": "https://www.utahgrit.com/events/flipping-burgers-flipping-votes-aug29"
+},
+{
+"text": "[image: Housing Affordability Panel - ZOOM]",
+"href": "https://www.utahgrit.com/events/housing-affordability-panel-zoom"
+},
+{
+"text": "[image: Ice Cream Social Meet &amp; Greet ]",
+"href": "https://www.utahgrit.com/events/aug7"
+},
+{
+"text": "[image: LAST BLAST OF SUMMER]",
+"href": "https://www.utahgrit.com/events/whitecitylastblast"
+},
+{
+"text": "[image: LIVESTREAM]",
+"href": "https://www.utahgrit.com/events/livestream-aug26"
+},
+{
+"text": "[image: Meet & Greet VIRTUAL ]",
+"href": "https://www.utahgrit.com/events/meet-greet-virtual"
+},
+{
+"text": "[image: Meet & Greet ]",
+"href": "https://www.utahgrit.com/events/meet-greet"
+},
+{
+"text": "[image: Meet Rod, Zach and Ofa]",
+"href": "https://www.utahgrit.com/events/meet-rod-zach-and-ofa"
+},
+{
+"text": "[image: Region 7 PTA]",
+"href": "https://www.utahgrit.com/events/region-7-pta"
+},
+{
+"text": "[image: Rod Moser For Utah House District 45]",
+"href": "https://www.utahgrit.com/"
+},
+{
+"text": "[image: Summer BBQ]",
+"href": "https://www.utahgrit.com/events/summer-bbq"
+},
+{
+"text": "[image: TOWN HALL]",
+"href": "https://www.utahgrit.com/events/town-hall"
+},
+{
+"text": "[image: Utah PTA]",
+"href": "https://www.utahgrit.com/events/utah-ptaoct7"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/fr-bbq250"
+},
+{
+"text": "[image]",
+"href": "https://tuccisslc.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.mobilize.us/utahdemocrats/event/1009134/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RodMoser.UtahGrit/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/utah.grit/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@UtahGrit"
+}
 ]

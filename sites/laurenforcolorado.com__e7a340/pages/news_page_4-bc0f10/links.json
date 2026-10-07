@@ -1,38 +1,230 @@
 [
-"http://facebook.com/laurenboebert",
-"http://twitter.com/laurenboebert",
-"https://durangoherald.com/articles/new-bill-would-prevent-rule-from-increasing-the-costs-of-oil-and-gas-production",
-"https://instagram.com/laurenboebert",
-"https://laurenforcolorado.com/",
-"https://laurenforcolorado.com/about",
-"https://laurenforcolorado.com/accomplishments",
-"https://laurenforcolorado.com/contact",
-"https://laurenforcolorado.com/donate",
-"https://laurenforcolorado.com/download/lauren_boebert_contract.pdf",
-"https://laurenforcolorado.com/endorsements",
-"https://laurenforcolorado.com/get-involved",
-"https://laurenforcolorado.com/media",
-"https://laurenforcolorado.com/news",
-"https://laurenforcolorado.com/news/boebert-files-four-amendments-to-slash-lloyd-austin-and-dod-officials-salaries",
-"https://laurenforcolorado.com/news/boebert-pointed-to-her-legislative-efforts-on-water-storage-and-reauthorization-of-fish-recovery-programs-and-her-attempts-to-work-in-a-bipartisan-manner-with-the-democrats-in-colorados-federal-delegation.",
-"https://laurenforcolorado.com/news/congresswoman-lauren-boebert-addresses-recent-headlines-and-the-2024-election",
-"https://laurenforcolorado.com/news/important-updates-from-team-boebert-october-21-2023",
-"https://laurenforcolorado.com/news/important-updates-from-team-boebert-september-10-2023",
-"https://laurenforcolorado.com/news/page/2",
-"https://laurenforcolorado.com/news/page/20",
-"https://laurenforcolorado.com/news/page/3",
-"https://laurenforcolorado.com/news/page/4",
-"https://laurenforcolorado.com/news/page/5",
-"https://laurenforcolorado.com/news/page/6",
-"https://laurenforcolorado.com/news/page/7",
-"https://laurenforcolorado.com/news/page/8",
-"https://laurenforcolorado.com/news/representative-lauren-boebert-r-co-joins-dan-to-talk-about-her-august-tour-through-her-3rd-congressional-district-during-the-summer-recess-for-congress.",
-"https://laurenforcolorado.com/news/the-journal-house-committee-votes-to-reauthorize-boebert-fish-recovery-bill",
-"https://laurenforcolorado.com/news/washington-examiner-lauren-boebert-slams-stopgap-proposal-as-deadline-approaches",
-"https://laurenforcolorado.com/pages/privacy",
-"https://laurenforcolorado.com/vote",
-"https://secure.winred.com/lauren-boebert-for-congress/storefront",
-"https://twitter.com/laurenboebert/status/1696219519218340230?s=20",
-"https://txtterms.co/80306",
-"https://youtube.com/@laurenforfreedom3084"
+{
+"text": "1",
+"href": "https://laurenforcolorado.com/news/"
+},
+{
+"text": "2",
+"href": "https://laurenforcolorado.com/news/page/2/"
+},
+{
+"text": "20",
+"href": "https://laurenforcolorado.com/news/page/20/"
+},
+{
+"text": "3",
+"href": "https://laurenforcolorado.com/news/page/3/"
+},
+{
+"text": "4",
+"href": "https://laurenforcolorado.com/news/page/4/"
+},
+{
+"text": "5",
+"href": "https://laurenforcolorado.com/news/page/5/"
+},
+{
+"text": "6",
+"href": "https://laurenforcolorado.com/news/page/6/"
+},
+{
+"text": "630 KHOW: Rep. Lauren Boebert is Touring Her District on Summer Recess",
+"href": "https://laurenforcolorado.com/news/representative-lauren-boebert-r-co-joins-dan-to-talk-about-her-august-tour-through-her-3rd-congressional-district-during-the-summer-recess-for-congress./"
+},
+{
+"text": "7",
+"href": "https://laurenforcolorado.com/news/page/7/"
+},
+{
+"text": "8",
+"href": "https://laurenforcolorado.com/news/page/8/"
+},
+{
+"text": "About",
+"href": "https://laurenforcolorado.com/about/"
+},
+{
+"text": "About Lauren",
+"href": "https://laurenforcolorado.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://laurenforcolorado.com/accomplishments/"
+},
+{
+"text": "Colorado Politics: Colorado’s Federal Lawmakers Tout Water Progress",
+"href": "https://laurenforcolorado.com/news/boebert-pointed-to-her-legislative-efforts-on-water-storage-and-reauthorization-of-fish-recovery-programs-and-her-attempts-to-work-in-a-bipartisan-manner-with-the-democrats-in-colorados-federal-delegation./"
+},
+{
+"text": "Contact",
+"href": "https://laurenforcolorado.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://laurenforcolorado.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://laurenforcolorado.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/laurenboebert"
+},
+{
+"text": "Get Involved",
+"href": "https://laurenforcolorado.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/laurenboebert/"
+},
+{
+"text": "KRDO Colorado Springs: Representative Lauren Boebert Discusses 2024",
+"href": "https://laurenforcolorado.com/news/congresswoman-lauren-boebert-addresses-recent-headlines-and-the-2024-election/"
+},
+{
+"text": "Media",
+"href": "https://laurenforcolorado.com/media/"
+},
+{
+"text": "Menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "NEXT PAGE",
+"href": "https://laurenforcolorado.com/news/page/5/"
+},
+{
+"text": "New bill would prevent rule from increasing the costs of oil and gas production",
+"href": "https://www.durangoherald.com/articles/new-bill-would-prevent-rule-from-increasing-the-costs-of-oil-and-gas-production/"
+},
+{
+"text": "News",
+"href": "https://laurenforcolorado.com/news/"
+},
+{
+"text": "Newsletter: Important Updates from Team Boebert",
+"href": "https://laurenforcolorado.com/news/important-updates-from-team-boebert-october-21-2023/"
+},
+{
+"text": "Newsletter: Important Updates from Team Boebert",
+"href": "https://laurenforcolorado.com/news/important-updates-from-team-boebert-september-10-2023/"
+},
+{
+"text": "PREV. PAGE",
+"href": "https://laurenforcolorado.com/news/page/3/"
+},
+{
+"text": "Pledge",
+"href": "https://laurenforcolorado.com/download/lauren_boebert_contract.pdf"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/boebert-files-four-amendments-to-slash-lloyd-austin-and-dod-officials-salaries/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/boebert-pointed-to-her-legislative-efforts-on-water-storage-and-reauthorization-of-fish-recovery-programs-and-her-attempts-to-work-in-a-bipartisan-manner-with-the-democrats-in-colorados-federal-delegation./"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/congresswoman-lauren-boebert-addresses-recent-headlines-and-the-2024-election/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/important-updates-from-team-boebert-october-21-2023/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/important-updates-from-team-boebert-september-10-2023/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/representative-lauren-boebert-r-co-joins-dan-to-talk-about-her-august-tour-through-her-3rd-congressional-district-during-the-summer-recess-for-congress./"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/the-journal-house-committee-votes-to-reauthorize-boebert-fish-recovery-bill/"
+},
+{
+"text": "Read More",
+"href": "https://laurenforcolorado.com/news/washington-examiner-lauren-boebert-slams-stopgap-proposal-as-deadline-approaches/"
+},
+{
+"text": "Read More",
+"href": "https://twitter.com/laurenboebert/status/1696219519218340230?s=20"
+},
+{
+"text": "Read More",
+"href": "https://www.durangoherald.com/articles/new-bill-would-prevent-rule-from-increasing-the-costs-of-oil-and-gas-production/"
+},
+{
+"text": "SMS Terms & Conditions",
+"href": "https://txtterms.co/80306"
+},
+{
+"text": "The Journal: House committee votes to reauthorize Boebert fish recovery bill",
+"href": "https://laurenforcolorado.com/news/the-journal-house-committee-votes-to-reauthorize-boebert-fish-recovery-bill/"
+},
+{
+"text": "Twitter",
+"href": "http://twitter.com/laurenboebert"
+},
+{
+"text": "Vote",
+"href": "https://laurenforcolorado.com/vote"
+},
+{
+"text": "WWARR Act Twitter Update",
+"href": "https://twitter.com/laurenboebert/status/1696219519218340230?s=20"
+},
+{
+"text": "Washington Examiner: Boebert Files Amendments to Slash Salaries of Bureaucrats",
+"href": "https://laurenforcolorado.com/news/boebert-files-four-amendments-to-slash-lloyd-austin-and-dod-officials-salaries/"
+},
+{
+"text": "Washington Examiner: Lauren Boebert slams stopgap proposal as deadline approaches",
+"href": "https://laurenforcolorado.com/news/washington-examiner-lauren-boebert-slams-stopgap-proposal-as-deadline-approaches/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@laurenforfreedom3084"
+},
+{
+"text": "[image: Lauren Boebert Logo]",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "[image: Text JOIN to 80306]",
+"href": "sms:+80306"
+},
+{
+"text": "[no text]",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "javascript:;"
+},
+{
+"text": "info@laurenforcolorado.com",
+"href": "mailto:info@laurenforcolorado.com"
+},
+{
+"text": "privacy policy",
+"href": "https://laurenforcolorado.com/pages/privacy"
+},
+{
+"text": "store",
+"href": "https://secure.winred.com/lauren-boebert-for-congress/storefront/"
+},
+{
+"text": "terms",
+"href": "https://txtterms.co/80306"
+}
 ]

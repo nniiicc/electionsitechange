@@ -1,7 +1,30 @@
 [
-"https://hamforstaterep.com/",
-"https://hamforstaterep.com/about.html",
-"https://hamforstaterep.com/contact.html",
-"https://hamforstaterep.com/platform.html",
-"https://weebly.com/signup"
+{
+"text": "About",
+"href": "https://www.hamforstaterep.com/about.html"
+},
+{
+"text": "Bob's Platforms",
+"href": "https://www.hamforstaterep.com/platform.html"
+},
+{
+"text": "Contact",
+"href": "https://www.hamforstaterep.com/contact.html"
+},
+{
+"text": "Home",
+"href": "https://www.hamforstaterep.com/"
+},
+{
+"text": "Meet Bob!",
+"href": "https://www.hamforstaterep.com/about.html"
+},
+{
+"text": "Platform",
+"href": "https://www.hamforstaterep.com/platform.html"
+},
+{
+"text": "Powered by [image] Create your own unique website with customizable templates. Get Started",
+"href": "https://www.weebly.com/signup"
+}
 ]

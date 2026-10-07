@@ -1,10 +1,3 @@
-Back to All Events
-Mark will be making an appearance at the Southeast Candidate Forum on June 25th held in Tobias at their gymnasium.
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Back to All Events Southeast Candidate Forum Thursday, June 25, 2026 6:30 PM 8:30 PM Tobias Gymnasium Tobias, NE (map) Google Calendar ICS Mark will be making an appearance at the Southeast Candidate Forum on June 25th held in Tobias at their gymnasium.
 Come listen to the representative you deserve speak on how he’ll improve the lives of everyone in CD3 & Nebraska at large!
-Previous
-Previous
-June 25
-Meet and Greet on "G" Street
-Next
-Next
-June 26
+Tagged: Event , Forum Previous Previous June 25 Meet and Greet on "G" Street Next Next June 26 Meet & Greet At Morton-James Public Library Donate info@markfornebraska.org Send checks to: Mark for Nebraska PO Box 81 Lemoyne, NE 69146 Volunteer Contact Terms of Use Privacy Policy PAID FOR AND AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website →

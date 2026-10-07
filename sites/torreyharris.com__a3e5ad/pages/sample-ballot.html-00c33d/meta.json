@@ -1,9 +1,13 @@
 {
  "description": "View the official Shelby County sample ballot for the August 6, 2026 State & Federal Primary. Know your ballot before you vote in Tennessee House District 91.",
  "final_url": "https://www.torreyharris.com/sample-ballot",
+ "fingerprint": "54ce120fe0d4b6e8875e8a5385561e5b1c07fa70",
+ "format": 3,
  "paid_for_by": "PAID FOR BY COMMITTEE TO ELECT TORREY HARRIS",
- "title": "Sample Ballot \u2014 Rep. Torrey C. Harris",
+ "title": "Sample Ballot — Rep. Torrey C. Harris",
  "years_mentioned": [
-  "2026"
+  "2025",
+  "2026",
+  "2027"
  ]
 }

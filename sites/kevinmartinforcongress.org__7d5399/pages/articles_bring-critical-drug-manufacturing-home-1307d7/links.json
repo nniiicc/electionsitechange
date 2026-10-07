@@ -1,8 +1,38 @@
 [
-"http://whitehouse.gov/",
-"https://kevinmartinforcongress.com/",
-"https://kevinmartinforcongress.com/issues",
-"https://kevinmartinforcongress.com/issues/drug-prices",
-"https://kevinmartinforcongress.com/legal.html",
-"https://secure.anedot.com/comittee-to-elect-kevin-e-martin/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/comittee-to-elect-kevin-e-martin/donate"
+},
+{
+"text": "Home",
+"href": "https://kevinmartinforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://kevinmartinforcongress.com/issues/"
+},
+{
+"text": "Prescription Drug Costs",
+"href": "https://kevinmartinforcongress.com/issues/drug-prices"
+},
+{
+"text": "Prescription Drug Costs Stop paying more than every other developed country for the same medication, bring critical drug manufacturing home, and break up the insurer-doctor-pharmacy arrangement. Where he stands →",
+"href": "https://kevinmartinforcongress.com/issues/drug-prices"
+},
+{
+"text": "Privacy Policy & Terms and Conditions",
+"href": "https://kevinmartinforcongress.com/legal.html"
+},
+{
+"text": "The Issues",
+"href": "https://kevinmartinforcongress.com/issues/"
+},
+{
+"text": "[image: Kevin Martin for Congress]",
+"href": "https://kevinmartinforcongress.com/"
+},
+{
+"text": "www.whitehouse.gov",
+"href": "http://www.whitehouse.gov"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Montana's housing reality, in plain numbers. Explore the gap between paychecks, home prices and rent, with a closer look at Billings.",
  "final_url": "https://maxwellforhouse.com/our-fight/affordability/housing/",
- "paid_for_by": null,
+ "fingerprint": "b5c27b492303de7fb68ce4422e3b35669c6f3f03",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Montana Housing Affordability: Prices, Rent & Income | John Maxwell",
  "years_mentioned": [
   "2020",

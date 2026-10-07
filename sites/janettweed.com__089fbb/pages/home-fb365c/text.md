@@ -1,11 +1,7 @@
-Healthy people
-Stronger Communities
-Janet Tweed for NYS Assembly 102
-Janet is a physical therapist who’s spent her career helping people regain strength and independence.
+0 Skip to Content Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Healthy people Stronger Communities Janet Tweed for NYS Assembly 102 Janet is a physical therapist who’s spent her career helping people regain strength and independence.
 A mom, Rotarian, and village trustee, she brings compassion, service, and common sense to everything she does.
 Janet’s on-the-ground healthcare experience gives her a real understanding of how policy affects people’s lives, and she’s ready to take that practical perspective to Albany to tackle challenges like healthcare, housing, utility costs, and the environment.
-Hi, I'm Janet Tweed
-I'm running for Assembly District 102.
+Donate Hi, I'm Janet Tweed I'm running for Assembly District 102.
 I grew up in a rural community playing sports that led to my career as a physical therapist.
 I love being a physical therapist because I get to help people.
 When I settled in Delhi.
@@ -14,18 +10,24 @@ I'm running for assembly for three main reasons: to improve our health care, sup
 Infrastructure – actively working to support healthy infrastructure throughout New York.
 And lastly, protecting our communities and protecting the Constitution.
 I'm running for Assembly because I think that this district deserves to have a voice, someone who actually works to make changes that affect our daily life.
-Support Tweed for NYS 102.
+Learn more about Janet Support Tweed for NYS 102.
 Donate Today.
 Support Tweed for NYS 102.
 Donate Today.
-Our campaign is powered by support from people like you
-Top Priorities
-Improve Healthcare
-We can lower healthcare costs and improve access by prioritizing people over corporate profits.
+Support Tweed for NYS 102.
+Donate Today.
+Let's Do this Our campaign is powered by support from people like you Get a sign for your yard “ If we want strong, healthy rural communities, we need a voice in Albany who answers to us — not corporations or career politicians. ” — Janet Tweed Top Priorities Improve Healthcare We can lower healthcare costs and improve access by prioritizing people over corporate profits.
 Janet wants to improve our healthcare by supporting seniors to age in place, expanding school-based health centers, encouraging providers to work in underserved rural communities, following science rather than social media influencers, and guaranteeing universal healthcare for all New Yorkers via the New York Health Act.
 Safe, sufficient and affordable infrastructure is key to economic development and quality of life.
 Janet supports increasing housing stocks of all types; lowering energy costs through better regulating NYSEG and AI data centers and thoughtfully increasing renewable energy infrastructure; and changing the way Albany distributes funding to be more equitable for small rural communities like ours.
-Empower Rural Infrastructure
-None of us are free until all of us are free.
+Empower Rural Infrastructure None of us are free until all of us are free.
 Janet supports women’s right to choose, LGBTQ+ folks’ right to live freely and without fear, citizens’ right to vote without political interference, and every person’s right to due process, a fair and speedy trial, and freedom from unreasonable search and seizure.
 Human and constitutional rights are for everyone, citizens and immigrants.
+Protect Communities and the Constitution Here’s my Game Plan for Other Critical Issues at Stake Join Our Campaign Sign up for campaign alerts and notifications and to volunteer with our grassroots, people-powered campaign Proudly endorsed by New York State United Teachers Working Families Party James Barber Western Catskills Indivisible Planned Parenthood Albany County Young Democrats United Automobile, Aerospace + Agricultural Implement Workers of America Eleanor's Legacy NY Health Healthcare Champion Moms Demand Action Streets Pac Capital Women Family Planning Action Fund Communications Workers of America NYS Federation of Democratic Women National Association of Social Workers New York Chapter NYS Nurses Association News + Updates Updates Endorsements + Recognitions Endorsed!
+NASW-NY Endorsements + Recognitions “ Your longstanding efforts to strengthen the community and your advocacy on behalf of the social work profession are recognized and appreciated.” — National Association of Social Workers New York Chapter Read more → Endorsements + Recognitions Endorsements + Recognitions Thank you for your endorsement Josh Riley!
+Endorsements + Recognitions I’m thrilled to be endorsed by our neighbor Josh Riley Read more → Endorsements + Recognitions Endorsements + Recognitions , healthcare I’ve been designated a 2026 Mental Health Now Candidate Endorsements + Recognitions , healthcare Read more → Endorsements + Recognitions , healthcare Housing , Issues Understanding Housing Affordability in AD102 Housing , Issues Housing shortages continue to affect communities across New York State, and the challenges are especially visible in Assembly District 102, which spans Delaware, Greene, Otsego, Schoharie, and parts of Albany County.
+Read more → Housing , Issues Family Planning Action Fund Read more → Endorsements + Recognitions New York Health Act Champion Endorsements + Recognitions I’m honored to be named a New York Health Act Champion Read more → Endorsements + Recognitions Press Release Assembly candidate calls for legislation allowing users to opt out of AI Press Release New York Assembly candidate Janet Tweed today called for legislation requiring tech companies to allow users to opt out of AI usage.
+Read more → Press Release District 102 A gigantic perk… District 102 A gigantic perk of living in NYS's 102nd district is our access to year-round farmer's markets Read more → District 102 Press Release Healthcare policy should be led by evidence, not influencers Press Release In the year 2000 – as I was beginning school to become a physical therapist – measles was declared “eliminated” in the United States, thanks in large part to safe, effective vaccines… Read more → Press Release Endorsements + Recognitions James Barber Endorsements + Recognitions “Rural New York can have a voice in the Assembly that our leaders will actually listen to.” Read more → Endorsements + Recognitions Canvassing Knocking on Doors Canvassing Petitioning with the Middlefield Democrats Read more → Canvassing Meet Janet / Priorities / Events / News / Get Involved ‍ ‍ Donate Healthy People, Stronger Communities Janet Tweed for NYS Assembly 102 Our Privacy Policy.
+We do not share mobile contact information with third parties or affiliates for marketing or promotional purposes.
+Information may be shared with subcontractors in support services, such as customer service.
+All other categories exclude text messaging originator opt-in data and consent; this information will be not shared with any third parties. info@janettweed.com Paid for by Friends of Janet Tweed

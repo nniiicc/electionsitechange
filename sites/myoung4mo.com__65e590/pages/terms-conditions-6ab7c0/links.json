@@ -1,5 +1,38 @@
 [
-"https://myoung4mo.com/",
-"https://myoung4mo.com/terms-conditions",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.myoung4mo.com#about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.myoung4mo.com"
+},
+{
+"text": "Contact",
+"href": "https://www.myoung4mo.com#contact"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.myoung4mo.com"
+},
+{
+"text": "Refund Policy",
+"href": "https://www.myoung4mo.com"
+},
+{
+"text": "Services",
+"href": "https://www.myoung4mo.com#online-services"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.myoung4mo.com/terms-conditions"
+},
+{
+"text": "[image: Homepage]",
+"href": "https://www.myoung4mo.com"
+},
+{
+"text": "© # by Alice Hope MD Family Doctor. Powered and secured by Wix",
+"href": "https://wix.com"
+}
 ]

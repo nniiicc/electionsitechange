@@ -1,15 +1,78 @@
 [
-"https://facebook.com/profile.php?id=61585685672814",
-"https://max4california.com/",
-"https://max4california.com/about",
-"https://max4california.com/contact",
-"https://max4california.com/copy-of-community-outreach",
-"https://max4california.com/endorsements",
-"https://max4california.com/events-1",
-"https://max4california.com/get-involved",
-"https://max4california.com/news",
-"https://max4california.com/s-projects-basic",
-"https://max4california.com/terms-and-conditions",
-"https://secure.anedot.com/max-for-california/3c5f9e73-7cfd-418f-b635-e5f2ee048d72",
-"https://x.com/Max4California"
+{
+"text": "About",
+"href": "https://www.max4california.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.max4california.com/about"
+},
+{
+"text": "Campaign Activities",
+"href": "https://www.max4california.com/copy-of-community-outreach"
+},
+{
+"text": "Community Outreach",
+"href": "https://www.max4california.com/s-projects-basic"
+},
+{
+"text": "Contact",
+"href": "https://www.max4california.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.max4california.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.max4california.com/events-1"
+},
+{
+"text": "FOR STATE ASSEMBLY",
+"href": "https://www.max4california.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.max4california.com/get-involved"
+},
+{
+"text": "Help Max Win",
+"href": "https://secure.anedot.com/max-for-california/3c5f9e73-7cfd-418f-b635-e5f2ee048d72"
+},
+{
+"text": "Home",
+"href": "https://www.max4california.com"
+},
+{
+"text": "Home",
+"href": "https://www.max4california.com/copy-of-community-outreach"
+},
+{
+"text": "MAX HSIA",
+"href": "https://www.max4california.com"
+},
+{
+"text": "NEWS",
+"href": "https://www.max4california.com/news"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.max4california.com"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.max4california.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.max4california.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61585685672814"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/Max4California"
+}
 ]

@@ -1,40 +1,174 @@
 [
-"https://facebook.com/collins4senator",
-"https://instagram.com/susancollinsforsenate",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=100&web_id=susancollins_news_donatebar100",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=1000&web_id=susancollins_news_donatebar1000",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=25&web_id=susancollins_news_donatebar25",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=50&web_id=susancollins_news_donatebar50",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=500&web_id=susancollins_news_donatebar500",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?web_id=susancollins_news_donatebar",
-"https://secure.winred.com/susan-collins/moose-wink",
-"https://susancollins.com/",
-"https://susancollins.com/about",
-"https://susancollins.com/faq",
-"https://susancollins.com/get-involved",
-"https://susancollins.com/get-involved/campaign-chairs",
-"https://susancollins.com/get-involved/coalitions",
-"https://susancollins.com/letter-to-the-editor/letter-susan-collins-delivers-for-maines-military-families",
-"https://susancollins.com/letter-to-the-editor/letter-susan-collins-is-an-influential-advocate-for-maine",
-"https://susancollins.com/letter-to-the-editor/letter-susan-collins-is-best-candidate-for-senate",
-"https://susancollins.com/letter-to-the-editor/susan-collins-gets-things-done-for-mainers-letter",
-"https://susancollins.com/media-kit",
-"https://susancollins.com/news",
-"https://susancollins.com/news/page/2",
-"https://susancollins.com/news/page/22",
-"https://susancollins.com/news/page/3",
-"https://susancollins.com/news/page/5",
-"https://susancollins.com/news/page/6",
-"https://susancollins.com/op-ed/susan-collins-is-a-champion-for-maine-hospitals-opinion",
-"https://susancollins.com/press-release/press-release-collins-accepts-four-debates-with-maine-television-stations-and-their-media-partners",
-"https://susancollins.com/press-release/press-release-out-of-touch-with-maine-troy-jackson-mocks-tariff-relief-for-maine-towns",
-"https://susancollins.com/press-release/troy-jackson-refuses-first-scheduled-face-off-with-collins",
-"https://susancollins.com/privacy-policy",
-"https://susancollins.com/store",
-"https://susancollins.com/terms-and-conditions",
-"https://susancollins.com/track-record",
-"https://susancollins.com/vote",
-"https://x.com/SenSusanCollins",
-"https://youtube.com/@susancollins4senator"
+{
+"text": "$100",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=100&web_id=susancollins_news_donatebar100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=1000&web_id=susancollins_news_donatebar1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=25&web_id=susancollins_news_donatebar25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=50&web_id=susancollins_news_donatebar50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=500&web_id=susancollins_news_donatebar500"
+},
+{
+"text": "1",
+"href": "https://susancollins.com/news/"
+},
+{
+"text": "2",
+"href": "https://susancollins.com/news/page/2/"
+},
+{
+"text": "22",
+"href": "https://susancollins.com/news/page/22/"
+},
+{
+"text": "3",
+"href": "https://susancollins.com/news/page/3/"
+},
+{
+"text": "5",
+"href": "https://susancollins.com/news/page/5/"
+},
+{
+"text": "6",
+"href": "https://susancollins.com/news/page/6/"
+},
+{
+"text": "About",
+"href": "https://susancollins.com/about/"
+},
+{
+"text": "Campaign Chairs",
+"href": "https://susancollins.com/get-involved/campaign-chairs/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026"
+},
+{
+"text": "FAQs",
+"href": "https://susancollins.com/faq/"
+},
+{
+"text": "Get Involved",
+"href": "https://susancollins.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://susancollins.com/"
+},
+{
+"text": "Join a Coalition",
+"href": "https://susancollins.com/get-involved/coalitions/"
+},
+{
+"text": "Media Kit",
+"href": "https://susancollins.com/media-kit/"
+},
+{
+"text": "News",
+"href": "https://susancollins.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?web_id=susancollins_news_donatebar"
+},
+{
+"text": "Privacy Policy",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Read MoreAugust 28, 2026Letter: Susan Collins delivers for Maine’s military familiesLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/letter-susan-collins-delivers-for-maines-military-families/"
+},
+{
+"text": "Read MoreAugust 28, 2026Susan Collins gets things done for Mainers | LetterLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/susan-collins-gets-things-done-for-mainers-letter/"
+},
+{
+"text": "Read MoreAugust 29, 2026Letter: Susan Collins is best candidate for SenateLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/letter-susan-collins-is-best-candidate-for-senate/"
+},
+{
+"text": "Read MoreSeptember 10, 2026PRESS RELEASE: Out of Touch with Maine: Troy Jackson Mocks Tariff Relief for Maine Towns Press Release",
+"href": "https://susancollins.com/press-release/press-release-out-of-touch-with-maine-troy-jackson-mocks-tariff-relief-for-maine-towns/"
+},
+{
+"text": "Read MoreSeptember 11, 2026Susan Collins fights for our veterans | LetterLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/susan-collins-fights-for-our-veterans-letter/"
+},
+{
+"text": "Read MoreSeptember 2, 2026PRESS RELEASE: Troy Jackson Refuses First Scheduled Face-Off with CollinsPress Release",
+"href": "https://susancollins.com/press-release/troy-jackson-refuses-first-scheduled-face-off-with-collins/"
+},
+{
+"text": "Read MoreSeptember 4, 2026Susan Collins is a champion for Maine hospitals | OpinionOp Ed",
+"href": "https://susancollins.com/op-ed/susan-collins-is-a-champion-for-maine-hospitals-opinion/"
+},
+{
+"text": "Read MoreSeptember 9, 2026Letter: Susan Collins is an influential advocate for MaineLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/letter-susan-collins-is-an-influential-advocate-for-maine/"
+},
+{
+"text": "Store",
+"href": "https://susancollins.com/store/"
+},
+{
+"text": "Terms & conditions / privacy policy apply",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://susancollins.com/terms-and-conditions/"
+},
+{
+"text": "Track Record",
+"href": "https://susancollins.com/track-record/"
+},
+{
+"text": "Vote",
+"href": "https://susancollins.com/vote/"
+},
+{
+"text": "[image: Collins for Senator]",
+"href": "https://susancollins.com"
+},
+{
+"text": "[image: TV Starter 3.0]",
+"href": "https://secure.winred.com/susan-collins/moose-wink"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/collins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/susancollinsforsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@susancollins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SenSusanCollins"
+},
+{
+"text": "←",
+"href": "https://susancollins.com/news/page/3/"
+},
+{
+"text": "→",
+"href": "https://susancollins.com/news/page/5/"
+}
 ]

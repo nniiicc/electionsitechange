@@ -1,21 +1,98 @@
 [
-"https://facebook.com/ScottMorganforKS",
-"https://instagram.com/scottmorganforkansas?hl=en",
-"https://scottmorgansos.com/",
-"https://scottmorgansos.com/bio",
-"https://scottmorgansos.com/cart",
-"https://scottmorgansos.com/donate",
-"https://scottmorgansos.com/faq",
-"https://scottmorgansos.com/get-involved",
-"https://scottmorgansos.com/home",
-"https://scottmorgansos.com/issues",
-"https://scottmorgansos.com/media",
-"https://scottmorgansos.com/new-dropdown",
-"https://scottmorgansos.com/principles",
-"https://scottmorgansos.com/privacy-policy",
-"https://scottmorgansos.com/s/SM-SOS-26-Press-Release-052026.pdf",
-"https://scottmorgansos.com/terms-of-service",
-"https://tiktok.com/@scottmorganforks",
-"https://unitedkansas.org/",
-"https://x.com/ScottMorganKS"
+{
+"text": "0",
+"href": "https://www.scottmorgansos.com/cart"
+},
+{
+"text": "785.236.8885",
+"href": "tel:7852368885"
+},
+{
+"text": "Back",
+"href": "https://www.scottmorgansos.com/"
+},
+{
+"text": "Bio",
+"href": "https://www.scottmorgansos.com/bio"
+},
+{
+"text": "Donate",
+"href": "https://www.scottmorgansos.com/donate"
+},
+{
+"text": "Download PDF of release",
+"href": "https://www.scottmorgansos.com/s/SM-SOS-26-Press-Release-052026.pdf"
+},
+{
+"text": "FAQ",
+"href": "https://www.scottmorgansos.com/faq"
+},
+{
+"text": "Folder: Principles",
+"href": "https://www.scottmorgansos.com/new-dropdown"
+},
+{
+"text": "Full Framework",
+"href": "https://www.scottmorgansos.com/issues"
+},
+{
+"text": "Full Issues",
+"href": "https://www.scottmorgansos.com/issues"
+},
+{
+"text": "Get Involved",
+"href": "https://www.scottmorgansos.com/get-involved"
+},
+{
+"text": "Guiding Principles",
+"href": "https://www.scottmorgansos.com/principles"
+},
+{
+"text": "Media",
+"href": "https://www.scottmorgansos.com/media"
+},
+{
+"text": "Principles",
+"href": "https://www.scottmorgansos.com/principles"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.scottmorgansos.com/privacy-policy"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.scottmorgansos.com/terms-of-service"
+},
+{
+"text": "[image: Scott Morgan for Secretary of State]",
+"href": "https://www.scottmorgansos.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.scottmorgansos.com/home"
+},
+{
+"text": "[image]",
+"href": "https://www.unitedkansas.org"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ScottMorganforKS"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/scottmorganforkansas/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@scottmorganforks"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ScottMorganKS"
+},
+{
+"text": "info@ScottMorganSOS.com",
+"href": "mailto:info@scottmorgansos.com"
+}
 ]

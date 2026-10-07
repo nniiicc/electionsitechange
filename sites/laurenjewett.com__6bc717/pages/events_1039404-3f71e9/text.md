@@ -1,7 +1,5 @@
-← All events
-TEAM JAMIE-POSTCARD WRITING-JEFFERSON PARISH
-- Where
-- Kenner · LA
-About this event
-Join Team Jamie Davis every Saturday afternoon in Kenner to write postcards to Louisiana voters.
+Skip to main content CONTRIBUTE Lauren Jewett for Congress - Return to homepage Open main navigation menu Meet Lauren Issues District & Voting Endorsements Events Volunteer CONTRIBUTE ← All events TEAM JAMIE-POSTCARD WRITING-JEFFERSON PARISH Available times Saturday, Sep 19, 2PM - 4PM — sign up on Mobilize (opens in a new tab) Saturday, Sep 26, 2PM - 4PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 3, 2PM - 4PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 10, 2PM - 4PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 17, 2PM - 4PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 24, 2PM - 4PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 31, 2PM - 4PM — sign up on Mobilize (opens in a new tab) Where Kenner · LA About this event Join Team Jamie Davis every Saturday afternoon in Kenner to write postcards to Louisiana voters.
 A relaxed way to make a real impact — no experience needed. **What to expect** - Postcards, scripts, addresses, and pens all provided - A welcoming room and good company **What to bring** - Postage donations if you can - Somebody you know — a friend, a cousin, a roommate, or all three!
+RSVP on Mobilize (opens in a new tab) STAY IN TOUCH Email Zip JOIN US Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Lauren Jewett for Congress Meet Lauren Issues District & Voting Endorsements Events Volunteer Yard Sign Contact Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Chip In Now Every contribution makes a difference in our grassroots campaign $ 25 $ 50 $ 100 $ 250 $ 25 $ 50 $ 100 $ 250

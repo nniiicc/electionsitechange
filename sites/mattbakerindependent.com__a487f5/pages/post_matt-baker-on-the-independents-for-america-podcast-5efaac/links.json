@@ -1,18 +1,70 @@
 [
-"https://facebook.com/MattBakerVA",
-"https://instagram.com/MattBakerVA",
-"https://mattbakerindependent.com/",
-"https://mattbakerindependent.com/about",
-"https://mattbakerindependent.com/accessibilitystatement",
-"https://mattbakerindependent.com/blog",
-"https://mattbakerindependent.com/blog/categories/podcasts",
-"https://mattbakerindependent.com/blog/categories/press-releases",
-"https://mattbakerindependent.com/donate",
-"https://mattbakerindependent.com/getinvolved",
-"https://mattbakerindependent.com/media",
-"https://mattbakerindependent.com/post/matt-baker-on-the-independents-for-america-podcast",
-"https://mattbakerindependent.com/privacypolicy",
-"https://mattbakerindependent.com/termsandconditions",
-"https://mattbakerindependent.com/vision",
-"https://tiktok.com/@mattbakerva"
+{
+"text": "ABOUT",
+"href": "https://www.mattbakerindependent.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.mattbakerindependent.com/accessibilitystatement"
+},
+{
+"text": "DONATE",
+"href": "https://www.mattbakerindependent.com/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.mattbakerindependent.com/getinvolved"
+},
+{
+"text": "HOME",
+"href": "https://www.mattbakerindependent.com"
+},
+{
+"text": "MEDIA",
+"href": "https://www.mattbakerindependent.com/media"
+},
+{
+"text": "Media",
+"href": "https://www.mattbakerindependent.com/blog"
+},
+{
+"text": "Podcasts",
+"href": "https://www.mattbakerindependent.com/blog/categories/podcasts"
+},
+{
+"text": "Press Releases",
+"href": "https://www.mattbakerindependent.com/blog/categories/press-releases"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mattbakerindependent.com/privacypolicy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.mattbakerindependent.com/termsandconditions"
+},
+{
+"text": "VISION",
+"href": "https://www.mattbakerindependent.com/vision"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MattBakerVA"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/MattBakerVA"
+},
+{
+"text": "[image: Matt Baker.png]",
+"href": "https://www.mattbakerindependent.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@mattbakerva"
+},
+{
+"text": "[no text]",
+"href": "https://www.mattbakerindependent.com/post/matt-baker-on-the-independents-for-america-podcast"
+}
 ]

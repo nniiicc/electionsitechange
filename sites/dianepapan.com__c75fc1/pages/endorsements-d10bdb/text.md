@@ -1,128 +1,16 @@
-More local support than any other candidate.
-ENDORSEMENTS
-Organizations
-Statewide Elected Officials
-Eleni Kounalakis, Lieutenant Governor of California
-Malia Cohen, California Board of Equalization
-Phil Angelides, Former California State Treasurer
-US House Of Representatives
-Jackie Speier, U.S.
-Congresswomen
-Anna Eshoo, U.S.
-Congresswomen
-Mike Thompson, U.S.
-Congressman
-State Senate
-Susan Rubio, State Senator
-Jerry Hill, Former State Senator
-Josh Becker, State Senator
-State Assembly
-Cecilia Aguiar-Curry, Assemblymember
-Lisa Calderon, Assemblymember
-Ken Cooley, Assemblymember
-Jim Cooper, Assemblymember
-Rob Rivas, Assemblymember
-Blanca Rubio, Assemblymember
-Carlos Villapudua, Assemblymember
-Art Agnos, Former Assemblymember
-Jim Cunneen, Former Assemblymember
-Kevin Mullin, Assemblymember
-County Boards Of Supervisors
-Don Horsley, San Mateo County Board of Supervisors President
-Carole Groom, San Mateo County Supervisor
-Warren Slocum, San Mateo County Supervisor
-Dave Pine, San Mateo County Supervisor
-Adrienne Tissier, Former San Mateo County Supervisor
-Mayors
-Julia Mates, Belmont Mayor
-Richa Aswathi, Foster City Mayor
-Alvin Royse, Hillsborough Mayor
-Anne Oliva, Millbrae Mayor
-Ricardo Ortiz, Burlingame Mayor
-Rico Medina, San Bruno Mayor
-Coleen Mackin, Brisbane Mayor
-Deborah Ruddock, Half Moon Bay Mayor
-Mark Nagales, South San Francisco Mayor
-Marge Colapietro, Former Millbrae Mayor
-Ian Bain, Former Redwood City Mayor
-Bob Grassilli, Former San Carlos Mayor
-Claire Mack, Former San Mateo Mayor
-Joe Galligan, Former Burlingame Mayor
-Wayne Lee, Former Millbrae Mayor
-Karyl Matsumoto, Former South San Francisco Mayor
-Rich Garbarino, Former South San Francisco Mayor
-(Partial List) Titles For Identification Purposes Only
-Vice Mayors And City Councilmembers
-Eric Rodriguez, San Mateo City Councilmember
-Joe Goethals, San Mateo City Councilmember
-Tom McCune, Belmont Vice Mayor
-Warren Lieberman, Belmont City Councilmember
-Charles Stone, Belmont City Councilmember
-Adam Rak, San Carlos Vice Mayor
-Patrick Sullivan, Foster City Councilmember
-Donna Colson, Burlingame City Councilmember
-Ann O’Brien Keighran, Burlingame City Councilmember
-Christine Krolik, Hillsborough Vice Mayor
-Marie Chuang, Hillsborough City Councilmember
-Dr.
-Sophie Cole, Hillsborough City Councilmember
-Gina Papan, Millbrae Vice Mayor
-Reuben Holober, Millbrae City Councilmember
-Michael Salazar, San Bruno Vice Mayor
-Ray Buenaventura, Daly City Vice Mayor
-Michael Brownrigg, Burlingame Vice Mayor
-Buenaflor Nicolas Nicolas, South San Francisco Vice Mayor
-Mark Addiego, South San Francisco City Councilmember
-Madison Davis, Brisbane City Councilmember
-Karen Cunningham, Brisbane City Councilmember
-Juslyn Manalo, Daly City Councilmember
-Glenn Sylvester, Daly City Councilmember
-Sue Vaterlaus, Pacifica City Councilmember
-Sue Beckmeyer, Pacifica City Councilmember
-Tygarjas Bigstyck, Pacifica City Councilmember
-Elizabeth Lewis, Atherton Town Councilmember
-Janet Borgens, Former Redwood City Councilmember
-Flor Nicholas, South San Francisco Vice Mayor
-Boards, Commissions And Community Leaders
-Maeley Tom, Former CAO of the State Legislature
-Daniel Guiney, Lieutenant at San Mateo County Sheriff’s Office
-Susan Manheimer, Retired San Mateo Police Chief
-John Healy, Retired San Mateo Consolidated Fire Chief
-Lawrence W.
-Cappel, Peninsula Health Care District Board of Directors
-Helen Galligan, R.N., Peninsula Health Care District Board of Directors
-Frank Pagliaro, Peninsula Health Care District Board of Directors
-Tom Nuris, San Mateo County Community College Board Trustee
-Lisa Petrides, San Mateo County Community College Board Trustee
-John Pimentel, San Mateo Community College Board Trustee
-Dr.
-Joan Rosas, Former Superintendent of San Mateo/Foster City School District
-Linda Lees Dwyer, San Mateo Union High School Trustee Vice President
-Greg Land, San Mateo Union High School District Trustee/Clerk
-Ken Chin, San Mateo/Foster City School District Trustee
-Annie Tsai, San Mateo/Foster City School Foundation Trustee
-Florence Wong, Burlingame Elementary School District Trustee
-Denis Fama, Millbrae School Board of Trustee
-Lynne Ferrario, Millbrae School District Trustee
-Maggie Musa, Millbrae School District Trustee
-Dennis McBride, Former Redwood City School Board President
-Patricia Murray, South San Francisco Unified School District Trustee
-Marc Friedman, Former San Mateo Union High School District Trustee
-Cliff Robbins, San Mateo Sustainability & Infrastructure Commissioner
-Mike Etheridge, Former San Mateo Planning Commissioner
-Harini Krishnan, San Mateo County Arts Commissioner
-Lisa Diaz Nash, San Mateo Library Commission
-Elizabeth DeWinter, San Mateo Library Commission
-Rod Linhares, San Mateo Library Commission
-Mary Morrissey Parden, Belmont Chamber of Commerce President
-Sandra Lang, Former County Commission on Aging
-Linda Gemello, Fmr.
-Associate Justice, First District Court of Appeal, Division Five
-“As your next Assemblymember, Diane Papan will champion pre-K programs for low-income students and tuition-free community college to ensure every student who wants to attend our programs can do so. #ElectDianePapan”
-– Lisa Petrides, San Mateo County Community College Trustee
-“Join me in supporting San Mateo City Councilmember Diane Papan as your next Assemblymember.
-She’ll fight for the prosperity and well-being of all Californians.”
-– Eleni Kounalakis, Lieutenant Governor
-“As a regional leader who gets results, there is no better champion for our local communities.
-Remember to vote Diane Papan for Assembly in November.”
-– Eric Rodriguez, San Mateo City Council Member
+top of page HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items.
+DONATE More local support than any other candidate.
+ENDORSEMENTS Eleni Kounalakis Lieutenant Governor Jackie Speier Congresswoman (D-14) Anna Eshoo Congresswoman (D-18) Mike Thompson Congressman (D-5) Malia Cohen California State Board of Equalization Member Jerry Hill fmr.
+State Senator Art Agnos fmr.
+State Assemblymember Phil Angelides fmr.
+State Treasurer Don Horsley San Mateo County Board of Supervisors President Carole Groom San Mateo County Supervisor Warren Slocum San Mateo County Supervisor Susan Rubio CA State Senator Cecilia Aguiar-Curry Assemblymember Lisa Calderon Assemblymember Ken Cooley Assemblymember Jim Cooper Assemblymember Rob Rivas Assemblymember Blanca Rubio Assemblymember Carlos Villapudua Assemblymember Ricardo Ortiz Burlingame Mayor Organizations Statewide Elected Officials Eleni Kounalakis, Lieutenant Governor of California Malia Cohen, California Board of Equalization Phil Angelides, Former California State Treasurer US House Of Representatives Jackie Speier, U.S.
+Congresswomen Anna Eshoo, U.S.
+Congresswomen Mike Thompson, U.S.
+Congressman State Senate Susan Rubio, State Senator Jerry Hill, Former State Senator Josh Becker, State Senator State Assembly Cecilia Aguiar-Curry, Assemblymember Lisa Calderon, Assemblymember Ken Cooley, Assemblymember Jim Cooper, Assemblymember Rob Rivas, Assemblymember Blanca Rubio, Assemblymember Carlos Villapudua, Assemblymember Art Agnos, Former Assemblymember Jim Cunneen, Former Assemblymember Kevin Mullin, Assemblymember County Boards Of Supervisors Don Horsley, San Mateo County Board of Supervisors President Carole Groom, San Mateo County Supervisor Warren Slocum, San Mateo County Supervisor Dave Pine, San Mateo County Supervisor Adrienne Tissier, Former San Mateo County Supervisor Mayors Julia Mates, Belmont Mayor Richa Aswathi, Foster City Mayor Alvin Royse, Hillsborough Mayor Anne Oliva, Millbrae Mayor Ricardo Ortiz, Burlingame Mayor Rico Medina, San Bruno Mayor Coleen Mackin, Brisbane Mayor Deborah Ruddock, Half Moon Bay Mayor Mark Nagales, South San Francisco Mayor Marge Colapietro, Former Millbrae Mayor Ian Bain, Former Redwood City Mayor Bob Grassilli, Former San Carlos Mayor Claire Mack, Former San Mateo Mayor Joe Galligan, Former Burlingame Mayor Wayne Lee, F ormer Millbrae Mayor Karyl Matsumoto, Former South San Francisco Mayor Rich Garbarino, Former South San Francisco Mayor ​ ​ (Partial List) Titles For Identification Purposes Only Vice Mayors And City Councilmembers Eric Rodriguez, San Mateo City Councilmember Joe Goethals, San Mateo City Councilmember Tom McCune, Belmont Vice Mayor Warren Lieberman, Belmont City Councilmember Charles Stone, Belmont City Councilmember Adam Rak, San Carlos Vice Mayor Patrick Sullivan, Foster City Councilmember Donna Colson, Burlingame City Councilmember Ann O’Brien Keighran, Burlingame City Councilmember Christine Krolik, Hillsborough Vice Mayor Marie Chuang, Hillsborough City Councilmember Dr.
+Sophie Cole, Hillsborough City Councilmember Gina Papan, Millbrae Vice Mayor Reuben Holober, Millbrae City Councilmember Michael Salazar, San Bruno Vice Mayor Ray Buenaventura, Daly City Vice Mayor Michael Brownrigg, Burlingame Vice Mayor Buenaflor Nicolas Nicolas, South San Francisco Vice Mayor Mark Addiego, South San Francisco City Councilmember Madison Davis, Brisbane City Councilmember Karen Cunningham, Brisbane City Councilmember Juslyn Manalo, Daly City Councilmember Glenn Sylvester, Daly City Councilmember Sue Vaterlaus, Pacifica City Councilmember Sue Beckmeyer, Pacifica City Councilmember Tygarjas Bigstyck, Pacifica City Councilmember Elizabeth Lewis, Atherton Town Councilmember Janet Borgens, Former Redwood City Councilmember Flor Nicholas, South San Francisco Vice Mayor ​ Boards, Commissions And Community Leaders Maeley Tom, Former CAO of the State Legislature Daniel Guiney, Lieutenant at San Mateo County Sheriff’s Office Susan Manheimer, Retired San Mateo Police Chief John Healy, Retired San Mateo Consolidated Fire Chief Lawrence W.
+Cappel, Peninsula Health Care District Board of Directors Helen Galligan, R.N., Peninsula Health Care District Board of Directors Frank Pagliaro, Peninsula Health Care District Board of Directors Tom Nuris, San Mateo County Community College Board Trustee Lisa Petrides, San Mateo County Community College Board Trustee John Pimentel, San Mateo Community College Board Trustee Dr.
+Joan Rosas, Former Superintendent of San Mateo/Foster City School District Linda Lees Dwyer, San Mateo Union High School Trustee Vice President Greg Land, San Mateo Union High School District Trustee/Clerk Ken Chin, San Mateo/Foster City School District Trustee Annie Tsai, San Mateo/Foster City School Foundation Trustee Florence Wong, Burlingame Elementary School District Trustee Denis Fama, Millbrae School Board of Trustee Lynne Ferrario, Millbrae School District Trustee Maggie Musa, Millbrae School District Trustee Dennis McBride, Former Redwood City School Board President Patricia Murray, South San Francisco Unified School District Trustee Marc Friedman, Former San Mateo Union High School District Trustee Cliff Robbins, San Mateo Sustainability & Infrastructure Commissioner Mike Etheridge, Former San Mateo Planning Commissioner Harini Krishnan, San Mateo County Arts Commissioner Lisa Diaz Nash, San Mateo Library Commission Elizabeth DeWinter, San Mateo Library Commission Rod Linhares, San Mateo Library Commission Mary Morrissey Parden, Belmont Chamber of Commerce President Sandra Lang, Former County Commission on Aging Linda Gemello, Fmr.
+Associate Justice, First District Court of Appeal, Division Five ​ ​ “As your next Assemblymember, Diane Papan will champion pre-K programs for low-income students and tuition-free community college to ensure every student who wants to attend our programs can do so.
+#ElectDianePapan” – Lisa Petrides, San Mateo County Community College Trustee “Join me in supporting San Mateo City Councilmember Diane Papan as your next Assemblymember.
+She’ll fight for the prosperity and well-being of all Californians.” – Eleni Kounalakis, Lieutenant Governor “As a regional leader who gets results, there is no better champion for our local communities.
+Remember to vote Diane Papan for Assembly in November.” – Eric Rodriguez, San Mateo City Council Member HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items. © PAPAN FOR ASSEMBLY # 5445 Madison Ave Sacramento CA 95841 | FPPC ID 1477408 Join Team Papan bottom of page

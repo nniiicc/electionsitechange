@@ -1,9 +1,12 @@
 {
  "description": "The application window for 2026-27 scholarships is now open. To apply, please review the initial instructions and cover letter below for application instructions and completely fill out the...",
  "final_url": "https://www.ericebersole.org/scholarships.html",
- "paid_for_by": null,
+ "fingerprint": "61214395ece31e831fdaff6b1cc3ad31a10b5908",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Scholarships - Eric Ebersole",
  "years_mentioned": [
+  "1991",
   "2026",
   "2027"
  ]

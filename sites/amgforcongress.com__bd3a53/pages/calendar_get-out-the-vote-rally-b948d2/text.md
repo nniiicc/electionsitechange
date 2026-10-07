@@ -1,10 +1,3 @@
-Back to All Events
-NOTE: This event starts at 5:30PM Central/6:30PM Eastern.
-Learn More: https://www.facebook.com/JeffersonDEC
-Previous
-Previous
-October 11
-40th Pastor Anniversary Service
-Next
-Next
-October 14
+0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Back to All Events Get Out The Vote Rally Monday, October 12, 2026 6:30 PM 8:30 PM Monticello Opera House 185 West Washington Street Monticello, Florida, 32344 United States (map) Google Calendar ICS NOTE: This event starts at 5:30PM Central/6:30PM Eastern.
+Learn More: https://www.facebook.com/JeffersonDEC Previous Previous October 11 40th Pastor Anniversary Service Next Next October 14 Florida A&M University Voter Fair TO SEND A CHECK: P.O.
+Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

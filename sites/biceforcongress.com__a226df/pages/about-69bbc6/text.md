@@ -1,6 +1,4 @@
-STEPHANIE
-BICE
-Stephanie Bice is serving her third term as the United States Representative of Oklahoma’s Fifth Congressional District, where she’s built a reputation as a strong conservative force, a rising star in the House, and a tireless advocate for her home state.
+About Issues More Endorsements Yard Sign Sign-Ups Internships About Issues More Endorsements Yard Sign Sign-Ups Internships Volunteer Donate STEPHANIE BICE Stephanie Bice is serving her third term as the United States Representative of Oklahoma’s Fifth Congressional District, where she’s built a reputation as a strong conservative force, a rising star in the House, and a tireless advocate for her home state.
 A fourth-generation Oklahoman and a graduate of Oklahoma State University, Stephanie brings both private-sector experience and legislative know-how to the table, delivering real results over partisan soundbites.
 Since being elected to Congress, Stephanie has fought to rein in government spending, bring transparency to Washington, and protect the values that matter most to her constituents back home.
 She’s been a champion for expanding paid family leave, strengthening resources for our nation’s veterans, and improving the quality of life for Oklahomans.
@@ -30,3 +28,4 @@ In addition, she ran her own marketing company, and later helped lead a boutique
 Because of that experience, Stephanie understands what it is like to sign the front and the back of a paycheck and is keenly aware of the challenges small business owners face as they strive to grow their companies.
 Stephanie and her husband Geoffrey have two daughters and are members of St.
 Eugene Catholic Church.
+Paid and authorized by Bice For Congress

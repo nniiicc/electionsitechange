@@ -1,10 +1,50 @@
 [
-"https://facebook.com/hillarycasselforfloridahouse",
-"https://hillaryforflorida.com/",
-"https://hillaryforflorida.com/contact",
-"https://hillaryforflorida.com/privacy-policy",
-"https://instagram.com/rephillarycassel",
-"https://secure.anedot.com/hillary-cassel-campaign/donate",
-"https://x.com/RepCassel",
-"https://x.com/repcassel"
+{
+"text": "About",
+"href": "https://hillaryforflorida.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://hillaryforflorida.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://hillaryforflorida.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/hillary-cassel-campaign/donate"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/hillarycasselforfloridahouse/"
+},
+{
+"text": "HELP RE-ELECT REPRESENTATIVE HILLARY CASSEL >",
+"href": "https://secure.anedot.com/hillary-cassel-campaign/donate"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rephillarycassel"
+},
+{
+"text": "Privacy Policy",
+"href": "https://hillaryforflorida.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://hillaryforflorida.com/#volunteer"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/RepCassel"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/repcassel"
+},
+{
+"text": "[image]",
+"href": "https://hillaryforflorida.com"
+}
 ]

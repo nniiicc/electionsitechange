@@ -1,3 +1,6 @@
+Skip navigation menu About Issues Endorsements Knock doors with us!
+Contact Donate About Tessa Lynn Hodge About Issues Endorsements Knock doors with us!
+Contact Donate About Tessa Lynn Hodge Tessa's Story Lifelong commitment to our community.
 The High Desert and District 23 are my home.
 I’ve lived here my entire life, and I’m passionate about helping our community thrive.
 I am Tessa Lynn Hodge, and I’m running for Congress to represent California’s 23rd Congressional District in the 2026 election.
@@ -18,3 +21,4 @@ I’m running to be a voice for my community, to ensure that every person, regar
 This campaign is about more than just replacing one politician with another.
 It’s about building a future where every voice in our community matters, and every person has the chance to succeed.
 Together, we can create a community that works for all of us.
+Contact us: info@tessaforca.com Powered by RUN! website builder Paid for by Tessa Lynn Hodge for Congress You need to enable JavaScript to run this app.

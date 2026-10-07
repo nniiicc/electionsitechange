@@ -1,11 +1,54 @@
 [
-"http://squarespace.com/",
-"https://facebook.com/JaniceRichforHD55",
-"https://janicerichforcolorado.com/",
-"https://janicerichforcolorado.com/about",
-"https://janicerichforcolorado.com/contact",
-"https://janicerichforcolorado.com/donate-index-impact",
-"https://janicerichforcolorado.com/get-involved",
-"https://janicerichforcolorado.com/our-programs",
-"https://janicerichforcolorado.com/search"
+{
+"text": "About",
+"href": "https://www.janicerichforcolorado.com/about"
+},
+{
+"text": "Community",
+"href": "https://www.janicerichforcolorado.com/our-programs"
+},
+{
+"text": "Contact",
+"href": "https://www.janicerichforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.janicerichforcolorado.com/donate-index-impact"
+},
+{
+"text": "Get Involved",
+"href": "https://www.janicerichforcolorado.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.janicerichforcolorado.com/"
+},
+{
+"text": "Janice Rich for Colorado",
+"href": "https://www.janicerichforcolorado.com/"
+},
+{
+"text": "Learn More",
+"href": "https://www.janicerichforcolorado.com/about"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.janicerichforcolorado.com/get-involved"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JaniceRichforHD55"
+},
+{
+"text": "[no text]",
+"href": "https://www.janicerichforcolorado.com/search"
+},
+{
+"text": "[no text]",
+"href": "mailto:Janice@JaniceRichforColorado.com"
+}
 ]

@@ -1,6 +1,4 @@
-10/14 – Fireside Chat with Lily – Dartmouth Rockefeller Center – Hanover
-October 14 @ 5:30 pm - 6:30 pm
-Wednesday, 10/14, 5:30 PM – 6:30 PM
-Rockefeller Center for Public Policy, Dartmouth College, Hanover, NH
-A moderated fireside chat hosted by Dartmouth’s Rockefeller Center for Public Policy: a conversation with a Dartmouth faculty member about Lily’s background and policy priorities, followed by audience Q&A.
+Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate « All Events 10/14 – Fireside Chat with Lily – Dartmouth Rockefeller Center – Hanover October 14 @ 5:30 pm - 6:30 pm « 10/13 – ASK ME ANYTHING Town Hall – Concord TEAM LILY – Nashua Republican City Committee Meeting » Wednesday, 10/14, 5:30 PM – 6:30 PM Rockefeller Center for Public Policy, Dartmouth College, Hanover, NH A moderated fireside chat hosted by Dartmouth’s Rockefeller Center for Public Policy: a conversation with a Dartmouth faculty member about Lily’s background and policy priorities, followed by audience Q&A.
 Livestream planned on Dartmouth’s YouTube channel.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 14 Time: 5:30 pm - 6:30 pm Event Category: Events « 10/13 – ASK ME ANYTHING Town Hall – Concord TEAM LILY – Nashua Republican City Committee Meeting » © # Lily4Congress Committee.
+Paid for by Lily4Congress Committee. | Privacy Policy

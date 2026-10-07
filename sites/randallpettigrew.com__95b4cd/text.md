@@ -1,6 +1,7 @@
-CONTACT ME Tel: 505-379-6607 | Email: rpettigrew@randallpettigrew.com
-MEET RANDY
-Mr.
+top of page ​ CONTACT ME Tel: 505-379-6607 | Email: rpettigrew@randallpettigrew.com ​ HOME MEET RANDY MISSION ENDORSEMENTS RANDY'S ROUNDUP CONTACT 2025 BILLS More Use tab to navigate through the menu items.
+I pledge allegiance to the flag of the United States of America.
+And to the Republic for which it stands, one nation, under God, with liberty and justice for all.
+Donate Now Meet Randy Pettigrew MEET RANDY Mr.
 Randall T.
 Pettigrew, PE is the Senior Vice-President and Principal Construction Services Engineer for Pettigrew & Associates.
 Randy has 35 years of engineering experience with the last 20 serving as a corporate executive for multi-billion-dollar international firms and multi-million-dollar corporations.
@@ -22,20 +23,16 @@ During Randy's tenure, he has proudly fought for veterans' rights, the rights of
 He has been married to Shannon Pettigrew for 29 years.
 Shannon is a small business owner with a focus on Life and Health Coach for Women.
 They have 3 children – Brittany, a realtor in Texas; Raine, a Special Education Teacher in Las Cruces Public Schools; and Alie, a book trader in Albuquerque.
-RANDY'S MISSION
-Randy's mission is to continue to fight for New Mexicans by protecting their rights and the industries that put food on their tables.
-Some of his priorities:
-- Government taking away people’s rights.
+Endorsements RANDY'S MISSION RANDY'S MISSION Randy's mission is to continue to fight for New Mexicans by protecting their rights and the industries that put food on their tables.
+Some of his priorities: ​ ​ Government taking away people’s rights.
 As an example, Senate Bill 5, otherwise known as the Red Flag Law.
-This law clearly violates the right to due process, to confront our accuser, and unreasonable search and seizure of property.
-- Over the last two years, the left side of the aisle has attacked the lives of unborn babies, senior citizens, and Traditional NM industries such as farming, ranching, oil and gas, cattle growers, and dairies.
-We need to encourage traditional NM values in our government and stop empowering special interest groups.
-- During the last two legislative cycles, the left has spent money the state does not have.
+This law clearly violates the right to due process, to confront our accuser, and unreasonable search and seizure of property. ​ Over the last two years, the left side of the aisle has attacked the lives of unborn babies, senior citizens, and Traditional NM industries such as farming, ranching, oil and gas, cattle growers, and dairies.
+We need to encourage traditional NM values in our government and stop empowering special interest groups. ​ During the last two legislative cycles, the left has spent money the state does not have.
 Against advice from the oil and gas sector, budgets have been based on inflated oil prices and spending on recurring line items along with it.
 The state is currently spending in excess of $125M a month over its revenue.
 It is time for sensible state economics.
-CONTACT
-Tel: 505-379-6607 | Email: rpettigrew@randallpettigrew.com
-To get in touch with Randy, you can contact the phone number and email listed above.
-You can also fill out the form below.
-If you wish to join Randy's email newsletter, click the button above, "Subscribe to Randy's Emails." If you fill out the form below to get in touch with Randy, your email may be added to our mailing list.
+FACEBOOK FEED RANDY'S ROUNDUP March 3rd, 2025 # min read March 2nd, 2025 # min read February 28th, 2025 # min read February 27th, 2025 # min read February 26th, 2025 # min read February 25th, 2025 # min read 1 2 3 4 5 Subscribe to Randy's Emails Never miss an update or newsletter!
+CONTACT ​Tel: 505-379-6607 | Email: rpettigrew@randallpettigrew.com ​ To get in touch with Randy, you can contact the phone number and email listed above.
+You can also fill out the form below. ​ If you wish to join Randy's email newsletter, click the button above, "Subscribe to Randy's Emails." If you fill out the form below to get in touch with Randy, your email may be added to our mailing list.
+Get In Touch With Randy First name Last name Email Phone Address Write a message Submit Thanks for submitting!
+HOME MEET RANDY MISSION ENDORSEMENTS RANDY'S ROUNDUP CONTACT 2025 BILLS More Use tab to navigate through the menu items. ​Tel: 505-379-6607 | Email: rpettigrew@randallpettigrew.com ​ SUBSCRIBE © # | Designed by Gonzales Media Paid for by Committee to Elect Randall Pettigrew bottom of page

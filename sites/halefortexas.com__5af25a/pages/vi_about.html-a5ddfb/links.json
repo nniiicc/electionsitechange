@@ -1,17 +1,98 @@
 [
-"https://halefortexas.com/about.html",
-"https://halefortexas.com/es/about.html",
-"https://halefortexas.com/vi/44.html",
-"https://halefortexas.com/vi/about.html",
-"https://halefortexas.com/vi/endorsements.html",
-"https://halefortexas.com/vi/index.html",
-"https://halefortexas.com/vi/merchandise.html",
-"https://halefortexas.com/vi/privacy.html",
-"https://halefortexas.com/vi/social.html",
-"https://halefortexas.com/vi/volunteer.html",
-"https://halefortexas.com/zh/about.html",
-"https://instagram.com/HaleForTexas",
-"https://linkedin.com/in/alexanderbhale",
-"https://secure.winred.com/alexander-hale-for-congress/donate",
-"https://x.com/HaleForTexas"
+{
+"text": "44",
+"href": "https://www.halefortexas.com/vi/44.html"
+},
+{
+"text": "Biển Hiệu Sân",
+"href": "https://www.halefortexas.com/vi/volunteer.html"
+},
+{
+"text": "Chính Sách Bảo Mật",
+"href": "https://www.halefortexas.com/vi/privacy.html"
+},
+{
+"text": "Cửa Hàng",
+"href": "https://www.halefortexas.com/vi/merchandise.html"
+},
+{
+"text": "EN",
+"href": "https://www.halefortexas.com/about.html"
+},
+{
+"text": "ES",
+"href": "https://www.halefortexas.com/es/about.html"
+},
+{
+"text": "HALE CHO TEXAS",
+"href": "https://www.halefortexas.com/vi/index.html"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/alexanderbhale/"
+},
+{
+"text": "Mạng Xã Hội",
+"href": "https://www.halefortexas.com/vi/social.html"
+},
+{
+"text": "Quyên Góp",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate"
+},
+{
+"text": "Quyên Góp",
+"href": "https://www.halefortexas.com/vi/index.html#donate"
+},
+{
+"text": "Sự Ủng Hộ",
+"href": "https://www.halefortexas.com/vi/endorsements.html"
+},
+{
+"text": "Tham Gia Đội Ngũ",
+"href": "https://www.halefortexas.com/vi/volunteer.html"
+},
+{
+"text": "Tin Tức",
+"href": "https://www.halefortexas.com/vi/index.html#news"
+},
+{
+"text": "Tình Nguyện",
+"href": "https://www.halefortexas.com/vi/volunteer.html"
+},
+{
+"text": "Tổ Chức Sự Kiện",
+"href": "https://www.halefortexas.com/vi/volunteer.html"
+},
+{
+"text": "VI",
+"href": "https://www.halefortexas.com/vi/about.html"
+},
+{
+"text": "Về Alexander",
+"href": "https://www.halefortexas.com/vi/about.html"
+},
+{
+"text": "ig",
+"href": "https://instagram.com/HaleForTexas"
+},
+{
+"text": "info@halefortexas.com",
+"href": "mailto:info@halefortexas.com"
+},
+{
+"text": "Ưu Tiên",
+"href": "https://www.halefortexas.com/vi/index.html#issues"
+},
+{
+"text": "Ủng Hộ Chiến Dịch",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate"
+},
+{
+"text": "中文",
+"href": "https://www.halefortexas.com/zh/about.html"
+},
+{
+"text": "𝕏",
+"href": "https://x.com/HaleForTexas"
+}
 ]

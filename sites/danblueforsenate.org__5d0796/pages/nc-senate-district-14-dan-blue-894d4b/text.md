@@ -1,0 +1,2 @@
+Home Meet Dan Blue Issues News and Events Volunteer Donate Select Page NC Senate District 14: Dan Blue Feb 26, 2024 | Elections , Sourced Source: IndyWeek.com As the primary election season ramps up, Senator Dan Blue answers INDY’s 2024 Primary Election Wake County Candidate questionnaire and shares how his background allows him to represent the people of your North Carolina district effectively.
+Read Article Paid for by Citizens for Dan Blue Post Office Box 287, Raleigh NC 27602 Follow Follow Follow

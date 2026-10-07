@@ -1,2 +1,3 @@
-It’s time our national politics got back to solving local problems.
+Skip navigation menu Meet Rachel Priorities Get Involved Endorsements Media Store Donate Meet Rachel Priorities Get Involved Endorsements Media Store Donate Priorities It’s time our national politics got back to solving local problems.
 Here are some of the issues Rachel will make a priority in Congress.
+Lower Costs, Raise Wages Root Out Government Corruption and Fraud Bring People Together to Solve Local Problems Lower Costs, Raise Wages View more Root Out Government Corruption and Fraud View more Bring People Together to Solve Local Problems View more Privacy Policy For general inquiries, contact info@wallaceforcongress.com For press inquiries, contact press@wallaceforcongress.com PO Box 15, New Ringgold PA, 17960 Powered by RUN! website builder PAID FOR BY WALLACE FOR CONGRESS You need to enable JavaScript to run this app.

@@ -1,4 +1,4 @@
-- Join Nancy at West Lampeter Town Hall Thu 10/8/20267-8:30pmWest Lampeter Township852 Village Rd, Lampeter, PA, 17537
-- Lancaster Town Hall and Happy Hour Tue 10/13/20264:30-6:30pmZoetropolis Cinema Stillhouse112 N Water St, Lancaster, PA, 17603
-- Join nancy at New Freedom Town Hall Thu 10/15/20267-8:30pmNew Freedom Community Center150 E Main St, New Freedom, PA, 17349
-Click an event to view full details.
+Donate Home Meet Nancy Priorities Endorsements Events News ▾ News & Press Newsletters Volunteer Contact Us Donate UPCOMING EVENTS Join Nancy at town halls, petition events, and community meetings across PA-11. ★ Join Nancy at West Lampeter Town Hall Thu 10/8/2026 7-8:30pm West Lampeter Township 852 Village Rd, Lampeter, PA, 17537 Share ★ Lancaster Town Hall and Happy Hour Tue 10/13/2026 4:30-6:30pm Zoetropolis Cinema Stillhouse 112 N Water St, Lancaster, PA, 17603 Share ★ Join nancy at New Freedom Town Hall Thu 10/15/2026 7-8:30pm New Freedom Community Center 150 E Main St, New Freedom, PA, 17349 Share Click an event to view full details.
+NANCY MANNION FOR CONGRESS Citizens for Nancy Mannion PO Box 4217 Lancaster PA 17604 info@nancymannion.com Home Meet Nancy Events Donate Facebook Instagram Contact Us Sitemap Stay in the loop Get campaign updates, event invitations, and important election news.
+Sign Up → Paid for by Citizens for Nancy Mannion. © # Nancy Mannion for Congress.
+All Rights Reserved.

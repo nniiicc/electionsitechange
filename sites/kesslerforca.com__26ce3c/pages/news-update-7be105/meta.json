@@ -1,7 +1,11 @@
 {
  "description": "Stay informed with the latest assembly candidate campaign updates from Shannon Kessler. Your source for key endorsements and news.",
  "final_url": "https://www.kesslerforca.com/news-update",
+ "fingerprint": "929d5c7daa3f61192cbe966da7f3f60cbfac623e",
+ "format": 3,
  "paid_for_by": "Paid for by Shannon Kessler for Assembly 2026, FPPC ID #1483111",
  "title": "Shannon Kessler Assembly Candidate Updates | Latest Campaign News",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

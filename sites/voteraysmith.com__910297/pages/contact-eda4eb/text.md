@@ -1,4 +1,1 @@
-@VoteRaySmith
-ray@voteraysmith.com
-(706) 431-7933
-Committee to Elect Ray Smith PO Box 595 Watkinsville, Ga 30677
+Skip to content Home Why I’m Running Policy Endorsements Contact Contact Social Media @VoteRaySmith Bluesky Instagram Facebook Email ray@voteraysmith.com Phone (706) 431-7933 Mailing Address Committee to Elect Ray Smith PO Box 595 Watkinsville, Ga 30677 We're Done Paying for Their Mistakes Social Media Bluesky Instagram Facebook Home Why I’m Running Policy Contact © Committee to Elect Ray Smith # Designed with WordPress

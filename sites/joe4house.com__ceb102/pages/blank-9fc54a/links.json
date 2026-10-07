@@ -1,7 +1,38 @@
 [
-"https://facebook.com/JoeBustosforSCStatehouse",
-"https://joe4house.com/",
-"https://joe4house.com/blank",
-"https://joe4house.com/blank-1",
-"https://politics.raisethemoney.com/en/jbustos"
+{
+"text": "About Joe",
+"href": "https://www.joe4house.com#about"
+},
+{
+"text": "Click here to support Joe!",
+"href": "https://politics.raisethemoney.com/en/jbustos"
+},
+{
+"text": "Contribute",
+"href": "https://politics.raisethemoney.com/en/jbustos"
+},
+{
+"text": "Donate",
+"href": "https://politics.raisethemoney.com/en/jbustos"
+},
+{
+"text": "Issues",
+"href": "https://www.joe4house.com#issues-%26-vision"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.joe4house.com/blank-1"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.joe4house.com/blank"
+},
+{
+"text": "[image: Homepage]",
+"href": "https://www.joe4house.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoeBustosforSCStatehouse"
+}
 ]

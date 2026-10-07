@@ -1,14 +1,5 @@
-Why donate?
-- ✽ Build Through Community Involvement
-Support a campaign focused on keeping communities connected, engaged, and involved long-term.
-- ✽ Community Outreach
-Help Ron continue meeting with communities across the 7th District through local outreach, events, and conversations.
-- ✽ Support a Campaign Built Around People
-This campaign is focused on local communities, grounded leadership, and everyday people across the 7th District.
-- ✽ Stay Involved in the 7th District
-Join Ron in bringing communities together around grounded solutions and stronger local connections.
-FAQ
-*******
-FAQ *******
-- Donations help support local outreach, events, campaign materials, and the community involvement needed to keep the campaign connected across the 7th District.
-- Contributions are not tax deductible for federal income tax purposes.
+0 Skip to Content Ron McCoy | Independent for the 7th District Home About My Plan Contact Us Donation Page Book now Open Menu Close Menu Ron McCoy | Independent for the 7th District Home About My Plan Contact Us Donation Page Book now Open Menu Close Menu Home About My Plan Contact Us Donation Page Book now Why donate? ✽ Build Through Community Involvement Support a campaign focused on keeping communities connected, engaged, and involved long-term. ✽ Community Outreach Help Ron continue meeting with communities across the 7th District through local outreach, events, and conversations. ✽ Support a Campaign Built Around People This campaign is focused on local communities, grounded leadership, and everyday people across the 7th District. ✽ Stay Involved in the 7th District Join Ron in bringing communities together around grounded solutions and stronger local connections. $#.# $#.# $#.# $#.# Custom Amount Please enter an amount $ One-Time Donation Weekly Donation Monthly Donation Quarterly Donation Annual Donation Support us by covering the fees we have to pay #% Cover the Fee Donate Donate FAQ ******* FAQ ******* FAQ ******* Where does my donation go?
+Donations help support local outreach, events, campaign materials, and the community involvement needed to keep the campaign connected across the 7th District.
+Is my donation tax-deductible?
+Contributions are not tax deductible for federal income tax purposes.
+McCoyForWA.com Paid for by the Committee to Elect Ron McCoy RonMcCoy7thDistrict@gmail.com

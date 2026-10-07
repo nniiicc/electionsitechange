@@ -1,43 +1,12 @@
-NewDems endorse Suhas Subramanyam for Congress
-NewDems endorse Suhas Subramanyam for Congress.
-Senator Suhas Subramanyam supports strong border security
-State Senator Suhas Subramanyam expresses condolences to the family of Melody Waldecker, supports strong border security.
-Suhas Subramanyam condemns hateful and antisemitic acts
-Suhas Subramanyam condemns the hateful and antisemitic acts that occurred at Union Station in Washington, D.C. yesterday evening.
-Suhas for Virginia Campaign Manager announcement.
+0 Skip to Content Home Priorities Press and Media Volunteer Contribute Open Menu Close Menu Contribute Home Priorities Press and Media Volunteer Open Menu Close Menu Home Priorities Press and Media Volunteer Contribute News Press Contact: Hailey Brown press@suhasforvirginia.com Media Center Suhas for Virginia 7/31/24 Suhas for Virginia 7/31/24 NewDems endorse Suhas Subramanyam for Congress NewDems endorse Suhas Subramanyam for Congress.
+Read More Suhas for Virginia 7/31/24 Suhas for Virginia 7/31/24 Senator Suhas Subramanyam supports strong border security State Senator Suhas Subramanyam expresses condolences to the family of Melody Waldecker, supports strong border security.
+Read More Suhas for Virginia 7/25/24 Suhas for Virginia 7/25/24 Suhas Subramanyam condemns hateful and antisemitic acts Suhas Subramanyam condemns the hateful and antisemitic acts that occurred at Union Station in Washington, D.C. yesterday evening.
+Read More Suhas for Virginia 7/16/24 Suhas for Virginia 7/16/24 Suhas for Virginia Campaign Manager announcement.
 The Suhas for Virginia congressional campaign welcomes Jimmy Rogers as our Campaign Manager for the General Election.
-Statement on assassination attempt of former President Trump.
+Read More Suhas for Virginia 7/16/24 Suhas for Virginia 7/16/24 Statement on assassination attempt of former President Trump.
 Subramanyam condemns Political Violence, joins in praying for the victims of the assassination attempt on former President Trump.
-League of Conservation Voters Action Fund Endorses Senator Suhas Subramanyam for Congress
-Subramanyam’s 100% Voting Record Lands Endorsement of Influential Environmental Group
-Loudoun Career Fire Fighters Endorse Senator Suhas Subramanyam for Congress
-Fire Fighters Unite Behind Sen.
-Subramanyam, Citing His “Impeccable Voting Record”
-Senator Subramanyam Decries Supreme Court Decision to Overturn Bump Stock Ban
-Subramanyam: “Today’s Hyper-Partisan Supreme Court Decision…Undermines Our Safety”
-ASPIRE PAC Endorses Suhas Subramanyam for Congress
-Subramanyam Carries ONLY Congressional Caucus Endorsement in VA-10 Race
-VIDEO: Senator Suhas Subramanyam Releases Television Ad “Leader” Featuring Incumbent Congresswoman Wexton
-Commercial Showcases Rep.
-Wexton’s Endorsement and Subramanyam’s Life in Service Fighting for Key Democratic Issues
-AAPI Victory Fund Endorses Suhas Subramanyam for Congress
-Major AAPI Organization Solidifies AAPI Support for Subramanyam in VA-10
-Incumbent Congresswoman Jennifer Wexton Endorses Senator Suhas Subramanyam for Congress
-Wexton Calls Subramanyam “Hardworking, Principled, and Effective”
-Endorsement Catapults Subramanyam as Frontrunner in June 18 Democratic Primary
-Virginia’s Rep.
-Wexton endorses Subramanyam to succeed her in Congress
-“Suhas is a principled, effective leader who has a long commitment to service, and he is rooted right here in our community,” she said in an emailed statement to The Washington Post.
-He “will continue my legacy of getting things done for Northern Virginians.”
-Virginia Senate Majority Leader Scott Surovell Endorses Suhas Subramanyam for Congress
-Surovell Praises Subramanyam's Work to End Gun Violence and Protect Democracy
-VIDEO: Senator Suhas Subramanyam Releases Television Ad “For You”
-Commercial Showcases Why Senator Subramanyam Fights to Stop Gun Violence and Defend Abortion Rights
-Virginia Senator Russet Perry Endorses Suhas Subramanyam for Congress
-Serving Loudoun County Residents Alongside Subramanyam, Perry Stresses His Effective Leadership and Community Ties
-Loudoun County Supervisor Laura Tekrony Endorses Senator Suhas Subramanyam for Congress
-Subramanyam’s Momentum Continues with More Local Support
-Loudoun County School Board Chair Melinda Mansfield Endorses Senator Suhas Subramanyam for Congress
-Chair of Largest School District Within VA-10 Backs Senator Subramanyam
-Senator Suhas Subramanyam Raises Over $407K in Q1 2024
-Subramanyam outraised 11 other candidates, entering April with strong momentum
+Read More Suhas for Virginia 7/3/24 Suhas for Virginia 7/3/24 League of Conservation Voters Action Fund Endorses Senator Suhas Subramanyam for Congress Subramanyam’s 100% Voting Record Lands Endorsement of Influential Environmental Group Read More Suhas for Virginia 7/1/24 Suhas for Virginia 7/1/24 Loudoun Career Fire Fighters Endorse Senator Suhas Subramanyam for Congress Fire Fighters Unite Behind Sen.
+Subramanyam, Citing His “Impeccable Voting Record” Read More Suhas for Virginia 6/18/24 Suhas for Virginia 6/18/24 Senator Suhas Subramanyam Wins VA-10 Democratic Primary Read More Suhas for Virginia 6/14/24 Suhas for Virginia 6/14/24 Senator Subramanyam Decries Supreme Court Decision to Overturn Bump Stock Ban Subramanyam: “Today’s Hyper-Partisan Supreme Court Decision…Undermines Our Safety” Read More Suhas for Virginia 5/24/24 Suhas for Virginia 5/24/24 ASPIRE PAC Endorses Suhas Subramanyam for Congress Subramanyam Carries ONLY Congressional Caucus Endorsement in VA-10 Race Read More Suhas for Virginia 5/22/24 Suhas for Virginia 5/22/24 VIDEO: Senator Suhas Subramanyam Releases Television Ad “Leader” Featuring Incumbent Congresswoman Wexton Commercial Showcases Rep.
+Wexton’s Endorsement and Subramanyam’s Life in Service Fighting for Key Democratic Issues Read More Suhas for Virginia 5/15/24 Suhas for Virginia 5/15/24 AAPI Victory Fund Endorses Suhas Subramanyam for Congress Major AAPI Organization Solidifies AAPI Support for Subramanyam in VA-10 Read More Suhas for Virginia 5/13/24 Suhas for Virginia 5/13/24 Incumbent Congresswoman Jennifer Wexton Endorses Senator Suhas Subramanyam for Congress Wexton Calls Subramanyam “Hardworking, Principled, and Effective” Endorsement Catapults Subramanyam as Frontrunner in June 18 Democratic Primary Read More Suhas for Virginia 5/13/24 Suhas for Virginia 5/13/24 Virginia’s Rep.
+Wexton endorses Subramanyam to succeed her in Congress “Suhas is a principled, effective leader who has a long commitment to service, and he is rooted right here in our community,” she said in an emailed statement to The Washington Post.
+He “will continue my legacy of getting things done for Northern Virginians.” Read More Suhas for Virginia 5/2/24 Suhas for Virginia 5/2/24 Virginia Senate Majority Leader Scott Surovell Endorses Suhas Subramanyam for Congress Surovell Praises Subramanyam's Work to End Gun Violence and Protect Democracy Read More Suhas for Virginia 4/30/24 Suhas for Virginia 4/30/24 VIDEO: Senator Suhas Subramanyam Releases Television Ad “For You” Commercial Showcases Why Senator Subramanyam Fights to Stop Gun Violence and Defend Abortion Rights Read More Suhas for Virginia 4/29/24 Suhas for Virginia 4/29/24 Virginia Senator Russet Perry Endorses Suhas Subramanyam for Congress Serving Loudoun County Residents Alongside Subramanyam, Perry Stresses His Effective Leadership and Community Ties Read More FOGLAMP Creative Team 4/23/24 FOGLAMP Creative Team 4/23/24 Loudoun County Supervisor Laura Tekrony Endorses Senator Suhas Subramanyam for Congress Subramanyam’s Momentum Continues with More Local Support Read More FOGLAMP Creative Team 4/19/24 FOGLAMP Creative Team 4/19/24 Loudoun County School Board Chair Melinda Mansfield Endorses Senator Suhas Subramanyam for Congress Chair of Largest School District Within VA-10 Backs Senator Subramanyam Read More FOGLAMP Creative Team 4/16/24 FOGLAMP Creative Team 4/16/24 Senator Suhas Subramanyam Raises Over $407K in Q1 2024 Subramanyam outraised 11 other candidates, entering April with strong momentum Read More Newer Posts Older Posts DONATE Paid for by Suhas for Virginia Suhas for Virginia PO Box 302 Ashburn, VA 20146 Privacy Policy Message for VA10 Voters

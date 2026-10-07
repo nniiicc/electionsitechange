@@ -1,18 +1,74 @@
 [
-"http://appnexus.com/platform-policy",
-"http://google.com/settings/ads",
-"https://facebook.com/help/164968693837950",
-"https://facebook.com/help/568137493302217",
-"https://facebook.com/privacy/explanation",
-"https://facebook.com/profile.php?id=61553800571047",
-"https://instagram.com/Lopez4NC",
-"https://lopez4nc.com/es",
-"https://lopez4nc.com/es/about-jordan-lopez",
-"https://lopez4nc.com/es/platform",
-"https://lopez4nc.com/es/privacy-page",
-"https://lopez4nc.com/privacy-page",
-"https://policies.google.com/privacy?hl=en",
-"https://secure.actblue.com/donate/jordanlopez",
-"https://twitter.com/JordanALopez_",
-"https://xpslane.com/"
+{
+"text": "Conoce",
+"href": "https://lopez4nc.com/es/about-jordan-lopez"
+},
+{
+"text": "Donar",
+"href": "https://secure.actblue.com/donate/jordanlopez"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Inicial",
+"href": "https://lopez4nc.com/es/"
+},
+{
+"text": "Plataforma",
+"href": "https://lopez4nc.com/es/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://lopez4nc.com/es/privacy-page/"
+},
+{
+"text": "[image: Jordan Lopez for NC House District 112]",
+"href": "https://lopez4nc.com/es/"
+},
+{
+"text": "[image: Jordan Lopez for NC House District 112][image: Jordan Lopez for NC House District 112]",
+"href": "https://lopez4nc.com/es/"
+},
+{
+"text": "[image: en_US]EN",
+"href": "https://lopez4nc.com/privacy-page/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JordanALopez_"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61553800571047"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Lopez4NC/"
+},
+{
+"text": "http://www.appnexus.com/platform-policy#choices",
+"href": "http://www.appnexus.com/platform-policy#choices"
+},
+{
+"text": "http://www.google.com/settings/ads",
+"href": "http://www.google.com/settings/ads"
+},
+{
+"text": "https://policies.google.com/privacy?hl=en",
+"href": "https://policies.google.com/privacy?hl=en"
+},
+{
+"text": "https://www.facebook.com/help/164968693837950",
+"href": "https://www.facebook.com/help/164968693837950"
+},
+{
+"text": "https://www.facebook.com/help/568137493302217",
+"href": "https://www.facebook.com/help/568137493302217"
+},
+{
+"text": "https://www.facebook.com/privacy/explanation",
+"href": "https://www.facebook.com/privacy/explanation"
+}
 ]

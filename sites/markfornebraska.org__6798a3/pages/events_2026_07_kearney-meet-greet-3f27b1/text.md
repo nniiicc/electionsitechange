@@ -1,9 +1,2 @@
-Back to All Events
-Stop on by Thunderhead Brewing in Kearney to meet Mark Cohen, Independent Candidate for Nebraska CD3, and to sign the petition to help get him on the ballot this November.
-Previous
-Previous
-July 4
-Clay Center Parade
-Next
-Next
-July 8
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Back to All Events Kearney Meet & Greet Sunday, July 5, 2026 1:00 PM 3:00 PM 18 East 21st Street Kearney, Nebraska, 68847 (map) Google Calendar ICS Stop on by Thunderhead Brewing in Kearney to meet Mark Cohen, Independent Candidate for Nebraska CD3, and to sign the petition to help get him on the ballot this November.
+Previous Previous July 4 Clay Center Parade Next Next July 8 Lunch in the Park with Mark Donate info@markfornebraska.org Send checks to: Mark for Nebraska PO Box 81 Lemoyne, NE 69146 Volunteer Contact Terms of Use Privacy Policy PAID FOR AND AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website →

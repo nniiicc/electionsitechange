@@ -1,33 +1,146 @@
 [
-"https://facebook.com/MikeMinogueforGovernor",
-"https://instagram.com/mikeminoguema",
-"https://linkedin.com/in/michael-minogue-b38052168",
-"https://minogueforma.com/",
-"https://minogueforma.com/blueprint-for-a-better-future",
-"https://minogueforma.com/get-involved",
-"https://minogueforma.com/in-the-news",
-"https://minogueforma.com/in-the-news/page/13",
-"https://minogueforma.com/in-the-news/page/3",
-"https://minogueforma.com/in-the-news/page/4",
-"https://minogueforma.com/make-your-plan-to-vote",
-"https://minogueforma.com/meet-mike",
-"https://minogueforma.com/meet-renee",
-"https://minogueforma.com/press-release/healey-says-we-look-out-for-each-other-so-why-are-families-paying-more",
-"https://minogueforma.com/press-release/mike-minogue-accepts-invitation-to-participate-in-western-mass-debate",
-"https://minogueforma.com/press-release/mike-minogue-announces-his-aaok-blueprint-to-make-massachusetts-the-best-place-to-live-work-and-raise-a-family",
-"https://minogueforma.com/press-release/mike-minogue-calls-on-debate-hosts-to-include-all-ballot-qualified-candidates",
-"https://minogueforma.com/press-release/mike-minogue-launches-statewide-television-ad-power-corrupts",
-"https://minogueforma.com/press-release/mike-minogue-welcomes-nepba-support",
-"https://minogueforma.com/privacy-policy",
-"https://minogueforma.com/store",
-"https://minogueforma.com/terms-and-conditions",
-"https://secure.anedot.com/mike-minogue-for-governor/donate",
-"https://secure.anedot.com/mike-minogue-for-governor/donate?amount=100",
-"https://secure.anedot.com/mike-minogue-for-governor/donate?amount=1000",
-"https://secure.anedot.com/mike-minogue-for-governor/donate?amount=25",
-"https://secure.anedot.com/mike-minogue-for-governor/donate?amount=250",
-"https://secure.anedot.com/mike-minogue-for-governor/donate?amount=5",
-"https://secure.anedot.com/mike-minogue-for-governor/donate?amount=50",
-"https://secure.anedot.com/mike-minogue-for-governor/donate?amount=500",
-"https://x.com/mikeminoguema"
+{
+"text": "$1,000",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate?amount=500"
+},
+{
+"text": "1",
+"href": "https://minogueforma.com/in-the-news/"
+},
+{
+"text": "13",
+"href": "https://minogueforma.com/in-the-news/page/13/"
+},
+{
+"text": "3",
+"href": "https://minogueforma.com/in-the-news/page/3/"
+},
+{
+"text": "4",
+"href": "https://minogueforma.com/in-the-news/page/4/"
+},
+{
+"text": "Blueprint for a Better Future",
+"href": "https://minogueforma.com/blueprint-for-a-better-future/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://minogueforma.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://minogueforma.com/"
+},
+{
+"text": "In The News",
+"href": "https://minogueforma.com/in-the-news/"
+},
+{
+"text": "Make a Plan to Vote",
+"href": "https://minogueforma.com/make-your-plan-to-vote/"
+},
+{
+"text": "Meet Mike",
+"href": "https://minogueforma.com/meet-mike/"
+},
+{
+"text": "Meet Renee",
+"href": "https://minogueforma.com/meet-renee/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate"
+},
+{
+"text": "Store",
+"href": "https://minogueforma.com/store/"
+},
+{
+"text": "Terms & conditions",
+"href": "https://minogueforma.com/terms-and-conditions/"
+},
+{
+"text": "[image: Mike Minogue for Governor]",
+"href": "https://minogueforma.com"
+},
+{
+"text": "[image]Press Release|September 10, 2026Mike Minogue Accepts Invitation to Participate in Western Mass Debate",
+"href": "https://minogueforma.com/press-release/mike-minogue-accepts-invitation-to-participate-in-western-mass-debate/"
+},
+{
+"text": "[image]Press Release|September 10, 2026Mike Minogue Announces His AAOK Blueprint to Make Massachusetts the Best Place to Live, Work, and Raise a Family",
+"href": "https://minogueforma.com/press-release/mike-minogue-announces-his-aaok-blueprint-to-make-massachusetts-the-best-place-to-live-work-and-raise-a-family/"
+},
+{
+"text": "[image]Press Release|September 14, 2026Mike Minogue Calls on Debate Hosts to Include All Ballot-Qualified Candidates",
+"href": "https://minogueforma.com/press-release/mike-minogue-calls-on-debate-hosts-to-include-all-ballot-qualified-candidates/"
+},
+{
+"text": "[image]Press Release|September 15, 2026Mike Minogue Welcomes NEPBA Support",
+"href": "https://minogueforma.com/press-release/mike-minogue-welcomes-nepba-support/"
+},
+{
+"text": "[image]Press Release|September 9, 2026HEALEY SAYS, “WE LOOK OUT FOR EACH OTHER.” SO WHY ARE FAMILIES PAYING MORE?",
+"href": "https://minogueforma.com/press-release/healey-says-we-look-out-for-each-other-so-why-are-families-paying-more/"
+},
+{
+"text": "[image]Press Release|September 9, 2026Mike Minogue Launches Statewide Television Ad: “Power Corrupts”",
+"href": "https://minogueforma.com/press-release/mike-minogue-launches-statewide-television-ad-power-corrupts/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MikeMinogueforGovernor"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mikeminoguema"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/michael-minogue-b38052168"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mikeminoguema"
+},
+{
+"text": "privacy policy",
+"href": "https://minogueforma.com/privacy-policy/"
+},
+{
+"text": "←",
+"href": "https://minogueforma.com/in-the-news/"
+},
+{
+"text": "→",
+"href": "https://minogueforma.com/in-the-news/page/3/"
+}
 ]

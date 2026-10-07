@@ -1,9 +1,4 @@
-News & Articles
-Listening First: Why Real Representation Starts With the Community
-It All Begins Here
-Rural Communities Deserve More Than Promises
-It All Begins Here
-Restoring Trust in Government Starts With Accountability
-It All Begins Here
-Design Team
-Design Team
+0 Skip to Content Kevin Westley Carpenter Home About Campaign News & Articles Contact Donate now Open Menu Close Menu Kevin Westley Carpenter Home About Campaign News & Articles Contact Donate now Open Menu Close Menu Home About Campaign News & Articles Contact Donate now News & Articles Design Team 5/28/19 Design Team 5/28/19 Listening First: Why Real Representation Starts With the Community It All Begins Here Read More Design Team 5/28/19 Design Team 5/28/19 Rural Communities Deserve More Than Promises It All Begins Here Read More Design Team 5/28/19 Design Team 5/28/19 Restoring Trust in Government Starts With Accountability It All Begins Here Read More Kevin Westley Carpenter Home About Campaign News & Articles contact Facebook Follow us Explore Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!

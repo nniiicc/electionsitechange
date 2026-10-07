@@ -1,4 +1,4 @@
-There is little that causes a feeling of insecurity as much as not knowing if you’re going to be able to afford basic needs from month to month.
+Home Platform Endorsements More Home Platform Endorsements Donate Home Platform Endorsements Donate Affordability Helping Wisconsin's Families There is little that causes a feeling of insecurity as much as not knowing if you’re going to be able to afford basic needs from month to month.
 In America, about one in four households face this reality, and are one illness, major repair, or injury away from financial ruin.
 As your representative, I will work to change this in the following ways.
 First, we need to help those who are struggling the most.
@@ -24,5 +24,4 @@ One way to deal with this is by requiring securitization of these plants, someth
 However, the Republican-led Joint Finance Committee scrapped the provision.
 Getting this passed will help reduce energy costs.
 An overriding effort will be working with our federal partners to reduce or eliminate tariffs, which (despite what the administration claims) are a tax that we pay.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Privacy Policy Terms of Service Paid for by Friends of John Perryman PO Box 5, Williams Bay, WI 53191 Powered by

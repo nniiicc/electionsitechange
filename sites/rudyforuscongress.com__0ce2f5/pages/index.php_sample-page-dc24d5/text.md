@@ -1,10 +1,11 @@
-Hello, I am Rudy Recile.
+Major (Ret) Rudy Recile For U.S.
+Congress "Ang Inyong Lingkod" (At Your Service) Menu Skip to content Home About Issues Support for Veterans Education and School Choice Energy Independence Accountability in Government Spending Politics Volunteer Donate Interviews and Media coverage Candidates and Businesses I Support Candidates Businesses I support Contact Us Past Events About Hello, I am Rudy Recile.
 I am a US American Citizen with Filipino heritage.
 I am the son of a single immigrant mother who worked hard to bring her family to the USA from the Philippines.
 In 1987 I would also swear an oath of service to the US Army to defend the United States against all enemies foreign and domestic.
 After 26 years of service, I retired from the US Army.
-I believe in God, the individual, selfless service, integrity, personal courage, and family.
-God: I was raised as a Christian, I’ve been fortunate enough to have a solid early upbringing in the church.
+I believe in God , the individual, selfless service, integrity, personal courage , and family .
+God : I was raised as a Christian, I’ve been fortunate enough to have a solid early upbringing in the church.
 In high school during the school year I attended an Episcopalian boarding school Howe Military School and participated in evening and Sunday services as an acolyte.
 During the summers I worked at a Christian summer camp.
 While in the service I attended church services every opportunity I had.
@@ -47,18 +48,12 @@ Children mimic the actions of adults around them.
 It is not just enough to tell a child they have aunts, uncles and cousins.
 It is important for them to meet and interact with them as often as possible.
 These are pictures of some of my family.
-Resume
-Retired Armor, Infantry US Army Officer 26 years of service. 14 years of executive level experience from the unit level to the Pentagon as a logistician and project manager.
+Resume Retired Armor, Infantry US Army Officer 26 years of service.
+14 years of executive level experience from the unit level to the Pentagon as a logistician and project manager.
 Managed worldwide projects at the executive level.
 Obtaining and managing million dollar budgets and assets.
 Former US Department of Agriculture Data Manager and Instructor for the Plant Protection and Quarantine Division.
 Seven years training agricultural officers in 35 of the 58 counties in the State of California.
-33 years of Federal Government experience working with service members, government employees, contractors and senior and executive level management
-Six years of experience as a Contract Officer Representative for the US Army managing tasks in
-multi-million-dollar contracts
-100% un-hyphenated American
-Business owner specializing in small business web site development
-Quality Systems Management Professional
-Treasurer for the Veterans of Foreign Wars Post 2333 Fairfield/Suisun California
-Communications Committee member for the Solano County Republican Central Committee
-Vice President Eastern Contra Costa California Republican Assembly
+33 years of Federal Government experience working with service members, government employees, contractors and senior and executive level management Six years of experience as a Contract Officer Representative for the US Army managing tasks in multi-million-dollar contracts 100% un-hyphenated American Business owner specializing in small business web site development Quality Systems Management Professional Treasurer for the Veterans of Foreign Wars Post 2333 Fairfield/Suisun California Communications Committee member for the Solano County Republican Central Committee Vice President Eastern Contra Costa California Republican Assembly Comments are closed.
+Donate Here Click on Map to see more detail Find Your Congressional District Click here to see a detailed map of your district Rudy's podcast Boot's on the Ground Register to Vote in California Major (Ret) Rudy Recile For U.S.
+Congress | Powered by Mantra & WordPress.

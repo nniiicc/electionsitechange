@@ -1,6 +1,4 @@
-A New Square Deal for Arkansas
-Updated: Sep 6
-Arkansans should be able to work hard, act responsibly, and build a secure future.
+top of page Contact Donate NEWS & INSIGHTS PRESS RELEASE ANNOUNCEMENTS PERSONAL REFLECTIONS BEHIND THE PLATFORM EVENTS UPCOMING EVENTS INVITE JOSHUA TO YOUR EVENT ABOUT ME MY VALUES MY CIVIC BELIEF MY PLEDGE WHERE I STAND PRO-LOCAL CONTROL PRO-FREEDOM & RESPONSIBILITY PRO-INFRASTRUCTURE GROWTH PRO-2ND AMENDMENT PRO-QUALITY EDUCATION PRO-FAIR ELECTIONS AFP-AR CANDIDATE SURVEY REAL SOLUTIONS Civic Education Act Ballot Measure Rights Amendment Fair & Open Primaries Act Infrastructure Investment & Renewal Act Job Creation & Retention Tax Credit Act Parental Responsibility Act Criminal Firearm Law Enforcement Act Arkansas Firearm Safety Funding Act Health Transparency & Choice Act VOTE VOTER REGISTRATION EARLY VOTING ELECTION DAY All News & Updates Press Release Announcements Personal Reflections Behind the Platform Search A New Square Deal for Arkansas Sep 5 10 min read Updated: Sep 6 1 A Square Deal for Working Families 2 A Square Deal for Ownership 3 A Square Deal for Enterprise 4 A Square Deal for Communities 5 A Square Deal for Taxpayers 6 The Household Test 7 From Economic Fragility to Economic Independence 8 A New Square Deal Arkansans should be able to work hard, act responsibly, and build a secure future.
 Yet for too many working families, that promise feels increasingly difficult to reach.
 The cost of housing, utilities, healthcare, insurance, transportation, food, childcare, and other necessities continues to place pressure on household budgets.
 Wages do not always keep pace with rising costs.
@@ -9,7 +7,7 @@ Homeownership can feel further out of reach.
 And many middle-class families find themselves in a difficult gap—earning too much to qualify for assistance while still struggling to afford the basic foundations of economic security.
 Economic statistics may tell us that the economy is growing, but growth alone does not tell us whether families are actually getting ahead.
 A strong economy should be measured not only by how much wealth it produces, but by whether working families can afford the necessities of life, see their wages rise with their productivity, build savings instead of debt, afford a home, invest in their future, and pass something of lasting value to the next generation.
-That is the purpose of a New Square Deal for Arkansas.
+That is the purpose of a New Square Deal for Arkansas .
 It is built on a simple principle: Arkansans deserve a fair opportunity to work, earn, afford, save, own, invest, advance, and build something of their own.
 The goal is not equal outcomes.
 It is not government control of the economy.
@@ -19,8 +17,7 @@ At its heart is a simple idea: markets serve society when people prosper by serv
 Prosperity should be earned through contribution and value creation—not political privilege.
 The New Square Deal puts the principles of Common Good Capitalism into practice: economic freedom under fair rules, prosperity through service and productive value creation, broad ownership and economic independence, and accountability through measurable results and public trust.
 Those principles lead to five commitments.
-A Square Deal for Working Families
-Work should provide a realistic path toward economic security.
+A Square Deal for Working Families Work should provide a realistic path toward economic security.
 Arkansans who work hard should have a reasonable opportunity to support themselves, provide for their families, prepare for emergencies, and build toward a better future.
 But affordability has become one of the defining economic challenges facing working and middle-class families.
 Housing costs consume a growing share of household budgets.
@@ -28,8 +25,7 @@ Utility and insurance bills can rise faster than income.
 Healthcare expenses can make changing jobs or starting a business more difficult.
 Transportation and childcare can determine whether a better-paying job is actually worth taking.
 And when wages cannot keep up with basic expenses, families increasingly rely on credit simply to maintain an ordinary standard of living.
-A New Square Deal should therefore judge economic policy by a basic household test:
-Can working Arkansans increasingly afford their own lives?
+A New Square Deal should therefore judge economic policy by a basic household test: Can working Arkansans increasingly afford their own lives?
 That means pursuing policies that strengthen wage growth by increasing productivity, skills, competition, and opportunity rather than simply promising prosperity from the top down.
 Workers are not merely expenses on a balance sheet.
 Their knowledge, reliability, skill, judgment, creativity, and labor help businesses compete and create value.
@@ -41,8 +37,7 @@ Programs designed to help people regain stability should encourage advancement r
 The purpose of economic policy should not be to make families permanently dependent on government.
 It should be to make independence increasingly achievable.
 A Square Deal for Working Families means an Arkansas where work, responsibility, education, skill, and contribution provide a genuine path toward greater economic security.
-A Square Deal for Ownership
-Working should eventually allow people to own something.
+A Square Deal for Ownership Working should eventually allow people to own something.
 One of the greatest promises of capitalism is not merely the ability to earn an income.
 It is the opportunity to become an owner.
 A healthy economy should make it realistically possible for more Arkansans to build savings, purchase homes, invest for retirement, start businesses, acquire productive assets, participate in employee ownership, and pass something of lasting value to their children.
@@ -61,8 +56,7 @@ Investment allows families to participate in economic growth beyond their next p
 Ownership gives people a tangible stake in the prosperity of their communities and their economy.
 A New Square Deal should therefore ask not only whether Arkansas is creating wealth, but whether ordinary Arkansans have meaningful opportunities to create, acquire, own, and pass on wealth of their own.
 A Square Deal for Ownership means moving families from economic fragility toward lasting economic independence.
-A Square Deal for Enterprise
-Businesses should compete by serving people better—not by securing political advantages.
+A Square Deal for Enterprise Businesses should compete by serving people better—not by securing political advantages.
 Capitalism works best when businesses succeed because they solve problems, provide better products, serve customers well, develop workers, take responsible risks, and create genuine value.
 It works poorly when political connections become more valuable than entrepreneurship.
 Arkansas should maintain a strong presumption in favor of economic freedom.
@@ -79,10 +73,8 @@ Rules should be understandable, predictable, and applied impartially.
 Small businesses should not have to compete against political influence.
 Entrepreneurs should not need relationships with government officials to have a fair chance.
 And taxpayers should not be required to assume private risks while politically favored companies keep all of the rewards.
-A Square Deal for Enterprise rests on a simple principle:
-The most reliable path to profit should be creating value—not obtaining privilege.
-A Square Deal for Communities
-Opportunity should not depend entirely on where an Arkansan happens to live.
+A Square Deal for Enterprise rests on a simple principle: The most reliable path to profit should be creating value—not obtaining privilege.
+A Square Deal for Communities Opportunity should not depend entirely on where an Arkansan happens to live.
 Markets do not exist in isolation.
 Businesses, workers, entrepreneurs, and families depend on foundations that no individual company or household can always provide alone.
 Roads and bridges connect people to jobs and businesses to customers.
@@ -103,21 +95,18 @@ Rural Arkansas deserves particular attention.
 Opportunity should not disappear because someone lives outside a major metropolitan area.
 Infrastructure, healthcare access, broadband, workforce development, education, and economic connectivity can help ensure that rural communities have the foundations necessary to attract investment and create opportunity of their own.
 A Square Deal for Communities means building the foundations that allow individuals and private enterprise to succeed while respecting the communities in which that growth occurs.
-A Square Deal for Taxpayers
-Government should have to prove that public money produced public value.
+A Square Deal for Taxpayers Government should have to prove that public money produced public value.
 Every dollar government spends was first earned or borrowed from someone else.
 That creates an obligation of stewardship.
 Fiscal responsibility should not be reduced to a competition over who can promise to spend the least or the most.
-The better question is:
-Are taxpayers receiving meaningful value for what they are being asked to provide?
+The better question is: Are taxpayers receiving meaningful value for what they are being asked to provide?
 Every major tax incentive, subsidy, workforce program, regulatory initiative, infrastructure investment, and public-private partnership should be judged by measurable results.
 Did the tax incentive actually create the jobs and investment that were promised?
 Did the workforce program help people obtain useful skills and better employment?
 Did an infrastructure investment strengthen economic opportunity?
 Did a regulatory change increase competition?
 Did taxpayers receive a worthwhile return?
-Public policy should follow a simple standard:
-Promises kept, not promises made.
+Public policy should follow a simple standard: Promises kept, not promises made.
 Economic-development agreements should include clear performance requirements, transparent reporting, and enforceable clawbacks when companies fail to provide the jobs, wages, investment, or other commitments used to justify public assistance.
 Programs should also be reviewed after they are created.
 A policy should not become permanent simply because it carries a Democratic label, a Republican label, or benefits an influential constituency.
@@ -130,8 +119,7 @@ Borrowing simply to avoid difficult decisions or finance recurring obligations w
 Future generations deserve consideration too.
 We should not leave them unlimited debt for benefits they did not approve and may never receive.
 A Square Deal for Taxpayers therefore means transparent spending, measurable returns, responsible borrowing, independent oversight, performance reviews, enforceable accountability, and the willingness to end programs that no longer justify their cost.
-The Household Test
-These five commitments should ultimately be judged by what they mean in the lives of ordinary Arkansans.
+The Household Test These five commitments should ultimately be judged by what they mean in the lives of ordinary Arkansans.
 A growing economy is important.
 But growth should translate into something tangible.
 Are families increasingly able to afford housing and utilities?
@@ -147,8 +135,7 @@ Are taxpayers receiving measurable value from the government they fund?
 And can one generation realistically leave the next with something more than debt?
 Those questions should matter alongside GDP, corporate earnings, unemployment rates, and stock prices.
 A prosperous economy should ultimately expand people's capacity to build lives of independence, stability, responsibility, and ownership.
-From Economic Fragility to Economic Independence
-The central economic challenge facing many households is not simply poverty.
+From Economic Fragility to Economic Independence The central economic challenge facing many households is not simply poverty.
 It is fragility.
 A family may be employed and still have little savings.
 They may earn a middle-class income but carry substantial consumer debt.
@@ -156,8 +143,7 @@ They may pay increasingly high rent without building equity.
 They may have health insurance but fear what would happen if they changed jobs.
 They may earn too much for assistance while remaining one major expense away from financial crisis.
 They may work hard for decades without accumulating meaningful assets.
-A New Square Deal should help create an economy in which more Arkansans can move in the opposite direction:
-Work.
+A New Square Deal should help create an economy in which more Arkansans can move in the opposite direction: Work.
 Earn.
 Afford.
 Save.
@@ -171,8 +157,7 @@ Nor should it attempt to determine every economic outcome.
 But government does have a responsibility to maintain fair rules, protect competition, provide legitimate public goods, remove unnecessary barriers, prevent political favoritism, protect basic rights, and ensure that taxpayer resources produce measurable value.
 The goal is neither government control nor government indifference.
 It is capable government confined to legitimate purposes.
-A New Square Deal
-Arkansas does not need to choose between an economy controlled from the top down and one in which government simply ignores concentrated power, cronyism, failing infrastructure, or barriers that keep people from advancing.
+A New Square Deal Arkansas does not need to choose between an economy controlled from the top down and one in which government simply ignores concentrated power, cronyism, failing infrastructure, or barriers that keep people from advancing.
 There is another path.
 Protect economic freedom.
 Demand fair rules.
@@ -185,8 +170,7 @@ Protect taxpayers.
 Measure results.
 And recognize that the ultimate purpose of a strong economy is not simply to generate impressive statistics.
 It is to give people the freedom and opportunity to build something of their own.
-That is the promise of a New Square Deal for Arkansas:
-A Square Deal for Working Families.
+That is the promise of a New Square Deal for Arkansas : A Square Deal for Working Families.
 A Square Deal for Ownership.
 A Square Deal for Enterprise.
 A Square Deal for Communities.
@@ -200,6 +184,17 @@ Real opportunity.
 Broad ownership.
 Measurable results.
 A square deal for every Arkansan willing to build a better future.
-With respect for all Arkansans,
-Joshua Irby
-Paid for by Joshua Irby
+With respect for all Arkansans, Joshua Irby Paid for by Joshua Irby Behind the Platform “I don’t see sides—I see people.
+Neighbors.
+Fellow citizens.” Joshua Irby has taken the Principles of Service Pledge —committing to lead with integrity, unity, and a deep duty to the people, not politics.
+Contact Joshua First name * Last name * Organization (if applicable) Email * Phone (Optional) Your Message * I’m Interested In: Volunteering Hosting an Event Donating Yes, subscribe me for updates I agree to be contacted by phone, text, or email regarding campaign updates.
+Submit 501-943-5804 irbyforarkansas@gmail.com P.O.
+Box 490 Bryant, AR 72089 A Promise for Arkansas JOSHUA IRBY for Donate News & Insights Events About Me Where I Stand Vote AN INDIVIDUAL OR PAC MAY CONTRIBUTE UP TO $3,500 PER ELECTION.
+BUSINESS AND CORPORATE CONTRIBUTIONS ARE PROHIBITED.
+PLEASE MAKE CHECKS PAYABLE TO CITIZENS FOR JOSHUA IRBY Paid for by Joshua Irby "I’m not running for office to recite slogans — I’m running because I believe Arkansas deserves leadership rooted in respect, driven by resolve, and committed to renewal.
+Respect means every Arkansan, no matter where they live or who they are, is treated with dignity and heard with intention.
+Resolve means we don’t shy away from hard truths — we face them with courage and clarity.
+Renewal means we rebuild trust in our institutions and restore hope in our communities. ​ I believe in Common Ground because we’re stronger when we listen before we argue.
+I believe in Common Sense because good policy should be practical, not partisan.
+And I believe in the Common Good because public service should serve all, not just a few. ​ This isn’t just a campaign — it’s a call to come together.
+This is our moment." ​ - Joshua Irby bottom of page

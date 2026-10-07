@@ -1,7 +1,26 @@
 [
-"https://facebook.com/LibertariansOfNortheastKansasLnek",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.hauerforcongress.com",
-"https://hauerforcongress.com/",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.hauerforcongress.com",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.hauerforcongress.com"
+{
+"text": "Facebook",
+"href": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.hauerforcongress.com"
+},
+{
+"text": "JOHN HAUER FOR CONGRESS",
+"href": "https://www.hauerforcongress.com"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.hauerforcongress.com"
+},
+{
+"text": "X (Twitter)",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.hauerforcongress.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/LibertariansOfNortheastKansasLnek"
+},
+{
+"text": "hauerforcongress.com",
+"href": "mailto:info@mysite.com"
+}
 ]

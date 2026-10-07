@@ -1,6 +1,4 @@
-Media Updates
-Business owners, lawmakers call for tangible tax relief
-“The tangible tax is both a financial and administrative burden for small businesses.
+0 Skip to Content Home About 25/26 Term Highlights News Contact Donate Open Menu Close Menu Donate Home About 25/26 Term Highlights News Contact Open Menu Close Menu Home About 25/26 Term Highlights News Contact Donate Media Updates Melissa Murray 5/11/23 Melissa Murray 5/11/23 Business owners, lawmakers call for tangible tax relief “The tangible tax is both a financial and administrative burden for small businesses.
 Complying with it is complex, and it’s also an enforcement burden for cities and towns.
 Eliminating this tax for smaller businesses will give them genuine, much needed relief.
-It’s a way our state can provide help for the small businesses that support our cities and towns, make our communities unique, and most importantly, employ Rhode Islanders,” said Murray…
+It’s a way our state can provide help for the small businesses that support our cities and towns, make our communities unique, and most importantly, employ Rhode Islanders,” said Murray… Read More Paid for by Friends of Melissa Murray

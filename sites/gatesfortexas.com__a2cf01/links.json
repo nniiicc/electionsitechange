@@ -1,10 +1,42 @@
 [
-"https://facebook.com/gatesfortexas",
-"https://gatesfortexas.com/",
-"https://gatesfortexas.com/about-gary",
-"https://gatesfortexas.com/issues",
-"https://gatesfortexas.com/privacy-policy",
-"https://gatesfortexas.com/volunteer",
-"https://secure.anedot.com/gary-gates/donate",
-"https://twitter.com/gatesfortexas"
+{
+"text": "ABOUT GARY",
+"href": "https://www.gatesfortexas.com/about-gary"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/gary-gates/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.gatesfortexas.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.gatesfortexas.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.gatesfortexas.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.gatesfortexas.com/volunteer"
+},
+{
+"text": "[image][image][image]",
+"href": "https://secure.anedot.com/gary-gates/donate"
+},
+{
+"text": "[image][image][image]",
+"href": "https://twitter.com/gatesfortexas"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.facebook.com/gatesfortexas/"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.gatesfortexas.com/volunteer"
+}
 ]

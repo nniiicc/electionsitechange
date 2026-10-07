@@ -1,3 +1,3 @@
-Let’s Work Together Thanks for reaching out.
+0 Skip to Content Jensen for State House Georgia District 5 Home About Contact Donate Open Menu Close Menu Jensen for State House Georgia District 5 Home About Contact Donate Open Menu Close Menu Home About Contact Donate Let’s Work Together Thanks for reaching out.
 We'll review your message and get back to you within 48 hours.
-Follow Us on Social
+Follow Us on Social Jensen for State House District 5 jensenforstatehouse@gmail.com

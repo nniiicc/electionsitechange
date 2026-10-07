@@ -1,8 +1,6 @@
-By Saritha Komatireddy & Christopher P.
-Costa
-September 9, 2026
-National Review
-Twenty-five years after September 11, the United States confronts a paradox.
+Skip to content HOME ABOUT IN THE NEWS In the News Press Releases Statements Speeches and Editorials Coalitions African Americans for Saritha Asians for Saritha Dads for Saritha Democrats for Saritha Desis for Saritha Jewish New Yorkers for Saritha Latinos for Saritha Law Enforcement for Saritha Moms for Saritha CONTACT VOLUNTEER CONTRIBUTION FORM HOME ABOUT IN THE NEWS In the News Press Releases Statements Speeches and Editorials Coalitions African Americans for Saritha Asians for Saritha Dads for Saritha Democrats for Saritha Desis for Saritha Jewish New Yorkers for Saritha Latinos for Saritha Law Enforcement for Saritha Moms for Saritha CONTACT VOLUNTEER CONTRIBUTION FORM © # Saritha for New York.
+DONATE SHOP New York Hasn’t Faced a Threat Like This Since 9/11 By Saritha Komatireddy & Christopher P.
+Costa September 9, 2026 National Review Twenty-five years after September 11, the United States confronts a paradox.
 We have built the most capable counterterrorism enterprise in the world.
 We dismantled terrorist networks, eliminated senior leaders, disrupted plots, improved intelligence sharing, and prevented another externally directed attack on the scale of 9/11.
 Yet terrorism did not disappear.
@@ -38,7 +36,7 @@ Federal terrorism statutes were extraordinarily effective against individuals wh
 But increasingly, the person moving toward violence may be self-radicalized and inspired by an organization without ever formally joining it or receiving orders from it.
 Recent court decisions underscore the difficult legal questions this evolution presents.
 New York has authorities of its own.
-Six days after September 11, the state enacted Penal Law Article 490, recognizing terrorism as a distinct category of criminal conduct.
+Six days after September 11, the state enacted Penal Law Article 490 , recognizing terrorism as a distinct category of criminal conduct.
 A quarter century later, state leaders should examine whether New York’s laws and prosecutorial authorities remain suited to the threat we face today rather than simply the one lawmakers envisioned in 2001.
 That review should extend beyond prosecution.
 When individuals repeatedly demonstrate both an intent and a capability for serious violence, New York’s criminal-justice, mental-health, and threat-management systems need lawful mechanisms to intervene before threats become attacks.
@@ -69,3 +67,4 @@ Saritha Komatireddy served for more than a decade as a federal terrorism prosecu
 She is a candidate for New York attorney general.
 Christopher P.
 Costa served as special assistant to the president and senior director for counterterrorism at the National Security Council 2017-18 and is executive director of the International Spy Museum.
+Category Speeches and Editorials Post navigation Previous post Free Ex Q&A: Saritha Komatireddy Post navigation Next post New York State Correctional Officers & Police Benevolent Association Endorses Saritha Komatireddy for Attorney General Recent Posts Bob Holden and Marty Dolan Endorse Saritha Komatireddy for New York Attorney General Saritha Komatireddy Issues Statement on Mamdani’s Antisemitism Plan: “Funding Welcome, But Someone Has To Prosecute.” AG Candidate Saritha Komatireddy Calls for Accountability as Investigation of Rochester’s Officer of the Year Drags On Saritha Komatireddy’s Statement on Endorsing Safe Buffer Zones Saritha Komatireddy: An Open Letter to New York’s Hospital Workers Archives October 2026 September 2026 August 2026 July 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 March 2025 February 2025 October 2024 February 2023 March 2021 September 2019 November 2017 September 2017 July 2015 Categories Drug Cartels Fraud In the news Press Releases Speeches and Editorials Statements Terrorism Top Hits Uncategorized PO BOX 286199 New York, NY 10128 Paid for by Saritha for New York © # Saritha for New York.

@@ -1,5 +1,4 @@
-A Tour of Williams Farms
-I recently visited Alexandra Williams of Williams Farms, she's the Deming Diking Commissioner and president of the Whatcom County Farm Bureau.
+top of page About Erika About Erika Contact About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog Menu Close Donate All Posts News Affordability Mental Health Schools Taxes Corruption & Accountability A Tour of Williams Farms Campaign Staff Jun 17 2 min read I recently visited Alexandra Williams of Williams Farms, she's the Deming Diking Commissioner and president of the Whatcom County Farm Bureau.
 Alex gave me a tour of her family’s heritage homestead farm, established in 1894, and explained the challenges she’s facing as a Whatcom County farmer.
 Farmers are struggling throughout Washington State, especially here in Whatcom County where we have one of the highest minimum wages in the country and farmers now have to pay seasonal agricultural workers overtime.
 On top of the expense of operating in this heavily regulated industry, farmers now face a greater challenge: Whatcom’s water adjudication.
@@ -11,3 +10,8 @@ We rode down to the river so Alex could talk about some potential solutions that
 She’s part of a brand new organization called Water for Whatcom, which is advocating for collaborative water resource management solutions for our county.
 Alex wants Whatcom County to invest in tangible solutions will benefit everyone- our farms, communities and the salmon.
 With the adjudication underway, the best thing we can do is work together to find solutions that prevent the flooding in the winters and drought in the summers to help protect some of Whatcom County's greatest assets.
+Recent Posts See All Whatcom County Is Too Expensive.
+We Need More Affordability.
+What's Up With the Heart?
+Dr.
+Erika Creydt Grateful to Advance to General Election, Honors Fellow Candidates Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About Erika About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page

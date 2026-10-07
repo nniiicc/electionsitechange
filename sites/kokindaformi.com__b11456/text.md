@@ -1,5 +1,5 @@
-MEET RON KOKINDA
-I am an America First Republican who has spent my life fighting for the policies that will restore America as a manufacturing superpower.
+top of page History Issues Media Contact More Use tab to navigate through the menu items.
+DONATE MEET RON KOKINDA ​ I am an America First Republican who has spent my life fighting for the policies that will restore America as a manufacturing superpower.
 I grew up on a dairy and horse farm in upstate New York and received my bachelor’s degree from the State University of New York.
 In 1971, when President Nixon removed the dollar from the gold-reserve system, I joined the movement founded by Lyndon LaRouche, because I understood then what millions of Americans understand now: that abandoning national economic sovereignty and handing power to the financier elite would lead to exactly the kind of decline we see today.
 LaRouche warned that such policies would end in fascism.
@@ -13,5 +13,9 @@ Her mother was the executive secretary of the Allen Park Chamber of Commerce for
 This community is our family’s home.
 We’ve watched it struggle under the weight of policies that shipped jobs overseas, drove up energy costs, and left working families behind.
 I’m running for State Representative because I believe the decline can be reversed — and because I’ve spent fifty years preparing to do exactly that.
-"The Republican Party must return to its roots as the party of industry, manufacturing, infrastructure, and workers."
-— The 2024 Republican Party Platform
+Click to Learn More Join the fight to rebuild Downriver First name * Last name Email * Address Phone "By checking this box, you consent to receive text messages.
+Messages may include campaign updates, event information, volunteer opportunities, and requests for donation.
+Msg & data rates may apply.
+Msg frequency may vary.
+Reply STOP to opt-out and HELP for help.
+View Privacy policy for more information at https://www.kokindaformi.com/privacy-policy Submit "The Republican Party must return to its roots as the party of industry, manufacturing, infrastructure, and workers." — The 2024 Republican Party Platform Paid for by Ron Kokinda for State Rep 10475 Balfour Allen Park, MI 48101 Privacy Policy Copyright # kokindaformi.com Home Terms and Conditions Thanks Accessibility Statement bottom of page

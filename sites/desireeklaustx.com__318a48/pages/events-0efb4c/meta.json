@@ -1,7 +1,12 @@
 {
  "description": "Desiree Klaus Community Events",
  "final_url": "https://www.desireeklaustx.com/events",
- "paid_for_by": null,
+ "fingerprint": "158375dd5db3bd3372f42e40c73a79c0fc818823",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Desiree Klaus Community Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026",
+  "2027"
+ ]
 }

@@ -1,7 +1,8 @@
-Help Our Campaign
-As of July 2025:
-If you prefer to contribute by check, please make your check to "Citizens for Jesse Rodriguez for Ill 83" and mail to:
-111 Le Grande Blvd, Aurora, Illinois 60506
-Your support is greatly appreciated!
-Citizens for Jesse Rodriguez Illinois 83rd
-Powered by CampaignPartner.com - Political Websites
+Meet Jesse Issues News Volunteer Contribute Help Our Campaign As of July 2025: Individuals could contribute $7,300 per election to gubernatorial and state legislative candidates.
+State parties could contribute unlimitedly to gubernatorial candidates, unlimitedly to state senate candidates, and unlimitedly to state house candidates.
+Political committees could contribute $72,800 per election to gubernatorial and state legislative candidates.
+Corporations and unions could contribute $14,600 per election to gubernatorial and state legislative candidates.
+If you prefer to contribute by check, please make your check to "Citizens for Jesse Rodriguez for Ill 83" and mail to: 111 Le Grande Blvd, Aurora, Illinois 60506 Your support is greatly appreciated!
+Complete your $ 0 contribution: Select Your Information Choose an amount: $25 $50 $100 Other Amount $ Choose payment method: Credit Card Mail a Contribution First Name * Last Name * Email * Phone Address * City/Town * State * Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip * Occupation * Employer * Add $ 0.00 to help cover PayPal processing fees?
+Add $ 0.00 to help cover card processing fees?
+Submit Contribution Voter Information Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

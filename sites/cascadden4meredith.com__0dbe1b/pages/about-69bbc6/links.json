@@ -1,9 +1,34 @@
 [
-"https://cascadden4meredith.com/",
-"https://cascadden4meredith.com/about",
-"https://facebook.com/profile.php?id=61579497696430",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/cascadden4meredith",
-"https://tiktok.com/@cascadden4meredith",
-"https://youtube.com/channel/UCG7Q6riMSOeN5Sdl1L4GtMw"
+{
+"text": "About",
+"href": "https://cascadden4meredith.com/about"
+},
+{
+"text": "Cascadden for MeredithCascadden for MeredithCascadden for MeredithCascadden for Meredith",
+"href": "https://cascadden4meredith.com/"
+},
+{
+"text": "Home",
+"href": "https://cascadden4meredith.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61579497696430"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cascadden4meredith/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@cascadden4meredith"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCG7Q6riMSOeN5Sdl1L4GtMw"
+}
 ]

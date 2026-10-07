@@ -1,7 +1,4 @@
-VOLUNTEER
-SUPPORT KYANDRA DARLING FOR FLORIDA HOUSE
-Meet Kyandra
-Kyandra Darling is a proud fourth-generation native of St.
+0 Skip to Content Get Involved Issues Endorsements In The News Request a Yard Sign Volunteer Open Menu Close Menu Open Menu Close Menu Get Involved Issues Endorsements In The News Request a Yard Sign Volunteer Get Involved Issues Endorsements In The News Request a Yard Sign Volunteer VOLUNTEER SUPPORT KYANDRA DARLING FOR FLORIDA HOUSE CALL VOTERS KNOCK DOORS CELEBRATE WITH US Meet Kyandra “ For my son and for every family working toward a better future— I will keep fighting for the opportunities we all deserve. ” Kyandra Darling is a proud fourth-generation native of St.
 Petersburg and lifelong Democrat, born into a family dedicated to public service and making meaningful change.
 As a working mother to an 8-year-old son, Kyandra understands the importance of strong schools, safe neighborhoods, quality healthcare, and stable housing—resources every family deserves.
 In 2024, Kyandra endured the heartbreaking loss of her father, who struggled with mental health and addiction.
@@ -12,7 +9,6 @@ Feeling called to fill the gaps left unaddressed by policy, Kyandra went to work
 As OUR Representative, Kyandra Darling will continue to fight every day to lower costs— from groceries to housing—protect our freedoms and rights, improve our local schools, and keep our neighborhoods safe.
 She will push for accessible, affordable healthcare, including mental health and addiction services.
 In Tallahassee, Kyandra will advocate for bold, community-driven solutions that uplift working families, not just here at home, but in every corner of Florida.
-IN community
-Stay Connected
-Want to join the campaign?
+IN community Stay Connected Want to join the campaign?
 Fill out some info and we will be in touch shortly!
+DONATE Political ad paid for and approved by Kyandra Darling, Democrat, for Florida House, District 62

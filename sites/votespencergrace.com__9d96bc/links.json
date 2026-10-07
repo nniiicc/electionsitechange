@@ -1,9 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61577201485046",
-"https://secure.anedot.com/spencer-grace-for-state-house-2026/94732399-561c-4f57-af4f-10130ce581a7",
-"https://votespencergrace.com/",
-"https://votespencergrace.com/contact",
-"https://votespencergrace.com/media",
-"https://votespencergrace.com/privacy-policy",
-"https://votespencergrace.com/terms-and-conditions"
+{
+"text": "CONTACT",
+"href": "https://votespencergrace.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/spencer-grace-for-state-house-2026/94732399-561c-4f57-af4f-10130ce581a7"
+},
+{
+"text": "Donate Now to Help Spencer Win!",
+"href": "https://secure.anedot.com/spencer-grace-for-state-house-2026/94732399-561c-4f57-af4f-10130ce581a7"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61577201485046"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://votespencergrace.com/#get-involved"
+},
+{
+"text": "HOME",
+"href": "https://votespencergrace.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://votespencergrace.com/#issues"
+},
+{
+"text": "MEDIA",
+"href": "https://votespencergrace.com/media/"
+},
+{
+"text": "MEET SPENCER",
+"href": "https://votespencergrace.com/#meet"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://votespencergrace.com/privacy-policy/"
+},
+{
+"text": "TERMS AND CONDITIONS",
+"href": "https://votespencergrace.com/terms-and-conditions/"
+}
 ]

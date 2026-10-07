@@ -1,7 +1,6 @@
-Spartz Endorsed by NRA
-April 1, 2024
-Noblesville, IN – Today, Congresswoman Victoria Spartz (IN-5) announced that her 2024 re-election campaign to Congress has been endorsed by the National Rifle Association’s Political Victory Fund (NRA-PVF).
+Skip to content Home About Issues News Volunteer Home About Issues News Volunteer Donate Instagram Facebook Spartz Endorsed by NRA Spartz Endorsed by NRA April 1, 2024 Noblesville, IN – Today, Congresswoman Victoria Spartz (IN-5) announced that her 2024 re-election campaign to Congress has been endorsed by the National Rifle Association ’s Political Victory Fund (NRA-PVF).
 Spartz said, “As a lifetime NRA member, I am proud to have the NRA endorsement once again.
 As someone who grew up under a tyrannical government, I understand that our Second Amendment is second for a reason – to protect all other rights against all enemies foreign and domestic.
-I will always stand strong for Second Amendment rights for all law-abiding Americans.” The National Rifle Association is America’s oldest defender of gun rights.
+I will always stand strong for Second Amendment rights for all law-abiding Americans .” The National Rifle Association is America’s oldest defender of gun rights.
 The Political Victory Fund is the political campaign arm of the organization.
+Spartz Releases “Never Surrender” Ad Spartz Endorsed by SBA Pro-Life America Home About Issues News Volunteer Home About Issues News Volunteer PAID FOR BY VICTORIA SPARTZ FOR CONGRESS Donate Privacy Policy info@spartzforcongress.com Internships Donate Privacy Policy info@spartzforcongress.com Internships PO BOX 505 NOBLESVILLE, IN 46061 Home About Issues Volunteer News Donate PAID FOR BY VICTORIA SPARTZ FOR CONGRESS Privacy Policy info@spartzforcongress.com PO BOX 505 NOBLESVILLE, IN 46061

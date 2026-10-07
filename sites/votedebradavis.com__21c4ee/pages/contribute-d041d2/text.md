@@ -1,6 +1,8 @@
-Contribute
-Make your donations on this page via credit/debit card through paypal; or ActBLue or
-Contribute by mail: Mail your check payable to Citizens for Debra Davis, P.O.
-Box 801, Bryans Road, MD 20616
-By Authority of Citizens For Debra Davis; Michelina Coates, Treasurer
-Powered by CampaignPartner.com - Political Websites
+Home About Debra Events News Photo Gallery Contact Leadership Contribute Make your donations on this page via credit/debit card through paypal; or ActBLue or Contribute by mail: Mail your check payable to Citizens for Debra Davis, P.O.
+Box 801, Bryans Road, MD 20616 Complete your $ 0 contribution: Select Your Information Choose an amount: $10 $25 $50 $100 $150 $250 $500 $1000 $1500 $2000 $2500 $3000 $3500 $4000 Other Amount $ Choose payment method: PayPal Mail a Contribution First Name * Last Name * Email * Phone Address * Address 2 City/Town * State * Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip * Occupation Employer * I would like to make a financial contribution I would like a T-shirt I would like to volunteer I would like to put a sign in my yard I would like to work at a poll I would like to get updates and news via email Add $ 0.00 to help cover PayPal processing fees?
+Add $ 0.00 to help cover card processing fees?
+Submit Contribution VOLUNTEER CONTRIBUTE Get Updates Thank you for signing up!
+News Delegate Debra Davis endorsed by Amalgamated Transit Union Local 689!
+Delegate Debra Davis endorsed by the Maryland State Education Association!
+Delegate Debra Davis endorsed by Moms Demand Action Delegate Debra Davis endorsed by Economic Action Maryland!
+Southern Maryland Rapid Transit By Authority of Citizens For Debra Davis; Michelina Coates, Treasurer Powered by CampaignPartner.com - Political Websites Home About Debra Events News Photo Gallery Contact Leadership Close Menu

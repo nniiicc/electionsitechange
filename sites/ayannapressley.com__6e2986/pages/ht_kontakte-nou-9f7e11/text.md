@@ -1,7 +1,6 @@
-Kontakte Nou
-Ou gen yon kesyon oubyen komantè pou kanpay la?
+EN ES HT ZH Facebook Twitter Instagram Rankontre Ayanna Pwoblem Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District Toggle Menu Facebook Twitter Instagram Evenman Volontè Magazen Don Rankontre Ayanna Evenman Enfòmasyon pou elektè yo Volontè Kontakte Nou Magazen Don Kontakte Nou Ou gen yon kesyon oubyen komantè pou kanpay la?
 Nou ta renmen tande ou!
 Tanpri ranpli fòmilè ki sou paj sa epi yon manm nan ekip nou ak kontakte ou pi vit lap posib.
-Pou enfòmasyon laprès kontakte [email protected].
-Ayanna se yon enfatigab militan pou moun.
-Eske wap sipòte li pandan wap kotize jodia
+Pou enfòmasyon laprès kontakte [email protected] .
+Prenon * Siyati * Adrès Imel * Soumèt mesaj ou Soumèt Kotize kounia Ayanna se yon enfatigab militan pou moun.
+Eske wap sipòte li pandan wap kotize jodia Kotizasyon nou en mwayenn ane sa $10 $20.53 $100 Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District Rankontre Ayanna Enfòmasyon pou elektè yo Volontè Magazen Don Suiv nou Facebook Twitter Instagram Don pa lapòs Committee to Elect Ayanna Pressley PO Box 240912 Dorchester Center, MA 02124 Prizanchaj pa komite a pou vote Ayanna Pressley Kontakte Konfidansyalite Made with Middle Seat

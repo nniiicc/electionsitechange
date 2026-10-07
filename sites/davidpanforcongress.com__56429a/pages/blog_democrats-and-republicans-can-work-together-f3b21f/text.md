@@ -1,6 +1,4 @@
-Democrats and Republicans can work together
-Together, we can solve our nation’s most intractable problems
-The divide between Democrats and Republicans concerning our welfare state boils down to two principles that are in conflict with each other.
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate Democrats and Republicans can work together May 29 Written By Guest User Together, we can solve our nation’s most intractable problems The divide between Democrats and Republicans concerning our welfare state boils down to two principles that are in conflict with each other.
 While Republicans argue that the welfare state disincentivizes work and creates a class of people who take advantage of the system, Democrats contend that our society should provide for people who are in unfortunate circumstances through no fault of their own.
 The difference between these two positions has driven our debates about whether government should be involved in social welfare.
 For Republicans, since welfare convinces people that they should not work, then government should get out of the business of providing welfare.
@@ -24,5 +22,11 @@ While $16,000 per year may not be adequate to cover the needs of an individual, 
 Such voluntary and mutual aid would be the best way for people in need to receive help that is tailored to their circumstances, while also establishing the basis for lasting personal bonds.
 Please join me in imagining a new future for all Americans, in which we can work together across party lines to solve our nation’s problems.
 Check my website at DavidPanforCongress.com to volunteer with my campaign and make a donation.
-Even a $5 donation will make a difference.
+Even a $# donation will make a difference.
 It would pay for a yard sign or 50 flyers.
+Guest User Previous Previous A New Approach to Public Safety Next Next Reducing government spending to create a universal basic income Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

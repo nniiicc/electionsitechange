@@ -1,12 +1,9 @@
-People to Elect Cornel Rasor
-Mobile Messaging Terms & Conditions
-People to Elect Cornel Rasor (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+Home Meet Cornel Platform Voting Info Contact Donate Volunteer FB extras People to Elect Cornel Rasor Mobile Messaging Terms & Conditions People to Elect Cornel Rasor (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 User Opt In: The Program allows users to receive SMS/MMS mobile messages by users affirmatively opting into the Program.
 Regardless of the opt-in method you utilized to join the Program, regardless of the opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
 The mobile messaging service used by Us to communicate with you requires human intervention for Our mobile messages to be initiated, and thus Our mobile messages are not sent to you by an automatic telephone dialing system (“ATDS” or “autodialer”).
-Program Description: Without limiting the scope of the Program, users that opt into the Program can expect to receive messages concerning updates and information from People to Elect Cornel Rasor
-Cost and Frequency: Message and data rates may apply.
+Program Description: Without limiting the scope of the Program, users that opt into the Program can expect to receive messages concerning updates and information from People to Elect Cornel Rasor Cost and Frequency: Message and data rates may apply.
 The Program involves recurring mobile messages, and additional mobile messages may be sent based on your interaction with Us.
 Contact Information: For support text “HELP” to any of Our mobile messages.
 User Opt Out and Additional Commands: To opt out (discontinue participation in Program), reply “STOP” to any of Our mobile messages from your mobile device.
@@ -49,3 +46,10 @@ We reserve the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
+Home Meet Cornel Platform Voting Info Contact Donate Volunteer FB extras Privacy Policy  Contact Information Address: 30640 Highway 200 Ponderay, Idaho.
+83852 Email: Cornel@CornelForIdaho.com Website: CornelForIdaho.com  Contribute No candidate can win without help.
+Much of the funding for Cornel’s campaign is out of pocket.
+Won’t you help by donating to the campaign to buy signs, fliers, and snacks for the volunteers?
+Support Cornel Paid for by: People to Elect Cornel Rasor.
+Cornel Rasor , Treasurer.
+Website design and hosting provided by: TLCWebHosting.com

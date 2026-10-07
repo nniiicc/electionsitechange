@@ -1,1 +1,2 @@
-Issues & Achievements Issue Small Business Issue Public Safety Issue Fiscal Conservatism Issue Border Security Issue Education Issue Second Amendment $ 25 $ 50 $ 100 $ 250 $ 500 $ 1000 Donate
+Skip to content Sign Petition Home About Issues Volunteer Endorsements Donate DONATE Sign Petition Issues & Achievements Issue Small Business Issue Public Safety Issue Fiscal Conservatism Issue Border Security Issue Education Issue Second Amendment $ 25 $ 50 $ 100 $ 250 $ 500 $ 1000 Donate campaign@kevinhartke.com PAID FOR BY KEVIN HARTKE FOR STATE REPRESENTATIVE - DISTRICT 13.
+AUTHORIZED BY KEVIN HARTKE. © 2026 • Privacy Policy • Terms & Conditions

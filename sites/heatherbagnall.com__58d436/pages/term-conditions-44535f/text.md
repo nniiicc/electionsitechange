@@ -1,8 +1,6 @@
-PRIVACY STATEMENT
-Citizens For Heather Bagnall Tudball, known as Citizens For Heather Bagnall, in association with Heather Bagnall, and Luke Tudball, has created this privacy statement in order to demonstrate its firm commitment to privacy.
+Home About About Me Endorsements Leadership Session Recap Scholarships State Resource Archive Voter Information Media Delegate News Virtual Town Halls Articles Interviews Campaign Videos Campaign Update Get Involved Subscribe Attend Volunteer Contribute Contact Contribute Home About About Me Endorsements Leadership Session Recap Scholarships State Resource Archive Voter Information Media Delegate News Virtual Town Halls Articles Interviews Campaign Videos Campaign Update Get Involved Subscribe Attend Volunteer Contribute Contact Contribute PRIVACY STATEMENT Citizens For Heather Bagnall Tudball, known as Citizens For Heather Bagnall, in association with Heather Bagnall, and Luke Tudball, has created this privacy statement in order to demonstrate its firm commitment to privacy.
 Citizens For Heather Bagnall Online, known as Heather Bagnall For Maryland State Delegate - District 33, is a general audience web site, intended for users of all ages.
-The following discloses the information gathering and dissemination practices for the website www.heatherbagnall.com
-We do not require registration of personal information (i.e. names, addresses or telephone numbers, etc.) in order to view the site.
+The following discloses the information gathering and dissemination practices for the website www.heatherbagnall.com We do not require registration of personal information (i.e. names, addresses or telephone numbers, etc.) in order to view the site.
 IP addresses are used to gather broad demographic information and are not released to third parties, sponsors or advertisers.
 All content and information (including, but not limited to, text, photos, images, reviews, press releases, trademarks, logos, audio clips, animation) displayed on this site is protected by copyright and other intellectual property laws.
 Citizens For Heather Bagnall will occasionally update this statement to reflect company and visitor feedback.
@@ -10,14 +8,11 @@ You may not modify, alter or otherwise update this policy at any time.
 Visitors are encouraged to review this policy and statement at regular intervals.
 If you do not agree with any of the terms and conditions contained herein, please discontinue viewing our online content immediately.
 Thank you for your cooperation.
-TERMS & CONDITIONS OF USE
-All rights, including copyright and database right, in Citizens For Heather Bagnall, its associated websites, and their contents, are owned by or licensed to Citizens For Heather Bagnall, or otherwise used by Citizens For Heather Bagnall as permitted by applicable law.
-Citizens For Heather Bagnall, is the name given to the web pages and content, which can be accessed at www.heatherbagnall.com
-In accessing Citizens For Heather Bagnall's web pages, you agree that you will access the contents solely for your own private use and not for any commercial or public use.
+TERMS & CONDITIONS OF USE All rights, including copyright and database right, in Citizens For Heather Bagnall, its associated websites, and their contents, are owned by or licensed to Citizens For Heather Bagnall, or otherwise used by Citizens For Heather Bagnall as permitted by applicable law.
+Citizens For Heather Bagnall, is the name given to the web pages and content, which can be accessed at www.heatherbagnall.com In accessing Citizens For Heather Bagnall's web pages, you agree that you will access the contents solely for your own private use and not for any commercial or public use.
 You can download and use the service on a single CPU at a time and print out a single hard copy of any part of the content on Citizens For Heather Bagnall for your personal use.
 Except as permitted above, you undertake not to copy, store in any medium (including any other website), distribute, transmit, re-transmit, broadcast, modify or show in public any part of Citizens For Heather Bagnall website without the prior written permission of Citizens For Heather Bagnall.
-Access to, and use of, this site is provided by Citizens For Heather Bagnall subject to the following Terms and Conditions:
-1.
+Access to, and use of, this site is provided by Citizens For Heather Bagnall subject to the following Terms and Conditions: 1.
 Use of this site constitutes your acceptance of these terms and conditions, which take effect immediately on your first use of the site.
 Citizens For Heather Bagnall reserves the right to change these terms and conditions at any time by posting changes online.
 2.
@@ -58,3 +53,6 @@ These Terms and Conditions are not exclusive and must be accepted fully and in c
 Citizens For Heather Bagnall reserve the right to change these Terms and Conditions at any time and without notice.
 Any changes made will be posted online.
 If these Terms and Conditions and the Privacy Statement are not accepted in full, you do not have permission to access the contents of this website and therefore should cease using this website with immediate effect.
+CITIZENS FOR HEATHER BAGNALL – Copyright # © Back to Top Citizens For Heather Bagnall, 1521 Ritchie Highway, PO Box 129, Arnold, MD, 21012, United States +1 (443) 254-6729 Heather@HeatherBagnall.com BY AUTHORITY: CITIZENS FOR HEATHER BAGNALL.
+LUKE TUDBALL - TREASURER.
+COPYRIGHT © # SCHOLARSHIPS - EVENTS - CONTRIBUTE - CONTACT US - TERMS & CONDITIONS

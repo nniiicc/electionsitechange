@@ -1,10 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61558128721185",
-"https://johnhughesdistrict13.com/",
-"https://johnhughesdistrict13.com/about",
-"https://johnhughesdistrict13.com/donate",
-"https://johnhughesdistrict13.com/media",
-"https://johnhughesdistrict13.com/privacy-policy",
-"https://johnhughesdistrict13.com/terms",
-"https://johnhughesdistrict13.com/volunteer-contact"
+{
+"text": "About",
+"href": "https://www.johnhughesdistrict13.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://www.johnhughesdistrict13.com/donate/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/profile.php?id=61558128721185"
+},
+{
+"text": "Home",
+"href": "https://www.johnhughesdistrict13.com/"
+},
+{
+"text": "Media",
+"href": "https://www.johnhughesdistrict13.com/media/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.johnhughesdistrict13.com/privacy-policy"
+},
+{
+"text": "Terms",
+"href": "https://www.johnhughesdistrict13.com/terms"
+},
+{
+"text": "Volunteer / Contact",
+"href": "https://www.johnhughesdistrict13.com/volunteer-contact/"
+},
+{
+"text": "[image]",
+"href": "https://www.johnhughesdistrict13.com/"
+}
 ]

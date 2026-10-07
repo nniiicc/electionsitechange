@@ -1,61 +1,422 @@
 [
-"https://bsky.app/profile/mt4congress.bsky.social",
-"https://facebook.com/mikethompsonforcongress",
-"https://instagram.com/mikethompson4congress",
-"https://mikethompsonforcongress.com/",
-"https://mikethompsonforcongress.com/biography",
-"https://mikethompsonforcongress.com/donate",
-"https://mikethompsonforcongress.com/endorsements",
-"https://mikethompsonforcongress.com/events",
-"https://mikethompsonforcongress.com/fourth-district",
-"https://mikethompsonforcongress.com/issues",
-"https://mikethompsonforcongress.com/issues/bay-delta-conservation-plan",
-"https://mikethompsonforcongress.com/issues/fiscal-responsibility",
-"https://mikethompsonforcongress.com/issues/gun-violence-prevention",
-"https://mikethompsonforcongress.com/issues/health-care",
-"https://mikethompsonforcongress.com/issues/housing",
-"https://mikethompsonforcongress.com/issues/immigration",
-"https://mikethompsonforcongress.com/issues/jobs-and-economy",
-"https://mikethompsonforcongress.com/issues/seniors",
-"https://mikethompsonforcongress.com/news",
-"https://mikethompsonforcongress.com/news/congressman-mike-thompson-announces-participation-two-debates-cd-04",
-"https://mikethompsonforcongress.com/news/congressman-mike-thompson-meets-small-business-leaders-and-yuba-city-downtown-business",
-"https://mikethompsonforcongress.com/news/thompson-applauds-landmark-housing-bill-becoming-law-huge-first-step-tackling-our-housing",
-"https://mikethompsonforcongress.com/news/thompson-democratic-veterans-demand-transparency-iran-war-casualties",
-"https://mikethompsonforcongress.com/news/thompson-gallagher-announce-applications-are-open-peach-tree-removal-program-lawmakers-secured",
-"https://mikethompsonforcongress.com/news/thompson-honors-bernie-narvaez-2026-napa-county-american-dream-award-recipient",
-"https://mikethompsonforcongress.com/news/thompson-honors-dirk-slooten-2026-lake-county-american-dream-award-recipient",
-"https://mikethompsonforcongress.com/news/thompson-honors-grace-cheung-schulman-2026-sonoma-county-american-dream-award-recipient",
-"https://mikethompsonforcongress.com/news/thompson-honors-israel-joe-guzman-2026-solano-county-american-dream-award-recipient",
-"https://mikethompsonforcongress.com/news/thompson-honors-sylvina-frausto-2026-yolo-county-american-dream-award-recipient",
-"https://mikethompsonforcongress.com/news/thompson-host-press-conference-landmark-bill-bolster-cycling-safety-expand-access-bikes-0",
-"https://mikethompsonforcongress.com/news/thompson-hosts-ask-me-anything-town-hall-lincoln",
-"https://mikethompsonforcongress.com/news/thompson-issues-statement-ndaa-reconciliation-bill",
-"https://mikethompsonforcongress.com/news/thompson-matsui-bera-advance-affordable-housing-sacramento",
-"https://mikethompsonforcongress.com/news/thompson-pelosi-lofgren-host-press-conference-landmark-housing-bill",
-"https://mikethompsonforcongress.com/news/thompson-recognizes-lavender-growers-month",
-"https://mikethompsonforcongress.com/news/thompson-releases-statement-massie-amendment",
-"https://mikethompsonforcongress.com/news/thompson-releases-statement-republicans-continuing-resolution-underfunds-housing-utility-and",
-"https://mikethompsonforcongress.com/news/thompson-slams-presidents-reckless-misinformation-election-security",
-"https://mikethompsonforcongress.com/news/tomorrow-thompson-pelosi-lofgren-host-press-conference-landmark-housing-bill",
-"https://mikethompsonforcongress.com/news?page=0",
-"https://mikethompsonforcongress.com/news?page=1",
-"https://mikethompsonforcongress.com/news?page=2",
-"https://mikethompsonforcongress.com/news?page=3",
-"https://mikethompsonforcongress.com/news?page=4",
-"https://mikethompsonforcongress.com/news?page=5",
-"https://mikethompsonforcongress.com/news?page=56",
-"https://mikethompsonforcongress.com/news?page=6",
-"https://mikethompsonforcongress.com/news?page=7",
-"https://mikethompsonforcongress.com/news?page=8",
-"https://mikethompsonforcongress.com/privacy-policy",
-"https://mikethompsonforcongress.com/resources",
-"https://mikethompsonforcongress.com/subscribe",
-"https://mikethompsonforcongress.com/terms",
-"https://mikethompsonforcongress.com/volunteer",
-"https://mikethompsonforcongress.com/what-has-mike-thompson-accomplished",
-"https://threads.com/@mikethompson4congress",
-"https://tiktok.com/@mt4congress",
-"https://twitter.com/Mike_CA05",
-"https://youtube.com/@mikethompsonforcongress"
+{
+"text": "Bay Delta Conservation Plan",
+"href": "https://www.mikethompsonforcongress.com/issues/bay-delta-conservation-plan"
+},
+{
+"text": "Biography",
+"href": "https://www.mikethompsonforcongress.com/biography"
+},
+{
+"text": "California – Rep. Mike Thompson (CA-04) introduced a resolution to the U.S. House of Representatives recognizing June 15th to July 15th as Lavender Growers Month to encourage Americans to learn about, visit, and support lavender farms and businesses across the United States.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-recognizes-lavender-growers-month"
+},
+{
+"text": "Congressman Mike Thompson Announces Participation in Two Debates in CD-04",
+"href": "https://www.mikethompsonforcongress.com/news/congressman-mike-thompson-announces-participation-two-debates-cd-04"
+},
+{
+"text": "Congressman Mike Thompson Meets with Small Business Leaders and Yuba City Downtown Business Association",
+"href": "https://www.mikethompsonforcongress.com/news/congressman-mike-thompson-meets-small-business-leaders-and-yuba-city-downtown-business"
+},
+{
+"text": "Current page 2",
+"href": "https://www.mikethompsonforcongress.com/news?page=1"
+},
+{
+"text": "Davis, CA – On Wednesday, July 29th at 9am PT, Rep. Mike Thompson (CA-04) will host a press conference on his landmark new legislation, the America Bikes Act.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-press-conference-landmark-bill-bolster-cycling-safety-expand-access-bikes-0"
+},
+{
+"text": "Donate",
+"href": "https://www.mikethompsonforcongress.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mikethompsonforcongress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mikethompsonforcongress.com/events"
+},
+{
+"text": "First page « First",
+"href": "https://www.mikethompsonforcongress.com/news?page=0"
+},
+{
+"text": "Fiscal Responsibility",
+"href": "https://www.mikethompsonforcongress.com/issues/fiscal-responsibility"
+},
+{
+"text": "Fourth Congressional District",
+"href": "https://www.mikethompsonforcongress.com/fourth-district"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mikethompsonforcongress.com/volunteer"
+},
+{
+"text": "Gun Violence Prevention",
+"href": "https://www.mikethompsonforcongress.com/issues/gun-violence-prevention"
+},
+{
+"text": "Health Care",
+"href": "https://www.mikethompsonforcongress.com/issues/health-care"
+},
+{
+"text": "Housing",
+"href": "https://www.mikethompsonforcongress.com/issues/housing"
+},
+{
+"text": "Immigration",
+"href": "https://www.mikethompsonforcongress.com/issues/immigration"
+},
+{
+"text": "Issues",
+"href": "https://www.mikethompsonforcongress.com/issues"
+},
+{
+"text": "Jobs and the Economy",
+"href": "https://www.mikethompsonforcongress.com/issues/jobs-and-economy"
+},
+{
+"text": "Last page Last »",
+"href": "https://www.mikethompsonforcongress.com/news?page=56"
+},
+{
+"text": "Lincoln, CA – On Saturday, July 18th, Congressman Mike Thompson hosted an Ask Me Anything Town Hall in Lincoln. Congressman Thompson discussed with constituents issues that matter most to our district including bringing down costs, ensuring access to health care, fighting corruption, and protecting Social Security.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-hosts-ask-me-anything-town-hall-lincoln"
+},
+{
+"text": "Mike Thompson for Congress on Bluesky",
+"href": "https://bsky.app/profile/mt4congress.bsky.social"
+},
+{
+"text": "Mike Thompson for Congress on Facebook",
+"href": "https://www.facebook.com/mikethompsonforcongress"
+},
+{
+"text": "Mike Thompson for Congress on Instagram",
+"href": "https://www.instagram.com/mikethompson4congress/"
+},
+{
+"text": "Mike Thompson for Congress on Threads",
+"href": "https://www.threads.com/@mikethompson4congress"
+},
+{
+"text": "Mike Thompson for Congress on TikTok",
+"href": "https://www.tiktok.com/@mt4congress"
+},
+{
+"text": "Mike Thompson for Congress on X",
+"href": "https://twitter.com/Mike_CA05"
+},
+{
+"text": "Mike Thompson for Congress on Youtube",
+"href": "https://www.youtube.com/@mikethompsonforcongress"
+},
+{
+"text": "Napa, CA – Sunday, Rep. Mike Thompson (CA-04) recognized Bernie Narvaez as the 2026 American Dream Award recipient for Napa County.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-honors-bernie-narvaez-2026-napa-county-american-dream-award-recipient"
+},
+{
+"text": "Napa, CA – Sunday, Rep. Mike Thompson (CA-04) recognized Dirk Slooten as the 2026 American Dream Award recipient for Lake County. Thompson presents the American Dream Award to residents of California’s Fourth District who have come to the United States and made outstanding contributions to our communities.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-honors-dirk-slooten-2026-lake-county-american-dream-award-recipient"
+},
+{
+"text": "Napa, CA – Sunday, Rep. Mike Thompson (CA-04) recognized Grace Cheung-Schulman as the 2026 American Dream Award recipient for Sonoma County.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-honors-grace-cheung-schulman-2026-sonoma-county-american-dream-award-recipient"
+},
+{
+"text": "Napa, CA – Sunday, Rep. Mike Thompson (CA-04) recognized Israel “Joe” Guzman as the 2026 American Dream Award recipient for Solano County.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-honors-israel-joe-guzman-2026-solano-county-american-dream-award-recipient"
+},
+{
+"text": "Napa, CA – Sunday, Rep. Mike Thompson (CA-04) recognized Sylvina Frausto as the 2026 American Dream Award recipient for Yolo County.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-honors-sylvina-frausto-2026-yolo-county-american-dream-award-recipient"
+},
+{
+"text": "News",
+"href": "https://www.mikethompsonforcongress.com/news"
+},
+{
+"text": "Next page Next ›",
+"href": "https://www.mikethompsonforcongress.com/news?page=2"
+},
+{
+"text": "Northern California – Today, Representatives Mike Thompson (CA-04) and James Gallagher (CA-01) announced the opening of applications for the USDA Tree Removal Program for California cling peaches. Thompson and Gallagher worked with local leaders in April to secure up to $9 million in federal funding for the removal project.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-gallagher-announce-applications-are-open-peach-tree-removal-program-lawmakers-secured"
+},
+{
+"text": "One debate will be held in the new portion of the district added post-Prop 50 and one in the portion Thompson currently represents.",
+"href": "https://www.mikethompsonforcongress.com/news/congressman-mike-thompson-announces-participation-two-debates-cd-04"
+},
+{
+"text": "Page 1",
+"href": "https://www.mikethompsonforcongress.com/news?page=0"
+},
+{
+"text": "Page 3",
+"href": "https://www.mikethompsonforcongress.com/news?page=2"
+},
+{
+"text": "Page 4",
+"href": "https://www.mikethompsonforcongress.com/news?page=3"
+},
+{
+"text": "Page 5",
+"href": "https://www.mikethompsonforcongress.com/news?page=4"
+},
+{
+"text": "Page 6",
+"href": "https://www.mikethompsonforcongress.com/news?page=5"
+},
+{
+"text": "Page 7",
+"href": "https://www.mikethompsonforcongress.com/news?page=6"
+},
+{
+"text": "Page 8",
+"href": "https://www.mikethompsonforcongress.com/news?page=7"
+},
+{
+"text": "Page 9",
+"href": "https://www.mikethompsonforcongress.com/news?page=8"
+},
+{
+"text": "Previous page ‹ Previous",
+"href": "https://www.mikethompsonforcongress.com/news?page=0"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mikethompsonforcongress.com/privacy-policy"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/congressman-mike-thompson-announces-participation-two-debates-cd-04"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/congressman-mike-thompson-meets-small-business-leaders-and-yuba-city-downtown-business"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-applauds-landmark-housing-bill-becoming-law-huge-first-step-tackling-our-housing"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-democratic-veterans-demand-transparency-iran-war-casualties"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-gallagher-announce-applications-are-open-peach-tree-removal-program-lawmakers-secured"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-honors-bernie-narvaez-2026-napa-county-american-dream-award-recipient"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-honors-dirk-slooten-2026-lake-county-american-dream-award-recipient"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-honors-grace-cheung-schulman-2026-sonoma-county-american-dream-award-recipient"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-honors-israel-joe-guzman-2026-solano-county-american-dream-award-recipient"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-honors-sylvina-frausto-2026-yolo-county-american-dream-award-recipient"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-press-conference-landmark-bill-bolster-cycling-safety-expand-access-bikes-0"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-hosts-ask-me-anything-town-hall-lincoln"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-issues-statement-ndaa-reconciliation-bill"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-matsui-bera-advance-affordable-housing-sacramento"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-pelosi-lofgren-host-press-conference-landmark-housing-bill"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-recognizes-lavender-growers-month"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-releases-statement-massie-amendment"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-releases-statement-republicans-continuing-resolution-underfunds-housing-utility-and"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-slams-presidents-reckless-misinformation-election-security"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/tomorrow-thompson-pelosi-lofgren-host-press-conference-landmark-housing-bill"
+},
+{
+"text": "Resources",
+"href": "https://www.mikethompsonforcongress.com/resources"
+},
+{
+"text": "Sacramento, CA – Tomorrow, August 3 at 9 am PT, Representatives Doris Matsui (CA-07), Mike Thompson (CA-04), Ami Bera (CA-06), and local Sacramento leaders will hold a press conference to discuss how the recently enacted 21st Century ROAD to Housing Act will help Sacramento preserve affordable housing, modernize aging properties, and move more local projects forward.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-matsui-bera-advance-affordable-housing-sacramento"
+},
+{
+"text": "San Francisco, CA – On Friday, July 31st at 10am PT, Rep. Mike Thompson (CA-04), Speaker Emerita Nancy Pelosi, and Rep. Zoe Lofgren (CA-18) will hold a press conference highlighting the enactment of the bipartisan 21st Century ROAD to Housing Act.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-pelosi-lofgren-host-press-conference-landmark-housing-bill"
+},
+{
+"text": "San Francisco, CA – On Friday, July 31st at 10am PT, Rep. Mike Thompson (CA-04), Speaker Emerita Nancy Pelosi, and Rep. Zoe Lofgren (CA-18) will hold a press conference highlighting the enactment of the bipartisan 21st Century ROAD to Housing Act.",
+"href": "https://www.mikethompsonforcongress.com/news/tomorrow-thompson-pelosi-lofgren-host-press-conference-landmark-housing-bill"
+},
+{
+"text": "Seniors",
+"href": "https://www.mikethompsonforcongress.com/issues/seniors"
+},
+{
+"text": "Subscribe",
+"href": "https://www.mikethompsonforcongress.com/subscribe"
+},
+{
+"text": "THOMPSON, PELOSI, LOFGREN TO HOST PRESS CONFERENCE ON LANDMARK HOUSING BILL",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-pelosi-lofgren-host-press-conference-landmark-housing-bill"
+},
+{
+"text": "TOMORROW: THOMPSON, PELOSI, LOFGREN TO HOST PRESS CONFERENCE ON LANDMARK HOUSING BILL",
+"href": "https://www.mikethompsonforcongress.com/news/tomorrow-thompson-pelosi-lofgren-host-press-conference-landmark-housing-bill"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.mikethompsonforcongress.com/terms"
+},
+{
+"text": "Thompson Applauds Landmark Housing Bill Becoming Law: \"Huge First Step in Tackling our Housing Crisis\"",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-applauds-landmark-housing-bill-becoming-law-huge-first-step-tackling-our-housing"
+},
+{
+"text": "Thompson Honors Bernie Narvaez as the 2026 Napa County American Dream Award Recipient",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-honors-bernie-narvaez-2026-napa-county-american-dream-award-recipient"
+},
+{
+"text": "Thompson Honors Dirk Slooten as the 2026 Lake County American Dream Award Recipient",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-honors-dirk-slooten-2026-lake-county-american-dream-award-recipient"
+},
+{
+"text": "Thompson Honors Grace Cheung-Schulman as the 2026 Sonoma County American Dream Award Recipient",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-honors-grace-cheung-schulman-2026-sonoma-county-american-dream-award-recipient"
+},
+{
+"text": "Thompson Honors Israel \"Joe\" Guzman as the 2026 Solano County American Dream Award Recipient",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-honors-israel-joe-guzman-2026-solano-county-american-dream-award-recipient"
+},
+{
+"text": "Thompson Honors Sylvina Frausto as the 2026 Yolo County American Dream Award Recipient",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-honors-sylvina-frausto-2026-yolo-county-american-dream-award-recipient"
+},
+{
+"text": "Thompson Hosts Ask Me Anything Town Hall in Lincoln",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-hosts-ask-me-anything-town-hall-lincoln"
+},
+{
+"text": "Thompson Issues Statement on NDAA, Reconciliation Bill",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-issues-statement-ndaa-reconciliation-bill"
+},
+{
+"text": "Thompson Recognizes Lavender Growers Month",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-recognizes-lavender-growers-month"
+},
+{
+"text": "Thompson Releases Statement on Massie Amendment",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-releases-statement-massie-amendment"
+},
+{
+"text": "Thompson Releases Statement on Republicans' Continuing Resolution that Underfunds Housing, Utility, and Fire Suppression Funding",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-releases-statement-republicans-continuing-resolution-underfunds-housing-utility-and"
+},
+{
+"text": "Thompson Slams President's Reckless Misinformation on Election Security",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-slams-presidents-reckless-misinformation-election-security"
+},
+{
+"text": "Thompson to Host Press Conference on Landmark Bill to Bolster Cycling Safety, Expand Access to Bikes",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-press-conference-landmark-bill-bolster-cycling-safety-expand-access-bikes-0"
+},
+{
+"text": "Thompson voted \"Yes\" on the historic, bipartisan bill to expand housing across the U.S.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-applauds-landmark-housing-bill-becoming-law-huge-first-step-tackling-our-housing"
+},
+{
+"text": "Thompson, Democratic Veterans Demand Transparency on Iran War Casualties",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-democratic-veterans-demand-transparency-iran-war-casualties"
+},
+{
+"text": "Thompson, Gallagher Announce Applications are Open for Peach Tree Removal Program Lawmakers secured the $9 million needed to fund the USDA program",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-gallagher-announce-applications-are-open-peach-tree-removal-program-lawmakers-secured"
+},
+{
+"text": "Thompson, Matsui, Bera to Advance Affordable Housing in Sacramento",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-matsui-bera-advance-affordable-housing-sacramento"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mikethompsonforcongress.com/volunteer"
+},
+{
+"text": "Washington, D.C. – Following disturbing reports that the Department of Defense removed the names of four American troops from the official Iran War death toll, Rep. Mike Thompson (CA-04) led 14 fellow Democratic veterans in urging the Administration to accurately and transparently account for U.S. servicemembers killed and wounded in the Iran war.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-democratic-veterans-demand-transparency-iran-war-casualties"
+},
+{
+"text": "Washington, D.C. – Rep. Mike Thompson (CA-04) released the following statement after voting “present” on far-right extremist Rep. Thomas Massie’s amendment to the National Security, Department of State and Related Programs Appropriations Act.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-releases-statement-massie-amendment"
+},
+{
+"text": "Washington, D.C. – Rep. Mike Thompson (CA-04) released the following statement in response to House Republicans’ vote to extend government funding through December 4.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-releases-statement-republicans-continuing-resolution-underfunds-housing-utility-and"
+},
+{
+"text": "Washington, D.C. – Rep. Mike Thompson (CA-04) released the following statement in response to the President's address to the nation tonight questioning the integrity of the United States' elections.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-slams-presidents-reckless-misinformation-election-security"
+},
+{
+"text": "Washington, D.C. – Today, Rep. Mike Thompson (CA-04) released the following statement after voting “No” on Congressional Republicans’ defense authorization bill and Congressional Republicans’ $95 billion funding package.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-issues-statement-ndaa-reconciliation-bill"
+},
+{
+"text": "What has Mike Thompson Accomplished?",
+"href": "https://www.mikethompsonforcongress.com/what-has-mike-thompson-accomplished"
+},
+{
+"text": "YUBA CITY, CA – Last week, Congressman Mike Thompson visited with local leaders, members of the small business community, and the Yuba City Downtown Business Association to learn more about pressing issues facing small business owners. Thompson met with a group of 15 leaders at Sopa Thai on Plumas Street.",
+"href": "https://www.mikethompsonforcongress.com/news/congressman-mike-thompson-meets-small-business-leaders-and-yuba-city-downtown-business"
+},
+{
+"text": "[image: Home]",
+"href": "https://www.mikethompsonforcongress.com/"
+},
+{
+"text": "info@mikethompsonforcongress.com",
+"href": "mailto:info@mikethompsonforcongress.com"
+},
+{
+"text": "press@mikethompsonforcongress.com",
+"href": "mailto:press@mikethompsonforcongress.com"
+}
 ]

@@ -1,4 +1,7 @@
-More than 2 million refugees have fled Ukraine since Russia’s military occupation.
+Support Rashida Tlaib for U.S.
+Congress We need Rashida’s bold, transformative leadership in Congress.
+Can you chip in to keep her in office fighting for us? $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Close Facebook Instagram Youtube Twitter Threads Rashida Tlaib for Congress – Rooted in Community Menu Meet Rashida Rashida’s Receipts Results for District Legislation for All Priority issues Community funding Vote in MI primary How to vote Endorsements Rashida’s choices Get involved Get endorsed Resources Store Donate Blog Trapped in Ukraine because of skin color March 11, 2022 Share on Facebook Share on Twitter Back to News More than 2 million refugees have fled Ukraine since Russia’s military occupation.
 Those still in the country are facing increased airstrikes—including bombings of places like maternity hospitals.
 Many are still undergoing treacherous journeys to escape the violence.
 This is devastating and heartbreaking.
@@ -10,8 +13,7 @@ African students have described arriving at the border on buses only to hear fro
 They, along with others arriving on foot, have been separated into two lines: one for white Ukrainians, and one for Black and brown people, many of whom are visitors or students.
 After thousands waited for days while watching white people get through quickly, some people began protesting, at which point police turned their guns on the group and said that they would shoot.
 One Black man described pleading with the officers, telling them: “We are students, we just want to go home.” He did end up making it to Poland, where in an interview he teared up while saying: “I was expecting people at wartime to be more compassionate.
-I wasn’t expecting them to do such things.”
-Unfortunately, this disparate treatment of people of color is not new.
+I wasn’t expecting them to do such things.” Unfortunately, this disparate treatment of people of color is not new.
 As a neighbor in a predominantly Black city, and as a Palestinian American, I am deeply familiar with systemic racism and oppression, including segregation.
 As we know, the United States treats refugees very differently based on their race.
 In the past year, the Biden administration has deported more than 20,000 Black Haitian refugees.
@@ -19,22 +21,16 @@ Our immigration system has also recently subjected Black Cameroonian refugees to
 Now, European countries—which have demonized and closed their borders to refugees from the Middle East and Africa—are now mobilizing to fast-track asylum applications.
 The EU announced that it will offer temporary residency for Ukrainian citizens for up to three years.
 Of course, this support for Ukrainian refugees is wonderful and much-needed.
-We’re seeing that this humanitarian response is possible—and it should be replicated for everyone fleeing war.
+We’re seeing that this humanitarian response is possible— and it should be replicated for everyone fleeing war.
 All refugees should be welcomed into safe places, rather than vilified.
 Blatantly racist media coverage of the war and refugees has clearly shown how Black and brown people are deemed less worthy of support and even of living.
-For example:
-- A CBS News reporter described white Ukrainian refugees as more “civilized” than Arab refugees.
-- The BBC featured someone who said: “It’s very emotional for me because I see European people with blue eyes and blond hair … being killed.”
-- A Telegraph reporter in the UK wrote: “They seem so like us.
-That is what makes it so shocking.”
-- An NBC News correspondent said: “These are not refugees from Syria, these are refugees from Ukraine… They’re Christian, they’re white, they’re very similar.”
-- Even a commentator on Al Jazeera said: “These are prosperous, middle-class people.
+For example: A CBS News reporter described white Ukrainian refugees as more “civilized” than Arab refugees.
+The BBC featured someone who said: “It’s very emotional for me because I see European people with blue eyes and blond hair … being killed.” A Telegraph reporter in the UK wrote: “They seem so like us.
+That is what makes it so shocking.” An NBC News correspondent said: “These are not refugees from Syria, these are refugees from Ukraine… They’re Christian, they’re white, they’re very similar.” Even a commentator on Al Jazeera said: “These are prosperous, middle-class people.
 These are not, obviously, refugees trying to get away from areas in the Middle East that are still in a big state of war.
 These are not people trying to get away from areas in north Africa.
-They look like any European family that you would live next door to.”
-- The Bulgarian Prime Minister said: “These are not the refugees we are used to … these people are European.
-These people are intelligent, they are educated people.”
-These are all examples of dehumanizing racism, implying that Arabs, Africans, and non-Christians are inferior—and that their lives matter less than those of white people.
+They look like any European family that you would live next door to.” The Bulgarian Prime Minister said: “These are not the refugees we are used to … these people are European.
+These people are intelligent, they are educated people.” These are all examples of dehumanizing racism, implying that Arabs, Africans, and non-Christians are inferior—and that their lives matter less than those of white people.
 Of course these bigoted assumptions about worthiness, as well as education and intelligence, are wrong.
 But these ideas have been underpinning white supremacy, white colonialism, and white imperialism for centuries.
 We’re hearing unmistakeable beliefs that white people are more human and more deserving of life.
@@ -49,5 +45,9 @@ We are all human beings, interconnected in so many ways.
 We all deserve to live free from persecution and to safely be our authentic selves.
 This moment is showing us how far we still need to go for that to be a reality.
 So let’s continue our work of building global solidarity for and among all people.
-With love,
-Rashida
+With love, Rashida Share on Facebook Share on Twitter More News Blog We just launched our 2026 re-election campaign January 28, 2026 Blog Resources to defend your neighbors from fascism September 16, 2025 Blog Rashida Roundup: Updates from the past month in Congress July 1, 2023 Blog Rep.
+Rashida Tlaib Re-Elected to Represent Michigan’s New 12th Congressional District in Resounding Win November 10, 2022 Join Our Campaign Sign up for email updates so you can stay in the loop.
+Chip In Rashida does not take any money from corporate PACs.
+Every donation makes a big difference. $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Rashida Tlaib for Congress – Rooted in Community Meet Rashida Results for District Legislation for All Rashida’s Top Priorities Vote in MI primary Resources Follow Us Facebook Instagram Youtube Twitter Threads Donate by Mail Rashida Tlaib for Congress P.O.
+Box 32777 Detroit, MI 48232 Paid for by Rashida Tlaib for Congress Contact Privacy Policy Terms of Service Made with Middle Seat

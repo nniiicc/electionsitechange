@@ -1,7 +1,9 @@
 {
  "description": "Support the Campaign",
  "final_url": "https://www.vanburen4wi.com/donate",
- "paid_for_by": null,
+ "fingerprint": "13b6ccdc2ae3653a28b6bf0c825c5b467ad2711b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "DONATE",
  "years_mentioned": []
 }

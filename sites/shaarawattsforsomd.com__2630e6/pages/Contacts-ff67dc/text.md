@@ -1,10 +1,2 @@
-District 29C · Southern Maryland
-info@shaarawattsforsomd.com
-or use our contact form
-Shaara Watts for SoMd
-P.O.
-Box 82
-Lusby, Maryland, USA
-Phone:
-(410) 610-2577
-info@shaarawattsforsomd.com
+Shaara Watts for State Delegate 29C  District 29C · Southern Maryland  info@shaarawattsforsomd.com or use our contact form Home About me Issues Donate Contacts Shaara Watts Democrat for State Delegate District 29C Contact the Campaign  Shaara Watts for SoMd P.O.
+Box 82 Lusby, Maryland, USA  Phone: (410) 610-2577  info@shaarawattsforsomd.com     Paid for by Shaara Watts for Southern Maryland, TK Watts, Treasurer Get in touch Southern Maryland District 29C Maryland, USA Phone: (410) 610-2577 Email: info@shaarawattsforsomd.com Listed on © # shaarawattsforsomd.com

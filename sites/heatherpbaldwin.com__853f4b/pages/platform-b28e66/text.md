@@ -1,18 +1,2 @@
-top of page
-DONATE
-HOME
-MEET HEATHER
-ON THE ISSUES
-ENDORSEMENTS
-GET INVOLVED
-More
-Use tab to navigate through the menu items.
-On The Issues
-Strong Public School System
-Protecting Natural Resources
-Affordable Housing
-Elderly Services
-Affordable Healthcare
-Fighting High Property Taxes
-Respectful Political Discourse
-bottom of page
+top of page DONATE HOME MEET HEATHER ON THE ISSUES ENDORSEMENTS GET INVOLVED More Use tab to navigate through the menu items.
+On The Issues Strong Public School System ​ Protecting Natural Resources Affordable Housing Elderly Services Affordable Healthcare Fighting High Property Taxes Respectful Political Discourse HOME MEET HEATHER ON THE ISSUES ENDORSEMENTS GET INVOLVED More Use tab to navigate through the menu items. bottom of page

@@ -1,9 +1,12 @@
 {
  "description": "Stay up to date with the latest happening at the campaign and at the Capitol.",
  "final_url": "https://www.johnmarty.org/news",
+ "fingerprint": "cad0a5c75ed0e0a9e0ab21fd4a3e9a1310d4bf37",
+ "format": 3,
  "paid_for_by": "Paid for by the Senator John Marty Volunteer Committee",
  "title": "News | John Marty for Senate",
  "years_mentioned": [
-  "2021"
+  "2021",
+  "2022"
  ]
 }

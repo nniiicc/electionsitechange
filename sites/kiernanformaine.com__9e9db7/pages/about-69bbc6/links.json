@@ -1,13 +1,62 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/kiernanmc",
-"https://instagram.com/thekiernanmc",
-"https://kiernanformaine.com/",
-"https://kiernanformaine.com/contact",
-"https://kiernanformaine.com/endorsements",
-"https://kiernanformaine.com/issues",
-"https://kiernanformaine.com/privacy-policy",
-"https://kiernanformaine.com/terms-conditions",
-"https://secure.actblue.com/donate/kiernan2026",
-"https://x.com/thekiernanmc"
+{
+"text": "Contact",
+"href": "https://www.kiernanformaine.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kiernan2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kiernanformaine.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.kiernanformaine.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kiernanformaine.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.kiernanformaine.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kiernanformaine.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.kiernanformaine.com/terms-conditions"
+},
+{
+"text": "[image: Kiernan for Maine logo]",
+"href": "https://www.kiernanformaine.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.kiernanformaine.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/kiernanmc"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/thekiernanmc/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/thekiernanmc"
+},
+{
+"text": "kiernan@kiernanformaine.com",
+"href": "mailto:kiernan@kiernanformaine.com"
+}
 ]

@@ -1,10 +1,14 @@
 {
  "description": "Vote for Dan Johnson, your State Representative for District 12 in Upcountry Maui. Vote for common sense, community, and a strong future for Maui families.",
  "final_url": "https://danjohnsonhi.com/",
- "paid_for_by": "paid for by: Friends of Dan Johnson PO Box 880305, Pukalani HI 96788 Copyright \u00a9 2026 Dan Johnson for State Representative - All Rights Reserved",
+ "fingerprint": "806a4a6d8244debf13beef573237f55b3247f299",
+ "format": 3,
+ "paid_for_by": "paid for by: Friends of Dan Johnson PO Box 880305, Pukalani HI 96788 Copyright © # Dan Johnson for State Representative - All Rights Reserved",
  "title": "Dan Johnson for State Representative",
  "years_mentioned": [
   "2020",
-  "2025"
+  "2025",
+  "2026",
+  "2030"
  ]
 }

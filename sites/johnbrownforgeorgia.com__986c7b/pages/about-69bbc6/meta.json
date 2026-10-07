@@ -1,11 +1,15 @@
 {
  "description": "",
  "final_url": "https://www.johnbrownforgeorgia.com/about",
- "paid_for_by": null,
- "title": "About \u2014 John Brown for Georgia 2026",
+ "fingerprint": "18ae09072c27013213a23deb78ffe32f0a6cea73",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "About — John Brown for Georgia 2026",
  "years_mentioned": [
+  "1991",
   "2014",
   "2016",
-  "2017"
+  "2017",
+  "2026"
  ]
 }

@@ -1,25 +1,126 @@
 [
-"https://apps.sos.wv.gov/Elections/voter/FindMyPollingPlace",
-"https://facebook.com/ronniewoakley",
-"https://instagram.com/ronnieoakleywv",
-"https://ovr.sos.wv.gov/Register/Landing",
-"https://ronnieoakley.us/",
-"https://ronnieoakley.us/campaign-supply-board",
-"https://ronnieoakley.us/contact",
-"https://ronnieoakley.us/district-39",
-"https://ronnieoakley.us/donate",
-"https://ronnieoakley.us/get-involved",
-"https://ronnieoakley.us/getting-to-know-west-virginia-house-district-39",
-"https://ronnieoakley.us/issues-priorities",
-"https://ronnieoakley.us/meet-ronnie",
-"https://ronnieoakley.us/news",
-"https://ronnieoakley.us/privacy-policy",
-"https://ronnieoakley.us/why-cps-reform-and-family-accountability-matter",
-"https://ronnieoakley.us/why-im-running",
-"https://ronnieoakley.us/why-ronnie-oakley-is-running-for-house-district-39",
-"https://sos.wv.gov/govotewv",
-"https://threads.com/@ronnieoakleywv",
-"https://tiktok.com/@ronnieoakleywv",
-"https://x.com/RonnieOakleyWV",
-"https://youtube.com/@RonnieOakleyWV"
+{
+"text": "CHECK MY REGISTRATION",
+"href": "https://apps.sos.wv.gov/Elections/voter/FindMyPollingPlace"
+},
+{
+"text": "Campaign Supply Board",
+"href": "https://ronnieoakley.us/campaign-supply-board/"
+},
+{
+"text": "Contact",
+"href": "https://ronnieoakley.us/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://ronnieoakley.us/donate/"
+},
+{
+"text": "DONATE TO THE CAMPAIGN",
+"href": "https://ronnieoakley.us/donate/"
+},
+{
+"text": "District 39",
+"href": "https://ronnieoakley.us/district-39/"
+},
+{
+"text": "EXPLORE DISTRICT 39",
+"href": "https://ronnieoakley.us/district-39/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ronniewoakley"
+},
+{
+"text": "Get Involved",
+"href": "https://ronnieoakley.us/get-involved/"
+},
+{
+"text": "Getting to Know West Virginia House District 39",
+"href": "https://ronnieoakley.us/getting-to-know-west-virginia-house-district-39/"
+},
+{
+"text": "Home",
+"href": "https://ronnieoakley.us/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ronnieoakleywv/"
+},
+{
+"text": "Issues & Priorities",
+"href": "https://ronnieoakley.us/issues-priorities/"
+},
+{
+"text": "JOIN THE CAMPAIGN",
+"href": "https://ronnieoakley.us/get-involved/"
+},
+{
+"text": "LEARN MORE ABOUT RONNIE",
+"href": "https://ronnieoakley.us/meet-ronnie/"
+},
+{
+"text": "Meet Ronnie",
+"href": "https://ronnieoakley.us/meet-ronnie/"
+},
+{
+"text": "News",
+"href": "https://ronnieoakley.us/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ronnieoakley.us/privacy-policy/"
+},
+{
+"text": "REGISTER OR UPDATE",
+"href": "https://ovr.sos.wv.gov/Register/Landing"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@ronnieoakleywv"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@ronnieoakleywv"
+},
+{
+"text": "VIEW ALL ISSUES & PRIORITIES",
+"href": "https://ronnieoakley.us/issues-priorities/"
+},
+{
+"text": "VIEW ALL NEWS",
+"href": "https://ronnieoakley.us/news/"
+},
+{
+"text": "VIEW CAMPAIGN SUPPLY BOARD",
+"href": "https://ronnieoakley.us/campaign-supply-board/"
+},
+{
+"text": "VIEW WV VOTER INFO",
+"href": "https://sos.wv.gov/govotewv"
+},
+{
+"text": "Why CPS Reform and Family Accountability Matter",
+"href": "https://ronnieoakley.us/why-cps-reform-and-family-accountability-matter/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://ronnieoakley.us/why-im-running/"
+},
+{
+"text": "Why Ronnie Oakley Is Running for House District 39",
+"href": "https://ronnieoakley.us/why-ronnie-oakley-is-running-for-house-district-39/"
+},
+{
+"text": "X",
+"href": "https://x.com/RonnieOakleyWV"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@RonnieOakleyWV"
+},
+{
+"text": "[image: Ronnie Oakley for District 39]",
+"href": "https://ronnieoakley.us/"
+}
 ]

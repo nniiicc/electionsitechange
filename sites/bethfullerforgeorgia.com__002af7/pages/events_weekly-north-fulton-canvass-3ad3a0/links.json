@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=North+Fulton+Weekly+Canvass+with+Indivisible+North+Metro+Atlanta&dates=20260912T160000Z%2F20260912T180000Z",
-"https://bethfullerforgeorgia.com/",
-"https://bethfullerforgeorgia.com/articles",
-"https://bethfullerforgeorgia.com/cart",
-"https://bethfullerforgeorgia.com/endorsements",
-"https://bethfullerforgeorgia.com/events",
-"https://bethfullerforgeorgia.com/events/beth-fuller-fundraiser",
-"https://bethfullerforgeorgia.com/events/canvass-in-sandy-springs-senator-rashaun-kemp-beth-fuller",
-"https://bethfullerforgeorgia.com/events/weekly-north-fulton-canvass?format=ical",
-"https://bethfullerforgeorgia.com/events?tag=Canvassing",
-"https://bethfullerforgeorgia.com/get-involved",
-"https://bethfullerforgeorgia.com/meet-beth",
-"https://bethfullerforgeorgia.com/policy-priorities",
-"https://facebook.com/profile.php?id=61584803198605",
-"https://instagram.com/bethfuller4ga",
-"https://mobilize.us/bethfullerforgeorgia/event/1028351",
-"https://secure.actblue.com/donate/elizabeth-fuller-1"
+{
+"text": "0",
+"href": "https://www.bethfullerforgeorgia.com/cart"
+},
+{
+"text": "Articles",
+"href": "https://www.bethfullerforgeorgia.com/articles"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Canvassing",
+"href": "https://www.bethfullerforgeorgia.com/events?tag=Canvassing"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/elizabeth-fuller-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bethfullerforgeorgia.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bethfullerforgeorgia.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=North+Fulton+Weekly+Canvass+with+Indivisible+North+Metro+Atlanta&dates=20260912T160000Z%2F20260912T180000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/weekly-north-fulton-canvass?format=ical"
+},
+{
+"text": "Meet Beth",
+"href": "https://www.bethfullerforgeorgia.com/meet-beth"
+},
+{
+"text": "Next Next September 12 Beth Fuller Fundraiser",
+"href": "https://www.bethfullerforgeorgia.com/events/beth-fuller-fundraiser"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.bethfullerforgeorgia.com/policy-priorities"
+},
+{
+"text": "Previous Previous September 12 Canvass in Sandy Springs - Senator RaShaun Kemp & Beth Fuller!",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-in-sandy-springs-senator-rashaun-kemp-beth-fuller"
+},
+{
+"text": "[image: Beth Fuller for Georgia | District 53 State House]",
+"href": "https://www.bethfullerforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584803198605"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bethfuller4ga/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@bethfullerforgeorgia.com"
+},
+{
+"text": "https://www.mobilize.us/bethfullerforgeorgia/event/1028351",
+"href": "https://www.mobilize.us/bethfullerforgeorgia/event/1028351"
+}
 ]

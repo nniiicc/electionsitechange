@@ -1,7 +1,4 @@
-A Letter to the Editor-Anne Thurlow
-Updated: Sep 28
-To the Editor:
-When choosing a State Representative, voters should look beyond party labels and social media presence and pay close attention to the candidate’s judgment, temperament, experience, and approach to the issues that affect our communities.
+top of page Home Meet Anne News Contact Photos Get Involved All Posts Search A Letter to the Editor-Anne Thurlow Sep 9 1 min read Updated: Sep 28 To the Editor: When choosing a State Representative, voters should look beyond party labels and social media presence and pay close attention to the candidate’s judgment, temperament, experience, and approach to the issues that affect our communities.
 Anne Santoro deserves serious consideration for State Representative.
 Anne may not ride a bicycle around town or post multiple selfies on social media every day, but that does not mean she is not engaged.
 Quite the opposite.
@@ -16,6 +13,9 @@ Decisions that directly affect our community should not be imposed through one-s
 Nick Menapace supported House Bills 7033 and 5260, which would have allowed the homeless to sleep overnight on our town beaches.
 I look forward to hearing Anne and Nick discuss pertinent issues in a public debate.
 Voters deserve to hear them answer questions and explain their positions.
-Regardless of the national political climate, this local election is about who is best prepared to represent the 37th District thoughtfully, responsibly, and independently.
+Regardless of the national political climate, this local election is about who is best prepared to represent the 37 th District thoughtfully, responsibly, and independently.
 I believe Anne Santoro is that person.
-Anne Thurlow East Lyme, CT (Thurlow serves as chair of East Lyme Zoning Commission) in the CT Examiner
+Anne Thurlow East Lyme, CT ( Thurlow serves as chair of East Lyme Zoning Commission) in the CT Examiner Stay Connected, Hear from Anne on the Campaign Trail Email * Yes, subscribe me to your newsletter.
+Submit Paid for by Anne Santoro for the 37th.
+Daniel Ruppenicker, Treasurer.
+Approved by Anne Santoro bottom of page

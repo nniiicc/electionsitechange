@@ -1,20 +1,7 @@
-The Cost Of War
-War isn't just a tragedy; it is a theft.
+0 Skip to Content Home Platform Blog Contact Donate Now Open Menu Close Menu Home Platform Blog Contact Donate Now Open Menu Close Menu Home Platform Blog Contact Donate Now The Cost Of War Mar 19 Written By Michael Clarkson War isn't just a tragedy; it is a theft.
 To date, the conflict in Iran has drained $17 billion from U.S. taxpayers, with a staggering $200 billion more on the horizon.
 This isn't just a line item—it’s a moral deficit.
-The Human Toll
-The cost of this conflict is written in blood, suffering, and destruction:
-- 4,500+ lives lost, including at least 14 U.S. service members
-- Those service members who make it back are forever scarred, often invisibly
-- Hundreds of thousands of civilians driven from their homes
-- An untold number of families shattered in ways we can't quantify
-The Opportunity Cost
-For the price of this war, we could fundamentally rewrite the American story.
-We aren't just choosing war; we are choosing not to:
-- End hunger
-- House every homeless veteran
-- Fund the VA at 100% for every veteran, for the rest of their lives
-- Pay those who teach our children a living wage
-- Rebuild our failing infrastructure
-We are sacrificing our heroes and our treasure to fund suffering and destruction.
+The Human Toll The cost of this conflict is written in blood, suffering, and destruction: 4,500+ lives lost, including at least 14 U.S. service members Those service members who make it back are forever scarred, often invisibly Hundreds of thousands of civilians driven from their homes An untold number of families shattered in ways we can't quantify The Opportunity Cost For the price of this war, we could fundamentally rewrite the American story.
+We aren't just choosing war; we are choosing not to: End hunger House every homeless veteran Fund the VA at 100% for every veteran, for the rest of their lives Pay those who teach our children a living wage Rebuild our failing infrastructure We are sacrificing our heroes and our treasure to fund suffering and destruction.
 It is time to stop paying for a crime and start investing in our people.
+Michael Clarkson Previous Previous Women are right to choose the bear Next Next Putting the choice in pro-choice © Mike For 45 Campaign, 2026 campaign@mikefor45.com

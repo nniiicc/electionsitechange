@@ -1,26 +1,126 @@
 [
-"https://eac.gov/voters/national-mail-voter-registration-form",
-"https://facebook.com/HarlanVincentforNewMexico",
-"https://fs.usda.gov/lincoln",
-"https://harlanvincentfornm.com/about.php",
-"https://harlanvincentfornm.com/contact.php",
-"https://harlanvincentfornm.com/endorsements.php",
-"https://harlanvincentfornm.com/events.php",
-"https://harlanvincentfornm.com/index.php",
-"https://harlanvincentfornm.com/issues.php",
-"https://harlanvincentfornm.com/media.php",
-"https://harlanvincentfornm.com/volunteer.php",
-"https://harlanvincentfornm.com/vote.php",
-"https://harlanvincentfornm.com/www.southwestmis.com",
-"https://innofthemountaingods.com/",
-"https://instagram.com/harlanvincentfornm",
-"https://mescaleroapachetribe.com/",
-"https://portal.sos.state.nm.us/OVR/WebPages/AbsenteeApplication.aspx?type=RA",
-"https://portal.sos.state.nm.us/OVR/WebPages/InstructionsStep1.aspx?AspxAutoDetectCookieSupport=1",
-"https://raceruidoso.com/",
-"https://secure.winred.com/committee-to-elect-harlan-vincent/donate",
-"https://skiapache.com/",
-"https://skicloudcroft.net/",
-"https://sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq",
-"https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx"
+{
+"text": "575-437-4942",
+"href": "tel:575-437-4942"
+},
+{
+"text": "575-648-2394",
+"href": "tel:575-648-2394"
+},
+{
+"text": "575-937-1474",
+"href": "tel:5759371474"
+},
+{
+"text": "Absentee Ballot Application here.",
+"href": "https://portal.sos.state.nm.us/OVR/WebPages/AbsenteeApplication.aspx?type=RA"
+},
+{
+"text": "Contact",
+"href": "https://harlanvincentfornm.com/contact.php"
+},
+{
+"text": "Contact Harlan",
+"href": "https://harlanvincentfornm.com/contact.php"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/committee-to-elect-harlan-vincent/donate"
+},
+{
+"text": "Events",
+"href": "https://harlanvincentfornm.com/events.php"
+},
+{
+"text": "HARLAN VINCENT State Representative District 56 Lincoln and Otero Counties",
+"href": "https://harlanvincentfornm.com/index.php"
+},
+{
+"text": "Home",
+"href": "https://harlanvincentfornm.com/index.php"
+},
+{
+"text": "Inn of the Mountain Gods",
+"href": "https://innofthemountaingods.com/"
+},
+{
+"text": "Issues",
+"href": "https://harlanvincentfornm.com/issues.php"
+},
+{
+"text": "Join Us",
+"href": "https://harlanvincentfornm.com/volunteer.php"
+},
+{
+"text": "Lincoln National Forest",
+"href": "https://www.fs.usda.gov/lincoln"
+},
+{
+"text": "Media",
+"href": "https://harlanvincentfornm.com/media.php"
+},
+{
+"text": "Meet Harlan",
+"href": "https://harlanvincentfornm.com/about.php"
+},
+{
+"text": "Mescalero Apache Reservation",
+"href": "https://mescaleroapachetribe.com/"
+},
+{
+"text": "NM Voter Services Page.",
+"href": "https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx"
+},
+{
+"text": "National Voter Registration Form and Guide",
+"href": "https://www.eac.gov/voters/national-mail-voter-registration-form"
+},
+{
+"text": "New Mexico Secretary of State: Voter Services",
+"href": "https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx"
+},
+{
+"text": "Ruidoso Downs Race Track and Casino",
+"href": "https://www.raceruidoso.com/"
+},
+{
+"text": "Ski Apache",
+"href": "https://www.skiapache.com/"
+},
+{
+"text": "Ski Cloudcroft",
+"href": "https://skicloudcroft.net/"
+},
+{
+"text": "Southwest Marketing and Information Services",
+"href": "https://harlanvincentfornm.com/www.southwestmis.com"
+},
+{
+"text": "Vote",
+"href": "https://harlanvincentfornm.com/vote.php"
+},
+{
+"text": "Working For You",
+"href": "https://harlanvincentfornm.com/endorsements.php"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HarlanVincentforNewMexico/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/harlanvincentfornm"
+},
+{
+"text": "harlan.vincent@nmlegis.gov",
+"href": "mailto:harlan.vincent@nmlegis.gov"
+},
+{
+"text": "here",
+"href": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/same-day-voter-registration-faq/"
+},
+{
+"text": "voter registration online",
+"href": "https://portal.sos.state.nm.us/OVR/WebPages/InstructionsStep1.aspx?AspxAutoDetectCookieSupport=1"
+}
 ]

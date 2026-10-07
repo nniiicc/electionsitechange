@@ -1,13 +1,9 @@
-Ida County Courier Front Page: “State Auditor Sand Stops in Ida Grove, Discusses Bid for Governor”
-Rob Sand: “We’ve got to do a lot more to focus on bringing costs down for Iowans.”
-IDA GROVE, IA – Last week, candidate for governor Rob Sand brought his 100 Town Hall Tour to Ida County during a five-stop swing across Western Iowa, where local residents gathered to hear his vision for the state and share their top concerns directly with him.
+Skip to main Become a Sustaining Donor Donate now Volunteer Donate Return to all news Ida County Courier Front Page: “State Auditor Sand Stops in Ida Grove, Discusses Bid for Governor” For Immediate Release Contact: press@robsand.com Rob Sand for Iowa 9/19/2025 Rob Sand: “We’ve got to do a lot more to focus on bringing costs down for Iowans.” IDA GROVE, IA – Last week, candidate for governor Rob Sand brought his 100 Town Hall Tour to Ida County during a five-stop swing across Western Iowa, where local residents gathered to hear his vision for the state and share their top concerns directly with him.
 At the town hall, Rob spoke about his focus on making life more affordable for Iowans by restoring accountability to the state government.
 He believes Iowa deserves leaders who put people over politics and who work every day to make life more affordable for working families.
-Read key quotes below:
-- “I think that state government is clearly focused on insiders and special interest groups, now Iowans,” he said.
-“We have the country’s 49th worst economy, and we have the fastest growing cancer rate.”
-- [Rob Sand] is eager to work with GOP leadership in the Republican majority state congress.
+Read key quotes below: “I think that state government is clearly focused on insiders and special interest groups, now Iowans,” he said.
+“We have the country’s 49th worst economy, and we have the fastest growing cancer rate.” [Rob Sand] is eager to work with GOP leadership in the Republican majority state congress.
 “I’m happy to work with people,” he said.
-“The slogan here is ‘not redder or bluer, but better and truer.’”
-- “There absolutely needs to be more accountability in the Governor’s office,” he stated.
-“Taxpayers deserve transparency in how their money’s getting spent.”
+“The slogan here is ‘not redder or bluer, but better and truer.’” “There absolutely needs to be more accountability in the Governor’s office,” he stated.
+“Taxpayers deserve transparency in how their money’s getting spent.” ### Become a Sustaining Donor of our campaign We need your help to ensure we have the resources to win.
+Chip in today to join Rob’s campaign! $# $# $# $# $# Other Home About Priorities News Lotto Scam Documentary Show Your Support Contact Events Vote Debates Store Donate Work With Us Privacy Policy Mobile Terms Donate by mail Checks can be addressed to Rob Sand for Iowa and mailed to: PO Box 8382, Des Moines, IA 50301 Paid for by Rob Sand for Iowa

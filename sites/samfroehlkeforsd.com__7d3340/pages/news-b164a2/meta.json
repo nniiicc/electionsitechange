@@ -1,7 +1,12 @@
 {
  "description": "Keeping track of what is going on in the campaign",
  "final_url": "https://www.samfroehlkeforsd.com/news",
+ "fingerprint": "a094d2156f68f42dfe671ecc5390f2735056dec5",
+ "format": 3,
  "paid_for_by": "Paid for by Sam Froehlke for House Powered by CampaignPartner",
  "title": "News and Articles",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

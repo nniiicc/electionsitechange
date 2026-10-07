@@ -1,11 +1,10 @@
-The Bennington Banner, July 8
-In approaching any problem, there are generally two immediate paths.
-Ths first is to pursue the ideal answer, the answer that addresses all issues and perfectly solves the problem.
+Tom Blakely Candidate for State Representative Bennington-5 tfb@tomblakely.com Read my op-ed from The Bennington Banner, July 8 Home About Me About My Candidacy Key Issues News and Events Contact Me Newsletters Music Donate Join Our Team In approaching any problem, there are generally two immediate paths.
+Ths first is to pursue the ideal answer , the answer that addresses all issues and perfectly solves the problem.
 The second is to conclude that the problem cannot be solved.
 There is no solution available to us, so there is nothing we can or should do.
 The problem may simply be too complex to be solved.
 The ideal answer usually ignores the limitations of the situation: implementing it may require more money or resources than we have available, may require technology that doesn't exist, or there may be political, legal or practical constraints that will prevent its implementation.
-In most cases some combination of all of those limitations, and probably others as well, will prevent us from implementing the ideal answer.
+In most cases some combination of all of those limitations, and probably others as well, will prevent us from implementing the ideal answer .
 The second answer, that the problem cannot be solved, is almost certainly wrong because it ignores opportunities that may not be immediately obvious.
 It assumes that any barrier to implementation of a workable solution is too large to overcome.
 The second answer has an even larger issue: the belief that we cannot solve the problem does not make the problem go away: we still have a problem.

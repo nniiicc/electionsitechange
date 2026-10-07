@@ -1,17 +1,3 @@
-Home
-Meet Cesar
-Issues
-Join Our Movement
-News
-ENDORSEMENTS
-DONATE
-Shop
-ENDORSED BY:
-Home
-Meet Cesar
-Issues
-Join Our Movement
-News
-ENDORSEMENTS
-DONATE
-Shop
+Home Meet Cesar Issues Join Our Movement News ENDORSEMENTS DONATE Shop ENDORSED BY: PAID FOR BY CESAR AGUILAR FOR STATE REPRESENTATIVE DISTRICT- 26.
+AUTHORIZED BY CESAR AGUILAR.
+Home Meet Cesar Issues Join Our Movement News ENDORSEMENTS DONATE Shop

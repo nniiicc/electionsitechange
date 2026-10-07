@@ -1,14 +1,78 @@
 [
-"https://facebook.com/profile.php?id=61583092595718",
-"https://votepaulmcgraw.com/",
-"https://votepaulmcgraw.com/cart",
-"https://votepaulmcgraw.com/contact",
-"https://votepaulmcgraw.com/home",
-"https://votepaulmcgraw.com/support",
-"https://votepaulmcgraw.com/videos",
-"https://votepaulmcgraw.com/videos/v/episode-3",
-"https://votepaulmcgraw.com/videos/v/episode-5?categoryId=6a5a5a2e4da9785ff33a43e6",
-"https://votepaulmcgraw.com/videos/v/episode-6?categoryId=6a5a5a2e4da9785ff33a43e6",
-"https://votepaulmcgraw.com/videos/v/episode-8?categoryId=6a5a5a2e4da9785ff33a43e6",
-"https://votepaulmcgraw.com/videos/v/mbc44aj8wdmydc5mtf2b7pss7pyy7m"
+{
+"text": "0",
+"href": "https://votepaulmcgraw.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://votepaulmcgraw.com/contact"
+},
+{
+"text": "Episode 2",
+"href": "https://votepaulmcgraw.com/videos/v/episode-2"
+},
+{
+"text": "Episode 4",
+"href": "https://votepaulmcgraw.com/videos/v/mbc44aj8wdmydc5mtf2b7pss7pyy7m"
+},
+{
+"text": "Episode 5",
+"href": "https://votepaulmcgraw.com/videos/v/episode-5?categoryId=6a5a5a2e4da9785ff33a43e6"
+},
+{
+"text": "Episode 6",
+"href": "https://votepaulmcgraw.com/videos/v/episode-6?categoryId=6a5a5a2e4da9785ff33a43e6"
+},
+{
+"text": "Episode 8",
+"href": "https://votepaulmcgraw.com/videos/v/episode-8?categoryId=6a5a5a2e4da9785ff33a43e6"
+},
+{
+"text": "Home",
+"href": "https://votepaulmcgraw.com/home"
+},
+{
+"text": "Next Episode 8",
+"href": "https://votepaulmcgraw.com/videos/v/episode-8?categoryId=6a5a5a2e4da9785ff33a43e6"
+},
+{
+"text": "Previous Episode 6",
+"href": "https://votepaulmcgraw.com/videos/v/episode-6?categoryId=6a5a5a2e4da9785ff33a43e6"
+},
+{
+"text": "Support",
+"href": "https://votepaulmcgraw.com/support"
+},
+{
+"text": "Videos",
+"href": "https://votepaulmcgraw.com/videos"
+},
+{
+"text": "[image: Related Video Item Thumbnail]",
+"href": "https://votepaulmcgraw.com/videos/v/episode-2"
+},
+{
+"text": "[image: Related Video Item Thumbnail]",
+"href": "https://votepaulmcgraw.com/videos/v/episode-5?categoryId=6a5a5a2e4da9785ff33a43e6"
+},
+{
+"text": "[image: Related Video Item Thumbnail]",
+"href": "https://votepaulmcgraw.com/videos/v/episode-6?categoryId=6a5a5a2e4da9785ff33a43e6"
+},
+{
+"text": "[image: Related Video Item Thumbnail]",
+"href": "https://votepaulmcgraw.com/videos/v/episode-8?categoryId=6a5a5a2e4da9785ff33a43e6"
+},
+{
+"text": "[image: Related Video Item Thumbnail]",
+"href": "https://votepaulmcgraw.com/videos/v/mbc44aj8wdmydc5mtf2b7pss7pyy7m"
+},
+{
+"text": "[image: Vote Paul McGraw]",
+"href": "https://votepaulmcgraw.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583092595718"
+}
 ]

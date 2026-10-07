@@ -1,7 +1,9 @@
 {
  "description": "Manage Media on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ManageMedia",
- "paid_for_by": null,
+ "fingerprint": "d3c85008baad775dde518d5b9ec21caee86677e2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Manage Media | Maxwell for Congress",
  "years_mentioned": []
 }

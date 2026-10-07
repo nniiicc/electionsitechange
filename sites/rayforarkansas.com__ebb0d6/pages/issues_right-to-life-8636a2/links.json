@@ -1,8 +1,30 @@
 [
-"http://rayforarkansas.com/",
-"https://rayforarkansas.com/",
-"https://rayforarkansas.com/biography/about-david-ray",
-"https://rayforarkansas.com/contribute",
-"https://rayforarkansas.com/issues/2nd-amendment",
-"https://rayforarkansas.com/issues/education"
+{
+"text": "Contribute",
+"href": "https://rayforarkansas.com/contribute/"
+},
+{
+"text": "Endorsements",
+"href": "http://rayforarkansas.com/#endorsements"
+},
+{
+"text": "Issues",
+"href": "http://rayforarkansas.com/#issues"
+},
+{
+"text": "Meet David Ray",
+"href": "https://rayforarkansas.com/biography/about-david-ray/"
+},
+{
+"text": "Next Reading 2nd Amendment",
+"href": "https://rayforarkansas.com/issues/2nd-amendment/"
+},
+{
+"text": "Previous Reading Education",
+"href": "https://rayforarkansas.com/issues/education/"
+},
+{
+"text": "[image: Site Logo]",
+"href": "https://rayforarkansas.com/"
+}
 ]

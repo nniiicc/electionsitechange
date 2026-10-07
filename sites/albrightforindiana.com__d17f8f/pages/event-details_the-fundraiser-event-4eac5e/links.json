@@ -1,13 +1,66 @@
 [
-"https://albrightforindiana.com/",
-"https://albrightforindiana.com/privacy-policy",
-"https://facebook.com/WixStudio",
-"https://facebook.com/albrightforindiana",
-"https://instagram.com/wix",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.albrightforindiana.com%2Fevent-details%2Fthe-fundraiser-event",
-"https://secure.winred.com/albright-for-indiana/campaign-launch",
-"https://tiktok.com/@wix",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.albrightforindiana.com%2Fevent-details%2Fthe-fundraiser-event&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://wix.com/studio",
-"https://x.com/AlbrightForIN"
+{
+"text": "About",
+"href": "https://www.albrightforindiana.com"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.albrightforindiana.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/albright-for-indiana/campaign-launch"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "Get Involved",
+"href": "https://www.albrightforindiana.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/wix/"
+},
+{
+"text": "Issues",
+"href": "https://www.albrightforindiana.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.albrightforindiana.com/privacy-policy"
+},
+{
+"text": "Refund Policy",
+"href": "https://www.albrightforindiana.com"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.albrightforindiana.com"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@wix"
+},
+{
+"text": "Wix Studio™",
+"href": "https://www.wix.com/studio"
+},
+{
+"text": "[image: Juanita_FB-Icon]",
+"href": "https://www.facebook.com/albrightforindiana"
+},
+{
+"text": "[image: Juanita_X-Icon]",
+"href": "https://x.com/AlbrightForIN"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.albrightforindiana.com%2Fevent-details%2Fthe-fundraiser-event&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.albrightforindiana.com%2Fevent-details%2Fthe-fundraiser-event"
+}
 ]

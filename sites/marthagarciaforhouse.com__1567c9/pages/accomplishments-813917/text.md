@@ -1,44 +1,4 @@
-ACCOMPLISHMENTS
-Delivering for District 6
-I have focused on bringing real results home to District 6—supporting rural communities, tribal nations, and working families through strong advocacy and targeted investments.
-See Martha’s 2026 session summary and 2025 capital outlay.
-Lowering Costs for Families
-- Cut taxes for working families, eliminating income tax for many lower-income households
-- Protected SNAP food assistance when federal funding was withheld—keeping groceries on the table
-- Kept health insurance premiums affordable using state funds when federal support expired
-- Expanded access to care locally, reducing costly travel for rural families
-- Supported policies that raise wages and protect workers, helping paychecks go further
-- Backed small business and rural economic development to keep jobs local
-Investing in Infrastructure & Water
-- Secured funding for water and wastewater system upgrades to ensure safe, reliable service
-- Expanded access to clean water through water line and supply projects
-- Improved roads and transportation, including local street upgrades and road extensions
-- Strengthened utility infrastructure, including powerline improvements
-Strengthening Public Safety
-- Funded emergency response infrastructure and equipment
-- Supported law enforcement with resources and department funding
-- Invested in community safety through vehicles and public safety improvements
-Supporting Tribal & Rural Communities
-- Delivered resources for Ramah, Zuni Pueblo, and surrounding chapter communities
-- Funded chapter house renovations and community facilities
-- Supported essential services that improve quality of life in rural areas
-Growing the Local Economy
-- Invested in Milan Industrial Park improvements to support job creation
-- Funded equipment and infrastructure to support local businesses and public works
-- Advanced workforce development through apprenticeship and training programs
-Investing in Education
-- Secured funding for Zuni Public Schools
-- Supported legislation to improve teacher training and student outcomes
-- Served on the House Education Committee, advocating for students and educators
-Protecting Rural Healthcare Access
-- Supported policies that protect access to healthcare in rural and underserved areas
-- Worked to balance accountability while ensuring providers can continue serving our communities
-Legislative Leadership
-- Sponsored House Bill 300, promoting humane animal care and responsible management
-- Served on the House Rural Development, Land Grants & Cultural Affairs Committee
-- Advocated for policies that reflect the needs of rural and tribal communities across New Mexico
-Responsible, Community-Focused Decisions
-- Supported legislation that strengthens public employees, education, and workforce development
-- Opposed policies that could negatively impact local jobs, resources, and community stability
-Focused on Results
-- I remain committed to delivering practical solutions that improve everyday life—strengthening infrastructure, expanding opportunity, and ensuring District 6 communities are heard and supported.
+0 Skip to Content About About Martha Garcia District 6 Priorities Endorsements Accomplishments Capital Outlay Contact Voting CONTRIBUTE Open Menu Close Menu About About Martha Garcia District 6 Priorities Endorsements Accomplishments Capital Outlay Contact Voting CONTRIBUTE Open Menu Close Menu Folder: About Back About Martha Garcia District 6 Priorities Endorsements Accomplishments Capital Outlay Contact Voting CONTRIBUTE ACCOMPLISHMENTS Delivering for District 6 I have focused on bringing real results home to District 6—supporting rural communities, tribal nations, and working families through strong advocacy and targeted investments.
+See Martha’s 2026 session summary and 2025 capital outlay .
+Lowering Costs for Families Cut taxes for working families , eliminating income tax for many lower-income households Protected SNAP food assistance when federal funding was withheld—keeping groceries on the table Kept health insurance premiums affordable using state funds when federal support expired Expanded access to care locally , reducing costly travel for rural families Supported policies that raise wages and protect workers , helping paychecks go further Backed small business and rural economic development to keep jobs local Investing in Infrastructure & Water Secured funding for water and wastewater system upgrades to ensure safe, reliable service Expanded access to clean water through water line and supply projects Improved roads and transportation, including local street upgrades and road extensions Strengthened utility infrastructure, including powerline improvements Strengthening Public Safety Funded emergency response infrastructure and equipment Supported law enforcement with resources and department funding Invested in community safety through vehicles and public safety improvements Supporting Tribal & Rural Communities Delivered resources for Ramah, Zuni Pueblo, and surrounding chapter communities Funded chapter house renovations and community facilities Supported essential services that improve quality of life in rural areas Growing the Local Economy Invested in Milan Industrial Park improvements to support job creation Funded equipment and infrastructure to support local businesses and public works Advanced workforce development through apprenticeship and training programs Investing in Education Secured funding for Zuni Public Schools Supported legislation to improve teacher training and student outcomes Served on the House Education Committee , advocating for students and educators Protecting Rural Healthcare Access Supported policies that protect access to healthcare in rural and underserved areas Worked to balance accountability while ensuring providers can continue serving our communities Legislative Leadership Sponsored House Bill 300 , promoting humane animal care and responsible management Served on the House Rural Development, Land Grants & Cultural Affairs Committee Advocated for policies that reflect the needs of rural and tribal communities across New Mexico Responsible, Community-Focused Decisions Supported legislation that strengthens public employees, education, and workforce development Opposed policies that could negatively impact local jobs, resources, and community stability Focused on Results I remain committed to delivering practical solutions that improve everyday life—strengthening infrastructure, expanding opportunity, and ensuring District 6 communities are heard and supported.
+CONTRIBUTE Website Design | BGC

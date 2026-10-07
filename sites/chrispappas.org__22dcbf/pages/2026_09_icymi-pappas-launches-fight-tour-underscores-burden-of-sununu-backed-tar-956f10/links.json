@@ -1,37 +1,182 @@
 [
-"https://act.chrispappas.org/signup/take_action_pappas_campaign",
-"https://americanjournalnews.com/sununu-profits-from-iran-venezuela-wars-as-gas-prices-surge",
-"https://bsky.app/profile/chrispappasnh.bsky.social",
-"https://chrispappas.org/",
-"https://chrispappas.org/about",
-"https://chrispappas.org/category/press-release",
-"https://chrispappas.org/contact",
-"https://chrispappas.org/endorsements",
-"https://chrispappas.org/news",
-"https://chrispappas.org/priorities",
-"https://chrispappas.org/priority/anti-corruption-agenda",
-"https://chrispappas.org/priority/tax-cuts-lower-costs-blueprint",
-"https://chrispappas.org/privacy-policy",
-"https://facebook.com/pappasfornh",
-"https://granitepostnews.com/news/politics/medicare-or-medicaid-sununus-gaffe-hurts-31000-new-hampshire-residents-either-way",
-"https://granitepostnews.com/news/politics/trump-super-pac-sununu",
-"https://instagram.com/pappasfornh",
-"https://middleseat.co/",
-"https://secure.actblue.com/donate/cps_web",
-"https://secure.actblue.com/donate/cps_web?amount=10",
-"https://secure.actblue.com/donate/cps_web?amount=100",
-"https://secure.actblue.com/donate/cps_web?amount=25",
-"https://secure.actblue.com/donate/cps_web?amount=250",
-"https://secure.actblue.com/donate/cps_web?amount=500",
-"https://soundcloud.com/user-800989797/250905-sununu-on-tariffs-the/s-YNDbM6vv315?si=026643ea887d4762972c2fbae5657e08",
-"https://store.chrispappas.org/",
-"https://substack.com/@chrispappasnh",
-"https://threads.com/@pappasfornh",
-"https://tiktok.com/@chrispappasnh",
-"https://wcax.com/2026/09/25/nh-winery-hit-by-tariffs-pappas-calls-small-business-exemptions",
-"https://wmur.com/article/pappas-lakes-region-rising-costs-fewer-visitors/73895435",
-"https://x.com/chrispappasnh",
-"https://youtube.com/@ChrisPappasNH",
-"https://youtube.com/watch?v=5s9MInsDY-4",
-"https://youtube.com/watch?v=NveD1qSksuY"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=500"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/cps_web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/cps_web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/cps_web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/cps_web?amount=250"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/cps_web?amount=500"
+},
+{
+"text": "Anti-Corruption Agenda",
+"href": "https://chrispappas.org/priority/anti-corruption-agenda/"
+},
+{
+"text": "At NH winery hit by tariffs, Pappas calls for small business exemptions",
+"href": "https://www.wcax.com/2026/09/25/nh-winery-hit-by-tariffs-pappas-calls-small-business-exemptions/"
+},
+{
+"text": "Bsky",
+"href": "https://bsky.app/profile/chrispappasnh.bsky.social"
+},
+{
+"text": "Chris Pappas for Senate [image: Chris Pappas U.S. Senate]",
+"href": "https://chrispappas.org"
+},
+{
+"text": "Contact",
+"href": "https://chrispappas.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cps_web"
+},
+{
+"text": "Endorsements",
+"href": "https://chrispappas.org/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/pappasfornh/"
+},
+{
+"text": "Home",
+"href": "https://chrispappas.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/pappasfornh/"
+},
+{
+"text": "Meet Chris",
+"href": "https://chrispappas.org/about/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "News",
+"href": "https://chrispappas.org/news/"
+},
+{
+"text": "Other amount",
+"href": "https://secure.actblue.com/donate/cps_web"
+},
+{
+"text": "Pappas hears from Lakes Region business owners about rising costs, fewer visitors",
+"href": "https://www.wmur.com/article/pappas-lakes-region-rising-costs-fewer-visitors/73895435"
+},
+{
+"text": "Press Release",
+"href": "https://chrispappas.org/category/press-release/"
+},
+{
+"text": "Priorities",
+"href": "https://chrispappas.org/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrispappas.org/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://store.chrispappas.org/"
+},
+{
+"text": "Substack",
+"href": "https://substack.com/@chrispappasnh"
+},
+{
+"text": "Take Action",
+"href": "https://act.chrispappas.org/signup/take_action_pappas_campaign/"
+},
+{
+"text": "Tax Cuts and Lower Costs Blueprint",
+"href": "https://chrispappas.org/priority/tax-cuts-lower-costs-blueprint/"
+},
+{
+"text": "Terms of Service and Privacy Policy",
+"href": "https://chrispappas.org/privacy-policy/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@pappasfornh"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@chrispappasnh"
+},
+{
+"text": "Trump’s cuts",
+"href": "https://www.youtube.com/watch?v=5s9MInsDY-4"
+},
+{
+"text": "Trump’s tariff",
+"href": "https://www.youtube.com/watch?v=NveD1qSksuY"
+},
+{
+"text": "Trump’s war with Iran",
+"href": "https://americanjournalnews.com/sununu-profits-from-iran-venezuela-wars-as-gas-prices-surge/"
+},
+{
+"text": "WCAX",
+"href": "https://www.wcax.com/2026/09/25/nh-winery-hit-by-tariffs-pappas-calls-small-business-exemptions/"
+},
+{
+"text": "WMUR",
+"href": "https://www.wmur.com/article/pappas-lakes-region-rising-costs-fewer-visitors/73895435"
+},
+{
+"text": "X",
+"href": "https://x.com/chrispappasnh"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@ChrisPappasNH"
+},
+{
+"text": "health care.",
+"href": "https://granitepostnews.com/news/politics/medicare-or-medicaid-sununus-gaffe-hurts-31000-new-hampshire-residents-either-way/"
+},
+{
+"text": "important to President Trump’s agenda,",
+"href": "https://granitepostnews.com/news/politics/trump-super-pac-sununu/"
+},
+{
+"text": "taxes",
+"href": "https://soundcloud.com/user-800989797/250905-sununu-on-tariffs-the/s-YNDbM6vv315?si=026643ea887d4762972c2fbae5657e08"
+}
 ]

@@ -1,14 +1,58 @@
 [
-"https://adrianforhawaii.com/",
-"https://adrianforhawaii.com/contact",
-"https://adrianforhawaii.com/copy-of-testimonials",
-"https://adrianforhawaii.com/meetadrian",
-"https://adrianforhawaii.com/resources",
-"https://adrianforhawaii.com/solutions",
-"https://adrianforhawaii.com/testimonials",
-"https://adrianforhawaii.com/volunteer",
-"https://capitol.hawaii.gov/memberpage.aspx?member=Tam&year=2021",
-"https://facebook.com/adrianktam",
-"https://instagram.com/adrianktam",
-"https://secure.actblue.com/donate/adriantam"
+{
+"text": "Contact",
+"href": "https://www.adrianforhawaii.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adriantam"
+},
+{
+"text": "Endorsements",
+"href": "https://www.adrianforhawaii.com/copy-of-testimonials"
+},
+{
+"text": "Home",
+"href": "https://www.adrianforhawaii.com"
+},
+{
+"text": "Meet Adrian",
+"href": "https://www.adrianforhawaii.com/meetadrian"
+},
+{
+"text": "OFFICIAL GOVERNMENT WEBSITE",
+"href": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Tam&year=2021"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianforhawaii.com/resources"
+},
+{
+"text": "Solutions",
+"href": "https://www.adrianforhawaii.com/solutions"
+},
+{
+"text": "Testimonials",
+"href": "https://www.adrianforhawaii.com/testimonials"
+},
+{
+"text": "Volunteer",
+"href": "https://www.adrianforhawaii.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/adrianktam"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/adrianktam"
+},
+{
+"text": "[image: LOGO 1.png]",
+"href": "https://www.adrianforhawaii.com"
+},
+{
+"text": "info@adrianforhawaii.com",
+"href": "mailto:info@adrianforhawaii.com"
+}
 ]

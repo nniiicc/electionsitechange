@@ -1,62 +1,326 @@
 [
-"https://facebook.com/charkoudian.lorig",
-"https://instagram.com/lorigcharkoudian?hl=en",
-"https://lorigd20.com/",
-"https://lorigd20.com/_files/ugd/d2587d_19af74bab6854d6aa6c9d50bdc31a85c.pdf",
-"https://lorigd20.com/_files/ugd/d2587d_1bbd70851e454d2aa293d7bb6fe37a10.pdf",
-"https://lorigd20.com/_files/ugd/d2587d_27e44cb05fbd4c5a96f08d0f3dec83c9.pdf",
-"https://lorigd20.com/_files/ugd/d2587d_2c3a566a498a49959dfb2ca3f28eba36.pdf",
-"https://lorigd20.com/_files/ugd/d2587d_3f077e324d2445bf8438530e663f940d.pdf",
-"https://lorigd20.com/_files/ugd/d2587d_4490034e5dca4b948e4b75218cb8a2c0.pdf",
-"https://lorigd20.com/_files/ugd/d2587d_59a39aa738434faaaf8c14266b91486a.pdf",
-"https://lorigd20.com/_files/ugd/d2587d_5b7959eb49e14c058f331a6c1758de6d.pdf",
-"https://lorigd20.com/_files/ugd/d2587d_669a37baf11f4bc3abcd12eea19b940a.pdf",
-"https://lorigd20.com/_files/ugd/d2587d_7eb648123f3c4c0caf7951b69e3f4b9c.pdf",
-"https://lorigd20.com/_files/ugd/d2587d_b7f3b88f0da245b9b3887f3dbee2a491.pdf",
-"https://lorigd20.com/_files/ugd/d2587d_ba36ca9240f64ae2a4149f693376e9c2.pdf",
-"https://lorigd20.com/_files/ugd/d2587d_cb566c273fc14f65afa21a1b162cf0fb.pdf",
-"https://lorigd20.com/_files/ugd/d2587d_e71d4d7748734ffb9b60d2787a90d78d.pdf",
-"https://lorigd20.com/_files/ugd/d2587d_f6d7909fc56d4538b2f11ea4c29d90c9.pdf",
-"https://lorigd20.com/_files/ugd/d2587d_fcf97ce36a29477e8a0e1bbe77580cce.pdf",
-"https://lorigd20.com/about-4",
-"https://lorigd20.com/community-resources",
-"https://lorigd20.com/contact",
-"https://lorigd20.com/delegate-scholarship",
-"https://lorigd20.com/donate",
-"https://lorigd20.com/get-involved",
-"https://lorigd20.com/immigration-resources",
-"https://lorigd20.com/legislation",
-"https://lorigd20.com/legislative-history",
-"https://lorigd20.com/news",
-"https://lorigd20.com/power-in-the-park",
-"https://lorigd20.com/precinct-official-information",
-"https://lorigd20.com/subscribe",
-"https://mgaleg.maryland.gov/2026RS/bills/hb/hb0040F.pdf",
-"https://mgaleg.maryland.gov/2026RS/bills/hb/hb0072F.pdf",
-"https://mgaleg.maryland.gov/2026RS/bills/hb/hb0085F.pdf",
-"https://mgaleg.maryland.gov/2026RS/bills/hb/hb0143F.pdf",
-"https://mgaleg.maryland.gov/2026RS/bills/hb/hb0149F.pdf",
-"https://mgaleg.maryland.gov/2026RS/bills/hb/hb0188F.pdf",
-"https://mgaleg.maryland.gov/2026RS/bills/hb/hb0220F.pdf",
-"https://mgaleg.maryland.gov/2026RS/bills/hb/hb0332F.pdf",
-"https://mgaleg.maryland.gov/2026RS/bills/hb/hb0345F.pdf",
-"https://mgaleg.maryland.gov/2026RS/bills/hb/hb0639F.pdf",
-"https://mgaleg.maryland.gov/2026RS/bills/hb/hb0658F.pdf",
-"https://mgaleg.maryland.gov/2026RS/bills/hb/hb0711F.pdf",
-"https://mgaleg.maryland.gov/2026RS/bills/hb/hb0940F.pdf",
-"https://mgaleg.maryland.gov/mgawebsite",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0040?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0072?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0085?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0143?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0149?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0188?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0220?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0332?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0345?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0639?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0658?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0711?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0940?ys=2026RS",
-"https://twitter.com/LCharkoudian"
+{
+"text": "About",
+"href": "https://www.lorigd20.com/about-4"
+},
+{
+"text": "About Lorig",
+"href": "https://www.lorigd20.com/about-4"
+},
+{
+"text": "Affordable Solar Act (HB 345)",
+"href": "https://www.lorigd20.com/legislation#1"
+},
+{
+"text": "Aviation Health and Safety Act (HB 639)",
+"href": "https://www.lorigd20.com/legislation#8"
+},
+{
+"text": "Bill Language",
+"href": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0040F.pdf"
+},
+{
+"text": "Bill Language",
+"href": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0072F.pdf"
+},
+{
+"text": "Bill Language",
+"href": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0085F.pdf"
+},
+{
+"text": "Bill Language",
+"href": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0143F.pdf"
+},
+{
+"text": "Bill Language",
+"href": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0149F.pdf"
+},
+{
+"text": "Bill Language",
+"href": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0188F.pdf"
+},
+{
+"text": "Bill Language",
+"href": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0220F.pdf"
+},
+{
+"text": "Bill Language",
+"href": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0332F.pdf"
+},
+{
+"text": "Bill Language",
+"href": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0345F.pdf"
+},
+{
+"text": "Bill Language",
+"href": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0639F.pdf"
+},
+{
+"text": "Bill Language",
+"href": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0658F.pdf"
+},
+{
+"text": "Bill Language",
+"href": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0711F.pdf"
+},
+{
+"text": "Bill Language",
+"href": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0940F.pdf"
+},
+{
+"text": "Community Choice Aggregation Pilot (MC 2-26)",
+"href": "https://www.lorigd20.com/legislation#5"
+},
+{
+"text": "Contact",
+"href": "https://www.lorigd20.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.lorigd20.com/donate"
+},
+{
+"text": "Data Center Capacity (HB 940)",
+"href": "https://www.lorigd20.com/legislation#3"
+},
+{
+"text": "Data Protection in Federal Immigration Actions (HB 711)",
+"href": "https://www.lorigd20.com/legislation#7"
+},
+{
+"text": "Delegate Scholarship",
+"href": "https://www.lorigd20.com/delegate-scholarship"
+},
+{
+"text": "Events",
+"href": "https://www.lorigd20.com/get-involved"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.lorigd20.com/_files/ugd/d2587d_19af74bab6854d6aa6c9d50bdc31a85c.pdf"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.lorigd20.com/_files/ugd/d2587d_1bbd70851e454d2aa293d7bb6fe37a10.pdf"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.lorigd20.com/_files/ugd/d2587d_27e44cb05fbd4c5a96f08d0f3dec83c9.pdf"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.lorigd20.com/_files/ugd/d2587d_2c3a566a498a49959dfb2ca3f28eba36.pdf"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.lorigd20.com/_files/ugd/d2587d_3f077e324d2445bf8438530e663f940d.pdf"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.lorigd20.com/_files/ugd/d2587d_4490034e5dca4b948e4b75218cb8a2c0.pdf"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.lorigd20.com/_files/ugd/d2587d_59a39aa738434faaaf8c14266b91486a.pdf"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.lorigd20.com/_files/ugd/d2587d_5b7959eb49e14c058f331a6c1758de6d.pdf"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.lorigd20.com/_files/ugd/d2587d_669a37baf11f4bc3abcd12eea19b940a.pdf"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.lorigd20.com/_files/ugd/d2587d_7eb648123f3c4c0caf7951b69e3f4b9c.pdf"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.lorigd20.com/_files/ugd/d2587d_b7f3b88f0da245b9b3887f3dbee2a491.pdf"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.lorigd20.com/_files/ugd/d2587d_ba36ca9240f64ae2a4149f693376e9c2.pdf"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.lorigd20.com/_files/ugd/d2587d_cb566c273fc14f65afa21a1b162cf0fb.pdf"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.lorigd20.com/_files/ugd/d2587d_e71d4d7748734ffb9b60d2787a90d78d.pdf"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.lorigd20.com/_files/ugd/d2587d_f6d7909fc56d4538b2f11ea4c29d90c9.pdf"
+},
+{
+"text": "Fact Sheet",
+"href": "https://www.lorigd20.com/_files/ugd/d2587d_fcf97ce36a29477e8a0e1bbe77580cce.pdf"
+},
+{
+"text": "Fire Safety Training and Standards (HB 149)",
+"href": "https://www.lorigd20.com/legislation#12"
+},
+{
+"text": "Food Forests and Foraging (HB 72)",
+"href": "https://www.lorigd20.com/legislation#10"
+},
+{
+"text": "Full-Time Pay for MoCo Board of Education Members (MC 2-26)",
+"href": "https://www.lorigd20.com/legislation#14"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lorigd20.com/get-involved"
+},
+{
+"text": "Grid-Enhancing Technologies (HB 40/SB 201)",
+"href": "https://www.lorigd20.com/legislation#4"
+},
+{
+"text": "Home",
+"href": "https://www.lorigd20.com"
+},
+{
+"text": "Home",
+"href": "https://www.lorigd20.com/legislation"
+},
+{
+"text": "Immigration Resources",
+"href": "https://www.lorigd20.com/immigration-resources"
+},
+{
+"text": "Individual Water Readers (HB 220/SB 130)",
+"href": "https://www.lorigd20.com/legislation#13"
+},
+{
+"text": "Legislation",
+"href": "https://www.lorigd20.com/legislation"
+},
+{
+"text": "Limited Equity Co-Op Conversion (HB 85)",
+"href": "https://www.lorigd20.com/legislation#anchor17"
+},
+{
+"text": "MD General Assembly Homepage",
+"href": "https://mgaleg.maryland.gov/mgawebsite"
+},
+{
+"text": "Mental Health Quality In Forensic Aftercare (HB 658)",
+"href": "https://www.lorigd20.com/legislation#15"
+},
+{
+"text": "Newsroom",
+"href": "https://www.lorigd20.com/news"
+},
+{
+"text": "No Kings Act (HB 332)",
+"href": "https://www.lorigd20.com/legislation#9"
+},
+{
+"text": "PJM Exit Study (HB 143/SB 92)",
+"href": "https://www.lorigd20.com/legislation#2"
+},
+{
+"text": "Power in the Park",
+"href": "https://www.lorigd20.com/power-in-the-park"
+},
+{
+"text": "Precinct Official Information",
+"href": "https://www.lorigd20.com/precinct-official-information"
+},
+{
+"text": "Resources/Scholarship",
+"href": "https://www.lorigd20.com/community-resources"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.lorigd20.com/subscribe"
+},
+{
+"text": "Status",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0040?ys=2026RS"
+},
+{
+"text": "Status",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0072?ys=2026RS"
+},
+{
+"text": "Status",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0085?ys=2026RS"
+},
+{
+"text": "Status",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0143?ys=2026RS"
+},
+{
+"text": "Status",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0149?ys=2026RS"
+},
+{
+"text": "Status",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0188?ys=2026RS"
+},
+{
+"text": "Status",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0220?ys=2026RS"
+},
+{
+"text": "Status",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0332?ys=2026RS"
+},
+{
+"text": "Status",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0345?ys=2026RS"
+},
+{
+"text": "Status",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0639?ys=2026RS"
+},
+{
+"text": "Status",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0658?ys=2026RS"
+},
+{
+"text": "Status",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0711?ys=2026RS"
+},
+{
+"text": "Status",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0940?ys=2026RS"
+},
+{
+"text": "Unemployment Insurance Modernization Act (HB 188/SB 3)",
+"href": "https://www.lorigd20.com/legislation#6"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.lorigd20.com/get-involved"
+},
+{
+"text": "View Lorig's Legislative History (2021-2025)",
+"href": "https://www.lorigd20.com/legislative-history"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/charkoudian.lorig"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/lorigcharkoudian/?hl=en"
+},
+{
+"text": "[image: Screen Shot 2021-11-21 at 4.58.01 PM.png]",
+"href": "https://www.lorigd20.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/LCharkoudian"
+},
+{
+"text": "friendsoflorig@gmail.com",
+"href": "mailto:friendsoflorig@gmail.com"
+}
 ]

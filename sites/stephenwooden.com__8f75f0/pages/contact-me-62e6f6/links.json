@@ -1,12 +1,46 @@
 [
-"http://facebook.com/votewooden",
-"http://instagram.com/votewooden",
-"http://twitter.com/votewooden",
-"https://secure.actblue.com/donate/woodenformi",
-"https://stephenwooden.com/",
-"https://stephenwooden.com/cart",
-"https://stephenwooden.com/contact-me",
-"https://stephenwooden.com/meet-stephen",
-"https://stephenwooden.com/priorities",
-"https://stephenwooden.com/privacy-policy"
+{
+"text": "0",
+"href": "https://www.stephenwooden.com/cart"
+},
+{
+"text": "Contact Me",
+"href": "https://www.stephenwooden.com/contact-me"
+},
+{
+"text": "Home",
+"href": "https://www.stephenwooden.com/"
+},
+{
+"text": "Meet Stephen",
+"href": "https://www.stephenwooden.com/meet-stephen"
+},
+{
+"text": "Priorities",
+"href": "https://www.stephenwooden.com/priorities"
+},
+{
+"text": "View our Privacy Policy",
+"href": "https://www.stephenwooden.com/privacy-policy"
+},
+{
+"text": "[image: Stephen Wooden For State House]",
+"href": "https://www.stephenwooden.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/votewooden"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/votewooden"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/votewooden"
+},
+{
+"text": "donate",
+"href": "https://secure.actblue.com/donate/woodenformi"
+}
 ]

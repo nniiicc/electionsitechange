@@ -1,11 +1,4 @@
-Back to All Events
-NOTE: This event starts at 10:30AM Central/ 11:30AM Eastern.
+0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Back to All Events Congressional Candidate Debate Hosted by NEBA Tallahassee Tuesday, October 27, 2026 11:30 AM 1:00 PM Capital City Country Club 1601 Golf Terrace Drive Tallahassee, Florida, 32301 United States (map) Google Calendar ICS NOTE: This event starts at 10:30AM Central/ 11:30AM Eastern.
 Additional details to follow.
-Check out the NEBA Facebook page for details as they become available: https://www.facebook.com/nebatallahassee
-Previous
-Previous
-October 24
-FAMU Homecoming
-Next
-Next
-October 30
+Check out the NEBA Facebook page for details as they become available: https://www.facebook.com/nebatallahassee Previous Previous October 24 FAMU Homecoming Next Next October 30 TEAM AMG/VOLUNTEERS: Halloween Spooktacular TO SEND A CHECK: P.O.
+Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

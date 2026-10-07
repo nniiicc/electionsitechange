@@ -1,25 +1,102 @@
 [
-"http://advantagealabama.com/pdfmaster.aspx?package=c-079",
-"http://city-data.com/city/Bear-Creek-Alabama.html",
-"http://city-data.com/city/Hackleburg-Alabama.html",
-"http://legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Estes&OID_SPONSOR=100497&OID_PERSON=8494&SESSNAME=Regular+Session+2020",
-"http://legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Stutts&OID_SPONSOR=100449&OID_PERSON=7718&SESSNAME=Regular+Session+2020",
-"https://hamiltonchamberofcommerce.org/",
-"https://hamiltoncityal.org/",
-"https://marioncountyalabama.org/",
-"https://mcbe.net/",
-"https://senatorgarlangudger.com/",
-"https://senatorgarlangudger.com/about",
-"https://senatorgarlangudger.com/contact-8",
-"https://senatorgarlangudger.com/credentials",
-"https://senatorgarlangudger.com/cullman",
-"https://senatorgarlangudger.com/district-4-news",
-"https://senatorgarlangudger.com/funding-improvements",
-"https://senatorgarlangudger.com/marion",
-"https://senatorgarlangudger.com/media",
-"https://senatorgarlangudger.com/meet-your-senator",
-"https://senatorgarlangudger.com/privacy-policy",
-"https://senatorgarlangudger.com/sponsored-bills",
-"https://senatorgarlangudger.com/terms-and-conditions",
-"https://senatorgarlangudger.com/winston"
+{
+"text": "About",
+"href": "https://www.senatorgarlangudger.com/about"
+},
+{
+"text": "Bear Creek",
+"href": "http://www.city-data.com/city/Bear-Creek-Alabama.html"
+},
+{
+"text": "Chamber of Commerce",
+"href": "https://www.hamiltonchamberofcommerce.org/"
+},
+{
+"text": "Contact",
+"href": "https://www.senatorgarlangudger.com/contact-8"
+},
+{
+"text": "Credentials",
+"href": "https://www.senatorgarlangudger.com/credentials"
+},
+{
+"text": "Cullman",
+"href": "https://www.senatorgarlangudger.com/cullman"
+},
+{
+"text": "District 4 News",
+"href": "https://www.senatorgarlangudger.com/district-4-news"
+},
+{
+"text": "Economic Development information",
+"href": "http://advantagealabama.com/pdfmaster.aspx?package=c-079"
+},
+{
+"text": "Funding & Improvements",
+"href": "https://www.senatorgarlangudger.com/funding-improvements"
+},
+{
+"text": "Garlan.Gudger@alsenate.gov",
+"href": "mailto:Garlan.Gudger@alsenate.gov"
+},
+{
+"text": "Hackleburg",
+"href": "http://www.city-data.com/city/Hackleburg-Alabama.html"
+},
+{
+"text": "Hamilton (partial)",
+"href": "https://hamiltoncityal.org"
+},
+{
+"text": "Home",
+"href": "https://www.senatorgarlangudger.com"
+},
+{
+"text": "Marion",
+"href": "https://www.senatorgarlangudger.com/marion"
+},
+{
+"text": "Marion County",
+"href": "https://www.marioncountyalabama.org/#/"
+},
+{
+"text": "Marion County Commission",
+"href": "https://www.marioncountyalabama.org/#/"
+},
+{
+"text": "Marion County School",
+"href": "https://www.mcbe.net/"
+},
+{
+"text": "Media",
+"href": "https://www.senatorgarlangudger.com/media"
+},
+{
+"text": "Meet Your Senator",
+"href": "https://www.senatorgarlangudger.com/meet-your-senator"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.senatorgarlangudger.com/privacy-policy"
+},
+{
+"text": "Rep. Tracy Estes (R) – 17th District",
+"href": "http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Estes&OID_SPONSOR=100497&OID_PERSON=8494&SESSNAME=Regular+Session+2020"
+},
+{
+"text": "Senator Larry Stutts (R) - 6th District",
+"href": "http://www.legislature.state.al.us/aliswww/ISD/ALSenator.aspx?NAME=Stutts&OID_SPONSOR=100449&OID_PERSON=7718&SESSNAME=Regular+Session+2020"
+},
+{
+"text": "Sponsored Bills",
+"href": "https://www.senatorgarlangudger.com/sponsored-bills"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.senatorgarlangudger.com/terms-and-conditions"
+},
+{
+"text": "Winston",
+"href": "https://www.senatorgarlangudger.com/winston"
+}
 ]

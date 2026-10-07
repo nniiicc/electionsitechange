@@ -1,9 +1,82 @@
 [
-"https://facebook.com/votegil.org",
-"https://instagram.com/votegil",
-"https://sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx",
-"https://votegil.org/",
-"https://votegil.org/about",
-"https://votegil.org/issues",
-"https://votegil.org/supporters"
+{
+"text": "About Gil",
+"href": "https://www.votegil.org/about"
+},
+{
+"text": "Ballot Guide",
+"href": "https://www.votegil.org/issues"
+},
+{
+"text": "Check Registration",
+"href": "https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx"
+},
+{
+"text": "Contact Us to Donate",
+"href": "mailto:gilaf@protonmail.com?subject=Donation+to+Frieden+Committee"
+},
+{
+"text": "Donate",
+"href": "https://www.votegil.org/#donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votegil.org/#get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.votegil.org/"
+},
+{
+"text": "Meet Gil",
+"href": "https://www.votegil.org/about"
+},
+{
+"text": "Read Gil's Full Story →",
+"href": "https://www.votegil.org/about"
+},
+{
+"text": "See All 9 Ballot Questions →",
+"href": "https://www.votegil.org/issues"
+},
+{
+"text": "See the Ballot Guide",
+"href": "https://www.votegil.org/issues"
+},
+{
+"text": "Share the Ballot Guide",
+"href": "https://www.votegil.org/issues"
+},
+{
+"text": "Sign Up to Canvass",
+"href": "mailto:gilaf@protonmail.com"
+},
+{
+"text": "Supporters",
+"href": "https://www.votegil.org/supporters"
+},
+{
+"text": "[image: Vote Gil logo]VOTE GIL",
+"href": "https://www.votegil.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votegil.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votegil/"
+},
+{
+"text": "gilaf@protonmail.com",
+"href": "mailto:gilaf@protonmail.com"
+},
+{
+"text": "www.votegil.org",
+"href": "https://www.votegil.org"
+},
+{
+"text": "✓ Verify Your Registration →",
+"href": "https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx"
+}
 ]

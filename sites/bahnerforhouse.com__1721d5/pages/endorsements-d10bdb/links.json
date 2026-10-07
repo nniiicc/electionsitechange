@@ -1,42 +1,170 @@
 [
-"http://facebook.com/kristinbahnermn",
-"http://instagram.com/kristinbahnermn",
-"http://seiumn.org/category/endorsements",
-"http://teamstersjc32.org/",
-"https://afscmemn.org/",
-"https://amyklobuchar.com/",
-"https://bahnerforhouse.com/",
-"https://bahnerforhouse.com/contact-kristins-team",
-"https://bahnerforhouse.com/endorsements",
-"https://bahnerforhouse.com/join-the-team",
-"https://bahnerforhouse.com/priorities",
-"https://boundarywatersaction.org/",
-"https://climateslate.com/",
-"https://cmvotercenter.org/",
-"https://dfl.org/",
-"https://dflec.org/",
-"https://educationminnesota.org/home",
-"https://emilyslist.org/pages/entry/state-and-local-candidates",
-"https://fairvotemn.org/",
-"https://friends-bwca.org/",
-"https://gunsensevoter.org/",
-"https://ibew292.org/",
-"https://liuna.org/",
-"https://mape.org/",
-"https://mnaflcio.org/",
-"https://mnnow.org/",
-"https://mnnurses.org/",
-"https://mnstonewalldfl.org/",
-"https://northcountrycarpenter.org/",
-"https://outfront.org/",
-"https://phillipsforcongress.org/",
-"https://plannedparenthoodaction.org/",
-"https://prochoiceminnesota.org/",
-"https://protectmn.org/",
-"https://secure.actblue.com/donate/kristinbahner",
-"https://sierraclub.org/",
-"https://twitter.com/KristinBahnerMN",
-"https://walzforonemn.com/",
-"https://womenwinning.org/",
-"https://yipa.org/advocacy/voter-guide"
+{
+"text": "AFSCME Council 5",
+"href": "https://www.afscmemn.org/"
+},
+{
+"text": "Boundary Waters Action",
+"href": "https://www.boundarywatersaction.org/"
+},
+{
+"text": "Climate Cabinet",
+"href": "https://www.climateslate.com"
+},
+{
+"text": "Conservation Minnesota",
+"href": "https://www.cmvotercenter.org/"
+},
+{
+"text": "DFL Environmental Caucus",
+"href": "https://www.dflec.org/"
+},
+{
+"text": "Dean Phillips For Congress",
+"href": "https://phillipsforcongress.org/"
+},
+{
+"text": "Democratic Farm Labor Party (DFL)",
+"href": "https://www.dfl.org/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kristinbahner"
+},
+{
+"text": "Education Minnesota",
+"href": "https://www.educationminnesota.org/home"
+},
+{
+"text": "Emily's List",
+"href": "https://www.emilyslist.org/pages/entry/state-and-local-candidates"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bahnerforhouse.com/endorsements"
+},
+{
+"text": "FairVote minnesota",
+"href": "https://www.fairvotemn.org"
+},
+{
+"text": "GOvernor Tim Walz and Lt. Governor Peggy FLannigan",
+"href": "https://walzforonemn.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bahnerforhouse.com/contact-kristins-team"
+},
+{
+"text": "IBEW",
+"href": "https://www.ibew292.org"
+},
+{
+"text": "Join the Team",
+"href": "https://www.bahnerforhouse.com/join-the-team"
+},
+{
+"text": "LIUNA",
+"href": "https://www.liuna.org"
+},
+{
+"text": "MAPE",
+"href": "https://mape.org/"
+},
+{
+"text": "MN AFLCIO",
+"href": "https://www.mnaflcio.org/"
+},
+{
+"text": "MN NOW",
+"href": "https://mnnow.org"
+},
+{
+"text": "Meet Kristin",
+"href": "https://www.bahnerforhouse.com/"
+},
+{
+"text": "Minnesota Nurses Association (MNA)",
+"href": "https://mnnurses.org/"
+},
+{
+"text": "Mom’s Demand Action Gun Sense Distinction",
+"href": "https://gunsensevoter.org/"
+},
+{
+"text": "Naral PRO CHOICE MN",
+"href": "https://prochoiceminnesota.org/"
+},
+{
+"text": "North Central States Regional Council of Carpenters(NCSRCC)",
+"href": "https://northcountrycarpenter.org"
+},
+{
+"text": "Outfront MN",
+"href": "https://www.outfront.org"
+},
+{
+"text": "Planned Parenthood Action",
+"href": "https://www.plannedparenthoodaction.org/"
+},
+{
+"text": "Priorities",
+"href": "https://www.bahnerforhouse.com/priorities"
+},
+{
+"text": "Protect Minnesota Orange Star Candidate",
+"href": "https://protectmn.org/"
+},
+{
+"text": "SEIU MN ﻿State Council",
+"href": "http://seiumn.org/category/endorsements/"
+},
+{
+"text": "Senator Amy Klobuchar",
+"href": "https://amyklobuchar.com"
+},
+{
+"text": "Sierra Club",
+"href": "https://www.sierraclub.org/"
+},
+{
+"text": "Stonewall DFL",
+"href": "https://mnstonewalldfl.org"
+},
+{
+"text": "Teamsters Joint Council 32",
+"href": "http://teamstersjc32.org/"
+},
+{
+"text": "Women Winning",
+"href": "https://www.womenwinning.org/"
+},
+{
+"text": "Youth Intervention Programs Association",
+"href": "https://yipa.org/advocacy/voter-guide/"
+},
+{
+"text": "[image: Kristin Bahner for State Representative ]",
+"href": "https://www.bahnerforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/kristinbahnermn"
+},
+{
+"text": "[no text]",
+"href": "http://seiumn.org/category/endorsements/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/kristinbahnermn"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/KristinBahnerMN"
+},
+{
+"text": "friends of the bwca",
+"href": "https://www.friends-bwca.org/"
+}
 ]

@@ -1,36 +1,166 @@
 [
-"https://app.leg.wa.gov/billsummary?BillNumber=5794&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=5813&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=5814&Year=2025&Initiative=false",
-"https://facebook.com/VoteNoelFrame",
-"https://instagram.com/noelframe",
-"https://linkedin.com/in/noelframe",
-"https://noelframe.com/",
-"https://noelframe.com/about-noel",
-"https://noelframe.com/cart",
-"https://noelframe.com/endorsements",
-"https://noelframe.com/events",
-"https://noelframe.com/folder-issues",
-"https://noelframe.com/get-involved",
-"https://noelframe.com/home",
-"https://noelframe.com/issues/child-welfare",
-"https://noelframe.com/issues/education",
-"https://noelframe.com/issues/environment",
-"https://noelframe.com/issues/equity",
-"https://noelframe.com/issues/fighting-trump",
-"https://noelframe.com/issues/healthcare",
-"https://noelframe.com/issues/homes",
-"https://noelframe.com/issues/prosperity",
-"https://noelframe.com/issues/public-safety",
-"https://noelframe.com/issues/tax-reform",
-"https://noelframe.com/news",
-"https://noelframe.com/news/investigatewest-bill-5375",
-"https://noelframe.com/news/wa-democrats-bring-back-wealth-tax-idea-with-limited-dollar-amount",
-"https://noelframe.com/news?author=5a7a2dfa5ce3508306aede93",
-"https://noelframe.com/organizations-1",
-"https://noelframe.com/policies",
-"https://noelframe.com/privacy-policy",
-"https://secure.actblue.com/donate/friends-of-noel-frame-1",
-"https://upperleftstrategies.com/",
-"https://web-cdn.bsky.app/profile/did:plc:w4u6wzjgf4dypfewx4eh2zsl"
+{
+"text": "0",
+"href": "https://www.noelframe.com/cart"
+},
+{
+"text": "2026 Endorsements",
+"href": "https://www.noelframe.com/organizations-1"
+},
+{
+"text": "ABOUT",
+"href": "https://www.noelframe.com/about-noel"
+},
+{
+"text": "About Noel",
+"href": "https://www.noelframe.com/about-noel"
+},
+{
+"text": "Back",
+"href": "https://www.noelframe.com/"
+},
+{
+"text": "Child Welfare",
+"href": "https://www.noelframe.com/issues/child-welfare"
+},
+{
+"text": "Contact",
+"href": "mailto:manager@noelframe.com?subject=Campaign+inquiry"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-noel-frame-1"
+},
+{
+"text": "Economic Prosperity for All of Us",
+"href": "https://www.noelframe.com/issues/prosperity"
+},
+{
+"text": "Education",
+"href": "https://www.noelframe.com/issues/education"
+},
+{
+"text": "Endorse Noel",
+"href": "mailto:manager@noelframe.com?subject=Endorsement"
+},
+{
+"text": "Engrossed Second Substitute Senate Bill 5814",
+"href": "https://app.leg.wa.gov/billsummary/?BillNumber=5814&Year=2025&Initiative=false"
+},
+{
+"text": "Environment",
+"href": "https://www.noelframe.com/issues/environment"
+},
+{
+"text": "Events",
+"href": "https://www.noelframe.com/events"
+},
+{
+"text": "Fighting Back Against Trump",
+"href": "https://www.noelframe.com/issues/fighting-trump"
+},
+{
+"text": "Folder: 2026 Endorsements",
+"href": "https://www.noelframe.com/endorsements"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.noelframe.com/get-involved"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.noelframe.com/folder-issues"
+},
+{
+"text": "HOME",
+"href": "https://www.noelframe.com/home"
+},
+{
+"text": "Healthcare Access",
+"href": "https://www.noelframe.com/issues/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.noelframe.com/"
+},
+{
+"text": "Housing & Homelessness",
+"href": "https://www.noelframe.com/issues/homes"
+},
+{
+"text": "News",
+"href": "https://www.noelframe.com/news"
+},
+{
+"text": "Next Next WA Democrats bring back wealth tax idea with ‘limited dollar amount’",
+"href": "https://www.noelframe.com/news/wa-democrats-bring-back-wealth-tax-idea-with-limited-dollar-amount"
+},
+{
+"text": "POLICIES",
+"href": "https://www.noelframe.com/policies"
+},
+{
+"text": "Previous Previous WA law mandating clergy report child abuse to be investigated by Trump’s Justice Department",
+"href": "https://www.noelframe.com/news/investigatewest-bill-5375"
+},
+{
+"text": "Privacy Policy | Website Terms & Conditions",
+"href": "https://www.noelframe.com/privacy-policy"
+},
+{
+"text": "Public Safety",
+"href": "https://www.noelframe.com/issues/public-safety"
+},
+{
+"text": "Racial and Social Equity",
+"href": "https://www.noelframe.com/issues/equity"
+},
+{
+"text": "Senate Bill 5794",
+"href": "https://app.leg.wa.gov/billsummary/?BillNumber=5794&Year=2025&Initiative=false"
+},
+{
+"text": "Senate Bill 5813",
+"href": "https://app.leg.wa.gov/billsummary/?BillNumber=5813&Year=2025&Initiative=false"
+},
+{
+"text": "Tax Reform",
+"href": "https://www.noelframe.com/issues/tax-reform"
+},
+{
+"text": "Upper Left Strategies",
+"href": "https://www.noelframe.com/news?author=5a7a2dfa5ce3508306aede93"
+},
+{
+"text": "Volunteer",
+"href": "mailto:manager@noelframe.com?subject=Volunteer+Inquiry"
+},
+{
+"text": "[image: Noel Frame: Democrat for State Senate - 36th LD]",
+"href": "https://www.noelframe.com/"
+},
+{
+"text": "[image] Upper Left Strategies",
+"href": "https://www.noelframe.com/news?author=5a7a2dfa5ce3508306aede93"
+},
+{
+"text": "[no text]",
+"href": "https://web-cdn.bsky.app/profile/did:plc:w4u6wzjgf4dypfewx4eh2zsl"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteNoelFrame"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/noelframe/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/noelframe/"
+},
+{
+"text": "https://upperleftstrategies.com",
+"href": "https://upperleftstrategies.com"
+}
 ]

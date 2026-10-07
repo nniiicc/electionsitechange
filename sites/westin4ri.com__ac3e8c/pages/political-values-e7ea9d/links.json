@@ -1,9 +1,46 @@
 [
-"https://facebook.com/Westin4RI",
-"https://secure.anedot.com/westin4ri/donate",
-"https://secure.winred.com/westin4ri/donate",
-"https://westin4ri.com/",
-"https://westin4ri.com/home",
-"https://westin4ri.com/political-values",
-"https://westin4ri.com/volunteer"
+{
+"text": "Click Here to Donate",
+"href": "https://secure.winred.com/westin4ri/donate"
+},
+{
+"text": "Contact",
+"href": "https://westin4ri.com/political-values/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/westin4ri/donate"
+},
+{
+"text": "Facebook page",
+"href": "https://www.facebook.com/Westin4RI"
+},
+{
+"text": "Goals",
+"href": "https://westin4ri.com/political-values/#goals"
+},
+{
+"text": "Home",
+"href": "https://westin4ri.com/"
+},
+{
+"text": "Political Values",
+"href": "https://westin4ri.com/political-values/"
+},
+{
+"text": "Volunteer",
+"href": "https://westin4ri.com/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://westin4ri.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Westin4RI"
+},
+{
+"text": "here",
+"href": "https://westin4ri.com/home/#newsletter"
+}
 ]

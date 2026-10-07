@@ -1,5 +1,4 @@
-Why I Am Running
-We made a decision as a family two years ago for me to leave the Ammon City Council and run for the Idaho Legislature.
+Skip to main content Wheeler For Idaho Menu Why I Am Running About Josh Blog Contact Campaign Voting Record Donate Volunteer Search the site Expand Search Why I Am Running We made a decision as a family two years ago for me to leave the Ammon City Council and run for the Idaho Legislature.
 We were disappointed by the way our representative was voting and embarrassed by his antics.
 After a hard fought campaign I found myself in Boise representing District 35.
 I am proud of what I was able to accomplish in my first term legislative session.
@@ -26,3 +25,4 @@ I am running for re-election and asking the voters to let me finish the job weâ€
 There are many who want to take their personal agendas to Boise.
 I am not an ideological purist who uses the public trust to throw partisan fits and accomplish little to nothing.
 There are problems to be solved and if re-elected you can count on me to work together with leaders from across the state and our Governor to ensure Idaho is in the best place to flourish.
+Home Why I Am Running Wheeler for Idaho Ben Spencer - Treasurer (208) 360-3926 Â© # Home About Josh Contact Campaign Back to top

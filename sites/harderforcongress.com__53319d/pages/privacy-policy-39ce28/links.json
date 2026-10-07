@@ -1,24 +1,90 @@
 [
-"http://aboutads.info/choices",
-"http://harderforcongress.com/donate",
-"http://harderforcongress.com/get-involved",
-"http://harderforcongress.com/issues",
-"http://harderforcongress.com/joshs-story",
-"http://macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html.",
-"http://veracitymedia.com/",
-"https://espanol.harderforcongress.com/",
-"https://facebook.com/harderforcongress",
-"https://facebook.com/markherringva",
-"https://harderforcongress.com/",
-"https://harderforcongress.com/media-center",
-"https://harderforcongress.com/privacy-policy",
-"https://harderforcongress.com/volunteer",
-"https://secure.actblue.com/donate/jhca-09-website",
-"https://secure.actblue.com/donate/jhca-09-website?amount=100",
-"https://secure.actblue.com/donate/jhca-09-website?amount=200",
-"https://secure.actblue.com/donate/jhca-09-website?amount=25",
-"https://secure.actblue.com/donate/jhca-09-website?amount=5",
-"https://secure.actblue.com/donate/jhca-09-website?amount=50",
-"https://twitter.com/MarkHerringVA",
-"https://twitter.com/joshharder?lang=en"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/jhca-09-website?amount=100"
+},
+{
+"text": "$200",
+"href": "https://secure.actblue.com/donate/jhca-09-website?amount=200"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/jhca-09-website?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/jhca-09-website?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/jhca-09-website?amount=50"
+},
+{
+"text": "Built by Veracity Media",
+"href": "http://veracitymedia.com"
+},
+{
+"text": "Campaign Media Center is available here",
+"href": "https://www.harderforcongress.com/media-center"
+},
+{
+"text": "Chip In",
+"href": "https://secure.actblue.com/donate/jhca-09-website"
+},
+{
+"text": "DONATE",
+"href": "http://harderforcongress.com/donate"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jhca-09-website"
+},
+{
+"text": "ESPAÑOL",
+"href": "https://espanol.harderforcongress.com"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/harderforcongress"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/markherringva"
+},
+{
+"text": "GET INVOLVED",
+"href": "http://harderforcongress.com/get-involved"
+},
+{
+"text": "ISSUES",
+"href": "http://harderforcongress.com/issues"
+},
+{
+"text": "Josh’s Story",
+"href": "http://harderforcongress.com/joshs-story"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.harderforcongress.com/privacy-policy/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/MarkHerringVA"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/joshharder?lang=en"
+},
+{
+"text": "[image]",
+"href": "https://harderforcongress.com"
+},
+{
+"text": "[image]",
+"href": "https://www.harderforcongress.com/"
+},
+{
+"text": "volunteer",
+"href": "https://harderforcongress.com/volunteer/"
+}
 ]

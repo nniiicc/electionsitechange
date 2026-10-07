@@ -1,5 +1,4 @@
-Kevin Martin · The Federal Budget
-An Audit Is Not an Accusation.
+Skip to sign-up Home Issues Donate Home The Issues The Federal Budget An Audit Is Not an Accusation Kevin Martin · The Federal Budget An Audit Is Not an Accusation.
 It Is How You Find Out Whether the Money Did What You Said It Would.
 Kevin Martin on why auditing federal programs is a routine management function, not a partisan weapon, and what should happen when a program cannot show its results.
 People hear the word audit and assume somebody is in trouble.
@@ -11,10 +10,8 @@ They find a process that drifted, a control that stopped being applied, a number
 Audits help us discover when there is potentially a point of disconnect in process that leads to loss of assets.
 They identify these shortcomings that need to be repaired, corrected, or terminated altogether, so that we can be effective, efficient, protective, and productive whether it's a business (public or private), government, or personal.
 That is the spirit I mean when I say Congress should audit everything.
-What auditing a program actually means
-Not an investigation.
-Four questions, asked on a schedule:
-What was this program supposed to accomplish?
+What auditing a program actually means Not an investigation.
+Four questions, asked on a schedule: What was this program supposed to accomplish?
 What did it cost?
 What did it actually accomplish?
 And is the difference between the second and third numbers worth it?
@@ -25,8 +22,7 @@ A program gets created, gets funded, and then gets re-funded every year on the a
 Nobody checks.
 There is no line in the process where checking happens.
 If a company ran that way, the auditors would qualify the opinion and the bank would call.
-The example that proves the point
-The Department of Defense has failed its financial audit eight years running.
+The example that proves the point The Department of Defense has failed its financial audit eight years running.
 Every audit since Congress required them starting in 2018.
 It is the only one of the government's twenty-four major agencies that has never passed.
 The most recent one identified twenty-six material weaknesses.
@@ -39,8 +35,7 @@ That we cannot say with confidence where it went.
 The department says it aims to pass by 2028.
 I hope it does.
 But I would point out that eight years of failing and a promise about year eleven is the kind of timeline that would not survive a board meeting anywhere else.
-What Congress actually controls
-Congress required the Pentagon audit in the first place, which is worth remembering.
+What Congress actually controls Congress required the Pentagon audit in the first place, which is worth remembering.
 When Congress decides something must be measured, it gets measured.
 Congress can attach reporting requirements to any appropriation.
 It can require outcome data as a condition of renewal.
@@ -62,8 +57,7 @@ And the funny, Ha, I forgot to laugh moment...
 The OMB guidance does not explicitly require noncompliant agencies to submit annual reports.
 (US Government Accountability Office).
 If we don't hold Congress and Government Agencies accountable for our tax dollars being spent, how can we hold non-tax paying citizens accountable for not paying taxes?
-What needs to change
-Every program reports outcomes, on a schedule, in public.
+What needs to change Every program reports outcomes, on a schedule, in public.
 Not activity.
 Outcomes.
 How many people, what changed for them, at what cost per person.
@@ -77,8 +71,7 @@ We do not have an information problem.
 We have a follow-through problem.
 Fund the auditors properly.
 Oversight is one of the few places where spending reliably returns more than it costs, and it is chronically underfunded because it has no constituency.
-Why I care about this more than most people
-Because I have done it.
+Why I care about this more than most people Because I have done it.
 I have been the person who has to say the number is wrong and watch a room get uncomfortable.
 Business had died by simply not setting rules, writing policies, and setting procedures in place to monitor and evaluate production, costs, and revenues.
 A simple mind set learned in Management Theory at Georgia Tech - Plan, Organize, and Control.
@@ -92,3 +85,8 @@ People simply do not have guidance, policy, and procedures in place.
 It is a program that made sense in 1994, and nobody has looked at since, running on autopilot with a budget line and no owner.
 You do not find that with outrage.
 You find it by looking, on a schedule, at everything and asking that question our 5-year-old children ask - WHY.
+Sources Defense News — Pentagon fails financial audit for 8th year in a row Breaking Defense — Pentagon fails another audit, restates 2028 goal Where Kevin stands on this issue The Federal Budget Pass an actual budget through regular order, fund the core obligations first, and make every other program justify itself before it gets another appropriation.
+Where he stands → It's your turn to be important.
+It only takes a minute to tell Kevin what you need him to focus on.
+Tell Kevin what you expect → No spam, ever.
+PAID FOR BY COMMITTEE TO ELECT KEVIN E MARTIN 4480 SOUTH COBB DRIVE SUITE H PO BOX 373 SMYRNA, GA 30080 The Issues Privacy Policy & Terms and Conditions

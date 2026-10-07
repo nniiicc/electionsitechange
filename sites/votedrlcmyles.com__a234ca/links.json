@@ -1,17 +1,78 @@
 [
-"https://augustaga.gov/2795/Augusta-Richmond-County",
-"https://burkecounty-ga.gov/",
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://jenkinscountyga.com/",
-"https://swipesimple.com/links/lnk_162ea8fa",
-"https://twitter.com/wix",
-"https://votedrlcmyles.com/",
-"https://votedrlcmyles.com/about",
-"https://votedrlcmyles.com/contact",
-"https://votedrlcmyles.com/events",
-"https://votedrlcmyles.com/privacy-policy",
-"https://votedrlcmyles.com/support-us",
-"https://votedrlcmyles.com/terms-of-use",
-"https://youtube.com/user/Wix"
+{
+"text": "About",
+"href": "https://www.votedrlcmyles.com/about"
+},
+{
+"text": "BURKE, COUNTY",
+"href": "https://burkecounty-ga.gov"
+},
+{
+"text": "Contact",
+"href": "https://www.votedrlcmyles.com/contact"
+},
+{
+"text": "DR. LC MYLES",
+"href": "https://www.votedrlcmyles.com"
+},
+{
+"text": "Donate",
+"href": "https://swipesimple.com/links/lnk_162ea8fa"
+},
+{
+"text": "Events",
+"href": "https://www.votedrlcmyles.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votedrlcmyles.com/support-us"
+},
+{
+"text": "Home",
+"href": "https://www.votedrlcmyles.com"
+},
+{
+"text": "JENKINS, COUNTY",
+"href": "https://www.jenkinscountyga.com"
+},
+{
+"text": "Our Mission",
+"href": "https://www.votedrlcmyles.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votedrlcmyles.com/privacy-policy"
+},
+{
+"text": "RICHMOND, COUNTY",
+"href": "https://www.augustaga.gov/2795/Augusta-Richmond-County"
+},
+{
+"text": "Support Us",
+"href": "https://www.votedrlcmyles.com/support-us"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.votedrlcmyles.com/terms-of-use"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/wix/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/user/Wix"
+},
+{
+"text": "voteDrLCMyles@gmail.com",
+"href": "mailto:voteDrLCMyles@gmail.com"
+}
 ]

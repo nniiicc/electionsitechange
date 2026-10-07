@@ -1,5 +1,4 @@
-Family & Service to our Community
-I am a strong conservative, problem solver, and dedicated to family values.
+0 Skip to Content About About Max Gallery Priorities News Get in Touch Volunteer Contact Donate Open Menu Close Menu About About Max Gallery Priorities News Get in Touch Volunteer Contact Donate Open Menu Close Menu Folder: About Back About Max Gallery Priorities News Folder: Get in Touch Back Volunteer Contact Donate Family & Service to our Community I am a strong conservative, problem solver, and dedicated to family values.
 Castle Rock is my home.
 It is where I raised my family.
 I currently serve as your State Representative for House District 45.
@@ -11,9 +10,9 @@ Prior to serving on Town Council, I was Chairman of the Castle Rock Planning Com
 I also served on the Town's Water Commission and served as the first President of the Castlewood Ranch Homeowners Association.
 I was born in Oklahoma near Fort Sill to an Army enlisted father and mother who grew up in rural America.
 I attended a Christian military school and was raised in Lakewood, Colorado.
-I moved to Castle Rock nearly 20 years ago.
-*I did not serve in the military.
+I moved to Castle Rock nearly #ago. *I did not serve in the military.
 I attended a Christian military school.
 I worked for KOA-AM radio for two decades, traveling with the Colorado Rockies baseball club and, later, in sales management including Political Sales Manager for all eight Clear Channel-owned radio stations in the Denver market.
 I am a fervent baseball fan, I volunteered many years as a youth baseball coach, including freshman coach at Columbine High School and have served as a member of the board of directors of the Douglas County Dolphins youth baseball program.
 I serve as the emcee of the Douglas County Fair and Rodeo parade, a beloved family-friendly annual event I cherish, which underscores my commitment to fostering community spirit and celebrating the traditions that make Castle Rock and Douglas County unique.
+PAID FOR BY MAX BROOKS FOR COLORADO COMMITTEE; REGISTERED AGENT MAX BROOKS About Max Priorities Volunteer Contact Donate Privacy Policy ﻿

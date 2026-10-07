@@ -1,7 +1,12 @@
 {
  "description": "Official campaign website for Matt Lockett for State Representative",
  "final_url": "https://www.lockett4ky.com/",
+ "fingerprint": "b8eaac3356476bd54bc4148f208d79bdbb58e006",
+ "format": 3,
  "paid_for_by": "Paid for by Matt Lockett for State Representative Powered by CampaignPartner",
  "title": "Matt Lockett for State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2000",
+  "2026"
+ ]
 }

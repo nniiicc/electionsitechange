@@ -1,5 +1,3 @@
-Rep.
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Nicole Malliotakis Malliotakis: We continue looking for ways to Ax the Congestion Pricing Tax by Team Nicole on Apr 26, 2024 Rep.
 Nicole Malliotakis discussed the introduction of new legislation to prohibit Congestion Pricing.
-STAND WITH NICOLE
-by Team Nicole on
-Apr 26, 2024
+Watch share NEXT ARTICLE Malliotakis: This is a Sham Trial PREVIOUS ARTICLE Malliotakis: Stop Voting for Democrats Destroying Public Safety & Quality of Life STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

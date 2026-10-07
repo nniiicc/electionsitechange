@@ -1,4 +1,6 @@
-| June 24, 2022 Nashville, TN – Today, the Supreme Court of the United States published its opinion in the landmark Dobbs v.
+Skip to content About Stay Informed Policy Priorities News & Updates Request E-Newsletter How to Vote Join TeamJRC Contribute Volunteer Media Contact Legislative Contact Campaign Contact About Stay Informed Policy Priorities News & Updates Request E-Newsletter How to Vote Join TeamJRC Contribute Volunteer Media Contact Legislative Contact Campaign Contact Donate Tiktok Instagram Facebook-f Threads X-twitter State Rep.
+Clemmons’ Statement on U.S.
+Supreme Court Opinion Eliminating Women’s Constitutional Right to Abortion June 24, 2022 Nashville, TN – Today, the Supreme Court of the United States published its opinion in the landmark Dobbs v.
 Jackson Women’s Health Organization case.
 In response to the opinion, State Representative John Ray Clemmons (D-Nashville) released the following statement: Today, the Supreme Court of the United States failed Tennessee families by overruling fifty years of judicial precedent.
 In so doing, the Court not only strips away a woman’s constitutional right, it also effectively robs them of their human dignity.
@@ -14,4 +16,7 @@ Together, we are the majority.
 Together, we can restore our loved one’s rights and dignity.
 Each of us must do our part to protect the integrity of Tennessee families for generations to come.
 Elections matter.
-Vote. ### |
+Vote.
+### jrclemmons@gmail.com (615) 741-4410 Request E-Newsletter © John Ray Clemmons. | Paid for by Friends of John Ray Clemmons, Sydney U.
+Rogers, Treasurer | Site Designed by Epic Nine © John Ray Clemmons. | Paid for by Friends of John Ray Clemmons, Sydney U.
+Rogers, Treasurer | Site Designed by Epic Nine

@@ -1,4 +1,4 @@
-I am a small business owner and the executive director of a nonprofit in Jonesborough, Tennessee.
+top of page HOME LIBERTY BEAGLE ABOUT VOLUNTEER RESOURCES CONTACT EVENTS ISSUES TRANSPARENCY ACCOUNTABILITY ACT ISSUES YARD SIGNS PUBLIC SERVICE PLEDGE VOTING RESOURCES ALL95 BLOG CONTACT EVENTS ISSUES TRANSPARENCY ACCOUNTABILITY ACT ISSUES YARD SIGNS PUBLIC SERVICE PLEDGE VOTING RESOURCES ALL95 BLOG Mobile Home Menu Close I am a small business owner and the executive director of a nonprofit in Jonesborough, Tennessee.
 I have a background in business, history, and archaeology including a M.B.A. from East Tennessee State University, a M.A.
 (Military History) from Austin Peay State University, and a Ph.D.
 (Classics) from the University of Newcastle.
@@ -9,9 +9,7 @@ I have published work in both fiction and non-fiction and have taught courses an
 I’ve been a life-long volunteer that embodies the Tennessee spirit.
 Whether through activities in my communities or teaching self-defense in my spare time, I have always tried my best to lift others up.
 This is my expectation of myself in public office.
-Meet Robert
-Amplifying the Voices of Tennesseans
-Why Me?
+Meet Robert Amplifying the Voices of Tennesseans Why Me?
 I am running for this position because I feel that our country is going through a transition period that demands service.
 I believe this position can be better served by someone outside the constraints of our traditional parties.
 I am not, and will never claim to be, an expert politician.
@@ -32,8 +30,7 @@ In Tennessee...
 I met my partner of 24 years.
 I welcomed my daughter to this world.
 I fought against and survived a cancer diagnosis.
-I grew up safely, played carefree as a child, and was granted opportunity.
-I have lived in Tennessee for most of my life.
+I grew up safely, played carefree as a child, and was granted opportunity. ​ I have lived in Tennessee for most of my life.
 In that time, I have seen the very best of what this state has to offer.
 Tennesseans help each other when times are tough.
 We stand united when disaster strikes.
@@ -47,7 +44,8 @@ We, the people, still hold the greatest influence in this country.
 I believe in our people.
 I have been surrounded by the people of this wonderful state for the vast majority of my life.
 We are giving, loving, and we care about our neighbors and their hardships.
-Stay In Touch
-If you would like to receive updates, please complete our signup form.
-You can also follow my campaign progress on social media or through the ALL95 BLOG.
-If you have any inquiries, want to volunteer, or want to connect at one of our ALL95 events, please fill out our CONTACT FORM or reach out on Facebook or Instagram.
+Pledges Click on the images to see more about the pledges I have committed to better serve Tennessee constituents and all residents Name * Email * By checking this box, I agree to receive email updates.
+Submit Stay In Touch If you would like to receive updates, please complete our signup form.
+You can also follow my campaign progress on social media or through the ALL95 BLOG .
+If you have any inquiries, want to volunteer, or want to connect at one of our ALL95 events , please fill out our CONTACT FORM or reach out on Facebook or Instagram .
+CONTACT US Go robert@all95.com PAID FOR BY ROBERT JONES FOR TENNESSEE Treasurer Cindy Harlow Updates Accessibility Statement Privacy Policy Yard Signs Pledge Events ALL95 Blog HOME LIBERTY BEAGLE ABOUT VOLUNTEER RESOURCES CONTACT EVENTS ISSUES TRANSPARENCY ACCOUNTABILITY ACT ISSUES YARD SIGNS PUBLIC SERVICE PLEDGE VOTING RESOURCES ALL95 BLOG HOME LIBERTY BEAGLE ABOUT VOLUNTEER RESOURCES CONTACT EVENTS ISSUES TRANSPARENCY ACCOUNTABILITY ACT ISSUES YARD SIGNS PUBLIC SERVICE PLEDGE VOTING RESOURCES ALL95 BLOG bottom of page

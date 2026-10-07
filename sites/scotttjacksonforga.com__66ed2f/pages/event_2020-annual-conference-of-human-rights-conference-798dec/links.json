@@ -1,29 +1,122 @@
 [
-"http://maps.google.com/maps?q=Aberdeen+City%2C+UK&zoom=14&size=512x512&maptype=roadmap&sensor=false",
-"https://facebook.com/scotttjacksonforga",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fscotttjacksonforga.com%2Fevent%2F2020-annual-conference-of-human-rights-conference%2F",
-"https://instagram.com/scotttjacksonforga",
-"https://linkedin.com/in/scotttjackson",
-"https://linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fscotttjacksonforga.com%2Fevent%2F2020-annual-conference-of-human-rights-conference%2F",
-"https://pinterest.com/pin/create/button?url=https%3A%2F%2Fscotttjacksonforga.com%2Fevent%2F2020-annual-conference-of-human-rights-conference%2F",
-"https://scotttjacksonforga.com/",
-"https://scotttjacksonforga.com/Priorities/economic-opprotunity",
-"https://scotttjacksonforga.com/Priorities/education-workforce",
-"https://scotttjacksonforga.com/Priorities/healthcare-access",
-"https://scotttjacksonforga.com/Priorities/infrastructure",
-"https://scotttjacksonforga.com/Priorities/responsible-government",
-"https://scotttjacksonforga.com/Priorities/safe-communities",
-"https://scotttjacksonforga.com/contact-us",
-"https://scotttjacksonforga.com/endorse-scott",
-"https://scotttjacksonforga.com/event-type/meeting",
-"https://scotttjacksonforga.com/events",
-"https://scotttjacksonforga.com/meet-scott",
-"https://scotttjacksonforga.com/news",
-"https://scotttjacksonforga.com/priorities",
-"https://scotttjacksonforga.com/privacy-policy",
-"https://scotttjacksonforga.com/terms-and-conditions",
-"https://scotttjacksonforga.com/volunteer",
-"https://secure.actblue.com/donate/scotttjacksonforga",
-"https://twitter.com/share?text=twitter&url=https%3A%2F%2Fscotttjacksonforga.com%2Fevent%2F2020-annual-conference-of-human-rights-conference%2F",
-"https://xing.com/spi/shares/new?url=https%3A%2F%2Fscotttjacksonforga.com%2Fevent%2F2020-annual-conference-of-human-rights-conference%2F"
+{
+"text": "Aberdeen City, UK",
+"href": "http://maps.google.com/maps?q=Aberdeen+City%2C+UK&zoom=14&size=512x512&maptype=roadmap&sensor=false"
+},
+{
+"text": "Contact Us",
+"href": "https://scotttjacksonforga.com/contact-us/"
+},
+{
+"text": "Contact the Campaign: (404) 953-5268",
+"href": "tel:14049535268"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/scotttjacksonforga"
+},
+{
+"text": "Economic Opprotunity",
+"href": "https://scotttjacksonforga.com/Priorities/economic-opprotunity/"
+},
+{
+"text": "Education & Workforce",
+"href": "https://scotttjacksonforga.com/Priorities/education-workforce/"
+},
+{
+"text": "Email: info@scotttjacksonforga.com",
+"href": "mailto:info@scotttjacksonforga.com"
+},
+{
+"text": "Endorse Scott",
+"href": "https://scotttjacksonforga.com/endorse-scott/"
+},
+{
+"text": "Events",
+"href": "https://scotttjacksonforga.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fscotttjacksonforga.com%2Fevent%2F2020-annual-conference-of-human-rights-conference%2F"
+},
+{
+"text": "Healthcare Access",
+"href": "https://scotttjacksonforga.com/Priorities/healthcare-access/"
+},
+{
+"text": "Home",
+"href": "https://scotttjacksonforga.com/"
+},
+{
+"text": "Infrastructure",
+"href": "https://scotttjacksonforga.com/Priorities/infrastructure/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fscotttjacksonforga.com%2Fevent%2F2020-annual-conference-of-human-rights-conference%2F"
+},
+{
+"text": "Meet Scott",
+"href": "https://scotttjacksonforga.com/meet-scott/"
+},
+{
+"text": "Meeting",
+"href": "https://scotttjacksonforga.com/event-type/meeting/"
+},
+{
+"text": "News",
+"href": "https://scotttjacksonforga.com/news/"
+},
+{
+"text": "Pinterest",
+"href": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fscotttjacksonforga.com%2Fevent%2F2020-annual-conference-of-human-rights-conference%2F"
+},
+{
+"text": "Priorities",
+"href": "https://scotttjacksonforga.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://scotttjacksonforga.com/privacy-policy/"
+},
+{
+"text": "Responsible Government",
+"href": "https://scotttjacksonforga.com/Priorities/responsible-government/"
+},
+{
+"text": "Safe Communities",
+"href": "https://scotttjacksonforga.com/Priorities/safe-communities/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://scotttjacksonforga.com/terms-and-conditions/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/share?text=twitter&url=https%3A%2F%2Fscotttjacksonforga.com%2Fevent%2F2020-annual-conference-of-human-rights-conference%2F"
+},
+{
+"text": "Volunteer",
+"href": "https://scotttjacksonforga.com/volunteer/"
+},
+{
+"text": "Xing",
+"href": "https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fscotttjacksonforga.com%2Fevent%2F2020-annual-conference-of-human-rights-conference%2F"
+},
+{
+"text": "[image: Scott T. Jackson for GA][image: Scott T. Jackson for GA]",
+"href": "https://scotttjacksonforga.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/scotttjacksonforga/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/scotttjacksonforga"
+},
+{
+"text": "[tooltip: LinkedIn]",
+"href": "https://www.linkedin.com/in/scotttjackson"
+}
 ]

@@ -1,18 +1,17 @@
-CONTACT
-For Scheduling or Campaign Requests:
-schedule@johndeatonforsenate.com
-For Press Inquiries:
-If you would like to mail your contribution to the campaign, please make your check payable to:
-John Deaton for Senate Inc.
+Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security DONATE DONATE Meet John Issues Volunteer Contact Vote News Store Events DONATE CONTACT For Scheduling or Campaign Requests: schedule@johndeatonforsenate.com For Press Inquiries: press@johndeatonforsenate.com If you would like to mail your contribution to the campaign, please make your check payable to: John Deaton for Senate Inc.
 P.O.
-Box 130
-1093 Main Street
-Bolton, MA 01740
-Please include your employer and occupation with your contribution.
-For Scheduling or Campaign Requests: info@johndeatonforsenate.com
-For Press Inquiries: press@johndeatonforsenate.com
-If you would like to mail your contribution to the campaign, please make your check payable to:
-John Deaton for Senate Inc.
+Box 130 1093 Main Street Bolton, MA 01740 Please include your employer and occupation with your contribution.
+For Scheduling or Campaign Requests: info@johndeatonforsenate.com For Press Inquiries: press@johndeatonforsenate.com If you would like to mail your contribution to the campaign, please make your check payable to: John Deaton for Senate Inc.
 P.O.
-Box 130, 1093 Main Street, Bolton, MA 01740
-Please include your employer and occupation with your contribution.
+Box 130, 1093 Main Street, Bolton, MA 01740 Please include your employer and occupation with your contribution.
+CONTRIBUTION FORM WE TAKE CRYPTO SUPPORT JOHN'S CAMPAIGN ﻿ John Deaton’s campaign counts on everyday people like you to chip in what you can.
+Every donation counts.
+DONATE TODAY JOHN DEATON FOR SENATE INC.
+General inquiries: info@johndeatonforsenate.com Press inquiries: press@johndeatonforsenate.com Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security PAID FOR BY JOHN DEATON FOR SENATE INC.
+PRIVACY POLICY TERMS OF SERVICE By providing your email address you consent to receive periodic campaign updates from John Deaton for Senate Inc.
+By providing your phone number, you are consenting to receive calls and recurring SMS/MMS messages, including artificial, pre-recorded, autodialed and automated calls and texts, to that number from John Deaton for Senate Inc.
+Msg&data rates may apply.
+Reply HELP for help, STOP to end.
+Terms & conditions/privacy policy apply.
+John Deaton was a Captain in the United States Marine Corps.
+Use of his military rank, job titles, and photographs in uniform does not constitute or imply endorsement by the Marine Corps or the Department of Defense. ﻿ Share by:

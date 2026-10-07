@@ -1,11 +1,2 @@
-Home
-Meet Adrianne
-Adrianne's Priorities
-Volunteer
-Donate
-Endorsements
-More
-Candidate for Massachusetts State Representative, 14th Essex District
-Amesbury, Boxford, Groveland, North Andover, West Newbury
-ramos4rep@gmail.com
-Thanks for submitting!
+top of page Home Meet Adrianne Adrianne's Priorities Volunteer Donate Endorsements More Use tab to navigate through the menu items.
+ADRIANNE RAMOS Candidate for Massachusetts State Representative, 14th Essex​ District Amesbury, Boxford, Groveland, North Andover, West Newbury MAKING A DIFFERENCE, TOGETHER VOLUNTEER DONATE CONTACT ramos4rep@gmail.com Submit Thanks for submitting! ©# by Adrianne Ramos for Rep. bottom of page

@@ -1,16 +1,82 @@
 [
-"https://epcountyvotes.com/quick_links/current_election",
-"https://epcountyvotes.com/quick_links/early_voting",
-"https://epcountyvotes.com/quick_links/where_do_i_vote",
-"https://epcountyvotes.com/voter_information/identification_required_for_voting",
-"https://secure.ngpvan.com/XMAz-X2gRkWUJps6dmz4Og2",
-"https://veronicaescobar.com/",
-"https://veronicaescobar.com/about-veronica",
-"https://veronicaescobar.com/get-involved",
-"https://veronicaescobar.com/issues",
-"https://veronicaescobar.com/media",
-"https://veronicaescobar.com/vote-el-paso",
-"https://veronicaescobar.com/vote-el-paso/donors",
-"https://veronicaescobar.com/voting",
-"https://wpastra.com/"
+{
+"text": "About Veronica",
+"href": "https://veronicaescobar.com"
+},
+{
+"text": "About Veronica",
+"href": "https://veronicaescobar.com/about-veronica/"
+},
+{
+"text": "Acceptable IDs for Voting",
+"href": "https://epcountyvotes.com/voter_information/identification_required_for_voting"
+},
+{
+"text": "Astra WordPress Theme",
+"href": "https://wpastra.com"
+},
+{
+"text": "Current Election Information",
+"href": "https://epcountyvotes.com/quick_links/current_election"
+},
+{
+"text": "Early Voting Locations",
+"href": "https://epcountyvotes.com/quick_links/early_voting"
+},
+{
+"text": "Get Involved",
+"href": "https://veronicaescobar.com/get-involved/"
+},
+{
+"text": "Homepage",
+"href": "https://veronicaescobar.com/"
+},
+{
+"text": "Issues",
+"href": "https://veronicaescobar.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://veronicaescobar.com/media/"
+},
+{
+"text": "Request Application",
+"href": "https://secure.ngpvan.com/XMAz-X2gRkWUJps6dmz4Og2"
+},
+{
+"text": "Support Vote El Paso",
+"href": "https://veronicaescobar.com/vote-el-paso/donors/"
+},
+{
+"text": "Veronica Escobar | Democrat for Congress | El Paso, Texas",
+"href": "https://veronicaescobar.com/"
+},
+{
+"text": "Vote El Paso",
+"href": "https://veronicaescobar.com/vote-el-paso/"
+},
+{
+"text": "Voter Hotline: 915-224-0331",
+"href": "https://epcountyvotes.com/voter_information/identification_required_for_voting"
+},
+{
+"text": "Voting",
+"href": "https://veronicaescobar.com/voting/"
+},
+{
+"text": "Voting Locations",
+"href": "https://epcountyvotes.com/quick_links/where_do_i_vote"
+},
+{
+"text": "Where to Vote",
+"href": "https://epcountyvotes.com/quick_links/where_do_i_vote"
+},
+{
+"text": "[image: Veronica Escobar | Democrat for Congress | El Paso, Texas]",
+"href": "https://veronicaescobar.com/"
+},
+{
+"text": "[no text]",
+"href": "https://epcountyvotes.com/quick_links/where_do_i_vote"
+}
 ]

@@ -1,5 +1,4 @@
-When Benjamin Franklin was asked what kind of government the newly-formed United States would have, he famously replied, “A Republic, if you can keep it.”
-From the very beginning of this nation, freedom has been under attack, and if we do not constantly engage in fighting for it and protecting it, our rights will be eroded.
+Home Meet Kiyan The Issues Legislative Victories Contact Stand with Kiyan THE ISSUES WE FACE Freedom Immigration Insurance Public Safety Veterans Education When Benjamin Franklin was asked what kind of government the newly-formed United States would have, he famously replied, “A Republic, if you can keep it.” From the very beginning of this nation, freedom has been under attack, and if we do not constantly engage in fighting for it and protecting it, our rights will be eroded.
 Those rights enshrined in our Constitution must be defended: free speech, freedom of religion, the right to keep and bear arms, the right to life and private property — these are all under attack by the radical left.
 How do we protect them?
 First by electing leaders committed to protecting them.
@@ -38,4 +37,11 @@ Radical transgenderism, filthy books in libraries, and racist indoctrination wer
 In Florida, we have taken a stand for parents and passed legislation to get the inappropriate books out of libraries, stop woke indoctrination, and protect girls’ sports from being completely destroyed by biological males.
 The left wants to silence our parents’ voices in schools and colleges.
 I will continue to fight to make our classrooms world-class harbors for learning not a pulpit for Marxism.
-Please show your support for Kiyan Michael so she may continue to fight the good fight in Tallahassee!
+STAND WITH KIYAN Please show your support for Kiyan Michael so she may continue to fight the good fight in Tallahassee!
+STAND WITH KIYAN Keep Our State Great and Join Me!
+Contact Kiyan Stand with Kiyan Thank you for contacting Kiyan.
+Oops...! some problem!
+Get In Touch Contact Kiyan Send Together we can protect our state from the radical left!
+Involve Your Friends and Family Share Kiyan on Social Media Vote Kiyan Paid by Kiyan Michael, Republican, for Florida State Representative District 16.
+Contact Us P.O.
+Box 350655 Jacksonville, FL 32235 Facebook Twitter Links Home Meet Kiyan Legislative Victories The Issues

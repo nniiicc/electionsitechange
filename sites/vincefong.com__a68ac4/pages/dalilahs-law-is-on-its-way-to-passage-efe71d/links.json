@@ -1,20 +1,90 @@
 [
-"https://facebook.com/VinceFongCA",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fvincefong.com%2Fdalilahs-law-is-on-its-way-to-passage%2F&title=Dalilah%26%238217%3Bs+Law+Is+On+Its+Way+to+Passage",
-"https://instagram.com/fongressman",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fvincefong.com%2Fdalilahs-law-is-on-its-way-to-passage%2F&title=Dalilah%26%238217%3Bs+Law+Is+On+Its+Way+to+Passage",
-"https://secure.anedot.com/vince-fong-for-congress/donate",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fvincefong.com%2Fdalilahs-law-is-on-its-way-to-passage%2F&text=Dalilah%26%238217%3Bs+Law+Is+On+Its+Way+to+Passage",
-"https://vincefong.com/",
-"https://vincefong.com/about",
-"https://vincefong.com/category/in-the-news",
-"https://vincefong.com/category/news",
-"https://vincefong.com/category/press-release",
-"https://vincefong.com/contact",
-"https://vincefong.com/gallery",
-"https://vincefong.com/issues",
-"https://vincefong.com/privacy",
-"https://vincefong.com/support",
-"https://vincefong.com/terms",
-"https://x.com/vfong"
+{
+"text": "About",
+"href": "https://vincefong.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://vincefong.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/vince-fong-for-congress/donate"
+},
+{
+"text": "Gallery",
+"href": "https://vincefong.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://vincefong.com/"
+},
+{
+"text": "In the News",
+"href": "https://vincefong.com/category/in-the-news/"
+},
+{
+"text": "Issues",
+"href": "https://vincefong.com/issues/"
+},
+{
+"text": "Join Us",
+"href": "https://vincefong.com/support/"
+},
+{
+"text": "Join Vince",
+"href": "https://vincefong.com/support/"
+},
+{
+"text": "Menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "News",
+"href": "https://vincefong.com/category/news/"
+},
+{
+"text": "Posts",
+"href": "https://vincefong.com/category/news/"
+},
+{
+"text": "Press Releases",
+"href": "https://vincefong.com/category/press-release/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://vincefong.com/privacy/"
+},
+{
+"text": "Share on Facebook Facebook",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fvincefong.com%2Fdalilahs-law-is-on-its-way-to-passage%2F&title=Dalilah%26%238217%3Bs+Law+Is+On+Its+Way+to+Passage"
+},
+{
+"text": "Share on Linkedin Linkedin",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fvincefong.com%2Fdalilahs-law-is-on-its-way-to-passage%2F&title=Dalilah%26%238217%3Bs+Law+Is+On+Its+Way+to+Passage"
+},
+{
+"text": "Terms of Use",
+"href": "https://vincefong.com/terms/"
+},
+{
+"text": "[image: Vince Fong for Congress]",
+"href": "https://vincefong.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/VinceFongCA/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/fongressman/"
+},
+{
+"text": "[tooltip: X (Twitter)]",
+"href": "https://x.com/vfong"
+},
+{
+"text": "𝕏 Share on X X",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fvincefong.com%2Fdalilahs-law-is-on-its-way-to-passage%2F&text=Dalilah%26%238217%3Bs+Law+Is+On+Its+Way+to+Passage"
+}
 ]

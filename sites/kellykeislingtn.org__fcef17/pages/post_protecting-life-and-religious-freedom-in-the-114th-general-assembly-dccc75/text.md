@@ -1,5 +1,5 @@
-Protecting Life and Religious Freedom in the 114th General Assembly
-The values that define District 38 are rooted in faith and a deep respect for the sanctity of human life.
+top of page HOME ABOUT THE ISSUES NEWS CONTACT More Use tab to navigate through the menu items.
+All Posts Search Protecting Life and Religious Freedom in the 114th General Assembly Team Keisling Jun 14 2 min read The values that define District 38 are rooted in faith and a deep respect for the sanctity of human life.
 These are not just personal convictions for me.
 They are the bedrock of the community I am honored to represent, and they shaped my work throughout the 114th General Assembly.
 On the issue of life, we strengthened protections for pregnant women and unborn children, ensuring that when a woman chooses life, the support she needs is available to her.
@@ -21,3 +21,6 @@ Understanding where we came from is essential to knowing where we are going.
 Faith is not just a Sunday morning activity for the people of District 38.
 It is the foundation of how we live, how we treat each other, and how we raise our children.
 I will always stand up for the freedom to live according to that faith, and I will always fight to protect the lives that faith calls us to value.
+Post Office Box 577, Byrdstown, Tennessee 38549 ( 615) 741-6852 | ktkeisling@gmail.com Paid for by Kelly Keisling for State Representative, John Keisling, Treasurer.
+Web design by ZDStephens Company .
+Privacy Policy: Click Here bottom of page

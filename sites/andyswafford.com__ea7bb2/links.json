@@ -1,11 +1,38 @@
 [
-"https://andyswafford.com/",
-"https://facebook.com/share/15rG6bMHRya?mibextid=wwXlfr",
-"https://flickr.com/photos/204716594@N04",
-"https://instagram.com/andyswaffordfortennessee",
-"https://secure.winred.com/andrew-swafford-for-tn/donate",
-"https://secure.winred.com/andrew-swafford-for-tn/donate?amount=100",
-"https://secure.winred.com/andrew-swafford-for-tn/donate?amount=25",
-"https://secure.winred.com/andrew-swafford-for-tn/donate?amount=250",
-"https://secure.winred.com/andrew-swafford-for-tn/donate?amount=50"
+{
+"text": "$100",
+"href": "https://secure.winred.com/andrew-swafford-for-tn/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/andrew-swafford-for-tn/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/andrew-swafford-for-tn/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/andrew-swafford-for-tn/donate?amount=50"
+},
+{
+"text": "Connect with Andy on Facebook",
+"href": "https://www.facebook.com/share/15rG6bMHRya/?mibextid=wwXlfr"
+},
+{
+"text": "Connect with Andy on Instagram",
+"href": "https://www.instagram.com/andyswaffordfortennessee"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/andrew-swafford-for-tn/donate"
+},
+{
+"text": "View the Andy Swafford Media Gallery",
+"href": "https://www.flickr.com/photos/204716594@N04"
+},
+{
+"text": "[image: Andy Swafford for State Representative]",
+"href": "https://andyswafford.com/"
+}
 ]

@@ -1,11 +1,50 @@
 [
-"http://aboutads.info/choices",
-"https://beckleyforidaho.com/",
-"https://beckleyforidaho.com/privacy-policy",
-"https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
-"https://edoeb.admin.ch/edoeb/en/home.html",
-"https://oag.state.va.us/consumer-protection/index.php/file-a-complaint",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/brian-beckley-for-idaho/donate-today"
+{
+"text": "About",
+"href": "https://beckleyforidaho.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/brian-beckley-for-idaho/donate-today"
+},
+{
+"text": "Home",
+"href": "https://beckleyforidaho.com/"
+},
+{
+"text": "Issues",
+"href": "https://beckleyforidaho.com/#issues"
+},
+{
+"text": "Join",
+"href": "https://beckleyforidaho.com/#join"
+},
+{
+"text": "Privacy Policy",
+"href": "https://beckleyforidaho.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Logo of Brian Beckley for Idaho State House]",
+"href": "https://beckleyforidaho.com/"
+},
+{
+"text": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
+"href": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm"
+},
+{
+"text": "https://www.edoeb.admin.ch/edoeb/en/home.html",
+"href": "https://www.edoeb.admin.ch/edoeb/en/home.html"
+},
+{
+"text": "submit a complaint",
+"href": "https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint"
+}
 ]

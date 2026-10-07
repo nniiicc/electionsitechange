@@ -1,5 +1,4 @@
-Meet Lindsay
-Lindsay Gilchrist is the representative for the Colorado State Legislature for House District 8.
+0 Skip to Content Home Meet Lindsay Issues Newsletters Get Involved Endorsements Donate Open Menu Close Menu Home Meet Lindsay Issues Newsletters Get Involved Endorsements Donate Open Menu Close Menu Home Meet Lindsay Issues Newsletters Get Involved Endorsements Donate Meet Lindsay Lindsay Gilchrist is the representative for the Colorado State Legislature for House District 8.
 Lindsay was born and raised in Denver, and she is deeply proud of her roots.
 She went to East High School like her uncles and grandmother before her.
 She lives in Park Hill with her wife and three kids, just a block away from where her Dad grew up.
@@ -33,3 +32,5 @@ Lindsay and her wife are also foster and adoptive parents and know personally ho
 Improving the child welfare system will be a central priority for her.
 Lindsay has always deeply believed in public service and that government should be a place where we come together to solve real problems.
 That is why Lindsay is running, and she is looking forward to earning your support.
+Paid for by Gilchrist for Colorado.
+Registered Agent: Lindsay Gilchrist.

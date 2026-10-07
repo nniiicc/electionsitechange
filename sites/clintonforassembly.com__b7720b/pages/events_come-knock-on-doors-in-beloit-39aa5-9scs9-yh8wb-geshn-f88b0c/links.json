@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Come+Knock+on+Doors+in+Beloit+&dates=20220918T160000Z%2F20220918T220000Z&location=328+State+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States",
-"http://maps.google.com/?q=328+State+Street+Beloit%2C+WI%2C+53511+United+States",
-"https://clintonforassembly.com/",
-"https://clintonforassembly.com/about",
-"https://clintonforassembly.com/cart",
-"https://clintonforassembly.com/endorsements",
-"https://clintonforassembly.com/events",
-"https://clintonforassembly.com/events/beloit-office-opening",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-geshn?format=ical",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-gn5m7",
-"https://clintonforassembly.com/issues",
-"https://facebook.com/Clinton-Anderson-for-Assembly-District-45-104142868937053",
-"https://mobilize.us/s/9DQf4L",
-"https://secure.actblue.com/donate/clinton-for-45"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=328+state+street+beloit%2C+wi%2C+53511+united+states"
+},
+{
+"text": "0",
+"href": "https://www.clintonforassembly.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.clintonforassembly.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.clintonforassembly.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/clinton-for-45"
+},
+{
+"text": "Endorsements",
+"href": "https://www.clintonforassembly.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.clintonforassembly.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Come+Knock+on+Doors+in+Beloit+&dates=20220918T160000Z%2F20220918T220000Z&location=328+State+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.clintonforassembly.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-geshn?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.clintonforassembly.com/issues"
+},
+{
+"text": "Next Next September 23 Beloit Office Opening",
+"href": "https://www.clintonforassembly.com/events/beloit-office-opening"
+},
+{
+"text": "Previous Previous September 17 Come Knock on Doors in Beloit",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-gn5m7"
+},
+{
+"text": "Sign up here",
+"href": "https://mobilize.us/s/9DQf4L"
+},
+{
+"text": "[image: Clinton Anderson for Assembly]",
+"href": "https://www.clintonforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Clinton-Anderson-for-Assembly-District-45-104142868937053"
+}
 ]

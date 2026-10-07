@@ -1,6 +1,26 @@
 [
-"https://jonkamerath.org/",
-"https://jonkamerath.org/bio",
-"https://jonkamerath.org/endorse",
-"https://jonkamerath.org/taxpayer-promise"
+{
+"text": "Biography",
+"href": "https://www.jonkamerath.org/bio"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jonkamerath.org/endorse"
+},
+{
+"text": "HOME",
+"href": "https://www.jonkamerath.org"
+},
+{
+"text": "Jon",
+"href": "https://www.jonkamerath.org"
+},
+{
+"text": "Kamerath",
+"href": "https://www.jonkamerath.org"
+},
+{
+"text": "Taxpayer Promise",
+"href": "https://www.jonkamerath.org/taxpayer-promise"
+}
 ]

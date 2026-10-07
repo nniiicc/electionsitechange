@@ -1,7 +1,6 @@
-The next representative of Texas’ 22nd District is likely to have a familiar face.
+Skip to content About Issues Endorsements Volunteer Media Contact Vote About Issues Endorsements Volunteer Media Contact Vote DONATE Texas January 8, 2026 Twins in Congress: Nehls brothers and a potentially history-making transition The next representative of Texas’ 22nd District is likely to have a familiar face.
 Trever Nehls stood in a hallway outside the House chamber on an early December evening, shaking hands, chatting with staffers and getting warm greetings from a number of GOP members.
-A passerby paused in front of him: “Are you the real one or …”
-“As long as you don’t say ‘impostor,’” he replied.
+A passerby paused in front of him: “Are you the real one or …” “As long as you don’t say ‘impostor,’” he replied.
 Trever is the identical twin brother of Texas Republican Rep.
 Troy Nehls — and he’s running for his brother’s seat in the midterms.
 The three-term Trump loyalist was quick to endorse Trever after announcing in late November that he would not be running for reelection in 2026.
@@ -9,9 +8,7 @@ Trever Nehls has already earned his own seal of approval from President Donald T
 If he wins, it will be the first time in U.S. history that a member of Congress is succeeded in office by their identical twin, a CQ Roll Call analysis of more than 13,000 member entries in the Biographical Directory of the U.S.
 Congress has found.
 “That’s history in the making, isn’t it?” Troy Nehls said on his way into votes on the House floor, the same day his brother was on the Hill.
-Roughly 400 siblings have served together or succeeded one another since David and Nathaniel Ramsey, Philemon and John Dickinson and others in the First Continental Congress in 1774.
-https://rollcall.com/2025/12/31/twins-in-congress-the-nehls-brothers
-Most of those siblings have been brothers.
+Roughly 400 siblings have served together or succeeded one another since David and Nathaniel Ramsey, Philemon and John Dickinson and others in the First Continental Congress in 1774. https://rollcall.com/2025/12/31/twins-in-congress-the-nehls-brothers Most of those siblings have been brothers.
 It wasn’t until 2003 that California Democratic Rep.
 Linda T.
 Sánchez and former Rep.
@@ -21,13 +18,11 @@ The most recent example is Rep.
 Brian Fitzpatrick, R-Pa., who succeeded his brother, the late Rep.
 Michael G.
 Fitzpatrick, in Pennsylvania’s 8th District in 2017.
-(Brian Fitzpatrick has since been elected to the 1st District.)
-Prior to that, the late Massachusetts Sen.
+(Brian Fitzpatrick has since been elected to the 1st District.) Prior to that, the late Massachusetts Sen.
 Edward M.
 Kennedy came to office in a 1962 special election to fill the vacancy left by his brother John F.
 Kennedy after he was elected president.
-Notable twins of the 119th
-While congressional historical records on twins are scant, there are today at least nine members of the 119th Congress who have twin siblings, along with Republican Brad Knott of North Carolina, who is a quadruplet.
+Notable twins of the 119th While congressional historical records on twins are scant, there are today at least nine members of the 119th Congress who have twin siblings, along with Republican Brad Knott of North Carolina, who is a quadruplet.
 Some siblings are just as famous as their congressional counterparts.
 This includes the Senate’s only twin, Arizona Democrat Mark Kelly, and his brother Scott Kelly, who also have the distinction of being the first American twins in space — both are retired astronauts.
 Before coming to Congress, Democrat Eugene Vindman of Virginia made headlines alongside his brother Alexander when they both served on staff at the National Security Council during President Donald Trump’s first term.
@@ -38,5 +33,11 @@ Marcus has the unique distinction of having been portrayed on-screen by actor Ma
 While neither Nehls brother has picked up a movie deal, Trever made a stir with his visit to the Capitol less than two weeks after his campaign announcement.
 When Troy Nehls emerged from the chamber after the last vote of the evening, the two soaked up attention, briefly posing for pictures together before joining the crowd of lawmakers heading out into the night.
 Troy Nehls, who famously wore an entire Trump-themed outfit to the 2024 State of the Union, said he couldn’t imagine anyone better suited than his twin to advance the president’s legislative priorities in the safe Republican seat.
-“There’s not another person in our district that I think, you know, can continue on with that American First agenda than my brother,” he said.
-https://rollcall.com/2025/12/31/twins-in-congress-the-nehls-brothers
+“There’s not another person in our district that I think, you know, can continue on with that American First agenda than my brother,” he said. https://rollcall.com/2025/12/31/twins-in-congress-the-nehls-brothers Search Search Recent Posts Nehls on Texas House race, 2026 midterms and more Nehls twins discuss upcoming congressional election A guide to the candidates running for Texas’ 22nd Congressional District in 2026 NEWSMAX: Trump Endorses Retiring Rep.
+Nehls’ Twin for His Seat Topics Texas Prev Previous NEWSMAX: Trump Endorses Retiring Rep.
+Nehls’ Twin for His Seat Next A guide to the candidates running for Texas’ 22nd Congressional District in 2026 Next Support Trever $5 $25 $50 $100 $250 $500 $1000 $2000 $3500 CONNECT Facebook-f Instagram X-twitter Linkedin Trever Nehls is an Honorably Discharged and Retired member of the United States Army.
+Use of his military rank, job titles, photographs in uniform, etc., does not imply endorsement by the U.S.
+Army or the Department of Defense.
+Privacy Policy | Terms and Conditions | TX CD 22 Map Paid for by Trever Nehls For Congress © # All Rights Reserved.
+About Issues Endorsements Volunteer Media DONATE Vote Free Bright Energy Assessment Fill out the form below, and we will be in touch shortly.
+Contact Information Name phone email Home Address Address City State FL AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY Zip code Preferred Date and Time Selection date time submit ⟶

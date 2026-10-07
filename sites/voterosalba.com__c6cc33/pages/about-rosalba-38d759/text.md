@@ -1,10 +1,8 @@
-About Rosalba
-Rosalba Dominguez is a Utah State Representative, small business owner, union member, and lifelong Utah resident fighting for re-election in House District 35.
+top of page Home About Rosalba Newsletter Sign Up Map Endorsements In the News More Use tab to navigate through the menu items.
+About Rosalba Rosalba Dominguez is a Utah State Representative, small business owner, union member, and lifelong Utah resident fighting for re-election in House District 35.
 A resident of one of Murray's historic neighborhoods, she draws on her experience as a community advocate and entrepreneur to collaborate with constituents in keeping Murray, Taylorsville, and Millcreek vibrant places to live, work, and play.
-Before joining the legislature, she made history as the first Latina elected and re-elected to the Murray City Council, where she spearheaded a citywide survey on future downtown development and championed smart growth and land-use policies.
-In her first term in the legislature, she passed HB 547, the Diaper Program Amendments; co-sponsored the Great Salt Lake-Related Amendments, which became law; and sponsored the Data Center Amendments to protect Utah's grid and water supply.
-Rosalba fights every day for the working families of House District 35.
+Before joining the legislature, she made history as the first Latina elected and re-elected to the Murray City Council, where she spearheaded a citywide survey on future downtown development and championed smart growth and land-use policies. ​ In her first term in the legislature, she passed HB 547, the Diaper Program Amendments; co-sponsored the Great Salt Lake-Related Amendments, which became law; and sponsored the Data Center Amendments to protect Utah's grid and water supply. ​ Rosalba fights every day for the working families of House District 35.
 She is committed to keeping housing affordable so families can stay rooted in their communities, protecting clean air and water for the next generation, and ensuring that schools, churches, and hospitals remain safe spaces for everyone.
-She is a voice for cities, women's rights, working families, youth, multi-generational families, and those striving to purchase their first homes.
-She firmly opposes the proposed ICE facility in Salt Lake City because no working family should live in fear of being torn apart.
+She is a voice for cities, women's rights, working families, youth, multi-generational families, and those striving to purchase their first homes. ​ She firmly opposes the proposed ICE facility in Salt Lake City because no working family should live in fear of being torn apart.
 Backed by AFSCME, Teamsters 222, IBEW, CWA, UFCW Local 99, and the Carpenters, her campaign is powered by the people she serves.
+Email : me@voterosalba.com ​ Address: PO Box 571015 Murray, UT 84157 Phone: 801.382.9674 © # by Friends of Rosalba Dominguez bottom of page

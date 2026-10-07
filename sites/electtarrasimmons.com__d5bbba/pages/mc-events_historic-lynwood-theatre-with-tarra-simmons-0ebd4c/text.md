@@ -1,12 +1,8 @@
-–
-October 10, 2026
-Community Forum with Tarra Simmons
-Saturday, October 10, 2026 | 3:00–4:30 PM
-Lynwood Theatre
-Free Admission
-Join Tarra Simmons for a community forum and update on the campaign trail ahead.
+Skip to content Skip to content Primary Menu Meet Tarra Leadership & Impact Priorities Endorsements Events Volunteer Updates In The News Press Releases Subscribe DONATE DONATE Historic Lynwood Theatre with Tarra Simmons Historic Lynwood Theatre with Tarra Simmons 3:00 pm – 4:30 pm October 10, 2026 Community Forum with Tarra Simmons Saturday, October 10, 2026 | 3:00–4:30 PM Lynwood Theatre Free Admission Join Tarra Simmons for a community forum and update on the campaign trail ahead.
 Hear directly from Tarra about the impacts she's delivered, the issues impacting our communities, and what she’s focused on moving forward.
 Come ask questions, share your perspective, and connect with neighbors and community members.
 Everyone is welcome.
 Free entry.
-Lynwood Theatre
+Lynwood Theatre 4569 Lynwood Center Rd NE Bainbridge Island , WA View Location Map Lynwood Theatre Buy Tickets iCal Google View full calendar Sep 26, 2026 About the Author Tarra Post navigation Elgon House Party in Support for Tarra Simmons 🎉 October 9, 2026 Sign Waving for Tarra Simmons October 14, 2026 You may also like these No Related Post REQUEST A YARD SIGN Paid for by People for Tarra Simmons PO Box 774 Tracyton, WA 98398 Read our Privacy Policy and SMS Terms Home Tarra Endorsements Events Volunteer Contact Donate Land Acknowledgement Tarra’s work takes place in the 23rd Legislative District, on the Salish Coast, a region that has long been cared for by Indigenous peoples.
+The district is home to several sovereign Tribal Nations, whose communities, cultures, and traditions remain deeply rooted and beloved in this region.
+We honor these Nations and the Indigenous communities who have stewarded these lands and waters for generations and continue that stewardship today.

@@ -1,4 +1,4 @@
-On Thursday May 16, we saw Republicans highlight their extreme agenda.
+Why I Serve News Donate Why I Serve News Donate Dennis Malloy May 18, 2026 May 16, 2026 NH House Report Dennis Malloy May 18, 2026 On Thursday May 16, we saw Republicans highlight their extreme agenda.
 Whether they were attacking public schools, books, and immigrant communities or promoting anti-public health legislation and guns on college campuses, Republicans showed Granite Staters what is important to them.
 It is a terrible vision for New Hampshire.
 In between the “silly season” chaos, there were bright moments and some profound ones.
@@ -24,3 +24,6 @@ As Democrats, I know how much we love the nitty-gritty and nuance of policy, as 
 What matters most is how we show up publicly after those conversations, and yesterday, we showed up as a strong, united caucus.
 The Republicans tried to bait us into a debate on their terms, and by staying disciplined in our message, we prevented them from succeeding.
 Note from House Minority Leader Alexis Simpson of Exeter following up on the May 16, 2026 General Court Session.
+Newer Post Concord Has Failed to Lower Costs Older Post Amending the Constitution is a Big Deal Have a question or comment for Dennis Malloy?
+Contact information: dennis@dennismalloy.com 10 Van Etten Drive Greenland, NH 03840 603 970 1827 Dennis Malloy, Rockingham District 24, NH House of Representatives.
+Back to Top Donate dennis@dennismalloy.com Powered by Squarespace

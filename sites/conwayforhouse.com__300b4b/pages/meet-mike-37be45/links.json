@@ -1,9 +1,34 @@
 [
-"https://conwayforhouse.com/",
-"https://conwayforhouse.com/contact",
-"https://conwayforhouse.com/donate",
-"https://conwayforhouse.com/gallery-1",
-"https://conwayforhouse.com/meet-mike",
-"https://conwayforhouse.com/platform",
-"https://conwayforhouse.com/radio-ads%2Ftrascripts"
+{
+"text": "Contact",
+"href": "https://conwayforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://conwayforhouse.com/donate"
+},
+{
+"text": "Gallery",
+"href": "https://conwayforhouse.com/gallery-1"
+},
+{
+"text": "Home",
+"href": "https://conwayforhouse.com/"
+},
+{
+"text": "Meet Mike",
+"href": "https://conwayforhouse.com/meet-mike"
+},
+{
+"text": "Platform",
+"href": "https://conwayforhouse.com/platform"
+},
+{
+"text": "Radio Ads/Trascripts",
+"href": "https://conwayforhouse.com/radio-ads%2Ftrascripts"
+},
+{
+"text": "[image: Conway for House - 14A St. Cloud, MN]",
+"href": "https://conwayforhouse.com/"
+}
 ]

@@ -1,13 +1,58 @@
 [
-"https://facebook.com/HuffmanForNC",
-"https://instagram.com/huffmanfornc",
-"https://scotthuffman.com/",
-"https://scotthuffman.com/cdn-cgi/l/email-protection",
-"https://scotthuffman.com/contact.html",
-"https://scotthuffman.com/donate.html",
-"https://scotthuffman.com/issues.html",
-"https://scotthuffman.com/two-americas.html",
-"https://scotthuffman.com/volunteer.html",
-"https://scotthuffman.com/why-im-running.html",
-"https://twitter.com/HuffmanForNC"
+{
+"text": "Contact",
+"href": "https://www.scotthuffman.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://www.scotthuffman.com/donate.html"
+},
+{
+"text": "Home",
+"href": "https://www.scotthuffman.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.scotthuffman.com/issues.html"
+},
+{
+"text": "Scott Huffman for NC",
+"href": "https://www.scotthuffman.com/"
+},
+{
+"text": "Two Americas",
+"href": "https://www.scotthuffman.com/two-americas.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.scotthuffman.com/volunteer.html"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.scotthuffman.com/why-im-running.html"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@scotthuffman.com"
+},
+{
+"text": "[image: Picture]",
+"href": "https://www.scotthuffman.com/volunteer.html"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/HuffmanForNC"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/HuffmanForNC"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/huffmanfornc/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@scotthuffman.com"
+}
 ]

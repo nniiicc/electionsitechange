@@ -1,6 +1,5 @@
-ABOUT DR.
-CHRISTIAN FURMAN
-I was born in Louisville.
+0 Skip to Content About Support Events DONATE Open Menu Close Menu About Support Events DONATE Open Menu Close Menu About Support Events DONATE ABOUT DR.
+CHRISTIAN FURMAN I was born in Louisville.
 My parents moved to Oldham County when I was five.
 I grew up in Crestwood, attended Crestwood Elementary School and then moved to Centerfield Elementary when it was newly built.
 From Oldham County Middle School, I then graduated from Oldham County High School in 1988.
@@ -31,3 +30,4 @@ I have had numerous leadership roles at UofL and have had the privilege of provi
 In 2022-23, I served as a Congressional Aging and Policy Fellow in Washington, D.C., advising on older adult issues and working on constituent issues.
 Returning home, I ran for and was elected to the City of Prospect City Council in 2024.
 If you are interested in more details about my career, please see my attached CV.
+CHRISTIAN'S CV

@@ -1,36 +1,186 @@
 [
-"https://co.navarro.tx.us/page/navarro.Elections",
-"https://dallascountyvotes.org/",
-"https://dannyfortexas.com/",
-"https://dannyfortexas.com/calendar/en-early.ics",
-"https://dannyfortexas.com/calendar/en-election-day.ics",
-"https://dannyfortexas.com/calendar/en-mail-apply.ics",
-"https://dannyfortexas.com/calendar/en-mail-return.ics",
-"https://dannyfortexas.com/calendar/en-primary.ics",
-"https://dannyfortexas.com/calendar/en-register.ics",
-"https://dannyfortexas.com/calendar/en-runoff.ics",
-"https://dannyfortexas.com/connect",
-"https://dannyfortexas.com/endorsements",
-"https://dannyfortexas.com/es/como-votar",
-"https://dannyfortexas.com/faq",
-"https://dannyfortexas.com/my-story",
-"https://dannyfortexas.com/priorities",
-"https://dannyfortexas.com/privacy",
-"https://dannyfortexas.com/terms",
-"https://dannyfortexas.com/vi/cach-bo-phieu",
-"https://dannyfortexas.com/volunteer",
-"https://dannyfortexas.com/vote",
-"https://elliscountytx.gov/312/Elections",
-"https://facebook.com/profile.php?id=61579091540344",
-"https://instagram.com/dannyfortexas",
-"https://johnsoncountytx.org/departments/elections-office",
-"https://secure.actblue.com/donate/danny-minton-2",
-"https://tarrantcountytx.gov/en/elections.html",
-"https://teamrv-mvp.sos.texas.gov/MVP/mvp.do",
-"https://tiktok.com/@dannyfortexas",
-"https://votetexas.gov/",
-"https://votetexas.gov/register-to-vote/index.html",
-"https://votetexas.gov/voting-by-mail/eligibility-requirements.html",
-"https://votetexas.gov/voting/need-id.html",
-"https://youtube.com/@Dannyfortexas/shorts"
+{
+"text": "--Days:--Hours:--Minutes:--Secondsuntil Election Day",
+"href": "https://www.dannyfortexas.com/vote/"
+},
+{
+"text": "817-556-6197",
+"href": "tel:817-556-6197"
+},
+{
+"text": "817-831-8683",
+"href": "tel:817-831-8683"
+},
+{
+"text": "903-875-3330",
+"href": "tel:903-875-3330"
+},
+{
+"text": "972-825-5195",
+"href": "tel:972-825-5195"
+},
+{
+"text": "Add to calendar",
+"href": "https://www.dannyfortexas.com/calendar/en-early.ics"
+},
+{
+"text": "Add to calendar",
+"href": "https://www.dannyfortexas.com/calendar/en-election-day.ics"
+},
+{
+"text": "Add to calendar",
+"href": "https://www.dannyfortexas.com/calendar/en-mail-apply.ics"
+},
+{
+"text": "Add to calendar",
+"href": "https://www.dannyfortexas.com/calendar/en-mail-return.ics"
+},
+{
+"text": "Add to calendar",
+"href": "https://www.dannyfortexas.com/calendar/en-primary.ics"
+},
+{
+"text": "Add to calendar",
+"href": "https://www.dannyfortexas.com/calendar/en-register.ics"
+},
+{
+"text": "Add to calendar",
+"href": "https://www.dannyfortexas.com/calendar/en-runoff.ics"
+},
+{
+"text": "Am I registered?",
+"href": "https://teamrv-mvp.sos.texas.gov/MVP/mvp.do"
+},
+{
+"text": "Check my address",
+"href": "https://www.dannyfortexas.com/#district"
+},
+{
+"text": "Check my registration",
+"href": "https://teamrv-mvp.sos.texas.gov/MVP/mvp.do"
+},
+{
+"text": "Connect",
+"href": "https://www.dannyfortexas.com/connect/"
+},
+{
+"text": "Danny MintonforCongressDistrict 6",
+"href": "https://www.dannyfortexas.com/"
+},
+{
+"text": "District 6?",
+"href": "https://www.dannyfortexas.com/#district"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dannyfortexas"
+},
+{
+"text": "Endorsements",
+"href": "https://www.dannyfortexas.com/endorsements/"
+},
+{
+"text": "English",
+"href": "https://www.dannyfortexas.com/vote/"
+},
+{
+"text": "Español",
+"href": "https://www.dannyfortexas.com/es/como-votar/"
+},
+{
+"text": "FAQ",
+"href": "https://www.dannyfortexas.com/faq/"
+},
+{
+"text": "Full ID rules",
+"href": "https://www.votetexas.gov/voting/need-id.html"
+},
+{
+"text": "Home",
+"href": "https://www.dannyfortexas.com/"
+},
+{
+"text": "How to Vote",
+"href": "https://www.dannyfortexas.com/vote/"
+},
+{
+"text": "How to apply for a mail ballot",
+"href": "https://www.votetexas.gov/voting-by-mail/eligibility-requirements.html"
+},
+{
+"text": "My Story",
+"href": "https://www.dannyfortexas.com/my-story/"
+},
+{
+"text": "Official voting information",
+"href": "https://www.votetexas.gov/"
+},
+{
+"text": "Priorities",
+"href": "https://www.dannyfortexas.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.dannyfortexas.com/privacy/"
+},
+{
+"text": "Register to vote",
+"href": "https://www.votetexas.gov/register-to-vote/index.html"
+},
+{
+"text": "SMS Terms",
+"href": "https://www.dannyfortexas.com/terms/"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://www.dannyfortexas.com/vi/cach-bo-phieu/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dannyfortexas.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://www.dannyfortexas.com/vote/"
+},
+{
+"text": "Website",
+"href": "https://www.co.navarro.tx.us/page/navarro.Elections"
+},
+{
+"text": "Website",
+"href": "https://www.dallascountyvotes.org/"
+},
+{
+"text": "Website",
+"href": "https://www.elliscountytx.gov/312/Elections"
+},
+{
+"text": "Website",
+"href": "https://www.johnsoncountytx.org/departments/elections-office"
+},
+{
+"text": "Website",
+"href": "https://www.tarrantcountytx.gov/en/elections.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61579091540344"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dannyfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@dannyfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Dannyfortexas/shorts"
+},
+{
+"text": "district6@dannyfortexas.com",
+"href": "mailto:district6@dannyfortexas.com"
+}
 ]

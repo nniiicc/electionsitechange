@@ -1,4 +1,4 @@
-My name is Sydney Jordan.
+Meet Sydney Vision Endorsements Volunteer Donate Meet Sydney Vision Endorsements Volunteer Donate Meet Sydney My name is Sydney Jordan.
 I grew up in a working-class community along the shores of the Mississippi River near East Moline, Illinois.
 I'm the daughter of public employees.
 My mom is an educator and former teachers union president.
@@ -18,6 +18,7 @@ When the Republican-controlled legislature was considering suppressive Voter ID 
 When the Republicans eventually put the Voter ID and the anti-marriage equality amendments on the statewide ballot in 2012, I led MPIRG’s fight against the amendments at the University of Minnesota and helped more than 10,000 young people register to vote.
 I personally knocked on thousands of doors across our state that year.
 I learned from the experience that state government has enormous influence on our lives; but a community united around a common purpose is even more powerful.
+LISTEN: Sydney quoted as a University of Minnesota Student in 2012 MPR story fighting for voter rights.
 Today, I work as the State Director of Save the Boundary Waters—an advocacy group dedicated to protecting the Boundary Waters from pollution from sulfide-ore copper mining.
 Minnesota is the place I love because of its natural beauty and proximity to wilderness.
 We must permanently protect the Boundary Waters and other special places in our state.
@@ -30,3 +31,4 @@ I love Northeast and Como.
 I bike on our streets, eat at our restaurants, and support our businesses and artists.
 I care about everyone in our community and I love being part of this community.
 That’s why I’m running to represent our neighborhoods—to represent you—in the state legislature.
+Back to Top Vision Meet Sydney Contact Endorsements Volunteer Donate Prepared and paid for by Neighbors for Sydney Jordan

@@ -1,17 +1,66 @@
 [
-"https://facebook.com/FischerForRepresentative",
-"https://fischerforrep.com/",
-"https://fischerforrep.com/get-involved",
-"https://fischerforrep.com/how-to-vote",
-"https://fischerforrep.com/in-the-news",
-"https://fischerforrep.com/meet-peter",
-"https://fischerforrep.com/platform",
-"https://fischerforrep.com/services-2",
-"https://mnvotes.sos.state.mn.us/ABRegistration/ABRegistrationStep1.aspx",
-"https://mnvotes.sos.state.mn.us/VoterRegistration/VoterRegistrationMain.aspx",
-"https://pollfinder.sos.state.mn.us/",
-"https://ramseycounty.us/residents/elections-voting/voters/vote-election-day",
-"https://secure.actblue.com/donate/peterfischer",
-"https://sos.state.mn.us/elections-voting/register-to-vote/who-can-vote",
-"https://twitter.com/PeterFischerMN"
+{
+"text": "Am I eligible to vote?",
+"href": "https://www.sos.state.mn.us/elections-voting/register-to-vote/who-can-vote/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/peterfischer"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.fischerforrep.com/services-2"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.fischerforrep.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.fischerforrep.com"
+},
+{
+"text": "HOW TO VOTE",
+"href": "https://www.fischerforrep.com/how-to-vote"
+},
+{
+"text": "How can I vote absentee?",
+"href": "https://mnvotes.sos.state.mn.us/ABRegistration/ABRegistrationStep1.aspx"
+},
+{
+"text": "How can I vote early?",
+"href": "https://www.ramseycounty.us/residents/elections-voting/voters/vote-election-day"
+},
+{
+"text": "How do I register to vote?",
+"href": "https://mnvotes.sos.state.mn.us/VoterRegistration/VoterRegistrationMain.aspx"
+},
+{
+"text": "IN THE NEWS",
+"href": "https://www.fischerforrep.com/in-the-news"
+},
+{
+"text": "ISSUES",
+"href": "https://www.fischerforrep.com/platform"
+},
+{
+"text": "MEET PETER",
+"href": "https://www.fischerforrep.com/meet-peter"
+},
+{
+"text": "Where do I vote?",
+"href": "https://pollfinder.sos.state.mn.us/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/FischerForRepresentative"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/PeterFischerMN"
+},
+{
+"text": "[image][image][image]",
+"href": "mailto:fischer4rep@gmail.com"
+}
 ]

@@ -1,5 +1,4 @@
-Embedded Files
-We are committed to providing the highest level of protection for your online privacy and security.
+Search this site Embedded Files Skip to main content Skip to navigation laurieryan.com Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE laurieryan.com Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE More Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE PRIVACY We are committed to providing the highest level of protection for your online privacy and security.
 As you explore our website, we encourage you to provide us with information about yourself, so we can contact you with the latest news about Laurie Ryan for Westchester.
 However, you will always be able to decide how much, if any, personal information you’d like to provide.
 And you will always be able to unsubscribe from our email database quickly and easily through the link provided at the bottom of every email that we send.
@@ -8,12 +7,6 @@ If you choose to donate through our online contribution form, rest assured we ha
 To comply with Federal election law and the regulations of the Federal Election Commission, we are required to make our best efforts to collect and report the name, mailing address, occupation and name of employer of individuals.
 Generally, contributions are non-refundable.
 Should you choose to contribute, you will receive an email confirmation of your contribution.
-We use cookies to personalize and enhance the interactivity of laurieabbateryan.com and to make sure you have the best possible experience online.
-A cookie is a very small text file that is placed on your hard drive.
-Cookies do not contain any personal information about you.
-You can opt-out of our use of cookies by disabling cookies on your browser.
 Finally, we reserve the right to change our privacy policy at any time.
 We encourage you to check this page occasionally for the most current information.
-Page updated
-Google Sites
-Report abuse
+LAURIE RYAN for NEW YORK STATE ASSEMBLY DISTRICT 95 VOTE TUESDAY NOVEMBER 3, 2026 Fecha de la Elección: Martes 3 de Noviembre 2026 EARLY VOTING SATURDAY OCTOBER 24 - SUNDAY NOVEMBER 1 Votación anticipada: sábado 24 de Octubre - Domingo 1 de Noviembre ALL LITERATURE, YARDSIGNS, MERCHANDISE, ADS, WEBSITE PAID FOR BY LAURIERYAN4NY PRIVACY POLICY EMAIL FACEBOOK INSTAGRAM Google Sites Report abuse Page details Page updated Google Sites Report abuse

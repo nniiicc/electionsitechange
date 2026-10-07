@@ -1,37 +1,162 @@
 [
-"https://cloudways.com/blog/add-free-ssl-certificate-to-wordpress-websites",
-"https://community.cloudways.com/",
-"https://electdanfrankel.com/",
-"https://electdanfrankel.com/2022/03",
-"https://electdanfrankel.com/about-dan",
-"https://electdanfrankel.com/author/john",
-"https://electdanfrankel.com/category/uncategorized",
-"https://electdanfrankel.com/contact",
-"https://electdanfrankel.com/environment",
-"https://electdanfrankel.com/equality-and-justice",
-"https://electdanfrankel.com/firearms-policy-reform",
-"https://electdanfrankel.com/government-reform",
-"https://electdanfrankel.com/news",
-"https://electdanfrankel.com/reproductive-rights-healthcare",
-"https://electdanfrankel.com/welcome-to-cloudways",
-"https://electdanfrankel.com/welcome-to-cloudways?replytocom=2",
-"https://gravatar.com/",
-"https://mainwp.com/",
-"https://oceanwp.org/",
-"https://support.cloudways.com/breeze-wordpress-cache-configuration",
-"https://support.cloudways.com/emailing-with-cloudways",
-"https://support.cloudways.com/godaddy-to-cloudways-wordpress-migration",
-"https://support.cloudways.com/how-do-i-take-my-website-live-from-cloudways",
-"https://support.cloudways.com/how-to-activate-elasticemail-addon",
-"https://support.cloudways.com/how-to-activate-rackspace-email-addon",
-"https://support.cloudways.com/how-to-configure-wp-rocket-plugin-wordpress",
-"https://support.cloudways.com/how-to-manage-wordpress-with-wp-cli",
-"https://support.cloudways.com/how-to-migrate-wordpress-to-cloudways",
-"https://support.cloudways.com/how-to-set-up-sucuri-antivirus-website-monitoring",
-"https://support.cloudways.com/how-to-setup-a-wordpress-multisite-on-cloudways",
-"https://support.cloudways.com/mysql-database-access-options",
-"https://support.cloudways.com/siteground-to-cloudways-wordpress-migration",
-"https://support.cloudways.com/what-can-i-do-with-an-htaccess-file",
-"https://support.cloudways.com/wordpress-cloudways-cdn",
-"https://wordpress.org/"
+{
+"text": "A WordPress Commenter",
+"href": "https://wordpress.org/"
+},
+{
+"text": "About Dan",
+"href": "https://electdanfrankel.com/about-dan/"
+},
+{
+"text": "Add free SSL certificate to WordPress websites",
+"href": "https://www.cloudways.com/blog/add-free-ssl-certificate-to-wordpress-websites/?Sites="
+},
+{
+"text": "Cancel reply",
+"href": "https://electdanfrankel.com/welcome-to-cloudways/#respond"
+},
+{
+"text": "Contact",
+"href": "https://electdanfrankel.com/contact/"
+},
+{
+"text": "Elect Dan Frankel",
+"href": "https://electdanfrankel.com/"
+},
+{
+"text": "Environment",
+"href": "https://electdanfrankel.com/environment/"
+},
+{
+"text": "Equality and Justice",
+"href": "https://electdanfrankel.com/equality-and-justice/"
+},
+{
+"text": "Firearms Policy Reform",
+"href": "https://electdanfrankel.com/firearms-policy-reform/"
+},
+{
+"text": "Government Reform",
+"href": "https://electdanfrankel.com/government-reform/"
+},
+{
+"text": "Gravatar",
+"href": "https://gravatar.com"
+},
+{
+"text": "Home",
+"href": "https://electdanfrankel.com/"
+},
+{
+"text": "How do I take my website live from Cloudways?",
+"href": "https://support.cloudways.com/how-do-i-take-my-website-live-from-cloudways/?Sites="
+},
+{
+"text": "How to access your databases on Cloudways?",
+"href": "https://support.cloudways.com/mysql-database-access-options/?Sites="
+},
+{
+"text": "How to activate Rackspace email addon?",
+"href": "https://support.cloudways.com/how-to-activate-rackspace-email-addon/?Sites="
+},
+{
+"text": "How to activate the Elastic email add-on?",
+"href": "https://support.cloudways.com/how-to-activate-elasticemail-addon/?Sites="
+},
+{
+"text": "How to configure WP Rocket plugin for WordPress?",
+"href": "https://support.cloudways.com/how-to-configure-wp-rocket-plugin-wordpress/?Sites="
+},
+{
+"text": "How to configure WordPress Multisite on Cloudways?",
+"href": "https://support.cloudways.com/how-to-setup-a-wordpress-multisite-on-cloudways/?Sites="
+},
+{
+"text": "How to install and configure Breeze WordPress cache plugin?",
+"href": "https://support.cloudways.com/breeze-wordpress-cache-configuration/?Sites="
+},
+{
+"text": "How to integrate CloudwaysCDN with your WordPress website?",
+"href": "https://support.cloudways.com/wordpress-cloudways-cdn/?Sites="
+},
+{
+"text": "How to manage WordPress via WP-CLI on Cloudways?",
+"href": "https://support.cloudways.com/how-to-manage-wordpress-with-wp-cli/?Sites="
+},
+{
+"text": "How to setup Sucuri on WordPress websites at Cloudways?",
+"href": "https://support.cloudways.com/how-to-set-up-sucuri-antivirus-website-monitoring/?Sites="
+},
+{
+"text": "How to use WordPress Migrator Plugin?",
+"href": "https://support.cloudways.com/how-to-migrate-wordpress-to-cloudways/?Staging=&Sites=&Staging="
+},
+{
+"text": "In the News",
+"href": "https://electdanfrankel.com/news/"
+},
+{
+"text": "John",
+"href": "https://electdanfrankel.com/author/john/"
+},
+{
+"text": "March 2022",
+"href": "https://electdanfrankel.com/2022/03/"
+},
+{
+"text": "March 8, 2022 at 12:00 am",
+"href": "https://electdanfrankel.com/welcome-to-cloudways/#comment-2"
+},
+{
+"text": "Migrate WordPress from GoDaddy to Cloudways",
+"href": "https://support.cloudways.com/godaddy-to-cloudways-wordpress-migration/?Sites="
+},
+{
+"text": "Migrate WordPress from Siteground to Cloudways",
+"href": "https://support.cloudways.com/siteground-to-cloudways-wordpress-migration/?Sites="
+},
+{
+"text": "Reply",
+"href": "https://electdanfrankel.com/welcome-to-cloudways/?replytocom=2#respond"
+},
+{
+"text": "Reproductive Rights & Healthcare",
+"href": "https://electdanfrankel.com/reproductive-rights-healthcare/"
+},
+{
+"text": "Some Useful Links for You to Get Started",
+"href": "https://electdanfrankel.com/welcome-to-cloudways/"
+},
+{
+"text": "Some Useful Links for You to Get Started",
+"href": "https://electdanfrankel.com/welcome-to-cloudways/#comment-2"
+},
+{
+"text": "Uncategorized",
+"href": "https://electdanfrankel.com/category/uncategorized/"
+},
+{
+"text": "What can I do with an .htaccess file?",
+"href": "https://support.cloudways.com/what-can-i-do-with-an-htaccess-file/?Sites="
+},
+{
+"text": "Which email add-on should I use?",
+"href": "https://support.cloudways.com/emailing-with-cloudways/?Sites="
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "[image]",
+"href": "https://community.cloudways.com/"
+},
+{
+"text": "[image]",
+"href": "https://mainwp.com/"
+},
+{
+"text": "[image]",
+"href": "https://oceanwp.org/"
+}
 ]

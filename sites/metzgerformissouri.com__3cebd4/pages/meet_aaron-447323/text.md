@@ -1,5 +1,4 @@
-Meet Aaron
-A Joplin neighbor, a healthcare worker, a husband and dad — running for the people he lives next to.
+Meet Aaron Issues News Volunteer Yard Signs Contribute Meet Aaron A Joplin neighbor, a healthcare worker, a husband and dad — running for the people he lives next to.
 I’m Aaron Joseph Metzger.
 I live in Joplin with my wife and our daughter, and I’m running for Missouri State Representative in District 161 because the people I love — my family, my coworkers, my neighbors — are working harder than ever and getting less for it.
 They deserve a state government that works for them.
@@ -32,5 +31,6 @@ That’s the deal.
 I’ve spent more than a decade taking care of my neighbors one patient at a time.
 Now I want to take care of them in Jefferson City — by showing up, answering the phone, and voting like the people back home are watching.
 Because they are.
-I’d be honored to earn your vote.
-— Aaron
+I’d be honored to earn your vote. — Aaron Ready to send a healthcare worker to Jefferson City?
+Every door knocked, every dollar chipped in, every conversation at the kitchen table is what wins this race.
+Volunteer Donate Voter Information Endorsements Yard Signs Events Photos Contact Metzger for 161 Powered by CampaignPartner.com - Political Websites Home Meet Aaron Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

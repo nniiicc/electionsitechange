@@ -1,11 +1,14 @@
 {
  "description": "Campaign website for Indiana State Senate District 48 with updates, events, media, and support resources.",
  "final_url": "https://citizensforhochgesang.org/",
+ "fingerprint": "42cdad042e67d2798f66aa41373cddca65039735",
+ "format": 3,
  "paid_for_by": "Paid for by Citizens For Hochgesang",
  "title": "Brad Hochgesang for State Senate",
  "years_mentioned": [
   "2010",
   "2023",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

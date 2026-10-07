@@ -1,7 +1,11 @@
 {
  "description": "Tom Barrett is a 22-year U.S. Army veteran serving Michigan's 7th Congressional District.",
  "final_url": "https://tombarrettforcongress.com/",
- "paid_for_by": null,
+ "fingerprint": "c1da9d3c63e77ffbc66e03ea9f06a25c5ec23269",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Congressman Tom Barrett",
- "years_mentioned": []
+ "years_mentioned": [
+  "2007"
+ ]
 }

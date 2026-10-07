@@ -1,6 +1,6 @@
-Mara in the News
-- State of Delaware 3/31/2026
-- DE Arts Alliance 3/17/2026
-- Spotlight Delaware 1/21/2026
-- Newark Post 1/11/2026
-- Delaware Public Media 7/14/2025
+0 Skip to Content About Issues Endorsements Volunteer News GIVE TODAY Open Menu Close Menu About Issues Endorsements Volunteer News GIVE TODAY Open Menu Close Menu About Issues Endorsements Volunteer News GIVE TODAY Mara in the News WHYY 7/20/2026 HB 338, sponsored by Mara Gorman, ensures coverage for a science-based vaccine schedule.
+State of Delaware 3/31/2026 Know Your Rights Delaware DE Arts Alliance 3/17/2026 Mara Gorman is the House Prime of SB 260, establishing a certificate of excellence in the arts.
+Spotlight Delaware 1/21/2026 Rep.
+Gorman to run for Sokola’s Senate seat Newark Post 1/11/2026 Newarkers protest against ICE Delaware Public Media 7/14/2025 Gov.
+Meyer signs four bills to strengthen civil liberties and immigrant protections newsletter signup Recent Newsletters September 11, 2026 July 14, 2026 June 3, 2026 March 17, 2026 February 24, 2026 Archive of all newsletters Stay in touch!
+Get Team Mara Updates Sign up About ‍ ‍ Contact ‍ Contribute ‍ ‍ ‍News Paid for by Friends of Mara Gorman To make a donation by check, please make it out to Friends of Mara Gorman and send it to 601 Webb Road, Newark, DE 19711 Copyright # @Mara for Delaware, All Rights Reserved Privacy Policy | Terms and Conditions

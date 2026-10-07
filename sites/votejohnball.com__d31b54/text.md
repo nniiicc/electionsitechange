@@ -1,4 +1,4 @@
-South Texas has been my lifelong home.
+John ball for 13th Court of appeals PLACE 6 John ball for 13th Court of appeals PLACE 6 John ball for 13th Court of appeals PLACE 6 John ball for 13th Court of appeals PLACE 6 Vote for John Ball Biography More Vote for John Ball Biography John ball for 13th Court of appeals PLACE 6 John ball for 13th Court of appeals PLACE 6 John ball for 13th Court of appeals PLACE 6 John ball for 13th Court of appeals PLACE 6 Vote for John Ball Biography Welcome Donate Learn More Vote John Ball for Thirteenth Court of Appeals-Place 6 Meet John Ball South Texas has been my lifelong home.
 I come from a law enforcement family that shaped my commitment to public service.
 After graduating from Texas A&M University, I earned my Juris Doctorate from St.
 Mary’s University School of Law with a concentration in criminal law.
@@ -8,5 +8,8 @@ I am married to Christy Caric who is a licensed professional counselor.
 I am the proud father of Camila and Jacob who attend McAllen ISD.
 Prior to running for the 13th Court of Appeals, I was elected to the Board of Trustees for the McAllen Independent School District.
 With experience ranging from trial work to appellate advocacy, I am prepared to bring this extensive legal background to the Thirteenth Court of Appeals.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+ELECT JOHN BALL BY MAKING A DONATION TODAY Donate Vote John Ball for Thirteenth Court of Appeals Copyright © # Vote John Ball for Thirteenth Court of Appeals-Place 6 - All Rights Reserved.
+Pol.
+Ad paid for by John Ball Campaign, Lucy Thompson, Treasurer, 2724 W.
+Canton Rd.
+Edinburg, TX 78539 Powered by

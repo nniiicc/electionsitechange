@@ -1,25 +1,11 @@
-- Janet Carroll, Former Manheim Township School Board Member
-- Virginia Young, Retired Manheim Township School District teacher
-- Laura Houghton, Co-worker from East Hempfield Township
-- Rev.
-Jesse North, Manheim Township
-- Cari Kimberley, Manheim Township
-- Mary Grill, Manheim Township
-- Ray Mount, Co-worker from Lititz
-- Curtis Holgate, Former Manheim Township School Board Member
-- Stephen W.
-Grosh, Republican and Former Manheim Township School Board President
-- Joyce Stephens, Former Manheim Township School Board Vice-President
-- Alan Hawkins, Republican in Manheim Township
-- Janet Carroll, Former Manheim Township School Board Member
-- Luci Steele, Retired Teacher in Manheim Township
-- Rev.
-Jesse North, Manheim Township
-- Janet Spleen, Manheim Township
-- Kathy Miller, Warwick Township
-- John Smith, Former Manheim Township School Board Member
-- Nick Brooks, Manheim Township
-- Kristin Brennan, M.D., Manheim Township
-- Elizabeth E.
-Brown, Manheim Township
-- Courtney Morton, Manheim Township
+top of page About Vision News Vote HD 96 Get Involved More Use tab to navigate through the menu items.
+Hacer clic arriba para español DONATE CAMPAIGN NEWS Press Coverage All Posts Search Martin, Cutler and Rivera speak to Lancaster Chamber members [photos] June 12, 2025| LancasterOnline ”They all spoke to business leaders during Lancaster Chamber's Wake Up to the Issues breakfast at Millersville University.” Rivera: Celebrating the 22nd Amendment June 10, 2025| Pa.
+House Video ”That's what I am elected to do; to help preserve our constitution, to help build our county,” Volunteers sought for Aug.
+10 back-to-school event [United Way column] May 18, 2025| LancasterOnline ”It brings together nonprofit organizations, local businesses and dedicated community members with a single shared goal: To ensure that every student enters the new school year equipped and empowered to succeed.” Rivera Stands With School Nurses May 13, 2025| Pa.
+House Video ”I'm glad to hear that Governor Shapiro has prioritized funding for this vital, vital, vital profession.” Letters to the Editor Janet Carroll, Former Manheim Township School Board Member ​Virginia Young, Retired Manheim Township School District teacher Laura Houghton, Co-worker from East Hempfield Township Rev.
+Jesse North, Manheim Township Cari Kimberley, Manheim Township Mary Grill, Manheim Township Ray Mount, Co-worker from Lititz Curtis Holgate, Former Manheim Township School Board Member Stephen W.
+Grosh, Republican and Former Manheim Township School Board President Joyce Stephens, Former Manheim Township School Board Vice-President Alan Hawkins, Republican in Manheim Township Janet Carroll, Former Manheim Township School Board Member Luci Steele, Retired Teacher in Manheim Township Rev.
+Jesse North, Manheim Township Janet Spleen, Manheim Township Kathy Miller, Warwick Township John Smith, Former Manheim Township School Board Member Nick Brooks, Manheim Township Kristin Brennan, M.D., Manheim Township Elizabeth E.
+Brown, Manheim Township Courtney Morton, Manheim Township About News Contact Nikki Rivera FOR PA 96TH Paid for by Friends for Nikki Rivera.
+Powered and secured by Wix.
+PO Box 5082 Lancaster, PA 17606-5082 ​ info@nikkiriveraforpa.com bottom of page

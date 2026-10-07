@@ -1,33 +1,190 @@
 [
-"http://danielbiss.com/",
-"https://bsky.app/profile/danielbiss.bsky.social",
-"https://danielbiss.com/",
-"https://danielbiss.com/about",
-"https://danielbiss.com/contact",
-"https://danielbiss.com/endorsements",
-"https://danielbiss.com/issues/a-foreign-policy-rooted-in-peace-democracy-and-global-justice",
-"https://danielbiss.com/issues/a-welcoming-immigration-policy",
-"https://danielbiss.com/issues/cleaning-up-corruption-and-restoring-trust-in-our-democracy",
-"https://danielbiss.com/issues/combating-income-inequality-by-taking-on-wealth-hoarding",
-"https://danielbiss.com/issues/ending-gun-violence-with-common-sense-reform",
-"https://danielbiss.com/issues/ensuring-a-great-public-education-for-all-students",
-"https://danielbiss.com/issues/holding-big-tech-accountable",
-"https://danielbiss.com/issues/holding-up-our-promise-to-americas-veterans",
-"https://danielbiss.com/issues/issue-1",
-"https://danielbiss.com/issues/issue-2",
-"https://danielbiss.com/issues/lowering-the-cost-of-essentials-putting-working-families-first",
-"https://danielbiss.com/issues/protecting-civil-rights-and-civil-liberties-for-all",
-"https://danielbiss.com/issues/protecting-our-democracy",
-"https://danielbiss.com/issues/protecting-social-security-medicare-and-a-dignified-retirement",
-"https://danielbiss.com/issues/rein-in-the-trump-administration-and-executive-power",
-"https://danielbiss.com/resources",
-"https://danielbiss.substack.com/",
-"https://designedtorun.com/",
-"https://facebook.com/danielbiss",
-"https://instagram.com/daniel.biss",
-"https://mobilize.us/danielbiss/event/827815",
-"https://secure.actblue.com/donate/dkb-web",
-"https://tiktok.com/@bissforcongress",
-"https://x.com/danielbiss",
-"https://youtube.com/@bissforcongress?si=iaW1q5g_gjeIX7aj"
+{
+"text": "A Foreign Policy Rooted in Peace, Democracy, and Global Justice",
+"href": "https://www.danielbiss.com/issues/a-foreign-policy-rooted-in-peace-democracy-and-global-justice"
+},
+{
+"text": "A Welcoming Immigration Policy",
+"href": "https://www.danielbiss.com/issues/a-welcoming-immigration-policy"
+},
+{
+"text": "About",
+"href": "https://www.danielbiss.com/about"
+},
+{
+"text": "Bold Action to Respond to the Climate Crisis",
+"href": "https://www.danielbiss.com/issues/protecting-our-democracy"
+},
+{
+"text": "Cleaning Up Corruption and Restoring Trust in Our Democracy",
+"href": "https://www.danielbiss.com/issues/cleaning-up-corruption-and-restoring-trust-in-our-democracy"
+},
+{
+"text": "Combating Income Inequality By Taking on Wealth Hoarding",
+"href": "https://www.danielbiss.com/issues/combating-income-inequality-by-taking-on-wealth-hoarding"
+},
+{
+"text": "Contact",
+"href": "https://www.danielbiss.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dkb-web"
+},
+{
+"text": "Empowering Workers to Organize",
+"href": "https://www.danielbiss.com/issues/issue-2"
+},
+{
+"text": "Ending Gun Violence with Common Sense Reform",
+"href": "https://www.danielbiss.com/issues/ending-gun-violence-with-common-sense-reform"
+},
+{
+"text": "Endorsements",
+"href": "https://www.danielbiss.com/endorsements"
+},
+{
+"text": "Ensuring a Great Public Education for All Students",
+"href": "https://www.danielbiss.com/issues/ensuring-a-great-public-education-for-all-students"
+},
+{
+"text": "Holding Big Tech Accountable",
+"href": "https://www.danielbiss.com/issues/holding-big-tech-accountable"
+},
+{
+"text": "Holding Up Our Promise to America’s Veterans",
+"href": "https://www.danielbiss.com/issues/holding-up-our-promise-to-americas-veterans"
+},
+{
+"text": "Lowering the Cost of Essentials — Putting Working Families First",
+"href": "https://www.danielbiss.com/issues/lowering-the-cost-of-essentials-putting-working-families-first"
+},
+{
+"text": "Protecting Civil Rights and Civil Liberties for All",
+"href": "https://www.danielbiss.com/issues/protecting-civil-rights-and-civil-liberties-for-all"
+},
+{
+"text": "Protecting Social Security, Medicare, and a dignified retirement",
+"href": "https://www.danielbiss.com/issues/protecting-social-security-medicare-and-a-dignified-retirement"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Rebuilding an Economy that Works for Everyone",
+"href": "https://www.danielbiss.com/issues/issue-1"
+},
+{
+"text": "Rein in the Trump Administration and Executive Power",
+"href": "https://www.danielbiss.com/issues/rein-in-the-trump-administration-and-executive-power"
+},
+{
+"text": "Resources",
+"href": "https://www.danielbiss.com/resources"
+},
+{
+"text": "View more",
+"href": "https://www.danielbiss.com/issues/a-foreign-policy-rooted-in-peace-democracy-and-global-justice"
+},
+{
+"text": "View more",
+"href": "https://www.danielbiss.com/issues/a-welcoming-immigration-policy"
+},
+{
+"text": "View more",
+"href": "https://www.danielbiss.com/issues/cleaning-up-corruption-and-restoring-trust-in-our-democracy"
+},
+{
+"text": "View more",
+"href": "https://www.danielbiss.com/issues/combating-income-inequality-by-taking-on-wealth-hoarding"
+},
+{
+"text": "View more",
+"href": "https://www.danielbiss.com/issues/ending-gun-violence-with-common-sense-reform"
+},
+{
+"text": "View more",
+"href": "https://www.danielbiss.com/issues/ensuring-a-great-public-education-for-all-students"
+},
+{
+"text": "View more",
+"href": "https://www.danielbiss.com/issues/holding-big-tech-accountable"
+},
+{
+"text": "View more",
+"href": "https://www.danielbiss.com/issues/holding-up-our-promise-to-americas-veterans"
+},
+{
+"text": "View more",
+"href": "https://www.danielbiss.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.danielbiss.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.danielbiss.com/issues/lowering-the-cost-of-essentials-putting-working-families-first"
+},
+{
+"text": "View more",
+"href": "https://www.danielbiss.com/issues/protecting-civil-rights-and-civil-liberties-for-all"
+},
+{
+"text": "View more",
+"href": "https://www.danielbiss.com/issues/protecting-our-democracy"
+},
+{
+"text": "View more",
+"href": "https://www.danielbiss.com/issues/protecting-social-security-medicare-and-a-dignified-retirement"
+},
+{
+"text": "View more",
+"href": "https://www.danielbiss.com/issues/rein-in-the-trump-administration-and-executive-power"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/danielbiss/event/827815/"
+},
+{
+"text": "[image: Daniel Biss for Congress]",
+"href": "https://www.danielbiss.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/danielbiss.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://danielbiss.substack.com"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/danielbiss"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/daniel.biss"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@bissforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/danielbiss"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@bissforcongress?si=iaW1q5g_gjeIX7aj"
+},
+{
+"text": "danielbiss.com",
+"href": "http://danielbiss.com"
+},
+{
+"text": "info@",
+"href": "mailto:info@danielbiss.com"
+}
 ]

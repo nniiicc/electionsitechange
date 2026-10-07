@@ -1,14 +1,62 @@
 [
-"http://instagram.com/replatynamhumphrey",
-"http://twitter.com/latynamhumphrey",
-"https://facebook.com/latynahumphrey26",
-"https://latynamhumphrey.com/",
-"https://latynamhumphrey.com/about",
-"https://latynamhumphrey.com/cart",
-"https://secure.actblue.com/donate/latyna-humphrey-1",
-"https://secure.actblue.com/donate/latyna-humphrey-1?amount=100",
-"https://secure.actblue.com/donate/latyna-humphrey-1?amount=1000",
-"https://secure.actblue.com/donate/latyna-humphrey-1?amount=250",
-"https://secure.actblue.com/donate/latyna-humphrey-1?amount=50",
-"https://secure.actblue.com/donate/latyna-humphrey-1?amount=500"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/latyna-humphrey-1?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/latyna-humphrey-1?amount=1000"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/latyna-humphrey-1?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/latyna-humphrey-1?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/latyna-humphrey-1?amount=500"
+},
+{
+"text": "0",
+"href": "https://latynamhumphrey.com/cart"
+},
+{
+"text": "About",
+"href": "https://latynamhumphrey.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/latyna-humphrey-1"
+},
+{
+"text": "Home",
+"href": "https://latynamhumphrey.com/"
+},
+{
+"text": "Learn more",
+"href": "https://latynamhumphrey.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/latyna-humphrey-1"
+},
+{
+"text": "[image: Rep. Latyna M. Humphrey for State Senate]",
+"href": "https://latynamhumphrey.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/replatynamhumphrey"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/latynamhumphrey"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/latynahumphrey26"
+}
 ]

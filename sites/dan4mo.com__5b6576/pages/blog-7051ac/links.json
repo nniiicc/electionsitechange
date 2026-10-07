@@ -1,54 +1,222 @@
 [
-"https://bsky.app/profile/dan4mo.bsky.social",
-"https://dan4mo.com/",
-"https://dan4mo.com/blog",
-"https://dan4mo.com/blog/categories/agriculture",
-"https://dan4mo.com/blog/categories/anxiety",
-"https://dan4mo.com/blog/categories/authoritarianism",
-"https://dan4mo.com/blog/categories/book-bans",
-"https://dan4mo.com/blog/categories/cafo",
-"https://dan4mo.com/blog/categories/concentration-camps",
-"https://dan4mo.com/blog/categories/congress",
-"https://dan4mo.com/blog/categories/congressional-inaction",
-"https://dan4mo.com/blog/categories/democracy-in-peril",
-"https://dan4mo.com/blog/categories/democratic-party-challenges",
-"https://dan4mo.com/blog/categories/education",
-"https://dan4mo.com/blog/categories/emperor",
-"https://dan4mo.com/blog/categories/ethics-in-politics",
-"https://dan4mo.com/blog/categories/fall-of-rome",
-"https://dan4mo.com/blog/categories/gun-laws",
-"https://dan4mo.com/blog/categories/guns",
-"https://dan4mo.com/blog/categories/ice",
-"https://dan4mo.com/blog/categories/king",
-"https://dan4mo.com/blog/categories/liberty",
-"https://dan4mo.com/blog/categories/patchwork-justice",
-"https://dan4mo.com/blog/categories/political-accountability",
-"https://dan4mo.com/blog/categories/populism",
-"https://dan4mo.com/blog/categories/republic",
-"https://dan4mo.com/blog/categories/rights-for-sale",
-"https://dan4mo.com/blog/categories/rural-missouri",
-"https://dan4mo.com/blog/categories/scotus",
-"https://dan4mo.com/blog/categories/show-me-institute",
-"https://dan4mo.com/blog/categories/supreme-court",
-"https://dan4mo.com/blog/categories/trump",
-"https://dan4mo.com/blog/categories/trump-private-army",
-"https://dan4mo.com/events",
-"https://dan4mo.com/faq",
-"https://dan4mo.com/get-involved",
-"https://dan4mo.com/meet-dan",
-"https://dan4mo.com/members-area/fc211dc0-f23c-4aab-a515-96eec24b659d/profile",
-"https://dan4mo.com/nufsaid",
-"https://dan4mo.com/podcasts",
-"https://dan4mo.com/post/another-one-under-the-bus",
-"https://dan4mo.com/post/is-the-doj-rigging-the-next-election",
-"https://dan4mo.com/post/socialized-costs-privatized-profits",
-"https://dan4mo.com/post/why-we-voted-for-a-felon",
-"https://dan4mo.com/privacy-policy",
-"https://dan4mo.com/values",
-"https://facebook.com/dan4mo",
-"https://frontlineprogressive.com/",
-"https://reddit.com/user/Dan4MO",
-"https://secure.actblue.com/donate/take-back-our-power",
-"https://tiktok.com/@dan4mo",
-"https://youtube.com/@dan4mo"
+{
+"text": "'Nuf Said",
+"href": "https://www.dan4mo.com/nufsaid"
+},
+{
+"text": "Agriculture",
+"href": "https://www.dan4mo.com/blog/categories/agriculture"
+},
+{
+"text": "All Posts",
+"href": "https://www.dan4mo.com/blog"
+},
+{
+"text": "Another One Under the Bus",
+"href": "https://www.dan4mo.com/post/another-one-under-the-bus"
+},
+{
+"text": "Anxiety",
+"href": "https://www.dan4mo.com/blog/categories/anxiety"
+},
+{
+"text": "Authoritarianism",
+"href": "https://www.dan4mo.com/blog/categories/authoritarianism"
+},
+{
+"text": "Blog",
+"href": "https://www.dan4mo.com/blog"
+},
+{
+"text": "Book bans",
+"href": "https://www.dan4mo.com/blog/categories/book-bans"
+},
+{
+"text": "CAFO",
+"href": "https://www.dan4mo.com/blog/categories/cafo"
+},
+{
+"text": "Concentration Camps",
+"href": "https://www.dan4mo.com/blog/categories/concentration-camps"
+},
+{
+"text": "Congress",
+"href": "https://www.dan4mo.com/blog/categories/congress"
+},
+{
+"text": "Congressional Inaction",
+"href": "https://www.dan4mo.com/blog/categories/congressional-inaction"
+},
+{
+"text": "Contact Us",
+"href": "https://www.dan4mo.com/get-involved"
+},
+{
+"text": "Dan Schaefer",
+"href": "https://www.dan4mo.com/members-area/fc211dc0-f23c-4aab-a515-96eec24b659d/profile"
+},
+{
+"text": "Democracy in Peril",
+"href": "https://www.dan4mo.com/blog/categories/democracy-in-peril"
+},
+{
+"text": "Democratic Party Challenges",
+"href": "https://www.dan4mo.com/blog/categories/democratic-party-challenges"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/take-back-our-power"
+},
+{
+"text": "Education",
+"href": "https://www.dan4mo.com/blog/categories/education"
+},
+{
+"text": "Emperor",
+"href": "https://www.dan4mo.com/blog/categories/emperor"
+},
+{
+"text": "Ethics in Politics",
+"href": "https://www.dan4mo.com/blog/categories/ethics-in-politics"
+},
+{
+"text": "Events",
+"href": "https://www.dan4mo.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.dan4mo.com/faq"
+},
+{
+"text": "Fall of Rome",
+"href": "https://www.dan4mo.com/blog/categories/fall-of-rome"
+},
+{
+"text": "Gun Laws",
+"href": "https://www.dan4mo.com/blog/categories/gun-laws"
+},
+{
+"text": "Guns",
+"href": "https://www.dan4mo.com/blog/categories/guns"
+},
+{
+"text": "Home",
+"href": "https://www.dan4mo.com"
+},
+{
+"text": "ICE",
+"href": "https://www.dan4mo.com/blog/categories/ice"
+},
+{
+"text": "Is the DOJ Rigging the Next Election?",
+"href": "https://www.dan4mo.com/post/is-the-doj-rigging-the-next-election"
+},
+{
+"text": "King",
+"href": "https://www.dan4mo.com/blog/categories/king"
+},
+{
+"text": "Liberty",
+"href": "https://www.dan4mo.com/blog/categories/liberty"
+},
+{
+"text": "Mail",
+"href": "mailto:dan@dan4mo.com?subject=Email+sent+from+web+page"
+},
+{
+"text": "Meet Dan",
+"href": "https://www.dan4mo.com/meet-dan"
+},
+{
+"text": "Patchwork Justice",
+"href": "https://www.dan4mo.com/blog/categories/patchwork-justice"
+},
+{
+"text": "Podcasts",
+"href": "https://www.dan4mo.com/podcasts"
+},
+{
+"text": "Political Accountability",
+"href": "https://www.dan4mo.com/blog/categories/political-accountability"
+},
+{
+"text": "Populism",
+"href": "https://www.dan4mo.com/blog/categories/populism"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.dan4mo.com/privacy-policy"
+},
+{
+"text": "Republic",
+"href": "https://www.dan4mo.com/blog/categories/republic"
+},
+{
+"text": "Rights for Sale",
+"href": "https://www.dan4mo.com/blog/categories/rights-for-sale"
+},
+{
+"text": "Rural Missouri",
+"href": "https://www.dan4mo.com/blog/categories/rural-missouri"
+},
+{
+"text": "SCOTUS",
+"href": "https://www.dan4mo.com/blog/categories/scotus"
+},
+{
+"text": "Show-Me Institute",
+"href": "https://www.dan4mo.com/blog/categories/show-me-institute"
+},
+{
+"text": "Socialized Costs, Privatized Profits",
+"href": "https://www.dan4mo.com/post/socialized-costs-privatized-profits"
+},
+{
+"text": "Supreme Court",
+"href": "https://www.dan4mo.com/blog/categories/supreme-court"
+},
+{
+"text": "Trump",
+"href": "https://www.dan4mo.com/blog/categories/trump"
+},
+{
+"text": "Trump Private Army",
+"href": "https://www.dan4mo.com/blog/categories/trump-private-army"
+},
+{
+"text": "Values",
+"href": "https://www.dan4mo.com/values"
+},
+{
+"text": "Why We Voted for a Felon",
+"href": "https://www.dan4mo.com/post/why-we-voted-for-a-felon"
+},
+{
+"text": "[image: Blue Sky]",
+"href": "https://bsky.app/profile/dan4mo.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/dan4mo"
+},
+{
+"text": "[image: Frontline Progressive]",
+"href": "https://www.frontlineprogressive.com"
+},
+{
+"text": "[image: Reddit]",
+"href": "https://www.reddit.com/user/Dan4MO/"
+},
+{
+"text": "[image: TikTok ]",
+"href": "https://www.tiktok.com/@dan4mo"
+},
+{
+"text": "[image: Writer: Dan Schaefer]",
+"href": "https://www.dan4mo.com/members-area/fc211dc0-f23c-4aab-a515-96eec24b659d/profile"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@dan4mo"
+}
 ]

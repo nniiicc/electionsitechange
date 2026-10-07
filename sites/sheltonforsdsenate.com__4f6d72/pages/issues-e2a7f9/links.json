@@ -1,14 +1,66 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/sheltonforsdsenate",
-"https://instagram.com/sheltonforsenate",
-"https://sheltonforsdsenate.com/",
-"https://sheltonforsdsenate.com/about",
-"https://sheltonforsdsenate.com/contact",
-"https://sheltonforsdsenate.com/donate",
-"https://sheltonforsdsenate.com/events",
-"https://sheltonforsdsenate.com/issues/issue-1",
-"https://sheltonforsdsenate.com/issues/issue-2",
-"https://sheltonforsdsenate.com/issues/your-issue-title-here",
-"https://sheltonforsdsenate.com/volunteer"
+{
+"text": "About",
+"href": "https://www.sheltonforsdsenate.com/about"
+},
+{
+"text": "Address growing affordability issues",
+"href": "https://www.sheltonforsdsenate.com/issues/issue-1"
+},
+{
+"text": "Contact",
+"href": "https://www.sheltonforsdsenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.sheltonforsdsenate.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.sheltonforsdsenate.com/events"
+},
+{
+"text": "Healthy Guardrails Surrounding Data Centers",
+"href": "https://www.sheltonforsdsenate.com/issues/your-issue-title-here"
+},
+{
+"text": "Increased Transparency in Medical Services",
+"href": "https://www.sheltonforsdsenate.com/issues/issue-2"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "View more",
+"href": "https://www.sheltonforsdsenate.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.sheltonforsdsenate.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.sheltonforsdsenate.com/issues/your-issue-title-here"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sheltonforsdsenate.com/volunteer"
+},
+{
+"text": "[image: Jeff Shelton for District 32 Senate]",
+"href": "https://www.sheltonforsdsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/sheltonforsdsenate"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/sheltonforsenate"
+},
+{
+"text": "jeffshelton@sheltonforsdsenate.com",
+"href": "mailto:jeffshelton@sheltonforsdsenate.com"
+}
 ]

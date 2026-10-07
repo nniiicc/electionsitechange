@@ -1,10 +1,46 @@
 [
-"https://facebook.com/brianhardin2022",
-"https://hardin2026.com/",
-"https://hardin2026.com/about",
-"https://hardin2026.com/get-involved",
-"https://hardin2026.com/legislative-district-48",
-"https://hardin2026.com/privacy-policy",
-"https://secure.winred.com/hardin-for-legislature/donate-today",
-"https://votercheck.necvr.ne.gov/voterview"
+{
+"text": "About",
+"href": "https://hardin2026.com/about/"
+},
+{
+"text": "Click here",
+"href": "https://www.votercheck.necvr.ne.gov/voterview"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.winred.com/hardin-for-legislature/donate-today"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/brianhardin2022"
+},
+{
+"text": "Get Involved",
+"href": "https://hardin2026.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://hardin2026.com/"
+},
+{
+"text": "Learn More",
+"href": "https://hardin2026.com/about/"
+},
+{
+"text": "Legislative District 48",
+"href": "https://hardin2026.com/legislative-district-48/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://hardin2026.com/privacy-policy/"
+},
+{
+"text": "[image: Hardin 2026]",
+"href": "https://hardin2026.com/"
+},
+{
+"text": "https://hardin2026.com/privacy-policy/",
+"href": "https://hardin2026.com/privacy-policy/"
+}
 ]

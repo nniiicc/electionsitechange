@@ -1,15 +1,1 @@
-Endorsements
-Issues
-Voting Information
-Donate
-Donate
-Home
-Endorsements
-Issues
-Voting Information
-Rachel is proud to be endorsed by:
-2024 Campaign
-2022 Campaign
-2024 Campaign
-2022 Campaign
-Rachel is proud to be supported by:
+Endorsements Issues Voting Information Donate Donate Home Endorsements Issues Voting Information Rachel is proud to be endorsed by: 2024 Campaign 2022 Campaign 2024&nbspCampaign 2022&nbspCampaign Rachel is proud to be supported by: Paid for by Committee to Elect Rachel Roarx Powered by Impact Kentucky

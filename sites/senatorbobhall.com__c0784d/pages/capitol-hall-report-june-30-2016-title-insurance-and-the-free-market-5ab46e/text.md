@@ -1,5 +1,5 @@
-Title Insurance and the Free Market
-Competition is always good for consumers but in Texas the highly regulated Title Insurance business is stifling competition.
+Home About News Priorities and Issues Videos Endorsements Get Involved Contact Us Endorse Senator Bob Hall!
+CHR $ Capitol Hall Report – June 30, 2016 – Title Insurance and the Free Market June 30, 2016 Tweet Title Insurance and the Free Market Competition is always good for consumers but in Texas the highly regulated Title Insurance business is stifling competition.
 Free market competition was a key element in making America great.
 America was founded on competition.
 When a marketplace is allowed to be a free market, our economy thrives.
@@ -35,3 +35,7 @@ Texans can shop around for automobile and home insurance, why is TDI and the leg
 Reforming Title Insurance regulation in Texas by moving to a system similar to the one used for our homeowners insurance, called a file-and-use system, would open up the Title Insurance business to competition, resulting in more choices for consumers as well as lower prices.
 Reducing the high price of commercial Title Insurance in Texas would naturally lower the cost of doing business and would result in a stronger economy and more jobs.
 Therefore, I and several of my colleagues plan to sponsor legislation in 2017 to help boost the Texas economy by deregulating Title Insurance.
+Get the Capitol Hall Report Email Address Zip Code Keep me informed Thanks for subscribing! * Valid Email Address required.
+Home CHR About Priorities and Issues Endorsements News Trusted Conservative Get Involved Get Involved Endorse Senator Hall!
+Contact Us Privacy $ Email Address Zip Code Sign up Thanks for subscribing! * Valid Email Address required Political Advertising Paid for by Texans for Bob Hall, P.O.
+Box 513, Canton, Texas 75103, Mike Slaton, Treasurer Site by Vici Media Group

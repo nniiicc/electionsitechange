@@ -1,8 +1,7 @@
-Community Service
-- Created the Bountiful Recycles group, which successfully lobbied to bring curbside recycling to Bountiful.
-- Ran the free Valley View Elementary Chess Club for eight years.
-- Together with my family, ran the free Bountiful Math Circle to prepare students for math competitions.
-- Served nine years as scoutmaster for troop 272.
-- Currently serve on the Lakeview Hospital Board of Trustees.
-- Currently serve on the state Overdose Fatality Review Committee and the Medical Cannabis Governance Structure working group.
-Bountiful Math Circle Team
+0 Skip to Content Home About Updates/ Events Upcoming Events March 2, 2024 Newsletter Issues Pro-Life Pro-Mom Pro-Child Cutting Taxes Conserving Water For Great Salt Lake Supporting Students, Parents, and Teachers in K-12 Education Housing Affordability Supporting the Disabled Community Service Videos Endorsements Volunteer Contact Donate Open Menu Close Menu Home About Updates/ Events Upcoming Events March 2, 2024 Newsletter Issues Pro-Life Pro-Mom Pro-Child Cutting Taxes Conserving Water For Great Salt Lake Supporting Students, Parents, and Teachers in K-12 Education Housing Affordability Supporting the Disabled Community Service Videos Endorsements Volunteer Contact Donate Open Menu Close Menu Home About Folder: Updates/ Events Back Upcoming Events March 2, 2024 Newsletter Folder: Issues Back Pro-Life Pro-Mom Pro-Child Cutting Taxes Conserving Water For Great Salt Lake Supporting Students, Parents, and Teachers in K-12 Education Housing Affordability Supporting the Disabled Community Service Videos Endorsements Volunteer Contact Donate Community Service Created the Bountiful Recycles group, which successfully lobbied to bring curbside recycling to Bountiful.
+Ran the free Valley View Elementary Chess Club for eight years.
+Together with my family, ran the free Bountiful Math Circle to prepare students for math competitions.
+Served nine years as scoutmaster for troop 272.
+Currently serve on the Lakeview Hospital Board of Trustees.
+Currently serve on the state Overdose Fatality Review Committee and the Medical Cannabis Governance Structure working group.
+Bountiful Math Circle Team RAY WARD HAS A PROVEN TRACK RECORD OF: Conserving Water for Great Salt Lake Supporting the Disabled Supporting Students, Parents, and Teachers in K-12 Education Pro-life Pro-mom Pro-Child Cutting Taxes Housing Affordability Community Service Let’s Stay Connected

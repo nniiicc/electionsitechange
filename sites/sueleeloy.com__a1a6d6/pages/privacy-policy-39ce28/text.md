@@ -1,8 +1,3 @@
-top of page
-Disclaimer
-The information presented on this website represents the views and opinions of the Vote Lee Loy campaign committee and has not been approved or endorsed by any other group or individual.
-Images, videos, and other multimedia elements used on this site remain the copyrighted property of their respective owners.
-Such materials are used here for informational and educational purposes only.
-This disclaimer represents our good faith effort to operate this website ethically and transparently.
-Please direct any questions or concerns to [sue@voteleeloy.com
-bottom of page
+top of page HOME GET INVOLVED DONATE Disclaimer The information presented on this website represents the views and opinions of the Vote Lee Loy campaign committee and has not been approved or endorsed by any other group or individual. ​ Images, videos, and other multimedia elements used on this site remain the copyrighted property of their respective owners.
+Such materials are used here for informational and educational purposes only. ​ This disclaimer represents our good faith effort to operate this website ethically and transparently.
+Please direct any questions or concerns to [ sue@voteleeloy.com DISCLAIMER HOME GET INVOLVED bottom of page

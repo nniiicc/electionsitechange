@@ -1,13 +1,9 @@
-Speaker Johnson To Midterm Convention: Republicans are Fighting to Preserve the Republic; Democrats Want to Tear it All Down
-September 10, 2026
-DALLAS, TX - Speaker Mike Johnson delivered remarks on the closing night of the 2026 Midterm Convention, highlighting Republicans' record of achievement during the 119th Congress and the contrast between Republicans' commonsense policies versus the Democrats' crazy agenda.
+0 Skip to Content VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Speaker Johnson To Midterm Convention: Republicans are Fighting to Preserve the Republic; Democrats Want to Tear it All Down Sep 10 Written By Greg Steele September 10, 2026 DALLAS, TX - Speaker Mike Johnson delivered remarks on the closing night of the 2026 Midterm Convention, highlighting Republicans' record of achievement during the 119th Congress and the contrast between Republicans' commonsense policies versus the Democrats' crazy agenda.
 "This election presents a glaring contrast for America, and it truly is a contrast between common sense and crazy," said Speaker Johnson.
 "Republicans stand for common sense and our nation's founding principles.
 Democrats have radical, far-left candidates running from coast to coast this year who have vowed to abolish police, prisons, and private property, abolish the border and grant mass amnesty, defund our entire national defense, and shred our Constitution.
-We cannot, and we will not, allow them to take the majority in Congress."
-Watch Speaker Johnson's full remarks here.
-Below are Speaker Johnson's remarks as delivered:
-Good evening, patriots, and welcome to Dallas, Texas.
+We cannot, and we will not, allow them to take the majority in Congress." Watch Speaker Johnson's full remarks here .
+Below are Speaker Johnson's remarks as delivered: Good evening, patriots, and welcome to Dallas, Texas.
 Thank you all for being here at this pivotal moment; it truly is a pivotal moment in the history of our great nation.
 After 250 years, what we do in the next 53 days will determine the fate of our republic and the future for our children and our grandchildren.
 This is serious, serious business.
@@ -66,7 +62,8 @@ It's been the most productive Congress in 80 years and we're not done yet.
 Right now, our Republican majority and President Trump are working around the clock.
 The President never sleeps and we don't either.
 Border crossings are down and wages are up.
-More than one million private sector jobs have been created. 97% of filers got a tax cut this year, averaging $3,400 each.
+More than one million private sector jobs have been created.
+97% of filers got a tax cut this year, averaging $3,400 each.
 That's more money in your pockets and less to Uncle Sam.
 Millions have claimed no tax on tips, no tax on overtime, the enhanced senior deduction.
 Nearly 40 million families claim the enhanced child tax credit and more than 127 million taxpayers benefited from the permanently doubled standard deduction.
@@ -133,8 +130,7 @@ And on about the 14th failed attempt, as the story goes, he was bringing the res
 President, respectfully, why are you bringing it?
 The resolution is going to fail." And he said, "Young man, listen to me.
 Duty is ours.
-Results are God's."
-Here's the part I want to leave you with.
+Results are God's." Here's the part I want to leave you with.
 I love that and it's a great worldview and a great vision for us to maintain.
 But if we were on the House floor right now, I'd take you from the brass plate of John Quincy Adams 25 feet over, a little bit further over in Stat Hall, and I would show you the brass plate of someone else.
 See, John Quincy Adams had a very inspiring story and he was not successful in eradicating slavery, if you know, from history.
@@ -161,3 +157,9 @@ I know that God is not done with America yet.
 I know that this is the last best hope of man on earth, and because of your efforts and because the American people can be trusted to make the right decision, we are going to win this election on November 3rd.
 God bless you.
 God bless the United States of America.
+Greg Steele Previous Previous ICYMI: Johnson leads charge in committing millions to NRCC after Vance push Next Next Speaker Johnson Completes 18-State August Campaign Swing, Raises Over $4 Million in Battleground Districts Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
+Box 6075 Bossier City, LA 71171 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+PAID FOR BY MIKE JOHNSON FOR LOUISIANA Privacy Policy Notice of Collection of Personal Information Do Not Sell My Personal Information

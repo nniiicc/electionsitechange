@@ -1,6 +1,4 @@
-Issues
-Border Security
-Our open border is a national security crisis and a massive political failure.
+0 Skip to Content Home Meet Jeff Issues Endorsements Get Involved Donate Open Menu Close Menu Home Meet Jeff Issues Endorsements Get Involved Donate Open Menu Close Menu Home Meet Jeff Issues Endorsements Get Involved Donate Issues Border Security Our open border is a national security crisis and a massive political failure.
 The United States is at a crisis point.
 Communities across the country are being overwhelmed by illegal immigration, crime, and drugs such as fentanyl.
 Our country has always been a nation of immigrants.
@@ -9,8 +7,7 @@ But a country that can’t control its border isn’t meeting its fundamental re
 We must secure the border immediately.
 Border Patrol and law enforcement must be given all resources necessary to enforce the law.
 The federal government must also do everything in its power to work with local law enforcement to crack down on drugs and crime flowing into our country.
-Better Jobs for a Better Economy
-Better jobs and a better economy mean healthier families and stronger communities.
+Better Jobs for a Better Economy Better jobs and a better economy mean healthier families and stronger communities.
 If elected, Jeff’s top priority will be creating opportunities so rural Colorado economies can thrive.
 This includes higher-paying jobs that allow working families to support themselves.
 Government plays an important role in economic development.
@@ -20,8 +17,7 @@ Jeff will also work hard to incentivize investments from any sized company, but 
 When it comes to writing laws, big businesses don’t need help.
 If rural Colorado doesn’t have a member of Congress who cares about and understands policy, then laws and regulations get written by big business, and for big business.
 Jeff will fight to make sure laws and regulations treat small businesses in rural Colorado on a level playing field.
-Empowering Working Families
-It should be easier for working parents to raise their families.
+Empowering Working Families It should be easier for working parents to raise their families.
 It’s getting harder for working families to afford rural Colorado.
 The cost of food, transportation, and utilities keeps rising.
 Businesses struggle to recruit employees because of housing and childcare costs.
@@ -30,8 +26,7 @@ Jeff is open to balanced and thoughtful solutions that enable parents to work an
 Pushing for jobs that let working families support themselves is key.
 But Jeff will also explore ways to find savings for families across rural Colorado.
 This includes the Child Tax Credit as well as tax credits and investments that assist parents struggling with child care.
-Energy and Energy Independence
-Low cost, abundant energy is good for Colorado and good for national security.
+Energy and Energy Independence Low cost, abundant energy is good for Colorado and good for national security.
 Jeff supports the responsible development of all Colorado energy resources.
 This includes some of the cleanest oil and natural gas molecules in the world.
 It’s a win for Colorado when these resources are produced cleanly, safely, and efficiently.
@@ -45,8 +40,7 @@ Responsible energy development means national security for America and economic 
 It means lower gas and electric bills.
 It means tax and lease revenue to our communities.
 It means higher-paying blue-collar jobs, which in turn foster more stable families and stronger communities..
-Water
-Protecting Colorado water requires thoughtful advocacy.
+Water Protecting Colorado water requires thoughtful advocacy.
 Politicians always talk about “fighting for” Colorado’s water.
 Yet, few are willing to work to understand how to shape the law, policy, and politics to protect Colorado’s upstream interests.
 Rural Colorado has only one voice in the U.S.
@@ -57,15 +51,15 @@ Separately, he’ll also push to eradicate water-guzzling and non-native plant s
 He’ll target specific changes to federal law permitting processes that allow development of critical Colorado water projects that benefit rural Colorado.
 Most importantly, Jeff will always work closely with Colorado’s agriculture community.
 In making water policy decisions, Jeff will listen first—and last—to the water users who make a living from irrigating and the water providers who serve Coloradans in the 3rd Congressional District.
-Agriculture
-Fighting for economic, social, and environmental contributions that can’t be replaced.
+Agriculture Fighting for economic, social, and environmental contributions that can’t be replaced.
 Jeff grew up in western Colorado and appreciates what farming and ranching mean to Colorado’s economy, its environment, and its culture.
 Agriculture produces the food we eat, contributes billions to our economy every year, is critical to conservation and land management, and preserves and protects our natural resources.
 When rural Colorado loses ranching and farmland—particularly that of legacy ranchers and farmers—it loses a core part of its identity.
 The Farm Bill, along with policies relating to trade, labor, federal regulations, grazing, land use, water and wolves all impact agriculture.
 Jeff will work hard to protect the livelihood of farmers and ranchers throughout rural Colorado—no matter the size, and whether they’re first-generation or legacy producers.
-21st Century Technologies And Jobs
-Jeff believes that new innovations like blockchain technology and cryptocurrency have the potential to radically change our society for the better.
+21st Century Technologies And Jobs Jeff believes that new innovations like blockchain technology and cryptocurrency have the potential to radically change our society for the better.
 We shouldn’t let countries like China leap ahead of American innovators.
-Legislation like the FIT21 bill (H.R. 4763) represents the kind of bipartisan lawmaking we need to see more of in Washington.
+Legislation like the FIT21 bill (H.R.
+4763) represents the kind of bipartisan lawmaking we need to see more of in Washington.
 In Congress, Jeff will fight to make sure that there are sensible regulations for advancing technologies like cryptocurrency, encouraging the innovation and job growth they bring, all while protecting the public from bad actors.
+Donate 2695 Patterson Rd, Suite 2-287, Grand Junction, CO 81506 info@jeffhurdforcolorado.com Privacy Policy | Terms of Use PAID FOR BY JEFF HURD FOR CONGRESS

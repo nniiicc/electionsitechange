@@ -1,20 +1,82 @@
 [
-"https://bsky.app/profile/jakejohnsonmn.bsky.social",
-"https://designedtorun.com/",
-"https://doors.jakejohnsonforcongress.com/",
-"https://facebook.com/people/Jake-Johnson-for-Congress/61574961360206",
-"https://instagram.com/jakejohnsonmn",
-"https://jakejohnsonforcongress.com/",
-"https://jakejohnsonforcongress.com/media-kit",
-"https://jakejohnsonforcongress.com/meet-jake",
-"https://jakejohnsonforcongress.com/news",
-"https://jakejohnsonforcongress.com/priorities",
-"https://jakejohnsonforcongress.com/privacy-policy",
-"https://jakejohnsonforcongress.com/raised-100k-on-first-day",
-"https://jakejohnsonforcongress.com/receipts",
-"https://secure.actblue.com/donate/jjfc-website-2026",
-"https://tiktok.com/@jakejohnsonmn",
-"https://volunteer.jakejohnsonforcongress.com/",
-"https://x.com/JakeJohnsonMN",
-"https://youtube.com/@JakeJohnsonMN"
+{
+"text": "About",
+"href": "https://www.jakejohnsonforcongress.com/meet-jake"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jjfc-website-2026"
+},
+{
+"text": "Events",
+"href": "https://www.jakejohnsonforcongress.com/receipts"
+},
+{
+"text": "Knock Doors",
+"href": "https://doors.jakejohnsonforcongress.com/"
+},
+{
+"text": "Media Kit",
+"href": "https://www.jakejohnsonforcongress.com/media-kit"
+},
+{
+"text": "News",
+"href": "https://www.jakejohnsonforcongress.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.jakejohnsonforcongress.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jakejohnsonforcongress.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Town Halls",
+"href": "https://townhalls.jakejohnsonforcongress.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.volunteer.jakejohnsonforcongress.com/"
+},
+{
+"text": "[image: Jake Johnson for Congress]",
+"href": "https://www.jakejohnsonforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jakejohnsonmn.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/people/Jake-Johnson-for-Congress/61574961360206/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/jakejohnsonmn/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@jakejohnsonmn"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JakeJohnsonMN"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JakeJohnsonMN"
+},
+{
+"text": "info@jakejohnsonforcongress.com",
+"href": "mailto:info@jakejohnsonforcongress.com"
+},
+{
+"text": "raised over $100K within a day",
+"href": "https://www.jakejohnsonforcongress.com/raised-100k-on-first-day"
+}
 ]

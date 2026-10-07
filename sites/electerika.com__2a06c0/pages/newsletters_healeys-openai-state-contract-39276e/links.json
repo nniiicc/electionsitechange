@@ -1,19 +1,106 @@
 [
-"https://bsky.app/profile/electerika.bsky.social",
-"https://electerika.com/",
-"https://electerika.com/endorsements",
-"https://electerika.com/meet-erika",
-"https://electerika.com/newsletters",
-"https://electerika.com/newsletters/healeys-openai-state-contract/{% manage_preferences_link %}",
-"https://electerika.com/newsletters/healeys-openai-state-contract/{% unsubscribe_link %}",
-"https://electerika.com/platform",
-"https://electerika.com/press",
-"https://electerika.com/privacy",
-"https://electerika.com/volunteer",
-"https://electerika.com/vote",
-"https://facebook.com/electerika",
-"https://instagram.com/electerika",
-"https://malegislature.gov/",
-"https://mass.gov/orgs/office-of-the-governor",
-"https://secure.actblue.com/donate/erika-uyterhoeven"
+{
+"text": "(857) 264-1096",
+"href": "tel:8572641096"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/electerika.bsky.social"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/erika-uyterhoeven"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/erika-uyterhoeven"
+},
+{
+"text": "Endorse Erika",
+"href": "mailto:erika@electerika.com?subject=Endorsement"
+},
+{
+"text": "Endorsements",
+"href": "https://electerika.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/electerika/"
+},
+{
+"text": "Follow on Bluesky",
+"href": "https://bsky.app/profile/electerika.bsky.social"
+},
+{
+"text": "Follow on Instagram",
+"href": "https://www.instagram.com/electerika/"
+},
+{
+"text": "Get Involved",
+"href": "https://electerika.com/volunteer/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/electerika/"
+},
+{
+"text": "Manage Preferences",
+"href": "https://electerika.com/newsletters/healeys-openai-state-contract/%7B%%20manage_preferences_link%20%%7D"
+},
+{
+"text": "Meet Erika",
+"href": "https://electerika.com/meet-erika/"
+},
+{
+"text": "Newsletter",
+"href": "https://electerika.com/newsletters/"
+},
+{
+"text": "Newsletters",
+"href": "https://electerika.com/newsletters/"
+},
+{
+"text": "Platform",
+"href": "https://electerika.com/platform/"
+},
+{
+"text": "Press",
+"href": "https://electerika.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electerika.com/privacy/"
+},
+{
+"text": "Unsubscribe",
+"href": "https://electerika.com/newsletters/healeys-openai-state-contract/%7B%%20unsubscribe_link%20%%7D"
+},
+{
+"text": "Volunteer",
+"href": "https://electerika.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://electerika.com/vote/"
+},
+{
+"text": "[image: Erika Uyterhoeven for State Senate] [image: Erika Uyterhoeven for State Senate]",
+"href": "https://electerika.com/"
+},
+{
+"text": "erika@electerika.com",
+"href": "mailto:erika@electerika.com"
+},
+{
+"text": "malegislature.gov",
+"href": "https://malegislature.gov"
+},
+{
+"text": "mass.gov/governor",
+"href": "https://www.mass.gov/orgs/office-of-the-governor"
+},
+{
+"text": "← All Newsletters",
+"href": "https://electerika.com/newsletters/"
+}
 ]

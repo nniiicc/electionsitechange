@@ -1,18 +1,94 @@
 [
-"https://christinadelisio.com/",
-"https://christinadelisio.com/christine-delisio",
-"https://christinadelisio.com/get-in-touch",
-"https://christinadelisio.com/in-the-news",
-"https://facebook.com/profile.php?id=61585785787890",
-"https://forms.gle/ERy261qFxe6ftCeW9",
-"https://forms.gle/nLUZ3jUvWzsyPTh26",
-"https://instagram.com/delisio5th",
-"https://sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote",
-"https://secure.anedot.com/christinadelisio/donate",
-"https://secure.anedot.com/christinadelisio/donate?amount=100",
-"https://secure.anedot.com/christinadelisio/donate?amount=1000",
-"https://secure.anedot.com/christinadelisio/donate?amount=200",
-"https://secure.anedot.com/christinadelisio/donate?amount=50",
-"https://secure.anedot.com/christinadelisio/donate?amount=500",
-"https://secure.anedot.com/christinadelisio/oktoberfest"
+{
+"text": "$#",
+"href": "https://secure.anedot.com/christinadelisio/donate"
+},
+{
+"text": "$#",
+"href": "https://secure.anedot.com/christinadelisio/donate?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.anedot.com/christinadelisio/donate?amount=200"
+},
+{
+"text": "$#",
+"href": "https://secure.anedot.com/christinadelisio/donate?amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.anedot.com/christinadelisio/donate?amount=500"
+},
+{
+"text": "$#,#",
+"href": "https://secure.anedot.com/christinadelisio/donate?amount=1000"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/christinadelisio/donate"
+},
+{
+"text": "Events",
+"href": "https://christinadelisio.com/#events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61585785787890"
+},
+{
+"text": "Find Your Polling Location",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote"
+},
+{
+"text": "Get In Touch",
+"href": "https://christinadelisio.com/get-in-touch/"
+},
+{
+"text": "In The News",
+"href": "https://christinadelisio.com/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/delisio5th/"
+},
+{
+"text": "Learn More",
+"href": "https://christinadelisio.com/christine-delisio/"
+},
+{
+"text": "Meet Christina",
+"href": "https://christinadelisio.com/christine-delisio/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/christinadelisio/donate"
+},
+{
+"text": "Priorities",
+"href": "https://christinadelisio.com/#Priorities"
+},
+{
+"text": "Request A Lawn Sign",
+"href": "https://forms.gle/ERy261qFxe6ftCeW9"
+},
+{
+"text": "Support The Campaign",
+"href": "https://secure.anedot.com/christinadelisio/donate"
+},
+{
+"text": "Tickets",
+"href": "https://secure.anedot.com/christinadelisio/oktoberfest"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/nLUZ3jUvWzsyPTh26"
+},
+{
+"text": "Welcome",
+"href": "https://christinadelisio.com/"
+},
+{
+"text": "[image: Christina Delisio For State Representative]",
+"href": "https://christinadelisio.com/"
+}
 ]

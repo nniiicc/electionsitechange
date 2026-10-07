@@ -1,6 +1,34 @@
 [
-"https://maine.gov/cleanelections",
-"https://oliverformaine.com/",
-"https://oliverformaine.com/cart",
-"https://oliverformaine.com/volunteer"
+{
+"text": "0",
+"href": "https://oliverformaine.com/cart"
+},
+{
+"text": "About",
+"href": "https://oliverformaine.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://oliverformaine.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://maine.gov/cleanelections"
+},
+{
+"text": "Oliver McAvoy for State Rep",
+"href": "https://oliverformaine.com/"
+},
+{
+"text": "On the Issues",
+"href": "https://oliverformaine.com/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://oliverformaine.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://maine.gov/cleanelections"
+}
 ]

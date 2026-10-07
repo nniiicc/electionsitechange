@@ -1,16 +1,66 @@
 [
-"http://brittraybould.wpengine.com/",
-"https://britt4idaho.com/",
-"https://britt4idaho.com/1-9-million-people",
-"https://britt4idaho.com/2018/11/20/gratitude-every-day",
-"https://britt4idaho.com/2018/12/07/taking-the-oath",
-"https://britt4idaho.com/about",
-"https://britt4idaho.com/category/policy",
-"https://britt4idaho.com/donate",
-"https://britt4idaho.com/tag/deq",
-"https://britt4idaho.com/tag/water",
-"https://britt4idaho.com/volunteer",
-"https://facebook.com/britt4idaho",
-"https://instagram.com/britt4idaho",
-"https://legislature.idaho.gov/wp-content/uploads/lso/presentations/2018%20New%20Legislator%20Orientation%20Agenda-Program.pdf"
+{
+"text": "About",
+"href": "https://www.britt4idaho.com/about/"
+},
+{
+"text": "DEQ",
+"href": "https://www.britt4idaho.com/tag/deq/"
+},
+{
+"text": "Donate",
+"href": "https://www.britt4idaho.com/donate/"
+},
+{
+"text": "Gratitude Every Dayhttps://www.britt4idaho.com/wp-content/uploads/2018/11/Gratitude_web.jpg",
+"href": "https://www.britt4idaho.com/2018/11/20/gratitude-every-day/"
+},
+{
+"text": "Home",
+"href": "http://brittraybould.wpengine.com"
+},
+{
+"text": "News",
+"href": "https://www.britt4idaho.com/category/policy/"
+},
+{
+"text": "Taking the Oathhttps://www.britt4idaho.com/wp-content/uploads/2018/12/CapitolOath-800x565.jpg",
+"href": "https://www.britt4idaho.com/2018/12/07/taking-the-oath/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.britt4idaho.com/volunteer/"
+},
+{
+"text": "Volunteer for Britt",
+"href": "https://www.britt4idaho.com/volunteer/"
+},
+{
+"text": "We have some fantastic things happening in our region",
+"href": "https://www.britt4idaho.com/1-9-million-people/"
+},
+{
+"text": "[image: Britt Raybould | Idaho House, District 34]",
+"href": "https://www.britt4idaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/britt4idaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/britt4idaho/"
+},
+{
+"text": "hello@britt4idaho.com",
+"href": "mailto:hello@britt4idaho.com"
+},
+{
+"text": "new legislator training",
+"href": "https://legislature.idaho.gov/wp-content/uploads/lso/presentations/2018%20New%20Legislator%20Orientation%20Agenda-Program.pdf"
+},
+{
+"text": "water",
+"href": "https://www.britt4idaho.com/tag/water/"
+}
 ]

@@ -1,25 +1,20 @@
-At the Lowndes County Courthouse where he has prosecuted cases for a decade, District Attorney Scott Colom unveiled his plan to root out corruption in Washington and made the case against Cindy Hyde-Smith’s betrayal of Mississippi
-District Attorney Colom’s case: Corruption Costs Mississippi.
+Skip to content The Latest Endorsements Store Volunteer Voting Information The Latest Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate July 14, 2026 Press Release WATCH: Prosecutor Scott Colom Lays Out His Plan to Clean Up Washington, Brings the Receipts on Cindy Hyde-Smith’s Corruption At the Lowndes County Courthouse where he has prosecuted cases for a decade, District Attorney Scott Colom unveiled his plan to root out corruption in Washington and made the case against Cindy Hyde-Smith’s betrayal of Mississippi District Attorney Colom’s case: Corruption Costs Mississippi.
 Cindy takes care of herself.
 You get the bill.
 District Attorney Colom: “In Mississippi, no one is above the law.
 No one should be beneath its protection.
-That’s the standard I brought to this courthouse, and it’s the standard I’ll bring to Washington”
-“Corruption Costs Mississippi”: Read District Attorney Colom’s full Anti-Corruption Agenda — MORE HERE
-WATCH VIDEO OF DISTRICT ATTORNEY COLOM’S NEWS CONFERENCE HERE
-Columbus, MS — Today, standing outside the Lowndes County Courthouse where he has served as district attorney for a decade, Scott Colom unveiled his agenda to root out corruption in Washington and made a prosecutor’s case against Senator Cindy Hyde-Smith’s role in Washington’s corruption, laying out the receipts on her self-dealing, illustrating how each one connects to a cost to Mississippians, and highlighting his own record of holding the powerful accountable regardless of party.
+That’s the standard I brought to this courthouse, and it’s the standard I’ll bring to Washington” “Corruption Costs Mississippi”: Read District Attorney Colom’s full Anti-Corruption Agenda — MORE HERE WATCH VIDEO OF DISTRICT ATTORNEY COLOM’S NEWS CONFERENCE HERE Columbus, MS — Today, standing outside the Lowndes County Courthouse where he has served as district attorney for a decade, Scott Colom unveiled his agenda to root out corruption in Washington and made a prosecutor’s case against Senator Cindy Hyde-Smith’s role in Washington’s corruption, laying out the receipts on her self-dealing, illustrating how each one connects to a cost to Mississippians, and highlighting his own record of holding the powerful accountable regardless of party.
 Introduced by his mentor, Pastor and Attorney Orlando Richmond, Colom leveled a simple charge: Cindy Hyde-Smith went to Washington and started working for herself, and Mississippi pays the bill.
 “Cindy Hyde-Smith went to Washington and started working for herself.
 She collected checks from rich people to pay for her own luxury living, and when a bill came up that would have made her explain it, she voted no.
 The farmers got the bill.
 She got the donation.
 I’ve spent my career as a prosecutor holding the powerful accountable, without fear or favor and no matter their party, and that’s exactly what I’ll bring to Washington,” said District Attorney Scott Colom.
-In remarks to press, flanked by supporters, Colom unveiled a four-part plan to root out the corruption costing Mississippians:
-- Ban stock trading and secret crypto profits: Bar members of Congress, their spouses, and their children from trading stocks or cashing in on secret crypto deals in the industries they regulate, with full divestment and real-time disclosure.
+In remarks to press, flanked by supporters, Colom unveiled a four-part plan to root out the corruption costing Mississippians: Ban stock trading and secret crypto profits : Bar members of Congress, their spouses, and their children from trading stocks or cashing in on secret crypto deals in the industries they regulate, with full divestment and real-time disclosure.
 And bar any public official, however powerful, from launching or promoting their own cryptocurrency, taking money from foreign or anonymous buyers, and pocketing the profits while setting the policies that make that coin worth more.
-- Strengthen ethics enforcement: Back independent watchdogs with real teeth and a Senate ethics office with the power to act, so breaking the rules finally comes with consequences.
-- Crack down on corruption and public fraud: Give federal investigators the resources to follow the money, protect the whistleblowers who expose wrongdoing, and root out fraud wherever it hides, from Washington to the local services Mississippians count on.
-- Get big money out of politics: Work across party lines to overturn Citizens United and put voters, not the biggest checkbooks, back in charge of our elections.
+Strengthen ethics enforcement : Back independent watchdogs with real teeth and a Senate ethics office with the power to act, so breaking the rules finally comes with consequences.
+Crack down on corruption and public fraud : Give federal investigators the resources to follow the money, protect the whistleblowers who expose wrongdoing, and root out fraud wherever it hides, from Washington to the local services Mississippians count on.
+Get big money out of politics : Work across party lines to overturn Citizens United and put voters, not the biggest checkbooks, back in charge of our elections.
 Colom built the case for that plan on Hyde-Smith’s own record.
 She billed more than $10,000 in Las Vegas hotel stays to her campaign, funded by lobbyist and corporate money, then voted to block the transparency measure that would have required her to explain it.
 She has taken checks from fertilizer companies under federal investigation for price-fixing, gouging the very farmers she claims to fight for on one of their biggest expenses.
@@ -27,31 +22,23 @@ She voted to block a ban on members of Congress trading the stocks they regulate
 And she voted to give the crypto industry the green light without the one safeguard that would have barred the president from cashing in, as he pocketed more than $1.4 billion in crypto income in a single year.
 Each receipt, Colom argued, lands on a cost: farmers pay more at the co-op, families pay more at the checkout, and billionaires in New York and California got a tax handout while Mississippian’s premiums climb and rural hospitals hang on.
 He grounded the case in his own record.
-As district attorney, Colom investigated a sheriff in his own district who was preying on a woman in his jail, brought in federal investigators, and held him accountable, even though the sheriff was a member of his own party.
-“That is the difference between talking and doing,” Colom added.
-[Watch video of District Attorney Scott Colom’s full remarks HERE.]
-Key excerpts below from District Attorney Scott Colom’s remarks:
-- “I’ve been honored to be elected district attorney three times, and I’ve looked hundreds of jurors in the eyes and made the case based on the facts and the law.
+As district attorney, Colom investigated a sheriff in his own district who was preying on a woman in his jail, brought in federal investigators, and held him accountable , even though the sheriff was a member of his own party.
+“That is the difference between talking and doing,” Colom added. [ Watch video of District Attorney Scott Colom’s full remarks HERE .] Key excerpts below from District Attorney Scott Colom’s remarks : “I’ve been honored to be elected district attorney three times, and I’ve looked hundreds of jurors in the eyes and made the case based on the facts and the law.
 I’ve learned that no one is above the law: not the powerful, not the well-connected, not the folks who think the rules are for everybody but them.
 In this courtroom, your party does not buy you a different set of rules.
-And I’m running for the United States Senate, because that’s not how Washington works anymore.”
-- “She collected checks from rich people to pay for her own luxury living.
+And I’m running for the United States Senate, because that’s not how Washington works anymore.” “She collected checks from rich people to pay for her own luxury living.
 She billed more than $10,000 in Las Vegas hotel stays to her campaign, and when a bill came up that would have required that spending to be disclosed, she voted against it.
 She’s also taken money from fertilizer companies that are under investigation for price-fixing, while our farmers are struggling.
 The farmers got the bill.
-She got the donation.”
-- “A female inmate came to me and told me the deputies, and the sheriff, were exploiting her.
+She got the donation.” “A female inmate came to me and told me the deputies, and the sheriff, were exploiting her.
 She said, ‘I don’t think you’ll do anything about it, because he’s in your same party.’ It didn’t matter to me that the sheriff was a Democrat.
 It didn’t matter that he had previously supported me.
-Right is right and wrong is wrong, and when I saw wrong, I investigated it, and I did something about it.”
-- “Corruption costs Mississippi.
+Right is right and wrong is wrong, and when I saw wrong, I investigated it, and I did something about it.” “Corruption costs Mississippi.
 It costs us at the pump, at the pharmacy, at the co-op, at the checkout.
 And it costs us something even harder to measure: the trust in government that a democracy requires.
 In Mississippi, no one is above the law.
 No one should be beneath its protection.
-That’s the standard I brought to this courthouse, and it’s the standard I’ll bring to Washington.”
-Read the full transcript of District Attorney Colom’s remarks below:
-“I’m so honored to have so many people out here, even in this rain.
+That’s the standard I brought to this courthouse, and it’s the standard I’ll bring to Washington.” Read the full transcript of District Attorney Colom’s remarks below : “I’m so honored to have so many people out here, even in this rain.
 Hopefully it’ll hold on long enough for me to get through my speech.
 I appreciate everybody.
 “I appreciate my mentor, Pastor Orlando Richmond, a fantastic public servant and a fantastic follower of Jesus Christ.
@@ -175,12 +162,22 @@ We have to restore that trust by electing officials who are going to put Mississ
 “I’m running to change that, because I believe what my parents taught me: in Mississippi, no one is above the law, and no one should be beneath its protection.
 That’s the standard I brought to this courthouse, and it’s the standard I will bring to Washington.
 “If you’re ready for a senator who answers to you, join us by texting SCOTT to 54937.
-Text SCOTT to 54937, or go to scottcolom.com to learn more about my plan.
+Text SCOTT to 54937 , or go to scottcolom.com to learn more about my plan.
 Let’s clean up the corruption in Washington.
 And this November, let’s show the country that Mississippi matters.
-God bless y’all, and thank y’all for being here.”
-###
-About Scott: Scott Colom is a seventh-generation Mississippian, proud husband and father of two, and district attorney who fights every day to keep Mississippians safe.
+God bless y’all, and thank y’all for being here.” ### About Scott : Scott Colom is a seventh-generation Mississippian, proud husband and father of two, and district attorney who fights every day to keep Mississippians safe.
 Guided by his Christian faith, Scott has dedicated his life to serving his neighbors and keeping them safe from violent criminals.
 Now he’s running to lower costs for families, save our Mississippi hospitals, and bring good jobs home.
 Scott loves his state and will always put Mississippi first, and he’ll work with anyone, Republican or Democrat, to get things done for us.
+SHARE Let's Go!
+Sign Up To Join The Team Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy. or chip in $ 17 text Scott to 54937 Scott Colom is a seventh-generation Mississippian, proud husband and father of two, and district attorney who fights every day to keep Mississippians safe.
+Now, he’s running to serve in the United States Senate in the November 2026 election.
+Support his campaign by making a contribution or signing up to volunteer .
+Facebook X-twitter Instagram Tiktok Contributions can be mailed to: Scott Colom for Senate PO Box 112, Columbus, MS 39703 Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Paid for by Scott Colom for Senate By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy. © Copyright # Scott Colom for Senate.
+All Rights Reserved.

@@ -1,7 +1,4 @@
-Logged In – Week In Review - March 22–28, 2026
-By Shane Klakken, Montana House District 37
-March 29, 2026
-Before I get into the week, I want to talk about something that matters more than most people realize right now: ballot initiatives.
+top of page News Principles Calendar About Menu Close Donate Logged In – Week In Review - March 22–28, 2026 By Shane Klakken, Montana House District 37 March 29, 2026 Before I get into the week, I want to talk about something that matters more than most people realize right now: ballot initiatives.
 We’ve got several circulating in Montana this year, and I’ll be honest with you — when somebody walks up to you with a clipboard, your first instinct might be to just sign and move on.
 Don’t!
 These things have long-term consequences for our laws and our Constitution, and they deserve more than a glance.
@@ -53,3 +50,7 @@ Find me on Facebook, X, Instagram, TikTok, and YouTube.
 If you’re able to support the campaign for reelection, I’d genuinely appreciate it.
 I have both an Independent and a Democrat challenger on the ballot this cycle, and it takes resources to run a real race.
 Thank you, as always, for reading and for caring about what happens in Central Montana.
+Back to Updates Stay Connected with Shane Be part of the conversation and stay informed about upcoming events, legislative updates, and community news across Montana.
+Subscribe Now Or connect on social media: Socials Contact Info Tel. ‭+1 (406) 217-6107 ‬P.O.
+Box PO Box 128 Grass Range, MT 59032 Resources News Principles Calendar Newsletter Navigation Home About Contact Paid for by Shane Klakken For HD37 (R) • Sam Holmes, Treasurer • PO Box 128 Grass Range, Mt 59032 ©# by Shane Klakken.
+News Principles Calendar About bottom of page

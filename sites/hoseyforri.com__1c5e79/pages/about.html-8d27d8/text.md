@@ -1,9 +1,5 @@
-Personal Story
-About Joe
-Meet Joe Hosey
-Husband, father, Providence College graduate, Lincoln resident, small business owner, and candidate for Rhode Island House of Representatives.
-Why Joe Is Running
-Respect taxpayers.
+Elect Joe Hosey Home About Joe Issues Get Involved Donate About Joe Meet Joe Hosey Husband, father, Providence College graduate, Lincoln resident, small business owner, and candidate for Rhode Island House of Representatives.
+Donate to Joe's Campaign Join Team Hosey Personal Story A practical, local voice for Lincoln Why Joe Is Running Respect taxpayers.
 Solve problems.
 Deliver results.
 I am running for the Rhode Island House of Representatives to represent District 44.
@@ -21,6 +17,6 @@ I am husband, a father, a graduate of Providence College, I grew up in Mass, liv
 I'm running for the House of Representatives - District 44 - Johnston/Lincoln/Smithfield.
 Between now and election day in November, I will be posting my positions on important matters to hard working Rhode Islanders, starting July 4th.
 I believe we can get Rhode Island on a path to making Rhode Island the best state in the United States.
-Business and Leadership Experience
-Budgeting, accountability, and common sense
-Joe's experience connects directly to the work voters expect from state government: careful budgeting, clear accountability, solving real problems, leading teams, and understanding the cost pressures on families and businesses.
+Business and Leadership Experience Budgeting, accountability, and common sense Joe's experience connects directly to the work voters expect from state government: careful budgeting, clear accountability, solving real problems, leading teams, and understanding the cost pressures on families and businesses.
+Help Joe bring common sense solutions to the State House.
+Donate Volunteer Elect Joe Hosey Facebook: HoseyforRI X: HoseyforRI Instagram: HoseyforRI Phone: 401-492-8945 Email: HoseyforRI@gmail.com

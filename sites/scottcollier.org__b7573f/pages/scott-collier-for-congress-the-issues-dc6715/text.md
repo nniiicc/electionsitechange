@@ -1,3 +1,4 @@
+Menu Contact The Issues Advocacy Bio Home The Issues Why are you running for office?
 I want to work with the citizens of District 7 to turn the tide on crime, gangs, educational issues & the out of control drug problems that have greatly diminished the standard of living in many of our communities for far too long.
 Moreover, the ongoing issues with our juvenile &criminal justice systems are alarming as well as the growing economic & illegal immigration problems we face.
 Another priority is putting an end to food deserts in our communities.
@@ -13,8 +14,7 @@ After watching the 2020 election results, do you seriously expect me to believe 
 Get real!
 Jacob Chansley dropped the dime on everything the Deep Fake State has been up to on Tucker’s show.
 Another Tucker interview with Mike Benz explained what the Deep State has been doing the past few years and also went back to 1947 to paint a vivid picture of the origins of today’s deep state.
-Happy Trails To You
-Do you support additional assistance for Ukraine’s military forces two years into Russia’s invasion?
+Happy Trails To You Do you support additional assistance for Ukraine’s military forces two years into Russia’s invasion?
 No.
 On the international front I will not support senseless wars or conflicts that cost So Many Precious Americans Lives and cost trillions of future hard earned tax dollars we can’t afford to waste.
 We are also foolishly allowing stockpiles of our weapons to be depleted that we may possibly need here at home very soon.
@@ -49,3 +49,4 @@ If I remember correctly, it was the 1990s and everyone had agreed that there was
 I believe Thomas Sowell did another study a decade later, and in a decade our learning institutions and our world culture shapers had convinced some of our children to believe they were oppressed.
 So the real question is, who made the children feel used and abused?
 Another problem I see is people don’t know how to say hi or hold a door for someone regardless of their gender or skin color.
+PAID FOR BY SCOTT COLLIER FOR CONGRESS

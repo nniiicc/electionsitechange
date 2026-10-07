@@ -1,6 +1,8 @@
-Dear Neighbor,
-Your voice matters.
+DONATE SURVEY Home About Steve's Beliefs Endorsements Volunteer Contact Steve Patten for Delegate – Community Survey Dear Neighbor, Your voice matters.
 I’m running to be your voice in Annapolis, but first I want to hear directly from you.
 Please take a moment to complete this form and let me know the issues that concern you the most and the ways you’d like to support my campaign.
-Your feedback will help guide my priorities.
--- Steve
+Your feedback will help guide my priorities. -- Steve Take the Survey Email First Name Last Name Address City Zip Code Phone What issues matter most to you and your family?
+(Check all that apply) Stopping the Maryland Piedmont Reliability Project (MPRP) and protecting Carroll County’s rural character Fixing or repealing the costly “Blueprint for Maryland’s Future” education plan and restoring local control over schools Lowering taxes and protecting family budgets Supporting law enforcement & keeping our communities safe Protecting parental rights in education Protecting 2nd Amendment rights Supporting Carroll County farms & small businesses Stopping government overreach from Annapolis Expanding vocational training & workforce opportunities Other issues important to you: How would you like to support Steve’s campaign?
+I would like a yard sign to display at my home I would like a Steve Patten car magnet I would like to volunteer (help make calls, door-knock, or host a meet-and-greet) I would like to make a donation to help Steve’s campaign reach more voters.
+Please enable the javascript to submit this form SUBMIT (Click here for the donation page) © 2026 All rights reserved, Friends of Steve Patten.
+Authority: Friends of Steve Patten, Shannon Patten, Treasurer.

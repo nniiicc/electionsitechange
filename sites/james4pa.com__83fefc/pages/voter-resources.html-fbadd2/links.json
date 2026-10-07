@@ -1,32 +1,134 @@
 [
-"https://alleghenycounty.us/Government/Elections",
-"https://alleghenycounty.us/Government/Elections/Ballot-Return-Sites",
-"https://alleghenycounty.us/Government/Elections/In-Person-Voting",
-"https://alleghenycounty.us/Government/Elections/Mail-in-and-Absentee-Voting",
-"https://alleghenycounty.us/Government/Elections/Sample-Ballots",
-"https://alleghenycounty.us/Government/Elections/Voter-Registration",
-"https://facebook.com/James4PA",
-"https://james4pa.com/about.html",
-"https://james4pa.com/campaign-faq.html",
-"https://james4pa.com/contribute",
-"https://james4pa.com/district.html",
-"https://james4pa.com/endorsements.html",
-"https://james4pa.com/get-involved",
-"https://james4pa.com/index.html",
-"https://james4pa.com/local-agenda.html",
-"https://james4pa.com/media-resources.html",
-"https://james4pa.com/privacy-policy.html",
-"https://james4pa.com/terms-conditions.html",
-"https://james4pa.com/the-choice.html",
-"https://james4pa.com/volunteer",
-"https://james4pa.com/voter-resources.html",
-"https://james4pa.com/yard-sign",
-"https://pa.gov/agencies/vote/elections/upcoming-elections",
-"https://pa.gov/agencies/vote/voter-registration/check-my-registration-status",
-"https://pa.gov/services/vote/apply-for-a-mail-in-or-absentee-ballot",
-"https://pa.gov/services/vote/find-your-local-polling-place",
-"https://pa.gov/services/vote/register-to-vote",
-"https://pavoterservices.pa.gov/pages/ballottracking.aspx",
-"https://x.com/JamesJuliusPA",
-"https://youtube.com/@james4pa"
+{
+"text": "412-350-4500",
+"href": "tel:4123504500"
+},
+{
+"text": "About James",
+"href": "https://www.james4pa.com/about.html"
+},
+{
+"text": "Allegheny County Elections Main elections hub",
+"href": "https://www.alleghenycounty.us/Government/Elections"
+},
+{
+"text": "Ballot Return Sites Official return locations",
+"href": "https://www.alleghenycounty.us/Government/Elections/Ballot-Return-Sites"
+},
+{
+"text": "Campaign FAQ",
+"href": "https://www.james4pa.com/campaign-faq.html"
+},
+{
+"text": "Check Status",
+"href": "https://www.pa.gov/agencies/vote/voter-registration/check-my-registration-status"
+},
+{
+"text": "Contribute",
+"href": "https://www.james4pa.com/contribute"
+},
+{
+"text": "District 45",
+"href": "https://www.james4pa.com/district.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.james4pa.com/endorsements.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/James4PA/"
+},
+{
+"text": "Find Polling Place",
+"href": "https://www.pa.gov/services/vote/find-your-local-polling-place"
+},
+{
+"text": "Get Involved",
+"href": "https://www.james4pa.com/get-involved"
+},
+{
+"text": "In-Person Voting Polling place and Election Day info",
+"href": "https://www.alleghenycounty.us/Government/Elections/In-Person-Voting"
+},
+{
+"text": "Local Agenda",
+"href": "https://www.james4pa.com/local-agenda.html"
+},
+{
+"text": "Mail-in and Absentee Voting County mail ballot guidance",
+"href": "https://www.alleghenycounty.us/Government/Elections/Mail-in-and-Absentee-Voting"
+},
+{
+"text": "Media Resources",
+"href": "https://www.james4pa.com/media-resources.html"
+},
+{
+"text": "Open County Elections",
+"href": "https://www.alleghenycounty.us/Government/Elections"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.james4pa.com/privacy-policy.html"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.pa.gov/services/vote/register-to-vote"
+},
+{
+"text": "Request Mail Ballot",
+"href": "https://www.pa.gov/services/vote/apply-for-a-mail-in-or-absentee-ballot"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.james4pa.com/yard-sign"
+},
+{
+"text": "Sample Ballots Preview your ballot",
+"href": "https://www.alleghenycounty.us/Government/Elections/Sample-Ballots"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.james4pa.com/terms-conditions.html"
+},
+{
+"text": "The Choice",
+"href": "https://www.james4pa.com/the-choice.html"
+},
+{
+"text": "Track Ballot",
+"href": "https://www.pavoterservices.pa.gov/pages/ballottracking.aspx"
+},
+{
+"text": "View Key Dates",
+"href": "https://www.pa.gov/agencies/vote/elections/upcoming-elections"
+},
+{
+"text": "Volunteer",
+"href": "https://www.james4pa.com/volunteer"
+},
+{
+"text": "Voter Registration County registration information",
+"href": "https://www.alleghenycounty.us/Government/Elections/Voter-Registration"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.james4pa.com/voter-resources.html"
+},
+{
+"text": "X",
+"href": "https://x.com/JamesJuliusPA"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@james4pa"
+},
+{
+"text": "[image: James Julius State Representative]",
+"href": "https://www.james4pa.com/index.html"
+},
+{
+"text": "campaign@james4pa.com",
+"href": "mailto:campaign@james4pa.com"
+}
 ]

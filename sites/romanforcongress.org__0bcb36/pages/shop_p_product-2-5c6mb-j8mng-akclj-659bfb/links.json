@@ -1,13 +1,46 @@
 [
-"http://facebook.com/squarespace",
-"http://instagram.com/squarespace",
-"http://twitter.com/squarespace",
-"https://romanforcongress.org/",
-"https://romanforcongress.org/about",
-"https://romanforcongress.org/appointments",
-"https://romanforcongress.org/cart",
-"https://romanforcongress.org/contact",
-"https://romanforcongress.org/shop",
-"https://romanforcongress.org/shop/p/product-2-5c6mb-j8mng-akclj",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.romanforcongress.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.romanforcongress.org/about"
+},
+{
+"text": "Book now",
+"href": "https://www.romanforcongress.org/appointments"
+},
+{
+"text": "Contact",
+"href": "https://www.romanforcongress.org/contact"
+},
+{
+"text": "Product Name",
+"href": "https://www.romanforcongress.org/shop/p/product-2-5c6mb-j8mng-akclj"
+},
+{
+"text": "Shop",
+"href": "https://www.romanforcongress.org/shop"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: 2026]",
+"href": "https://www.romanforcongress.org/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/squarespace"
+}
 ]

@@ -1,5 +1,4 @@
-MEET NICOLE
-HI, I’M NICOLE!
+0 Skip to Content Home Meet Nicole Community Support Join Us Contact DONATE Open Menu Close Menu Home Meet Nicole Community Support Join Us Contact DONATE Open Menu Close Menu Home Meet Nicole Community Support Join Us Contact DONATE MEET NICOLE HI, I’M NICOLE!
 Growing up in a single-parent household we lived in subsidized housing, received food stamps, WIC, and free school lunch during the entirety of my primary and secondary education.
 Despite the stigma that surrounded these programs and still does today, I realize they were essential to my survival and shaped the rest of my life.
 When we moved into subsidized housing I was forced to leave the community that I knew and knew loved me.
@@ -17,3 +16,7 @@ I spent 4 years as a member of the Creve Coeur City Council and my last year the
 After taking a year off from the council to explore a different opportunity, I rejoined the Creve Coeur City Council in April 2025 and jumped right back into serving the Creve Coeur Community.
 Our current State Representative LaDonna Appelbaum reaches her term limit at the end of the 2026 and I am honored to be running with her support.
 I am looking forward to continuing to represent Creve Coeur and the surrounding area in the Missouri State House.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+STAY UP TO DATE Email Address SIGN UP Thank you!
+Paid for by Committee to Elect Nicole Greer - Sydni Jackson, Treasurer

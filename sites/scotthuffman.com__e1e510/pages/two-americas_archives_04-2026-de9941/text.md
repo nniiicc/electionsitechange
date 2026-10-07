@@ -1,4 +1,5 @@
-| FOR IMMEDIATE RELEASE Scott Huffman Condemns NC Supreme Court Decision in Leandro Case Calls Ruling a Betrayal of North Carolina’s Children and Public Schools Salisbury, NC.
+Home Why I'm Running Issues Two Americas Contact Donate Volunteer #TwoAmericas We live in #TwoAmericas the Extreme Rich and Everybody else who is the #workingclass.
+Scott Huffman Condemns NC Supreme Court Decision in Leandro Case Calls Ruling a Betrayal of North Carolina’s Children and Public Schools 4/3/2026 FOR IMMEDIATE RELEASE Scott Huffman Condemns NC Supreme Court Decision in Leandro Case Calls Ruling a Betrayal of North Carolina’s Children and Public Schools Salisbury, NC.
 Scott Huffman, Democratic candidate for North Carolina House District 76, issued the following statement after the North Carolina Supreme Court’s April 2, 2026 decision ending the long-running Leandro school funding litigation.
 The court ruled 4 to 3 and voided the 2022 ruling that had ordered the transfer of funds toward the state’s court approved school improvement plan, leaving funding authority with the General Assembly.
 “I want to put North Carolina's children first, and the GOP once again has proven that our kids aren't their priority." “The North Carolina Constitution promises every child the right to a sound basic education.
@@ -26,7 +27,11 @@ We cannot build a strong economy, strong communities, or a sustainable future by
 Today’s students are tomorrow’s workers, leaders, parents, and citizens.
 If we fail them now, we fail the future of this state.
 I am running because I believe in fully funding public schools, supporting teachers, and making sure every child in North Carolina has the opportunity to succeed.
-Our children deserve better than this decision, and they deserve leaders who will fight for them.” | Posts from before 2025 were written during Scott's campaigns for U.S.
+Our children deserve better than this decision, and they deserve leaders who will fight for them.” Posts from before 2025 were written during Scott's campaigns for U.S.
 Congress and are kept here as part of his public record.
 Author Scott Huffman Concerned Citizen, Small Business Entrepreneur, Veteran, turned Activist who ran for U.S.
-Congress Archives Categories |
+Congress Archives October 2026 September 2026 July 2026 May 2026 April 2026 October 2025 September 2025 June 2025 November 2021 September 2021 August 2021 February 2021 January 2021 November 2020 November 2019 September 2019 August 2019 July 2019 April 2019 March 2019 February 2019 May 2018 April 2016 Categories All RSS Feed × Before you go, can you donate $10?
+Donate $10 Not Now Paid for by Scott Huffman for NC House 76 Follow Scott on @TikTok at HuffmanForNC Use of Scott's military rank, titles, or photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+For inquiries, please contact [email protected] © COPYRIGHT #.
+Scott Huffman.
+ALL RIGHTS RESERVED Home Why I'm Running Issues Two Americas Contact Donate Volunteer Scott Huffman for NC

@@ -1,8 +1,26 @@
 [
-"https://bclyburnsc82.org/community",
-"https://bclyburnsc82.org/events",
-"https://bclyburnsc82.org/home",
-"https://bclyburnsc82.org/testimonials",
-"https://scstatehouse.gov/legislation.php",
-"https://scstatehouse.gov/member.php?code=0363636320"
+{
+"text": "Community",
+"href": "https://www.bclyburnsc82.org/community"
+},
+{
+"text": "Events",
+"href": "https://www.bclyburnsc82.org/events"
+},
+{
+"text": "Home",
+"href": "https://www.bclyburnsc82.org/home"
+},
+{
+"text": "Testimonials",
+"href": "https://www.bclyburnsc82.org/testimonials"
+},
+{
+"text": "https://scstatehouse.gov/legislation.php",
+"href": "https://scstatehouse.gov/legislation.php"
+},
+{
+"text": "https://scstatehouse.gov/member.php?code=0363636320",
+"href": "https://scstatehouse.gov/member.php?code=0363636320"
+}
 ]

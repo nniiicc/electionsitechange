@@ -1,68 +1,450 @@
 [
-"http://facebook.com/jimmygomezca",
-"http://instagram.com/jimmygomezca",
-"http://twitter.com/jimmygomezca",
-"http://youtube.com/channel/UC3CATll2ZF0-nBwFU1db-xg",
-"https://flickr.com/photos/jimmygomezca",
-"https://jimmygomezforcongress.com/",
-"https://jimmygomezforcongress.com/bio",
-"https://jimmygomezforcongress.com/bio/photos",
-"https://jimmygomezforcongress.com/donate",
-"https://jimmygomezforcongress.com/endorsements",
-"https://jimmygomezforcongress.com/get-involved",
-"https://jimmygomezforcongress.com/issues",
-"https://jimmygomezforcongress.com/media",
-"https://jimmygomezforcongress.com/privacy-policy",
-"https://jimmygomezforcongress.com/progressive-record",
-"https://jimmygomezforcongress.com/the-latest",
-"https://jimmygomezforcongress.com/the-latest/campaign-updates",
-"https://jimmygomezforcongress.com/the-latest/in-the-news",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JG2012SwearingIn-MaryJimmy.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JG@Door_Meeno.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JGMom@Laundrymat.jpeg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JGMomDad.jpeg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JGParentUCLAGraduation.jpeg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JGSwearingInFamily2.jpeg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JGinHospital.jpeg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JIMMY053_1482x665_acf_cropped.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JIMMY074.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JIMMY090.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JimmyTargetBadge_150x150_acf_cropped.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JimmyUCLAGraduation.jpeg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-MaryJimmyEagleRock.jpeg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-WomensMarch2.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-WomensMarch3.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY-074JGMOM.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY007.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY016JGFAMILY.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY020.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY037.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY106JGFAMILY2.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/Jimmy-Gomez-2017.03-MFP_6281.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-094-2.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-100-2.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-105-2.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-172-2.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-203-2.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-216-2.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-248-2.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-249-2.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-282-2.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-286-2.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-302-2.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-314-2.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-317-2.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-318-2.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2024/01/IMG_1220-scaled.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2024/01/meeno-JIMMY_GOMEZ-2023_010-scaled.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2024/01/meeno-JIMMY_GOMEZ-2023_023-scaled.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2024/01/meeno-JIMMY_GOMEZ-2023_040-scaled.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2024/01/meeno-JIMMY_GOMEZ-2023_103-scaled.jpg",
-"https://jimmygomezforcongress.com/wp-content/uploads/2024/01/meeno-JIMMY_GOMEZ-2023_254-scaled.jpg",
-"https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=10",
-"https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=25",
-"https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=5",
-"https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=50",
-"https://secure.ngpvan.com/h8JFTbDST0uElbEuE0tixQ2",
-"https://youtu.be/7p98jPcz9Ww"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=50"
+},
+{
+"text": "213-557-1348",
+"href": "tel:213-557-1348"
+},
+{
+"text": "Bio",
+"href": "https://jimmygomezforcongress.com/bio/"
+},
+{
+"text": "Campaign Updates",
+"href": "https://jimmygomezforcongress.com/the-latest/campaign-updates/"
+},
+{
+"text": "Donate Now",
+"href": "https://jimmygomezforcongress.com/donate"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JG2012SwearingIn-MaryJimmy.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JG@Door_Meeno.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JGMom@Laundrymat.jpeg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JGMomDad.jpeg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JGParentUCLAGraduation.jpeg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JGSwearingInFamily2.jpeg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JGinHospital.jpeg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JIMMY053_1482x665_acf_cropped.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JIMMY074.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JIMMY090.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JimmyTargetBadge_150x150_acf_cropped.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JimmyUCLAGraduation.jpeg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-MaryJimmyEagleRock.jpeg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-WomensMarch2.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-WomensMarch3.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY-074JGMOM.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY007.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY016JGFAMILY.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY020.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY037.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY106JGFAMILY2.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/Jimmy-Gomez-2017.03-MFP_6281.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-094-2.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-100-2.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-105-2.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-172-2.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-203-2.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-216-2.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-248-2.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-249-2.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-282-2.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-286-2.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-302-2.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-314-2.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-317-2.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-318-2.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2024/01/IMG_1220-scaled.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2024/01/meeno-JIMMY_GOMEZ-2023_010-scaled.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2024/01/meeno-JIMMY_GOMEZ-2023_023-scaled.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2024/01/meeno-JIMMY_GOMEZ-2023_040-scaled.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2024/01/meeno-JIMMY_GOMEZ-2023_103-scaled.jpg"
+},
+{
+"text": "Download",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2024/01/meeno-JIMMY_GOMEZ-2023_254-scaled.jpg"
+},
+{
+"text": "Get Involved",
+"href": "https://jimmygomezforcongress.com/get-involved"
+},
+{
+"text": "Get Updates",
+"href": "https://secure.ngpvan.com/h8JFTbDST0uElbEuE0tixQ2"
+},
+{
+"text": "In the News",
+"href": "https://jimmygomezforcongress.com/the-latest/in-the-news/"
+},
+{
+"text": "Media",
+"href": "https://jimmygomezforcongress.com/media"
+},
+{
+"text": "Meet Jimmy",
+"href": "https://jimmygomezforcongress.com/bio/"
+},
+{
+"text": "More B-Roll on YouTube",
+"href": "https://youtu.be/7p98jPcz9Ww"
+},
+{
+"text": "More Photos on FLICKR",
+"href": "https://www.flickr.com/photos/jimmygomezca/"
+},
+{
+"text": "On The Issues",
+"href": "https://jimmygomezforcongress.com/issues/"
+},
+{
+"text": "Photos",
+"href": "https://jimmygomezforcongress.com/bio/photos/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jimmygomezforcongress.com/privacy-policy"
+},
+{
+"text": "Progressive Record",
+"href": "https://jimmygomezforcongress.com/progressive-record/"
+},
+{
+"text": "Supporters",
+"href": "https://jimmygomezforcongress.com/endorsements/"
+},
+{
+"text": "The Latest",
+"href": "https://jimmygomezforcongress.com/the-latest/"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JG2012SwearingIn-MaryJimmy.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JG@Door_Meeno.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JGMom@Laundrymat.jpeg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JGMomDad.jpeg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JGParentUCLAGraduation.jpeg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JGSwearingInFamily2.jpeg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JGinHospital.jpeg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JIMMY053_1482x665_acf_cropped.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JIMMY074.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JIMMY090.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JimmyTargetBadge_150x150_acf_cropped.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-JimmyUCLAGraduation.jpeg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-MaryJimmyEagleRock.jpeg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-WomensMarch2.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/1500-WomensMarch3.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY-074JGMOM.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY007.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY016JGFAMILY.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY020.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY037.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/JIMMY106JGFAMILY2.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/Jimmy-Gomez-2017.03-MFP_6281.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-094-2.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-100-2.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-105-2.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-172-2.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-203-2.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-216-2.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-248-2.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-249-2.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-282-2.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-286-2.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-302-2.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-314-2.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-317-2.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2017/02/compressed-meeno-Jimmy-Gomez-2017.02-318-2.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2024/01/IMG_1220-scaled.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2024/01/meeno-JIMMY_GOMEZ-2023_010-scaled.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2024/01/meeno-JIMMY_GOMEZ-2023_023-scaled.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2024/01/meeno-JIMMY_GOMEZ-2023_040-scaled.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2024/01/meeno-JIMMY_GOMEZ-2023_103-scaled.jpg"
+},
+{
+"text": "View Image",
+"href": "https://jimmygomezforcongress.com/wp-content/uploads/2024/01/meeno-JIMMY_GOMEZ-2023_254-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://jimmygomezforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/jimmygomezca"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/jimmygomezca"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/jimmygomezca"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/channel/UC3CATll2ZF0-nBwFU1db-xg"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=Photos+-+Jimmy+Gomez+for+Congress&body=https%3A%2F%2Fjimmygomezforcongress.com%2Fbio%2Fphotos%2F"
+},
+{
+"text": "info@jimmygomezforcongress.com",
+"href": "mailto:info@jimmygomezforcongress.com"
+}
 ]

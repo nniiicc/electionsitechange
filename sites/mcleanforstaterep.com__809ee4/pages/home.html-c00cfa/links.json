@@ -1,7 +1,30 @@
 [
-"https://mcleanforstaterep.com/about-1.html",
-"https://mcleanforstaterep.com/contact-us.html",
-"https://mcleanforstaterep.com/home.html",
-"https://mcleanforstaterep.com/mark-s-message.html",
-"https://secure.anedot.com/mark-mclean-for-state-rep/donate"
+{
+"text": "About",
+"href": "https://www.mcleanforstaterep.com/about-1.html"
+},
+{
+"text": "Contact Us",
+"href": "https://www.mcleanforstaterep.com/contact-us.html"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/mark-mclean-for-state-rep/donate"
+},
+{
+"text": "Donate!",
+"href": "https://secure.anedot.com/mark-mclean-for-state-rep/donate"
+},
+{
+"text": "Home",
+"href": "https://www.mcleanforstaterep.com/home.html"
+},
+{
+"text": "Mark's Message",
+"href": "https://www.mcleanforstaterep.com/mark-s-message.html"
+},
+{
+"text": "[no text]",
+"href": "https://secure.anedot.com/mark-mclean-for-state-rep/donate"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.joelazumah.com/vote",
- "paid_for_by": null,
+ "fingerprint": "e9fb3d2a91543ba988007b21c85dfcab342a3182",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

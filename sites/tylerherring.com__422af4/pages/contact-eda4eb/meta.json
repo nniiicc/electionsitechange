@@ -1,7 +1,11 @@
 {
  "description": "Get Involved Want to help Tyler win? Donate",
  "final_url": "https://tylerherring.com/contact/",
+ "fingerprint": "a82e0c4e275bec130d45983066b6b8b89b3bab48",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Tyler Herring 2026",
- "title": "Contact \u2013 Tyler Herring",
- "years_mentioned": []
+ "title": "Contact – Tyler Herring",
+ "years_mentioned": [
+  "2026"
+ ]
 }

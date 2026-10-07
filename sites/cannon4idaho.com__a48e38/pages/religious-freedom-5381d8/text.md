@@ -1,6 +1,5 @@
-The United States Constitution, First Amendment, declares that, “Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof….”
-Section 4 of the Constitution of the State of Idaho guarantees religious liberty: “The exercise and enjoyment of religious faith and worship shall forever be guaranteed; and no person shall be denied any civil or political right, privilege, or capacity on account of his religious opinions….”
-Idaho Code Section 73-402 deems free exercise of religion to be a “fundamental right” which can be burdened by government only via the “least restrictive means” of furthering of a “compelling governmental interest”.
+Skip to content Welcome.
+Cannon for Idaho House Seat 30A Menu Home Common Sense Conservatism Contact Us Religious Freedom The United States Constitution, First Amendment, declares that, “Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof….” Section 4 of the Constitution of the State of Idaho guarantees religious liberty: “The exercise and enjoyment of religious faith and worship shall forever be guaranteed; and no person shall be denied any civil or political right, privilege, or capacity on account of his religious opinions….” Idaho Code Section 73-402 deems free exercise of religion to be a “fundamental right” which can be burdened by government only via the “least restrictive means” of furthering of a “compelling governmental interest”.
 No right–including freedom of religion–is absolute.
 The “interesting” scenarios involve situations where one “guaranteed right” conflicts with another.
 So, on a national (and, to some extent, on a state) level, we have seen people over the last several years lose jobs because of their religious beliefs (or because of their expression of their religious beliefs).
@@ -13,3 +12,4 @@ Religious liberty was one of the causes for which the Revolutionary War was foug
 It was one of the pillars upon which our country was created.
 It is just as important–just as fundamental–now as it was then!
 As a member of the Idaho House of Representatives, I will zealously and vigorously defend religious liberty!
+Paid for by Cannon 4 Idaho - David Cannon, Treasurer Facebook Proudly powered by WordPress | Theme: Dyad by WordPress.com .

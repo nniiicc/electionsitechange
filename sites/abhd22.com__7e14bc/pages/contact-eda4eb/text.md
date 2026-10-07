@@ -1,3 +1,10 @@
-Contact Andrew I would love to hear from you.
+0 Skip to Content Get to Know Andrew Priorities Affordability & the Economy Protecting Private Property Rights Legacy Industries Public Lands Access to Healthcare Wildlife and Natural Resources Newsletters Reelection Announcement 2026 Legislative Session Recap Letter 2026 Legislative Session Week Three 2026 Legislative Session Week Two 2026 Legislative Session Week One Public Lands Healthcare Property Taxes Contact Donate Open Menu Close Menu Get to Know Andrew Priorities Affordability & the Economy Protecting Private Property Rights Legacy Industries Public Lands Access to Healthcare Wildlife and Natural Resources Newsletters Reelection Announcement 2026 Legislative Session Recap Letter 2026 Legislative Session Week Three 2026 Legislative Session Week Two 2026 Legislative Session Week One Public Lands Healthcare Property Taxes Contact Donate Open Menu Close Menu Get to Know Andrew Folder: Priorities Back Affordability & the Economy Protecting Private Property Rights Legacy Industries Public Lands Access to Healthcare Wildlife and Natural Resources Folder: Newsletters Back Reelection Announcement 2026 Legislative Session Recap Letter 2026 Legislative Session Week Three 2026 Legislative Session Week Two 2026 Legislative Session Week One Public Lands Healthcare Property Taxes Contact Donate Contact Andrew I would love to hear from you.
 Your voice matters!
-Please enter your contact information below to contact me, or to volunteer on my campaign.
+Please enter your contact information below to contact me, or to volunteer on my campaign. ■ Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Campaign Email Subscription Subscribe to Andrew’s campaign emails to learn more about him and upcoming events.
+Email Address Sign Up Thank you!
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Campaign Email Subscription Subscribe to Andrew’s campaign emails to learn more about him and upcoming events.
+Email Address Sign Up Thank you! [ NAVIGATION ] Home Issues Get to know Andrew Newsletters Contact Paid for by AB for HD22

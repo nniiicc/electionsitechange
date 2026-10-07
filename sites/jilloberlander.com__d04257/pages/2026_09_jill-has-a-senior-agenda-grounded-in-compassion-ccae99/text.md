@@ -1,5 +1,4 @@
-As published in Greenwich Sentinel
-I met Jill Oberlander many years ago.
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Jill Has A Senior Agenda Grounded in Compassion Letter to the Editor • September 26, 2026 As published in Greenwich Sentinel I met Jill Oberlander many years ago.
 Early on, I learned that one of her great strengths, among the many she has, is her compassion.
 Simply put, Jill cares.
 The ethic of caring came to Jill early in life.
@@ -13,5 +12,9 @@ When nursing-home care becomes necessary, Jill will demand clarity on safety, st
 And importantly, she will push to make it easier for families to understand and apply for available programs.
 Older residents deserve security, independence and dignity.
 Jill has the experience, judgment and values to turn these goals into responsible, compassionate public policy.
-Yours truly,
-Lucy Krasnor
+Yours truly, Lucy Krasnor ← They have our backs.
+We should have theirs.
+We need a strong voice for reproductive rights → Upcoming Events Sep 28 Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Daily neighborhood door knocking Sep 28 Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Weekday phone bank: every weekday 4-6 pm View Calendar More posts We need a strong voice for reproductive rights Jill Has A Senior Agenda Grounded in Compassion They have our backs.
+We should have theirs.
+A little more about me A common-sense approach is why Jill Oberlander has earned my vote for State Senator CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+Approved by Jill Oberlander.

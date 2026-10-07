@@ -1,18 +1,82 @@
 [
-"https://bvbor.org/",
-"https://facebook.com/profile.php?id=61580913577770",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260514T180000%2F20260514T210000&text=Candidate+Forum&details=Bitterroot+Board+of+Realtors+Candidate+ForumOpen+to+the+public.%26nbsp%3B%26nbsp%3B&location=Elks+Lodge%2C+Hamilton%2C+MT%2C+59840%2C+United+States&trp=false&ctz=America%2FBoise&sprop=website%3Ahttps%3A%2F%2Frino-crat.com",
-"https://maps.google.com/maps?f=q&hl=en&q=Hamilton+MT+59840+United+States",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-05-14T18%3A00%3A00-06%3A00&enddt=2026-05-14T21%3A00%3A00-06%3A00&location=Elks+Lodge%2C+Hamilton%2C+MT%2C+59840%2C+United+States&subject=Candidate+Forum&body=Bitterroot+Board+of+Realtors+Candidate+ForumOpen+to+the+public.%26nbsp%3B%26nbsp%3B",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-05-14T18%3A00%3A00-06%3A00&enddt=2026-05-14T21%3A00%3A00-06%3A00&location=Elks+Lodge%2C+Hamilton%2C+MT%2C+59840%2C+United+States&subject=Candidate+Forum&body=Bitterroot+Board+of+Realtors+Candidate+ForumOpen+to+the+public.%26nbsp%3B%26nbsp%3B",
-"https://rino-crat.com/",
-"https://rino-crat.com/articles",
-"https://rino-crat.com/calendar-of-events",
-"https://rino-crat.com/contact",
-"https://rino-crat.com/donate",
-"https://rino-crat.com/event/farmers-union-candidate-meeting",
-"https://rino-crat.com/events",
-"https://rino-crat.com/news",
-"https://rino-crat.com/privacy-policy",
-"https://rino-crat.com/volunteer"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=Hamilton+MT+59840+United+States"
+},
+{
+"text": "Articles",
+"href": "https://rino-crat.com/articles/"
+},
+{
+"text": "Contact",
+"href": "https://rino-crat.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://rino-crat.com/donate/"
+},
+{
+"text": "Donate Now",
+"href": "https://rino-crat.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://rino-crat.com/calendar-of-events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61580913577770"
+},
+{
+"text": "Get Involved",
+"href": "https://rino-crat.com/volunteer/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260514T180000%2F20260514T210000&text=Candidate+Forum&details=Bitterroot+Board+of+Realtors+Candidate+ForumOpen+to+the+public.%26nbsp%3B%26nbsp%3B&location=Elks+Lodge%2C+Hamilton%2C+MT%2C+59840%2C+United+States&trp=false&ctz=America%2FBoise&sprop=website%3Ahttps%3A%2F%2Frino-crat.com"
+},
+{
+"text": "Home",
+"href": "https://rino-crat.com/"
+},
+{
+"text": "News",
+"href": "https://rino-crat.com/news/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T18%3A00%3A00-06%3A00&enddt=%23T21%3A00%3A00-06%3A00&location=Elks+Lodge%2C+Hamilton%2C+MT%2C+59840%2C+United+States&subject=Candidate+Forum&body=Bitterroot+Board+of+Realtors+Candidate+ForumOpen+to+the+public.%26nbsp%3B%26nbsp%3B"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T18%3A00%3A00-06%3A00&enddt=%23T21%3A00%3A00-06%3A00&location=Elks+Lodge%2C+Hamilton%2C+MT%2C+59840%2C+United+States&subject=Candidate+Forum&body=Bitterroot+Board+of+Realtors+Candidate+ForumOpen+to+the+public.%26nbsp%3B%26nbsp%3B"
+},
+{
+"text": "Read Our Privacy Policy",
+"href": "https://rino-crat.com/privacy-policy/"
+},
+{
+"text": "View Organizer Website",
+"href": "https://bvbor.org"
+},
+{
+"text": "Volunteer",
+"href": "https://rino-crat.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://rino-crat.com"
+},
+{
+"text": "iCalendar",
+"href": "webcal://rino-crat.com/event/candidate-forum/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://rino-crat.com/events/"
+},
+{
+"text": "« Farmers Union Candidate Meeting",
+"href": "https://rino-crat.com/event/farmers-union-candidate-meeting/"
+}
 ]

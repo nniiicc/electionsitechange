@@ -1,9 +1,4 @@
-About
-Reid Beaman, Candidate for SC House District 87
-Skip navigation menu
-About
-Reid Beaman, Candidate for SC House District 87
-I'm Reid Beaman and I am running for the South Carolina House of Representatives District 87 seat in Lexington in the 2026 General Election.
+Skip navigation menu About SC House District 87 Map Events & Take Action Issues News Donate About Reid Beaman, Candidate for SC House District 87 About SC House District 87 Map Events & Take Action Issues News Donate About Reid Beaman, Candidate for SC House District 87 I'm Reid Beaman and I am running for the South Carolina House of Representatives District 87 seat in Lexington in the 2026 General Election.
 I don’t really want to sound like the same old state house politician because I’m not one of them.
 Truthfully, I’m just a simple southern comic book artist with the hope to make life better for everyone in the state of South Carolina.
 My twin brother and I were born in a small town called Tarboro, which is located in Edgecombe County, North Carolina.
@@ -44,10 +39,10 @@ This has to change!
 If there's a child in Lexington who can't read, it matters to me that they get the help they need, even when it's not my child.
 If there's a senior in South Carolina who can't afford their medication or food or heating and air because of increasing costs, that matters to me, even when it's not my grandparent.
 If there are Hispanic American families being rounded up by ICE, without benefit of an attorney or due process, that threatens my civil liberties and my right to a fair trial afforded me by the Constitution.
-And it affects yours.
+And it affects yours .
 That scares the daylights out of me.
 I believe that we are all one people connected by the love of humanity and that we need to do the right thing by one another.
-We need to love our neighbor.
+We need to love our neighbor .
 Most people don’t expect politicians to solve all their problems, but we should be able to expect them to represent our interests, as they swore to do.
 When people know they are being looked after, that their representative actually cares about them and their needs, and that their children have a decent shot at a better life, then maybe they can sleep a little better at night.
 In America, we should be able to tuck our children in at night and know that they are well fed, warmly clothed, and safe from undue harm.
@@ -57,11 +52,4 @@ One of God's greatest gifts to us is that there are better days ahead.
 We as Americans believe in that statement so strongly that in 2021, DC Comics updated Superman’s classic motto from “Truth, Justice, and the American way” to “Truth, Justice, and a Better Tomorrow.” I believe that we are all standing at the crossroads of history here in South Carolina.
 I believe that we can make a better tomorrow for ALL the citizens of this state, regardless of political affiliation, and that maybe, just maybe, the real Christian value of “Love thy neighbor” can flourish in the state house.
 Thank you and may God bless you all.
-Our priorities
-Fighting for Our Community
-These are some of the top priorities Reid's campaign is focused on.
-Lowering Tax Burden on Hardworking Families
-Reduce Medication Costs and Expand Healthcare Access
-Supporting Small Businesses and Protecting Workers’ Rights
-Developing a Common Sense Approach to Improving Our Infrastructure
-Protecting Reproductive Rights for Families
+Lowering Tax Burden on Hardworking Families Reduce Medication Costs and Expand Healthcare Access Supporting Small Businesses and Protecting Workers’ Rights Developing a Common Sense Approach to Improving Our Infrastructure Protecting Reproductive Rights for Families Contact Reach Reid at votesforbeaman@gmail.com Powered by RUN! website builder Paid for by Votes for Beaman You need to enable JavaScript to run this app.

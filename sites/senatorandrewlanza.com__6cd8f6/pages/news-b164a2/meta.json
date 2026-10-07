@@ -1,7 +1,11 @@
 {
  "description": "Updates from Senator Andrew Lanza",
  "final_url": "https://www.senatorandrewlanza.com/news",
- "paid_for_by": null,
+ "fingerprint": "a56b41a73c0608b4ec65c3ec92e295d6e58f9231",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | Andrew Lanza",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022"
+ ]
 }

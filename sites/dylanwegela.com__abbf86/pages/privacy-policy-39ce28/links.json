@@ -1,10 +1,38 @@
 [
-"http://dylanwegela.com/",
-"https://dylanwegela.com/",
-"https://dylanwegela.com/cart",
-"https://dylanwegela.com/endorsements",
-"https://dylanwegela.com/get-involved",
-"https://dylanwegela.com/priorities",
-"https://dylanwegela.com/privacy-policy",
-"https://secure.actblue.com/donate/dw-website"
+{
+"text": "0",
+"href": "https://www.dylanwegela.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dw-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.dylanwegela.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.dylanwegela.com/get-involved"
+},
+{
+"text": "Priorities",
+"href": "https://www.dylanwegela.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.dylanwegela.com/privacy-policy"
+},
+{
+"text": "[image: Dylan Wegela for State Representative]",
+"href": "https://www.dylanwegela.com/"
+},
+{
+"text": "dylanwegela.com",
+"href": "http://dylanwegela.com"
+},
+{
+"text": "votewegela@gmail.com",
+"href": "mailto:votewegela@gmail.com"
+}
 ]

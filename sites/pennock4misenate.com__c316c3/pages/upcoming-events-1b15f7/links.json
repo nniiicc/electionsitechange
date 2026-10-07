@@ -1,79 +1,450 @@
 [
-"http://facebook.com/pennock4misenate",
-"http://google.com/calendar/event?action=TEMPLATE&text=Barry+County+Chamber+and+Economic+Development+Alliance+Forum&dates=20260615T173000Z%2F20260615T200000Z&location=520+West+South+Street%2C+Hastings%2C+Michigan%2C+49058%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Barry+County+Coffee+Hour+-+Delton&dates=20260321T140000Z%2F20260321T160000Z&location=117+S+M+43+Hwy%2C+Delton%2C+MI%2C+USA",
-"http://google.com/calendar/event?action=TEMPLATE&text=Battle+Creek+Coffee+Hour+with+Jim+Haadsma&dates=20260307T150000Z%2F20260307T163000Z&location=341+North+20th+Street%2C+Springfield%2C+MI%2C+49037%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Battle+Creek+Juneteenth+Celebration&dates=20260620T140000Z%2F20260620T210000Z&location=320+North+Washington+Avenue%2C+Battle+Creek%2C+Michigan%2C+49037%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Battle+Creek+Pride+Festival&dates=20260718T150000Z%2F20260719T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Battle+Creek+Pride+Parade&dates=20260717T223000Z%2F20260718T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Calhoun+County+Coffee+Hour+-+Battle+Creek&dates=20260321T173000Z%2F20260321T190000Z&location=1101+West+Columbia+Avenue%2C+Battle+Creek%2C+MI%2C+49015%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidate+Meet+and+Greet&dates=20260509T170000Z%2F20260509T200000Z&location=64+West+Michigan+Avenue%2C+Battle+Creek%2C+MI%2C+49017%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Kalamazoo+County+Democratic+Party+Monthly+Meeting&dates=20260617T220000Z%2F20260618T000000Z&location=241+East+Kalamazoo+Avenue%2C+Kalamazoo%2C+Michigan%2C+49007%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Kent+County+Coffee+Hour+-+Caledonia&dates=20260228T160000Z%2F20260228T180000Z&location=6426+100th+Street+Southeast%2C+Caledonia%2C+MI%2C+49316%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Kent+County+Democratic+Party+Social+Hour&dates=20260408T220000Z%2F20260408T230000Z&location=301+Fuller+Avenue+Northeast%2C+Grand+Rapids%2C+MI%2C+49503%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Lowell+Pride&dates=20260606T143000Z%2F20260606T210000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Marshall+Pride&dates=20260613T160000Z%2F20260613T230000Z&location=603+Homer+Road%2C+Marshall%2C+Michigan%2C+49068%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Parent+Choice+Drag+Story+Hour+Fundraiser&dates=20260425T160000Z%2F20260425T190000Z&location=11635+Fulton+Street+East%2C+Lowell%2C+MI%2C+49331%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Political+Trivia+Night&dates=20260926T213000Z%2F20260926T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=We+Care+Lowell%3A+Education+Solutions+in+MI&dates=20260415T223000Z%2F20260416T013000Z&location=865+Lincoln+Lake+Road+Northeast%2C+Lowell%2C+MI%2C+49331%2C+United+States",
-"http://instagram.com/pennock4misenate",
-"http://maps.google.com/?q=1101+West+Columbia+Avenue+Battle+Creek%2C+MI%2C+49015+United+States",
-"http://maps.google.com/?q=11635+Fulton+Street+East+Lowell%2C+MI%2C+49331+United+States",
-"http://maps.google.com/?q=117+S+M+43+Hwy+Delton%2C+MI+USA",
-"http://maps.google.com/?q=241+East+Kalamazoo+Avenue+Kalamazoo%2C+Michigan%2C+49007+United+States",
-"http://maps.google.com/?q=301+Fuller+Avenue+Northeast+Grand+Rapids%2C+MI%2C+49503+United+States",
-"http://maps.google.com/?q=320+North+Washington+Avenue+Battle+Creek%2C+Michigan%2C+49037+United+States",
-"http://maps.google.com/?q=341+North+20th+Street+Springfield%2C+MI%2C+49037+United+States",
-"http://maps.google.com/?q=520+West+South+Street+Hastings%2C+Michigan%2C+49058+United+States",
-"http://maps.google.com/?q=603+Homer+Road+Marshall%2C+Michigan%2C+49068+United+States",
-"http://maps.google.com/?q=64+West+Michigan+Avenue+Battle+Creek%2C+MI%2C+49017+United+States",
-"http://maps.google.com/?q=6426+100th+Street+Southeast+Caledonia%2C+MI%2C+49316+United+States",
-"http://maps.google.com/?q=865+Lincoln+Lake+Road+Northeast+Lowell%2C+MI%2C+49331+United+States",
-"http://maps.google.com/?q=Downtown+Battle+Creek",
-"http://maps.google.com/?q=Leila+Arboretum",
-"http://maps.google.com/?q=Lowell+Riverwalk",
-"https://forms.gle/eZSBGScfHpwJ6yTP9",
-"https://pennock4misenate.bsky.social/",
-"https://pennock4misenate.com/",
-"https://pennock4misenate.com/about",
-"https://pennock4misenate.com/cart",
-"https://pennock4misenate.com/contact",
-"https://pennock4misenate.com/issues",
-"https://pennock4misenate.com/privacy-policy",
-"https://pennock4misenate.com/upcoming-events",
-"https://pennock4misenate.com/upcoming-events/75q0mfhmbfkieo0tcv3omwk0xudckw",
-"https://pennock4misenate.com/upcoming-events/75q0mfhmbfkieo0tcv3omwk0xudckw?format=ical",
-"https://pennock4misenate.com/upcoming-events/barry-county-chamber-and-economic-development-alliance-forum",
-"https://pennock4misenate.com/upcoming-events/barry-county-chamber-and-economic-development-alliance-forum?format=ical",
-"https://pennock4misenate.com/upcoming-events/barry-county-coffee-hour-delton",
-"https://pennock4misenate.com/upcoming-events/barry-county-coffee-hour-delton?format=ical",
-"https://pennock4misenate.com/upcoming-events/battle-creek-juneteenth-celebration",
-"https://pennock4misenate.com/upcoming-events/battle-creek-juneteenth-celebration?format=ical",
-"https://pennock4misenate.com/upcoming-events/battle-creek-pride-festival",
-"https://pennock4misenate.com/upcoming-events/battle-creek-pride-festival?format=ical",
-"https://pennock4misenate.com/upcoming-events/battle-creek-pride-parade",
-"https://pennock4misenate.com/upcoming-events/battle-creek-pride-parade?format=ical",
-"https://pennock4misenate.com/upcoming-events/calhoun-county-coffee-hour-battle-creek",
-"https://pennock4misenate.com/upcoming-events/calhoun-county-coffee-hour-battle-creek?format=ical",
-"https://pennock4misenate.com/upcoming-events/candidate-meet-and-brew",
-"https://pennock4misenate.com/upcoming-events/candidate-meet-and-brew?format=ical",
-"https://pennock4misenate.com/upcoming-events/kalamazoo-county-democratic-party-monthly-meeting-1",
-"https://pennock4misenate.com/upcoming-events/kalamazoo-county-democratic-party-monthly-meeting-1?format=ical",
-"https://pennock4misenate.com/upcoming-events/kent-county-coffee-hour",
-"https://pennock4misenate.com/upcoming-events/kent-county-coffee-hour?format=ical",
-"https://pennock4misenate.com/upcoming-events/kent-county-democratic-party-social-hour",
-"https://pennock4misenate.com/upcoming-events/kent-county-democratic-party-social-hour?format=ical",
-"https://pennock4misenate.com/upcoming-events/lowell-pride",
-"https://pennock4misenate.com/upcoming-events/lowell-pride?format=ical",
-"https://pennock4misenate.com/upcoming-events/marshall-pride",
-"https://pennock4misenate.com/upcoming-events/marshall-pride?format=ical",
-"https://pennock4misenate.com/upcoming-events/parent-choice-drag-story-hour-fundraiser",
-"https://pennock4misenate.com/upcoming-events/parent-choice-drag-story-hour-fundraiser?format=ical",
-"https://pennock4misenate.com/upcoming-events/we-care-lowell-education-solutions-in-mi",
-"https://pennock4misenate.com/upcoming-events/we-care-lowell-education-solutions-in-mi?format=ical",
-"https://pennock4misenate.com/upcoming-events/y10enddlqb510mp1cygg257flmdv7q",
-"https://pennock4misenate.com/upcoming-events/y10enddlqb510mp1cygg257flmdv7q?format=ical",
-"https://pennock4misenate.com/wpp-in-action-anthonys-supported-campaigns",
-"https://secure.actblue.com/donate/dragstoryhour",
-"https://secure.actblue.com/donate/pennock4misenate"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1101+west+columbia+avenue+battle+creek%2C+mi%2C+49015+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=11635+fulton+street+east+lowell%2C+mi%2C+49331+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=117+s+m+43+hwy+delton%2C+mi+usa"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=241+east+kalamazoo+avenue+kalamazoo%2C+michigan%2C+49007+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=301+fuller+avenue+northeast+grand+rapids%2C+mi%2C+49503+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=320+north+washington+avenue+battle+creek%2C+michigan%2C+49037+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=341+north+20th+street+springfield%2C+mi%2C+49037+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=520+west+south+street+hastings%2C+michigan%2C+49058+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=603+homer+road+marshall%2C+michigan%2C+49068+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=64+west+michigan+avenue+battle+creek%2C+mi%2C+49017+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=6426+100th+street+southeast+caledonia%2C+mi%2C+49316+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=865+lincoln+lake+road+northeast+lowell%2C+mi%2C+49331+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=downtown+battle+creek"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=leila+arboretum"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=lowell+riverwalk"
+},
+{
+"text": "0",
+"href": "https://www.pennock4misenate.com/cart"
+},
+{
+"text": "About Anthony",
+"href": "https://www.pennock4misenate.com/about"
+},
+{
+"text": "Aligned Priorities",
+"href": "https://www.pennock4misenate.com/wpp-in-action-anthonys-supported-campaigns"
+},
+{
+"text": "Back",
+"href": "https://www.pennock4misenate.com/"
+},
+{
+"text": "Barry County Chamber and Economic Development Alliance Forum",
+"href": "https://www.pennock4misenate.com/upcoming-events/barry-county-chamber-and-economic-development-alliance-forum"
+},
+{
+"text": "Barry County Coffee Hour - Delton",
+"href": "https://www.pennock4misenate.com/upcoming-events/barry-county-coffee-hour-delton"
+},
+{
+"text": "Battle Creek Coffee Hour with Jim Haadsma",
+"href": "https://www.pennock4misenate.com/upcoming-events/y10enddlqb510mp1cygg257flmdv7q"
+},
+{
+"text": "Battle Creek Juneteenth Celebration",
+"href": "https://www.pennock4misenate.com/upcoming-events/battle-creek-juneteenth-celebration"
+},
+{
+"text": "Battle Creek Pride Festival",
+"href": "https://www.pennock4misenate.com/upcoming-events/battle-creek-pride-festival"
+},
+{
+"text": "Battle Creek Pride Parade",
+"href": "https://www.pennock4misenate.com/upcoming-events/battle-creek-pride-parade"
+},
+{
+"text": "BlueSky",
+"href": "https://pennock4misenate.bsky.social"
+},
+{
+"text": "Calhoun County Coffee Hour - Battle Creek",
+"href": "https://www.pennock4misenate.com/upcoming-events/calhoun-county-coffee-hour-battle-creek"
+},
+{
+"text": "Candidate Meet and Greet",
+"href": "https://www.pennock4misenate.com/upcoming-events/candidate-meet-and-brew"
+},
+{
+"text": "Contact Us",
+"href": "https://www.pennock4misenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pennock4misenate"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Barry+County+Chamber+and+Economic+Development+Alliance+Forum&dates=20260615T173000Z%2F20260615T200000Z&location=520+West+South+Street%2C+Hastings%2C+Michigan%2C+49058%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Barry+County+Coffee+Hour+-+Delton&dates=20260321T140000Z%2F20260321T160000Z&location=117+S+M+43+Hwy%2C+Delton%2C+MI%2C+USA"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Battle+Creek+Coffee+Hour+with+Jim+Haadsma&dates=20260307T150000Z%2F20260307T163000Z&location=341+North+20th+Street%2C+Springfield%2C+MI%2C+49037%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Battle+Creek+Juneteenth+Celebration&dates=20260620T140000Z%2F20260620T210000Z&location=320+North+Washington+Avenue%2C+Battle+Creek%2C+Michigan%2C+49037%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Battle+Creek+Pride+Festival&dates=20260718T150000Z%2F20260719T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Battle+Creek+Pride+Parade&dates=20260717T223000Z%2F20260718T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Calhoun+County+Coffee+Hour+-+Battle+Creek&dates=20260321T173000Z%2F20260321T190000Z&location=1101+West+Columbia+Avenue%2C+Battle+Creek%2C+MI%2C+49015%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidate+Meet+and+Greet&dates=20260509T170000Z%2F20260509T200000Z&location=64+West+Michigan+Avenue%2C+Battle+Creek%2C+MI%2C+49017%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Kalamazoo+County+Democratic+Party+Monthly+Meeting&dates=20260617T220000Z%2F20260618T000000Z&location=241+East+Kalamazoo+Avenue%2C+Kalamazoo%2C+Michigan%2C+49007%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Kent+County+Coffee+Hour+-+Caledonia&dates=20260228T160000Z%2F20260228T180000Z&location=6426+100th+Street+Southeast%2C+Caledonia%2C+MI%2C+49316%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Kent+County+Democratic+Party+Social+Hour&dates=20260408T220000Z%2F20260408T230000Z&location=301+Fuller+Avenue+Northeast%2C+Grand+Rapids%2C+MI%2C+49503%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Lowell+Pride&dates=20260606T143000Z%2F20260606T210000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Marshall+Pride&dates=20260613T160000Z%2F20260613T230000Z&location=603+Homer+Road%2C+Marshall%2C+Michigan%2C+49068%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Parent+Choice+Drag+Story+Hour+Fundraiser&dates=20260425T160000Z%2F20260425T190000Z&location=11635+Fulton+Street+East%2C+Lowell%2C+MI%2C+49331%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Political+Trivia+Night&dates=20260926T213000Z%2F20260926T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=We+Care+Lowell%3A+Education+Solutions+in+MI&dates=20260415T223000Z%2F20260416T013000Z&location=865+Lincoln+Lake+Road+Northeast%2C+Lowell%2C+MI%2C+49331%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/75q0mfhmbfkieo0tcv3omwk0xudckw?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/barry-county-chamber-and-economic-development-alliance-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/barry-county-coffee-hour-delton?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/battle-creek-juneteenth-celebration?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/battle-creek-pride-festival?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/battle-creek-pride-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/calhoun-county-coffee-hour-battle-creek?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/candidate-meet-and-brew?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/kalamazoo-county-democratic-party-monthly-meeting-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/kent-county-coffee-hour?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/kent-county-democratic-party-social-hour?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/lowell-pride?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/marshall-pride?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/parent-choice-drag-story-hour-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/we-care-lowell-education-solutions-in-mi?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/y10enddlqb510mp1cygg257flmdv7q?format=ical"
+},
+{
+"text": "Kalamazoo County Democratic Party Monthly Meeting",
+"href": "https://www.pennock4misenate.com/upcoming-events/kalamazoo-county-democratic-party-monthly-meeting-1"
+},
+{
+"text": "Kent County Coffee Hour - Caledonia",
+"href": "https://www.pennock4misenate.com/upcoming-events/kent-county-coffee-hour"
+},
+{
+"text": "Kent County Democratic Party Social Hour",
+"href": "https://www.pennock4misenate.com/upcoming-events/kent-county-democratic-party-social-hour"
+},
+{
+"text": "Lowell Pride",
+"href": "https://www.pennock4misenate.com/upcoming-events/lowell-pride"
+},
+{
+"text": "Marshall Pride",
+"href": "https://www.pennock4misenate.com/upcoming-events/marshall-pride"
+},
+{
+"text": "Parent Choice Drag Story Hour Fundraiser",
+"href": "https://www.pennock4misenate.com/upcoming-events/parent-choice-drag-story-hour-fundraiser"
+},
+{
+"text": "Political Trivia Night",
+"href": "https://www.pennock4misenate.com/upcoming-events/75q0mfhmbfkieo0tcv3omwk0xudckw"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.pennock4misenate.com/privacy-policy"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.pennock4misenate.com/upcoming-events"
+},
+{
+"text": "View Event →",
+"href": "https://www.pennock4misenate.com/upcoming-events/75q0mfhmbfkieo0tcv3omwk0xudckw"
+},
+{
+"text": "View Event →",
+"href": "https://www.pennock4misenate.com/upcoming-events/barry-county-chamber-and-economic-development-alliance-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.pennock4misenate.com/upcoming-events/barry-county-coffee-hour-delton"
+},
+{
+"text": "View Event →",
+"href": "https://www.pennock4misenate.com/upcoming-events/battle-creek-juneteenth-celebration"
+},
+{
+"text": "View Event →",
+"href": "https://www.pennock4misenate.com/upcoming-events/battle-creek-pride-festival"
+},
+{
+"text": "View Event →",
+"href": "https://www.pennock4misenate.com/upcoming-events/battle-creek-pride-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.pennock4misenate.com/upcoming-events/calhoun-county-coffee-hour-battle-creek"
+},
+{
+"text": "View Event →",
+"href": "https://www.pennock4misenate.com/upcoming-events/candidate-meet-and-brew"
+},
+{
+"text": "View Event →",
+"href": "https://www.pennock4misenate.com/upcoming-events/kalamazoo-county-democratic-party-monthly-meeting-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.pennock4misenate.com/upcoming-events/kent-county-coffee-hour"
+},
+{
+"text": "View Event →",
+"href": "https://www.pennock4misenate.com/upcoming-events/kent-county-democratic-party-social-hour"
+},
+{
+"text": "View Event →",
+"href": "https://www.pennock4misenate.com/upcoming-events/lowell-pride"
+},
+{
+"text": "View Event →",
+"href": "https://www.pennock4misenate.com/upcoming-events/marshall-pride"
+},
+{
+"text": "View Event →",
+"href": "https://www.pennock4misenate.com/upcoming-events/parent-choice-drag-story-hour-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.pennock4misenate.com/upcoming-events/we-care-lowell-education-solutions-in-mi"
+},
+{
+"text": "View Event →",
+"href": "https://www.pennock4misenate.com/upcoming-events/y10enddlqb510mp1cygg257flmdv7q"
+},
+{
+"text": "We Care Lowell: Education Solutions in MI",
+"href": "https://www.pennock4misenate.com/upcoming-events/we-care-lowell-education-solutions-in-mi"
+},
+{
+"text": "Working People's Priorities",
+"href": "https://www.pennock4misenate.com/issues"
+},
+{
+"text": "[image: Barry County Coffee Hour - Delton]",
+"href": "https://www.pennock4misenate.com/upcoming-events/barry-county-coffee-hour-delton"
+},
+{
+"text": "[image: Calhoun County Coffee Hour - Battle Creek]",
+"href": "https://www.pennock4misenate.com/upcoming-events/calhoun-county-coffee-hour-battle-creek"
+},
+{
+"text": "[image: Candidate Meet and Greet]",
+"href": "https://www.pennock4misenate.com/upcoming-events/candidate-meet-and-brew"
+},
+{
+"text": "[image: Dr. Anthony Pennock for MI Senate District 18]",
+"href": "https://www.pennock4misenate.com/"
+},
+{
+"text": "[image: Kent County Coffee Hour - Caledonia]",
+"href": "https://www.pennock4misenate.com/upcoming-events/kent-county-coffee-hour"
+},
+{
+"text": "[image: Kent County Democratic Party Social Hour]",
+"href": "https://www.pennock4misenate.com/upcoming-events/kent-county-democratic-party-social-hour"
+},
+{
+"text": "[image: Parent Choice Drag Story Hour Fundraiser]",
+"href": "https://www.pennock4misenate.com/upcoming-events/parent-choice-drag-story-hour-fundraiser"
+},
+{
+"text": "[image: Political Trivia Night]",
+"href": "https://www.pennock4misenate.com/upcoming-events/75q0mfhmbfkieo0tcv3omwk0xudckw"
+},
+{
+"text": "[image: We Care Lowell: Education Solutions in MI]",
+"href": "https://www.pennock4misenate.com/upcoming-events/we-care-lowell-education-solutions-in-mi"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/pennock4misenate"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/pennock4misenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.pennock4misenate.com/upcoming-events/barry-county-chamber-and-economic-development-alliance-forum"
+},
+{
+"text": "[no text]",
+"href": "https://www.pennock4misenate.com/upcoming-events/battle-creek-juneteenth-celebration"
+},
+{
+"text": "[no text]",
+"href": "https://www.pennock4misenate.com/upcoming-events/battle-creek-pride-festival"
+},
+{
+"text": "[no text]",
+"href": "https://www.pennock4misenate.com/upcoming-events/battle-creek-pride-parade"
+},
+{
+"text": "[no text]",
+"href": "https://www.pennock4misenate.com/upcoming-events/kalamazoo-county-democratic-party-monthly-meeting-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.pennock4misenate.com/upcoming-events/lowell-pride"
+},
+{
+"text": "[no text]",
+"href": "https://www.pennock4misenate.com/upcoming-events/marshall-pride"
+},
+{
+"text": "[no text]",
+"href": "https://www.pennock4misenate.com/upcoming-events/y10enddlqb510mp1cygg257flmdv7q"
+},
+{
+"text": "[no text]",
+"href": "mailto:pennock4misenate@gmail.com"
+},
+{
+"text": "https://forms.gle/eZSBGScfHpwJ6yTP9",
+"href": "https://forms.gle/eZSBGScfHpwJ6yTP9"
+},
+{
+"text": "https://secure.actblue.com/donate/dragstoryhour",
+"href": "https://secure.actblue.com/donate/dragstoryhour"
+},
+{
+"text": "pennock4misenate.com",
+"href": "mailto:info@pennock4misenate.com"
+}
 ]

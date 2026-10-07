@@ -1,6 +1,4 @@
-Pro-Dignity: Defending Life with Responsibility and Compassion
-Updated: Aug 12
-Recently, someone asked me point-blank where I stood on abortion.
+top of page Contact Donate NEWS & INSIGHTS PRESS RELEASE ANNOUNCEMENTS PERSONAL REFLECTIONS BEHIND THE PLATFORM EVENTS UPCOMING EVENTS INVITE JOSHUA TO YOUR EVENT ABOUT ME MY VALUES MY CIVIC BELIEF MY PLEDGE WHERE I STAND PRO-LOCAL CONTROL PRO-FREEDOM & RESPONSIBILITY PRO-INFRASTRUCTURE GROWTH PRO-2ND AMENDMENT PRO-QUALITY EDUCATION PRO-FAIR ELECTIONS AFP-AR CANDIDATE SURVEY REAL SOLUTIONS Civic Education Act Ballot Measure Rights Amendment Fair & Open Primaries Act Infrastructure Investment & Renewal Act Job Creation & Retention Tax Credit Act Parental Responsibility Act Criminal Firearm Law Enforcement Act Arkansas Firearm Safety Funding Act Health Transparency & Choice Act VOTE VOTER REGISTRATION EARLY VOTING ELECTION DAY All News & Updates Press Release Announcements Personal Reflections Behind the Platform Search Pro-Dignity: Defending Life with Responsibility and Compassion Sep 17, 2025 4 min read Updated: Aug 12 Recently, someone asked me point-blank where I stood on abortion.
 I answered honestly: I’m pro-life.
 That moment sparked a period of deep reflection, as I asked myself why I held this belief and whether I was ready to stand by it with full conviction.
 Over time, I realized that my stance is closely connected to the principles guiding my platform: true freedom and shared responsibility.
@@ -46,6 +44,17 @@ When I first said “I’m pro-life,” I thought I was merely answering a quest
 In truth, that moment marked the beginning of a journey that helped me more clearly understand what I truly stand for: being wholeheartedly pro-dignity.
 My reflection deepened my convictions and clarified that defending life is not just about opposing abortion—it is about recognizing that every human life is a gift, the starting point of every freedom we hold dear.
 In short, defending life—and living pro-dignity—is not just a moral duty; it is the foundation of freedom, responsibility, and human dignity for all.
-With respect for all Arkansans,
-Joshua Irby
-Paid for by Joshua Irby
+With respect for all Arkansans, Joshua Irby Paid for by Joshua Irby Personal Reflections “I don’t see sides—I see people.
+Neighbors.
+Fellow citizens.” Joshua Irby has taken the Principles of Service Pledge —committing to lead with integrity, unity, and a deep duty to the people, not politics.
+Contact Joshua First name * Last name * Organization (if applicable) Email * Phone (Optional) Your Message * I’m Interested In: Volunteering Hosting an Event Donating Yes, subscribe me for updates I agree to be contacted by phone, text, or email regarding campaign updates.
+Submit 501-943-5804 irbyforarkansas@gmail.com P.O.
+Box 490 Bryant, AR 72089 A Promise for Arkansas JOSHUA IRBY for Donate News & Insights Events About Me Where I Stand Vote AN INDIVIDUAL OR PAC MAY CONTRIBUTE UP TO $3,500 PER ELECTION.
+BUSINESS AND CORPORATE CONTRIBUTIONS ARE PROHIBITED.
+PLEASE MAKE CHECKS PAYABLE TO CITIZENS FOR JOSHUA IRBY Paid for by Joshua Irby "I’m not running for office to recite slogans — I’m running because I believe Arkansas deserves leadership rooted in respect, driven by resolve, and committed to renewal.
+Respect means every Arkansan, no matter where they live or who they are, is treated with dignity and heard with intention.
+Resolve means we don’t shy away from hard truths — we face them with courage and clarity.
+Renewal means we rebuild trust in our institutions and restore hope in our communities. ​ I believe in Common Ground because we’re stronger when we listen before we argue.
+I believe in Common Sense because good policy should be practical, not partisan.
+And I believe in the Common Good because public service should serve all, not just a few. ​ This isn’t just a campaign — it’s a call to come together.
+This is our moment." ​ - Joshua Irby bottom of page

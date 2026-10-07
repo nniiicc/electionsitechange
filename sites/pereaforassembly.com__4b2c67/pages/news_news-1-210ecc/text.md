@@ -1,24 +1,19 @@
-In the News
-So much is happening right now.
+Skip navigation menu Meet Annalisa Endorsements Get Involved Donate In the News So much is happening right now.
 This is a space dedicated to uplifting the voices across the Central Valley and sharing campaign progress.
-Skip navigation menu
-In the News
-So much is happening right now.
+Meet Annalisa Endorsements Get Involved Donate In the News So much is happening right now.
 This is a space dedicated to uplifting the voices across the Central Valley and sharing campaign progress.
-Rising costs lead to painful choices 📈
-Virtually everyone I know is struggling with the rising cost of living.
+PRESS RELEASE LiUNA Endorses Annalisa Perea for State Assembly PRESS RELEASE CAL FIRE Local 2881 Endorses Annalisa Perea for State Assembly PRESS RELEASE Latinas Lead CA Endorses Annalisa Perea for State Assembly PRESS RELEASE ILWU Southern California District Council Endorses Annalisa Perea for Assembly District 31 PRESS RELEASE State Assemblymember Mark Gonzalez Endorses Annalisa Perea for State Assembly PRESS RELEASE Fresno County Democratic Women’s Club Endorse Annalisa Perea for State Assembly PRESS RELEASE National Women’s Political Caucus Endorses Annalisa Perea for State Assembly PRESS RELEASE Fresno Stonewall Democrats Endorse Annalisa Perea for State Assembly PRESS RELEASE California Federation of Labor Unions Endorses Annalisa Perea for State Assembly PRESS RELEASE (UA) Local 246 Endorses Annalisa Perea for State Assembly PRESS RELEASE Senator Jesse Arreguín Endorses Annalisa Perea for State Assembly PRESS RELEASE UDW/AFSCME Local 3930 Officially Endorses Annalisa Perea for State Assembly PRESS RELEASE California’s 38,000 Professional Firefighters Back Annalisa Perea for State Assembly PRESS RELEASE CLLC Endorses Annalisa Perea for State Assembly PRESS RELEASE California Federation of Teachers Endorses Annalisa Perea for State Assembly PRESS RELEASE California YIMBY Endorses Annalisa Perea for State Assembly PRESS RELEASE Annalisa Perea Officially Endorsed for State Assembly at CADEM PRESS RELEASE Speaker Robert Rivas endorses Annalisa Perea for State Assembly PRESS RELEASE California School Employees Association Endorse Annalisa Perea for State Assembly.
+PRESS RELEASE Annalisa Perea Raises over $425,000, Holds Dominate Cash-on-hand PRESS RELEASE Assemblymember Rick Chavez Zbur Endorses Annalisa Perea for Assembly PRESS RELEASE Sheet Metal Workers Local 104 Endorses Annalisa Perea for State Assembly PRESS RELEASE Attorney General Rob Bonta Endorses Councilmember Annalisa Perea for Assembly PRESS RELEASE SEIU California Endorses Annalisa Perea for Assembly PRESS RELEASE Fresno City Employees Association Endorses Annalisa Perea for Assembly PRESS RELEASE Fresno Chamber of Commerce Endorses Annalisa Perea for State Assembly PRESS RELEASE Assemblymember Anamarie Ávila Farías Endorses Annalisa Perea for State Assembly PRESS RELEASE Councilmember Annalisa Perea Honors the Service and Sacrifice of Veterans PRESS RELEASE California Teachers Association Recommends Annalisa Perea for State Assembly PRESS RELEASE California Legislative LGBTQ Caucus Endorses Annalisa Perea for State Assembly Perea's Perspective Housing Shouldn’t Cost a Fortune 🏠 PRESS RELEASE Operating Engineers Local 3 Endorses Annalisa Perea for State Assembly PRESS RELEASE Labor Leaders Endorse Annalisa Perea for State Assembly PRESS RELEASE Sanger Mayor Pro Tem Daniel Martinez Endorses Annalisa Perea for State Assembly Perea's Perspective Rising costs lead to painful choices 📈 PRESS RELEASE Iron Workers Local 155 Endorses Annalisa Perea for State Assembly PRESS RELEASE Top Central Valley Lawmakers Endorse Councilmember Annalisa Perea for State Assembly PRESS RELEASE PORAC and Local Police Associations Endorse Annalisa Perea for State Assembly PRESS RELEASE Annalisa Perea launches Assembly campaign PRESS RELEASE Selma City Councilmember John Trujillo Endorses Annalisa Perea for State Assembly PRESS RELEASE Education Leaders Endorse Annalisa Perea for State Assembly PRESS RELEASE Fresno County Supervisors Endorse Annalisa Perea for State Assembly PRESS RELEASE Parlier City Councilmembers Endorse Annalisa Perea for State Assembly PRESS RELEASE Labor Unions Across the Central Valley Endorse Councilmember Annalisa Perea for State Assembly PRESS RELEASE Fresno Councilmember Annalisa Perea Launches Campaign for Assembly District 31 Sep 12 2025 Perea's Perspective Rising costs lead to painful choices 📈 Virtually everyone I know is struggling with the rising cost of living.
 The price of everything from gas to groceries keeps rising and people are having to make tough choices.
 Laura Wilson and her husband live in Fresno and are raising two teenage daughters.
 Laura shared a story I’ve heard far too often across our community.
-With triple-digit temperatures, her family faces a painful choice every month:
-“Do we keep the A/C off and sweat it out, or turn it on and face a utility bill we can’t afford?”
-Their story isn’t unique.
+With triple-digit temperatures, her family faces a painful choice every month: “Do we keep the A/C off and sweat it out, or turn it on and face a utility bill we can’t afford?” Their story isn’t unique.
 From Fresno to Sanger, I’ve been sitting down with families just like the Wilsons, listening to their struggles and their triumphs.
 What I hear is clear: our community is resilient, but we need leaders in Sacramento who understand what families are going through and are ready to fight for them.
 That’s why I’m running for State Assembly - to lower costs for Central Valley families while fighting any policy that will make life more expensive.
 To help families like the Wilsons, I’ve been working to connect residents with real solutions.
 I recently hosted pop-up events across our district where residents could sit down one-on-one with program representatives to get immediate help with their utility bills.
-At these events, families received personal guidance on enrolling in affordability programs, including options to wipe away past-due bill debt and sign up for ongoing cost-reduction assistance moving forward.
+At these events, families received personal guidance on enrolling in affordability programs , including options to wipe away past-due bill debt and sign up for ongoing cost-reduction assistance moving forward.
 I know the challenges families are facing because my family has lived them too.
 My grandparents came to the San Joaquin Valley to build a better life.
 My grandfather came to the U.S. from Mexico City through the Bracero Program and spent over 30 years working on the railroad, while my grandmother worked at the Selma Cannery.
@@ -26,11 +21,9 @@ They showed me that every penny counts when you are trying to raise a family.
 Their hard work and sacrifices taught me the values that guide me today: perseverance, community, and opportunity for every family.
 My work has been focussed on building safe and affordable communities here in the Central Valley.
 When I first ran for office, I was driven to deliver thriving neighborhoods for Fresno.
-I’m proud to say during my time as City Council President I worked hard to:
-But I know there’s more work to be done.
-Families like the Wilsons deserve real solutions to ease the cost of living and build a brighter future for the Valley:
-This campaign isn’t just about me, it’s about us.
+I’m proud to say during my time as City Council President I worked hard to: Secure millions in public safety funding to hire more firefighters and police officers Expand affordable housing and reduce homelessness Protect public services and increase city revenues without raising taxes But I know there’s more work to be done.
+Families like the Wilsons deserve real solutions to ease the cost of living and build a brighter future for the Valley: Lowering utility costs and protecting families during extreme weather Expanding affordable housing so everyone has a safe place to call home Creating economic opportunities so parents can save for their kids’ futures This campaign isn’t just about me, it’s about us.
 It’s about ensuring that families like the Wilsons aren’t forced to choose between comfort and survival.
 I’d be honored to have you join me in this fight for our community’s future.
 Together, we can make Sacramento work for every corner of the Valley.
-Perea's Perspective
+With gratitude, Annalisa Perea Candidate for State Assembly Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

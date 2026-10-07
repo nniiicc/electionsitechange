@@ -1,11 +1,42 @@
 [
-"https://danieldarrisoconnor.com/",
-"https://danieldarrisoconnor.com/about",
-"https://danieldarrisoconnor.com/issues",
-"https://danieldarrisoconnor.com/request-a-yard-sign",
-"https://danieldarrisoconnor.com/volunteer",
-"https://designedtorun.com/",
-"https://donate.danieldarrisoconnor.com/",
-"https://facebook.com/ddarrisoconnor",
-"https://instagram.com/ddarrisoconnor"
+{
+"text": "Donate",
+"href": "https://donate.danieldarrisoconnor.com/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.danieldarrisoconnor.com/volunteer"
+},
+{
+"text": "Meet Daniel",
+"href": "https://www.danieldarrisoconnor.com/about"
+},
+{
+"text": "Platform",
+"href": "https://www.danieldarrisoconnor.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.danieldarrisoconnor.com/request-a-yard-sign"
+},
+{
+"text": "[image: Daniel Darris-O'Connor for State Rep]",
+"href": "https://www.danieldarrisoconnor.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/ddarrisoconnor"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ddarrisoconnor"
+},
+{
+"text": "campaign@danieldarrisoconnor.com",
+"href": "mailto:campaign@danieldarrisoconnor.com"
+}
 ]

@@ -1,35 +1,142 @@
 [
-"https://advancenativepl.org/",
-"https://azaflcio.org/",
-"https://boldpac.com/",
-"https://bsky.app/profile/formerpreznez.bsky.social",
-"https://cwa7019.org/",
-"https://democratsoftheredrocks.org/",
-"https://designedtorun.com/",
-"https://facebook.com/NezForAZ",
-"https://indivisiblenaz.com/",
-"https://instagram.com/NezForAZ",
-"https://instagram.com/azcollegedems",
-"https://ironworkers75.org/en",
-"https://jewishdems.org/",
-"https://jonathannezforaz.com/",
-"https://jonathannezforaz.com/about",
-"https://jonathannezforaz.com/issues",
-"https://jonathannezforaz.com/news",
-"https://jonathannezforaz.com/privacy-policy",
-"https://jonathannezforaz.com/volunteer",
-"https://lcv.org/",
-"https://livableworld.org/",
-"https://maps.google.com/?q=Jonathan+Nez+for+Congress+%3Cbr%3E+PO+Box+1854+%3Cbr%3E+Flagstaff%2C+AZ+86002",
-"https://mobilize.us/jonathannezforcongress",
-"https://newdemactionfund.com/",
-"https://nrdcactionfund.org/",
-"https://protectvoting.org/",
-"https://scat-nsn.gov/",
-"https://secure.actblue.com/donate/nez-web",
-"https://socialsecurityworks.org/pac",
-"https://threads.net/@nezforaz",
-"https://tiktok.com/@nezforaz?_r=1&_t=ZP-97T98MiuF0Y",
-"https://wedefendthevote.org/",
-"https://x.com/NezForAZ"
+{
+"text": "About",
+"href": "https://www.jonathannezforaz.com/about"
+},
+{
+"text": "Agenda",
+"href": "https://www.jonathannezforaz.com/issues"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nez-web"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/jonathannezforcongress/"
+},
+{
+"text": "PO BOX 1854FLAGSTAFF, AZ 86002",
+"href": "https://maps.google.com/?q=Jonathan+Nez+for+Congress+%3Cbr%3E+PO+Box+1854+%3Cbr%3E+Flagstaff%2C+AZ+86002"
+},
+{
+"text": "Press",
+"href": "https://www.jonathannezforaz.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jonathannezforaz.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jonathannezforaz.com/volunteer"
+},
+{
+"text": "[image: AFL-CIO]",
+"href": "https://azaflcio.org/"
+},
+{
+"text": "[image: ANPL]",
+"href": "https://advancenativepl.org/"
+},
+{
+"text": "[image: AZ CWA]",
+"href": "https://cwa7019.org/"
+},
+{
+"text": "[image: AZ College Dems]",
+"href": "https://www.instagram.com/azcollegedems/"
+},
+{
+"text": "[image: Bold Dems]",
+"href": "https://www.boldpac.com/"
+},
+{
+"text": "[image: Council for a Liable World]",
+"href": "https://livableworld.org/"
+},
+{
+"text": "[image: Defend the Vote]",
+"href": "https://wedefendthevote.org/"
+},
+{
+"text": "[image: Dems of the Red Rocks]",
+"href": "https://democratsoftheredrocks.org/"
+},
+{
+"text": "[image: Indivisible AZ]",
+"href": "https://www.indivisiblenaz.com/"
+},
+{
+"text": "[image: Ironworkers 75]",
+"href": "https://www.ironworkers75.org/en"
+},
+{
+"text": "[image: Jewish Dems]",
+"href": "https://jewishdems.org/"
+},
+{
+"text": "[image: Jonathan Nez for Congress]",
+"href": "https://www.jonathannezforaz.com/"
+},
+{
+"text": "[image: LCV]",
+"href": "https://www.lcv.org/"
+},
+{
+"text": "[image: NRDC Action FUnd]",
+"href": "https://www.nrdcactionfund.org/"
+},
+{
+"text": "[image: New Dems]",
+"href": "https://newdemactionfund.com/"
+},
+{
+"text": "[image: SSW PAC]",
+"href": "https://socialsecurityworks.org/pac"
+},
+{
+"text": "[image: San Carlos Apache Tribe]",
+"href": "https://www.scat-nsn.gov/"
+},
+{
+"text": "[image: Voter Protection Project]",
+"href": "https://protectvoting.org/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/formerpreznez.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/NezForAZ/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/NezForAZ/"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@nezforaz"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@nezforaz?_r=1&_t=ZP-97T98MiuF0Y"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/NezForAZ"
+},
+{
+"text": "info@jonathannezforaz.com",
+"href": "mailto:info@jonathannezforaz.com"
+},
+{
+"text": "press@jonathannezforaz.com",
+"href": "mailto:press@jonathannezforaz.com"
+}
 ]

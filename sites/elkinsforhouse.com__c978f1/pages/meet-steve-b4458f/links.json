@@ -1,15 +1,70 @@
 [
-"http://facebook.com/ElkinsforHouse",
-"https://elkinsforhouse.com/",
-"https://elkinsforhouse.com/endorsements",
-"https://elkinsforhouse.com/get-involved",
-"https://elkinsforhouse.com/home",
-"https://elkinsforhouse.com/issues",
-"https://elkinsforhouse.com/legislation",
-"https://elkinsforhouse.com/meet-steve",
-"https://elkinsforhouse.com/voter-resources",
-"https://secure.actblue.com/donate/elkins-for-house",
-"https://turquoise.health/patients",
-"https://youtu.be/vueR2vHE0ag?start=595&end=889",
-"https://youtube.com/watch?v=FyCu_Vjswtc"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/elkins-for-house"
+},
+{
+"text": "Endorsements",
+"href": "https://www.elkinsforhouse.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.elkinsforhouse.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.elkinsforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.elkinsforhouse.com/issues"
+},
+{
+"text": "Meet Steve",
+"href": "https://www.elkinsforhouse.com/meet-steve"
+},
+{
+"text": "Prepared and Paid For By Elkins For House P.O. Box 398061, Edina, MN 55439.",
+"href": "https://www.elkinsforhouse.com/meet-steve"
+},
+{
+"text": "Steve's Legislation",
+"href": "https://www.elkinsforhouse.com/legislation"
+},
+{
+"text": "TurquoiseHealth.com",
+"href": "https://turquoise.health/patients"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.elkinsforhouse.com/voter-resources"
+},
+{
+"text": "[image: Elkins 2018 SM version rgb.jpg]",
+"href": "https://www.elkinsforhouse.com/home"
+},
+{
+"text": "[image: Elkins For House]",
+"href": "https://www.elkinsforhouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/watch?v=FyCu_Vjswtc"
+},
+{
+"text": "[image]",
+"href": "https://youtu.be/vueR2vHE0ag?start=595&end=889"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/ElkinsforHouse"
+},
+{
+"text": "[no text]",
+"href": "mailto:steve@elkinsforhouse.com"
+},
+{
+"text": "steve@elkinsforhouse.com",
+"href": "mailto:steve@elkinsforhouse.com"
+}
 ]

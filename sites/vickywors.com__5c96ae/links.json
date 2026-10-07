@@ -1,12 +1,46 @@
 [
-"https://secure.actblue.com/donate/vicky-wors",
-"https://vickywors.com/",
-"https://vickywors.com/about",
-"https://vickywors.com/cart",
-"https://vickywors.com/contact",
-"https://vickywors.com/important-dates",
-"https://vickywors.com/missouri-amendment-7",
-"https://vickywors.com/missouri-amendment-8",
-"https://vickywors.com/new-dropdown",
-"https://vickywors.com/new-page"
+{
+"text": "0",
+"href": "https://www.vickywors.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.vickywors.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.vickywors.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.vickywors.com/contact"
+},
+{
+"text": "Folder: On the Issues",
+"href": "https://www.vickywors.com/new-dropdown"
+},
+{
+"text": "Important Dates",
+"href": "https://www.vickywors.com/important-dates"
+},
+{
+"text": "Missouri Amendment 6",
+"href": "https://www.vickywors.com/new-page"
+},
+{
+"text": "Missouri Amendment 7",
+"href": "https://www.vickywors.com/missouri-amendment-7"
+},
+{
+"text": "Missouri Amendment 8",
+"href": "https://www.vickywors.com/missouri-amendment-8"
+},
+{
+"text": "Vicky Wors for Missouri State Senate District 26",
+"href": "https://www.vickywors.com/"
+},
+{
+"text": "donate to vicky",
+"href": "https://secure.actblue.com/donate/vicky-wors"
+}
 ]

@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://simpsonforassembly.com/category/news/",
- "paid_for_by": null,
+ "fingerprint": "0b8d12f89a6e9f38f3a40e12a61721edc79c8183",
+ "format": 3,
+ "paid_for_by": "",
  "title": "news Archives -",
  "years_mentioned": [
-  "2020"
+  "2020",
+  "2026"
  ]
 }

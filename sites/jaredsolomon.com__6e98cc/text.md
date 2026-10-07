@@ -1,2 +1,3 @@
-“I’m a proud democrat who believes that good government can do great things.” — Democrat Jared Solomon Support our campaign Can you chip in today?
-Donate now Connect with the campaign
+0 Skip to Content Meet Jared Issues Donate Open Menu Close Menu Meet Jared Issues Donate Open Menu Close Menu Meet Jared Issues Donate “I’m a proud democrat who believes that good government can do great things.” — Democrat Jared Solomon Support our campaign Can you chip in today?
+Donate now Connect with the campaign Paid for by Friends of Jared Solomon, Megan Smith — Treasurer Jared Solomon is a member of the Pennsylvania National Guard.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense. ©# Friends of Jared Solomon PO Box 7522, Philadelphia, PA 19101 Built by Blue Nation Strategies

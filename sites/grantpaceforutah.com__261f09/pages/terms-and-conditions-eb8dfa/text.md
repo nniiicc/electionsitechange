@@ -1,6 +1,4 @@
-TERMS AND CONDITIONS FOR GRANTPACEFORUTAH.COM
-LAST UPDATED: August 30, 2026
-Summary of Services: Welcome to the Friends of Grant Pace (FGP) website.
+0 Skip to Content Proven Leadership for Utah Families Home Contact Donate Open Menu Close Menu Proven Leadership for Utah Families Home Contact Donate Open Menu Close Menu Home Contact Donate TERMS AND CONDITIONS FOR GRANTPACEFORUTAH.COM LAST UPDATED: August 30, 2026 Summary of Services: Welcome to the Friends of Grant Pace (FGP) website.
 Acceptance of Terms: These terms of use apply to your use of the grantpaceforutah.com website and all associated services (including, but not limited to, e-mail/text received from FGP).
 These terms of use include our Privacy Policy, which describes how we use your personal information.
 If you browse or donate through grantpaceforutah.com, you accept these conditions.
@@ -15,15 +13,11 @@ If you do not agree to the new terms in their entirety, stop using or accessing 
 All changes to the Terms will only apply to projects commenced after the effective date of the change (i.e., the Terms that existed at the time of the project’s creation will apply).
 However, if we make a change that we deem necessary to prevent unlawful conduct or conduct that would cause us legal liability (each of which we may make immediately upon notice,) then those new terms will apply immediately to those already existing projects.
 Acceptable Use: FGP hereby grants you the right to use our website in accordance with these Terms.
-Eligible Users: You are eligible to access or use our Services only if:– You are 18 years or older (or, if you are between the ages of 13 and 17 years old, you are using the Services with the consent of or are supervised by a parent or guardian); AND
--You are complying with the campaign finance laws outlined in section 6 below as well as any additional requirements specified during the online contribution process.
+Eligible Users: You are eligible to access or use our Services only if:– You are 18 years or older (or, if you are between the ages of 13 and 17 years old, you are using the Services with the consent of or are supervised by a parent or guardian); AND -You are complying with the campaign finance laws outlined in section 6 below as well as any additional requirements specified during the online contribution process.
 Campaign Finance Laws: Political contributions to FGP are governed by campaign finance laws of the State of Utah, and FGP makes its best efforts to ensure that all contributions made on the FGP site are in accordance with these laws.
-For example:
--FGP conspicuously notifies donors that political contributions are not deductible for federal income tax purposes.
+For example: -FGP conspicuously notifies donors that political contributions are not deductible for federal income tax purposes.
 It goes without saying that FGP is not responsible for your treatment of these donations on your tax returns, and we recommend consulting your tax adviser or tax preparer if you have any questions.
-Prior to processing a contribution via credit card, FGP requires the donor to affirm that their contribution:
-(i) is being made on a credit/debit card for which the donor listed above has the legal obligation to pay, and the contribution will not be reimbursed by another;
-(ii) is not being made from a foreign entity or by an individual who is not lawfully admitted to the U.S. with permanent residence status.
+Prior to processing a contribution via credit card, FGP requires the donor to affirm that their contribution: (i) is being made on a credit/debit card for which the donor listed above has the legal obligation to pay, and the contribution will not be reimbursed by another; (ii) is not being made from a foreign entity or by an individual who is not lawfully admitted to the U.S. with permanent residence status.
 Notwithstanding FGP’s best efforts to ensure that all contributions made on the FGP site are in accordance with applicable state laws, you are accepting final responsibility for ensuring your own compliance when making a contribution.
 Representations: If you read section 6 above, it should go without saying that you must provide us with true, accurate, and complete information when you make a contribution.
 Liability and Indemnification: As stated above, acceptance of these terms, including the campaign finance restrictions set forth in section 6, are a necessary condition to use the Services.
@@ -46,16 +40,16 @@ Disclaimer of Warranties: You use our Services solely at your own risk.
 They are provided to you “as is” and “as available” and without warranty of any kind, express or implied.
 FGP SPECIFICALLY DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, NON-INFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF DEALING, COURSE OF PERFORMANCE, OR USAGE OF TRADE.
 NO ADVICE OR INFORMATION (ORAL OR WRITTEN) OBTAINED BY YOU FROM FGP SHALL CREATE ANY WARRANTY.
-Limitations of LiabilityTo the fullest extent permitted by law, in no event will FGP, its directors, employees, partners, suppliers, or content providers be liable for any indirect, incidental, punitive, consequential, special, or exemplary damages of any kind, including but not limited to damages (i) resulting from your access to, use of, or inability to access or use the Services; (ii) for any lost profits, data loss, or cost of procurement or substitute goods or services; or (iii) for any conduct of content of any third party on the FGP website.
+Limitations of Liability To the fullest extent permitted by law, in no event will FGP, its directors, employees, partners, suppliers, or content providers be liable for any indirect, incidental, punitive, consequential, special, or exemplary damages of any kind, including but not limited to damages (i) resulting from your access to, use of, or inability to access or use the Services; (ii) for any lost profits, data loss, or cost of procurement or substitute goods or services; or (iii) for any conduct of content of any third party on the FGP website.
 In no event shall FGP’s liability for direct damages be in excess of (in the aggregate) one hundred U.S. dollars ($100.00).
 THE FOREGOING LIMITATIONS SHALL NOT APPLY TO THE EXTENT PROHIBITED BY APPLICABLE LAW.
 SOME STATES DO NOT ALLOW LIMITATIONS ON LIABILITY, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
-Dispute Resolution, Governing Law and ArbitrationWe at FGP encourage you to contact us if you’re having an issue, before resorting to the courts.
+Dispute Resolution, Governing Law and Arbitration We at FGP encourage you to contact us if you’re having an issue, before resorting to the courts.
 In the unfortunate situation where legal action does arise, these Terms (and all other rules, policies, or guidelines incorporated by reference) will be governed by and construed in accordance with the laws of the State of Utah and the United States, without giving effect to any principles of conflicts of law, and without application of the Uniform Computer Information Transaction Act or the United Nations Convention of Controls for International Sale of Goods.
 You agree that FGP and its Services are deemed a passive website that does not give rise to jurisdiction over FGP or its parents, subsidiaries, affiliates, assigns, employees, agents, directors, officers, or shareholders, either specific or general, in any jurisdiction other than the State of Utah.
 Any dispute arising out of, or relating to, these Terms shall be settled by arbitration administered by the American Arbitration Association in accordance with its Commercial Arbitration Rules then in effect to be held in the state of Utah, and judgment on the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof.
 If the amount in controversy exceeds $500,000, arbitration shall be conducted under the Procedures for Large, Complex Commercial Disputes.
-MiscellaneousThese Terms and the other material referenced in them are the entire agreement between you and FGP with respect to the Services.
+Miscellaneous These Terms and the other material referenced in them are the entire agreement between you and FGP with respect to the Services.
 They supersede all other communications and proposals (whether oral, written, or electronic) between you and FGP with respect to the Services and govern our future relationship.
 If any provision of these Terms is found to be invalid under the law, that provision will be limited or eliminated to the minimum extent necessary so that the Terms otherwise will remain in full force and effect and enforceable.
 The failure of either you or FGP to exercise any right provided for in these Terms in any way won’t be deemed a waiver of any other rights.
@@ -63,6 +57,6 @@ These Terms are personal to you.
 You can’t assign them, transfer them, or sublicense them unless you get FGP’s prior written consent.
 FGP has the right to assign, transfer, or delegate any of its rights and obligations under these Terms without your consent.
 FGP will provide you notice via email, written notice, or by conspicuously posting the notice on our Site.
-Changes to PolicyAs we continue to develop and improve the FGP website, we may need to update the policies described above and reserve the right to do so at any time.
+Changes to Policy As we continue to develop and improve the FGP website, we may need to update the policies described above and reserve the right to do so at any time.
 If any changes are made, then we will list the date the policy was last updated.
-Questions? grant@grantpaceforutah.com
+Questions? grant@grantpaceforutah.com Terms and Conditions and Privacy Policy Contact Grant 801-835-8860 Grant@GrantPaceForUtah.com Paid for by Friends of Grant Pace

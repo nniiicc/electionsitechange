@@ -1,6 +1,18 @@
 [
-"http://squarespace.com/",
-"https://andrewparrottforcongress.com/",
-"https://andrewparrottforcongress.com/cart",
-"https://andrewparrottforcongress.com/donate"
+{
+"text": "0",
+"href": "https://www.andrewparrottforcongress.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://www.andrewparrottforcongress.com/donate"
+},
+{
+"text": "Ready to serve you",
+"href": "https://www.andrewparrottforcongress.com/"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+}
 ]

@@ -1,11 +1,38 @@
 [
-"https://cravenfornc.com/",
-"https://cravenfornc.com/contact",
-"https://cravenfornc.com/issues",
-"https://cravenfornc.com/meet-dave",
-"https://cravenfornc.com/privacy-policy",
-"https://networkadvertising.org/",
-"https://networkadvertising.org/choices",
-"https://networkadvertising.org/managing/opt_out.asp",
-"https://secure.anedot.com/dave-craven-for-nc/supportsenatorcraven"
+{
+"text": "Contact",
+"href": "https://cravenfornc.com/contact/"
+},
+{
+"text": "Donate(opens in a new tab)",
+"href": "https://secure.anedot.com/dave-craven-for-nc/supportsenatorcraven"
+},
+{
+"text": "Home",
+"href": "https://cravenfornc.com/"
+},
+{
+"text": "Issues",
+"href": "https://cravenfornc.com/issues/"
+},
+{
+"text": "Meet Dave",
+"href": "https://cravenfornc.com/meet-dave/"
+},
+{
+"text": "NAI Opt-Out Page",
+"href": "https://www.networkadvertising.org/managing/opt_out.asp"
+},
+{
+"text": "Network Advertising Initiative",
+"href": "https://www.networkadvertising.org/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://cravenfornc.com/privacy-policy"
+},
+{
+"text": "[image: Dave Craven]",
+"href": "https://cravenfornc.com"
+}
 ]

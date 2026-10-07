@@ -1,2 +1,2 @@
-Alabama Farmers Federation endorses Rep.
-James Lomax for HD20 Press Team Dec 4, 2025 1 min read Link to story here --> https://www.alreporter.com/2025/12/04/alabama-farmers-federation-endorses-rep-james-lomax-for-hd-20/
+top of page Menu Close ABOUT ENDORSEMENTS CONTACT NEWS PRIVACY POLICY FOLLOW JAMES ON FACEBOOK CONTRIBUTE All Posts Delivering Results NEWS ENDORSEMENTS Search Alabama Farmers Federation endorses Rep.
+James Lomax for HD20 Press Team Dec 4, 2025 1 min read Link to story here --> https://www.alreporter.com/2025/12/04/alabama-farmers-federation-endorses-rep-james-lomax-for-hd-20/ ENDORSEMENTS ABOUT ENDORSEMENTS CONTACT NEWS PRIVACY POLICY PAID FOR BY FRIENDS OF JAMES LOMAX PO BOX 4046 HUNTSVILLE, AL 35815 bottom of page

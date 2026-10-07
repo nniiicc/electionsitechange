@@ -1,7 +1,9 @@
 {
  "description": "Placeholder homepage with ribbon-overlay hero and supporting campaign blocks.",
  "final_url": "https://brookeforstaterep.com/home",
- "paid_for_by": null,
+ "fingerprint": "1accdb7633f5a4293fae87de80395a2c6ec34d18",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Brooke for State Rep",
  "years_mentioned": [
   "2026"

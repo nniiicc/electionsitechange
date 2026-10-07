@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Town+Hall+%26+Candidate+Forum&dates=20260429T010000Z%2F20260429T030000Z",
-"https://bsky.app/profile/valyndaformt.bsky.social",
-"https://facebook.com/valyndaformt",
-"https://instagram.com/valyndaformt",
-"https://secure.actblue.com/donate/valyndaformt",
-"https://tiktok.com/@valyndaformt",
-"https://valyndaformt.com/",
-"https://valyndaformt.com/about",
-"https://valyndaformt.com/calendar",
-"https://valyndaformt.com/calendar/national-fentanyl-awareness-day",
-"https://valyndaformt.com/calendar/town-hall-candidate-forum?format=ical",
-"https://valyndaformt.com/calendar/vivacity-leadership-alliance",
-"https://valyndaformt.com/cart",
-"https://valyndaformt.com/contact",
-"https://valyndaformt.com/endorsements",
-"https://x.com/valyndaformt",
-"https://youtube.com/@ValyndaforMT"
+{
+"text": "0",
+"href": "https://www.valyndaformt.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.valyndaformt.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.valyndaformt.com/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.valyndaformt.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.valyndaformt.com/contact"
+},
+{
+"text": "Donate To The Cause!",
+"href": "https://secure.actblue.com/donate/valyndaformt"
+},
+{
+"text": "Endorsements",
+"href": "https://www.valyndaformt.com/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Town+Hall+%26+Candidate+Forum&dates=20260429T010000Z%2F20260429T030000Z"
+},
+{
+"text": "Home",
+"href": "https://www.valyndaformt.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.valyndaformt.com/calendar/town-hall-candidate-forum?format=ical"
+},
+{
+"text": "Next Next April 29 National Fentanyl Awareness Day",
+"href": "https://www.valyndaformt.com/calendar/national-fentanyl-awareness-day"
+},
+{
+"text": "Previous Previous April 12 Vivacity Leadership Alliance",
+"href": "https://www.valyndaformt.com/calendar/vivacity-leadership-alliance"
+},
+{
+"text": "[image: Valynda Holland for MT Senate District 11]",
+"href": "https://www.valyndaformt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/valyndaformt.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/valyndaformt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/valyndaformt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@valyndaformt"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ValyndaforMT"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/valyndaformt"
+}
 ]

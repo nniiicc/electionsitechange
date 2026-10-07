@@ -1,6 +1,7 @@
-Common Sense vs.
-Car Crowding: Listening to Spring & 8th
-I spent some time reviewing the recent commission hearing regarding the proposed 40-unit complex at Spring and 8th.
+top of page Tracey Karcher Home Blog Donate Today!
+All Posts Search Common Sense vs.
+Car Crowding: Listening to Spring & 8th Rev.
+Tracey Karcher Mar 11 1 min read I spent some time reviewing the recent commission hearing regarding the proposed 40-unit complex at Spring and 8th.
 While we all agree that Lewistown needs more housing, we have to ask: At what cost to our existing neighborhoods?
 It was telling that over 40 local residents showed up in opposition, raising valid concerns about historic character and narrow-street congestion, yet the project was moved forward with three major variances.
 The Double Standard is Real: It’s hard to wrap your head around the logic - a local daycare provider was recently denied an expansion because they lacked six parking spots.
@@ -11,3 +12,9 @@ Regulatory Fairness: State policy should encourage housing, but it shouldn't emp
 I want to hear from you.
 Is "density at any cost" the right path for Lewistown, or do we need a more balanced approach that respects the people who already call these neighborhoods home?
 406-366-1240 Let me know what you think!
+#LewistownMT #FergusCounty #HouseDistrict #SpringAnd8th #CommonSenseGrowth Recent Posts See All The Almost Daily!
+Your (Almost) Daily Update!
+3/15 (Almost) Daily Campaign Updates!
+Tracey A.
+Karcher Find me on Facebook!
+Building a Better Future for Montana Email * Yes, subscribe me to your newsletter. * Submit Office Phone: 406-366-1240 166 Christina W Hilger, MT 59451 Privacy Policy Accessibility Statement Donate Today! © # Website created and paid for by Tracey Karcher for HD37 (Yes I did this too!) bottom of page

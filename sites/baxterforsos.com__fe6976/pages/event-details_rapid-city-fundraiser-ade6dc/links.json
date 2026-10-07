@@ -1,13 +1,50 @@
 [
-"https://baxterforsos.com/",
-"https://baxterforsos.com/event-list",
-"https://baxterforsos.com/get-involved",
-"https://baxterforsos.com/press-releases",
-"https://baxterforsos.com/privacy-policy",
-"https://baxterforsos.com/terms-conditions",
-"https://facebook.com/BaxterForSecretaryofState",
-"https://givebutter.com/baxterforsos",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.baxterforsos.com%2Fevent-details%2Frapid-city-fundraiser",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.baxterforsos.com%2Fevent-details%2Frapid-city-fundraiser&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://x.com/baxterforsos"
+{
+"text": "DONATE",
+"href": "https://givebutter.com/baxterforsos"
+},
+{
+"text": "EVENTS",
+"href": "https://www.baxterforsos.com/event-list"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.baxterforsos.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.baxterforsos.com"
+},
+{
+"text": "PRESS RELEASES",
+"href": "https://www.baxterforsos.com/press-releases"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.baxterforsos.com/privacy-policy"
+},
+{
+"text": "See other events",
+"href": "https://www.baxterforsos.com/event-list"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.baxterforsos.com/terms-conditions"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/BaxterForSecretaryofState"
+},
+{
+"text": "[image]",
+"href": "https://x.com/baxterforsos"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.baxterforsos.com%2Fevent-details%2Frapid-city-fundraiser&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.baxterforsos.com%2Fevent-details%2Frapid-city-fundraiser"
+}
 ]

@@ -1,16 +1,74 @@
 [
-"https://forms.gle/1DXUfP27Qs35jRUXA",
-"https://google.com/url?q=https%3A%2F%2Fcasainaction.org%2Fmaryland%2F&sa=D&sntz=1&usg=AOvVaw3Tp0OrE1vrCSFWeT5Z9t33",
-"https://google.com/url?q=https%3A%2F%2Fmarylandnow.org%2F2026-elections-maryland-now-pac-endorsements%2F%23prince-georges-county&sa=D&sntz=1&usg=AOvVaw1JETQ-1phkfva-lQPtipFI",
-"https://google.com/url?q=https%3A%2F%2Fwesmoore.com%2Fgovernor-moore-endorses-leaders-across-maryland-to-finish-the-job%2F&sa=D&sntz=1&usg=AOvVaw2_jCZP2Nm0SWhttlpzLZeA",
-"https://tracygant4maryland.com/contact",
-"https://tracygant4maryland.com/district-22",
-"https://tracygant4maryland.com/donate",
-"https://tracygant4maryland.com/endorsements",
-"https://tracygant4maryland.com/get-involved",
-"https://tracygant4maryland.com/home",
-"https://tracygant4maryland.com/meet-tracy",
-"https://tracygant4maryland.com/priorities",
-"https://tracygant4maryland.com/priorities/why-im-running",
-"https://tracygant4maryland.com/vote"
+{
+"text": "CONTACT",
+"href": "https://www.tracygant4maryland.com/contact"
+},
+{
+"text": "DISTRICT 22",
+"href": "https://www.tracygant4maryland.com/district-22"
+},
+{
+"text": "DONATE",
+"href": "https://www.tracygant4maryland.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.tracygant4maryland.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.tracygant4maryland.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.tracygant4maryland.com/home"
+},
+{
+"text": "MEET TRACY",
+"href": "https://www.tracygant4maryland.com/meet-tracy"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.tracygant4maryland.com/priorities"
+},
+{
+"text": "SUPPORT TRACY'S CANDIDACY WITH YOUR ENDORSEMENT",
+"href": "https://forms.gle/1DXUfP27Qs35jRUXA"
+},
+{
+"text": "VOTE",
+"href": "https://www.tracygant4maryland.com/vote"
+},
+{
+"text": "VOTE TRACY GANT 2026",
+"href": "https://www.tracygant4maryland.com/home"
+},
+{
+"text": "WHY I'M RUNNING",
+"href": "https://www.tracygant4maryland.com/priorities/why-im-running"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fcasainaction.org%2Fmaryland%2F&sa=D&sntz=1&usg=AOvVaw3Tp0OrE1vrCSFWeT5Z9t33"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fmarylandnow.org%2F2026-elections-maryland-now-pac-endorsements%2F%23prince-georges-county&sa=D&sntz=1&usg=AOvVaw1JETQ-1phkfva-lQPtipFI"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwesmoore.com%2Fgovernor-moore-endorses-leaders-across-maryland-to-finish-the-job%2F&sa=D&sntz=1&usg=AOvVaw2_jCZP2Nm0SWhttlpzLZeA"
+},
+{
+"text": "[image]",
+"href": "https://www.tracygant4maryland.com/home"
+},
+{
+"text": "[image]VOTE TRACY GANT 2026",
+"href": "https://www.tracygant4maryland.com/home"
+},
+{
+"text": "tracygant4maryland@tracygant4maryland.com",
+"href": "mailto:tracygant4maryland@tracygant4maryland.com"
+}
 ]

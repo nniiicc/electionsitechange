@@ -1,27 +1,150 @@
 [
-"https://brucebannister.com/",
-"https://brucebannister.com/2026-campaign-kickoff",
-"https://brucebannister.com/2026/03/30",
-"https://brucebannister.com/all-posts",
-"https://brucebannister.com/category/budget",
-"https://brucebannister.com/category/election",
-"https://brucebannister.com/category/legislation",
-"https://brucebannister.com/category/news",
-"https://brucebannister.com/issues",
-"https://brucebannister.com/our-history",
-"https://brucebannister.com/promises-made-promises-kept",
-"https://brucebannister.com/public-safety-protecting-families-and-lowering-costs",
-"https://brucebannister.com/state-budget-update",
-"https://brucebannister.com/tax-conformity-and-the-state-budget",
-"https://facebook.com/BruceBannisterSC",
-"https://facebook.com/SCHouseGOP",
-"https://instagram.com/brucebannisterofficial",
-"https://schousegop.com/",
-"https://scstatehouse.gov/query.php?search=DOC&searchtext=3858&category=LEGISLATION&session=126&conid=77300201&result_pos=0&keyval=1263858&numrows=10",
-"https://scstatehouse.gov/query.php?search=DOC&searchtext=4591&category=LEGISLATION&session=126&conid=77301298&result_pos=0&keyval=1264591&numrows=10",
-"https://scstatehouse.gov/query.php?search=DOC&searchtext=H.3034&category=LEGISLATION&session=0&conid=77302050&result_pos=0&keyval=1263034&numrows=10",
-"https://scstatehouse.gov/query.php?search=DOC&searchtext=smart+heart+act&category=LEGISLATION&session=0&conid=77301530&result_pos=0&keyval=1263831&numrows=10",
-"https://secure.anedot.com/bannister-for-house/bannister",
-"https://twitter.com/SCHouseGOP",
-"https://unclejakemedia.com/"
+{
+"text": "(H.3034)",
+"href": "https://www.scstatehouse.gov/query.php?search=DOC&searchtext=H.3034&category=LEGISLATION&session=0&conid=77302050&result_pos=0&keyval=1263034&numrows=10"
+},
+{
+"text": "(H.3831)",
+"href": "https://www.scstatehouse.gov/query.php?search=DOC&searchtext=smart+heart+act&category=LEGISLATION&session=0&conid=77301530&result_pos=0&keyval=1263831&numrows=10"
+},
+{
+"text": "(H.3858)",
+"href": "https://www.scstatehouse.gov/query.php?search=DOC&searchtext=3858&category=LEGISLATION&session=126&conid=77300201&result_pos=0&keyval=1263858&numrows=10"
+},
+{
+"text": "(H.4591)",
+"href": "https://www.scstatehouse.gov/query.php?search=DOC&searchtext=4591&category=LEGISLATION&session=126&conid=77301298&result_pos=0&keyval=1264591&numrows=10"
+},
+{
+"text": "2026 Campaign Kickoff",
+"href": "https://brucebannister.com/2026-campaign-kickoff/"
+},
+{
+"text": "About Bruce",
+"href": "https://brucebannister.com/our-history/"
+},
+{
+"text": "Bruce Bannister",
+"href": "https://brucebannister.com/"
+},
+{
+"text": "Budget",
+"href": "https://brucebannister.com/category/budget/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/bannister-for-house/bannister"
+},
+{
+"text": "Election",
+"href": "https://brucebannister.com/category/election/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BruceBannisterSC"
+},
+{
+"text": "Home",
+"href": "https://brucebannister.com"
+},
+{
+"text": "Home",
+"href": "https://brucebannister.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/brucebannisterofficial"
+},
+{
+"text": "Issues",
+"href": "https://brucebannister.com/issues/"
+},
+{
+"text": "Legislation",
+"href": "https://brucebannister.com/category/legislation/"
+},
+{
+"text": "March 30, 2026",
+"href": "https://brucebannister.com/2026/03/30/"
+},
+{
+"text": "News",
+"href": "https://brucebannister.com/category/news/"
+},
+{
+"text": "PrevTax Conformity and the State Budget",
+"href": "https://brucebannister.com/tax-conformity-and-the-state-budget/"
+},
+{
+"text": "Promises Made. Promises Kept.",
+"href": "https://brucebannister.com/promises-made-promises-kept/"
+},
+{
+"text": "Public Safety, Protecting Families, and Lowering CostsNext",
+"href": "https://brucebannister.com/public-safety-protecting-families-and-lowering-costs/"
+},
+{
+"text": "State Budget Update",
+"href": "https://brucebannister.com/state-budget-update/"
+},
+{
+"text": "Uncle Jake Media",
+"href": "https://unclejakemedia.com/"
+},
+{
+"text": "Updates",
+"href": "https://brucebannister.com/all-posts/"
+},
+{
+"text": "[image: Youtube-thumbnail]",
+"href": "https://brucebannister.com/2026-campaign-kickoff/"
+},
+{
+"text": "[image: default-logo]",
+"href": "https://brucebannister.com/"
+},
+{
+"text": "[image]",
+"href": "https://brucebannister.com"
+},
+{
+"text": "[image]",
+"href": "https://brucebannister.com/promises-made-promises-kept/"
+},
+{
+"text": "[image]",
+"href": "https://brucebannister.com/state-budget-update/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/brucebannisterofficial"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BruceBannisterSC"
+},
+{
+"text": "[no text]",
+"href": "mailto:bruce@brucebannister.com"
+},
+{
+"text": "bruce@brucebannister.com",
+"href": "mailto:bruce@brucebannister.com"
+},
+{
+"text": "brucebannister@schouse.gov",
+"href": "mailto:brucebannister@schouse.gov"
+},
+{
+"text": "https://twitter.com/SCHouseGOP",
+"href": "https://twitter.com/SCHouseGOP"
+},
+{
+"text": "https://www.facebook.com/SCHouseGOP",
+"href": "https://www.facebook.com/SCHouseGOP/"
+},
+{
+"text": "https://www.schousegop.com",
+"href": "https://www.schousegop.com/"
+}
 ]

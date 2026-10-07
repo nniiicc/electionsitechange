@@ -1,12 +1,66 @@
 [
-"https://account.venmo.com/u/amy-lavallee",
-"https://amyelavallee-iyljb.wordpress.com/",
-"https://amyelavallee-iyljb.wordpress.com/about",
-"https://amyelavallee-iyljb.wordpress.com/contact",
-"https://subscribe.wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Famyelavallee-iyljb.wordpress.com%2Fabout%2F",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Famyelavallee-iyljb.wordpress.com%2Fabout%2F&signup_flow=account",
-"https://wordpress.com/reader/blogs/253059922/posts/35",
-"https://wordpress.com/start",
-"https://wp.me/Ph7OrE-z"
+{
+"text": "About Amy",
+"href": "https://amyelavallee-iyljb.wordpress.com/about"
+},
+{
+"text": "Amy Lavallee For State Representative • 1st Franklin District",
+"href": "https://amyelavallee-iyljb.wordpress.com/"
+},
+{
+"text": "Contact",
+"href": "https://amyelavallee-iyljb.wordpress.com/contact"
+},
+{
+"text": "Copy shortlink",
+"href": "https://wp.me/Ph7OrE-z"
+},
+{
+"text": "Home",
+"href": "https://amyelavallee-iyljb.wordpress.com/"
+},
+{
+"text": "Home",
+"href": "https://amyelavallee-iyljb.wordpress.com/about"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Famyelavallee-iyljb.wordpress.com%2Fabout%2F&signup_flow=account"
+},
+{
+"text": "Log in now.",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Famyelavallee-iyljb.wordpress.com%2Fabout%2F&signup_flow=account"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Famyelavallee-iyljb.wordpress.com%2Fabout%2F"
+},
+{
+"text": "Send an Email",
+"href": "mailto:info@lavallee4ma.com"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "View post in Reader",
+"href": "https://wordpress.com/reader/blogs/253059922/posts/35"
+},
+{
+"text": "[image]Lavallee 4 MA",
+"href": "https://amyelavallee-iyljb.wordpress.com"
+},
+{
+"text": "info@lavallee4ma.com",
+"href": "mailto:info@lavallee4ma.com"
+},
+{
+"text": "💙 Venmo",
+"href": "https://account.venmo.com/u/amy-lavallee"
+}
 ]

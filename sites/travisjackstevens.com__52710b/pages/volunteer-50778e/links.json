@@ -1,20 +1,86 @@
 [
-"https://bsky.app/intent/compose?text=Volunteer+for+Travis+Jack+Stevens+%E2%80%94+U.S.+Senate+Campaign+https%3A%2F%2Ftravisjackstevens.com%2Fvolunteer",
-"https://bsky.app/profile/travisjack.bsky.social",
-"https://facebook.com/share/1HC2UrpKYr",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftravisjackstevens.com%2Fvolunteer&quote=Volunteer+for+Travis+Jack+Stevens+%E2%80%94+U.S.+Senate+Campaign",
-"https://instagram.com/travisjackstevens?igsh=b2picjNhZjNocnRl",
-"https://linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftravisjackstevens.com%2Fvolunteer&summary=Help+us+knock+doors%2C+make+calls%2C+and+build+a+better+Delaware.&title=Volunteer+for+Travis+Jack+Stevens+%E2%80%94+U.S.+Senate+Campaign",
-"https://travisjackstevens.com/",
-"https://travisjackstevens.com/about",
-"https://travisjackstevens.com/cdn-cgi/l/email-protection",
-"https://travisjackstevens.com/contact",
-"https://travisjackstevens.com/donate",
-"https://travisjackstevens.com/news",
-"https://travisjackstevens.com/news/how-to-sign-delaware-ballot-petition",
-"https://travisjackstevens.com/platform",
-"https://travisjackstevens.com/volunteer",
-"https://x.com/intent/tweet?url=https%3A%2F%2Ftravisjackstevens.com%2Fvolunteer&text=Volunteer+for+Travis+Jack+Stevens+%E2%80%94+U.S.+Senate+Campaign",
-"https://x.com/travisjackseven",
-"https://youtube.com/@travisstevens2840?si=YItXHRojvSvoX5Jf"
+{
+"text": "About",
+"href": "https://travisjackstevens.com/about"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/intent/compose?text=Volunteer+for+Travis+Jack+Stevens+%E2%80%94+U.S.+Senate+Campaign+https%3A%2F%2Ftravisjackstevens.com%2Fvolunteer"
+},
+{
+"text": "Contact",
+"href": "https://travisjackstevens.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://travisjackstevens.com/donate"
+},
+{
+"text": "Donate Instead",
+"href": "https://travisjackstevens.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftravisjackstevens.com%2Fvolunteer&quote=Volunteer+for+Travis+Jack+Stevens+%E2%80%94+U.S.+Senate+Campaign"
+},
+{
+"text": "Home",
+"href": "https://travisjackstevens.com/"
+},
+{
+"text": "How to Vote →",
+"href": "https://travisjackstevens.com/news/how-to-sign-delaware-ballot-petition"
+},
+{
+"text": "Join the Campaign",
+"href": "https://travisjackstevens.com/volunteer"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Ftravisjackstevens.com%2Fvolunteer&summary=Help+us+knock+doors%2C+make+calls%2C+and+build+a+better+Delaware.&title=Volunteer+for+Travis+Jack+Stevens+%E2%80%94+U.S.+Senate+Campaign"
+},
+{
+"text": "News",
+"href": "https://travisjackstevens.com/news"
+},
+{
+"text": "Platform",
+"href": "https://travisjackstevens.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://travisjackstevens.com/volunteer"
+},
+{
+"text": "X",
+"href": "https://x.com/intent/tweet?url=https%3A%2F%2Ftravisjackstevens.com%2Fvolunteer&text=Volunteer+for+Travis+Jack+Stevens+%E2%80%94+U.S.+Senate+Campaign"
+},
+{
+"text": "[email protected]",
+"href": "mailto:admin@travisjackstevens.com"
+},
+{
+"text": "[image: Travis Jack Stevens for U.S. Senate — official campaign logo]",
+"href": "https://travisjackstevens.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/travisjack.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1HC2UrpKYr/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/travisjackstevens?igsh=b2picjNhZjNocnRl"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/travisjackseven"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@travisstevens2840?si=YItXHRojvSvoX5Jf"
+}
 ]

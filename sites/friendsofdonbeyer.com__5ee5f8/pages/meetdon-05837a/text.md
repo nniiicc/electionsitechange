@@ -1,5 +1,4 @@
-Meet Don
-Congressman Don Beyer is serving his sixth term as the U.S.
+top of page Home Meet Don Priorities An Equitable Economy Education Energy & The Environment Federal Workforce Foreign Policy Gun Violence Prevention Healthcare Housing Immigration Oversight of the Administration Racial Justice Transportation Veterans Women's Rights An Equitable Economy Education Energy & The Environment Federal Workforce Foreign Policy Gun Violence Prevention Healthcare Housing Immigration Oversight of the Administration Racial Justice Transportation Veterans Women's Rights Endorsements News Voting Information Menu Close GET INVOLVED DONATE Meet Don Congressman Don Beyer is serving his sixth term as the U.S.
 Representative from Virginia’s 8th District, representing Arlington, Alexandria, Falls Church, and parts of Fairfax County.
 Don is the Senior House Democrat on Congress’s Joint Economic Committee, and serves on the essential House Committee on Ways and Means, which holds jurisdiction over key matters including health care, trade, tax policy, Social Security, and Medicare.
 He is a member of the New Democrat Coalition and the Congressional Progressive Caucus, founder of the bipartisan Fusion Energy Caucus, and co-chair of the bipartisan Artificial Intelligence Caucus.
@@ -21,3 +20,6 @@ Don is a graduate of Williams College and of Gonzaga College High School in Wash
 He was named a Presidential Scholar by President Lyndon Johnson.
 Don has four children and two grandchildren.
 He and his wife, Megan, live in Alexandria, Virginia.
+Home Meet Don Priorities An Equitable Economy Education Energy & The Environment Federal Workforce Foreign Policy Gun Violence Prevention Healthcare Housing Immigration Oversight of the Administration Racial Justice Transportation Veterans Women's Rights An Equitable Economy Education Energy & The Environment Federal Workforce Foreign Policy Gun Violence Prevention Healthcare Housing Immigration Oversight of the Administration Racial Justice Transportation Veterans Women's Rights Endorsements News Voting Information Menu Close Please mail checks to: Friends of Don Beyer 2503-D N.
+Harrison St.
+Box #310 Arlington, VA 22207 Privacy Policy Contact PAID FOR BY FRIENDS OF DON BEYER Home Meet Don Priorities An Equitable Economy Education Energy & The Environment Federal Workforce Foreign Policy Gun Violence Prevention Healthcare Housing Immigration Oversight of the Administration Racial Justice Transportation Veterans Women's Rights Endorsements News Voting Information bottom of page

@@ -1,14 +1,58 @@
 [
-"http://senatorbrendastanley.com/",
-"http://senatorbrendastanley.com/about",
-"http://senatorbrendastanley.com/contact",
-"http://senatorbrendastanley.com/facebook-feed",
-"http://senatorbrendastanley.com/get-involved",
-"http://senatorbrendastanley.com/press-kit-2",
-"https://elegantthemes.com/",
-"https://facebook.com/Brenda-Stanley-for-State-Senate-288737251694274",
-"https://facebook.com/BrendaStanleyOK",
-"https://okvoterportal.okelections.us/",
-"https://secure.anedot.com/brenda-stanley/donate",
-"https://wordpress.org/"
+{
+"text": "About",
+"href": "http://senatorbrendastanley.com/about/"
+},
+{
+"text": "Contact",
+"href": "http://senatorbrendastanley.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/brenda-stanley/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/brenda-stanley/donate"
+},
+{
+"text": "Elegant Themes",
+"href": "https://www.elegantthemes.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Brenda-Stanley-for-State-Senate-288737251694274/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BrendaStanleyOK/"
+},
+{
+"text": "Facebook Feed",
+"href": "http://senatorbrendastanley.com/facebook-feed/"
+},
+{
+"text": "Get Involved",
+"href": "http://senatorbrendastanley.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "http://senatorbrendastanley.com/"
+},
+{
+"text": "Press Kit",
+"href": "http://senatorbrendastanley.com/press-kit-2/"
+},
+{
+"text": "State Voter Tool",
+"href": "https://okvoterportal.okelections.us/"
+},
+{
+"text": "WordPress",
+"href": "https://www.wordpress.org"
+},
+{
+"text": "[image: Brenda Stanley]",
+"href": "http://senatorbrendastanley.com/"
+}
 ]

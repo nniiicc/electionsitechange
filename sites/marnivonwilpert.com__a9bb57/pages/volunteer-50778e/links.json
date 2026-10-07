@@ -1,21 +1,82 @@
 [
-"https://bsky.app/profile/marnivonwilpert.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/marniforcongress",
-"https://instagram.com/marni_von_wilpert",
-"https://marnivonwilpert.com/",
-"https://marnivonwilpert.com/about",
-"https://marnivonwilpert.com/endorsements",
-"https://marnivonwilpert.com/issues",
-"https://marnivonwilpert.com/media-2",
-"https://marnivonwilpert.com/news",
-"https://marnivonwilpert.com/privacy-policy",
-"https://marnivonwilpert.com/terms-and-conditions",
-"https://mobilize.us/marnivonwilpertforcongress",
-"https://mobilize.us/marnivonwilpertforcongress/event/1032858",
-"https://mobilize.us/marnivonwilpertforcongress/event/1035386?referring_vol=12307934&rname=Jacob&share_context=event_details&share_medium=copy_link",
-"https://secure.actblue.com/donate/marni_vonwilpert",
-"https://store.marnivonwilpert.com/",
-"https://x.com/marnivonwilpert",
-"https://youtube.com/@MarnivonWilpertforCongress"
+{
+"text": "About",
+"href": "https://www.marnivonwilpert.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/marni_vonwilpert"
+},
+{
+"text": "Endorsements",
+"href": "https://www.marnivonwilpert.com/endorsements"
+},
+{
+"text": "Find a canvass, phonebank, or textbank!",
+"href": "https://www.mobilize.us/marnivonwilpertforcongress/"
+},
+{
+"text": "Issues",
+"href": "https://www.marnivonwilpert.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.marnivonwilpert.com/media-2"
+},
+{
+"text": "News",
+"href": "https://www.marnivonwilpert.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.marnivonwilpert.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Request a yard sign!",
+"href": "https://www.mobilize.us/marnivonwilpertforcongress/event/1032858/"
+},
+{
+"text": "Sign up to volunteer!",
+"href": "https://www.mobilize.us/marnivonwilpertforcongress/event/1035386/?referring_vol=12307934&rname=Jacob&share_context=event_details&share_medium=copy_link"
+},
+{
+"text": "Store",
+"href": "https://store.marnivonwilpert.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.marnivonwilpert.com/terms-and-conditions"
+},
+{
+"text": "[image: Marni von Wilpert for Congress]",
+"href": "https://www.marnivonwilpert.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/marnivonwilpert.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/marniforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/marni_von_wilpert/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MarnivonWilpertforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/marnivonwilpert"
+},
+{
+"text": "info@marnivonwilpert.com",
+"href": "mailto:info@marnivonwilpert.com"
+}
 ]

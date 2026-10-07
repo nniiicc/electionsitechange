@@ -1,7 +1,9 @@
 {
  "description": "Stay updated with the latest campaign news and political press releases from Rosado for Congress. Join our movement for accountability in Washington D.C.",
  "final_url": "https://rosadoforcongress.com/press",
- "paid_for_by": null,
+ "fingerprint": "e91a959ad35daf3cea0ff2072098f5e3dd41bc46",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Press",
  "years_mentioned": []
 }

@@ -1,4 +1,3 @@
-Join Us to Save the USA
-First time ever on TV - Not bad Max!
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Join Us to Save the USA Home About Issues Go Ask An Indian Videos Donate More Home About Issues Go Ask An Indian Videos Donate Home About Issues Go Ask An Indian Videos Donate Constitutionalist for Congress NC-04 Constitutionalist for Congress NC-04 Constitutionalist for Congress NC-04 Constitutionalist for Congress NC-04 an anti-socialism warrior an anti-socialism warrior an anti-socialism warrior Videos from the campaign trail - updated Periodically Opportunity for All First time ever on TV - Not bad Max!
+Servant at Heart Max's Journey Ganorkar ~ Gun O Car Max's Truck Raising Them Right Family Tradition the Reading of the Declaration of Independence July 4th every year Max's sense of humor - 1 Max's sense of humor - 2 Max for Congress Copyright © # Max for Congress - All Rights Reserved.
+Powered by

@@ -1,87 +1,358 @@
 [
-"http://squarespace.com/",
-"https://congress.gov/bill/115th-congress/senate-bill/2383",
-"https://congress.gov/bill/119th-congress/senate-bill/146",
-"https://copyright.gov/512",
-"https://facebook.com/WillCampbellForTexas",
-"https://gibsondunn.com/texas-supreme-court-unanimously-upholds-constitutionality-of-fifteenth-court-of-appeals",
-"https://law.cornell.edu/uscode/text/18/2701",
-"https://law.cornell.edu/uscode/text/47/230",
-"https://secure.anedot.com/will-campbell-for-texas/willcampbellfortexas",
-"https://statutes.capitol.texas.gov/Docs/BC/htm/BC.521.htm",
-"https://statutes.capitol.texas.gov/Docs/CP/htm/CP.27.htm",
-"https://statutes.capitol.texas.gov/Docs/CP/htm/CP.73.htm",
-"https://statutes.capitol.texas.gov/Docs/CP/htm/CP.98B.htm",
-"https://statutes.capitol.texas.gov/Docs/CR/htm/CR.18B.htm",
-"https://supreme.justia.com/cases/federal/us/376/254",
-"https://supreme.justia.com/cases/federal/us/418/323",
-"https://supreme.justia.com/cases/federal/us/497/1",
-"https://supreme.justia.com/cases/federal/us/514/334",
-"https://supreme.justia.com/cases/federal/us/530/57",
-"https://supremecourt.gov/opinions/22pdf/21-468_5if6.pdf",
-"https://supremecourt.gov/opinions/23pdf/22-277_d18f.pdf",
-"https://supremecourt.gov/opinions/24pdf/23-1122_3e04.pdf",
-"https://willcampbellfortexas.com/",
-"https://willcampbellfortexas.com/about-will-campbell",
-"https://willcampbellfortexas.com/ai-accountability-act",
-"https://willcampbellfortexas.com/birth-tourism-criminalization-act",
-"https://willcampbellfortexas.com/bond-management-act",
-"https://willcampbellfortexas.com/cart",
-"https://willcampbellfortexas.com/data",
-"https://willcampbellfortexas.com/enforcing-parental-rights-and-child-protections",
-"https://willcampbellfortexas.com/family-first-guardianship-accountability",
-"https://willcampbellfortexas.com/female-first-responder-cancer-coverage",
-"https://willcampbellfortexas.com/hjr-for-electing-sos",
-"https://willcampbellfortexas.com/prohibiting-the-kill-switch-in-texas",
-"https://willcampbellfortexas.com/proposed-laws",
-"https://willcampbellfortexas.com/protecting-first-responders",
-"https://willcampbellfortexas.com/protecting-heirs-rights",
-"https://willcampbellfortexas.com/protecting-texans-from-surveillance",
-"https://willcampbellfortexas.com/ptia",
-"https://willcampbellfortexas.com/releases",
-"https://willcampbellfortexas.com/releases/an-analysis-of-investigations-into-non-citizen-voting-in-america",
-"https://willcampbellfortexas.com/releases/category/Identity+Protection",
-"https://willcampbellfortexas.com/releases/category/Law",
-"https://willcampbellfortexas.com/releases/category/Politics",
-"https://willcampbellfortexas.com/releases/category/Truth+in+Media",
-"https://willcampbellfortexas.com/releases/ending-birth-tourism-in-texas-what-the-law-says-what-were-doing-about-it-and-why-it-matters",
-"https://willcampbellfortexas.com/releases/enforcing-your-rights-the-local-accountability-and-compliance-act",
-"https://willcampbellfortexas.com/releases/equal-cancer-protections-for-female-first-responders-and-long-term-research",
-"https://willcampbellfortexas.com/releases/holding-ai-companies-accountable-and-protecting-texans",
-"https://willcampbellfortexas.com/releases/prohibiting-the-vehicle-kill-switch-amp-your-vehicle-data-to-foreign-entities-how-texas-will-stop-it",
-"https://willcampbellfortexas.com/releases/protecting-truth-and-identity",
-"https://willcampbellfortexas.com/releases/protecting-whats-yours-improving-heir-and-property-rights-laws-in-texas",
-"https://willcampbellfortexas.com/releases/relief-for-sand-branch-tx-a-bill-to-build-their-water-and-wastewater-needs",
-"https://willcampbellfortexas.com/releases/securing-texas-elections-and-restoring-party-self-governance",
-"https://willcampbellfortexas.com/releases/tag/False+Information",
-"https://willcampbellfortexas.com/releases/tag/Identity",
-"https://willcampbellfortexas.com/releases/tag/Law",
-"https://willcampbellfortexas.com/releases/tag/Online+Identity",
-"https://willcampbellfortexas.com/releases/tag/Texas",
-"https://willcampbellfortexas.com/releases/tag/Text+House+of+Representatives",
-"https://willcampbellfortexas.com/releases/tag/Truth",
-"https://willcampbellfortexas.com/releases/texas-energy-and-data-center-policy-plan",
-"https://willcampbellfortexas.com/releases/texas-property-tax-replacement-what-it-means-for-texas-businesses",
-"https://willcampbellfortexas.com/releases/the-texas-property-tax-replacement-plan-constitutional-amendment",
-"https://willcampbellfortexas.com/releases/the-texas-public-surveillance-technology-privacy-security-and-accountability-act",
-"https://willcampbellfortexas.com/releases/truth-transparency-and-safety-for-texans-and-first-responders",
-"https://willcampbellfortexas.com/releases/we-can-end-property-taxes",
-"https://willcampbellfortexas.com/releases/when-protection-becomes-control-the-reason-for-the-texas-family-first-guardianship-act",
-"https://willcampbellfortexas.com/releases?author=6940b32453b62b3eb0434232",
-"https://willcampbellfortexas.com/remote-seller-and-foreign-entity-act",
-"https://willcampbellfortexas.com/solutions",
-"https://willcampbellfortexas.com/texas-data-center-transparency-and-standards-act",
-"https://willcampbellfortexas.com/texas-distributed-power-generation-act",
-"https://willcampbellfortexas.com/texas-election-integrity-and-party-association-act",
-"https://willcampbellfortexas.com/texas-energy-and-intelligence-infrastructure-security-board-act",
-"https://willcampbellfortexas.com/the-fund-system-act",
-"https://willcampbellfortexas.com/the-tles-act",
-"https://willcampbellfortexas.com/tptrp-amendment",
-"https://willcampbellfortexas.com/tptrp-tax-abolition-and-conformity-act",
-"https://willcampbellfortexas.com/tptrp-the-sales-and-use-tax-act",
-"https://willcampbellfortexas.com/tptrp-transition-board-act",
-"https://willcampbellfortexas.com/volunteer",
-"https://willcampbellfortexas.com/water-for-sand-branch-act",
-"https://x.com/WillForTexas",
-"https://youtube.com/@WillCampbellforTexas"
+{
+"text": "0",
+"href": "https://www.willcampbellfortexas.com/cart"
+},
+{
+"text": "AI Accountability Act",
+"href": "https://www.willcampbellfortexas.com/ai-accountability-act"
+},
+{
+"text": "About Will",
+"href": "https://www.willcampbellfortexas.com/about-will-campbell"
+},
+{
+"text": "Back",
+"href": "https://www.willcampbellfortexas.com/"
+},
+{
+"text": "Birth Tourism Criminalization Act",
+"href": "https://www.willcampbellfortexas.com/birth-tourism-criminalization-act"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/will-campbell-for-texas/willcampbellfortexas"
+},
+{
+"text": "Data",
+"href": "https://www.willcampbellfortexas.com/data"
+},
+{
+"text": "End Property Taxes",
+"href": "https://www.willcampbellfortexas.com/releases/we-can-end-property-taxes"
+},
+{
+"text": "Ending Birth Tourism",
+"href": "https://www.willcampbellfortexas.com/releases/ending-birth-tourism-in-texas-what-the-law-says-what-were-doing-about-it-and-why-it-matters"
+},
+{
+"text": "Ending Corruption in Guardianship Cases",
+"href": "https://www.willcampbellfortexas.com/releases/when-protection-becomes-control-the-reason-for-the-texas-family-first-guardianship-act"
+},
+{
+"text": "Enforcing Parental Rights and Child Protections",
+"href": "https://www.willcampbellfortexas.com/enforcing-parental-rights-and-child-protections"
+},
+{
+"text": "Enforcing Parental Rights and Local Accountability",
+"href": "https://www.willcampbellfortexas.com/releases/enforcing-your-rights-the-local-accountability-and-compliance-act"
+},
+{
+"text": "False Information",
+"href": "https://www.willcampbellfortexas.com/releases/tag/False+Information"
+},
+{
+"text": "Family First Guardianship Accountability",
+"href": "https://www.willcampbellfortexas.com/family-first-guardianship-accountability"
+},
+{
+"text": "Female First Responder Cancer Coverage",
+"href": "https://www.willcampbellfortexas.com/female-first-responder-cancer-coverage"
+},
+{
+"text": "Female First Responder Cancer Protections",
+"href": "https://www.willcampbellfortexas.com/releases/equal-cancer-protections-for-female-first-responders-and-long-term-research"
+},
+{
+"text": "Folder: Proposed Laws",
+"href": "https://www.willcampbellfortexas.com/proposed-laws"
+},
+{
+"text": "Folder: Solutions",
+"href": "https://www.willcampbellfortexas.com/solutions"
+},
+{
+"text": "HJR For Electing SOS",
+"href": "https://www.willcampbellfortexas.com/hjr-for-electing-sos"
+},
+{
+"text": "Holding AI Companies Accountable",
+"href": "https://www.willcampbellfortexas.com/releases/holding-ai-companies-accountable-and-protecting-texans"
+},
+{
+"text": "Identity",
+"href": "https://www.willcampbellfortexas.com/releases/tag/Identity"
+},
+{
+"text": "Identity Protection",
+"href": "https://www.willcampbellfortexas.com/releases/category/Identity+Protection"
+},
+{
+"text": "Law",
+"href": "https://www.willcampbellfortexas.com/releases/category/Law"
+},
+{
+"text": "Law",
+"href": "https://www.willcampbellfortexas.com/releases/tag/Law"
+},
+{
+"text": "Next Next ­­We Can End Property Taxes",
+"href": "https://www.willcampbellfortexas.com/releases/we-can-end-property-taxes"
+},
+{
+"text": "Online Identity",
+"href": "https://www.willcampbellfortexas.com/releases/tag/Online+Identity"
+},
+{
+"text": "Politics",
+"href": "https://www.willcampbellfortexas.com/releases/category/Politics"
+},
+{
+"text": "Previous Previous An Analysis of Investigations Into Non-Citizen Voting in America",
+"href": "https://www.willcampbellfortexas.com/releases/an-analysis-of-investigations-into-non-citizen-voting-in-america"
+},
+{
+"text": "Prohibiting The Kill Switch in Texas",
+"href": "https://www.willcampbellfortexas.com/prohibiting-the-kill-switch-in-texas"
+},
+{
+"text": "Prohibiting the Kill Switch in Texas",
+"href": "https://www.willcampbellfortexas.com/releases/prohibiting-the-vehicle-kill-switch-amp-your-vehicle-data-to-foreign-entities-how-texas-will-stop-it"
+},
+{
+"text": "Protecting First Responders",
+"href": "https://www.willcampbellfortexas.com/protecting-first-responders"
+},
+{
+"text": "Protecting First Responders",
+"href": "https://www.willcampbellfortexas.com/releases/truth-transparency-and-safety-for-texans-and-first-responders"
+},
+{
+"text": "Protecting Heirs Rights",
+"href": "https://www.willcampbellfortexas.com/releases/protecting-whats-yours-improving-heir-and-property-rights-laws-in-texas"
+},
+{
+"text": "Protecting Heirs' Rights",
+"href": "https://www.willcampbellfortexas.com/protecting-heirs-rights"
+},
+{
+"text": "Protecting Texans From Surveillance",
+"href": "https://www.willcampbellfortexas.com/protecting-texans-from-surveillance"
+},
+{
+"text": "Protecting Truth and Identity",
+"href": "https://www.willcampbellfortexas.com/releases/protecting-truth-and-identity"
+},
+{
+"text": "Releases",
+"href": "https://www.willcampbellfortexas.com/releases"
+},
+{
+"text": "Relief for Sand Branch and Seagoville",
+"href": "https://www.willcampbellfortexas.com/releases/relief-for-sand-branch-tx-a-bill-to-build-their-water-and-wastewater-needs"
+},
+{
+"text": "Restricting ALPR Cameras",
+"href": "https://www.willcampbellfortexas.com/releases/the-texas-public-surveillance-technology-privacy-security-and-accountability-act"
+},
+{
+"text": "Securing Texas Elections and Closed Primaries",
+"href": "https://www.willcampbellfortexas.com/releases/securing-texas-elections-and-restoring-party-self-governance"
+},
+{
+"text": "Solving For Energy, Water, and Data Centers.",
+"href": "https://www.willcampbellfortexas.com/releases/texas-energy-and-data-center-policy-plan"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "TPTRP Bond Management Act",
+"href": "https://www.willcampbellfortexas.com/bond-management-act"
+},
+{
+"text": "TPTRP Constitutional Amendment",
+"href": "https://www.willcampbellfortexas.com/tptrp-amendment"
+},
+{
+"text": "TPTRP Constitutional Amendment Breakdown",
+"href": "https://www.willcampbellfortexas.com/releases/the-texas-property-tax-replacement-plan-constitutional-amendment"
+},
+{
+"text": "TPTRP Freeing Business - Reducing Taxes",
+"href": "https://www.willcampbellfortexas.com/releases/texas-property-tax-replacement-what-it-means-for-texas-businesses"
+},
+{
+"text": "TPTRP Remote Seller and Foreign Entity Act",
+"href": "https://www.willcampbellfortexas.com/remote-seller-and-foreign-entity-act"
+},
+{
+"text": "TPTRP Tax Abolition and Conformity Act",
+"href": "https://www.willcampbellfortexas.com/tptrp-tax-abolition-and-conformity-act"
+},
+{
+"text": "TPTRP The Fund System Act",
+"href": "https://www.willcampbellfortexas.com/the-fund-system-act"
+},
+{
+"text": "TPTRP The Sales and Use Tax Act",
+"href": "https://www.willcampbellfortexas.com/tptrp-the-sales-and-use-tax-act"
+},
+{
+"text": "TPTRP The TLES Act",
+"href": "https://www.willcampbellfortexas.com/the-tles-act"
+},
+{
+"text": "TPTRP Transition Board Act",
+"href": "https://www.willcampbellfortexas.com/tptrp-transition-board-act"
+},
+{
+"text": "Texas",
+"href": "https://www.willcampbellfortexas.com/releases/tag/Texas"
+},
+{
+"text": "Texas Data Center Transparency and Standards Act",
+"href": "https://www.willcampbellfortexas.com/texas-data-center-transparency-and-standards-act"
+},
+{
+"text": "Texas Distributed Power Generation Act",
+"href": "https://www.willcampbellfortexas.com/texas-distributed-power-generation-act"
+},
+{
+"text": "Texas Election Integrity and Party Association Act",
+"href": "https://www.willcampbellfortexas.com/texas-election-integrity-and-party-association-act"
+},
+{
+"text": "Texas Energy and Intelligence Infrastructure Security Board Act",
+"href": "https://www.willcampbellfortexas.com/texas-energy-and-intelligence-infrastructure-security-board-act"
+},
+{
+"text": "Text House of Representatives",
+"href": "https://www.willcampbellfortexas.com/releases/tag/Text+House+of+Representatives"
+},
+{
+"text": "The Protecting Truth and Identity Act",
+"href": "https://www.willcampbellfortexas.com/ptia"
+},
+{
+"text": "Truth",
+"href": "https://www.willcampbellfortexas.com/releases/tag/Truth"
+},
+{
+"text": "Truth in Media",
+"href": "https://www.willcampbellfortexas.com/releases/category/Truth+in+Media"
+},
+{
+"text": "View Full Text →",
+"href": "https://www.willcampbellfortexas.com/ptia"
+},
+{
+"text": "Volunteer",
+"href": "https://www.willcampbellfortexas.com/volunteer"
+},
+{
+"text": "Water for Sand Branch Act",
+"href": "https://www.willcampbellfortexas.com/water-for-sand-branch-act"
+},
+{
+"text": "Wilson Campbell",
+"href": "https://www.willcampbellfortexas.com/releases?author=6940b32453b62b3eb0434232"
+},
+{
+"text": "[image: Will Campbell For Texas]",
+"href": "https://www.willcampbellfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WillCampbellForTexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@WillCampbellforTexas"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/WillForTexas"
+},
+{
+"text": "https://statutes.capitol.texas.gov/Docs/BC/htm/BC.521.htm",
+"href": "https://statutes.capitol.texas.gov/Docs/BC/htm/BC.521.htm"
+},
+{
+"text": "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.27.htm",
+"href": "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.27.htm"
+},
+{
+"text": "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.73.htm",
+"href": "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.73.htm"
+},
+{
+"text": "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.98B.htm",
+"href": "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.98B.htm"
+},
+{
+"text": "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.18B.htm",
+"href": "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.18B.htm"
+},
+{
+"text": "https://supreme.justia.com/cases/federal/us/376/254/",
+"href": "https://supreme.justia.com/cases/federal/us/376/254/"
+},
+{
+"text": "https://supreme.justia.com/cases/federal/us/418/323/",
+"href": "https://supreme.justia.com/cases/federal/us/418/323/"
+},
+{
+"text": "https://supreme.justia.com/cases/federal/us/497/1/",
+"href": "https://supreme.justia.com/cases/federal/us/497/1/"
+},
+{
+"text": "https://supreme.justia.com/cases/federal/us/514/334/",
+"href": "https://supreme.justia.com/cases/federal/us/514/334/"
+},
+{
+"text": "https://supreme.justia.com/cases/federal/us/530/57/",
+"href": "https://supreme.justia.com/cases/federal/us/530/57/"
+},
+{
+"text": "https://www.congress.gov/bill/115th-congress/senate-bill/2383",
+"href": "https://www.congress.gov/bill/115th-congress/senate-bill/2383"
+},
+{
+"text": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"href": "https://www.congress.gov/bill/119th-congress/senate-bill/146"
+},
+{
+"text": "https://www.copyright.gov/512/",
+"href": "https://www.copyright.gov/512/"
+},
+{
+"text": "https://www.gibsondunn.com/texas-supreme-court-unanimously-upholds-constitutionality-of-fifteenth-court-of-appeals/",
+"href": "https://www.gibsondunn.com/texas-supreme-court-unanimously-upholds-constitutionality-of-fifteenth-court-of-appeals/"
+},
+{
+"text": "https://www.law.cornell.edu/uscode/text/18/2701",
+"href": "https://www.law.cornell.edu/uscode/text/18/2701"
+},
+{
+"text": "https://www.law.cornell.edu/uscode/text/47/230",
+"href": "https://www.law.cornell.edu/uscode/text/47/230"
+},
+{
+"text": "https://www.supremecourt.gov/opinions/22pdf/21-468_5if6.pdf",
+"href": "https://www.supremecourt.gov/opinions/22pdf/21-468_5if6.pdf"
+},
+{
+"text": "https://www.supremecourt.gov/opinions/23pdf/22-277_d18f.pdf",
+"href": "https://www.supremecourt.gov/opinions/23pdf/22-277_d18f.pdf"
+},
+{
+"text": "https://www.supremecourt.gov/opinions/24pdf/23-1122_3e04.pdf",
+"href": "https://www.supremecourt.gov/opinions/24pdf/23-1122_3e04.pdf"
+},
+{
+"text": "willcampbellfortexas.com",
+"href": "https://willcampbellfortexas.com"
+}
 ]

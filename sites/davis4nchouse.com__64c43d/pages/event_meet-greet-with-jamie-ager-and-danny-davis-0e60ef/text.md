@@ -1,11 +1,12 @@
-- This event has passed.
-Meet & Greet with Jamie Ager and Danny Davis
-September 17 @ 5:30 pm – 7:30 pm
-Join Jamie Ager, candidate for U.S.
+Skip to content Yard signs now available!
+Contact (828) 400-4812 to request yours Home About Issues Disaster Recovery Economy Education Healthcare Public Safety Small Businesses Volunteer News Events Contact Donate Donate YARD SIGNS NOW AVAILABLE!
+CONTACT (828) 400-4812 TO REQUEST YOURS Home About Issues Disaster Recovery Economy Education Healthcare Public Safety Small Businesses Volunteer News Events Contact This event has passed. « All Events Meet & Greet with Jamie Ager and Danny Davis September 17 @ 5:30 pm – 7:30 pm Join Jamie Ager, candidate for U.S.
 Congress, and Danny Davis, candidate for North Carolina House District 118, for a community meet and greet at The Green Room at Frog Level Brewing.
 Come meet the candidates, ask questions, and share what matters most to you and your family.
 This is a casual opportunity to talk directly with Jamie and Danny about the future of Western North Carolina.
-Thursday, September 17
-5:30 p.m. – 7:30 p.m.
-The Green Room at Frog Level Brewing
-We hope to see you there!
+Thursday, September 17 5:30 p.m. – 7:30 p.m.
+The Green Room at Frog Level Brewing We hope to see you there!
+The Green Room at Frog Level Brewing 32 Commerce St Waynesville , North Carolina 28786 United States + Google Map Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Event Navigation « Meet and Greet with Danny Davis at the mailroom wine and beer lounge Pizza & Postcards » PAID FOR BY DAVIS FOR NC HOUSE 118 Email * Stay Informed QUICK LINKS Meet Danny Issues Contact GET INVOLVED Volunteer Events Donate STAY CONNECTED Facebook Instagram TikTok X/Twitter YouTube Contact: Danny@Davis4NCHouse.com | P.O.
+Box 196, Waynesville, NC 28786 Copyright © 2026 Davis For NC House 118 | Privacy Policy | Designed by WNC Web Design English English Deutsch Español Français Italiano Polski Svenska Suomi Português Română Slovenščina Slovenčina Nederlands Dansk Ελληνικά Čeština Magyar Lietuvių Latviešu Eesti Hrvatski Gaeilge Български Norsk Türkçe Bahasa Indonesia Português (Brasil) 日本語 한국어 简体中文 العربية Русский हिन्दी Українська Srpski English (UK) فارسی עברית Македонски ไทย Tiếng Việt Accessibility Adjustments Powered by OneTap Hide Toolbar Back How long do you want to hide the toolbar?
+Hide Toolbar Duration Only for this session 24 hours A Week Not Now Hide Toolbar Select your accessibility profile Vision Impaired Mode Enhances website's visuals Vision Impaired Mode Seizure Safe Profile Clear flashes & reduces color Seizure Safe Profile ADHD Friendly Mode Focused browsing, distraction-free ADHD Friendly Mode Blindness Mode Reduces distractions, improves focus Blindness Mode Epilepsy Safe Mode Dims colors and stops blinking Epilepsy Safe Mode Content Modules Font Size + Default - Readable Font Line Height + Default - Cursor Letter Spacing Align Text Font Weight Color Modules Light Contrast High Contrast Monochrome Orientation Modules Reading Line Reading Mask Hide Images Highlight Content Stop Animations Highlight Links Skip To Content Choose...
+Main Content Navigation Footer Reset Settings

@@ -1,12 +1,3 @@
-Cranston City Council vice president to fill open seat representing parts of Cranston and Providence…
-Skip to content Skip to footer Cranston City Council vice president to fill open seat representing parts of Cranston and Providence…
-document.cookie = 'nitroCachedPage=' + (!window.NITROPACK_STATE ?
-'0' : '1') + '; path=/; SameSite=Lax';
-if (!window.NITROPACK_STATE || window.NITROPACK_STATE != 'FRESH') {
-var proxyPurgeOnly = 0;
-if (typeof navigator.sendBeacon !== 'undefined') {
-var nitroData = new FormData(); nitroData.append('nitroBeaconUrl', 'aHR0cHM6Ly9sYW1taXN2YXJnYXMuY29tLzIwMjQvMTEv'); nitroData.append('nitroBeaconCookies', 'W10='); nitroData.append('nitroBeaconHash', 'a37ea1da725cab3eba44b44cb06ecab22cb5d6f076ff606e88650389a4bc36c649b72ef59424937fcd2fd0f541606f83d4fe25f3a86dba4ddd79bb9c53fe9c36'); nitroData.append('proxyPurgeOnly', ''); nitroData.append('layout', 'archive'); navigator.sendBeacon(location.href, nitroData);
-} else {
-var xhr = new XMLHttpRequest(); xhr.open('POST', location.href, true); xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded'); xhr.send('nitroBeaconUrl=aHR0cHM6Ly9sYW1taXN2YXJnYXMuY29tLzIwMjQvMTEv&nitroBeaconCookies=W10=&nitroBeaconHash=a37ea1da725cab3eba44b44cb06ecab22cb5d6f076ff606e88650389a4bc36c649b72ef59424937fcd2fd0f541606f83d4fe25f3a86dba4ddd79bb9c53fe9c36&proxyPurgeOnly=&layout=archive');
-}
-}
+Skip to content Skip to footer Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact donate Monthly Archives: November 2024 Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact Lammis Vargas Becomes Senator-Elect From District 28 Posted November 7, 2024 Cranston City Council vice president to fill open seat representing parts of Cranston and Providence… Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
+#teamlammis Facebook Instagram X-twitter Get Involved Meet Lammis Endorsements Platform Volunteer Contribute Contact Stay Tuned for Updates I have read and agree to the terms & conditions Leave this field empty if you're human: Copyright ©️ # Friends of Lammis J.
+Vargas | All Rights Reserved | Website Development & Design by J&R Marketing | Privacy Policy

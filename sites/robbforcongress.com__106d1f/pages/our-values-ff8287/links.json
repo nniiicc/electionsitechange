@@ -1,36 +1,150 @@
 [
-"https://bonfire.com/store/robb-for-congress",
-"https://bsky.app/profile/robbryerse.bsky.social",
-"https://discord.gg/q83xAjyXd7",
-"https://facebook.com/robbforarkansas",
-"https://instagram.com/robbryerse",
-"https://robbforcongress.com/",
-"https://robbforcongress.com/arkansas-3rd",
-"https://robbforcongress.com/contact",
-"https://robbforcongress.com/endorsements",
-"https://robbforcongress.com/meet-robb",
-"https://robbforcongress.com/our-values",
-"https://robbforcongress.com/post/affordable-housing",
-"https://robbforcongress.com/post/better-jobs-and-pay",
-"https://robbforcongress.com/post/fair-immigration",
-"https://robbforcongress.com/post/fight-climate-change",
-"https://robbforcongress.com/post/fix-the-justice-system",
-"https://robbforcongress.com/post/get-big-money-out-of-politics",
-"https://robbforcongress.com/post/give-every-kid-a-real-shot",
-"https://robbforcongress.com/post/health-care-for-all",
-"https://robbforcongress.com/post/honor-service-with-support",
-"https://robbforcongress.com/post/keep-communities-safe",
-"https://robbforcongress.com/post/lead-with-honesty",
-"https://robbforcongress.com/post/no-one-should-struggle-alone",
-"https://robbforcongress.com/post/protect-personal-choices",
-"https://robbforcongress.com/post/protect-religious-freedom",
-"https://robbforcongress.com/post/protect-social-security-medicaid-medicare",
-"https://robbforcongress.com/post/protecting-democracy",
-"https://robbforcongress.com/post/put-families-first-in-the-tax-code",
-"https://robbforcongress.com/post/refuse-to-be-divided",
-"https://robbforcongress.com/post/stand-for-freedom-everywhere",
-"https://robbforcongress.com/post/stand-up-for-civil-rights",
-"https://secure.actblue.com/donate/robbforcongressdotcom",
-"https://x.com/RobbRyerse",
-"https://youtube.com/@RobbforCongress"
+{
+"text": "Arkansas' 3rd District",
+"href": "https://www.robbforcongress.com/arkansas-3rd"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.robbforcongress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/robbforcongressdotcom"
+},
+{
+"text": "Endorsements",
+"href": "https://www.robbforcongress.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.robbforcongress.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.robbforcongress.com"
+},
+{
+"text": "Meet Robb",
+"href": "https://www.robbforcongress.com/meet-robb"
+},
+{
+"text": "Our Values",
+"href": "https://www.robbforcongress.com/our-values"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/affordable-housing"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/better-jobs-and-pay"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/fair-immigration"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/fight-climate-change"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/fix-the-justice-system"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/get-big-money-out-of-politics"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/give-every-kid-a-real-shot"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/health-care-for-all"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/honor-service-with-support"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/keep-communities-safe"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/lead-with-honesty"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/no-one-should-struggle-alone"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/protect-personal-choices"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/protect-religious-freedom"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/protect-social-security-medicaid-medicare"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/protecting-democracy"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/put-families-first-in-the-tax-code"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/refuse-to-be-divided"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/stand-for-freedom-everywhere"
+},
+{
+"text": "Read More →",
+"href": "https://www.robbforcongress.com/post/stand-up-for-civil-rights"
+},
+{
+"text": "Store",
+"href": "https://www.bonfire.com/store/robb-for-congress/"
+},
+{
+"text": "[image: Discord]",
+"href": "https://discord.gg/q83xAjyXd7"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/robbforarkansas"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/robbryerse"
+},
+{
+"text": "[image: Robb - 3.png]",
+"href": "https://www.robbforcongress.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/RobbRyerse"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@RobbforCongress"
+},
+{
+"text": "[image: bluesky_edited]",
+"href": "https://bsky.app/profile/robbryerse.bsky.social"
+},
+{
+"text": "info@robbforcongress.com",
+"href": "mailto:info@robbforcongress.com"
+}
 ]

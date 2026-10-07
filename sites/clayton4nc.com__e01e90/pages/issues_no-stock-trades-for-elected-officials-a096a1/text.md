@@ -1,4 +1,3 @@
-David Clayton believes in
-No Stock Trades For Elected Officials
-This bill bans stock buys for government officials who have blatant conflict of interests in carrying out their governing duties.
+Skip navigation menu Home About Issues Events Volunteer Contact Donate Home About Issues Events Volunteer Contact Donate Homeless Veterans The Social Security, Medicaid, & Medicare Protections Act The Patient Priority Act No Stock Trades For Elected Officials National Conflict of Interest Bill Incumbent Representative Campaign Reform Congressional Wage / Minimum Wage Reciprocity Act The Policing Wellness Act The Due Process Act Zero Kings Act David Clayton believes in No Stock Trades For Elected Officials This bill bans stock buys for government officials who have blatant conflict of interests in carrying out their governing duties.
 This bill also expands the ban on stock buys to elected officials' family members and all federally appointed positions.
+Stronger Together & Together Stronger Powered by RUN! website builder Paid for by Clayton4Congress You need to enable JavaScript to run this app.

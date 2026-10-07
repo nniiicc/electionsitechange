@@ -1,10 +1,4 @@
-FOR IMMEDIATE RELEASE
-July 27, 2016
-Contact: Mike Trujillo
-Mike[at]barraganforcongress[dot]com
-Barragán Neck and Neck With Hall in New CA-44 Poll
-With 3.41% margin of error results show race at 38-34
-SAN PEDRO – A new poll conducted by Clarity Campaign Labs, shows a virtually tied race between Nanette Barragán and Isadore Hall and illustrates a new political reality in the campaign for California’s 44th congressional district.
+Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Previous Next Barragán Neck and Neck With Hall in New CA-44 Poll FOR IMMEDIATE RELEASE July 27, 2016 Contact: Mike Trujillo Mike[at]barraganforcongress[dot]com Barragán Neck and Neck With Hall in New CA-44 Poll With 3.41% margin of error results show race at 38-34 SAN PEDRO – A new poll conducted by Clarity Campaign Labs, shows a virtually tied race between Nanette Barragán and Isadore Hall and illustrates a new political reality in the campaign for California’s 44th congressional district.
 When examining the choice of voters in the new general election electorate, without any new positive or negative information presented to voters, Hall actually performs worse than he did in the primary, losing two percentage points of support while Barragán shoots up twelve points from her finish in June.
 The poll was conducted in English and Spanish on both land lines and cell phones, from 7/23-7/25 among 737 likely voters in the general election with a margin of error of 3.41%.
 The poll also showed a tie in the race for U.S.
@@ -13,4 +7,6 @@ Senate with California Attorney General Kamala Harris receiving 38% of the vote 
 Nanette offers a fresh, thoughtful, new way of getting things done.
 The dynamics in this race have shifted in a significant way and we have a lot of momentum.
 We still have work to do, but the race is turning in our favor,” said Barragán campaign manager Michael Trujillo.
-###
+### Stacy Lona 2016-08-02T11:13:53-07:00 August 2nd, 2016 | Endorsements , Nanette Barragán news | Share This Story, Choose Your Platform!
+Facebook Twitter Linkedin Reddit Tumblr Google+ Pinterest Email Related Posts ICYMI: Our Revolution Backs Nanette Barragán for Congress ICYMI: Our Revolution Backs Nanette Barragán for Congress Daily Breeze Endorses Nanette Barragán in CA-44 Daily Breeze Endorses Nanette Barragán in CA-44 Chicano Latino Immigrant Democratic Club of Los Angeles County Endorses Nanette Barragán Chicano Latino Immigrant Democratic Club of Los Angeles County Endorses Nanette Barragán Former CA-44 Republican Candidate Christopher Castillo Endorses Nanette Barragán Former CA-44 Republican Candidate Christopher Castillo Endorses Nanette Barragán Primary Opponent Marcus Musante Endorses Nanette Barragán in CA-44 General Election Primary Opponent Marcus Musante Endorses Nanette Barragán in CA-44 General Election Like Nanette On Facebook Follow Nanette on Twitter Tweets by @MayorPTBarragan Popular Recent CLCV & LCV Action Fund Endorse Nanette Barragán for Congress December 11th, 2015 Labor Leader and Civil Rights Icon Dolores Huerta Endorses Nanette Barragán in CA-44 June 24th, 2016 Assemblymember Mike Gatto Endorses Nanette Barragán for Congress June 20th, 2016 Isadore Hall Pressures Insiders To Silence Nanette Diaz Barragán At Protest Of Trump’s Treatment Of Women & Minorities October 3rd, 2016 ICYMI: Our Revolution Backs Nanette Barragán for Congress September 29th, 2016 Daily Breeze Endorses Nanette Barragán in CA-44 September 28th, 2016 Mail: 1840 S.
+Gaffey Street, #421 San Pedro, CA 90731 Phone: 424-206-3963 or Email: info@barraganforcongress.com

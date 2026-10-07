@@ -1,7 +1,42 @@
 [
-"https://mainewebsite.design/",
-"https://mikeperkinsformainehouse.com/",
-"https://mikeperkinsformainehouse.com/about",
-"https://mikeperkinsformainehouse.com/contact",
-"https://mikeperkinsformainehouse.com/issues"
+{
+"text": "About",
+"href": "https://mikeperkinsformainehouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://mikeperkinsformainehouse.com/contact"
+},
+{
+"text": "Get involved",
+"href": "https://mikeperkinsformainehouse.com/contact"
+},
+{
+"text": "Home",
+"href": "https://mikeperkinsformainehouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://mikeperkinsformainehouse.com/issues"
+},
+{
+"text": "Join the campaign",
+"href": "https://mikeperkinsformainehouse.com/contact"
+},
+{
+"text": "Mike Perkins for Maine House",
+"href": "https://mikeperkinsformainehouse.com/"
+},
+{
+"text": "mainewebsite.design",
+"href": "https://mainewebsite.design"
+},
+{
+"text": "📞Call",
+"href": "tel:+12077166968"
+},
+{
+"text": "📩Email",
+"href": "mailto:mike@kmddrivingschool.com"
+}
 ]

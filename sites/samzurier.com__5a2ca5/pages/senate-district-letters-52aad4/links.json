@@ -1,86 +1,342 @@
 [
-"http://may-28-2023-district-letter/",
-"https://samzurier.com/",
-"https://samzurier.com/2021-22-budget-documents",
-"https://samzurier.com/2023-budget-documents",
-"https://samzurier.com/2024-senate-district-letters",
-"https://samzurier.com/2025-district-letters",
-"https://samzurier.com/2026-district-letters",
-"https://samzurier.com/about-sam-zurier",
-"https://samzurier.com/april-10-2022-letter",
-"https://samzurier.com/april-17-2022-letter",
-"https://samzurier.com/april-2-2023-letter",
-"https://samzurier.com/april-24-letter",
-"https://samzurier.com/april-3-2022-letter",
-"https://samzurier.com/april-30-district-letter",
-"https://samzurier.com/april-9-2023-letter",
-"https://samzurier.com/august-16-2022-letter",
-"https://samzurier.com/august-25-2023-letter",
-"https://samzurier.com/december-12-2021-letter",
-"https://samzurier.com/december-18-2022-district-letter",
-"https://samzurier.com/december-19-2021-letter",
-"https://samzurier.com/december-3-2023-letter",
-"https://samzurier.com/december-9-2021-letter",
-"https://samzurier.com/donate",
-"https://samzurier.com/february-12-2023-district-letter",
-"https://samzurier.com/february-13-2022-district-letter",
-"https://samzurier.com/february-19-2023-letter",
-"https://samzurier.com/february-20-2022-letter",
-"https://samzurier.com/february-27-2022-letter",
-"https://samzurier.com/february-5-2023-district-letter",
-"https://samzurier.com/february-6-2022-district-letter",
-"https://samzurier.com/january-1-letter",
-"https://samzurier.com/january-15-2023-letter",
-"https://samzurier.com/january-16-2022-letter",
-"https://samzurier.com/january-22-2023-letter",
-"https://samzurier.com/january-23-2022-district-letter",
-"https://samzurier.com/january-29-2023-district-letter",
-"https://samzurier.com/january-30-2022-district-letter",
-"https://samzurier.com/january-8-2023-district-letter",
-"https://samzurier.com/january-9-2022-letter",
-"https://samzurier.com/join-my-email-list",
-"https://samzurier.com/july-10-2022-letter",
-"https://samzurier.com/july-3-2022-letter",
-"https://samzurier.com/june-11-2023-district-letter",
-"https://samzurier.com/june-12-2022-district-letter",
-"https://samzurier.com/june-18-2023-district-letter",
-"https://samzurier.com/june-19-2022-district-letter",
-"https://samzurier.com/june-26-2022-district-letter",
-"https://samzurier.com/june-4-2023-district-letter",
-"https://samzurier.com/june-5-2022-district-letter",
-"https://samzurier.com/legislative-grants",
-"https://samzurier.com/march-12-2023-district-letter",
-"https://samzurier.com/march-13-letter",
-"https://samzurier.com/march-19-2023-letter",
-"https://samzurier.com/march-20-2022-letter",
-"https://samzurier.com/march-26-2023-letter",
-"https://samzurier.com/march-27-2022-letter",
-"https://samzurier.com/march-5-2023-district-letter",
-"https://samzurier.com/march-6-2022-letter",
-"https://samzurier.com/may-1-letter",
-"https://samzurier.com/may-14-2023-district-letter",
-"https://samzurier.com/may-15-letter",
-"https://samzurier.com/may-21-2023-letter",
-"https://samzurier.com/may-22-2022-district-letter",
-"https://samzurier.com/may-29-2022-district-letter",
-"https://samzurier.com/may-7-2023-district-letter",
-"https://samzurier.com/may-8-letter",
-"https://samzurier.com/my-work-2",
-"https://samzurier.com/november-19-2023-letter",
-"https://samzurier.com/november-5-2023-letter",
-"https://samzurier.com/november-5-2023-letter-2",
-"https://samzurier.com/october-1-letter",
-"https://samzurier.com/october-2-2022-letter",
-"https://samzurier.com/october-30-2022-letter",
-"https://samzurier.com/public-service-record",
-"https://samzurier.com/senate-district-letters",
-"https://samzurier.com/senate-oversight-hearings-on-the-providence-schools-takeover",
-"https://samzurier.com/september-14-2022-letter",
-"https://samzurier.com/state-issues",
-"https://samzurier.com/state-legislation",
-"https://samzurier.com/the-administrations-2030-working-document",
-"https://samzurier.com/the-american-rescue-plan-act-part-1-copy",
-"https://samzurier.com/the-general-principles-of-arpas-state-fiscal-relief-fund",
-"https://samzurier.com/the-general-principles-of-arpas-state-fiscal-relief-fund-copy",
-"https://samzurier.com/wp-content/uploads/2022-Introductory-Letter-2.0.pdf"
+{
+"text": "2022-23 District Letters",
+"href": "https://samzurier.com/senate-district-letters/"
+},
+{
+"text": "2024 District Letters",
+"href": "https://samzurier.com/2024-senate-district-letters/"
+},
+{
+"text": "2025 District Letters",
+"href": "https://samzurier.com/2025-district-letters/"
+},
+{
+"text": "2026 District Letters",
+"href": "https://samzurier.com/2026-district-letters/"
+},
+{
+"text": "April 10 letter",
+"href": "https://samzurier.com/april-10-2022-letter/"
+},
+{
+"text": "April 17",
+"href": "https://samzurier.com/april-17-2022-letter/"
+},
+{
+"text": "April 2",
+"href": "https://samzurier.com/april-2-2023-letter/"
+},
+{
+"text": "April 23 letter",
+"href": "https://samzurier.com/april-30-district-letter/"
+},
+{
+"text": "April 24 letter",
+"href": "https://samzurier.com/april-24-letter/"
+},
+{
+"text": "April 3 letter",
+"href": "https://samzurier.com/april-3-2022-letter/"
+},
+{
+"text": "April 9 letter",
+"href": "https://samzurier.com/april-9-2023-letter/"
+},
+{
+"text": "August 16 letter",
+"href": "https://samzurier.com/august-16-2022-letter/"
+},
+{
+"text": "August 25 letter",
+"href": "https://samzurier.com/august-25-2023-letter/"
+},
+{
+"text": "Bio",
+"href": "https://samzurier.com/about-sam-zurier/"
+},
+{
+"text": "Budget Documents Page",
+"href": "https://samzurier.com/2021-22-budget-documents/"
+},
+{
+"text": "DONATE",
+"href": "https://samzurier.com/donate/"
+},
+{
+"text": "December 12 letter",
+"href": "https://samzurier.com/december-12-2021-letter/"
+},
+{
+"text": "December 18 letter",
+"href": "https://samzurier.com/december-18-2022-district-letter/"
+},
+{
+"text": "December 19 letter",
+"href": "https://samzurier.com/december-19-2021-letter/"
+},
+{
+"text": "December 3 letter",
+"href": "https://samzurier.com/december-3-2023-letter/"
+},
+{
+"text": "December 5 letter",
+"href": "https://samzurier.com/the-general-principles-of-arpas-state-fiscal-relief-fund-copy/"
+},
+{
+"text": "December 9, 2021 Letter",
+"href": "https://samzurier.com/december-9-2021-letter/"
+},
+{
+"text": "February 12 letter",
+"href": "https://samzurier.com/february-12-2023-district-letter/"
+},
+{
+"text": "February 13, 2022 letter",
+"href": "https://samzurier.com/february-13-2022-district-letter/"
+},
+{
+"text": "February 19 letter",
+"href": "https://samzurier.com/february-19-2023-letter/"
+},
+{
+"text": "February 20, 2022 Letter",
+"href": "https://samzurier.com/february-20-2022-letter/"
+},
+{
+"text": "February 27, 2022 Letter",
+"href": "https://samzurier.com/february-27-2022-letter/"
+},
+{
+"text": "February 5 letter",
+"href": "https://samzurier.com/february-5-2023-district-letter/"
+},
+{
+"text": "February 6, 2022",
+"href": "https://samzurier.com/february-6-2022-district-letter/"
+},
+{
+"text": "Home",
+"href": "https://samzurier.com/"
+},
+{
+"text": "January 1 letter",
+"href": "https://samzurier.com/january-1-letter/"
+},
+{
+"text": "January 15 letter",
+"href": "https://samzurier.com/january-15-2023-letter/"
+},
+{
+"text": "January 16, 2022 Letter",
+"href": "https://samzurier.com/january-16-2022-letter/"
+},
+{
+"text": "January 22 letter",
+"href": "https://samzurier.com/january-22-2023-letter/"
+},
+{
+"text": "January 23, 2022 letter",
+"href": "https://samzurier.com/january-23-2022-district-letter/"
+},
+{
+"text": "January 29 letter",
+"href": "https://samzurier.com/january-29-2023-district-letter/"
+},
+{
+"text": "January 30, 2022 letter,",
+"href": "https://samzurier.com/january-30-2022-district-letter/"
+},
+{
+"text": "January 8 letter",
+"href": "https://samzurier.com/january-8-2023-district-letter/"
+},
+{
+"text": "January 9, 2022 Letter",
+"href": "https://samzurier.com/january-9-2022-letter/"
+},
+{
+"text": "Join My Email List",
+"href": "https://samzurier.com/join-my-email-list/"
+},
+{
+"text": "July 10, 2022 letter",
+"href": "https://samzurier.com/july-10-2022-letter/"
+},
+{
+"text": "July 3, 2022",
+"href": "https://samzurier.com/july-3-2022-letter/"
+},
+{
+"text": "June 11 letter",
+"href": "https://samzurier.com/june-11-2023-district-letter/"
+},
+{
+"text": "June 12, 2022 letter",
+"href": "https://samzurier.com/june-12-2022-district-letter/"
+},
+{
+"text": "June 18 letter",
+"href": "https://samzurier.com/june-18-2023-district-letter/"
+},
+{
+"text": "June 19, 2022",
+"href": "https://samzurier.com/june-19-2022-district-letter/"
+},
+{
+"text": "June 26, 2022 letter",
+"href": "https://samzurier.com/june-26-2022-district-letter/"
+},
+{
+"text": "June 4 letter",
+"href": "https://samzurier.com/june-4-2023-district-letter/"
+},
+{
+"text": "June 5, 2022 letter",
+"href": "https://samzurier.com/june-5-2022-district-letter/"
+},
+{
+"text": "March 12 letter",
+"href": "https://samzurier.com/march-12-2023-district-letter/"
+},
+{
+"text": "March 13 letter",
+"href": "https://samzurier.com/march-13-letter/"
+},
+{
+"text": "March 19 letter",
+"href": "https://samzurier.com/march-19-2023-letter/"
+},
+{
+"text": "March 20 letter",
+"href": "https://samzurier.com/march-20-2022-letter/"
+},
+{
+"text": "March 26, 2023 letter",
+"href": "https://samzurier.com/march-26-2023-letter/"
+},
+{
+"text": "March 27 letter",
+"href": "https://samzurier.com/march-27-2022-letter/"
+},
+{
+"text": "March 5 letter",
+"href": "https://samzurier.com/march-5-2023-district-letter/"
+},
+{
+"text": "March 6, 2022 Letter",
+"href": "https://samzurier.com/march-6-2022-letter/"
+},
+{
+"text": "May 1 letter",
+"href": "https://samzurier.com/may-1-letter/"
+},
+{
+"text": "May 14 letter",
+"href": "https://samzurier.com/may-14-2023-district-letter/"
+},
+{
+"text": "May 15 letter",
+"href": "https://samzurier.com/may-15-letter/"
+},
+{
+"text": "May 21 letter",
+"href": "https://samzurier.com/may-21-2023-letter/"
+},
+{
+"text": "May 22, 2022 letter",
+"href": "https://samzurier.com/may-22-2022-district-letter/"
+},
+{
+"text": "May 28 letter",
+"href": "http://may-28-2023-district-letter"
+},
+{
+"text": "May 29, 2022",
+"href": "https://samzurier.com/may-29-2022-district-letter/"
+},
+{
+"text": "May 7 letter",
+"href": "https://samzurier.com/may-7-2023-district-letter/"
+},
+{
+"text": "May 8 letter",
+"href": "https://samzurier.com/may-8-letter/"
+},
+{
+"text": "November 14 letter",
+"href": "https://samzurier.com/the-general-principles-of-arpas-state-fiscal-relief-fund/"
+},
+{
+"text": "November 19 letter",
+"href": "https://samzurier.com/november-19-2023-letter/"
+},
+{
+"text": "November 21 letter",
+"href": "https://samzurier.com/the-administrations-2030-working-document/"
+},
+{
+"text": "November 24 letter",
+"href": "https://samzurier.com/legislative-grants/"
+},
+{
+"text": "November 28 letter",
+"href": "https://samzurier.com/the-american-rescue-plan-act-part-1-copy/"
+},
+{
+"text": "November 5 letter",
+"href": "https://samzurier.com/november-5-2023-letter-2/"
+},
+{
+"text": "November 5 letter",
+"href": "https://samzurier.com/senate-oversight-hearings-on-the-providence-schools-takeover/"
+},
+{
+"text": "October 1 letter",
+"href": "https://samzurier.com/october-1-letter/"
+},
+{
+"text": "October 2 letter",
+"href": "https://samzurier.com/october-2-2022-letter/"
+},
+{
+"text": "October 29 letter",
+"href": "https://samzurier.com/november-5-2023-letter/"
+},
+{
+"text": "October 30 letter",
+"href": "https://samzurier.com/october-30-2022-letter/"
+},
+{
+"text": "Projects",
+"href": "https://samzurier.com/my-work-2/"
+},
+{
+"text": "Public Service Record",
+"href": "https://samzurier.com/public-service-record/"
+},
+{
+"text": "September 14 letter",
+"href": "https://samzurier.com/september-14-2022-letter/"
+},
+{
+"text": "State Issues",
+"href": "https://samzurier.com/state-issues/"
+},
+{
+"text": "State Legislation",
+"href": "https://samzurier.com/state-legislation/"
+},
+{
+"text": "[image: Sam Zurier New Site]",
+"href": "https://samzurier.com/"
+},
+{
+"text": "clicking here",
+"href": "https://samzurier.com/2023-budget-documents/"
+},
+{
+"text": "letter",
+"href": "https://samzurier.com/wp-content/uploads/2022-Introductory-Letter-2.0.pdf"
+}
 ]

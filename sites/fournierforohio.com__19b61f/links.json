@@ -1,5 +1,26 @@
 [
-"https://fournierforohio.com/get-involved",
-"https://fournierforohio.com/race-facts",
-"https://secure.actblue.com/donate/fournierforohio"
+{
+"text": "Chip in today",
+"href": "https://secure.actblue.com/donate/fournierforohio"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/fournierforohio"
+},
+{
+"text": "Donate to Dave",
+"href": "https://secure.actblue.com/donate/fournierforohio"
+},
+{
+"text": "Join the campaign",
+"href": "https://www.fournierforohio.com/get-involved"
+},
+{
+"text": "Race Facts",
+"href": "https://www.fournierforohio.com/race-facts"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fournierforohio.com/get-involved"
+}
 ]

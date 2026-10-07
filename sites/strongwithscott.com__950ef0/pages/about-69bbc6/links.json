@@ -1,6 +1,18 @@
 [
-"https://secure.actblue.com/donate/scott-charland-1",
-"https://strongwithscott.com/",
-"https://strongwithscott.com/about",
-"https://strongwithscott.com/cart"
+{
+"text": "0",
+"href": "https://www.strongwithscott.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.strongwithscott.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/scott-charland-1"
+},
+{
+"text": "strongwithscott",
+"href": "https://www.strongwithscott.com/"
+}
 ]

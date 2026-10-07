@@ -1,7 +1,11 @@
 {
  "description": "Christopher Dean in the News",
  "final_url": "https://www.christopherdeanforwisconsin.com/news",
+ "fingerprint": "429111d64a63794303cc41e39dedc37151efc05d",
+ "format": 3,
  "paid_for_by": "Paid for by Christopher Dean For Wisconsin Powered by CampaignPartner",
  "title": "News",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,8 +1,30 @@
 [
-"https://facebook.com/profile.php?id=61584941790418",
-"https://instagram.com/jessicabichlernc",
-"https://jessicabichler.com/",
-"https://jessicabichler.com/issues",
-"https://jessicabichler.com/meetjessica",
-"https://secure.actblue.com/donate/jb-website"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jb-website"
+},
+{
+"text": "Home",
+"href": "https://www.jessicabichler.com"
+},
+{
+"text": "Issues",
+"href": "https://www.jessicabichler.com/issues"
+},
+{
+"text": "Meet Jessica",
+"href": "https://www.jessicabichler.com/meetjessica"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61584941790418"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jessicabichlernc/"
+},
+{
+"text": "[image: Jessica Bichler for NC Senate logo wilmington]",
+"href": "https://www.jessicabichler.com"
+}
 ]

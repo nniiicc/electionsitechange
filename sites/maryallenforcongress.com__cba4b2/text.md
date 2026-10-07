@@ -1,5 +1,5 @@
-One of us fighting for all of US!
-MEET MARY
-Mary is an At-Large City Councilor, small business owner, and Army Reserve veteran dedicated to serving Evansville and beyond.
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate One of us fighting for all of US!
+Get Connected MEET MARY Mary is an At-Large City Councilor, small business owner, and Army Reserve veteran dedicated to serving Evansville and beyond.
 With over 30 years in Indiana, she’s worked to strengthen communities through nonprofit leadership, economic revitalization, and local health initiatives.
 Now, Mary is running for Congress to bring people together, tackle real problems, and create more opportunities for the next generation.
+Learn more about Mary → REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

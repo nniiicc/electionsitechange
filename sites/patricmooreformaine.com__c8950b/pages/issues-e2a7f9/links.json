@@ -1,14 +1,70 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com//PatricMooreForMaineSenate",
-"https://instagram.com/patricmooreformaine",
-"https://patricmooreformaine.com/",
-"https://patricmooreformaine.com/about",
-"https://patricmooreformaine.com/contact",
-"https://patricmooreformaine.com/donate",
-"https://patricmooreformaine.com/issues/issue-1",
-"https://patricmooreformaine.com/issues/issue-2",
-"https://patricmooreformaine.com/issues/lower-costs",
-"https://patricmooreformaine.com/issues/strengthen-our-local-economy",
-"https://patricmooreformaine.com/volunteer"
+{
+"text": "About",
+"href": "https://www.patricmooreformaine.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.patricmooreformaine.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.patricmooreformaine.com/donate"
+},
+{
+"text": "Expand Housing",
+"href": "https://www.patricmooreformaine.com/issues/issue-1"
+},
+{
+"text": "Home",
+"href": "https://www.patricmooreformaine.com/"
+},
+{
+"text": "Lower Costs",
+"href": "https://www.patricmooreformaine.com/issues/lower-costs"
+},
+{
+"text": "Protect Healthcare",
+"href": "https://www.patricmooreformaine.com/issues/issue-2"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Strengthen our Local Economy",
+"href": "https://www.patricmooreformaine.com/issues/strengthen-our-local-economy"
+},
+{
+"text": "View more",
+"href": "https://www.patricmooreformaine.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.patricmooreformaine.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.patricmooreformaine.com/issues/lower-costs"
+},
+{
+"text": "View more",
+"href": "https://www.patricmooreformaine.com/issues/strengthen-our-local-economy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.patricmooreformaine.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//PatricMooreForMaineSenate"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/patricmooreformaine"
+},
+{
+"text": "patricmooreformaine@gmail.com",
+"href": "mailto:patricmooreformaine@gmail.com"
+}
 ]

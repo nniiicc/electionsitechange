@@ -1,8 +1,7 @@
-| |
-| My Two Cents of Common Sense |
-| Representative Adam Smith 300 SW 10th St, Office 185N Topeka, KS 66612 785-296-0715 (Office) 785-821-2568 (Cell) |
-| “Northwest Kansas holds some truly inspiring scenery, contains a wealth of Old West history, possesses some of the finest educational institutions, promotes an entrepreneurial spirit, and is home to some of the most hard-working, genuine people I’ve ever met!” ~ Adam Smith |
-| Kansas passes convention of states U.S.
+Skip to content Skip to content Representative Adam Smith Adam.Smith@House.KS.Gov Adam.Smith@House.KS.Gov Open Menu Home Latest News About Contact Close Menu Close Menu Contribute Donate Now My Two Cents of Common Cents January 29, 2026 Newsletter Happy Kansas Day, Details on passage of Article V resolution ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ My Two Cents of Common Sense Representative Adam Smith 300 SW 10th St, Office 185N Topeka, KS 66612 785-296-0715 (Office) 785-821-2568 (Cell) Adam.Smith@House.KS.Gov “Northwest Kansas holds some truly inspiring scenery, contains a wealth of Old West history, possesses some of the finest educational institutions, promotes an entrepreneurial spirit, and is home to some of the most hard-working, genuine people I’ve ever met!” ~ Adam Smith Happy Kansas Day!
+CJOnline – The Topeka Capital-Journal Click the image above to listen to the singing of “Home on the Range” performed inside the Capitol rotunda on the first floor.
+Kansas, you don’t look a day over 150!
+Kansas passes convention of states U.S.
 Constitution: Article V The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents and Purposes, as Part of this Constitution, when ratified by the Legislatures of three fourths of the several States, or by Conventions in three fourths thereof, as the one or the other Mode of Ratification may be proposed by the Congress; Provided that no Amendment which may be made prior to the Year One thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article; and that no State, without its Consent, shall be deprived of its equal Suffrage in the Senate.
 With the passage of SCR1604 last week, Kansas has made application to the U.S.
 Congress to call a convention of states for the purposes of imposing fiscal restraints on the federal government, imposing limits on the power and jurisdiction of the federal government, and establishing term limits for members of Congress and federal officials.
@@ -57,8 +56,8 @@ In 1992, after 202 years, it finally met the requirements for ratification and b
 If you know a student needing a unique research project, have them chronicle the ratification of the 27th Amendment – it’s a fascinating story of the legal process and civic engagement!
 Four states still have not ratified it.
 Nebraska was the most recent in 2016.
-Kansas ratified it in 1990. |
-| House of Representatives Paging Do you know any students who may be interested in being a Legislative Page for a day?
+Kansas ratified it in 1990.
+House of Representatives Paging Do you know any students who may be interested in being a Legislative Page for a day?
 I am taking requests for the new session and would love to sponsor anyone with an interest in experiencing a day in the House of Representatives!
 You are not required to by a resident of my district for me to sponsor you – although I certainly give priority to the northwest Kansas folks!
 The Legislative Page Program offers a memorable experience in the Kansas Capitol.
@@ -71,7 +70,12 @@ Tour the Capitol, including the inspiring “Dome Tour”, as your free time all
 Upon completion, you will receiver a formal certificate recognizing your service to the state!
 Each legislator is allowed a limited number of Page sponsorships per month on a first-come, first-serve basis.
 Be sure to get your requests in as soon as possible.
-If you have further questions, please contact me at 785-296-0715 or Adam.Smith@House.KS.Gov. |
-| I strive to create and maintain constituent relationships through good communication.
+If you have further questions, please contact me at 785-296-0715 or Adam.Smith@House.KS.Gov .
+I strive to create and maintain constituent relationships through good communication.
 Two-way discussion is essential to my effectiveness as a legislator in promoting successful solutions for Northwest Kansas!
-Please consider subscribing to my contact list or send me an email and I would be happy to add you! |
+Please consider subscribing to my contact list or send me an email and I would be happy to add you!
+Copyright (C) # Smith For Kansas.
+All rights reserved.
+You are receiving this email because you requested to receive newsletters and other legislative and campaign updates from SmithForKansas.com Our mailing address is: Smith For Kansas 1970 Road 3 Weskan, KS 67762 USA Want to change how you receive these emails?
+You can update your preferences or unsubscribe Related Posts My Two Cents of Common Sense My Two Cents of Common Sense February 20, 2026 February 20, 2026 9:40 AM Legislative Update from Adam Smith Property tax relief plan details and vote, and the ban on cell phones in schools[...] Read More Read More Search Search Latest Posts Proposed Transmission Line Public Meeting September 29, 2026 Smith Releases Property Tax Relief Plan July 20, 2026 June Water Task Force Meeting June 18, 2026 Challenge for the 120th District Seat June 1, 2026 Smith Responds to Masterson on Property Taxes April 13, 2026 Capitol Office 300 SW 10th Street Topeka, KS 66612 185-N (First Floor, North Wing) 785-296-0715 Copyright © # All Rights Reserved.
+Resources Kansas Legislature Kansas Historical Society Kansas.gov Search Search for:

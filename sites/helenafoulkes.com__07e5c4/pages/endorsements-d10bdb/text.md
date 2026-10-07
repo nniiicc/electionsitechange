@@ -1,45 +1,5 @@
-Federal, State, and Local Leaders
-Speaker Emerita Nancy Pelosi
-Attorney General Peter Neronha
-Mayor Frank Picozzi, Warwick
-Mayor Joseph Polisena Jr., Johnston
-Mayor Jeffrey Mutter, Cumberland
-Former Congressman Patrick Kennedy
-Mayor Maria Rivera, Central Falls
-Representative Edith Ajello
-Representative Karen Alzate
-Cranston City Councilman Andy Andujar
-Pawtucket School Committee Member Juan Pablo Barrera
-Representative Nathan Biah
-Representative Jennifer Boylan
-Representative Lauren Carson
-Representative Julie Casimiro
-Representative Terri Cortvriend
-Representative Gregory J.
-Costantino
-Representative Grace Diaz
-Representative Susan R.
-Donovan
-Providence City Councilman Pedro Espinal
-Central Falls City Councilman Kevin Kazarian
-Representative Rebecca Kislak
-Central Falls City Council-at-Large Laurilim Rosado Martinez
-Paula McFarland, Chair of the Cranston Tax Assessor’s Appeals Board
-Representative Michelle McGaw
-Portsmouth Town Councilor Juan Carlos Payero
-Central Falls City Councilman Rafael Peguero
-Representative Robert Phillips
-Representative Brandon Potter
-Central Falls City Council President Pro Tempore Alberto Rivas-Lugo
-East Providence City Council President Robert Rodericks
-Representative Scott Slater
-Central Falls City Councilman Anthony Solano
-Central Falls City Councilman Franklin Solano
-Providence School Board President Ty’Relle Stephens
-Representative Jennifer A.
-Stewart
-Representative Teresa Tanzi
-Providence City Councilman James Taylor
-Senator Brian J.
-Thompson
-Providence City Councilwoman Ana Vargas
+Skip to content Home Plans Endorsements Vote Store Get a Yard Sign Home Plans Endorsements Vote Store Get a Yard Sign Facebook-f Instagram X-twitter Volunteer Donate Home Plans Endorsements Vote Store Get a Yard Sign Home Plans Endorsements Vote Store Get a Yard Sign Facebook-f Instagram X-twitter Home Plans Endorsements Vote Store Get a Yard Sign Volunteer Donate Facebook-f Instagram X-twitter Endorsements Federal, State, and Local Leaders Speaker Emerita Nancy Pelosi Attorney General Peter Neronha Mayor Frank Picozzi, Warwick Mayor Joseph Polisena Jr., Johnston Mayor Jeffrey Mutter, Cumberland Former Congressman Patrick Kennedy Mayor Maria Rivera, Central Falls Representative Edith Ajello Representative Karen Alzate Cranston City Councilman Andy Andujar Pawtucket School Committee Member Juan Pablo Barrera Representative Nathan Biah Representative Jennifer Boylan Representative Lauren Carson Representative Julie Casimiro Representative Terri Cortvriend Representative Gregory J.
+Costantino Representative Grace Diaz Senator Louis DiPalma Representative Susan R.
+Donovan Providence City Councilman Pedro Espinal Senator Meghan Kallman Central Falls City Councilman Kevin Kazarian Representative Rebecca Kislak Senator Pamela Lauria Senator Tiara Mack Central Falls City Council-at-Large Laurilim Rosado Martinez Paula McFarland, Chair of the Cranston Tax Assessor’s Appeals Board Representative Michelle McGaw Senator Mark McKenney Senator Melissa Murray Portsmouth Town Councilor Juan Carlos Payero Senator Ryan Pearson Central Falls City Councilman Rafael Peguero Representative Robert Phillips Representative Brandon Potter Senator Ana Quezada Central Falls City Council President Pro Tempore Alberto Rivas-Lugo East Providence City Council President Robert Rodericks Representative Scott Slater Central Falls City Councilman Anthony Solano Central Falls City Councilman Franklin Solano Providence School Board President Ty’Relle Stephens Representative Jennifer A.
+Stewart Representative Teresa Tanzi Providence City Councilman James Taylor Senator Brian J.
+Thompson Senator Linda Ujifusa Providence City Councilwoman Ana Vargas Senator Lammis Vargas Senator Sam Zurier Democratic City and Town Committees RI Association of Democratic City and Town Chairs Barrington Bristol Burrillville Central Falls Cranston Cumberland Exeter Jamestown Johnston Lincoln Middletown Narragansett Newport Portsmouth Providence Warren Warwick Woonsocket Unions International Union of Operating Engineers Local 57 RI Brotherhood of Correctional Officers UNITE HERE Local 26 Rhode Island SEIU State Council The Rhode Island Troopers Association Organizations Climate Action Rhode Island Providence Streets Coalition Italian American Democrats Boston Globe Editorial Board Rhode Island High School Democrats High School Democrats of America RI Coalition Against Violence EMILYs List info@helenafoulkes.com PO Box 6191, Providence, RI 02940 Press Requests: press@helenafoulkes.com Facebook-f Instagram X-twitter Paid for by Helena for RI Privacy Policy

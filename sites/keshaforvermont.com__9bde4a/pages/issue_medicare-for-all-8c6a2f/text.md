@@ -1,6 +1,4 @@
-Issues
-Medicare for All
-Regardless of race, zip code, or income, when it comes to our health, we all want to make sure we can prevent, treat, or recover from illness or injury without fear of going bankrupt.
+Skip to content Kesha Ram Meet Kesha Issues News Endorsements Volunteer Donate Volunteer Donate Issues Medicare for All Regardless of race, zip code, or income, when it comes to our health, we all want to make sure we can prevent, treat, or recover from illness or injury without fear of going bankrupt.
 But corporate lobbyists have sold off our health to the highest bidder.
 They let insurance companies, hospital chains, and Big Pharma lobbyists rake in record profits while denying us affordable quality care – care that the rest of the world sees as their right.
 Pharmaceutical companies, as one example, charge Americans the highest prices for prescription drugs in the world.
@@ -17,3 +15,5 @@ We must also support providers who work in rural and underserved areas by elimin
 In Congress, I will work hard to make Vermont a place where all of our families can get quality healthcare at a price we can afford.
 Every other prosperous country in the world prioritizes this.
 So should we and so will I as your Congressperson.
+Back to all issues Chip in Help send Vermont’s fighter back to the State Senate.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $#.# $# $# $# $# Other Volunteer Donate Privacy Policy Contact Us 31 North Prospect Street Burlington, VT 05401 Paid for by Kesha for Vermont © Kesha for Vermont | Made by Authentic

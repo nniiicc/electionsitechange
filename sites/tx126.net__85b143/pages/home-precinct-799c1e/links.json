@@ -1,30 +1,158 @@
 [
-"https://tx126.net/",
-"https://tx126.net/2026/01",
-"https://tx126.net/2026/02",
-"https://tx126.net/about-me",
-"https://tx126.net/activity-2",
-"https://tx126.net/author/lisa",
-"https://tx126.net/blog",
-"https://tx126.net/cart",
-"https://tx126.net/category/precinct",
-"https://tx126.net/claim-a-sheet",
-"https://tx126.net/contact",
-"https://tx126.net/dear-melany",
-"https://tx126.net/faqs",
-"https://tx126.net/forums",
-"https://tx126.net/groups-2",
-"https://tx126.net/home-precinct",
-"https://tx126.net/members-2/lisa",
-"https://tx126.net/members-2/melanyjmorrison",
-"https://tx126.net/my-account/lost-password",
-"https://tx126.net/policy-statement",
-"https://tx126.net/precinct-631-collins-park",
-"https://tx126.net/product/door",
-"https://tx126.net/register",
-"https://tx126.net/shop",
-"https://tx126.net/thank-you-for-signing-up-for-the-email-list",
-"https://tx126.net/what-is-a-precinct",
-"https://tx126.net/what-precinct-am-i-in",
-"https://tx126.net/wp-login.php?redirect_to=https%3A%2F%2Fwww.tx126.net%2Fhome-precinct%2F"
+{
+"text": "About Lisa",
+"href": "https://www.tx126.net/about-me/"
+},
+{
+"text": "About Me",
+"href": "https://www.tx126.net/about-me/"
+},
+{
+"text": "Activity",
+"href": "https://www.tx126.net/activity-2/"
+},
+{
+"text": "Blog",
+"href": "https://www.tx126.net/blog/"
+},
+{
+"text": "Cancel reply",
+"href": "https://www.tx126.net/home-precinct/#respond"
+},
+{
+"text": "Claim A Sheet - Lisa for TX 126",
+"href": "https://www.tx126.net/claim-a-sheet/"
+},
+{
+"text": "Continue reading...",
+"href": "https://www.tx126.net/precinct-631-collins-park/"
+},
+{
+"text": "Continue reading...",
+"href": "https://www.tx126.net/what-precinct-am-i-in/"
+},
+{
+"text": "Create an account",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "Donate",
+"href": "https://www.tx126.net/shop/"
+},
+{
+"text": "FAQs",
+"href": "https://www.tx126.net/faqs/"
+},
+{
+"text": "February 23, 2026",
+"href": "https://www.tx126.net/2026/02/"
+},
+{
+"text": "Forums",
+"href": "https://www.tx126.net/forums/"
+},
+{
+"text": "Groups",
+"href": "https://www.tx126.net/groups-2/"
+},
+{
+"text": "Home",
+"href": "https://www.tx126.net/"
+},
+{
+"text": "January 11, 2026 at 3:42 am",
+"href": "https://www.tx126.net/home-precinct/#comment-5"
+},
+{
+"text": "January 11, 2026 at 9:16 pm",
+"href": "https://www.tx126.net/home-precinct/#comment-6"
+},
+{
+"text": "January 25, 2026",
+"href": "https://www.tx126.net/2026/01/"
+},
+{
+"text": "Join the Email List",
+"href": "https://www.tx126.net/contact/"
+},
+{
+"text": "Log In",
+"href": "https://www.tx126.net/wp-login.php?redirect_to=https%3A%2F%2Fwww.tx126.net%2Fhome-precinct%2F"
+},
+{
+"text": "Log in to Reply",
+"href": "https://www.tx126.net/wp-login.php?redirect_to=https%3A%2F%2Fwww.tx126.net%2Fhome-precinct%2F"
+},
+{
+"text": "Lost Password?",
+"href": "https://www.tx126.net/my-account/lost-password/"
+},
+{
+"text": "Melany Morrison",
+"href": "https://www.tx126.net/members-2/melanyjmorrison/"
+},
+{
+"text": "Next post",
+"href": "https://www.tx126.net/policy-statement/"
+},
+{
+"text": "Precinct",
+"href": "https://www.tx126.net/category/precinct/"
+},
+{
+"text": "Precinct 631 – Collins Park",
+"href": "https://www.tx126.net/precinct-631-collins-park/"
+},
+{
+"text": "Prev post",
+"href": "https://www.tx126.net/thank-you-for-signing-up-for-the-email-list/"
+},
+{
+"text": "Register",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "Sign Up for Emails",
+"href": "https://www.tx126.net/contact/"
+},
+{
+"text": "The Candidate: Lisa Emerson",
+"href": "https://www.tx126.net/author/lisa/"
+},
+{
+"text": "The Candidate: Lisa Emerson",
+"href": "https://www.tx126.net/members-2/lisa/"
+},
+{
+"text": "What Precinct am I in?",
+"href": "https://www.tx126.net/what-precinct-am-i-in/"
+},
+{
+"text": "What is a Precinct? - Lisa for TX 126",
+"href": "https://www.tx126.net/what-is-a-precinct/"
+},
+{
+"text": "[image: Lisa for TX 126]",
+"href": "https://www.tx126.net/"
+},
+{
+"text": "[tooltip: View Cart]",
+"href": "https://www.tx126.net/cart/"
+},
+{
+"text": "door hangers",
+"href": "https://www.tx126.net/product/door/"
+},
+{
+"text": "logged in",
+"href": "https://www.tx126.net/wp-login.php?redirect_to=https%3A%2F%2Fwww.tx126.net%2Fhome-precinct%2F"
+},
+{
+"text": "representative",
+"href": "https://www.tx126.net/claim-a-sheet/"
+},
+{
+"text": "volunteer",
+"href": "https://www.tx126.net/dear-melany/"
+}
 ]

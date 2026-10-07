@@ -1,20 +1,106 @@
 [
-"https://bsky.app/profile/sliccardo.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/SamLiccardo1",
-"https://instagram.com//samliccardo",
-"https://liccardo.house.gov/",
-"https://registertovote.ca.gov/",
-"https://samliccardo.com/",
-"https://samliccardo.com/accomplishments",
-"https://samliccardo.com/c5c99f10-19bd-4c9f-a633-0dc93a1207e6",
-"https://samliccardo.com/get-involved",
-"https://samliccardo.com/innovation-for-good",
-"https://samliccardo.com/news",
-"https://samliccardo.com/privacy",
-"https://secure.numero.ai/contribute/Sam-Liccardo-for-Congress",
-"https://sos.ca.gov/elections/polling-place",
-"https://sos.ca.gov/elections/voter-registration/vote-mail",
-"https://voterstatus.sos.ca.gov/",
-"https://x.com/sliccardo"
+{
+"text": "$10",
+"href": "https://secure.numero.ai/contribute/Sam-Liccardo-for-Congress"
+},
+{
+"text": "$100",
+"href": "https://secure.numero.ai/contribute/Sam-Liccardo-for-Congress"
+},
+{
+"text": "$25",
+"href": "https://secure.numero.ai/contribute/Sam-Liccardo-for-Congress"
+},
+{
+"text": "$250",
+"href": "https://secure.numero.ai/contribute/Sam-Liccardo-for-Congress"
+},
+{
+"text": "$50",
+"href": "https://secure.numero.ai/contribute/Sam-Liccardo-for-Congress"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://voterstatus.sos.ca.gov/"
+},
+{
+"text": "Donate",
+"href": "https://secure.numero.ai/contribute/Sam-Liccardo-for-Congress"
+},
+{
+"text": "Find your polling place",
+"href": "https://www.sos.ca.gov/elections/polling-place"
+},
+{
+"text": "Get Involved",
+"href": "https://www.samliccardo.com/get-involved"
+},
+{
+"text": "Learn More",
+"href": "https://www.samliccardo.com/innovation-for-good"
+},
+{
+"text": "Learn more about our work together",
+"href": "https://www.samliccardo.com/accomplishments"
+},
+{
+"text": "News",
+"href": "https://www.samliccardo.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.numero.ai/contribute/Sam-Liccardo-for-Congress"
+},
+{
+"text": "Privacy",
+"href": "https://www.samliccardo.com/privacy"
+},
+{
+"text": "Privacy Policy / Terms and Conditions",
+"href": "https://www.samliccardo.com/c5c99f10-19bd-4c9f-a633-0dc93a1207e6"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://registertovote.ca.gov/"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://www.sos.ca.gov/elections/voter-registration/vote-mail"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.samliccardo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sliccardo.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/SamLiccardo1"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com//samliccardo"
+},
+{
+"text": "[no text]",
+"href": "https://www.samliccardo.com/accomplishments"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/sliccardo"
+},
+{
+"text": "here.",
+"href": "https://liccardo.house.gov/"
+},
+{
+"text": "info@samliccardo.com",
+"href": "mailto:info@samliccardo.com"
+}
 ]

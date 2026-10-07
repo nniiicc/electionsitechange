@@ -1,24 +1,114 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Birthday+Bash+Fundraiser&dates=20260220T010000Z%2F20260220T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Camp+Campaign&dates=20260125T180000Z%2F20260125T210000Z&location=7601+Grandview+Avenue%2C+Arvada%2C+CO%2C+80002%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=House+Party%21&dates=20260306T003000Z%2F20260306T020000Z",
-"http://maps.google.com/?q=7601+Grandview+Avenue+Arvada%2C+CO%2C+80002+United+States",
-"https://facebook.com/jeffcoyoungdems",
-"https://jeffcodems.org/",
-"https://secure.actblue.com/donate/varda-for-colorado",
-"https://vardaforcolorado.com/",
-"https://vardaforcolorado.com/camp-campaign",
-"https://vardaforcolorado.com/cart",
-"https://vardaforcolorado.com/contact",
-"https://vardaforcolorado.com/endorsements",
-"https://vardaforcolorado.com/events-2-1",
-"https://vardaforcolorado.com/events-2-1/event-three-mz467-9slf2-zjnms-2s2sx",
-"https://vardaforcolorado.com/events-2-1/event-three-mz467-9slf2-zjnms-2s2sx?format=ical",
-"https://vardaforcolorado.com/events-2-1/event-two-w7zrh-s4xbg-nypkl-w8pnp",
-"https://vardaforcolorado.com/events-2-1/event-two-w7zrh-s4xbg-nypkl-w8pnp?format=ical",
-"https://vardaforcolorado.com/events-2-1/jan25",
-"https://vardaforcolorado.com/events-2-1/jan25?format=ical",
-"https://vardaforcolorado.com/meetdanielle",
-"https://vardaforcolorado.com/priorities",
-"https://vardaforcolorado.com/privacypolicy"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7601+grandview+avenue+arvada%2C+co%2C+80002+united+states"
+},
+{
+"text": "0",
+"href": "https://www.vardaforcolorado.com/cart"
+},
+{
+"text": "Birthday Bash Fundraiser",
+"href": "https://www.vardaforcolorado.com/events-2-1/event-two-w7zrh-s4xbg-nypkl-w8pnp"
+},
+{
+"text": "Calendar",
+"href": "https://www.vardaforcolorado.com/events-2-1"
+},
+{
+"text": "Camp Campaign",
+"href": "https://www.vardaforcolorado.com/camp-campaign"
+},
+{
+"text": "Camp Campaign",
+"href": "https://www.vardaforcolorado.com/events-2-1/jan25"
+},
+{
+"text": "Danielle's Priorities",
+"href": "https://www.vardaforcolorado.com/priorities"
+},
+{
+"text": "Donate to Danielle!",
+"href": "https://secure.actblue.com/donate/varda-for-colorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.vardaforcolorado.com/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Birthday+Bash+Fundraiser&dates=20260220T010000Z%2F20260220T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Camp+Campaign&dates=20260125T180000Z%2F20260125T210000Z&location=7601+Grandview+Avenue%2C+Arvada%2C+CO%2C+80002%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=House+Party%21&dates=20260306T003000Z%2F20260306T020000Z"
+},
+{
+"text": "House Party!",
+"href": "https://www.vardaforcolorado.com/events-2-1/event-three-mz467-9slf2-zjnms-2s2sx"
+},
+{
+"text": "ICS",
+"href": "https://www.vardaforcolorado.com/events-2-1/event-three-mz467-9slf2-zjnms-2s2sx?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vardaforcolorado.com/events-2-1/event-two-w7zrh-s4xbg-nypkl-w8pnp?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vardaforcolorado.com/events-2-1/jan25?format=ical"
+},
+{
+"text": "Jeffco Dems",
+"href": "https://www.jeffcodems.org/"
+},
+{
+"text": "Jeffco Young Dems",
+"href": "https://www.facebook.com/jeffcoyoungdems/"
+},
+{
+"text": "Meet Danielle",
+"href": "https://www.vardaforcolorado.com/meetdanielle"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.vardaforcolorado.com/privacypolicy"
+},
+{
+"text": "Stay Connected",
+"href": "https://www.vardaforcolorado.com/contact"
+},
+{
+"text": "View Event →",
+"href": "https://www.vardaforcolorado.com/events-2-1/event-three-mz467-9slf2-zjnms-2s2sx"
+},
+{
+"text": "View Event →",
+"href": "https://www.vardaforcolorado.com/events-2-1/event-two-w7zrh-s4xbg-nypkl-w8pnp"
+},
+{
+"text": "View Event →",
+"href": "https://www.vardaforcolorado.com/events-2-1/jan25"
+},
+{
+"text": "[image: Birthday Bash Fundraiser]",
+"href": "https://www.vardaforcolorado.com/events-2-1/event-two-w7zrh-s4xbg-nypkl-w8pnp"
+},
+{
+"text": "[image: Camp Campaign]",
+"href": "https://www.vardaforcolorado.com/events-2-1/jan25"
+},
+{
+"text": "[image: Danielle Varda for HD27]",
+"href": "https://www.vardaforcolorado.com/"
+},
+{
+"text": "[image: House Party!]",
+"href": "https://www.vardaforcolorado.com/events-2-1/event-three-mz467-9slf2-zjnms-2s2sx"
+}
 ]

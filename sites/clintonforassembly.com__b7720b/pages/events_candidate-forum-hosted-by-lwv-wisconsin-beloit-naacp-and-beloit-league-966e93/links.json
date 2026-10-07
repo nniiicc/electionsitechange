@@ -1,15 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum+Hosted+by+LWV+Wisconsin%2C+Beloit+NAACP%2C+and+Beloit+League&dates=20221012T230000Z%2F20221013T003000Z&location=1500+4th+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States",
-"http://maps.google.com/?q=1500+4th+Street+Beloit%2C+WI%2C+53511+United+States",
-"https://clintonforassembly.com/",
-"https://clintonforassembly.com/about",
-"https://clintonforassembly.com/cart",
-"https://clintonforassembly.com/endorsements",
-"https://clintonforassembly.com/events",
-"https://clintonforassembly.com/events/candidate-forum-hosted-by-lwv-wisconsin-beloit-naacp-and-beloit-league?format=ical",
-"https://clintonforassembly.com/events/meet-and-greet-in-evansville-for-clinton-anderson",
-"https://clintonforassembly.com/events/r55heg6895avcil6w6n2qs85as6a86",
-"https://clintonforassembly.com/issues",
-"https://facebook.com/Clinton-Anderson-for-Assembly-District-45-104142868937053",
-"https://secure.actblue.com/donate/clinton-for-45"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1500+4th+street+beloit%2C+wi%2C+53511+united+states"
+},
+{
+"text": "0",
+"href": "https://www.clintonforassembly.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.clintonforassembly.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.clintonforassembly.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/clinton-for-45"
+},
+{
+"text": "Endorsements",
+"href": "https://www.clintonforassembly.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.clintonforassembly.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum+Hosted+by+LWV+Wisconsin%2C+Beloit+NAACP%2C+and+Beloit+League&dates=20221012T230000Z%2F20221013T003000Z&location=1500+4th+Street%2C+Beloit%2C+WI%2C+53511%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.clintonforassembly.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/candidate-forum-hosted-by-lwv-wisconsin-beloit-naacp-and-beloit-league?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.clintonforassembly.com/issues"
+},
+{
+"text": "Next Next October 13 Meet and Greet in Evansville for Clinton Anderson",
+"href": "https://www.clintonforassembly.com/events/meet-and-greet-in-evansville-for-clinton-anderson"
+},
+{
+"text": "Previous Previous October 5 Democratic Party of Green County Meet and Greet Supporting Jenna Jacobson, Mark Spreitzer, and Clinton Anderson",
+"href": "https://www.clintonforassembly.com/events/r55heg6895avcil6w6n2qs85as6a86"
+},
+{
+"text": "[image: Clinton Anderson for Assembly]",
+"href": "https://www.clintonforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Clinton-Anderson-for-Assembly-District-45-104142868937053"
+}
 ]

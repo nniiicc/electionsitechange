@@ -1,32 +1,154 @@
 [
-"https://facebook.com/noaharbit",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnoahformi.com%2Fpolicies%2Feducation%2F",
-"https://instagram.com/narbit",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4437",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4648&QueryID=160530013",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5025&QueryID=160530019",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5231",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5232",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5233",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5234",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5269",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0173",
-"https://noahformi.com/",
-"https://noahformi.com/contact",
-"https://noahformi.com/meet-noah",
-"https://noahformi.com/policies",
-"https://noahformi.com/policies/community-representation",
-"https://noahformi.com/policies/democracy-rights",
-"https://noahformi.com/policies/economy-jobs-innovation",
-"https://noahformi.com/policies/education",
-"https://noahformi.com/policies/environment-water",
-"https://noahformi.com/policies/hate-crimes-extremism",
-"https://noahformi.com/policies/health-families-seniors",
-"https://noahformi.com/policies/mental-health",
-"https://noahformi.com/policies/noahs-greatest-hits",
-"https://noahformi.com/policies/smart-equal-justice-for-all",
-"https://noahformi.com/sign-up",
-"https://secure.actblue.com/donate/njawebsite",
-"https://twitter.com/intent/tweet?text=EDUCATION&url=https%3A%2F%2Fnoahformi.com%2Fpolicies%2Feducation%2F",
-"https://twitter.com/noaharbit"
+{
+"text": "4648",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4648&QueryID=160530013"
+},
+{
+"text": "5025",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5025&QueryID=160530019"
+},
+{
+"text": "5231",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5231"
+},
+{
+"text": "5232",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5232"
+},
+{
+"text": "5233",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5233"
+},
+{
+"text": "5234",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5234"
+},
+{
+"text": "5269",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-5269"
+},
+{
+"text": "Contact",
+"href": "https://noahformi.com/contact/"
+},
+{
+"text": "DEMOCRACY & RIGHTS",
+"href": "https://noahformi.com/policies/democracy-rights/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/njawebsite"
+},
+{
+"text": "ENVIRONMENT & WATER",
+"href": "https://noahformi.com/policies/environment-water/"
+},
+{
+"text": "FY 2024 School Aid Budget",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0173"
+},
+{
+"text": "FY 2024 State Budget",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4437"
+},
+{
+"text": "Follow Noah on Twitter",
+"href": "https://twitter.com/noaharbit"
+},
+{
+"text": "Join our campaign",
+"href": "https://noahformi.com/sign-up/"
+},
+{
+"text": "Like Noah on Facebook",
+"href": "https://www.facebook.com/noaharbit"
+},
+{
+"text": "Meet Noah",
+"href": "https://noahformi.com/meet-noah/"
+},
+{
+"text": "Noah’s Plan for Community & Representation",
+"href": "https://noahformi.com/policies/community-representation/"
+},
+{
+"text": "Noah’s Plan for Democracy & Rights",
+"href": "https://noahformi.com/policies/democracy-rights/"
+},
+{
+"text": "Noah’s Plan for Economy & Jobs",
+"href": "https://noahformi.com/policies/economy-jobs-innovation/"
+},
+{
+"text": "Noah’s Plan for Education",
+"href": "https://noahformi.com/policies/education/"
+},
+{
+"text": "Noah’s Plan for Environment & Water",
+"href": "https://noahformi.com/policies/environment-water/"
+},
+{
+"text": "Noah’s Plan for Health & Seniors",
+"href": "https://noahformi.com/policies/health-families-seniors/"
+},
+{
+"text": "Noah’s Plan for Mental Health",
+"href": "https://noahformi.com/policies/mental-health/"
+},
+{
+"text": "Noah’s Plan for Smart Justice",
+"href": "https://noahformi.com/policies/smart-equal-justice-for-all/"
+},
+{
+"text": "Noah’s Plan on Hate Crimes & Extremism",
+"href": "https://noahformi.com/policies/hate-crimes-extremism/"
+},
+{
+"text": "Priorities",
+"href": "https://noahformi.com/policies/"
+},
+{
+"text": "Results",
+"href": "https://noahformi.com/policies/noahs-greatest-hits/"
+},
+{
+"text": "Sign-Up for Noah's Newsletter",
+"href": "https://noahformi.com/sign-up/"
+},
+{
+"text": "Support Noah's Campaign",
+"href": "https://secure.actblue.com/donate/njawebsite"
+},
+{
+"text": "[image: Noah Arbit for State Representative]",
+"href": "https://noahformi.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/noaharbit"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/noaharbit"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/narbit/"
+},
+{
+"text": "[tooltip: Email]",
+"href": "https://noahformi.com/policies/education/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnoahformi.com%2Fpolicies%2Feducation%2F"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/intent/tweet?text=EDUCATION&url=https%3A%2F%2Fnoahformi.com%2Fpolicies%2Feducation%2F"
+},
+{
+"text": "make a donation",
+"href": "https://secure.actblue.com/donate/njawebsite"
+}
 ]

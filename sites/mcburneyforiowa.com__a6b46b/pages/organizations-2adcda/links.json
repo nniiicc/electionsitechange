@@ -1,12 +1,50 @@
 [
-"https://facebook.com/mcburneyforiowa",
-"https://mcburneyforiowa.com/",
-"https://mcburneyforiowa.com/about",
-"https://mcburneyforiowa.com/community-members",
-"https://mcburneyforiowa.com/contact",
-"https://mcburneyforiowa.com/elected-officials",
-"https://mcburneyforiowa.com/endorsements",
-"https://mcburneyforiowa.com/get-involved",
-"https://mcburneyforiowa.com/organizations",
-"https://secure.actblue.com/donate/mcburneyforiowa"
+{
+"text": "About",
+"href": "https://www.mcburneyforiowa.com/about"
+},
+{
+"text": "Community Members",
+"href": "https://www.mcburneyforiowa.com/community-members"
+},
+{
+"text": "Contact",
+"href": "https://www.mcburneyforiowa.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mcburneyforiowa"
+},
+{
+"text": "Elected Officials",
+"href": "https://www.mcburneyforiowa.com/elected-officials"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mcburneyforiowa.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mcburneyforiowa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.mcburneyforiowa.com"
+},
+{
+"text": "Unions/Organizations",
+"href": "https://www.mcburneyforiowa.com/organizations"
+},
+{
+"text": "[image: McBurney for Iowa logo_edited.png]",
+"href": "https://www.mcburneyforiowa.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/mcburneyforiowa"
+},
+{
+"text": "larry@mcburneyforiowa.com",
+"href": "mailto:larry@mcburneyforiowa.com"
+}
 ]

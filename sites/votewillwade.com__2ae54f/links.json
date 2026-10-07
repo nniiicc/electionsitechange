@@ -1,10 +1,86 @@
 [
-"http:///",
-"https://facebook.com/WinWithWillWade",
-"https://secure.anedot.com/friends-of-will-wade/donate",
-"https://secure.anedot.com/friends-of-will-wade/donate?amount=250",
-"https://twitter.com/wade_state",
-"https://votewillwade.com/",
-"https://votewillwade.com/about",
-"https://votewillwade.com/issues"
+{
+"text": "$#",
+"href": "https://secure.anedot.com/friends-of-will-wade/donate"
+},
+{
+"text": "$#",
+"href": "https://secure.anedot.com/friends-of-will-wade/donate?amount=250"
+},
+{
+"text": "About",
+"href": "https://www.votewillwade.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-will-wade/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votewillwade.com/#GetInvolved"
+},
+{
+"text": "Home",
+"href": "https://www.votewillwade.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votewillwade.com/issues"
+},
+{
+"text": "MORE ABOUT WILL",
+"href": "https://www.votewillwade.com/about"
+},
+{
+"text": "MORE ON THE ISSUES",
+"href": "https://www.votewillwade.com/issues"
+},
+{
+"text": "OTHER",
+"href": "http://"
+},
+{
+"text": "Our",
+"href": "https://www.votewillwade.com/issues"
+},
+{
+"text": "Our",
+"href": "https://www.votewillwade.com/issues#Issue2"
+},
+{
+"text": "See More →",
+"href": "https://www.votewillwade.com/issues#Issue1"
+},
+{
+"text": "See More →",
+"href": "https://www.votewillwade.com/issues#Issue2"
+},
+{
+"text": "See More →",
+"href": "https://www.votewillwade.com/issues#Issue3"
+},
+{
+"text": "See More →",
+"href": "https://www.votewillwade.com/issues#Issue4"
+},
+{
+"text": "See More →",
+"href": "https://www.votewillwade.com/issues#Issue5"
+},
+{
+"text": "Will@votewillwade.com",
+"href": "mailto:Will@votewillwade.com"
+},
+{
+"text": "Winning for",
+"href": "https://www.votewillwade.com/issues#Issue2"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/WinWithWillWade"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/wade_state"
+}
 ]

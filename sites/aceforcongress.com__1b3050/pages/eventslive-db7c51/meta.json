@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.aceforcongress.com/eventslive",
- "paid_for_by": null,
+ "fingerprint": "09f8385418ce44c3e791ec504aebd3199ce94b41",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Ace For Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2035"
+ ]
 }

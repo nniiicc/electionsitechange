@@ -1,108 +1,23 @@
-Endorsements
-Organizations & Labor
-Endorsing Organizations
-Firefighters, law enforcement, labor, and Democratic organizations backing Melissa.
-Alameda County Firefighters
-IAFF Local 55
-Fremont Police Association
-Fremont Firefighters
-IAFF Local 1689
-Teamsters Joint Council 7
-Livermore-Pleasanton Firefighters
-IAFF Local 1974
-Livermore Police Officers’ Association
-National Latino Peace Officers Association
-Deputy Sheriffs’ Association
-Alameda County
-Latinas Lead California
-Bold Democrats
-Moms Fed Up PAC
-Elect Democratic Women
-Hindu American PAC
-Asian Americans for Good Government PAC
-BART Police Officers Association
-Union City Police Officers Association
-Pleasanton Police Officers Association
-Local Leadership
-Mayors Across the District
-Mayors from across the Tri-Valley and East Bay support Melissa.
-Sherry Hu
-Mayor of Dublin
-Mark Salinas
-Mayor of Hayward
-John Marchand
-Mayor of Livermore
-Jack Balch
-Mayor of Pleasanton
-Juan González III
-Mayor of San Leandro
-Gary Singh
-Mayor of Union City
-Federal Leaders
-Members of Congress
-Zoe Lofgren
-U.S.
-Representative, CA-18
-Gil Cisneros
-U.S.
-Representative, CA-31
-Linda Sánchez
-U.S.
-Representative, CA-38
-Julia Brownley
-U.S.
-Representative, CA-26
-Sam Liccardo
-U.S.
-Representative, CA-16
-Lou Correa
-U.S.
-Representative, CA-46
-Ami Bera
-U.S.
-Representative, CA-6
-Jim Costa
-U.S.
-Representative, CA-21
-Lois Frankel
-U.S.
-Representative, FL-22
-Brad Schneider
-U.S.
-Representative, IL-10
-Greg Stanton
-U.S.
-Representative, AZ-4
-Norma Torres
-U.S.
-Representative, CA-35
-Mike Levin
-U.S.
-Representative, CA-49
-Adam Gray
-U.S.
-Representative, CA-13
-State & County
-State & County Leaders
-Statewide and Alameda County leaders standing with Melissa.
-Fiona Ma
-California State Treasurer
-David Haubert
-Alameda County Supervisor
-Elisa Márquez
-Alameda County Supervisor
-Nate Miley
-Alameda County Supervisor
-Community Support
-More Endorsers
-Melissa is also proud to have the support of these local officials, community leaders, and neighbors.
-City Councilmembers
-Kashef Qaadri, Dublin • Teresa Keng, Fremont • Kathy Kimberlin, Fremont • Dan Goldstein, Hayward • Francisco Zermeno, Hayward • Ben Barrientos, Livermore • Craig Eicher, Pleasanton • Matt Gaidos, Pleasanton • Jeff Nibert, Pleasanton
-Regional & Local Officials
-Gabriel Quinto, Mayor of El Cerrito & President, League of California Cities • Kerry Hillis, Mayor of Moraga • Kevin Wilk, Mayor of Walnut Creek • Newell Arnerich, Mayor of Danville • Renee Morgan, Danville Town Councilmember • Ken Carlson, Contra Costa County Supervisor • Mark Foley, BART Board Director • Robert Raburn, BART Board Director • Matt Rinn, BART Board Director • David Furst, Livermore Area Recreation and Park District Director • Hector Garcia, Chabot-Las Positas Community College District Trustee • Sara Lamnin, Hayward Area Recreation and Park District President • Richard Thornbury, Dublin Parks and Community Services Commission • Aisha Knowles, Alameda County Board of Education Trustee • Kathy Narum, Zone 7 Water Agency Board Director • David Weekly, Redwood City School District President • TJ (Tejinder) Dhami, Fremont Mobility Commissioner
-Former Mayors & Councilmembers
-Cathie Brown, Former Mayor of Livermore and Founder, Tri-Valley Haven • Barbara Halliday, Former Mayor of Hayward • Teddy Gray King, Former Mayor of Piedmont • Pauline Cutter, Former Mayor of San Leandro • Carol Dutra-Vernaci, Former Mayor of Union City • Scott Haggerty, Alameda County Supervisor (Ret.) • Lisa Blackwell, Former Councilmember, Danville • Bob Carling, Former Councilmember, Livermore • Dan Kalb, Former Councilmember, Oakland • Deborah Cox, Former Councilmember, San Leandro • Lee Thomas, Former Councilmember, San Leandro • Al Mendall, Former Councilmember, Hayward • Kevin Dowling, Former Councilmember, Hayward • Willie Brown Jr., Former Mayor, San Francisco
-Public Safety & Community Leaders
-David Rocha, Retired Alameda County Fire Chief • Christopher Sherry, Retired CHP Commander • Judge Stephen Pulido (Ret.), Retired Alameda County Judge • Benny Lee, Oro Loma Sanitary District Board Director • Ruby Lopez-Villarreal, Former Downtown Livermore Executive Director • Linda Kelly, Pleasanton Community of Character Collaborative Board Member • Monya Lane, Livermore Arts Commissioner • Steve Minniear, Dublin Historian • Georgean Vonheeder-Leopold, Dublin San Ramon Services District Director • Susan Houghton, Founder, Sunflower Hill • Roman Reed, Stem Cell Patient Advocate
-Community Members
-Avi Aggarwal, Taresh Anand, Angela De La Housaye Ashley, Harry Avila, Dawn Benson, Bimal Bhagvat, Subru Bhat, Andrew Blidy, Justin Briggs, Alan Burnham, Michael Cherman, Susy Clifton, Patrick Coyle, Michael Crabbe, Chuck Edell, Jon Elfin, Sean Grafton, Bernardo Hernandez, Diana Hernandez, Ainsworth Jackson Sr., Krish Kapoor, James Koch, Ellie Lange, Sherman Lewis, Margaret Liang, Victoria Liu, Megan Loomis Powers, Carla Mill, Vijay Mishra, Stephen Mitchell, Anjana Nair, Kathy Nouri, Patrick O’Brien, Rahil Prakash, Patty Powers, Seema Rajoura, Reyhaan Rashid, Alejandro “Alex” Reyes, Herb Ritter, Janeen Rubino-Brumm, Joy Sarofiem, Ishan Sharma, Liz Silos, Clair Song, Sudharsana Srinivasan, Satish Susheelkar, Gabriel Teitelbaum, Wanda Thompson, George Tran, Raj Vaichal, Genea Villarreal, Aly Wente, Phil Wente, Evan Win, Stephen Wright, Mihir Meghani, Rakhi Israni
+Home Meet Melissa Issues Endorsements Voting Info Get Involved News Donate Follow us!
+Donate Follow us!
+Menu Endorsements Organizations & Labor Endorsing Organizations Firefighters, law enforcement, labor, and Democratic organizations backing Melissa.
+Alameda County Firefighters IAFF Local 55 Fremont Police Association Fremont Firefighters IAFF Local 1689 Teamsters Joint Council 7 Livermore-Pleasanton Firefighters IAFF Local 1974 Livermore Police Officers’ Association National Latino Peace Officers Association Deputy Sheriffs’ Association Alameda County Latinas Lead California Bold Democrats Moms Fed Up PAC Elect Democratic Women Hindu American PAC Asian Americans for Good Government PAC BART Police Officers Association Union City Police Officers Association Pleasanton Police Officers Association Local Leadership Mayors Across the District Mayors from across the Tri-Valley and East Bay support Melissa.
+Sherry Hu Mayor of Dublin Mark Salinas Mayor of Hayward John Marchand Mayor of Livermore Jack Balch Mayor of Pleasanton Juan González III Mayor of San Leandro Gary Singh Mayor of Union City Federal Leaders Members of Congress Zoe Lofgren U.S.
+Representative, CA-18 Gil Cisneros U.S.
+Representative, CA-31 Linda Sánchez U.S.
+Representative, CA-38 Julia Brownley U.S.
+Representative, CA-26 Sam Liccardo U.S.
+Representative, CA-16 Lou Correa U.S.
+Representative, CA-46 Ami Bera U.S.
+Representative, CA-6 Jim Costa U.S.
+Representative, CA-21 Lois Frankel U.S.
+Representative, FL-22 Brad Schneider U.S.
+Representative, IL-10 Greg Stanton U.S.
+Representative, AZ-4 Norma Torres U.S.
+Representative, CA-35 Mike Levin U.S.
+Representative, CA-49 Adam Gray U.S.
+Representative, CA-13 State & County State & County Leaders Statewide and Alameda County leaders standing with Melissa.
+Fiona Ma California State Treasurer David Haubert Alameda County Supervisor Elisa Márquez Alameda County Supervisor Nate Miley Alameda County Supervisor Community Support More Endorsers Melissa is also proud to have the support of these local officials, community leaders, and neighbors.
+City Councilmembers Kashef Qaadri, Dublin • Teresa Keng, Fremont • Kathy Kimberlin, Fremont • Dan Goldstein, Hayward • Francisco Zermeno, Hayward • Ben Barrientos, Livermore • Craig Eicher, Pleasanton • Matt Gaidos, Pleasanton • Jeff Nibert, Pleasanton Regional & Local Officials Gabriel Quinto, Mayor of El Cerrito & President, League of California Cities • Kerry Hillis, Mayor of Moraga • Kevin Wilk, Mayor of Walnut Creek • Newell Arnerich, Mayor of Danville • Renee Morgan, Danville Town Councilmember • Ken Carlson, Contra Costa County Supervisor • Mark Foley, BART Board Director • Robert Raburn, BART Board Director • Matt Rinn, BART Board Director • David Furst, Livermore Area Recreation and Park District Director • Hector Garcia, Chabot-Las Positas Community College District Trustee • Sara Lamnin, Hayward Area Recreation and Park District President • Richard Thornbury, Dublin Parks and Community Services Commission • Aisha Knowles, Alameda County Board of Education Trustee • Kathy Narum, Zone 7 Water Agency Board Director • David Weekly, Redwood City School District President • TJ (Tejinder) Dhami, Fremont Mobility Commissioner Former Mayors & Councilmembers Cathie Brown, Former Mayor of Livermore and Founder, Tri-Valley Haven • Barbara Halliday, Former Mayor of Hayward • Teddy Gray King, Former Mayor of Piedmont • Pauline Cutter, Former Mayor of San Leandro • Carol Dutra-Vernaci, Former Mayor of Union City • Scott Haggerty, Alameda County Supervisor (Ret.) • Lisa Blackwell, Former Councilmember, Danville • Bob Carling, Former Councilmember, Livermore • Dan Kalb, Former Councilmember, Oakland • Deborah Cox, Former Councilmember, San Leandro • Lee Thomas, Former Councilmember, San Leandro • Al Mendall, Former Councilmember, Hayward • Kevin Dowling, Former Councilmember, Hayward • Willie Brown Jr., Former Mayor, San Francisco Public Safety & Community Leaders David Rocha, Retired Alameda County Fire Chief • Christopher Sherry, Retired CHP Commander • Judge Stephen Pulido (Ret.), Retired Alameda County Judge • Benny Lee, Oro Loma Sanitary District Board Director • Ruby Lopez-Villarreal, Former Downtown Livermore Executive Director • Linda Kelly, Pleasanton Community of Character Collaborative Board Member • Monya Lane, Livermore Arts Commissioner • Steve Minniear, Dublin Historian • Georgean Vonheeder-Leopold, Dublin San Ramon Services District Director • Susan Houghton, Founder, Sunflower Hill • Roman Reed, Stem Cell Patient Advocate Community Members Avi Aggarwal, Taresh Anand, Angela De La Housaye Ashley, Harry Avila, Dawn Benson, Bimal Bhagvat, Subru Bhat, Andrew Blidy, Justin Briggs, Alan Burnham, Michael Cherman, Susy Clifton, Patrick Coyle, Michael Crabbe, Chuck Edell, Jon Elfin, Sean Grafton, Bernardo Hernandez, Diana Hernandez, Ainsworth Jackson Sr., Krish Kapoor, James Koch, Ellie Lange, Sherman Lewis, Margaret Liang, Victoria Liu, Megan Loomis Powers, Carla Mill, Vijay Mishra, Stephen Mitchell, Anjana Nair, Kathy Nouri, Patrick O’Brien, Rahil Prakash, Patty Powers, Seema Rajoura, Reyhaan Rashid, Alejandro “Alex” Reyes, Herb Ritter, Janeen Rubino-Brumm, Joy Sarofiem, Ishan Sharma, Liz Silos, Clair Song, Sudharsana Srinivasan, Satish Susheelkar, Gabriel Teitelbaum, Wanda Thompson, George Tran, Raj Vaichal, Genea Villarreal, Aly Wente, Phil Wente, Evan Win, Stephen Wright, Mihir Meghani, Rakhi Israni Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Meet Melissa Issues Endorsements Voting Info Get Involved News Donate Follow us!
+Privacy Policy Contact Accessibility Statement Media Paid for by Melissa Hernandez for Congress 6200 Village Pkwy, Suite 200 Dublin, CA 94568 Melissa Hernandez for Congress © #

@@ -1,7 +1,5 @@
-“As your representative in Congress, I understand the profound impact that totalitarian and socialist regimes have had on our South Florida community.
-That’s why I am committed to being a strong advocate against these oppressive regimes.” – María Elvira Salazar
-Here are some of my key accomplishments:
-My Resolution Condemning Socialism Passes U.S.
+En Español Follow on social media: En Español Donate Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store En Español Donate Fighting Socialism Fighting Socialism ISSUES: Small Business & the Economy Environment Healthcare Infrastructure Public Safety Seniors Fight Against Socialism Main Page “As your representative in Congress, I understand the profound impact that totalitarian and socialist regimes have had on our South Florida community.
+That’s why I am committed to being a strong advocate against these oppressive regimes.” – María Elvira Salazar Here are some of my key accomplishments: My Resolution Condemning Socialism Passes U.S.
 House of Representatives: I passed a resolution that sends a strong message that socialism has no place in the United States and upholds the value of individual liberty.
 Western Hemisphere Security Legislation Signed Into Law: Passed and enacted legislation strengthening U.S. leadership against authoritarian regimes in the Western Hemisphere as part of the National Defense Authorization Act.
 American Leadership on Cuba and Haiti: I called for U.S. leadership to address the economic and political crises in Cuba and Haiti, emphasizing the need to combat instability and communism in the region.
@@ -12,3 +10,13 @@ My RENACER Act signed into law: This bill sanctions the Ortega-Murillo Regime in
 Introduced the Nicaragua Political Prisoner Support Act: I introduced legislation to provide critical support services to 222 political prisoners expelled by the Ortega-Murillo regime.
 Support Free Speech in Brazil: I voiced support for free speech in Brazil, criticizing the current administration’s attacks on fundamental rights and supporting freedom of expression.
 Introduced Legislation to Restore Democracy and Accountability in Venezuela: I proposed support for international efforts to address the Maduro regime’s crimes and provide relief to Venezuelans suffering from a prolonged political and economic crisis.
+ISSUES: Small Business & the Economy Environment Healthcare Infrastructure Public Safety Seniors Fight Against Socialism Main Page Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store Donate Email Address * Phone Number By providing your cell phone number and checking the opt-in box, you are consenting to receive texts, including autodialed and automated texts, to that number with campaign notifications from Salazar for Congress.
+Recurring messages, msg&data rates may apply.
+Text JOIN to 46856.
+Text HELP for help.
+At any time, text STOP to cancel.
+SMS opt-in consent and data will not be shared with third parties.
+See privacy policy and terms and conditions here.
+Consent I would like to receive text message updates. Δ This iframe contains the logic required to handle Ajax powered Gravity Forms.
+Follow on social media: © # Maria Elvira Salazar for Congress PO Box 3725 West Flagler St.
+#281 Miami, FL 33134 General Information: +1 (305) 338-3586 Contributions: +1 (305) 713-4327 Email: info@salazar27.com Press: press@salazar27.com PRIVACY POLICY Paid for by Salazar for Congress

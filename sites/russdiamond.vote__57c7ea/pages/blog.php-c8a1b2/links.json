@@ -1,70 +1,502 @@
 [
-"https://facebook.com/friendsofrussdiamond",
-"https://facebook.com/repdiamond/reels",
-"https://instagram.com/russdiamond",
-"https://repdiamond.com/",
-"https://russdiamond.substack.com/",
-"https://russdiamond.vote/about.php",
-"https://russdiamond.vote/blog.php",
-"https://russdiamond.vote/ci180131.php",
-"https://russdiamond.vote/ci180305.php",
-"https://russdiamond.vote/ci180324.php",
-"https://russdiamond.vote/ci190115.php",
-"https://russdiamond.vote/ci200106.php",
-"https://russdiamond.vote/ci200414.php",
-"https://russdiamond.vote/ci200424.php",
-"https://russdiamond.vote/ci200426.php",
-"https://russdiamond.vote/ci200429.php",
-"https://russdiamond.vote/ci200511.php",
-"https://russdiamond.vote/ci200516.php",
-"https://russdiamond.vote/ci200523.php",
-"https://russdiamond.vote/ci200601.php",
-"https://russdiamond.vote/ci200608.php",
-"https://russdiamond.vote/ci200712.php",
-"https://russdiamond.vote/ci200731.php",
-"https://russdiamond.vote/ci200831.php",
-"https://russdiamond.vote/ci201007.php",
-"https://russdiamond.vote/ci201020.php",
-"https://russdiamond.vote/ci201029.php",
-"https://russdiamond.vote/ci201226.php",
-"https://russdiamond.vote/ci210109.php",
-"https://russdiamond.vote/ci210121.php",
-"https://russdiamond.vote/ci210123.php",
-"https://russdiamond.vote/ci210220.php",
-"https://russdiamond.vote/ci210302.php",
-"https://russdiamond.vote/ci210428.php",
-"https://russdiamond.vote/ci210525.php",
-"https://russdiamond.vote/ci210712.php",
-"https://russdiamond.vote/ci210916.php",
-"https://russdiamond.vote/ci211203.php",
-"https://russdiamond.vote/ci220202.php",
-"https://russdiamond.vote/ci220508.php",
-"https://russdiamond.vote/ci220907.php",
-"https://russdiamond.vote/ci221130.php",
-"https://russdiamond.vote/ci230124.php",
-"https://russdiamond.vote/ci230209.php",
-"https://russdiamond.vote/ci230227.php",
-"https://russdiamond.vote/ci230305.php",
-"https://russdiamond.vote/ci230313.php",
-"https://russdiamond.vote/ci230519.php",
-"https://russdiamond.vote/ci230527.php",
-"https://russdiamond.vote/ci230611.php",
-"https://russdiamond.vote/ci230705.php",
-"https://russdiamond.vote/ci230918.php",
-"https://russdiamond.vote/ci231112.php",
-"https://russdiamond.vote/ci240122.php",
-"https://russdiamond.vote/ci240125.php",
-"https://russdiamond.vote/ci240219.php",
-"https://russdiamond.vote/ci240413.php",
-"https://russdiamond.vote/ci240701.php",
-"https://russdiamond.vote/ci240724.php",
-"https://russdiamond.vote/ci240921.php",
-"https://russdiamond.vote/ci241021.php",
-"https://russdiamond.vote/connect.php",
-"https://russdiamond.vote/contribute.php",
-"https://russdiamond.vote/hipaa.php",
-"https://russdiamond.vote/index.php",
-"https://russdiamond.vote/privacy.php",
-"https://russdiamond.vote/updates.php",
-"https://x.com/russdiamond"
+{
+"text": "About",
+"href": "https://russdiamond.vote/about.php"
+},
+{
+"text": "Blog",
+"href": "https://russdiamond.vote/blog.php"
+},
+{
+"text": "Connect",
+"href": "https://russdiamond.vote/connect.php"
+},
+{
+"text": "Donate",
+"href": "https://russdiamond.vote/contribute.php"
+},
+{
+"text": "Home",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "News",
+"href": "https://russdiamond.vote/updates.php"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.russdiamond.vote/privacy.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci180131.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci180305.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci180324.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci190115.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci200106.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci200414.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci200424.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci200426.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci200429.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci200511.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci200516.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci200523.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci200601.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci200608.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci200712.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci200731.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci200831.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci201007.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci201020.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci201029.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci201226.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci210109.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci210121.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci210123.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci210220.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci210302.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci210428.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci210525.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci210712.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci210916.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci211203.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci220202.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci220508.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci220907.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci221130.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci230124.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci230209.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci230227.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci230305.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci230313.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci230519.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci230527.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci230611.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci230705.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci230918.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci231112.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci240122.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci240125.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci240219.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci240413.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci240701.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci240724.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci240921.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/ci241021.php"
+},
+{
+"text": "Read more...",
+"href": "https://russdiamond.vote/hipaa.php"
+},
+{
+"text": "[image: Captiol Insights - State Representative Russ Diamond's Blog]",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "[image: Click to email my campaign.]",
+"href": "mailto:russdiamond4pa@gmail.com?Subject=Campaign+page+viewer+message"
+},
+{
+"text": "[image: Click to follow Friends of Russ Diamond on Facebook.]",
+"href": "https://www.facebook.com/friendsofrussdiamond"
+},
+{
+"text": "[image: Click to follow me on Instagram.]",
+"href": "https://www.instagram.com/russdiamond"
+},
+{
+"text": "[image: Click to follow me on X (Twitter}.]",
+"href": "https://www.x.com/russdiamond"
+},
+{
+"text": "[image: Click to view videos of Russ.]",
+"href": "https://www.facebook.com/repdiamond/reels/"
+},
+{
+"text": "[image: Click to visit Russ's legislative page.]",
+"href": "https://www.repdiamond.com/"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci180131.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci180305.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci180324.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci190115.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci200106.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci200414.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci200424.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci200426.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci200429.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci200511.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci200516.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci200523.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci200601.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci200608.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci200712.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci200731.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci200831.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci201007.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci201020.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci201029.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci201226.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci210109.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci210121.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci210123.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci210220.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci210302.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci210428.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci210525.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci210712.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci210916.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci211203.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci220202.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci220508.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci220907.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci221130.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci230124.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci230209.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci230227.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci230305.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci230313.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci230519.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci230527.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci230611.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci230705.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci230918.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci231112.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci240122.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci240125.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci240219.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci240413.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci240701.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci240724.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci240921.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/ci241021.php"
+},
+{
+"text": "[image: Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/hipaa.php"
+},
+{
+"text": "on Substack",
+"href": "https://russdiamond.substack.com/"
+}
 ]

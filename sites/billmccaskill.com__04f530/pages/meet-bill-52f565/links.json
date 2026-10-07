@@ -1,13 +1,46 @@
 [
-"http://billmccaskill.com/",
-"https://billmccaskill.com/",
-"https://billmccaskill.com/imunify-bot-check",
-"https://billmccaskill.com/meet-bill",
-"https://billmccaskill.com/priorities",
-"https://billmccaskill.com/volunteer-with-bills-campaign",
-"https://facebook.com/BillMcCaskillforNCHouse",
-"https://follow.it/now",
-"https://secure.actblue.com/donate/william-mccaskill-1",
-"https://themeisle.com/",
-"https://youtube.com/@BillMcCaskillForNCHouse70"
+{
+"text": "Contact",
+"href": "http://billmccaskill.com/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/william-mccaskill-1"
+},
+{
+"text": "Experience, Integrity, Commitment",
+"href": "https://billmccaskill.com/meet-bill/"
+},
+{
+"text": "Putting NC First",
+"href": "https://billmccaskill.com/priorities/"
+},
+{
+"text": "ThemeIsle",
+"href": "https://themeisle.com"
+},
+{
+"text": "Volunteer",
+"href": "https://billmccaskill.com/volunteer-with-bills-campaign/"
+},
+{
+"text": "[image: Elect Bill McCaskill to NC House District 70]",
+"href": "https://billmccaskill.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BillMcCaskillforNCHouse"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@BillMcCaskillForNCHouse70"
+},
+{
+"text": "[image]",
+"href": "https://follow.it/now"
+},
+{
+"text": "imunify-bot-check",
+"href": "https://billmccaskill.com/imunify-bot-check"
+}
 ]

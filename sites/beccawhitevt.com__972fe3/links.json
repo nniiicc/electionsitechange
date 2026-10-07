@@ -1,14 +1,74 @@
 [
-"http://squarespace.com/",
-"https://beccawhitevt.com/",
-"https://beccawhitevt.com/about",
-"https://beccawhitevt.com/cart",
-"https://beccawhitevt.com/newsletter",
-"https://beccawhitevt.com/take-action",
-"https://beccawhitevt.com/the-pit-crew",
-"https://beccawhitevt.com/updates",
-"https://facebook.com/beccawhitevt",
-"https://instagram.com/rebeccawhiteforvt",
-"https://secure.actblue.com/donate/rebecca-white-1",
-"https://twitter.com/rebecca.student"
+{
+"text": "(802) 777 4517",
+"href": "tel:(802)7774517"
+},
+{
+"text": "0",
+"href": "https://www.beccawhitevt.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.beccawhitevt.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rebecca-white-1"
+},
+{
+"text": "Donate To the campaign here!",
+"href": "https://secure.actblue.com/donate/rebecca-white-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/beccawhitevt"
+},
+{
+"text": "Home",
+"href": "https://www.beccawhitevt.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rebeccawhiteforvt"
+},
+{
+"text": "Meet Becca",
+"href": "https://www.beccawhitevt.com/about"
+},
+{
+"text": "Newsletter",
+"href": "https://www.beccawhitevt.com/newsletter"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Take Action",
+"href": "https://www.beccawhitevt.com/take-action"
+},
+{
+"text": "The Pit Crew",
+"href": "https://www.beccawhitevt.com/the-pit-crew"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/rebecca.student"
+},
+{
+"text": "Updates",
+"href": "https://www.beccawhitevt.com/updates"
+},
+{
+"text": "[image: Becca White for Vermont]",
+"href": "https://www.beccawhitevt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/beccawhitevt"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rebeccawhiteforvt/"
+}
 ]

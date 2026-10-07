@@ -1,28 +1,186 @@
 [
-"https://cotton.senate.gov/",
-"https://facebook.com/TomCottonAR",
-"https://instagram.com/tomcottonar",
-"https://tomcotton.com/",
-"https://tomcotton.com/about-tom",
-"https://tomcotton.com/contact",
-"https://tomcotton.com/issues",
-"https://tomcotton.com/news",
-"https://tomcotton.com/news/anoa-endorses-cotton",
-"https://tomcotton.com/news/breitbart-shoffner-defund-ice",
-"https://tomcotton.com/news/cotton-accepts-salem-debate",
-"https://tomcotton.com/news/cotton-campaign-announces-827000-raised-more-than-10-million-cash-on-hand",
-"https://tomcotton.com/news/hallie-shoffner-ally-kamala-harris-begins-arkansas-endorsements",
-"https://tomcotton.com/news/kamala-harris-endorsements-shoffner-absent",
-"https://tomcotton.com/news/shoffner-denies-defund-ice",
-"https://tomcotton.com/news/statement-on-independent-poll-showing-cottons-16-point-lead",
-"https://tomcotton.com/news/tom-cotton-backs-citizens-only-voting-amendment",
-"https://tomcotton.com/news/townhall-shoffner-aoc-donor",
-"https://tomcotton.com/privacy-policy",
-"https://tomcotton.com/volunteer",
-"https://winred.tomcotton.com/tom-cotton/website-donation-button",
-"https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=15",
-"https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=4.49",
-"https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=50",
-"https://x.com/TomCottonAR",
-"https://youtube.com/channel/UCVhTgeGOPys80LYsNwAxyUQ"
+{
+"text": "$15",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=15"
+},
+{
+"text": "$4.49",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=4.49"
+},
+{
+"text": "$50",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=50"
+},
+{
+"text": "1",
+"href": "https://tomcotton.com/news/"
+},
+{
+"text": "About Tom",
+"href": "https://tomcotton.com/about-tom/"
+},
+{
+"text": "Arkansas Narcotic Officers Association Endorses Senator Tom Cotton",
+"href": "https://tomcotton.com/news/anoa-endorses-cotton/"
+},
+{
+"text": "Contact",
+"href": "https://tomcotton.com/contact/"
+},
+{
+"text": "Cotton Accepts Salem Media Invitation to Debate",
+"href": "https://tomcotton.com/news/cotton-accepts-salem-debate/"
+},
+{
+"text": "Cotton Campaign Announces $# Raised and More Than $# Million Cash on Hand — a Record for Arkansas",
+"href": "https://tomcotton.com/news/cotton-campaign-announces-827000-raised-more-than-10-million-cash-on-hand/"
+},
+{
+"text": "Donate",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button"
+},
+{
+"text": "Following Flurry of Southern Senate Endorsements From Kamala Harris, Arkansas’s Shoffner Noticeably Absent",
+"href": "https://tomcotton.com/news/kamala-harris-endorsements-shoffner-absent/"
+},
+{
+"text": "Hallie Shoffner Ally Kamala Harris Begins Arkansas Endorsements—Is Shoffner Next?",
+"href": "https://tomcotton.com/news/hallie-shoffner-ally-kamala-harris-begins-arkansas-endorsements/"
+},
+{
+"text": "Home",
+"href": "https://tomcotton.com/"
+},
+{
+"text": "ICYMI: Arkansas Dem Senate Candidate Climbs Into Facebook Comments To Deny She Said She ‘Would Vote To Defund ICE’",
+"href": "https://tomcotton.com/news/shoffner-denies-defund-ice/"
+},
+{
+"text": "ICYMI: Arkansas Democrat Hallie Shoffner Denies Wanting to Defund ICE After Saying She Would Vote to Defund It",
+"href": "https://tomcotton.com/news/breitbart-shoffner-defund-ice/"
+},
+{
+"text": "ICYMI: Cotton on What Defunding ICE Would Mean for Arkansas After Shoffner Admits She Would Defund the Agency",
+"href": "https://tomcotton.com/news/cotton-fox-news-defund-ice/"
+},
+{
+"text": "ICYMI: Hallie Shoffner is Running as an Arkansas Farmer. Before that, She Was an AOC Donor and Dem Insider.",
+"href": "https://tomcotton.com/news/townhall-shoffner-aoc-donor/"
+},
+{
+"text": "Issues",
+"href": "https://tomcotton.com/issues/"
+},
+{
+"text": "National Rifle Association Endorses Senator Tom Cotton, Hallie Shoffner Receives “F” Rating",
+"href": "https://tomcotton.com/news/nra-endorses-cotton/"
+},
+{
+"text": "News",
+"href": "https://tomcotton.com/news/"
+},
+{
+"text": "Other",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button"
+},
+{
+"text": "Privacy",
+"href": "https://tomcotton.com/privacy-policy/"
+},
+{
+"text": "Read the release →",
+"href": "https://tomcotton.com/news/anoa-endorses-cotton/"
+},
+{
+"text": "Read the release →",
+"href": "https://tomcotton.com/news/breitbart-shoffner-defund-ice/"
+},
+{
+"text": "Read the release →",
+"href": "https://tomcotton.com/news/cotton-accepts-salem-debate/"
+},
+{
+"text": "Read the release →",
+"href": "https://tomcotton.com/news/cotton-campaign-announces-827000-raised-more-than-10-million-cash-on-hand/"
+},
+{
+"text": "Read the release →",
+"href": "https://tomcotton.com/news/cotton-fox-news-defund-ice/"
+},
+{
+"text": "Read the release →",
+"href": "https://tomcotton.com/news/hallie-shoffner-ally-kamala-harris-begins-arkansas-endorsements/"
+},
+{
+"text": "Read the release →",
+"href": "https://tomcotton.com/news/kamala-harris-endorsements-shoffner-absent/"
+},
+{
+"text": "Read the release →",
+"href": "https://tomcotton.com/news/nra-endorses-cotton/"
+},
+{
+"text": "Read the release →",
+"href": "https://tomcotton.com/news/shoffner-denies-defund-ice/"
+},
+{
+"text": "Read the release →",
+"href": "https://tomcotton.com/news/statement-on-independent-poll-showing-cottons-16-point-lead/"
+},
+{
+"text": "Read the release →",
+"href": "https://tomcotton.com/news/tom-cotton-backs-citizens-only-voting-amendment/"
+},
+{
+"text": "Read the release →",
+"href": "https://tomcotton.com/news/townhall-shoffner-aoc-donor/"
+},
+{
+"text": "Statement on Independent Poll Showing Cotton’s 16% Lead and Democrats’ Continued Unpopularity in Arkansas",
+"href": "https://tomcotton.com/news/statement-on-independent-poll-showing-cottons-16-point-lead/"
+},
+{
+"text": "Tom Cotton Backs Citizens Only Voting Amendment; Draws Sharp Contrast With Democrat Hallie Shoffner On Illegal Immigration",
+"href": "https://tomcotton.com/news/tom-cotton-backs-citizens-only-voting-amendment/"
+},
+{
+"text": "Volunteer",
+"href": "https://tomcotton.com/volunteer/"
+},
+{
+"text": "[image: Tom Cotton]",
+"href": "https://tomcotton.com/"
+},
+{
+"text": "[image]",
+"href": "https://tomcotton.com/news/statement-on-independent-poll-showing-cottons-16-point-lead/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TomCottonAR/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tomcottonar/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCVhTgeGOPys80LYsNwAxyUQ"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/TomCottonAR"
+},
+{
+"text": "click here",
+"href": "https://www.cotton.senate.gov/"
+},
+{
+"text": "← Newer",
+"href": "https://tomcotton.com/news/"
+},
+{
+"text": "★Endorsed by Gov. Sarah Sanders and every Arkansas statewide official→",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button"
+}
 ]

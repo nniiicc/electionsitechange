@@ -1,42 +1,198 @@
 [
-"http://deniseformaryland.com/",
-"http://facebook.com/delegatedenise",
-"http://instagram.com/delegatedenise",
-"http://linkedin.com/in/denisegeneva",
-"http://twitter.com/delegatedenise",
-"https://deniseformaryland.com/",
-"https://deniseformaryland.com/contact",
-"https://deniseformaryland.com/copy-of-legislation",
-"https://deniseformaryland.com/donate",
-"https://deniseformaryland.com/end-of-session-letter",
-"https://deniseformaryland.com/endorsements",
-"https://deniseformaryland.com/eventlist",
-"https://deniseformaryland.com/get-involved",
-"https://deniseformaryland.com/key-issues",
-"https://deniseformaryland.com/legislation",
-"https://deniseformaryland.com/meet-denise",
-"https://deniseformaryland.com/meet-my-team",
-"https://deniseformaryland.com/mylinks",
-"https://deniseformaryland.com/news-updates",
-"https://deniseformaryland.com/news-updates/categories/blog",
-"https://deniseformaryland.com/news-updates/categories/news-article",
-"https://deniseformaryland.com/news-updates/categories/press-release",
-"https://deniseformaryland.com/our-district",
-"https://deniseformaryland.com/post/how-to-get-involved-in-maryland-politics-a-resident-s-guide-to-civic-action",
-"https://deniseformaryland.com/post/maryland-political-campaign-contribution-guide-supporting-your-community-in-2026",
-"https://deniseformaryland.com/post/voting-rights-and-election-access-in-maryland-a-2026-guide-for-district-25-residents",
-"https://deniseformaryland.com/product-page/team-roberts-jersey",
-"https://deniseformaryland.com/profile/marvina67829/profile",
-"https://deniseformaryland.com/scholarships",
-"https://deniseformaryland.com/services",
-"https://deniseformaryland.com/voter-resources",
-"https://governor.maryland.gov/media/1009",
-"https://kevinmharris.org/",
-"https://marylandmatters.org/2026/07/07/ferguson-pena-melnyk-announce-special-session-for-redistricting",
-"https://marylandmatters.org/2026/07/21/moore-issues-executive-order-officially-calling-special-session",
-"https://mgaleg.maryland.gov/",
-"https://msa.maryland.gov/msa/mdmanual/36loc/pg/html/pg.html",
-"https://thebanner.com/politics-power/state-government/maryland-redistricting-special-session-august-FFFUV4IOQJFHRBEPRL4B4KX2CA",
-"https://wtop.com/maryland/2026/07/maryland-legislative-leaders-limit-special-session-to-congressional-redistricting",
-"https://youtube.com/channel/UCBmCmiNIhX6XU7hB59aMjAA"
+{
+"text": "According to Maryland Matters, Governor Moore issued the executive order on July 17, 2026",
+"href": "https://marylandmatters.org/2026/07/21/moore-issues-executive-order-officially-calling-special-session/"
+},
+{
+"text": "According to The Baltimore Banner",
+"href": "https://www.thebanner.com/politics-power/state-government/maryland-redistricting-special-session-august-FFFUV4IOQJFHRBEPRL4B4KX2CA/"
+},
+{
+"text": "According to WTOP News",
+"href": "https://wtop.com/maryland/2026/07/maryland-legislative-leaders-limit-special-session-to-congressional-redistricting/"
+},
+{
+"text": "All Posts",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "As reported by Maryland Matters",
+"href": "https://marylandmatters.org/2026/07/07/ferguson-pena-melnyk-announce-special-session-for-redistricting/"
+},
+{
+"text": "Blog",
+"href": "https://www.deniseformaryland.com/news-updates/categories/blog"
+},
+{
+"text": "CONTACT",
+"href": "https://www.deniseformaryland.com/contact"
+},
+{
+"text": "Contact Information",
+"href": "https://www.kevinmharris.org/"
+},
+{
+"text": "DONATE",
+"href": "https://www.deniseformaryland.com/donate"
+},
+{
+"text": "Delegate Denise Roberts",
+"href": "https://www.deniseformaryland.com"
+},
+{
+"text": "END OF SESSION LETTER",
+"href": "https://www.deniseformaryland.com/end-of-session-letter"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.deniseformaryland.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.deniseformaryland.com/eventlist"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.deniseformaryland.com/get-involved"
+},
+{
+"text": "Governor's Executive Order",
+"href": "https://governor.maryland.gov/media/1009"
+},
+{
+"text": "HOME",
+"href": "https://www.deniseformaryland.com"
+},
+{
+"text": "How to Get Involved in Maryland Politics: A Resident’s Guide to Civic Action",
+"href": "https://www.deniseformaryland.com/post/how-to-get-involved-in-maryland-politics-a-resident-s-guide-to-civic-action"
+},
+{
+"text": "KEY ISSUES",
+"href": "https://www.deniseformaryland.com/key-issues"
+},
+{
+"text": "LEGISLATION",
+"href": "https://www.deniseformaryland.com/legislation"
+},
+{
+"text": "MEET DENISE",
+"href": "https://www.deniseformaryland.com/meet-denise"
+},
+{
+"text": "MEET MY TEAM",
+"href": "https://www.deniseformaryland.com/meet-my-team"
+},
+{
+"text": "MY LINKS",
+"href": "https://www.deniseformaryland.com/mylinks"
+},
+{
+"text": "Marvina Tribbey",
+"href": "https://www.deniseformaryland.com/profile/marvina67829/profile"
+},
+{
+"text": "Maryland General Assembly Website",
+"href": "https://mgaleg.maryland.gov/"
+},
+{
+"text": "Maryland Matters Coverage",
+"href": "https://marylandmatters.org/2026/07/21/moore-issues-executive-order-officially-calling-special-session/"
+},
+{
+"text": "Maryland Political Campaign Contribution Guide: Supporting Your Community in 2026",
+"href": "https://www.deniseformaryland.com/post/maryland-political-campaign-contribution-guide-supporting-your-community-in-2026"
+},
+{
+"text": "NEWS & UPDATES",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "News Article",
+"href": "https://www.deniseformaryland.com/news-updates/categories/news-article"
+},
+{
+"text": "OUR DISTRICT",
+"href": "https://www.deniseformaryland.com/our-district"
+},
+{
+"text": "Press Release",
+"href": "https://www.deniseformaryland.com/news-updates/categories/press-release"
+},
+{
+"text": "Prince George's County",
+"href": "https://msa.maryland.gov/msa/mdmanual/36loc/pg/html/pg.html"
+},
+{
+"text": "SCHOLARSHIPS",
+"href": "https://www.deniseformaryland.com/scholarships"
+},
+{
+"text": "SERVICES",
+"href": "https://www.deniseformaryland.com/services"
+},
+{
+"text": "SINE DIE STATEMENT",
+"href": "https://www.deniseformaryland.com/copy-of-legislation"
+},
+{
+"text": "STORE",
+"href": "https://www.deniseformaryland.com/product-page/team-roberts-jersey"
+},
+{
+"text": "See All",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "VOTER RESOURCES",
+"href": "https://www.deniseformaryland.com/voter-resources"
+},
+{
+"text": "Voting Rights and Election Access in Maryland: A 2026 Guide for District 25 Residents.",
+"href": "https://www.deniseformaryland.com/post/voting-rights-and-election-access-in-maryland-a-2026-guide-for-district-25-residents"
+},
+{
+"text": "[image: Get Involved in Maryland Politics: A Resident's Guide to Civic Action]",
+"href": "https://www.deniseformaryland.com/post/how-to-get-involved-in-maryland-politics-a-resident-s-guide-to-civic-action"
+},
+{
+"text": "[image: Maryland political campaign contribution ]",
+"href": "https://www.deniseformaryland.com/post/maryland-political-campaign-contribution-guide-supporting-your-community-in-2026"
+},
+{
+"text": "[image: Voting Rights and Election Access in Maryland]",
+"href": "https://www.deniseformaryland.com/post/voting-rights-and-election-access-in-maryland-a-2026-guide-for-district-25-residents"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/channel/UCBmCmiNIhX6XU7hB59aMjAA"
+},
+{
+"text": "[image]",
+"href": "http://facebook.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://instagram.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://twitter.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://www.linkedin.com/in/denisegeneva"
+},
+{
+"text": "denise.roberts@house.maryland.gov",
+"href": "mailto:denisedenise.roberts@house.state.md.us"
+},
+{
+"text": "deniseformaryland.com",
+"href": "http://deniseformaryland.com"
+},
+{
+"text": "hello@deniseformaryland.com",
+"href": "mailto:hello@deniseformaryland.com"
+}
 ]

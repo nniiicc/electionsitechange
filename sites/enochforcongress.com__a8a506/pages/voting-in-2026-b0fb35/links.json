@@ -1,35 +1,158 @@
 [
-"https://boe.ohio.gov/darke",
-"https://boe.ohio.gov/miami",
-"https://boe.ohio.gov/preble",
-"https://campaignhq.app/volunteer",
-"https://elections.bcohio.gov/",
-"https://enochforcongress.com/",
-"https://enochforcongress.com/about-ohios-8th-congressional-district",
-"https://enochforcongress.com/bio",
-"https://enochforcongress.com/blog",
-"https://enochforcongress.com/community-survey",
-"https://enochforcongress.com/contact",
-"https://enochforcongress.com/donate-now",
-"https://enochforcongress.com/endorsements",
-"https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such",
-"https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting",
-"https://enochforcongress.com/events",
-"https://enochforcongress.com/issue",
-"https://enochforcongress.com/product/free-yard-sign",
-"https://enochforcongress.com/shop",
-"https://enochforcongress.com/volunteer",
-"https://enochforcongress.com/volunteer-portal",
-"https://enochforcongress.com/voting-in-2026",
-"https://facebook.com/1DocEnoch",
-"https://instagram.com/doc.enoch",
-"https://linkedin.com/in/dr-vanessa-enoch",
-"https://news.bloomberglaw.com/us-law-week/ohios-signature-matching-ballot-practices-targeted-by-voters",
-"https://ohiosos.gov/elections/voters/absentee-ballot",
-"https://ohiosos.gov/globalassets/elections/forms/11-a_english.pdf",
-"https://ohiosos.gov/globalassets/elections/forms/11-a_spanish.pdf",
-"https://olvr.ohiosos.gov/",
-"https://pinterest.com/EnochforCongress",
-"https://twitter.com/DrVEnoch",
-"https://vote.org/am-i-registered-to-vote"
+{
+"text": "11-A English Absentee Ballot Request Form (PDF)(opens in a new window)",
+"href": "https://www.ohiosos.gov/globalassets/elections/forms/11-a_english.pdf"
+},
+{
+"text": "11-A Spanish Absentee Ballot Request Form (PDF)(opens in a new window)",
+"href": "https://www.ohiosos.gov/globalassets/elections/forms/11-a_spanish.pdf"
+},
+{
+"text": "About",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Biography",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Blog",
+"href": "https://enochforcongress.com/blog/"
+},
+{
+"text": "Bloomberg Law reporter Porter Wells",
+"href": "https://news.bloomberglaw.com/us-law-week/ohios-signature-matching-ballot-practices-targeted-by-voters"
+},
+{
+"text": "Check your Registration",
+"href": "https://www.vote.org/am-i-registered-to-vote/"
+},
+{
+"text": "Complete Online, print & Mail",
+"href": "https://www.ohiosos.gov/elections/voters/absentee-ballot/"
+},
+{
+"text": "Contact",
+"href": "https://enochforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://enochforcongress.com/donate-now/"
+},
+{
+"text": "Endorsements",
+"href": "https://enochforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/1DocEnoch/"
+},
+{
+"text": "Home",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/doc.enoch/"
+},
+{
+"text": "Issues",
+"href": "https://enochforcongress.com/issue/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/dr-vanessa-enoch/"
+},
+{
+"text": "October Meet & Greet with Dr. Vanessa Enoch @ Major Minor Books and Such",
+"href": "https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such/"
+},
+{
+"text": "October Wooster Corridor Democrats Meeting",
+"href": "https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting/"
+},
+{
+"text": "Ohio’s 8th Congressional District",
+"href": "https://enochforcongress.com/about-ohios-8th-congressional-district/"
+},
+{
+"text": "Ohio’s Online Voter Registration System",
+"href": "https://olvr.ohiosos.gov/"
+},
+{
+"text": "Online Voter Registration",
+"href": "https://olvr.ohiosos.gov/"
+},
+{
+"text": "Order a Yard Sign",
+"href": "https://enochforcongress.com/product/free-yard-sign/"
+},
+{
+"text": "Pinterest",
+"href": "https://www.pinterest.com/EnochforCongress/"
+},
+{
+"text": "Share Your Opinion",
+"href": "https://enochforcongress.com/community-survey/"
+},
+{
+"text": "Shop",
+"href": "https://enochforcongress.com/shop/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/DrVEnoch"
+},
+{
+"text": "Upcoming Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "Volunteer",
+"href": "https://campaignhq.app/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://enochforcongress.com/volunteer/"
+},
+{
+"text": "Volunteer Portal",
+"href": "https://enochforcongress.com/volunteer-portal/"
+},
+{
+"text": "Vote.org",
+"href": "https://www.vote.org/am-i-registered-to-vote/"
+},
+{
+"text": "Voting in 2026",
+"href": "https://enochforcongress.com/voting-in-2026/"
+},
+{
+"text": "[image: Vanessa Enoch for Congress]",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "dr.enoch@enochforcongress.com",
+"href": "mailto:dr.enoch@enochforcongress.com"
+},
+{
+"text": "elections.bcohio.gov",
+"href": "https://elections.bcohio.gov/"
+},
+{
+"text": "www.boe.ohio.gov/darke",
+"href": "https://www.boe.ohio.gov/darke/"
+},
+{
+"text": "www.boe.ohio.gov/miami",
+"href": "https://www.boe.ohio.gov/miami/"
+},
+{
+"text": "www.boe.ohio.gov/preble",
+"href": "https://www.boe.ohio.gov/preble/"
+}
 ]

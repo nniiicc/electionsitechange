@@ -1,4 +1,4 @@
-I’m Jamie.
+Skip to content Home Info Meet Jamie Platform Voter Info News News Press Releases Volunteer Events Store Donate Home Info Meet Jamie Platform Voter Info News News Press Releases Volunteer Events Store Donate Menu Meet Jamie Ager I’m Jamie.
 I’m a fourth-generation farmer, entrepreneur, and proud son of Western North Carolina.
 Born in Fairview and raised on my family’s Hickory Nut Gap Farm, I’ve spent my life growing food, building community, and working with people.
 From a young age, my family taught me the values of public service, hard work, and neighborliness.
@@ -26,3 +26,4 @@ I’m concerned about big challenges like recovering from Hurricane Helene, affo
 I’m also outspoken about the need to support local businesses and putting Western North Carolina first.
 I’ve never been afraid to stand up for what’s right, even if it means speaking out against my own party or taking on extremists.
 Western North Carolina deserves a representative who fights for the people, and I’m ready to serve.
+Paid for by Ager for Congress Website proudly designed by Express Lane Strategies with real human labor & creativity, not artificial intelligence. team@agerforcongress.com PO Box 64 Fairview, NC 28730 Copyright © #–# Ager for Congress | Privacy Policy | Media

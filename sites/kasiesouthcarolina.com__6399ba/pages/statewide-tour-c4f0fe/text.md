@@ -1,26 +1,4 @@
-2026 NAACP Annual Convention & Civil Rights Conference – Columbia
-Friday, October 9, 5 p.m.
-Candidates Forum and Meet & Greet
-The Most Worshipful Prince Hall Grand Lodge of South Carolina
-2324 Gervais Street, Columbia SC 29204
-Meet & Greet – Greenville
-Saturday, October 10, 11 am – 1 pm
-Calliope’s Treasures
-3245 Wade Hampton Blvd, Taylors, SC 29687
-Westminster Bigfoot Festival – Oconee
-Saturday, October 10th, 3 pm – 6 pm
-Main Street, Westminster, SC
-Sunday, October 11, 7 pm
-SCETV Studios (closed) and streamed online at scetv.org
-Jeffersonian Society Meeting – Greenville
-October 12, 7:30 pm
-30 Orchard Park Drive, Greenville, SC
-Candidate Meet & Greet – Anderson
-Anderson County NAACP and League of Women Voters, hosting
-Tuesday, October 13, 6 pm
-Anderson Public Library, 300 N McDuffie St, Anderson, SC 29621
-Candidate Meet & Greet – Spartanburg
-Spartanburg League of Women Voters, hosting
-Thursday, October 15, 6 pm
-Spartanburg Community College, Downtown Campus (Gymnasium)
-220 East Kennedy Street, Spartanburg, SC 29302
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now Statewide Tour: Upcoming Events 2026 NAACP Annual Convention & Civil Rights Conference – Columbia Friday, October 9, 5 p.m.
+Candidates Forum and Meet & Greet The Most Worshipful Prince Hall Grand Lodge of South Carolina 2324 Gervais Street, Columbia SC 29204 Meet & Greet – Greenville ​Saturday, October 10, 11 am – 1 pm Calliope’s Treasures 3245 Wade Hampton Blvd, Taylors, SC 29687 Westminster Bigfoot Festival – Oconee Saturday, October 10th, 3 pm – 6 pm Main Street, Westminster, SC SC Election 2026 Debate Sunday, October 11, 7 pm SCETV Studios (closed) and streamed online at scetv.org Jeffersonian Society Meeting – Greenville October 12, 7:30 pm 30 Orchard Park Drive, Greenville, SC Candidate Meet & Greet – Anderson Anderson County NAACP and League of Women Voters, hosting Tuesday, October 13, 6 pm Anderson Public Library, 300 N McDuffie St, Anderson, SC 29621 Candidate Meet & Greet – Spartanburg Spartanburg League of Women Voters, hosting Thursday, October 15, 6 pm Spartanburg Community College, Downtown Campus (Gymnasium) 220 East Kennedy Street, Spartanburg, SC 29302 Want Kasie to come to your county?
+Send her an invitation: 1million@kasiesouthcarolina.com Search Search © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

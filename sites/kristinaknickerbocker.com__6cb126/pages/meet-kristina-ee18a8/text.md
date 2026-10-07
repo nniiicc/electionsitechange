@@ -1,4 +1,4 @@
-U.S.
+Meet Kristina Why I’m Running Media Endorsements Donate Meet Kristina Why I’m Running Media Endorsements Donate Meet Kristina A Life Dedicated to Service U.S.
 Air Force Veteran, Oncology Nurse Practitioner, and mom of two – Kristina Knickerbocker’s life has been dedicated to serving our country and our community.
 Growing up, Kristina and her family enjoyed church and volunteered with local food pantries.
 She learned the meaning of hard work early, juggling multiple jobs to put herself through school.
@@ -12,3 +12,7 @@ She has witnessed the broken healthcare system firsthand – from understaffed f
 The healthcare system failed Kristina during her pregnancy and second childbirth when frightening complications resulting from not being listened to by medical professionals proved nearly fatal.
 This eye-opening and painful journey underscored the importance of patients being their own advocates.
 Today, Kristina and her husband Bret, an attorney and small business leader, are proudly raising their two young children in the Yellow Springs area near Wright-Patterson Air Force Base.
+Donate Meet Kristina Why I’m Running Media Endorsements Kristina Knickerbocker is a U.S.
+Air Force veteran.
+Use of her military rank, job titles, and photographs in uniform does not imply endorsement from the Department of Defense or the Department of the Air Force.
+Paid for By Knickerbocker for Congress Terms & Conditions Privacy Policy © 2026 To contact the campaign: info@kristinaknickerbocker.com Donate by Mail: Knickerbocker for Congress PO Box 292068 Dayton, Ohio 45429

@@ -1,7 +1,9 @@
 {
  "description": "Use the Contact Form below to send us a message.",
  "final_url": "https://www.joygoeben.com/contact.html",
- "paid_for_by": null,
+ "fingerprint": "03a1c2953bd34d68c0b7d429815d9a495db624d8",
+ "format": 3,
+ "paid_for_by": "Authorized by Friends of Joy Goeben",
  "title": "Contact - GOEBEN FOR ASSEMBLY",
  "years_mentioned": []
 }

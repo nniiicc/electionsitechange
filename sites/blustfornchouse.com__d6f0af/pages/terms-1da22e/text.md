@@ -1,5 +1,4 @@
-Mobile Messaging Terms and Conditions
-Blust for NC House (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Blust for NC House ), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+Home About Donate ☰ Terms & Conditions Mobile Messaging Terms and Conditions Blust for NC House (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Blust for NC House ), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 User Opt In: Blust for NC House : You've subscribed to receive messages from Blust for NC House Msg & Data Rates May Apply.
 Message frequency varies.
@@ -57,3 +56,6 @@ We reserves the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
+John Blust for NC House Paid for by Blust for NC House Privacy Policy Terms & Conditions © # Blust for NC House.
+All rights reserved.
+Managed by Sapient Edge Strategies

@@ -1,10 +1,8 @@
-LOCAL ASSISTANCE
-Western Mass Mutual Aid: A website promoting neighborhood connections and grassroots requests and offers of assistance
-United Way of Hampshire County: Resources and opportunities to give both financial and volunteer assistance
-Northampton Neighbors: Provide or receive support for Northampton residents who are 55 and over
-Cooley Dickinson Hospital: Community updates and a dedicated hotline to call if experiencing symptoms or for information regarding COVID-19.
+HOME GETTING TO KNOW US BIO OUR DISTRICT OUR TEAM COMMITTEES CAUCUSES COMMISSIONS LEGISLATION ACCESSING HEALTH CARE CIVIL RIGHTS & DEMOCRACY CLIMATE CRIMINAL JUSTICE EDUCATION HOUSING LABOR LOCAL BILLS PROTECTING PRIVACY PUBLIC HEALTH REPRODUCTIVE AND MATERNAL HEALTH CARE TRANSPORTATION ADVOCACY & NEWS RESOURCES ASK FOR HELP CITATION REQUEST FOOD INSECURITY FUEL ASSISTANCE GIVING AND RECEIVING AID HOUSING IMMIGRATION INTERN WITH US MEDICINE DISPOSAL TAX ASSISTANCE WORKING WITH STATE AGENCIES EVENTS CONTACT US Menu HOME GETTING TO KNOW US BIO OUR DISTRICT OUR TEAM COMMITTEES CAUCUSES COMMISSIONS LEGISLATION ACCESSING HEALTH CARE CIVIL RIGHTS & DEMOCRACY CLIMATE CRIMINAL JUSTICE EDUCATION HOUSING LABOR LOCAL BILLS PROTECTING PRIVACY PUBLIC HEALTH REPRODUCTIVE AND MATERNAL HEALTH CARE TRANSPORTATION ADVOCACY & NEWS RESOURCES ASK FOR HELP CITATION REQUEST FOOD INSECURITY FUEL ASSISTANCE GIVING AND RECEIVING AID HOUSING IMMIGRATION INTERN WITH US MEDICINE DISPOSAL TAX ASSISTANCE WORKING WITH STATE AGENCIES EVENTS CONTACT US There are hundreds of organizations that offer support in the 1st Hampshire District.
+If you see any that are missing, please let us know!
+We are happy to add to this list.
+LOCAL ASSISTANCE Western Mass Mutual Aid : A website promoting neighborhood connections and grassroots requests and offers of assistance United Way of Hampshire County : Resources and opportunities to give both financial and volunteer assistance Northampton Neighbors : Provide or receive support for Northampton residents who are 55 and over Cooley Dickinson Hospital : Community updates and a dedicated hotline to call if experiencing symptoms or for information regarding COVID-19.
 Also, Cooley is accepting both financial and material donations to help meet the challenge of providing care.
-Northampton Senior Services: A comprehensive list of resources available to seniors
-General Assistance
-MyFriendBen: A 6-minute survey to check your eligibility for public benefits.
+Northampton Senior Services : A comprehensive list of resources available to seniors General Assistance MyFriendBen : A 6-minute survey to check your eligibility for public benefits.
 These include SNAP, housing, educational benefits, financial assistance, and more.
+PAID FOR BY THE COMMITTEE TO ELECT LINDSAY SABADOSA All Rights Reserved 2025

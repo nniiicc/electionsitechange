@@ -1,8 +1,1 @@
-Back to All Events
-Chicken in a Barrel BBQ
-9400 Kaumualiʻi Hwy
-Waimea, HI 96796
-REGISTER BY FILLING OUT THE FORM BELOW
-Previous
-Previous
-August 21
+0 Skip to Content Home Meet Misty Priorities FAQ Events Get Involved Donate Contact Downloads Open Menu Close Menu Home Meet Misty Priorities FAQ Events Get Involved Donate Contact Downloads Open Menu Close Menu Home Meet Misty Priorities FAQ Events Get Involved Donate Contact Downloads Back to All Events Meet & Greet - Sept 4 Friday, September 4, 2026 5:00 PM 6:30 PM Google Calendar ICS Chicken in a Barrel BBQ 9400 Kaumualiʻi Hwy Waimea, HI 96796 REGISTER BY FILLING OUT THE FORM BELOW Previous Previous August 21 BBQ Fundraiser

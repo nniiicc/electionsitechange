@@ -1,13 +1,7 @@
-About Bryan Allen
-Rooted in Bensalem’s Working Class
-Bryan Allen is a lifelong Lower Bucks County resident, a father of three, and a dedicated public servant who has spent more than three decades fighting for the community that raised him.
-Raised in a working-class household in Bensalem, Bryan learned early how quickly circumstances can change for a family.
+top of page ગુજરાતીમાં વાંચો!
+Home About Platform Endorsements Contact Vote News More Use tab to navigate through the menu items.
+DONATE GET INVOLVED About Bryan Allen Rooted in Bensalem’s Working Class ​ Bryan Allen is a lifelong Lower Bucks County resident, a father of three, and a dedicated public servant who has spent more than three decades fighting for the community that raised him. ​ Raised in a working-class household in Bensalem, Bryan learned early how quickly circumstances can change for a family.
 His father was a machinist at the Nabisco plant on Roosevelt Boulevard, and his mother worked days while putting herself through nursing school at night.
 Like many local families, there were times when layoffs hit hard, and they relied on SNAP benefits to put food on the table.
-This is why Bryan’s commitment to working families is deeply personal.
-A Proven Record of Local Results
-Bryan doesn't just show up at election time.
-He has a lifetime doing the hard work and delivering:
-- Bensalem Township Council: First elected in 2005 as the first Democrat to win a seat in more than 30 years, Bryan built a reputation for delivering real results and challenging entrenched insider interests.
-- 14+ Years of Legislative Experience: As Chief of Staff to State Representative Tina Davis, Bryan has spent over a decade working directly on the front lines to solve complex problems for Lower Bucks families.
-- Community Leadership: Bryan has served his community broadly, both as the Vice Chair of the Bucks County Water & Sewer Authority Board and as President of the Friends of Silver Lake Nature Center.
+This is why Bryan’s commitment to working families is deeply personal .​​​ ​ ​ A Proven Record of Local Results Bryan doesn't just show up at election time.
+He has a lifetime doing the hard work and delivering: ​ Bensalem Township Council: First elected in 2005 as the first Democrat to win a seat in more than 30 years, Bryan built a reputation for delivering real results and challenging entrenched insider interests. ​ 14+ Years of Legislative Experience: As Chief of Staff to State Representative Tina Davis, Bryan has spent over a decade working directly on the front lines to solve complex problems for Lower Bucks families. ​ Community Leadership: Bryan has served his community broadly, both as the Vice Chair of the Bucks County Water & Sewer Authority Board and as President of the Friends of Silver Lake Nature Center . ​ ​ ​ ​ Home About Platform Endorsements Contact Vote News Paid for by Bryan Allen for PA PO Box 262 Bensalem, PA 19020 contact@bryanallenforpa.com bottom of page

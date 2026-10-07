@@ -1,31 +1,14 @@
-Shelly in the News
-Lawmakers concerned about shift to leased office space for state agencies
-BY BRYAN P.
-SEARS MARYLAND MATTERS SEPTEMBER 11, 2025 Members of a legislative oversight committee expressed concerns Wednesday about what they see as a shift in state policy that could sharply curtail, if not end, the Department of General Services’ role in operating...
-Moore calls for state to turn over surplus land for housing — an elusive goal so far
-BY DANIELLE J BROWN MARYLAND MATTERS SEPTEMBER 8, 2025 A former state office building on Guilford Avenue in Baltimore has a unique honor: It is the only surplus state land that has been targeted for new affordable housing development after three years of trying under...
-Fraud schemes against older Marylanders continue sharp rise, advocates say
-BY WILLIAM J.
-FORD MARYLAND MATTERS JUNE 17, 2025 Jane Dean recalled the urgent phone call on Feb. 13, 2024, from Amazon about a possible fraud by someone trying to purchase a MacBook.
-The retired 72-year-old nurse doesn’t have an Amazon account, but the caller was...
-Maryland begins first-ever inspection program for EV chargers
-BY CHRISTINE CONDON MARYLAND MATTERS APRIL 30, 2025 The little-known team of 18 Maryland Department of Agriculture inspectors that typically checks equipment such as gas pumps and grocery store scales for accuracy has a new target: electric vehicle chargers.
-In recent...
-Maryland overhauls process for releasing aging and sick prisoners: ‘It’s about mercy’
-BY DYLAN SEGELBAUM THE BALTIMORE BANNER APRIL 27, 2025 Maryland lawmakers have passed legislation that overhauls the process for releasing sick and aging prisoners, which advocates had long described as broken and among the worst systems in the United States.
+Support Shelly About Shelly Issues Better Public Education Public Safety & Criminal Justice Health & Wellness Jobs, Housing & Economic Development Our Debt to Seniors Protecting the Environment & Our Democracy Resources & Scholarships Events Latest News Shelly in the News Updates from Shelly Stay in Touch Select Page Shelly in the News Lawmakers concerned about shift to leased office space for state agencies Sep 11, 2025 BY BRYAN P.
+SEARS MARYLAND MATTERS SEPTEMBER 11, 2025 Members of a legislative oversight committee expressed concerns Wednesday about what they see as a shift in state policy that could sharply curtail, if not end, the Department of General Services’ role in operating... read more Moore calls for state to turn over surplus land for housing — an elusive goal so far Sep 8, 2025 BY DANIELLE J BROWN MARYLAND MATTERS SEPTEMBER 8, 2025 A former state office building on Guilford Avenue in Baltimore has a unique honor: It is the only surplus state land that has been targeted for new affordable housing development after three years of trying under... read more Fraud schemes against older Marylanders continue sharp rise, advocates say Jun 17, 2025 BY WILLIAM J.
+FORD MARYLAND MATTERS JUNE 17, 2025 Jane Dean recalled the urgent phone call on Feb.
+13, 2024, from Amazon about a possible fraud by someone trying to purchase a MacBook.
+The retired 72-year-old nurse doesn’t have an Amazon account, but the caller was... read more Maryland begins first-ever inspection program for EV chargers Apr 30, 2025 BY CHRISTINE CONDON MARYLAND MATTERS APRIL 30, 2025 The little-known team of 18 Maryland Department of Agriculture inspectors that typically checks equipment such as gas pumps and grocery store scales for accuracy has a new target: electric vehicle chargers.
+In recent... read more Maryland overhauls process for releasing aging and sick prisoners: ‘It’s about mercy’ Apr 27, 2025 BY DYLAN SEGELBAUM THE BALTIMORE BANNER APRIL 27, 2025 Maryland lawmakers have passed legislation that overhauls the process for releasing sick and aging prisoners, which advocates had long described as broken and among the worst systems in the United States.
 Gov.
-Wes...
-MD legislators passed few gun-related bills amid focus on budget deficit
-BY RACHEL KONIECZNY THE DAILY RECORD APRIL 23, 2025 Maryland legislators saw little progress in passing firearm-related legislation during this year’s General Assembly session, attributing the lack of bills that moved forward to the state’s budget deficit and the...
-Maryland could require teacher screenings after questionable Pikesville High hire
-BY KRISTEN GRIFFITH THE BALTIMORE BANNER MARCH 3, 2025 Maryland school districts could be required to add another step to their hiring processes after a Baltimore County athletic director was hired for a job he wasn’t qualified for.
+Wes... read more MD legislators passed few gun-related bills amid focus on budget deficit Apr 23, 2025 BY RACHEL KONIECZNY THE DAILY RECORD APRIL 23, 2025 Maryland legislators saw little progress in passing firearm-related legislation during this year’s General Assembly session, attributing the lack of bills that moved forward to the state’s budget deficit and the... read more Maryland could require teacher screenings after questionable Pikesville High hire Mar 3, 2025 BY KRISTEN GRIFFITH THE BALTIMORE BANNER MARCH 3, 2025 Maryland school districts could be required to add another step to their hiring processes after a Baltimore County athletic director was hired for a job he wasn’t qualified for.
 State Sen.
-Shelly Hettleman, who...
-Sierra Club poll finds wide support for more transit, walking and biking investments
-BY JOSH KURTZ MARYLAND MATTERS JANUARY 28, 2025 Maryland voters would like to have better access to public transit and safer, more convenient walking and biking options — and they want to see the state investing more money in these kinds of infrastructure projects....
-Campaign to bolster Maryland’s weak anti-SLAPP law gets a boost from a Baltimore story
-BY FERN SHEN BALTIMORE BREW JANUARY 20, 2025 For more than a decade, every year, advocates for strengthening Maryland’s law to protect citizens from baseless intimidation lawsuits have come to Annapolis to point out who suffers because of them.
-Victims of intimate...
-Marine vet and local clinician help pass law for more access to prosthetics in Maryland
-BY ELIZABETH WORTHINGTON WMAR 2 NEWS JANUARY 3 2025 It's the same idea for amputees like John Edward Heath, who lost his leg after he was hit by a drunk driver.
-When he tries to jog in a prosthetic device designed only for walking: "You feel the lag," Heath told...
+Shelly Hettleman, who... read more Sierra Club poll finds wide support for more transit, walking and biking investments Jan 28, 2025 BY JOSH KURTZ MARYLAND MATTERS JANUARY 28, 2025 Maryland voters would like to have better access to public transit and safer, more convenient walking and biking options — and they want to see the state investing more money in these kinds of infrastructure projects.... read more Campaign to bolster Maryland’s weak anti-SLAPP law gets a boost from a Baltimore story Jan 20, 2025 BY FERN SHEN BALTIMORE BREW JANUARY 20, 2025 For more than a decade, every year, advocates for strengthening Maryland’s law to protect citizens from baseless intimidation lawsuits have come to Annapolis to point out who suffers because of them.
+Victims of intimate... read more Marine vet and local clinician help pass law for more access to prosthetics in Maryland Jan 3, 2025 BY ELIZABETH WORTHINGTON WMAR 2 NEWS JANUARY 3 2025 It's the same idea for amputees like John Edward Heath, who lost his leg after he was hit by a drunk driver.
+When he tries to jog in a prosthetic device designed only for walking: "You feel the lag," Heath told... read more « Older Entries Next Entries » Get in Touch Contact Us Name * First Last * Last Email * Phone Address Street City City State State ZIP ZIP Subject * Message * D11 Constituent?
+Yes No reCAPTCHA Submit Follow Shelly Follow Follow Follow Facebook Twitter © # Shelly Hettleman.
+Web Design by Web Interactive Technologies Paid by Friends of Shelly Hettleman, Caren Lichter, Treasurer.

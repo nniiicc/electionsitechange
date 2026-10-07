@@ -1,10 +1,14 @@
 {
  "description": "Ron Dunn in the News",
  "final_url": "https://www.voterondunn.com/news",
- "paid_for_by": null,
+ "fingerprint": "f2c44f8bf28a15d2ab802a81dfcc1c1721b199fd",
+ "format": 3,
+ "paid_for_by": "authorized by the owner of the property, or a law enforcement officer may remove advertising placed without permission",
  "title": "News",
  "years_mentioned": [
+  "2000",
   "2014",
+  "2015",
   "2019",
   "2020",
   "2021",

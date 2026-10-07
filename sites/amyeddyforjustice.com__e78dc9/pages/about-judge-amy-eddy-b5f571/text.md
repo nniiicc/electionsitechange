@@ -1,5 +1,4 @@
-A JUDGE THAT IS FAIR, IMPARTIAL, & INDEPENDENT FOR OUR MONTANA SUPREME COURT
-Judge Amy Eddy grew up at a small family lodge alongside her parents and two younger sisters.
+0 Skip to Content HOME ABOUT JUDGE AMY EDDY ENDORSEMENTS NEWS CONTACT US CONTRIBUTE Open Menu Close Menu HOME ABOUT JUDGE AMY EDDY ENDORSEMENTS NEWS CONTACT US CONTRIBUTE Open Menu Close Menu HOME ABOUT JUDGE AMY EDDY ENDORSEMENTS NEWS CONTACT US CONTRIBUTE A JUDGE THAT IS FAIR, IMPARTIAL, & INDEPENDENT FOR OUR MONTANA SUPREME COURT Judge Amy Eddy grew up at a small family lodge alongside her parents and two younger sisters.
 They were snowed in during the winters.
 When she began kindergarten, she cross-country skied 2.5 miles down the road to catch the school bus into town.
 At that time, their town had a two-room K-8 school with just ten students.
@@ -32,4 +31,9 @@ It demands empathy, common sense, and the stamina to show up every day ready to 
 These are the qualities Judge Eddy has brought to the bench throughout her career.
 They are the same principles she will carry with her to the Montana Supreme Court.
 Judge Amy Eddy is asking for the support of all Montanans—not just as a candidate, but as a fellow citizen who believes in fairness, justice, and the promise of equal treatment under the law.
-She is ready for the road ahead and looks forward to earning the trust of voters across the state.
+She is ready for the road ahead and looks forward to earning the trust of voters across the state. “ On the Supreme Court, I will focus on protecting Montanans’ freedoms and rights.
+I will uphold the Constitution.
+I will always follow the law and I’ll keep politics out of the courtroom.
+As a judge, I have always been proud of the fact that everyone who steps into my court gets a fair shake, and I’ll continue this approach on our state’s highest court. ” — Judge Amy Eddy For all inquiries, email: info@amyeddyforjustice.com P.O.
+Box 1503, Kalispell, MT 59903 Headshot Media PAID FOR BY JUDGE AMY EDDY FOR MONTANA SUPREME COURT, P.O.
+Box 1503, Kalispell, MT 59903

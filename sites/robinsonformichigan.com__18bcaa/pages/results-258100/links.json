@@ -1,9 +1,38 @@
 [
-"https://facebook.com/ron.robinson.18",
-"https://robinsonformichigan.com/",
-"https://robinsonformichigan.com/about",
-"https://robinsonformichigan.com/events",
-"https://robinsonformichigan.com/issues",
-"https://robinsonformichigan.com/results",
-"https://secure.anedot.com/cte-ron-robinson/donate"
+{
+"text": "About",
+"href": "https://robinsonformichigan.com/about"
+},
+{
+"text": "Donate!",
+"href": "https://secure.anedot.com/cte-ron-robinson/donate"
+},
+{
+"text": "Events",
+"href": "https://robinsonformichigan.com/events"
+},
+{
+"text": "Home",
+"href": "https://robinsonformichigan.com/"
+},
+{
+"text": "Issues",
+"href": "https://robinsonformichigan.com/issues"
+},
+{
+"text": "Request Yard Sign!",
+"href": "mailto:ron@robinsonformichigan.com"
+},
+{
+"text": "Results",
+"href": "https://robinsonformichigan.com/results"
+},
+{
+"text": "[image: Ron Robinson for State Representative logo]",
+"href": "https://robinsonformichigan.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/ron.robinson.18"
+}
 ]

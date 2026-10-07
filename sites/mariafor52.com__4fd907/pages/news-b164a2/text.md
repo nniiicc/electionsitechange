@@ -1,1 +1,2 @@
-In The News April 26, 2026 News Article Maria Peterson wins state House District 52 primary: ‘I’ve built a strong grassroots foundation’ Read news article →
+Follow us Menu Home Meet Candidate Events Endorsements Issues News Voting Info Volunteer Donate Follow us Donate In The News April 26, 2026 News Article Maria Peterson wins state House District 52 primary: ‘I’ve built a strong grassroots foundation’ Read news article → Stay Up To Date Follow us on the campaign trail!
+Email Email Subscribe Donate Follow us Home Meet Candidate Events Endorsements Issues News Voting Info Volunteer Donate Paid for by maria for 52 Maria for 52 © # 125 Carriage Road North Barrington, IL 60010 Accessibility Statement Terms of Service Contact Privacy Policy

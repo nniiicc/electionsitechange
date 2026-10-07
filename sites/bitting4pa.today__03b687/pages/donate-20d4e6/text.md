@@ -1,5 +1,3 @@
-We're working to get Jared elected to give Governor Josh Shapiro an ally in the State House from the 138th District.
-Your donation of any amount goes a long way to help!
-*If you've saved your information with ActBlue Express your donation will go through immediately.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Jared Bitting About Meet Jared On the Issues Endorsements Take Action Donate Find an Event Volunteer Contact Us Donate More Jared Bitting About Meet Jared On the Issues Endorsements Take Action Donate Find an Event Volunteer Contact Us Donate Jared Bitting About Meet Jared On the Issues Endorsements Take Action Donate Find an Event Volunteer Contact Us Donate DONATE SUPPORT OUR CAUSE We're working to get Jared elected to give Governor Josh Shapiro an ally in the State House from the 138th District.
+Your donation of any amount goes a long way to help! *If you've saved your information with ActBlue Express your donation will go through immediately. $25 $50 $100 Other Copyright © # Bitting for PA - All Rights Reserved.
+Powered by

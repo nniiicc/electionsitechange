@@ -1,7 +1,11 @@
 {
  "description": "Maryland is ready for change and with your help, Senator Justin Ready will deliver it.",
  "final_url": "https://www.justinready.com/",
- "paid_for_by": null,
+ "fingerprint": "a6cc42862b4a601addedcf2291fb54c0f35a9680",
+ "format": 3,
+ "paid_for_by": "",
  "title": "",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

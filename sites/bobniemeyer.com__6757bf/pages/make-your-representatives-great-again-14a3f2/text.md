@@ -1,6 +1,5 @@
-Fellow Oregonians: We-The-People need Representatives to Represent again!
-Abraham Lincoln on November 19, 1863 said in the conclusion of the Gettysburg Address; “we here highly resolve these dead shall not have died in vain; that the nation, under God, shall have a new birth of freedom, and that government of the people by the people for the people, shall not perish from the earth.”
-It took a little more than 100 years for the government of Oregon, as well as many other States, to convert Of-By-and-For the People to Of-By-and-For the government.
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer Make your Representatives Great Again Fellow Oregonians: We-The-People need Representatives to Represent again!
+Abraham Lincoln on November 19, 1863 said in the conclusion of the Gettysburg Address; “we here highly resolve these dead shall not have died in vain; that the nation, under God, shall have a new birth of freedom, and that government of the people by the people for the people, shall not perish from the earth.” It took a little more than 100 years for the government of Oregon, as well as many other States, to convert Of-By-and-For the People to Of-By-and-For the government.
 This was done before our very eyes through the use of benefits such as pensions, healthcare, insurance, or any number perks that are being used to lure employees to work for any given employer across this Nation.
 Benefits that are designed to generate commitment and loyalty to your employer.
 Lincoln was completely correct that our government is Of-By-and-For the People.
@@ -20,6 +19,6 @@ There isn’t anything wrong with working for the government as a profession.
 The only difference would be that instead of partners in crime, the Elected and Appointed would be your boss.
 There is something wrong with representing the government instead of the People as an elected or appointed official.
 “Independence Contractors” really is the only way to stop the stupidity and bring back commons sense.
-Our Representatives will only be “Great Again” when their hopes, dreams, and futures are one-and-the-same as
-We-the-People.
-Bob Niemeyer
+Our Representatives will only be “Great Again” when their hopes, dreams, and futures are one-and-the-same as We-the-People.
+Bob Niemeyer Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign Discover more from Bob Niemeyer Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading

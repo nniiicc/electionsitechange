@@ -1,127 +1,746 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=4th+Annual+Stonewall+Dems+Party&dates=20260918T210000Z%2F20260919T000000Z&location=312+Cleveland+Avenue+Northwest%2C+Canton%2C+Ohio%2C+44702%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=All+In+Fundraiser&dates=20260326T220000Z%2F20260327T000000Z&location=5260+Dressler+Road+Northwest%2C+Canton%2C+OH%2C+44718%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Calling+All+Divine+Nine&dates=20261017T143000Z%2F20261017T170000Z&location=1841+3rd+Street+Northeast%2C+Canton%2C+Ohio%2C+44704%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Calling+All+Educators+&dates=20260919T143000Z%2F20260919T170000Z&location=1841+3rd+Street+Northeast%2C+Canton%2C+Ohio%2C+44704%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Calling+All+Friends+%26+Family+&dates=20261031T143000Z%2F20261031T170000Z&location=1841+3rd+Street+Northeast%2C+Canton%2C+Ohio%2C+44704%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Calling+All+Labor+Unions&dates=20261003T143000Z%2F20261003T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Kick-Off&dates=20240314T203000Z%2F20240314T223000Z&location=101+Central+Plaza+South%2C+Canton%2C+OH%2C+44702%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Kickoff+&dates=20260115T210000Z%2F20260116T000000Z&location=217+2nd+Street+Northwest%2C+Canton%2C+OH%2C+44702%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canton+Canvass+Launch&dates=20260329T170000Z%2F20260329T193000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canton+Canvass+for+Krista+Allison+for+State+Representative&dates=20240817T100000Z%2F20240817T130000Z&location=1909+3rd+Street+Northeast%2C+Canton%2C+OH%2C+44704%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event&dates=20241005T130000Z%2F20241005T170000Z&location=1841+3rd+Street+Northeast%2C+Canton%2C+OH%2C+44704%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event+&dates=20241012T130000Z%2F20241012T170000Z&location=1841+3rd+Street+Northeast%2C+Canton%2C+OH%2C+44704%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event+&dates=20241019T130000Z%2F20241019T170000Z&location=1841+3rd+St+NE+%2C+Canton%2C+Ohio%2C+44704%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event+&dates=20241026T130000Z%2F20241026T170000Z&location=1841+3rd+St+NE+%2C+Canton%2C+Ohio%2C+44704%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event+&dates=20241102T130000Z%2F20241102T170000Z&location=1841+3rd+St+NE+%2C+Canton%2C+Ohio%2C+44704%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Krista&dates=20260307T150000Z%2F20260307T190000Z&location=1909+3rd+Street+Northeast%2C+Canton%2C+OH%2C+44704%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Conversations+with+Krista+&dates=20260228T183000Z%2F20260228T200000Z&location=4996+Fulton+Dr+NW%2C+Canton%2C+OH%2C+44718%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Custard+and+Conversations+with+Krista&dates=20260408T213000Z%2F20260408T230000Z&location=4896+Everhard+Road+Northwest%2C+Canton%2C+OH%2C+44718%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Flip+the+49th+Kickoff+Fundraiser&dates=20260603T213000Z%2F20260604T003000Z&location=5260+Dressler+Road+Northwest%2C+Canton%2C+OH%2C+44718%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Holiday+Giving+%26amp%3B+CommUNITY+Meet-and-Greet%F0%9F%8E%81+&dates=20251211T220000Z%2F20251212T000000Z&location=331+Cleveland+Avenue+Northwest%2C+Canton%2C+OH%2C+44702%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joes+and+Dogs&dates=20261017T150000Z%2F20261017T180000Z&location=3919+13th+Street+Southwest%2C+Canton%2C+Ohio%2C+44710%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Karaoke+With+Krista+&dates=20260424T223000Z%2F20260425T003000Z&location=111+Cleveland+Avenue+Southwest%2C+Canton%2C+OH%2C+44702%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Krista+L.+Allison+Special+Gathering+&dates=20240502T200000Z%2F20240502T230000Z&location=5570+Fulton+Drive+Northwest%2C+Canton%2C+OH%2C+44718%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Spaghetti+Dinner+Fundraiser&dates=20240504T153000Z%2F20240504T183000Z&location=3919+13th+Street+Southwest%2C+Canton%2C+OH%2C+44710%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Spaghetti+Dinner+Fundraiser+&dates=20240413T153000Z%2F20240413T183000Z&location=408+9th+Street+Southwest%2C+Canton%2C+OH%2C+44707%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Special+Gathering&dates=20240606T210000Z%2F20240606T230000Z&location=5570+Fulton+Drive+Northwest%2C+Canton%2C+OH%2C+44718%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Still+She+Rises%3A+A+Celebration+of+Women%E2%80%99s+Empowerment+%26+Leadership&dates=20260902T220000Z%2F20260903T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Taco+Tuesday+with+Krista+%F0%9F%8C%AE+&dates=20260728T213000Z%2F20260728T233000Z&location=220+Dueber+Avenue+Southwest%2C+Canton%2C+Ohio%2C+44706%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Volunteer+Rally&dates=20240601T130000Z%2F20240601T150000Z&location=3919+13th+Street+Southwest%2C+Canton%2C+OH%2C+44710%2C+United+States",
-"http://maps.google.com/?q=101+Central+Plaza+South+Canton%2C+OH%2C+44702+United+States",
-"http://maps.google.com/?q=111+Cleveland+Avenue+Southwest+Canton%2C+OH%2C+44702+United+States",
-"http://maps.google.com/?q=1841+3rd+St+NE++Canton%2C+Ohio%2C+44704+United+States",
-"http://maps.google.com/?q=1841+3rd+Street+Northeast+Canton%2C+OH%2C+44704+United+States",
-"http://maps.google.com/?q=1841+3rd+Street+Northeast+Canton%2C+Ohio%2C+44704+United+States",
-"http://maps.google.com/?q=1909+3rd+Street+Northeast+Canton%2C+OH%2C+44704+United+States",
-"http://maps.google.com/?q=217+2nd+Street+Northwest+Canton%2C+OH%2C+44702+United+States",
-"http://maps.google.com/?q=220+Dueber+Avenue+Southwest+Canton%2C+Ohio%2C+44706+United+States",
-"http://maps.google.com/?q=312+Cleveland+Avenue+Northwest+Canton%2C+Ohio%2C+44702+United+States",
-"http://maps.google.com/?q=331+Cleveland+Avenue+Northwest+Canton%2C+OH%2C+44702+United+States",
-"http://maps.google.com/?q=3919+13th+Street+Southwest+Canton%2C+OH%2C+44710+United+States",
-"http://maps.google.com/?q=3919+13th+Street+Southwest+Canton%2C+Ohio%2C+44710+United+States",
-"http://maps.google.com/?q=408+9th+Street+Southwest+Canton%2C+OH%2C+44707+United+States",
-"http://maps.google.com/?q=4896+Everhard+Road+Northwest+Canton%2C+OH%2C+44718+United+States",
-"http://maps.google.com/?q=4996+Fulton+Dr+NW+Canton%2C+OH%2C+44718+United+States",
-"http://maps.google.com/?q=5260+Dressler+Road+Northwest+Canton%2C+OH%2C+44718+United+States",
-"http://maps.google.com/?q=5570+Fulton+Drive+Northwest+Canton%2C+OH%2C+44718+United+States",
-"https://docs.google.com/forms/d/e/1FAIpQLSfEXbTJ9H_2WSushlWzC1CSJSf6cp8j4Gq1F31Py9t8X0foew/viewform?usp=send_form",
-"https://eventbrite.com/e/1983143879729?aff=oddtdtcreator",
-"https://eventbrite.com/e/conversations-with-krista-tickets-1982479340073?aff=oddtdtcreator",
-"https://eventbrite.com/e/fundraiser-tickets-1983147503568?aff=oddtdtcreator",
-"https://facebook.com/KristaLAllison49",
-"https://forms.gle/2QhELgnvxidSVuG19",
-"https://instagram.com/krista_l_allison",
-"https://kristalallisonforoh49.com/",
-"https://kristalallisonforoh49.com/about",
-"https://kristalallisonforoh49.com/cart",
-"https://kristalallisonforoh49.com/contact",
-"https://kristalallisonforoh49.com/endorsements",
-"https://kristalallisonforoh49.com/events",
-"https://kristalallisonforoh49.com/events/06kyzfb0g5uv8sy7dasrtn2pp8t0h6",
-"https://kristalallisonforoh49.com/events/06kyzfb0g5uv8sy7dasrtn2pp8t0h6?format=ical",
-"https://kristalallisonforoh49.com/events/0tvnbslj71douhb6kqncw6uoxsjxhd",
-"https://kristalallisonforoh49.com/events/0tvnbslj71douhb6kqncw6uoxsjxhd?format=ical",
-"https://kristalallisonforoh49.com/events/5fs5wdip2lvedg50r76wj753z0bmeq",
-"https://kristalallisonforoh49.com/events/5fs5wdip2lvedg50r76wj753z0bmeq?format=ical",
-"https://kristalallisonforoh49.com/events/calling-all-friends-family",
-"https://kristalallisonforoh49.com/events/calling-all-friends-family?format=ical",
-"https://kristalallisonforoh49.com/events/calling-all-labor-unions",
-"https://kristalallisonforoh49.com/events/calling-all-labor-unions?format=ical",
-"https://kristalallisonforoh49.com/events/campaign-kickoff",
-"https://kristalallisonforoh49.com/events/campaign-kickoff-1",
-"https://kristalallisonforoh49.com/events/campaign-kickoff-1?format=ical",
-"https://kristalallisonforoh49.com/events/campaign-kickoff?format=ical",
-"https://kristalallisonforoh49.com/events/canton-canvass-for-krista-allison-for-state-representative",
-"https://kristalallisonforoh49.com/events/canton-canvass-for-krista-allison-for-state-representative?format=ical",
-"https://kristalallisonforoh49.com/events/canvassing-event",
-"https://kristalallisonforoh49.com/events/canvassing-event?format=ical",
-"https://kristalallisonforoh49.com/events/canvassing-with-krista",
-"https://kristalallisonforoh49.com/events/canvassing-with-krista?format=ical",
-"https://kristalallisonforoh49.com/events/community-canvassing",
-"https://kristalallisonforoh49.com/events/community-canvassing?format=ical",
-"https://kristalallisonforoh49.com/events/custard-and-conversations-with-krista",
-"https://kristalallisonforoh49.com/events/custard-and-conversations-with-krista?format=ical",
-"https://kristalallisonforoh49.com/events/flip-the-49th-kickoff-fundraiser",
-"https://kristalallisonforoh49.com/events/flip-the-49th-kickoff-fundraiser?format=ical",
-"https://kristalallisonforoh49.com/events/fundraiser",
-"https://kristalallisonforoh49.com/events/fundraiser?format=ical",
-"https://kristalallisonforoh49.com/events/gblndq3qmmqa4frspao3uaxy28qrhy",
-"https://kristalallisonforoh49.com/events/gblndq3qmmqa4frspao3uaxy28qrhy?format=ical",
-"https://kristalallisonforoh49.com/events/joes-and-dogs",
-"https://kristalallisonforoh49.com/events/joes-and-dogs?format=ical",
-"https://kristalallisonforoh49.com/events/k3josqzu6ua6ce0y2hbnw1t2ew384m",
-"https://kristalallisonforoh49.com/events/k3josqzu6ua6ce0y2hbnw1t2ew384m?format=ical",
-"https://kristalallisonforoh49.com/events/karaoke-with-krista",
-"https://kristalallisonforoh49.com/events/karaoke-with-krista?format=ical",
-"https://kristalallisonforoh49.com/events/spaghetti-dinner",
-"https://kristalallisonforoh49.com/events/spaghetti-dinner-fundraiser",
-"https://kristalallisonforoh49.com/events/spaghetti-dinner-fundraiser?format=ical",
-"https://kristalallisonforoh49.com/events/spaghetti-dinner?format=ical",
-"https://kristalallisonforoh49.com/events/special-gathering",
-"https://kristalallisonforoh49.com/events/special-gathering?format=ical",
-"https://kristalallisonforoh49.com/events/specialgathering",
-"https://kristalallisonforoh49.com/events/specialgathering?format=ical",
-"https://kristalallisonforoh49.com/events/still-she-rises-a-celebration-of-womens-empowerment-leadership",
-"https://kristalallisonforoh49.com/events/still-she-rises-a-celebration-of-womens-empowerment-leadership?format=ical",
-"https://kristalallisonforoh49.com/events/stonewall-dems-party",
-"https://kristalallisonforoh49.com/events/stonewall-dems-party?format=ical",
-"https://kristalallisonforoh49.com/events/taco-tuesday-with-krista-",
-"https://kristalallisonforoh49.com/events/taco-tuesday-with-krista-?format=ical",
-"https://kristalallisonforoh49.com/events/volunteerday",
-"https://kristalallisonforoh49.com/events/volunteerday?format=ical",
-"https://kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg",
-"https://kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg-3jpdg",
-"https://kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg-3jpdg-pf9lf",
-"https://kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg-3jpdg-pf9lf?format=ical",
-"https://kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg-3jpdg?format=ical",
-"https://kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg?format=ical",
-"https://kristalallisonforoh49.com/learnmore",
-"https://kristalallisonforoh49.com/media",
-"https://kristalallisonforoh49.com/privacy-policy",
-"https://kristalallisonforoh49.com/what-krista-believes",
-"https://mobilize.us/emiliasykesforcongress/event/726678",
-"https://mobilize.us/ohdems/event/669715",
-"https://secure.actblue.com/donate/community-for-krista-l-allison-1",
-"https://secure.actblue.com/donate/e_tacotuesday2026"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=101+central+plaza+south+canton%2C+oh%2C+44702+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=111+cleveland+avenue+southwest+canton%2C+oh%2C+44702+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1841+3rd+st+ne++canton%2C+ohio%2C+44704+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1841+3rd+street+northeast+canton%2C+oh%2C+44704+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1841+3rd+street+northeast+canton%2C+ohio%2C+44704+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1909+3rd+street+northeast+canton%2C+oh%2C+44704+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=217+2nd+street+northwest+canton%2C+oh%2C+44702+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=220+dueber+avenue+southwest+canton%2C+ohio%2C+44706+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=312+cleveland+avenue+northwest+canton%2C+ohio%2C+44702+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=331+cleveland+avenue+northwest+canton%2C+oh%2C+44702+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3919+13th+street+southwest+canton%2C+oh%2C+44710+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3919+13th+street+southwest+canton%2C+ohio%2C+44710+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=408+9th+street+southwest+canton%2C+oh%2C+44707+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4896+everhard+road+northwest+canton%2C+oh%2C+44718+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4996+fulton+dr+nw+canton%2C+oh%2C+44718+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5260+dressler+road+northwest+canton%2C+oh%2C+44718+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5570+fulton+drive+northwest+canton%2C+oh%2C+44718+united+states"
+},
+{
+"text": "0",
+"href": "https://www.kristalallisonforoh49.com/cart"
+},
+{
+"text": "4th Annual Stonewall Dems Party",
+"href": "https://www.kristalallisonforoh49.com/events/stonewall-dems-party"
+},
+{
+"text": "About Krista",
+"href": "https://www.kristalallisonforoh49.com/about"
+},
+{
+"text": "All In Fundraiser",
+"href": "https://www.kristalallisonforoh49.com/events/fundraiser"
+},
+{
+"text": "Calling All Divine Nine",
+"href": "https://www.kristalallisonforoh49.com/events/k3josqzu6ua6ce0y2hbnw1t2ew384m"
+},
+{
+"text": "Calling All Educators",
+"href": "https://www.kristalallisonforoh49.com/events/gblndq3qmmqa4frspao3uaxy28qrhy"
+},
+{
+"text": "Calling All Friends & Family",
+"href": "https://www.kristalallisonforoh49.com/events/calling-all-friends-family"
+},
+{
+"text": "Calling All Labor Unions",
+"href": "https://www.kristalallisonforoh49.com/events/calling-all-labor-unions"
+},
+{
+"text": "Campaign Kick-Off",
+"href": "https://www.kristalallisonforoh49.com/events/campaign-kickoff"
+},
+{
+"text": "Campaign Kickoff",
+"href": "https://www.kristalallisonforoh49.com/events/campaign-kickoff-1"
+},
+{
+"text": "Canton Canvass Launch",
+"href": "https://www.kristalallisonforoh49.com/events/06kyzfb0g5uv8sy7dasrtn2pp8t0h6"
+},
+{
+"text": "Canton Canvass for Krista Allison for State Representative",
+"href": "https://www.kristalallisonforoh49.com/events/canton-canvass-for-krista-allison-for-state-representative"
+},
+{
+"text": "Canvassing Event",
+"href": "https://www.kristalallisonforoh49.com/events/canvassing-event"
+},
+{
+"text": "Canvassing Event",
+"href": "https://www.kristalallisonforoh49.com/events/community-canvassing"
+},
+{
+"text": "Canvassing Event",
+"href": "https://www.kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg"
+},
+{
+"text": "Canvassing Event",
+"href": "https://www.kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg-3jpdg"
+},
+{
+"text": "Canvassing Event",
+"href": "https://www.kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg-3jpdg-pf9lf"
+},
+{
+"text": "Canvassing with Krista",
+"href": "https://www.kristalallisonforoh49.com/events/canvassing-with-krista"
+},
+{
+"text": "Contact Us",
+"href": "https://www.kristalallisonforoh49.com/contact"
+},
+{
+"text": "Conversations with Krista",
+"href": "https://www.kristalallisonforoh49.com/events/0tvnbslj71douhb6kqncw6uoxsjxhd"
+},
+{
+"text": "Custard and Conversations with Krista",
+"href": "https://www.kristalallisonforoh49.com/events/custard-and-conversations-with-krista"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/community-for-krista-l-allison-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kristalallisonforoh49.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.kristalallisonforoh49.com/events"
+},
+{
+"text": "Flip the 49th Kickoff Fundraiser",
+"href": "https://www.kristalallisonforoh49.com/events/flip-the-49th-kickoff-fundraiser"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=4th+Annual+Stonewall+Dems+Party&dates=20260918T210000Z%2F20260919T000000Z&location=312+Cleveland+Avenue+Northwest%2C+Canton%2C+Ohio%2C+44702%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=All+In+Fundraiser&dates=20260326T220000Z%2F20260327T000000Z&location=5260+Dressler+Road+Northwest%2C+Canton%2C+OH%2C+44718%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Calling+All+Divine+Nine&dates=20261017T143000Z%2F20261017T170000Z&location=1841+3rd+Street+Northeast%2C+Canton%2C+Ohio%2C+44704%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Calling+All+Educators+&dates=20260919T143000Z%2F20260919T170000Z&location=1841+3rd+Street+Northeast%2C+Canton%2C+Ohio%2C+44704%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Calling+All+Friends+%26+Family+&dates=20261031T143000Z%2F20261031T170000Z&location=1841+3rd+Street+Northeast%2C+Canton%2C+Ohio%2C+44704%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Calling+All+Labor+Unions&dates=20261003T143000Z%2F20261003T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Kick-Off&dates=20240314T203000Z%2F20240314T223000Z&location=101+Central+Plaza+South%2C+Canton%2C+OH%2C+44702%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Kickoff+&dates=20260115T210000Z%2F20260116T000000Z&location=217+2nd+Street+Northwest%2C+Canton%2C+OH%2C+44702%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canton+Canvass+Launch&dates=20260329T170000Z%2F20260329T193000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canton+Canvass+for+Krista+Allison+for+State+Representative&dates=20240817T100000Z%2F20240817T130000Z&location=1909+3rd+Street+Northeast%2C+Canton%2C+OH%2C+44704%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event&dates=20241005T130000Z%2F20241005T170000Z&location=1841+3rd+Street+Northeast%2C+Canton%2C+OH%2C+44704%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event+&dates=20241012T130000Z%2F20241012T170000Z&location=1841+3rd+Street+Northeast%2C+Canton%2C+OH%2C+44704%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event+&dates=20241019T130000Z%2F20241019T170000Z&location=1841+3rd+St+NE+%2C+Canton%2C+Ohio%2C+44704%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event+&dates=20241026T130000Z%2F20241026T170000Z&location=1841+3rd+St+NE+%2C+Canton%2C+Ohio%2C+44704%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event+&dates=20241102T130000Z%2F20241102T170000Z&location=1841+3rd+St+NE+%2C+Canton%2C+Ohio%2C+44704%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Krista&dates=20260307T150000Z%2F20260307T190000Z&location=1909+3rd+Street+Northeast%2C+Canton%2C+OH%2C+44704%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Conversations+with+Krista+&dates=20260228T183000Z%2F20260228T200000Z&location=4996+Fulton+Dr+NW%2C+Canton%2C+OH%2C+44718%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Custard+and+Conversations+with+Krista&dates=20260408T213000Z%2F20260408T230000Z&location=4896+Everhard+Road+Northwest%2C+Canton%2C+OH%2C+44718%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Flip+the+49th+Kickoff+Fundraiser&dates=20260603T213000Z%2F20260604T003000Z&location=5260+Dressler+Road+Northwest%2C+Canton%2C+OH%2C+44718%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Holiday+Giving+%26amp%3B+CommUNITY+Meet-and-Greet%F0%9F%8E%81+&dates=20251211T220000Z%2F20251212T000000Z&location=331+Cleveland+Avenue+Northwest%2C+Canton%2C+OH%2C+44702%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joes+and+Dogs&dates=20261017T150000Z%2F20261017T180000Z&location=3919+13th+Street+Southwest%2C+Canton%2C+Ohio%2C+44710%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Karaoke+With+Krista+&dates=20260424T223000Z%2F20260425T003000Z&location=111+Cleveland+Avenue+Southwest%2C+Canton%2C+OH%2C+44702%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Krista+L.+Allison+Special+Gathering+&dates=20240502T200000Z%2F20240502T230000Z&location=5570+Fulton+Drive+Northwest%2C+Canton%2C+OH%2C+44718%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Spaghetti+Dinner+Fundraiser&dates=20240504T153000Z%2F20240504T183000Z&location=3919+13th+Street+Southwest%2C+Canton%2C+OH%2C+44710%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Spaghetti+Dinner+Fundraiser+&dates=20240413T153000Z%2F20240413T183000Z&location=408+9th+Street+Southwest%2C+Canton%2C+OH%2C+44707%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Special+Gathering&dates=20240606T210000Z%2F20240606T230000Z&location=5570+Fulton+Drive+Northwest%2C+Canton%2C+OH%2C+44718%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Still+She+Rises%3A+A+Celebration+of+Women%E2%80%99s+Empowerment+%26+Leadership&dates=20260902T220000Z%2F20260903T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Taco+Tuesday+with+Krista+%F0%9F%8C%AE+&dates=20260728T213000Z%2F20260728T233000Z&location=220+Dueber+Avenue+Southwest%2C+Canton%2C+Ohio%2C+44706%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Volunteer+Rally&dates=20240601T130000Z%2F20240601T150000Z&location=3919+13th+Street+Southwest%2C+Canton%2C+OH%2C+44710%2C+United+States"
+},
+{
+"text": "Holiday Giving & CommUNITY Meet-and-Greet🎁",
+"href": "https://www.kristalallisonforoh49.com/events/5fs5wdip2lvedg50r76wj753z0bmeq"
+},
+{
+"text": "Home",
+"href": "https://www.kristalallisonforoh49.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/06kyzfb0g5uv8sy7dasrtn2pp8t0h6?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/0tvnbslj71douhb6kqncw6uoxsjxhd?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/5fs5wdip2lvedg50r76wj753z0bmeq?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/calling-all-friends-family?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/calling-all-labor-unions?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/campaign-kickoff-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/campaign-kickoff?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/canton-canvass-for-krista-allison-for-state-representative?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/canvassing-event?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/canvassing-with-krista?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/community-canvassing?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/custard-and-conversations-with-krista?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/flip-the-49th-kickoff-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/gblndq3qmmqa4frspao3uaxy28qrhy?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/joes-and-dogs?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/k3josqzu6ua6ce0y2hbnw1t2ew384m?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/karaoke-with-krista?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/spaghetti-dinner-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/spaghetti-dinner?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/special-gathering?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/specialgathering?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/still-she-rises-a-celebration-of-womens-empowerment-leadership?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/stonewall-dems-party?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/taco-tuesday-with-krista-?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/volunteerday?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg-3jpdg-pf9lf?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg-3jpdg?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg?format=ical"
+},
+{
+"text": "Joes and Dogs",
+"href": "https://www.kristalallisonforoh49.com/events/joes-and-dogs"
+},
+{
+"text": "Karaoke With Krista",
+"href": "https://www.kristalallisonforoh49.com/events/karaoke-with-krista"
+},
+{
+"text": "Krista L. Allison Special Gathering",
+"href": "https://www.kristalallisonforoh49.com/events/specialgathering"
+},
+{
+"text": "Learn More",
+"href": "https://www.kristalallisonforoh49.com/learnmore"
+},
+{
+"text": "Media",
+"href": "https://www.kristalallisonforoh49.com/media"
+},
+{
+"text": "Pre-Order Here!",
+"href": "https://forms.gle/2QhELgnvxidSVuG19"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kristalallisonforoh49.com/privacy-policy"
+},
+{
+"text": "Spaghetti Dinner Fundraiser",
+"href": "https://www.kristalallisonforoh49.com/events/spaghetti-dinner"
+},
+{
+"text": "Spaghetti Dinner Fundraiser",
+"href": "https://www.kristalallisonforoh49.com/events/spaghetti-dinner-fundraiser"
+},
+{
+"text": "Special Gathering",
+"href": "https://www.kristalallisonforoh49.com/events/special-gathering"
+},
+{
+"text": "Still She Rises: A Celebration of Women’s Empowerment & Leadership",
+"href": "https://www.kristalallisonforoh49.com/events/still-she-rises-a-celebration-of-womens-empowerment-leadership"
+},
+{
+"text": "Taco Tuesday Reservation",
+"href": "https://secure.actblue.com/donate/e_tacotuesday2026"
+},
+{
+"text": "Taco Tuesday with Krista 🌮",
+"href": "https://www.kristalallisonforoh49.com/events/taco-tuesday-with-krista-"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/06kyzfb0g5uv8sy7dasrtn2pp8t0h6"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/0tvnbslj71douhb6kqncw6uoxsjxhd"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/5fs5wdip2lvedg50r76wj753z0bmeq"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/calling-all-friends-family"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/calling-all-labor-unions"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/campaign-kickoff"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/campaign-kickoff-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/canton-canvass-for-krista-allison-for-state-representative"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/canvassing-event"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/canvassing-with-krista"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/community-canvassing"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/custard-and-conversations-with-krista"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/flip-the-49th-kickoff-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/gblndq3qmmqa4frspao3uaxy28qrhy"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/joes-and-dogs"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/k3josqzu6ua6ce0y2hbnw1t2ew384m"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/karaoke-with-krista"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/spaghetti-dinner"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/spaghetti-dinner-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/special-gathering"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/specialgathering"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/still-she-rises-a-celebration-of-womens-empowerment-leadership"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/stonewall-dems-party"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/taco-tuesday-with-krista-"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/volunteerday"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg-3jpdg"
+},
+{
+"text": "View Event →",
+"href": "https://www.kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg-3jpdg-pf9lf"
+},
+{
+"text": "Volunteer Rally",
+"href": "https://www.kristalallisonforoh49.com/events/volunteerday"
+},
+{
+"text": "What Krista Believes",
+"href": "https://www.kristalallisonforoh49.com/what-krista-believes"
+},
+{
+"text": "[image: 4th Annual Stonewall Dems Party]",
+"href": "https://www.kristalallisonforoh49.com/events/stonewall-dems-party"
+},
+{
+"text": "[image: All In Fundraiser]",
+"href": "https://www.kristalallisonforoh49.com/events/fundraiser"
+},
+{
+"text": "[image: Calling All Divine Nine]",
+"href": "https://www.kristalallisonforoh49.com/events/k3josqzu6ua6ce0y2hbnw1t2ew384m"
+},
+{
+"text": "[image: Calling All Educators ]",
+"href": "https://www.kristalallisonforoh49.com/events/gblndq3qmmqa4frspao3uaxy28qrhy"
+},
+{
+"text": "[image: Calling All Friends & Family ]",
+"href": "https://www.kristalallisonforoh49.com/events/calling-all-friends-family"
+},
+{
+"text": "[image: Calling All Labor Unions]",
+"href": "https://www.kristalallisonforoh49.com/events/calling-all-labor-unions"
+},
+{
+"text": "[image: Campaign Kickoff ]",
+"href": "https://www.kristalallisonforoh49.com/events/campaign-kickoff-1"
+},
+{
+"text": "[image: Canton Canvass Launch]",
+"href": "https://www.kristalallisonforoh49.com/events/06kyzfb0g5uv8sy7dasrtn2pp8t0h6"
+},
+{
+"text": "[image: Canton Canvass for Krista Allison for State Representative]",
+"href": "https://www.kristalallisonforoh49.com/events/canton-canvass-for-krista-allison-for-state-representative"
+},
+{
+"text": "[image: Canvassing Event ]",
+"href": "https://www.kristalallisonforoh49.com/events/canvassing-event"
+},
+{
+"text": "[image: Canvassing Event ]",
+"href": "https://www.kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg"
+},
+{
+"text": "[image: Canvassing Event ]",
+"href": "https://www.kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg-3jpdg"
+},
+{
+"text": "[image: Canvassing Event ]",
+"href": "https://www.kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg-3jpdg-pf9lf"
+},
+{
+"text": "[image: Canvassing Event]",
+"href": "https://www.kristalallisonforoh49.com/events/community-canvassing"
+},
+{
+"text": "[image: Canvassing with Krista]",
+"href": "https://www.kristalallisonforoh49.com/events/canvassing-with-krista"
+},
+{
+"text": "[image: Conversations with Krista ]",
+"href": "https://www.kristalallisonforoh49.com/events/0tvnbslj71douhb6kqncw6uoxsjxhd"
+},
+{
+"text": "[image: Custard and Conversations with Krista]",
+"href": "https://www.kristalallisonforoh49.com/events/custard-and-conversations-with-krista"
+},
+{
+"text": "[image: Flip the 49th Kickoff Fundraiser]",
+"href": "https://www.kristalallisonforoh49.com/events/flip-the-49th-kickoff-fundraiser"
+},
+{
+"text": "[image: Holiday Giving &amp; CommUNITY Meet-and-Greet🎁 ]",
+"href": "https://www.kristalallisonforoh49.com/events/5fs5wdip2lvedg50r76wj753z0bmeq"
+},
+{
+"text": "[image: Joes and Dogs]",
+"href": "https://www.kristalallisonforoh49.com/events/joes-and-dogs"
+},
+{
+"text": "[image: Karaoke With Krista ]",
+"href": "https://www.kristalallisonforoh49.com/events/karaoke-with-krista"
+},
+{
+"text": "[image: Krista L Allison for OH 49]",
+"href": "https://www.kristalallisonforoh49.com/"
+},
+{
+"text": "[image: Krista L. Allison Special Gathering ]",
+"href": "https://www.kristalallisonforoh49.com/events/specialgathering"
+},
+{
+"text": "[image: Spaghetti Dinner Fundraiser ]",
+"href": "https://www.kristalallisonforoh49.com/events/spaghetti-dinner-fundraiser"
+},
+{
+"text": "[image: Spaghetti Dinner Fundraiser]",
+"href": "https://www.kristalallisonforoh49.com/events/spaghetti-dinner"
+},
+{
+"text": "[image: Special Gathering]",
+"href": "https://www.kristalallisonforoh49.com/events/special-gathering"
+},
+{
+"text": "[image: Still She Rises: A Celebration of Women’s Empowerment & Leadership]",
+"href": "https://www.kristalallisonforoh49.com/events/still-she-rises-a-celebration-of-womens-empowerment-leadership"
+},
+{
+"text": "[image: Taco Tuesday with Krista 🌮 ]",
+"href": "https://www.kristalallisonforoh49.com/events/taco-tuesday-with-krista-"
+},
+{
+"text": "[image: Volunteer Rally]",
+"href": "https://www.kristalallisonforoh49.com/events/volunteerday"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KristaLAllison49/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/krista_l_allison"
+},
+{
+"text": "[no text]",
+"href": "https://www.kristalallisonforoh49.com/events/campaign-kickoff"
+},
+{
+"text": "events@kristalallisonforoh49.com",
+"href": "mailto:events@kristalallisonforoh49.com?subject=&body="
+},
+{
+"text": "https://docs.google.com/forms/d/e/1FAIpQLSfEXbTJ9H_2WSushlWzC1CSJSf6cp8j4Gq1F31Py9t8X0foew/viewform?usp=send_form",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfEXbTJ9H_2WSushlWzC1CSJSf6cp8j4Gq1F31Py9t8X0foew/viewform?usp=send_form"
+},
+{
+"text": "https://www.eventbrite.com/e/1983143879729?aff=oddtdtcreator",
+"href": "https://www.eventbrite.com/e/1983143879729?aff=oddtdtcreator"
+},
+{
+"text": "https://www.eventbrite.com/e/conversations-with-krista-tickets-1982479340073?aff=oddtdtcreator",
+"href": "https://www.eventbrite.com/e/conversations-with-krista-tickets-1982479340073?aff=oddtdtcreator"
+},
+{
+"text": "https://www.eventbrite.com/e/fundraiser-tickets-1983147503568?aff=oddtdtcreator",
+"href": "https://www.eventbrite.com/e/fundraiser-tickets-1983147503568?aff=oddtdtcreator"
+},
+{
+"text": "https://www.mobilize.us/emiliasykesforcongress/event/726678/",
+"href": "https://www.mobilize.us/emiliasykesforcongress/event/726678/"
+},
+{
+"text": "https://www.mobilize.us/ohdems/event/669715/",
+"href": "https://www.mobilize.us/ohdems/event/669715/"
+},
+{
+"text": "kla@kristalallisonforoh49.com",
+"href": "mailto:kla@kristalallisonforoh49.com?subject=RSVP-+Campaign+Kickoff"
+}
 ]

@@ -1,6 +1,6 @@
-Sign up for updates from Johnny O
-About Johnny O
-Congressman Johnny “Johnny O” Olszewski, Jr. is a lifelong Marylander and proven leader who has proudly represented Maryland’s 2nd Congressional District since 2025.
+Continue to Site Support Johnny O Today Click an option below to get started.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $ # $ # $ # $ # $ # Other About Priorities Volunteer Campaign Finance Activity Donate About Priorities Volunteer Campaign Finance Activity Donate Sign up for updates from Johnny O Support Johnny O Support Johnny O Click an option below to get started.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $ # $ # $ # $ # $ # Other $ 10 $ 25 $ 50 $ 100 Other Support Johnny O About Johnny O Congressman Johnny “Johnny O” Olszewski, Jr. is a lifelong Marylander and proven leader who has proudly represented Maryland’s 2nd Congressional District since 2025.
 Guided by the working-class values he learned growing up in eastern Baltimore County, Johnny O is focused on the issues that matter most, like lowering costs for families, expanding economic opportunity, and protecting the foundations of American democracy.
 Johnny O began his professional life as a public-school teacher, where he saw firsthand the challenges facing students and families.
 That experience shaped his service in the Maryland House of Delegates, where for more than nine years he fought for stronger schools, fair wages, and equal rights.
@@ -17,3 +17,5 @@ And he’s earned a reputation as a skilled problem solver for constituents back
 Johnny O is a proud graduate of Baltimore County public schools and a first-generation college student.
 He holds a Bachelor’s degree from Goucher College, a Master’s degree from George Washington University, and a Ph.D. in public policy from the University of Maryland, Baltimore County.
 He lives in eastern Baltimore County with his wife, Marisa, their daughter, Daria, and their rescue dog, Yachty.
+Support Johnny O Support Johnny O Click an option below to get started.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $ # $ # $ # $ # $ # Other $ 10 $ 25 $ 50 $ 100 Other Support Johnny O About Priorities Volunteer Campaign Finance Activity Donate Paid for by Johnny O for Congress ↑

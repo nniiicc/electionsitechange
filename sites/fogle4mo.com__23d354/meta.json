@@ -1,7 +1,9 @@
 {
- "description": "\"*\" indicates required fields First name* Last name* Email* Phone ZIP/Postal Code Consent* By providing your email and mobile number, you agree to receive emails and text messages from Fogle for Missouri. Message & data rates may apply. Message frequency varies.* \u0394 Why I'm running. I\u2019m running for Springfield\u2019s State Senate seat to lower costs,",
+ "description": "\"*\" indicates required fields First name* Last name* Email* Phone ZIP/Postal Code Consent* By providing your email and mobile number, you agree to receive emails and text messages from Fogle for Missouri. Message & data rates may apply. Message frequency varies.* Δ Why I'm running. I’m running for Springfield’s State Senate seat to lower costs,",
  "final_url": "https://fogle4mo.com/",
- "paid_for_by": "Paid for by Fogle for Missouri, Morey Mechlin, Treasurer ActBlue will retain 3",
+ "fingerprint": "48ac07fb4dc7b4c8fd349e81e0a25052bf5315e3",
+ "format": 3,
+ "paid_for_by": "Paid for by Fogle for Missouri, Morey Mechlin, Treasurer ActBlue will retain #% of the contribution for processing fees",
  "title": "Betsy Fogle for State Senate | Betsy Fogle",
  "years_mentioned": []
 }

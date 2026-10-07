@@ -1,5 +1,5 @@
-Education Is More Than a Line Item.
-It’s Our Responsibility to Every Child.
+Skip to content Home About Priorities News Contact Volunteer Donate December 3, 2025 Education Is More Than a Line Item.
+It’s Our Responsibility to Every Child .
 Education may be the paramount duty of the state, but that does not just mean education.
 It means providing for the well-being of all our children.
 As a father, I know that also means recognizing that the needs of students today are more complex than ever, and that the success of our public schools is inseparable from the strength of our communities, our economy, and our future.
@@ -33,3 +33,4 @@ Our state needs a renewed commitment to students, grounded in real experience an
 We need to shift the conversation from short-term fixes to long-term success.
 We need to build better schools and a more affordable future, because the two are inseparable.
 And above all, we need to remember that our responsibility is not simply to educate children, but to give them every chance to thrive.
+Uncategorized Archive September 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 Recent Posts Endorsements (Updated) Washington Must Prepare for Budget Volatility Why It Really Is (Almost) All About Costs What Modern Youth Sports Can Tell Us About America Each Generation’s Duty to the Next Home About Priorities News Contact Donate Privacy Policy News Contact Donate Get in Touch: sarleyforwashington@gmail.com Facebook Instagram Paid for by Derek Sarley for State Representative | PO Box 292 Walla Walla, WA 99362 Powered by Herding Cats 🐈‍⬛

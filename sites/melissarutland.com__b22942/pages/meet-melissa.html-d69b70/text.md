@@ -1,6 +1,9 @@
+Meet Melissa Issues Endorsements News Events Vote Yard Sign Contribute Businesswoman.
+Problem-solver.
+Fourth-generation St.
+Pete leader.
 Over two decades delivering results and solving problems across Pinellas County — now running to bring that real-world experience to Tallahassee.
-A Message from Melissa
-If you had told me just a few months ago that I would be running for office, I would have told you I had some swamp land I could sell you — and cheap, too.
+A Message from Melissa If you had told me just a few months ago that I would be running for office, I would have told you I had some swamp land I could sell you — and cheap, too.
 In all seriousness: I’m not a politician.
 I’m a fourth-generation St.
 Petersburg businesswoman who has brought complicated projects across the finish line right here in Pinellas for over two decades.
@@ -25,6 +28,7 @@ It means supporting small businesses, attracting companies that create high-payi
 It also means ensuring children are reading at grade level by third grade and that our schools and workforce-training programs prepare people for successful careers.
 And we must fight to ensure clean water, a resilient coast, and infrastructure our residents can depend on.
 That is how we protect the Pinellas way of life.
+A leader who gets things done.
 Nearly three decades ago, Melissa began her career in the real estate department at Raymond James headquarters and has spent her career in commercial real estate brokerage, asset management, development, and consulting.
 In 2015, she founded Rutland Florida Gulf Group, a brokerage and consultancy focused on projects that leave a lasting community impact, and she has held the Certified Commercial Investment Member (CCIM) designation since 2013 and served on the Development Review Commission for nearly a decade, where she honed her skills in local government planning and working with land development regulations.
 Across Pinellas County, Melissa has delivered.
@@ -32,12 +36,17 @@ She helped bring the Speer YMCA and Mangrove Bay Middle School partnership to li
 She is a uniter who works with both sides.
 Appointed to the St.
 Petersburg Development Review Commission by a Democratic mayor — later serving as its first woman Chair — and appointed to the Pinellas County Juvenile Welfare Board by Governor Ron DeSantis, Melissa has spent her career building consensus among people with very different points of view to get results.
+Leadership rooted in Pinellas.
 Appointed to public boards by leaders of both parties — and trusted to deliver.
-- An established local leader with deep Pinellas roots.
+An established local leader with deep Pinellas roots.
 Nearly three decades in commercial real estate and founder of her own firm, with the CCIM designation — the fourth generation of the family behind Rutland Brothers and Rutland Bank.
-- A proven problem-solver who turns ideas into delivered results.
+A proven problem-solver who turns ideas into delivered results.
 Helped bring the Speer YMCA and Mangrove Bay Middle School partnership to life (serving about 500 students), landed a neighborhood Whole Foods, and closed the first project in Pinellas under the Live Local Act.
-- A community-minded leader who brings people together.
+A community-minded leader who brings people together.
 Appointed by a Democratic mayor (Development Review Commission, later its first woman Chair) and a Republican governor (Juvenile Welfare Board), with service to vulnerable children and families through the Juvenile Welfare Board, the Babycycle diaper bank, and a decade on the YMCA board.
-- Models her public service on Congressman Bill Young, whose approach put Pinellas first and brought people together across party lines.
+Models her public service on Congressman Bill Young, whose approach put Pinellas first and brought people together across party lines.
+Help Melissa protect our Pinellas way of life!
 Your support helps us reach more voters before Election Day!
+Contribute Join the Team Melissa Rutland for State Representative · melissa@melissarutland.com · 9800 4th Street N, Suite 200, St.
+Petersburg, FL 33702 Privacy Policy · Mobile Messaging Terms & Conditions Political advertisement paid for and approved by Melissa Rutland, Republican, for State Representative.
+Contributions are not tax deductible.

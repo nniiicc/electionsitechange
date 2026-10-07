@@ -1,7 +1,12 @@
 {
  "description": "Explore the District Map of California State Senate District 18, covering San Diego County, Imperial Valley, and surrounding areas. Find your district and connect with Art Hodges for Senate.",
  "final_url": "https://www.arthodgesforsenate.com/district-map",
- "paid_for_by": "Paid for by Art Hodges for Senate 2026 FPPC ID: 1482587 Copyright \u00a9 2026",
- "title": "District Map | Discover Your District - Get Involved Now \u2014 ArtHodgesForSenate",
- "years_mentioned": []
+ "fingerprint": "c8dae083bf6b797197cf0e5f5d79f2a1381ca59e",
+ "format": 3,
+ "paid_for_by": "Paid for by Art Hodges for Senate 2026 FPPC ID: 1482587 Copyright © #",
+ "title": "District Map | Discover Your District - Get Involved Now — ArtHodgesForSenate",
+ "years_mentioned": [
+  "2024",
+  "2026"
+ ]
 }

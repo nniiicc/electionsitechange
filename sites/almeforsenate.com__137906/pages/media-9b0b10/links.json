@@ -1,49 +1,198 @@
 [
-"https://almeforsenate.com/",
-"https://almeforsenate.com/Volunteer",
-"https://almeforsenate.com/contact",
-"https://almeforsenate.com/media",
-"https://almeforsenate.com/meet-kurt",
-"https://almeforsenate.com/news",
-"https://almeforsenate.com/privacy-policy",
-"https://almeforsenate.com/sms-terms-and-conditions",
-"https://almeforsenate.com/wp-content/uploads/2026/04/alme-scaled-e1776961575300.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/05/What-Montanans-Need-To-Know-About-Kurt-Alme_5.22.26.pdf",
-"https://almeforsenate.com/wp-content/uploads/2026/06/kurt-alme002-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/06/kurt-alme003-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/06/kurt-alme004-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/06/kurt-alme005-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/06/kurt-alme006-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/06/kurt-at-the-shop-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/06/kurt-meeting-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme-008-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme-009-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme0010-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme0013-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme0014-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme0015-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme0016-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme0018-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme0019-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme0021-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme007-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-and-wife-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-at-shop-conversation-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-at-shop-tour-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-family001-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-family004-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-hike-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-hike004-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-pointing-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-rolling-sleeves-scaled.webp",
-"https://almeforsenate.com/wp-content/uploads/2026/07/kurt-talking-scaled.webp",
-"https://dropbox.com/scl/fo/9wvarqfxnszipz9dk5rot/APqTBct4WtUB72bFGOOlu3w?rlkey=zh49zylpffmfj1ieale1pyi3t&st=mqz3g5nd&dl=0",
-"https://facebook.com/profile.php?id=61584161184583",
-"https://instagram.com/almeforsenate",
-"https://secure.winred.com/alme-for-senate/donate?sc=20260305_ALME_WEB_WEB_WEBSITE_WEB",
-"https://secure.winred.com/alme-for-senate/storefront?sc=20260622_ALME_WEB_STORE_STOREFRONT",
-"https://votemt.gov/voter-registration",
-"https://x.com/kurtalme?s=21",
-"https://youtu.be/IrzbB4-RTpk?si=s24D_WKZl7Or_NZ5",
-"https://youtube.com/@almeforsenate"
+{
+"text": "About",
+"href": "https://almeforsenate.com/meet-kurt"
+},
+{
+"text": "B-Roll",
+"href": "https://youtu.be/IrzbB4-RTpk?si=s24D_WKZl7Or_NZ5"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.winred.com/alme-for-senate/donate?sc=20260305_ALME_WEB_WEB_WEBSITE_WEB"
+},
+{
+"text": "Contact",
+"href": "https://almeforsenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/alme-for-senate/donate?sc=20260305_ALME_WEB_WEB_WEBSITE_WEB"
+},
+{
+"text": "Media",
+"href": "https://almeforsenate.com/media/"
+},
+{
+"text": "News",
+"href": "https://almeforsenate.com/news"
+},
+{
+"text": "Phone: 406-924-3840",
+"href": "tel:4069243840"
+},
+{
+"text": "Privacy Policy",
+"href": "https://almeforsenate.com/privacy-policy/"
+},
+{
+"text": "SMS Terms and Conditions",
+"href": "https://almeforsenate.com/sms-terms-and-conditions"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/alme-for-senate/storefront/?sc=20260622_ALME_WEB_STORE_STOREFRONT"
+},
+{
+"text": "Volunteer",
+"href": "https://almeforsenate.com/Volunteer"
+},
+{
+"text": "Vote",
+"href": "https://votemt.gov/voter-registration/"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/04/alme-scaled-e1776961575300.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/06/kurt-alme002-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/06/kurt-alme003-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/06/kurt-alme004-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/06/kurt-alme005-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/06/kurt-alme006-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/06/kurt-at-the-shop-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/06/kurt-meeting-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme-008-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme-009-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme0010-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme0013-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme0014-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme0015-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme0016-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme0018-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme0019-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme0021-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-alme007-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-and-wife-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-at-shop-conversation-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-at-shop-tour-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-family001-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-family004-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-hike-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-hike004-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-pointing-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-rolling-sleeves-scaled.webp"
+},
+{
+"text": "[image]",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/07/kurt-talking-scaled.webp"
+},
+{
+"text": "[image] Dropbox",
+"href": "https://www.dropbox.com/scl/fo/9wvarqfxnszipz9dk5rot/APqTBct4WtUB72bFGOOlu3w?rlkey=zh49zylpffmfj1ieale1pyi3t&st=mqz3g5nd&dl=0"
+},
+{
+"text": "[image] Kurt Alme Facts",
+"href": "https://almeforsenate.com/wp-content/uploads/2026/05/What-Montanans-Need-To-Know-About-Kurt-Alme_5.22.26.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584161184583"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/almeforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@almeforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/kurtalme?s=21"
+}
 ]

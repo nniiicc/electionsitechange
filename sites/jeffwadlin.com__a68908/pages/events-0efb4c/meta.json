@@ -1,7 +1,11 @@
 {
  "description": "Discover upcoming events and opportunities to get involved with Jeff Wadlin's campaign for U.S. Senate in Arkansas. Join us to support positive change.",
  "final_url": "https://www.jeffwadlin.com/events",
- "paid_for_by": null,
- "title": "Events | Join Our Campaign Events Today \u2014 Jeff Wadlin For U.S. Senate",
- "years_mentioned": []
+ "fingerprint": "aba11eac9a8eab6ae81d47fee45aa071b9cba8b5",
+ "format": 3,
+ "paid_for_by": "AUTHORIZED BY WADLIN FOR SENATE 2026 Privacy Policy Terms of Service Wadlin for US Senate Bentonville, AR 72712 479",
+ "title": "Events | Join Our Campaign Events Today — Jeff Wadlin For U.S. Senate",
+ "years_mentioned": [
+  "2026"
+ ]
 }

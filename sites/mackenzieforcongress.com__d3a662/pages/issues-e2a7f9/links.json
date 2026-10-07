@@ -1,13 +1,58 @@
 [
-"https://facebook.com/MackenzieForCongress",
-"https://mackenzieforcongress.com/",
-"https://mackenzieforcongress.com/about",
-"https://mackenzieforcongress.com/copy-of-record",
-"https://mackenzieforcongress.com/issues",
-"https://mackenzieforcongress.com/media",
-"https://mackenzieforcongress.com/privacy-policy",
-"https://multihousingnews.com/lihtc-advocates-buoyant-over-budget-bill",
-"https://secure.winred.com/mackenzie-for-congress/give-today",
-"https://twitter.com/Ryan_Mackenzie",
-"https://youtube.com/@MackenzieForCongress"
+{
+"text": "About",
+"href": "https://www.mackenzieforcongress.com/about"
+},
+{
+"text": "DONATE →",
+"href": "https://secure.winred.com/mackenzie-for-congress/give-today"
+},
+{
+"text": "Media",
+"href": "https://www.mackenzieforcongress.com/media"
+},
+{
+"text": "Priorities",
+"href": "https://www.mackenzieforcongress.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mackenzieforcongress.com/privacy-policy"
+},
+{
+"text": "Record",
+"href": "https://www.mackenzieforcongress.com/copy-of-record"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mackenzieforcongress.com/#Volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.mackenzieforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MackenzieForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Ryan_Mackenzie"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@MackenzieForCongress"
+},
+{
+"text": "create",
+"href": "https://www.multihousingnews.com/lihtc-advocates-buoyant-over-budget-bill/"
+},
+{
+"text": "info@mackenzieforcongress.com",
+"href": "mailto:info@mackenzieforpa.com"
+},
+{
+"text": "we’re achieving positive results.",
+"href": "https://www.mackenzieforcongress.com/copy-of-record"
+}
 ]

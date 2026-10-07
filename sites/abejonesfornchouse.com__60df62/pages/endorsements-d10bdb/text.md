@@ -1,4 +1,1 @@
-Former Representative Yvonne Holley
-Former County Commissioner Jack Nichols
-Former Councilman Eugene Weeks
-County Commissioner James West
+Skip to content Home Meet Abe Endorsements Volunteer Contact Home Meet Abe Endorsements Volunteer Contact Donate Endorsements Former Representative Yvonne Holley Former County Commissioner Jack Nichols Former Councilman Eugene Weeks County Commissioner James West Facebook-f Paid for by Abe Jones for NC House PO Box 326, Raleigh, NC 27602

@@ -1,7 +1,11 @@
 {
  "description": "Get in touch with the Creighton for NH State Senate campaign.",
  "final_url": "https://creighton4nh.com/contact",
+ "fingerprint": "a3efab5ce32d1711d54e9a47a7f08035c437359e",
+ "format": 3,
  "paid_for_by": "Paid for by Creighton for State Senate",
- "title": "Contact \u2014 Creighton for NH State Senate",
- "years_mentioned": []
+ "title": "Contact — Creighton for NH State Senate",
+ "years_mentioned": [
+  "2026"
+ ]
 }

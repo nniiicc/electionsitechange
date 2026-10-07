@@ -1,16 +1,58 @@
 [
-"https://corlforsenate.com/",
-"https://corlforsenate.com/about-1",
-"https://corlforsenate.com/blank",
-"https://corlforsenate.com/endorsements",
-"https://corlforsenate.com/going-the-extra-mile-tour",
-"https://corlforsenate.com/hope-for-home",
-"https://corlforsenate.com/newsroom",
-"https://corlforsenate.com/platform",
-"https://corlforsenate.com/volunteer-2",
-"https://corlforsenate.com/yard-signs",
-"https://facebook.com/profile.php?id=61584779167057",
-"https://instagram.com/corlforsenate",
-"https://linkedin.com/in/james-corl",
-"https://secure.winred.com/corl-for-senate/donate"
+{
+"text": "About",
+"href": "https://www.corlforsenate.com/about-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/corl-for-senate/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.corlforsenate.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.corlforsenate.com/volunteer-2"
+},
+{
+"text": "Going The Extra Mile Tour",
+"href": "https://www.corlforsenate.com/going-the-extra-mile-tour"
+},
+{
+"text": "Home",
+"href": "https://www.corlforsenate.com"
+},
+{
+"text": "Hope For Home",
+"href": "https://www.corlforsenate.com/hope-for-home"
+},
+{
+"text": "Newsroom",
+"href": "https://www.corlforsenate.com/newsroom"
+},
+{
+"text": "Platform",
+"href": "https://www.corlforsenate.com/platform"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://www.corlforsenate.com/blank"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.corlforsenate.com/yard-signs"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61584779167057"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/corlforsenate/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/james-corl/"
+}
 ]

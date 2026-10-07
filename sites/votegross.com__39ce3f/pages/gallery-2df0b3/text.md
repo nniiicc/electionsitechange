@@ -1,23 +1,2 @@
-Skip navigation menu
-About
-Volunteer
-Issues
-Events
-Endorsements
-Contact
-Donate
-Rooted together
-Community Gallery
-About
-Volunteer
-Issues
-Events
-Endorsements
-Contact
-Donate
-Rooted together
-Community Gallery
-Campaign Media
-Our Gallery
-Check out some photos from past campaign and community events.
-You need to enable JavaScript to run this app.
+Skip navigation menu About Volunteer Issues Events Endorsements Contact Donate Rooted together Community Gallery About Volunteer Issues Events Endorsements Contact Donate Rooted together Community Gallery Campaign Media Our Gallery Check out some photos from past campaign and community events.
+Gallery Contact: info@votegross.com Powered by RUN! website builder Paid for by the Committee to Elect Rachel Gross 7434 Juniper Ln, Portland, MI 48875 You need to enable JavaScript to run this app.

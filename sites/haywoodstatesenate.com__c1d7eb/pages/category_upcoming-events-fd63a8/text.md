@@ -1,3 +1,7 @@
-Thank you to all those who attended the rally for Governor Shapiro in Chestnut Hill this morning.
+Donate Ballot Request Application Register To Vote Home News & Events About Art NEWS & EVENTS BBQ In Support Of Senator Art Haywood Events September 9, 2026 Clergy Supporting Art Haywood Events April 13, 2026 2026 Birthday Celebration for Senator Art Haywood Events February 6, 2026 Virtual Petition Training: How to collect petition signatures.
+Events January 29, 2026 Keep Haywood Campaign Kickoff Events January 12, 2026 Reading of Dignity in Declaration of Independence Events December 16, 2025 Virtual Event: October 1, 2025 Events September 23, 2025 Vote on Tuesday, November 4, 2025 Events August 30, 2025 Vote on Tuesday November 7th Events September 22, 2023 Yard Sign Pickups Events April 27, 2022 Older Posts Would you like to become one of our donors?
+5$ Donation Art Haywood for State Senate #ago Thank you to all those who attended the rally for Governor Shapiro in Chestnut Hill this morning.
 Our message is clear: just like the ancient story of a boy with one smooth stone defeating the giant, our smooth stone is our vote, when we all vote we can win too.
-Together, we can flip the Pennsylvania Senate blue. #PADems#DignityForAll...
+Together, we can flip the Pennsylvania Senate blue.
+#PADems #DignityForAll ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Paid for by Art Haywood. © # Contact art@haywoodstatesenate.com The Campaign for Compassion PO Box 30234 Elkins Park, PA 19027 Make A Plan To Vote Ballot Request Application Register To Vote How Can You Help Donations Volunteer Campaign Updates Contact Us

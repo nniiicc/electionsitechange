@@ -1,11 +1,5 @@
-Back to All Events
-Join us on May 9th from 2:00 PM–5:00 PM for conversations with Dawn Richardson for HD 54, Justin Early for CD 31, and Amelia Rabroker for HD 55.
+0 Skip to Content FAQ Donate About Issues Trust Texans Initiative Endorsements Events Shop Get Involved Open Menu Close Menu FAQ Donate About Issues Trust Texans Initiative Endorsements Events Shop Get Involved Open Menu Close Menu FAQ Donate About Issues Trust Texans Initiative Endorsements Events Shop Get Involved Back to All Events Conversations That Count - Candidate Meet and Greet Saturday, May 9, 2026 2:00 PM 5:00 PM Troy Community Center 201 East Main Street Troy, TX, 76579 United States (map) Google Calendar ICS Join us on May 9th from 2:00 PM–5:00 PM for conversations with Dawn Richardson for HD 54, Justin Early for CD 31, and Amelia Rabroker for HD 55.
 This is a great opportunity to hear directly from three candidates working to represent our communities and bring new leadership to Central Texas.
 Come connect, ask questions, and be part of the conversation shaping our future.
-Previous
-Previous
-April 22
-Rooted In Community - Earth Day Meet and Greet with Local Candidates
-Next
-Next
-May 28
+Previous Previous April 22 Rooted In Community - Earth Day Meet and Greet with Local Candidates Next Next May 28 A Seat At The Table - Summer Fundraiser Amelia for Texas Pol.
+Ad paid for by the Amelia for Texas Campaign © # Amelia for Texas info@ameliafortexas.com

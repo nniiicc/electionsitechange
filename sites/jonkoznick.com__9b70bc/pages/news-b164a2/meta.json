@@ -1,9 +1,12 @@
 {
  "description": "See what is happening with Jon Koznick in the news and the community of Lakeville, Minnesota.",
  "final_url": "https://www.jonkoznick.com/news",
+ "fingerprint": "4534d3ee51cdaf7fb2b4a74eb811b7fa857d3f6d",
+ "format": 3,
  "paid_for_by": "paid for by and donations mailed to: Jon Koznick for House 18667 Irvine Way, Lakeville, Minnesota 55044 bottom of page",
  "title": "News | Jon Koznick",
  "years_mentioned": [
-  "2020"
+  "2020",
+  "2022"
  ]
 }

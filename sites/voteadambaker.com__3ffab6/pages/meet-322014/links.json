@@ -1,19 +1,78 @@
 [
-"https://endorseomatic.com/campaign/adambaker",
-"https://facebook.com/share/1CPJ8Hm8Do?mibextid=wwXIfr",
-"https://instagram.com/voteadambaker",
-"https://voteadambaker.com/",
-"https://voteadambaker.com/donate",
-"https://voteadambaker.com/endorse",
-"https://voteadambaker.com/home",
-"https://voteadambaker.com/imunify-bot-check",
-"https://voteadambaker.com/issues",
-"https://voteadambaker.com/meet",
-"https://voteadambaker.com/volunteer",
-"https://voteadambaker.com/wp-content/uploads/2025/10/at-stone-creek-golf-club.jpeg",
-"https://voteadambaker.com/wp-content/uploads/2025/10/booklets.jpeg",
-"https://voteadambaker.com/wp-content/uploads/2025/10/in-parade.jpeg",
-"https://voteadambaker.com/wp-content/uploads/2025/10/the-bridge.jpeg",
-"https://voteadambaker.com/wp-content/uploads/2025/10/with-jami.jpeg",
-"https://voteadambaker.com/wp-content/uploads/2025/10/with-people-at-cafe.jpeg"
+{
+"text": "CONTACT / VOLUNTEER",
+"href": "https://voteadambaker.com/volunteer/"
+},
+{
+"text": "Donate",
+"href": "https://voteadambaker.com/donate/"
+},
+{
+"text": "Endorse",
+"href": "https://www.endorseomatic.com/campaign/adambaker"
+},
+{
+"text": "Endorsements",
+"href": "https://voteadambaker.com/endorse/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/1CPJ8Hm8Do/?mibextid=wwXIfr"
+},
+{
+"text": "Home",
+"href": "https://voteadambaker.com/home/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/voteadambaker/"
+},
+{
+"text": "Issues",
+"href": "https://voteadambaker.com/issues/"
+},
+{
+"text": "Meet",
+"href": "https://voteadambaker.com/meet/"
+},
+{
+"text": "Policy",
+"href": "https://voteadambaker.com/issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://voteadambaker.com/volunteer/"
+},
+{
+"text": "[image: 2025 BAKER Logo]",
+"href": "https://voteadambaker.com"
+},
+{
+"text": "[no text]",
+"href": "https://voteadambaker.com/wp-content/uploads/2025/10/at-stone-creek-golf-club.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://voteadambaker.com/wp-content/uploads/2025/10/booklets.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://voteadambaker.com/wp-content/uploads/2025/10/in-parade.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://voteadambaker.com/wp-content/uploads/2025/10/the-bridge.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://voteadambaker.com/wp-content/uploads/2025/10/with-jami.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://voteadambaker.com/wp-content/uploads/2025/10/with-people-at-cafe.jpeg"
+},
+{
+"text": "imunify-bot-check",
+"href": "https://voteadambaker.com/imunify-bot-check"
+}
 ]

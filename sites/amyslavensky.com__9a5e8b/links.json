@@ -1,25 +1,102 @@
 [
-"https://amyslavensky.com/",
-"https://amyslavensky.com/_sites/www.amyslavensky.com",
-"https://amyslavensky.com/about",
-"https://amyslavensky.com/amy-priorities",
-"https://amyslavensky.com/contact",
-"https://amyslavensky.com/endorsements",
-"https://amyslavensky.com/events",
-"https://amyslavensky.com/news",
-"https://amyslavensky.com/volunteer",
-"https://amyslavensky.com/what-i-stand-for",
-"https://calmatters.org/politics/2022/01/california-election-new-districts-lookup",
-"https://designedtorun.com/",
-"https://facebook.com/Amy4Assembly2026",
-"https://instagram.com/amyforassembly",
-"https://joshhoovervotes.com/",
-"https://secure.actblue.com/donate/amyslavensky2026",
-"https://secure.actblue.com/donate/amyslavensky2026?amount=10",
-"https://secure.actblue.com/donate/amyslavensky2026?amount=100",
-"https://secure.actblue.com/donate/amyslavensky2026?amount=25",
-"https://secure.actblue.com/donate/amyslavensky2026?amount=250",
-"https://secure.actblue.com/donate/amyslavensky2026?amount=50",
-"https://youtube.com/@Amy4Assembly2026",
-"https://youtube.com/watch?v=bb6Uwx1PhdY"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/amyslavensky2026?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/amyslavensky2026?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/amyslavensky2026?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/amyslavensky2026?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/amyslavensky2026?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.amyslavensky.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.amyslavensky.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amyslavensky2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.amyslavensky.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.amyslavensky.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.amyslavensky.com/_sites/www.amyslavensky.com"
+},
+{
+"text": "Hoover's record",
+"href": "https://www.joshhoovervotes.com/"
+},
+{
+"text": "My Priorities",
+"href": "https://www.amyslavensky.com/amy-priorities"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/amyslavensky2026"
+},
+{
+"text": "Press & Media",
+"href": "https://www.amyslavensky.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.amyslavensky.com/volunteer"
+},
+{
+"text": "What I Stand For",
+"href": "https://www.amyslavensky.com/what-i-stand-for"
+},
+{
+"text": "[image: Amy Slavensky for Assembly 2026 logo]",
+"href": "https://www.amyslavensky.com/"
+},
+{
+"text": "[image: Amy Slavensky for Assembly 2026]",
+"href": "https://www.amyslavensky.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Amy4Assembly2026/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/amyforassembly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Amy4Assembly2026"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=bb6Uwx1PhdY"
+},
+{
+"text": "you can put in your address to check here",
+"href": "https://calmatters.org/politics/2022/01/california-election-new-districts-lookup/"
+}
 ]

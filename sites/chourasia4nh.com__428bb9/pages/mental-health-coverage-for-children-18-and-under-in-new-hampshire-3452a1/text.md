@@ -1,4 +1,4 @@
-On May 14, SB 498, a New Hampshire Senate bill concerning mental health coverage for children 18 and younger, came before the House after passing the Senate.
+Skip to content Facebook Twitter Home Legislative Community In the News Endorsements Blog Home Legislative Community In the News Endorsements Blog Close Donate Mental Health coverage for children 18 and under in New Hampshire August 29, 2026 | Community , Legislation , Opinion On May 14, SB 498 , a New Hampshire Senate bill concerning mental health coverage for children 18 and younger, came before the House after passing the Senate.
 It was among the most widely discussed bills of the day.
 It passed only as interim study by a 188-164 division vote, and a subsequent motion to reconsider later in the day failed 162-183 on a roll call vote.
 Earlier, the House Commerce Committee had also recommended interim study by a 14-4 vote.
@@ -26,3 +26,5 @@ Anthem later provided a figure of $1.25 per member per month.
 Even at that amount, it is a small price to pay to save taxpayers millions of dollars while improving mental health services for our children.
 Although the bill passed only as interim study, it will be revisited by the House Commerce Committee in fall 2026.
 Given the awareness and support generated over the past month, I am optimistic that we can build consensus and advance a meaningful solution to New Hampshire’s mental health crisis in the near future.
+Previous Next Leave a Reply Cancel reply You must be logged in to post a comment.
+Search Here Search Categories Community (1) Legislation (2) Opinion (2) Uncategorized (1) Archives September 2026 August 2026 Pages Blog Community Service Endorsements Home In the News Legislative Facebook Twitter YouTube Paid for by Chourasia for NH, Manoj Chourasia, Fiscal Agent : 43 Scott Ave, Nashua, NH

@@ -1,7 +1,9 @@
 {
  "description": "Explore Rhode Island events with Jessica Drew! Join community fundraisers and stay engaged to make a difference.",
  "final_url": "https://jessicadrewday.com/events",
- "paid_for_by": null,
+ "fingerprint": "5c35d9b66616ffa10516d69c1b09fc6d2ff6d228",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events",
  "years_mentioned": []
 }

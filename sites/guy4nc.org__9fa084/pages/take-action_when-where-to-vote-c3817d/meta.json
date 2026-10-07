@@ -1,7 +1,11 @@
 {
  "description": "00 Days 00 Hours 00 Minutes Primary Election Day is Tuesday, March 3, 2026. 00 Days 00 Hours 00 Minutes General Election Day is Tuesday, Nov. 3, 2026. Find Your Polling PlaceNot sure where to vote? Use this resource from the North Carolina SBE to look up your polling place. Register to VoteRegister or update your name,",
  "final_url": "https://guy4nc.org/take-action/when-where-to-vote/",
- "paid_for_by": null,
+ "fingerprint": "dc8e384c18ffc320f0bb5bc1f1e0706cd06ce1d5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "When & Where to Vote | Guy Meilleur US House 4",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

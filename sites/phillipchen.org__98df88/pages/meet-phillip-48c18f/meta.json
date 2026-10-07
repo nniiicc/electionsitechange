@@ -1,14 +1,18 @@
 {
- "description": "Meet Assemblyman Phillip Chen \u2014 member of the California State Assembly representing the 59th District in Orange and San Bernardino counties.",
+ "description": "Meet Assemblyman Phillip Chen — member of the California State Assembly representing the 59th District in Orange and San Bernardino counties.",
  "final_url": "https://phillipchen.org/meet-phillip/",
- "paid_for_by": "Paid for by Phillip Chen for Assembly 2026 &middot; FPPC #1476729 Privacy &middot; Terms of Use",
+ "fingerprint": "dfb69941ed6a73299585005e4beb5ddcfc3070b0",
+ "format": 3,
+ "paid_for_by": "Paid for by Phillip Chen for Assembly 2026 · FPPC #1476729 Privacy · Terms of Use",
  "title": "Meet Phillip | Phillip Chen for Assembly",
  "years_mentioned": [
+  "2009",
   "2011",
   "2016",
   "2018",
   "2020",
   "2022",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

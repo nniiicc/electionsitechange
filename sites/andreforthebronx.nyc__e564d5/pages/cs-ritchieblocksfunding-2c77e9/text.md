@@ -1,6 +1,4 @@
-Ritchie Torres One of 33 Democrats to Vote to Block Federal Funding to Universities That Divest From Israel
-September 4, 2026
-Bronx, NY — Ritchie Torres has been a staunch ally of the genocidal state of Israel his entire political career, even as the crises of capitalism surge unabated within his own district.
+0 Skip to Content News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Folder: Volunteer Back Events Join us Merch Donate Campaign Statement Ritchie Torres One of 33 Democrats to Vote to Block Federal Funding to Universities That Divest From Israel September 4, 2026 Bronx, NY — Ritchie Torres has been a staunch ally of the genocidal state of Israel his entire political career, even as the crises of capitalism surge unabated within his own district.
 Andre Easton, running against Torres in New York's 15th this November, released the following statement on September 4th.
 “Ritchie Torres has recieved more than $2 million from the pro-Israel lobby.
 It's no surprise that he was one of 33 Democrats to vote for a Republican-backed bill blocking federal funding from universities that divest from Israel's genocide.
@@ -19,4 +17,4 @@ These politicians, and their billionaire, pro-Israel donors, stand between us an
 “I'm running for Congress in NY-15 because the Bronx needs leaders who will fight to end all U.S. aid to Israel.
 The Bronx needs leaders who will defend the rights of students to protest genocide.
 The Bronx needs leaders who will put our tax dollars back into our own communities.
-Join our campaign for fully funded education, housing, and healthcare in the Bronx and beyond https://andreforthebronx.nyc/volunteer”
+Join our campaign for fully funded education, housing, and healthcare in the Bronx and beyond https://andreforthebronx.nyc/ volunteer ” info@andreforthebronx.nyc PAID FOR BY ANDRE EASTON FOR CONGRESS 2026

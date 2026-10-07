@@ -1,9 +1,9 @@
 {
  "description": "Support Paul Donato&#39;s campaign with your donations. Make online contributions and help shape our community&#39;s future.",
  "final_url": "https://reppauldonato.com/donate",
- "paid_for_by": null,
+ "fingerprint": "87708eabc2ec23a8f6cc3633a9f1d2519f0d6a26",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

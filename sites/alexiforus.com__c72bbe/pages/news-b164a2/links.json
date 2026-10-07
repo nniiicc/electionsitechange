@@ -1,27 +1,158 @@
 [
-"https://alexiforus.com/",
-"https://alexiforus.com/about",
-"https://alexiforus.com/alexis-priorities",
-"https://alexiforus.com/contact",
-"https://alexiforus.com/in-the-news",
-"https://alexiforus.com/news",
-"https://alexiforus.com/news-2",
-"https://alexiforus.com/privacy-policy",
-"https://alexiforus.com/terms-of-use",
-"https://alexiforus.com/volunteer",
-"https://alexiforus.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-16-at-4.13.11-PM.png",
-"https://alexiforus.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-16-at-4.21.01-PM.png",
-"https://alexiforus.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-16-at-4.21.54-PM.png",
-"https://alexiforus.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-16-at-4.23.10-PM.png",
-"https://cbsnews.com/chicago/news/illinois-digital-ids-what-to-know",
-"https://cbsnews.com/chicago/news/illinois-secretary-of-state-dmv-kiosks-grocery-stores?emci=4c932a1b-4a8e-ef11-8474-000d3a98fa6b&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID",
-"https://chicago.suntimes.com/editorials/2025/01/12/senior-citizens-driver-tests-illinois-secretary-state-safety-editorial",
-"https://chicagotribune.com/2024/12/17/opinion-competent-governance-illinois-secretary-of-state?clearUserState=true",
-"https://facebook.com/AlexiGiannoulias",
-"https://go.alexiforus.com/a/donate",
-"https://instagram.com/alexiforus",
-"https://thetimesweekly.com/2024/09/teen-voter-registration-surges-after-illinois-pre-registration-law-took-effect?emci=d69ce38b-257c-ef11-8473-6045bda8aa34&emdi=ea000000-0000-0000-0000-000000000001",
-"https://twitter.com/Giannoulias",
-"https://wgntv.com/news/medical-watch/chicago-lurie-childrens-hospital-record-pediatric-transplants-2023-2024-fiscal-year?emci=4c932a1b-4a8e-ef11-8474-000d3a98fa6b&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID",
-"https://youtube.com/@Alexiforus"
+{
+"text": "About",
+"href": "https://alexiforus.com/about/"
+},
+{
+"text": "Alexi Giannoulias: Competent governance is a good political strategy",
+"href": "https://www.chicagotribune.com/2024/12/17/opinion-competent-governance-illinois-secretary-of-state/?clearUserState=true#new_tab"
+},
+{
+"text": "Alexi’s Priorities",
+"href": "https://alexiforus.com/alexis-priorities/"
+},
+{
+"text": "Contact",
+"href": "https://alexiforus.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://go.alexiforus.com/a/donate"
+},
+{
+"text": "Contribute",
+"href": "https://go.alexiforus.com/a/donate/"
+},
+{
+"text": "Digital IDs will become available this year for Illinois residents. Here’s what to know.",
+"href": "https://www.cbsnews.com/chicago/news/illinois-digital-ids-what-to-know/#new_tab"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/AlexiGiannoulias"
+},
+{
+"text": "Home",
+"href": "https://alexiforus.com/"
+},
+{
+"text": "Illinois installs DMV kiosks at 15 grocery stores for license renewals, vehicle stickers",
+"href": "https://www.cbsnews.com/chicago/news/illinois-secretary-of-state-dmv-kiosks-grocery-stores/?emci=4c932a1b-4a8e-ef11-8474-000d3a98fa6b&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "In the News",
+"href": "https://alexiforus.com/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/alexiforus/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://chicago.suntimes.com/editorials/2025/01/12/senior-citizens-driver-tests-illinois-secretary-state-safety-editorial#new_tab"
+},
+{
+"text": "Keep Reading →",
+"href": "https://thetimesweekly.com/2024/09/teen-voter-registration-surges-after-illinois-pre-registration-law-took-effect/?nvep=&hmac=&emci=d69ce38b-257c-ef11-8473-6045bda8aa34&emdi=ea000000-0000-0000-0000-000000000001&ceid=&%7B%7B%7BEngagementData=#new_tab"
+},
+{
+"text": "Keep Reading →",
+"href": "https://wgntv.com/news/medical-watch/chicago-lurie-childrens-hospital-record-pediatric-transplants-2023-2024-fiscal-year/?emci=4c932a1b-4a8e-ef11-8474-000d3a98fa6b&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "Keep Reading →",
+"href": "https://www.cbsnews.com/chicago/news/illinois-digital-ids-what-to-know/#new_tab"
+},
+{
+"text": "Keep Reading →",
+"href": "https://www.cbsnews.com/chicago/news/illinois-secretary-of-state-dmv-kiosks-grocery-stores/?emci=4c932a1b-4a8e-ef11-8474-000d3a98fa6b&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "Keep Reading →",
+"href": "https://www.chicagotribune.com/2024/12/17/opinion-competent-governance-illinois-secretary-of-state/?clearUserState=true#new_tab"
+},
+{
+"text": "Lurie Children’s Hospital celebrates transplant milestone",
+"href": "https://wgntv.com/news/medical-watch/chicago-lurie-childrens-hospital-record-pediatric-transplants-2023-2024-fiscal-year/?emci=4c932a1b-4a8e-ef11-8474-000d3a98fa6b&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "News",
+"href": "https://alexiforus.com/news-2/"
+},
+{
+"text": "News",
+"href": "https://alexiforus.com/news/"
+},
+{
+"text": "Play Did you know?",
+"href": "https://www.alexiforus.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-16-at-4.13.11-PM.png"
+},
+{
+"text": "Play Together",
+"href": "https://www.alexiforus.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-16-at-4.21.54-PM.png"
+},
+{
+"text": "Play Trust",
+"href": "https://www.alexiforus.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-16-at-4.23.10-PM.png"
+},
+{
+"text": "Play Voting Rights",
+"href": "https://www.alexiforus.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-16-at-4.21.01-PM.png"
+},
+{
+"text": "Privacy Policy",
+"href": "https://alexiforus.com/privacy-policy/"
+},
+{
+"text": "Seniors have safe driving records overall, and should be treated that way",
+"href": "https://chicago.suntimes.com/editorials/2025/01/12/senior-citizens-driver-tests-illinois-secretary-state-safety-editorial#new_tab"
+},
+{
+"text": "Teen voter registration surges after Illinois’ pre-registration law took effect",
+"href": "https://thetimesweekly.com/2024/09/teen-voter-registration-surges-after-illinois-pre-registration-law-took-effect/?nvep=&hmac=&emci=d69ce38b-257c-ef11-8473-6045bda8aa34&emdi=ea000000-0000-0000-0000-000000000001&ceid=&%7B%7B%7BEngagementData=#new_tab"
+},
+{
+"text": "Terms of Use",
+"href": "https://alexiforus.com/terms-of-use/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Giannoulias"
+},
+{
+"text": "Volunteer",
+"href": "https://alexiforus.com/volunteer/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@Alexiforus"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com"
+},
+{
+"text": "[image]",
+"href": "https://chicago.suntimes.com/editorials/2025/01/12/senior-citizens-driver-tests-illinois-secretary-state-safety-editorial#new_tab"
+},
+{
+"text": "[image]",
+"href": "https://thetimesweekly.com/2024/09/teen-voter-registration-surges-after-illinois-pre-registration-law-took-effect/?nvep=&hmac=&emci=d69ce38b-257c-ef11-8473-6045bda8aa34&emdi=ea000000-0000-0000-0000-000000000001&ceid=&%7B%7B%7BEngagementData=#new_tab"
+},
+{
+"text": "[image]",
+"href": "https://wgntv.com/news/medical-watch/chicago-lurie-childrens-hospital-record-pediatric-transplants-2023-2024-fiscal-year/?emci=4c932a1b-4a8e-ef11-8474-000d3a98fa6b&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "[image]",
+"href": "https://www.cbsnews.com/chicago/news/illinois-digital-ids-what-to-know/#new_tab"
+},
+{
+"text": "[image]",
+"href": "https://www.cbsnews.com/chicago/news/illinois-secretary-of-state-dmv-kiosks-grocery-stores/?emci=4c932a1b-4a8e-ef11-8474-000d3a98fa6b&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "[image]",
+"href": "https://www.chicagotribune.com/2024/12/17/opinion-competent-governance-illinois-secretary-of-state/?clearUserState=true#new_tab"
+}
 ]

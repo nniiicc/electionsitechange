@@ -1,9 +1,9 @@
 {
  "description": "Kelly Quinn is running for the Nevada State Assembly District 5 seat. Served the community as an EMS, firefighter, and is a sworn law enforcement officer.",
  "final_url": "https://quinnfornv.com/",
- "paid_for_by": null,
+ "fingerprint": "da82608cc112134bb1d49a7cad0f44d77f6309fe",
+ "format": 3,
+ "paid_for_by": "",
  "title": "quinnfornv",
- "years_mentioned": [
-  "2023"
- ]
+ "years_mentioned": []
 }

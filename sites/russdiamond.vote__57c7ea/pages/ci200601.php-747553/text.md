@@ -1,9 +1,7 @@
-with Mr.
-Peabody, the Scarlet Letter, and the Pied Piper
-June 1, 2020
-I recently posted about my brush with contact tracing and self-quarantining on my personal Facebook page.
+Home Donate Blog News About Connect Contact Tracing with Mr.
+Peabody, the Scarlet Letter, and the Pied Piper June 1, 2020 I recently posted about my brush with contact tracing and self-quarantining on my personal Facebook page .
 Although I gave a lot of specifics regarding the nature of a "contact" and the timeline of events, it is amazing to me how people either choose to ignore the details or simply react based on their emotions and misunderstanding.
-So once more, here are the facts: On May 21st at 5:09 pm I received an email from the House Republican HR department, which notified me that on May 14th I was in contact with someone who later tested positive for COVID-19.
+So once more, here are the facts: On May 21st at 5:09 pm I received an email from the House Republican HR department , which notified me that on May 14th I was in contact with someone who later tested positive for COVID-19.
 I was advised to monitor myself for symptoms and it was recommended, but not required, that I self-quarantine until 14 days had passed since that contact.
 It seemed pretty simple to me, so I commenced to immediately self-quarantine.
 I also took stock of where I had been and who I might have been in contact with between May 14th and May 21st, just in case I got sick and would in turn participate in a contact tracing exercise of my own.
@@ -51,7 +49,7 @@ A: Self-quarantining is intended to isolate a person with "contact" for 14 days,
 That 14-day clock starts ticking at "contact," not upon notification.
 Since my last opportunity for "contact" was on May 14th when the House adjourned at 4:51 pm, my self-quarantine ended at 4:51 pm on May 28th.
 Out of an abundance of caution and for other reasons, I did not appear on the House floor even to offer remarks or vote on my resolution to terminate the disaster emergency, which occurred around 10:40 pm on May 28th.
-I voted remotely and House Majority Leader Bryan Cutler read my remarks into the record.
+I voted remotely and House Majority Leader Bryan Cutler read my remarks into the record .
 Q: You were reported to be at several different places and in contact with a lot of people between May 14th and May 21st.
 Why weren't you quarantining?
 A: I am a real person with a life.
@@ -109,9 +107,9 @@ Those videos are floating around out there and easily located as well, so I will
 In my opinion, Rep.
 Sims violated the constitutional rights of those three individuals, with premeditation and intent to cause them harm.
 Because he is a member of the Pennsylvania House of Representatives, that reflects on all members of the House of Representatives.
-As such, I signed on as a cosponsor to HR387, to censure him.
+As such, I signed on as a cosponsor to HR387, to censure him .
 That didn't sit so well with Rep.
-Sims I suppose, and when I first introduced HR836, my resolution to terminate the COVID disaster emergency, he unleashed a tirade of online hatred against me for his audience of uninformed but sympathetic followers.
+Sims I suppose, and when I first introduced HR836, my resolution to terminate the COVID disaster emergency , he unleashed a tirade of online hatred against me for his audience of uninformed but sympathetic followers.
 They dug deep into internet archives to regurgitate every possible unsubstantiated claim made against me by political opponents in the past.
 They peppered my social media with hateful messages and accusations, and essentially created a denial of service attack for my own constituents.
 I was caught a bit off guard by it all, because I simply did not put 2+2 together.
@@ -119,8 +117,7 @@ I certainly understood why Rep.
 Sims would oppose my resolution, as he and the Governor share the same political affiliation, but I didn't quite understand why he turned it into a personal attack.
 Not wanting to sort it out by trying to communicate with Rep.
 Sims and his pack of uninformed but sympathetic followers in public on social media, I decided to email him instead to find out why he made it so personal.
-I invite you to read that series of emails for yourself. [PDF]
-Now fast forward to the day before my termination resolution was scheduled to be voted in the House of Representatives, and the video Rep.
+I invite you to read that series of emails for yourself . [PDF] Now fast forward to the day before my termination resolution was scheduled to be voted in the House of Representatives, and the video Rep.
 Sims made after finding out I was in self-quarantine.
 In my humble opinion, he did not care about the veracity or substance of what he stated in the video.
 Instead, he invoked my name several times in that video to whip up more fear and paranoia about COVID-19, to exact some measure of revenge on me, and to once again lead his uninformed but sympathetic followers to drown in his river of deceit and innuendo.
@@ -139,7 +136,7 @@ My termination resolution passed the House 117-85 even without me showing up in 
 I stayed away not because I was self-quarantining, but because I did not want you to use my presence to erect another tent in the circus atmosphere you prefer over serious deliberation on legislative matters.
 I wonder though, when will Rep.
 Sims reveal that the Secretary of Health participated in the Democrat caucus the night of his latest video tirade to advise them of the prudence of the handling of the whole contact tracing incident he pretends to be so upset about?
-Will he post the various news stories confirming that it was all done according to existing protocols established by the CDC and the PA Department of Health?
+Will he post the various news stories confirming that it was all done according to existing protocols established by the CDC and the PA Department of Health ?
 Will he admit that he, or anyone else in the House, were not ever actually in any danger?
 I believe he won't.
 He won't because he is self-important, vile, and vulgar.
@@ -151,4 +148,5 @@ Here are the most important facts: Actions taken by the infected individual, the
 We followed all CDC & DoH protocols, and we did not cause additional fear and paranoia.
 We stopped COVID-19 in its tracks in the House of Representatives.
 More importantly, we provided evidence that people can work and life can resume in Pennsylvania, even with a virus in our midst.
-Get campaign updates sent directly to your inbox.
+Subscribe to Facets of Life Get campaign updates sent directly to your inbox.
+PAID FOR BY FRIENDS OF RUSS DIAMOND Privacy Policy

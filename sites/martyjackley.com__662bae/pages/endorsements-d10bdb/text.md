@@ -1,29 +1,9 @@
-House Republican Leadership
-“Marty Jackley is an America First patriot who will help us continue to deliver safe streets, secure borders, lower costs, and peace through strength.”
-ENDORSEMENTS
-U.S.
-House
-Speaker Mike Johnson, Majority Leader Steve Scalise, Majority Whip Tom Emmer, and Conference Chair Lisa McClain
-March 18, 2026Source: X ↗
-Second Amendment
-The National Rifle Association's political action committee
-A+
-The NRA Political Victory Fund, the National Rifle Association's political action committee, has endorsed Marty for South Dakota's at-large seat in the U.S.
+About Issues Endorsements News Get Involved Contact DONATE DONATE ENDORSEMENTS The leaders standing with Marty U.S.
+House House Republican Leadership Speaker Mike Johnson, Majority Leader Steve Scalise, Majority Whip Tom Emmer, and Conference Chair Lisa McClain “ Marty Jackley is an America First patriot who will help us continue to deliver safe streets, secure borders, lower costs, and peace through strength. ” — Joint endorsement statement March 18, 2026 Source: X ↗ Second Amendment NRA Political Victory Fund The National Rifle Association's political action committee A+ The NRA Political Victory Fund, the National Rifle Association's political action committee, has endorsed Marty for South Dakota's at-large seat in the U.S.
 House and given him an A+, its highest grade.
-NRA-PVF grades candidates on their voting records, public statements, and answers to its candidate questionnaire.
-“The right to keep and bear arms is not negotiable. … I will defend the Second Amendment every time.”
-2026 General ElectionSource: NRA-PVF ↗
-Business
-The world's largest business organization
-“Marty is committed to advancing pro-growth policies that grow local economies in South Dakota and create new opportunities for workers, families, and businesses to thrive.”
-May 29, 2026Source: U.S.
-Chamber of Commerce ↗
-Small Business
-National Federation of Independent Business
-“Senator Rounds and Attorney General Jackley are both staunch advocates for Main Street.”
-September 25, 2026Source: NFIB ↗
-Complete and Total Endorsement
-45th and 47th President of the United States
-“Marty Jackley has my Complete and Total Endorsement to be the next U.S.
-Representative from the Great State of South Dakota — HE WILL NEVER LET YOU DOWN!”
-March 11, 2026Source: Truth Social ↗
+NRA-PVF grades candidates on their voting records, public statements, and answers to its candidate questionnaire. “ The right to keep and bear arms is not negotiable. … I will defend the Second Amendment every time. ” — Marty Jackley Join Sportsmen for Jackley → 2026 General Election Source: NRA-PVF ↗ Business U.S.
+Chamber of Commerce The world's largest business organization “ Marty is committed to advancing pro-growth policies that grow local economies in South Dakota and create new opportunities for workers, families, and businesses to thrive. ” — John Kirchner, Vice President of Government Affairs May 29, 2026 Source: U.S.
+Chamber of Commerce ↗ Small Business NFIB National Federation of Independent Business “ Senator Rounds and Attorney General Jackley are both staunch advocates for Main Street. ” — Tim Nungesser, NFIB Regional Director September 25, 2026 Source: NFIB ↗ Pro-Life South Dakota Right to Life South Dakota's statewide pro-life organization “ In all of his many years of public service here in SD he has proven a firm commitment to protecting all innocents from conception to natural death. ” — SD Right to Life endorsement statement October 2, 2026 Source: Facebook ↗ Complete and Total Endorsement President Donald J.
+Trump 45th and 47th President of the United States “ Marty Jackley has my Complete and Total Endorsement to be the next U.S.
+Representative from the Great State of South Dakota — HE WILL NEVER LET YOU DOWN! ” March 11, 2026 Source: Truth Social ↗ Join them Add your support and help send Marty to Congress.
+DONATE VOLUNTEER Facebook X Instagram Privacy Policy Terms of Service DONATE Paid for by Marty Jackley for Congress

@@ -1,6 +1,9 @@
-All young people deserve the opportunity to reach for the stars and pursue their dreams.
+Home About Issues Criminal Justice Reform Affordable Housing Lifting Up All New Yorkers Giving Young People Opportunities to Succeed Investing in Education Protecting the Environment Combating Gun Violence Child Victims Act Ending Sexual Harassment 83rd District Accomplishments Contact DONATE Carl E.
+Heastie Home About Issues Criminal Justice Reform Affordable Housing Lifting Up All New Yorkers Giving Young People Opportunities to Succeed Investing in Education Protecting the Environment Combating Gun Violence Child Victims Act Ending Sexual Harassment 83rd District Accomplishments Contact DONATE Issues Criminal Justice Reform Affordable Housing Lifting Up All New Yorkers Giving Young People Opportunities to Succeed Investing in Education Protecting the Environment Combating Gun Violence Child Victims Act Ending Sexual Harassment All young people deserve the opportunity to reach for the stars and pursue their dreams.
 Yet sadly, structural barriers have made it difficult for members of underserved communities and people of color to succeed.
 To address this inequality, Speaker Heastie was instrumental in making New York the first state to commit to former President Obama’s My Brother’s Keeper Initiative in 2016.
 The program is focused on closing and eliminating the opportunity gaps that young men, and particularly young men of color, face.
 In 2018, Speaker Heastie joined state leaders in celebrating the first class of MBK graduates.
-Speaker Heastie has also successfully fought to provide continuous funding for the Summer Youth Employment Program, which connects young people between the ages of 14 and 24 with the opportunity to explore a wide variety of career fields through paid summer work experiences
+Speaker Heastie has also successfully fought to provide continuous funding for the Summer Youth Employment Program, which connects young people between the ages of 14 and 24 with the opportunity to explore a wide variety of career fields through paid summer work experiences Back to Top Donate FRIENDS OF CARL E.
+HEASTIE P.O.
+BOX 840 BRONX, NY 10469 info@heastiefornewyork.com

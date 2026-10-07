@@ -1,2 +1,4 @@
-Sign up to canvass the district!
+0 Skip to Content In the Community Will's Story The District Issues Issues On the Ongoing Genocide in Gaza On The Supreme Court's TPS Ruling Endorsements Get Involved Canvassing & Phonebanking Donate Open Menu Close Menu In the Community Will's Story The District Issues Issues On the Ongoing Genocide in Gaza On The Supreme Court's TPS Ruling Endorsements Get Involved Canvassing & Phonebanking Donate Open Menu Close Menu In the Community Will's Story The District Folder: Issues Back Issues On the Ongoing Genocide in Gaza On The Supreme Court's TPS Ruling Endorsements Get Involved Canvassing & Phonebanking Donate Sign up to canvass the district!
 Volunteer with the campaign and meet lots of great community members!
+Paid for by the Mbah Committee 42A Linden Ave.
+#2, Somerville MA 02143 Get Involved Donate

@@ -1,26 +1,29 @@
+Skip to content Home About Platform Volunteer Voting Info Events Contact Home About Platform Volunteer Voting Info Events Contact Donate the platform Where Jim Stands Practical solutions for Johnson County families — no ideology, no games.
 Just results.
+ISSUE 01 Property Tax Caps Greater Affordability for Homeowners Senate Minority Leader Dinah Sykes (D – Lenexa) recently used a balloon analogy to make the point that if you cap property taxes, the pressure to tax just moves somewhere else.
+She’s right.
 This is why we need to move on more than just property tax caps to make our communities more affordable.
 Look, we all want to see our communities grow, but the doubling of property taxes on an average home in Johnson County in ten years is too much.
 Since local governments can’t (or won’t) show the needed restraint, taxpayers must do it for them.
 Unfortunately, two legislative sessions have delivered no results.
 A Republican governor is likely to change that, of course, but even then, it is important we tread carefully as building in too many exemptions or carve outs to get the legislative buy-in needed could turn caps into a legislative version of Swiss cheese.
-Other ideas I have to make our community more affordable, include:
-- Adopt a bottom-up approach by moving county, city and school board elections from odd to even years.
+Other ideas I have to make our community more affordable, include: Adopt a bottom-up approach by moving county, city and school board elections from odd to even years.
 This doubles, even triples voter turnout which could potentially help slow down overly ambitious local government spending.
-- Stop pitching retail sales taxes in fractions of a penny.
+Stop pitching retail sales taxes in fractions of a penny.
 Folks, that’s pocket lint.
 Tell voters the real cost – usually in the tens to hundreds of millions of dollars.
 Let voters vote on the millions and not just the fractions.
-- As your representative in Topeka, I see no reason why I shouldn’t be able to lobby Senators and Congress people – of both parties – to allow small businesses of all industry types to combine together to buy health insurance for their employees at scale.
+As your representative in Topeka, I see no reason why I shouldn’t be able to lobby Senators and Congress people – of both parties – to allow small businesses of all industry types to combine together to buy health insurance for their employees at scale.
 Big businesses get their price breaks, small businesses should too.
-- A property tax cap is an essential starting point to slow relentless increases, but true relief requires deeper structural fixes.
-- Taxpayers deserve clear bills, not fine print.
+ISSUE 01 Property Tax Caps Real Affordability Demands Real Reform—Not Political Rhetoric Making life affordable doesn’t happen through political rhetoric or empty promises—it takes practical, clear-eyed reforms A property tax cap is an essential starting point to slow relentless increases, but true relief requires deeper structural fixes.
+Taxpayers deserve clear bills, not fine print.
 Every statement should highlight the exact dollar change and percentage increase upfront.
-- Quit hiding tax hikes behind ‘fractions of a penny.’ Quote the real multi-year dollar cost to the average household so voters see the true burden.
-- Put taxpayers at the negotiating table.
+Quit hiding tax hikes behind ‘fractions of a penny.’ Quote the real multi-year dollar cost to the average household so voters see the true burden.
+Put taxpayers at the negotiating table.
 Tougher, fairer developer terms protect public funds and build genuine community support.
-- Give small businesses the bargaining power they need by pressing Congress to eliminate outdated restrictions on pooled health insurance plans.
-- Affordability improves the moment government stops concealing costs and starts respecting the taxpayers who foot the bill.
+Give small businesses the bargaining power they need by pressing Congress to eliminate outdated restrictions on pooled health insurance plans.
+Affordability improves the moment government stops concealing costs and starts respecting the taxpayers who foot the bill.
+ISSUE 02 Data Centers Growth on our terms, not a gold rush.
 To say data centers are topical would be an understatement.
 Arguments for and against them bombard candidates and communities alike.
 My initial instinct was that a pause made sense—not a pause for its own sake, but a pause to plan better for a truly transformative technology.
@@ -39,14 +42,25 @@ Concerns about sound and water use are real and important.
 I believe those challenges can be managed effectively and in relatively short order with proper engineering and oversight.
 So full speed ahead – but let’s address the core issue, which ultimately comes down to money and fairness.
 Demand that these facilities deliver tangible benefits to the public on a timeline that matches the pace of the technology itself.
+ISSUE 03 Improved Student Outcomes Putting Learning Back in the Classroom Kansas student outcomes have declined for a decade.
+Pouring in more money can’t be the only solution – Kansas already spends more per pupil than our state’s wealth justifies.
 Let’s expand Governor Kelly’s bell-to-bell cellphone ban with a Teachers’ Bill of Rights.
 Far too many administrators repeatedly return chronically disruptive students to the classroom, eroding teacher authority, destroying morale, and disrupting learning for everyone else.
 It’s time to let teachers teach!
-- Juvenile accountability: Nebraska takes away a juvenile’s Second Amendment rights until age 25 for any felony.
+ISSUE 04 Safer Communities Protecting Rights.
+Prioritizing Safety.
+I am a strong supporter of the Second Amendment.
+That doesn’t preclude me from supporting common-sense measures that make our communities safer from gun violence – especially ones that work in other red states.
+Here are two targeted proposals for Kansas: Juvenile accountability : Nebraska takes away a juvenile’s Second Amendment rights until age 25 for any felony.
 Kansas only does this for violent felonies.
-- Cracking down on gun theft: In Texas, stealing a firearm is a serious felony with real jail time.
+Cracking down on gun theft : In Texas, stealing a firearm is a serious felony with real jail time.
 In Kansas, even though it’s a felony, actual jail time is still much less likely.
-I disagree with the sentiment that the way we pick Kansas Supreme Court justices is somehow above reproach and free from political taint and influence.
+These changes respect law-abiding gun owners while holding dangerous people accountable.
+Strong Second Amendment support and safer streets are not mutually exclusive – red states like Nebraska and Texas prove we can have both.
+News Release Op Ed A bona fide scandal in the 1950s gave us our current system.
+It’s time for a change Protecting Rights.
+Prioritizing Safety.
+06/02/2026 I disagree with the sentiment that the way we pick Kansas Supreme Court justices is somehow above reproach and free from political taint and influence.
 I hate to break the news to those that share this sentiment, but the process is rife with politics — it’s just happening behind closed doors.
 Five of the nine members on the Kansas Supreme Court Nominating Commission are lawyers.
 These lawyer seats are filled through elections open only to licensed Kansas attorneys — roughly 8,000 to 11,000 people.
@@ -58,7 +72,7 @@ Nothing.
 So, we do not know if it is a broad slice of the legal profession or just a small, active group of insiders.
 The decision to not be transparent is a political choice, is it not?
 The Kansas Bar Association doesn’t make direct donations or run a PAC, but its members sure do.
-Nationally, when lawyers write campaign checks, they give to Democrats over Republicans by at least a 2-to-1 margin — often much more.
+Nationally, when lawyers write campaign checks, they give to Democrats over Republicans by at least a 2-to-1 margin — often much more .
 That partisan lean from the same group that controls the majority of the commission matters.
 That is political by definition.
 I sat and watched seven of the 15 interviews for the last state Supreme Court opening, including all three finalists who went to the governor.
@@ -70,25 +84,43 @@ And let’s not forget the other side of the commission.
 The four non-lawyer members are appointed by the governor — more politics.
 Then the governor still has to pick from the three names the commission sends over.
 Still more politics.
-If in this cascade of political activity, you are left wondering how we ended up here, it goes back to the Kansas “Triple Play” scandal in the 1950s.
+If in this cascade of political activity, you are left wondering how we ended up here, it goes back to the Kansas “Triple Play” scandal in the 1950s .
 A governor lost reelection, resigned and was quickly appointed chief justice by the lieutenant governor who replaced him before the new governor could be sworn in — raw cronyism to be sure.
 The public was furious, and in 1958 passed a constitutional amendment to fix it.
 Unfortunately, all they accomplished was to move the process behind closed doors, referring to it as the so-called “merit-based” system.
 Kansas voters deserve better.
 We want a process that inspires confidence even when we do not get our first choice.
 Right now, the status quo does not accomplish that.
-That is why I will vote yes on Aug. 4 to amend the Kansas Constitution to let voters — instead of just lawyers and politicians — directly elect state Supreme Court justices.
+That is why I will vote yes on Aug.
+4 to amend the Kansas Constitution to let voters — instead of just lawyers and politicians — directly elect state Supreme Court justices.
 Let candidates run in the open for several months.
 Let them answer real questions in public forums and debates with no doubt a hostile press in hot pursuit.
 A half-hour private interview simply cannot compare to that kind of rigorous public scrutiny.
 It is in the sunshine, after all, where timber is best discerned from rot.
 Jim Eschrich, a nearly 40-year Johnson County resident, is running as a Republican candidate for Kansas House District 17.
-Source: https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article315963173.html
-Out on the campaign trail as I run for state representative in the 17th district, I often hear people describe the idea of electing our supreme court justices in partisan elections as unseemly – or similar terms implying it’s improper, distasteful, or beneath the dignity of the judiciary.
+Source: https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article315963173.html Op Ed Data Centers: Inevitable, Evolving, and in Need of Better Terms 06/08/2026 To say data centers are topical would be an understatement.
+Arguments for and against them bombard candidates and communities alike.
+My initial instinct was that a pause made sense—not a pause for its own sake, but a pause to plan better for a truly transformative technology.
+The problem with the word “pause,” however, is that it tends to eclipse everything said after it.
+So let me be clearer: however we get to a plan, it must address the fundamental problem plaguing all data centers, i.e., they don’t cash flow for local communities, not quickly anyway.
+Too many sales tax exemptions and property tax abatements.
+Why is time so important?
+Look at the steel and telecommunications industries.
+Technological advances dramatically reduced the physical footprint of those facilities – often by 90% or more.
+History suggests that the same is likely to happen with data centers.
+If it does, state and local communities that lock in decades-long or sales tax exemptions and abatements will be left with large, under-utilized sites and diminished long-term returns.
+Look, data centers are inevitable and an important economic opportunity.
+Trying to block them outright would be like trying to stop the invention of the wheel.
+The practical path forward that works for both industry and the public is to structure these projects, so they begin generating real cash flow for Kansas communities sooner rather than later.
+Concerns about sound and water use are real and important.
+I believe those challenges can be managed effectively and in relatively short order with proper engineering and oversight.
+So full speed ahead – but let’s address the core issue, which ultimately comes down to money and fairness.
+Demand that these facilities deliver tangible benefits to the public on a timeline that matches the pace of the technology itself.
+Op Ed The Case for Partisan Judicial Elections in Kansas 06/10/2026 Out on the campaign trail as I run for state representative in the 17th district, I often hear people describe the idea of electing our supreme court justices in partisan elections as unseemly – or similar terms implying it’s improper, distasteful, or beneath the dignity of the judiciary.
 Full disclosure: I support partisan judicial elections.
 As I argued in my June 2nd op-ed in The Kansas City Star, the current nominating process is already rife with political influence.
 But standing on someone’s front porch is no place for a lengthy lecture – folks’ eyes start rolling back in their heads fast.
-No, I have a better argument: the current nominating process, in which legal elites and politicians pick our supreme court justices, and the proposed electoral option, which will bring plenty of dark money into the state, are both unseemly.
+No, I have a better argument: the current nominating process, in which legal elites and politicians pick our supreme court justices, and the proposed electoral option, which will bring plenty of dark money into the state, are both unseemly .
 There, I said it.
 Don’t fight it.
 Acknowledge it.
@@ -107,7 +139,8 @@ In each case, the people – not a small circle of legal elites – decided the 
 Elections drag the judges, the special interests, and the dark money into the sunlight.
 It’s not perfect – nothing in politics ever is – but it is far more transparent and democratic than letting insiders in Topeka keep choosing our highest court behind closed doors.
 In the end, the people of Kansas who must live under these rulings deserve to be the ones who decide who wears the robe.
-Take Reconstruction, the turbulent era after the Civil War.
+Op Ed Reconstruction’s Hard Lesson for the Post-Dobbs States I love history because its lessons remain so painfully relevant today.
+06/14/2026 Take Reconstruction, the turbulent era after the Civil War.
 The North fought to secure constitutional rights for the newly freed slaves, but the presidents of the period faced brutal realities.
 Andrew Johnson favored minimal federal involvement, leaving matters to white Southerners.
 Ulysses S.
@@ -144,3 +177,9 @@ Our frailties ensure that overreach breeds reversal.
 The states remain the laboratories of democracy.
 The wisest will act with moral clarity – but also with Reconstruction’s hard-earned realism: move only as fast as the public can follow, build coalitions rather than demand surrender, and remember that laws cannot remake human hearts.
 Only then can we achieve enduring progress instead of another cycle of noble ambition and bitter retrenchment.
+KANSAS HOUSE DISTRICT 17 Ready to Make a Difference in District 17?
+Whether you can knock on doors, make calls, or contribute to the campaign — every action moves us closer to victory.
+Practical results start with you.
+Volunteer Donate Home About Platform Volunteer Voting Info Events Contact Home About Platform Volunteer Voting Info Events Contact 913-274-9953 © # All rights Reserved.
+Paid for by the Jim 4 Kansas Campaign, Mark Hamill Treasurer.
+Facebook-f

@@ -1,8 +1,42 @@
 [
-"https://facebook.com/joecampbellforgeorgia",
-"https://joecampbellforgeorgia.com/",
-"https://joecampbellforgeorgia.com/about-joe",
-"https://joecampbellforgeorgia.com/issues",
-"https://joecampbellforgeorgia.com/join-the-team",
-"https://secure.anedot.com/joe-campbell-for-state-house/donate"
+{
+"text": "About Joe",
+"href": "https://joecampbellforgeorgia.com/about-joe/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/joe-campbell-for-state-house/donate"
+},
+{
+"text": "Issues",
+"href": "https://joecampbellforgeorgia.com/issues/"
+},
+{
+"text": "Joe Campbell",
+"href": "https://joecampbellforgeorgia.com/"
+},
+{
+"text": "Joe@JoeCampbellForGeorgia.com",
+"href": "mailto:joe@joecampbellforgeorgia.com"
+},
+{
+"text": "Join the Team",
+"href": "https://joecampbellforgeorgia.com/join-the-team/"
+},
+{
+"text": "X",
+"href": "javascript:void(0)"
+},
+{
+"text": "[image: 191219_JoeCampbell_BrandGuidelines_Logo_plain]",
+"href": "https://joecampbellforgeorgia.com/"
+},
+{
+"text": "[image: Joe Campbell]",
+"href": "https://joecampbellforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/joecampbellforgeorgia"
+}
 ]

@@ -1,21 +1,17 @@
-An Independent External Audit of the United States Federal Government
-Washington forces every public company, nonprofit, and state that touches federal dollars to submit to an independent outside audit — yet exempts itself, and hasn't earned a clean audit opinion in 28 years.
+MICHAEL STODDARD Libertarian · Utah 3rd District Issues Meet Mike Papers Library News Volunteer $ Melting Dollar Chip in → Chip in → Menu MICHAEL STODDARD ✕ 01 Issues 02 Meet Mike 03 Papers 04 Library 05 News 06 Volunteer $ Melting Dollar Chip in → ← All position papers Michael Stoddard for Congress · 3rd District Main paper Accountability An Independent External Audit of the United States Federal Government PDF Download the full paper ↓ ↗ Share paper Share ✕ ⧉ Copy link 𝕏 Post on X f Share on Facebook ✉ Email a link ↗ More options… Plank Restore Accountability.
+Open the Books! · Paper 1 / 2 Executive summary Washington forces every public company, nonprofit, and state that touches federal dollars to submit to an independent outside audit — yet exempts itself, and hasn't earned a clean audit opinion in 28 years.
 Make the government live by its own rule: an annual third-party audit that publishes the full balance sheet — unrecorded Social Security and Medicare obligations included — and a yearly, unfakeable measure of how far it stands from honest books.
-“… a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.”
-— U.S.
+Papers in this plank Restore Accountability.
+Open the Books! · 2 papers Main An Independent External Audit of the United States Federal Government — you're reading this Support A Detailed Record of Federal Audit Failures → “… a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.” — U.S.
 Const. art.
-I, § 9, cl. 7
-Primary Plank: The U.S.
-Federal Government MUST Submit to an Annual Third-Party Independent Audit — and Publish the Full Balance Sheet, Unrecorded Liabilities Included
-“OPEN THE BOOKS, Mr.
-President!”
-“The federal government requires every publicly traded company in America, every nonprofit that receives federal grants, and every state and local government that touches federal dollars to submit to an independent external audit.
+I, § 9, cl.
+7 Primary Plank: The U.S.
+Federal Government MUST Submit to an Annual Third-Party Independent Audit — and Publish the Full Balance Sheet, Unrecorded Liabilities Included “OPEN THE BOOKS, Mr.
+President!” “The federal government requires every publicly traded company in America, every nonprofit that receives federal grants, and every state and local government that touches federal dollars to submit to an independent external audit.
 It demands this because it knows — correctly — that self-audit is no audit at all.
-I am simply asking the federal government to live by its own rule.”
-— Michael R.
+I am simply asking the federal government to live by its own rule.” — Michael R.
 Stoddard, C.P.A., C.F.P.
-The Problem
-The United States federal government is the largest financial entity on earth.
+The Problem The United States federal government is the largest financial entity on earth.
 In fiscal year 2025, its net costs exceeded $7.3 trillion.
 It holds assets and liabilities measured in the tens of trillions.
 It administers programs touching every American citizen.
@@ -33,10 +29,9 @@ Three persistent impediments have prevented GAO from rendering an opinion for th
 These are not new discoveries.
 They are the same three problems, restated year after year, for nearly three decades.
 Note their character: the second and third are defects of the consolidated whole — they do not live inside any single agency, and as Section V will show, no agency-level audit can ever reach them.
-The complete record — every consolidated audit result from FY 1997 through FY 2025, the Department of Defense’s eight-year full-scope audit history, improper payments by program, and the off-balance-sheet schedules — appears in the accompanying Support Document, A Detailed Record of Federal Audit Failures.
+The complete record — every consolidated audit result from FY 1997 through FY 2025, the Department of Defense’s eight-year full-scope audit history, improper payments by program, and the off-balance-sheet schedules — appears in the accompanying Support Document, A Detailed Record of Federal Audit Failures .
 Every figure asserted in this paper is documented there, with sources.
-The Independence Problem
-The GAO performs valuable work.
+The Independence Problem The GAO performs valuable work.
 It issues hundreds of reports annually, identifies billions in potential savings, and provides Congress with nonpartisan analysis.
 But the GAO is not, and cannot be, an independent external auditor of the federal government.
 It is, by definition, an internal audit function.
@@ -46,15 +41,11 @@ The GAO is a legislative branch agency.
 Its budget is appropriated by Congress.
 Its Comptroller General is appointed by the President from a congressional shortlist.
 The entity being audited controls the funding, appointment, and institutional framework of the entity performing the audit.
-In professional auditing standards, this relationship triggers multiple independence impairments:
-Self-Review Threat
-The federal government writes the rules, spends the money, and then reviews its own work.
+In professional auditing standards, this relationship triggers multiple independence impairments: Self-Review Threat The federal government writes the rules, spends the money, and then reviews its own work.
 The same sovereign entity occupies all three roles.
-Advocacy Threat
-The GAO’s continued existence, staffing, and institutional authority depend on appropriations from the very Congress whose agencies it audits.
+Advocacy Threat The GAO’s continued existence, staffing, and institutional authority depend on appropriations from the very Congress whose agencies it audits.
 Institutional survival is tied to the goodwill of the audited party.
-Familiarity Threat
-GAO staff spend entire careers auditing the same federal agencies.
+Familiarity Threat GAO staff spend entire careers auditing the same federal agencies.
 Professional relationships develop.
 Institutional courtesies accumulate.
 The profession calls this “auditor capture” when it occurs in the private sector and sanctions practitioners for it.
@@ -65,8 +56,7 @@ When a Fortune 500 company tells the SEC, “We have a world-class internal audi
 Internal audit supplements but never replaces external audit.
 Under AU-C Section 610, external auditors may use the work of internal auditors after evaluating their competence and objectivity — but the external auditor’s opinion is never replaced by the internal function.
 The same standard should apply to the federal government.
-Who Writes the Rules — The Hidden Balance Sheet
-The problem is compounded by the federal government’s accounting framework.
+Who Writes the Rules — The Hidden Balance Sheet The problem is compounded by the federal government’s accounting framework.
 Federal financial statements are prepared under standards issued by the Federal Accounting Standards Advisory Board (FASAB).
 FASAB is a federal advisory committee whose members are appointed by the Secretary of the Treasury, the Director of the Office of Management and Budget, and the Comptroller General.
 The entity being reported on controls the body that sets the rules for how it is reported on.
@@ -96,14 +86,11 @@ This paper does not wait for the profession’s verdict, because Section IV moot
 A footnote is where an obligation goes to be forgotten.
 One hundred twenty-five trillion dollars has spent three decades in the government’s attic.
 The American people are entitled to see it carried downstairs, weighed, and signed for.
-The Proposal
-I propose legislation requiring the United States federal government to submit to an annual independent external audit conducted by international public accounting firms.
+The Proposal I propose legislation requiring the United States federal government to submit to an annual independent external audit conducted by international public accounting firms.
 The centerpiece of the proposal is not the audit structure — the profession has possessed that machinery for decades.
 The centerpiece is consequence: a published, independently measured number that tracks the government’s distance from honest books, and a certification regime that puts named officials’ signatures, under legal exposure, on the journey.
-The structure follows:
-A.
-Group Audit Structure — No Exemptions
-The engagement would follow standard group audit methodology under ISA 600 (Special Considerations — Audits of Group Financial Statements).
+The structure follows: A.
+Group Audit Structure — No Exemptions The engagement would follow standard group audit methodology under ISA 600 (Special Considerations — Audits of Group Financial Statements).
 A Lead Firm, selected through competitive RFP, would assume overall engagement responsibility, coordinate the consolidated opinion, and directly audit the largest federal agencies (Department of Defense, Department of Health and Human Services, Department of the Treasury).
 Two Assisting Firms, selected through subsequent RFPs, would serve as component auditors, dividing the remaining CFO Act agencies between them.
 The Lead Firm would review the component auditors’ work, set group materiality, direct component scope, and sign a single consolidated opinion for which one engagement partner is personally accountable.
@@ -114,8 +101,7 @@ Classified programs would be audited by engagement teams holding appropriate cle
 The reason for the bar is structural: an exemption written into an authorizing statute never comes back out.
 The audit covers the entity, the whole entity, or it is not an audit of the entity.
 B.
-The Statement of Full Obligations
-The authorizing statute would prescribe the reporting framework — as Congress is entitled to do, and as it effectively did to fifty states when federal audit requirements carried GASB’s recognition standards into every statehouse.
+The Statement of Full Obligations The authorizing statute would prescribe the reporting framework — as Congress is entitled to do, and as it effectively did to fifty states when federal audit requirements carried GASB’s recognition standards into every statehouse.
 The annual financial report would contain two balance sheets, both audited under identical standards, both covered by the consolidated opinion.
 The first: the balance sheet as constructed under the prevailing framework, so that continuity with three decades of prior statements is preserved.
 The second — the Statement of Full Obligations — recognizing on its face every material obligation the first omits: the actuarial present value of Social Security and Medicare commitments, presented as line items at both the 75-year measure and the infinite-horizon measure; contingent exposures from federal loan guarantees and enterprise backstops; and every further item a statutory schedule captures.
@@ -127,12 +113,10 @@ The proposal does not invent a new document.
 It drags the existing one out of the attic, sets it beside the official balance sheet, and requires an independent auditor to sign for both.
 The professional debate over which statement is “the real one” may continue indefinitely; the citizen will hold both pages, read $37.6 trillion beside $162.7 trillion, and draw conclusions no footnote was ever going to permit.
 C.
-The Convergence Schedule
-Honesty requires saying plainly what the first years will produce.
+The Convergence Schedule Honesty requires saying plainly what the first years will produce.
 A properly structured engagement of an entity in this condition will yield a disclaimer of opinion in year one — expected, announced in advance, and valuable, because it will be the first disclaimer in American history rendered by an auditor with no institutional stake in the result and with authority over the consolidated whole.
 That document is the baseline map.
-The engagement proceeds in three phases:
-Phase I — Baseline.
+The engagement proceeds in three phases: Phase I — Baseline.
 Full-scope engagement; disclaimer expected; the auditor publishes a complete inventory of material weaknesses and a remediation roadmap with annual milestones.
 Phase II — Convergence.
 Each year, the auditor publishes movement against the baseline in countable units: material weaknesses opened and closed; component entities receiving unmodified opinions; and the headline figure — the percentage of total federal assets standing behind a clean opinion.
@@ -144,15 +128,12 @@ Consolidated statements reach opinion-grade condition, and the full certificatio
 This sequence has exact professional precedent.
 Under Sarbanes-Oxley Section 404, a company with identified material weaknesses does not pretend to clean controls; it discloses the weaknesses and certifies remediation progress, year over year, until the weaknesses clear.
 The proposal applies the same discipline at sovereign scale.
-The promise made to the American people is therefore the auditor’s promise, not the politician’s: not “I will balance the books,” but “you will know, every year, exactly how far from honest books we stand — and whether we moved.”
-D.
-Mandatory Firm Rotation
-The lead engagement firm would be subject to mandatory rotation on a five-year cycle, consistent with the approach adopted by the European Union for public-interest entities under Regulation (EU) No 537/2014.
+The promise made to the American people is therefore the auditor’s promise, not the politician’s: not “I will balance the books,” but “you will know, every year, exactly how far from honest books we stand — and whether we moved.” D.
+Mandatory Firm Rotation The lead engagement firm would be subject to mandatory rotation on a five-year cycle, consistent with the approach adopted by the European Union for public-interest entities under Regulation (EU) No 537/2014.
 Rotation eliminates the familiarity threat that develops over extended engagements and ensures that no single firm becomes institutionally captured by the relationship.
 During its tenure, the engaged firm would be barred from providing non-audit services to the federal government — the same separation Sarbanes-Oxley Section 201 imposes in the corporate context, and the provision that prevents the independence problem of Section II from reappearing one contract away.
 E.
-Certification with Consequence
-The President of the United States would be required to certify annually, on the model of Sarbanes-Oxley Section 302 — but phased to the audit’s maturity, so that no official is ever asked to attest to the unattestable.
+Certification with Consequence The President of the United States would be required to certify annually, on the model of Sarbanes-Oxley Section 302 — but phased to the audit’s maturity, so that no official is ever asked to attest to the unattestable.
 During Phase I and Phase II, the certification attests to remediation: that the corrective-action plan exists, is resourced, and met its published milestones for the year.
 Upon reaching Phase III, the certification escalates to full Section 302 form: that the President has reviewed the financial report, that it contains no material misstatements or omissions, that the statements fairly present the financial condition of the federal government, and that the President is responsible for internal controls and has evaluated their effectiveness.
 The Secretary of the Treasury and the Director of the Office of Management and Budget would co-certify alongside the President.
@@ -164,8 +145,7 @@ Congress may further provide, as a hard backstop, that failure to certify suspen
 Every chief executive and chief financial officer in the Fortune 500 signs this certification under penalty of law.
 The individuals who preside over the largest financial operation on earth should bear no less responsibility — and under this proposal, for the first time, they would bear it by name.
 F.
-The Financial State of the Nation
-The audit reports to the owners.
+The Financial State of the Nation The audit reports to the owners.
 Each year, not later than forty-five days after the consolidated opinion is rendered, the legislation requires publication of the Financial State of the Nation: a fixed-format, plain-language report of not more than a dozen pages, containing the two balance sheets of subsection B side by side, the convergence percentage and its movement from the prior year, the material weaknesses opened and closed, and the auditor’s opinion in full.
 A document a citizen can read at a kitchen table — because the citizen is who it is for.
 And the report is delivered, in public, by the independent auditor.
@@ -174,9 +154,7 @@ The auditor must be the one who speaks, for a structural reason: the State of th
 The Financial State of the Nation will be the one annual address in Washington that Washington does not write about itself.
 The Constitution ordered that “a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.” The clause survives in statute and has died in practice — fulfilled by a report no one reads, prepared under standards the reportee controls, behind an opinion no one can render.
 This provision restores it: from time to time becomes every year, in plain words, to the owners.
-Anticipated Objections
-“Private firms already audit the agencies — and they still disclaim.”
-This is the strongest objection available, and it deserves the most precise answer.
+Anticipated Objections “Private firms already audit the agencies — and they still disclaim.” This is the strongest objection available, and it deserves the most precise answer.
 It is true: since fiscal year 2018, independent public accounting firms have audited the components of the Department of Defense under contract to the DoD Inspector General, and most CFO Act agencies are audited by private firms today.
 The disclaimers persist.
 But notice what the objection concedes and what it indicts.
@@ -193,14 +171,12 @@ It is the proposal’s best evidence: the government has deliberately deployed w
 And yes — the first consolidated opinions will be disclaimers.
 Section IV.C says so in advance.
 The difference is that, for the first time, the disclaimer will be drawn by someone outside the entity, and the distance it measures will shrink on a public schedule.
-“Do not surrender financial sovereignty.”
-An audit opinion is not a governance mechanism.
+“Do not surrender financial sovereignty.” An audit opinion is not a governance mechanism.
 It confers transparency, not authority.
 The United States already participates in IMF Article IV consultations and World Bank assessments.
 An independent audit opinion carries no power over spending, taxation, or policy.
 It simply tells the truth about the books.
-“The government is too large to audit.”
-The group methodology answers the first half: consolidated audits of multinational entities with operations across every continent are routine in the profession, and the three-firm structure of Section IV.A is that routine applied to government.
+“The government is too large to audit.” The group methodology answers the first half: consolidated audits of multinational entities with operations across every continent are routine in the profession, and the three-firm structure of Section IV.A is that routine applied to government.
 The second half — that sovereign finances are inherently unauditable — is empirically false.
 New Zealand’s whole-of-government financial statements have received clean opinions for roughly three decades under full accrual standards; Canada’s consolidated statements receive clean opinions year after year; the United Kingdom publishes audited Whole of Government Accounts.
 Those audits are performed by state auditors, not independent third parties — they prove auditability at sovereign scale, nothing more, and this paper asks them to prove nothing more.
@@ -208,18 +184,15 @@ A sovereign’s books can be brought to opinion-grade condition and held there f
 The methodology exists.
 The precedent exists.
 What is missing is the will.
-“The engagement would cost too much.”
-Improper payments alone are estimated at $162–186 billion per year, with cumulative identified improper payments since fiscal year 2003 totaling approximately $2.8 trillion (Support Document, Table 3).
+“The engagement would cost too much.” Improper payments alone are estimated at $162–186 billion per year, with cumulative identified improper payments since fiscal year 2003 totaling approximately $2.8 trillion (Support Document, Table 3).
 An engagement of this scale would plausibly cost in the low hundreds of millions of dollars annually.
 An audit is not a recovery program — it identifies control weaknesses rather than clawing back payments — but the arithmetic is conservative and devastating: if the control improvements it forces prevent even one-tenth of one percent of annual improper payments, the engagement pays for itself.
 The GAO’s own work yielded $62.7 billion in financial benefits in fiscal year 2025; oversight is among the highest-return expenditures the government makes.
-“We already have auditors — the GAO.”
-Every corporation that maintains an internal audit function is still required to submit to an independent external audit.
+“We already have auditors — the GAO.” Every corporation that maintains an internal audit function is still required to submit to an independent external audit.
 Internal audit and external audit serve different purposes and are not interchangeable.
 The GAO’s work would continue and would be utilized by the external auditors under established professional standards.
 The proposal supplements existing oversight; it does not replace it.
-“This is unrealistic.”
-Consider what Washington has refused even to do already.
+“This is unrealistic.” Consider what Washington has refused even to do already.
 For nearly a decade, members of both parties have introduced the Fiscal State of the Nation resolution — a measure asking only that the Comptroller General, the government’s own internal auditor, give one annual briefing to the budget committees on the financial statements that already exist.
 The accounting profession formally endorses it.
 Polling finds that more than four in five Americans support an annual report on the government’s audited financial statements, and that an overwhelming majority fear the debt’s weight on their children.
@@ -230,8 +203,7 @@ It is evidence that the American people already demand it across the entire poli
 The window is open everywhere except in Washington.
 “Unrealistic” is not a measurement of the proposal.
 It is a measurement of the resistance — and naming the resistance is what campaigns are for.
-Conclusion — The Trustee’s Oldest Duty
-Strip the proposal to its principle and it is this: the relationship between the government and the people, with respect to money, is fiduciary — not as metaphor, but as function.
+Conclusion — The Trustee’s Oldest Duty Strip the proposal to its principle and it is this: the relationship between the government and the people, with respect to money, is fiduciary — not as metaphor, but as function.
 The government holds and spends assets that belong to others, taken under compulsion, for the stated benefit of those others.
 Every body of law America possesses for that relationship commands the same thing.
 The trustee accounts to the beneficiary — and the duty to account is the oldest and least waivable duty a fiduciary bears; a trustee who refuses to render accounts is removed by the court without any inquiry into whether the funds were misused, because the refusal is itself the breach.
@@ -275,7 +247,7 @@ The money changers set their tables inside it and took their cut on every coin t
 When Christ came upon it, He did not file a grievance, convene a commission, or ask the changers to comply voluntarily by a date of their own choosing.
 He made a whip of cords and drove them out.
 Weigh the word the Gospels chose.
-Not the petty thief who lifts a purse in a crowd — the word is lēstēs, the brigand, the same charge later fixed to Barabbas: organized, brazen plunder conducted under a sacred roof.
+Not the petty thief who lifts a purse in a crowd — the word is lēstēs , the brigand, the same charge later fixed to Barabbas: organized, brazen plunder conducted under a sacred roof.
 Twenty-eight years of books the people are forbidden to read is not graft at the margins of an honest house.
 It is lēstēs work, carried on inside the People’s House, behind a veil the changers themselves are permitted to hang — and permitted to inspect.
 All four Gospels set the scene down — Matthew, Mark, Luke, and John — three in close agreement and the fourth standing apart, which is precisely the independent corroboration an honest audit is built upon: separate witnesses, examined separately, testifying to the same fact.
@@ -291,3 +263,5 @@ Self-audit is no audit at all.
 It Is a Breach of Fiduciary Duty!
 Open the Books, Mr.
 President.
+Go deeper Books, articles & talks on accountability Open the reading list → Previous ← All position papers Next paper A Detailed Record of Federal Audit Failures → MICHAEL STODDARD FOR CONGRESS '26 A sound-money campaign for Utah's 3rd District — a C.P.A. who has spent his career auditing government and studying how honest money protects working families.
+Campaign Issues Meet Mike Position Papers News Volunteer Get involved Donate Volunteer Press inquiries HQ 515 Commerce Rd Orem, Utah 84058 info@2amike4congress.org 801-899-9569 © # Michael Stoddard for Congress · Paid for by the Committee to Elect Michael Stoddard to Congress f 𝕏 ↗ Share this campaign Share ✕ ⧉ Copy link 𝕏 Post on X f Share on Facebook ✉ Email a link ↗ More options…

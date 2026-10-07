@@ -1,10 +1,42 @@
 [
-"https://facebook.com/SenJamesManning",
-"https://facebook.com/james.i.manning.jr",
-"https://instagram.com/manningstl",
-"https://secure.actblue.com/donate/james-manning-1",
-"https://votejamesmanning.com/",
-"https://votejamesmanning.com/endorsements",
-"https://votejamesmanning.com/meet-james",
-"https://x.com/ElectJManning"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/james-manning-1"
+},
+{
+"text": "Endorsements",
+"href": "https://votejamesmanning.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://votejamesmanning.com/"
+},
+{
+"text": "Meet Sen. Manning",
+"href": "https://votejamesmanning.com/meet-james/"
+},
+{
+"text": "[image]",
+"href": "https://votejamesmanning.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SenJamesManning"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/james.i.manning.jr/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/manningstl/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ElectJManning"
+},
+{
+"text": "meet Sen. Manning",
+"href": "https://votejamesmanning.com/meet-james/"
+}
 ]

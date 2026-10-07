@@ -1,7 +1,9 @@
 {
  "description": "View Endorsements",
  "final_url": "https://metzgerformissouri.com/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "c033d394d055dbc450bc14103a540a0907dc97b3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "View Endorsements",
  "years_mentioned": []
 }

@@ -1,22 +1,90 @@
 [
-"https://jaceforcongress.com/",
-"https://jaceforcongress.com/about",
-"https://jaceforcongress.com/endorsements",
-"https://jaceforcongress.com/get-involved",
-"https://jaceforcongress.com/media-kit",
-"https://jaceforcongress.com/news",
-"https://jaceforcongress.com/news/house-majority-leader-steve-scalise-endorses-jace-yarbrough-for-congress-in-texas-32nd-district",
-"https://jaceforcongress.com/news/monty-montanez-endorses-jace-yarbrough-urges-republicans-to-unite-behind-trump-endorsed-candidate",
-"https://jaceforcongress.com/news/president-donald-j-trump-endorses-jace-yarbrough-for-congress-in-texas-32nd-district",
-"https://jaceforcongress.com/news/susan-b-anthony-pro-life-america-endorses-jace-yarbrough-for-congress-in-texas-32nd-district",
-"https://jaceforcongress.com/news/turning-point-action-endorses-jace-yarbrough-for-congress-in-texas-32nd-district",
-"https://jaceforcongress.com/news?ad9afb9b_page=2",
-"https://jaceforcongress.com/priorities",
-"https://jaceforcongress.com/privacy-policy",
-"https://secure.anedot.com/jace-victory-fund/contribute",
-"https://secure.anedot.com/jace-victory-fund/contribute?amount=100",
-"https://secure.anedot.com/jace-victory-fund/contribute?amount=150",
-"https://secure.anedot.com/jace-victory-fund/contribute?amount=25",
-"https://secure.anedot.com/jace-victory-fund/contribute?amount=5",
-"https://secure.anedot.com/jace-victory-fund/contribute?amount=50"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute?amount=100"
+},
+{
+"text": "$150",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute?amount=150"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.jaceforcongress.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jaceforcongress.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jaceforcongress.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.jaceforcongress.com/"
+},
+{
+"text": "Media Kit",
+"href": "https://www.jaceforcongress.com/media-kit"
+},
+{
+"text": "News",
+"href": "https://www.jaceforcongress.com/news"
+},
+{
+"text": "Next",
+"href": "https://www.jaceforcongress.com/news?ad9afb9b_page=2"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute"
+},
+{
+"text": "Priorities",
+"href": "https://www.jaceforcongress.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jaceforcongress.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://www.jaceforcongress.com/news/house-majority-leader-steve-scalise-endorses-jace-yarbrough-for-congress-in-texas-32nd-district"
+},
+{
+"text": "Read More",
+"href": "https://www.jaceforcongress.com/news/monty-montanez-endorses-jace-yarbrough-urges-republicans-to-unite-behind-trump-endorsed-candidate"
+},
+{
+"text": "Read More",
+"href": "https://www.jaceforcongress.com/news/president-donald-j-trump-endorses-jace-yarbrough-for-congress-in-texas-32nd-district"
+},
+{
+"text": "Read More",
+"href": "https://www.jaceforcongress.com/news/susan-b-anthony-pro-life-america-endorses-jace-yarbrough-for-congress-in-texas-32nd-district"
+},
+{
+"text": "Read More",
+"href": "https://www.jaceforcongress.com/news/turning-point-action-endorses-jace-yarbrough-for-congress-in-texas-32nd-district"
+},
+{
+"text": "[image]",
+"href": "https://www.jaceforcongress.com/"
+}
 ]

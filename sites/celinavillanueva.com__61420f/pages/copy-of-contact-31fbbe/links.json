@@ -1,14 +1,66 @@
 [
-"http://elections.il.gov/",
-"https://celinavillanueva.com/",
-"https://celinavillanueva.com/11th-district",
-"https://celinavillanueva.com/about-celina",
-"https://celinavillanueva.com/about-celina-1",
-"https://celinavillanueva.com/copy-of-contact",
-"https://celinavillanueva.com/endorsements",
-"https://celinavillanueva.com/volunteer",
-"https://facebook.com/celinaforsenate12",
-"https://instagram.com/celinaforsenate12",
-"https://ova.elections.il.gov/",
-"https://secure.actblue.com/donate/friends-for-celina-villanueva-2"
+{
+"text": "12th District",
+"href": "https://www.celinavillanueva.com/11th-district"
+},
+{
+"text": "About Celina",
+"href": "https://www.celinavillanueva.com/about-celina"
+},
+{
+"text": "About Celina",
+"href": "https://www.celinavillanueva.com/about-celina-1"
+},
+{
+"text": "Contact",
+"href": "https://www.celinavillanueva.com/copy-of-contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-for-celina-villanueva-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.celinavillanueva.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.celinavillanueva.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.celinavillanueva.com"
+},
+{
+"text": "Register to Vote",
+"href": "https://ova.elections.il.gov/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.celinavillanueva.com/volunteer"
+},
+{
+"text": "[image: Celina Villanueva_Logo_horizontal.jpg]",
+"href": "https://www.celinavillanueva.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/celinaforsenate12"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/celinaforsenate12"
+},
+{
+"text": "campaign@celinavillanueva.com",
+"href": "mailto:campaign@celinavillanueva.com"
+},
+{
+"text": "campaign@celinavillanueva.com | (312) 767-8633",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov"
+}
 ]

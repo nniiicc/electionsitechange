@@ -1,6 +1,4 @@
-Issues
-Tackling the Climate Crisis
-Finding the light at the intersection of our climate, labor, and social justice movements is my life’s work and will be my top priority in Washington.
+Skip to content Kesha Ram Meet Kesha Issues News Endorsements Volunteer Donate Volunteer Donate Issues Tackling the Climate Crisis Finding the light at the intersection of our climate, labor, and social justice movements is my life’s work and will be my top priority in Washington.
 Vermont has long been a leader in climate action.
 This intersectional approach is what it will take to completely transition away from our reliance on corporate fossil fuel companies and build a livable future for us all.
 In Congress, I will work to transition our nation to 100% clean renewable energy by 2035 and put an end to our reliance on dirty and costly fossil fuels.
@@ -18,3 +16,5 @@ I believe in a state where all of us can stay warm during the winter months with
 And I will fight for renewable energy and housing investments so that all Vermonters can heat their homes consistently from renewable energy.
 We need a fighter in Washington who understands the urgency of the climate crisis and will prioritize the transition to a renewable energy future.
 I will be that fighter for Vermonters.
+Back to all issues Chip in Help send Vermont’s fighter back to the State Senate.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $#.# $# $# $# $# Other Volunteer Donate Privacy Policy Contact Us 31 North Prospect Street Burlington, VT 05401 Paid for by Kesha for Vermont © Kesha for Vermont | Made by Authentic

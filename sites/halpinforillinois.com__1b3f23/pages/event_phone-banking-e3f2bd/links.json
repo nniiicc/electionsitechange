@@ -1,20 +1,86 @@
 [
-"http://ilga.gov/house/Rep.asp?GA=100&MemberID=2490",
-"https://facebook.com/halpinforillinois?pnref=story",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20160315T060000%2F20160315T190000&text=Election+Day%21&trp=false&ctz=UTC+0&sprop=website%3Ahttps%3A%2F%2Fwww.halpinforillinois.com",
-"https://halpinforillinois.com/",
-"https://halpinforillinois.com/about-mike",
-"https://halpinforillinois.com/category/news",
-"https://halpinforillinois.com/cdn-cgi/l/email-protection",
-"https://halpinforillinois.com/donate",
-"https://halpinforillinois.com/early-voting",
-"https://halpinforillinois.com/event/campaign-kickoff-with-the-knox-county-democrats",
-"https://halpinforillinois.com/event/friends-and-family-pizza-party",
-"https://halpinforillinois.com/events",
-"https://halpinforillinois.com/get-involved",
-"https://halpinforillinois.com/issues",
-"https://halpinforillinois.com/privacy-policy",
-"https://halpinforillinois.com/survey-focus-form",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2016-03-15T06%3A00%3A00%2B00%3A00&enddt=2016-03-15T19%3A00%3A00%2B00%3A00&subject=Election+Day%21",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2016-03-15T06%3A00%3A00%2B00%3A00&enddt=2016-03-15T19%3A00%3A00%2B00%3A00&subject=Election+Day%21"
+{
+"text": "About Mike",
+"href": "https://www.halpinforillinois.com/about-mike/"
+},
+{
+"text": "Campaign Kickoff with the Knox County Democrats »",
+"href": "https://www.halpinforillinois.com/event/campaign-kickoff-with-the-knox-county-democrats/"
+},
+{
+"text": "Contact",
+"href": "https://halpinforillinois.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://www.halpinforillinois.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://halpinforillinois.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.halpinforillinois.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20160315T060000%2F20160315T190000&text=Election+Day%21&trp=false&ctz=UTC+0&sprop=website%3Ahttps%3A%2F%2Fwww.halpinforillinois.com"
+},
+{
+"text": "ILGA.Gov",
+"href": "http://ilga.gov/house/Rep.asp?GA=100&MemberID=2490"
+},
+{
+"text": "Issues",
+"href": "https://www.halpinforillinois.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.halpinforillinois.com/category/news/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T06%3A00%3A00%2B00%3A00&enddt=%23T19%3A00%3A00%2B00%3A00&location=&subject=Election+Day%21&body="
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T06%3A00%3A00%2B00%3A00&enddt=%23T19%3A00%3A00%2B00%3A00&location=&subject=Election+Day%21&body="
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.halpinforillinois.com/privacy-policy/"
+},
+{
+"text": "Take Our Survey",
+"href": "https://www.halpinforillinois.com/survey-focus-form/"
+},
+{
+"text": "Voting Resources",
+"href": "https://www.halpinforillinois.com/early-voting/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:FriendsofMikeHalpin@gmail.com"
+},
+{
+"text": "[image]309.553.1429",
+"href": "tel:3095531429"
+},
+{
+"text": "facebook.com/halpinforillinois",
+"href": "https://www.facebook.com/halpinforillinois?pnref=story"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.halpinforillinois.com/event/phone-banking/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://www.halpinforillinois.com/events/"
+},
+{
+"text": "« Friends and Family Pizza Party",
+"href": "https://www.halpinforillinois.com/event/friends-and-family-pizza-party/"
+}
 ]

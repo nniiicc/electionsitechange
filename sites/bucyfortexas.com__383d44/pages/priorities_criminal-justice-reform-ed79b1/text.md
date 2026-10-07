@@ -1,12 +1,5 @@
-I’m fighting for a Texas that’s safe and just for everyone.
-Evidence-driven reforms should focus on:
-- keeping low-level, non-violent offenders out of jail
-- reducing recidivism (such as through re-entry programs)
-- decriminalizing mental illness
-- breaking cycles of abuse and neglect
-- ending the school to prison pipeline
-In addition, common sense reform around marijuana policy is a must.
+Skip to content Re-Elect John Bucy III Democrat for Texas House District 136 Primary Menu Meet John Priorities Education Healthcare Property Taxes Criminal Justice Reform Gun Violence Prevention LGBTQ+ Equality Voting Rights Environmental Protection Local Control Get Involved How to Vote News For Constituents Donate Criminal Justice Reform Posted on April 2, 2019 April 24, 2020 by John Bucy Campaign I’m fighting for a Texas that’s safe and just for everyone.
+Evidence-driven reforms should focus on: keeping low-level, non-violent offenders out of jail reducing recidivism (such as through re-entry programs) decriminalizing mental illness breaking cycles of abuse and neglect ending the school to prison pipeline In addition, common sense reform around marijuana policy is a must.
 Why?
-- Texans suffering from debilitating medical conditions such as cancer, chronic pain, or PTSD should have access to medical cannabis
-- Enable law enforcement to focus on community policing and violent crime
-- Decriminalizing, legalizing, and regulating possession for adults over 21 (similar to alcohol) would reduce overcrowding in jails and bring in needed revenue to fund critical infrastructure and services improvements
+Texans suffering from debilitating medical conditions such as cancer, chronic pain, or PTSD should have access to medical cannabis Enable law enforcement to focus on community policing and violent crime Decriminalizing, legalizing, and regulating possession for adults over 21 (similar to alcohol) would reduce overcrowding in jails and bring in needed revenue to fund critical infrastructure and services improvements Posted in Priorities Categories Awards Bucy Bulletin Events Press Releases Priorities Town Hall Uncategorized Voting Information Archives July 2025 June 2025 January 2025 May 2024 September 2023 August 2023 July 2023 June 2023 May 2023 April 2023 November 2022 October 2022 September 2022 August 2022 June 2022 May 2022 January 2022 December 2021 July 2021 June 2021 November 2020 October 2020 September 2020 July 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 Post navigation Gun Violence Prevention Property Taxes Meet John Priorities Education Healthcare Property Taxes Criminal Justice Reform Gun Violence Prevention LGBTQ+ Equality Voting Rights Environmental Protection Local Control Get Involved How to Vote News For Constituents Donate Connect with us X Facebook Instagram Contact us P.O.
+Box 536, Austin, TX 78767 (512) 680-3762 johnbucy@bucyfortexas.com Privacy Policy Paid for by: POLITICAL ADVERTISING PAID FOR BY JOHN BUCY CAMPAIGN, MOLLY BUCY, TREASURER Powered by Tech for Campaigns

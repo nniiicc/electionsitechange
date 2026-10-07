@@ -1,8 +1,30 @@
 [
-"https://matthewstafford4staterep.com/",
-"https://matthewstafford4staterep.com/cart",
-"https://matthewstafford4staterep.com/contact",
-"https://matthewstafford4staterep.com/donate",
-"https://matthewstafford4staterep.com/home",
-"https://matthewstafford4staterep.com/volunteer"
+{
+"text": "0",
+"href": "https://www.matthewstafford4staterep.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.matthewstafford4staterep.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.matthewstafford4staterep.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.matthewstafford4staterep.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.matthewstafford4staterep.com/home"
+},
+{
+"text": "Matthew Stafford for State Representative",
+"href": "https://www.matthewstafford4staterep.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.matthewstafford4staterep.com/volunteer"
+}
 ]

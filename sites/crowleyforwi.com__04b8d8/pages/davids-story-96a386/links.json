@@ -1,16 +1,70 @@
 [
-"https://bsky.app/profile/davidcrowley4wi.bsky.social",
-"https://crowleyforwi.com/",
-"https://crowleyforwi.com/866497c6-cd05-40e7-a4dc-3e5764c26541",
-"https://crowleyforwi.com/Record",
-"https://crowleyforwi.com/endorsements",
-"https://crowleyforwi.com/privacy",
-"https://designedtorun.com/",
-"https://drive.google.com/drive/folders/1Z41i_SW2PnYc02Yb-HCAsBPXsQ3XkroH?usp=sharing",
-"https://facebook.com/CrowleyForWi",
-"https://flickr.com/photos/davidcrowleymke",
-"https://instagram.com/crowleyforwi",
-"https://secure.actblue.com/donate/dc-web",
-"https://store.crowleyforwi.com/",
-"https://x.com/DavidCCrowley"
+{
+"text": "David's Record",
+"href": "https://www.crowleyforwi.com/Record"
+},
+{
+"text": "Donate now »",
+"href": "https://secure.actblue.com/donate/dc-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.crowleyforwi.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.crowleyforwi.com/events"
+},
+{
+"text": "Flickr",
+"href": "https://www.flickr.com/photos/davidcrowleymke/"
+},
+{
+"text": "Google Drive",
+"href": "https://drive.google.com/drive/folders/1Z41i_SW2PnYc02Yb-HCAsBPXsQ3XkroH?usp=sharing"
+},
+{
+"text": "Learn More",
+"href": "https://www.crowleyforwi.com/866497c6-cd05-40e7-a4dc-3e5764c26541"
+},
+{
+"text": "Privacy",
+"href": "https://www.crowleyforwi.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.crowleyforwi.com/privacy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Store",
+"href": "https://store.crowleyforwi.com/"
+},
+{
+"text": "[image: David Crowley for Governor of Wisconsin | Official Campaign]",
+"href": "https://www.crowleyforwi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/davidcrowley4wi.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/CrowleyForWi"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/crowleyforwi"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DavidCCrowley"
+},
+{
+"text": "info@crowleyforwi.com",
+"href": "mailto:info@crowleyforwi.com"
+}
 ]

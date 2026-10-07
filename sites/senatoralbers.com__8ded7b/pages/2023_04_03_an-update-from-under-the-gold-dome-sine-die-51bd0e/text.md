@@ -1,11 +1,8 @@
-An Update From Under the Gold Dome: Sine Die
-Monday, April 03, 2023
-On Wednesday, March 29, the Georgia General Assembly closed out the 2023 Legislative Session on Sine Die.
+Senator John Albers Bio Resources News Contact Campaign Donate << Back An Update From Under the Gold Dome: Sine Die Monday, April 03, 2023 On Wednesday, March 29, the Georgia General Assembly closed out the 2023 Legislative Session on Sine Die.
 Not only did we have a productive Legislative Day 40, but we had an incredibly productive session and I want to extend my gratitude to Governor Brian Kemp and Lt.
 Governor Burt Jones and the Republican Majority Caucus for such a successful session.
 This past week the Senate passed a substantial amount of bills that will continue to uphold Georgia’s standard as the number one state in the nation to not only do business but to live, work and raise a family.
-Here are a few bills of note:
-On Wednesday, the Senate took up House Bill 188, legislation I had the privilege of carrying in the Senate.
+Here are a few bills of note: On Wednesday, the Senate took up House Bill 188, legislation I had the privilege of carrying in the Senate.
 Representative Steven Sainz (R – St.
 Marys) and I, along with others, worked tirelessly to pass this important piece of legislation.
 Known as “Mariam’s Law,” HB 188 ensures Georgians are protected from the most dangerous predators.
@@ -29,8 +26,7 @@ This legislative session has been tremendously successful.
 The Majority Caucus maintained our goals on strengthening opportunity and innovation in Georgia’s economy, cultivating an educated workforce and create safer communities.
 I look forward to continuing our hard work through Senate Study Committees and continuing to make Georgia the best state to live, work and raise a family in.
 As always, if you have any questions or concerns, please don’t hesitate to reach out.
-# # # #
-Sen.
+# # # # Sen.
 John Albers serves as Chairman of the Senate Committee on Public Safety.
-He represents the 56th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
-He may be reached at his office at 404.463.8055 or by email at [email protected]
+He represents the 56 th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
+He may be reached at his office at 404.463.8055 or by email at [email protected] Senator John Albers GA DISTRICT 56 Privacy Policy

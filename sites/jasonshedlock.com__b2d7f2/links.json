@@ -1,8 +1,26 @@
 [
-"https://airtable.com/appiQWuEbfpcfC90i/pagZrTRGrqt1HEPXO/form",
-"https://facebook.com/ShedlockforMaine",
-"https://instagram.com/shedlockformaine",
-"https://jasonshedlock.me/cart",
-"https://secure.actblue.com/donate/jason-shedlock-1",
-"https://youtube.com/@Jason-Shedlock"
+{
+"text": "0",
+"href": "https://www.jasonshedlock.me/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jason-shedlock-1"
+},
+{
+"text": "Please Join Us",
+"href": "https://airtable.com/appiQWuEbfpcfC90i/pagZrTRGrqt1HEPXO/form"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ShedlockforMaine/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/shedlockformaine/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Jason-Shedlock"
+}
 ]

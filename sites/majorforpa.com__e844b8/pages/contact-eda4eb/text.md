@@ -1,14 +1,6 @@
-Home
-About
-Vote
-Get Involved
-Donate
-Contact
-More
-Reach Me Anytime
-For general inquiries and questions, contact Team Major For PA today:
-P.O.
-Box 449
-Ford City, PA 16226 Info@MajorForPA.com
-724-472-8328
-Thanks for submitting!
+top of page Home About Vote Get Involved Donate Contact More Use tab to navigate through the menu items.
+CONTACT US Reach Me Anytime For general inquiries and questions, contact Team Major For PA today: P.O.
+Box 449 Ford City, PA 16226 Info@MajorForPA.com 724-472-8328 GET IN TOUCH SUBMIT Thanks for submitting!
+GET INVOLVED TODAY Support Abby Major...
+A Strong Voice For Rural Families DONATE VOLUNTEER ABBY MAJOR - FOR STATE REPRESENTATIVE - PAID FOR BY MAJOR FOR PA Home About Vote Get Involved Donate Contact P.O.
+Box 449 Ford City, PA 16226 Info@MajorForPA.com 724-472-8328 © # by Major For PA bottom of page

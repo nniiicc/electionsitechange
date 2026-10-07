@@ -1,9 +1,13 @@
 {
  "description": "Get the latest campaign news, announcements and more!",
  "final_url": "https://electbradhessel.org/news/",
- "paid_for_by": null,
- "title": "News \u2013 Elect Brad Hessel",
+ "fingerprint": "9dfc2190062e3b9f6fc49dd51e4f9c0ff91d1a12",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "News – Elect Brad Hessel",
  "years_mentioned": [
-  "2024"
+  "2023",
+  "2024",
+  "2026"
  ]
 }

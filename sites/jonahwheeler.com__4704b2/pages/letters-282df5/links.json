@@ -1,64 +1,262 @@
 [
-"https://jonahwheeler.com/",
-"https://jonahwheeler.com/biography",
-"https://jonahwheeler.com/contact",
-"https://jonahwheeler.com/donate",
-"https://jonahwheeler.com/letters",
-"https://jonahwheeler.com/letters/2025-january-2025",
-"https://jonahwheeler.com/letters/95-can-t-keep-me-away-march-2024",
-"https://jonahwheeler.com/letters/a-brave-new-world",
-"https://jonahwheeler.com/letters/a-lunch-room-legislature",
-"https://jonahwheeler.com/letters/a-people-powered-campaign-july-2022",
-"https://jonahwheeler.com/letters/and-i-thought-recess-was-for-kids-july-2023",
-"https://jonahwheeler.com/letters/april-and-a-horrible-no-good-very-bad-budget-april-2025",
-"https://jonahwheeler.com/letters/back-to-it-january-2024",
-"https://jonahwheeler.com/letters/beating-the-odds-september-2024",
-"https://jonahwheeler.com/letters/black-hole-sun-april-2024",
-"https://jonahwheeler.com/letters/citizen-or-subject",
-"https://jonahwheeler.com/letters/dreams-from-rome",
-"https://jonahwheeler.com/letters/empty-nest-december-2023",
-"https://jonahwheeler.com/letters/getting-the-gavel-may-2025",
-"https://jonahwheeler.com/letters/governor-ayotte-s-valentines-gift-to-the-legislature",
-"https://jonahwheeler.com/letters/how-do-you-sleep-at-night-march-2025",
-"https://jonahwheeler.com/letters/in-with-the-new-december-2024",
-"https://jonahwheeler.com/letters/knock-knock-knock-your-door-october-2024",
-"https://jonahwheeler.com/letters/labor-and-bail-september-2023",
-"https://jonahwheeler.com/letters/leadership-november-2024",
-"https://jonahwheeler.com/letters/malicious-laughter-willful-incompetence",
-"https://jonahwheeler.com/letters/may-flowers-may-2023",
-"https://jonahwheeler.com/letters/one-year-down-one-to-go",
-"https://jonahwheeler.com/letters/onward-june-2024",
-"https://jonahwheeler.com/letters/prisons-boycotts-and-budgets-march-2023",
-"https://jonahwheeler.com/letters/quintilis-july-2025",
-"https://jonahwheeler.com/letters/re-election-july-2024",
-"https://jonahwheeler.com/letters/resolution-for-peace-in-gaza",
-"https://jonahwheeler.com/letters/running-for-the-state-house-june-2022",
-"https://jonahwheeler.com/letters/school-house-rock-and-the-smoldering-sky",
-"https://jonahwheeler.com/letters/so-begins-the-real-work-december-2022",
-"https://jonahwheeler.com/letters/spare-oom",
-"https://jonahwheeler.com/letters/summertime-and-the-livin-s-easy-august-2023",
-"https://jonahwheeler.com/letters/the-168th-general-court-january-2023",
-"https://jonahwheeler.com/letters/the-curtain-of-slop",
-"https://jonahwheeler.com/letters/the-dead-of-winter-february-2025",
-"https://jonahwheeler.com/letters/the-end-of-the-campaign-november-2022",
-"https://jonahwheeler.com/letters/the-final-stretch-may-2024",
-"https://jonahwheeler.com/letters/the-fleeting-nature-of-the-present",
-"https://jonahwheeler.com/letters/the-party-of-lepers",
-"https://jonahwheeler.com/letters/the-power-of-the-sun",
-"https://jonahwheeler.com/letters/the-rorschach-world",
-"https://jonahwheeler.com/letters/the-same-fight-october-2022",
-"https://jonahwheeler.com/letters/the-secrets-of-carcosa",
-"https://jonahwheeler.com/letters/the-silly-season-june-23",
-"https://jonahwheeler.com/letters/the-sprint-august-2024",
-"https://jonahwheeler.com/letters/the-state-budget-april-2023",
-"https://jonahwheeler.com/letters/the-whirlwind-august-2022",
-"https://jonahwheeler.com/letters/they-don-t-really-care-about-us-june-2025",
-"https://jonahwheeler.com/letters/tough-subjects-cold-days-february-2023",
-"https://jonahwheeler.com/letters/tragedy-october-2023",
-"https://jonahwheeler.com/letters/victory-september-2022",
-"https://jonahwheeler.com/letters/workers-rights-and-synchronicities-february-2024",
-"https://jonahwheeler.com/letters/wrapping-it-up-november-2023",
-"https://jonahwheeler.com/news",
-"https://jonahwheeler.com/sponsored-legislation",
-"https://jonahwheeler.com/videos"
+{
+"text": "About",
+"href": "https://jonahwheeler.com/biography"
+},
+{
+"text": "Biography",
+"href": "https://jonahwheeler.com/biography"
+},
+{
+"text": "Contact",
+"href": "https://jonahwheeler.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://jonahwheeler.com/donate"
+},
+{
+"text": "Home",
+"href": "https://jonahwheeler.com/"
+},
+{
+"text": "In the News",
+"href": "https://jonahwheeler.com/news"
+},
+{
+"text": "Issues",
+"href": "https://jonahwheeler.com/"
+},
+{
+"text": "Letters",
+"href": "https://jonahwheeler.com/letters"
+},
+{
+"text": "News",
+"href": "https://jonahwheeler.com/news"
+},
+{
+"text": "Sponsored Bills",
+"href": "https://jonahwheeler.com/sponsored-legislation"
+},
+{
+"text": "Videos",
+"href": "https://jonahwheeler.com/videos"
+},
+{
+"text": "[image]2025 January 2025 LetterJan 31, 2025",
+"href": "https://jonahwheeler.com/letters/2025-january-2025"
+},
+{
+"text": "[image]95 Can’t Keep Me AwayMarch 2024 LetterMar 31, 2024",
+"href": "https://jonahwheeler.com/letters/95-can-t-keep-me-away-march-2024"
+},
+{
+"text": "[image]A Brave New WorldSeptember 2025Oct 1, 2025",
+"href": "https://jonahwheeler.com/letters/a-brave-new-world"
+},
+{
+"text": "[image]A Lunch Room Legislature April 2026Apr 30, 2026",
+"href": "https://jonahwheeler.com/letters/a-lunch-room-legislature"
+},
+{
+"text": "[image]A People Powered CampaignJuly 2022 LetterAug 1, 2022",
+"href": "https://jonahwheeler.com/letters/a-people-powered-campaign-july-2022"
+},
+{
+"text": "[image]And I Thought Recess was for Kids July 2023 LetterJul 31, 2023",
+"href": "https://jonahwheeler.com/letters/and-i-thought-recess-was-for-kids-july-2023"
+},
+{
+"text": "[image]April, and a Horrible, No Good, Very Bad Budget. April 2025 LetterApr 30, 2025",
+"href": "https://jonahwheeler.com/letters/april-and-a-horrible-no-good-very-bad-budget-april-2025"
+},
+{
+"text": "[image]Back to It January 2024 LetterJan 31, 2024",
+"href": "https://jonahwheeler.com/letters/back-to-it-january-2024"
+},
+{
+"text": "[image]Beating the Odds September 2024 LetterSep 30, 2024",
+"href": "https://jonahwheeler.com/letters/beating-the-odds-september-2024"
+},
+{
+"text": "[image]Black Hole SunApril 2024 LetterApr 30, 2024",
+"href": "https://jonahwheeler.com/letters/black-hole-sun-april-2024"
+},
+{
+"text": "[image]Citizen, or Subject?May 2026Jun 1, 2026",
+"href": "https://jonahwheeler.com/letters/citizen-or-subject"
+},
+{
+"text": "[image]Dreams from RomeJune 2026Aug 1, 2026",
+"href": "https://jonahwheeler.com/letters/dreams-from-rome"
+},
+{
+"text": "[image]Empty Nest December 2023 LetterDec 29, 2023",
+"href": "https://jonahwheeler.com/letters/empty-nest-december-2023"
+},
+{
+"text": "[image]Getting the Gavel May 2025 LetterMay 31, 2025",
+"href": "https://jonahwheeler.com/letters/getting-the-gavel-may-2025"
+},
+{
+"text": "[image]Governor Ayotte's Valentines gift to the legislature. Misc. LetterFeb 14, 2025",
+"href": "https://jonahwheeler.com/letters/governor-ayotte-s-valentines-gift-to-the-legislature"
+},
+{
+"text": "[image]How Do You Sleep At Night? March 2025 LetterApr 1, 2025",
+"href": "https://jonahwheeler.com/letters/how-do-you-sleep-at-night-march-2025"
+},
+{
+"text": "[image]In With The New December 2024 LetterDec 31, 2024",
+"href": "https://jonahwheeler.com/letters/in-with-the-new-december-2024"
+},
+{
+"text": "[image]Knock, Knock, Knock your door. October 2024 LetterNov 1, 2024",
+"href": "https://jonahwheeler.com/letters/knock-knock-knock-your-door-october-2024"
+},
+{
+"text": "[image]Labor and Bail September 2023 Letter Oct 1, 2023",
+"href": "https://jonahwheeler.com/letters/labor-and-bail-september-2023"
+},
+{
+"text": "[image]Leadership November 2024 LetterNov 30, 2024",
+"href": "https://jonahwheeler.com/letters/leadership-november-2024"
+},
+{
+"text": "[image]Malicious Laughter & Willful Incompetence March 2026Mar 31, 2026",
+"href": "https://jonahwheeler.com/letters/malicious-laughter-willful-incompetence"
+},
+{
+"text": "[image]May Flowers May 2023 LetterMay 31, 2023",
+"href": "https://jonahwheeler.com/letters/may-flowers-may-2023"
+},
+{
+"text": "[image]One year down, one to go. Misc. LetterDec 7, 2023",
+"href": "https://jonahwheeler.com/letters/one-year-down-one-to-go"
+},
+{
+"text": "[image]Onward June 2024 LetterJul 1, 2024",
+"href": "https://jonahwheeler.com/letters/onward-june-2024"
+},
+{
+"text": "[image]Prisons, Boycotts, and Budgets March 2023 Letter Mar 31, 2023",
+"href": "https://jonahwheeler.com/letters/prisons-boycotts-and-budgets-march-2023"
+},
+{
+"text": "[image]Quintilis July 2025 LetterJul 31, 2025",
+"href": "https://jonahwheeler.com/letters/quintilis-july-2025"
+},
+{
+"text": "[image]Re-Election July 2024 LetterJul 31, 2024",
+"href": "https://jonahwheeler.com/letters/re-election-july-2024"
+},
+{
+"text": "[image]Resolution for Peace in Gaza A House resolution that was not able to be introduced. Sep 9, 2025",
+"href": "https://jonahwheeler.com/letters/resolution-for-peace-in-gaza"
+},
+{
+"text": "[image]Running for the State HouseJune 2022 LetterJun 30, 2022",
+"href": "https://jonahwheeler.com/letters/running-for-the-state-house-june-2022"
+},
+{
+"text": "[image]School House Rock and the Smoldering SkyNovember 2025Nov 30, 2025",
+"href": "https://jonahwheeler.com/letters/school-house-rock-and-the-smoldering-sky"
+},
+{
+"text": "[image]So Begins the Real WorkDecember 2022 LetterDec 30, 2022",
+"href": "https://jonahwheeler.com/letters/so-begins-the-real-work-december-2022"
+},
+{
+"text": "[image]Spare ‘oomAugust 2025 LetterSep 1, 2025",
+"href": "https://jonahwheeler.com/letters/spare-oom"
+},
+{
+"text": "[image]Summertime, and the Livin’s Easy August 2023 Letter Sep 1, 2023",
+"href": "https://jonahwheeler.com/letters/summertime-and-the-livin-s-easy-august-2023"
+},
+{
+"text": "[image]The 168th General CourtJanuary 2023 LetterJan 31, 2023",
+"href": "https://jonahwheeler.com/letters/the-168th-general-court-january-2023"
+},
+{
+"text": "[image]The Curtain of Slop December 2025Dec 31, 2025",
+"href": "https://jonahwheeler.com/letters/the-curtain-of-slop"
+},
+{
+"text": "[image]The Dead of Winter February 2025 LetterFeb 28, 2025",
+"href": "https://jonahwheeler.com/letters/the-dead-of-winter-february-2025"
+},
+{
+"text": "[image]The End of the Campaign November 2022 LetterDec 2, 2022",
+"href": "https://jonahwheeler.com/letters/the-end-of-the-campaign-november-2022"
+},
+{
+"text": "[image]The Final StretchMay 2024 LetterJun 1, 2024",
+"href": "https://jonahwheeler.com/letters/the-final-stretch-may-2024"
+},
+{
+"text": "[image]The Fleeting Nature of the PresentJuly 2026Aug 2, 2026",
+"href": "https://jonahwheeler.com/letters/the-fleeting-nature-of-the-present"
+},
+{
+"text": "[image]The Party of LepersOctober 2025Nov 19, 2025",
+"href": "https://jonahwheeler.com/letters/the-party-of-lepers"
+},
+{
+"text": "[image]The Power of the SunAugust 2026Sep 7, 2026",
+"href": "https://jonahwheeler.com/letters/the-power-of-the-sun"
+},
+{
+"text": "[image]The Rorschach WorldJanuary 2026Feb 1, 2026",
+"href": "https://jonahwheeler.com/letters/the-rorschach-world"
+},
+{
+"text": "[image]The Same FightOctober 2022 LetterNov 1, 2022",
+"href": "https://jonahwheeler.com/letters/the-same-fight-october-2022"
+},
+{
+"text": "[image]The Secrets of CarcosaFebruary 2026Feb 28, 2026",
+"href": "https://jonahwheeler.com/letters/the-secrets-of-carcosa"
+},
+{
+"text": "[image]The Silly Season June 2023 LetterJun 30, 2023",
+"href": "https://jonahwheeler.com/letters/the-silly-season-june-23"
+},
+{
+"text": "[image]The Sprint August 2024 LetterAug 31, 2024",
+"href": "https://jonahwheeler.com/letters/the-sprint-august-2024"
+},
+{
+"text": "[image]The State Budget April 2023 Letter Apr 30, 2023",
+"href": "https://jonahwheeler.com/letters/the-state-budget-april-2023"
+},
+{
+"text": "[image]The WhirlwindAugust 2022 LetterAug 31, 2022",
+"href": "https://jonahwheeler.com/letters/the-whirlwind-august-2022"
+},
+{
+"text": "[image]They Don’t Really Care About Us June 2025 LetterJun 30, 2025",
+"href": "https://jonahwheeler.com/letters/they-don-t-really-care-about-us-june-2025"
+},
+{
+"text": "[image]Tough Subjects, Cold DaysFebruary 2023 LetterFeb 27, 2023",
+"href": "https://jonahwheeler.com/letters/tough-subjects-cold-days-february-2023"
+},
+{
+"text": "[image]Tragedy October 2023 Letter Oct 31, 2023",
+"href": "https://jonahwheeler.com/letters/tragedy-october-2023"
+},
+{
+"text": "[image]VictorySeptember 2022 LetterOct 1, 2022",
+"href": "https://jonahwheeler.com/letters/victory-september-2022"
+},
+{
+"text": "[image]Workers Rights and SynchronicitiesFebruary 2024 LetterMar 1, 2024",
+"href": "https://jonahwheeler.com/letters/workers-rights-and-synchronicities-february-2024"
+},
+{
+"text": "[image]Wrapping it up November 2023 LetterOct 31, 2023",
+"href": "https://jonahwheeler.com/letters/wrapping-it-up-november-2023"
+}
 ]

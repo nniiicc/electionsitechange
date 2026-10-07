@@ -1,53 +1,218 @@
 [
-"https://280living.com/news/meet-the-candidates-alabama-state-senate-district-16",
-"https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB265-eng.pdf",
-"https://alreporter.com/2026/02/05/house-committee-punts-votes-on-social-media-joint-custody-regulations",
-"https://alreporter.com/2026/02/19/gov-ivey-signs-app-store-accountability-act-into-law",
-"https://alreporter.com/2026/04/10/alabama-senate-sends-bill-to-limit-data-center-tax-breaks-to-governor",
-"https://alsenaterepublicans.org/representatives/0016-jabo-waggoner",
-"https://ballotpedia.org/J.T._Waggoner",
-"https://bamapolitics.com/alabama/bills/2026-regular-session/2026-house-bills/house-bill-161-alabama-2026-session/hb161-senate-vote-passed-february-5-2026-4",
-"https://byteiota.com/metas-2b-lobbying-age-verification-laws-exposed",
-"https://cbsnews.com/texas/news/democratic-candidate-lt-governor-texas-democrats-moratorium-data-centers",
-"https://datacenterdynamics.com/en/news/alabama-bill-limiting-data-center-tax-breaks-goes-to-governor",
-"https://datacenters.atmeta.com/us-locations",
-"https://en.wikipedia.org/wiki/J._T._Waggoner",
-"https://fcpa.alabamavotes.gov/page.request.do?page=page.acfPublicContributionDonationDetails&transactionId=1650484",
-"https://governor.alabama.gov/newsroom/2024/05/governor-ivey-announces-meta-plans-to-build-800-million-next-generation-data-center-in-montgomery",
-"https://legiscan.com/AL/bill/HB173/2026",
-"https://legiscan.com/AL/bill/HB399/2026",
-"https://madeinalabama.com/2025/09/meta-to-expand-montgomery-data-hub-pushing-total-investment-to-1-5-billion",
-"https://revenue.alabama.gov/tax-incentives/chapter-9b-abatements",
-"https://sos.alabama.gov/sites/default/files/election-data/2026-06/2026%20AL%20Republican%20Party%20Primary%20Precinct%20Results.zip",
-"https://stone4senate.com/",
-"https://stone4senate.com/donate",
-"https://stone4senate.com/facts/meta-money/filings/1660173.pdf",
-"https://stone4senate.com/facts/meta-money/filings/1660174.pdf",
-"https://stone4senate.com/facts/meta-money/filings/1660175.pdf",
-"https://stone4senate.com/facts/meta-money/filings/1660176.pdf",
-"https://stone4senate.com/facts/meta-money/filings/1660182.pdf",
-"https://stone4senate.com/facts/meta-money/filings/1660183.pdf",
-"https://stone4senate.com/facts/meta-money/filings/al-reporter-hb173-punted-2026-02-05.pdf",
-"https://stone4senate.com/facts/meta-money/filings/fcpa_forge_all_contribs.json",
-"https://stone4senate.com/facts/meta-money/filings/fcpa_forge_exp2.json",
-"https://stone4senate.com/facts/meta-money/filings/fcpa_forge_receipts.json",
-"https://stone4senate.com/facts/meta-money/filings/fcpa_meta.json",
-"https://stone4senate.com/facts/meta-money/filings/fcpa_meta_platforms.json",
-"https://stone4senate.com/facts/meta-money/filings/fcpa_wag_fb.json",
-"https://stone4senate.com/facts/meta-money/filings/fcpa_wag_meta.json",
-"https://stone4senate.com/facts/meta-money/filings/fcpa_wag_platforms.json",
-"https://stone4senate.com/facts/meta-money/filings/fcpa_zuck.json",
-"https://stone4senate.com/facts/meta-money/filings/legiscan-hb173-status.pdf",
-"https://stone4senate.com/facts/meta-money/filings/meta-to-forge-540000-2026-05-08.pdf",
-"https://stone4senate.com/facts/meta-money/filings/techcrunch-meta-super-pac-2025-09-23.pdf",
-"https://stone4senate.com/facts/meta-money/filings/the-texan-meta-super-pac-texas.pdf",
-"https://stone4senate.com/facts/meta-money/filings/wikipedia-waggoner-rules-chair.pdf",
-"https://stone4senate.com/press",
-"https://stone4senate.com/signup",
-"https://techcrunch.com/2025/09/23/meta-launches-super-pac-to-fight-ai-regulation-as-state-policies-mount",
-"https://texasscorecard.com/state/meta-backed-pac-pumps-over-1-2-million-into-texas-republican-primaries",
-"https://thetexan.news/elections/2026/super-pac-owned-by-facebook-parent-company-meta-spends-big-in-texas-primaries/article_fe81d073-e085-449d-ae0b-278f86fcbcb9.html",
-"https://wbhm.org/local-news/2026-05-19/2026-alabama-primary-election-results",
-"https://whnt.com/news/huntsville/facebook-parent-company-meta-invests-1-5-billion-in-huntsville-data-center",
-"https://yahoo.com/news/articles/reddit-user-uncovers-behind-meta-154717384.html"
+{
+"text": "280living.com",
+"href": "https://280living.com/news/meet-the-candidates-alabama-state-senate-district-16/"
+},
+{
+"text": "Donate",
+"href": "https://stone4senate.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://stone4senate.com/"
+},
+{
+"text": "Press",
+"href": "https://stone4senate.com/press/"
+},
+{
+"text": "Press inquiries",
+"href": "https://stone4senate.com/press/"
+},
+{
+"text": "SB265 engrossed text",
+"href": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB265-eng.pdf"
+},
+{
+"text": "Sign up",
+"href": "https://stone4senate.com/signup/"
+},
+{
+"text": "Strong with Stone",
+"href": "https://stone4senate.com/"
+},
+{
+"text": "al-reporter-hb173-punted-2026-02-05.pdf",
+"href": "https://stone4senate.com/facts/meta-money/filings/al-reporter-hb173-punted-2026-02-05.pdf"
+},
+{
+"text": "alreporter.com",
+"href": "https://www.alreporter.com/2026/02/05/house-committee-punts-votes-on-social-media-joint-custody-regulations/"
+},
+{
+"text": "alreporter.com",
+"href": "https://www.alreporter.com/2026/02/19/gov-ivey-signs-app-store-accountability-act-into-law/"
+},
+{
+"text": "alreporter.com",
+"href": "https://www.alreporter.com/2026/04/10/alabama-senate-sends-bill-to-limit-data-center-tax-breaks-to-governor/"
+},
+{
+"text": "alsenaterepublicans.org",
+"href": "https://alsenaterepublicans.org/representatives/0016-jabo-waggoner/"
+},
+{
+"text": "ballotpedia.org/J.T._Waggoner",
+"href": "https://ballotpedia.org/J.T._Waggoner"
+},
+{
+"text": "bamapolitics.com",
+"href": "https://www.bamapolitics.com/alabama/bills/2026-regular-session/2026-house-bills/house-bill-161-alabama-2026-session/hb161-senate-vote-passed-february-5-2026-4/"
+},
+{
+"text": "byteiota.com",
+"href": "https://byteiota.com/metas-2b-lobbying-age-verification-laws-exposed/"
+},
+{
+"text": "cbsnews.com",
+"href": "https://www.cbsnews.com/texas/news/democratic-candidate-lt-governor-texas-democrats-moratorium-data-centers/"
+},
+{
+"text": "datacenterdynamics.com",
+"href": "https://www.datacenterdynamics.com/en/news/alabama-bill-limiting-data-center-tax-breaks-goes-to-governor/"
+},
+{
+"text": "datacenters.atmeta.com",
+"href": "https://datacenters.atmeta.com/us-locations/"
+},
+{
+"text": "en.wikipedia.org",
+"href": "https://en.wikipedia.org/wiki/J._T._Waggoner"
+},
+{
+"text": "fcpa.alabamavotes.gov",
+"href": "https://fcpa.alabamavotes.gov/page.request.do?page=page.acfPublicContributionDonationDetails&transactionId=1650484"
+},
+{
+"text": "fcpa_forge_all_contribs.json",
+"href": "https://stone4senate.com/facts/meta-money/filings/fcpa_forge_all_contribs.json"
+},
+{
+"text": "fcpa_forge_exp2.json",
+"href": "https://stone4senate.com/facts/meta-money/filings/fcpa_forge_exp2.json"
+},
+{
+"text": "fcpa_forge_receipts.json",
+"href": "https://stone4senate.com/facts/meta-money/filings/fcpa_forge_receipts.json"
+},
+{
+"text": "fcpa_meta.json",
+"href": "https://stone4senate.com/facts/meta-money/filings/fcpa_meta.json"
+},
+{
+"text": "fcpa_meta_platforms.json",
+"href": "https://stone4senate.com/facts/meta-money/filings/fcpa_meta_platforms.json"
+},
+{
+"text": "fcpa_wag_fb.json",
+"href": "https://stone4senate.com/facts/meta-money/filings/fcpa_wag_fb.json"
+},
+{
+"text": "fcpa_wag_meta.json",
+"href": "https://stone4senate.com/facts/meta-money/filings/fcpa_wag_meta.json"
+},
+{
+"text": "fcpa_wag_platforms.json",
+"href": "https://stone4senate.com/facts/meta-money/filings/fcpa_wag_platforms.json"
+},
+{
+"text": "fcpa_zuck.json",
+"href": "https://stone4senate.com/facts/meta-money/filings/fcpa_zuck.json"
+},
+{
+"text": "governor.alabama.gov",
+"href": "https://governor.alabama.gov/newsroom/2024/05/governor-ivey-announces-meta-plans-to-build-800-million-next-generation-data-center-in-montgomery/"
+},
+{
+"text": "legiscan-hb173-status.pdf",
+"href": "https://stone4senate.com/facts/meta-money/filings/legiscan-hb173-status.pdf"
+},
+{
+"text": "legiscan.com",
+"href": "https://legiscan.com/AL/bill/HB173/2026"
+},
+{
+"text": "legiscan.com/AL/bill/HB399/2026",
+"href": "https://legiscan.com/AL/bill/HB399/2026"
+},
+{
+"text": "madeinalabama.com",
+"href": "https://www.madeinalabama.com/2025/09/meta-to-expand-montgomery-data-hub-pushing-total-investment-to-1-5-billion/"
+},
+{
+"text": "meta-to-forge-540000-2026-05-08.pdf",
+"href": "https://stone4senate.com/facts/meta-money/filings/meta-to-forge-540000-2026-05-08.pdf"
+},
+{
+"text": "revenue.alabama.gov",
+"href": "https://www.revenue.alabama.gov/tax-incentives/chapter-9b-abatements/"
+},
+{
+"text": "sos.alabama.gov (ZIP)",
+"href": "https://www.sos.alabama.gov/sites/default/files/election-data/2026-06/2026%20AL%20Republican%20Party%20Primary%20Precinct%20Results.zip"
+},
+{
+"text": "stone4senate.com",
+"href": "https://stone4senate.com/"
+},
+{
+"text": "techcrunch-meta-super-pac-2025-09-23.pdf",
+"href": "https://stone4senate.com/facts/meta-money/filings/techcrunch-meta-super-pac-2025-09-23.pdf"
+},
+{
+"text": "techcrunch.com",
+"href": "https://techcrunch.com/2025/09/23/meta-launches-super-pac-to-fight-ai-regulation-as-state-policies-mount/"
+},
+{
+"text": "texasscorecard.com",
+"href": "https://texasscorecard.com/state/meta-backed-pac-pumps-over-1-2-million-into-texas-republican-primaries/"
+},
+{
+"text": "the-texan-meta-super-pac-texas.pdf",
+"href": "https://stone4senate.com/facts/meta-money/filings/the-texan-meta-super-pac-texas.pdf"
+},
+{
+"text": "thetexan.news",
+"href": "https://thetexan.news/elections/2026/super-pac-owned-by-facebook-parent-company-meta-spends-big-in-texas-primaries/article_fe81d073-e085-449d-ae0b-278f86fcbcb9.html"
+},
+{
+"text": "transaction 1660173",
+"href": "https://stone4senate.com/facts/meta-money/filings/1660173.pdf"
+},
+{
+"text": "transaction 1660174",
+"href": "https://stone4senate.com/facts/meta-money/filings/1660174.pdf"
+},
+{
+"text": "transaction 1660175",
+"href": "https://stone4senate.com/facts/meta-money/filings/1660175.pdf"
+},
+{
+"text": "transaction 1660176",
+"href": "https://stone4senate.com/facts/meta-money/filings/1660176.pdf"
+},
+{
+"text": "transaction 1660182",
+"href": "https://stone4senate.com/facts/meta-money/filings/1660182.pdf"
+},
+{
+"text": "transaction 1660183",
+"href": "https://stone4senate.com/facts/meta-money/filings/1660183.pdf"
+},
+{
+"text": "wbhm.org",
+"href": "https://www.wbhm.org/local-news/2026-05-19/2026-alabama-primary-election-results"
+},
+{
+"text": "whnt.com",
+"href": "https://whnt.com/news/huntsville/facebook-parent-company-meta-invests-1-5-billion-in-huntsville-data-center/"
+},
+{
+"text": "wikipedia-waggoner-rules-chair.pdf",
+"href": "https://stone4senate.com/facts/meta-money/filings/wikipedia-waggoner-rules-chair.pdf"
+},
+{
+"text": "yahoo.com",
+"href": "https://www.yahoo.com/news/articles/reddit-user-uncovers-behind-meta-154717384.html"
+}
 ]

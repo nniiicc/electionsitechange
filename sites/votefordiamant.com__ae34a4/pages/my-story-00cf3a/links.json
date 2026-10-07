@@ -1,20 +1,94 @@
 [
-"https://facebook.com/profile.php?id=61573642144007&mibextid=wwXIfr&rdid=3pKiYGNFqcGj5KNV&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1AXdkFjHti%2F%3Fmibextid%3DwwXIfr",
-"https://instagram.com/diamanthysenaj_",
-"https://secure.anedot.com/diamant-hysenaj-for-congress/10",
-"https://secure.anedot.com/diamant-hysenaj-for-congress/8bdbf3ba-e704-403d-8ce5-cb7fe0c0d528",
-"https://secure.anedot.com/diamant-hysenaj-for-congress/donate",
-"https://secure.anedot.com/diamant-hysenaj-for-congress/donate?amount=10",
-"https://secure.anedot.com/diamant-hysenaj-for-congress/donate?amount=100",
-"https://secure.anedot.com/diamant-hysenaj-for-congress/donate?amount=1000",
-"https://secure.anedot.com/diamant-hysenaj-for-congress/donate?amount=27",
-"https://secure.anedot.com/diamant-hysenaj-for-congress/donate?amount=3",
-"https://secure.anedot.com/diamant-hysenaj-for-congress/donate?amount=50",
-"https://secure.anedot.com/diamant-hysenaj-for-congress/donate?amount=500",
-"https://votefordiamant.com/",
-"https://votefordiamant.com/diamants-plan-for-ny-14",
-"https://votefordiamant.com/my-story",
-"https://votefordiamant.com/privacy-policy",
-"https://votefordiamant.com/vote",
-"https://x.com/diamanthysenaj"
+{
+"text": "$1,000",
+"href": "https://secure.anedot.com/diamant-hysenaj-for-congress/donate?amount=1000"
+},
+{
+"text": "$10",
+"href": "https://secure.anedot.com/diamant-hysenaj-for-congress/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/diamant-hysenaj-for-congress/donate?amount=100"
+},
+{
+"text": "$27",
+"href": "https://secure.anedot.com/diamant-hysenaj-for-congress/donate?amount=27"
+},
+{
+"text": "$3",
+"href": "https://secure.anedot.com/diamant-hysenaj-for-congress/donate?amount=3"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/diamant-hysenaj-for-congress/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/diamant-hysenaj-for-congress/donate?amount=500"
+},
+{
+"text": "CONTACT",
+"href": "mailto:contact@votefordiamant.com"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/diamant-hysenaj-for-congress/donate"
+},
+{
+"text": "DIAMANT'S PLAN FOR NY-14",
+"href": "https://votefordiamant.com/diamants-plan-for-ny-14"
+},
+{
+"text": "HOME",
+"href": "https://votefordiamant.com"
+},
+{
+"text": "MY STORY",
+"href": "https://votefordiamant.com/my-story"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/diamant-hysenaj-for-congress/10"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://votefordiamant.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://secure.anedot.com/diamant-hysenaj-for-congress/8bdbf3ba-e704-403d-8ce5-cb7fe0c0d528"
+},
+{
+"text": "VOTE",
+"href": "https://votefordiamant.com/vote"
+},
+{
+"text": "[image: Diamant for US Congress]",
+"href": "https://votefordiamant.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61573642144007&mibextid=wwXIfr&rdid=3pKiYGNFqcGj5KNV&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1AXdkFjHti%2F%3Fmibextid%3DwwXIfr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/diamanthysenaj_"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/diamanthysenaj"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61573642144007&mibextid=wwXIfr&rdid=3pKiYGNFqcGj5KNV&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1AXdkFjHti%2F%3Fmibextid%3DwwXIfr"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/diamanthysenaj_"
+},
+{
+"text": "[image]",
+"href": "https://x.com/diamanthysenaj"
+}
 ]

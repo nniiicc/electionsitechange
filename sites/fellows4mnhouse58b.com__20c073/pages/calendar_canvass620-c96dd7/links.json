@@ -1,17 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us%21&dates=20260620T153000Z%2F20260620T173000Z",
-"https://docs.google.com/forms/d/e/1FAIpQLSeiQPg7Xk47ZAS9EZ0OD1i4rfSZSNQ_hgTmr5qxh6DH1HUEZQ/viewform?usp=header",
-"https://facebook.com/EdFellowsForMNHouse58B",
-"https://fellows4mnhouse58b.com/",
-"https://fellows4mnhouse58b.com/calendar",
-"https://fellows4mnhouse58b.com/calendar/actionnight418",
-"https://fellows4mnhouse58b.com/calendar/canvass620?format=ical",
-"https://fellows4mnhouse58b.com/calendar/happy-fathers-day",
-"https://fellows4mnhouse58b.com/cart",
-"https://fellows4mnhouse58b.com/contact",
-"https://fellows4mnhouse58b.com/gallery-1-1",
-"https://fellows4mnhouse58b.com/getinvolved",
-"https://fellows4mnhouse58b.com/meeted",
-"https://fellows4mnhouse58b.com/priorities",
-"https://secure.actblue.com/donate/fellows4mnhouse58b"
+{
+"text": "0",
+"href": "https://www.fellows4mnhouse58b.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.fellows4mnhouse58b.com/meeted"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.fellows4mnhouse58b.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.fellows4mnhouse58b.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/fellows4mnhouse58b"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fellows4mnhouse58b.com/gallery-1-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.fellows4mnhouse58b.com/getinvolved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us%21&dates=20260620T153000Z%2F20260620T173000Z"
+},
+{
+"text": "Home",
+"href": "https://www.fellows4mnhouse58b.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass620?format=ical"
+},
+{
+"text": "Next Next June 21 Happy Father's Day!",
+"href": "https://www.fellows4mnhouse58b.com/calendar/happy-fathers-day"
+},
+{
+"text": "Previous Previous June 18 Fellows Campaign Action Night!",
+"href": "https://www.fellows4mnhouse58b.com/calendar/actionnight418"
+},
+{
+"text": "Priorities",
+"href": "https://www.fellows4mnhouse58b.com/priorities"
+},
+{
+"text": "[image: Fellows for District 58B ]",
+"href": "https://www.fellows4mnhouse58b.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EdFellowsForMNHouse58B"
+},
+{
+"text": "here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeiQPg7Xk47ZAS9EZ0OD1i4rfSZSNQ_hgTmr5qxh6DH1HUEZQ/viewform?usp=header"
+}
 ]

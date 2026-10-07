@@ -1,10 +1,54 @@
 [
-"https://facebook.com/knollformnsenate",
-"https://knollformnsenate.com/",
-"https://knollformnsenate.com/about",
-"https://knollformnsenate.com/issues",
-"https://knollformnsenate.com/news",
-"https://knollformnsenate.com/volunteer",
-"https://secure.winred.com/knoll-for-mn-senate-f5a4118f/donate-today",
-"https://x.com/chrisrknoll"
+{
+"text": "About",
+"href": "https://knollformnsenate.com/about"
+},
+{
+"text": "About Chris",
+"href": "https://knollformnsenate.com/about"
+},
+{
+"text": "Back to News",
+"href": "https://knollformnsenate.com/news"
+},
+{
+"text": "Campaign Info",
+"href": "https://knollformnsenate.com/news"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/knoll-for-mn-senate-f5a4118f/donate-today"
+},
+{
+"text": "Home",
+"href": "https://knollformnsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://knollformnsenate.com/issues"
+},
+{
+"text": "News",
+"href": "https://knollformnsenate.com/news"
+},
+{
+"text": "The Issues",
+"href": "https://knollformnsenate.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://knollformnsenate.com/volunteer"
+},
+{
+"text": "[image: Chris Knoll campaign logo]Chris KnollMinnesota State Senate District 21",
+"href": "https://knollformnsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/knollformnsenate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/chrisrknoll"
+}
 ]

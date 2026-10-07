@@ -1,10 +1,58 @@
 [
-"https://facebook.com/dolezalforgeorgia",
-"https://gregdolezal.com/",
-"https://gregdolezal.com/media-assets",
-"https://gregdolezal.com/privacy-policy",
-"https://instagram.com/teamdolezal",
-"https://secure.anedot.com/dolezal-for-georgia/2026-general",
-"https://x.com/DolezalForGA",
-"https://youtube.com/@TeamDolezal"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/dolezal-for-georgia/2026-general"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://gregdolezal.com/#contact-form"
+},
+{
+"text": "GREG'S STORY",
+"href": "https://gregdolezal.com/#greg-s-story"
+},
+{
+"text": "I WANT TO DONATE!",
+"href": "https://secure.anedot.com/dolezal-for-georgia/2026-general"
+},
+{
+"text": "ISSUES",
+"href": "https://gregdolezal.com/#issues"
+},
+{
+"text": "MEDIA ASSETS",
+"href": "https://gregdolezal.com/media-assets"
+},
+{
+"text": "Privacy",
+"href": "https://gregdolezal.com/privacy-policy"
+},
+{
+"text": "THE DOLEZAL DIFFERENCE",
+"href": "https://gregdolezal.com/#the-dolezal-difference"
+},
+{
+"text": "[image: Logo Image ]",
+"href": "https://gregdolezal.com/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://gregdolezal.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/dolezalforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/teamdolezal%20"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@TeamDolezal%20"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DolezalForGA"
+}
 ]

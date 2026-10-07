@@ -1,7 +1,11 @@
 {
  "description": "Campaign news, announcements, and press releases from Mariannette Miller-Meeks.",
  "final_url": "https://drmillermeeks.com/news/",
+ "fingerprint": "eca88482f2bec4af11032089d873ae6f983d0cad",
+ "format": 3,
  "paid_for_by": "Paid for by Miller-Meeks for Congress",
  "title": "News | Miller-Meeks for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

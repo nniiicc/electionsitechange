@@ -1,8 +1,34 @@
 [
-"http://trbm.marketing/",
-"https://secure.actblue.com/donate/ericwoods",
-"https://secure.actblue.com/donate/woodsstore",
-"https://woodsformissouri.com/",
-"https://woodsformissouri.com/contact",
-"https://woodsformissouri.com/volunteer"
+{
+"text": "816-786-6887",
+"href": "tel:816-459-0448"
+},
+{
+"text": "CONTACT",
+"href": "https://www.woodsformissouri.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ericwoods"
+},
+{
+"text": "HOME",
+"href": "https://www.woodsformissouri.com"
+},
+{
+"text": "MERCH",
+"href": "https://secure.actblue.com/donate/woodsstore"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.woodsformissouri.com/volunteer"
+},
+{
+"text": "eric@woodsformissouri.com",
+"href": "mailto:contact@woodsformissouri.com"
+},
+{
+"text": "trbm.marketing",
+"href": "http://www.trbm.marketing"
+}
 ]

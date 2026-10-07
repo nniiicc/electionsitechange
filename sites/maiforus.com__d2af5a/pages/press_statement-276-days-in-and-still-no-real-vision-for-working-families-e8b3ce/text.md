@@ -1,6 +1,4 @@
-Statement: 276 Days In and Still No Real Vision for Working Families
-OCTOBER 25, 2025
-On day 276 of the second Trump Administration, Congresswoman Matsui held her first in-district town hall.
+0 Skip to Content About Mai Mai's Story Endorsements District 7 Fact Check Platform Vote Get Involved 8/27 - CA7 Debate Volunteer Host A House Party Field Activations Get A Yard Sign Job Opportunities DONATE Open Menu Close Menu About Mai Mai's Story Endorsements District 7 Fact Check Platform Vote Get Involved 8/27 - CA7 Debate Volunteer Host A House Party Field Activations Get A Yard Sign Job Opportunities DONATE Open Menu Close Menu Folder: About Mai Back Mai's Story Endorsements District 7 Fact Check Platform Vote Folder: Get Involved Back 8/27 - CA7 Debate Volunteer Host A House Party Field Activations Get A Yard Sign Job Opportunities DONATE Statement: 276 Days In and Still No Real Vision for Working Families Oct 24 Written By Jonathan Tran OCTOBER 25, 2025 On day 276 of the second Trump Administration , Congresswoman Matsui held her first in-district town hall.
 Tonight's moderated, controlled event with hand-picked attendees was anything but an open town hall.
 The select few who were allowed to enter didn't hear anything new.
 It was the same tired rhetoric that's disconnected from the daily lives of working families, establishment platitudes that we’ve all come to expect from our Congresswoman.
@@ -10,7 +8,7 @@ And as the costs of health care for working families have skyrocketed, Matsui ha
 Working families are going hungry and losing health care coverage - where is Congresswoman Matsui’s sense of urgency?
 Clearly, her life as a member of the wealthiest class in our country has made her out of touch with the daily struggle of those she swore to serve.
 The Congresswoman cannot claim to be fighting to protect democracy while ignoring her constituents and shying away from their questions.
-It's time for Congresswoman Matsui to let the next generation lead.
-——
-Statement was shared with the Sacramento Bee on October 23.
-Quoted in this op-ed: https://www.sacbee.com/opinion/article312626105.html
+It's time for Congresswoman Matsui to let the next generation lead. —— Statement was shared with the Sacramento Bee on October 23.
+Quoted in this op-ed: https://www.sacbee.com/opinion/article312626105.html Jonathan Tran Previous Previous Councilmember Mai Vang condemns racial profiling of Afghan families.Stands with Communities.
+Next Next Press Release: Mai Vang Announces Run for Congress: “It’s Time to Fight for Working Families” CONTACT MEDIA FEC C00918037 - 1700 Tribute Rd.
+Suite 201, Sacramento, CA 95815

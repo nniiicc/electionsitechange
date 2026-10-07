@@ -1,9 +1,9 @@
 {
  "description": "Support Danielle for Georgia in the House of Representatives to reduce the cost of living and improve healthcare access.",
  "final_url": "https://danielleforgeorgia.com/policy",
- "paid_for_by": null,
+ "fingerprint": "ee4cc4868581fe56b8a00dcba9c5413ff115092e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Policy",
- "years_mentioned": [
-  "2024"
- ]
+ "years_mentioned": []
 }

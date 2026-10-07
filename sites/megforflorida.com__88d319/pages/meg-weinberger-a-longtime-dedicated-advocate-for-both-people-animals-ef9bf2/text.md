@@ -1,3 +1,4 @@
+Skip to main content Home Platform News & Events Endorsements Press Releases Image and Video Gallery Join Meg Donate Meg Weinberger: A Longtime, Dedicated Advocate For Both People & Animals Spread the word!
 For more than 20 years, Meg Weinberger has been a dedicated advocate for both people and animals.
 With a mission to protect and defend Florida’s citizens, families and the animals that enrich their lives, she has made significant contributions through her philanthropic efforts.
 At home, Weinberger’s life is a bustling hub of activity.
@@ -10,8 +11,7 @@ An estimated 30,000 horses are illegally slaughtered each year, highlighting the
 Florida is the epicenter of this crisis,” she said.
 “I love these horses.
 I’ll never stop fighting for the animals that can’t fight for themselves.
-We are the voice for the voiceless.”
-But Weinberger’s dedication goes beyond animals.
+We are the voice for the voiceless.” But Weinberger’s dedication goes beyond animals.
 Growing up with her adopted sister Louise, who had Down syndrome, Weinberger learned the power of love and compassion early on.
 This experience inspired her to volunteer and mentor individuals with disabilities.
 Under Weinberger’s vision and management, Rescue Life collaborates with many South Florida-based organizations, serving local children, families and animals.
@@ -22,7 +22,9 @@ Weinberger, who is currently running in the Republican primary for State House i
 Her commitment to keeping insurance rates, gas prices and interest rates in check resonates with hardworking families across the district.
 Amidst the hustle and bustle of philanthropy, Weinberger finds solace in her daily routines — whether tending to her farm, riding horses or indulging in ice plunges for a mental health boost.
 As Weinberger embarks on her journey of public service, she brings with her the values, skills and knowledge that have fueled her many successes in private life.
-Learn more about Meg Weinberger’s Rescue Life nonprofit at www.rescue-life.org.
-Learn more about her current campaign at www.megforflorida.com.
-Original Article/Source: https://gotowncrier.com/2024/06/meg-weinberger-a-longtime-dedicated-advocate-for-both-people-and-animals/
-Author: Town-Crier Editor
+Learn more about Meg Weinberger’s Rescue Life nonprofit at www.rescue-life.org .
+Learn more about her current campaign at www.megforflorida.com .
+Original Article/Source: https://gotowncrier.com/2024/06/meg-weinberger-a-longtime-dedicated-advocate-for-both-people-and-animals/ Author: Town-Crier Editor ← Weinberger Wins District 94 Primary, Will Face Litt In November ‘MAGA’ Meg Weinberger Prevails Over Crowded Field in HD 94 →  Meg for Florida RSS Feed Contribute Today Join Meg's Team!
+Copyright ©# Meg Weinberger | Paid by Meg Weinberger, Republican, for State House, District 94. | Contributions are not tax deductible for federal income tax purposes.
+The Maximum contribution allowed by Florida Law is $1,000.00 per individual or business.
+Privacy Policy | Messaging Terms, Conditions & Policies Terms | Site by KO.

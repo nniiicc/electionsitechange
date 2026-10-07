@@ -1,12 +1,10 @@
-Last week I attended the National Forum on Education Policy in Washington DC, the annual conference for education policy experts from around the country, hosted by the Education Commission of the States.
-Category: Issues
-Supporting the Peer Recovery Center
-The Recovery Center of Addison County is doing incredible work.
+Skip to content Ruth for Vermont Senator Ruth Hardy for Addison District Menu Meet Ruth Updates Endorsements Get Email Updates Legislation Commitments En Español Contribute Category: Issues Events , Issues , Legislation/Bills Education Policy: A National Perspective July 14, 2026 ruthhardy Last week I attended the National Forum on Education Policy in Washington DC, the annual conference for education policy experts from around the country, hosted by the Education Commission of the States.
+Events , Issues Supporting the Peer Recovery Center June 27, 2026 ruthhardy The Recovery Center of Addison County is doing incredible work.
 Watch their short-film about how peer support saves lives.
-Phil Scott’s vetoes mean we all lose
-When Phil Scott vetoes bills that focus on common sense solutions to real problems facing Vermont, siding with huge corporations over everyday people, it means all Vermonters lose.
-Protecting your financial security
-Across an array of key areas, we passed legislation that will help Vermonters save money & protect their personal finances.
-Consensus K-12 Education Reform
-The Legislature adjourned last week after passing major legislation to advance the transformation of our PK-12 education system.
+Issues , Legislation/Bills Phil Scott’s vetoes mean we all lose June 19, 2026 ruthhardy When Phil Scott vetoes bills that focus on common sense solutions to real problems facing Vermont, siding with huge corporations over everyday people, it means all Vermonters lose.
+Issues , Legislation/Bills Protecting your financial security June 13, 2026 ruthhardy Across an array of key areas, we passed legislation that will help Vermonters save money & protect their personal finances.
+Issues , Legislation/Bills Consensus K-12 Education Reform June 2, 2026 June 5, 2026 ruthhardy The Legislature adjourned last week after passing major legislation to advance the transformation of our PK-12 education system.
 After weeks of negotiations, where I played a key role, we reached a compromise between the Governor, House, and Senate leaders that creates a voluntary locally-directed, but tightly scheduled, process for merging school districts.
+3 Comments Posts navigation Older posts Newer posts Facebook Instagram Recent Posts Everywhere, All of the Time Setting the record straight about my work Vergennes Opera House All Access Project Search for: Follow Ruth for Vermont on WordPress.com Follow Us Facebook Instagram Paid for by Ruth Hardy for Vermont Senate | PO Box 343 | East Middlebury, VT 05740 Create a website or blog at WordPress.com Subscribe Ruth for Vermont Create a website or blog at WordPress.com Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

@@ -1,11 +1,5 @@
-Fighting for the Right Reasons
-Accountable, Community-Driven Leadership
-Fighting for you in Lansing
-Other priorities
-Jalal is running to bring Dearborn and Dearborn Heights’ agenda to Lansing, not the other way around.
+Home Meet Jalal Priorities Strong, Safe Neighborhoods Families & Economic Opportunity Education & Career Pathways Health Care & Wellness Community-Driven Leadership Volunteer Take Our Survey Donate Home Meet Jalal Priorities Strong, Safe Neighborhoods Families & Economic Opportunity Education & Career Pathways Health Care & Wellness Community-Driven Leadership Donate Fighting for the Right Reasons Accountable, Community-Driven Leadership Fighting for you in Lansing Other priorities Strong, Safe Neighborhoods Working Families & Local Economy Education & Career Pathways Health Care and Community Wellness Jalal is running to bring Dearborn and Dearborn Heights’ agenda to Lansing, not the other way around.
 He’ll collaborate with mayors, community leaders, and residents to make sure state policy reflects local priorities.
 His legal expertise means he knows how to scrutinize legislation to ensure it actually delivers for the district.
-Key goals:
-- Establish a district advisory council of local leaders and residents
-- Increase transparency and public input on state-funded local projects
-- Champion policies rooted in data, collaboration, and community feedback
+Key goals: Establish a district advisory council of local leaders and residents Increase transparency and public input on state-funded local projects Champion policies rooted in data, collaboration, and community feedback Donate by mail: CTE Jalal Abdallah 23035 Sheridan St.
+Dearborn, MI 48124 Home Meet Jalal Priorities Volunteer Donate Connect with us: Contact Privacy Policy Terms of Use | Built by: Brick by Brick PAID FOR BY COMMITTEE TO ELECT JALAL ABDALLAH, PO Box 83, Dearborn Heights, MI 48127

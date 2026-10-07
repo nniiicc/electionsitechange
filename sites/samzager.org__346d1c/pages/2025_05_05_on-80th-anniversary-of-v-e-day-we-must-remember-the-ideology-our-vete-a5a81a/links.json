@@ -1,33 +1,142 @@
 [
-"https://apnews.com/article/donald-trump-federal-judges-impeachment-29da1153a9f82106748098a6606fec39",
-"https://apnews.com/article/harvard-trump-federal-cuts-universities-protests-8fa92331b2780394ea171b0b32d5d243",
-"https://apnews.com/article/tufts-student-detained-massachusetts-immigration-6c3978da98a8d0f39ab311e092ffd892",
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://archive.org/details/ArmyTalkOrientationFactSheet64-Fascism/page/n1/mode/2up",
-"https://bangordailynews.com/2025/04/30/opinion/opinion-contributor/maine-angus-king-declaration-of-conscience-speech-margaret-chase-smith",
-"https://brookings.edu/articles/trump-remains-a-nato-skeptic",
-"https://cnn.com/2025/04/27/us/children-us-citizens-deported-honduras/index.html",
-"https://defense.gov/Multimedia/Experience/VE-Day",
-"https://indexoncensorship.org/2025/04/donald-trump-hit-list-inspired-viktor-orban-hungary",
-"https://law.cornell.edu/wex/due_process",
-"https://libraryjournal.com/story/what-happens-to-libraries-if-imls-goes-away",
-"https://mainehousedemocrats.com/volunteer2026",
-"https://nbcnews.com/politics/trump-administration/trump-signs-executive-order-stop-federal-funding-npr-pbs-rcna204375",
-"https://npr.org/2025/04/26/nx-s1-5378077/honduras-deported-girl-citizen",
-"https://npr.org/sections/planet-money/2025/02/18/g-s1-49220/trump-ignore-congress-spending-laws-impoundmen",
-"https://nytimes.com/2025/04/26/us/politics/trump-putin-russia-ukraine.html",
-"https://pbs.org/newshour/show/white-house-says-it-will-decide-which-news-organizations-routinely-cover-the-preside",
-"https://pressherald.com/2019/04/07/letter-to-the-editor-thank-maine-delegation-for-supporting-public-libraries",
-"https://pressherald.com/2024/10/03/opinion-the-battle-for-affordable-accessible-health-care-is-far-from-over",
-"https://samzager.org/",
-"https://samzager.org/ballotpedia-survey",
-"https://samzager.org/endorsers",
-"https://samzager.org/leadership-and-education",
-"https://samzager.org/news",
-"https://samzager.org/priorities",
-"https://samzager.org/show-your-support",
-"https://samzager.org/taking-a-stand",
-"https://samzager.org/what-others-say",
-"https://thehill.com/opinion/judiciary/5259208-if-trump-flouts-the-abrego-garcia-rulings-the-constitution-is-done",
-"https://treaties.un.org/doc/Publication/UNTS/Volume%203007/Part/volume-3007-I-52241.pdf"
+{
+"text": "80th anniversary",
+"href": "https://www.defense.gov/Multimedia/Experience/VE-Day/"
+},
+{
+"text": "Back to NEWS page",
+"href": "https://samzager.org/news/"
+},
+{
+"text": "Ballotpedia Survey",
+"href": "https://samzager.org/ballotpedia-survey/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://samzager.org/show-your-support/"
+},
+{
+"text": "Congress",
+"href": "https://www.pressherald.com/2019/04/07/letter-to-the-editor-thank-maine-delegation-for-supporting-public-libraries/"
+},
+{
+"text": "Endorsers",
+"href": "https://samzager.org/endorsers/"
+},
+{
+"text": "Home",
+"href": "https://samzager.org/"
+},
+{
+"text": "Leadership and Education",
+"href": "https://samzager.org/leadership-and-education/"
+},
+{
+"text": "News",
+"href": "https://samzager.org/news/"
+},
+{
+"text": "Please consider contributing $5",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Priorities",
+"href": "https://samzager.org/priorities/"
+},
+{
+"text": "Read full article",
+"href": "https://www.pressherald.com/2024/10/03/opinion-the-battle-for-affordable-accessible-health-care-is-far-from-over/"
+},
+{
+"text": "Show your support",
+"href": "https://samzager.org/show-your-support/"
+},
+{
+"text": "Suppress",
+"href": "https://www.nbcnews.com/politics/trump-administration/trump-signs-executive-order-stop-federal-funding-npr-pbs-rcna204375"
+},
+{
+"text": "Taking a Stand",
+"href": "https://samzager.org/taking-a-stand/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.mainehousedemocrats.com/volunteer2026"
+},
+{
+"text": "Viktor Orban",
+"href": "https://www.indexoncensorship.org/2025/04/donald-trump-hit-list-inspired-viktor-orban-hungary/"
+},
+{
+"text": "Vladimir Putin",
+"href": "https://www.nytimes.com/2025/04/26/us/politics/trump-putin-russia-ukraine.html"
+},
+{
+"text": "What Others Say",
+"href": "https://samzager.org/what-others-say/"
+},
+{
+"text": "[image]",
+"href": "https://samzager.org"
+},
+{
+"text": "allies",
+"href": "https://www.brookings.edu/articles/trump-remains-a-nato-skeptic/"
+},
+{
+"text": "citizens",
+"href": "https://www.npr.org/2025/04/26/nx-s1-5378077/honduras-deported-girl-citizen"
+},
+{
+"text": "due process",
+"href": "https://thehill.com/opinion/judiciary/5259208-if-trump-flouts-the-abrego-garcia-rulings-the-constitution-is-done/"
+},
+{
+"text": "grave threats",
+"href": "https://www.bangordailynews.com/2025/04/30/opinion/opinion-contributor/maine-angus-king-declaration-of-conscience-speech-margaret-chase-smith/"
+},
+{
+"text": "https://www.pressherald.com/2024/10/03/opinion-the-battle-for-affordable-accessible-health-care-is-far-from-over/",
+"href": "https://www.pressherald.com/2024/10/03/opinion-the-battle-for-affordable-accessible-health-care-is-far-from-over/"
+},
+{
+"text": "libraries",
+"href": "https://www.libraryjournal.com/story/what-happens-to-libraries-if-imls-goes-away"
+},
+{
+"text": "pamphlet",
+"href": "https://archive.org/details/ArmyTalkOrientationFactSheet64-Fascism/page/n1/mode/2up"
+},
+{
+"text": "people",
+"href": "https://apnews.com/article/tufts-student-detained-massachusetts-immigration-6c3978da98a8d0f39ab311e092ffd892"
+},
+{
+"text": "powers of appropriation",
+"href": "https://www.npr.org/sections/planet-money/2025/02/18/g-s1-49220/trump-ignore-congress-spending-laws-impoundmen"
+},
+{
+"text": "remove judges",
+"href": "https://apnews.com/article/donald-trump-federal-judges-impeachment-29da1153a9f82106748098a6606fec39"
+},
+{
+"text": "reporting",
+"href": "https://www.pbs.org/newshour/show/white-house-says-it-will-decide-which-news-organizations-routinely-cover-the-preside"
+},
+{
+"text": "seriously ill",
+"href": "https://www.cnn.com/2025/04/27/us/children-us-citizens-deported-honduras/index.html"
+},
+{
+"text": "treaty",
+"href": "https://treaties.un.org/doc/Publication/UNTS/Volume%203007/Part/volume-3007-I-52241.pdf"
+},
+{
+"text": "twice",
+"href": "https://www.law.cornell.edu/wex/due_process"
+},
+{
+"text": "universities",
+"href": "https://apnews.com/article/harvard-trump-federal-cuts-universities-protests-8fa92331b2780394ea171b0b32d5d243"
+}
 ]

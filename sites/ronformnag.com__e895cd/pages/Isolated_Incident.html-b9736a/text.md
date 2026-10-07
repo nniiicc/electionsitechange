@@ -1,6 +1,6 @@
-Keith Ellison Deems Minnesota Fraud an "Isolated Incident"
-MINNEAPOLIS — According to Minnesota’s top prosecutor, fraud is an isolated incident – at least that’s the latest lie he’s attempting to peddle to Democrats as he seeks a third term as Minnesota’s Attorney General.
+Home Meet Priorities Accomplishments Fact or Fiction News Contact Take Action DONATE TODAY FOR IMMEDIATE RELEASE info@ronformnag.com December 11, 2025 Keith Ellison Deems Minnesota Fraud an "Isolated Incident" MINNEAPOLIS — According to Minnesota’s top prosecutor, fraud is an isolated incident – at least that’s the latest lie he’s attempting to peddle to Democrats as he seeks a third term as Minnesota’s Attorney General.
 In a recent interview with MSNBC, where the far-left-leaning news station incorrectly stated that Ellison was responsible for prosecuting the Feeding Our Future case, the Democrat AG was invited to explain that fraud was an isolated incident in Minnesota – a charge he refused to refute.
-In response to Ellison’s latest attempts to downplay the pervasiveness of fraud that has taken hold of the DFL-run state government, Republican Attorney General candidate Ron Schutz shared the following on social media;
-Over the summer, interim U.S.
-Attorney Joe Thompson stated that fraud in the state could exceed $1 billion once “current investigations are prosecuted and finished.”
+In response to Ellison’s latest attempts to downplay the pervasiveness of fraud that has taken hold of the DFL-run state government, Republican Attorney General candidate Ron Schutz shared the following on social media; Over the summer, interim U.S.
+Attorney Joe Thompson stated that fraud in the state could exceed $1 billion once “current investigations are prosecuted and finished.” ### www.ronformnag.com Ron for MN AG 216 Myrtle St W P.O.
+Box 132 ﻿Stillwater, MN 55082-4830 Email info@RonForMNAG.com Press info@RonForMNAG.comPress Kit Join Us Priorities Meet Ron Contact Us News, Media & Press Kit Take Action Our App Accomplishments Copyright ©# | Privacy Policy Prepared and Paid for by Ron for MN AG ﻿P.O.
+Box 132, Stillwater, MN 55082-4830

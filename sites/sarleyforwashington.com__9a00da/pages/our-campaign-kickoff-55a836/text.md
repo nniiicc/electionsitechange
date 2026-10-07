@@ -1,8 +1,4 @@
-Join us as we officially kick off Derek’s campaign for the 16th District!
+Skip to content Home About Priorities News Contact Volunteer Donate December 1, 2025 Join us as we officially kick off Derek’s campaign for the 16th District!
 Come hear Derek share why he’s running, meet neighbors and supporters, and learn how you can help build better schools and a more affordable future for our community.
 We’d love to have you there—your voice, your energy, and your support make all the difference.
-Thursday, December 4th
-5:30 – 7:00pm
-Armstrong Family Winery
-9 N 2nd Ave
-Walla Walla, WA 99362
+Thursday, December 4th 5:30 – 7:00pm Armstrong Family Winery 9 N 2nd Ave Walla Walla, WA 99362 Uncategorized Archive September 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 Recent Posts Endorsements (Updated) Washington Must Prepare for Budget Volatility Why It Really Is (Almost) All About Costs What Modern Youth Sports Can Tell Us About America Each Generation’s Duty to the Next Home About Priorities News Contact Donate Privacy Policy News Contact Donate Get in Touch: sarleyforwashington@gmail.com Facebook Instagram Paid for by Derek Sarley for State Representative | PO Box 292 Walla Walla, WA 99362 Powered by Herding Cats 🐈‍⬛

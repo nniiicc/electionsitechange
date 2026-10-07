@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://www.tomhendrickson.org/about-tom",
- "paid_for_by": null,
+ "fingerprint": "12ec806bbbec4cf0d110f782f3b24efa349ac89e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet Tom",
  "years_mentioned": [
   "2017",

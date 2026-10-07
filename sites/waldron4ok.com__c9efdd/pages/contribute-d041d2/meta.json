@@ -1,7 +1,9 @@
 {
  "description": "Contribute to the campaign!",
  "final_url": "https://www.waldron4ok.com/contribute",
- "paid_for_by": null,
+ "fingerprint": "80bcc25574bba271d4b27bff05148e5430e3d5b8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contribute",
  "years_mentioned": [
   "2020"

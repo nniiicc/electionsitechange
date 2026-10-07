@@ -1,12 +1,4 @@
-Back to All Events
-Join Williamson County Democratic Women as we celebrate women running for office and thank them for stepping up to the plate.
+0 Skip to Content Learn More Meet Laura On The Issues Upcoming Events Volunteer With Laura Read Laura's Substack Williamson Election Commission Donate Open Menu Close Menu Learn More Meet Laura On The Issues Upcoming Events Volunteer With Laura Read Laura's Substack Williamson Election Commission Donate Open Menu Close Menu Folder: Learn More Back Meet Laura On The Issues Upcoming Events Volunteer With Laura Read Laura's Substack Williamson Election Commission Donate Back to All Events WCDW Celebrate Women Sip and Stamp Friday, October 2, 2026 6:00 PM 8:00 PM Google Calendar ICS Join Williamson County Democratic Women as we celebrate women running for office and thank them for stepping up to the plate.
 We've still got a lot of work to do before Election Day, but for tonight we'll stamp and label postcards over a glass of wine, cocktail, or NA bev and enjoy being together.
 Franklin - Address on RSVP.
-RSVP here
-Previous
-Previous
-October 2
-Community Canvass in Nolensville
-Next
-Next
-October 3
+RSVP here Previous Previous October 2 Community Canvass in Nolensville Next Next October 3 Community Canvass in Brentwood Donate Paid for by Laura Andreson for TN63 - Treasurer: Bob Britton Find our Privacy Policy here.

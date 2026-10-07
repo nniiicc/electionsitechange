@@ -1,18 +1,66 @@
 [
-"https://campaignpartner.com/",
-"https://christopherdeanforwisconsin.com/",
-"https://christopherdeanforwisconsin.com/contact",
-"https://christopherdeanforwisconsin.com/contribute",
-"https://christopherdeanforwisconsin.com/events",
-"https://christopherdeanforwisconsin.com/home",
-"https://christopherdeanforwisconsin.com/issues",
-"https://christopherdeanforwisconsin.com/meet_christopher",
-"https://christopherdeanforwisconsin.com/news",
-"https://christopherdeanforwisconsin.com/photos",
-"https://christopherdeanforwisconsin.com/view-endorsements",
-"https://christopherdeanforwisconsin.com/volunteer",
-"https://christopherdeanforwisconsin.com/yard-sign",
-"https://facebook.com/profile.php?id=61585653157394",
-"https://i.campaignpartner.net/images/cdn_queue/152470/62e08519298449378b1fedc16c90bac5.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/152470/d316a8e14c9643f0b205bf8feb4ef794.jpg"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.christopherdeanforwisconsin.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.christopherdeanforwisconsin.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.christopherdeanforwisconsin.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.christopherdeanforwisconsin.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.christopherdeanforwisconsin.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.christopherdeanforwisconsin.com/issues"
+},
+{
+"text": "Meet Christopher",
+"href": "https://www.christopherdeanforwisconsin.com/meet_christopher"
+},
+{
+"text": "News",
+"href": "https://www.christopherdeanforwisconsin.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.christopherdeanforwisconsin.com/photos"
+},
+{
+"text": "Volunteer",
+"href": "https://www.christopherdeanforwisconsin.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.christopherdeanforwisconsin.com/yard-sign"
+},
+{
+"text": "[image: Christopher Dean Wisconsin Senate District 15]",
+"href": "https://www.christopherdeanforwisconsin.com/"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/152470/62e08519298449378b1fedc16c90bac5.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/152470/d316a8e14c9643f0b205bf8feb4ef794.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585653157394"
+}
 ]

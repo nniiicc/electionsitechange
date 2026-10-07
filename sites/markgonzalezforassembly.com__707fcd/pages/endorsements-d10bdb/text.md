@@ -1,29 +1,4 @@
-ENDORSEMENTS
-WORKING FAMILIES ORGANIZATIONS
-- California Federation of Labor Unions
-- Los Angeles County Federation of Labor, AFL-CIO
-- Service Employees International Union (SEIU) California State Council
-- Western States Regional Council of Carpenters
-- International Longshore and Warehouse Union (ILWU) Local 13
-- International Longshore and Warehouse Union (ILWU) Local 63
-- International Longshore and Warehouse Union (ILWU) Local 94
-- California Teachers Association (CTA)
-- California Federation of Teachers (CFT)
-- California Faculty Association (CFA)
-- California School Employees Association (CSEA)
-- American Federation of State, County and Municipal Employees (AFSCME) DC 36
-- United Domestic Workers (UDW) / AFSCME Local 3930
-- Professional Engineers in California Government (PECG)
-COMMUNITY ORGANIZATIONS
-- California Democratic Party (CDP)
-- California Young Democrats (CYD)
-- Planned Parenthood Advocacy Project Los Angeles County Action Fund
-- Asian Democrats of Los Angeles County (ADLAC)
-- Avance Democratic Club
-- California YIMBY
-- California State Retirees (CSR)
-- Northeast Democratic Club
-- Pilipino Action Center
-- Sierra Club California
-- Southern California Armenian Democrats (SCAD)
-- Stonewall Young Democrats
+top of page DONATE MEET MARK GET INVOLVED ENDORSEMENTS ENDORSEMENT LIST STATEMENTS OF SUPPORT PRIORITIES MEDIA HI RES PHOTOS HI RES VIDEO More Use tab to navigate through the menu items.
+ENDORSEMENTS WORKING FAMILIES ORGANIZATIONS California Federation of Labor Unions Los Angeles County Federation of Labor, AFL-CIO Service Employees International Union (SEIU) California State Council Western States Regional Council of Carpenters International Longshore and Warehouse Union (ILWU) Local 13 International Longshore and Warehouse Union (ILWU) Local 63 International Longshore and Warehouse Union (ILWU) Local 94 California Teachers Association (CTA) California Federation of Teachers (CFT) California Faculty Association (CFA) California School Employees Association (CSEA) American Federation of State, County and Municipal Employees (AFSCME) DC 36 United Domestic Workers (UDW) / AFSCME Local 3930 Professional Engineers in California Government (PECG) COMMUNITY ORGANIZATIONS California Democratic Party (CDP) California Young Democrats (CYD) Planned Parenthood Advocacy Project Los Angeles County Action Fund Asian Democrats of Los Angeles County (ADLAC) Avance Democratic Club California YIMBY California State Retirees (CSR) Northeast Democratic Club Pilipino Action Center Sierra Club California ​ Southern California Armenian Democrats (SCAD) Stonewall Young Democrats *Titles and affiliations are listed for identification purposes only and do not imply any endorsement from institutional organizations.
+DONATE MEET MARK GET INVOLVED ENDORSEMENTS ENDORSEMENT LIST STATEMENTS OF SUPPORT PRIORITIES MEDIA HI RES PHOTOS HI RES VIDEO More Use tab to navigate through the menu items.
+Contact: info@markgonzalezforassembly.com ​ Paid for by Mark Gonzalez for Assembly 2026 (FPPC ID #1477312 ) 12501 Imperial Hwy, Ste 200, Norwalk, CA 90650 bottom of page

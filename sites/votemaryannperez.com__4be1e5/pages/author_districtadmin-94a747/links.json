@@ -1,16 +1,70 @@
 [
-"https://facebook.com/RepMaryAnnPerez",
-"https://secure.actblue.com/contribute/page/votemaryann",
-"https://twitter.com/repmaryann",
-"https://votemaryannperez.com/",
-"https://votemaryannperez.com/about",
-"https://votemaryannperez.com/author/districtadmin",
-"https://votemaryannperez.com/contact-us",
-"https://votemaryannperez.com/district-144",
-"https://votemaryannperez.com/endorsements",
-"https://votemaryannperez.com/get-involved",
-"https://votemaryannperez.com/mary-ann-perez-receives-endorsement-from-harris-county-young-democrats",
-"https://votemaryannperez.com/priorities",
-"https://votemaryannperez.com/privacy-policy",
-"https://wrm.capitol.texas.gov/home"
+{
+"text": "About",
+"href": "https://votemaryannperez.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://votemaryannperez.com/contact-us/"
+},
+{
+"text": "District 144",
+"href": "https://votemaryannperez.com/district-144/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/votemaryann"
+},
+{
+"text": "Endorsements",
+"href": "https://votemaryannperez.com/endorsements/"
+},
+{
+"text": "Find Your Representative",
+"href": "https://wrm.capitol.texas.gov/home"
+},
+{
+"text": "Home",
+"href": "https://votemaryannperez.com"
+},
+{
+"text": "Mary Ann Perez Receives Endorsement from Harris County Young Democrats",
+"href": "https://votemaryannperez.com/mary-ann-perez-receives-endorsement-from-harris-county-young-democrats/"
+},
+{
+"text": "Priorities",
+"href": "https://votemaryannperez.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votemaryannperez.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://votemaryannperez.com/get-involved/"
+},
+{
+"text": "[image: Mary Ann Perez for State Representative District 144 Logo] [image: Mary Ann Perez for State Representative District 144 Logo]",
+"href": "https://votemaryannperez.com/"
+},
+{
+"text": "[image]",
+"href": "https://votemaryannperez.com/mary-ann-perez-receives-endorsement-from-harris-county-young-democrats/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/RepMaryAnnPerez/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/repmaryann"
+},
+{
+"text": "districtadmin",
+"href": "https://votemaryannperez.com/author/districtadmin/"
+},
+{
+"text": "votemaryannperez@gmail.com",
+"href": "mailto:votemaryannperez@gmail.com"
+}
 ]

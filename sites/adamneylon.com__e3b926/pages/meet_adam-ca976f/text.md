@@ -1,5 +1,4 @@
-Meet Adam
-Waukesha County is where Adam built his life.
+Meet Adam The Plan News Volunteer Contribute Meet Adam Waukesha County is where Adam built his life.
 Adam Neylon came to Waukesha County to attend Carroll University and never looked back.
 After graduating from Carroll in 2008 with a degree in political science, Adam chose to build his future here.
 He started his career, launched a small business, married his wife Hannah, and together they are raising their three children in the community they call home.
@@ -42,3 +41,5 @@ A former Carroll University baseball player, Adam remains connected to the unive
 His faith, family, experience as a small business owner, and years of public service have shaped how he approaches leadership: listen first, be transparent, make responsible decisions, and never forget who government works for.
 Waukesha County gave Adam the opportunity to build a future here.
 Now he wants to make sure the next generation has that same opportunity.
+Together, we can KEEP WAUKESHA WINNING .
+Voter Information Yard Signs Contact Adam for Waukesha County Powered by CampaignPartner.com - Political Websites Home Meet Adam The Plan Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

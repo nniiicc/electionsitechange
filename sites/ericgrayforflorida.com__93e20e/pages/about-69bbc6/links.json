@@ -1,24 +1,102 @@
 [
-"https://ericgrayforflorida.com/",
-"https://ericgrayforflorida.com/about",
-"https://ericgrayforflorida.com/bluesky",
-"https://ericgrayforflorida.com/contact",
-"https://ericgrayforflorida.com/donate",
-"https://ericgrayforflorida.com/endorsements",
-"https://ericgrayforflorida.com/facebook",
-"https://ericgrayforflorida.com/get-involved",
-"https://ericgrayforflorida.com/instagram",
-"https://ericgrayforflorida.com/issues",
-"https://ericgrayforflorida.com/mobile-donate",
-"https://ericgrayforflorida.com/news",
-"https://ericgrayforflorida.com/privacy",
-"https://ericgrayforflorida.com/share",
-"https://ericgrayforflorida.com/sign-up",
-"https://ericgrayforflorida.com/store",
-"https://ericgrayforflorida.com/terms",
-"https://ericgrayforflorida.com/tiktok",
-"https://ericgrayforflorida.com/twitter",
-"https://ericgrayforflorida.com/volunteer",
-"https://ericgrayforflorida.com/yardsign",
-"https://mandatemedia.com/"
+{
+"text": "Contact",
+"href": "https://ericgrayforflorida.com/contact/"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://ericgrayforflorida.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://ericgrayforflorida.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://ericgrayforflorida.com/mobile-donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://ericgrayforflorida.com/endorsements/"
+},
+{
+"text": "GET A YARD SIGN",
+"href": "https://ericgrayforflorida.com/yardsign/"
+},
+{
+"text": "Get Involved",
+"href": "https://ericgrayforflorida.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://ericgrayforflorida.com/"
+},
+{
+"text": "Issues",
+"href": "https://ericgrayforflorida.com/issues/"
+},
+{
+"text": "Make a Contribution",
+"href": "https://ericgrayforflorida.com/donate/"
+},
+{
+"text": "Mandate Media",
+"href": "https://www.mandatemedia.com"
+},
+{
+"text": "Meet Eric",
+"href": "https://ericgrayforflorida.com/about/"
+},
+{
+"text": "News",
+"href": "https://ericgrayforflorida.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ericgrayforflorida.com/privacy/"
+},
+{
+"text": "Sign Up",
+"href": "https://ericgrayforflorida.com/sign-up/"
+},
+{
+"text": "Spread the Word",
+"href": "https://ericgrayforflorida.com/share/"
+},
+{
+"text": "Store",
+"href": "https://ericgrayforflorida.com/store/"
+},
+{
+"text": "Terms of Service",
+"href": "https://ericgrayforflorida.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://ericgrayforflorida.com/volunteer/"
+},
+{
+"text": "[image: Eric Gray for State Representative District 35]",
+"href": "https://ericgrayforflorida.com/"
+},
+{
+"text": "[no text]",
+"href": "https://ericgrayforflorida.com/bluesky/"
+},
+{
+"text": "[no text]",
+"href": "https://ericgrayforflorida.com/facebook/"
+},
+{
+"text": "[no text]",
+"href": "https://ericgrayforflorida.com/instagram/"
+},
+{
+"text": "[no text]",
+"href": "https://ericgrayforflorida.com/tiktok/"
+},
+{
+"text": "[no text]",
+"href": "https://ericgrayforflorida.com/twitter/"
+}
 ]

@@ -1,6 +1,3 @@
-Dave
-And Josh’s
-Policies
-Skip To: ECONOMY | INFRASTRUCTURE | HOUSING | EDUCATION | PERMANENT FUND DIVIDEND | GOVERNMENT REFORM
-Housing
-Secure control of Alaska’s land and put it to work for families, ensuring housing is attainable and communities can grow.
+0 Skip to Content About Dave About Josh Dave and Josh's Policies Get Involved Contact Dave DONATE Open Menu Close Menu About Dave About Josh Dave and Josh's Policies Get Involved Contact Dave DONATE Open Menu Close Menu About Dave About Josh Dave and Josh's Policies Get Involved Contact Dave DONATE Dave And Josh’s Policies Skip To: ECONOMY | INFRASTRUCTURE | HOUSING | EDUCATION | PERMANENT FUND DIVIDEND | GOVERNMENT REFORM Economy Zero-Based Budgeting Stabilized Revenue Budgeting for Alaska INfrastructure Opening Up Alaska - Access, Roads, and Responsible Development Expanding Alaska Land Ownership Alaska Infrastructure & Energy / Build Big Again Housing Secure control of Alaska’s land and put it to work for families, ensuring housing is attainable and communities can grow.
+Education AK 10/10 Plan - Workforce First Public Education Permanent Fund Dividend Reforming the permanent fund through a Modern Endowment Model Government Reform ResToring Grand Jury Independence under the Alaska Constitution Time to end Destructive trawling in Alaska Alaska Election Reform: Restoring Trust and Security Paid for by Bronson Church 2026 | PO Box 90938, Anchorage, AK 99509 Contact: info@davebronson.com Donate Today!
+Privacy Policy and Terms & Conditions

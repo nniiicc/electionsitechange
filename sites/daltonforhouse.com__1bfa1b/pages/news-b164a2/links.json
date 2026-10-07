@@ -1,8 +1,38 @@
 [
-"https://daltonforhouse.com/",
-"https://designedtorun.com/",
-"https://facebook.com/daltonforhouse",
-"https://instagram.com/daltonforhouse",
-"https://secure.actblue.com/donate/daltonshop",
-"https://tiktok.com/@daltonforhouse"
+{
+"text": "HQ@DaltonForHouse.com",
+"href": "mailto:HQ@DaltonForHouse.com"
+},
+{
+"text": "Home",
+"href": "https://www.daltonforhouse.com/"
+},
+{
+"text": "Merch",
+"href": "https://secure.actblue.com/donate/daltonshop"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Dalton Gau for State House logo]",
+"href": "https://www.daltonforhouse.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.daltonforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/daltonforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/daltonforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@daltonforhouse"
+}
 ]

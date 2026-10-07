@@ -1,14 +1,94 @@
 [
-"https://apnews.com/article/school-safety-shootings-panic-alert-notifications-9089e293a68d97080b32da5a9406130f",
-"https://bendsource.com/news/a-global-movement-gains-ground-in-bend-la-pine-schools-21481700",
-"https://centraloregondaily.com/bends-levy-looking-at-impact-of-cell-phone-distractions-in-classroom/video_e3cc3298-12e3-5b37-acc2-a7ed289ae590.html",
-"https://centraloregondaily.com/news/regional/bend-electric-bike-law-oregon-senate/article_b7c54434-da7b-11ee-81f5-67dca823ab5c.html",
-"https://emersonvotes.com/category/news/page/2",
-"https://emersonvotes.com/category/news/page/3",
-"https://ktvz.com/news/bend/2024/05/30/that-is-a-perfect-storm-for-failure-rep-emerson-levy-looking-to-tackle-technology-distractions-in-schools",
-"https://ktvz.com/news/education/2024/04/11/rep-levy-2-5-million-in-grants-now-available-to-oregon-school-districts-for-wireless-panic-alarms",
-"https://ktvz.com/news/government-politics/2024/02/10/not-a-political-issue-its-a-human-issue-rep-emerson-levy-introduces-bill-to-lower-prescription-drug-costs",
-"https://ktvz.com/news/government-politics/2024/04/16/state-reps-levy-kropf-to-hold-post-legislative-session-town-hall-saturday-at-downtown-bend-library",
-"https://ktvz.com/news/government-politics/2024/04/18/first-term-state-rep-emerson-levy-of-bend-lists-legislative-accomplishments",
-"https://oregoncapitalchronicle.com/2024/02/16/dark-money-group-targets-oregon-swing-districts-with-new-mailers-ads"
+{
+"text": "2",
+"href": "https://emersonvotes.com/category/news/page/2/"
+},
+{
+"text": "3",
+"href": "https://emersonvotes.com/category/news/page/3/"
+},
+{
+"text": "Associated Press: States aim to boost school safety after Tennessee shooting",
+"href": "https://apnews.com/article/school-safety-shootings-panic-alert-notifications-9089e293a68d97080b32da5a9406130f"
+},
+{
+"text": "Central Oregon Daily: Bend’s Levy looking at impact of cell phone distractions in classroom",
+"href": "https://www.centraloregondaily.com/bends-levy-looking-at-impact-of-cell-phone-distractions-in-classroom/video_e3cc3298-12e3-5b37-acc2-a7ed289ae590.html"
+},
+{
+"text": "Central Oregon Daily: ‘Trenton’s’ e-bike law, named for Bend teen, passes Oregon Senate",
+"href": "https://www.centraloregondaily.com/news/regional/bend-electric-bike-law-oregon-senate/article_b7c54434-da7b-11ee-81f5-67dca823ab5c.html"
+},
+{
+"text": "KTVZ: First-term state Rep. Emerson Levy of Bend lists legislative accomplishments",
+"href": "https://ktvz.com/news/government-politics/2024/04/18/first-term-state-rep-emerson-levy-of-bend-lists-legislative-accomplishments/"
+},
+{
+"text": "KTVZ: Rep. Levy: $2.5 million in grants now available to Oregon school districts for wireless panic alarms",
+"href": "https://ktvz.com/news/education/2024/04/11/rep-levy-2-5-million-in-grants-now-available-to-oregon-school-districts-for-wireless-panic-alarms/"
+},
+{
+"text": "KTVZ: State Reps. Levy, Kropf to hold post-legislative session town hall Saturday at Downtown Bend Library",
+"href": "https://ktvz.com/news/government-politics/2024/04/16/state-reps-levy-kropf-to-hold-post-legislative-session-town-hall-saturday-at-downtown-bend-library/"
+},
+{
+"text": "KTVZ: ‘Not a political issue. It’s a human issue’: Rep. Emerson Levy introduces bill to lower prescription drug costs",
+"href": "https://ktvz.com/news/government-politics/2024/02/10/not-a-political-issue-its-a-human-issue-rep-emerson-levy-introduces-bill-to-lower-prescription-drug-costs/"
+},
+{
+"text": "KTVZ: ‘That is a perfect storm for failure’: Rep. Emerson Levy looking to tackle technology distractions in schools",
+"href": "https://ktvz.com/news/bend/2024/05/30/that-is-a-perfect-storm-for-failure-rep-emerson-levy-looking-to-tackle-technology-distractions-in-schools/"
+},
+{
+"text": "Next",
+"href": "https://emersonvotes.com/category/news/page/2/"
+},
+{
+"text": "Oregon Capital Chronicle: Dark money group targets Oregon swing districts with new mailers, ads",
+"href": "https://oregoncapitalchronicle.com/2024/02/16/dark-money-group-targets-oregon-swing-districts-with-new-mailers-ads/"
+},
+{
+"text": "Source Weekly: A Global Movement Gains Ground In Bend-La Pine Schools",
+"href": "https://www.bendsource.com/news/a-global-movement-gains-ground-in-bend-la-pine-schools-21481700"
+},
+{
+"text": "[image]",
+"href": "https://apnews.com/article/school-safety-shootings-panic-alert-notifications-9089e293a68d97080b32da5a9406130f"
+},
+{
+"text": "[image]",
+"href": "https://ktvz.com/news/bend/2024/05/30/that-is-a-perfect-storm-for-failure-rep-emerson-levy-looking-to-tackle-technology-distractions-in-schools/"
+},
+{
+"text": "[image]",
+"href": "https://ktvz.com/news/education/2024/04/11/rep-levy-2-5-million-in-grants-now-available-to-oregon-school-districts-for-wireless-panic-alarms/"
+},
+{
+"text": "[image]",
+"href": "https://ktvz.com/news/government-politics/2024/02/10/not-a-political-issue-its-a-human-issue-rep-emerson-levy-introduces-bill-to-lower-prescription-drug-costs/"
+},
+{
+"text": "[image]",
+"href": "https://ktvz.com/news/government-politics/2024/04/16/state-reps-levy-kropf-to-hold-post-legislative-session-town-hall-saturday-at-downtown-bend-library/"
+},
+{
+"text": "[image]",
+"href": "https://ktvz.com/news/government-politics/2024/04/18/first-term-state-rep-emerson-levy-of-bend-lists-legislative-accomplishments/"
+},
+{
+"text": "[image]",
+"href": "https://oregoncapitalchronicle.com/2024/02/16/dark-money-group-targets-oregon-swing-districts-with-new-mailers-ads/"
+},
+{
+"text": "[image]",
+"href": "https://www.bendsource.com/news/a-global-movement-gains-ground-in-bend-la-pine-schools-21481700"
+},
+{
+"text": "[image]",
+"href": "https://www.centraloregondaily.com/bends-levy-looking-at-impact-of-cell-phone-distractions-in-classroom/video_e3cc3298-12e3-5b37-acc2-a7ed289ae590.html"
+},
+{
+"text": "[image]",
+"href": "https://www.centraloregondaily.com/news/regional/bend-electric-bike-law-oregon-senate/article_b7c54434-da7b-11ee-81f5-67dca823ab5c.html"
+}
 ]

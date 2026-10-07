@@ -1,5 +1,7 @@
-“Congressman Levin has brought more funding to Vista over the past 5 1/2 years than his predecessor did in decades.
+About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate Vista City Councilmember Joe Green Endorses Rep.
+Mike Levin September 18, 2024 “Congressman Levin has brought more funding to Vista over the past 5 1/2 years than his predecessor did in decades.
 Politics aside, Mike truly works hard to find out the needs of the communities he serves, then delivers federal money to help address those needs.
 Whether you voted for Mike or not, you’ll find his door is always open, and he works hard to come up with reasonable solutions that are palatable for everyone involved.
-Mike Levin is what is best for Vista, CA & I am proud to endorse him and work alongside him for the benefit of my city.”
-Vista City Councilmember Joe Green
+Mike Levin is what is best for Vista, CA & I am proud to endorse him and work alongside him for the benefit of my city.” Vista City Councilmember Joe Green Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+About Mike Agenda Endorsements Latest News Volunteer/Yard Signs Donate Campaign Inquiries: (760) 566-6113 Email: [email protected] Mailing Address: Mike Levin for Congress PO Box 2112 Capistrano Beach, CA 92624 Campaign Media Inquiries: [email protected] Privacy Policy En Español Paid for by Mike Levin for Congress

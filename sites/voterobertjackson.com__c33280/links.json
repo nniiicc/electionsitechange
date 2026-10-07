@@ -1,16 +1,102 @@
 [
-"http://vote.nyc/",
-"https://facebook.com/VoteRobertJackson",
-"https://instagram.com/robertjackson_ny",
-"https://secure.actblue.com/donate/jackson2026",
-"https://tiktok.com/@senatorrobertjackson?is_from_webapp=1&sender_device=pc",
-"https://vote.nyc/",
-"https://voterobertjackson.com/",
-"https://voterobertjackson.com/about",
-"https://voterobertjackson.com/cart",
-"https://voterobertjackson.com/contact",
-"https://voterobertjackson.com/endorsements",
-"https://voterobertjackson.com/info@voterobertjackson.com",
-"https://voterobertjackson.com/priorities",
-"https://voterobertjackson.com/volunteer"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/jackson2026"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/jackson2026"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/jackson2026"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/jackson2026"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/jackson2026"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/jackson2026"
+},
+{
+"text": "0",
+"href": "https://www.voterobertjackson.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.voterobertjackson.com/contact"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/jackson2026"
+},
+{
+"text": "Donate‍",
+"href": "https://secure.actblue.com/donate/jackson2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voterobertjackson.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.voterobertjackson.com/info@voterobertjackson.com"
+},
+{
+"text": "Meet Action Jackson",
+"href": "https://www.voterobertjackson.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/jackson2026"
+},
+{
+"text": "Priorities",
+"href": "https://www.voterobertjackson.com/priorities"
+},
+{
+"text": "VOTE.NYC",
+"href": "https://vote.nyc"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voterobertjackson.com/volunteer"
+},
+{
+"text": "Volunteer‍",
+"href": "https://www.voterobertjackson.com/volunteer"
+},
+{
+"text": "[image: Jackson for Senate ]",
+"href": "https://www.voterobertjackson.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.voterobertjackson.com/endorsements"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteRobertJackson"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/robertjackson_ny/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@senatorrobertjackson?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@voterobertjackson.com"
+},
+{
+"text": "vote.nyc",
+"href": "http://vote.nyc"
+}
 ]

@@ -1,21 +1,94 @@
 [
-"http://facebook.com/gabeamoforcongress",
-"http://instagram.com/gabeamoforcongress",
-"http://twitter.com/gabeamo",
-"http://youtube.com/@gabeamoforcongress",
-"https://gabeamo.com/",
-"https://gabeamo.com/contribute",
-"https://gabeamo.com/donate?amount=10&express_lane=true",
-"https://gabeamo.com/donate?amount=100&express_lane=true",
-"https://gabeamo.com/donate?amount=25&express_lane=true",
-"https://gabeamo.com/donate?amount=5&express_lane=true",
-"https://gabeamo.com/donate?amount=50&express_lane=true",
-"https://gabeamo.com/donate?express_lane=true&amount=10",
-"https://gabeamo.com/donate?express_lane=true&amount=100",
-"https://gabeamo.com/donate?express_lane=true&amount=25",
-"https://gabeamo.com/donate?express_lane=true&amount=5",
-"https://gabeamo.com/donate?express_lane=true&amount=50",
-"https://gabeamo.com/volunteer",
-"https://youtube.com/watch?v=FjKyfhXDKq8",
-"https://youtube.com/watch?v=P7PoOBFayak"
+{
+"text": "$#",
+"href": "https://www.gabeamo.com/donate?amount=10&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://www.gabeamo.com/donate?amount=100&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://www.gabeamo.com/donate?amount=25&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://www.gabeamo.com/donate?amount=5&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://www.gabeamo.com/donate?amount=50&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://www.gabeamo.com/donate?express_lane=true&amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.gabeamo.com/donate?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.gabeamo.com/donate?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.gabeamo.com/donate?express_lane=true&amount=5"
+},
+{
+"text": "$#",
+"href": "https://www.gabeamo.com/donate?express_lane=true&amount=50"
+},
+{
+"text": "Donate Now",
+"href": "https://www.gabeamo.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://www.gabeamo.com/"
+},
+{
+"text": "Other",
+"href": "https://www.gabeamo.com/contribute"
+},
+{
+"text": "Volunteer",
+"href": "https://www.gabeamo.com/volunteer"
+},
+{
+"text": "Watch the Video",
+"href": "https://www.youtube.com/watch?v=P7PoOBFayak"
+},
+{
+"text": "[image]",
+"href": "https://www.gabeamo.com"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/gabeamoforcongress"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/gabeamoforcongress"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/gabeamo"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/@gabeamoforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=FjKyfhXDKq8"
+},
+{
+"text": "info@gabeamo.com",
+"href": "mailto:info@gabeamo.com"
+},
+{
+"text": "press@gabeamo.com",
+"href": "mailto:press@gabeamo.com"
+}
 ]

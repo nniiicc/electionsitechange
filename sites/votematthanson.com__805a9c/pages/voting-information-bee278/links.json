@@ -1,13 +1,74 @@
 [
-"https://clerk.kanecountyil.gov/Elections",
-"https://kendallcountyil.gov/offices/county-clerk-recorder/election-voter-information",
-"https://votematthanson.com/",
-"https://votematthanson.com/about-matt",
-"https://votematthanson.com/contact",
-"https://votematthanson.com/donate",
-"https://votematthanson.com/priorities",
-"https://votematthanson.com/privacy-policy",
-"https://votematthanson.com/volunteer",
-"https://votematthanson.com/voting-information",
-"https://votematthanson.com/yard-sign"
+{
+"text": "About Matt",
+"href": "https://votematthanson.com/about-matt/"
+},
+{
+"text": "Contact",
+"href": "https://votematthanson.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://votematthanson.com/donate/"
+},
+{
+"text": "Get A Yard Sign",
+"href": "https://votematthanson.com/yard-sign/"
+},
+{
+"text": "Home",
+"href": "https://votematthanson.com/"
+},
+{
+"text": "Priorities",
+"href": "https://votematthanson.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votematthanson.com/privacy-policy/"
+},
+{
+"text": "Visit Kane County Clerk",
+"href": "https://clerk.kanecountyil.gov/Elections"
+},
+{
+"text": "Visit Kendall County Clerk",
+"href": "https://www.kendallcountyil.gov/offices/county-clerk-recorder/election-voter-information"
+},
+{
+"text": "Volunteer",
+"href": "https://votematthanson.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://votematthanson.com/voting-information/"
+},
+{
+"text": "Yard Sign",
+"href": "https://votematthanson.com/yard-sign/"
+},
+{
+"text": "[image: Vote Matt Hanson]",
+"href": "https://votematthanson.com/"
+},
+{
+"text": "[image]",
+"href": "https://clerk.kanecountyil.gov/Elections"
+},
+{
+"text": "[image]",
+"href": "https://www.kendallcountyil.gov/offices/county-clerk-recorder/election-voter-information"
+},
+{
+"text": "hansonforillinois@gmail.com",
+"href": "mailto:hansonforillinois@gmail.com"
+},
+{
+"text": "https://clerk.kanecountyil.gov/Elections",
+"href": "https://clerk.kanecountyil.gov/Elections"
+},
+{
+"text": "https://www.kendallcountyil.gov/offices/county-clerk-recorder/election-voter-information",
+"href": "https://www.kendallcountyil.gov/offices/county-clerk-recorder/election-voter-information"
+}
 ]

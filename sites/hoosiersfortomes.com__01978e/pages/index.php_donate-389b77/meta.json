@@ -1,7 +1,11 @@
 {
  "description": "Make a donation to my campaign for re-election here.",
  "final_url": "https://hoosiersfortomes.com/donate/",
+ "fingerprint": "e1086685c5806f1024005ebe29a11b497ab621f5",
+ "format": 3,
  "paid_for_by": "Paid for by Committee to Elect Jim Tomes, Treasurer Margie Tomes",
  "title": "Donate - Elect Jim Tomes",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

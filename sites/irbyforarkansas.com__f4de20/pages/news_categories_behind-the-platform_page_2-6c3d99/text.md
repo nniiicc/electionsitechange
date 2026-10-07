@@ -1,0 +1,30 @@
+top of page Contact Donate NEWS & INSIGHTS PRESS RELEASE ANNOUNCEMENTS PERSONAL REFLECTIONS BEHIND THE PLATFORM EVENTS UPCOMING EVENTS INVITE JOSHUA TO YOUR EVENT ABOUT ME MY VALUES MY CIVIC BELIEF MY PLEDGE WHERE I STAND PRO-LOCAL CONTROL PRO-FREEDOM & RESPONSIBILITY PRO-INFRASTRUCTURE GROWTH PRO-2ND AMENDMENT PRO-QUALITY EDUCATION PRO-FAIR ELECTIONS AFP-AR CANDIDATE SURVEY REAL SOLUTIONS Civic Education Act Ballot Measure Rights Amendment Fair & Open Primaries Act Infrastructure Investment & Renewal Act Job Creation & Retention Tax Credit Act Parental Responsibility Act Criminal Firearm Law Enforcement Act Arkansas Firearm Safety Funding Act Health Transparency & Choice Act VOTE VOTER REGISTRATION EARLY VOTING ELECTION DAY News & Insights Facebook X (Twitter) Copy link Follow Joshua Irby’s campaign for State Senate District 16 with the latest news, updates, and messages from the trail. ​ Go to Events Want to join us in person?
+Click above to see upcoming events. ​ Or scroll down to explore the latest posts and insights. ​ All News & Updates Press Release Announcements Personal Reflections Behind the Platform A Constitutional Commitment to Religious Freedom "I believe religious liberty means exactly what it says.
+It protects the Christian, the Muslim, the Jew, the Hindu, the Buddhist, the Sikh, people of all other faiths, and those who profess no faith at all.
+It protects the faith I profess, and it protects the conscience of people whose beliefs I may profoundly disagree with." Behind the Platform Aug 31 10 min read Why I Support Issue 2: Protecting the Right to Keep and Bear Arms “I believe the right to keep and bear arms is an individual constitutional right.
+I believe Arkansans should be able to exercise that right for self-defense, common defense, hunting, recreation, and other lawful purposes.
+I believe protecting that right necessarily includes protecting the lawful possession and use of ammunition, firearm accessories, and firearm components.
+And I believe our Constitution should speak clearly when protecting the fundamental liberties of the peo Behind the Platform Aug 31 3 min read A Commitment Not to Govern by Fear, but by Courage and Principle “Fear should never determine which constitutional rights we defend—or whose. … The measure of our commitment to constitutional government is not how firmly we defend the rights of those with whom we agree, but how faithfully we defend the rights that belong to us all.” Behind the Platform Aug 29 5 min read I Do Not Support Socialism: Why I Believe in Rules-Based Capitalism "I do not support socialism.
+I have not supported socialism.
+And I will not support socialism.
+I am a capitalist.
+More specifically, I believe in rules-based capitalism—an economic system built on private property, entrepreneurship, voluntary exchange, consumer choice, and free and competitive markets." Behind the Platform Aug 28 3 min read Common Good Capitalism: A Rules-Based Approach to Prosperity “Common Good Capitalism rests on four commitments: economic freedom under fair rules, prosperity through service and productive value creation, broad ownership and economic independence, and accountability through measurable results and public trust.” Behind the Platform Aug 4 14 min read Where Principles Meets People I recently had the opportunity to attend the Saline County Republican Women’s candidate forum in Bryant.
+Some may wonder why a Democratic candidate for State Senate would spend an evening at a Republican event.
+The answer is simple: listening matters.
+My wife will be voting in the Republican primary.
+I wanted to take the time to hear from the candidates who are seeking to serve and who could very well become our representatives in government.
+I wanted to be able to honestly s Behind the Platform Feb 15 3 min read 1 2 3 4 Stay informed with the latest campaign news and important announcements.
+Together, we keep moving forward.​ ​ “I don’t see sides—I see people.
+Neighbors.
+Fellow citizens.” Joshua Irby has taken the Principles of Service Pledge —committing to lead with integrity, unity, and a deep duty to the people, not politics.
+Contact Joshua First name * Last name * Organization (if applicable) Email * Phone (Optional) Your Message * I’m Interested In: Volunteering Hosting an Event Donating Yes, subscribe me for updates I agree to be contacted by phone, text, or email regarding campaign updates.
+Submit 501-943-5804 irbyforarkansas@gmail.com P.O.
+Box 490 Bryant, AR 72089 A Promise for Arkansas JOSHUA IRBY for Donate News & Insights Events About Me Where I Stand Vote AN INDIVIDUAL OR PAC MAY CONTRIBUTE UP TO $3,500 PER ELECTION.
+BUSINESS AND CORPORATE CONTRIBUTIONS ARE PROHIBITED.
+PLEASE MAKE CHECKS PAYABLE TO CITIZENS FOR JOSHUA IRBY Paid for by Joshua Irby "I’m not running for office to recite slogans — I’m running because I believe Arkansas deserves leadership rooted in respect, driven by resolve, and committed to renewal.
+Respect means every Arkansan, no matter where they live or who they are, is treated with dignity and heard with intention.
+Resolve means we don’t shy away from hard truths — we face them with courage and clarity.
+Renewal means we rebuild trust in our institutions and restore hope in our communities. ​ I believe in Common Ground because we’re stronger when we listen before we argue.
+I believe in Common Sense because good policy should be practical, not partisan.
+And I believe in the Common Good because public service should serve all, not just a few. ​ This isn’t just a campaign — it’s a call to come together.
+This is our moment." ​ - Joshua Irby bottom of page

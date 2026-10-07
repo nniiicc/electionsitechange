@@ -1,43 +1,198 @@
 [
-"http://electjohnley.com/",
-"https://electjohnley.com/",
-"https://electjohnley.com/about-me",
-"https://electjohnley.com/author/john-ley",
-"https://electjohnley.com/category/60-seconds-with-john-ley",
-"https://electjohnley.com/category/issues",
-"https://electjohnley.com/news",
-"https://electjohnley.com/northwest-politics-now-koin-interview",
-"https://electjohnley.com/tag/15-billion",
-"https://electjohnley.com/tag/321-million",
-"https://electjohnley.com/tag/bridge-replacement",
-"https://electjohnley.com/tag/clark-county-wa",
-"https://electjohnley.com/tag/columbia-river-bridge",
-"https://electjohnley.com/tag/i-5-bridge",
-"https://electjohnley.com/tag/ibr",
-"https://electjohnley.com/tag/ibr-cost",
-"https://electjohnley.com/tag/ibr-spending",
-"https://electjohnley.com/tag/interstate-bridge-replacement",
-"https://electjohnley.com/tag/john-ley",
-"https://electjohnley.com/tag/lars-larson",
-"https://electjohnley.com/tag/lars-larson-show",
-"https://electjohnley.com/tag/light-rail",
-"https://electjohnley.com/tag/odot",
-"https://electjohnley.com/tag/oregon-transportation",
-"https://electjohnley.com/tag/rep-john-ley",
-"https://electjohnley.com/tag/southwest-washington",
-"https://electjohnley.com/tag/taxpayer-accountability",
-"https://electjohnley.com/tag/traffic-congestion",
-"https://electjohnley.com/tag/transportation-spending",
-"https://electjohnley.com/tag/vancouver-wa",
-"https://electjohnley.com/tag/washington-legislature",
-"https://electjohnley.com/tag/wsdot",
-"https://electjohnley.com/wildfires-forgotten-lessons-and-the-price-of-neglect",
-"https://facebook.com/ElectJohnLey",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectjohnley.com%2Frep-john-ley-raises-new-concerns-over-321-million-in-ibr-spending%2F",
-"https://instagram.com/electjohnley",
-"https://linkedin.com/shareArticle?url=https%3A%2F%2Felectjohnley.com%2Frep-john-ley-raises-new-concerns-over-321-million-in-ibr-spending%2F",
-"https://secure.anedot.com/friends-to-elect-john-ley/donate",
-"https://twitter.com/LeyElect",
-"https://twitter.com/intent/tweet?text=https%3A%2F%2Felectjohnley.com%2Frep-john-ley-raises-new-concerns-over-321-million-in-ibr-spending%2F",
-"https://youtube.com/channel/UCwT7tSqPd386hR6PDfzpc5Q"
+{
+"text": "$15 billion",
+"href": "https://electjohnley.com/tag/15-billion/"
+},
+{
+"text": "$321 million",
+"href": "https://electjohnley.com/tag/321-million/"
+},
+{
+"text": "60 Seconds With John Ley",
+"href": "https://electjohnley.com/category/60-seconds-with-john-ley/"
+},
+{
+"text": "About Me",
+"href": "https://electjohnley.com/about-me/"
+},
+{
+"text": "Clark County Wa",
+"href": "https://electjohnley.com/tag/clark-county-wa/"
+},
+{
+"text": "Columbia River bridge",
+"href": "https://electjohnley.com/tag/columbia-river-bridge/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-to-elect-john-ley/donate"
+},
+{
+"text": "Home",
+"href": "https://electjohnley.com/"
+},
+{
+"text": "I-5 Bridge",
+"href": "https://electjohnley.com/tag/i-5-bridge/"
+},
+{
+"text": "IBR",
+"href": "https://electjohnley.com/tag/ibr/"
+},
+{
+"text": "IBR cost",
+"href": "https://electjohnley.com/tag/ibr-cost/"
+},
+{
+"text": "IBR spending",
+"href": "https://electjohnley.com/tag/ibr-spending/"
+},
+{
+"text": "Interstate Bridge Replacement",
+"href": "https://electjohnley.com/tag/interstate-bridge-replacement/"
+},
+{
+"text": "Issues",
+"href": "https://electjohnley.com/category/issues/"
+},
+{
+"text": "John Ley",
+"href": "https://electjohnley.com/tag/john-ley/"
+},
+{
+"text": "Lars Larson",
+"href": "https://electjohnley.com/tag/lars-larson/"
+},
+{
+"text": "Lars Larson Show",
+"href": "https://electjohnley.com/tag/lars-larson-show/"
+},
+{
+"text": "Latest News",
+"href": "https://electjohnley.com/news/"
+},
+{
+"text": "Light Rail",
+"href": "https://electjohnley.com/tag/light-rail/"
+},
+{
+"text": "ODOT",
+"href": "https://electjohnley.com/tag/odot/"
+},
+{
+"text": "Oregon transportation",
+"href": "https://electjohnley.com/tag/oregon-transportation/"
+},
+{
+"text": "Rep. John Ley",
+"href": "https://electjohnley.com/tag/rep-john-ley/"
+},
+{
+"text": "Southwest Washington",
+"href": "https://electjohnley.com/tag/southwest-washington/"
+},
+{
+"text": "Traffic Congestion",
+"href": "https://electjohnley.com/tag/traffic-congestion/"
+},
+{
+"text": "Vancouver WA",
+"href": "https://electjohnley.com/tag/vancouver-wa/"
+},
+{
+"text": "WSDOT",
+"href": "https://electjohnley.com/tag/wsdot/"
+},
+{
+"text": "Washington Legislature",
+"href": "https://electjohnley.com/tag/washington-legislature/"
+},
+{
+"text": "[image: Elect John Ley][image: Elect John Ley]",
+"href": "https://electjohnley.com/"
+},
+{
+"text": "[image: https://electjohnley.com/wp-content/uploads/2022/05/JLlogo_white-1.png]",
+"href": "https://electjohnley.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/LeyElect"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectJohnLey"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electjohnley/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCwT7tSqPd386hR6PDfzpc5Q"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectjohnley.com%2Frep-john-ley-raises-new-concerns-over-321-million-in-ibr-spending%2F"
+},
+{
+"text": "[tooltip: Share on Linkedin]",
+"href": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Felectjohnley.com%2Frep-john-ley-raises-new-concerns-over-321-million-in-ibr-spending%2F"
+},
+{
+"text": "[tooltip: Share on Twitter]",
+"href": "https://twitter.com/intent/tweet?text=https%3A%2F%2Felectjohnley.com%2Frep-john-ley-raises-new-concerns-over-321-million-in-ibr-spending%2F"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://twitter.com/LeyElect"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/ElectJohnLey"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/electjohnley/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.youtube.com/channel/UCwT7tSqPd386hR6PDfzpc5Q"
+},
+{
+"text": "[tooltip: ]",
+"href": "mailto:electjohnley@gmail.com"
+},
+{
+"text": "bridge replacement",
+"href": "https://electjohnley.com/tag/bridge-replacement/"
+},
+{
+"text": "by John Ley",
+"href": "http://electjohnley.com"
+},
+{
+"text": "by John Ley",
+"href": "https://electjohnley.com/author/john-ley/"
+},
+{
+"text": "electjohnley@gmail.com",
+"href": "mailto:electjohnley@gmail.com"
+},
+{
+"text": "next Wildfires, forgotten lessons and the price of neglect",
+"href": "https://electjohnley.com/wildfires-forgotten-lessons-and-the-price-of-neglect/"
+},
+{
+"text": "previous Northwest Politics NOW -- KOIN Interview",
+"href": "https://electjohnley.com/northwest-politics-now-koin-interview/"
+},
+{
+"text": "taxpayer accountability",
+"href": "https://electjohnley.com/tag/taxpayer-accountability/"
+},
+{
+"text": "transportation spending",
+"href": "https://electjohnley.com/tag/transportation-spending/"
+}
 ]

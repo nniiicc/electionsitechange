@@ -1,7 +1,9 @@
 {
- "description": "Conozca los temas por los que CJ Hernandez est\u00e1 luchando",
+ "description": "Conozca los temas por los que CJ Hernandez está luchando",
  "final_url": "https://www.cjforsenate.com/es/platform",
- "paid_for_by": null,
+ "fingerprint": "dea9ecbc57734d6838fd75671d4b448461c09e8b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Temas",
  "years_mentioned": []
 }

@@ -1,19 +1,78 @@
 [
-"https://cheezit.com/en_US/home.html",
-"https://facebook.com/friendsofrussdiamond",
-"https://facebook.com/goalcast/videos/1134194469991075",
-"https://facebook.com/repdiamond/photos/a.700878966700774/2769316279857022",
-"https://facebook.com/repdiamond/reels",
-"https://facebook.com/repdiamond/videos/1134164120295970",
-"https://instagram.com/russdiamond",
-"https://repdiamond.com/",
-"https://russdiamond.vote/about.php",
-"https://russdiamond.vote/blog.php",
-"https://russdiamond.vote/connect.php",
-"https://russdiamond.vote/contribute.php",
-"https://russdiamond.vote/index.php",
-"https://russdiamond.vote/privacy.php",
-"https://russdiamond.vote/updates.php",
-"https://x.com/russdiamond",
-"https://youtube.com/watch?v=zRBl0GPBm4o"
+{
+"text": "About",
+"href": "https://russdiamond.vote/about.php"
+},
+{
+"text": "Blog",
+"href": "https://russdiamond.vote/blog.php"
+},
+{
+"text": "Connect",
+"href": "https://russdiamond.vote/connect.php"
+},
+{
+"text": "Donate",
+"href": "https://russdiamond.vote/contribute.php"
+},
+{
+"text": "Here's the inspirational closing scene where Red repeats that line.",
+"href": "https://www.youtube.com/watch?v=zRBl0GPBm4o"
+},
+{
+"text": "Home",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "I guess it comes down to a simple choice really. Get busy livin' or get busy dyin'.",
+"href": "https://www.facebook.com/goalcast/videos/1134194469991075/"
+},
+{
+"text": "News",
+"href": "https://russdiamond.vote/updates.php"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.russdiamond.vote/privacy.php"
+},
+{
+"text": "We've seen enough death already in Pennsylvania.",
+"href": "https://www.facebook.com/repdiamond/photos/a.700878966700774/2769316279857022/"
+},
+{
+"text": "[image: Captiol Insights - State Representative Russ Diamond's Blog]",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "[image: Click to email my campaign.]",
+"href": "mailto:russdiamond4pa@gmail.com?Subject=Campaign+page+viewer+message"
+},
+{
+"text": "[image: Click to follow Friends of Russ Diamond on Facebook.]",
+"href": "https://www.facebook.com/friendsofrussdiamond"
+},
+{
+"text": "[image: Click to follow me on Instagram.]",
+"href": "https://www.instagram.com/russdiamond"
+},
+{
+"text": "[image: Click to follow me on X (Twitter}.]",
+"href": "https://www.x.com/russdiamond"
+},
+{
+"text": "[image: Click to view videos of Russ.]",
+"href": "https://www.facebook.com/repdiamond/reels/"
+},
+{
+"text": "[image: Click to visit Russ's legislative page.]",
+"href": "https://www.repdiamond.com/"
+},
+{
+"text": "buy Cheez-It® crackers",
+"href": "https://www.cheezit.com/en_US/home.html"
+},
+{
+"text": "this video presentation",
+"href": "https://www.facebook.com/repdiamond/videos/1134164120295970/"
+}
 ]

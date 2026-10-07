@@ -1,2 +1,2 @@
-Contact Ben If you have questions or comments for Ben, here are some ways to get in contact with him: Subscribe for Email Updates Thank You!
-First Name Last Name Email Subscribe Email Directly ben@benbakebergmn.com Call or Text 612-433-3696 Loading… Loading…
+Home Meet Ben Priorities Endorsements Photos Events Volunteer Donate Contact Ben If you have questions or comments for Ben, here are some ways to get in contact with him: Subscribe for Email Updates Thank You!
+First Name Last Name Email Subscribe  Email Directly ben@benbakebergmn.com  Call or Text 612-433-3696 Loading… Loading… Follow Follow Follow Contact | Bills | Articles | Voting | Privacy Policy Prepared and Paid for by Bakeberg MN Committee | PO Box 145, Jordan, MN 55352

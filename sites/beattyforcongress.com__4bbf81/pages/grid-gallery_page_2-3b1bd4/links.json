@@ -1,28 +1,222 @@
 [
-"https://beattyforcongress.com/",
-"https://beattyforcongress.com/about",
-"https://beattyforcongress.com/contact",
-"https://beattyforcongress.com/events/list",
-"https://beattyforcongress.com/get-involved",
-"https://beattyforcongress.com/grid-gallery",
-"https://beattyforcongress.com/grid-gallery/page/2",
-"https://beattyforcongress.com/issues-page",
-"https://beattyforcongress.com/news",
-"https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_0971-scaled.jpg",
-"https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_0995-scaled.jpg",
-"https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1033-scaled.jpg",
-"https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1575-scaled.jpg",
-"https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1646.jpg",
-"https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1777.jpg",
-"https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1867-scaled.jpg",
-"https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1917.jpg",
-"https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_2122.jpg",
-"https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_3193.jpg",
-"https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_4191-scaled.jpg",
-"https://beattyforcongress.com/wp-content/uploads/2018/06/img_3333.jpg",
-"https://facebook.com/JoyceBeattyforCongress",
-"https://instagram.com/beattyforcongress",
-"https://olvr.sos.state.oh.us/",
-"https://sos.state.oh.us/elections/voters/absentee-ballot",
-"https://twitter.com/JoyceBeatty"
+{
+"text": "1",
+"href": "https://beattyforcongress.com/grid-gallery/"
+},
+{
+"text": "2",
+"href": "https://beattyforcongress.com/grid-gallery/page/2/"
+},
+{
+"text": "About Joyce",
+"href": "https://beattyforcongress.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://beattyforcongress.com/contact/"
+},
+{
+"text": "Events",
+"href": "https://beattyforcongress.com/events/list/"
+},
+{
+"text": "Facebook",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_0971-scaled.jpg"
+},
+{
+"text": "Facebook",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_0995-scaled.jpg"
+},
+{
+"text": "Facebook",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1033-scaled.jpg"
+},
+{
+"text": "Facebook",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1575-scaled.jpg"
+},
+{
+"text": "Facebook",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1646.jpg"
+},
+{
+"text": "Facebook",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1777.jpg"
+},
+{
+"text": "Facebook",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1867-scaled.jpg"
+},
+{
+"text": "Facebook",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1917.jpg"
+},
+{
+"text": "Facebook",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_2122.jpg"
+},
+{
+"text": "Facebook",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_3193.jpg"
+},
+{
+"text": "Facebook",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_4191-scaled.jpg"
+},
+{
+"text": "Facebook",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/img_3333.jpg"
+},
+{
+"text": "Gallery",
+"href": "https://beattyforcongress.com/grid-gallery/"
+},
+{
+"text": "Get Involved",
+"href": "https://beattyforcongress.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://beattyforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://beattyforcongress.com/issues-page/"
+},
+{
+"text": "News",
+"href": "https://beattyforcongress.com/news/"
+},
+{
+"text": "Register to vote",
+"href": "https://olvr.sos.state.oh.us/"
+},
+{
+"text": "Twitter",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_0971-scaled.jpg"
+},
+{
+"text": "Twitter",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_0995-scaled.jpg"
+},
+{
+"text": "Twitter",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1033-scaled.jpg"
+},
+{
+"text": "Twitter",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1575-scaled.jpg"
+},
+{
+"text": "Twitter",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1646.jpg"
+},
+{
+"text": "Twitter",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1777.jpg"
+},
+{
+"text": "Twitter",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1867-scaled.jpg"
+},
+{
+"text": "Twitter",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1917.jpg"
+},
+{
+"text": "Twitter",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_2122.jpg"
+},
+{
+"text": "Twitter",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_3193.jpg"
+},
+{
+"text": "Twitter",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_4191-scaled.jpg"
+},
+{
+"text": "Twitter",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/img_3333.jpg"
+},
+{
+"text": "Volunteer!",
+"href": "https://beattyforcongress.com/get-involved/"
+},
+{
+"text": "Vote By Mail",
+"href": "https://www.sos.state.oh.us/elections/voters/absentee-ballot/"
+},
+{
+"text": "[image: Joyce Beatty for Congress]",
+"href": "https://beattyforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://beattyforcongress.com/grid-gallery/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JoyceBeatty"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoyceBeattyforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/beattyforcongress/"
+},
+{
+"text": "[tooltip: Joyce]",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_0971-scaled.jpg"
+},
+{
+"text": "[tooltip: Joyce]",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_0995-scaled.jpg"
+},
+{
+"text": "[tooltip: Joyce]",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1033-scaled.jpg"
+},
+{
+"text": "[tooltip: Joyce]",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1575-scaled.jpg"
+},
+{
+"text": "[tooltip: Joyce]",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1646.jpg"
+},
+{
+"text": "[tooltip: Joyce]",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1777.jpg"
+},
+{
+"text": "[tooltip: Joyce]",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1867-scaled.jpg"
+},
+{
+"text": "[tooltip: Joyce]",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_1917.jpg"
+},
+{
+"text": "[tooltip: Joyce]",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_2122.jpg"
+},
+{
+"text": "[tooltip: Joyce]",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_3193.jpg"
+},
+{
+"text": "[tooltip: Joyce]",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/IMG_4191-scaled.jpg"
+},
+{
+"text": "[tooltip: Joyce]",
+"href": "https://beattyforcongress.com/wp-content/uploads/2018/06/img_3333.jpg"
+},
+{
+"text": "beattyforcongress@gmail.com",
+"href": "mailto:beattyforcongress@gmail.com"
+}
 ]

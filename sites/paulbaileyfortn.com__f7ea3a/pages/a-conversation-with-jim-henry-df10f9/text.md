@@ -1,12 +1,11 @@
-Sen.
+Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
+Not a member?
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Podcast / A Conversation with Jim Henry A Conversation with Jim Henry Sen.
 Paul Bailey sits down with Jim Henry.
 Throughout his career, Jim Henry has worn many hats, including a Vietnam veteran, a state representative, a cabinet member, a Deputy Governor, a candidate for governor, a city councilman, a city mayor, and, now, the state director for U.S.
 Senator Bill Haggerty.
-Guest:
-- Jim Henry, state director for U.S.
-Senator Bill Haggerty
-Transcript:
-Announcer: For the politics of Nashville, to the history of the Upper Cumberland, this is the Backroads and Backstories podcast with Senator Paul Bailey.
+Guest: Jim Henry, state director for U.S.
+Senator Bill Haggerty Transcript: Announcer: For the politics of Nashville, to the history of the Upper Cumberland, this is the Backroads and Backstories podcast with Senator Paul Bailey.
 Sen.
 Bailey: Welcome back to the podcast.
 This is your host, Senator Paul Bailey.
@@ -52,8 +51,7 @@ Henry: I grew up in Madisonville, Tennessee.
 Sen.
 Bailey: Okay.
 Mr.
-Henry: And moved over—
-Sen.
+Henry: And moved over— Sen.
 Bailey: Monroe County?
 Mr.
 Henry: Monroe County.
@@ -140,8 +138,7 @@ Henry: It was a different time.
 I think we were a better loyal opposition [laugh] in the House as far as he probably gave us—over a period of years, I think he mellowed some.
 When he started out, he was pretty difficult to deal with.
 And in the end, when Alexander came along, I never will forget what he said on the day of the swearing in; the press asked him, said, “I mean, Mr.
-Speaker, what are you going to do with this new young governor?”
-And he said, “I’m going to do the best I can to make him the best governor that we’ve ever had.” And that kind of set the tone.
+Speaker, what are you going to do with this new young governor?” And he said, “I’m going to do the best I can to make him the best governor that we’ve ever had.” And that kind of set the tone.
 So, almost on all issues, Alexander passed, he was a part of it.
 Didn’t always vote for it, but he saw that if all the Republicans voted, he’d give us enough votes to pass it, to get to 50.
 Sen.
@@ -149,8 +146,7 @@ Bailey: And going to challenge him this question.
 So, McWherter was what I would consider a fiscal conservative, and probably a social conservative, too.
 So, what was the difference between him being a Democrat at the time and you being a Republican?
 Where was the divide at that time, from you being the Republican leader and he, being Speaker of the House, and then ultimately becoming governor?
-Because you were still serving as a representative whenever he was governor—
-Mr.
+Because you were still serving as a representative whenever he was governor— Mr.
 Henry: Yes.
 Sen.
 Bailey: —and so, again, you think back to the days of McWherter—and I’ve said this many times—I put up yard signs for Ned Ray McWherter—and I had a gentleman that was very close to him in the Upper Cumberland, and so he furnished a vehicle and gas, and so my job was to go throughout the Upper Cumberland putting up signs for Ned Ray McWherter at the time.
@@ -191,21 +187,18 @@ And I remember that he spent a lot of time with General Motors when they decided
 Here’s Nissan, the biggest investment the Japanese had made in the United States being located in Murfreesboro, and 34 miles west of that was the GM plant that was the largest investment they’d made outside of the area up there.
 And so it was really a place where we were going to compete head-to-head with the Japanese.
 Didn’t work out too well with the product that was made, but Alexander was a great big part of that.
-Now, one of the things that happened that most people don’t remember, but when Alexander went down to cut the ribbon for Nissan, there was problems with the crowd—
-Sen.
+Now, one of the things that happened that most people don’t remember, but when Alexander went down to cut the ribbon for Nissan, there was problems with the crowd— Sen.
 Bailey: Really?
 Mr.
 Henry: —because of the railroad industry, and the unions were definitely set against it.
-So, they threw things—
-Sen.
+So, they threw things— Sen.
 Bailey: Really?
 Mr.
 Henry: —at the president of Nissan.
 They sure did.
 And Alexander stepped in front and shielded the president.
 So, he never forgot that.
-And—
-Sen.
+And— Sen.
 Bailey: Well now, that is something that I’d never heard before.
 That’s very interesting.
 Mr.
@@ -251,24 +244,20 @@ Henry: It’s just absolutely no other state has that.
 It’s all paid for and there’s no maintenance money [unintelligible 00:14:50].
 As conservative as you can get.
 Sen.
-Bailey: And that’s exactly what I was going to touch on is there’s no debt—
-Mr.
+Bailey: And that’s exactly what I was going to touch on is there’s no debt— Mr.
 Henry: No debt.
 Sen.
 Bailey: —on those roads.
-We paid for those roads, and many times constituents will ask me, “Well, we need to build a third lane going up Monterey Mountain.”
-Mr.
+We paid for those roads, and many times constituents will ask me, “Well, we need to build a third lane going up Monterey Mountain.” Mr.
 Henry: Yeah.
 Sen.
 Bailey: And I totally understand.
-That comes with about a $300 million price tag, and so, we’ve been trying to get some backlog construction projects completed because of the IMPROVE Act, which that was during your time in Governor Haslam’s—
-Mr.
+That comes with about a $300 million price tag, and so, we’ve been trying to get some backlog construction projects completed because of the IMPROVE Act, which that was during your time in Governor Haslam’s— Mr.
 Henry: Right.
 Sen.
 Bailey: —administration, which I was chairing the Transportation Committee in the Senate, which that bill moved through.
 But nevertheless, that’s something grand about this state.
-And if I’m not mistaken—we mentioned this earlier—but that goes back to both Lamar Alexander and Ned Ray McWherter saying, “We’re going to do this, but we’re not going to borrow the money to do all these road projects.”
-Mr.
+And if I’m not mistaken—we mentioned this earlier—but that goes back to both Lamar Alexander and Ned Ray McWherter saying, “We’re going to do this, but we’re not going to borrow the money to do all these road projects.” Mr.
 Henry: Yeah.
 And there was a lot of discussion about toll roads, and this the way Ohio is doing it; they’ve got a toll road.
 We just weren’t going to do it that way.
@@ -301,8 +290,7 @@ We have a lot of people moving into the state from various parts of the country.
 And it’s all about location, it’s all about low cost overhead, no taxes—much.
 I mean, we have enough taxes, trust me, but I mean, it’s all about paying for it as you go.
 Sen.
-Bailey: Which is the—which position that you’ve hailed: state representative, you’ve been a commissioner, Deputy Governor, candidate for governor, now state director for Bill Haggerty—and let me just say, I know that this is the current position that you’re in; I don’t think anyone would hold it against you, especially the senator, but what’s been the most rewarding position out of all of those that…
-Mr.
+Bailey: Which is the—which position that you’ve hailed: state representative, you’ve been a commissioner, Deputy Governor, candidate for governor, now state director for Bill Haggerty—and let me just say, I know that this is the current position that you’re in; I don’t think anyone would hold it against you, especially the senator, but what’s been the most rewarding position out of all of those that… Mr.
 Henry: Probably being the first commissioner of Department of Intellectual and Developmental Disabilities.
 And I had a son that was involved with that, and had pushed for a long time to make it its own department where it could sit at the cabinet table, argue for the right dollars.
 And once you find out about disabilities is that it’s a leadership thing.
@@ -342,8 +330,7 @@ Bailey: And so you move from commissioner of DCS then to deputy governor.
 Mr.
 Henry: Yes.
 Sen.
-Bailey: And so that was the second term—
-Mr.
+Bailey: And so that was the second term— Mr.
 Henry: Right.
 Sen.
 Bailey: —Governor Haslam.
@@ -371,7 +358,8 @@ Sen.
 Bailey: Mm-hm.
 Yes.
 Mr.
-Henry: Well, that was a Drive to 55, I think. 55% of the students educated to at least to second two-your college.
+Henry: Well, that was a Drive to 55, I think.
+55% of the students educated to at least to second two-your college.
 Well, I had it on my desk when I went up there.
 I put this sign up that said ‘Drive to 75’.
 And nobody knew what that was, and I never did say anything.
@@ -418,8 +406,7 @@ And I think that was a tribute to his leadership as far as putting the right emp
 And some governors do that.
 I think you’re better off when you reach out and talk to a lot of people; you can get more of a feel of what needs to be done.
 Sen.
-Bailey: So, you’re an easy person to talk to; in thinking back to your days as being Deputy Governor with Haslam, were there times that he just picked up the phone and just called and said, “Hey, Jim, what’s going on today?”
-Mr.
+Bailey: So, you’re an easy person to talk to; in thinking back to your days as being Deputy Governor with Haslam, were there times that he just picked up the phone and just called and said, “Hey, Jim, what’s going on today?” Mr.
 Henry: We did.
 We usually had an early morning meeting, if we both got there and the schedules permitted, and we talked about those kinds of issues.
 And there was always an issue the day or something that was fairly controversial, but most of those meetings we talked, he made a decision on.
@@ -444,8 +431,7 @@ Henry: [laugh].
 Sen.
 Bailey: I said, “Oh, yes it is.” I said, “It’s owned by the state.” [laugh].
 Mr.
-Henry: I didn’t realize it at the time—
-Sen.
+Henry: I didn’t realize it at the time— Sen.
 Bailey: I know you didn’t.
 Mr.
 Henry: —that we were in, providing services to those 7500 people.
@@ -453,8 +439,7 @@ Sen.
 Bailey: [laugh].
 That’s right.
 Mr.
-Henry: But I do remember renting some equipment, and—
-Sen.
+Henry: But I do remember renting some equipment, and— Sen.
 Bailey: We did.
 Mr.
 Henry: —reprocessed and getting it solved.
@@ -467,8 +452,7 @@ Mr.
 Henry: It came close to being a disaster.
 Sen.
 Bailey: It did.
-And that was one time that I had total confidence in you because it was just like, couple of days, you called and you said, “The governor’s wanting to meet with you and others.”
-Mr.
+And that was one time that I had total confidence in you because it was just like, couple of days, you called and you said, “The governor’s wanting to meet with you and others.” Mr.
 Henry: You know, we had that meeting in the conference room downstairs, and I think everybody that was anything that was affected by that area, we came to an agreement on what we needed to do; I think we acted pretty quickly.
 Sen.
 Bailey: One thing that I remember out of that meeting is that the governor was going around the room asking the various departments and those stakeholders that were in there, and he looked at everyone and he says, “This is no time for red tape.
@@ -483,8 +467,7 @@ Sen.
 Bailey: Because there was one or two that I remember walking in that room that day, and I’ll not mention any names, but there was a couple of guys grabbed me and pulled me to the side, and they were starting to tell me what their plan was, and I said, “Have you been there?” And they said, “Oh, no.
 We’ve not been there.” I said, “Then you don’t know what the plan is.” [laugh].
 I said, “We’ve got to get this handled.” But since then, we ultimately turn that water treatment facility over so the state is no longer in the water treatment business and basically, I never get complaints from citizens in Bledsoe County about their water quality anymore.
-So, thank you for rising—
-Mr.
+So, thank you for rising— Mr.
 Henry: Yeah.
 Sen.
 Bailey: —to the challenge.
@@ -499,15 +482,13 @@ Mr.
 Henry: Well, thank you.
 But one thing that he liked to do was to get everybody in the room that were there would be no misguided instructions about getting something done.
 And when you do that, all of a sudden the red tape guys start saying, “Okay, let’s figure out how to do this.” And that’s a real commentary on his part.
-I mean, he’s—
-Sen.
+I mean, he’s— Sen.
 Bailey: Lieutenant Governor McNally appointed me chair of Transportation and Safety.
 I remember several times that Governor Haslam requesting that I come down, and knowing that I was in the trucking business, he was always wanting to know what my opinion was regarding the IMPROVE Act.
 And as we moved into that legislative year, “Well, what if we do this?
 What if we do that?
 And how do you like this idea?
-How’s that going to affect the trucking industry?”
-And so that was—I can say that he really spent a lot of time in trying to develop the best plan that he could, moving forward.
+How’s that going to affect the trucking industry?” And so that was—I can say that he really spent a lot of time in trying to develop the best plan that he could, moving forward.
 Again, going back to a road situation, it has really allowed us to improve the roads in the state of Tennessee.
 But we can talk about that all day, but I’m just saying, on a personal level, he wanted to know my opinion on that because he knew that I was in the trucking industry.
 And then of course, being named chairman.
@@ -517,8 +498,7 @@ And I remember Lieutenant Governor McNally, grabbing Governor Haslam, pulling hi
 Mr.
 Henry: [laugh].
 Sen.
-Bailey: So, I’ve had the opportunity to introduce Governor Haslam, several different time—
-Mr.
+Bailey: So, I’ve had the opportunity to introduce Governor Haslam, several different time— Mr.
 Henry: You always told that story. [laugh].
 Sen.
 Bailey: I tell that story [laugh], so.
@@ -585,8 +565,7 @@ That kind of how I felt about it. [laugh].
 But you know, you always end up spending more than what you—but the one thing it did disappoint me about that is that money is a huge factor.
 And if you don’t have personal wealth, it’s a huge disadvantage to you to run.
 Sen.
-Bailey: And I think that it’s sad in a way because there are a lot of good people that could govern the state really well, but yet they don’t have the personal finances to be able to—I’ve used the analogy, “Go to an ATM and have a fundraiser.”
-Mr.
+Bailey: And I think that it’s sad in a way because there are a lot of good people that could govern the state really well, but yet they don’t have the personal finances to be able to—I’ve used the analogy, “Go to an ATM and have a fundraiser.” Mr.
 Henry: I tell you, I think there’s an answer to that.
 If you limit what a personal—what you can put in, which is unconstitutional, they’ve said, but if you limited what you can put in, I never thought it would be anything fair about my parents being able to give me $2500 apiece, and Governor Bredesen being able to put in 10 million.
 Sen.
@@ -601,8 +580,7 @@ Bailey: I was talking with Scott Golden several weeks ago at a Reagan Day Dinner
 And then he looked at me, and he said, “And there’s a billionaire out there that sold his business that’s looking for something to do, and he’s going to decide he wants to run for governor.” [laugh].
 So, I thought that was just a good analogy of, you’ve got several people that are subconsciously known that they’re going to be looking at running for governor and four years.
 But his point was, is there’s always going to be that one person that nobody really knows about.
-That’s maybe—
-Mr.
+That’s maybe— Mr.
 Henry: Yeah.
 And if you go back and look, it’s been the people that’s been able to personally finance that been elected across the state and statewide offices in the last 20, 30 years.
 Sen.
@@ -660,8 +638,7 @@ Bailey: Oh.
 Mr.
 Henry: So, that was his way of getting back at to him.
 But, Sam Donaldson was—I went to all the cou—all the state Chairmen went to lunch in one day with Howard Baker, and—who was chief of staff—and Reagan to talk about the next year what was going to happen.
-It was funny, we were in a room like this, and they opened the door, and they let the press file by, and they were shouting questions at the president, you know, and everything, and Donaldson yelled, he said—asked him two or three questions, and Reagan was acting like he didn’t hear—
-Sen.
+It was funny, we were in a room like this, and they opened the door, and they let the press file by, and they were shouting questions at the president, you know, and everything, and Donaldson yelled, he said—asked him two or three questions, and Reagan was acting like he didn’t hear— Sen.
 Bailey: Couldn’t hear him. [laugh].
 Mr.
 Henry: So, Donaldson said, “We’re here to cover you not carry you.” And I thought that—well, how disrespectful can you be?
@@ -672,8 +649,7 @@ Well, that’s very interesting that you had an opportunity to meet the presiden
 They used to be known as Lincoln Day Dinners and now they’re known as Reagan Day Dinners.
 And so that’s—to have the have the opportunity at that time as a legislator to be.
 And I’m sure he was apprehensive, a little bit.
-He knew he was going to be on—
-Mr.
+He knew he was going to be on— Mr.
 Henry: Oh yeah.
 Sen.
 Bailey: —he was going to be on national television, on the national stage, and I’m sure he—getting his mind where it needed to be as far as delivering that speech.
@@ -695,8 +671,7 @@ Sen.
 Bailey: Oh, really?
 Mr.
 Henry: And then we all filled in around it yeah.
-And—
-Sen.
+And— Sen.
 Bailey: I want to interrupt right there, real quick because I represent as a senator, part of Shelby Rhinehart’s old House District.
 If those that remember the story about the water plant, that was one of Shelby’s babies back then, and there was actually policy put in place that when they sold that water to that utility district up there, they could only sell it for, like, a dollar a thousand.
 Mr.
@@ -723,15 +698,13 @@ Henry: We had allowed people that were veterans of the Civil War to marry people
 And so—I think we were paying three at that time.
 John, from Murfreesboro, was chairman of the Finance Committee.
 But Shelby was able to keep that in tow, and he had a way of not really embarrassing people, but saying, “We can’t do that.
-We don’t have it.”
-And that’s one reason why our retirement system is so strong.
+We don’t have it.” And that’s one reason why our retirement system is so strong.
 It’s funded, and we put a certain amount of money into it every year to keep it funded.
 And I worry sometimes about these people that are retiring from New York and know the financial condition of that city and what’s going to happen to them if they can’t fund their retirement programs.
 Sen.
 Bailey: You know, we talk all the time about Illinois and California.
 I mean, those states have raided their retirement funds.
-They’ve just keep—
-Mr.
+They’ve just keep— Mr.
 Henry: Exactly.
 Sen.
 Bailey: —writing IOUs into them, and you have all of these people that are retiring from their state government, from their local governments, and it’s just not going to be sustainable, especially with so many people leaving there, and they’re losing jobs.
@@ -741,25 +714,21 @@ Henry: It is.
 And people are living longer, they’re getting two careers, and we’ve got to be very careful that we don’t turn the faucet wide open to that, or we’re going to end up financial troubles.
 Sen.
 Bailey: So, Shelby Rhinehart is one character.
-And—
-Mr.
+And— Mr.
 Henry: I think that of course, John Wilder was another one, that was very funny; always talked about himself in the third person.
 Sen.
 Bailey: I’ve heard some of those stories.
 You get any stories?
 Mr.
 Henry: Well, just um… you’d go in and ask him to do something and he’d say now, “Jim,” he’d say, “John Wilder likes this idea, but the Speaker don’t like it.” And, you know, it took me a while to figure out what he’s talking about.
-He liked it himself, but he wouldn’t go be for it, you know—
-Sen.
+He liked it himself, but he wouldn’t go be for it, you know— Sen.
 Bailey: As Speaker.
 Mr.
 Henry: As Speaker.
 So, he was an interesting character that would have done anything to have been lieutenant governor.
 I mean, he would have—and he did.
-I mean, you know—
-Sen.
-Bailey: He could count to 17 better than anybody—
-Mr.
+I mean, you know— Sen.
+Bailey: He could count to 17 better than anybody— Mr.
 Henry: He could count to 17.
 Sen.
 Bailey: —that’s ever held that position.
@@ -786,8 +755,7 @@ Bailey: But it was, like you said, he made very same—always talked in the thir
 You know, “What you want to speak to the Speaker for?” But anyone else?
 Mr.
 Henry: Well, I’ll tell you, one of the funny stories—and I was here when they removed Ray Blanton from office, but I didn’t know anything about it.
-I was basking in my glory of just being elected to the State House, and most of us didn’t know anything that was going on and of course—
-Sen.
+I was basking in my glory of just being elected to the State House, and most of us didn’t know anything that was going on and of course— Sen.
 Bailey: Now, let me ask this question.
 How many Republicans were there in the House?
 Mr.
@@ -801,7 +769,8 @@ Bailey: 38.
 Mr.
 Henry: Mm-hm.
 Sen.
-Bailey: Okay. 38.
+Bailey: Okay.
+38.
 All right.
 Mr.
 Henry: Now, when we started—when I started, there was 38 and I think we ended up with 43.
@@ -820,8 +789,7 @@ Mr.
 Henry: That’s not a bad idea because sometimes you can represent—misrepresent somebody’s stance on something.
 It’s pretty irritating.
 Sen.
-Bailey: A lot of times when the media ask a question, I’ll say, “Well, this senator”—
-Mr.
+Bailey: A lot of times when the media ask a question, I’ll say, “Well, this senator”— Mr.
 Henry: Yeah.
 Yeah, exactly.
 Sen.
@@ -948,13 +916,11 @@ Which is very helpful, I think.
 Sen.
 Bailey: So.
 Real quickly, you served with Senator Haggerty in the Haslam administration.
-So was, again, that one of those phone calls that came in and said, “Jim, we need you to serve.”
-Mr.
+So was, again, that one of those phone calls that came in and said, “Jim, we need you to serve.” Mr.
 Henry: Well, I—the way that happened, I wasn’t involved with the campaign because—for a lot of reasons.
 I was for him because I knew him, and he’s a smart guy, and had a great background to be a senator in the Economic Community Development.
 Plus the foreign relationships that he had, you know, when he was ambassador to Japan.
-But anyway, he came, we put on a little function for him there in Rome County, and as we were walking out to the car, I said, “You know, Senator, you really ought to build the best organization that anybody’s ever had to take care of constituent problems.”
-And I said, “You know, I’m not saying that anybody hasn’t.
+But anyway, he came, we put on a little function for him there in Rome County, and as we were walking out to the car, I said, “You know, Senator, you really ought to build the best organization that anybody’s ever had to take care of constituent problems.” And I said, “You know, I’m not saying that anybody hasn’t.
 I’m not criticizing anybody, but I think that’s be—that could start out as your trademark.” So, after the campaign was over, he called me and I didn’t know what he wanted to talk to me about.
 So, he called me in his office, here, and of course, I’d known him with the cabinet.
 He said, “You know, I think that was a great idea, and I’d like for you to do it.” [laugh].
@@ -964,8 +930,7 @@ Mr.
 Henry: I said, “Oh, my goodness.” So, we did it.
 We put together seven offices and had all the people hired in about four to six weeks.
 And they have been really good, and we’ve got a system set up.
-One my deputy directors, Michael Sullivan—
-Sen.
+One my deputy directors, Michael Sullivan— Sen.
 Bailey: Oh, yeah.
 Mr.
 Henry: And Michael is really good at follow up, and he does a great job of tracking.
@@ -1021,8 +986,7 @@ But they were bragging about that.
 But you won’t talk about something that was purely the English kept them uneducated to where they could populate the world with labor.
 And the Irish—my people were Scots-Irish.
 But that was there—they marched them to this country and marched them right across the fertile grounds of Pennsylvania into the mountains to where they could be between the English farmers and the Indians.
-And of course, when we got in the mountains, we—
-Sen.
+And of course, when we got in the mountains, we— Sen.
 Bailey: [laugh].
 Mr.
 Henry: —got out of control. [laugh].
@@ -1070,13 +1034,11 @@ Henry: I do too.
 I appreciate your friendship.
 Sen.
 Bailey: One last thing that I remember—and I tell this about you—when you were Deputy Governor I called you one day, and I had a constituent issue and needed the administration’s help on, and I said, “Jim, I’m sorry, to always have to call you and ask you for some help.” And you said, “Paul”—how did you phrase that?
-You said, “What’s good about having a friend if you can’t call and ask him for a favor?”
-Mr.
+You said, “What’s good about having a friend if you can’t call and ask him for a favor?” Mr.
 Henry: That’s right. [laugh].
 Sen.
 Bailey: [laugh].
-I believe you phrased it that way as, “What’s good in having a friend if you can’t call him?”
-Mr.
+I believe you phrased it that way as, “What’s good in having a friend if you can’t call him?” Mr.
 Henry: If you’ve got a friend and can’t use them, what are they good for? [laugh].
 Sen.
 Bailey: That’s right, that’s exactly—“If you got a friend and you can’t use them, what are they good for?” So, I’ve got to remember the exact wording on that, and I thought after you told me that that day, well he’s right.
@@ -1095,6 +1057,8 @@ Please like and share our podcast, and you can pick us up on any of the shows th
 Until next time.
 We’ll see you then.
 Announcer: Thank you for listening to the Backroads and Backstories podcast, with Senator Paul Bailey.
-You can keep up with the latest on the podcast at backroadsandbackstories.com.
+You can keep up with the latest on the podcast at backroadsandbackstories.com .
 And subscribe, rate, and review the show on iTunes, Spotify, Google Play, or wherever fine podcasts are distributed.
 Thanks again for listening, and we’ll see you next time on the Backroads and Backstories podcast.
+Previous Article Next Article Share With Facebook Tweet With Twitter SEARCH RECENT UPDATES Capitol Hill Update 4/17/2026 Capitol Hill Update 4/10/2026 Capitol Hill Update 4/3/2026 NEWSLETTER Please enable JavaScript in your browser to complete this form.
+Email * SUBMIT

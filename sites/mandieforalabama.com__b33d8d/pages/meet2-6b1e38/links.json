@@ -1,13 +1,46 @@
 [
-"https://facebook.com/themandieledkins",
-"https://instagram.com/themandieledkins",
-"https://mandieforalabama.com/",
-"https://mandieforalabama.com/endorsements",
-"https://mandieforalabama.com/events",
-"https://mandieforalabama.com/meet2",
-"https://mandieforalabama.com/platform",
-"https://mandieforalabama.com/store/cart",
-"https://mandieforalabama.com/volunteer",
-"https://secure.actblue.com/donate/mandieforalabama",
-"https://tiktok.com/@mandieforalabama?_t=ZT-8wqQGdAG2G6&_r=1"
+{
+"text": "About",
+"href": "https://mandieforalabama.com/meet2"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mandieforalabama"
+},
+{
+"text": "Endorsements",
+"href": "https://mandieforalabama.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://mandieforalabama.com/events"
+},
+{
+"text": "Platforms",
+"href": "https://mandieforalabama.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://mandieforalabama.com/volunteer"
+},
+{
+"text": "[image: Mandie Ledkins]",
+"href": "https://mandieforalabama.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/themandieledkins"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/themandieledkins/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@mandieforalabama?_t=ZT-8wqQGdAG2G6&_r=1"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://mandieforalabama.com/store/cart"
+}
 ]

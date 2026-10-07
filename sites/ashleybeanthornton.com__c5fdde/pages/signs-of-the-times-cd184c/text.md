@@ -1,10 +1,14 @@
+Skip to content Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Ashley Bean Thornton for Texas House District 56 Signs of the times… I’m Ashley Bean Thornton, and I am running for the Texas House of Representatives, House District 56.
+If you like what I have to say, and you live in HD 56, I hope you will vote for me in November 2026.
+Meanwhile, I hope you will subscribe to my newsletter: https://ashleybeanthornton.com/stay-in-the-loop/.
+Thank you!
+Let’s build the Texas we want to live in!
 Signs of The Times...
-This post originally appeared on Dead Dillo.
+This post originally appeared on Dead Dillo .
 I’ve seen a post or two recently about the “Honoring Confederate History” sign that the Sons of Confederate Veterans have put up on I-35.
 There’s some discussion of what should be done to get it taken down.
 I don’t like the sign.
-I don’t like the idea of “Honoring Confederate History.”
-I don’t know if I know anybody who is in the Sons of the Confederate Veterans.
+I don’t like the idea of “Honoring Confederate History.” I don’t know if I know anybody who is in the Sons of the Confederate Veterans.
 Maybe they are perfectly nice people, but I worry that this kind of club is a “closeted” way of finding fellow White supremacists to hang out with.
 I worry that when “closeted” White Supremacists find acceptable ways to hang out with each other, that they are more likely to come out of the closet.
 That brings me to the second sign.
@@ -46,8 +50,7 @@ Personally, I worry that we-the-people are in a little bit of an outrage arms ra
 I don’t feel like it is serving us well.
 It’s exhausting and time consuming and distracting.
 I worry that in our zeal to limit the aggravating freedom of others we may unintentionally pave the way for eroding our own freedom.
-I worry that being outraged about everything is a little bit like crying “Wolf!”
-I feel like we are sometimes overly vigilant, constantly on the lookout for things that are supposed to offend us.
+I worry that being outraged about everything is a little bit like crying “Wolf!” I feel like we are sometimes overly vigilant, constantly on the lookout for things that are supposed to offend us.
 Sometimes it feels like we are mounting all-out battles when maybe an eyeroll, and a “No Thanks!
 That is gross!” would be enough.
 That’s certainly how I wish the anti-drag show zealots would respond to drag shows.
@@ -59,3 +62,4 @@ I don’t like the idea of a club to honor a group of people who were willing to
 That’s gross!
 I’m not going to pitch a fit about your billboard, because much as I don’t like it, I believe to a certain point you have a right to your beliefs and your Confederate Pride club.
 Please remember that I stood up for your rights when it comes time for you to stand up for the rights of someone you don’t like who disagrees with you.
+Join the Campaign Donate Join the Newsletter Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Facebook Instagram Info@AshleyBeanThornton.com Political Advertising Paid for ABT for TEX 4300 W Waco Drive Suite 2B Box 193 • Waco, Texas 76710 © #-# Thornton for Texas Campaign Terms of Service | Privacy Policy | Disclaimer | Website by Digital Media Butterfly

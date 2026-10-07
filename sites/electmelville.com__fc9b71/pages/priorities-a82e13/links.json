@@ -1,16 +1,102 @@
 [
-"https://designedtorun.com/",
-"https://electmelville.com/",
-"https://electmelville.com/about",
-"https://electmelville.com/contact",
-"https://electmelville.com/district",
-"https://electmelville.com/donate",
-"https://electmelville.com/events",
-"https://electmelville.com/news",
-"https://electmelville.com/priorities",
-"https://electmelville.com/tm-website-terms-and-conditions.pdf",
-"https://electmelville.com/volunteer",
-"https://facebook.com/profile.php?id=61588205559945",
-"https://instagram.com/electmelville",
-"https://youtube.com/@ElectMelville/shorts"
+{
+"text": "About",
+"href": "https://www.electmelville.com/about"
+},
+{
+"text": "Affordability",
+"href": "https://www.electmelville.com/priorities#block-48cae3c4-aa29-4fdd-84ff-2e022ba0cfb3"
+},
+{
+"text": "Contact",
+"href": "https://www.electmelville.com/contact"
+},
+{
+"text": "District",
+"href": "https://www.electmelville.com/district"
+},
+{
+"text": "Donate",
+"href": "https://www.electmelville.com/donate"
+},
+{
+"text": "Education",
+"href": "https://www.electmelville.com/priorities#block-58cc1566-a13a-4d77-8744-4463091c3b7a"
+},
+{
+"text": "Events",
+"href": "https://www.electmelville.com/events"
+},
+{
+"text": "Government Accountability and Transparency",
+"href": "https://www.electmelville.com/priorities#block-e9de1351-c196-4cdf-aea5-3b00a01f7ff8"
+},
+{
+"text": "Home",
+"href": "https://www.electmelville.com/"
+},
+{
+"text": "Housing",
+"href": "https://www.electmelville.com/priorities#block-f47a1a1e-c5de-401a-8c8d-e6cd5fc3dbc6"
+},
+{
+"text": "Lowering Healthcare Costs",
+"href": "https://www.electmelville.com/priorities#block-da260479-8c65-42f9-8fed-2e7d464d5426"
+},
+{
+"text": "Money in Your Pockets, Over Utility Profits",
+"href": "https://www.electmelville.com/priorities#block-4199a771-3ef1-43eb-9501-98a850f29863"
+},
+{
+"text": "News",
+"href": "https://www.electmelville.com/news"
+},
+{
+"text": "Not Just Having the Job, Doing the Job",
+"href": "https://www.electmelville.com/priorities#block-78535a28-7617-439b-a582-e295139a067b"
+},
+{
+"text": "Privacy Policy and Terms and Conditions",
+"href": "https://www.electmelville.com/tm-website-terms-and-conditions.pdf"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Supporting Organized Labor",
+"href": "https://www.electmelville.com/priorities#block-468471ab-8e6d-4f8e-8810-2b82cbace8a9"
+},
+{
+"text": "Transportation",
+"href": "https://www.electmelville.com/priorities#block-476b048a-3570-428f-85ad-060ff4c32239"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electmelville.com/volunteer"
+},
+{
+"text": "[image: Elect Tom Melville to MA House 9th Norfolk District]",
+"href": "https://www.electmelville.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61588205559945"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/electmelville"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ElectMelville/shorts"
+},
+{
+"text": "hello@electmelville.com",
+"href": "mailto:hello@electmelville.com"
+},
+{
+"text": "tom@electmelville.com",
+"href": "mailto:tom@electmelville.com"
+}
 ]

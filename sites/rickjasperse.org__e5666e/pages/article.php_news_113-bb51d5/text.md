@@ -1,4 +1,4 @@
-[February 28, 2022] | During this seventh week of the 2022 legislative session, we saw a lot of action in committees and voting on legislation to send to the Senate for their consideration.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK REPORT FROM THE CAPITOL [ February 28, 2022 ] | During this seventh week of the 2022 legislative session, we saw a lot of action in committees and voting on legislation to send to the Senate for their consideration.
 I always try to give you some insight on what is going on under the Gold Dome each week.
 As we approach what we call Crossover Day in the next few weeks, the pace in our committees has really picked up.
 On Wednesday I had the opportunity to go to 14 different meetings.
@@ -20,3 +20,4 @@ It has always been one of my top priorities to help my constituents and to hear 
 I encourage you to reach out if you have any questions or concerns regarding legislation that has been discussed or passed so far.
 You can reach my Capitol office at 404-656-7153, or you can email me directly at rick.jasperse@house.ga.gov.
 As always, thank you for allowing me to serve as your State Representative and legislative voice here at the Capitol.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

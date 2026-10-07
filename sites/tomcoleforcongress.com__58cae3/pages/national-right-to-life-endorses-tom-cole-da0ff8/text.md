@@ -1,11 +1,12 @@
-Moore, OK- (From NRTL Letter) “National Right to Life is pleased to endorse you for re-election to the U.S.
+Skip to content Tom Cole For Congress About About Tom About the District Press Packet News Room Connect On The Issues All Issues Growing the Economy Debt and Spending Securing Our Border Preserving our Second Amendment Protecting the Unborn National Security American Energy Independence Veterans News Room National Right To Life Endorses Tom Cole May 29, 2024 May 29, 2024 Donate Moore, OK- (From NRTL Letter) “National Right to Life is pleased to endorse you for re-election to the U.S.
 House of Representatives.
 You are committed to standing up for unborn children and their mothers in Congress and fighting attempts by Congressional Democrats to pass legislation that would allow unlimited abortion nationwide for any reason until birth.
-When casting their ballots, voters concerned with protecting
-innocent human life should recall that…
-- You oppose the use of tax dollars to pay for abortions.
+When casting their ballots, voters concerned with protecting innocent human life should recall that… You oppose the use of tax dollars to pay for abortions.
 You voted for the No Taxpayer Funding for Abortion Act and appropriations riders like the Hyde Amendment, which limit taxpayer dollars from being used for abortions in many federal programs.
 The Hyde Amendment alone has saved more than 2.5 million lives since its first passage in 1976.
-- You voted for the Born-Alive Abortion Survivors Protection Act, which would ensure that an infant born alive during an attempted abortion is afforded the same degree of medical care as any other newborn of the same gestational age.
-- You voted against the so-called Women’s Health Protection Act, an extreme pro-abortion bill that would enshrine unlimited abortion in federal law and eliminate existing protections on the state level including parental involvement laws.”
-View Full Letter HERE
+You voted for the Born-Alive Abortion Survivors Protection Act, which would ensure that an infant born alive during an attempted abortion is afforded the same degree of medical care as any other newborn of the same gestational age.
+You voted against the so-called Women’s Health Protection Act, an extreme pro-abortion bill that would enshrine unlimited abortion in federal law and eliminate existing protections on the state level including parental involvement laws.” View Full Letter HERE Post navigation Previous: NRA Fully Endorses Tom Cole For Congress Next: Tom Cole Endorsed By Oklahoma Farm Bureau Ag PAC Connect Recent Posts Tom Cole Announces For Re-Election Breaking: President Trump Endorses Congressman Tom Cole Cole: Promises Made, Promises Kept Tom Cole Is Endorsed By the Republican Jewish Coalition Tom Cole Is Endorsed By The State Chamber of Oklahoma PAC Keep up with the Campaign via Email Name First Last Email Phone (Required) (Required) By providing your phone number, you agree to receive text messages from Cole for Congress.
+Message & data rates may apply.
+Message frequency varies. donations may be solicited.
+Reply STOP to opt out, reply HELP for help.
+Privacy Policy About Tom On The Issues News Room Connect Privacy Policy Donate Paid for by Cole for Congress Powered By Push Digital © #

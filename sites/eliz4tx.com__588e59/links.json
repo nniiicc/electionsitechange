@@ -1,18 +1,82 @@
 [
-"https://eliz4tx.com/",
-"https://eliz4tx.com/cv",
-"https://eliz4tx.com/meet-eliz",
-"https://eliz4tx.com/platform",
-"https://facebook.com/Eliz4TX",
-"https://fortbendcountytx.gov/government/departments/elections-voter-registration",
-"https://gis.katyisd.org/map",
-"https://instagram.com/eliz4tx",
-"https://linkedin.com/in/eliz-markowitz-8345371a",
-"https://mobilize.us/drelizmarkowitzfortexashousedistrict26/event/836461",
-"https://mobilize.us/eliz4tx",
-"https://secure.actblue.com/donate/eliz4tx26",
-"https://twitter.com/ElizMarkowitz",
-"https://votetexas.gov/register/index.html",
-"https://wrm.capitol.texas.gov/fyiwebdocs/pdf/house/dist26/m1.pdf",
-"https://wrm.capitol.texas.gov/home"
+{
+"text": "ABOUT ME",
+"href": "https://www.eliz4tx.com/meet-eliz"
+},
+{
+"text": "CV",
+"href": "https://www.eliz4tx.com/cv"
+},
+{
+"text": "DISTRICT MAP",
+"href": "https://wrm.capitol.texas.gov/fyiwebdocs/pdf/house/dist26/m1.pdf"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/eliz4tx26"
+},
+{
+"text": "Fort Bend County Votes!",
+"href": "https://www.fortbendcountytx.gov/government/departments/elections-voter-registration"
+},
+{
+"text": "HOME",
+"href": "https://www.eliz4tx.com"
+},
+{
+"text": "Join our campaign today!",
+"href": "https://www.mobilize.us/drelizmarkowitzfortexashousedistrict26/event/836461/"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.eliz4tx.com/platform"
+},
+{
+"text": "Register to Vote!",
+"href": "https://www.votetexas.gov/register/index.html"
+},
+{
+"text": "See if you live in HD 26",
+"href": "https://wrm.capitol.texas.gov/home"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.mobilize.us/drelizmarkowitzfortexashousedistrict26/event/836461/"
+},
+{
+"text": "[image: EM_BlackBannerFinal.png]",
+"href": "https://www.eliz4tx.com"
+},
+{
+"text": "[image: Facebook - White Circle]",
+"href": "https://www.facebook.com/Eliz4TX/"
+},
+{
+"text": "[image: Heart & Hands]",
+"href": "https://www.mobilize.us/eliz4tx/"
+},
+{
+"text": "[image: Instagram - White Circle]",
+"href": "https://www.instagram.com/eliz4tx/"
+},
+{
+"text": "[image: LinkedIn - White Circle]",
+"href": "https://www.linkedin.com/in/eliz-markowitz-8345371a"
+},
+{
+"text": "[image: Twitter - White Circle]",
+"href": "https://twitter.com/ElizMarkowitz"
+},
+{
+"text": "[image: map_icon.png]",
+"href": "https://wrm.capitol.texas.gov/fyiwebdocs/pdf/house/dist26/m1.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.votetexas.gov/register/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://gis.katyisd.org/map/"
+}
 ]

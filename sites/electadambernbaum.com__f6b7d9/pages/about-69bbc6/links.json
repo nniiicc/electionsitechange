@@ -1,9 +1,54 @@
 [
-"https://electadambernbaum.com/",
-"https://electadambernbaum.com/about",
-"https://electadambernbaum.com/endorsements",
-"https://electadambernbaum.com/platform",
-"https://facebook.com/profile.php?id=61554406055934",
-"https://instagram.com/electbernbaum?igsh=ZG4wdmZraXUydGtk",
-"https://secure.actblue.com/donate/elect-adam-bernbaum-1"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/elect-adam-bernbaum-1"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/elect-adam-bernbaum-1"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/elect-adam-bernbaum-1"
+},
+{
+"text": "About Adam",
+"href": "https://www.electadambernbaum.com/about"
+},
+{
+"text": "Adam@ElectAdamBernbaum.com",
+"href": "mailto:Adam@ElectAdamBernbaum.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/elect-adam-bernbaum-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electadambernbaum.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.electadambernbaum.com"
+},
+{
+"text": "Platform",
+"href": "https://www.electadambernbaum.com/platform"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61554406055934"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electbernbaum?igsh=ZG4wdmZraXUydGtk"
+},
+{
+"text": "[image]",
+"href": "https://www.electadambernbaum.com"
+},
+{
+"text": "adam@electadambernbaum.com",
+"href": "mailto:adam@electadambernbaum.com"
+}
 ]

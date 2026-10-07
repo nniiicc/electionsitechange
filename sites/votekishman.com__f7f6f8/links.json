@@ -1,9 +1,34 @@
 [
-"https://facebook.com/",
-"https://facebook.com/profile.php?id=100065360265281",
-"https://instagram.com/",
-"https://secure.winred.com/kishman-for-state-representative/donate-today",
-"https://votekishman.com/",
-"https://votekishman.com/endorsements",
-"https://x.com/"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/kishman-for-state-representative/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://votekishman.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100065360265281"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "Vote Kishman",
+"href": "https://votekishman.com"
+},
+{
+"text": "X",
+"href": "https://x.com/"
+},
+{
+"text": "[image: Vote Kishman]",
+"href": "https://votekishman.com/"
+}
 ]

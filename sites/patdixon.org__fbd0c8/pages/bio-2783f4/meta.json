@@ -1,9 +1,16 @@
 {
  "description": "",
  "final_url": "https://patdixon.org/bio/",
- "paid_for_by": null,
+ "fingerprint": "6deff28fbd50b66843c0af3dd573829d7fc5f262",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Bio",
  "years_mentioned": [
-  "2010"
+  "1964",
+  "2001",
+  "2005",
+  "2010",
+  "2015",
+  "2026"
  ]
 }

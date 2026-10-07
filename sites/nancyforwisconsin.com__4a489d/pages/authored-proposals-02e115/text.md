@@ -1,67 +1,16 @@
-REPRESENTING YOU
-Authored Legislation
-Authored Legislation Enacted into Law
-I have supported a number of initiatives related to election integrity, reforming emergency powers authority pertaining to public health, and medical freedom.
+top of page Nancy VanderMeer FOR 70TH ASSEMBLY Home About Legislation Authored Proposals Co-Authored Proposals Co-Sponsored Proposals Issues & Actions Successes Get Involved Contribute Volunteer Photos District Contact More Use tab to navigate through the menu items.
+18940 Eden Avenue | Tomah, WI 54660 608-343-6666 DONATE VOLUNTEER REPRESENTING YOU Authored Legislation Authored Legislation Enacted into Law I have supported a number of initiatives related to election integrity, reforming emergency powers authority pertaining to public health, and medical freedom.
 In addition to a number of my legislative initiatives being directly incorporated into this session's state budget, to date, I have had authored pieces of legislation pass both houses of the Legislature and be signed into law with bipartisan support.
 That enacted legislation directly benefits your friends and neighbors in the 70th Assembly District, and I'm happy to share that.
-2025 Authored Proposals
-(first or second author, first sponsor)
-- Senate Bill 190 (Respiratory Care Interstate Compact)
-Ratifies the multi-state Respiratory Care Interstate Compact within Wisconsin, allowing practitioners with out-of-state licensing in good standing to seamlessly practice locally.
-Signed into Law: April 7, 2026 (Enacted as 2025 Wisconsin Act 76)
-- 2/12/2026: 2025 Senate Bill 1006
-Relating to: designating and marking memorial highways for state troopers.
-- 2/12/2026: 2025 Senate Bill 1007
-Relating to: agricultural damage caused by elk.
-- 2/6/2026: 2025 Assembly Bill 1021
-Relating to: agricultural damage caused by elk.
-- 2/6/2026: 2025 Assembly Bill 1020
-Relating to: designating and marking memorial highways for state troopers.
-- 2/6/2026: 2025 Senate Bill 984
-Relating to: surplus property held by the Department of Transportation.
-(FE)
-- 1/30/2026: 2025 Assembly Bill 983
-Relating to: surplus property held by the Department of Transportation.
-(FE)
-- 1/16/2026: 2025 Assembly Bill 874
-(DOT Infrastructure Prerequisites): Streamlines environmental review prerequisite compliance for specific major state highway construction actions.
-Signed into Law: March 18, 2026 (Enacted as 2025 Wisconsin Act 110)
-- 1/16/2026: 2025 Assembly Bill 842
-(Remote Pharmacy Practice): Increases health access by regulating and formally structuring remote medical dispensing locations under state pharmacy practice frameworks.
-Signed into Law: April 2, 2026 (Enacted as 2025 Wisconsin Act 168)
-- 1/15/2026: 2025 Senate Bill 832
-Relating to: remote dispensing sites under the pharmacy practice law.
-- 1/14/2026: 2025 Senate Bill 825
-Relating to: environmental review prerequisites for certain major highway project actions.
-- 10/15/2025: 2025 Assembly Bill 542
-Relating to: dental provider network rental by insurance plans.
-- 10/2/2025: 2025 Senate Bill 504
-Relating to: dental provider network rental by insurance plans.
-- 9/29/2025: 2025 Senate Bill 435
-Relating to: adopting the title of physician associate for physician assistants, independent practice of certain physician associates, extending the time limit for emergency rule procedures, and providing an exemption from emergency rule procedures.
-(FE)
-- 9/19/2025: 2025 Assembly Bill 438
-Relating to: adopting the title of physician associate for physician assistants, independent practice of certain physician associates, extending the time limit for emergency rule procedures, and providing an exemption from emergency rule
-- 7/8/2025: 2025 Assembly Bill 351
-Relating to: virtual credit card payments in health insurance policies.
-- 6/6/2025: 2025 Assembly Bill 309
-(911/988 Inter-compact Immunity): Grants civil liability immunity to emergency 911 dispatchers when transferring emergency calls directly to the 988 Suicide and Crisis Lifeline.
-Signed into Law: November 4, 2025 (Enacted as 2025 Wisconsin Act 41)
-- 5/2/2025: 2025 Assembly Joint Resolution 41
-Relating to: proclaiming May 2025 and May 2026 as Jewish American Heritage Months.
-- 4/25/2025: 2025 Senate Joint Resolution 34
-Relating to: honoring the 50th anniversary of the child support program.
-- 4/23/2025: 2025 Assembly Joint Resolution 34
-Relating to: honoring the 50th anniversary of the child support program.
-- 3/11/2025: 2025 Assembly Bill 106
-Relating to: exempting certain electric vehicle charging stations located at a residence from the electric vehicle charging tax.
-(FE)
-- 3/7/2025: 2025 Senate Bill 96
-Relating to: exempting certain electric vehicle charging stations located at a residence from the electric vehicle charging tax.
-(FE)
-- 2/28/2025: 2025 Assembly Bill 80
-Relating to: ratification of the Social Work Licensure Compact.
-(FE)
-- 2/26/2025: 2025 Senate Bill 74
-Relating to: ratification of the Social Work Licensure Compact.
-(FE)
+2025 Authored Proposals (first or second author, first sponsor) ​ Senate Bill 190 (Respiratory Care Interstate Compact) Ratifies the multi-state Respiratory Care Interstate Compact within Wisconsin, allowing practitioners with out-of-state licensing in good standing to seamlessly practice locally.
+Signed into Law: April 7, 2026 (Enacted as 2025 Wisconsin Act 76) ​ 2/12/2026: 2025 Senate Bill 1006 Relating to: designating and marking memorial highways for state troopers. ​ ​ 2/12/2026: 2025 Senate Bill 1007 Relating to: agricultural damage caused by elk. ​ ​ 2/6/2026: 2025 Assembly Bill 1021 Relating to: agricultural damage caused by elk. ​ ​ ​ 2 /6/2026: 2025 Assembly Bill 1020 Relating to: designating and marking memorial highways for state troopers. ​ ​ 2/6/2026: 2025 Senate Bill 984 Relating to: surplus property held by the Department of Transportation.
+(FE) ​ ​ 1/30/2026: 2025 Assembly Bill 983 Relating to: surplus property held by the Department of Transportation.
+(FE) ​ ​ 1/16/2026: 2025 Assembly Bill 874 (DOT Infrastructure Prerequisites): Streamlines environmental review prerequisite compliance for specific major state highway construction actions.
+Signed into Law: March 18, 2026 (Enacted as 2025 Wisconsin Act 110) ​ ​ 1/16/2026: 2025 Assembly Bill 842 (Remote Pharmacy Practice): Increases health access by regulating and formally structuring remote medical dispensing locations under state pharmacy practice frameworks.
+Signed into Law: April 2, 2026 (Enacted as 2025 Wisconsin Act 168) ​ ​ 1/15/2026: 2025 Senate Bill 832 Relating to: remote dispensing sites under the pharmacy practice law. ​ ​ 1/14/2026: 2025 Senate Bill 825 Relating to: environmental review prerequisites for certain major highway project actions. ​ ​ 10/15/2025: 2025 Assembly Bill 542 R elating to: dental provider network rental by insurance plans. ​ ​ 10/2/2025: 2025 Senate Bill 504 Relating to: dental provider network rental by insurance plans. ​ ​ 9/29/2025: 2025 Senate Bill 435 Relating to: adopting the title of physician associate for physician assistants, independent practice of certain physician associates, extending the time limit for emergency rule procedures, and providing an exemption from emergency rule procedures.
+(FE) ​ ​ 9/19/2025: 2025 Assembly Bill 438 Relating to: adopting the title of physician associate for physician assistants, independent practice of certain physician associates, extending the time limit for emergency rule procedures, and providing an exemption from emergency rule ​ 7/8/2025: 2025 Assembly Bill 351 Relating to: virtual credit card payments in health insurance policies. ​ ​ 6/6/2025: 2025 Assembly Bill 309 6/4/2025: 2025 Senate Bill 309 (911/988 Inter-compact Immunity): Grants civil liability immunity to emergency 911 dispatchers when transferring emergency calls directly to the 988 Suicide and Crisis Lifeline.
+Signed into Law: November 4, 2025 (Enacted as 2025 Wisconsin Act 41) ​ ​ ​​ 5/2/2025: 2025 Assembly Joint Resolution 41 Relating to: proclaiming May 2025 and May 2026 as Jewish American Heritage Months. ​ ​ 4/25/2025: 2025 Senate Joint Resolution 34 Relating to: honoring the 50th anniversary of the child support program. ​ ​ 4/23/2025: 2025 Assembly Joint Resolution 34 Relating to: honoring the 50th anniversary of the child support program. ​ ​ 3/11/2025: 2025 Assembly Bill 106 Relating to: exempting certain electric vehicle charging stations located at a residence from the electric vehicle charging tax.
+(FE) ​ ​ 3/7/2025: 2025 Senate Bill 96 Relating to: exempting certain electric vehicle charging stations located at a residence from the electric vehicle charging tax.
+(FE) ​ ​ 2/28/2025: 2025 Assembly Bill 80 Relating to: ratification of the Social Work Licensure Compact.
+(FE) ​ ​ 2/26/2025: 2025 Senate Bill 74 Relating to: ratification of the Social Work Licensure Compact.
+(FE) ​ ​​ ​ ​ Home About Legislation Authored Proposals Co-Authored Proposals Co-Sponsored Proposals Issues & Actions Successes Get Involved Contribute Volunteer Photos District Contact - RE-ELECT - Nancy VanderMeer - FOR ASSEMBLY - © # NANCY VANDERMEER FOR WISCONSIN designed by: Authorized and Paid for by Nancy 4 Wisconsin Gail Raddatz - Treasurer 18940 Eden Avenue Tomah, WI 54660 608-343-6666 info@nancyforwisconsin.com bottom of page

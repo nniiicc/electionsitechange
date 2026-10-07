@@ -1,17 +1,82 @@
 [
-"https://census.gov/mycd",
-"https://elect.ky.gov/Resources/Documents/2026%20Election%20Calendar.pdf",
-"https://facebook.com/profile.php?id=61583563949985",
-"https://instagram.com/PeteLynchForKentucky",
-"https://petelynchforkentucky.com/",
-"https://petelynchforkentucky.com/Information-for-Voters/About-Pete",
-"https://petelynchforkentucky.com/Information-for-Voters/Donate",
-"https://petelynchforkentucky.com/Information-for-Voters/Get-Involved",
-"https://petelynchforkentucky.com/Information-for-Voters/Information-for-Voters",
-"https://petelynchforkentucky.com/Information-for-Voters/Policies",
-"https://reddit.com/user/PeteLynchForKentucky",
-"https://tiktok.com/@petelynch4ky",
-"https://vrsws.sos.ky.gov/ovrweb",
-"https://x.com/PeteLynch4KY",
-"https://youtube.com/@PeteLynchForKentucky"
+{
+"text": "About Pete",
+"href": "https://petelynchforkentucky.com/Information-for-Voters/About-Pete/"
+},
+{
+"text": "Donate",
+"href": "https://petelynchforkentucky.com/Information-for-Voters/Donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://petelynchforkentucky.com/Information-for-Voters/Get-Involved/"
+},
+{
+"text": "Home",
+"href": "https://petelynchforkentucky.com/"
+},
+{
+"text": "Information for Voters",
+"href": "https://petelynchforkentucky.com/Information-for-Voters/Information-for-Voters/"
+},
+{
+"text": "Policies",
+"href": "https://petelynchforkentucky.com/Information-for-Voters/Policies/"
+},
+{
+"text": "[image]",
+"href": "https://x.com/PeteLynch4KY"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583563949985"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/PeteLynchForKentucky/"
+},
+{
+"text": "[no text]",
+"href": "https://www.reddit.com/user/PeteLynchForKentucky/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@petelynch4ky"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@PeteLynchForKentucky"
+},
+{
+"text": "https://ballotpedia.org/Kentucky%27s_6th_Congressional_District_election,_2026",
+"href": "javascript:void(0);"
+},
+{
+"text": "https://elect.ky.gov/Resources/Documents/2026%20Election%20Calendar.pdf",
+"href": "https://elect.ky.gov/Resources/Documents/2026%20Election%20Calendar.pdf"
+},
+{
+"text": "https://elect.ky.gov/Voters/Pages/Absentee-Excused-In-Person.aspx",
+"href": "javascript:void(0);"
+},
+{
+"text": "https://elect.ky.gov/Voters/Pages/College-Students.aspx",
+"href": "javascript:void(0);"
+},
+{
+"text": "https://elect.ky.gov/Voters/Pages/Military-or-Overseas-Voters.aspx",
+"href": "javascript:void(0);"
+},
+{
+"text": "https://elect.ky.gov/Voters/Pages/Voters-with-Disabilities.aspx",
+"href": "javascript:void(0);"
+},
+{
+"text": "https://vrsws.sos.ky.gov/ovrweb/",
+"href": "https://vrsws.sos.ky.gov/ovrweb/"
+},
+{
+"text": "https://www.census.gov/mycd/",
+"href": "https://www.census.gov/mycd/"
+}
 ]

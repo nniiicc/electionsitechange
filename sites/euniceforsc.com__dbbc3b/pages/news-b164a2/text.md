@@ -1,11 +1,8 @@
-Read, Listen, Watch…
-Stay up to date with campaign updates, media coverage, and community support.
-Be sure also to follow Eunice on social media:
-Black White and Blue in the South
-S4, E99 Please Wear the Bumblebee!
-(with Eunice Lehmacher for US Congress)
-Focus on the Candidates with Cynthia Pooler
-Former teacher Eunice Lehmacher talks about running for Congress in South Carolina
-Simple Civics: Greenville County
-U.S.
-House District 3 - Meet Your Candidates for the 2026 Democratic Primary
+0 Skip to Content About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Read, Listen, Watch… Stay up to date with campaign updates, media coverage, and community support.
+Be sure also to follow Eunice on social media: Newsletters Endorsements Videos Articles Podcasts Articles Eunice for SC 10/2/26 Articles Eunice for SC 10/2/26 Where is Congresswoman Sheri Biggs?
+Read More Articles Eunice for SC 9/28/26 Articles Eunice for SC 9/28/26 Champions of Nature #49 Read More Endorsements Eunice for SC 9/18/26 Endorsements Eunice for SC 9/18/26 Endorsed by Indivisible Upstate SC Read More Newsletters Eunice for SC 9/16/26 Newsletters Eunice for SC 9/16/26 Support Eunice’s Environmental Vision Read More Newsletters Eunice for SC 9/10/26 Newsletters Eunice for SC 9/10/26 Signs of change in District 3 Read More Podcasts Eunice for SC 9/2/26 Podcasts Eunice for SC 9/2/26 Black White and Blue in the South S4, E99 Please Wear the Bumblebee! (with Eunice Lehmacher for US Congress) Read More Newsletters Eunice for SC 8/20/26 Newsletters Eunice for SC 8/20/26 7️⃣5️⃣ Days to Reach Every Voter❗❗ Read More Newsletters Eunice for SC 8/20/26 Newsletters Eunice for SC 8/20/26 A Better Future is Possible Read More Endorsements Eunice for SC 8/19/26 Endorsements Eunice for SC 8/19/26 Endorsed by the National Women’s Political Caucus Read More Endorsements Eunice for SC 8/3/26 Endorsements Eunice for SC 8/3/26 Endorsed by DC Statehood PAC Read More Podcasts Eunice for SC 6/6/26 Podcasts Eunice for SC 6/6/26 Focus on the Candidates with Cynthia Pooler Former teacher Eunice Lehmacher talks about running for Congress in South Carolina Read More Endorsements Eunice for SC 5/29/26 Endorsements Eunice for SC 5/29/26 Purple Pledge Candidate Read More Endorsements Eunice for SC 5/27/26 Endorsements Eunice for SC 5/27/26 Endorsed by Progressive Voters Network Read More Podcasts Eunice for SC 5/26/26 Podcasts Eunice for SC 5/26/26 Simple Civics: Greenville County U.S.
+House District 3 - Meet Your Candidates for the 2026 Democratic Primary Read More Articles Eunice for SC 5/15/26 Articles Eunice for SC 5/15/26 US Congress candidates share priorities Read More Videos Eunice for SC 5/14/26 Videos Eunice for SC 5/14/26 U.S.
+House of Representatives Dist.
+3, SC @emackins7777 @EuniceforSC Read More Endorsements Eunice for SC 5/12/26 Endorsements Eunice for SC 5/12/26 U.S.
+Term Limits 2027 Candidate Pledge Read More Articles Eunice for SC 5/3/26 Articles Eunice for SC 5/3/26 How One Mom’s Walk to School Became a Movement of 800 Read More Endorsements Eunice for SC 4/27/26 Endorsements Eunice for SC 4/27/26 Endorsed by Clemson College Democrats Read More Endorsements Eunice for SC 4/17/26 Endorsements Eunice for SC 4/17/26 Moms Demand Action Gun Sense Candidate Read More Older Posts Eunice for SC PO Box 8 Central SC 29630-0008 Paid for by Eunice for SC.
+Privacy Policy DONATE

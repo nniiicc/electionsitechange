@@ -1,8 +1,30 @@
 [
-"https://headenfornc.com/",
-"https://headenfornc.com/about",
-"https://headenfornc.com/platform",
-"https://headenfornc.com/privacy-policy",
-"https://headenfornc.com/volunteer",
-"https://secure.actblue.com/donate/shellyheaden-website"
+{
+"text": "About",
+"href": "https://headenfornc.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shellyheaden-website"
+},
+{
+"text": "Home",
+"href": "https://headenfornc.com/"
+},
+{
+"text": "Platform",
+"href": "https://headenfornc.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://headenfornc.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://headenfornc.com/volunteer"
+},
+{
+"text": "[image: Headen for NC ]",
+"href": "https://headenfornc.com/"
+}
 ]

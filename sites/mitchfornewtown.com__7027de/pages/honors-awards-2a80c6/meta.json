@@ -1,6 +1,8 @@
 {
  "description": "Awards &amp; Honors",
  "final_url": "https://www.mitchfornewtown.com/honors-awards",
+ "fingerprint": "49744f8d61cca1fee7c93cb460e65532cd7759a0",
+ "format": 3,
  "paid_for_by": "Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer",
  "title": "Honors & Awards",
  "years_mentioned": [
@@ -11,6 +13,7 @@
   "2022",
   "2023",
   "2024",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

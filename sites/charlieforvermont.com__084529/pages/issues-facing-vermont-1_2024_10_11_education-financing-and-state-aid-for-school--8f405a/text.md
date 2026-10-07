@@ -1,6 +1,4 @@
-Vermont Legislative Leaders to Discuss Education Financing
-Public Forum on October 17th, 6pm at Woodstock Town Hall
-Why is this important?
+Legislative Updates 2026 Legislation Passed 2025 Legislation Passed 2025 Legislative Updates 2021 Legislative Session Summary Pension Crisis 2021 Town Meeting Update 2019 Legislative Session Summary 2018 Legislative Session Summary Rural Economic Development Working Group 2018 Town Meeting Update 2017 Legislative Session Wrap Up Updates from the Dome Home About Background Community Involvement Issues Events Donate Charlie Kimbell - Vermont Rep Legislative Updates 2026 Legislation Passed 2025 Legislation Passed 2025 Legislative Updates 2021 Legislative Session Summary Pension Crisis 2021 Town Meeting Update 2019 Legislative Session Summary 2018 Legislative Session Summary Rural Economic Development Working Group 2018 Town Meeting Update 2017 Legislative Session Wrap Up Updates from the Dome Home About Background Community Involvement Issues Events Donate Charlie Kimbell October 11, 2024 Education Financing and State Aid for School Construction - Public Forum 10-17-2024 Charlie Kimbell October 11, 2024 Vermont Legislative Leaders to Discuss Education Financing Public Forum on October 17th, 6pm at Woodstock Town Hall Why is this important?
 The education property taxes in Woodstock, Plymouth and Killington jumped by more than 25% this year, causing real financial distress for homeowners and businesses.
 Other towns also saw huge increases.
 The bond vote for a new middle school and high school failed in March of 2024.
@@ -12,4 +10,5 @@ Emilie Kornheiser is the Chair of the House Committee on Ways and Means and is t
 Woodstock resident and former legislator Charlie Kimbell will serve as moderator for the discussion.
 After 45 minutes of presentations, the speakers will take questions from the attendees.
 The discussion will be held in the upstairs meeting room in the Woodstock Town Hall which holds approximately 70 people.
-People can choose to attend via Zoom by following this link: https://us02web.zoom.us/j/87597515680?pwd=rhqlZQZkWNiGgi4eR0WLVq7bDAl7J7.1.
+People can choose to attend via Zoom by following this link: https://us02web.zoom.us/j/87597515680?pwd=rhqlZQZkWNiGgi4eR0WLVq7bDAl7J7.1 .
+Older Post 2024 Overview of Critical Legislative Issues DONATE Back to Top Charlie Kimbell - Vermont State Representative, Windsor-5 email: kbellvt@gmail.com phone: 802-296-1276

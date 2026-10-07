@@ -1,7 +1,9 @@
 {
- "description": "Make a secure donation to support Glenn Lancaster\u2019s campaign and help advance community leadership in Oregon.",
+ "description": "Make a secure donation to support Glenn Lancaster’s campaign and help advance community leadership in Oregon.",
  "final_url": "https://glennlancaster.com/donation-form/",
- "paid_for_by": "Paid for by Love Where You Live #23304 | PO BOX 512 Independence, OR 97351",
+ "fingerprint": "192d7ad83785d016139d5590e82cbdec14c2fc14",
+ "format": 3,
+ "paid_for_by": "Paid for by Love Where You Live #23304",
  "title": "Contribute - Glenn Lancaster",
  "years_mentioned": []
 }

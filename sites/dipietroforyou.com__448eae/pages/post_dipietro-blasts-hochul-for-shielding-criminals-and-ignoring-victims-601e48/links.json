@@ -1,31 +1,138 @@
 [
-"https://dipietroforyou.com/",
-"https://dipietroforyou.com/about",
-"https://dipietroforyou.com/blog",
-"https://dipietroforyou.com/blog/categories/culture-and-opinions",
-"https://dipietroforyou.com/blog/categories/getting-started",
-"https://dipietroforyou.com/blog/categories/latest-political-news",
-"https://dipietroforyou.com/blog/categories/vaccines-health",
-"https://dipietroforyou.com/blog/categories/your-community",
-"https://dipietroforyou.com/blog/tags/albany-1",
-"https://dipietroforyou.com/blog/tags/assembly",
-"https://dipietroforyou.com/blog/tags/dipietro",
-"https://dipietroforyou.com/blog/tags/hochul",
-"https://dipietroforyou.com/blog/tags/immigration",
-"https://dipietroforyou.com/blog/tags/new-york-1",
-"https://dipietroforyou.com/blog/tags/public-policy",
-"https://dipietroforyou.com/buygiftcards",
-"https://dipietroforyou.com/issues",
-"https://dipietroforyou.com/leadership-partner",
-"https://dipietroforyou.com/post/border-crisis-hits-new-york-dipietro-fights-to-end-sanctuary-policies",
-"https://dipietroforyou.com/post/dipietro-slams-hochul-james-for-undermining-federal-immigration-enforcement",
-"https://dipietroforyou.com/profile/daviddipietroforyou/profile",
-"https://dipietroforyou.com/silentmajorityspeakspodcast",
-"https://dipietroforyou.com/thedaviddipietroshow",
-"https://dipietroforyou.com/theshows",
-"https://dipietroforyou.com/volunteer",
-"https://facebook.com/profile.php?id=100057753832479",
-"https://secure.winred.com/dipietro-for-you/donate-to-dave",
-"https://twitter.com/DiPietroForYou",
-"https://youtube.com/@assemblymandipietro"
+{
+"text": "ABOUT DAVE",
+"href": "https://www.dipietroforyou.com/about"
+},
+{
+"text": "Albany",
+"href": "https://www.dipietroforyou.com/blog/tags/albany-1"
+},
+{
+"text": "All Posts",
+"href": "https://www.dipietroforyou.com/blog"
+},
+{
+"text": "Assembly",
+"href": "https://www.dipietroforyou.com/blog/tags/assembly"
+},
+{
+"text": "Border Crisis Hits New York: DiPietro Fights to End Sanctuary Policies",
+"href": "https://www.dipietroforyou.com/post/border-crisis-hits-new-york-dipietro-fights-to-end-sanctuary-policies"
+},
+{
+"text": "Culture and Opinions",
+"href": "https://www.dipietroforyou.com/blog/categories/culture-and-opinions"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/dipietro-for-you/donate-to-dave"
+},
+{
+"text": "David Dipietro",
+"href": "https://www.dipietroforyou.com/profile/daviddipietroforyou/profile"
+},
+{
+"text": "DiPietro Slams Hochul & James for Undermining Federal Immigration Enforcement",
+"href": "https://www.dipietroforyou.com/post/dipietro-slams-hochul-james-for-undermining-federal-immigration-enforcement"
+},
+{
+"text": "Dipietro",
+"href": "https://www.dipietroforyou.com/blog/tags/dipietro"
+},
+{
+"text": "Events",
+"href": "https://www.dipietroforyou.com/blog/categories/getting-started"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.dipietroforyou.com/volunteer"
+},
+{
+"text": "HOME",
+"href": "https://www.dipietroforyou.com"
+},
+{
+"text": "Hochul",
+"href": "https://www.dipietroforyou.com/blog/tags/hochul"
+},
+{
+"text": "LATEST NEWS",
+"href": "https://www.dipietroforyou.com/blog"
+},
+{
+"text": "Latest Political News",
+"href": "https://www.dipietroforyou.com/blog/categories/latest-political-news"
+},
+{
+"text": "New York",
+"href": "https://www.dipietroforyou.com/blog/tags/new-york-1"
+},
+{
+"text": "OPERATION GIFT CERTIFICATE",
+"href": "https://www.dipietroforyou.com/buygiftcards"
+},
+{
+"text": "POWERFUL PARTNERSHIP",
+"href": "https://www.dipietroforyou.com/leadership-partner"
+},
+{
+"text": "See All",
+"href": "https://www.dipietroforyou.com/blog"
+},
+{
+"text": "Silent Majority Speaks Podcast",
+"href": "https://www.dipietroforyou.com/silentmajorityspeakspodcast"
+},
+{
+"text": "THE ISSUES",
+"href": "https://www.dipietroforyou.com/issues"
+},
+{
+"text": "THE SHOWS",
+"href": "https://www.dipietroforyou.com/theshows"
+},
+{
+"text": "The David DiPietro Show",
+"href": "https://www.dipietroforyou.com/thedaviddipietroshow"
+},
+{
+"text": "Vaccines & Health",
+"href": "https://www.dipietroforyou.com/blog/categories/vaccines-health"
+},
+{
+"text": "Your Community",
+"href": "https://www.dipietroforyou.com/blog/categories/your-community"
+},
+{
+"text": "[image: Border Crisis Hits New York: DiPietro Fights to End Sanctuary Policies]",
+"href": "https://www.dipietroforyou.com/post/border-crisis-hits-new-york-dipietro-fights-to-end-sanctuary-policies"
+},
+{
+"text": "[image: DiPietro For You Logo]",
+"href": "https://www.dipietroforyou.com"
+},
+{
+"text": "[image: DiPietro Slams Hochul & James for Undermining Federal Immigration Enforcement]",
+"href": "https://www.dipietroforyou.com/post/dipietro-slams-hochul-james-for-undermining-federal-immigration-enforcement"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100057753832479"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/DiPietroForYou"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@assemblymandipietro"
+},
+{
+"text": "immigration",
+"href": "https://www.dipietroforyou.com/blog/tags/immigration"
+},
+{
+"text": "public policy",
+"href": "https://www.dipietroforyou.com/blog/tags/public-policy"
+}
 ]

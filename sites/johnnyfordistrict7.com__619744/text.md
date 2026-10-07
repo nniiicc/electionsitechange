@@ -1,6 +1,5 @@
-Rep.
-Johnny Chastain
-I work daily to invest in families and strengthen communities.
+0 Skip to Content Open Menu Close Menu Open Menu Close Menu Rep.
+Johnny Chastain I work daily to invest in families and strengthen communities.
 For the past 40 years I have been in the banking industry serving Blue Ridge, Ellijay, Dawson and the North Georgia area.
 Accessible, responsive, and transparent to all.
 I believe our representative should not just talk about, but live these traits.
@@ -25,3 +24,5 @@ Fiscal Conservative: I will lead on the budget to give you and your family your 
 Per capita spending in Georgia is lowest in the country.
 I will work to spend wisely and balance the budget each year.
 I look forward to connecting with you.
+Rep.
+Johnny Chastain Let’s Get in Touch PAID FOR BY JOHNNY FOR HOUSE

@@ -1,61 +1,358 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=%22On+the+Road+Again%22+in+South+St.+Paul&dates=20221001T130000Z%2F20221001T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Doorknocking+for+Rick+Hansen&dates=20220913T210000Z%2F20220914T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Doorknocking+for+Rick+Hansen&dates=20221011T210000Z%2F20221011T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Doorknocking+for+Rick+Hansen&dates=20221018T203000Z%2F20221018T223000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Doorknocking+for+Rick+Hansen&dates=20221101T203000Z%2F20221101T223000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Fall+Fundraiser&dates=20260924T123000Z%2F20260924T140000Z&location=879+Smith+Avenue+South%2C+West+Saint+Paul%2C+Minnesota%2C+55118%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Heritage+Days+Parade&dates=20220827T150000Z%2F20220827T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Inver+Grove+Heights+Days+Parade&dates=20220910T133000Z%2F20220910T233500Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=League+of+Women+Voters+Forum+-+House+District+53B&dates=20240918T020000Z%2F20240918T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Pioneer+Day+Parade&dates=20220814T133000Z%2F20220814T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Pollinator+Week+Fundraiser&dates=20230620T200000Z%2F20230620T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Pre-session+fundraiser&dates=20230102T113000Z%2F20230102T123000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rep+Rick+Hansen+Doorknock&dates=20241009T203000Z%2F20241010T003000Z&location=121+10th+Street%2C+Newport%2C+MN%2C+55055%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rep+Rick+Hansen+Doorknock&dates=20241016T203000Z%2F20241017T003000Z&location=121+10th+Street%2C+Newport%2C+MN%2C+55055%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rep+Rick+Hansen+Doorknock&dates=20241023T203000Z%2F20241024T003000Z&location=121+10th+Street%2C+Newport%2C+MN%2C+55055%2C+United+States",
-"http://maps.google.com/?q=121+10th+Street+Newport%2C+MN%2C+55055+United+States",
-"http://maps.google.com/?q=879+Smith+Avenue+South+West+Saint+Paul%2C+Minnesota%2C+55118+United+States",
-"https://bsky.app/profile/reprickhansen.bsky.social",
-"https://facebook.com/RepRickHansen",
-"https://secure.actblue.com/donate/voterickhansen",
-"https://twitter.com/reprickhansen",
-"https://votehansen.com/",
-"https://votehansen.com/about",
-"https://votehansen.com/cart",
-"https://votehansen.com/donate",
-"https://votehansen.com/events",
-"https://votehansen.com/events/doorknocking-for-rick-hansen",
-"https://votehansen.com/events/doorknocking-for-rick-hansen-1",
-"https://votehansen.com/events/doorknocking-for-rick-hansen-1?format=ical",
-"https://votehansen.com/events/doorknocking-for-rick-hansen-2",
-"https://votehansen.com/events/doorknocking-for-rick-hansen-2?format=ical",
-"https://votehansen.com/events/doorknocking-for-rick-hansen?format=ical",
-"https://votehansen.com/events/fall-fundraiser",
-"https://votehansen.com/events/fall-fundraiser?format=ical",
-"https://votehansen.com/events/heritage-days-parade",
-"https://votehansen.com/events/heritage-days-parade?format=ical",
-"https://votehansen.com/events/inver-grove-heights-days-parade",
-"https://votehansen.com/events/inver-grove-heights-days-parade?format=ical",
-"https://votehansen.com/events/league-of-women-voters-forum-house-district-53b-",
-"https://votehansen.com/events/league-of-women-voters-forum-house-district-53b-?format=ical",
-"https://votehansen.com/events/on-the-road-again-in-south-st-paul",
-"https://votehansen.com/events/on-the-road-again-in-south-st-paul?format=ical",
-"https://votehansen.com/events/pioneer-day-parade",
-"https://votehansen.com/events/pioneer-day-parade?format=ical",
-"https://votehansen.com/events/pnuf1dud4qozz9ohy5f3uoa9k6hg7b",
-"https://votehansen.com/events/pnuf1dud4qozz9ohy5f3uoa9k6hg7b?format=ical",
-"https://votehansen.com/events/pollinator-week-fundraiser",
-"https://votehansen.com/events/pollinator-week-fundraiser?format=ical",
-"https://votehansen.com/events/pre-session-fundraiser",
-"https://votehansen.com/events/pre-session-fundraiser?format=ical",
-"https://votehansen.com/events/rep-rick-hansen-doorknock",
-"https://votehansen.com/events/rep-rick-hansen-doorknock-xsd36",
-"https://votehansen.com/events/rep-rick-hansen-doorknock-xsd36-5d5z2",
-"https://votehansen.com/events/rep-rick-hansen-doorknock-xsd36-5d5z2?format=ical",
-"https://votehansen.com/events/rep-rick-hansen-doorknock-xsd36?format=ical",
-"https://votehansen.com/events/rep-rick-hansen-doorknock?format=ical",
-"https://votehansen.com/gallery",
-"https://votehansen.com/volunteer",
-"https://votehansen.com/vote"
+{
+"text": "\"On the Road Again\" in South St. Paul",
+"href": "https://www.votehansen.com/events/on-the-road-again-in-south-st-paul"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=121+10th+street+newport%2C+mn%2C+55055+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=879+smith+avenue+south+west+saint+paul%2C+minnesota%2C+55118+united+states"
+},
+{
+"text": "0",
+"href": "https://www.votehansen.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://www.votehansen.com/donate"
+},
+{
+"text": "Doorknocking for Rick Hansen",
+"href": "https://www.votehansen.com/events/doorknocking-for-rick-hansen"
+},
+{
+"text": "Doorknocking for Rick Hansen",
+"href": "https://www.votehansen.com/events/doorknocking-for-rick-hansen-1"
+},
+{
+"text": "Doorknocking for Rick Hansen",
+"href": "https://www.votehansen.com/events/doorknocking-for-rick-hansen-2"
+},
+{
+"text": "Doorknocking for Rick Hansen",
+"href": "https://www.votehansen.com/events/pnuf1dud4qozz9ohy5f3uoa9k6hg7b"
+},
+{
+"text": "Events",
+"href": "https://www.votehansen.com/events"
+},
+{
+"text": "Fall Fundraiser",
+"href": "https://www.votehansen.com/events/fall-fundraiser"
+},
+{
+"text": "Gallery",
+"href": "https://www.votehansen.com/gallery"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=%22On+the+Road+Again%22+in+South+St.+Paul&dates=20221001T130000Z%2F20221001T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Doorknocking+for+Rick+Hansen&dates=20220913T210000Z%2F20220914T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Doorknocking+for+Rick+Hansen&dates=20221011T210000Z%2F20221011T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Doorknocking+for+Rick+Hansen&dates=20221018T203000Z%2F20221018T223000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Doorknocking+for+Rick+Hansen&dates=20221101T203000Z%2F20221101T223000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fall+Fundraiser&dates=20260924T123000Z%2F20260924T140000Z&location=879+Smith+Avenue+South%2C+West+Saint+Paul%2C+Minnesota%2C+55118%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Heritage+Days+Parade&dates=20220827T150000Z%2F20220827T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Inver+Grove+Heights+Days+Parade&dates=20220910T133000Z%2F20220910T233500Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=League+of+Women+Voters+Forum+-+House+District+53B&dates=20240918T020000Z%2F20240918T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pioneer+Day+Parade&dates=20220814T133000Z%2F20220814T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pollinator+Week+Fundraiser&dates=20230620T200000Z%2F20230620T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pre-session+fundraiser&dates=20230102T113000Z%2F20230102T123000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rep+Rick+Hansen+Doorknock&dates=20241009T203000Z%2F20241010T003000Z&location=121+10th+Street%2C+Newport%2C+MN%2C+55055%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rep+Rick+Hansen+Doorknock&dates=20241016T203000Z%2F20241017T003000Z&location=121+10th+Street%2C+Newport%2C+MN%2C+55055%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rep+Rick+Hansen+Doorknock&dates=20241023T203000Z%2F20241024T003000Z&location=121+10th+Street%2C+Newport%2C+MN%2C+55055%2C+United+States"
+},
+{
+"text": "Heritage Days Parade",
+"href": "https://www.votehansen.com/events/heritage-days-parade"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/doorknocking-for-rick-hansen-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/doorknocking-for-rick-hansen-2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/doorknocking-for-rick-hansen?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/fall-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/heritage-days-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/inver-grove-heights-days-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/league-of-women-voters-forum-house-district-53b-?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/on-the-road-again-in-south-st-paul?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/pioneer-day-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/pnuf1dud4qozz9ohy5f3uoa9k6hg7b?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/pollinator-week-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/pre-session-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/rep-rick-hansen-doorknock-xsd36-5d5z2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/rep-rick-hansen-doorknock-xsd36?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/rep-rick-hansen-doorknock?format=ical"
+},
+{
+"text": "Inver Grove Heights Days Parade",
+"href": "https://www.votehansen.com/events/inver-grove-heights-days-parade"
+},
+{
+"text": "League of Women Voters Forum - House District 53B",
+"href": "https://www.votehansen.com/events/league-of-women-voters-forum-house-district-53b-"
+},
+{
+"text": "Meet Rick",
+"href": "https://www.votehansen.com/about"
+},
+{
+"text": "Pioneer Day Parade",
+"href": "https://www.votehansen.com/events/pioneer-day-parade"
+},
+{
+"text": "Pollinator Week Fundraiser",
+"href": "https://www.votehansen.com/events/pollinator-week-fundraiser"
+},
+{
+"text": "Pre-session fundraiser",
+"href": "https://www.votehansen.com/events/pre-session-fundraiser"
+},
+{
+"text": "Rep Rick Hansen Doorknock",
+"href": "https://www.votehansen.com/events/rep-rick-hansen-doorknock"
+},
+{
+"text": "Rep Rick Hansen Doorknock",
+"href": "https://www.votehansen.com/events/rep-rick-hansen-doorknock-xsd36"
+},
+{
+"text": "Rep Rick Hansen Doorknock",
+"href": "https://www.votehansen.com/events/rep-rick-hansen-doorknock-xsd36-5d5z2"
+},
+{
+"text": "View Event →",
+"href": "https://www.votehansen.com/events/doorknocking-for-rick-hansen"
+},
+{
+"text": "View Event →",
+"href": "https://www.votehansen.com/events/doorknocking-for-rick-hansen-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.votehansen.com/events/doorknocking-for-rick-hansen-2"
+},
+{
+"text": "View Event →",
+"href": "https://www.votehansen.com/events/fall-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.votehansen.com/events/heritage-days-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.votehansen.com/events/inver-grove-heights-days-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.votehansen.com/events/league-of-women-voters-forum-house-district-53b-"
+},
+{
+"text": "View Event →",
+"href": "https://www.votehansen.com/events/on-the-road-again-in-south-st-paul"
+},
+{
+"text": "View Event →",
+"href": "https://www.votehansen.com/events/pioneer-day-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.votehansen.com/events/pnuf1dud4qozz9ohy5f3uoa9k6hg7b"
+},
+{
+"text": "View Event →",
+"href": "https://www.votehansen.com/events/pollinator-week-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.votehansen.com/events/pre-session-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.votehansen.com/events/rep-rick-hansen-doorknock"
+},
+{
+"text": "View Event →",
+"href": "https://www.votehansen.com/events/rep-rick-hansen-doorknock-xsd36"
+},
+{
+"text": "View Event →",
+"href": "https://www.votehansen.com/events/rep-rick-hansen-doorknock-xsd36-5d5z2"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votehansen.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.votehansen.com/vote"
+},
+{
+"text": "[image: Fall Fundraiser]",
+"href": "https://www.votehansen.com/events/fall-fundraiser"
+},
+{
+"text": "[image: Rep Rick Hansen Doorknock]",
+"href": "https://www.votehansen.com/events/rep-rick-hansen-doorknock"
+},
+{
+"text": "[image: Rep Rick Hansen Doorknock]",
+"href": "https://www.votehansen.com/events/rep-rick-hansen-doorknock-xsd36"
+},
+{
+"text": "[image: Rep Rick Hansen Doorknock]",
+"href": "https://www.votehansen.com/events/rep-rick-hansen-doorknock-xsd36-5d5z2"
+},
+{
+"text": "[image: Rick Hansen for House]",
+"href": "https://www.votehansen.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/reprickhansen.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/reprickhansen"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepRickHansen/"
+},
+{
+"text": "[no text]",
+"href": "https://www.votehansen.com/events/doorknocking-for-rick-hansen"
+},
+{
+"text": "[no text]",
+"href": "https://www.votehansen.com/events/doorknocking-for-rick-hansen-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.votehansen.com/events/doorknocking-for-rick-hansen-2"
+},
+{
+"text": "[no text]",
+"href": "https://www.votehansen.com/events/heritage-days-parade"
+},
+{
+"text": "[no text]",
+"href": "https://www.votehansen.com/events/inver-grove-heights-days-parade"
+},
+{
+"text": "[no text]",
+"href": "https://www.votehansen.com/events/league-of-women-voters-forum-house-district-53b-"
+},
+{
+"text": "[no text]",
+"href": "https://www.votehansen.com/events/on-the-road-again-in-south-st-paul"
+},
+{
+"text": "[no text]",
+"href": "https://www.votehansen.com/events/pioneer-day-parade"
+},
+{
+"text": "[no text]",
+"href": "https://www.votehansen.com/events/pnuf1dud4qozz9ohy5f3uoa9k6hg7b"
+},
+{
+"text": "[no text]",
+"href": "https://www.votehansen.com/events/pollinator-week-fundraiser"
+},
+{
+"text": "[no text]",
+"href": "https://www.votehansen.com/events/pre-session-fundraiser"
+},
+{
+"text": "https://secure.actblue.com/donate/voterickhansen",
+"href": "https://secure.actblue.com/donate/voterickhansen"
+}
 ]

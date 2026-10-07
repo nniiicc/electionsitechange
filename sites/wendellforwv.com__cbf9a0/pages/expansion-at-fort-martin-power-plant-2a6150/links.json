@@ -1,12 +1,46 @@
 [
-"https://bsky.app/profile/mwendell.bsky.social",
-"https://facebook.com/profile.php?id=61587160591876",
-"https://secure.actblue.com/donate/wendell-for-wv",
-"https://wendellforwv.com/",
-"https://wendellforwv.com/about-me",
-"https://wendellforwv.com/campaign-news",
-"https://wendellforwv.com/privacy-policy",
-"https://wendellforwv.com/volunteer",
-"https://wvmetronews.com/2026/04/08/firstenergy-races-to-meet-growing-electrical-demand-with-new-monongalia-county-facility",
-"https://x.com/michaelwendell"
+{
+"text": "About Michael Wendell",
+"href": "https://wendellforwv.com/about-me/"
+},
+{
+"text": "Campaign News",
+"href": "https://wendellforwv.com/campaign-news/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/wendell-for-wv"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/wendell-for-wv/"
+},
+{
+"text": "FirstEnergy races to meet growing electrical demand with new Monongalia County facility – MetroNews",
+"href": "https://wvmetronews.com/2026/04/08/firstenergy-races-to-meet-growing-electrical-demand-with-new-monongalia-county-facility/"
+},
+{
+"text": "Home",
+"href": "https://wendellforwv.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://wendellforwv.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://wendellforwv.com/volunteer/"
+},
+{
+"text": "[tooltip: Michael Wendell on Bluesky]",
+"href": "https://bsky.app/profile/mwendell.bsky.social"
+},
+{
+"text": "[tooltip: Michael Wendell on Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61587160591876"
+},
+{
+"text": "[tooltip: Michael Wendell on X]",
+"href": "https://x.com/michaelwendell"
+}
 ]

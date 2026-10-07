@@ -1,18 +1,74 @@
 [
-"http://hanfordcleanup.org/",
-"https://facebook.com/GerryPollet",
-"https://gerrypollet.com/",
-"https://gerrypollet.com/about",
-"https://gerrypollet.com/endorsements",
-"https://gerrypollet.com/issues",
-"https://gerrypollet.com/media",
-"https://gerrypollet.com/news-1",
-"https://instagram.com/electpollet",
-"https://m.facebook.com/RepresentativeGerryPollet/videos/892569987868340?refsrc=deprecated",
-"https://nbcnews.com/id/wbna6272595",
-"https://seattletimes.com/education-lab/new-law-focuses-on-literacy-in-the-early-grades",
-"https://seattletimes.com/seattle-news/politics/washington-lawmakers-may-push-colleges-to-share-sexual-misconduct-findings-against-employees",
-"https://seattletimes.com/seattle-news/uw-athletic-executive-quietly-leaves-after-sexual-misconduct-investigation-finds-new-job-at-another-college",
-"https://secure.actblue.com/donate/gerry-pollet-2",
-"https://sierraclub.org/washington/blog/2020/04/legislative-recap-climate-edition-why-2020-was-mixed-bag-for-climate-olympia"
+{
+"text": "About Gerry",
+"href": "https://www.gerrypollet.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/gerry-pollet-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gerrypollet.com/endorsements"
+},
+{
+"text": "Gerry’s powerful floor speech on the topic here",
+"href": "https://m.facebook.com/RepresentativeGerryPollet/videos/892569987868340/?refsrc=deprecated&_rdr="
+},
+{
+"text": "Hanfordcleanup.org",
+"href": "http://www.hanfordcleanup.org/"
+},
+{
+"text": "Heart of America Northwest",
+"href": "http://www.hanfordcleanup.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.gerrypollet.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.gerrypollet.com/media"
+},
+{
+"text": "News",
+"href": "https://www.gerrypollet.com/news-1"
+},
+{
+"text": "State ballot initiatives",
+"href": "https://www.nbcnews.com/id/wbna6272595"
+},
+{
+"text": "UW was exposed allowing an athletic administrator to quietly move on to work at another higher ed institution after being found likely to have committed a sexual assault",
+"href": "https://www.seattletimes.com/seattle-news/uw-athletic-executive-quietly-leaves-after-sexual-misconduct-investigation-finds-new-job-at-another-college/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/GerryPollet"
+},
+{
+"text": "[image: GerryPollet-Logo2.png]",
+"href": "https://www.gerrypollet.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electpollet/"
+},
+{
+"text": "info@gerrypollet.com",
+"href": "mailto:info@gerrypollet.com"
+},
+{
+"text": "legislation",
+"href": "https://www.sierraclub.org/washington/blog/2020/04/legislative-recap-climate-edition-why-2020-was-mixed-bag-for-climate-olympia"
+},
+{
+"text": "read more from the Seattle Times here.",
+"href": "https://www.seattletimes.com/education-lab/new-law-focuses-on-literacy-in-the-early-grades/"
+},
+{
+"text": "worked with advocates and survivors of assault and harassment to develop",
+"href": "https://www.seattletimes.com/seattle-news/politics/washington-lawmakers-may-push-colleges-to-share-sexual-misconduct-findings-against-employees/"
+}
 ]

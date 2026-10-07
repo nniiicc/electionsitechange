@@ -1,24 +1,130 @@
 [
-"http://danahlers.com/",
-"https://danahlers.com/",
-"https://danahlers.com/about",
-"https://danahlers.com/about-2",
-"https://danahlers.com/about-3",
-"https://danahlers.com/contact",
-"https://danahlers.com/get-involved",
-"https://danahlers.com/news",
-"https://danahlers.com/post/big-beautiful-disaster-for-south-dakota",
-"https://danahlers.com/post/how-to-restore-trust-in-government",
-"https://danahlers.com/post/south-dakota-deserves-straight-talk-about-the-budget",
-"https://danahlers.com/post/supporting-farmers-through-partnerships-and-new-opportunities",
-"https://danahlers.com/privacy-policy",
-"https://danahlers.com/profile/danahlers197310320/profile",
-"https://danahlers.com/terms-and-conditions",
-"https://danahlers.com/yardsign",
-"https://facebook.com/DanAhlersforSD",
-"https://goodchange.app/version-live/donate/dan-a-dg",
-"https://instagram.com/danahlersforsd",
-"https://mobilize.us/sddp",
-"https://wix.com/",
-"https://x.com/ahlers_dan"
+{
+"text": "About Me",
+"href": "https://www.danahlers.com/about"
+},
+{
+"text": "All Articles",
+"href": "https://www.danahlers.com/news"
+},
+{
+"text": "Big, Beautiful Disaster for South Dakota",
+"href": "https://www.danahlers.com/post/big-beautiful-disaster-for-south-dakota"
+},
+{
+"text": "Blog",
+"href": "https://www.danahlers.com/news"
+},
+{
+"text": "Contact",
+"href": "https://www.danahlers.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://goodchange.app/version-live/donate/dan-a-dg"
+},
+{
+"text": "Daniel Ahlers",
+"href": "https://www.danahlers.com/profile/danahlers197310320/profile"
+},
+{
+"text": "Events",
+"href": "https://www.danahlers.com"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/sddp/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.danahlers.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.danahlers.com/post/south-dakota-deserves-straight-talk-about-the-budget"
+},
+{
+"text": "How to Restore Trust in Government",
+"href": "https://www.danahlers.com/post/how-to-restore-trust-in-government"
+},
+{
+"text": "Issues",
+"href": "https://www.danahlers.com/about-3"
+},
+{
+"text": "Meet Dan",
+"href": "https://www.danahlers.com/about"
+},
+{
+"text": "News",
+"href": "https://www.danahlers.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.danahlers.com/privacy-policy"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.danahlers.com/yardsign"
+},
+{
+"text": "See All",
+"href": "https://www.danahlers.com/news"
+},
+{
+"text": "Supporting Farmers Through Partnerships and New Opportunities",
+"href": "https://www.danahlers.com/post/supporting-farmers-through-partnerships-and-new-opportunities"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.danahlers.com/terms-and-conditions"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.danahlers.com/get-involved"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.danahlers.com/about-2"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: 2ee6013f-7926-42db-9851-4dfe880af112.png]",
+"href": "http://www.danahlers.com"
+},
+{
+"text": "[image: Big, Beautiful Disaster for South Dakota]",
+"href": "https://www.danahlers.com/post/big-beautiful-disaster-for-south-dakota"
+},
+{
+"text": "[image: Dan Ahlers for Governor Logo]",
+"href": "https://www.danahlers.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DanAhlersforSD"
+},
+{
+"text": "[image: How to Restore Trust in Government]",
+"href": "https://www.danahlers.com/post/how-to-restore-trust-in-government"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/danahlersforsd/"
+},
+{
+"text": "[image: Supporting Farmers Through Partnerships and New Opportunities]",
+"href": "https://www.danahlers.com/post/supporting-farmers-through-partnerships-and-new-opportunities"
+},
+{
+"text": "[image]",
+"href": "https://x.com/ahlers_dan"
+},
+{
+"text": "dan@danahlers.com",
+"href": "mailto:dan@danahlers.com"
+}
 ]

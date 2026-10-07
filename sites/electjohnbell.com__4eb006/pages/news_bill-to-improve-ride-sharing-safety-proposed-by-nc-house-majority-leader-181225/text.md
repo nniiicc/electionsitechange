@@ -1,23 +1,18 @@
-Raleigh,NC – Today,NC House Majority Leader John Bell (R-Wayne) unveiled the Passenger Protection Act to improve the safety of ride-sharing in North Carolina in the wake of the recent abduction and tragic murder of University of South Carolina student Samantha Josephson by someone impersonating an Uber driver.
+Make a donation Please finish the form below Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form CONTRIBUTE Home ABOUT priorities NEWS Join GAllery Bill to Improve Ride-Sharing Safety Proposed by NC House Majority Leader Written by: Team Bell April 11, 2019 Back to News Raleigh,NC – Today,NC House Majority Leader John Bell (R-Wayne) unveiled the Passenger Protection Act to improve the safety of ride-sharing in North Carolina in the wake of the recent abduction and tragic murder of University of South Carolina student Samantha Josephson by someone impersonating an Uber driver.
 The bill, which is nearly identical to legislation that was just passed this week in the South Carolina House, will require ride-sharing drivers to display a consistent and distinctive illuminated sign making them easier to identify for passengers.
 Rep.Bell was joined by a bipartisan group of lawmakers, NC State student Natalie Truby, Chapel Hill restaurateur Scott Maitland, and NC State Police Chief Jack Moorman in discussing why this legislation is needed to improve public safety.
 “Whilethe horrific murder of Samantha Josephson brought this issue to the forefront of the news, the dangerous problem of ride-sharing impersonators has been going on for years across the country, especially around college campuses,” said Rep.
 Bell.
 “There is clearly an issue that needs to be addressed and we believe this bill is the least intrusive and reasonable way to help passengers properly identify their vehicles.
-While we know it is not a fix-all, it is a step in the right direction and the start of a much-needed conversation about improving ride-sharing safety in North Carolina.”
-“As a University ambassador, I am often times asked on tours about safety on our campus and this measure not only makes our campuses safer, but the entire state a safer place,” said NCSU student Natalie Truby.
-“This fix is one of many steps that we can take as individuals and as a state to ensure heinous crimes such as the one that happened recently in South Carolina don’t happen again.”
-"What I'm most excited about is this bill is raising awareness,” said Scott Maitland, owner of the Top of the Hill Restaurant and Brewery in Chapel Hill.
+While we know it is not a fix-all, it is a step in the right direction and the start of a much-needed conversation about improving ride-sharing safety in North Carolina.” “As a University ambassador, I am often times asked on tours about safety on our campus and this measure not only makes our campuses safer, but the entire state a safer place,” said NCSU student Natalie Truby.
+“This fix is one of many steps that we can take as individuals and as a state to ensure heinous crimes such as the one that happened recently in South Carolina don’t happen again.” "What I'm most excited about is this bill is raising awareness,” said Scott Maitland, owner of the Top of the Hill Restaurant and Brewery in Chapel Hill.
 “It goes a long way in making people recognize the issue and addressing the problem.
-I am proud to support it."
-“This is another tool and another way we can keep our students safe,” said NCSU Police Chief Jack Moorman.
-“If this will help reduce one incident, then it is certainly worthwhile.”
-Examples of ride-sharing impersonators being charged with assault, kidnapping and other crimes:
-- A University of Georgia student was raped by a man she thought was her Uber driver.
-The police believe the perpetrator may have more victims (2018).
-- A man impersonating an Uber driver admitted to photographing intoxicated University of Alabama students who were unconscious in his car (2019).
-- A man posed as a ride-share driver to pick up young women, and held them against their will, including University of South Carolina students — with one claiming he assaulted a female while offering her a ride home (2017).
-- A man sexually assaulted a Florida Gulf Coast University student after telling her he was an Uber driver (2017).
-- A man impersonating an Uber driver tried to hug two Texas Christian University students after making inappropriate comments (2015).
-- A man has been arrested and is facing charges after authorities say he impersonated a rideshare driver in Seattle and then raped a woman who got in his vehicle (2019).
-- A man impersonated an Uber driver and kidnapped a young woman in Columbia, SC.The victim used her cell phone to contact friends, who called 911 for her and helped police locate the vehicle (2018).
+I am proud to support it." “This is another tool and another way we can keep our students safe,” said NCSU Police Chief Jack Moorman.
+“If this will help reduce one incident, then it is certainly worthwhile.” Examples of ride-sharing impersonators being charged with assault, kidnapping and other crimes: - A University of Georgia student was raped by a man she thought was her Uber driver.
+The police believe the perpetrator may have more victims (2018). - A man impersonating an Uber driver admitted to photographing intoxicated University of Alabama students who were unconscious in his car (2019). - A man posed as a ride-share driver to pick up young women, and held them against their will, including University of South Carolina students — with one claiming he assaulted a female while offering her a ride home (2017). - A man sexually assaulted a Florida Gulf Coast University student after telling her he was an Uber driver (2017). - A man impersonating an Uber driver tried to hug two Texas Christian University students after making inappropriate comments (2015). - A man has been arrested and is facing charges after authorities say he impersonated a rideshare driver in Seattle and then raped a woman who got in his vehicle (2019). - A man impersonated an Uber driver and kidnapped a young woman in Columbia, SC.The victim used her cell phone to contact friends, who called 911 for her and helped police locate the vehicle (2018).
+Contact us john@electjohnbell.com POL.
+AD.
+PAID FOR BY ELECT JOHN BELL COMMITTTEE.

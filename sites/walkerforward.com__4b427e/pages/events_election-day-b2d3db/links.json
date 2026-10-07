@@ -1,22 +1,98 @@
 [
-"http://facebook.com/brianwalkerforward",
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T130000Z%2F20261104T020000Z&location=Ramsey+and+Andover%2C+USA",
-"http://instagram.com/walker.forward",
-"http://maps.google.com/?q=+Ramsey+and+Andover+USA",
-"http://mnvotes.gov/",
-"https://myballotmn.sos.mn.gov/",
-"https://pollfinder.sos.mn.gov/",
-"https://walkerforward.com/",
-"https://walkerforward.com/cart",
-"https://walkerforward.com/contact",
-"https://walkerforward.com/donate",
-"https://walkerforward.com/events",
-"https://walkerforward.com/events/election-day?format=ical",
-"https://walkerforward.com/events/last-day-to-request-absentee-by-mail",
-"https://walkerforward.com/faq",
-"https://walkerforward.com/news",
-"https://walkerforward.com/privacy-policy",
-"https://walkerforward.com/store",
-"https://walkerforward.com/volunteer",
-"https://walkerforward.com/yard-sign"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+ramsey+and+andover+usa"
+},
+{
+"text": "0",
+"href": "https://www.walkerforward.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.walkerforward.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.walkerforward.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.walkerforward.com/faq"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T130000Z%2F20261104T020000Z&location=Ramsey+and+Andover%2C+USA"
+},
+{
+"text": "ICS",
+"href": "https://www.walkerforward.com/events/election-day?format=ical"
+},
+{
+"text": "News",
+"href": "https://www.walkerforward.com/news"
+},
+{
+"text": "Previous Previous October 20 Last Day to Request Absentee By Mail",
+"href": "https://www.walkerforward.com/events/last-day-to-request-absentee-by-mail"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.walkerforward.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://www.walkerforward.com/store"
+},
+{
+"text": "View Your Ballot",
+"href": "https://myballotmn.sos.mn.gov/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.walkerforward.com/volunteer"
+},
+{
+"text": "Where You Vote",
+"href": "https://pollfinder.sos.mn.gov/"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.walkerforward.com/yard-sign"
+},
+{
+"text": "[image: Walker Forward]",
+"href": "https://www.walkerforward.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/brianwalkerforward"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/walker.forward"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@walkerforward.com"
+},
+{
+"text": "campaign@walkerforward.com",
+"href": "mailto:campaign@walkerforward.com"
+},
+{
+"text": "elections@anokacountymn.gov",
+"href": "mailto:elections@anokacountymn.gov"
+},
+{
+"text": "mnvotes.gov",
+"href": "http://mnvotes.gov"
+}
 ]

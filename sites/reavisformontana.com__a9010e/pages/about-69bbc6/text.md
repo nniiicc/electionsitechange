@@ -1,6 +1,4 @@
-About james
-james REAVIS
-I have lived in Montana for most of my life and I am proud to call Billings home.
+0 Skip to Content Home About Issues Contact Endorsements Donate Open Menu Close Menu Home About Issues Contact Endorsements Donate Open Menu Close Menu Home About Issues Contact Endorsements Donate About james Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) Slide 7 Slide 7 (current slide) Slide 8 Slide 8 (current slide) Slide 9 Slide 9 (current slide) james REAVIS I have lived in Montana for most of my life and I am proud to call Billings home.
 I was born and raised in the hard-working and union-supporting city of Butte, America.
 My mother operates a 200-head cattle ranch outside of Boulder, and my father is a retired architect who specialized in preserving our historic buildings.
 After obtaining a law degree from the University of Montana, earning a Master’s in Public Administration, and passing the bar, I went to work as a public defender.
@@ -20,3 +18,6 @@ I will listen to you.
 If you live in Billings and you own a dog, then you probably know my fiancé, Amanda.
 She’s been grooming, cleaning, and cutting dog hair for years.
 I am so very lucky to have her in my life.
+Contact James Donate HOME ABOUT ISSUES CONTACT DONATE Paid for by Friends of James Reavis, Democrat, P.O.
+Box 22301, Billings, MT 59104 Juli M.
+Pierce, Treasurer

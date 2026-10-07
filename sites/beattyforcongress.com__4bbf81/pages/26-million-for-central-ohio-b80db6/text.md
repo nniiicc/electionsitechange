@@ -1,9 +1,9 @@
-$26+ million for Central Ohio
-The Third Congressional District will receive over $26 million in federal funding for local economic development projects, education programs, and healthcare initiatives!
+Join Our Campaign Sign Up Home About Joyce News Get Involved Issues Events Gallery Contact $26+ million for Central Ohio $26+ million for Central Ohio March 22, 2021 in Government The Third Congressional District will receive over $26 million in federal funding for local economic development projects, education programs, and healthcare initiatives!
 These federal funds will provide vital investment in groundbreaking medical and scientific research, early childhood education, and the economy to build back better today and lay the groundwork for an even brighter tomorrow.
 Representative Joyce Beatty is fighting every day to make sure that people in Ohio’s Third Congressional District, no matter where they live, can obtain the education and healthcare they need and deserve.
-Programs that will be funded include:
-- $12,985,905 for the Child Development Council of Franklin County to fund Head Start and Early Head Start programs.
-- $3,219,212 for the Columbus Neighborhood Health Center, Inc. to continue to provide high-quality, affordable healthcare to individuals in the surrounding community.
-- $1,009,334 for Heart of Ohio Family Health Centers to continue to provide high-quality, affordable healthcare to individuals in the surrounding community.
-- $400,000 for the Mid-Ohio Regional Planning Commission to assist the region with recovery efforts from the pandemic and help build resiliency from future economic disruptions.
+Programs that will be funded include: $12,985,905 for the Child Development Council of Franklin County to fund Head Start and Early Head Start programs. $3,219,212 for the Columbus Neighborhood Health Center, Inc. to continue to provide high-quality, affordable healthcare to individuals in the surrounding community. $1,009,334 for Heart of Ohio Family Health Centers to continue to provide high-quality, affordable healthcare to individuals in the surrounding community. $400,000 for the Mid-Ohio Regional Planning Commission to assist the region with recovery efforts from the pandemic and help build resiliency from future economic disruptions.
+Share this: Facebook Twitter Google Plus Pinterest Email to a Friend Previous Post Save Voters Act Next Post Terms and Conditions/Privacy Related News Terms and Conditions/Privacy May 28, 2025 by Beatty Admin Save Voters Act February 19, 2021 by Kristie Lam For the People February 9, 2021 by Kristie Lam Categories Campaign Election Government News Press Uncategorized Popular News Terms and Conditions/Privacy 28 May, 2025 $26+ million for Central Ohio 22 March, 2021 Save Voters Act 19 February, 2021 More News Paid for by Joyce Beatty for Congress Copyright © # All Rights Reserved.
+Joyce Beatty for Congress 222 E.
+Town St.
+Suite 2W Columbus, OH 43215 P.O.
+Box 172 Columbus, OH 43216 Phone: (614) 600-4231 E-mail: beattyforcongress@gmail.com

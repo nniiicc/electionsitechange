@@ -1,10 +1,5 @@
-Back to All Events
-Set in the backdrop of our world-renowned Vermont fall foliage, attendees of the 15th Annual Vermont Wine & Harvest Festival will discover, savor and enjoy Vermont vintners, small specialty food producers, chefs, painters, publishers, cheese makers, potters, jewelers, photographers, and farmers.
+0 Skip to Content Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home Folder: About Me Back My Story Core Issues Events Thoughts + Updates Services Back to All Events VT Wine and Harvest Festival Friday, September 20, 2024 4:00 PM Saturday, September 21, 2024 5:00 PM Google Calendar ICS Set in the backdrop of our world-renowned Vermont fall foliage, attendees of the 15th Annual Vermont Wine & Harvest Festival will discover, savor and enjoy Vermont vintners, small specialty food producers, chefs, painters, publishers, cheese makers, potters, jewelers, photographers, and farmers.
 The Festival spans three days, moving attendees through picturesque Deerfield Valley for wine tastings, farm to table dining experiences, shopping, hiking and more.
-Previous
-Previous
-September 17
-Wilmington Selectboard Meeting
-Next
-Next
-September 27
+Previous Previous September 17 Wilmington Selectboard Meeting Next Next September 27 Art In The Valley Donate Wilmington.
+Whitingham.
+Halifax

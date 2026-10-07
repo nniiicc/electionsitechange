@@ -1,23 +1,9 @@
-Priorities
-Restoring Democracy to the People
-Free and fair elections along with government checks and balances are foundational to a healthy system of governance.
+HOME MEET ERIN PRIORITIES Affordability Big Tech and AI Protecting Essential Services Fighting Corporate Fraud Working Families Democracy Protecting Our Rights ENDORSEMENTS DONATE Select Page Priorities Restoring Democracy to the People Free and fair elections along with government checks and balances are foundational to a healthy system of governance.
 Right now, our democracy is under threat by national and state leaders pushing election conspiracies, weaponizing our courts to overturn precedent, and flouting the law with illegal executive actions.
-Minnesota remains a north star in this dark period for our nation.
+Minnesota remains a north star in this dark period for our nation .
 We are the national leader in voter turnout and have made critical investments to safeguard participation in the electoral process.
-In my first term as State Senator, the DFL trifecta passed important voting rights legislation to restore democracy to the people such as:
-The Democracy for the People Act that enabled automatic voter registration for all eligible voters, pre-registration for 16- and 17-year-old citizens, and expanded early voting access
-Temporary or “pop-up” voting locations
-Restoring the right to vote for those on probation and parole
-Prohibiting AI-deepfakes created to influence an election or harm a candidate
-I’m proud of the work we’ve done to safeguard our elections and make voting more accessible for Minnesotans.
-I will continue to work with my legislative colleagues to fortify our community against the threats to our democracy coming out of Washington.
-Policies we can pursue include:
-Creating publicly financed elections and enhancing campaign finance transparency
-Working with the Attorney General’s office to ensure federal overreach is challenged
-Passing ranked choice voting
-Banning partisan gerrymandering
-This political moment requires courageous leaders who are unwavering in their support of democracy for the people, by the people.
-I’m ready to continue advancing policies that restore faith in our government and increase turnout in our elections.
-Sign Up for Campaign Updates
-Stay in Touch!
-Prepared and paid for by the Erin Maye Quade for Senate committee
+In my first term as State Senator, the DFL trifecta passed important voting rights legislation to restore democracy to the people such as: The Democracy for the People Act that enabled automatic voter registration for all eligible voters, pre-registration for 16- and 17-year-old citizens, and expanded early voting access Temporary or “pop-up” voting locations Restoring the right to vote for those on probation and parole Prohibiting AI-deepfakes created to influence an election or harm a candidate I’m proud of the work we’ve done to safeguard our elections and make voting more accessible for Minnesotans.
+I will continue to work with my legislative colleagues to fortify our community against the threats to our democracy coming out of Washington .
+Policies we can pursue include: Creating publicly financed elections and enhancing campaign finance transparency Working with the Attorney General’s office to ensure federal overreach is challenged Passing ranked choice voting Banning partisan gerrymandering This political moment requires courageous leaders who are unwavering in their support of democracy for the people, by the people .
+I’m ready to continue advancing policies that restore faith in our government and increase turnout in our elections.  Restoring Democracy to the People  Protecting Essential Services and Programs  Increasing Program Integrity and Tackling Corporate Fraud  Tackling the Affordability Crisis  Uplifting Children and Families  Holding Big Tech and AI Accountable  Protecting Rights and Expanding Freedoms Sign Up for Campaign Updates Stay in Touch!
+DONATE VOLUNTEER Name Email Address Phone Message Send Prepared and paid for by the Erin Maye Quade for Senate committee Learn More About Voting in the Primary Election Facebook X Instagram

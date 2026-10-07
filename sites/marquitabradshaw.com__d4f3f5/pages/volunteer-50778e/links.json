@@ -1,15 +1,90 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/BradshawforTN",
-"https://instagram.com/bradshawforTN",
-"https://marquitabradshaw.com/",
-"https://marquitabradshaw.com/connect",
-"https://marquitabradshaw.com/events",
-"https://marquitabradshaw.com/go-vote",
-"https://marquitabradshaw.com/meet-marquita",
-"https://marquitabradshaw.com/priorities",
-"https://marquitabradshaw.com/store",
-"https://secure.actblue.com/donate/marquitaforus",
-"https://swingstate.solutions/",
-"https://x.com/BradshawforTN"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/marquitaforus"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/marquitaforus"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/marquitaforus"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/marquitaforus"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/marquitaforus"
+},
+{
+"text": "Connect",
+"href": "https://www.marquitabradshaw.com/connect"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/marquitaforus"
+},
+{
+"text": "Events",
+"href": "https://www.marquitabradshaw.com/events"
+},
+{
+"text": "GENERAL CONTACT",
+"href": "mailto:campaign@marquitabradshaw.com"
+},
+{
+"text": "Go Vote",
+"href": "https://www.marquitabradshaw.com/go-vote"
+},
+{
+"text": "Meet Marquita",
+"href": "https://www.marquitabradshaw.com/meet-marquita"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/marquitaforus"
+},
+{
+"text": "PRESS CONTACT",
+"href": "mailto:press@marquitabradshaw.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.marquitabradshaw.com/priorities"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Store",
+"href": "https://www.marquitabradshaw.com/store"
+},
+{
+"text": "Swing State",
+"href": "https://www.swingstate.solutions/"
+},
+{
+"text": "[image: Marquita Bradshaw | A Champion for Tennessee logo]",
+"href": "https://www.marquitabradshaw.com/"
+},
+{
+"text": "[image: Marquita Bradshaw | A Champion for Tennessee]",
+"href": "https://www.marquitabradshaw.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/BradshawforTN"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/bradshawforTN"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/BradshawforTN"
+}
 ]

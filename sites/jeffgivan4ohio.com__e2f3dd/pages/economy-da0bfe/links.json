@@ -1,39 +1,198 @@
 [
-"https://bls.gov/regions/midwest/news-release/2024/occupationalemploymentandwages_lima_20240802.htm",
-"https://canarymedia.com/articles/utilities/another-attempt-to-repeal-hb-6-coal-subsidies",
-"https://chamber-foundation.files.svdcdn.com/production/documents/Untapped_OHIO_033125_DIGITAL.pdf",
-"https://cohhio.org/2025-gap-report-shows-shortage-of-affordable-homes-in-ohio",
-"https://datausa.io/profile/geo/lima-oh",
-"https://facebook.com/JeffGivan4ohio",
-"https://farmoffice.osu.edu/blog/fri-02202026-109pm/what-do-about-data-centers-new-bills-offer-some-solutions",
-"https://hometownstations.com/news/allen_county/google-revealed-as-company-behind-500-million-data-center-project-in-lima-area/article_7fa7f0c1-88c1-4d79-86ca-630d942787e6.html",
-"https://hometownstations.com/news/allen_county/ohiomeansjobs-highlights-2025-job-growth-and-training-efforts/article_d421e6ca-3b67-47c9-af68-4469a1fb167b.html",
-"https://instagram.com/jeff_givan_4_oh",
-"https://jeffgivan4ohio.com/",
-"https://jeffgivan4ohio.com/agriculture",
-"https://jeffgivan4ohio.com/cdn-cgi/l/email-protection",
-"https://jeffgivan4ohio.com/education",
-"https://jeffgivan4ohio.com/events",
-"https://jeffgivan4ohio.com/healthcare",
-"https://jeffgivan4ohio.com/issues",
-"https://jeffgivan4ohio.com/meet-jeff",
-"https://jeffgivan4ohio.com/privacy",
-"https://jeffgivan4ohio.com/volunteer",
-"https://jeffgivan4ohio.com/why-im-running",
-"https://limaohio.com/top-stories/2024/08/16/real-estate-value-hikes-leading-to-increased-taxes-to-counties",
-"https://limaohio.com/top-stories/2026/03/16/google-officially-behind-data-center-project",
-"https://ohiohouse.gov/news/democratic/ohio-house-democrats-unveil-an-ohio-you-can-afford-legislative-package-to-drive-down-costs-in-healthcare-childcare-housing-energy-and-consumer-goods-143101",
-"https://opsb.ohio.gov/news/sb52",
-"https://policymattersohio.org/news/2025/10/16/flat-income-tax-puts-ohio-among-top-5-states-for-millionaire-tax-cuts",
-"https://policymattersohio.org/news/2026/05/22/repeal-overdue-data-center-tax-break-costs-ohio-12x-what-state-forecast-for-2025",
-"https://policymattersohio.org/research/how-ohios-publicly-funded-child-care-measures-up",
-"https://policymattersohio.org/research/ohios-childcare-crisis-2025",
-"https://puco.ohio.gov/news/puco-orders-aep-ohio-to-create-data-center-specific-tariff",
-"https://secure.actblue.com/donate/jeffgivan4ohio",
-"https://signalohio.org/data-centers-have-claimed-2-5-billion-in-tax-breaks-since-2017-report-says",
-"https://statenews.org/government-politics/2025-09-23/ohioans-are-paying-eighth-highest-property-tax-rate-in-u-s-school-and-state-money-experts-say",
-"https://statenews.org/government-politics/2026-06-15/budget-correction-bill-includes-one-time-property-tax-credit-for-some-elderly-disabled-ohioans",
-"https://tiktok.com/@jeffgivan_4ohio",
-"https://unitedforalice.org/state-overview/Ohio",
-"https://wyso.org/2023-10-10/ohio-is-in-a-childcare-crisis-one-county-has-a-solution"
+{
+"text": "$19,000 yearly cut",
+"href": "https://policymattersohio.org/news/2025/10/16/flat-income-tax-puts-ohio-among-top-5-states-for-millionaire-tax-cuts/"
+},
+{
+"text": "$26.6 billion in 2024",
+"href": "https://www.statenews.org/government-politics/2025-09-23/ohioans-are-paying-eighth-highest-property-tax-rate-in-u-s-school-and-state-money-experts-say"
+},
+{
+"text": "COHHIO 2025 Gap Report",
+"href": "https://cohhio.org/2025-gap-report-shows-shortage-of-affordable-homes-in-ohio/"
+},
+{
+"text": "COHHIO 2025 Gap Report, Mar 2025",
+"href": "https://cohhio.org/2025-gap-report-shows-shortage-of-affordable-homes-in-ohio/"
+},
+{
+"text": "Canary Media, Feb 2025",
+"href": "https://www.canarymedia.com/articles/utilities/another-attempt-to-repeal-hb-6-coal-subsidies"
+},
+{
+"text": "Contact Us",
+"href": "mailto:contact@jeffgivan4ohio.com"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/jeffgivan4ohio"
+},
+{
+"text": "Data USA",
+"href": "https://datausa.io/profile/geo/lima-oh"
+},
+{
+"text": "Events",
+"href": "https://jeffgivan4ohio.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JeffGivan4ohio/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://jeffgivan4ohio.com/volunteer"
+},
+{
+"text": "Hometown Stations, Feb 2026",
+"href": "https://www.hometownstations.com/news/allen_county/ohiomeansjobs-highlights-2025-job-growth-and-training-efforts/article_d421e6ca-3b67-47c9-af68-4469a1fb167b.html"
+},
+{
+"text": "Hometown Stations, Mar 2026",
+"href": "https://www.hometownstations.com/news/allen_county/google-revealed-as-company-behind-500-million-data-center-project-in-lima-area/article_7fa7f0c1-88c1-4d79-86ca-630d942787e6.html"
+},
+{
+"text": "Hometown Stations, March 2026",
+"href": "https://www.hometownstations.com/news/allen_county/google-revealed-as-company-behind-500-million-data-center-project-in-lima-area/article_7fa7f0c1-88c1-4d79-86ca-630d942787e6.html"
+},
+{
+"text": "House Bill 695",
+"href": "https://farmoffice.osu.edu/blog/fri-02202026-109pm/what-do-about-data-centers-new-bills-offer-some-solutions"
+},
+{
+"text": "Ideastream Public Media / WYSO, Oct 2023",
+"href": "https://www.wyso.org/2023-10-10/ohio-is-in-a-childcare-crisis-one-county-has-a-solution"
+},
+{
+"text": "Ideastream/WYSO",
+"href": "https://www.wyso.org/2023-10-10/ohio-is-in-a-childcare-crisis-one-county-has-a-solution"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/jeff_givan_4_oh/"
+},
+{
+"text": "Issues",
+"href": "https://jeffgivan4ohio.com/issues"
+},
+{
+"text": "JEFF GIVAN",
+"href": "https://jeffgivan4ohio.com/"
+},
+{
+"text": "Lima News, Aug 2024",
+"href": "https://www.limaohio.com/top-stories/2024/08/16/real-estate-value-hikes-leading-to-increased-taxes-to-counties/"
+},
+{
+"text": "Lima News, Mar 2026",
+"href": "https://www.limaohio.com/top-stories/2026/03/16/google-officially-behind-data-center-project/"
+},
+{
+"text": "Meet Jeff",
+"href": "https://jeffgivan4ohio.com/meet-jeff"
+},
+{
+"text": "OSU Extension Farm Office, Feb 2026",
+"href": "https://farmoffice.osu.edu/blog/fri-02202026-109pm/what-do-about-data-centers-new-bills-offer-some-solutions"
+},
+{
+"text": "PUCO's AEP data-center tariff",
+"href": "https://puco.ohio.gov/news/puco-orders-aep-ohio-to-create-data-center-specific-tariff"
+},
+{
+"text": "Policy Matters Ohio, Apr 2025",
+"href": "https://policymattersohio.org/research/ohios-childcare-crisis-2025/"
+},
+{
+"text": "Policy Matters Ohio, Mar 2025",
+"href": "https://policymattersohio.org/research/how-ohios-publicly-funded-child-care-measures-up/"
+},
+{
+"text": "Policy Matters Ohio, May 2026",
+"href": "https://policymattersohio.org/news/2026/05/22/repeal-overdue-data-center-tax-break-costs-ohio-12x-what-state-forecast-for-2025/"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:contact@jeffgivan4ohio.com?subject=PRESS+INQUIRY"
+},
+{
+"text": "Privacy & Terms",
+"href": "https://jeffgivan4ohio.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jeffgivan4ohio.com/privacy"
+},
+{
+"text": "Public Utilities Commission of Ohio",
+"href": "https://puco.ohio.gov/news/puco-orders-aep-ohio-to-create-data-center-specific-tariff"
+},
+{
+"text": "Read the caucus announcement",
+"href": "https://ohiohouse.gov/news/democratic/ohio-house-democrats-unveil-an-ohio-you-can-afford-legislative-package-to-drive-down-costs-in-healthcare-childcare-housing-energy-and-consumer-goods-143101"
+},
+{
+"text": "Senate Bill 52, Ohio Power Siting Board summary",
+"href": "https://opsb.ohio.gov/news/sb52"
+},
+{
+"text": "Signal Ohio, Oct 2025",
+"href": "https://signalohio.org/data-centers-have-claimed-2-5-billion-in-tax-breaks-since-2017-report-says/"
+},
+{
+"text": "Statehouse News Bureau, June 2026",
+"href": "https://www.statenews.org/government-politics/2026-06-15/budget-correction-bill-includes-one-time-property-tax-credit-for-some-elderly-disabled-ohioans"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@jeffgivan_4ohio"
+},
+{
+"text": "U.S. Bureau of Labor Statistics, Aug 2024",
+"href": "https://www.bls.gov/regions/midwest/news-release/2024/occupationalemploymentandwages_lima_20240802.htm"
+},
+{
+"text": "U.S. Chamber of Commerce Foundation, \"Untapped Potential in Ohio,\" 2025",
+"href": "https://chamber-foundation.files.svdcdn.com/production/documents/Untapped_OHIO_033125_DIGITAL.pdf"
+},
+{
+"text": "United For ALICE, 2024",
+"href": "https://www.unitedforalice.org/state-overview/Ohio"
+},
+{
+"text": "United For ALICE, 2026 Ohio Report (2024 data)",
+"href": "https://www.unitedforalice.org/state-overview/Ohio"
+},
+{
+"text": "Volunteer",
+"href": "https://jeffgivan4ohio.com/volunteer"
+},
+{
+"text": "Why I'm Running",
+"href": "https://jeffgivan4ohio.com/why-im-running"
+},
+{
+"text": "[image: Jeff Givan for Ohio 78]",
+"href": "https://jeffgivan4ohio.com/"
+},
+{
+"text": "agriculture page",
+"href": "https://jeffgivan4ohio.com/agriculture"
+},
+{
+"text": "among the strictest in the nation",
+"href": "https://policymattersohio.org/research/how-ohios-publicly-funded-child-care-measures-up/"
+},
+{
+"text": "education page",
+"href": "https://jeffgivan4ohio.com/education"
+},
+{
+"text": "healthcare page",
+"href": "https://jeffgivan4ohio.com/healthcare"
+},
+{
+"text": "left them out",
+"href": "https://www.canarymedia.com/articles/utilities/another-attempt-to-repeal-hb-6-coal-subsidies"
+}
 ]

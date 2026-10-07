@@ -1,10 +1,9 @@
-PRIORITIES • Fight Corruption • Policy to
-Get Money Out of Politics
-Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Fight Corruption • Policy to Get Money Out of Politics Why I believe this — and how I’ll fight for it.
 Our politics are supposed to belong to the people.
 Right now, they belong to whatever lobbying groups fund their campaigns.
 For years, our politicians have let industry lobbyists, special interests, even foreign money fund their campaigns, buy their dinners, and pay for their travel.
-In Washington there are about 20 lobbyists for every member of Congress. 20 paid voices for every one of yours.
+In Washington there are about 20 lobbyists for every member of Congress .
+20 paid voices for every one of yours.
 A corporate PAC — or a special interest group — exists to do one thing: protect its own profit.
 So it funds the politicians who’ll protect it, and fights any rule that gets in the way.
 Not everyone comes to Washington a bad person.
@@ -13,7 +12,7 @@ But they get bought out.
 They take the money because it’s the easy way, because it protects their seat, because it’s simply the standard now.
 That’s the standard we have to change.
 It takes people who refuse the money in the first place and fight to ban it.
-I take no corporate PAC money, no special interest money, and no foreign money.
+I take no corporate PAC money, no special interest money, and no foreign money .
 None.
 And I’ll work to get all of it out for good.
 Because we pay for that comfort.
@@ -33,14 +32,13 @@ What I want is simple: elections that are publicly funded, short, and focused on
 Nothing else.
 We’re a long way from that.
 But here’s where I’d start.
-Here’s exactly what I’ll do
-Ban corporate PAC money and special interest money.
+Here’s exactly what I’ll do Ban corporate PAC money and special interest money.
 I take none, and I’ll fight to ban it for everyone.
 This money is a down payment, not a donation — and the politician who takes it works for the donor, not for you.
 Ban members of Congress from trading stocks.
 You take a public servant’s salary, but you get a front-row seat to information the rest of us never see — and right now you’re allowed to trade on it.
 That’s how people walk into Congress on a modest paycheck and walk out millionaires.
-It’s legalized insider trading, and I’ll ban it.
+It’s legalized insider trading , and I’ll ban it.
 Overturn Citizens United.
 This is the Supreme Court decision that flung the doors open — the one that lets corporate and special-interest money flood our elections.
 I’ll always defend your freedom of speech.
@@ -54,8 +52,7 @@ The rules today are far too weak.
 They let members quietly enrich themselves and their friends, steering deals to companies they own or that fund their campaigns, then walking out to go lobby for them.
 They’ve turned the loophole into a lifestyle.
 We should hold members of Congress to the highest standard in the country, not the lowest — with rules strong enough to stop the self-dealing and real consequences when someone breaks them.
-And we don’t have to wait for the Supreme Court
-Overturning Citizens United will take time.
+And we don’t have to wait for the Supreme Court Overturning Citizens United will take time.
 Here’s what we can do right now.
 Get corporate money out of our primaries — starting with our own party.
 A party can set its own rules.
@@ -67,25 +64,21 @@ Maine’s voters overwhelmingly banned political spending by corporations with s
 The courts are still testing it, so this is a fight worth having.
 I’ll join it, learn from those models, and build on them in Washington.
 Foreign money has no business in our elections.
-What this means for Our District
-None of this is abstract here.
+What this means for Our District None of this is abstract here.
 PG&E, Big Pharma, and the insurance companies don’t fund politicians out of goodwill — they do it because it pays.
 When they’re the ones writing the checks, they get the representation, and you get the bill: higher rates, higher premiums, higher drug prices, and monopolies that never have to compete.
 Our own congressman has been in Washington for nearly 30 years.
-Today he’s the single largest recipient of PG&E money in all of Congress, while taking more corporate PAC money than any other California Democrat in the House.
+Today he’s the single largest recipient of PG&E money in all of Congress , while taking more corporate PAC money than any other California Democrat in the House.
 The system was built to work that way, and that’s exactly what I’m running to change.
 Get the money out, and we can finally do what a representative is supposed to do: take on PG&E, bring drug prices down, hold the insurance industry accountable, and give working families and small businesses a fair shot.
 That’s the whole point.
 This is the fight that makes every other one winnable.
-The bottom line
-This isn’t one party’s problem — both are guilty.
+The bottom line This isn’t one party’s problem — both are guilty.
 Special interests don’t buy one team, they buy both, and set the two sides against each other so we stay divided while the checks keep clearing.
 But here’s what they’re afraid you’ll realize: we agree on far more than we’re told, and the moment we get the money out, this whole thing changes.
 A government that answers to you can finally do what it was built to do: lower your costs, protect your family, and hand your kids a country with more opportunity than we inherited, not less.
 That’s a choice, and it’s ours to make.
 Win this one fight, and every other one becomes winnable.
-SOURCES
-- Thompson contribution records underlying the PG&E “#1 in Congress” and corporate-PAC figures: FEC — Mike Thompson for Congress, Committee C00326363
-- Registered-lobbyist filings (the data behind the lobbyist-to-member ratio): U.S.
-House Clerk — Lobbying Disclosure
-- GAO’s annual review of federal lobbying disclosure under the Lobbying Disclosure Act (registrations and filings): GAO — “2024 Lobbying Disclosure: Observations on Compliance with Requirements,” GAO-25-107523
+All Policies Next Policy Return to Top SOURCES Thompson contribution records underlying the PG&E “#1 in Congress” and corporate-PAC figures: FEC — Mike Thompson for Congress, Committee C00326363 Registered-lobbyist filings (the data behind the lobbyist-to-member ratio): U.S.
+House Clerk — Lobbying Disclosure GAO’s annual review of federal lobbying disclosure under the Lobbying Disclosure Act (registrations and filings): GAO — “2024 Lobbying Disclosure: Observations on Compliance with Requirements,” GAO-25-107523 Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+No corporate PAC or special interest money accepted.

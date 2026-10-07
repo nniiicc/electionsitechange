@@ -1,10 +1,13 @@
 {
  "description": "- Read the latest news and updates from Bobby Charles for Maine Governor campaign.",
  "final_url": "https://www.bobbyformaine.com/news/bobby-charles-for-governor-campaign-launches-new-digital-ad-mills-pingree-augustas-bad-apples",
- "paid_for_by": null,
+ "fingerprint": "83ef80058ee233fdd5535023216e01b8b4a2ed12",
+ "format": 3,
+ "paid_for_by": "authorized by Bobby Charles for Maine Governor Campaign Committee",
  "title": "| Bobby Charles for Maine",
  "years_mentioned": [
   "2019",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

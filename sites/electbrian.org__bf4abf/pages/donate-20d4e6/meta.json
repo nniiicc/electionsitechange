@@ -1,7 +1,9 @@
 {
- "description": "Support clean elections funding by donating $5 to Brian McMahan&#39;s campaign\u2014no special interests, just voters!",
+ "description": "Support clean elections funding by donating $5 to Brian McMahan&#39;s campaign—no special interests, just voters!",
  "final_url": "https://electbrian.org/donate",
- "paid_for_by": null,
+ "fingerprint": "1f76f0f544f22718e0b54471a664b22c488e9ab7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
  "years_mentioned": []
 }

@@ -1,5 +1,3 @@
-Previous
-Previous
-Is District 107 Ready for Its New State Rep?
-Next
-Next
+0 Skip to Content Meet Linda Priorities Education Funding Healthcare Access Reproductive Rights Infrastructure Development News & Info Newsletters Media Release Connect Open Menu Close Menu Meet Linda Priorities Education Funding Healthcare Access Reproductive Rights Infrastructure Development News & Info Newsletters Media Release Connect Open Menu Close Menu Meet Linda Folder: Priorities Back Education Funding Healthcare Access Reproductive Rights Infrastructure Development Folder: News & Info Back Newsletters Media Release Connect These 5 Latinas Are Helping Latinos Tackle the Wealthy Gap May 19 Written By Linda Garcia Linda Garcia Previous Previous Is District 107 Ready for Its New State Rep?
+Next Next How Linda Garcia (Accidentally) Became a Politician LINDA GARCIA | HOUSE REPRESENTATIVE FOR DISTRICT 107 539 W.
+Commerce St. | Suite 4808 | Dallas, TX 75208 All rights reserved ©# House Representative Garcia | Political ad paid by Linda for Texas

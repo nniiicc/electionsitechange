@@ -1,36 +1,166 @@
 [
-"http://gkcwpc.org/?page=endorsements",
-"http://ibew.org/",
-"http://promopac.org/",
-"http://seiumo.org/",
-"https://accessmo.today/",
-"https://ashleyformissouri.com/",
-"https://ashleyformissouri.com/about",
-"https://ashleyformissouri.com/contact",
-"https://ashleyformissouri.com/get-involved",
-"https://ashleyformissouri.com/priorities",
-"https://ashleyformissouri.com/voter-resources",
-"https://betterschoolsformissouri.com/",
-"https://ble-t.org/",
-"https://carpdc.org/",
-"https://cwa6360.org/",
-"https://facebook.com/AshleyForMissouri",
-"https://gunsensevoter.org/candidates/49fb7b24bc54a597984d7aba4a4279433866713ddf2c052acd41a1cadf52fbea",
-"https://iaff42.org/",
-"https://instagram.com/ashleyformissouri",
-"https://kcchamber.com/what-we-do/public-policy/kc-bizpac",
-"https://local249.org/",
-"https://missouriequity.com/2022midtermgrades",
-"https://missourinursespac.org/",
-"https://mnea.org/vote4education",
-"https://moaflcio.org/",
-"https://northlandprogress.org/",
-"https://opcmia.org/",
-"https://plannedparenthoodaction.org/planned-parenthood-great-plains-votes/endorsements/missouri-endorsements",
-"https://prochoicemissouri.org/endorsement-process?emci=74974f73-fb02-ed11-b47a-281878b83d8a&emdi=0a3415f0-0703-ed11-b47a-281878b83d8a&ceid=359499",
-"https://secure.actblue.com/donate/ashleyformissouri",
-"https://sierraclub.org/missouri/blog/2022/03/2022-missouri-sierra-club-election-endorsements",
-"https://teamster.org/",
-"https://tiktok.com/@ashley4mo",
-"https://twitter.com/Ashley4MO"
+{
+"text": "About",
+"href": "https://ashleyformissouri.com/about"
+},
+{
+"text": "Access Missouri",
+"href": "https://accessmo.today/"
+},
+{
+"text": "Better Schools for Missouri",
+"href": "https://betterschoolsformissouri.com/"
+},
+{
+"text": "Brotherhood of Locomotive Engineers & Trainmen",
+"href": "https://www.ble-t.org/"
+},
+{
+"text": "Communication Workers of America",
+"href": "https://www.cwa6360.org/"
+},
+{
+"text": "Contact",
+"href": "https://ashleyformissouri.com/contact"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/ashleyformissouri"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ashleyformissouri"
+},
+{
+"text": "Get Involved",
+"href": "https://ashleyformissouri.com/get-involved"
+},
+{
+"text": "Greater Kansas City Women's Political Caucus",
+"href": "http://gkcwpc.org/?page=endorsements"
+},
+{
+"text": "International Brotherhood of Teamsters",
+"href": "https://teamster.org"
+},
+{
+"text": "Intl. Association of Fire Fighters Local 42",
+"href": "https://www.iaff42.org/"
+},
+{
+"text": "Intl. Brotherhood of Electrical Workers 124",
+"href": "http://www.ibew.org/"
+},
+{
+"text": "KC BizPAC, of the Greater KC Chamber of Commerce",
+"href": "https://www.kcchamber.com/what-we-do/public-policy/kc-bizpac"
+},
+{
+"text": "Learn More",
+"href": "https://ashleyformissouri.com/priorities#p-economy"
+},
+{
+"text": "Learn More",
+"href": "https://ashleyformissouri.com/priorities#p-families"
+},
+{
+"text": "Learn More",
+"href": "https://ashleyformissouri.com/priorities#p-public-education"
+},
+{
+"text": "Learn More",
+"href": "https://ashleyformissouri.com/priorities#p-reproductive-freedom"
+},
+{
+"text": "Learn More",
+"href": "https://ashleyformissouri.com/priorities#p-veterans"
+},
+{
+"text": "Learn More[image]",
+"href": "https://ashleyformissouri.com/about"
+},
+{
+"text": "Mid-America Carpenters Regional Council",
+"href": "https://www.carpdc.org/"
+},
+{
+"text": "Missouri AFL-CIO",
+"href": "https://moaflcio.org/"
+},
+{
+"text": "Missouri Equity Education Partnership",
+"href": "https://www.missouriequity.com/2022midtermgrades"
+},
+{
+"text": "Missouri National Education Association",
+"href": "https://www.mnea.org/vote4education"
+},
+{
+"text": "Missouri Nurses Association",
+"href": "https://missourinursespac.org/"
+},
+{
+"text": "Moms Demand Action *Distinction*",
+"href": "https://gunsensevoter.org/candidates/49fb7b24bc54a597984d7aba4a4279433866713ddf2c052acd41a1cadf52fbea/"
+},
+{
+"text": "Northland Progress",
+"href": "https://northlandprogress.org/"
+},
+{
+"text": "Operative Plasterers' & Cement Masons' Local 518",
+"href": "https://www.opcmia.org/"
+},
+{
+"text": "PROMO PAC",
+"href": "http://www.promopac.org/"
+},
+{
+"text": "Planned Parenthood Great Plains Votes",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-great-plains-votes/endorsements/missouri-endorsements"
+},
+{
+"text": "Priorities",
+"href": "https://ashleyformissouri.com/priorities"
+},
+{
+"text": "Pro-Choice Missouri",
+"href": "https://prochoicemissouri.org/endorsement-process/?emci=74974f73-fb02-ed11-b47a-281878b83d8a&emdi=0a3415f0-0703-ed11-b47a-281878b83d8a&ceid=359499"
+},
+{
+"text": "Service Employees International Union MO/KS Council",
+"href": "http://www.seiumo.org/"
+},
+{
+"text": "Sierra Club",
+"href": "https://www.sierraclub.org/missouri/blog/2022/03/2022-missouri-sierra-club-election-endorsements"
+},
+{
+"text": "United Auto Workers Local 249",
+"href": "https://local249.org/"
+},
+{
+"text": "Voter Resources",
+"href": "https://ashleyformissouri.com/voter-resources"
+},
+{
+"text": "[image]",
+"href": "https://ashleyformissouri.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Ashley4MO"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AshleyForMissouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ashleyformissouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ashley4mo"
+}
 ]

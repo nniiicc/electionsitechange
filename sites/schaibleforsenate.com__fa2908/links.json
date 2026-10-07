@@ -1,9 +1,30 @@
 [
-"http://schaibleforsenate.com/",
-"https://facebook.com/schaibleforsenate",
-"https://schaibleforsenate.com/elevatedimpactnd.com",
-"https://schaibleforsenate.com/latest-updates",
-"https://schaibleforsenate.com/wp-content/uploads/2026/03/District-31-Trifold.pdf",
-"https://secure.anedot.com/schaible-for-senate/campaigndonation",
-"https://vip.sos.nd.gov/absentee/Default.aspx"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/schaible-for-senate/campaigndonation"
+},
+{
+"text": "District 31 Team",
+"href": "https://schaibleforsenate.com/wp-content/uploads/2026/03/District-31-Trifold.pdf"
+},
+{
+"text": "ELEVATED IMPACT",
+"href": "https://schaibleforsenate.com/elevatedimpactnd.com"
+},
+{
+"text": "FOLLOW",
+"href": "https://www.facebook.com/schaibleforsenate"
+},
+{
+"text": "Latest Updates",
+"href": "https://schaibleforsenate.com/latest-updates/"
+},
+{
+"text": "Request Absentee Ballot",
+"href": "https://vip.sos.nd.gov/absentee/Default.aspx"
+},
+{
+"text": "[image]",
+"href": "http://www.schaibleforsenate.com"
+}
 ]

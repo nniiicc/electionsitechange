@@ -1,34 +1,138 @@
 [
-"https://bsky.app/profile/kuhnforcongress.com",
-"https://facebook.com/KuhnforCongress",
-"https://kuhnforcongress.com/",
-"https://kuhnforcongress.com/about",
-"https://kuhnforcongress.com/about/event-calendar",
-"https://kuhnforcongress.com/about/photos",
-"https://kuhnforcongress.com/cdn-cgi/l/email-protection",
-"https://kuhnforcongress.com/district-map",
-"https://kuhnforcongress.com/endorsements",
-"https://kuhnforcongress.com/issues",
-"https://kuhnforcongress.com/privacy-policy",
-"https://kuhnforcongress.com/videos",
-"https://kuhnforcongress.com/volunteer",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/Bike.jpg?bwg=1788814683",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/Climbing.jpg?bwg=1788814683",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/CoupleBike.jpg?bwg=1788814683",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/Handshake.jpg?bwg=1788814683",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HeidiAt3Star.jpg?bwg=1788814683",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HeidiHelp.jpg?bwg=1788814683",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HeidiHug.jpg?bwg=1788814683",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HeidiKids.jpg?bwg=1788814683",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HeidiParty.jpg?bwg=1788814683",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HeidiWithDog.jpg?bwg=1788814683",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HiediGroup.jpg?bwg=1788814683",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HiediProtest.jpg?bwg=1788814683",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HiediShakeHands.jpg?bwg=1788814683",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/Hugs.jpg?bwg=1788814683",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/Mountains.jpg?bwg=1788814683",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/Talking.jpg?bwg=1788814683",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/hm4.jpg?bwg=1788814755",
-"https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/hm5.jpg?bwg=1788814755",
-"https://secure.actblue.com/donate/heidikuhn"
+{
+"text": "About",
+"href": "https://kuhnforcongress.com/about/"
+},
+{
+"text": "District Map",
+"href": "https://kuhnforcongress.com/district-map/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/heidikuhn"
+},
+{
+"text": "Endorsements",
+"href": "https://kuhnforcongress.com/endorsements/"
+},
+{
+"text": "Event Calendar",
+"href": "https://kuhnforcongress.com/about/event-calendar/"
+},
+{
+"text": "Issues",
+"href": "https://kuhnforcongress.com/issues/"
+},
+{
+"text": "Kuhn Conversations",
+"href": "https://kuhnforcongress.com/videos/"
+},
+{
+"text": "Meet Heidi Kuhn",
+"href": "https://kuhnforcongress.com/about/"
+},
+{
+"text": "Photos",
+"href": "https://kuhnforcongress.com/about/photos/"
+},
+{
+"text": "Privacy and Opt Out Policies",
+"href": "https://kuhnforcongress.com/privacy-policy/"
+},
+{
+"text": "TN District Map",
+"href": "https://kuhnforcongress.com/district-map/"
+},
+{
+"text": "Volunteer",
+"href": "https://kuhnforcongress.com/volunteer/"
+},
+{
+"text": "[email protected]‍",
+"href": "mailto:info@kuhnforcongress.com‍"
+},
+{
+"text": "[image: Bike]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/Bike.jpg?bwg=1788814683"
+},
+{
+"text": "[image: BlueSky]",
+"href": "https://bsky.app/profile/kuhnforcongress.com"
+},
+{
+"text": "[image: Climbing]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/Climbing.jpg?bwg=1788814683"
+},
+{
+"text": "[image: CoupleBike]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/CoupleBike.jpg?bwg=1788814683"
+},
+{
+"text": "[image: Facebook (Square)]",
+"href": "https://www.facebook.com/KuhnforCongress"
+},
+{
+"text": "[image: Handshake]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/Handshake.jpg?bwg=1788814683"
+},
+{
+"text": "[image: HeidiAt3Star]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HeidiAt3Star.jpg?bwg=1788814683"
+},
+{
+"text": "[image: HeidiHelp]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HeidiHelp.jpg?bwg=1788814683"
+},
+{
+"text": "[image: HeidiHug]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HeidiHug.jpg?bwg=1788814683"
+},
+{
+"text": "[image: HeidiKids]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HeidiKids.jpg?bwg=1788814683"
+},
+{
+"text": "[image: HeidiParty]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HeidiParty.jpg?bwg=1788814683"
+},
+{
+"text": "[image: HeidiWithDog]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HeidiWithDog.jpg?bwg=1788814683"
+},
+{
+"text": "[image: HiediGroup]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HiediGroup.jpg?bwg=1788814683"
+},
+{
+"text": "[image: HiediProtest]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HiediProtest.jpg?bwg=1788814683"
+},
+{
+"text": "[image: HiediShakeHands]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/HiediShakeHands.jpg?bwg=1788814683"
+},
+{
+"text": "[image: Hugs]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/Hugs.jpg?bwg=1788814683"
+},
+{
+"text": "[image: Kuhn for Congress]",
+"href": "https://kuhnforcongress.com/"
+},
+{
+"text": "[image: Mountains]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/Mountains.jpg?bwg=1788814683"
+},
+{
+"text": "[image: Talking]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/Talking.jpg?bwg=1788814683"
+},
+{
+"text": "[image: hm4]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/hm4.jpg?bwg=1788814755"
+},
+{
+"text": "[image: hm5]",
+"href": "https://kuhnforcongress.com/wp-content/uploads/photo-gallery/imported_from_media_libray/hm5.jpg?bwg=1788814755"
+}
 ]

@@ -1,9 +1,9 @@
 {
  "description": "News and Opinions on topics most important to Oregonians.",
  "final_url": "https://wernerfororegon.com/news",
+ "fingerprint": "62afd38610cd9422f25f3b2067eff3427ee1ddf6",
+ "format": 3,
  "paid_for_by": "Paid for by Werner For Oregon",
  "title": "Werner For Oregon - News and Opinion, Conservative News",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

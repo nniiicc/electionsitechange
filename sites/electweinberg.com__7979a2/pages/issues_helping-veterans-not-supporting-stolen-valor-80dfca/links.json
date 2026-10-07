@@ -1,14 +1,50 @@
 [
-"https://bsky.app/profile/electweinberg.bsky.social",
-"https://designedtorun.com/",
-"https://electweinberg.com/",
-"https://electweinberg.com/about",
-"https://electweinberg.com/contact",
-"https://electweinberg.com/endorsements",
-"https://electweinberg.com/events",
-"https://electweinberg.com/issues",
-"https://electweinberg.com/news",
-"https://instagram.com/electweinberg",
-"https://secure.actblue.com/donate/weinberg-for-az",
-"https://x.com/electweinberg"
+{
+"text": "About",
+"href": "https://www.electweinberg.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.electweinberg.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/weinberg-for-az"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electweinberg.com/endorsements"
+},
+{
+"text": "Events & Volunteer",
+"href": "https://www.electweinberg.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.electweinberg.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.electweinberg.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Jacob Weinberg for State House]",
+"href": "https://www.electweinberg.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/electweinberg.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/electweinberg/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/electweinberg"
+}
 ]

@@ -1,18 +1,66 @@
 [
-"http://youtube.com/",
-"https://airtable.com/shrBA6UCO1KJsCesP",
-"https://ellmanforillinois.com/",
-"https://ellmanforillinois.com/about-laura",
-"https://ellmanforillinois.com/ellman-bill-protects-access-to-health-coverage-prevents-denials-over-past-due-premiums",
-"https://ellmanforillinois.com/ellman-proposes-plan-to-ban-toxic-herbicide-linked-to-parkinsons-disease",
-"https://ellmanforillinois.com/endorsements",
-"https://ellmanforillinois.com/get-involved",
-"https://ellmanforillinois.com/my-vision",
-"https://ellmanforillinois.com/policies-that-matter",
-"https://ellmanforillinois.com/the-21st-district",
-"https://facebook.com/EllmanforIL",
-"https://illinoissenatedemocrats.com/caucus-news/27-senator-laura-ellman-news/6788-ellman-measure-aims-to-reduce-food-waste-expand-student-access-to-meals",
-"https://instagram.com/statesenatorlauraellman",
-"https://secure.actblue.com/donate/teamellman22",
-"https://twitter.com/EllmanForIL"
+{
+"text": "ABOUT LAURA",
+"href": "https://ellmanforillinois.com/about-laura/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/teamellman22"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://ellmanforillinois.com/endorsements/"
+},
+{
+"text": "Ellman bill protects access to health coverage, prevents denials over past-due premiums",
+"href": "https://ellmanforillinois.com/ellman-bill-protects-access-to-health-coverage-prevents-denials-over-past-due-premiums/"
+},
+{
+"text": "Ellman proposes plan to ban toxic herbicide linked to Parkinson’s disease",
+"href": "https://ellmanforillinois.com/ellman-proposes-plan-to-ban-toxic-herbicide-linked-to-parkinsons-disease/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://ellmanforillinois.com/get-involved/"
+},
+{
+"text": "ISSUES",
+"href": "https://ellmanforillinois.com/policies-that-matter/"
+},
+{
+"text": "MY VISION",
+"href": "https://ellmanforillinois.com/my-vision/"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://airtable.com/shrBA6UCO1KJsCesP"
+},
+{
+"text": "Source: Illinois Senate Democrats",
+"href": "https://www.illinoissenatedemocrats.com/caucus-news/27-senator-laura-ellman-news/6788-ellman-measure-aims-to-reduce-food-waste-expand-student-access-to-meals"
+},
+{
+"text": "THE 21ST DISTRICT",
+"href": "https://ellmanforillinois.com/the-21st-district/"
+},
+{
+"text": "[image: Laura Ellman]",
+"href": "https://ellmanforillinois.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/EllmanForIL"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EllmanforIL/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/statesenatorlauraellman/"
+}
 ]

@@ -1,7 +1,1 @@
-CONTRIBUTE
-Contribute to my campaign
-VOLUNTEER
-Volunteer for my campaign
-Click here to add your name to the list of those supporting Phil Green as our State Representative
-Michigan’s 67th House District
-Michigan’s 67th House District encompasses Forest, Genesee, Richfield, and Thetfords Townships in Genesee County; the city of Lapeer and Deerfield, Elba, Hadly, Lapeer, Marathon, Mayfield, Metamora, Oregon townships in Lapeer County, and Waterton Township in Tuscola County,
+Skip to content Home About Phil Green Endorsements Endorse Volunteer Contribute Contact Home About Phil Green Endorsements Endorse Volunteer Contribute Contact Re-Elect Phil Green State Representative Fighting for the Forgotten Peninsula About Phil Donate Today CONTRIBUTE Contribute to my campaign FACEBOOK Follow me on Facebook VOLUNTEER Volunteer for my campaign Click here to add your name to the list of those supporting Phil Green as our State Representative ENDORSE PHIL Michigan’s 67th House District Michigan’s 67th House District encompasses Forest, Genesee, Richfield, and Thetfords Townships in Genesee County; the city of Lapeer and Deerfield, Elba, Hadly, Lapeer, Marathon, Mayfield, Metamora, Oregon townships in Lapeer County, and Waterton Township in Tuscola County, Paid for by Friends of Phil Green • 7650 Trumbower Trl. • Millington, MI 48746 Privacy Policy

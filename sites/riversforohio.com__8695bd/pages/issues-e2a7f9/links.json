@@ -1,8 +1,30 @@
 [
-"https://facebook.com/1733558296926496",
-"https://riversforohio.com/",
-"https://riversforohio.com/about",
-"https://riversforohio.com/issues",
-"https://riversforohio.com/media",
-"https://x.com/RyanFRivers"
+{
+"text": "About",
+"href": "https://riversforohio.com/about"
+},
+{
+"text": "Home",
+"href": "https://riversforohio.com/"
+},
+{
+"text": "Issues",
+"href": "https://riversforohio.com/issues"
+},
+{
+"text": "Media",
+"href": "https://riversforohio.com/media"
+},
+{
+"text": "[image: Rivers For Ohio]",
+"href": "https://riversforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/1733558296926496"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/RyanFRivers"
+}
 ]

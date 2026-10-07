@@ -1,19 +1,78 @@
 [
-"https://donate.stripe.com/6oE17O3xw17q8vufYY",
-"https://facebook.com/kevincookforidaho",
-"https://keepidahowater.com/",
-"https://kevincookforidaho.com/",
-"https://kevincookforidaho.com/about-kevin",
-"https://kevincookforidaho.com/ask-kevin",
-"https://kevincookforidaho.com/donate",
-"https://kevincookforidaho.com/how-to-help",
-"https://kevincookforidaho.com/in-the-news",
-"https://kevincookforidaho.com/in-the-news/breakfast-with-senator-cook",
-"https://kevincookforidaho.com/in-the-news/weekly-newsletter",
-"https://kevincookforidaho.com/in-the-news/weekly-newsletter-archive",
-"https://kevincookforidaho.com/media/gdhhdbkn/get-your-kevin-cook-for-idaho-yard-sign-bubble-01.png",
-"https://kevincookforidaho.com/sjm101",
-"https://kevincookforidaho.com/supporters",
-"https://legislature.idaho.gov/sessioninfo/2025/legislation/SJM101",
-"https://voteidaho.gov/"
+{
+"text": "About Kevin",
+"href": "https://kevincookforidaho.com/about-kevin/"
+},
+{
+"text": "Add Your Signature",
+"href": "https://keepidahowater.com/"
+},
+{
+"text": "Ask Kevin",
+"href": "https://kevincookforidaho.com/ask-kevin/"
+},
+{
+"text": "Breakfast with Senator Cook",
+"href": "https://kevincookforidaho.com/in-the-news/breakfast-with-senator-cook/"
+},
+{
+"text": "Donate",
+"href": "https://donate.stripe.com/6oE17O3xw17q8vufYY"
+},
+{
+"text": "Home",
+"href": "https://kevincookforidaho.com/"
+},
+{
+"text": "How to Help",
+"href": "https://kevincookforidaho.com/how-to-help/"
+},
+{
+"text": "How to vote",
+"href": "https://voteidaho.gov/"
+},
+{
+"text": "In the News",
+"href": "https://kevincookforidaho.com/in-the-news/"
+},
+{
+"text": "Link to Idaho Delegation",
+"href": "https://legislature.idaho.gov/sessioninfo/2025/legislation/SJM101/"
+},
+{
+"text": "Making a Contribution Today",
+"href": "https://kevincookforidaho.com/donate/"
+},
+{
+"text": "News",
+"href": "https://kevincookforidaho.com/in-the-news/"
+},
+{
+"text": "Supporters",
+"href": "https://kevincookforidaho.com/supporters/"
+},
+{
+"text": "Water",
+"href": "https://kevincookforidaho.com/sjm101/"
+},
+{
+"text": "Weekly Newsletter",
+"href": "https://kevincookforidaho.com/in-the-news/weekly-newsletter/"
+},
+{
+"text": "Weekly Newsletter Archive",
+"href": "https://kevincookforidaho.com/in-the-news/weekly-newsletter-archive/"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/gdhhdbkn/get-your-kevin-cook-for-idaho-yard-sign-bubble-01.png"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/kevincookforidaho"
+},
+{
+"text": "[image] Kevin Cook for Idaho",
+"href": "https://kevincookforidaho.com/"
+}
 ]

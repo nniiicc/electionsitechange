@@ -1,33 +1,142 @@
 [
-"http://google.com/url?q=https%3A%2F%2Fwww.chiefhealthcareexecutive.com%2Fview%2Fmaternal-mental-health-is-the-silent-epidemic-we-still-aren-t-treating-viewpoint&sa=D&ust=1790906822322854&usg=AOvVaw35-txivgxN_PsvVK4fkVQ1",
-"http://google.com/url?q=https%3A%2F%2Fwww.marchofdimes.org%2Fperistats%2Freports%2Fgeorgia%2Freport-card&sa=D&ust=1790906672762787&usg=AOvVaw3zBXLvk4sgDntPJmtZEmam",
-"https://29news.com/2026/09/23/bipartisan-bill-would-expand-federal-maternal-health-programs-research-rural-care",
-"https://athensparentwellbeing.org/pages/about-athens-parent-wellbeing",
-"https://atlantawomen.org/maternal-mental-health-in-atlanta-what-the-data-shows-and-why-mothers-need-more-support",
-"https://blackmaternalhealthcaucus-underwood.house.gov/Momnibus",
-"https://census.gov/quickfacts/fact/table/GA,US/HEA775225",
-"https://chop.edu/conditions-diseases/perinatal-or-postpartum-mood-and-anxiety-disorders",
-"https://cnn.com/2026/08/23/health/maternal-mental-health",
-"https://facebook.com/SpencerFryeStateHouse",
-"https://legis.ga.gov/legislation/70848",
-"https://legis.ga.gov/legislation/71007",
-"https://legis.ga.gov/legislation/72074",
-"https://legis.ga.gov/legislation/73288",
-"https://marchofdimes.org/peristats/reports/united-states/report-card",
-"https://pbs.org/newshour/nation/what-the-lindsay-clancy-trial-reveals-about-a-broken-postpartum-mental-health-system",
-"https://pmc.ncbi.nlm.nih.gov/articles/PMC11058917",
-"https://pmc.ncbi.nlm.nih.gov/articles/PMC12027410",
-"https://policycentermmh.org/2025-state-maternal-mental-health-legislation-report",
-"https://policycentermmh.org/black-maternal-mental-health-issue-brief",
-"https://secure.actblue.com/donate/spencerfrye",
-"https://spencerfrye.com/",
-"https://spencerfrye.com/capitol-corner",
-"https://spencerfrye.com/category/capitol-corner",
-"https://spencerfrye.com/constituents",
-"https://spencerfrye.com/fellowship",
-"https://spencerfrye.com/meet-spencer",
-"https://spencerfrye.com/priorities",
-"https://spencerfrye.com/tag/healthcare",
-"https://spencerfrye.com/volunteer",
-"https://x.com/spencerfrye"
+{
+"text": "$32.3",
+"href": "https://www.atlantawomen.org/maternal-mental-health-in-atlanta-what-the-data-shows-and-why-mothers-need-more-support/"
+},
+{
+"text": "23.5",
+"href": "https://www.marchofdimes.org/peristats/reports/united-states/report-card"
+},
+{
+"text": "30.4",
+"href": "http://google.com/url?q=https%3A%2F%2Fwww.marchofdimes.org%2Fperistats%2Freports%2Fgeorgia%2Freport-card&sa=D&ust=1790906672762787&usg=AOvVaw3zBXLvk4sgDntPJmtZEmam"
+},
+{
+"text": "32.4%",
+"href": "https://www.census.gov/quickfacts/fact/table/GA,US/HEA775225"
+},
+{
+"text": "73 in 21 states in 2024",
+"href": "https://policycentermmh.org/2025-state-maternal-mental-health-legislation-report/"
+},
+{
+"text": "75% of women untreated",
+"href": "http://google.com/url?q=https%3A%2F%2Fwww.chiefhealthcareexecutive.com%2Fview%2Fmaternal-mental-health-is-the-silent-epidemic-we-still-aren-t-treating-viewpoint&sa=D&ust=1790906822322854&usg=AOvVaw35-txivgxN_PsvVK4fkVQ1"
+},
+{
+"text": "About",
+"href": "https://www.spencerfrye.com/meet-spencer/"
+},
+{
+"text": "Capitol Corner",
+"href": "https://www.spencerfrye.com/capitol-corner/"
+},
+{
+"text": "Capitol Corner",
+"href": "https://www.spencerfrye.com/category/capitol-corner/"
+},
+{
+"text": "Constituents",
+"href": "https://www.spencerfrye.com/constituents/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/spencerfrye"
+},
+{
+"text": "Fellowship",
+"href": "https://www.spencerfrye.com/fellowship/"
+},
+{
+"text": "Georgia’s patient population",
+"href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12027410/"
+},
+{
+"text": "HB 1346",
+"href": "https://www.legis.ga.gov/legislation/73288"
+},
+{
+"text": "HB 649",
+"href": "https://www.legis.ga.gov/legislation/70848"
+},
+{
+"text": "HB 925",
+"href": "https://www.legis.ga.gov/legislation/72074"
+},
+{
+"text": "Healthcare",
+"href": "https://www.spencerfrye.com/tag/healthcare/"
+},
+{
+"text": "Northeast Georgia",
+"href": "https://athensparentwellbeing.org/pages/about-athens-parent-wellbeing"
+},
+{
+"text": "Priorities",
+"href": "https://www.spencerfrye.com/priorities/"
+},
+{
+"text": "SB 308",
+"href": "https://www.legis.ga.gov/legislation/71007"
+},
+{
+"text": "The Momnibus Act",
+"href": "https://blackmaternalhealthcaucus-underwood.house.gov/Momnibus"
+},
+{
+"text": "The Mothers and Newborns Success Act",
+"href": "https://www.29news.com/2026/09/23/bipartisan-bill-would-expand-federal-maternal-health-programs-research-rural-care/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.spencerfrye.com/volunteer/"
+},
+{
+"text": "[image: State Representative District 122] State Representative District 122",
+"href": "https://www.spencerfrye.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SpencerFryeStateHouse/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/spencerfrye"
+},
+{
+"text": "anxiety disorders are",
+"href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11058917/"
+},
+{
+"text": "competent healthcare",
+"href": "https://policycentermmh.org/black-maternal-mental-health-issue-brief/"
+},
+{
+"text": "help",
+"href": "https://www.pbs.org/newshour/nation/what-the-lindsay-clancy-trial-reveals-about-a-broken-postpartum-mental-health-system"
+},
+{
+"text": "maternal dealth nationwide",
+"href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11058917/#B13"
+},
+{
+"text": "obsessive-compulsive disorder",
+"href": "https://www.chop.edu/conditions-diseases/perinatal-or-postpartum-mood-and-anxiety-disorders"
+},
+{
+"text": "postpartum",
+"href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11058917/#B13"
+},
+{
+"text": "postpartum psychosis",
+"href": "https://www.cnn.com/2026/08/23/health/maternal-mental-health"
+},
+{
+"text": "systemic social barriers",
+"href": "https://www.atlantawomen.org/maternal-mental-health-in-atlanta-what-the-data-shows-and-why-mothers-need-more-support/"
+},
+{
+"text": "women nationwide",
+"href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11058917/"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Contact Alec Pavlik through an easy to use email form. Stay connected on Facebook.",
  "final_url": "https://www.alecpavlik.com/contact",
- "paid_for_by": null,
+ "fingerprint": "f4e8c34f1674cfdb4d5a1ee00ffac5d44c42c677",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact | Alec Pavlik",
  "years_mentioned": []
 }

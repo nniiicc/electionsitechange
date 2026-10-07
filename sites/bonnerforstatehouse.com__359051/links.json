@@ -1,8 +1,34 @@
 [
-"https://bonnerforstatehouse.com/",
-"https://bonnerforstatehouse.com/issues",
-"https://bonnerforstatehouse.com/meet-josh",
-"https://bonnerforstatehouse.com/privacy-policy",
-"https://facebook.com/bonnerforstatehouse",
-"https://secure.anedot.com/bonner-for-state-house/bonnerforstatehouse"
+{
+"text": "Contact",
+"href": "https://www.bonnerforstatehouse.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/bonner-for-state-house/bonnerforstatehouse"
+},
+{
+"text": "Home",
+"href": "https://www.bonnerforstatehouse.com"
+},
+{
+"text": "Issues",
+"href": "https://www.bonnerforstatehouse.com/issues"
+},
+{
+"text": "Meet Josh",
+"href": "https://www.bonnerforstatehouse.com/meet-josh"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bonnerforstatehouse.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://www.bonnerforstatehouse.com/meet-josh"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/bonnerforstatehouse/"
+}
 ]

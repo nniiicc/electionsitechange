@@ -1,18 +1,78 @@
 [
-"http://aboutads.info/choices",
-"https://codyk4congress.com/",
-"https://codyk4congress.com/endorsements",
-"https://codyk4congress.com/issues",
-"https://codyk4congress.com/news",
-"https://codyk4congress.com/privacy-policy",
-"https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
-"https://edoeb.admin.ch/edoeb/en/home.html",
-"https://facebook.com/profile.php?id=61575943587060",
-"https://instagram.com/codykforcongress",
-"https://oag.state.va.us/consumer-protection/index.php/file-a-complaint",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/cody-k-4-congress/donate",
-"https://secure.winred.com/cody-k-4-congress/storefront",
-"https://x.com/codyk4congress"
+{
+"text": "702-914-8072",
+"href": "tel:17029148072"
+},
+{
+"text": "About",
+"href": "https://codyk4congress.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/cody-k-4-congress/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://codyk4congress.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://codyk4congress.com/#join"
+},
+{
+"text": "Issues",
+"href": "https://codyk4congress.com/issues/"
+},
+{
+"text": "News",
+"href": "https://codyk4congress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://codyk4congress.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/cody-k-4-congress/storefront/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Logo - Cody K Whipple For Congress]",
+"href": "https://codyk4congress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575943587060"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/codykforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/codyk4congress"
+},
+{
+"text": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
+"href": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm"
+},
+{
+"text": "https://www.edoeb.admin.ch/edoeb/en/home.html",
+"href": "https://www.edoeb.admin.ch/edoeb/en/home.html"
+},
+{
+"text": "info@codyk4congress.com",
+"href": "mailto:info@codyk4congress.com"
+},
+{
+"text": "submit a complaint",
+"href": "https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint"
+}
 ]

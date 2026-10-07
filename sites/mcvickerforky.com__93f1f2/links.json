@@ -1,8 +1,34 @@
 [
-"https://mcvickerforky.com/",
-"https://mcvickerforky.com/contact",
-"https://mcvickerforky.com/home/meet-michael",
-"https://mcvickerforky.com/policy",
-"https://secure.actblue.com/donate/mcvickerforyky",
-"https://vrsws.sos.ky.gov/ovrweb/govoteky"
+{
+"text": "Contact",
+"href": "https://mcvickerforky.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mcvickerforyky"
+},
+{
+"text": "Home",
+"href": "https://mcvickerforky.com/"
+},
+{
+"text": "Meet Michael",
+"href": "https://mcvickerforky.com/home/meet-michael/"
+},
+{
+"text": "Our Platform",
+"href": "https://mcvickerforky.com/policy/"
+},
+{
+"text": "Policy",
+"href": "https://mcvickerforky.com/policy/"
+},
+{
+"text": "Your Voter Info",
+"href": "https://vrsws.sos.ky.gov/ovrweb/govoteky"
+},
+{
+"text": "[image: mcvickerforky.com]",
+"href": "https://mcvickerforky.com/"
+}
 ]

@@ -1,23 +1,146 @@
 [
-"https://facebook.com/ElectJoeHohenstein",
-"https://secure.actblue.com/donate/friendsofjoehohenstein",
-"https://votehohenstein.com/",
-"https://votehohenstein.com/contact",
-"https://votehohenstein.com/disability-rights",
-"https://votehohenstein.com/economy",
-"https://votehohenstein.com/education",
-"https://votehohenstein.com/environment",
-"https://votehohenstein.com/gun-violence",
-"https://votehohenstein.com/healthcare",
-"https://votehohenstein.com/housing",
-"https://votehohenstein.com/issues",
-"https://votehohenstein.com/labor",
-"https://votehohenstein.com/lgbtqia-rights",
-"https://votehohenstein.com/meet-joe",
-"https://votehohenstein.com/opioid-crisis",
-"https://votehohenstein.com/plan",
-"https://votehohenstein.com/public-safety",
-"https://votehohenstein.com/volunteer",
-"https://votehohenstein.com/voting-rights",
-"https://votehohenstein.com/womens-rights"
+{
+"text": "Contact",
+"href": "https://www.votehohenstein.com/contact"
+},
+{
+"text": "DISABILITY RIGHTS",
+"href": "https://www.votehohenstein.com/disability-rights"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friendsofjoehohenstein"
+},
+{
+"text": "ECONOMY & INFRASTRUCTURE",
+"href": "https://www.votehohenstein.com/economy"
+},
+{
+"text": "EDUCATION",
+"href": "https://www.votehohenstein.com/education"
+},
+{
+"text": "ENVIRONMENT",
+"href": "https://www.votehohenstein.com/environment"
+},
+{
+"text": "GUN VIOLENCE",
+"href": "https://www.votehohenstein.com/gun-violence"
+},
+{
+"text": "HEALTHCARE",
+"href": "https://www.votehohenstein.com/healthcare"
+},
+{
+"text": "HOUSING",
+"href": "https://www.votehohenstein.com/housing"
+},
+{
+"text": "Issues",
+"href": "https://www.votehohenstein.com/issues"
+},
+{
+"text": "LABOR RIGHTS",
+"href": "https://www.votehohenstein.com/labor"
+},
+{
+"text": "LGBTQIA+ RIGHTS",
+"href": "https://www.votehohenstein.com/lgbtqia-rights"
+},
+{
+"text": "Make Your Plan to Vote",
+"href": "https://www.votehohenstein.com/plan"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.votehohenstein.com/meet-joe"
+},
+{
+"text": "OPIOID CRISIS",
+"href": "https://www.votehohenstein.com/opioid-crisis"
+},
+{
+"text": "PUBLIC SAFETY & SOCIAL JUSTICE",
+"href": "https://www.votehohenstein.com/public-safety"
+},
+{
+"text": "VOTING RIGHTS",
+"href": "https://www.votehohenstein.com/voting-rights"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votehohenstein.com/volunteer"
+},
+{
+"text": "WOMEN’S RIGHTS",
+"href": "https://www.votehohenstein.com/womens-rights"
+},
+{
+"text": "[image: Elect Joe Hohenstein]",
+"href": "https://www.votehohenstein.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.votehohenstein.com/disability-rights"
+},
+{
+"text": "[image]",
+"href": "https://www.votehohenstein.com/economy"
+},
+{
+"text": "[image]",
+"href": "https://www.votehohenstein.com/education"
+},
+{
+"text": "[image]",
+"href": "https://www.votehohenstein.com/environment"
+},
+{
+"text": "[image]",
+"href": "https://www.votehohenstein.com/gun-violence"
+},
+{
+"text": "[image]",
+"href": "https://www.votehohenstein.com/healthcare"
+},
+{
+"text": "[image]",
+"href": "https://www.votehohenstein.com/housing"
+},
+{
+"text": "[image]",
+"href": "https://www.votehohenstein.com/labor"
+},
+{
+"text": "[image]",
+"href": "https://www.votehohenstein.com/lgbtqia-rights"
+},
+{
+"text": "[image]",
+"href": "https://www.votehohenstein.com/opioid-crisis"
+},
+{
+"text": "[image]",
+"href": "https://www.votehohenstein.com/public-safety"
+},
+{
+"text": "[image]",
+"href": "https://www.votehohenstein.com/voting-rights"
+},
+{
+"text": "[image]",
+"href": "https://www.votehohenstein.com/womens-rights"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectJoeHohenstein/"
+},
+{
+"text": "[no text]",
+"href": "mailto:votehohenstein@gmail.com"
+},
+{
+"text": "votehohenstein@gmail.com",
+"href": "mailto:votehohenstein@gmail.com"
+}
 ]

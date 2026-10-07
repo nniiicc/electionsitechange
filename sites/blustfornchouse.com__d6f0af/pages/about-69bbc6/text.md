@@ -1,5 +1,4 @@
-About John
-Veteran.
+Home About Donate ☰ About John Veteran.
 Leader.
 Neighbor.
 John Blust is an experienced leader who is running for re-election to the North Carolina House of Representatives in District 62.
@@ -20,4 +19,6 @@ John is married and has one daughter, Barbara.
 He has attended Westover Church in Greensboro since the age of 6 and was saved by grace at Ambassador Camp at Lake Waccamaw.
 In his free time, John enjoys reading, exercising, and Tae Kwon Do in which he has earned a 2nd Degree Black Belt.
 Ready to Join Team Blust?
-Donate Now
+Donate Now John Blust for NC House Paid for by Blust for NC House Privacy Policy Terms & Conditions © # Blust for NC House.
+All rights reserved.
+Managed by Sapient Edge Strategies

@@ -1,6 +1,4 @@
-My name is Clarke Tucker,
-and I am a lifelong Arkansan
-who grew up in Little Rock.
+0 Skip to Content Home About Clarke Get Involved District Information Contact Us Donate Open Menu Close Menu Home About Clarke Get Involved District Information Contact Us Donate Open Menu Close Menu Home About Clarke Get Involved District Information Contact Us Donate My name is Clarke Tucker, and I am a lifelong Arkansan who grew up in Little Rock.
 Join us as we fight for a better Arkansas.
 My name is Clarke Tucker, and I am a lifelong Arkansan who grew up right here in Little Rock and went to Central High School.
 After attending law school at the University of Arkansas, I returned to Little Rock because there is no place on earth I would rather live, work, and raise my family.
@@ -12,3 +10,5 @@ I am so grateful to be able to say I am cancer-free today, but that experience g
 My family, faith, and community are what guide me, inspire me, and ultimately make me who I am.
 To me, running for office is about serving those who have shaped me and ensuring that every Arkansan has the opportunity to succeed in their version of the American dream.
 I have a law practice in Little Rock, where my incredible wife Toni and I live and raise our two active and always entertaining kids, Ellis and Mari Francis.
+Team Tucker P.O.
+Box 7268 Little Rock, Arkansas 72217 Follow Us Twitter Instagram Facebook

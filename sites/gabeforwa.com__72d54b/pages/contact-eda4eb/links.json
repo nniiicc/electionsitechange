@@ -1,10 +1,42 @@
 [
-"https://facebook.com/profile.php?id=61585517169653",
-"https://gabeforwa.com/",
-"https://gabeforwa.com/about",
-"https://gabeforwa.com/accomplishments",
-"https://gabeforwa.com/contact",
-"https://gabeforwa.com/endorsements",
-"https://gabeforwa.com/issues",
-"https://politics.raisethemoney.com/en/d2gym1tcd1egkbzetsftjg"
+{
+"text": "About",
+"href": "https://gabeforwa.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://gabeforwa.com/accomplishments/"
+},
+{
+"text": "Contact",
+"href": "https://gabeforwa.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://politics.raisethemoney.com/en/d2gym1tcd1egkbzetsftjg"
+},
+{
+"text": "Endorsements",
+"href": "https://gabeforwa.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61585517169653"
+},
+{
+"text": "Home",
+"href": "https://gabeforwa.com/"
+},
+{
+"text": "Issues",
+"href": "https://gabeforwa.com/issues/"
+},
+{
+"text": "[image: Gabe Galbraith]",
+"href": "https://gabeforwa.com/"
+},
+{
+"text": "[image]",
+"href": "https://gabeforwa.com/"
+}
 ]

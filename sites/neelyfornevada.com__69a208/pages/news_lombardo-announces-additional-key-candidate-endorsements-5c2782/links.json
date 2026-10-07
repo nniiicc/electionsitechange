@@ -1,34 +1,146 @@
 [
-"https://annetteforassembly.com/",
-"https://aprilforassembly.com/",
-"https://brogfornevada.com/",
-"https://chapman4nevada.com/",
-"https://daniellefornv.com/",
-"https://edgeworthfornevada.com/",
-"https://electbrandondavis.com/",
-"https://ellisonfornevada.com/",
-"https://facebook.com/neely.erica",
-"https://ginsburg4nv.com/",
-"https://instagram.com/neely4nevada",
-"https://jilldouglass.com/",
-"https://lisacolefornevada.com/",
-"https://lorirogichforsenate.com/",
-"https://muthstruths.com/lombardo-announces-additional-key-candidate-endorsements",
-"https://neelyfornevada.com/",
-"https://neelyfornevada.com/about",
-"https://neelyfornevada.com/category/news",
-"https://neelyfornevada.com/cdn-cgi/l/email-protection",
-"https://neelyfornevada.com/district-9",
-"https://neelyfornevada.com/news",
-"https://neelyfornevada.com/photos",
-"https://neelyfornevada.com/privacy-policy",
-"https://neelyfornevada.com/where-i-stand",
-"https://rafaelarroyoforassembly.com/",
-"https://sandefornevada.com/",
-"https://secure.anedot.com/neely-for-assembly-district-9/donate",
-"https://steinbeckfornevada.com/",
-"https://votecarriebuck.com/",
-"https://voterobintitus.com/",
-"https://x.com/Neely4Nevada",
-"https://youtube.com/@Neely4Nevada"
+{
+"text": "Annette Dawson Owens",
+"href": "https://www.annetteforassembly.com/"
+},
+{
+"text": "April Arndt",
+"href": "https://www.aprilforassembly.com/"
+},
+{
+"text": "Brandon Davis",
+"href": "https://electbrandondavis.com/"
+},
+{
+"text": "Carrie Buck",
+"href": "https://www.votecarriebuck.com/"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/neely-for-assembly-district-9/donate"
+},
+{
+"text": "Danielle Gallant",
+"href": "https://www.daniellefornv.com/"
+},
+{
+"text": "David Brog",
+"href": "https://www.brogfornevada.com/"
+},
+{
+"text": "Diana Sande",
+"href": "https://www.sandefornevada.com/"
+},
+{
+"text": "District 9",
+"href": "https://neelyfornevada.com/district-9/"
+},
+{
+"text": "Erica Neely",
+"href": "https://neelyfornevada.com/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/neely.erica"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/neely4nevada/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@Neely4Nevada"
+},
+{
+"text": "Follow",
+"href": "https://x.com/Neely4Nevada"
+},
+{
+"text": "Home",
+"href": "https://neelyfornevada.com/"
+},
+{
+"text": "Jill Douglass",
+"href": "https://jilldouglass.com/"
+},
+{
+"text": "John Ellison",
+"href": "https://www.ellisonfornevada.com/"
+},
+{
+"text": "John Steinbeck",
+"href": "https://www.steinbeckfornevada.com/"
+},
+{
+"text": "Kelly Chapman",
+"href": "https://chapman4nevada.com/"
+},
+{
+"text": "Lisa Cole",
+"href": "https://www.lisacolefornevada.com/"
+},
+{
+"text": "Lori Rogich",
+"href": "https://www.lorirogichforsenate.com/"
+},
+{
+"text": "Meet Erica",
+"href": "https://neelyfornevada.com/about/"
+},
+{
+"text": "Mike Ginsburg",
+"href": "https://ginsburg4nv.com/"
+},
+{
+"text": "News",
+"href": "https://neelyfornevada.com/category/news/"
+},
+{
+"text": "News",
+"href": "https://neelyfornevada.com/news/"
+},
+{
+"text": "Photos",
+"href": "https://neelyfornevada.com/photos/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://neelyfornevada.com/privacy-policy/"
+},
+{
+"text": "Rafael Arroyo",
+"href": "https://www.rafaelarroyoforassembly.com/"
+},
+{
+"text": "Rebecca Edgeworth",
+"href": "https://www.edgeworthfornevada.com/"
+},
+{
+"text": "Robin Titus",
+"href": "https://www.voterobintitus.com/"
+},
+{
+"text": "This article originally appeared in Muth’s Truths, written by Chuck Muth.",
+"href": "https://muthstruths.com/lombardo-announces-additional-key-candidate-endorsements/"
+},
+{
+"text": "Where I Stand",
+"href": "https://neelyfornevada.com/where-i-stand/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@neely4nevada.com"
+},
+{
+"text": "[image]",
+"href": "https://neelyfornevada.com"
+},
+{
+"text": "[image]",
+"href": "https://neelyfornevada.com/"
+},
+{
+"text": "‪(702) 785-1160‬",
+"href": "tel:%E2%80%AA702-785-1160%E2%80%AC"
+}
 ]

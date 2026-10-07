@@ -1,6 +1,18 @@
 [
-"https://friendsofglengeelhaar.org/blog-index.php",
-"https://friendsofglengeelhaar.org/events.html",
-"https://friendsofglengeelhaar.org/maryland-taxpayer-cost-tracker.html",
-"https://secure.anedot.com/friends-of-glen-geelhaar/donate"
+{
+"text": "Maryland Taxpayer Cost Tracker",
+"href": "https://www.friendsofglengeelhaar.org/maryland-taxpayer-cost-tracker.html"
+},
+{
+"text": "blog",
+"href": "https://www.friendsofglengeelhaar.org/blog-index.php"
+},
+{
+"text": "donate",
+"href": "https://secure.anedot.com/friends-of-glen-geelhaar/donate"
+},
+{
+"text": "events",
+"href": "https://www.friendsofglengeelhaar.org/events.html"
+}
 ]

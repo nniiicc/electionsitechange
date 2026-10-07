@@ -1,11 +1,9 @@
-← All events
-Team Jamie Davis-Postcard Writing-CAPITAL REGION
-- Where
-- Louisiana Democratic Headquarters · Baton Rouge · LA
-About this event
-Join Team Jamie Davis Every Friday for an evening of Postcard writing!
+Skip to main content CONTRIBUTE Lauren Jewett for Congress - Return to homepage Open main navigation menu Meet Lauren Issues District & Voting Endorsements Events Volunteer CONTRIBUTE ← All events Team Jamie Davis-Postcard Writing-CAPITAL REGION Available times Friday, Sep 18, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Friday, Sep 25, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Friday, Oct 2, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Friday, Oct 9, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Friday, Oct 16, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Friday, Oct 23, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Where Louisiana Democratic Headquarters · Baton Rouge · LA About this event Join Team Jamie Davis Every Friday for an evening of Postcard writing!
 Together we are building a stronger, more equitable Louisiana for everyone!
 Jamie Davis is a farmer, he knows the importance of hard work and dedication.
 He has always been a fearless advocate for working families and real community investment, and now we’re bringing that energy directly to voters.
 Whether you’re a longtime volunteer or joining us for the first time, this is a great way to meet like-minded people, make a real impact, and help power a people-first campaign.
 We strongly encourage folks that are joining us for postcard writing to bring postage donations!
+RSVP on Mobilize (opens in a new tab) STAY IN TOUCH Email Zip JOIN US Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Lauren Jewett for Congress Meet Lauren Issues District & Voting Endorsements Events Volunteer Yard Sign Contact Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Chip In Now Every contribution makes a difference in our grassroots campaign $ 25 $ 50 $ 100 $ 250 $ 25 $ 50 $ 100 $ 250

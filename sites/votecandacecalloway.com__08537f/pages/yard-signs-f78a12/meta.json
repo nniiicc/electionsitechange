@@ -1,7 +1,11 @@
 {
  "description": "Request a yard sign to show your support for Candace Calloway.",
  "final_url": "https://www.votecandacecalloway.com/yard-signs",
+ "fingerprint": "6d7521135a49382c985abb10b82d71be58308c15",
+ "format": 3,
  "paid_for_by": "Paid for by Committee to Elect Candace Calloway P",
  "title": "Yard Signs | Candace Calloway for District 5 State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

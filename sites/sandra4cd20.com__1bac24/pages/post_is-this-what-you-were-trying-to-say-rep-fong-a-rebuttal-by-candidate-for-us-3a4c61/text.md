@@ -1,8 +1,6 @@
-Is This What You Were Trying to Say, Rep Fong?
-A rebuttal by Candidate for US Congress Congressional District 20, Sandra Van Scotter
-July 24, 2026
-What you were supposed to take away, and what actually happened
-If you read the Bakersfield Californian's July 22 story by John Cox, about the National Defense Authorization Act commonly being called the NDAA, here is what you probably came away with: Congress passed something.
+top of page DONATE SUBSCRIBE Home Meet Sandra Issues Voter Resources Media Endorsements Events & Updates Volunteer Donate Contact More Use tab to navigate through the menu items.
+All Posts Events Virtual Town Hall Sundays with Sandra Sandra Van Scotter Rebuttal Meet & Greet Search Is This What You Were Trying to Say, Rep Fong?
+A rebuttal by Candidate for US Congress Congressional District 20, Sandra Van Scotter Sandra Van Scotter Jul 24 4 min read July 24, 2026 What you were supposed to take away, and what actually happened If you read the Bakersfield Californian's July 22 story by John Cox, about the National Defense Authorization Act commonly being called the NDAA, here is what you probably came away with: Congress passed something.
 Kern County got something out of it.
 A supersonic test corridor is coming to Edwards.
 Money is moving.
@@ -38,14 +36,13 @@ I have no idea.
 What I can do is show you where the meaning changed.
 The congressmember's own release says the two ranges "encompass over 56,000 square miles of world-class testing capacity." Encompass.
 They already do.
-The article turned that into a study on "opening more than 56,000 square miles of testing capacity."
-Opening.
+The article turned that into a study on "opening more than 56,000 square miles of testing capacity." Opening.
 One word, and a range that has existed since 1946 becomes something Kern County is about to be given.
 It happens again with the pay raise.
 The Armed Services Committee's own summary says the bill "supports the President's 5-7% pay increase." Supports.
-Both congressmembers' releases say the bill "provides" the raise.
+Both congressmembers' releases say the bill " provides " the raise.
 The article says it "would give" one.
-The word “supports” was changed to tell us it “provides” became “give” and a bill that funds a request from the White House turned into a bill that hands money to troops.
+The word “ supports ” was changed to tell us it “ provides ” became “ give ” and a bill that funds a request from the White House turned into a bill that hands money to troops.
 While nobody lied at any step, read the documents in order and you can watch the meaning shift.
 The issue that we see over and over again is that Americans are too busy and too overwhelmed with the current affordability crisis to be verifying descriptor words used by a politician.
 Here is where things actually stand.
@@ -92,4 +89,17 @@ Note: Sandra Van Scotter is a Candidate for Congressional District 20 running ag
 Ms.
 Van Scotter maintains that the CV deserves better in a rep.
 She claims that she is engaged and willing to meet the residents where they are - Sandra shows up.
-If you would like to reach out to Sandra and discuss any of your concerns about the Central Valley and how you are represented in the US Congress, you can contact her team here: TeamSandra@ElectSandraVanScotter.com
+If you would like to reach out to Sandra and discuss any of your concerns about the Central Valley and how you are represented in the US Congress, you can contact her team here: TeamSandra@ElectSandraVanScotter.com Tags: CA-20 Sandra Van Scotter Sandra Van Scotter Rebuttal Recent Posts See All Tehachapi Residents: Rally for Sandra on Tuesday 9-8-26!
+Meet & Greet with Congressional Candidate Sandra Van Scotter Thursday, August 20 at 6PM DONATE Sandra is not backed by corporate donors — she's backed by people like you.
+Every dollar Sandra raises goes directly toward reaching more voters across CA-20 — from Bakersfield to Ridgecrest to the Eastern Sierra.
+No contribution is too small.
+A grassroots candidate can only win with grassroots support.
+DONATE TO THE CAMPAIGN SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail.
+Join our mailing list Email * Subscribe By submitting your email, you give explicit consent to receive emails updates from Sandra Van Scotter for Congress.
+You can unsubscribe at any time via the link at the bottom of our emails. * Phone Sign up for SMS Text campaign updates.
+By providing your phone number, you consent to receive recurring text messages from Sandra Van Scotter for Congress about campaign updates, events, and volunteering.
+Msg & data rates may apply.
+Reply STOP to opt out.
+Submit Home Meet Sandra Issues Volunteer Donate Contact Terms & Conditions Privacy Policy Committee for Sandra Van Scotter for Congress FEC Committee ID C00922666 Questions or comments?
+Let us know!
+Email me directly at sandra@sandra 4cd20.com Sandra Van Scotter for Congress PO Box 1385 Ridgecrest, CA 93556 bottom of page

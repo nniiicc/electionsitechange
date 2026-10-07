@@ -1,10 +1,2 @@
-Home
-Endorsements
-About
-Priorities (You)
-News
-Contact
-More
-Reach Me Anytime
-For press and general inquiries, contact our headquarters today:
-emily@emilydievendorf.com
+top of page Home Endorsements About Priorities (You) News Contact More Use tab to navigate through the menu items.
+DONATE CONTACT Reach Me Anytime For press and general inquiries, contact our headquarters today: ​ emily@emilydievendorf.com Home Endorsements About Me Priorities News Contact Re-Elect Emily Dievendorf - STATE REPRESENTATIVE - Paid for by Friends of Emily Dievendorf PO Box #16026 Lansing, MI 48901 emily@emilydievendorf.com bottom of page

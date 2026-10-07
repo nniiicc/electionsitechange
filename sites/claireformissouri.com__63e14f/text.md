@@ -1,9 +1,6 @@
-We Can Do
-Better.
-Hello, I'm
-Claire Heinrich.
-I'm running for the Missouri House of Representatives, District 110.
-I was born and raised in nearby Washington, Missouri.
+i want a yard sign! i want to donate Missouri, We Can Do Better.
+Hello, I'm Claire Heinrich.
+I'm running for the Missouri House of Representatives, District 110. contact me Endorsed By A little bit of my story I was born and raised in nearby Washington, Missouri.
 My father works in a small Missouri based manufacturing company and my mother has spent her entire career as a public school teacher - most of it as a special education teacher.
 I attended the public school system and graduated in the top of my class.
 My hard work academically was rewarded with a scholarship to Washington University in St.
@@ -27,22 +24,22 @@ Family is the bedrock of my life.
 My friends and family know me as an honest, hardworking person with a keen talent for finding the best solutions to problems.
 We are SORELY missing those skills in Jeff City.
 I want to represent you and your views - you matter to me!
-Here are a few of the issues I am very passionate about.
+How I can help Here are a few of the issues I am very passionate about.
 If you have a specific issue you would want to discuss - please reach out.
 I have so many thoughts on so many topics I can't list them all here.
-District 110 is home to some of the best schools in Missouri.
+Public Education District 110 is home to some of the best schools in Missouri.
 These schools produce excellent graduates with great potential - the future of our community!
 Having access to these schools boosts your property values.
 We need to support public education - it benefits EVERYONE.
 Private schools are a great option for some people - but diverting public tax dollars to support private and religious schools is un-American.
 All my life I've have had a front row seat to the changes in public and in particular special education from my mom's career.
-Regardless of your political outlook, it's impossible to believe that we aren't all on the same page about infrastructure.
+Infrastructure Regardless of your political outlook, it's impossible to believe that we aren't all on the same page about infrastructure.
 District 110 is nearly seventy square miles of some of the most beautiful scenery in Missouri - but it's not perfect.
 We have concerns here about aging roads and bridges, erosion and water management and many others.
 Yet, Jeff City just voted to cancel funding for these concerns in lieu of earmarking $1.5 BILLION for a the billionaire owners of a football team.
 Really?
 Citizens of District 110 send a MASSIVE amount of tax money to the capital, we need to see some level of return and get representation that will bring some back for us.
-One of my biggest reasons for running!
+Represent One of my biggest reasons for running!
 Our most recent representation didn't listen to us.
 In fact, he went to Jeff City and voted the exact opposite of his own District.
 I want to represent District 110 - not ignore it.
@@ -55,8 +52,16 @@ My job will be representing YOU, not me.
 When we work together, we all win.
 I'm Ready To Help!
 Count Me In!
+I WANT TO DONATE CANVAS with CLAIRE Interested in working together or want a yard sign or just to talk?
+Feel free to reach out!
 I'm interested in your thoughts and ideas.
 If you have something that needs attention - I'm there for it.
 If you'd like to help with my campaign - awesome.
 Let's talk!
 Fill out this form or call us at 636-4CLAIRE (636-425-2473) and we'll get back to you quickly.
+I have read and understand the privacy policy.
+Unreadable?
+Load new Submit Missouri, We Can Do Better!
+Paid for by Citizens for Claire Heinrich, Michael Cooper, Treasurer. © #. claireformissouri.com .
+All Rights Reserved.
+Privacy Policy | Legal Notice

@@ -1,32 +1,122 @@
 [
-"https://aclu.org/gallery/marijuana-arrests-numbers",
-"https://aclu.org/news/human-rights/captive-labor-exploitation-of-incarcerated-workers",
-"https://aclu.org/report/report-war-marijuana-black-and-white",
-"https://bjs.ojp.gov/content/pub/pdf/dofp12.pdf",
-"https://bop.gov/about/statistics/statistics_inmate_offenses.jsp",
-"https://brennancenter.org/our-work/analysis-opinion/end-mandatory-minimums",
-"https://counciloncj.foleon.com/taskforce/federal-priorities/rec2",
-"https://counciloncj.foleon.com/tfls/long-sentences-by-the-numbers",
-"https://everycrsreport.com/reports/R45074.html",
-"https://facebook.com/SpencerFryeStateHouse",
-"https://gdna.georgia.gov/sites/gdna.georgia.gov/files/imported/vgn/images/portal/cit_11783501/132824956O.C.G.A%2016-13%20Controlled%20Substances.pdf",
-"https://legaljournal.princeton.edu/the-economic-impact-of-prison-labor-for-incarcerated-individuals-and-taxpayers",
-"https://nij.ojp.gov/topics/articles/overview-drug-courts",
-"https://ntcrc.org/maps/interactive-maps",
-"https://ojp.gov/pdffiles1/Digitization/137910NCJRS.pdf",
-"https://prisonpolicy.org/blog/2020/01/16/percent-incarcerated",
-"https://secure.actblue.com/donate/spencerfrye",
-"https://spencerfrye.com/",
-"https://spencerfrye.com/capitol-corner",
-"https://spencerfrye.com/category/capitol-corner",
-"https://spencerfrye.com/constituents",
-"https://spencerfrye.com/fellowship",
-"https://spencerfrye.com/meet-spencer",
-"https://spencerfrye.com/priorities",
-"https://spencerfrye.com/volunteer",
-"https://tandfonline.com/doi/full/10.3109/00952990.2014.963233?casa_token=Ug0vhfUzUYMAAAAA%3AUULE-QncDoNQvfuIRmWBYEamaFmXt6Pn6UyTtTflnjsoJu08XoS6b3ciYfOZCaVXC3L130-OR4jVpA",
-"https://theguardian.com/us-news/2022/jun/15/us-prison-workers-low-wages-exploited",
-"https://vera.org/downloads/publications/mandatory-sentences-policy-report-v3_2022-03-15-183821_aomj.pdf",
-"https://vera.org/ending-mass-incarceration/causes-of-mass-incarceration/incarceration-statistics",
-"https://x.com/spencerfrye"
+{
+"text": "1",
+"href": "https://www.prisonpolicy.org/blog/2020/01/16/percent-incarcerated/#:~:text=Nearly%20one%20out%20of%20every,in%20a%20prison%20or%20jail.&text=We're%20often%20asked%20what,state%20prison%20or%20local%20jail."
+},
+{
+"text": "10",
+"href": "https://www.vera.org/ending-mass-incarceration/causes-of-mass-incarceration/incarceration-statistics#:~:text=The%20number%20of%20people%20incarcerated%20in%20jails%20in%20prisons%20has%20increased%20dramatically%20since%201980%3A%20approximately%20two%20million%20people%20are%20incarcerated%20today%2C%20compared%20to%20roughly%20500%2C000%20in%201980."
+},
+{
+"text": "11",
+"href": "https://www.bop.gov/about/statistics/statistics_inmate_offenses.jsp"
+},
+{
+"text": "12",
+"href": "https://bjs.ojp.gov/content/pub/pdf/dofp12.pdf"
+},
+{
+"text": "13",
+"href": "https://www.aclu.org/news/human-rights/captive-labor-exploitation-of-incarcerated-workers#:~:text=Incarcerated%20workers%20typically,their%20prison%20wages."
+},
+{
+"text": "14",
+"href": "https://www.theguardian.com/us-news/2022/jun/15/us-prison-workers-low-wages-exploited#:~:text=Incarcerated%20workers%20in,with%20incarcerated%20workers."
+},
+{
+"text": "15",
+"href": "https://www.brennancenter.org/our-work/analysis-opinion/end-mandatory-minimums#:~:text=The%20most%20comprehensive,other%20reforms%20retroactive."
+},
+{
+"text": "16",
+"href": "https://www.vera.org/downloads/publications/mandatory-sentences-policy-report-v3_2022-03-15-183821_aomj.pdf"
+},
+{
+"text": "17",
+"href": "https://ntcrc.org/maps/interactive-maps/"
+},
+{
+"text": "18",
+"href": "https://nij.ojp.gov/topics/articles/overview-drug-courts#:~:text=Drug%20courts%20are%20specialized%20court,and%20other%20drug%20dependency%20problems."
+},
+{
+"text": "19",
+"href": "https://www.aclu.org/report/report-war-marijuana-black-and-white#:~:text=Wasted%20Time%20and%20Money%3A%C2%A0Enforcing%20marijuana%20laws%20costs%20us%20about%20%243.6%20billion%20a%20year%2C%20yet%20the%20War%20on%20Marijuana%20has%20failed%20to%20diminish%20the%20use%20or%20availability%20of%20marijuana."
+},
+{
+"text": "2",
+"href": "https://counciloncj.foleon.com/tfls/long-sentences-by-the-numbers/#Long-Sentences-Behind-Bars:~:text=56%25%20to%20nearly-,63%25.,-Number%20and%20Share"
+},
+{
+"text": "20",
+"href": "https://www.aclu.org/gallery/marijuana-arrests-numbers#:~:text=Nationwide%2C%20the%20arrest%20data%20revealed%20one%20consistent%20trend%3A%20significant%20racial%20bias.%20Despite%20roughly%20equal%20usage%20rates%2C%20Blacks%20are%203.73%20times%20more%20likely%20than%20whites%20to%20be%20arrested%20for%20marijuana."
+},
+{
+"text": "3",
+"href": "https://legaljournal.princeton.edu/the-economic-impact-of-prison-labor-for-incarcerated-individuals-and-taxpayers/#:~:text=Furthermore%2C%20the%20average%20cost%20of,an%20estimated%20%24374%20million%20annually."
+},
+{
+"text": "4",
+"href": "https://gdna.georgia.gov/sites/gdna.georgia.gov/files/imported/vgn/images/portal/cit_11783501/132824956O.C.G.A%2016-13%20Controlled%20Substances.pdf"
+},
+{
+"text": "5",
+"href": "https://www.everycrsreport.com/reports/R45074.html"
+},
+{
+"text": "6",
+"href": "https://www.tandfonline.com/doi/full/10.3109/00952990.2014.963233?casa_token=Ug0vhfUzUYMAAAAA%3AUULE-QncDoNQvfuIRmWBYEamaFmXt6Pn6UyTtTflnjsoJu08XoS6b3ciYfOZCaVXC3L130-OR4jVpA#:~:text=marijuana%20is%20no%20more%20harmful%20than%20alcohol."
+},
+{
+"text": "7",
+"href": "https://www.ojp.gov/pdffiles1/Digitization/137910NCJRS.pdf"
+},
+{
+"text": "9",
+"href": "https://counciloncj.foleon.com/taskforce/federal-priorities/rec2/#:~:text=Ensuing%20research%20found%20that%20long%20prison%20sentences%E2%80%94mandatory%20or%20otherwise%E2%80%94had%20little%20influence%20on%20levels%20of%20supply%20and%20demand%20or%20the%20resulting%20price%20and%20purity%20of%20drugs%20available%20on%20the%20street."
+},
+{
+"text": "About",
+"href": "https://www.spencerfrye.com/meet-spencer/"
+},
+{
+"text": "Capitol Corner",
+"href": "https://www.spencerfrye.com/capitol-corner/"
+},
+{
+"text": "Capitol Corner",
+"href": "https://www.spencerfrye.com/category/capitol-corner/"
+},
+{
+"text": "Constituents",
+"href": "https://www.spencerfrye.com/constituents/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/spencerfrye"
+},
+{
+"text": "Fellowship",
+"href": "https://www.spencerfrye.com/fellowship/"
+},
+{
+"text": "Priorities",
+"href": "https://www.spencerfrye.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.spencerfrye.com/volunteer/"
+},
+{
+"text": "[image: State Representative District 122] State Representative District 122",
+"href": "https://www.spencerfrye.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SpencerFryeStateHouse/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/spencerfrye"
+}
 ]

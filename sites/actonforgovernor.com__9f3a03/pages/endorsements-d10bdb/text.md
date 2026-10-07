@@ -1,42 +1,11 @@
-- Amalgamated Transit Union
-- National Security Leaders for America
-- Ohio Patrolmen’s Benevolent Association
-- Upper Ohio Valley Building and Construction Trades Council
-- Bricklayers and Allied Craftworkers Local 23
-- Ohio Association of Professional Fire Fighters
-- Ohio Iron Workers Association
-- Ohio Environmental Council Action Fund
-- Ohio State Council of Machinists
-- Greater Cincinnati Building and Construction Trades Council
-- Lima Building and Construction Trades Council
-- United Steelworkers District 1
-- Western Reserve Building Trades Council
-- North Central Ohio Building and Construction Trades Council
-- Columbus/Central Ohio Building and Construction Trades Council
-- Dayton Building and Constructions Trades Council
-- Ohio State Association of Letter Carriers
-- United Food and Commercial Workers International Union (UFCW)
-- Ohio Nurses Association
-- United Auto Workers (UAW)
-- United Mine Workers of America (UMWA)
-- Industrial Division of the Communications Workers of America (IUE-CWA)
-- International Union of Painters & Allied Trades District 6 (IUPAT)
-- The International Brotherhood of Electrical Workers (IBEW)
-- The American Federation of Government Employees (AFGE)
-- Ohio Education Association
-- Ohio AFL-CIO
-- The Communications Workers of America District 4
-- American Federation of State, County and Municipal Employees (AFSCME) Council 8
-- Ohio Civil Service Employees Association (OCSEA)
-- Ohio Association of Public School Employees (OAPSE)
-- Ohio Federation of Teachers (OFT)
-- Ohio Postal Workers Union (OPWU)
-- American Federation of State, County and Municipal Employees (AFSCME) Retirees Chapter 1184
-- Planned Parenthood of Greater Ohio
-- Service Employees International Union (SEIU)
-- Service Employees International Union (SEIU) District 1199
-- Service Employees International Union (SEIU) Local 1
-- EMILYs List
-- 314 Action Fund
-- Nurses for America
-- The Ohio Conference of the American Association of University Professors (OCAAUP)
+Skip to content Click here to read Amy's Affordability Agenda Click here to read Amy's Affordability Agenda About Meet Amy Meet David Priorities On the Issues ActON Agenda Endorsements News Store Vote About Meet Amy Meet David Priorities On the Issues ActON Agenda Endorsements News Store Vote Facebook X-twitter Instagram Youtube Tiktok Get Involved Get Involved Donate Donate Donate Donate Amy acton's Endorsements Amalgamated Transit Union National Security Leaders for America Ohio Patrolmen’s Benevolent Association Upper Ohio Valley Building and Construction Trades Council Bricklayers and Allied Craftworkers Local 23 Ohio Association of Professional Fire Fighters Ohio Iron Workers Association Ohio Environmental Council Action Fund Ohio State Council of Machinists Greater Cincinnati Building and Construction Trades Council Lima Building and Construction Trades Council United Steelworkers District 1 Western Reserve Building Trades Council North Central Ohio Building and Construction Trades Council Columbus/Central Ohio Building and Construction Trades Council Dayton Building and Constructions Trades Council Ohio State Association of Letter Carriers United Food and Commercial Workers International Union (UFCW) Ohio Nurses Association United Auto Workers (UAW) United Mine Workers of America (UMWA) Industrial Division of the Communications Workers of America (IUE-CWA) International Union of Painters & Allied Trades District 6 (IUPAT) The International Brotherhood of Electrical Workers (IBEW) The American Federation of Government Employees (AFGE) Ohio Education Association Ohio AFL-CIO The Communications Workers of America District 4 American Federation of State, County and Municipal Employees (AFSCME) Council 8 Ohio Civil Service Employees Association (OCSEA) Ohio Association of Public School Employees (OAPSE) Ohio Federation of Teachers (OFT) Ohio Postal Workers Union (OPWU) American Federation of State, County and Municipal Employees (AFSCME) Retirees Chapter 1184 Planned Parenthood of Greater Ohio Service Employees International Union (SEIU) Service Employees International Union (SEIU) District 1199 Service Employees International Union (SEIU) Local 1 EMILYs List 314 Action Fund Nurses for America The Ohio Conference of the American Association of University Professors (OCAAUP) Donate to Stand with Amy for Ohio $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+Join Team Amy SMS Terms: By entering your phone number and checking the box, you agree to receive periodic automated text messages about donating and voter contact.
+Msg Frequency varies.
+Msg & Data rates May apply.
+Text STOP to opt-out.
+For questions please reach out to [email protected] .
+Your mobile information will not be shared with third parties/affiliates for marketing/promotional purposes.
+To learn more about Ohioans for Amy Acton’s personal information handling practices review the Privacy Notice.
+Privacy Policy Facebook X-twitter Instagram Youtube Tiktok Donate Donate About Issues Agenda Endorsements News Store Vote Get Involved Donate by Mail: Ohioans for Amy Acton and David Pepper PO BOX 15067 Columbus, OH 43215 [email protected] • [email protected] Privacy Policy Accessibility Press Inquiry Job Openings Contact Us Paid for by Ohioans for Amy Acton and David Pepper Powered by Apollo About Meet Amy Meet David Priorities On the Issues ActON Agenda Endorsements News Store Vote Get Involved Get Involved Donate Donate Facebook X-twitter Instagram Youtube Tiktok Stand with Dr.
+Amy Acton $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Other Amount Other Amount Click on an amount to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately.

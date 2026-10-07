@@ -1,37 +1,158 @@
 [
-"http://nxtgenagency.com/",
-"https://alexforwi.com/",
-"https://alexforwi.com/accessibility",
-"https://alexforwi.com/brand-toolkit",
-"https://alexforwi.com/contact",
-"https://alexforwi.com/jobs",
-"https://alexforwi.com/media-kit",
-"https://alexforwi.com/meet-alex",
-"https://alexforwi.com/news",
-"https://alexforwi.com/photos",
-"https://alexforwi.com/privacy-policy",
-"https://alexforwi.com/solutions",
-"https://alexforwi.com/volunteer",
-"https://alexforwi.com/vote",
-"https://cbs58.com/news/legislators-community-members-call-for-increased-child-care-funding-in-state-budget",
-"https://facebook.com/alexforwi",
-"https://facebook.com/alexforwi/events",
-"https://hngnews.com/tribune_enterprise/news/local/in-westport-highway-and-local-officials-celebrate-end-to-hwy-m-project/article_2a89a254-ad67-4f18-abe0-b44ad6e012d9.html",
-"https://hngnews.com/tribune_enterprise/news/regional/lawmakers-seek-to-create-college-savings-fund-for-wisconsin-kids/article_0d5cca72-6d65-42e9-a495-ae4978748e43.html",
-"https://hngnews.com/tribune_enterprise/opinion/columns/support-small-scale-farmers-and-local-businesses/article_2b0b5878-5c0b-4be5-9adf-781f20de18c4.html",
-"https://instagram.com/alexforwi",
-"https://madison.com/74311698-a011-4966-87cb-ed985bb4b4d7.html",
-"https://msn.com/en-us/money/companies/construction-begins-for-rural-dane-county-internet-upgrade-project/ar-AA1KxO5M",
-"https://secure.actblue.com/donate/joersreelection",
-"https://secure.actblue.com/donate/joersreelection?amount=10",
-"https://secure.actblue.com/donate/joersreelection?amount=100",
-"https://secure.actblue.com/donate/joersreelection?amount=15",
-"https://secure.actblue.com/donate/joersreelection?amount=5",
-"https://secure.actblue.com/donate/joersreelection?amount=50",
-"https://spectrumnews1.com/wi/milwaukee/news/2025/11/24/assembly-honors-volunteer-who-helps-fight-food-insecurity",
-"https://wispolitics.com/2026/rep-joers-leads-child-care-plan-to-cut-costs-for-wisconsin-families",
-"https://wkow.com/news/top-stories/dads-care-for-child-care-event-highlights-need-for-state-funding/article_3f4c37e6-0e9d-4fc4-813d-9b860b807d81.html",
-"https://wortfm.org/dads-speak-up-for-child-care",
-"https://wortfm.org/state-democrats-introduce-child-care-funding-bill",
-"https://wortfm.org/wisconsin-democrats-renew-call-for-paid-medical-and-family-leave"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/joersreelection?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/joersreelection?amount=100"
+},
+{
+"text": "$15",
+"href": "https://secure.actblue.com/donate/joersreelection?amount=15"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/joersreelection?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/joersreelection?amount=50"
+},
+{
+"text": "Accessibility",
+"href": "https://www.alexforwi.com/accessibility"
+},
+{
+"text": "Brand Tool Kit",
+"href": "https://www.alexforwi.com/brand-toolkit"
+},
+{
+"text": "Click to read full story",
+"href": "https://cbs58.com/news/legislators-community-members-call-for-increased-child-care-funding-in-state-budget"
+},
+{
+"text": "Click to read full story",
+"href": "https://madison.com/74311698-a011-4966-87cb-ed985bb4b4d7.html"
+},
+{
+"text": "Click to read full story",
+"href": "https://spectrumnews1.com/wi/milwaukee/news/2025/11/24/assembly-honors-volunteer-who-helps-fight-food-insecurity"
+},
+{
+"text": "Click to read full story",
+"href": "https://www.hngnews.com/tribune_enterprise/news/local/in-westport-highway-and-local-officials-celebrate-end-to-hwy-m-project/article_2a89a254-ad67-4f18-abe0-b44ad6e012d9.html"
+},
+{
+"text": "Click to read full story",
+"href": "https://www.hngnews.com/tribune_enterprise/opinion/columns/support-small-scale-farmers-and-local-businesses/article_2b0b5878-5c0b-4be5-9adf-781f20de18c4.html"
+},
+{
+"text": "Click to read full story",
+"href": "https://www.msn.com/en-us/money/companies/construction-begins-for-rural-dane-county-internet-upgrade-project/ar-AA1KxO5M"
+},
+{
+"text": "Click to read full story",
+"href": "https://www.wkow.com/news/top-stories/dads-care-for-child-care-event-highlights-need-for-state-funding/article_3f4c37e6-0e9d-4fc4-813d-9b860b807d81.html"
+},
+{
+"text": "Click to read full story",
+"href": "https://www.wortfm.org/dads-speak-up-for-child-care/"
+},
+{
+"text": "Click to read full story",
+"href": "https://www.wortfm.org/state-democrats-introduce-child-care-funding-bill/"
+},
+{
+"text": "Contact",
+"href": "https://www.alexforwi.com/contact"
+},
+{
+"text": "District 81",
+"href": "https://www.alexforwi.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/joersreelection"
+},
+{
+"text": "Events",
+"href": "https://www.facebook.com/alexforwi/events"
+},
+{
+"text": "Home",
+"href": "https://www.alexforwi.com"
+},
+{
+"text": "Jobs",
+"href": "https://www.alexforwi.com/jobs"
+},
+{
+"text": "Media Kit",
+"href": "https://www.alexforwi.com/media-kit"
+},
+{
+"text": "Meet Alex",
+"href": "https://www.alexforwi.com/meet-alex"
+},
+{
+"text": "News",
+"href": "https://www.alexforwi.com/news"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/joersreelection"
+},
+{
+"text": "Photos",
+"href": "https://www.alexforwi.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.alexforwi.com/privacy-policy"
+},
+{
+"text": "Sign up to volunteer and request a yard sign →",
+"href": "https://www.alexforwi.com/volunteer"
+},
+{
+"text": "Solutions",
+"href": "https://www.alexforwi.com/solutions"
+},
+{
+"text": "Volunteer & Yard Signs",
+"href": "https://www.alexforwi.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.alexforwi.com/vote"
+},
+{
+"text": "Website Made by NXTGEN Agency",
+"href": "http://nxtgenagency.com"
+},
+{
+"text": "[image: Logo on Dark No Background.png]",
+"href": "https://www.alexforwi.com"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.facebook.com/alexforwi"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.instagram.com/alexforwi/"
+},
+{
+"text": "[no text]",
+"href": "https://www.hngnews.com/tribune_enterprise/news/regional/lawmakers-seek-to-create-college-savings-fund-for-wisconsin-kids/article_0d5cca72-6d65-42e9-a495-ae4978748e43.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.wispolitics.com/2026/rep-joers-leads-child-care-plan-to-cut-costs-for-wisconsin-families/"
+},
+{
+"text": "[no text]",
+"href": "https://www.wortfm.org/wisconsin-democrats-renew-call-for-paid-medical-and-family-leave/"
+}
 ]

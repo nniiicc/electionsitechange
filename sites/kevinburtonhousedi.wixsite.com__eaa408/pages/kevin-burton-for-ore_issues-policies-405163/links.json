@@ -1,14 +1,50 @@
 [
-"http://facebook.com/",
-"https://kevinburtonhousedi.wixsite.com/kevin-burton-for-ore",
-"https://kevinburtonhousedi.wixsite.com/kevin-burton-for-ore/blank",
-"https://kevinburtonhousedi.wixsite.com/kevin-burton-for-ore/contact",
-"https://kevinburtonhousedi.wixsite.com/kevin-burton-for-ore/issues-policies",
-"https://paypal.com/donate?business=BQSF4PSA34Q6L&no_recurring=0&currency_code=USD",
-"https://wixharmony.com/",
-"https://youtube.com/watch?v=73iQK4n891k",
-"https://youtube.com/watch?v=JMRGNGlGl1g",
-"https://youtube.com/watch?v=MerSEtN_Ak8",
-"https://youtube.com/watch?v=YoNE3-TfVMI",
-"https://youtube.com/watch?v=em6bnms_NmA"
+{
+"text": "Built on",
+"href": "https://wixharmony.com"
+},
+{
+"text": "Contact",
+"href": "https://kevinburtonhousedi.wixsite.com/kevin-burton-for-ore/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.paypal.com/donate/?business=BQSF4PSA34Q6L&no_recurring=0&currency_code=USD"
+},
+{
+"text": "Home",
+"href": "https://kevinburtonhousedi.wixsite.com/kevin-burton-for-ore"
+},
+{
+"text": "Issues & Policies",
+"href": "https://kevinburtonhousedi.wixsite.com/kevin-burton-for-ore/issues-policies"
+},
+{
+"text": "Round Table Talks 1 With Oregon Candidates",
+"href": "https://www.youtube.com/watch?v=JMRGNGlGl1g"
+},
+{
+"text": "Round Table Talks 3 with Oregon Candidates ( CALL TO ACTION!!!!!) - YouTube",
+"href": "https://www.youtube.com/watch?v=73iQK4n891k"
+},
+{
+"text": "Round Table Talks Episode 4 with Oregon Candidates",
+"href": "https://www.youtube.com/watch?v=MerSEtN_Ak8"
+},
+{
+"text": "Round Table Talks Episode 5 with Oregon Candidates - YouTube",
+"href": "https://www.youtube.com/watch?v=em6bnms_NmA"
+},
+{
+"text": "Round table meeting 2",
+"href": "https://www.youtube.com/watch?v=YoNE3-TfVMI"
+},
+{
+"text": "Thoughts from Kevin",
+"href": "https://kevinburtonhousedi.wixsite.com/kevin-burton-for-ore/blank"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+}
 ]

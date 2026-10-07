@@ -1,13 +1,58 @@
 [
-"https://curtmassie.com/",
-"https://curtmassie.com/?page_id=732",
-"https://curtmassie.com/about-curt-massie-for-house",
-"https://curtmassie.com/advocate-for-businesses",
-"https://curtmassie.com/advocate-for-south-dakota-taxpayers",
-"https://curtmassie.com/category/news",
-"https://curtmassie.com/contact-curt-form",
-"https://curtmassie.com/district-33-map",
-"https://curtmassie.com/farm-ranch-advocacy",
-"https://curtmassie.com/more-about-curt-massie",
-"https://secure.winred.com/curt-massie-for-sd/donate"
+{
+"text": "605-389-7345",
+"href": "tel:605-389-7345"
+},
+{
+"text": "About Curt",
+"href": "https://www.curtmassie.com/about-curt-massie-for-house/"
+},
+{
+"text": "Agriculture",
+"href": "https://www.curtmassie.com/farm-ranch-advocacy/"
+},
+{
+"text": "Businesses",
+"href": "https://www.curtmassie.com/advocate-for-businesses/"
+},
+{
+"text": "Contact Curt",
+"href": "https://www.curtmassie.com/?page_id=732"
+},
+{
+"text": "Contact Curt",
+"href": "https://www.curtmassie.com/contact-curt-form/"
+},
+{
+"text": "Curt.Massie@sdlegislature.gov",
+"href": "mailto:Curt.Massie@sdlegislature.gov"
+},
+{
+"text": "District 33 Map",
+"href": "https://www.curtmassie.com/district-33-map/"
+},
+{
+"text": "Home",
+"href": "https://www.curtmassie.com/"
+},
+{
+"text": "More About Curt",
+"href": "https://www.curtmassie.com/more-about-curt-massie/"
+},
+{
+"text": "News",
+"href": "https://www.curtmassie.com/category/news/"
+},
+{
+"text": "Taxpayers",
+"href": "https://www.curtmassie.com/advocate-for-south-dakota-taxpayers/"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/curt-massie-for-sd/donate"
+},
+{
+"text": "[image]",
+"href": "https://www.curtmassie.com/"
+}
 ]

@@ -1,30 +1,154 @@
 [
-"https://bsky.app/profile/jennaarsenault.bsky.social",
-"https://cfequality.org/",
-"https://designedtorun.com/",
-"https://facebook.com/jennaarsenaultforsc",
-"https://inseparable.us/",
-"https://instagram.com/jennaarsenaultforsc",
-"https://jennasc.com/",
-"https://jennasc.com/about",
-"https://jennasc.com/contact",
-"https://jennasc.com/district-112",
-"https://jennasc.com/events",
-"https://jennasc.com/issues",
-"https://jennasc.com/privacy-policy",
-"https://jennasc.com/volunteer",
-"https://momsdemandaction.org/",
-"https://plannedparenthoodaction.org/planned-parenthood-votes-south-atlantic",
-"https://scvotes.gov/voters/absentee-voting",
-"https://scvotes.gov/voters/early-voting",
-"https://scvotes.gov/voters/register-to-vote",
-"https://secure.actblue.com/donate/ja112website",
-"https://secure.actblue.com/donate/ja112website?amount=10",
-"https://secure.actblue.com/donate/ja112website?amount=100",
-"https://secure.actblue.com/donate/ja112website?amount=25",
-"https://secure.actblue.com/donate/ja112website?amount=250",
-"https://secure.actblue.com/donate/ja112website?amount=50",
-"https://thescea.org/",
-"https://votecommongood.com/",
-"https://vrems.scvotes.sc.gov/Voter/Login?PageMode=VoterInformation"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/ja112website?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/ja112website?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/ja112website?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/ja112website?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/ja112website?amount=50"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://vrems.scvotes.sc.gov/Voter/Login?PageMode=VoterInformation"
+},
+{
+"text": "Contact",
+"href": "https://www.jennasc.com/contact"
+},
+{
+"text": "District 112",
+"href": "https://www.jennasc.com/district-112"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ja112website"
+},
+{
+"text": "Early voting info",
+"href": "https://scvotes.gov/voters/early-voting/"
+},
+{
+"text": "Events",
+"href": "https://www.jennasc.com/events"
+},
+{
+"text": "Learn more",
+"href": "https://www.jennasc.com/about"
+},
+{
+"text": "Let's Connect",
+"href": "https://www.jennasc.com/contact"
+},
+{
+"text": "Meet Jenna",
+"href": "https://www.jennasc.com/about"
+},
+{
+"text": "Messaging Terms & Condition",
+"href": "https://www.jennasc.com/privacy-policy"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/ja112website"
+},
+{
+"text": "Priorities",
+"href": "https://www.jennasc.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jennasc.com/privacy-policy"
+},
+{
+"text": "Privacy Policy and Messaging Terms and Conditions",
+"href": "https://www.jennasc.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://scvotes.gov/voters/register-to-vote/"
+},
+{
+"text": "Request an absentee/mail ballot",
+"href": "https://scvotes.gov/voters/absentee-voting/"
+},
+{
+"text": "Sign up",
+"href": "https://www.jennasc.com/volunteer"
+},
+{
+"text": "View More",
+"href": "https://www.jennasc.com/events"
+},
+{
+"text": "View More",
+"href": "https://www.jennasc.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jennasc.com/volunteer"
+},
+{
+"text": "[image: Jenna Arsenault for South Carolina House District 112]",
+"href": "https://www.jennasc.com/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.cfequality.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.inseparable.us/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-votes-south-atlantic"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.thescea.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.votecommongood.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jennaarsenault.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/jennaarsenaultforsc"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/jennaarsenaultforsc"
+},
+{
+"text": "info@JennaSC.com",
+"href": "mailto:info@JennaSC.com"
+},
+{
+"text": "jenna@jennasc.com",
+"href": "mailto:jenna@jennasc.com"
+}
 ]

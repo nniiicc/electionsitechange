@@ -1,28 +1,13 @@
-News Articles
-Lisbon congressional hopeful holds town hall meeting in Potsdam
-April 15, 2025
-The Lisbon farmer and small business owner Blake Gendebien hosted the fourth town hall of his campaign to represent NY-21 in Potsdam.
-The Canadian-upstate commerce deep freeze
-April 14, 2025
-Canadian tourists are freezing out the United States over President Donald Trump's annexation threat, his trade war and border lockups.
-NY 21st District Democratic Congressional candidate Blake Gendebien holds a town hall in Plattsburgh
-April 9, 2025
-The candidate chosen by county Democratic chairs is continuing his campaign for the general election in 2026.
-Blake Gendebien pitches unity in NY-21 bid
-April 4, 2025
-Congressional candidate Blake Gendebien told nearly 80 people gathered for a town hall on Thursday, April 3, that he wants...
-Gendebien, running for congress, says Washington “really failed the north country”
-March 4, 2025
-Lisbon dairy farmer Blake Gendebien would change that.
+Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate News Articles Lisbon congressional hopeful holds town hall meeting in Potsdam April 15, 2025 News Article • North Country Now The Lisbon farmer and small business owner Blake Gendebien hosted the fourth town hall of his campaign to represent NY-21 in Potsdam.
+Read More The Canadian-upstate commerce deep freeze April 14, 2025 News Article • POLITICO New York Playbook Canadian tourists are freezing out the United States over President Donald Trump's annexation threat, his trade war and border lockups.
+Read More NY 21st District Democratic Congressional candidate Blake Gendebien holds a town hall in Plattsburgh April 9, 2025 News Article • WAMC The candidate chosen by county Democratic chairs is continuing his campaign for the general election in 2026.
+Read More Blake Gendebien pitches unity in NY-21 bid April 4, 2025 News Article • Rome Sentinel Congressional candidate Blake Gendebien told nearly 80 people gathered for a town hall on Thursday, April 3, that he wants...
+Read More Gendebien, running for congress, says Washington “really failed the north country” March 4, 2025 News Article • WWNY Lisbon dairy farmer Blake Gendebien would change that.
 “DC has really failed the north country by bickering over partisan politics.
 That's not what I'm here to ...
-Can This New York Dairy Farmer Turn Elise Stefanik’s Red District Blue?
-February 27, 2025
-Democrats picked Blake Gendebien, a farmer and small business owner, as their nominee in the race to replace Rep.
+Read More Can This New York Dairy Farmer Turn Elise Stefanik’s Red District Blue?
+February 27, 2025 News Article • Newsweek Democrats picked Blake Gendebien, a farmer and small business owner, as their nominee in the race to replace Rep.
 Stefanik in the NY-21...
-Democratic county chairs support dairy farmer Blake Gendebien to run in NY-21 special election
-February 4, 2025
-The 15 Democratic county chairs in New York's 21st district have selected their candidate for a special election to fill the seat being vacated by Republican...
-Gendebien pitches independent, practical approach
-January 30, 2025
-The Lisbon-area farmer has started up a campaign, as a Democrat, to become the next Congressman for New York's 21st Congressional District in...
+Read More Democratic county chairs support dairy farmer Blake Gendebien to run in NY-21 special election February 4, 2025 News Article • WAMC The 15 Democratic county chairs in New York's 21st district have selected their candidate for a special election to fill the seat being vacated by Republican...
+Read More Gendebien pitches independent, practical approach January 30, 2025 News Article • Watertown Daily Times The Lisbon-area farmer has started up a campaign, as a Democrat, to become the next Congressman for New York's 21st Congressional District in...
+Read More < 1 … 3 4 5 Donate Paid for by Blake for The North Country General Inquiries: info@blakeforny.com Press Inquiries: press@blakeforny.com Blake for The North Country PO Box 39, Lisbon, NY 13658 Privacy Policy Copyright © # ↑

@@ -1,115 +1,462 @@
 [
-"http://x.com/amaadair",
-"https://amaadforgb.com/",
-"https://amaadforgb.com/about",
-"https://amaadforgb.com/cart",
-"https://amaadforgb.com/contact",
-"https://amaadforgb.com/in-the-community",
-"https://amaadforgb.com/in-the-community?itemId=06ffnr0ivac7jtxi81tamrrc5zjcvq",
-"https://amaadforgb.com/in-the-community?itemId=078hk00lt2fdsracknjtbbki5fea9l",
-"https://amaadforgb.com/in-the-community?itemId=0o6d030nhm8y5wq2i51qb3xjx9bnh8",
-"https://amaadforgb.com/in-the-community?itemId=0vo7ye00zo8wkp3vcames2r9qi1eoq",
-"https://amaadforgb.com/in-the-community?itemId=0xonlzrzto99zmz480qkuzoydkhs2r",
-"https://amaadforgb.com/in-the-community?itemId=118kfvrdcyvfnd636omdkqtij9kt9r",
-"https://amaadforgb.com/in-the-community?itemId=1diub5vld9yc9kq511grzp1adpmu63",
-"https://amaadforgb.com/in-the-community?itemId=20jcifo4pb24usnps77vqss385bgm1",
-"https://amaadforgb.com/in-the-community?itemId=23tvjdufrpl0bwcyxtrjm6wqzqsvra",
-"https://amaadforgb.com/in-the-community?itemId=2568o800uknb3xr1hq5l6pzol691o8",
-"https://amaadforgb.com/in-the-community?itemId=2wtbvpmfy23a4z06g8qcjdtpu3sb7v",
-"https://amaadforgb.com/in-the-community?itemId=3xg37ya9i8xjya82740a9ym3eeoau7",
-"https://amaadforgb.com/in-the-community?itemId=43k3iho97z5up8isxxzuo35gz9klxq",
-"https://amaadforgb.com/in-the-community?itemId=4b9ttmld9d2qklf3qsb4iyry3emj4t",
-"https://amaadforgb.com/in-the-community?itemId=4trs7poaqrmc4hqsjdwmgvr7hrw6km",
-"https://amaadforgb.com/in-the-community?itemId=5jptrxejwwdykg9vskfegfekcsjhow",
-"https://amaadforgb.com/in-the-community?itemId=6jqjyuz4jsqjoiyosg7z2t9f4829s8",
-"https://amaadforgb.com/in-the-community?itemId=6vm6cn1iqdx7ykfn03l20zufyo1k2p",
-"https://amaadforgb.com/in-the-community?itemId=6x3zgqdsr3uy1ek5w00lnovose74x2",
-"https://amaadforgb.com/in-the-community?itemId=6zziw215tklp3l00bff9jaq3kl2x51",
-"https://amaadforgb.com/in-the-community?itemId=7bm5wyghwfg7xk9rkb5pyd1x4w9cqm",
-"https://amaadforgb.com/in-the-community?itemId=7i4tu8pa9k6uvkphj7b5ja7tjyd8cu",
-"https://amaadforgb.com/in-the-community?itemId=7mnjof1vvgiaubx81ai8q0r4dpgplw",
-"https://amaadforgb.com/in-the-community?itemId=89hxi79edwktcpts0eql0zzl4wek7o",
-"https://amaadforgb.com/in-the-community?itemId=8kn6ind1eujmwmv0shp8y86mslv0br",
-"https://amaadforgb.com/in-the-community?itemId=9aerna1w6nju4yelf9lrhcmqkv4swu",
-"https://amaadforgb.com/in-the-community?itemId=a3sy2brzbgqq1b2t8i2kwb2imec0h2",
-"https://amaadforgb.com/in-the-community?itemId=ab2ajde3aoprldu1745fnfj3uh7ksu",
-"https://amaadforgb.com/in-the-community?itemId=aj7xkdiolmkg7qq7s7ibddk1cj95zk",
-"https://amaadforgb.com/in-the-community?itemId=ap0l50dpw2uwmzd5jaysyfugxo4fm7",
-"https://amaadforgb.com/in-the-community?itemId=b8a79rebhfmxmmtqks62ectxjp3s6x",
-"https://amaadforgb.com/in-the-community?itemId=bkb6jxqqrdtycqhzgczbb4vzofxjba",
-"https://amaadforgb.com/in-the-community?itemId=bxaiyrm86utir0nkl9vv8i4sk4t6ab",
-"https://amaadforgb.com/in-the-community?itemId=cfulx8ivas0oqu99jj98fvr6rnql7b",
-"https://amaadforgb.com/in-the-community?itemId=crjkowvauzly156cvh7rv04ohbga30",
-"https://amaadforgb.com/in-the-community?itemId=dakemx9fbo5ivq2giwbvn75cfmmcrw",
-"https://amaadforgb.com/in-the-community?itemId=e1soj2vx2upvx81m9xm759pdgmmfkt",
-"https://amaadforgb.com/in-the-community?itemId=em8tvopju15i7cdqjccdm8tt7ln6ih",
-"https://amaadforgb.com/in-the-community?itemId=eo5pk5indql7ac9dzxr7qmyd6prp8p",
-"https://amaadforgb.com/in-the-community?itemId=fuyzxxezxd0vudhdcs4qd0l1wy5d5y",
-"https://amaadforgb.com/in-the-community?itemId=g57b8ujbas6v44bqp078zqbk2itf9f",
-"https://amaadforgb.com/in-the-community?itemId=glr4xajb4v2jxmbzu5z42ap0qsesr3",
-"https://amaadforgb.com/in-the-community?itemId=gt4lwvwzvx1qp3psigage8bs5oailt",
-"https://amaadforgb.com/in-the-community?itemId=gvrdsr80o8dwl1u8n84t05gpypc1ug",
-"https://amaadforgb.com/in-the-community?itemId=h12j9o3ir2i43r2get1thlarta4lq3",
-"https://amaadforgb.com/in-the-community?itemId=h5v6kxijq9956xw2xexh6kwyiitczn",
-"https://amaadforgb.com/in-the-community?itemId=h7q8wjksea3algc1yvp9fyx3tv951p",
-"https://amaadforgb.com/in-the-community?itemId=hhlj3mjjve9ybi198dy0tav11uorjh",
-"https://amaadforgb.com/in-the-community?itemId=hoy1ww1xy7a6hliav3mirut6iwnvjj",
-"https://amaadforgb.com/in-the-community?itemId=i1lu2t1bnetesxhzl9rycrgnxz61c7",
-"https://amaadforgb.com/in-the-community?itemId=ib3k7zeywj8wqo51o5fi41zkw0godg",
-"https://amaadforgb.com/in-the-community?itemId=is4w7fwsziizyompye4i1u5edq17ff",
-"https://amaadforgb.com/in-the-community?itemId=jb7bvts8c6wzkccijve4y0kf3nezl9",
-"https://amaadforgb.com/in-the-community?itemId=jin8i7zkp82l81t87sw4whgunxa343",
-"https://amaadforgb.com/in-the-community?itemId=k4sah909h0dlxhx52qt03fvyzwfban",
-"https://amaadforgb.com/in-the-community?itemId=l2n84v1duea35gi95ei8dfwj6j1wex",
-"https://amaadforgb.com/in-the-community?itemId=myxg9femjb5kx339cuygicg52jupqc",
-"https://amaadforgb.com/in-the-community?itemId=n1uoyvp6wkiv5sd2errw8u7fo48rew",
-"https://amaadforgb.com/in-the-community?itemId=n6eth41f5ucqsje86rwa101ahq4p2q",
-"https://amaadforgb.com/in-the-community?itemId=o653psf9vyrbqah9yjr6csubcw3rhy",
-"https://amaadforgb.com/in-the-community?itemId=o9cu5adhn78u01kykl9xrf7q8oudt8",
-"https://amaadforgb.com/in-the-community?itemId=p6kq1k1wm4h5plj4buxv6pndfmp70j",
-"https://amaadforgb.com/in-the-community?itemId=pw1azfhzaz45wc1mnbkm50qkm1pof3",
-"https://amaadforgb.com/in-the-community?itemId=q9exu6adi9x1k4rhdl7p5rzky5j6oq",
-"https://amaadforgb.com/in-the-community?itemId=qpwfnz1c7qhmnebybxvz8z5nhawb4h",
-"https://amaadforgb.com/in-the-community?itemId=srjnivrw36pqdbc0si8m1sq72wdnrq",
-"https://amaadforgb.com/in-the-community?itemId=t5mp2zkvw2rtrutiydk5813gck2ikc",
-"https://amaadforgb.com/in-the-community?itemId=tjhodrfmy3k1hot0s10k6x5zqjw6xk",
-"https://amaadforgb.com/in-the-community?itemId=twc9nv8yvc0mxtxysarlgk6vye8uvn",
-"https://amaadforgb.com/in-the-community?itemId=tz3k422anj9c421bhg2hg8k7uo0zaw",
-"https://amaadforgb.com/in-the-community?itemId=tzhlbqokymbbs2pnnau6c30xepcqxi",
-"https://amaadforgb.com/in-the-community?itemId=ubdlm0u9pd7tw9t2p7mt9rwad0ocke",
-"https://amaadforgb.com/in-the-community?itemId=un9e0jrna3qvb1wbeldkp07ybwud7m",
-"https://amaadforgb.com/in-the-community?itemId=ur0yz563njdmwvc009c5kn8ops655h",
-"https://amaadforgb.com/in-the-community?itemId=v01gnz5qkoav9fip5aoa1wtt9kv1q4",
-"https://amaadforgb.com/in-the-community?itemId=v42eme4dsyrz4ybn0ik4e46z8lqg9c",
-"https://amaadforgb.com/in-the-community?itemId=v9bvytxs7czkavqzcni0aohrsprlxu",
-"https://amaadforgb.com/in-the-community?itemId=vce24tl11ezyxg5o9317bxe29xgrjg",
-"https://amaadforgb.com/in-the-community?itemId=ve2nffs8mtvpqyjx9n1olo6k73dtve",
-"https://amaadforgb.com/in-the-community?itemId=vo7c2dbia8gw8e6vlt5sej43n8wg9b",
-"https://amaadforgb.com/in-the-community?itemId=vp55xdysrhsdrqoqgk8jz13celw8pv",
-"https://amaadforgb.com/in-the-community?itemId=wfj3ldf2vim2j8l9gxtldsyns3a710",
-"https://amaadforgb.com/in-the-community?itemId=wrd2zlzhhj86hetbr625qjroyqk66y",
-"https://amaadforgb.com/in-the-community?itemId=wxwyeqpscig81tqclafxgxgvfaodaz",
-"https://amaadforgb.com/in-the-community?itemId=x4ynqbeccnuelg9zclup22lmdif34w",
-"https://amaadforgb.com/in-the-community?itemId=x5589r40qj7gow172nh1wx8xp246ea",
-"https://amaadforgb.com/in-the-community?itemId=x5iyaggu3qag7ux5ry3ixct1o65tyt",
-"https://amaadforgb.com/in-the-community?itemId=x7mhggqyay57pyy60qq78rz126rxda",
-"https://amaadforgb.com/in-the-community?itemId=xqhp3f5f572jn6w30kkzxlbyrxryev",
-"https://amaadforgb.com/in-the-community?itemId=y0twhj1vyq5lusc3gmnxf2rfew8ai9",
-"https://amaadforgb.com/in-the-community?itemId=y2b5yu1qfhdfhx45kmjju9zelxggve",
-"https://amaadforgb.com/in-the-community?itemId=y4nikn0nrgzjiklqitlglzm5tiea91",
-"https://amaadforgb.com/in-the-community?itemId=y5jy0lvy0sdaf6cnzuel211zv2xqy4",
-"https://amaadforgb.com/in-the-community?itemId=yfyt3a4g7tkpsfw6te41zlfj7ix6dl",
-"https://amaadforgb.com/in-the-community?itemId=ymwqbcuuuxsp8rovuafkb1h9yn1hoh",
-"https://amaadforgb.com/in-the-community?itemId=z0az1hpfgrwfobaj7ehxl3ogp40o66",
-"https://amaadforgb.com/in-the-community?itemId=zda1suslai21pom6du3y8giy9nzdju",
-"https://amaadforgb.com/in-the-community?itemId=zeta1e0d30p4wg8eyrqme77c9j6rpb",
-"https://amaadforgb.com/in-the-community?itemId=zulx63xlefj2po4k2bbmejk6a5y5x2",
-"https://amaadforgb.com/issues",
-"https://amaadforgb.com/record",
-"https://amaadforgb.com/volunteer",
-"https://amaadforgb.com/why",
-"https://demo.app.scaletowin.com/public/scaletowin/privacy",
-"https://demo.app.scaletowin.com/public/scaletowin/terms",
-"https://facebook.com/amaadforgb",
-"https://secure.actblue.com/donate/friends-of-amaad-rivera-wagner-1"
+{
+"text": "0",
+"href": "https://www.amaadforgb.com/cart"
+},
+{
+"text": "About Amaad",
+"href": "https://www.amaadforgb.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://www.amaadforgb.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-amaad-rivera-wagner-1"
+},
+{
+"text": "In the Community",
+"href": "https://www.amaadforgb.com/in-the-community"
+},
+{
+"text": "Issues",
+"href": "https://www.amaadforgb.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://demo.app.scaletowin.com/public/scaletowin/privacy"
+},
+{
+"text": "Record",
+"href": "https://www.amaadforgb.com/record"
+},
+{
+"text": "Terms",
+"href": "https://demo.app.scaletowin.com/public/scaletowin/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.amaadforgb.com/volunteer"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.amaadforgb.com/why"
+},
+{
+"text": "[image: 05d12d0c-e7a9-4756-9860-a085c5eb3155.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=y4nikn0nrgzjiklqitlglzm5tiea91"
+},
+{
+"text": "[image: 1000048883.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=tjhodrfmy3k1hot0s10k6x5zqjw6xk"
+},
+{
+"text": "[image: 1482411615182885383.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=l2n84v1duea35gi95ei8dfwj6j1wex"
+},
+{
+"text": "[image: 20250624 Hometown Hero AJ Dillon_AI-22.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=h7q8wjksea3algc1yvp9fyx3tv951p"
+},
+{
+"text": "[image: 279511195370871798.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=x5iyaggu3qag7ux5ry3ixct1o65tyt"
+},
+{
+"text": "[image: 4075452153421448206.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=ve2nffs8mtvpqyjx9n1olo6k73dtve"
+},
+{
+"text": "[image: 4317188306793158412.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=twc9nv8yvc0mxtxysarlgk6vye8uvn"
+},
+{
+"text": "[image: Amaad Rivera Wagner for Assembly]",
+"href": "https://www.amaadforgb.com/"
+},
+{
+"text": "[image: FullSizeRender.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=yfyt3a4g7tkpsfw6te41zlfj7ix6dl"
+},
+{
+"text": "[image: IMG_0533.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=x7mhggqyay57pyy60qq78rz126rxda"
+},
+{
+"text": "[image: IMG_0939.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=v9bvytxs7czkavqzcni0aohrsprlxu"
+},
+{
+"text": "[image: IMG_1064.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=bxaiyrm86utir0nkl9vv8i4sk4t6ab"
+},
+{
+"text": "[image: IMG_1104.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=hhlj3mjjve9ybi198dy0tav11uorjh"
+},
+{
+"text": "[image: IMG_1152.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=7mnjof1vvgiaubx81ai8q0r4dpgplw"
+},
+{
+"text": "[image: IMG_1449.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=5jptrxejwwdykg9vskfegfekcsjhow"
+},
+{
+"text": "[image: IMG_1451.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=srjnivrw36pqdbc0si8m1sq72wdnrq"
+},
+{
+"text": "[image: IMG_1481.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=4trs7poaqrmc4hqsjdwmgvr7hrw6km"
+},
+{
+"text": "[image: IMG_1619.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=a3sy2brzbgqq1b2t8i2kwb2imec0h2"
+},
+{
+"text": "[image: IMG_1849.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=e1soj2vx2upvx81m9xm759pdgmmfkt"
+},
+{
+"text": "[image: IMG_1858.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=i1lu2t1bnetesxhzl9rycrgnxz61c7"
+},
+{
+"text": "[image: IMG_1860.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=hoy1ww1xy7a6hliav3mirut6iwnvjj"
+},
+{
+"text": "[image: IMG_1878.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=v01gnz5qkoav9fip5aoa1wtt9kv1q4"
+},
+{
+"text": "[image: IMG_1906.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=t5mp2zkvw2rtrutiydk5813gck2ikc"
+},
+{
+"text": "[image: IMG_2005.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=y0twhj1vyq5lusc3gmnxf2rfew8ai9"
+},
+{
+"text": "[image: IMG_2041.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=ib3k7zeywj8wqo51o5fi41zkw0godg"
+},
+{
+"text": "[image: IMG_2047.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=glr4xajb4v2jxmbzu5z42ap0qsesr3"
+},
+{
+"text": "[image: IMG_2049.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=p6kq1k1wm4h5plj4buxv6pndfmp70j"
+},
+{
+"text": "[image: IMG_2057.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=wxwyeqpscig81tqclafxgxgvfaodaz"
+},
+{
+"text": "[image: IMG_2059.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=bkb6jxqqrdtycqhzgczbb4vzofxjba"
+},
+{
+"text": "[image: IMG_2152.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=h12j9o3ir2i43r2get1thlarta4lq3"
+},
+{
+"text": "[image: IMG_2173.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=h5v6kxijq9956xw2xexh6kwyiitczn"
+},
+{
+"text": "[image: IMG_2174.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=wrd2zlzhhj86hetbr625qjroyqk66y"
+},
+{
+"text": "[image: IMG_3250.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=z0az1hpfgrwfobaj7ehxl3ogp40o66"
+},
+{
+"text": "[image: IMG_3363.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=crjkowvauzly156cvh7rv04ohbga30"
+},
+{
+"text": "[image: IMG_3364.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=8kn6ind1eujmwmv0shp8y86mslv0br"
+},
+{
+"text": "[image: IMG_3847.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=myxg9femjb5kx339cuygicg52jupqc"
+},
+{
+"text": "[image: IMG_3891.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=eo5pk5indql7ac9dzxr7qmyd6prp8p"
+},
+{
+"text": "[image: IMG_4066.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=q9exu6adi9x1k4rhdl7p5rzky5j6oq"
+},
+{
+"text": "[image: IMG_4090.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=pw1azfhzaz45wc1mnbkm50qkm1pof3"
+},
+{
+"text": "[image: IMG_4418.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=6x3zgqdsr3uy1ek5w00lnovose74x2"
+},
+{
+"text": "[image: IMG_4477.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=7i4tu8pa9k6uvkphj7b5ja7tjyd8cu"
+},
+{
+"text": "[image: IMG_4495.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=43k3iho97z5up8isxxzuo35gz9klxq"
+},
+{
+"text": "[image: IMG_4501.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=o653psf9vyrbqah9yjr6csubcw3rhy"
+},
+{
+"text": "[image: IMG_4803.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=vo7c2dbia8gw8e6vlt5sej43n8wg9b"
+},
+{
+"text": "[image: IMG_4826.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=06ffnr0ivac7jtxi81tamrrc5zjcvq"
+},
+{
+"text": "[image: IMG_4841.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=un9e0jrna3qvb1wbeldkp07ybwud7m"
+},
+{
+"text": "[image: IMG_4865.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=jin8i7zkp82l81t87sw4whgunxa343"
+},
+{
+"text": "[image: IMG_4877.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=ab2ajde3aoprldu1745fnfj3uh7ksu"
+},
+{
+"text": "[image: IMG_4892.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=qpwfnz1c7qhmnebybxvz8z5nhawb4h"
+},
+{
+"text": "[image: IMG_4893.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=23tvjdufrpl0bwcyxtrjm6wqzqsvra"
+},
+{
+"text": "[image: IMG_4924.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=gt4lwvwzvx1qp3psigage8bs5oailt"
+},
+{
+"text": "[image: IMG_4946.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=x5589r40qj7gow172nh1wx8xp246ea"
+},
+{
+"text": "[image: IMG_5242.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=4b9ttmld9d2qklf3qsb4iyry3emj4t"
+},
+{
+"text": "[image: IMG_5257.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=0o6d030nhm8y5wq2i51qb3xjx9bnh8"
+},
+{
+"text": "[image: IMG_5347.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=jb7bvts8c6wzkccijve4y0kf3nezl9"
+},
+{
+"text": "[image: IMG_5364.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=n1uoyvp6wkiv5sd2errw8u7fo48rew"
+},
+{
+"text": "[image: IMG_5376.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=tzhlbqokymbbs2pnnau6c30xepcqxi"
+},
+{
+"text": "[image: IMG_9849.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=ap0l50dpw2uwmzd5jaysyfugxo4fm7"
+},
+{
+"text": "[image: Office Hours - Final.png] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=cfulx8ivas0oqu99jj98fvr6rnql7b"
+},
+{
+"text": "[image: Rivera-WagnerGalvin #2.png] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=xqhp3f5f572jn6w30kkzxlbyrxryev"
+},
+{
+"text": "[image: amaad-conversation.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=3xg37ya9i8xjya82740a9ym3eeoau7"
+},
+{
+"text": "[image: amaad-fire-chief.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=vp55xdysrhsdrqoqgk8jz13celw8pv"
+},
+{
+"text": "[image: amaad-speaking-mic.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=fuyzxxezxd0vudhdcs4qd0l1wy5d5y"
+},
+{
+"text": "[image: americorps-group.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=y5jy0lvy0sdaf6cnzuel211zv2xqy4"
+},
+{
+"text": "[image: assembly-citation-award.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=2wtbvpmfy23a4z06g8qcjdtpu3sb7v"
+},
+{
+"text": "[image: att.FJEwu4eRqNs3fTcKnS_X0KS8v33W4nm-4t38xW3WHOM.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=b8a79rebhfmxmmtqks62ectxjp3s6x"
+},
+{
+"text": "[image: att.TnCOJZcB44pLW46AZl3ykpi4NOJIe4ZwjKAjV5JG2Ts.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=is4w7fwsziizyompye4i1u5edq17ff"
+},
+{
+"text": "[image: blockchain-brew-forum.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=y2b5yu1qfhdfhx45kmjju9zelxggve"
+},
+{
+"text": "[image: canvassing-flyers.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=wfj3ldf2vim2j8l9gxtldsyns3a710"
+},
+{
+"text": "[image: capitol-award-ceremony.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=o9cu5adhn78u01kykl9xrf7q8oudt8"
+},
+{
+"text": "[image: capitol-group-photo.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=gvrdsr80o8dwl1u8n84t05gpypc1ug"
+},
+{
+"text": "[image: capitol-selfie.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=vce24tl11ezyxg5o9317bxe29xgrjg"
+},
+{
+"text": "[image: child-care-activity-table.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=v42eme4dsyrz4ybn0ik4e46z8lqg9c"
+},
+{
+"text": "[image: city-hall-group.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=n6eth41f5ucqsje86rwa101ahq4p2q"
+},
+{
+"text": "[image: community-cafe-meeting.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=ymwqbcuuuxsp8rovuafkb1h9yn1hoh"
+},
+{
+"text": "[image: community-office-grand-opening.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=20jcifo4pb24usnps77vqss385bgm1"
+},
+{
+"text": "[image: community-office-hours-hutchison.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=em8tvopju15i7cdqjccdm8tt7ln6ih"
+},
+{
+"text": "[image: community-office-hours-prestley.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=tz3k422anj9c421bhg2hg8k7uo0zaw"
+},
+{
+"text": "[image: estamos-aqui-festival.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=7bm5wyghwfg7xk9rkb5pyd1x4w9cqm"
+},
+{
+"text": "[image: estamos-aqui-mural.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=ur0yz563njdmwvc009c5kn8ops655h"
+},
+{
+"text": "[image: green-bay-does-derby.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=x4ynqbeccnuelg9zclup22lmdif34w"
+},
+{
+"text": "[image: gym-group-five.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=6zziw215tklp3l00bff9jaq3kl2x51"
+},
+{
+"text": "[image: image002.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=dakemx9fbo5ivq2giwbvn75cfmmcrw"
+},
+{
+"text": "[image: neighborworks-gala.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=ubdlm0u9pd7tw9t2p7mt9rwad0ocke"
+},
+{
+"text": "[image: neighborworks-green-bay.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=118kfvrdcyvfnd636omdkqtij9kt9r"
+},
+{
+"text": "[image: neighborworks-housing-forum.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=0xonlzrzto99zmz480qkuzoydkhs2r"
+},
+{
+"text": "[image: no-hate-here-rally.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=6jqjyuz4jsqjoiyosg7z2t9f4829s8"
+},
+{
+"text": "[image: office-group-photo.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=zeta1e0d30p4wg8eyrqme77c9j6rpb"
+},
+{
+"text": "[image: office-hours-on-the-bus.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=zda1suslai21pom6du3y8giy9nzdju"
+},
+{
+"text": "[image: oneida-pow-wow-50th.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=89hxi79edwktcpts0eql0zzl4wek7o"
+},
+{
+"text": "[image: outdoor-group-four.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=9aerna1w6nju4yelf9lrhcmqkv4swu"
+},
+{
+"text": "[image: photo.jpeg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=aj7xkdiolmkg7qq7s7ibddk1cj95zk"
+},
+{
+"text": "[image: pride-booth-group.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=g57b8ujbas6v44bqp078zqbk2itf9f"
+},
+{
+"text": "[image: pride-proud-shirt.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=1diub5vld9yc9kq511grzp1adpmu63"
+},
+{
+"text": "[image: rally-megaphone.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=078hk00lt2fdsracknjtbbki5fea9l"
+},
+{
+"text": "[image: school-visit-kids.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=6vm6cn1iqdx7ykfn03l20zufyo1k2p"
+},
+{
+"text": "[image: scouts-red-jackets.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=2568o800uknb3xr1hq5l6pzol691o8"
+},
+{
+"text": "[image: tenants-rights-workshop.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=k4sah909h0dlxhx52qt03fvyzwfban"
+},
+{
+"text": "[image: transit-bus-group.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=zulx63xlefj2po4k2bbmejk6a5y5x2"
+},
+{
+"text": "[image: veterans-wreath-ceremony.jpg] View fullsize",
+"href": "https://www.amaadforgb.com/in-the-community?itemId=0vo7ye00zo8wkp3vcames2r9qi1eoq"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/amaadair"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/amaadforgb/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@amaadforgb.com"
+},
+{
+"text": "info@amaadforgb.com",
+"href": "mailto:info@amaadforgb.com"
+}
 ]

@@ -1,34 +1,166 @@
 [
-"https://bsky.app/profile/jackperryct.bsky.social",
-"https://drive.google.com/file/d/1xsfeTxSqy3evqNybhvApjvGQ3D0KNKK3/view?pli=1",
-"https://facebook.com//jackperrySouthington",
-"https://instagram.com/jackperryct",
-"https://linktree.com/JackPerryCT",
-"https://mobilize.us/s/NOzG9s",
-"https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do",
-"https://portal.ct.gov/sots/election-services/early-voting/early-voting",
-"https://portaldir.ct.gov/sots/LookUp.aspx",
-"https://secure.ngpvan.com/M9Q2GizZcUKqG1AqL5yN7g2",
-"https://secure.ngpvan.com/M9Q2GizZcUKqG1AqL5yN7g2?am=100",
-"https://secure.ngpvan.com/M9Q2GizZcUKqG1AqL5yN7g2?am=1000",
-"https://secure.ngpvan.com/M9Q2GizZcUKqG1AqL5yN7g2?am=25",
-"https://secure.ngpvan.com/M9Q2GizZcUKqG1AqL5yN7g2?am=5",
-"https://secure.ngpvan.com/M9Q2GizZcUKqG1AqL5yN7g2?am=50",
-"https://substack.com/@jackperryct",
-"https://threads.net/@jackperryct",
-"https://tiktok.com/@jackperryct",
-"https://voteforjackperry.com/",
-"https://voteforjackperry.com/about",
-"https://voteforjackperry.com/news/news-2",
-"https://voteforjackperry.com/news/perry-campaign-releases-energy-platform",
-"https://voteforjackperry.com/news/perry-responds-to-senator-sampsons-debate-request",
-"https://voteforjackperry.com/news/perry-urges-governor-lamont-to-enact-gas-tax",
-"https://voteforjackperry.com/news/perry-wins-democratic-party-endorsement",
-"https://voteforjackperry.com/news/prospect-savings-audit",
-"https://voteforjackperry.com/privacy-policy",
-"https://voteforjackperry.com/terms-and-conditions",
-"https://voteforjackperry.com/volunteer",
-"https://voterregistration.ct.gov/OLVR/welcome.do",
-"https://x.com/JackPerryCT",
-"https://youtube.com/@JackPerryCT"
+{
+"text": "$100",
+"href": "https://secure.ngpvan.com/M9Q2GizZcUKqG1AqL5yN7g2?am=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.ngpvan.com/M9Q2GizZcUKqG1AqL5yN7g2?am=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.ngpvan.com/M9Q2GizZcUKqG1AqL5yN7g2?am=25"
+},
+{
+"text": "$5",
+"href": "https://secure.ngpvan.com/M9Q2GizZcUKqG1AqL5yN7g2?am=5"
+},
+{
+"text": "$50",
+"href": "https://secure.ngpvan.com/M9Q2GizZcUKqG1AqL5yN7g2?am=50"
+},
+{
+"text": "Anyone in line by 8:00 p.m. may vote.",
+"href": "https://portaldir.ct.gov/sots/LookUp.aspx"
+},
+{
+"text": "CHECK THE FACTS",
+"href": "https://www.voteforjackperry.com/ripoffrob"
+},
+{
+"text": "Check your voter registration",
+"href": "https://portaldir.ct.gov/sots/LookUp.aspx"
+},
+{
+"text": "Donate!",
+"href": "https://www.voteforjackperry.com/vote"
+},
+{
+"text": "Find early voting information",
+"href": "https://portal.ct.gov/sots/election-services/early-voting/early-voting"
+},
+{
+"text": "Get Involved",
+"href": "https://www.voteforjackperry.com/volunteer"
+},
+{
+"text": "JOIN TEAM PERRY",
+"href": "https://www.voteforjackperry.com/volunteer"
+},
+{
+"text": "Make a Plan to Vote!",
+"href": "https://www.voteforjackperry.com/vote"
+},
+{
+"text": "Meet Jack",
+"href": "https://www.voteforjackperry.com/about"
+},
+{
+"text": "Online applications open",
+"href": "https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do"
+},
+{
+"text": "Other",
+"href": "https://secure.ngpvan.com/M9Q2GizZcUKqG1AqL5yN7g2"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteforjackperry.com/privacy-policy"
+},
+{
+"text": "Read more",
+"href": "https://www.voteforjackperry.com/news/news-2"
+},
+{
+"text": "Read more",
+"href": "https://www.voteforjackperry.com/news/perry-campaign-releases-energy-platform"
+},
+{
+"text": "Read more",
+"href": "https://www.voteforjackperry.com/news/perry-responds-to-senator-sampsons-debate-request"
+},
+{
+"text": "Read more",
+"href": "https://www.voteforjackperry.com/news/perry-urges-governor-lamont-to-enact-gas-tax"
+},
+{
+"text": "Read more",
+"href": "https://www.voteforjackperry.com/news/perry-wins-democratic-party-endorsement"
+},
+{
+"text": "Read more",
+"href": "https://www.voteforjackperry.com/news/prospect-savings-audit"
+},
+{
+"text": "Register to vote",
+"href": "https://voterregistration.ct.gov/OLVR/welcome.do"
+},
+{
+"text": "Request an absentee ballot",
+"href": "https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do"
+},
+{
+"text": "Terms and Conditions Apply",
+"href": "https://www.voteforjackperry.com/terms-and-conditions"
+},
+{
+"text": "View More",
+"href": "https://www.voteforjackperry.com/news/perry-responds-to-senator-sampsons-debate-request"
+},
+{
+"text": "Vote from 10:00 a.m. to 6:00 p.m. daily.",
+"href": "https://portal.ct.gov/sots/election-services/early-voting/early-voting"
+},
+{
+"text": "[image: Jack Perry for State Senate logo]",
+"href": "https://www.voteforjackperry.com/"
+},
+{
+"text": "[image: Jack Perry for State Senate]",
+"href": "https://www.voteforjackperry.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jackperryct.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//jackperrySouthington/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/jackperryct/"
+},
+{
+"text": "[no text]",
+"href": "https://linktree.com/JackPerryCT"
+},
+{
+"text": "[no text]",
+"href": "https://substack.com/@jackperryct"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@jackperryct"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@jackperryct"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JackPerryCT"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JackPerryCT"
+},
+{
+"text": "info@voteforjackperry.com",
+"href": "mailto:info@voteforjackperry.com"
+},
+{
+"text": "this contribution form",
+"href": "https://drive.google.com/file/d/1xsfeTxSqy3evqNybhvApjvGQ3D0KNKK3/view?pli=1"
+}
 ]

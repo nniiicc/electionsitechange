@@ -1,7 +1,30 @@
 [
-"https://colinsavageforwv.com/about",
-"https://colinsavageforwv.com/contact",
-"https://colinsavageforwv.com/donate",
-"https://colinsavageforwv.com/home",
-"https://colinsavageforwv.com/values"
+{
+"text": "About",
+"href": "https://www.colinsavageforwv.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.colinsavageforwv.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.colinsavageforwv.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.colinsavageforwv.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.colinsavageforwv.com/home"
+},
+{
+"text": "Values",
+"href": "https://www.colinsavageforwv.com/values"
+},
+{
+"text": "colinsavageforwv.com",
+"href": "https://www.colinsavageforwv.com/home"
+}
 ]

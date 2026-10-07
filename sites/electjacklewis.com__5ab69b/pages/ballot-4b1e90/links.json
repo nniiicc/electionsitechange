@@ -1,14 +1,58 @@
 [
-"http://facebook.com/jackpatricklewis",
-"http://instagram.com/jackpatricklewis",
-"https://electjacklewis.com/",
-"https://electjacklewis.com/about-jack",
-"https://electjacklewis.com/ballot",
-"https://electjacklewis.com/cart",
-"https://electjacklewis.com/endorsements",
-"https://electjacklewis.com/policy",
-"https://electjacklewis.com/updates",
-"https://sec.state.ma.us/MailInRequestWeb/MailInBallot.aspx",
-"https://sec.state.ma.us/divisions/elections/download/vote-by-mail-applications/Vote-by-Mail-Paper-Application-2025-AVBM.pdf",
-"https://secure.actblue.com/donate/electjacklewis"
+{
+"text": "0",
+"href": "https://www.electjacklewis.com/cart"
+},
+{
+"text": "ABOUT JACK",
+"href": "https://www.electjacklewis.com/about-jack"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/electjacklewis"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.electjacklewis.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.electjacklewis.com/"
+},
+{
+"text": "POLICY",
+"href": "https://www.electjacklewis.com/policy"
+},
+{
+"text": "REQUEST BALLOT",
+"href": "https://www.electjacklewis.com/ballot"
+},
+{
+"text": "Request Vote-by-Mail Ballot",
+"href": "https://www.sec.state.ma.us/MailInRequestWeb/MailInBallot.aspx"
+},
+{
+"text": "UPDATES",
+"href": "https://www.electjacklewis.com/updates"
+},
+{
+"text": "[image: Re-Elect Jack Patrick Lewis]",
+"href": "https://www.electjacklewis.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.sec.state.ma.us/MailInRequestWeb/MailInBallot.aspx"
+},
+{
+"text": "[image]",
+"href": "https://www.sec.state.ma.us/divisions/elections/download/vote-by-mail-applications/Vote-by-Mail-Paper-Application-2025-AVBM.pdf"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/jackpatricklewis"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/jackpatricklewis"
+}
 ]

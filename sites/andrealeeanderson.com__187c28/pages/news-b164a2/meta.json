@@ -1,7 +1,9 @@
 {
  "description": "Andrea Anderson in the News",
  "final_url": "https://andrealeeanderson.com/news",
- "paid_for_by": null,
+ "fingerprint": "a57cad05ae1465f124c86e6d094a44d90e84f025",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": []
 }

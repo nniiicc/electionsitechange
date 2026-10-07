@@ -1,11 +1,4 @@
-Back to All Events
-Boulder Valley Meet & Greet with Senator Janice Marchman and Congressman Joe Neguse
-We are pleased to invite you to a Meet & Greet with Senator Janice Marchman and Congressman Joe Neguse.
+0 Skip to Content Home About Priorities Get Involved Events Contact Media Contribute Open Menu Close Menu Open Menu Close Menu Home About Priorities Get Involved Events Contact Media Contribute Home About Priorities Get Involved Events Contact Media Contribute Back to All Events Sugarloaf Meet + Greet Saturday, February 7, 2026 2:00 PM 4:00 PM Google Calendar ICS Boulder Valley Meet & Greet with Senator Janice Marchman and Congressman Joe Neguse We are pleased to invite you to a Meet & Greet with Senator Janice Marchman and Congressman Joe Neguse.
 Join us for this opportunity to hear updates from Senator Marchman about the campaign trail, the legislative session, and how she plans to make Colorado a place we can afford to live.
-Previous
-Previous
-February 5
-Estes Valley Listening Session
-Next
-Next
-February 23
+RSVP HERE Previous Previous February 5 Estes Valley Listening Session Next Next February 23 Caucus + Assembly Social Ask a question © # by Janice Marchman.
+Paid for by Janice Marchman for Colorado Senate | Mike Stolz Registered Agent

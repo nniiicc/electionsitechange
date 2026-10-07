@@ -1,33 +1,138 @@
 [
-"https://davebaker.gop/",
-"https://davebaker.gop/about-dave",
-"https://davebaker.gop/contact-us",
-"https://davebaker.gop/contribute",
-"https://davebaker.gop/education",
-"https://davebaker.gop/energy",
-"https://davebaker.gop/government-overreach",
-"https://davebaker.gop/i-want-a-yard-sign",
-"https://davebaker.gop/issues",
-"https://davebaker.gop/issues/about-dave",
-"https://davebaker.gop/issues/contact-us",
-"https://davebaker.gop/issues/contribute",
-"https://davebaker.gop/issues/education",
-"https://davebaker.gop/issues/energy",
-"https://davebaker.gop/issues/government-overreach",
-"https://davebaker.gop/issues/i-want-a-yard-sign",
-"https://davebaker.gop/issues/issues",
-"https://davebaker.gop/issues/media",
-"https://davebaker.gop/issues/privacy-policy",
-"https://davebaker.gop/issues/public-safety",
-"https://davebaker.gop/issues/tax-policy",
-"https://davebaker.gop/issues/terms-of-service",
-"https://davebaker.gop/issues/transportation",
-"https://davebaker.gop/media",
-"https://davebaker.gop/public-safety",
-"https://davebaker.gop/tax-policy",
-"https://davebaker.gop/transportation",
-"https://davebaker.gop/volunteer",
-"https://facebook.com/davebakerfordistrict16b",
-"https://linkedin.com/in/dave-baker-61189217",
-"https://twitter.com/DBaker16b"
+{
+"text": "About Dave",
+"href": "https://www.davebaker.gop/about-dave/"
+},
+{
+"text": "About Dave",
+"href": "https://www.davebaker.gop/issues/about-dave/"
+},
+{
+"text": "Contact",
+"href": "https://www.davebaker.gop/issues/contact-us/"
+},
+{
+"text": "Contact Dave",
+"href": "https://www.davebaker.gop/issues/contact-us/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.davebaker.gop/contact-us/"
+},
+{
+"text": "Contribute",
+"href": "https://www.davebaker.gop/contribute/"
+},
+{
+"text": "Contribute",
+"href": "https://www.davebaker.gop/issues/contribute/"
+},
+{
+"text": "Education",
+"href": "https://www.davebaker.gop/education/"
+},
+{
+"text": "Education Investing in our children's future through quality schools and educational opportunities. Learn more",
+"href": "https://www.davebaker.gop/issues/education/"
+},
+{
+"text": "Energy",
+"href": "https://www.davebaker.gop/energy/"
+},
+{
+"text": "Energy Promoting affordable, reliable energy solutions that power Minnesota's economy. Learn more",
+"href": "https://www.davebaker.gop/issues/energy/"
+},
+{
+"text": "Government Overreach",
+"href": "https://www.davebaker.gop/government-overreach/"
+},
+{
+"text": "Government Overreach Protecting individual liberty and limiting government intrusion into our daily lives. Learn more",
+"href": "https://www.davebaker.gop/issues/government-overreach/"
+},
+{
+"text": "Home",
+"href": "https://www.davebaker.gop/"
+},
+{
+"text": "I Want a Yard Sign",
+"href": "https://www.davebaker.gop/i-want-a-yard-sign/"
+},
+{
+"text": "Issues",
+"href": "https://www.davebaker.gop/issues/"
+},
+{
+"text": "Issues",
+"href": "https://www.davebaker.gop/issues/issues/"
+},
+{
+"text": "Media",
+"href": "https://www.davebaker.gop/issues/media/"
+},
+{
+"text": "Media",
+"href": "https://www.davebaker.gop/media/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.davebaker.gop/issues/privacy-policy/"
+},
+{
+"text": "Public Safety",
+"href": "https://www.davebaker.gop/public-safety/"
+},
+{
+"text": "Public Safety Supporting law enforcement and keeping our communities safe for families. Learn more",
+"href": "https://www.davebaker.gop/issues/public-safety/"
+},
+{
+"text": "Tax Policy",
+"href": "https://www.davebaker.gop/tax-policy/"
+},
+{
+"text": "Tax Policy Fighting for lower taxes and fiscal responsibility to help families keep more of what they earn. Learn more",
+"href": "https://www.davebaker.gop/issues/tax-policy/"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.davebaker.gop/issues/terms-of-service/"
+},
+{
+"text": "Transportation",
+"href": "https://www.davebaker.gop/transportation/"
+},
+{
+"text": "Transportation Building roads and infrastructure that connect our communities and support economic growth. Learn more",
+"href": "https://www.davebaker.gop/issues/transportation/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.davebaker.gop/volunteer/"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.davebaker.gop/issues/i-want-a-yard-sign/"
+},
+{
+"text": "[image: Dave Baker for State Representative]",
+"href": "https://www.davebaker.gop/"
+},
+{
+"text": "[image: Re-Elect Dave Baker State Representative]",
+"href": "https://www.davebaker.gop/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/DBaker16b"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/davebakerfordistrict16b"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/dave-baker-61189217"
+}
 ]

@@ -1,6 +1,8 @@
+State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate I believe Georgia can work for all of us.
 Good schools.
 A home you can afford.
 Healthcare when you need it.
 That’s the Georgia I’m fighting for, and I have a plan to get us there.
-Get updates sent to your inbox
-Capitol Corner
+Explore A Better Deal Donate Get updates sent to your inbox Email Address Zip Code Leave this field empty if you're human: Capitol Corner Georgia’s Silent Epidemic: The Case for Maternal Mental Health Coverage Madison Lowe Capitol Corner Protecting Georgia’s Artists in the Age of Generative Artificial Intelligence Joshua Thornton Capitol Corner Misallocated Funding and the Crisis in Georgia’s Prison System Prarti Satya Capitol Corner Expand New Energy Sources, Not the Old.
+Anna-Jewel Taylor Capitol Corner , Uncategorized Economic Incentives and Workforce Gaps: Rethinking Georgia’s Film Tax Credit Model Courtney Navarro Capitol Corner The Negative Impacts of Private Prisons on Georgia Aubrey Skinner Capitol Corner Powering Down: The Hidden Energy Crisis in Athens Homes Rebecca McAdam Capitol Corner Closing the Gap: Aligning Georgia’s Schools with Workforce Needs Faith Tucker Capitol Corner The Fight Against Forever Chemicals is Far From Over Samir Handa Capitol Corner Encoding AI into Education Ashley Brown Capitol Corner Reforming Prison Labor to Strengthen Reentry in Georgia Aishwarya Yaddanapudi Capitol Corner When EMS is the Real Emergency Ruhee Merchant Capitol Corner ©# Spencer Frye State House 122.
+All Rights Reserved.

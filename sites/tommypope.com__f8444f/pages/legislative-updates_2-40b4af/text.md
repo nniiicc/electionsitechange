@@ -1,27 +1,10 @@
-Recent Updates From Tommy
-Legislative Update: Week 9, 2021
-Maintaining the Integrity of our Elections This week, I voted in favor of legislation (H.3444) regarding our state’s election laws.
-This legislation has two goals:
-Legislative Update: Week 8, 2021
-2021-22 State Budget This week, the House Ways and Means Committee worked diligently crafting our state’s budget.
-The Committee unanimously passed a conservative bill that
-Legislative Update: Week 7, 2021
-In the News: Breaking: Gov.
-Henry McMaster to Lift ‘Last Call’ Order, Large Gatherings Approval Process https://governor.sc.gov/news/2021-02/gov-henry-mcmaster-lift-last-call-order-large-gatherings-approval-process An infant was surrendered safely under the Safe
-Legislative Update: Week 6, 2021
-Legislative Update Making History: Passing the Heartbeat Bill The Heartbeat Bill, which outlaws abortions in the state of South Carolina after a heartbeat has been
-Legislative Update: Week 5, 2021
-Legislative Update: Week 5, 2021 February is Black History Month.
-This month, we celebrate the accomplishments and contributions made by Black Americans, who make our
-Legislative Update: Week 4, 2021
-Legislative Update: Week 4, 2021 February is Black History Month.
-This month, we celebrate the accomplishments and contributions made by Black Americans who make our
-Legislative Update: Week 3, 2021
-Legislative Update: Week 3, 2021 Overview of the week This week we reconvened in Columbia after a week of virtual meetings.
-I am glad to
-Legislative Update: Week 2, 2021
-Legislative Update: Week 2, 2021 On Wednesday, the world watched the inauguration of the 46th President of the United States.
-Although President Biden and I
-Legislative Update: Week 1, 2021
-Legislative Update: Week 1, 2021 Overview of the week: This week, we began the 1st regular session of the 124th General Assembly.
-I was ready to be
+Skip to content Tommy Pope Meet Tommy Contact Tommy Join the Pope Team Legislative Updates District Map Donate Tommy Pope Meet Tommy Contact Tommy Join the Pope Team Legislative Updates District Map Donate Legislative Updates from Team Pope Read now Recent Updates From Tommy​ Legislative Update: Week 9, 2021 Maintaining the Integrity of our Elections This week, I voted in favor of legislation (H.3444) regarding our state’s election laws.
+This legislation has two goals: Read More » March 15, 2021 Legislative Update: Week 8, 2021 2021-22 State Budget This week, the House Ways and Means Committee worked diligently crafting our state’s budget.
+The Committee unanimously passed a conservative bill that Read More » March 8, 2021 Legislative Update: Week 7, 2021 In the News: Breaking: Gov.
+Henry McMaster to Lift ‘Last Call’ Order, Large Gatherings Approval Process https://governor.sc.gov/news/2021-02/gov-henry-mcmaster-lift-last-call-order-large-gatherings-approval-process An infant was surrendered safely under the Safe Read More » March 1, 2021 Legislative Update: Week 6, 2021 Legislative Update Making History: Passing the Heartbeat Bill The Heartbeat Bill, which outlaws abortions in the state of South Carolina after a heartbeat has been Read More » February 22, 2021 Legislative Update: Week 5, 2021 Legislative Update: Week 5, 2021 February is Black History Month.
+This month, we celebrate the accomplishments and contributions made by Black Americans, who make our Read More » February 15, 2021 Legislative Update: Week 4, 2021 Legislative Update: Week 4, 2021 February is Black History Month.
+This month, we celebrate the accomplishments and contributions made by Black Americans who make our Read More » February 8, 2021 Legislative Update: Week 3, 2021 Legislative Update: Week 3, 2021 Overview of the week This week we reconvened in Columbia after a week of virtual meetings.
+I am glad to Read More » February 1, 2021 Legislative Update: Week 2, 2021 Legislative Update: Week 2, 2021 On Wednesday, the world watched the inauguration of the 46th President of the United States.
+Although President Biden and I Read More » January 26, 2021 Legislative Update: Week 1, 2021 Legislative Update: Week 1, 2021 Overview of the week: This week, we began the 1st regular session of the 124th General Assembly.
+I was ready to be Read More » January 15, 2021 « Previous Next » Subscribe to Legislative Updates Don't miss new updates on your email Email Subscribe Our Address Pope for House 47 PO Box 471 York, SC 29745 803-734-2701 (Columbia) (803) 324-7574 (Local) quick links Meet Tommy Legislative Updates Join the Pope Team Reach Tommy Support Terms and Conditions Privacy Policy Meet Tommy Legislative Updates Join the Pope Team Reach Tommy Support Terms and Conditions Privacy Policy stay connected Twitter Facebook-f Linkedin Youtube © All rights reserved # Tommy Pope : House 47.
+Website Design provided by Josh Ethan

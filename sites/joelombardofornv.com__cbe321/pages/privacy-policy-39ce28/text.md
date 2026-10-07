@@ -1,10 +1,9 @@
-This Privacy Policy outlines our practices for collection, use, and disclosure of your information that you provide to us when you use our Site and other Lombardo for Governor websites that display this policy (the Sites).
+0 Skip to Content Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Folder: Results Back Results Nevadans Working Together Get Involved Folder: Media Back Press Releases Photos Endorsements Coalitions DONATE This Privacy Policy outlines our practices for collection, use, and disclosure of your information that you provide to us when you use our Site and other Lombardo for Governor websites that display this policy (the Sites).
 By using these Sites, you agree that your use of the Sites is governed by this Privacy Policy.
 From time to time, we may update this Privacy Policy.
 We encourage you to periodically check this Site for updates.
 Your continued use of the Site affirms your agreement to any changes we make to this Privacy Policy.
-Voluntary Information
-In an effort to grow our grassroots community online, Lombardo for Governor may ask you to submit information.
+Voluntary Information In an effort to grow our grassroots community online, Lombardo for Governor may ask you to submit information.
 This information will be used to provide you with communications and for other purposes.
 You do not have to provide this information – we only ask that you do so that we can better communicate with you!
 Additionally, when you offer your personal information, we use your information to personalize and customize Web pages and emails to you.
@@ -18,23 +17,14 @@ Voluntary personal information does not include aggregate data (data about a gro
 This policy does not restrict our collection and use of such aggregate information.
 By requesting information to your mobile phone, we may obtain the following information from you in connection with our SMS service: your cell phone number, your carrier’s name, and the date, time and content of your messages, as well as other information that you provide.
 When you voluntarily provide your information to Lombardo for Governor, we may share that information with other organizations who may contact you.
-If you would prefer that we not share your information for these purposes, you may opt-out by emailing info@joelombardofornv.com
-The above excludes text messaging originator opt-in data and consent; this information will not be shared with other organizations.
-Automatically Generated Information
-We may also collect non-personally identifiable information that is generated automatically while you are visiting the Site or elsewhere on the Internet when our advertisements are served, also known as log files.
+If you would prefer that we not share your information for these purposes, you may opt-out by emailing info@joelombardofornv.com The above excludes text messaging originator opt-in data and consent; this information will not be shared with other organizations.
+Automatically Generated Information We may also collect non-personally identifiable information that is generated automatically while you are visiting the Site or elsewhere on the Internet when our advertisements are served, also known as log files.
 This data includes, but is not limited to, information such as IP address, web pages visited before and after visiting the Site, date and time, domain type, type of mobile device you use, your device’s unique ID, web pages you view and links you click on within the Site and interactions with our advertisements delivered by us or advertisements delivered by a third-party advertising technology vendor.
 This type of information may be collected using different types of technologies, such as cookies and pixels.
 An IP address, for example, is a unique identifier that certain electronic devices use to identify and communicate with each other on the Internet.
 When you visit our Site, we may view the IP address of the device you use to connect to the Internet.
 We use this information to determine the general physical location of the device and understand from what regions of the world our Site visitors come.
 We also may use your non-personally identifiable information to enhance our Site.
-We may use cookies and other technologies to obtain certain types of information when your web browser accesses the Site or visit a web site in our network.
-“Cookies” are small pieces of information that are stored by your browser at the request of a website.
-Cookies help us improve your experience on our Sites.
-This website uses third party vendors such as Google to help analyze how users use the site.
-For example, Google Analytics uses cookies to collect standard Internet log information and visitor behavior information in an anonymous form.
-The information generated by the cookie about your use of the website (including IP address) is transmitted to Google.
-This information is then used to evaluate visitors’ use of the website and to compile statistical reports on website activity for Lombardo for Governor.
 We may use other companies to set cookies on our Site and gather cookie information for us.
 In some cases, we may also use another company to operate web servers or process credit card purchases for our Site.
 The Site may use cookies and other technology to speed navigation and keep track of items and to gather anonymous traffic data that we may use to enhance the Sites, our Services, marketing, and other internal purposes.
@@ -46,8 +36,7 @@ We use various website analytics tools and technologies regarding activities on 
 The overall aim of these tools is to aid in making our Site easy to use, to proactively identify and correct error conditions and to provide more relevant advertising and content to you.
 These tools and technologies are also used to assist Site visitors who report problems in the use of our Site.
 Stored web session data is used in accordance with this Privacy Policy.
-Third Party Features
-For your convenience, we may include or offer third-party offers, products or services on our Site.
+Third Party Features For your convenience, we may include or offer third-party offers, products or services on our Site.
 Third-party vendors may use cookies or other technologies to serve ads on other websites based on your visit to this Site and other websites on the Internet.
 We cannot be responsible for the privacy practices of any websites or pages not under our control and we do not endorse any of these websites or pages, the services or products described or offered on such sites or pages, or any of the content contained on those sites or pages.
 Nonetheless, we seek to protect the integrity of our Site and welcome any feedback about these websites.
@@ -60,8 +49,7 @@ Although we may take certain precautions to protect those who use these areas of
 The information you post can be collected and used by people you don’t know.
 We cannot guarantee the privacy and safety of these areas and are therefore not responsible for any information you choose to post.
 Your use of these features is fully at your own risk.
-Email Signups
-We appreciate your questions and comments about our Site and services and welcome your e-mails and questions submitted to our Site.
+Email Signups We appreciate your questions and comments about our Site and services and welcome your e-mails and questions submitted to our Site.
 We will share your messages with those within our organization or third-party vendors who are most capable of addressing the issues contained in your message.
 We may archive your message for a certain period of time or discard it.
 Submitting your address anywhere on the Site may result in your e-mail address being added to Lombardo for Governor’s e-mail list.
@@ -72,22 +60,17 @@ If you elect to use any feature that includes suggesting a page to a friend or t
 The Site may automatically send the friend a one-time e-mail inviting them to visit the Sites or otherwise provide the information requested by you.
 Lombardo for Governor will store and use this information in accordance with this Privacy Policy.
 Your friend may contact Lombardo for Governor to request the removal of this information from our databases.
-Text Messaging Opt-In Data
-We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
-Security
-We employ and maintain technology and security measures designed to protect your personal information.
+Text Messaging Opt-In Data We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
+Security We employ and maintain technology and security measures designed to protect your personal information.
 However, no data transmission over the Internet can be guaranteed as 100 percent secure.
 As a result, while we strive to protect your information, we cannot ensure or warrant the security of any information you transmit to us or receive from us.
-Children
-We strongly encourage parents and guardians to regularly monitor and supervise their children’s online activities.
+Children We strongly encourage parents and guardians to regularly monitor and supervise their children’s online activities.
 We do not knowingly collect personal information from children under 18.
-Donations and Purchases
-Some information must be collected when you make a contribution.
+Donations and Purchases Some information must be collected when you make a contribution.
 Credit card information provided may be stored with one of the Lombardo for Governor’s third party vendors.
 Any information shared is done at the donor’s own risk.
-Visiting our Site from outside of the United States
-If you are visiting our Site from outside of the United States of America, please be aware that your information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated.
+Visiting our Site from outside of the United States If you are visiting our Site from outside of the United States of America, please be aware that your information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated.
 The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy.
 By using our Site, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
-Contact Us
-Please contact us if you have questions about our Privacy Policy at info@joelombardofornv.com
+Contact Us Please contact us if you have questions about our Privacy Policy at info@joelombardofornv.com Privacy Policy Contact Us Lombardo for Governor P.O.
+Box 371176 Las Vegas, NV 89137 info@joelombardofornv.com

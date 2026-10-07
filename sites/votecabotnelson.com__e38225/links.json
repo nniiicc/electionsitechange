@@ -1,10 +1,42 @@
 [
-"https://facebook.com/cabotnelson",
-"https://forwardparty.com/",
-"https://utahforwardparty.org/",
-"https://utahforwardparty.org/one_time",
-"https://votecabotnelson.com/CandidatePledge.pdf",
-"https://votecabotnelson.com/index.html",
-"https://w3schools.com/w3css/default.asp",
-"https://x.com/cabotnelson"
+{
+"text": "About Cabot",
+"href": "https://votecabotnelson.com/index.html"
+},
+{
+"text": "Candidate Pledge",
+"href": "https://votecabotnelson.com/CandidatePledge.pdf"
+},
+{
+"text": "Donate",
+"href": "https://www.utahforwardparty.org/one_time"
+},
+{
+"text": "Donate Online",
+"href": "https://www.utahforwardparty.org/one_time"
+},
+{
+"text": "ForwardParty.com",
+"href": "https://www.forwardparty.com/#values"
+},
+{
+"text": "[image: Person]",
+"href": "https://www.utahforwardparty.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/cabotnelson"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/cabotnelson%20"
+},
+{
+"text": "[tooltip: Toggle Navigation Menu]",
+"href": "javascript:void(0);"
+},
+{
+"text": "w3.css",
+"href": "https://www.w3schools.com/w3css/default.asp"
+}
 ]

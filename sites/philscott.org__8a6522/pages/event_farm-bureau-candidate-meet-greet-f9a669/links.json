@@ -1,20 +1,82 @@
 [
-"https://bytes.co/",
-"https://facebook.com/PhilScottforVermont",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20181102T153000%2F20181102T170000&text=Farm+Bureau+Candidate+Meet+and+Greet&details=%3Ca+class%3D%22AP8Kec%22+href%3D%22https%3A%2F%2Fmaps.google.com%2Fmaps%3Fhl%3Den%26amp%3Bq%3DTrader%2520Duke%2527s%2520Hotel%252C%2520South%2520Burlington%26amp%3Bsource%3Dcalendar%22+target%3D%22_blank%22+rel%3D%22noreferrer+noopener%22%3ETrader+Duke%27s+Hotel%2C+South+Burlington%3C%2Fa%3E%26nbsp%3B&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwww.philscott.org",
-"https://instagram.com/philscottvt",
-"https://maps.google.com/maps?hl=en&q=Trader+Duke%27s+Hotel%2C+South+Burlington",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2018-11-02T15%3A30%3A00-04%3A00&enddt=2018-11-02T17%3A00%3A00-04%3A00&subject=Farm+Bureau+Candidate+Meet+and+Greet&body=Trader+Duke%27s+Hotel%2C+South+Burlington%26nbsp%3B",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2018-11-02T15%3A30%3A00-04%3A00&enddt=2018-11-02T17%3A00%3A00-04%3A00&subject=Farm+Bureau+Candidate+Meet+and+Greet&body=Trader+Duke%27s+Hotel%2C+South+Burlington%26nbsp%3B",
-"https://philscott.org/",
-"https://philscott.org/event/14-county-tour",
-"https://philscott.org/event/nbc-channel-5-debate",
-"https://philscott.org/events",
-"https://philscott.org/meet-phil",
-"https://philscott.org/privacy-policy",
-"https://philscott.org/terms-and-conditions",
-"https://philscott.org/volunteer",
-"https://secure.anedot.com/phil-scott/donate",
-"https://twitter.com/philscott4vt",
-"https://youtube.com/channel/UCOkgjHw4Pguv-Q2ScZ0KSxg"
+{
+"text": "14 County Tour »",
+"href": "https://www.philscott.org/event/14-county-tour/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/phil-scott/donate"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20181102T153000%2F20181102T170000&text=Farm+Bureau+Candidate+Meet+and+Greet&details=%3Ca+class%3D%22AP8Kec%22+href%3D%22https%3A%2F%2Fmaps.google.com%2Fmaps%3Fhl%3Den%26amp%3Bq%3DTrader%2520Duke%2527s%2520Hotel%252C%2520South%2520Burlington%26amp%3Bsource%3Dcalendar%22+target%3D%22_blank%22+rel%3D%22noreferrer+noopener%22%3ETrader+Duke%27s+Hotel%2C+South+Burlington%3C%2Fa%3E%26nbsp%3B&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwww.philscott.org"
+},
+{
+"text": "Join the Team",
+"href": "https://www.philscott.org/volunteer/"
+},
+{
+"text": "Meet Phil",
+"href": "https://www.philscott.org/meet-phil/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T15%3A30%3A00-04%3A00&enddt=%23T17%3A00%3A00-04%3A00&location=&subject=Farm+Bureau+Candidate+Meet+and+Greet&body=Trader+Duke%27s+Hotel%2C+South+Burlington%26nbsp%3B"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T15%3A30%3A00-04%3A00&enddt=%23T17%3A00%3A00-04%3A00&location=&subject=Farm+Bureau+Candidate+Meet+and+Greet&body=Trader+Duke%27s+Hotel%2C+South+Burlington%26nbsp%3B"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.philscott.org/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.philscott.org/terms-and-conditions/"
+},
+{
+"text": "Trader Duke’s Hotel, South Burlington",
+"href": "https://maps.google.com/maps?hl=en&q=Trader+Duke%27s+Hotel%2C+South+Burlington"
+},
+{
+"text": "Website Designed by Bytes.co",
+"href": "https://bytes.co"
+},
+{
+"text": "[image: Phil Scott for Governor]",
+"href": "https://www.philscott.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/philscott4vt"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/PhilScottforVermont"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/philscottvt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCOkgjHw4Pguv-Q2ScZ0KSxg"
+},
+{
+"text": "[no text]",
+"href": "mailto:phil@philscott.org"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.philscott.org/event/farm-bureau-candidate-meet-greet/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://www.philscott.org/events/"
+},
+{
+"text": "« NBC Channel 5 Debate",
+"href": "https://www.philscott.org/event/nbc-channel-5-debate/"
+}
 ]

@@ -1,9 +1,46 @@
 [
-"http://facebook.com/menonforvermont",
-"http://instagram.com/menonforvermont",
-"https://menonforvermont.com/",
-"https://menonforvermont.com/cart",
-"https://menonforvermont.com/platform",
-"https://menonforvermont.com/privacypolicy",
-"https://secure.winred.com/menon-for-vermont-house/contribute"
+{
+"text": "0",
+"href": "https://www.menonforvermont.com/cart"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/menon-for-vermont-house/contribute"
+},
+{
+"text": "Get Involved",
+"href": "https://www.menonforvermont.com/#get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.menonforvermont.com/"
+},
+{
+"text": "Meet Praneet",
+"href": "https://www.menonforvermont.com/#meet-praneet"
+},
+{
+"text": "Platform",
+"href": "https://www.menonforvermont.com/platform"
+},
+{
+"text": "Praneet’s Platform",
+"href": "https://www.menonforvermont.com/platform"
+},
+{
+"text": "Privacy",
+"href": "https://www.menonforvermont.com/privacypolicy"
+},
+{
+"text": "[image: Menon for Vermont House]",
+"href": "https://www.menonforvermont.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/menonforvermont"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/menonforvermont"
+}
 ]

@@ -1,22 +1,102 @@
 [
-"http://instagram.com/",
-"http://instagram.com/electjenday",
-"http://linkedin.com/",
-"https://bsky.app/profile/electjenday.bsky.social",
-"https://drive.google.com/drive/folders/1gmY4SocP1sXbbMm0_MhyufbSaQ_KoqS1?usp=sharing",
-"https://electjenday.com/",
-"https://electjenday.com/get-involved",
-"https://electjenday.com/privacy-policy",
-"https://electjenday.com/terms-of-service",
-"https://facebook.com/",
-"https://facebook.com/61583900095395",
-"https://facebook.com/ElectJenDayKS",
-"https://instagram.com/electjenday",
-"https://secure.actblue.com/donate/electjenday",
-"https://secure.actblue.com/donate/electjenday?amount=10",
-"https://secure.actblue.com/donate/electjenday?amount=100",
-"https://secure.actblue.com/donate/electjenday?amount=25",
-"https://secure.actblue.com/donate/electjenday?amount=50",
-"https://secure.actblue.com/donate/electjenday?amount=500",
-"https://twitter.com/electjenday"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/electjenday?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/electjenday?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/electjenday?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/electjenday?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/electjenday?amount=500"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/electjenday"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.electjenday.com/#ENDORSEMENTS"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electjenday.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.electjenday.com/"
+},
+{
+"text": "MEET JENNIFER",
+"href": "https://www.electjenday.com/#MEETJENNIFER"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/electjenday"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.electjenday.com/#PLATFORM"
+},
+{
+"text": "Press Kit",
+"href": "https://drive.google.com/drive/folders/1gmY4SocP1sXbbMm0_MhyufbSaQ_KoqS1?usp=sharing"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.electjenday.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.electjenday.com/terms-of-service"
+},
+{
+"text": "[image]",
+"href": "https://www.electjenday.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/electjenday"
+},
+{
+"text": "[no text]",
+"href": "http://linkedin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/electjenday.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/electjenday"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/61583900095395/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectJenDayKS/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electjenday/"
+}
 ]

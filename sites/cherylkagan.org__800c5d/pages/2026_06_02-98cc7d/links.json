@@ -1,28 +1,122 @@
 [
-"http://cherylkagan.org/in-the-news",
-"http://cherylkagan.org/ng911",
-"https://cherylkagan.org/",
-"https://cherylkagan.org/2026",
-"https://cherylkagan.org/2026/06",
-"https://cherylkagan.org/2026/06/02",
-"https://cherylkagan.org/about",
-"https://cherylkagan.org/bio",
-"https://cherylkagan.org/casework",
-"https://cherylkagan.org/category/in-the-news",
-"https://cherylkagan.org/community-resources",
-"https://cherylkagan.org/community-updates",
-"https://cherylkagan.org/constituent-services",
-"https://cherylkagan.org/contact",
-"https://cherylkagan.org/crucial-new-maryland-law-lets-public-school-students-earn-a-civic-excellence-seal-on-their-diploma",
-"https://cherylkagan.org/email-sign-up",
-"https://cherylkagan.org/human-resources-links",
-"https://cherylkagan.org/jobs",
-"https://cherylkagan.org/legislative-overview",
-"https://cherylkagan.org/press-releases",
-"https://cherylkagan.org/senatorial-scholarships",
-"https://facebook.com/CherylCKagan",
-"https://instagram.com/cherylckagan",
-"https://secure.actblue.com/donate/contribute-to-senator-cheryl-kagan",
-"https://twitter.com/CherylKagan",
-"https://youtube.com/@SenCherylKagan"
+{
+"text": "2026",
+"href": "https://cherylkagan.org/2026/"
+},
+{
+"text": "9-1-1",
+"href": "http://cherylkagan.org/ng911/"
+},
+{
+"text": "About",
+"href": "https://cherylkagan.org/bio"
+},
+{
+"text": "Biography",
+"href": "https://cherylkagan.org/about/"
+},
+{
+"text": "Community Resources",
+"href": "https://cherylkagan.org/community-resources/"
+},
+{
+"text": "Community Updates",
+"href": "https://cherylkagan.org/community-updates/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/crucial-new-maryland-law-lets-public-school-students-earn-a-civic-excellence-seal-on-their-diploma/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/contribute-to-senator-cheryl-kagan"
+},
+{
+"text": "District 17 Casework Portal",
+"href": "https://cherylkagan.org/casework/"
+},
+{
+"text": "Email Sign Up",
+"href": "https://cherylkagan.org/email-sign-up/"
+},
+{
+"text": "Home",
+"href": "https://cherylkagan.org"
+},
+{
+"text": "Home",
+"href": "https://cherylkagan.org/"
+},
+{
+"text": "Human Resources Links",
+"href": "https://cherylkagan.org/human-resources-links/"
+},
+{
+"text": "In The News",
+"href": "https://cherylkagan.org/category/in-the-news/"
+},
+{
+"text": "Job Descriptions",
+"href": "https://cherylkagan.org/jobs/"
+},
+{
+"text": "June",
+"href": "https://cherylkagan.org/2026/06/"
+},
+{
+"text": "June 2, 2026",
+"href": "https://cherylkagan.org/2026/06/02/"
+},
+{
+"text": "Kagan in the News",
+"href": "http://cherylkagan.org/in-the-news/"
+},
+{
+"text": "Legislative Session Overviews",
+"href": "https://cherylkagan.org/legislative-overview/"
+},
+{
+"text": "Press Releases",
+"href": "https://cherylkagan.org/press-releases/"
+},
+{
+"text": "Scholarships",
+"href": "https://cherylkagan.org/senatorial-scholarships/"
+},
+{
+"text": "Services & Resources",
+"href": "https://cherylkagan.org/constituent-services/"
+},
+{
+"text": "Share Your Thoughts",
+"href": "https://cherylkagan.org/contact/"
+},
+{
+"text": "[image] (410) 841-3134",
+"href": "tel:410-841-3134"
+},
+{
+"text": "[image] Cheryl.Kagan@senate.state.md.us",
+"href": "mailto:Cheryl.Kagan@senate.state.md.us"
+},
+{
+"text": "[tooltip: Follow Us on Facebook]",
+"href": "https://www.facebook.com/CherylCKagan"
+},
+{
+"text": "[tooltip: Follow Us on Instagram]",
+"href": "https://www.instagram.com/cherylckagan/"
+},
+{
+"text": "[tooltip: Follow Us on Twitter]",
+"href": "https://twitter.com/CherylKagan"
+},
+{
+"text": "[tooltip: Follow Us on Youtube]",
+"href": "https://www.youtube.com/@SenCherylKagan"
+},
+{
+"text": "‘Crucial’: New Maryland law lets public school students earn a civic excellence seal on their diploma",
+"href": "https://cherylkagan.org/crucial-new-maryland-law-lets-public-school-students-earn-a-civic-excellence-seal-on-their-diploma/"
+}
 ]

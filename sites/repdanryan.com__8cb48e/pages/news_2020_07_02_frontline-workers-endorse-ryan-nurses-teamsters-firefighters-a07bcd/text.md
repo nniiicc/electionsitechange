@@ -1,4 +1,4 @@
-State Rep.
+Home Issues News Volunteer Donate Select Page News & Updates Frontline Workers Endorse Ryan: Nurses, Teamsters & Firefighters Jul 2, 2020 | News State Rep.
 Dan Ryan begins to rack up endorsements in his re-election effort in the Second Suffolk District in the Massachusetts Legislature.
 His campaign got a boost last week from unions that represent some of the very frontline workers that are at the heart of the COVID-19 response.
 Teamsters Local 25, has endorsed Ryan.
@@ -14,28 +14,26 @@ They clean and repair our streets and ensure that our society functions during t
 “They have my back today.
 I will continue to have their backs in the legislature.
 I will work to ensure that these men and women have the protections and rights they need to get safely home to their families after providing critical services for the rest of us.
-I am honored to have the Teamsters, Local 25 endorsement.”
-The Massachusetts Nurses Association (MNA) also announced their endorsement of Ryan this week.
+I am honored to have the Teamsters, Local 25 endorsement.” The Massachusetts Nurses Association (MNA) also announced their endorsement of Ryan this week.
 “When it comes to proper staffing and safety precautions for nurses and health care professionals, Representative Ryan has demonstrated his commitment and leadership by filing legislation for workplace development for nurses and keeping patients safe in the Commonwealth,” said Donna Kelly Williams, RN, president of MNA.
 “This current crisis has shown us all how delicate our healthcare system is,” said Ryan.
 “Nurses and other healthcare workers need to have a seat at the table as we climb out of this pandemic.
-I am honored that the MNA has put their trust in me to continue to fight for patient safety and workplace protections, which go hand in hand.”
-Ryan’s passion for workplace issues stems from his strong organized labor background.
+I am honored that the MNA has put their trust in me to continue to fight for patient safety and workplace protections, which go hand in hand.” Ryan’s passion for workplace issues stems from his strong organized labor background.
 His Dad, Charlie ‘Carlo’ Ryan, and three of his uncles, were members of Boston Firefighters, Local 718.
 Ryan himself was a Teamster in Local 122 before getting laid-off in the economic downturn of the early 1990s; prompting him to pursue a career in non-profit work and eventually government service where he worked on federal labor policy.
 “I understand, first-hand, the importance of organized labor and workplace protections.
 I also understand what it is like to have a parent on the frontlines, going into places that most people are avoiding,” Ryan reflected.
 “These workers are the people I fight for, because they are me.
 They are my family.
-They are the backbone of an increasingly fragile society.”
-Ryan adds these endorsements to those announced earlier in the campaign, including the Chelsea Firefighters, Local 937 and the Professional Firefighters of Massachusetts.
+They are the backbone of an increasingly fragile society.” Ryan adds these endorsements to those announced earlier in the campaign, including the Chelsea Firefighters, Local 937 and the Professional Firefighters of Massachusetts.
 “Like so many instances when we need them, the firefighters were the first ones in on my re-election,” he said.
 “I can’t thank Local 937 and PFFM enough for what they do, day in and day out, to protect all of us.
-I am equally proud and honored for their support as I am to be a member of their family.”
-Ryan’s support of all workers throughout his career has made him a leader on Beacon Hill on labor issues.
+I am equally proud and honored for their support as I am to be a member of their family.” Ryan’s support of all workers throughout his career has made him a leader on Beacon Hill on labor issues.
 Ryan took the legislative lead in helping to end the Tufts New England Nurses and the National Grid gas workers lockouts.
 He has taken courageous stands on behalf of teachers’ unions, airport workers, hotel workers and the Fight for Fifteen.
 “In what is becoming an increasingly unjust and unequal economy, the one principal value that remains strong here in Massachusetts is the right for workers to organize for better wages, healthcare and working conditions,” he said.
 “My record on these issues speaks volumes.
 I thank these essential workers for what they do everyday.
-With their help, I will continue to be a voice for them on Beacon Hill.”
+With their help, I will continue to be a voice for them on Beacon Hill.” ← Previous Next → STAY CONNECTED Follow Follow Follow SUPPORT OUR CAMPAIGN Click on the button below to make an online donation.
+DONATE Personal checks made payable to the Committee to Elect Dan Ryan can be mailed to 19 Essex St, Charlestown, MA 02129 State Law prohibits all corporate, LLC and LLP contributions.
+PAID FOR BY THE COMMITTEE TO ELECT DAN RYAN

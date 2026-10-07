@@ -1,7 +1,11 @@
 {
- "description": "A public meeting, research, and discussion series examining who actually holds power over Vermont\u2019s government, economy, land, housing, institutions, and political choices.",
+ "description": "A public meeting, research, and discussion series examining who actually holds power over Vermont’s government, economy, land, housing, institutions, and political choices.",
  "final_url": "https://www.waltonforvermont.com/projects/who-governs-vermont",
- "paid_for_by": null,
+ "fingerprint": "550cd95c5f8cbf306f8afcf153fb3037fb366a2e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Who Governs Vermont? | Walton for Vermont",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

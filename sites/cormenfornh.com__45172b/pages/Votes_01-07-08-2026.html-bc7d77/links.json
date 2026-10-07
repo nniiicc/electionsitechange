@@ -1,12 +1,42 @@
 [
-"https://cormenfornh.com/Media/index.html",
-"https://cormenfornh.com/Votes/03-06-2025.html",
-"https://cormenfornh.com/Votes/03-26-2025.html",
-"https://cormenfornh.com/Votes/index.html",
-"https://cormenfornh.com/about.html",
-"https://cormenfornh.com/contact.html",
-"https://cormenfornh.com/donate.html",
-"https://cormenfornh.com/index.html",
-"https://youtube.com/live/80wwdWt8Lb4?t=6448s",
-"https://youtube.com/live/W-x7boYfqtM?si=UA6LGpMdOVHbBOcj&t=26847"
+{
+"text": "About",
+"href": "https://cormenfornh.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://cormenfornh.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://cormenfornh.com/donate.html"
+},
+{
+"text": "HB 324-FN",
+"href": "https://cormenfornh.com/Votes/03-26-2025.html#HB324"
+},
+{
+"text": "Home",
+"href": "https://cormenfornh.com/index.html"
+},
+{
+"text": "March 6, 2025",
+"href": "https://cormenfornh.com/Votes/03-06-2025.html#HB503"
+},
+{
+"text": "Media",
+"href": "https://cormenfornh.com/Media/index.html"
+},
+{
+"text": "Votes",
+"href": "https://cormenfornh.com/Votes/index.html"
+},
+{
+"text": "about Mohsen Mahdawi",
+"href": "https://www.youtube.com/live/80wwdWt8Lb4?t=6448s"
+},
+{
+"text": "recognizing my father for his 100th birthday",
+"href": "https://www.youtube.com/live/W-x7boYfqtM?si=UA6LGpMdOVHbBOcj&t=26847"
+}
 ]

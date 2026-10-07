@@ -1,13 +1,58 @@
 [
-"https://beraforcongress.com/",
-"https://beraforcongress.com/endorsements",
-"https://beraforcongress.com/issues",
-"https://beraforcongress.com/news",
-"https://beraforcongress.com/vote",
-"https://designedtorun.com/",
-"https://facebook.com/BeraForCongress",
-"https://instagram.com/amiberamd",
-"https://secure.actblue.com/donate/ami-bera-1",
-"https://threads.net/@amiberamd",
-"https://x.com/AmiBeraMD"
+{
+"text": "916-205-9171",
+"href": "tel:916-205-9171"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ami-bera-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.beraforcongress.com/endorsements"
+},
+{
+"text": "HOW TO VOTE",
+"href": "https://www.beraforcongress.com/vote"
+},
+{
+"text": "On the Issues",
+"href": "https://www.beraforcongress.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "The Latest",
+"href": "https://www.beraforcongress.com/news"
+},
+{
+"text": "[image: Dr. Ami Bera for Congress]",
+"href": "https://www.beraforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/BeraForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/amiberamd"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@amiberamd"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/AmiBeraMD"
+},
+{
+"text": "info@beraforcongress.com",
+"href": "mailto:info@beraforcongress.com"
+},
+{
+"text": "press@beraforcongress.com",
+"href": "mailto:press@beraforcongress.com"
+}
 ]

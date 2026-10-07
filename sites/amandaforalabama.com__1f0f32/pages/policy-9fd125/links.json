@@ -1,20 +1,74 @@
 [
-"https://amandaforalabama.com/",
-"https://amandaforalabama.com/about",
-"https://amandaforalabama.com/cart",
-"https://amandaforalabama.com/endorsements",
-"https://amandaforalabama.com/events",
-"https://amandaforalabama.com/policy",
-"https://amandaforalabama.com/press",
-"https://amandaforalabama.com/shop",
-"https://amandaforalabama.com/volunteer",
-"https://facebook.com/AmandaforAlabama",
-"https://instagram.com/amandaforalabama",
-"https://secure.actblue.com/donate/amandaforalabama",
-"https://secure.actblue.com/donate/amandaforalabama?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/amandaforalabama?amount=20&express_lane=true",
-"https://secure.actblue.com/donate/amandaforalabama?amount=40&express_lane=true",
-"https://secure.actblue.com/donate/amandaforalabama?amount=60&express_lane=true",
-"https://secure.actblue.com/donate/amandaforalabama?amount=80&express_lane=true",
-"https://tiktok.com/@apusczek26"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/amandaforalabama?amount=100&express_lane=true"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/amandaforalabama?amount=20&express_lane=true"
+},
+{
+"text": "$40",
+"href": "https://secure.actblue.com/donate/amandaforalabama?amount=40&express_lane=true"
+},
+{
+"text": "$60",
+"href": "https://secure.actblue.com/donate/amandaforalabama?amount=60&express_lane=true"
+},
+{
+"text": "$80",
+"href": "https://secure.actblue.com/donate/amandaforalabama?amount=80&express_lane=true"
+},
+{
+"text": "0",
+"href": "https://www.amandaforalabama.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amandaforalabama"
+},
+{
+"text": "Endorsements",
+"href": "https://www.amandaforalabama.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.amandaforalabama.com/events"
+},
+{
+"text": "Meet Amanda",
+"href": "https://www.amandaforalabama.com/about"
+},
+{
+"text": "Policy Plans",
+"href": "https://www.amandaforalabama.com/policy"
+},
+{
+"text": "Press",
+"href": "https://www.amandaforalabama.com/press"
+},
+{
+"text": "Shop",
+"href": "https://www.amandaforalabama.com/shop"
+},
+{
+"text": "Volunteer",
+"href": "https://www.amandaforalabama.com/volunteer"
+},
+{
+"text": "[image: Amanda Pusczek for Alabama CD-4]",
+"href": "https://www.amandaforalabama.com/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@apusczek26"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AmandaforAlabama/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/amandaforalabama/"
+}
 ]

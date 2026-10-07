@@ -1,25 +1,94 @@
 [
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fjoemoss.com%2Fendorsed-by-right-to-life-time-to-defend-life-in-michigan",
-"https://boards.miottawa.org/resolution/resolution-to-promote-life",
-"https://facebook.com/JoeMossforOCC",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fjoemoss.com%2Fendorsed-by-right-to-life-time-to-defend-life-in-michigan&t=Endorsed+by+Right+to+Life%3A+Time+to+Defend+Life+in+Michigan",
-"https://joemoss.com/",
-"https://joemoss.com/about",
-"https://joemoss.com/blog",
-"https://joemoss.com/contact",
-"https://joemoss.com/district-map",
-"https://joemoss.com/endorsements",
-"https://joemoss.com/jobs",
-"https://joemoss.com/terms",
-"https://joemoss.com/volunteer",
-"https://linkedin.com/in/joe-moss",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjoemoss.com%2Fendorsed-by-right-to-life-time-to-defend-life-in-michigan&title=Endorsed+by+Right+to+Life%3A+Time+to+Defend+Life+in+Michigan&summary=I+am+honored+to+receive+an+endorsement+from+Right+to+Life+for+State+Representative+in+District+89.+I+will+always+promote+life%21%0D%0A%0D%0AI+was+also+endorsed+in+2022+and+2024%2C+and+have+been+a+strong+advocate+for+unborn+children%2C+mothers%2C+fathers%2C+and+families.%0D%0A%0D%0A",
-"https://ottawaimpact.com/download/Ottawa_Impact_Pro_Life_Protection_Assessment.pdf",
-"https://ottawaimpact.com/ottawa-county-deletes-radical-content-promoting-early-childhood-sexuality",
-"https://ottawaimpact.com/right-to-life-halts-endorsements-of-current-ottawa-county-commissioners",
-"https://protectlifemi.org/",
-"https://reddit.com/submit?url=https%3A%2F%2Fjoemoss.com%2Fendorsed-by-right-to-life-time-to-defend-life-in-michigan&title=Endorsed+by+Right+to+Life%3A+Time+to+Defend+Life+in+Michigan",
-"https://secure.winred.com/joemoss/donate",
-"https://x.com/JoeMoss",
-"https://x.com/intent/post?url=https%3A%2F%2Fjoemoss.com%2Fendorsed-by-right-to-life-time-to-defend-life-in-michigan&text=Endorsed+by+Right+to+Life%3A+Time+to+Defend+Life+in+Michigan"
+{
+"text": "About",
+"href": "https://joemoss.com/about"
+},
+{
+"text": "Contact",
+"href": "https://joemoss.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://joemoss.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/joemoss/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://joemoss.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JoeMossforOCC"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fjoemoss.com%2Fendorsed-by-right-to-life-time-to-defend-life-in-michigan&t=Endorsed+by+Right+to+Life%3A+Time+to+Defend+Life+in+Michigan"
+},
+{
+"text": "Jobs",
+"href": "https://joemoss.com/jobs"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/joe-moss/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjoemoss.com%2Fendorsed-by-right-to-life-time-to-defend-life-in-michigan&title=Endorsed+by+Right+to+Life%3A+Time+to+Defend+Life+in+Michigan&summary=I+am+honored+to+receive+an+endorsement+from+Right+to+Life+for+State+Representative+in+District+89.+I+will+always+promote+life%21%0D%0A%0D%0AI+was+also+endorsed+in+2022+and+2024%2C+and+have+been+a+strong+advocate+for+unborn+children%2C+mothers%2C+fathers%2C+and+families.%0D%0A%0D%0A"
+},
+{
+"text": "News",
+"href": "https://joemoss.com/blog"
+},
+{
+"text": "Protect Life Michigan",
+"href": "https://www.protectlifemi.org/"
+},
+{
+"text": "Reddit",
+"href": "https://reddit.com/submit?url=https%3A%2F%2Fjoemoss.com%2Fendorsed-by-right-to-life-time-to-defend-life-in-michigan&title=Endorsed+by+Right+to+Life%3A+Time+to+Defend+Life+in+Michigan"
+},
+{
+"text": "Resolution to Promote Life",
+"href": "https://boards.miottawa.org/resolution/resolution-to-promote-life/"
+},
+{
+"text": "Terms",
+"href": "https://joemoss.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://joemoss.com/volunteer"
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fjoemoss.com%2Fendorsed-by-right-to-life-time-to-defend-life-in-michigan"
+},
+{
+"text": "X",
+"href": "https://x.com/JoeMoss"
+},
+{
+"text": "X",
+"href": "https://x.com/intent/post?url=https%3A%2F%2Fjoemoss.com%2Fendorsed-by-right-to-life-time-to-defend-life-in-michigan&text=Endorsed+by+Right+to+Life%3A+Time+to+Defend+Life+in+Michigan"
+},
+{
+"text": "[image: Joe Moss Logo] [image: Joe Moss Logo]",
+"href": "https://joemoss.com/"
+},
+{
+"text": "halting",
+"href": "https://ottawaimpact.com/right-to-life-halts-endorsements-of-current-ottawa-county-commissioners"
+},
+{
+"text": "material on their website",
+"href": "https://ottawaimpact.com/download/Ottawa_Impact_Pro_Life_Protection_Assessment.pdf"
+},
+{
+"text": "radical content",
+"href": "https://ottawaimpact.com/ottawa-county-deletes-radical-content-promoting-early-childhood-sexuality"
+}
 ]

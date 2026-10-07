@@ -1,3 +1,70 @@
+CHAI FOR CONGRESS Connecticut's First District CT-1 Home About Amy Issues Volunteer Contact Donate Donate Open main menu Back to the Issues In Her Own Words Amy’s complete Ballotpedia Candidate Connection survey.
+Every answer below is reproduced exactly as she submitted it — no edits, no spin.
+Ballotpedia Candidate Connection · 2025 Survey Responses What she was asked 1 .
+Who are you?
+Tell us about yourself.
+2 .
+Please list below 3 key messages of your campaign.
+What are the main points you want voters to remember about your goals for your time in office?
+3 .
+What areas of public policy are you personally passionate about?
+4 .
+Who do you look up to?
+Whose example would you like to follow, and why?
+5 .
+What characteristics or principles are most important for an elected official?
+6 .
+What do you believe are the core responsibilities for someone elected to this office?
+7 .
+What legacy would you like to leave?
+8 .
+What is the first historical event that happened in your lifetime that you remember?
+How old were you at the time?
+9 .
+What was your very first job?
+How long did you have it?
+10 .
+What is your favorite book?
+Why?
+11 .
+If you could be any fictional character, who would you want to be?
+12 .
+What is something that has been a struggle in your life?
+13 .
+What qualities does the U.S.
+House of Representatives possess that makes it unique as an institution?
+14 .
+Do you believe that it's beneficial for representatives to have previous experience in government or politics?
+15 .
+What do you perceive to be the United States' greatest challenges as a nation over the next decade?
+16 .
+Do you believe that two years is the right term length for representatives?
+17 .
+What are your thoughts on term limits?
+18 .
+Is there a particular representative, past or present, whom you want to model yourself after?
+19 .
+Both sitting representatives and candidates for office hear many personal stories from the residents of their district.
+Is there a story that you’ve heard that you found particularly touching, memorable, or impactful?
+20 .
+Do you believe that compromise is necessary or desirable for policymaking?
+21 .
+The Constitution says that all bills for raising revenue must originate in the House.
+What role would this power play in your priorities if elected?
+22 .
+How should the U.S.
+House use its investigative powers?
+23 .
+What organizations or individuals have endorsed your campaign?
+24 .
+Candidates hear many personal stories from voters.
+Is there a story that you’ve heard that you found particularly touching or memorable?
+25 .
+What is an accomplishment that you are proud of?
+26 .
+What role should the United States government have in the development or use of artificial intelligence?
+27 .
+What legislation would you enact related to election administration in the United States?
 Who are you?
 Tell us about yourself.
 Dr.
@@ -247,8 +314,7 @@ I would like to see testimony by people who are not part of the federal bureaucr
 The investigative powers should be used for legislative purposes most commonly, but also for oversight, as has been the tradition in the past.
 I think diversity of testimony will greatly improve the quality of the testimony that we receive.
 What organizations or individuals have endorsed your campaign?
-Veterans for America First
-Candidates hear many personal stories from voters.
+Veterans for America First Candidates hear many personal stories from voters.
 Is there a story that you’ve heard that you found particularly touching or memorable?
 I always ask people what is important to them.
 I have walked into Democratic headquarters, into festivals, into pride fairs, into Liberty Fest, and into GOP events.
@@ -265,10 +331,16 @@ What role should the United States government have in the development or use of 
 The US Government should ensure that the US is the best, the first, and the most ethical nation on earth as we develop AI.
 Other nations will continue to develop it, and we must not fall behind.
 But we need human input from real people and the impact that it might have on all of our lives.
-This does imply some form of a regulatory structure, hopefully one that is responsive to humanity and considers the question of "OUGHT" instead of simply the question of "CAN."
-What legislation would you enact related to election administration in the United States?
+This does imply some form of a regulatory structure, hopefully one that is responsive to humanity and considers the question of "OUGHT" instead of simply the question of "CAN." What legislation would you enact related to election administration in the United States?
 I would create federal standards with requirements for voter ID and careful monitoring of voter rolls.
 I would actually like to find a way to require individual states to fill Secretary of the State positions with representatives from each party, including minor parties.
 My state has become a laughingstock with national spotlights on our inept criminal ballot stuffers.
 Oh and there is more.
 I think that voting should have a maximum of one week of early voting, that ballots should be paper, that election information should be more like Ballotpedia, where representatives are presented with their credentials and ideas, instead of with their cash and sponsors.
+Read where Amy stands on the issues Prosperity, health care, education, mental health, taxes, and foreign policy — in depth.
+See the Issues CHAI FOR CONGRESS Connecticut's First District CT-1 Follow the Campaign Facebook (opens in a new tab) X (opens in a new tab) TikTok (opens in a new tab) Quick Links About Amy Issues Volunteer Contact Get Involved Join the movement to put the UNITED back in the United States.
+Donate Now Paid for by Friends of Doc Chai, Jonathan De Los Santos, Treasurer.
+Approved by Dr.
+Amy Chai. © # - # Friends of Doc Chai.
+Doc Amy Chai for Congress.
+Amy Chai's Platform. · Website by Connecticut Website Company · Donate Here.

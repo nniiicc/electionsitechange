@@ -1,23 +1,6 @@
-Activities & Affiliations
-Current...
-- Habitat for Humanity Advisory Board Member
-- Dallastown School Board Director
-- Young Presidents Organization
-- CEO Forum Facilitator for the High Center for Family Business
-- National Rifle Association Member
-- Dallastown School District Dollars for Scholars board member
-(8 years)
-- Living Word Community Church deacon and board president
-(3 years)
-- Volunteer special needs ministry at Living Word
-(3 years)
-- Volunteer youth leader at Living Word
-(4 years)
-- Volunteer youth leader at Otterbein United Methodist Church
-(5 years)
-REPUBLICAN CANDIDATE
-Mike Jones
-Born and raised in York County, Mike grew up in Dallastown in a two bedroom apartment with his parents and brother.
+People Over Politics Home About Mike Events Donate Contact People Over Politics Home About Mike Events Donate Contact About Mike BIOGRAPHY Activities & Affiliations Current...
+Habitat for Humanity Advisory Board Member Dallastown School Board Director Young Presidents Organization CEO Forum Facilitator for the High Center for Family Business National Rifle Association Member Previous...
+Dallastown School District Dollars for Scholars board member (8 years) Living Word Community Church deacon and board president (3 years) Volunteer special needs ministry at Living Word (3 years) Volunteer youth leader at Living Word (4 years) Volunteer youth leader at Otterbein United Methodist Church (5 years) REPUBLICAN CANDIDATE Mike Jones Born and raised in York County, Mike grew up in Dallastown in a two bedroom apartment with his parents and brother.
 Mike saw first hand what hard work looks like, observing his father work countless hours as a machinist, often returning home with the aches and pains associated with demanding physical labor.
 Mike attributes his mother with building his faith in Christ, by reading him the Bible at a young age and living out a life of faith, kindness, and generosity.
 Like his father, Mike learned early to appreciate and value hard work, starting his first job at 15, picking fruit in the summer, and later delivering papers and washing dishes.
@@ -56,5 +39,9 @@ This is unacceptable.
 Along with his years of leadership and business experience, Mike will bring work ethic, humility, and integrity to the State House.
 Most importantly, he will continually push for a Return to Citizen Government, specifically, term limits, restrictions on personal gifts from lobbyists, and a part time legislature like those employed by 40 other states.
 To that end, Mike is already leading by example, having signed a pledge to support term limits, to not accept personal gifts from lobbyists, and to refuse a government pension and per diems.
-Please join Mike and his broad base of supporters on our journey to Harrisburg…
-and our Return to Citizen Government.
+Please join Mike and his broad base of supporters on our journey to Harrisburg… and our Return to Citizen Government.
+Support Mike Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+STAY INFORMED Sign up with your email address to receive news and updates.
+Email Address Sign Up We respect your privacy and will never share your information.
+Thank you! home | about mike | events | donate TeamJones@JonesForPa.com Paid For by Jones For PA ©#

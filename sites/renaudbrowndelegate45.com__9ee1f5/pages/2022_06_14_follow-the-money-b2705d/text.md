@@ -1,16 +1,12 @@
-Outside Spending
-A January 2010 Supreme Court decision (Citizens United v.
-Federal Election Commission) permits corporations and unions to make political expenditures from their treasuries directly and through other organizations, as long as the spending — often in the form of TV ads — is done independently of any candidate.
+Skip to content Renaud Brown for Delegate 2026 Running on Education, Housing, Transit and At-will repeal Home Veterans Blog Taxes Immigration Workers Restoration Medicare for All Housing Maryland Green New Deal Transportation: From Oakland to Ocean City Environment District Priorities Back Follow the Money Posted by singer39 June 14, 2022 Leave a comment on Follow the Money Outside Spending A January 2010 Supreme Court decision ( Citizens United v.
+Federal Election Commission ) permits corporations and unions to make political expenditures from their treasuries directly and through other organizations, as long as the spending — often in the form of TV ads — is done independently of any candidate.
 In many cases, the activity takes place without complete or immediate disclosure about who is funding it, preventing voters from understanding who is truly behind many political messages.
 The spending figures cited are what the groups reported to the FEC; it does not account for all the money the groups spent since certain kinds of ads are not required to be reported.
-See more on the reporting rules regarding outside spending.
-Total by Type of Spender, 2022
-| Type of Group | Total Spent | # of Groups Registered | # of Groups Spending to date |
-|---|---|---|---|
-| Super PACs | $258,061,751 | 2,162 | 309 |
-| Social Welfare 501(c)(4) | $3,763,171 | N/A | 37 |
-| Trade Assns 501(c)(6) | $351,639 | N/A | 4 |
-| Unions 501(c)(5) | $727,489 | N/A | 5 |
-| Parties | $13,623,532 | 139 | 8 |
-| Other (corporations, individual people, other groups, etc) | $90,482,891 | 811 | 132 |
-| Grand Total: | $367,010,473 | 3,196 | 495 |
+See more on the reporting rules regarding outside spending .
+Total by Type of Spender, 2022 Type of Group Total Spent # of Groups Registered # of Groups Spending to date Super PACs $258,061,751 2,162 309 Social Welfare 501(c)(4) $3,763,171 N/A 37 Trade Assns 501(c)(6) $351,639 N/A 4 Unions 501(c)(5) $727,489 N/A 5 Parties $13,623,532 139 8 Other (corporations, individual people, other groups, etc) $90,482,891 811 132 Grand Total: $367,010,473 3,196 495 (courtesy of opensecrets.org) Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Related Posted by singer39 June 14, 2022 Posted in Uncategorized Published by singer39 Aspiring and inspiring tenor, teacher, publisher, activist, coach, GREEN View more posts Post navigation Previous Post Previous post: Friends of Renaud Brown Next Post Next post: Govans residents seek to overturn zoning approval for crematorium, cite potentially harmful environmental effects Leave a comment Cancel reply Δ Archives Archives Select Month December 2023 (1) July 2023 (1) July 2022 (2) June 2022 (1) May 2022 (1) February 2022 (1) Blog Stats 6,288 hits Renaud Brown for Delegate 2026 , Website Powered by WordPress.com .
+Comment Reblog Subscribe Subscribed Renaud Brown for Delegate 2026 Sign me up Have a WordPress.com account?
+Log in now.
+Renaud Brown for Delegate 2026 Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

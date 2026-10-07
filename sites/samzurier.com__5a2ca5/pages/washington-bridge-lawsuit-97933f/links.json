@@ -1,34 +1,134 @@
 [
-"https://courts.ri.gov/Decisions/Superior-PC-2024-4526.pdf",
-"https://samzurier.com/",
-"https://samzurier.com/2024-senate-district-letters",
-"https://samzurier.com/2025-district-letters",
-"https://samzurier.com/2026-district-letters",
-"https://samzurier.com/about-sam-zurier",
-"https://samzurier.com/donate",
-"https://samzurier.com/join-my-email-list",
-"https://samzurier.com/my-work-2",
-"https://samzurier.com/public-service-record",
-"https://samzurier.com/senate-district-letters",
-"https://samzurier.com/state-issues",
-"https://samzurier.com/state-legislation",
-"https://samzurier.com/wp-content/uploads/AECOM-Reply.pdf",
-"https://samzurier.com/wp-content/uploads/Aries-Support-Svc.-Reply.pdf",
-"https://samzurier.com/wp-content/uploads/Commonwealth-Reply.pdf",
-"https://samzurier.com/wp-content/uploads/Joint-Venture-Reply.pdf",
-"https://samzurier.com/wp-content/uploads/PC-2024-04526-103124-Commonwealth-Memo-iso-MTD-with-Exs-1-3pdf.pdf",
-"https://samzurier.com/wp-content/uploads/PC-2024-04526-AECOM-MOL-ISO-Mtn-to-Dismiss-Aecompdf.pdf",
-"https://samzurier.com/wp-content/uploads/PC-2024-04526-Barletta-Aetna-JV-Motion-to-Dismiss-FINALpdf.pdf",
-"https://samzurier.com/wp-content/uploads/PC-2024-04526-Barletta-Exhibit-1pdf.pdf",
-"https://samzurier.com/wp-content/uploads/PC-2024-04526-Barletta-Exhibit-2pdf.pdf",
-"https://samzurier.com/wp-content/uploads/PC-2024-04526-Barletta-Exhibit-3pdf.pdf",
-"https://samzurier.com/wp-content/uploads/PC-2024-04526-Barletta-Exhibit-4Apdf.pdf",
-"https://samzurier.com/wp-content/uploads/PC-2024-04526-Barletta-Exhibit-4B-pdf.pdf",
-"https://samzurier.com/wp-content/uploads/PC-2024-04526-Barletta-Exhibit-4Cpdf.pdf",
-"https://samzurier.com/wp-content/uploads/PC-2024-04526-Barletta-Exhibit-5pdf.pdf",
-"https://samzurier.com/wp-content/uploads/PC-2024-04526-Complaint-final-8-16-2024pdf.pdf",
-"https://samzurier.com/wp-content/uploads/PC-2024-04526-Consolidated-Response-in-Opposition-to-RUle-12-Motionspdf.pdf",
-"https://samzurier.com/wp-content/uploads/PC-2024-04526-Exhibit-1-Aecompdf.pdf",
-"https://samzurier.com/wp-content/uploads/PC-2024-04526-Jacobs-Engineering-Group-Incs-Memorandum-of-Law-in-Support-of-Motion-to-Dismiss.pdf",
-"https://samzurier.com/wp-content/uploads/Steere-Engineering-Reply.pdf"
+{
+"text": "2022-23 District Letters",
+"href": "https://samzurier.com/senate-district-letters/"
+},
+{
+"text": "2024 District Letters",
+"href": "https://samzurier.com/2024-senate-district-letters/"
+},
+{
+"text": "2025 District Letters",
+"href": "https://samzurier.com/2025-district-letters/"
+},
+{
+"text": "2026 District Letters",
+"href": "https://samzurier.com/2026-district-letters/"
+},
+{
+"text": "AECOM Exhibit 1",
+"href": "https://samzurier.com/wp-content/uploads/PC-2024-04526-Exhibit-1-Aecompdf.pdf"
+},
+{
+"text": "AECOM Motion to Dismiss",
+"href": "https://samzurier.com/wp-content/uploads/PC-2024-04526-AECOM-MOL-ISO-Mtn-to-Dismiss-Aecompdf.pdf"
+},
+{
+"text": "AECOM Reply",
+"href": "https://samzurier.com/wp-content/uploads/AECOM-Reply.pdf"
+},
+{
+"text": "Aries Support Svc. Reply",
+"href": "https://samzurier.com/wp-content/uploads/Aries-Support-Svc.-Reply.pdf"
+},
+{
+"text": "Barletta Exhibit 1",
+"href": "https://samzurier.com/wp-content/uploads/PC-2024-04526-Barletta-Exhibit-1pdf.pdf"
+},
+{
+"text": "Barletta Exhibit 2",
+"href": "https://samzurier.com/wp-content/uploads/PC-2024-04526-Barletta-Exhibit-2pdf.pdf"
+},
+{
+"text": "Barletta Exhibit 3",
+"href": "https://samzurier.com/wp-content/uploads/PC-2024-04526-Barletta-Exhibit-3pdf.pdf"
+},
+{
+"text": "Barletta Exhibit 4A",
+"href": "https://samzurier.com/wp-content/uploads/PC-2024-04526-Barletta-Exhibit-4Apdf.pdf"
+},
+{
+"text": "Barletta Exhibit 4B",
+"href": "https://samzurier.com/wp-content/uploads/PC-2024-04526-Barletta-Exhibit-4B-pdf.pdf"
+},
+{
+"text": "Barletta Exhibit 4C",
+"href": "https://samzurier.com/wp-content/uploads/PC-2024-04526-Barletta-Exhibit-4Cpdf.pdf"
+},
+{
+"text": "Barletta Exhibit 5",
+"href": "https://samzurier.com/wp-content/uploads/PC-2024-04526-Barletta-Exhibit-5pdf.pdf"
+},
+{
+"text": "Barletta-Aetna Joint Venture – Motion to Dismiss",
+"href": "https://samzurier.com/wp-content/uploads/PC-2024-04526-Barletta-Aetna-JV-Motion-to-Dismiss-FINALpdf.pdf"
+},
+{
+"text": "Bio",
+"href": "https://samzurier.com/about-sam-zurier/"
+},
+{
+"text": "Commonwealth Engineering Motion to Dismiss",
+"href": "https://samzurier.com/wp-content/uploads/PC-2024-04526-103124-Commonwealth-Memo-iso-MTD-with-Exs-1-3pdf.pdf"
+},
+{
+"text": "Commonwealth Reply",
+"href": "https://samzurier.com/wp-content/uploads/Commonwealth-Reply.pdf"
+},
+{
+"text": "DONATE",
+"href": "https://samzurier.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://samzurier.com/"
+},
+{
+"text": "Jacobs Engineering Group Incs Memorandum of Law in Support of Motion to Dismiss",
+"href": "https://samzurier.com/wp-content/uploads/PC-2024-04526-Jacobs-Engineering-Group-Incs-Memorandum-of-Law-in-Support-of-Motion-to-Dismiss.pdf"
+},
+{
+"text": "Join My Email List",
+"href": "https://samzurier.com/join-my-email-list/"
+},
+{
+"text": "Joint Venture Reply",
+"href": "https://samzurier.com/wp-content/uploads/Joint-Venture-Reply.pdf"
+},
+{
+"text": "Projects",
+"href": "https://samzurier.com/my-work-2/"
+},
+{
+"text": "Public Service Record",
+"href": "https://samzurier.com/public-service-record/"
+},
+{
+"text": "State Issues",
+"href": "https://samzurier.com/state-issues/"
+},
+{
+"text": "State Legislation",
+"href": "https://samzurier.com/state-legislation/"
+},
+{
+"text": "State’s Complaint",
+"href": "https://samzurier.com/wp-content/uploads/PC-2024-04526-Complaint-final-8-16-2024pdf.pdf"
+},
+{
+"text": "State’s Memorandum In Oppositior To Motions To Dismiss",
+"href": "https://samzurier.com/wp-content/uploads/PC-2024-04526-Consolidated-Response-in-Opposition-to-RUle-12-Motionspdf.pdf"
+},
+{
+"text": "Steere Engineering Reply",
+"href": "https://samzurier.com/wp-content/uploads/Steere-Engineering-Reply.pdf"
+},
+{
+"text": "Superior Court Decision on Motions to Dismiss",
+"href": "https://www.courts.ri.gov/Decisions/Superior-PC-2024-4526.pdf"
+},
+{
+"text": "[image: Sam Zurier New Site]",
+"href": "https://samzurier.com/"
+}
 ]

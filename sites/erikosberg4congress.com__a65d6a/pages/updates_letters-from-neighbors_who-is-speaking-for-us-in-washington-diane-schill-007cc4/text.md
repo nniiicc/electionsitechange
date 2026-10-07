@@ -1,4 +1,8 @@
-I agree with recent editorial that it was good to see Rep Fischbach at the Todd Wadena Electric Co-op candidate forum.
+Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Store Updates Get Involved 38 Door Club 38 Phones Club Donate Menu Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Updates Get Involved Donate Who Is Speaking for Us in Washington? – Diane Schiller Anderson, Wadena Erik Osberg for Congress > Blog > Letters from Neighbors > Who Is Speaking for Us in Washington? – Diane Schiller Anderson, Wadena Who Is Speaking for Us in Washington? – Diane Schiller Anderson, Wadena Who Is Speaking for Us in Washington? – Diane Schiller Anderson, Wadena September 24, 2026 Letters From Neighbors I agree with recent editorial that it was good to see Rep Fischbach at the Todd Wadena Electric Co-op candidate forum.
 As for her support of rural Minnesotans, I have several questions.
 How has the current war with Iran- or as our administration has referred to it by other names,” conflict, military operation, little excursion, skirmish” , continued without Congressional authorization?
 This action, now over 6 months old, has cost lives, including many Iranian civilians, among them young students.
@@ -24,7 +28,5 @@ And why are our elected officials looking the other way when the executive offic
 Bitcoins, gold coins, stock market dealings…..
 I have many questions about the current handling of our immigration system, but will save those for another day.
 In the meantime, I would appreciate answers to my above haunting questions.
-Sincerely,
-A concerned rural citizen,
-Diane Schiller Anderson
-Wadena, Minnesota
+Sincerely, A concerned rural citizen, Diane Schiller Anderson Wadena, Minnesota 0 Likes 0 Shares 0 0 0 0 Related Articles Letters from Neighbors Mounting Costs for Rural Landowners | Chris Atkinson, Melrose October 2, 2026 - by Letters From Neighbors Letters from Neighbors It’s time for a change: We have done better and we can do better – Nikki LaSota, Glenwood September 24, 2026 - by Letters From Neighbors Home | Meet Erik | Priorities | Events | Voting | Updates | Store | Donate | Join The Team info@erikosberg4congress.com PAID FOR BY ERIK OSBERG FOR CONGRESS PO Box 550, Wadena, MN 56482 ©# Erik Osberg For Congress · Built by Cora+Krist .
+Accessibility Privacy Policy & Terms of Use Media Toolkit Volunteer Hub

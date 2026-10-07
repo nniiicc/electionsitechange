@@ -1,12 +1,42 @@
 [
-"https://bloomerchamber.com/ropejump",
-"https://dnr.wisconsin.gov/topic/parks/brunetisland",
-"https://maps.legis.wisconsin.gov/?asm=68&single=y",
-"https://robsummerfield4assembly.org/",
-"https://robsummerfield4assembly.org/about-the-68th.html",
-"https://robsummerfield4assembly.org/contact.html",
-"https://robsummerfield4assembly.org/issues.html",
-"https://robsummerfield4assembly.org/meet-rob.html",
-"https://secure.anedot.com/friends-of-rob-summerfield/robsummerfield",
-"https://visiteauclaire.com/chippewariverwatertrail"
+{
+"text": "68th Assembly DistrictAddress (District) Look Up",
+"href": "https://maps.legis.wisconsin.gov/?asm=68&single=y"
+},
+{
+"text": "About the 68th",
+"href": "https://www.robsummerfield4assembly.org/about-the-68th.html"
+},
+{
+"text": "Contact",
+"href": "https://www.robsummerfield4assembly.org/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-rob-summerfield/robsummerfield"
+},
+{
+"text": "Home",
+"href": "https://www.robsummerfield4assembly.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.robsummerfield4assembly.org/issues.html"
+},
+{
+"text": "Meet Rob",
+"href": "https://www.robsummerfield4assembly.org/meet-rob.html"
+},
+{
+"text": "[image]",
+"href": "https://dnr.wisconsin.gov/topic/parks/brunetisland"
+},
+{
+"text": "[image]",
+"href": "https://www.bloomerchamber.com/ropejump"
+},
+{
+"text": "[image]",
+"href": "https://www.visiteauclaire.com/chippewariverwatertrail/"
+}
 ]

@@ -1,11 +1,5 @@
-By CBS Miami Team, Ivan Taylor
-Updated on: October 3, 2023
-MIAMI - The Florida law known as the "Homeowners' Association Bill of Rights," which was created as a way to improve oversight of the state's HOAs, took effect on Oct. 1.
-By WPLG Local 10
-Updated on: March 12, 2023
-The recent arrests of homeowners association members in the Southwest Miami-Dade Hammocks community, and the money involved, may have shocked a lot of people.
-By MegaTV
-Updated on: June 26, 2023
-Hoy con Tomás Regalado 06-24-23 entrevista a Juan Carlos Porras, Representante Estatal, DTTO.
-By Community News Releases
-State Representative Juan Carlos Porras Led Efforts to Bring This Legislation Forward After Significant Incidents in District
+About Issues Legislative Accomplishments Media Donate Media Florida law known as the "Homeowners' Association Bill of Rights" takes effect By CBS Miami Team, Ivan Taylor Updated on: October 3, 2023 MIAMI - The Florida law known as the " Homeowners' Association Bill of Rights ," which was created as a way to improve oversight of the state's HOAs, took effect on Oct.
+1. ‍ Read More >> Florida Rep.
+Juan Carlos Porras joins TWISF to discuss sponsoring bill combating homeowners asso...
+By WPLG Local 10 Updated on: March 12, 2023 The recent arrests of homeowners association members in the Southwest Miami-Dade Hammocks community, and the money involved, may have shocked a lot of people. ‍ Read More >> Hoy con Tomás Regalado 06-24-23 entrevista a Juan Carlos Porras, Representante Estatal, DTTO.
+By MegaTV Updated on: June 26, 2023 Hoy con Tomás Regalado 06-24-23 entrevista a Juan Carlos Porras, Representante Estatal, DTTO. ‍ ‍ Read More >> Florida Governor Signs Major HOA Reform Bill HB 1203 into Law, Strengthening Protections Against Fraud By Community News Releases State Representative Juan Carlos Porras Led Efforts to Bring This Legislation Forward After Significant Incidents in District Read More >> About Issues Legislative Accomplishments Media Privacy Policy Political advertisement paid for and approved by Juan Carlos Porras, Republican for Florida House of Representatives District 119.

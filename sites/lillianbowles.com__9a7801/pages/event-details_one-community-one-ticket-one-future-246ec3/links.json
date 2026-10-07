@@ -1,16 +1,70 @@
 [
-"https://facebook.com/ElectLillianBowles",
-"https://instagram.com/electlillianbowles",
-"https://lillianbowles.com/",
-"https://lillianbowles.com/about",
-"https://lillianbowles.com/accessibility-statement",
-"https://lillianbowles.com/affordability-stability",
-"https://lillianbowles.com/education-opportunity",
-"https://lillianbowles.com/event-list",
-"https://lillianbowles.com/join-the-team",
-"https://lillianbowles.com/privacy-policy",
-"https://lillianbowles.com/strong-families-communities",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.lillianbowles.com%2Fevent-details%2Fone-community-one-ticket-one-future",
-"https://secure.actblue.com/donate/lillianbowles",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.lillianbowles.com%2Fevent-details%2Fone-community-one-ticket-one-future&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "About",
+"href": "https://www.lillianbowles.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.lillianbowles.com/accessibility-statement"
+},
+{
+"text": "Affordability & Stability",
+"href": "https://www.lillianbowles.com/affordability-stability"
+},
+{
+"text": "Education & Opportunity",
+"href": "https://www.lillianbowles.com/education-opportunity"
+},
+{
+"text": "Events",
+"href": "https://www.lillianbowles.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.lillianbowles.com"
+},
+{
+"text": "Join The Team",
+"href": "https://www.lillianbowles.com/join-the-team"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lillianbowles.com/privacy-policy"
+},
+{
+"text": "See other events",
+"href": "https://www.lillianbowles.com/event-list"
+},
+{
+"text": "Strong Families & Communities",
+"href": "https://www.lillianbowles.com/strong-families-communities"
+},
+{
+"text": "Support",
+"href": "https://secure.actblue.com/donate/lillianbowles"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ElectLillianBowles"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electlillianbowles/"
+},
+{
+"text": "[image: Lillian-White-Transparent.png]",
+"href": "https://www.lillianbowles.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.lillianbowles.com%2Fevent-details%2Fone-community-one-ticket-one-future&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.lillianbowles.com%2Fevent-details%2Fone-community-one-ticket-one-future"
+},
+{
+"text": "info@lillianbowles.com",
+"href": "mailto:info@lillianbowles.com"
+}
 ]

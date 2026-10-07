@@ -1,5 +1,4 @@
-We Can’t Do This Without You
-I was raised to believe that when people gathered for a meal, no one started eating until everybody had a seat.
+top of page Like Like Home About Issues Endorsements Events Join Us Vote Donate Blog Students for Stallworth Menu Close DONATE GET INVOLVED DONATE All Posts Campaign We Can’t Do This Without You TaWanda Stallworth #ago 4 min read I was raised to believe that when people gathered for a meal, no one started eating until everybody had a seat.
 Maybe that sounds simple, but to me, it was one of the first lessons in community: notice who’s missing, make room for them, and don’t rush ahead pretending the table is full when somebody still needs a seat.
 That’s the spirit I’m bringing into this moment in Pennsylvania’s 199th District.
 I know this community includes people who have been showing up for years, people who just registered and are still finding their footing, and people who care deeply but stepped back after feeling ignored, talked over, or asked for their vote without ever feeling truly heard.
@@ -51,7 +50,10 @@ If you have time to give, we would be grateful to have you volunteer with the ca
 That can mean knocking doors, making calls, talking with neighbors, helping at events, sharing a post, or offering your gifts in whatever way you are able.
 Visit https://www.stallworthforpa.com/ to fill out the volunteer form and let us know how you would like to help.
 If you are able to give financially, your donation helps us reach more voters, expand our outreach across the district, and make sure people hear directly from a campaign rooted in service, community, and real representation.
-To donate, visit https://secure.actblue.com/donate/stallworthforpa.
+To donate, visit https://secure.actblue.com/donate/stallworthforpa .
 There is still a seat for you here, and just like I was taught growing up, we don’t begin until everyone has a place at the table.
 Without you here, this community is missing a vital voice.
 We can’t do this without you.
+Recent Posts See All You’re the Neighbor We’ve Been Waiting For Why Does Responsible Development Matter?
+Reclaiming Freedom, Community, and Democracy in Pennsylvania’s 199th District Home Accessibility Statement Privacy Policy Terms of Service Stallworth for PA | PO Box 314 | Carlisle, PA 17013 hello@stallworthforpa.com Paid for by Stallworth For PA Home About Issues Endorsements Events Join Us Vote Donate Blog Students for Stallworth Empowering Community, Championing Change.
+VOTE FOR TAWANDA 2026 bottom of page

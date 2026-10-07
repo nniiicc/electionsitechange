@@ -1,17 +1,66 @@
 [
-"https://campaignpartner.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSekoF9gvQiLNy6t1B7YCVYa0aIcS6_-KosRXWnLKoB2CUNIcA/viewform?usp=sf_link",
-"https://facebook.com/SenatorRodPelton",
-"https://instagram.com/senatorrodpelton",
-"https://peltonforcolorado.com/",
-"https://peltonforcolorado.com/about_rod",
-"https://peltonforcolorado.com/events",
-"https://peltonforcolorado.com/home",
-"https://peltonforcolorado.com/issues",
-"https://peltonforcolorado.com/make-endorsement",
-"https://peltonforcolorado.com/news",
-"https://secure.winred.com/pelton-for-colorado/donate-today",
-"https://twitter.com/SenRodPelton",
-"https://us02web.zoom.us/meeting/register/tZUodOmsrTgiGNPfE-u2wVYqyfdPDEI21zxC",
-"https://youtube.com/user/ColoradoChannel165/featured"
+{
+"text": "About Rod",
+"href": "https://www.peltonforcolorado.com/about_rod"
+},
+{
+"text": "Committees",
+"href": "https://www.peltonforcolorado.com/events"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/pelton-for-colorado/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.peltonforcolorado.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.peltonforcolorado.com/issues"
+},
+{
+"text": "Make Endorsement",
+"href": "https://www.peltonforcolorado.com/make-endorsement"
+},
+{
+"text": "News",
+"href": "https://www.peltonforcolorado.com/news"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "[image]",
+"href": "https://www.peltonforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/SenRodPelton"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SenatorRodPelton/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/senatorrodpelton/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/user/ColoradoChannel165/featured"
+},
+{
+"text": "aide.house65@gmail.com",
+"href": "mailto:"
+},
+{
+"text": "https://docs.google.com/forms/d/e/1FAIpQLSekoF9gvQiLNy6t1B7YCVYa0aIcS6_-KosRXWnLKoB2CUNIcA/viewform?usp=sf_link",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSekoF9gvQiLNy6t1B7YCVYa0aIcS6_-KosRXWnLKoB2CUNIcA/viewform?usp=sf_link"
+},
+{
+"text": "https://us02web.zoom.us/meeting/register/tZUodOmsrTgiGNPfE-u2wVYqyfdPDEI21zxC",
+"href": "https://us02web.zoom.us/meeting/register/tZUodOmsrTgiGNPfE-u2wVYqyfdPDEI21zxC"
+}
 ]

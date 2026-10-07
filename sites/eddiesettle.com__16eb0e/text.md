@@ -1,4 +1,4 @@
-A native of Wilkes County, Eddie Settle learned at an early age about business.
+EMAIL DONATE ABOUT ISSUES RESOURCES NC SENATE CONTACT Menu ABOUT ISSUES RESOURCES NC SENATE CONTACT Eddie Settle Families First GET UPDATES DONATE TODAY ABOUT EDDIE A native of Wilkes County, Eddie Settle learned at an early age about business.
 Upon graduation from East Wilkes High School in 1978, he began attending Wilkes Community College, majoring in Business.
 In 1979, Eddie went into the family business that his dad started in 1970, Nu-Line Printing, Inc.
 As a side venture, Eddie started Settle Cattle Company in 1990.
@@ -9,14 +9,4 @@ He understands that high taxes stifles business, which in turn kills jobs and de
 Eddie was elected to represent Wilkes County on its Board of County Commissioners in 2012, and he has been serving consecutive terms since.
 He has served four years as Chairman and three years as Vice Chairman of the Board.
 He has recently been appointed Chairman of the Environmental Steering Committee of the NCACC (North Carolina Association of County Commissioners).
-He has served six years as Chairman of the Agriculture Steering Committee of the NCACC.
-Eddie opposes tax increases, believes in cutting unnecessary spending, and focuses on helping businesses create jobs.
-Eddie values the importance of the family unit and advocates for the rights and dignity of the unborn.
-Eddie is a member of the NRA and actively fights for second amendment rights at the state level.
-Eddie emphasizes the need for a quality education and supports initiatives like offering free two-year degrees for Wilkes County high school graduates while opposing the teaching of Critical Race Theory in NC schools.
-Eddie prioritizes the interests of agriculture and the environment, having experience in the field and advocating for better cattle markets and addressing environmental issues
-Paid For By Eddie Settle for Senate
-Senator Eddie Settle Campaign
-745 Carter Mill Road East
-Elkin, NC 28621
-Candidate Campaign Websites by WebPro360
+He has served six years as Chairman of the Agriculture Steering Committee of the NCACC. learn more Committed to Work for Alexander,Surry, Wilkes, and Yadkin Counties JOBS, ECONOMY, & TAXATION Eddie opposes tax increases, believes in cutting unnecessary spending, and focuses on helping businesses create jobs. learn more FAMILY & THE SANCTITY OF HUMAN LIFE Eddie values the importance of the family unit and advocates for the rights and dignity of the unborn. learn more SECOND AMENDMENT Eddie is a member of the NRA and actively fights for second amendment rights at the state level. learn more Second AMENDMENT Eddie is a member of the NRA and actively fights for second amendment rights at the state level. learn more EDUCATION Eddie emphasizes the need for a quality education and supports initiatives like offering free two-year degrees for Wilkes County high school graduates while opposing the teaching of Critical Race Theory in NC schools. learn more EDUCATION Eddie emphasizes the need for a quality education and supports initiatives like offering free two-year degrees for Wilkes County high school graduates while opposing the teaching of Critical Race Theory in NC schools. learn more AGRICULTURE & ENVIRONMENT Eddie prioritizes the interests of agriculture and the environment, having experience in the field and advocating for better cattle markets and addressing environmental issues learn more Join The Team Name Email City / Town Note Activities Knock Doors Make Calls Host an Event join now Facebook-f Paid For By Eddie Settle for Senate Senator Eddie Settle Campaign 745 Carter Mill Road East Elkin, NC 28621 Candidate Campaign Websites by WebPro360

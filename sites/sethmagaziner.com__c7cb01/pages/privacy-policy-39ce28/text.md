@@ -1,17 +1,12 @@
-Who We Are
-Thank you for visiting the SETH MAGAZINER FOR CONGRESS website.
+Seth Magaziner Menu Meet Seth Take Action Volunteer News Twitter Facebook Instagram Youtube Donate Meet Seth Take Action Volunteer News Twitter Facebook Instagram Youtube Donate Privacy Policy Who We Are Thank you for visiting the SETH MAGAZINER FOR CONGRESS website.
 Unless stated otherwise, all content is created by SETH MAGAZINER FOR CONGRESS.
-Privacy
-Thank you for visiting our web site.
+Privacy Thank you for visiting our web site.
 This privacy policy tells you how we use personal information collected at this site.
 Please read this privacy policy before using the site or submitting any personal information.
 By using the site, you are accepting the practices described in this privacy policy.
 These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis.
 You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
-Note: the privacy practices set forth in this privacy policy are for this web site only.
-SETH MAGAZINER FOR CONGRESS is not responsible for content, cookies, or other features on sites linked to from this website.
-Collection of Information
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors.
+Collection of Information We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors.
 The information you provide is used to fulfill your specific request.
 This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
 Our website allows third parties to place cookies on our site for advertising purposes.
@@ -19,7 +14,6 @@ This Online Privacy Statement does not cover the collection methods or use of th
 These vendors have their own privacy policies and may be members of the Network Advertising Initiative (“NAI”).
 To remove yourself from some or all NAI member advertising programs, please visit the NAI Opt-Out Page and follow the relevant instructions.
 Please note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
-Cookie/Tracking Technology
 The Site may use cookie and tracking technology depending on the features offered.
 Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site.
 Cookies can also help customize the Site for visitors.
@@ -55,27 +49,14 @@ In some cases, third party vendors may collect personal information from you, su
 This Policy does apply to such personal information collected online in this manner, and we will treat such information in the same manner as information collected on our Sites.
 How Do We Use the Personal Information We Collect?
 We use personal information collected through our Sites for the purposes described in this Policy or elsewhere on the Sites.
-For example, we may use personal information we collect:
-- to provide the services, products, or information you request, and to process and complete such requests and any related transactions;
-- to send you confirmations, updates, alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Sites;
-- to notify you about important changes to the Sites;
-- to send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various issues, events, resources, promotions, contests, products and services;
-- to respond to your emails, submissions, questions, comments, and requests and to provide customer service;
-- to monitor and analyze site usage and trends, and to personalize and improve the Site and our users’ experiences on the Site, such as providing content, or features that match your profiles or interests, and to increase the Site’s functionality and user friendliness;
-- to serve ads, on this or other websites or media, based on the information you provide and the actions you take;
-- to notify and contact contest and sweepstakes entrants; and
-- for any other purpose for which the information was collected.
+For example, we may use personal information we collect: to provide the services, products, or information you request, and to process and complete such requests and any related transactions; to send you confirmations, updates, alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Sites; to notify you about important changes to the Sites; to send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various issues, events, resources, promotions, contests, products and services; to respond to your emails, submissions, questions, comments, and requests and to provide customer service; to monitor and analyze site usage and trends, and to personalize and improve the Site and our users’ experiences on the Site, such as providing content, or features that match your profiles or interests, and to increase the Site’s functionality and user friendliness; to serve ads, on this or other websites or media, based on the information you provide and the actions you take; to notify and contact contest and sweepstakes entrants; and for any other purpose for which the information was collected.
 We may store and process personal information in the United States and other countries.
-Distribution of Information
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation.
+Distribution of Information We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation.
 We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place.
 The information is not provided to these companies for marketing purposes.
-Commitment to Data Security
-Your personally identifiable information is kept secure.
+Commitment to Data Security Your personally identifiable information is kept secure.
 Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information.
 All emails and newsletters from this site allow you to opt out of further mailings.
-Privacy Contact Information
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
-By e-mail: [email protected]
-We reserve the right to make changes to this policy.
+Privacy Contact Information If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: By e-mail: [email protected] We reserve the right to make changes to this policy.
 Any changes to this policy will be posted.
+Twitter Facebook Instagram Youtube [email protected] PO Box 40993, Providence, RI 02940 Paid for by MAGAZINER FOR CONGRESS PRIVACY POLICY

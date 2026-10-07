@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=King+County+Candidate+Forum%2C+hosted+by+Coalition+of+Immigrants+Refugees+and+Communities+of+Color+%28CIRCC%29+and+partners+%E2%80%93+37th+District%26nbsp%3B&dates=20261010T170000Z%2F20261010T200000Z",
-"https://docs.google.com/forms/d/e/1FAIpQLSfRuybpnts9_HbQYDFs7R8nXY-YlaJrNPBiTMfP7eDDCQ5RuA/viewform",
-"https://facebook.com/profile.php?id=61589252729764",
-"https://instagram.com/tatianaforwa",
-"https://linktr.ee/TatianaforWA",
-"https://tatianaforwa.org/",
-"https://tatianaforwa.org/about-tatiana",
-"https://tatianaforwa.org/cart",
-"https://tatianaforwa.org/events",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-06-cz2sb",
-"https://tatianaforwa.org/events/iok5hz43qskkq8itaaazlzh4u55n1d?format=ical",
-"https://tatianaforwa.org/events/skyway-candidate-forum-hosted-by-west-hill-community-assoication-x-south-seattle-emerald",
-"https://tatianaforwa.org/gallery",
-"https://tatianaforwa.org/home",
-"https://tatianaforwa.org/our-platform",
-"https://tatianaforwa.org/the-job"
+{
+"text": "0",
+"href": "https://www.tatianaforwa.org/cart"
+},
+{
+"text": "About Tatiana",
+"href": "https://www.tatianaforwa.org/about-tatiana"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.tatianaforwa.org/events"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tatianaforwa.org/gallery"
+},
+{
+"text": "Events",
+"href": "https://www.tatianaforwa.org/events"
+},
+{
+"text": "Get Involved",
+"href": "https://linktr.ee/TatianaforWA"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=King+County+Candidate+Forum%2C+hosted+by+Coalition+of+Immigrants+Refugees+and+Communities+of+Color+%28CIRCC%29+and+partners+%E2%80%93+37th+District%26nbsp%3B&dates=20261010T170000Z%2F20261010T200000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/iok5hz43qskkq8itaaazlzh4u55n1d?format=ical"
+},
+{
+"text": "Next Next October 10 Skyway Candidate Forum (Hosted By West Hill Community Association x South Seattle Emerald)",
+"href": "https://www.tatianaforwa.org/events/skyway-candidate-forum-hosted-by-west-hill-community-assoication-x-south-seattle-emerald"
+},
+{
+"text": "Our Platform",
+"href": "https://www.tatianaforwa.org/our-platform"
+},
+{
+"text": "Previous Previous October 8 Canvass with Tatiana in Rainier Beach!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-06-cz2sb"
+},
+{
+"text": "Talk to Tati",
+"href": "https://tatianaforwa.org/home#talk-to-tati"
+},
+{
+"text": "The Job",
+"href": "https://www.tatianaforwa.org/the-job"
+},
+{
+"text": "[image: Tatiana for Washington]",
+"href": "https://www.tatianaforwa.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61589252729764"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tatianaforwa"
+},
+{
+"text": "hello@tatianaforwa.org",
+"href": "mailto:hello@tatianaforwa.org"
+},
+{
+"text": "https://docs.google.com/forms/d/e/1FAIpQLSfRuybpnts9_HbQYDFs7R8nXY-YlaJrNPBiTMfP7eDDCQ5RuA/viewform",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfRuybpnts9_HbQYDFs7R8nXY-YlaJrNPBiTMfP7eDDCQ5RuA/viewform"
+}
 ]

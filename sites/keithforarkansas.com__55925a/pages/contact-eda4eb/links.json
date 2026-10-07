@@ -1,7 +1,34 @@
 [
-"https://facebook.com/keithforarkansas",
-"https://keithforarkansas.com/",
-"https://keithforarkansas.com/contact",
-"https://keithforarkansas.com/issues",
-"https://politics.raisethemoney.com/kbrooks"
+{
+"text": "Contact",
+"href": "https://www.keithforarkansas.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://politics.raisethemoney.com/kbrooks"
+},
+{
+"text": "Issues",
+"href": "https://www.keithforarkansas.com/issues/"
+},
+{
+"text": "[no text]",
+"href": "https://www.keithforarkansas.com"
+},
+{
+"text": "[no text]",
+"href": "mailto:keithforarkansas@gmail.com"
+},
+{
+"text": "[tooltip: Follow us on Facebook]",
+"href": "https://www.facebook.com/keithforarkansas/"
+},
+{
+"text": "facebook.com/keithforarkansas",
+"href": "https://www.facebook.com/keithforarkansas"
+},
+{
+"text": "keithforarkansas@gmail.com",
+"href": "mailto:keithforarkansas@gmail.com"
+}
 ]

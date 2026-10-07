@@ -1,31 +1,4 @@
-Endorsements
--
-Capital District Labor Federation (CDLF)
--
-Carpenters Local 291
--
-Communications Workers of America (CWA)
--
-Greater Capital Region Building and Construction Trades Council
--
-International Brotherhood of Electrical Workers Local 236 (IBEW Local 236)
--
-Laborers' International Union of North America – New York (LIUNA-NY)
--
-New York League of Conservation Voters (NYLCV)
--
-New York State American Federation of Labor and Congress of Industrial Organizations (NYS AFL-CIO)
--
-New York State United Teachers (NYSUT)
--
-Planned Parenthood Empire State Votes
--
-Police Conference of New York (PCNY)
--
-Public Employees Federation (PEF)
--
-Service Employees International Union 1199 (SEIU 1199)
--
-Sierra Club
--
-UA Local 7 Plumbers and Steamfitters
+Skip to main content About The Issues Freedom from Economic Injustice Freedom from Addiction Freedom from Corruption and Waste Freedom from Criminal Violence Freedom of a Woman’s Right to Choose Freedom from Global Warming Get Involved Take Action & Volunteer Make a Donation In the News Endorsements DONATE About The Issues Freedom from Economic Injustice Freedom from Addiction Freedom from Corruption and Waste Freedom from Criminal Violence Freedom of a Woman’s Right to Choose Freedom from Global Warming Get Involved Take Action & Volunteer Make a Donation In the News Endorsements DONATE Endorsements Capital District Labor Federation (CDLF) Carpenters Local 291 Communications Workers of America (CWA) Greater Capital Region Building and Construction Trades Council International Brotherhood of Electrical Workers Local 236 (IBEW Local 236) Laborers' International Union of North America – New York (LIUNA-NY) New York League of Conservation Voters (NYLCV) New York State American Federation of Labor and Congress of Industrial Organizations (NYS AFL-CIO) New York State United Teachers (NYSUT) Planned Parenthood Empire State Votes Police Conference of New York (PCNY) Public Employees Federation (PEF) Service Employees International Union 1199 (SEIU 1199) Sierra Club UA Local 7 Plumbers and Steamfitters Make A Donation Take Action & Volunteer Send a Message to Phil Quick Links Make a Donation Get Involved Contact Phil In the News Prefer to donate by check?
+Please make your check payable to Steck for Assembly 2026 and mail it to: Steck for Assembly 2026 P.O.
+Box 7123 Albany, NY 12224 Thank you for your support! © 2026 All rights reserved.
+Privacy Policy Paid for and authorized by Steck for Assembly 2026.

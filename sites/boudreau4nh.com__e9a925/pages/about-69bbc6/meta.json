@@ -1,7 +1,15 @@
 {
  "description": "Who is Pete Boudreau?",
  "final_url": "https://boudreau4nh.com/about/",
- "paid_for_by": null,
+ "fingerprint": "65d57ffe9dcd05291ea59d2836264f4a263be0fb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Who is Pete Boudreau? | Pete Boudreau For New Hampshire State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "1994",
+  "1995",
+  "2000",
+  "2004",
+  "2026"
+ ]
 }

@@ -1,9 +1,12 @@
 {
  "description": "Darren Hamilton on Texas Political News 30-Aug",
  "final_url": "https://www.hamiltonfortexas.com/porcupines-quill-0830",
- "paid_for_by": null,
+ "fingerprint": "ad1008b242e07609b973b757240bb76e027b5367",
+ "format": 3,
+ "paid_for_by": "",
  "title": "The Porcupine's Quill - 30-Aug",
  "years_mentioned": [
+  "1965",
   "2024"
  ]
 }

@@ -1,6 +1,8 @@
-Sarah Wolek
-Democratic Delegate Representing District 16
-I believe that the role of government is to protect the most vulnerable among us, safeguard our planet, create an ecosystem in which human creativity and business can thrive, and most importantly develop and implement policies that rebuild our social fabric and enhance human flourishing and well-being.
+0 Skip to Content Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Folder: Legislation Back Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants Folder: 2026 Election Back 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Folder: Opportunities Back Scholarships Volunteer Contact Sarah Wolek Democratic Delegate Representing District 16 I believe that the role of government is to protect the most vulnerable among us, safeguard our planet, create an ecosystem in which human creativity and business can thrive, and most importantly develop and implement policies that rebuild our social fabric and enhance human flourishing and well-being.
 As your Delegate to the Maryland General Assembly, I am humbled to represent a district and state that I love and to be a champion for realizing this type of government.
 Thank you for giving me the opportunity to advocate, lead, and serve on your behalf.
-Gallery
+About Me Gallery Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Sarah Wolek Sign-up for an email newsletter from Delegate Wolek!
+First Name Last Name Email Address Join Now Thank you!
+By Authority: Friends of Sarah Wolek; Oliver Hanson, Treasurer.

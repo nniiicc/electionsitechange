@@ -1,10 +1,34 @@
 [
-"http://p.o.box/",
-"https://howardfornebraska.com/",
-"https://howardfornebraska.com/about",
-"https://howardfornebraska.com/cart",
-"https://howardfornebraska.com/contact",
-"https://howardfornebraska.com/faq",
-"https://howardfornebraska.com/platforms",
-"https://secure.anedot.com/howard-for-nebraska/fa9e1071-0a1a-4372-a157-0009b29b6375"
+{
+"text": "0",
+"href": "https://www.howardfornebraska.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.howardfornebraska.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.howardfornebraska.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/howard-for-nebraska/fa9e1071-0a1a-4372-a157-0009b29b6375"
+},
+{
+"text": "FAQ",
+"href": "https://www.howardfornebraska.com/faq"
+},
+{
+"text": "P.O.Box",
+"href": "http://p.o.box"
+},
+{
+"text": "Platforms",
+"href": "https://www.howardfornebraska.com/platforms"
+},
+{
+"text": "[image: Howard for Legislature]",
+"href": "https://www.howardfornebraska.com/"
+}
 ]

@@ -1,3 +1,19 @@
-Governor focused on school lunch policies while ignoring student outcomes
-By Rebecca Dow / Project director for Opportunity for All Kids-NM Jun 23, 2024 There is a concerning trend at the New Mexico Public Education Department: excessive rule making that is focused on micromanaging day-to-day operations of school sites rather than addressing the larger, systemic issues that plague New Mexico’s education system.
-From taking over
+Home News IN THE NEWS VETERANS RESOURCES PARENTAL NOTIFICATION FORM EXPECTING MOTHERS ABOUT ABOUT REBECCA REBECCA'S VALUES CONTACT REBECCA Contribute In the News Home In the News Governor focused on school lunch policies while ignoring student outcomes By Rebecca Dow / Project director for Opportunity for All Kids-NM Jun 23, 2024 There is a concerning trend at the New Mexico Public Education Department: excessive rule making that is focused on micromanaging day-to-day operations of school sites rather than addressing the larger, systemic issues that plague New Mexico’s education system.
+From taking over 7/19/2024 3:54:33 PM Read More Oil and gas delivers $15.2B for NM in FY23 We’re able to make crucial investments in education, public safety, and healthcare because of oil and gas revenue.
+Yet, progressives still want to eliminate our oil and gas industry.
+If they had it their way, 1/3 of funding for our schools would be gone and thousands of hard working New Mexicans would be out of 6/11/2024 3:35:14 PM Read More NM Ethics Commission receives motion to dismiss charges (PRESS RELEASE) Truth or Consequences, NM (KKOB) –Representative Rebecca Dow (R-Truth or Consequences) filed with the State Ethics Commission a motion to dismiss the ethics complaint filed by her opponent.
+“I have requested the State Ethics Commission immediately dismiss the false and baseless claims my opponent filed against me,” said Representative Rebecca Dow.
+“It was clear from the 10/7/2020 9:40:56 PM Read More NM District 38 Rep.
+Dow Named Guardian of Small Business Rebecca Dow led fight against health insurance premium tax increases SANTA FE, N.M., Aug.
+24, 2020—The nation’s voice of small business on Friday awarded State Rep.
+Rebecca Dow its highest honor by naming her a Guardian of Small Business for her leadership and voting record during the 2019-2020 session of the New Mexico State Legislature.
+8/25/2020 10:25:02 PM Read More As COVID Cripples Major Beef Processors, N.M.
+Ranchers Connect Directly With Consumers By Megan Kamerick• May 22, 2020 The coronavirus pandemic has upended normal food distribution networks, especially for meat.
+It has also left ranchers struggling, unable to get their cattle to market as the virus sickens workers in processing plants around the country and slows production.
+New Mexico ranchers are working on ways around these problems 5/27/2020 2:40:23 PM Read More All Together New Mexico 5/19/2020 8:21:39 PM Read More High beef prices don’t trickle down to cattlemen Written by Dean Thompson on May 12, 2020 Group seeks to keep beef closer to home Even though beef prices continue to rise at stores, profits are not trickling down to the ranchers who raise cattle across the state.
+That’s, at least in part, according to Grant County rancher David Ogilvie, because of the complicated 5/13/2020 3:26:12 PM Read More Governor Michelle Lujan Grisham’s – New Mexico Reopening Plan The following plan was proposed by the New Mexico Governor: Michelle Lujan Grisham for ReOpening the State.
+5/8/2020 8:31:30 PM Read More Virus has pummeled New Mexico’s child care industry By Dillon Mullan dmullan@sfnewmexican.com May 3, 2020 Joan Shankin stopped by her small preschool Friday morning to feed the fish and disinfect the play mats.
+Typically, Children’s Garden Montessori School enrolls about 50 kids ages 18 months to 5 years.
+Shankin, who started the nonprofit early childhood center #ago and serves as its 5/4/2020 6:53:00 PM Read More Rep.
+Dow, Ranchers and Ag Department Assisting Navajos and Food Banks During Looming Food Shortages and Pandemic 4/29/2020 4:06:22 AM Read More 1 2 3 Contact Rebecca Address: 1309 N.
+Riverside, Truth or Consequences, NM 87901 Phone: (575) 341-1301 Email: rebecca@dowforhouse.com Links Home News Contact Rebecca Contribute PAID FOR BY COMMITTEE TO ELECT REBECCA DOW

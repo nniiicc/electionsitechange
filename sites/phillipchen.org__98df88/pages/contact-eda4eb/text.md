@@ -1,6 +1,4 @@
-We'd love to hear from you.
+Official State Office ↗ Home Meet Phillip The District Contact Donate Get in Touch We'd love to hear from you.
 Reach the campaign using the form or the details below.
-Phillip Chen for Assembly 2026
-18340 Yorba Linda Blvd, 107-601
-Yorba Linda, CA 92886
-For help with a state matter, please contact the Assemblyman's official district office:
+Send the Campaign a Message Name Email City Message Send Message Campaign Mailing Address Phillip Chen for Assembly 2026 18340 Yorba Linda Blvd, 107-601 Yorba Linda, CA 92886 State Constituent Services For help with a state matter, please contact the Assemblyman's official district office: Official State Office ↗ Email phillip@phillipchen.org Re-elect Phillip Chen to the California State Assembly, 59th District — serving Orange & San Bernardino counties.
+Explore Home Meet Phillip The District Contact Donate Connect 18340 Yorba Linda Blvd, 107-601, Yorba Linda, CA 92886 Paid for by Phillip Chen for Assembly 2026 · FPPC #1476729 Privacy · Terms of Use

@@ -1,4 +1,4 @@
-The most involved discussion at Council while adopting the Zoning regulations was the location of casinos.
+Skip to content Denise Joy for Montana Candidate for House District 46 Home About Denise Values & Issues Help Get Denise Elected Contact Home About Denise Values & Issues Help Get Denise Elected Contact DONATE The most involved discussion at Council while adopting the Zoning regulations was the location of casinos.
 My commitment to the safety and well being of our neighborhoods involves hundreds of hours of my time over 3 and ½ years.
 I attended many meetings discussing our new zoning regulations.
 It was important for me to know residents’ concerns were being addressed.
@@ -11,3 +11,4 @@ Our new zoning calls for a 350 foot separation from casinos and residential prop
 The zoning only takes effect for established casinos when properties are sold.
 The changes to the zoning affecting casinos will take many years to accomplish, but the regulations are in place.
 Note: My campaign has not received contributions or endorsements from the Bar, Taverns or Casino industry.
+Endorsements Paid for by Denise Joy for Billings, PO Box 31192 Billings, MT 59107 © All Rights Reserved #

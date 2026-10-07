@@ -1,6 +1,4 @@
-In the News: “Payback for Gavin Newsom’s Fiscal Folly”
-June 9, 2026
-Beset on all sides by regulators, highest-in-the-nation taxes, environmentalists, identitarians, and a political establishment committed to class war, California business owners may want to send thanks and a muffin basket to Representative Vince Fong.
+Skip to content Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate Donate Join Vince Menu Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate In the News: “Payback for Gavin Newsom’s Fiscal Folly” June 9, 2026 “Payback for Gavin Newsom’s Fiscal Folly” By Will Swaim Beset on all sides by regulators, highest-in-the-nation taxes, environmentalists, identitarians, and a political establishment committed to class war, California business owners may want to send thanks and a muffin basket to Representative Vince Fong.
 Fong, a Bakersfield, Calif., Republican, has introduced HR 8892, the Creating Accountability in Loan Repayment Act.
 CAL Repayment (you get the acronymic joke) would require states with outstanding federal unemployment-insurance debt to use future flexible federal aid to repay those loans before spending the money elsewhere.
 At present, California is the only member of that club — which is why some Capitol Hill insiders call Fong’s bill the Gavin Newsom Reform Act.
@@ -19,3 +17,4 @@ By then, the surcharge will be $105 per employee.
 Everyone loses.
 Billions of dollars that might have gone toward wages, bonuses, capital investments, or the bottom line have flowed instead to the federal government.
 Fong’s CAL Repayment Act would end the madness.
+Continue reading at at www.NationalReview.com Share on Facebook Facebook 𝕏 Share on X X Share on Linkedin Linkedin Donate Join Us Stay up to date Email Stay Connected, Join the Newsletter Email Donate Join Us Paid for by Vince Fong for Congress Privacy Policy | Terms of Use Scroll To Top

@@ -1,9 +1,9 @@
 {
  "description": "Explore Chris Wooten&#39;s endorsements and campaign support as he seeks your vote to bring positive change to the community.",
  "final_url": "https://votechriswooten.com/endorsements-1",
- "paid_for_by": null,
+ "fingerprint": "6fcba6c333f384e4630097a385238fca7fab1d1d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements",
- "years_mentioned": [
-  "2024"
- ]
+ "years_mentioned": []
 }

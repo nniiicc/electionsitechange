@@ -1,21 +1,13 @@
-Privacy Policy
-Karen Gonzalez Pittman Campaign respects your privacy and is committed to protecting it through our compliance with this policy.
+Donate Today Privacy Policy Karen Gonzalez Pittman Campaign respects your privacy and is committed to protecting it through our compliance with this policy.
 This policy describes the types of information we may collect from you or that you may provide when you visit the website, provide through online signups or in-person events, and/or subscribe to our mobile services, (collectively, the “Platform”) and our practices for collecting, using, maintaining, protecting, and disclosing that information.
-This policy applies to information we collect:
-- On this Platform;
-- In email(s), text(s), and other electronic messages between you and Karen Gonzalez Pittman Campaign;
-- When you provide it to Karen Gonzalez Pittman Campaign through an online signup process or at an in-person event;
-- When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy;
-- When you make a donation to Karen Gonzalez Pittman Campaign or purchase merchandise.
-It does not apply to information collected by:
-- Any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Platform.
+This policy applies to information we collect: On this Platform; In email(s), text(s), and other electronic messages between you and Karen Gonzalez Pittman Campaign; When you provide it to Karen Gonzalez Pittman Campaign through an online signup process or at an in-person event; When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy; When you make a donation to Karen Gonzalez Pittman Campaign or purchase merchandise.
+It does not apply to information collected by: Any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Platform.
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it.
 If you do not agree with our policies and practices, your choice is not to use the Platform.
-By accessing or using the Platform, signing up for services offered by Karen Gonzalez Pittman Campaign, or continuing to use services offered by Karen Gonzalez Pittman Campaign you agree to this privacy policy.
+By accessing or using the Platform, signing up for services offered by Karen Gonzalez Pittman Campaign , or continuing to use services offered by Karen Gonzalez Pittman Campaign you agree to this privacy policy.
 This policy may change from time to time.
 Your continued use of the Platform after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
-Children Under the Age of 13
-The Platform, including gonzalezpittman.com is not intended for children under 16 years of age.
+Children Under the Age of 13 The Platform, including gonzalezpittman.com is not intended for children under 16 years of age.
 No one under age 16 may provide any personal information to or on the Platform.
 We do not knowingly collect personal information from children under 16.
 If you are under 16, do not use or provide any information through the Platform or through any of its features, make any purchases through the Platform, make any donations through the Platform, use any of the interactive or public comment features of the Platform, or provide any information about yourself to us, including, but not limited to, your name, address, telephone number, email address.
@@ -23,122 +15,76 @@ If we learn we have collected or received personal information from a child unde
 If you believe we might have any information from or about a child under 16, please contact us at karen@gonzalezpittman.com (with a reference to Children Under the Age of 16).
 California residents under 16 years of age may have additional rights regarding the collection and sale of their personal information.
 Please see Your California Privacy Rights for more information.
-Information We Collect About You and How We Collect It
-We collect several types of information from and about users of the Platform, including information:
-- By which you may be personally identified, such as name, postal address, e-mail address, telephone number, financial information (including, but not limited to, credit card or bank account information that you provide Us during a purchase or donation) (“personal information“);
-- That is about you, but individually does not identify you, such as political affiliation, employment information (occupation and employer), demographic information, your telephone carrier’s name, and the date, time and content of your messages, as well as other information that you provide; and/or
-- All Website users remain anonymous unless they choose to give us their personal information. .
-We collect this information:
-- On the Platform
-- Directly from you when you provide it to us;
-- Automatically as you navigate through the site.
-Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies;
-- Automatically when you respond to e-mails or text messages; and
-- From third parties
-Information You Provide to Us
-The information we collect on or through the Platform may include:
-- Information that you provide by filling in forms on com , or communicate to Karen Gonzalez Pittman Campaign through the Platform.
+Information We Collect About You and How We Collect It We collect several types of information from and about users of the Platform, including information: By which you may be personally identified, such as name, postal address, e-mail address, telephone number, financial information (including, but not limited to, credit card or bank account information that you provide Us during a purchase or donation) (“ personal information “); That is about you, but individually does not identify you, such as political affiliation, employment information (occupation and employer), demographic information, your telephone carrier’s name, and the date, time and content of your messages, as well as other information that you provide; and/or All Website users remain anonymous unless they choose to give us their personal information. .
+We collect this information: Information You Provide to Us The information we collect on or through the Platform may include: Information that you provide by filling in forms on com , or communicate to Karen Gonzalez Pittman Campaign through the Platform.
 This includes, for example, information provided at the time of registering to receive updates from the Platform, donating, participating in contests, surveys and promotions, signing up to volunteer or receive newsletters or other communications, including with the Platform, and/or purchasing any merchandise.
 We may also ask you for information when you report a problem with the Platform.
-- Information as required by the Federal Election Commission (“FEC”).
-The FEC requires us to collect and disclose the name, mailing address, occupation and employer of all individuals whose donations exceed $200 per calendar year.
-- Records and copies of your correspondence (including email addresses or phone numbers), if you contact us.
-- Your responses to surveys, questionnaires, polls, or other data entry that we might ask you to complete.
-- Details of transactions you carry out through the Platform and of the fulfillment of your orders.
+Information as required by the Federal Election Commission (“FEC”).
+The FEC requires us to collect and disclose the name, mailing address, occupation and employer of all individuals whose donations exceed $# per calendar year.
+Records and copies of your correspondence (including email addresses or phone numbers), if you contact us.
+Your responses to surveys, questionnaires, polls, or other data entry that we might ask you to complete.
+Details of transactions you carry out through the Platform and of the fulfillment of your orders.
 You may be required to provide financial information as required by the FEC before placing an order through the Platform.
-- Your search queries on the Platform.
-- You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the com , or transmitted to other users of gonzalezpittman.com or third parties (collectively, “User Contributions”).
+Your search queries on the Platform.
+You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the com , or transmitted to other users of gonzalezpittman.com or third parties (collectively, “User Contributions”).
 Your User Contributions are posted on and transmitted to others at your own risk.
 Although we may take certain precautions, please be aware that no security measures are perfect or impenetrable.
-Additionally, we cannot control the actions of other users of the gonzalezpittman.com with whom you may choose to share your User Contributions.
+Additionally, we cannot control the actions of other users of the gonzalezpittman .com with whom you may choose to share your User Contributions.
 Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
-We also cannot guarantee the privacy and safety of areas where User Contributions are posted and are therefore not responsible for any information you choose to post, and your use of these features is fully at your own risk.
-**Information We Collect Through Automatic Data Collection Technologies **
-As you navigate through and interact with the Platform, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
-- Details of your visits to the Platform, including traffic data, location data, logs, usage details, including pages you visited before and after visiting the Platform, interactions with advertisements delivered by us or third parties, and other communication data and the resources that you access and use on the Platform.
-- Information about your equipment and devices, and internet connection, including your IP address, operating system, and browser type.
+We also cannot guarantee the privacy and safety of areas where User Contributions are posted and are therefore not responsible for any information you choose to post, and your use of these features is fully at your own risk. **Information We Collect Through Automatic Data Collection Technologies ** As you navigate through and interact with the Platform, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including: Details of your visits to the Platform, including traffic data, location data, logs, usage details, including pages you visited before and after visiting the Platform, interactions with advertisements delivered by us or third parties, and other communication data and the resources that you access and use on the Platform.
+Information about your equipment and devices, and internet connection, including your IP address, operating system, and browser type.
 We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking).
 The information we collect automatically may include personal information, and we may maintain it or associate it with personal information we collect in other ways or receive from third parties.
-It helps us to improve the Platform and to deliver a better and more personalized service, including by enabling us to:
-- Estimate our audience size and usage patterns.
-- Store information about your preferences, allowing us to customize the Platform according to your individual interests.
-- Speed up your searches.
-- Recognize you when you return to the Platform.
-The technologies we use for this automatic data collection may include:
-- Cookies (or browser cookies).A cookie is a small file placed on the hard drive of your computer.
-You may refuse to accept browser cookies by activating the appropriate setting on your browser.
-However, if you select this setting you may be unable to access certain parts of com.
-Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to gonzalezpittman.com.
-- Flash Cookies.Certain features of com may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on gonzalezpittman.com.
-Flash cookies are not managed by the same browser settings as are used for browser cookies.
-- Web Beacons.Pages of com and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit Karen Gonzalez Pittman Campaign, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
-Third-Party Use of Cookies and Other Tracking Technologies
+It helps us to improve the Platform and to deliver a better and more personalized service, including by enabling us to: Estimate our audience size and usage patterns.
+Store information about your preferences, allowing us to customize the Platform according to your individual interests.
+Speed up your searches.
+Recognize you when you return to the Platform.
+The technologies we use for this automatic data collection may include: Web Beacons.
+Pages of com and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit Karen Gonzalez Pittman Campaign, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 Some content or applications, including advertisements, on the Platform are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers.
-These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use gonzalezpittman.com.
+These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use gonzalezpittman .com .
 The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services.
 They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 We do not control these third parties’ tracking technologies or how they may be used.
 If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 For information about how you can opt out of receiving targeted advertising from many providers, see Choices About How We Use and Disclose Your Information.
-How We Use Your Information
-We use information that we collect about you or that you provide to us, including any personal information:
-- To present the Platform and its contents to you;
-- To provide you with information, updates, products, or services that you request from us;
-- To send you Karen Gonzalez Pittman Campaign marketing, promotional, updates, e-mails, messages, and other correspondence and notifications;
-- To send you updates, news alerts, promotional emails, messages, communications, discounts, news about products and services, vote reminders, and other information as it becomes relevant;
-- To fulfill any other purpose for which you provide it, or with your consent;
-- To provide you with notices about your consent to be contacted, provide you with assistance, and confirm that we will cease contacting you when you send the keyword STOP when using the mobile services;
-- To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
-- To notify you about changes to the Platform or any products or services we offer or provide though it;
-- In any other way we may describe when you provide the information;
-- Subject to applicable contractual or legal restrictions, or specified preferences, in connection with the sale, exchange, donation, or gift of Platform user information and related data to a broker, political committee, political party committee, campaign, other non-profit or for-profit entity, or other candidate or officeholder;
-- For research purposes, for marketing/promotional purposes and/or to provide anonymous reporting for third party platforms, etc;
-- It is necessary to disclose in order to protect or defend our rights or property or those of our users;
-- It is necessary to disclose in order to protect the personal safety or privacy of our users or the public;
-- It is necessary for us to provide it to our attorneys, accountants, regulators, auditors or other advisors;
-- Otherwise as we are required or permitted by law or required to comply with legal process served upon us, our agents, representatives or our affiliates; and
-We may also use your information to contact you about our own and third-parties’ products and services that may be of interest to you.
+How We Use Your Information We use information that we collect about you or that you provide to us, including any personal information: To present the Platform and its contents to you; To provide you with information, updates, products, or services that you request from us; To send you Karen Gonzalez Pittman Campaign marketing, promotional, updates, e-mails, messages, and other correspondence and notifications; To send you updates, news alerts, promotional emails, messages, communications, discounts, news about products and services, vote reminders, and other information as it becomes relevant; To fulfill any other purpose for which you provide it, or with your consent; To provide you with notices about your consent to be contacted, provide you with assistance, and confirm that we will cease contacting you when you send the keyword STOP when using the mobile services; To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection; To notify you about changes to the Platform or any products or services we offer or provide though it; In any other way we may describe when you provide the information; Subject to applicable contractual or legal restrictions, or specified preferences, in connection with the sale, exchange, donation, or gift of Platform user information and related data to a broker, political committee, political party committee, campaign, other non-profit or for-profit entity, or other candidate or officeholder; For research purposes, for marketing/promotional purposes and/or to provide anonymous reporting for third party platforms, etc; It is necessary to disclose in order to protect or defend our rights or property or those of our users; It is necessary to disclose in order to protect the personal safety or privacy of our users or the public; It is necessary for us to provide it to our attorneys, accountants, regulators, auditors or other advisors; Otherwise as we are required or permitted by law or required to comply with legal process served upon us, our agents, representatives or our affiliates; and We may also use your information to contact you about our own and third-parties’ products and services that may be of interest to you.
 If you do not want us to use your information in this way, please send an email to karen@gonzalezpittman.com (with a reference to How You Use My Data).
-Disclosure of Your Information
-We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
-We may disclose personal information that we collect or you provide as described in this privacy policy:
-- We do not share phone numbers for marketing or promotional purposes.
-- To our subsidiaries, affiliates, and agents.
-- To other organizations.
-- To contractors, service providers, and other third parties we use to support our business, who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
-- To a successor entity in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Karen Gonzalez Pittman Campaign assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Karen Gonzalez Pittman Campaign about our Platform users is among the assets transferred.
-- To fulfill the purpose for which you provide it.
+Disclosure of Your Information We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+We may disclose personal information that we collect or you provide as described in this privacy policy: We do not share phone numbers for marketing or promotional purposes.
+To our subsidiaries, affiliates, and agents.
+To other organizations.
+To contractors, service providers, and other third parties we use to support our business, who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
+To a successor entity in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Karen Gonzalez Pittman Campaign assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Karen Gonzalez Pittman Campaign about our Platform users is among the assets transferred.
+To fulfill the purpose for which you provide it.
 For example, if you give us an email address or a phone number by which to contact you, we will send updates and alerts to you using that contact information.
-- As required by federal and state law(s).
-- For any other purpose disclosed by us when you provide the information.
-- With your consent.
-We may also disclose your personal information:
-- To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
-- To enforce or apply our terms of use and other agreements, including for billing and collection purposes.
-- If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Karen Gonzalez Pittman Campaign , our users, or others.
+As required by federal and state law(s).
+For any other purpose disclosed by us when you provide the information.
+With your consent.
+We may also disclose your personal information: To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+To enforce or apply our terms of use and other agreements, including for billing and collection purposes.
+If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Karen Gonzalez Pittman Campaign , our users, or others.
 This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
-Third Party Features
-- Third Party Links: For your convenience, we may include or offer third party offers, products or services on the Platform.
+Third Party Features Third Party Links: For your convenience, we may include or offer third party offers, products or services on the Platform.
 These third party sites may have different privacy policies and practices.
 Third party vendors may use cookies or other technologies to serve ads on other web sites based on your visit to the Website and other web sites on the Internet.
 We cannot be responsible for the privacy practices of any web sites or pages not under our control and we do not endorse any of these web sites or pages, the services or products described or offered on such sites or pages, or any of the content contained on those sites or pages.
 Nonetheless, we seek to protect the integrity of our Site and welcome any feedback about these web sites.
-- Social Media Platforms and Web sites: Any information, communications, or material of any type or nature that you submit to or through the Platform (including, but not limited to any of our pages contained on a social media platform such as Facebook or Twitter) by e-mail, posting, messaging, uploading, downloading, or otherwise (collectively, a “Submission”), is done at your own risk and without any expectation of privacy.
+Social Media Platforms and Web sites: Any information, communications, or material of any type or nature that you submit to or through the Platform (including, but not limited to any of our pages contained on a social media platform such as Facebook or Twitter) by e-mail, posting, messaging, uploading, downloading, or otherwise (collectively, a “Submission”), is done at your own risk and without any expectation of privacy.
 We cannot control the actions of other users of any social media platform or web site and we are therefore not responsible for any content or Submissions contained on such sites and platforms.
 By visiting any of our pages or web sites that are contained on a social media platform or web site, you are representing and warranting to us that you have reviewed the applicable privacy policy and terms of use of such platform or web site and that you will abide by all such provisions contained therein.
-Email & Text Message Signups
-- E-mail: We appreciate your questions and comments about our Site and services and welcome your e-mails and questions submitted to our Site.
+Email & Text Message Signups E-mail: We appreciate your questions and comments about our Site and services and welcome your e-mails and questions submitted to our Site.
 We will share your messages with those within our organization who are most capable of addressing the issues contained in your message.
 We may archive your message for a certain period of time or discard it, but your e-mail address and message will only be used in accordance with this Privacy Policy.
-- Submitting your e-mail: Submitting your address anywhere on the Site may result in your e-mail address being added to the Karen Gonzalez Pittman Campaign e-mail list.
+Submitting your e-mail: Submitting your address anywhere on the Site may result in your e-mail address being added to the Karen Gonzalez Pittman Campaign e-mail list.
 You may unsubscribe to Karen Gonzalez Pittman Campaign e-mails at any time by opting out of e-mail subscriptions with the “unsubscribe” link included in each e-mail.
 Your e-mail address will be removed from our marketing list.
 Please allow us a reasonable period of time in order to satisfy your request, as some promotions may already be in process.
-- Text Messages: Karen Gonzalez Pittman Campaign will use your mobile phone number to send you text messages.
+Text Messages: Karen Gonzalez Pittman Campaign will use your mobile phone number to send you text messages.
 These text messages will include news alerts, event notification, voting reminders, and other similar updates.
 If you message us, we will share your messages with those within our organization who are most capable of addressing the issues contained in your message.
 We may archive your message for a certain period of time or discard it, but your mobile phone number and message will only be used in accordance with this Privacy Policy.
-- Submitting your mobile phone number: Submitting your mobile phone number to opt-in to our SMS program constitutes your express consent to receive autodialed messages from the Karen Gonzalez Pittman Campaign.
+Submitting your mobile phone number: Submitting your mobile phone number to opt-in to our SMS program constitutes your express consent to receive autodialed messages from the Karen Gonzalez Pittman Campaign.
 Text STOP to opt-out.
 Text HELP for support.
 For further assistance please e-mail karen@gonzalezpittman.com .
@@ -146,56 +92,42 @@ Message frequency may vary.
 Message and Data Rates may apply.
 By opting-in you agree to receive autodialed marketing mobile messages and you understand that your consent to be contacted in this method is not required to make any purchase from us.
 Opt-in consent applies only to Karen Gonzalez Pittman Campaign or its successor entities and will not apply to any third parties/affiliates for marketing/promotional purposes.
-- Suggesting the Site to a Friend: If you elect to use any feature that includes suggesting a page to a friend or to inform a friend about the Site or solicit donations or pledges or otherwise communicate, Karen Gonzalez Pittman Campaign may ask for your friend’s name and e-mail address.
+Suggesting the Site to a Friend: If you elect to use any feature that includes suggesting a page to a friend or to inform a friend about the Site or solicit donations or pledges or otherwise communicate, Karen Gonzalez Pittman Campaign may ask for your friend’s name and e-mail address.
 The Site may automatically send the friend a one-time e-mail inviting them to visit the Sites or otherwise provide the information requested by you.
 Karen Gonzalez Pittman Campaign will store and use this information in accordance with this Privacy Policy.
 Your friend may contact karen@gonzalezpittman.com to request the removal of this information from our databases.
-Choices About How We Use and Disclose Your Information
-We strive to provide you with choices regarding the personal information you provide to us.
-We have created mechanisms to provide you with the following control over your information:
-- Tracking Technologies and Advertising.You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent.
-If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-- Alerts regarding others by Karen Gonzalez Pittman Campaign.
+Choices About How We Use and Disclose Your Information We strive to provide you with choices regarding the personal information you provide to us.
+We have created mechanisms to provide you with the following control over your information: Alerts regarding others by Karen Gonzalez Pittman Campaign .
 If you do not wish to have your email address or telephone number used by the Karen Gonzalez Pittman Campaign to promote our own or third parties’ events, news alerts, or other services, you can opt-out by sending an email to karen@gonzalezpittman.com at any time.
 This can also be achieved by clicking the “Unsubscribe” link at the bottom of any email or texting the key word STOP.
-- Promotional Offers from Karen Gonzalez Pittman Campaign .
-If you do not wish to have your contact information used by Karen Gonzalez Pittman Campaign to promote our own or third parties’ products or services, you can opt out by checking the relevant box located on the form on which we collect your data (the registration form) or by email to karen@gonzalezpittman.com or at any other time by logging into the Platform and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an email stating your request to karen@gonzalezpittman.com.
+Promotional Offers from Karen Gonzalez Pittman Campaign .
+If you do not wish to have your contact information used by Karen Gonzalez Pittman Campaign to promote our own or third parties’ products or services, you can opt out by checking the relevant box located on the form on which we collect your data (the registration form) or by email to karen@gonzalezpittman.com or at any other time by logging into the Platform and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an email stating your request to karen@gonzalezpittman.com .
 If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions.
-- Targeted Advertising.
-If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers’ target-audience preferences, you can opt out by checking the relevant box located on the form on which we collect your data (the registration form) or by email to karen@gonzalezpittman.comor at any other time by logging into the Platform and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an email stating your request to karen@gonzalezpittman.com.
+Targeted Advertising.
+If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers’ target-audience preferences, you can opt out by checking the relevant box located on the form on which we collect your data (the registration form) or by email to karen@gonzalezpittman.com or at any other time by logging into the Platform and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an email stating your request to karen@gonzalezpittman.com .
 For this opt-out to function, you must have your browser set to accept all browser cookies.
 Colorado and California residents may have additional personal information rights and choices.
 Please see Your Colorado and California Privacy Rights for more information.
-Accessing and Correcting Your Information
-You may send us an email at karen@gonzalezpittman.com to request access to, correct or delete any personal information that you have provided to us.
+Accessing and Correcting Your Information You may send us an email at karen@gonzalezpittman.com to request access to, correct or delete any personal information that you have provided to us.
 We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 Colorado and California residents may have additional personal information rights and choices.
 Please see Your Colorado and California Privacy Rights for more information.
-Your Colorado and California Privacy Rights
-If you are a Colorado or California resident, your State’s law may provide you with additional rights regarding our use of your personal information.
+Your Colorado and California Privacy Rights If you are a Colorado or California resident, your State’s law may provide you with additional rights regarding our use of your personal information.
 To learn more about your California privacy rights, visit https://oag.ca.gov/privacy/ccpa.
-To learn more about your Colorado privacy rights, visit, https://leg.colorado.gov/bills/sb21-190.
+To learn more about your Colorado privacy rights, visit, https://leg.colorado.gov/bills/sb21-190 .
 California’s “Shine the Light” law (Civil Code Section § 1798.83) permits users of our website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.
 To make such a request, please send an email to karen@gonzalezpittman.com or write us at: «Physical_Address» (with a reference to California Disclosure Information).
 We will respond to such requests for information access within 30 days following receipt at the e-mail or mailing address stated above.
 If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received.
 Please note that we are only required to respond to each customer once per calendar year.
-Opt Out
-Overview: We may use non-personally identifiable information to provide more relevant advertising and content.
-If you’d like to stop this Site from collecting certain types of information that provide more tailored online ads and messages to you, please click here.
-If you elect to opt out of this type of advertising, we will place a cookie on your browser computer to flag that we should not collect data to tailor advertising to your browser.
-If you delete your cookies, install a new browser, or use a different computer, you may need to revisit this page to opt out.
-Donations
-Contributions to Karen Gonzalez Pittman Campaign are not deductible as charitable donations for federal income tax purposes.
+Opt Out Donations Contributions to Karen Gonzalez Pittman Campaign are not deductible as charitable donations for federal income tax purposes.
 When you contribute to Karen Gonzalez Pittman Campaign , state law requires us to collect the following information: name, mailing address, employer, occupation, and amount of contribution.
 All contributions made to Karen Gonzalez Pittman Campaign are considered final unless the donation is not in compliance with state or federal campaign finance law or regulations.
 All purchases from the online store are considered contributions to Karen Gonzalez Pittman Campaign .
-Visiting Our Site From Outside Of The United States
-If you are visiting our Site from outside of the United States of America, please be aware that your information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated.
+Visiting Our Site From Outside Of The United States If you are visiting our Site from outside of the United States of America, please be aware that your information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated.
 The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy.
 By using our Site, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
-Data Security
-We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure.
+Data Security We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure.
 All information you provide to us is stored on our secure servers behind firewalls.
 Any payment or donation transactions will be encrypted.
 The safety and security of your information also depends on you.
@@ -205,42 +137,39 @@ Unfortunately, the transmission of information via the internet is not completel
 Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to the Platform.
 Any transmission of personal information is at your own risk.
 We are not responsible for circumvention of any privacy settings or security measures contained on the Platform.
-Changes to Our Privacy Policy
-It is our policy to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on gonzalezpittman.com home page.
+Changes to Our Privacy Policy It is our policy to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on gonzalezpittman .com home page.
 If we make material changes to how we treat our users’ personal information, we will notify you by email to the email address specified in your account and a text message from if you have consented to being contacted in that method.
 The date the privacy policy was last revised is identified at the top of the page.
-You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting gonzalezpittman.com and this privacy policy to check for any changes.
+You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting gonzalezpittman .com and this privacy policy to check for any changes.
 From time to time, we may modify this Privacy Policy to reflect industry initiatives, third party requirements or changes in the law, technology, our information collection and use practices, or the features and functionality of the Services, and such modifications shall be effective upon posting.
-When we change this Privacy Policy in a material way, a notice will be posted on gonzalezpittman.com along with the updated Privacy Policy.
+When we change this Privacy Policy in a material way, a notice will be posted on gonzalezpittman .com along with the updated Privacy Policy.
 Your continued use of the Services after we post a revised Privacy Policy (and, where appropriate, notify you of this change) signifies your acceptance of the revised Privacy Policy.
 It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes.
 We may also seek your affirmative consent to the terms of the updated Privacy Policy.
 For example, we may ask for your consent before implementing new uses of the personal information that we have already collected from you, if such new use was not addressed by the privacy policy under which such information was collected.
-Mobile Terms and Conditions
-Karen Gonzalez Pittman Campaign is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+Mobile Terms and Conditions Karen Gonzalez Pittman Campaign is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
-- By signing up for the program through a form provided on «Website» or by giving your information to Us at an in-person event, you are giving your express consent, and opting in to receive automated text messages, alerts, and updates at the phone number you provided.
+By signing up for the program through a form provided on «Website» or by giving your information to Us at an in-person event, you are giving your express consent, and opting in to receive automated text messages, alerts, and updates at the phone number you provided.
 Regardless of your opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
 By opting-in you agree to receive autodialed marketing mobile messages and you understand that your consent to be contacted in this method is not required to make any purchase from Us.
-- We will not be liable for any delays in the receipt of any SMS messages as delivery is subject to effective transmission from your mobile service operator.
+We will not be liable for any delays in the receipt of any SMS messages as delivery is subject to effective transmission from your mobile service operator.
 SMS MESSAGE SERVICES ARE PROVIDED ON AN “AS IS” BASIS, AND WE MAKE NO WARRANTY, EXPRESS OR IMPLIED, AND ALL WARRANTIES, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR PARTICULAR PURPOSE, ARE HEREBY EXPRESSLY DISCLAIMED.
-- Carriers and our service providers are not liable for delayed or undelivered messages.
-- Data obtained from you in connection with this SMS service may include your cell phone number, your carrier’s name, and the date, time and content of your messages, as well as other information that you provide.
+Carriers and our service providers are not liable for delayed or undelivered messages.
+Data obtained from you in connection with this SMS service may include your cell phone number, your carrier’s name, and the date, time and content of your messages, as well as other information that you provide.
 We may use this information to contact you and to provide the services you request from us.
 If you change, forfeit, or deactivate the phone number you have provided to Karen Gonzalez Pittman Campaign, you agree to notify Us immediately.
 Failure to do so constitutes a material breach of these SMS Terms.
-- By subscribing or otherwise using the service, you acknowledge and agree that we will have the right to change and/or terminate the service at any time, with or without cause and/or advance notice.
-- To cancel your SMS subscriptions, text STOP in reply to any text message you receive.
+By subscribing or otherwise using the service, you acknowledge and agree that we will have the right to change and/or terminate the service at any time, with or without cause and/or advance notice.
+To cancel your SMS subscriptions, text STOP in reply to any text message you receive.
 You will receive a subsequent message confirming your opt-out request.
-- For additional help, text HELP in reply to a text message you receive.
+For additional help, text HELP in reply to a text message you receive.
 You can also contact us at karen@gonzalezpittman.com for additional assistance.
-- Supported carriers may change from time to time, but currently include Verizon Wireless, AT&T, T-Mobile®, Sprint, Metro®, Boost, Virgin Mobile USA & U.S.
+Supported carriers may change from time to time, but currently include Verizon Wireless, AT&T, T-Mobile®, Sprint, Metro®, Boost, Virgin Mobile USA & U.S.
 Cellular®, among others.
-- Message and Data Rates May Apply.
-- By signing up, you are confirming you are over the age of 13, and are either the wireless account subscriber or have the permission of the wireless account subscriber to send and receive text messages under these Terms and Conditions.
-- Program Availability: Currently, the Program is only available to residents of the United States.
+Message and Data Rates May Apply.
+By signing up, you are confirming you are over the age of 13, and are either the wireless account subscriber or have the permission of the wireless account subscriber to send and receive text messages under these Terms and Conditions.
+Program Availability: Currently, the Program is only available to residents of the United States.
 You understand and acknowledge that you may not sign up for, access, or attempt to access or use the Program from countries outside of the U.S.
 You agree to abide by U.S. and other applicable export control laws and not to transfer, by electronic transmission or otherwise, any content or software subject to restrictions under such laws to a national destination or person prohibited under such laws.
-- The above excludes text messaging originator opt-in data and consent; this information will not be shared with any third parties unless required by law.
-Contact Information
-To ask questions or comment about this privacy policy and our privacy practices or register a complaint or concern, contact us at karen@gonzalezpittman.com
+The above excludes text messaging originator opt-in data and consent; this information will not be shared with any third parties unless required by law.
+Contact Information To ask questions or comment about this privacy policy and our privacy practices or register a complaint or concern, contact us at karen@gonzalezpittman.com Share Paid by Karen Gonzalez Pittman, Republican, for Florida House District 65

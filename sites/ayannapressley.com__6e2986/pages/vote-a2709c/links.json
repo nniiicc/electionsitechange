@@ -1,40 +1,190 @@
 [
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=10",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=100",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53",
-"https://ayannapressley.com/",
-"https://ayannapressley.com/about",
-"https://ayannapressley.com/contact",
-"https://ayannapressley.com/es",
-"https://ayannapressley.com/ht",
-"https://ayannapressley.com/issues",
-"https://ayannapressley.com/jobs",
-"https://ayannapressley.com/privacy-policy",
-"https://ayannapressley.com/volunteer",
-"https://ayannapressley.com/vote",
-"https://ayannapressley.com/zh",
-"https://facebook.com/ayannapressley2",
-"https://instagram.com/ayannapressley",
-"https://middleseat.co/",
-"https://mobilize.us/ayannapressley",
-"https://sec.state.ma.us/OVR",
-"https://sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx",
-"https://sec.state.ma.us/WhereDoIVoteMA/TrackMyBallot",
-"https://sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote",
-"https://sec.state.ma.us/divisions/elections/elections-and-voting.htm",
-"https://sec.state.ma.us/divisions/elections/languages/vote-by-mail-applications.htm",
-"https://sec.state.ma.us/divisions/elections/recent-updates/upcoming-elections.htm",
-"https://sec.state.ma.us/divisions/elections/voter-resources/find-my-local-election-office.htm",
-"https://sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm",
-"https://sec.state.ma.us/divisions/elections/voting-information/absentee-voting.htm",
-"https://sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
-"https://sec.state.ma.us/divisions/elections/voting-information/vote-early.htm",
-"https://sec.state.ma.us/divisions/elections/voting-information/vote-primary.htm",
-"https://sec.state.ma.us/ele/eleev/evidx.htm",
-"https://sec.state.ma.us/wheredoivotema/track/trackmyballot.aspx",
-"https://secure.actblue.com/donate/ayannapressleysite1",
-"https://secure.actblue.com/donate/web-2024",
-"https://store.ayannapressley.com/",
-"https://twitter.com/AyannaPressley",
-"https://twitter.com/ayannapressley"
+{
+"text": "$10",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=10"
+},
+{
+"text": "$100",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=100"
+},
+{
+"text": "$20.53",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "Contact",
+"href": "https://ayannapressley.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ayannapressleysite1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/web-2024"
+},
+{
+"text": "EN",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "ES",
+"href": "https://ayannapressley.com/es"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/ayannapressley/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ayannapressley2/"
+},
+{
+"text": "Find Local Election Offices and Dropboxes",
+"href": "https://www.sec.state.ma.us/divisions/elections/voter-resources/find-my-local-election-office.htm"
+},
+{
+"text": "Find Your Sept. 1st Primary Election Day Polling Place",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote"
+},
+{
+"text": "HERE",
+"href": "https://www.sec.state.ma.us/OVR/"
+},
+{
+"text": "HERE",
+"href": "https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx"
+},
+{
+"text": "HERE",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/TrackMyBallot"
+},
+{
+"text": "HERE",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote"
+},
+{
+"text": "HERE",
+"href": "https://www.sec.state.ma.us/divisions/elections/elections-and-voting.htm"
+},
+{
+"text": "HERE",
+"href": "https://www.sec.state.ma.us/divisions/elections/languages/vote-by-mail-applications.htm"
+},
+{
+"text": "HERE",
+"href": "https://www.sec.state.ma.us/divisions/elections/voter-resources/find-my-local-election-office.htm"
+},
+{
+"text": "HERE",
+"href": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm"
+},
+{
+"text": "HERE",
+"href": "https://www.sec.state.ma.us/divisions/elections/voting-information/absentee-voting.htm"
+},
+{
+"text": "HERE",
+"href": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm"
+},
+{
+"text": "HERE",
+"href": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-early.htm"
+},
+{
+"text": "HT",
+"href": "https://ayannapressley.com/ht"
+},
+{
+"text": "How to Vote Early",
+"href": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-early.htm"
+},
+{
+"text": "How to Vote in a Primary",
+"href": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-primary.htm"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ayannapressley/"
+},
+{
+"text": "Issues",
+"href": "https://ayannapressley.com/issues/"
+},
+{
+"text": "Jobs",
+"href": "https://ayannapressley.com/jobs/"
+},
+{
+"text": "Mail-in Ballot Application System",
+"href": "https://www.sec.state.ma.us/divisions/elections/languages/vote-by-mail-applications.htm"
+},
+{
+"text": "Meet Ayanna",
+"href": "https://ayannapressley.com/about/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Privacy",
+"href": "https://ayannapressley.com/privacy-policy/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm"
+},
+{
+"text": "Secretary of State’s Website",
+"href": "https://www.sec.state.ma.us/ele/eleev/evidx.htm"
+},
+{
+"text": "Secretary of State’s website",
+"href": "https://www.sec.state.ma.us/divisions/elections/elections-and-voting.htm"
+},
+{
+"text": "Store",
+"href": "https://store.ayannapressley.com/"
+},
+{
+"text": "Track my Ballot",
+"href": "https://www.sec.state.ma.us/wheredoivotema/track/trackmyballot.aspx"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AyannaPressley"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ayannapressley"
+},
+{
+"text": "Upcoming Elections",
+"href": "https://www.sec.state.ma.us/divisions/elections/recent-updates/upcoming-elections.htm"
+},
+{
+"text": "Volunteer",
+"href": "https://ayannapressley.com/volunteer/"
+},
+{
+"text": "Voter Info",
+"href": "https://ayannapressley.com/vote/"
+},
+{
+"text": "ZH",
+"href": "https://ayannapressley.com/zh"
+},
+{
+"text": "apply to vote by mail right now",
+"href": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm"
+}
 ]

@@ -1,3 +1,5 @@
+Home Meet Scott Priorities Get Involved DONATE Meet Scott Meet Scott Franklin He’s a businessman who served our country in the U.S.
+Navy.
 Congressman Scott Franklin is a conservative Republican, U.S.
 Navy veteran, and small business owner who is fighting every day to defend American values and deliver results for Florida’s Heartland.
 Now serving in his third term in Congress, Scott represents Florida’s 18th Congressional District, where he brings a mission-focused, results-driven approach shaped by a lifetime of service.
@@ -20,3 +22,15 @@ Scott is a 1986 graduate of the United States Naval Academy and holds an MBA fro
 He has also completed advanced leadership training at the Armed Forces Staff College and the Wharton Executive Leadership Development Program.
 From the cockpit to the boardroom to Congress, Scott Franklin has dedicated his life to service, leadership, and results.
 In Washington, he continues to fight to protect the freedoms, values, and opportunities that make America exceptional and to ensure Florida’s 18th District remains strong, secure, and prosperous.
+Join the Team Get Involved Email: Thank you for contacting us.
+We will get back to you as soon as possible.
+Oops, there was an error sending your message.
+Please try again later.
+Join the Team Get Involved Email: Thank you for contacting us.
+We will get back to you as soon as possible.
+Oops, there was an error sending your message.
+Please try again later.
+GET INVOLVED DONATE volunteer@votescottfranklin.com PRESS KIT Paid for by Scott Franklin for Congress P.O.
+Box 2811, Lakeland, FL 33806 The use of Scott’s military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Navy, or the Department of Defense.
+Share by:

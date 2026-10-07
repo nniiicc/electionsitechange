@@ -1,9 +1,12 @@
 {
  "description": "James appeared on Walking Tall with Josh Moore. If the above video does not appear on your device, use this direct link: https://youtu.be/vJS-91wahDo",
  "final_url": "https://jamesspillane.org/js/2016/03/30/james-spillane-with-josh-moore/",
- "paid_for_by": null,
+ "fingerprint": "3899458927b01d2a916c481ca0317fbd2ed92abe",
+ "format": 3,
+ "paid_for_by": "",
  "title": "James Spillane with Josh Moore | James Spillane for NH State Representative",
  "years_mentioned": [
-  "2016"
+  "2016",
+  "2026"
  ]
 }

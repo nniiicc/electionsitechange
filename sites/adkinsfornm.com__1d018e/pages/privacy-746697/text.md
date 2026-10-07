@@ -1,1 +1,2 @@
-Text Messaging Opt-In Data: We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
+top of page Home About David Priorities Voting Info CONTRIBUTE Privacy Policy Text Messaging Opt-In Data: We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
+Committee to Elect David Adkins PO Box 92918 Albuquerque, New Mexico 87199 info@adkinsfornm.com Paid for by the Committee to Elect David Adkins bottom of page

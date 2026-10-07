@@ -1,6 +1,4 @@
-Why I’m Leaving the Democratic Party and Running as an Independent
-When the System Fails the People, You Don’t Have to Stay in It
-For too long, working families in Mississippi—and across this country—have been told to settle.
+top of page DONATE VOLUNTEER HOME ABOUT TY ISSUES FULCRUM PRESS RELEASES VOTE TRANSPARENCY All Posts Search Why I’m Leaving the Democratic Party and Running as an Independent Jul 5, 2025 4 min read When the System Fails the People, You Don’t Have to Stay in It For too long, working families in Mississippi—and across this country—have been told to settle.
 Settle for broken promises, for rigged systems, for party politics that serve the powerful and leave everyone else behind.
 I didn’t come this far—from chopping cotton in the Delta, to fighting in combat zones overseas, to serving in the White House—to accept a system that fails the very people it was meant to serve.
 I’m not switching sides.
@@ -21,8 +19,7 @@ And I refuse to be part of that.
 When I first began this journey, I reached out to Democratic Party leaders to talk about the issues that matter most to Mississippians—healthcare, jobs, education, veterans’ care.
 But the first question they asked wasn’t: “What are your ideas?
 What’s your plan for rural Mississippi?
-Or, how can we help the people together?”
-No—the first question, over and over and over again, was, “How much money do you have?
+Or, how can we help the people together?” No—the first question, over and over and over again, was, “How much money do you have?
 How much have you raised?” Not values.
 Not vision.
 Just dollars.
@@ -73,14 +70,16 @@ James Meredith once said, “Nobody hand-picked me!
 I believed, and believe now, that I have a Divine Responsibility.
 I am familiar with the probable difficulties involved in such a move as I am undertaking, and I am fully prepared to pursue it all the way.” I feel that same calling today.
 So, if you’ve been waiting for a candidate who can’t be bought, who won’t be intimidated, and who will always put people over politics—now’s the time to stand with me.
-Watch my announcement video here: https://youtu.be/uDggvXn2pWY
-Then, volunteer.
-Donate at www.TyPinkins.com.
+Watch my announcement video here: https://youtu.be/uDggvXn2pWY Then, volunteer.
+Donate at www.TyPinkins.com .
 Share this message.
 Let them know Mississippi is no longer their political playground.
 We’re reclaiming our seat at the table—one voice, one vote, one step at a time.
 I’m Ty Pinkins.
 I’m running as an Independent.
 And I’m running for you.
-Let’s get to work.
-~Ty
+Let’s get to work. ~Ty Recent Posts See All Closed Doors, Lost Voices, Greed and Gatekeeping “But What About…”: How Whataboutism Is Breaking American Politics From the Cotton Fields of the Mississippi Delta to the Highest Court in the Land HOME ABOUT TY JOIN US NEWS ISSUES PRIVACY POLICY TERMS OF SERVICE DONATE VOLUNTEER DONATE BY MAIL ​ T y Pinkins for U.S.
+Senate P.O.
+Box 4525 Jackson, MS 39296 ​ ​ FEC ID: C00830554 Contributions to Ty Pinkins for U.S.
+Senate are not tax deductible.
+PAID FOR BY TY PINKINS FOR CONGRESS bottom of page

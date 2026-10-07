@@ -1,8 +1,42 @@
 [
-"https://facebook.com/fairlyfortexas",
-"https://fairlyfortexas.com/",
-"https://instagram.com/fairlyfortexas",
-"https://secure.anedot.com/caroline-fairly-for-texas/donate",
-"https://twitter.com/FairlyForTexas",
-"https://youtube.com/@CarolineFairlyforTexas"
+{
+"text": "About",
+"href": "https://www.fairlyfortexas.com/#About"
+},
+{
+"text": "DONATE →",
+"href": "https://secure.anedot.com/caroline-fairly-for-texas/donate"
+},
+{
+"text": "Home",
+"href": "https://www.fairlyfortexas.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.fairlyfortexas.com/#Issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fairlyfortexas.com/#Volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.fairlyfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/FairlyForTexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/fairlyfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/fairlyfortexas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@CarolineFairlyforTexas"
+}
 ]

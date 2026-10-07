@@ -1,8 +1,7 @@
-BY STATE REP.
-PAM MARSH D-Ashland, House District 5
-GUEST COLUMN IN THE ROGUE VALLEY TIMES
-Feb 27, 2024 Updated Feb 28, 2024
-This week, the Oregon Legislature is considering HB 4002, a treatment-focused bill drafted to respond to the state’s addiction crisis and address Measure 110.
+Skip to content Tue.
+Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements GUEST COLUMN: Rep.
+Marsh: A balanced approach to Oregon’s addiction crisis BY STATE REP.
+PAM MARSH D-Ashland, House District 5 GUEST COLUMN IN THE ROGUE VALLEY TIMES Feb 27, 2024 Updated Feb 28, 2024 This week, the Oregon Legislature is considering HB 4002, a treatment-focused bill drafted to respond to the state’s addiction crisis and address Measure 110.
 The bill will include behavioral health investments/reforms, rigorous penalties for drug dealers, medical treatment for individuals in our jails, and the institution of criminal penalties for possession that will allow police to confiscate drugs.
 Counties will be strongly encouraged to create deflection programs that will provide individuals who are found with possession with multiple pathways to connect with treatment and avoid long term legal consequences, including jail or a criminal record.
 HB 4002 responds to conditions on the ground, as well as to the greater political environment.
@@ -26,3 +25,6 @@ However, I also observed that law enforcement consequences were, for some indivi
 This experience on the ground informs my perspective on HB 4002.
 The comprehensive, treatment-centered approach proposed in the bill threads the pragmatic and political needle.
 Given all considerations, I believe it is the right path forward.
+Post navigation My Priorities for the 2022 Legislative Session My view on the situation facing the university by Rep.
+Pam Marsh DONATE TO PAM'S 2026 CAMPAIGN Follow Pam on Facebook REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 Proudly powered by WordPress | Theme: Newsup by Themeansar .
+ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements

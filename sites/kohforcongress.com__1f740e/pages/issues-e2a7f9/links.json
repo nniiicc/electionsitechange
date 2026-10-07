@@ -1,30 +1,186 @@
 [
-"https://bsky.app/profile/hawkkoh.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/danarriggkoh",
-"https://instagram.com/danarriggkoh",
-"https://kohforcongress.com/",
-"https://kohforcongress.com/endorsements",
-"https://kohforcongress.com/issues/affordable-housing",
-"https://kohforcongress.com/issues/climate-change",
-"https://kohforcongress.com/issues/delivering-affordability-for-the-north-shore",
-"https://kohforcongress.com/issues/education",
-"https://kohforcongress.com/issues/gun-safety",
-"https://kohforcongress.com/issues/healthcare",
-"https://kohforcongress.com/issues/issue-1",
-"https://kohforcongress.com/issues/issue-2",
-"https://kohforcongress.com/issues/lgbtq-rights",
-"https://kohforcongress.com/issues/racial-justice",
-"https://kohforcongress.com/issues/reproductive-rights",
-"https://kohforcongress.com/issues/strengthening-unions",
-"https://kohforcongress.com/issues/transportation",
-"https://kohforcongress.com/issues/winning-back-our-country",
-"https://kohforcongress.com/issues/your-issue-title-here",
-"https://kohforcongress.com/meet-dan",
-"https://kohforcongress.com/news",
-"https://secure.actblue.com/donate/dk-web-home",
-"https://threads.net/@hawkkoh",
-"https://tiktok.com/@danarriggkoh",
-"https://x.com/dank",
-"https://youtube.com/@danarriggkoh"
+{
+"text": "Abolish Trump's ICE",
+"href": "https://www.kohforcongress.com/issues/your-issue-title-here"
+},
+{
+"text": "Affordable Housing",
+"href": "https://www.kohforcongress.com/issues/affordable-housing"
+},
+{
+"text": "An Affordable Massachusetts",
+"href": "https://www.kohforcongress.com/issues/delivering-affordability-for-the-north-shore"
+},
+{
+"text": "Climate Change",
+"href": "https://www.kohforcongress.com/issues/climate-change"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dk-web-home"
+},
+{
+"text": "Education",
+"href": "https://www.kohforcongress.com/issues/education"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kohforcongress.com/endorsements"
+},
+{
+"text": "Fighting Trump's Corruption",
+"href": "https://www.kohforcongress.com/issues/issue-1"
+},
+{
+"text": "Gun Safety",
+"href": "https://www.kohforcongress.com/issues/gun-safety"
+},
+{
+"text": "Healthcare",
+"href": "https://www.kohforcongress.com/issues/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.kohforcongress.com/"
+},
+{
+"text": "LGBTQ+ RIGHTS",
+"href": "https://www.kohforcongress.com/issues/lgbtq-rights"
+},
+{
+"text": "Meet Dan",
+"href": "https://www.kohforcongress.com/meet-dan"
+},
+{
+"text": "Press",
+"href": "https://www.kohforcongress.com/news"
+},
+{
+"text": "Protecting Democracy",
+"href": "https://www.kohforcongress.com/issues/issue-2"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Racial Justice",
+"href": "https://www.kohforcongress.com/issues/racial-justice"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://www.kohforcongress.com/issues/reproductive-rights"
+},
+{
+"text": "Strengthening Unions",
+"href": "https://www.kohforcongress.com/issues/strengthening-unions"
+},
+{
+"text": "Transportation",
+"href": "https://www.kohforcongress.com/issues/transportation"
+},
+{
+"text": "View more",
+"href": "https://www.kohforcongress.com/issues/affordable-housing"
+},
+{
+"text": "View more",
+"href": "https://www.kohforcongress.com/issues/climate-change"
+},
+{
+"text": "View more",
+"href": "https://www.kohforcongress.com/issues/delivering-affordability-for-the-north-shore"
+},
+{
+"text": "View more",
+"href": "https://www.kohforcongress.com/issues/education"
+},
+{
+"text": "View more",
+"href": "https://www.kohforcongress.com/issues/gun-safety"
+},
+{
+"text": "View more",
+"href": "https://www.kohforcongress.com/issues/healthcare"
+},
+{
+"text": "View more",
+"href": "https://www.kohforcongress.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.kohforcongress.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.kohforcongress.com/issues/lgbtq-rights"
+},
+{
+"text": "View more",
+"href": "https://www.kohforcongress.com/issues/racial-justice"
+},
+{
+"text": "View more",
+"href": "https://www.kohforcongress.com/issues/reproductive-rights"
+},
+{
+"text": "View more",
+"href": "https://www.kohforcongress.com/issues/strengthening-unions"
+},
+{
+"text": "View more",
+"href": "https://www.kohforcongress.com/issues/transportation"
+},
+{
+"text": "View more",
+"href": "https://www.kohforcongress.com/issues/winning-back-our-country"
+},
+{
+"text": "View more",
+"href": "https://www.kohforcongress.com/issues/your-issue-title-here"
+},
+{
+"text": "Winning Back Our Country",
+"href": "https://www.kohforcongress.com/issues/winning-back-our-country"
+},
+{
+"text": "[image: Dan Koh for Congress logo]",
+"href": "https://www.kohforcongress.com/"
+},
+{
+"text": "[image: Dan Koh for Congress]",
+"href": "https://www.kohforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/hawkkoh.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/danarriggkoh/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/danarriggkoh"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@hawkkoh"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@danarriggkoh"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@danarriggkoh"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/dank"
+},
+{
+"text": "press@kohforcongress.com",
+"href": "mailto:press@kohforcongress.com"
+}
 ]

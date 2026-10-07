@@ -1,7 +1,5 @@
-Proven Leader.
-Fighting for Nevada’s Future.
-About Cody
-Cody Whipple is a fourth-generation Nevadan, small business owner, and rancher who understands what it takes to get things done.
+Skip to content About Endorsements Get Involved News Issues Store Donate Proven Leader.
+Fighting for Nevada’s Future. $25 $50 $100 $250 $500 $1,000 Donate About Cody Cody Whipple is a fourth-generation Nevadan, small business owner, and rancher who understands what it takes to get things done.
 Whether it’s growing a business, managing a family cattle ranch, or coaching the next generation of young athletes, Cody has spent his life solving problems, overcoming obstacles, and delivering results for his family, his community, and Nevada.
 Born and raised in Hiko, Nevada, Cody grew up working on his family’s ranch, trailing cattle on horseback across Dry Lake Valley and learning firsthand the values of hard work, responsibility, and resilience.
 But life in rural Nevada wasn’t always easy.
@@ -21,3 +19,13 @@ Now, Cody Whipple is running for Congress in Nevada’s 4th District because Was
 He will bring real-world experience and practical solutions to the issues that matter most: lowering the cost of living, supporting small businesses, improving public safety, and ensuring parents—not the government—have control over their children’s education.
 Cody isn’t a career politician—he’s a businessman, a rancher, and a leader who delivers results.
 In Congress, he’ll do what he’s always done: work hard, solve problems, and put Nevadans first.
+Read More Join Team Cody Today Name * First Name * Last Name * Email Address * Phone Number Message * Consent By providing your phone number, you consent to receive text messages (e.g., campaign information, donation requests, event reminders) from Cody K 4 Congress at the number provided, including messages sent by autodialer.
+To opt out, reply “STOP” and you will be removed from receiving further communications via text.
+For help, reply “HELP”.
+Your personal information will not be sold, rented, or shared with anyone.
+Message frequency varies.
+Message and data rates may apply.
+Privacy Policy .
+Submit Get Involved With The Fight.
+Join Cody’s Team Today!
+4004 Whipple Ranch Road, Hiko, NV 89017 – 702-914-8072 – info@codyk4congress.com Paid for by Cody K 4 Congress Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

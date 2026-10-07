@@ -1,7 +1,7 @@
-Elvi is committed to making Alaska the best place to live, work, and play.
+top of page BACK Elvi is committed to making Alaska the best place to live, work, and play.
 Elvi Gray-Jackson moved to Alaska in 1982 from New Jersey with her son, Ramon.
 As a single parent, she experienced the challenges of life in a new city, along with the excitement of adventure in Anchorage.
-She immediately became involved in many civic and community service organizations that she continues to support today including Four A's, Identity, Inc., the ARC of Anchorage, STAR (Standing Together Against Rape), AWAIC (Abused Women's Aid in Crisis), Big Brothers/Big Sisters and Boys & Girls Club of Alaska.
+She immediately became involved in many civic and community service organizations that she continues to support today including Four A's, Identity, Inc., the ARC of Anchorage, STAR (Standing Together Against Rape), AWAIC (Abused Women's Aid in Crisis), Big Brothers/Big Sisters and Boys &amp; Girls Club of Alaska.
 Elvi also served on the Board of Directors of the Boys and Girls Club of Alaska and the Woodside East Homeowners Association.
 Elvi’s public service career began working with the Public Transit Department as the Executive Secretary to the Director in 1983.
 Her administrative expertise was recognized, and Elvi was hired by the Anchorage Assembly as the Administrative Assistant for the newly established Office of the Assembly Budget Analyst in 1988.
@@ -13,3 +13,5 @@ She served as chair from 2016-2017.
 Currently, Elvi is serving in the Alaska State Senate representing District G which encompasses Midtown, Campbell, Spenard with a bit of Turnagain and Sand Lake.
 She serves on the Labor, Community and Regional Affairs, State Affairs, and Legislative Council Committees, and serves on the Labor and Workforce Development, Health, Family and Community Services, and Community, Economic and Regional Affairs Finance Sub-committees.
 She formerly served as Chair of the Legislative Council Joint Committee and currently services as Chair Legislative Budget and Audit Joint Committee.
+Paid for by Friends of Elvi Gray-Jackson, P.O.
+Box 240091, Anchorage, AK 99524-0091 bottom of page

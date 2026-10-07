@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.voteranjeev.com/platform-and-campaign",
- "paid_for_by": "Paid for by Friends of Ranjeev Puri PO Box 871007 Canton, MI 48187 \u00a9 Copyright 2025",
- "title": "Platform and Campaign \u2014 Vote Ranjeev",
- "years_mentioned": []
+ "fingerprint": "aef701160d658af8b003d89c143ba789b56eb091",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Ranjeev Puri PO Box 871007 Canton, MI 48187 © Copyright #",
+ "title": "Platform and Campaign — Vote Ranjeev",
+ "years_mentioned": [
+  "2025"
+ ]
 }

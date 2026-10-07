@@ -1,131 +1,16 @@
-FEDERAL ELECTED OFFICIALS
-- President Donald J.
-Trump
-- Vice President J.D.
-Vance
-- U.S.
-Senator Jim Justice (R-W.Va.)
-- U.S.
-Senate Majority Leader John Thune (R-S.D.)
-- U.S.
-Representative Riley Moore (R-W.Va.-02)
-- U.S.
-Representative Carol Miller (R-W.Va.-01)
-- NRSC Chairman U.S.
-Senator Tim Scott (R-S.C)
-- U.S.
-Senate Majority Whip John Barrasso (R-Wyo.)
-- U.S.
-Senate Republican Conference Chairman Tom Cotton (R-Ark.)
-- U.S.
-Senate Republican Conference Vice Chair James Lankford (R-Okla.)
-WEST VIRGINIA ELECTED OFFICIALS
-- WV State Senator Donna J.
-Boley (R-03)
-- WV State Senator Anne B.
-Charnock (R-17)
-- WV State Senator Charles H.
-Clements (R-02)
-- WV State Senator Vince Deeds (R-10)
-- WV State Senator Amy Grady (R-04)
-- WV State Senator Bill Hamilton (R-11)
-- WV State Senator Glenn Jeffries (R-08)
-- WV State Senator Zack Maynard (R-07)
-- WV State Senator Robbie Morris (R-11)
-- WV State Senator Mike Oliverio (R-13)
-- WV State Senator Rupie Phillips (R-07)
-- WV State Senator Ben Queen (R-12)
-- WV State Senator Tom Takubo (R-17)
-- WV State Senator Ryan Weld (R-01)
-- WV State Senator Jack David Woodrum (R-10)
-- WV State Senate Candidate Joe Eddy (R-01)
-- WV State Senate Candidate Robert Dobkin (R-02)
-- WV State Senate Candidate Jason Harshbarger (R-03)
-- WV State Senate Candidate Jeff Disibbio (R-06)
-- WV State Senate Candidate Michael Antolini (R-09)
-- WV State Senate Candidate Marc Harman (R-14)
-- WV Delegate Stanley Adkins (District 49)
-- WV Delegate JB Akers (District 55)
-- WV Delegate Michael Amos (District 27)
-- WV Delegate William Anderson (District 10)
-- WV Delegate Bill Bell (District 8)
-- WV Delegate Jordan Bridges (District 33)
-- WV Delegate Eric Brooks (District 45)
-- WV Delegate Ryan Browning (District 28)
-- WV Delegate Jeff Campbell (District 46)
-- WV Delegate Jarred Cannon (District 21)
-- WV Delegate Ray Canterbury (District 47)
-- WV Delegate Geno Chiarelli (District 78)
-- WV Delegate Wayne Clark (District 99)
-- WV Delegate Marshall Clay (District 51)
-- WV Delegate Roy Cooper (District 40)
-- WV Delegate Vernon Criss (District 12)
-- WV Delegate Lori Dittman (District 63)
-- WV Delegate Sarah Drennan (District 20)
-- WV Delegate Jeff Eldridge (District 30)
-- WV Delegate Bob Fehrenbacher (District 11)
-- WV Delegate Dana Ferrell (District 60)
-- WV Delegate Bill Flanigan (District 4)
-- WV Delegate Dave Foggin (District 14)
-- WV Delegate Walter Hall (District 58)
-- WV Speaker of the House Roger Hanshaw (District 62)
-- WV Delegate Scot Heckert (District 13)
-- WV Delegate Michael Hite (District 92)
-- WV Delegate Josh Holstein (District 32)
-- WV Delegate John Paul Hott (District 85)
-- WV Delegate Gary Howell (District 87)
-- WV Delegate Rolland Jennings (District 84)
-- WV Delegate Jonathan Kyle (District 66)
-- WV Delegate Tristan Leavitt (District 53)
-- WV Delegate Daniel Linville (District 22)
-- WV Delegate Phil Mallow (District 75)
-- WV Delegate Keith Marple (District 69)
-- WV Delegate Jordan Maynor (District 41)
-- WV Delegate David McCormick (District 82)
-- WV Delegate George Miller (District 90)
-- WV Delegate Erica Moore (District 15)
-- WV Delegate Joe Parsons (District 16)
-- WV Delegate Mickey Petitto (District 70)
-- WV Delegate Clay Riley (District 72)
-- WV Delegate Matthew Rohrbach (District 26)
-- WV Delegate Bill Roop (District 44)
-- WV Delegate Andy Shamblin (District 59)
-- WV Delegate Charles Sheedy (District 7)
-- WV Delegate Doug Smith (District 39)
-- WV Delegate Joe Statler (District 77)
-- WV Delegate Jeffrey Stephens (District 6)
-- WV Delegate Christopher Toney (District 43)
-- WV Delegate Gregory Watt (District 48)
-- WV Delegate Jimmy Willis (District 3)
-- WV Delegate Mark Zatezalo (District 2)
-- WV House of Delegates Candidate Tim McNeely (District 71)
-- Mayor of Huntington Patrick Farrell
-ORGANIZATIONS (PACS)
-- Big “I” WV
-- Community Bankers of West Virginia
-- Contractors Association of West Virginia
-- Fraternal Order of Police Blennerhassett Lodge 79 of Wood County
-- Gas and Oil Association of West Virginia
-- National Federation of Independent Business (NFIB)
-- Maggie’s List
-- Susan B.
-Anthony (A+ Rating)
-- U.S.
-Chamber of Commerce
-- United Mine Workers of America (UMWA)
-- West Virginia Automobile Dealers Association
-- West Virginia Bankers Association
-- West Virginia Business & Industry Council
-- West Virginia Chamber of Commerce
-- West Virginia Coal Association
-- West Virginia Community Bankers Association
-- West Virginia Dental Association
-- West Virginia Health Care Association
-- West Virginia Manufacturers Association
-- West Virginia Realtors Association
-- West Virginia State Medical Political Action Committee
-- West Virginia Trucking Association
-- West Virginia Wholesalers Association
-- West Virginia Homebuilders Association
-- West Virginia Sheriffs’ Association
-- West Virginians for Life
+Skip to content Home Endorsements WV Veterans For Capito Facebook Instagram X Donate Donate ENDORSEMENTS ENDORSEMENT FEDERAL ELECTED OFFICIALS President Donald J.
+Trump Vice President J.D.
+Vance U.S.
+Senator Jim Justice (R-W.Va.) U.S.
+Senate Majority Leader John Thune (R-S.D.) U.S.
+Representative Riley Moore (R-W.Va.-02) U.S.
+Representative Carol Miller (R-W.Va.-01) NRSC Chairman U.S.
+Senator Tim Scott (R-S.C) U.S.
+Senate Majority Whip John Barrasso (R-Wyo.) U.S.
+Senate Republican Conference Chairman Tom Cotton (R-Ark.) U.S.
+Senate Republican Conference Vice Chair James Lankford (R-Okla.) WEST VIRGINIA ELECTED OFFICIALS WV State Senator Donna J.
+Boley (R-03) WV State Senator Anne B.
+Charnock (R-17) WV State Senator Charles H.
+Clements (R-02) WV State Senator Vince Deeds (R-10) WV State Senator Amy Grady (R-04) WV State Senator Bill Hamilton (R-11) WV State Senator Glenn Jeffries (R-08) WV State Senator Zack Maynard (R-07) WV State Senator Robbie Morris (R-11) WV State Senator Mike Oliverio (R-13) WV State Senator Rupie Phillips (R-07) WV State Senator Ben Queen (R-12) WV State Senator Tom Takubo (R-17) WV State Senator Ryan Weld (R-01) WV State Senator Jack David Woodrum (R-10) WV State Senate Candidate Joe Eddy (R-01) WV State Senate Candidate Robert Dobkin (R-02) WV State Senate Candidate Jason Harshbarger (R-03) WV State Senate Candidate Jeff Disibbio (R-06) WV State Senate Candidate Michael Antolini (R-09) WV State Senate Candidate Marc Harman (R-14) WV Delegate Stanley Adkins (District 49) WV Delegate JB Akers (District 55) WV Delegate Michael Amos (District 27) WV Delegate William Anderson (District 10) WV Delegate Bill Bell (District 8) WV Delegate Jordan Bridges (District 33) WV Delegate Eric Brooks (District 45) WV Delegate Ryan Browning (District 28) WV Delegate Jeff Campbell (District 46) WV Delegate Jarred Cannon (District 21) WV Delegate Ray Canterbury (District 47) WV Delegate Geno Chiarelli (District 78) WV Delegate Wayne Clark (District 99) WV Delegate Marshall Clay (District 51) WV Delegate Roy Cooper (District 40) WV Delegate Vernon Criss (District 12) WV Delegate Lori Dittman (District 63) WV Delegate Sarah Drennan (District 20) WV Delegate Jeff Eldridge (District 30) WV Delegate Bob Fehrenbacher (District 11) WV Delegate Dana Ferrell (District 60) WV Delegate Bill Flanigan (District 4) WV Delegate Dave Foggin (District 14) WV Delegate Walter Hall (District 58) WV Speaker of the House Roger Hanshaw (District 62) WV Delegate Scot Heckert (District 13) WV Delegate Michael Hite (District 92) WV Delegate Josh Holstein (District 32) WV Delegate John Paul Hott (District 85) WV Delegate Gary Howell (District 87) WV Delegate Rolland Jennings (District 84) WV Delegate Jonathan Kyle (District 66) WV Delegate Tristan Leavitt (District 53) WV Delegate Daniel Linville (District 22) WV Delegate Phil Mallow (District 75) WV Delegate Keith Marple (District 69) WV Delegate Jordan Maynor (District 41) WV Delegate David McCormick (District 82) WV Delegate George Miller (District 90) WV Delegate Erica Moore (District 15) WV Delegate Joe Parsons (District 16) WV Delegate Mickey Petitto (District 70) WV Delegate Clay Riley (District 72) WV Delegate Matthew Rohrbach (District 26) WV Delegate Bill Roop (District 44) WV Delegate Andy Shamblin (District 59) WV Delegate Charles Sheedy (District 7) WV Delegate Doug Smith (District 39) WV Delegate Joe Statler (District 77) WV Delegate Jeffrey Stephens (District 6) WV Delegate Christopher Toney (District 43) WV Delegate Gregory Watt (District 48) WV Delegate Jimmy Willis (District 3) WV Delegate Mark Zatezalo (District 2) WV House of Delegates Candidate Tim McNeely (District 71) Mayor of Huntington Patrick Farrell ORGANIZATIONS (PACS) Big “I” WV Community Bankers of West Virginia Contractors Association of West Virginia Fraternal Order of Police Blennerhassett Lodge 79 of Wood County Gas and Oil Association of West Virginia National Federation of Independent Business (NFIB) Maggie’s List Susan B.
+Anthony (A+ Rating) U.S.
+Chamber of Commerce United Mine Workers of America (UMWA) West Virginia Automobile Dealers Association West Virginia Bankers Association West Virginia Business & Industry Council West Virginia Chamber of Commerce West Virginia Coal Association West Virginia Community Bankers Association West Virginia Dental Association West Virginia Health Care Association West Virginia Manufacturers Association West Virginia Realtors Association West Virginia State Medical Political Action Committee West Virginia Trucking Association West Virginia Wholesalers Association West Virginia Homebuilders Association West Virginia Sheriffs’ Association West Virginians for Life PAID FOR BY CAPITO FOR WEST VIRGINIA Privacy Policy

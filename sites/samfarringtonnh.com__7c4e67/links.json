@@ -1,6 +1,22 @@
 [
-"https://facebook.com/p/Sam-Farrington-for-Rochester-61561016004120",
-"https://samfarringtonnh.com/contact",
-"https://secure.winred.com/friends-of-sam-farrington/donate-today",
-"https://x.com/samfarringtonnh?s=11"
+{
+"text": "Contact Sam",
+"href": "https://samfarringtonnh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-sam-farrington/donate-today"
+},
+{
+"text": "Support the Campaign",
+"href": "https://secure.winred.com/friends-of-sam-farrington/donate-today"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/p/Sam-Farrington-for-Rochester-61561016004120/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/samfarringtonnh?s=11"
+}
 ]

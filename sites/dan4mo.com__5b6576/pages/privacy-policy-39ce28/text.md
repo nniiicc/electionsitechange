@@ -1,35 +1,14 @@
-Privacy Policy
-At Dan Schaefer for Missouri (www.dan4mo.com), your privacy is important to us.
+top of page Dan Schaefer for Missouri Log In Democratic Candidate, Missouri House of Representatives, District 97 Home Meet Dan Media Blog Podcasts 'Nuf Said Values Events FAQ Contact Us Privacy Policy Donate!
+Privacy Policy At Dan Schaefer for Missouri ( www.dan4mo.com ), your privacy is important to us.
 This Privacy Policy outlines the types of personal information we may collect from you, how we use it, and the measures we take to ensure your information is kept secure.
-By using our website or interacting with our campaign, you agree to the practices outlined in this policy.
-Information We Collect
-We may collect the following types of information when you interact with our website, sign up for updates, donate, or participate in campaign events:
-- Personal Information: Name, email address, phone number, mailing address, and payment details.
-- Usage Data: Information about how you use our website, including pages visited and interactions.
-- Opt-In Information: Data you provide when signing up for updates, including consent to receive communications via email, text message, or phone.
-How We Use Your Information
-We use the information collected for the following purposes:
-- Campaign Communications: To send you updates, event invitations, and calls to action.
-- Donations: To process your contributions and provide receipts.
-- Improve Our Website: To analyze user behavior and improve your experience.
-- Compliance with Law: To comply with applicable laws, regulations, and legal processes.
-Text Messaging Consent and Data Sharing
-We respect your privacy when it comes to text messaging communications.
-Your text messaging opt-in data and consent will not be shared with any third parties, with the following exceptions:
-- Vendors, Consultants, and Service Providers: We may share information with trusted third parties who require access to your information to perform work on behalf of the campaign.
+By using our website or interacting with our campaign, you agree to the practices outlined in this policy. ​ Information We Collect We may collect the following types of information when you interact with our website, sign up for updates, donate, or participate in campaign events: ​ Personal Information: Name, email address, phone number, mailing address, and payment details.
+Usage Data: Information about how you use our website, including pages visited and interactions.
+Opt-In Information: Data you provide when signing up for updates, including consent to receive communications via email, text message, or phone. ​ How We Use Your Information We use the information collected for the following purposes: ​ Campaign Communications: To send you updates, event invitations, and calls to action.
+Donations: To process your contributions and provide receipts.
+Improve Our Website: To analyze user behavior and improve your experience.
+Compliance with Law: To comply with applicable laws, regulations, and legal processes. ​ Text Messaging Consent and Data Sharing ​We respect your privacy when it comes to text messaging communications.
+Your text messaging opt-in data and consent will not be shared with any third parties, with the following exceptions: Vendors, Consultants, and Service Providers: We may share information with trusted third parties who require access to your information to perform work on behalf of the campaign.
 These entities are prohibited from using your data for any purpose other than providing services to us.
-- Compliance with Legal Obligations: We may disclose your information if we believe it is required by applicable law, regulation, or to comply with law enforcement or legal processes.
-Data Security
-We take reasonable measures to protect the security of your personal information and use industry-standard encryption technologies for payment processing and data storage.
-However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
-Your Choices
-- Opt-Out: You may opt out of receiving campaign communications at any time by clicking the "unsubscribe" link in our emails or by contacting us directly.
-- Cookies: Our website may use cookies to enhance your browsing experience.
-You can adjust your browser settings to refuse cookies if preferred.
-Changes to this Policy
-We reserve the right to update or modify this Privacy Policy at any time.
-Any changes will be posted on this page, and significant changes will be communicated to you via email or website notifications.
-Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-Dan Schaefer for Missouri
-636-674-9215
+Compliance with Legal Obligations: We may disclose your information if we believe it is required by applicable law, regulation, or to comply with law enforcement or legal processes. ​ Data Security We take reasonable measures to protect the security of your personal information and use industry-standard encryption technologies for payment processing and data storage.
+However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security. ​ Your Choices ​ Changes to this Policy We reserve the right to update or modify this Privacy Policy at any time.
+Any changes will be posted on this page, and significant changes will be communicated to you via email or website notifications. ​ Contact Us If you have any questions or concerns about this Privacy Policy, please contact us at: Dan Schaefer for Missouri info@dan4mo.com 636-674-9215 © # Dan Schaefer for Missouri Paid for by Citizens to Elect Dan Schaefer Treasurer - Elisabeth Koster Mail bottom of page

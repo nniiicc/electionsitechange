@@ -1,9 +1,12 @@
 {
  "description": "Discover Dana Staples' campaign to represent Auburn District 88, focusing on community, affordable living, and collaborative leadership in Maine. Join today.",
  "final_url": "https://www.danastaples.com/home",
- "paid_for_by": null,
+ "fingerprint": "cf08f333f04c3fd3a317abc24d93ab16e40e9875",
+ "format": 3,
+ "paid_for_by": "authorized by the Dana Staples",
  "title": "Dana Staples for State House | Get Involved Today",
  "years_mentioned": [
+  "2007",
   "2014",
   "2016",
   "2017",

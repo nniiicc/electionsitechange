@@ -1,16 +1,66 @@
 [
-"https://act.darializaforcongress.com/events",
-"https://bsky.app/profile/darializaforny.bsky.social",
-"https://darializaforcongress.com/",
-"https://darializaforcongress.com/about",
-"https://darializaforcongress.com/contact",
-"https://darializaforcongress.com/endorsements",
-"https://darializaforcongress.com/issues",
-"https://darializaforcongress.com/news",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61583351025252",
-"https://instagram.com/darializaforny",
-"https://secure.actblue.com/donate/chevalier-web",
-"https://the-independent.com/news/world/americas/us-politics/ice-funding-world-militaries-b2790466.html",
-"https://x.com/darializaforny"
+{
+"text": "About",
+"href": "https://www.darializaforcongress.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://www.darializaforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chevalier-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.darializaforcongress.com/endorsements"
+},
+{
+"text": "Press",
+"href": "https://www.darializaforcongress.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.darializaforcongress.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://act.darializaforcongress.com/events"
+},
+{
+"text": "[image: Darializa For Congress logo]",
+"href": "https://www.darializaforcongress.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.darializaforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/darializaforny.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61583351025252"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/darializaforny"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/darializaforny"
+},
+{
+"text": "info@darializaforcongress.com",
+"href": "mailto:info@darializaforcongress.com"
+},
+{
+"text": "unprecedented budget of $27.8 billion annually",
+"href": "https://www.the-independent.com/news/world/americas/us-politics/ice-funding-world-militaries-b2790466.html"
+}
 ]

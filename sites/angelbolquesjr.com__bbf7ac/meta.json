@@ -1,10 +1,20 @@
 {
  "description": "Angel L. Bolques Jr. is running for Senator-At-Large in the U.S. Virgin Islands. Learn how to support positive change in your community.",
  "final_url": "https://www.angelbolquesjr.com/",
- "paid_for_by": null,
+ "fingerprint": "353cb3891e05965c59877311864e9c4584162e31",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Angel L. Bolques Jr.",
  "years_mentioned": [
+  "1996",
+  "2008",
   "2012",
-  "2025"
+  "2013",
+  "2019",
+  "2020",
+  "2022",
+  "2023",
+  "2025",
+  "2026"
  ]
 }

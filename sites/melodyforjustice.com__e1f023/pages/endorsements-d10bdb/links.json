@@ -1,8 +1,30 @@
 [
-"https://melodyforjustice.com/",
-"https://melodyforjustice.com/about",
-"https://melodyforjustice.com/cart",
-"https://melodyforjustice.com/endorsements",
-"https://melodyforjustice.com/website-endorsement-form",
-"https://secure.anedot.com/justicemelody/donate"
+{
+"text": "0",
+"href": "https://melodyforjustice.com/cart"
+},
+{
+"text": "About",
+"href": "https://melodyforjustice.com/about"
+},
+{
+"text": "Add Your Name To The List",
+"href": "https://melodyforjustice.com/website-endorsement-form"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/justicemelody/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://melodyforjustice.com/endorsements"
+},
+{
+"text": "[image: Melody For Justice]",
+"href": "https://melodyforjustice.com/"
+},
+{
+"text": "hello@melodyforjustice.com",
+"href": "mailto:hello@melodyforjustice.com"
+}
 ]

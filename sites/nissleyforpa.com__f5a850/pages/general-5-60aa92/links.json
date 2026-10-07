@@ -1,15 +1,70 @@
 [
-"https://facebook.com/profile.php?id=61552476922295",
-"https://instagram.com/nissleyforpa",
-"https://lancasterrepublicans.com/rclc-committee-members",
-"https://nissleyforpa.com/",
-"https://nissleyforpa.com/about",
-"https://nissleyforpa.com/about-7",
-"https://nissleyforpa.com/blog",
-"https://nissleyforpa.com/contact",
-"https://nissleyforpa.com/general-5",
-"https://nissleyforpa.com/get-involved",
-"https://nissleyforpa.com/issues",
-"https://secure.anedot.com/friends-of-dave-nissley/donate",
-"https://x.com/NissleyforPA"
+{
+"text": "ABOUT",
+"href": "https://www.nissleyforpa.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.nissleyforpa.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.nissleyforpa.com/contact"
+},
+{
+"text": "DAVE'S THOUGHTS",
+"href": "https://www.nissleyforpa.com/blog"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-dave-nissley/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.nissleyforpa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.nissleyforpa.com/general-5"
+},
+{
+"text": "ISSUES",
+"href": "https://www.nissleyforpa.com/issues"
+},
+{
+"text": "Issues",
+"href": "https://www.nissleyforpa.com"
+},
+{
+"text": "OUR DISTRICT",
+"href": "https://www.nissleyforpa.com/about-7"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.nissleyforpa.com/get-involved"
+},
+{
+"text": "[image: Black Logo for Nissley for PA]",
+"href": "https://www.nissleyforpa.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61552476922295"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/nissleyforpa/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/NissleyforPA"
+},
+{
+"text": "https://lancasterrepublicans.com/rclc-committee-members/",
+"href": "https://lancasterrepublicans.com/rclc-committee-members/"
+},
+{
+"text": "info@nissleyforpa.com",
+"href": "mailto:info@nissleyforpa.com"
+}
 ]

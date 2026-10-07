@@ -1,5 +1,4 @@
-A GOVERNMENT SHUTDOWN Q&A FOR FEDERAL EMPLOYEES
-If there is a shutdown, who continues working?
+top of page DONATE Home About News & Announcements Community Awards District 60 | 2022 Race 2022 Endorsements Events Free Services & Programs Contact All Posts Capitol News Community Event Legislation Search A GOVERNMENT SHUTDOWN Q&A FOR FEDERAL EMPLOYEES Sheila Jones Oct 2, 2025 6 min read If there is a shutdown, who continues working?
 Most civilian federal employees are placed in one of three categories: furloughed, excepted or exempt.
 Furloughed employees stop working during a shutdown and aren’t paid until the end of the shutdown.
 Excepted employees continue to work, but similarly are not paid until after the shutdown is over.
@@ -25,11 +24,11 @@ But congressional support staff generally do not receive pay during a shutdown, 
 The President also continues to receive a paycheck during a shutdown, as do Supreme Court justices and all appointed justices.
 Does a shutdown affect accrual of annual leave or sick leave?
 No.
-Furloughed employees continue to accrue annual leave and sick leave as normal — as long as there was no other reason aside from a shutdown that the employee was put on a “non-pay” status, according to the Office of Personnel Management.
+Furloughed employees continue to accrue annual leave and sick leave as normal — as long as there was no other reason aside from a shutdown that the employee was put on a “non-pay” status, according to the Office of Personnel Management .
 Excepted employees also continue to accrue leave as normal even though they aren’t being paid during a shutdown.
 Does leave taken through the Family and Medical Leave Act (FMLA) during a shutdown still count toward my total leave hours?
 No.
-Any FMLA leave will be considered “canceled” during a shutdown and won’t count toward an employee’s 12-week total, OPM said.
+Any FMLA leave will be considered “canceled” during a shutdown and won’t count toward an employee’s 12-week total, OPM said .
 The same applies to all types of scheduled leave — it has to be canceled during a shutdown.
 Those days count as “furlough days,” rather than time counted toward leave hours.
 What if I had planned to go on vacation during a shutdown?
@@ -41,8 +40,7 @@ The first option for excepted employees is to simply request time off and earn a
 If employees choose this option to take time off, their agencies will charge their personal leave banks as they would during any other circumstances.
 The second paid leave option for excepted employees is to be placed on “default furlough status” for any approved absence during a government shutdown.
 If excepted employees take this route, their agencies will not charge their personal leave banks.
-Any hours of approved leave would be considered “furloughed hours.”
-Notably, excepted employees will not receive pay for their time off until after the shutdown ends.
+Any hours of approved leave would be considered “furloughed hours.” Notably, excepted employees will not receive pay for their time off until after the shutdown ends.
 Excepted employees who don’t show up for work during a shutdown and don’t have supervisor approval for the time off are considered “absent without leave” (AWOL) for the duration of the absence.
 It’s up to each agency, based on the individual circumstances, to determine the consequences for an AWOL worker.
 Furloughed employees, on the other hand, cannot take paid leave during a shutdown.
@@ -58,8 +56,7 @@ There are exceptions if work travel is considered to be work for an excepted act
 In these cases, employees may still be able to go on work travel during a shutdown.
 Still, many agencies’ contingency plans say travel should be limited in these cases.
 The trip should be as short as possible, and only occur if absolutely necessary, and with no other means of completing the excepted activity without it.
-RETIREMENT
-If I am scheduled to retire before or during a shutdown, will I actually be able to retire?
+RETIREMENT If I am scheduled to retire before or during a shutdown, will I actually be able to retire?
 Yes.
 Federal employees who submit their retirement applications to their agencies before a shutdown begins, with an effective date during the shutdown, will still be considered retired.
 Retiring feds will begin receiving interim annuity payments while OPM processes their applications.
@@ -71,8 +68,7 @@ But OPM staff cannot process a retirement application without first receiving th
 Processing can be delayed in cases where payroll employees at a feds’ employing agency are furloughed.
 If your agency or payroll center hasn’t submitted your retirement application — or if the application is incomplete — you’ll likely see processing delays, OPM said shutdown guidance in January.
 And again, retiring feds will get interim annuity payments while OPM processes their applications.
-INSURANCE AND OPEN SEASON
-Will I still have health insurance coverage during a shutdown?
+INSURANCE AND OPEN SEASON Will I still have health insurance coverage during a shutdown?
 Yes.
 Even if an agency doesn’t pay health premiums on time to OPM, federal employees and other Federal Employees Health Benefits (FEHB) program enrollees will maintain health coverage throughout the duration of a shutdown, OPM said.
 That also includes coverage through the Federal Employees Dental and Vision Insurance Program (FEDVIP), the Federal Employees’ Group Life Insurance (FEGLI) program and the Federal Long Term Care Insurance Program (FLTCIP).
@@ -83,10 +79,10 @@ While all FEHB participants maintain health coverage during a shutdown, those wh
 Enrollees will have to make payments for premiums that accumulate during a shutdown once a shutdown ends.
 Does Open Season still happen if there’s a shutdown?
 Yes.
-Enrollees in FEHB and FEDVIP can still make changes to their 2024 plan options during Open Season, even in the case of a government shutdown.
-This includes furloughed, excepted and exempt employees.
+Enrollees in FEHB and FEDVIP can still make changes to their 2024 plan options during Open Season , even in the case of a government shutdown.
+This includes furloughed, excepted and exempt employees .
 That’s because OPM, which runs FEHB and FEDVIP, finances the federal programs through trust funds rather than appropriations.
-About three-quarters of all OPM employees and functions are exempt from a shutdown, including employees in the health care and insurance office, according to OPM’s agency contingency plan.
+About three-quarters of all OPM employees and functions are exempt from a shutdown, including employees in the health care and insurance office, according to OPM’s agency contingency plan .
 Exempt employees’ jobs are funded outside the appropriations process.
 Therefore, they continue to work and get paid during a shutdown, at least until those alternative funds run out.
 Can I file for unemployment?
@@ -95,4 +91,5 @@ Furloughed employees can become eligible for unemployment compensation, but the 
 Some states require a one-week waiting period before an individual can qualify for unemployment payments.
 If filing for unemployment, your state will require you to provide your agency’s federal identification code.
 Federal News Network is answering both common and specific questions on the impacts of a partial government shutdown on pay, benefits, retirement and more.
-Employees can find more information about individual state offices and unemployment compensation for federal employees on the Department of Labor’s website.
+Employees can find more information about individual state offices and unemployment compensation for federal employees on the Department of Labor’s website .
+Tags: Washington DC 2025 Government Shutdown Community Event Recent Posts See All 2023 Sponsored/Co-sponsored Georgia Legislation 2024 Sponsored/Co-sponsored Legislation The House Page Program Reach Out Call 404-542-8683 Email sheilajones_jones@yahoo.com Address 3246 Amhurst Drive NW Atlanta, GA 30318 bottom of page

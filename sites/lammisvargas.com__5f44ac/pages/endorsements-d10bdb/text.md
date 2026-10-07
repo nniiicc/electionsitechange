@@ -1,11 +1,7 @@
-Skip to content Skip to footer
-document.cookie = 'nitroCachedPage=' + (!window.NITROPACK_STATE ?
-'0' : '1') + '; path=/; SameSite=Lax';
-if (!window.NITROPACK_STATE || window.NITROPACK_STATE != 'FRESH') {
-var proxyPurgeOnly = 0;
-if (typeof navigator.sendBeacon !== 'undefined') {
-var nitroData = new FormData(); nitroData.append('nitroBeaconUrl', 'aHR0cHM6Ly9sYW1taXN2YXJnYXMuY29tL2VuZG9yc2VtZW50cy8='); nitroData.append('nitroBeaconCookies', 'W10='); nitroData.append('nitroBeaconHash', '30e1aee17df5eb2ff886137877fc8e71a8b8f33c4625e26159844c2b9d719925e4a028d230bc06310505bd6b42c9cc96b98261667419991f91bc751df3b186bd'); nitroData.append('proxyPurgeOnly', ''); nitroData.append('layout', 'page'); navigator.sendBeacon(location.href, nitroData);
-} else {
-var xhr = new XMLHttpRequest(); xhr.open('POST', location.href, true); xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded'); xhr.send('nitroBeaconUrl=aHR0cHM6Ly9sYW1taXN2YXJnYXMuY29tL2VuZG9yc2VtZW50cy8=&nitroBeaconCookies=W10=&nitroBeaconHash=30e1aee17df5eb2ff886137877fc8e71a8b8f33c4625e26159844c2b9d719925e4a028d230bc06310505bd6b42c9cc96b98261667419991f91bc751df3b186bd&proxyPurgeOnly=&layout=page');
-}
-}
+Skip to content Skip to footer Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact donate Endorsements Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact Lammis Vargas is proud to be endorsed by Endorsed Democrat State Senator Sandra Cano State Representative Grace Diaz General Treasurer James Diossa State Senator Jonathon Acosta State Representative Scott Slater State Representative José Batista State Representative Joshua Giraldo Pawtucket Mayor Donald Grebien Central Falls Mayor Maria Rivera Former Cranston City Councilor Maria Bucci Cranston City Council President Jessica Marino Cranston City Councilor Kristen Haroian Cranston City Councilor John Donegan Cranston City Councilor Dan Wall Providence City Councilor Pedro Espinal Providence City Councilor Ana Vargas Cranston Young Democrats General Teamster 251 RI Laborers’ District Council Cranston Firefighters IAFF Local 1363 RI State Association of Firefighters Amalgamated Transit Union Local 618 Meet Lammis Lammis Vargas is a lifelong Rhode Islander, mother of 2, and public servant committed to serving Cranston and Providence residents.
+Platform Lammis's platform has a far reaching impact across housing, environment, education, healthcare, and the economy.
+Volunteer Join the Lammis Vargas for State Senate Campaign to effect positive changes for the Cranston and Providence communities.
+Donate Your financial support goes a long way in supporting Lammis's campaign to bring meaningful change to Rhode Island.
+Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
+#teamlammis Facebook Instagram X-twitter Get Involved Meet Lammis Endorsements Platform Volunteer Contribute Contact Stay Tuned for Updates I have read and agree to the terms & conditions Leave this field empty if you're human: Copyright ©️ # Friends of Lammis J.
+Vargas | All Rights Reserved | Website Development & Design by J&R Marketing | Privacy Policy

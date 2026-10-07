@@ -1,22 +1,94 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=SD+40+Day+of+Action+-+10%2F8&dates=20261008T223000Z%2F20261009T003000Z&location=400+10th+Street+Northwest%2C+New+Brighton%2C+Minnesota%2C+55112%2C+United+States",
-"http://maps.google.com/?q=400+10th+Street+Northwest+New+Brighton%2C+Minnesota%2C+55112+United+States",
-"https://facebook.com/profile.php?id=61582579073857",
-"https://mobilize.us/dfl/event/1048327?referring_vol=13830183&share_context=dashboard-event-details&sharer_role=2",
-"https://secure.actblue.com/donate/aisha-elmquist-1",
-"https://voteelmquist.com/",
-"https://voteelmquist.com/cart",
-"https://voteelmquist.com/contact",
-"https://voteelmquist.com/endorsements",
-"https://voteelmquist.com/events",
-"https://voteelmquist.com/events/10-4-doorknock",
-"https://voteelmquist.com/events/sd-40-day-of-action?format=ical",
-"https://voteelmquist.com/events/shoreview-doorknock-1011",
-"https://voteelmquist.com/meet",
-"https://voteelmquist.com/priorities",
-"https://voteelmquist.com/resources",
-"https://voteelmquist.com/take-action",
-"https://voteelmquist.com/volunteer",
-"https://voteelmquist.com/volunteer-1",
-"https://voteelmquist.com/voting-info"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=400+10th+street+northwest+new+brighton%2C+minnesota%2C+55112+united+states"
+},
+{
+"text": "0",
+"href": "https://www.voteelmquist.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.voteelmquist.com/meet"
+},
+{
+"text": "Back",
+"href": "https://www.voteelmquist.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.voteelmquist.com/events"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/aisha-elmquist-1"
+},
+{
+"text": "Contact",
+"href": "https://www.voteelmquist.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteelmquist.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.voteelmquist.com/events"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://www.voteelmquist.com/take-action"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=SD+40+Day+of+Action+with+Congresswoman+Betty+McCollum+-+10%2F8&dates=20261008T213000Z%2F20261009T003000Z&location=400+10th+Street+Northwest%2C+New+Brighton%2C+Minnesota%2C+55112%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.voteelmquist.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/sd-40-day-of-action?format=ical"
+},
+{
+"text": "Immigration and Community Resources",
+"href": "https://www.voteelmquist.com/resources"
+},
+{
+"text": "Next Next October 11 Mounds View Doorknock with Aisha Elmquist - 10/11",
+"href": "https://www.voteelmquist.com/events/moundsview-doorknock-1011"
+},
+{
+"text": "Previous Previous October 4 New Brighton Doorknock with State Auditor Candidate Zack Filipovich - 10/4",
+"href": "https://www.voteelmquist.com/events/10-4-doorknock"
+},
+{
+"text": "Priorities",
+"href": "https://www.voteelmquist.com/priorities"
+},
+{
+"text": "RSVP here",
+"href": "https://www.mobilize.us/dfl/event/1048327/?referring_vol=13830183&share_context=dashboard-event-details&sharer_role=2"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://www.voteelmquist.com/volunteer-1"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteelmquist.com/volunteer"
+},
+{
+"text": "Voting Info",
+"href": "https://www.voteelmquist.com/voting-info"
+},
+{
+"text": "[image: Elmquist for House]",
+"href": "https://www.voteelmquist.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582579073857"
+}
 ]

@@ -1,11 +1,4 @@
-top of page
-Photos from the trail.
-How To Support:
-Contact Eric
-Representative Eric Gjerde
-P.O.
-Box 11593
-Cedar Rapids, IA 52410
-(515) 281-3221 (capitol)
-eric.gjerde@legis.iowa.gov
-bottom of page
+top of page State Representative Eric Gjerde HOME MEET ERIC STATE HOUSE CONTACT ME CAMPAIGN PRIORITIES GET INVOLVED NEWS PHOTOS Use tab to navigate through the menu items.
+DONATE House District 74 Photos from the trail.
+How To Support: Quick Donate $25 Quick Donate $50 Quick Donate $100 Contact Eric Representative Eric Gjerde P.O.
+Box 11593 Cedar Rapids, IA 52410 ​ (515) 281-3221 (capitol) ​ eric.gjerde@legis.iowa.gov © # Paid for by Eric Gjerde for Iowa House. bottom of page

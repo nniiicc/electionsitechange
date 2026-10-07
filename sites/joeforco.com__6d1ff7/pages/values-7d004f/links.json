@@ -1,13 +1,70 @@
 [
-"https://bsky.app/profile/joe.votejoek.com",
-"https://instagram.com/joekrzeczkowski",
-"https://joeforco.com/",
-"https://joeforco.com/about",
-"https://joeforco.com/about-the-district",
-"https://joeforco.com/get-involved",
-"https://joeforco.com/privacy-policy",
-"https://joeforco.com/values",
-"https://linkedin.com/in/jkrzeczk",
-"https://secure.anedot.com/joe-krzeczkowski-for-colorado/donate",
-"https://tiktok.com/@joekrzeczkowski"
+{
+"text": "@joe.votejoek.com",
+"href": "https://bsky.app/profile/joe.votejoek.com"
+},
+{
+"text": "About the District",
+"href": "https://joeforco.com/about-the-district/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/joe.votejoek.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/joe-krzeczkowski-for-colorado/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://joeforco.com/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/joekrzeczkowski/"
+},
+{
+"text": "Joe K for Colorado",
+"href": "https://joeforco.com"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/jkrzeczk/"
+},
+{
+"text": "Mail",
+"href": "mailto:info@joeforco.com"
+},
+{
+"text": "Meet Joe",
+"href": "https://joeforco.com/about/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://joeforco.com/privacy-policy/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@joekrzeczkowski"
+},
+{
+"text": "Values",
+"href": "https://joeforco.com/values/"
+},
+{
+"text": "[image: Joe K for Colorado]",
+"href": "https://joeforco.com/"
+},
+{
+"text": "learn more",
+"href": "https://joeforco.com/values#protect-our-freedoms"
+},
+{
+"text": "learn more",
+"href": "https://joeforco.com/values#reform-our-politics"
+},
+{
+"text": "learn more",
+"href": "https://joeforco.com/values#secure-our-future"
+}
 ]

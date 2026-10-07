@@ -1,5 +1,3 @@
-Sat, Oct 03
-Shoals Bend Park
-Join us on October 3rd at our booth at the Harvest Moon Fest at Shoals Bend Park from 9 AM to 3 PM.
-Oct 03, 2026, 9:00 AM – 3:00 PM
-Shoals Bend Park, 235 Corner Stone Dr, Forsyth, MO 65653, USA
+top of page About Get Involved News Events Log In DONATE Harvest Moon Fest - Forsyth Sat, Oct 03 | Shoals Bend Park Join us on October 3rd at our booth at the Harvest Moon Fest at Shoals Bend Park from 9 AM to 3 PM.
+Registration is closed See other events Time & Location Oct 03, 2026, 9:00 AM – 3:00 PM Shoals Bend Park, 235 Corner Stone Dr, Forsyth, MO 65653, USA Share this event Stay up to date Email address * Yes, I agree to receive marketing emails. * SUBSCRIBE BerzinsForStateRep@gmail.com PO Box 94, Ava, MO 65608 Privacy Policy Accessibility Statement © # by Joshua Berzins for State Represenative and secured by Wix Frank Diecidue, Treasurer.
+Terms & Conditions bottom of page

@@ -1,22 +1,14 @@
-press release
-Sep 20, 2026
-ICYMI: Chuck Grassley Follows Josh Turek’s Lead, Calls to Pause Diesel Exports Amid High Fuel Costs Caused by War
-FOR IMMEDIATE RELEASE
-September 20, 2026
-CONTACT: press@turek4iowa.com
-ICYMI: Chuck Grassley Follows Josh Turek’s Lead, Calls to Pause Diesel Exports Amid High Fuel Costs Caused by War
-Big-Oil backed Hinson is silent as Republican Sen.
-Grassley follows Josh’s lead to lower fuel prices for Iowans
-Des Moines, IA – As Iowans struggle with record-high diesel prices that are up 58% since last year as peak harvest season hits, Republican Senator Chuck Grassley is following Josh Turek’s lead and calling to pause diesel exports.
+Skip to main Meet Josh Platform Store Endorsements Latest News Volunteer How to Vote Donate 1 Return To All News press release Sep 20, 2026 ICYMI: Chuck Grassley Follows Josh Turek’s Lead, Calls to Pause Diesel Exports Amid High Fuel Costs Caused by War FOR IMMEDIATE RELEASE September 20, 2026 CONTACT: press@turek4iowa.com ICYMI: Chuck Grassley Follows Josh Turek’s Lead, Calls to Pause Diesel Exports Amid High Fuel Costs Caused by War Big-Oil backed Hinson is silent as Republican Sen.
+Grassley follows Josh’s lead to lower fuel prices for Iowans Des Moines, IA – As Iowans struggle with record-high diesel prices that are up 58% since last year as peak harvest season hits , Republican Senator Chuck Grassley is following Josh Turek’s lead and calling to pause diesel exports .
 Meanwhile, Big Oil-backed Ashley Hinson has been silent.
 Look back: On Wednesday, Josh Turek proposed his three-prong approach to provide much-needed relief to Iowans reeling from skyhigh fuel prices as a result of this war: tapping the Strategic Petroleum Reserve, pausing all diesel exports, and temporarily suspending the federal gas tax.
 What’s more: Ashley Hinson, who has taken more than $20,000 from Big Oil since the war began and has voted seven times to continue the conflict, has remained eerily silent.
-Curiously, Hinson’s Big Oil donors have seen record profits since the start of the war and, according to Senator Grassley, are opposed to pausing diesel exports.
+Curiously, Hinson’s Big Oil donors have seen record profits since the start of the war and, according to Senator Grassley , are opposed to pausing diesel exports.
 Why it matters to Iowa: Record diesel prices will cost Iowa farmers thousands more to harvest their crops this year.
 Gas prices increased by 28 cents per gallon overnight in Des Moines last week and Iowa households have already paid an average of $516 more in gas alone since the war began.
 “I have always said that no party has a monopoly on good ideas, and I’m glad to see Sen.
 Grassley echoed my call to pause diesel exports to provide relief to Iowa’s families and farmers hurting from skyrocketing fuel prices.
 Meanwhile, Ashley Hinson has been silent, instead choosing to prioritize her Big Oil donors over Iowans, just as she has done seven times by voting to continue this war in Iran, even as her Iowa Republican colleagues cross the aisle to end it,” said Josh Turek.
 “Ashley Hinson is a multi-millionaire who may think the war is ‘out of sight, out of mind’ for Iowans, but both Sen.
-Grassley and I know that Iowans are feeling the consequences of this conflict and need a solution – now.”
-Reminder: Hinson has repeatedly supported this reckless war, including after privately admitting the war was a “political liability.” She’s doubled down on her support of the Iran War, saying it is “certainly not the first thing [Iowans] bring up” and claiming the war “is out of sight, out of mind for so many Americans.”
+Grassley and I know that Iowans are feeling the consequences of this conflict and need a solution – now.” Reminder: Hinson has repeatedly supported this reckless war , including after privately admitting the war was a “ political liability .” She’s doubled down on her support of the Iran War, saying it is “certainly not the first thing [Iowans] bring up” and claiming the war “is out of sight, out of mind for so many Americans.” ### Home About Platform Endorsements News Sign Up Volunteer How to Vote Store Donate PO.
+Box 1005, Council Bluffs, IA 51502 info@turek4iowa.com Privacy Policy Terms of Service Paid for by Josh Turek for Iowa

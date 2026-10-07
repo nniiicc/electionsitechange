@@ -1,3 +1,3 @@
-Job Openings We are currently hiring for the positions listed below.
+0 Skip to Content Vote Meet Delia Issues Volunteer Merch Store More Media District Map Contact Vote Jobs DONATE Open Menu Close Menu Vote Meet Delia Issues Volunteer Merch Store More Media District Map Contact Vote Jobs DONATE Open Menu Close Menu Vote Meet Delia Issues Volunteer Merch Store Folder: More Back Media District Map Contact Vote Jobs DONATE Job Openings We are currently hiring for the positions listed below.
 To apply, please submit a cover letter & resume to teamdelia@deliaforcongress.com with the position name as the subject line by the deadline posted.
-Communications Manager
+Communications Manager MEET DELIA DONATE CONTACt media Read our Privacy Policy and Terms & Conditions Paid for by United with Delia for Congress

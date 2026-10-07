@@ -1,7 +1,9 @@
 {
  "description": "Request your Max Burns yard sign today! Fill out our Yard Sign Request Form for political sign distribution in the 23rd Senate District.",
  "final_url": "https://maxburns.com/signs",
- "paid_for_by": null,
+ "fingerprint": "a538c6ccd7d2f0024eb4915da8fd022ed1ec887f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Signs",
  "years_mentioned": []
 }

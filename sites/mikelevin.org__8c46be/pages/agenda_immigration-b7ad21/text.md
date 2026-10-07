@@ -1,4 +1,4 @@
-Mike is the grandson of Mexican immigrants on his mother’s side.
+About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate Mike's Agenda Border Security and Immigration Mike is the grandson of Mexican immigrants on his mother’s side.
 Having not graduated high school themselves, his grandparents sent all five of their daughters to college.
 At age 50, his grandfather, Rosendo Bringas, became an American citizen, and it was among the proudest days of his life.
 Mike wants to preserve the values and aspirations of so many immigrants like his grandparents, who dream of the uniquely American opportunity for self-improvement.
@@ -19,7 +19,11 @@ Mike believes enforcement matters.
 But enforcement only works when it is grounded in law, integrity, and public trust.
 And it must always be paired with humanity.
 At the same time, Mike believes we have real problems at the southern border and a broken immigration system that demands Democrats and Republicans work together in good faith to deliver solutions.
-That’s why Mike is a cosponsor of H.R. 4393, commonly referred to as the DIGNITY Act, which is the most promising bipartisan, comprehensive immigration and border legislation in recent memory.
+That’s why Mike is a cosponsor of H.R.
+4393, commonly referred to as the DIGNITY Act , which is the most promising bipartisan, comprehensive immigration and border legislation in recent memory.
 It would address border security challenges, provide a solution for undocumented immigration, and strengthen our workforce.
 The bill affirms that we must treat those coming to the United States looking for better opportunities with dignity and respect.
 Ultimately, Mike believes that members of both parties need to come together on comprehensive immigration reform, including stronger border security policies, asylum process reforms, and an earned path to citizenship.
+Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+About Mike Agenda Endorsements Latest News Volunteer/Yard Signs Donate Campaign Inquiries: (760) 566-6113 Email: [email protected] Mailing Address: Mike Levin for Congress PO Box 2112 Capistrano Beach, CA 92624 Campaign Media Inquiries: [email protected] Privacy Policy En Español Paid for by Mike Levin for Congress

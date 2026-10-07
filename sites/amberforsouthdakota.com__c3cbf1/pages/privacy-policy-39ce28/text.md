@@ -1,2 +1,1 @@
-PRIVACY POLICY
-Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.”
+0 Skip to Content HOME Donate Open Menu Close Menu Open Menu Close Menu HOME Donate HOME Donate PRIVACY POLICY Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.” PRIVACY POLICY PAID FOR BY AMBER FOR SOUTH DAKOTA amber@amberhulse.com PO Box 572 Hot Springs, SD 57747

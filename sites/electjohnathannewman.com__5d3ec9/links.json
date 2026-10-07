@@ -1,6 +1,22 @@
 [
-"https://electjohnathannewman.com/",
-"https://electjohnathannewman.com/privacy-policy",
-"https://facebook.com/ElectJohnathanNewman",
-"https://secure.winred.com/elect-johnathan-newman/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/elect-johnathan-newman/donate-today"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/elect-johnathan-newman/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electjohnathannewman.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://www.electjohnathannewman.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectJohnathanNewman"
+}
 ]

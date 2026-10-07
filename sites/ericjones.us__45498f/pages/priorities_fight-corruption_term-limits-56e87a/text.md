@@ -1,6 +1,4 @@
-PRIORITIES • Fight Corruption • Policy for
-Term Limits & Real Accountability
-Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Fight Corruption • Policy for Term Limits & Real Accountability Why I believe this — and how I’ll fight for it.
 Congress was never supposed to be a career.
 The founders pictured something different: you’d make your life as a farmer, a nurse, a builder, a small-business owner, serve your neighbors for a time, then come home to live under the laws you passed.
 George Washington set the example — he had the power to stay, and chose to go home.
@@ -12,13 +10,13 @@ You get comfortable, you drift from the people you left behind, and you grow dep
 The longer you’re there, the more you’ll do to stay.
 That’s why I believe in term limits.
 Go in knowing you have a set amount of time, and you spend it on results instead of protecting your seat.
-I’ve already taken a 12-year pledge.
+I’ve already taken a 12-year pledge .
 If you can’t be effective in 12 years, it’s time to go anyway.
 I’m not here to build a career in Congress.
 I’m here because this moment called for it: to set this district up to win, and then hand it back to the people — not to a successor I pick.
-Here’s what I’ll do — and why
-Put a 12-year limit on Congress — and I’ve already limited myself.
-Public service shouldn’t be a 28-year career. 12 years is enough to learn the job and get real things done, without becoming a fixture who answers to the system instead of the people.
+Here’s what I’ll do — and why Put a 12-year limit on Congress — and I’ve already limited myself.
+Public service shouldn’t be a 28-year career.
+12 years is enough to learn the job and get real things done, without becoming a fixture who answers to the system instead of the people.
 The honest part most won’t tell you: universal term limits take a constitutional amendment.
 The Supreme Court ruled in 1995 that nothing less works, so I’ll co-sponsor and fight for one.
 But I won’t wait for Washington to limit itself: I’ve pledged to hold myself to 12 years, and when my time’s up I’ll hand this seat back to the people, not to a successor I pick.
@@ -50,8 +48,7 @@ Congress polices itself, and the office meant to investigate wrongdoing can only
 So members steer deals to companies they own or that fund their campaigns, get rich off the public payroll, then leave to lobby for the same interests — and nothing happens.
 I’d give the rules teeth: independent enforcement that can actually investigate and penalize, hard bans on self-dealing, and real consequences when someone crosses the line.
 We should hold the people who write the nation’s laws to the highest standard, not the lowest.
-The bottom line
-Term limits, real disclosure, programs that earn their keep, ethics with teeth — it all comes down to one idea: public service is a duty, not a career.
+The bottom line Term limits, real disclosure, programs that earn their keep, ethics with teeth — it all comes down to one idea: public service is a duty, not a career.
 Picture a Congress full of people who came to solve something and then go home to live under the laws they passed.
 A government that feels like ours again.
 That’s not a fantasy; it’s how this country was designed to work, and we can take it back.
@@ -61,7 +58,8 @@ Our own congressman has been in Washington for nearly 30 years.
 It’s fair to ask what three decades bought this district.
 This is bigger than any one man: a system that rewards holding on over getting things done.
 Term limits end that game.
-SOURCES
-- The Supreme Court’s 1995 ruling that universal congressional term limits require a constitutional amendment: U.S.
+All Policies Next Policy Return to Top SOURCES The Supreme Court’s 1995 ruling that universal congressional term limits require a constitutional amendment: U.S.
 Term Limits, Inc. v.
-Thornton, 514 U.S. 779 (1995)
+Thornton, 514 U.S.
+779 (1995) Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+No corporate PAC or special interest money accepted.

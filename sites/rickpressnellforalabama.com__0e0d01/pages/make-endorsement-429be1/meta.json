@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://www.rickpressnellforalabama.com/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "f86b8218e12fef1c2993244090148709d2303321",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": []
 }

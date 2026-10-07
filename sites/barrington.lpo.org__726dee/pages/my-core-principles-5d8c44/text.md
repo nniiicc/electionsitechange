@@ -1,4 +1,4 @@
-Human freedom is historically rare.
+My Core Principles About Me Why I Am A Candidate My Public Service Promise My Platform Contribute My Core Principles My Core Principles Freedom Human freedom is historically rare.
 Most people who have ever lived were some form of subject of a ruler, with few formal limits on what he could do to them.
 This kind of social structure is selected for by the forces that produced settled societies, with only a few inspirational exceptions.
 It is no coincidence that the first slow, hesitant, frequently undone steps toward an ideal of universal rights and the efficiency of free markets coincided with the gradual Early Modern improvement of material standards of living, and that the Industrial Revolution came and grew as those ideals became more complete and practiced.
@@ -16,9 +16,10 @@ Both are collectivist mentalities, which assume that decisions should be made co
 The reality is that classes and nations are arbitrary groups of individuals, all of whom have their own sets of conflicting goals and values.
 Classes, nations, and governments cannot, and should not be pretended to, have rights.
 Individual people exist, and the role of government is to protect their rights.
-This is why my slogan is “Freedom Is Optimal“.
-One of the most insightful things I’ve heard someone say: “If you tell me the incentives, I can tell you the result.” While it is true that real humans are not automatically strategic, there is always at least a gradual drift towards behavior that is rewarded or subsidized, and away from behavior that is effectively punished.
-This is the basic reason for the principle of accountability or personal responsibility: those who violate the rights of others must be made to pay compensation, either to the victim or to society.1 This, and property rights, achieves what should be: people are made to pay for the costs they create, and allowed to capture the benefits they generate.
+This is why my slogan is “ Freedom Is Optimal “.
+Accountability and Personal Responsibility One of the most insightful things I’ve heard someone say: “If you tell me the incentives, I can tell you the result.” While it is true that real humans are not automatically strategic, there is always at least a gradual drift towards behavior that is rewarded or subsidized, and away from behavior that is effectively punished.
+This is the basic reason for the principle of accountability or personal responsibility: those who violate the rights of others must be made to pay compensation, either to the victim or to society.
+1 This, and property rights, achieves what should be: people are made to pay for the costs they create, and allowed to capture the benefits they generate.
 Not only is this just, it means that one is incentivized to behave in socially beneficial ways, paying for not doing so and being paid for doing so.
 However, what is socially beneficial should be determined by the market, i.e., other citizens’ preferences in aggregate, not central planners or social engineers.
 Money reveals preferences, and expresses their strength, much better than votes.
@@ -27,11 +28,10 @@ For example, in Columbus, City Attorney Zack Klein has brought legal action agai
 One rationale for deeming this a nuisance was that those in the camp stole or damaged property in surrounding areas.
 But responsibility for this lies with the people living in the camps, who chose to commit theft or vandalism.
 The proper policy remedy is to arrest the thieves and vandals, and compel them to work to pay for the value of what they stole or damaged, or into mental health or drug addiction treatment if that is not possible given their mental state.
-(This has the additional advantage of not depriving homeless people who are not criminals of a stable place to stay.)
-Something like pollution stands in contrast, where the result is an outcome of physical processes such that no other person than the polluter is responsible for the pollution’s effects.
+(This has the additional advantage of not depriving homeless people who are not criminals of a stable place to stay.) Something like pollution stands in contrast, where the result is an outcome of physical processes such that no other person than the polluter is responsible for the pollution’s effects.
 Pollution is aggression, as it intrudes on the property of others, and the collective property of humanity in the atmosphere and oceans, without their consent.
 Polluters should be made to compensate those whose property, including shared property such as the atmosphere, is negatively affected by their pollution.
-I support the principle articulated in the Tenth Amendment: that power is only delegated to government by the people to the extent it acts in their self-interest, and should be able to be freely revoked from same at any time.
+Decentralization I support the principle articulated in the Tenth Amendment: that power is only delegated to government by the people to the extent it acts in their self-interest, and should be able to be freely revoked from same at any time.
 It is true that the states and their borders are largely path-dependent, and all but perhaps the two most recently admitted have utterly transformed culturally, economically, and demographically since then.
 It is reasonable, then, to ask what significance these arbitrary units, ships of Theseus many times over, hold.
 The legalistic answer is that this is the structure of our Constitutional order, but that is not a satisfactory answer.
@@ -45,14 +45,14 @@ To be sure, some of these places are characterized by violence, poverty, and oth
 But I describe the reality of what America is, not whether things would be better if a magic wand could make everyone have the same culture.
 This is the true logic of decentralization.
 The government in Washington DC does not and cannot understand these distinct communities.
-Erroneous assumptions made by lawmakers about how people will respond to the incentives laws create often have disastrous results, such as literally burning neighborhoods to the ground.
+Erroneous assumptions made by lawmakers about how people will respond to the incentives laws create often have disastrous results, such as literally burning neighborhoods to the ground .
 Welfare programs cause some people to become permanent government dependents, while other groups don’t get the help they need because they’re too proud or afraid of community shame to ask for it in the prescribed manner.
-(SNAP destroyed Alaska Natives’ culture of food self-sufficiency through traditional hunting and fishing by causing reliance on processed food paid for by the government.) The interstate highway system destroyed existing communities both directly and through its huge implicit subsidy for the profoundly wasteful land and resource use that is suburban sprawl.
+(SNAP destroyed Alaska Natives’ culture of food self-sufficiency through traditional hunting and fishing by causing reliance on processed food paid for by the government .) The interstate highway system destroyed existing communities both directly and through its huge implicit subsidy for the profoundly wasteful land and resource use that is suburban sprawl.
 Further, the greater the variation in governance, the stronger the selection pressures.
 People will be free to “vote with their feet”, moving to states which have lower tax burdens, better public services, and governments that share their values.
-The ideal is this.
+The ideal is this .
 I disagree with the reasoning of Wickard v.
-Filburn, and would vote against any law or regulation which would exceed the federal government’s proper power to regulate interstate commerce: that applying only to tangible objects which physically cross state borders and services provided by one’s state’s resident to another’s.
+Filburn , and would vote against any law or regulation which would exceed the federal government’s proper power to regulate interstate commerce: that applying only to tangible objects which physically cross state borders and services provided by one’s state’s resident to another’s.
 The usual argument against this is the “race to the bottom”: that states will be forced to compete to slash regulations, taxes, and services.
 But as the private sector is better at providing most services than government, this is not a race to the bottom, but a race to the top.
 A real form of the problem is competition to provide special privileges for particular industries or businesses: subsidies, tax exemptions, and regulatory exemptions (either those not granted to other actors and thus creating unfair competition, or those which externalize costs such as pollution onto others).
@@ -60,5 +60,7 @@ But this incentive already exist, and its harm is limited by the ability of vote
 I do not, however, accept decentralization as a way to decentralize tyranny.
 There is no meaningful difference between my mayor telling me what to do at implicit gunpoint and the President doing the same.
 My vision includes a federal government which still guarantees and protects the basic rights of all from abuses by any state or local government, including ensuring freedom of movement.
-- In contrast, prison sentences are intended to deter the behavior through punishment, or prevent the offender from committing similar offenses.
-The former is inefficient, and the latter is clearly ineffective given the nature of existence in prison. ↩︎
+In contrast, prison sentences are intended to deter the behavior through punishment, or prevent the offender from committing similar offenses.
+The former is inefficient, and the latter is clearly ineffective given the nature of existence in prison. ↩︎ Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Tom Gnau, Dayton Daily News on Hello voters!
+A WordPress Commenter on Hello voters!
+Paid for by Barrington for Congress Contact

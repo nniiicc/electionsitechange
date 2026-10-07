@@ -1,12 +1,17 @@
 {
  "description": "Press Release",
  "final_url": "https://votevarian2026.com/press-release.html",
- "paid_for_by": null,
+ "fingerprint": "c86e33e8593c29207de2dc86b9bb7caf0e2c5efb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Press Release | VoteVarian2026",
  "years_mentioned": [
+  "1972",
+  "1983",
   "2022",
   "2026",
   "2027",
-  "2028"
+  "2028",
+  "2031"
  ]
 }

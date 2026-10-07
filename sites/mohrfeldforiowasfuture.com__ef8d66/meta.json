@@ -1,7 +1,11 @@
 {
  "description": "Welcome to the official campaign website of Matt Mohrfeld for Iowa House. Matt is a Democrat candidate for Iowa House District 100 in the 2026 election.",
  "final_url": "https://www.mohrfeldforiowasfuture.com/",
- "paid_for_by": "Paid for by Mohrfeld for Iowa&#39;s Future Committee",
+ "fingerprint": "0c202d37b3d29f62aa63e854ac7f9bb87f53cf28",
+ "format": 3,
+ "paid_for_by": "Paid for by Mohrfeld for Iowa's Future Committee",
  "title": "Home | Matt Mohrfeld for Iowa House | Fort Madison, Iowa",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

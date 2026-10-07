@@ -1,7 +1,11 @@
 {
  "description": "Kris wants to listen to what matters most to you and your family. Date: Saturday, February 07, 2026 Time: 2 PM - 3:30 PM Location: River Hops Brewery",
  "final_url": "https://www.kriswilliamsforiowa.com/news/news-2",
- "paid_for_by": "Paid for by Kris Williams for Iowa",
+ "fingerprint": "4194b7cf98b8bb61722da24abbb877cc6d036a14",
+ "format": 3,
+ "paid_for_by": "Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app",
  "title": "May Day!",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,13 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Olmsted+Falls+Heritage+Day+Parade&dates=20260731T213000Z%2F20260731T233000Z&location=26450+Bagley+Road%2C+Olmsted+Falls%2C+Ohio%2C+44138%2C+United+States",
-"http://maps.google.com/?q=26450+Bagley+Road+Olmsted+Falls%2C+Ohio%2C+44138+United+States",
-"https://coyforohio.com/",
-"https://coyforohio.com/cart",
-"https://coyforohio.com/contact",
-"https://coyforohio.com/events",
-"https://coyforohio.com/events/canvass-launch-north-royaltonbroadview-heights-w9c4z",
-"https://coyforohio.com/events/olmsted-falls-canvass-launch",
-"https://coyforohio.com/events/olmsted-falls-heritage-day-parade?format=ical",
-"https://coyforohio.com/support",
-"https://docs.google.com/forms/d/e/1FAIpQLSfjVyOhPpvsTp73lipLTLrrkjP3EnW0PWSBtekMhy8wCXyjbg/viewform?usp=header"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=26450+bagley+road+olmsted+falls%2C+ohio%2C+44138+united+states"
+},
+{
+"text": "0",
+"href": "https://www.coyforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.coyforohio.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.coyforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Olmsted+Falls+Heritage+Day+Parade&dates=20260731T213000Z%2F20260731T233000Z&location=26450+Bagley+Road%2C+Olmsted+Falls%2C+Ohio%2C+44138%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.coyforohio.com/events/olmsted-falls-heritage-day-parade?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.coyforohio.com/#issues"
+},
+{
+"text": "Meet Megan",
+"href": "https://www.coyforohio.com/#meetmegan"
+},
+{
+"text": "Next Next August 8 North Royalton Canvass Launch",
+"href": "https://www.coyforohio.com/events/canvass-launch-north-royaltonbroadview-heights-w9c4z"
+},
+{
+"text": "Previous Previous July 25 Olmsted Falls Canvass Launch",
+"href": "https://www.coyforohio.com/events/olmsted-falls-canvass-launch"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.coyforohio.com/support"
+},
+{
+"text": "[image: Megan Coy]",
+"href": "https://www.coyforohio.com/"
+},
+{
+"text": "https://docs.google.com/forms/d/e/1FAIpQLSfjVyOhPpvsTp73lipLTLrrkjP3EnW0PWSBtekMhy8wCXyjbg/viewform?usp=header",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfjVyOhPpvsTp73lipLTLrrkjP3EnW0PWSBtekMhy8wCXyjbg/viewform?usp=header"
+}
 ]

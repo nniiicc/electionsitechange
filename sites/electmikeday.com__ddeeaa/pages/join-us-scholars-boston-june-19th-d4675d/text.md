@@ -1,8 +1,4 @@
-Join Us at Scholars in Boston on June 19th
-Please join us for a fundraiser in support of Michael Day for State Representative
-Scholar’s
-25 School Street
-Boston, MA 02108
-Suggested Contribution
-$500 $250 $100 $50
-For more information or to RSVP, contact Patricia at Patricia@electmikeday.com or click here.
+About News Issues Legislation Contact Get Involved Contribute Menu Join Us at Scholars in Boston on June 19th June 12, 2014 / in Events , Uncategorized / by Megan Day Please join us for a fundraiser in support of Michael Day for State Representative Scholar’s 25 School Street Boston, MA 02108 Suggested Contribution $500 $250 $100 $50 For more information or to RSVP, contact Patricia at Patricia@electmikeday.com or click here .
+Share this: Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Related Share this entry Share on Facebook Share on Twitter Share on Google+ Share on Pinterest Share on Linkedin Share on Tumblr Share on Vk Share on Reddit Share by Mail http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png 0 0 Megan Day http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png Megan Day 2014-06-12 12:01:35 2014-06-12 12:06:14 Join Us at Scholars in Boston on June 19th Paid for by the Committee to Elect Michael Day John C.
+Henaghan, Treasurer Campaign Headquarters Opening: Sat., May 31 Summer & Fall Internship Openings Scroll to top Loading Comments...
+You must be logged in to post a comment.

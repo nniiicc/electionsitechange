@@ -1,145 +1,578 @@
 [
-"https://apps.apple.com/us/app/rep-brad-stephens/id1635769013",
-"https://facebook.com/BradStephensForStateRep",
-"https://ilga.gov/House/Members/Details/3370",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1085&GAID=18&SessionID=114&LegID=156791",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1114&GAID=18&SessionID=114&LegID=156847",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1117&GAID=18&SessionID=114&LegID=156850",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1130&GAID=18&SessionID=114&LegID=156866",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1192&GAID=18&SessionID=114&LegID=156975",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1226&GAID=18&SessionID=114&LegID=157017",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1278&GAID=18&SessionID=114&LegID=157071",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1383&GAID=18&SessionID=114&LegID=157329",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1389&GAID=18&SessionID=114&LegID=157341",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1467&GAID=18&SessionID=114&LegID=157522",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1468&GAID=18&SessionID=114&LegID=157523",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1469&GAID=18&SessionID=114&LegID=157524",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1502&GAID=18&SessionID=114&LegID=157585",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1550&GAID=18&SessionID=114&LegID=157642",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1551&GAID=18&SessionID=114&LegID=157643",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1634&GAID=18&SessionID=114&LegID=158356",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1638&GAID=18&SessionID=114&LegID=158373",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1648&GAID=18&SessionID=114&LegID=158565",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1697&GAID=18&SessionID=114&LegID=158786",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1713&GAID=18&SessionID=114&LegID=158858",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1729&GAID=18&SessionID=114&LegID=158961",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1746&GAID=18&SessionID=114&LegID=159100",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1752&GAID=18&SessionID=114&LegID=159107",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1788&GAID=18&SessionID=114&LegID=159185",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1803&GAID=18&SessionID=114&LegID=159215",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1842&GAID=18&SessionID=114&LegID=159332",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1916&GAID=18&SessionID=114&LegID=159548",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1938&GAID=18&SessionID=114&LegID=159582",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2081&GAID=18&SessionID=114&LegID=159729",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2264&GAID=18&SessionID=114&LegID=159912",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2374&GAID=18&SessionID=114&LegID=160087",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2403&GAID=18&SessionID=114&LegID=160129",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2409&GAID=18&SessionID=114&LegID=160142",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2510&GAID=18&SessionID=114&LegID=160336",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2541&GAID=18&SessionID=114&LegID=160386",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2551&GAID=18&SessionID=114&LegID=160414",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2774&GAID=18&SessionID=114&LegID=160813",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2790&GAID=18&SessionID=114&LegID=160856",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2858&GAID=18&SessionID=114&LegID=161027",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2922&GAID=18&SessionID=114&LegID=161125",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2977&GAID=18&SessionID=114&LegID=161224",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2980&GAID=18&SessionID=114&LegID=161228",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3072&GAID=18&SessionID=114&LegID=161400",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3140&GAID=18&SessionID=114&LegID=161536",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3148&GAID=18&SessionID=114&LegID=161549",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3173&GAID=18&SessionID=114&LegID=161588",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3175&GAID=18&SessionID=114&LegID=161592",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3187&GAID=18&SessionID=114&LegID=161628",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3255&GAID=18&SessionID=114&LegID=161741",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3426&GAID=18&SessionID=114&LegID=162040",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3427&GAID=18&SessionID=114&LegID=162042",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3717&GAID=18&SessionID=114&LegID=162547",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3723&GAID=18&SessionID=114&LegID=162565",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3724&GAID=18&SessionID=114&LegID=162567",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3784&GAID=18&SessionID=114&LegID=162653",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=4032&GAID=18&SessionID=114&LegID=163321",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=4073&GAID=18&SessionID=114&LegID=163932",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=4149&GAID=18&SessionID=114&LegID=164236",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=4171&GAID=18&SessionID=114&LegID=164435",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=4542&GAID=18&SessionID=114&LegID=165379",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=4654&GAID=18&SessionID=114&LegID=165600",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=4867&GAID=18&SessionID=114&LegID=166155",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=4943&GAID=18&SessionID=114&LegID=166293",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5060&GAID=18&SessionID=114&LegID=166549",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5175&GAID=18&SessionID=114&LegID=166796",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5225&GAID=18&SessionID=114&LegID=166902",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5241&GAID=18&SessionID=114&LegID=166935",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5319&GAID=18&SessionID=114&LegID=167075",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5540&GAID=18&SessionID=114&LegID=167548",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5542&GAID=18&SessionID=114&LegID=167550",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5543&GAID=18&SessionID=114&LegID=167551",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5544&GAID=18&SessionID=114&LegID=167552",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5545&GAID=18&SessionID=114&LegID=167554",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5793&GAID=18&SessionID=114&LegID=168647",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=79&GAID=18&SessionID=114&LegID=155755",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=910&GAID=18&SessionID=114&LegID=156588",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HJR&DocNum=14&GAID=18&SessionID=114&LegID=162448",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HJR&DocNum=38&GAID=18&SessionID=114&LegID=163666",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HJR&DocNum=39&GAID=18&SessionID=114&LegID=163838",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HJRCA&DocNum=19&GAID=18&SessionID=114&LegID=164029",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=112&GAID=18&SessionID=114&LegID=160875",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=165&GAID=18&SessionID=114&LegID=163130",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=208&GAID=18&SessionID=114&LegID=163282",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=27&GAID=18&SessionID=114&LegID=156987",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=304&GAID=18&SessionID=114&LegID=163655",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=334&GAID=18&SessionID=114&LegID=163745",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=336&GAID=18&SessionID=114&LegID=163755",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=379&GAID=18&SessionID=114&LegID=163858",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=39&GAID=18&SessionID=114&LegID=157348",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=40&GAID=18&SessionID=114&LegID=157388",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=427&GAID=18&SessionID=114&LegID=163995",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=437&GAID=18&SessionID=114&LegID=164032",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=463&GAID=18&SessionID=114&LegID=164120",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=48&GAID=18&SessionID=114&LegID=157628",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=494&GAID=18&SessionID=114&LegID=164243",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=499&GAID=18&SessionID=114&LegID=164377",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=515&GAID=18&SessionID=114&LegID=164416",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=55&GAID=18&SessionID=114&LegID=157701",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=578&GAID=18&SessionID=114&LegID=164658",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=61&GAID=18&SessionID=114&LegID=158568",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=611&GAID=18&SessionID=114&LegID=165236",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=649&GAID=18&SessionID=114&LegID=166819",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=65&GAID=18&SessionID=114&LegID=158994",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=698&GAID=18&SessionID=114&LegID=167977",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=706&GAID=18&SessionID=114&LegID=168001",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=752&GAID=18&SessionID=114&LegID=168157",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=767&GAID=18&SessionID=114&LegID=168190",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=78&GAID=18&SessionID=114&LegID=159307",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=831&GAID=18&SessionID=114&LegID=168333",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=855&GAID=18&SessionID=114&LegID=168409",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=928&GAID=18&SessionID=114&LegID=168614",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=94&GAID=18&SessionID=114&LegID=159990",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=968&GAID=18&SessionID=114&LegID=168719",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=98&GAID=18&SessionID=114&LegID=160178",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=1446&GAID=18&SessionID=114&LegID=159995",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=1563&GAID=18&SessionID=114&LegID=160275",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=1602&GAID=18&SessionID=114&LegID=160385",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=1700&GAID=18&SessionID=114&LegID=160657",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=1999&GAID=18&SessionID=114&LegID=161402",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=2075&GAID=18&SessionID=114&LegID=161560",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=2108&GAID=18&SessionID=114&LegID=161640",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=2111&GAID=18&SessionID=114&LegID=161644",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=2215&GAID=18&SessionID=114&LegID=161950",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=2306&GAID=18&SessionID=114&LegID=162145",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=3016&GAID=18&SessionID=114&LegID=165548",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=3070&GAID=18&SessionID=114&LegID=165636",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=3385&GAID=18&SessionID=114&LegID=166270",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=3484&GAID=18&SessionID=114&LegID=166485",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=3644&GAID=18&SessionID=114&LegID=166823",
-"https://ilga.gov/Legislation/BillStatus?DocTypeID=SJR&DocNum=34&GAID=18&SessionID=114&LegID=163612",
-"https://instagram.com/repbrad20",
-"https://play.google.com/store/apps/details?id=com.planetbomba.repstephens",
-"https://repbradstephens.com/",
-"https://repbradstephens.com/20th-district",
-"https://repbradstephens.com/about-brad",
-"https://repbradstephens.com/calendar",
-"https://repbradstephens.com/gallery",
-"https://repbradstephens.com/get-involved",
-"https://repbradstephens.com/rep-brad-stephens-bills",
-"https://twitter.com/RepBradStephens"
+{
+"text": "20th District",
+"href": "https://repbradstephens.com/20th-district/"
+},
+{
+"text": "About Brad",
+"href": "https://repbradstephens.com/about-brad/"
+},
+{
+"text": "Calendar",
+"href": "https://repbradstephens.com/calendar/"
+},
+{
+"text": "Get Involved",
+"href": "https://repbradstephens.com/get-involved/"
+},
+{
+"text": "HB0079",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=79&GAID=18&SessionID=114&LegID=155755"
+},
+{
+"text": "HB0910",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=910&GAID=18&SessionID=114&LegID=156588"
+},
+{
+"text": "HB1085",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1085&GAID=18&SessionID=114&LegID=156791"
+},
+{
+"text": "HB1114",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1114&GAID=18&SessionID=114&LegID=156847"
+},
+{
+"text": "HB1117",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1117&GAID=18&SessionID=114&LegID=156850"
+},
+{
+"text": "HB1130",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1130&GAID=18&SessionID=114&LegID=156866"
+},
+{
+"text": "HB1192",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1192&GAID=18&SessionID=114&LegID=156975"
+},
+{
+"text": "HB1226",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1226&GAID=18&SessionID=114&LegID=157017"
+},
+{
+"text": "HB1278",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1278&GAID=18&SessionID=114&LegID=157071"
+},
+{
+"text": "HB1383",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1383&GAID=18&SessionID=114&LegID=157329"
+},
+{
+"text": "HB1389",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1389&GAID=18&SessionID=114&LegID=157341"
+},
+{
+"text": "HB1467",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1467&GAID=18&SessionID=114&LegID=157522"
+},
+{
+"text": "HB1468",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1468&GAID=18&SessionID=114&LegID=157523"
+},
+{
+"text": "HB1469",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1469&GAID=18&SessionID=114&LegID=157524"
+},
+{
+"text": "HB1502",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1502&GAID=18&SessionID=114&LegID=157585"
+},
+{
+"text": "HB1550",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1550&GAID=18&SessionID=114&LegID=157642"
+},
+{
+"text": "HB1551",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1551&GAID=18&SessionID=114&LegID=157643"
+},
+{
+"text": "HB1634",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1634&GAID=18&SessionID=114&LegID=158356"
+},
+{
+"text": "HB1638",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1638&GAID=18&SessionID=114&LegID=158373"
+},
+{
+"text": "HB1648",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1648&GAID=18&SessionID=114&LegID=158565"
+},
+{
+"text": "HB1697",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1697&GAID=18&SessionID=114&LegID=158786"
+},
+{
+"text": "HB1713",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1713&GAID=18&SessionID=114&LegID=158858"
+},
+{
+"text": "HB1729",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1729&GAID=18&SessionID=114&LegID=158961"
+},
+{
+"text": "HB1746",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1746&GAID=18&SessionID=114&LegID=159100"
+},
+{
+"text": "HB1752",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1752&GAID=18&SessionID=114&LegID=159107"
+},
+{
+"text": "HB1788",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1788&GAID=18&SessionID=114&LegID=159185"
+},
+{
+"text": "HB1803",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1803&GAID=18&SessionID=114&LegID=159215"
+},
+{
+"text": "HB1842",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1842&GAID=18&SessionID=114&LegID=159332"
+},
+{
+"text": "HB1916",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1916&GAID=18&SessionID=114&LegID=159548"
+},
+{
+"text": "HB1938",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=1938&GAID=18&SessionID=114&LegID=159582"
+},
+{
+"text": "HB2081",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2081&GAID=18&SessionID=114&LegID=159729"
+},
+{
+"text": "HB2264",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2264&GAID=18&SessionID=114&LegID=159912"
+},
+{
+"text": "HB2374",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2374&GAID=18&SessionID=114&LegID=160087"
+},
+{
+"text": "HB2403",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2403&GAID=18&SessionID=114&LegID=160129"
+},
+{
+"text": "HB2409",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2409&GAID=18&SessionID=114&LegID=160142"
+},
+{
+"text": "HB2510",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2510&GAID=18&SessionID=114&LegID=160336"
+},
+{
+"text": "HB2541",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2541&GAID=18&SessionID=114&LegID=160386"
+},
+{
+"text": "HB2551",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2551&GAID=18&SessionID=114&LegID=160414"
+},
+{
+"text": "HB2774",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2774&GAID=18&SessionID=114&LegID=160813"
+},
+{
+"text": "HB2790",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2790&GAID=18&SessionID=114&LegID=160856"
+},
+{
+"text": "HB2858",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2858&GAID=18&SessionID=114&LegID=161027"
+},
+{
+"text": "HB2922",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2922&GAID=18&SessionID=114&LegID=161125"
+},
+{
+"text": "HB2977",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2977&GAID=18&SessionID=114&LegID=161224"
+},
+{
+"text": "HB2980",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=2980&GAID=18&SessionID=114&LegID=161228"
+},
+{
+"text": "HB3072",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3072&GAID=18&SessionID=114&LegID=161400"
+},
+{
+"text": "HB3140",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3140&GAID=18&SessionID=114&LegID=161536"
+},
+{
+"text": "HB3148",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3148&GAID=18&SessionID=114&LegID=161549"
+},
+{
+"text": "HB3173",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3173&GAID=18&SessionID=114&LegID=161588"
+},
+{
+"text": "HB3175",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3175&GAID=18&SessionID=114&LegID=161592"
+},
+{
+"text": "HB3187",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3187&GAID=18&SessionID=114&LegID=161628"
+},
+{
+"text": "HB3255",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3255&GAID=18&SessionID=114&LegID=161741"
+},
+{
+"text": "HB3426",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3426&GAID=18&SessionID=114&LegID=162040"
+},
+{
+"text": "HB3427",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3427&GAID=18&SessionID=114&LegID=162042"
+},
+{
+"text": "HB3717",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3717&GAID=18&SessionID=114&LegID=162547"
+},
+{
+"text": "HB3723",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3723&GAID=18&SessionID=114&LegID=162565"
+},
+{
+"text": "HB3724",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3724&GAID=18&SessionID=114&LegID=162567"
+},
+{
+"text": "HB3784",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=3784&GAID=18&SessionID=114&LegID=162653"
+},
+{
+"text": "HB4032",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=4032&GAID=18&SessionID=114&LegID=163321"
+},
+{
+"text": "HB4073",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=4073&GAID=18&SessionID=114&LegID=163932"
+},
+{
+"text": "HB4149",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=4149&GAID=18&SessionID=114&LegID=164236"
+},
+{
+"text": "HB4171",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=4171&GAID=18&SessionID=114&LegID=164435"
+},
+{
+"text": "HB4542",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=4542&GAID=18&SessionID=114&LegID=165379"
+},
+{
+"text": "HB4654",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=4654&GAID=18&SessionID=114&LegID=165600"
+},
+{
+"text": "HB4867",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=4867&GAID=18&SessionID=114&LegID=166155"
+},
+{
+"text": "HB4943",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=4943&GAID=18&SessionID=114&LegID=166293"
+},
+{
+"text": "HB5060",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5060&GAID=18&SessionID=114&LegID=166549"
+},
+{
+"text": "HB5175",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5175&GAID=18&SessionID=114&LegID=166796"
+},
+{
+"text": "HB5225",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5225&GAID=18&SessionID=114&LegID=166902"
+},
+{
+"text": "HB5241",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5241&GAID=18&SessionID=114&LegID=166935"
+},
+{
+"text": "HB5319",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5319&GAID=18&SessionID=114&LegID=167075"
+},
+{
+"text": "HB5540",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5540&GAID=18&SessionID=114&LegID=167548"
+},
+{
+"text": "HB5542",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5542&GAID=18&SessionID=114&LegID=167550"
+},
+{
+"text": "HB5543",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5543&GAID=18&SessionID=114&LegID=167551"
+},
+{
+"text": "HB5544",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5544&GAID=18&SessionID=114&LegID=167552"
+},
+{
+"text": "HB5545",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5545&GAID=18&SessionID=114&LegID=167554"
+},
+{
+"text": "HB5793",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5793&GAID=18&SessionID=114&LegID=168647"
+},
+{
+"text": "HJR0014",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HJR&DocNum=14&GAID=18&SessionID=114&LegID=162448"
+},
+{
+"text": "HJR0038",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HJR&DocNum=38&GAID=18&SessionID=114&LegID=163666"
+},
+{
+"text": "HJR0039",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HJR&DocNum=39&GAID=18&SessionID=114&LegID=163838"
+},
+{
+"text": "HJRCA0019",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HJRCA&DocNum=19&GAID=18&SessionID=114&LegID=164029"
+},
+{
+"text": "HR0027",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=27&GAID=18&SessionID=114&LegID=156987"
+},
+{
+"text": "HR0039",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=39&GAID=18&SessionID=114&LegID=157348"
+},
+{
+"text": "HR0040",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=40&GAID=18&SessionID=114&LegID=157388"
+},
+{
+"text": "HR0048",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=48&GAID=18&SessionID=114&LegID=157628"
+},
+{
+"text": "HR0055",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=55&GAID=18&SessionID=114&LegID=157701"
+},
+{
+"text": "HR0061",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=61&GAID=18&SessionID=114&LegID=158568"
+},
+{
+"text": "HR0065",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=65&GAID=18&SessionID=114&LegID=158994"
+},
+{
+"text": "HR0078",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=78&GAID=18&SessionID=114&LegID=159307"
+},
+{
+"text": "HR0094",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=94&GAID=18&SessionID=114&LegID=159990"
+},
+{
+"text": "HR0098",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=98&GAID=18&SessionID=114&LegID=160178"
+},
+{
+"text": "HR0112",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=112&GAID=18&SessionID=114&LegID=160875"
+},
+{
+"text": "HR0165",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=165&GAID=18&SessionID=114&LegID=163130"
+},
+{
+"text": "HR0208",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=208&GAID=18&SessionID=114&LegID=163282"
+},
+{
+"text": "HR0304",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=304&GAID=18&SessionID=114&LegID=163655"
+},
+{
+"text": "HR0334",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=334&GAID=18&SessionID=114&LegID=163745"
+},
+{
+"text": "HR0336",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=336&GAID=18&SessionID=114&LegID=163755"
+},
+{
+"text": "HR0379",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=379&GAID=18&SessionID=114&LegID=163858"
+},
+{
+"text": "HR0427",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=427&GAID=18&SessionID=114&LegID=163995"
+},
+{
+"text": "HR0437",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=437&GAID=18&SessionID=114&LegID=164032"
+},
+{
+"text": "HR0463",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=463&GAID=18&SessionID=114&LegID=164120"
+},
+{
+"text": "HR0494",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=494&GAID=18&SessionID=114&LegID=164243"
+},
+{
+"text": "HR0499",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=499&GAID=18&SessionID=114&LegID=164377"
+},
+{
+"text": "HR0515",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=515&GAID=18&SessionID=114&LegID=164416"
+},
+{
+"text": "HR0578",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=578&GAID=18&SessionID=114&LegID=164658"
+},
+{
+"text": "HR0611",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=611&GAID=18&SessionID=114&LegID=165236"
+},
+{
+"text": "HR0649",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=649&GAID=18&SessionID=114&LegID=166819"
+},
+{
+"text": "HR0698",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=698&GAID=18&SessionID=114&LegID=167977"
+},
+{
+"text": "HR0706",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=706&GAID=18&SessionID=114&LegID=168001"
+},
+{
+"text": "HR0752",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=752&GAID=18&SessionID=114&LegID=168157"
+},
+{
+"text": "HR0767",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=767&GAID=18&SessionID=114&LegID=168190"
+},
+{
+"text": "HR0831",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=831&GAID=18&SessionID=114&LegID=168333"
+},
+{
+"text": "HR0855",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=855&GAID=18&SessionID=114&LegID=168409"
+},
+{
+"text": "HR0928",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=928&GAID=18&SessionID=114&LegID=168614"
+},
+{
+"text": "HR0968",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=HR&DocNum=968&GAID=18&SessionID=114&LegID=168719"
+},
+{
+"text": "Home",
+"href": "https://repbradstephens.com/"
+},
+{
+"text": "Illinois General Assembly",
+"href": "https://ilga.gov/House/Members/Details/3370"
+},
+{
+"text": "LEARN MORE",
+"href": "https://repbradstephens.com/about-brad/"
+},
+{
+"text": "Legislation",
+"href": "https://repbradstephens.com/rep-brad-stephens-bills/"
+},
+{
+"text": "Photo Galleries",
+"href": "https://repbradstephens.com/gallery/"
+},
+{
+"text": "SB1446",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=1446&GAID=18&SessionID=114&LegID=159995"
+},
+{
+"text": "SB1563",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=1563&GAID=18&SessionID=114&LegID=160275"
+},
+{
+"text": "SB1602",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=1602&GAID=18&SessionID=114&LegID=160385"
+},
+{
+"text": "SB1700",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=1700&GAID=18&SessionID=114&LegID=160657"
+},
+{
+"text": "SB1999",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=1999&GAID=18&SessionID=114&LegID=161402"
+},
+{
+"text": "SB2075",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=2075&GAID=18&SessionID=114&LegID=161560"
+},
+{
+"text": "SB2108",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=2108&GAID=18&SessionID=114&LegID=161640"
+},
+{
+"text": "SB2111",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=2111&GAID=18&SessionID=114&LegID=161644"
+},
+{
+"text": "SB2215",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=2215&GAID=18&SessionID=114&LegID=161950"
+},
+{
+"text": "SB2306",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=2306&GAID=18&SessionID=114&LegID=162145"
+},
+{
+"text": "SB3016",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=3016&GAID=18&SessionID=114&LegID=165548"
+},
+{
+"text": "SB3070",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=3070&GAID=18&SessionID=114&LegID=165636"
+},
+{
+"text": "SB3385",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=3385&GAID=18&SessionID=114&LegID=166270"
+},
+{
+"text": "SB3484",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=3484&GAID=18&SessionID=114&LegID=166485"
+},
+{
+"text": "SB3644",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=SB&DocNum=3644&GAID=18&SessionID=114&LegID=166823"
+},
+{
+"text": "SJR0034",
+"href": "https://ilga.gov/Legislation/BillStatus?DocTypeID=SJR&DocNum=34&GAID=18&SessionID=114&LegID=163612"
+},
+{
+"text": "[image]",
+"href": "https://apps.apple.com/us/app/rep-brad-stephens/id1635769013"
+},
+{
+"text": "[image]",
+"href": "https://play.google.com/store/apps/details?id=com.planetbomba.repstephens"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RepBradStephens"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BradStephensForStateRep"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/repbrad20/"
+}
 ]

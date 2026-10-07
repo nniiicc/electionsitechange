@@ -1,9 +1,8 @@
-Aaron Bean Represents Florida Congressional District 4 in Congress
-In addition to serving the people of Northeast Florida in Washington, Aaron Bean is a conservative businessman, a lifelong Republican, a husband, and a father of three whose heart is devoted to public service.
+Skip to content Facebook-f Twitter Youtube Meet Aaron The New 4th District Donate News & Updates Meet Aaron The New 4th District Donate News & Updates Meet Aaron Bean Aaron Bean Represents Florida Congressional District 4 in Congress In addition to serving the people of Northeast Florida in Washington, Aaron Bean is a conservative businessman, a lifelong Republican, a husband, and a father of three whose heart is devoted to public service.
 Aaron was elected to Congress on November 8, 2022, and he was sworn into office on January 7, 2023.
 Currently, he serves on the Transportation and Infrastructure Committee, and the Workforce and Education Committee, where he is Chairman of the Early Childhood, Elementary, and Secondary Education Subcommittee.
 He is also a member of the House Committee on Small Business.
-Prior to serving in the 118th Congress, Aaron spent 10 years in the Florida Senate, where he presided as the Senate President Pro Tempore and the Chairman of the Appropriations Subcommittee on Health and Human Services.
+Prior to serving in the 118 th Congress, Aaron spent 10 years in the Florida Senate, where he presided as the Senate President Pro Tempore and the Chairman of the Appropriations Subcommittee on Health and Human Services.
 He also proudly chaired the Duval Delegation during his last term in office.
 During this service, he was known for being a noted advocate for lowering taxes on hardworking Floridians, focusing on pro-business, pro-family initiatives, and supporting the Florida freedom agenda and policies of Governor Ron DeSantis.
 Aaron also served eight years in the Florida House of Representatives.
@@ -17,4 +16,5 @@ This insight guided him to run for local office, believing government can always
 Aaron served his local community, while raising a family and running a small business, as a city commissioner in Fernandina Beach and later being elected mayor.
 Aaron has worked for UF Health Jacksonville for 13 years in development.
 Aaron and Abby recently celebrated their 30th wedding anniversary and continue to watch their now-grown children build their own professional and personal lives.
-To view the awards Aaron has received over his years of service, click here.
+To view the awards Aaron has received over his years of service, click here .
+Facebook-f Twitter Youtube Paid for by Aaron Bean for Congress Media Inquiries: Sarah Bascom | Kelsey Deasy Copyright # Aaron Bean for Congress

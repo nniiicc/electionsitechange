@@ -1,8 +1,10 @@
 {
- "description": "Vea los pr\u00f3ximos eventos de campa\u00f1a, asambleas comunitarias y reuniones con Greg Abdouch para la Asamblea Estatal de California, Distrito 45.",
+ "description": "Vea los próximos eventos de campaña, asambleas comunitarias y reuniones con Greg Abdouch para la Asamblea Estatal de California, Distrito 45.",
  "final_url": "https://www.abdouchforca.com/es/events",
- "paid_for_by": null,
- "title": "Eventos de Campa\u00f1a | Greg Abdouch para la Asamblea de CA",
+ "fingerprint": "e1f4581d91dc4b2ae53c49e40bb78f9ad48129ae",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Eventos de Campaña | Greg Abdouch para la Asamblea de CA",
  "years_mentioned": [
   "2026"
  ]

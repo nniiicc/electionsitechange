@@ -1,12 +1,10 @@
-Progressive supranuclear palsy (PSP) is a neurodegenerative brain disease that has no known cause, treatment or cure.
+Skip to content Skip to content Home About Pat Dixon Policy Statements Exonerate Robert Roberson Free Market Sustainability Approval Voting School Choice Parent & Teacher Empowerment Non-Partisan Redistricting Texas Muslims AI Property Tax The Abbott Report The Border Election Integrity Texas Transportation Missed Opportunity?
+Hyperbole anyone?
+COVID How to Return Taxes Guns Texas Stance on Science Questionnaire Flock Cameras AI Data Centers The War on Hemp The Abbott Ad 765 kV Transmission iVoterGuide Questionnaire League of Women Voters General Election Voters Guide Marijuana Policy Project/Texas Cannabis Policy Center’s 2026 candidate survey New Braunfels Herald-Zeitung article 8/29/26 Minority Winner Israel Abbott’s Tax Plan About Greg Abbott Biblical Principles Texas Cannabis Policy Questionnaire Business DPAS-INC Sports and Outdoors CDT 2015 Bio My Journey Axyl Mail Stops About Me My Mom About PSP YouTube Channel Photos Arts Music Amazon author page Government Keep the Party Libertarian Texas Senate District 14 Lago Vista city council TX20 Policy Statements Media and Video Search for: Search Home About PSP About PSP Progressive supranuclear palsy (PSP) is a neurodegenerative brain disease that has no known cause, treatment or cure.
 It affects nerve cells that control walking, balance, mobility, vision, speech, and swallowing.
 Five to six people per 100,000 will develop PSP.
 Symptoms begin, on average, when an individual is in the early 60’s, but may start as early as in the 40’s.
 PSP is slightly more common in men than women, but PSP has no known geographical, occupational or racial preference.
-PSP displays a wide range of symptoms including:
-- Loss of balance
-- Changes in personality such as a loss of interest in ordinary, pleasurable activities, or increased irritability
-- Weakness of eye movements, especially in the downward direction
-- Weekend movements of the mouth, tongue and throat
-- Slurred speech
-- Difficulty swallowing
+PSP displays a wide range of symptoms including: Loss of balance Changes in personality such as a loss of interest in ordinary, pleasurable activities, or increased irritability Weakness of eye movements, especially in the downward direction Weekend movements of the mouth, tongue and throat Slurred speech Difficulty swallowing Click here to learn more about about PSP.
+Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment Name * Email * Website Save my name, email, and site URL in my browser for next time I post a comment. Δ CDT Menu Bio Axyl My Journey Mail Stops My CDT Blog About Me My Mom About PSP YouTube Channel Photos Right Sidebar Powered by Nirvana & WordPress.

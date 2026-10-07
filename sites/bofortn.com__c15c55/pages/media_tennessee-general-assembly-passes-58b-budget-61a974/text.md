@@ -1,6 +1,5 @@
-Tennessee General Assembly passes $58B budget
-Tennessee's $58 billion budget for fiscal year 2027 includes an increase in starting teacher pay to $50,000 and $112 million for 35,000 school choice scholarships.
+0 Skip to Content About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Tennessee General Assembly passes $58B budget Apr 17 Written By Waterhouse PR Tennessee's $58 billion budget for fiscal year 2027 includes an increase in starting teacher pay to $50,000 and $112 million for 35,000 school choice scholarships.
 Sen.
 Bo Watson, R-Hixson, said the General Assembly remains committed to health care.
 "This budget makes significant investments in healthcare and hospitals, ensuring providers have the resources to serve patients and strengthen care across our state," Watson said.
-"We remain committed to improving healthcare in Tennessee and finding innovative ways to support it."
+"We remain committed to improving healthcare in Tennessee and finding innovative ways to support it." READ THE FULL ARTICLE Waterhouse PR Previous Previous New TN legislation allows emergency care, Life Force transport for injured K9s Next Next Statewide Tax Law Change Proposed By Hamilton County Passes State Legislature Bo for Tennessee About Priorities Media Contact

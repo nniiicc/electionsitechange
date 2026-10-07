@@ -1,5 +1,4 @@
-Meet Christopher
-Christopher Anger is a 39 year resident of Hernando County.
+Meet Christopher Contract with the People Issues SOLUTIONS Photos Events Contribute News Volunteer Voter Information Meet Christopher Christopher Anger is a 39 year resident of Hernando County.
 He has been married for 20 years.
 Christopher has 2 adult daughters and one charming grandson.
 Christopher has been employed with a small local business for the past 7 years.
@@ -36,4 +35,4 @@ Christopher doesn't have to listen to party leaders that are looking to keep pow
 Christopher will be listening to those that got him there, the VOTERS.
 He will be willing to listen to good ideas from all sides.
 Every decision will be based on [1] HOW DOES THIS AFFECT THE PEOPLE? [2] HOW DOES IT LINE UP WITH THE CONSTITUTION AND BILL OF RIGHTS?
-PUT SOME EMOTION IN YOUR VOTE
+PUT SOME EMOTION IN YOUR VOTE Voter Information Endorsements Yard Signs Events Photos Contact News PAID FOR BY CHRISTOPHER ANGER (CPF) FOR STATE REPRESENTATIVE Powered by CampaignPartner.com - Political Websites Meet Christopher Contract with the People Issues SOLUTIONS Photos Events Contribute News Volunteer Voter Information Endorsements Yard Signs Contact Close Menu

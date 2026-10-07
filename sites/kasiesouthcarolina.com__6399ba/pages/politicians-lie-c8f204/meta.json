@@ -1,10 +1,19 @@
 {
  "description": "Politicians tell you everything sucks so you'll vote for them to fix it. I'm not a politician and I'm not gonna lie. We have real work to do. But things in America are actually pretty great.",
  "final_url": "https://kasiesouthcarolina.com/politicians-lie/",
- "paid_for_by": null,
+ "fingerprint": "5d6e3c23896831e4921dfda012074d4931d39b6b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Politicians Lie - Kasie South Carolina",
  "years_mentioned": [
+  "1970",
+  "1971",
+  "1972",
+  "1980",
+  "1981",
+  "2008",
   "2015",
-  "2022"
+  "2022",
+  "2026"
  ]
 }

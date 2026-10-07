@@ -1,14 +1,54 @@
 [
-"http://twitter.com/RepRosalyn",
-"https://facebook.com/HendersonMyersforSCHouse31",
-"https://linkedin.com/in/representative-rosalyn-henderson-myers-20389317",
-"https://paypal.com/donate?hosted_button_id=P8TARWGTVJSCQ",
-"https://secure.actblue.com/donate/rosalynhendersonmyers",
-"https://votehenderson-myers.com/",
-"https://votehenderson-myers.com/about-1",
-"https://votehenderson-myers.com/contact-4",
-"https://votehenderson-myers.com/endorse-here-1",
-"https://votehenderson-myers.com/legislative-accomplishments",
-"https://votehenderson-myers.com/spartanburg-enrichment",
-"https://youtube.com/watch?v=hmPnOXbh9I4"
+{
+"text": "Contact",
+"href": "https://www.votehenderson-myers.com/contact-4"
+},
+{
+"text": "Donate Below",
+"href": "https://www.votehenderson-myers.com/endorse-here-1"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/rosalynhendersonmyers"
+},
+{
+"text": "Donate Here",
+"href": "https://www.paypal.com/donate/?hosted_button_id=P8TARWGTVJSCQ"
+},
+{
+"text": "Donate Here",
+"href": "https://www.votehenderson-myers.com/endorse-here-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votehenderson-myers.com/about-1"
+},
+{
+"text": "Home",
+"href": "https://www.votehenderson-myers.com"
+},
+{
+"text": "Legislative Accomplishments",
+"href": "https://www.votehenderson-myers.com/legislative-accomplishments"
+},
+{
+"text": "Spartanburg Enrichment",
+"href": "https://www.votehenderson-myers.com/spartanburg-enrichment"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/HendersonMyersforSCHouse31/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/representative-rosalyn-henderson-myers-20389317/"
+},
+{
+"text": "[image: Twitter]",
+"href": "http://twitter.com/RepRosalyn"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/watch?v=hmPnOXbh9I4"
+}
 ]

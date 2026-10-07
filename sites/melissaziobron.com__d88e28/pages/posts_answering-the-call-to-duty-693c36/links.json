@@ -1,9 +1,30 @@
 [
-"https://easthaddam.org/",
-"https://easthamptonct.gov/",
-"https://melissaziobron.com/",
-"https://portal.ct.gov/DSS/Common-Elements/Register-Online-to-Vote",
-"https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Voting",
-"https://portaldir.ct.gov/sots/LookUp.aspx",
-"https://salemct.gov/"
+{
+"text": "Absentee Ballots",
+"href": "https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Voting"
+},
+{
+"text": "Check Your Voter Registration",
+"href": "https://portaldir.ct.gov/sots/LookUp.aspx"
+},
+{
+"text": "Register to Vote",
+"href": "https://portal.ct.gov/DSS/Common-Elements/Register-Online-to-Vote"
+},
+{
+"text": "Town of East Haddam",
+"href": "https://www.easthaddam.org/"
+},
+{
+"text": "Town of East Hampton",
+"href": "https://www.easthamptonct.gov/"
+},
+{
+"text": "Town of Salem",
+"href": "https://www.salemct.gov/"
+},
+{
+"text": "[image: Site Logo]Site Logo",
+"href": "https://melissaziobron.com/"
+}
 ]

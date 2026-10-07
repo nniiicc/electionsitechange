@@ -1,16 +1,70 @@
 [
-"https://facebook.com/repfranksossamon",
-"https://frankfornc.com/",
-"https://frankfornc.com/contact",
-"https://frankfornc.com/endorsements",
-"https://frankfornc.com/meet-frank",
-"https://frankfornc.com/priorities",
-"https://frankfornc.com/privacy",
-"https://instagram.com/lauracohencreative",
-"https://instagram.com/repfranksossamon",
-"https://ncsbe.gov/registering/how-register",
-"https://ncsbe.gov/voting/voter-tools-and-forms",
-"https://secure.anedot.com/committee-to-elect-frank-sossamon/donate",
-"https://vt.ncsbe.gov/PPLkup",
-"https://vt.ncsbe.gov/RegLkup"
+{
+"text": "CONTACT",
+"href": "https://www.frankfornc.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/committee-to-elect-frank-sossamon/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.frankfornc.com/endorsements"
+},
+{
+"text": "MEET FRANK",
+"href": "https://www.frankfornc.com/meet-frank"
+},
+{
+"text": "POLLING LOCATIONS",
+"href": "https://vt.ncsbe.gov/PPLkup/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.frankfornc.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.frankfornc.com/privacy"
+},
+{
+"text": "READ FRANK'S PLAN",
+"href": "https://www.frankfornc.com/meet-frank"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.ncsbe.gov/registering/how-register"
+},
+{
+"text": "Site Design Credit",
+"href": "https://www.instagram.com/lauracohencreative/"
+},
+{
+"text": "VOTER INFORMATION",
+"href": "https://www.ncsbe.gov/voting/voter-tools-and-forms"
+},
+{
+"text": "VOTER LOOKUP",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/repfranksossamon"
+},
+{
+"text": "[image: FrankSossamon_MainLogo.png]",
+"href": "https://www.frankfornc.com"
+},
+{
+"text": "[image: FrankSossamon_SecondaryLogo,Style2_White.png]",
+"href": "https://www.frankfornc.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/repfranksossamon/"
+},
+{
+"text": "[no text]",
+"href": "https://www.frankfornc.com/privacy"
+}
 ]

@@ -1,21 +1,94 @@
 [
-"https://adamlongsd.com/",
-"https://adamlongsd.com/contact",
-"https://adamlongsd.com/contribute",
-"https://adamlongsd.com/contribute?amount=100",
-"https://adamlongsd.com/contribute?amount=1000",
-"https://adamlongsd.com/contribute?amount=25",
-"https://adamlongsd.com/contribute?amount=250",
-"https://adamlongsd.com/contribute?amount=50",
-"https://adamlongsd.com/contribute?amount=500",
-"https://adamlongsd.com/home",
-"https://adamlongsd.com/issues",
-"https://adamlongsd.com/make-endorsement",
-"https://adamlongsd.com/meet_adam",
-"https://adamlongsd.com/photos",
-"https://adamlongsd.com/view-endorsements",
-"https://adamlongsd.com/volunteer",
-"https://adamlongsd.com/yard-sign",
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=61583309264318"
+{
+"text": "$#",
+"href": "https://adamlongsd.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://adamlongsd.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://adamlongsd.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://adamlongsd.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://adamlongsd.com/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://adamlongsd.com/contribute?amount=1000"
+},
+{
+"text": "Contact",
+"href": "https://adamlongsd.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://adamlongsd.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://adamlongsd.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://adamlongsd.com/home"
+},
+{
+"text": "Issues & Priorities",
+"href": "https://adamlongsd.com/issues"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://adamlongsd.com/volunteer"
+},
+{
+"text": "Make Endorsement",
+"href": "https://adamlongsd.com/make-endorsement"
+},
+{
+"text": "Meet Adam",
+"href": "https://adamlongsd.com/meet_adam"
+},
+{
+"text": "Other",
+"href": "https://adamlongsd.com/contribute"
+},
+{
+"text": "Photos",
+"href": "https://adamlongsd.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Show Your Support! Request a Yard Sign Click Here to Request a Sign",
+"href": "https://adamlongsd.com/yard-sign"
+},
+{
+"text": "Support Our Campaign Make a Contribution Today Click Here to Contribute",
+"href": "https://adamlongsd.com/contribute"
+},
+{
+"text": "Volunteer",
+"href": "https://adamlongsd.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://adamlongsd.com/yard-sign"
+},
+{
+"text": "[image: Adam Long for SD District 2 House of Representatives]",
+"href": "https://adamlongsd.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583309264318"
+}
 ]

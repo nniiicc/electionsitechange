@@ -1,26 +1,19 @@
-Terms & Conditions
-Trygve Hammer for Congress may modify this policy during the campaign, please revisit this website for updates.
-When you sign up:
-When you register, contribute, sign up to volunteer, or take any other action on our site, we may ask you to give us contact information such as your name, address, mobile number and/or e-mail address.
+0 Skip to Content Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Terms & Conditions Trygve Hammer for Congress may modify this policy during the campaign, please revisit this website for updates.
+When you sign up: When you register, contribute, sign up to volunteer, or take any other action on our site, we may ask you to give us contact information such as your name, address, mobile number and/or e-mail address.
 We use this information to run this site, send you updates about Trygve Hammer for Congress & to solicit your participation in Trygve Hammer for Congress fundraisers, campaign activities, and procure and confirm details about attendance to campaign events.
 We use your email address to keep you informed and our team may call you to engage and inform you about campaign related events.
 The campaign may share information with other candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals and with organizations and that sharing among those groups is contingent that the groups agree to protect such information to the same degree as set forth here.
 We may share your information with joint fundraising groups.
 We believe in the spirit of democracy and that every vote counts.
 Therefore we may use your contact information to remind you to vote as well ass assist you in finding your polling location, and campaign events near you.
-Donors:
-The Federal Election Commission (FEC) may require us to collect certain personal information from donors.
+Donors: The Federal Election Commission (FEC) may require us to collect certain personal information from donors.
 For example, the FEC requires us to collect (and disclose to them) the name, mailing address, occupation, and employer of all individuals whose donations to the Campaign exceed $200 per election cycle.
-Links to Other Websites
-The Site may contain links to other websites.
+Links to Other Websites The Site may contain links to other websites.
 For example, we may link to third-party sites to facilitate donations or purchases.
 Any personal information you provide on such linked pages is provided directly to that third party and is subject to that third party’s privacy policy and not this website’s policy.
 Please read their privacy and security practices and policies before providing them with personal information.
-Other Disclosure of Your Information
-Though we make every effort to preserve user privacy, we may need to disclose personal information when we have a good-faith belief release is appropriate to comply with the law (for example, a lawful subpoena), to protect our rights or property, or to protect our donors, artists and supporters from fraudulent, abusive, or unlawful conduct, or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
-Text messaging originator opt-in data and consent will not be shared with any third party, except: (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); or (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
-ow to Unsubscribe or Opt Out
-You may opt out of receiving promotional emails or text messages from the Campaign by following the instructions in those emails or text messages.
+Other Disclosure of Your Information Though we make every effort to preserve user privacy, we may need to disclose personal information when we have a good-faith belief release is appropriate to comply with the law (for example, a lawful subpoena), to protect our rights or property, or to protect our donors, artists and supporters from fraudulent, abusive, or unlawful conduct, or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
+Text messaging originator opt-in data and consent will not be shared with any third party, except: (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); or (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process. ow to Unsubscribe or Opt Out You may opt out of receiving promotional emails or text messages from the Campaign by following the instructions in those emails or text messages.
 If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
-How To Contact Us
-Questions regarding this Site Policy should be emailed to info@hammerfornd.com
+How To Contact Us Questions regarding this Site Policy should be emailed to info@hammerfornd.com Mailing Address: Hammer for ND PO Box 58 Minot, ND 58702 General Inquiries: info@hammerfornd.com Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
+Paid for by Hammer for ND Follow Trygve on Social Media

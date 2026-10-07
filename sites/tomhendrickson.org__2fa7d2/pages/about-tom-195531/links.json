@@ -1,15 +1,62 @@
 [
-"https://facebook.com/profile.php?id=61588523652368",
-"https://instagram.com/tom_hendrickson",
-"https://linkedin.com/in/tom-hendrickson-a15494232",
-"https://secure.actblue.com/donate/committee-to-elect-tom-hendrickson-1",
-"https://tiktok.com/@agawamtom",
-"https://tomhendrickson.org/",
-"https://tomhendrickson.org/about-tom",
-"https://tomhendrickson.org/endorsements",
-"https://tomhendrickson.org/get-involved",
-"https://tomhendrickson.org/news",
-"https://tomhendrickson.org/priorities",
-"https://twitter.com/AgawamTom",
-"https://youtube.com/@tomhendrickson4079"
+{
+"text": "About Tom",
+"href": "https://www.tomhendrickson.org/about-tom"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/committee-to-elect-tom-hendrickson-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tomhendrickson.org/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.tomhendrickson.org/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.tomhendrickson.org"
+},
+{
+"text": "News",
+"href": "https://www.tomhendrickson.org/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.tomhendrickson.org/priorities"
+},
+{
+"text": "THendrickson1313@gmail.com",
+"href": "mailto:THendrickson1313@gmail.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61588523652368"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/tom_hendrickson/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/tom-hendrickson-a15494232/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@agawamtom"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/AgawamTom"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@tomhendrickson4079"
+},
+{
+"text": "[image: logo.png]",
+"href": "https://www.tomhendrickson.org"
+}
 ]

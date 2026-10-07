@@ -1,7 +1,30 @@
 [
-"https://electtarrasimmons.com/events?dy=1&month=10&time=month&yr=2026",
-"https://electtarrasimmons.com/mc-locations/lynwood-theatre",
-"https://maps.google.com/maps?z=16&daddr=4569+Lynwood+Center+Rd+NE++Bainbridge+Island+WA++",
-"https://secure.actblue.com/donate/simmons10-10-26lynwoodtheatre",
-"https://secure.ngpvan.com/-IhXk7QIbEe9IBKQXgUDFw2"
+{
+"text": "Buy Tickets",
+"href": "https://secure.actblue.com/donate/simmons10-10-26lynwoodtheatre"
+},
+{
+"text": "Invite Tarra to your next event!",
+"href": "https://secure.ngpvan.com/-IhXk7QIbEe9IBKQXgUDFw2"
+},
+{
+"text": "Map Lynwood Theatre",
+"href": "https://maps.google.com/maps?z=16&daddr=4569+Lynwood+Center+Rd+NE++Bainbridge+Island+WA++"
+},
+{
+"text": "Print",
+"href": "javascript:window.print()"
+},
+{
+"text": "Return to calendar",
+"href": "https://www.electtarrasimmons.com/events/?dy=1&month=10&time=month&yr=2026"
+},
+{
+"text": "View Location",
+"href": "https://www.electtarrasimmons.com/mc-locations/lynwood-theatre/"
+},
+{
+"text": "jonathan@bobmanconsulting.com",
+"href": "mailto:jonathan@bobmanconsulting.com"
+}
 ]

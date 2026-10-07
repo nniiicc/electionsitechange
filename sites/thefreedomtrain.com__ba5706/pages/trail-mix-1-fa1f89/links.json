@@ -1,19 +1,110 @@
 [
-"https://addtoany.com/add_to/digg?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1",
-"https://addtoany.com/add_to/email?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1",
-"https://addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1",
-"https://addtoany.com/add_to/fark?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1",
-"https://addtoany.com/add_to/houzz?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1",
-"https://addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1",
-"https://addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1",
-"https://addtoany.com/add_to/snapchat?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1",
-"https://addtoany.com/add_to/telegram?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1",
-"https://addtoany.com/add_to/threads?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1",
-"https://addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1",
-"https://addtoany.com/add_to/viber?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1",
-"https://addtoany.com/add_to/x?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1",
-"https://addtoany.com/share",
-"https://donorbox.org/gaylon-kent-for-congress",
-"https://thefreedomtrain.com/",
-"https://wordpress.org/"
+{
+"text": "Gaylon Kent For Congress",
+"href": "https://thefreedomtrain.com/"
+},
+{
+"text": "Home",
+"href": "https://thefreedomtrain.com/"
+},
+{
+"text": "Proudly powered by WordPress.",
+"href": "https://wordpress.org/"
+},
+{
+"text": "[image: Hide Buttons]",
+"href": "javascript:"
+},
+{
+"text": "[image: Show Buttons]",
+"href": "javascript:"
+},
+{
+"text": "[image]",
+"href": "https://donorbox.org/gaylon-kent-for-congress"
+},
+{
+"text": "[image]",
+"href": "https://thefreedomtrain.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.addtoany.com/share"
+},
+{
+"text": "[tooltip: Digg]",
+"href": "https://www.addtoany.com/add_to/digg?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1"
+},
+{
+"text": "[tooltip: Email]",
+"href": "https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1"
+},
+{
+"text": "[tooltip: Fark]",
+"href": "https://www.addtoany.com/add_to/fark?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1"
+},
+{
+"text": "[tooltip: Houzz]",
+"href": "https://www.addtoany.com/add_to/houzz?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1"
+},
+{
+"text": "[tooltip: LinkedIn]",
+"href": "https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1"
+},
+{
+"text": "[tooltip: Mastodon]",
+"href": "https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1"
+},
+{
+"text": "[tooltip: Share On Facebook]",
+"href": "javascript:"
+},
+{
+"text": "[tooltip: Share On Linkedin]",
+"href": "javascript:"
+},
+{
+"text": "[tooltip: Share On Pinterest]",
+"href": "javascript:void(0);"
+},
+{
+"text": "[tooltip: Share On Reddit]",
+"href": "javascript:void(0);"
+},
+{
+"text": "[tooltip: Share On Stumbleupon]",
+"href": "javascript:void(0);"
+},
+{
+"text": "[tooltip: Share On Twitter]",
+"href": "javascript:"
+},
+{
+"text": "[tooltip: Snapchat]",
+"href": "https://www.addtoany.com/add_to/snapchat?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1"
+},
+{
+"text": "[tooltip: Telegram]",
+"href": "https://www.addtoany.com/add_to/telegram?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1"
+},
+{
+"text": "[tooltip: Threads]",
+"href": "https://www.addtoany.com/add_to/threads?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1"
+},
+{
+"text": "[tooltip: Viber]",
+"href": "https://www.addtoany.com/add_to/viber?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://www.addtoany.com/add_to/x?linkurl=https%3A%2F%2Fthefreedomtrain.com%2Ftrail-mix-1%2F&linkname=Trail+Mix+1"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Thank you for cosidering a donation to Team Huldah. Learn how to do so here! We appreciate you.",
  "final_url": "https://www.huldahforhouse.com/donate",
- "paid_for_by": null,
+ "fingerprint": "03b2adcf6d97abcecd2cae783d89a7d74f89cd98",
+ "format": 3,
+ "paid_for_by": "",
  "title": "DONATE | Huldah for House",
  "years_mentioned": []
 }

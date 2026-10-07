@@ -1,7 +1,9 @@
 {
  "description": "A high-end, editorial-style digital presence for Hanna Gallo's state senate campaign, emphasizing structural precision and visionary leadership.",
  "final_url": "https://senatorgallo.com/",
- "paid_for_by": null,
+ "fingerprint": "639cd0ca1632aaf29c43e0d6113f54626067ddbc",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Hanna Gallo State Senate",
  "years_mentioned": []
 }

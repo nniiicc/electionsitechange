@@ -1,15 +1,78 @@
 [
-"https://secure.actblue.com/donate/citizens-for-baker-2026",
-"https://staciebakerforohio.org/announcements.html",
-"https://staciebakerforohio.org/ne",
-"https://staciebakerforohio.org/ne/contact.html",
-"https://staciebakerforohio.org/ne/datadeletion.html",
-"https://staciebakerforohio.org/ne/endorsements.html",
-"https://staciebakerforohio.org/ne/events.html",
-"https://staciebakerforohio.org/ne/get-involved.html",
-"https://staciebakerforohio.org/ne/privacy.html",
-"https://staciebakerforohio.org/ne/terms.html",
-"https://staciebakerforohio.org/ne/volunteer.html",
-"https://staciebakerforohio.org/ne/yard-sign.html",
-"https://staciebakerforohio.org/so/volunteer.html"
+{
+"text": "Announcements",
+"href": "https://www.staciebakerforohio.org/announcements.html"
+},
+{
+"text": "Baker को लागि Ohio",
+"href": "https://www.staciebakerforohio.org/ne/"
+},
+{
+"text": "EN",
+"href": "https://www.staciebakerforohio.org/ne/volunteer.html"
+},
+{
+"text": "ES",
+"href": "https://www.staciebakerforohio.org/ne/volunteer.html"
+},
+{
+"text": "Eliminación de Datos",
+"href": "https://www.staciebakerforohio.org/ne/datadeletion.html"
+},
+{
+"text": "NE",
+"href": "https://www.staciebakerforohio.org/ne/volunteer.html"
+},
+{
+"text": "Política de Privacidad",
+"href": "https://www.staciebakerforohio.org/ne/privacy.html"
+},
+{
+"text": "SO",
+"href": "https://www.staciebakerforohio.org/so/volunteer.html"
+},
+{
+"text": "Stacie बारे",
+"href": "https://www.staciebakerforohio.org/ne/#about"
+},
+{
+"text": "Términos de Servicio",
+"href": "https://www.staciebakerforohio.org/ne/terms.html"
+},
+{
+"text": "इभेन्टहरू",
+"href": "https://www.staciebakerforohio.org/ne/events.html"
+},
+{
+"text": "कार्यक्रम",
+"href": "https://www.staciebakerforohio.org/ne/#issues"
+},
+{
+"text": "गृहपृष्ठ",
+"href": "https://www.staciebakerforohio.org/ne/"
+},
+{
+"text": "दान गर्नुस्",
+"href": "https://secure.actblue.com/donate/citizens-for-baker-2026"
+},
+{
+"text": "यार्ड साइन",
+"href": "https://www.staciebakerforohio.org/ne/yard-sign.html"
+},
+{
+"text": "समर्थन",
+"href": "https://www.staciebakerforohio.org/ne/endorsements.html"
+},
+{
+"text": "सम्पर्क",
+"href": "https://www.staciebakerforohio.org/ne/contact.html"
+},
+{
+"text": "सहभागी हुनुस्",
+"href": "https://www.staciebakerforohio.org/ne/get-involved.html"
+},
+{
+"text": "स्वयंसेवक",
+"href": "https://www.staciebakerforohio.org/ne/volunteer.html"
+}
 ]

@@ -1,15 +1,62 @@
 [
-"http://votejeremymoss.com/",
-"https://facebook.com/jeremymosspage",
-"https://instagram.com/votejeremymoss",
-"https://secure.actblue.com/donate/moss_website",
-"https://secure.ngpvan.com/jBNCXFKZv0G4sIaH_KCjyg2",
-"https://votejeremymoss.com/",
-"https://votejeremymoss.com/about-jeremy",
-"https://votejeremymoss.com/article/rep-kristen-mcdonald-rivet-endorses-jeremy-moss-for-congress",
-"https://votejeremymoss.com/endorsements",
-"https://votejeremymoss.com/news",
-"https://votejeremymoss.com/priorities",
-"https://votejeremymoss.com/privacy-policy",
-"https://x.com/JeremyAllenMoss"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/moss_website"
+},
+{
+"text": "Donate",
+"href": "https://votejeremymoss.com/article/rep-kristen-mcdonald-rivet-endorses-jeremy-moss-for-congress/"
+},
+{
+"text": "Endorsements",
+"href": "https://votejeremymoss.com/endorsements/"
+},
+{
+"text": "Meet Jeremy",
+"href": "https://votejeremymoss.com/about-jeremy/"
+},
+{
+"text": "News",
+"href": "https://votejeremymoss.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://votejeremymoss.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votejeremymoss.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/jBNCXFKZv0G4sIaH_KCjyg2"
+},
+{
+"text": "[image: Footer Logo]",
+"href": "https://votejeremymoss.com/"
+},
+{
+"text": "[image: logo]",
+"href": "https://votejeremymoss.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jeremymosspage"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votejeremymoss/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JeremyAllenMoss"
+},
+{
+"text": "info@votejeremymoss.com",
+"href": "mailto:info@votejeremymoss.com"
+},
+{
+"text": "votejeremymoss.com",
+"href": "http://votejeremymoss.com"
+}
 ]

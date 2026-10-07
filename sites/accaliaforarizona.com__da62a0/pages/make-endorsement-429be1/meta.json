@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://www.accaliaforarizona.com/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "fffa8130e1d1b821e4089bc69a6dc867aed4a26d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": []
 }

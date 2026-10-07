@@ -1,5 +1,4 @@
-Skip navigation menu
-Meredith Tobitsch has become a familiar face in New Canaan—an engaged volunteer, a steady community leader, and an advocate for strong schools, affordability, and a town where everyone feels connected.
+Skip navigation menu Home About Issues Videos Endorsements Contact Events About Meredith Home About Issues Videos Endorsements Contact Events About Meredith Meredith Tobitsch has become a familiar face in New Canaan—an engaged volunteer, a steady community leader, and an advocate for strong schools, affordability, and a town where everyone feels connected.
 She and her husband, Mike, began their life together in New York City, but New Canaan captured Meredith’s heart long before they moved here.
 After first visiting her in-laws in New Canaan in 2014, she knew this town would one day be home.
 Today, Meredith, Mike, and their two young daughters are proud to be building their future in the same community where Mike grew up and graduated from New Canaan High School in 2003.
@@ -15,3 +14,6 @@ She began as a City Hall reporter for The Star-Ledger, covering then-Mayor Cory 
 Later in her career, she served as Organizing Director at Families for Excellent Schools, helping parents advocate for improved school funding and access to high-quality education—one of her deepest passions.
 Her professional work has also included raising more than $1 million for organizations such as Planned Parenthood, the ACLU, and the Sierra Club, and developing expertise in clean energy policy.
 Whether supporting families, strengthening local institutions, or championing equitable education, Meredith is driven by a commitment to making communities stronger, more connected, and full of opportunity for every child.
+Connect with Meredith at Mktobitsch@gmail.com Powered by RUN! website builder Paid for by Meredith Tobitsch for the 125th, approved by Adam Wexler.
+Approved by Meredith Tobitsch.
+You need to enable JavaScript to run this app.

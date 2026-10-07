@@ -1,37 +1,150 @@
 [
-"https://facebook.com/LandsmanGreg",
-"https://instagram.com/greglandsman",
-"https://landsmanforcongress.com/",
-"https://landsmanforcongress.com/about-1",
-"https://landsmanforcongress.com/about-2",
-"https://landsmanforcongress.com/cart",
-"https://landsmanforcongress.com/district",
-"https://landsmanforcongress.com/endorsements",
-"https://landsmanforcongress.com/in-the-news-2",
-"https://landsmanforcongress.com/media-1",
-"https://landsmanforcongress.com/new-media-photos",
-"https://landsmanforcongress.com/privacy",
-"https://landsmanforcongress.com/releases-2",
-"https://landsmanforcongress.com/store-1",
-"https://landsmanforcongress.com/store-1/p/cincy-love-pin",
-"https://landsmanforcongress.com/store-1/p/cincy-proud-mug",
-"https://landsmanforcongress.com/store-1/p/democracy-freedom-tee",
-"https://landsmanforcongress.com/store-1/p/emoji-tee-shirt",
-"https://landsmanforcongress.com/store-1/p/emoji-tee-shirt-nz6yf",
-"https://landsmanforcongress.com/store-1/p/keep-your-paws-off-tee-cat",
-"https://landsmanforcongress.com/store-1/p/keep-your-paws-off-tee-shirt-dog",
-"https://landsmanforcongress.com/store-1/p/landsman-car-magnet",
-"https://landsmanforcongress.com/store-1/p/logo-hoodie",
-"https://landsmanforcongress.com/store-1/p/ph7tlsxu40z00kmb49epx7my1fckei",
-"https://landsmanforcongress.com/store-1/p/slkjfd",
-"https://landsmanforcongress.com/store-1/p/style-01-ej5na-zjcy4",
-"https://landsmanforcongress.com/store-1/p/style-02-hxmaf-ehccw",
-"https://landsmanforcongress.com/store-1/p/style-03-g2rtt-m4byk",
-"https://landsmanforcongress.com/supporters-2",
-"https://landsmanforcongress.com/the-issues-1",
-"https://landsmanforcongress.com/videos-2",
-"https://landsmanforcongress.com/vote-1",
-"https://landsmanforcongress.com/vote-2",
-"https://secure.actblue.com/donate/landsmanwebsite",
-"https://twitter.com/greglandsman"
+{
+"text": "0",
+"href": "https://www.landsmanforcongress.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.landsmanforcongress.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/landsmanwebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://www.landsmanforcongress.com/endorsements"
+},
+{
+"text": "Folder: About",
+"href": "https://www.landsmanforcongress.com/about-1"
+},
+{
+"text": "Folder: Media",
+"href": "https://www.landsmanforcongress.com/media-1"
+},
+{
+"text": "Folder: Vote",
+"href": "https://www.landsmanforcongress.com/vote-1"
+},
+{
+"text": "Greg Landsman",
+"href": "https://www.landsmanforcongress.com/about-2"
+},
+{
+"text": "Home",
+"href": "https://www.landsmanforcongress.com/"
+},
+{
+"text": "In the News",
+"href": "https://www.landsmanforcongress.com/in-the-news-2"
+},
+{
+"text": "Media",
+"href": "https://www.landsmanforcongress.com/new-media-photos"
+},
+{
+"text": "Our Supporters",
+"href": "https://www.landsmanforcongress.com/supporters-2"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.landsmanforcongress.com/privacy"
+},
+{
+"text": "Releases",
+"href": "https://www.landsmanforcongress.com/releases-2"
+},
+{
+"text": "Shop",
+"href": "https://www.landsmanforcongress.com/store-1"
+},
+{
+"text": "The District",
+"href": "https://www.landsmanforcongress.com/district"
+},
+{
+"text": "The Issues",
+"href": "https://www.landsmanforcongress.com/the-issues-1"
+},
+{
+"text": "Videos",
+"href": "https://www.landsmanforcongress.com/videos-2"
+},
+{
+"text": "Voter Info",
+"href": "https://www.landsmanforcongress.com/vote-2"
+},
+{
+"text": "[image: Cincy Love Pin] [image] Cincy Love Pin $10.00",
+"href": "https://www.landsmanforcongress.com/store-1/p/cincy-love-pin"
+},
+{
+"text": "[image: Cincy Proud Mug] [image] Cincy Proud Mug $18.00",
+"href": "https://www.landsmanforcongress.com/store-1/p/cincy-proud-mug"
+},
+{
+"text": "[image: Cincy Proud Tee] [image] Cincy Proud Tee $27.00",
+"href": "https://www.landsmanforcongress.com/store-1/p/style-03-g2rtt-m4byk"
+},
+{
+"text": "[image: Democracy & Freedom Tee] [image] Democracy & Freedom Tee $27.00",
+"href": "https://www.landsmanforcongress.com/store-1/p/democracy-freedom-tee"
+},
+{
+"text": "[image: Greg Landsman Hoodie] [image] [image] Greg Landsman Hoodie $55.00",
+"href": "https://www.landsmanforcongress.com/store-1/p/logo-hoodie"
+},
+{
+"text": "[image: Greg Landsman Tee] [image] [image] Greg Landsman Tee $27.00",
+"href": "https://www.landsmanforcongress.com/store-1/p/style-01-ej5na-zjcy4"
+},
+{
+"text": "[image: Keep Your Paws Off Tee - Cat] [image] Keep Your Paws Off Tee - Cat $27.00",
+"href": "https://www.landsmanforcongress.com/store-1/p/keep-your-paws-off-tee-cat"
+},
+{
+"text": "[image: Keep Your Paws Off Tee - Dog] [image] Keep Your Paws Off Tee - Dog $27.00",
+"href": "https://www.landsmanforcongress.com/store-1/p/keep-your-paws-off-tee-shirt-dog"
+},
+{
+"text": "[image: Landsman Car Magnet] [image] Landsman Car Magnet $10.00",
+"href": "https://www.landsmanforcongress.com/store-1/p/landsman-car-magnet"
+},
+{
+"text": "[image: Landsman Emoji Crewneck] [image: Screen Shot 2026-06-09 at 4.48.14 PM.png] [image: Screen Shot 2026-06-09 at 4.46.32 PM.png] [image: Screen Shot 2026-06-09 at 4.52.15 PM.png] Landsman Emoji Crewneck $55.00",
+"href": "https://www.landsmanforcongress.com/store-1/p/emoji-tee-shirt-nz6yf"
+},
+{
+"text": "[image: Landsman Emoji Tee] [image: landsman royal tee.png] [image: Landsman grey tee.png] [image: Landsman white tee.png] Landsman Emoji Tee $27.00",
+"href": "https://www.landsmanforcongress.com/store-1/p/emoji-tee-shirt"
+},
+{
+"text": "[image: Landsman for Congress]",
+"href": "https://www.landsmanforcongress.com/"
+},
+{
+"text": "[image: Screen Shot 2026-03-26 at 3.44.24 PM.png] [image: Screen Shot 2026-03-26 at 3.44.31 PM.png] [image: Screen Shot 2026-08-21 at 10.43.44 AM.png] [image: Screen Shot 2026-08-21 at 10.46.36 AM.png] Landsman Emoji Hoodie $55.00",
+"href": "https://www.landsmanforcongress.com/store-1/p/ph7tlsxu40z00kmb49epx7my1fckei"
+},
+{
+"text": "[image: Union Strong Tee] [image] Union Strong Tee $27.00",
+"href": "https://www.landsmanforcongress.com/store-1/p/slkjfd"
+},
+{
+"text": "[image] [image] Greg Landsman Crewneck $55.00",
+"href": "https://www.landsmanforcongress.com/store-1/p/style-02-hxmaf-ehccw"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/greglandsman"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LandsmanGreg/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/greglandsman/"
+}
 ]

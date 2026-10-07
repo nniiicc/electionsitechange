@@ -1,13 +1,58 @@
 [
-"https://facebook.com/RussellFrySC",
-"https://instagram.com/russellfrysc",
-"https://russellfrysc.com/",
-"https://russellfrysc.com/about",
-"https://russellfrysc.com/contact",
-"https://russellfrysc.com/issues",
-"https://russellfrysc.com/privacy-policy",
-"https://russellfrysc.com/volunteer",
-"https://secure.winred.com/fry-for-congress/donate",
-"https://twitter.com/RussellFrySC",
-"https://youtube.com/channel/UCrIR-POjflrv-xx0ccRQIBg"
+{
+"text": "About",
+"href": "https://russellfrysc.com/about/"
+},
+{
+"text": "Click Here to Donate!",
+"href": "https://secure.winred.com/fry-for-congress/donate"
+},
+{
+"text": "Contact",
+"href": "https://russellfrysc.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/fry-for-congress/donate"
+},
+{
+"text": "Issues",
+"href": "https://russellfrysc.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://russellfrysc.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://russellfrysc.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://russellfrysc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RussellFrySC"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RussellFrySC"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/russellfrysc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCrIR-POjflrv-xx0ccRQIBg"
+},
+{
+"text": "info@campaignfinancial.com",
+"href": "mailto:info@campaignfinancial.com"
+},
+{
+"text": "privacy policy",
+"href": "https://russellfrysc.com/privacy-policy"
+}
 ]

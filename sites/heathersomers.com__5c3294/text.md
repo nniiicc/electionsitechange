@@ -1,6 +1,8 @@
-Delivering Results.
+Home About Heather Issues & Record News Donate SMS Opt-In Delivering Results.
 Challenging the Status Quo.
 “I am determined to deliver results for Eastern Connecticut.
-We need to challenge the status quo in Hartford and fight for greater opportunities and a better future for all Connecticut.”
-Keep up with Heather Somer's campaign.
+We need to challenge the status quo in Hartford and fight for greater opportunities and a better future for all Connecticut.” Tweets by heatherssomers Keep up with Heather Somer's campaign.
 Sign up to receive updates from the campaign trail.
+Delivering Results.
+Challenging the Status Quo.
+Paid for by Somers for Senate, Constantine Antipas Treasurer, Approved by Heather Somers

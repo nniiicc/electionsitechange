@@ -1,7 +1,6 @@
-David Clayton believes in
-The Social Security, Medicaid, & Medicare Protections Act
-I have proposed legislation that safeguards Social Security, Medicare, and Medicaid by ensuring that no cuts can be made to these programs when there are outstanding failed audits in other government sectors.
+Skip navigation menu Home About Issues Events Volunteer Contact Donate Home About Issues Events Volunteer Contact Donate Homeless Veterans The Social Security, Medicaid, & Medicare Protections Act The Patient Priority Act No Stock Trades For Elected Officials National Conflict of Interest Bill Incumbent Representative Campaign Reform Congressional Wage / Minimum Wage Reciprocity Act The Policing Wellness Act The Due Process Act Zero Kings Act David Clayton believes in The Social Security, Medicaid, & Medicare Protections Act I have proposed legislation that safeguards Social Security, Medicare, and Medicaid by ensuring that no cuts can be made to these programs when there are outstanding failed audits in other government sectors.
 For example: the Pentagon has frequent budget increases yet has never passed an audit.
 The Social Security Administration regularly passes audits.
 Why is their budget cut while the military receives a blank check?
 My bill ensures the American public knows where their money goes and that the government is paying as much attention to its budget as everyday Americans do to theirs.
+Stronger Together & Together Stronger Powered by RUN! website builder Paid for by Clayton4Congress You need to enable JavaScript to run this app.

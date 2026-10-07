@@ -1,7 +1,14 @@
 {
  "description": "Recent interviews, news articles, and videos featuring Alabama State Representative Susan DuBose covering her legislative work, values, and key issues for District 45.",
  "final_url": "https://susandubose.com/news",
+ "fingerprint": "8d43d13e05cc9e373b0c773f8b02513cc8e986b8",
+ "format": 3,
  "paid_for_by": "Paid for by the Committee to Elect Susan DuBose 5378 Greystone Way Hoover, AL 35242",
- "title": "News | Susan DuBose | Alabama State Representative District 45 \u2014 Susan Dubose",
- "years_mentioned": []
+ "title": "News | Susan DuBose | Alabama State Representative District 45 — Susan Dubose",
+ "years_mentioned": [
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

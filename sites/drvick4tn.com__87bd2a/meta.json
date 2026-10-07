@@ -1,7 +1,11 @@
 {
  "description": "Dr. Robert C. Vick is running for Governor in Tennessee. Learn more and join the campaign.",
  "final_url": "https://drvick4tn.com/Home?siteID=16706&pageID=199387&originalPath=%2F",
- "paid_for_by": null,
+ "fingerprint": "ca1572785fee2c66f62c29e9f3cfbba0e53ac845",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Dr. Robert C. Vick for Governor | Tennessee",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

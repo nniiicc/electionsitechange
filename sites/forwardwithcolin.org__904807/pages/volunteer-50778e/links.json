@@ -1,15 +1,58 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScZZZLlhWrC562R5HzzvqkRjXAxOKRT3DnbIU5zeD06zBBV5Q/viewform",
-"https://facebook.com/wix",
-"https://forwardwithcolin.org/",
-"https://forwardwithcolin.org/about",
-"https://forwardwithcolin.org/blog",
-"https://forwardwithcolin.org/donate",
-"https://forwardwithcolin.org/events",
-"https://forwardwithcolin.org/privacy-policy",
-"https://forwardwithcolin.org/saving-the-lake",
-"https://forwardwithcolin.org/volunteer",
-"https://instagram.com/wix",
-"https://wix.com/",
-"https://x.com/wix"
+{
+"text": "About",
+"href": "https://www.forwardwithcolin.org/about"
+},
+{
+"text": "Blog",
+"href": "https://www.forwardwithcolin.org/blog"
+},
+{
+"text": "Colin Smith",
+"href": "https://www.forwardwithcolin.org"
+},
+{
+"text": "Donate",
+"href": "https://www.forwardwithcolin.org/donate"
+},
+{
+"text": "Events",
+"href": "https://www.forwardwithcolin.org/events"
+},
+{
+"text": "Get Involved!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScZZZLlhWrC562R5HzzvqkRjXAxOKRT3DnbIU5zeD06zBBV5Q/viewform"
+},
+{
+"text": "Home",
+"href": "https://www.forwardwithcolin.org"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.forwardwithcolin.org/privacy-policy"
+},
+{
+"text": "Saving The Lake",
+"href": "https://www.forwardwithcolin.org/saving-the-lake"
+},
+{
+"text": "Volunteer",
+"href": "https://www.forwardwithcolin.org/volunteer"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/wix"
+}
 ]

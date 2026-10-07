@@ -1,4 +1,4 @@
-Here in Texas, in-personearly voting begins October 22nd, and runs through November 2nd.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements October 17, 2018 Jeff Frazier Sit-Rep #18 - Support Congressman John Carter October 17, 2018 Jeff Frazier Here in Texas, in-personearly voting begins October 22nd, and runs through November 2nd.
 Texans have the opportunity to cast a vote and make their voices heard as to whom they want representing them in Washington, D.C. and in Austin.
 That opportunity comes during the most contentious political climate I have ever experienced in the United States, rivaling some of the centuries-old tribal and ethnic conflicts I experienced during my years serving in Iraq and Afghanistan.
 I hear a refrain from Texans that they are exhausted by the constant drumbeat of partisan acrimony.
@@ -26,3 +26,15 @@ The choice is clear.
 A vote to add more turmoil and acrimony to Washington without getting much done, or a vote to forge working relationships with others to accomplish the work needed back home.
 Congressman Carter has an established record in the latter, and this district deserves that experience.
 I’m supporting Congressman John Carter for reelection, and I’m asking you to do the same.
+October 17, 2018 Jeff Frazier Jeff Frazier Op-Ed #19 - How HB 3's Education Reforms Affect You Sit-Rep #17 - Importance of Local Elections Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

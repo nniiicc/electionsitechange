@@ -1,6 +1,8 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.deegishforvt.com/vote",
+ "fingerprint": "6a16671900417a36b0dc9363a368680efe5db2db",
+ "format": 3,
  "paid_for_by": "Paid for by the Campaign Fund of Dee Gish for Vermont PO Box 265 Sharon, VT 05065 Powered by CampaignPartner",
  "title": "Voter Registration Information",
  "years_mentioned": [

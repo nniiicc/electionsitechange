@@ -1,11 +1,46 @@
 [
-"https://facebook.com/GrosslforKY",
-"https://ryvall.com/",
-"https://secure.winred.com/vanessa-grossl-for-kentucky/donate-today",
-"https://vanessagrossl.com/",
-"https://vanessagrossl.com/about",
-"https://vanessagrossl.com/contact",
-"https://vanessagrossl.com/privacy-policy",
-"https://vanessagrossl.com/terms-of-service",
-"https://vanessagrossl.com/volunteer"
+{
+"text": "About",
+"href": "https://www.vanessagrossl.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.vanessagrossl.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/vanessa-grossl-for-kentucky/donate-today%20"
+},
+{
+"text": "Home",
+"href": "https://www.vanessagrossl.com/"
+},
+{
+"text": "Powered by Ryvall",
+"href": "https://ryvall.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.vanessagrossl.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.vanessagrossl.com/terms-of-service"
+},
+{
+"text": "Volunteer",
+"href": "https://www.vanessagrossl.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/GrosslforKY%20"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/vanessa-grossl-for-kentucky/donate-today%20"
+},
+{
+"text": "[no text]",
+"href": "https://www.vanessagrossl.com/volunteer"
+}
 ]

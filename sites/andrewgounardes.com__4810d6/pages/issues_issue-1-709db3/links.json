@@ -1,21 +1,78 @@
 [
-"https://andrewgounardes.com/",
-"https://andrewgounardes.com/about",
-"https://andrewgounardes.com/contact",
-"https://andrewgounardes.com/endorsements",
-"https://andrewgounardes.com/issues",
-"https://andrewgounardes.com/news",
-"https://andrewgounardes.com/volunteer",
-"https://andrewgounardes.com/voting-info",
-"https://designedtorun.com/",
-"https://facebook.com/AndrewForNewYork",
-"https://hsph.harvard.edu/news/press-releases/social-media-platforms-generate-billions-in-annual-ad-revenue-from-u-s-youth",
-"https://instagram.com/agounardes",
-"https://livemorescreenless.org/blog/resource/specification-curve-analysis-shows-that-social-media-use-is-linked-to-poor-mental-health-especially-among-girls",
-"https://nypost.com/2024/05/20/business/meta-google-leading-nearly-1m-lobbying-fight-to-kill-ny-online-child-safety-bills",
-"https://secure.actblue.com/donate/andrew-gounardes-for-state-senate-1",
-"https://senatorgounardes.nyc/social-media-warning-labels",
-"https://senatorgounardes.nyc/sopa-2026-budget",
-"https://x.com/agounardes",
-"https://yalemedicine.org/news/social-media-teen-mental-health-a-parents-guide"
+{
+"text": "About",
+"href": "https://www.andrewgounardes.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.andrewgounardes.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andrew-gounardes-for-state-senate-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.andrewgounardes.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.andrewgounardes.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.andrewgounardes.com/news"
+},
+{
+"text": "One study",
+"href": "https://livemorescreenless.org/blog/resource/specification-curve-analysis-shows-that-social-media-use-is-linked-to-poor-mental-health-especially-among-girls/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Stop Online Predators Act/Safe By Design Act",
+"href": "https://www.senatorgounardes.nyc/sopa-2026-budget"
+},
+{
+"text": "Volunteer",
+"href": "https://www.andrewgounardes.com/volunteer"
+},
+{
+"text": "Voting Info",
+"href": "https://www.andrewgounardes.com/voting-info"
+},
+{
+"text": "[image: Andrew Gounardes for State Senate ]",
+"href": "https://www.andrewgounardes.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/AndrewForNewYork"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/agounardes"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/agounardes"
+},
+{
+"text": "a million-dollar lobbying effort by Big Tech",
+"href": "https://nypost.com/2024/05/20/business/meta-google-leading-nearly-1m-lobbying-fight-to-kill-ny-online-child-safety-bills/"
+},
+{
+"text": "face twice the risk",
+"href": "https://www.yalemedicine.org/news/social-media-teen-mental-health-a-parents-guide#:~:text=According%20to%20a%20research%20study,including%20depression%20and%20anxiety%20symptoms."
+},
+{
+"text": "nearly $11 billion",
+"href": "https://www.hsph.harvard.edu/news/press-releases/social-media-platforms-generate-billions-in-annual-ad-revenue-from-u-s-youth/"
+},
+{
+"text": "warning labels",
+"href": "https://www.senatorgounardes.nyc/social-media-warning-labels"
+}
 ]

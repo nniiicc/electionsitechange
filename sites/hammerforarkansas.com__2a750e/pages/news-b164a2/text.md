@@ -1,5 +1,4 @@
-Arkansas Leads the Way in Election Integrity: A Commitment to Fairness and Transparency
-June 11, 2025
-I believe what most every American believes; election integrity is paramount in choosing who governs us.
-State Senator and Secretary of State Candidate Kim Hammer released a statement regarding conservative think tank The Heritage Foundation’s election scorecard which crowned Arkansas best in the country for election safety and security.
-State Senator Kim Hammer, Republican from Benton, has announced his campaign for Secretary of State in the 2026 election.
+Home Meet Kim Election Security News Volunteer Donate Donate News Arkansas Leads the Way in Election Integrity: A Commitment to Fairness and Transparency June 11, 2025 I believe what most every American believes; election integrity is paramount in choosing who governs us.
+Secretary of State Candidate Senator Kim Hammer Releases Statement on Arkansas’ Rank as #1 in the Nation for Election Integrity June 3, 2025 State Senator and Secretary of State Candidate Kim Hammer released a statement regarding conservative think tank The Heritage Foundation’s election scorecard which crowned Arkansas best in the country for election safety and security.
+State Senator Kim Hammer Announces Campaign for Arkansas Secretary of State January 6, 2025 State Senator Kim Hammer, Republican from Benton, has announced his campaign for Secretary of State in the 2026 election.
+Home Meet Kim Election Security News Volunteer Donate Donate Paid for by Hammer for Secretary of State Privacy Policy | Terms & Conditions

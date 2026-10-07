@@ -1,10 +1,10 @@
-| |
-| Rep.
-Steve Berch Newsletter: FOLLOW-UP - A $1 BILLION state deficit? |
-| |
-| |
-| This is a follow-up to the newsletter I sent on November 25.
-The article below by Clark Corbin of the Idaho Capital Sun explains how Idaho’s current budget deficit could balloon to nearly $1 billion.
+Contact Representative Steve Berch: sberch@house.idaho.gov Capitol: 208-332-1039 Cell: 208-890-9339 Contribute Now Get Involved Home How to Contribute How to Volunteer Subscribe to Newsletter Back Subscribe to Newsletter Newsletter Archive (2019-present) Meet Steve Contact Request a Yard Sign!
+Rep.
+Steve Berch Newsletter: FOLLOW-UP - A $1 BILLION state deficit?
+Rep.
+Steve Berch Newsletter: FOLLOW-UP - A $1 BILLION state deficit?
+This is a follow-up to the newsletter I sent on November 25.
+The article below by Clark Corbin of the Idaho Capital Sun explains how Idaho’s current budget deficit could balloon to nearly $1 billion .
 This is unprecedented and potential devastating in its scope if the legislature decides to close the deficit by cutting budgets to the bone – and the services they provide.
 What I don’t expect the legislature to do is to admit they made a mistake and reverse bills earlier this year that reduced state revenue by over $4.5 billion over the next 10 years.
 The “conformity bill” will be most challenging in the coming session.
@@ -12,16 +12,15 @@ This is usually a routine bill that conforms Idaho income tax code with the fede
 However, Idaho stands to lose hundreds of millions of dollars in state revenue each year if it conforms to the changes to the IRS tax code embedded in the Big Beautiful Bill.
 The legislature’s fiscal irresponsibility from earlier this year questions whether the state can now afford to pass a conformity bill (more on that in a future newsletter).
 CLICK HERE to read the article (which also appears below).
-There are several links to additional information in the original article. |
-| |
-| |
-| Idaho may need to find $600 million to $1 billion for next year’s state budget By: Clark Corbin November 25, 2025 The state of Idaho may need to come up with an additional $600 million to $1 billion for the upcoming fiscal year 2027 state budget, Idaho’s top budget official and a legislative lobbyist said.
+There are several links to additional information in the original article.
+Idaho may need to find $600 million to $1 billion for next year’s state budget By: Clark Corbin November 25, 2025 The state of Idaho may need to come up with an additional $600 million to $1 billion for the upcoming fiscal year 2027 state budget, Idaho’s top budget official and a legislative lobbyist said.
 Due to revenue shortfalls, Idaho is already facing a projected state budget deficit of $58.3 million for the current fiscal year 2026 budget, the Idaho Capital Sun previously reported.
 The projected state budget deficit could increase by more than 10 times that amount for the next budget year, fiscal year 2027 — depending on how state revenues come in and whether the Idaho Legislature chooses to conform with all of the tax changes from the federal One Big Beautiful Bill Act that President Donald Trump signed into law this summer.
 In an interview with the Idaho Capital Sun on Monday, Idaho Division of Financial Management Administrator Lori Wolff confirmed that Idaho may need to come up with somewhere in the range of $600 million to $1 billion for the fiscal year 2027 state budget.
 “We try to keep $200 million on the bottom line when we budget, so you can quickly get to a billion dollars in terms of what we need to do to account for revenue projections coming in for FY 27,” Wolff said Monday.
 Challenges the Idaho state budget may face That total includes a couple of assumptions and layers to get to the $600 million to $1 billion range.
-Here’s the breakdown Wolff provided using the latest state numbers and projections: $555.2 million: the projected fiscal year 2027 budget deficit that the nonpartisan Legislative Services Office presented to the Idaho Legislature’s Joint Finance-Appropriations Committee on Nov. 4.
+Here’s the breakdown Wolff provided using the latest state numbers and projections: $555.2 million: the projected fiscal year 2027 budget deficit that the nonpartisan Legislative Services Office presented to the Idaho Legislature’s Joint Finance-Appropriations Committee on Nov.
+4.
 That projected deficit includes the 3% holdbacks Gov.
 Brad Little implemented this summer and then permanently extended.
 All state agencies, aside from the K-12 public school system, are subject to the holdbacks. $200 million to $284.4 million: the estimated cost of complying with all of the tax changes from the One Big Beautiful Bill Act championed by Trump.
@@ -84,8 +83,14 @@ A little over three years ago, Idaho ended fiscal year 2022 with a record budget
 Idaho runs on a fiscal year calendar that begins July 1 and ends June 30.
 That means fiscal year 2027 does not end until June 30, 2027, and there is still time for revenues to rebound or the Idaho Legislature or Gov.
 Brad Little to take steps to avoid a budget deficit.
-Although fiscal year 2027 does not begin until July 1, 2026, the Idaho Legislature will set the fiscal year 2027 budget during the upcoming 2026 legislative session, which begins Jan. 12 — in less than two months.
+Although fiscal year 2027 does not begin until July 1, 2026, the Idaho Legislature will set the fiscal year 2027 budget during the upcoming 2026 legislative session, which begins Jan.
+12 — in less than two months.
 It is also important to note that Idaho is not alone in facing state revenue shortfalls.
 The Colorado Legislature called a special legislative session in August to address a nearly $800 million hole in the state budget, Colorado Newsline reported.
 In a report published Monday, Pew Charitable Trusts reported the states of Arizona and New Mexico are projecting at least $100 million in general fund reductions across multiple fiscal years due to federal tax changes that reduce revenue for states.
-In September, the Maryland Comptroller’s Office estimated the changes from the One Big Beautiful Bill Act would reduce state revenues there by an estimated $189.3 million between fiscal year 2026 and fiscal year 2027. |
+In September, the Maryland Comptroller’s Office estimated the changes from the One Big Beautiful Bill Act would reduce state revenues there by an estimated $189.3 million between fiscal year 2026 and fiscal year 2027.
+Steve Berch Campaign Office P.O.
+Box 4903 Boise, ID 83711 sberch@house.idaho.gov Capitol: 208-332-1039 Cell: 208-890-9339 SOCIAL MEDIA POLICY Legislative Committees Education Business Local Government Meet Steve Steve's Newsletters Legislature Coverage Eye on Boise Idaho Education News IPTV Idaho Reports Idaho in Session Support Steve Contribute Volunteer Contact © 2018 - 2026 by Committee to Elect Steve Berch.
+Joan Wallace, Treasurer.
+All rights reserved.
+Facebook Twitter YouTube Social Media Policy Privacy Policy Terms and Conditions

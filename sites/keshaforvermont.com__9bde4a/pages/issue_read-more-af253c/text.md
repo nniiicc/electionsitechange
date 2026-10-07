@@ -1,7 +1,4 @@
-Issues
-Healthcare as a Human Right
-Medicare for All:
-Regardless of race, zip code, or income, when it comes to our health, we all want to make sure we can prevent, treat, or recover from illness or injury without fear of going bankrupt.
+Skip to content Kesha Ram Meet Kesha Issues News Endorsements Volunteer Donate Volunteer Donate Issues Healthcare as a Human Right Medicare for All: Regardless of race, zip code, or income, when it comes to our health, we all want to make sure we can prevent, treat, or recover from illness or injury without fear of going bankrupt.
 But corporate lobbyists have sold off our health to the highest bidder.
 They let insurance companies, hospital chains, and Big Pharma lobbyists rake in record profits while denying us affordable quality care – care that the rest of the world sees as their right.
 Pharmaceutical companies, as one example, charge Americans the highest prices for prescription drugs in the world.
@@ -15,8 +12,7 @@ Medicare for All must cover primary care, hospital and outpatient visits, reprod
 A true Medicare for All system must also work to put an end to surprise billing, provide relief for those with existing medical debt, and guarantee healthcare for every person in this country.
 I will prioritize investments in rural healthcare infrastructure, ensuring that our dental clinics, community health centers, emergency departments and hospitals get the support they need.
 We must also support providers who work in rural and underserved areas by eliminating the crushing weight of student debt, investing in the National Health Service Corps that places doctors in rural communities, and providing financial incentives for these providers.
-Addressing the Opioid Epidemic:
-Many of us know all too well the pain of seeing a loved one struggle with addiction.
+Addressing the Opioid Epidemic: Many of us know all too well the pain of seeing a loved one struggle with addiction.
 And in every corner of the state, Vermonters are struggling with opioid addiction.
 This is a crisis that demands our full attention and resources.
 In recent years, we have seen significant increases in substance use and highly lethal synthetic opioids like fentanyl entering the drug supply.
@@ -28,11 +24,10 @@ We must prioritize combating, ending, and learning from this epidemic.
 This includes fostering better communication between counties and with neighboring states, investing in long-term treatment programs and rehabilitation services for those struggling with addiction, and reforming our healthcare delivery system so that patients are not over prescribed pain-killers that can lead to addiction.
 For years, frontline advocates have been sounding the alarm to provide greater help to Vermonters to cope with and overcome substance use disorder.
 It’s time we listen to them, fund programs that work, and develop the many necessary paths needed to enable long-term recovery.
-Securing Abortion Care and Reproductive Justice:
-The decision of when and if to become a parent is one of the most important decisions many of us will make in life.
+Securing Abortion Care and Reproductive Justice: The decision of when and if to become a parent is one of the most important decisions many of us will make in life.
 No matter your zip code, everyone deserves access to reproductive care.
 I am one of the 1 in 4 women who have had an abortion in America.
-I got an abortion 15 years ago when I was studying at American University for a semester in college.
+I got an abortion #ago when I was studying at American University for a semester in college.
 The decision to end my pregnancy was mine to make, and I will never stop fighting to ensure that everyone has the right to make that very personal decision, too.
 That personal decision-making is in great jeopardy.
 We are living in a perilous time for abortion rights in our nation’s recent history.
@@ -45,8 +40,7 @@ I will also address the maternal mortality crisis devastating communities of col
 The maternal mortality rate among Black women is a crisis, with Black women 3.5 times more likely to die in childbirth than white women.
 Providing healthcare to all, as a right, is a critical first step.
 But we must go further and dedicate funding for at-risk communities to increase informed reproductive services and trained providers.
-Protecting and Investing in Healthcare Workers:
-Our Vermont nurses and healthcare workers have spent the last two years on the frontlines of the COVID crisis.
+Protecting and Investing in Healthcare Workers: Our Vermont nurses and healthcare workers have spent the last two years on the frontlines of the COVID crisis.
 We have cheered for them, we celebrated them, and we held them up as the most essential of essential workers.
 But it is clear that after these years of heroic service, we did not reward them.
 Now, Vermont hospitals are experiencing some of the most acute staffing shortages in the nation.
@@ -57,3 +51,5 @@ Additionally, we must create work environments that protect workers and patients
 That means establishing minimum nurse-to-patient ratios to reduce the burden on nurses and provide better patient outcomes.
 This also means that we create holistic support systems for nurses on the frontlines, from mental healthcare resources to safe housing.
 They are serving daily on the frontlines for us; we should do everything we can to have their back.
+Back to all issues Chip in Help send Vermont’s fighter back to the State Senate.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $#.# $# $# $# $# Other Volunteer Donate Privacy Policy Contact Us 31 North Prospect Street Burlington, VT 05401 Paid for by Kesha for Vermont © Kesha for Vermont | Made by Authentic

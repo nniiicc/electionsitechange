@@ -1,12 +1,58 @@
 [
-"https://bizbudding.com/templates/mai-prosper",
-"https://grayforassembly.com/",
-"https://grayforassembly.com/author/admin",
-"https://grayforassembly.com/contact",
-"https://grayforassembly.com/donate",
-"https://grayforassembly.com/endorsements",
-"https://grayforassembly.com/pgc_simply_gallery/on-the-campaign-trail-4-28-22",
-"https://grayforassembly.com/photo-gallery",
-"https://grayforassembly.com/wp-content/uploads/2022/05/IMG_0034A.jpg",
-"https://userway.org/"
+{
+"text": "Contact",
+"href": "https://www.grayforassembly.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.grayforassembly.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://www.grayforassembly.com/"
+},
+{
+"text": "Latest News",
+"href": "https://www.grayforassembly.com/endorsements/"
+},
+{
+"text": "Make A Campaign Donation",
+"href": "https://www.grayforassembly.com/donate/"
+},
+{
+"text": "Make A Donation",
+"href": "https://www.grayforassembly.com/donate/"
+},
+{
+"text": "Photos",
+"href": "https://www.grayforassembly.com/photo-gallery/"
+},
+{
+"text": "Previous Post:On The Campaign Trail 4/28/22",
+"href": "https://www.grayforassembly.com/pgc_simply_gallery/on-the-campaign-trail-4-28-22/"
+},
+{
+"text": "Work With Us",
+"href": "https://bizbudding.com/templates/mai-prosper/"
+},
+{
+"text": "[image: Scott Gray for Assembly | New York State Assembly, 116th District][image]",
+"href": "https://www.grayforassembly.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.grayforassembly.com/wp-content/uploads/2022/05/IMG_0034A.jpg"
+},
+{
+"text": "admin",
+"href": "https://www.grayforassembly.com/author/admin/"
+},
+{
+"text": "friendsofgray@gmail.com",
+"href": "mailto:friendsofgray@gmail.com"
+},
+{
+"text": "website accessibility",
+"href": "https://userway.org"
+}
 ]

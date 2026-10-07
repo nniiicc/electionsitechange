@@ -1,20 +1,86 @@
 [
-"http://facebook.com/brianwalkerforward",
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidate+Meet-and-Greet&dates=20260527T233000Z%2F20260528T010000Z&location=13827+Round+Lake+Blvd+NW%2C+Andover%2C+MN+55304%2C+United+States",
-"http://instagram.com/walker.forward",
-"http://maps.google.com/?q=13827+Round+Lake+Blvd+NW+Andover%2C+MN+55304+United+States",
-"https://walkerforward.com/",
-"https://walkerforward.com/cart",
-"https://walkerforward.com/contact",
-"https://walkerforward.com/donate",
-"https://walkerforward.com/events",
-"https://walkerforward.com/events/ice-cream-social",
-"https://walkerforward.com/events/meet-and-greet-may-27?format=ical",
-"https://walkerforward.com/events/memorial-day-ceremony",
-"https://walkerforward.com/faq",
-"https://walkerforward.com/news",
-"https://walkerforward.com/privacy-policy",
-"https://walkerforward.com/store",
-"https://walkerforward.com/volunteer",
-"https://walkerforward.com/yard-sign"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=13827+round+lake+blvd+nw+andover%2C+mn+55304+united+states"
+},
+{
+"text": "0",
+"href": "https://www.walkerforward.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.walkerforward.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.walkerforward.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.walkerforward.com/faq"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidate+Meet-and-Greet&dates=20260527T233000Z%2F20260528T010000Z&location=13827+Round+Lake+Blvd+NW%2C+Andover%2C+MN+55304%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.walkerforward.com/events/meet-and-greet-may-27?format=ical"
+},
+{
+"text": "News",
+"href": "https://www.walkerforward.com/news"
+},
+{
+"text": "Next Next June 1 Ice Cream Social",
+"href": "https://www.walkerforward.com/events/ice-cream-social"
+},
+{
+"text": "Previous Previous May 25 Memorial Day Ceremony",
+"href": "https://www.walkerforward.com/events/memorial-day-ceremony"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.walkerforward.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://www.walkerforward.com/store"
+},
+{
+"text": "Volunteer",
+"href": "https://www.walkerforward.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.walkerforward.com/yard-sign"
+},
+{
+"text": "[image: Walker Forward]",
+"href": "https://www.walkerforward.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/brianwalkerforward"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/walker.forward"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@walkerforward.com"
+},
+{
+"text": "campaign@walkerforward.com",
+"href": "mailto:campaign@walkerforward.com"
+}
 ]

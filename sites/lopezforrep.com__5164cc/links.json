@@ -1,7 +1,62 @@
 [
-"https://lopezforrep.com/about.html",
-"https://lopezforrep.com/donate.html",
-"https://lopezforrep.com/endorsements.html",
-"https://lopezforrep.com/get-involved.html",
-"https://lopezforrep.com/paul-revere-heritage-site.html"
+{
+"text": "Donate",
+"href": "https://www.lopezforrep.com/donate.html"
+},
+{
+"text": "Donate Now",
+"href": "https://www.lopezforrep.com/donate.html"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lopezforrep.com/get-involved.html"
+},
+{
+"text": "Paul Revere Heritage Site",
+"href": "https://www.lopezforrep.com/paul-revere-heritage-site.html"
+},
+{
+"text": "Read full biography →",
+"href": "https://www.lopezforrep.com/about.html"
+},
+{
+"text": "Read the case study →",
+"href": "https://www.lopezforrep.com/paul-revere-heritage-site.html"
+},
+{
+"text": "See all endorsements →",
+"href": "https://www.lopezforrep.com/endorsements.html"
+},
+{
+"text": "Volunteer Now",
+"href": "https://www.lopezforrep.com/get-involved.html"
+},
+{
+"text": "[image: Canton Residents for a Sustainable, Equitable Future]",
+"href": "https://www.lopezforrep.com/endorsements.html#organizations"
+},
+{
+"text": "[image: Clean Water Action]",
+"href": "https://www.lopezforrep.com/endorsements.html"
+},
+{
+"text": "[image: Massachusetts Nurses Association]",
+"href": "https://www.lopezforrep.com/endorsements.html#organizations"
+},
+{
+"text": "[image: Massachusetts Women's Political Caucus PAC]",
+"href": "https://www.lopezforrep.com/endorsements.html#organizations"
+},
+{
+"text": "[image: Progressive Massachusetts]",
+"href": "https://www.lopezforrep.com/endorsements.html#organizations"
+},
+{
+"text": "[image: Sierra Club Massachusetts]",
+"href": "https://www.lopezforrep.com/endorsements.html#organizations"
+},
+{
+"text": "[image: The restored Revere Copper Rolling Mill and Revere Draft Horse Barn on the Revere Green.]",
+"href": "https://www.lopezforrep.com/paul-revere-heritage-site.html"
+}
 ]

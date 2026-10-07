@@ -1,11 +1,46 @@
 [
-"https://electjamesgallagher.com/",
-"https://electjamesgallagher.com/endorsements",
-"https://electjamesgallagher.com/events",
-"https://electjamesgallagher.com/get-involved",
-"https://electjamesgallagher.com/maintenance",
-"https://electjamesgallagher.com/news",
-"https://electjamesgallagher.com/privacy-policy",
-"https://electjamesgallagher.com/terms-and-conditions",
-"https://wpastra.com/"
+{
+"text": "Astra WordPress Theme",
+"href": "https://wpastra.com"
+},
+{
+"text": "Endorsements",
+"href": "https://electjamesgallagher.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://electjamesgallagher.com/events/"
+},
+{
+"text": "Get Involved!",
+"href": "https://electjamesgallagher.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://electjamesgallagher.com/"
+},
+{
+"text": "James Gallagher",
+"href": "https://electjamesgallagher.com/"
+},
+{
+"text": "Maintenance",
+"href": "https://electjamesgallagher.com/maintenance/"
+},
+{
+"text": "News",
+"href": "https://electjamesgallagher.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electjamesgallagher.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://electjamesgallagher.com/terms-and-conditions/"
+},
+{
+"text": "[image: James Gallagher]",
+"href": "https://electjamesgallagher.com/"
+}
 ]

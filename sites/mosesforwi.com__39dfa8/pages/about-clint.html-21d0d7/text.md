@@ -1,5 +1,4 @@
-ABOUT CLINT
-| Clint Moses was born and raised in Menomonie, WI.
+Clint Moses for Assembly Home About Clint Priorities District Contribute Contact Privacy Policy Terms and Conditions ABOUT CLINT Clint Moses was born and raised in Menomonie, WI.
 His childhood was filled with helping out on the family’s small farm, playing sports and participating in activities like Boy Scouts where he earned the rank of Eagle Scout.
 Clint is alumni of Menomonie High School and UW-Stout.
 At the age of 16 he started his first business in lawn care, and was able to pay his own way through undergraduate earning degrees in Psychology and Human Biology.
@@ -14,7 +13,7 @@ Clint’s passion for staying busy and helping his community has led him to run 
 He has an insider’s view of our healthcare system, and understands the system’s flaws, and what can be changed to actually improve the health of our population, as well as make access to medical care more affordable.
 He’s concerned our small towns are disappearing, and wants to ensure they remain vibrant, and can be supported by bringing business and commerce to the more rural areas so they can be sustained.
 He cares deeply about children, and realizes that they are our future.
-He wants to ensure their safety, access to quality education, and a clean world to live in.
-He looks forward to meeting and speaking to many of the residents of the district.
+He wants to ensure their safety, access to quality education, and a clean world to live in. ​He looks forward to meeting and speaking to many of the residents of the district.
 He is always willing to listen to concerns, and figure out solutions that can be truly beneficial.
-He would appreciate your support! | |
+He would appreciate your support!
+Paid for by Clint Moses for Wisconsin Copyright © # Home About Clint Priorities District Contribute Contact Privacy Policy Terms and Conditions

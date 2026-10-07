@@ -1,7 +1,11 @@
 {
  "description": "Chad Koppie Campaign Events",
  "final_url": "https://www.koppieforcongress.com/Events?range=2026-11",
- "paid_for_by": null,
+ "fingerprint": "9f4749c8905db561fc9835d84331660ebcd7d310",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Chad Koppie Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

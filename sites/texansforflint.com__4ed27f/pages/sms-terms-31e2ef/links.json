@@ -1,15 +1,74 @@
 [
-"https://facebook.com/FlintforTexas",
-"https://teamrv-mvp.sos.state.tx.us/MVP/mvp.do",
-"https://texansforflint.com/",
-"https://texansforflint.com/about",
-"https://texansforflint.com/donate",
-"https://texansforflint.com/endorsements",
-"https://texansforflint.com/get-involved",
-"https://texansforflint.com/issues",
-"https://texansforflint.com/join",
-"https://texansforflint.com/privacy-policy",
-"https://texansforflint.com/sms-terms",
-"https://vote.org/register-to-vote/texas",
-"https://x.com/GeorgeBFlint"
+{
+"text": "About",
+"href": "https://www.texansforflint.com/about/"
+},
+{
+"text": "About George",
+"href": "https://www.texansforflint.com/about/"
+},
+{
+"text": "Check Registration & Polling Place",
+"href": "https://teamrv-mvp.sos.state.tx.us/MVP/mvp.do"
+},
+{
+"text": "Donate",
+"href": "https://www.texansforflint.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.texansforflint.com/endorsements/"
+},
+{
+"text": "Get Campaign Updates",
+"href": "https://www.texansforflint.com/join/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.texansforflint.com/get-involved/"
+},
+{
+"text": "Get Updates",
+"href": "https://www.texansforflint.com/join/"
+},
+{
+"text": "Issues",
+"href": "https://www.texansforflint.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.texansforflint.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.texansforflint.com/privacy-policy/"
+},
+{
+"text": "Register to Vote in Texas",
+"href": "https://www.vote.org/register-to-vote/texas/"
+},
+{
+"text": "SMS Terms",
+"href": "https://www.texansforflint.com/sms-terms"
+},
+{
+"text": "SMS Terms",
+"href": "https://www.texansforflint.com/sms-terms/"
+},
+{
+"text": "Texans for Flint★",
+"href": "https://www.texansforflint.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/FlintforTexas/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/GeorgeBFlint"
+},
+{
+"text": "info@texansforflint.com",
+"href": "mailto:info@texansforflint.com"
+}
 ]

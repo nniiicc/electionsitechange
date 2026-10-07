@@ -1,34 +1,146 @@
 [
-"https://aps.com/en/Residential/Account/Assistance-Programs",
-"https://arizona eviction help center/",
-"https://azevictionhelp.org/getting-assistance",
-"https://azfoodbanks.org/summer-meals",
-"https://azfoodhelp.org/find-food-now",
-"https://clsaz.org/apply-for-services",
-"https://des.az.gov/na",
-"https://desportal.az.gov/Arizona/s/energy-assistance-learn-more?language=en_US",
-"https://dvs.az.gov/services/financial-assistance/military-family-relief-fund",
-"https://facebook.com/profile.php?id=100075825197556",
-"https://housing.az.gov/general-public/arizona-home-program",
-"https://hrn.azmag.gov/",
-"https://instagram.com/sarahkliguori",
-"https://maricopa.edu/students/scholarships/maricopa-promise",
-"https://maricopa.gov/6180/Stray-Map-Tool",
-"https://parentsquare.com/feeds/79587183?s=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo0NDE5NTU1NSwiZXhwIjoxNzg3MTg4NDY2LCJ1cmwiOiJodHRwczovL3d3dy5wYXJlbnRzcXVhcmUuY29tL2ZlZWRzLzc5NTg3MTgzIiwibWV0aG9kIjoiR0VUIiwicXVlcnkiOnt9LCJyZXF1ZXN0Ijp7fX0.Vgw-kO9scLUAh8TOHsWiFJoVNH9ykCpJ29pH7i2KWIo",
-"https://phoenix.gov/administration/departments/housing/housing-options/communities.html",
-"https://sarahliguori.com/",
-"https://sarahliguori.com/about-sarah",
-"https://sarahliguori.com/cart",
-"https://sarahliguori.com/endorsements",
-"https://sarahliguori.com/in-the-news",
-"https://sarahliguori.com/media-1",
-"https://sarahliguori.com/on-the-floor",
-"https://sarahliguori.com/photos",
-"https://sarahliguori.com/request-yard-sign",
-"https://sarahliguori.com/resources",
-"https://sarahliguori.com/take-action",
-"https://sarahliguori.com/volunteer",
-"https://secure.actblue.com/donate/sarah-liguori-for-state-rep-ld-5-1",
-"https://tuition.asu.edu/financial-aid/loans/emergency-loans",
-"https://x.com/SarahKLiguori"
+{
+"text": "0",
+"href": "https://sarahliguori.com/cart"
+},
+{
+"text": "APS Assistance Programs",
+"href": "https://www.aps.com/en/Residential/Account/Assistance-Programs"
+},
+{
+"text": "ASU Tuition Assistance",
+"href": "https://tuition.asu.edu/financial-aid/loans/emergency-loans"
+},
+{
+"text": "About Sarah",
+"href": "https://sarahliguori.com/about-sarah"
+},
+{
+"text": "Arizona Military Family Relief Fund",
+"href": "https://dvs.az.gov/services/financial-assistance/military-family-relief-fund"
+},
+{
+"text": "Arizona is Home",
+"href": "https://housing.az.gov/general-public/arizona-home-program"
+},
+{
+"text": "Back",
+"href": "https://sarahliguori.com/"
+},
+{
+"text": "City of Phoenix Housing Communities",
+"href": "https://www.phoenix.gov/administration/departments/housing/housing-options/communities.html"
+},
+{
+"text": "Community Legal Services",
+"href": "https://clsaz.org/apply-for-services/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sarah-liguori-for-state-rep-ld-5-1"
+},
+{
+"text": "Endorsements",
+"href": "https://sarahliguori.com/endorsements"
+},
+{
+"text": "Eviction Resources",
+"href": "https://arizona%20eviction%20help%20center"
+},
+{
+"text": "Eviction Resources",
+"href": "https://azevictionhelp.org/getting-assistance"
+},
+{
+"text": "Find Lost Pets",
+"href": "https://www.maricopa.gov/6180/Stray-Map-Tool"
+},
+{
+"text": "Find a Food Pantry Near You",
+"href": "https://azfoodhelp.org/find-food-now/"
+},
+{
+"text": "Folder: Media",
+"href": "https://sarahliguori.com/media-1"
+},
+{
+"text": "Folder: Take Action!",
+"href": "https://sarahliguori.com/take-action"
+},
+{
+"text": "Follow the link to volunteer for Sarah's campaign today",
+"href": "https://sarahliguori.com/volunteer"
+},
+{
+"text": "In the News",
+"href": "https://sarahliguori.com/in-the-news"
+},
+{
+"text": "LIHEAP / Power AZ (all utilities)",
+"href": "https://desportal.az.gov/Arizona/s/energy-assistance-learn-more?language=en_US"
+},
+{
+"text": "Madison Elementary Feeding Program",
+"href": "https://www.parentsquare.com/feeds/79587183?s=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo0NDE5NTU1NSwiZXhwIjoxNzg3MTg4NDY2LCJ1cmwiOiJodHRwczovL3d3dy5wYXJlbnRzcXVhcmUuY29tL2ZlZWRzLzc5NTg3MTgzIiwibWV0aG9kIjoiR0VUIiwicXVlcnkiOnt9LCJyZXF1ZXN0Ijp7fX0.Vgw-kO9scLUAh8TOHsWiFJoVNH9ykCpJ29pH7i2KWIo"
+},
+{
+"text": "Maricopa Association of Governments Heat Relief Network",
+"href": "https://hrn.azmag.gov/"
+},
+{
+"text": "Maricopa County Community College District (MCCCD) Promise Scholars",
+"href": "https://www.maricopa.edu/students/scholarships/maricopa-promise"
+},
+{
+"text": "Nutrition Assistance / SNAP",
+"href": "https://des.az.gov/na"
+},
+{
+"text": "On the House Floor",
+"href": "https://sarahliguori.com/on-the-floor"
+},
+{
+"text": "Photos",
+"href": "https://sarahliguori.com/photos"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://sarahliguori.com/request-yard-sign"
+},
+{
+"text": "Resources",
+"href": "https://sarahliguori.com/resources"
+},
+{
+"text": "Summer Meals for Kids",
+"href": "https://azfoodbanks.org/summer-meals/"
+},
+{
+"text": "Veterans Crisis Line (988)",
+"href": "https://dvs.az.gov/services/financial-assistance/military-family-relief-fund"
+},
+{
+"text": "Volunteer",
+"href": "https://sarahliguori.com/volunteer"
+},
+{
+"text": "[image: Rep. Sarah Liguori for Arizona (AZ LD5)]",
+"href": "https://sarahliguori.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100075825197556"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sarahkliguori"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SarahKLiguori"
+},
+{
+"text": "sarahforstate@sarahliguori.com",
+"href": "mailto:sarahforstate@sarahliguori.com"
+}
 ]

@@ -1,5 +1,4 @@
-About Me
-Jennifer Bias Bryant is a West Virginian from the southern coalfields.
+Skip to content About Me Recent Updates Donate About Me Jennifer Bias Bryant is a West Virginian from the southern coalfields.
 Born and raised in rural Logan county, she now calls Boone county home with her husband (Dr.
 Deric Bryant) and youngest daughter.
 Their oldest is a member of the WV National Guard and lives in Virginia.
@@ -14,8 +13,11 @@ She knows that WV deserves a brighter path forward and that begins when we elect
 I’m so glad you found your way here!
 I’m running for the WV House of Delegates – District 32.
 I’m not a politician, I am a member of our community who believes that we can and should be doing better.
-I am committed to identifying the issues (& solutions) facing our area.
+I am committed to identifying the issues (& solutions ) facing our area.
 Send me to Charleston where I will work together with elected officials and community members to implement the changes that will improve the lives of our people.
 I know that when we work together, we can make amazing things happen.
 That’s my goal, a brighter path forward.
 I look forward to hearing from you, whether that’s to chime in on a problem, pitch a possible fix, or even to get involved!
+Let’s Connect Facebook Facebook Instagram Instagram Link Phone Link Donate Here Mailing Address PO Box 142 Madison, WV 25310 Email BiasBryantforWV32@yahoo.com © #.
+All rights reserved.
+PAID FOR BY THE COMMITTEE TO ELECT JENNIFER BIAS BRYANT

@@ -1,10 +1,9 @@
-Meet Kim
-Senator Kim Hammer of Benton was elected to the state Senate in 2018, after serving in the House of Representatives for eight years.
+Home Meet Kim Election Security News Volunteer Donate Donate Meet Kim Senator Kim Hammer of Benton was elected to the state Senate in 2018, after serving in the House of Representatives for eight years.
 He represents Senate District 16, which includes parts of Saline County and southwestern Pulaski County.
 Senator Hammer is chair of the Senate Efficiency Committee.
 He is a member of the Senate Revenue and Taxation Committee, the Senate State Agencies and Governmental Affairs Committee, the Joint Retirement and Social Security Committee, the Joint Budget Committee, the Arkansas Legislative Council and Legislative Joint Auditing Committee.
 He is a member of the Legislative Facilities Committee.
-During the 94th General Assembly, Senator Hammer sponsored legislation to enhance medical coverage for pediatric disorders, to streamline reimbursements for mental health treatment and to protect the integrity of elections.
+During the 94 th General Assembly, Senator Hammer sponsored legislation to enhance medical coverage for pediatric disorders, to streamline reimbursements for mental health treatment and to protect the integrity of elections.
 Senator Hammer also sponsored legislation to create a monument to the unborn on the state capitol grounds.
 In 2021, Senator Hammer sponsored legislation that provided the legislature more input in policy-making during public health emergencies.
 He was the lead sponsor for Act 403 of 2021 to empower the legislature to terminate executive orders for a statewide public health emergency.
@@ -18,8 +17,8 @@ In past sessions, Senator Hammer sponsored legislation to make it easier for nur
 Senator Hammer has sponsored bills helping rural fire departments and the state Forestry Commission.
 He also sponsored bills to create a program for educating parents about shaken baby syndrome.
 His legislation amended provisions of Arkansas law on the visitation rights of grandparents.
-In 2019 Senator Hammer was the Assistant Pro Tempore for the Second District
-Senator Hammer was a member of the House of Representatives from 2011 through 2018.
+In 2019 Senator Hammer was the Assistant Pro Tempore for the Second District Senator Hammer was a member of the House of Representatives from 2011 through 2018.
 Senator Hammer chaired the committee to organize Saline Memorial Hospice and served as both a volunteer and full-time chaplain from opening day to 2018.
 He and his wife, Karen, have two sons and a daughter.
 He is pastor of the Saline Missionary Baptist Church in Tull and has been in the ministry since 1978.
+Home Meet Kim Election Security News Volunteer Donate Donate Paid for by Hammer for Secretary of State Privacy Policy | Terms & Conditions

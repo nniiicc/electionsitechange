@@ -1,12 +1,58 @@
 [
-"https://facebook.com/MichaelEchols4Louisiana",
-"https://michaelechols.com/",
-"https://michaelechols.com/endorsement",
-"https://michaelechols.com/get-involved",
-"https://michaelechols.com/issues",
-"https://michaelechols.com/media",
-"https://michaelechols.com/privacy-policy",
-"https://michaelechols.com/terms-of-use",
-"https://secure.winred.com/echols-for-congress/donate-today",
-"https://x.com/MichaelEchols"
+{
+"text": "About",
+"href": "https://www.michaelechols.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://www.michaelechols.com/get-involved/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/echols-for-congress/donate-today"
+},
+{
+"text": "Endorsement",
+"href": "https://www.michaelechols.com/endorsement/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/MichaelEchols4Louisiana"
+},
+{
+"text": "Home",
+"href": "https://www.michaelechols.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.michaelechols.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://www.michaelechols.com/media/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.michaelechols.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.michaelechols.com/terms-of-use/"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.michaelechols.com/terms-of-use/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/MichaelEchols"
+},
+{
+"text": "[image: Michael Echols campaigning for Congress, political candidate image.]",
+"href": "https://www.michaelechols.com"
+},
+{
+"text": "michael@michaelechols.com",
+"href": "mailto:michael@michaelechols.com"
+}
 ]

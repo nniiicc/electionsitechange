@@ -1,9 +1,50 @@
 [
-"http://secure.winred.com/fred-gardner-campaign",
-"https://facebook.com/FredGardnerForKansas",
-"https://gardnerforkansas.com/",
-"https://gardnerforkansas.com/about",
-"https://gardnerforkansas.com/contact",
-"https://gardnerforkansas.com/get-involved",
-"https://wix.com/templateslp/links"
+{
+"text": "About",
+"href": "https://www.gardnerforkansas.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.gardnerforkansas.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.gardnerforkansas.com/contact"
+},
+{
+"text": "DONATE",
+"href": "http://secure.winred.com/fred-gardner-campaign"
+},
+{
+"text": "DONATE",
+"href": "https://www.wix.com/templateslp/links"
+},
+{
+"text": "Dr. Fred Gardner",
+"href": "https://www.gardnerforkansas.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.gardnerforkansas.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.gardnerforkansas.com/get-involved"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.gardnerforkansas.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.gardnerforkansas.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/FredGardnerForKansas/"
+},
+{
+"text": "for State Representative District 9",
+"href": "https://www.gardnerforkansas.com"
+}
 ]

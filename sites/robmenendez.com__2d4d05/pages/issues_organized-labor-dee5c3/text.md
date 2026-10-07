@@ -1,6 +1,4 @@
-Rob's Priorities
-Organized Labor
-Unions have been a pathway to financial stability and a higher quality of life for so many working families, many of them immigrants to the United States.
+Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Priorities Meet Rob Latest News Endorsements Get Involved Donate Toggle Mobile Menu Priorities Meet Rob Latest News Endorsements Get Involved Donate Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Language Rob's Priorities Organized Labor Unions have been a pathway to financial stability and a higher quality of life for so many working families, many of them immigrants to the United States.
 However, since the early 1980s, the unionization rate has fallen by nearly half as unions have come under attack and the right to organize has been curtailed.
 I am proud of the broad support our campaign for re-election has earned from organized labor.
 We must continue to make the American Dream an achievable reality for all our residents.
@@ -10,9 +8,5 @@ I am proud to be an original cosponsor of the Protecting the Right to Organize (
 I also cosponsored the Empowering Striking Workers Act, the Tax Fairness for Workers Act, the Raise the Wage Act, and the No Tax Breaks for Union Busting Act.
 And our efforts in Washington have delivered more than $11 billion in federal funding for critical infrastructure projects, which will create good-paying union opportunities.
 I will always stand with our unions and their dedicated members.
-In Congress, I will continue the fight to:
-- Uphold the right of our brothers and sisters in organized labor to organize for fair wages, safer working conditions, and respect for workers;
-- Increase access to good paying, high quality jobs with strong labor protections;
-- Pass critical legislation like the PRO Act and the Public Service Freedom to Negotiate Act;
-- Hold employers accountable for violating workplace rights, misclassifying workers, interfering in union elections, and union busting activities; and
-- Support apprenticeship programs and other initiatives to train our workforce for well-paying union jobs that can lead to life-long careers and middle class opportunities.
+In Congress, I will continue the fight to : Uphold the right of our brothers and sisters in organized labor to organize for fair wages, safer working conditions, and respect for workers; Increase access to good paying, high quality jobs with strong labor protections; Pass critical legislation like the PRO Act and the Public Service Freedom to Negotiate Act; Hold employers accountable for violating workplace rights, misclassifying workers, interfering in union elections, and union busting activities; and Support apprenticeship programs and other initiatives to train our workforce for well-paying union jobs that can lead to life-long careers and middle class opportunities.
+Up Next Transportation Empower Our Communities Strengthen Our Families Priorities Meet Rob Latest News Endorsements Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter [email protected] 123 Town Square Place #515 Jersey City, NJ 07310 Voting Info Privacy Policy Accessibility Statement What Voters Need to Know Paid for by Menendez for Congress

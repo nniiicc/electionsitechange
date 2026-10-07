@@ -1,9 +1,30 @@
 [
-"https://koltiskaforsheridan.com/",
-"https://koltiskaforsheridan.com/author/melissabee",
-"https://koltiskaforsheridan.com/donate",
-"https://koltiskaforsheridan.com/meet-ryan-koltiska",
-"https://koltiskaforsheridan.com/my-values",
-"https://koltiskaforsheridan.com/priorities",
-"https://koltiskaforsheridan.com/volunteer"
+{
+"text": "Donate",
+"href": "https://koltiskaforsheridan.com/donate/"
+},
+{
+"text": "Meet Ryan",
+"href": "https://koltiskaforsheridan.com/meet-ryan-koltiska/"
+},
+{
+"text": "My Values",
+"href": "https://koltiskaforsheridan.com/my-values/"
+},
+{
+"text": "Priorities",
+"href": "https://koltiskaforsheridan.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://koltiskaforsheridan.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://koltiskaforsheridan.com/"
+},
+{
+"text": "melissabee",
+"href": "https://koltiskaforsheridan.com/author/melissabee/"
+}
 ]

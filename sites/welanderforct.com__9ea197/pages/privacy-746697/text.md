@@ -1,29 +1,19 @@
-PRIVACY POLICY
-By continuing to use this site, you agree to the following terms.
-(last updated 05 January 2025)
-We receive, collect and store any information you enter on our website or provide us in any other way.
+top of page MARY WELANDER MEET MARY ACCOMPLISHMENTS PLATFORM GET INVOLVED DONATE YARD SIGNS VOTE REGISTER TO VOTE More Use tab to navigate through the menu items.
+Camera Camera Camera PRIVACY POLICY By continuing to use this site, you agree to the following terms. (last updated 05 January 2025) We receive, collect and store any information you enter on our website or provide us in any other way.
 We may use software tools to measure and collect session information, including page response times, length of visits to certain pages, page interaction information, and methods used to browse away from the page.
 We also collect personally identifiable information (including name, email, and street address) for the purpose of contacting supporters; unless otherwise stated, by filling out any of our forms on this website, your information will be added to our database on Mailchimp, and you will be added to our mailing list.
 You may unsubscribe at any time by following the link at the bottom of any email we send.
 When you submit a form on our website, as part of the process, we collect personal information you give us such as your name, street address, and email address.
 Your personal information will be used for the specific reasons stated above below.
-We collect such Non-personal and Personal Information for the following purposes:
-- To provide and operate the Services;
-- To be able to contact our Visitors and Users with general or personalized campaign notices;
-- To create aggregated statistical data and other aggregated and/or inferred Non-personal Information;
-- To comply with any applicable laws and regulations.
+We collect such Non-personal and Personal Information for the following purposes: To provide and operate the Services; To be able to contact our Visitors and Users with general or personalized campaign notices; To create aggregated statistical data and other aggregated and/or inferred Non-personal Information; To comply with any applicable laws and regulations.
 Our website is hosted on the Wix.com platform.
 Your data may be stored through Wix.com’s data storage, databases and the general Wix.com applications.
-They store your data on secure servers behind a firewall.
-We integrate some third-party applications into our site.
-They may collect some non-identifiable information about you as well as any personal information that you intentionally provide them (such as if you fill out their form), however each application has its own privacy policies; most of these have a link to their privacy policies on them, but they are also linked here:
-- Vote.org↗ (we use Vote.org's tools for voting information; where possible, government versions are provided)
-- Mailchimp↗ (we use Mailchimp's email signup form in the footer of this website)
-- Facebook↗ (we use Facebook Messenger to let you contact us, and we have a version of Facebook integrated into our "Don't Have Social Media?" page; if you disable marketing cookies, this code will not run in your browser)
-- Access Pro↗ (we use Entangle Commerce's Access Pro Accessibility Widget to allow visitors to control certain visual elements to help them navigate our site; if you disable functional cookies, this code will not run in your browser)
-- BrandCDN Tracking Tag↗ (if you disable marketing cookies, this code will not run in your browser)
-We track some non-identifiable information for statistical purposes using cookies.
+They store your data on secure servers behind a firewall. ​ We integrate some third-party applications into our site.
+They may collect some non-identifiable information about you as well as any personal information that you intentionally provide them (such as if you fill out their form), however each application has its own privacy policies; most of these have a link to their privacy policies on them, but they are also linked here: Vote.or g ↗ (we use Vote.org's tools for voting information; where possible, government versions are provided) Mailchimp ↗ (we use Mailchimp's email signup form in the footer of this website) Facebook ↗ (we use Facebook Messenger to let you contact us, and we have a version of Facebook integrated into our "Don't Have Social Media?" page; if you disable marketing cookies, this code will not run in your browser) Access Pro ↗ (we use Entangle Commerce's Access Pro Accessibility Widget to allow visitors to control certain visual elements to help them navigate our site; if you disable functional cookies, this code will not run in your browser) We track some non-identifiable information for statistical purposes using cookies.
 We reserve the right to modify this privacy policy at any time, so please review it frequently.
 Changes and clarifications will take effect immediately upon their posting on the website.
 If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
-If you would like to access, correct, amend, or delete any personal information we have about you, you are invited to contact us at mary@welanderforct.com.
+If you would like to access, correct, amend, or delete any personal information we have about you, you are invited to contact us at mary@welanderforct.com .
+HOME MEET MARY ACCOMPLISHMENTS PLATFORM GET INVOLVED YARD SIGNS VOTE REGISTER TO VOTE More Use tab to navigate through the menu items.
+PAID FOR BY WELANDER FOR CT, JENNIFER MARTONE, TREASURER.
+APPROVED BY MARY WELANDER. mary@welanderforct.com (203) 881-6207 JOIN THE CONVERSATION: Camera Camera Camera Privacy Policy | Accessibility Statement ©# Welander for CT bottom of page

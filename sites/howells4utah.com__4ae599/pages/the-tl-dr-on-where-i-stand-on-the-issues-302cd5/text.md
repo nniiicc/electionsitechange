@@ -1,5 +1,5 @@
-TL;DR — the big picture on why I'm Running
-I’m running because I believe Utah deserves a future built on stewardship, dignity, and long-term thinking, not culture wars or short-term political wins.
+top of page HOME WHERE I STAND ON THE ISSUES ABOUT DREW SERVICE BEFORE SELF POLICY & PERSPECTIVE BLOG GET INVOLVED More Use tab to navigate through the menu items.
+TL;DR — the big picture on why I'm Running I’m running because I believe Utah deserves a future built on stewardship, dignity, and long-term thinking, not culture wars or short-term political wins.
 My politics are future-oriented, independent, and progressive—grounded in the idea that our greatest strength comes from infinite diversity in infinite combinations, and that a healthy society makes room for difference rather than fearing it.
 I believe government should solve real problems: affordable housing, clean air and water, accessible healthcare, good schools, fair wages, and systems that work for real people.
 I support fully funding public education and libraries, protecting intellectual freedom, and treating literacy and learning as the foundation of democracy.
@@ -17,3 +17,7 @@ I also believe Utah should think boldly about the future.
 From investing in arts, culture, and education, to positioning Utah as a global leader in emerging industries—including space science and space commerce—I want Utah to be relevant, resilient, and essential in the 21st century and beyond.
 This campaign is about stewardship over dominance, dignity over spectacle, and planning for a future that works for everyone.
 If that vision resonates with you, I hope you’ll join me.
+Howells for Utah HD39 We can only achieve success in this campaign with your support.
+Please consider making a donation through ActBlue—it's quick and makes a BIG impact.
+Every dollar matters!
+Follow my Linktree - https://linktr.ee/HowellsForUtah © # by Howells for Utah HD39 Accessibility Statement Use of military rank, job titles, photographs in uniform, and references to military service does not imply endorsement by the Department of Defense, the Department of the Air Force, the Department of the Army, the National Guard, or any military service branch. bottom of page

@@ -1,5 +1,5 @@
-Civil liberties, public safety, and the rule of law
-I take constitutional rights seriously across the board, not selectively.
+top of page HOME WHERE I STAND ON THE ISSUES ABOUT DREW SERVICE BEFORE SELF POLICY & PERSPECTIVE BLOG GET INVOLVED More Use tab to navigate through the menu items.
+Policy, Philosophy & Thoughts Search Civil liberties, public safety, and the rule of law Drew Howells Jun 22 9 min read I take constitutional rights seriously across the board, not selectively.
 Rights are not real if they apply only when they are convenient, popular, or reserved for whoever happens to hold the majority that year.
 The Constitution is not a prop for a campaign speech.
 It is a set of limits on power.
@@ -33,9 +33,11 @@ Understaffing is not merely a line in a budget.
 It creates danger for officers and the public at the same time.
 It also means giving officers the training and tools to respond appropriately, including options that allow them to de-escalate situations rather than treating force as the only available answer.
 And it means respecting their voice on the job.
-In 2025, the Utah Legislature passed H.B. 267, which would have prohibited public employers from participating in collective bargaining with teachers, firefighters, police officers, and other public workers.
+In 2025, the Utah Legislature passed H.B.
+267, which would have prohibited public employers from participating in collective bargaining with teachers, firefighters, police officers, and other public workers.
 Those workers organized, gathered enough verified signatures to send the law to Utah voters, and forced the issue into the democratic process.
-The Legislature ultimately repealed H.B. 267 during a special session in December 2025.
+The Legislature ultimately repealed H.B.
+267 during a special session in December 2025.
 That repeal was the right outcome.
 But I have watched this Legislature long enough to know that bad ideas do not always die here.
 Sometimes they wait a session and return under a different bill number.
@@ -130,3 +132,7 @@ It means no one stands above the law, no one falls beneath its protection, and p
 That is the kind of public safety I believe in: constitutional, restrained, adequately supported, accountable, and worthy of trust.
 I still believe government can be worthy of the people it serves— not because I am naive about power, but because I have seen what it costs when fear is allowed to write the law.
 We protect liberty the way we protect anything we love: by refusing to trade it away the first time someone promises we would be safer without it.
+Recent Posts See All We Are Building Data Centers Blind Education Is Where the Future Begins Medical cannabis, patient dignity, and regulatory accountability Howells for Utah HD39 We can only achieve success in this campaign with your support.
+Please consider making a donation through ActBlue—it's quick and makes a BIG impact.
+Every dollar matters!
+Follow my Linktree - https://linktr.ee/HowellsForUtah © # by Howells for Utah HD39 Accessibility Statement Use of military rank, job titles, photographs in uniform, and references to military service does not imply endorsement by the Department of Defense, the Department of the Air Force, the Department of the Army, the National Guard, or any military service branch. bottom of page

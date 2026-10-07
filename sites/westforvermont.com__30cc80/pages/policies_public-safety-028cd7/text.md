@@ -1,5 +1,4 @@
-Public Safety
-Safe communities require both strong emergency response and strong prevention.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE Public Safety Safe communities require both strong emergency response and strong prevention.
 Public safety starts with making sure local police, fire departments, EMS, schools, and community organizations have the tools and support they need to respond when something goes wrong.
 But strong public safety is also about preventing problems before they become emergencies.
 That means addressing substance use, mental health needs, domestic violence, housing instability, and other challenges that can put people at greater risk.
@@ -12,7 +11,10 @@ Tools that collect information about where people go or what they do should have
 Local communities should also have a meaningful role in deciding what public safety looks like where they live.
 The needs of a small rural town may be very different from those of a larger community, and policy should recognize that.
 The goal is straightforward: safer communities, effective emergency response, strong prevention, and public institutions people can trust.
-What I'll Work On
-Help police, fire departments, and emergency medical services recruit, retain, train, and equip first responders.
+What I'll Work On Help police, fire departments, and emergency medical services recruit, retain, train, and equip first responders.
 Strengthen prevention and make sure mental health and substance-use crises receive the right response.
 Require professionalism, accountability, and strong privacy protections for surveillance technology.
+Back to Issues Home Meet Thomas Issues Get Involved News Contact PAID FOR BY WEST FOR VERMONT PO BOX 1861 Manchester Center, VT 05255​ (802) 768-7801​​ thomas@ westforvermont.com Thomas West is a former member of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Army, the Department of Defense, or any branch of the U.S. government. bottom of page

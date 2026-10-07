@@ -1,5 +1,4 @@
-Meet Riley
-He previously served as West Virginia's 25th State Treasurer from 2021-2025.
+0 Skip to Content Meet Riley Issues Media Contact Us Store DONATE Open Menu Close Menu Meet Riley Issues Media Contact Us Store DONATE Open Menu Close Menu Meet Riley Issues Media Contact Us Store DONATE Meet Riley He previously served as West Virginia's 25th State Treasurer from 2021-2025.
 Born in Morgantown, Congressman Moore started his career as a welder.
 He received an undergraduate degree in Government and International Politics from George Mason University and a Master’s Degree in Strategic Security Studies from the National Defense University at Fort McNair.
 For many years, Congressman Moore served as a national security advisor to the Foreign Affairs Committee in the U.S.
@@ -22,3 +21,4 @@ Congressman Moore leads the Rescissions Task Force for the Republican Study Comm
 He has also introduced critical legislation to protect Americans' Second Amendment rights and cosponsored key legislation to HALT Fentanyl, end the border crisis, and lock in main street tax certainty.
 Additionally, Rep.
 Moore voted for the One Big Beautiful Bill; supported landmark cryptocurrency legislation, including voting for the Genius Act and cosponsoring the Clarity Act; and pushed for legislation to Make America Energy Dominant, including reinstituting the National Coal Council and voting for Congressional Review Act resolutions to overturn harmful Biden Administration energy policies.
+Paid for by Moore for West Virginia, Inc.

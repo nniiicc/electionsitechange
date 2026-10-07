@@ -1,7 +1,42 @@
 [
-"https://secure.anedot.com/mike-wilson-for-senate/mikewilsonforsenate",
-"https://senatormikewilson.com/",
-"https://senatormikewilson.com/blog",
-"https://senatormikewilson.com/service",
-"https://senatormikewilson.com/video"
+{
+"text": "About Mike",
+"href": "https://www.senatormikewilson.com/#about-section"
+},
+{
+"text": "Blog",
+"href": "https://www.senatormikewilson.com/blog"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/mike-wilson-for-senate/mikewilsonforsenate"
+},
+{
+"text": "Donate",
+"href": "https://www.senatormikewilson.com/#donate-section"
+},
+{
+"text": "Home",
+"href": "https://www.senatormikewilson.com/#home-section"
+},
+{
+"text": "Service",
+"href": "https://www.senatormikewilson.com/service"
+},
+{
+"text": "Video",
+"href": "https://www.senatormikewilson.com/video"
+},
+{
+"text": "Volunteer",
+"href": "https://www.senatormikewilson.com/#volunteer-section"
+},
+{
+"text": "Welcome",
+"href": "https://www.senatormikewilson.com/"
+},
+{
+"text": "[image: Mike Wilson for State Senate]",
+"href": "https://www.senatormikewilson.com/"
+}
 ]

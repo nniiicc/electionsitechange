@@ -1,43 +1,258 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/people/Helene-For-Congress/61586987417340",
-"https://heleneforcongress.com/",
-"https://heleneforcongress.com/contact",
-"https://heleneforcongress.com/contribute",
-"https://heleneforcongress.com/events",
-"https://heleneforcongress.com/helene-neville-professional-summary",
-"https://heleneforcongress.com/home",
-"https://heleneforcongress.com/issues",
-"https://heleneforcongress.com/issues/Childcare-and-Working-Families",
-"https://heleneforcongress.com/issues/Climate-Energy-and-Natural-Resources",
-"https://heleneforcongress.com/issues/Democracy-and-the-Right-to-Participate",
-"https://heleneforcongress.com/issues/Economic-Opportunity-and-Cost-of-Living",
-"https://heleneforcongress.com/issues/Education-and-Safe-Schools",
-"https://heleneforcongress.com/issues/Energy-Costs-and-Household-Utility-Bills",
-"https://heleneforcongress.com/issues/Food-Security-and-Rural-Stability",
-"https://heleneforcongress.com/issues/Healthcare-and-Access",
-"https://heleneforcongress.com/issues/Housing-and-Cost-of-Living",
-"https://heleneforcongress.com/issues/Immigration-and-Responsible-Reform",
-"https://heleneforcongress.com/issues/Medicare-and-Medicaid",
-"https://heleneforcongress.com/issues/Mental-Health-and-Community-Well-Being",
-"https://heleneforcongress.com/issues/Money-in-Politics-and-Fair-Elections",
-"https://heleneforcongress.com/issues/Pandemic-Preparedness-and-Protecting-Frontline-Workers",
-"https://heleneforcongress.com/issues/Reproductive-Freedom",
-"https://heleneforcongress.com/issues/Scams-that-Swindle",
-"https://heleneforcongress.com/issues/Social-Security-and-Retirement-Security",
-"https://heleneforcongress.com/issues/Substance-Use-Disorders",
-"https://heleneforcongress.com/issues/Transportation-and-Infrastructure",
-"https://heleneforcongress.com/issues/Tribal-Sovereignty-and-Tribal-Partnership",
-"https://heleneforcongress.com/issues/Veterans-and-Military-Families",
-"https://heleneforcongress.com/issues/nursing-profession",
-"https://heleneforcongress.com/issues/sample_issue",
-"https://heleneforcongress.com/meet-helene",
-"https://heleneforcongress.com/meet_helene",
-"https://heleneforcongress.com/news",
-"https://heleneforcongress.com/photos",
-"https://heleneforcongress.com/privacy-policy",
-"https://heleneforcongress.com/view-endorsements",
-"https://heleneforcongress.com/volunteer",
-"https://heleneforcongress.com/vote",
-"https://heleneforcongress.com/yard-sign"
+{
+"text": "Agriculture, Food Security, and Rural Strength",
+"href": "https://www.heleneforcongress.com/issues/sample_issue"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Childcare and Working Families",
+"href": "https://www.heleneforcongress.com/issues/Childcare-and-Working-Families"
+},
+{
+"text": "Climate, Energy, and Natural Resources",
+"href": "https://www.heleneforcongress.com/issues/Climate-Energy-and-Natural-Resources"
+},
+{
+"text": "Contact",
+"href": "https://www.heleneforcongress.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.heleneforcongress.com/contribute"
+},
+{
+"text": "Data Centers",
+"href": "https://www.heleneforcongress.com/issues/Energy-Costs-and-Household-Utility-Bills"
+},
+{
+"text": "Democracy and the Right to Participate",
+"href": "https://www.heleneforcongress.com/issues/Democracy-and-the-Right-to-Participate"
+},
+{
+"text": "Economic Opportunity and Cost of Living",
+"href": "https://www.heleneforcongress.com/issues/Economic-Opportunity-and-Cost-of-Living"
+},
+{
+"text": "Education and Safe Schools",
+"href": "https://www.heleneforcongress.com/issues/Education-and-Safe-Schools"
+},
+{
+"text": "Endorsements",
+"href": "https://www.heleneforcongress.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.heleneforcongress.com/events"
+},
+{
+"text": "Food Security and Rural Stability",
+"href": "https://www.heleneforcongress.com/issues/Food-Security-and-Rural-Stability"
+},
+{
+"text": "Healthcare and Access",
+"href": "https://www.heleneforcongress.com/issues/Healthcare-and-Access"
+},
+{
+"text": "Helene Neville Backstory",
+"href": "https://www.heleneforcongress.com/meet-helene"
+},
+{
+"text": "Helene Neville Professional Summary",
+"href": "https://www.heleneforcongress.com/helene-neville-professional-summary"
+},
+{
+"text": "Home",
+"href": "https://www.heleneforcongress.com/home"
+},
+{
+"text": "Housing and Cost of Living",
+"href": "https://www.heleneforcongress.com/issues/Housing-and-Cost-of-Living"
+},
+{
+"text": "Immigration and Responsible Reform",
+"href": "https://www.heleneforcongress.com/issues/Immigration-and-Responsible-Reform"
+},
+{
+"text": "Issues",
+"href": "https://www.heleneforcongress.com/issues"
+},
+{
+"text": "Medicare and Medicaid",
+"href": "https://www.heleneforcongress.com/issues/Medicare-and-Medicaid"
+},
+{
+"text": "Meet Helene",
+"href": "https://www.heleneforcongress.com/meet_helene"
+},
+{
+"text": "Mental Health and Community Well-Being",
+"href": "https://www.heleneforcongress.com/issues/Mental-Health-and-Community-Well-Being"
+},
+{
+"text": "Money in Politics and Fair Elections",
+"href": "https://www.heleneforcongress.com/issues/Money-in-Politics-and-Fair-Elections"
+},
+{
+"text": "News",
+"href": "https://www.heleneforcongress.com/news"
+},
+{
+"text": "Pandemic Preparedness and Protecting Frontline Workers",
+"href": "https://www.heleneforcongress.com/issues/Pandemic-Preparedness-and-Protecting-Frontline-Workers"
+},
+{
+"text": "Photos",
+"href": "https://www.heleneforcongress.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.heleneforcongress.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Childcare-and-Working-Families"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Climate-Energy-and-Natural-Resources"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Democracy-and-the-Right-to-Participate"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Economic-Opportunity-and-Cost-of-Living"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Education-and-Safe-Schools"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Energy-Costs-and-Household-Utility-Bills"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Food-Security-and-Rural-Stability"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Healthcare-and-Access"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Housing-and-Cost-of-Living"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Immigration-and-Responsible-Reform"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Medicare-and-Medicaid"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Mental-Health-and-Community-Well-Being"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Money-in-Politics-and-Fair-Elections"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Pandemic-Preparedness-and-Protecting-Frontline-Workers"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Reproductive-Freedom"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Scams-that-Swindle"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Social-Security-and-Retirement-Security"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Substance-Use-Disorders"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Transportation-and-Infrastructure"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Tribal-Sovereignty-and-Tribal-Partnership"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/Veterans-and-Military-Families"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/nursing-profession"
+},
+{
+"text": "Read More",
+"href": "https://www.heleneforcongress.com/issues/sample_issue"
+},
+{
+"text": "Reproductive Freedom",
+"href": "https://www.heleneforcongress.com/issues/Reproductive-Freedom"
+},
+{
+"text": "Scams that Swindle",
+"href": "https://www.heleneforcongress.com/issues/Scams-that-Swindle"
+},
+{
+"text": "Social Security and Retirement Security",
+"href": "https://www.heleneforcongress.com/issues/Social-Security-and-Retirement-Security"
+},
+{
+"text": "Substance Use Disorders",
+"href": "https://www.heleneforcongress.com/issues/Substance-Use-Disorders"
+},
+{
+"text": "Transportation and Infrastructure",
+"href": "https://www.heleneforcongress.com/issues/Transportation-and-Infrastructure"
+},
+{
+"text": "Tribal Sovereignty and Tribal Partnership",
+"href": "https://www.heleneforcongress.com/issues/Tribal-Sovereignty-and-Tribal-Partnership"
+},
+{
+"text": "Veterans and Military Families",
+"href": "https://www.heleneforcongress.com/issues/Veterans-and-Military-Families"
+},
+{
+"text": "Volunteer",
+"href": "https://www.heleneforcongress.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.heleneforcongress.com/vote"
+},
+{
+"text": "Why Nursing Matters in Public Office",
+"href": "https://www.heleneforcongress.com/issues/nursing-profession"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.heleneforcongress.com/yard-sign"
+},
+{
+"text": "[image: Helene for Congress 2026 - North Dakota]",
+"href": "https://www.heleneforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Helene-For-Congress/61586987417340/"
+}
 ]

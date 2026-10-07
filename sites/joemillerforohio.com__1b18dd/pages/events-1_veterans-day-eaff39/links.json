@@ -1,20 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Rep.+Joe+Miller+at+the+Huron+County+Fair%E2%80%94+Veterans+Day&dates=20260819T150000Z%2F20260819T230000Z&location=Norwalk%2C+OH+44857",
-"http://maps.google.com/?q=+Norwalk%2C+OH+44857",
-"https://facebook.com/JoeMillerforOhio",
-"https://instagram.com/joemillerohio",
-"https://joemillerforohio.com/",
-"https://joemillerforohio.com/cart",
-"https://joemillerforohio.com/contact",
-"https://joemillerforohio.com/events-1",
-"https://joemillerforohio.com/events-1/lorain-puerto-rican-festival-parade-evening",
-"https://joemillerforohio.com/events-1/senior-day",
-"https://joemillerforohio.com/events-1/veterans-day?format=ical",
-"https://joemillerforohio.com/issues",
-"https://joemillerforohio.com/joes-listening-tour",
-"https://joemillerforohio.com/meetjoe",
-"https://joemillerforohio.com/privacy-policy",
-"https://mobilize.us/joemillerforstatesenate/event/993409",
-"https://secure.actblue.com/donate/friendsofjoemillerohio",
-"https://twitter.com/repjoemiller"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+norwalk%2C+oh+44857+"
+},
+{
+"text": "0",
+"href": "https://www.joemillerforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Contact",
+"href": "https://www.joemillerforohio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friendsofjoemillerohio"
+},
+{
+"text": "Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Rep.+Joe+Miller+at+the+Huron+County+Fair%E2%80%94+Veterans+Day&dates=20260819T150000Z%2F20260819T230000Z&location=Norwalk%2C+OH+44857"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/veterans-day?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.joemillerforohio.com/issues"
+},
+{
+"text": "Joe's Listening Tour",
+"href": "https://www.joemillerforohio.com/joes-listening-tour"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.joemillerforohio.com/meetjoe"
+},
+{
+"text": "Next Next August 20 Meet Rep. Joe Miller at the Huron County Fair—Senior Day",
+"href": "https://www.joemillerforohio.com/events-1/senior-day"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.joemillerforohio.com/privacy-policy"
+},
+{
+"text": "Previous Previous August 15 Join Team Miller at the Lorain Puerto Rican Festival",
+"href": "https://www.joemillerforohio.com/events-1/lorain-puerto-rican-festival-parade-evening"
+},
+{
+"text": "[image: Joe Miller For Ohio]",
+"href": "https://www.joemillerforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/repjoemiller"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoeMillerforOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joemillerohio/"
+},
+{
+"text": "https://www.mobilize.us/joemillerforstatesenate/event/993409/",
+"href": "https://www.mobilize.us/joemillerforstatesenate/event/993409/"
+}
 ]

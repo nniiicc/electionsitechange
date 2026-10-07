@@ -1,6 +1,30 @@
 [
-"https://cindiduchow.com/",
-"https://cindiduchow.com/down-for-maintenance",
-"https://facebook.com/cindiduchowforassembly",
-"https://secure.winred.com/friends-of-cindi-duchow/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+{
+"text": "About Me",
+"href": "https://www.cindiduchow.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-cindi-duchow/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "District Map",
+"href": "https://www.cindiduchow.com/down-for-maintenance"
+},
+{
+"text": "Photos",
+"href": "https://www.cindiduchow.com"
+},
+{
+"text": "The Issues",
+"href": "https://www.cindiduchow.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cindiduchow.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/cindiduchowforassembly"
+}
 ]

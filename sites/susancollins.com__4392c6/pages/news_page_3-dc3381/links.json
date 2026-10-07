@@ -1,39 +1,170 @@
 [
-"https://facebook.com/collins4senator",
-"https://instagram.com/susancollinsforsenate",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=100&web_id=susancollins_news_donatebar100",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=1000&web_id=susancollins_news_donatebar1000",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=25&web_id=susancollins_news_donatebar25",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=50&web_id=susancollins_news_donatebar50",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=500&web_id=susancollins_news_donatebar500",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?web_id=susancollins_news_donatebar",
-"https://secure.winred.com/susan-collins/moose-wink",
-"https://susancollins.com/",
-"https://susancollins.com/about",
-"https://susancollins.com/faq",
-"https://susancollins.com/get-involved",
-"https://susancollins.com/get-involved/campaign-chairs",
-"https://susancollins.com/get-involved/coalitions",
-"https://susancollins.com/letter-to-the-editor/despite-attacks-susan-collins-remains-focused-on-us-letter",
-"https://susancollins.com/letter-to-the-editor/how-susan-collins-earned-my-support-letter",
-"https://susancollins.com/letter-to-the-editor/letter-democratic-ads-about-susan-collins-are-wrong",
-"https://susancollins.com/letter-to-the-editor/letter-susan-collins-delivers-for-maine",
-"https://susancollins.com/letter-to-the-editor/letter-susan-collins-has-proven-why-she-should-be-reelected",
-"https://susancollins.com/letter-to-the-editor/susan-collins-delivers-for-ogunquit-and-maines-fisheries",
-"https://susancollins.com/letter-to-the-editor/susan-collins-fights-for-our-veterans-letter",
-"https://susancollins.com/media-kit",
-"https://susancollins.com/news",
-"https://susancollins.com/news/page/2",
-"https://susancollins.com/news/page/22",
-"https://susancollins.com/news/page/4",
-"https://susancollins.com/news/page/5",
-"https://susancollins.com/press-release/press-release-former-senator-joe-manchin-endorses-senator-collins-soul-of-the-senate",
-"https://susancollins.com/privacy-policy",
-"https://susancollins.com/store",
-"https://susancollins.com/terms-and-conditions",
-"https://susancollins.com/track-record",
-"https://susancollins.com/vote",
-"https://x.com/SenSusanCollins",
-"https://youtube.com/@susancollins4senator"
+{
+"text": "$100",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=100&web_id=susancollins_news_donatebar100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=1000&web_id=susancollins_news_donatebar1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=25&web_id=susancollins_news_donatebar25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=50&web_id=susancollins_news_donatebar50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=500&web_id=susancollins_news_donatebar500"
+},
+{
+"text": "1",
+"href": "https://susancollins.com/news/"
+},
+{
+"text": "2",
+"href": "https://susancollins.com/news/page/2/"
+},
+{
+"text": "22",
+"href": "https://susancollins.com/news/page/22/"
+},
+{
+"text": "4",
+"href": "https://susancollins.com/news/page/4/"
+},
+{
+"text": "5",
+"href": "https://susancollins.com/news/page/5/"
+},
+{
+"text": "About",
+"href": "https://susancollins.com/about/"
+},
+{
+"text": "Campaign Chairs",
+"href": "https://susancollins.com/get-involved/campaign-chairs/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026"
+},
+{
+"text": "FAQs",
+"href": "https://susancollins.com/faq/"
+},
+{
+"text": "Get Involved",
+"href": "https://susancollins.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://susancollins.com/"
+},
+{
+"text": "Join a Coalition",
+"href": "https://susancollins.com/get-involved/coalitions/"
+},
+{
+"text": "Media Kit",
+"href": "https://susancollins.com/media-kit/"
+},
+{
+"text": "News",
+"href": "https://susancollins.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?web_id=susancollins_news_donatebar"
+},
+{
+"text": "Privacy Policy",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Read MoreSeptember 12, 2026How Susan Collins earned my support | LetterLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/how-susan-collins-earned-my-support-letter/"
+},
+{
+"text": "Read MoreSeptember 12, 2026Letter: Susan Collins delivers for MaineLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/letter-susan-collins-delivers-for-maine/"
+},
+{
+"text": "Read MoreSeptember 14, 2026Despite attacks, Susan Collins remains focused on us | LetterLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/despite-attacks-susan-collins-remains-focused-on-us-letter/"
+},
+{
+"text": "Read MoreSeptember 14, 2026Letter: Democratic ads about Susan Collins are wrongLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/letter-democratic-ads-about-susan-collins-are-wrong/"
+},
+{
+"text": "Read MoreSeptember 14, 2026PRESS RELEASE: Former Senator Joe Manchin Endorses Senator Collins: “Soul of the Senate”Press Release",
+"href": "https://susancollins.com/press-release/press-release-former-senator-joe-manchin-endorses-senator-collins-soul-of-the-senate/"
+},
+{
+"text": "Read MoreSeptember 15, 2026Letter: Susan Collins has proven why she should be reelectedLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/letter-susan-collins-has-proven-why-she-should-be-reelected/"
+},
+{
+"text": "Read MoreSeptember 17, 2026Replacing a respected, effective senator like Susan Collins will hurt MaineOp Ed",
+"href": "https://susancollins.com/op-ed/replacing-a-respected-effective-senator-like-susan-collins-will-hurt-maine/"
+},
+{
+"text": "Read MoreSeptember 17, 2026Susan Collins delivers for Ogunquit and Maine’s fisheriesLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/susan-collins-delivers-for-ogunquit-and-maines-fisheries/"
+},
+{
+"text": "Store",
+"href": "https://susancollins.com/store/"
+},
+{
+"text": "Terms & conditions / privacy policy apply",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://susancollins.com/terms-and-conditions/"
+},
+{
+"text": "Track Record",
+"href": "https://susancollins.com/track-record/"
+},
+{
+"text": "Vote",
+"href": "https://susancollins.com/vote/"
+},
+{
+"text": "[image: Collins for Senator]",
+"href": "https://susancollins.com"
+},
+{
+"text": "[image: TV Starter 3.0]",
+"href": "https://secure.winred.com/susan-collins/moose-wink"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/collins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/susancollinsforsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@susancollins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SenSusanCollins"
+},
+{
+"text": "←",
+"href": "https://susancollins.com/news/page/2/"
+},
+{
+"text": "→",
+"href": "https://susancollins.com/news/page/4/"
+}
 ]

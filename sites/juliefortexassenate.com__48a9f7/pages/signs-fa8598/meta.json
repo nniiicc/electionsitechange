@@ -1,9 +1,9 @@
 {
  "description": "Explore campaign signs for Julie Dahlberg&#39;s Texas Senate campaign. Download customizable political sign PDFs and show your support!",
  "final_url": "https://juliefortexassenate.com/signs",
- "paid_for_by": null,
+ "fingerprint": "8c97c84ea619bf37305a9272a61390f35df4e498",
+ "format": 3,
+ "paid_for_by": "",
  "title": "SIGNS",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

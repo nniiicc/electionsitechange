@@ -1,17 +1,86 @@
 [
-"https://facebook.com/nadiaforhawaii",
-"https://instagram.com/nadiaforhawaii",
-"https://nadiaforhawaii.com/",
-"https://nadiaforhawaii.com/cart",
-"https://nadiaforhawaii.com/home",
-"https://nadiaforhawaii.com/sidewalk-talk",
-"https://olvr.hawaii.gov/",
-"https://secure.actblue.com/donate/nadiaforhawaii",
-"https://secure.actblue.com/donate/nadiaforhawaii?amount=1000",
-"https://secure.actblue.com/donate/nadiaforhawaii?amount=101",
-"https://secure.actblue.com/donate/nadiaforhawaii?amount=200",
-"https://secure.actblue.com/donate/nadiaforhawaii?amount=2000",
-"https://secure.actblue.com/donate/nadiaforhawaii?amount=28",
-"https://secure.actblue.com/donate/nadiaforhawaii?amount=50",
-"https://secure.actblue.com/donate/nadiaforhawaii?amount=500"
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/nadiaforhawaii?amount=1000"
+},
+{
+"text": "$101",
+"href": "https://secure.actblue.com/donate/nadiaforhawaii?amount=101"
+},
+{
+"text": "$200",
+"href": "https://secure.actblue.com/donate/nadiaforhawaii?amount=200"
+},
+{
+"text": "$2000",
+"href": "https://secure.actblue.com/donate/nadiaforhawaii?amount=2000"
+},
+{
+"text": "$28",
+"href": "https://secure.actblue.com/donate/nadiaforhawaii?amount=28"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/nadiaforhawaii?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/nadiaforhawaii?amount=500"
+},
+{
+"text": "0",
+"href": "https://www.nadiaforhawaii.com/cart"
+},
+{
+"text": "About Nadia",
+"href": "https://www.nadiaforhawaii.com/home#about"
+},
+{
+"text": "Click here to register to vote or update your registration",
+"href": "https://olvr.hawaii.gov"
+},
+{
+"text": "Click here to register to vote or update your registration",
+"href": "https://secure.actblue.com/donate/nadiaforhawaii"
+},
+{
+"text": "Donate",
+"href": "https://www.nadiaforhawaii.com/#donate"
+},
+{
+"text": "Donate via ActBlue!",
+"href": "https://secure.actblue.com/donate/nadiaforhawaii"
+},
+{
+"text": "Nadia For Hawaii",
+"href": "https://www.nadiaforhawaii.com/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/nadiaforhawaii"
+},
+{
+"text": "Priorities",
+"href": "https://www.nadiaforhawaii.com/home#priorities"
+},
+{
+"text": "Sidewalk Talk",
+"href": "https://www.nadiaforhawaii.com/sidewalk-talk"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nadiaforhawaii.com/home#volunteer"
+},
+{
+"text": "[image: Nadia For Hawaii]",
+"href": "https://www.nadiaforhawaii.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/nadiaforhawaii/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nadiaforhawaii/"
+}
 ]

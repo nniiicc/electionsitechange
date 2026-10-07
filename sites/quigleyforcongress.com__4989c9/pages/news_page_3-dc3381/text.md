@@ -1,17 +1,3 @@
-News
-News
-1110, 2012
-1010, 2012
-110, 2012
-2809, 2012
-908, 2012
-908, 2012
-Newsbuildthis_admin2018-04-16T14:31:48+00:00
-News
-News
-1110, 2012
-1010, 2012
-110, 2012
-2809, 2012
-908, 2012
-908, 2012
+Skip to content Search for: HOME ABOUT MIKE ISSUES GET INVOLVED NEWS CONTACT US CONTRIBUTE News buildthis_admin 2018-04-16T14:31:48+00:00 News NEWSLETTER SIGN UP VOLUNTEER CONTRIBUTE ENDORSEMENTS IL 5TH DISTRICT News 11 10, 2012 The Daily Herald endorses Quigley By quigley | 2012-10-11T01:35:05+00:00 October 11th, 2012 | Categories: News | 0 Comments […] Read More 10 10, 2012 Chicago Tribune: We’re sticking with Quigley for Congress By quigley | 2017-02-14T15:42:03+00:00 October 10th, 2012 | Categories: Endorsement , News | 0 Comments […] Read More 1 10, 2012 Chicago Pride: Quigley applauds DHS for recognizing LGBT families in federal immigration policies By quigley | 2012-10-01T17:34:33+00:00 October 1st, 2012 | Categories: News | 0 Comments […] Read More 28 09, 2012 Chicago Tribune OpEd: Voice of the People: Lax Gun Laws By quigley | 2017-02-14T15:42:03+00:00 September 28th, 2012 | Categories: News | 0 Comments […] Read More 9 08, 2012 Power Industry News: Making America Stronger with a National Energy Plan By quigley | 2017-02-14T15:42:03+00:00 August 9th, 2012 | Categories: News | 0 Comments […] Read More 9 08, 2012 WLS: A Spirit of Giving through Hockey By quigley | 2012-08-09T17:59:12+00:00 August 9th, 2012 | Categories: News | 0 Comments […] Read More Previous 2 3 4 Next For the future of Chicago.
+SIGN UP TODAY Paid for by Quigley for Congress.
+Chicago Web Design by BuildThis Page load link Go to Top

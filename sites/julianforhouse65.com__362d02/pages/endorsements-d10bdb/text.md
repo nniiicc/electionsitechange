@@ -1,13 +1,3 @@
-Proud Of Our
-Endorsements
-We're garnering community support for our campaign
-Change TN
-Change TN
-Mental Health Now
-Mental Health Now
-Moms Demand Action
-2026 Gun Sense Candidate Distinction
-Planned Parenthood
-Tennessee Advocates for Planned Parenthood Endorsement
-United Auto Workers Union
-UAW District 8
+Donate Menu Home Meet Candidate Issues Events Endorsements Volunteer Follow us on Social Media Proud Of Our Endorsements We're garnering community support for our campaign Change TN Change TN Mental Health Now Mental Health Now Moms Demand Action 2026 Gun Sense Candidate Distinction Planned Parenthood Tennessee Advocates for Planned Parenthood Endorsement United Auto Workers Union UAW District 8 Stay Up To Date Follow us on the campaign trail!
+First Name * Last Name * Phone Number * Keep Me Updated Home Meet Candidate Issues Events Endorsements Volunteer Donate Today!
+Follow us on Social Media Accessibility Statement Terms of Service Contact Paid for By Friends of Julian Pierre-Griffin - Megan Griffin, Treasurer 1104 Warrior Drive, Franklin, Tennessee 37064 Julian Pierre-Griffin for Tennessee House 65 © #

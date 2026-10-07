@@ -1,20 +1,74 @@
 [
-"https://derekforcongress.com/",
-"https://derekforcongress.com/Housing-Cost-of-living",
-"https://derekforcongress.com/Tax-reform",
-"https://derekforcongress.com/category/all-products",
-"https://derekforcongress.com/donations",
-"https://derekforcongress.com/educationandinnovation",
-"https://derekforcongress.com/gunsafety",
-"https://derekforcongress.com/healthcare",
-"https://derekforcongress.com/homelessness-va",
-"https://derekforcongress.com/immigration",
-"https://derekforcongress.com/learn-about-the-candidate",
-"https://derekforcongress.com/reproductive-health",
-"https://derekforcongress.com/small-but-impactful",
-"https://derekforcongress.com/social-security-with-ownership",
-"https://derekforcongress.com/structural-reform",
-"https://derekforcongress.com/the-gig-economy",
-"https://derekforcongress.com/viewsontheissues",
-"https://derekforcongress.com/volunteer-sign-up"
+{
+"text": "About the Candidate",
+"href": "https://www.derekforcongress.com/learn-about-the-candidate"
+},
+{
+"text": "About the Issues",
+"href": "https://www.derekforcongress.com/viewsontheissues"
+},
+{
+"text": "Donations",
+"href": "https://www.derekforcongress.com/donations"
+},
+{
+"text": "Get involved",
+"href": "https://www.derekforcongress.com/volunteer-sign-up"
+},
+{
+"text": "Home",
+"href": "https://www.derekforcongress.com"
+},
+{
+"text": "Read my full plan",
+"href": "https://www.derekforcongress.com/Housing-Cost-of-living"
+},
+{
+"text": "Read my full plan",
+"href": "https://www.derekforcongress.com/Tax-reform"
+},
+{
+"text": "Read my full plan",
+"href": "https://www.derekforcongress.com/educationandinnovation"
+},
+{
+"text": "Read my full plan",
+"href": "https://www.derekforcongress.com/gunsafety"
+},
+{
+"text": "Read my full plan",
+"href": "https://www.derekforcongress.com/healthcare"
+},
+{
+"text": "Read my full plan",
+"href": "https://www.derekforcongress.com/homelessness-va"
+},
+{
+"text": "Read my full plan",
+"href": "https://www.derekforcongress.com/immigration"
+},
+{
+"text": "Read my full plan",
+"href": "https://www.derekforcongress.com/reproductive-health"
+},
+{
+"text": "Read my full plan",
+"href": "https://www.derekforcongress.com/small-but-impactful"
+},
+{
+"text": "Read my full plan",
+"href": "https://www.derekforcongress.com/social-security-with-ownership"
+},
+{
+"text": "Read my full plan",
+"href": "https://www.derekforcongress.com/structural-reform"
+},
+{
+"text": "Read my full plan",
+"href": "https://www.derekforcongress.com/the-gig-economy"
+},
+{
+"text": "Shop",
+"href": "https://www.derekforcongress.com/category/all-products"
+}
 ]

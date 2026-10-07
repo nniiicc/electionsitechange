@@ -1,6 +1,5 @@
-The Silent Majority Needs to Take Back NH
-Letter to the Editor:
-We've likely all heard about the 'silent majority' - the significant portion of citizens who do not express their political opinions publicly.
+top of page KAREN BURNETT-KURIE NH HOUSE REPRESENTATIVE FOR DISTRICT 7 OSSIPEE/ TUFTONBORO/WOLFEBORO HOME GET TO KNOW KAREN PRIORITIES KAREN'S COMMENTARIES CONNECT WITH KAREN DONATE More Use tab to navigate through the menu items.
+All Posts Affordability Fair Taxation Education Natural Environment Local Rights & Control Health Care Child Care Housing Search The Silent Majority Needs to Take Back NH Karen Burnett-Kurie Apr 8, 2024 3 min read Letter to the Editor: We've likely all heard about the 'silent majority' - the significant portion of citizens who do not express their political opinions publicly.
 I have been a member of the 'silent majority' much of my adult life.
 However, that obviously changed more recently.
 Why?
@@ -35,4 +34,6 @@ Is it going to take a major incident like Croydon NH's where the school system's
 If we want this to change, the silent majority will have to speak up and work together to preserve our rights, have transparency and accountability for all tax dollars, retake control over decisions affecting our bodies and keep our public schools strong.
 We also need to make sure there is strong voter turnout and decide not to vote party line, in order to send different representatives to Concord.
 Let's return to majority rule!
-Karen Burnett-Kurie
+Karen Burnett-Kurie Recent Posts See All Is Local Spending Really Out of Control?
+One Country Project Debunks Rural Health Fund Myths NH Better Served by Quality Education & Lower Property Taxes Paid for by Friends of Karen Burnett-Kurie for House of Representatives.
+PO Box 1652 Wolfeboro NH 03894, Zoe Dubois, Fiscal Agent. bottom of page

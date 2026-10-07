@@ -1,6 +1,4 @@
-Be the Change
-Integrity ~ Results
-I moved to the Kenai/Soldotna area with my family in 1994.
+0 Skip to Content About Contact Donate Open Menu Close Menu About Contact Donate Open Menu Close Menu About Contact Donate Be the Change Integrity ~ Results I moved to the Kenai/Soldotna area with my family in 1994.
 My parents (both educators) braved the journey north to teach at a small Christian school.
 I graduated from high school in 2001 and attended Washington State University, graduating with a Doctor of Pharmacy degree in 2008.
 My wife, Jessie, and I were married in 2004.
@@ -25,5 +23,4 @@ You entrust these job responsibilities to the public servants representing your 
 I will bring a pragmatic voice as your representative in Juneau.
 Now is the time for leadership and a steady presence to represent our State and the people in our communities.
 I look forward to continuing to serve as your representative for District 7.
-Connect
-Phone, Email, Text or follow me on Facebook
+Connect Phone, Email, Text or follow me on Facebook Contact me Justin Ruffridge State House ruffridgeak@gmail.com (907) 953-3727 Paid for by Ruffridge for State House PO Box 2755 Soldotna, AK 99669 Made with Squarespace

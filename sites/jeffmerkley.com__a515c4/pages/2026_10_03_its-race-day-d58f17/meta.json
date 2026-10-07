@@ -1,7 +1,11 @@
 {
  "description": "Today I'm doing 70 laps for my Race to Save the Senate. If you haven't chipped in already, I'm asking you to pitch in ...",
  "final_url": "https://www.jeffmerkley.com/2026/10/03/its-race-day/",
- "paid_for_by": "Paid for by Jeff Merkley for Oregon &copy; 2026",
+ "fingerprint": "938a585856795d2d8e4b6430760ae0ca18138464",
+ "format": 3,
+ "paid_for_by": "Paid for by Jeff Merkley for Oregon © #",
  "title": "It's race day! | Jeff Merkley for U.S. Senate, Oregon",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

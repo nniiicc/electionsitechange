@@ -1,10 +1,6 @@
-Achievements / Awards / Recognition Representative Mitch Bolinsky
-2025: Spirit of Advocacy Award (CT LTC Ombudsman Program) / AARP Legislative Achievement Award (Biomarker + LTC) / Certificate of Recognition (Second Co.
-Governor’s Horse Guard) / Across the Aisle Bipartisan Recognition (acrosstheaisleintitiative.com / Univ. of Alabama/Birmingham)
-2024: AARP Legislative Achievement Award (Long Term Care)
-2023: Legislator of the Year (CT Assoc of Healthcare at Home) / AARP Legislative Achievement Award (Nursing Home Financial Transparency & Long Term Care)
-2022: American Legion Community Americanism Award (Sons of the Legion): Legislator of the Year (CT Assoc of Healthcare at Home)
-2019: Spirit of SEPTO Award (Special Ed PTO Alliance) / Positive Expressions (Character Recognition)
-2017: Community Leadership Award (CT Institute for Communities)
-2016: Certificate of Achievement & Recognition (Decoding Dyslexia) / Certificate of Appreciation (Newtown Public Schools)
-2015: AARP Capitol Caregiver Award (Family Caregiving)
+About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage Achievements / Awards / Recognition Representative Mitch Bolinsky 2025 : Spirit of Advocacy Award (CT LTC Ombudsman Program) / AARP Legislative Achievement Award (Biomarker + LTC) / Certificate of Recognition (Second Co.
+Governor’s Horse Guard) / Across the Aisle Bipartisan Recognition (acrosstheaisleintitiative.com / Univ. of Alabama/Birmingham) 2024 : AARP Legislative Achievement Award (Long Term Care) 2023 : Legislator of the Year (CT Assoc of Healthcare at Home) / AARP Legislative Achievement Award (Nursing Home Financial Transparency & Long Term Care) 2022 : American Legion Community Americanism Award (Sons of the Legion): Legislator of the Year (CT Assoc of Healthcare at Home) 2019 : Spirit of SEPTO Award (Special Ed PTO Alliance) / Positive Expressions (Character Recognition) 2017 : Community Leadership Award (CT Institute for Communities) 2016 : Certificate of Achievement & Recognition (Decoding Dyslexia) / Certificate of Appreciation (Newtown Public Schools) 2015 : AARP Capitol Caregiver Award (Family Caregiving) 14 YEAR INCUMBENT SERVING NEWTOWN ENDORSEMENTS AWARDS & HONORS NEWS & LETTERS VOTING INFO Polls Open In: November 3, 2026 at 6:00 AM Get Updates Thank you for signing up!
+News Bolinsky Awarded 2025 AARP Legislative Achievement Award - Third Straight Year!
+Join Rep Bolinsky for Campaign Kickoff on President's Monday, 2/17/2026, 5 to 7pm Rep Bolinsky Announces 8th Term Run & Accomplishments as Newtown's Voice at State Capitol Bolinsky Offers Thanks for Re-Election to 7th Term Balanced, Ethical & Considerate, Bolinsky Asks for Vote Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
+Approved by Mitch Bolinsky.
+Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage Close Menu

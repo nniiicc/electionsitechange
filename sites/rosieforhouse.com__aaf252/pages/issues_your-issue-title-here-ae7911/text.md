@@ -1,6 +1,5 @@
-Rosie believes in
-Growing Rural Communities
-Strong communities require strong infrastructure and economic opportunity.
+Skip navigation menu Home About Issues Volunteer Contact Donate Home About Issues Volunteer Contact Donate Strengthen Rural Healthcare Investing in Public Education Growing Rural Communities Honoring Veterans and Supporting Seniors Supporting Working Families Leading with Integrity Building Stronger Communities Together Rosie believes in Growing Rural Communities Strong communities require strong infrastructure and economic opportunity.
 Rosie believes rural Oklahoma should be a place where families can build careers, open businesses, and raise children without feeling like they have to leave home to succeed.
 She supports investing in roads, bridges, broadband internet, and transportation infrastructure while encouraging small business growth and workforce development.
 By partnering with local governments, schools, and employers, Rosie will work to attract new opportunities while protecting the character and values that make District 16 unique.
+Privacy Policy THE FUTURE IS ROSIE Powered by RUN! website builder PAID FOR AND AUTHORIZED BY ROSIE LYNCH FOR OKLAHOMA STATE HOUSE DISTRICT 16 You need to enable JavaScript to run this app.

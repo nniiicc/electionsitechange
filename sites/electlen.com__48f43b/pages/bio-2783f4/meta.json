@@ -1,13 +1,19 @@
 {
  "description": "Discover Hennessy For GA-125, a military advisor and navy commander dedicated to service before politics. Shop online apparel now!",
  "final_url": "https://electlen.com/bio",
+ "fingerprint": "68e27d4f3e55a12c8c9088e771e0f9e843f23518",
+ "format": 3,
  "paid_for_by": "Paid for by Hennessy for Georgia",
  "title": "Bio",
  "years_mentioned": [
+  "1968",
+  "1987",
+  "1992",
+  "1995",
+  "2009",
   "2012",
   "2014",
   "2018",
-  "2019",
-  "2026"
+  "2019"
  ]
 }

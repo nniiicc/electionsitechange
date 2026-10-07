@@ -1,8 +1,10 @@
-Michigan’s Economy Should Work for Workers
-Working full time should mean you can afford your life, take care of your family, and not get hurt on the job.
-- Fight for higher wages, stronger labor protections, and safer workplaces, because no one should be injured, exploited, or underpaid.
-- Pass a statewide paid family and medical leave program so that caring for a newborn or a sick loved one doesn't mean choosing between family and financial survival.
-- Make child care affordable so that parents who want to return to work can actually afford to do so.
-- Strengthen unemployment insurance so Michigan workers have a real safety net when they need it.
-- Repeal the Death Star preemption law and restore the ability of local governments to set stronger labor standards, including higher minimum wages and predictive scheduling protections.
-- Protect Michigan workers from federal rollbacks on wages, workplace safety, and labor rights.
+0 Skip to Content Home Meet Natalie About Natalie Natalie's Record Endorsements Priorities Healthcare Education Environment Workers & Wages Cost of Living Safe Communities Democracy & Accountability Media Events Volunteer Contact Donate Open Menu Close Menu Home Meet Natalie About Natalie Natalie's Record Endorsements Priorities Healthcare Education Environment Workers & Wages Cost of Living Safe Communities Democracy & Accountability Media Events Volunteer Contact Donate Open Menu Close Menu Home Folder: Meet Natalie Back About Natalie Natalie's Record Endorsements Folder: Priorities Back Healthcare Education Environment Workers & Wages Cost of Living Safe Communities Democracy & Accountability Media Events Volunteer Contact Donate Michigan’s Economy Should Work for Workers Working full time should mean you can afford your life, take care of your family, and not get hurt on the job.
+Fight for higher wages, stronger labor protections, and safer workplaces , because no one should be injured, exploited, or underpaid.
+Pass a statewide paid family and medical leave program so that caring for a newborn or a sick loved one doesn't mean choosing between family and financial survival.
+Make child care affordable so that parents who want to return to work can actually afford to do so.
+Strengthen unemployment insurance so Michigan workers have a real safety net when they need it.
+Repeal the Death Star preemption law and restore the ability of local governments to set stronger labor standards , including higher minimum wages and predictive scheduling protections.
+Protect Michigan workers from federal rollbacks on wages, workplace safety, and labor rights.
+Workers aren't asking for a handout.
+They're asking for a system that reflects the value of what they do .
+I've stood with workers on the picket line and in the legislature, because all wealth begins with labor. — Natalie Price Paid for by the Committee to Elect Natalie Price for State Senate | 2428 Phillips Ave, Berkley, MI 48072 Privacy Policy

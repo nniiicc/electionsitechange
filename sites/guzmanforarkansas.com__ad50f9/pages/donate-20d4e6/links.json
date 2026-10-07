@@ -1,13 +1,50 @@
 [
-"http://facebook.com/GuzmanForArkansas",
-"http://instagram.com/GuzmanForArkansas",
-"https://ballotpedia.org/Eduardo_Guzman",
-"https://guzmanforarkansas.com/",
-"https://guzmanforarkansas.com/about",
-"https://guzmanforarkansas.com/cart",
-"https://guzmanforarkansas.com/donate",
-"https://guzmanforarkansas.com/events",
-"https://guzmanforarkansas.com/signmeup",
-"https://guzmanforarkansas.com/vote",
-"https://secure.actblue.com/donate/guzmanforarkansas"
+{
+"text": "(Yard) Sign Me Up!",
+"href": "https://www.guzmanforarkansas.com/signmeup"
+},
+{
+"text": "0",
+"href": "https://www.guzmanforarkansas.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.guzmanforarkansas.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.guzmanforarkansas.com/donate"
+},
+{
+"text": "Donate via ActBlue",
+"href": "https://secure.actblue.com/donate/guzmanforarkansas"
+},
+{
+"text": "Events",
+"href": "https://www.guzmanforarkansas.com/events"
+},
+{
+"text": "Guzman for Fort Smith",
+"href": "https://www.guzmanforarkansas.com/"
+},
+{
+"text": "Vote",
+"href": "https://www.guzmanforarkansas.com/vote"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/GuzmanForArkansas"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/GuzmanForArkansas"
+},
+{
+"text": "[no text]",
+"href": "https://ballotpedia.org/Eduardo_Guzman"
+},
+{
+"text": "[no text]",
+"href": "mailto:guzmanforarkansas@gmail.com"
+}
 ]

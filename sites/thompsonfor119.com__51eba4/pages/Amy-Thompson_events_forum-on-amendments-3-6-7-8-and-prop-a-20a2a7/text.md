@@ -1,9 +1,2 @@
-Forum on Amendments 3,6,7,8 and Prop A
-Scenic Regional Library--Union Branch, Union
-Please attend this forum if you have questions about any of the amendments or Prop A.
-Event Details
-Scenic Regional Library--Union Branch
-251 Union Plz Dr
-Union, MO 63084
-Get Directions
-General Events
+About Amy Issues Get Involved Events Donate Now Home About Amy Issues Get Involved Events Donate Now Tuesday, October 6 | 6:30pm-8:00pm Forum on Amendments 3,6,7,8 and Prop A Scenic Regional Library--Union Branch, Union Please attend this forum if you have questions about any of the amendments or Prop A.
+Event Details Tuesday, October 6 6:30 pm - 8:00 pm Scenic Regional Library--Union Branch 251 Union Plz Dr Union, MO 63084 Get Directions General Events Share This Event Support Amy Thompson’s Campaign for Missouri Donate Now Thompson For 119 PO Box 101, Pacific, MO 63069 tel:(314) 520-6076 | thompsonfor119@gmail.com Rob Compton, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

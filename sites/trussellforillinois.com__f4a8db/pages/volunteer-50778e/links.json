@@ -1,19 +1,74 @@
 [
-"https://trussellforillinois.com/",
-"https://trussellforillinois.com/contact",
-"https://trussellforillinois.com/contribute",
-"https://trussellforillinois.com/contribute?amount=100",
-"https://trussellforillinois.com/contribute?amount=1000",
-"https://trussellforillinois.com/contribute?amount=25",
-"https://trussellforillinois.com/contribute?amount=250",
-"https://trussellforillinois.com/contribute?amount=50",
-"https://trussellforillinois.com/contribute?amount=500",
-"https://trussellforillinois.com/home",
-"https://trussellforillinois.com/make-endorsement",
-"https://trussellforillinois.com/meet",
-"https://trussellforillinois.com/news",
-"https://trussellforillinois.com/photos",
-"https://trussellforillinois.com/privacy-policy",
-"https://trussellforillinois.com/volunteer",
-"https://trussellforillinois.com/vote"
+{
+"text": "$100",
+"href": "https://www.trussellforillinois.com/contribute?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://www.trussellforillinois.com/contribute?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://www.trussellforillinois.com/contribute?amount=25"
+},
+{
+"text": "$250",
+"href": "https://www.trussellforillinois.com/contribute?amount=250"
+},
+{
+"text": "$50",
+"href": "https://www.trussellforillinois.com/contribute?amount=50"
+},
+{
+"text": "$500",
+"href": "https://www.trussellforillinois.com/contribute?amount=500"
+},
+{
+"text": "Contact",
+"href": "https://www.trussellforillinois.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.trussellforillinois.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://www.trussellforillinois.com/home"
+},
+{
+"text": "Make Endorsement",
+"href": "https://www.trussellforillinois.com/make-endorsement"
+},
+{
+"text": "Meet",
+"href": "https://www.trussellforillinois.com/meet"
+},
+{
+"text": "News",
+"href": "https://www.trussellforillinois.com/news"
+},
+{
+"text": "Other",
+"href": "https://www.trussellforillinois.com/contribute"
+},
+{
+"text": "Photos",
+"href": "https://www.trussellforillinois.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.trussellforillinois.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.trussellforillinois.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.trussellforillinois.com/vote"
+},
+{
+"text": "[image: Stephanie Trussell for IL State Rep 42nd District]",
+"href": "https://www.trussellforillinois.com/"
+}
 ]

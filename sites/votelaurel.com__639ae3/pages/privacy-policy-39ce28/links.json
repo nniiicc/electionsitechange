@@ -1,8 +1,42 @@
 [
-"https://facebook.com/VoteLaurel",
-"https://secure.winred.com/laurel-lee-for-congress-inc/donate-today",
-"https://votelaurel.com/",
-"https://votelaurel.com/media-assets",
-"https://votelaurel.com/privacy-policy",
-"https://x.com/vote_laurel"
+{
+"text": "About Laurel",
+"href": "https://votelaurel.com/#about-laurel-lee"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/laurel-lee-for-congress-inc/donate-today"
+},
+{
+"text": "Gallery",
+"href": "https://votelaurel.com/#gallery"
+},
+{
+"text": "Join Team Lee",
+"href": "https://votelaurel.com/#signup-box"
+},
+{
+"text": "Laurel’s Record",
+"href": "https://votelaurel.com/#laurels-record"
+},
+{
+"text": "Media Assets",
+"href": "https://votelaurel.com/media-assets"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votelaurel.com/privacy-policy"
+},
+{
+"text": "[image: laurel-lee-logo][image: laurel-lee-logo][image: laurel-lee-logo][image: laurel-lee-logo]",
+"href": "https://votelaurel.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/VoteLaurel"
+},
+{
+"text": "[tooltip: X (Twitter)]",
+"href": "https://x.com/vote_laurel"
+}
 ]

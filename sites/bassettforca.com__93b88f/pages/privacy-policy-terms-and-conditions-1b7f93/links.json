@@ -1,10 +1,38 @@
 [
-"https://bassettforca.com/",
-"https://bassettforca.com/contact",
-"https://bassettforca.com/district-map",
-"https://bassettforca.com/endrosments",
-"https://bassettforca.com/issues",
-"https://bassettforca.com/meet-laura",
-"https://bassettforca.com/privacy-policy-terms-and-conditions",
-"https://secure.anedot.com/bassett-for-senate-2026/donate"
+{
+"text": "Contact",
+"href": "https://www.bassettforca.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/bassett-for-senate-2026/donate"
+},
+{
+"text": "District Map",
+"href": "https://www.bassettforca.com/district-map"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bassettforca.com/endrosments"
+},
+{
+"text": "Home",
+"href": "https://www.bassettforca.com"
+},
+{
+"text": "Issues",
+"href": "https://www.bassettforca.com/issues"
+},
+{
+"text": "Meet Laura",
+"href": "https://www.bassettforca.com/meet-laura"
+},
+{
+"text": "PRIVACY POLICY & TERMS AND CONDITIONS",
+"href": "https://www.bassettforca.com/privacy-policy-terms-and-conditions"
+},
+{
+"text": "info@bassettforca.com",
+"href": "mailto:info@bassettforca.com"
+}
 ]

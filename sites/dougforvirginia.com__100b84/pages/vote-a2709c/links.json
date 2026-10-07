@@ -1,25 +1,98 @@
 [
-"https://dougforvirginia.com/",
-"https://dougforvirginia.com/about",
-"https://dougforvirginia.com/contact",
-"https://dougforvirginia.com/district",
-"https://dougforvirginia.com/donate",
-"https://dougforvirginia.com/endorsements",
-"https://dougforvirginia.com/events",
-"https://dougforvirginia.com/issues",
-"https://dougforvirginia.com/news",
-"https://dougforvirginia.com/privacy",
-"https://dougforvirginia.com/terms",
-"https://dougforvirginia.com/volunteer",
-"https://dougforvirginia.com/vote",
-"https://elections.virginia.gov/casting-a-ballot/military-overseas",
-"https://facebook.com/profile.php?id=61578110845985",
-"https://instagram.com/dougollivant",
-"https://tiktok.com/@dougollivantva7th",
-"https://vote.elections.virginia.gov/Registration/DmvLookup",
-"https://vote.elections.virginia.gov/VoterInformation/Lookup/absentee",
-"https://vote.elections.virginia.gov/VoterInformation/Lookup/polling",
-"https://vote.elections.virginia.gov/VoterInformation/Lookup/status",
-"https://x.com/DouglasOllivant",
-"https://youtube.com/@DougforVirginia"
+{
+"text": "Apply to Vote Absentee by Mail",
+"href": "https://vote.elections.virginia.gov/VoterInformation/Lookup/absentee"
+},
+{
+"text": "Check Voter Registration Status",
+"href": "https://vote.elections.virginia.gov/VoterInformation/Lookup/status"
+},
+{
+"text": "Contact",
+"href": "https://www.dougforvirginia.com/contact/"
+},
+{
+"text": "District",
+"href": "https://www.dougforvirginia.com/district/"
+},
+{
+"text": "Donate",
+"href": "https://www.dougforvirginia.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.dougforvirginia.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.dougforvirginia.com/events/"
+},
+{
+"text": "Find Your Voting Location",
+"href": "https://vote.elections.virginia.gov/VoterInformation/Lookup/polling"
+},
+{
+"text": "Home",
+"href": "https://www.dougforvirginia.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.dougforvirginia.com/issues/"
+},
+{
+"text": "Meet Doug",
+"href": "https://www.dougforvirginia.com/about/"
+},
+{
+"text": "Military & Overseas Voting",
+"href": "https://www.elections.virginia.gov/casting-a-ballot/military-overseas/"
+},
+{
+"text": "News",
+"href": "https://www.dougforvirginia.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.dougforvirginia.com/privacy/"
+},
+{
+"text": "Register to Vote",
+"href": "https://vote.elections.virginia.gov/Registration/DmvLookup"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.dougforvirginia.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dougforvirginia.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.dougforvirginia.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://www.dougforvirginia.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61578110845985"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/dougollivant"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@dougollivantva7th"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@DougforVirginia"
+},
+{
+"text": "[image]",
+"href": "https://x.com/DouglasOllivant"
+}
 ]

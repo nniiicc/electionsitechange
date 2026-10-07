@@ -1,5 +1,3 @@
-Together we can build a stronger Oklahoma for generations to come.
+Click here to find your polling location Home Meet Emily Top Priorities District Map The Campaign Trail Offer Support More Home Meet Emily Top Priorities District Map The Campaign Trail Offer Support Home Meet Emily Top Priorities District Map The Campaign Trail Offer Support The Campaign Trail Support the Campaign Together we can build a stronger Oklahoma for generations to come.
 Join us in making a positive impact and invest in Emily Gise's campaign today!
-Paid for by Emily Gise for State House 2024
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Learn more Paid for by Emily Gise for State House 2024

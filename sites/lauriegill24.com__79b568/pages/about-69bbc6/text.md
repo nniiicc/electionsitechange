@@ -1,5 +1,4 @@
-learn about laurie
-Laurie and her husband Bob moved to Pierre in 1991 with their four children.
+0 Skip to Content About Priorities Contact Donate Open Menu Close Menu About Priorities Contact Donate Open Menu Close Menu About Priorities Contact Donate learn about laurie Laurie and her husband Bob moved to Pierre in 1991 with their four children.
 While Laurie served the state in leadership roles, Bob taught Computer Sciences at Riggs High School.
 Along with her elected and state government roles, the Gills have been active in United Way, Pierre Kiwanis, and First United Methodist Church in-between enjoying their seven grandchildren.
 First elected Mayor in 2008, Laurie served three terms after being re-elected in both 2011 and 2014.
@@ -11,3 +10,4 @@ Prior to that, she held numerous other leadership positions within state governm
 Laurie has served on several community group boards including the Pierre Area Chamber of Commerce, Capital University Center, South Dakota Municipal League, the South Dakota Retirement System Board, the United Way, and the Capitol Complex Restoration and Beautification Commission.
 A proud graduate of SDSU, Laurie earned a Commercial Economics degree.
 She currently advises clients as a management consultant for Maxwell Strategies in Pierre.
+Paid for by Friends of Laurie Gill Terms & Conditions Privacy Policy

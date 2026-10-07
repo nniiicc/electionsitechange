@@ -1,6 +1,2 @@
-Back to All Events
-Come to Mapa’s Boli, treat yourself to a slice, and meet the candidate!
-Check out the menu here: https://mapasboli.com
-Next
-Next
-July 4
+0 Skip to Content Priorities & Values Events Blog Donate Open Menu Close Menu Priorities & Values Events Blog Donate Open Menu Close Menu Priorities & Values Events Blog Donate Back to All Events Meet Missy at Mapa's Boli Wednesday, July 1, 2026 6:00 PM 8:00 PM Mapa's Boli 2535 South Queen Street York, Pennsylvania, 17402 United States (map) Google Calendar ICS Come to Mapa’s Boli, treat yourself to a slice, and meet the candidate!
+Check out the menu here: https://mapasboli.com Next Next July 4 New Freedom Lion's Club 4th of July Parade Paid for by BarnesForPA93 Made with Squarespace

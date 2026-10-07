@@ -1,4 +1,4 @@
-Early voting is a convenient way to participate on your schedule.
+0 Skip to Content Meet the Candidate News and Resources Ways to Give Issues Calendar Shop Contact DONATE Open Menu Close Menu Open Menu Close Menu Meet the Candidate News and Resources Ways to Give Issues Calendar Shop Contact DONATE Meet the Candidate News and Resources Ways to Give Issues Calendar Shop Contact DONATE Back to All Events Early Voting in North Carolina Thursday, February 12, 2026 8:00 AM Saturday, February 28, 2026 7:00 PM Google Calendar ICS Early voting is a convenient way to participate on your schedule.
 By voting early, you can avoid long lines and ensure your voice is heard.
 Make a plan, know your options, and take part during the early voting period.
 What is early voting?
@@ -11,4 +11,14 @@ Where can I vote early?
 Early voting locations vary by county.
 Check your local board of elections or official election website to find a location near you.
 When does early voting take place?
-Early voting runs from Thursday, February 12 through February 28.
+Early voting runs from Thursday, February 12 through February 28 .
+Find Your Early Voting Location in North Carolina Posted In: Burke County , Polk County , Mecklenburg County , Rutherford County , Cleveland County , Voting , Gaston County Previous Previous February 11 Democratic Women of Mecklenburg County Monthly Meeting Next Next February 12 Social Justice Ministry of Friendship Missionary Baptist Church Primary Election Forum Paid for by the Committee to Elect LaKesha Womack.
+All Rights Reserved.
+Privacy Policy.
+Donate Today!
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay Up to Date with the Campaign Sign up with your email address to receive news and updates from the Campaign to Elect LaKesha Womack to North Carolina’s 14th Congressional District.
+First Name Last Name Email Address Join Us We respect your privacy.
+Thank you!
+We look forward to hearing from you and meeting you on the campaign trail.

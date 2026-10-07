@@ -1,8 +1,10 @@
 {
  "description": "Learn about Trish La Chica, State Representative for Hawaii District 37. 15+ years in public policy, housing, health, and community advocacy in Mililani and Waipio Gentry.",
  "final_url": "https://trishlachica.com/about",
+ "fingerprint": "e4d008eb6d0f1622a0b4801b5006710296723f56",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Trish La Chica PO Box 893921, Mililani, HI 96789 Powered by Pixeloha Apps",
- "title": "About Trish La Chica \u2014 State Representative District 37",
+ "title": "About Trish La Chica — State Representative District 37",
  "years_mentioned": [
   "2015",
   "2018",
@@ -10,6 +12,7 @@
   "2021",
   "2022",
   "2023",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

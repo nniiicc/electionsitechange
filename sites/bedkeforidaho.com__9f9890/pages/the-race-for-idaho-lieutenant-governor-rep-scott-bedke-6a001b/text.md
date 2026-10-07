@@ -1,4 +1,5 @@
-BOISE, Idaho — In six weeks, on Tuesday, November 8, voters Idaho will head to the polls in the general election to decide on who they want to represent them in key federal and state offices.
+Skip to content About Issues News Volunteer Contact Endorsements About Issues News Volunteer Contact Endorsements Donate The race for Idaho lieutenant governor: Rep.
+Scott Bedke September 26, 2022 https://www.ktvb.com/article/news/local/viewpoint/the-race-for-idaho-lieutenant-governor-part-1-scott-bedke/277-e810c46e-a483-4364-82df-30a5244afa8d (LINK) BOISE, Idaho — In six weeks, on Tuesday, November 8, voters Idaho will head to the polls in the general election to decide on who they want to represent them in key federal and state offices.
 The next two Viewpoints are focusing on one of the big races here in Idaho; the race for lieutenant governor between longtime Speaker of the House, Republican Representative Scott Bedke of Oakley, and Democrat Terri Pickens Manweiler of Boise.
 Pickens Manweiler will be the guest on Viewpoint Sunday, October 2.
 She is an attorney who says she is running because she believes it’s time for change in Idaho.
@@ -21,3 +22,12 @@ There’s nothing special about a state legislator other than we’re in a posit
 We’re in a position to solve problems.
 I have a proven track record of being able to mediate complicated issues and bring people together and I think that’s what the office of the lieutenant governor needs to be.
 Speaker Bedke also discusses his priorities and his stances on Idaho’s strict new anti-abortion law and the 410-million dollars in public education funding the legislature approved in the recent special session.
+Share This Story Facebook Twitter Prev Op-Ed: House Speaker Scott Bedke’s take on Operation Esto Perpetua, fentanyl in Idaho Lt.
+Governor Scott Bedke Announces Re-Election Campaign Next Social Media Facebook Instagram Join The Campaign " * " indicates required fields Name * First Last Email * Phone Consent * By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, marketing, polling, donation requests, event reminders) from (Scott Bedke for Idaho) at the number provided, including messages sent by autodialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy * Home About Issues News Volunteer Contact Donate Privacy Policy Home About Issues News Volunteer Contact Donate Privacy Policy Paid for by Bedke for Idaho.
+Margie Watson Treasurer.

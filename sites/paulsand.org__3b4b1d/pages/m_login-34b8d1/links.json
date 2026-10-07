@@ -1,10 +1,42 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://paulsand.org/",
-"https://paulsand.org/about-me",
-"https://paulsand.org/contact-me",
-"https://paulsand.org/gallery",
-"https://paulsand.org/m/account",
-"https://paulsand.org/m/create-account",
-"https://paulsand.org/yard-sale-pictures"
+{
+"text": "About Me",
+"href": "https://paulsand.org/about-me"
+},
+{
+"text": "Contact Me",
+"href": "https://paulsand.org/contact-me"
+},
+{
+"text": "Create Account",
+"href": "https://paulsand.org/m/create-account"
+},
+{
+"text": "Create account.",
+"href": "https://paulsand.org/m/create-account"
+},
+{
+"text": "Gallery",
+"href": "https://paulsand.org/gallery"
+},
+{
+"text": "Home",
+"href": "https://paulsand.org/"
+},
+{
+"text": "My Account",
+"href": "https://paulsand.org/m/account"
+},
+{
+"text": "Sign In",
+"href": "https://paulsand.org/m/account"
+},
+{
+"text": "Yard Sale Pictures",
+"href": "https://paulsand.org/yard-sale-pictures"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

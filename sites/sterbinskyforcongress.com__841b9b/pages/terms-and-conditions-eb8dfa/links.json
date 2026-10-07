@@ -1,12 +1,58 @@
 [
-"https://facebook.com/WixStudio",
-"https://instagram.com/wixstudio",
-"https://sterbinskyforcongress.com/",
-"https://sterbinskyforcongress.com/blank-1",
-"https://sterbinskyforcongress.com/privacy-policy",
-"https://sterbinskyforcongress.com/terms-and-conditions",
-"https://support.wix.com/en/article/creating-a-terms-and-conditions-policy",
-"https://tiktok.com/@wix",
-"https://twitter.com/WixStudio",
-"https://youtube.com/@WixStudio"
+{
+"text": "Accessibility Statement",
+"href": "https://www.sterbinskyforcongress.com"
+},
+{
+"text": "Contact",
+"href": "https://www.sterbinskyforcongress.com"
+},
+{
+"text": "Creating a Terms and Conditions Policy",
+"href": "https://support.wix.com/en/article/creating-a-terms-and-conditions-policy"
+},
+{
+"text": "Endorsers",
+"href": "https://www.sterbinskyforcongress.com/blank-1"
+},
+{
+"text": "Info@SterbinskyforCongress.com",
+"href": "mailto:Info@SterbinskyforCongress.com"
+},
+{
+"text": "Policy",
+"href": "https://www.sterbinskyforcongress.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sterbinskyforcongress.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.sterbinskyforcongress.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sterbinskyforcongress.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wixstudio/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@wix"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/WixStudio"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@WixStudio"
+}
 ]

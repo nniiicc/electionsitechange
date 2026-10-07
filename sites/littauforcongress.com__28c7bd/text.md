@@ -1,7 +1,3 @@
-FAITH HOPE FAMILY FREEDOM
-- Legislative Reform +Cut Excessive Regulation +Support Local Control +Require Responsible Spending
-- Immigration Reform +End the Chaos & Find Solutions- +Modernize Citizenship Requirements
-- Protect Parental Rights +Parental Bill of Rights +"My Kid, My Call" No Mandates
-- Shield the Vulnerable +Stop the Predators +Stronger Deterrents +Support Law Enforcement
-- Defend the Constitution +Protect Citizen Rights
-- Support Small Businesses +Less Rules/More Revenue
+top of page Home Endorsements About Beliefs Video's Events Biography More Use tab to navigate through the menu items.
+Littau For Congress Be The Change Be The Change Be The Change Be The Change FAITH HOPE FAMILY FREEDOM Legislative Reform +Cut Excessive Regulation +Support Local Control +Require Responsible Spending Immigration Reform +End the Chaos & Find Solutions- +Modernize Citizenship Requirements ​ Protect Parental Rights +Parental Bill of Rights +"My Kid, My Call" No Mandates ​ ​ Shield the Vulnerable +Stop the Predators +Stronger Deterrents +Support Law Enforcement ​ Defend the Constitution +Protect Citizen Rights ​ Support Small Businesses +Less Rules/More Revenue Candidacy Video internal Play Video Contact Information littauforcongress@gmail.com © # by Littau For Congress.
+Powered and secured by Wix bottom of page

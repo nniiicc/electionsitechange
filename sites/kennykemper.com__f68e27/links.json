@@ -1,5 +1,14 @@
 [
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/kemperwebsite"
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/kemperwebsite"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+}
 ]

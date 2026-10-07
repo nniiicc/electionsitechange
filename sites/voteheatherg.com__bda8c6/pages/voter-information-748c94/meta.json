@@ -1,7 +1,9 @@
 {
  "description": "Find voter information including: Election Dates, Registration Information, and Assembly District 27 details.",
  "final_url": "https://www.voteheatherg.com/voter-information/",
- "paid_for_by": "Paid for by Friends of Heather Goulding, Reno, NV 89503 | heather@voteheatherg",
+ "fingerprint": "35056c926ba117c75786e31eaec31a87c295b973",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Heather Goulding, Reno, NV 89503",
  "title": "Nevada Assembly District 27 Voter Information 2024",
  "years_mentioned": [
   "2026"

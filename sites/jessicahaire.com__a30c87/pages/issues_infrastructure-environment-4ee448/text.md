@@ -1,5 +1,4 @@
-Infrastructure & Environment
-Protecting the Chesapeake Bay and investing in resilient infrastructure without burdening working families.
+Meet Jessica Record Issues Community Connections Volunteer Request a Yard Sign Contribute All Issues Issue Infrastructure & Environment Protecting the Chesapeake Bay and investing in resilient infrastructure without burdening working families.
 Senate District 30 is fortunate to border the Chesapeake Bay, Maryland's greatest natural resource, and we have a responsibility to be good stewards of it.
 Protecting our environment and improving our infrastructure should go hand in hand, without placing unnecessary burdens on working families.
 During my time on the County Council, I focused on real, results-driven solutions that improve water quality, protect public health, and make smart investments in our future.
@@ -11,3 +10,6 @@ My legislation allowed homeowners to defer costly sewer connection payments, ena
 Looking ahead, we must continue investing in infrastructure that makes our communities more resilient.
 That includes exploring ways to bury power lines in vulnerable areas, helping prevent outages during storms and ensuring families and businesses aren't left in the dark when severe weather hits.
 This is the kind of approach I believe in - protecting our environment, strengthening our infrastructure, and improving quality of life, all while respecting taxpayers.
+Previous Issue Affordability Next Issue Agriculture Meet Jessica Record Issues Why I'm Running Get in Touch ElectJessicaHaire@gmail.com Want to share your ideas directly?
+I'd love to talk!
+Schedule a Meeting By authority: Friends of Jessica Haire; Kelly Rosenthal, Treasurer

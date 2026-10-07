@@ -1,10 +1,62 @@
 [
-"https://facebook.com/whiting4liberty",
-"https://instagram.com/mrswhiting10",
-"https://whiting4senate.us/",
-"https://whiting4senate.us/donate",
-"https://whiting4senate.us/privacy-policy-2",
-"https://whiting4senate.us/privacy-policy-2-2",
-"https://whiting4senate.us/website-terms-and-conditions",
-"https://x.com/BemidjiReBecca"
+{
+"text": "Back to home",
+"href": "https://whiting4senate.us/"
+},
+{
+"text": "Donate",
+"href": "https://whiting4senate.us/donate/"
+},
+{
+"text": "Home",
+"href": "https://whiting4senate.us"
+},
+{
+"text": "Home",
+"href": "https://whiting4senate.us/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://whiting4senate.us/privacy-policy-2-2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://whiting4senate.us/privacy-policy-2/"
+},
+{
+"text": "Rebecca Whiting for U.S. Senate",
+"href": "https://whiting4senate.us/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://whiting4senate.us/website-terms-and-conditions/"
+},
+{
+"text": "Website Privacy Policy",
+"href": "https://whiting4senate.us/privacy-policy-2-2/"
+},
+{
+"text": "[image: Footer Logo]",
+"href": "https://whiting4senate.us/"
+},
+{
+"text": "[image: Site Logo]",
+"href": "https://whiting4senate.us/"
+},
+{
+"text": "[tooltip: Follow Us on Facebook]",
+"href": "https://www.facebook.com/whiting4liberty"
+},
+{
+"text": "[tooltip: Follow Us on Instagram]",
+"href": "https://www.instagram.com/mrswhiting10/"
+},
+{
+"text": "[tooltip: Follow Us on Twitter]",
+"href": "https://x.com/BemidjiReBecca"
+},
+{
+"text": "info@whiting4senate.us",
+"href": "mailto:info@whiting4senate.us"
+}
 ]

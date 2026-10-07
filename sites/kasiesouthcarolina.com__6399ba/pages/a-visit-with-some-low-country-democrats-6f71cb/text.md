@@ -1,13 +1,12 @@
-Monday, July 21st, I participated in a candidate forum hosted by 50501 and Indivisible and held in Lincolnville, South Carolina.
-A couple of interesting notes:
-- The location was one of the Rosenwald Schools, built by Booker T.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now Candidate Forum with 50501 Monday, July 21st, I participated in a candidate forum hosted by 50501 and Indivisible and held in Lincolnville, South Carolina.
+A couple of interesting notes: The location was one of the Rosenwald Schools , built by Booker T.
 Washington and Julius Rosenwald, philanthropist and president of Sears Roebuck.
 The schools’ purpose was to educate black children after emancipation.
 Some 5000 such schools were built and operated across the South.
 It’s a great example of philanthropy voluntarily meeting the needs of a community as opposed to the coercive efforts of government intervention.
-- The event planners invited all candidates who have declared for the US Senate race including the incumbent, Republican Lindsey Graham.
+The event planners invited all candidates who have declared for the US Senate race including the incumbent, Republican Lindsey Graham.
 No Republicans attended.
-- Questions were submitted by registrants.
+Questions were submitted by registrants.
 Speaking at the 50501 forum in Lincolnville was fun.
 Forums aren’t debates so there wasn’t much opportunity to respond to the other candidates.
 I did enjoy meeting everyone and wish them all the best in the primaries.
@@ -22,7 +21,7 @@ If you want to hear the verbatim, check out this link to the live stream of the 
 There was also this news story about the event.
 And on The Afternoon Drive on 100.7 The Point on Wednesday, July 23rd, I talked through these topics.
 Here’s a link to that audio.
-What is the biggest problem facing education today and what can be done about it?
+100.7 The Point is local talk radio in Columbia, S.C. listen live at makethepointradio.com What is the biggest problem facing education today and what can be done about it?
 While the other five in the panel recommended spending more money on the current system, I told them the system itself is the problem.
 Apathy is the biggest problem in education, and that may not be the right word, but lack of enthusiasm is a sickness.
 We have systemized the joy out of learning.
@@ -38,7 +37,7 @@ Start with the teachers and work your way back, slim the administrative side, st
 Education is an intentional effort that must evolve to meet the needs of the society it serves.
 At all levels of education, we have lost the plot.
 I once blogged on this topic for UnapologeticallyX.
-Check out some of those ideas and observations here.
+Check out some of those ideas and observations here .
 What obligation or ability do you have to protect workers and ensure livable wages?
 We have a perception problem in this country.
 What should people be able to afford and when and why are they able?
@@ -73,6 +72,11 @@ I plan to earn all one million votes.
 Here’s an old blog about alternative party voting.
 Here’s the second hour of The Afternoon Drive where I fielded phone calls and my good friend, Casey Crowe, joined me in the studio.
 We always get some good calls and I’ve been grateful for the opportunity to answer questions spontaneously as calls are never screened.
+The Afternoon Drive is on 100.7 The Point every day from 4-7 pm but I only host occasionally.
+To hear me on the radio regularly, tune in to Mornings with Kasie and Kev from 7-9 am or Write On SC Saturdays at 9 am.
 Ready to get in the game?
 We could use your help.
 Click here to sign up.
+One Response Pingback: No Kings Faceplant – Kasie South Carolina Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

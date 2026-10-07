@@ -1,4 +1,4 @@
-[January 14, 2024] | The 2024 legislative session is underway.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK THE 2024 LEGISLATIVE SESSION IS UNDERWAY [ January 14, 2024 ] | The 2024 legislative session is underway.
 The first week of session is pretty slow, everyone and committees getting organized, and lawyers in our legislative counsel's office writing bills for members to drop, for consideration by the appropriate committee.
 Most of the talk was about the budget and waiting for Governor Kemp to come and tell us what his thoughts were and to show us his budget.
 Governor Kemp did that this week at his speech to the Eggs and Issues meeting with 2000 Chamber members and at the State of the State Address in a Joint meeting with the Senate in our House Chambers.
@@ -26,3 +26,4 @@ I encourage you to visit me at my Capitol office, or call me if you have any que
 My Capitol office number is 404-656-7153.
 My email is rick.jasperse@house.ga.gov.
 As always, thank you for allowing me to serve as your State Representative.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

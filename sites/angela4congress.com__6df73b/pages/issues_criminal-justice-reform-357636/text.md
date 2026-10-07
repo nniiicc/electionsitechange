@@ -1,8 +1,2 @@
-Angela believes in
-Criminal Justice Reform
-Angela's background helping formerly incarcerated individuals access higher education shapes her approach: reduce recidivism, invest in community-led prevention, and stop treating public safety as separate from economic opportunity.
-- Secure federal funding for local initiatives like LA's Office of Community Beautification's Graffiti Abatement program and Beautify LA Grant
-- Invest in youth gang-prevention education curriculum
-- Prioritize working directly with community organizations already doing restorative justice and crime-prevention work, and build federal policy around what they've learned
-- Make higher education a pathway to rehabilitation and opportunity
-- End for-profit prisons and detention camps
+Skip navigation menu About Issues Endorsements Volunteer Donate About Issues Endorsements Volunteer Donate Money Out of Politics Housing for All Economic Dignity & Security Healthcare for All Tax the Rich, Not the Rest of Us Climate Action Now Education & Youth Empowerment Abolish ICE & Immigration Justice Pro-Peace Foreign Policy Stand Up to Big AI Criminal Justice Reform Supreme Court Reform Hold the Trump Administration Accountable Protect and Strengthen Democracy Angela believes in Criminal Justice Reform Angela's background helping formerly incarcerated individuals access higher education shapes her approach: reduce recidivism, invest in community-led prevention, and stop treating public safety as separate from economic opportunity.
+Secure federal funding for local initiatives like LA's Office of Community Beautification's Graffiti Abatement program and Beautify LA Grant Invest in youth gang-prevention education curriculum Prioritize working directly with community organizations already doing restorative justice and crime-prevention work, and build federal policy around what they've learned Make higher education a pathway to rehabilitation and opportunity End for-profit prisons and detention camps Media Powered by RUN! website builder Paid for by Angela for CA-34 You need to enable JavaScript to run this app.

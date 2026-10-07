@@ -1,6 +1,4 @@
-Daniel Darris-O'Connor | On the issues
-SUPPORTING OUR VETERANS
-The men and women who served this country deserve more than a thank you.
+Skip navigation menu Meet Daniel Platform Endorsements Get Involved Request a Yard Sign Donate Meet Daniel Platform Endorsements Get Involved Request a Yard Sign Donate EDUCATION AND WORKFORCE DEVELOPMENT GOVERNMENT REFORM & TRANSPARENCY FIGHT FOR EVERY DOLLAR OUR TOWN DESERVES TAX RELIEF FOR BILLERICA FAMILIES LOWERING ENERGY COSTS CUTTING THE RED TAPE PROTECT YOUR FUNDAMENTAL RIGHTS SUPPORTING OUR VETERANS INFRASTRUCTURE & TRANSPORTATION AGING WITH DIGNITY Daniel Darris-O'Connor | On the issues SUPPORTING OUR VETERANS The men and women who served this country deserve more than a thank you.
 They deserve a government that shows up for them.
 Massachusetts has a responsibility to ensure every veteran who calls this state home has access to the support, opportunities, and resources they have earned.
 No veteran should ever be homeless.
@@ -12,4 +10,4 @@ I will fight to expand access to mental health services and support systems spec
 Accessing the benefits veterans have earned should never feel like navigating a bureaucratic maze.
 I will push to cut red tape and streamline the process so Massachusetts veterans can access the benefits and services they are owed without unnecessary delays or barriers.
 Finally, when the state spends taxpayer dollars, veteran-owned businesses should have a fair shot to compete and succeed.
-I support policies that create more opportunity for veteran entrepreneurs and help honor their service through meaningful economic opportunity.
+I support policies that create more opportunity for veteran entrepreneurs and help honor their service through meaningful economic opportunity. campaign@danieldarrisoconnor.com Powered by RUN! website builder Paid for by Committee to Elect Daniel Darris-O'Connor You need to enable JavaScript to run this app.

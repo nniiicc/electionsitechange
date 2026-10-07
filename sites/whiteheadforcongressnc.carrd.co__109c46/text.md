@@ -1,4 +1,4 @@
-Bo has lived in Charlotte North Carolina for 3 years, moving there from rural Georgia.
+INSTAGRAM DONATE Bo has lived in Charlotte North Carolina for 3 years, moving there from rural Georgia.
 He has been happily married for 8 years and has been the main caregiver for his wife since then, due to the fact that she is permanently disabled from a vicious attack that left her in a coma for two weeks and resulted in 13 brain surgeries.
 After getting married, they found out that she was no longer "eligible" for SSI benefits and they were all stripped from her.
 Not only that, but the government then demanded repayment of all funds paid since their marriage date.
@@ -6,14 +6,16 @@ It was at this moment that Bo truly realized that the system wasn’t just broke
 This was something he had often thought of in theory but was now living.
 This began a long journey of self-reflection and education on the underlying causes of oppression.
 Ultimately leading to the conclusion that a system by and for the people was the only true way.
-And that the resources in this country should be reallocated towards building communities instead of filling the pockets of billionaires.Bo grew up homeschooled on a small farm in Georgia where he learned hard work and the basic skills necessary to keep things running.
+And that the resources in this country should be reallocated towards building communities instead of filling the pockets of billionaires.
+Bo grew up homeschooled on a small farm in Georgia where he learned hard work and the basic skills necessary to keep things running.
 It was a modest operation where his family raised goats, chickens, cows, and rabbits and sold them at auctions.
 His family ran a Jewelry store which opened right as the great recession started in 2008, resulting in its untimely shutdown two years later.
 Here he learned customer service and sales skills that still come in handy to this day.
 After that he worked almost every job you can imagine, working as a custodian at a college, gas station attendant, deli worker, auto parts representative/delivery driver, dump truck driver working in chalk mines, Hazardous chemical transport expert and trainer, shipping loader, Loss Prevention Agent, and now working as a supervisor in a warehouse.
 So, if you want a representative that is relatable, you just found one.
 Bo works hard and knows how to get things done.
-He would much rather work to fix something than complain about it, and that’s exactly what he will do if he is elected.On day one his priority will be introducing legislation on important issues that matter to people, instead of grandstanding for hours on end in some kind of filibuster spectacle.
+He would much rather work to fix something than complain about it, and that’s exactly what he will do if he is elected.
+On day one his priority will be introducing legislation on important issues that matter to people, instead of grandstanding for hours on end in some kind of filibuster spectacle.
 Raising the minimum wage, universal healthcare, abolishing ICE, ending wars, legalizing marijuana, prison reform, exposing corruption, combating human trafficking and exploitation, ending foreign aid, and ending genocides around the world to only name a few issues.
 1.
 Human trafficking and exploitation are possibly the biggest issues on the planet, considering that 50 million people worldwide currently live under some form of slavery.

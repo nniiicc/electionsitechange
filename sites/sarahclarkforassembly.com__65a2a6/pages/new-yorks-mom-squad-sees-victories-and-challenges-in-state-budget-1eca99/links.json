@@ -1,20 +1,74 @@
 [
-"https://facebook.com/sarahclarkny",
-"https://instagram.com/votesarahclark",
-"https://sarahclarkforassembly.com/",
-"https://sarahclarkforassembly.com/about-sarah",
-"https://sarahclarkforassembly.com/category/inthenews",
-"https://sarahclarkforassembly.com/contact",
-"https://sarahclarkforassembly.com/issues",
-"https://sarahclarkforassembly.com/media",
-"https://sarahclarkforassembly.com/mom-squad-focuses-on-mother-child-funding-policies-in-nys-legislature",
-"https://sarahclarkforassembly.com/subscribe",
-"https://sarahclarkforassembly.com/tag/child-care",
-"https://sarahclarkforassembly.com/tag/healthcare",
-"https://sarahclarkforassembly.com/tag/maternity",
-"https://sarahclarkforassembly.com/volunteer",
-"https://sarahclarkforassembly.com/vote",
-"https://sarahclarkforassembly.com/west-irondequoit-pre-k-program-gets-1m-in-funding",
-"https://secure.actblue.com/donate/votesarah",
-"https://spectrumlocalnews.com/nys/central-ny/politics/2024/05/22/mom-squad-reflects-on-budget"
+{
+"text": "About Sarah",
+"href": "https://sarahclarkforassembly.com/about-sarah/"
+},
+{
+"text": "Contact",
+"href": "https://sarahclarkforassembly.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesarah"
+},
+{
+"text": "In The News",
+"href": "https://sarahclarkforassembly.com/category/inthenews/"
+},
+{
+"text": "Issues",
+"href": "https://sarahclarkforassembly.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://sarahclarkforassembly.com/media/"
+},
+{
+"text": "Spectrum News 1",
+"href": "https://spectrumlocalnews.com/nys/central-ny/politics/2024/05/22/mom-squad-reflects-on-budget"
+},
+{
+"text": "Subscribe",
+"href": "https://sarahclarkforassembly.com/subscribe/"
+},
+{
+"text": "Volunteer",
+"href": "https://sarahclarkforassembly.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://sarahclarkforassembly.com/vote/"
+},
+{
+"text": "West Irondequoit pre-k program gets $1m in funding",
+"href": "https://sarahclarkforassembly.com/west-irondequoit-pre-k-program-gets-1m-in-funding/"
+},
+{
+"text": "[image: Sarah Clark for New York State Assembly]",
+"href": "https://sarahclarkforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sarahclarkny/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votesarahclark/"
+},
+{
+"text": "child care",
+"href": "https://sarahclarkforassembly.com/tag/child-care/"
+},
+{
+"text": "healthcare",
+"href": "https://sarahclarkforassembly.com/tag/healthcare/"
+},
+{
+"text": "maternity",
+"href": "https://sarahclarkforassembly.com/tag/maternity/"
+},
+{
+"text": "‘Mom Squad’ focuses on mother/child funding, policies in NYS legislature",
+"href": "https://sarahclarkforassembly.com/mom-squad-focuses-on-mother-child-funding-policies-in-nys-legislature/"
+}
 ]

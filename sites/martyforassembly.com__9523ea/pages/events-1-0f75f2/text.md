@@ -1,6 +1,5 @@
-Early Voting Information
-This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-PO Box 1768 Fond DU Lac, WI 54936-1768
-+1.9202669018
-Copyright © 2026 Marty for Assembly - All Rights Reserved.
-Paid for by Marty for Assembly
+Early Voting Information Marty for Assembly-60th AD Marty for Assembly-60th AD Marty for Assembly-60th AD Marty for Assembly-60th AD Home About Issues Make a contribution Endorsements In the News Events Contact Gallery Early Voting Information More Home About Issues Make a contribution Endorsements In the News Events Contact Gallery Early Voting Information Marty for Assembly-60th AD Marty for Assembly-60th AD Marty for Assembly-60th AD Marty for Assembly-60th AD EARLY VOTING INFO Home About Issues Make a contribution Endorsements In the News Events Contact Gallery Early Voting Information EARLY VOTING INFO Campaign Kickoff May 21st Download PDF RSVP FOR KICKOFF MAY 21st Let us know that you are attending Name Email* Phone How many plan attend?
+Contribution Level Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+See you on the 21st!
+Marty for Assembly PO Box 1768 Fond DU Lac, WI 54936-1768 +1.9202669018 Copyright © # Marty for Assembly - All Rights Reserved.
+Paid for by Marty for Assembly Home

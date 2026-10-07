@@ -1,20 +1,94 @@
 [
-"https://donald4delegate.com/",
-"https://donald4delegate.com/about",
-"https://donald4delegate.com/contact",
-"https://donald4delegate.com/copy-of-get-involved",
-"https://donald4delegate.com/data-centers",
-"https://donald4delegate.com/endorsements",
-"https://donald4delegate.com/event-list",
-"https://donald4delegate.com/get-involved",
-"https://donald4delegate.com/news",
-"https://donald4delegate.com/platform",
-"https://donald4delegate.com/request-a-yard-sign",
-"https://donald4delegate.com/tax-timeline",
-"https://donald4delegate.com/timeline",
-"https://donald4delegate.com/volunteer",
-"https://facebook.com/profile.php?id=61580668326464",
-"https://instagram.com/donald4delegate",
-"https://secure.actblue.com/donate/jerrydonald",
-"https://voterservices.elections.maryland.gov/votersearch"
+{
+"text": "ABOUT JERRY",
+"href": "https://www.donald4delegate.com/about"
+},
+{
+"text": "ARTICLES",
+"href": "https://www.donald4delegate.com/news"
+},
+{
+"text": "CONTACT",
+"href": "https://www.donald4delegate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jerrydonald"
+},
+{
+"text": "Delegate",
+"href": "https://www.donald4delegate.com"
+},
+{
+"text": "Donate Online",
+"href": "https://secure.actblue.com/donate/jerrydonald"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.donald4delegate.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.donald4delegate.com/event-list"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.donald4delegate.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.donald4delegate.com"
+},
+{
+"text": "Jerry Donald for District 4",
+"href": "https://www.donald4delegate.com"
+},
+{
+"text": "MEET JERRY",
+"href": "https://www.donald4delegate.com/copy-of-get-involved"
+},
+{
+"text": "Mail",
+"href": "https://www.donald4delegate.com/contact"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.donald4delegate.com/platform"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://www.donald4delegate.com/request-a-yard-sign"
+},
+{
+"text": "Register to vote or check your voter registration status in Frederick County",
+"href": "https://voterservices.elections.maryland.gov/votersearch"
+},
+{
+"text": "TAX VOTE RECORD",
+"href": "https://www.donald4delegate.com/tax-timeline"
+},
+{
+"text": "TIMELINE",
+"href": "https://www.donald4delegate.com/timeline"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.donald4delegate.com/volunteer"
+},
+{
+"text": "VOTING RECORD",
+"href": "https://www.donald4delegate.com/data-centers"
+},
+{
+"text": "YARD SIGNS",
+"href": "https://www.donald4delegate.com/request-a-yard-sign"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61580668326464"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/donald4delegate/"
+}
 ]

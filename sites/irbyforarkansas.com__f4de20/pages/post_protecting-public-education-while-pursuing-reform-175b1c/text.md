@@ -1,11 +1,8 @@
-Protecting Public Education While Pursuing Reform
-Updated: Jul 13, 2025
-Recently, a constituent asked me where I stand on the LEARNS Act and the Education Freedom Accounts (EFAs) that followed.
+top of page Contact Donate NEWS & INSIGHTS PRESS RELEASE ANNOUNCEMENTS PERSONAL REFLECTIONS BEHIND THE PLATFORM EVENTS UPCOMING EVENTS INVITE JOSHUA TO YOUR EVENT ABOUT ME MY VALUES MY CIVIC BELIEF MY PLEDGE WHERE I STAND PRO-LOCAL CONTROL PRO-FREEDOM & RESPONSIBILITY PRO-INFRASTRUCTURE GROWTH PRO-2ND AMENDMENT PRO-QUALITY EDUCATION PRO-FAIR ELECTIONS AFP-AR CANDIDATE SURVEY REAL SOLUTIONS Civic Education Act Ballot Measure Rights Amendment Fair & Open Primaries Act Infrastructure Investment & Renewal Act Job Creation & Retention Tax Credit Act Parental Responsibility Act Criminal Firearm Law Enforcement Act Arkansas Firearm Safety Funding Act Health Transparency & Choice Act VOTE VOTER REGISTRATION EARLY VOTING ELECTION DAY All News & Updates Press Release Announcements Personal Reflections Behind the Platform Search Protecting Public Education While Pursuing Reform Jul 3, 2025 3 min read Updated: Jul 13, 2025 Recently, a constituent asked me where I stand on the LEARNS Act and the Education Freedom Accounts (EFAs) that followed.
 It’s a fair and important question—one that many Arkansans are asking.
 At the heart of it, my response is this: I’m neither completely for nor completely against these policies.
 There are parts that I believe are positive steps forward, and others that raise serious concerns about the long-term impact on our public schools, our state budget, and our constitutional obligations.
-What’s Working: Valuing Teachers and Building Literacy
-There are areas of the LEARNS Act that deserve genuine support.
+What’s Working: Valuing Teachers and Building Literacy There are areas of the LEARNS Act that deserve genuine support.
 Raising the minimum teacher salary to $50,000, offering bonuses for veteran educators, and providing performance-based incentives are meaningful ways to show that Arkansas values its teachers.
 These changes help us attract and retain quality educators across the state—something every student benefits from.
 The Act also invests in early literacy by providing stipends for reading improvement, hiring literacy coaches, and requiring science-based reading instruction.
@@ -14,8 +11,7 @@ Even the initial rollout of Education Freedom Accounts was measured and targeted
 In the first year, eligibility was limited to students in F-rated schools, children in foster care, military families, students with disabilities, and kindergarten entrants.
 The following year expanded eligibility to D-rated schools, veterans, and first responders.
 That kind of targeted support makes sense for families in truly challenging situations.
-Where Caution Is Needed: The Universal Expansion
-Where my concerns begin is with the universal expansion of Education Freedom Accounts—opening the program to all K–12 students with no cap, no income limits, and limited oversight.
+Where Caution Is Needed: The Universal Expansion Where my concerns begin is with the universal expansion of Education Freedom Accounts—opening the program to all K–12 students with no cap, no income limits, and limited oversight.
 That’s a major shift with real implications.
 Arkansas’s constitution requires the state to provide a “general, suitable, and efficient system of free public schools.” That is a foundational promise.
 Uncapping EFAs and allowing public funds to flow freely into private education—without strong safeguards or accountability—risks undermining that promise.
@@ -23,15 +19,13 @@ Public schools lose funding when students leave, but their fixed costs remain.
 This strains the system that still educates the vast majority of Arkansas’s children, especially in rural areas where alternatives may not exist.
 Local school boards—elected by and accountable to their communities—also lose control over those funds.
 That weakens local governance and makes it harder for families to have a real voice in how their tax dollars are used.
-A Public Subsidy Without Public Standards
-In effect, a universal Education Freedom Account system operates as a public subsidy for private schools.
+A Public Subsidy Without Public Standards In effect, a universal Education Freedom Account system operates as a public subsidy for private schools.
 While I believe families should have flexibility, public dollars must come with public standards.
 Many private and homeschool providers receiving EFA funds are not held to the same transparency or academic accountability that public schools must meet.
 And in states like Arizona, similar programs have led to misuse of funds on items like vacations and video games due to weak oversight.
 That’s not just a policy concern—it’s a stewardship concern.
 Taxpayer dollars deserve careful, responsible management.
-What’s at Stake: Community, Equity, and the Budget
-There’s also a broader issue of fairness.
+What’s at Stake: Community, Equity, and the Budget There’s also a broader issue of fairness.
 Families who already have access to private education often benefit the most from voucher-style programs.
 Meanwhile, lower-income families may still face barriers—like transportation or costs that EFAs don’t cover.
 That risks deepening educational inequality at a time when we should be closing those gaps.
@@ -40,8 +34,7 @@ As enrollment in EFAs increases year after year, public dollars that could be go
 If we’re not careful, we risk weakening the very institution that helps bind our communities together.
 Public education is not just a service—it’s a shared civic foundation that brings people together across backgrounds and beliefs.
 It’s where we learn not just math and reading, but how to live, work, and lead together.
-A Better Path Forward
-I believe we can find common ground.
+A Better Path Forward I believe we can find common ground.
 We can offer smart, targeted flexibility for families who truly need options—without weakening the public schools that serve all students.
 That means holding all education providers who receive public funds to high standards of transparency and results.
 It means respecting the role of local school boards and protecting their ability to make decisions that reflect their communities.
@@ -49,6 +42,17 @@ And it means keeping our focus on students—not systems or ideologies.
 We don’t need to choose between reform and responsibility.
 We can do both.
 Arkansas families deserve nothing less.
-With respect for all Arkansans,
-Joshua Irby
-Paid for by Joshua Irby
+With respect for all Arkansans, Joshua Irby Paid for by Joshua Irby Behind the Platform “I don’t see sides—I see people.
+Neighbors.
+Fellow citizens.” Joshua Irby has taken the Principles of Service Pledge —committing to lead with integrity, unity, and a deep duty to the people, not politics.
+Contact Joshua First name * Last name * Organization (if applicable) Email * Phone (Optional) Your Message * I’m Interested In: Volunteering Hosting an Event Donating Yes, subscribe me for updates I agree to be contacted by phone, text, or email regarding campaign updates.
+Submit 501-943-5804 irbyforarkansas@gmail.com P.O.
+Box 490 Bryant, AR 72089 A Promise for Arkansas JOSHUA IRBY for Donate News & Insights Events About Me Where I Stand Vote AN INDIVIDUAL OR PAC MAY CONTRIBUTE UP TO $3,500 PER ELECTION.
+BUSINESS AND CORPORATE CONTRIBUTIONS ARE PROHIBITED.
+PLEASE MAKE CHECKS PAYABLE TO CITIZENS FOR JOSHUA IRBY Paid for by Joshua Irby "I’m not running for office to recite slogans — I’m running because I believe Arkansas deserves leadership rooted in respect, driven by resolve, and committed to renewal.
+Respect means every Arkansan, no matter where they live or who they are, is treated with dignity and heard with intention.
+Resolve means we don’t shy away from hard truths — we face them with courage and clarity.
+Renewal means we rebuild trust in our institutions and restore hope in our communities. ​ I believe in Common Ground because we’re stronger when we listen before we argue.
+I believe in Common Sense because good policy should be practical, not partisan.
+And I believe in the Common Good because public service should serve all, not just a few. ​ This isn’t just a campaign — it’s a call to come together.
+This is our moment." ​ - Joshua Irby bottom of page

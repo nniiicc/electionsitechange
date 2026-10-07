@@ -1,31 +1,8 @@
-Image 1 of 4
-Image 2 of 4
-Image 3 of 4
-Image 4 of 4
-$30.00
+0 Skip to Content About Issues Store Donate Open Menu Close Menu About Issues Store Donate Open Menu Close Menu About Issues Store Donate Store › Alex Wait, Classic Tee Image 1 of 4 Image 2 of 4 Image 3 of 4 Image 4 of 4 Alex Wait, Classic Tee $30.00 The 100% cotton unisex classic tee will help you land a more structured look.
+It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits.
+Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural.
+Color: Select Color Light Blue Ash Size: Select Size S M L XL 2XL 3XL Add To Cart Added!
 The 100% cotton unisex classic tee will help you land a more structured look.
 It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits.
-Plus, it's extra trendy now!
-• 100% cotton
-• Sport Grey is 90% cotton, 10% polyester
-• Ash Grey is 99% cotton, 1% polyester
-• Heather colors are 50% cotton, 50% polyester
-• Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²)
-• Open-end yarn
-• Tubular fabric
-• Taped neck and shoulders
-• Double seam at sleeves and bottom hem
-• Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico
-Disclaimers:
-• Due to the fabric properties, the White color variant may appear off-white rather than bright white.
-• Dark color speckles throughout the fabric are expected for the color Natural.
-• 100% cotton
-• Sport Grey is 90% cotton, 10% polyester
-• Ash Grey is 99% cotton, 1% polyester
-• Heather colors are 50% cotton, 50% polyester
-• Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²)
-• Open-end yarn
-• Tubular fabric
-• Taped neck and shoulders
-• Double seam at sleeves and bottom hem
-Disclaimers:
+Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural.
+District Map Contact Privacy Policy Donate Friends of ALEX waIT, p.o. bOX 31, gRANGER in 46530 Paid for By Friends of Alex Wait

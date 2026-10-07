@@ -1,54 +1,270 @@
 [
-"http://alinabonsell.com/",
-"https://alinabonsell.com/",
-"https://alinabonsell.com/8-point-plan",
-"https://alinabonsell.com/?rc=test-site",
-"https://alinabonsell.com/_files/ugd/09be39_68549dea32c34549b9507b7253135191.pdf",
-"https://alinabonsell.com/category/all-products",
-"https://alinabonsell.com/contact",
-"https://alinabonsell.com/events-1",
-"https://alinabonsell.com/getinvolved",
-"https://alinabonsell.com/meetalina",
-"https://alinabonsell.com/news",
-"https://ballotapplication.elections.ny.gov/home/earlymail",
-"https://facebook.com/people/Alina-Bonsell-for-City-Council/61578248985333",
-"https://findmypollsite.vote.nyc/",
-"https://instagram.com/alinab.nyc",
-"https://instagram.com/p/Dd2d4WzOPZl",
-"https://instagram.com/p/Dd5PM6gDO4L",
-"https://instagram.com/p/Dd9ufokBy9e",
-"https://instagram.com/p/DdckVrIjsu5",
-"https://instagram.com/p/DdiRElNOwUo",
-"https://instagram.com/p/Ddl9jOLOS-O",
-"https://instagram.com/p/Ddpj-FZjkaR",
-"https://instagram.com/p/Ddt5Xh9lbhg",
-"https://instagram.com/p/Ddzaga1RoY6",
-"https://instagram.com/p/DeBQjC8jhO9",
-"https://instagram.com/p/DeBRSAnOeN1",
-"https://instagram.com/p/DeDRjCCjkhM",
-"https://instagram.com/reel/Dd2YAfxuPbW",
-"https://instagram.com/reel/Dd8F5svOvpc",
-"https://instagram.com/reel/Dd9cC8uxVy1",
-"https://instagram.com/reel/Dd_iHY0xqla",
-"https://instagram.com/reel/DdahNXYufNu",
-"https://instagram.com/reel/DdcpAoaO1Yh",
-"https://instagram.com/reel/DdftJBEOGQC",
-"https://instagram.com/reel/DdiNXxbuw3h",
-"https://instagram.com/reel/Ddjgd-jOOi3",
-"https://instagram.com/reel/DdjmtpvOy1D",
-"https://instagram.com/reel/DdmhC-NOCuK",
-"https://instagram.com/reel/DdmhkVfPeIN",
-"https://instagram.com/reel/DdpoysluAgz",
-"https://instagram.com/reel/DdsN9vTOll-",
-"https://instagram.com/reel/DdsQAsLOHHp",
-"https://instagram.com/reel/DdumWCAB_0n",
-"https://instagram.com/reel/DdwsMtkv3qW",
-"https://instagram.com/reel/DeFeljrh3DD",
-"https://requestballot.vote.nyc/absentee",
-"https://secure.anedot.com/alina-for-new-york/donate",
-"https://tiktok.com/@alinabonsell",
-"https://vote.nyc/page/find-your-poll-site",
-"https://vote.nyc/page/register-vote",
-"https://x.com/AlinaBonsell",
-"https://youtube.com/@AlinaBonsell"
+{
+"text": "8-POINT PLAN",
+"href": "https://www.alinabonsell.com/8-point-plan"
+},
+{
+"text": "917-819-2636",
+"href": "mailto:​info@alinabonsell.com"
+},
+{
+"text": "@alinab.nyc",
+"href": "https://www.instagram.com/alinab.nyc"
+},
+{
+"text": "AM I REGISTERED?",
+"href": "https://vote.nyc/page/register-vote"
+},
+{
+"text": "CHECK YOUR ADDRESS",
+"href": "https://vote.nyc/page/find-your-poll-site"
+},
+{
+"text": "CONTACT",
+"href": "https://www.alinabonsell.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/alina-for-new-york/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://www.alinabonsell.com/events-1"
+},
+{
+"text": "FIND MY POLL SITE",
+"href": "https://findmypollsite.vote.nyc/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.alinabonsell.com/getinvolved"
+},
+{
+"text": "HOME",
+"href": "https://www.alinabonsell.com/"
+},
+{
+"text": "MEET ALINA",
+"href": "https://www.alinabonsell.com/meetalina"
+},
+{
+"text": "MERCH",
+"href": "https://www.alinabonsell.com/category/all-products"
+},
+{
+"text": "MY 8-POINT PLAN",
+"href": "https://www.alinabonsell.com/8-point-plan"
+},
+{
+"text": "NEWS",
+"href": "https://www.alinabonsell.com/news"
+},
+{
+"text": "REQUEST ABSENTEE",
+"href": "https://requestballot.vote.nyc/absentee"
+},
+{
+"text": "REQUEST VOTE BY MAIL",
+"href": "https://ballotapplication.elections.ny.gov/home/earlymail"
+},
+{
+"text": "[image: Alina Bonsell Facebook NY STATE SENATE D28 MANHATTAN]",
+"href": "https://www.facebook.com/people/Alina-Bonsell-for-City-Council/61578248985333/"
+},
+{
+"text": "[image: Alina Bonsell Youtube State Senate New York Election 2026 Manhattan D28]",
+"href": "https://www.youtube.com/@AlinaBonsell"
+},
+{
+"text": "[image: Alina Bonsell on Tiktok]",
+"href": "https://www.tiktok.com/@alinabonsell"
+},
+{
+"text": "[image: Alina for NY Senate Facebook]",
+"href": "https://www.facebook.com/people/Alina-Bonsell-for-City-Council/61578248985333/"
+},
+{
+"text": "[image: Alinb.nyc]",
+"href": "https://www.instagram.com/alinab.nyc/"
+},
+{
+"text": "[image: And just like that… New York got too expensive. 👠💚 $6,600 median rent. Higher taxes. More tolls. More unvetted shelters. Repeat offenders back on our streets. We've been in a 24-year situationship with State Senator Liz Krueger. Guys, it's time for a breakup. My opponent brought cannabis stores into our communities, endorses DA socialists, supports far-left policies, backed no-bail releases, raises taxes on New Yorkers and small businesses, and supports more unaccountable shelters in our neighborhoods. I'm a mother, a longtime Manhattan East Side resident, and I'll make change happen in Albany. I'll restore judicial discretion, get dangerously mentally ill people off our streets and into treatment, pass my legislation for shelters that actually work, lower health insurance premiums, bring vacant apartments back to market, and reform our broken family court system. 24 years is enough. It's time to End the Neglect. AlinaBonsell.com #AlinaForNYSenate #AlinaBonsell #LetsEndTheNeglect #Manhattan #TaxInTheCity][image: And just like that… New York got too expensive. 👠💚 $6,600 median rent. Higher taxes. More tolls. More unvetted shelters. Repeat offenders back on our streets. We've been in a 24-year situationship with State Senator Liz Krueger. Guys, it's time for a breakup. My opponent brought cannabis stores into our communities, endorses DA socialists, supports far-left policies, backed no-bail releases, raises taxes on New Yorkers and small businesses, and supports more unaccountable shelters in our neighborhoods. I'm a mother, a longtime Manhattan East Side resident, and I'll make change happen in Albany. I'll restore judicial discretion, get dangerously mentally ill people off our streets and into treatment, pass my legislation for shelters that actually work, lower health insurance premiums, bring vacant apartments back to market, and reform our broken family court system. 24 years is enough. It's time to End the Neglect. AlinaBonsell.com #AlinaForNYSenate #AlinaBonsell #LetsEndTheNeglect #Manhattan #TaxInTheCity]",
+"href": "https://www.instagram.com/reel/DeFeljrh3DD/"
+},
+{
+"text": "[image: Every day I wake up to another story of someone being stabbed, shoved, or shot in our neighborhoods in Manhattan. Too many New Yorkers feel like they have to walk around constantly on high alert. It was great to spend the day at the street fair talking with neighbors who agree on something that should never be partisan: safety is bipartisan. It’s time to put our safety first. That’s why I’m running to be your New York State Senator. Check out my 8-point plan at alinabonsell.com. #AlinaForNYSenate #AlinaBonsell #LetsEndTheNeglect #manhattan][image: Every day I wake up to another story of someone being stabbed, shoved, or shot in our neighborhoods in Manhattan. Too many New Yorkers feel like they have to walk around constantly on high alert. It was great to spend the day at the street fair talking with neighbors who agree on something that should never be partisan: safety is bipartisan. It’s time to put our safety first. That’s why I’m running to be your New York State Senator. Check out my 8-point plan at alinabonsell.com. #AlinaForNYSenate #AlinaBonsell #LetsEndTheNeglect #manhattan]",
+"href": "https://www.instagram.com/reel/Dd2YAfxuPbW/"
+},
+{
+"text": "[image: Facebook Page]",
+"href": "https://www.facebook.com/people/Alina-Bonsell-for-City-Council/61578248985333/"
+},
+{
+"text": "[image: For 24 years, we’ve had the same State Senator and the same representation in Albany. Liz Krueger endorsed Zohran Mamdani and supports a progressive agenda that I believe is taking New York in the wrong direction. After 24 years, New York needs a new voice. My priorities: 🛡️ RESTORE SAFETY Restore judicial discretion for repeat violent offenders and expand appropriate inpatient psychiatric care for high-risk individuals. 💰🏠 REFORM TAX & HOUSING POLICY Make New York more affordable with policies that are fair and pro-growth for residents, property owners, and businesses. 🏘️ SAFE, EFFECTIVE SHELTERS Pass my Homeless Shelter Accountability Act and address serious mental illness with appropriate treatment instead of allowing the shelter system to become the default solution. ⚖️ FAMILY COURT REFORM Strict timelines, real consequences, higher evidentiary standards, and a system that works for parents and children. 24 years of neglect is enough. It’s time for a new voice in Albany. Elect Your Neighbor. End the Neglect. AlinaBonsell.com #AlinaForNYSenate #AlinaBonsell #LetsEndTheNeglect #ElectYourNeighbor #manhattan][image: For 24 years, we’ve had the same State Senator and the same representation in Albany. Liz Krueger endorsed Zohran Mamdani and supports a progressive agenda that I believe is taking New York in the wrong direction. After 24 years, New York needs a new voice. My priorities: 🛡️ RESTORE SAFETY Restore judicial discretion for repeat violent offenders and expand appropriate inpatient psychiatric care for high-risk individuals. 💰🏠 REFORM TAX & HOUSING POLICY Make New York more affordable with policies that are fair and pro-growth for residents, property owners, and businesses. 🏘️ SAFE, EFFECTIVE SHELTERS Pass my Homeless Shelter Accountability Act and address serious mental illness with appropriate treatment instead of allowing the shelter system to become the default solution. ⚖️ FAMILY COURT REFORM Strict timelines, real consequences, higher evidentiary standards, and a system that works for parents and children. 24 years of neglect is enough. It’s time for a new voice in Albany. Elect Your Neighbor. End the Neglect. AlinaBonsell.com #AlinaForNYSenate #AlinaBonsell #LetsEndTheNeglect #ElectYourNeighbor #manhattan]",
+"href": "https://www.instagram.com/reel/Dd_iHY0xqla/"
+},
+{
+"text": "[image: Great to have Bruce Blakeman’s support! I’m running against socialist supporter Liz Krueger, and Bruce is running against socialist supporter Kathy Hochul. We’re fighting to change the direction of New York and push back against the progressive socialist and DSA policies that are driving businesses, families, and residents out of our state. It was also great to see Sid Rosenberg, famously known for having no filter, which I happen to love. 😄 Looking forward to joining him on his show soon! AlinaBonsell.com #AlinaBonsell #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor][image: Great to have Bruce Blakeman’s support! I’m running against socialist supporter Liz Krueger, and Bruce is running against socialist supporter Kathy Hochul. We’re fighting to change the direction of New York and push back against the progressive socialist and DSA policies that are driving businesses, families, and residents out of our state. It was also great to see Sid Rosenberg, famously known for having no filter, which I happen to love. 😄 Looking forward to joining him on his show soon! AlinaBonsell.com #AlinaBonsell #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor]",
+"href": "https://www.instagram.com/reel/DdsN9vTOll-/"
+},
+{
+"text": "[image: Homeless_Shelter_Accountability_ACT_ByAlinBONSELL_9_2026.V1.pdf]",
+"href": "https://www.alinabonsell.com/_files/ugd/09be39_68549dea32c34549b9507b7253135191.pdf"
+},
+{
+"text": "[image: Honored to be mentioned by the Jewish Telegraphic Agency following the rally, where members of the crowd proudly held Alina Bonsell campaign signs. I continue standing with New York’s Jewish community and speaking out against antisemitism, without hesitation and without excuses. 💚🇮🇱 @jtanews #AlinaForNYSenate #EndTheNeglect #AlinaBonsell #StandAgainstAntisemitism][image: Honored to be mentioned by the Jewish Telegraphic Agency following the rally, where members of the crowd proudly held Alina Bonsell campaign signs. I continue standing with New York’s Jewish community and speaking out against antisemitism, without hesitation and without excuses. 💚🇮🇱 @jtanews #AlinaForNYSenate #EndTheNeglect #AlinaBonsell #StandAgainstAntisemitism]",
+"href": "https://www.instagram.com/p/DdckVrIjsu5/"
+},
+{
+"text": "[image: I believe in supporting those who support us. Veterans fought our wars and kept us safe. A bipartisan bill giving veteran public workers one more year of pension credit passed committee 7-0. Not once. TWICE. Both times it went to the Finance Committee chaired by Liz Krueger. Both times she never brought it to a vote. Session is over, and now she's letting it expire. It's a drop in the bucket for New York State. It's unacceptable. As your senator, I will NEVER gatekeep our veterans. https://www.nysenate.gov/legislation/bills/2025/S6840/amendment/A #LetsEndTheNeglect #ElectYourNeighbor #AlinaBonsell #AlinaForNYSenate Manhattan][image: I believe in supporting those who support us. Veterans fought our wars and kept us safe. A bipartisan bill giving veteran public workers one more year of pension credit passed committee 7-0. Not once. TWICE. Both times it went to the Finance Committee chaired by Liz Krueger. Both times she never brought it to a vote. Session is over, and now she's letting it expire. It's a drop in the bucket for New York State. It's unacceptable. As your senator, I will NEVER gatekeep our veterans. https://www.nysenate.gov/legislation/bills/2025/S6840/amendment/A #LetsEndTheNeglect #ElectYourNeighbor #AlinaBonsell #AlinaForNYSenate Manhattan]",
+"href": "https://www.instagram.com/p/Ddt5Xh9lbhg/"
+},
+{
+"text": "[image: I joined FOX Live to discuss the Trump–Mamdani meeting and what it will take to get New York back on the right track. My campaign is focused on public safety, homeless shelter accountability, family court reform, affordability, quality of life, and supporting economic growth in New York. Bad policy has consequences. After 24 years with the same State Senator, we need to change the laws and policies that are not working and focus on making New York safer, more affordable and a place where businesses, families and jobs can grow. My opponent, Liz Krueger, is a progressive who has supported progressive policies and endorsed democratic socialist Zohran Mamdani. I believe District 28 deserves a different direction. Watch the clip and hear what I’m fighting to change. AlinaBonsell.com #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #Manhattan #NewYork][image: I joined FOX Live to discuss the Trump–Mamdani meeting and what it will take to get New York back on the right track. My campaign is focused on public safety, homeless shelter accountability, family court reform, affordability, quality of life, and supporting economic growth in New York. Bad policy has consequences. After 24 years with the same State Senator, we need to change the laws and policies that are not working and focus on making New York safer, more affordable and a place where businesses, families and jobs can grow. My opponent, Liz Krueger, is a progressive who has supported progressive policies and endorsed democratic socialist Zohran Mamdani. I believe District 28 deserves a different direction. Watch the clip and hear what I’m fighting to change. AlinaBonsell.com #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #Manhattan #NewYork]",
+"href": "https://www.instagram.com/reel/DdmhC-NOCuK/"
+},
+{
+"text": "[image: I joined NewsNation to discuss the national midterm elections and whether Vice President JD Vance’s appearance in Iowa signals Republican concern or simply reflects what party leaders do by supporting candidates, raising money and energizing voters. Every race is different, but reaching donors is just as necessary as reaching voters. You cannot have one without the other. Watch my answer. AlinaBonsell.com #AlinaForNYSenate #BlockMamdani #EndTheNeglect #ElectYourNeighbor #NewYork][image: I joined NewsNation to discuss the national midterm elections and whether Vice President JD Vance’s appearance in Iowa signals Republican concern or simply reflects what party leaders do by supporting candidates, raising money and energizing voters. Every race is different, but reaching donors is just as necessary as reaching voters. You cannot have one without the other. Watch my answer. AlinaBonsell.com #AlinaForNYSenate #BlockMamdani #EndTheNeglect #ElectYourNeighbor #NewYork]",
+"href": "https://www.instagram.com/reel/Ddjgd-jOOi3/"
+},
+{
+"text": "[image: I love talking to people in our community. Democrat, Republican, Independent, it doesn’t matter to me. I hate how politics divides us by party banners. That’s why my campaign is green. Yes, I’m running as a Republican, but I’m not controlled by any party. My campaign is powered by small donations and matching funds. No PAC money. No political influence. I’m running for my neighbors and to end 24 years of neglect. My opponent endorsed Zohran Mamdani and supports progressive DSA policies that I believe are taking New York in the wrong direction. When violence is blamed on mental illness, I want solutions, not excuses. What unites us is greater than what divides us. This election is about neighbors coming together and choosing a different direction for the East Side and New York. www.alinabonsell.com #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #Manhattan #NewYork][image: I love talking to people in our community. Democrat, Republican, Independent, it doesn’t matter to me. I hate how politics divides us by party banners. That’s why my campaign is green. Yes, I’m running as a Republican, but I’m not controlled by any party. My campaign is powered by small donations and matching funds. No PAC money. No political influence. I’m running for my neighbors and to end 24 years of neglect. My opponent endorsed Zohran Mamdani and supports progressive DSA policies that I believe are taking New York in the wrong direction. When violence is blamed on mental illness, I want solutions, not excuses. What unites us is greater than what divides us. This election is about neighbors coming together and choosing a different direction for the East Side and New York. www.alinabonsell.com #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #Manhattan #NewYork]",
+"href": "https://www.instagram.com/reel/DdpoysluAgz/"
+},
+{
+"text": "[image: I love when people recognize me when I’m out and about, whether it’s at the supermarket, on the subway, at a rally, or even at the gym. It means so much when people come up to me and tell me they support me, want me to win, and are voting for me. It’s great to see how many people are hopeful about getting New York back on the right track. www.alinabonsell.com #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #Manhattan #NewYork][image: I love when people recognize me when I’m out and about, whether it’s at the supermarket, on the subway, at a rally, or even at the gym. It means so much when people come up to me and tell me they support me, want me to win, and are voting for me. It’s great to see how many people are hopeful about getting New York back on the right track. www.alinabonsell.com #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #Manhattan #NewYork]",
+"href": "https://www.instagram.com/p/Ddpj-FZjkaR/"
+},
+{
+"text": "[image: I spoke with a New Yorker coming out of the subway about the untreated mental illness we see playing out in our subway system and on our streets. Our leaders blame mental illness when crimes occur, yet do nothing to prevent dangerous, high-risk individuals from being released back into public. When I am in the State Senate, I will amend bail reform, restore judicial discretion and support mandatory inpatient psychiatric care for those who pose a danger to themselves or others. After 24 years with the same senator, our city is moving in the wrong direction. My opponent, Liz Krueger, endorsed Zohran Mamdani and supports his socialist policies. I am running on the Republican line and my independent “Block Mamdani” line to stop the neglect and course-correct New York. After nearly a quarter-century, it is time to retire the status quo. AlinaBonsell.com #AlinaForNYSenate #BlockMamdani #EndTheNeglect #ElectYourNeighbor #NewYork][image: I spoke with a New Yorker coming out of the subway about the untreated mental illness we see playing out in our subway system and on our streets. Our leaders blame mental illness when crimes occur, yet do nothing to prevent dangerous, high-risk individuals from being released back into public. When I am in the State Senate, I will amend bail reform, restore judicial discretion and support mandatory inpatient psychiatric care for those who pose a danger to themselves or others. After 24 years with the same senator, our city is moving in the wrong direction. My opponent, Liz Krueger, endorsed Zohran Mamdani and supports his socialist policies. I am running on the Republican line and my independent “Block Mamdani” line to stop the neglect and course-correct New York. After nearly a quarter-century, it is time to retire the status quo. AlinaBonsell.com #AlinaForNYSenate #BlockMamdani #EndTheNeglect #ElectYourNeighbor #NewYork]",
+"href": "https://www.instagram.com/reel/DdftJBEOGQC/"
+},
+{
+"text": "[image: I was asked how voters may vote differently in this election. Iowa and New York are politically very different, but voters are concerned about many of the same underlying issues: affordability, gas prices, healthcare costs and homelessness. At the polls, it comes down to results. If the leadership in your state is not working, it is time to change it. Regardless of the party banner, it is really about the candidate and their record. After 24 years of Liz Krueger, New Yorkers know what more of the same will bring. I am running on the Republican line and my independent Block Mamdani line to stop his harmful socialist policies from being advanced in the State Senate. www.alinabonsell.com #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #Manhattan #NewYork][image: I was asked how voters may vote differently in this election. Iowa and New York are politically very different, but voters are concerned about many of the same underlying issues: affordability, gas prices, healthcare costs and homelessness. At the polls, it comes down to results. If the leadership in your state is not working, it is time to change it. Regardless of the party banner, it is really about the candidate and their record. After 24 years of Liz Krueger, New Yorkers know what more of the same will bring. I am running on the Republican line and my independent Block Mamdani line to stop his harmful socialist policies from being advanced in the State Senate. www.alinabonsell.com #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #Manhattan #NewYork]",
+"href": "https://www.instagram.com/reel/DdjmtpvOy1D/"
+},
+{
+"text": "[image: I was asked on FOX Live whether I think the Trump–Mamdani meeting is just a photo op. I really hope it’s not. New York has serious problems that require serious cooperation and real solutions. Public safety, affordability, homelessness, healthcare and economic growth are bigger than political theater. So here are my two cents on what I hope comes out of this meeting and what New York needs from its leaders. AlinaBonsell.com #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #Manhattan #NewYork][image: I was asked on FOX Live whether I think the Trump–Mamdani meeting is just a photo op. I really hope it’s not. New York has serious problems that require serious cooperation and real solutions. Public safety, affordability, homelessness, healthcare and economic growth are bigger than political theater. So here are my two cents on what I hope comes out of this meeting and what New York needs from its leaders. AlinaBonsell.com #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #Manhattan #NewYork]",
+"href": "https://www.instagram.com/reel/DdmhkVfPeIN/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/alinab.nyc/"
+},
+{
+"text": "[image: It’s been a busy week of events, speeches, countless conversations, and, of course, my campaign uniform: green. 💚 And no matter how busy the schedule gets, there’s always time to stop and pet a dog. We’re officially one month from Election Day. The 30-day countdown starts NOW. Let’s make every day count. alinabonsell.com @bruceblakemanforgovernor @sendcarolinetocongress #AlinaForNYSenate #AlinaBonsell #ElectYourNeighbor #LetsEndTheNeglect #Manhattan][image: It’s been a busy week of events, speeches, countless conversations, and, of course, my campaign uniform: green. 💚 And no matter how busy the schedule gets, there’s always time to stop and pet a dog. We’re officially one month from Election Day. The 30-day countdown starts NOW. Let’s make every day count. alinabonsell.com @bruceblakemanforgovernor @sendcarolinetocongress #AlinaForNYSenate #AlinaBonsell #ElectYourNeighbor #LetsEndTheNeglect #Manhattan]",
+"href": "https://www.instagram.com/p/DeBQjC8jhO9/"
+},
+{
+"text": "[image: It’s time for a breakup. 24 years is enough, and it’s time to stop the rise in crime. In 2019, Albany passed sweeping bail reform, eliminating cash bail for most misdemeanors and nonviolent felonies. When Governor Hochul pushed for changes in 2022 amid rising concerns about public safety, my opponent Liz Krueger defended the law and argued that rising crime was not caused by bail reform. Six years later, New Yorkers are still living with the consequences of policies that make it harder to keep repeat offenders off our streets. I’m running to amend the law, restore greater judicial discretion and give judges the ability to consider public safety and repeat offenses when making pretrial decisions. Manhattan deserves laws that protect the rights of the accused and the safety of the public. After 24 years with the same representation it's enough, let's end the Neglect. AlinaBonsell.com #AlinaForNYSenate #AlinaBonsell #LetsEndTheNeglect #manhattan][image: It’s time for a breakup. 24 years is enough, and it’s time to stop the rise in crime. In 2019, Albany passed sweeping bail reform, eliminating cash bail for most misdemeanors and nonviolent felonies. When Governor Hochul pushed for changes in 2022 amid rising concerns about public safety, my opponent Liz Krueger defended the law and argued that rising crime was not caused by bail reform. Six years later, New Yorkers are still living with the consequences of policies that make it harder to keep repeat offenders off our streets. I’m running to amend the law, restore greater judicial discretion and give judges the ability to consider public safety and repeat offenses when making pretrial decisions. Manhattan deserves laws that protect the rights of the accused and the safety of the public. After 24 years with the same representation it's enough, let's end the Neglect. AlinaBonsell.com #AlinaForNYSenate #AlinaBonsell #LetsEndTheNeglect #manhattan]",
+"href": "https://www.instagram.com/reel/DeKpzsZMUdG/"
+},
+{
+"text": "[image: I’m honored to have been invited to present at Weill Cornell Medicine’s David Rogers Health Policy Colloquium. Healthcare has always been close to my heart. I spent 15 years in the industry, working with physicians and hospital systems and training doctors. I saw firsthand how bureaucracy and policy can make it harder for physicians to practice medicine and ultimately impact the care patients receive. Now, two of my worlds are colliding: healthcare and public policy. I’m especially excited to speak with the next generation of physicians about how healthcare policy becomes law and how clinicians can help shape it. Doctors on the front lines see what works and what doesn’t, and their voices should have a meaningful path into policymaking. As a State Senator, I would work to make sure those voices are heard in Albany and that good ideas can move through the right channels to become better policy. Wednesday, October 14 | 1–2 PM | Weill Cornell Medicine | In person & Zoom alinabonsell.com #AlinaForNYSenate #HealthcarePolicy #WeillCornellMedicine #ElectYourNeighbor #Manhattan][image: I’m honored to have been invited to present at Weill Cornell Medicine’s David Rogers Health Policy Colloquium. Healthcare has always been close to my heart. I spent 15 years in the industry, working with physicians and hospital systems and training doctors. I saw firsthand how bureaucracy and policy can make it harder for physicians to practice medicine and ultimately impact the care patients receive. Now, two of my worlds are colliding: healthcare and public policy. I’m especially excited to speak with the next generation of physicians about how healthcare policy becomes law and how clinicians can help shape it. Doctors on the front lines see what works and what doesn’t, and their voices should have a meaningful path into policymaking. As a State Senator, I would work to make sure those voices are heard in Albany and that good ideas can move through the right channels to become better policy. Wednesday, October 14 | 1–2 PM | Weill Cornell Medicine | In person & Zoom alinabonsell.com #AlinaForNYSenate #HealthcarePolicy #WeillCornellMedicine #ElectYourNeighbor #Manhattan]",
+"href": "https://www.instagram.com/p/DeBRSAnOeN1/"
+},
+{
+"text": "[image: I’m running for State Senate on the Republican and Block Mamdani lines against a 24-year incumbent who endorsed Zohran Mamdani and has supported many of the same progressive policies. Now Mamdani’s administration is shifting the initial response to homeless-encampment complaints away from NYPD officers and to social workers. There’s a reason some homeless New Yorkers would rather remain in encampments than enter the shelter system—the system isn’t working. My Homeless Shelter Accountability Act would bring real oversight, safety standards and accountability to shelters while getting people the appropriate services they need. We need solutions that protect our neighborhoods AND help people get off the streets. alinabonsell.com #AlinaForNYSenate #BlockMamdani #LetsEndTheNeglect #Manhattan][image: I’m running for State Senate on the Republican and Block Mamdani lines against a 24-year incumbent who endorsed Zohran Mamdani and has supported many of the same progressive policies. Now Mamdani’s administration is shifting the initial response to homeless-encampment complaints away from NYPD officers and to social workers. There’s a reason some homeless New Yorkers would rather remain in encampments than enter the shelter system—the system isn’t working. My Homeless Shelter Accountability Act would bring real oversight, safety standards and accountability to shelters while getting people the appropriate services they need. We need solutions that protect our neighborhoods AND help people get off the streets. alinabonsell.com #AlinaForNYSenate #BlockMamdani #LetsEndTheNeglect #Manhattan]",
+"href": "https://www.instagram.com/p/Dd5PM6gDO4L/"
+},
+{
+"text": "[image: Join me for The Path to Victory: An Intimate Evening of Cocktails & Conversation on Monday, October 12th, hosted by Yariv Ben-Ari & Sarah Rubenstein. We’re building real momentum in this race to bring new representation to New York State Senate District 28. Come meet me, hear more about the campaign and the issues I’m fighting for, and ask me your questions directly. 📅 Monday, October 12, 2026 ⏰ 6:30–8:30 PM 📍 Upper East Side residence — address provided with RSVP 🍷 Kosher small bites & wine RSVP: www.alinabonsell.com/events Learn more: www.alinabonsell.com #AlinaForNYSenate #AlinaBonsell #ElectYourNeighbor #LetsEndTheNeglect][image: Join me for The Path to Victory: An Intimate Evening of Cocktails & Conversation on Monday, October 12th, hosted by Yariv Ben-Ari & Sarah Rubenstein. We’re building real momentum in this race to bring new representation to New York State Senate District 28. Come meet me, hear more about the campaign and the issues I’m fighting for, and ask me your questions directly. 📅 Monday, October 12, 2026 ⏰ 6:30–8:30 PM 📍 Upper East Side residence — address provided with RSVP 🍷 Kosher small bites & wine RSVP: www.alinabonsell.com/events Learn more: www.alinabonsell.com #AlinaForNYSenate #AlinaBonsell #ElectYourNeighbor #LetsEndTheNeglect]",
+"href": "https://www.instagram.com/p/Ddzaga1RoY6/"
+},
+{
+"text": "[image: Just because I'm running as a Republican doesn't mean I agree with everything under the Republican umbrella. That's why I'm also running on my own independent line. As someone who worked in healthcare for 15 years,! believe the federal government should provide preventive healthcare for American citizens and legal residents, with private supplemental coverage available. Preventive care and early detection can also reduce the need for more costly treatment later. I also believe it's time for an immigration policy that works. Secure the border. Remove dangerous individuals who are here illegally. But stop treating everyone indiscriminately and create a clear legal pathway for qualifying individuals who have built their lives here. That's my position. I'm running on my principles, not a party script. www.alinabonsell.com #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #Manhattan #NewYork][image: Just because I'm running as a Republican doesn't mean I agree with everything under the Republican umbrella. That's why I'm also running on my own independent line. As someone who worked in healthcare for 15 years,! believe the federal government should provide preventive healthcare for American citizens and legal residents, with private supplemental coverage available. Preventive care and early detection can also reduce the need for more costly treatment later. I also believe it's time for an immigration policy that works. Secure the border. Remove dangerous individuals who are here illegally. But stop treating everyone indiscriminately and create a clear legal pathway for qualifying individuals who have built their lives here. That's my position. I'm running on my principles, not a party script. www.alinabonsell.com #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #Manhattan #NewYork]",
+"href": "https://www.instagram.com/reel/DdwsMtkv3qW/"
+},
+{
+"text": "[image: Just turned on the TV, ready to unwind and take a night off from campaigning… and there I am on TV, campaigning. 😂📺 Apparently there’s no escaping me tonight. Have you guys seen my commercial yet? alinabonsell.com #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #AlinaBonsell #manhattan][image: Just turned on the TV, ready to unwind and take a night off from campaigning… and there I am on TV, campaigning. 😂📺 Apparently there’s no escaping me tonight. Have you guys seen my commercial yet? alinabonsell.com #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #AlinaBonsell #manhattan]",
+"href": "https://www.instagram.com/reel/DdumWCAB_0n/"
+},
+{
+"text": "[image: Liz Krueger sponsored S.9144A, legislation calling for a 3 year moratorium on permits for new data centers in New York. Our Governor approved a 1 year moratorium. 1 year freeze in technology is a lifetime in technological advancement. Every technological revolution has faced resistance. Cars replaced horses. Electric lights replaced oil lamps. And when calculators entered classrooms, people warned that “children need minds, not machines.” But calculators didn’t make us dumber or lazier. They made us stronger, faster and capable of solving bigger and more complex problems. AI is the next evolution. It’s making us level up. It allows us to process information faster, ask questions and get immediate answers, learn in minutes what once took hours to research, and see examples of better writing, clearer reasoning and different ways of thinking. It helps us think bigger, learn faster and tackle more complex problems. AI doesn’t replace human intelligence. It expands what we can do with it. 💡 The AI revolution is here. New York should be building the energy and infrastructure to support it, attracting investment and creating economic opportunity, NOT putting up barriers while other states move forward. Stop fighting the future. Start building it. 🚀 AlinaBonsell.com #AlinaForNYSenate #AlinaBonsell #ElectYourNeighbor #LetsEndTheNeglect #Manhattan][image: Liz Krueger sponsored S.9144A, legislation calling for a 3 year moratorium on permits for new data centers in New York. Our Governor approved a 1 year moratorium. 1 year freeze in technology is a lifetime in technological advancement. Every technological revolution has faced resistance. Cars replaced horses. Electric lights replaced oil lamps. And when calculators entered classrooms, people warned that “children need minds, not machines.” But calculators didn’t make us dumber or lazier. They made us stronger, faster and capable of solving bigger and more complex problems. AI is the next evolution. It’s making us level up. It allows us to process information faster, ask questions and get immediate answers, learn in minutes what once took hours to research, and see examples of better writing, clearer reasoning and different ways of thinking. It helps us think bigger, learn faster and tackle more complex problems. AI doesn’t replace human intelligence. It expands what we can do with it. 💡 The AI revolution is here. New York should be building the energy and infrastructure to support it, attracting investment and creating economic opportunity, NOT putting up barriers while other states move forward. Stop fighting the future. Start building it. 🚀 AlinaBonsell.com #AlinaForNYSenate #AlinaBonsell #ElectYourNeighbor #LetsEndTheNeglect #Manhattan]",
+"href": "https://www.instagram.com/p/DeDRjCCjkhM/"
+},
+{
+"text": "[image: Logo__3_-removebg-preview.png]",
+"href": "https://www.alinabonsell.com/?rc=test-site"
+},
+{
+"text": "[image: Mail-in ballots are here—and my name is on the ballot twice. I’m running as a common-sense Republican AND on my independent Block Mamdani line because somebody has to push back against the progressive policies coming out of Albany. My opponent, Liz Krueger, endorsed Zohran Mamdani. After 24 years in office, voters know her record. If you’re concerned about public safety, rising housing and energy costs, or the impact of new shelters in our neighborhoods, take a close look at your choices this November. Vote Alina Bonsell for New York State Senate—Republican or Block Mamdani. End the Neglect. Elect Your Neighbor. alinabonsell.com #AlinaForNYSenate #AlinaBonsell #LetsEndTheNeglect #Manhattan][image: Mail-in ballots are here—and my name is on the ballot twice. I’m running as a common-sense Republican AND on my independent Block Mamdani line because somebody has to push back against the progressive policies coming out of Albany. My opponent, Liz Krueger, endorsed Zohran Mamdani. After 24 years in office, voters know her record. If you’re concerned about public safety, rising housing and energy costs, or the impact of new shelters in our neighborhoods, take a close look at your choices this November. Vote Alina Bonsell for New York State Senate—Republican or Block Mamdani. End the Neglect. Elect Your Neighbor. alinabonsell.com #AlinaForNYSenate #AlinaBonsell #LetsEndTheNeglect #Manhattan]",
+"href": "https://www.instagram.com/p/Dd2d4WzOPZl/"
+},
+{
+"text": "[image: New Yorkers came together to stand against antisemitism and Jewish hate. Our Borough President was there. Our City Council Member was there. Even a State Senator from another borough showed up. But our own State Senator, Liz Krueger, was nowhere to be found. Sadly, I’m not surprised. She endorsed Zohran Mamdani and has repeatedly supported the progressive policy agenda I’m running against. She’s not on our team. She’s part of the political establishment that has taken New York in the wrong direction. We need to save New York, restore balance in Albany, and elect representatives who actually show up and stand with the communities they represent. On November 3rd, vote Alina Bonsell for New York State Senate. AlinaBonsell.com #AlinaBonsell #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor][image: New Yorkers came together to stand against antisemitism and Jewish hate. Our Borough President was there. Our City Council Member was there. Even a State Senator from another borough showed up. But our own State Senator, Liz Krueger, was nowhere to be found. Sadly, I’m not surprised. She endorsed Zohran Mamdani and has repeatedly supported the progressive policy agenda I’m running against. She’s not on our team. She’s part of the political establishment that has taken New York in the wrong direction. We need to save New York, restore balance in Albany, and elect representatives who actually show up and stand with the communities they represent. On November 3rd, vote Alina Bonsell for New York State Senate. AlinaBonsell.com #AlinaBonsell #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor]",
+"href": "https://www.instagram.com/reel/DdsQAsLOHHp/"
+},
+{
+"text": "[image: No child should ever feel unsafe in our district, in our community, or walking to school alone on the East Side. As parents, it is our duty to protect our children. But that responsibility also belongs to anyone who holds political office. Their first duty is to the people they represent, to make sure they feel safe and heard. But our current State Senator, Liz Krueger, who has been here for 24 years, has been ignoring that very sentiment. She has not attended a single rally, Israel parade, or anything in support of the Jewish children and the Jewish community she represents. Instead, she has endorsed and praised Zohran Mamdani and nominated and approved everything he brings to Albany. As a mother and as your next state senator, I will always put the safety of our children and our community first. AlinaBonsell.com 💚🇮🇱 #AlinaForNYSenate #AlinaBonsell #BlockMamdani #ProtectOurChildren #manhattan][image: No child should ever feel unsafe in our district, in our community, or walking to school alone on the East Side. As parents, it is our duty to protect our children. But that responsibility also belongs to anyone who holds political office. Their first duty is to the people they represent, to make sure they feel safe and heard. But our current State Senator, Liz Krueger, who has been here for 24 years, has been ignoring that very sentiment. She has not attended a single rally, Israel parade, or anything in support of the Jewish children and the Jewish community she represents. Instead, she has endorsed and praised Zohran Mamdani and nominated and approved everything he brings to Albany. As a mother and as your next state senator, I will always put the safety of our children and our community first. AlinaBonsell.com 💚🇮🇱 #AlinaForNYSenate #AlinaBonsell #BlockMamdani #ProtectOurChildren #manhattan]",
+"href": "https://www.instagram.com/reel/DdcpAoaO1Yh/"
+},
+{
+"text": "[image: State senate logo (33).png]",
+"href": "https://www.alinabonsell.com"
+},
+{
+"text": "[image: This November, look beyond party labels. Vote for the candidate and look at the record. I’m not a career politician, but I am determined to reform the policies that have made New York less affordable, address dangerous street mental illness, restore housing supply, cut taxes and waste, restore law and order, and bring transparency, community involvement, and accountability to neighborhood shelters. My opponent, Liz Krueger, has represented this district since 2002. While she has supported important legislation, including women’s right to choose, which I also support, there are significant gaps in her record. In my view, 24 years of the same representation have also brought significant neglect, while her support for Zohran Mamdani and his progressive, DSA-backed agenda raises serious concerns about New York’s future. (nysenate.gov, nypost.com, socialists.nyc) The concerns listed at the top of this poster are based on that record. Don’t take my word for it. Review her official Senate legislation here: https://www.nysenate.gov/senators/liz-krueger/legislation End the Neglect. Elect Your Neighbor. www.alinabonsell.com][image: This November, look beyond party labels. Vote for the candidate and look at the record. I’m not a career politician, but I am determined to reform the policies that have made New York less affordable, address dangerous street mental illness, restore housing supply, cut taxes and waste, restore law and order, and bring transparency, community involvement, and accountability to neighborhood shelters. My opponent, Liz Krueger, has represented this district since 2002. While she has supported important legislation, including women’s right to choose, which I also support, there are significant gaps in her record. In my view, 24 years of the same representation have also brought significant neglect, while her support for Zohran Mamdani and his progressive, DSA-backed agenda raises serious concerns about New York’s future. (nysenate.gov, nypost.com, socialists.nyc) The concerns listed at the top of this poster are based on that record. Don’t take my word for it. Review her official Senate legislation here: https://www.nysenate.gov/senators/liz-krueger/legislation End the Neglect. Elect Your Neighbor. www.alinabonsell.com]",
+"href": "https://www.instagram.com/p/Ddl9jOLOS-O/"
+},
+{
+"text": "[image: This woman was taking down my campaign posters. When asked why, she said because she’s “for war.” 🤦‍♀️ Running as a Republican does NOT mean I’m “for war,” and it does not mean I support everything Republicans are doing at the federal level. This is a STATE race about New York and the policies coming out of Albany that affect our safety, affordability, housing, taxes, energy, and quality of life. I’m running on the Republican line AND my independent BLOCK MAMDANI line because I believe New York needs a check on policies that are taking our city in the wrong direction. People need to stop treating every election like it’s about Washington. Learn who is actually running, what office they’re running for, and what they actually stand for. Let’s educate people and move past the ignorance. New York has real problems that need real solutions. 🗽 www.alinabonsell.com #AlinaForNYSenate #AlinaBonsell #ElectYourNeighbor #LetsEndTheNeglect #Manhattan][image: This woman was taking down my campaign posters. When asked why, she said because she’s “for war.” 🤦‍♀️ Running as a Republican does NOT mean I’m “for war,” and it does not mean I support everything Republicans are doing at the federal level. This is a STATE race about New York and the policies coming out of Albany that affect our safety, affordability, housing, taxes, energy, and quality of life. I’m running on the Republican line AND my independent BLOCK MAMDANI line because I believe New York needs a check on policies that are taking our city in the wrong direction. People need to stop treating every election like it’s about Washington. Learn who is actually running, what office they’re running for, and what they actually stand for. Let’s educate people and move past the ignorance. New York has real problems that need real solutions. 🗽 www.alinabonsell.com #AlinaForNYSenate #AlinaBonsell #ElectYourNeighbor #LetsEndTheNeglect #Manhattan]",
+"href": "https://www.instagram.com/reel/Dd9cC8uxVy1/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@alinabonsell"
+},
+{
+"text": "[image: Today I stood with neighbors fighting to save AMC Kips Bay 15. By the time the community learned what was happening, the property transaction was completed and AMC was facing eviction. I found it ironic watching elected officials speak about saving the theater only after everything was signed and moving forward. They claim they did not know. I find it difficult to believe that something of this scale could progress without a single elected official representing the neighborhood knowing about it. If that is true, it is still a serious failure of oversight and communication. This is a recurring pattern, whether it involves homeless shelters or major redevelopment. Decisions are made first and residents are notified when it is nearly too late. As your state senator, I will propose legislation requiring 45 days of written notice, direct mail to affected residents and a community meeting before any covered agreement or final approval that would permanently alter a neighborhood. AlinaBonsell.com #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #Manhattan #NewYork][image: Today I stood with neighbors fighting to save AMC Kips Bay 15. By the time the community learned what was happening, the property transaction was completed and AMC was facing eviction. I found it ironic watching elected officials speak about saving the theater only after everything was signed and moving forward. They claim they did not know. I find it difficult to believe that something of this scale could progress without a single elected official representing the neighborhood knowing about it. If that is true, it is still a serious failure of oversight and communication. This is a recurring pattern, whether it involves homeless shelters or major redevelopment. Decisions are made first and residents are notified when it is nearly too late. As your state senator, I will propose legislation requiring 45 days of written notice, direct mail to affected residents and a community meeting before any covered agreement or final approval that would permanently alter a neighborhood. AlinaBonsell.com #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #Manhattan #NewYork]",
+"href": "https://www.instagram.com/reel/DdiNXxbuw3h/"
+},
+{
+"text": "[image: Toothpaste locked up. Toilet paper locked up. Detergent locked up. In 2022, Governor Hochul proposed changes to New York’s bail laws, including addressing repeat offenders. Senator Liz Krueger opposed key changes and argued that the rise in violence was not related to bail reform. She later said the data showed the bail changes were “not correlated to the growth in gun violence or physical violence.” Four years later, New Yorkers are still dealing with repeat offenders, retail theft and serious concerns about public safety. I believe judges should have greater discretion to keep dangerous repeat offenders off our streets. Voters can look at the record and decide whether Albany responded adequately. 24 years of neglect is enough. Elect me, your neighbor. #AlinaForNYSenate #AlinaBonsell #LetsEndTheNeglect #Manhattan][image: Toothpaste locked up. Toilet paper locked up. Detergent locked up. In 2022, Governor Hochul proposed changes to New York’s bail laws, including addressing repeat offenders. Senator Liz Krueger opposed key changes and argued that the rise in violence was not related to bail reform. She later said the data showed the bail changes were “not correlated to the growth in gun violence or physical violence.” Four years later, New Yorkers are still dealing with repeat offenders, retail theft and serious concerns about public safety. I believe judges should have greater discretion to keep dangerous repeat offenders off our streets. Voters can look at the record and decide whether Albany responded adequately. 24 years of neglect is enough. Elect me, your neighbor. #AlinaForNYSenate #AlinaBonsell #LetsEndTheNeglect #Manhattan]",
+"href": "https://www.instagram.com/reel/Dd8F5svOvpc/"
+},
+{
+"text": "[image: Yom Kippur is a time for reflection, renewal and becoming the person you were meant to be. Gmar Chatima Tova. #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #YomKippur #NewYork][image: Yom Kippur is a time for reflection, renewal and becoming the person you were meant to be. Gmar Chatima Tova. #AlinaForNYSenate #EndTheNeglect #ElectYourNeighbor #YomKippur #NewYork]",
+"href": "https://www.instagram.com/p/DdiRElNOwUo/"
+},
+{
+"text": "[image: alinab.nyc instagram Alina Bonsell]",
+"href": "https://www.instagram.com/alinab.nyc/"
+},
+{
+"text": "[image: alinabonsell on X]",
+"href": "https://x.com/AlinaBonsell"
+},
+{
+"text": "[image: x]",
+"href": "https://x.com/AlinaBonsell"
+},
+{
+"text": "[image: 🗽 I support New York NOT being a sanctuary state. We should cooperate with federal authorities when it comes to individuals who commit serious or violent crimes. But there need to be PROVISIONS FOR THOSE WHO ARE STUCK IN BETWEEN. People who are not taking advantage of our system, who are law abiding, working, contributing to our communities, raising families, and have become part of the fabric of New York. As New York moves away from sanctuary policies, I SUPPORT PROVIDING A CLEAR PATH TO LEGAL RESIDENCY OR CITIZENSHIP FOR THEM so that law abiding, contributing members of our communities are protected and have a legitimate path forward. 🇺🇸 We can ENFORCE OUR LAWS, PROTECT PUBLIC SAFETY, AND SUPPORT THOSE WHO CONTRIBUTE TO OUR STATE. AlinaBonsell.com #AlinaForNYSenate #AlinaBonsell #BlockMamdani #ElectYourNeighbor #manhattan][image: 🗽 I support New York NOT being a sanctuary state. We should cooperate with federal authorities when it comes to individuals who commit serious or violent crimes. But there need to be PROVISIONS FOR THOSE WHO ARE STUCK IN BETWEEN. People who are not taking advantage of our system, who are law abiding, working, contributing to our communities, raising families, and have become part of the fabric of New York. As New York moves away from sanctuary policies, I SUPPORT PROVIDING A CLEAR PATH TO LEGAL RESIDENCY OR CITIZENSHIP FOR THEM so that law abiding, contributing members of our communities are protected and have a legitimate path forward. 🇺🇸 We can ENFORCE OUR LAWS, PROTECT PUBLIC SAFETY, AND SUPPORT THOSE WHO CONTRIBUTE TO OUR STATE. AlinaBonsell.com #AlinaForNYSenate #AlinaBonsell #BlockMamdani #ElectYourNeighbor #manhattan]",
+"href": "https://www.instagram.com/p/Dd9ufokBy9e/"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@alinabonsell"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@AlinaBonsell"
+},
+{
+"text": "[image]",
+"href": "https://x.com/AlinaBonsell"
+},
+{
+"text": "[no text]",
+"href": "mailto:CONTACT@ALINABONSELL.COM"
+},
+{
+"text": "http://www.alinabonsell.com",
+"href": "http://www.alinabonsell.com"
+},
+{
+"text": "info@alinabonsell.com",
+"href": "mailto:​info@alinabonsell.com"
+}
 ]

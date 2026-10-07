@@ -1,21 +1,78 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/johnwaldron4ok",
-"https://instagram.com/waldron4ok",
-"https://twitter.com/Waldron4OK",
-"https://waldron4ok.com/",
-"https://waldron4ok.com/Events?range=2026-10",
-"https://waldron4ok.com/Events?range=2026-10-05",
-"https://waldron4ok.com/Events?range=2026-W40",
-"https://waldron4ok.com/Events?range=2026-W41",
-"https://waldron4ok.com/Events?range=2026-W42",
-"https://waldron4ok.com/about_john",
-"https://waldron4ok.com/contact",
-"https://waldron4ok.com/contribute",
-"https://waldron4ok.com/events",
-"https://waldron4ok.com/home",
-"https://waldron4ok.com/issues",
-"https://waldron4ok.com/news/Waldron-Announces",
-"https://waldron4ok.com/news/keep-calm-and-vote-on",
-"https://waldron4ok.com/volunteer"
+{
+"text": "#ago",
+"href": "https://www.waldron4ok.com/Events?range=%23"
+},
+{
+"text": "ABOUT JOHN",
+"href": "https://www.waldron4ok.com/about_john"
+},
+{
+"text": "CONTACT",
+"href": "https://www.waldron4ok.com/contact"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.waldron4ok.com/contribute"
+},
+{
+"text": "EVENTS",
+"href": "https://www.waldron4ok.com/events"
+},
+{
+"text": "HOME",
+"href": "https://www.waldron4ok.com/home"
+},
+{
+"text": "Keep Calm and Vote On",
+"href": "https://www.waldron4ok.com/news/keep-calm-and-vote-on"
+},
+{
+"text": "Next ›",
+"href": "https://www.waldron4ok.com/Events?range=2026-W42"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "This Month",
+"href": "https://www.waldron4ok.com/Events?range=2026-10"
+},
+{
+"text": "This Week",
+"href": "https://www.waldron4ok.com/Events?range=2026-W41"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.waldron4ok.com/volunteer"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.waldron4ok.com/issues"
+},
+{
+"text": "Waldron Announces Candidacy for House District 77",
+"href": "https://www.waldron4ok.com/news/Waldron-Announces"
+},
+{
+"text": "[image]",
+"href": "https://www.waldron4ok.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Waldron4OK"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/johnwaldron4ok/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/waldron4ok/"
+},
+{
+"text": "‹ Previous",
+"href": "https://www.waldron4ok.com/Events?range=2026-W40"
+}
 ]

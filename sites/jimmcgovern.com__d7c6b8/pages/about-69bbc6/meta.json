@@ -1,7 +1,14 @@
 {
  "description": "Jim McGovern has earned a national reputation as a tireless advocate for his district and as a champion for food security, human ....",
  "final_url": "https://www.jimmcgovern.com/about/",
- "paid_for_by": null,
+ "fingerprint": "4dcaea15e218e8861d0805bcc98357b7a4c5e153",
+ "format": 3,
+ "paid_for_by": "authorized by the Re-Elect McGovern Committee Powered by Mandate Media",
  "title": "Meet Jim | Jim McGovern for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "1984",
+  "1989",
+  "1996",
+  "2002"
+ ]
 }

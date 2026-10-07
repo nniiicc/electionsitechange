@@ -1,7 +1,26 @@
 [
-"https://aprildobson.com/",
-"https://aprildobson.com/issues",
-"https://aprildobson.com/volunteer",
-"https://designedtorun.com/",
-"https://donation.c-esystems.com/campaign/committeetoelectaprildobson"
+{
+"text": "Donate",
+"href": "https://donation.c-esystems.com/campaign/committeetoelectaprildobson"
+},
+{
+"text": "Get Involved",
+"href": "https://www.aprildobson.com/volunteer"
+},
+{
+"text": "Issues",
+"href": "https://www.aprildobson.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: April Dobson for State Representative]",
+"href": "https://www.aprildobson.com/"
+},
+{
+"text": "april@aprildobson.com",
+"href": "mailto:april@aprildobson.com"
+}
 ]

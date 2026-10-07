@@ -1,11 +1,9 @@
-Senator Suhas Subramanyam supports strong border security
-State Senator Suhas Subramanyam expresses condolences to the family of Melody Waldecker, supports strong border security.
-Ashburn, VA – Yesterday, State Senator Suhas Subramanyam was interviewed by Fox 5 DC’s Sierra Fox regarding Sunday’s tragic death of Melody Waldecker, a resident of Silver Spring, MD, and which occurred in Sterling, VA.
-https://www.fox5dc.com/video/1493477 “We have to make sure we have security at the border, and security in our immigration system generally,” said Subramanyam in the interview.
+0 Skip to Content Home Priorities Press and Media Volunteer Contribute Open Menu Close Menu Contribute Home Priorities Press and Media Volunteer Open Menu Close Menu Home Priorities Press and Media Volunteer Contribute Senator Suhas Subramanyam supports strong border security Jul 31 Written By Suhas for Virginia State Senator Suhas Subramanyam expresses condolences to the family of Melody Waldecker, supports strong border security.
+Ashburn, VA – Yesterday, State Senator Suhas Subramanyam was interviewed by Fox 5 DC’s Sierra Fox regarding Sunday’s tragic death of Melody Waldecker, a resident of Silver Spring, MD, and which occurred in Sterling, VA. https://www.fox5dc.com/video/1493477 “We have to make sure we have security at the border, and security in our immigration system generally,” said Subramanyam in the interview.
 “First and foremost my thoughts go out to the victim’s family.
 We are all trying to make our communities safer and this heinous act should be prosecuted to the full extent of the law,” said Subramanyam in extended remarks.
-###
-Senator Suhas Subramanyam is the Democratic nominee for Congress in Virginia’s 10th Congressional District to replace outgoing Congresswoman Jennifer Wexton.
+### Senator Suhas Subramanyam is the Democratic nominee for Congress in Virginia’s 10th Congressional District to replace outgoing Congresswoman Jennifer Wexton.
 Suhas has dedicated his life to public service as a State Senator, Obama White House advisor, Capitol Hill staffer, and as a Loudoun volunteer firefighter/EMT.
 In Richmond, he has worked across the aisle to pass gun violence prevention bills, protect democracy, and defend abortion rights.
 Suhas resides in Ashburn, Virginia (in VA-10) with his wife, Miranda, and their two daughters.
+Suhas for Virginia Previous Previous NewDems endorse Suhas Subramanyam for Congress Next Next Suhas Subramanyam condemns hateful and antisemitic acts DONATE Paid for by Suhas for Virginia Suhas for Virginia PO Box 302 Ashburn, VA 20146 Privacy Policy Message for VA10 Voters

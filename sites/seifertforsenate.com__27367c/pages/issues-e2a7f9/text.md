@@ -1,81 +1,24 @@
-Issues
-The state of Minnesota needs leadership at every level.
+Home About Issues Contact Donate Issues The state of Minnesota needs leadership at every level.
 It is the top issue of the campaign because without leadership, the important issues will not be addressed properly for our district, which is large and needs a strong voice in the State Senate.
-Fraud and Welfare Reform
-Minnesota has been literally robbed by the fraudsters who are taking advantage of an incompetent Walz administration and generous, easy to access programs that are resulting in billions of dollars being stolen from our state treasury.
-As your next State Senator, I am proposing the following actions:
-•
-Empower an Inspector General to aggressively root out fraud
-Regular audits, swift prosecutions and long sentences, with FULL restitution for anyone caught stealing from our government programs
-Eliminate unnecessary programs that lure fraudsters to Minnesota, especially those that other states do not have
-Enact meaningful welfare reforms, including one-year waiting periods for non-Minnesotans who come here seeking our generous welfare programs; work requirements for abled-bodied, able-minded, working age adults; time limitations to break the years and years of dependency
-Enact policies that will create good paying jobs with benefits so there are employment opportunities in our state
-Scrutinize CORPORATE welfare equally to general welfare
-Cost of Living
-The cost of living has been hitting families and small businesses hard.
+Fraud and Welfare Reform Minnesota has been literally robbed by the fraudsters who are taking advantage of an incompetent Walz administration and generous, easy to access programs that are resulting in billions of dollars being stolen from our state treasury.
+As your next State Senator, I am proposing the following actions: ‍ • Empower an Inspector General to aggressively root out fraud • Regular audits, swift prosecutions and long sentences, with FULL restitution for anyone caught stealing from our government programs • Eliminate unnecessary programs that lure fraudsters to Minnesota, especially those that other states do not have • Enact meaningful welfare reforms, including one-year waiting periods for non-Minnesotans who come here seeking our generous welfare programs; work requirements for abled-bodied, able-minded, working age adults; time limitations to break the years and years of dependency • Enact policies that will create good paying jobs with benefits so there are employment opportunities in our state • Scrutinize CORPORATE welfare equally to general welfare Cost of Living The cost of living has been hitting families and small businesses hard.
 Much of those increased costs is because of government.
-As your next State Senator, I am proposing the following actions:
-Repeal the Walz energy mandates that are driving up the cost of electricity.
+As your next State Senator, I am proposing the following actions: ‍ • Repeal the Walz energy mandates that are driving up the cost of electricity.
 As a result of this expensive and unneeded law, it costs more to heat and cool our homes.
-Businesses raise the prices of their goods because they are paying more for their electric costs at their stores and factories
-Increase electric supply by and “all of the above” strategy of utilizing nuclear, hydro, natural gas and all types of affordable energy production to cut costs and put more money in your pocket
-Repeal the DFL increase on license tabs.
+Businesses raise the prices of their goods because they are paying more for their electric costs at their stores and factories • Increase electric supply by and “all of the above” strategy of utilizing nuclear, hydro, natural gas and all types of affordable energy production to cut costs and put more money in your pocket • Repeal the DFL increase on license tabs.
 Neighboring states show that similar vehicles are pricing their license tabs at 50% or less of the cost in Minnesota.
-This will directly put money back into your pocket if you drive a car
-Remove Minnesota from the top 10 of all tax categories.
+This will directly put money back into your pocket if you drive a car • Remove Minnesota from the top 10 of all tax categories.
 Minnesotans pay a lot of taxes, but we aren’t getting the value we expect.
-Allow families and businesses to keep more of their hard earned money
-Reduce regulations that drive up costs.
+Allow families and businesses to keep more of their hard earned money • Reduce regulations that drive up costs.
 There are many examples of businesses that are choosing other states because of our red tape and bureaucracy.
-We can grow more jobs, expand the tax base and reduce tax rates by growing the economy
-Litigation reform.
+We can grow more jobs, expand the tax base and reduce tax rates by growing the economy • Litigation reform.
 The legislature needs to reign in the Attorney General, who is increasing the costs of our products from cars to goods at Menards because of his lawsuits.
-Businesses do not eat the costs of litigation and regulation, they pass those costs on to you, the consumer
-Education
-Minnesota kids deserve a high quality education.
+Businesses do not eat the costs of litigation and regulation, they pass those costs on to you, the consumer Education Minnesota kids deserve a high quality education.
 I was educated in both public and parochial schools.
 Test scores have declined significantly over the past few years and local teachers need to be supported as they work to educate our children.
-As your next State Senator, I am proposing the following actions:
-Respect local control by repealing most of the unfunded, expensive mandates imposed on our local schools, taking scarce dollars from classrooms
-Equalize the current unfair funding formulas to help our local rural schools
-Focus on academics, especially reading and literacy
-Parental empowerment to make the best choices for their students
-Protect our private and parochial schools from the reductions proposed by Governor Walz in the last legislative session that would have resulted in closures and massive cuts
-Health Care
-Minnesota has been a leader in health care quality and outcomes.
+As your next State Senator, I am proposing the following actions: ‍ • Respect local control by repealing most of the unfunded, expensive mandates imposed on our local schools, taking scarce dollars from classrooms • Equalize the current unfair funding formulas to help our local rural schools • Focus on academics, especially reading and literacy • Parental empowerment to make the best choices for their students • Protect our private and parochial schools from the reductions proposed by Governor Walz in the last legislative session that would have resulted in closures and massive cuts Health Care Minnesota has been a leader in health care quality and outcomes.
 The main issue of concern has been increased costs and lack of providers.
-As your next State Senator, I am proposing the following actions:
-Enact market based reforms to bring down the cost of insurance
-Concentrate dollars to people and care, not insurance or government bureaucracy
-Medical malpractice reform
-Focus on prevention and affordable cost of care access
-Educate more physicians to ease supply problems in rural health care settings
-Agriculture
-Minnesota is proud to be home to some of the richest farmland and agricultural production in the world.
+As your next State Senator, I am proposing the following actions: ‍ • Enact market based reforms to bring down the cost of insurance • Concentrate dollars to people and care, not insurance or government bureaucracy • Medical malpractice reform • Focus on prevention and affordable cost of care access • Educate more physicians to ease supply problems in rural health care settings Agriculture Minnesota is proud to be home to some of the richest farmland and agricultural production in the world.
 My ancestors farmed the land in Brown, Lyon and Redwood Counties to provide for their families and be good stewards of both animal agriculture and crop production.
-As your next State Senator, I am proposing the following actions:
-Property tax reform to bring down the cost farmers pay
-New uses, new markets and value added processing to increase the value of agricultural products
-Cut red tape, permitting and bureaucratic red tape preventing expansion of agricultural processors
-Open up all markets to feed a hungry world
-Budget
-Balance the budget by controlling and reducing spending, NOT raising taxes
-Zero based budgeting with a top to bottom review of the entire state budget
-Enact recommendations of the Legislative Auditor outlined in numerous reports to the legislature
-Prioritize outcomes and people over bureaucracy and wasteful programs
-Utilize outsourcing and modern, creative solutions for services over status quo government delivery systems
-Crime
-Long and completed sentences for violent criminals
-Repeal Walz policy of early release for violent criminals
-Lengthen sentences for repeat offenders
-Allow all Minnesota law enforcement to cooperate with ICE on apprehension, detainment and incarceration of violent or criminal illegal aliens
-Utilize cost effective incarceration methods, such as using the existing, but empty prison in Appleton over dumping hundreds of millions of dollars into the current system
-Prohibit the Walz policy of allowing men into women’s prisons
-Braxton Seifert
-Braxton@seifertforsenate.com
-Prepared and Paid for by Seifert for Senate
-P.O.
-Box 58, Marshall, MN 56258
-Privacy Policy
-P.O.
-Box 58, Marshall, MN 56258
+As your next State Senator, I am proposing the following actions: ‍ • Property tax reform to bring down the cost farmers pay • New uses, new markets and value added processing to increase the value of agricultural products • Cut red tape, permitting and bureaucratic red tape preventing expansion of agricultural processors • Open up all markets to feed a hungry world Budget As your next State Senator, I am proposing the following actions: ‍ • Balance the budget by controlling and reducing spending, NOT raising taxes • Zero based budgeting with a top to bottom review of the entire state budget • Enact recommendations of the Legislative Auditor outlined in numerous reports to the legislature • Prioritize outcomes and people over bureaucracy and wasteful programs • Utilize outsourcing and modern, creative solutions for services over status quo government delivery systems Crime As your next State Senator, I am proposing the following actions: ‍ • Long and completed sentences for violent criminals • Repeal Walz policy of early release for violent criminals • Lengthen sentences for repeat offenders • Allow all Minnesota law enforcement to cooperate with ICE on apprehension, detainment and incarceration of violent or criminal illegal aliens • Utilize cost effective incarceration methods, such as using the existing, but empty prison in Appleton over dumping hundreds of millions of dollars into the current system • Prohibit the Walz policy of allowing men into women’s prisons Braxton Seifert Braxton@seifertforsenate.com Prepared and Paid for by Seifert for Senate P.O.
+Box 58, Marshall, MN 56258 Privacy Policy

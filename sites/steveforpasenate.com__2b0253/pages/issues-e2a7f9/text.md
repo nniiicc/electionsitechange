@@ -1,12 +1,9 @@
-top of page
-ISSUES
-GET INVOLVED
-Mail a Donation to steve
-In this important time, I appreciate anything that you can donate to my campaign.
+top of page DONATE Home About Issues Mail In Ballots Get Involved Volunteer Host Steve Events Become an intern Become an Organizing Fellow In The News Contact More Use tab to navigate through the menu items.
+ISSUES Reforming Government Read More Education and Jobs Read More Public Safety Read More Freedom and Privacy Read More DONATE TO STEVE's campaign!
+DONATE GET INVOLVED First Name Last Name Enter Your Email Phone Select an option Volunteer Show my support Leave a message Leave a message for Steve!
+Submit Thanks for submitting!
+Mail a Donation to steve In this important time, I appreciate anything that you can donate to my campaign.
 Checks can be made payable to “Santarsiero for State Senate”.
-You can mail them to:
-Steve Santarsiero for Pennsylvania Senate
-P.O.
-Box 671
-Newtown, PA 18940
-bottom of page
+You can mail them to: Steve Santarsiero for Pennsylvania Senate P.O.
+Box 671 Newtown, PA 18940 ​ Home About Issues Mail In Ballots Get Involved Volunteer Host Steve Events Become an intern Become an Organizing Fellow In The News Contact More Use tab to navigate through the menu items.
+Paid for by Steve Santarsiero for State Senate PO Box 671 Newtown, PA 18940 info@steveforpasenate.com (215) 944-4700 ​​ ​ bottom of page

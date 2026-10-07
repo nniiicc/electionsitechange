@@ -1,7 +1,12 @@
 {
  "description": "In preparation for this election year, the site has been updated. I would appreciate your vote this November.",
  "final_url": "https://thomasholbrook.com/site-has-been-updated",
- "paid_for_by": null,
+ "fingerprint": "e4370bc4bf3cb61316f4d39fe4664f5c4e7364e9",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Site Has Been Updated - Holbrook For Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2023",
+  "2024"
+ ]
 }

@@ -1,11 +1,46 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://rodneywrightforarkansas.com/",
-"https://rodneywrightforarkansas.com/about",
-"https://rodneywrightforarkansas.com/coming-soon-03",
-"https://rodneywrightforarkansas.com/contact",
-"https://rodneywrightforarkansas.com/general-5",
-"https://secure.winred.com/rodney-wright-for-arkansas/donate-hd",
-"https://twitter.com/wix"
+{
+"text": "About",
+"href": "https://www.rodneywrightforarkansas.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.rodneywrightforarkansas.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/rodney-wright-for-arkansas/donate-hd"
+},
+{
+"text": "Home",
+"href": "https://www.rodneywrightforarkansas.com"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://www.rodneywrightforarkansas.com/contact"
+},
+{
+"text": "News",
+"href": "https://www.rodneywrightforarkansas.com/coming-soon-03"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rodneywrightforarkansas.com/general-5"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/wix"
+},
+{
+"text": "info@rodneywrightcampaign.com",
+"href": "mailto:info@rodneywrightcampaign.com"
+}
 ]

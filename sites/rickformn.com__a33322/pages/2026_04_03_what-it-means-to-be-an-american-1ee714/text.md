@@ -1,3 +1,4 @@
+Skip to content Rick Olson for State Senate About Rick Volunteer Lawn Sign Issues Contact Us instagram facebook youtube Donate Search… CHIP IN $20 for RICK instagram facebook youtube Donate Rick Olson for State Senate Search… About Rick Volunteer Lawn Sign Issues Contact Us Search… What it Means to be an American Immigrants awaiting customs processing for entry to the US at Ellis Island, circa 1910.
 The United States of America is an exceptional country.
 We are a nation of immigrants where people of different nations and faiths forged a common identity and made this country great.
 Ronald Reagan spoke of America as the shining city on a hill, a city “teeming with people of all kinds living in harmony and peace”.
@@ -12,8 +13,8 @@ Her mantra was to “work hard and get an education”.
 All six of us received a college degree and lived mom’s dream.
 We have all done well.
 My wife grew up on a very small farm.
-We married 55 years ago, and despite ups and downs, we too have lived the American Dream – that you can start with nothing and become very financially secure.
-The United States is exceptional but not perfect
+We married #ago, and despite ups and downs, we too have lived the American Dream – that you can start with nothing and become very financially secure.
+The United States is exceptional but not perfect My family before my father passed away.
 The United States is exceptional.
 Most countries are “nations” because of some common language, ethnicity, religion, etc.
 The United States spans all of those, but not because of those, but rather began as an idea – the idea that we could be a self-governing people, with checks and balances in our U.S.
@@ -26,8 +27,7 @@ Our U.S.
 Constitution guarantees our individual liberties, including the right to own property and to benefit from the sweat of our brow.
 Between 1880 and 1914, over 20 million immigrants came to the United States, mostly from Europe, at a time when the United States had 75 million residents.
 Most had a great desire to assimilate – to become truly American.
-We have to protect the Constitution and fight for the opportunities it provides
-They came for the individual liberties, equal opportunity, and the ability to create their own future, for themselves, their children and their grandchildren.
+We have to protect the Constitution and fight for the opportunities it provides They came for the individual liberties, equal opportunity, and the ability to create their own future, for themselves, their children and their grandchildren.
 Those millions have lived their American Dream.
 Of course, some have done better than others, but that is to be expected when one gets rewarded in direct proportion to the amount of service you provide to others.
 Now, the United States is not perfect.
@@ -40,6 +40,8 @@ That’s not a very high bar to get over.
 Graduating from high school, marriage, children and divorce are factors within one’s ability to control.
 We need people to be more accountable for their own results.
 Whether or not you achieve your American Dream is largely up to you.
+Visting a village in 2019 on a 12-day biking safari and 19,341’ Mt.
+Kilimanjaro climb in Tanzania.
 I have had the opportunity to travel a lot.
 I have been to all 50 states and to 40 countries.
 Every time I return home I think, “Boy, am I lucky to live here – in the United States and now in Minnesota.” When I have seen how people in other countries live, we are so fortunate.
@@ -56,3 +58,5 @@ It takes courage.
 What we in the United States hold in our hands is our future.
 It will be what we make it.
 I am optimistic we will succeed.
+Learn More About Rick Olson Volunteer Sign Up About Rick Voting Locations Volunteer Lawn Sign Privacy Policy Contact Us instagram facebook youtube Prepared and paid for by Olson Senate Committee, P.O.
+Box 15, Prior Lake, MN 55372 © Olson Senate Committee

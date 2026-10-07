@@ -1,11 +1,13 @@
-News
-Latest updates from the campaign:
-🌻Teachers speak out on policy regarding social media
-🌻Acting on their passion - BSIC students launch campaign to help abandoned animals
-🌻BSIC's Burnfin receives award from KDE
-The Garden City Telegram
-Note: This story was originally printed in The Garden City Telegram in 2016.
-The digital version was erased between changes in ownership, but the archived story can be found through the Finney County Library digital database.
+Meet Becca Issues Photos News Volunteer Yard Signs Contribute News Latest updates from the campaign: 22 Oct Wednesday, 1:08 PM · 2025 🌻Teachers speak out on policy regarding social media In a Garden City Telegram article covering a USD 457 Board of Education meeting, Becca Burnfin spoke in support of protecting educators' ability to engage in responsible civic discourse while maintaining professional standards.
+Burnfin argued that teachers should model the same critical thinking, civic participation, and respectful exchange of ideas that they encourage in their students.
+She expressed concern that vague language in a proposed social media policy could discourage educators from participating in their communities and exercising their voices as private citizens.
+The article reflects Burnfin's commitment to fostering civic engagement, advocating for fair and transparent policies, and ensuring that educators can continue to serve as positive role models both inside and outside the classroom.
+Read more 22 Dec Friday, 1:03 PM · 2017 🌻Acting on their passion - BSIC students launch campaign to help abandoned animals In a Garden City Telegram feature, Becca Burnfin was highlighted for creating student-led "passion projects" that empowered students to identify community needs and take meaningful action.
+Inspired by the Genius Hour model, Burnfin encouraged students to pursue causes they cared about and develop real-world solutions.
+One project, Dog Days of December , led by two sixth-grade students, raised awareness and collected hundreds of dollars in donations for the Finney County Humane Society while educating classmates about responsible pet ownership and animal adoption.
+The article demonstrated Burnfin's commitment to helping students turn their passions into community service, teaching them that their ideas and leadership can make a lasting, positive impact beyond the classroom.
+Read more 9 Jan Monday, 12:55 PM · 2017 🌻BSIC's Burnfin receives award from KDE The Garden City Telegram Note : This story was originally printed in The Garden City Telegram in 2016.
+The digital version was erased between changes in ownership, but the archived story can be found through the Finney County Library digital database .
 Rebecca Burnfin, sixth-grade science, social studies and writing teacher at Bernadine Sitts Intermediate Center, has received the 2017 Kansas Horizon Award from the Kansas Department of Education.
 Randy Watson, Kansas Commissioner of Education, called the school on Friday to announce that Burnfin was a recipient of the prestigious award.
 The Kansas Horizon Award recognizes teachers who have done an exemplary job in their first year of teaching.
@@ -15,16 +17,16 @@ She was also a 2016 Crystal Apple winner, a teacher recognition program for Finn
 As a recipient of the Kansas Horizon Award, Burnfin has been invited to join the Kansas Exemplary Educators Network (KEEN) held each February in Topeka.
 KEEN is a network of educators from across the state, allowing teachers to share ideas with other teachers and to participate in a number of professional development programs.
 She will also receive a cash award.
-🌻Burnfin changing the face of education
-In 2016, in just her fourth year as a teacher, Becca Burnfin was nominated for Finney County's most prestigious annual teaching award, the Crystal Apple, presented by the Garden City Chamber of Commerce.
+11 Nov Friday, 11:44 AM · 2016 🌻Burnfin changing the face of education In 2016, in just her fourth year as a teacher, Becca Burnfin was nominated for Finney County's most prestigious annual teaching award, the Crystal Apple, presented by the Garden City Chamber of Commerce.
 This story was a preview to the awards ceremony, as education reporter Josh Harbour interviewed Burnfin and featured her teaching style and goals.
-🌻Burnfin, Herdman, Terpstra named 2016 Crystal Apple winners
-In 2016, in just her fourth year as a teacher, Becca Burnfin was awarded Finney County's most prestigious annual teaching award, the Crystal Apple, presented by the Garden City Chamber of Commerce.
+Read more 8 Nov Tuesday, 12:37 PM · 2016 🌻Burnfin, Herdman, Terpstra named 2016 Crystal Apple winners In 2016, in just her fourth year as a teacher, Becca Burnfin was awarded Finney County's most prestigious annual teaching award, the Crystal Apple, presented by the Garden City Chamber of Commerce.
 The award recognized Burnfin for her innovative teaching techniques, highlighting her passion for improving not just her skills, but the skills of every student and professional around her.
 That drive has led Burnfin to win multiple awards, including the Kansas Exemplary Educator Network Horizon Award, and to where she is today: fighting for her community at the state level.
-🌻'Backyard Bonanza' educates students about conservation
-🌻Kiwanis reaching out to local teachers
-In a Garden City Telegram story highlighting Kiwanis Teacher Mini Grants, Becca Burnfin was recognized for seeking additional resources to better serve her students.
+Read more 21 Apr Thursday, 1:00 PM · 2016 🌻'Backyard Bonanza' educates students about conservation In a Garden City Telegram article covering the annual Party for the Planet Earth Day celebration at Lee Richardson Zoo, students from Becca Burnfin's sixth-grade class were featured learning about environmental stewardship, conservation, and community responsibility.
+Burnfin's students spoke about the importance of recycling, protecting wildlife, and caring for natural resources, reflecting the hands-on, real-world learning opportunities she encouraged beyond the classroom.
+By connecting students with local organizations, conservation experts, and interactive educational experiences, Burnfin demonstrated her commitment to helping students explore their interests, develop a sense of civic responsibility, and become engaged members of their community.
+Read more 15 Mar Sunday, 12:45 PM · 2015 🌻Kiwanis reaching out to local teachers In a Garden City Telegram story highlighting Kiwanis Teacher Mini Grants, Becca Burnfin was recognized for seeking additional resources to better serve her students.
 Rather than asking students to work with limited classroom materials, Burnfin secured a grant to purchase digital writing tools that would expand learning opportunities and support student creativity.
 The article reflects her proactive approach to education: identifying her students' needs, pursuing community partnerships, and bringing outside resources into the classroom so students could explore their passions and develop new skills.
 It illustrates Burnfin's belief that strong schools are built through collaboration between educators and the community, with every investment focused on helping students succeed.
+Read more Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com - Political Websites Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu

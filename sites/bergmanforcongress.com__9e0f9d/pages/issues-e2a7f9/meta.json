@@ -1,11 +1,15 @@
 {
  "description": "",
  "final_url": "https://www.bergmanforcongress.com/issues",
- "paid_for_by": null,
+ "fingerprint": "45ae18765b739e82d7d48360958e0722d501e2fa",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Issues",
  "years_mentioned": [
+  "1998",
   "2020",
   "2025",
-  "2026"
+  "2026",
+  "2031"
  ]
 }

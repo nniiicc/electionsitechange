@@ -1,7 +1,8 @@
-Volunteer
-For any campaign to work, it requires dedicated enthusiastic volunteers.
+Toggle navigation Donate Volunteer Home Meet June About On The Issues Endorsements News Contact Us Volunteer For any campaign to work, it requires dedicated enthusiastic volunteers.
 These critical resources are the lifeblood of any successful campaign.
 Volunteers perform a diverse array of tasks, from door-to-door canvassing to stuffing letters, to making calls.
 But while the work is diverse, one thing is always consistent — there is always a friendly, team-oriented environment in which you get to promote progressive values and meet new people at the same time!
 We understand that everyone has different interests and a different amount of time that they are able to commit to volunteering.
 Once you submit the form, we will get in touch with you (via telephone or e-mail, whichever you prefer) and talk to you about how you would like to help and upcoming opportunities.
+Name * First Last Address * Street Address Address Line 2 City Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific State ZIP Code Cell Phone/Home Phone * Email * CAPTCHA Submit × Retain Grant County Superior Court Judge David Estudillo Paid for by Citizens for June Robinson | PO Box 507, Everett, WA 98206

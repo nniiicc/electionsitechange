@@ -1,8 +1,42 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://facebook.com/share",
-"https://facebook.com/share/1EkrUqq15w?mibextid=wwXIfr",
-"https://vanessapoulinnh.com/",
-"https://vanessapoulinnh.com/contact"
+{
+"text": "About",
+"href": "https://vanessapoulinnh.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://vanessapoulinnh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://vanessapoulinnh.com/#donate"
+},
+{
+"text": "Get Involved",
+"href": "https://vanessapoulinnh.com/#get-involved"
+},
+{
+"text": "Issues",
+"href": "https://vanessapoulinnh.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "[image: Vanessa Poulin Campaign Logo] Vanessa Poulin",
+"href": "https://vanessapoulinnh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1EkrUqq15w/?mibextid=wwXIfr"
+}
 ]

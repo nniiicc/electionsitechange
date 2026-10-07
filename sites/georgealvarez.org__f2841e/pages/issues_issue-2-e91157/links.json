@@ -1,23 +1,86 @@
 [
-"https://advocate.nyc.gov/blog/build-a-budget-for-nyc-working-families",
-"https://assembly.state.ny.us/leg?bn=A03708&Summary=Y&Text=Y",
-"https://assembly.state.ny.us/leg?bn=A03881",
-"https://assembly.state.ny.us/leg?bn=A03914",
-"https://assembly.state.ny.us/leg?bn=A05471",
-"https://assembly.state.ny.us/leg?bn=A10716",
-"https://assembly.state.ny.us/mem?ad=078&sh=video&video=28049",
-"https://designedtorun.com/",
-"https://facebook.com/galvarezny",
-"https://georgealvarez.org/",
-"https://georgealvarez.org/about",
-"https://georgealvarez.org/contact",
-"https://georgealvarez.org/endorsements",
-"https://georgealvarez.org/events",
-"https://georgealvarez.org/issues",
-"https://georgealvarez.org/news",
-"https://georgealvarez.org/volunteer",
-"https://instagram.com/galvareznyc",
-"https://kingsbridgetogether.com/sites/default/files/2023-08/NYCEDC-Together-for-Kingsbridge-Vision-Plan-Spanish.pdf",
-"https://secure.actblue.com/donate/galvareznyc",
-"https://x.com/galvareznyc"
+{
+"text": "\"New York State Agency BIPOC Asset Management and Financial Institution Strategy Act\"",
+"href": "https://assembly.state.ny.us/leg/?bn=A05471&leg_video="
+},
+{
+"text": "A03708,",
+"href": "https://assembly.state.ny.us/leg/?default_fld=&leg_video=&bn=A03708&term=&Summary=Y&Text=Y"
+},
+{
+"text": "A03881.",
+"href": "https://assembly.state.ny.us/leg/?bn=A03881&leg_video="
+},
+{
+"text": "About",
+"href": "https://www.georgealvarez.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.georgealvarez.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/galvareznyc"
+},
+{
+"text": "Endorsements",
+"href": "https://www.georgealvarez.org/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.georgealvarez.org/events"
+},
+{
+"text": "Issues",
+"href": "https://www.georgealvarez.org/issues"
+},
+{
+"text": "Kingsbridge Armory",
+"href": "https://kingsbridgetogether.com/sites/default/files/2023-08/NYCEDC-Together-for-Kingsbridge-Vision-Plan-Spanish.pdf"
+},
+{
+"text": "News",
+"href": "https://www.georgealvarez.org/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Taxing the rich will create a state budget that raises billions in revenue",
+"href": "https://advocate.nyc.gov/blog/build-a-budget-for-nyc-working-families"
+},
+{
+"text": "Volunteer",
+"href": "https://www.georgealvarez.org/volunteer"
+},
+{
+"text": "[image: George Alvarez | New York State Assemblymember | District 78]",
+"href": "https://www.georgealvarez.org/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/galvarezny"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/galvareznyc/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/galvareznyc"
+},
+{
+"text": "bill A3914",
+"href": "https://assembly.state.ny.us/leg/?bn=A03914&leg_video="
+},
+{
+"text": "taxing New York's wealthiest 1%",
+"href": "https://www.assembly.state.ny.us/mem/?ad=078&sh=video&video=28049"
+},
+{
+"text": "“End the Toll Trap: Real Relief for Drivers Act” (A10716)",
+"href": "https://assembly.state.ny.us/leg/?bn=A10716&leg_video="
+}
 ]

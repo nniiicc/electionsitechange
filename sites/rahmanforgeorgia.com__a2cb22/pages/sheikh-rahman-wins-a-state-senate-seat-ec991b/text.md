@@ -1,3 +1,4 @@
-SHEIKH RAHMAN BECOMES THE FIRST IMMIGRANT ELECTED ON TO THE GEORGIA STATE SENATE
-In a stunning upset, Bangladeshi-American Sheikh Rahman unseated a 14-year incumbent to become the first immigrant ever elected to the Georgia Senate.
+Meet Sheikh Issues News Contact Me Volunteer Donate Select Page Follow Follow Follow Sheikh Rahman wins a state Senate seat SHEIKH RAHMAN BECOMES THE FIRST IMMIGRANT ELECTED ON TO THE GEORGIA STATE SENATE In a stunning upset, Bangladeshi-American Sheikh Rahman unseated a 14-year incumbent to become the first immigrant ever elected to the Georgia Senate.
 State Senate District 5 sits in the rapidly diversifying suburbs of Gwinnett County, just north of Atlanta.
+110 C State Capitol Atlanta, Georgia 30334 Office: 404.463.5261 District: 770.515.9079 Email: Email Me Join Our Mailing List Never miss an update Success!
+First Name Last Name Email Subscribe Now VOTING INFORMATION Register To Vote Where do I vote Absentee Ballots Election Schedule Facebook X Instagram Paid for by Friends of Sheikh Rahman © All Rights Reserved Site design by IKJWeb

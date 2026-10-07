@@ -1,4 +1,5 @@
-Please plan to join us for Lunch at the Farm with Kristin
-Grab some lunch and learn why Kristin is the best candidate for Senate in the 28th District
-Saturday, April 28, 2018 — 11:00 AM until 2:00 PM — Event held rain or shine
-RSVP by email to:colleenmweldon@gmail.com or by calling 203-300-2507
+Skip to content Kristin Phillips-Hill for State Senate Kristin Phillips-Hill for State Senate Home Meet Kristin Issues Join Kristin’s Team Contact Donate Facebook page opens in new window Home Meet Kristin Issues Join Kristin’s Team Contact Donate Lunch at the Farm with Kristin Please plan to join us for Lunch at the Farm with Kristin Grab some lunch and learn why Kristin is the best candidate for Senate in the 28th District Saturday, April 28, 2018 — 11:00 AM until 2:00 PM — Event held rain or shine RSVP by email to:colleenmweldon@gmail.com or by calling 203-300-2507 Join the Team Help elect Kristin to the State Senate.
+Stay Informed Subscribe to Kristin’s newsletter.
+Donate Contribute to Kristin’s campaign.
+Recent Posts A Special THANK YOU from Kristin Phillips-Hill smashes petition signature requirement to get on ballot PHILLIPS-HILL TO SEEK RE-ELECTION FOR SECOND TERM TO STATE SENATE Phillips-Hill: Full Potential Not Realized in Full Year 18-19 Budget Lunch at the Farm with Kristin Archives March 2022 June 2018 April 2018 August 2017 Important Information Find Your Polling Place Register to Vote Apply for an Absentee Ballot Follow Me on Facebook Facebook PAID FOR BY FRIENDS OF KRISTIN PHILLIPS-HILL Site content ©# Friends of Kristin Phillips-Hill.
+Go to Top

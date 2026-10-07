@@ -1,9 +1,4 @@
-| |
-| By Authority: Friends of David Moon.
-Chair: Marlana Valdez.
-Treasurer: Usman Ahmed. |
-| |
-| The COVID-19 pandemic drove Maryland's 2020 legislative session to abruptly end early for the first time since the Civil War.
+2020 Legislative Session Update The COVID-19 pandemic drove Maryland's 2020 legislative session to abruptly end early for the first time since the Civil War.
 But in the closing days of our shortened session we quickly: Authorized $50 million in emergency funding for pandemic response Approved new revenue sources to generate millions more for coronavirus-related needs Appointed a team of legislators to handle rapid-response to ongoing coronavirus policy issues These actions are in addition to new measures being continuously implemented by Governor Larry Hogan under emergency powers, including: Re-opening hospitals & recruiting health professionals Suspending evictions, utilities cut-offs and late fees We all have a role to play to protect one another, and for most that means staying put.
 Please abide by government instructions & social-distancing rules.
 Your community is depending on you.
@@ -17,15 +12,15 @@ And as holes in our public health & social infrastructure are exposed, I will be
 In the meantime, let's look out for one another.
 It's a good time to pause and remember what's important.
 My heart feels pain for those struggling right now, but my eyes see hope for all of us -- together.
-Stay safe & united, Delegate David Moon david@davidmoon.us Maryland COVID-19 Unemployment Insurance Info: COVID-19 Info for Maryland Businesses: Track COVID-19 Cases in Maryland: Montgomery County COVID-19 Info: Montgomery County Public Schools COVID-19 Info: Maryland Presidential Primary Election Moved to June 2nd: Takoma Park COVID-19 Info: Montgomery County COVID-19 Testing Info - If you think you are ill and need medical care, you should seek medical attention.
+Stay safe & united, Delegate David Moon david@davidmoon.us State & Local COVID-19 Info Maryland COVID-19 Unemployment Insurance Info : http://www.labor.maryland.gov/employment/uicovidfaqs.shtml COVID-19 Info for Maryland Businesses : https://govstatus.egov.com/md-coronavirus-business Track COVID-19 Cases in Maryland : https://coronavirus.maryland.gov Montgomery County COVID-19 Info : https://montgomerycountymd.gov/hhs/rightnav/coronavirus.html Montgomery County Public Schools COVID-19 Info : https://www.montgomeryschoolsmd.org Maryland Presidential Primary Election Moved to June 2nd: https://elections.maryland.gov/elections/2020/index.html Takoma Park COVID-19 Info : https://takomaparkmd.gov/city-blog/coronavirus-covid-19-information Montgomery County COVID-19 Testing Info - If you think you are ill and need medical care, you should seek medical attention.
 Call ahead before going so the provider can take precautions when you arrive.
 Testing guidelines from the Centers for Disease Control (CDC) change frequently.
-Please visit their site for updates on their guidance about who should be tested: Your physician or health care provider will assess your symptoms and determine if diagnostic testing for the COVID-19 virus is appropriate.
+Please visit their site for updates on their guidance about who should be tested: https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html Your physician or health care provider will assess your symptoms and determine if diagnostic testing for the COVID-19 virus is appropriate.
 If your health care provider suspects COVID-19, THEY will coordinate testing with a commercial lab or the State's public health laboratory.
 While some commercial labs have the ability to analyze and report results to the patient or provider who ordered testing, the labs currently only perform the analysis and DO NOT collect specimens directly from patients.
 If you would like to speak with a nurse please call 240-777-1755.
-Maryland COVID-19 Emergency Legislation - The Governor signed emergency legislation on March 19, 2020 that includes: No Fees or Co-pays for COVID-19 Tests: Ensuring that Marylanders will not be charged fees or co-pays for COVID-19 tests No Price-Gouging: Prohibits price-gouging for food, fuel, medicine, cleaning products and other essential supplies Workers Cannot be Terminated: Guarantees that Marylanders cannot be terminated from their jobs because they have been isolated or quarantined Unemployment Benefits: Will allow the Secretary of Labor to extend unemployment benefits to workers who cannot work because they are quarantined, at risk for exposure, or to care for a family member with COVID-19.
-Everyday life has changed so dramatically in the last month that it's easy to forget the goals we had just a few months ago.
+Maryland COVID-19 Emergency Legislation - The Governor signed emergency legislation on March 19, 2020 that includes: No Fees or Co-pays for COVID-19 Tests : Ensuring that Marylanders will not be charged fees or co-pays for COVID-19 tests No Price-Gouging : Prohibits price-gouging for food, fuel, medicine, cleaning products and other essential supplies Workers Cannot be Terminated : Guarantees that Marylanders cannot be terminated from their jobs because they have been isolated or quarantined Unemployment Benefits : Will allow the Secretary of Labor to extend unemployment benefits to workers who cannot work because they are quarantined, at risk for exposure, or to care for a family member with COVID-19.
+2020 Legislative Session News Everyday life has changed so dramatically in the last month that it's easy to forget the goals we had just a few months ago.
 Though our legislative session was cut short this year, a few major bills passed before Annapolis was shut down: A Blueprint for Maryland's Future (HB 1300) - The Maryland General Assembly approved a long-term education support plan: The Blueprint for Maryland's Future modernizes our schools, expands pre-K and support services & more.
 Protecting the Affordable Care Act (HB 959) - This year Maryland approved legislation to codify key provisions of the Affordable Care Act into state law, including allowing youths to stay on their parents' insurance until they turn 26, eliminating co-pays for some preventive services, and expanding coverage for pre-existing conditions.
 Background Checks for Private Long-Gun Sales Passes House (HB 4) - After years of delay on this bill, the General Assembly passed legislation requiring background checks on private long-gun sales.
@@ -42,4 +37,6 @@ David Moon (D-Silver Spring) since 2017....
 Since 2002, private clubs and courses throughout the state with at least 50 acres and 100 members can qualify for property tax assessments of just $1,000 per acre if they agree not to restrict membership based on gender, race, nationality or religion.
 The proposed deal would raise this assessment to $5,000 per acre over a three-year period.
 That level would increase further in subsequent years based on the rate of inflation.
-The additional revenue would be split proportionately among the county and state share of property tax payments." | | |
+The additional revenue would be split proportionately among the county and state share of property tax payments." By Authority: Friends of David Moon.
+Chair: Marlana Valdez.
+Treasurer: Usman Ahmed.

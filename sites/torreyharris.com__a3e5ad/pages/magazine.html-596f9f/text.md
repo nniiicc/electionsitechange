@@ -1,25 +1,14 @@
-← Home
-Constituent Edition · 2026
-The 91st
-A Report to the People of Tennessee House District 91 — the year in service, legislation, and community, in one keepsake edition.
-2026 Edition
-Inside This Issue
-What You'll Find
-01
-The Record
-Signature legislation and the impact numbers behind five years of service.
-02
-Community
-LeMoyne-Owen advocacy, town halls, and moments from around the district.
-03
-In His Words
-A message to the people of District 91 — and the priorities ahead.
-04
-Vote 2026
-Everything you need to make your plan and be heard this election.
-Read Online
-The Digital Edition
-Loading…
-Click the page corners or use the buttons to turn pages.
+Chip in $20 today to support Rep.
+Torrey C.
+Harris’ re-election campaign → About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Early Voting Locations Sample Ballot Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Community Resources Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Early Voting Locations Sample Ballot Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Community Resources Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate ← Home Constituent Edition · 2026 The 91 st A Report to the People of Tennessee House District 91 — the year in service, legislation, and community, in one keepsake edition.
+Read the Flipbook → Download PDF 2026 Edition Inside This Issue What You'll Find 01 The Record Signature legislation and the impact numbers behind five years of service.
+02 Community LeMoyne-Owen advocacy, town halls, and moments from around the district.
+03 In His Words A message to the people of District 91 — and the priorities ahead.
+04 Vote 2026 Everything you need to make your plan and be heard this election.
+Read Online The Digital Edition ← Prev Loading… Next → Click the page corners or use the buttons to turn pages.
 Prefer a PDF?
-Download it →
+Download it → Torrey C.
+Harris Tennessee House · District 91 Let's Keep Tennessee Moving.
+Explore Why I'm Running About Torrey Endorsements Issues The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Gallery 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Take Action Vote 2026 Volunteer Request Help Donate Offices Nashville: 615-741-2239 Memphis: 901-232-9498 rep.torrey.harris@capitol.tn.gov All contact info → Donate Please Mail Check Contributions to: Committee to Elect Torrey Harris 1387 Central Avenue # 906 Memphis, Tennessee 38104 EIN #: 82-3293908 PAID FOR BY COMMITTEE TO ELECT TORREY HARRIS. © # Committee to Elect Torrey Harris.
+All rights reserved.
+Privacy Policy · SMS Opt-In Form . · Español

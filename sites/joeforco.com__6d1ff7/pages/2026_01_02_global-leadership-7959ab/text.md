@@ -1,5 +1,4 @@
-The value of “soft power” and aspiration for American culture
-In the rapidly evolving landscape of 2026, the United States finds itself at a critical juncture regarding its international standing.
+Skip to content Joe K for Colorado Meet Joe Values About the District Get Involved Donate Global Leadership January 2, 2026 — 3–4 minutes The value of “soft power” and aspiration for American culture In the rapidly evolving landscape of 2026, the United States finds itself at a critical juncture regarding its international standing.
 Long considered the “indispensable nation,” America’s role as the primary architect of the global order is being tested by new economic realities and a shift toward transactional diplomacy.
 While military “hard power” remains a cornerstone of U.S. influence, the “soft power” that once made American culture and values a universal aspiration has begun to flicker.
 Reclaiming this influence is not merely a matter of prestige; it is a strategic necessity.
@@ -21,3 +20,6 @@ The United States cannot afford to retreat into a shell of isolationism in a wor
 While recent shifts toward nationalism and transactionalism have strained traditional alliances and weakened the nation’s global standing, the path to recovery is clear.
 By embracing a more inclusive and supportive foreign policy, the U.S. can rebuild the trust necessary to lead effectively in the 21st century.
 Ultimately, the strength of the American “brand” depends on its ability to offer the world a vision that is as generous as it is powerful, ensuring that other nations seek out American partnership not because they have to, but because they want to.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Let’s Fix The System Together!
+If you want to stay up to date on Joe’s campaign, events he will be participating in, or potentially volunteer, please sign up below and follow the campaign on Bluesky @joe.votejoek.com Newsletter Signup NAME PHONE EMAIL * ZIP CODE * SUBSCRIBE If you are human, leave this field blank. Δ Paid For by Joe Krzeczkowski For Colorado Privacy Policy Donate Meet Joe Values About the District Get Involved LinkedIn TikTok Bluesky Mail Instagram Discover more from Joe K for Colorado Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading %d

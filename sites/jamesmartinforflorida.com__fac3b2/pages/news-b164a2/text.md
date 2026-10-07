@@ -1,12 +1,7 @@
-news & press
-Read the Latest Campaign Updates
-PRESS RELEASE
-Coast Guard Veteran James Martin Endorsed by Vice President Kamala D.
-Harris in Race for Congress
-PRESS RELEASE
-Former Arabian Gulf Coast Guard Vet, James Martin, Releases Statement on Today’s Air Strikes
-PRESS RELEASE
-James Martin for Congress Unveils Anti-Corruption Policy Platform, “Ending Insider Privilege”
-PRESS RELEASE
-ICYMI: James Martin Calls Out Administration’s “Reckless and Unlawful” Caribbean Airstrikes in Appearances on Newsmax, MeidasTouch, Scripps News and Courier Newsroom
-PRESS RELEASE
+Skip navigation menu MEET JAMES ISSUES Endorsements NEWS & PRESS Volunteer Donate MEET JAMES ISSUES Endorsements NEWS & PRESS Volunteer Donate news & press Read the Latest Campaign Updates PRESS RELEASE James Martin Surges Ahead in Poll Against MAGA Rep.
+Brian Mast Read more Oct 6 2026 PRESS RELEASE James Martin Launches Town Hall Series Across the District Read more Sep 30 2026 NEWS ARTICLE The Palm Beach Post Endorses James Martin Read more Aug 4 2026 PRESS RELEASE Coast Guard Veteran James Martin Endorsed by Vice President Kamala D.
+Harris in Race for Congress Read more Jul 29 2026 PRESS RELEASE James Martin Campaign Responds to Brian Mast Discouraging Debates Read more Mar 23 2026 PRESS RELEASE Former Arabian Gulf Coast Guard Vet, James Martin, Releases Statement on Today’s Air Strikes Read more Feb 28 2026 PRESS RELEASE James Martin for Congress Unveils Anti-Corruption Policy Platform, “Ending Insider Privilege” Read more Jan 26 2026 PRESS RELEASE Veterans for Responsible Leadership Endorses James Martin for Congress Read more Jan 12 2026 PRESS RELEASE Martin Earns Local Endorsements from Community Leaders Read more Dec 31 2025 PRESS RELEASE ICYMI: James Martin Calls Out Administration’s “Reckless and Unlawful” Caribbean Airstrikes in Appearances on Newsmax, MeidasTouch, Scripps News and Courier Newsroom Read more Dec 15 2025 PRESS RELEASE James Martin Calls On Rep.
+Mast, House Foreign Affairs Committee Chair, to Launch Formal Investigation Into Hegseth’s Illegal Airstrikes on Venezuelan Vessels Read more Dec 11 2025 PRESS RELEASE Coast Guard Veteran James Martin Raises Over $150K in First 24 hours Read more Oct 2 2025 PRESS RELEASE Coast Guard Veteran James Martin Announces Run for Florida’s 21st Congressional District Read more Oct 1 2025 Will you consider chipping in an amount that is meaningful to you? $ 25 $ 50 $ 100 $ 250 $ 1,000 Other $ 25 $ 50 $ 100 $ 250 $ 1,000 Other If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
+Box 55 Hobe Sound, FL 33475 James Martin is a Lt.
+Commander in the United States Coast Guard Reserve.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the United States Coast Guard or the Department of Defense. campaign@jamesmartinforflorida.com Paid for by Martin For Florida You need to enable JavaScript to run this app.

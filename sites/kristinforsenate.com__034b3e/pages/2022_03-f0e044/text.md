@@ -1,11 +1,5 @@
-A Special THANK YOU from Kristin
-THANK YOU to everyone who knocked on doors, showed up at a petition signing event and helped me get on the ballot!
-Skip to content
-Monthly Archives: March 2022
-A Special THANK YOU from Kristin
-THANK YOU to everyone who knocked on doors, showed up at a petition signing event and helped me get on the ballot!
-Phillips-Hill smashes petition signature requirement to get on ballot
-Kristin Phillips-Hill announced her campaign far exceeded the 500 signature requirement to get on the ballot as a Republican candidate for the Senate of Pennsylvania.
-PHILLIPS-HILL TO SEEK RE-ELECTION FOR SECOND TERM TO STATE SENATE
-Kristin Phillips-Hill formally launched her campaign for re-election to the Senate of Pennsylvania aimed at building on the successes in her first term in office.
+Skip to content Kristin Phillips-Hill for State Senate Kristin Phillips-Hill for State Senate Home Meet Kristin Issues Join Kristin’s Team Contact Donate Facebook page opens in new window Home Meet Kristin Issues Join Kristin’s Team Contact Donate Monthly Archives: March 2022 A Special THANK YOU from Kristin Uncategorized By Kristin Phillips-Hill for State Senate March 31, 2022 THANK YOU to everyone who knocked on doors, showed up at a petition signing event and helped me get on the ballot!
+Phillips-Hill smashes petition signature requirement to get on ballot Uncategorized By Kristin Phillips-Hill for State Senate March 31, 2022 Kristin Phillips-Hill announced her campaign far exceeded the 500 signature requirement to get on the ballot as a Republican candidate for the Senate of Pennsylvania.
+PHILLIPS-HILL TO SEEK RE-ELECTION FOR SECOND TERM TO STATE SENATE Uncategorized By Kristin Phillips-Hill for State Senate March 1, 2022 Kristin Phillips-Hill formally launched her campaign for re-election to the Senate of Pennsylvania aimed at building on the successes in her first term in office.
+Important Information Find Your Polling Place Register to Vote Apply for an Absentee Ballot Follow Me on Facebook Facebook PAID FOR BY FRIENDS OF KRISTIN PHILLIPS-HILL Site content ©# Friends of Kristin Phillips-Hill.
 Go to Top

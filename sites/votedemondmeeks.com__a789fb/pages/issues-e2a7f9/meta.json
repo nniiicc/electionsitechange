@@ -1,9 +1,12 @@
 {
  "description": "Get informed on crucial issues Demond Meeks is passionate about addressing in the 137th District. Join the movement for change.",
  "final_url": "https://votedemondmeeks.com/issues",
- "paid_for_by": null,
+ "fingerprint": "ee60b50ca264a990a831527baf2a0b51dcda92b9",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Key Issues - Demond Meeks for NY Assembly 137th District",
  "years_mentioned": [
-  "2020"
+  "2020",
+  "2026"
  ]
 }

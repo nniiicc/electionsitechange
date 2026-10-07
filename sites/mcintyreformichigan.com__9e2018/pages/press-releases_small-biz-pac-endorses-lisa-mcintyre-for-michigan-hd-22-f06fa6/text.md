@@ -1,15 +1,11 @@
-Small Biz PAC Endorses Lisa McIntyre for Michigan HD-22
-FOR IMMEDIATE RELEASE: Monday, August 3, 2026
-Contact: info@mcintyreformichigan.com
-NORTHVILLE, MI — Today, Lisa McIntyre, Democratic candidate for Michigan’s House District 22, announced that her campaign has been endorsed by the The Small Business Association of Michigan’s (SBAM) Small Biz PAC.
+0 Skip to Content Meet Lisa Priorities Endorsements Get Involved Media News Open Menu Close Menu Meet Lisa Priorities Endorsements Get Involved Media News Open Menu Close Menu Meet Lisa Priorities Endorsements Get Involved Media News Small Biz PAC Endorses Lisa McIntyre for Michigan HD-22 Aug 3 Written By Kari Paine FOR IMMEDIATE RELEASE: Monday, August 3, 2026 Contact: info@mcintyreformichigan.com NORTHVILLE, MI — Today, Lisa McIntyre, Democratic candidate for Michigan’s House District 22 , announced that her campaign has been endorsed by the The Small Business Association of Michigan’s (SBAM) Small Biz PAC.
 The Small Biz PAC, the political action committee of the Small Business Association of Michigan, endorses candidates who have demonstrated support for Michigan’s small business community, regardless of political party.
-“Small businesses in Northville, Plymouth and western Livonia face countless challenges and deserve strong representation in Lansing so their concerns are voiced and addressed,” said SBAM President and CEO Brian Calley.
-“We’re proud to endorse Lisa McIntyre for the Michigan House of Representatives and look forward to working with her at the Capitol next term to ensure there are less obstacles on that path to success.”
-“I’m deeply grateful for SBAM’s endorsement and their trust in our campaign,” said Lisa McIntyre.
+“Small businesses in Northville, Plymouth and western Livonia face countless challenges and deserve strong representation in Lansing so their concerns are voiced and addressed,” said SBAM President and CEO Brian Calley .
+“We’re proud to endorse Lisa McIntyre for the Michigan House of Representatives and look forward to working with her at the Capitol next term to ensure there are less obstacles on that path to success.” “I’m deeply grateful for SBAM’s endorsement and their trust in our campaign,” said Lisa McIntyre .
 “Our community in House District 22 is home to one of the highest numbers of small businesses per capita in Michigan, and those entrepreneurs are vital to our local economy and our future.
-I look forward to working together to lower barriers, support growth, and ensure small business owners have every opportunity to succeed.”
-###
-About Lisa McIntyre:
-Lisa McIntyre is the former President of the Northville Board of Education and a licensed mental health counselor.
+I look forward to working together to lower barriers, support growth, and ensure small business owners have every opportunity to succeed.” ### About Lisa McIntyre: Lisa McIntyre is the former President of the Northville Board of Education and a licensed mental health counselor.
 She’s running for state Representative to bring compassionate leadership focused on strong schools and support for families.
 As a mother and community advocate, Lisa is dedicated to achieving real results for kids and working families in Michigan.
+Kari Paine Previous Previous Michigan Nurses Association endorses Lisa McIntyre for State Representative Next Next Michigan Professional Fire Fighters Union endorses Lisa McIntyre for State Representative Meet Lisa Priorities Endorsements Get Involved News Donate Privacy Donate Now Lisa McIntyre is a candidate running for State Representative for Michigan House District 22 Copyright © #.
+All Rights Reserved.
+Paid for by Friends of Lisa McIntyre for Michigan - PO Box 641 - Northville MI 48167

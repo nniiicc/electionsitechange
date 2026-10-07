@@ -1,9 +1,6 @@
-To provide the best experiences, we use technologies like cookies to store and/or access device information.
-Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site.
-Not consenting or withdrawing consent, may adversely affect certain features and functions.
-The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
-The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
-The technical storage or access that is used exclusively for statistical purposes.
-The technical storage or access that is used exclusively for anonymous statistical purposes.
-Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
-The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Skip to main content Dan Cox for Governor Menu Home About Dan Cox Lt.
+Gov.
+Candidate Issues News Events Volunteer Store Get A Sign Contact Donate Donate May 6, 2026 Economy Political Opened your electric bill yet?
+Maryland families are paying some of the highest electric bills in our region—and it didn’t have to be this way.While states like Virginia and West Virginia continue to produce more of their own power, Maryland has become increasingly dependent on … Continue reading Manage consent Accept All Close Save and Close Powered by (opens in a new window) Search Home Old About Dan Cox Old Lt.
+Gov.
+Candidate Issues Old News Events Volunteer Old Store Old Get A Sign Old Contact Old

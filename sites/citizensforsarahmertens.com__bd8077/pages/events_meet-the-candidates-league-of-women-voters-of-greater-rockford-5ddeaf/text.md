@@ -1,5 +1,5 @@
-Back to All Events
-Sarah Mertens will be participating in this event hosted by the League of Women Voters of Greater Rockford.
-Next
-Next
-February 26
+0 Skip to Content Endorsements Home About Issues Events Get Involved Donate - ActBlue Open Menu Close Menu Endorsements Home About Issues Events Get Involved Donate - ActBlue Open Menu Close Menu Endorsements Home About Issues Events Get Involved Donate - ActBlue Back to All Events Meet the Candidates - League of Women Voters of Greater Rockford Monday, February 23, 2026 5:30 PM 7:30 PM Belvidere Community Building Complex of Boone County 111 West 1st Street Belvidere, IL, 61008 United States (map) Google Calendar ICS Sarah Mertens will be participating in this event hosted by the League of Women Voters of Greater Rockford.
+Source: LWVGR.org Next Next February 26 Virtual Town Hall with Sarah Mertens Paid for by Citizens for Sarah Mertens .
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website ( www.elections.il.gov ) or for purchase from the State Board of Elections, Springfield, Illinois.
+Copyright © # Citizens for Sarah Mertens.
+All Rights Reserved.

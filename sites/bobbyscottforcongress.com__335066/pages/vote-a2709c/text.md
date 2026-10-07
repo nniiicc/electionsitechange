@@ -1,26 +1,3 @@
-About Bobby
-The Scott Record
-Working For Us
-News
-Vote
-Events
-Photos
-Volunteer
-Contact Us
-DONATE
-About Bobby
-The Scott Record
-Working For Us
-News
-Vote
-Events
-Photos
-Volunteer
-Contact Us
-DONATE
-vote
-voter forms
-find your polling place
-military & absentee ballots
-For information on where to register to vote in Virginia,
-please click the graphic below:
+About Bobby The Scott Record Working For Us News Vote Events Photos Volunteer Contact Us DONATE About Bobby The Scott Record Working For Us News Vote Events Photos Volunteer Contact Us DONATE vote voter forms find your polling place military & absentee ballots For information on where to register to vote in Virginia, please click the graphic below: Paid for by Bobby Scott for Congress P.O.
+Box 251 | Newport News, Virginia 23607 | (757) 245-2000 DONATE Virginia Dems Where Do I Vote?
+VAYD

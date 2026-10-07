@@ -1,5 +1,14 @@
 [
-"https://secure.anedot.com/steven-mcneel/web",
-"https://votestevenmcneel.com/",
-"https://votestevenmcneel.com/terms"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/steven-mcneel/web"
+},
+{
+"text": "Steven McNeel for State Senate",
+"href": "https://www.votestevenmcneel.com"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.votestevenmcneel.com/terms"
+}
 ]

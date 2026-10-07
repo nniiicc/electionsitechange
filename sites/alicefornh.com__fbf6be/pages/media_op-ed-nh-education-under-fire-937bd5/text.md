@@ -1,5 +1,4 @@
-Op-Ed: NH Education Under Fire
-Just a few weeks ago, the New Hampshire Senate voted to pass a bill enabling widespread book bans throughout the state.
+0 Skip to Content About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Donate Op-Ed: NH Education Under Fire Jun 7 Written By Alice Wade Just a few weeks ago, the New Hampshire Senate voted to pass a bill enabling widespread book bans throughout the state.
 The House has continued attempting to increase the income cap to use school vouchers or even remove it entirely.
 All while students and teachers suffer as a result.
 From pre-K to college, New Hampshire education has been extremely underfunded for years and the equity gap is only continuing to grow with the expansion of the school voucher system.
@@ -29,8 +28,8 @@ They’re trying to make teachers forcibly out students to their parents despite
 Thankfully, a federal judge recently ruled New Hampshire’s 2021 divisive concepts law unconstitutional, but despite this, conservatives have continued to pass even more restrictive laws year after year.
 As long as they are in office, they will continue these harmful attacks.
 “In his ruling, Judge Paul Barbadoro said teachers were left confused as to what they could talk about and how topics could be discussed in or outside of the classroom.
-He said that could lead to arbitrary and discretionary enforcement.” (WMUR)
-The upcoming election means so much more than the person at the top of the ticket.
+He said that could lead to arbitrary and discretionary enforcement.” ( WMUR ) The upcoming election means so much more than the person at the top of the ticket.
 It’s a referendum on everything from education funding, climate change policy, civil rights, and so much more at the national, state, and local levels.
 Our children deserve to be taught in well-funded facilities with properly compensated teachers who have the freedom to do their jobs, because our children are the future.
 If we continue to allow our public education system to deteriorate, we will all suffer the consequences in the years to come.
+Alice Wade Previous Previous Union Leader: Trans rights advocates decry impact of new Granite State laws Next Next Keene Sentinel: Bills that would curb LGBTQ+ rights draw 200 protesters to Statehouse Paid for by Alice for New Hampshire 133 Washington St, PO Box #457 Dover, New Hampshire 03821 CONTACT Alice.Wade@gc.nh.gov

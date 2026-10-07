@@ -1,11 +1,42 @@
 [
-"https://3e9a59a4-2397-4e58-abda-9de80169c5b5.filesusr.com/ugd/f421f6_744bb6b5f7ed45f0bc4e41a8bc981f33.pdf",
-"https://ericaforstaterep.com/about.html",
-"https://ericaforstaterep.com/contact_form.php",
-"https://ericaforstaterep.com/index.html",
-"https://ericaforstaterep.com/issues.html",
-"https://ericaforstaterep.com/send_email.php",
-"https://ericaforstaterep.com/volunteer.php",
-"https://northfieldnh.org/sites/g/files/vyhlif6621/f/events/final_2024_schedule_of_events.pdf",
-"https://secure.anedot.com/ericaforstaterep/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ericaforstaterep/donate/"
+},
+{
+"text": "Donate via Anedot",
+"href": "https://secure.anedot.com/ericaforstaterep/donate/"
+},
+{
+"text": "Home",
+"href": "https://ericaforstaterep.com/index.html"
+},
+{
+"text": "Issues",
+"href": "https://ericaforstaterep.com/issues.html"
+},
+{
+"text": "Message Erica's Campaign",
+"href": "https://ericaforstaterep.com/contact_form.php"
+},
+{
+"text": "Schedule of Events",
+"href": "https://www.northfieldnh.org/sites/g/files/vyhlif6621/f/events/final_2024_schedule_of_events.pdf"
+},
+{
+"text": "Volunteer to Help",
+"href": "https://ericaforstaterep.com/volunteer.php"
+},
+{
+"text": "Who I Am",
+"href": "https://ericaforstaterep.com/about.html"
+},
+{
+"text": "Winni River Days Schedule",
+"href": "https://3e9a59a4-2397-4e58-abda-9de80169c5b5.filesusr.com/ugd/f421f6_744bb6b5f7ed45f0bc4e41a8bc981f33.pdf"
+},
+{
+"text": "Write to Me",
+"href": "https://ericaforstaterep.com/send_email.php"
+}
 ]

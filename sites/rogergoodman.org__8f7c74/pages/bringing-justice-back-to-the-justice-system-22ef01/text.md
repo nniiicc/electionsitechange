@@ -1,7 +1,8 @@
-Roger with Dr.
-Karen Johnson, member of the Joint Legislative Task Force On Police Use of Deadly Force (2016)
-I have focused intensely on responding to the national call for action to reform police practices and to address racial bias in the justice system.
+Skip to content Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery Media Awards Endorsements Contact Roger Endorse Roger Volunteer Donate Menu Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery Media Awards Endorsements Contact Roger Endorse Roger Volunteer Donate Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery News Awards Endorsements Menu Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery News Awards Endorsements Volunteer Contact Donate Mailing List Menu Volunteer Contact Donate Mailing List Bringing Justice Back to The Justice System Roger with Dr.
+Karen Johnson, member of the Joint Legislative Task Force On Police Use of Deadly Force (2016) I have focused intensely on responding to the national call for action to reform police practices and to address racial bias in the justice system.
 In this most recent legislative session, we enacted the nation’s most dramatic, broad-sweeping police accountability reforms by restricting the needless use of force, holding police accountable for misconduct and ensuring the equitable treatment by law enforcement of all communities.
 In addition, as Chair of the Washington State Criminal Sentencing Task Force, I have been working hard on comprehensive sentencing reforms to enhance public safety through evidence-based, community-oriented measures rather than the overly punitive approach of excessive incarceration.
 While serving you in the Legislature, I have continued to pass important measures to reduce deaths and injuries from domestic violence, sexual assault and drunk driving, saving literally thousands of lives.
 As Chair of the House Public Safety Committee, with expertise in criminal law and the justice system, I’ve worked hard to keep people safe in our homes, schools and public spaces.
+Brought to you by: Friends of Roger Goodman 218 Main St.
+PMB 763 Kirkland, WA 98033 Facebook-f

@@ -1,38 +1,282 @@
 [
-"https://bsky.app/profile/leadersmatter.bsky.social",
-"https://cltampa.com/news/kimberly-overman-will-challenge-gus-bilirakis-in-us-congressional-race",
-"https://facebook.com/OvermanforCongress",
-"https://hernandosun.com/2026/05/22/field-for-local-congressional-races-taking-shape",
-"https://hoodline.com/2026/05/tampa-politico-overman-crosses-district-lines-to-take-on-bilirakis",
-"https://instagram.com/kimberly.overman",
-"https://kimberlyoverman.com/",
-"https://kimberlyoverman.com/contact",
-"https://kimberlyoverman.com/es",
-"https://kimberlyoverman.com/events",
-"https://kimberlyoverman.com/issues",
-"https://kimberlyoverman.com/issues/kimberly-on-substack",
-"https://kimberlyoverman.com/meet-kimberly",
-"https://kimberlyoverman.com/news-and-events",
-"https://kimberlyoverman.com/news-and-events/endorsements",
-"https://kimberlyoverman.com/news-and-events/endorsements/democratic-womens-club-of-florida-dwcf",
-"https://kimberlyoverman.com/news-and-events/endorsements/endorsements-democratic-environmental-caucus-of-florida-decf-endorses-kimberly-overman",
-"https://kimberlyoverman.com/news-and-events/endorsements/endorsements-democratic-progressive-caucus-of-florida-endorses-kimberly-overman",
-"https://kimberlyoverman.com/news-and-events/endorsements/endorsements-democratic-veterans-caucus-of-florida",
-"https://kimberlyoverman.com/news-and-events/endorsements/endorsements-emgage-action-endorses-kimberly-overman-for-floridas-12th-congressional-district",
-"https://kimberlyoverman.com/news-and-events/endorsements/endorsements-equality-florida-endorses-kimberly-overman",
-"https://kimberlyoverman.com/news-and-events/endorsements/endorsements-florida-afl-cio-and-wcflc-proudly-endorses-kimberly-overman",
-"https://kimberlyoverman.com/news-and-events/endorsements/endorsements-florida-democratic-agricultural-caucus-fdac-endorses-kimberly-overman",
-"https://kimberlyoverman.com/news-and-events/endorsements/endorsements-florida-lgbtq-democratic-caucus-endorses-kimberly-overman-for-floridas-12th-congressional-district",
-"https://kimberlyoverman.com/news-and-events/endorsements/endorsements-mdf-pac-22-endorses-kimberly-overman",
-"https://kimberlyoverman.com/news-and-events/endorsements/endorsements-moms-demand-action-endorses-kimberly-overman",
-"https://kimberlyoverman.com/news-and-events/endorsements/endorsements-national-womens-political-caucus-endorses-kimberly-overman",
-"https://kimberlyoverman.com/news-and-events/events",
-"https://kimberlyoverman.com/news-and-events/news",
-"https://kimberlyoverman.com/news-and-events/press-releases",
-"https://kimberlyoverman.com/privacy",
-"https://kimberlyoverman.com/volunteer",
-"https://linkedin.com/in/koverman",
-"https://nextdoor.com/profile/01w9p7Dzm3jrCBH7R",
-"https://secure.numero.ai/contribute/Overman-for-Congress",
-"https://substack.com/@kimberlyoverman"
+{
+"text": "813-720-7719",
+"href": "tel:8137207719"
+},
+{
+"text": "Contact",
+"href": "https://kimberlyoverman.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.numero.ai/contribute/Overman-for-Congress"
+},
+{
+"text": "Contribute Today!",
+"href": "https://secure.numero.ai/contribute/Overman-for-Congress"
+},
+{
+"text": "Democratic Environmental Caucus of Florida (DECF)",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-equality-florida-endorses-kimberly-overman/"
+},
+{
+"text": "Democratic Hispanic Caucus of Florida",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-equality-florida-endorses-kimberly-overman/"
+},
+{
+"text": "Democratic Progressive Caucus of Florida (DPCF)",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-florida-lgbtq-democratic-caucus-endorses-kimberly-overman-for-floridas-12th-congressional-district/"
+},
+{
+"text": "Democratic Veterans Caucus of Florida",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-democratic-veterans-caucus-of-florida/"
+},
+{
+"text": "Democratic Women's Club of Florida (DWCF)",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-equality-florida-endorses-kimberly-overman/"
+},
+{
+"text": "Emgage Action",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-emgage-action-endorses-kimberly-overman-for-floridas-12th-congressional-district/"
+},
+{
+"text": "Endorsements",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/"
+},
+{
+"text": "Equality Florida",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-equality-florida-endorses-kimberly-overman/"
+},
+{
+"text": "Español",
+"href": "https://kimberlyoverman.com/es/"
+},
+{
+"text": "Events",
+"href": "https://kimberlyoverman.com/events/"
+},
+{
+"text": "Events",
+"href": "https://kimberlyoverman.com/news-and-events/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/OvermanforCongress"
+},
+{
+"text": "Field for Local Congressional Races Taking Shape",
+"href": "https://www.hernandosun.com/2026/05/22/field-for-local-congressional-races-taking-shape/"
+},
+{
+"text": "Florida Democratic Agricultural Caucus (FDAC)",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-equality-florida-endorses-kimberly-overman/"
+},
+{
+"text": "Home",
+"href": "https://kimberlyoverman.com/"
+},
+{
+"text": "In the News",
+"href": "https://kimberlyoverman.com/news-and-events/news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/kimberly.overman/"
+},
+{
+"text": "Issues",
+"href": "https://kimberlyoverman.com/issues/"
+},
+{
+"text": "Kimberly On Substack",
+"href": "https://kimberlyoverman.com/issues/kimberly-on-substack/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/in/koverman/"
+},
+{
+"text": "Meet Kimberly",
+"href": "https://kimberlyoverman.com/meet-kimberly/"
+},
+{
+"text": "Moms Demand Action",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-moms-demand-action-endorses-kimberly-overman/"
+},
+{
+"text": "More Kimberly Overman for Congress In the News",
+"href": "https://kimberlyoverman.com/news-and-events/news/"
+},
+{
+"text": "Muslims for Democracy and Fairness",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-florida-lgbtq-democratic-caucus-endorses-kimberly-overman-for-floridas-12th-congressional-district/"
+},
+{
+"text": "National Women’s Political Caucus",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-florida-lgbtq-democratic-caucus-endorses-kimberly-overman-for-floridas-12th-congressional-district/"
+},
+{
+"text": "News & Events",
+"href": "https://kimberlyoverman.com/news-and-events/"
+},
+{
+"text": "Press Releases",
+"href": "https://kimberlyoverman.com/news-and-events/press-releases/"
+},
+{
+"text": "Privacy",
+"href": "https://kimberlyoverman.com/privacy/"
+},
+{
+"text": "Read the Article",
+"href": "https://hoodline.com/2026/05/tampa-politico-overman-crosses-district-lines-to-take-on-bilirakis/"
+},
+{
+"text": "Read the Article",
+"href": "https://www.cltampa.com/news/kimberly-overman-will-challenge-gus-bilirakis-in-us-congressional-race/"
+},
+{
+"text": "Read the Article",
+"href": "https://www.hernandosun.com/2026/05/22/field-for-local-congressional-races-taking-shape/"
+},
+{
+"text": "Stay Informed",
+"href": "https://kimberlyoverman.com/contact/"
+},
+{
+"text": "Tampa Democrat Kimberly Overman will challenge Gus Bilirakis in US congressional race",
+"href": "https://www.cltampa.com/news/kimberly-overman-will-challenge-gus-bilirakis-in-us-congressional-race/"
+},
+{
+"text": "Tampa Politico Overman Crosses District Lines to Take on Bilirakis",
+"href": "https://hoodline.com/2026/05/tampa-politico-overman-crosses-district-lines-to-take-on-bilirakis/"
+},
+{
+"text": "The Florida LGBTQ+ Democratic Caucus",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-florida-lgbtq-democratic-caucus-endorses-kimberly-overman-for-floridas-12th-congressional-district/"
+},
+{
+"text": "The Issues",
+"href": "https://kimberlyoverman.com/issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://kimberlyoverman.com/volunteer/"
+},
+{
+"text": "West Central Florida Labor Council (WCFLC) - AFL-CIO",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-equality-florida-endorses-kimberly-overman/"
+},
+{
+"text": "[image: Democratic Caucus of Florida]",
+"href": "hhttps://kimberlyoverman.com/news-and-events/endorsements/kimberly-overman-endorsed-by-the-democratic-hispanic-caucus-of-florida/"
+},
+{
+"text": "[image: Democratic Environmental Caucus of Florida (DECF)]",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-democratic-environmental-caucus-of-florida-decf-endorses-kimberly-overman/"
+},
+{
+"text": "[image: Democratic Progressive Caucus of Florida]",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-democratic-progressive-caucus-of-florida-endorses-kimberly-overman/"
+},
+{
+"text": "[image: Democratic Women's Club of Florida (DWCF)]",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/democratic-womens-club-of-florida-dwcf/"
+},
+{
+"text": "[image: Emgage Action endorses Kimberly Overman for Florida's 12th Congressional District]",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-emgage-action-endorses-kimberly-overman-for-floridas-12th-congressional-district/"
+},
+{
+"text": "[image: Equality Florida]",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-equality-florida-endorses-kimberly-overman/"
+},
+{
+"text": "[image: Florida Democratic Agricultural Caucus (FDAC)]",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-florida-democratic-agricultural-caucus-fdac-endorses-kimberly-overman/"
+},
+{
+"text": "[image: Kimberly Overman for Congress - Affordable Healthcare]",
+"href": "https://kimberlyoverman.com/issues/"
+},
+{
+"text": "[image: Kimberly Overman for Congress - Affordable Housing]",
+"href": "https://kimberlyoverman.com/issues/"
+},
+{
+"text": "[image: Kimberly Overman for Congress - Democracy & Representation]",
+"href": "https://kimberlyoverman.com/issues/"
+},
+{
+"text": "[image: Kimberly Overman for Congress - Education & Opportunity]",
+"href": "https://kimberlyoverman.com/issues/"
+},
+{
+"text": "[image: Kimberly Overman for Congress - Public Safety & Justice]",
+"href": "https://kimberlyoverman.com/issues/"
+},
+{
+"text": "[image: Moms Demand Action]",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-moms-demand-action-endorses-kimberly-overman/"
+},
+{
+"text": "[image: Muslims for Democracy and Fairness (MDF) PAC 22]",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-mdf-pac-22-endorses-kimberly-overman/"
+},
+{
+"text": "[image: National Women's Political Caucus]",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-national-womens-political-caucus-endorses-kimberly-overman/"
+},
+{
+"text": "[image: The Florida LGBTQ+ Democratic Caucus]",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-florida-lgbtq-democratic-caucus-endorses-kimberly-overman-for-floridas-12th-congressional-district/"
+},
+{
+"text": "[image: West Central Florida Labor Council (WCFLC) - AFL-CIO]",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-florida-afl-cio-and-wcflc-proudly-endorses-kimberly-overman/"
+},
+{
+"text": "[image]",
+"href": "https://kimberlyoverman.com/issues/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/leadersmatter.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-democratic-veterans-caucus-of-florida/"
+},
+{
+"text": "[no text]",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-emgage-action-endorses-kimberly-overman-for-floridas-12th-congressional-district/"
+},
+{
+"text": "[no text]",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-equality-florida-endorses-kimberly-overman/"
+},
+{
+"text": "[no text]",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-florida-lgbtq-democratic-caucus-endorses-kimberly-overman-for-floridas-12th-congressional-district/"
+},
+{
+"text": "[no text]",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-moms-demand-action-endorses-kimberly-overman/"
+},
+{
+"text": "[no text]",
+"href": "https://nextdoor.com/profile/01w9p7Dzm3jrCBH7R/"
+},
+{
+"text": "[no text]",
+"href": "https://substack.com/@kimberlyoverman"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/OvermanforCongress"
+},
+{
+"text": "vote@KimberlyOverman.com",
+"href": "mailto:vote@KimberlyOverman.com"
+}
 ]

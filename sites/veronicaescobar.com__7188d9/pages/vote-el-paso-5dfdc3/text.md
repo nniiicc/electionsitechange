@@ -1,3 +1,5 @@
-Veronica Escobar is proud to represent Texas’ 16th Congressional District in Washington.
+Skip to content Veronica Escobar | Democrat for Congress | El Paso, Texas About Veronica Get Involved Homepage Issues Media Vote El Paso Support Vote El Paso Voting Veronica Escobar | Democrat for Congress | El Paso, Texas About Veronica Get Involved Homepage Issues Media Vote El Paso Support Vote El Paso Voting Where to Vote How to Vote Volunteer Voting Locations EARLY VOTING - NOW October 28th- November 4th ELECTION DAY: NOVEMBER 8, 2022 GENERAL ELECTION Current Election Information Acceptable IDs for Voting Voter Hotline: 915-224-0331 Want to Vote By Mail?
+Request Application DEADLINE: OCTOBER 28TH El Paso's Congresswoman Meet Veronica Escobar Veronica Escobar is proud to represent Texas’ 16th Congressional District in Washington.
 She made history when she was first elected as one of the first Texas Latinas elected to serve in Congress.
 Now, she’s an outspoken advocate for El Paso’s progressive values in Washington.
+About Veronica Contact Our Team Early Voting Locations Copyright © # Veronica Escobar | Democrat for Congress | El Paso, Texas | Powered by Astra WordPress Theme

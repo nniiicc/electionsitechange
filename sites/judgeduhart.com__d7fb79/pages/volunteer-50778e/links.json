@@ -1,10 +1,46 @@
 [
-"https://facebook.com/judgemyronduhart",
-"https://judgeduhart.com/",
-"https://judgeduhart.com/donate",
-"https://judgeduhart.com/endorsements",
-"https://judgeduhart.com/events",
-"https://judgeduhart.com/meet-judge-duhart",
-"https://judgeduhart.com/volunteer",
-"https://sitelinx.co.il/"
+{
+"text": "Donate",
+"href": "https://judgeduhart.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://judgeduhart.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://judgeduhart.com/events/"
+},
+{
+"text": "Follow the Campaign",
+"href": "https://www.facebook.com/judgemyronduhart"
+},
+{
+"text": "Meet Judge Duhart",
+"href": "https://judgeduhart.com/meet-judge-duhart/"
+},
+{
+"text": "Volunteer",
+"href": "https://judgeduhart.com/volunteer/"
+},
+{
+"text": "[image: Accessibility Light]",
+"href": "https://sitelinx.co.il"
+},
+{
+"text": "[image: Re-elect Judge Myron Duhart to the Sixth District Court of Appeals]",
+"href": "https://judgeduhart.com/"
+},
+{
+"text": "",
+"href": "https://judgeduhart.com/volunteer/"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/judgemyronduhart"
+},
+{
+"text": "",
+"href": "https://judgeduhart.com/donate/"
+}
 ]

@@ -1,90 +1,42 @@
 Vote Stephanie Thomas by Tues.
 Nov 3!
 Stephanie Thomas para Secretaria de Estado!
-Signed in as:
-filler@godaddy.com
-Fox61
-August 23, 2026
-National Association of Secretaries of State
-July 30, 2026
-CT News Junkie
-NBC Connecticut
-July 28, 2026
-Press Release
-July 10, 2026
-Patch
-June 3, 2026
-April 9, 2026
-March 27, 2026
-Connecticut Network
-March 6, 2026
-February 10, 2026
-News 8 WTNH
-January 6, 2026
-CT Post
-October 18, 2025
-September 2, 2025
-Connecticut by the Numbers
-August 27, 2025
-August 13, 2025
-CT Mirror
-April 11, 2025
-February 4, 2025
-January 23, 2025
-NBC CT
-November 3, 2025
-WTNH
-November 1, 2025
-Thomas Leads Bipartisan Effort
-October 15, 2024
-ESSVote
-September 12, 2024
-July 25, 2024
-December 27, 2023
-Statewide Program
-May 2, 2023
-Legislative Priorities, Elections Work, and Civic Engagement
-April 14, 2023
-CBIA News
-February 7, 2023
-Pledges to Upgrade Election Infrastructure, Support Business Community, and Foster Civic Engagement
-January 4, 2023
-Democrat Stephanie Thomas easily claimed her party’s nomination in the open race for secretary of the state.
+Home About Stephanie Accomplishments Endorsements Priorities Voting Info ESPAÑOL News & Press Room Volunteer CONTACT DONATE More Home About Stephanie Accomplishments Endorsements Priorities Voting Info ESPAÑOL News & Press Room Volunteer CONTACT DONATE Sign In My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home About Stephanie Accomplishments Endorsements Priorities Voting Info ESPAÑOL News & Press Room Volunteer CONTACT DONATE Account My Account Sign out Sign In My Account FOR PRESS: PHOTOS AND LOGO DOWNLOADS AVAILABLE AT BOTTOM OF PAGE Stephanie Thomas in the News FULL LIST: 52 Connecticut voting precincts to have primary election results audited FULL LIST: 52 Connecticut voting precincts to have primary election results audited FULL LIST: 52 Connecticut voting precincts to have primary election results audited Fox61 August 23, 2026 Read here Connecticut Receives the 2026 NASS IDEAS Award FULL LIST: 52 Connecticut voting precincts to have primary election results audited FULL LIST: 52 Connecticut voting precincts to have primary election results audited National Association of Secretaries of State July 30, 2026 Read here CT Officials Slam ‘Reckless’ Online Voter Fraud Speculation “Fraud Is Getting Smarter and Businesses Need to Move Faster,” Secretary Thomas Warns “Fraud Is Getting Smarter and Businesses Need to Move Faster,” Secretary Thomas Warns CT News Junkie July 30, 2026 See article “Fraud Is Getting Smarter and Businesses Need to Move Faster,” Secretary Thomas Warns “Fraud Is Getting Smarter and Businesses Need to Move Faster,” Secretary Thomas Warns “Fraud Is Getting Smarter and Businesses Need to Move Faster,” Secretary Thomas Warns NBC Connecticut July 28, 2026 see article CT's First Voter Registration Upgrade in Nearly 25 Years Is Already Delivering Results CT Secretary Of The State Congratulates Greenwich On National Election Administration Awards CT Secretary Of The State Congratulates Greenwich On National Election Administration Awards Press Release July 10, 2026 see article CT Secretary Of The State Congratulates Greenwich On National Election Administration Awards CT Secretary Of The State Congratulates Greenwich On National Election Administration Awards CT Secretary Of The State Congratulates Greenwich On National Election Administration Awards Patch June 3, 2026 see article “Fraud Is Getting Smarter and Businesses Need to Move Faster,” Secretary Thomas Warns CT Secretary Of The State Congratulates Greenwich On National Election Administration Awards "A Disaster for Election Administration": CT Leaders Warn SAVE Act Would Create New Barriers...
+Press Release April 9, 2026 see article "A Disaster for Election Administration": CT Leaders Warn SAVE Act Would Create New Barriers...
+Appropriations Committee General Government A State Agency Presentations on the Governor's FY27 Prop "A Disaster for Election Administration": CT Leaders Warn SAVE Act Would Create New Barriers...
+Press Release March 27, 2026 see article Connecticut Moves to Strengthen Voter Privacy in Sweeping Election Bill Appropriations Committee General Government A State Agency Presentations on the Governor's FY27 Prop Appropriations Committee General Government A State Agency Presentations on the Governor's FY27 Prop Connecticut Network March 6, 2026 see article Appropriations Committee General Government A State Agency Presentations on the Governor's FY27 Prop Appropriations Committee General Government A State Agency Presentations on the Governor's FY27 Prop Appropriations Committee General Government A State Agency Presentations on the Governor's FY27 Prop Connecticut Network February 10, 2026 Watch video U.S.
+Justice Department sues Connecticut for failure to provide voter registration lists Making Apostilles Easy: Sec.
+Thomas Unveils New Online Tool to Streamline Document Certification U.S.
+Justice Department sues Connecticut for failure to provide voter registration lists News 8 WTNH January 6, 2026 see article CT spends $55K on Bridgeport voter education blitz after absentee ballot scandals Making Apostilles Easy: Sec.
+Thomas Unveils New Online Tool to Streamline Document Certification U.S.
+Justice Department sues Connecticut for failure to provide voter registration lists CT Post October 18, 2025 see article Making Apostilles Easy: Sec.
+Thomas Unveils New Online Tool to Streamline Document Certification Making Apostilles Easy: Sec.
+Thomas Unveils New Online Tool to Streamline Document Certification Making Apostilles Easy: Sec.
+Thomas Unveils New Online Tool to Streamline Document Certification Press Release September 2, 2025 read here CT Secretary of the State Reaffirms State’s Commitment to Protecting Voter Integrity and Access CT Secretary of the State Reaffirms State’s Commitment to Protecting Voter Integrity and Access Making Apostilles Easy: Sec.
+Thomas Unveils New Online Tool to Streamline Document Certification Connecticut by the Numbers August 27, 2025 read here CT’s Top Election Official Named To National Leadership Post CT Secretary of the State Reaffirms State’s Commitment to Protecting Voter Integrity and Access Opinion: CT’s election system doesn’t need to be SAVEd.
+Democracy does CT News Junkie August 13, 2025 read here Opinion: CT’s election system doesn’t need to be SAVEd.
+Democracy does CT Secretary of the State Reaffirms State’s Commitment to Protecting Voter Integrity and Access Opinion: CT’s election system doesn’t need to be SAVEd.
+Democracy does CT Mirror April 11, 2025 read here Connecticut Secretary of the State’s Civic Engagement Program Earns National Recognition Connecticut Secretary of the State’s Civic Engagement Program Earns National Recognition Connecticut Secretary of the State’s Civic Engagement Program Earns National Recognition February 4, 2025 read here Next Gen Elections Program introduces young talent to Connecticut’s election process Connecticut Secretary of the State’s Civic Engagement Program Earns National Recognition Connecticut Secretary of the State’s Civic Engagement Program Earns National Recognition Fox61 January 23, 2025 SEE ARTICLE Face the Facts: Early voting is big success in Connecticut Connecticut Secretary of the State’s Civic Engagement Program Earns National Recognition State distributes fire suppressors for absentee ballot drop boxes NBC CT November 3, 2025 read or watch here State distributes fire suppressors for absentee ballot drop boxes Secretary Thomas Announces Historic Investment in Modernizing Connecticut’s Elections Infrastructure State distributes fire suppressors for absentee ballot drop boxes WTNH November 1, 2025 See ARTICLE Bipartisan Group of Over 300 Local Election Officials Sign Open Letter to Connecticut Voters Secretary Thomas Announces Historic Investment in Modernizing Connecticut’s Elections Infrastructure Secretary Thomas Announces Historic Investment in Modernizing Connecticut’s Elections Infrastructure Thomas Leads Bipartisan Effort October 15, 2024 read here Secretary Thomas Announces Historic Investment in Modernizing Connecticut’s Elections Infrastructure Secretary Thomas Announces Historic Investment in Modernizing Connecticut’s Elections Infrastructure Secretary Thomas Announces Historic Investment in Modernizing Connecticut’s Elections Infrastructure ESSVote September 12, 2024 see article Secretary of the State Stephanie Thomas Tapped for National Leadership Role Secretary of the State Stephanie Thomas Tapped for National Leadership Role Secretary of the State Stephanie Thomas Tapped for National Leadership Role National Association of Secretaries of State July 25, 2024 read here CT appoints two monitors for new Bridgeport primary election Secretary of the State Stephanie Thomas Tapped for National Leadership Role Secretary of the State Stephanie Thomas Tapped for National Leadership Role CT Mirror December 27, 2023 see article Secretary Thomas Launches Poll Worker Appreciation Day Program Secretary of the State Stephanie Thomas Tapped for National Leadership Role Secretary Thomas Launches Poll Worker Appreciation Day Program Statewide Program May 2, 2023 read here Secretary Thomas Marks First 100 Days in Office Secretary Thomas and AG Tong Call Attention to Recent Scam Targeting Small Businesses Secretary Thomas Launches Poll Worker Appreciation Day Program Legislative Priorities, Elections Work, and Civic Engagement April 14, 2023 read here Secretary Thomas and AG Tong Call Attention to Recent Scam Targeting Small Businesses Secretary Thomas and AG Tong Call Attention to Recent Scam Targeting Small Businesses Secretary Thomas and AG Tong Call Attention to Recent Scam Targeting Small Businesses CBIA News February 7, 2023 read here Stephanie Thomas Sworn In as the 75th Secretary of the State of Connecticut Secretary Thomas and AG Tong Call Attention to Recent Scam Targeting Small Businesses Secretary Thomas and AG Tong Call Attention to Recent Scam Targeting Small Businesses Pledges to Upgrade Election Infrastructure, Support Business Community, and Foster Civic Engagement January 4, 2023 read here Democrat Stephanie Thomas Wins Secretary of the State Primary Democrat Stephanie Thomas easily claimed her party’s nomination in the open race for secretary of the state.
 With more than 97% of precincts in the state reporting, Thomas’ lead holds steady at 75%.
-Bond’s negative ad never mentions an agenda to protect voters, voting rights or our democracy
-(Hartford, CT) July 30, 2022 – At a time when Connecticut and the nation are facing the greatest threat to our democracy, New Haven’s Maritza Bond lobs attacks and distortions against her opponent instead of laying out a plan on how she will protect voters and their rights.
+Read More With Democracy in Crisis, Stephanie Thomas's Opponent Misleads Voters Bond’s negative ad never mentions an agenda to protect voters, voting rights or our democracy (Hartford, CT) July 30, 2022 – At a time when Connecticut and the nation are facing the greatest threat to our democracy, New Haven’s Maritza Bond lobs attacks and distortions against her opponent instead of laying out a plan on how she will protect voters and their rights.
 In a 30-second television ad unveiled this week, Bond attacks endorsed Democrat Stephanie Thomas and ends with a highly misleading graphic that suggests she, not Thomas, was endorsed by the Connecticut Democrats.
 “Our democracy and rights are under assault, facing the greatest threat in any of our lifetimes and needing leaders to work together to protect it.
 While Stephanie Thomas is out talking to voters every day about her plans to protect voting rights, increase civic engagement and improve the state’s business records, her opponent's only plan is to mislead voters and spread mistruths,” Kay Anderson, Campaign Coordinator for Stephanie Thomas for Secretary of the State, said.
 “We’ve spent the last four years enduring the negativity and personal attacks by Republicans and it’s shameful that Maritza Bond would go so low as to join them.
-This is what happens when a candidate is desperate and does not know how to lead."
-Stephanie Thomas has been endorsed by the Connecticut Democrats, former Secretary of the State Denise Merrill, House Majority Leader Jason Rojas, Senate Majority Leader Bob Duff, and 125 legislators, local officials and party activists who say she is the right person for the job.
-Fox 61 News
-July 24, 2022
-July 20, 2022
-Good Morning Wilton
-July 8, 2022
-June 24, 2022
-CT Insider
-May 8, 2022
-Yale Daily News
-May 1, 2022
-Hosted by the 4th Congressional District
-March 6, 2022
-New Haven Independent
-January 20, 2022
-News 8
-October 25, 2021
-CTPost
-July 23, 2021
-Hartford Courant
-January 4, 2021
-Nancy on Norwalk
-November 12, 2020
-Wilton Bulletin
-November 4, 2020
-September 18, 2020
-The Hour, by Pat Tomlinson, October 31, 2018
-Paid for by Stephanie Thomas for CT.
+This is what happens when a candidate is desperate and does not know how to lead." Stephanie Thomas has been endorsed by the Connecticut Democrats, former Secretary of the State Denise Merrill, House Majority Leader Jason Rojas, Senate Majority Leader Bob Duff, and 125 legislators, local officials and party activists who say she is the right person for the job.
+The Real Story: Race for Secretary of the State ELECTION 2022: Denise Merrill Endorses Stephanie Thomas for Secretary of State Thomas: Trust and Transparency Key to Secretary of the State Fox 61 News July 24, 2022 Watch Now Thomas: Trust and Transparency Key to Secretary of the State ELECTION 2022: Denise Merrill Endorses Stephanie Thomas for Secretary of State Thomas: Trust and Transparency Key to Secretary of the State CT News Junkie July 20, 2022 SEE ARTICLE ELECTION 2022: Denise Merrill Endorses Stephanie Thomas for Secretary of State ELECTION 2022: Denise Merrill Endorses Stephanie Thomas for Secretary of State ELECTION 2022: Denise Merrill Endorses Stephanie Thomas for Secretary of State Good Morning Wilton July 8, 2022 See ARTICLE Connecticut Democrats Make Pitch For Early Presidential Primary State Rep.
+Stephanie Thomas runs for Secretary of the State with plans to engage voters Dan Haar: How a longshot Democrat won the day for a statewide race CT News Junkie June 24, 2022 See Article Dan Haar: How a longshot Democrat won the day for a statewide race State Rep.
+Stephanie Thomas runs for Secretary of the State with plans to engage voters Dan Haar: How a longshot Democrat won the day for a statewide race CT Insider May 8, 2022 See Article State Rep.
+Stephanie Thomas runs for Secretary of the State with plans to engage voters State Rep.
+Stephanie Thomas runs for Secretary of the State with plans to engage voters State Rep.
+Stephanie Thomas runs for Secretary of the State with plans to engage voters Yale Daily News May 1, 2022 SEE ARTICLE CANDIDATE FORUM State Rep.
+Thomas holds virtual forum on domestic violence State Rep.
+Stephanie Thomas runs for Secretary of the State with plans to engage voters Hosted by the 4th Congressional District March 6, 2022 Watch Forum Here Sec’y Of State Hopeful Aims To Rebuild Trust In Democracy State Rep.
+Thomas holds virtual forum on domestic violence State Rep.
+Thomas holds virtual forum on domestic violence New Haven Independent January 20, 2022 Read or Watch Interview Here State Rep.
+Thomas holds virtual forum on domestic violence State Rep.
+Thomas holds virtual forum on domestic violence State Rep.
+Thomas holds virtual forum on domestic violence News 8 October 25, 2021 See Story State Bond Commission approves #M for Carver Center makeover in Norwalk State Bond Commission approves #M for Carver Center makeover in Norwalk State Bond Commission approves #M for Carver Center makeover in Norwalk CTPost July 23, 2021 see article 8 new Connecticut legislators to watch for in 2021 State Bond Commission approves #M for Carver Center makeover in Norwalk State Bond Commission approves #M for Carver Center makeover in Norwalk Hartford Courant January 4, 2021 See Article Thomas notes 143rd win, thanks voters State Bond Commission approves $1.2M for Carver Center makeover in Norwalk Thomas prevails in race for 143rd District Nancy on Norwalk November 12, 2020 SEE ARTICLE Thomas prevails in race for 143rd District Stephanie Thomas Gains Support From Anti-Gun Violence Advocates Thomas prevails in race for 143rd District Wilton Bulletin November 4, 2020 SEE ARTICLE Stephanie Thomas Gains Support From Anti-Gun Violence Advocates Stephanie Thomas Gains Support From Anti-Gun Violence Advocates Stephanie Thomas Gains Support From Anti-Gun Violence Advocates Patch September 18, 2020 READ Thomas: A voice for the 'exhausted majority' Stephanie Thomas Gains Support From Anti-Gun Violence Advocates Stephanie Thomas Gains Support From Anti-Gun Violence Advocates The Hour, by Pat Tomlinson, October 31, 2018 See Article in The Hour PRESS ROOM - DOWNLOADS Headshot 1 (tif) Download Headshot 2 (jpg) Download Headshot 3 (jpg) Download Logo (png) Download Social Paid for by Stephanie Thomas for CT.
 Alan Shinbaum, Treasurer.
 Approved by Stephanie Thomas.
+Home About Stephanie Accomplishments Endorsements Priorities Voting Info ESPAÑOL News & Press Room Volunteer CONTACT DONATE Powered by

@@ -1,9 +1,34 @@
 [
-"http://csgak.com/",
-"https://donnaanthony.com/",
-"https://donnaanthony.com/back-the-badge.html",
-"https://donnaanthony.com/donate.html",
-"https://donnaanthony.com/endorsements.html",
-"https://donnaanthony.com/get-in-touch.html",
-"https://donnaanthony.com/updates.html"
+{
+"text": "Back the Badge",
+"href": "https://www.donnaanthony.com/back-the-badge.html"
+},
+{
+"text": "Consulting Solutions Group",
+"href": "http://csgak.com/"
+},
+{
+"text": "Donate",
+"href": "https://www.donnaanthony.com/donate.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.donnaanthony.com/endorsements.html"
+},
+{
+"text": "Get in Touch",
+"href": "https://www.donnaanthony.com/get-in-touch.html"
+},
+{
+"text": "Home",
+"href": "https://www.donnaanthony.com/"
+},
+{
+"text": "Updates",
+"href": "https://www.donnaanthony.com/updates.html"
+},
+{
+"text": "[image: Donna Anthony]",
+"href": "https://www.donnaanthony.com/"
+}
 ]

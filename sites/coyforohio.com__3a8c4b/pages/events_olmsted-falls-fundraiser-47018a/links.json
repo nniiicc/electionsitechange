@@ -1,13 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Olmsted+Falls+Fundraiser%21&dates=20260809T180000Z%2F20260809T200000Z&location=9535+Columbia+Road%2C+Olmsted+Falls%2C+Ohio%2C+44138%2C+United+States",
-"http://maps.google.com/?q=9535+Columbia+Road+Olmsted+Falls%2C+Ohio%2C+44138+United+States",
-"https://coyforohio.com/",
-"https://coyforohio.com/cart",
-"https://coyforohio.com/contact",
-"https://coyforohio.com/events",
-"https://coyforohio.com/events/canvass-launch-north-royaltonbroadview-heights-w9c4z",
-"https://coyforohio.com/events/olmsted-falls-fundraiser?format=ical",
-"https://coyforohio.com/events/support-megan-and-other-democrats-at-the-county-fair",
-"https://coyforohio.com/support",
-"https://secure.actblue.com/donate/8.9olmstedfalls"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=9535+columbia+road+olmsted+falls%2C+ohio%2C+44138+united+states"
+},
+{
+"text": "0",
+"href": "https://www.coyforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.coyforohio.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.coyforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Olmsted+Falls+Fundraiser%21&dates=20260809T180000Z%2F20260809T200000Z&location=9535+Columbia+Road%2C+Olmsted+Falls%2C+Ohio%2C+44138%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.coyforohio.com/events/olmsted-falls-fundraiser?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.coyforohio.com/#issues"
+},
+{
+"text": "Meet Megan",
+"href": "https://www.coyforohio.com/#meetmegan"
+},
+{
+"text": "Next Next August 11 Support Megan and other Democrats at the County Fair!",
+"href": "https://www.coyforohio.com/events/support-megan-and-other-democrats-at-the-county-fair"
+},
+{
+"text": "Previous Previous August 8 North Royalton Canvass Launch",
+"href": "https://www.coyforohio.com/events/canvass-launch-north-royaltonbroadview-heights-w9c4z"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.coyforohio.com/support"
+},
+{
+"text": "[image: Megan Coy]",
+"href": "https://www.coyforohio.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/8.9olmstedfalls"
+}
 ]

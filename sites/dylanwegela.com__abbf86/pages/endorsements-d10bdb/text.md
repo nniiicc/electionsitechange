@@ -1,21 +1,2 @@
-Dylan is proudly endorsed by:
-- Rashida Tlaib U.S.
-Congresswoman
-- Mike McDermott Westland City Council President
-- Metro Detroit Democratic Socialists of America
-- Michigan Education Association
-- Michigan AFL-CIO
-- UAW Region 1A
-- SEIU Michigan
-- Michigan Nurses Association
-- AFSCME Michigan
-- Michigan Professional Firefighters Union
-- Michigan League of Conservation Voters
-- Sierra Club
-- Jane Fonda Climate PAC
-- Michigan Working Families Party
-- We the People Action Fund
-- Planned Parenthood Advocates of Michigan
-- MI List
-- Young Democrats of Michigan
-- Michigan Democratic Party Progressive Caucus
+0 Skip to Content Priorities Endorsements Get Involved Donate Open Menu Close Menu Priorities Endorsements Get Involved Donate Open Menu Close Menu Priorities Endorsements Get Involved Donate Dylan is proudly endorsed by: Rashida Tlaib U.S.
+Congresswoman Mike McDermott Westland City Council President Metro Detroit Democratic Socialists of America Michigan Education Association Michigan AFL-CIO UAW Region 1A SEIU Michigan Michigan Nurses Association AFSCME Michigan Michigan Professional Firefighters Union Michigan League of Conservation Voters Sierra Club Jane Fonda Climate PAC Michigan Working Families Party We the People Action Fund Planned Parenthood Advocates of Michigan MI List Young Democrats of Michigan Michigan Democratic Party Progressive Caucus PAID FOR BY PEOPLE FOR DYLAN WEGELA, 140 MERRIMAN RD PO BOX 346 GARDEN CITY, MI 48136 Privacy Policy PAID FOR BY PEOPLE FOR DYLAN WEGELA, 140 MERRIMAN RD PO BOX 346 GARDEN CITY, MI 48136

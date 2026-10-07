@@ -1,34 +1,10 @@
-District 15
-Let's Restore the California Dream
-District 15:
-The 15th Assembly District is entirely made up of Contra Costa County and covers over half of the County. 32% percent of its residents are Hispanic or Latino, nearly 15% are Asian and 10% are Black or African American.
+Skip to content About Top Legislative Priorities District 15 Media Get Involved Endorsements About Top Legislative Priorities District 15 Media Get Involved Endorsements Donate Instagram X-twitter Facebook MENU District 15 Let's Restore the California Dream District 15: The 15th Assembly District is entirely made up of Contra Costa County and covers over half of the County.
+32% percent of its residents are Hispanic or Latino, nearly 15% are Asian and 10% are Black or African American.
 Assembly District 15 encompasses the following cities.
-- Antioch
-- Bay Point
-- Brentwood
-- Clayton
-- Concord
-- Clyde
-- Crocket
-- Martinez (Mountain View, Alhambra Valley, Reliz Valley, Vine Hill)
-- Pittsburg
-- Pleasant Hill
-- Pacheco
-- Port Costa
-- Walnut Creek – 0.5%
-District 15:
-The 15th Assembly District is entirely made up of Contra Costa County and covers over half of the County. 32% percent of its residents are Hispanic or Latino, nearly 15% are Asian and 10% are Black or African American.
+Antioch Bay Point Brentwood Clayton Concord Clyde Crocket Martinez (Mountain View, Alhambra Valley, Reliz Valley, Vine Hill) Pittsburg Pleasant Hill Pacheco Port Costa Walnut Creek – 0.5% District 15: The 15th Assembly District is entirely made up of Contra Costa County and covers over half of the County.
+32% percent of its residents are Hispanic or Latino, nearly 15% are Asian and 10% are Black or African American.
 Assembly District 15 encompasses the following cities.
-- Antioch
-- Bay Point
-- Brentwood
-- Clayton
-- Concord
-- Clyde
-- Crocket
-- Martinez (Mountain View, Alhambra Valley, Reliz Valley, Vine Hill)
-- Pittsburg
-- Pleasant Hill
-- Pacheco
-- Port Costa
-- Walnut Creek – 0.5%
+Antioch Bay Point Brentwood Clayton Concord Clyde Crocket Martinez (Mountain View, Alhambra Valley, Reliz Valley, Vine Hill) Pittsburg Pleasant Hill Pacheco Port Costa Walnut Creek – 0.5% Support Anamarie Avila Farias For Assembly Donate Today $50 $100 $250 $500 $1,000 Other Contact the Campaign Team!
+Name (Required) Name Email (Required) Phone (Required) Address (optional) Street Address City State Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific State ZIP Code Comments Submit * = Required Paid for by Avila Farias for State Assembly 2026, FPPC# 1478170.
+About Get Involved Endorsements Top Legislative Priorities District 15 Media About Get Involved Endorsements Top Legislative Priorities District 15 Media Donate Instagram X-twitter Facebook

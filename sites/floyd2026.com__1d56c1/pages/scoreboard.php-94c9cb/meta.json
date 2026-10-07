@@ -1,9 +1,12 @@
 {
  "description": "Live transparency dashboard: bills, suggestions, cases, reports, and events. #floyd2026",
  "final_url": "https://floyd2026.com/scoreboard.php",
+ "fingerprint": "2a6df8ccb90f8ef25d3e405838560d9fc294c49a",
+ "format": 3,
  "paid_for_by": "Paid for by Floyd Taylor for Congress",
  "title": "Community Scoreboard",
  "years_mentioned": [
-  "2025"
+  "2025",
+  "2026"
  ]
 }

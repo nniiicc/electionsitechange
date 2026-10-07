@@ -1,7 +1,9 @@
 {
  "description": "Support Kelly Quinn&#39;s campaign with Zelle donations or donate online. Join the Friends of Kelly Quinn movement today! Visit us for more info.",
  "final_url": "https://quinnfornv.com/donate-1",
- "paid_for_by": null,
+ "fingerprint": "130bfc8b5e275600572f7afa69a2fb0ce2f09803",
+ "format": 3,
+ "paid_for_by": "",
  "title": "DONATE",
  "years_mentioned": []
 }

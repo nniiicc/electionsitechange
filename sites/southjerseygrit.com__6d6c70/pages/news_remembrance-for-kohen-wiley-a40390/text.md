@@ -1,7 +1,4 @@
-1
-Jul
-Wednesday, 8:00 PM · 2026
-Remembrance for Kohen Wiley
+Meet Ramon Issues News Events Volunteer Contribute News / Remembrance for Kohen Wiley 1 Jul Wednesday, 8:00 PM · 2026 Remembrance for Kohen Wiley Today I went to a Remembrance of the tragedy that befell the Wiley family due to wreckless Policing Action.
+Kohen Wiley was a 1-year old who was killed by the police after excessive force was used for the scenario.
 It was a bolster to why I am running for congress...We must tackle the issue of gun violence committed by both Americans and by the police.
-I address how I want to do just that on my website: Https://www.SouthJerseyGrit.com
-Please support the Wiley family if you can afford it, and if you cant, then please try to do a little something today to help spread awareness of gun violence and of local groups fighting for human rights such as @empathyunitedindivisible @indivisibleatlanticcounty @naacpatlanticcity or @elpueblounidoac
+I address how I want to do just that on my website: Https://www.SouthJerseyGrit.com Please support the Wiley family if you can afford it, and if you cant, then please try to do a little something today to help spread awareness of gun violence and of local groups fighting for human rights such as @empathyunitedindivisible @indivisibleatlanticcounty @naacpatlanticcity or @elpueblounidoac Voter Information Yard Signs Events Photos Contact Privacy Policy Committee to Elect Ramon Mora Jr Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ramon Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

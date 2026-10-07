@@ -1,8 +1,34 @@
 [
-"https://facebook.com/isaiahforkansas",
-"https://instagram.com/isaiahforkansas",
-"https://isaiahforkansas.com/",
-"https://isaiahforkansas.com/privacy",
-"https://isaiahforkansas.com/terms",
-"https://tiktok.com/@isaiahforkansas"
+{
+"text": "Privacy Policy",
+"href": "https://isaiahforkansas.com/privacy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://isaiahforkansas.com/terms"
+},
+{
+"text": "[image]",
+"href": "https://isaiahforkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/isaiahforkansas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/isaiahforkansas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@isaiahforkansas"
+},
+{
+"text": "vote@isaiahforkansas.com",
+"href": "https://isaiahforkansas.com/privacy"
+},
+{
+"text": "vote@isaiahforkansas.com",
+"href": "mailto:vote@isaiahforkansas.com"
+}
 ]

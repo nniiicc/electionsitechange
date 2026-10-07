@@ -1,12 +1,46 @@
 [
-"https://facebook.com/GatewoodForTheHouse",
-"https://facebook.com/wix",
-"https://gatewoodformo.wixsite.com/my-site-1/terms",
-"https://gatewoodforthehouse.com/",
-"https://gatewoodforthehouse.com/_files/ugd/84770f_a594f88e0dd34b7ca253388dd6f4c9bb.pdf",
-"https://gatewoodforthehouse.com/terms",
-"https://linkedin.com/company/wix-com",
-"https://secure.anedot.com/gatewood-for-the-house-9e907a81-12bd-4568-8f8e-8ccc57e74a14/donate",
-"https://twitter.com/wix",
-"https://wix.com/"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/gatewood-for-the-house-9e907a81-12bd-4568-8f8e-8ccc57e74a14/donate"
+},
+{
+"text": "DOWNLOAD MY FULL RESUME",
+"href": "https://www.gatewoodforthehouse.com/_files/ugd/84770f_a594f88e0dd34b7ca253388dd6f4c9bb.pdf"
+},
+{
+"text": "EMAIL",
+"href": "mailto:GatewoofForMo@gmail.com?subject=From+a+website+visitor..."
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/GatewoodForTheHouse"
+},
+{
+"text": "HOME",
+"href": "https://www.gatewoodforthehouse.com"
+},
+{
+"text": "TERMS",
+"href": "https://www.gatewoodforthehouse.com/terms"
+},
+{
+"text": "View terms of use.",
+"href": "https://gatewoodformo.wixsite.com/my-site-1/terms"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+}
 ]

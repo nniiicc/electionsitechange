@@ -1,10 +1,34 @@
 [
-"https://coleforsenate.com/",
-"https://coleforsenate.com/cdn-cgi/l/email-protection",
-"https://coleforsenate.com/media",
-"https://coleforsenate.com/privacy-policy",
-"https://coleforsenate.com/sms-terms-and-conditions",
-"https://facebook.com/kimcoleforsenate",
-"https://inspirationwebworks.com/",
-"https://secure.winred.com/committee-to-elect-kimberly-cole/donate-today-website"
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/committee-to-elect-kimberly-cole/donate-today-website"
+},
+{
+"text": "Press and Media Resources",
+"href": "https://coleforsenate.com/media/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://coleforsenate.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://coleforsenate.com/sms-terms-and-conditions/"
+},
+{
+"text": "[email protected]",
+"href": "https://coleforsenate.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "https://coleforsenate.com"
+},
+{
+"text": "[image]",
+"href": "https://www.inspirationwebworks.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kimcoleforsenate"
+}
 ]

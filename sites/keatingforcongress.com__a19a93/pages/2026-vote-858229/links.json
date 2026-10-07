@@ -1,8 +1,38 @@
 [
-"https://sec.state.ma.us/EarlyVotingWeb/EarlyVotingSearch.aspx",
-"https://sec.state.ma.us/OVR",
-"https://sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx",
-"https://sec.state.ma.us/VoterRegistrationSearch/preface.aspx",
-"https://sec.state.ma.us/WhereDoIVoteMA/bal/MyElectionInfo.aspx",
-"https://sec.state.ma.us/ele/eleev/early-voting-by-mail.htm"
+{
+"text": "Check my Voter Registration",
+"href": "https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx"
+},
+{
+"text": "Find My Early-Voting Hours",
+"href": "https://www.sec.state.ma.us/EarlyVotingWeb/EarlyVotingSearch.aspx"
+},
+{
+"text": "Find My Polling Place",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/bal/MyElectionInfo.aspx"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sec.state.ma.us/OVR/"
+},
+{
+"text": "Request a Mail-in Ballot",
+"href": "https://www.sec.state.ma.us/VoterRegistrationSearch/preface.aspx"
+},
+{
+"text": "Vote By Mail",
+"href": "https://www.sec.state.ma.us/ele/eleev/early-voting-by-mail.htm"
+},
+{
+"text": "Vote Early",
+"href": "https://www.sec.state.ma.us/ele/eleev/early-voting-by-mail.htm"
+},
+{
+"text": "Vote on 11/3",
+"href": "https://www.sec.state.ma.us/ele/eleev/early-voting-by-mail.htm"
+},
+{
+"text": "[no text]",
+"href": "https://www.sec.state.ma.us/ele/eleev/early-voting-by-mail.htm"
+}
 ]

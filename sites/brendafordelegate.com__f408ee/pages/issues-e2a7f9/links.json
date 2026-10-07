@@ -1,12 +1,58 @@
 [
-"https://brendafordelegate.com/",
-"https://brendafordelegate.com/about",
-"https://brendafordelegate.com/contact",
-"https://brendafordelegate.com/donate",
-"https://brendafordelegate.com/issues",
-"https://brendafordelegate.com/myphotos",
-"https://brendafordelegate.com/news",
-"https://dhwebsites.com/",
-"https://facebook.com/brenda.for.hagerstown",
-"https://maryland.gov/"
+{
+"text": "About",
+"href": "https://www.brendafordelegate.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.brendafordelegate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.brendafordelegate.com/donate"
+},
+{
+"text": "FB",
+"href": "https://www.facebook.com/brenda.for.hagerstown/"
+},
+{
+"text": "Home",
+"href": "https://www.brendafordelegate.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.brendafordelegate.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.brendafordelegate.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.brendafordelegate.com/myphotos"
+},
+{
+"text": "[image: Brenda Thiam - State Delegate, Hagerstown, Maryland]",
+"href": "https://www.brendafordelegate.com/"
+},
+{
+"text": "[image: Brenda Thiam]",
+"href": "https://www.brendafordelegate.com/"
+},
+{
+"text": "[image: Maryland Flag - Welcome to Maryland]",
+"href": "https://www.maryland.gov/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/brenda.for.hagerstown/"
+},
+{
+"text": "dhwebsites.com",
+"href": "https://www.dhwebsites.com"
+},
+{
+"text": "♥ Donate",
+"href": "https://www.brendafordelegate.com/donate"
+}
 ]

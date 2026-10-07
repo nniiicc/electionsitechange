@@ -1,14 +1,50 @@
 [
-"https://calebbrownfornc120.com/",
-"https://calebbrownfornc120.com/issues",
-"https://calebbrownfornc120.com/meet-caleb",
-"https://calebbrownfornc120.com/volunteer",
-"https://consumeraffairs.com/finance/cost-of-groceries-by-state.html",
-"https://nces.ed.gov/programs/digest-dashboard/state/north%20carolina",
-"https://nchfa.com/news/policy-matters-blog/new-survey-western-north-carolina-illuminates-region%E2%80%99s-persistent-housing-stability-affordability-challenges",
-"https://nciom.org/nc-health-data/map",
-"https://schs.dph.ncdhhs.gov/data/databook",
-"https://secure.actblue.com/donate/caleb-brown-1",
-"https://wnchealthpolicy.org/blog/executive-summary-emerging-issues",
-"https://wunc.org/education/2024-12-13/nc-ranks-49-school-funding-effort-education-law-center-making-the-grade"
+{
+"text": "ConsumerAffairs Grocery Cost Report",
+"href": "https://www.consumeraffairs.com/finance/cost-of-groceries-by-state.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/caleb-brown-1/"
+},
+{
+"text": "Issues",
+"href": "https://calebbrownfornc120.com/issues/"
+},
+{
+"text": "Meet Caleb",
+"href": "https://calebbrownfornc120.com/meet-caleb/"
+},
+{
+"text": "NC Housing Finance Agency Survey",
+"href": "https://www.nchfa.com/news/policy-matters-blog/new-survey-western-north-carolina-illuminates-region%E2%80%99s-persistent-housing-stability-affordability-challenges"
+},
+{
+"text": "NC Institute of Medicine Health Data Map",
+"href": "https://nciom.org/nc-health-data/map/"
+},
+{
+"text": "NCES North Carolina Education Statistics",
+"href": "https://nces.ed.gov/programs/digest-dashboard/state/north%20carolina"
+},
+{
+"text": "North Carolina Health Data Book",
+"href": "https://schs.dph.ncdhhs.gov/data/databook/"
+},
+{
+"text": "Volunteer",
+"href": "https://calebbrownfornc120.com/volunteer/"
+},
+{
+"text": "WNC Health Policy Report",
+"href": "https://www.wnchealthpolicy.org/blog/executive-summary-emerging-issues"
+},
+{
+"text": "WUNC Education Funding Report",
+"href": "https://www.wunc.org/education/2024-12-13/nc-ranks-49-school-funding-effort-education-law-center-making-the-grade"
+},
+{
+"text": "[image: Caleb “Coach” Brown for NC 120 logo.]",
+"href": "https://calebbrownfornc120.com/"
+}
 ]

@@ -1,24 +1,118 @@
 [
-"https://bsky.app/profile/crosbyforsc.bsky.social",
-"https://crosbyforsc.com/",
-"https://crosbyforsc.com/about",
-"https://crosbyforsc.com/contact",
-"https://crosbyforsc.com/events",
-"https://crosbyforsc.com/issues/building-stability-creating-opportunity",
-"https://crosbyforsc.com/issues/healthy-families-strong-communities",
-"https://crosbyforsc.com/issues/smart-growth-safe-roads",
-"https://crosbyforsc.com/issues/strong-schools-bright-futures",
-"https://crosbyforsc.com/privacy-policy",
-"https://crosbyforsc.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/crosbyforsc",
-"https://instagram.com/crosbyforsc",
-"https://secure.actblue.com/donate/kc44web",
-"https://secure.actblue.com/donate/kc44web?amount=10",
-"https://secure.actblue.com/donate/kc44web?amount=100",
-"https://secure.actblue.com/donate/kc44web?amount=25",
-"https://secure.actblue.com/donate/kc44web?amount=250",
-"https://secure.actblue.com/donate/kc44web?amount=50",
-"https://threads.net/@crosbyforsc",
-"https://x.com/crosbyforsc"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/kc44web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/kc44web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/kc44web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/kc44web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/kc44web?amount=50"
+},
+{
+"text": "Building Stability. Creating Opportunity.",
+"href": "https://www.crosbyforsc.com/issues/building-stability-creating-opportunity"
+},
+{
+"text": "Contact",
+"href": "https://www.crosbyforsc.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kc44web"
+},
+{
+"text": "Events",
+"href": "https://www.crosbyforsc.com/events"
+},
+{
+"text": "Healthy Families. Strong Communities.",
+"href": "https://www.crosbyforsc.com/issues/healthy-families-strong-communities"
+},
+{
+"text": "Learn more",
+"href": "https://www.crosbyforsc.com/issues/building-stability-creating-opportunity"
+},
+{
+"text": "Learn more",
+"href": "https://www.crosbyforsc.com/issues/healthy-families-strong-communities"
+},
+{
+"text": "Learn more",
+"href": "https://www.crosbyforsc.com/issues/smart-growth-safe-roads"
+},
+{
+"text": "Learn more",
+"href": "https://www.crosbyforsc.com/issues/strong-schools-bright-futures"
+},
+{
+"text": "Meet Katie",
+"href": "https://www.crosbyforsc.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/kc44web"
+},
+{
+"text": "Privacy Policy and Terms and Conditions",
+"href": "https://www.crosbyforsc.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Smart Growth. Safe Roads.",
+"href": "https://www.crosbyforsc.com/issues/smart-growth-safe-roads"
+},
+{
+"text": "Strong Schools. Bright Futures.",
+"href": "https://www.crosbyforsc.com/issues/strong-schools-bright-futures"
+},
+{
+"text": "Volunteer",
+"href": "https://www.crosbyforsc.com/volunteer"
+},
+{
+"text": "[image: Katie Crosby for SC House 44 logo]",
+"href": "https://www.crosbyforsc.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.crosbyforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/crosbyforsc.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/crosbyforsc"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/crosbyforsc"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@crosbyforsc"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/crosbyforsc"
+},
+{
+"text": "info@CrosbyForSC.com",
+"href": "mailto:info@CrosbyForSC.com"
+}
 ]

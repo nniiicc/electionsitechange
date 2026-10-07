@@ -1,8 +1,34 @@
 [
-"https://facebook.com/nickpaulnh",
-"https://instagram.com/nickpaulnh",
-"https://nickpaulnh.org/",
-"https://nickpaulnh.org/cart",
-"https://nickpaulnh.org/volunteer",
-"https://secure.actblue.com/donate/nickpaulnh"
+{
+"text": "0",
+"href": "https://www.nickpaulnh.org/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/nickpaulnh"
+},
+{
+"text": "Home",
+"href": "https://www.nickpaulnh.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nickpaulnh.org/volunteer"
+},
+{
+"text": "[image: Nick Paul for Rochester]",
+"href": "https://www.nickpaulnh.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/nickpaulnh"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nickpaulnh"
+},
+{
+"text": "info@nickpaulnh.org",
+"href": "mailto:info@nickpaulnh.org"
+}
 ]

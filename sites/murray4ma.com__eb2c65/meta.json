@@ -1,7 +1,11 @@
 {
  "description": "Democrat for the 18th Essex District",
  "final_url": "https://www.murray4ma.com/",
- "paid_for_by": null,
+ "fingerprint": "44cd1db91f76bd7ad7ce5ce8164a5c21fa5147eb",
+ "format": 3,
+ "paid_for_by": "authorized by the Murray Committee You need to enable JavaScript to run this app",
  "title": "Connor Murray",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

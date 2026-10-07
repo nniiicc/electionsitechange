@@ -1,5 +1,3 @@
-Padanaram Festival
-Meeting and listening to the Voters of the 9th Bristol District at the Padanaram Festival was wonderful !
+Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Padanaram Festival Meeting and listening to the Voters of the 9th Bristol District at the Padanaram Festival was wonderful !
 Lots of great feedback and support.
-Committee to Elect Edward Pacheco
-Powered by CampaignPartner.com - Political Campaign Websites
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

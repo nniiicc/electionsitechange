@@ -1,10 +1,10 @@
-Kent Roberson has committed his life in service to others that goes beyond his current roles.
+EN Translate: Welcome About Kent Contact Us Donate Legislative Updates Upcoming Events Scholarships Privacy More Welcome About Kent Contact Us Donate Legislative Updates Upcoming Events Scholarships Privacy EN Welcome About Kent Contact Us Donate Legislative Updates Upcoming Events Scholarships Privacy About Kent Kent's Elected and Volunteer Positions Kent Roberson has committed his life in service to others that goes beyond his current roles.
 On May 30, 2023, Kent was appointed to the Maryland General Assembly to serve in the House of Delegates representing the 25th District.
 Prior to his appointment Kent was elected in 2018 and re-elected in 2022 as the 25th District At-Large Democratic Central Committee Member, where he served as the Chair of the Committee for two years.
 In 2020, Kent served as a member of Maryland's Electoral College where he elected President Biden and Vice-President Harris.
 In 2021, Kent was appointed as the African-American Diversity Leadership Chair for the State of Maryland.
 Kent is also a member of the Prince George's County Young Democrats and the South County Democratic Club.
-Professionally, Kent has over 20 years of experience working in government relations.
+Kent's Professional Life Professionally, Kent has over 20 years of experience working in government relations.
 He currently works for the Corn Refiners Association where he advocates for federal legislative issues that include agriculture, transportation, trade, sustainability, and environmental protection.
 He gained exposure to Capitol Hill while interning for U.S.
 Congressman Albert Wynn, who continues to be his mentor.
@@ -23,3 +23,4 @@ He uses his education as a Seminary graduate to ground all his decisions, encoun
 Originally from Memphis, TN, Kent grew up in Prince George's County where he now lives with his wife, their two sons and daughter.
 Kent is a proud graduate of Frederick Douglass High School in Upper Marlboro, MD.
 He received his Bachelor’s and Master’s in political science from Ball State University, and his Master’s of Divinity from Wesley Seminary.
+By Authority of Friends of Kent Roberson, Latesha Jackson, Treasurer Powered by Donate

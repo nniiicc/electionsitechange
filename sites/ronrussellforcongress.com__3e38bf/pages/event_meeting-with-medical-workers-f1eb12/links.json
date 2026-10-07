@@ -1,24 +1,114 @@
 [
-"http://example.com/",
-"https://facebook.com/RonRussellforCongress",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20191220T000000%2F20191220T235959&text=Meeting+with+Medical+Workers&details=Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.+Phasellus+sagittis+semper+tortor.+Quisque+non+felis+elementum+augue+ullamcorper+laoreet.+Nam+porta+leo+ut+felis+suscipit%2C+vel+semper+lectus+vehicula.+Nulla+vitae+porta+leo.+Class+aptent+taciti+sociosqu+ad+litora+torquent+per+conubia+nostra%2C+per+inceptos+himenaeos.+Fusce+bibendum+arcu+in+lacinia+condimentum.+Aenean+id+nunc+quis+ex+congue+facilisis.+Proin+non+tempus+arcu.+Donec+dictum+elementum+ex+et+aliquet.+Praesent+at+pulvinar+augue%2C+ut+ultricies+mauris.+Nulla+congue+nulla+in+semper+cursus.+Sed+auctor+condimentum+sem+a+tincidunt.+Duis+rhoncus+maximus+varius.+Nullam+imperdiet+imperdiet+massa+vel+lacinia.+Nam+auctor+odio+velit%2C+at+ultricies+nisi+dictum+quis.+Vestibulum+tempus+tellus+nec+leo+malesuada%2C+in+tempus+quam+vehicula.Sed+nec+blandit+nibh.+Pellentesque+commodo+suscipit+gravida.+Sed+sit+amet+ex+sed+mi+dignissim+elementum+in+ut+quam.+Vivamus+laoreet+non+mauris+eget+mattis.+Nam+turpis+orci%2C+consectetur+vel+accumsan+sed%2C++%28View+Full+event+Description+Here%3A+https%3A%2F%2Fronrussellforcongress.com%2Fevent%2Fmeeting-with-medical-workers%2F%29&location=Central+Park%2C+888+Broadway%2C+New+York%2C+United+States&trp=false&ctz=UTC+0&sprop=website%3Ahttps%3A%2F%2Fronrussellforcongress.com",
-"https://instagram.com/ronrussellforcongress",
-"https://maps.google.com/maps?f=q&hl=en&q=888+Broadway+New+York+United+States",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2019-12-20T00%3A00%3A00%2B00%3A00&enddt=2019-12-20T00%3A00%3A00&location=Central+Park%2C+888+Broadway%2C+New+York%2C+United+States&subject=Meeting+with+Medical+Workers&body=Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.+Phasellus+sagittis+semper+tortor.+Quisque+non+felis+elementum+augue+ullamcorper+laoreet.+Nam+porta+leo+ut+felis+suscipit%2C+vel+semper+lectus+vehicula.+Nulla+vitae+porta+leo.+Class+aptent+taciti+sociosqu+ad+litora+torquent+per+conubia+nostra%2C+per+inceptos+himenaeos.+Fusce+bibendum+arcu+in+lacinia+condimentum.+Aenean+id+nunc+quis+ex+congue+facilisis.+Proin+non+tempus+arcu.+Donec+dictum+elementum+ex+et+aliquet.+Praesent+at+pulvinar+augue%2C+ut+ultricies+mauris.+Nulla+congue+nulla+in+semper+cursus.+Sed+auctor+condimentum+sem+a+tincidunt.+Duis+rhoncus+maximus+varius.+Nullam+imperdiet+imperdiet+massa+vel+lacinia.+Nam+auctor+odio+velit%2C+at+ultricies+nisi+dictum+quis.+Vestibulum+tempus+tellus+nec+leo+malesuada%2C+in+tempus+quam+vehicula.Sed+nec+blandit+nibh.+Pellentesque+commodo+suscipit+gravida.+Sed+sit+amet+ex+sed+mi+dignissim+elementum+in++%28View+Full+Event+Description+Here%3A+https%3A%2F%2Fronrussellforcongress.com%2Fevent%2Fmeeting-with-medical-workers%2F%29",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2019-12-20T00%3A00%3A00%2B00%3A00&enddt=2019-12-20T00%3A00%3A00&location=Central+Park%2C+888+Broadway%2C+New+York%2C+United+States&subject=Meeting+with+Medical+Workers&body=Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.+Phasellus+sagittis+semper+tortor.+Quisque+non+felis+elementum+augue+ullamcorper+laoreet.+Nam+porta+leo+ut+felis+suscipit%2C+vel+semper+lectus+vehicula.+Nulla+vitae+porta+leo.+Class+aptent+taciti+sociosqu+ad+litora+torquent+per+conubia+nostra%2C+per+inceptos+himenaeos.+Fusce+bibendum+arcu+in+lacinia+condimentum.+Aenean+id+nunc+quis+ex+congue+facilisis.+Proin+non+tempus+arcu.+Donec+dictum+elementum+ex+et+aliquet.+Praesent+at+pulvinar+augue%2C+ut+ultricies+mauris.+Nulla+congue+nulla+in+semper+cursus.+Sed+auctor+condimentum+sem+a+tincidunt.+Duis+rhoncus+maximus+varius.+Nullam+imperdiet+imperdiet+massa+vel+lacinia.+Nam+auctor+odio+velit%2C+at+ultricies+nisi+dictum+quis.+Vestibulum+tempus+tellus+nec+leo+malesuada%2C+in+tempus+quam+vehicula.Sed+nec+blandit+nibh.+Pellentesque+commodo+suscipit+gravida.+Sed+sit+amet+ex+sed+mi+dignissim+elementum+in++%28View+Full+Event+Description+Here%3A+https%3A%2F%2Fronrussellforcongress.com%2Fevent%2Fmeeting-with-medical-workers%2F%29",
-"https://ronrussellforcongress.com/",
-"https://ronrussellforcongress.com/about",
-"https://ronrussellforcongress.com/contact",
-"https://ronrussellforcongress.com/event/board-meeting",
-"https://ronrussellforcongress.com/events",
-"https://ronrussellforcongress.com/events/category/event",
-"https://ronrussellforcongress.com/events/category/meeting",
-"https://ronrussellforcongress.com/events/tag/medicine",
-"https://ronrussellforcongress.com/events/tag/meeting",
-"https://ronrussellforcongress.com/events/tag/workers",
-"https://ronrussellforcongress.com/issues",
-"https://ronrussellforcongress.com/privacy-policy",
-"https://ronrussellforcongress.com/volunteers",
-"https://secure.winred.com/russell-for-congress/donate-today",
-"https://x.com/RussellForHouse"
+{
+"text": "(207) 604-3491",
+"href": "tel://207%20604-3491"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=888+Broadway+New+York+United+States"
+},
+{
+"text": "About",
+"href": "https://ronrussellforcongress.com/about/"
+},
+{
+"text": "Board Meeting »",
+"href": "https://ronrussellforcongress.com/event/board-meeting/"
+},
+{
+"text": "Contact",
+"href": "https://ronrussellforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/russell-for-congress/donate-today"
+},
+{
+"text": "Event",
+"href": "https://ronrussellforcongress.com/events/category/event/"
+},
+{
+"text": "Events",
+"href": "https://ronrussellforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20191220T000000%2F20191220T235959&text=Meeting+with+Medical+Workers&details=Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.+Phasellus+sagittis+semper+tortor.+Quisque+non+felis+elementum+augue+ullamcorper+laoreet.+Nam+porta+leo+ut+felis+suscipit%2C+vel+semper+lectus+vehicula.+Nulla+vitae+porta+leo.+Class+aptent+taciti+sociosqu+ad+litora+torquent+per+conubia+nostra%2C+per+inceptos+himenaeos.+Fusce+bibendum+arcu+in+lacinia+condimentum.+Aenean+id+nunc+quis+ex+congue+facilisis.+Proin+non+tempus+arcu.+Donec+dictum+elementum+ex+et+aliquet.+Praesent+at+pulvinar+augue%2C+ut+ultricies+mauris.+Nulla+congue+nulla+in+semper+cursus.+Sed+auctor+condimentum+sem+a+tincidunt.+Duis+rhoncus+maximus+varius.+Nullam+imperdiet+imperdiet+massa+vel+lacinia.+Nam+auctor+odio+velit%2C+at+ultricies+nisi+dictum+quis.+Vestibulum+tempus+tellus+nec+leo+malesuada%2C+in+tempus+quam+vehicula.Sed+nec+blandit+nibh.+Pellentesque+commodo+suscipit+gravida.+Sed+sit+amet+ex+sed+mi+dignissim+elementum+in+ut+quam.+Vivamus+laoreet+non+mauris+eget+mattis.+Nam+turpis+orci%2C+consectetur+vel+accumsan+sed%2C++%28View+Full+event+Description+Here%3A+https%3A%2F%2Fronrussellforcongress.com%2Fevent%2Fmeeting-with-medical-workers%2F%29&location=Central+Park%2C+888+Broadway%2C+New+York%2C+United+States&trp=false&ctz=UTC+0&sprop=website%3Ahttps%3A%2F%2Fronrussellforcongress.com"
+},
+{
+"text": "Home",
+"href": "https://ronrussellforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://ronrussellforcongress.com/issues/"
+},
+{
+"text": "Join Us",
+"href": "https://ronrussellforcongress.com/volunteers/"
+},
+{
+"text": "Meeting",
+"href": "https://ronrussellforcongress.com/events/category/meeting/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T00%3A00%3A00%2B00%3A00&enddt=%23T00%3A00%3A00&location=Central+Park%2C+888+Broadway%2C+New+York%2C+United+States&subject=Meeting+with+Medical+Workers&body=Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.+Phasellus+sagittis+semper+tortor.+Quisque+non+felis+elementum+augue+ullamcorper+laoreet.+Nam+porta+leo+ut+felis+suscipit%2C+vel+semper+lectus+vehicula.+Nulla+vitae+porta+leo.+Class+aptent+taciti+sociosqu+ad+litora+torquent+per+conubia+nostra%2C+per+inceptos+himenaeos.+Fusce+bibendum+arcu+in+lacinia+condimentum.+Aenean+id+nunc+quis+ex+congue+facilisis.+Proin+non+tempus+arcu.+Donec+dictum+elementum+ex+et+aliquet.+Praesent+at+pulvinar+augue%2C+ut+ultricies+mauris.+Nulla+congue+nulla+in+semper+cursus.+Sed+auctor+condimentum+sem+a+tincidunt.+Duis+rhoncus+maximus+varius.+Nullam+imperdiet+imperdiet+massa+vel+lacinia.+Nam+auctor+odio+velit%2C+at+ultricies+nisi+dictum+quis.+Vestibulum+tempus+tellus+nec+leo+malesuada%2C+in+tempus+quam+vehicula.Sed+nec+blandit+nibh.+Pellentesque+commodo+suscipit+gravida.+Sed+sit+amet+ex+sed+mi+dignissim+elementum+in++%28View+Full+Event+Description+Here%3A+https%3A%2F%2Fronrussellforcongress.com%2Fevent%2Fmeeting-with-medical-workers%2F%29"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T00%3A00%3A00%2B00%3A00&enddt=%23T00%3A00%3A00&location=Central+Park%2C+888+Broadway%2C+New+York%2C+United+States&subject=Meeting+with+Medical+Workers&body=Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.+Phasellus+sagittis+semper+tortor.+Quisque+non+felis+elementum+augue+ullamcorper+laoreet.+Nam+porta+leo+ut+felis+suscipit%2C+vel+semper+lectus+vehicula.+Nulla+vitae+porta+leo.+Class+aptent+taciti+sociosqu+ad+litora+torquent+per+conubia+nostra%2C+per+inceptos+himenaeos.+Fusce+bibendum+arcu+in+lacinia+condimentum.+Aenean+id+nunc+quis+ex+congue+facilisis.+Proin+non+tempus+arcu.+Donec+dictum+elementum+ex+et+aliquet.+Praesent+at+pulvinar+augue%2C+ut+ultricies+mauris.+Nulla+congue+nulla+in+semper+cursus.+Sed+auctor+condimentum+sem+a+tincidunt.+Duis+rhoncus+maximus+varius.+Nullam+imperdiet+imperdiet+massa+vel+lacinia.+Nam+auctor+odio+velit%2C+at+ultricies+nisi+dictum+quis.+Vestibulum+tempus+tellus+nec+leo+malesuada%2C+in+tempus+quam+vehicula.Sed+nec+blandit+nibh.+Pellentesque+commodo+suscipit+gravida.+Sed+sit+amet+ex+sed+mi+dignissim+elementum+in++%28View+Full+Event+Description+Here%3A+https%3A%2F%2Fronrussellforcongress.com%2Fevent%2Fmeeting-with-medical-workers%2F%29"
+},
+{
+"text": "Terms & Conditions and Privacy Policy",
+"href": "https://ronrussellforcongress.com/privacy-policy/"
+},
+{
+"text": "View Organizer Website",
+"href": "http://example.com"
+},
+{
+"text": "[image: Ron Russell] [image: Ron Russell]",
+"href": "https://ronrussellforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0)"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/RonRussellforCongress/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://x.com/RussellForHouse/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/ronrussellforcongress/"
+},
+{
+"text": "example.com",
+"href": "http://example.com"
+},
+{
+"text": "iCalendar",
+"href": "webcal://ronrussellforcongress.com/event/meeting-with-medical-workers/?ical=1"
+},
+{
+"text": "medicine",
+"href": "https://ronrussellforcongress.com/events/tag/medicine/"
+},
+{
+"text": "meeting",
+"href": "https://ronrussellforcongress.com/events/tag/meeting/"
+},
+{
+"text": "workers",
+"href": "https://ronrussellforcongress.com/events/tag/workers/"
+},
+{
+"text": "« All Events",
+"href": "https://ronrussellforcongress.com/events/"
+}
 ]

@@ -1,3 +1,4 @@
-Radio Free Europe
-Introduced by Rep.
+Skip to content Bill Keating for Congress Representing the 9th Congressional District of Massachusetts Menu and widgets Foreign Affairs panel advances nuclear energy bill Radio Free Europe Introduced by Rep.
 Bill Keating (D-Mass.), ranking member of the Europe Subcommittee, the legislation aims to boost nuclear energy collaboration in Europe to combat Russia’s “malign influence” in the sector, referencing the country’s targeted seizure of nuclear facilities during its ongoing invasion in Ukraine.
+READ HERE Posted on June 9, 2026 Author Jim Quigley Post navigation Previous Previous post: US House Passes Sweeping Ukraine Support Bill After Months Of Gridlock Next Next post: Who sank 2 Ecuadorean fishing boats?
+Survivors point to drones as Washington denies involvement Proudly powered by WordPress

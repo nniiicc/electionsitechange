@@ -1,7 +1,4 @@
-Upper Red Lake Area Association
-Box 407, Waskish, MN 56685 | contact@urlaa.org | 218-556-5844
-Dear Constituents of District 45A,
-I am writing to endorse Andrew Myers for Minnesota House Representative of District 45A.
+Home Community Priorities Bills Endorsements Photos Events Priorities Survey Contact Donate Upper Red Lake Area Association Box 407, Waskish, MN 56685 | contact@urlaa.org | 218-556-5844 Dear Constituents of District 45A, I am writing to endorse Andrew Myers for Minnesota House Representative of District 45A.
 I have had the pleasure of knowing Andrew for several years, and I can confidently say that he has the integrity and leadership experience you are looking for to tackle big problems and work for solutions in your backyard and for all Minnesotans.
 As president of the Upper Red Lake Area Association, I reached out to Andrew about the growing popularity of ice fishing, overnight winter camping, and recreation on the public waters in our area, and the impact it was having on residents, often overwhelmed with the leftovers.
 Together we built partnerships.
@@ -13,6 +10,4 @@ I believe it is essential to elect leaders committed to improving our communitie
 Representative Myers is one such leader.
 He has demonstrated his commitment to public service by giving a voice to our shared cause – the protection of Minnesota’s clean waters.
 Please join me in supporting Andrew Myers and re-electing him to the Minnesota House Representatives for District 45A.
-Sincerely,
-Robyn Dwight
-President: Upper Red Lake Area Association
+Sincerely, Robyn Dwight President: Upper Red Lake Area Association Follow Follow Follow Follow Follow Prepared and Paid for by Andrew Myers for Minnesota House of Representatives District 45A | PO Box 149 Excelsior, MN 55331

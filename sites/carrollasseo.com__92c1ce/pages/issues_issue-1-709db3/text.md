@@ -1,6 +1,4 @@
-carroll asseo believes in
-Stronger Public Schools
-Oklahoma’s public education system has been underfunded for decades, leading to overcrowded classrooms, teacher shortages, and declining outcomes.
+Skip navigation menu Home About Issues Volunteer Contact Donate Home About Issues Volunteer Contact Donate Stronger Public Schools Affordable & Accessible Healthcare Lower Costs & Higher Wages Standing up for Working Families carroll asseo believes in Stronger Public Schools Oklahoma’s public education system has been underfunded for decades, leading to overcrowded classrooms, teacher shortages, and declining outcomes.
 Carroll has seen this decline firsthand and knows that our current system is failing both students and educators.
 She will fight to invest Rainy Day Fund dollars into education, reduce class sizes, and implement forward-looking reforms.
 Carroll will also introduce legislation to reimburse tuition for Oklahoma-trained teachers who stay and teach in-state, helping stop the brain drain and rebuild our education workforce.
@@ -13,3 +11,6 @@ However, we are currently experiencing a “brain drain” as newly graduated ed
 I will introduce legislation to reimburse tuition costs for Oklahoma education graduates who teach in Oklahoma public schools.
 This bill will also incentivize teachers from other states with bonuses for committing to teach in Oklahoma.
 Carroll is committed to fighting our ranking as 50th in the Nation in education.
+Together, we can flip House District 53.
+PRIVACY POLICY | HOME | DONATE Powered by RUN! website builder Authorized and paid for by Asseo for House 2026.
+You need to enable JavaScript to run this app.

@@ -1,13 +1,19 @@
-HURRICANE IAN
-Dear Friends and Neighbors,
-Governor Henry McMaster has declared a State of Emergency as a part of the State Emergency Response Team (SERT)’s preparations for severe weather anticipated from Thursday through Sunday in the Palmetto State.
+top of page HOME ABOUT ISSUES NEWS CONTACT More Use tab to navigate through the menu items.
+HURRICANE IAN Sep 29, 2022 1 min read Dear Friends and Neighbors, Governor Henry McMaster has declared a State of Emergency as a part of the State Emergency Response Team (SERT)’s preparations for severe weather anticipated from Thursday through Sunday in the Palmetto State.
 Some may be wondering why the South Carolina Emergency Management Division (SCEMD) recommended a State of Emergency for Hurricane Ian given that it will likely be a Tropical Storm by the time it impacts our State.
 The entire State will feel the impacts of Hurricane Ian, particularly on Friday and Saturday.
 South Carolina is expecting heavy rain, coastal flooding, and a storm surge along the coast, particularly in the Low Country.
 While a coastal evacuation has not been recommended, it is encouraged that individuals in flood-prone areas have a plan and seek higher ground before the arrival of tropical-storm force winds, which could make travel dangerous.
 Please pay close attention to local weather reports and advisories.
 As SCEMD continues to monitor the storm and support local governments in their response as needed, it may also implement the state’s Recovery Plan, which guides coordination of state-level agencies and resources to support community recovery in affected areas.
-Please remember that anyone can use the SCEMD mobile app Know Your Zone, to build a personal emergency plan, to find emergency shelter locations, and to stay connected with loved ones, which is available in the App Store and on Google Play: http://onelink.to/dn92rx.
-Other Important Links for continuing updates and coverage of the storm:
-SOUTH CAROLINA HURRICANE GUIDE SOUTH CAROLINA EMERGENCY MANAGEMENT DIVISION SOUTH CAROLINA DEPARTMENT OF TRANSPORTATION DOMINION ENGY Please stay safe and takeappropriate precautions in preparation of this storm.
-Best,
+Please remember that anyone can use the SCEMD mobile app Know Your Zone , to build a personal emergency plan, to find emergency shelter locations, and to stay connected with loved ones, which is available in the App Store and on Google Play: http://onelink.to/dn92rx .
+Other Important Links for continuing updates and coverage of the storm : SOUTH CAROLINA HURRICANE GUIDE SOUTH CAROLINA EMERGENCY MANAGEMENT DIVISION SOUTH CAROLINA DEPARTMENT OF TRANSPORTATION DOMINION ENGY Please stay safe and takeappropriate precautions in preparation of this storm.
+Best, Recent Posts Statement on the Passing of Senator Lindsey Graham 2026 END OF SESSION LEGISLATIVE UPDATE Happy Birthday, America!
+Plus my End of Session Legislative Update Happy holidays from my family to yours!
+Happy Thanksgiving!
+Checking In - Recovering from Hurricane Helene BACK TO SCHOOL MESSAGE - HONORING OUR TEACHERS Happy Birthday, America!
+Plus my End of Session Legislative Update Happy Holidays from my family to yours!
+Memorial Day - Remember and Honor Archive July 2026 (1) 1 post June 2026 (1) 1 post July 2025 (1) 1 post December 2024 (1) 1 post November 2024 (1) 1 post October 2024 (1) 1 post August 2024 (1) 1 post July 2024 (1) 1 post December 2023 (1) 1 post May 2023 (1) 1 post November 2022 (1) 1 post September 2022 (2) 2 posts July 2022 (1) 1 post May 2022 (1) 1 post December 2021 (1) 1 post November 2021 (2) 2 posts July 2021 (1) 1 post May 2021 (1) 1 post December 2020 (1) 1 post November 2020 (2) 2 posts October 2020 (1) 1 post September 2020 (3) 3 posts July 2020 (1) 1 post May 2020 (6) 6 posts April 2020 (1) 1 post March 2020 (3) 3 posts February 2020 (1) 1 post January 2020 (1) 1 post December 2019 (1) 1 post November 2019 (1) 1 post September 2019 (1) 1 post August 2019 (1) 1 post June 2019 (1) 1 post May 2019 (3) 3 posts February 2019 (2) 2 posts January 2019 (1) 1 post December 2018 (1) 1 post November 2018 (1) 1 post October 2018 (1) 1 post September 2018 (1) 1 post August 2018 (1) 1 post July 2018 (1) 1 post May 2018 (1) 1 post March 2018 (1) 1 post February 2018 (1) 1 post January 2018 (1) 1 post December 2017 (1) 1 post November 2017 (2) 2 posts September 2017 (1) 1 post August 2017 (2) 2 posts Search By Tags No tags yet.
+Follow Us HOME ABOUT ISSUES NEWS CONTACT More...
+Use tab to navigate through the menu items.
+CONTRIBUTE Phone: 803.212-6940 Blatt Building, #532-C, Pendleton Street Columbia, SC 29201 Email: beth@bethbernsteinsc.com | Beth Bernstein for House PAID FOR BY BETH BERNSTEIN FOR HOUSE Follow Us on X! bottom of page

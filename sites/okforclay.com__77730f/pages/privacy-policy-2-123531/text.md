@@ -1,5 +1,6 @@
-“FRIENDS OF CLAY STAIRES FOR REPRESENTATIVE 2024 TEXT/SMS/MMS PRIVACY POLICY
-We are offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+Facebook Twitter Instagram Re-Elect Clay on Nov.
+3rd!
+Meet Clay Core Principles Core Issues Contact Clay Donate Select Page PRIVACY POLICY “ FRIENDS OF CLAY STAIRES FOR REPRESENTATIVE 2024 TEXT/SMS/MMS PRIVACY POLICY We are offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 We respect your right to privacy.
 We will only use information you provide to transmit your mobile messages and respond to you, if necessary.
@@ -9,4 +10,5 @@ When you complete forms online or otherwise provide Us information in connection
 You agree not to use a false or misleading name or a name that you are not authorized to use.
 If We, in Our sole discretion, believe that any such information is untrue, inaccurate, or incomplete, or you have opted into the Program for an ulterior purpose, We may refuse you access to the Program and pursue any appropriate legal remedies.
 This Privacy Policy is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
-Please make sure you review those separate Privacy Policies, located on our website, to understand those governing terms.”
+Please make sure you review those separate Privacy Policies, located on our website, to understand those governing terms.” Search for: OkforClay@gmail.com Authorized and Paid for by Friends of Clay Staires for Representative 2026 Facebook Twitter Instagram © # OK for Clay.
+All rights reserved. | Sitemap | Privacy Policy Meet Clay Core Principles Core Issues Contact Clay Donate

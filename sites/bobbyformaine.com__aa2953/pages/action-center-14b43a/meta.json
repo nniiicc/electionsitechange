@@ -1,7 +1,9 @@
 {
  "description": "Speak Up for Maine. Share your support, ideas, or story with the campaign. Get involved, download resources, join coalitions, and attend events.",
  "final_url": "https://www.bobbyformaine.com/action-center",
- "paid_for_by": null,
+ "fingerprint": "73bb97705d6297ee60b50f8988fdce2693705f66",
+ "format": 3,
+ "paid_for_by": "authorized by Bobby Charles for Maine Governor Campaign Committee",
  "title": "Action Center",
  "years_mentioned": []
 }

@@ -1,10 +1,1 @@
-top of page
-Donate to Weise for Congress
-Home
-About
-Issues
-Media
-Donate
-Volunteer
-Donate to Weise for Congress
-bottom of page
+top of page Donate to Weise for Congress Home About Issues Media Donate Volunteer Donate to Weise for Congress © # Weise for Congress Get in Touch! support@weiseforcongress.com Follow Us! bottom of page

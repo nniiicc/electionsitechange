@@ -1,11 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61581343379269",
-"https://facebook.com/profile.php?id=61588932742179",
-"https://hudsonnh.gov/clerk/page/registering-vote",
-"https://secure.winred.com/tom-trost-for-nh/donate",
-"https://secure.winred.com/tom-trost-for-nh/storefront",
-"https://tomtrost.com/",
-"https://tomtrost.com/Contact",
-"https://x.com/TomTrostNH",
-"https://x.com/tedtrost"
+{
+"text": "@TomTrostNH",
+"href": "https://x.com/TomTrostNH"
+},
+{
+"text": "CONTACT ME",
+"href": "https://www.tomtrost.com/Contact/"
+},
+{
+"text": "Contact",
+"href": "https://www.tomtrost.com/Contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/tom-trost-for-nh/donate"
+},
+{
+"text": "DONATE TO THE CAMPAIGN",
+"href": "https://secure.winred.com/tom-trost-for-nh/donate"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=61588932742179"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61581343379269"
+},
+{
+"text": "Home",
+"href": "https://www.tomtrost.com/"
+},
+{
+"text": "REGISTER TO VOTE IN HUDSON",
+"href": "https://www.hudsonnh.gov/clerk/page/registering-vote"
+},
+{
+"text": "STORE",
+"href": "https://secure.winred.com/tom-trost-for-nh/storefront"
+},
+{
+"text": "Ted",
+"href": "https://x.com/tedtrost"
+},
+{
+"text": "[image]",
+"href": "https://www.tomtrost.com/"
+},
+{
+"text": "this page",
+"href": "https://www.tomtrost.com/Contact/"
+}
 ]

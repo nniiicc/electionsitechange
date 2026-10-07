@@ -1,12 +1,12 @@
-By Jim Caple
-Twenty-five years ago Thursday — and a mere century after Thomas Edison developed the lightbulb — lights finally went on at Wrigley Field for the first scheduled major league night game in the ballpark’s long history.
-Rick Sutcliffe, the Cubs’ starting pitcher on Aug. 8, 1988, calls that night: “Easily the biggest event I was ever part of.
+Skip to content Search for: HOME ABOUT MIKE ISSUES GET INVOLVED NEWS CONTACT US CONTRIBUTE Previous Next ESPN: The night Wrigley Field lit up.
+By Jim Caple Twenty-five years ago Thursday — and a mere century after Thomas Edison developed the lightbulb — lights finally went on at Wrigley Field for the first scheduled major league night game in the ballpark’s long history.
+Rick Sutcliffe, the Cubs’ starting pitcher on Aug.
+8, 1988, calls that night: “Easily the biggest event I was ever part of.
 I pitched a lot of opening days.
 They were all special.
 They all meant a lot.
 There was never an empty seat.
-But the thing about opening night, we knew — or we thought — there was never going to be another one.”
-Well, as you remember, or will be reminded of as you read on, Mother Nature had a say in that.
+But the thing about opening night, we knew — or we thought — there was never going to be another one.” Well, as you remember, or will be reminded of as you read on, Mother Nature had a say in that.
 Here, in the words of some of the principals involved and die-hard fans in attendance (including yours truly and his pals), is the story of the fight for lights at Wrigley Field and the night the Cubs turned them on.
 U.S.
 Congressman Mike Quigley is a lifelong Cubs fan who was living in Wrigleyville in the early 1980s when the Cubs first proposed adding lights.
@@ -14,16 +14,17 @@ Thus started what he says was his first community political-action issue.
 Mike Quigley: When I went to my first Cubs game, I had never seen baseball in color.
 My parents didn’t have a color TV.
 It was 1969.
-I went
-There was something magical about it.
+I went [to Wrigley] with the Carroll Street Park District in a s—ty school bus.
+And walking in, it was exactly like the scene in “The Wizard of Oz” when it switches from black-and-white to color.
+I looked at it and my eyes must have gotten dry because I didn’t blink for the longest time.
+I said to my friend, “This is the most beautiful thing I’ve ever seen.” There was something magical about it.
 I think as a kid, I respected that history.
 It was like I was in a museum.
 And I know they don’t like that term but it was something that connected me to something bigger than myself, something older than myself, something that has always been there and will always be there.
 That’s why I didn’t like night baseball at first.
 Jeff Katz (current mayor of Cooperstown, N.Y.): The first time I went to Wrigley, in 1985, there was a vendor who looked like a cross between Dennis Eckersley and Gary Mule Deer.
 He wore a Cubs cap with the “C” sewn on backward and he was hawking beer.
-Someone asked for a Bud Light and he said, “No lights at Wrigley Field.”
-The Tribune Company bought the Cubs in the summer of 1981, and the team began pushing for lights at Wrigley later that year.
+Someone asked for a Bud Light and he said, “No lights at Wrigley Field.” The Tribune Company bought the Cubs in the summer of 1981, and the team began pushing for lights at Wrigley later that year.
 General manager Dallas Green led the push.
 Dallas Green: It was a very difficult time.
 The tradition and legacy of Wrigley Field and that area was very difficult to overcome.
@@ -49,8 +50,7 @@ Louis and get on the plane and come to O’Hare and get our guys to bed, it’s 
 If the next day is a day game, they have to get up and back to the ballpark [in the morning], and that eventually wears on them to the point where they’re just not competitive anymore.
 Meeting in their homes, Quigley and other neighbors formed Citizens United for Baseball in the Sunshine — CUBS — in opposition.
 In addition to the name, the group produced yellow T-shirts with the red Wrigley Field marquee and the words “No Lights at Wrigley” across the chest.
-The T-shirts became so popular and identifiable that Rob Lowe wore one in the Chicago-based rom-com “About Last Night.”
-Quigley: What people forget is the Cubs said, “We’re going to have night baseball and we don’t care what you think about it.
+The T-shirts became so popular and identifiable that Rob Lowe wore one in the Chicago-based rom-com “About Last Night.” Quigley: What people forget is the Cubs said, “We’re going to have night baseball and we don’t care what you think about it.
 We don’t need to do anything.” They even talked about artificial turf and 60 or 70 night games a season.
 The neighborhood wasn’t nearly as strong or high quality as it is now, so we had some concerns.
 CUBS was literally formed under the shadows of Wrigley Field.
@@ -95,7 +95,8 @@ We were just awed when they tested the lights.
 And they tested them a lot.
 There was this glow.
 I know there was a feeling, too, that a tradition was being violated, but I think they did a nice job with what they did with the lights.
-After the Cubs announced that the first night game would be played on Aug. 8 — 8/8/88 — the team placed 8,000 tickets on sale.
+After the Cubs announced that the first night game would be played on Aug.
+8 — 8/8/88 — the team placed 8,000 tickets on sale.
 The ticket sales began at 8 a.m.
 That was 6 a.m. in Seattle, where I was working at a suburban newspaper.
 I worked until midnight the night before the tickets were made available, then stayed up all night in the newsroom writing a feature story.
@@ -126,11 +127,9 @@ But an electrician somewhere was probably trying to connect it all.
 Sutcliffe: I never talked to anybody the day I pitched — I barely talked to my wife.
 And all of a sudden, the Cubs tell me the Hall of Fame people want to talk to me.
 I’m against it, but I go, “All right, what do you want?” They say, “Well, we want the first ball, the first pitch, to go to the Hall of Fame.” “So?” “Well, here’s what we’ve done.
-We’ve talked to the home plate umpire [Eric Gregg] and there is going to be a generous outside corner.”
-And I’m like, “What are you telling me?
+We’ve talked to the home plate umpire [Eric Gregg] and there is going to be a generous outside corner.” And I’m like, “What are you telling me?
 Are you telling me right now … that you’re worried about the ball being fouled off or whatever and you guys not having it?
-You’re saying if I throw the pitch four or five inches outside and it’s not high or low, that he’s agreed to call it [a strike]?” And they go, “Yeah.”
-Phil Bradley (the Phillies’ leadoff hitter): Eric Gregg had a big strike zone – I’ll just put it that way.
+You’re saying if I throw the pitch four or five inches outside and it’s not high or low, that he’s agreed to call it [a strike]?” And they go, “Yeah.” Phil Bradley (the Phillies’ leadoff hitter): Eric Gregg had a big strike zone – I’ll just put it that way.
 Although not big enough.
 With so many flashbulbs popping that he was partially blinded by the glare, Sutcliffe threw his first pitch exactly where he wanted — four or five inches outside.
 And … Gregg called it a ball.
@@ -143,10 +142,10 @@ Sutcliffe: I throw a changeup and Phil Bradley hits a home run.
 There’s a hush in the crowd.
 Steve Stone and Harry Caray don’t know what to say.
 And Bill Murray goes, “Turn the lights off!
-If Phil Bradley takes Sutcliffe deep, it’s not going to work.”
-After Mitch Webster singled to lead off the bottom of the first, Ryne Sandberg stepped into the on-deck circle.
+If Phil Bradley takes Sutcliffe deep, it’s not going to work.” After Mitch Webster singled to lead off the bottom of the first, Ryne Sandberg stepped into the on-deck circle.
 Morganna, the amply breasted “Kissing Bandit,” then hopped onto the field and headed toward Sandberg.
-Ryne Sandberg: All I know is, I was put on Morganna’s Top 10 list and I was No. 1 on her list in a Sports Illustrated article after our ’84 playoff season. … My first at-bat, I get introduced and I’m walking up to home plate and it’s a little bit louder roar than I was expecting.
+Ryne Sandberg: All I know is, I was put on Morganna’s Top 10 list and I was No.
+1 on her list in a Sports Illustrated article after our ’84 playoff season. … My first at-bat, I get introduced and I’m walking up to home plate and it’s a little bit louder roar than I was expecting.
 And I’m like, “It must be a night game thing and a lights thing.” Well, I look up and from the right-field corner running in is Morganna the Kissing Bandit.
 Everybody is cheering, and I’m standing up there with Lance Parrish, the catcher from the Phillies, and the umpire.
 I’m just standing there not knowing what’s going to happen or what I’m going to do.
@@ -171,8 +170,7 @@ It was like watching Niagara Falls head our way.
 Lepse: It hit home plate and was like a shower moving toward us.
 It was like in the “Ten Commandments” with the bad special effects.
 If they made a movie of it and showed that image, no one would believe it.
-You could see people raising umbrellas as it was hitting them and coming our way, but in the outfield we were like [he channels Bill Murray in “Caddyshack”], “I don’t think the heavy stuff is coming for some time.”
-I had time to go into my backpack.
+You could see people raising umbrellas as it was hitting them and coming our way, but in the outfield we were like [he channels Bill Murray in “Caddyshack”], “I don’t think the heavy stuff is coming for some time.” I had time to go into my backpack.
 Get my raincoat out.
 Put it on.
 Zip it up.
@@ -212,13 +210,20 @@ Sandberg: It’s one of the only homers, if not the only one of my career, that 
 That two-run homer got washed out.
 That was disappointing, also.
 You can never get that back.
-The Cubs’ next game — Aug. 9 — against the Mets would become Wrigley Field’s first official night game.
+The Cubs’ next game — Aug.
+9 — against the Mets would become Wrigley Field’s first official night game.
 Brad Rosen (partner of Sports World, the merchandise shop across from Wrigley): I remember there was a debate over whether we should get some T-shirts printed up with “8-9-88” on them.
 Bradley: You might not know this — after the game got rained out, our next stop was St.
 Louis, and our plane got hit by lightning.
-Sarge, thinking ahead, had bought tickets for the Aug. 9 game as well, so he and I were there for what became the first official night game at Wrigley Field.
+Sarge, thinking ahead, had bought tickets for the Aug.
+9 game as well, so he and I were there for what became the first official night game at Wrigley Field.
 The Cubs beat the Mets 6-4 in front of 36,399 fans — and amid much less fanfare.
 Few remember much about that game.
 It’s the rainout that lingers.
 By the way, Rosen says the “No Lights at Wrigley Field” T-shirts are still a big seller.
 (ESPN.com senior writer Jerry Crasnick contributed to this report.
+By quigley | 2017-02-14T15:42:03+00:00 August 9th, 2013 | News | 0 Comments Share This Story, Choose Your Platform!
+Facebook X Reddit LinkedIn Tumblr Pinterest Vk Email About the Author: quigley Related Posts Chicago Tribune: More O’Hare runways in the wings, but how will they help?
+Chicago Tribune: More O’Hare runways in the wings, but how will they help?
+Chicago Tribune: Lawmakers: O’Hare noise hotline needs real people, kindness Chicago Tribune: Lawmakers: O’Hare noise hotline needs real people, kindness Chicago Tribune: Voters get chance to be heard on O’Hare noise problem Chicago Tribune: Voters get chance to be heard on O’Hare noise problem Crain’s Chicago Business: Quigley forms ‘quiet skies’ caucus in Congress Crain’s Chicago Business: Quigley forms ‘quiet skies’ caucus in Congress Windy City Times: Houston Mayor Parker at Victory Fund Chicago benefit Windy City Times: Houston Mayor Parker at Victory Fund Chicago benefit Paid for by Quigley for Congress.
+Chicago Web Design by BuildThis Page load link Go to Top

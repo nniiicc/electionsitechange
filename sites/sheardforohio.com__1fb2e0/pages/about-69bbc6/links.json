@@ -1,15 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61554426122350",
-"https://sheardforohio.com/",
-"https://sheardforohio.com/about",
-"https://sheardforohio.com/affordability-and-rising-costs-wenda-sheards-positions",
-"https://sheardforohio.com/contact",
-"https://sheardforohio.com/donate-2",
-"https://sheardforohio.com/endorsements",
-"https://sheardforohio.com/faqs",
-"https://sheardforohio.com/government-accountability-and-fairness-wenda-sheards-positions",
-"https://sheardforohio.com/home",
-"https://sheardforohio.com/home/health-care-wenda-sheards-positions",
-"https://sheardforohio.com/public-education-wenda-sheards-positions",
-"https://sheardforohio.com/safe-drinking-water-and-the-environment-wenda-sheards-positions"
+{
+"text": "About",
+"href": "https://sheardforohio.com/about/"
+},
+{
+"text": "Affordability and Rising Costs",
+"href": "https://sheardforohio.com/affordability-and-rising-costs-wenda-sheards-positions/"
+},
+{
+"text": "Contact",
+"href": "https://sheardforohio.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://sheardforohio.com/donate-2/"
+},
+{
+"text": "Endorsements",
+"href": "https://sheardforohio.com/endorsements/"
+},
+{
+"text": "FAQs",
+"href": "https://sheardforohio.com/faqs/"
+},
+{
+"text": "Government Accountability and Fairness",
+"href": "https://sheardforohio.com/government-accountability-and-fairness-wenda-sheards-positions/"
+},
+{
+"text": "Health Care",
+"href": "https://sheardforohio.com/home/health-care-wenda-sheards-positions/"
+},
+{
+"text": "Home",
+"href": "https://sheardforohio.com/home/"
+},
+{
+"text": "Our Facebook Page: Wenda Sheard for Ohio",
+"href": "https://www.facebook.com/profile.php?id=61554426122350"
+},
+{
+"text": "Public Education",
+"href": "https://sheardforohio.com/public-education-wenda-sheards-positions/"
+},
+{
+"text": "Safe Drinking Water",
+"href": "https://sheardforohio.com/safe-drinking-water-and-the-environment-wenda-sheards-positions/"
+},
+{
+"text": "[image: Wenda Sheard]",
+"href": "https://sheardforohio.com/"
+}
 ]

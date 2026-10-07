@@ -1,8 +1,6 @@
-Constitutional Civics
-The McCleary Era: Education Funding or Judicial Governance?
+Home Meet Karim Karim's Vision Learn Washington Law Contact Donate Karim Merchant Home Meet Karim Karim's Vision Learn Washington Law Contact Donate Constitutional Civics The McCleary Era: Education Funding or Judicial Governance?
 Few cases have shaped modern Washington government more than McCleary — and its deepest question isn't about education funding at all, but about where judicial review ends and legislative supervision begins.
-July 8, 2026 · 5 min read
-Few cases have shaped modern Washington government more than McCleary.
+July 8, 2026 · 5 min read Few cases have shaped modern Washington government more than McCleary .
 Depending on who you ask, it was either one of the greatest victories for constitutional rights in our state's history — or one of the most significant expansions of judicial power ever seen in Washington.
 What's fascinating is that many people on both sides of the debate actually agree on the beginning of the story.
 The disagreement centers on how it ended.
@@ -10,10 +8,9 @@ Today, I want to explore a question that goes far beyond education funding.
 It's a question about constitutional structure.
 A question about separation of powers.
 And ultimately, a question about the proper role of judges in our constitutional republic.
-The Constitutional Duty
-The case began with a provision found in Article IX, Section 1 of the Washington Constitution.
+The Constitutional Duty The case began with a provision found in Article IX, Section 1 of the Washington Constitution.
 McCleary v.
-State, 173 Wn.2d 477 (2012).
+State , 173 Wn.2d 477 (2012).
 It states: "It is the paramount duty of the state to make ample provision for the education of all children residing within its borders." Notice the language.
 Not important.
 Not significant.
@@ -37,8 +34,7 @@ After all, a constitutional right means little if courts cannot ensure complianc
 Critics viewed it differently.
 They argued that the Court had moved beyond interpreting the Constitution and begun supervising legislative appropriations.
 That distinction is where the real constitutional debate begins.
-The Funding Numbers
-When McCleary was decided in 2012, state funding for K–12 education was approximately $13.4 billion per biennium.
+The Funding Numbers When McCleary was decided in 2012, state funding for K–12 education was approximately $13.4 billion per biennium.
 The Legislature responded.
 Funding increased.
 By 2015, state K–12 funding had grown to approximately $18.2 billion — an increase of nearly $5 billion in just a few years.
@@ -56,8 +52,7 @@ It does not say $18 billion.
 It does not say $22 billion.
 It does not say $26 billion.
 And that's what makes McCleary so fascinating.
-The Separation-of-Powers Problem
-Courts are uniquely suited to answer certain questions.
+The Separation-of-Powers Problem Courts are uniquely suited to answer certain questions.
 What does the Constitution mean?
 Has government violated it?
 What remedy is legally required?
@@ -76,8 +71,7 @@ The concern is that the Court retained jurisdiction long enough that it began ev
 At that point, the Court was no longer merely deciding whether the Legislature had acted.
 It was deciding whether the Legislature had done enough.
 That is a very different function.
-The Power of the Purse
-The Washington Constitution assigns taxation and appropriations to the Legislature.
+The Power of the Purse The Washington Constitution assigns taxation and appropriations to the Legislature.
 Legislators decide how money is raised.
 Legislators decide how money is spent.
 Legislators balance competing priorities.
@@ -97,8 +91,7 @@ Public defense?
 Corrections?
 Transportation?
 Every constitutional obligation imposed on government potentially raises the same question.
-The Legacy of McCleary
-For me, the most interesting aspect of McCleary is not education funding.
+The Legacy of McCleary For me, the most interesting aspect of McCleary is not education funding.
 It's institutional power.
 The case forces us to confront a difficult constitutional question: when a court identifies a constitutional violation, where does judicial review end?
 And where does legislative supervision begin?
@@ -114,3 +107,13 @@ And that debate will likely continue long after the final chapter of McCleary ha
 Educational note.
 This article explains constitutional principles and how Washington's government works.
 It is offered for educational purposes only and is not a promise or prediction about how any future case would be decided.
+Back to Learn Washington Law Share More From the Series Constitutional Civics Immigration, Slavery, and the Three-Fifths Clause: The Census Problem We Didn't Learn About in School We're taught the Three-Fifths Clause diminished people.
+Look at it through the lens of the Census and you'll find the real story — population is power, from 1787 to today.
+July 30, 2026 · 4 min read Read Constitutional Civics Who Controls Washington's Wallet?
+Some of the Supreme Court's most consequential decisions aren't about speech or criminal law — they're about money, and who gets to decide how public funds are raised and spent.
+July 1, 2026 · 9 min read Read Constitutional Civics The Do's and Don'ts of Running for Judge in Washington There are things a candidate for the Supreme Court can say — and things they absolutely cannot.
+The rules governing judicial elections are some of the strangest in American politics.
+July 2, 2026 · 4 min read Read Karim Merchant Justice rooted in the Constitution, Grounded in the People.
+Campaign Meet Karim Karim's Vision Learn Washington Law Take Action Get Involved Donate Connect Contact Us Paid for by Karim for Supreme Court.
+P.O.
+Box 53184, Bellevue, WA 98015 Paid for by Karim for Supreme Court Privacy Policy Terms & Conditions © 2026

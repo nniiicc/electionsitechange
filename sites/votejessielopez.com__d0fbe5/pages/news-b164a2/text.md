@@ -1,23 +1,21 @@
-Politico: The Trouble With Tech PACs
-“Big tech billionaires and data center companies are spending millions to buy your Assembly seat,” says a voiceover in an SEIU-sponsored digital ad for Santa Ana City Councilmember Jessie Lopez, who’s running to succeed Avelino Valencia in Orange County.
-Leads and Grow have collectively spent nearly $2.8 million this cycle boosting Lopez’s opponent and city council colleague, David Penaloza, and Grow […]
-Jessie Lopez Does Not Have To Pay Her Former Landlord $35,000
-The lawsuit filed by her former landlord was a stunt that was publicized by the “OC Independent,” a right-wing publication written and maintained mainly by Matthew Cunningham, one of the the most prominent and outspoken supporters of the attempted/failed Santa Ana Police Officers Association-backed recall of Councilmember Lopez.
-Coincidentally, the article was dropped the day […]
-Politico: Crypto Cash, Grow California, and the AD-68 Race
-CRYPTO CASH — Grow California, a PAC funded by crypto executives Tim Draper and Chris Larsen, will launch an ad buy of more than $1 million today to boost three Democratic state legislative candidates locked in blue-on-blue races against more progressive opponents.
+Skip to content About Candidate Statement Vote Endorsements Accomplishments Media Photo Gallery News Get Involved!
+Volunteer Request a Lawn Sign Subscribe Contact About Candidate Statement Vote Endorsements Accomplishments Media Photo Gallery News Get Involved!
+Volunteer Request a Lawn Sign Subscribe Contact Facebook X-twitter Instagram DONATE Category: news Politico: The Climate Races to Watch Ahead of Election Day State Legislature: In a state where Democrats maintain supermajorities in both the Assembly and Senate, the fight over how aggressively lawmakers and regulators should push climate policies has often pitted moderate Democrats against progressives.
+That dynamic is playing out in Assembly District 68, where progressive, enviro-backed candidate Jessie Lopez is facing off against David Penaloza, […] Edison, Sempra, and PG&E Spend Big on Mailers in AD-68 If you’ve received a political mailer attacking Jessie Lopez for State Assembly, you may have noticed something interesting in the fine print: some of the money behind these campaigns comes from major energy companies like Edison, Sempra, and PG&E.
+Why would energy companies care about a State Assembly race?
+Because the California Legislature makes decisions […] Politico: The Trouble With Tech PACs “Big tech billionaires and data center companies are spending millions to buy your Assembly seat,” says a voiceover in an SEIU-sponsored digital ad for Santa Ana City Councilmember Jessie Lopez, who’s running to succeed Avelino Valencia in Orange County.
+Leads and Grow have collectively spent nearly $2.8 million this cycle boosting Lopez’s opponent and city council colleague, David Penaloza, and Grow […] Jessie Lopez Does Not Have To Pay Her Former Landlord $35,000 The lawsuit filed by her former landlord was a stunt that was publicized by the “OC Independent,” a right-wing publication written and maintained mainly by Matthew Cunningham, one of the the most prominent and outspoken supporters of the attempted/failed Santa Ana Police Officers Association-backed recall of Councilmember Lopez.
+Coincidentally, the article was dropped the day […] Politico: Crypto Cash, Grow California, and the AD-68 Race CRYPTO CASH — Grow California, a PAC funded by crypto executives Tim Draper and Chris Larsen, will launch an ad buy of more than $1 million today to boost three Democratic state legislative candidates locked in blue-on-blue races against more progressive opponents.
 The group will support Sara Hernández, who is running against Sarah Rascón in Los Angeles to succeed state Sen.
-María Elena […]
-As Electricity Costs Rise, Questions Rise About Edison’s Political Spending
-Southern California families have seen significant increases in their electricity bills in recent years, with Southern California Edison reporting that the typical residential monthly bill rose from approximately $126 in 2021 to $176 in 2024.
-At the same time, Edison International reported $4.46 billion in net income in 2025, while another rate increase approved by […]
-Residents Across OC Increasingly Push Back on Flock Cameras
-Across Orange County, residents are increasingly questioning the rapid expansion of Flock automated license plate reader cameras and what their growing use means for privacy and civil liberties.
-Santa Ana Councilwoman Jessie Lopez has been a vocal part of that conversation, calling for the city to review its Flock contract amid growing concerns about how […]
-Jessie Lopez and the False 600% Raise Claim: What Measure FF Actually Did
-Some recent campaign ads have claimed that Santa Ana Councilwoman Jessie Lopez “gave herself” a 600% raise.
+María Elena […] As Electricity Costs Rise, Questions Rise About Edison’s Political Spending Southern California families have seen significant increases in their electricity bills in recent years, with Southern California Edison reporting that the typical residential monthly bill rose from approximately $126 in 2021 to $176 in 2024.
+At the same time, Edison International reported $4.46 billion in net income in 2025, while another rate increase approved by […] Residents Across OC Increasingly Push Back on Flock Cameras Across Orange County, residents are increasingly questioning the rapid expansion of Flock automated license plate reader cameras and what their growing use means for privacy and civil liberties.
+Santa Ana Councilwoman Jessie Lopez has been a vocal part of that conversation, calling for the city to review its Flock contract amid growing concerns about how […] Jessie Lopez and the False 600% Raise Claim: What Measure FF Actually Did Some recent campaign ads have claimed that Santa Ana Councilwoman Jessie Lopez “gave herself” a 600% raise.
 The reality is more complicated.
-In 2024, Lopez voted with the Santa Ana City Council to place Measure FF on the ballot, a proposed charter amendment that would have changed how City Council and mayoral compensation was calculated […]
-Crypto Billionaire-Backed PAC Grow California Pours Millions Into AD-68 Race
-The 2026 race for California’s 68th Assembly District has attracted an extraordinary amount of outside political spending, including more than $2 million from Grow California, a political action committee funded primarily by cryptocurrency entrepreneur Chris Larsen and venture capitalist Tim Draper.
-According to campaign finance reporting, Grow California spent approximately $1.1 million in independent expenditures […]
+In 2024, Lopez voted with the Santa Ana City Council to place Measure FF on the ballot, a proposed charter amendment that would have changed how City Council and mayoral compensation was calculated […] Crypto Billionaire-Backed PAC Grow California Pours Millions Into AD-68 Race The 2026 race for California’s 68th Assembly District has attracted an extraordinary amount of outside political spending, including more than $2 million from Grow California, a political action committee funded primarily by cryptocurrency entrepreneur Chris Larsen and venture capitalist Tim Draper.
+According to campaign finance reporting, Grow California spent approximately $1.1 million in independent expenditures […] About Candidate Statement Vote Endorsements Accomplishments Media News Subscribe Get Involved Contact Privacy Policy Mobile Terms of Service About Candidate Statement Vote Endorsements Accomplishments Media News Subscribe Get Involved Contact Privacy Policy Mobile Terms of Service DONATE NOW!
+Facebook Instagram X-twitter Paid for by Jessie Lopez for Assembly 2026 FPPC# 1478693 ©# Jessie Lopez for Assembly 2026 • All Rights Reserved.
+Show Your Support!
+Get A Lawn Sign!
+Lawn signs are a great way to show your support and strike up conversations with friends and neighbors!
+Click below to request one and a team member will drop one off.
+Request A Lawn Sign

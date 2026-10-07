@@ -1,9 +1,7 @@
-Aug 14, 2014
-James will have a campaign ad airing on Channel 22 starting on August 26th in Nottingham.
-Jul 31, 2014
-On July 30, 2014 James attended the AFP-NH Pledge Signing.
-Video from WMUR
-Jul 16, 2014
-James Spillane, board member of QDMA of NH, helped secure a donation to the Deerfield Community School Archery Program.
+james@jamesspillane.org Facebook X Facebook X HOME About James Bills Sponsored ISSUES ENDORSEMENTS DONATE HOW TO HELP Campaign Literature and Signs Write a Letter EVENTS Voting Information 2026 UPDATES Select Page Channel 22 Aug 14, 2014 James will have a campaign ad airing on Channel 22 starting on August 26th in Nottingham.
+Spillane Signs AFP Pledge at Ceremony Jul 31, 2014 On July 30, 2014 James attended the AFP-NH Pledge Signing.
+Video from WMUR Spillane Helps Secure Donation for Archery Program Jul 16, 2014 James Spillane, board member of QDMA of NH, helped secure a donation to the Deerfield Community School Archery Program.
 A check for $500 was presented to the National Archery in the Schools Program in May of 2014.
 Click on graphic for larger view of...
+Next Entries » SEARCH THIS SITE Search for: HOW TO READ Click on the Titles to reveal the full article and social sharing icons.
+UPDATES Cole and Spillane: Elections, Air Rifles (w/ Northeast Airguns and Sig Sauer Academy), and Veterans August 4, 2026 CACR 15 – Fundamental Right to Hunt, Fish, and Harvest Game August 4, 2026 Dedication of the Salt Marsh Pond Access Road for Representative Harry Bean August 4, 2026 How New Hampshire Led America to Independence July 2, 2026 Spillane Cited as Most Effective May 23, 2026 Facebook X Copyright © # • James Spillane for State Representative • Rockingham District 2 • 16 Swamp Road, Deerfield NH 03037 • Fiscal Agent James Spillane

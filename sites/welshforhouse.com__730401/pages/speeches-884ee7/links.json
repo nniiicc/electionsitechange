@@ -1,9 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61563877174236",
-"https://secure.actblue.com/donate/shannon-welsh-1",
-"https://welshforhouse.com/",
-"https://welshforhouse.com/endorsements",
-"https://welshforhouse.com/sign-request",
-"https://welshforhouse.com/speeches",
-"https://welshforhouse.com/volunteer"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shannon-welsh-1"
+},
+{
+"text": "Endorsements",
+"href": "https://welshforhouse.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61563877174236"
+},
+{
+"text": "Help Out The Campaign!",
+"href": "https://secure.actblue.com/donate/shannon-welsh-1"
+},
+{
+"text": "Home",
+"href": "https://welshforhouse.com/"
+},
+{
+"text": "Sign Request!",
+"href": "https://welshforhouse.com/sign-request/"
+},
+{
+"text": "Speeches",
+"href": "https://welshforhouse.com/speeches/"
+},
+{
+"text": "Volunteer",
+"href": "https://welshforhouse.com/volunteer/"
+},
+{
+"text": "[image: Vote for Shannon Welsh – House of Delegates 70th District]",
+"href": "https://welshforhouse.com/"
+}
 ]

@@ -1,4 +1,4 @@
-Foster’s: Alice Wade, Lucas Veitch compete for Dover Ward 2 state rep Democratic nomination
-Alice Wade and Lucas Veitch are duking it out in Dover's Ward 2 to earn the Democratic nomination for state representative for Strafford County District 15.
+0 Skip to Content About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Donate Foster’s: Alice Wade, Lucas Veitch compete for Dover Ward 2 state rep Democratic nomination Aug 20 Written By Alice Wade Alice Wade and Lucas Veitch are duking it out in Dover's Ward 2 to earn the Democratic nomination for state representat ive for Strafford County District 15.
 Whoever wins will face Republican Keith Mistretta, who is running unopposed, in November.
-They are all running to replace Bill Conlin, D-Dover, who is not running for re-election, to represent Dover Ward 2.
+They are all running to repla ce Bill Conlin, D-Dover, who is not running for re-election, to represent Dover Ward 2.
+Alice Wade Previous Previous Op-Ed: Our Solvable Climate Crisis Next Next Union Leader: Trans rights advocates decry impact of new Granite State laws Paid for by Alice for New Hampshire 133 Washington St, PO Box #457 Dover, New Hampshire 03821 CONTACT Alice.Wade@gc.nh.gov

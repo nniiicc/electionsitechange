@@ -1,5 +1,4 @@
-Thomas Monks – Candidate for North Carolina House District 73
-Thomas Monks is a dynamic leader, creative strategist, and tireless advocate for innovation and community.
+Skip to content HOME About The CandiDate Donate The Agenda for Change Website Privacy Policy Cookie Policy About The Candidate Thomas Monks – Candidate for North Carolina House District 73 Thomas Monks is a dynamic leader, creative strategist, and tireless advocate for innovation and community.
 With a career spanning marketing, education, and partnership development, Thomas brings a rare blend of heart, hustle, and hands-on experience to public service.
 Born in Florida and raised in North Carolina, Thomas’s journey is one rooted in adaptability, resilience, and vision.
 He moved to Indian Trail in 2007 and graduated from Sun Valley High School before returning to Florida to earn his bachelor’s degree in Communication with a focus in Public Relations from Florida Gulf Coast University.
@@ -15,3 +14,9 @@ A firm believer that policy must reflect people, Thomas is committed to inclusiv
 Whether designing campaigns, producing educational content, mentoring future leaders, or performing onstage, Thomas brings the same values to every space: authenticity, collaboration, and a relentless drive to make things better.
 Now, Thomas is stepping forward to serve — not as a politician, but as a partner to the people.
 With a campaign rooted in action, creativity, and courage, Thomas is ready to lead a new kind of conversation about our future — one that starts with listening, and ends in lasting change.
+Together: Not Me.
+Not You.
+US.
+EVENTS DONATE VOLUNTEER Cookie Policy Privacy Policy About Thomas Events Platform Register to Vote Events Platform Register to Vote Facebook Instagram TikTok Bluesky X YouTube Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

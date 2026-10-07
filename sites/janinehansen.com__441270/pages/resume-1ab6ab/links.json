@@ -1,4 +1,10 @@
 [
-"http://iapn.org/",
-"https://nevadafamilies.org/"
+{
+"text": "Independent American Party of Nevada",
+"href": "http://www.iapn.org/"
+},
+{
+"text": "Nevada Families for Freedom",
+"href": "https://www.nevadafamilies.org/"
+}
 ]

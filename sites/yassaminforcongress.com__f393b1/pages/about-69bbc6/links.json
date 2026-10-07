@@ -1,29 +1,130 @@
 [
-"https://azcentral.com/story/news/local/arizona-environment/2022/11/22/phoenix-councilwoman-yassamin-ansari-attends-climate-conference/10715484002",
-"https://azcentral.com/story/news/local/phoenix/2022/03/26/phoenix-homelessness-100-bed-shelter-opens-downtown-just-before-heat/7129499001",
-"https://azfamily.com/2022/06/17/phoenix-leaders-want-280000-electric-vehicles-road-by-2030",
-"https://azmirror.com/2022/10/12/phoenix-votes-to-de-prioritize-enforcement-of-abortion-laws",
-"https://azmirror.com/2023/03/07/phoenix-city-council-bans-source-of-income-discrimination-for-renters-home-buyers",
-"https://aztechcouncil.org/phoenix-commits-to-100-zero-emission-bus-fleet-by-2040",
-"https://facebook.com/yassaminansari",
-"https://grist.org/fix/policy/from-paris-to-phoenix-yassamin-ansari-climate-city-council",
-"https://instagram.com/yassaminansari",
-"https://kineticstrategies.us/",
-"https://secure.actblue.com/donate/yassaminansari_web",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=10",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=100",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=25",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=250",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=50",
-"https://twitter.com/yassaminansari",
-"https://yassaminforcongress.com/",
-"https://yassaminforcongress.com/?page_id=944",
-"https://yassaminforcongress.com/about",
-"https://yassaminforcongress.com/contact",
-"https://yassaminforcongress.com/endorsements",
-"https://yassaminforcongress.com/es/about",
-"https://yassaminforcongress.com/media",
-"https://yassaminforcongress.com/news",
-"https://yassaminforcongress.com/privacy-policy",
-"https://yassaminforcongress.myshopify.com/"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=50"
+},
+{
+"text": "About Yassamin",
+"href": "https://yassaminforcongress.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://yassaminforcongress.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://yassaminforcongress.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/yassaminansari_web"
+},
+{
+"text": "Endorsements",
+"href": "https://yassaminforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/yassaminansari/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/yassaminansari/"
+},
+{
+"text": "Issues & Policy",
+"href": "https://yassaminforcongress.com/?page_id=944"
+},
+{
+"text": "Kinetic Strategies",
+"href": "https://kineticstrategies.us"
+},
+{
+"text": "Media",
+"href": "https://yassaminforcongress.com/media"
+},
+{
+"text": "Media",
+"href": "https://yassaminforcongress.com/media/"
+},
+{
+"text": "Meet Yass",
+"href": "https://yassaminforcongress.com/about/"
+},
+{
+"text": "News",
+"href": "https://yassaminforcongress.com/news"
+},
+{
+"text": "News & Press",
+"href": "https://yassaminforcongress.com/news/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/yassaminansari_web"
+},
+{
+"text": "Privacy Policy",
+"href": "https://yassaminforcongress.com/privacy-policy"
+},
+{
+"text": "Shop",
+"href": "https://yassaminforcongress.myshopify.com/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/yassaminansari"
+},
+{
+"text": "[image: es_ES]Español",
+"href": "https://yassaminforcongress.com/es/about/"
+},
+{
+"text": "[image]",
+"href": "https://yassaminforcongress.com"
+},
+{
+"text": "bold efforts to clean up our air and water",
+"href": "https://www.azcentral.com/story/news/local/arizona-environment/2022/11/22/phoenix-councilwoman-yassamin-ansari-attends-climate-conference/10715484002/"
+},
+{
+"text": "climate policy expert",
+"href": "https://grist.org/fix/policy/from-paris-to-phoenix-yassamin-ansari-climate-city-council/"
+},
+{
+"text": "electrify Phoenix’s bus fleet by 2040",
+"href": "https://www.aztechcouncil.org/phoenix-commits-to-100-zero-emission-bus-fleet-by-2040/"
+},
+{
+"text": "first-ever Transportation Electrification Action Plan",
+"href": "https://www.azfamily.com/2022/06/17/phoenix-leaders-want-280000-electric-vehicles-road-by-2030/"
+},
+{
+"text": "new city policy that bans landlords from discriminating against renters or buyers based on their source of income.",
+"href": "https://www.azmirror.com/2023/03/07/phoenix-city-council-bans-source-of-income-discrimination-for-renters-home-buyers/"
+},
+{
+"text": "new emergency shelter beds",
+"href": "https://www.azcentral.com/story/news/local/phoenix/2022/03/26/phoenix-homelessness-100-bed-shelter-opens-downtown-just-before-heat/7129499001/"
+},
+{
+"text": "passed a resolution",
+"href": "https://azmirror.com/2022/10/12/phoenix-votes-to-de-prioritize-enforcement-of-abortion-laws/"
+}
 ]

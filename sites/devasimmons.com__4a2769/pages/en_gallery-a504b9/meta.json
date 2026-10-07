@@ -1,7 +1,11 @@
 {
  "description": "Browse photos and videos from Deva Simmons' campaign trail in Florida District 18.",
  "final_url": "https://www.devasimmons.com/en/gallery",
+ "fingerprint": "bc8be3e43b18e0240b82bdf6e007e161172d4314",
+ "format": 3,
  "paid_for_by": "Paid for by Citizens for Deva Simmons",
  "title": "Media Gallery | Deva Simmons for Congress | Deva Simmons for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

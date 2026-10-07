@@ -1,8 +1,2 @@
-top of page
-HOME
-MEET MICHAEL
-DONATE
-MEDIA
-REQUEST A SIGN
-We Need Your Support Today!
-bottom of page
+top of page HOME MEET MICHAEL DONATE MEDIA REQUEST A SIGN We Need Your Support Today!
+PAID FOR BY MICHAEL LANKFORD FOR TN, JEFF HENLEY TREASURER bottom of page

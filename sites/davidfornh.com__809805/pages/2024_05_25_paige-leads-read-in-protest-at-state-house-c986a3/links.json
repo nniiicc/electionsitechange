@@ -1,9 +1,34 @@
 [
-"https://davidfornh.com/",
-"https://davidfornh.com/david",
-"https://davidfornh.com/get-involved",
-"https://davidfornh.com/news",
-"https://davidfornh.com/priorities",
-"https://secure.actblue.com/donate/reppaige26",
-"https://usatoday.com/story/news/politics/elections/2024/05/25/new-hampshire-senate-book/73854375007"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/reppaige26"
+},
+{
+"text": "Get Involved",
+"href": "https://www.davidfornh.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.davidfornh.com/"
+},
+{
+"text": "Meet David",
+"href": "https://www.davidfornh.com/david/"
+},
+{
+"text": "News",
+"href": "https://www.davidfornh.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://www.davidfornh.com/priorities/"
+},
+{
+"text": "Read more at USA Today",
+"href": "https://www.usatoday.com/story/news/politics/elections/2024/05/25/new-hampshire-senate-book/73854375007/"
+},
+{
+"text": "[image]",
+"href": "https://www.davidfornh.com"
+}
 ]

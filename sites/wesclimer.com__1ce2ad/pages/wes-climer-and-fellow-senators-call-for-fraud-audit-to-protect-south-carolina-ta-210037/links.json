@@ -1,14 +1,62 @@
 [
-"https://facebook.com/wesclimersc",
-"https://secure.anedot.com/climerforcongress/f86819db-22c4-4556-a54e-2ef84f41939b",
-"https://wesclimer.com/",
-"https://wesclimer.com/about",
-"https://wesclimer.com/contact",
-"https://wesclimer.com/news",
-"https://wesclimer.com/pillars",
-"https://wesclimer.com/privacy-policy",
-"https://wesclimer.com/terms-of-service",
-"https://wesclimer.com/volunteer",
-"https://wesclimer.com/wp-content/uploads/2026/03/SIGNED_LAC-Request-Fraud-Risk-Assessment-03-17-2026.pdf",
-"https://x.com/WesClimer"
+{
+"text": "About",
+"href": "https://wesclimer.com/about/"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.anedot.com/climerforcongress/f86819db-22c4-4556-a54e-2ef84f41939b"
+},
+{
+"text": "Contact",
+"href": "https://wesclimer.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/climerforcongress/f86819db-22c4-4556-a54e-2ef84f41939b"
+},
+{
+"text": "Download",
+"href": "https://wesclimer.com/wp-content/uploads/2026/03/SIGNED_LAC-Request-Fraud-Risk-Assessment-03-17-2026.pdf"
+},
+{
+"text": "Home",
+"href": "https://wesclimer.com/"
+},
+{
+"text": "News",
+"href": "https://wesclimer.com/news"
+},
+{
+"text": "Pillars",
+"href": "https://wesclimer.com/pillars/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://wesclimer.com/privacy-policy/"
+},
+{
+"text": "SIGNED_LAC Request Fraud Risk Assessment 03-17-2026",
+"href": "https://wesclimer.com/wp-content/uploads/2026/03/SIGNED_LAC-Request-Fraud-Risk-Assessment-03-17-2026.pdf"
+},
+{
+"text": "Terms of Service",
+"href": "https://wesclimer.com/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://wesclimer.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://wesclimer.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/wesclimersc"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/WesClimer"
+}
 ]

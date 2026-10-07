@@ -1,9 +1,2 @@
-Mailing Address:
-Hammer for ND
-PO Box 58
-Minot, ND 58702
-General Inquiries: info@hammerfornd.com
-Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
-Paid for by Hammer for ND
-Follow Trygve on
-Social Media
+0 Skip to Content Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Back to All Events Coffee with Bisman Dem-NPL Tuesday, March 17, 2026 10:00 AM 11:00 AM Kennedy Center 1902 E Divide Ave Bismarck, ND (map) Google Calendar ICS Previous Previous March 10 Souris valley Dem-npl monthly meeting Next Next March 19 Meet the Candidate Mailing Address: Hammer for ND PO Box 58 Minot, ND 58702 General Inquiries: info@hammerfornd.com Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
+Paid for by Hammer for ND Follow Trygve on Social Media

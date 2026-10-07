@@ -1,11 +1,46 @@
 [
-"https://facebook.com/flahertyfordelegate",
-"https://flahertyfordelegate.com/about-sean",
-"https://flahertyfordelegate.com/contact-us",
-"https://flahertyfordelegate.com/donate",
-"https://flahertyfordelegate.com/home",
-"https://flahertyfordelegate.com/issues",
-"https://flahertyfordelegate.com/news",
-"https://instagram.com/",
-"https://x.com/"
+{
+"text": "About Sean",
+"href": "https://flahertyfordelegate.com/about-sean"
+},
+{
+"text": "Contact Us",
+"href": "https://flahertyfordelegate.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://flahertyfordelegate.com/donate"
+},
+{
+"text": "Home",
+"href": "https://flahertyfordelegate.com/home"
+},
+{
+"text": "Issues",
+"href": "https://flahertyfordelegate.com/issues"
+},
+{
+"text": "News",
+"href": "https://flahertyfordelegate.com/news"
+},
+{
+"text": "[no text]",
+"href": "https://flahertyfordelegate.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/flahertyfordelegate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com"
+},
+{
+"text": "flahertyfordelegate@gmail.com",
+"href": "mailto:flahertyfordelegate@gmail.com"
+}
 ]

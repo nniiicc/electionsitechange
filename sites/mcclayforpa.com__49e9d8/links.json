@@ -1,23 +1,126 @@
 [
-"https://andymuth.com/",
-"https://facebook.com/profile.php?id=100091517431648",
-"https://mcclayforpa.com/",
-"https://mcclayforpa.com/cart",
-"https://mikeharostock.com/priorities",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx",
-"https://secure.actblue.com/donate/jessica-mcclay-1",
-"https://secure.actblue.com/donate/jessica-mcclay-1?amount=100",
-"https://secure.actblue.com/donate/jessica-mcclay-1?amount=15",
-"https://secure.actblue.com/donate/jessica-mcclay-1?amount=25",
-"https://secure.actblue.com/donate/jessica-mcclay-1?amount=250",
-"https://secure.actblue.com/donate/jessica-mcclay-1?amount=50",
-"https://secure.actblue.com/donate/jessica-mcclay-1?amount=500",
-"https://secure.actblue.com/privacy",
-"https://timesleader.com/news/1729817/bear-creek-village-swears-in-new-mayor",
-"https://timesleader.com/news/1731900/republican-harostock-announces-candidacy-in-121st-legislative-district",
-"https://timesleader.com/news/1732417/mcclay-announces-candidacy-for-state-representative-in-121st-legislative-district",
-"https://timesleader.com/news/1742533/mcclay-secures-democratic-nomination-in-121st-district",
-"https://vote.pa.gov/Register-to-Vote",
-"https://vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
-"https://wvia.org/news/local/2026-05-19/walsh-mcclay-leard-and-lombardo-earn-nominations-in-contested-state-house-seats-in-primary-election-tuesday"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/jessica-mcclay-1?amount=100"
+},
+{
+"text": "$15",
+"href": "https://secure.actblue.com/donate/jessica-mcclay-1?amount=15"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/jessica-mcclay-1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/jessica-mcclay-1?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/jessica-mcclay-1?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/jessica-mcclay-1?amount=500"
+},
+{
+"text": "ActBlue's Privacy Policy",
+"href": "https://secure.actblue.com/privacy"
+},
+{
+"text": "Add to calendar",
+"href": "data:text/calendar;charset=utf-8,BEGIN%3AVCALENDAR%0AVERSION%3A2.0%0APRODID%3A-//McClayForPA//EN%0ABEGIN%3AVEVENT%0AUID%3Aelection-day-2026%40mcclayforpa.com%0ADTSTART%3BVALUE%3DDATE%3A20261103%0ADTEND%3BVALUE%3DDATE%3A20261104%0ASUMMARY%3AGeneral%20Election%20Day%20-%20Vote%21%20%28Polls%207%20AM%20-%208%20PM%29%0AEND%3AVEVENT%0AEND%3AVCALENDAR"
+},
+{
+"text": "Add to calendar",
+"href": "data:text/calendar;charset=utf-8,BEGIN%3AVCALENDAR%0AVERSION%3A2.0%0APRODID%3A-//McClayForPA//EN%0ABEGIN%3AVEVENT%0AUID%3Amail-deadline-2026%40mcclayforpa.com%0ADTSTART%3BVALUE%3DDATE%3A20261027%0ADTEND%3BVALUE%3DDATE%3A20261028%0ASUMMARY%3APA%20Mail%20Ballot%20Application%20Deadline%0AEND%3AVEVENT%0AEND%3AVCALENDAR"
+},
+{
+"text": "Add to calendar",
+"href": "data:text/calendar;charset=utf-8,BEGIN%3AVCALENDAR%0AVERSION%3A2.0%0APRODID%3A-//McClayForPA//EN%0ABEGIN%3AVEVENT%0AUID%3Areg-deadline-2026%40mcclayforpa.com%0ADTSTART%3BVALUE%3DDATE%3A20261019%0ADTEND%3BVALUE%3DDATE%3A20261020%0ASUMMARY%3APA%20Voter%20Registration%20Deadline%0AEND%3AVEVENT%0AEND%3AVCALENDAR"
+},
+{
+"text": "Chip in $25 · a dollar a day",
+"href": "https://secure.actblue.com/donate/jessica-mcclay-1?amount=25"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jessica-mcclay-1"
+},
+{
+"text": "Donate Any Amount",
+"href": "https://secure.actblue.com/donate/jessica-mcclay-1"
+},
+{
+"text": "Email",
+"href": "mailto:mcclayforpa@gmail.com"
+},
+{
+"text": "Email the Campaign mcclayforpa@gmail.com",
+"href": "mailto:mcclayforpa@gmail.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100091517431648"
+},
+{
+"text": "Find Polling Place Locate",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "Follow on Facebook Jessica McClay for PA",
+"href": "https://www.facebook.com/profile.php?id=100091517431648"
+},
+{
+"text": "Mike Harostock for State Representative, \"Mike's Priorities,\" as captured Aug. 31, 2026",
+"href": "https://www.mikeharostock.com/priorities"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/jessica-mcclay-1"
+},
+{
+"text": "Read it at WVIA News",
+"href": "https://www.wvia.org/news/local/2026-05-19/walsh-mcclay-leard-and-lombardo-earn-nominations-in-contested-state-house-seats-in-primary-election-tuesday"
+},
+{
+"text": "Read it at the Times Leader",
+"href": "https://www.timesleader.com/news/1732417/mcclay-announces-candidacy-for-state-representative-in-121st-legislative-district"
+},
+{
+"text": "Read it at the Times Leader",
+"href": "https://www.timesleader.com/news/1742533/mcclay-secures-democratic-nomination-in-121st-district"
+},
+{
+"text": "Register to Vote Get Started",
+"href": "https://www.vote.pa.gov/Register-to-Vote"
+},
+{
+"text": "Request Mail Ballot Apply Now",
+"href": "https://www.vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+},
+{
+"text": "Times Leader, \"Bear Creek Village swears in new mayor,\" Jan. 13, 2026",
+"href": "https://www.timesleader.com/news/1729817/bear-creek-village-swears-in-new-mayor"
+},
+{
+"text": "Times Leader, \"Republican Harostock announces candidacy in 121st Legislative District,\" Feb. 5, 2026",
+"href": "https://www.timesleader.com/news/1731900/republican-harostock-announces-candidacy-in-121st-legislative-district"
+},
+{
+"text": "WVIA News, primary results and door-knocking figure, May 19, 2026",
+"href": "https://www.wvia.org/news/local/2026-05-19/walsh-mcclay-leard-and-lombardo-earn-nominations-in-contested-state-house-seats-in-primary-election-tuesday"
+},
+{
+"text": "[image: Andy Muth]",
+"href": "https://andymuth.com"
+},
+{
+"text": "mcclayforpa@gmail.com",
+"href": "mailto:mcclayforpa@gmail.com"
+},
+{
+"text": "vote.pa.gov/polls",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+}
 ]

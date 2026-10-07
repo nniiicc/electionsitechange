@@ -1,6 +1,6 @@
-Tom Cole is Home.
+0 Skip to Content Straight from Mitch Media DONATE NOW Open Menu Close Menu Straight from Mitch Media DONATE NOW Open Menu Close Menu Straight from Mitch Media DONATE NOW Tom Cole is Home.
 Is He Listening?
-August is a month marked by many milestones.
+Aug 10 Written By Mitch August is a month marked by many milestones.
 Martin Luther King Jr. delivered his famed "I Have a Dream" speech, President Richard Nixon resigned due to the Watergate scandal, the Social Security Act passed Congress, and women were granted the right to vote with the passing of the Nineteenth Amendment.
 August is a critical month for American history.
 August also marks the beginning of Congress’s Annual District Work Period.
@@ -8,7 +8,7 @@ This time is meant for members of Congress to return to their districts, be in f
 August should be a very important month for lawmakers.
 It is an opportunity for our leaders in Washington to see exactly what is happening on the ground at home.
 It is also supposed to be when constituents can voice their concerns directly to their Congressional Representatives and Senators.
-Before returning to Oklahoma, Tom Cole, in a recent press release, announced his first round of stops: Ada, Newcastle, Norman, and Oklahoma City.
+Before returning to Oklahoma, Tom Cole, in a recent press release , announced his first round of stops: Ada, Newcastle, Norman, and Oklahoma City.
 So far, he has made sure to get all the perfect photo ops as he attends ribbon cuttings and groundbreaking ceremonies, meets with executive directors of statewide organizations, and visits stores of large corporations.
 He says, “This is just week one.” Then, pledges to his constituents, in his own words, “I will travel every mile of the Fourth District so that I can hear opinions from every community in my district.” I made that pledge months ago, and as you read this post, I am actively cycling to all fourteen counties of CD4, hosting town halls and events.
 As for Cole… he has not bothered to update his town hall events since 2020.
@@ -47,20 +47,17 @@ I cannot wait to hear from you directly.
 Because when we show up, get together, voice our concerns, and discuss solutions, we can make real progress.
 Together.
 I challenge you to check out the stops I am making along the way and follow me on social media to stay up to date on the locations and times of events at each stop.
-8/9: Tinker → Norman → Lexington
-8/10: Lexington → Pauls Valley → Ada
-8/12: Davis → Ardmore
-8/13: Ardmore → Marietta
-8/14: Marietta →Waurika → Duncan
-8/15: Duncan → Walters
-8/16: Walters → Frederick
-8/17: Frederick → Lawton
-8/18: Lawton → Chickasha
-8/19: Chickasha → Blanchard → Newcastle
-We know that Tom Cole is supposed to meet with constituents across the District to hear our concerns.
+8/9: Tinker → Norman → Lexington 8/10: Lexington → Pauls Valley → Ada 8/11: Ada → Sulphur → Davis 8/12: Davis → Ardmore 8/13: Ardmore → Marietta 8/14: Marietta →Waurika → Duncan 8/15: Duncan → Walters 8/16: Walters → Frederick 8/17: Frederick → Lawton 8/18: Lawton → Chickasha 8/19: Chickasha → Blanchard → Newcastle We know that Tom Cole is supposed to meet with constituents across the District to hear our concerns.
 He is not.
 So I hope that you will come and join me at a stop near you because I care deeply about this country, this State, this District, and ultimately, I care about your personal concerns.
 Allow me to listen to your concerns, learn how you think the government should be doing better, and share my thoughts on a better future for ourselves and our children.
 Because after all, democracy is not a spectator sport, and your voice matters most when you choose to speak your mind.
 Come speak to me.
 I promise, I’ll listen.
+Mitch Father, husband, U.S.
+Army veteran, OU Law graduate, and 4th-generation Oklahoman—committed to a better Oklahoma and upholding the Constitution. http://www.mitchelljacob.com Previous Previous One Year Later.
+Built to Last.
+Next Next War Chests vs.
+We the People Paid for by Mitchell Jacob for Congress Headquarters: 300 West Gray Street Norman, OK 73069 Tuesday - Friday 10:00 am - 2:00 pm Mailing: P.O.
+Box 1141 Newcastle, OK.
+73065-1141 (405) 407-6975 info@mitchelljacob.com Order Merchandise | Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy

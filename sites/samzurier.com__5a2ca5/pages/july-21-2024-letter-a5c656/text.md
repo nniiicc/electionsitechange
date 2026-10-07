@@ -1,5 +1,4 @@
-| |
-| Dear Neighbors: Last week, I took some old Rhode Island friends on their first-ever tour of our State House.
+Home About Bio Public Service Record Projects 2022-23 District Letters 2024 District Letters 2025 District Letters 2026 District Letters Legislation State Legislation State Issues DONATE Join My Email List Select Page July 21, 2024 Letter Dear Neighbors: Last week, I took some old Rhode Island friends on their first-ever tour of our State House.
 By the time we were finished, they felt charmed by its beauty and delighted by the Rhode Island stories it told.
 This has been a difficult summer for our country, and our State has its own share of problems we need to solve, but my visit reminded me how lucky I am to live in this place at this time.
 In this week’s letter, I will provide an update concerning the State’s takeover of the Providence Public Schools (PPS).
@@ -15,19 +14,7 @@ If you are a City resident or are involved in PPS, I encourage you to fill out t
 C.
 Measuring The Takeover Against The Goals Of The Turnaround Action Plan While the State and the City prepare these analyses, we can make our own assessment based on the goals of the Turnaround Action Plan (TAP) that the State prepared at the beginning of the takeover.
 There are many different goals, but we can start by reviewing the goals and performance in the basic measurements of student achievement.
-They are as follows: |
-| |
-| |
-| TAP Metric: Meet or exceed expections in | Academic Year 2018-19 Baseline (Pre-takeover | TAP Academic Year 2024-25 Goal | Actual Academic Year 2022-23 Data (most recent available) |
-|---|---|---|---|
-| 3rd Grade Math | 17.8% | 55% | 20.8% |
-| 3rd Grade ELA | 26.4% | 68% | 19% |
-| 8th Grade Math | 7.4% | 50% | 5.6% |
-| 8th Grade ELA | 14.7% | 50% | 14.5% |
-| 11th Grade Math SAT | 14.6% | 54% | 13.5% |
-| 11th Grade ELA Sat | 25.5% | 67% | 27.4% |
-| |
-| In short, the academic performance of PPS students during the takeover has not come close to the goals set forth in the Turnaround Action Plan.
+They are as follows: TAP Metric: Meet or exceed expections in Academic Year 2018-19 Baseline (Pre-takeover TAP Academic Year 2024-25 Goal Actual Academic Year 2022-23 Data (most recent available) 3rd Grade Math 17.8% 55% 20.8% 3rd Grade ELA 26.4% 68% 19% 8th Grade Math 7.4% 50% 5.6% 8th Grade ELA 14.7% 50% 14.5% 11th Grade Math SAT 14.6% 54% 13.5% 11th Grade ELA Sat 25.5% 67% 27.4% In short, the academic performance of PPS students during the takeover has not come close to the goals set forth in the Turnaround Action Plan.
 To be fair, the pandemic caused learning loss for all children across the world, not just in Providence.
 I do not believe, however, any fair appraisal of the takeover can conclude that enough progress has been made to support a prompt return to local control.
 Instead, I would like to learn how the State plans to improve the takeover, and what timetable will be necessary to achieve the previous 5-year goals of the original TAP.
@@ -42,5 +29,5 @@ The Providence contract is set to expire this Fall.
 F.
 Conclusion: Two Key Events To Watch For This Fall To conclude, this Fall will bring two major events shaping the future of the Providence Public Schools, namely the decision about the possible extension of the State takeover, and the negotiation of a new collective bargaining agreement.
 The Commission’s Report proposes that these two events can be linked.
-By negotiating a new contract with the Springfield Empowerment Zone-type reforms, the Providence Public Schools can build a sturdy foundation for a successful (and hopefully) prompt return to local control. |
-| |
+By negotiating a new contract with the Springfield Empowerment Zone-type reforms, the Providence Public Schools can build a sturdy foundation for a successful (and hopefully) prompt return to local control.
+Friends of Sam Zurier 330 Grotto Avenue Providence, RI 02906 Join My Email List [ctct form="3808" show_title="false"] © Copyright # Paid for and Authorized by Friends of Sam Zurier, Sam Zurier, Treasurer.

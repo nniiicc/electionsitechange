@@ -1,7 +1,5 @@
-My Responses to the Courier-Journal Candidate Survey
-Published April 13, 2026 in the Louisville Courier Journal.
-Occupation: Teacher & Business Owner
-Relevant experience: I am an educator who serves on the Recruitment & Retention Committee for Oldham County Schools.
+0 Skip to Content Home Support Events Stories Priorities About DONATE Open Menu Close Menu Home Support Events Stories Priorities About DONATE Open Menu Close Menu Home Support Events Stories Priorities About DONATE My Responses to the Courier-Journal Candidate Survey Apr 19 Written By Stephanie White Published April 13, 2026 in the Louisville Courier Journal.
+Occupation: Teacher & Business Owner Relevant experience: I am an educator who serves on the Recruitment & Retention Committee for Oldham County Schools.
 I was elected to North Oldham MS SBDM & served on the OCS Facilities Committee.
 I am on the executive committee for the Oldham County Democratic Party.
 I founded and own the website Louisville Family Fun.
@@ -45,3 +43,4 @@ Kentucky’s economy is important to all of us.
 We can agree that Kentuckians deserve good-paying jobs that can help them secure their futures.
 What groups, individuals or businesses have endorsed you?
 It is early in the process; I have not yet received endorsements.
+Stephanie White Previous Previous 4th of July Icebox Cake Next Next Letter to the Editor

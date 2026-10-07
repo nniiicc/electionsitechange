@@ -1,12 +1,58 @@
 [
-"http://linktr.ee/teamcroisant",
-"https://croisantforcongress.com/",
-"https://croisantforcongress.com/events",
-"https://croisantforcongress.com/issues",
-"https://croisantforcongress.com/privacy",
-"https://croisantforcongress.com/sign-up",
-"https://croisantforcongress.com/terms",
-"https://fec.gov/data/candidate/H6OK01201",
-"https://secure.actblue.com/donate/jcmerch",
-"https://secure.actblue.com/donate/john-croisant-1"
+{
+"text": "ABOUT",
+"href": "https://www.croisantforcongress.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/john-croisant-1"
+},
+{
+"text": "EVENTS",
+"href": "https://www.croisantforcongress.com/events"
+},
+{
+"text": "FEC Finance",
+"href": "https://www.fec.gov/data/candidate/H6OK01201/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.croisantforcongress.com/sign-up"
+},
+{
+"text": "HOME",
+"href": "https://www.croisantforcongress.com"
+},
+{
+"text": "Home",
+"href": "https://www.croisantforcongress.com/terms"
+},
+{
+"text": "ISSUES",
+"href": "https://www.croisantforcongress.com/issues"
+},
+{
+"text": "John@croisantforcongress.com",
+"href": "mailto:John@croisantforcongress.com"
+},
+{
+"text": "Privacy",
+"href": "https://www.croisantforcongress.com"
+},
+{
+"text": "STORE",
+"href": "https://secure.actblue.com/donate/jcmerch"
+},
+{
+"text": "Social Media",
+"href": "http://linktr.ee/teamcroisant"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.croisantforcongress.com"
+},
+{
+"text": "https://www.croisantforcongress.com/privacy",
+"href": "https://www.croisantforcongress.com/privacy"
+}
 ]

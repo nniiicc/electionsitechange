@@ -1,12 +1,46 @@
 [
-"https://facebook.com/jewelformissouri",
-"https://instagram.com/jewelformissouri",
-"https://jewelkelly.com/",
-"https://jewelkelly.com/copy-2-of-get-involved",
-"https://jewelkelly.com/copy-of-home-3",
-"https://jewelkelly.com/event-list",
-"https://jewelkelly.com/media",
-"https://jewelkelly.com/meet-jewel",
-"https://jewelkelly.com/platform",
-"https://secure.actblue.com/donate/jewelkelly106"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jewelkelly106"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/jewelkelly106"
+},
+{
+"text": "Events",
+"href": "https://www.jewelkelly.com/event-list"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.jewelkelly.com/copy-2-of-get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.jewelkelly.com"
+},
+{
+"text": "HOME_Sept_16_26",
+"href": "https://www.jewelkelly.com/copy-of-home-3"
+},
+{
+"text": "MEET JEWEL",
+"href": "https://www.jewelkelly.com/meet-jewel"
+},
+{
+"text": "Media",
+"href": "https://www.jewelkelly.com/media"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.jewelkelly.com/platform"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/jewelformissouri/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jewelformissouri/"
+}
 ]

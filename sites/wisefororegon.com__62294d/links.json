@@ -1,13 +1,58 @@
 [
-"https://designedtorun.com/",
-"https://donation.c-esystems.com/campaign/wisepac",
-"https://donation.c-esystems.com/campaign/wisepac?amt=10",
-"https://donation.c-esystems.com/campaign/wisepac?amt=100",
-"https://donation.c-esystems.com/campaign/wisepac?amt=25",
-"https://donation.c-esystems.com/campaign/wisepac?amt=250",
-"https://donation.c-esystems.com/campaign/wisepac?amt=50",
-"https://wisefororegon.com/",
-"https://wisefororegon.com/about",
-"https://wisefororegon.com/endorsements",
-"https://wisefororegon.com/volunteer"
+{
+"text": "$10",
+"href": "https://donation.c-esystems.com/campaign/wisepac?amt=10"
+},
+{
+"text": "$100",
+"href": "https://donation.c-esystems.com/campaign/wisepac?amt=100"
+},
+{
+"text": "$25",
+"href": "https://donation.c-esystems.com/campaign/wisepac?amt=25"
+},
+{
+"text": "$250",
+"href": "https://donation.c-esystems.com/campaign/wisepac?amt=250"
+},
+{
+"text": "$50",
+"href": "https://donation.c-esystems.com/campaign/wisepac?amt=50"
+},
+{
+"text": "About",
+"href": "https://www.wisefororegon.com/about"
+},
+{
+"text": "Donate",
+"href": "https://donation.c-esystems.com/campaign/wisepac"
+},
+{
+"text": "Endorsements",
+"href": "https://www.wisefororegon.com/endorsements"
+},
+{
+"text": "Learn More",
+"href": "https://www.wisefororegon.com/about"
+},
+{
+"text": "Other",
+"href": "https://donation.c-esystems.com/campaign/wisepac"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.wisefororegon.com/volunteer"
+},
+{
+"text": "[image: Lamar Wise for House District 48. Fighting for Affordability.]",
+"href": "https://www.wisefororegon.com/"
+},
+{
+"text": "[image: Wise for Oregon logo]",
+"href": "https://www.wisefororegon.com/"
+}
 ]

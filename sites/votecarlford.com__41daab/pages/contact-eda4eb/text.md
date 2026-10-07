@@ -1,4 +1,1 @@
-Contact Carl
-Please complete the form below if you
-If you have a legislative request or an issue as a constituent please contact Senator Ford’s office by emailing his legislative assistant, fordla@ncleg.net
-Click here to check out Senator Ford’s Biography, Introduced Bills, Votes and Committees
+Carl Ford Home Meet Carl Issues DONATE Contact Events Carl Ford Home / Meet Carl / Issues / DONATE / Contact / Events / Carl Ford Contact Carl Ford Home / Meet Carl / Issues / DONATE / Contact / Events / Contact Carl Please complete the form below if you If you have a legislative request or an issue as a constituent please contact Senator Ford’s office by emailing his legislative assistant, fordla@ncleg.net Click here to check out Senator Ford’s Biography, Introduced Bills, Votes and Committees Home / Meet Carl / Issues / DONATE / Contact / Events / Carl Ford Request Yard Signs Volunteer Paid for by the Committee to Elect Carl Ford

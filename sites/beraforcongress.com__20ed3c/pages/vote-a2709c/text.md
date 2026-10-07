@@ -1,9 +1,9 @@
-The California Voter’s Choice Act, enacted in 2016, modernized elections in California by allowing counties to conduct elections under a new model that provides greater flexibility and convenience for voters.
+Skip navigation menu About Dr.
+Bera On the Issues Endorsements The Latest Get Involved HOW TO VOTE Donate Dr.
+Ami Bera For CA-03 PLAN YOUR VOTE About Dr.
+Bera On the Issues Endorsements The Latest Get Involved HOW TO VOTE Donate Dr.
+Ami Bera For CA-03 PLAN YOUR VOTE NOVEMBER 3, 2026 General election IMPORTANT DATES OCTOBER 5 BALLOTS MAILED OCTOBER 6 BALLOT DROP-OFF LOCATIONS OPEN OCTOBER 19 LAST DAY TO REGISTER TO VOTE ONLINE OCTOBER 20 PROVISIONAL VOTER REGISTRATION BEGINS OCTOBER 24 VOTE CENTERS OPEN OCTOBER 27 RECOMMENDED VOTE-BY-MAIL RETURN DATE NOVEMBER 3 ELECTION DAY – LAST DAY TO VOTE!
+California Voter's Choice Act The California Voter’s Choice Act, enacted in 2016, modernized elections in California by allowing counties to conduct elections under a new model that provides greater flexibility and convenience for voters.
 This election model allows voters to choose how, when, and where to cast their ballot by mailing every voter a ballot, expanding in-person early voting, and allowing voters to cast a ballot at any vote center within their county.
-VOTING INFORMATION BY COUNTY
-EL DORADO COUNTY
-Click HEREto find a vote center or drop box location near you
-Click HERE to view the El Dorado County Voter Information Pamphlet
-NEVADA COUNTY
-Click HEREto find a vote center or ballot drop box location near you
-Click HEREto view the Nevada County Voter Information Guide and Sample Ballot
+VOTING INFORMATION BY COUNTY EL DORADO COUNTY Click HERE to find a vote center or drop box location near you Click HERE to view the El Dorado County Voter Information Pamphlet NEVADA COUNTY Click HERE to find a vote center or ballot drop box location near you Click HERE to view the Nevada County Voter Information Guide and Sample Ballot PLACER COUNTY Click HERE to find a vote center location near you Click HERE to find a ballot drop box location near you Click HERE to view the Placer County Voter Information Guide SACRAMENTO COUNTY Click HERE to find a vote center location near you Click HERE to find a ballot drop box location near you Click HERE to view the Sacramento County Voter Information Guide VOTING RESOURCES CHECK YOUR VOTER REGISTRATION STATUS AND/OR REGISTER TO VOTE!
+Check if you're registered to vote Register to vote info@beraforcongress.com · 916-205-9171 Media Inquiries: press@beraforcongress.com PO Box 582496 Elk Grove, CA 95758 Powered by RUN! website builder Paid for by Bera for Congress You need to enable JavaScript to run this app.

@@ -1,23 +1,106 @@
 [
-"http://tiktok.com/kateforct",
-"https:// https://voterregistration.ct.gov",
-"https://cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_20.pdf",
-"https://facebook.com/KateforCT",
-"https://instagram.com/kateforct",
-"https://kateforct.com/",
-"https://kateforct.com/cart",
-"https://kateforct.com/espanol",
-"https://kateforct.com/meet-kate",
-"https://kateforct.com/voluntario",
-"https://kateforct.com/volunteer",
-"https://kateforct.com/vota",
-"https://kateforct.com/vote",
-"https://medium.com/@kateforct",
-"https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do",
-"https://portal.ct.gov/sots/election-services/early-voting/early-voting",
-"https://portal.ct.gov/sots/election-services/election-day-registration/election-day-registration",
-"https://portal.ct.gov/sots/election-services/register-to-vote/voter-registration-application-english-and-spanish",
-"https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
-"https://portaldir.ct.gov/sots/LookUp.aspx",
-"https://voterregistration.ct.gov/"
+{
+"text": "0",
+"href": "https://www.kateforct.com/cart"
+},
+{
+"text": "Absentee Voting in Connecticut",
+"href": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting"
+},
+{
+"text": "Back",
+"href": "https://www.kateforct.com/"
+},
+{
+"text": "CT Same Day Registration",
+"href": "https://portal.ct.gov/sots/election-services/election-day-registration/election-day-registration"
+},
+{
+"text": "CT’s Early Voting",
+"href": "https://portal.ct.gov/sots/election-services/early-voting/early-voting"
+},
+{
+"text": "Click for map",
+"href": "https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_20.pdf"
+},
+{
+"text": "Folder: Español",
+"href": "https://www.kateforct.com/espanol"
+},
+{
+"text": "Home",
+"href": "https://www.kateforct.com/"
+},
+{
+"text": "Meet Kate",
+"href": "https://www.kateforct.com/meet-kate"
+},
+{
+"text": "Online Voter Registration",
+"href": "https://voterregistration.ct.gov/"
+},
+{
+"text": "Online Voter Registration.",
+"href": "https://%20https://voterregistration.ct.gov/"
+},
+{
+"text": "Online application",
+"href": "https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do"
+},
+{
+"text": "State of Connecticut’s Voter Registration Lookup webpage",
+"href": "https://portaldir.ct.gov/sots/LookUp.aspx"
+},
+{
+"text": "Voluntario",
+"href": "https://www.kateforct.com/voluntario"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kateforct.com/volunteer"
+},
+{
+"text": "Vota",
+"href": "https://www.kateforct.com/vota"
+},
+{
+"text": "Vote",
+"href": "https://www.kateforct.com/vote"
+},
+{
+"text": "[image: Kate for CT]",
+"href": "https://www.kateforct.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_20.pdf"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com/kateforct"
+},
+{
+"text": "[no text]",
+"href": "https://medium.com/@kateforct"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KateforCT/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kateforct/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@kateforct.com"
+},
+{
+"text": "here",
+"href": "https://portal.ct.gov/sots/election-services/register-to-vote/voter-registration-application-english-and-spanish"
+},
+{
+"text": "here",
+"href": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting"
+}
 ]

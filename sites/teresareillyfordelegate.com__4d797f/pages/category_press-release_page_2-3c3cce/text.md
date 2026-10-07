@@ -1,10 +1,4 @@
-Category Archives: Press Release
-Hogan Signs ‘Heroes Highway’ Legislation Honoring Slain Harford Deputies
-Governor Larry Hogan signed bills sponsored by the Harford County legislators to dedicate a section of Route 924 as “Heroes Highway” in honor of two fallen Harford County Sheriff’s Office …
-2016 End of Session Letter
-April 12, 2016 Dear Constituent of 35 B: The 436th Session of the Maryland General Assembly began on Wednesday, January 13 and ended Sine Die, April 11 at midnight.
-The …
-Delegate Teresa E.
-Reilly will receive American Conservative Union Foundation Award
-FOR IMMEDIATE RELEASE Contact: Judi Wobensmith, 410-841-3278 Having scored above 80% in ACU’s 2015 Ratings of the Maryland General Assembly, Delegate Teresa E.
-Reilly will receive an award at ACU’s …
+Home About Priorities Resources Scholarship Contact Us News Category Archives: Press Release Hogan Signs ‘Heroes Highway’ Legislation Honoring Slain Harford Deputies News Press Release May 19, 2016 Teresa Reilly 0 Comments Governor Larry Hogan signed bills sponsored by the Harford County legislators to dedicate a section of Route 924 as “Heroes Highway” in honor of two fallen Harford County Sheriff’s Office … Continue Reading » 2016 End of Session Letter News Press Release Apr 12, 2016 Teresa Reilly 0 Comments April 12, 2016 Dear Constituent of 35 B: The 436th Session of the Maryland General Assembly began on Wednesday, January 13 and ended Sine Die, April 11 at midnight.
+The … Continue Reading » Delegate Teresa E.
+Reilly will receive American Conservative Union Foundation Award News Press Release Mar 2, 2016 Teresa Reilly 0 Comments FOR IMMEDIATE RELEASE Contact: Judi Wobensmith, 410-841-3278 Having scored above 80% in ACU’s 2015 Ratings of the Maryland General Assembly, Delegate Teresa E.
+Reilly will receive an award at ACU’s … Continue Reading » « Previous Page — Next Page » Search for: Get Weekly Updates Sign up to get weekly e-newsletters about what's going on in Annapolis from Teresa during the legislative session. © Copyright # - Theme Chip Zero 1.2 by TutorialChip - Powered by WordPress 5.4.16

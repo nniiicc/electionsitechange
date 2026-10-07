@@ -1,7 +1,16 @@
 {
  "description": "Zach Lahn is a Republican candidate for Iowa Governor in 2026 advancing an Iowa First agenda. He believes Iowa can be the safest, freest, most family-centered state in America.",
  "final_url": "https://www.zachlahn.com/",
+ "fingerprint": "eedcb7186eeb8fbe4a3778e9c957f5984b438014",
+ "format": 3,
  "paid_for_by": "PAID FOR BY LAHN FOR GOVERNOR",
  "title": "Home | Zach Lahn For Governor",
- "years_mentioned": []
+ "years_mentioned": [
+  "1990",
+  "2005",
+  "2014",
+  "2016",
+  "2020",
+  "2026"
+ ]
 }

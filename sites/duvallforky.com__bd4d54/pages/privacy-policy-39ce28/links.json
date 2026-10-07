@@ -1,15 +1,70 @@
 [
-"https://duvallforky.com/",
-"https://duvallforky.com/about",
-"https://duvallforky.com/contact",
-"https://duvallforky.com/issues",
-"https://duvallforky.com/news",
-"https://duvallforky.com/privacy-policy",
-"https://duvallforky.com/volunteer",
-"https://facebook.com/duvallforky",
-"https://google.com/policies/privacy/partners",
-"https://optout.networkadvertising.org/?c=1",
-"https://secure.winred.com/robert-duvall-for-state-representative/donate-today",
-"https://tools.google.com/dlpage/gaoptout",
-"https://twitter.com/DuvallforKY"
+{
+"text": "About",
+"href": "https://duvallforky.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://duvallforky.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/robert-duvall-for-state-representative/donate-today"
+},
+{
+"text": "Home",
+"href": "https://duvallforky.com/"
+},
+{
+"text": "Issues",
+"href": "https://duvallforky.com/issues/"
+},
+{
+"text": "News",
+"href": "https://duvallforky.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://duvallforky.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://duvallforky.com/volunteer/"
+},
+{
+"text": "[image: Dr. Robert Duvall for State Representative][image: Dr. Robert Duvall for State Representative]",
+"href": "https://duvallforky.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/DuvallforKY"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/duvallforky"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://twitter.com/DuvallforKY"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/duvallforky"
+},
+{
+"text": "https://duvallforky.com",
+"href": "https://duvallforky.com"
+},
+{
+"text": "https://optout.networkadvertising.org/?c=1",
+"href": "https://optout.networkadvertising.org/?c=1"
+},
+{
+"text": "https://policies.google.com/technologies/partner-sites",
+"href": "https://www.google.com/policies/privacy/partners/"
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout/",
+"href": "https://tools.google.com/dlpage/gaoptout/"
+}
 ]

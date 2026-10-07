@@ -1,9 +1,1 @@
-GARY DANIELS
-State Representative – Milford, NH
-Hillsborough District 43
-GARY DANIELS
-State Representative – Milford, NH
-Hillsborough District 43
-GARY DANIELS
-State Representative – Milford, NH
-Hillsborough District 43
+(603) 673-3065 gary@garydaniels.org Facebook X Facebook X HOME ABOUT ISSUES EVENTS GET UPDATES Press Signup ENDORSEMENTS VOLUNTEER VIDEOS DONATE Select Page GARY DANIELS State Representative – Milford, NH Hillsborough District 43 GARY DANIELS State Representative – Milford, NH Hillsborough District 43 GARY DANIELS State Representative – Milford, NH Hillsborough District 43 Copyright © # • Gary Daniels for NH • 127 Whitten Road • Milford, NH 03055-3228 • (603) 673-3065 • Friends of Gary Daniels • Fiscal Agent Polly Cote

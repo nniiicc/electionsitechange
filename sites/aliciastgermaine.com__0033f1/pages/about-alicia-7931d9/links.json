@@ -1,10 +1,42 @@
 [
-"http://wix.com/templateslp/links",
-"https://aliciastgermaine.com/",
-"https://aliciastgermaine.com/about-alicia",
-"https://aliciastgermaine.com/contact-us",
-"https://aliciastgermaine.com/contribute",
-"https://aliciastgermaine.com/on-the-issues",
-"https://aliciastgermaine.com/pictures",
-"https://secure.winred.com/cte-alicia-st-germaine/donate-today"
+{
+"text": "AFFILIATIONS",
+"href": "http://www.wix.com/templateslp/links"
+},
+{
+"text": "About Alicia",
+"href": "https://www.aliciastgermaine.com/about-alicia"
+},
+{
+"text": "Alicia St.Germaine",
+"href": "https://www.aliciastgermaine.com"
+},
+{
+"text": "Contact Us",
+"href": "https://www.aliciastgermaine.com/contact-us"
+},
+{
+"text": "Contribute",
+"href": "https://www.aliciastgermaine.com/contribute"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/cte-alicia-st-germaine/donate-today"
+},
+{
+"text": "HOME",
+"href": "https://www.aliciastgermaine.com"
+},
+{
+"text": "On the Issues",
+"href": "https://www.aliciastgermaine.com/on-the-issues"
+},
+{
+"text": "Pictures",
+"href": "https://www.aliciastgermaine.com/pictures"
+},
+{
+"text": "State Representative",
+"href": "https://www.aliciastgermaine.com"
+}
 ]

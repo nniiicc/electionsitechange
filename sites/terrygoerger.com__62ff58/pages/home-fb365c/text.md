@@ -1,7 +1,6 @@
-Terry Goerger is running for State Representative in District 25 to strengthen our communities, support our economy, and deliver commonsense conservative leadership.
-SUPPORT TERRY
-Meet Terry
-Republican Terry Goerger is a lifelong resident of Richland County, farmer, business owner, and public servant with a deep commitment to North Dakota’s way of life.
+Meet Terry PRIORITIES NEWS Get Involved Vote CONTACT DONATE Terry Goerger is running for State Representative in District 25 to strengthen our communities, support our economy, and deliver commonsense conservative leadership.
+SUPPORT TERRY DONATE  “ Our way of life depends on strong communities: our farms, small businesses, schools, and churches.
+I will work every day to support the people who make this district such a great place to live and raise a family. ” TERRY GOERGER REPUBLICAN CANDIDATE FOR NORTH DAKOTA HOUSE 4 5 Meet Terry Republican Terry Goerger is a lifelong resident of Richland County, farmer, business owner, and public servant with a deep commitment to North Dakota’s way of life.
 Terry built his career in agriculture, owning and operating Goerger Seed Farm and Goerger Seed Company—helping support farmers and strengthen the region’s agricultural economy for decades.
 He currently serves as a Richland County Commissioner and has held leadership roles on numerous agricultural, energy, and community boards.
 Through this experience, Terry understands firsthand what it takes to keep rural communities strong, affordable, and growing.
@@ -9,13 +8,9 @@ Terry is running for State Representative to continue his commitment to strength
 Terry is proud to call Mantador home and remains deeply committed to the community he serves.
 Working for Our Communities.
 Fighting for District 25.
-Terry’s Priorities
-If elected, Terry will focus on issues that directly impact District 25 and North Dakota’s future:
-Lower Property Taxes
-Terry will work to further reduce property taxes so our rural communities remain affordable and families can keep more of what they earn.
-Support Energy & Agriculture
-With real-world experience, Terry will fight to strengthen North Dakota’s agriculture and energy industries—ensuring they remain the backbone of our economy for generations to come.
-Responsible Government
-Terry is committed to rooting out waste, protecting taxpayer dollars, and making government more efficient and accountable to the people it serves.
-Invest in Our Future
-Terry believes we must train our workforce and invest in the future of our communities to keep North Dakota strong and competitive.
+Terry’s Priorities If elected, Terry will focus on issues that directly impact District 25 and North Dakota’s future:  Lower Property Taxes Terry will work to further reduce property taxes so our rural communities remain affordable and families can keep more of what they earn.  Support Energy & Agriculture With real-world experience, Terry will fight to strengthen North Dakota’s agriculture and energy industries—ensuring they remain the backbone of our economy for generations to come.  Responsible Government Terry is committed to rooting out waste, protecting taxpayer dollars, and making government more efficient and accountable to the people it serves.  Invest in Our Future Terry believes we must train our workforce and invest in the future of our communities to keep North Dakota strong and competitive.
+News & Updates Luick, Goerger lead District 25 legislative races in early returns NEWS & UPDATES Unofficial results show Senate and House candidates jockeying for November ballot positions By Shoba Dasari, Wahpeton Daily News June 09, 2026 at 9:23 PM WAHPETON — Larry Luick led Bob Heitkamp in early returns Tuesday night in the District 25 Senate… Read More Wyndmere senior center building campaign reaches #% of goal after $# donation NEWS & UPDATES Terry Goerger’s contribution helps advance plans for a new facility that will serve local seniors and provide space for community gatherings.
+By Shoba Dasari, Wahpeton Daily News, June 04, 2026 at 6:00 PM WYNDMERE — A $# donation from local… Read More Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary NEWS & UPDATES BISMARCK, ND – Governor Kelly Armstrong today announced his first round of endorsements ahead of the June 9th Republican Primary, emphasizing the importance of electing conservative leaders committed to cutting property taxes, growing the economy, and… Read More Terry Goerger Announces Candidacy for North Dakota House of Representatives in District 25 NEWS & UPDATES Republican Terry Goerger Launches Campaign with Strong Grassroots Support MANTADOR, N.D. — Republican Terry Goerger today announced his candidacy for the North Dakota House of Representatives in District 25, entering the race with decades of… Read More  FOLLOW FOR NEWS & UPDATES Name (Required) First Last Email (Required) Phone Comments (Required) Please let us know what's on your mind.
+Have a question for us?
+Ask away.
+Submit PAID FOR BY TERRY GOERGER FOR ND, KARLA SCHIMELFENIG, TREASURER

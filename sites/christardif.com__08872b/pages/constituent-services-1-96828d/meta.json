@@ -1,7 +1,9 @@
 {
  "description": "Explore constituent services offered by Chris Tardif to stay updated on campaign news and connect with your representative.",
  "final_url": "https://christardif.com/constituent-services-1",
- "paid_for_by": null,
+ "fingerprint": "f5967c0d58fdbd2dcd6c7920fbcbe39c7d53db80",
+ "format": 3,
+ "paid_for_by": "",
  "title": "constituent services",
  "years_mentioned": []
 }

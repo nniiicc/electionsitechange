@@ -1,20 +1,82 @@
 [
-"https://facebook.com/SCIGNY",
-"https://facebook.com/vickidavisny121",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20241020T120000%2F20241020T160000&text=Down+Home+Fall+Fest+%26%238211%3B+Sidney+Center&details=Fun+Fall+Activities+for+the+whole+family.Music+-+Auction+-+Pumpkin+Painting+%26amp%3B+Crafts+-+Food+-+Photo+Booth+-+Local+History+-+Scavenger+Hunt+-+Field+Day+Games+-+and+more%21&location=Sidney+Center+Fire+Hall%2C+6762+Co+Rd+35%2C+Sidney+Center%2C+NY%2C+13839%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvickidavisny121.com",
-"https://instagram.com/vickidavisny121",
-"https://maps.google.com/maps?f=q&hl=en&q=6762+Co+Rd+35+Sidney+Center+NY+13839+United+States",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2024-10-20T12%3A00%3A00-04%3A00&enddt=2024-10-20T16%3A00%3A00-04%3A00&location=Sidney+Center+Fire+Hall%2C+6762+Co+Rd+35%2C+Sidney+Center%2C+NY%2C+13839%2C+United+States&subject=Down+Home+Fall+Fest+-+Sidney+Center&body=Fun+Fall+Activities+for+the+whole+family.Music+-+Auction+-+Pumpkin+Painting+%26amp%3B+Crafts+-+Food+-+Photo+Booth+-+Local+History+-+Scavenger+Hunt+-+Field+Day+Games+-+and+more%21",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2024-10-20T12%3A00%3A00-04%3A00&enddt=2024-10-20T16%3A00%3A00-04%3A00&location=Sidney+Center+Fire+Hall%2C+6762+Co+Rd+35%2C+Sidney+Center%2C+NY%2C+13839%2C+United+States&subject=Down+Home+Fall+Fest+-+Sidney+Center&body=Fun+Fall+Activities+for+the+whole+family.Music+-+Auction+-+Pumpkin+Painting+%26amp%3B+Crafts+-+Food+-+Photo+Booth+-+Local+History+-+Scavenger+Hunt+-+Field+Day+Games+-+and+more%21",
-"https://secure.actblue.com/donate/vicki-davis-for-assembly-1",
-"https://vickidavisny121.com/",
-"https://vickidavisny121.com/calendar",
-"https://vickidavisny121.com/contact",
-"https://vickidavisny121.com/endorsements",
-"https://vickidavisny121.com/event/meet-greet-in-morris",
-"https://vickidavisny121.com/event/meet-the-candidates-madison-county",
-"https://vickidavisny121.com/events",
-"https://vickidavisny121.com/map-of-ny-assembly-district-121",
-"https://vickidavisny121.com/news",
-"https://vickidavisny121.com/platform"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=6762+Co+Rd+35+Sidney+Center+NY+13839+United+States"
+},
+{
+"text": "Contact",
+"href": "https://vickidavisny121.com/contact/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/vicki-davis-for-assembly-1"
+},
+{
+"text": "Endorsements",
+"href": "https://vickidavisny121.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://vickidavisny121.com/events/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20241020T120000%2F20241020T160000&text=Down+Home+Fall+Fest+%26%238211%3B+Sidney+Center&details=Fun+Fall+Activities+for+the+whole+family.Music+-+Auction+-+Pumpkin+Painting+%26amp%3B+Crafts+-+Food+-+Photo+Booth+-+Local+History+-+Scavenger+Hunt+-+Field+Day+Games+-+and+more%21&location=Sidney+Center+Fire+Hall%2C+6762+Co+Rd+35%2C+Sidney+Center%2C+NY%2C+13839%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvickidavisny121.com"
+},
+{
+"text": "Map of NY121",
+"href": "https://vickidavisny121.com/map-of-ny-assembly-district-121/"
+},
+{
+"text": "Meet the Candidates – Madison County »",
+"href": "https://vickidavisny121.com/event/meet-the-candidates-madison-county/"
+},
+{
+"text": "News",
+"href": "https://vickidavisny121.com/news/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T12%3A00%3A00-04%3A00&enddt=%23T16%3A00%3A00-04%3A00&location=Sidney+Center+Fire+Hall%2C+6762+Co+Rd+35%2C+Sidney+Center%2C+NY%2C+13839%2C+United+States&subject=Down+Home+Fall+Fest+-+Sidney+Center&body=Fun+Fall+Activities+for+the+whole+family.Music+-+Auction+-+Pumpkin+Painting+%26amp%3B+Crafts+-+Food+-+Photo+Booth+-+Local+History+-+Scavenger+Hunt+-+Field+Day+Games+-+and+more%21"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T12%3A00%3A00-04%3A00&enddt=%23T16%3A00%3A00-04%3A00&location=Sidney+Center+Fire+Hall%2C+6762+Co+Rd+35%2C+Sidney+Center%2C+NY%2C+13839%2C+United+States&subject=Down+Home+Fall+Fest+-+Sidney+Center&body=Fun+Fall+Activities+for+the+whole+family.Music+-+Auction+-+Pumpkin+Painting+%26amp%3B+Crafts+-+Food+-+Photo+Booth+-+Local+History+-+Scavenger+Hunt+-+Field+Day+Games+-+and+more%21"
+},
+{
+"text": "Platform",
+"href": "https://vickidavisny121.com/platform/"
+},
+{
+"text": "Vicki Davis for NY Assembly 121",
+"href": "https://vickidavisny121.com/"
+},
+{
+"text": "View Venue Website",
+"href": "https://www.facebook.com/SCIGNY"
+},
+{
+"text": "Volunteer",
+"href": "https://vickidavisny121.com/contact/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/vickidavisny121/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vickidavisny121/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://vickidavisny121.com/event/down-home-fall-fest-sidney-center/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://vickidavisny121.com/calendar/"
+},
+{
+"text": "« Meet & Greet in Morris",
+"href": "https://vickidavisny121.com/event/meet-greet-in-morris/"
+}
 ]

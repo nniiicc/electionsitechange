@@ -1,4 +1,4 @@
-Florida isn’t working for the people who make this state great.
+Skip navigation menu Meet Antione Why I'm Running Platform Volunteer Vote Endorsements Resources Donate Why I'm Running Meet Antione Why I'm Running Platform Volunteer Vote Endorsements Resources Donate Why I'm Running Florida isn’t working for the people who make this state great.
 For a long time now, working families have been asked to carry more and more — higher rent, higher insurance, higher healthcare costs — while the people at the top keep taking more for themselves.
 If you work hard, play by the rules, and still feel like you’re falling behind, you’re not imagining it.
 That’s the system doing exactly what it was designed to do.
@@ -33,4 +33,9 @@ But only if we are willing to fight for it and build real grassroots power.
 I’m running because working people deserve more than excuses.
 I’m running because this seat should belong to the people of this district, not corporations, lobbyists, or political insiders.
 I’m running because I’m ready to fight.
-Are you?
+Are you? sign up to Get Updates First Name First Name Last Name Last Name Email Email Phone Phone Zip Code Zip Code By providing your cell phone number you consent to receive recurring campaign updates from Antione Fields for Florida House District 21.
+Texting & data rates may apply.
+Sign Up Take power back.
+Fight for working people.
+Volunteer Donate Donate Get Involved News PRIMARY ELECTION DATE: August 18, 2026 Contact: info@fieldsforflorida.com P.O.
+Box 770416 Ocala, FL 34477 Powered by RUN! website builder Paid for by Antione Fields, Democrat for Florida House District 21 You need to enable JavaScript to run this app.

@@ -1,2 +1,2 @@
-Denise Pigeon
-Nashoba Valley Technical High School Superintendent, Denise Pigeon, joins me for a great conversation on Nashoba Tech’s role in a post pandemic economy, dual enrollment programs, a new 7000 ft expansion on campus and Workforce Skills Capital Grants.
+0 Skip to Content About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Denise Pigeon Feb 6 Written By James Arciero Nashoba Valley Technical High School Superintendent, Denise Pigeon, joins me for a great conversation on Nashoba Tech’s role in a post pandemic economy, dual enrollment programs, a new 7000 ft expansion on campus and Workforce Skills Capital Grants.
+James Arciero Previous Previous Dan Twomey Next Next State Representative Tram Nguyen Paid for by the Committee to Elect Jim Arciero

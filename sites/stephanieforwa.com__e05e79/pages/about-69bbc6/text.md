@@ -1,5 +1,4 @@
-Meet Stephanie Barnard
-Stephanie Barnard, a dedicated advocate for her community, was born and raised in Washington and has lived in the Tri-Cities for over thirty years.
+0 Skip to Content Home About Endorsements Get Involved Donate Open Menu Close Menu Home About Endorsements Get Involved Donate Open Menu Close Menu Home About Endorsements Get Involved Donate Meet Stephanie Barnard Stephanie Barnard, a dedicated advocate for her community, was born and raised in Washington and has lived in the Tri-Cities for over thirty years.
 Her passion for small businesses and public safety has been a personal interest and a driving force behind her significant contributions to the region's economic growth and well-being.
 Her career includes serving as the head of government affairs for the Tri-City Regional Chamber of Commerce, where she led advocacy efforts through the Local Government Affairs Committee and the Tri-Cities Legislative Council.
 Stephanie has also been involved with the Business Resource Initiative and Business Builders Roundtable to help local businesses.
@@ -19,3 +18,8 @@ Additionally, House Bill 1870 received tremendous bipartisan approval.
 The bill addresses community barriers to obtaining matching funds despite increased federal grants.
 Outside of her professional and political endeavors, Stephanie is a devoted mother of six and an accomplished marathon runner, demonstrating her determination and commitment to excellence in all aspects of her life.
 She currently resides in Pasco with her two teenage children, continuing to serve as a dedicated leader and advocate for her community.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Info@StephanieForWA.com Paid for by Stephanie for WA (R) PO Box 5802, Pasco, WA, 99302

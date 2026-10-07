@@ -1,2 +1,2 @@
-SUPPORT OUR CAMPAIGN TODAY MAKE A DONATION Meet Kellie Deeter Kellie On The Issues Help Kellie Finish First!
-Contact Our Campaign
+0 Skip to Content Meet Kellie Deeter On The Issues Endorsements Donate Today Open Menu Close Menu Meet Kellie Deeter On The Issues Endorsements Donate Today Open Menu Close Menu Meet Kellie Deeter On The Issues Endorsements Donate Today SUPPORT OUR CAMPAIGN TODAY MAKE A DONATION Meet Kellie Deeter Kellie On The Issues Help Kellie Finish First!
+Contact Our Campaign PAID FOR BY DEETER FOR OHIO Privacy Policy

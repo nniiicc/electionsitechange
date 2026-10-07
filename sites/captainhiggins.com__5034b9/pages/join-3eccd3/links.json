@@ -1,11 +1,54 @@
 [
-"http://captainhiggins.com/",
-"https://captainhiggins.com/",
-"https://captainhiggins.com/about",
-"https://captainhiggins.com/join",
-"https://facebook.com/captclayhiggins",
-"https://public.mudshare.com/privacy_policy.php",
-"https://public.mudshare.com/terms_conditions.php",
-"https://secure.winred.com/clayhiggins/donate",
-"https://twitter.com/captclayhiggins"
+{
+"text": "About",
+"href": "https://captainhiggins.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/clayhiggins/donate"
+},
+{
+"text": "Home",
+"href": "http://captainhiggins.com"
+},
+{
+"text": "JOIN",
+"href": "https://captainhiggins.com/join"
+},
+{
+"text": "Privacy Policy",
+"href": "https://public.mudshare.com/privacy_policy.php"
+},
+{
+"text": "Terms of Use",
+"href": "https://public.mudshare.com/terms_conditions.php"
+},
+{
+"text": "[image]",
+"href": "https://captainhiggins.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/captclayhiggins"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/captclayhiggins"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/captclayhiggins"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/captclayhiggins"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@captainhiggins.com"
+},
+{
+"text": "info@captainhiggins.com",
+"href": "mailto: info@captainhiggins.com"
+}
 ]

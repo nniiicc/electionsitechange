@@ -1,4 +1,9 @@
-350NH Action Endorses Deirdre McEachern for State Representative
-We’re proud to announce that Deirdre McEachern has earned 350NH Action’s 2026 endorsement!
+0 Skip to Content Meet Deirdre Why I'm Running Issues Strong Public Schools Reasonable Taxes Housing within Reach Protect Our Land & Lakes Support Business & Infrastructure Endorsements Endorsements Testimonials News Contact Donate Open Menu Close Menu Meet Deirdre Why I'm Running Issues Strong Public Schools Reasonable Taxes Housing within Reach Protect Our Land & Lakes Support Business & Infrastructure Endorsements Endorsements Testimonials News Contact Donate Open Menu Close Menu Meet Deirdre Why I'm Running Folder: Issues Back Strong Public Schools Reasonable Taxes Housing within Reach Protect Our Land & Lakes Support Business & Infrastructure Folder: Endorsements Back Endorsements Testimonials News Contact Donate 350NH Action Endorses Deirdre McEachern for State Representative Sep 17 Written By Rebecca Henry We’re proud to announce that Deirdre McEachern has earned 350NH Action’s 2026 endorsement!
 Deirdre is committed to being a climate champion for New Hampshire by opposing fossil fuel expansion, supporting renewable energy, and pursuing practical solutions that make energy more affordable for working families.
 We are honored to have the support of an organization that stands with communities affected by the climate crisis and prepares young leaders to fight for climate justice.
+Rebecca Henry Previous Previous Supporting Deirdre McEachern for state representative Next Next Deirdre McEachern Endorsed by EMILY's List The weathered pilings along our shoreline remind us of what makes our communities strong.
+Each stands on its own, but bound together, they are strong enough to weather the storms and steady enough to meet changing waters.
+That same strength comes from neighbors working together—listening to one another, finding common ground, and remaining firmly anchored in the values we share.
+Deirdre McEachern for NH State Rep Proudly endorsed by: © Deirdre McEachern.
+All rights reserved.
+Paid for by the Committee to Elect Deirdre McEachern, Carolyn Sundquist, Treasurer, PO Box 322, Wolfeboro, NH 03894.

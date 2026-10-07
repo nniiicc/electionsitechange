@@ -1,6 +1,4 @@
-Meet Rick
-About Representative Rick Hansen
-Rick Hansen was born in Albert Lea, Minnesota.
+0 Skip to Content Meet Rick Donate Volunteer Gallery Events Vote Open Menu Close Menu Meet Rick Donate Volunteer Gallery Events Vote Open Menu Close Menu Meet Rick Donate Volunteer Gallery Events Vote Meet Rick About Representative Rick Hansen Rick Hansen was born in Albert Lea, Minnesota.
 He is married to Suzanne Savanick Hansen and they have one son, Evan.
 They live in South St.
 Paul.
@@ -29,3 +27,5 @@ Rick also received an award from the Sierra Club in 2011, special recognition fr
 In 2017 he received the Willard Munger Award for Distinguished Environmental Stewardship from the Minnesota DFL, and the River Heights Chamber of Commerce Forrest Glewwe Visions of Excellence Award in 2018.
 Most recently, he was the 2019 recipient of the Public Service Award from the Recycling Association of Minnesota.
 In 2020 and 2024, he was a member of the Democratic National Convention Rules Committee.
+Rick’s wife (Suzanne) and his son (Evan) Evan at a cross country meet A bee on Rick’s nose!
+Prepared and paid for by People for Hansen PO Box 231 South St Paul, MN 55075

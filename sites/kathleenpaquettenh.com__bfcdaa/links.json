@@ -1,8 +1,30 @@
 [
-"http://<<https://www.facebook.com/kathleenpaquetteward5<<",
-"https://facebook.com/kathleenpaquetteward5",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/kathleen-paquette-campaign/kathleenpaquettenh"
+{
+"text": "<<https://www.facebook.com/kathleenpaquetteward5<<",
+"href": "http://<<https://www.facebook.com/kathleenpaquetteward5<<"
+},
+{
+"text": "KathleenPaquetteNH@gmail.com",
+"href": "mailto:KathleenPaquetteNH@gmail.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kathleenpaquetteward5"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "https://secure.anedot.com/kathleen-paquette-campaign/kathleenpaquettenh",
+"href": "https://secure.anedot.com/kathleen-paquette-campaign/kathleenpaquettenh"
+}
 ]

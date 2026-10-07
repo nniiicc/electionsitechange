@@ -1,19 +1,70 @@
 [
-"http://youtube.com/",
-"https://airtable.com/shrBA6UCO1KJsCesP",
-"https://betterillinois6th.com/",
-"https://ellmanforillinois.com/",
-"https://ellmanforillinois.com/about-laura",
-"https://ellmanforillinois.com/congressman-bill-foster-hosts-event-support-laura-ellman",
-"https://ellmanforillinois.com/endorsements",
-"https://ellmanforillinois.com/get-involved",
-"https://ellmanforillinois.com/join-laura-supporters-kickoff-new-campaign-office",
-"https://ellmanforillinois.com/my-vision",
-"https://ellmanforillinois.com/policies-that-matter",
-"https://ellmanforillinois.com/the-21st-district",
-"https://facebook.com/EllmanforIL",
-"https://instagram.com/statesenatorlauraellman",
-"https://nctv17.com/news/local-democratic-candidates-sit-in-healthcare-forum",
-"https://secure.actblue.com/donate/teamellman22",
-"https://twitter.com/EllmanForIL"
+{
+"text": "ABOUT LAURA",
+"href": "https://ellmanforillinois.com/about-laura/"
+},
+{
+"text": "Coalition for a Better Illinois 6th",
+"href": "https://betterillinois6th.com/"
+},
+{
+"text": "Congressman Bill Foster Hosts Event in Support of Laura Ellman",
+"href": "https://ellmanforillinois.com/congressman-bill-foster-hosts-event-support-laura-ellman/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/teamellman22"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://ellmanforillinois.com/endorsements/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://ellmanforillinois.com/get-involved/"
+},
+{
+"text": "Healthcare Forum",
+"href": "https://www.nctv17.com/news/local-democratic-candidates-sit-in-healthcare-forum/"
+},
+{
+"text": "ISSUES",
+"href": "https://ellmanforillinois.com/policies-that-matter/"
+},
+{
+"text": "Join Laura and supporters for a kickoff at our new campaign office",
+"href": "https://ellmanforillinois.com/join-laura-supporters-kickoff-new-campaign-office/"
+},
+{
+"text": "MY VISION",
+"href": "https://ellmanforillinois.com/my-vision/"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://airtable.com/shrBA6UCO1KJsCesP"
+},
+{
+"text": "THE 21ST DISTRICT",
+"href": "https://ellmanforillinois.com/the-21st-district/"
+},
+{
+"text": "[image: Laura Ellman]",
+"href": "https://ellmanforillinois.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/EllmanForIL"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EllmanforIL/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/statesenatorlauraellman/"
+}
 ]

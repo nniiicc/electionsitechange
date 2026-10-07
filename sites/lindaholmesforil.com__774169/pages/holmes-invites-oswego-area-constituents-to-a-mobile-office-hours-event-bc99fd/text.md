@@ -1,5 +1,6 @@
-SPRINGFIELD – The office of State Senator Linda Holmes (D-Aurora) welcomes residents to a Mobile Office Hours event in Oswego on Monday, June 28 from 12:00 to 3:00 pm.
-“Our goal is to provide representatives from my district office in Aurora in a more convenient spot for those who live or work in the southwest portion of the 42nd District to seek constituent services,” Holmes said.
-“Whether someone needs help with unemployment claims, a state agency or program, a FOID card issue, or answers to questions about other local or state issues, we are at your service.”
-Mobile Office Hours will be June 28, noon to 3:00 pm in the Community Room of the village of Oswego’s City Hall, 100 Parkers Mill in Oswego.
+Skip to content Home About Issues Accomplishments News Contact Menu Home About Issues Accomplishments News Contact contribute Holmes invites Oswego-area constituents to a Mobile Office Hours event June 24, 2021 Event SPRINGFIELD – The office of State Senator Linda Holmes (D-Aurora) welcomes residents to a Mobile Office Hours event in Oswego on Monday, June 28 from 12:00 to 3:00 pm.
+“Our goal is to provide representatives from my district office in Aurora in a more convenient spot for those who live or work in the southwest portion of the 42 nd District to seek constituent services,” Holmes said.
+“Whether someone needs help with unemployment claims, a state agency or program, a FOID card issue, or answers to questions about other local or state issues, we are at your service.” Mobile Office Hours will be June 28, noon to 3:00 pm in the Community Room of the village of Oswego’s City Hall, 100 Parkers Mill in Oswego.
 “As we begin shifting out of pandemic mode, we welcome anyone to join us and have a face-to-face conversation,” Holmes concluded.
+Facebook Twitter LinkedIn Email Sign up for updates Name Email Sign Up Paid for by citizens for Linda holmes P.O.
+Box 6374 | Aurora, IL 60598 Facebook Linkedin

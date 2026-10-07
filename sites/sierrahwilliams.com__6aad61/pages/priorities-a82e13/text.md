@@ -1,8 +1,6 @@
-I was born and raised in this district.
+Skip to content About Priorities Contact Gallery Endorsements Sierrah Williams for Oregon State Senate Donate Image: Sierrah Williams speaking at the Lane Families for Farms and Forests Candidate Forum I was born and raised in this district.
 Your concerns are my concerns.
 We deserve a representative who loves this district and will fight to support our families and community.
-As your Senator, I will focus on:
-- Healthcare access for all
-- Childcare & Public Education
-- Affordable Housing
-- Secure Vote-by Mail
+As your Senator, I will focus on: Healthcare access for all Childcare & Public Education Affordable Housing Secure Vote-by Mail Sierrah Williams for Oregon State Senate Paid for by Sierrah Williams for Senate District 6 ID #24911 Designed with WordPress Facebook Mail Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website Sierrah Williams for Oregon State Senate Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

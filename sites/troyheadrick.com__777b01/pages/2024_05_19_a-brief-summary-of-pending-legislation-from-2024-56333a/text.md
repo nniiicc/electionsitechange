@@ -1,5 +1,4 @@
-A Brief Summary of Pending Legislation from 2024
-As predicted at the start of the 2024 legislative Governor Scott has created a political landscape that has presented hurdle after hurdle to our commitment for creating policy that truly moves Vermont toward economic, environmental, and racial justice.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Legislative Updates / A Brief Summary of Pending Legislation from 2024 May 19, 2024 As predicted at the start of the 2024 legislative Governor Scott has created a political landscape that has presented hurdle after hurdle to our commitment for creating policy that truly moves Vermont toward economic, environmental, and racial justice.
 With his State of the State Address Governor Scott portrayed himself as a “realist” while preemptively scapegoating the legislative supermajority and the role we collectively play in serving our constituents as we create responsive policy.
 This isn’t leadership.
 This isn’t being a realist.
@@ -17,58 +16,32 @@ Saunders as the interim Secretary.
 Governor Scott has no respect or concern for the checks and balances of our government.
 Our next step in our commitment to serving Vermonters from an ethic of care will be to override the many vetoes we anticipate receiving from the Governor in response to our legislative acknowledgment to Vermont’s call for justice and equity.
 Here is a brief (not exhaustive) list of the legislation we passed this year and what to watch over the next few weeks as the Governor once again wields his veto power.
-Opioid Use Response and Healthcare
-H.72: An act relating to a harm-reduction criminal justice response to drug use
-This bill will create an overdose prevention center pilot in Burlington in order to prevent fatal overdoses, provide access to harm-reduction services (sterile equipment, drug-checking, and naloxone), reduce pressures on emergency rooms and Emergency Medical Services (EMS), and to provide access to referrals for substance use disorder treatment.
-H.766: An act relating to prior authorization and step therapy requirements, health insurance claims, and provider contracts
-This bill gives primary health care providers more flexibility to order tests and procedures for their patients and eliminates the need for prior authorization from insurance providers for the patients of primary care doctors.
-S.114: An act relating to the establishment of the Psychedelic Therapy Advisory Working Group
-This bill creates a study of the possible mental health benefits of psilocybin mushrooms and other psychedelic drugs.
-Climate, Environment, and Energy
-H.289: An act relating to the Renewable Energy Standard
-This bill requires every utility in Vermont to source all of its power from renewable resources by 2035.
+Opioid Use Response and Healthcare H.72: An act relating to a harm-reduction criminal justice response to drug use This bill will create an overdose prevention center pilot in Burlington in order to prevent fatal overdoses, provide access to harm-reduction services (sterile equipment, drug-checking, and naloxone), reduce pressures on emergency rooms and Emergency Medical Services (EMS), and to provide access to referrals for substance use disorder treatment.
+H.766: An act relating to prior authorization and step therapy requirements, health insurance claims, and provider contracts This bill gives primary health care providers more flexibility to order tests and procedures for their patients and eliminates the need for prior authorization from insurance providers for the patients of primary care doctors.
+S.114: An act relating to the establishment of the Psychedelic Therapy Advisory Working Group This bill creates a study of the possible mental health benefits of psilocybin mushrooms and other psychedelic drugs.
+Climate, Environment, and Energy H.289: An act relating to the Renewable Energy Standard This bill requires every utility in Vermont to source all of its power from renewable resources by 2035.
 The bill also requires a Public Service Department report on policy options to ensure that low and moderate income families benefit equitably from new solar power generation and options for replacement of group net metering for community solar projects.
-H.687: An act relating to community resilience and biodiversity protection through land use
-This bill reforms Act 250 and requires a commitment to environmental justice by each member of the new Land Use Review Board.
-Additionally, the bill creates:
-- The requirement that Regional Planning Commissions comply with environmental justice “meaningful participation” and environmental burden/benefit analysis standards
-- Interim housing density development exemptions from Act 250
-- Zoning improvements for hotels and motels converted to permanently affordable housing
-- Affordable Housing Development Regulatory Incentives Study for establishing affordable housing development requirements or incentives in Act 250-deregulated areas (Tier 1a or 1b Status areas)
-- A study on eviction prevention programs
-H.706: An act relating to banning the use of neonicotinoid pesticides
-This bill would ban the sale or use of neonicotinoids (a known threat to pollinators) in Vermont.
-S.25: An act relating to regulating cosmetic and menstrual products containing certain chemicals and chemical classes and textiles and athletic turf fields containing perfluoroalkyl and polyfluoroalkyl substances
-This bill would limit the use of PFAS “forever chemicals” in many products.
+H.687: An act relating to community resilience and biodiversity protection through land use This bill reforms Act 250 and requires a commitment to environmental justice by each member of the new Land Use Review Board.
+Additionally, the bill creates: The requirement that Regional Planning Commissions comply with environmental justice “meaningful participation” and environmental burden/benefit analysis standards Interim housing density development exemptions from Act 250 Zoning improvements for hotels and motels converted to permanently affordable housing Affordable Housing Development Regulatory Incentives Study for establishing affordable housing development requirements or incentives in Act 250-deregulated areas (Tier 1a or 1b Status areas) A study on eviction prevention programs H.706: An act relating to banning the use of neonicotinoid pesticides This bill would ban the sale or use of neonicotinoids (a known threat to pollinators) in Vermont.
+S.25: An act relating to regulating cosmetic and menstrual products containing certain chemicals and chemical classes and textiles and athletic turf fields containing perfluoroalkyl and polyfluoroalkyl substances This bill would limit the use of PFAS “forever chemicals” in many products.
 The ban would include all clothing, diapers, menstrual products, makeup, and cookware by 2026 and then extend to turf by 2028.
-S.259: An act relating to climate change cost recovery
-This bill creates a first of its kind fund that requires fossil fuel companies to reimburse the state for climate change related damages.
-Public Safety
-H.883: An act relating to making appropriations for the support of government (the general budget)
-The FY2025 budget includes line item funding for multiple new positions within the court system to alleviate the significant backlog that currently inhibits resolution of thousands of cases for justice involved individuals.
-H. 28 (signed as Act 5): An act relating to diversion and expungement
-Act 5 amends the State’s diversion laws to permit individuals who have satisfactorily met all diversion requirements to be eligible for expungement prior to the case being dismissed by the prosecutor.
-H.121:An act relating to enhancing consumer privacy and the age-appropriate design code
-This bill creates significant protections for Vermonters against Big Tech’s use of consumer information.
+S.259: An act relating to climate change cost recovery This bill creates a first of its kind fund that requires fossil fuel companies to reimburse the state for climate change related damages.
+Public Safety H.883: An act relating to making appropriations for the support of government (the general budget) The FY2025 budget includes line item funding for multiple new positions within the court system to alleviate the significant backlog that currently inhibits resolution of thousands of cases for justice involved individuals.
+H.
+28 (signed as Act 5): An act relating to diversion and expungement Act 5 amends the State’s diversion laws to permit individuals who have satisfactorily met all diversion requirements to be eligible for expungement prior to the case being dismissed by the prosecutor.
+H.121:An act relating to enhancing consumer privacy and the age-appropriate design code This bill creates significant protections for Vermonters against Big Tech’s use of consumer information.
 The bill also gives individual Vermonters the right to sue for private damages against big data businesses that exploit their personal data.
-H.645: An act relating to the expansion of approaches to restorative justice
-This bill creates pre-charge diversion options for various misdemeanors and enhances post-charge diversion options.
-H.876: An act relating to miscellaneous amendments to the corrections laws
-This bill makes numerous improvements to corrections policy, including the creation of a study on improving visitation protocols and programming space for children of incarcerated parents.
+H.645: An act relating to the expansion of approaches to restorative justice This bill creates pre-charge diversion options for various misdemeanors and enhances post-charge diversion options.
+H.876: An act relating to miscellaneous amendments to the corrections laws This bill makes numerous improvements to corrections policy, including the creation of a study on improving visitation protocols and programming space for children of incarcerated parents.
 The bill also expresses legislative intent to end our use of for-profit, out of state prisons by 2034.
-S.195: An act relating to how a defendant’s criminal record is considered in imposing conditions of release
-This bill creates additional support and supervision for individuals who have been released with various conditions prior to trial.
-Concerning “public safety” legislation
-H.534: An act relating to retail theft
-This bill increases the penalties and classifications for instances where a defendant commits multiple retail thefts within 14 days and that exceeds $900 in value.
+S.195: An act relating to how a defendant’s criminal record is considered in imposing conditions of release This bill creates additional support and supervision for individuals who have been released with various conditions prior to trial.
+Concerning “public safety” legislation H.534: An act relating to retail theft This bill increases the penalties and classifications for instances where a defendant commits multiple retail thefts within 14 days and that exceeds $900 in value.
 New penalties include consideration of felony charges that may include up to 10 years of incarceration.
-Your Progressive caucus agrees with the concerns presented by ACLU of Vermont who remind us that “extreme and excessive sentencing is a major driver of mass incarceration and H.534 represents a major step backwards on criminal justice reform.”
-S.58: An act relating to public safety
-This bill increases the potential for incarceration for various drug offenses and expands the process by which children as young as 16 years of age are presumptively charged as adults.
+Your Progressive caucus agrees with the concerns presented by ACLU of Vermont who remind us that “extreme and excessive sentencing is a major driver of mass incarceration and H.534 represents a major step backwards on criminal justice reform.” S.58: An act relating to public safety This bill increases the potential for incarceration for various drug offenses and expands the process by which children as young as 16 years of age are presumptively charged as adults.
 S.58 once again delays the “raise the age” legislation passed in the previous biennium that was intended to presumptively charge all defendants aged 19 and younger within the family court system.
 Your Progressive House Caucus opposed this legislation at every possible moment of debate and procedural advancement.
 Again, Governor Scott is likely to continue his clear trend of vetoing legislation that protects Vermonters in significant and ground breaking ways.
 If you have any personal investment in the bills listed above, I urge you to contact the Governor with your stated expectation that he pass the legislation handed to him.
 As always, do not hesitate to contact me with any questions, concerns, or need for continued conversation on any of the legislation we passed during the 2024 session.
 It has been an absolute honor to represent the Chittenden 15 district in Montpelier and I look forward to any continued connections we might find.
-Troy
+Troy < Update on the Just Cause Eviction Charter Change > My Statement on Reports Pertaining to the Training Provided to Burlington Students by the Burlington Police Department Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

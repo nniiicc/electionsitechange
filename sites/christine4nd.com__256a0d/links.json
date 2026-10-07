@@ -1,25 +1,150 @@
 [
-"https://campaignpartner.com/",
-"https://christine4nd.com/",
-"https://christine4nd.com/about-christine",
-"https://christine4nd.com/better-together",
-"https://christine4nd.com/contact",
-"https://christine4nd.com/contribute",
-"https://christine4nd.com/contribute?amount=10",
-"https://christine4nd.com/contribute?amount=100",
-"https://christine4nd.com/contribute?amount=1000",
-"https://christine4nd.com/contribute?amount=25",
-"https://christine4nd.com/contribute?amount=250",
-"https://christine4nd.com/contribute?amount=50",
-"https://christine4nd.com/contribute?amount=500",
-"https://christine4nd.com/events",
-"https://christine4nd.com/issues",
-"https://christine4nd.com/meet-rosie",
-"https://christine4nd.com/meet_christine",
-"https://christine4nd.com/news",
-"https://christine4nd.com/privacy-policy",
-"https://christine4nd.com/view-endorsements",
-"https://christine4nd.com/volunteer",
-"https://christine4nd.com/vote",
-"https://christine4nd.com/yard-sign"
+{
+"text": "$#",
+"href": "https://christine4nd.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://christine4nd.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://christine4nd.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://christine4nd.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://christine4nd.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://christine4nd.com/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://christine4nd.com/contribute?amount=1000"
+},
+{
+"text": "About Christine",
+"href": "https://christine4nd.com/about-christine"
+},
+{
+"text": "Be an Informed Voter. Preview a Sample Ballot",
+"href": "https://christine4nd.com/news/#be-an-informed-voter-preview-a-sample-ballot"
+},
+{
+"text": "Be part of the solution! Request a Christine O'Riley yard sign today",
+"href": "https://www.christine4nd.com/yard-sign"
+},
+{
+"text": "Better Together",
+"href": "https://christine4nd.com/better-together"
+},
+{
+"text": "Campaign News",
+"href": "https://christine4nd.com/news/#campaign-news"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://christine4nd.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://christine4nd.com/contribute"
+},
+{
+"text": "DONATE",
+"href": "https://christine4nd.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://christine4nd.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://christine4nd.com/events"
+},
+{
+"text": "Every gift, no matter the size, will help us build a better North Dakota",
+"href": "https://www.christine4nd.com/contribute"
+},
+{
+"text": "Help us with a donation.",
+"href": "https://www.christine4nd.com/contribute"
+},
+{
+"text": "Issues",
+"href": "https://christine4nd.com/issues"
+},
+{
+"text": "Join our Campaign Join us as a Volunteer Click Here to Sign Up",
+"href": "https://christine4nd.com/volunteer"
+},
+{
+"text": "Meet Christine",
+"href": "https://christine4nd.com/meet_christine"
+},
+{
+"text": "Meet Rosie",
+"href": "https://christine4nd.com/meet-rosie"
+},
+{
+"text": "More Campaign News",
+"href": "https://christine4nd.com/news/#more-campaign-news"
+},
+{
+"text": "News",
+"href": "https://christine4nd.com/news"
+},
+{
+"text": "Other",
+"href": "https://christine4nd.com/contribute"
+},
+{
+"text": "Privacy Policy",
+"href": "https://christine4nd.com/privacy-policy"
+},
+{
+"text": "Request your sign here!",
+"href": "https://www.christine4nd.com/volunteer"
+},
+{
+"text": "Show Your Support! Request a Yard Sign Click Here to Request a Sign",
+"href": "https://christine4nd.com/yard-sign"
+},
+{
+"text": "Special Election Wards",
+"href": "https://christine4nd.com/news/#special-election-wards"
+},
+{
+"text": "Support Christine's Campaign Make a Contribution Today Click Here to Contribute",
+"href": "https://christine4nd.com/contribute"
+},
+{
+"text": "VOTING INFO",
+"href": "https://christine4nd.com/vote"
+},
+{
+"text": "Volunteer",
+"href": "https://christine4nd.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://christine4nd.com/yard-sign"
+},
+{
+"text": "[image: Christine O’Riley GOP Candidate for ND State Senate District 11]",
+"href": "https://christine4nd.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.christine4nd.com/yard-sign"
+}
 ]

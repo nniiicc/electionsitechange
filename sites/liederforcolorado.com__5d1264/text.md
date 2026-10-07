@@ -1,27 +1,5 @@
-Sheila Lieder for Colorado State Senate District 20
-“In the state house, i fought for Jeffco working families.
-Now, i’m ready to take the fight to the senate.”
-✓ INCREASED THE EARNED INCOME TAX CREDIT
-✓ EXPANDED APPRENTICESHIPS AND VOCATIONAL TRAINING PROGRAMS
-✓ PROTECTED FUNDING FOR FULL-DAY KINDERGARTEN
-SUPPORTING
-SENIORS
-HELPING
-WORKERS
-PROTECTING
-STUDENTS
-LEADERS ACROSS COLORADO SUPPORT SHEILA'S CAMPAIGN
-- Michael Bennet U.S.
-Senator from Colorado
-- Brittany Pettersen U.S.
-Representative, Colorado's 7th District
-- James Coleman President of the Colorado Senate
-- Robert Rodriguez Senate Majority Leader, District 32
-- Lisa Cutter Assistant Senate Majority Leader, District 20
-- Julie McCluskie Speaker of the Colorado House
-- Andy Boeseneker Speaker Pro Tempore, District 53
-- Monica Duran House Majority Leader, District 23
-- Jennifer Bacon Assistant House Majority Leader, District 7
-- Reggie Marinelli Sheriff of Jefferson County
-- Rebecca McClellan Chair, Colorado State Board of Education
-- Sharon Davis Arvada Councilmember At-Large
+0 Skip to Content Home About Sheila Newsletter Events Capitol 2023 - 2024 2025 District Map HD28 2026 Campaign Endorsements Volunteer Donate Contact Donate Open Menu Close Menu Donate Home About Sheila Newsletter Events Capitol 2023 - 2024 2025 District Map HD28 2026 Campaign Endorsements Volunteer Donate Contact Open Menu Close Menu Home About Sheila Newsletter Events Folder: Capitol Back 2023 - 2024 2025 District Map HD28 2026 Folder: Campaign Back Endorsements Volunteer Donate Contact Donate Sheila Lieder for Colorado State Senate District 20 About Sheila Volunteer Donate Endorsements “In the state house, i fought for Jeffco working families.
+Now, i’m ready to take the fight to the senate.” ✓ INCREASED THE EARNED INCOME TAX CREDIT ✓ EXPANDED APPRENTICESHIPS AND VOCATIONAL TRAINING PROGRAMS ✓ PROTECTED FUNDING FOR FULL-DAY KINDERGARTEN SUPPORTING SENIORS HELPING WORKERS PROTECTING STUDENTS LEADERS ACROSS COLORADO SUPPORT SHEILA'S CAMPAIGN Michael Bennet U.S.
+Senator from Colorado Brittany Pettersen U.S.
+Representative, Colorado's 7th District James Coleman President of the Colorado Senate Robert Rodriguez Senate Majority Leader, District 32 Lisa Cutter Assistant Senate Majority Leader, District 20 Julie McCluskie Speaker of the Colorado House Andy Boeseneker Speaker Pro Tempore, District 53 Monica Duran House Majority Leader, District 23 Jennifer Bacon Assistant House Majority Leader, District 7 Reggie Marinelli Sheriff of Jefferson County Rebecca McClellan Chair, Colorado State Board of Education Sharon Davis Arvada Councilmember At-Large VIEW ALL ENDORSEMENTS HERE Lieder for ColoradO Lieder for Colorado P.O.
+Box 620373 Littleton, CO 80162 Paid for by Lieder for Colorado | Registered Agent: Sheila Lieder sheilaforcolorado@gmail.com

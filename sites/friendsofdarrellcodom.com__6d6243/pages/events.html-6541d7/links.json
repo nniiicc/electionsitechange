@@ -1,4 +1,10 @@
 [
-"https://friendsofdarrellcodom.com/contact.html",
-"https://friendsofdarrellcodom.com/get-involved.html"
+{
+"text": "Contact the campaign",
+"href": "https://friendsofdarrellcodom.com/contact.html"
+},
+{
+"text": "Get event updates",
+"href": "https://friendsofdarrellcodom.com/get-involved.html"
+}
 ]

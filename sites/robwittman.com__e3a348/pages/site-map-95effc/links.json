@@ -1,33 +1,138 @@
 [
-"https://facebook.com/RobertJWittman",
-"https://robwittman.com/",
-"https://robwittman.com/about",
-"https://robwittman.com/contact",
-"https://robwittman.com/education-opens-doors",
-"https://robwittman.com/endorsements",
-"https://robwittman.com/get-involved",
-"https://robwittman.com/get-the-facts",
-"https://robwittman.com/hear-from-rob",
-"https://robwittman.com/issues",
-"https://robwittman.com/media-kit",
-"https://robwittman.com/newsletter-sign-up-confirmation",
-"https://robwittman.com/privacy-policy",
-"https://robwittman.com/protecting-the-chesapeake-bay-means-protecting-virginias-future",
-"https://robwittman.com/public-safety-requires-accountability",
-"https://robwittman.com/site-map",
-"https://robwittman.com/store",
-"https://robwittman.com/test",
-"https://robwittman.com/this-community-built-me",
-"https://robwittman.com/voting",
-"https://robwittman.com/where-i-stand-on-health-care-in-virginia",
-"https://robwittman.com/why-i-go-home-everynight",
-"https://secure.winred.com/rob-wittman/donate",
-"https://secure.winred.com/rob-wittman/donate?amount=100",
-"https://secure.winred.com/rob-wittman/donate?amount=250",
-"https://secure.winred.com/rob-wittman/donate?amount=50",
-"https://secure.winred.com/rob-wittman/donate?amount=500",
-"https://secure.winred.com/rob-wittman/storefront",
-"https://secure.winred.com/wittman-victory-committee/donate",
-"https://twitter.com/reelectwittman",
-"https://youtube.com/channel/UCTgPbi41IMkbTnnXm9FDCHg"
+{
+"text": "$100",
+"href": "https://secure.winred.com/rob-wittman/donate?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/rob-wittman/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/rob-wittman/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/rob-wittman/donate?amount=500"
+},
+{
+"text": "About",
+"href": "https://robwittman.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://robwittman.com/contact/"
+},
+{
+"text": "Contact us today!",
+"href": "https://robwittman.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/wittman-victory-committee/donate"
+},
+{
+"text": "Education Opens Doors",
+"href": "https://robwittman.com/education-opens-doors/"
+},
+{
+"text": "Endorsements",
+"href": "https://robwittman.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://robwittman.com/get-involved/"
+},
+{
+"text": "Get The Facts",
+"href": "https://robwittman.com/get-the-facts/"
+},
+{
+"text": "Hearing from Rob",
+"href": "https://robwittman.com/hear-from-rob/"
+},
+{
+"text": "Home",
+"href": "https://robwittman.com/"
+},
+{
+"text": "Issues",
+"href": "https://robwittman.com/issues/"
+},
+{
+"text": "Media Kit",
+"href": "https://robwittman.com/media-kit/"
+},
+{
+"text": "Newsletter Sign up Confirmation",
+"href": "https://robwittman.com/newsletter-sign-up-confirmation/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/rob-wittman/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://robwittman.com/privacy-policy/"
+},
+{
+"text": "Protecting the Chesapeake Bay Means Protecting Virginia’s Future",
+"href": "https://robwittman.com/protecting-the-chesapeake-bay-means-protecting-virginias-future/"
+},
+{
+"text": "Public Safety Requires Accountability",
+"href": "https://robwittman.com/public-safety-requires-accountability/"
+},
+{
+"text": "Site Map",
+"href": "https://robwittman.com/site-map/"
+},
+{
+"text": "Store",
+"href": "https://robwittman.com/store/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/rob-wittman/storefront/"
+},
+{
+"text": "TEST",
+"href": "https://robwittman.com/test/"
+},
+{
+"text": "This Community Built Me",
+"href": "https://robwittman.com/this-community-built-me/"
+},
+{
+"text": "Voting",
+"href": "https://robwittman.com/voting/"
+},
+{
+"text": "Where I Stand on Health Care in Virginia",
+"href": "https://robwittman.com/where-i-stand-on-health-care-in-virginia/"
+},
+{
+"text": "Why I Go Home Everynight",
+"href": "https://robwittman.com/why-i-go-home-everynight/"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/reelectwittman"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RobertJWittman/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCTgPbi41IMkbTnnXm9FDCHg"
+},
+{
+"text": "campaign@robwittman.com",
+"href": "mailto:campaign@robwittman.com"
+}
 ]

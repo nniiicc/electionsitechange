@@ -1,8 +1,38 @@
 [
-"https://facebook.com/JackZforGA",
-"https://instagram.com/JackZforGA",
-"https://jackzforsenate.com/",
-"https://jackzforsenate.com/volunteer",
-"https://secure.actblue.com/donate/jackzforsenate",
-"https://webvolve.com/"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jackzforsenate"
+},
+{
+"text": "Get Involved with Jack’s Campaign",
+"href": "https://www.jackzforsenate.com/volunteer/"
+},
+{
+"text": "Issues",
+"href": "https://www.jackzforsenate.com/#issues"
+},
+{
+"text": "Meet Jack",
+"href": "https://www.jackzforsenate.com/#about_jack"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jackzforsenate.com/volunteer/"
+},
+{
+"text": "Webvolve",
+"href": "https://www.webvolve.com"
+},
+{
+"text": "[image: Jack Zibluk for State Senate]",
+"href": "https://www.jackzforsenate.com"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/JackZforGA"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/JackZforGA"
+}
 ]

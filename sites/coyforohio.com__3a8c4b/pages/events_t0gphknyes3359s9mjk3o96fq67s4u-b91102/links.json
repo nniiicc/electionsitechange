@@ -1,12 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+Launch+with+Megan+Coy%2C+Brian+Poindexter+and+Courtney+Scheff&dates=20260830T170000Z%2F20260830T180000Z",
-"https://coyforohio.com/",
-"https://coyforohio.com/cart",
-"https://coyforohio.com/contact",
-"https://coyforohio.com/events",
-"https://coyforohio.com/events/megan-coys-birthday-fundraiser",
-"https://coyforohio.com/events/olmsted-falls-canvass-launch-1",
-"https://coyforohio.com/events/t0gphknyes3359s9mjk3o96fq67s4u?format=ical",
-"https://coyforohio.com/support",
-"https://mobilize.us/brianpoindexter/event/1015169"
+{
+"text": "0",
+"href": "https://www.coyforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.coyforohio.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.coyforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+Launch+with+Megan+Coy%2C+Brian+Poindexter+and+Courtney+Scheff&dates=20260830T170000Z%2F20260830T180000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.coyforohio.com/events/t0gphknyes3359s9mjk3o96fq67s4u?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.coyforohio.com/#issues"
+},
+{
+"text": "Meet Megan",
+"href": "https://www.coyforohio.com/#meetmegan"
+},
+{
+"text": "Next Next September 10 Megan Coy's Birthday Fundraiser",
+"href": "https://www.coyforohio.com/events/megan-coys-birthday-fundraiser"
+},
+{
+"text": "Previous Previous August 29 Olmsted Falls Canvass Launch!",
+"href": "https://www.coyforohio.com/events/olmsted-falls-canvass-launch-1"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.coyforohio.com/support"
+},
+{
+"text": "[image: Megan Coy]",
+"href": "https://www.coyforohio.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.mobilize.us/brianpoindexter/event/1015169/"
+},
+{
+"text": "https://www.mobilize.us/brianpoindexter/event/1015169/",
+"href": "https://www.mobilize.us/brianpoindexter/event/1015169/"
+}
 ]

@@ -1,7 +1,12 @@
 {
  "description": "Click here to download the PDF file. Click here to download the PDF file.",
  "final_url": "https://repheatherscott.com/covid/",
- "paid_for_by": null,
+ "fingerprint": "fdff68ec59e7abe5832ef00a27cbe5d0265ff1d3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "COVID - Rep. Heather Scott",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2023"
+ ]
 }

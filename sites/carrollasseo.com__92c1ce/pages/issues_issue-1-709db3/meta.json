@@ -1,7 +1,12 @@
 {
- "description": "Oklahoma\u2019s public education system has been underfunded for decades, leading to overcrowded classrooms, teacher shortages, and declining outcomes. Carroll has seen this decline firsthand and knows\u2026",
+ "description": "Oklahoma’s public education system has been underfunded for decades, leading to overcrowded classrooms, teacher shortages, and declining outcomes. Carroll has seen this decline firsthand and knows…",
  "final_url": "https://www.carrollasseo.com/issues/issue-1",
+ "fingerprint": "311565da6cd8d46d2a7e68a0f415d448d32fde85",
+ "format": 3,
  "paid_for_by": "paid for by Asseo for House 2026",
  "title": "Stronger Public Schools",
- "years_mentioned": []
+ "years_mentioned": [
+  "1990",
+  "2026"
+ ]
 }

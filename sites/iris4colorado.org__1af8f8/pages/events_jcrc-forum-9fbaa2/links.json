@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=JCRC+Forum&dates=20260609T000000Z%2F20260609T030000Z&location=51+Grape+St%2C++CO+80220",
-"http://maps.google.com/?q=51+Grape+St++CO+80220",
-"https://facebook.com/people/Iris-Halpern-for-House-District-6/61586739056135",
-"https://instagram.com/Iris4colorado",
-"https://iris4colorado.org/",
-"https://iris4colorado.org/about",
-"https://iris4colorado.org/cart",
-"https://iris4colorado.org/contact",
-"https://iris4colorado.org/endorsements",
-"https://iris4colorado.org/events",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-e5nkj",
-"https://iris4colorado.org/events/jcrc-forum?format=ical",
-"https://iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-capitol-hill-neighborhood",
-"https://iris4colorado.org/press",
-"https://iris4colorado.org/privacy",
-"https://iris4colorado.org/terms",
-"https://secure.actblue.com/donate/iris-halpern-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=51+grape+st++co+80220+"
+},
+{
+"text": "0",
+"href": "https://www.iris4colorado.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.iris4colorado.org/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.iris4colorado.org/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/iris-halpern-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.iris4colorado.org/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=JCRC+Forum&dates=20260609T000000Z%2F20260609T030000Z&location=51+Grape+St%2C++CO+80220"
+},
+{
+"text": "Home",
+"href": "https://www.iris4colorado.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/jcrc-forum?format=ical"
+},
+{
+"text": "Iris in the Press",
+"href": "https://www.iris4colorado.org/press"
+},
+{
+"text": "Next Next June 13 Canvass for Iris Montclair/Lowry/East Colfax Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-e5nkj"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.iris4colorado.org/privacy"
+},
+{
+"text": "Previous Previous June 7 Meet Iris for Happy Hour and Ask Your Questions - Capitol Hill Neighborhood",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-capitol-hill-neighborhood"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.iris4colorado.org/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.iris4colorado.org/contact"
+},
+{
+"text": "[image: Iris Halpern]",
+"href": "https://www.iris4colorado.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Iris-Halpern-for-House-District-6/61586739056135/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Iris4colorado"
+}
 ]

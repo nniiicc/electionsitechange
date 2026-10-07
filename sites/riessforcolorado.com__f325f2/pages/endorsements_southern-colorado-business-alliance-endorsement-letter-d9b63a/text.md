@@ -1,4 +1,4 @@
-On behalf of the Southern Colorado Business Alliance, congratulations.
+DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Southern Colorado Business Alliance On behalf of the Southern Colorado Business Alliance, congratulations.
 You have earned our endorsement in the 2026 election for Colorado House District 59.
 That is a short sentence, and the work behind it was not.
 This is the Alliance’s first endorsement cycle, and we set out to do it properly.
@@ -20,7 +20,4 @@ People who put their name on a ballot stay involved in this community — on boa
 We would like to have a working relationship with you either way.
 Naomi listens, understands rural Colorado, and will bring common sense, integrity, and strong local representation to the State Capitol.
 I encourage the voters of House District 59 to support Naomi Riess.
-Jeff Thormodsgaard
-Southern Colorado Business Alliance
-MJ Benenati
-Southern Colorado Business Alliance
+Jeff Thormodsgaard Southern Colorado Business Alliance MJ Benenati Southern Colorado Business Alliance Paid for by Riess for Colorado John Rice, Registered Agent Contact 970.946.3561 info@riessforcolorado.com PO BOX 1045 Durango, CO 81302 Media Kit Follow Riess for Colorado on Facebook Riess for Colorado Follow Naomi On Flickr

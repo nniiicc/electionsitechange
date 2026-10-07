@@ -1,6 +1,4 @@
-Your Voice Matters
-Why I’m Running
-Hello Neighbor!
+0 Skip to Content Home Core Beliefs Priorities Results Join My Newsletter Newsletters September 2026 Newsletter August 2026 Newsletter July 2026 Newsletter June 2026 Newsletter April 2026 Newsletter 2026 Session Newsletter - Week 7 2026 Session Newsletter - Week 6 2026 Session Newsletter - Week 5 2026 Session Newsletter - Week 4 2026 Session Newsletter - Week 3 2026 Session Newsletter - Week 1 Family Night Newsletter January 2026 Newsletter December 2025 Newsletter November 2025 Newsletter October 2025 Newsletter September 2025 Newsletter August 2025 Newsletter July 2025 Newsletter June 2025 Newsletter May 2025 Newsletter April 2025 Newsletter March 2025 Newsletter February 2025 Newsletter January 24th 2025 Newsletter January 16th 2025 Newsletter January 2025 Newsletter Endorsements Volunteer DONATE Open Menu Close Menu Home Core Beliefs Priorities Results Join My Newsletter Newsletters September 2026 Newsletter August 2026 Newsletter July 2026 Newsletter June 2026 Newsletter April 2026 Newsletter 2026 Session Newsletter - Week 7 2026 Session Newsletter - Week 6 2026 Session Newsletter - Week 5 2026 Session Newsletter - Week 4 2026 Session Newsletter - Week 3 2026 Session Newsletter - Week 1 Family Night Newsletter January 2026 Newsletter December 2025 Newsletter November 2025 Newsletter October 2025 Newsletter September 2025 Newsletter August 2025 Newsletter July 2025 Newsletter June 2025 Newsletter May 2025 Newsletter April 2025 Newsletter March 2025 Newsletter February 2025 Newsletter January 24th 2025 Newsletter January 16th 2025 Newsletter January 2025 Newsletter Endorsements Volunteer DONATE Open Menu Close Menu Home Core Beliefs Priorities Results Join My Newsletter Folder: Newsletters Back September 2026 Newsletter August 2026 Newsletter July 2026 Newsletter June 2026 Newsletter April 2026 Newsletter 2026 Session Newsletter - Week 7 2026 Session Newsletter - Week 6 2026 Session Newsletter - Week 5 2026 Session Newsletter - Week 4 2026 Session Newsletter - Week 3 2026 Session Newsletter - Week 1 Family Night Newsletter January 2026 Newsletter December 2025 Newsletter November 2025 Newsletter October 2025 Newsletter September 2025 Newsletter August 2025 Newsletter July 2025 Newsletter June 2025 Newsletter May 2025 Newsletter April 2025 Newsletter March 2025 Newsletter February 2025 Newsletter January 24th 2025 Newsletter January 16th 2025 Newsletter January 2025 Newsletter Endorsements Volunteer DONATE Your Voice Matters REGISTER TO VOTE Why I’m Running Hello Neighbor!
 My name is Jill Koford, lifelong resident of Weber County, and I’m running to represent you in the Utah Senate.
 I am running, first and foremost, to give you a strong voice in the discussions of our state’s future.
 I want to keep our government in check, and empower you to make your own decisions.
@@ -17,7 +15,6 @@ Limited government is good government.
 I will be a tireless advocate for you.
 I pledge to communicate openly, honestly, and frequently because you deserve a Senator who listens to you, shares your beliefs, and voices your concerns.
 I hope I can earn your support.
-Jill
-Tell me what issue(s) matter most to you and your family
-Please fill out this contact form and I will get back to you as soon as I can!
-Feel free to give me a call at (385) 244-0170.
+Jill Tell me what issue(s) matter most to you and your family Please fill out this contact form and I will get back to you as soon as I can!
+Feel free to give me a call at (385) 244-0170 .
+Site Information Copyright # All Rights Reserved Privacy Policy Stay Connected With Jill Paid for by the Jill Koford Campaign

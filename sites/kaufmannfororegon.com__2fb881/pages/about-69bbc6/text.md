@@ -1,4 +1,4 @@
-You deserve an independent thinker in Salem who will put people over party, lift up your voice and focus on your real-life concerns.
+Skip navigation menu Home About Roy Priorities News Endorsements Events Volunteer Contact Donate Home About Roy Priorities News Endorsements Events Volunteer Contact Donate You deserve an independent thinker in Salem who will put people over party, lift up your voice and focus on your real-life concerns.
 Roy is that voice.
 He's running to protect Oregon's people and protect Oregon's values.
 Roy Kaufmann is a father, a naturalized American, and a first-generation college graduate who has spent his career advocating for Oregonians.
@@ -8,11 +8,10 @@ Right now, Oregon’s MAGA Republicans are more focused on bending a knee to Tru
 They seek to dismantle the institutions, rights, and safeguards that generations of Oregonians fought to build.
 How can the Oregon GOP stand up for you when they’re busy bowing down to Trump?
 Your hardworking family deserves better.
-Oregon House District 18
-From Silver Falls State Park to Tabletop Wilderness, from the St.
+Oregon House District 18 From Silver Falls State Park to Tabletop Wilderness, from the St.
 Paul Rodeo to the Mt.
 Angel Oktoberfest, HD18 is a slice of the best of the Willamette Valley.
-It's a district of new small businesses and local favorites, food processors and manufacturers, hazelnut farms and Christmas tree nurseries, vineyards and wineries, hemp and cannabis farms, and families who love it here.
+Courtesy Statesman-Journal It's a district of new small businesses and local favorites, food processors and manufacturers, hazelnut farms and Christmas tree nurseries, vineyards and wineries, hemp and cannabis farms, and families who love it here.
 HD18 is a place of close-knit communities and wide open land — home to Aurora, Barlow, Butteville, Donald, Molalla, Mulino, Mt.
 Angel, Scotts Mills, and Silverton (Roy’s hometown!).
 People here work hard, look out for their neighbors, and want their children to have a future in the community where they were raised.
@@ -23,3 +22,4 @@ And underneath all of it runs a shared frustration with a federal regime that is
 The frustration is real, and it isn't partisan.
 Roy hears it everywhere he goes.
 It's why he's running.
+Powered by RUN! website builder You need to enable JavaScript to run this app.

@@ -1,9 +1,34 @@
 [
-"https://facebook.com/lutherforfl",
-"https://lutherforfl.com/",
-"https://lutherforfl.com/about",
-"https://lutherforfl.com/blog",
-"https://lutherforfl.com/contact",
-"https://lutherforfl.com/get-involved",
-"https://secure.actblue.com/donate/lutherforflhd70"
+{
+"text": "About",
+"href": "https://www.lutherforfl.com/about"
+},
+{
+"text": "Blog",
+"href": "https://www.lutherforfl.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://www.lutherforfl.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lutherforflhd70"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lutherforfl.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.lutherforfl.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lutherforfl.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/lutherforfl"
+}
 ]

@@ -1,5 +1,4 @@
-Veteran, Teacher, Leader
-I am a retired Army Veteran.
+0 Skip to Content The 10th District Project My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Open Menu Close Menu The 10th District Project My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Open Menu Close Menu My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Veteran, Teacher, Leader I am a retired Army Veteran.
 While in the Army I served as an Infantryman, a paratrooper and Russian linguist.
 After retiring from the military I participated in the Troops to Teachers program and became an 8th grade social studies teacher in Breckinridge County.
 As a teacher I became involved in the Kentucky Education Association and served twice on their state board of directors.
@@ -19,3 +18,4 @@ My time as a leader of Soldiers taught me how important it is to listen and resp
 Because of my training and background as a social studies teacher I understand how our government is SUPPOSED to work and how laws SHOULD be passed.
 I will not support bad laws which harm people.
 As a teacher I learned how important the role of public education is to our state, that it is the key to the growth and maturity of the Commonwealth of Kentucky.
+This site built and maintained by the Campaign for John Whipple Made with Squarespace by Gravel Road Strategies Donate to the Campaign

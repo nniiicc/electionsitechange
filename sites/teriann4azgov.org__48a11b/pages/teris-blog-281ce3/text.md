@@ -1,6 +1,4 @@
-Job Creation and Unemployment AZ: Teri Ann Hourihan’s Plan
-Summary
-Arizona is growing rapidly, and as our state continues to expand, we must keep pace with the workforce development needed to support that growth.
+0 Skip to Content Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Teri's Plans & Policies Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today DONATE HERE Open Menu Close Menu Open Menu Close Menu DONATE HERE Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Teri's Plans & Policies Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Folder: Teri's Plans & Policies Back Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Folder: Community Connection Back Advocacy Community Engagements Shop Products Folder: Other Topics Back Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact Folder: About Teri Ann Back About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today DONATE HERE Teri Hourihan PHD, LPC, NCC 6/12/26 Teri Hourihan PHD, LPC, NCC 6/12/26 Job Creation and Unemployment AZ: Teri Ann Hourihan’s Plan Summary Arizona is growing rapidly, and as our state continues to expand, we must keep pace with the workforce development needed to support that growth.
 While businesses are creating jobs and investing in Arizona, unemployment has increased, highlighting a growing challenge in our economy.
 The issue is not simply a lack of jobs—it is a mismatch between the skills employers need and the training opportunities available to workers.
 Arizona must expand workforce development programs, apprenticeships, trade education, and fast-track certification pathways that prepare people for careers in high-demand industries.
@@ -16,8 +14,7 @@ Students should be exposed to the wide range of careers available in Arizona and
 By introducing career planning and workforce skills earlier, we can better prepare the next generation for success.
 Arizona's future depends on a strong workforce.
 By investing in education, training, affordability, and career readiness, we can connect more people to good-paying jobs, help businesses fill critical positions, and build a stronger economy for generations to come.
-History
-Over the last decade, from 2016 to 2026, Arizona's unemployment rate has averaged approximately 5%.
+History Over the last decade, from 2016 to 2026, Arizona's unemployment rate has averaged approximately 5%.
 During that same period, Arizona has emerged as one of the nation's leading centers for semiconductor manufacturing and advanced technology investment, creating significant opportunities for economic growth and employment.
 As Arizona continues to attract major employers and industries, we must ensure our infrastructure and resources can support that growth.
 By strengthening water conservation and preservation efforts, we can responsibly continue developing Arizona's economy, creating jobs, expanding housing, and attracting new investment.
@@ -31,8 +28,7 @@ We need faster and more affordable routes into high-demand careers so Arizonans 
 I believe major corporations that benefit from Arizona's workforce, infrastructure, and business climate should also be partners in developing the next generation of workers.
 Through paid externships, apprenticeships, tuition assistance, scholarships, and partnerships with colleges and trade schools, these companies can help invest in the workforce they depend upon.
 By working together, government, education, and industry can create a stronger economy, higher wages, and greater opportunity for all Arizonans.
-Current
-Arizona's unemployment rate is approximately 4.7%, which is above the national average of 4.3%.
+Current Arizona's unemployment rate is approximately 4.7%, which is above the national average of 4.3%.
 At the same time, Arizona's population continues to grow rapidly, and employers across the state are expanding operations and creating new jobs.
 However, a significant challenge remains: there is a mismatch between the skills many job seekers possess and the qualifications employers need.
 Many industries in Arizona—including healthcare, semiconductor manufacturing, advanced manufacturing, construction, plumbing, electrical trades, and other skilled professions—have positions available but struggle to find qualified workers.
@@ -42,8 +38,7 @@ Businesses face workforce shortages that limit growth, while unemployed Arizonan
 To address this challenge, Arizona must place a greater focus on workforce development and career training in industries experiencing the highest growth.
 As Governor, I will work with universities, community colleges, trade schools, and industry leaders across the state to expand fast-track training programs, apprenticeships, certification pathways, and job placement services.
 By aligning education and workforce training with Arizona's economic needs, we can better prepare workers for available jobs, help businesses find the talent they need, and strengthen Arizona's economy for years to come.
-Plan
-As Governor of Arizona, I will create jobs by investing in infrastructure projects, including roads, highways, airport improvements, and public transportation.
+Plan As Governor of Arizona, I will create jobs by investing in infrastructure projects, including roads, highways, airport improvements, and public transportation.
 I will also help create jobs by streamlining the permit approval process for construction, housing, and business development so projects can move forward more efficiently.
 I will support businesses of all sizes by ensuring Arizona remains a business-friendly state while protecting employers from unnecessary burdens that could threaten their ability to operate and grow.
 For startups and small businesses, I will work to expand access to low-interest loans, promote affordable healthcare options for small business owners and employees, and strengthen workforce development programs.
@@ -64,8 +59,7 @@ By strengthening workforce training, supporting semiconductor and technology exp
 These efforts will help drive wage growth, increase competition for skilled workers, attract new businesses, and strengthen Arizona's long-term economy.
 A practical goal of my administration will be to reduce unemployment from approximately 4.7% toward 4.0% or lower through strategic investments in workforce development, infrastructure, housing, and economic growth.
 Achieving this goal could create tens of thousands of additional jobs while building a stronger and more prosperous Arizona for future generations.
-Conclusion
-To conclude, as Governor of Arizona, I will make workforce development and economic opportunity a top priority.
+Conclusion To conclude, as Governor of Arizona, I will make workforce development and economic opportunity a top priority.
 I will support our schools, community colleges, universities, and industries by ensuring training programs align with the needs of Arizona's growing economy.
 Education and workforce development must work hand in hand so that students are prepared for the careers that employers need to fill.
 I will also work with major employers and expanding industries to develop partnerships that invest in the next generation of Arizona workers.
@@ -74,3 +68,4 @@ There is no reason billion-dollar corporations should come to Arizona, benefit f
 We must create a culture of partnership where businesses, educators, and government work together to build a stronger Arizona.
 Arizona succeeds when our companies succeed, but our companies should also help Arizona succeed.
 By investing in our people, supporting workforce development, and creating opportunities for future generations, we can build a stronger economy, attract more investment, and ensure prosperity is shared across our state.
+Read More Teri Hourihan PHD, LPC, NCC 5/28/19 Teri Hourihan PHD, LPC, NCC 5/28/19 Corruption in Arizona’s Capital Coming soon… Read More Teri Hourihan PHD, LPC, NCC 5/28/19 Teri Hourihan PHD, LPC, NCC 5/28/19 Life in the Womb Coming soon… Read More Teri Ann Hourihan for Arizona Governor Email Teri@teriann4azgov.org Phone/Text 520-633-1234

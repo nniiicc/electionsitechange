@@ -1,4 +1,4 @@
-This session is finally halfway done with, but activity in the capital is at an all-time high for me.
+Skip to content TYLER TORDSEN DISTRICT 14 HOUSE Menu + × expanded collapsed HOME ABOUT EFFECTIVE LEADERSHIP VOTE CONTACT DONATE BLOG SESSION WEEK FIVE – Hitting the Halfway Point Posted by ttordsen February 11, 2024 February 11, 2024 Posted in BLOG This session is finally halfway done with, but activity in the capital is at an all-time high for me.
 The chronological recap of the week began with House Education Monday morning where we debated a $109M+ school choice/voucher bill in HB1250, while at the same time down the hall I was pitching my primaries vs convention bill in HB1198 in House State Affairs.
 On Tuesday, my legislation that creates a new definition in state code to address “multi-passenger bicycles” to better reflect the pedal pub businesses you find in downtowns made it out of committee and will be heard on the House floor this coming week.
 Just prior to my election in 2022, I began researching the issue of school lunches.
@@ -11,12 +11,13 @@ It was a national security and humanitarian issue that caused the feds to get in
 So, after many months of research, discussion, and brainstorming, I brought forward legislation that would create a “state-reduced” category (185-209% FPL) to help provide some assistance for breakfast and lunch to those families on the bubble.
 It impacts working families that are trying their hardest and who make just a couple hundred dollars a year too much to qualify for “federal-free” (0-130% FPL) and “federal-reduced” (130-185% FPL) meals.
 FACT: South Dakota has the highest child food insecurity rate in the region at 13%.
-(Source: https://www.sdnewswatch.org/more-south-dakota-students-going-hungry-after-federal-free-meals-program-ends/)
-HB1238 gained support of most of my colleagues on the House Education committee and will now go to appropriations to weigh the ongoing costs.
+(Source: https://www.sdnewswatch.org/more-south-dakota-students-going-hungry-after-federal-free-meals-program-ends/ ) HB1238 gained support of most of my colleagues on the House Education committee and will now go to appropriations to weigh the ongoing costs.
 The estimate is around $1.5 million annually to help feed thousands more South Dakota families who are trying.
 I think it’s a small price to pay to have a big impact for those low- and middle-income families who are just trying to get by.
-Check out the SD Searchlight Story by clicking the image below:
-The biggest and most controversial bill debated this year was my HB1198.
+Check out the SD Searchlight Story by clicking the image below : Rep.
+Tyler Tordsen, R-Sioux Falls, speaks on the state House floor on Jan.
+16, 2024.
+(Makenzie Huber/South Dakota Searchlight) The biggest and most controversial bill debated this year was my HB1198.
 This bill is an act to allow gubernatorial candidates to select their lieutenant governor running mates and to change the way we select party nominees for the offices of Attorney General and Secretary of State.
 This bill passed the House State Affairs committee Monday by a vote of 10-3.
 It was hotly debated on the House floor Tuesday and then after a procedural hurdle was debated some more on Wednesday.
@@ -27,7 +28,7 @@ House Rep, legislature, and all county positions such as sheriff, auditor, regis
 However, for Attorney General – the chief law enforcement officer and chief attorney of the state, and for the Secretary of State – the chief administrative officer and election official of the state, you have to let a few hundred party delegates decide for you at a party convention.
 Literally hundreds of thousands of South Dakotans don’t get to vote on who they want as their party’s nominee for these important statewide offices and instead let 430 or so party insiders make that decision for you.
 That’s what’s baffling to me!
-One of my colleagues articulated it best this week, “what if we viewed this from the other side of this equation.
+CLICK IMAGE for KELOLAND NEWS: “House divided on primaries for AG, secretary of state” by Bob Mercer One of my colleagues articulated it best this week, “what if we viewed this from the other side of this equation.
 What if we were debating taking your vote away and instead going to give it to a few hundred delegates at a convention?” I don’t think the voters would be too fond of that proposal.
 On the GOP side, ten counties out of 66 in South Dakota had zero delegates at the 2022 convention.
 Totally disenfranchised.
@@ -46,6 +47,12 @@ Some of the best parts of serving in Pierre are seeing friends and guests visiti
 I ran into many of my local government friends at the annual SD Municipal League events early in the week and had lunch with the Sioux Falls Youth Council on Wednesday.
 We also ended the work week with USD Day at the Capitol, with a visit by the Civil Air Patrol cadets, and with a “Report to the State” by the Boy Scouts of America.
 Seeing these young people learning and leading gives me exciting hope for the future of our state.
-If you want an extended breakdown on things you’re seeing or hearing from Pierre, just give me a call or shoot me a text. 605-610-8884.
-I appreciate you!
--Tyler
+If you want an extended breakdown on things you’re seeing or hearing from Pierre, just give me a call or shoot me a text.
+605-610-8884.
+I appreciate you! -Tyler Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted by ttordsen February 11, 2024 February 11, 2024 Posted in BLOG Post navigation Previous Post Previous post: SESSION WEEK FOUR – Video Update Next Post Next post: SESSION WEEK SIX – Taking Care of our Teachers One thought on “ SESSION WEEK FIVE – Hitting the Halfway Point ” Bob DeJong says: February 13, 2024 at 4:29 pm Well said!
+Thanks for sharing.
+Loading...
+Reply Leave a Reply Cancel reply PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Discover more from TYLER TORDSEN Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

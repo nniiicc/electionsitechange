@@ -1,8 +1,38 @@
 [
-"https://brysonforwisconsin.com/",
-"https://brysonforwisconsin.com/about",
-"https://brysonforwisconsin.com/endorsements",
-"https://brysonforwisconsin.com/issues",
-"https://maps.legis.wisconsin.gov/Home/SingleEmbed?house=a&district=82",
-"https://secure.winred.com/bryson-for-wisconsin-d7957bd0/donate-today"
+{
+"text": "ABOUT",
+"href": "https://www.brysonforwisconsin.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/bryson-for-wisconsin-d7957bd0/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.brysonforwisconsin.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.brysonforwisconsin.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.brysonforwisconsin.com/issues"
+},
+{
+"text": "Paid for by Bryson for Wisconsin",
+"href": "https://www.brysonforwisconsin.com"
+},
+{
+"text": "[image: Campaign Logo]",
+"href": "https://www.brysonforwisconsin.com"
+},
+{
+"text": "brysonforwisconsin@gmail.com",
+"href": "mailto:brysonforwisconsin@gmail.com"
+},
+{
+"text": "​​Check to see if you live in the district!",
+"href": "https://maps.legis.wisconsin.gov/Home/SingleEmbed/?house=a&district=82"
+}
 ]

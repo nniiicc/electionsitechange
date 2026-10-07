@@ -1,29 +1,13 @@
-BILL RIDENOUR
-West Virginia Delegate District 100
-Constitutional Conservative Republican.
+0 Skip to Content About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Folder: Campaign Resources Back Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Folder: Voter Info Back Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Folder: Legislation Back My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate BILL RIDENOUR West Virginia Delegate District 100 Constitutional Conservative Republican.
 Proud American & West Virginian.
 Father & Grandfather.
 Retired Marine.
-Recent Blog Posts
-I Work for You!
-Our Rights are God-given - not derived from any government
-— I will defend our Constitutional Rights, particularly Freedom of Religion & Speech, and our Right to Keep and Bear Arms
-Protect West Virginian and American Liberty
-I will fight to preserve West Virginia as an oasis of Liberty.
+Recent Blog Posts Blog August 28, 2026 The Constitutional Crisis and Judicial Oligarchy August 28, 2026 Read more → August 28, 2026 August 28, 2026 The 2026 Legislative Session – Major Events #3: Crime August 28, 2026 Read more → August 28, 2026 August 28, 2026 The 2026 Legislative Session – Major Events #2: Education August 28, 2026 Read more → August 28, 2026 August 28, 2026 The 2026 Legislative Session – Major events #1 – The Tax Cut August 28, 2026 Read more → August 28, 2026 I Work for You !
+Our Rights are God-given - not derived from any government — I will defend our Constitutional Rights, particularly Freedom of Religion & Speech, and our Right to Keep and Bear Arms Learn More Protect West Virginian and American Liberty I will fight to preserve West Virginia as an oasis of Liberty.
 I am proudly Pro-Life and Pro-Second Amendment.
-SEMPER FIDELIS
-ENDORSEMENTS for the 2024 Election:
-- Patrick Morrisey for West Virginia Governor
-- Alex Mooney for United States Senate
-- Patricia Rucker for West Virginia State Senate, District 16
-- Mike Stuart for West Virginia Attorney General
-- Tom Hansen for Jefferson County Sheriff
-- Kent Leonhardt for Agriculture Commissioner
-- Jack Hefestay for County Commissioner (Charles Town District) MORE ENDORESEMENTS COMING SOON!
-Ways You Can Help
-- Follow me on Facebook (Bill Ridenour for WV Delegate)
-- Share my social media posts with your family, friends, and neighbors
-- Tell people why I’m your candidate and share my campaign flyer
-- Motivate like-minded people to register to vote.
-- Donate - support our efforts with a donation
-- Volunteer - send an email to bill@billridenourforwv.com to volunteer!
+SEMPER FIDELIS ENDORSEMENTS for the 2024 Election: Patrick Morrisey for West Virginia Governor Alex Mooney for United States Senate Patricia Rucker for West Virginia State Senate, District 16 Mike Stuart for West Virginia Attorney General Tom Hansen for Jefferson County Sheriff Kent Leonhardt for Agriculture Commissioner Jack Hefestay for County Commissioner (Charles Town District) MORE ENDORESEMENTS COMING SOON!
+Register to Vote Ways You Can Help Follow me on Facebook (Bill Ridenour for WV Delegate) Share my social media posts with your family, friends, and neighbors Tell people why I’m your candidate and share my campaign flyer Motivate like-minded people to register to vote.
+Donate - support our efforts with a donation Volunteer - send an email to bill@billridenourforwv.com to volunteer!
+Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+Jim Ruland, Treasurer.
+Home About Bill Campaign Positions Legislation Blog Contact

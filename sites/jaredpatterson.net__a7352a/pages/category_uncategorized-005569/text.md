@@ -1,5 +1,8 @@
-In Uncategorized REP.
-PATTERSON HELPS SECURE THREE QUARTERS OF A BILLION DOLLARS IN FEDERAL FUNDING FOR TXDOT RAIL GRADE SEPARATION PROJECTS
-In Uncategorized SOCIAL MEDIA COMPANIES FOUND LIABLE FOR INTENTIONALLY HARMING CHILDREN ON THEIR PLATFORMS IN NM & CA
-In Uncategorized REP.
-PATTERSON HIGHLIGHTS AUSTRALIA’S WORK TO PROTECT MINORS FROM HARMFUL, ADDICTIVE SOCIAL MEDIA PLATFORMS
+Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Donate Now In Uncategorized REP.
+PATTERSON ANNOUNCES “CHARLIE KIRK ACT” TO COMBAT POLITICAL VIOLENCE Continue Reading In Uncategorized REP.
+PATTERSON COMMENDS PUBLIC HEALTH COMMITTEE AND VOWS TO CONTINUE THE FIGHT Continue Reading In Uncategorized REP.
+PATTERSON HELPS SECURE THREE QUARTERS OF A BILLION DOLLARS IN FEDERAL FUNDING FOR TXDOT RAIL GRADE SEPARATION PROJECTS Continue Reading In Uncategorized MANY TEXAS CITIES BLINDLY ADOPT FAR-LEFT GREEN NEW DEAL REQUIREMENTS ON BUSINESSES Continue Reading In Uncategorized SOCIAL MEDIA COMPANIES FOUND LIABLE FOR INTENTIONALLY HARMING CHILDREN ON THEIR PLATFORMS IN NM & CA Continue Reading In Uncategorized REP.
+PATTERSON STATEMENT ON AUSTIN ATTACK Continue Reading In Uncategorized US HIGHWAY 380 IS FUNCTIONALLY COMPLETE Continue Reading In Uncategorized REP.
+PATTERSON CONDEMNS OPPONENT’S ATTACK ON FRISCO POLICE OFFICERS Continue Reading In Uncategorized GRAPEVINE-COLLEYVILLE ISD PARTNERING WITH A Continue Reading In Uncategorized REP.
+PATTERSON HIGHLIGHTS AUSTRALIA’S WORK TO PROTECT MINORS FROM HARMFUL, ADDICTIVE SOCIAL MEDIA PLATFORMS Continue Reading 1 2 Next Email: votejaredpatterson@gmail.com P.O.
+Box 5419 Frisco, TX 75035 Follow: Pol Adv Paid for By Jared Patterson.

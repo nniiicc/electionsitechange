@@ -1,14 +1,50 @@
 [
-"https://cormenfornh.com/Media/index.html",
-"https://cormenfornh.com/Votes/index.html",
-"https://cormenfornh.com/about.html",
-"https://cormenfornh.com/contact.html",
-"https://cormenfornh.com/donate.html",
-"https://cormenfornh.com/index.html",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2024&id=1239&txtFormat=pdf&v=current",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2024&id=1392&txtFormat=pdf&v=current",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2024&id=1597&txtFormat=pdf&v=current",
-"https://gencourt.state.nh.us/house/committees/committeedetails.aspx?id=15",
-"https://gencourt.state.nh.us/house/members/member.aspx?pid=10769",
-"https://unionleader.com/opinion/op-eds/rep-tom-cormen-power-hungry-data-centers-dont-fit-new-hampshire-realities/article_92a47e84-0d11-456d-a7a9-a414cf312c7e.html"
+{
+"text": "About",
+"href": "https://cormenfornh.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://cormenfornh.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://cormenfornh.com/donate.html"
+},
+{
+"text": "HB 1432-FN",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2024&id=1239&txtFormat=pdf&v=current"
+},
+{
+"text": "HB 1596-FN",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2024&id=1392&txtFormat=pdf&v=current"
+},
+{
+"text": "HB 1688-FN",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2024&id=1597&txtFormat=pdf&v=current"
+},
+{
+"text": "Home",
+"href": "https://cormenfornh.com/index.html"
+},
+{
+"text": "Media",
+"href": "https://cormenfornh.com/Media/index.html"
+},
+{
+"text": "My page",
+"href": "https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10769"
+},
+{
+"text": "Science, Technology and Energy Committee",
+"href": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=15"
+},
+{
+"text": "Votes",
+"href": "https://cormenfornh.com/Votes/index.html"
+},
+{
+"text": "my op-ed in the New Hampshire Union Leader",
+"href": "https://www.unionleader.com/opinion/op-eds/rep-tom-cormen-power-hungry-data-centers-dont-fit-new-hampshire-realities/article_92a47e84-0d11-456d-a7a9-a414cf312c7e.html"
+}
 ]

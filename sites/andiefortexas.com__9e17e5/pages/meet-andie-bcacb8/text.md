@@ -1,5 +1,4 @@
-Meet Andie
-I’ve lived, worked, and studied in a lot of different places, and one lesson has followed me everywhere: no matter where you go, most people are just trying to make it in this world.
+0 Skip to Content Home Meet Andie Issues Pathways to Citizenship SpaceX in Grimes County Environmental Conservation Healthcare for All Strong Public Schools Volunteer Events Endorsements Yard Signs DONATE Open Menu Close Menu Home Meet Andie Issues Pathways to Citizenship SpaceX in Grimes County Environmental Conservation Healthcare for All Strong Public Schools Volunteer Events Endorsements Yard Signs DONATE Open Menu Close Menu Home Meet Andie Folder: Issues Back Pathways to Citizenship SpaceX in Grimes County Environmental Conservation Healthcare for All Strong Public Schools Volunteer Events Endorsements Yard Signs DONATE Meet Andie I’ve lived, worked, and studied in a lot of different places, and one lesson has followed me everywhere: no matter where you go, most people are just trying to make it in this world.
 We want to provide for our families, find some stability, and give our children a fair chance at something better.
 That belief is rooted in my own family.
 I’m the daughter of immigrants who built a life in America through determination and hard work.
@@ -22,3 +21,6 @@ I’m an ordinary citizen who believes government should include people who unde
 If elected, I would also have the honor of becoming the first woman and only the second person of color to represent this seat.
 More than anything, I want District 12 to have a representative who will listen, study the issues, read the fine print, and remember who public office is meant to serve.
 I want to be that representative, and I want you to know that your voice matters to me—not just as a voter, but as a neighbor.
+Andie for Texas Political advertisement paid for by Andie Ho.
+Copyright #.
+Contact andieforHD12@gmail.com

@@ -1,6 +1,30 @@
 [
-"https://politics.raisethemoney.com/en/rtorresUSZORIZt_7ZTSkOdGC-ckg",
-"https://randyforarkansas.com/",
-"https://randyforarkansas.com/members",
-"https://randyforarkansas.com/volunteer"
+{
+"text": "ABOUT",
+"href": "https://www.randyforarkansas.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.randyforarkansas.com"
+},
+{
+"text": "DONATE",
+"href": "https://politics.raisethemoney.com/en/rtorresUSZORIZt_7ZTSkOdGC-ckg"
+},
+{
+"text": "HOME",
+"href": "https://www.randyforarkansas.com"
+},
+{
+"text": "Members",
+"href": "https://www.randyforarkansas.com/members"
+},
+{
+"text": "THE ISSUES",
+"href": "https://www.randyforarkansas.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.randyforarkansas.com/volunteer"
+}
 ]

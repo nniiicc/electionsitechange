@@ -1,4 +1,4 @@
-Standing Up for Women
-Jessica trusts women to make their own healthcare decisions.
+Skip navigation menu About Issues Contact News Homepage Donate About Issues Contact News Homepage Donate Lowering Costs for Families Strong Schools Safe Communities & Supporting First Responder Supporting Local Businesses & Creating Opportunity Responsible & Ethical Government Infrastructure & Bringing Resources Home Standing Up for Women Standing Up for Women Jessica trusts women to make their own healthcare decisions.
 She supports a state constitutional amendment guaranteeing reproductive freedom.
 Jessica will work to strengthen access to reproductive healthcare, birth control, fertility treatment, and maternity care.
+Terms and Conditions Electjessicadixonheitman@gmail.com PO Box 1469, Plainfield, IL 60585 Powered by RUN! website builder Paid for by Citizens to Elect Jessica Dixon Heitman You need to enable JavaScript to run this app.

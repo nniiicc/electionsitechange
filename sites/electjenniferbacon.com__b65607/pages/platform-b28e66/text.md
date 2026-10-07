@@ -1,23 +1,18 @@
-PRIORITIES
-As your legislator, I am committed to fighting for:
-Educational Impact
-Public education has an incredible duty as it aims to responsibly grow our children, our future.
+top of page Jennifer Bacon HOME PRIORITIES LEGISLATION HOUSE DISTRICT 7 GET INVOLVED More Use tab to navigate through the menu items.
+DONATE PRIORITIES As your legislator, I am committed to fighting for: ​ Educational Impact Public education has an incredible duty as it aims to responsibly grow our children, our future.
 As a former educator and current School Board Director, I am well-versed in the difficult task of providing high-quality education for all students while both supporting teachers and advocating for our kids.
 The State of Colorado has a big role to play in funding, testing, teacher and school performance matters, and I will make sure this work is done in an equitable manner that best serves our teachers, our students, and their families.
 My unique position of having a direct connection with the largest school district in Colorado gives me the necessary lens to exact needed change at the State level where I hope to bring my experience as an educator to the Education Committee.
-I am honored to have the endorsement of the Colorado Education Association and will work closely with them as we support our teachers and strive to give every child what they need to succeed.
-Social and Environmental Justice
-Although I have committed my career to advancing social justice through education, I know that there are many tools available to our legislators that can be used to both protect and support those that have been oppressed or marginalized.
+I am honored to have the endorsement of the Colorado Education Association and will work closely with them as we support our teachers and strive to give every child what they need to succeed. ​ Social and Environmental Justice Although I have committed my career to advancing social justice through education, I know that there are many tools available to our legislators that can be used to both protect and support those that have been oppressed or marginalized.
 My approach to social justice, from the environment to the criminal justice system, is to limit and monitor the impact on our most vulnerable communities.
 Whether it's stopping the disenfranchisement of our neighbors or keeping a keen eye on the subtle discriminations beneath the surface, I will use my background as a civil rights attorney to prevent the harmful and dangerous ramifications of bad policy while making sure that we do not penalize people for their identities or experiences.
 We have a duty to support each other, and this means we must invest in early intervention and mental health supports and reform our criminal justice system.
 We need to pay special attention to building community that looks out for one another, and we must regularly assess how our decisions are impacting others.
-These are important values that I will bring to the Colorado legislature.
-Living Wages, Affordable Housing, and Affordable Healthcare
-As the cost of living continues to rise in Colorado, I want to make sure that our residents do not just survive, but that they have the opportunity to thrive.
+These are important values that I will bring to the Colorado legislature. ​ Living Wages, Affordable Housing, and Affordable Healthcare As the cost of living continues to rise in Colorado, I want to make sure that our residents do not just survive, but that they have the opportunity to thrive.
 This means I am ready to fight for living wages that allow families to live comfortably, free of the burdens of outrageous medical debt or out of control housing prices.
 I am committed to investing in affordable housing to sustain our communities and end the displacement of our long-time residents, particularly those of color.
 The high costs of health care have sent far too many Coloradans into bankruptcy, and because of that, I will work to ensure access to quality, affordable healthcare for all.
 We need a legislator with a strong understanding of the needs in our communities, and I will fight to make your needs heard and prioritized.
 As the Bell Policy concluded in a 2018 study, "We also discover Colorado has made modest progress over the past two decades increasing middle class representation among Hispanic families, while experiencing retrenchment among black families.
-The education and occupation gaps have widened between the state’s lower-, middle-, and upper-income classes, although family income inequality has remained fairly constant over time." It's past time for us to re-invest in the "vibrancy of Colorado's middle class families."
+The education and occupation gaps have widened between the state’s lower-, middle-, and upper-income classes, although family income inequality has remained fairly constant over time." It's past time for us to re-invest in the "vibrancy of Colorado's middle class families." HOME PRIORITIES LEGISLATION HOUSE DISTRICT 7 GET INVOLVED More Use tab to navigate through the menu items.
+BACON FOR COLORADO 4860 CHAMBERS RD BOX 53 DENVER, CO 80239 720.593.9618 BACONFORCOLORADO@GMAIL.COM © # PAID FOR BY BACON FOR COLORADO bottom of page

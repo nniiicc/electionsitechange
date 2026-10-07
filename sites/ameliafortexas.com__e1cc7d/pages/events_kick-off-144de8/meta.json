@@ -1,7 +1,11 @@
 {
  "description": "Join Amelia as she kicks off her run for State House District 55.",
  "final_url": "https://www.ameliafortexas.com/events/kick-off",
- "paid_for_by": "paid for by the Amelia for Texas Campaign \u00a9 2026 Amelia for Texas info@ameliafortexas",
- "title": "Kick Off \u2014 Amelia for Texas",
- "years_mentioned": []
+ "fingerprint": "56b8b8637e8f7643bc97f1741ef01cd0b57d32a8",
+ "format": 3,
+ "paid_for_by": "paid for by the Amelia for Texas Campaign © # Amelia for Texas info@ameliafortexas",
+ "title": "Kick Off — Amelia for Texas",
+ "years_mentioned": [
+  "2025"
+ ]
 }

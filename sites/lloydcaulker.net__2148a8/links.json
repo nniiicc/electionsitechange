@@ -1,16 +1,66 @@
 [
-"http://facebook.com/wix",
-"http://instagram.com/wix",
-"http://linkedin.com/in/dr-lloyd-caulker-05837a5",
-"http://youtube.com/user/wixmypage",
-"https://en.wikipedia.org/wiki/2026_Florida_House_of_Representatives_election",
-"https://facebook.com/lcaulker",
-"https://linkedin.com/company/wix-com",
-"https://linkedin.com/in/lloyd-caulker-bba-mcsa-05837a5",
-"https://lloydcaulker.net/",
-"https://lloydcaulker.net/about-5",
-"https://lloydcaulker.net/bagsaverplus",
-"https://lloydcaulker.net/meet-lloyd",
-"https://lloydcaulker.net/platform",
-"https://youtube.com/@lloydcaulker"
+{
+"text": "ABOUT",
+"href": "https://www.lloydcaulker.net/about-5"
+},
+{
+"text": "Connect Lloyd on Linkedin",
+"href": "http://www.linkedin.com/in/dr-lloyd-caulker-05837a5"
+},
+{
+"text": "Democrat Angie Nixon announced a run for U.S. Senate, opening up new political conversations across Jacksonville and North Florida.",
+"href": "https://en.wikipedia.org/wiki/2026_Florida_House_of_Representatives_election"
+},
+{
+"text": "District 15 moving foward with Bagsaver+ - building cleaner communities, smarter recycling, and a stronger future for the next generation.",
+"href": "https://www.lloydcaulker.net/bagsaverplus"
+},
+{
+"text": "Dr. Lloyd Caulker",
+"href": "https://www.lloydcaulker.net"
+},
+{
+"text": "Florida House of Representative District 15",
+"href": "https://www.lloydcaulker.net"
+},
+{
+"text": "HOME",
+"href": "https://www.lloydcaulker.net"
+},
+{
+"text": "Like Lloyd on Facebook",
+"href": "https://www.facebook.com/lcaulker"
+},
+{
+"text": "MEET LLOYD",
+"href": "https://www.lloydcaulker.net/meet-lloyd"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.lloydcaulker.net/platform"
+},
+{
+"text": "See Lloyd on Instagram",
+"href": "https://www.linkedin.com/in/lloyd-caulker-bba-mcsa-05837a5/"
+},
+{
+"text": "Watch Lloyd on Youtube",
+"href": "https://www.youtube.com/@lloydcaulker"
+},
+{
+"text": "[image: Black Facebook Icon]",
+"href": "http://www.facebook.com/wix"
+},
+{
+"text": "[image: Black Instagram Icon]",
+"href": "http://instagram.com/wix"
+},
+{
+"text": "[image: Black LinkedIn Icon]",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "[image: Black YouTube Icon]",
+"href": "http://www.youtube.com/user/wixmypage"
+}
 ]

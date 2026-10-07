@@ -1,17 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=The+Hub+-+GOTV%2C+Arkansas%21&dates=20261020T220000Z%2F20261020T230000Z",
-"http://instagram.com/smith_for_ar_13",
-"https://facebook.com/profile.php?id=61585604871018",
-"https://mobilize.us/arkdems/event/862369",
-"https://smithforar.org/",
-"https://smithforar.org/about",
-"https://smithforar.org/cart",
-"https://smithforar.org/donate",
-"https://smithforar.org/events",
-"https://smithforar.org/events/election-day",
-"https://smithforar.org/events/hob-nob-joint-business-after-hours",
-"https://smithforar.org/events/the-hub-gotv-arkansas?format=ical",
-"https://smithforar.org/get-involved",
-"https://smithforar.org/home",
-"https://smithforar.org/store"
+{
+"text": "0",
+"href": "https://smithforar.org/cart"
+},
+{
+"text": "About",
+"href": "https://smithforar.org/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://smithforar.org/events"
+},
+{
+"text": "Donate",
+"href": "https://smithforar.org/donate"
+},
+{
+"text": "Events",
+"href": "https://smithforar.org/events"
+},
+{
+"text": "Get Involved",
+"href": "https://smithforar.org/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=The+Hub+-+GOTV%2C+Arkansas%21&dates=20261020T220000Z%2F20261020T230000Z"
+},
+{
+"text": "Home",
+"href": "https://smithforar.org/"
+},
+{
+"text": "ICS",
+"href": "https://smithforar.org/events/the-hub-gotv-arkansas?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://smithforar.org/home"
+},
+{
+"text": "Next Next November 3 Election Day",
+"href": "https://smithforar.org/events/election-day"
+},
+{
+"text": "Previous Previous October 15 Hob Nob - Joint Business After Hours",
+"href": "https://smithforar.org/events/hob-nob-joint-business-after-hours"
+},
+{
+"text": "Register",
+"href": "https://www.mobilize.us/arkdems/event/862369/"
+},
+{
+"text": "Store",
+"href": "https://smithforar.org/store"
+},
+{
+"text": "[image: Mitchell Smith for AR 13]",
+"href": "https://smithforar.org/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/smith_for_ar_13"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585604871018"
+}
 ]

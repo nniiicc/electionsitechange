@@ -1,10 +1,38 @@
 [
-"http://aboutads.info/choices",
-"https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
-"https://edoeb.admin.ch/edoeb/en/home.html",
-"https://facebook.com/Kevinallencolorado",
-"https://kevinallenforsd24.com/",
-"https://kevinallenforsd24.com/privacy-policy",
-"https://oag.state.va.us/consumer-protection/index.php/file-a-complaint",
-"https://secure.anedot.com/kevin-allen-for-sd24/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/kevin-allen-for-sd24/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Kevinallencolorado/"
+},
+{
+"text": "Home",
+"href": "https://kevinallenforsd24.com/"
+},
+{
+"text": "Mail",
+"href": "mailto:info@kevinallenforsd24.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://kevinallenforsd24.com/privacy-policy"
+},
+{
+"text": "[image: Kevin Allen for Colorado Senate District 24]",
+"href": "https://kevinallenforsd24.com/"
+},
+{
+"text": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
+"href": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm"
+},
+{
+"text": "https://www.edoeb.admin.ch/edoeb/en/home.html",
+"href": "https://www.edoeb.admin.ch/edoeb/en/home.html"
+},
+{
+"text": "submit a complaint",
+"href": "https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint"
+}
 ]

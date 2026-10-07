@@ -1,73 +1,406 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=%22Splash+for+Ash%22&dates=20260828T230000Z%2F20260829T010000Z&location=188+Roy+Drive%2C+Madison%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=AshLeigh+for+Alabama+Meet-and-Greet&dates=20260809T223000Z%2F20260810T003000Z&location=609+Beth+Road%2C+New+Market%2C+Alabama%2C+35761%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Baldwin+County+Fair&dates=20260922T220000Z%2F20260923T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Birmingham+Meet-and-Greet&dates=20260711T190000Z%2F20260711T210000Z&location=5145+7th+Court+South%2C+Birmingham%2C+Alabama%2C+35212%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Christmas+in+July&dates=20260724T220000Z%2F20260725T000000Z&location=102+Melinda+Drive%2C+Madison%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cocktails+by+the+Pool&dates=20261003T210000Z%2F20261003T230000Z&location=24+Bannut+Court+Southwest%2C+Huntsville%2C+Alabama%2C+35824%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Diaper+Drive+%26+Candidate+Meet-and-Greet&dates=20260712T193000Z%2F20260712T213000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Eastern+Shore+Democrats+Meeting&dates=20260924T230000Z%2F20260925T010000Z&location=1150+Fairhope+Avenue%2C+Fairhope%2C+Alabama%2C+36532%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Florence+Meet+and+Greet&dates=20260709T230000Z%2F20260710T010000Z&location=119+South+Court+Street%2C+Florence%2C+AL+35630",
-"http://google.com/calendar/event?action=TEMPLATE&text=IVF+is+on+the+Ballot%3A+An+Evening+of+Stories+Awareness%2C+and+Action&dates=20260921T230000Z%2F20260922T020000Z&location=208+Dauphin+Street%2C+Mobile%2C+Alabama%2C+36602%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=IVF+is+on+the+Ballot%3A+An+Evening+of+Stories+Awareness%2C+and+Action+&dates=20261005T223000Z%2F20261006T013000Z&location=208+Dauphin+Street%2C+Mobile%2C+Alabama%2C+36602%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Mahjong+for+the+Matriarchy&dates=20260731T230000Z%2F20260801T020000Z&location=Green+Trails+Clubhouse+2920+Henry+Pass%2C++Hoover%2C+Alabama+35244+",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet-and-Greet&dates=20260823T190000Z%2F20260823T210000Z&location=13126+Henderson+Lane%2C+Madison%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rally+for+Alabama-+Doug+Jones&dates=20260923T113000Z%2F20260924T033000Z",
-"http://maps.google.com/?q=102+Melinda+Drive+Madison+United+States",
-"http://maps.google.com/?q=1150+Fairhope+Avenue+Fairhope%2C+Alabama%2C+36532+United+States",
-"http://maps.google.com/?q=119+South+Court+Street+Florence%2C+AL+35630",
-"http://maps.google.com/?q=13126+Henderson+Lane+Madison+United+States",
-"http://maps.google.com/?q=188+Roy+Drive+Madison+United+States",
-"http://maps.google.com/?q=208+Dauphin+Street+Mobile%2C+Alabama%2C+36602+United+States",
-"http://maps.google.com/?q=24+Bannut+Court+Southwest+Huntsville%2C+Alabama%2C+35824+United+States",
-"http://maps.google.com/?q=5145+7th+Court+South+Birmingham%2C+Alabama%2C+35212+United+States",
-"http://maps.google.com/?q=609+Beth+Road+New+Market%2C+Alabama%2C+35761+United+States",
-"http://maps.google.com/?q=Green+Trails+Clubhouse+2920+Henry+Pass++Hoover%2C+Alabama+35244",
-"https://ashleighdunhamforalabama.com/",
-"https://ashleighdunhamforalabama.com/about",
-"https://ashleighdunhamforalabama.com/cart",
-"https://ashleighdunhamforalabama.com/contact",
-"https://ashleighdunhamforalabama.com/endorsements",
-"https://ashleighdunhamforalabama.com/events",
-"https://ashleighdunhamforalabama.com/events/ashleigh-for-alabama-meet-and-greet",
-"https://ashleighdunhamforalabama.com/events/ashleigh-for-alabama-meet-and-greet?format=ical",
-"https://ashleighdunhamforalabama.com/events/baldwin-county-fair",
-"https://ashleighdunhamforalabama.com/events/baldwin-county-fair?format=ical",
-"https://ashleighdunhamforalabama.com/events/christmas-in-july",
-"https://ashleighdunhamforalabama.com/events/christmas-in-july?format=ical",
-"https://ashleighdunhamforalabama.com/events/cocktails-by-the-pool",
-"https://ashleighdunhamforalabama.com/events/cocktails-by-the-pool?format=ical",
-"https://ashleighdunhamforalabama.com/events/diaper-drive-candidate-meet-and-greet",
-"https://ashleighdunhamforalabama.com/events/diaper-drive-candidate-meet-and-greet?format=ical",
-"https://ashleighdunhamforalabama.com/events/eastern-shore-democrats-meeting",
-"https://ashleighdunhamforalabama.com/events/eastern-shore-democrats-meeting?format=ical",
-"https://ashleighdunhamforalabama.com/events/event-five-fknp5-ych4h-2wkjg",
-"https://ashleighdunhamforalabama.com/events/event-five-fknp5-ych4h-2wkjg?format=ical",
-"https://ashleighdunhamforalabama.com/events/event-one-rg2bh-mx2wm-hj3jf",
-"https://ashleighdunhamforalabama.com/events/event-one-rg2bh-mx2wm-hj3jf?format=ical",
-"https://ashleighdunhamforalabama.com/events/event-three-mz467-9slf2-xjpjh",
-"https://ashleighdunhamforalabama.com/events/event-three-mz467-9slf2-xjpjh?format=ical",
-"https://ashleighdunhamforalabama.com/events/event-two-w7zrh-s4xbg-6w4mx",
-"https://ashleighdunhamforalabama.com/events/event-two-w7zrh-s4xbg-6w4mx?format=ical",
-"https://ashleighdunhamforalabama.com/events/ivf-is-on-the-ballot-an-evening-of-stories-awareness-and-action",
-"https://ashleighdunhamforalabama.com/events/ivf-is-on-the-ballot-an-evening-of-stories-awareness-and-action-nypag",
-"https://ashleighdunhamforalabama.com/events/ivf-is-on-the-ballot-an-evening-of-stories-awareness-and-action-nypag?format=ical",
-"https://ashleighdunhamforalabama.com/events/ivf-is-on-the-ballot-an-evening-of-stories-awareness-and-action?format=ical",
-"https://ashleighdunhamforalabama.com/events/rally-for-alabama-doug-jones",
-"https://ashleighdunhamforalabama.com/events/rally-for-alabama-doug-jones?format=ical",
-"https://ashleighdunhamforalabama.com/events/splash-for-ash",
-"https://ashleighdunhamforalabama.com/events/splash-for-ash?format=ical",
-"https://ashleighdunhamforalabama.com/news",
-"https://ashleighforalsupremecourt.printful.me/",
-"https://ashtynkennedyforal.com/",
-"https://donate.campaigndeputy.com/donate/merriforashleigha",
-"https://donate.campaigndeputy.com/donate/splashforash",
-"https://donate.campaigndeputy.com/donate/website-ashleigh-may",
-"https://facebook.com/profile.php?id=61576377703240",
-"https://instagram.com/ashleighforalabama",
-"https://mandieforalabama.com/",
-"https://mcneilforpsc2.com/",
-"https://mobilize.us/dougforalabama/event/1004558",
-"https://tiktok.com/@ashleigh_dunham?lang=en",
-"https://voteviolet.com/"
+{
+"text": "\"Splash for Ash\"",
+"href": "https://www.ashleighdunhamforalabama.com/events/splash-for-ash"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=102+melinda+drive+madison+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1150+fairhope+avenue+fairhope%2C+alabama%2C+36532+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=119+south+court+street+florence%2C+al+35630+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=13126+henderson+lane+madison+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=188+roy+drive+madison+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=208+dauphin+street+mobile%2C+alabama%2C+36602+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=24+bannut+court+southwest+huntsville%2C+alabama%2C+35824+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5145+7th+court+south+birmingham%2C+alabama%2C+35212+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=609+beth+road+new+market%2C+alabama%2C+35761+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=green+trails+clubhouse+2920+henry+pass++hoover%2C+alabama+35244++"
+},
+{
+"text": "0",
+"href": "https://www.ashleighdunhamforalabama.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ashleighdunhamforalabama.com/about"
+},
+{
+"text": "AshLeigh Mayer Dunham",
+"href": "https://www.ashleighdunhamforalabama.com/"
+},
+{
+"text": "AshLeigh for Alabama Meet-and-Greet",
+"href": "https://www.ashleighdunhamforalabama.com/events/ashleigh-for-alabama-meet-and-greet"
+},
+{
+"text": "Ashtyn Kennedy",
+"href": "https://ashtynkennedyforal.com/"
+},
+{
+"text": "Baldwin County Fair",
+"href": "https://www.ashleighdunhamforalabama.com/events/baldwin-county-fair"
+},
+{
+"text": "Birmingham Meet-and-Greet",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-two-w7zrh-s4xbg-6w4mx"
+},
+{
+"text": "Campaign Merch",
+"href": "https://ashleighforalsupremecourt.printful.me/"
+},
+{
+"text": "Christmas in July",
+"href": "https://www.ashleighdunhamforalabama.com/events/christmas-in-july"
+},
+{
+"text": "Cocktails by the Pool",
+"href": "https://www.ashleighdunhamforalabama.com/events/cocktails-by-the-pool"
+},
+{
+"text": "Contact",
+"href": "https://www.ashleighdunhamforalabama.com/contact"
+},
+{
+"text": "Diaper Drive & Candidate Meet-and-Greet",
+"href": "https://www.ashleighdunhamforalabama.com/events/diaper-drive-candidate-meet-and-greet"
+},
+{
+"text": "Donate",
+"href": "https://donate.campaigndeputy.com/donate/website-ashleigh-may"
+},
+{
+"text": "Eastern Shore Democrats Meeting",
+"href": "https://www.ashleighdunhamforalabama.com/events/eastern-shore-democrats-meeting"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ashleighdunhamforalabama.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.ashleighdunhamforalabama.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61576377703240"
+},
+{
+"text": "Florence Meet and Greet",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-one-rg2bh-mx2wm-hj3jf"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=%22Splash+for+Ash%22&dates=20260828T230000Z%2F20260829T010000Z&location=188+Roy+Drive%2C+Madison%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=AshLeigh+for+Alabama+Meet-and-Greet&dates=20260809T223000Z%2F20260810T003000Z&location=609+Beth+Road%2C+New+Market%2C+Alabama%2C+35761%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Baldwin+County+Fair&dates=20260922T220000Z%2F20260923T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Birmingham+Meet-and-Greet&dates=20260711T190000Z%2F20260711T210000Z&location=5145+7th+Court+South%2C+Birmingham%2C+Alabama%2C+35212%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Christmas+in+July&dates=20260724T220000Z%2F20260725T000000Z&location=102+Melinda+Drive%2C+Madison%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cocktails+by+the+Pool&dates=20261003T210000Z%2F20261003T230000Z&location=24+Bannut+Court+Southwest%2C+Huntsville%2C+Alabama%2C+35824%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Diaper+Drive+%26+Candidate+Meet-and-Greet&dates=20260712T193000Z%2F20260712T213000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Eastern+Shore+Democrats+Meeting&dates=20260924T230000Z%2F20260925T010000Z&location=1150+Fairhope+Avenue%2C+Fairhope%2C+Alabama%2C+36532%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Florence+Meet+and+Greet&dates=20260709T230000Z%2F20260710T010000Z&location=119+South+Court+Street%2C+Florence%2C+AL+35630"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=IVF+is+on+the+Ballot%3A+An+Evening+of+Stories+Awareness%2C+and+Action&dates=20260921T230000Z%2F20260922T020000Z&location=208+Dauphin+Street%2C+Mobile%2C+Alabama%2C+36602%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=IVF+is+on+the+Ballot%3A+An+Evening+of+Stories+Awareness%2C+and+Action+&dates=20261005T223000Z%2F20261006T013000Z&location=208+Dauphin+Street%2C+Mobile%2C+Alabama%2C+36602%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Mahjong+for+the+Matriarchy&dates=20260731T230000Z%2F20260801T020000Z&location=Green+Trails+Clubhouse+2920+Henry+Pass%2C++Hoover%2C+Alabama+35244+"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet-and-Greet&dates=20260823T190000Z%2F20260823T210000Z&location=13126+Henderson+Lane%2C+Madison%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rally+for+Alabama-+Doug+Jones&dates=20260923T113000Z%2F20260924T033000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/ashleigh-for-alabama-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/baldwin-county-fair?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/christmas-in-july?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/cocktails-by-the-pool?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/diaper-drive-candidate-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/eastern-shore-democrats-meeting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-five-fknp5-ych4h-2wkjg?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-one-rg2bh-mx2wm-hj3jf?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-three-mz467-9slf2-xjpjh?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-two-w7zrh-s4xbg-6w4mx?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/ivf-is-on-the-ballot-an-evening-of-stories-awareness-and-action-nypag?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/ivf-is-on-the-ballot-an-evening-of-stories-awareness-and-action?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/rally-for-alabama-doug-jones?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/splash-for-ash?format=ical"
+},
+{
+"text": "IVF is on the Ballot: An Evening of Stories Awareness, and Action",
+"href": "https://www.ashleighdunhamforalabama.com/events/ivf-is-on-the-ballot-an-evening-of-stories-awareness-and-action"
+},
+{
+"text": "IVF is on the Ballot: An Evening of Stories Awareness, and Action",
+"href": "https://www.ashleighdunhamforalabama.com/events/ivf-is-on-the-ballot-an-evening-of-stories-awareness-and-action-nypag"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ashleighforalabama"
+},
+{
+"text": "Mahjong for the Matriarchy",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-three-mz467-9slf2-xjpjh"
+},
+{
+"text": "Mandie Ledkins",
+"href": "https://mandieforalabama.com/"
+},
+{
+"text": "Meet-and-Greet",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-five-fknp5-ych4h-2wkjg"
+},
+{
+"text": "News",
+"href": "https://www.ashleighdunhamforalabama.com/news"
+},
+{
+"text": "Rally for Alabama- Doug Jones",
+"href": "https://www.ashleighdunhamforalabama.com/events/rally-for-alabama-doug-jones"
+},
+{
+"text": "Sheila McNeil",
+"href": "https://mcneilforpsc2.com/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@ashleigh_dunham?lang=en"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/ashleigh-for-alabama-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/baldwin-county-fair"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/christmas-in-july"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/cocktails-by-the-pool"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/diaper-drive-candidate-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/eastern-shore-democrats-meeting"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-five-fknp5-ych4h-2wkjg"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-one-rg2bh-mx2wm-hj3jf"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-three-mz467-9slf2-xjpjh"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-two-w7zrh-s4xbg-6w4mx"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/ivf-is-on-the-ballot-an-evening-of-stories-awareness-and-action"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/ivf-is-on-the-ballot-an-evening-of-stories-awareness-and-action-nypag"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/rally-for-alabama-doug-jones"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/splash-for-ash"
+},
+{
+"text": "Violet Edwards",
+"href": "https://www.voteviolet.com/"
+},
+{
+"text": "[image: \"Splash for Ash\"]",
+"href": "https://www.ashleighdunhamforalabama.com/events/splash-for-ash"
+},
+{
+"text": "[image: AshLeigh for Alabama Meet-and-Greet]",
+"href": "https://www.ashleighdunhamforalabama.com/events/ashleigh-for-alabama-meet-and-greet"
+},
+{
+"text": "[image: AshLeigh for Alabama]",
+"href": "https://www.ashleighdunhamforalabama.com/"
+},
+{
+"text": "[image: Baldwin County Fair]",
+"href": "https://www.ashleighdunhamforalabama.com/events/baldwin-county-fair"
+},
+{
+"text": "[image: Birmingham Meet-and-Greet]",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-two-w7zrh-s4xbg-6w4mx"
+},
+{
+"text": "[image: Christmas in July]",
+"href": "https://www.ashleighdunhamforalabama.com/events/christmas-in-july"
+},
+{
+"text": "[image: Cocktails by the Pool]",
+"href": "https://www.ashleighdunhamforalabama.com/events/cocktails-by-the-pool"
+},
+{
+"text": "[image: Diaper Drive & Candidate Meet-and-Greet]",
+"href": "https://www.ashleighdunhamforalabama.com/events/diaper-drive-candidate-meet-and-greet"
+},
+{
+"text": "[image: Eastern Shore Democrats Meeting]",
+"href": "https://www.ashleighdunhamforalabama.com/events/eastern-shore-democrats-meeting"
+},
+{
+"text": "[image: Florence Meet and Greet]",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-one-rg2bh-mx2wm-hj3jf"
+},
+{
+"text": "[image: IVF is on the Ballot: An Evening of Stories Awareness, and Action ]",
+"href": "https://www.ashleighdunhamforalabama.com/events/ivf-is-on-the-ballot-an-evening-of-stories-awareness-and-action-nypag"
+},
+{
+"text": "[image: IVF is on the Ballot: An Evening of Stories Awareness, and Action]",
+"href": "https://www.ashleighdunhamforalabama.com/events/ivf-is-on-the-ballot-an-evening-of-stories-awareness-and-action"
+},
+{
+"text": "[image: Mahjong for the Matriarchy]",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-three-mz467-9slf2-xjpjh"
+},
+{
+"text": "[image: Meet-and-Greet]",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-five-fknp5-ych4h-2wkjg"
+},
+{
+"text": "[image: Rally for Alabama- Doug Jones]",
+"href": "https://www.ashleighdunhamforalabama.com/events/rally-for-alabama-doug-jones"
+},
+{
+"text": "https://donate.campaigndeputy.com/donate/merriforashleigha",
+"href": "https://donate.campaigndeputy.com/donate/merriforashleigha"
+},
+{
+"text": "https://donate.campaigndeputy.com/donate/splashforash",
+"href": "https://donate.campaigndeputy.com/donate/splashforash"
+},
+{
+"text": "https://www.mobilize.us/dougforalabama/event/1004558/",
+"href": "https://www.mobilize.us/dougforalabama/event/1004558/"
+},
+{
+"text": "info@ashleighforalabama.com",
+"href": "mailto:joinus@ashleighforalabama.com"
+}
 ]

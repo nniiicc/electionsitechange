@@ -1,3 +1,3 @@
-Donate to Megan’s Campaign Donate Megan is a grassroots, middle-class candidate.
+0 Skip to Content About Megan Megan's Story Platform Values Get Involved Volunteer Contact Calendar On the Trail Donate Open Menu Close Menu About Megan Megan's Story Platform Values Get Involved Volunteer Contact Calendar On the Trail Donate Open Menu Close Menu Folder: About Megan Back Megan's Story Platform Values Folder: Get Involved Back Volunteer Contact Calendar On the Trail Donate Donate to Megan’s Campaign Donate Megan is a grassroots, middle-class candidate.
 Every dollar counts!
-Donate via ActBlue
+Donate via ActBlue DONATE PAID FOR BY WINGFIELD FOR CONGRESS © Megan Wingfield for Congress # Site designed and created by sisumarketing.com

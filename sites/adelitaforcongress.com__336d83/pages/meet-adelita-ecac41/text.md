@@ -1,5 +1,4 @@
-Meet Adelita Grijalva
-Mom.
+top of page Donate About Issues Endorsements Volunteer Vote Menu Donate Close Meet Adelita Grijalva Mom.
 Advocate.
 Public Advocate.
 Adelita Grijalva is a lifelong public servant, advocate, and resident of Southern Arizona.
@@ -17,43 +16,35 @@ During her time as a Pima County Supervisor, Adelita developed a reputation for 
 Among her key accomplishments as a Supervisor were starting the county’s first free preschool program for low and middle income families, championing historic investments in affordable housing, and protecting open spaces to ensure that future generations can continue to enjoy the beautiful Sonoran Desert.
 Adelita lives in Tucson with her husband Sol and is a proud mom of three children, Adelina, Raúl and Joaquín.
 She is the proud daughter of Congressman Raúl Grijalva.
-Client Stories
-This is a space to promote the business, its products or its services.
+Client Stories This is a space to promote the business, its products or its services.
 Use this opportunity to help site visitors become more familiar with the business and its offerings.
 Reach out to current and potential clients and customers to build a sense of connection and trust.
-Client: Name
-Explain what makes the business unique.
+Client: Name Explain what makes the business unique.
 Identify the qualities that set it apart from its competitors and describe them, staying true to the brand's authentic voice.
 Add engaging details to catch readers' interest and hold their attention.
-Year: 2035
-Explain what makes the business unique.
+Year: 2035 Explain what makes the business unique.
 Identify the qualities that set it apart from its competitors and describe them, staying true to the brand's authentic voice.
 Add engaging details to catch readers' interest and hold their attention.
-Industry: Finance
-Explain what makes the business unique.
+Industry: Finance Explain what makes the business unique.
 Identify the qualities that set it apart from its competitors and describe them, staying true to the brand's authentic voice.
 Add engaging details to catch readers' interest and hold their attention.
-Client: Name
-Explain what makes the business unique.
+Client: Name Explain what makes the business unique.
 Identify the qualities that set it apart from its competitors and describe them, staying true to the brand's authentic voice.
 Add engaging details to catch readers' interest and hold their attention.
-Year: 2035
-Explain what makes the business unique.
+Year: 2035 Explain what makes the business unique.
 Identify the qualities that set it apart from its competitors and describe them, staying true to the brand's authentic voice.
 Add engaging details to catch readers' interest and hold their attention.
-Industry: Finance
-Explain what makes the business unique.
+Industry: Finance Explain what makes the business unique.
 Identify the qualities that set it apart from its competitors and describe them, staying true to the brand's authentic voice.
 Add engaging details to catch readers' interest and hold their attention.
-Client: Name
-Explain what makes the business unique.
+Client: Name Explain what makes the business unique.
 Identify the qualities that set it apart from its competitors and describe them, staying true to the brand's authentic voice.
 Add engaging details to catch readers' interest and hold their attention.
-Year: 2035
-Explain what makes the business unique.
+Year: 2035 Explain what makes the business unique.
 Identify the qualities that set it apart from its competitors and describe them, staying true to the brand's authentic voice.
 Add engaging details to catch readers' interest and hold their attention.
-Industry: Finance
-Explain what makes the business unique.
+Industry: Finance Explain what makes the business unique.
 Identify the qualities that set it apart from its competitors and describe them, staying true to the brand's authentic voice.
 Add engaging details to catch readers' interest and hold their attention.
+La Gente for Grijalva - P.O.
+BOX 129, Tucson, AZ 85702 Email Us Privacy Policy About Volunteer Endorsements Donate PAID FOR BY LA GENTE FOR GRIJALVA Home Home Home bottom of page

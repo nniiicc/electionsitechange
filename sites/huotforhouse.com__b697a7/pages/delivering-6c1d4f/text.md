@@ -1,121 +1,17 @@
-Delivering for our Community
-At a Glance
-John has an extensive record of strengthening our community in Rosemount, Apple Valley, and Eagan through investments in EMS, education, veterans, fraud prevention, and public safety.
-- Created the Minnesota Office of Emergency Medical Services.
-- Secured $30 million to stabilize emergency ambulance services.
-- Returned millions in public investment to Dakota County.
-City, County and State
-- Created the new Minnesota Office of Emergency Medical Services (OEMS) in 2025 to prevent fraud, centralize oversight and efficiency for emergency medical providers across the state.
-- Co-Chaired of the Legislative Task Force on Emergency Medical Services: “Our neighbors deserve quality emergency care when seconds count.” Legislative News and Views, December 8, 2023.
-- My Bill led to $30 million to stabilize ambulance service, particularly in rural Minnesota
-- Innovated a “sprint” program, which launched in January 2026, to get EMTs to the scene even quicker (HF 4738; 2024 Laws, Ch. 122).
+Skip to main content Huot for House Home Why I Serve Issues Endorsements Legislative Profile Delivering for our Community Events News Gallery Volunteer Contact Donate Delivering for our Community At a Glance John has an extensive record of strengthening our community in Rosemount, Apple Valley, and Eagan through investments in EMS, education, veterans, fraud prevention, and public safety.
+Created the Minnesota Office of Emergency Medical Services.
+Secured $30 million to stabilize emergency ambulance services.
+Returned millions in public investment to Dakota County.
+On This Page Community Investment Fighting Fraud Families and Education Veterans Healthier Living Safer Communities City, County and State Created the new Minnesota Office of Emergency Medical Services (OEMS) in 2025 to prevent fraud, centralize oversight and efficiency for emergency medical providers across the state.
+Co-Chaired of the Legislative Task Force on Emergency Medical Services: “Our neighbors deserve quality emergency care when seconds count.” Legislative News and Views, December 8, 2023.
+My Bill led to $30 million to stabilize ambulance service, particularly in rural Minnesota Innovated a “sprint” program, which launched in January 2026, to get EMTs to the scene even quicker (HF 4738; 2024 Laws, Ch.
+122).
 Passed with strong bipartisan support.
-- The task force also uncovered fraud and lax oversight, leading to the creation of the new state agency OEMS.
-Dakota County Jail Mental Health Unit
-In March 2025, I attended the ribbon-cutting ceremony for a new unit of the Dakota County Jail, specifically designed to support inmates facing mental health and addiction issues during their incarceration, helping reduce recidivism and improving public safety outcomes for our communities.
+The task force also uncovered fraud and lax oversight, leading to the creation of the new state agency OEMS.
+Dakota County Jail Mental Health Unit In March 2025, I attended the ribbon-cutting ceremony for a new unit of the Dakota County Jail, specifically designed to support inmates facing mental health and addiction issues during their incarceration, helping reduce recidivism and improving public safety outcomes for our communities.
 As one of the first facilities of its kind in the state, this new unit sets a new precedent for other counties to follow.
 This initiative not only benefits the incarcerated, but also strengthens our community.
-- Saved Rosemount taxpayers’ dollars by partnering with local industry to secure land for Rosemount’s new Police and Public Works Campus which opened in Spring 2025.
-- $25 million to renovate the Rosemount Readiness Center to train National Guard and law enforcement
-- Bonded $12 million for Byllesby Dam upgrades
-- Bonded $500,000 for energy efficiency upgrades
-- Returned $145 million of tax-payer dollars to Dakota County (Dakota County Newsletter Fall/Winter 2023).
-- $96 million for Highway 13
-- $31 million for County Services
-- $6 million for Crisis and Recovery Center
-- $5 million for Veterans Memorial Greenway
-- $5 million for Minnesota Greenway
-- $2 million for Thompson County Park
-- $26 million increase for Dakota County in Local County Aid
-- $2.2 million to improve the interchange at Highway 52/County Road 42
-- $2.2 million for Highway 3 roundabout at the Rosemount High School entrance
-- $13.7 million capital investment in the Minnesota Zoo (2025)
-- $18 million for the Minnesota Zoo, including funding for the Tree Top Trail
-- $24 million for construction improvements to the Rosemount Readiness Center
-- $92 million for the University of Minnesota – Twin Cities campus chemistry teaching lab
-Fighting Fraud
-- Created an independent Office of the Inspector General
-- Added 17 inspectors to the Medicaid fraud unit at the AG’s office
-- Upgraded obsolete computer and software systems
-- Passed a 100% tax on fraudsters equal to the amount stolen from Minnesotans
-- Improved training to reduce errors in SNAP administration
-- Amended and enhanced verification and oversight authority at DHS
-- Passed Bill to use data analytics to detect patterns of fraud
-- Banned crypto-currency kiosks used to defraud Minnesotans
-- Amended Retail Theft statute to fight gift card fraud
-Helping Families and Supporting Education
-- Reined in abusive HOA practices and mandated transparency and accountability
-- Increased Homestead Property Tax refund
-- One year relief on vehicle tab renewals
-- Removed barriers to Happy Hour social connections for our Seniors
-- Protected young people from social media harms through age verification and parental controls
-- Banned nudification software, protecting everyone, especially teens and children
-- Approved “Knoxboxes” giving emergency access to schools
-- Vehicles must stop when red lights are flashing on a school bus
-- $51 million for Rosemount-Apple Valley-Eagan ISD 196 for 2024-2025 and 2025-2026 school years
-- Stabilized future education funding indexed to inflation
-- Invested in reading, special education, and literacy programs
-- Created a teacher apprenticeship program
-- Mental health support to hire school counselors, social workers, and nurses
-- Breakfast and lunch for all students
-- 5,200 new Pre-Kindergarten seats statewide
-- $300 million in early learning scholarships (2025)
-- Child Tax Credit benefitting nearly 400,000 children statewide
-- Maintained funding for Great Start and early education workers
-- New career pathway for Emergency Medical Service
-- North Star Promise full scholarships to Minnesota public universities for families earning $80K or less
-- $44 million to make college affordable for more families (2025)
-- Upfront pricing for events, meals, hotels, credit cards, and more
-- Tax cut for Social Security and pension income
-- Property tax deferrals for seniors
-- Increased wages for nursing home workers
-- $12 million toward food security
-- Organized local food and diaper drives
-Veterans
-- Increased pay for Minnesota National Guard members
-- Extended burial rights and honors for military reservists and national guard members
-- Extended education benefits to spouses and children of MIA and POW service members
-- $252 million over two years (2025):
-- Prevent suicides
-- Combat homelessness
-- Connect with needed services
-- Improve social connections
-- Fund food access
-- Increase Veterans’ homes’ staffing
-- Unlocked additional $26 million in federal funding
-- Recognize Hmong veterans
-- $150 million (2023-2024) to improve services, job training, housing, and enlistment incentives
-Healthier Living
-- $9.1 million for Apple Valley to clean PFAS out of drinking water
-- Capped co-pays for inhalers, Epi-Pens, and chronic medical supplies
-- No co-pays on additional screening for mammograms
-- $437,838 investment in Apple Valley Village Health Care Center in 2024
-- 100% clean energy standard by 2040
-- Investments to root out forever chemicals in drinking water and lead pipe replacement
-- Stabilized Hennepin Healthcare HCMC, without raising taxes
-- Created a Hospital Stabilization Reserve Account
-- Green rebates on e-bike and home electrification purchases
-- $9 million for Minnesota’s parks and trails
-- $777 million (2025) for Outdoor Heritage Fund, Clean Water Fund, Parks and Trails Fund, and the Arts and Cultural Heritage Fund
-Safer Communities
-- Appointed to the Task Force to Establish a Statewide Network Funding for Public Safety Radio Communications Infrastructure
-- Created the new state agency Office of Emergency Medical Services setting uniform standards, licensing, and certification for providers while supporting the safety, well-being and training of these extraordinary men and women.
-- Innovated the Sprint program to speed emergency medical services in rural communities, which launched in January 2026, greatly reducing response times in Greater Minnesota
-- Eight new police officers in Eagan (2), Rosemount (3), and Apple Valley (3) thanks to programs funded by the surplus
-- Enhanced penalties for impersonating law enforcement officers
-- My Bill to require the removal of official decals and markings from vehicles sold to the public is now law.
-- Public Safety Aid for Apple Valley: $2,464,493
-- Public Safety Aid for Rosemount: $1,143,588
-- Public Safety Aid for Eagan: $3,023,244
-- Authored Legislation to recruit, train, and retain police, fire and EMS professionals
-- Authored Legislation to invest in body armor for police, fire and EMS professionals
-- Authored Legislation to mentor high school students for careers in law enforcement
-- Criminal background checks on all firearm purchases
-- Extreme Risk Protection Orders, or “Red Flag Laws” to reduce gun violence
-- Elevated “straw” gun purchases to a felony
-- Strengthened criminal consequences for identity theft
-- Specifically criminalized carjacking and retail theft
-- Added gift card fraud to retail theft statute
-- Banned crypto-kiosks used to defraud Minnesotans
-- Mental Health Funding and a new 988 suicide crisis line
-- Adopted safer speed limit recommendations statewide
+Saved Rosemount taxpayers’ dollars by partnering with local industry to secure land for Rosemount’s new Police and Public Works Campus which opened in Spring 2025. $25 million to renovate the Rosemount Readiness Center to train National Guard and law enforcement Bonded $12 million for Byllesby Dam upgrades Bonded $500,000 for energy efficiency upgrades Returned $145 million of tax-payer dollars to Dakota County (Dakota County Newsletter Fall/Winter 2023). $96 million for Highway 13 $31 million for County Services $6 million for Crisis and Recovery Center $5 million for Veterans Memorial Greenway $5 million for Minnesota Greenway $2 million for Thompson County Park $26 million increase for Dakota County in Local County Aid $2.2 million to improve the interchange at Highway 52/County Road 42 $2.2 million for Highway 3 roundabout at the Rosemount High School entrance $13.7 million capital investment in the Minnesota Zoo (2025) $18 million for the Minnesota Zoo, including funding for the Tree Top Trail $24 million for construction improvements to the Rosemount Readiness Center $92 million for the University of Minnesota – Twin Cities campus chemistry teaching lab Fighting Fraud Created an independent Office of the Inspector General Added 17 inspectors to the Medicaid fraud unit at the AG’s office Upgraded obsolete computer and software systems Passed a 100% tax on fraudsters equal to the amount stolen from Minnesotans Improved training to reduce errors in SNAP administration Amended and enhanced verification and oversight authority at DHS Passed Bill to use data analytics to detect patterns of fraud Banned crypto-currency kiosks used to defraud Minnesotans Amended Retail Theft statute to fight gift card fraud Helping Families and Supporting Education Reined in abusive HOA practices and mandated transparency and accountability Increased Homestead Property Tax refund One year relief on vehicle tab renewals Removed barriers to Happy Hour social connections for our Seniors Protected young people from social media harms through age verification and parental controls Banned nudification software, protecting everyone, especially teens and children Approved “Knoxboxes” giving emergency access to schools Vehicles must stop when red lights are flashing on a school bus $51 million for Rosemount-Apple Valley-Eagan ISD 196 for 2024-2025 and 2025-2026 school years Stabilized future education funding indexed to inflation Invested in reading, special education, and literacy programs Created a teacher apprenticeship program Mental health support to hire school counselors, social workers, and nurses Breakfast and lunch for all students 5,200 new Pre-Kindergarten seats statewide $300 million in early learning scholarships (2025) Child Tax Credit benefitting nearly 400,000 children statewide Maintained funding for Great Start and early education workers New career pathway for Emergency Medical Service North Star Promise full scholarships to Minnesota public universities for families earning $80K or less $44 million to make college affordable for more families (2025) Upfront pricing for events, meals, hotels, credit cards, and more Tax cut for Social Security and pension income Property tax deferrals for seniors Increased wages for nursing home workers $# million toward food security Organized local food and diaper drives Veterans Increased pay for Minnesota National Guard members Extended burial rights and honors for military reservists and national guard members Extended education benefits to spouses and children of MIA and POW service members $252 million over two years (2025): Prevent suicides Combat homelessness Connect with needed services Improve social connections Fund food access Increase Veterans’ homes’ staffing Unlocked additional $26 million in federal funding Recognize Hmong veterans $150 million (2023-2024) to improve services, job training, housing, and enlistment incentives Healthier Living $9.1 million for Apple Valley to clean PFAS out of drinking water Capped co-pays for inhalers, Epi-Pens, and chronic medical supplies No co-pays on additional screening for mammograms $437,838 investment in Apple Valley Village Health Care Center in 2024 100% clean energy standard by 2040 Investments to root out forever chemicals in drinking water and lead pipe replacement Stabilized Hennepin Healthcare HCMC, without raising taxes Created a Hospital Stabilization Reserve Account Green rebates on e-bike and home electrification purchases $9 million for Minnesota’s parks and trails $777 million (2025) for Outdoor Heritage Fund, Clean Water Fund, Parks and Trails Fund, and the Arts and Cultural Heritage Fund Safer Communities Appointed to the Task Force to Establish a Statewide Network Funding for Public Safety Radio Communications Infrastructure Created the new state agency Office of Emergency Medical Services setting uniform standards, licensing, and certification for providers while supporting the safety, well-being and training of these extraordinary men and women.
+Innovated the Sprint program to speed emergency medical services in rural communities, which launched in January 2026, greatly reducing response times in Greater Minnesota Eight new police officers in Eagan (2), Rosemount (3), and Apple Valley (3) thanks to programs funded by the surplus Enhanced penalties for impersonating law enforcement officers My Bill to require the removal of official decals and markings from vehicles sold to the public is now law.
+Public Safety Aid for Apple Valley: $2,464,493 Public Safety Aid for Rosemount: $1,143,588 Public Safety Aid for Eagan: $3,023,244 Authored Legislation to recruit, train, and retain police, fire and EMS professionals Authored Legislation to invest in body armor for police, fire and EMS professionals Authored Legislation to mentor high school students for careers in law enforcement Criminal background checks on all firearm purchases Extreme Risk Protection Orders, or “Red Flag Laws” to reduce gun violence Elevated “straw” gun purchases to a felony Strengthened criminal consequences for identity theft Specifically criminalized carjacking and retail theft Added gift card fraud to retail theft statute Banned crypto-kiosks used to defraud Minnesotans Mental Health Funding and a new 988 suicide crisis line Adopted safer speed limit recommendations statewide Prepared and paid for by the Huot for House committee, PO Box 27, Rosemount, MN 55068.
+Back to top

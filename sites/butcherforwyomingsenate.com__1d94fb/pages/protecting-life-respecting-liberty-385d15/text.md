@@ -1,12 +1,11 @@
-I believe unborn human life has inherent worth and deserves protection.
+Skip to content Toggle Navigation Where I Stand Pledge About Updates Support Volunteer Donate Toggle Navigation Where I Stand Pledge About Updates Support Volunteer Donate Previous Next Protecting Life, Respecting Liberty mdbutcher 2026-08-15T08:00:49-06:00 August 14, 2026 | Issues | I believe unborn human life has inherent worth and deserves protection.
 I also believe pregnancy can present extraordinarily difficult circumstances involving a woman’s health and life, developing human life, medical judgment, constitutional rights, and the proper limits of government.
 I don’t believe we have to deny either of those realities to have a serious conversation about reproductive policy.
 I do not promote or celebrate abortion, nor do I believe it is morally inconsequential.
 I want fewer abortions, not more.
 At the same time, reasonable people can disagree over when and how government should intervene—and how we protect unborn life while respecting constitutional limits and accounting for difficult medical circumstances.
 Those are the principles that shape my position.
-The Role of Government
-I believe government has a responsibility to protect developing human life.
+The Role of Government I believe government has a responsibility to protect developing human life.
 I also believe there are constitutional limits to when and how government should intervene in a pregnancy.
 That isn’t an abstract question in Wyoming.
 Our Legislature enacted the Human Heartbeat Act, and our courts are now determining whether it complies with the Wyoming Constitution.
@@ -22,8 +21,7 @@ They are the work of governing.
 If we genuinely want fewer abortions, we should also work to reduce the circumstances that lead women to believe abortion is their only realistic option.
 That means supporting parents and strengthening families, improving access to prenatal and maternal care, supporting adoption and community resources, and creating the conditions in which Wyoming families can build stable lives and raise their children here.
 Protecting life means caring about unborn children, the mothers carrying them, and the families who will raise them.
-The Responsibility of Representation
-For me, this issue comes down to one of the hardest responsibilities of conservative government: protecting life and liberty when legitimate interests come into conflict.
+The Responsibility of Representation For me, this issue comes down to one of the hardest responsibilities of conservative government: protecting life and liberty when legitimate interests come into conflict.
 Conservatives believe government has a duty to protect innocent life.
 We also believe government power has limits.
 I believe both principles apply here.
@@ -35,3 +33,5 @@ I believe unborn life deserves protection.
 I believe women facing difficult pregnancies deserve compassion, dignity, and appropriate medical care.
 And I believe government has both responsibilities and limits.
 All three deserve to be considered with honesty, humility, and careful judgment.
+Share This Story, Choose Your Platform!
+Facebook X Bluesky Reddit LinkedIn WhatsApp Telegram Tumblr Xing Email Copy Link Butcher for Wyoming PO Box 293 Ranchester, WY 82839 JOIN THE CAMPAIGN DONATE Paid for by Butcher for Wyoming | Copyright # | All Rights Reserved Page load link Go to Top

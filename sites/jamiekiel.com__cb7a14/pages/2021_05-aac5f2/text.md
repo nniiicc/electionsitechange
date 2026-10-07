@@ -1,17 +1,15 @@
-Rep.
+Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
+Not a member?
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News $200,000 grant opens door for Southeast Sales’ expansion into West Franklin Industrial Park Rep.
 Jamie Kiel announced this week a $200,000 grant to the City of Red Bay that will improve infrastructure in the West Franklin Regional Industrial Park.
 The Community Development Block (CDBG) grant comes from the Alabama Department of Economic and Community Affairs.
-The funds will be used
-“This is a huge victory for our area,” said Rep.
+The funds will be used Continue Reading Broadband gets green light “This is a huge victory for our area,” said Rep.
 Jamie Kiel, “but we are not through.
 I will continue to work through the legislative process to ensure everyone in Franklin County and House District 18 has access to rural broadband internet.
-In addition, I am grateful for the work, since 2013,
-Restoring the trail and outdoor classroom included clearing trees and debris off the trail, building new benches for the outdoor classroom and building bridges to access the outdoor classroom.
+In addition, I am grateful for the work, since 2013, Continue Reading NW-SCC holds re-opening of nature trail, naming of outdoor classroom Restoring the trail and outdoor classroom included clearing trees and debris off the trail, building new benches for the outdoor classroom and building bridges to access the outdoor classroom.
 The grand reopening included appearances from Rep.
 Jamie Kiel, Rep.
-Proncey Robertson and members of
-After seeing more than its share of strikeouts with efforts to fund rural broadband expansion, Franklin County has hit a home run, thanks in large part to the efforts of Rep.
+Proncey Robertson and members of Continue Reading Kiel announces $3.875 million rural broadband grant for Franklin County After seeing more than its share of strikeouts with efforts to fund rural broadband expansion, Franklin County has hit a home run, thanks in large part to the efforts of Rep.
 Jamie Kiel.
-Kiel announced Wednesday afternoon that the Alabama Department of Economic and Community Affairs has awarded
-On hand to celebrate were representatives from the Franklin County Chamber of Commerce, the Northwest Alabama Resource Conservation & Development Council, and the NW-SCC Jazz Band.
-Also attending was state Representative Jamie Kiel of Russellville, whose district includes the Phil Campbell
+Kiel announced Wednesday afternoon that the Alabama Department of Economic and Community Affairs has awarded Continue Reading Nature trail, outdoor classroom reopen in Alabama town of Phil Campbell, 10 years after devastating tornado On hand to celebrate were representatives from the Franklin County Chamber of Commerce, the Northwest Alabama Resource Conservation & Development Council, and the NW-SCC Jazz Band.
+Also attending was state Representative Jamie Kiel of Russellville, whose district includes the Phil Campbell Continue Reading Recent Posts Governor signs Senate Bill 1, bans ballot harvesting Ballot harvesting crackdown passes Alabama House House approves ballot harvesting, DEI bills Alabama House approves bill criminalizing some absentee ballot assistance Alabama House passes controversial ballot harvesting bill Archives March 2024 January 2024 November 2023 October 2023 September 2023 July 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 November 2022 October 2022 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 March 2019 January 2019 December 2018 November 2018 October 2018 June 2018 May 2018 January 2018 October 2017 August 2017 July 2017 Categories Education In the News Uncategorized Popular Post March 2, 2021 What Alabamians need to know about the latest activity on Goat Hill — March 2, 2021 May 10, 2018 Meet Jamie Kiel January 16, 2019 Kiel assigned to powerful Ways and Means Education Committee September 1, 2019 Development Council presents checks to local festivals March 20, 2024 Governor signs Senate Bill 1, bans ballot harvesting Paid for by Jamie Kiel Campaign 14696 Hwy 43, Russellville, AL 35653 info@jamiekiel.com

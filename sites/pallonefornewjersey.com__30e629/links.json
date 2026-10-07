@@ -1,13 +1,58 @@
 [
-"http://linkedin.com/company/pallone-for-new-jersey",
-"https://facebook.com/PalloneForNJ",
-"https://pallonefornewjersey.com/",
-"https://pallonefornewjersey.com/about",
-"https://pallonefornewjersey.com/contact",
-"https://pallonefornewjersey.com/node/24",
-"https://pallonefornewjersey.com/node/25",
-"https://pallonefornewjersey.com/node/26",
-"https://pallonefornewjersey.com/volunteer",
-"https://secure.actblue.com/contribute/page/pallone4congress",
-"https://twitter.com/pallonefornj"
+{
+"text": "About Frank",
+"href": "https://www.pallonefornewjersey.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.pallonefornewjersey.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/pallone4congress"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/PalloneForNJ"
+},
+{
+"text": "Health Care as a Right",
+"href": "https://www.pallonefornewjersey.com/node/24"
+},
+{
+"text": "Home",
+"href": "https://www.pallonefornewjersey.com/"
+},
+{
+"text": "Join the Team",
+"href": "https://www.pallonefornewjersey.com/volunteer"
+},
+{
+"text": "LinkedIn",
+"href": "http://www.linkedin.com/company/pallone-for-new-jersey"
+},
+{
+"text": "Protecting our Environment",
+"href": "https://www.pallonefornewjersey.com/node/25"
+},
+{
+"text": "Read more",
+"href": "https://www.pallonefornewjersey.com/about"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/pallonefornj"
+},
+{
+"text": "Volunteer",
+"href": "https://www.pallonefornewjersey.com/volunteer"
+},
+{
+"text": "Working Hard for New Jersey's hard working families",
+"href": "https://www.pallonefornewjersey.com/node/26"
+},
+{
+"text": "[image: Home]",
+"href": "https://www.pallonefornewjersey.com/"
+}
 ]

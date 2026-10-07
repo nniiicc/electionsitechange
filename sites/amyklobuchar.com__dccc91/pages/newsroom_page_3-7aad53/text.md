@@ -1,23 +1,12 @@
-“(Schierer) knows what it takes to hammer out results by bringing together the private sector, the public sector and the people — because that’s what he did as mayor.”
-May 29, 2026
-Minnesota Reformer
-Running mate
-MPR News
-“Ben Schierer hasn’t just talked about how to create opportunities in Minnesota — he’s actually done it.”
-May 4, 2026
-KAXE
-Anti-fraud plan
-“When it comes to running our state, I believe we need discipline, growth and accountability.”
-May 3, 2026
-The Minnesota Star Tribune
-“I don’t like the status quo, I wouldn’t be running for governor if I wanted to have things remain the same.”
-InForum
-“To those convicted of fraud who rebrand under a new name or try to sneak in the side door: That door will be locked.”
-KSTP
-“Create a ‘do not pay’ database that would automatically block anyone with a proven history of fraud from getting state grants and contracts.”
-WCCO
-“You are right to be angry about the fraud.
-It is unacceptable and it must end.”
-February 8, 2026
-Accountability
-“Klobuchar’s experience as the former Hennepin County Attorney will help her tackle the sprawling fraud crisis in Minnesota’s social services programs.”
+Meet Amy Meet Ben Priorities Lower Costs for Minnesotans Make Government Accountable and Root out Fraud Prepare Minnesota’s Workforce for the Future Expand Minnesota’s Rural and Agricultural Economy Support Conservation and Outdoor Recreation Newsroom Lawn Signs Store Get Involved Donate Meet Amy Meet Ben Priorities Newsroom Lawn Signs Store Get Involved Donate Newsroom Follow the latest plans, endorsements, and moments from Amy and Ben’s campaign across Minnesota.
+Klobuchar picks former Fergus Falls Mayor Ben Schierer as running mate May 29, 2026 Minnesota Reformer Running mate “(Schierer) knows what it takes to hammer out results by bringing together the private sector, the public sector and the people — because that’s what he did as mayor.” Klobuchar picks former Fergus Falls Mayor Ben Schierer as running mate Klobuchar picks a running mate as political party conventions get underway May 29, 2026 MPR News Running mate “Ben Schierer hasn’t just talked about how to create opportunities in Minnesota — he’s actually done it.” Klobuchar picks a running mate as political party conventions get underway Sen.
+Amy Klobuchar seeks clean break from Walz, releases anti-fraud plan May 4, 2026 KAXE Anti-fraud plan “When it comes to running our state, I believe we need discipline, growth and accountability.” Sen.
+Amy Klobuchar seeks clean break from Walz, releases anti-fraud plan Amy Klobuchar unveils anti-fraud plan in governor race as she works to distinguish herself from Tim Walz May 3, 2026 The Minnesota Star Tribune Anti-fraud plan “I don’t like the status quo, I wouldn’t be running for governor if I wanted to have things remain the same.” Amy Klobuchar unveils anti-fraud plan in governor race as she works to distinguish herself from Tim Walz Sen.
+Amy Klobuchar outlines anti-fraud plan in first major campaign policy rollout May 3, 2026 InForum Anti-fraud plan “To those convicted of fraud who rebrand under a new name or try to sneak in the side door: That door will be locked.” Sen.
+Amy Klobuchar outlines anti-fraud plan in first major campaign policy rollout Sen.
+Klobuchar unveils plan to combat fraud in Minnesota as part of her gubernatorial campaign May 3, 2026 KSTP Anti-fraud plan “Create a ‘do not pay’ database that would automatically block anyone with a proven history of fraud from getting state grants and contracts.” Sen.
+Klobuchar unveils plan to combat fraud in Minnesota as part of her gubernatorial campaign Klobuchar lays out anti-fraud plan, other priorities if elected governor May 3, 2026 WCCO Anti-fraud plan “You are right to be angry about the fraud.
+It is unacceptable and it must end.” Klobuchar lays out anti-fraud plan, other priorities if elected governor As Republicans shift criticism on fraud to Klobuchar, allies point to her prosecutor past February 8, 2026 The Minnesota Star Tribune Accountability “Klobuchar’s experience as the former Hennepin County Attorney will help her tackle the sprawling fraud crisis in Minnesota’s social services programs.” As Republicans shift criticism on fraud to Klobuchar, allies point to her prosecutor past ← 1 2 3 New stories are added as the campaign continues across Minnesota.
+Media Inquiries Meet Amy Meet Ben Priorities Newsroom Yard Signs Store Get Involved Minnesotans for Klobuchar PO Box 4009 St.
+Paul, MN 55104 [email protected] X (Twitter) YouTube Facebook Instagram Donate Now Get the Facts Careers Privacy Policy Prepared and paid for by Minnesotans for Klobuchar committee, PO Box 4009 St.
+Paul, MN 55104.

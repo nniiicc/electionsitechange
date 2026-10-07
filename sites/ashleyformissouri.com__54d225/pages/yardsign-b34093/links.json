@@ -1,15 +1,54 @@
 [
-"https://ashleyformissouri.com/",
-"https://ashleyformissouri.com/about",
-"https://ashleyformissouri.com/contact",
-"https://ashleyformissouri.com/get-involved",
-"https://ashleyformissouri.com/priorities",
-"https://ashleyformissouri.com/voter-resources",
-"https://facebook.com/AshleyForMissouri",
-"https://instagram.com/ashleyformissouri",
-"https://revisor.mo.gov/main/OneSection.aspx?section=442.404",
-"https://secure.actblue.com/donate/ashleyformissouri",
-"https://secure.actblue.com/donate/ashleyyardsigns",
-"https://tiktok.com/@ashley4mo",
-"https://twitter.com/Ashley4MO"
+{
+"text": "About",
+"href": "https://ashleyformissouri.com/about"
+},
+{
+"text": "Contact",
+"href": "https://ashleyformissouri.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ashleyformissouri"
+},
+{
+"text": "Get Involved",
+"href": "https://ashleyformissouri.com/get-involved"
+},
+{
+"text": "Missouri statute 442.404",
+"href": "https://revisor.mo.gov/main/OneSection.aspx?section=442.404#:~:text=442.404%20Political%20signs,%20homeowners'%20association,removal%20permitted,%20when."
+},
+{
+"text": "Priorities",
+"href": "https://ashleyformissouri.com/priorities"
+},
+{
+"text": "Voter Resources",
+"href": "https://ashleyformissouri.com/voter-resources"
+},
+{
+"text": "[image]",
+"href": "https://ashleyformissouri.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Ashley4MO"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AshleyForMissouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ashleyformissouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ashley4mo"
+},
+{
+"text": "a donation",
+"href": "https://secure.actblue.com/donate/ashleyyardsigns"
+}
 ]

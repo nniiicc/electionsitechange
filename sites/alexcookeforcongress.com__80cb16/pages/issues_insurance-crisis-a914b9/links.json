@@ -1,16 +1,78 @@
 [
-"https://alexcookeforcongress.com/",
-"https://alexcookeforcongress.com/connect",
-"https://alexcookeforcongress.com/district-21",
-"https://alexcookeforcongress.com/get-involved",
-"https://alexcookeforcongress.com/issues",
-"https://alexcookeforcongress.com/meet-alex",
-"https://alexcookeforcongress.com/privacy",
-"https://alexcookeforcongress.com/terms",
-"https://alexcookeforcongress.com/vote",
-"https://congress.gov/member/brian-mast/M001199",
-"https://govtrack.us/congress/bills/117/hr5376",
-"https://govtrack.us/congress/members/brian_mast/412698",
-"https://govtrack.us/congress/votes/115-2017/h256",
-"https://secure.anedot.com/alex-cooke-for-congress/donate"
+{
+"text": "561-320-1698",
+"href": "tel:561-320-1698"
+},
+{
+"text": "Alex@alexcookeforcongress.com",
+"href": "mailto:Alex@alexcookeforcongress.com"
+},
+{
+"text": "Congress.gov",
+"href": "https://www.congress.gov/member/brian-mast/M001199"
+},
+{
+"text": "Contact",
+"href": "https://alexcookeforcongress.com/connect"
+},
+{
+"text": "District 21",
+"href": "https://alexcookeforcongress.com/district-21"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/alex-cooke-for-congress/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://alexcookeforcongress.com/get-involved"
+},
+{
+"text": "GovTrack",
+"href": "https://www.govtrack.us/congress/members/brian_mast/412698"
+},
+{
+"text": "H.R. 1628",
+"href": "https://www.govtrack.us/congress/votes/115-2017/h256"
+},
+{
+"text": "H.R. 5376",
+"href": "https://www.govtrack.us/congress/bills/117/hr5376"
+},
+{
+"text": "Issues",
+"href": "https://alexcookeforcongress.com/issues"
+},
+{
+"text": "Meet Alex",
+"href": "https://alexcookeforcongress.com/meet-alex"
+},
+{
+"text": "Other Issues",
+"href": "https://alexcookeforcongress.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://alexcookeforcongress.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://alexcookeforcongress.com/terms"
+},
+{
+"text": "Vote",
+"href": "https://alexcookeforcongress.com/vote"
+},
+{
+"text": "[image: Alex Cooke for Congress]",
+"href": "https://alexcookeforcongress.com/"
+},
+{
+"text": "alexcookeforcongress.com",
+"href": "https://alexcookeforcongress.com"
+},
+{
+"text": "← All Issues",
+"href": "https://alexcookeforcongress.com/#issues"
+}
 ]

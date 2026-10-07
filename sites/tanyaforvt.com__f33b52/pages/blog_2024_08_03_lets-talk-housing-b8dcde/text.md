@@ -1,5 +1,4 @@
-Let's Talk Housing
-One of the issues that I hear about the most is housing, and understandably so.
+0 Skip to Content Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Let's Talk Housing Housing Aug 3 Written By https://youtu.be/ligxIwtVqaE?si=MFLYZzfQi87x-Fec One of the issues that I hear about the most is housing, and understandably so.
 As a working-class, self-employed person and one of only two renters in the Senate, I experience the lack of affordable housing myself every day and it’s frustrating to often find myself the only person like me in committee rooms and on the Senate floor.
 This housing crisis started decades ago and it can’t be undone in a session.
 No one person can fix this, despite campaign rhetoric we all hear.
@@ -19,3 +18,5 @@ We have to reduce the administrative burden it takes to implement these programs
 No one should have to stay on the phone on hold for hours trying to get into housing for the night.
 What we offer for funding and support is so rigid that it’s almost impossible for unhoused people to determine what they need and get those needs met with dignity.
 We’re doing a lot of the right things, but we need to do them better.
+Previous Previous Primary Win!
+Next Next The Investments We Need for Public Safety Tanya Vyhovsky for Chittenden Central Senate PO Box 8376 Essex VT 05451 Paid for by Tanya V for VT

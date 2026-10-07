@@ -1,12 +1,54 @@
 [
-"https://donate.stripe.com/6oEeVV24h3kIczSfYY",
-"https://estebanfloresforaz.com/",
-"https://estebanfloresforaz.com/About-me",
-"https://estebanfloresforaz.com/Contacts",
-"https://estebanfloresforaz.com/Donate",
-"https://estebanfloresforaz.com/Endorsements-1",
-"https://estebanfloresforaz.com/Issues",
-"https://estebanfloresforaz.com/Public-Forums-Media",
-"https://estebanfloresforaz.com/gallery/lv_0_20260426174054.mp4",
-"https://justfacts.votesmart.org/candidate/key-votes/141336/rosanna-gabaldon?p=5"
+{
+"text": "About me",
+"href": "https://estebanfloresforaz.com/About-me/"
+},
+{
+"text": "Click To Donate Now!",
+"href": "https://donate.stripe.com/6oEeVV24h3kIczSfYY"
+},
+{
+"text": "Click to See Rosannas Voting Record",
+"href": "https://justfacts.votesmart.org/candidate/key-votes/141336/rosanna-gabaldon/?p=5"
+},
+{
+"text": "Contacts",
+"href": "https://estebanfloresforaz.com/Contacts/"
+},
+{
+"text": "Donate",
+"href": "https://estebanfloresforaz.com/Donate/"
+},
+{
+"text": "Donate to the Esteban Flores For Arizona Campaign",
+"href": "https://donate.stripe.com/6oEeVV24h3kIczSfYY"
+},
+{
+"text": "Donate to the Esteban Flores For State Senate Campaign",
+"href": "https://donate.stripe.com/6oEeVV24h3kIczSfYY"
+},
+{
+"text": "Endorsements",
+"href": "https://estebanfloresforaz.com/Endorsements-1/"
+},
+{
+"text": "Home",
+"href": "https://estebanfloresforaz.com/"
+},
+{
+"text": "Issues",
+"href": "https://estebanfloresforaz.com/Issues/"
+},
+{
+"text": "Public Forums & Media",
+"href": "https://estebanfloresforaz.com/Public-Forums-Media/"
+},
+{
+"text": "https://justfacts.votesmart.org/candidate/key-votes/141336/rosanna-gabaldon/?p=5",
+"href": "https://justfacts.votesmart.org/candidate/key-votes/141336/rosanna-gabaldon/?p=5"
+},
+{
+"text": "lv_0_20260426174054.mp4",
+"href": "https://estebanfloresforaz.com/gallery/lv_0_20260426174054.mp4"
+}
 ]

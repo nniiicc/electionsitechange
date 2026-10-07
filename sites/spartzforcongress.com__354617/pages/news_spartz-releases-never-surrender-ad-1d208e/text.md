@@ -1,6 +1,4 @@
-Spartz Releases "Never Surrender" Ad
-March 13, 2024
-Noblesville, IN – This week, the Spartz for Congress campaign released “Never Surrender” ad.
+Skip to content Home About Issues News Volunteer Home About Issues News Volunteer Donate Instagram Facebook Spartz Releases “Never Surrender” Ad Spartz Releases "Never Surrender" Ad March 13, 2024 Noblesville, IN – This week, the Spartz for Congress campaign released “Never Surrender” ad.
 “Our Republic is going through some challenging times, but it’s not the first time and not the last time,” Spartz said.
-“As freedom-loving Americans, we never give up, never give in, and never surrender.
-We must remember all Americans who sacrificed their lives for our freedoms and keep the American dream alive for our children.”
+“As freedom-loving Americans, we never give up , never give in , and never surrender .
+We must remember all Americans who sacrificed their lives for our freedoms and keep the American dream alive for our children.” Spartz will file for reelection Spartz Endorsed by NRA Home About Issues News Volunteer Home About Issues News Volunteer PAID FOR BY VICTORIA SPARTZ FOR CONGRESS Donate Privacy Policy info@spartzforcongress.com Internships Donate Privacy Policy info@spartzforcongress.com Internships PO BOX 505 NOBLESVILLE, IN 46061 Home About Issues Volunteer News Donate PAID FOR BY VICTORIA SPARTZ FOR CONGRESS Privacy Policy info@spartzforcongress.com PO BOX 505 NOBLESVILLE, IN 46061

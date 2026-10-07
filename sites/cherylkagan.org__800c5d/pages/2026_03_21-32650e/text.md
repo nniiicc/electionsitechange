@@ -1,5 +1,5 @@
-March 21, 2026 Maryland Matters By: Danielle J.
+Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up Contribute March 21, 2026 Home 2026 March Day: March 21, 2026 March 21, 2026 In The News A question of church and state dominates Senate debate on charitable organizations bill March 21, 2026 Maryland Matters By: Danielle J.
 Brown Debate delays action on SB 4 as both House and Senate rush to finish work on their bills before ‘crossover’ day Sen.
 Ron Watson (D-Prince George’s) listens Friday as Sen.
-Cheryl …
-Continue Reading
+Cheryl … Continue Reading Home About Services & Resources Updates Email Sign Up By Authority: Citizens Helping Elect Cheryl Kagan (C.H.E.C.K.) Michael Frazier, Chair; Neil Burka, Treasurer. ©# Sen.
+Cheryl Kagan Search Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up (410) 841-3134 Cheryl.Kagan@senate.state.md.us

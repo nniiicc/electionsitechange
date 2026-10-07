@@ -1,4 +1,5 @@
-D34 Newsletter Week 2
-Dear Friends, Governor Brad Little met with Chris Tapp and Senator Ricks to discuss the upcoming Wrongful Conviction Act bill last Friday.
+Skip to content 818-758-4076 office@legit.com 3146 Koontz Lane, California Search Close Home About Issues News Legislation Contact Menu Home About Issues News Legislation Contact Contribute Newsletter D34 Newsletter Week 2 Newsletter / By Doug Dear Friends, Governor Brad Little met with Chris Tapp and Senator Ricks to discuss the upcoming Wrongful Conviction Act bill last Friday.
 Chris told the Governor about some of his experiences in prison and the Governor signaled he is supportive of the bill.
-It was a good meeting and we appreciate Governor Little taking time …
+It was a good meeting and we appreciate Governor Little taking time … D34 Newsletter Week 2 Read More » D34 Newsletter Week 1 Newsletter / By naters Dear Friends, I am humbled and honored to serve as your Idaho State Senator for District 34.
+The 2021 Legislative Session has begun and right out of the gate we have introduced legislation to revise the balance of power delegated to the executive branch during emergencies.
+Much effort has been poured into this work, and … D34 Newsletter Week 1 Read More » Search for: Recent Posts D34 Newsletter Week 2 D34 Newsletter Week 1 Idaho’s 66th Legislative Session Doug Ricks Announcement Press Release Doug’s Announcement Speech for Representative Seat 34A Archives January 2021 December 2020 Categories Bills Campaign Legislation Newsletter Contact Info Rexburg, Idaho 83440 ricksford34@gmail.com (208) 557-9665 Home About Issues News Legislation Contact Menu Home About Issues News Legislation Contact Copyright © # Doug Ricks | All rights reserved | Website created by Nathan Ricks

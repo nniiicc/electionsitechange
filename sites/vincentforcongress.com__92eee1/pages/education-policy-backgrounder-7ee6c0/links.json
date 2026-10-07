@@ -1,37 +1,226 @@
 [
-"http://govtrack.us/",
-"https://aasa.org/resources/resource/one-big-beautiful-bill-act---its-impact-on-k-12-education",
-"https://abcnews4.com/news/local/north-charleston-native-announces-campaign-for-superintendent-of-education-wciv-abc-news-4-9-10-2025",
-"https://aclusc.org/news/ugly-truth-about-school-vouchers",
-"https://act.campaigndeputy.com/vincent4congress",
-"https://facebook.com/vincent4congress",
-"https://fry.house.gov/news/documentsingle.aspx?DocumentID=1029",
-"https://fry.house.gov/news/documentsingle.aspx?DocumentID=895",
-"https://google.com/search?q=TRUSTED+Broadband+Networks+Act&rlz=1C1CHBF_enUS1170US1170&oq=russell+fry+rural+broadband&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigATIHCAYQIRirAtIBCTIyMjE5ajBqN6gCCLACAfEFG5HR_M9RBJ4&sourceid=chrome&ie=UTF-8&mstk=AUtExfBonROdUcGAiCibwIy9OkxMD-aj2sJucn2GimOjC-b67E9k1rpKySbnJ9uTsz2LaQV-as6ZpeCvdq8ZuzLmmDO7MOZrSxRSfC1YwxhB19OZ0wnYwMcqDvnbxaFD0t2_7f_3u-UAliVhyymo2WSzZWCtx-Nt2inuDQ0MgCXcfbR-I88CVusxE6gIEVLx_f7f8d7J3pwjeYUzqQvkt3WCcoWw7A&csui=3&ved=2ahUKEwiE5NSnyZCTAxXc48kDHQcaFXAQgK4QegQIARAB",
-"https://govtrack.us/congress/members/russell_fry/456938",
-"https://https://substack.com/@vincent4congress",
-"https://nea.org/sites/default/files/2025-04/sc-07-rep-fry-r-federal-dollars-fact-sheet.pdf",
-"https://russellfrysc.com/issues",
-"https://scdailygazette.com/2026/01/12/sc-students-booted-from-k-12-voucher-program-spent-64k-the-problem-didnt-repeat-report-says",
-"https://scdailygazette.com/2026/02/19/a-real-trust-problem-senators-question-sc-superintendents-judgment-giving-homeschoolers-vouchers",
-"https://southerneducation.org/in-the-news/sef-applauds-south-carolina-supreme-court-decision-striking-down-private-school-voucher-program",
-"https://store.vincent4congress.org/",
-"https://thestate.com/news/politics-government/article314846431.html",
-"https://tiktok.com/@vincent4congress",
-"https://vincentforcongress.com/",
-"https://vincentforcongress.com/about",
-"https://vincentforcongress.com/donate",
-"https://vincentforcongress.com/endorsements",
-"https://vincentforcongress.com/events",
-"https://vincentforcongress.com/media",
-"https://vincentforcongress.com/news",
-"https://vincentforcongress.com/official-campaign-shop",
-"https://vincentforcongress.com/policy",
-"https://wallethub.com/edu/e/states-with-the-best-schools/5335",
-"https://wbtw.com/news/grand-strand/horry-county-schools-covered-up-toxic-mold-while-students-and-teachers-got-sick-lawsuit-claims",
-"https://wmbfnews.com/2026/02/24/20-horry-county-schools-are-over-capacity-annual-facilities-report-shows",
-"https://wpde.com/news/local/student-poverty-rates-grand-strand-pee-dee-school-districts-education-funding-dashboard-academic-spending-horry-florence-dillon-darlington-georgetown-marion-marlboro-county-south-carolina",
-"https://wright2026sc.com/priorities",
-"https://x.com/Vincent4SC07",
-"https://youtube.com/shorts/O6NqJX53f7w"
+{
+"text": "About",
+"href": "https://www.vincentforcongress.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.vincentforcongress.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.vincentforcongress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.vincentforcongress.com/events"
+},
+{
+"text": "GovTrack.us",
+"href": "http://govtrack.us"
+},
+{
+"text": "Home",
+"href": "https://www.vincentforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.vincentforcongress.com/policy"
+},
+{
+"text": "Media",
+"href": "https://www.vincentforcongress.com/media"
+},
+{
+"text": "News",
+"href": "https://www.vincentforcongress.com/news"
+},
+{
+"text": "Official Store",
+"href": "https://store.vincent4congress.org/"
+},
+{
+"text": "Policies@VincentForCongress.com",
+"href": "mailto:Policies@VincentForCongress.com"
+},
+{
+"text": "STORE",
+"href": "https://www.vincentforcongress.com/official-campaign-shop"
+},
+{
+"text": "TRUSTED Broadband Networks Act",
+"href": "https://www.google.com/search?q=TRUSTED+Broadband+Networks+Act&rlz=1C1CHBF_enUS1170US1170&oq=russell+fry+rural+broadband&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigATIHCAYQIRirAtIBCTIyMjE5ajBqN6gCCLACAfEFG5HR_M9RBJ4&sourceid=chrome&ie=UTF-8&mstk=AUtExfBonROdUcGAiCibwIy9OkxMD-aj2sJucn2GimOjC-b67E9k1rpKySbnJ9uTsz2LaQV-as6ZpeCvdq8ZuzLmmDO7MOZrSxRSfC1YwxhB19OZ0wnYwMcqDvnbxaFD0t2_7f_3u-UAliVhyymo2WSzZWCtx-Nt2inuDQ0MgCXcfbR-I88CVusxE6gIEVLx_f7f8d7J3pwjeYUzqQvkt3WCcoWw7A&csui=3&ved=2ahUKEwiE5NSnyZCTAxXc48kDHQcaFXAQgK4QegQIARAB"
+},
+{
+"text": "Volunteer",
+"href": "https://act.campaigndeputy.com/vincent4congress"
+},
+{
+"text": "[image: John Vincent for Congress in South Carolina's 7th District - SC07]",
+"href": "https://www.vincentforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://abcnews4.com/news/local/north-charleston-native-announces-campaign-for-superintendent-of-education-wciv-abc-news-4-9-10-2025"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/vincent4congress"
+},
+{
+"text": "[no text]",
+"href": "https://fry.house.gov/news/documentsingle.aspx?DocumentID=1029"
+},
+{
+"text": "[no text]",
+"href": "https://fry.house.gov/news/documentsingle.aspx?DocumentID=895"
+},
+{
+"text": "[no text]",
+"href": "https://https://substack.com/@vincent4congress"
+},
+{
+"text": "[no text]",
+"href": "https://russellfrysc.com/issues/"
+},
+{
+"text": "[no text]",
+"href": "https://scdailygazette.com/2026/01/12/sc-students-booted-from-k-12-voucher-program-spent-64k-the-problem-didnt-repeat-report-says/"
+},
+{
+"text": "[no text]",
+"href": "https://scdailygazette.com/2026/02/19/a-real-trust-problem-senators-question-sc-superintendents-judgment-giving-homeschoolers-vouchers/"
+},
+{
+"text": "[no text]",
+"href": "https://southerneducation.org/in-the-news/sef-applauds-south-carolina-supreme-court-decision-striking-down-private-school-voucher-program/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@vincent4congress"
+},
+{
+"text": "[no text]",
+"href": "https://wallethub.com/edu/e/states-with-the-best-schools/5335"
+},
+{
+"text": "[no text]",
+"href": "https://wpde.com/news/local/student-poverty-rates-grand-strand-pee-dee-school-districts-education-funding-dashboard-academic-spending-horry-florence-dillon-darlington-georgetown-marion-marlboro-county-south-carolina"
+},
+{
+"text": "[no text]",
+"href": "https://www.aasa.org/resources/resource/one-big-beautiful-bill-act---its-impact-on-k-12-education"
+},
+{
+"text": "[no text]",
+"href": "https://www.aclusc.org/news/ugly-truth-about-school-vouchers/"
+},
+{
+"text": "[no text]",
+"href": "https://www.govtrack.us/congress/members/russell_fry/456938"
+},
+{
+"text": "[no text]",
+"href": "https://www.nea.org/sites/default/files/2025-04/sc-07-rep-fry-r-federal-dollars-fact-sheet.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.thestate.com/news/politics-government/article314846431.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.wbtw.com/news/grand-strand/horry-county-schools-covered-up-toxic-mold-while-students-and-teachers-got-sick-lawsuit-claims/"
+},
+{
+"text": "[no text]",
+"href": "https://www.wmbfnews.com/2026/02/24/20-horry-county-schools-are-over-capacity-annual-facilities-report-shows/"
+},
+{
+"text": "[no text]",
+"href": "https://www.wright2026sc.com/priorities"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Vincent4SC07"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/shorts/O6NqJX53f7w"
+},
+{
+"text": "https://abcnews4.com/news/local/north-charleston-native-announces-campaign-for-superintendent-of-education-wciv-abc-news-4-9-10-2025",
+"href": "https://abcnews4.com/news/local/north-charleston-native-announces-campaign-for-superintendent-of-education-wciv-abc-news-4-9-10-2025"
+},
+{
+"text": "https://fry.house.gov/news/documentsingle.aspx?DocumentID=1029",
+"href": "https://fry.house.gov/news/documentsingle.aspx?DocumentID=1029"
+},
+{
+"text": "https://fry.house.gov/news/documentsingle.aspx?DocumentID=895",
+"href": "https://fry.house.gov/news/documentsingle.aspx?DocumentID=895"
+},
+{
+"text": "https://russellfrysc.com/issues/",
+"href": "https://russellfrysc.com/issues/"
+},
+{
+"text": "https://scdailygazette.com/2026/01/12/sc-students-booted-from-k-12-voucher-program-spent-64k-the-problem-didnt-repeat-report-says/",
+"href": "https://scdailygazette.com/2026/01/12/sc-students-booted-from-k-12-voucher-program-spent-64k-the-problem-didnt-repeat-report-says/"
+},
+{
+"text": "https://scdailygazette.com/2026/02/19/a-real-trust-problem-senators-question-sc-superintendents-judgment-giving-homeschoolers-vouchers/",
+"href": "https://scdailygazette.com/2026/02/19/a-real-trust-problem-senators-question-sc-superintendents-judgment-giving-homeschoolers-vouchers/"
+},
+{
+"text": "https://southerneducation.org/in-the-news/sef-applauds-south-carolina-supreme-court-decision-striking-down-private-school-voucher-program/",
+"href": "https://southerneducation.org/in-the-news/sef-applauds-south-carolina-supreme-court-decision-striking-down-private-school-voucher-program/"
+},
+{
+"text": "https://wallethub.com/edu/e/states-with-the-best-schools/5335",
+"href": "https://wallethub.com/edu/e/states-with-the-best-schools/5335"
+},
+{
+"text": "https://wpde.com/news/local/student-poverty-rates-grand-strand-pee-dee-school-districts-education-funding-dashboard-academic-spending-horry-florence-dillon-darlington-georgetown-marion-marlboro-county-south-carolina",
+"href": "https://wpde.com/news/local/student-poverty-rates-grand-strand-pee-dee-school-districts-education-funding-dashboard-academic-spending-horry-florence-dillon-darlington-georgetown-marion-marlboro-county-south-carolina"
+},
+{
+"text": "https://www.aasa.org/resources/resource/one-big-beautiful-bill-act---its-impact-on-k-12-education",
+"href": "https://www.aasa.org/resources/resource/one-big-beautiful-bill-act---its-impact-on-k-12-education"
+},
+{
+"text": "https://www.aclusc.org/news/ugly-truth-about-school-vouchers/",
+"href": "https://www.aclusc.org/news/ugly-truth-about-school-vouchers/"
+},
+{
+"text": "https://www.govtrack.us/congress/members/russell_fry/456938",
+"href": "https://www.govtrack.us/congress/members/russell_fry/456938"
+},
+{
+"text": "https://www.nea.org/sites/default/files/2025-04/sc-07-rep-fry-r-federal-dollars-fact-sheet.pdf",
+"href": "https://www.nea.org/sites/default/files/2025-04/sc-07-rep-fry-r-federal-dollars-fact-sheet.pdf"
+},
+{
+"text": "https://www.thestate.com/news/politics-government/article314846431.html",
+"href": "https://www.thestate.com/news/politics-government/article314846431.html"
+},
+{
+"text": "https://www.wbtw.com/news/grand-strand/horry-county-schools-covered-up-toxic-mold-while-students-and-teachers-got-sick-lawsuit-claims/",
+"href": "https://www.wbtw.com/news/grand-strand/horry-county-schools-covered-up-toxic-mold-while-students-and-teachers-got-sick-lawsuit-claims/"
+},
+{
+"text": "https://www.wmbfnews.com/2026/02/24/20-horry-county-schools-are-over-capacity-annual-facilities-report-shows/",
+"href": "https://www.wmbfnews.com/2026/02/24/20-horry-county-schools-are-over-capacity-annual-facilities-report-shows/"
+},
+{
+"text": "https://www.wright2026sc.com/priorities",
+"href": "https://www.wright2026sc.com/priorities"
+},
+{
+"text": "https://youtube.com/shorts/O6NqJX53f7w",
+"href": "https://youtube.com/shorts/O6NqJX53f7w"
+},
+{
+"text": "info@VincentForCongress.com",
+"href": "mailto:info@Vincent4Congress.org"
+}
 ]

@@ -1,4 +1,4 @@
-Rooted in community.
+Skip to content Home Meet James Priorities Endorsements News Get Involved District Donate Rooted in community.
 Driven by service.
 James Malone’s story is one of perseverance, hard work, and heart.
 He grew up in Wyoming, where his family sometimes relied on hunting and fishing to get by.
@@ -13,11 +13,4 @@ He’s guided by a simple principle that when you treat people with respect, you
 When he’s not serving his district, James enjoys spending time outdoors hunting, fishing, or barbecuing with his wife Beverly and their four children.
 He’s a proud dad, a responsible gun owner, and someone who believes integrity and empathy are essential in public life.
 James will focus on practical solutions that strengthen our communities and deliver results for working families.
-- Invest in public schools so every child learns in a safe, well-funded classroom
-- Lower the costs of everyday essentials
-- Support small businesses and good-paying jobs through smart economic growth
-- Strengthen services for seniors, veterans, and first responders
-- Protect Pennsylvania’s natural resources and outdoor traditions
-- Improve access to mental-health care and community safety resources
-- Ensure libraries remain funded and accessible for all
-- Stand up for working people and the building trades
+Invest in public schools so every child learns in a safe, well-funded classroom Lower the costs of everyday essentials Support small businesses and good-paying jobs through smart economic growth Strengthen services for seniors, veterans, and first responders Protect Pennsylvania’s natural resources and outdoor traditions Improve access to mental-health care and community safety resources Ensure libraries remain funded and accessible for all Stand up for working people and the building trades Contact PO Box 5 East Petersburg, PA 17520 campaign@friendsofjamesmalone.org Donate Privacy Policy Follow us Facebook Instagram X Bluesky YouTube Prepared and Paid for by Friends of James Malone Powered by Tech for Campaigns

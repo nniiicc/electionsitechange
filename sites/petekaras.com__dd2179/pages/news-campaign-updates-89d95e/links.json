@@ -1,44 +1,286 @@
 [
-"http://poliengine.com/",
-"https://facebook.com/profile.php?id=61572220574896",
-"https://instagram.com/petekaras_wi_sos",
-"https://petekaras.com/",
-"https://petekaras.com/a-federal-court-just-let-wisconsins-circulator-ban-stand",
-"https://petekaras.com/about-pete",
-"https://petekaras.com/black-voters-league-endorsed-pete-karas",
-"https://petekaras.com/common-school-fund-appeal",
-"https://petekaras.com/contact",
-"https://petekaras.com/data-center-power-lines-bcpl-forests",
-"https://petekaras.com/democrat-moves-to-throw-out-2937-voter-signatures",
-"https://petekaras.com/democrats-try-to-kick-green-party-candidate-off-the-ballot-hes-not-having-it",
-"https://petekaras.com/donate",
-"https://petekaras.com/endorse-pete-karas-for-secretary-of-state",
-"https://petekaras.com/four-parties-back-pete-karas",
-"https://petekaras.com/home",
-"https://petekaras.com/journey-to-independence",
-"https://petekaras.com/karas-calls-for-nonpartisan",
-"https://petekaras.com/karas-launches-badger-grift-and-spend-award",
-"https://petekaras.com/karas-manske-issue-joint-condemnation-of-schroeder-s-bigoted-attack-on-secretary-of-state-candidate",
-"https://petekaras.com/more-than-two-bad-options",
-"https://petekaras.com/news-campaign-updates",
-"https://petekaras.com/pete-karas-amicus-brief-fusion-voting",
-"https://petekaras.com/pete-karas-badass-bill-wisconsin-election-reform",
-"https://petekaras.com/pete-karas-files-for-governor-in-2030",
-"https://petekaras.com/pete-karas-files-year-end-campaign-finance-report",
-"https://petekaras.com/pete-karas-wins-democrats-dirty-trick-collapses",
-"https://petekaras.com/pete-on-no-peasants-the-rundown",
-"https://petekaras.com/platform",
-"https://petekaras.com/real-change-starts-with-independent-voices",
-"https://petekaras.com/store/cart",
-"https://petekaras.com/the-rally-both-parties-hope-you-skip",
-"https://petekaras.com/two-parties-keep-you-from-real-choice",
-"https://petekaras.com/two-party-system-has-had-decades-to-act-on-climate-and-has-failed",
-"https://petekaras.com/two-party-system-is-broken",
-"https://petekaras.com/volunteer",
-"https://petekaras.com/why-sos-race-matters-in-wisconsin",
-"https://petekaras.com/wisconsin-ballot-access-challenge",
-"https://x.com/petekaras?s=21",
-"https://youtube.com/live/44esSIfVzxo?si=xBTOT6mKB62U0O_W",
-"https://youtube.com/live/VQsADuAZnAo?si=zD0aAI3Yj91NV8AR",
-"https://youtube.com/live/tOzX4-SdEjc?si=tH7QCCtNdFKuPJg2"
+{
+"text": "About Pete",
+"href": "https://petekaras.com/about-pete"
+},
+{
+"text": "Contact",
+"href": "https://petekaras.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://petekaras.com/donate"
+},
+{
+"text": "Endorse Pete!",
+"href": "https://petekaras.com/endorse-pete-karas-for-secretary-of-state"
+},
+{
+"text": "Four Parties Back Pete Karas for Wisconsin Secretary of State",
+"href": "https://petekaras.com/four-parties-back-pete-karas"
+},
+{
+"text": "Fusion Voting and Ranked-Choice Both Solve the Same Problem. That's Exactly Why You Can't Have Both.",
+"href": "https://petekaras.com/pete-karas-amicus-brief-fusion-voting"
+},
+{
+"text": "Green Party Candidate Pete Karas Unveils the BADASS Bill to Rewrite Wisconsin's Election Rules",
+"href": "https://petekaras.com/pete-karas-badass-bill-wisconsin-election-reform"
+},
+{
+"text": "Home",
+"href": "https://petekaras.com/home"
+},
+{
+"text": "How the Two Parties Keep You from Having a Real Choice: The Rigged System We Keep Voting Into",
+"href": "https://petekaras.com/two-parties-keep-you-from-real-choice"
+},
+{
+"text": "Karas Calls for Nonpartisan Wisconsin Secretary of State Office",
+"href": "https://petekaras.com/karas-calls-for-nonpartisan"
+},
+{
+"text": "Karas Campaign and Green Party Ask Federal Court to Strike Down Ballot Law That Hits Third Parties Hardest",
+"href": "https://petekaras.com/wisconsin-ballot-access-challenge"
+},
+{
+"text": "Karas Pledges to Keep Data Center Power Lines Out of BCPL Forests",
+"href": "https://petekaras.com/data-center-power-lines-bcpl-forests"
+},
+{
+"text": "Karas, Manske Issue Joint Condemnation of Schroeder's Bigoted Attack on Secretary of State Candidate",
+"href": "https://petekaras.com/karas-manske-issue-joint-condemnation-of-schroeder-s-bigoted-attack-on-secretary-of-state-candidate"
+},
+{
+"text": "Karas: Drop the School Fund Appeal and Put the Money Back",
+"href": "https://petekaras.com/common-school-fund-appeal"
+},
+{
+"text": "News",
+"href": "https://petekaras.com/news-campaign-updates"
+},
+{
+"text": "Pete Karas' Platform",
+"href": "https://petekaras.com/platform"
+},
+{
+"text": "Pete on No Peasants: The Rundown",
+"href": "https://petekaras.com/pete-on-no-peasants-the-rundown"
+},
+{
+"text": "Pete was featured on Green Livestream! (an Illinois Green Party Podcast)",
+"href": "https://www.youtube.com/live/VQsADuAZnAo?si=zD0aAI3Yj91NV8AR"
+},
+{
+"text": "Pete was featured on Talk the Plank! - the US Pirate Party Podcast",
+"href": "https://www.youtube.com/live/tOzX4-SdEjc?si=tH7QCCtNdFKuPJg2"
+},
+{
+"text": "Pete was featured on the U.S. Transhumanist Party Virtual Enlightenment Salon!",
+"href": "https://www.youtube.com/live/44esSIfVzxo?si=xBTOT6mKB62U0O_W"
+},
+{
+"text": "PoliEngine",
+"href": "http://www.poliengine.com"
+},
+{
+"text": "Press Release: A Federal Court Just Let Wisconsin's Circulator Ban Stand.",
+"href": "https://petekaras.com/a-federal-court-just-let-wisconsins-circulator-ban-stand"
+},
+{
+"text": "Press Release: Democrat Moves to Throw Out 2,937 Voter Signatures and Keep Green Candidate Off the Ballot!",
+"href": "https://petekaras.com/democrat-moves-to-throw-out-2937-voter-signatures"
+},
+{
+"text": "Press Release: Democrats Try to Kick Green Party Candidate Off the Ballot. He's Not Having It.",
+"href": "https://petekaras.com/democrats-try-to-kick-green-party-candidate-off-the-ballot-hes-not-having-it"
+},
+{
+"text": "Press Release: Karas Launches “Badger Grift and Spend” Award",
+"href": "https://petekaras.com/karas-launches-badger-grift-and-spend-award"
+},
+{
+"text": "Press Release: Milwaukee Law Firm Hired to Knock Green Party Off Ballot Withdraws Challenge in Defeat",
+"href": "https://petekaras.com/pete-karas-wins-democrats-dirty-trick-collapses"
+},
+{
+"text": "Press Release: Pete Karas Files Year-End Campaign Finance Report",
+"href": "https://petekaras.com/pete-karas-files-year-end-campaign-finance-report"
+},
+{
+"text": "Press Release: Pete Karas Files for Governor in 2030 — Because Apparently the Democrats Need a Reminder of How Democracy Works",
+"href": "https://petekaras.com/pete-karas-files-for-governor-in-2030"
+},
+{
+"text": "Press Release: Two-Party System Has Had Decades to Act on Climate — and Has Failed",
+"href": "https://petekaras.com/two-party-system-has-had-decades-to-act-on-climate-and-has-failed"
+},
+{
+"text": "Real Change Starts with Independent Voices",
+"href": "https://petekaras.com/real-change-starts-with-independent-voices"
+},
+{
+"text": "The Black Voters League of Wisconsin Has Endorsed Pete Karas for Secretary of State",
+"href": "https://petekaras.com/black-voters-league-endorsed-pete-karas"
+},
+{
+"text": "The Rally Both Parties Hope You S",
+"href": "https://petekaras.com/the-rally-both-parties-hope-you-skip"
+},
+{
+"text": "The Two-Party System Is Broken",
+"href": "https://petekaras.com/two-party-system-is-broken"
+},
+{
+"text": "Volunteer",
+"href": "https://petekaras.com/volunteer"
+},
+{
+"text": "Why I’m Not a Democrat or a Republican: Pete Karas’ Journey to Independence",
+"href": "https://petekaras.com/journey-to-independence"
+},
+{
+"text": "Why the Secretary of State Race Matters in Wisconsin",
+"href": "https://petekaras.com/why-sos-race-matters-in-wisconsin"
+},
+{
+"text": "You Deserve More Than 2 Bad Options: Why It’s Time to Think Beyond the Two Parties",
+"href": "https://petekaras.com/more-than-two-bad-options"
+},
+{
+"text": "[image: Pete for Secretary of State]",
+"href": "https://petekaras.com"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/black-voters-league-endorsed-pete-karas"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/common-school-fund-appeal"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/data-center-power-lines-bcpl-forests"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/democrat-moves-to-throw-out-2937-voter-signatures"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/democrats-try-to-kick-green-party-candidate-off-the-ballot-hes-not-having-it"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/four-parties-back-pete-karas"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/journey-to-independence"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/karas-calls-for-nonpartisan"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/karas-launches-badger-grift-and-spend-award"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/karas-manske-issue-joint-condemnation-of-schroeder-s-bigoted-attack-on-secretary-of-state-candidate"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/more-than-two-bad-options"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/pete-karas-amicus-brief-fusion-voting"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/pete-karas-badass-bill-wisconsin-election-reform"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/pete-karas-files-year-end-campaign-finance-report"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/pete-karas-wins-democrats-dirty-trick-collapses"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/pete-on-no-peasants-the-rundown"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/real-change-starts-with-independent-voices"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/the-rally-both-parties-hope-you-skip"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/two-parties-keep-you-from-real-choice"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/two-party-system-has-had-decades-to-act-on-climate-and-has-failed"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/two-party-system-is-broken"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/why-sos-race-matters-in-wisconsin"
+},
+{
+"text": "[image]",
+"href": "https://petekaras.com/wisconsin-ballot-access-challenge"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/live/44esSIfVzxo?si=xBTOT6mKB62U0O_W"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/live/VQsADuAZnAo?si=zD0aAI3Yj91NV8AR"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/live/tOzX4-SdEjc?si=tH7QCCtNdFKuPJg2"
+},
+{
+"text": "[no text]",
+"href": "https://petekaras.com/a-federal-court-just-let-wisconsins-circulator-ban-stand"
+},
+{
+"text": "[no text]",
+"href": "https://petekaras.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61572220574896"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/petekaras_wi_sos/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/petekaras?s=21"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://petekaras.com/store/cart"
+},
+{
+"text": "kip",
+"href": "https://petekaras.com/the-rally-both-parties-hope-you-skip"
+}
 ]

@@ -1,17 +1,4 @@
-Endorsements Awards & Committees
-Agriculture, Energy and Environment, Chairman
-Appropriations on Agriculture, Natural and Economic Resources, Chairman
-Appropriations on Justice and Public Safety, Member
-Education/Higher Education, Member
-Judiciary, Member
-Redistricting and Elections, Member
-Rules and Operations of the Senate, Member
-Select Committee on Nominations, Member
-Agriculture and Forestry Awareness Study Commission, Co-Chair
-Environmental Review Commission, Co-Chair
-Joint Legislative Oversight Committee on Agriculture and Natural and Economic Resources, Member
-Joint Legislative Commission on Governmental Operations, Member
-Joint Legislative Administrative Procedure Oversight Committee, Member
-Copyright © 2024 Citizens to Elect Norman Sanderson - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Senator Sanderson is passionate about what matters to your family!
+Home Meet Norman Issues Endorsements Accomplishments Donate More Home Meet Norman Issues Endorsements Accomplishments Donate Home Meet Norman Issues Endorsements Accomplishments Donate Endorsements Awards & Committees NC GOP Hall of Fame Inductee 2021 NC Sherriff's Association God and Country Christian Alliance Freedom Award 2020 National Rifle Association, A+ Rating NC Press Association William C.
+Lassiter Award for Transparency in Government NC Chamber of Commerce Job Creator Award Pamlico Community College Extraordinary Friendship Award NC Right to Life NC Values Coalition "Champion of the Family" Award FreedomWorks Senate Committees Agriculture, Energy and Environment, Chairman Appropriations on Agriculture, Natural and Economic Resources, Chairman Appropriations on Justice and Public Safety, Member Education/Higher Education, Member Judiciary, Member Redistricting and Elections, Member Rules and Operations of the Senate, Member Select Committee on Nominations, Member Agriculture and Forestry Awareness Study Commission, Co-Chair Environmental Review Commission, Co-Chair Joint Legislative Oversight Committee on Agriculture and Natural and Economic Resources, Member Joint Legislative Commission on Governmental Operations, Member Joint Legislative Administrative Procedure Oversight Committee, Member Copyright © # Citizens to Elect Norman Sanderson - All Rights Reserved.
+Home Meet Norman Issues Endorsements Contact Me Accomplishments Powered by

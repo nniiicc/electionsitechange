@@ -1,18 +1,20 @@
-Meet Mike Vick
-In 2023, I attended the March for Life in Washington D.C. for the first time, joining friends from the Solidarity Party and thousands of activists from across the country.
+0 Skip to Content Meet Mike Meet Gary Volunteer Values Priorities Events PODCAST News Follow Us Our Party Contact CONTRIBUTE!
+Open Menu Close Menu Meet Mike Meet Gary Volunteer Values Priorities Events PODCAST News Follow Us Our Party Contact CONTRIBUTE!
+Open Menu Close Menu Meet Mike Meet Gary Volunteer Values Priorities Events PODCAST News Follow Us Our Party Contact CONTRIBUTE!
+Meet Mike Vick In 2023, I attended the March for Life in Washington D.C. for the first time, joining friends from the Solidarity Party and thousands of activists from across the country.
 My family has lived right here in Illinois since long before I was born.
 Both my paternal grandparents were born in southern Illinois, and later moved to Kankakee.
 I deeply love this state.
 I would like to see working families thrive, and I have the dedicated, on-the-ground activist background to prove it.
-I am the host and executive producer of the podcast Unorthodoxing, a weekly news analysis and interview show, featuring unique political takes on the news of the week and interviews with outside-the-mainstream guests you won’t see on the nightly news.
+I am the host and executive producer of the podcast Unorthodoxing , a weekly news analysis and interview show, featuring unique political takes on the news of the week and interviews with outside-the-mainstream guests you won’t see on the nightly news.
 Unorthodoxing is the talk show where uncommon politics finds common ground.
 Our Substack also features writers from the consistent life ethic movement.
-I am executive advisor to Pastor Chris Butler, senior pastor at Ambassador Church in South Holland, Illinois, co-host of the AND Campaign’s Church Politics podcast, and former director of Christian civic formation for the Center for Christianity and Public Life.
-I also produce the Nuclear Option Podcast, a production of the WeSchool Education Foundation, founded by Pastor Chris and his wife Aziza Butler.
-I served on the national leadership team of the American Solidarity Party from 2024 to 2026 and continue to serve as chair of the Illinois Solidarity Party.
+I am executive advisor to Pastor Chris Butler, senior pastor at Ambassador Church in South Holland, Illinois, co-host of the AND Campaign’s Church Politics podcast , and former director of Christian civic formation for the Center for Christianity and Public Life .
+I also produce the Nuclear Option Podcast , a production of the WeSchool Education Foundation , founded by Pastor Chris and his wife Aziza Butler.
+I served on the national leadership team of the American Solidarity Party from 2024 to 2026 and continue to serve as chair of the Illinois Solidarity Party .
 I previously worked as national development director for ASP.
 In 2024, I was ASP’s endorsed candidate for Congress in Illinois’ second congressional district.
-I serve as editor of the Chicago Civic Update, a weekly publication of Chicago chapter of the AND Campaign, and also serve as a coordinator for the chapter.
+I serve as editor of the Chicago Civic Update , a weekly publication of Chicago chapter of the AND Campaign , and also serve as a coordinator for the chapter.
 AND offers a Biblical framework to engage politics with non-partisan, common-sense education, equipping believers to confront tribalism and promote unity.
 I still serve on the core team of AND’s Chicago chapter.
 I began my career as a journalist, working as a reporter for Catholic San Francisco newspaper, the official newspaper of the Archdiocese of San Francisco.
@@ -63,3 +65,9 @@ I deeply enjoyed this non-partisan, issue-oriented work, and served first as a f
 During the COVID pandemic, I worked from home for CAC as a phone canvasser.
 In 2021, when I had the opportunity to come back to Illinois and join Pastor Chris Butler’s campaign, I jumped at the chance to return to a state I think of as home.
 Now, embarking on this journey as a candidate for governor, I hope to bring both my experience and my passion to every corner of Illinois, showing people a better way to do civic activism and calling on our nation’s highest ideals to chart a better path forward for Illinois families.
+LEARN MORE ABOUT MY RUNNING MATE, GARY PIERCE Join the conversation!
+Send me your comments and questions below!
+Contact Friends of Mike Vick Illinois: (217) 886-8850 National: (202) 525-6336 2501 Chatham Rd #6744 Springfield, IL, 62704 (Address for Physical Mail Only) ©#, Friends of Mike Vick.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website or for purchase from the State Board of Elections, Springfield, Illinois.
+Proceeds from contributions made via this site will be used for the expenses of Mike Vick, candidate for governor of Illinois, and his running mate, Gary Pierce, candidate for lieutenant governor of Illinois.
+VoteVickUSA.com Design by Inscape .

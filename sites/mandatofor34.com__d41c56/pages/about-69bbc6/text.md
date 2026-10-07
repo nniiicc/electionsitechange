@@ -1,7 +1,5 @@
-top of page
-BRANDI'S
-STORY
-Born and raised in Greater New Haven, I am the granddaughter of Italian American immigrants and the oldest of eight children from a working-class family.
+top of page HOME ABOUT PRIORITIES GET INVOLVED 2026 ENDORSEMENTS More Use tab to navigate through the menu items.
+BRANDI'S STORY Born and raised in Greater New Haven, I am the granddaughter of Italian American immigrants and the oldest of eight children from a working-class family.
 I grew up watching the people I love work hard to build stable, meaningful lives here in Connecticut.
 That experience shaped my belief in collaboration, resilience, and the idea that we move forward when we work together.
 For more than 20 years, I’ve worked at the intersection of government, education, workforce systems, and the private sector to expand access to quality jobs, education pathways, including apprenticeships, trade schools, and higher education, and economic opportunity.
@@ -17,9 +15,6 @@ I never set out to run for office.
 But this race, at this moment, feels personal.
 As a mom, a wife, an oldest daughter, and a big sister, I believe District 34 deserves leadership that listens, leads with integrity, and fights for accountability.
 I’m running because I believe I can be of service- and because Connecticut works best when it works for all of us.
-VIDEOS
-GET A HOLD OF US
-Email:
-Paid for by Mandato for the 34th, Steve Gifford, Deputy Treasurer.
-Approved by Brandi Mandato.
-bottom of page
+VIDEOS HOME ABOUT 2026 ENDORSEMENTS PRIORITIES GET INVOLVED GET A HOLD OF US Email: MandatoFor34@gmail.com FOLLOW US ON SOCIALS As an elected member of the Connecticut Senate, Brandi Mandato will represent District 34 consisting of the towns of Wallingford, North Haven, Durham, North Branford, and parts of East Haven.
+JOIN OUR COMMUNITY JOIN Thanks for submitting! © # Paid for by Mandato for the 34th, Steve Gifford, Deputy Treasurer.
+Approved by Brandi Mandato. bottom of page

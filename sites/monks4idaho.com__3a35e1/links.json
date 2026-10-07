@@ -1,6 +1,38 @@
 [
-"https://adacountyelections.gov/",
-"https://monks4idaho.com/",
-"https://secure.anedot.com/monks-for-idaho-419933ab-30ad-492e-bf51-99f658d07d02/2c6433a9-cdb6-4413-8c3d-3cfe367f7937",
-"https://voteidaho.gov/"
+{
+"text": "Check your voter status",
+"href": "https://voteidaho.gov"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/monks-for-idaho-419933ab-30ad-492e-bf51-99f658d07d02/2c6433a9-cdb6-4413-8c3d-3cfe367f7937"
+},
+{
+"text": "Find your polling place",
+"href": "https://voteidaho.gov"
+},
+{
+"text": "Volunteer / Yard Sign",
+"href": "mailto:info@monks4idaho.com"
+},
+{
+"text": "adacountyelections.gov",
+"href": "https://adacountyelections.gov"
+},
+{
+"text": "info@monks4idaho.com",
+"href": "mailto:info@monks4idaho.com"
+},
+{
+"text": "monks4idaho.com",
+"href": "https://www.monks4idaho.com"
+},
+{
+"text": "voteidaho.gov",
+"href": "https://voteidaho.gov"
+},
+{
+"text": "★ Donate Now",
+"href": "https://secure.anedot.com/monks-for-idaho-419933ab-30ad-492e-bf51-99f658d07d02/2c6433a9-cdb6-4413-8c3d-3cfe367f7937"
+}
 ]

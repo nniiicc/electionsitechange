@@ -1,4 +1,4 @@
-Perhaps you’ve seen the recent letter to the editor by a gentleman named Imtiaz Stephen from Sharon Springs.
+Skip to content Skip to content Representative Adam Smith Adam.Smith@House.KS.Gov Adam.Smith@House.KS.Gov Open Menu Home Latest News About Contact Close Menu Close Menu Contribute Donate Now Facts regarding Wallace County Tax Hike December 2, 2025 Article Perhaps you’ve seen the recent letter to the editor by a gentleman named Imtiaz Stephen from Sharon Springs.
 The letter has been shared on social media quite a bit and I’ve received a lot of questions about the valuations, mill levies, and property taxes in Wallace County because of it.
 If you haven’t seen it, I’ve included a copy here.
 You should be able to click on the thumbnail to view an enlarged, readable version of the letter.
@@ -50,31 +50,7 @@ As valuations go up, there should be a corresponding reduction in the mill levy 
 As you can probably guess, that doesn’t always happen!
 Here’s a breakdown of all taxing jurisdictions in Wallace County, according to the 2025 Mill Levy sheet.
 Note: these numbers are not found on the levy sheet directly, I used the valuation and mill levy data to calculate the total property taxes for each entity.
-| State Levies | % increase | $ increase |
-| State Educational Building Fund | 11.01% | $ 3,979.94 |
-| State Institution Building Fund | 2.29% | $ 448.82 |
-| Statewide School Levy – USD 241 | 18.23% | $ 79,248.36 |
-| Statewide School Levy – USD 242 | -2.99% | $ (5,894.04) |
-| Statewide School Levy – USD 275 | 4.93% | $ 64.40 |
-| Local Levies | % increase | $ increase |
-| Wallace County | 6.95% | $ 292,658.76 |
-| City – Sharon Springs | -0.47% | $ (2,004.74) |
-| City – Wallace | -0.63% | $ (155.28) |
-| Fire Dist #1 | 0.46% | $ 210.30 |
-| Fire Dist #2 | 3.24% | $ 2,763.38 |
-| Fire Dist #3 | -0.15% | $ (95.21) |
-| Harrison Township* | 0.00% | $ 0.00 |
-| Sharon Springs Township | 2.28% | $ 751.33 |
-| Wallace Township | 0.09% | $ 4.63 |
-| Weskan Township | -0.17% | $ (19.36) |
-| NW Kansas Library | 10.43% | $ 4,389.94 |
-| USD 241** | 0.29% | $ 2,035.89 |
-| USD 242** | -7.76% | $ (33,296.71) |
-| USD 275** | 14.90% | $ 289.28 |
-| Sunflower Extension District | 13.20% | $ 11,849.42 |
-| * Harrison Township did not levy property tax for 2024/2025 | | |
-| ** Total mill levy less the 20 mills of state levied General Fund | | |
-A couple things to know – the statewide 20 mills is applied to all property, but residential property receives a homestead exemption on the first $75,000 of your home.
+State Levies % increase $ increase State Educational Building Fund 11.01% $ 3,979.94 State Institution Building Fund 2.29% $ 448.82 Statewide School Levy – USD 241 18.23% $ 79,248.36 Statewide School Levy – USD 242 -2.99% $ (5,894.04) Statewide School Levy – USD 275 4.93% $ 64.40 Local Levies % increase $ increase Wallace County 6.95% $ 292,658.76 City – Sharon Springs -0.47% $ (2,004.74) City – Wallace -0.63% $ (155.28) Fire Dist #1 0.46% $ 210.30 Fire Dist #2 3.24% $ 2,763.38 Fire Dist #3 -0.15% $ (95.21) Harrison Township* 0.00% $ 0.00 Sharon Springs Township 2.28% $ 751.33 Wallace Township 0.09% $ 4.63 Weskan Township -0.17% $ (19.36) NW Kansas Library 10.43% $ 4,389.94 USD 241** 0.29% $ 2,035.89 USD 242** -7.76% $ (33,296.71) USD 275** 14.90% $ 289.28 Sunflower Extension District 13.20% $ 11,849.42 * Harrison Township did not levy property tax for 2024/2025 ** Total mill levy less the 20 mills of state levied General Fund A couple things to know – the statewide 20 mills is applied to all property, but residential property receives a homestead exemption on the first $75,000 of your home.
 So if your home is appraised at $75,000 or less, you should pay nothing for the 20 mills!
 If your home is appraised at $150,000 or more, you are getting a $345 automatic discount on your taxes.
 Commercial, agricultural, oil & gas, and public utility property are the most by the statewide 20 mills with higher assessment factors and no exemptions in place.
@@ -90,3 +66,7 @@ I am going to have discussions with local officials and legislators on how to tr
 The values need to be accurate to follow constitutional uniformity, but there could be a buffer program at the state or local level in place to soften the impact in these situations!
 This property was incorrectly appraised and the previous owners had been inadvertently been getting a substantial tax break for a number of years.
 That is no fault of the current homeowner, yet they are the ones paying the price.
+Tags: Property Taxes Related Posts The Truth about Property Tax Relief The Truth about Property Tax Relief October 29, 2025 October 29, 2025 8:00 AM I’ve been made aware of a graphic going around Facebook and would love the opportunity to address its content.
+Forewarning[...] Read More Read More Smith Responds to Masterson on Property Taxes Smith Responds to Masterson on Property Taxes April 13, 2026 April 13, 2026 5:00 AM Weskan, KS – State Representative Adam Smith, honored to serve as the House Taxation Committee chairman, issued the following statement[...] Read More Read More Challenge for the 120th District Seat Challenge for the 120th District Seat June 1, 2026 June 1, 2026 10:16 PM The filing deadline has passed for the 2026 Primary Election.
+There were a few last-minute twists and turns in the[...] Read More Read More Search Search Latest Posts Proposed Transmission Line Public Meeting September 29, 2026 Smith Releases Property Tax Relief Plan July 20, 2026 June Water Task Force Meeting June 18, 2026 Challenge for the 120th District Seat June 1, 2026 Smith Responds to Masterson on Property Taxes April 13, 2026 Capitol Office 300 SW 10th Street Topeka, KS 66612 185-N (First Floor, North Wing) 785-296-0715 Copyright © # All Rights Reserved.
+Resources Kansas Legislature Kansas Historical Society Kansas.gov Search Search for:

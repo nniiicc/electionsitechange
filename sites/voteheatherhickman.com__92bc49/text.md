@@ -1,17 +1,24 @@
+Call Heather: (843) 286-7903 Donate Vote Heather Hickman South Carolina House of Representatives — District 15 Integrity.
+Liberty.
+Accountability.
+A Stronger Future.
+Let's Chat!
+Meet Heather Her Priorities Putting the People of District 15 First Heather believes elected officials should listen to their constituents, remain accountable to the people they serve, and bring local priorities directly to Columbia.
+Economic Growth Promoting local, small businesses and the opportunities they bring for higher-paying jobs.
+Affordable Living Addressing issues that impact household budgets, including energy costs and everyday expenses.​ Financial Stability Supporting policies that help families keep more of what they earn.
+Community Investment Strengthening communities throughout District 15.
+Responsible Growth Working to ensure infrastructure paces residential growth.
+Individual Liberty Protecting individual liberties and preserving constitutional rights for South Carolina residents.
+Government Accountability Providing transparent, responsive leadership that puts constituents first.
+Education & Opportunity Improving educational opportunities for South Carolina students and advocating for policies that create long-term prosperity.
+Let’s Chat Have a question or want to share what matters most to you?
 Heather believes elected officials should listen to their constituents, remain accountable to the people they serve, and bring local priorities directly to Columbia.
-Promoting local, small businesses and the opportunities they bring for higher-paying jobs.
-Addressing issues that impact household budgets, including energy costs and everyday expenses.
-Supporting policies that help families keep more of what they earn.
-Strengthening communities throughout District 15.
-Working to ensure infrastructure paces residential growth.
-Protecting individual liberties and preserving constitutional rights for South Carolina residents.
-Providing transparent, responsive leadership that puts constituents first.
-Improving educational opportunities for South Carolina students and advocating for policies that create long-term prosperity.
-or mail a check to
-Vote Heather Hickman
-307 N Goose creek Blvd Box Suite 26
-Goose Creek SC 29445
+Call Heather: (843) 286-7903 Donate or mail a check to Vote Heather Hickman 307 N Goose creek Blvd Box Suite 26 Goose Creek SC 29445 Your voice matters.
 Heather is listening.
+Meet Heather Service.
+Faith.
+Experience.
+Commitment.
 As the daughter of a military family, Heather Hickman understands the value of service, sacrifice, and patriotism.
 Her father proudly served in both the United States Army and Air Force, and Heather continued that tradition by serving in the United States Air Force, receiving an honorable discharge in 1981.
 Today, she remains part of a proud military family, with one son serving in the United States Marine Corps and another who served in the United States Navy.
@@ -26,4 +33,6 @@ In 2021, Heather became increasingly concerned about government overreach and it
 Since then, she has worked alongside fellow citizens to defend God-given, constitutionally protected rights and advocate for greater accountability in government.
 Heather is running for the State House because she believes South Carolina needs leaders who will put citizens first.
 She is committed to protecting individual liberties, addressing unchecked residential growth by ensuring infrastructure keeps pace, strengthening educational opportunities for students, and easing the tax burden on hardworking South Carolina families.
-Scroll to Top
+Heather Hickman is ready to bring her experience, faith, and dedication to Columbia and work tirelessly on behalf of the people she serves.
+Hear From Heather Your Voice Matters Want to get involved, ask a question, or share an issue important to your family and community?
+Call Heather: (843) 286-7903 Contact Heather Hickman Paid for by Vote Heather Hickman | Copyright © # Heather Hickman (R) for House of Representatives Scroll to Top

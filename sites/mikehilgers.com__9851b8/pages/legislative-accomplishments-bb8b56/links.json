@@ -1,11 +1,38 @@
 [
-"https://facebook.com/mikehilgers",
-"https://mikehilgers.com/",
-"https://mikehilgers.com/about",
-"https://mikehilgers.com/endorsements",
-"https://mikehilgers.com/get-involved",
-"https://mikehilgers.com/home",
-"https://mikehilgers.com/legislative-accomplishments",
-"https://secure.winred.com/mike-hilgers/donate-copy-6c7e5de1d321ed82",
-"https://twitter.com/mikehilgers"
+{
+"text": "About",
+"href": "https://www.mikehilgers.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.mikehilgers.com/legislative-accomplishments/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/mike-hilgers/donate-copy-6c7e5de1d321ed82"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mikehilgers.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mikehilgers.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.mikehilgers.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.mikehilgers.com/home/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/mikehilgers"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mikehilgers"
+}
 ]

@@ -1,12 +1,54 @@
 [
-"https://facebook.com/profile.php?id=100085298700791",
-"https://ryvall.com/",
-"https://secure.winred.com/susan-tyler-witten-for-state-rep/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://susantylerwitten.com/",
-"https://susantylerwitten.com/about",
-"https://susantylerwitten.com/contact",
-"https://susantylerwitten.com/issues",
-"https://susantylerwitten.com/privacy-policy",
-"https://susantylerwitten.com/terms-of-service",
-"https://susantylerwitten.com/volunteer"
+{
+"text": "About",
+"href": "https://www.susantylerwitten.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.susantylerwitten.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/susan-tyler-witten-for-state-rep/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Home",
+"href": "https://www.susantylerwitten.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.susantylerwitten.com/issues"
+},
+{
+"text": "Powered by Ryvall",
+"href": "https://ryvall.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.susantylerwitten.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.susantylerwitten.com/terms-of-service"
+},
+{
+"text": "Volunteer",
+"href": "https://www.susantylerwitten.com/volunteer"
+},
+{
+"text": "[image: Susan Tyler Witten Website Banner]",
+"href": "https://www.susantylerwitten.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=100085298700791"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/susan-tyler-witten-for-state-rep/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "[no text]",
+"href": "https://www.susantylerwitten.com/"
+}
 ]

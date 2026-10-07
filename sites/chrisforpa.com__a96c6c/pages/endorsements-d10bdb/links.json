@@ -1,23 +1,90 @@
 [
-"https://bsky.app/profile/chris4pa.bsky.social",
-"https://chrisforpa.com/",
-"https://chrisforpa.com/actions/volunteer",
-"https://chrisforpa.com/district-17-map",
-"https://chrisforpa.com/endorsements",
-"https://chrisforpa.com/meet-chris",
-"https://chrisforpa.com/privacy",
-"https://chrisforpa.store/",
-"https://facebook.com/ChrisforPA",
-"https://secure.actblue.com/donate/chris-deluzio-site",
-"https://secure.actblue.com/donate/chris-deluzio-site?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/chris-deluzio-site?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/chris-deluzio-site?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/chris-deluzio-site?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/chris-deluzio-site?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/chris-deluzio-site?express_lane=true&amount=other",
-"https://secure.actblue.com/donate/chris-deluzio-site?express_lane_other=true",
-"https://tealmedia.com/archie",
-"https://tiktok.com/@chrisforpa",
-"https://twitter.com/ChrisForPA",
-"https://youtube.com/@chrisforpa"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/chris-deluzio-site?express_lane=true&amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/chris-deluzio-site?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/chris-deluzio-site?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/chris-deluzio-site?express_lane=true&amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/chris-deluzio-site?express_lane=true&amount=50"
+},
+{
+"text": "Archie",
+"href": "https://www.tealmedia.com/archie/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chris-deluzio-site"
+},
+{
+"text": "Endorsements",
+"href": "https://chrisforpa.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://chrisforpa.com/"
+},
+{
+"text": "Meet Chris",
+"href": "https://chrisforpa.com/meet-chris/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/chris-deluzio-site?express_lane_other=true"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/chris-deluzio-site?express_lane=true&amount=other"
+},
+{
+"text": "PA-17 Map",
+"href": "https://chrisforpa.com/district-17-map/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrisforpa.com/privacy/"
+},
+{
+"text": "Store",
+"href": "https://chrisforpa.store"
+},
+{
+"text": "Volunteer",
+"href": "https://chrisforpa.com/actions/volunteer/"
+},
+{
+"text": "[image: Chris Deluzio for PA]",
+"href": "https://chrisforpa.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/chris4pa.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ChrisForPA"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ChrisforPA"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@chrisforpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@chrisforpa"
+}
 ]

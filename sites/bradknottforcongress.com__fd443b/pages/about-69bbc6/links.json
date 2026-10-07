@@ -1,12 +1,42 @@
 [
-"https://bradknott.com/",
-"https://bradknott.com/about",
-"https://bradknott.com/cart",
-"https://bradknott.com/priorities",
-"https://bradknott.com/privacy-policy",
-"https://facebook.com/bradknottforcongress",
-"https://instagram.com/bradknottforcongress",
-"https://secure.winred.com/brad-knott-for-congress/donate-today",
-"https://secure.winred.com/brad-knott-for-congress/storefront",
-"https://twitter.com/bradknottfornc"
+{
+"text": "0",
+"href": "https://www.bradknott.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.bradknott.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/brad-knott-for-congress/donate-today"
+},
+{
+"text": "Priorities",
+"href": "https://www.bradknott.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bradknott.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/brad-knott-for-congress/storefront/"
+},
+{
+"text": "[image: Brad Knott for Congress]",
+"href": "https://www.bradknott.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/bradknottfornc"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bradknottforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bradknottforcongress/"
+}
 ]

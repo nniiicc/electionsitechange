@@ -1,26 +1,114 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Town+Hall+with+Meredith+Sumenek&dates=20261003T200000Z%2F20261003T213000Z&location=9700+Musick+Avenue%2C+St.+Louis%2C+Missouri%2C+63123%2C+United+States",
-"http://maps.google.com/?q=9700+Musick+Avenue+St.+Louis%2C+Missouri%2C+63123+United+States",
-"https://eventbrite.com/e/october-3rd-sumenek-town-hall-tickets-2000083291967",
-"https://facebook.com/events/1410779821160330",
-"https://facebook.com/profile.php?id=61578966871748",
-"https://instagram.com/sumenekformo",
-"https://secure.actblue.com/donate/sumenekformo",
-"https://store.sumenekformo.com/",
-"https://sumenekformo.com/",
-"https://sumenekformo.com/about-meredith-sumenek-for-missouri",
-"https://sumenekformo.com/cart",
-"https://sumenekformo.com/endorsements",
-"https://sumenekformo.com/events",
-"https://sumenekformo.com/events/town-hall-with-meredith-sumenek",
-"https://sumenekformo.com/events/town-hall-with-meredith-sumenek-1?format=ical",
-"https://sumenekformo.com/issues",
-"https://sumenekformo.com/meet-meredith",
-"https://sumenekformo.com/platform",
-"https://sumenekformo.com/press",
-"https://sumenekformo.com/privacy",
-"https://sumenekformo.com/volunteer-for-meredith-sumenek",
-"https://sumenekformo.com/voter-info",
-"https://x.com/sumenekformo",
-"https://youtube.com/@SumenekforMO"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=9700+musick+avenue+st.+louis%2C+missouri%2C+63123+united+states"
+},
+{
+"text": "0",
+"href": "https://www.sumenekformo.com/cart"
+},
+{
+"text": "About Meredith",
+"href": "https://www.sumenekformo.com/about-meredith-sumenek-for-missouri"
+},
+{
+"text": "Back",
+"href": "https://www.sumenekformo.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.sumenekformo.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/sumenekformo"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sumenekformo.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.sumenekformo.com/events"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.sumenekformo.com/issues"
+},
+{
+"text": "Folder: Meet Meredith",
+"href": "https://www.sumenekformo.com/meet-meredith"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Town+Hall+with+Meredith+Sumenek&dates=20261003T200000Z%2F20261003T213000Z&location=9700+Musick+Avenue%2C+St.+Louis%2C+Missouri%2C+63123%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.sumenekformo.com/events/town-hall-with-meredith-sumenek-1?format=ical"
+},
+{
+"text": "MEET MEREDITH",
+"href": "https://www.sumenekformo.com/about-meredith-sumenek-for-missouri"
+},
+{
+"text": "Merch",
+"href": "https://store.sumenekformo.com"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.sumenekformo.com/privacy"
+},
+{
+"text": "Platform",
+"href": "https://www.sumenekformo.com/platform"
+},
+{
+"text": "Press",
+"href": "https://www.sumenekformo.com/press"
+},
+{
+"text": "Previous Previous September 19 Town Hall with Meredith Sumenek",
+"href": "https://www.sumenekformo.com/events/town-hall-with-meredith-sumenek"
+},
+{
+"text": "RSVP on Eventbrite",
+"href": "https://www.eventbrite.com/e/october-3rd-sumenek-town-hall-tickets-2000083291967"
+},
+{
+"text": "RSVP on Facebook",
+"href": "https://www.facebook.com/events/1410779821160330/"
+},
+{
+"text": "THE DISTRICT",
+"href": "https://www.sumenekformo.com/voter-info"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sumenekformo.com/volunteer-for-meredith-sumenek"
+},
+{
+"text": "[image: Meredith Sumenek for Missouri]",
+"href": "https://www.sumenekformo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61578966871748"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sumenekformo"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@SumenekforMO"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/sumenekformo"
+},
+{
+"text": "info@sumenekformo.com",
+"href": "mailto:info@sumenekformo.com"
+}
 ]

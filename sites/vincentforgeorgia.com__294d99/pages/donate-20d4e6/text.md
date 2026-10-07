@@ -1,8 +1,6 @@
-Support Vincent Mendes for GAHD13’s Campaign with Your Donation Today
-Contribute directly through ActBlue to help advance Vincent Mendes III’s Democratic platform and prepare for the May 19, 2026 primary election.
+Skip to content Vincent Mendes for GAHD13 Home About Donate Facebook Donate Support Vincent Mendes for GAHD13’s Campaign with Your Donation Today Contribute directly through ActBlue to help advance Vincent Mendes III’s Democratic platform and prepare for the May 19, 2026 primary election.
 Your support makes a decisive impact.
-“Contributing to my campaign is a rewarding way to support strong leadership and a progressive vision for Georgia’s future.”
-Vincent Mendes III
-Candidate for State House
-Thank you for your support
-We deeply appreciate your commitment to backing Vincent Mendes’s vision, helping shape a stronger community and a brighter future in District 13.
+Donate Now “Contributing to my campaign is a rewarding way to support strong leadership and a progressive vision for Georgia’s future.” Vincent Mendes III Candidate for State House Thank you for your support We deeply appreciate your commitment to backing Vincent Mendes’s vision, helping shape a stronger community and a brighter future in District 13.
+Facebook Vincent Mendes for GAHD13 © # Mendes4GA Donate Facebook English English Deutsch Español Français Italiano Polski Svenska Suomi Português Română Slovenščina Slovenčina Nederlands Dansk Ελληνικά Čeština Magyar Lietuvių Latviešu Eesti Hrvatski Gaeilge Български Norsk Türkçe Bahasa Indonesia Português (Brasil) 日本語 한국어 简体中文 العربية Русский हिन्दी Українська Srpski English (UK) فارسی עברית Македонски ไทย Tiếng Việt Accessibility Adjustments Powered by OneTap Hide Toolbar Back How long do you want to hide the toolbar?
+Hide Toolbar Duration Only for this session 24 hours A Week Not Now Hide Toolbar Select your accessibility profile Vision Impaired Mode Enhances website's visuals Vision Impaired Mode Seizure Safe Profile Clear flashes & reduces color Seizure Safe Profile ADHD Friendly Mode Focused browsing, distraction-free ADHD Friendly Mode Blindness Mode Reduces distractions, improves focus Blindness Mode Epilepsy Safe Mode Dims colors and stops blinking Epilepsy Safe Mode Content Modules Font Size + Default - Readable Font Line Height + Default - Cursor Letter Spacing Align Text Font Weight Color Modules Light Contrast High Contrast Monochrome Orientation Modules Reading Line Reading Mask Hide Images Highlight Content Stop Animations Highlight Links Skip To Content Choose...
+Main Content Navigation Footer Reset Settings

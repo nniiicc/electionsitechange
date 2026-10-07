@@ -1,19 +1,14 @@
-top of page
-News
-Search
-Seattle Times Endorses Jamila Taylor for Third term
-" For four years voters in the 30th Legislative District have had a focused, engaged and knowledgeable representative in Olympia.
+top of page Meet Jamila Priorities Endorsements Take Action Get Involved Privacy Policy News Events More...
+Use tab to navigate through the menu items.
+Donate News All Posts Video News Facebook Live Press Release Search Seattle Times Endorses Jamila Taylor for Third term " For four years voters in the 30th Legislative District have had a focused, engaged and knowledgeable representative in Olympia.
 Rep....
-Team JamilaSep 5, 20241 min read
-SEATTLE TIMES EDITORIAL: WA’s new homeownership program must reach those it aims to help
-By The Seattle Times editorial board The state Legislature did its part last year to help repair decades of racial discrimination in...
-Team JamilaMay 7, 20241 min read
-SEATTLE TIMES: WA seeks to fix discrimination from racially restrictive property deeds
-By Laurel Demkovich Washington State Standard Washington has tens of thousands of homes with racially restrictive deeds dating back to...
-Team JamilaApr 30, 20241 min read
-WASHINGTON STATE STANDARD: State spending to rise tenfold on housing for people with developmental disabilities
-Housing for people with intellectual and developmental disabilities is about to see another boost in state funding.
+News Team Jamila Sep 5, 2024 1 min read SEATTLE TIMES EDITORIAL: WA’s new homeownership program must reach those it aims to help By The Seattle Times editorial board The state Legislature did its part last year to help repair decades of racial discrimination in...
+News Team Jamila May 7, 2024 1 min read SEATTLE TIMES: WA seeks to fix discrimination from racially restrictive property deeds By Laurel Demkovich Washington State Standard Washington has tens of thousands of homes with racially restrictive deeds dating back to...
+News Team Jamila Apr 30, 2024 1 min read WASHINGTON STATE STANDARD: State spending to rise tenfold on housing for people with developmental disabilities Housing for people with intellectual and developmental disabilities is about to see another boost in state funding.
 Lawmakers this year...
-Team JamilaMar 26, 20241 min read
-We Need Your Support Today!
-bottom of page
+News Team Jamila Mar 26, 2024 1 min read We Need Your Support Today!
+Donate Re-Elect Jamila Taylor Paid for by Elect Jamila Taylor PO Box 3996 Federal Way, WA 98063-3996 Sign up for Updates Enter your email here Sign Up!
+Thanks for submitting!
+Register to Vote Here!
+Quick Links About Donate News Contact © # Elect Jamila Taylor.
+All Rights Reserved. bottom of page

@@ -1,7 +1,5 @@
-Oregon would temporarily bar expanded tax benefits for data centers
-Newly built data centers could be temporarily exempt from Gov.
-Tina Kotek’s hotly-debated economic stimulus bill that would double the length of property tax exemptions for industries investing in Oregon infrastructure and jobs in urban and suburban “enterprise zones.”
-Under an amendment to Kotek-backed House Bill 4084 proposed on Monday by Rep.
+0 Skip to Content Home About Priorities Legislative Work In the District Endorsements In the News Contact Nancy Donate & Volunteer Open Menu Close Menu Home About Priorities Legislative Work In the District Endorsements In the News Contact Nancy Donate & Volunteer Open Menu Close Menu Home About Priorities Legislative Work In the District Endorsements In the News Contact Nancy Donate & Volunteer Oregon would temporarily bar expanded tax benefits for data centers Apr 24 Written By Nancy Nathanson Newly built data centers could be temporarily exempt from Gov.
+Tina Kotek’s hotly-debated economic stimulus bill that would double the length of property tax exemptions for industries investing in Oregon infrastructure and jobs in urban and suburban “enterprise zones.” Under an amendment to Kotek-backed House Bill 4084 proposed on Monday by Rep.
 Nancy Nathanson, D-Eugene, new data centers would not qualify for at least a year for the expanded benefits that change the current five-year property tax exemption to 10 years under the state’s decades-old enterprise zone program.
-Under the program, businesses are incentivized to set up shop and boost local hiring in select zones across the state, in exchange for a complete property-tax exemption for a set number of years.
-—Reported in Portland Tribune, March 3, 2026
+Under the program, businesses are incentivized to set up shop and boost local hiring in select zones across the state, in exchange for a complete property-tax exemption for a set number of years. —Reported in Portland Tribune, March 3, 2026 Nancy Nathanson Previous Previous Leaked records add to PeaceHealth ER controversy Next Next Lawmakers press PeaceHealth, ApolloMD for business details of ER switch Friends of Nancy Nathanson PO Box 41895.
+Eugene, OR 97404 541-632-3417 info@nancynathanson.org Paid for by Friends of Nancy Nathanson

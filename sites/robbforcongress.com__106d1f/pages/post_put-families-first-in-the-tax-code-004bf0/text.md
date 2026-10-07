@@ -1,6 +1,4 @@
-Put Families First in the Tax Code
-If You’re Working Hard, You Shouldn’t Be Falling Behind
-Most people don’t expect the system to be perfect.
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE Put Families First in the Tax Code Mar 22 2 min read If You’re Working Hard, You Shouldn’t Be Falling Behind Most people don’t expect the system to be perfect.
 But they do expect it to be fair.
 If you’re working hard to support your family, you shouldn’t feel like you’re falling behind while others get ahead.
 And you definitely shouldn’t feel like the rules are tilted against you.
@@ -14,11 +12,7 @@ I’m running for Congress because I believe our tax system should put families 
 Right now, it doesn’t.
 The tax code is full of loopholes and advantages that benefit the wealthy and well-connected.
 Meanwhile, working families are left trying to stretch every dollar just to keep up.
-Here’s what needs to change:
-- Lower taxes for working and middle-class families so they can keep more of what they earn
-- Close loopholes that allow the wealthy to avoid paying their fair share
-- Make the system simpler and more transparent so people actually understand it
-This isn’t about punishing success.
+Here’s what needs to change: Lower taxes for working and middle-class families so they can keep more of what they earn Close loopholes that allow the wealthy to avoid paying their fair share Make the system simpler and more transparent so people actually understand it This isn’t about punishing success.
 It’s about fairness.
 Because when the system is fair, people can plan.
 They can save.
@@ -35,4 +29,4 @@ One that supports families instead of squeezing them.
 One that rewards work, not just wealth.
 But it starts with being honest about what’s happening.
 Right now, too many families are carrying more than their share.
-And that’s something we can fix.
+And that’s something we can fix. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

@@ -1,6 +1,5 @@
-ABOUT
-Neal Jackson: Your Voice for Life and Liberty
-Neal Jackson was born in Pinehurst, North Carolina, to two schoolteachers who taught him from an early age the importance of hard work, integrity always, and compassion for others.
+top of page Home About Issues Volunteer Contact More Use tab to navigate through the menu items.
+Donate ABOUT Neal Jackson: Your Voice for Life and Liberty Neal Jackson was born in Pinehurst, North Carolina, to two schoolteachers who taught him from an early age the importance of hard work, integrity always, and compassion for others.
 Neal started his first business at the age of ten, and in a matter of weeks he was mowing thirty lawns in their neighborhood because of hard work, done well, at a VERY reasonable price.
 In college, he met his soul mate Tracy Jackson, sitting in alphabetical order in a Tuesday evening class.
 She would eventually become Tracy Jackson-Jackson and the mother of their five children.
@@ -16,3 +15,4 @@ Neal advocates for his constituents with a focus on principled governance.
 He has passed meaningful legislation in the areas of finance, real estate, education, and criminal justice, driving impactful change for his district and the state.
 Neal’s goals in life are not political, but to live a life that pleases God and keeps the principles taught to him by his parents: the importance of hard work, integrity always, and compassion for others.
 Neal and Tracy have five children, three grandchildren, a great church family, two dogs, thirty black Angus cows, and 96,000 constituents they are able to represent in the State House of North Carolina.
+Donate Paid for by Neal Jackson for NC House bottom of page

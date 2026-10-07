@@ -1,27 +1,15 @@
-MEDIA
-What likely Democratic voters in NY-25 need to read, see, and see-on-the go:
-The stakes have never been higher.
-Donald Trump is abusing his power, attacking our democratic institutions, and threatening the rights and freedoms Americans hold dear.
+top of page ABOUT JOE FIGHTING FOR US ANTI-CORRUPTION AND DEMOCRACY REFORM PROTECTING AGING AMERICANS FIXING HEALTH CARE WOMEN'S RIGHTS COMMON SENSE GUN REFORM COMBATING THE CLIMATE CRISIS COMBATING OPIOID ADDICTION HONORING OUR VETERANS LGBTQ+ RIGHTS IMPROVING K-12 EDUCATION EXPANDING ACCESS TO HIGHER EDUCATION UPLIFTING FAMILIES TAKE ACTION JOIN THE TEAM INTERNSHIPS EARLY VOTING GUIDE PRIVACY POLICY VOTE BY MAIL CONTACT MORE Use tab to navigate through the menu items.
+DONATE MEDIA What likely Democratic voters in NY-25 need to read, see, and see-on-the go: The stakes have never been higher. ​ Donald Trump is abusing his power, attacking our democratic institutions, and threatening the rights and freedoms Americans hold dear.
 Joe Morelle isn't backing down.
-He is taking on Trump, fighting corruption in Washington, defending our democracy, and standing up to ICE abuses that violate the Constitution and basic civil rights.
-The issues below highlight where Joe stands and the fights he is leading on behalf of the people of Rochester.
-FIGHTING BACK AGAINST TRUMP
-Donald Trump is corrupt, dangerous, and abusing the power of the presidency.
+He is taking on Trump, fighting corruption in Washington, defending our democracy, and standing up to ICE abuses that violate the Constitution and basic civil rights. ​ The issues below highlight where Joe stands and the fights he is leading on behalf of the people of Rochester. ​ ​ ​ FIGHTING BACK AGAINST TRUMP ​ Donald Trump is corrupt, dangerous, and abusing the power of the presidency.
 Joe Morelle is fighting back by supporting efforts to remove Trump from office through impeachment or the 25th Amendment, leading legal challenges to Trump's unconstitutional overreach, and standing up for our democracy.
 While too many politicians stay silent, Joe is taking the fight directly to Trump and the Republicans enabling him.
-FIXING WASHINGTON'S CORRUPTION
-Washington is broken because too many politicians put power and personal gain ahead of the people they serve.
+Rep.
+Morelle calls for Trump's Removal from Office Democrat Calls Trump ‘Unfit for Office,’ Vows to Vote to Remove Him Inside The ‘Red Team’ House Dem Task Force That’s Running War Games And Taking On Trump’s Election Threats Rep.
+Morelle: Democrats Will 'Finish' Redistricting Fight Joe Morelle Calls Out Trump For Agreeing With Putin's Criticism Of Mail-In Ballots FIXING WASHINGTON'S CORRUPTION ​ Washington is broken because too many politicians put power and personal gain ahead of the people they serve.
 Joe Morelle is leading the fight to ban stock trading by members of Congress and the President, crack down on dark money in elections, establish Supreme Court ethics rules and term limits, end presidential immunity, and stop billionaires and special interests from buying influence in Washington.
-- House Democrats introduce discharge petition on stock trading ban
-- House Democrats Vow Ethics Changes if They Win Majority in 2026
-- Joe Morelle Alleges There Is Corruption In The White House And Supreme Court
-- 'We Need To Call Out These Actions For What They Are: Corruption': Joe Morelle Rips Trump
-REINING IN ICE
-Joe Morelle has been outspoken against Trump's cruel and unconstitutional immigration policies.
+House Democrats introduce discharge petition on stock trading ban House Democrats Vow Ethics Changes if They Win Majority in 2026 Joe Morelle Alleges There Is Corruption In The White House And Supreme Court 'We Need To Call Out These Actions For What They Are: Corruption': Joe Morelle Rips Trump ​ REINING IN ICE ​ Joe Morelle has been outspoken against Trump's cruel and unconstitutional immigration policies.
 He has refused to support funding for ICE's unchecked expansion, demanded accountability following multiple controversial ICE shootings in Minnesota, and is pushing reforms to stop warrantless deportations and protect civil rights.
 Joe is fighting to rein in ICE, defend the Constitution, and ensure ICE respects basic human dignity.
-- Rep.
-Joe Morelle continues fight against ICE detention cells in Rochester with new proposal
-- Morelle calls for reform to immigration enforcement, following detention center visit
-- Judge explains why Rochester business owner must stay in ICE custody; Morelle calls treatment ‘abhorrent’
-- Morelle among federal lawmakers calling for impeachment of Noem
+Rep.
+Joe Morelle continues fight against ICE detention cells in Rochester with new proposal Morelle calls for reform to immigration enforcement, following detention center visit Judge explains why Rochester business owner must stay in ICE custody; Morelle calls treatment ‘abhorrent’ Morelle among federal lawmakers calling for impeachment of Noem Join LEARN / GET INVOLVED About Joe News Volunteer Early Voting Donate Media Privacy Policy FIGHTING FOR US Protecting Aging Americans Fixing Health Care Women's Rights Common Sense Gun Reform Protecting Our Environment Honoring Our Veterans Anti-Corruption and Democracy Reform LGBTQ+ Rights Improving K-12 Education Expanding Access to Higher Education Uplifting Families Combating Opioid Addiction SOCIAL Facebook Twitter Instagram PAID FOR BY JOE MORELLE FOR CONGRESS bottom of page

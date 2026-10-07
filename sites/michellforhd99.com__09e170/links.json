@@ -1,10 +1,46 @@
 [
-"https://highnotewebsitedesigns.com/",
-"https://michellforhd99.com/",
-"https://michellforhd99.com/about-us",
-"https://michellforhd99.com/contact-us",
-"https://michellforhd99.com/issues-events",
-"https://michellforhd99.com/vote",
-"https://mobilize.us/txmajoritypac",
-"https://secure.actblue.com/donate/michelle-winder-1"
+{
+"text": "About Us",
+"href": "https://michellforhd99.com/about-us/"
+},
+{
+"text": "Contact Us",
+"href": "https://michellforhd99.com/contact-us/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/michelle-winder-1"
+},
+{
+"text": "Highnote Website Designs",
+"href": "https://highnotewebsitedesigns.com/"
+},
+{
+"text": "Home",
+"href": "https://michellforhd99.com"
+},
+{
+"text": "Home",
+"href": "https://michellforhd99.com/"
+},
+{
+"text": "Issues & Events",
+"href": "https://michellforhd99.com/issues-events/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/txmajoritypac/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/txmajoritypac/"
+},
+{
+"text": "Vote",
+"href": "https://michellforhd99.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://michellforhd99.com"
+}
 ]

@@ -1,16 +1,66 @@
 [
-"http://bls.gov/news.release/cpi.nr0.htm",
-"https://azgovernor.gov/office-arizona-governor/news/2026/01/governor-katie-hobbs-lays-out-plan-lower-costs-and-put-arizona",
-"https://democracync.org/reports/researchreports/mainearizonasuccess.pdf",
-"https://dvs.az.gov/sites/default/files/2025-07/Arizona%20State%20Veteran%20Benefits%20Guide%20%282025%20Edit%29.pdf",
-"https://factually.co/fact-checks/politics/how-much-did-big-beautiful-bill-cut-medicaid-4f5e8b",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://sandyzforaz.com/",
-"https://sandyzforaz.com/about",
-"https://sandyzforaz.com/events",
-"https://sandyzforaz.com/issues",
-"https://sandyzforaz.com/privacy-policy",
-"https://sandyzforaz.com/videos"
+{
+"text": "About",
+"href": "https://sandyzforaz.com/about"
+},
+{
+"text": "Arizona State Veteran Benefits Guide (2025 Edit).pdf",
+"href": "https://dvs.az.gov/sites/default/files/2025-07/Arizona%20State%20Veteran%20Benefits%20Guide%20%282025%20Edit%29.pdf"
+},
+{
+"text": "Events",
+"href": "https://sandyzforaz.com/events"
+},
+{
+"text": "Home",
+"href": "https://sandyzforaz.com/"
+},
+{
+"text": "How much money did the Big Beautiful Bill cut from Med",
+"href": "https://factually.co/fact-checks/politics/how-much-did-big-beautiful-bill-cut-medicaid-4f5e8b"
+},
+{
+"text": "Issues",
+"href": "https://sandyzforaz.com/issues"
+},
+{
+"text": "Learn more",
+"href": "https://sandyzforaz.com/events#34e89364-f749-4abd-a5de-f0634509d3af"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://sandyzforaz.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Videos",
+"href": "https://sandyzforaz.com/videos"
+},
+{
+"text": "[image: Sandy Z for AZ]",
+"href": "https://sandyzforaz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "https://azgovernor.gov/office-arizona- governor/news/2026/01/governor-katie-hobbs-lays-out-plan-lower-costs-and-put- arizona",
+"href": "https://azgovernor.gov/office-arizona-governor/news/2026/01/governor-katie-hobbs-lays-out-plan-lower-costs-and-put-arizona"
+},
+{
+"text": "https://democracync.org/reports/researchreports/mainearizonasuccess.pdf‌",
+"href": "https://democracync.org/reports/researchreports/mainearizonasuccess.pdf"
+},
+{
+"text": "www.bls.gov/news.release/cpi.nr0.htm",
+"href": "http://www.bls.gov/news.release/cpi.nr0.htm"
+}
 ]

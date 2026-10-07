@@ -1,26 +1,146 @@
 [
-"https://capenconsulting.com/",
-"https://congress.gov/",
-"https://eoee.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
-"https://facebook.com/SenatorVickieSawyer",
-"https://governor.nc.gov/",
-"https://instagram.com/SenatorSawyer",
-"https://ltgov.nc.gov/",
-"https://nc.gov/agencies",
-"https://nccourts.gov/",
-"https://ncleg.gov/",
-"https://ncleg.gov/About",
-"https://ncleg.gov/FindYourLegislators",
-"https://ncleg.gov/Laws/Constitution",
-"https://ncleg.gov/Legislation",
-"https://ncleg.gov/Members/MemberList/S",
-"https://ncleg.gov/Senate/PageProgram",
-"https://nctreasurer.com/",
-"https://sawyernc.com/",
-"https://sawyernc.com/about",
-"https://sawyernc.com/donate",
-"https://sawyernc.com/media",
-"https://sosnc.gov/",
-"https://twitter.com/senatorsawyer",
-"https://youtube.com/channel/UC-MHnEY6_Ha-PrivtOcofaw"
+{
+"text": "ABOUT",
+"href": "https://www.sawyernc.com/about"
+},
+{
+"text": "About the General Assembly",
+"href": "https://www.ncleg.gov/About"
+},
+{
+"text": "Bill Information",
+"href": "https://ncleg.gov/Legislation"
+},
+{
+"text": "Capen Consulting, LLC",
+"href": "https://www.capenconsulting.com/"
+},
+{
+"text": "Capitol Building Tours",
+"href": "mailto:Vickie.Sawyer@ncleg.gov?subject=I%27d+like+to+tour+the+Old+Capitol+Building"
+},
+{
+"text": "Careers & Employment",
+"href": "https://eoee.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001"
+},
+{
+"text": "Congress",
+"href": "https://www.congress.gov/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:Vickie.Sawyer@ncleg.gov?subject=Contact+Us+%5BSen.+Vickie+Sawyer%5D"
+},
+{
+"text": "DONATE",
+"href": "https://www.sawyernc.com/donate"
+},
+{
+"text": "Email Webmaster",
+"href": "mailto:info@capenconsulting.com"
+},
+{
+"text": "Find Your Legislative District",
+"href": "https://ncleg.gov/FindYourLegislators"
+},
+{
+"text": "Flag Requests",
+"href": "mailto:Vickie.Sawyer@ncleg.gov?subject=I%27d+like+a+North+Carolina+flag"
+},
+{
+"text": "Governor's Office",
+"href": "https://governor.nc.gov/"
+},
+{
+"text": "HOME",
+"href": "https://www.sawyernc.com"
+},
+{
+"text": "Help with a State Agency",
+"href": "mailto:Vickie.Sawyer@ncleg.gov?subject=Need+help+with+a+State+Agency"
+},
+{
+"text": "Internships",
+"href": "mailto:Vickie.Sawyer@ncleg.gov?subject=NCGA+Internship+Opportunities"
+},
+{
+"text": "Legislative Building Tours",
+"href": "mailto:Vickie.Sawyer@ncleg.gov?subject=I%27d+like+a+tour+of+the+Legislative+Building"
+},
+{
+"text": "Lt. Governor's Office",
+"href": "https://ltgov.nc.gov/"
+},
+{
+"text": "MEDIA",
+"href": "https://www.sawyernc.com/media"
+},
+{
+"text": "NCGA Live Stream",
+"href": "https://www.youtube.com/channel/UC-MHnEY6_Ha-PrivtOcofaw"
+},
+{
+"text": "News & Media Resources",
+"href": "https://www.sawyernc.com/media"
+},
+{
+"text": "North Carolina Courts",
+"href": "https://www.nccourts.gov/"
+},
+{
+"text": "North Carolina General Assembly",
+"href": "https://ncleg.gov/"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:info@capenconsulting.com?subject=SAWYER%3A+Press+Inquiry"
+},
+{
+"text": "Secretary of State's Office",
+"href": "https://www.sosnc.gov/"
+},
+{
+"text": "Senate Members",
+"href": "https://www.ncleg.gov/Members/MemberList/S"
+},
+{
+"text": "Senate Page Program",
+"href": "https://www.ncleg.gov/Senate/PageProgram"
+},
+{
+"text": "State Agencies",
+"href": "https://www.nc.gov/agencies"
+},
+{
+"text": "State Constitution",
+"href": "https://www.ncleg.gov/Laws/Constitution"
+},
+{
+"text": "Treasurer's Office",
+"href": "https://www.nctreasurer.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SenatorVickieSawyer/"
+},
+{
+"text": "[image: Instagram ]",
+"href": "https://www.instagram.com/SenatorSawyer/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/SenatorSawyer"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/senatorsawyer"
+},
+{
+"text": "[image: VSawyer Logo vB.png]",
+"href": "https://www.sawyernc.com"
+},
+{
+"text": "[image]",
+"href": "https://www.capenconsulting.com/"
+}
 ]

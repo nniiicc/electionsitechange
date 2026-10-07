@@ -1,15 +1,70 @@
 [
-"https://bsky.app/profile/samwilcoxforri.bsky.social",
-"https://facebook.com/SamWilcoxforRI",
-"https://forms.gle/rFpFyGfc3U1G4thLA",
-"https://instagram.com/SamWilcoxforRI",
-"https://samwilcoxforri.com/",
-"https://samwilcoxforri.com/about",
-"https://samwilcoxforri.com/events",
-"https://samwilcoxforri.com/posts",
-"https://samwilcoxforri.com/subscribe",
-"https://samwilcoxforri.com/vote",
-"https://secure.actblue.com/donate/wilcox26",
-"https://tiktok.com/@samwilcoxforri",
-"https://wordpress.com/"
+{
+"text": "About",
+"href": "https://samwilcoxforri.com/about/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/samwilcoxforri.bsky.social"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/wilcox26"
+},
+{
+"text": "Events",
+"href": "https://samwilcoxforri.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SamWilcoxforRI/"
+},
+{
+"text": "HOW TO VOTE",
+"href": "https://samwilcoxforri.com/vote/"
+},
+{
+"text": "Home",
+"href": "https://samwilcoxforri.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/SamWilcoxforRI"
+},
+{
+"text": "Issues",
+"href": "https://samwilcoxforri.com/posts/"
+},
+{
+"text": "Learn More",
+"href": "https://samwilcoxforri.com/about/"
+},
+{
+"text": "Mail",
+"href": "mailto:samwilcoxri@gmail.com"
+},
+{
+"text": "Samantha Wilcox for State Senate District 34",
+"href": "https://samwilcoxforri.com"
+},
+{
+"text": "Subscribe",
+"href": "https://samwilcoxforri.com/subscribe/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@samwilcoxforri"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/rFpFyGfc3U1G4thLA"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.com"
+},
+{
+"text": "← Back",
+"href": "https://samwilcoxforri.com/"
+}
 ]

@@ -1,20 +1,90 @@
 [
-"http://store.bethmacyforcongress.com/",
-"https://bethmacy.substack.com/",
-"https://bethmacy.substack.com/p/a-master-class-in-hope?r=r9j3u&triedRedirect=true",
-"https://bethmacyforcongress.com/",
-"https://bethmacyforcongress.com/cdn-cgi/l/email-protection",
-"https://bethmacyforcongress.com/endorsements",
-"https://bethmacyforcongress.com/news",
-"https://bethmacyforcongress.com/priorities",
-"https://bethmacyforcongress.com/privacy-policy-2",
-"https://bethmacyforcongress.com/tell-us",
-"https://bsky.app/profile/bethmacy.bsky.social",
-"https://facebook.com/authorBethMacy",
-"https://gardenandgun.com/beth-macy-gardens-her-way-home",
-"https://instagram.com/bethmacy?igsh=OG5laWFyOWwxcmZt",
-"https://mobilize.us/bethmacyforcongress",
-"https://sbdigital.com/",
-"https://secure.actblue.com/donate/bm-web",
-"https://x.com/papergirlmacy"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bm-web"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/bm-web"
+},
+{
+"text": "Endorsements",
+"href": "https://bethmacyforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/bethmacyforcongress/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/authorBethMacy/"
+},
+{
+"text": "Garden & Gun",
+"href": "https://gardenandgun.com/beth-macy-gardens-her-way-home"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bethmacy?igsh=OG5laWFyOWwxcmZt"
+},
+{
+"text": "Latest News",
+"href": "https://bethmacyforcongress.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://bethmacyforcongress.com/priorities/"
+},
+{
+"text": "Store",
+"href": "http://store.bethmacyforcongress.com/"
+},
+{
+"text": "Subscribe to My Substack",
+"href": "https://bethmacy.substack.com/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/papergirlmacy"
+},
+{
+"text": "Your Story",
+"href": "https://bethmacyforcongress.com/tell-us/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:hello@bethmacyforcongress.com"
+},
+{
+"text": "[image: Beth Macy for Congress logo]",
+"href": "https://bethmacyforcongress.com"
+},
+{
+"text": "[image]",
+"href": "https://sbdigital.com"
+},
+{
+"text": "[no text]",
+"href": "https://bethmacy.substack.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/bethmacy.bsky.social"
+},
+{
+"text": "https://bethmacy.substack.com/p/a-master-class-in-hope?r=r9j3u&utm_campaign=post&utm_medium=web&utm_id=97757_v0_s00_e233_tv2_tp1_a1demo0gzdr3ch&fbclid=IwY2xjawSGk5VleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeQiRXhKT5MU1MoNGDjKvXU9ji6IaUfW_eTI7mV6GjYPK1npwV2hOyILeT8yQ_aem_7mQ3RbJ0zQ0O2w0ageMREg&triedRedirect=true",
+"href": "https://bethmacy.substack.com/p/a-master-class-in-hope?r=r9j3u&triedRedirect=true"
+},
+{
+"text": "making a donation today",
+"href": "https://secure.actblue.com/donate/bm-web"
+},
+{
+"text": "piece for",
+"href": "https://gardenandgun.com/beth-macy-gardens-her-way-home"
+},
+{
+"text": "© Copyright #. All Rights Reserved. Privacy Policy.",
+"href": "https://bethmacyforcongress.com/privacy-policy-2/"
+}
 ]

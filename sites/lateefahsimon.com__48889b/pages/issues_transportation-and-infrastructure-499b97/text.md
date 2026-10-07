@@ -1,7 +1,6 @@
-Transportation and Infrastructure
-Through her experience on the BART Board of Directors and her daily commutes on public transportation, Lateefah knows how transportation touches every person’s life.
+Skip navigation menu MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE Priorities MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE Priorities Public Safety Affordable Housing Homelessness Affordability and Job Creation Healthcare for All Reproductive Freedom Racial and Social Justice Immigration LGBTQ+ Rights Disability Rights Voting Rights and Democracy Reform Global Security Innovation Transportation and Infrastructure Climate and Environmental Justice Building a Care Economy Transportation and Infrastructure Through her experience on the BART Board of Directors and her daily commutes on public transportation, Lateefah knows how transportation touches every person’s life.
 In CA-12, many residents use a bike or walk to get around, and the safety of our streets must reflect that.
 As Congresswoman, she will push for federal transit grants to shrink driving lanes, lower curb radiuses, and protect bike lanes.
 She will work to end the 80-20 split that allocates 80% of funding to highways and only 20% to transit.
 To reduce our reliance on cars, Lateefah will increase funding levels for transit infrastructure and create incentives to reduce parking minimums in high transit areas.
-Her office will ensure that public transportation will continue to become more equitable, accessible, and safe for all community members.
+Her office will ensure that public transportation will continue to become more equitable, accessible, and safe for all community members. info@LateefahSimon.com Lateefah for Congress 1714 Franklin St #100 - 438 Oakland, CA 94612 Privacy Policy Powered by RUN! website builder Paid for by Lateefah for Congress You need to enable JavaScript to run this app.

@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Come+Knock+Doors+in+Evansville&dates=20220910T160000Z%2F20220910T210000Z&location=528+Water+Street%2C+Evansville%2C+WI%2C+53536%2C+United+States",
-"http://maps.google.com/?q=528+Water+Street+Evansville%2C+WI%2C+53536+United+States",
-"https://clintonforassembly.com/",
-"https://clintonforassembly.com/about",
-"https://clintonforassembly.com/cart",
-"https://clintonforassembly.com/endorsements",
-"https://clintonforassembly.com/events",
-"https://clintonforassembly.com/events/come-knock-doors-in-evansville?format=ical",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb",
-"https://clintonforassembly.com/issues",
-"https://facebook.com/Clinton-Anderson-for-Assembly-District-45-104142868937053",
-"https://mobilize.us/s/8zMq2X",
-"https://secure.actblue.com/donate/clinton-for-45"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=528+water+street+evansville%2C+wi%2C+53536+united+states"
+},
+{
+"text": "0",
+"href": "https://www.clintonforassembly.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.clintonforassembly.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.clintonforassembly.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/clinton-for-45"
+},
+{
+"text": "Endorsements",
+"href": "https://www.clintonforassembly.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.clintonforassembly.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Come+Knock+Doors+in+Evansville&dates=20220910T160000Z%2F20220910T210000Z&location=528+Water+Street%2C+Evansville%2C+WI%2C+53536%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.clintonforassembly.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/come-knock-doors-in-evansville?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.clintonforassembly.com/issues"
+},
+{
+"text": "Next Next September 11 Come Knock on Doors in Beloit",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb"
+},
+{
+"text": "Previous Previous September 4 Come Knock on Doors in Beloit",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9"
+},
+{
+"text": "Sign up here.",
+"href": "https://mobilize.us/s/8zMq2X"
+},
+{
+"text": "[image: Clinton Anderson for Assembly]",
+"href": "https://www.clintonforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Clinton-Anderson-for-Assembly-District-45-104142868937053"
+}
 ]

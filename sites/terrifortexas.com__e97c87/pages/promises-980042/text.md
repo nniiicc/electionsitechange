@@ -1,38 +1,34 @@
-- Supported $8.5 billion in new public education funding — the largest teacher pay raise in state history.
-- Backed major investments in special education, school safety, early learning, and career/technical pathways.
-- Championed universal Education Savings Accounts, giving parents more control and choice in their child’s education.
-- Authored and passed key legislation to support families and schools, including:
-- HB 100 – improves adoption and use of instructional materials.
-- SB 204 – establishes a required Parental Rights Handbook.
-- SB 207 – ensures excused absences for essential student mental-health appointments.
-- Demonstrated a sustained commitment to strong public schools and real educational freedom for every Texas family.
-- Secured a major win for Gulf Coast shrimpers with SB 823, ensuring imported seafood is accurately labeled.
-- Authored and Passed Funding for the Galveston Texas A&M Training Ship that will train the next generation of Navy Captains, Merchant Marines, Shipping Industry Engineers and will convert to an emergency hospital to serve the coastline during natural disasters.
-- Authored and Passed Legislation for Bolivar Peninsula, designating Hwy 87 an Emergency Route and Fixed the Flawed System for Ferry Procedures on Stalled Vehicles.
-- Joint Authored and Passed Legislation for Greater Gulf Coast Protection District and Resiliency Funding.
-- Joint Authored and Passed Legislation For Historic State Funding of Rural Law Enforcement and DA's Offices for Chambers County.
-- Joint Authored and Passed Legislation to Support Volunteer Fire Departments and Routine Cancer Screening for Firefighters.
-- Co-Authored and Passed Legislation for Area Drainage Grants and Projects throughout HD 23.
-- Co-Authored and Passed Legislation to Fund Infrastructure Projects around our Ports and Industries.
-- Advanced local economic development with cultural designations supporting tourism and business:
-- Galveston as the Juneteenth Capital of Texas.
-- Galveston as the Mardi Gras Capital of Texas.
-- Winnie recognized as the Rice Capital of Texas.
-- Passed HB 721 to allow UTMB to continue operating the Multi-Share health plan relied on by local employers.
-- Ensured that industries driving our region — tourism, agriculture, ports, and healthcare — remain strong, competitive, and prosperous.
-- Protected Bolivar Peninsula residents’ ability to use aerobic septic systems by preserving critical permitting options.
--
-Strengthened local governance with targeted reforms:
-- HB 2900 – ensures Trinity Bay Conservation District maintains separate drainage and water/sewage funds.
-- HB 3097 – speeds up disaster recovery fund disbursement for cities.
-- HB 5309 – removes outdated meeting requirements for the Galveston Juvenile Justice Board.
-- Passed SB 65 to help Galveston County adopt uniform work hours for county employees.
-- Secured long-term water, drainage, and flood control resources through SB 7 and HJR 7, dedicating $1 billion annually to the Texas Water Fund starting in 2027.
-- Secured long-term water and flood control resources through SB 7 and HJR 7, dedicating $1 billion annually to the Texas Water Fund starting in 2027.
-- Delivered procurement reform with SB 1173, raising the county competitive-bidding threshold to $100,000 for more efficient use of taxpayer dollars.
-- Supported rural communities with statewide programs, including expanded benefits and the Rural Economic Development and Investment Program.
-- Strengthened Chambers County’s economic future through SB 1745, enhancing the authority of the Cedar Port Navigation and Improvement District.
-Protected Texas Land by banning hostile foreign nations, including China and North Korea, from purchasing property in Texas.
+About Terri Record Promises Kept Endorsements Donate Promises Made, Promises Kept Promise: Strengthen Public Education & Empower Parental Choice Delivered: Supported $8.5 billion in new public education funding — the largest teacher pay raise in state history.
+Backed major investments in special education, school safety, early learning, and career/technical pathways.
+Championed universal Education Savings Accounts , giving parents more control and choice in their child’s education.
+Authored and passed key legislation to support families and schools, including: HB 100 – improves adoption and use of instructional materials.
+SB 204 – establishes a required Parental Rights Handbook.
+SB 207 – ensures excused absences for essential student mental-health appointments.
+Demonstrated a sustained commitment to strong public schools and real educational freedom for every Texas family.
+Promise: Support Local Industry Delivered: Secured a major win for Gulf Coast shrimpers with SB 823 , ensuring imported seafood is accurately labeled.
+Authored and Passed Funding for the Galveston Texas A&M Training Ship that will train the next generation of Navy Captains, Merchant Marines, Shipping Industry Engineers and will convert to an emergency hospital to serve the coastline during natural disasters.
+Authored and Passed Legislation for Bolivar Peninsula, designating Hwy 87 an Emergency Route and Fixed the Flawed System for Ferry Procedures on Stalled Vehicles.
+Joint Authored and Passed Legislation for Greater Gulf Coast Protection District and Resiliency Funding.
+Joint Authored and Passed Legislation For Historic State Funding of Rural Law Enforcement and DA's Offices for Chambers County.
+Joint Authored and Passed Legislation to Support Volunteer Fire Departments and Routine Cancer Screening for Firefighters.
+Co-Authored and Passed Legislation for Area Drainage Grants and Projects throughout HD 23.
+Co-Authored and Passed Legislation to Fund Infrastructure Projects around our Ports and Industries.
+Advanced local economic development with cultural designations supporting tourism and business: Galveston as the Juneteenth Capital of Texas.
+Galveston as the Mardi Gras Capital of Texas.
+Winnie recognized as the Rice Capital of Texas.
+Passed HB 721 to allow UTMB to continue operating the Multi-Share health plan relied on by local employers.
+Ensured that industries driving our region — tourism, agriculture, ports, and healthcare — remain strong, competitive, and prosperous.
+Promise: Provide Solutions to Local Issues Delivered: Protected Bolivar Peninsula residents’ ability to use aerobic septic systems by preserving critical permitting options.
+Strengthened local governance with targeted reforms: HB 2900 – ensures Trinity Bay Conservation District maintains separate drainage and water/sewage funds.
+HB 3097 – speeds up disaster recovery fund disbursement for cities.
+HB 5309 – removes outdated meeting requirements for the Galveston Juvenile Justice Board.
+Passed SB 65 to help Galveston County adopt uniform work hours for county employees.
+Secured long-term water, drainage, and flood control resources through SB 7 and HJR 7, dedicating $1 billion annually to the Texas Water Fund starting in 2027.
+Secured long-term water and flood control resources through SB 7 and HJR 7 , dedicating $1 billion annually to the Texas Water Fund starting in 2027.
+Delivered procurement reform with SB 1173 , raising the county competitive-bidding threshold to $100,000 for more efficient use of taxpayer dollars.
+Supported rural communities with statewide programs, including expanded benefits and the Rural Economic Development and Investment Program.
+Strengthened Chambers County’s economic future through SB 1745 , enhancing the authority of the Cedar Port Navigation and Improvement District.
+Promise: Protect Texas Land, Citizens, and Children Delivered: Protected Texas Land by banning hostile foreign nations, including China and North Korea, from purchasing property in Texas.
 I’ll always take action to safeguard Texas interests and ensure our state’s future stays secure, stable, and Texas-strong.
 Protected Texas Women and Girls in their private spaces making sure women and girls will not be forced to share their lockers rooms, showers, and private spaces with biological men.
 Protected Texas Minors by removing the Affirmative Defense argument that protected child groomers and adults who commit sex crimes against the most innocent among us.
@@ -69,10 +65,15 @@ Criminalized illegal entry into Texas and funded the border wall and security.
 Protected Texas Industry and Businesses with regulatory reforms, cutting red tape & rooting our unnecessary regulations.
 Supported legislation that supports transparency and preserves the independence of our judicial and regulatory systems.
 Helped pass personal property business tax exemption.
-Pol.
+Join Our Team First Name * Last Name * Email Address * Mobile Phone I'm In!
+By providing my mobile number I consent to receive informational text messages from Terri Leo Wilson Campaign.
+Message frequency may vary.
+Msg & Data rates may apply.
+Donations may be solicited.
+Text STOP to opt-out.
+Text HELP for help.
+For additional information, please see our Terms & Conditions and Privacy Policies .
+Mobile and opt-in data will not be shared with third parties.
+Donate Pol.
 Adv.
-Pd. for by Terri Leo Wilson Campaign
-©
-document.write((new Date).getFullYear()) Copyright
-Terri Leo Wilson For State Representative
-- All Rights Reserved
+Pd. for by Terri Leo Wilson Campaign © Copyright Terri Leo Wilson For State Representative - All Rights Reserved

@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.kaufmannfororegon.com/news/working-families-party-of-oregon-endorses-roy-kaufmann-for-hd18",
- "paid_for_by": null,
+ "fingerprint": "af5c0398a45fa5026366e3452b62b23a9b906d06",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Working Families Party of Oregon Endorses Roy Kaufmann for HD18",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

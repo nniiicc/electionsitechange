@@ -1,5 +1,42 @@
 [
-"https://electmikegaskill.com/",
-"https://facebook.com/ElectMikeGaskill",
-"https://secure.winred.com/mike-gaskill-for-indiana/donate-today"
+{
+"text": "$10",
+"href": "https://secure.winred.com/mike-gaskill-for-indiana/donate-today"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/mike-gaskill-for-indiana/donate-today"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/mike-gaskill-for-indiana/donate-today"
+},
+{
+"text": "$5",
+"href": "https://secure.winred.com/mike-gaskill-for-indiana/donate-today"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/mike-gaskill-for-indiana/donate-today"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/mike-gaskill-for-indiana/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ElectMikeGaskill/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/ElectMikeGaskill/"
+},
+{
+"text": "[image: Mike Gaskill for Senate]",
+"href": "https://electmikegaskill.com/"
+},
+{
+"text": "info@electmikegaskill.com",
+"href": "mailto:info@electmikegaskill.com"
+}
 ]

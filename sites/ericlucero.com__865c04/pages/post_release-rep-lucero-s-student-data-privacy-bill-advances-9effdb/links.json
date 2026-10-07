@@ -1,9 +1,58 @@
 [
-"https://ericlucero.com/",
-"https://ericlucero.com/about",
-"https://ericlucero.com/contact",
-"https://ericlucero.com/news",
-"https://ericlucero.com/photos",
-"https://facebook.com/DefendingTruth",
-"https://youtube.com/channel/UCqdRG1GKhKGPspKva97HlRQ"
+{
+"text": "ABOUT ERIC",
+"href": "https://www.ericlucero.com/about"
+},
+{
+"text": "All Posts",
+"href": "https://www.ericlucero.com/news"
+},
+{
+"text": "CONTACT",
+"href": "https://www.ericlucero.com/contact"
+},
+{
+"text": "MCCL State PAC endorses Eric Lucero in run for State Senate",
+"href": "https://www.ericlucero.com/post/mccl-state-pac-endorses-eric-lucero-in-run-for-state-senate"
+},
+{
+"text": "NEWS",
+"href": "https://www.ericlucero.com/news"
+},
+{
+"text": "PHOTOS",
+"href": "https://www.ericlucero.com/photos"
+},
+{
+"text": "Rep. Lucero Proposes Bill to Stop ESG (Environmental Social Governance)",
+"href": "https://www.ericlucero.com/post/rep-lucero-proposes-bill-to-stop-environmental-social-governance-esg"
+},
+{
+"text": "See All",
+"href": "https://www.ericlucero.com/news"
+},
+{
+"text": "State Rep. Lucero changes FB page name to \"Eric Lucero for MN Senate\"",
+"href": "https://www.ericlucero.com/post/state-rep-lucero-changes-fb-page-name-to-eric-lucero-for-mn-senate"
+},
+{
+"text": "[image: Lucero_Logo_edited_edited_edited.png]",
+"href": "https://www.ericlucero.com"
+},
+{
+"text": "[image: MCCL State PAC endorses Eric Lucero in run for State Senate]",
+"href": "https://www.ericlucero.com/post/mccl-state-pac-endorses-eric-lucero-in-run-for-state-senate"
+},
+{
+"text": "[image: Rep. Lucero Proposes Bill to Stop ESG (Environmental Social Governance)]",
+"href": "https://www.ericlucero.com/post/rep-lucero-proposes-bill-to-stop-environmental-social-governance-esg"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/DefendingTruth"
+},
+{
+"text": "[image: White YouTube Icon]",
+"href": "https://www.youtube.com/channel/UCqdRG1GKhKGPspKva97HlRQ"
+}
 ]

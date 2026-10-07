@@ -1,7 +1,7 @@
-Scott Herndon continues his fight for the 2nd Amendment.
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page Scott Herndon fights for the 2nd Amendment Jun 22, 2023 | Breaking News , Legislative News , Policy Analysis Scott Herndon continues his fight for the 2nd Amendment.
 Idaho Supreme Court Opinion in Herndon v.
-City of Sandpoint
-Sandpoint, Idaho– After almost 4 years since the events that created the suit, the Idaho Supreme Court issued its 5-0 opinion today in the Herndon v.
+City of Sandpoint Sandpoint, Idaho– After almost 4 years since the events that created the suit, the Idaho Supreme Court issued its 5-0 opinion today in the Herndon v.
 City of Sandpoint lawsuit.
 At issue was whether cities in Idaho can lease public property, even for very short periods of time, and thereby convey to the leaseholders the ability to ban firearm carry on the (normally) public property.
 In this case, an annual summer concert series is held four nights a week for two weeks in a public park in Sandpoint.
@@ -28,3 +28,5 @@ Today’s court decision provides a mechanism for cities to take away the averag
 While property rights are fundamental, gun rights are equally fundamental, and the right of self-defense must be protected on public property”, said Herndon.
 He continued, “I look forward to finding a solution with Idaho’s conservative Republicans, the Idaho Freedom Caucus, the Idaho Second Amendment Alliance and all those who treasure public safety and the 2nd amendment”.
 For more information contact Senator Scott Herndon at (208) 610-2680.
+Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

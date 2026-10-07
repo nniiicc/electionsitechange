@@ -1,41 +1,178 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=District+40%27s+2026+Scholarship+Award+Ceremony&dates=20260608T223000Z%2F20260609T000000Z&location=140+West+Mount+Royal+Avenue%2C+Baltimore%2C+Maryland%2C+21201%2C+United+States",
-"http://instagram.com/marlonamprey",
-"http://maps.google.com/?q=140+West+Mount+Royal+Avenue+Baltimore%2C+Maryland%2C+21201+United+States",
-"http://mgaleg.maryland.gov/mgawebsite/Members/Details/amprey01",
-"https://facebook.com/DelegateMarlonAmprey",
-"https://forms.gle/4dv7r9pqfaW4xMyBA",
-"https://linkedin.com/in/marlonamprey",
-"https://lyricbaltimore.com/",
-"https://marlonamprey.com/",
-"https://marlonamprey.com/2026eosl",
-"https://marlonamprey.com/about",
-"https://marlonamprey.com/cart",
-"https://marlonamprey.com/community-funding",
-"https://marlonamprey.com/contact-us",
-"https://marlonamprey.com/energy-and-utility-assistance",
-"https://marlonamprey.com/events",
-"https://marlonamprey.com/events/d40-2026-scholarship-award-ceremony?format=ical",
-"https://marlonamprey.com/events/delegate-amprey-2026-summer-reception-fundraiser",
-"https://marlonamprey.com/food-assistance",
-"https://marlonamprey.com/in-the-news",
-"https://marlonamprey.com/issues",
-"https://marlonamprey.com/legal-assistance",
-"https://marlonamprey.com/legislative-accomplishments",
-"https://marlonamprey.com/meet-marlon",
-"https://marlonamprey.com/meet-the-team",
-"https://marlonamprey.com/news",
-"https://marlonamprey.com/newsletter",
-"https://marlonamprey.com/policy-goals",
-"https://marlonamprey.com/resources",
-"https://marlonamprey.com/scholarships",
-"https://marlonamprey.com/senior-and-older-adult-assistance",
-"https://marlonamprey.com/sign-request",
-"https://marlonamprey.com/social-media-policy",
-"https://marlonamprey.com/videos",
-"https://marlonamprey.com/volunteer",
-"https://marlonamprey.com/volunteer-sign-up",
-"https://marlonamprey.com/vote",
-"https://secure.actblue.com/donate/amprey",
-"https://twitter.com/marlonamprey"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=140+west+mount+royal+avenue+baltimore%2C+maryland%2C+21201+united+states"
+},
+{
+"text": "0",
+"href": "https://www.marlonamprey.com/cart"
+},
+{
+"text": "2026 End of Session Letter",
+"href": "https://www.marlonamprey.com/2026eosl"
+},
+{
+"text": "Back",
+"href": "https://www.marlonamprey.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.marlonamprey.com/events"
+},
+{
+"text": "Community Funding",
+"href": "https://www.marlonamprey.com/community-funding"
+},
+{
+"text": "Contact Us",
+"href": "https://www.marlonamprey.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amprey"
+},
+{
+"text": "Energy and Utility Assistance",
+"href": "https://www.marlonamprey.com/energy-and-utility-assistance"
+},
+{
+"text": "Events",
+"href": "https://www.marlonamprey.com/events"
+},
+{
+"text": "Folder: About",
+"href": "https://www.marlonamprey.com/about"
+},
+{
+"text": "Folder: Blog",
+"href": "https://www.marlonamprey.com/news"
+},
+{
+"text": "Folder: Legislative Matters",
+"href": "https://www.marlonamprey.com/issues"
+},
+{
+"text": "Folder: Resources",
+"href": "https://www.marlonamprey.com/resources"
+},
+{
+"text": "Folder: Volunteer",
+"href": "https://www.marlonamprey.com/volunteer"
+},
+{
+"text": "Food Assistance",
+"href": "https://www.marlonamprey.com/food-assistance"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=District+40%27s+2026+Scholarship+Award+Ceremony&dates=20260608T223000Z%2F20260609T000000Z&location=140+West+Mount+Royal+Avenue%2C+Baltimore%2C+Maryland%2C+21201%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.marlonamprey.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.marlonamprey.com/events/d40-2026-scholarship-award-ceremony?format=ical"
+},
+{
+"text": "In the News",
+"href": "https://www.marlonamprey.com/in-the-news"
+},
+{
+"text": "Legal Assistance",
+"href": "https://www.marlonamprey.com/legal-assistance"
+},
+{
+"text": "Legislative Accomplishments",
+"href": "https://www.marlonamprey.com/legislative-accomplishments"
+},
+{
+"text": "Meet Marlon",
+"href": "https://www.marlonamprey.com/meet-marlon"
+},
+{
+"text": "Meet the Team",
+"href": "https://www.marlonamprey.com/meet-the-team"
+},
+{
+"text": "Newsletter",
+"href": "https://www.marlonamprey.com/newsletter"
+},
+{
+"text": "Policy Goals",
+"href": "https://www.marlonamprey.com/policy-goals"
+},
+{
+"text": "Previous Previous May 27 Delegate Amprey's 2026 Summer Reception Fundraiser",
+"href": "https://www.marlonamprey.com/events/delegate-amprey-2026-summer-reception-fundraiser"
+},
+{
+"text": "RSVP HERE",
+"href": "https://forms.gle/4dv7r9pqfaW4xMyBA"
+},
+{
+"text": "Scholarships",
+"href": "https://www.marlonamprey.com/scholarships"
+},
+{
+"text": "Senior and Older Adult Assistance",
+"href": "https://www.marlonamprey.com/senior-and-older-adult-assistance"
+},
+{
+"text": "Sign Request",
+"href": "https://www.marlonamprey.com/sign-request"
+},
+{
+"text": "Social Media Policy",
+"href": "https://www.marlonamprey.com/social-media-policy"
+},
+{
+"text": "The Lyric",
+"href": "https://lyricbaltimore.com"
+},
+{
+"text": "Videos",
+"href": "https://www.marlonamprey.com/videos"
+},
+{
+"text": "Volunteer Sign-Up",
+"href": "https://www.marlonamprey.com/volunteer-sign-up"
+},
+{
+"text": "Voting Information",
+"href": "https://www.marlonamprey.com/vote"
+},
+{
+"text": "[image: marlonamprey.com]",
+"href": "https://www.marlonamprey.com/"
+},
+{
+"text": "[image]",
+"href": "https://forms.gle/4dv7r9pqfaW4xMyBA"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/marlonamprey"
+},
+{
+"text": "[no text]",
+"href": "http://mgaleg.maryland.gov/mgawebsite/Members/Details/amprey01"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/marlonamprey"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DelegateMarlonAmprey/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/marlonamprey"
+},
+{
+"text": "https://forms.gle/4dv7r9pqfaW4xMyBA",
+"href": "https://forms.gle/4dv7r9pqfaW4xMyBA"
+}
 ]

@@ -1,9 +1,15 @@
-Join the Fight.
+Skip to content CONTRIBUTE Meet Scott Sign Up Issues Connect Scott Fitzgerald for Congress Real Reform in Washington Real Results for Wisconsin Scott Fitzgerald is working with President Trump to secure our border, end D.C.’s reckless spending, and bring real relief to Wisconsin.
+Meet Scott Contribute. $5 $25 $50 $100 Join the Fight.
 Fixing Washington isn’t going to happen overnight.
 It takes action, dedication, and all of us working together.
-Sign up to be notified about events, petitions, volunteer opportunities, and more.
-"*" indicates required fields
-Meet Scott.
+Sign up to be notified about events, petitions, volunteer opportunities, and more. " * " indicates required fields Name * First Last Email * Phone * Zip Code * Sign Up for Volunteer Updates Sign Up for Volunteer Updates I consent to SMS/MMS messages.
+I consent to SMS/MMS messages.
+By providing your mobile phone number, you are giving your consent to receive calls and SMS/MMS messages to that number from Scott Fitzgerald for Congress.
+Msg frequency varies.
+Msg & data rates may apply.
+Text STOP to end.
+Text HELP for support or e-mail info@scottfitzgeraldforcongress.com.
+Privacy Policy SIGN UP Meet Scott.
 Elected in 2020, Congressman Fitzgerald proudly represents Wisconsin’s Fifth Congressional District in Congress.
 Serving on the House Committee on Financial Services, Congressman Fitzgerald is working to protect taxpayers and lower costs for seniors and hard-working families.
 He also serves on the House Committee on the Judiciary where he works to protect the rule of law and rein in D.C.'s out-of-control bureaucracies.
@@ -22,6 +28,14 @@ As the son and father of law enforcement, Scott is a proud and loyal supporter o
 Scott served 27 years in the Army Reserve, rising to the rank of Lieutenant Colonel.
 He’ll fight to defend our country and honor those who served.
 Scott will tirelessly defend Wisconsin values like the right to life and the Second Amendment.
-Let's Chat.
+Contribute. $5 $25 $50 $100 Let's Chat.
 Scott would love to hear from you.
 Contact us to ask questions about the issues or to get involved in the Fitzgerald campaign today.
+Name First Last Email Phone Zip Code Message SEND To mail a contribution, please send to: Scott Fitzgerald for Congress PO Box 484, Oconomowoc, WI 53066 Follow us.
+Meet Scott Sign Up Issues Connect Scott Fitzgerald for Congress • P.O.
+Box 484, Oconomowoc, WI 53066 • Staff@ScottFitzgeraldForCongress.com Paid for by Scott Fitzgerald for Congress Use of military images or rank does not imply endorsement by the U.S.
+Department of Defense or the U.S.
+Army.
+Privacy Policy | © Copyright #.
+All rights reserved.
+X

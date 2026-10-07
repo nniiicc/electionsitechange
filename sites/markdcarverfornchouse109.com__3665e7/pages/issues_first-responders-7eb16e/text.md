@@ -1,6 +1,3 @@
-First Responders
-Unfortunately, those most deserving of our support often find themselves neglected by a system that views them as tools rather than people.
-We must demand:
-- Better pay, shorter hours, and more accessible mental health support for EMTs.
-- Law enforcement training that promotes individual initiative and community familiarity.
-- Free proactive muscle and joint care for firefighters.
+Meet Mark Issues News Volunteer Contribute Home ❭ Issues ❭ First Responders First Responders Unfortunately, those most deserving of our support often find themselves neglected by a system that views them as tools rather than people.
+We must demand: - Better pay, shorter hours, and more accessible mental health support for EMTs. - Law enforcement training that promotes individual initiative and community familiarity. - Free proactive muscle and joint care for firefighters.
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Mark Carver Powered by CampaignPartner.com - Political Websites Home Meet Mark Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

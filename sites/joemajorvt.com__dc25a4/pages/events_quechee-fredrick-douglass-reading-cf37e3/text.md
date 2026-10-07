@@ -1,10 +1,4 @@
-Back to All Events
-Annual reading of Frederick Douglass’ “What the 4th of July Means to a Slave” Event.
+0 Skip to Content Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Open Menu Close Menu Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Open Menu Close Menu Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Back to All Events Quechee Frederick Douglass Reading Saturday, July 4, 2026 11:00 AM Sunday, July 5, 2026 12:00 AM Quechee Village Green 70 Village Green Quechee, VT 05059 United States (map) Google Calendar ICS Annual reading of Frederick Douglass’ “What the 4th of July Means to a Slave” Event.
 Scheduled for11AM on July 4th at the Quechee Green.
-Previous
-Previous
-July 4
-Hartland Old Home Day
-Next
-Next
-July 4
+Previous Previous July 4 Hartland Old Home Day Next Next July 4 West Windsor Independence Day Grand Parade Joe Major for Windsor County Senate Donate Today!
+Actblue.com

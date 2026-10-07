@@ -1,7 +1,4 @@
-DON’T SETTLE for less
-Darrin is a bold leader who advocates for all of us
-Dear Neighbor,
-My name is Darrin Camilleri, and I have the honor of serving Downriver and Western Wayne County in the Michigan State Senate.
+0 Skip to Content Meet Darrin Priorities Events Endorsements News & Media Media Toolkit GET INVOLVED Volunteer Request a Yard Sign Donate Open Menu Close Menu Meet Darrin Priorities Events Endorsements News & Media Media Toolkit GET INVOLVED Volunteer Request a Yard Sign Donate Open Menu Close Menu Meet Darrin Priorities Events Endorsements Folder: News & Media Back Media Toolkit Folder: GET INVOLVED Back Volunteer Request a Yard Sign Donate DON’T SETTLE for less Darrin is a bold leader who advocates for all of us Dear Neighbor, My name is Darrin Camilleri, and I have the honor of serving Downriver and Western Wayne County in the Michigan State Senate.
 My district covers seventeen communities, including my hometown of Brownstown Township and the City of Trenton, where I live today with my wife, Lama.
 Before being elected to the Senate, I was one of the youngest members of the State House, following a career as a teacher.
 I am the son and grandson of union auto workers, born from a family of immigrants who came to Michigan to pursue their American Dream.
@@ -15,7 +12,11 @@ I have seen firsthand that if we work together, we can build the Michigan we wan
 But we still have a long way to go to realize our potential as a state, and this journey starts with a government that prioritizes working families and understands our communities’ stories of struggle and success.
 I’m honored to be your advocate in Lansing.
 One of my top priorities is being accessible to the communities I serve, so please get in touch with me and my team if you need anything or have any questions.
-You can reach us on social media @darrincamilleri or via email at info@darrincamilleri.com.
+You can reach us on social media @darrincamilleri or via email at info@darrincamilleri.com .
 I’m looking forward to starting the conversation about our future.
 Together, we can build a better and brighter Michigan for all.
-Senator Darrin Camilleri
+Senator Darrin Camilleri Meet Darrin Learn more about Senator Camilleri, his priorities, and the work he has done in Lansing.
+Learn more ➜ Stay updated.
+Volunteer with team camilleri & get updates Learn more ➜ Contact: info@darrincamilleri.com PO Box 818 Trenton, MI 48183 Political donations are not tax exempt. donate ➜ Copyright © #.
+All rights reserved.
+Paid for by Darrin Camilleri for State Senate PO Box 818, Trenton, MI 48183

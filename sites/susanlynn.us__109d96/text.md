@@ -1,11 +1,4 @@
-Pop-up Preset:
-SUSAN LYNN'S RATINGS AND ENDORSEMENTS
-2026 CONSTITUTIONAL AMENDMENTS
-YOUR VOICE IS IMPORTANT!
-There are 3 Constitutional Amendments on the November 3rd ballot in Tennessee
-Read more...visit https://sos.tn.gov/elections
-amendment #3
-victims rights amendment
-Before You Leave
-Please Click Below
-to help our campaign!
+Pop-up Preset: Location: Centered Bottom Right Fullscreen Width Height Pop Options: Timer On Scroll On Exit Pop after seconds Pop after scrolling % of the page Home Links BIO REQUEST CONTACT SUSAN LYNN'S RATINGS AND ENDORSEMENTS 2026 CONSTITUTIONAL AMENDMENTS YOUR VOICE IS IMPORTANT!
+There are 3 Constitutional Amendments on the November 3rd ballot in Tennessee Read more...visit https://sos.tn.gov/elections amendment 1 bail bond amendment This amendment would allow a court to hold a defendant without bail before trial when that defendant is accused of an offense: punishable by the death penalty, an act of terrorism, second degree murder, aggravated rape of a child, aggravated rape, grave torture, or any crime for which a convicted person would be required to serve eighty-five percent of their sentence. amendment 2 ban on state property tax amendment The Legislature shall not levy, authorize, or otherwise permit any state tax upon real, personal or mixed property. amendment #3 victims rights amendment Adds to current rights, the right to fair treatment to be informed about and participate in the parole process to be protected from harassment, intimidation, and abuse to be informed of the minimum sentence the convicted criminal will serve, as well as their scheduled release date.
+Contact Representative Lynn Contact us for assistance or with questions or comments. to top send Special Requests TO TOP request Flag request Presentation Flag request Blue Book request Honor Your Scout request Certificate request Resolution request Letter request Invite request On-Site Visit request Meeting request Speaking request Day on the Hill request Capitol Tour request Page for a Day request Internship Find Information TO TOP QUICK LINK Power Links Links to state, county & city Quick link Legislation Find legislation QUICK LINK About Susan Lynn Susan's bio QUICK LINK Susan's Record Key legislation Representative Susan Lynn's Newsletter Weekly Wrap-up of Legislative News Our Community TO TOP friends of susan lynn support this website Capitol office: 425 5th Avenue North, Suite 426, Cordell Hull Bldg., Nashville, TN 37243 | (615) 741-7462 | rep.susan.lynn@capitol.tn.gov Before You Leave Please Click Below to help our campaign!
+Yard signs Volunteer Car Magnets Early Voting Donate

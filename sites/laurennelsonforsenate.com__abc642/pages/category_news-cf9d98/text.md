@@ -1,43 +1,15 @@
-Candidate Forum Monday, April 27th @ 7:00 PM Gayville Community Center – Gayville, Sd
-View More 2026 Yankton GOP Forums
-Category: News
-Legislaive Update
-Please join us!
+Skip to content Wednesday, October 07, 2026 Lauren Nelson for Senate P.O.
+Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … Category: News News 2026 Yankton GOP Forums Info April 29, 2026 Candidate Forum Monday, April 27th @ 7:00 PM Gayville Community Center – Gayville, Sd View More 2026 Yankton GOP Forums News Legislaive Update Info February 13, 2026 Please join us!
 Saturday, February 14th, 2026: Legislative Update – Wakonda, SD.
 Saturday, February 28th, 2026: Legislative Update – Gayville, SD.
-Ask questions directly to…
-View More Legislaive Update
-November 2025 Legislative Newsletter
-Thank you Gov Rhoden
-Today, with Governor Larry Rhoden’s historic signing of HB 1052 into law today, our South Dakota values and principles were upheld.
-Our South Dakota Republican…
-View More Thank you Gov Rhoden
-Week in Review 2/28/2025
-Week in Review 2/09/2025
-Thank you for your support!
-THANK YOU to the people of District 18 for your support and vote of confidence to be your next state senator.
-I’m truly honored and…
-View More Thank you for your support!
-State Senator for ALL of District 18
-Check out the interview with Amanda Radke: The Heart of Rural America
-Check out the Apple Podcast interview with Amanda Radke: The Heart of Rural America.
-The long-awaited update on the private property rights battle in South…
-View More Check out the interview with Amanda Radke: The Heart of Rural America
-Standing Up to the Carbon Pipeline Land Grab with Julie Auch & Lauren Nelson
-The long-awaited update on the private property rights battle in South Dakota is finally here.
-Learn about where things stand with the egregious bill, SB201…
-View More Standing Up to the Carbon Pipeline Land Grab with Julie Auch & Lauren Nelson
-Lauren Nelson is on Instagram
-View this profile on Instagram Lauren Nelson (@laurennelsonforsenate) • Instagram photos and videos
-View More Lauren Nelson is on Instagram
-This weekend we celebrated the high school graduation of my son Fred
-This weekend we celebrated the high school graduation of my son Fred.
+Ask questions directly to… View More Legislaive Update News November 2025 Legislative Newsletter Editor October 15, 2025 View More November 2025 Legislative Newsletter News Thank you Gov Rhoden Info March 6, 2025 Today, with Governor Larry Rhoden’s historic signing of HB 1052 into law today, our South Dakota values and principles were upheld.
+Our South Dakota Republican… View More Thank you Gov Rhoden News Week in Review 2/28/2025 Info February 26, 2025 View More Week in Review 2/28/2025 News Week in Review 2/09/2025 Info February 9, 2025 View More Week in Review 2/09/2025 News Thank you for your support!
+Editor November 10, 2024 THANK YOU to the people of District 18 for your support and vote of confidence to be your next state senator.
+I’m truly honored and… View More Thank you for your support!
+News Videos State Senator for ALL of District 18 Editor September 26, 2024 View More State Senator for ALL of District 18 News Check out the interview with Amanda Radke: The Heart of Rural America Editor May 31, 2024 Check out the Apple Podcast interview with Amanda Radke: The Heart of Rural America.
+The long-awaited update on the private property rights battle in South… View More Check out the interview with Amanda Radke: The Heart of Rural America News Videos Standing Up to the Carbon Pipeline Land Grab with Julie Auch & Lauren Nelson Editor May 29, 2024 The long-awaited update on the private property rights battle in South Dakota is finally here.
+Learn about where things stand with the egregious bill, SB201… View More Standing Up to the Carbon Pipeline Land Grab with Julie Auch & Lauren Nelson News Lauren Nelson is on Instagram Editor May 24, 2024 View this profile on Instagram Lauren Nelson (@laurennelsonforsenate) • Instagram photos and videos View More Lauren Nelson is on Instagram News This weekend we celebrated the high school graduation of my son Fred Editor May 21, 2024 This weekend we celebrated the high school graduation of my son Fred.
 Despite his young age, his fearlessness never ceases to amaze me.
-I am…
-View More This weekend we celebrated the high school graduation of my son Fred
-2024 District 18 State Senate and House Republican Primary Candidate Forum
-Lower Taxes
-LOWER TAXES is one of ten principles of the SD Republican Platform.
+I am… View More This weekend we celebrated the high school graduation of my son Fred News Videos 2024 District 18 State Senate and House Republican Primary Candidate Forum Editor May 20, 2024 View More 2024 District 18 State Senate and House Republican Primary Candidate Forum News Videos Lower Taxes Editor May 20, 2024 LOWER TAXES is one of ten principles of the SD Republican Platform.
 This is “real” economic development.
-To ask me about this topic in person,…
-View More Lower Taxes
+To ask me about this topic in person,… View More Lower Taxes Search Search You Need to Know 2026 Yankton GOP Forums April 29, 2026 Legislaive Update February 13, 2026 November 2025 Legislative Newsletter October 15, 2025 FaceBook Lauren Nelson For Senate PO Box 359 Yankton SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Paid for by: Lauren Nelson for Senate Lauren Nelson for Senate | Designed by: Theme Freesia | WordPress | © Copyright All right reserved Top

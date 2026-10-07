@@ -1,4 +1,4 @@
-The United States of America is a nation of the rule of law and a nation of compassion.
+Brian Fitzpatrick For Congress Home Bio Issues Contact Media Vote by Mail Endorsements Header Buttons Donate Protecting our Families Opportunity for All Government Reform Protecting Medicare & Social Security A Health Care System That Works for Everyone An Immigration System That Works for Everyone Opioid Addiction and Mental Health Workforce Training and Development Empowering Women Protecting our Environment and Clean Water Protecting our Animals Equality and Diversity Promoting Education and Affordability Supporting our Veterans and Law Enforcement An Immigration System That Works for Everyone The United States of America is a nation of the rule of law and a nation of compassion.
 We are a nation of good, generous, and loving human beings who hold a shared belief in both fairness and justice.
 When it comes to immigration, those qualities are rooted in two principles: 1) Sovereign nations have both the right and the obligation to defend their borders and enforce their laws; and 2) The human dignity and human rights of all undocumented immigrants, particularly children, must be respected and protected.
 As a community, I believe we must insist on achieving both.
@@ -29,3 +29,7 @@ We must find the compromise that both secures our borders and protects our Dream
 To support one without the other is to support neither.
 We must end the partisanship, come to the center to build consensus, and solve the problem.
 Our nation’s security, and our nation’s children, require this from all of us.
+Do you support legislation that would secure the border through a physical barrier, aerial surveillance, and an enhanced human intelligence program?
+Yes No Email Quotes “Rep.
+Brian Fitzpatrick earned the highest Bipartisan Index score we have ever recorded by a House member,” - Dan Diller, Policy Director, The Lugar Center, Georgetown University, 5/12/20 "Pa's Fitzpatrick Leads U.S.
+House in Bipartisan, New Rankings Show" - Pennsylvania Capital-Star, 2/21/2020 Paid for by Brian Fitzpatrick for All of Us Privacy Policy Terms and Conditions PO Box 939 Langhorne, PA 19047 info@brianfitzpatrick.com

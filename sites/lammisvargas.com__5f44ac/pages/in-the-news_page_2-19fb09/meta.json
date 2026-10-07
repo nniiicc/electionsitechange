@@ -1,7 +1,12 @@
 {
  "description": "State Senate District 28",
  "final_url": "https://lammisvargas.com/in-the-news/page/2/",
- "paid_for_by": null,
+ "fingerprint": "a8b98cb33f44ad4c1369d50c65480c2570a7a5a6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "In the News - Page 2 of 2 - Lammis Vargas",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024",
+  "2025"
+ ]
 }

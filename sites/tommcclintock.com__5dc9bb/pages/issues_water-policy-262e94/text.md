@@ -1,10 +1,8 @@
-Droughts are nature’s fault; water shortages are our fault.
+Home About Issues News Volunteer Donate Water Policy Droughts are nature’s fault; water shortages are our fault.
 We have not built a major reservoir of more than a million acre feet since 1979.
 Meanwhile, the state’s population has nearly doubled.
 We will not solve our water shortages until we start building more dams, and we won’t build new dams until we overhaul the environmental regulations that are making their construction cost-prohibitive.
-Water Shortages are a Choice
-Auburn Dam Council Regional Water Storage Forum – June 13, 2014
-We are gathered here to talk about water storage amidst one of the worst droughts in California’s recorded history.
+Water Shortages are a Choice Auburn Dam Council Regional Water Storage Forum – June 13, 2014 We are gathered here to talk about water storage amidst one of the worst droughts in California’s recorded history.
 If we can’t make progress now on this issue, when will we?
 The fact of the matter is that droughts are nature’s fault, and have plagued us since the beginning of time.
 But water shortages are OUR fault.
@@ -14,8 +12,7 @@ The sad, simple fact is that we will NEVER solve our water problems until we sta
 And we will NEVER build new dams until we completely overhaul the radical environmental laws that have prevented construction for more than 30 years.
 In fact, until the drought captured the attention of the people, both the Brown Administration in Sacramento and the Obama administration in Washington were pushing to destroy perfectly good existing dams, including four hydroelectric facilities on the Klamath River.
 As recently as 2010, politicians were seriously proposing tearing down the Hetch Hetchy Dam that is the principal water source for San Francisco.
-(Now, I admit there is a certain poetic justice in that – but let us not lose sight of the fact that it is completely crazy!)
-Opposition from the green left has even stalled our efforts to raise the spillway at the Exchequer dam in the Central Sierra by ten lousy feet in order to add 70,000 acre feet of water storage at Lake McClure.
+(Now, I admit there is a certain poetic justice in that – but let us not lose sight of the fact that it is completely crazy!) Opposition from the green left has even stalled our efforts to raise the spillway at the Exchequer dam in the Central Sierra by ten lousy feet in order to add 70,000 acre feet of water storage at Lake McClure.
 Everyone thinks that the Colorado River is the mother lode of all water in the Western United States, but the Colorado is a junior sister to the mighty Sacramento River system.
 The difference is that we store 70 million acre feet of water on the Colorado and only 10 million acre feet on the Sacramento.
 Most of the rest is lost to the Pacific Ocean.
@@ -35,8 +32,7 @@ We can raise Shasta by 200 feet the moment we summon the political will to do so
 And yet, for more than 20 years and God knows how many millions of dollars, we are still studying whether to raise it not the 200 feet it was designed for — but all of 18 ½ feet.
 Meanwhile, dams at Temperance Flat, Sites and Auburn continue to be studied to death or simply ignored.
 Dr.
-Johnson once wrote that “When a man is to be hanged in the morning, it concentrates his attention remarkably.”
-Perhaps the drought is having that effect on public opinion.
+Johnson once wrote that “When a man is to be hanged in the morning, it concentrates his attention remarkably.” Perhaps the drought is having that effect on public opinion.
 Earlier this year, the House passed legislation to authorize new dam construction, and replace rigid environmental requirements with common-sense alternatives like adding fish hatcheries and controlling non-native predators that are the principle cause of decline of protected species in the Delta.
 It languishes in the Senate.
 We will soon act on legislation that I have authored to streamline the permitting process for new dam construction and legislation by Chairman Doc Hastings to set up a revolving fund to jump-start dam financing.
@@ -64,9 +60,8 @@ Yet last month, the Bureau of Reclamation drained Folsom Lake, New Melones, and 
 Government officials who are entrusted with the careful management of our water squandered it in less than three weeks in order to nudge steelhead trout toward the Pacific Ocean (where they have tended to swim for millions of years without our helpful advice); and to keep the river at just the right temperature for the fish by flushing out the colder water stored in our reservoirs.
 These water releases are so enormous they are called “pulse flows.” They generate such swift currents that local officials issue safety advisories warning the public to exercise extreme caution when on or near the rivers.
 In January, pictures of a near-empty Folsom Lake on the American River made national news.
-Yet on April 21st, the Bureau of Reclamation more than tripled water releases from the dams on the American River from 500 cubic feet per second to more than 1,500 cubic feet per second for three days – sending more than 7,000 acre feet of water toward the ocean.
-Elevated releases of as much as 2,000 cubic feet per second have continued since then for “temperature control.”
-On April 14th, a 16-day pulse flow drained nearly 63,000 acre feet of water from dams on the Stanislaus River.
+Yet on April 21 st , the Bureau of Reclamation more than tripled water releases from the dams on the American River from 500 cubic feet per second to more than 1,500 cubic feet per second for three days – sending more than 7,000 acre feet of water toward the ocean.
+Elevated releases of as much as 2,000 cubic feet per second have continued since then for “temperature control.” On April 14 th , a 16-day pulse flow drained nearly 63,000 acre feet of water from dams on the Stanislaus River.
 Unrealistic laws like the Endangered Species Act administered by ideologically driven officials have now crossed from good intentions to dangerous policy, and the folly cries out for fundamental reforms.
 One of the ironies is that before we built the dams, in a drought like this the rivers dried up AND THERE WERE NO FISH.
 There is nothing more damaging to a riparian habitat than a flood or a drought, and before we tamed this cycle by building dams, species often went extinct under the harsh rules set by Mother Nature.
@@ -83,16 +78,13 @@ One is the nihilistic vision of the environmental left: increasingly severe gove
 The other is a vision of abundance, a new era of clean, cheap and plentiful hydro-electricity; great new reservoirs to store water in wet years to assure abundance in dry ones; a future in which families can enjoy the prosperity that abundant water and electricity provide, and the quality of life that comes from that prosperity.
 It is a society whose children can look forward to a green lawn, a backyard garden, a family swimming pool, affordable air-conditioning in the summer and heating in the winter, brightly lit homes and cities and abundant and affordable groceries from America’s agricultural cornucopia.
 That is the vision that the Auburn Dam Council has kept alive all these years – and a future I am certain that most of us here today will live to see because of all you have done, are doing and will do to see that future is secured.
-Our Policy: Abundance
-Orange County Water Summit – Anaheim, California – May 20, 2011
-A generation ago, the principal objective of our federal water and power policy could be summed up in a word: Abundance.
+Our Policy: Abundance Orange County Water Summit – Anaheim, California – May 20, 2011 A generation ago, the principal objective of our federal water and power policy could be summed up in a word: Abundance.
 It was an era when vast reservoirs produced a cornucopia of clean and plentiful water and power on a scale so vast that many communities didn’t even bother metering the stuff.
 That generation of builders clearly understood the benefits that water and power development brought not only to the economy but to the environment as well.
 Nothing is more environmentally devastating than a flood or a drought.
 When Franklin Roosevelt dedicated the Hoover Dam, he noted, “As an unregulated river, the Colorado added little of value to the region this dam serves.
 When in flood, the river was a threatening torrent.
-In the dry months of the years, it shrank to a trickling stream.”
-But the last generation seems to have abandoned this objective of abundance, and to replace it with a very different philosophy that now dominates public policy: that the principal purpose of government water policy is not to produce abundant water, but rather to ration shortages that government has caused by abandoning abundance as its objective.
+In the dry months of the years, it shrank to a trickling stream.” But the last generation seems to have abandoned this objective of abundance, and to replace it with a very different philosophy that now dominates public policy: that the principal purpose of government water policy is not to produce abundant water, but rather to ration shortages that government has caused by abandoning abundance as its objective.
 The result is increasingly scarce and expensive water that is now affecting our prosperity as a nation.
 One of my greatest frustrations in taking the chair of the House Water and Power Subcommittee was to discover that we were no longer looking at cost-benefit analyses of which projects make economic sense and which do not.
 Instead, practicality was replaced by an entirely new ideological filter: those projects that ration or manage shortage are considered worthy regardless of feasibility or cost – and projects that produce abundance are to be discouraged regardless of their economic benefits or simple common sense.
@@ -120,12 +112,8 @@ Like all movements, the impetus for stronger environmental protection of our air
 But like many movements, as it succeeded in its legitimate ends, it also attracted a self-interested constituency that has driven far past the borders of commonsense and into the realms of political extremism and outright plunder and I am hopeful that we are now entering an era when common sense can be restored to our water policy.
 California’s Central Valley was devastated in 2009 and 2010 by the deliberate diversion of hundreds of billions of gallons of water away from Central Valley agriculture to satisfy environmental edicts for salmon and delta smelt.
 The practical effect of this action was to fallow a quarter million acres of the most productive farmland in America and throw tens of thousands of families into unemployment.
-This occurred:
-Despite the findings of the Northwest Fisheries Science Center that determined the Pacific Decadal Oscillation was the principal factor in salmon migration;
-Despite the California Department of Water Resources analysis of pumping flows that determined the pumps’ influence on salmon and smelt migration is negligible compared to natural tidal flows; and
-Despite the findings of the Federal District Court that the U.S.
-Interior Department’s biological opinion on Delta smelt was “arbitrary, capricious and contrary to law.”
-Protecting endangered species is a worthy goal and worthy goals need to be pursued with common sense and sound science, not left-wing ideology and junk science.
+This occurred: Despite the findings of the Northwest Fisheries Science Center that determined the Pacific Decadal Oscillation was the principal factor in salmon migration; Despite the California Department of Water Resources analysis of pumping flows that determined the pumps’ influence on salmon and smelt migration is negligible compared to natural tidal flows; and Despite the findings of the Federal District Court that the U.S.
+Interior Department’s biological opinion on Delta smelt was “arbitrary, capricious and contrary to law.” Protecting endangered species is a worthy goal and worthy goals need to be pursued with common sense and sound science, not left-wing ideology and junk science.
 We need to ask whether the enormous wealth consumed by these policies has made any significant contribution to enhancing endangered populations compared to far more effective and less expensive alternatives, including predator control, increasing overall water supplies and hatchery production.
 As far as I can tell, the principal beneficiaries of current policies have been the law-firms and environmental fundraising organizations — and the principal victims have been families and workers who face a dismal future of chronic shortages, prohibitively expensive water and power and a faltering economy.
 Finally, we need to look at our overall water policies and financing structures used since the mid-1970’s and compare them to the structures that produced our state’s golden era of water development.
@@ -146,8 +134,7 @@ The first lesson is, “Project first – then financing.” A generation ago, p
 You don’t go to a banker and say, “I’d like to buy a nice house or something.
 Please lend me lots of money.” No, you select a house, negotiate a price and then obtain a loan.
 Today, we revel in “mega-bonds” that borrow billions of dollars for vague notions like “water” or “parks” or “stem cell research” or “economic recovery,” with no specific projects in mind and at the end of the day all we have accomplished is to create a gigantic grab bag of money for local pork projects.
-That’s the first lesson: we have to get back to the classic California constitutional concept of approving bonds only for a “single object or work.”
-The second lesson is, “Don’t rob St.
+That’s the first lesson: we have to get back to the classic California constitutional concept of approving bonds only for a “single object or work.” The second lesson is, “Don’t rob St.
 Petersburg to pay St.
 Paul.” If a project exclusively benefits a local community, it should be exclusively paid for by that local community.
 A generation ago, it would have seemed ludicrous to ask the taxpayers of Orange County, California to pay for a water system in Orange County, New York.
@@ -156,14 +143,13 @@ The third, closely related lesson is, “Beneficiaries should pay.” Federal fu
 With respect to state or local funds, unless it’s a self-liquidating general obligation bond like those used in the Burns-Porter Act, there’s no excuse for using a G.O. bond for a water project – it should be a revenue bond repaid by the actual users of the actual water and electricity produced by the actual project.
 The fourth lesson is, “Don’t rob our children.” Whatever is purchased with a 30-year bond ought to be there 30 years from now when our children are still paying off that debt.
 Yet the bonds adopted in recent years include billions of dollars for cleanup and conservation projects that will be obsolete long before these bonds are repaid.
-Our children are going to have their own pollution to clean up and conservation programs to promote without paying for programs from 30 years ago.
+Our children are going to have their own pollution to clean up and conservation programs to promote without paying for programs from #ago.
 It should be painfully obvious that the policies of the last four decades have failed and failed miserably to meet this generation’s water needs – let alone to begin to meet the needs of future generations.
-It is time that we restored a little common sense to our water policy:
-- We don’t build water projects so that we can dump the water into the ocean.
-- We can’t create abundance by wantonly destroying our existing infrastructure.
-- We won’t build more dams as long as we won’t complete the dams we’ve already started.
-- We can’t keep plundering one community to pay for local water projects in another.
-- We can’t produce projects of the magnitude of the Burns-Porter Act by squandering billions of dollars on open grab-bags for local projects.
+It is time that we restored a little common sense to our water policy: We don’t build water projects so that we can dump the water into the ocean.
+We can’t create abundance by wantonly destroying our existing infrastructure.
+We won’t build more dams as long as we won’t complete the dams we’ve already started.
+We can’t keep plundering one community to pay for local water projects in another.
+We can’t produce projects of the magnitude of the Burns-Porter Act by squandering billions of dollars on open grab-bags for local projects.
 It is true that with enough government force, fines, lawsuits, edicts, regulations and bureaucracies we can restore plant and animal populations to their original prehistoric conditions.
 The problem is that this requires restoring the human population to its original pre-historic conditions.
 Or we can return prosperity and abundance as the central objectives of our water and power policy – by providing abundant water, clean and cheap hydroelectricity, new recreational centers, desperately needed flood protection, burgeoning fisheries, re-invigorated farms – not to mention lower electricity, water and flood insurance bills for American families.
@@ -172,3 +158,4 @@ We need a sharp and dramatic change from the folly of past policies.
 I want to pledge to you to do everything I can do in my new capacity as Chairman the House Water and Power Sub-Committee, and ask that you, the stewards of this region’s water, to take a leading and visible role in this fight.
 As Ronald Reagan once asked his generation, if not now, when?
 And if not us, who?
+Thank you for your support! $5 $20 $50 $100 Other Contact the campaign Privacy Policy Terms and Conditions PAID FOR BY MCCLINTOCK FOR CONGRESS

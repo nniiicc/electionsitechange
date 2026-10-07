@@ -1,9 +1,31 @@
-News
-Latest updates from the campaign:
-Committee, Requested by Rep Becky Cash, to discuss resources for sexual assault survivors
-Zionsville Rep.
-Becky Cash Secures Funding to address state’s rape kit backlog
+Home About Becky Contact Issues News Volunteer Donate Endorsements FAQ News Latest updates from the campaign: 27 Aug Thursday, 11:58 PM · 2026 Becky Cash Speaks at 9th annual Indiana Water Summit Read more 27 Aug Thursday, 11:46 PM · 2026 Becky Cash leads efforts on statewide sexual assault response plan Read more 25 Aug Tuesday, 10:44 PM · 2026 Survivors, advocates urge state lawmakers to improve response to sexual assaults Read more 24 Aug Monday, 11:40 PM · 2026 Committee, Requested by Rep Becky Cash, to discuss resources for sexual assault survivors Read more 10 Jun Wednesday, 10:52 PM · 2026 Zionsville Rep.
+Becky Cash Secures Funding to address state’s rape kit backlog It is very rewarding to see this project moving forward.
+I am grateful to the Indiana Crime Labs, the Indiana Criminal Justice Institute, the Indiana State Police, my colleagues in the legislature and especially the survivors who know how important it is that we end our states rape kit back log.
+While Indiana is just one of many states that have a backlog, I've always believed that Indiana can be a leader in this and so many important areas.
 Because the Indiana State Police has been so vigilant on this issue, between federal grants and the money allocated by the General Assembly in 2025, we will not only be able to get more equipment to process the rape kits but we will also be able to use some of the appropriated money to purchase the DNA kits as the price continues to increase.
-Rep.
-Becky Cash Pushes Indiana Lawmakers to Consider Statewide Sexual Assault Response Plan
-"No survivor should face additional barriers or inconsistencies when seeking help after a sexual assault," said Cash.
+We are not done.
+We have more work to do and I am committed to not just ensuring that we get the back log down but also to making sure that we improve all areas of sexual assault response.
+Read more 20 May Wednesday, 11:03 PM · 2026 Rep.
+Becky Cash Pushes Indiana Lawmakers to Consider Statewide Sexual Assault Response Plan Rep.
+Becky Cash Pushes Indiana Lawmakers to Consider Statewide Sexual Assault Response Plan "No survivor should face additional barriers or inconsistencies when seeking help after a sexual assault," said Cash.
+Read more 17 Apr Friday, 4:19 PM · 2026 Hendricks County lawmakers: Legislative session ends with new laws to help Hoosiers Read more 15 Apr Wednesday, 4:57 PM · 2026 State Rep Becky Cash Champions Children's Safety Read more 16 Feb Monday, 5:55 PM · 2026 Becky Cash Expands Childcare Tax Credits Read more 27 Jan Tuesday, 5:07 PM · 2026 Rep Becky Cash works with with American Diabetes Association and parents of children with diabetes to protect school children with diabetes Today I had the opportunity to restore "Protections for Children with Diabetes" into the educational code.
+In 2007, Kathy Sego and her son Hunter worked to get comprehensive protections for children with diabetes in schools.
+However, these protections were threatened when a statewide educational organization suggested that federal protections were adequate.
+I am grateful to the T1D advocates, including Kathy, who reached out to let me know of this effort.
+The Indiana House unanimously voted to put these protections back into code on 2nd reading today.
+Children with diabetes face many challenges.
+Worrying about when and where they will be able to check their blood sugar, if they can have a snack, if they will get in trouble when their devices beep, whether they can retake a test because of low blood sugars and so much more should NOT be things they need to worry about.
+Read more 9 Dec Tuesday, 5:35 PM · 2025 Becky Cash introduced bill to fund rape kit testing to help with Indiana’s backlog Read more 10 Jun Tuesday, 5:32 PM · 2025 How grassroots activism and legislative efforts are taking aim at Indiana’s rape kit backlog Read more 5 May Monday, 5:20 PM · 2025 New law requires police to investigate child abuse reporting failures at institutions Read more 6 Feb Thursday, 5:15 PM · 2025 Indiana lawmakers pushing for tougher penalties for failing to report child abuse Read more 30 Apr Tuesday, 1:11 PM · 2024 Becky Cash says school incidents caught on video show need for laws she proposed Read more 22 Apr Monday, 12:53 PM · 2024 State Rep.
+Becky Cash responds to IPS Abuse Investigation; Renews push to put cameras in Indiana classrooms Add your news summary here.
+Read more 18 Apr Thursday, 1:03 PM · 2024 Former IPS teacher accused of encouraging students to participate in ‘fight club’ as punishment Add your news summary here.
+Read more 26 Mar Tuesday, 1:51 PM · 2024 Becky Cash Champions New law, prompted by WFYI investigation, tightens rules for student seclusion Add your news summary here.
+Read more 26 Mar Tuesday, 1:49 PM · 2024 Zionsville students Page at Statehouse Add your news summary here.
+Read more 15 Oct Sunday, 6:12 PM · 2023 ZFD public educator receives Outstanding Hoosier Award Zionsville Fire Department Public Educator Vincent Randolph received the Outstanding Hoosier Award from State Rep.
+Becky Cash.
+Read more 26 Jun Monday, 11:52 PM · 2023 Lawmakers call for student protections, accountability following WFYI investigation Add your news summary here.
+Read more 23 May Tuesday, 12:26 PM · 2023 Community pushes back after one-year eviction notice from BHI Senior Living Add your news summary here.
+Read more 17 May Wednesday, 12:17 PM · 2023 Legislators welcome Boone County student pages Add your news summary here.
+Read more 15 Feb Wednesday, 4:45 PM · 2023 Becky Cash Cannabis Decriminalization Bill Getting Hearing in Indiana for First Time Ever Read more 6 Feb Monday, 12:07 PM · 2023 Becky Cash introduces bill to protect children from abuse while participating in sports Add your news summary here.
+Read more 3 Feb Friday, 12:11 PM · 2023 Zionsville lawmaker introduces bill to protect youths from abuse in sports Read more 16 Nov Wednesday, 12:08 PM · 2022 Record-high number of women join the General Assembly Read more Contact Me DONATE VOLUNTEER Request a Yard Sign VOTING INFO Get Updates Thank you for signing up!
+News Becky Cash Speaks at 9th annual Indiana Water Summit Becky Cash leads efforts on statewide sexual assault response plan Survivors, advocates urge state lawmakers to improve response to sexual assaults Committee, Requested by Rep Becky Cash, to discuss resources for sexual assault survivors Zionsville Rep.
+Becky Cash Secures Funding to address state’s rape kit backlog Voter Information Endorsements FAQ Contact HD25 map Privacy Policy Paid for by Friends of Becky Cash Powered by CampaignPartner.com - Political Campaign Websites Home About Becky Contact Issues Donate FAQ Endorsements Volunteer News HD25 map Voter Information Close Menu

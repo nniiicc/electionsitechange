@@ -1,5 +1,2 @@
-Contact
-Sara Deen for Assembly 2026
-46-E Peninsula Center Drive, #146
-Rolling Hills Estates CA 90274
-contact@saradeenforca.com
+Meet Sara About Sara Why I’m Running Endorsements Get Involved Vote Voting Information District 66 Media Contact Donate Contact Sara Deen for Assembly 2026 46-E Peninsula Center Drive, #146 Rolling Hills Estates CA 90274 contact@saradeenforca.com Sign Up Success!
+First Name Last Name Email Sign Up Follow Follow Follow Links Voting Information Fact Sheet Donate $25 $50 $100 OTHER Paid for by Sara Deen for Assembly 2026, FPPC ID# 1478003

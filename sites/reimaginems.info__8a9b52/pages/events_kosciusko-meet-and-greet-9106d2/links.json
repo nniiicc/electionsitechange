@@ -1,22 +1,106 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Kosciusko+Meet+and+Greet&dates=20261005T223000Z%2F20261005T233000Z&location=203+Mississippi+12%2C+Kosciusko%2C+Mississippi%2C+39090%2C+United+States",
-"http://maps.google.com/?q=203+Mississippi+12+Kosciusko%2C+Mississippi%2C+39090+United+States",
-"https://donate.stripe.com/fZecNJ0320TY84U8ww",
-"https://electbenniefoster.com/",
-"https://electbenniefoster.com/about",
-"https://electbenniefoster.com/cart",
-"https://electbenniefoster.com/events",
-"https://electbenniefoster.com/events/carthage-meet-and-greet",
-"https://electbenniefoster.com/events/kosciusko-meet-and-greet?format=ical",
-"https://electbenniefoster.com/initiatives",
-"https://electbenniefoster.com/meetfoster",
-"https://electbenniefoster.com/news",
-"https://electbenniefoster.com/our-district-ms02",
-"https://electbenniefoster.com/platform",
-"https://electbenniefoster.com/policies",
-"https://electbenniefoster.com/questions-answers",
-"https://electbenniefoster.com/resources-1",
-"https://electbenniefoster.com/voting",
-"https://facebook.com/reimaginems",
-"https://instagram.com/fosterforcongress"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=203+mississippi+12+kosciusko%2C+mississippi%2C+39090+united+states"
+},
+{
+"text": "0",
+"href": "https://www.electbenniefoster.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.electbenniefoster.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.electbenniefoster.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.electbenniefoster.com/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://donate.stripe.com/fZecNJ0320TY84U8ww"
+},
+{
+"text": "Donate",
+"href": "https://www.electbenniefoster.com/donate"
+},
+{
+"text": "Elect Bennie Foster for U.S. Congress MS-02",
+"href": "https://www.electbenniefoster.com/"
+},
+{
+"text": "Events",
+"href": "https://www.electbenniefoster.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/reimaginems/"
+},
+{
+"text": "Folder: About",
+"href": "https://www.electbenniefoster.com/about"
+},
+{
+"text": "Folder: News",
+"href": "https://www.electbenniefoster.com/news"
+},
+{
+"text": "Folder: Platform",
+"href": "https://www.electbenniefoster.com/platform"
+},
+{
+"text": "Folder: Resources",
+"href": "https://www.electbenniefoster.com/resources-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Kosciusko+Meet+and+Greet&dates=20261005T223000Z%2F20261005T233000Z&location=203+Mississippi+12%2C+Kosciusko%2C+Mississippi%2C+39090%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.electbenniefoster.com/events/kosciusko-meet-and-greet?format=ical"
+},
+{
+"text": "Initiatives",
+"href": "https://www.electbenniefoster.com/initiatives"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/fosterforcongress"
+},
+{
+"text": "Meet Foster",
+"href": "https://www.electbenniefoster.com/meetfoster"
+},
+{
+"text": "Next Next October 6 Carroll County Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/carroll-county-meet-and-greet"
+},
+{
+"text": "Our District | MS-02",
+"href": "https://www.electbenniefoster.com/our-district-ms02"
+},
+{
+"text": "Policies",
+"href": "https://www.electbenniefoster.com/policies"
+},
+{
+"text": "Previous Previous October 5 Carthage Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/carthage-meet-and-greet"
+},
+{
+"text": "Questions & Answers",
+"href": "https://www.electbenniefoster.com/questions-answers"
+},
+{
+"text": "Voting",
+"href": "https://www.electbenniefoster.com/voting"
+},
+{
+"text": "team@electbenniefoster.com",
+"href": "mailto:team@electbenniefoster.com"
+}
 ]

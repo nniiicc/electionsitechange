@@ -1,5 +1,4 @@
-⭐ My Story - Timothy McCune
-I am not a career politician.
+Home About Where I stand Book a Call Volunteer Donate Home About Where I stand Book a Call Volunteer Donate ⭐ My Story - Timothy McCune I am not a career politician.
 I am a husband, a father, a caregiver, and a lifelong community servant who understands the real challenges families face every day.
 My wife and I have lived in Brentwood since 2009, where we are raising our two sons with special needs.
 Being a father to children with special needs has shaped who I am.
@@ -19,3 +18,4 @@ My campaign is built on a simple belief: elected officials should represent the 
 I am committed to listening to my neighbors and taking your concerns directly to Harrisburg.
 If elected, I will fight to protect families, strengthen our communities, and ensure every voice in the 36th District is heard.
 For me, this campaign isn’t about politics - it’s about service.
+My Oldest Son Brandon My Youngest Son Alex I am Here for you!

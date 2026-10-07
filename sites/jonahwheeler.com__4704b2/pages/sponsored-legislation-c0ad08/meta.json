@@ -1,7 +1,9 @@
 {
  "description": "Website for State Representative Jonah Orion Wheeler of New Hampshire's Hillsborough's 33rd District",
  "final_url": "https://jonahwheeler.com/sponsored-legislation",
- "paid_for_by": null,
+ "fingerprint": "e9af270700132c82de6294f0c69827432a35b6c0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Rep. Jonah Orion Wheeler",
  "years_mentioned": [
   "2023",

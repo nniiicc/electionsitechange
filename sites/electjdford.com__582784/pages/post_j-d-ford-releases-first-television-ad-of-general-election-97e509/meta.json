@@ -1,7 +1,9 @@
 {
  "description": "Read State Senator J.D. Ford's statement on U.S. Military Operations in Iran. Understand his stance on war powers and the need for Congressional approval.",
  "final_url": "https://www.electjdford.com/post/j-d-ford-releases-first-television-ad-of-general-election",
- "paid_for_by": null,
+ "fingerprint": "604c8d1932cbba5354aeab3dfdec2095074968d6",
+ "format": 3,
+ "paid_for_by": "authorized by the Neighbors to Elect J",
  "title": "J.D. Ford Releases First Television Ad of General Election",
  "years_mentioned": []
 }

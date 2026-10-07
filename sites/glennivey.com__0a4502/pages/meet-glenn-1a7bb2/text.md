@@ -1,5 +1,4 @@
-Meet Congressman Glenn Ivey
-During times like these, we need a fighter who delivers - That’s Congressman Glenn Ivey.
+top of page HOME EVENTS ABOUT Meet Glenn ISSUES PRIVACY POLICY Donate Contact Meet Congressman Glenn Ivey During times like these, we need a fighter who delivers - That’s Congressman Glenn Ivey.
 Congressman Glenn Ivey is a proven champion for Prince George’s County.
 In Congress, Glenn serves on the Appropriations, Homeland Security, and Ethics Committee’s - bringing his decades of experience to Washington at a time when it's needed most.
 With federal workers, DEI, and constitutional rights under attack, Glenn Ivey is using his decades of experience to defend our constitutional rights and is taking the fight to the Trump Administration.
@@ -27,5 +26,14 @@ The country is facing challenges we have not seen in generations.
 And that's why Glenn is running for re-election - to create good-paying jobs, ensure access to affordable healthcare and housing, make our criminal justice system more just, and give hard-working Americans the chance to succeed - no matter which zip code they're from.
 Creating Positive Change for Our Community.
 Glenn Ivey understands the importance of good schools, good jobs, and a thriving economy.
-SIGN-UP
-Join us — together, we fight for justice, opportunity, and a stronger community.
+SIGN-UP Join us — together, we fight for justice, opportunity, and a stronger community.
+First name * Last name * Email * Phone By providing your telephone number and checking this box, you consent to receive calls and text messages.
+Msg & data rates may apply.
+Msg frequency may vary.
+Messaging may include requests for donation.
+Reply “STOP” to opt-out & “HELP” for help.
+View Privacy Policy for more info.
+Submit Paid for by Glenn F.
+Ivey for Congress Make Checks Payable To: Glenn F.
+Ivey for Congress P.O.
+Box 85 Bladensburg, MD 20710 HOME EVENTS ABOUT Meet Glenn ISSUES PRIVACY POLICY bottom of page

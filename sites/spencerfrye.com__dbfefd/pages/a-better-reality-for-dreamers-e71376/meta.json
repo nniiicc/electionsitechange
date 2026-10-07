@@ -1,10 +1,13 @@
 {
- "description": "Georgia\u2019s sizable immigrant population greatly contributes to the state\u2019s social and economic prosperity. Ten percent of the state\u2019s population was born...",
+ "description": "Georgia’s sizable immigrant population greatly contributes to the state’s social and economic prosperity. Ten percent of the state’s population was born...",
  "final_url": "https://www.spencerfrye.com/a-better-reality-for-dreamers/",
- "paid_for_by": null,
+ "fingerprint": "624bdf9c84cbf7d4f4ebb088eea1e58c8438c460",
+ "format": 3,
+ "paid_for_by": "",
  "title": "A Better Reality for Dreamers",
  "years_mentioned": [
   "2014",
-  "2016"
+  "2016",
+  "2020"
  ]
 }

@@ -1,18 +1,21 @@
-Skip navigation menu
-Cyril Jefferson Calls for Bold Action on Soaring Cost of Living
-High Point, NC – Mayor of High Point and candidate for North Carolina’s 6th Congressional District, Cyril Jefferson, is calling for immediate federal action to address the skyrocketing cost of living affecting working families across the North Carolina and the nation.
+Skip navigation menu Home About Issues News Endorsements Get Involved Contact Donate News Home About Issues News Endorsements Get Involved Contact Donate News PRESS RELEASE National Political Publication Highlights Cyril Jefferson as a Democrat Who Can Win in Red America PRESS RELEASE UNCF to Honor Mayor Cyril Jefferson at 2nd Annual Triad “A Mind Is...”® PRESS RELEASE Mayor Cyril Jefferson Joins “Take BAC Congress” to Advance Government Accountability Reforms PRESS RELEASE Cyril Jefferson Officially Files to Run for Congress in North Carolina’s 6th District PRESS RELEASE Jefferson Represents High Point at U.S.
+Global Leadership Coalition’s Mayors Foreign Policy Summit PRESS RELEASE Mayor Cyril Jefferson Selected for Prestigious ElevateNC: Higher Education Leadership Cohort PRESS RELEASE Cyril Jefferson Calls for Bold Action on Soaring Cost of Living PRESS RELEASE Mayor Cyril Jefferson Opposes New Tariffs on Imported Furniture PRESS RELEASE Cyril Jefferson Blasts Trump’s Federal Takeover of D.C.
+Police and National Guard Deployment PRESS RELEASE Cyril Jefferson Announces Run for Congress PRESS RELEASE Cyril Jefferson Slams Addison McDowell’s Anti-Community Votes ARTICLE Mayor Jefferson Delivers State of the City Address Article High Point Mayor Jefferson '18 to Receive 2025 Keeper of the Flame Award ARTICLE Meet the Jeffersons Sep 24 2025 PRESS RELEASE Cyril Jefferson Calls for Bold Action on Soaring Cost of Living High Point, NC – Mayor of High Point and candidate for North Carolina’s 6th Congressional District, Cyril Jefferson, is calling for immediate federal action to address the skyrocketing cost of living affecting working families across the North Carolina and the nation.
 Citing a recent poll from the Associated Press-NORC Center for Public Affairs Research, Jefferson pointed to alarming numbers showing that more than half of Americans (53%) view grocery prices as a major source of stress.
 Additionally, a majority of respondents expressed concern about their salaries, housing costs, savings, credit card debt, and the rising cost of healthcare.
 “These numbers reflect what I hear from families every day, from High Point to Salisbury to Kannapolis: people are doing everything right and still falling behind,” said Jefferson.
-“The cost of living has become a crisis, and Washington needs leaders who understand what it means to live paycheck to paycheck—and are ready to act.”
-Jefferson’s campaign is advancing a comprehensive policy platform focused on:
+“The cost of living has become a crisis, and Washington needs leaders who understand what it means to live paycheck to paycheck—and are ready to act.” Jefferson’s campaign is advancing a comprehensive policy platform focused on: Fighting Grocery Inflation : Strengthening food supply chains, expanding SNAP benefits, and cracking down on corporate price gouging to lower grocery costs.
+Making Housing Affordable : Expanding federal support for affordable housing, modernizing zoning laws, and protecting renters from skyrocketing rents and evictions.
+Raising Wages : Advocating for a living wage and ensuring pay equity.
+Reducing Debt and Building Stability : Reforming credit systems, expanding debt relief programs, and creating savings incentives for working families.
+Lowering Healthcare Costs : Capping out-of-pocket expenses, expanding public insurance options, and increasing transparency across the healthcare system.
 “The basics of food, housing, and healthcare should not be luxuries,” Jefferson continued.
 “We must build an economy where every family can live with dignity, not debt.
-In Congress, I will fight to bring real relief to the kitchen tables of North Carolina’s working families.”
-Jefferson, a High Point resident and community advocate, has built his career on creating opportunities and bringing people together to solve real problems.
+In Congress, I will fight to bring real relief to the kitchen tables of North Carolina’s working families.” Jefferson, a High Point resident and community advocate, has built his career on creating opportunities and bringing people together to solve real problems.
 As Mayor, he’s led local efforts to increase affordable housing, support small businesses, and strengthen public infrastructure.
 "We need to cut red tape and make government work better, so it's easier to build homes, grow small businesses, and improve public infrastructure in our communities,” Jefferson said.
 “This campaign is about more than a seat in Congress.
 It’s about securing a future where everyday people can thrive, not just survive,” said Jefferson.
-“I’m ready to take that fight to Washington.”
-PRESS RELEASE
+“I’m ready to take that fight to Washington.” Media Contact: Brandon Lenoir Management@CyrilForCongress.com (336) 247-6727 CyrilForCongress.com Privacy Cyril For Congress | P.O.
+Box 5043 | High Point, NC 27262 Paid for by Cyril for Congress committee.
+You need to enable JavaScript to run this app.

@@ -1,32 +1,12 @@
-Fitzpatrick Sets All-Time Fundraising Record as Bipartisan Coalition Rallies Behind Proven Leadership
-July 10th, 2025
-BUCKS COUNTY, PA – In an era too often defined by noise, division, and political extremes, Congressman Brian Fitzpatrick (PA-01) continues to chart a different course—one rooted in principle, service, and results.
-This record-setting […]
-Read More
-Fitzpatrick Shatters Q1 Fundraising Record In Resounding Show of Bipartisan Momentum and Unified Community Support
-March 31st, 2025
-Bucks County, PA- Congressman Brian Fitzpatrick of Pennsylvania’s First District will report over $5 Million Dollars in Cash-on-Hand as of March 31, 2025, setting a new PA-1 campaign record and underscoring overwhelming support for his results-driven, commonsense, and unifying leadership.
+Brian Fitzpatrick For Congress Home Bio Issues Contact Media Vote by Mail Endorsements Header Buttons Donate Latest News Read our latest press releases and news stories Fitzpatrick Sets All-Time Fundraising Record as Bipartisan Coalition Rallies Behind Proven Leadership July 10th, 2025 BUCKS COUNTY, PA – In an era too often defined by noise, division, and political extremes, Congressman Brian Fitzpatrick (PA-01) continues to chart a different course—one rooted in principle, service, and results.
+In the second quarter of 2025, Fitzpatrick raised a commanding $1.3 million, bringing his cash-on-hand total to $6.5 million—the highest Q2 total in PA-1 history.
+This record-setting […] Read More Fitzpatrick Shatters Q1 Fundraising Record In Resounding Show of Bipartisan Momentum and Unified Community Support March 31st, 2025 Bucks County, PA- Congressman Brian Fitzpatrick of Pennsylvania’s First District will report over $5 Million Dollars in Cash-on-Hand as of March 31, 2025, setting a new PA-1 campaign record and underscoring overwhelming support for his results-driven, commonsense, and unifying leadership.
 “Our movement isn’t about politics—it’s about people,” said Fitzpatrick.
-“It’s about one community coming together with a shared purpose: to […]
-Read More
-Fitzpatrick ONCE AGAIN Declares Victory In PA-1
-November 6th, 2024
-Doylestown, PA – Team Fitzpatrick has once again declared a resounding victory in Pennsylvania’s First Congressional District.
-Congressman Brian Fitzpatrick released the following statement regarding the results: “Thank you to our amazing community for once again affirming, in incredibly overwhelming numbers, our values of unity, bipartisanship and independence, and rejecting the hate speech of those […]
-Read More
-Fitzpatrick Rallies Overwhelming Support, Secures Powerful Wave of High-Profile Endorsements from Local, State, and National Leaders
-September 9th, 2024
-LANGHORNE, PA – Today, Congressman Brian Fitzpatrick announced a landmark coalition of sweeping endorsements from over thirty prominent local, state, and national organizations.
-This powerful show of support underscores his exceptional bipartisan achievements, reaffirms his status as the #1 most bipartisan member of Congress five consecutive years in a row, and reflects his commitment to advancing […]
-Read More
-Fitzpatrick Once Again Declares Victory in PA-1
-April 24th, 2024
-Doylestown, PA – Team Fitzpatrick has once again declared victory in Pennsylvania’s First Congressional District.
-Congressman Brian Fitzpatrick released the following statement regarding the results: “There has been one guiding principle that has motivated me from the very first day that I decided to run for Congress: my firm, unequivocal, and unshakeable belief in bipartisanship […]
-Read More
-Brian Fitzpatrick Declares Victory in PA-01
-November 9th, 2022
-Doylestown, PA – Team Fitzpatrick has once again declared victory in Pennsylvania’s First Congressional District.
+“It’s about one community coming together with a shared purpose: to […] Read More Fitzpatrick ONCE AGAIN Declares Victory In PA-1 November 6th, 2024 Doylestown, PA – Team Fitzpatrick has once again declared a resounding victory in Pennsylvania’s First Congressional District.
+Congressman Brian Fitzpatrick released the following statement regarding the results: “Thank you to our amazing community for once again affirming, in incredibly overwhelming numbers, our values of unity, bipartisanship and independence, and rejecting the hate speech of those […] Read More Fitzpatrick Rallies Overwhelming Support, Secures Powerful Wave of High-Profile Endorsements from Local, State, and National Leaders September 9th, 2024 LANGHORNE, PA – Today, Congressman Brian Fitzpatrick announced a landmark coalition of sweeping endorsements from over thirty prominent local, state, and national organizations.
+This powerful show of support underscores his exceptional bipartisan achievements, reaffirms his status as the #1 most bipartisan member of Congress five consecutive years in a row, and reflects his commitment to advancing […] Read More Fitzpatrick Once Again Declares Victory in PA-1 April 24th, 2024 Doylestown, PA – Team Fitzpatrick has once again declared victory in Pennsylvania’s First Congressional District.
+Congressman Brian Fitzpatrick released the following statement regarding the results: “There has been one guiding principle that has motivated me from the very first day that I decided to run for Congress: my firm, unequivocal, and unshakeable belief in bipartisanship […] Read More Brian Fitzpatrick Declares Victory in PA-01 November 9th, 2022 Doylestown, PA – Team Fitzpatrick has once again declared victory in Pennsylvania’s First Congressional District.
 Congressman Brian Fitzpatrick released the following statement regarding the results: “Once again, our community has spoken with an overwhelming voice in support of unity, collaboration, moderation and bipartisanship.
-I love our community and I will continue to reflect our community’s […]
-Read More
+I love our community and I will continue to reflect our community’s […] Read More « Previous Page — Next Page » Quotes “Rep.
+Brian Fitzpatrick earned the highest Bipartisan Index score we have ever recorded by a House member,” - Dan Diller, Policy Director, The Lugar Center, Georgetown University, 5/12/20 "Pa's Fitzpatrick Leads U.S.
+House in Bipartisan, New Rankings Show" - Pennsylvania Capital-Star, 2/21/2020 Paid for by Brian Fitzpatrick for All of Us Privacy Policy Terms and Conditions PO Box 939 Langhorne, PA 19047 info@brianfitzpatrick.com

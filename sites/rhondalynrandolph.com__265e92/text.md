@@ -1,4 +1,4 @@
-Rev.
+Meet Rhondalyn Issues KY Voter Information Events Endorsements Contribute Contact Us Rev.
 Rhondalyn Randolph is a community leader, pastor, and advocate with deep roots in Western Kentucky.
 A native of Madisonville and Owensboro resident for decades, she is running for KY State Representative, District 13 because she wants more for you.
 Working for you and this community is Rhondalyn's purpose.
@@ -17,3 +17,6 @@ She knows many Kentuckians feel unheard and disconnected from decisions made in 
 Change is needed — but it should be thoughtful, practical, and grounded in community values and standards.
 With the right leadership, a brighter future for our youth, families, working people, and everyone is within reach.
 Rhondalyn is running to help build that future — together.
+Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+News Randolph announces bid for Kentucky House seat in District 13 Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Committee to Elect Rhondalyn Randolph KY State Rep, District 13 Powered by CampaignPartner.com - Political Campaign Websites Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Close Menu

@@ -1,20 +1,10 @@
-bringing effective, accountable leadership to Long Island.
-Platform
-Affordable Healthcare
-Expanding access, lowering costs, and improving care.
+0 Skip to Content HOME PLATFORM MEET LYNN GET INVOLVED THE NY HEALTH ACT Donate Open Menu Close Menu HOME PLATFORM MEET LYNN GET INVOLVED THE NY HEALTH ACT Donate Open Menu Close Menu HOME PLATFORM MEET LYNN GET INVOLVED THE NY HEALTH ACT Donate bringing effective, accountable leadership to Long Island.
+DONATE DONATE Platform Affordable Healthcare Expanding access, lowering costs, and improving care.
 Learn more about the New York Health Act here.
-Economic Security
-Making housing, education, and everyday living more affordable for working families.
-Strong Communities
-Supporting public schools, workers, seniors, veterans, and small businesses.
-Equal Rights and Respect
-Protecting the dignity, safety, and freedoms of all New Yorkers.
-Accountable Government
-Ensuring taxpayer dollars are spent wisely and transparently.
-vote lynn for the win!
-vote lynn for the win!
-meet lynn
-I am a dedicated community advocate, wife, and mother, and I am running for New York State Assembly to bring effective and accountable leadership to District 8.
+Economic Security Making housing, education, and everyday living more affordable for working families.
+Strong Communities Supporting public schools, workers, seniors, veterans, and small businesses.
+Equal Rights and Respect Protecting the dignity, safety, and freedoms of all New Yorkers.
+Accountable Government Ensuring taxpayer dollars are spent wisely and transparently. vote lynn for the win! vote lynn for the win! vote lynn for the win! meet lynn I am a dedicated community advocate, wife, and mother, and I am running for New York State Assembly to bring effective and accountable leadership to District 8.
 As a lifelong Long Islander, I have firsthand experience of the challenges families face, such as rising healthcare costs and economic instability.
 I am committed to fighting for real solutions that improve everyday lives.
 We are a blended family with a deep bond.
@@ -29,3 +19,15 @@ These roles taught me how to lead, solve problems, and maintain accountabilityâ€
 My campaign is rooted in the belief that government should work for the people.
 I am focused on lowering costs for families, strengthening accountability in public spending, and restoring trust in our institutions.
 I believe in investing in preventative healthcare, supporting working families, and ensuring our community has the stability and opportunity it deserves.
+Our blended family.
+My children.
+Maritime Michael!
+Exploring our beautiful island.
+Boating on Long Island.
+Maritime football!
+My husband Mike, a retired NYC Police Officer and CSX Officer.
+The bluffs in Sunken Meadow.
+Danielle, my Physician Assistant!
+Letâ€™s create a healthier, safer, and more affordable Long ISland.
+DONATE TODAY!
+DONATE TODAY! lynnfornyassembly@gmail.com PRIVACY POLICY

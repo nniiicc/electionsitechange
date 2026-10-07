@@ -1,9 +1,14 @@
 {
  "description": "Stay updated with the latest Jeff Peckman news, including campaign highlights and Colorado primary election updates.",
  "final_url": "https://jeffpeckman.com/in-the-news",
- "paid_for_by": null,
+ "fingerprint": "b321018dc03da8c604d20ded8923a89a8b8346d3",
+ "format": 3,
+ "paid_for_by": "sponsored by environmental groups and focusing on conservation and sustainability, many of the candidates referred to Peckman's intelligence, some even asking to give their",
  "title": "IN THE NEWS",
  "years_mentioned": [
+  "2002",
+  "2003",
+  "2008",
   "2010",
   "2011",
   "2024",

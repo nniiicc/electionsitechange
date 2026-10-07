@@ -1,22 +1,19 @@
-Real Results.
+top of page HOME Platform My Bio What I'll DO Sign Up DONATE VERMONT SENATE BENNINGTON DISTRICT (R) Real Results.
 Not More Bureaucracy.
 Vermont is becoming too expensive for the people who live, work, raise families, serve, and retire here.
 Property taxes keep rising.
 Housing remains out of reach.
 Energy, healthcare, insurance, and basic costs keep climbing.
 At the same time, government keeps growing — but the results are not matching what Vermonters are being asked to pay.
-I am running for Vermont State Senate because Bennington County needs practical leadership focused on three things:
-Affordability.
+I am running for Vermont State Senate because Bennington County needs practical leadership focused on three things: Affordability.
 Property Rights.
 Accountability.
-Affordability
-Vermonters are paying more and getting less.
+Affordability Vermonters are paying more and getting less.
 Property taxes, energy, housing, healthcare, insurance, and basic costs continue to climb.
 Families, seniors, workers, farmers, and small businesses are being squeezed from every direction.
 Vermont does not have a revenue problem.
 Vermont has a spending discipline problem.
-We need to stop treating taxpayers like an endless funding source and start asking harder questions:
-What is working?
+We need to stop treating taxpayers like an endless funding source and start asking harder questions: What is working?
 What is not working?
 What are we getting for the money?
 And why does everything keep costing more?
@@ -30,8 +27,7 @@ Good intentions do not pay the bills.
 Healthcare is part of affordability too.
 Vermonters need more access, more competition, more transparency, and less red tape between patients and care.
 Vermont needs practical policies that lower costs, protect consumers, and help people stay in the communities they love.
-Property Rights
-It should not be this hard to build, improve, farm, invest, or stay in Vermont.
+Property Rights It should not be this hard to build, improve, farm, invest, or stay in Vermont.
 Vermont says it wants housing, economic growth, and strong rural communities.
 But too often, state policy creates more delays, more uncertainty, and more barriers for the very people trying to build that future.
 Property rights are not just about land.
@@ -51,8 +47,7 @@ Vermont’s farms, forests, and rural landowners are not obstacles to conservati
 They are part of the solution.
 Working lands are conservation.
 We can protect Vermont’s natural beauty while still allowing people to live, work, build, farm, and pass land on to the next generation.
-Accountability
-If taxpayers are paying for it, government should be able to prove it works.
+Accountability If taxpayers are paying for it, government should be able to prove it works.
 Too often, Montpelier responds to problems with another study, another report, another committee, another program, or another delay.
 That is not leadership.
 That is process replacing results.
@@ -68,8 +63,7 @@ In land use, it means predictable timelines and clear rules so people are not tr
 In the state budget, it means respecting taxpayers and measuring success by outcomes — not by how much money was spent.
 Government should work for the people.
 Not the other way around.
-My Commitment
-I am not running to protect the way Montpelier has always done things.
+My Commitment I am not running to protect the way Montpelier has always done things.
 I am running to help change it.
 Bennington County deserves a senator who will fight for affordability, defend property rights, respect local communities, demand accountability, and focus on results instead of more bureaucracy.
 Vermont can be more affordable.
@@ -78,3 +72,5 @@ Vermont can work again.
 But we have to be willing to make hard choices, ask honest questions, and remember who government is supposed to serve.
 Real Results.
 Not More Bureaucracy.
+DONATE Join the Campaign MY PLATFORM ​ Paid for by Josh Williams for VT Senate (R) PO Box 94 Arlington, VT 05250 802-681-9048 © # Josh Williams for State Senate.
+All rights reserved. ​ALL DISCLOSURES bottom of page

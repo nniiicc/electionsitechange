@@ -1,5 +1,4 @@
-Sara
-One of my goals as a parent is to raise kind people who work to make the world a better place.
+District Map Voting Merch Gallery Press Home Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care For Our Climate Violence Prevention Justice for All Working Together Endorsements Endorsements Faces of the District Awards Meet Robyn Get Involved Merch Volunteer Knock Doors Request a Yard Sign Reading Wins Contact Donate Select Page Sara More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett One of my goals as a parent is to raise kind people who work to make the world a better place.
 It’s so hard right now to find people in public service who can serve as examples of that.
 When we have a president who insults everyone and openly mocks people who different then him, it can feel like the ugliness of humanity is constantly being shoved in their faces.
 Luckily, we have Robyn who shows that decent people can and do want to serve the people of her area.
@@ -10,4 +9,4 @@ Since 2016, I have sent more emails and made more calls to my representatives th
 I never needed to reach out to Robyn.
 Every time I got concerned, I looked and saw she was already working on the right way to solve the problem.
 It was such a relief, honestly.
-Thank you Robyn for working hard for all of us and being a wonderful example of a good person who is kind and making the world a better place. -Sara
+Thank you Robyn for working hard for all of us and being a wonderful example of a good person who is kind and making the world a better place. -Sara More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

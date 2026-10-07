@@ -1,21 +1,78 @@
 [
-"https://bsky.app/profile/wandrme.paxex.aero",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=191&txtFormat=html",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=212&txtFormat=html",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=232&txtFormat=html",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=33&txtFormat=html",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=38&txtFormat=html",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=393&txtFormat=html",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=473&txtFormat=html",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=474&txtFormat=html",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=669&txtFormat=html",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=871&txtFormat=html",
-"https://hopefornh.com/",
-"https://instagram.com/wandrme",
-"https://millerfornh.com/",
-"https://millerfornh.com/a-weirdly-winning-week",
-"https://millerfornh.com/author/sethmillerworks-net",
-"https://millerfornh.com/category/legislative-update",
-"https://millerfornh.com/pomp-and-contradiction",
-"https://millerfornh.com/what-the-hell-is-the-point"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/wandrme.paxex.aero"
+},
+{
+"text": "Feb 7, 2025",
+"href": "https://millerfornh.com/what-the-hell-is-the-point/"
+},
+{
+"text": "HB106",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=33&txtFormat=html"
+},
+{
+"text": "HB129",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=212&txtFormat=html"
+},
+{
+"text": "HB133",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=232&txtFormat=html"
+},
+{
+"text": "HB189",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=191&txtFormat=html"
+},
+{
+"text": "HB249",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=393&txtFormat=html"
+},
+{
+"text": "HB306",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=474&txtFormat=html"
+},
+{
+"text": "HB444",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=871&txtFormat=html"
+},
+{
+"text": "HB526",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=473&txtFormat=html"
+},
+{
+"text": "HB60",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=38&txtFormat=html"
+},
+{
+"text": "HB623",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=669&txtFormat=html"
+},
+{
+"text": "Hope Damon",
+"href": "https://www.hopefornh.com/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/wandrme"
+},
+{
+"text": "Legislative Update",
+"href": "https://millerfornh.com/category/legislative-update/"
+},
+{
+"text": "Next: A Weirdly Winning* Week",
+"href": "https://millerfornh.com/a-weirdly-winning-week/"
+},
+{
+"text": "Previous: Pomp and Contradiction",
+"href": "https://millerfornh.com/pomp-and-contradiction/"
+},
+{
+"text": "Seth Miller",
+"href": "https://millerfornh.com/author/sethmillerworks-net/"
+},
+{
+"text": "[image: Miller for NH]",
+"href": "https://millerfornh.com/"
+}
 ]

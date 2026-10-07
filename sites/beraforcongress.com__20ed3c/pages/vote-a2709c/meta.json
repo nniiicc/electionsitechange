@@ -1,9 +1,12 @@
 {
  "description": "Information on how to vote in the June 2nd primary for Dr. Ami Bera",
  "final_url": "https://www.beraforcongress.com/vote",
- "paid_for_by": "Paid for by Bera for Congress",
+ "fingerprint": "73d4a949708943ec4fc17a88d73572e7a0d13958",
+ "format": 3,
+ "paid_for_by": "Paid for by Bera for Congress You need to enable JavaScript to run this app",
  "title": "Vote for Dr. Ami Bera",
  "years_mentioned": [
-  "2016"
+  "2016",
+  "2026"
  ]
 }

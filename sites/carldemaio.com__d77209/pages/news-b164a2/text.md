@@ -1,18 +1,13 @@
-|
-New report lays the blame for higher costs on California politicians for costly mandates and negligent policies.
-California Governor Gavin Newsom finally delivered his long-delayed State-of-the State address
-The California Voter ID Initiative has been formally filed with the Secretary of State
-DeMaio’s DOGE California Continues to Uncover Wasteful Spending and Corruption
-The Contract to Reform California is a 10-point agenda that offers bold proposals to fix the state's problems
-DeMaio joined KUSI to discuss his win in the 75th Assembly District race and the next steps in the movement to Reform CA
-Prop 47 tied hands of police & prevents punishing criminals.
-Prop 36 would repeal it!
-DeMaio Warns Voters on 35 Hidden Tax Hikes on ’24 Ballot
-DeMaio joined Fox News to blast the Senate "Border Bill" and Stand with President Trump on Securing the Border
-LAPA’s endorsement proves Latinos stand with DeMaio on the issues
-Howard Jarvis Taxpayers Association (HJTA) PAC has officially endorsed Carl DeMaio for State Assembly.
-“The youth and the next generation are behind Carl DeMaio!”
-DeMaio dominates all candidates in race for 75th Assembly District – with almost no movement for opponent on ballot test
-DeMaio has pulled papers to run for the California State Assembly in the 75th District
-60,000 migrants have flooded San Diego since September
-This is our list of the top 5 stories this week that California’s liberal media REFUSES to cover
+ Contribute About District News Reform CA Voter Guide Events Podcast Volunteer Store FAQs  Contribute  Search for articles  Get Reform California's Voter Guide Here >> | News Latest Articles  Nov 13, 2025 Living in CA Imposes a $29,753.16 “Cost-of-Living Penalty” on Typical Middle-Class Family New report lays the blame for higher costs on California politicians for costly mandates and negligent policies.  Sep 11, 2025 DeMaio Responds to Newsom’s Dishonest State-of-State Address California Governor Gavin Newsom finally delivered his long-delayed State-of-the State address  Jul 17, 2025 DeMaio Authors CA Voter ID Initiative - Leads Campaign for Passage The California Voter ID Initiative has been formally filed with the Secretary of State  Mar 22, 2025 DeMaio Exposes Fiscal Crisis in Medi-Cal from Illegal Immigrants DeMaio’s DOGE California Continues to Uncover Wasteful Spending and Corruption  Nov 25, 2024 Carl DeMaio Unveils 10-Point “Contract to Reform California” The Contract to Reform California is a 10-point agenda that offers bold proposals to fix the state's problems  Nov 17, 2024 After Big Win in 2024, Carl DeMaio Outlines Reform California Agenda DeMaio joined KUSI to discuss his win in the 75th Assembly District race and the next steps in the movement to Reform CA  Sep 24, 2024 DeMaio Supports Police to Combat Crime Wave – Urges Yes on 36 Prop 47 tied hands of police & prevents punishing criminals.
+Prop 36 would repeal it!  Sep 3, 2024 Carl DeMaio Raises Over $500k in August  Aug 25, 2024 To Fight Inflation, DeMaio Opposes Unfair Tax and Rate Hikes DeMaio Warns Voters on 35 Hidden Tax Hikes on ’24 Ballot  Jul 29, 2024 Carl DeMaio Raises Over $1 Million in Q2  Mar 6, 2024 KUSI: DeMaio Statement on Primary Election Win  Feb 9, 2024 DeMaio: To Secure the Border, Vote Trump 2024!
+DeMaio joined Fox News to blast the Senate "Border Bill" and Stand with President Trump on Securing the Border  Jan 30, 2024 Carl DeMaio Wins Endorsement of Latino American Political Association (LAPA) LAPA’s endorsement proves Latinos stand with DeMaio on the issues  Jan 29, 2024 DeMaio Leads Border Security and Voter ID Initiative Campaign  Jan 24, 2024 Carl DeMaio Wins Endorsement of Howard Jarvis Taxpayers Association PAC Howard Jarvis Taxpayers Association (HJTA) PAC has officially endorsed Carl DeMaio for State Assembly.  Dec 20, 2023 Carl DeMaio Wins Endorsement of California College Republicans “The youth and the next generation are behind Carl DeMaio!”  Dec 11, 2023 Poll Shows Carl DeMaio Tops All Republicans, Including Donald Trump, As Most Favorable Political Leader in Assembly District 75 DeMaio dominates all candidates in race for 75th Assembly District – with almost no movement for opponent on ballot test  Dec 7, 2023 Reform California Leader Carl DeMaio Files to Run for the State Assembly DeMaio has pulled papers to run for the California State Assembly in the 75th District  Dec 5, 2023 Fox: DeMaio Slams Biden Border Failures as Migrants Flood California 60,000 migrants have flooded San Diego since September  Nov 17, 2023 CA MEDIA CENSORSHIP: Top 5 Stories This Week That CA Liberal Media Refuses to Cover (11/17) This is our list of the top 5 stories this week that California’s liberal media REFUSES to cover 1 / 13 Next Follow Carl on Social Media     Tweets by carldemaio More Campaigns >> Carl's Podcast >> Carl’s Voter Guide >> Carl’s Social Media Carl's Campaigns Stop the Tax Hikes End Homelessness Reform Our Schools Protect Public Safety Restore Election Integrity …More Campaigns!
+Join the Fight $5,000 $1,000 $500 $250 $100 $50 $25 Other Join Carl DeMaio’s Movement to Reform California!
+Receive text message updates?
+Texts may be sent using automatic telephone dialing system.
+Reply/consent not required for any purchase.
+Periodic messages.
+Reply STOP to cancel, Reply HELP for help.
+Message & Data rates may apply.
+No mobile information will be shared by us with third parties/affiliates for marketing/promotional purposes.
+Text messaging originator opt-in data and consent will not be shared by us with any third parties.  Thanks for joining our newsletter Oops!
+Something went wrong while submitting the form.     About About Carl DeMaio Reform California Privacy Policy The Latest News Podcast Get Involved Events Volunteer Contribute Store Contact Carl DeMaio for State Assembly PO Box 27227 San Diego, CA 92198 (619) 786-8019 Ad paid for by Carl DeMaio for State Assembly 2026 - FPPC # 1476859

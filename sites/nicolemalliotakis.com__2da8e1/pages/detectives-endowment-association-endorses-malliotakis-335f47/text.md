@@ -1,14 +1,10 @@
-FOR IMMEDIATE RELEASE — March 19, 2026
-Detectives’ Endowment Association Endorses Malliotakis
-Malliotakis Endorsed by Detectives’ Endowment Association of the NYPD
-Congresswoman Nicole Malliotakis (NY-11, Staten Island-Southern Brooklyn) was endorsed for a fourth term in Congress by the Detectives’ Endowment Association of the NYPD (DEA).
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Nicole Malliotakis Detectives’ Endowment Association Endorses Malliotakis by Team Nicole on Mar 19, 2026 FOR IMMEDIATE RELEASE — March 19, 2026 Detectives’ Endowment Association Endorses Malliotakis Malliotakis Endorsed by Detectives’ Endowment Association of the NYPD Congresswoman Nicole Malliotakis (NY-11, Staten Island-Southern Brooklyn) was endorsed for a fourth term in Congress by the Detectives’ Endowment Association of the NYPD (DEA).
 The DEA is the labor union that represents over 20,000 active and retired NYPD Detectives.
 DEA President Scott Murno wrote, “We know you will continue to bring the needs and concerns of New York’s First Responders to Capitol Hill.
 You have been a very supportive member of Congress representing New York City and New York State’s law enforcement and first responder communities.
 We’re looking forward to continuing our relationship with you and working together on issues that affect law enforcement, the public sector, and organized labor.
-Together, we will keep our members and the public safe.”
-Congresswoman Nicole Malliotakis said, “I’d like to thank the men and women of the Detectives’ Endowment Association and its President Scott Murno for their kind endorsement.
+Together, we will keep our members and the public safe.” Congresswoman Nicole Malliotakis said, “I’d like to thank the men and women of the Detectives’ Endowment Association and its President Scott Murno for their kind endorsement.
 In my three previous successful campaigns for Congress the DEA has stood behind me knowing that I will always support law enforcement and their efforts to keep the streets of New York City safe.
 I will continue my efforts to make sure that the NYPD will have the funding and resources they need, including forensic equipment, protective care, and counter terrorism funding.
 I will never hesitate to stand against those radical politicians who want to defund or handcuff law enforcement with ill-conceived legislation.
-In these dangerous times, with terrorism on the rise, keeping New Yorkers safe will remain my key priority.”
+In these dangerous times, with terrorism on the rise, keeping New Yorkers safe will remain my key priority.” share NEXT ARTICLE Malliotakis Receives Endorsements of Sergeants & Lieutenants Benevolent Associations of the NYPD PREVIOUS ARTICLE Delivering tax relief for Brooklyn families: What the new tax provisions mean for your refund this year STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

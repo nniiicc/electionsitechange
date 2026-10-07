@@ -1,12 +1,42 @@
 [
-"https://facebook.com/helenforstaterep",
-"https://helenforstaterep.com/",
-"https://helenforstaterep.com/about-us",
-"https://helenforstaterep.com/contact-helen",
-"https://helenforstaterep.com/endorsements",
-"https://helenforstaterep.com/events",
-"https://helenforstaterep.com/issues",
-"https://instagram.com/helenforstaterep",
-"https://secure.anedot.com/helen-zhou-campaign/contribute_to_zhou_campaign",
-"https://x.com/helenzcampaign"
+{
+"text": "About Helen",
+"href": "https://helenforstaterep.com/about-us/"
+},
+{
+"text": "Contact",
+"href": "https://helenforstaterep.com/contact-helen/"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.anedot.com/helen-zhou-campaign/contribute_to_zhou_campaign"
+},
+{
+"text": "Endorsements",
+"href": "https://helenforstaterep.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://helenforstaterep.com/events/"
+},
+{
+"text": "Issues",
+"href": "https://helenforstaterep.com/issues/"
+},
+{
+"text": "[image]",
+"href": "https://helenforstaterep.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/helenforstaterep"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/helenforstaterep/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/helenzcampaign"
+}
 ]

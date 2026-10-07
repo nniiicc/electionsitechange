@@ -1,10 +1,5 @@
-Endorsements
-We’re extremely grateful for the endorsements we’ve received from the following organizations.
-Vermont State Employees’ Association
-VSEA is a member-driven union working to ensure dignified wages, working conditions, benefits, and retirement plans.
-Planned Parenthood Vermont Action Fund IE PAC
-“Planned Parenthood Vermont Action Fund IE PAC supports pro-reproductive health candidates for legislative and statewide office in Vermont.
-PPVTAF IE PAC is nonpartisan and endorses candidates based on issues concerning affordable, accessible health care and family planning services, contraceptive equity, emergency contraception, comprehensive sex education, and abortion access for all Vermonters.”
-Let’s Grow Kids Action Network
-“Our endorsement of your candidacy is due to your efforts to elevate child care on the campaign trail and your commitment to solving the state’s child care crisis.
-With less than two months until election day, it’s more crucial than ever to highlight the importance of child care and the positive impact Act 76 is having on communities across the state.”
+Menu Close About In the News Issues Endorsements Contact Donate Ian Goodnow for Vermont State Representative About In the News Issues Endorsements Contact Donate Endorsements We’re extremely grateful for the endorsements we’ve received from the following organizations.
+Vermont State Employees’ Association VSEA is a member-driven union working to ensure dignified wages, working conditions, benefits, and retirement plans.
+Planned Parenthood Vermont Action Fund IE PAC “Planned Parenthood Vermont Action Fund IE PAC supports pro-reproductive health candidates for legislative and statewide office in Vermont.
+PPVTAF IE PAC is nonpartisan and endorses candidates based on issues concerning affordable, accessible health care and family planning services, contraceptive equity, emergency contraception, comprehensive sex education, and abortion access for all Vermonters.” Let’s Grow Kids Action Network “Our endorsement of your candidacy is due to your efforts to elevate child care on the campaign trail and your commitment to solving the state’s child care crisis.
+With less than two months until election day, it’s more crucial than ever to highlight the importance of child care and the positive impact Act 76 is having on communities across the state.” Footer Contact Ian today Email: iangoodnowvt@gmail.com Phone: 802-416-9880 Donate Get In Touch Follow Ian on social media Instagram Facebook Copyright # Ian Goodnow for State Representative

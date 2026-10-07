@@ -1,18 +1,86 @@
 [
-"http://dir.ct.gov/sots/LookUp.aspx",
-"http://instagram.com/mattblumenthalct",
-"https://cga.ct.gov/asp/menu/cgafindleg.asp",
-"https://facebook.com/MattBlumenthalCT",
-"https://mattblumenthal.com/",
-"https://mattblumenthal.com/get-involved",
-"https://mattblumenthal.com/meet-matt",
-"https://mattblumenthal.com/vote",
-"https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do",
-"https://portal.ct.gov/-/media/SOTS/ElectionServices/ElectForms/electforms/ed3eEngpdf.pdf",
-"https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Voting",
-"https://portaldir.ct.gov/sots/lookup.aspx",
-"https://secure.anedot.com/mattbforct/2022",
-"https://secure.anedot.com/mattforct/2026",
-"https://threads.com/@mattblumenthalct",
-"https://tiktok.com/@mattblumenthalct"
+{
+"text": "Absentee Ballot Request (Online or mail to Town Clerk)",
+"href": "https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Voting"
+},
+{
+"text": "Check Your Voter Registration/Absentee Ballot",
+"href": "http://www.dir.ct.gov/sots/LookUp.aspx"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/mattforct/2026"
+},
+{
+"text": "Find Your Polling Station",
+"href": "https://www.cga.ct.gov/asp/menu/cgafindleg.asp"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.mattblumenthal.com/get-involved"
+},
+{
+"text": "HERE",
+"href": "https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do"
+},
+{
+"text": "HERE",
+"href": "https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Voting"
+},
+{
+"text": "HOME",
+"href": "https://www.mattblumenthal.com"
+},
+{
+"text": "MEET MATT",
+"href": "https://www.mattblumenthal.com/meet-matt"
+},
+{
+"text": "VOTE",
+"href": "https://www.mattblumenthal.com/vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MattBlumenthalCT"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/mattblumenthalct"
+},
+{
+"text": "[image: Logo_MB (2).jpg]",
+"href": "https://www.mattblumenthal.com"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@mattblumenthalct"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@mattblumenthalct"
+},
+{
+"text": "[image][image][image]",
+"href": "http://www.dir.ct.gov/sots/LookUp.aspx"
+},
+{
+"text": "[image][image][image]",
+"href": "https://portal.ct.gov/-/media/SOTS/ElectionServices/ElectForms/electforms/ed3eEngpdf.pdf"
+},
+{
+"text": "[image][image][image]",
+"href": "https://secure.anedot.com/mattbforct/2022"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.cga.ct.gov/asp/menu/cgafindleg.asp"
+},
+{
+"text": "here.",
+"href": "https://portaldir.ct.gov/sots/lookup.aspx"
+},
+{
+"text": "townclerk@stamfordct.gov",
+"href": "mailto:townclerk@stamfordct.gov"
+}
 ]

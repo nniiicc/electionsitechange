@@ -1,11 +1,3 @@
-Skip navigation menu
-Here is a map of State Senate District 8!
+Skip navigation menu About Priorities Events Videos District 8 Endorsements Volunteer Contact Donate District 8 About Priorities Events Videos District 8 Endorsements Volunteer Contact Donate District 8 Here is a map of State Senate District 8!
 It is made up of 19 towns and 1 city, in 4 counties.
-Cheshire County
-HILLSBOROUGH County
-Antirm, Bennington, Deering, Francestown, Weare, Windsor
-MERRIMACK COUNTY
-SULLIVAN County
-Acworth, Claremont, Charlestown, Croydon, Langdon, Lempster, Newport, Sunapee, Unity, Washington
-Gilsum, Marlow, Alstead
-Dunbarton
+Cheshire County Gilsum, Marlow, Alstead HILLSBOROUGH County Antirm, Bennington, Deering, Francestown, Weare, Windsor MERRIMACK COUNTY Dunbarton SULLIVAN County Acworth, Claremont, Charlestown, Croydon, Langdon, Lempster, Newport, Sunapee, Unity, Washington Contact us: Trumble4NH@gmail.com Powered by RUN! website builder Paid for by Trumble4NH, 52 Poor Farm Road, Weare, NH 03281 Treasurer, David Trumble You need to enable JavaScript to run this app.

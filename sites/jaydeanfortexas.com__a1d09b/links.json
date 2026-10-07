@@ -1,9 +1,34 @@
 [
-"https://facebook.com/jaydeanfortexas",
-"https://jaydeanfortexas.com/",
-"https://jaydeanfortexas.com/endorsement",
-"https://jaydeanfortexas.com/meet-jay",
-"https://jaydeanfortexas.com/privacy-policy",
-"https://jaydeanfortexas.com/volunteer",
-"https://secure.anedot.com/jay-dean-for-texas/general-fund-cc1b9a1c8cd2dc284373b"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/jay-dean-for-texas/general-fund-cc1b9a1c8cd2dc284373b"
+},
+{
+"text": "ENDORSEMENT",
+"href": "https://www.jaydeanfortexas.com/endorsement"
+},
+{
+"text": "HOME",
+"href": "https://www.jaydeanfortexas.com"
+},
+{
+"text": "JOIN THE TEAM!",
+"href": "https://www.jaydeanfortexas.com/volunteer"
+},
+{
+"text": "MEET JAY",
+"href": "https://www.jaydeanfortexas.com/meet-jay"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jaydeanfortexas.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.jaydeanfortexas.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/jaydeanfortexas/"
+}
 ]

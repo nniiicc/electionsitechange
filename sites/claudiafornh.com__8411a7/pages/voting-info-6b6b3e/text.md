@@ -1,12 +1,2 @@
-Voting in Salem
-Polling Locations
-- WARD 1 Woodbury Middle School
-- WARD 2 North Salem Elementary School
-- WARD 3 Mary A.
-Fisk Elementary School
-- WARD 4 Barron Elementary School
-Salem Town Clerk
-33 Geremonty Dr | Salem, NH 03079
-Phone: (603) 890-2116 | Fax: (603) 685-6402
-Salem Town Clerk
-Register to Vote
+0 Skip to Content Meet Claudia Issues Endorsements Voting Info Contact Donate Open Menu Close Menu Meet Claudia Issues Endorsements Voting Info Contact Donate Open Menu Close Menu Meet Claudia Issues Endorsements Voting Info Contact Donate Voting in Salem Polling Locations WARD 1 Woodbury Middle School WARD 2 North Salem Elementary School WARD 3 Mary A.
+Fisk Elementary School WARD 4 Barron Elementary School FIND YOUR WARD Salem Town Clerk 33 Geremonty Dr | Salem, NH 03079 Phone: (603) 890-2116 | Fax: (603) 685-6402 Salem Town Clerk Register to Vote PAID FOR BY CLAUDIA FOR A UNITED COMMUNITY | 9 SOUTH POLICY ST, SALEM, NH 03079 | CLAUDIA DEFURIA, TREASURER.

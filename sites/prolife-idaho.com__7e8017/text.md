@@ -1,18 +1,13 @@
+ProLife Idaho About The Issues Idaho Politicians & Murder More...
+About Us On The Platform Resources Contact VOTE PROLIFE IDAHO!
 Don't vote for the lesser of evils.
 You always have a choice.
 Vote by principle.
-Kirsten Faith Richardson - 2026 for State Senate, District 14 (Gem County and city of Eagle)
-Pro-Life for Governor - 2026
-Pro-Life cell phone: 208-869-2619
-Kirsten cell phone: 208-995-1720
-Make America Moral Again
-We are for the abolishment of baby murder
-and many other things.
+Kirsten Faith Richardson - 2026 for State Senate, District 14 (Gem County and city of Eagle) Pro-Life for Governor - 2026 Pro-Life cell phone: 208-869-2619 Kirsten cell phone: 208-995-1720 Make America Moral Again We are for the abolishment of baby murder and many other things.
 This is a husband and wife combined website for our campaigns.
 We will run every two years for the rest of our lives.
 Our motive is to make the voter accountable for hearing the truth.
-Participation in politics is sick and selfish without faith in Jesus Christ and His motive, 'To Live Only For Truth.'
-The Republicans are promising you prosperity and safety.
+Participation in politics is sick and selfish without faith in Jesus Christ and His motive, 'To Live Only For Truth.' The Republicans are promising you prosperity and safety.
 They are intentionally ignoring the real problems.
 Most Americans are corrupt morally, spiritually, and even physically.
 If Trump was faithful to God, he would be saying, 'Make America Moral Again'.
@@ -44,8 +39,7 @@ You can find our statements on government below.
 Pro-Life and Kirsten have the same positions on government and almost everything.
 This is quite a statement to make but it is true.
 We have an unusual marriage.
-Welcome Neighbors and Friends
-My (only) name is Pro-Life.
+Kirsten Richardson Welcome Neighbors and Friends My (only) name is Pro-Life.
 I ran for Lt.
 Governor of Idaho in 2022 with the Constitution Party.
 I had planned on running for Governor in 2022 but Ammon Bundy, who I supported for Governor, switched from Republican to Independent in February, causing me to file for Lt.
@@ -91,8 +85,7 @@ One of these tiny children is then chosen to be implanted on the mother's uterus
 The freezing of these little people who have adult spirits or souls is a horrendous crime.
 God and His angels are crying out about this most horrible crime against God and nature.
 We must join our voices with God to stop the freezing and murdering of these new people.
-Google 'snowflake babies.'
-We would like to see Idaho outlaw surrogacy.
+Google 'snowflake babies.' We would like to see Idaho outlaw surrogacy.
 These contracts are harmful to the child, mentally and spiritually.
 These contracts often say that the child can be aborted (murdered), if testing before birth, reveals birth defects.
 Surrogacy allows LGBTQ parents to buy babies.
@@ -117,7 +110,7 @@ Very few of God's children seem inclined to be honest and not violate their cons
 Jesus Christ, Heavenly Father, and the Holy Ghost desire for all of us to live with them for Eternity, but we must choose their motive for this to happen.
 Their motive is to never compromise and They (God), by example, encourage us to have love as our motivation when crying repentance.
 Remember, God never lies nor deceives.
-Summary of Positions------You will notice that many executive orders, that I would issue, are very controversial.
+Pro-Life Summary of Positions------You will notice that many executive orders, that I would issue, are very controversial.
 I know that a Governor's Executive Orders, or Emergency Orders, are not law.
 I will issue these orders to save life, health, and property expecting that the Legislature would react to them.
 Legislators are big chickens.
@@ -144,8 +137,7 @@ Lying should be punished whether under oath or in general.
 Public education fosters: group think, socialism, Communism, and selfishness, leading to un-Godly morals, poor manners, and a general lack of faith in God.
 Pro-Life and Kirsten will never compromise to get elected, or in other aspects of life.
 Why do you think we are organic farmers?
-Our farm website is: www.IdahoBerry.com
-We believe in alternative medicine and we are against all vaccinations.
+Our farm website is: www.IdahoBerry.com We believe in alternative medicine and we are against all vaccinations.
 Pro-Life said on the radio, "the only vaccination I will be given, will be on my dead body." No person should be forced to be vaccinated for employment, education, medical treatment, or any conceivable reason.
 We do not believe in childhood vaccination.
 We believe that vaccines harm immune systems.
@@ -239,7 +231,8 @@ State legislative systems should mirror the Federal system, which is, two Senato
 Article 4, Sec 4 is one of the most trashed parts of the Constitution.
 Before 1965, and the Reynolds v.
 Sims decision, states had republican forms of government.
-Idaho needs to go back to a county based legislature as per Article 4, Sec. 4 and yes, in defiance of Reynolds v.
+Idaho needs to go back to a county based legislature as per Article 4, Sec.
+4 and yes, in defiance of Reynolds v.
 Sims.
 Idaho should return to having 44 State Senators (we have 44 counties) with a least one State Representative from each county.
 The more populous counties would have more representatives.
@@ -296,7 +289,8 @@ The GOP will not bring up impeachment until the people demand it.
 America has had poor leadership.
 Trump is much better and we are thankful.
 Did you notice, Biden never criticized Communist China?
-The Biden action in Afghanistan was treason, "aid and comfort to the enemy," See: Article 3, Sec. 3, US Const.
+The Biden action in Afghanistan was treason, "aid and comfort to the enemy," See: Article 3, Sec.
+3, US Const.
 We lacked votes in the Senate to convict on a House impeachment.
 Biden deserved impeachment and we need to remind the GOP that they failed to impeach.
 The House needed to say he 'deserved' impeachment by having a vote.
@@ -308,7 +302,8 @@ Trump is also pro-baby murder and LGBTQ tolerant.
 Remember how Trump sent thousands of ventilators to Covid scam hospitals.
 I want him to have good health.
 He should stop eating 'fast food' and soft drinks.
-I will do everything in my power to prevent harm to people from 5G. 5G is obviously harmful to the health of all living things.
+I will do everything in my power to prevent harm to people from 5G.
+5G is obviously harmful to the health of all living things.
 I would like to see 5G harm investigated in Idaho.
 On the life question, the commonly used birth control pill is an abortifacient (murder by chemical), so therefore, any governmental outlawing of surgical abortion should also outlaw the sale and possession of birth control pills and 'morning after' chemicals.
 Birth control pills cause a woman's body to have a false pregnancy, therefore a real child cannot attach to the uterus and dies.
@@ -371,6 +366,7 @@ Greater accountability could be achieved if law enforcement was directed by the 
 The Idaho Legislature needs to allow students in higher education to take guns on campus.
 Our present political climate is not going to allow a vote on this.
 Chickens in the legislature are there to roost.
-Go to the Top Bar: *About* *The Issues* *Idaho Politicians & Murder* *Contact* for more information.
-© Copyright 2026 ProLife Idaho.
+Go to the Top Bar: *About* *The Issues* *Idaho Politicians & Murder* *Contact* for more information. © Copyright # ProLife Idaho.
 All rights reserved.
+Account Login × Please enter your credentials...
+Cancel Login

@@ -1,0 +1,6 @@
+top of page Home About Endorsements Around the 133rd Get Involved Contact More Use tab to navigate through the menu items.
+DONATE Log In All Articles Search Elections 2026: Bailey vows to continue voicing rural concerns Andrea Bailey #ago 1 min read Read The Livingston County News Article Here \ Assemblywoman Andrea Bailey, R-Geneseo, talks about seeking re-election and how her outsider voice in the Democrat-dominated government in Albany can make a difference in an interview with The Livingston County News.
+By DAN FOLTS dfolts@livingstonnews.com Sep 25, 2026 Updated Sep 30, 2026 Recent Posts See All Bright Spot shines on the Ontario County Women's Republican Club helping give local veterans the trip of a lifetime.
+Marjorie Byrnes won’t seek another term in New York State Assembly; Andrea Bailey announces candidacys candidacy Andrea Bailey endorsed for 133rd Assembly District seat by prominent lawmakers Help Send Andrea Back to Albany!
+DONATE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+Home About Me Endorsements Around the 133rd Get Involved Contact ​ ​ © # Friends of AKB Friends of AKB PO Box 312 Geneseo, NY 14454 abailey4assembly@gmail.com andrea@andreabaileyforassembly.com PAID FOR BY FRIENDS OF AKB bottom of page

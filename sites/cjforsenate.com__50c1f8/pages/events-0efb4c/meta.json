@@ -1,7 +1,9 @@
 {
  "description": "Join CJ Hernandez at upcoming campaign events in District 5",
  "final_url": "https://www.cjforsenate.com/events",
- "paid_for_by": "Paid for by CJ for UT Senate 5 &times;",
+ "fingerprint": "fc064e3366ddf56002d43a65f9173119bc3817ec",
+ "format": 3,
+ "paid_for_by": "Paid for by CJ for UT Senate 5 ×",
  "title": "Events",
  "years_mentioned": []
 }

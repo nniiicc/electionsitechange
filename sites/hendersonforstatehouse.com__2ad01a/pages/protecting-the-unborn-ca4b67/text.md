@@ -1,6 +1,4 @@
-top of page
-Protecting the Unborn
-I believe that life begins at conception, when the egg is fertilized and becomes an embryo.
+top of page DONATE VOLUNTEER YARD SIGN MENU Close HOME MEET JORDAN ISSUES DONATE PRIVACY POLICY Protecting the Unborn I believe that life begins at conception, when the egg is fertilized and becomes an embryo.
 Abortion is one of the most immoral actions taking place in our country today.
 Tennessee law provides protections in statute to protect the life of the mother in cases such as ectopic pregnancy, molar pregnancy, uterine membrane tears, and other medical situations where the baby is not viable.
 My pro-life worldview is rooted in both my Christian faith and personal experience.
@@ -10,4 +8,4 @@ When we went back, not only did we see him on the ultrasound, but at 6 weeks we 
 Despite being smaller than a thumbnail, that heartbeat reaffirmed for me that life begins at conception.
 The idea that unborn babies are merely a “clump of cells” is one of the greatest lies told to the American people.
 If you are unaware of how abortions are performed throughout various phases of pregnancy, I encourage you to watch the video below.
-bottom of page
+Paid for by the Committee to Elect Jordan Henderson to State House Destiny McNair, Treasurer bottom of page

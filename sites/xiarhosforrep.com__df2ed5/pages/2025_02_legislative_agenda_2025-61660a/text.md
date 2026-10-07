@@ -1,41 +1,16 @@
-Representative Xiarhos Files Comprehensive Legislative Agenda for the 194th General Court on Beacon Hill
-January 23, 2025
-BOSTON – State Representative Steven G.
+Skip to content Home About Steve Priorities Legislative Agenda 2025-2026 For Constituents The District Helpful Links News Room The Beacon Hill Brief Press Releases and Statements Steve In the News Contact Us Get E-mails Donate Home About Steve Priorities Legislative Agenda 2025-2026 For Constituents The District Helpful Links News Room The Beacon Hill Brief Press Releases and Statements Steve In the News Contact Us Get E-mails Donate Home About Steve Priorities Legislative Agenda 2025-2026 For Constituents The District Helpful Links News Room The Beacon Hill Brief Press Releases and Statements Steve In the News Contact Us Get E-mails Donate Representative Xiarhos Files Comprehensive Legislative Agenda for the 194th General Court on Beacon Hill Representative Xiarhos Files Comprehensive Legislative Agenda for the 194th General Court on Beacon Hill January 23, 2025 BOSTON – State Representative Steven G.
 Xiarhos (R-Barnstable) is proud to announce the filing of an ambitious legislative package for the 194th Legislative Session on Beacon Hill, addressing a wide range of critical issues affecting residents of Massachusetts.
 This comprehensive agenda reflects a deep commitment to public safety, mental health, veterans, education, economic development, and community infrastructure.
 Xiarhos says he is also pursuing opportunities to lower the cost of living for Massachusetts families and to make state government more accountable and efficient, including the state budget process.
 “As your State Representative, I am honored to advocate for legislation that protects our citizens, supports first responders and veterans, enhances public safety, and ensures a better quality of life for all,” said Representative Xiarhos.
-“These bills are the result of listening to the concerns of my constituents and working toward practical solutions that benefit our communities.”
-Key Legislative Highlights
-Public Safety & First Responders
-• HD465: An Act ensuring the safety and dignity of first responders (Halo Act)
-• HD733: Dakota’s Law – Establishing a fund for the care of retired police dogs
-• HD3862: Nero’s Law 2.0 – Providing advanced life support to police dogs injured in the line of duty
-• HD747: Matt’s Law – Addressing the security of exercise equipment in correctional institutions
-• HD753: Protecting healthcare personnel, school officials, and first responders from assault and battery
-• HD2721: Active Shooter/Hostile Event Response (ASHER) legislation
-• HD4197: Supporting disabled first responders
-• HD571: Strengthening school security measures
-Justice & Legal Reforms
-• HD582: Ensuring state compliance with federal detainer requests (ICE)
-• HD734: Eliminating cashless bail
-• HD4171: Universal background checks for emergency housing assistance
-• HD791: Right to Shelter Law – Emergency shelter assistance for Commonwealth residents
-• HD1547: Tatiana’s Law – Addressing fentanyl arrests.
-Veterans & Military Affairs
-• HD3921: Extending Chapter 115 Veterans benefits
-• HD4208: Establishing an Air Medal license plate
-Economic Development & Competitiveness
-• HD3926: Promoting business competitiveness and affordable living in Massachusetts
-Renewable Energy & Environmental Concerns
-• HD756: Establishing a special commission to study the risks associated with offshore wind energy infrastructure
-Retirement & Benefits
-• HD2976: Fair and equitable retirement benefits for POST-certified police officers on public higher education campuses
-• HD3846: Reclassifying Barnstable County 911 dispatchers as first responders, granting them access to the same retirement benefits as police officers and firefighters
-• HD750: Granting retirement parity for Massachusetts Port Authority officers.
+“These bills are the result of listening to the concerns of my constituents and working toward practical solutions that benefit our communities.” Key Legislative Highlights Public Safety & First Responders • HD465: An Act ensuring the safety and dignity of first responders (Halo Act) • HD733: Dakota’s Law – Establishing a fund for the care of retired police dogs • HD3862: Nero’s Law 2.0 – Providing advanced life support to police dogs injured in the line of duty • HD747: Matt’s Law – Addressing the security of exercise equipment in correctional institutions • HD753: Protecting healthcare personnel, school officials, and first responders from assault and battery • HD2721: Active Shooter/Hostile Event Response (ASHER) legislation • HD4197: Supporting disabled first responders • HD571: Strengthening school security measures Justice & Legal Reforms • HD582: Ensuring state compliance with federal detainer requests (ICE) • HD734: Eliminating cashless bail • HD4171: Universal background checks for emergency housing assistance • HD791: Right to Shelter Law – Emergency shelter assistance for Commonwealth residents • HD1547: Tatiana’s Law – Addressing fentanyl arrests.
+Veterans & Military Affairs • HD3921: Extending Chapter 115 Veterans benefits • HD4208: Establishing an Air Medal license plate Economic Development & Competitiveness • HD3926: Promoting business competitiveness and affordable living in Massachusetts Renewable Energy & Environmental Concerns • HD756: Establishing a special commission to study the risks associated with offshore wind energy infrastructure Retirement & Benefits • HD2976: Fair and equitable retirement benefits for POST-certified police officers on public higher education campuses • HD3846: Reclassifying Barnstable County 911 dispatchers as first responders, granting them access to the same retirement benefits as police officers and firefighters • HD750: Granting retirement parity for Massachusetts Port Authority officers.
 “These bills reflect our shared values and priorities as a Commonwealth,” added Representative Xiarhos.
-“I encourage residents to stay informed and engaged as we work to advance these critical initiatives on Beacon Hill.”
-According to Xiarhos, bills filed at the beginning of the session await an assignment of permanent bill numbers as well as their referral to the appropriate legislative committees.
-Those committees will then be charged with reviewing the bills and holding hearings for input from members of the public in the coming months.
-[Editor’s Note: This page will be updated with more detailed information once bills are assigned permanent bill numbers and assigned to committees.]
-###
+“I encourage residents to stay informed and engaged as we work to advance these critical initiatives on Beacon Hill.” According to Xiarhos, bills filed at the beginning of the session await an assignment of permanent bill numbers as well as their referral to the appropriate legislative committees.
+Those committees will then be charged with reviewing the bills and holding hearings for input from members of the public in the coming months. [ Editor’s Note: This page will be updated with more detailed information once bills are assigned permanent bill numbers and assigned to committees. ] ### Xiarhos Committee 2025-02-17T08:03:44-05:00 Copyright # - Committee to Elect Steven Xiarhos | All rights reserved.
+The Committee to Elect Steven Xiarhos is solely responsible for all content on this Website and for any and all solicitations for political contributions herein or in any way associated herewith.
+The Committee is also responsible for funding and managing this Website; no public funds or resources are used to design and maintain this site.
+Nothing within this site is intended to communicate or imply the support or endorsement of any person or entity unless such an endorsement is stated explicitly.
+Paid for by the Committee to Elect Steven Xiarhos, PO Box 617, East Sandwich, MA, 02537 | Catherine L.
+Anderson, Treasurer Telephone: 508-534-8752 | E-mail: contact@xiarhosforrep.com Follow us on Facebook!
+Follow Us On Twitter Follow Us On Instagram DONATE Page load link Go to Top

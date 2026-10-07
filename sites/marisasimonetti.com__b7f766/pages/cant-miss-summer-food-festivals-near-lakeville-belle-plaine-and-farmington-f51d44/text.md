@@ -1,9 +1,16 @@
-Donate NowHomeMeet UsReviewsFAQ
-I agree to be contacted by Marisa for Minnesota.
-To opt out, click the unsubscribe link in the emails.
-Can’t-Miss Summer Food Festivals Near Lakeville, Belle Plaine, and Farmington
-Join us & receive email updates.
-Marisa for Minnesota US Senate
-Lot #7060 PO BOX 17370 Saint Paul, MN 55117
-RECOMMENDED BY
-Donate Now
+Donate Now Home Meet Us Reviews FAQ Join us & receive email updates.
+Marisa for Minnesota US Senate Join Us I agree to be contacted by Marisa for Minnesota.
+To opt out, click the unsubscribe link in the emails. marisa4minnesota@marisasimonetti.com © # Prepared and paid for by Marisa for Minnesota Lot #7060 PO BOX 17370 Saint Paul, MN 55117 RECOMMENDED BY John Bristol for State Representative Tad Jude for US Congress Pam Altendorf House of Representatives 20A Steven Jacob House of Representatives 20B Senator Karin Housely Donate Now Dennis Walsh, Mayor of Orono ≡ :::: Tap to close menu Home News Blog Housing & Homeownership in Minnesota Minnesota Eats & Local Food Culture Things to Do in Minnesota Can’t-Miss Summer Food Festivals Near Lakeville, Belle Plaine, and Farmington Summer in Minnesota means one thing: food festivals.
+From sizzling corn-on-the-cob to deep-fried cheese curds and global eats that reflect our state's diversity, local food events in Lakeville, Belle Plaine, and Farmington are serving up unforgettable flavors and community fun.
+Whether you're a longtime local or new to Dakota and Scott County, here are the top summer festivals worth the trip—and a few hidden gems you may have missed. 🍗 Lakeville’s Taste of Summer: Pan-O-Prog Food Vendors Pan-O-Prog (Panorama of Progress) is Lakeville’s iconic summer celebration, and the food lineup is always a crowd-pleaser.
+What to Expect: •BBQ stands and local pitmasters •Walking tacos, roasted corn, and lemonade shake-ups •Lakeville Lions Beer Garden with live music 📍 Event Dates: July 4–14 🎟️ Location: Downtown Lakeville Even if you’re just thinking about moving or planning to sell your house fast in Lakeville MN, it’s worth attending for the local vibe and community energy. 🧁 Belle Plaine’s Bar-B-Q Days: Small-Town Flavor, Big Fun If you’ve never been to Bar-B-Q Days in Belle Plaine, you’re missing out.
+This Scott County classic has been running since 1959 and is known for one thing: free BBQ sandwiches for the entire community.
+Highlights: •Legendary pork sandwiches (made by volunteers) •Carnival rides and street food vendors •Pie-eating contest and beer tent 📍 Event Dates: July 19–21 🎉 Location: Court Square Park, Belle Plaine Whether you're a local or considering relocating, Bar-B-Q Days is a slice of Scott County pride. 🌮 Farmington Dew Days: Community Food & Cultural Vibes Held in the heart of Dakota County, Dew Days in Farmington offers a rich mix of food vendors that showcase the area’s growing cultural diversity.
+Top Eats: •Tacos al pastor and elotes 🌽 •Mini donuts and caramel corn •Food trucks featuring Asian fusion and gourmet mac & cheese 📍 Event Dates: June 19–23 🏞️ Location: Downtown Farmington If you're thinking of selling your house in Farmington MN, events like Dew Days remind potential buyers that the area has strong community ties and great local flavor. 🏡 Why Festivals Matter for Local Real Estate Local events like these aren't just fun—they boost your city's image for potential buyers.
+Whether you're planning to list your home on the market or talk to a company that buys houses in Minnesota, showcasing your community’s culture can influence buyer decisions. ✨ A town with beloved festivals says: “People want to live here.” 📸 Pro Tips for Attending •Arrive early.
+Food lines grow fast. •Bring cash.
+Some local vendors don’t accept cards. •Park smart.
+Check shuttle options or walk from nearby lots. •Ask locals.
+Some vendors are invite-only and not listed online. 👤 About the Author Marisa Simonetti is a Minnesota-based housing advocate, real estate investor, and 2026 candidate for U.S.
+Senate in Minnesota .
+She writes about affordable housing, home repairs, and sustainable homeownership in counties like Dakota, Scott, Ramsey, and beyond.

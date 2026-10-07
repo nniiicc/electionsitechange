@@ -1,5 +1,4 @@
-MORE ABOUT Max
-Max Deitchler (pronounced Dye-ch-ler) is a father, husband, small business owner, and attorney who lives in Fayetteville with his wife (Rachel), dog (Roxi), and daughter.
+0 Skip to Content About Get Involved Register to Vote Volunteer Events Contact Map of District 20 Max's Election Work Donate Open Menu Close Menu About Get Involved Register to Vote Volunteer Events Contact Map of District 20 Max's Election Work Donate Open Menu Close Menu About Folder: Get Involved Back Register to Vote Volunteer Events Contact Map of District 20 Max's Election Work Donate MORE ABOUT Max Max Deitchler (pronounced Dye-ch-ler ) is a father, husband, small business owner, and attorney who lives in Fayetteville with his wife (Rachel), dog (Roxi), and daughter.
 Max is from Eureka Springs and is the son of a public school teacher and a carpenter.
 He grew up camping, floating, hiking, and exploring the Ozarks.
 Max earned a Bachelor of Arts (B.A.) from Hendrix College and graduated summa cum laude from the University of Arkansas School of Law with a Juris Doctor (J.D.).
@@ -8,3 +7,5 @@ Max spent more than a decade serving on the Washington County Election Commissio
 Max and his wife own a watersports outfitter in Northwest Arkansas which helps people explore rivers and lakes in the area.
 As a small business owner, Max has firsthand insight into the challenges faced by local entrepreneurs.
 Seasonally, you can find Max and his family floating the rivers in Arkansas, traveling out West for multi-day raft trips, backpacking the OHT, and generally exploring the outdoors.
+Sign up for updates Contact P.O.
+Box 8423, Fayetteville, AR 72703 Paid for by Max for Arkansas.

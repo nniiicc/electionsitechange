@@ -1,28 +1,10 @@
-Contribute
-This campaign is powered by our friends and neighbors-- not PACs or wealthy special interests.Every contribution helps us reach more voters, build community connections, and run a grassroots campaign focused on Arizona families and working people.
-Your support helps fund:
-- Community outreach
-- Campaign materials
-- Events for voter engagement
-- This website and other communication tools
-- Organizing across the district
-No contribution is too small, and every donation truly makes a difference.
-Arizona Clean Elections: Early Contributions & $5 Qualifying Contributions
-Early Contributions
-Early Contributions are donations used to help launch and operate a Clean Elections campaign before public funding begins.
-These contributions:
-- Can come from supporters both inside and outside the district
-- Are subject to Arizona contribution limits ($220 for an individual)
-- Help cover startup expenses like campaign materials, outreach, events, filing fees, and organizing
-- Must be raised and spent during the qualifying period before Clean Elections funding is distributed
-Early Contributions are separate from the $5 Qualifying Contributions used to qualify for public funding.
-$5 Qualifying Contributions (QCs)
-To qualify for Clean Elections public funding, participating candidates must collect a required number of $5 contributions from registered voters in their district.
-For Legislative District candidates:
-- Contributors must be registered voters who live in the district
-- Each contribution must be exactly $5
-- Contributions demonstrate community support for the campaign
-- Contributors may support candidates regardless of political party affiliation
-Once the required number of verified $5 Qualifying Contributions is collected and approved, the campaign becomes eligible to receive public funding through the Arizona Citizens Clean Elections Commission.
-(200 req.)
-Arizona voters can securely make $5 Qualifying Contributions online through the state’s E-Qual system using an Arizona driver license or state ID.
+Home Meet Jayme Endorsements Make Endorsement Issues Events Photos Volunteer Voter Information Contribute Yard Signs Contact Contribute This campaign is powered by our friends and neighbors-- not PACs or wealthy special interests.Every contribution helps us reach more voters, build community connections, and run a grassroots campaign focused on Arizona families and working people.
+Your support helps fund: Community outreach Campaign materials Events for voter engagement This website and other communication tools Organizing across the district No contribution is too small, and every donation truly makes a difference.
+Complete your $ 0 contribution: Select Your Information Choose an amount: $5 $10 $15 $25 $50 $100 $500 Other Amount $ Choose payment method: Credit Card First Name * Last Name * Email * Phone Address * City/Town * State * Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip * Occupation * Employer * Add $ 0.00 to help cover PayPal processing fees?
+Add $ 0.00 to help cover card processing fees?
+Submit Contribution Arizona Clean Elections: Early Contributions & $5 Qualifying Contributions Early Contributions Early Contributions are donations used to help launch and operate a Clean Elections campaign before public funding begins.
+These contributions: Can come from supporters both inside and outside the district Are subject to Arizona contribution limits ($220 for an individual) Help cover startup expenses like campaign materials, outreach, events, filing fees, and organizing Must be raised and spent during the qualifying period before Clean Elections funding is distributed Early Contributions are separate from the $5 Qualifying Contributions used to qualify for public funding. $5 Qualifying Contributions (QCs) To qualify for Clean Elections public funding, participating candidates must collect a required number of $5 contributions from registered voters in their district.
+For Legislative District candidates: Contributors must be registered voters who live in the district Each contribution must be exactly $5 Contributions demonstrate community support for the campaign Contributors may support candidates regardless of political party affiliation Once the required number of verified $5 Qualifying Contributions is collected and approved, the campaign becomes eligible to receive public funding through the Arizona Citizens Clean Elections Commission.
+(200 req.) Arizona voters can securely make $5 Qualifying Contributions online through the state’s E-Qual system using an Arizona driver license or state ID.
+Learn More Arizona Citizens Clean Elections Commission E-Qual Online Contribution System VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com - Political Websites Home Meet Jayme Issues Endorsements Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu

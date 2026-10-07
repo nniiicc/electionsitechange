@@ -1,11 +1,46 @@
 [
-"https://bsky.app/profile/voteraysmith.bsky.social",
-"https://facebook.com/voteraysmith",
-"https://instagram.com/voteraysmith",
-"https://voteraysmith.com/",
-"https://voteraysmith.com/contact",
-"https://voteraysmith.com/endorsements",
-"https://voteraysmith.com/policy",
-"https://voteraysmith.com/why-im-running",
-"https://wordpress.org/"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/voteraysmith.bsky.social"
+},
+{
+"text": "Contact",
+"href": "https://voteraysmith.com/contact/"
+},
+{
+"text": "Endorsements",
+"href": "https://voteraysmith.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/voteraysmith"
+},
+{
+"text": "Home",
+"href": "https://voteraysmith.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/voteraysmith"
+},
+{
+"text": "Policy",
+"href": "https://voteraysmith.com/policy/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://voteraysmith.com/why-im-running/"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org"
+},
+{
+"text": "[image: Ray Smith for Ga Senate 46]",
+"href": "https://voteraysmith.com/"
+},
+{
+"text": "ray@voteraysmith.com",
+"href": "mailto:ray@voteraysmith.com"
+}
 ]

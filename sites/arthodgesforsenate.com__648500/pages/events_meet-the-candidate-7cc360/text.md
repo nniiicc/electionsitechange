@@ -1,13 +1,2 @@
-Back to All Events
-APRIL 30, 2026 | 5:30PM - 7PM
-LEGACY INTERNATIONAL CENTER
-875 Hotel Circle South
-San Diego, CA 92108
-Appetizers served
-Previous
-Previous
-September 24
-National Apostolic Christian Leadership Conference
-Next
-Next
-September 25
+0 Skip to Content Home Meet Art About Art Candidate Comparison Photo Gallery 250 Club Media News Events Issues Endorsements District Map Get Involved English DONATE Open Menu Close Menu Home Meet Art About Art Candidate Comparison Photo Gallery 250 Club Media News Events Issues Endorsements District Map Get Involved English DONATE Open Menu Close Menu Home Folder: Meet Art Back About Art Candidate Comparison Photo Gallery 250 Club Folder: Media Back News Events Issues Endorsements District Map Get Involved English Back DONATE Back to All Events Meet The Candidate Thursday, April 30, 2026 5:30 PM 7:00 PM Legacy International Center 875 Hotel Circle South San Diego, CA 92108 (map) Google Calendar ICS RSVP HERE APRIL 30, 2026 | 5:30PM - 7PM LEGACY INTERNATIONAL CENTER 875 Hotel Circle South San Diego, CA 92108 Appetizers served Previous Previous September 24 National Apostolic Christian Leadership Conference Next Next September 25 Chula Vista Town Hall Contact Us: info@arthodgesforsenate.com DONATE CALIFORNIA ISSUES Privacy Policy Follow Us on Social Media CONNECT WITH US Paid for by Art Hodges for Senate 2026 FPPC ID: 1482587 Copyright © #.
+All Rights Reserved

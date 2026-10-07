@@ -1,55 +1,246 @@
 [
-"https://cbsnews.com/newyork/news/fdny-memorial-wall-911-names-added-911-illnesses",
-"https://cdc.gov/wtc/pdfs/statistics/20260630_External_QuarterlyProgramSummary.pdf",
-"https://cnn.com/2001/US/09/14/flag.sales/index.html",
-"https://corymaloy.com/",
-"https://corymaloy.com/blog",
-"https://corymaloy.com/blog/9-11-25th-anniversary-charlie-kirk",
-"https://corymaloy.com/blog/my-principles-made-me-a-republican",
-"https://corymaloy.com/blog/school-choice-in-utah-starts-with-the-parent",
-"https://corymaloy.com/blog/stratos-data-center-box-elder-where-i-stand",
-"https://corymaloy.com/blog/utah-education-funding-reading-part-1",
-"https://corymaloy.com/blog?cat=Community",
-"https://corymaloy.com/blog?cat=Education",
-"https://corymaloy.com/blog?cat=Elections",
-"https://corymaloy.com/blog?cat=Legislation",
-"https://corymaloy.com/blog?cat=Opinion",
-"https://corymaloy.com/blog?tag=Budget",
-"https://corymaloy.com/blog?tag=Convention",
-"https://corymaloy.com/blog?tag=Data+Centers",
-"https://corymaloy.com/blog?tag=Education",
-"https://corymaloy.com/blog?tag=Elections",
-"https://corymaloy.com/blog?tag=Energy",
-"https://corymaloy.com/blog?tag=Growth",
-"https://corymaloy.com/blog?tag=HB+120",
-"https://corymaloy.com/blog?tag=HB+143",
-"https://corymaloy.com/blog?tag=HB+146",
-"https://corymaloy.com/blog?tag=HB+180",
-"https://corymaloy.com/blog?tag=HB+184",
-"https://corymaloy.com/blog?tag=Healthcare",
-"https://corymaloy.com/blog?tag=Housing",
-"https://corymaloy.com/blog?tag=Life",
-"https://corymaloy.com/blog?tag=Public+Safety",
-"https://corymaloy.com/blog?tag=Second+Amendment",
-"https://corymaloy.com/blog?tag=Taxes",
-"https://corymaloy.com/blog?tag=Transparency",
-"https://corymaloy.com/blog?tag=Water",
-"https://corymaloy.com/cdn-cgi/l/email-protection",
-"https://corymaloy.com/contact",
-"https://corymaloy.com/donate",
-"https://corymaloy.com/issues",
-"https://corymaloy.com/meet-cory",
-"https://corymaloy.com/the-record",
-"https://deseret.com/politics/2026/08/21/turning-point-usa-announces-memorial-at-utah-valley-university-on-anniversary-of-charlie-kirk-assassination",
-"https://facebook.com/RepCoryMaloy",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.corymaloy.com%2Fblog%2F9-11-25th-anniversary-charlie-kirk",
-"https://ksl.com/article/51608901/utah-valley-university-cancels-classes-on-anniversary-of-charlie-kirk-killing",
-"https://linkedin.com/in/acorymaloy",
-"https://linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fwww.corymaloy.com%2Fblog%2F9-11-25th-anniversary-charlie-kirk",
-"https://news.gallup.com/poll/711938/american-pride-falls-year-record-low.aspx",
-"https://npr.org/2023/09/25/1201608110/fdny-deaths-from-9-11-related-illnesses-now-equal-the-number-killed-on-sept-11",
-"https://ny1.com/nyc/all-boroughs/news/2026/09/02/new-fdny-report-details-25-years-of-9-11-health-impacts",
-"https://patch.com/new-york/lower-east-side-chinatown/more-450-names-added-9-11-nypd-memorial-wall",
-"https://pewresearch.org/politics/2021/09/02/two-decades-later-the-enduring-legacy-of-9-11",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.corymaloy.com%2Fblog%2F9-11-25th-anniversary-charlie-kirk&text=A+Day+of+Infamy+at+25%2C+and+a+Year+Without+Charlie+Kirk"
+{
+"text": "#Budget 15",
+"href": "https://www.corymaloy.com/blog?tag=Budget"
+},
+{
+"text": "#Convention 12",
+"href": "https://www.corymaloy.com/blog?tag=Convention"
+},
+{
+"text": "#Data Centers 2",
+"href": "https://www.corymaloy.com/blog?tag=Data+Centers"
+},
+{
+"text": "#Education 19",
+"href": "https://www.corymaloy.com/blog?tag=Education"
+},
+{
+"text": "#Elections 27",
+"href": "https://www.corymaloy.com/blog?tag=Elections"
+},
+{
+"text": "#Energy 5",
+"href": "https://www.corymaloy.com/blog?tag=Energy"
+},
+{
+"text": "#Growth 11",
+"href": "https://www.corymaloy.com/blog?tag=Growth"
+},
+{
+"text": "#HB 120 2",
+"href": "https://www.corymaloy.com/blog?tag=HB+120"
+},
+{
+"text": "#HB 143 2",
+"href": "https://www.corymaloy.com/blog?tag=HB+143"
+},
+{
+"text": "#HB 146 2",
+"href": "https://www.corymaloy.com/blog?tag=HB+146"
+},
+{
+"text": "#HB 180 2",
+"href": "https://www.corymaloy.com/blog?tag=HB+180"
+},
+{
+"text": "#HB 184 2",
+"href": "https://www.corymaloy.com/blog?tag=HB+184"
+},
+{
+"text": "#Healthcare 6",
+"href": "https://www.corymaloy.com/blog?tag=Healthcare"
+},
+{
+"text": "#Housing 5",
+"href": "https://www.corymaloy.com/blog?tag=Housing"
+},
+{
+"text": "#Life 3",
+"href": "https://www.corymaloy.com/blog?tag=Life"
+},
+{
+"text": "#Public Safety 8",
+"href": "https://www.corymaloy.com/blog?tag=Public+Safety"
+},
+{
+"text": "#Second Amendment 10",
+"href": "https://www.corymaloy.com/blog?tag=Second+Amendment"
+},
+{
+"text": "#Taxes 13",
+"href": "https://www.corymaloy.com/blog?tag=Taxes"
+},
+{
+"text": "#Transparency 10",
+"href": "https://www.corymaloy.com/blog?tag=Transparency"
+},
+{
+"text": "#Water 8",
+"href": "https://www.corymaloy.com/blog?tag=Water"
+},
+{
+"text": "801-477-0019",
+"href": "tel:8014770019"
+},
+{
+"text": "CBS New York, FDNY adds 36 names to the WTC Memorial Wall",
+"href": "https://www.cbsnews.com/newyork/news/fdny-memorial-wall-911-names-added-911-illnesses/"
+},
+{
+"text": "CDC, World Trade Center Health Program quarterly summary, June 30, 2026",
+"href": "https://www.cdc.gov/wtc/pdfs/statistics/20260630_External_QuarterlyProgramSummary.pdf"
+},
+{
+"text": "CNN, flag sales after Sept. 11, 2001",
+"href": "https://www.cnn.com/2001/US/09/14/flag.sales/index.html"
+},
+{
+"text": "Community 4",
+"href": "https://www.corymaloy.com/blog?cat=Community"
+},
+{
+"text": "Contact",
+"href": "https://www.corymaloy.com/contact"
+},
+{
+"text": "Deseret News, Turning Point USA memorial at UVU",
+"href": "https://www.deseret.com/politics/2026/08/21/turning-point-usa-announces-memorial-at-utah-valley-university-on-anniversary-of-charlie-kirk-assassination/"
+},
+{
+"text": "Donate",
+"href": "https://www.corymaloy.com/donate"
+},
+{
+"text": "Education 2",
+"href": "https://www.corymaloy.com/blog?cat=Education"
+},
+{
+"text": "Elections 8",
+"href": "https://www.corymaloy.com/blog?cat=Elections"
+},
+{
+"text": "FDNY, 25-year World Trade Center health report, via NY1",
+"href": "https://ny1.com/nyc/all-boroughs/news/2026/09/02/new-fdny-report-details-25-years-of-9-11-health-impacts"
+},
+{
+"text": "Gallup, American Pride Falls to 25-Year Record Low (June 29, 2026)",
+"href": "https://news.gallup.com/poll/711938/american-pride-falls-year-record-low.aspx"
+},
+{
+"text": "Issues",
+"href": "https://www.corymaloy.com/issues"
+},
+{
+"text": "KSL, UVU cancels classes on the anniversary",
+"href": "https://www.ksl.com/article/51608901/utah-valley-university-cancels-classes-on-anniversary-of-charlie-kirk-killing"
+},
+{
+"text": "Legislation 36",
+"href": "https://www.corymaloy.com/blog?cat=Legislation"
+},
+{
+"text": "Meet Cory",
+"href": "https://www.corymaloy.com/meet-cory"
+},
+{
+"text": "NPR, FDNY illness deaths equal the number killed on 9/11 (Sept. 2023)",
+"href": "https://www.npr.org/2023/09/25/1201608110/fdny-deaths-from-9-11-related-illnesses-now-equal-the-number-killed-on-sept-11"
+},
+{
+"text": "Opinion 1",
+"href": "https://www.corymaloy.com/blog?cat=Opinion"
+},
+{
+"text": "Patch, NYPD adds more than 450 names to its 9/11 memorial wall",
+"href": "https://patch.com/new-york/lower-east-side-chinatown/more-450-names-added-9-11-nypd-memorial-wall"
+},
+{
+"text": "Pew Research Center, Two Decades Later, the Enduring Legacy of 9/11",
+"href": "https://www.pewresearch.org/politics/2021/09/02/two-decades-later-the-enduring-legacy-of-9-11/"
+},
+{
+"text": "School Choice in Utah Starts with the Parent →",
+"href": "https://www.corymaloy.com/blog/school-choice-in-utah-starts-with-the-parent"
+},
+{
+"text": "Stand With Cory in November",
+"href": "https://www.corymaloy.com/contact"
+},
+{
+"text": "The 52 Report",
+"href": "https://www.corymaloy.com/blog"
+},
+{
+"text": "The 52 Report Blog",
+"href": "https://www.corymaloy.com/blog"
+},
+{
+"text": "The Record",
+"href": "https://www.corymaloy.com/the-record"
+},
+{
+"text": "Volunteer",
+"href": "https://www.corymaloy.com/contact"
+},
+{
+"text": "[email protected]",
+"href": "mailto:cory@corymaloy.com"
+},
+{
+"text": "[image: Cory Maloy, Utah House District 52]",
+"href": "https://www.corymaloy.com/"
+},
+{
+"text": "[image] Jun 8, 2026 Where I Stand on the Stratos Data Center in Box Elder County",
+"href": "https://www.corymaloy.com/blog/stratos-data-center-box-elder-where-i-stand"
+},
+{
+"text": "[image] Sep 11, 2026 A Day of Infamy at 25, and a Year Without Charlie Kirk",
+"href": "https://www.corymaloy.com/blog/9-11-25th-anniversary-charlie-kirk"
+},
+{
+"text": "[image] Sep 28, 2026 School Choice in Utah Starts with the Parent",
+"href": "https://www.corymaloy.com/blog/school-choice-in-utah-starts-with-the-parent"
+},
+{
+"text": "[image] Sep 28, 2026 Utah Education Funding Is Up. Reading Isn't.",
+"href": "https://www.corymaloy.com/blog/utah-education-funding-reading-part-1"
+},
+{
+"text": "[image] Sep 8, 2026 My Principles Made Me a Republican. Not the Other Way Around.",
+"href": "https://www.corymaloy.com/blog/my-principles-made-me-a-republican"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepCoryMaloy"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/acorymaloy/"
+},
+{
+"text": "[tooltip: Share by email]",
+"href": "mailto:?subject=A+Day+of+Infamy+at+25%2C+and+a+Year+Without+Charlie+Kirk&body=https%3A%2F%2Fwww.corymaloy.com%2Fblog%2F9-11-25th-anniversary-charlie-kirk"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.corymaloy.com%2Fblog%2F9-11-25th-anniversary-charlie-kirk"
+},
+{
+"text": "[tooltip: Share on LinkedIn]",
+"href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.corymaloy.com%2Fblog%2F9-11-25th-anniversary-charlie-kirk"
+},
+{
+"text": "[tooltip: Share on X]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.corymaloy.com%2Fblog%2F9-11-25th-anniversary-charlie-kirk&text=A+Day+of+Infamy+at+25%2C+and+a+Year+Without+Charlie+Kirk"
+},
+{
+"text": "← My Principles Made Me a Republican. Not the Other Way Around.",
+"href": "https://www.corymaloy.com/blog/my-principles-made-me-a-republican"
+},
+{
+"text": "← The 52 Report",
+"href": "https://www.corymaloy.com/blog"
+}
 ]

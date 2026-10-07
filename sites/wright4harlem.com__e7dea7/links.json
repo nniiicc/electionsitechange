@@ -1,13 +1,90 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSeVqa7zPmru7JSxHQompfEmMDQPpD-7TpBF3I_nJh9wgKRnSA/viewform",
-"https://facebook.com/Wright4Harlem",
-"https://instagram.com/JordanWright4Harlem",
-"https://secure.actblue.com/donate/websitejjgw",
-"https://secure.actblue.com/donate/websitejjgw?amount=100",
-"https://secure.actblue.com/donate/websitejjgw?amount=25",
-"https://secure.actblue.com/donate/websitejjgw?amount=250",
-"https://secure.actblue.com/donate/websitejjgw?amount=50",
-"https://twitter.com/Wright4Harlem",
-"https://wright4harlem.com/",
-"https://wright4harlem.com/about"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/websitejjgw?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/websitejjgw?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/websitejjgw?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/websitejjgw?amount=50"
+},
+{
+"text": "Contact Us",
+"href": "https://www.wright4harlem.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/websitejjgw"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/websitejjgw?amount=50"
+},
+{
+"text": "Home",
+"href": "https://www.wright4harlem.com"
+},
+{
+"text": "Join Team Wright",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeVqa7zPmru7JSxHQompfEmMDQPpD-7TpBF3I_nJh9wgKRnSA/viewform"
+},
+{
+"text": "Join The Team",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeVqa7zPmru7JSxHQompfEmMDQPpD-7TpBF3I_nJh9wgKRnSA/viewform"
+},
+{
+"text": "Meet Jordan",
+"href": "https://www.wright4harlem.com/about"
+},
+{
+"text": "Our Campaign",
+"href": "https://www.wright4harlem.com"
+},
+{
+"text": "Points On The Board",
+"href": "https://www.wright4harlem.com"
+},
+{
+"text": "The Playbook",
+"href": "https://www.wright4harlem.com"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeVqa7zPmru7JSxHQompfEmMDQPpD-7TpBF3I_nJh9wgKRnSA/viewform"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Wright4Harlem"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/JordanWright4Harlem"
+},
+{
+"text": "[image: JORDAN ICONS-01.png]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeVqa7zPmru7JSxHQompfEmMDQPpD-7TpBF3I_nJh9wgKRnSA/viewform"
+},
+{
+"text": "[image: JORDAN ICONS-02.png]",
+"href": "https://secure.actblue.com/donate/websitejjgw"
+},
+{
+"text": "[image: JORDAN ICONS-03.png]",
+"href": "https://www.wright4harlem.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/Wright4Harlem"
+},
+{
+"text": "jordanwrightforny@gmail.com",
+"href": "mailto:jordanwrightforny@gmail.com"
+}
 ]

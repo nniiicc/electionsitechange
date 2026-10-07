@@ -1,25 +1,114 @@
 [
-"https://actionnetwork.org/forms/phone-bank-for-congressional-candidate-josh-smead",
-"https://bsky.app/profile/joshsmead.bsky.social",
-"https://facebook.com/profile.php?id=61574602100872",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260401T080000%2F20261103T170000&text=Ongoing%3A+Phone+Bank+for+Josh&details=%3Cp+class%3D%22%22%3E%3Cstrong%3EJoin+us+Sunday%2C+Monday%2C+and+Wednesday+afternoons%3C%2Fstrong%3E%26nbsp%3Bto+let+your+neighbors+know+why+you+support+Josh+Smead+for+Congress.%26nbsp%3B%3Cstrong%3EBring+your+phone%2C+a+pair+of+headphones%2C+and+your+laptop%3C%2Fstrong%3E%2C+and+from+the+comfort+of+your+own+home%2C+you+can%26nbsp%3B%3Cstrong%3Ehelp+Josh+reach+voters+across+all+33+counties%21%3C%2Fstrong%3E%3C%2Fp%3E+%3Cp+class%3D%22%22%3ENever+phone+banked+before%3F+That%27s+okay%21%26nbsp%3B%3Cstrong%3EWe%27ll+train+you+and+get+you+comfortable+talking+to+your+neighbors+in+no+time.%3C%2Fstrong%3E%3C%2Fp%3E+%3Cp+class%3D%22wp-block-paragraph%22%3E%3Ca+class%3D%22btn+btn--donate%22+href%3D%22https%3A%2F%2Factionnetwork.org%2Fforms%2Fphone-bank-for-congressional-candidate-josh-smead%3Fsource%3Ddirect_link%22+target%3D%22_blank%22+rel%3D%22noopener+noreferrer%22%3ESign+Up%3C%2Fa%3E%3C%2Fp%3E+&trp=false&ctz=UTC+0&sprop=website%3Ahttps%3A%2F%2Fvotesmead.com",
-"https://instagram.com/smead_for_missouri",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-04-01T08%3A00%3A00%2B00%3A00&enddt=2026-11-03T17%3A00%3A00%2B00%3A00&subject=Ongoing%3A+Phone+Bank+for+Josh&body=%3Cp+class%3D%22%22%3EJoin+us+Sunday%2C+Monday%2C+and+Wednesday+afternoons%26nbsp%3Bto+let+your+neighbors+know+why+you+support+Josh+Smead+for+Congress.%26nbsp%3BBring+your+phone%2C+a+pair+of+headphones%2C+and+your+laptop%2C+and+from+the+comfort+of+your+own+home%2C+you+can%26nbsp%3Bhelp+Josh+reach+voters+across+all+33+counties%21%3C%2Fp%3E%3Cp+class%3D%22%22%3ENever+phone+banked+before%3F+That%27s+okay%21%26nbsp%3BWe%27ll+train+you+and+get+you+comfortable+talking+to+your+neighbors+in+no+time.%3C%2Fp%3E%3Cp+class%3D%22wp-block-paragraph%22%3ESign+Up%3C%2Fp%3E",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-04-01T08%3A00%3A00%2B00%3A00&enddt=2026-11-03T17%3A00%3A00%2B00%3A00&subject=Ongoing%3A+Phone+Bank+for+Josh&body=%3Cp+class%3D%22%22%3EJoin+us+Sunday%2C+Monday%2C+and+Wednesday+afternoons%26nbsp%3Bto+let+your+neighbors+know+why+you+support+Josh+Smead+for+Congress.%26nbsp%3BBring+your+phone%2C+a+pair+of+headphones%2C+and+your+laptop%2C+and+from+the+comfort+of+your+own+home%2C+you+can%26nbsp%3Bhelp+Josh+reach+voters+across+all+33+counties%21%3C%2Fp%3E%3Cp+class%3D%22%22%3ENever+phone+banked+before%3F+That%27s+okay%21%26nbsp%3BWe%27ll+train+you+and+get+you+comfortable+talking+to+your+neighbors+in+no+time.%3C%2Fp%3E%3Cp+class%3D%22wp-block-paragraph%22%3ESign+Up%3C%2Fp%3E",
-"https://secure.actblue.com/donate/votesmead",
-"https://store.votesmead.com/",
-"https://threads.com/@smead_for_missouri",
-"https://tiktok.com/@josh.smead",
-"https://votesmead.com/",
-"https://votesmead.com/event/no-kings-protest-3",
-"https://votesmead.com/event/the-democratic-women-of-platte-county-spring-sweets-auction",
-"https://votesmead.com/events",
-"https://votesmead.com/freedom",
-"https://votesmead.com/get-involved",
-"https://votesmead.com/media",
-"https://votesmead.com/meet-josh",
-"https://votesmead.com/privacy-policy",
-"https://votesmead.com/the-plan",
-"https://x.com/JoshSmead",
-"https://youtube.com/@JoshSmead"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesmead"
+},
+{
+"text": "Events",
+"href": "https://votesmead.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260401T080000%2F20261103T170000&text=Ongoing%3A+Phone+Bank+for+Josh&details=%3Cp+class%3D%22%22%3E%3Cstrong%3EJoin+us+Sunday%2C+Monday%2C+and+Wednesday+afternoons%3C%2Fstrong%3E%26nbsp%3Bto+let+your+neighbors+know+why+you+support+Josh+Smead+for+Congress.%26nbsp%3B%3Cstrong%3EBring+your+phone%2C+a+pair+of+headphones%2C+and+your+laptop%3C%2Fstrong%3E%2C+and+from+the+comfort+of+your+own+home%2C+you+can%26nbsp%3B%3Cstrong%3Ehelp+Josh+reach+voters+across+all+33+counties%21%3C%2Fstrong%3E%3C%2Fp%3E+%3Cp+class%3D%22%22%3ENever+phone+banked+before%3F+That%27s+okay%21%26nbsp%3B%3Cstrong%3EWe%27ll+train+you+and+get+you+comfortable+talking+to+your+neighbors+in+no+time.%3C%2Fstrong%3E%3C%2Fp%3E+%3Cp+class%3D%22wp-block-paragraph%22%3E%3Ca+class%3D%22btn+btn--donate%22+href%3D%22https%3A%2F%2Factionnetwork.org%2Fforms%2Fphone-bank-for-congressional-candidate-josh-smead%3Fsource%3Ddirect_link%22+target%3D%22_blank%22+rel%3D%22noopener+noreferrer%22%3ESign+Up%3C%2Fa%3E%3C%2Fp%3E+&trp=false&ctz=UTC+0&sprop=website%3Ahttps%3A%2F%2Fvotesmead.com"
+},
+{
+"text": "Media",
+"href": "https://votesmead.com/media/"
+},
+{
+"text": "Meet Josh",
+"href": "https://votesmead.com/meet-josh/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T08%3A00%3A00%2B00%3A00&enddt=%23T17%3A00%3A00%2B00%3A00&location=&subject=Ongoing%3A+Phone+Bank+for+Josh&body=%3Cp+class%3D%22%22%3EJoin+us+Sunday%2C+Monday%2C+and+Wednesday+afternoons%26nbsp%3Bto+let+your+neighbors+know+why+you+support+Josh+Smead+for+Congress.%26nbsp%3BBring+your+phone%2C+a+pair+of+headphones%2C+and+your+laptop%2C+and+from+the+comfort+of+your+own+home%2C+you+can%26nbsp%3Bhelp+Josh+reach+voters+across+all+33+counties%21%3C%2Fp%3E%3Cp+class%3D%22%22%3ENever+phone+banked+before%3F+That%27s+okay%21%26nbsp%3BWe%27ll+train+you+and+get+you+comfortable+talking+to+your+neighbors+in+no+time.%3C%2Fp%3E%3Cp+class%3D%22wp-block-paragraph%22%3ESign+Up%3C%2Fp%3E"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T08%3A00%3A00%2B00%3A00&enddt=%23T17%3A00%3A00%2B00%3A00&location=&subject=Ongoing%3A+Phone+Bank+for+Josh&body=%3Cp+class%3D%22%22%3EJoin+us+Sunday%2C+Monday%2C+and+Wednesday+afternoons%26nbsp%3Bto+let+your+neighbors+know+why+you+support+Josh+Smead+for+Congress.%26nbsp%3BBring+your+phone%2C+a+pair+of+headphones%2C+and+your+laptop%2C+and+from+the+comfort+of+your+own+home%2C+you+can%26nbsp%3Bhelp+Josh+reach+voters+across+all+33+counties%21%3C%2Fp%3E%3Cp+class%3D%22%22%3ENever+phone+banked+before%3F+That%27s+okay%21%26nbsp%3BWe%27ll+train+you+and+get+you+comfortable+talking+to+your+neighbors+in+no+time.%3C%2Fp%3E%3Cp+class%3D%22wp-block-paragraph%22%3ESign+Up%3C%2Fp%3E"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votesmead.com/privacy-policy/"
+},
+{
+"text": "Sign Up",
+"href": "https://actionnetwork.org/forms/phone-bank-for-congressional-candidate-josh-smead"
+},
+{
+"text": "Store",
+"href": "https://store.votesmead.com/"
+},
+{
+"text": "The Democratic Women of Platte County: Spring Sweets Auction »",
+"href": "https://votesmead.com/event/the-democratic-women-of-platte-county-spring-sweets-auction/"
+},
+{
+"text": "The Plan",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "The Platform",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "Volunteer",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "What Freedom Means",
+"href": "https://votesmead.com/freedom/"
+},
+{
+"text": "[image: Josh Smead for Congress]",
+"href": "https://votesmead.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joshsmead.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61574602100872"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/smead_for_missouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@smead_for_missouri"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@josh.smead"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JoshSmead"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JoshSmead"
+},
+{
+"text": "https://actionnetwork.org/forms/phone-bank-for-congressional-candidate-josh-smead?source=direct_link",
+"href": "https://actionnetwork.org/forms/phone-bank-for-congressional-candidate-josh-smead"
+},
+{
+"text": "iCalendar",
+"href": "webcal://votesmead.com/event/ongoing-phone-bank-for-josh/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://votesmead.com/events/"
+},
+{
+"text": "« No Kings Protest 3",
+"href": "https://votesmead.com/event/no-kings-protest-3/"
+}
 ]

@@ -1,4 +1,4 @@
-Town Meeting 2021 Legislative Report
-We have been busy in Montpelier so far this session.
+0 Skip to Content Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Town Meeting 2021 Legislative Report Town Meeting Day Report Mar 1 Written By We have been busy in Montpelier so far this session.
 I have prepared a report to inform you about some of the work being done and the work yet to come now that we have reached the town meeting recess.
 I hope that you will get out to vote at Essex Middle School for town meeting day if you have not yet voted by mail.
+2021 Town Meeting Day Report Download townmeetingday Previous Previous 2022 Session Outlook Tanya Vyhovsky for Chittenden Central Senate PO Box 8376 Essex VT 05451 Paid for by Tanya V for VT

@@ -1,5 +1,4 @@
-I believes in
-Education
-West Virginia's future depends on the education we provide our children today.
+Skip navigation menu About Issues Events Endorsements Volunteer Contact Donate About Issues Events Endorsements Volunteer Contact Donate DATA CENTER REGULATION & COMMUNITY CONTROL Education I believes in Education West Virginia's future depends on the education we provide our children today.
 I believe every student deserves the opportunity to succeed through well-funded public schools, supported teachers, responsible use of taxpayer dollars, and accountability across all education options.
 My goal is to strengthen education while ensuring every child has access to a high-quality learning environment that prepares them for the future.
+Privacy Policy If donating by mail, make checks payable to: Kent for Senate | 791 Sunset School Rd, Alderson, WV 24901 Powered by RUN! website builder Paid for by Kent for Senate You need to enable JavaScript to run this app.

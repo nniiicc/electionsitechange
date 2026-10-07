@@ -1,11 +1,62 @@
 [
-"https://beckleyforidaho.com/",
-"https://beckleyforidaho.com/privacy-policy",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/brian-beckley-for-idaho/donate-today",
-"https://secure.winred.com/brian-beckley-for-idaho/donate-today?amount=100",
-"https://secure.winred.com/brian-beckley-for-idaho/donate-today?amount=1000",
-"https://secure.winred.com/brian-beckley-for-idaho/donate-today?amount=50",
-"https://secure.winred.com/brian-beckley-for-idaho/donate-today?amount=500"
+{
+"text": "$100",
+"href": "https://secure.winred.com/brian-beckley-for-idaho/donate-today?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/brian-beckley-for-idaho/donate-today?amount=1000"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/brian-beckley-for-idaho/donate-today?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/brian-beckley-for-idaho/donate-today?amount=500"
+},
+{
+"text": "About",
+"href": "https://beckleyforidaho.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/brian-beckley-for-idaho/donate-today"
+},
+{
+"text": "Home",
+"href": "https://beckleyforidaho.com/"
+},
+{
+"text": "Issues",
+"href": "https://beckleyforidaho.com/#issues"
+},
+{
+"text": "Join",
+"href": "https://beckleyforidaho.com/#join"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/brian-beckley-for-idaho/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://beckleyforidaho.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://beckleyforidaho.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Logo of Brian Beckley for Idaho State House]",
+"href": "https://beckleyforidaho.com/"
+}
 ]

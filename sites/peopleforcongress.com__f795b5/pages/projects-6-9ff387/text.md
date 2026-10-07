@@ -1,34 +1,5 @@
-top of page
-HOME
-VOLUNTEER!
-CONTACT US
-AND NOW YOU KNOW
-MY PLATFORM
-UPCOMING EVENTS
-ENDORSE ROBERT
-IN THE MEDIA
-LANGUAGE/IDIOMA:
-DONATE
-DONATE BY MAIL
-Jen Johnson Interview with Robert People
-Hear From Robert
-Watch Robert discuss issues, answer questions, and share his vision for Florida's 15th District.
+top of page HOME VOLUNTEER!
+CONTACT US AND NOW YOU KNOW MY PLATFORM UPCOMING EVENTS ENDORSE ROBERT IN THE MEDIA LANGUAGE/IDIOMA: DONATE DONATE BY MAIL Jen Johnson Interview with Robert People Hear From Robert Watch Robert discuss issues, answer questions, and share his vision for Florida's 15th District.
 Crisis In America.
-The Way To Stop It Starts Right HERE
-From Dirt We Grow
-Meet Congressional Candidate Robert People
-Walter Rhein
-Our Vote Counts Town Hall with Robert People
-The Foolish Optimist with Robert People
-Democratic Candidate Demands Party Accountability on Epstein
-Breaking the Meta Podcast
-Michael Davis: NuthinButAWord Robert People Episode 2
-Interview With Robert People
-Lantern News
-DBBA 2026.04.03: Real Veterans, Fake War
-Dad Bods and Bad Attitudes
-Episode 84: Congressional Conversations: 2 Districts, 1 Question — Are You Ready for This Moment?
-We Are Black Independents
-From Service to Solutions: Why Robert People Is Running for Congress in Florida’s 15th District
-Pasco Connect
-bottom of page
+The Way To Stop It Starts Right HERE From Dirt We Grow Meet Congressional Candidate Robert People Walter Rhein Our Vote Counts Town Hall with Robert People The Foolish Optimist with Robert People Democratic Candidate Demands Party Accountability on Epstein Breaking the Meta Podcast Michael Davis: NuthinButAWord Robert People Episode 2 Interview With Robert People Lantern News DBBA 2026.04.03: Real Veterans, Fake War Dad Bods and Bad Attitudes Episode 84: Congressional Conversations: 2 Districts, 1 Question — Are You Ready for This Moment?
+We Are Black Independents From Service to Solutions: Why Robert People Is Running for Congress in Florida’s 15th District Pasco Connect bottom of page

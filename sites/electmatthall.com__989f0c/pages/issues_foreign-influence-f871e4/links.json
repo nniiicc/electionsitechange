@@ -1,20 +1,78 @@
 [
-"https://electmatthall.com/",
-"https://electmatthall.com/about",
-"https://electmatthall.com/issues",
-"https://electmatthall.com/issues/affordability",
-"https://electmatthall.com/issues/education",
-"https://electmatthall.com/issues/energy",
-"https://electmatthall.com/issues/ethics-accountability-transparency",
-"https://electmatthall.com/issues/foreign-influence",
-"https://electmatthall.com/issues/healthcare",
-"https://electmatthall.com/issues/tax-relief",
-"https://electmatthall.com/issues/taxes",
-"https://electmatthall.com/privacy-policy",
-"https://electmatthall.com/request-a-yard-sign",
-"https://electmatthall.com/terms-and-conditions",
-"https://facebook.com/",
-"https://instagram.com/",
-"https://secure.winred.com/matt-hall-for-state-representative/donate",
-"https://twitter.com/"
+{
+"text": "About",
+"href": "https://electmatthall.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/matt-hall-for-state-representative/donate"
+},
+{
+"text": "GETTING VALUE FOR YOUR TAX DOLLARS",
+"href": "https://electmatthall.com/issues/taxes/"
+},
+{
+"text": "HALL ETHICS, ACCOUNTABILITY AND TRANSPARENCY PLAN",
+"href": "https://electmatthall.com/issues/ethics-accountability-transparency/"
+},
+{
+"text": "Home",
+"href": "https://electmatthall.com/"
+},
+{
+"text": "Issues",
+"href": "https://electmatthall.com/issues/"
+},
+{
+"text": "LOWERING YOUR ENERGY BILLS",
+"href": "https://electmatthall.com/issues/energy/"
+},
+{
+"text": "MAKING LIFE MORE AFFORDABLE",
+"href": "https://electmatthall.com/issues/affordability/"
+},
+{
+"text": "PREPARING MICHIGAN STUDENTS FOR SUCCESS",
+"href": "https://electmatthall.com/issues/education/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://electmatthall.com/privacy-policy"
+},
+{
+"text": "PUTTING MONEY BACK IN YOUR POCKET",
+"href": "https://electmatthall.com/issues/tax-relief/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://electmatthall.com/request-a-yard-sign/"
+},
+{
+"text": "SAVING YOU MONEY ON HEALTHCARE",
+"href": "https://electmatthall.com/issues/healthcare/"
+},
+{
+"text": "STOPPING CHINESE AND FOREIGN INFLUENCE",
+"href": "https://electmatthall.com/issues/foreign-influence/"
+},
+{
+"text": "TERMS AND CONDITIONS",
+"href": "https://electmatthall.com/terms-and-conditions"
+},
+{
+"text": "[image: Matt Hall]",
+"href": "https://electmatthall.com"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com"
+}
 ]

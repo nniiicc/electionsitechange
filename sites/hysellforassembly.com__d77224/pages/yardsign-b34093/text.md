@@ -1,17 +1,4 @@
-Endorsements
-These people and organizations support Andrew Hysell
-Adam Gallagher, Dane County Treasurer
-“Andrew Hysell will be an excellent representative for the 48th Assembly District.”
-“I’ve worked for years with Andrew and know firsthand his commitment to public service and his pursuit of policy to help all Wisconsinites, not just the privileged, few.”
-State Senator Melissa Agard
-State Senator Kelda Roys
-“We need a leader like Andrew Hysell in the state assembly to fight for our progressive future.
-I know Andrew will get the job done.”
-David Virgell, District 4, Sun Prairie City Council
-The desire to serve and help others means going above and beyond, challenging your comfort zone, and having the willingness to listen and engage in tough conversations.
+0 Skip to Content Home About Videos Issues Endorsements Blog Contact Donate Open Menu Close Menu Home About Videos Issues Endorsements Blog Contact Donate Open Menu Close Menu Home About Videos Issues Endorsements Blog Contact Donate Endorsements These people and organizations support Andrew Hysell Adam Gallagher, Dane County Treasurer “Andrew Hysell will be an excellent representative for the 48th Assembly District.” “I’ve worked for years with Andrew and know firsthand his commitment to public service and his pursuit of policy to help all Wisconsinites, not just the privileged, few.” State Senator Melissa Agard State Senator Kelda Roys “We need a leader like Andrew Hysell in the state assembly to fight for our progressive future.
+I know Andrew will get the job done.” David Virgell, District 4, Sun Prairie City Council The desire to serve and help others means going above and beyond, challenging your comfort zone, and having the willingness to listen and engage in tough conversations.
 This is my commitment to public service, and Andrew Hysell has consistently demonstrated the same values through his actions.
-Therefore, I am proud to endorse Andrew Hysell for state assembly in Wisconsin's 48th district."
-Mary Arnold, Former Mayor of Columbus
-“As a former mayor, I support Andrew because he has always followed through on what he says.”
-Bryn Horton, Sun Prairie School Board
-Linda Leonhardt, DeForest School Board
+Therefore, I am proud to endorse Andrew Hysell for state assembly in Wisconsin's 48th district." Mary Arnold, Former Mayor of Columbus “As a former mayor, I support Andrew because he has always followed through on what he says.” Bryn Horton, Sun Prairie School Board Linda Leonhardt, DeForest School Board Hysell for Assembly PO Box 359 Sun Prairie, WI 53590 andrew@hysell4assembly.com Donate Home About Issues Media & Events Election Info Contact Paid for by Hysell for Assembly

@@ -1,5 +1,34 @@
 [
-"https://pdc.wa.gov/",
-"https://reedyberg.com/",
-"https://reedyberg.com/donate"
+{
+"text": "About",
+"href": "https://reedyberg.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://reedyberg.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://reedyberg.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://reedyberg.com/#endorsements"
+},
+{
+"text": "Issues",
+"href": "https://reedyberg.com/#issues"
+},
+{
+"text": "Updates",
+"href": "https://reedyberg.com/#updates"
+},
+{
+"text": "WA PDC Disclosure",
+"href": "https://www.pdc.wa.gov"
+},
+{
+"text": "[image: Reedy Berg — State Representative District 15]",
+"href": "https://reedyberg.com/"
+}
 ]

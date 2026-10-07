@@ -1,17 +1,5 @@
-top of page
-Wed, Sep 23
-|Fusion Asian Bistro
-Building HD 105's Future Meet and Greet & Reception
-Registration is closed
-Time & Location
-Sep 23, 2026, 6:00 PM – 8:00 PM
-Fusion Asian Bistro, 1944 Braselton Hwy, Buford, GA 30519, USA
-Guests
-About the event
-Please join community leaders and key supporters for a meet and greet and reception supporting Former Representative Mughal in his 2026 re-election campaign.
+top of page Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items.
+CONTRIBUTE SUBSCRIBE Wed, Sep 23 | Fusion Asian Bistro Building HD 105's Future Meet and Greet & Reception Registration is closed See other events Time & Location Sep 23, 2026, 6:00 PM – 8:00 PM Fusion Asian Bistro, 1944 Braselton Hwy, Buford, GA 30519, USA Guests + 4 other guests About the event Please join community leaders and key supporters for a meet and greet and reception supporting Former Representative Mughal in his 2026 re-election campaign.
 Host Committee in formation.
-Suggested Donation Amounts
-Host Committee: $1000
-Community Leader: $500
-Key Advocate: $250
-bottom of page
+Suggested Donation Amounts Host Committee: $1000 Community Leader: $500 Key Advocate: $250 Show More Share this event START CHANGING Support Our Cause CONTRIBUTE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+MUGHAL FOR GEORGIA 710 Dacula Rd, Ste 4A, #325 Dacula, GA, 30019 fmughalforgeorgia@gmail.com 678-234-3242 Paid and Authorized by Mughal for Georgia, LLC (2022) Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items. bottom of page

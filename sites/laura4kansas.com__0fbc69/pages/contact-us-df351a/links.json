@@ -1,9 +1,34 @@
 [
-"https://laura4kansas.com/",
-"https://laura4kansas.com/about-me",
-"https://laura4kansas.com/contact-us",
-"https://laura4kansas.com/endorsement-distinction",
-"https://laura4kansas.com/platform",
-"https://laura4kansas.com/privacy-policy",
-"https://secure.actblue.com/donate/laura-johnson-1"
+{
+"text": "About Me",
+"href": "https://laura4kansas.com/about-me/"
+},
+{
+"text": "Contact Us",
+"href": "https://laura4kansas.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/laura-johnson-1"
+},
+{
+"text": "Endorsement & Distinction",
+"href": "https://laura4kansas.com/endorsement-distinction/"
+},
+{
+"text": "Priorities",
+"href": "https://laura4kansas.com/platform/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://laura4kansas.com/privacy-policy/"
+},
+{
+"text": "[image: Laura Johnson for Kansas]",
+"href": "https://laura4kansas.com/"
+},
+{
+"text": "← Back",
+"href": "https://laura4kansas.com/contact-us/"
+}
 ]

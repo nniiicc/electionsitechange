@@ -1,15 +1,66 @@
 [
-"https://efundraisingconnections.com/c/SharpCollinsforAssembly2026",
-"https://facebook.com/LaShaeforassembly",
-"https://instagram.com/sharpcollins4assembly",
-"https://lashaeforassembly.com/",
-"https://lashaeforassembly.com/about",
-"https://lashaeforassembly.com/accomplishments",
-"https://lashaeforassembly.com/contact",
-"https://lashaeforassembly.com/endorsements",
-"https://lashaeforassembly.com/get-involved",
-"https://lashaeforassembly.com/issues",
-"https://lashaeforassembly.com/media",
-"https://lashaeforassembly.com/privacy-policy",
-"https://twitter.com/LaShae4Assembly"
+{
+"text": "About",
+"href": "https://www.lashaeforassembly.com/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.lashaeforassembly.com/accomplishments"
+},
+{
+"text": "Contact",
+"href": "https://www.lashaeforassembly.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.efundraisingconnections.com/c/SharpCollinsforAssembly2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lashaeforassembly.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lashaeforassembly.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.lashaeforassembly.com"
+},
+{
+"text": "Home",
+"href": "https://www.lashaeforassembly.com/accomplishments"
+},
+{
+"text": "Issues",
+"href": "https://www.lashaeforassembly.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.lashaeforassembly.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lashaeforassembly.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/LaShaeforassembly/"
+},
+{
+"text": "[image: Instagram_icon]",
+"href": "https://www.instagram.com/sharpcollins4assembly"
+},
+{
+"text": "[image: Instagram_icon]",
+"href": "https://www.instagram.com/sharpcollins4assembly/"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/LaShae4Assembly"
+},
+{
+"text": "lashae@lashaeforassembly.com",
+"href": "mailto:lashae@lashaeforassembly.com"
+}
 ]

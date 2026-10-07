@@ -1,2 +1,2 @@
-E-newsletter
-To receive communications regarding legislation, community issues, and campaign information, please sign up with your name and email address.
+0 Skip to Content Home Issues Endorsements Contact Newsletter DONATE Open Menu Close Menu Home Issues Endorsements Contact Newsletter DONATE Open Menu Close Menu Home Issues Endorsements Contact Newsletter DONATE E-newsletter To receive communications regarding legislation, community issues, and campaign information, please sign up with your name and email address.
+Paid for by Friends of Brandon Potter (401) 400-2276 brandonpotterri@gmail.com

@@ -1,6 +1,22 @@
 [
-"https://healthcare4illinois.com/",
-"https://pete4illinois.com/",
-"https://pete4illinois.com/about-peter-janko",
-"https://pete4illinois.com/accomplishments"
+{
+"text": "About Peter Janko",
+"href": "https://pete4illinois.com/about-peter-janko/"
+},
+{
+"text": "Accomplishments",
+"href": "https://pete4illinois.com/accomplishments/"
+},
+{
+"text": "Home",
+"href": "https://pete4illinois.com/"
+},
+{
+"text": "[image: pete4illinois]",
+"href": "https://pete4illinois.com/"
+},
+{
+"text": "https://healthcare4illinois.com/",
+"href": "https://healthcare4illinois.com/"
+}
 ]

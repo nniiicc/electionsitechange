@@ -1,7 +1,10 @@
-Never Stop Fighting:
-Donate Now
-Meet Mark Finchem
-Mark Finchem has pursued integrity without compromise throughout his career – as a police officer and first responder, as a rancher, and in the Arizona House and Senate.
-As your State Senator, Mark works for and answers to you.
-Putting Arizona First
-Senator Mark Finchem is an America First, Arizona First conservative fighter who will always champion the people of Arizona, defend our values, and fight for secure borders, secure elections, and better government.
+Skip to content Click here to sign my petition to get on the Ballot Truth Rumble GETTR Gab Telegram Facebook X Home About Issues Endorsements News Contact Donate Donate Click here to sign my petition to get on the Ballot Donate Donate Home About Issues Endorsements News Contact Truth Rumble GETTR Gab Telegram Facebook X Never Stop Fighting: Donate Now Donate $15 Donate $35 Donate $60 Donate $100 Donate $250 Donate $500 Other Amount Endorsed by President Trump “Mark Finchem has been an unbelievable Warrior for the Great State of Arizona, and is ready to take that same fighting spirit to Arizona’s 1st Legislative District.
+As your next State Senator, Mark will work hard to Protect our Elections, Close our Border, Grow our Economy, and Defend our Constitution.
+Mark Finchem has my Complete and Total Endorsement – He will never let you down!” Meet Mark Finchem Mark Finchem has pursued integrity without compromise throughout his career – as a police officer and first responder, as a rancher, and in the Arizona House and Senate.
+As your State Senator, Mark works for and answers to you .
+Meet Mark Finchem Putting Arizona First Senator Mark Finchem is an America First, Arizona First conservative fighter who will always champion the people of Arizona, defend our values, and fight for secure borders, secure elections, and better government.
+Learn More News & Updates Sen.
+Mark Finchem Appointed Vice Chair of the Senate Ad Hoc Committee on Adult Oral Health September 15, 2026 Senator raises concerns over freeze of healthcare appeals September 15, 2026 What Do You Need To Cheat?
+Data August 9, 2026 DSA Candidate Christine Dargon Resorts to misinformation, misrepresentation, and fabrication August 8, 2026 Mark Finchem: Arizona Voters Are Ready for Change (Newsmax Interview) July 23, 2026 Sen.
+Mark Finchem Receives Perfect 100% NFIB Rating for Pro-Business Leadership June 5, 2026 Paid for and Authorized by Mark Finchem for AZ Senate This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Site by Go Right Strategies

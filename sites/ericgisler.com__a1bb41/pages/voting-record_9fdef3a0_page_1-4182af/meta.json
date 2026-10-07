@@ -1,7 +1,9 @@
 {
  "description": "Explore the legislative record of Georgia State Representative Eric Gisler.",
  "final_url": "https://www.ericgisler.com/voting-record?9fdef3a0_page=1",
- "paid_for_by": "Paid For by Committee To Elect Eric Gisler | \u00a9 2026",
+ "fingerprint": "f222bd85ac5b2efc6c6d3e88bc8669be4a40c5ba",
+ "format": 3,
+ "paid_for_by": "Paid For by Committee To Elect Eric Gisler",
  "title": "Legislative Record",
  "years_mentioned": [
   "2026"

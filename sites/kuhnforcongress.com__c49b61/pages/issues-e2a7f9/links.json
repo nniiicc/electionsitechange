@@ -1,17 +1,70 @@
 [
-"https://bsky.app/profile/kuhnforcongress.com",
-"https://facebook.com/KuhnforCongress",
-"https://facebook.com/reel/1706630250552858",
-"https://kuhnforcongress.com/",
-"https://kuhnforcongress.com/about",
-"https://kuhnforcongress.com/about/event-calendar",
-"https://kuhnforcongress.com/about/photos",
-"https://kuhnforcongress.com/cdn-cgi/l/email-protection",
-"https://kuhnforcongress.com/district-map",
-"https://kuhnforcongress.com/endorsements",
-"https://kuhnforcongress.com/issues",
-"https://kuhnforcongress.com/privacy-policy",
-"https://kuhnforcongress.com/videos",
-"https://kuhnforcongress.com/volunteer",
-"https://secure.actblue.com/donate/heidikuhn"
+{
+"text": "About",
+"href": "https://kuhnforcongress.com/about/"
+},
+{
+"text": "District Map",
+"href": "https://kuhnforcongress.com/district-map/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/heidikuhn"
+},
+{
+"text": "Endorsements",
+"href": "https://kuhnforcongress.com/endorsements/"
+},
+{
+"text": "Event Calendar",
+"href": "https://kuhnforcongress.com/about/event-calendar/"
+},
+{
+"text": "Issues",
+"href": "https://kuhnforcongress.com/issues/"
+},
+{
+"text": "Kuhn Conversations",
+"href": "https://kuhnforcongress.com/videos/"
+},
+{
+"text": "Kustoff’s recent rant",
+"href": "https://www.facebook.com/reel/1706630250552858"
+},
+{
+"text": "Meet Heidi Kuhn",
+"href": "https://kuhnforcongress.com/about/"
+},
+{
+"text": "Photos",
+"href": "https://kuhnforcongress.com/about/photos/"
+},
+{
+"text": "Privacy and Opt Out Policies",
+"href": "https://kuhnforcongress.com/privacy-policy/"
+},
+{
+"text": "TN District Map",
+"href": "https://kuhnforcongress.com/district-map/"
+},
+{
+"text": "Volunteer",
+"href": "https://kuhnforcongress.com/volunteer/"
+},
+{
+"text": "[email protected]‍",
+"href": "mailto:info@kuhnforcongress.com‍"
+},
+{
+"text": "[image: BlueSky]",
+"href": "https://bsky.app/profile/kuhnforcongress.com"
+},
+{
+"text": "[image: Facebook (Square)]",
+"href": "https://www.facebook.com/KuhnforCongress"
+},
+{
+"text": "[image: Kuhn for Congress]",
+"href": "https://kuhnforcongress.com/"
+}
 ]

@@ -1,18 +1,6 @@
+MICHELLE CICCOLO STATE REPRESENTATIVE Home About Meet Michelle Career Accomplishments The District Updates Office Hours Newsletter Press Priorities Zero Waste Caucus Legislative Trails Caucus Legislation Contact Campaign Trails Caucus Massachusetts has over 4,000 miles of state-owned trails and hundreds more owned by municipalities.
+The vast majority of districts have at least part of a DCR trail within its boundaries.
+Our state's trails are varied, ranging from the dunes of the Sandy Point Beach Reservation in Ipswich, to the paved 10-mile Minuteman Bikeway in my own district of Lexington, to the newly-expanded Ashuwillitook Rail Trail in Berkshire County.
 Now more than ever, we are learning the massive public health, environmental, and transportation benefits of biking and walking.
 Conversely, we are seeing the harm that unequal access to nature, exercise, and leisure can cause.
-Because of this, I am excited to announce that Senator Brendan Crighton (Boston) and I have re-launched the legislative Trails Caucus.
-Highlights
-H.769/S.446 An Act Expanding Access to Trails for People of All Abilities
-| H769/S446 An Act Expanding Access to Trails (Ciccolo and Comerford) | |
-| File Size: | 83 kb |
-| File Type: | docx |
-| H3158 An Act Establishing the Municipality Utility Corridor Public Access Program (Ciccolo) | |
-| File Size: | 81 kb |
-| File Type: | docx |
-| MassTrails Support Healey Administration Letter | |
-| File Size: | 624 kb |
-| File Type: | |
-| Trails Caucus Overview Presentation | |
-| File Size: | 163 kb |
-| File Type: | pptx |
-2023 Caucus Members:
+Because of this, I am excited to announce that Senator Brendan Crighton (Boston) and I have re-launched the legislative Trails Caucus. ​ Highlights Priority Legislation: ​H.769/S.446 An Act Expanding Access to Trails for People of All Abilities H769/S446 An Act Expanding Access to Trails (Ciccolo and Comerford) File Size: 83 kb File Type: docx Download File H.3158 An Act Establishing the Municipality Utility Corridor Public Access Program H3158 An Act Establishing the Municipality Utility Corridor Public Access Program (Ciccolo) File Size: 81 kb File Type: docx Download File MassTrails Support Letter to New Governor Administration (2023) MassTrails Support Healey Administration Letter File Size: 624 kb File Type: pdf Download File Intro to Trails Caucus Trails Caucus Overview Presentation File Size: 163 kb File Type: pptx Download File ​2023 Caucus Members: ​ Paid for by the Committee to ​Elect Michelle Ciccolo Copyright © # Home About Meet Michelle Career Accomplishments The District Updates Office Hours Newsletter Press Priorities Zero Waste Caucus Legislative Trails Caucus Legislation Contact Campaign

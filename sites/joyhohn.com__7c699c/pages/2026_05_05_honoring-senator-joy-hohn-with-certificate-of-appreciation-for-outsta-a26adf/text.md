@@ -1,22 +1,14 @@
-FOR IMMEDIATE RELEASE
-Honoring Senator Joy Hohn with Certificate of Appreciation for Outstanding Contributions to Aviation in South Dakota
-Hartford, SD — 5/4/2026 — South Dakota Pilot Association proudly recognizes Senator Joy Hohn with a Certificate of Appreciation for her exceptional leadership, advocacy, and enduring commitment to advancing aviation across South Dakota.
+Home About Platform Media News Posts Volunteer Yard Signs Contact Follow Contribute Follow Home About Platform Media News Posts Volunteer Yard Signs Contact Honoring Senator Joy Hohn with Certificate of Appreciation for Outstanding Contributions to Aviation in South Dakota May 5, 2026 FOR IMMEDIATE RELEASE Honoring Senator Joy Hohn with Certificate of Appreciation for Outstanding Contributions to Aviation in South Dakota Hartford, SD — 5/4/2026 — South Dakota Pilot Association proudly recognizes Senator Joy Hohn with a Certificate of Appreciation for her exceptional leadership, advocacy, and enduring commitment to advancing aviation across South Dakota.
 Throughout her tenure, Senator Hohn has been a steadfast supporter of the state’s aviation sector, championing initiatives that strengthen airport infrastructure, enhance safety standards, and promote economic development through air transportation.
 Her efforts have played a critical role in ensuring that South Dakota’s aviation network remains accessible, efficient, and positioned for future growth.
 Notably, during the 2026 South Dakota legislative session, Senator Hohn played a key role in sponsoring and partnering on aviation legislation that protected citizens and aviation stakeholders from increased taxes and burdensome regulatory impacts.
 Her leadership helped ensure that pilots, aviation businesses, and local communities were not subjected to higher costs, while still advancing policies that support long-term investment and sustainability in the state’s aviation system.
 “Senator Hohn’s dedication to aviation has had a meaningful and lasting impact on communities throughout our state,” said Dale Knuth, President of the South Dakota Pilots Association.
-“Her work has not only supported pilots and airport operations but has also protected South Dakotans from unnecessary tax increases and government spending while contributing to broader economic opportunities and regional connectivity.”
-From advocating for funding and policy support to engaging with aviation stakeholders, Senator Hohn has consistently demonstrated a deep understanding of the industry’s importance to South Dakota’s economy and quality of life.
+“Her work has not only supported pilots and airport operations but has also protected South Dakotans from unnecessary tax increases and government spending while contributing to broader economic opportunities and regional connectivity.” From advocating for funding and policy support to engaging with aviation stakeholders, Senator Hohn has consistently demonstrated a deep understanding of the industry’s importance to South Dakota’s economy and quality of life.
 Her leadership has helped foster collaboration among public agencies, private partners, and local communities.
 The Certificate of Appreciation is awarded in recognition of Senator Hohn’s tireless efforts and her unwavering commitment to strengthening aviation for current and future generations.
-For more information, please contact:
-Dale G Knuth
-President
-South Dakota Pilot Association
-605.366.5862
-[email protected]
-About the South Dakota Pilots Association
-The South Dakota Pilots Association is a statewide organization dedicated to promoting, protecting, and advancing general aviation across South Dakota.
+For more information, please contact: Dale G Knuth President South Dakota Pilot Association 605.366.5862 [email protected] About the South Dakota Pilots Association The South Dakota Pilots Association is a statewide organization dedicated to promoting, protecting, and advancing general aviation across South Dakota.
 Its mission is to support pilots, aircraft owners, and aviation enthusiasts through advocacy, education, and collaboration with local, state, and federal partners.
 The Association plays a vital role in strengthening the aviation community by encouraging safe flying practices, supporting airport development, and fostering the next generation of aviators through outreach and engagement initiatives.
+Click image to download file.
+Download Bio Search Search Recent Posts State Senator Joy Hohn Wins Re-Election to Second Term Mud Pie Memories and A Mom’s Motivation A Mother’s Journey of Hope & Resilience Flight Captain & Cart Driver Let’s Bring Back Balance Contact Information for Media: [email protected] (605) 212-9256 Integrity • Trust • Tenacity Follow Contribute Subscribe Δ Subscribe Paid for by Friends of Joy Hohn Privacy Policy

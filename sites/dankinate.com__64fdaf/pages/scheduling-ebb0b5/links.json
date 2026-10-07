@@ -1,10 +1,34 @@
 [
-"https://dankinate.com/",
-"https://dankinate.com/about",
-"https://dankinate.com/cart",
-"https://dankinate.com/privacy-policy",
-"https://dankinate.com/scheduling",
-"https://dankinate.com/volunteer",
-"https://facebook.com/DanKinateforMo",
-"https://secure.actblue.com/donate/dan-kinate"
+{
+"text": "0",
+"href": "https://www.dankinate.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.dankinate.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dan-kinate"
+},
+{
+"text": "Issues",
+"href": "https://www.dankinate.com/scheduling"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.dankinate.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dankinate.com/volunteer"
+},
+{
+"text": "[image: Dan Kinate ]",
+"href": "https://www.dankinate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DanKinateforMo"
+}
 ]

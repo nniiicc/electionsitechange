@@ -1,5 +1,4 @@
-join us
-True political power doesn't belong to corporate monopolies or millionaire insiders—it belongs at our kitchen tables.
+0 Skip to Content Meet Amanda Policy Plans Shop Events Endorsements Press Volunteer Donate Open Menu Close Menu Meet Amanda Policy Plans Shop Events Endorsements Press Volunteer Donate Open Menu Close Menu Meet Amanda Policy Plans Shop Events Endorsements Press Volunteer Donate join us True political power doesn't belong to corporate monopolies or millionaire insiders—it belongs at our kitchen tables.
 Amanda's campaign is built from the ground up by everyday working people who are completely fed up with the status quo.
 By rejecting corporate PAC cash, our strength comes entirely from neighbors like you.
 When you volunteer, you aren't just joining a campaign; you are building a movement to guarantee healthcare access, protect our public schools, and reclaim The Power of Home across our 14 counties.
@@ -11,3 +10,4 @@ Message and data rates may apply.
 Text HELP for more information.
 Text STOP to stop receiving messages.
 Terms and conditions: Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process; and (3) if the user consents to our sharing of such information.
+Donate By Mail Citizens for Amanda Pusczek PO Box 1014 Cullman, AL 35056

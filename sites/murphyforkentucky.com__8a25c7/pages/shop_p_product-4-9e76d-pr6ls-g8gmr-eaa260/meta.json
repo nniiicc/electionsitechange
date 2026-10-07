@@ -1,7 +1,11 @@
 {
- "description": "Showcase what this product is about. What\u2019s it made of? How was it made? What are ways to enjoy it?",
+ "description": "Showcase what this product is about. What’s it made of? How was it made? What are ways to enjoy it?",
  "final_url": "https://www.murphyforkentucky.com/shop/p/product-4-9e76d-pr6ls-g8gmr",
- "paid_for_by": null,
- "title": "Product Name \u2014 BRAVE 2026 - MURPHY FOR KENTUCKY",
- "years_mentioned": []
+ "fingerprint": "3e6c2c7f9085f0f5e372f2d0913df34515d2f1a5",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Product Name — BRAVE 2026 - MURPHY FOR KENTUCKY",
+ "years_mentioned": [
+  "2026"
+ ]
 }

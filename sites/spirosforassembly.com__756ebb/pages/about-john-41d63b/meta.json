@@ -1,11 +1,15 @@
 {
  "description": "",
  "final_url": "https://www.spirosforassembly.com/about-john",
- "paid_for_by": null,
- "title": "About John \u2014 Spiros for Assembly",
+ "fingerprint": "486360f8fc9be4ceb8fa7cca0922835c0a055e19",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY SPIROS FOR ASSEMBLY, JANE TRIERWEILER, TREASURER Privacy Policy",
+ "title": "About John — Spiros for Assembly",
  "years_mentioned": [
+  "2009",
   "2012",
   "2015",
-  "2017"
+  "2017",
+  "2024"
  ]
 }

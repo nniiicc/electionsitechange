@@ -1,29 +1,118 @@
 [
-"https://bsky.app/profile/voteluisfl.bsky.social",
-"https://engageyall.com/",
-"https://eqflpac.org/",
-"https://facebook.com/",
-"https://facebook.com/share/17GcwGoRdA?mibextid=wwXIfr",
-"https://feaweb.org/",
-"https://flaflcio.org/",
-"https://flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4875&LegislativeTermId=91",
-"https://flhouse.gov/Sections/Representatives/details.aspx?MemberId=4927&LegislativeTermId=91",
-"https://fljewishdems.org/hc",
-"https://flsenate.gov/Senators/s14?pref=full",
-"https://flsenate.gov/Senators/s17?pref=full",
-"https://form.jotform.com/253215623071145",
-"https://ibew915.org/",
-"https://instagram.com/",
-"https://instagram.com/voteluisforfl",
-"https://iwl397.com/",
-"https://secure.actblue.com/donate/salazar64",
-"https://thehillsboroughsociety.com/",
-"https://voteluis.com/",
-"https://voteluis.com/about",
-"https://voteluis.com/endorsement-form",
-"https://voteluis.com/endorsements",
-"https://voteluis.com/luis-policies",
-"https://voteluis.com/upcoming-events",
-"https://voteluisfl.bsky.social/",
-"https://wcflc.org/"
+{
+"text": "About",
+"href": "https://www.voteluis.com/about/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/voteluisfl.bsky.social"
+},
+{
+"text": "Bluesky",
+"href": "https://voteluisfl.bsky.social"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/salazar64"
+},
+{
+"text": "ENDORSE LUIS SALAZAR",
+"href": "https://www.voteluis.com/endorsement-form/"
+},
+{
+"text": "Endorse Today",
+"href": "https://www.voteluis.com/endorsement-form/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteluis.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.voteluis.com/upcoming-events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/17GcwGoRdA/?mibextid=wwXIfr"
+},
+{
+"text": "Find out More…",
+"href": "https://eqflpac.org/"
+},
+{
+"text": "Find out More…",
+"href": "https://feaweb.org/"
+},
+{
+"text": "Find out More…",
+"href": "https://fljewishdems.org/hc"
+},
+{
+"text": "Find out More…",
+"href": "https://iwl397.com/"
+},
+{
+"text": "Find out More…",
+"href": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4875&LegislativeTermId=91"
+},
+{
+"text": "Find out More…",
+"href": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4927&LegislativeTermId=91"
+},
+{
+"text": "Find out More…",
+"href": "https://www.ibew915.org/"
+},
+{
+"text": "Find out more…",
+"href": "https://engageyall.com/"
+},
+{
+"text": "Find out more…",
+"href": "https://flaflcio.org/"
+},
+{
+"text": "Find out more…",
+"href": "https://wcflc.org/"
+},
+{
+"text": "Find out more…",
+"href": "https://www.flsenate.gov/Senators/s14?pref=full"
+},
+{
+"text": "Find out more…",
+"href": "https://www.flsenate.gov/Senators/s17?pref=full"
+},
+{
+"text": "Find out more…",
+"href": "https://www.thehillsboroughsociety.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/voteluisforfl"
+},
+{
+"text": "Luis Salazar for Florida State House Representative",
+"href": "https://www.voteluis.com"
+},
+{
+"text": "Policy",
+"href": "https://www.voteluis.com/luis-policies/"
+},
+{
+"text": "Volunteer",
+"href": "https://form.jotform.com/253215623071145"
+},
+{
+"text": "[image: Luis Salazar for Florida State House Representative]",
+"href": "https://www.voteluis.com/"
+}
 ]

@@ -1,4 +1,10 @@
 [
-"https://janetimkenforohio.com/privacy-policy",
-"https://secure.winred.com/timken-for-ohio/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/timken-for-ohio/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.janetimkenforohio.com/privacy-policy"
+}
 ]

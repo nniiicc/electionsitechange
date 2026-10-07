@@ -1,7 +1,26 @@
 [
-"https://andrewtakuyagarrett.com/",
-"https://andrewtakuyagarrett.com/about-andrew",
-"https://andrewtakuyagarrett.com/get-involved",
-"https://andrewtakuyagarrett.com/priorities",
-"https://secure.actblue.com/donate/garrett22"
+{
+"text": "ABOUT ANDREW",
+"href": "https://www.andrewtakuyagarrett.com/about-andrew"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/garrett22"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.andrewtakuyagarrett.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.andrewtakuyagarrett.com"
+},
+{
+"text": "RECORD & PRIORITIES",
+"href": "https://www.andrewtakuyagarrett.com/priorities"
+},
+{
+"text": "[image: 328D2C26-5265-4386-8FAA-A3DC3ED2084E_1_102_o.jpeg]",
+"href": "https://www.andrewtakuyagarrett.com"
+}
 ]

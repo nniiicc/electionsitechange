@@ -1,13 +1,42 @@
 [
-"http://networkadvertising.org/",
-"http://networkadvertising.org/choices",
-"http://networkadvertising.org/managing/opt_out.asp",
-"https://brentjacksonforsenate.com/",
-"https://brentjacksonforsenate.com/donate",
-"https://brentjacksonforsenate.com/endorsements",
-"https://brentjacksonforsenate.com/issues",
-"https://brentjacksonforsenate.com/meet-brent",
-"https://brentjacksonforsenate.com/privacy-policy",
-"https://facebook.com/brentjacksonforsenate",
-"https://twitter.com/SenBrentJackson"
+{
+"text": "(opens in a new tab)",
+"href": "https://twitter.com/SenBrentJackson"
+},
+{
+"text": "(opens in a new tab)",
+"href": "https://www.facebook.com/brentjacksonforsenate/"
+},
+{
+"text": "Donate(opens in a new tab)",
+"href": "https://brentjacksonforsenate.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://brentjacksonforsenate.com/endorsements/"
+},
+{
+"text": "Issues",
+"href": "https://brentjacksonforsenate.com/issues/"
+},
+{
+"text": "Meet Brent",
+"href": "https://brentjacksonforsenate.com/meet-brent/"
+},
+{
+"text": "NAI Opt-Out Page",
+"href": "http://www.networkadvertising.org/managing/opt_out.asp"
+},
+{
+"text": "Network Advertising Initiative",
+"href": "http://www.networkadvertising.org/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://brentjacksonforsenate.com/privacy-policy"
+},
+{
+"text": "[image: Brent Jackson NC Senate]",
+"href": "https://brentjacksonforsenate.com"
+}
 ]

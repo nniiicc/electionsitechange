@@ -1,13 +1,1 @@
-Calendar Events
-Davis County Lincoln Day Dinner
-February 21, 2026 @ 6:30 PM
-Davis Conference Center
-2026 Davis County Neighborhood Caucuses
-March 17, 2026
-Syracuse High School
-Davis County Republican Party Convention
-April 18, 2026
-Syracuse High School
-Republican Party State Convention
-April 25, 2026
-UVU
+0 Skip to Content Home Bio Issues Contact Donate Endorsements Calendar DONATE Open Menu Close Menu Home Bio Issues Contact Donate Endorsements Calendar DONATE Open Menu Close Menu Home Bio Issues Contact Donate Endorsements Calendar DONATE Calendar Events Davis County Lincoln Day Dinner February 21, 2026 @ 6:30 PM Davis Conference Center 2026 Davis County Neighborhood Caucuses March 17, 2026 Syracuse High School Davis County Republican Party Convention April 18, 2026 Syracuse High School Republican Party State Convention April 25, 2026 UVU JohnTaylor4Utah Made with Squarespace Contact johntaylor4utah@gmail.com 801-589-2178 Copyright # All Rights Reserved Paid for by Friends of John Taylor

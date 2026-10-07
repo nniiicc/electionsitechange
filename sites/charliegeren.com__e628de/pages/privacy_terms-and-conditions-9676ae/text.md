@@ -1,5 +1,4 @@
-Terms and Conditions
-Charlie Geren Campaign (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+Toggle navigation Home Meet Charlie Issues Endorsements Volunteer Contact Donate Terms and Conditions Terms and Conditions Charlie Geren Campaign (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 User Opt In: The Program allows users to receive SMS/MMS mobile messages by users affirmatively opting into the Program, such as through online enrollment forms.
 Regardless of the opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
@@ -8,7 +7,7 @@ Nevertheless, by participating in the Program, you agree to receive autodialed m
 Program Description: Without limiting the scope of the Program, users that opt into the Program can expect to receive messages concerning Charlie Geren Campaign.
 Cost and Frequency: Message and data rates may apply.
 The Program involves recurring mobile messages, and additional mobile messages may be sent based on your interaction with Us.
-Contact Information: For support text “HELP” to any of Our mobile messages, or email [email protected].
+Contact Information: For support text “HELP” to any of Our mobile messages, or email [email protected] .
 User Opt Out and Additional Commands: To opt out (discontinue participation in Program), reply “STOP” to any of Our mobile messages from your mobile device.
 This is the easiest and preferred method to opt out of the Program.
 You may receive an additional mobile message confirming your decision to opt out.
@@ -42,26 +41,19 @@ Each party will advance one-half of the fees and expenses of the arbitrator, the
 In any arbitration arising out of or related to these Terms, the arbitrators will award to the prevailing party, if any, costs and attorneys’ fees reasonably incurred by the prevailing party in connection with that aspect of its claims or defenses on which it prevails, and any opposing awards of costs and attorneys’ fees awards will be offset.
 The parties will maintain the confidential nature of the arbitration proceeding, the hearing and the Award, except as may be necessary to prepare for or conduct the arbitration hearing on the merits, or except as may be necessary in connection with a court application for a preliminary remedy, or confirmation of an Award or its enforcement, or unless otherwise required by any applicable law.
 Any documentary or other evidence produced in any arbitration hereunder will be treated as confidential by the parties, witnesses and arbitrators, and will not be disclosed to any third person (other than witnesses or experts), except as required by any applicable law or except if such evidence was obtained from the public domain or is otherwise obtained independently of the arbitration.
-Mobile Messaging Program Consent
-By signing up for our Mobile Messaging Program, you consent to receive the following types of text messages from Charlie Geren Campaign:
-Marketing Text Messages: Event invitations or other updates related to our programs and initiatives.
+Mobile Messaging Program Consent By signing up for our Mobile Messaging Program, you consent to receive the following types of text messages from Charlie Geren Campaign: Marketing Text Messages: Event invitations or other updates related to our programs and initiatives.
 Polling/Voting Text Messages: Such as election reminders and opinion polls.
 Public Service Announcement Text Messages: Including legislative updates and voter education.
-Opt-In Methods
-You may opt in to the Program by:
-Completing the form on our website.
+Opt-In Methods You may opt in to the Program by: Completing the form on our website.
 Providing explicit consent in any other manner as indicated by the Organization.
-Message Terms
-Messages may be sent using an autodialer or similar technology.
+Message Terms Messages may be sent using an autodialer or similar technology.
 Message frequency may vary depending on your interaction with the Program.
 Standard Message and Data Rates May Apply.
 Wireless carriers are not liable for delayed or undelivered messages.
-STOP Command
-To stop receiving messages, text STOP at any time.
+STOP Command To stop receiving messages, text STOP at any time.
 You will receive a confirmation text that you have been unsubscribed.
 After this, you will no longer receive messages from the Program unless you opt back in.
-HELP Command
-For help, text HELP to 817-905-9606 or contact us at [email protected].
+HELP Command For help, text HELP to 817-905-9606 or contact us at [email protected] .
 You will receive instructions on how to use the service.
 Miscellaneous: You warrant and represent to Us that you have all necessary rights, power, and authority to agree to these Terms and perform your obligations hereunder, and nothing contained in this Agreement or in the performance of such obligations will place you in breach of any other contract or obligation.
 The failure of either party to exercise in any respect any right provided for herein will not be deemed a waiver of any further rights hereunder.
@@ -71,3 +63,5 @@ We reserves the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
+Home Meet Charlie Issues Endorsements Volunteer Contact Donate Terms and Conditions Political Ad paid for by Charlie Geren Campaign, Kit Moncrief, Treasurer Charlie Geren Campaign P.O.
+Box 1440 Fort Worth, TX 76101 Privacy Policy

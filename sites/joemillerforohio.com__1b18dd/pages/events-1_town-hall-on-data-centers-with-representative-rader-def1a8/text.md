@@ -1,9 +1,2 @@
-Back to All Events
-A community town hall with Representative Rader focused on data centers and their potential effects on local communities.
-Previous
-Previous
-October 4
-Woollybear Festival and Parade
-Next
-Next
-October 6
+0 Skip to Content Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Back to All Events Town Hall on Data Centers with Representative Rader Monday, October 5, 2026 6:00 PM 7:30 PM Amherst Public Library, Community Room (map) Google Calendar ICS A community town hall with Representative Rader focused on data centers and their potential effects on local communities.
+Previous Previous October 4 Woollybear Festival and Parade Next Next October 6 CHIP Candidates Forum DONATE Paid for by Friends of Joe Miller ©# FRIENDS OF JOE MILLER PRIVACY POLICY

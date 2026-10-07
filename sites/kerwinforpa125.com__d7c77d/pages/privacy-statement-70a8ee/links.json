@@ -1,10 +1,50 @@
 [
-"https://facebook.com/kerwinforpa125",
-"https://friends-of-joe-kerwin.revv.co/donate-today",
-"https://kerwinforpa125.com/",
-"https://kerwinforpa125.com/issues-2",
-"https://kerwinforpa125.com/privacy-statement",
-"https://kerwinforpa125.com/terms-conditions",
-"https://kerwinforpa125.com/volunteer",
-"https://kerwinforpa125.com/voting"
+{
+"text": "About",
+"href": "https://kerwinforpa125.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://friends-of-joe-kerwin.revv.co/donate-today"
+},
+{
+"text": "Home",
+"href": "https://kerwinforpa125.com"
+},
+{
+"text": "Home",
+"href": "https://kerwinforpa125.com/"
+},
+{
+"text": "Issues",
+"href": "https://kerwinforpa125.com/issues-2/"
+},
+{
+"text": "Privacy Statement",
+"href": "https://kerwinforpa125.com/privacy-statement/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://kerwinforpa125.com/terms-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://kerwinforpa125.com/volunteer/"
+},
+{
+"text": "Voting",
+"href": "https://kerwinforpa125.com/voting/"
+},
+{
+"text": "[image: Footer Logo]",
+"href": "https://kerwinforpa125.com/"
+},
+{
+"text": "[image: Site Logo]",
+"href": "https://kerwinforpa125.com/"
+},
+{
+"text": "[tooltip: Follow Us on Facebook]",
+"href": "https://www.facebook.com/kerwinforpa125"
+}
 ]

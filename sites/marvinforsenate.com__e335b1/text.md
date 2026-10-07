@@ -1,4 +1,4 @@
-Meet Mike Marvin.
+Skip to main content Donate Meet Mike Marvin.
 I would like to thank everyone who supported me and those who helped get the campaign to the point where we won the primary.
 I could not have done this without you.
 Entering this race has always been about beating Pete Ricketts.
@@ -15,3 +15,5 @@ For those who believe in the cause of the Legal Marijuana Now Party, the choice 
 I am proud to support Dan Osborn and encourage everyone who supported my campaign to join me.
 Dan has a real chance to beat Pete Ricketts in November if we all get behind him.
 Once again, thank you for your support.
+Paid for by Mike Marvin for Congress Terms of Service & Privacy Policy ©# Mike Marvin for Congress.
+All rights reserved.

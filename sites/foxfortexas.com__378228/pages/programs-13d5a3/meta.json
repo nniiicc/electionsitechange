@@ -1,7 +1,9 @@
 {
  "description": "Explore the programs supported by Dr. Merrie Fox and the Fox for Texas campaign. Learn how her initiatives for public education, water protection, and responsible growth will serve Texas House District 73.",
  "final_url": "https://www.foxfortexas.com/programs",
- "paid_for_by": null,
+ "fingerprint": "f76869c7bafdb1cb19a7c2ad882c673d259a8fd0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Programs | Fox For Texas",
  "years_mentioned": []
 }

@@ -1,26 +1,114 @@
 [
-"https://bsky.app/profile/claireforqueens.bsky.social",
-"https://clairevaldezforcongress.com/",
-"https://clairevaldezforcongress.com/endorsements",
-"https://clairevaldezforcongress.com/es/issues/memo/immigration",
-"https://clairevaldezforcongress.com/issues",
-"https://clairevaldezforcongress.com/volunteer",
-"https://documentedny.com/2025/10/22/climate-migration-new-york-city",
-"https://facebook.com/claireforqueens",
-"https://forge.coop/",
-"https://immigrantdefenseproject.org/wp-content/uploads/How-Amazon-Powers-ICEs-Deportation-Machine.pdf",
-"https://instagram.com/claireforny",
-"https://nytimes.com/2025/04/09/us/politics/trump-musk-data-access.html",
-"https://nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://prospect.org/2026/02/12/ice-immigration-prison-geo-group-trump",
-"https://secure.actblue.com/donate/cvct",
-"https://store.clairevaldezforcongress.com/",
-"https://threads.com/@claireforny",
-"https://tiktok.com/@claireforny",
-"https://usaspending.gov/award/CONT_AWD_70CMSW23FR0000048_7012_HTC71123DC023_9700",
-"https://usaspending.gov/award/CONT_AWD_70CTD022FR0000170_7012_GS35F0086U_4730",
-"https://x.com/claireforny",
-"https://youtube.com/@claireforny"
+{
+"text": "About",
+"href": "https://clairevaldezforcongress.com/#about"
+},
+{
+"text": "Amazon",
+"href": "https://www.immigrantdefenseproject.org/wp-content/uploads/How-Amazon-Powers-ICEs-Deportation-Machine.pdf"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cvct"
+},
+{
+"text": "Endorsements",
+"href": "https://clairevaldezforcongress.com/endorsements"
+},
+{
+"text": "Español",
+"href": "https://clairevaldezforcongress.com/es/issues/memo/immigration"
+},
+{
+"text": "FedEx",
+"href": "https://www.usaspending.gov/award/CONT_AWD_70CMSW23FR0000048_7012_HTC71123DC023_9700"
+},
+{
+"text": "GeoGroup",
+"href": "https://prospect.org/2026/02/12/ice-immigration-prison-geo-group-trump/"
+},
+{
+"text": "Issues",
+"href": "https://clairevaldezforcongress.com/issues"
+},
+{
+"text": "Jobs",
+"href": "https://clairevaldezforcongress.com/jobs"
+},
+{
+"text": "Merch",
+"href": "https://store.clairevaldezforcongress.com"
+},
+{
+"text": "Palantir",
+"href": "https://www.usaspending.gov/award/CONT_AWD_70CTD022FR0000170_7012_GS35F0086U_4730"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://clairevaldezforcongress.com/volunteer"
+},
+{
+"text": "[image: Built by Forge.coop]",
+"href": "https://www.forge.coop"
+},
+{
+"text": "[image: Claire Valdez for Congress]",
+"href": "https://clairevaldezforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/claireforqueens.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/claireforqueens/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/claireforny"
+},
+{
+"text": "info@clairevaldezforcongress.com",
+"href": "mailto:info@clairevaldezforcongress.com"
+},
+{
+"text": "our privacy",
+"href": "https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html"
+},
+{
+"text": "press@clairevaldezforcongress.com",
+"href": "mailto:press@clairevaldezforcongress.com"
+},
+{
+"text": "single largest drivers",
+"href": "https://documentedny.com/2025/10/22/climate-migration-new-york-city/"
+},
+{
+"text": "violating",
+"href": "https://www.nytimes.com/2025/04/09/us/politics/trump-musk-data-access.html"
+}
 ]

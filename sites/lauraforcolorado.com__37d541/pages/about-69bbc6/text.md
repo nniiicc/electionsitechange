@@ -1,4 +1,4 @@
-Who is LAURA MARTIN?
+top of page HOME HOME EVENTS CONTACT ABOUT VALUES DONATE Who is LAURA MARTIN?
 I'm Laura Martin, and I'm running for Colorado House District 17 because I believe leadership is about service to the community—and my community is Southeast Colorado Springs.
 I’ve never been someone who waits around for permission to make a difference.
 I’ve always believed if something matters, you step up and do it.
@@ -23,3 +23,5 @@ It is about people leading the people.
 It’s about leadership, problem-solving, and having the courage to step up when it matters.
 That’s what I’ve done my whole life.
 And it’s what I will do for House District 17.
+HOME ABOUT VALUES DONATE FACEBOOK Paid for by Committee to Elect Laura Martin, Registered Agent Laura Martin Privacy Policy © # All Rights Reserved.
+Privacy Policy HOME ABOUT VALUES DONATE bottom of page

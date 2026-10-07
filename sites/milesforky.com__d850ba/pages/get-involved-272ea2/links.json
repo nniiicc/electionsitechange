@@ -1,14 +1,70 @@
 [
-"http://milesforky.com/",
-"http://milesforky.com/contact",
-"http://milesforky.com/contribute",
-"http://milesforky.com/get-involved",
-"http://milesforky.com/issues",
-"http://milesforky.com/meet-suzanne",
-"http://milesforky.com/sitemap",
-"http://mycontactform.com/",
-"https://204.sb.mywebsite-editor.com/app/590428281/161289517",
-"https://204.sb.mywebsite-editor.com/app/cms/logout.php",
-"https://login.1and1-editor.com/590428281/www.milesforky.com/us?pageId=161289517",
-"https://twitter.com/MilesForKY"
+{
+"text": "Contact",
+"href": "http://www.milesforky.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "http://www.milesforky.com/contribute/"
+},
+{
+"text": "Edit page",
+"href": "https://204.sb.mywebsite-editor.com/app/590428281/161289517/"
+},
+{
+"text": "Free Contact Form",
+"href": "http://www.mycontactform.com"
+},
+{
+"text": "Get Involved",
+"href": "http://www.milesforky.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "http://www.milesforky.com/"
+},
+{
+"text": "Issues",
+"href": "http://www.milesforky.com/issues/"
+},
+{
+"text": "Login",
+"href": "https://login.1and1-editor.com/590428281/www.milesforky.com/us?pageId=161289517"
+},
+{
+"text": "Logout",
+"href": "https://204.sb.mywebsite-editor.com/app/cms/logout.php"
+},
+{
+"text": "Meet Suzanne",
+"href": "http://www.milesforky.com/meet-suzanne/"
+},
+{
+"text": "Mobile View",
+"href": "javascript:switchView('mobile');"
+},
+{
+"text": "Sitemap",
+"href": "http://www.milesforky.com/sitemap/"
+},
+{
+"text": "Tweets by @MilesForKY",
+"href": "https://twitter.com/MilesForKY"
+},
+{
+"text": "Web View",
+"href": "javascript:switchView('desktop');"
+},
+{
+"text": "[image]",
+"href": "http://www.milesforky.com/"
+},
+{
+"text": "[image] Print",
+"href": "javascript:window.print();"
+},
+{
+"text": "contact form",
+"href": "http://www.milesforky.com/contact/"
+}
 ]

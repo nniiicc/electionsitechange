@@ -1,13 +1,50 @@
 [
-"https://action.butcherforwyomingsenate.com/donate",
-"https://action.butcherforwyomingsenate.com/volunteer",
-"https://butcherforwyomingsenate.com/",
-"https://butcherforwyomingsenate.com/author/mdbutcher",
-"https://butcherforwyomingsenate.com/donate",
-"https://butcherforwyomingsenate.com/melissas-story",
-"https://butcherforwyomingsenate.com/my-pledge-to-wyoming",
-"https://butcherforwyomingsenate.com/support-from-across-wyoming",
-"https://butcherforwyomingsenate.com/updates",
-"https://butcherforwyomingsenate.com/where-i-stand",
-"https://facebook.com/profile.php?id=61583041353865"
+{
+"text": "About",
+"href": "https://butcherforwyomingsenate.com/melissas-story/"
+},
+{
+"text": "DONATE USING CREDIT CARD",
+"href": "https://action.butcherforwyomingsenate.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://butcherforwyomingsenate.com/donate/"
+},
+{
+"text": "JOIN THE CAMPAIGN",
+"href": "https://action.butcherforwyomingsenate.com/volunteer"
+},
+{
+"text": "Pledge",
+"href": "https://butcherforwyomingsenate.com/my-pledge-to-wyoming/"
+},
+{
+"text": "Support",
+"href": "https://butcherforwyomingsenate.com/support-from-across-wyoming/"
+},
+{
+"text": "Updates",
+"href": "https://butcherforwyomingsenate.com/updates/"
+},
+{
+"text": "Volunteer",
+"href": "https://action.butcherforwyomingsenate.com/volunteer"
+},
+{
+"text": "Where I Stand",
+"href": "https://butcherforwyomingsenate.com/where-i-stand/"
+},
+{
+"text": "[image]",
+"href": "https://butcherforwyomingsenate.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61583041353865"
+},
+{
+"text": "mdbutcher",
+"href": "https://butcherforwyomingsenate.com/author/mdbutcher/"
+}
 ]

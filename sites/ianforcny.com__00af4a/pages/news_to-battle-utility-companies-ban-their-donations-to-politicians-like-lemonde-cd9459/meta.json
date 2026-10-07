@@ -1,7 +1,11 @@
 {
  "description": "Write your news blurb here.",
  "final_url": "https://www.ianforcny.com/news/to-battle-utility-companies-ban-their-donations-to-politicians-like-lemondes",
- "paid_for_by": "Paid for by Ian for CNY",
+ "fingerprint": "396eb32d6aeda65d211ec912dfc7cc2bf5b70ad8",
+ "format": 3,
+ "paid_for_by": "Paid for by Ian for CNY You need to enable JavaScript to run this app",
  "title": "Phillips: To battle utility companies, ban their donations to politicians like Lemondes",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

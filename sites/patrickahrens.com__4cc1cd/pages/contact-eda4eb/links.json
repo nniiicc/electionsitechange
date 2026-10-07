@@ -1,13 +1,54 @@
 [
-"https://facebook.com/patrickahrens",
-"https://instagram.com/patrickforassembly",
-"https://patrickahrens.com/",
-"https://patrickahrens.com/about",
-"https://patrickahrens.com/contact",
-"https://patrickahrens.com/gallery",
-"https://patrickahrens.com/issues",
-"https://patrickahrens.com/privacy-policy",
-"https://patrickahrens.com/volunteer",
-"https://secure.actblue.com/donate/patrick-ahrens-2",
-"https://twitter.com/PatrickForAD26"
+{
+"text": "About",
+"href": "https://patrickahrens.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://patrickahrens.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/patrick-ahrens-2"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/patrickahrens"
+},
+{
+"text": "Gallery",
+"href": "https://patrickahrens.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://patrickahrens.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/patrickforassembly"
+},
+{
+"text": "Issues",
+"href": "https://patrickahrens.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://patrickahrens.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://patrickahrens.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://patrickahrens.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/PatrickForAD26"
+},
+{
+"text": "patrick@patrickahrens.com",
+"href": "mailto:patrick@patrickahrens.com"
+}
 ]

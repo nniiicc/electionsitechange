@@ -1,29 +1,142 @@
 [
-"http://mandatemedia.com/",
-"https://bonamiciforcongress.com/",
-"https://bonamiciforcongress.com/about",
-"https://bonamiciforcongress.com/contact",
-"https://bonamiciforcongress.com/donate",
-"https://bonamiciforcongress.com/endorse",
-"https://bonamiciforcongress.com/endorsements",
-"https://bonamiciforcongress.com/esp",
-"https://bonamiciforcongress.com/facebook",
-"https://bonamiciforcongress.com/get-involved",
-"https://bonamiciforcongress.com/instagram",
-"https://bonamiciforcongress.com/latest-news",
-"https://bonamiciforcongress.com/lawn-sign",
-"https://bonamiciforcongress.com/mobile-donate",
-"https://bonamiciforcongress.com/priorities",
-"https://bonamiciforcongress.com/privacy",
-"https://bonamiciforcongress.com/protect-democracy",
-"https://bonamiciforcongress.com/sign-up",
-"https://bonamiciforcongress.com/take-action-on-choice",
-"https://bonamiciforcongress.com/volunteer",
-"https://facebook.com/suzannebonamici",
-"https://secure.actblue.com/donate/stand-with-suzanne-bonamici",
-"https://secure.actblue.com/donate/stand-with-suzanne-bonamici?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/stand-with-suzanne-bonamici?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/stand-with-suzanne-bonamici?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/stand-with-suzanne-bonamici?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/stand-with-suzanne-bonamici?express_lane=true&amount=50"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stand-with-suzanne-bonamici?express_lane=true&amount=100&refcode2=express-buttons"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stand-with-suzanne-bonamici?express_lane=true&amount=25&refcode2=express-buttons"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stand-with-suzanne-bonamici?express_lane=true&amount=250&refcode2=express-buttons"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stand-with-suzanne-bonamici?express_lane=true&amount=5&refcode2=express-buttons"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stand-with-suzanne-bonamici?express_lane=true&amount=50&refcode2=express-buttons"
+},
+{
+"text": "About Suzanne",
+"href": "https://www.bonamiciforcongress.com/about/"
+},
+{
+"text": "Connect on Facebook",
+"href": "https://www.bonamiciforcongress.com/facebook/"
+},
+{
+"text": "Contact",
+"href": "https://www.bonamiciforcongress.com/contact/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.bonamiciforcongress.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://www.bonamiciforcongress.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://www.bonamiciforcongress.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://www.bonamiciforcongress.com/mobile-donate/"
+},
+{
+"text": "En Español",
+"href": "https://www.bonamiciforcongress.com/esp/"
+},
+{
+"text": "Endorse Suzanne",
+"href": "https://www.bonamiciforcongress.com/endorse/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bonamiciforcongress.com/endorsements/"
+},
+{
+"text": "Every dollar makes a difference.",
+"href": "https://www.bonamiciforcongress.com/donate/"
+},
+{
+"text": "Follow us on Instagram",
+"href": "https://www.bonamiciforcongress.com/instagram/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bonamiciforcongress.com/get-involved/"
+},
+{
+"text": "Get a lawn sign",
+"href": "https://www.bonamiciforcongress.com/lawn-sign/"
+},
+{
+"text": "Home",
+"href": "https://www.bonamiciforcongress.com/"
+},
+{
+"text": "Latest",
+"href": "https://www.bonamiciforcongress.com/latest-news/"
+},
+{
+"text": "Make a Donation",
+"href": "https://www.bonamiciforcongress.com/donate/"
+},
+{
+"text": "Mandate Media",
+"href": "http://www.mandatemedia.com"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/stand-with-suzanne-bonamici"
+},
+{
+"text": "Priorities",
+"href": "https://www.bonamiciforcongress.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bonamiciforcongress.com/privacy/"
+},
+{
+"text": "Sign Up",
+"href": "https://www.bonamiciforcongress.com/sign-up/"
+},
+{
+"text": "Suzanne Bonamici",
+"href": "https://www.facebook.com/suzannebonamici/"
+},
+{
+"text": "Volunteer with the campaign",
+"href": "https://www.bonamiciforcongress.com/volunteer/"
+},
+{
+"text": "[image: Suzanne Bonamici for Congress]",
+"href": "https://www.bonamiciforcongress.com/"
+},
+{
+"text": "[image: Take Action on Abortion Rights]",
+"href": "https://www.bonamiciforcongress.com/take-action-on-choice/"
+},
+{
+"text": "[image: democracy reform]",
+"href": "https://www.bonamiciforcongress.com/protect-democracy/"
+},
+{
+"text": "[no text]",
+"href": "https://www.bonamiciforcongress.com/facebook/"
+},
+{
+"text": "[no text]",
+"href": "https://www.bonamiciforcongress.com/instagram/"
+},
+{
+"text": "read more",
+"href": "https://www.bonamiciforcongress.com/about/"
+}
 ]

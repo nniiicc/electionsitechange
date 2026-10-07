@@ -1,8 +1,1 @@
-Skip to content
-Home
-About
-Priorities
-News
-Contact
-Volunteer
-Donate
+Skip to content Home About Priorities News Contact Volunteer Donate Home About Priorities News Contact Donate Privacy Policy News Contact Donate Get in Touch: sarleyforwashington@gmail.com Facebook Instagram Paid for by Derek Sarley for State Representative | PO Box 292 Walla Walla, WA 99362 Powered by Herding Cats 🐈‍⬛

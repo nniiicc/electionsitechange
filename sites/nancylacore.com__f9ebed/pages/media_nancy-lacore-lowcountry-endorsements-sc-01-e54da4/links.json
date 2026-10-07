@@ -1,38 +1,162 @@
 [
-"http://nancylacore.com/",
-"https://bsky.app/profile/nancylacore.bsky.social",
-"https://docs.google.com/forms/d/e/1FAIpQLSdBEBrUJjkTmPwuRM0Lg6zD3lyoI2lcKSQGL7Ci9xgdB0S6jA/viewform",
-"https://emilyslist.org/",
-"https://facebook.com/nancylacore",
-"https://instagram.com/nancylacore",
-"https://mobilize.us/nancylacoreforcongress",
-"https://nancylacore.com/",
-"https://nancylacore.com/about-nancy",
-"https://nancylacore.com/cart",
-"https://nancylacore.com/contact",
-"https://nancylacore.com/endorsements",
-"https://nancylacore.com/get-involved",
-"https://nancylacore.com/media",
-"https://nancylacore.com/media/navy-veteran-nancy-lacore-officially-files-to-appear-on-the-ballot-in-sc-01-dp73p",
-"https://nancylacore.com/media/secretary-navy-carlos-del-toro-endorses-nancy-lacore-sc01",
-"https://nancylacore.com/media?author=5cb235d75e0ed89f1e0a4cc9",
-"https://nancylacore.com/priorities",
-"https://nancylacore.com/privacy",
-"https://nancylacore.com/terms-and-conditions",
-"https://nancylacore.com/vote",
-"https://postandcourier.com/politics/mount-pleasant-haynie-lacore-congress-sc/article_f705a213-7cb3-4c88-bd92-f1837664f0f3.html",
-"https://secure.actblue.com/donate/nl-web",
-"https://secure.actblue.com/donate/nl-web?amount=10",
-"https://secure.actblue.com/donate/nl-web?amount=100",
-"https://secure.actblue.com/donate/nl-web?amount=25",
-"https://secure.actblue.com/donate/nl-web?amount=250",
-"https://secure.actblue.com/donate/nl-web?amount=50",
-"https://thebench.org/",
-"https://tiktok.com/@nancy.lacore?_r=1&_t=ZT-93DPSIVeLaI",
-"https://votevets.org/",
-"https://x.com/nancylacore/status/2018828184431861906?s=20",
-"https://x.com/nancylacore/status/2027578644718104936?s=20",
-"https://x.com/nancylacore/status/2031032142759686430?s=20",
-"https://x.com/nancylacore/status/2039387268394189181?s=20",
-"https://x.com/nancylacore?s=21"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/nl-web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/nl-web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/nl-web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/nl-web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/nl-web?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.nancylacore.com/cart"
+},
+{
+"text": "About Nancy",
+"href": "https://www.nancylacore.com/about-nancy"
+},
+{
+"text": "Back",
+"href": "https://www.nancylacore.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.nancylacore.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nl-web"
+},
+{
+"text": "EMILYs List",
+"href": "https://emilyslist.org/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nancylacore.com/endorsements"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.nancylacore.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.nancylacore.com/"
+},
+{
+"text": "Host an Event",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdBEBrUJjkTmPwuRM0Lg6zD3lyoI2lcKSQGL7Ci9xgdB0S6jA/viewform"
+},
+{
+"text": "Kasey Lacore",
+"href": "https://www.nancylacore.com/media?author=5cb235d75e0ed89f1e0a4cc9"
+},
+{
+"text": "Media",
+"href": "https://www.nancylacore.com/media"
+},
+{
+"text": "Next Next Rear Admiral Nancy Lacore, Ret., Raises $1 Million in First Quarter, Establishes Early Strength in SC-01",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-officially-files-to-appear-on-the-ballot-in-sc-01-dp73p"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/nl-web"
+},
+{
+"text": "Previous Previous 78th Secretary of the United States Navy and Marine Corps Endorses RADM Nancy Lacore for Congress in SC-01",
+"href": "https://www.nancylacore.com/media/secretary-navy-carlos-del-toro-endorses-nancy-lacore-sc01"
+},
+{
+"text": "Priorities",
+"href": "https://www.nancylacore.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.nancylacore.com/privacy"
+},
+{
+"text": "Republican Mount Pleasant Mayor Will Haynie crossed party lines to support Lacore",
+"href": "https://www.postandcourier.com/politics/mount-pleasant-haynie-lacore-congress-sc/article_f705a213-7cb3-4c88-bd92-f1837664f0f3.html"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.nancylacore.com/terms-and-conditions"
+},
+{
+"text": "The Bench",
+"href": "https://thebench.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/nancylacoreforcongress/%20"
+},
+{
+"text": "VoteVets",
+"href": "https://votevets.org/"
+},
+{
+"text": "Voting Resources",
+"href": "https://www.nancylacore.com/vote"
+},
+{
+"text": "[image: Nancy Lacore for Congress ]",
+"href": "https://www.nancylacore.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/nancylacore.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/nancylacore"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nancylacore/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@nancy.lacore?_r=1&_t=ZT-93DPSIVeLaI"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/nancylacore?s=21"
+},
+{
+"text": "county conventions",
+"href": "https://x.com/nancylacore/status/2031032142759686430?s=20"
+},
+{
+"text": "hosting events",
+"href": "https://x.com/nancylacore/status/2027578644718104936?s=20"
+},
+{
+"text": "kaylie@nancylacore.com",
+"href": "mailto:kaylie@nancylacore.com"
+},
+{
+"text": "nancylacore.com",
+"href": "http://nancylacore.com/"
+},
+{
+"text": "participating in forums",
+"href": "https://x.com/nancylacore/status/2018828184431861906?s=20"
+},
+{
+"text": "raising over $1 million",
+"href": "https://x.com/nancylacore/status/2039387268394189181?s=20"
+}
 ]

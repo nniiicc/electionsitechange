@@ -1,14 +1,90 @@
 [
-"http://twitter.com/josiahmagnuson",
-"https://facebook.com/magnusonsc",
-"https://josiahmagnuson.com/",
-"https://josiahmagnuson.com/about",
-"https://josiahmagnuson.com/cart",
-"https://josiahmagnuson.com/contact",
-"https://josiahmagnuson.com/issues",
-"https://josiahmagnuson.com/privacypolicy",
-"https://josiahmagnuson.com/record",
-"https://josiahmagnuson.com/termsandconditions",
-"https://secure.anedot.com/magnusonsc/2026",
-"https://vrems.scvotes.sc.gov/Voter/Login?PageMode=PollingPlace"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/magnusonsc/2026"
+},
+{
+"text": "$1000",
+"href": "https://secure.anedot.com/magnusonsc/2026"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/magnusonsc/2026"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/magnusonsc/2026"
+},
+{
+"text": "0",
+"href": "https://www.josiahmagnuson.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.josiahmagnuson.com/about"
+},
+{
+"text": "Click here for polling place information.",
+"href": "https://vrems.scvotes.sc.gov/Voter/Login?PageMode=PollingPlace"
+},
+{
+"text": "Contact",
+"href": "https://www.josiahmagnuson.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/magnusonsc/2026"
+},
+{
+"text": "Get Updates",
+"href": "https://www.josiahmagnuson.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.josiahmagnuson.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.josiahmagnuson.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.josiahmagnuson.com/about"
+},
+{
+"text": "Learn More",
+"href": "https://www.josiahmagnuson.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.josiahmagnuson.com/record"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.josiahmagnuson.com/privacypolicy"
+},
+{
+"text": "Record",
+"href": "https://www.josiahmagnuson.com/record"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.josiahmagnuson.com/termsandconditions"
+},
+{
+"text": "[image: Josiah Magnuson for State House 38]",
+"href": "https://www.josiahmagnuson.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.twitter.com/josiahmagnuson"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/magnusonsc"
+},
+{
+"text": "[no text]",
+"href": "mailto:j@magnusonsc.com"
+}
 ]

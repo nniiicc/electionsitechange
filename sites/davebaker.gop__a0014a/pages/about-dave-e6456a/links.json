@@ -1,27 +1,110 @@
 [
-"https://davebaker.gop/",
-"https://davebaker.gop/about-dave",
-"https://davebaker.gop/about-dave/about-dave",
-"https://davebaker.gop/about-dave/contact-us",
-"https://davebaker.gop/about-dave/contribute",
-"https://davebaker.gop/about-dave/i-want-a-yard-sign",
-"https://davebaker.gop/about-dave/issues",
-"https://davebaker.gop/about-dave/media",
-"https://davebaker.gop/about-dave/privacy-policy",
-"https://davebaker.gop/about-dave/terms-of-service",
-"https://davebaker.gop/contact-us",
-"https://davebaker.gop/contribute",
-"https://davebaker.gop/education",
-"https://davebaker.gop/energy",
-"https://davebaker.gop/government-overreach",
-"https://davebaker.gop/i-want-a-yard-sign",
-"https://davebaker.gop/issues",
-"https://davebaker.gop/media",
-"https://davebaker.gop/public-safety",
-"https://davebaker.gop/tax-policy",
-"https://davebaker.gop/transportation",
-"https://davebaker.gop/volunteer",
-"https://facebook.com/davebakerfordistrict16b",
-"https://linkedin.com/in/dave-baker-61189217",
-"https://twitter.com/DBaker16b"
+{
+"text": "About Dave",
+"href": "https://www.davebaker.gop/about-dave/"
+},
+{
+"text": "About Dave",
+"href": "https://www.davebaker.gop/about-dave/about-dave/"
+},
+{
+"text": "Contact",
+"href": "https://www.davebaker.gop/about-dave/contact-us/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.davebaker.gop/contact-us/"
+},
+{
+"text": "Contribute",
+"href": "https://www.davebaker.gop/about-dave/contribute/"
+},
+{
+"text": "Contribute",
+"href": "https://www.davebaker.gop/contribute/"
+},
+{
+"text": "Education",
+"href": "https://www.davebaker.gop/education/"
+},
+{
+"text": "Energy",
+"href": "https://www.davebaker.gop/energy/"
+},
+{
+"text": "Government Overreach",
+"href": "https://www.davebaker.gop/government-overreach/"
+},
+{
+"text": "Home",
+"href": "https://www.davebaker.gop/"
+},
+{
+"text": "I Want a Yard Sign",
+"href": "https://www.davebaker.gop/i-want-a-yard-sign/"
+},
+{
+"text": "Issues",
+"href": "https://www.davebaker.gop/about-dave/issues/"
+},
+{
+"text": "Issues",
+"href": "https://www.davebaker.gop/issues/"
+},
+{
+"text": "Media",
+"href": "https://www.davebaker.gop/about-dave/media/"
+},
+{
+"text": "Media",
+"href": "https://www.davebaker.gop/media/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.davebaker.gop/about-dave/privacy-policy/"
+},
+{
+"text": "Public Safety",
+"href": "https://www.davebaker.gop/public-safety/"
+},
+{
+"text": "Tax Policy",
+"href": "https://www.davebaker.gop/tax-policy/"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.davebaker.gop/about-dave/terms-of-service/"
+},
+{
+"text": "Transportation",
+"href": "https://www.davebaker.gop/transportation/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.davebaker.gop/volunteer/"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.davebaker.gop/about-dave/i-want-a-yard-sign/"
+},
+{
+"text": "[image: Dave Baker for State Representative]",
+"href": "https://www.davebaker.gop/"
+},
+{
+"text": "[image: Re-Elect Dave Baker State Representative]",
+"href": "https://www.davebaker.gop/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/DBaker16b"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/davebakerfordistrict16b"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/dave-baker-61189217"
+}
 ]

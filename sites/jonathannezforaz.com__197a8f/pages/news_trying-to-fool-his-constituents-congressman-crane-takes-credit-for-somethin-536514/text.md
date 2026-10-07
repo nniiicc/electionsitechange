@@ -1,24 +1,30 @@
-PRESS RELEASE
-“Trying to fool his constituents”: Congressman Crane Takes Credit for Something He Voted Against
-FLAGSTAFF, AZ - Congressman Eli Crane recently took credit for supporting a House-passed bill aimed at improving America’s water infrastructure, but failed to mention it’s a near identical copy of a water infrastructure bill he voted against just two years ago.
+Skip navigation menu About Agenda Press Endorsements Volunteer Events Donate About Agenda Press Endorsements Volunteer Events Donate PRESS RELEASE Eli Crane Votes Against Making Housing More Affordable for Arizonans PRESS RELEASE Former Transportation Sec.
+Pete Buttigieg Endorses Jonathan Nez Media Advisory Jonathan Nez to Host Rural Healthcare Roundtable in Winslow, AZ Media Advisory Jonathan Nez to Host Flagstaff Small Business Round Table and Tour Fact sheet The True Costs of Rep.
+Eli ‘High Costs’ Crane and Republican Policies on Rural Arizonans PRESS RELEASE Jonathan Nez Responds to President Trump’s Statements Regarding Pope Leo XIV PRESS RELEASE Jonathan Nez Blasts Eli Crane For Voting Against Bipartisan Bills to Lower Housing Costs PRESS RELEASE Congressman Eli “High Costs” Crane Refuses To Hold Arizona Townhalls PRESS RELEASE Congressman Eli Crane’s Response to Arizonans Seeking Answers: “I Hope it Works Out” PRESS RELEASE Congressman Eli Crane Applauds the State of High Costs PRESS RELEASE Jonathan Nez Named to “Red To Blue” Program PRESS RELEASE Congressman Eli Crane Votes to Let Tariffs Raise Costs on Arizona Families PRESS RELEASE Congressman Eli “Higher Costs” Crane Votes To Increase Arizonans’ Healthcare Costs PRESS RELEASE Congressman Eli Crane Again Fails to Deliver for Rural Arizonans PRESS RELEASE Jonathan Nez Defends Head Start Amid Proposed Cuts PRESS RELEASE All Fat, No Cattle: Eli Crane Silent as Trump Buys Foreign Beef and Ignores Our Ranchers PRESS RELEASE Jonathan Nez Slams Crane on Endless War, OBBBA Vote after Federal Debt Surpasses 40 Trillion PRESS RELEASE The Cost of Crane: He Rubber-Stamps Tariffs that are Crippling Arizona Families, Small Businesses PRESS RELEASE Jonathan Nez: Arizona’s Water isn’t just a Worry, it’s a Crisis.
+Eli Crane Has Failed Us.
+PRESS RELEASE As Arizona Water Crisis Deepens, Rep.
+Crane Stands with Washington Bureaucrats Making it Worse PRESS RELEASE As Lake Mead Reaches Lowest Level Ever, Jonathan Nez Rips Rep.
+Crane, Trump Admin.
+Over Inaction PRESS RELEASE ICYMI: Poll Shows Dem.
+Jonathan Nez Tied with Rep.
+Eli Crane in District Trump Won by Double Digits PRESS RELEASE Jonathan Nez Reaffirms Commitment to Arizona Workers, Labor Unions Ahead of Labor Day PRESS RELEASE Hypocrisy: Rep.
+Crane Once Opposed Deadly, Costly "Forever Wars." His Website Update Says Otherwise PRESS RELEASE Nez Highlights Plan for Rural Arizona, Crane Once Again Doesn’t Show Up to Answer Tough Q’s PRESS RELEASE Congressman Eli Crane Just Voted to Continue the War Driving Up Costs … Again PRESS RELEASE Rep.
+Crane Takes Money from Mega Donor as his Campaign Continues to be Bankrolled by DC Elite PACs PRESS RELEASE Nez Pledges to Introduce Legislation to Claw Back OBBBA Tax Breaks for Data Centers PRESS RELEASE “Trying to fool his constituents”: Congressman Crane Takes Credit for Something He Voted Against PRESS RELEASE ICYMI: Congressman Eli Crane Covers Up the Epstein Files After Epstein Enablers Flood Him with Cash PRESS RELEASE Nez Fights for AZ Families as Data Center Debate Exposes Rep.
+Crane’s Allegiance to Billionaires PRESS RELEASE Nez Helps Cut Ribbon for New Hospital Serving Rural Arizona PRESS RELEASE Nez Slams Crane’s Harmful Policies as Jobs Report Shows Arizona Workers Getting Squeezed Sep 25 2026 PRESS RELEASE “Trying to fool his constituents”: Congressman Crane Takes Credit for Something He Voted Against FLAGSTAFF, AZ - Congressman Eli Crane recently took credit for supporting a House-passed bill aimed at improving America’s water infrastructure, but failed to mention it’s a near identical copy of a water infrastructure bill he voted against just two years ago.
 The Water Resources Development Act of 2024 authorized the U.S.
 Army Corps of Engineers to conduct studies and construct or modify water resource infrastructure projects across the country.
-The bill passed soundly, but Crane was one of just 13 House members to vote against it, providing no reason as to why.
+The bill passed soundly, but Crane was one of just 13 House members to vote against it , providing no reason as to why.
 Now, Congressman Crane is taking credit for passing the 2026 version of a near identical bill.
-He even showed off that “Congress has passed a (Water Resources Development Act) every two years since 2014.”
-“Right in the heat of election season, Crane is trying to fool his constituents into thinking he’s actually done something to address the water crisis,” said Nez.
+He even showed off that “Congress has passed a (Water Resources Development Act) every two years since 2014.” “Right in the heat of election season, Crane is trying to fool his constituents into thinking he’s actually done something to address the water crisis,” said Nez .
 “But the voters of AZ-02 know Congressman Crane has done almost nothing to protect our precious water.
 He’s not at the table fighting for our groundwater or the critically important Colorado River, even though much of it runs through his district.
-He should be at the table for discussions, but instead he’s cozying up to billionaires and taking credit for other peoples’ work.”
-Just last month, Crane took to social media to stage a photo-op at Theodore Roosevelt Dam alongside U.S.
+He should be at the table for discussions, but instead he’s cozying up to billionaires and taking credit for other peoples’ work.” Just last month, Crane took to social media to stage a photo-op at Theodore Roosevelt Dam alongside U.S.
 Secretary of the Interior Doug Burgum, who ordered Arizona to cut its Colorado River water use by an unsustainable 30%.
-It was yet another performative stunt from a Congressman who is making Arizona’s water crisis even worse.
+It was yet another performative stunt from a Congressman who is making Arizona’s water crisis even worse .
 Plus, only recently has Crane actually included a reference to caring for rural Arizona on his campaign website.
-Residents are sounding the alarm that the federal government is “threatening to shut down the Southwest,” yet Crane continues to offer Arizonans little more than empty political theater.
+Residents are sounding the alarm that the federal government is “ threatening to shut down the Southwest ,” yet Crane continues to offer Arizonans little more than empty political theater .
 Meanwhile, Crane has voted with Trump nearly 100% of the time.
-He has stated he doesn’t even like his job in Congress, as evident by his refusal to fight for Arizona’s water.
-In Congress, Crane has refused to bring critical water projects to rural Arizona while sending taxpayer dollars to states like California.
+He has stated he doesn’t even like his job in Congress, as evident by his refusal to fight for Arizona’s water .
+In Congress, Crane has refused to bring critical water projects to rural Arizona while sending taxpayer dollars to states like California .
 He also voted for massive tax breaks for data centers that drain local water supplies and drive up electricity costs.
-SEE ALSO:
-- AZFamily: Arizona sees largest Colorado River cuts under new federal water deal (8/21/26)
-- Lake Powell Chronicle: Water Policy Realities: A Conversation with Former Navajo Nation President Jonathan Nez (8/6/26)
+SEE ALSO: AZFamily: Arizona sees largest Colorado River cuts under new federal water deal (8/21/26) Lake Powell Chronicle: Water Policy Realities: A Conversation with Former Navajo Nation President Jonathan Nez (8/6/26) Privacy Policy JONATHAN NEZ FOR CONGRESS PO BOX 1854 FLAGSTAFF, AZ 86002 General Inquiries info@jonathannezforaz.com Press & Media press@jonathannezforaz.com Powered by RUN! website builder PAID FOR BY JONATHAN NEZ FOR CONGRESS You need to enable JavaScript to run this app.

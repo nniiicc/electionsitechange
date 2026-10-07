@@ -1,5 +1,4 @@
-Meet Yuri
-Nine years ago, I was fortunate enough to win a Green Card, and in 2017, my wife and I immigrated from Minsk, Belarus, to the United States.
+DONATE Yuri Marinchik Home Meet Yuri Matters Donate Contact Yuri Marinchik Home Meet Yuri Matters Donate Contact Meet Yuri Nine years ago, I was fortunate enough to win a Green Card, and in 2017, my wife and I immigrated from Minsk, Belarus, to the United States.
 We spent four years living in San Diego, California.
 Our first year in the U.S. was incredibly challenging, but we made it through.
 I can say with absolute certainty that immigration, even with a Green Card, is not for everyone.
@@ -15,3 +14,6 @@ Four years later, in 2021, at my suggestion, we moved to Washington State.
 By the way, Belarus is a small but proud country located in the heart of Europe, bordering Lithuania, Latvia, Poland, Ukraine, and Russia.
 In 2024, our family officially became Americans.
 And as it turned out, that was when our lives truly began to change.
+Learn More Gallery Contact Reach out with questions or support.
+Email YuriHR@proton.me © #.
+All rights reserved.

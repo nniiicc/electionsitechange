@@ -1,14 +1,70 @@
 [
-"http://nextdoor.com/",
-"https://facebook.com/hollyforgeorgia",
-"https://hollyforgeorgia.com/",
-"https://hollyforgeorgia.com/about",
-"https://hollyforgeorgia.com/contact",
-"https://hollyforgeorgia.com/get-social",
-"https://hollyforgeorgia.com/news",
-"https://hollyforgeorgia.com/stand-on-principle",
-"https://instagram.com/hollyforgeorgia",
-"https://linkedin.com/in/repholly",
-"https://secure.actblue.com/donate/el116",
-"https://youtube.com/@empowerthepeopletvwithel-m6371"
+{
+"text": "About",
+"href": "https://www.hollyforgeorgia.com/about"
+},
+{
+"text": "At the Capitol",
+"href": "https://www.hollyforgeorgia.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.hollyforgeorgia.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/el116"
+},
+{
+"text": "EL-MAHDI HOLLY",
+"href": "https://www.hollyforgeorgia.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.hollyforgeorgia.com/stand-on-principle"
+},
+{
+"text": "Get Social",
+"href": "https://www.hollyforgeorgia.com/get-social"
+},
+{
+"text": "Home",
+"href": "https://www.hollyforgeorgia.com"
+},
+{
+"text": "In the Community",
+"href": "https://www.hollyforgeorgia.com"
+},
+{
+"text": "Stand On Principle",
+"href": "https://www.hollyforgeorgia.com/stand-on-principle"
+},
+{
+"text": "Stay Active",
+"href": "https://www.hollyforgeorgia.com/news"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/hollyforgeorgia"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/hollyforgeorgia"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/repholly"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@empowerthepeopletvwithel-m6371"
+},
+{
+"text": "[image: nextdoor]",
+"href": "http://www.nextdoor.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.hollyforgeorgia.com"
+}
 ]

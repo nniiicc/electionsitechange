@@ -1,21 +1,2 @@
-Parke Wentling’s proven experience and qualifications stand alone.
-- State Representative since 2014
-- Never missed a day of session
-- Serves as a deputy House Republican Caucus Policy Chairman and deputy Floor Whip
-- Formerly served as the Chair of the Joint Legislative Conservation Committee, elected unanimously by members of both parties in the House and Senate
-- Wilmington Area School District – former technology education instructor
-- Bessemer and Lake Erie Railroad – former track laborer
-- Mercer County Trails Association – past president
-- Erie to Pittsburgh Trail Alliance – past president
-- Zion’s Reformed Church – member of the consistory
-- National Rifle Association – life member
-We use cookies to improve your experience on our site.
-By using our site, you consent to cookies.
-Manage your cookie preferences below:
-Essential cookies enable basic functions and are necessary for the proper function of the website.
-Name
-Description
-Duration
-Cookie Preferences
-This cookie is used to store the user's cookie consent preferences.
-You can find more information in our Cookie Policy and .
+Meet Parke Priorities Endorsements Volunteer Connect Meet Parke Priorities Endorsements Volunteer Connect Make A Donation Facebook Meet Parke Wentling Parke Wentling’s proven experience and qualifications stand alone.
+State Representative since 2014 Never missed a day of session Serves as a deputy House Republican Caucus Policy Chairman and deputy Floor Whip Formerly served as the Chair of the Joint Legislative Conservation Committee, elected unanimously by members of both parties in the House and Senate Wilmington Area School District – former technology education instructor Bessemer and Lake Erie Railroad – former track laborer Mercer County Trails Association – past president Erie to Pittsburgh Trail Alliance – past president Zion’s Reformed Church – member of the consistory National Rifle Association – life member Paid For By Elect Parke Wentling Senator Bob Robbins, Chairman PO Box 81 Greenville, PA 16125 © # All Rights Reserved

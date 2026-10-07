@@ -1,30 +1,146 @@
 [
-"https://facebook.com/whisler4carroll",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Whisler+For+Delegate+Events++-",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Whisler+For+Delegate+Events++-",
-"https://secure.winred.com/stevewhisler/donate-today",
-"https://technolegs.com/",
-"https://whisler4delegate.com/",
-"https://whisler4delegate.com/about-steve-whisler",
-"https://whisler4delegate.com/endorsements",
-"https://whisler4delegate.com/event/american-legion-post-223-meeting",
-"https://whisler4delegate.com/event/carroll-county-gop-woman-of-the-year",
-"https://whisler4delegate.com/event/carroll-republican-victory-meeting",
-"https://whisler4delegate.com/event/dewees-culver-fundraiser",
-"https://whisler4delegate.com/event/drive-for-victory",
-"https://whisler4delegate.com/event/ehrlich-fundraiser-conservative-carroll-frederick-board-of-education-candidates",
-"https://whisler4delegate.com/event/island-green",
-"https://whisler4delegate.com/event/north-carroll-business-alliance-2",
-"https://whisler4delegate.com/event/south-carroll-business-association-2",
-"https://whisler4delegate.com/event/taste-of-carroll",
-"https://whisler4delegate.com/events",
-"https://whisler4delegate.com/events/list",
-"https://whisler4delegate.com/events/list/page/2?eventDisplay=past",
-"https://whisler4delegate.com/events/list?eventDisplay=past&ical=1",
-"https://whisler4delegate.com/events/list?eventDisplay=past&outlook-ical=1",
-"https://whisler4delegate.com/events/month",
-"https://whisler4delegate.com/press-and-news",
-"https://whisler4delegate.com/privacy-policy",
-"https://whisler4delegate.com/terms-of-service"
+{
+"text": "#ago",
+"href": "https://whisler4delegate.com/events/list/"
+},
+{
+"text": "410.963.7066",
+"href": "tel:4109637066"
+},
+{
+"text": "American Legion Post 223 Meeting",
+"href": "https://whisler4delegate.com/event/american-legion-post-223-meeting/"
+},
+{
+"text": "Carroll County GOP Woman of the Year",
+"href": "https://whisler4delegate.com/event/carroll-county-gop-woman-of-the-year/"
+},
+{
+"text": "Carroll Republican Victory Meeting",
+"href": "https://whisler4delegate.com/event/carroll-republican-victory-meeting/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/stevewhisler/donate-today"
+},
+{
+"text": "DeWees / Culver Fundraiser",
+"href": "https://whisler4delegate.com/event/dewees-culver-fundraiser/"
+},
+{
+"text": "Drive for Victory",
+"href": "https://whisler4delegate.com/event/drive-for-victory/"
+},
+{
+"text": "Ehrlich Fundraiser Conservative Carroll & Frederick Board of Education Candidates",
+"href": "https://whisler4delegate.com/event/ehrlich-fundraiser-conservative-carroll-frederick-board-of-education-candidates/"
+},
+{
+"text": "Endorsements",
+"href": "https://whisler4delegate.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://whisler4delegate.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://whisler4delegate.com/events/list/?eventDisplay=past&ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://whisler4delegate.com/events/list/?eventDisplay=past&outlook-ical=1#038;ical=1"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://whisler4delegate.com/"
+},
+{
+"text": "Island Green",
+"href": "https://whisler4delegate.com/event/island-green/"
+},
+{
+"text": "Join Us On Social Media",
+"href": "https://www.facebook.com/whisler4carroll"
+},
+{
+"text": "List",
+"href": "https://whisler4delegate.com/events/list/"
+},
+{
+"text": "Month",
+"href": "https://whisler4delegate.com/events/month/"
+},
+{
+"text": "Next Events",
+"href": "https://whisler4delegate.com/events/list/"
+},
+{
+"text": "North Carroll Business Alliance",
+"href": "https://whisler4delegate.com/event/north-carroll-business-alliance-2/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Whisler+For+Delegate+Events++-"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Whisler+For+Delegate+Events++-"
+},
+{
+"text": "Press and News",
+"href": "https://whisler4delegate.com/press-and-news/"
+},
+{
+"text": "Previous Events",
+"href": "https://whisler4delegate.com/events/list/page/2/?eventDisplay=past"
+},
+{
+"text": "Privacy Policy",
+"href": "https://whisler4delegate.com/privacy-policy/"
+},
+{
+"text": "South Carroll Business Association",
+"href": "https://whisler4delegate.com/event/south-carroll-business-association-2/"
+},
+{
+"text": "Steve",
+"href": "https://whisler4delegate.com/about-steve-whisler/"
+},
+{
+"text": "Taste of Carroll",
+"href": "https://whisler4delegate.com/event/taste-of-carroll/"
+},
+{
+"text": "Terms of Service",
+"href": "https://whisler4delegate.com/terms-of-service/"
+},
+{
+"text": "Website Design and Hosting by Technolegs",
+"href": "https://technolegs.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/whisler4carroll"
+},
+{
+"text": "[tooltip: Next Events]",
+"href": "https://whisler4delegate.com/events/list/"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://whisler4delegate.com/events/list/page/2/?eventDisplay=past"
+},
+{
+"text": "iCalendar",
+"href": "webcal://whisler4delegate.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+},
+{
+"text": "steve@Whisler4Carroll.com",
+"href": "mailto:steve@Whisler4Carroll.com"
+}
 ]

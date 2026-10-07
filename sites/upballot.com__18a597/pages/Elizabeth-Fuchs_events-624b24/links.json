@@ -1,27 +1,130 @@
 [
-"https://facebook.com/profile.php?id=61553632804092",
-"https://instagram.com/lillyforthelou",
-"https://mohousedems.com/calendar",
-"https://secure.actblue.com/donate/friends-for-fuchs-1",
-"https://twitter.com/elizabethfuchs?lang=en",
-"https://upballot.com/",
-"https://upballot.com/Elizabeth-Fuchs",
-"https://upballot.com/Elizabeth-Fuchs/about",
-"https://upballot.com/Elizabeth-Fuchs/events",
-"https://upballot.com/Elizabeth-Fuchs/events?view=cards",
-"https://upballot.com/Elizabeth-Fuchs/get-involved",
-"https://upballot.com/Elizabeth-Fuchs/issues",
-"https://upballot.com/event-calendar-ajax?year=2026&month=09&candidateId=68024",
-"https://upballot.com/event-calendar-ajax?year=2026&month=11&candidateId=68024",
-"https://upballot.com/event-day-preview-ajax?year=2026&month=10&day=03&candidateId=68024",
-"https://upballot.com/event-day-preview-ajax?year=2026&month=10&day=04&candidateId=68024",
-"https://upballot.com/event-day-preview-ajax?year=2026&month=10&day=10&candidateId=68024",
-"https://upballot.com/event-day-preview-ajax?year=2026&month=10&day=11&candidateId=68024",
-"https://upballot.com/event-day-preview-ajax?year=2026&month=10&day=17&candidateId=68024",
-"https://upballot.com/event-day-preview-ajax?year=2026&month=10&day=18&candidateId=68024",
-"https://upballot.com/event-day-preview-ajax?year=2026&month=10&day=24&candidateId=68024",
-"https://upballot.com/event-day-preview-ajax?year=2026&month=10&day=25&candidateId=68024",
-"https://upballot.com/event-day-preview-ajax?year=2026&month=10&day=31&candidateId=68024",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "10",
+"href": "https://www.upballot.com/event-day-preview-ajax?year=2026&month=10&day=10&candidateId=68024"
+},
+{
+"text": "11",
+"href": "https://www.upballot.com/event-day-preview-ajax?year=2026&month=10&day=11&candidateId=68024"
+},
+{
+"text": "17",
+"href": "https://www.upballot.com/event-day-preview-ajax?year=2026&month=10&day=17&candidateId=68024"
+},
+{
+"text": "18",
+"href": "https://www.upballot.com/event-day-preview-ajax?year=2026&month=10&day=18&candidateId=68024"
+},
+{
+"text": "24",
+"href": "https://www.upballot.com/event-day-preview-ajax?year=2026&month=10&day=24&candidateId=68024"
+},
+{
+"text": "25",
+"href": "https://www.upballot.com/event-day-preview-ajax?year=2026&month=10&day=25&candidateId=68024"
+},
+{
+"text": "3",
+"href": "https://www.upballot.com/event-day-preview-ajax?year=2026&month=10&day=03&candidateId=68024"
+},
+{
+"text": "31",
+"href": "https://www.upballot.com/event-day-preview-ajax?year=2026&month=10&day=31&candidateId=68024"
+},
+{
+"text": "4",
+"href": "https://www.upballot.com/event-day-preview-ajax?year=2026&month=10&day=04&candidateId=68024"
+},
+{
+"text": "About Elizabeth 'Lilly'",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/friends-for-fuchs-1"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/Elizabeth-Fuchs"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "See More",
+"href": "https://www.mohousedems.com/calendar"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "[image: Elizabeth 'Lilly' Fuchs Logo]",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/elizabethfuchs?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61553632804092"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lillyforthelou/"
+},
+{
+"text": "[tooltip: Navigate to November 2026]",
+"href": "https://www.upballot.com/event-calendar-ajax?year=2026&month=11&candidateId=68024"
+},
+{
+"text": "[tooltip: Navigate to September 2026]",
+"href": "https://www.upballot.com/event-calendar-ajax?year=2026&month=09&candidateId=68024"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/profile.php?id=61553632804092"
+},
+{
+"text": "[tooltip: View Instagram Link]",
+"href": "https://www.instagram.com/lillyforthelou/"
+},
+{
+"text": "[tooltip: View Twitter Link]",
+"href": "https://twitter.com/elizabethfuchs?lang=en"
+},
+{
+"text": "[tooltip: View events by Calender view]",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/events"
+},
+{
+"text": "[tooltip: View events by Card view]",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/events?view=cards"
+},
+{
+"text": "lillyforthelou@gmail.com",
+"href": "mailto:lillyforthelou@gmail.com"
+},
+{
+"text": "tel:314-323-0584",
+"href": "tel:314-323-0584"
+}
 ]

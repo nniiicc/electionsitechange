@@ -1,6 +1,11 @@
-A Letter From Nate
-Friends,
-Alright — here we go.
+0 Skip to Content HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES Folder: ISSUES Back Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Nate for Niagara!
+I’m running for Assembly District 145 — my home.
+From Fort Niagara to the Wurlitzer Building, I’ll fight for all of it.
+Let’s go.
+Donate A Letter From Nate Friends, Alright — here we go.
 And yes, I’m smiling as I write this.
 I’m running for office again — for my home.
 For New York State Assembly District 145, which stretches from Grand Island through North Tonawanda and Wheatfield, up to Niagara Falls, and north to Lewiston and Youngstown.
@@ -46,7 +51,7 @@ That it can still happen locally — close to home, close to the people.
 I love all of Western New York — truly — from the edge of the Finger Lakes to the villages of the Southern Tier.
 To those who have supported me in the past, I’m forever grateful.
 But this race is about home.
-I love Grand Island, where I served as Supervisor and where I’m proud of what we accomplished together — protecting thousands of acres, building the West River Trail, creating the Welcome Center, and transforming a long-troubled industrial site into a thriving hotel.
+I love Grand Island , where I served as Supervisor and where I’m proud of what we accomplished together — protecting thousands of acres, building the West River Trail, creating the Welcome Center, and transforming a long-troubled industrial site into a thriving hotel.
 From Beaver Island to Buckhorn, Grand Island isn’t just where I live — it’s part of who I am.
 I love North Tonawanda and Wheatfield — where I grew up, where much of my family still lives, and where many of my ancestors first came to America to work at the Buffalo Bolt and Wurlitzer factories.
 I walked those streets every day — down Webster, along the canal.
@@ -92,3 +97,4 @@ Weekly volunteer meetings begin March 1.
 Sign up now.
 Let’s build something worthy of this place.
 Let’s go!
+Volunteer and Sign Up for Updates!

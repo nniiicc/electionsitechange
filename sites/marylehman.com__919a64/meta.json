@@ -1,9 +1,12 @@
 {
  "description": "Explore Delegate Mary Lehman's website for insights into her policy initiatives in Maryland's General Assembly, resources for District 21, and ways to connect, including a newsletter sign-up, all aimed at bettering the district and state.",
  "final_url": "https://www.marylehman.com/",
- "paid_for_by": null,
+ "fingerprint": "3819d5168650c19001db15383909bf2257ce65dd",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Delegate Mary A. Lehman (D-21) | Anne Arundel County, MD",
  "years_mentioned": [
+  "2022",
   "2024"
  ]
 }

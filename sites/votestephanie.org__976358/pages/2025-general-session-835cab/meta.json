@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://votestephanie.org/2025-general-session/",
- "paid_for_by": null,
+ "fingerprint": "9de6e2fe9b4bc17c518763ca33b2f4040f3d6b7e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "2025 General Session | Stephanie Gricius",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

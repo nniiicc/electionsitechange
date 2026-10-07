@@ -1,13 +1,7 @@
-$56.33
-This structured, high-profile snapback brings quiet campaign energy to everyday wear.
+Justin Griffis State Representative · MI 47 Home About Platform District Events Volunteer Vote Store Contact Donate ← Back to Store Justin Griffis Michigan Campaign Logo Baseball Hat $56.33 This structured, high-profile snapback brings quiet campaign energy to everyday wear.
 The front panel features bold, crisp lettering and a simple Michigan outline, giving the cap a focused, hometown spirit.
 The curved peak and tonal under-peak keep the look classic and wearable, while the adjustable snapback lets you dial in a comfortable fit.
 Wear it to rallies, neighborhood canvasses, or morning coffee runs — it settles into the day and stands ready when you want to show steady support without shouting.
 The tear-out label and clean stitching keep the silhouette tidy, so the design reads clearly from across a room.
-Product features
-- High-profile structured snapback for a defined front panel
-- Curved peak with tonal under-peak for a cohesive, classic look
-- Adjustable plastic snapback closure for an easy fit
-- Tear-out label and clean stitching for a tidy silhouette
-Care instructions
-- Machine wash: cold (max 30C or 90F)
+Product features - High-profile structured snapback for a defined front panel - Curved peak with tonal under-peak for a cohesive, classic look - Adjustable plastic snapback closure for an easy fit - Tear-out label and clean stitching for a tidy silhouette Care instructions - Machine wash: cold (max 30C or 90F) Option * Bone / One size — $56.33 Storm / One size — $56.33 Quantity Add to Cart Justin Griffis Common-sense Republican running for Michigan State Representative in the 47th District. f X IG Campaign About Justin Platform The 47th District Events Get Involved Donate Volunteer Voter Info Contact Contact General: [email protected] Press: [email protected] Paid for by Justin Griffis for State Representative · 9175 Dogwood Ln, Dexter, MI 48130 © # Justin Griffis for State Representative.
+All rights reserved.

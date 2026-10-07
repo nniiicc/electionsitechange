@@ -1,8 +1,15 @@
-Every time we go online, technology companies collect a staggering amount of our personal information.
+Skip to main content Skip to footer Opens in a new tab Home Meet Johnny Issues News Donate OPINION: New law will require Google, Meta and Tik Tok to be accountable to Tennesseans News | September 23, 2024 Every time we go online, technology companies collect a staggering amount of our personal information.
 This can include our purchases, location data, contact details, search and browsing histories, usage data, diagnostic information and financial information.
 While you may be aware that some of this data is being collected about you, it might come as a surprise that this information is not always kept private.
 A 2021 pCloud study called “Invasive apps” found that 52% of apps share your personal data with third parties.
 Social media and food delivery apps sold the most personal information.
 Instagram topped the list, sharing 79% of user data with other companies.
 Facebook and Instagram also both used the most information for targeted advertising to users on their respective platforms.
-Read Johnny’s article here.
+Read Johnny’s article here .
+Paid for by Johnny Garrett for Congress Please provide your mobile phone to opt-in to Johnny Garrett for Congress campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy

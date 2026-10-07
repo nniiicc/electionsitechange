@@ -1,29 +1,114 @@
 [
-"https://creativecommons.org/licenses/by-sa/4.0/deed.en",
-"https://dianneforcongress.org/doku.php?id=about",
-"https://dianneforcongress.org/doku.php?id=anti-racism",
-"https://dianneforcongress.org/doku.php?id=environmentalism",
-"https://dianneforcongress.org/doku.php?id=nonviolence",
-"https://dianneforcongress.org/doku.php?id=participatory_democracy",
-"https://dianneforcongress.org/doku.php?id=social_justice",
-"https://dianneforcongress.org/doku.php?id=start",
-"https://dianneforcongress.org/doku.php?id=testdownload",
-"https://dianneforcongress.org/doku.php?id=testdownload&do=backlink",
-"https://dianneforcongress.org/doku.php?id=testdownload&do=edit",
-"https://dianneforcongress.org/doku.php?id=testdownload&do=index",
-"https://dianneforcongress.org/doku.php?id=testdownload&do=login",
-"https://dianneforcongress.org/doku.php?id=testdownload&do=media&ns=0",
-"https://dianneforcongress.org/doku.php?id=testdownload&do=recent",
-"https://dianneforcongress.org/doku.php?id=testdownload&do=register",
-"https://dianneforcongress.org/doku.php?id=testdownload&do=revisions",
-"https://dianneforcongress.org/doku.php?id=volunteer_-_let_s_work_for_a_greenus",
-"https://dianneforcongress.org/doku.php?id=what_i_stand_for_-_a_greenus",
-"https://dianneforcongress.org/doku.php?id=wiki%3Awelcome",
-"https://dianneforcongress.org/lib/exe/fetch.php?media=wiki%3Adianne3.jpg",
-"https://dianneforcongress.org/lib/exe/fetch.php?media=wiki%3Adokuwiki-128.png",
-"https://dokuwiki.org/",
-"https://dokuwiki.org/donate",
-"https://jigsaw.w3.org/css-validator/check/referer?profile=css3",
-"https://php.net/",
-"https://validator.w3.org/check/referer"
+{
+"text": "Backlinks",
+"href": "https://dianneforcongress.org/doku.php?id=testdownload&do=backlink"
+},
+{
+"text": "CC Attribution-Share Alike 4.0 International",
+"href": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+},
+{
+"text": "Log In",
+"href": "https://dianneforcongress.org/doku.php?id=testdownload&do=login&sectok="
+},
+{
+"text": "Media Manager",
+"href": "https://dianneforcongress.org/doku.php?id=testdownload&do=media&ns=0"
+},
+{
+"text": "Old revisions",
+"href": "https://dianneforcongress.org/doku.php?id=testdownload&do=revisions"
+},
+{
+"text": "Recent Changes",
+"href": "https://dianneforcongress.org/doku.php?id=testdownload&do=recent"
+},
+{
+"text": "Register",
+"href": "https://dianneforcongress.org/doku.php?id=testdownload&do=register"
+},
+{
+"text": "Show pagesource",
+"href": "https://dianneforcongress.org/doku.php?id=testdownload&do=edit"
+},
+{
+"text": "Sitemap",
+"href": "https://dianneforcongress.org/doku.php?id=testdownload&do=index"
+},
+{
+"text": "[image: CC Attribution-Share Alike 4.0 International]",
+"href": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+},
+{
+"text": "[image: Donate]",
+"href": "https://www.dokuwiki.org/donate"
+},
+{
+"text": "[image: Driven by DokuWiki]",
+"href": "https://dokuwiki.org/"
+},
+{
+"text": "[image: Powered by PHP]",
+"href": "https://php.net"
+},
+{
+"text": "[image: Valid CSS]",
+"href": "https://jigsaw.w3.org/css-validator/check/referer?profile=css3"
+},
+{
+"text": "[image: Valid HTML5]",
+"href": "https://validator.w3.org/check/referer"
+},
+{
+"text": "[image]Dianne Blais for Congress!",
+"href": "https://dianneforcongress.org/doku.php?id=start"
+},
+{
+"text": "about",
+"href": "https://dianneforcongress.org/doku.php?id=about"
+},
+{
+"text": "anti-racism",
+"href": "https://dianneforcongress.org/doku.php?id=anti-racism"
+},
+{
+"text": "dianne3.jpg",
+"href": "https://dianneforcongress.org/lib/exe/fetch.php?media=wiki%3Adianne3.jpg"
+},
+{
+"text": "dokuwiki-128.png",
+"href": "https://dianneforcongress.org/lib/exe/fetch.php?media=wiki%3Adokuwiki-128.png"
+},
+{
+"text": "environmentalism",
+"href": "https://dianneforcongress.org/doku.php?id=environmentalism"
+},
+{
+"text": "nonviolence",
+"href": "https://dianneforcongress.org/doku.php?id=nonviolence"
+},
+{
+"text": "participatory_democracy",
+"href": "https://dianneforcongress.org/doku.php?id=participatory_democracy"
+},
+{
+"text": "social_justice",
+"href": "https://dianneforcongress.org/doku.php?id=social_justice"
+},
+{
+"text": "testdownload",
+"href": "https://dianneforcongress.org/doku.php?id=testdownload"
+},
+{
+"text": "volunteer_-_let_s_work_for_a_greenus",
+"href": "https://dianneforcongress.org/doku.php?id=volunteer_-_let_s_work_for_a_greenus"
+},
+{
+"text": "welcome",
+"href": "https://dianneforcongress.org/doku.php?id=wiki%3Awelcome"
+},
+{
+"text": "what_i_stand_for_-_a_greenus",
+"href": "https://dianneforcongress.org/doku.php?id=what_i_stand_for_-_a_greenus"
+}
 ]

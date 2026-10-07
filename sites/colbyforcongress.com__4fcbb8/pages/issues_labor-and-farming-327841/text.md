@@ -1,6 +1,4 @@
-top of page
-Economy
-Cut the red tape that strangles small businesses and the skilled trades.
+top of page VOTER INFO DONATE Home Meet Colby Issues Housing Economy Healthcare Corruption, Integrity, Accountability Education and Strong Schools Safe Communities Veterans Border & Immigration Foreign Policy Rights, Liberty, Freedoms Data Centers & AI Energy & Enviroment Events More Contact News More Use tab to navigate through the menu items. press to zoom press to zoom press to zoom press to zoom 1/8 Economy Cut the red tape that strangles small businesses and the skilled trades.
 Stop punishing the people who build, make, and fix things.
 Support American manufacturing and keep good-paying jobs here at home.
 Support the small businesses that Main Street runs on.
@@ -17,4 +15,5 @@ But for that system to remain strong and sustainable, it must also be fair.
 We need guardrails that prevent powerful corporations from gaming the system and extracting wealth from our communities without putting anything back.
 Let's put our focus back on the real economy, where people build businesses, make things, grow food, and create opportunity, instead of relying so heavily on speculative markets.
 A strong, sustainable economy is one where a hard day's work is enough to build a good life.
-bottom of page
+Colby Watson for Congress 2026 Contact: info@colbyforcongress.com Paid for by Colby Watson for Congress, without a cent of corporate interest money.
+Home About Issues Events Contact Shop Privacy Policy bottom of page

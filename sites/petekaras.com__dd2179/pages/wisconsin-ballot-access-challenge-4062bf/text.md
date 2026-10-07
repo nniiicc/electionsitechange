@@ -1,9 +1,6 @@
-Karas Campaign and Green Party Ask Federal Court to Strike Down Ballot Law That Hits Third Parties Hardest
-Amicus brief says 2025 Act 126 makes it harder and more expensive for smaller parties to get on the ballot
-FOR IMMEDIATE RELEASE
-September 22, 2026
-Contact: vote@petekaras.com | PeteKaras.com
-MUSKEGO, Wis. — Pete Karas, the Green Party candidate for Wisconsin Secretary of State, and the Wisconsin Green Party have filed a friend-of-the-court brief challenging a new state law they say creates another hurdle for minor-party candidates trying to get on the ballot.
+Home Pete Karas' Platform About Pete Volunteer Endorse Pete!
+News Contact Donate Home Pete Karas' Platform About Pete Volunteer Endorse Pete!
+News Contact Donate Karas Campaign and Green Party Ask Federal Court to Strike Down Ballot Law That Hits Third Parties Hardest Amicus brief says 2025 Act 126 makes it harder and more expensive for smaller parties to get on the ballot FOR IMMEDIATE RELEASE September 22, 2026 Contact: vote@petekaras.com | PeteKaras.com MUSKEGO, Wis. — Pete Karas, the Green Party candidate for Wisconsin Secretary of State, and the Wisconsin Green Party have filed a friend-of-the-court brief challenging a new state law they say creates another hurdle for minor-party candidates trying to get on the ballot.
 The brief was filed in Americans for Citizen Voting PAC v.
 Wolfe in the U.S.
 District Court for the Eastern District of Wisconsin.
@@ -22,8 +19,7 @@ The challenge failed, but Karas said defending himself cost his campaign about $
 We turned in nearly 3,000, and someone still tried to wipe them all out based on where they thought some of our volunteers lived,” Karas said.
 “We won, but it cost us $13,000.
 For a major party, that's probably a nuisance.
-For a campaign like ours, it is much more impactful.”
-The brief also argues that the law gives political opponents another way to challenge a candidate's nomination papers.
+For a campaign like ours, it is much more impactful.” The brief also argues that the law gives political opponents another way to challenge a candidate's nomination papers.
 The Wisconsin Elections Commission does not independently check the residency of every circulator.
 Private individuals can instead bring challenges.
 For the Green Party, the consequences can reach well beyond one candidate.
@@ -34,8 +30,7 @@ In 2020, the party's presidential ticket turned in nearly double the required si
 The party also faced an unsuccessful challenge to its presidential ballot status in 2024.
 “This is the kind of thing that makes it harder for smaller parties to survive,” Karas said.
 “You don't have to outlaw third parties.
-Just keep adding costs, lawyers and challenges until people decide it isn't worth running.”
-The brief also questions why Wisconsin requires residency for circulators of nomination papers and recall petitions while allowing nonresidents to circulate some other petitions.
+Just keep adding costs, lawyers and challenges until people decide it isn't worth running.” The brief also questions why Wisconsin requires residency for circulators of nomination papers and recall petitions while allowing nonresidents to circulate some other petitions.
 Karas and the Green Party argue the distinction makes no sense if the state's concern is fraud or ensuring circulators can be located for legal proceedings.
 Wisconsin has had a similar residency law before.
 A federal court struck down an earlier requirement in 2003 in Frami v.
@@ -43,11 +38,7 @@ Ponto, finding that it placed a significant burden on political participation an
 The Legislature later repealed the requirement.
 The Green Party's brief asks the federal court to declare the new residency requirement unconstitutional and block the state from enforcing it.
 “Wisconsin got rid of this requirement once before,” Karas said.
-“There is no good reason to bring it back now and make it harder for people outside the two major parties to get on the ballot.”
-Contact: vote@petekaras.com
-PeteKaras.com
-X: @petekaras | Facebook: @pete.karas.9 | Instagram: @petekaras_wi_sos | TikTok: @votepetekaras
-Pete Karas is the Green Party candidate for Wisconsin Secretary of State.
+“There is no good reason to bring it back now and make it harder for people outside the two major parties to get on the ballot.” Contact: vote@petekaras.com PeteKaras.com X: @petekaras | Facebook: @pete.karas.9 | Instagram: @petekaras_wi_sos | TikTok: @votepetekaras Pete Karas is the Green Party candidate for Wisconsin Secretary of State.
 His campaign accepts no corporate money.
-Media contact: vote@petekaras.com | PeteKaras.com
-Paid for by Pete for Wisconsin
+Media contact: vote@petekaras.com | PeteKaras.com Paid for by Pete for Wisconsin Paid for by Pete for Wisconsin | vote@petekaras.com Political websites by PoliEngine Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Save Changes View Details Quantity - + Sold Out

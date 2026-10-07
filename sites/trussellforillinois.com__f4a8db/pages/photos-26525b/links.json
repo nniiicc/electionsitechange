@@ -1,23 +1,86 @@
 [
-"https://i.campaignpartner.net/images/cdn_queue/141720/1b755942bc8a473290d403c74bdb8f85.jpeg",
-"https://i.campaignpartner.net/images/cdn_queue/141720/20ac2bfa77f14c59a8d52a28bc07c7ea.jpeg",
-"https://i.campaignpartner.net/images/cdn_queue/141720/4d94b6ba7ce04645b4a5253545bb3fe2.jpeg",
-"https://i.campaignpartner.net/images/cdn_queue/141720/5d1a17f805e2478e9c2ce5d2d9ae0f4d.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/141720/5f00d8561d2a4b3e946358e79aad388c.jpeg",
-"https://i.campaignpartner.net/images/cdn_queue/141720/74261bd1eabc4015825b5d0474365743.jpeg",
-"https://i.campaignpartner.net/images/cdn_queue/141720/b7597d8f75c54df8bfed65a615657e68.jpeg",
-"https://i.campaignpartner.net/images/cdn_queue/141720/c6e74368c1e641cbb5213237903684e4.jpeg",
-"https://i.campaignpartner.net/images/cdn_queue/141720/c70da6433dad4c87b0a3b25a6e179d40.jpeg",
-"https://i.campaignpartner.net/images/cdn_queue/141720/e38e2003fcca45f6acab5664153d7d05.jpeg",
-"https://trussellforillinois.com/",
-"https://trussellforillinois.com/contact",
-"https://trussellforillinois.com/contribute",
-"https://trussellforillinois.com/home",
-"https://trussellforillinois.com/make-endorsement",
-"https://trussellforillinois.com/meet",
-"https://trussellforillinois.com/news",
-"https://trussellforillinois.com/photos",
-"https://trussellforillinois.com/privacy-policy",
-"https://trussellforillinois.com/volunteer",
-"https://trussellforillinois.com/vote"
+{
+"text": "Contact",
+"href": "https://www.trussellforillinois.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.trussellforillinois.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://www.trussellforillinois.com/home"
+},
+{
+"text": "Make Endorsement",
+"href": "https://www.trussellforillinois.com/make-endorsement"
+},
+{
+"text": "Meet",
+"href": "https://www.trussellforillinois.com/meet"
+},
+{
+"text": "News",
+"href": "https://www.trussellforillinois.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.trussellforillinois.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.trussellforillinois.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.trussellforillinois.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.trussellforillinois.com/vote"
+},
+{
+"text": "[image: Stephanie Trussell for IL State Rep 42nd District]",
+"href": "https://www.trussellforillinois.com/"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/141720/1b755942bc8a473290d403c74bdb8f85.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/141720/20ac2bfa77f14c59a8d52a28bc07c7ea.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/141720/4d94b6ba7ce04645b4a5253545bb3fe2.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/141720/5d1a17f805e2478e9c2ce5d2d9ae0f4d.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/141720/5f00d8561d2a4b3e946358e79aad388c.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/141720/74261bd1eabc4015825b5d0474365743.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/141720/b7597d8f75c54df8bfed65a615657e68.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/141720/c6e74368c1e641cbb5213237903684e4.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/141720/c70da6433dad4c87b0a3b25a6e179d40.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/141720/e38e2003fcca45f6acab5664153d7d05.jpeg"
+}
 ]

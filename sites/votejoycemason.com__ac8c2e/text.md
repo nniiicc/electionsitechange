@@ -1,9 +1,5 @@
-Joyce Mason
-Proudly Representing Illinois’ 61st District Since 2019.
+0 Skip to Content Joyce Mason for State Representative Privacy Policy Home Donate Contact Us Open Menu Close Menu Joyce Mason for State Representative Privacy Policy Home Donate Contact Us Open Menu Close Menu Privacy Policy Home Donate Contact Us Joyce Mason Proudly Representing Illinois’ 61st District Since 2019.
 Since taking office in January 2019, Joyce Mason has worked tirelessly to represent the people of the 61st House District in Springfield, and to provide exceptional services to her constituents in-district.
-Mailing Address:
-Friends of Joyce Mason
-6615 Grand Avenue #215
-Gurnee, IL 60031
-Email:
-Info@VoteJoyceMason.com
+Mailing Address: Friends of Joyce Mason 6615 Grand Avenue #215 Gurnee, IL 60031 Email: Info@VoteJoyceMason.com “It is my great honor to represent the people of Illinois.
+Join me as I work to lift up families, protect workers’ rights, strengthen education, make healthcare accessible and affordable for all, protect our environment, and ensure that seniors and veterans are respected and cared for.” Friends of Joyce Mason Mailing Address: 6615 Grand Avenue #215 Gurnee, IL 60031 Info@VoteJoyceMason.com Click here to review our privacy policy.
+DONATE Click here to review our privacy policy.

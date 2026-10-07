@@ -1,26 +1,13 @@
-By providing your email and phone number, you agree to receive communications from Williams for Kentucky campaign about donating, getting involved, and voter outreach.
+Skip to Content Open Menu Close Menu Meet Drew Policies Agriculture --Farm Independence --Farm Markets --Farm Security --Farm Supports Economy & Jobs --Business Reform --Consumer Protections --Infrastructure --Labor Rights Family & Community --Child Advocacy --Education --Housing --Senior Accessibility Government & Democracy --Campaign Reform --Congressional Reform --Tax Policy Healthcare --Drug Pricing / Access --EMS --Health Insurance --Parental Care Military & Veterans --Military Funding --Military Parent's Reprieve --Veteran's Assistance Technology & AI --AI-Safety --Civil Rights & AI --Creator Ethics & AI --Data Centers --Human Rights & AI --Workers & AI Endorsements Drew News Volunteer Merch Calendar Contact 0 0 Donate Meet Drew Policies Agriculture --Farm Independence --Farm Markets --Farm Security --Farm Supports Economy & Jobs --Business Reform --Consumer Protections --Infrastructure --Labor Rights Family & Community --Child Advocacy --Education --Housing --Senior Accessibility Government & Democracy --Campaign Reform --Congressional Reform --Tax Policy Healthcare --Drug Pricing / Access --EMS --Health Insurance --Parental Care Military & Veterans --Military Funding --Military Parent's Reprieve --Veteran's Assistance Technology & AI --AI-Safety --Civil Rights & AI --Creator Ethics & AI --Data Centers --Human Rights & AI --Workers & AI Endorsements Drew News Volunteer Merch Calendar Contact 0 0 Donate Open Menu Close Menu Meet Drew Folder: Policies Back Agriculture --Farm Independence --Farm Markets --Farm Security --Farm Supports Economy & Jobs --Business Reform --Consumer Protections --Infrastructure --Labor Rights Family & Community --Child Advocacy --Education --Housing --Senior Accessibility Government & Democracy --Campaign Reform --Congressional Reform --Tax Policy Healthcare --Drug Pricing / Access --EMS --Health Insurance --Parental Care Military & Veterans --Military Funding --Military Parent's Reprieve --Veteran's Assistance Technology & AI --AI-Safety --Civil Rights & AI --Creator Ethics & AI --Data Centers --Human Rights & AI --Workers & AI Endorsements Drew News Volunteer Merch Calendar Contact Donate JoIN THE DREW CREW By providing your email and phone number, you agree to receive communications from Williams for Kentucky campaign about donating, getting involved, and voter outreach.
 Message frequency varies.
 Standard messages & data rates may apply.
 IT’S GOING TO TAKE ALL OF US TO MAKE THE CHANGE WE WANT TO SEE IN THE WORLD!
 YOU CAN COUNT ON ME!
 CAN I COUNT ON YOU?
-LET’S GET JOHN “DREW” WILLIAMS IN CONGRESS
-NO CORPORATIONS, JUST GRASSROOTS!
+LET’S GET JOHN “DREW” WILLIAMS IN CONGRESS NO CORPORATIONS, JUST GRASSROOTS!
 If you have saved your information with ActBlue Express, your donation will go through immediately.
-Contributions go to the Williams for Kentucky campaign.
-WHAT I STAND FOR
-SHOW YOUR SUPPORT.
-LOCAL & UNION MADE
-“I’ve been listening to people’s needs
-without political power.
-All I ask is
-that we come to the table (and work
-through) these issues with dignity;
-You deserve to trust your government.”
--John “Drew” Williams, Congressional Candidate at Fancy Farm 2025
-READY TO JOIN THE DREW CREW
-Get Connected with Neighbor-To-Neighbor Trainings!
-- Learn about methods to properly engage those in your circle
-- Get equipped with the latest physical and digital conversation tools
-- Understand how to keep debates simple, focused, and local
-- Build good debate and conversation practices to ensure effectiveness
+Contributions go to the Williams for Kentucky campaign. $125 OTHER $45 $15 WHAT I STAND FOR American Farm Resilience and Renewal Congressional Accountability & Integrity Workplace Dignity & Fair Compensation Prescription for Fairness: Fixing Drug Pricing Unleashing American Business Opportunity American Veterans Restoration Services 21st Century Infrastructure Modernization Data Center Development Regulation First Year's Childcare Care Network Tax Policy for the Everyday American Digital Age Consumer Protection Support Seniors and Ability Access Healthcare Insurance Reform The Power of the People Plan AMERICAN HOUSE PROMISE SHOW YOUR SUPPORT.
+LOCAL & UNION MADE SHOP “I’ve been listening to people’s needs without political power.
+All I ask is that we come to the table (and work through) these issues with dignity ; You deserve to trust your government.” -John “Drew” Williams, Congressional Candidate at Fancy Farm 2025 READY TO JOIN THE DREW CREW Get Connected with Neighbor-To-Neighbor Trainings!
+Learn about methods to properly engage those in your circle Get equipped with the latest physical and digital conversation tools Understand how to keep debates simple, focused, and local Build good debate and conversation practices to ensure effectiveness VOLUNTEER Calendar Oct 17 October 17, 2026 Hoptown 5K October 17, 2026 Read more → October 17, 2026 October 22, 2026 Webster County Meet & Greet October 22, 2026 Read more → October 22, 2026 WHAT ARE YOUR CONCERNS?
+TELL ME ABOUT IT Meet Drew Contact Us Donate by Mail Mutual Aid Policy Plans Volunteer Terms + Conditions Privacy Policy Paid for by Williams for Kentucky Campaign.

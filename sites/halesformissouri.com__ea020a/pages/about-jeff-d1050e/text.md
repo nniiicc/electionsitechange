@@ -1,5 +1,9 @@
-A Message From Jeff
-I’m Jeff Hales, running for State Representative in House District 86.
+Welcome to our Popular Political Party in New York.
+Join Our Team 80 Brooklyn Street, New York.
+USA needhelp@polikal.com Menu Search for: Search Home About Jeff Issues Contact DONATE Volunteers Get Involved!
+Shop Cart Checkout My Account Terms and Conditions Privacy Policy Home About Jeff Issues Contact DONATE Volunteers Get Involved!
+Shop Cart Checkout My Account Terms and Conditions Privacy Policy About Jeff Dedicated to the service of our community and track record of delivering progress and results!
+A Message From Jeff I’m Jeff Hales, running for State Representative in House District 86.
 Currently serving as Council Member for the 1st Ward of University City, I prioritize cooperation, understanding, and delivering results for our community.
 With a strong commitment to public service, I volunteered as an American Legion Baseball coach for a decade after a career-ending injury.
 I then served on the city’s Traffic Commission and became a Council Member for Ward 1 in University City in 2018.
@@ -8,3 +12,5 @@ I’ve also collaborated on projects bringing nearly $400 million of investment 
 In response to devastating flooding, I took action to hold the Metropolitan Sewer District accountable, talking with our Storm Water Commission Members, touring the debris filled channels and tunnels and pressing MSD to be accountable to rate payers for the maintenance of their infrastructure.
 In recent months, that has resulted in MSD’s removal of over 500 tons of debris from their channels and storm-water tunnels.
 Now, I’m running for State Representative to advocate for government transparency, promote economic development, and work for the rights for all of District 86 and all Missourians.
+Donors # + Volunteers # + Years of Service # + Effort Given # % All Rights Reserved.
+Developed by Progression Studios Scroll to top

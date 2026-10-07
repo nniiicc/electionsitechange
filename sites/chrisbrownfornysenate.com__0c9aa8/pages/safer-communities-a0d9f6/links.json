@@ -1,6 +1,22 @@
 [
-"https://chrisbrownfornysenate.com/events",
-"https://chrisbrownfornysenate.com/meet-chris",
-"https://facebook.com/profile.php?id=61579564391047",
-"https://secure.winred.com/christopher-brown-for-state-senate/donate-today"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/christopher-brown-for-state-senate/donate-today"
+},
+{
+"text": "EVENTS",
+"href": "https://chrisbrownfornysenate.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61579564391047"
+},
+{
+"text": "MEET CHRIS",
+"href": "https://chrisbrownfornysenate.com/meet-chris/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61579564391047"
+}
 ]

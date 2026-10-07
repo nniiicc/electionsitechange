@@ -1,34 +1,150 @@
 [
-"http://facebook.com/votejessielopez",
-"http://instagram.com/councilmember_jessielopez",
-"https://actionnetwork.org/forms/jlo-newsletter?clear_id=true",
-"https://actionnetwork.org/forms/volunteer-with-jessie-lopez-for-state-assembly?clear_id=true",
-"https://dropbox.com/scl/fi/prwicdr2hujrvpgtbkly6/jessie-lopez-for-state-assembly-b-roll.mp4?rlkey=f3tqhrd2npiktj7l3jw92xw3v&st=gtatlaos&dl=0",
-"https://facebook.com/VoteJessieLopez",
-"https://flic.kr/s/aHBqjCNv9U",
-"https://flickr.com/photos/110608414@N07/albums/72177720332617288",
-"https://instagram.com/councilmember_jessielopez",
-"https://laist.com/news/politics/santa-ana-officials-returned-state-grant-youth-programs-city-council",
-"https://ocregister.com/2026/02/20/santa-ana-overhauls-u-visa-certification-process-following-oversight-commission-review",
-"https://secure.actblue.com/donate/votejessielopez",
-"https://voiceofoc.org/2021/03/santa-ana-and-costa-mesa-move-forward-on-mandating-hazard-pay-for-grocery-clerks",
-"https://voiceofoc.org/2021/10/santa-ana-becomes-first-orange-county-city-with-rent-control",
-"https://voiceofoc.org/2024/12/santa-ana-looks-to-crack-down-on-short-term-rentals",
-"https://voiceofoc.org/2025/02/will-santa-ana-relaunch-an-advisory-group-to-strengthen-immigration-protections",
-"https://voiceofoc.org/2025/08/the-price-of-advertising-on-a-santa-ana-sidewalk",
-"https://votejessielopez.com/",
-"https://votejessielopez.com/about-jessie-lopez",
-"https://votejessielopez.com/candidate-statement",
-"https://votejessielopez.com/contact",
-"https://votejessielopez.com/endorsements",
-"https://votejessielopez.com/jessie-lopez-for-state-assembly-accomplishments-santa-ana-city-council",
-"https://votejessielopez.com/media",
-"https://votejessielopez.com/mobile-terms-of-service",
-"https://votejessielopez.com/news",
-"https://votejessielopez.com/privacy-policy-2",
-"https://votejessielopez.com/vote",
-"https://votejessielopez.org/lawnsign",
-"https://votejessielopez.us/newsletter",
-"https://votejessielopez.us/volunteer",
-"https://x.com/VoteJessieLopez"
+{
+"text": "About",
+"href": "https://www.votejessielopez.com/about-jessie-lopez/"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.votejessielopez.com/jessie-lopez-for-state-assembly-accomplishments-santa-ana-city-council/"
+},
+{
+"text": "Candidate Statement",
+"href": "https://www.votejessielopez.com/candidate-statement/"
+},
+{
+"text": "Contact",
+"href": "https://www.votejessielopez.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/votejessielopez"
+},
+{
+"text": "DONATE NOW!",
+"href": "https://secure.actblue.com/donate/votejessielopez"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejessielopez.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "http://www.facebook.com/votejessielopez"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/VoteJessieLopez"
+},
+{
+"text": "Get Involved",
+"href": "https://actionnetwork.org/forms/volunteer-with-jessie-lopez-for-state-assembly?clear_id=true"
+},
+{
+"text": "Get Involved!",
+"href": "https://votejessielopez.us/volunteer"
+},
+{
+"text": "Instagram",
+"href": "http://www.instagram.com/councilmember_jessielopez"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/councilmember_jessielopez"
+},
+{
+"text": "Media",
+"href": "https://www.votejessielopez.com/media/"
+},
+{
+"text": "Mobile Terms of Service",
+"href": "https://www.votejessielopez.com/mobile-terms-of-service/"
+},
+{
+"text": "News",
+"href": "https://votejessielopez.com/#news"
+},
+{
+"text": "News",
+"href": "https://votejessielopez.com/news"
+},
+{
+"text": "Photo Gallery",
+"href": "https://flickr.com/photos/110608414@N07/albums/72177720332617288"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejessielopez.com/privacy-policy-2/"
+},
+{
+"text": "Request A Lawn Sign",
+"href": "https://votejessielopez.org/lawnsign"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://www.votejessielopez.org/lawnsign"
+},
+{
+"text": "Source",
+"href": "https://laist.com/news/politics/santa-ana-officials-returned-state-grant-youth-programs-city-council"
+},
+{
+"text": "Source",
+"href": "https://voiceofoc.org/2021/03/santa-ana-and-costa-mesa-move-forward-on-mandating-hazard-pay-for-grocery-clerks/"
+},
+{
+"text": "Source",
+"href": "https://voiceofoc.org/2021/10/santa-ana-becomes-first-orange-county-city-with-rent-control/"
+},
+{
+"text": "Source",
+"href": "https://voiceofoc.org/2024/12/santa-ana-looks-to-crack-down-on-short-term-rentals/"
+},
+{
+"text": "Source",
+"href": "https://voiceofoc.org/2025/02/will-santa-ana-relaunch-an-advisory-group-to-strengthen-immigration-protections/"
+},
+{
+"text": "Source",
+"href": "https://voiceofoc.org/2025/08/the-price-of-advertising-on-a-santa-ana-sidewalk/"
+},
+{
+"text": "Source",
+"href": "https://www.ocregister.com/2026/02/20/santa-ana-overhauls-u-visa-certification-process-following-oversight-commission-review/"
+},
+{
+"text": "Subscribe",
+"href": "https://actionnetwork.org/forms/jlo-newsletter?clear_id=true"
+},
+{
+"text": "Subscribe",
+"href": "https://votejessielopez.us/newsletter"
+},
+{
+"text": "View Flickr Gallery",
+"href": "https://flic.kr/s/aHBqjCNv9U"
+},
+{
+"text": "Volunteer",
+"href": "https://votejessielopez.us/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.votejessielopez.com/vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/VoteJessieLopez"
+},
+{
+"text": "[image: Jessie Lopez Logo showing text and California with a star on District 68.]",
+"href": "https://www.votejessielopez.com"
+},
+{
+"text": "[image: Jessie Lopez for State Assembly]",
+"href": "https://www.flickr.com/photos/110608414@N07/albums/72177720332617288"
+},
+{
+"text": "[image: Thumbnail of Jessie Lopez sitting at a table in a colorful classroom with four teenagers, talking.]",
+"href": "https://www.dropbox.com/scl/fi/prwicdr2hujrvpgtbkly6/jessie-lopez-for-state-assembly-b-roll.mp4?rlkey=f3tqhrd2npiktj7l3jw92xw3v&st=gtatlaos&dl=0"
+}
 ]

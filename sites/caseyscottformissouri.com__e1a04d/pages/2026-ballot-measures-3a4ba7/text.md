@@ -1,77 +1,35 @@
-2026 Ballot Measures
-The following ballot measures have been certified for the August 4, 2026 primary election.
-Official Ballot Title Amendment 1
-[Proposed by Article IV, Section 47(c), Missouri Constitution (SJR 1, 2005)]
-[View Certificate of Official Ballot Title]
-Official Ballot Title:
-Shall Missouri continue for 10 years the one-tenth of one percent sales/use tax that is used for soil and water conservation and for state parks and historic sites, and resubmit this tax to the voters for approval in 10 years?
+0 Skip to Content Home About Meet Casey My Story Why I am Running Endorsements From the Community Issues Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Get Involved Volunteer Events & Outreach Request A Yard Sign Merch Contact Voter Information Election Dates MO Voting Center 2026 Ballot Measures Donate Open Menu Close Menu Home About Meet Casey My Story Why I am Running Endorsements From the Community Issues Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Get Involved Volunteer Events & Outreach Request A Yard Sign Merch Contact Voter Information Election Dates MO Voting Center 2026 Ballot Measures Donate Open Menu Close Menu Home Folder: About Back Meet Casey My Story Why I am Running Endorsements From the Community Folder: Issues Back Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Folder: Get Involved Back Volunteer Events & Outreach Request A Yard Sign Merch Contact Folder: Voter Information Back Election Dates MO Voting Center 2026 Ballot Measures Donate 2026 Ballot Measures The following ballot measures have been certified for the August 4, 2026 primary election.
+Official Ballot Title Amendment 1 [ full text ] [Proposed by Article IV, Section 47(c), Missouri Constitution (SJR 1, 2005)] [ View Certificate of Official Ballot Title ] Official Ballot Title: Shall Missouri continue for 10 years the one-tenth of one percent sales/use tax that is used for soil and water conservation and for state parks and historic sites, and resubmit this tax to the voters for approval in 10 years?
 The measure allows continued collection of the existing sales and use tax, which generates revenue of approximately $140 million annually.
-Fair Ballot Language:
-A “yes” vote will continue for 10 years the one-tenth of one percent sales/use tax that is used for soil and water conservation and for state parks and historic sites.
+Fair Ballot Language: A “yes” vote will continue for 10 years the one-tenth of one percent sales/use tax that is used for soil and water conservation and for state parks and historic sites.
 This will be resubmitted to the voters for approval in 10 years.
 A “no” vote will not continue this sales/use tax.
 If passed, this measure will not increase or decrease taxes.
-Official Ballot Title Amendment 2
-[Proposed by 103rd General Assembly (First Regular Session) HCS HJR 23 & 3]
-[View Certificate of Official Ballot Title]
-Official Ballot Title:
-Shall the Missouri Constitution be amended to:
-- require all charter counties, including Jackson County, to provide for the election of a county assessor; and
-- require assessors in all charter counties to comply with any training requirements established by general law?
+Official Ballot Title Amendment 2 [ full text ] [ Proposed by 103rd General Assembly (First Regular Session) HCS HJR 23 & 3 ] [ View Certificate of Official Ballot Title ] Official Ballot Title: Shall the Missouri Constitution be amended to: require all charter counties, including Jackson County, to provide for the election of a county assessor; and require assessors in all charter counties to comply with any training requirements established by general law?
 State and local governmental entities estimate no costs or savings.
-Fair Ballot Language:
-A “yes” vote will amend the Missouri Constitution to require that all charter counties, including Jackson County, elect a county assessor and that such assessors comply with training requirements established by state law.
+Fair Ballot Language: A “yes” vote will amend the Missouri Constitution to require that all charter counties, including Jackson County, elect a county assessor and that such assessors comply with training requirements established by state law.
 A “no” vote will not change the current constitutional provisions, which exempt Jackson County from the requirement to elect its assessor and do not require charter county assessors to follow training requirements under general law.
 If passed, this measure will have no impact on taxes.
-Official Ballot Title Amendment 4
-[Proposed by 103rd General Assembly (Second Extraordinary Session) HCS HJR 3]
-[View Certificate of Official Ballot Title]
-Official Ballot Title:
-Shall the Missouri Constitution be amended to:
-- Modify current requirements that a statewide majority of voters may approve initiative petitions to amend the constitution;
-- Require a majority of voters in each congressional district to approve initiative petitions to amend the constitution; and
-- Make available to each voter the full text of initiative petitions with their ballot?
+Official Ballot Title Amendment 4 [ full text ] [ Proposed by 103rd General Assembly (Second Extraordinary Session) HCS HJR 3 ] [ View Certificate of Official Ballot Title ] Official Ballot Title: Shall the Missouri Constitution be amended to: Modify current requirements that a statewide majority of voters may approve initiative petitions to amend the constitution; Require a majority of voters in each congressional district to approve initiative petitions to amend the constitution; and Make available to each voter the full text of initiative petitions with their ballot?
 The Department of Corrections estimates increased annual costs of up to $21,817.
 The Office of State Public Defender estimates an unknown fiscal impact.
 Other state governmental entities estimate no costs or savings.
 Local governmental entities estimate no costs or savings.
-Fair Ballot Language:
-A “yes” vote will amend the Missouri Constitution to:
-- modify current requirements of Article III and Article XII that a simple statewide majority of voters may approve initiative petitions to amend the constitution;
-- require a majority of voters in each congressional district to approve initiative petitions to amend the constitution; and
-- make available to each voter the full text of initiative petitions with their ballot.
+Fair Ballot Language: A “yes” vote will amend the Missouri Constitution to: modify current requirements of Article III and Article XII that a simple statewide majority of voters may approve initiative petitions to amend the constitution; require a majority of voters in each congressional district to approve initiative petitions to amend the constitution; and make available to each voter the full text of initiative petitions with their ballot.
 A “no” vote will not amend the Missouri Constitution to require majority approval in each congressional district for initiative petitions to amend the constitution or make available the full text of initiative petitions with the ballot.
 If passed, this measure will not increase or decrease taxes.
-Official Ballot Title Amendment 5
-[Proposed by 103rd General Assembly (Second Regular Session) SS SCS HCS HJR 173 & 174]
-[View Certificate of Official Ballot Title]
-Official Ballot Title:
-Shall the Missouri Constitution be amended to:
-- Require legislative phase-out of the individual state income tax based on revenue growth, and authorize the expansion of sales and use taxes;
-- Curtail constitutional limits on taxing goods and services; and
-- Require local tax rate cuts without reducing school funding if local sales tax revenue increases?
+Official Ballot Title Amendment 5 [ full text ] [ Proposed by 103rd General Assembly (Second Regular Session) SS SCS HCS HJR 173 & 174 ] [ View Certificate of Official Ballot Title ] Official Ballot Title: Shall the Missouri Constitution be amended to: Require legislative phase-out of the individual state income tax based on revenue growth, and authorize the expansion of sales and use taxes; Curtail constitutional limits on taxing goods and services; and Require local tax rate cuts without reducing school funding if local sales tax revenue increases?
 The proposal has no direct impact on state or local tax revenue.
 If passed, implementing legislation will have an unknown impact to state and local tax revenue.
 If implemented, state government entities expect a reduction of $57,000 annually in income tax check-off donations and implementation costs of at least $100,000.
-Fair Ballot Language:
-A “yes” vote will amend the Missouri Constitution to require legislative phase-out and elimination of the individual state income tax based on revenue growth, and authorize the expansion of sales and use taxes; curtail constitutional limits on taxing goods and services; and require local tax rate cuts without reducing school funding if local sales tax revenue increases.
+Fair Ballot Language: A “yes” vote will amend the Missouri Constitution to require legislative phase-out and elimination of the individual state income tax based on revenue growth, and authorize the expansion of sales and use taxes; curtail constitutional limits on taxing goods and services; and require local tax rate cuts without reducing school funding if local sales tax revenue increases.
 A “no” vote will not amend the Missouri Constitution to require legislative phase-out and elimination of the individual state income tax based on revenue growth; and will not authorize the expansion of sales and use taxes.
 At this time, the impact on taxes is unknown.
 The following ballot measures have been certified for the November 3, 2026 general election.
-Official Ballot Title Amendment 3
-[Proposed by 103rd General Assembly (First Regular Session) HCS HJR 73]
-[View Certificate of Official Ballot Title]
-Official Ballot Title:
-Shall the Missouri Constitution be amended to:
-- Repeal the 2024 voter-approved Amendment providing reproductive healthcare rights, including abortion through fetal viability;
-- Allow abortions for rape and incest (under twelve-weeks’ gestation), emergencies, and fetal anomalies;
-- Allow legislation regulating abortion;
-- Ensure parental consent for minors’ abortions;
-- Prohibit gender transition procedures for minors?
+Official Ballot Title Amendment 3 [ full text ] [ Proposed by 103rd General Assembly (First Regular Session) HCS HJR 73 ] [ View Certificate of Official Ballot Title ] Official Ballot Title: Shall the Missouri Constitution be amended to: Repeal the 2024 voter-approved Amendment providing reproductive healthcare rights, including abortion through fetal viability; Allow abortions for rape and incest (under twelve-weeks’ gestation), emergencies, and fetal anomalies; Allow legislation regulating abortion; Ensure parental consent for minors’ abortions; Prohibit gender transition procedures for minors?
 State governmental entities estimate no costs or savings.
 Greene County estimates it may experience an unknown increase in tax revenue.
 Other local governmental entities estimate no costs or savings.
-Fair Ballot Language:
-A “yes” vote will repeal Article I, Section 36, of the Missouri Constitution approved by the voters in 2024 which provided reproductive healthcare rights, including abortion through fetal viability; continue to ensure women’s ability to access medical care for medical emergencies, ectopic pregnancies, and miscarriages; allow legislation to regulate abortion providers and facilities to ensure health and safety; require informed and voluntary consent for an abortion, including parental or judicial consent for minors; allow restriction of abortions to cases of medical emergency, rape and incest under twelve weeks gestation, and fetal anomalies; prohibit public funding of abortions except in limited circumstances; and prohibit gender transition procedures for minors including gender transition surgeries, cross-sex hormones or puberty-blocking drugs, with exceptions for specific medical conditions.
+Fair Ballot Language: A “yes” vote will repeal Article I, Section 36, of the Missouri Constitution approved by the voters in 2024 which provided reproductive healthcare rights, including abortion through fetal viability; continue to ensure women’s ability to access medical care for medical emergencies, ectopic pregnancies, and miscarriages; allow legislation to regulate abortion providers and facilities to ensure health and safety; require informed and voluntary consent for an abortion, including parental or judicial consent for minors; allow restriction of abortions to cases of medical emergency, rape and incest under twelve weeks gestation, and fetal anomalies; prohibit public funding of abortions except in limited circumstances; and prohibit gender transition procedures for minors including gender transition surgeries, cross-sex hormones or puberty-blocking drugs, with exceptions for specific medical conditions.
 A “no” vote will leave Article I, Section 36, of the Missouri Constitution approved by voters in 2024 in place; will not limit abortion to cases of medical emergency, rape and incest under twelve weeks gestation, and fetal anomalies, but leave access to abortion available through fetal viability; will not prohibit gender transition procedures for minors.
 If passed, this measure will not increase or decrease taxes.

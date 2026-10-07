@@ -1,7 +1,26 @@
 [
-"https://facebook.com/profile.php?id=61589500910696",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://sandahlformn.com/",
-"https://sandahlformn.com/donate",
-"https://secure.actblue.com/donate/leanna-sandahl-1"
+{
+"text": "Donate",
+"href": "https://sandahlformn.com/donate"
+},
+{
+"text": "Home",
+"href": "https://sandahlformn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61589500910696"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "click here",
+"href": "https://secure.actblue.com/donate/leanna-sandahl-1"
+},
+{
+"text": "drop us a line",
+"href": "mailto:sandahlformn@gmail.com"
+}
 ]

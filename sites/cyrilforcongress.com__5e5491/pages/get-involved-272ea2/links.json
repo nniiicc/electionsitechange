@@ -1,18 +1,74 @@
 [
-"https://cyrilforcongress.com/",
-"https://cyrilforcongress.com/about",
-"https://cyrilforcongress.com/contact",
-"https://cyrilforcongress.com/endorsements",
-"https://cyrilforcongress.com/issues",
-"https://cyrilforcongress.com/news",
-"https://cyrilforcongress.com/privacy",
-"https://docs.google.com/forms/d/e/1FAIpQLSf1_pMXxz51ajvgcUTaJG19lhtjgxR6wDPLfQwLHlzJt3Wh2Q/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSfdX2vraA7xXuOK9UzK6cJS25XW9oIXLzzZqcZR-3oBHo4x1g/viewform?usp=header",
-"https://facebook.com/CyrilForCongress",
-"https://instagram.com/cyriljefferson?hl=en",
-"https://linkedin.com/in/cyril-jefferson-74405870",
-"https://secure.actblue.com/donate/c4cshirts",
-"https://secure.actblue.com/donate/cyril-jefferson-1",
-"https://secure.actblue.com/donate/jefferson-postage",
-"https://youtube.com/@Cyril.Jefferson"
+{
+"text": "About",
+"href": "https://www.cyrilforcongress.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.cyrilforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cyril-jefferson-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cyrilforcongress.com/endorsements"
+},
+{
+"text": "Help Deliver Our Message",
+"href": "https://secure.actblue.com/donate/jefferson-postage"
+},
+{
+"text": "Home",
+"href": "https://www.cyrilforcongress.com/"
+},
+{
+"text": "Host an Event",
+"href": "https://www.cyrilforcongress.com/contact"
+},
+{
+"text": "Issues",
+"href": "https://www.cyrilforcongress.com/issues"
+},
+{
+"text": "Join the Team Today",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfdX2vraA7xXuOK9UzK6cJS25XW9oIXLzzZqcZR-3oBHo4x1g/viewform?usp=header"
+},
+{
+"text": "News",
+"href": "https://www.cyrilforcongress.com/news"
+},
+{
+"text": "Privacy",
+"href": "https://www.cyrilforcongress.com/privacy"
+},
+{
+"text": "Purchase a Cyril for Congress T-Shirt",
+"href": "https://secure.actblue.com/donate/c4cshirts"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf1_pMXxz51ajvgcUTaJG19lhtjgxR6wDPLfQwLHlzJt3Wh2Q/viewform?usp=header"
+},
+{
+"text": "[image: Cyril Jefferson for Congress | Proven Leadership for North Carolina’s 6th District]",
+"href": "https://www.cyrilforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/CyrilForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/cyriljefferson/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/cyril-jefferson-74405870/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Cyril.Jefferson"
+}
 ]

@@ -1,24 +1,106 @@
 [
-"https://facebook.com/scotttjacksonforga",
-"https://instagram.com/scotttjacksonforga",
-"https://linkedin.com/in/scotttjackson",
-"https://scotttjacksonforga.com/",
-"https://scotttjacksonforga.com/Priorities/economic-opprotunity",
-"https://scotttjacksonforga.com/Priorities/education-workforce",
-"https://scotttjacksonforga.com/Priorities/healthcare-access",
-"https://scotttjacksonforga.com/Priorities/infrastructure",
-"https://scotttjacksonforga.com/Priorities/responsible-government",
-"https://scotttjacksonforga.com/Priorities/safe-communities",
-"https://scotttjacksonforga.com/contact-us",
-"https://scotttjacksonforga.com/endorse-scott",
-"https://scotttjacksonforga.com/event-type/action-alert",
-"https://scotttjacksonforga.com/event/early-voting-begins-on-september-19th-2020",
-"https://scotttjacksonforga.com/events",
-"https://scotttjacksonforga.com/meet-scott",
-"https://scotttjacksonforga.com/news",
-"https://scotttjacksonforga.com/priorities",
-"https://scotttjacksonforga.com/privacy-policy",
-"https://scotttjacksonforga.com/terms-and-conditions",
-"https://scotttjacksonforga.com/volunteer",
-"https://secure.actblue.com/donate/scotttjacksonforga"
+{
+"text": "Action alert",
+"href": "https://scotttjacksonforga.com/event-type/action-alert/"
+},
+{
+"text": "Contact Us",
+"href": "https://scotttjacksonforga.com/contact-us/"
+},
+{
+"text": "Contact the Campaign: (404) 953-5268",
+"href": "tel:14049535268"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/scotttjacksonforga"
+},
+{
+"text": "Early Voting Begins on September 2020",
+"href": "https://scotttjacksonforga.com/event/early-voting-begins-on-september-19th-2020/"
+},
+{
+"text": "Economic Opprotunity",
+"href": "https://scotttjacksonforga.com/Priorities/economic-opprotunity/"
+},
+{
+"text": "Education & Workforce",
+"href": "https://scotttjacksonforga.com/Priorities/education-workforce/"
+},
+{
+"text": "Email: info@scotttjacksonforga.com",
+"href": "mailto:info@scotttjacksonforga.com"
+},
+{
+"text": "Endorse Scott",
+"href": "https://scotttjacksonforga.com/endorse-scott/"
+},
+{
+"text": "Events",
+"href": "https://scotttjacksonforga.com/events/"
+},
+{
+"text": "Healthcare Access",
+"href": "https://scotttjacksonforga.com/Priorities/healthcare-access/"
+},
+{
+"text": "Home",
+"href": "https://scotttjacksonforga.com/"
+},
+{
+"text": "Infrastructure",
+"href": "https://scotttjacksonforga.com/Priorities/infrastructure/"
+},
+{
+"text": "Meet Scott",
+"href": "https://scotttjacksonforga.com/meet-scott/"
+},
+{
+"text": "News",
+"href": "https://scotttjacksonforga.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://scotttjacksonforga.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://scotttjacksonforga.com/privacy-policy/"
+},
+{
+"text": "Responsible Government",
+"href": "https://scotttjacksonforga.com/Priorities/responsible-government/"
+},
+{
+"text": "Safe Communities",
+"href": "https://scotttjacksonforga.com/Priorities/safe-communities/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://scotttjacksonforga.com/terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://scotttjacksonforga.com/volunteer/"
+},
+{
+"text": "[image: Scott T. Jackson for GA][image: Scott T. Jackson for GA]",
+"href": "https://scotttjacksonforga.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/scotttjacksonforga/"
+},
+{
+"text": "[tooltip: Go to Early Voting Begins on September 2020]",
+"href": "https://scotttjacksonforga.com/event/early-voting-begins-on-september-19th-2020/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/scotttjacksonforga"
+},
+{
+"text": "[tooltip: LinkedIn]",
+"href": "https://www.linkedin.com/in/scotttjackson"
+}
 ]

@@ -1,11 +1,2 @@
-Home
-About
-Issues
-Volunteer
-Yard Signs
-Updates
-Event
-More
-Contact Information:
-Phone: 515.446.9676
-Email: bill@gustoff4iowa.com
+top of page Home About Issues Volunteer Yard Signs Updates Event More Use tab to navigate through the menu items.
+Donate Today Volunteer Join The Campaign Contact Information: Phone: 515.446.9676 Email: bill@gustoff4iowa.com First Name Last Name Email Interest Send Home About Issues Volunteer Updates Donate Bill Gustoff for Iowa bill@gustoff4iowa.com 515.446.9676 PAID FOR BY GUSTOFF FOR IOWA bottom of page

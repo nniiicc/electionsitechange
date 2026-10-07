@@ -1,5 +1,7 @@
-Text Policy
-Friends of Mike Vick (“Friends of Mike Vick”, “We,” “Us,” “Our”) is offering a mobile messaging program (“Texts”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+0 Skip to Content Meet Mike Meet Gary Volunteer Values Priorities Events PODCAST News Follow Us Our Party Contact CONTRIBUTE!
+Open Menu Close Menu Meet Mike Meet Gary Volunteer Values Priorities Events PODCAST News Follow Us Our Party Contact CONTRIBUTE!
+Open Menu Close Menu Meet Mike Meet Gary Volunteer Values Priorities Events PODCAST News Follow Us Our Party Contact CONTRIBUTE!
+Text Policy Friends of Mike Vick (“Friends of Mike Vick”, “We,” “Us,” “Our”) is offering a mobile messaging program (“Texts”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in Texts or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of Texts.
 User Opt In: Texts allows users to receive SMS mobile messages by users affirmatively opting into Texts, such as through online enrollment forms or by texting a keyword to info@votevickusa.com or any successor short code to opt into Texts.
 Regardless of the opt-in method you utilized to join Texts, you agree that these Terms apply to your participation in Texts.
@@ -11,8 +13,8 @@ Cost and Frequency: Message and data rates may apply.
 Texts involves mobile messages, and additional mobile messages may be sent based on your interaction with Us.
 Message frequency varies.
 Carriers are not liable for delivered or undelivered messages.
-Contact Information: For support text “HELP” to info@votevickusa.com, or to any of Our mobile messages, or email info@votevickusa.com.
-User Opt Out and Additional Commands: To opt out (discontinue participation in Program), reply “STOP” to info@votevickusa.com, or to any of Our mobile messages from your mobile device.
+Contact Information: For support text “HELP” to info@votevickusa.com , or to any of Our mobile messages, or email info@votevickusa.com .
+User Opt Out and Additional Commands: To opt out (discontinue participation in Program), reply “STOP” to info@votevickusa.com , or to any of Our mobile messages from your mobile device.
 This is the easiest and preferred method to opt out of Texts.
 You may receive an additional mobile message confirming your decision to opt out.
 You may also opt out by texting “QUIT”, “END”, “CANCEL”, “UNSUBSCRIBE”, or “STOP ALL” to or to any of Our mobile messages you receive, or by contacting Us via the means provided above and clearly communicating your intent to unsubscribe from Texts.
@@ -21,7 +23,7 @@ MMS Disclosure: Texts will send SMS MTs if your mobile device does not support M
 Our Warranty: We will not be liable for any delays or failures in the receipt of any mobile messages connected with this Program.
 Delivery of mobile messages is subject to effective transmission from your wireless service provider/network operator and is outside of Our control.
 Privacy Policy: We respect your right to privacy.
-You can view our privacy policy here (www.votevickusa.com/privacy-policy).
+You can view our privacy policy here ( www.votevickusa.com/privacy-policy ).
 We will only use information you provide to transmit your mobile messages and respond to you, if necessary.
 WE DO NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS OR CUSTOMER INFORMATION COLLECTED THROUGH TEXTS TO ANY THIRD PARTY.
 Nonetheless, We reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect Our rights or property.
@@ -57,3 +59,9 @@ We reserve the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in Texts after any such changes, you accept these Terms, as modified.
+Join the conversation!
+Send me your comments and questions below!
+Contact Friends of Mike Vick Illinois: (217) 886-8850 National: (202) 525-6336 2501 Chatham Rd #6744 Springfield, IL, 62704 (Address for Physical Mail Only) ©#, Friends of Mike Vick.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website or for purchase from the State Board of Elections, Springfield, Illinois.
+Proceeds from contributions made via this site will be used for the expenses of Mike Vick, candidate for governor of Illinois, and his running mate, Gary Pierce, candidate for lieutenant governor of Illinois.
+VoteVickUSA.com Design by Inscape .

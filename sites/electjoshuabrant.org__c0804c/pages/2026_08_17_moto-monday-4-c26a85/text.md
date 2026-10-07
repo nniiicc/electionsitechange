@@ -1,14 +1,6 @@
-For Indiana State Senate District 23…
-Published by
-J.R.
-Brant
-on
-Candidate for Indiana State Senate District 23, Joshua Brant, talks about seizing the moment and building the future you want.
-Hi,
-Enter your email below to receive updates.
-Type your email…
-Subscribe
-Subscribe now to keep reading and get access to the full archive.
-Type your email…
-Subscribe
-Continue reading
+For Indiana State Senate District 23… Elect Joshua Brant Search News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Moto Monday Moto Monday 4 Published by J.R.
+Brant on August 17, 2026 Candidate for Indiana State Senate District 23, Joshua Brant, talks about seizing the moment and building the future you want.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply ← Previous: Outreach Video Next: The PAC Video → Hi, I’m Joshua Brant Let’s connect Facebook TikTok Instagram X YouTube LinkedIn Reddit Nextdoor Discord Subscribe Enter your email below to receive updates.
+Type your email… Subscribe Recent posts Early Voting Message to Voters Prosperity Indiana Candidate Survey The Republican Primary Fight Continues Hump Day Update (09/09/26) Summit Summation Part 3 Summit Summation Part 2 Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Paid for by the Committee to Elect Joshua Brant .
+Discover more from Elect Joshua Brant Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading %d

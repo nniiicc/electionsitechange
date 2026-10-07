@@ -1,10 +1,2 @@
-Signed in as:
-filler@godaddy.com
-Sign out
-Signed in as:
-filler@godaddy.com
-Account
-Sign out
-Copyright © 2026 Alan Thomas for Alabama House District 50 - All Rights Reserved.
-Paid for by the Alan Thomas for HD50 Committee
-Powered by
+Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Home Meet Alan Defending your rights Events Shop More Home Meet Alan Defending your rights Events Shop Sign In Create Account Orders My Account Signed in as: filler@godaddy.com Orders My Account Sign out Signed in as: filler@godaddy.com Home Meet Alan Defending your rights Events Shop Account Orders My Account Sign out Sign In Orders My Account Privacy Policy Privacy Policy coming soon Copyright © # Alan Thomas for Alabama House District 50 - All Rights Reserved.
+Paid for by the Alan Thomas for HD50 Committee Powered by Privacy Policy Terms and Conditions

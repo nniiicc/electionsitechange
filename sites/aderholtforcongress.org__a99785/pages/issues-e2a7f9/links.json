@@ -1,17 +1,70 @@
 [
-"https://act.aderholtforcongress.org/american-defense?amount=25",
-"https://act.aderholtforcongress.org/broadband-petition?amount=25",
-"https://act.aderholtforcongress.org/china-must-be-held-accountable?amount=25",
-"https://act.aderholtforcongress.org/pro-life-petition?amount=25",
-"https://act.aderholtforcongress.org/stand-for-second-amendment?amount=25",
-"https://act.aderholtforcongress.org/stand-with-law-enforcement-petition?amount=25",
-"https://act.aderholtforcongress.org/stand-with-trump-and-republicans?amount=25",
-"https://aderholtforcongress.org/",
-"https://aderholtforcongress.org/about-robert",
-"https://aderholtforcongress.org/contact-me",
-"https://aderholtforcongress.org/issues",
-"https://aderholtforcongress.org/press",
-"https://aderholtforcongress.org/registered-to-vote%3F",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://secure.winred.com/robert-aderholt-for-congress/reelect-robert-aderholt"
+{
+"text": "About Robert",
+"href": "https://aderholtforcongress.org/about-robert"
+},
+{
+"text": "Contact Me",
+"href": "https://aderholtforcongress.org/contact-me"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/robert-aderholt-for-congress/reelect-robert-aderholt/"
+},
+{
+"text": "DO YOU AGREE AMERICA SHOULD MAINTAIN GLOBAL LEADERSHIP?",
+"href": "https://act.aderholtforcongress.org/american-defense/?amount=25"
+},
+{
+"text": "Donate Now to Help Robert Fight for Your Priorities",
+"href": "https://secure.winred.com/robert-aderholt-for-congress/reelect-robert-aderholt/"
+},
+{
+"text": "Home",
+"href": "https://aderholtforcongress.org/"
+},
+{
+"text": "Issues",
+"href": "https://aderholtforcongress.org/issues"
+},
+{
+"text": "Press",
+"href": "https://aderholtforcongress.org/press"
+},
+{
+"text": "Registered to Vote?",
+"href": "https://aderholtforcongress.org/registered-to-vote%3F"
+},
+{
+"text": "Sign the Petition → Expand Rural Broadband",
+"href": "https://act.aderholtforcongress.org/broadband-petition/?amount=25"
+},
+{
+"text": "Sign the Petition → Hold Russia and China Accountable",
+"href": "https://act.aderholtforcongress.org/china-must-be-held-accountable/?amount=25"
+},
+{
+"text": "Sign the Petition → I Stand With the Second Amendment",
+"href": "https://act.aderholtforcongress.org/stand-for-second-amendment/?amount=25"
+},
+{
+"text": "Sign the Petition → I Trust the GOP to Rebuild our Economy",
+"href": "https://act.aderholtforcongress.org/stand-with-trump-and-republicans/?amount=25"
+},
+{
+"text": "Sign the Petition → Stand With Law Enforcement",
+"href": "https://act.aderholtforcongress.org/stand-with-law-enforcement-petition/?amount=25"
+},
+{
+"text": "Sign the Petition → Stand for Life",
+"href": "https://act.aderholtforcongress.org/pro-life-petition/?amount=25"
+},
+{
+"text": "[image]",
+"href": "https://aderholtforcongress.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

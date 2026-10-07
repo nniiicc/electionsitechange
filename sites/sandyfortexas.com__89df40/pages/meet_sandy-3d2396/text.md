@@ -1,5 +1,4 @@
-Meet Sandy
-Sandy Ibáñez is a fifth-generation Texan (Tejana) and a lifelong resident of Fort Bend County.
+Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Meet Sandy Sandy Ibáñez is a fifth-generation Texan (Tejana) and a lifelong resident of Fort Bend County.
 A proud product of the local public school system, Sandy graduated from Bush High School before earning a Bachelor of Business Administration in Management and Entrepreneurship from the University of Houston’s C.T.
 Bauer College of Business and the Wolff Center for Entrepreneurship.
 She also holds an MBA from Western Governors University and recently completed the Rice Advanced Management Program.
@@ -24,7 +23,8 @@ She is running for the Texas House because representation matters.
 Sandy believes we need leaders who understand how valuable access to education is, whether through traditional college, career and technical education, or apprenticeships.
 She knows how essential it is to have affordable health care and mental health services and how vital community programs are that feed families, provide school lunches, and keep the lights on.
 Sandy Ibáñez is running to be the voice for those who feel unheard, the advocate for families across Fort Bend County, and the leader who will stand up for accountability, community and transparency.
-She is equipped with the experience and determination to show up, speak out, and stand with the people of Texas House District 28 because who we elect matters!
-*Disclaimer: Texas’s electronic voting and ballot printing systems do not support diacritical marks (e.g., á, ñ).
+She is equipped with the experience and determination to show up, speak out, and stand with the people of Texas House District 28 because who we elect matters! *Disclaimer: Texas’s electronic voting and ballot printing systems do not support diacritical marks (e.g., á, ñ).
 As a result, candidate names are printed without these marks to ensure accuracy and consistency across all voting materials.
 Therefore, “Ibáñez” will appear as “Ibanez” on the ballot and in some campaign communications.
+Voter Information Texas House District 28 Endorse Sandy!
+Donate via Zelle or Check Endorsements Yard Signs Committee to Elect Sandy Ibanez POLITICAL AD PAID FOR BY THE SANDY IBANEZ CAMPAIGN Powered by CampaignPartner.com - Political Campaign Websites Home Meet Sandy Issues Updates Volunteer | Get Involved Contribute Contact Close Menu

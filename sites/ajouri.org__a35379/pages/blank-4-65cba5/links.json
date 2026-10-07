@@ -1,17 +1,70 @@
 [
-"https://ajouri.org/",
-"https://ajouri.org/aboutme",
-"https://ajouri.org/blank-2",
-"https://ajouri.org/blank-3",
-"https://ajouri.org/donate",
-"https://ajouri.org/volunteer",
-"https://facebook.com/Ajouri24B",
-"https://facebook.com/WixStudio",
-"https://instagram.com/ajouri24b",
-"https://instagram.com/wix",
-"https://linkedin.com/company/wix-com",
-"https://tiktok.com/@wix",
-"https://twitter.com/WixStudio",
-"https://x.com/Ajouri24B",
-"https://youtube.com/user/Wix"
+{
+"text": "About Me",
+"href": "https://www.ajouri.org/aboutme"
+},
+{
+"text": "Contact",
+"href": "https://www.ajouri.org/blank-3"
+},
+{
+"text": "Donate",
+"href": "https://www.ajouri.org/donate"
+},
+{
+"text": "Home",
+"href": "https://www.ajouri.org"
+},
+{
+"text": "John Michael",
+"href": "https://www.ajouri.org"
+},
+{
+"text": "News & Events",
+"href": "https://www.ajouri.org/blank-2"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ajouri.org/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Ajouri24B"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/ajouri24b"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix/"
+},
+{
+"text": "[image: John website main page picture.png]",
+"href": "https://www.ajouri.org"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@wix"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/WixStudio"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/Ajouri24B"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/user/Wix"
+}
 ]

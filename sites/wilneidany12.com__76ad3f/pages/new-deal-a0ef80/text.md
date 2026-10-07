@@ -1,12 +1,8 @@
-A New Deal for the
-21st Century.
+👋 About Wilneida Home “For All of Us” 👋 About Wilneida NY-12 Commons 100 Day Agenda Plan & Vision 2026 100 Day Agenda New Deal New Deal VS Project 2025 Contribute Contribute Contribute Contribute SDA Plan 2026 A New Deal for the 21st Century.
 Stability.
 Dignity.
 Accountability.
-"The test of our progress is not whether we add more to the abundance of those who have much — it is whether we provide enough for those who have too little." — FDR
-The Framework
-Why Life Costs So Much—and How We Fix It
-America's economy isn't broken.
+"The test of our progress is not whether we add more to the abundance of those who have much — it is whether we provide enough for those who have too little." — FDR Read the Full Plan Read the Full Plan First 100 Days First 100 Days The Framework Why Life Costs So Much—and How We Fix It America's economy isn't broken.
 It's been rewired.
 It used to circulate money through workers, families, and communities.
 Now it pulls money up and out — and calls it growth.
@@ -19,49 +15,32 @@ We had 4–4.5% GDP growth when the rules made money circulate.
 We have had about 2% growth since the rules changed to let it pool at the top instead.
 Fairness and growth aren't in tension here.
 They're the same fix.
-How Extraction Works
-Five Ways the Economy Has Been Rewired Against You
-You feel all five of these every day, even if the mechanics stay hidden.
-01
-Wage Compression
-The "Steal It at the Source" Problem
-Since 1979, worker productivity has grown three and a half times faster than worker pay. $50 billion a year is stolen from workers through unpaid overtime, stolen tips, and wages paid below minimum wage — more than all robbery, burglary, and car theft combined.
+How Extraction Works Five Ways the Economy Has Been Rewired Against You You feel all five of these every day, even if the mechanics stay hidden.
+First Month AGENDA 01 Wage Compression The "Steal It at the Source" Problem Since 1979, worker productivity has grown three and a half times faster than worker pay. $50 billion a year is stolen from workers through unpaid overtime, stolen tips, and wages paid below minimum wage — more than all robbery, burglary, and car theft combined.
 The Fix: Enforce wage theft like theft.
 Build in the right to know when an algorithm is managing you.
 Make sure that when AI makes workers more productive, workers share in that gain.
-02
-Rent Capture
-The "Bought Up Everything You Need" Problem
-Two companies control 70% of the dialysis market.
+First Month AGENDA 02 Rent Capture The "Bought Up Everything You Need" Problem Two companies control 70% of the dialysis market.
 Wall Street bought up single-family homes and drove rents up 35–44% in targeted cities.
 When that few players control that much, they don't compete.
 They extract.
 The Fix: Antitrust enforcement with teeth.
 A monopoly isn't a free market.
 It is a private tax on everyone who has no alternative.
-03
-Externalized Costs
-The "Privatize the Gains, Socialize the Pain" Problem
-One family extracted more than $10 billion from an opioid company while their drugs killed hundreds of thousands.
-Private equity firms bought nursing homes, cut staff, and raised mortality by an estimated 10%.
+First Month AGENDA 03 Externalized Costs The "Privatize the Gains, Socialize the Pain" Problem One family extracted more than $# billion from an opioid company while their drugs killed hundreds of thousands.
+Private equity firms bought nursing homes, cut staff, and raised mortality by an estimated #%.
 The investors made money.
 The families buried their loved ones.
 The Fix: When private risk becomes public catastrophe, the people who can least afford it get hurt worst.
 That is what regulation is for.
-04
-Public Subsidy Capture
-The "We Built It, They Kept It" Problem
-The internet was built with public money.
+First Month AGENDA 04 Public Subsidy Capture The "We Built It, They Kept It" Problem The internet was built with public money.
 GPS was built with public money.
 The research behind AI — funded in significant part by taxpayers.
 The returns went to private shareholders.
 And the deal keeps getting renewed.
 The Fix: Close the tax gap, apply the rules uniformly.
 That is arithmetic, not ideology.
-05
-The Care Crisis
-The "We Take What You Give and Pay You Nothing" Problem
-Family caregivers — mostly women, disproportionately immigrants and people of color — provide an estimated $600 billion in unpaid care annually.
+First Month AGENDA 05 The Care Crisis The "We Take What You Give and Pay You Nothing" Problem Family caregivers — mostly women, disproportionately immigrants and people of color — provide an estimated $600 billion in unpaid care annually.
 The median home health aide earns $14.50 an hour.
 Annual turnover in the caregiving workforce runs 40–60%.
 The economy runs on this labor and has never compensated the people doing it.
@@ -69,8 +48,7 @@ The Fix: Pay care workers what their work is worth.
 Build portable benefits.
 Fix Medicaid reimbursement.
 Build federal infrastructure for family caregivers.
-"They compressed your wages, bought up everything you need and charged you what they wanted, kept the profits when it worked and handed you the bill when it didn't — and built an entire economy on the unpaid and underpaid labor of the people who care for us, then told those people it was a calling, not a job."
-It isn't.
+"They compressed your wages, bought up everything you need and charged you what they wanted, kept the profits when it worked and handed you the bill when it didn't — and built an entire economy on the unpaid and underpaid labor of the people who care for us, then told those people it was a calling, not a job." It isn't.
 It is a set of policy choices.
 And policy choices can be changed.
 And these five mechanisms don't stop at the border.
@@ -79,94 +57,100 @@ Wage compression becomes labor arbitrage.
 Rent capture becomes tax havens and patent regimes.
 Externalized costs become somebody else's air.
 The same machinery, running at a scale no single country regulates alone.
-The Cross-Aisle Test
-In Plain Language
-These are not ideological positions.
+The Cross-Aisle Test In Plain Language These are not ideological positions.
 They are the answers the American electorate gives when the questions are asked without partisan framing.
 They are the foundation of every policy in this plan.
 Should wage theft be treated as theft?
-YES
-Should the same income be taxed at the same rate regardless of how many lawyers structured it?
-YES
-Should a market where four players control 75% of capitalization be called competitive?
-NO
-Should ordinary workers' retirement savings be put into opaque, high-fee markets without public market protections?
-NO
-Should the government collect the $696 billion in taxes already legally owed before cutting programs people depend on?
-YES
-Should companies that build on public research pay taxes proportionate to what they extract from the public system?
-YES
-Should a drug that costs $6 to make cost $2,000 to access?
-NO
-Should workers know when an algorithm is managing them and have the right to contest it?
-YES
-Should the people providing $600 billion in unpaid care annually receive any public support?
-YES
-Should care workers earning $14.50 an hour be paid more for some of the most essential work in the country?
-YES
-Should the same human rights law apply to allies and adversaries alike?
-YES
-Should Congress vote on wars before we fight them?
-YES
-The Plan
-Eleven Pillars.
+YES Should the same income be taxed at the same rate regardless of how many lawyers structured it?
+YES Should a market where four players control 75% of capitalization be called competitive?
+NO Should ordinary workers' retirement savings be put into opaque, high-fee markets without public market protections?
+NO Should the government collect the $696 billion in taxes already legally owed before cutting programs people depend on?
+YES Should companies that build on public research pay taxes proportionate to what they extract from the public system?
+YES Should a drug that costs $6 to make cost $2,000 to access?
+NO Should workers know when an algorithm is managing them and have the right to contest it?
+YES Should the people providing $600 billion in unpaid care annually receive any public support?
+YES Should care workers earning $14.50 an hour be paid more for some of the most essential work in the country?
+YES Should the same human rights law apply to allies and adversaries alike?
+YES Should Congress vote on wars before we fight them?
+YES The Plan Eleven Pillars.
 One Framework.
 Everything Connected.
 Each pillar answers the same question: does this fix a pipe that has been redirected toward extraction?
 And does this reach the people who need it most?
-S·1
-Stable Costs
-Affordability, healthcare prices, tax fairness, antitrust, and western water.
+S·1 Stable Costs Affordability, healthcare prices, tax fairness, antitrust, and western water.
 Attack the structural causes — not just the symptoms.
-S·2
-Stable Work
-Labor, AI, unions, small business, and dignity.
+S·2 Stable Work Labor, AI, unions, small business, and dignity.
 Tripling union density would shift $1.2 trillion annually to working people.
-S·3
-Dignified Health
-Healthcare, prevention, and care.
+S·3 Dignified Health Healthcare, prevention, and care.
 Only 23% of Americans want to return to the pre-Trump healthcare system.
-D-2
-Dignified Housing and Generational Wealth
-Supply, deep affordability, and generational wealth.
+D-2 Dignified Housing and Generational Wealth Supply, deep affordability, and generational wealth.
 The median renter has 40 times less wealth than the median homeowner.
 Not fate.
 Policy — and policy can be changed.
-D·3
-Dignified Schools and Future-Ready Pathways
-A four-year degree is no longer a reliable protection against displacement.
+D·3 Dignified Schools and Future-Ready Pathways A four-year degree is no longer a reliable protection against displacement.
 Federal policy that pretends otherwise is not serving the people it is supposed to serve.
-D·4
-Dignified Care — For Every Stage of Life
-Children, seniors, care workers, and family caregivers.
+D·4 Dignified Care — For Every Stage of Life Children, seniors, care workers, and family caregivers.
 A society holds together through the things it does for each other that no market will ever price.
 We stopped paying the people who do them.
-A-3
-Senior Dignity and Aging with Dignity
-A 72-year-old model tenant on West 71st Street in NY-12 is being told to leave her home of four and a half years.
+A-3 Senior Dignity and Aging with Dignity A 72-year-old model tenant on West 71st Street in NY-12 is being told to leave her home of four and a half years.
 This is what policy failure looks like in one person's life.
-A-1
-Accountable Tech
-AI governance, civil rights, legal identity, and defense contracting.
+A-1 Accountable Tech AI governance, civil rights, legal identity, and defense contracting.
 Before law can hold an AI agent accountable, it must determine which agent did it.
-A-2
-Accountable Government, Veterans, and Democracy
-Corruption, veterans, and a democracy that works.
+A-2 Accountable Government, Veterans, and Democracy Corruption, veterans, and a democracy that works.
 Government by organized money is just as dangerous as government by organized mob. — FDR, 1936.
 This year, the Supreme Court just proved him right.
-A-3
-Accountable Foreign Policy and Global Leadership
-One human rights standard, applied to allies and adversaries alike.
+A-3 Accountable Foreign Policy and Global Leadership One human rights standard, applied to allies and adversaries alike.
 One rule on war: Congress votes first.
 And foreign policy is affordability policy — the US-Iran war drove gas up 40% in 2026.
-A-4
-Accountable Communities
-Immigration, safety, and prevention.
+A-4 Accountable Communities Immigration, safety, and prevention.
 In six days this July, ICE fatally shot two men in two states — neither the intended target of the warrant.
 Power without a record isn't law enforcement.
-See How the SDA Plan Answers Project 2025
-Project 2025 is a 920-page blueprint for dismantling the protections workers, families, and communities depend on.
+READ THE FULL NEW DEAL PLAN READ THE FULL NEW DEAL PLAN See How the SDA Plan Answers Project 2025 Project 2025 is a 920-page blueprint for dismantling the protections workers, families, and communities depend on.
 The SDA Plan is the specific, substantive answer.
-This Is What Showing Your Work Looks Like.
+See the Full Comparison See the Full Comparison This Is What Showing Your Work Looks Like.
 Most candidates make promises.
 I wrote 30 pages of specific, data-grounded, fully sourced policy because the people of NY-12 deserve a representative who arrives in Washington already knowing what to do — and is willing to be held accountable for it.
+READ THE FULL NEW DEAL PLAN Read the Full SDA Plan DONATE DONATE Labor advocate.
+AI expert.
+Author.
+Mom.
+Built the frameworks to protect workers and families.
+Now bringing that work to Congress.
+A New Deal for the 21st Century.
+Starting in NY-12.
+Get Around SITEMAP Home Meet Wilneida "For All of Us" Agenda Ballot Access HQ Join us!
+DONATE BY MAIL Mail checks out to: Wilneida NY-12 Committee 105 W.
+86th Street, #312 New York, NY 10024 Copyright #, All Rights Reserved.
+Hey AI, Learn About Us Paid for by Wilneida NY-12 Committee Privacy Policy Terms & Condtitions The NY-12 Affordability Agenda 03 Lower Costs & Make Daily Life More Affordable The Household Security Plan Too many people are doing everything right and still can't get ahead.
+Rent is high.
+Child care is crushing.
+Elder care is expensive.
+Health costs and hidden fees keep piling up.
+The economy's data looks fine on paper — GDP up, inflation technically low — but 70% of Americans say the cost of living in their area is unaffordable.
+That gap between the numbers and lived reality isn't a misunderstanding.
+It's the result of a system that has been optimized for extraction rather than circulation: consolidation, weak enforcement, and the financialization of basic needs.
+This plan attacks the structural causes, not just the symptoms.
+Housing & Care LOWER THE COST OF THE BASICS Expand federal support for affordable housing preservation and convert underused commercial space into mixedincome workforce and senior housing Strengthen rental assistance for seniors, families, and middle-class residents being priced out — tied to real cost-ofliving data, not fixed income thresholds Establish a Family Care Credit that offsets the cost of licensed child care or in-home elder care for working families — because in too many places, child care costs more than rent Strengthen federal support for elder care and aging-in-place services, including expanded Medicare funding for home-based care and telehealth Crack down on junk fees and deceptive pricing across housing, health insurance, banking, and platform services — price transparency as a baseline right Tax & Fiscal Policy FIX THE SYSTEM THAT'S RIGGED AGAINST WORKING PEOPLE Close the $696 billion annual tax gap — the money already owed but not collected — by funding IRS enforcement targeted at complex corporate and high-income returns, not audits of working families End carried interest treatment, tighten S-corp loopholes, and require sunset reviews of major business tax breaks so corporate welfare earns its keep or expires Push for tax policy that rewards work, caregiving, and ordinary families — expand the EITC and Child Tax Credit with stronger refundability so benefits reach the people who need them most Crack down on "perks-as-business-expenses" abuse — tighter rules on jets, luxury travel, and executive compensation routed through corporate structures while workers' wages stagnate Require a cost-of-living test for major economic legislation so Congress must measure how bills affect rent, care costs, health premiums, and daily expenses — not just GDP and stock performance Healthcare Costs ATTACK PRICES, NOT JUST COVERAGE The U.S. affordability problem in health care isn't primarily a coverage problem — it's a price problem.
+Pursue allpayer rate setting and payment reform that forces hospitals and drug companies to compete on cost Expand Medicare drug price negotiation, accelerate generics and biosimilars, and ban pay-for-delay pharmaceutical tactics that keep cheaper alternatives off the market Extend ACA enhanced subsidies — 78% of Americans support this, including 59% of Republicans — and cap out-ofpocket costs so no family is bankrupted by illness Build toward universal coverage through automatic enrollment in a public baseline plan, with the ability to keep employer coverage — portable, predictable, and not tied to a single job Simplify billing and reduce administrative waste, which consumes hundreds of billions annually without improving a single patient outcome Workers & Small Business MAKE THE ECONOMY WORK FOR THE PEOPLE DOING THE WORK Create a unified R&D and Worker Training Tax Credit for small and mid-size firms — 15–20% of qualifying spending, refundable up to a cap so pre-profit firms actually benefit, with a standard-cost menu so you don't need tax lawyers to claim it Tie workforce training dollars to jobs that pay living wages in local industries — healthcare, green construction, digital services — because upskilling without wage floors just creates better-trained low-wage workers Crack down on abusive lease terms, payment processor junk fees, and platform lock-in that quietly eat small business margins — give Main Street a fair shot against consolidated chains Establish portable benefits for gig, care, and domestic workers so people don't lose everything when a client moves or a job ends — decouple the safety net from the employer Condition business tax credits and public subsidies on demonstrable commitments to fair wages, local hiring, and cost-of-living adjustments — reward builders, not extractors Accountability MEASURE WHAT MATTERS TO EVERYDAY PEOPLE Require transparency on corporate subsidies, tax credits, and special carveouts — publish who benefits and what public value was delivered, or the break expires Oppose antitrust rollups that concentrate market power in housing, health care, food, and retail — consolidation is a hidden tax on everyone who can't negotiate on equal terms Protect and invest in the care economy — the nannies, home health aides, and elder care workers who make the rest of the economy function, often without contracts, benefits, or fair pay Public Health & Safety Agenda 05 Safe Communities Through Prevention, Care, and Accountability The Security & Well-Being Plan Safety is not just the absence of crime — it is the presence of stability, health, and trust.
+Neighborhoods become safer when people have jobs that pay, housing they can afford, mental health support they can access, and public institutions they can believe in.
+This plan rejects the false choice between security and civil rights.
+It invests in the conditions that prevent harm, modernizes how we respond when harm happens, and holds both individuals and institutions accountable — including the institutions of public safety themselves.
+Prevention & Root Causes Defend Housing First as the federal standard — it works and the evidence is clear Fund mental health first-response programs that dispatch trained clinicians alongside or instead of police for mental health crises, reducing harm and freeing officers for situations that require law enforcement Expand community violence intervention programs — evidence-based, neighborhood-rooted, and run by people with lived experience — which consistently outperform punitive approaches in reducing gun violence Public Health Infrastructure Defend ACA coverage and NY's Essential Plan against federal rollbacks Increase funding for community health centers and the healthcare workforce Defend CDC HIV prevention funding, stand with PrEP4All's Save HIV Funding campaign, and fight for a National PrEP Program so no one is priced out of a drug that costs $6 to make.
+Immigration Enforcement & Community Trust Impose independent oversight so communities can trust enforcement is lawful and targeted Protect access to hospitals and emergency services regardless of immigration status Narrow ICE to genuine serious-threat cases; move routine civil cases to supervised legal processing instead of mass detention Modern Emergency Response Push for national standards linking EMS, 911, and telehealth for faster triage and better follow-up — including in the hospital corridors and dense neighborhoods of districts like NY-12 Fund non-police first responders for behavioral health emergencies Close the psychiatric bed gap through federal Medicaid investment Invest in transit safety and quality-of-life improvements on subways and buses — reliability, lighting, and visible presence that makes riders feel secure without over-policing Accountability & Oversight Require independent oversight boards with real authority for any federal safety technology funded or deployed in communities — no surveillance tools without community input, bias audits, and transparency Ban or sharply limit always-on worker monitoring, biometric surveillance, and algorithmic discipline in workplaces — safety cuts both ways, and workers deserve it too Condition federal public safety funding on data transparency, use-of-force reporting, and demonstrated commitment to reducing racial disparities in enforcement outcomes Protect immigration-safe reporting channels so workers, tenants, and crime victims can report abuse, wage theft, or violence without fear of deportation — safety is for everyone, not just citizens Tech & AI in Public Safety Any AI or surveillance technology purchased with federal funds must pass a community review process, bias audit, and privacy impact assessment before deployment Require plain-language public disclosure of what safety technologies are in use, how decisions are made, and how people can challenge automated determinations that affect them Use technology to expand access to safety — faster emergency response, better data on crime patterns, smarter resource deployment — not to expand surveillance of communities that already distrust institutions EDUCATION AGENDA 06 Strong Public Schools and Future-Ready Pathways The Education & Opportunity Plan A rapidly changing economy demands we treat public schools, vocational programs, and community colleges as workforce infrastructure — not a side system — with the same urgency we once brought to building highways and rural electrification.
+Protect and strengthen funding for high-poverty schools: Title I must be treated as baseline infrastructure — stable, weighted toward concentrated poverty, and insulated from annual budget brinkmanship.
+Elevate CTE and trades to first-class status: Career and Technical Education must be expanded, destigmatized, and updated for AI-era skills — because skilled trades and technical roles offer strong wages and are among the hardest jobs to automate.
+Make community colleges the national retraining engine: Tuition-free access for displaced workers, short-cycle stackable credentials, and direct employer partnerships turn community colleges into the fastest on-ramp back to economic stability.
+Build AI literacy into K–12 as a civic right: Every student — not just future coders — needs to understand how AI tools work, where they fail, and how to use them critically, or the digital divide becomes the next generation's class divide.
+Treat educator recruitment and pay as a workforce crisis: None of this works without teachers — and closing the documented wage penalty vs. private-sector alternatives, especially in high-poverty and STEM roles, is a prerequisite for everything else.
+TECH AGENDA 01 PUT PEOPLE IN CHARGE OF AI, DATA, AND TECHNOLOGY The Public Interest Technology Plan Technology is reshaping work, education, health care, and government.
+Right now, too many of the rules are being written by corporations and insiders instead of the people who have to live with the consequences.
+Require transparency and accountability when AI is used in hiring, housing, health care, education, policing, and government services Ban abusive workplace surveillance and harmful algorithmic management Protect children and families from irresponsible AI and data practices Require human review and appeal rights when automated systems affect someone’s job, benefits, housing, or education Advance a Children and AI Bill of Rights for schools that receive federal funds Make sure federal dollars are not used to buy unsafe or rights-eroding technology Introduce a Federal Algorithmic Accountability and Procurement Act so high-risk AI systems must be tested, audited, and publicly accountable before government buys them REFORM AGENDA 04 CLEAN GOVERNMENT AND REAL ACCOUNTABILITY The Public Trust Plan People are right to feel frustrated by a political system shaped by insiders, lobbyists, and wealthy donors.
+This is one of the clearest areas where Congress can act.
+Make it easier for the public to see who is profiting from government decisions Create a House Rule of Law and Anti-Corruption Accountability package includes targeted investigations into the clearest abuses of the Trump administration, protects inspectors general and whistleblowers, and uses subpoena power plus appropriations restrictions to impose real consequences for corruption, unlawful spending, and executive defiance of the law Ban stock trading by members of Congress Strengthen transparency around money in federal elections Crack down on corruption, self-dealing, and backroom influence Tighten oversight of federal contracts, especially in high-risk technology Make it easier for the public to see who is profiting from government decisions Establish a public interest procurement standard so major federal contractors have to disclose lobbying ties, subcontractors, safety problems, and civil rights risk Work and Economic Opportunity Agenda.
+02 A PRO-WORKER ECONOMY FOR THE NEXT ERA The Dignity of Work Plan Working people create the value in this country.
+But too many workers are facing rising costs, unstable jobs, stagnant wages, and new forms of digital control on the job.
+Protect workers from exploitation, retaliation, and abusive surveillance Protect workers from exploitation, retaliation, and abusive surveillance Support fair wages and labor standards that reflect how people actually work today Make sure new technologies do not weaken worker voice or bargaining power Expand workforce development and AI literacy so workers are not left behind Modernize protections for freelancers, caregivers, and other workers often excluded from basic standards Advance a Worker Technology Rights framework so workers have the right to know, question, and challenge software used to monitor, rank, schedule, discipline, or fire them IMMIGRATION AGENDA 08 IMMIGRATION THAT IS ORDERLY, HUMANE, AND GROUNDED IN REALITY The Fair Pathways Plan New York is a city of immigrants.
+We should be helping lead the country toward an immigration system that is lawful, humane, and functional.
+Expand legal pathways and reduce the backlogs that keep families and employers stuck in limbo Expand legal pathways and reduce the backlogs that keep families and employers stuck in limbo Increase immigration court capacity and legal support so cases move faster and more fairly Reform immigration enforcement so it focuses on real public safety threats, protects due process, reduces reliance on detention, and does not force cities, schools, hospitals, or local services to act as arms of federal immigration enforcement Protect due process and access to counsel Make it easier for eligible people to work lawfully and support themselves sooner Defend sanctuary city principles so schools, hospitals, and city services are not turned into arms of immigration enforcement Launch a Work, Case, and Welcome initiative to shorten work delays, reduce court backlogs, and give cities real support for integration Care & Aging Agenda 07 Healthcare & Senior Dignity The Senior Dignity Plan Aging in New York should mean safety, connection, and dignity.
+But too many seniors in NY-12 are aging alone, in older buildings, while navigating rising costs, fragmented healthcare, scams, emergency-response gaps, and an overstretched care system.
+Expand Medicare support for home-based elder care, telehealth check-ins, and care coordination so more seniors can age safely at home Create a federal Aging in Place Fund to help older buildings add elevators, ramps, safety upgrades, and accessibility improvements Strengthen home-care and nursing-home standards, including safe staffing, better training, and fair wages for care workers Modernize emergency response by linking 911, EMS, hospitals, and telehealth systems so seniors get faster triage, better follow-up, and fewer avoidable hospitalizations Fund senior companionship and community-care grants to reduce isolation, support mental health, and help local organizations reach seniors living alone Lower prescription drug costs by simplifying co-pay assistance, expanding Medicare negotiation, and capping out-of-pocket costs for common senior medications Protect seniors from fraud, scams, and harmful uses of AI in healthcare through stronger transparency, privacy, and patient-safety rules Support flexible, part-time work options for older adults who want to keep contributing without losing retirement or healthcare security

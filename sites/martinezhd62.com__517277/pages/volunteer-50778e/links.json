@@ -1,18 +1,66 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/martinezinfo",
-"https://instagram.com/martinezforsoco?igshid=ZDdkNTZiNTM%3D",
-"https://martinezhd62.com/",
-"https://martinezhd62.com/contact",
-"https://martinezhd62.com/contribute",
-"https://martinezhd62.com/events",
-"https://martinezhd62.com/home",
-"https://martinezhd62.com/issues",
-"https://martinezhd62.com/legislation",
-"https://martinezhd62.com/meet_matthew",
-"https://martinezhd62.com/news",
-"https://martinezhd62.com/photos",
-"https://martinezhd62.com/view-endorsements",
-"https://martinezhd62.com/volunteer",
-"https://twitter.com/MartinezforSoCo?t=LXDtFq3yjh0UrphjkbR-7g&s=09"
+{
+"text": "Contact",
+"href": "https://www.martinezhd62.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.martinezhd62.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.martinezhd62.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.martinezhd62.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.martinezhd62.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.martinezhd62.com/issues"
+},
+{
+"text": "Legislation",
+"href": "https://www.martinezhd62.com/legislation"
+},
+{
+"text": "Meet Matthew",
+"href": "https://www.martinezhd62.com/meet_matthew"
+},
+{
+"text": "News",
+"href": "https://www.martinezhd62.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.martinezhd62.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.martinezhd62.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.martinezhd62.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/martinezforsoco?igshid=ZDdkNTZiNTM%3D"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MartinezforSoCo?t=LXDtFq3yjh0UrphjkbR-7g&s=09"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/martinezinfo"
+}
 ]

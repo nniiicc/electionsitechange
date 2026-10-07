@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.helvyforgeorgia.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "9d6985131dac342db50d99bb245cb7c4ea6ee306",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

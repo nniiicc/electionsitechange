@@ -1,9 +1,30 @@
 [
-"https://facebook.com/jessicafornewyork",
-"https://instagram.com/jessicafornewyork",
-"https://jessicafornewyork.com/",
-"https://jessicafornewyork.com/copy-of-home-1",
-"https://jessicafornewyork.com/privacy",
-"https://secure.actblue.com/donate/jssdonation",
-"https://twitter.com/jess_scarcella"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jssdonation"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jessicafornewyork.com"
+},
+{
+"text": "Privacy Policy & Terms and Conditions",
+"href": "https://www.jessicafornewyork.com/privacy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/jessicafornewyork"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jessicafornewyork"
+},
+{
+"text": "[image: Jessica 2024.png]",
+"href": "https://www.jessicafornewyork.com/copy-of-home-1"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/jess_scarcella"
+}
 ]

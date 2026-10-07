@@ -1,7 +1,11 @@
 {
- "description": "Shouldn\u2019t cleaning up the dirty metropolis of Los Angeles be a major priority?",
+ "description": "Shouldn’t cleaning up the dirty metropolis of Los Angeles be a major priority?",
  "final_url": "https://shaderforsenate.com/news/",
- "paid_for_by": "Paid for by Rhonda Shader for Senate 2026 - Campaign ID # 1460521 Privacy Policy | Terms of Use Scroll To Top",
+ "fingerprint": "6545d1cc7cdb60fa59ec6c8784991fef9a1e29fa",
+ "format": 3,
+ "paid_for_by": "Paid for by Rhonda Shader for Senate 2026 - Campaign ID # 1460521 Privacy Policy",
  "title": "News - Rhonda Shader for Senate 2026",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

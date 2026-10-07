@@ -1,7 +1,26 @@
 [
-"https://donorbox.org/nedweski-for-wi-state-assembly",
-"https://nedweski4assembly.com/",
-"https://nedweski4assembly.com/get-involved",
-"https://nedweski4assembly.com/meet-amanda",
-"https://nedweski4assembly.com/platform"
+{
+"text": "DONATE!",
+"href": "https://donorbox.org/nedweski-for-wi-state-assembly"
+},
+{
+"text": "Email Amanda",
+"href": "mailto:amanda4office@gmail.com?subject=Email+from+Website"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.nedweski4assembly.com/get-involved"
+},
+{
+"text": "MEET AMANDA",
+"href": "https://www.nedweski4assembly.com/meet-amanda"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.nedweski4assembly.com/platform"
+},
+{
+"text": "[image]",
+"href": "https://www.nedweski4assembly.com"
+}
 ]

@@ -1,5 +1,4 @@
-Published: San Bernardino Sun – 7/29/16
-Enforcing the law and promoting low crime rates is unquestionably one of the most crucial roles that our government must perform.
+Skip to content Search for: Home About Endorsements Issues Media Contribute Home About Endorsements Issues Media Contribute It’s Time to Fix Rising Crime Caused by Prop 47 experienced team Cursus ultrices diam digital solutions Magna augue temp get 24/7 support Nunc quisa volutpat Published: San Bernardino Sun – 7/29/16 Enforcing the law and promoting low crime rates is unquestionably one of the most crucial roles that our government must perform.
 High crime rates endanger hard-working members of our society and create instability and uncertainty.
 Crime in California is increasing, and if we don’t start paying attention to the data we will put more and more of our communities in danger.
 Earlier this year, the Public Policy Institute of California released an analysis of FBI crime data for the first half of 2015.
@@ -13,19 +12,26 @@ In 2015, violent crime rose a staggering 21 percent in Victorville.
 In San Bernardino, property crime rose 15 percent and violent crime was up by 10 percent.
 Why is this alarming rise in crime occurring?
 CPCA’s report states that Proposition 47, which passed in 2014, has had a severe negative effect on crime rates.
-Prop. 47 reclassified numerous crimes that previously had been considered felonies as misdemeanors.
+Prop.
+47 reclassified numerous crimes that previously had been considered felonies as misdemeanors.
 This means that crimes that use to put people into state prisons are now classified as minor offenses, carrying only a small fine as punishment.
-For example, Prop. 47 made any theft of items worth $950 or less a misdemeanor.
+For example, Prop.
+47 made any theft of items worth $950 or less a misdemeanor.
 There are now stories about shoplifters who bring calculators into stores to make sure the items they steal remain under the felony threshold.
 Moreover, the $950 threshold also applies to stolen firearms.
-Prior to Prop. 47, the theft of any firearm was a felony.
+Prior to Prop.
+47, the theft of any firearm was a felony.
 There are numerous types of pistols, rifles and shotguns that are valued under $950.
-Prop. 47 ignores the fact that criminals do not steal guns to add to their collection — they plan to use them to commit another crime.
-Prop. 47 not only encourages petty theft, but also increases the availability of firearms to criminals and increases the risk of violent crime in our communities.
-It is time to fix the problems created by Prop. 47.
+Prop.
+47 ignores the fact that criminals do not steal guns to add to their collection — they plan to use them to commit another crime.
+Prop.
+47 not only encourages petty theft, but also increases the availability of firearms to criminals and increases the risk of violent crime in our communities.
+It is time to fix the problems created by Prop.
+47.
 That is why I have recently supported bills that would increase penalties for any repeat drug or property offenders within a three-year period, a measure that would make stealing any firearm or receiving a stolen firearm a felony, and legislation that would provide $85 million to local law enforcement agencies to help them protect our communities.
-If we want to decrease the crime rates in California, we can start by fixing the loopholes that were created by Prop. 47.
+If we want to decrease the crime rates in California, we can start by fixing the loopholes that were created by Prop.
+47.
 Keeping our communities safe is one of the most important duties of government.
 As a father, I want California’s current and future children to grow up in a state that doesn’t have the highest crime rate in the nation.
 It is time for the Legislature to act and start taking our rising crime rates seriously.
-Assemblyman Jay Obernolte, R-Hesperia, represents the 33rd Assembly District.
+Assemblyman Jay Obernolte, R-Hesperia, represents the 33rd Assembly District. about avada business Integer euismod lacus magna uisque curd metus luctus vitae pharet auctor mattis semat. read more 2026 Business Conference book your seat 15-18 December New York City Info@ElectJay.com PAID FOR BY OBERNOLTE FOR CONGRESS Page load link Go to Top

@@ -1,9 +1,12 @@
 {
  "description": "Get the latest campaign news, announcements, and more!",
  "final_url": "https://miller4ncsenate.org/news/",
- "paid_for_by": null,
+ "fingerprint": "49f26cd0d253059d684e8ecf4cef5d181d216882",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | Miller 4 NC Senate",
  "years_mentioned": [
-  "2023"
+  "2023",
+  "2024"
  ]
 }

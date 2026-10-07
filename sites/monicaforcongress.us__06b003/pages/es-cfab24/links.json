@@ -1,26 +1,154 @@
 [
-"https://engage.monicaforcongress.org/election-voting-info",
-"https://engage.monicaforcongress.org/election-worker-questionnaire",
-"https://facebook.com/monicaforcongress",
-"https://instagram.com/monicaforcongress",
-"https://monicadelacruz.wpenginepowered.com/?page_id=133",
-"https://monicadelacruz.wpenginepowered.com/?page_id=2",
-"https://monicaforcongress.us/",
-"https://monicaforcongress.us/es",
-"https://monicaforcongress.us/es/about",
-"https://monicaforcongress.us/es/de-la-cruz-and-lutnick-deliver-6-million-grant-to-mcallen-for-industrial-expansion",
-"https://monicaforcongress.us/es/de-la-cruz-pushes-tariffs-on-mexico-over-water-treaty-violations",
-"https://monicaforcongress.us/es/de-la-cruz-recognizes-texas-officers-on-the-national-stage",
-"https://monicaforcongress.us/es/de-la-cruz-urges-dhs-to-speed-religious-worker-visa-processing",
-"https://monicaforcongress.us/es/issues",
-"https://monicaforcongress.us/es/media-kit",
-"https://monicaforcongress.us/es/monica-de-la-cruz-hosts-edinburg-leaders-in-washington-visit-to-connect-south-texas-with-federal-resources",
-"https://monicaforcongress.us/es/new-housing-law-features-five-de-la-cruz-measures-supporting-veterans-and-boosting-supply",
-"https://monicaforcongress.us/es/news-and-media",
-"https://monicaforcongress.us/es/privacy-policy",
-"https://monicaforcongress.us/es/the-district",
-"https://monicaforcongress.us/es/volunteer",
-"https://secure.winred.com/monica-for-congress-149b0cf8/donate",
-"https://secure.winred.com/monica-for-congress-149b0cf8/storefront",
-"https://twitter.com/monica4congress"
+{
+"text": "877-469-1210",
+"href": "tel:8774691210"
+},
+{
+"text": "Agricultura",
+"href": "https://monicaforcongress.us/es/issues/"
+},
+{
+"text": "Colaborar",
+"href": "https://monicaforcongress.us/es/volunteer/"
+},
+{
+"text": "Comercio",
+"href": "https://secure.winred.com/monica-for-congress-149b0cf8/storefront/"
+},
+{
+"text": "Contribuya Aquí",
+"href": "https://secure.winred.com/monica-for-congress-149b0cf8/donate"
+},
+{
+"text": "Conviértete en un trabajador electoral",
+"href": "https://engage.monicaforcongress.org/election-worker-questionnaire"
+},
+{
+"text": "DONAR",
+"href": "https://secure.winred.com/monica-for-congress-149b0cf8/donate"
+},
+{
+"text": "De La Cruz Pushes Tariffs on Mexico Over Water Treaty Violations",
+"href": "https://monicaforcongress.us/es/de-la-cruz-pushes-tariffs-on-mexico-over-water-treaty-violations/"
+},
+{
+"text": "De La Cruz Recognizes Texas Officers on the National Stage",
+"href": "https://monicaforcongress.us/es/de-la-cruz-recognizes-texas-officers-on-the-national-stage/"
+},
+{
+"text": "De La Cruz Urges DHS to Speed Religious Worker Visa Processing",
+"href": "https://monicaforcongress.us/es/de-la-cruz-urges-dhs-to-speed-religious-worker-visa-processing/"
+},
+{
+"text": "De La Cruz and Lutnick Deliver $6 Million Grant to McAllen for Industrial Expansion",
+"href": "https://monicaforcongress.us/es/de-la-cruz-and-lutnick-deliver-6-million-grant-to-mcallen-for-industrial-expansion/"
+},
+{
+"text": "Economía",
+"href": "https://monicaforcongress.us/es/issues/"
+},
+{
+"text": "Energía",
+"href": "https://monicaforcongress.us/es/issues/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/monicaforcongress/"
+},
+{
+"text": "Gasto y Deuda Nacional",
+"href": "https://monicaforcongress.us/es/issues/"
+},
+{
+"text": "Información sobre encuestas y elecciones",
+"href": "https://engage.monicaforcongress.org/election-voting-info"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/monicaforcongress/"
+},
+{
+"text": "Learn More",
+"href": "https://monicadelacruz.wpenginepowered.com/?page_id=2"
+},
+{
+"text": "Media Kit",
+"href": "https://monicaforcongress.us/es/media-kit/"
+},
+{
+"text": "Monica De La Cruz hosts Edinburg leaders in Washington visit to connect South Texas with federal resources",
+"href": "https://monicaforcongress.us/es/monica-de-la-cruz-hosts-edinburg-leaders-in-washington-visit-to-connect-south-texas-with-federal-resources/"
+},
+{
+"text": "New Housing Law Features Five De La Cruz Measures Supporting Veterans and Boosting Supply",
+"href": "https://monicaforcongress.us/es/new-housing-law-features-five-de-la-cruz-measures-supporting-veterans-and-boosting-supply/"
+},
+{
+"text": "Noticias y Medios",
+"href": "https://monicadelacruz.wpenginepowered.com/?page_id=133"
+},
+{
+"text": "Noticias y Medios",
+"href": "https://monicaforcongress.us/es/news-and-media/"
+},
+{
+"text": "Personas Mayores",
+"href": "https://monicaforcongress.us/es/issues/"
+},
+{
+"text": "Read More »",
+"href": "https://monicaforcongress.us/es/de-la-cruz-and-lutnick-deliver-6-million-grant-to-mcallen-for-industrial-expansion/"
+},
+{
+"text": "Read More »",
+"href": "https://monicaforcongress.us/es/de-la-cruz-pushes-tariffs-on-mexico-over-water-treaty-violations/"
+},
+{
+"text": "Read More »",
+"href": "https://monicaforcongress.us/es/de-la-cruz-recognizes-texas-officers-on-the-national-stage/"
+},
+{
+"text": "Read More »",
+"href": "https://monicaforcongress.us/es/de-la-cruz-urges-dhs-to-speed-religious-worker-visa-processing/"
+},
+{
+"text": "Read More »",
+"href": "https://monicaforcongress.us/es/monica-de-la-cruz-hosts-edinburg-leaders-in-washington-visit-to-connect-south-texas-with-federal-resources/"
+},
+{
+"text": "Read More »",
+"href": "https://monicaforcongress.us/es/new-housing-law-features-five-de-la-cruz-measures-supporting-veterans-and-boosting-supply/"
+},
+{
+"text": "Seguridad Fronteriza e Inmigración",
+"href": "https://monicaforcongress.us/es/issues/"
+},
+{
+"text": "Sobre ella",
+"href": "https://monicaforcongress.us/es/about/"
+},
+{
+"text": "Temas",
+"href": "https://monicaforcongress.us/es/issues/"
+},
+{
+"text": "Texas-15",
+"href": "https://monicaforcongress.us/es/the-district/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/monica4congress"
+},
+{
+"text": "[image: en_US]English",
+"href": "https://monicaforcongress.us/"
+},
+{
+"text": "[image]",
+"href": "https://monicaforcongress.us/es"
+},
+{
+"text": "here.",
+"href": "https://monicaforcongress.us/es/privacy-policy/"
+}
 ]

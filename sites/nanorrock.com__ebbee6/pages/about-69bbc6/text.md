@@ -1,9 +1,5 @@
-“We’ve studied it, turned it upside down, had task forces about what on earth is going on with our mothers dying in the course of childbirth.
-Here’s an answer…
-Give them health coverage for the year after the baby is born.”
-- Senator Nan Orrock
-Nan’s Commitment to Equality and Progress
-As a proven progressive and champion of change, Nan believes that legislative action should improve the lives of all Georgians, not just those at the top.
+0 Skip to Content Home News Awards and Achievements SD 36 Map About Nan Contact CONTRIBUTE Open Menu Close Menu Home News Awards and Achievements SD 36 Map About Nan Contact CONTRIBUTE Open Menu Close Menu Home News Awards and Achievements SD 36 Map About Nan Contact CONTRIBUTE “We’ve studied it, turned it upside down, had task forces about what on earth is going on with our mothers dying in the course of childbirth.
+Here’s an answer… Give them health coverage for the year after the baby is born.” - Senator Nan Orrock Nan’s Commitment to Equality and Progress As a proven progressive and champion of change, Nan believes that legislative action should improve the lives of all Georgians, not just those at the top.
 Throughout her career, Nan has fought for policies that invest from the bottom up, not the top down.
 Nan believes that a thriving democracy relies on broad civic engagement and transparent, accountable government...
 Nan knows that access to affordable, quality healthcare is vital for Georgians to prosper.
@@ -16,19 +12,13 @@ Nan is committed to being a voice for the people in the ongoing efforts to build
 Nan’s vision is of a Georgia that enhances our lives, energizes our communities, teaches our children, and respects our values.
 In a time that challenges so many of the things that once made us secure, we can feel absolutely secure about this: Nan Orrock will fight for our Georgia, the Georgia that works for us.
 Nan’s lifelong activism began in the Civil Rights Movement.
-She stepped into the Movement when she stepped into the streets on Aug. 28, 1963 to join the March on Washington for Jobs and Freedom.
+She stepped into the Movement when she stepped into the streets on Aug.
+28, 1963 to join the March on Washington for Jobs and Freedom.
 She went on to work for SNCC in Atlanta and Mississippi, led a community civil rights project in Virginia’s Black Belt counties, helped launch an alternative newspaper and joined women’s empowerment efforts in Atlanta.
 Before running for office, she worked seventeen years for Nabisco and was active in the Bakery, Confectionery, and Tobacco Workers International Union.
 Nan has lived in Ormewood Park for 30 years.
 She has two grown sons, Danny and Jesse, who attended Atlanta Public Schools, graduating from Grady High School.
-Standing Committees
-Appropriations – Member
-Finance – Member
-Health and Human Services – Member
-Higher Education – Member
-Retirement - Ex-Officio
-Legislative Service
-Senator Nan Orrock was elected by Atlanta voters to the Georgia Senate in 2006, after serving 10 terms in the House of Representatives, where she was the first woman elected as House majority whip.
+Standing Committees Appropriations – Member Finance – Member Health and Human Services – Member Higher Education – Member Retirement - Ex-Officio Legislative Service Senator Nan Orrock was elected by Atlanta voters to the Georgia Senate in 2006, after serving 10 terms in the House of Representatives, where she was the first woman elected as House majority whip.
 She also served as the Governor’s Floor Leader, a committee chair, and a member of the Speaker’s Policy Committee.
 Senate District 36 includes downtown Atlanta, all of southeast Atlanta, parts of northeast and southwest Atlanta, and Fulton County’s Tri-Cities area of College Park, East Point, and Hapeville.
 Orrock’s Senate committee appointments include Higher Education, Urban Affairs, Health and Human Services, MARTOC, and Finance.
@@ -44,3 +34,6 @@ Orrock received the 2010 State Leader Award from the Progressive States Network 
 She was selected by Creative Loafing readers as “most effective local elected official” and received their 2010 ARNIE “loyal opposition” award.
 The daughter of a Georgia native son and an East Tennessee mother, Orrock has lived in Atlanta since 1968 and has two grown sons.
 She received her B.A. in English from Mary Washington College of the University of Virginia and is a member of the Unitarian-Universalist Congregation of Atlanta.
+Capitol Office State Capitol Suite 420-B Atlanta, GA 30334 Phone: (404) 463-8054 Nan for Senate 2022 16 Lenox Pointe NE Atlanta, GA 30324 District Information 1070 Delaware Avenue SE Atlanta, GA 30316 Approved and Paid for by Nan for Senate.
+16 Lenox Pointe NE Atlanta, GA 30324.
+No government funds were used.

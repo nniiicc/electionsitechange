@@ -1,6 +1,4 @@
-Meet Jorge Borrego
-For Texas House District 118
-From the very beginning, Jorge learned to fight for a better future.
+General Election Countdown #d : #h : #m : #s Jorge Borrego Home About Issues Endorsements Get involved Español Donate Meet Jorge Borrego For Texas House District 118 From the very beginning, Jorge learned to fight for a better future.
 Jorge Borrego knows the American Dream is not a slogan.
 For his family, it was a promise worth fighting for.
 Raised in a working-class family, Jorge learned early what instability can do to a home.
@@ -15,3 +13,7 @@ Today, Jorge is a husband, father, small business owner, licensed real estate pr
 He is running because he believes the promise that changed his life should still be alive for every family in Texas: if you work hard, play by the rules, and keep faith with your family, you should have a real chance to get ahead.
 Jorge will carry that promise with him to Austin.
 He will fight to lower costs, cut property taxes, keep violent criminals off our streets, protect children from fentanyl, protect girls' sports, and raise pay for public school teachers and support staff.
+Faith, family, and work define our mission.
+Donate Volunteer Donate Volunteer Pol.
+Ad.
+Paid for Jorge Borrego Campaign Privacy Terms Español

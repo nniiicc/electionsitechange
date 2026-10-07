@@ -1,17 +1,1 @@
-Our District
-- Aspinwall Borough
-- Blawnox Borough
-- Brackenridge Borough
-- Cheswick Borough
-- East Deer Township
-- Fawn Township
-- Fox Chapel Borough
-- Frazer Township
-- Harmar Township
-- Harrison Township
-- Indiana Township
-- O’Hara Township
-- Sharpsburg Borough
-- Springdale Borough
-- Springdale Township
-- Tarentum Borough
+0 Skip to Content About Platform Endorsements District 33 Events Contact DONATE Open Menu Close Menu About Platform Endorsements District 33 Events Contact DONATE Open Menu Close Menu About Platform Endorsements District 33 Events Contact DONATE Our District Aspinwall Borough Blawnox Borough Brackenridge Borough Cheswick Borough East Deer Township Fawn Township Fox Chapel Borough Frazer Township Harmar Township Harrison Township Indiana Township O’Hara Township Sharpsburg Borough Springdale Borough Springdale Township Tarentum Borough Paid for by Steele for PA / PO Box 11361, Pittsburgh, PA 15238 Instagram Facebook Twitter Donate

@@ -1,25 +1,106 @@
 [
-"http://google.com/url?q=http%3A%2F%2Ffacebook.com&sa=D&sntz=1&usg=AOvVaw3BCkRzU9i5zG3x7h_Z9aAv",
-"http://google.com/url?q=http%3A%2F%2Finstagram.com&sa=D&sntz=1&usg=AOvVaw1mw-jtMPJC-W0LFTWg7LnO",
-"https://academic.oup.com/poq/article-abstract/77/1/305/1816315?__cf_chl_tk=g8Kxd9r8wVTkHr_Nn0dWS7V5LmeZbhJJbMXBKBhYKBw-1788029368-1.0.1.1-CJKZ0EOb6b.2.QOquKoVYzolU0dotEayW1J8eWWzIaQ",
-"https://cambridge.org/core/journals/perspectives-on-politics/article/partisanship-in-the-metoo-era/FB7E798F5F412C3EBA7155053FBA3CE5",
-"https://cambridge.org/core/journals/perspectives-on-politics/article/representation-and-aggression-in-digital-racial-conflict-analyzing-public-comments-during-livestreamed-news-of-racial-justice-protests/BD987322A52136CB5482E0B71F5C449A",
-"https://dropbox.com/scl/fi/crd38gqhlx4rq5a2tth2w/UW-Research-Testing-IHRA-Definition.pdf?rlkey=lhoor5gnx11sq84ohqeeo1y3j&st=xksxgbiw&dl=0",
-"https://goodauthority.org/news/us-survey-shows-that-anti-israel-views-dont-imply-antisemitism",
-"https://liberalcurrents.com/the-return-of-political-violence",
-"https://nathan-kalmoe.com/contact",
-"https://nathan-kalmoe.com/donate",
-"https://nathan-kalmoe.com/home",
-"https://nathan-kalmoe.com/listening-to-you",
-"https://nathan-kalmoe.com/meet-nathan",
-"https://nathan-kalmoe.com/news-videos",
-"https://nathan-kalmoe.com/scholarship",
-"https://nathan-kalmoe.com/take-action",
-"https://nathan-kalmoe.com/what-we-want",
-"https://nathan-kalmoe.com/wi-history",
-"https://onlinelibrary.wiley.com/doi/10.1111/pops.12305",
-"https://onlinelibrary.wiley.com/doi/abs/10.1111/pops.12717",
-"https://pnas.org/doi/10.1073/pnas.2207237119",
-"https://politicalcommunication.org/article/kalmoe-making-news-better",
-"https://salon.com/2020/08/15/when-elections-lead-to-violence-its-happened-before-and-were-heading-that-way-now"
+{
+"text": "A holistic view of conditional American support for political violence",
+"href": "https://www.pnas.org/doi/10.1073/pnas.2207237119"
+},
+{
+"text": "Contact",
+"href": "https://www.nathan-kalmoe.com/contact"
+},
+{
+"text": "Cueing patriotism, prejudice, & partisanship in the age of Obama: Experimental tests of U.S. flag imagery effects in presidential elections",
+"href": "https://onlinelibrary.wiley.com/doi/10.1111/pops.12305"
+},
+{
+"text": "Disavowing white identity: How social disgust can change social identities",
+"href": "https://onlinelibrary.wiley.com/doi/abs/10.1111/pops.12717"
+},
+{
+"text": "Donate!",
+"href": "https://www.nathan-kalmoe.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "Is implicit prejudice against Black Americans politically consequential? Evidence from the AMP",
+"href": "https://academic.oup.com/poq/article-abstract/77/1/305/1816315?__cf_chl_tk=g8Kxd9r8wVTkHr_Nn0dWS7V5LmeZbhJJbMXBKBhYKBw-1788029368-1.0.1.1-CJKZ0EOb6b.2.QOquKoVYzolU0dotEayW1J8eWWzIaQ"
+},
+{
+"text": "Listening to YOU",
+"href": "https://www.nathan-kalmoe.com/listening-to-you"
+},
+{
+"text": "Making news that's better for democracy",
+"href": "https://politicalcommunication.org/article/kalmoe-making-news-better/"
+},
+{
+"text": "Meet Nathan",
+"href": "https://www.nathan-kalmoe.com/meet-nathan"
+},
+{
+"text": "My academic research",
+"href": "https://www.dropbox.com/scl/fi/crd38gqhlx4rq5a2tth2w/UW-Research-Testing-IHRA-Definition.pdf?rlkey=lhoor5gnx11sq84ohqeeo1y3j&st=xksxgbiw&dl=0"
+},
+{
+"text": "Nathan for WI Senate",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "News & Videos",
+"href": "https://www.nathan-kalmoe.com/news-videos"
+},
+{
+"text": "Partisanship in the #MeToo Era",
+"href": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/partisanship-in-the-metoo-era/FB7E798F5F412C3EBA7155053FBA3CE5"
+},
+{
+"text": "Political violence in a time of supremacist resurgence",
+"href": "https://www.liberalcurrents.com/the-return-of-political-violence/"
+},
+{
+"text": "Representation & aggression in contentious digital publics: Analyzing public comments during live-streamed news of racial justice protests",
+"href": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/representation-and-aggression-in-digital-racial-conflict-analyzing-public-comments-during-livestreamed-news-of-racial-justice-protests/BD987322A52136CB5482E0B71F5C449A"
+},
+{
+"text": "Salon interview",
+"href": "https://www.salon.com/2020/08/15/when-elections-lead-to-violence-its-happened-before-and-were-heading-that-way-now/"
+},
+{
+"text": "Scholarship",
+"href": "https://www.nathan-kalmoe.com/scholarship"
+},
+{
+"text": "Take Action!",
+"href": "https://www.nathan-kalmoe.com/take-action"
+},
+{
+"text": "U.S. survey shows that anti-Israel views don’t imply antisemitism",
+"href": "https://goodauthority.org/news/us-survey-shows-that-anti-israel-views-dont-imply-antisemitism/"
+},
+{
+"text": "WI History",
+"href": "https://www.nathan-kalmoe.com/wi-history"
+},
+{
+"text": "What We Want",
+"href": "https://www.nathan-kalmoe.com/what-we-want"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Ffacebook.com&sa=D&sntz=1&usg=AOvVaw3BCkRzU9i5zG3x7h_Z9aAv"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Finstagram.com&sa=D&sntz=1&usg=AOvVaw1mw-jtMPJC-W0LFTWg7LnO"
+},
+{
+"text": "[image]",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "[image]Nathan for WI Senate",
+"href": "https://www.nathan-kalmoe.com/home"
+}
 ]

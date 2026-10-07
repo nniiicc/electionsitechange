@@ -1,40 +1,5 @@
-We have no upcoming events scheduled.
+575-937-1474 harlan.vincent@nmlegis.gov HARLAN VINCENT State Representative District 56 Lincoln and Otero Counties Home Meet Harlan Issues Events Working For You Join Us Vote News Media Contact Contribute Events Monthly Meetings Republican Party of Lincoln County 2nd Thursday of Every Month Location Varies Check Location Republican Party of Otero County 4th Thursday of Every Month Location Varies Check Location Upcoming Events We have no upcoming events scheduled.
 Please check back.
-Fundraiser
-11/01/2025
-Creek Side Clays
-131 Firehouse Rd, Artesia, NM 88210
-Reception and Dinner
-01/23/2025
-Eldorado Hotel and Spa
-309 W San Francisco St, Santa Fe, NM 87501
-Sponsored by: RPNM
-Fundraiser
-11/02/2024
-Creekside Clays
-Rally
-09/13/2024
-Ruidoso Convention Center
-111 Sierra Blanca Drive, Ruidoso, NM 88345
-Sponsored by: Republican Party of Lincoln County
-RPLC Fundraiser
-06/08/2024
-All American Ruidoso Downs Racetrack
-26225 U.S. 70, Ruidoso Downs, NM 88346
-Sponsored by: RPLC
-Fundraiser
-11/25/2023
-131 Fire House Rd, Artesia, NM 88210
-Sponsored by: committee to reelect Harlan
-Meet & Greet
-09/24/2023
-Motorcycle Gathering
-09/17/2023
-Inn of the Mountain Gods
-287 Carrizo Canyon Rd, Mescalero, NM 88340
-Rally
-09/13/2023
-Meet & Greet
-09/06/2023
-High Rolls Mountain Park Community Center
-Main Street, High Rolls, NM 88345
+Past Events Fundraiser 11/01/2025 Freedom Isn't Free 2025 Creek Side Clays 131 Firehouse Rd, Artesia, NM 88210 Register Download Flyer Reception and Dinner 01/23/2025 RPNM Legislative Reception and Dinner Eldorado Hotel and Spa 309 W San Francisco St, Santa Fe, NM 87501 Sponsored by: RPNM More info/Register Fundraiser 11/02/2024 3rd Annual - Freedom Isn't Free Creekside Clays 131 Firehouse Rd, Artesia, NM 88210 Register Here Download Flyer Rally 09/13/2024 Republican Rally Ruidoso Convention Center 111 Sierra Blanca Drive, Ruidoso, NM 88345 Sponsored by: Republican Party of Lincoln County Pre-Register RPLC Fundraiser 06/08/2024 Day At The Races All American Ruidoso Downs Racetrack 26225 U.S.
+70, Ruidoso Downs, NM 88346 Sponsored by: RPLC Republican Party of Lincoln Co Download Flyer Fundraiser 11/25/2023 2nd Annual Freedom Isn't Free Creek Side Clays 131 Fire House Rd, Artesia, NM 88210 Sponsored by: committee to reelect Harlan Register Meet & Greet 09/24/2023 All American Ruidoso Gun & Western Collectible Show Ruidoso Convention Center 111 Sierra Blanca Drive, Ruidoso, NM 88345 Download Flyer Motorcycle Gathering 09/17/2023 Ride for the Red Inn of the Mountain Gods 287 Carrizo Canyon Rd, Mescalero, NM 88340 Download Flyer Rally 09/13/2023 Republican Rally Ruidoso Convention Center 111 Sierra Blanca Drive, Ruidoso, NM 88345 Sponsored by: Republican Party of Lincoln County Pre-Register Download Flyer Meet & Greet 09/06/2023 Political Campaign High Rolls Mountain Park Community Center Main Street, High Rolls, NM 88345 Download Flyer National Rifle Association of America (NRA) Endorsed Harlan Vincent State Representative District 56 Lincoln and Otero Counties Contact Harlan Follow Harlan Home Meet Harlan Issues Events Working For You Join Us Vote Copyright © #-# Harlan Vincent, State Representative District 56 - All Rights Reserved.
+Paid for by the Committee to Elect Harlan Vincent Designed and maintained by Southwest Marketing and Information Services .

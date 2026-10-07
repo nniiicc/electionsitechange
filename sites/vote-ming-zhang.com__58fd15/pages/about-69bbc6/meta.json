@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.vote-ming-zhang.com/about",
- "paid_for_by": null,
+ "fingerprint": "27e8364f82b7a3f698d9c2e735fe8eca80bf2bab",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About | Votemingzhang",
- "years_mentioned": []
+ "years_mentioned": [
+  "1992"
+ ]
 }

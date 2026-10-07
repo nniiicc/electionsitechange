@@ -1,10 +1,6 @@
+top of page HOME GET INVOLVED VOTE DONATE More Use tab to navigate through the menu items.
 JOIN THE CAMPAIGN TODAY!
-JODI EMERSON
-Democrat for
-Wisconsin State Assembly District 91
-A Champion for Chippewa Valley
-Get to Know Us
-Jodi Emerson understands the challenges we face in the Chippewa Valley.
+JODI EMERSON Democrat for Wisconsin State Assembly District 91 A Champion for Chippewa Valley Name Email Submit Get to Know Us Jodi Emerson understands the challenges we face in the Chippewa Valley.
 She and her husband raised their two children here and they still live in the first house they bought in 1996.
 Jodi comes from a family of hard workers whose roots run deep in the Chippewa Valley.
 Her story is our story.
@@ -17,3 +13,7 @@ By holding tax payer dollars hostage, they’re refusing to help our communities
 They’re rolling back women’s rights and degrading and defunding our public universities.
 We need a champion for Chippewa Valley in the Assembly.
 We need Jodi Emerson.
+VOLUNTEER Show your support for Jodi!
+Help us connect with voters.
+HOME GET INVOLVED VOTE DONATE More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Paid for by Emerson for Assembly To mail a donation, please send to: Emerson for Assembly 440 Broadway St Eau Claire, WI 54703 ​ www.emersonforassembly.com bottom of page

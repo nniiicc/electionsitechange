@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Tuesday+Phone+Banking+&dates=20241022T210000Z%2F20241022T230000Z",
-"https://facebook.com/lamontforvermont",
-"https://instagram.com/lamontforvermont",
-"https://lamontforvermont.com/",
-"https://lamontforvermont.com/about",
-"https://lamontforvermont.com/cart",
-"https://lamontforvermont.com/endorsements",
-"https://lamontforvermont.com/events",
-"https://lamontforvermont.com/events/tuesday-phone-banking-l7wcf?format=ical",
-"https://lamontforvermont.com/events/weekly-canvassing",
-"https://lamontforvermont.com/events/weekly-canvassing-a4gne-25sfm-nx3y8",
-"https://lamontforvermont.com/get-involved",
-"https://lamontforvermont.com/issues",
-"https://linkedin.com/in/saudia-lamont-vermont",
-"https://mobilize.us/vtdems/event/724281",
-"https://secure.actblue.com/donate/lamont-for-vermont-1",
-"https://sos.vermont.gov/elections/voters/registration"
+{
+"text": "0",
+"href": "https://www.lamontforvermont.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lamontforvermont.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.lamontforvermont.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.lamontforvermont.com/get-involved"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lamont-for-vermont-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lamontforvermont.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.lamontforvermont.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Tuesday+Phone+Banking+&dates=20241022T210000Z%2F20241022T230000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.lamontforvermont.com/events/tuesday-phone-banking-l7wcf?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.lamontforvermont.com/issues"
+},
+{
+"text": "Next Next October 25 Friday Canvassing in Worcester",
+"href": "https://www.lamontforvermont.com/events/weekly-canvassing-a4gne-25sfm-nx3y8"
+},
+{
+"text": "Previous Previous October 20 Sunday Canvassing in Morristown",
+"href": "https://www.lamontforvermont.com/events/weekly-canvassing"
+},
+{
+"text": "Register to vote",
+"href": "https://sos.vermont.gov/elections/voters/registration/"
+},
+{
+"text": "[image: Saudia LaMont for Vermont]",
+"href": "https://www.lamontforvermont.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lamontforvermont"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lamontforvermont/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/saudia-lamont-vermont/"
+},
+{
+"text": "sign up at the Moblize link here",
+"href": "https://www.mobilize.us/vtdems/event/724281/"
+}
 ]

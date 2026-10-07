@@ -1,12 +1,50 @@
 [
-"http://facebook.com/leilaforrep",
-"https://facebook.com/leilaforrep",
-"https://instagram.com/leilaforrep",
-"https://leilaforrep.com/",
-"https://leilaforrep.com/communitysupporters",
-"https://leilaforrep.com/donate",
-"https://leilaforrep.com/endorsements",
-"https://leilaforrep.com/meet-leila",
-"https://leilaforrep.com/priorities",
-"https://leilaforrep.com/volunteer"
+{
+"text": "Community Supporters",
+"href": "https://leilaforrep.com/communitysupporters"
+},
+{
+"text": "Donate",
+"href": "https://leilaforrep.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://leilaforrep.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/leilaforrep"
+},
+{
+"text": "Home",
+"href": "https://leilaforrep.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/leilaforrep"
+},
+{
+"text": "Meet Leila",
+"href": "https://leilaforrep.com/meet-leila"
+},
+{
+"text": "Priorities",
+"href": "https://leilaforrep.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://leilaforrep.com/volunteer"
+},
+{
+"text": "[image: Leila Migliorelli for State Representative]",
+"href": "https://leilaforrep.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/leilaforrep"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/leilaforrep"
+}
 ]

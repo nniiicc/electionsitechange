@@ -1,42 +1,178 @@
 [
-"http://delsandy.com/",
-"http://delsandy.com/2020-session-summary",
-"http://delsandy.com/about-sandy",
-"http://delsandy.com/bills-ive-introduced",
-"http://delsandy.com/contact",
-"http://delsandy.com/endorsements",
-"http://delsandy.com/key-issues/lead-paint-poisoning",
-"http://delsandy.com/key-issues/our-neighborhoods",
-"http://delsandy.com/key-issues/pimlico-and-the-preakness",
-"http://delsandy.com/key-issues/pre-kindergarten",
-"http://delsandy.com/our-neighborhoods",
-"http://delsandy.com/sandys-answers",
-"http://delsandy.com/sandys-answers/legislative-diary",
-"http://delsandy.com/votingrightsact",
-"http://delsandy.com/why-i-run",
-"http://delsandy.com/wp-content/uploads/2018/01/AFTQuestionnaire.pdf",
-"http://delsandy.com/wp-content/uploads/2018/01/Metropolitan-Baltimore-Council-AFL-CIO-Unions-Answers.pdf",
-"http://delsandy.com/wp-content/uploads/2018/01/Our-Revolution-Maryland-OR-MD-Baltimore-City.pdf",
-"http://delsandy.com/wp-content/uploads/2018/01/SEIU-Local-500-Answers.pdf",
-"http://delsandy.com/wp-content/uploads/2018/01/The-Maryland-League-of-Conservation-Voters-Answers.pdf",
-"http://delsandy.com/wp-content/uploads/2018/03/Catholic-Charities-Questionnaire.pdf",
-"http://delsandy.com/wp-content/uploads/2018/03/Housing-Policy-Watch-Answers.pdf",
-"http://delsandy.com/wp-content/uploads/2018/03/Rosenberg-LiUNA-BWLDC-MD-State-Questionnaire.pdf",
-"http://delsandy.com/wp-content/uploads/2018/04/Moms-Demand-Action-Everytown.pdf",
-"http://delsandy.com/wp-content/uploads/2018/04/afro.questionnair.pdf",
-"http://delsandy.com/wp-content/uploads/2018/04/nra.survey.signed.pdf",
-"http://delsandy.com/wp-content/uploads/2018/04/progressivemd.rosenberg.answers.pdf",
-"http://delsandy.com/wp-content/uploads/2018/04/rosenberg.foodandwater.questionnaire.pdf",
-"http://delsandy.com/wp-content/uploads/2018/04/rosenberg.lwv_.answers.pdf",
-"http://delsandy.com/wp-content/uploads/2018/04/rosenberg.maj_.answers.pdf",
-"http://delsandy.com/wp-content/uploads/2018/04/rosenberg.naacp_.questionaire.pdf",
-"http://delsandy.com/wp-content/uploads/2018/04/sun.questionnaire.pdf",
-"http://delsandy.com/wp-content/uploads/2018/05/Agudath.questionnaire.pdf",
-"http://delsandy.com/wp-content/uploads/2018/05/bwua.answers.rosenberg.pdf",
-"http://delsandy.com/wp-content/uploads/2018/05/jmore.questions.pdf",
-"http://delsandy.com/wp-content/uploads/2018/05/medchi.questionnaire.pdf",
-"http://delsandy.com/wp-content/uploads/2018/06/jt.rosenberg.answers.docx.pdf",
-"http://mdelect.net/",
-"https://facebook.com/delsandy",
-"https://twitter.com/delsandy"
+{
+"text": "2020 Session Summary",
+"href": "http://www.delsandy.com/2020-session-summary/"
+},
+{
+"text": "AFRO Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/04/afro.questionnair.pdf"
+},
+{
+"text": "About Sandy",
+"href": "http://www.delsandy.com/about-sandy/"
+},
+{
+"text": "Agudath Israel of Maryland Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/05/Agudath.questionnaire.pdf"
+},
+{
+"text": "American Federation of Teachers – Maryland Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/01/AFTQuestionnaire.pdf"
+},
+{
+"text": "Are You in the 41st District?",
+"href": "http://mdelect.net/"
+},
+{
+"text": "Baltimore City NAACP Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/04/rosenberg.naacp_.questionaire.pdf"
+},
+{
+"text": "Baltimore Sun Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/04/sun.questionnaire.pdf"
+},
+{
+"text": "Baltimore Women United in Action Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/05/bwua.answers.rosenberg.pdf"
+},
+{
+"text": "Bills I’ve Introduced",
+"href": "http://www.delsandy.com/bills-ive-introduced/"
+},
+{
+"text": "Catholic Charities Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/03/Catholic-Charities-Questionnaire.pdf"
+},
+{
+"text": "Contact Sandy",
+"href": "http://www.delsandy.com/contact/"
+},
+{
+"text": "Endorsements",
+"href": "http://www.delsandy.com/endorsements/"
+},
+{
+"text": "Food & Water Action Fund Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/04/rosenberg.foodandwater.questionnaire.pdf"
+},
+{
+"text": "Housing Policy Watch Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/03/Housing-Policy-Watch-Answers.pdf"
+},
+{
+"text": "Jewish Times Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/06/jt.rosenberg.answers.docx.pdf"
+},
+{
+"text": "Jmore Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/05/jmore.questions.pdf"
+},
+{
+"text": "League of Women Voters Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/04/rosenberg.lwv_.answers.pdf"
+},
+{
+"text": "LiUNA BWLDC MD Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/03/Rosenberg-LiUNA-BWLDC-MD-State-Questionnaire.pdf"
+},
+{
+"text": "MD Association of Justice Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/04/rosenberg.maj_.answers.pdf"
+},
+{
+"text": "MMPAC/MedChi Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/05/medchi.questionnaire.pdf"
+},
+{
+"text": "Metropolitan Baltimore Council AFL-CIO Unions Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/01/Metropolitan-Baltimore-Council-AFL-CIO-Unions-Answers.pdf"
+},
+{
+"text": "Moms Demand Action/Everytown Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/04/Moms-Demand-Action-Everytown.pdf"
+},
+{
+"text": "My Legislative Diary",
+"href": "http://www.delsandy.com/sandys-answers/legislative-diary"
+},
+{
+"text": "NRA Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/04/nra.survey.signed.pdf"
+},
+{
+"text": "Our Revolution Maryland (OR-MD), Baltimore City Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/01/Our-Revolution-Maryland-OR-MD-Baltimore-City.pdf"
+},
+{
+"text": "Progressive Maryland Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/04/progressivemd.rosenberg.answers.pdf"
+},
+{
+"text": "SEIU Local 500 Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/01/SEIU-Local-500-Answers.pdf"
+},
+{
+"text": "Sandy's Answersto candidate questionnaires",
+"href": "http://www.delsandy.com/sandys-answers"
+},
+{
+"text": "The Maryland League of Conservation Voters Answers",
+"href": "http://www.delsandy.com/wp-content/uploads/2018/01/The-Maryland-League-of-Conservation-Voters-Answers.pdf"
+},
+{
+"text": "Voting Rights Act",
+"href": "http://www.delsandy.com/votingrightsact/"
+},
+{
+"text": "Why I Run",
+"href": "http://www.delsandy.com/why-i-run/"
+},
+{
+"text": "[image: Connect with Delegate Sandy Rosenberg on Facebook]",
+"href": "https://www.facebook.com/delsandy"
+},
+{
+"text": "[image: Connect with Delegate Sandy Rosenberg on Twitter]",
+"href": "https://twitter.com/delsandy"
+},
+{
+"text": "[image: Edmondson Village]",
+"href": "http://www.delsandy.com/our-neighborhoods/"
+},
+{
+"text": "[image: Howard Park | Forest Park]",
+"href": "http://www.delsandy.com/our-neighborhoods/"
+},
+{
+"text": "[image: Lead Paint Poisoning]",
+"href": "http://www.delsandy.com/key-issues/lead-paint-poisoning/"
+},
+{
+"text": "[image: Mt. Washington]",
+"href": "http://www.delsandy.com/our-neighborhoods/"
+},
+{
+"text": "[image: Northern Park Heights]",
+"href": "http://www.delsandy.com/our-neighborhoods/"
+},
+{
+"text": "[image: Our Neighborhoods]",
+"href": "http://www.delsandy.com/key-issues/our-neighborhoods/"
+},
+{
+"text": "[image: Pimlico and The Preakness]",
+"href": "http://www.delsandy.com/key-issues/pimlico-and-the-preakness/"
+},
+{
+"text": "[image: Pre-Kindergarten]",
+"href": "http://www.delsandy.com/key-issues/pre-kindergarten/"
+},
+{
+"text": "[image: Roland Park | Wyman Park]",
+"href": "http://www.delsandy.com/our-neighborhoods/"
+},
+{
+"text": "[image: Sandy Rosenberg]",
+"href": "http://www.delsandy.com/"
+}
 ]

@@ -1,137 +1,62 @@
-Immigrant Resources from Various Partners
-A comprehensive guide to Maryland and national resources for immigrant families.
+Home About Meet Gabriel Issues Endorsements News Show Up Get Involved Community Events Calendar 2026 Election 2026 Gubernatorial Election Howard County 2026 Democratic Candidates 2026 Ballot Questions Resources District 13 Resources for Immigrants and Other Populations 2026 Labor Day Weekend Donate Resources for Immigrants and Other Populations Resources for Immigrants Resources for Specific Populations Immigrant Resources from Various Partners A comprehensive guide to Maryland and national resources for immigrant families.
 Nothing on this page should be construed as legal advice and is provided for educational purposes only.
 As each case poses its own complexity, it is always advised that individuals meet with an immigration attorney to better understand their specific situation.
-Standby Guardianships
-Standby Guardianship Project - Assists parents in:
-- Creating a safety plan for their family in case the parent is detained or deported or has a sudden health issue.
-- Completing the Parental Designation and Consent to Beginning of Standby Guardianship form (the Form) which designates someone to legally care for the children in the event the parent is detained, deported or suddenly taken ill.
-Helpful Websites / Sitios web útiles
-Refugee-Specific Resources
-Refugees may require specialized support.
+Standby Guardianships Standby Guardianship Project - Assists parents in: Creating a safety plan for their family in case the parent is detained or deported or has a sudden health issue.
+Completing the Parental Designation and Consent to Beginning of Standby Guardianship form (the Form) which designates someone to legally care for the children in the event the parent is detained, deported or suddenly taken ill.
+Helpful Websites / Sitios web útiles Standby Guardianship Project Standby Guardianship Project (planning help) Maryland Parental Designation / Standby Guardianship Court Form (CCGN041) Refugee-Specific Resources Refugees may require specialized support.
 These resources offer advocacy and assistance.
-- Maryland Office for Refugees and Asylees (MORA)
-- Immigrant & Refugee Outreach Center (IROC)
-- Global Refuge (formerly LIRS) - National headquarters in Baltimore.
+Maryland Office for Refugees and Asylees (MORA) Immigrant & Refugee Outreach Center (IROC) Global Refuge (formerly LIRS) - National headquarters in Baltimore.
 Advocacy and resettlement services.
-Know Your Rights for Individuals
-- ACLU of Maryland
-- AILA (American Immigration Lawyers Association)
-- CLINIC
-- Coalition for Humane Immigrant Rights
-- Know Your Rights Film Series - Resources, including videos, demonstrating how to assert your rights in various immigration enforcement scenarios
-- Families United DC Metro
-- Multi-language family prep for custody, asset security, immigration protections (English, Spanish, Amharic, Chinese, French, German, Haitian Creole, Hmong, Korean, Portuguese, Russian, Ukrainian, Urdu, Vietnamese) - click here.
-- iAmerica
-- National immigrant justice campaign platform for the Service Employees International Union/SEIU.
+Know Your Rights for Individuals ACLU of Maryland Know Your Rights, Share Your Rights: Immigrants' Rights KYR Home Raids - English and Spanish KYR - What to do if you're stopped by police, immigration, or the FBI - English KYR - At the airport - English KYR - Muslim Discrimination - English AILA (American Immigration Lawyers Association) KYR Handouts: If ICE Visits a Home English, Spanish, French, Hindi, Haitian Creole, Portuguese, Tagalog, Chinese CLINIC KYR for situations at the border/airports; in your car; in police custody/jail; in your home; in immigration detention; in public spaces; in removal proceedings; and at work Various KYR materials found here.
+Coalition for Humane Immigrant Rights Know Your Rights Film Series - Resources, including videos, demonstrating how to assert your rights in various immigration enforcement scenarios Families United DC Metro Multi-language family prep for custody, asset security, immigration protections (English, Spanish, Amharic, Chinese, French, German, Haitian Creole, Hmong, Korean, Portuguese, Russian, Ukrainian, Urdu, Vietnamese) - click here . iAmerica National immigrant justice campaign platform for the Service Employees International Union/SEIU.
 Rights as an immigrant worker can be found here.
-- Rights as an immigrant worker flyer in English.
-- Immigrant Legal Resource Center (ILRC)
-- Know Your Rights - Red Cards in downloadable in Amharic, Arabic, Chinese, English, Farsi, French, Haitian Creole, Hmong, Khmer, Korean, Pashto, Portuguese, Punjabi, Russian, Spanish, Tagalog, Tigrinya, Ukrainian, and Vietnamese.
-- Combating Immigration Provider Fraud (Notario Fraud) training guide in English.
-- Stop & Identify Laws State by State found here.
-- Maryland laws generally do not require you to produce ID to police on request outside of car stops and receiving citation.
+Rights as an immigrant worker flyer in English.
+Immigrant Legal Resource Center (ILRC) Know Your Rights - Red Cards in downloadable in Amharic, Arabic, Chinese, English, Farsi, French, Haitian Creole, Hmong, Khmer, Korean, Pashto, Portuguese, Punjabi, Russian, Spanish, Tagalog, Tigrinya, Ukrainian, and Vietnamese.
+How to use the Red Cards can be found here.
+Combating Immigration Provider Fraud (Notario Fraud) training guide in English.
+Stop & Identify Laws State by State found here.
+Maryland laws generally do not require you to produce ID to police on request outside of car stops and receiving citation.
 Montgomery County has a rule that allows police to detain you and requires you to truthfully identify yourself on request, even if you aren't driving or getting a citation.
-- States Map on Immigration Enforcement Law 2024
-- Immigrant
-Defense Project (IDP)
-Immigration & Customs Enforcement (ICE) go to homes and various other places in the community where they are allowed to use low-level trickery, lies, and ruses to gain information from those that do not know their U.S.
+States Map on Immigration Enforcement Law 2024 Immigrant Defense Project (IDP) Immigration & Customs Enforcement (ICE) go to homes and various other places in the community where they are allowed to use low-level trickery, lies, and ruses to gain information from those that do not know their U.S.
 Constitutional Rights.
-- Immigrant Defense Project, et al. v.
+Immigrant Defense Project, et al. v.
 ICE, et al. obtained documents and memos that include tactics when administering ruses on the community.
-From the results of this Freedom of Information Act (FOIA) lawsuit, IDP produced the Defend Against ICE Raids and Community Arrests Toolkit, available in English and Spanish.
-- To learn more about ICE's use of ruses, visit IDP's website section discussing ICE Ruses.
-- IDP's flyers on the ways that ICE pretends to be local police available in both English and Spanish.
-- Other KYR materials from IDP can be found here in English and Spanish.
-- Informed Immigrant
-- Mijente
-- KYR to Defend Your Rights on your constitutional protections, with a focus on resisting racial profiling and discriminatory enforcement actions in English and Spanish.
-- Muslims for Just Futures
-Range of KYR printables and posters:
-- NAKASEC's Know Your Rights
-- Know Your Rights app (available for Apple Iphones and Android devices), downloadable guides in more than 19 languages, and a 24/7 hotline (1-844-500-3222) offering confidential support in English and Korean.
-- National Lawyer Guild (NLG)
-- National Immigration Law Center (NILC)
-- Know Your Constitutional Rights Fact Sheet - Summary of your constitutional rights during encounters with immigration officers or the police.
-- Washington Lawyers' Committee
-ICE and ISAP Check-Ins
-- Asylum Seeker Advocacy Project (ASAP)
-- ICE and ISAP Check-Ins - Certain immigrants, particularly those who have been detained, may be required to attend regular check-in appointments with Immigration and Customs Enforcement (ICE) or its Intensive Supervision Appearance Program (ISAP) as part of their immigration case.
-- RIF NYC
-Know Your Rights for Employers and Employees
-- AILA - ICE Worksite Raid: Employer Rights
-- National Immigration Law Center (NILC)
-- Guide for employers for navigating immigration enforcement in the workplace found in English, Chinese, Korean, Spanish, and Thai.
-- Form I-9 Audits or Inspections: Frequently Asked Questions - English & Spanish
-- Legal Aid at Work
-Know Your Rights as a Bystander & Helping Immigrants
-- ACLU of Maryland
-- Mijente
-- National Immigration Law Center (NILC)
-Hotlines to Call if You See ICE
-If it is possible and safe for you to do so, take photos and videos of the raid or arrest.
+From the results of this Freedom of Information Act (FOIA) lawsuit, IDP produced the Defend Against ICE Raids and Community Arrests Toolkit , available in English and Spanish .
+To learn more about ICE's use of ruses, visit IDP's website section discussing ICE Ruses .
+IDP's flyers on the ways that ICE pretends to be local police available in both English and Spanish .
+Other KYR materials from IDP can be found here in English and Spanish .
+Informed Immigrant Know your rights guides for different scenarios.
+Mijente KYR to Defend Your Rights on your constitutional protections, with a focus on resisting racial profiling and discriminatory enforcement actions in English and Spanish.
+Muslims for Just Futures Range of KYR printables and posters: KYR Poster KYR Poster-Before and Arrest KYR Poster-Workplace NAKASEC's Know Your Rights Know Your Rights app (available for Apple Iphones and Android devices), downloadable guides in more than 19 languages, and a 24/7 hotline (1-844-500-3222) offering confidential support in English and Korean.
+National Lawyer Guild (NLG) Know Your Risks - KYR When Arrested: Legal Steps & Choices (September 2024); KYRs for Students & Educators; KYR for Protesters: A Guide for Protesters (June 2022); and KYR When Facing Law Enforcement: Classic KYR Booklets (May 2015) Know Your Rights During a Traffic Stop (June 2023) National Immigration Law Center (NILC) Know Your Constitutional Rights Fact Sheet - Summary of your constitutional rights during encounters with immigration officers or the police.
+Washington Lawyers' Committee KYR flyers ( English / Spanish / Mandarin / Korean / Arabic ) Information about your rights in the workplace and in the home.
+ICE and ISAP Check-Ins Asylum Seeker Advocacy Project (ASAP) ICE and ISAP Check-Ins - Certain immigrants, particularly those who have been detained, may be required to attend regular check-in appointments with Immigration and Customs Enforcement (ICE) or its Intensive Supervision Appearance Program (ISAP) as part of their immigration case.
+RIF NYC ICE Check-In Appointments: What You Need to Know Know Your Rights for Employers and Employees AILA - ICE Worksite Raid: Employer Rights ICE Worksite Raid: Employer Rights (PDF) National Immigration Law Center (NILC) Guide for employers for navigating immigration enforcement in the workplace found in English, Chinese, Korean, Spanish, and Thai.
+Form I-9 Audits or Inspections: Frequently Asked Questions - English & Spanish Legal Aid at Work Employment Rights of Undocumented Workers Discrimination and Harassment in Employment I-9 Audits & Work Authorization Know Your Rights as a Bystander & Helping Immigrants ACLU of Maryland KYR - Encountering Law Enforcement and Military Troops KYR Talking to People About Their Rights Mijente How to Be an Active Bystander at a Workplace Raid National Immigration Law Center (NILC) Know Your Rights: Everyone Has Certain Basic Rights, No Matter Who Is President Hotlines to Call if You See ICE If it is possible and safe for you to do so, take photos and videos of the raid or arrest.
 Also take notes on what happened.
-Use the S.A.L.U.T.E. method to report activity:
-- Size (number of officers)
-- Activity (what are they doing?)
-- Location
-- Uniform/clothes
-- Time and date
-- Equipment and weapons
-Easily create a message with the SALUTE elements here.
-- ICE Activity Tracker
-- Stop ICE Raids Alert Network
-- Migrant Solidarity Mutual Aid: (202) 335-1183 - Serving the DMV area to report ICE raids or other ICE activity.
+Use the S.A.L.U.T.E. method to report activity: S ize (number of officers) A ctivity (what are they doing?) L ocation U niform/clothes T ime and date E quipment and weapons Easily create a message with the SALUTE elements here.
+ICE Activity Tracker Stop ICE Raids Alert Network Migrant Solidarity Mutual Aid : (202) 335-1183 - Serving the DMV area to report ICE raids or other ICE activity.
 No legal advice will be given through this hotline.
-- CASA de Maryland Tip Hotline: 1-888-214-6016 - To report ICE activities and raids.
-- United We Dream: 1-844-363-1423 - Report and document raids and arrests.
+CASA de Maryland Tip Hotline : 1-888-214-6016 - To report ICE activities and raids.
+United We Dream : 1-844-363-1423 - Report and document raids and arrests.
 You can also send text messages to 877877.
-Videos
-- We Have Rights
-Asserting your rights videos in English, Spanish, French, Arabic, Chinese, Haitian Creole, Russian, and Urdu.
-- CASA - Maryland
-- United We Dream
-Making a Plan for You and Your Family
-Pro Se / Self-Help for Removal Proceedings
-- Executive Office for Immigration Review (EOIR)
-Student & Employment Visas
-- Student Visas: Study in the States (DHS)
-- Employment Visas: U.S.
-Citizenship and Immigration Services (USCIS)
-Detention - Locating a Detained Family Member
-- ICE Online Detainee Locator System
-- Locate someone in ICE custody (requires A-Number or biographical information)
-- Immigrant Defense Project (IDP)
-Hate Crimes, Discrimination & Maryland Civil Rights
-- Maryland Commission on Civil Rights
-(MCCR)
-- Report a Hate Crime / Bias-Related Incident
-- File a complaint of discrimination (Employment, Housing, Public Accommodations)
-- Maryland Office of the Attorney General
-- Hate Crimes Information and Resources
-- Hate Crimes Hotline: 1-866-481-8361
-- CAIR (Council on American-Islamic Relations) - Maryland
-Schools & Education
-- Maryland State Department of Education (MSDE)
-- Howard County Public School System (HCPSS)
-- MSEA (Maryland State Education Association)
-- Colorín Colorado
-Organizations Supporting Immigrants
-- CASA
-- Advocacy, legal services, and community organizing in Maryland.
-- Luminus (formerly FIRN)
-- Howard County based organization providing legal, social, and educational services.
-- HIAS
-- Support for refugees and displaced persons, including comprehensive legal assistance.
-- Tahirih Justice Center
-- Provides free legal and social services to immigrant survivors of gender-based violence.
-- Esperanza
-Center
-- Offers legal, health, and educational services to immigrants, including immigration legal aid.
-- Ayuda
-- Direct legal, social, and language services for low-income immigrants in the DMV area.
-- Amica Center
-- Provides support and legal advocacy for individuals in immigration detention.
-- Maryland
-Immigrant Rights Coalition (MIRC)
-- A coalition of organizations working to advance the rights and dignity of immigrants in Maryland.
+Videos We Have Rights Asserting your rights videos in English, Spanish, French, Arabic, Chinese, Haitian Creole, Russian, and Urdu.
+CASA - Maryland Know Your Rights (vimeo case) United We Dream Know Your Rights at Home (How to Respond to ICE) Know Your Rights in Public (Responding to ICE) Know Your Rights in the Workplace (Responding to ICE) Making a Plan for You and Your Family ILRC Step-by-Step Family Preparedness Plan / Plan de Preparación Familiar: (Guía Completa) Immigrant Defense Project (IDP) Comprehensive emergency planning material (English / Spanish) Pro Se / Self-Help for Removal Proceedings Executive Office for Immigration Review (EOIR) List of Pro Bono Legal Service Providers Baltimore Immigration Court Information EOIR Self-Help Materials Student & Employment Visas Student Visas: Study in the States (DHS) International Student Guide to Studying in the USA Employment Visas: U.S.
+Citizenship and Immigration Services (USCIS) Temporary (Nonimmigrant) Workers Information Permanent Workers Information Detention - Locating a Detained Family Member ICE Online Detainee Locator System Locate someone in ICE custody (requires A-Number or biographical information) Immigrant Defense Project (IDP) How to Locate a Detained Family Member Hate Crimes, Discrimination & Maryland Civil Rights Maryland Commission on Civil Rights (MCCR) Report a Hate Crime / Bias-Related Incident File a complaint of discrimination (Employment, Housing, Public Accommodations) Maryland Office of the Attorney General Hate Crimes Information and Resources Hate Crimes Hotline: 1-866-481-8361 CAIR (Council on American-Islamic Relations) - Maryland Report an incident of Islamophobia or discrimination Schools & Education Maryland State Department of Education (MSDE) English Learners (EL) and Title III Information Support for Immigrant Families Howard County Public School System (HCPSS) Supports for Immigrant Families International Student and Family Services MSEA (Maryland State Education Association) Red Cards Assert Rights and Protections to All People in the U.S.
+Colorín Colorado Guides for Parents of English Language Learners Organizations Supporting Immigrants CASA Advocacy, legal services, and community organizing in Maryland.
+Luminus (formerly FIRN) Howard County based organization providing legal, social, and educational services.
+HIAS Support for refugees and displaced persons, including comprehensive legal assistance.
+Tahirih Justice Center Provides free legal and social services to immigrant survivors of gender-based violence.
+Esperanza Center Offers legal, health, and educational services to immigrants, including immigration legal aid.
+Ayuda Direct legal, social, and language services for low-income immigrants in the DMV area.
+Amica Center Provides support and legal advocacy for individuals in immigration detention.
+Maryland Immigrant Rights Coalition (MIRC) A coalition of organizations working to advance the rights and dignity of immigrants in Maryland.
+Emergency & Bail/Bond Funds Baltimore Action Legal Team (BALT) Community Bail Fund National Bail Fund Network Directory of community bail funds Resources for Specific Populations Additional support and advocacy organizations for various communities.
+Asian American, Native American, Native Hawaiian, and Pacific Islander (AANANHPI) Communities Ashiyanaa Asian American Center of Frederick Asian Pacific American Legal Resource Center Association of Vietnamese Americans Cambodian Buddhist Society Chinese Culture and Community Center Japanese American Citizens League Korean Community Service Center of Greater Washington Latino/Hispanic Organizations CASA Latin American Youth Center Latino Providers Network OHLA - Organization of Hispanic Latin Americans of Anne Arundel County LGBTQ+ Organizations Freestate Justice Pride Center of Maryland Rainbow Youth Alliance The Trevor Project Religious Organizations Advocacy and community centers offering culturally specific support: Anti-Defamation League Baltimore Jewish Council Council on American-Islamic Relations Maryland Office Islamic Center of Maryland Jewish Community Relations Council of Greater Washington Jews United for Justice Muslim Community Center Muslims for Just Futures Sikh Coalition Disability, Mental Health & Behavioral Health Organizations NAMI of Howard County The Arc Maryland By Your Side Disability Rights Maryland Gigi's Playhouse Annapolis National Alliance on Mental Illness Maryland On Our Own of Maryland On Our Own of Maryland Affiliate Organizations Unhoused Organizations Grassroots Crisis Intervention Homeless Persons Representation Project Project PLASE Women Organizations Women's Law Center of Maryland Children and Youth KIND (Kids in Need of Defense) - Legal representation for unaccompanied children.
+Young Center for Immigrant Children's Rights DONATE TO POWER OUR RE-ELECTION $25 $50 $100 $250 $500 Other Building an equitable, thriving Howard County and Maryland through grassroots organizing and compassionate leadership.
+State Office Contact Delegate Gabriel Moreno 410-841-3471 Gabriel.Moreno@house.maryland.gov 225 Lowe House Office Building 6 Bladen Street Annapolis, MD 21401 Sign up for my Delegate Newsletter Campaign Contact Friends of Gabriel M.
+Moreno PO Box 6814, Columbia, MD 21045 240-962-5173 contact@morenoformaryland.com DONATE About Issues District 13 Info News Volunteer Donate © # Friends of Gabriel Moreno.
+All rights reserved. | Privacy Policy By authority: Friends of Gabriel M.
+Moreno.
+Jessica L.
+Moreno, Treasurer.

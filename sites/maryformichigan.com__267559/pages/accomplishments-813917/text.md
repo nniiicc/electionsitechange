@@ -1,15 +1,11 @@
-As a member of the Senate Appropriations Committee, and Chair of the Budget Subcommittees for Labor and Economic Development, Licensing and Regulatory Affairs, and Insurance and Financial Services, I fought hard to ensure state investments were made right here in District 6, including:
-- $6.5 million to Detroit Right to Counsel
-- $5.8 million for infrastructure projects in Redford Township
-- $2.5 million to Detroit Blight Busters
-- $2.5 million+ to Concert of Colors
-- $2 million to the Redford Wellness Center
-- $2 million for Senior Housing
-- $2.2 million to L!FE Leaders
-- $1.6 million for the North Rosedale Community House
-- $1.5 million to the Wilson-Clark Detroit Health and Healing Center
-- $1 million to Developing KIDS
-- $1 million to support housing in Grandmont-Rosedale
-- $300,000 to Brightmoor Connections Food Pantry
-- $100,000 to Kristen’s Touch
-- & more!
+0 Skip to Content MEET THE SENATOR PRIORITIES ACCOMPLISHMENTS ENDORSEMENTS VOTER INFO/ DISTRICT LINES GET INVOLVED Donate Open Menu Close Menu MEET THE SENATOR PRIORITIES ACCOMPLISHMENTS ENDORSEMENTS VOTER INFO/ DISTRICT LINES GET INVOLVED Donate Open Menu Close Menu MEET THE SENATOR PRIORITIES ACCOMPLISHMENTS ENDORSEMENTS VOTER INFO/ DISTRICT LINES GET INVOLVED Donate Delivering for District 6 Since being elected as your State Senator in 2022, I’m proud to have delivered on the important priorities that matter to you and your families.
+12 bills signed into law In my time serving as your State Senator, I’m proud to have gotten 12 pieces of legislation signed into law by Governor Gretchen Whitmer to: Codify key elements of the Affordable Care Act Prevent source of income discrimination in rental applications Protect consumers from predatory ticket bots that artificially raise the price of live event tickets Ensure every Michigander has access to reproductive healthcare Extend the disabled veterans property tax exemption to their surviving spouses and remove duplicative filing requirements for them to qualify Safeguard access to the ballot box & more!
+Over $100 million invested back into our communities As a member of the Senate Appropriations Committee, and Chair of the Budget Subcommittees for Labor and Economic Development, Licensing and Regulatory Affairs, and Insurance and Financial Services, I fought hard to ensure state investments were made right here in District 6, including: $6.5 million to Detroit Right to Counsel $5.8 million for infrastructure projects in Redford Township $2.5 million to Detroit Blight Busters $2.5 million+ to Concert of Colors $2 million to the Redford Wellness Center $2 million for Senior Housing $2.2 million to L!FE Leaders $1.6 million for the North Rosedale Community House $1.5 million to the Wilson-Clark Detroit Health and Healing Center $1 million to Developing KIDS $1 million to support housing in Grandmont-Rosedale $300,000 to Brightmoor Connections Food Pantry $100,000 to Kristen’s Touch & more!
+Transformational Investments in Key Areas As chair of the Labor and Economic Opportunity budget, I have focused on making investments in programs for initiatives that ensure our state is supporting our small businesses, championing equity, and bolstering our communities, including investments like: $100 million+ to support housing affordability $60 million to support small business start ups $37.8 million for the College Success Fund $35 million+ to support arts and culture initiatives $28 million for the skilled trades grant program $20 million+ for community development financial institutions $20 million for grants to address health and social services disparities $10 million for minority-owned business supports $20 million for grants to address health and social services disparities $3 million to support the new Michigander fund $35 million+ to support arts and culture initiatives Advancing our Shared Priorities I’m honored to have served as part of the first Democratic Trifecta in 40 years in Michigan.
+My colleagues and I advanced policies that will make Michigan a better place to live, work, and play, such as: Repealing so called “Right to Work” laws Repealing the Republican retirement tax Expanding the Working Families Tax Credit Protecting reproductive rights for all Codifying elements of the Affordable Care Act Ensuring we transition to equitable clean energy Free breakfast and lunch for all students Record per-pupil funding for our students, year after year & so much more.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+There's still work to do!
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Paid for by Committee to Elect Mary Cavanagh 14965 Aubrey, Redford Charter Twp, MI 48239 info@maryformichigan.com Follow Facebook Instagram Twitter

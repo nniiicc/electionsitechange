@@ -1,9 +1,4 @@
-Golf rope cap
-Bubble-free stickers
-Short-Sleeve T-Shirt
-Short-Sleeve T-Shirt small logo
-Help spread the word with my business card
-Independent voice yard sign
-Two party failure yard sign
-Status quo yard sign
-Power for people Yard sign
+top of page Home About the Candidate About the Issues Get involved Donations Shop Home All Products All Products All Products 9 products Sort by: Recommended Add to Cart Golf rope cap Price $35.00 Add to Cart Bubble-free stickers Price $8.00 Add to Cart Short-Sleeve T-Shirt Price $35.00 Add to Cart Short-Sleeve T-Shirt small logo Price $35.00 Add to Cart Help spread the word with my business card Price $25.00 Add to Cart Independent voice yard sign Price $30.00 Add to Cart Two party failure yard sign Price $30.00 Add to Cart Status quo yard sign Price $30.00 Add to Cart Power for people Yard sign Price $30.00 Join Our Unique Campaign and Get Involved Today! © # DEREK FOR CONGRESS.
+ALL RIGHTS RESERVED.
+PAID FOR BY DEREK FOR CONGRESS.
+ADVOCATING FOR STRUCTURAL REFORMS contact@derekforcongress.com Arlington, MA bottom of page

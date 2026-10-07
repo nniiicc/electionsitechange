@@ -1,9 +1,4 @@
-16
-May
-Thursday, 12:00 AM · 2019
-The abortion pendulum is moving
-AL.com
-Remember when I told you that the overreach of the left on abortion laws nationwide was going to cause a backlash?
+Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact News / The abortion pendulum is moving 16 May Thursday, 12:00 AM · 2019 The abortion pendulum is moving By Dana Hall McCain AL.com Remember when I told you that the overreach of the left on abortion laws nationwide was going to cause a backlash?
 That when that pendulum came flying back down it was going to leave a mark?
 Consider the abortion bill passed by the Alabama legislature and signed into law this week the first installment on that promise.
 By passing the nation’s most restrictive abortion law, pro-life advocates are setting the stage to provoke a legal fight they hope will culminate with the Supreme Court revisiting Roe v.
@@ -48,3 +43,5 @@ I’m going to expect to see you at that rally, too, church.
 Who knows if this Alabama law will make its way to the Supreme Court and cause Roe to be reversed?
 I’ve heard numerous legal experts in the last 48 hours with a wide range of opinions about the chances of this strategy ultimately working.
 But I do know this: if one more child draws a first breath and gets to live a life—an imperfect, challenging, messy life—because of it, it wasn’t a waste.
+Paid for By Clyde Chambliss Jr.
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

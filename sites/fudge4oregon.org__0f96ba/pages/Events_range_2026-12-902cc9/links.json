@@ -1,23 +1,86 @@
 [
-"https://campaignpartner.com/",
-"https://fudge4oregon.org/",
-"https://fudge4oregon.org/Events?range=2026-10",
-"https://fudge4oregon.org/Events?range=2026-10-05",
-"https://fudge4oregon.org/Events?range=2026-11",
-"https://fudge4oregon.org/Events?range=2026-W41",
-"https://fudge4oregon.org/Events?range=2027-1",
-"https://fudge4oregon.org/contact",
-"https://fudge4oregon.org/contribute",
-"https://fudge4oregon.org/district-info-hd-20",
-"https://fudge4oregon.org/events",
-"https://fudge4oregon.org/home",
-"https://fudge4oregon.org/issues",
-"https://fudge4oregon.org/meet_andrew",
-"https://fudge4oregon.org/news",
-"https://fudge4oregon.org/photos",
-"https://fudge4oregon.org/privacy-policy",
-"https://fudge4oregon.org/view-endorsements",
-"https://fudge4oregon.org/volunteer",
-"https://fudge4oregon.org/vote",
-"https://fudge4oregon.org/yard-sign"
+{
+"text": "#ago",
+"href": "https://www.fudge4oregon.org/Events?range=%23"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.fudge4oregon.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.fudge4oregon.org/contribute"
+},
+{
+"text": "District Info (HD 20)",
+"href": "https://www.fudge4oregon.org/district-info-hd-20"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fudge4oregon.org/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.fudge4oregon.org/events"
+},
+{
+"text": "Home",
+"href": "https://www.fudge4oregon.org/home"
+},
+{
+"text": "Issues",
+"href": "https://www.fudge4oregon.org/issues"
+},
+{
+"text": "Meet Andrew",
+"href": "https://www.fudge4oregon.org/meet_andrew"
+},
+{
+"text": "News",
+"href": "https://www.fudge4oregon.org/news"
+},
+{
+"text": "Next ›",
+"href": "https://www.fudge4oregon.org/Events?range=2027-1"
+},
+{
+"text": "Photos",
+"href": "https://www.fudge4oregon.org/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.fudge4oregon.org/privacy-policy"
+},
+{
+"text": "This Month",
+"href": "https://www.fudge4oregon.org/Events?range=2026-10"
+},
+{
+"text": "This Week",
+"href": "https://www.fudge4oregon.org/Events?range=2026-W41"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fudge4oregon.org/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.fudge4oregon.org/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.fudge4oregon.org/yard-sign"
+},
+{
+"text": "[image: Andrew Fudge]",
+"href": "https://www.fudge4oregon.org/"
+},
+{
+"text": "‹ Previous",
+"href": "https://www.fudge4oregon.org/Events?range=2026-11"
+}
 ]

@@ -1,10 +1,10 @@
-New Castle County's number two official has resigned her post with the intention of running for attorney general
-Kathy Jennings, who served as chief administrative officer under County Executive Matt Meyer, tendered her resignation Monday, January 8, 2018 and said she intends to formally announce her bid for the attorney general's office in the coming weeks.
+menu Meet Kathy News Get Involved Donate Yard Sign Request News Jennings running for attorney general, resigns top New Castle County post Jan 8, 2018 - WDEL New Castle County's number two official has resigned her post with the intention of running for attorney general Kathy Jennings, who served as chief administrative officer under County Executive Matt Meyer, tendered her resignation Monday, January 8, 2018 and said she intends to formally announce her bid for the attorney general's office in the coming weeks.
 "I've sent most of my career committed to the cause of justice...and frankly there is still work to be done, and I believe that I am the best person to do that job," said Jennings in an interview with WDEL.
 The Democrat spent 20 years with the Delaware Department of Justice, including several years as the former state prosecutor under former Attorney General Beau Biden; she had previously mulled a run for attorney general in 2014, but said, at the time, she wasn't ready to leave a "job she loved" and would instead support Attorney General Matt Denn.
 Denn is not planning to run for re-election.
 Since his announcement several candidates have jumped in the attorney general's race, including Democrat Tim Mullaney, who worked as an advisor to former County Executive Tom Gordon and is also a former Dover police officer.
 Prominent attorney Tom Neuberger has also entered the race as a Republican.
 "I welcome a challenge always," said Jennings.
-"Competition is a good thing for the people of the state of Delaware, it really will inform people who has the most experience, the most judgement, and quite frankly, who has the courage to make the tough decisions."
-If elected, she said her priorities would be administering justice in a fair and equal manner while also combating the opioid epidemic.
+"Competition is a good thing for the people of the state of Delaware, it really will inform people who has the most experience, the most judgement, and quite frankly, who has the courage to make the tough decisions." If elected, she said her priorities would be administering justice in a fair and equal manner while also combating the opioid epidemic.
+Paid for by Friends of Kathy Jennings Checks can be mailed to: P.O.
+Box 1077 Wilmington, DE 19899 Political Web Design by New Media Campaigns Meet Kathy News Get Involved Donate Yard Sign Request Connect With Kathy Email Zip

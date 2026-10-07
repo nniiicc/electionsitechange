@@ -1,4 +1,3 @@
-March 16, 2023
-Delegate Robbyn Lewis is highlighted as one of the several Black women in the Maryland General Assembly who are making waves of change.
-“I don’t want to be the last Black Woman to represent my district. [I] hope to hire young women and train and lift them to be leaders.”
-Read the full article here.
+Skip to content RobbynLewis.com About Open menu Priorities Robbyn’s Story Services Open menu Request Help About District 46 Initiatives Open menu Livable Streets Coalition Zero Waste Task Force Press Donate AFRO News: Women of color shine the Legislative Black Caucus of Maryland March 16, 2023 Delegate Robbyn Lewis is highlighted as one of the several Black women in the Maryland General Assembly who are making waves of change.
+“I don’t want to be the last Black Woman to represent my district. [ I ] hope to hire young women and train and lift them to be leaders.” Read the full article here .
+Published August 22, 2023 By admin Categorized as In the Media , News Tagged News Post navigation Previous WYPR Interview on Red Line prospects Next Living Change Podcast: Transit, Democracy, and Coalition Building @robbynlewis46th @robbynlewis46th info@robbynlewis.com 410.929.0555 Privacy Policy Authority: Friends of Robbyn Lewis, Tracey Lynn Lewis, Treasurer

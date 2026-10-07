@@ -1,6 +1,4 @@
-Cindy Banyai announces run for Florida House 78
-Self-declared opposition candidate vows to fight corruption, elite influence in politics
-Fort Myers, FL – Dr.
+top of page SUBSCRIBE HOME ABOUT CINDY NO SHIT BOLD ACTION NEWS EVENTS Menu Close DONATE Cindy Banyai announces run for Florida House 78 Jan 2 3 min read Self-declared opposition candidate vows to fight corruption, elite influence in politics Fort Myers, FL – Dr.
 Cindy Banyai announces her bid for Florida State House 78.
 She is a teacher and a small business owner from Fort Myers.
 “I’m stepping up to run for Florida House 78 because Tallahassee is nothing but a mess of political infighting and ridiculous political posturing while the people in our state are struggling.” Banyai says.
@@ -14,8 +12,7 @@ Banyai states.
 “We need leaders in Tallahassee that are ready to address the real problems we have, not focus on the political issues that divide us.
 I’m the opposition candidate ready to break the 30-years of one-party rule in Florida that has driven our state into the ground.
 We must end corruption.
-We must stop giveaways to big donors.”
-Cindy Banyai the fighter goes all the way back to her childhood.
+We must stop giveaways to big donors.” Cindy Banyai the fighter goes all the way back to her childhood.
 She watched her young parents struggle and sacrifice to give her opportunities to grow and chase her education dreams.
 As an undergraduate, Cindy studied international relations and psychology at Michigan State University.
 During this time, Cindy debuted as a pro boxer.
@@ -25,8 +22,7 @@ While living in Japan, Cindy was a sponsored pro boxer from 2005 to 2009.
 Boxing taught her how to prepare for a fight, plan attacks, anticipate your opponent, and use those advantages to win.
 Banyai continues, “I don’t pretend to be a wallflower Stepford wife.
 I say what I think, and I fight for what’s right.
-If you want someone who works for you, not the powerful elite donors and politicians, I am your choice for Florida House 78 in 2026.”
-When she returned to the US, Cindy moved to Fort Myers and settled in the community she has come to love.
+If you want someone who works for you, not the powerful elite donors and politicians, I am your choice for Florida House 78 in 2026.” When she returned to the US, Cindy moved to Fort Myers and settled in the community she has come to love.
 She grew her family --- adding three kids and pets as she built a life back in the states.
 Cindy has never strayed from being hands-on involved in the neighborhoods and with the people she cares about.
 Cindy teaches American Government at a local university, while also serving in leadership roles in regional non-profits.
@@ -37,8 +33,14 @@ Dr.
 Banyai has been a decorated professional in the field of community development for over 20 years, collaborating with nonprofits around the world on issues such as homelessness, addiction, education, conservation, and sustainable development.
 She is running for Florida House to be the servant leader Fort Myers deserves, fighting for our houses, our health, and our kids!
 Cindy Banyai believes together we can create a Fort Myers where the sun shines on everyone.
-###
-For more information on Cindy Banyai, press only:
-Cindy Banyai
-239-351-5574
-For more information on Cindy Banyai:
+### For more information on Cindy Banyai, press only: Cindy Banyai 239-351-5574 info@sweststrategies.com For more information on Cindy Banyai: CindyBanyai.com Recent Posts See All Fort Myers Has a Poop Problem.
+Growth Is a central issue.
+7 Florida Laws That Took Effect October 1 Florida’s Workplace Death Problem: The Workers Who Don’t Come Home CINDY BANYAI Subscribe to my newsletter EMAIL * SUBMIT Yes, subscribe me to your newsletter. * Help Take Back Tally FIRST NAME * LAST NAME * EMAIL * CHOOSE YOUR TOPIC Phone Bank Canvas Host a house party Online Resistance Team Share your special talents and skills (specify below) MESSAGE SUBMIT By providing your email and/or phone number you opt-in to updates from Cindy Banyai for Florida by text and/or email.
+Unsubscribe anytime.
+No mobile information will be shared by us with third parties/affiliates for marketing/promotional purposes.
+Text messaging originator opt-in data and consent will not be shared by us with any third parties.
+Message frequency varies.
+Message & Data Rates May Apply.
+Reply HELP for help.
+Reply STOP to opt out.
+HOME ABOUT CINDY NO SHIT BOLD ACTION EVENTS NEWS Menu Close VOTE@CINDYBANYAI.COM (239) 351-5574 PO BOX 62422 FORT MYERS, FL 33906 Privacy Policy | Terms & Conditions © # Southwest Strategies Paid for and approved by Cindy Banyai , Democrat for Florida House 78 HOME ABOUT CINDY NO SHIT BOLD ACTION EVENTS NEWS bottom of page

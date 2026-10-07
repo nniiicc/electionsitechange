@@ -1,8 +1,26 @@
 [
-"https://dollyhenley.com/",
-"https://dollyhenley.com/about",
-"https://dollyhenley.com/cart",
-"https://dollyhenley.com/news",
-"https://facebook.com/dollyhenley4staterep",
-"https://politics.raisethemoney.com/en/dhenley"
+{
+"text": "0",
+"href": "https://www.dollyhenley.com/cart"
+},
+{
+"text": "About Dolly",
+"href": "https://www.dollyhenley.com/about"
+},
+{
+"text": "Donate",
+"href": "https://politics.raisethemoney.com/en/dhenley"
+},
+{
+"text": "News",
+"href": "https://www.dollyhenley.com/news"
+},
+{
+"text": "[image: Dolly Henley for State Representative]",
+"href": "https://www.dollyhenley.com/"
+},
+{
+"text": "[image]",
+"href": "https://facebook.com/dollyhenley4staterep"
+}
 ]

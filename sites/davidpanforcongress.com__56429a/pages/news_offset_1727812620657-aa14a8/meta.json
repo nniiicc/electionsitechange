@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.davidpan4congress.com/news?offset=1727812620657",
+ "fingerprint": "d8371088c484cb6c5e9d6fdc64e8d05c8855d3b3",
+ "format": 3,
  "paid_for_by": "Paid for by David Pan for Congress 2026",
- "title": "News \u2014 David Pan for Congress",
- "years_mentioned": []
+ "title": "News — David Pan for Congress",
+ "years_mentioned": [
+  "2024",
+  "2026"
+ ]
 }

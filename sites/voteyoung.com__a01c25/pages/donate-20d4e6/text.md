@@ -1,16 +1,9 @@
-DONATE
-Credit, Debit, ApplePay, GooglePay and electronic donations via WinRed.
-DONATE BY CHECK
-Payable to: Marty Young for Congress
-Marty Young for Congress
-PO Box 7
-Pocopson, PA 19366-9998
-WIRE TRANSFER
-Contact us at info@voteyoung.com and we will provide detailed instructions.
+HOME PRIORITIES YOUNG AMERICANS PLAN FIX HEALTHCARE FIX HOUSING FIX PERSONAL DEBT THE OPEN CHAIR EVENTS MORE CONVERSATIONS WITH CONSTITUENTS MEDIA UPDATES VOLUNTEER FELLOWSHIP PROGRAM HOME PRIORITIES YOUNG AMERICANS PLAN FIX HEALTHCARE FIX HOUSING FIX PERSONAL DEBT THE OPEN CHAIR EVENTS MORE CONVERSATIONS WITH CONSTITUENTS MEDIA UPDATES VOLUNTEER FELLOWSHIP PROGRAM DONATE DONATE DONATE ONLINE Credit, Debit, ApplePay, GooglePay and electronic donations via WinRed.
+DONATE BY CHECK Payable to: Marty Young for Congress Marty Young for Congress PO Box 7 Pocopson, PA 19366-9998 WIRE TRANSFER Contact us at info@voteyoung.com and we will provide detailed instructions.
 Every dollar you contribute today powers this fight forward and helps deliver real solutions to the problems Washington ignores or can't fix.
-I'm Marty Young, a fourth-generation Pennsylvanian whose great-grandfather helped establish Philadelphia's Chinatown, a West Point graduate, Army Chaplain and Soldier, and a dad who's spent my life fixing what others can't or won't: turning around struggling companies to save tens of thousands of jobs (including right here at home in Pennsylvania), supporting soldiers and families through their toughest times, and bringing practical
-discipline to chaos.
+I'm Marty Young, a fourth-generation Pennsylvanian whose great-grandfather helped establish Philadelphia's Chinatown, a West Point graduate, Army Chaplain and Soldier, and a dad who's spent my life fixing what others can't or won't: turning around struggling companies to save tens of thousands of jobs (including right here at home in Pennsylvania), supporting soldiers and families through their toughest times, and bringing practical discipline to chaos.
 With your support right now, we'll protect our families (starting with real coverage for kids up to 23 and expectant moms through my Young Americans Plan), create good-paying jobs, secure our borders, cut waste, and hold Washington accountable with the backbone and experience to get it done.
 Join me in this battle.
 Donate today and let's win in 2026 with real results, not more excuses.
-Thank you from the bottom of my heart for standing with me.
+Thank you from the bottom of my heart for standing with me. -Marty Young PAID FOR BY MARTY YOUNG FOR CONGRESS P.O.
+Box 7 Pocopson, PA 19366-9998 info@voteyoung.com HOME DONATE VOLUNTEER PRIVACY & TERMS Share by:

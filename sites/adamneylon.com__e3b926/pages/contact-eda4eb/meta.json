@@ -1,7 +1,9 @@
 {
  "description": "Contact the Adam Neylon Campaign",
  "final_url": "https://www.adamneylon.com/contact",
- "paid_for_by": null,
+ "fingerprint": "b40fc46d7dbba8a79e160badaff0b9eea53b316c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact the Adam Neylon Campaign",
  "years_mentioned": []
 }

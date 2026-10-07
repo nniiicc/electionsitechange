@@ -1,18 +1,78 @@
 [
-"https://bsky.app/profile/mikedecillis.bsky.social",
-"https://decillisforcongress.com/",
-"https://decillisforcongress.com/about",
-"https://decillisforcongress.com/cart",
-"https://decillisforcongress.com/endorsements",
-"https://decillisforcongress.com/events",
-"https://decillisforcongress.com/issues",
-"https://decillisforcongress.com/news",
-"https://facebook.com/mikedecillisforcongress",
-"https://findmypollsite.vote.nyc/",
-"https://instagram.com/mike.decillis?hl=en",
-"https://secure.actblue.com/donate/mike-decillis-web",
-"https://silive.com/news/2026/04/congressional-candidate-mike-decillis-outlines-environmental-views-at-forum-sunday.html",
-"https://tiktok.com/@mike.decillis",
-"https://vote.nyc/page/register-vote",
-"https://x.com/MikeDeCillis"
+{
+"text": "0",
+"href": "https://www.decillisforcongress.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.decillisforcongress.com/about"
+},
+{
+"text": "Check Voter Registration",
+"href": "https://vote.nyc/page/register-vote"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mike-decillis-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.decillisforcongress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.decillisforcongress.com/events"
+},
+{
+"text": "Find My Polling Site",
+"href": "https://findmypollsite.vote.nyc/"
+},
+{
+"text": "Home",
+"href": "https://www.decillisforcongress.com/"
+},
+{
+"text": "News",
+"href": "https://www.decillisforcongress.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.decillisforcongress.com/issues"
+},
+{
+"text": "Register to Vote",
+"href": "https://vote.nyc/page/register-vote"
+},
+{
+"text": "[image: Decillis For Congress]",
+"href": "https://www.decillisforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/mikedecillis.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mikedecillisforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mike.decillis/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@mike.decillis"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MikeDeCillis"
+},
+{
+"text": "here",
+"href": "https://www.silive.com/news/2026/04/congressional-candidate-mike-decillis-outlines-environmental-views-at-forum-sunday.html"
+},
+{
+"text": "link to our ActBlue page",
+"href": "https://secure.actblue.com/donate/mike-decillis-web"
+}
 ]

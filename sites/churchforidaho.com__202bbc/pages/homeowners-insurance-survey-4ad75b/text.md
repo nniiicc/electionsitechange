@@ -1,4 +1,4 @@
-Have your home insurance rates doubled?
+0 Skip to Content Homeowners Insurance Survey Newsletter Archive Home Merch Store Volunteer Donate Open Menu Close Menu Homeowners Insurance Survey Newsletter Archive Home Merch Store Volunteer Donate Open Menu Close Menu Homeowners Insurance Survey Newsletter Archive Home Merch Store Volunteer Donate Have your home insurance rates doubled?
 Tripled?
 Or worse, did your insurer just drop you completely?
 You’re not alone.
@@ -9,3 +9,4 @@ Please take 60 seconds to fill out the Idaho Homeowner Insurance Survey.
 Every response helps me fight harder at the Statehouse next session.
 Let’s protect our homes, lower our rates, and build a fair system that works for Idaho families.
 Let’s do this together.
+Survey Link Paid for by Monica Church for Idaho | Kelly Andrus, Treasurer

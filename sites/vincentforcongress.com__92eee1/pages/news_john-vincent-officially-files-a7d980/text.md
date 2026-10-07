@@ -1,10 +1,16 @@
-PRESS RELEASE
-John Vincent Officially Files
-TODAY IS THE DAY!
-JOHN IS OFFICIALLY THE CANDIDATE
-At 2:00 PM, John Vincent officially filed his candidacy for South Carolina's 7th Congressional District at the State Election Commission in Columbia!
+Skip navigation menu Home About News Events Issues Endorsements Volunteer Official Store Donate Home About News Events Issues Endorsements Volunteer Official Store Donate NEWS ARTICLE Fry, Vincent outlines priorities in SC-7 race NEWS ARTICLE New Poll: Vincent and Fry in Statistical Dead Heat in South Carolina's 7th District NEWS ARTICLE Russell Fry Abandons SC-7 for a Shot at U.S.
+Senate PRESS RELEASE Democratic Candidates Forum Campaign News 1 Year Strong - # Days to Go!
+PRESS RELEASE Jaime Harrison Endorses John Vincent for U.S.
+Congress PRESS RELEASE Campaign Office Officially Open PRESS RELEASE John Vincent Officially Files In The News The SAVE Act SCAM - The Truth Revealed News Alert SC Measles Outbreak Local News Data Center Proposals: Balancing the Checkbook with Regional Reality In The News The ICE Shooting of Renee Good In The News Russell Fry Votes against Community Healthcare...
+Again John's Hot Take Stop the Insanity: Why I’m Running Against a Political Coward Hot Topic America Has Become What We Claim to Fight Against Campaign Update We're Fighting for you in 2026 Hot Topic Backgrounder 1.17 MILLION AMERICAN JOBS LOST IN 2025 Hot Topic BackGrounder Is Hegseth Guilty of War Crimes Campaign Blog This Thanksgiving, Let's Restore the Spirit That Built America News Backgrounder The Hidden Crisis of Seasonal Employment News Opinion Gun at No Kings Protest in Myrtle Beach Campaign News No Kings in Conway & Myrtle Beach SC Legislation Testimony Against State Bill 323 EDITORIAL Opinion Sometimes Principle Demands a Stand PRESS RELEASE JOHN VINCENT ENDORSES CANDIDATES IN KEY RACES PRESS RELEASE "FIGHT FOR DEMOCRACY FESTIVAL" DRAWS RECORD CROWD OF 350+ TV News WPDE: Democrat Aims to Unseat SC 7th District Incumbent State Legislation Testimony in Columbia Against State Bill 323 NEWS ARTICLE Forward Party Endorses U.S.
+House Candidate John Gregory Vincent for South Carolina Mar 19 2026 PRESS RELEASE John Vincent Officially Files TODAY IS THE DAY!
+JOHN IS OFFICIALLY THE CANDIDATE At 2:00 PM, John Vincent officially filed his candidacy for South Carolina's 7th Congressional District at the State Election Commission in Columbia!
 This is a HUGE milestone for our campaign.
 What started as a vision to bring real representation to the people of the Grand Strand and Pee Dee is now becoming OFFICIAL.
 John will be on the ballot in November, if no other Democrat files - and at this point we are unaware of anyone working to do so.
 Today, John and Deb ARE in Columbia together — just as they've built this campaign together, side by side, from day one.
 Check out the photos from the Election Commission office!
+#VincentForCongress #SC7 #PeopleOverPolitics #SouthCarolina #FilingDay Donate About News Events Issues Endorsements Media Volunteer Please mail checks to: John Vincent for Congress P.O.
+Box 31043, Myrtle Beach, SC 29588 To contact us, email info@VincentForCongress.com 843-300-9234 HOME ABOUT ISSUES STORE MEDIA John Vincent is a retired member of the United States Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by any branch of the U.S. government.
+Paid for by John Vincent for Congress You need to enable JavaScript to run this app.

@@ -1,28 +1,126 @@
 [
-"https://ajc.com/news/local/nuestra-comunidad-program-brings-love-reading-children/WlS3ftVb9YR2vqOzPuioEI",
-"https://arte-gadirectory.org/people/arte-ga",
-"https://artsatl.org/fiesta-de-libros",
-"https://buzzfeednews.com/article/arielzambelich/florida-families-evacuate-irma-to-georgia",
-"https://facebook.com/fiestadelibrosatlanta",
-"https://facebook.com/laura.murvartian",
-"https://instagram.com/murvartian4ga",
-"https://lauramurvartian.com/",
-"https://lauramurvartian.com/about",
-"https://lauramurvartian.com/accessibility-statement",
-"https://lauramurvartian.com/cart",
-"https://lauramurvartian.com/community",
-"https://lauramurvartian.com/contact",
-"https://lauramurvartian.com/endorsements",
-"https://lauramurvartian.com/home",
-"https://lauramurvartian.com/press",
-"https://lauramurvartian.com/priorities",
-"https://lauramurvartian.com/privacy-policy",
-"https://lauramurvartian.com/terms-of-use",
-"https://lauramurvartian.com/volunteer-events",
-"https://mankatofreepress.com/ice-operation-protesters-mix-courage-caution-in-minneapolis/article_ff4d9cf4-5862-43d0-a8dc-27cb9c3ec697.html",
-"https://nytimes.com/2026/01/30/us/minneapolis-ice-protests-bruce-springsteen-concert.html",
-"https://secure.actblue.com/donate/murvartianforgaweb",
-"https://startribune.com/woman-who-immigrated-as-a-child-thanks-her-minnesota-hometown-with-mural/600074751",
-"https://washingtonpost.com/national/2017/live-updates/weather/hurricane-irma-a-monster-storms-devastating-path/irma-families-find-open-arms-temporary-shelter-in-atlanta",
-"https://x.com/murvartian4ga"
+{
+"text": "0",
+"href": "https://www.lauramurvartian.com/cart"
+},
+{
+"text": "Accessibility",
+"href": "https://www.lauramurvartian.com/accessibility-statement"
+},
+{
+"text": "Community",
+"href": "https://www.lauramurvartian.com/community"
+},
+{
+"text": "Contact",
+"href": "https://www.lauramurvartian.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/murvartianforgaweb"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lauramurvartian.com/endorsements"
+},
+{
+"text": "Meet Laura",
+"href": "https://www.lauramurvartian.com/about"
+},
+{
+"text": "Press",
+"href": "https://www.lauramurvartian.com/press"
+},
+{
+"text": "Priorities",
+"href": "https://www.lauramurvartian.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lauramurvartian.com/privacy-policy"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.lauramurvartian.com/terms-of-use"
+},
+{
+"text": "Volunteer/Events",
+"href": "https://www.lauramurvartian.com/volunteer-events"
+},
+{
+"text": "[image: 53545844_1868043076641114_5999102360754847744_n.jpg]",
+"href": "https://www.facebook.com/fiestadelibrosatlanta"
+},
+{
+"text": "[image: 53558687_1868042923307796_4146782373008113664_n.jpg]",
+"href": "https://www.facebook.com/fiestadelibrosatlanta"
+},
+{
+"text": "[image: 53586715_1868043386641083_723786059065851904_n.jpg]",
+"href": "https://www.facebook.com/fiestadelibrosatlanta"
+},
+{
+"text": "[image: 67373884_10217383864281046_2113641921342603264_n.jpg]",
+"href": "https://www.facebook.com/fiestadelibrosatlanta"
+},
+{
+"text": "[image: 87832365_10219243503090854_2257083847525007360_n.jpg]",
+"href": "https://www.facebook.com/fiestadelibrosatlanta"
+},
+{
+"text": "[image: 87867976_10219171320326330_4171915916033916928_n.jpg]",
+"href": "https://www.facebook.com/fiestadelibrosatlanta"
+},
+{
+"text": "[image: AJC Article: Nuestra Comunidad]",
+"href": "https://www.ajc.com/news/local/nuestra-comunidad-program-brings-love-reading-children/WlS3ftVb9YR2vqOzPuioEI/"
+},
+{
+"text": "[image: Buzzfeed Article, Hurricane Irma]",
+"href": "https://www.buzzfeednews.com/article/arielzambelich/florida-families-evacuate-irma-to-georgia"
+},
+{
+"text": "[image: Fiesta de Libros]",
+"href": "https://www.artsatl.org/fiesta-de-libros/"
+},
+{
+"text": "[image: ICE Protest Article]",
+"href": "https://www.mankatofreepress.com/ice-operation-protesters-mix-courage-caution-in-minneapolis/article_ff4d9cf4-5862-43d0-a8dc-27cb9c3ec697.html"
+},
+{
+"text": "[image: Laura Murvartian]",
+"href": "https://www.lauramurvartian.com/"
+},
+{
+"text": "[image: NYT MN ICE Article]",
+"href": "https://www.nytimes.com/2026/01/30/us/minneapolis-ice-protests-bruce-springsteen-concert.html"
+},
+{
+"text": "[image: Star Tribune Article]",
+"href": "https://www.startribune.com/woman-who-immigrated-as-a-child-thanks-her-minnesota-hometown-with-mural/600074751"
+},
+{
+"text": "[image: Washington Post Article, Hurricane Irma]",
+"href": "https://www.washingtonpost.com/national/2017/live-updates/weather/hurricane-irma-a-monster-storms-devastating-path/irma-families-find-open-arms-temporary-shelter-in-atlanta/"
+},
+{
+"text": "[image: artega.png]",
+"href": "https://www.arte-gadirectory.org/people/arte-ga"
+},
+{
+"text": "[image]",
+"href": "https://www.lauramurvartian.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/laura.murvartian/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/murvartian4ga"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/murvartian4ga"
+}
 ]

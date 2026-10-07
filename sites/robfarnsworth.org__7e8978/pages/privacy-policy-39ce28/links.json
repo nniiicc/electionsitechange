@@ -1,10 +1,50 @@
 [
-"http://go.robfarnsworth.org/donate",
-"https://facebook.com/robfarnsworthmn",
-"https://robfarnsworth.org/",
-"https://robfarnsworth.org/author/rob",
-"https://robfarnsworth.org/campaign",
-"https://robfarnsworth.org/privacy-policy",
-"https://twitter.com/@RobFarnsworthMN",
-"https://youtube.com/channel/UC8wIDwx3ZorPAZ4HmNoA5Ig"
+{
+"text": "CAMPAIGN",
+"href": "https://robfarnsworth.org/campaign/"
+},
+{
+"text": "DONATE",
+"href": "http://go.robfarnsworth.org/donate"
+},
+{
+"text": "HOME",
+"href": "https://robfarnsworth.org/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://robfarnsworth.org/privacy-policy/"
+},
+{
+"text": "Rob Farnsworth",
+"href": "https://robfarnsworth.org/author/rob/"
+},
+{
+"text": "[image: Rob Farnsworth for MN State Senate]",
+"href": "https://robfarnsworth.org/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/robfarnsworthmn"
+},
+{
+"text": "[tooltip: PayPal]",
+"href": "http://go.robfarnsworth.org/donate"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://twitter.com/@RobFarnsworthMN"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/channel/UC8wIDwx3ZorPAZ4HmNoA5Ig"
+},
+{
+"text": "campaign@robfarnsworth.org",
+"href": "mailto:campaign@robfarnsworth.org"
+}
 ]

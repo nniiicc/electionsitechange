@@ -1,35 +1,142 @@
 [
-"http://voteidaho.gov/",
-"https://facebook.com/TerriForIdaho",
-"https://idahodems.org/how-to-vote",
-"https://instagram.com/terriforidaho",
-"https://secure.actblue.com/donate/terriforidaho-website",
-"https://store.terriforidaho.com/",
-"https://terriforidaho.com/",
-"https://terriforidaho.com/about",
-"https://terriforidaho.com/cart",
-"https://terriforidaho.com/contact",
-"https://terriforidaho.com/endorsements",
-"https://terriforidaho.com/events",
-"https://terriforidaho.com/get-involved",
-"https://terriforidaho.com/issues",
-"https://terriforidaho.com/learn-more",
-"https://terriforidaho.com/media",
-"https://terriforidaho.com/terrisblog",
-"https://terriforidaho.com/volunteer-sign-up",
-"https://terriforidaho.com/voting",
-"https://terriforidaho.com/yard-signs",
-"https://threads.com/@terriforidaho",
-"https://tiktok.com/terriforidaho",
-"https://votefromabroad.org/",
-"https://voteidaho.gov/",
-"https://voteidaho.gov/accessible-voting",
-"https://voteidaho.gov/become-an-election-worker",
-"https://voteidaho.gov/casting-your-ballot",
-"https://voteidaho.gov/guide-to-vote-in-person",
-"https://votertools.voteidaho.gov/electionlink/electionlink/ApplicationInstructions.aspx?_gl=1%2Apd38on%2A_ga%2AMjAwODU5NDU1OC4xNzAyMzMyMDA1%2A_ga_20546Y1CC5%2AczE3NzE1MjU5ODMkbzExNCRnMSR0MTc3MTUyNjI3MyRqNTEkbDAkaDA.",
-"https://votertools.voteidaho.gov/electionlink/electionlink/BeginAbsenteeRequest.aspx?_gl=1%2A1q8tc1t%2A_ga%2AMjAwODU5NDU1OC4xNzAyMzMyMDA1%2A_ga_20546Y1CC5%2AczE3NzE1MjU5ODMkbzExNCRnMSR0MTc3MTUyNjI3MyRqNTEkbDAkaDA.",
-"https://votertools.voteidaho.gov/electionlink/electionlink/ViewPollingLocation.aspx?_gl=1%2A7pj9n0%2A_ga%2AMjAwODU5NDU1OC4xNzAyMzMyMDA1%2A_ga_20546Y1CC5%2AczE3NzUwODAxNjAkbzEyNCRnMCR0MTc3NTA4MDE2MCRqNjAkbDAkaDA.",
-"https://votertools.voteidaho.gov/electionlink/electionlink/VoterSearch.aspx?_gl=1%2Apd38on%2A_ga%2AMjAwODU5NDU1OC4xNzAyMzMyMDA1%2A_ga_20546Y1CC5%2AczE3NzE1MjU5ODMkbzExNCRnMSR0MTc3MTUyNjI3MyRqNTEkbDAkaDA.",
-"https://youtube.com/@terriforidaho"
+{
+"text": "0",
+"href": "https://www.terriforidaho.com/cart"
+},
+{
+"text": "About Terri",
+"href": "https://www.terriforidaho.com/about"
+},
+{
+"text": "Accessible Voting",
+"href": "https://voteidaho.gov/accessible-voting/"
+},
+{
+"text": "Back",
+"href": "https://www.terriforidaho.com/"
+},
+{
+"text": "Become an Election Worker",
+"href": "https://voteidaho.gov/become-an-election-worker/"
+},
+{
+"text": "Check Your Voter Record",
+"href": "https://votertools.voteidaho.gov/electionlink/electionlink/VoterSearch.aspx"
+},
+{
+"text": "Contact Us",
+"href": "https://www.terriforidaho.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/terriforidaho-website"
+},
+{
+"text": "Early Voting Information",
+"href": "https://voteidaho.gov/casting-your-ballot/#vote-early"
+},
+{
+"text": "Endorsements",
+"href": "https://www.terriforidaho.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.terriforidaho.com/events"
+},
+{
+"text": "Find Your Polling Location",
+"href": "https://votertools.voteidaho.gov/electionlink/electionlink/ViewPollingLocation.aspx"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.terriforidaho.com/get-involved"
+},
+{
+"text": "Folder: Learn More",
+"href": "https://www.terriforidaho.com/learn-more"
+},
+{
+"text": "Idaho Dems Voting Guide",
+"href": "https://idahodems.org/how-to-vote/"
+},
+{
+"text": "In-Person Voting Guide",
+"href": "https://voteidaho.gov/guide-to-vote-in-person/"
+},
+{
+"text": "Issues",
+"href": "https://www.terriforidaho.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.terriforidaho.com/media"
+},
+{
+"text": "Military Voting Guide",
+"href": "https://voteidaho.gov/casting-your-ballot/#military-voting"
+},
+{
+"text": "Register to Vote",
+"href": "https://votertools.voteidaho.gov/electionlink/electionlink/ApplicationInstructions.aspx"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://votertools.voteidaho.gov/electionlink/electionlink/BeginAbsenteeRequest.aspx"
+},
+{
+"text": "Store",
+"href": "https://store.terriforidaho.com/"
+},
+{
+"text": "Terri Pickens for Governor",
+"href": "https://www.terriforidaho.com/"
+},
+{
+"text": "Terri's Blog",
+"href": "https://www.terriforidaho.com/terrisblog"
+},
+{
+"text": "Volunteer",
+"href": "https://www.terriforidaho.com/volunteer-sign-up"
+},
+{
+"text": "VoteFromAbroad.Org",
+"href": "https://votefromabroad.org"
+},
+{
+"text": "VoteIdaho.Gov",
+"href": "https://voteidaho.gov/"
+},
+{
+"text": "VoteIdaho.gov",
+"href": "http://voteidaho.gov"
+},
+{
+"text": "Voting",
+"href": "https://www.terriforidaho.com/voting"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.terriforidaho.com/yard-signs"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/terriforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TerriForIdaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/terriforidaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@terriforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@terriforidaho"
+}
 ]

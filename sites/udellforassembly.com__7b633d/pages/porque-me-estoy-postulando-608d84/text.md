@@ -1,5 +1,4 @@
-Porque me estoy Postulando
-Con mi experiencia en el gobierno local, es mi creencia profunda que el gobierno funciona mejor cuando unimos a la gente para juntos solucionar los problemas más duros.
+0 Skip to Content Home Bio Bio Bio de Randy Udell Why I'm Running Why I'm Running Porque Me Estoy Postulando Issues Issues Sobre Los Temas Endorsements 47th District Contact Contribute Open Menu Close Menu Home Bio Bio Bio de Randy Udell Why I'm Running Why I'm Running Porque Me Estoy Postulando Issues Issues Sobre Los Temas Endorsements 47th District Contact Contribute Open Menu Close Menu Home Folder: Bio Back Bio Bio de Randy Udell Folder: Why I'm Running Back Why I'm Running Porque Me Estoy Postulando Folder: Issues Back Issues Sobre Los Temas Endorsements 47th District Contact Contribute Porque me estoy Postulando Con mi experiencia en el gobierno local, es mi creencia profunda que el gobierno funciona mejor cuando unimos a la gente para juntos solucionar los problemas más duros.
 Quiero seguir llevando esos valores a la Asamblea Estatal.
 Cuando mi esposo Brad y yo nos mudamos a Seminole Forest hace veintiocho años, nos enamoramos del área de Fitchburg.
 Atesoramos la cultura vibrante de Fitchburg, la mezcla de los ambientes urbanos y rurales, nuestros parques hermosos y sobre todo los residentes cariñosos y comprometidos que viven aquí.
@@ -13,5 +12,5 @@ Me gustaría usar la perspectiva y la experiencia que he adquirido de mi tiempo 
 Progresamos cuando todos pueden tener voz.
 Como concejal del Distrito 4 y supervisor de la Junta del Condado de Dane, me he centrado en unir a la gente.
 Mi estilo consiste de escuchar más de lo que hablo, considero todos los puntos de vista, y colaboro para encontrar las mejores soluciones.
-Os pido vuestro apoyo para seguir representando al Distrito 47 el martes 3 de noviembre.
-¡Sigamos haciendo avanzar al Distrito 47 y al estado, juntos!
+Os pido vuestro apoyo para seguir representando al Distrito 47 el martes 3 de noviembre. ¡Sigamos haciendo avanzar al Distrito 47 y al estado, juntos!
+El Anteproyecto de Randy para Wisconsin SOBRE LOS TEMAS FOLLOW ALONG Contact CONTRIBUTE Paid for by the Committee to Elect Randy Udell © # Committee to elect randy udell — All Rights Reserved photos of randy with politicians and other public figures does not imply an endorsement or affiliation

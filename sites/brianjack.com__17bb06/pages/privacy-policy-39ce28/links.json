@@ -1,11 +1,38 @@
 [
-"http://brianjack.com/privacy-policy",
-"https://app.campaign-crypto.com/jack4c",
-"https://brianjack.com/",
-"https://brianjack.com/issues",
-"https://facebook.com/profile.php?id=61557356693251&mibextid=LQQJ4d",
-"https://instagram.com/brianjackforcongress",
-"https://secure.winred.com/brian-jack-for-congress/homepage-donatenow",
-"https://truthsocial.com/@brianjack",
-"https://x.com/briantjack"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/brian-jack-for-congress/homepage-donatenow"
+},
+{
+"text": "Donate Using Crypto",
+"href": "https://app.campaign-crypto.com/jack4c/"
+},
+{
+"text": "Issues",
+"href": "https://brianjack.com/issues/"
+},
+{
+"text": "TERMS & CONDITIONS / PRIVACY POLICY",
+"href": "http://brianjack.com/privacy-policy"
+},
+{
+"text": "[image: Brian Jack for Congress]",
+"href": "https://brianjack.com"
+},
+{
+"text": "[image: Image]",
+"href": "https://truthsocial.com/@brianjack"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61557356693251&mibextid=LQQJ4d"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/brianjackforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/briantjack"
+}
 ]

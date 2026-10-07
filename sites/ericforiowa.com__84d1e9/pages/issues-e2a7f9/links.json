@@ -1,16 +1,74 @@
 [
-"http://facebook.com/ericforiowa",
-"http://instagram.com/ericforiowa",
-"http://twitter.com/ericforiowa",
-"https://ericforiowa.com/_files/ugd/2e776b_a6ec5763114c4107a4eae1e057073936.pdf",
-"https://ericforiowa.com/about-eric",
-"https://ericforiowa.com/contact-me",
-"https://ericforiowa.com/copy-of-home",
-"https://ericforiowa.com/getinvolved",
-"https://ericforiowa.com/issues",
-"https://ericforiowa.com/news",
-"https://ericforiowa.com/photos",
-"https://facebook.com/EricForIowa",
-"https://secure.actblue.com/contribute/page/efi",
-"https://twitter.com/EricForIowa"
+{
+"text": "CONTACT ME",
+"href": "https://www.ericforiowa.com/contact-me"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/contribute/page/efi"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.ericforiowa.com/getinvolved"
+},
+{
+"text": "HOME",
+"href": "https://www.ericforiowa.com/copy-of-home"
+},
+{
+"text": "MEET ERIC",
+"href": "https://www.ericforiowa.com/about-eric"
+},
+{
+"text": "NEWS",
+"href": "https://www.ericforiowa.com/news"
+},
+{
+"text": "PHOTOS",
+"href": "https://www.ericforiowa.com/photos"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.ericforiowa.com/issues"
+},
+{
+"text": "Quick Donate $100",
+"href": "https://secure.actblue.com/contribute/page/efi"
+},
+{
+"text": "Quick Donate $25",
+"href": "https://secure.actblue.com/contribute/page/efi"
+},
+{
+"text": "Quick Donate $50",
+"href": "https://secure.actblue.com/contribute/page/efi"
+},
+{
+"text": "[image: Facebook - White Circle]",
+"href": "https://www.facebook.com/EricForIowa/"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "http://www.facebook.com/ericforiowa"
+},
+{
+"text": "[image: Instagram Social Icon]",
+"href": "http://www.instagram.com/ericforiowa"
+},
+{
+"text": "[image: Issue Statements-7.pdf]",
+"href": "https://www.ericforiowa.com/_files/ugd/2e776b_a6ec5763114c4107a4eae1e057073936.pdf"
+},
+{
+"text": "[image: Twitter - White Circle]",
+"href": "https://twitter.com/EricForIowa"
+},
+{
+"text": "[image: Twitter Social Icon]",
+"href": "http://www.twitter.com/ericforiowa"
+},
+{
+"text": "eric.gjerde@legis.iowa.gov",
+"href": "mailto:eric.gjerde@legis.iowa.gov"
+}
 ]

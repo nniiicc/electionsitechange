@@ -1,17 +1,3 @@
-HOME
-MEET ANTHONY
-PRIORITIES
-ENDORSEMENTS
-EVENTS
-ENGAGE
-STAY UP TO DATE
-CONTACT
-More...
-Andre Johnson
-Maryland House of Delegates (34A)
-Steve Johnson
-Maryland House of Delegates (34A)
-Jacob Bennett
-Harford County Council (F)
-Nolanda Robert
-Harford County Council (A)
+top of page HOME MEET ANTHONY PRIORITIES ENDORSEMENTS EVENTS ENGAGE STAY UP TO DATE CONTACT More...
+Use tab to navigate through the menu items.
+DONATE PROUDLY ENDORSED BY ELECTED OFFICIALS Andre Johnson Maryland House of Delegates (34A) Steve Johnson Maryland House of Delegates (34A) Jacob Bennett Harford County Council (F) Nolanda Robert Harford County Council (A) ORGANIZATIONS Authority: Citizens for Anthony Lyon, Ashley Taylor, Treasurer bottom of page

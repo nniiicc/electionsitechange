@@ -1,11 +1,1 @@
-Skip to the content
-Craig Riedel for State Senate
-Menu
-Home
-Meet Craig
-On the Issues
-Media
-Endorsements
-Contact
-Donate
-Media
+Skip to the content Craig Riedel for State Senate Menu Home Meet Craig On the Issues Media Endorsements Contact Donate Close Menu Home Meet Craig On the Issues Media Endorsements Contact Donate Media Craig Riedel for State Senate To the top ↑ Up ↑

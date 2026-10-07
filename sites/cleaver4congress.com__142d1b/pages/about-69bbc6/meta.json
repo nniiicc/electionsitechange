@@ -1,13 +1,19 @@
 {
  "description": "Learn about Congressman Emanuel Cleaver II, his leadership, policy initiatives, and community efforts in Missouri's Fifth District.",
  "final_url": "https://www.cleaver4congress.com/about",
- "paid_for_by": null,
- "title": "About | Get Involved Today \u2014 Cleaver for Congress",
+ "fingerprint": "30ab79111f9241e26b59cad14123ef849b8f138f",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "About | Get Involved Today — Cleaver for Congress",
  "years_mentioned": [
+  "1991",
+  "2008",
+  "2009",
   "2016",
   "2018",
   "2021",
   "2022",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

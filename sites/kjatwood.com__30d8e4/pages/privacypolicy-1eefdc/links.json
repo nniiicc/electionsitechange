@@ -1,14 +1,58 @@
 [
-"https://bsky.app/profile/kjforsc.bsky.social",
-"https://facebook.com/KJforSC",
-"https://halfdreamingagency.com/",
-"https://instagram.com/kjatwood?igsh=MWJobTV3OGxsZTY4Mg%3D%3D",
-"https://kjatwood.com/",
-"https://kjatwood.com/about",
-"https://kjatwood.com/policy",
-"https://kjatwood.com/volunteer",
-"https://linkedin.com/in/kjatwood",
-"https://secure.actblue.com/donate/kj.atwood",
-"https://tiktok.com/@kjforsc?_r=1&_t=ZT-93adoKOtU1G",
-"https://youtube.com/@KJforCongress"
+{
+"text": "About",
+"href": "https://www.kjatwood.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kj.atwood"
+},
+{
+"text": "Half Dreaming Creative Agency",
+"href": "https://www.halfdreamingagency.com/"
+},
+{
+"text": "Hello@KJAtwood.com",
+"href": "mailto:Hello@KJAtwood.com"
+},
+{
+"text": "Hello@KJAtwood.com",
+"href": "mailto:hello@kjatwood.com?subject=Media+Inquiry"
+},
+{
+"text": "Home",
+"href": "https://www.kjatwood.com/"
+},
+{
+"text": "Policy",
+"href": "https://www.kjatwood.com/policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kjatwood.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/kjforsc.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KJforSC"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kjatwood?igsh=MWJobTV3OGxsZTY4Mg%3D%3D"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/kjatwood/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@kjforsc?_r=1&_t=ZT-93adoKOtU1G"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@KJforCongress"
+}
 ]
